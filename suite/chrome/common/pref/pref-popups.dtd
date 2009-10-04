@@ -26,5 +26,8 @@
 <!ENTITY displayIcon.label              "Visa en ikon i statusfältet">
 <!ENTITY displayIcon.accesskey          "V">
 
+<!ENTITY displayNotification.label      "Visa meddelande i innehållsfönstrets överkant">
+<!ENTITY displayNotification.accesskey  "m">
+
 <!ENTITY popupNote.description          "Obs! Om du blockerar extrafönster kan en del viktiga funktioner på vissa webbplatser upphöra att fungera, till exempel bankers och shoppingplatsers inloggningsfönster. Klicka på Hjälp om du vill veta mer om hur du låter vissa webbplatser öppna fönster samtidigt som du blockerar andra. Blockerade webbplatser kan kringgå detta och använda andra metoder att öppna extrafönster.">
 

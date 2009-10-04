@@ -4,6 +4,7 @@
 <!ENTITY description.label "&brandShortName; kan sortera individuella mappar. Använd dessa alternativ för att anpassa ordningen i denna mapp.">
 
 <!ENTITY sortBy.label "Sortera på:">
+<!ENTITY sortBy.accesskey "S">
 <!ENTITY sortBy.name.label "Namn">
 <!ENTITY sortBy.url.label "Adress">
 <!ENTITY sortBy.shortcutUrl.label "Nyckelord">
@@ -13,8 +14,11 @@
 <!ENTITY sortBy.lastVisitDate.label "Senast besökt">
 
 <!ENTITY sortOrder.label "I ordning:">
+<!ENTITY sortOrder.accesskey "o">
 <!ENTITY sortAscending.label "Stigande">
 <!ENTITY sortDescending.label "Fallande">
 
 <!ENTITY sortFoldersFirst.label "Placera mappar först">
+<!ENTITY sortFoldersFirst.accesskey "m">
 <!ENTITY sortRecursively.label "Behåll (upprepa) ordningen">
+<!ENTITY sortRecursively.accesskey "B">

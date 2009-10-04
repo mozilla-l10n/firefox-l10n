@@ -50,6 +50,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Markera allt">
 <!ENTITY  selectall.accesskey   "M">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Allmänt">
@@ -64,8 +65,8 @@
 <!ENTITY  generalEncoding       "Kodning:">
 <!ENTITY  generalMetaName       "Namn:">
 <!ENTITY  generalMetaContent    "Innehåll:">
-<!ENTITY  generalSecurityMore   "Mer">
-<!ENTITY  generalSecurityMore.accesskey "e">
+<!ENTITY  generalSecurityDetails           "Detaljer">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formulär">
 <!ENTITY  formsTab.accesskey        "F">
@@ -116,6 +117,7 @@
 <!ENTITY  permTab               "Tillåtelser">
 <!ENTITY  permTab.accesskey     "T">
 <!ENTITY  permUseDefault        "Använd förinställning">
+<!ENTITY  permAskAlways         "Fråga alltid">
 <!ENTITY  permAllow             "Tillåt">
 <!ENTITY  permAllowSession      "Tillfälliga">
 <!ENTITY  permBlock             "Blockera">
@@ -124,6 +126,7 @@
 <!ENTITY  permPopup             "Öppna extrafönster">
 <!ENTITY  permCookie            "Lagra kakor">
 <!ENTITY  permInstall           "Installera tillägg eller teman">
+<!ENTITY  permGeo               "Meddela plats">
 
 <!ENTITY  securityTab           "Säkerhet">
 <!ENTITY  securityTab.accesskey "S">

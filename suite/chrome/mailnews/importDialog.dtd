@@ -40,11 +40,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY importDialog.windowTitle "Importera">
-<!ENTITY importDialog.allTitle    "Importera allting">
-<!ENTITY importDialog.mailTitle   "E-post">
-<!ENTITY importDialog.addressbookTitle "Adressböcker">
-<!ENTITY importDialog.settingsTitle "Inställningar">
-<!ENTITY importDialog.filtersTitle "Filter">
+<!ENTITY importAll.label          "Importera allting">
+<!ENTITY importAll.accesskey      "a">
+<!ENTITY importMail.label         "E-post">
+<!ENTITY importMail.accesskey     "E">
+<!ENTITY importAddressbook.label  "Adressböcker">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Inställningar">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -56,6 +61,7 @@
 <!ENTITY importDescription2.label "När de väl har importerats kan du använda dem i &brandShortName; E-post och/eller adressboken.">
 
 <!ENTITY selectDescription.label  "Välj det program som du vill importera från:">
+<!ENTITY selectDescription.accesskey "p">
 
 <!ENTITY back.label               "&lt; Bakåt">
 <!ENTITY forward.label            "Nästa &gt;">
@@ -70,5 +76,7 @@
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har bara en e-postadress per kontaktkort medan &brandShortName; har två (Privat och Arbete).">
 <!ENTITY FieldDiscInputText2.label	"Välj till vilken kategori du vill importera e-postadresserna:">
 <!ENTITY FieldDiscWarning.label  "Denna kategori kommer att användas för alla poster i den valda adressboken: ">
-<!ENTITY importDialog.homeTitle   "Privat">
-<!ENTITY importDialog.workTitle "Arbete">
+<!ENTITY importHome.label        "Privat">
+<!ENTITY importHome.accesskey    "P">
+<!ENTITY importWork.label        "Arbete">
+<!ENTITY importWork.accesskey    "A">

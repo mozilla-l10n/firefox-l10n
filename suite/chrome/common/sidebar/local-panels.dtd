@@ -39,7 +39,6 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label  "Liknande platser">
 <!ENTITY sidebar.search.label         "Sök">
 <!ENTITY sidebar.client-bookmarks.label     "Bokmärken">
 <!ENTITY sidebar.client-history.label       "Historik">

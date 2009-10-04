@@ -86,8 +86,6 @@
 
 <!ENTITY menuitem.view.command.toolbar.label        "Verktygsfält">
 <!ENTITY menuitem.view.command.toolbar.accesskey    "t">
-<!ENTITY menuitem.view.command.searchbar.label      "Sökfält">
-<!ENTITY menuitem.view.command.searchbar.accesskey  "S">
 <!ENTITY menuitem.view.show_columns.label           "Visa kolumner">
 <!ENTITY menuitem.view.show_columns.accesskey       "s">
 <!ENTITY menuitem.newbookmarkfolder.label           "Ange som mapp för nya bokmärken">
@@ -98,22 +96,29 @@
 <!ENTITY menuitem.personaltoolbarfolder.accesskey   "p">
 
 <!ENTITY treecol.name.label             "Namn">
+<!ENTITY treecol.name.accesskey         "N">
 <!ENTITY treecol.name.tooltip           "Klicka för att sortera på namn">
 <!ENTITY treecol.url.label              "Adress">
+<!ENTITY treecol.url.accesskey          "A">
 <!ENTITY treecol.url.tooltip            "Klicka för att sortera på adress">
 <!ENTITY treecol.shortcut.label         "Nyckelord">
+<!ENTITY treecol.shortcut.accesskey     "y">
 <!ENTITY treecol.shortcut.tooltip       "Klicka för att sortera på nyckelord">
 <!ENTITY treecol.description.label      "Beskrivning">
+<!ENTITY treecol.description.accesskey  "B">
 <!ENTITY treecol.description.tooltip    "Klicka för att sortera på beskrivning">
 <!ENTITY treecol.addedon.label          "Tillagd den">
+<!ENTITY treecol.addedon.accesskey      "T">
 <!ENTITY treecol.addedon.tooltip        "Klicka för att sortera på tillagdsdatum">
 <!ENTITY treecol.lastmod.label          "Senast ändrad">
+<!ENTITY treecol.lastmod.accesskey      "S">
 <!ENTITY treecol.lastmod.tooltip        "Klicka för att sortera på senast ändrad">
 <!ENTITY treecol.lastvisit.label        "Senast besökt">
+<!ENTITY treecol.lastvisit.accesskey    "e">
 <!ENTITY treecol.lastvisit.tooltip      "Klicka för att sortera på senast besökt">
 
 <!ENTITY bookmarksWindowTitle.label	"Hantera bokmärken">
 
-<!ENTITY search.label                     "Sök">
-<!ENTITY search.accesskey                 "S">
+<!ENTITY search.emptytext               "Sök bokmärken">
+<!ENTITY search.key                     "S">
 

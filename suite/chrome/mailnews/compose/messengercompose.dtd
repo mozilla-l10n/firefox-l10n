@@ -83,9 +83,9 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "V">
 
-<!ENTITY checkSpellingCmd.label "Kontrollera stavningen…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.accesskey "t">
+<!ENTITY checkSpellingCmd2.label "Kontrollera stavningen…">
+<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.accesskey "t">
 <!ENTITY enableInlineSpellChecker.label "Automatisk stavningskontroll">
 <!ENTITY enableInlineSpellChecker.accesskey "u">
 

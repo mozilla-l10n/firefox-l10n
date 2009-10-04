@@ -1,6 +1,7 @@
 <!ENTITY  pref.navigator.title      "Webbläsare">
 
-<!ENTITY  navRadio                  "Visa vid:">
+<!ENTITY navRadio.label                 "Visa vid">
+<!ENTITY navRadio.accesskey             "a">
 <!ENTITY  navStartPageMenu.label    "Programstart">
 <!ENTITY  newWinPageMenu.label      "Nytt fönster">
 <!ENTITY  newTabPageMenu.label      "Ny flik">
@@ -11,6 +12,8 @@
 <!ENTITY  homePageRadio.accesskey   "i">
 <!ENTITY  lastPageRadio.label       "Senast besökta sidan">
 <!ENTITY  lastPageRadio.accesskey   "S">
+<!ENTITY restoreSessionRadio.label      "Återställ föregående session">
+<!ENTITY restoreSessionRadio.accesskey  "e">
 
 <!ENTITY  header2.label             "Startsida">
 <!ENTITY  homePageIntro.label       "Den sida eller grupp av sidor som visas när du klickar på ikonen Startsida.">
@@ -30,15 +33,6 @@
 <!ENTITY  goButton.accesskey        "G">
 <!ENTITY  searchButton.label        "Sök">
 <!ENTITY  searchButton.accesskey    "ö">
-<!ENTITY  printButton.label         "Skriv ut">
-<!ENTITY  printButton.accesskey     "k">
-
-<!ENTITY  persToolbarIntro.label    "Eget verktygsfält">
-<!ENTITY  homeButton.label          "Startsida">
-<!ENTITY  homeButton.accesskey      "r">
-<!ENTITY  bookmarksButton.label     "Bokmärken">
-<!ENTITY  bookmarksButton.accesskey "B">
-
 <!ENTITY defaultBrowserGroup.label      "Förvald webbläsare">
 <!ENTITY defaultBrowserButton.label     "Gör till förvald webbläsare">
 <!ENTITY defaultBrowserButton.accesskey "w">

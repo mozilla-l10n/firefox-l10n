@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS-prenumerationer">
+<!ENTITY feedSubscriptions.label "Kanalprenumerationer">
 <!ENTITY subscriptionDesc.label "OBS! Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY location.label  "Adress:">

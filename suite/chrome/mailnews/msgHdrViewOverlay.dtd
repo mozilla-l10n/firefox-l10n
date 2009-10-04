@@ -60,8 +60,10 @@
 <!ENTITY originalWebsite.label "Webbplats: ">
 
 <!ENTITY editMessage.label "Redigera utkast…">
+<!ENTITY editMessage.accesskey             "u">
 
 <!ENTITY attachmentsTree.label "Bilagor:">
+<!ENTITY attachmentsTree.accesskey         "i">
 <!ENTITY openAttachmentCmd.label           "Öppna">  
 <!ENTITY openAttachmentCmd.accesskey       "Ö">  
 <!ENTITY viewAttachmentCmd.label           "Visa källkoden">

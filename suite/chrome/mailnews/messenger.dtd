@@ -25,6 +25,7 @@
     Henrik Olsson <henriko@algonet.se>
     Mikael Hedberg <hedberg@novasphere.net>
     Lars P M <larspeemm@netscape.net>
+    Peter Kihlstedt <pkihl@passagen.se>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -44,6 +45,13 @@
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Stäng flik">
+<!ENTITY tabmailClose.tooltip "Stäng flik">
+<!ENTITY tabmailNewButton.tooltip "Skapa en ny flik med samma innehåll som den aktuella">
+<!ENTITY tabmailCloseButton.tooltip "Stäng den aktuella fliken">
+<!ENTITY tabmailAllTabs.tooltip "Lista alla flikar">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
@@ -53,6 +61,11 @@
 <!ENTITY newFolderCmd.accesskey "p">
 <!ENTITY newVirtualFolderCmd.label "Ny sparad sökning…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
+<!ENTITY newTabCmd.label "Skapa ny filk">
+<!ENTITY newTabCmd.accesskey "n">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Stäng flik">
+<!ENTITY closeTabCmd.accesskey "ä">
 <!ENTITY newAccountCmd.label "Konto…">
 <!ENTITY newAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
@@ -68,13 +81,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey	"a">
 <!ENTITY getNewMsgCmd.label "Hämta nya meddelanden">
 <!ENTITY getNewMsgCmd.accesskey "H">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "t">
 <!ENTITY getNewMsgForCmd.label "Hämta nya meddelanden för">
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alla konton">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Hämta alla nya meddelanden">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "t">
 <!ENTITY getNextNMsgCmd.label			"Hämta nästa 500 gruppinlägg">
 <!ENTITY getNextNMsgCmd.accesskey "g">
 <!ENTITY sendUnsentCmd.label			"Skicka osända meddelanden">
@@ -141,6 +154,8 @@
 <!ENTITY redoMoveMsgCmd.label "Gör om flytt av meddelande">
 <!ENTITY undoCopyMsgCmd.label "Ångra kopiering av meddelande">
 <!ENTITY redoCopyMsgCmd.label "Gör om kopiering av meddelande">
+<!ENTITY undoMarkAllCmd.label "Ångra märk som läst">
+<!ENTITY redoMarkAllCmd.label "Gör om märk som läst">
 <!ENTITY undoDefaultCmd.label "Ångra">
 <!ENTITY redoDefaultCmd.label "Gör om">
 
@@ -165,6 +180,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessagePaneCmd.label "Meddelandeyta">
 <!ENTITY showMessagePaneCmd.accesskey "M">
+<!ENTITY showThreadPaneCmd.label "Trådyta">
+<!ENTITY showThreadPaneCmd.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Mappyta">
 <!ENTITY showFolderPaneCmd.accesskey "a">
 
@@ -244,6 +261,16 @@
 <!ENTITY bodySanitized.accesskey "e">
 <!ENTITY bodyAsPlaintext.label "ASCII-text">
 <!ENTITY bodyAsPlaintext.accesskey "t">
+
+<!ENTITY bodyMenuFeed.label "Kanalmeddelande som">
+<!ENTITY bodyMenuFeed.accesskey "K">
+<!ENTITY viewFeedWebPage.label "Webbsida">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Sammanfattning">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standardformat">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Visa bilagor i meddelandet">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "b">
 <!ENTITY reloadCmd.label "Uppdatera">
@@ -292,19 +319,26 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Bakåt">
+<!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "Framåt">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flaggade meddelande">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "Startsida för E-post">
 <!ENTITY startPageCmd.accesskey "S">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Meddelande">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nytt meddelande">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Meddelande">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "Arkivera">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey	"r">
 <!ENTITY replyMsgCmd.key	"r">
@@ -402,6 +436,14 @@
 <!ENTITY openMessageWindowCmd.label "Öppna meddelande">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Öppna kanalmeddelande">
+<!ENTITY openFeedMessage.accesskey "k">
+<!ENTITY openFeedWebPageInWindow.label "Webbsida i nytt fönster">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Sammanfattning i nytt fönster">
+<!ENTITY openFeedSummaryInWindow.accesskey "n">
+<!ENTITY openFeedWebPageInMP.label "Växla mellan webbsida och sammanfattning i meddelanderutan">
+<!ENTITY openFeedWebPageInMP.accesskey "V">
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Sök efter meddelanden…">
@@ -432,6 +474,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Hämta ">
 <!ENTITY newMsgButton.label " Skriv nytt">
+<!ENTITY newHTMLMessageCmd.label "Skriv nytt med HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Skriv nytt med enbart text">
+<!ENTITY newPlainTextMessageCmd.accesskey "t">
 <!ENTITY replyButton.label "Svara">
 <!ENTITY replyAllButton.label "Svara alla ">
 <!ENTITY forwardButton.label " Vidarebefordra">
@@ -440,6 +486,7 @@
 <!ENTITY goBackButton.label "Gå bakåt">
 <!ENTITY goForwardButton.label "Gå framåt">
 <!ENTITY deleteButton.label "Ta bort">
+<!ENTITY undeleteButton.label "Ångra ta bort">
 <!ENTITY markButton.label "Märk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
@@ -462,6 +509,7 @@
 <!ENTITY goBackButton.tooltip "Gå ett meddelande bakåt">
 <!ENTITY goForwardButton.tooltip "Gå ett meddelande framåt">
 <!ENTITY deleteButton.tooltip "Ta bort markerat meddelande eller mapp">
+<!ENTITY undeleteButton.tooltip "Ångra ta bort markerat meddelande">
 <!ENTITY markButton.tooltip "Märk meddelanden">
 <!ENTITY printButton.tooltip "Skriv ut detta meddelande">
 <!ENTITY stopButton.tooltip "Avbryt pågående överföring">
@@ -475,8 +523,12 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">
 <!ENTITY contextOpenNewWindow.accesskey "y">
+<!ENTITY contextOpenNewTab.label "Öppna meddelande i ny flik">
+<!ENTITY contextOpenNewTab.accesskey "f">
 <!ENTITY contextEditAsNew.label "Redigera som nytt…">
 <!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextArchive.label "Arkivera">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "ä">
 <!ENTITY contextReplyNewsgroup.label "Svar till diskussionsgruppen">
@@ -507,6 +559,8 @@
 <!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextOpenNewWindow.label "Öppna i nytt e-postklientfönster">
 <!ENTITY folderContextOpenNewWindow.accesskey "Ö">
+<!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
+<!ENTITY folderContextOpenNewTab.accesskey "f">
 <!ENTITY folderContextRename.label "Byt namn">
 <!ENTITY folderContextRename.accesskey "t">
 <!ENTITY folderContextRemove.label "Ta bort">
@@ -537,11 +591,9 @@
 <!ENTITY folderContextSettings.accesskey "I">
 
 <!-- SearchBar -->
-<!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Ämne eller Från innehåller:">
-<!ENTITY SearchSubjectOrFrom.accesskey "Ä">
-<!ENTITY SearchNameOrEmail.label "Namn eller adress innehåller:">
-<!ENTITY SearchNameOrEmail.accesskey "N">
+<!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "S">
+<!ENTITY searchSubjectAndFrom.emptytext "Ämne eller Från innehåller:">
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">
 

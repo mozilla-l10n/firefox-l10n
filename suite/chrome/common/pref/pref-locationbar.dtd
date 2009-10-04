@@ -10,6 +10,18 @@
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Matcha endast adresser som du skrivit in tidigare">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "c">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Matcha endast adresser, inte webbplatsernas titlar">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "i">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Matcha">
+<!ENTITY autoCompleteMatch.accesskey           "M">
+<!ENTITY autoCompleteMatchAnywhere             "Var som helst i adressen eller titeln">
+<!ENTITY autoCompleteMatchWordsFirst           "Var som helst men hela ord sorteras först">
+<!ENTITY autoCompleteMatchWords                "Bara i hela ord">
+<!ENTITY autoCompleteMatchStart                "Bara i början av adressen eller titeln">
 
 <!ENTITY searchEngine.label                    "Söktjänst för Internet">
 <!ENTITY showSearchEngine.label                "Visa förinställd söktjänst">

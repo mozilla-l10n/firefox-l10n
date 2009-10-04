@@ -74,6 +74,8 @@
 <!ENTITY contextIncoming.label "E-posthämtning">
 <!ENTITY contextManual.label "Manuell körning">
 <!ENTITY contextBoth.label "E-posthämtning eller manuell körning">
+<!ENTITY contextPostPlugin.label "E-posthämtning (efter klassificering)">
+<!ENTITY contextPostPluginBoth.label "E-posthämtning (efter klassificering) eller manuell körning">
 
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">

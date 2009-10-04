@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey     "d">
 <!ENTITY viewImageCmd.label           "Visa bild">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.label           "Visa video">
+<!ENTITY viewVideoCmd.accesskey       "a">
 <!ENTITY viewBGImageCmd.label         "Visa bakgrundsbild">
 <!ENTITY viewBGImageCmd.accesskey     "g">
 <!ENTITY setWallpaperCmd.label        "Använd som skrivbordsbild">

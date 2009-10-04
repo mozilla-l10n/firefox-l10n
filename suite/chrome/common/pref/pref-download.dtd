@@ -1,24 +1,24 @@
 <!ENTITY pref.download.title "Hämtning av filer">
+
 <!ENTITY downloadBehavior.label "När en fil hämtas">
-<!ENTITY downloadLocation.label         "När en fil sparas">
-<!ENTITY finishedBehavior.label         "När hämtningen är slutförd">
+<!ENTITY focusWhenStarting.label        "Blinka filhämtaren om den redan är öppen, annars:">
+<!ENTITY focusWhenStarting.accesskey    "B">
 <!ENTITY openDM.label "Öppna Filhämtaren">
 <!ENTITY openDM.accesskey "Ö">
 <!ENTITY openProgressDialog.label "Öppna ett förloppsfönster">
 <!ENTITY openProgressDialog.accesskey "f">
 <!ENTITY doNothing.label "Öppna inte någonting">
 <!ENTITY doNothing.accesskey "i">
-<!ENTITY promptDownload.label           "Fråga efter lagringsplats och föreslå som förinställd">
-<!ENTITY promptDownload.accesskey       "å">
-<!ENTITY lastLocation.label             "senast använda mapp">
-<!ENTITY lastLocation.accesskey         "e">
-<!ENTITY specifiedLocation.label        "specificerad mapp">
-<!ENTITY specifiedLocation.accesskey    "c">
-<!ENTITY autoDownload.label             "Spara automatiskt hämtade filer till specificerad mapp">
-<!ENTITY autoDownload.accesskey         "a">
-<!ENTITY downloadFolder.label           "Aktuell mapp för hämtade filer:">
+
+<!ENTITY downloadLocation.label         "När en fil sparas">
+<!ENTITY saveTo.label                   "Spara filer till">
+<!ENTITY saveTo.accesskey               "a">
 <!ENTITY chooseDownloadFolder.label     "Välj mapp…">
 <!ENTITY chooseDownloadFolder.accesskey "V">
+<!ENTITY alwaysAsk.label                "Fråga alltid var jag vill spara filerna">
+<!ENTITY alwaysAsk.accesskey            "A">
+
+<!ENTITY finishedBehavior.label         "När hämtningen är slutförd">
 <!ENTITY playSound.label                "Ge en ljudsignal">
 <!ENTITY playSound.accesskey            "l">
 <!ENTITY showAlert.label                "Visa ett meddelande">

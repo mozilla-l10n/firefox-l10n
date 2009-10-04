@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label               "Webbsurfandehistorik">
 <!ENTITY itemHistory.accesskey           "W">
+<!ENTITY itemUrlBar.label                "Adressradshistorik">
+<!ENTITY itemUrlBar.accesskey            "d">
 <!ENTITY itemDownloads.label             "Filhämtningshistorik">
 <!ENTITY itemDownloads.accesskey         "h">
 <!ENTITY itemFormSearchHistory.label     "Sparade formulärdata och sökhistorik">

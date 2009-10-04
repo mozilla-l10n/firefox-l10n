@@ -53,21 +53,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Generera sammanställningsfilen på nytt">
 
 <!ENTITY retention.label                         "Behåll meddelanden">
-<!ENTITY retentionUseDefault.label               "Använd inställningen för servern">
-<!ENTITY retentionUseDefault.accesskey           "A">
+<!ENTITY retentionUseAccount.label "Använd inställningen från mitt konto">
+<!ENTITY retentionUseAccount.accesskey "k">
 <!ENTITY daysOld.label                           "dagar">
 <!ENTITY message.label                           "meddelandena">
 <!ENTITY retentionCleanup.label                  "Behåll:">
+<!ENTITY retentionCleanupImap.label 			"Behåll meddelanden, både de lokala kopiorna och deras original på servern:">
+<!ENTITY retentionCleanupPop.label 				"Behåll meddelanden, inklusiver deras original på servern:">
 <!ENTITY retentionDeleteMsg.label "Ta bort meddelanden äldre än">
 <!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label                  "Alla meddelanden">
 <!ENTITY retentionKeepAll.accesskey              "l">
-<!ENTITY retentionKeepNew.label                  "De senaste">
-<!ENTITY retentionKeepNew.accesskey              "s">
-<!ENTITY retentionKeepUnread.label               "Endast olästa meddelanden">
-<!ENTITY retentionKeepUnread.accesskey           "n">
+<!ENTITY retentionKeepRecent.label "De senaste">
+<!ENTITY retentionKeepRecent.accesskey "s">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Ta alltid bort lästa meddelanden (oberoende av antalet dagar)">
+<!ENTITY retentionApplyToFlagged.label "Behåll alltid flaggade meddelanden">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                             "Arbeta i nedkopplat läge">
+<!ENTITY folderSynchronizationTab.label          "Synkronisera">
 <!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 

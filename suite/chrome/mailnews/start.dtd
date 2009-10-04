@@ -47,7 +47,7 @@ byggt på öppen källkod, och som stöder avancerad igenkänning av skräppost 
 <!ENTITY features.title "Funktioner">
 <!ENTITY feat_multiacc.label "Stöd för flera konton">
 <!ENTITY feat_junk.label "Skräppostidentifiering">
-<!ENTITY feat_rss.label "RSS-läsare">
+<!ENTITY feat_feeds.label "Kanalläsare">
 <!ENTITY feat_filters.label "Meddelandefilter">
 <!ENTITY feat_htmlmsg.label "Stöd för HTML-meddelanden">
 <!ENTITY feat_abook.label "Adressbok">
