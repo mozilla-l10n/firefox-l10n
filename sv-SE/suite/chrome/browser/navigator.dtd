@@ -19,6 +19,9 @@
 <!ENTITY recentTabs.label "Nyligen stängda flikar">
 <!ENTITY recentTabs.accesskey "y">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Nyligen stängda fönster">
+<!ENTITY recentWindows.accesskey "r">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label					"Redigera sida">
 <!ENTITY editPageCmd.accesskey				"d">
 <!ENTITY editPageCmd.commandkey "e">
@@ -151,6 +154,7 @@
 <!ENTITY  bookmarksButton.label       "Bokmärken">
 <!ENTITY  bookmarksButton.tooltip     "Lista över bokmärken">
 <!ENTITY  homeButton.label            "Startsida">
+<!ENTITY  bookmarksToolbarItem.label  "Bokmärken i verktygsfältet">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Dokument: Klart">

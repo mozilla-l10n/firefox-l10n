@@ -45,9 +45,9 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newCard.label						"Kort i adressbok…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newCard.accesskey                              "t">  
+<!ENTITY newContact.label                               "Kontakt…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "C">
 <!ENTITY newListCmd.label                               "Sändlista…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "l">  
@@ -57,12 +57,11 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
-<!ENTITY printCardViewCmd.label				"Skriv ut kort…">
-<!ENTITY printCardViewCmd.accesskey                     "k">
-<!ENTITY printPreviewCardViewCmd.label                  "Förhandsgranska kort">
-<!ENTITY printPreviewCardViewCmd.accesskey              "F">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactViewCmd.label                      "Skriv ut kontakt…">
+<!ENTITY printContactViewCmd.accesskey                  "k">
+<!ENTITY printPreviewContactViewCmd.label               "Förhandsgranska kontakt">
+<!ENTITY printPreviewContactViewCmd.accesskey           "F">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressbok…"> 
 <!ENTITY printAddressBook.accesskey                     "u"> 
 <!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok"> 
@@ -72,8 +71,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label					"Ta bort adressbok">
-<!ENTITY deleteCardCmd.label				"Ta bort kort">
-<!ENTITY deleteCardsCmd.label				"Ta bort markerade kort">
+<!ENTITY deleteContactCmd.label                         "Ta bort kontakt">
+<!ENTITY deleteContactsCmd.label                        "Ta bort markerade kontakter">
 <!ENTITY deleteListCmd.label                            "Ta bort lista">
 <!ENTITY deleteListsCmd.label                           "Ta bort markerade listor">
 <!ENTITY deleteItemsCmd.label                           "Ta bort markerade poster">
@@ -109,27 +108,28 @@
 <!ENTITY allowOnlineCheck.accesskey                     "ö">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label "Nytt kort">
-<!ENTITY newcardButton.accesskey                        "k">  
+<!ENTITY newContactButton.label                         "Ny kontakt">
+<!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny lista">  
 <!ENTITY newlistButton.accesskey                        "l">  
-<!ENTITY editButton.label                               "Egenskaper ">  
-<!ENTITY editButton.accesskey                           "E">  
+<!ENTITY editItemButton.label                           "Egenskaper">
+<!ENTITY editItemButton.accesskey                       "E">
 <!ENTITY newmsgButton.label                             "Skriv nytt">  
 <!ENTITY newmsgButton.accesskey                         "n">  
-<!ENTITY deleteButton.label                             "Ta bort">  
-<!ENTITY deleteButton.accesskey                         "b">  
+<!ENTITY deleteItemButton.label                         "Ta bort">
+<!ENTITY deleteItemButton.accesskey                     "b">
 <!ENTITY newimButton.label                              "Snabbmeddelande">  
 <!ENTITY newimButton.accesskey                          "S">  
+<!ENTITY searchNameAndEmail.emptytext                   "Sök namn och e-post">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Verktygsfält för adressboken">
-<!ENTITY newcardButton.tooltip "Skapa ett nytt kort i adressboken">
+<!ENTITY newContactButton.tooltip                       "Skapa en ny kontakt i adressboken">
 <!ENTITY newlistButton.tooltip                          "Skapa en sändlista"> 
-<!ENTITY editButton.tooltip                             "Redigera markerat adresskort"> 
+<!ENTITY editItemButton.tooltip                         "Redigera markerad kontakt">
 <!ENTITY newmsgButton.tooltip "Skapa nytt meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta"> 
-<!ENTITY deleteButton.tooltip "Ta bort markerade kort eller adressboken">
+<!ENTITY deleteItemButton.tooltip                       "Ta bort markerade kontakter eller adressboken">
 <!ENTITY throbber.tooltip                               "Går till &vendorShortName;s webbplats">
 <!ENTITY advancedButton.tooltip                         "Avancerad adressökning">
 

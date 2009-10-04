@@ -82,13 +82,13 @@
 <!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "m">
 
-<!ENTITY allowRemoteContent.label       "Tillåt externa bilder.">
-<!ENTITY allowRemoteContent.accesskey   "i">
-<!ENTITY allowRemoteContent.tooltip     "I HTML-meddelanden är det möjligt att
-infoga bilder från externa källor. Att öppna ett sådant meddelande innebär att
+<!ENTITY allowRemoteContent1.label       "Tillåt externa objekt.">
+<!ENTITY allowRemoteContent1.accesskey   "i">
+<!ENTITY allowRemoteContent1.tooltip     "I HTML-meddelanden är det möjligt att
+infoga objekt från externa källor. Att öppna ett sådant meddelande innebär att
 en anslutning till den externa källan etableras. Det kan medföra att det lästa
 meddelandet spåras. Genom att rutan markeras tillåts sådana externt infogade
-bilder i HTML-meddelanden från denna kontakt.">
+objekt i HTML-meddelanden från denna kontakt.">
 
 
 <!ENTITY WorkPhone.label                "Arbete:">
@@ -120,9 +120,12 @@ bilder i HTML-meddelanden från denna kontakt.">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Födelsedag:">
 <!ENTITY Birthday.accesskey             "F">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "År">
 <!ENTITY Or.value                       "eller">
 <!ENTITY Age.emptytext                  "Ålder">
+<!ENTITY YearsOld.label                 "">
+
 <!ENTITY Work.tab                       "Arbete">
 <!ENTITY Work.accesskey                 "A">
 <!ENTITY JobTitle.label			"Titel:"> 
@@ -158,3 +161,19 @@ bilder i HTML-meddelanden från denna kontakt.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Anteckningar">
 <!ENTITY Notes.accesskey                "n">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Välj en av de följande:">
+<!ENTITY GenericPhoto.label             "Allmän bild">
+<!ENTITY GenericPhoto.accesskey         "A">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "Från den här datorn">
+<!ENTITY PhotoFile.accesskey            "d">
+<!ENTITY BrowsePhoto.label              "Bläddra">
+<!ENTITY BrowsePhoto.accesskey          "B">
+<!ENTITY PhotoURL.label                 "Från internet">
+<!ENTITY PhotoURL.accesskey             "i">
+<!ENTITY PhotoURL.emptytext             "Klistra in eller skriv in webbadressen till en bild">
+<!ENTITY UpdatePhoto.label              "Uppdatera">
+<!ENTITY UpdatePhoto.accesskey          "u">

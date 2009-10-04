@@ -33,3 +33,5 @@
 <!ENTITY policies.label "Säkerhetsscheman">
 <!ENTITY mousewheel.label "Mushjul">
 <!ENTITY scriptsAndWindows.label "Skript/Insticksmoduler">
+
+<!ENTITY focusSearch.key "S">

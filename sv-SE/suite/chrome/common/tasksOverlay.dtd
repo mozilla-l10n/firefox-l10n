@@ -12,6 +12,7 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Felkonsol">
 <!ENTITY errorConsoleCmd.accesskey				"F">
+<!ENTITY errorConsoleCmd.commandkey				"j">
 
 <!ENTITY taskNavigator.tooltip  "Webbläsare">
 <!ENTITY taskComposer.tooltip  "Composer">
@@ -25,8 +26,18 @@
 <!ENTITY tasksMenu.label				"Verktyg">
 <!ENTITY tasksMenu.accesskey                           "t">
 
+<!ENTITY passwordManagerCmd.label "Lösenordshanteraren">
+<!ENTITY passwordManagerCmd.accesskey "L">
+
+<!ENTITY passwordDisplayCmd.label "Hantera sparade lösenord">
+<!ENTITY passwordDisplayCmd.accesskey "s">
+
+<!ENTITY passwordExpireCmd.label "Logga ut">
+<!ENTITY passwordExpireCmd.accesskey "u">
+
 <!ENTITY downloadManagerCmd.label "Filhämtaren">
 <!ENTITY downloadManagerCmd.accesskey "h">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Tilläggshanteraren">
 <!ENTITY addonsManagerCmd.accesskey "ä">

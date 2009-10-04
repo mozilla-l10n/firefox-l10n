@@ -11,6 +11,11 @@
 <!ENTITY     button.removeallcookies.label  "Ta bort alla kakor">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
+<!ENTITY     search.emptytext               "Sök kakor">
+<!ENTITY     focusSearch.key                "k">
+<!ENTITY     windowClose.key                "g">
+<!ENTITY     selectAll.key                  "a">
+
 <!ENTITY     props.name.label               "Namn:">
 <!ENTITY     props.value.label              "Information:">
 <!ENTITY     props.domain.label             "Värd:">

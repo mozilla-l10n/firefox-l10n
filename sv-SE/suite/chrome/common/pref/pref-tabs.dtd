@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "j">
 <!ENTITY background.label "Växla till nya flikar som öppnas från länkar">
 <!ENTITY background.accesskey "V">
+<!ENTITY warnOnClose.label "Varna när jag stänger ett fönster med flera flikar">
+<!ENTITY warnOnClose.accesskey "s">
 <!ENTITY loadGroup.label "Vid öppning av ett gruppmärke">
 <!ENTITY loadGroupAppend.label "Lägg till nya flikar">
 <!ENTITY loadGroupAppend.accesskey "L">

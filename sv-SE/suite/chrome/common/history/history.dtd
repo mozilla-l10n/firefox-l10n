@@ -1,34 +1,52 @@
 
 <!ENTITY menuBar.tooltip            "Menyrad">
-<!ENTITY fileMenu.label             "Arkiv">
-<!ENTITY closeCmd.label             "Stäng">
-<!ENTITY editMenu.label             "Redigera"> 
-<!ENTITY undoCmd.label              "Ångra">
-<!ENTITY redoCmd.label              "Gör om">
-<!ENTITY cutCmd.label               "Klipp ut">
-<!ENTITY copyCmd.label              "Kopiera">
-<!ENTITY pasteCmd.label             "Klistra in">
-<!ENTITY deleteCmd.label            "Ta bort">
-<!ENTITY deleteHostnameCmd.accesskey "a">
-<!ENTITY deleteDomainCmd.accesskey  "d">
-<!ENTITY selAllCmd.label            "Markera allt">
-<!ENTITY findHisCmd.label           "Sök i historiken…">
-<!ENTITY findHisCmd.commandkey      "f">
-<!ENTITY findHisCmd.accesskey       "S">
-<!ENTITY groupBy.label              "Gruppera på">
-<!ENTITY groupBy.accesskey          "G">
-<!ENTITY groupByDay.label           "Dag">
-<!ENTITY groupByDay.accesskey       "D">
-<!ENTITY groupBySite.label          "Plats">
-<!ENTITY groupBySite.accesskey      "P">
-<!ENTITY groupByNone.label          "Inget">
-<!ENTITY groupByNone.accesskey      "N">
 <!ENTITY historyWindowTitle.label   "Historik">
-<!ENTITY menuitem.view.unsorted.label "Osorterat">
-<!ENTITY menuitem.view.unsorted.accesskey "O">
-<!ENTITY sortAscending.label "Stigande">
-<!ENTITY sortAscending.accesskey "a">
-<!ENTITY sortDescending.label "Fallande">
-<!ENTITY sortDescending.accesskey "F">
-<!ENTITY menuitem.view.show_columns.label "Visa kolumner">
-<!ENTITY menuitem.view.show_columns.accesskey "s">
+<!ENTITY searchBar.tooltip              "Söklist">
+
+<!ENTITY search.emptytext               "Sök historik">
+<!ENTITY search.key                     "S">
+<!ENTITY view.label                     "Visa">
+
+<!ENTITY view.columns.label             "Visa kolumner">
+<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.sortBy.label              "Sortera på">
+<!ENTITY view.sortBy.accesskey          "S">
+<!ENTITY view.groupBy.label             "Gruppera på">
+<!ENTITY view.groupBy.accesskey         "G">
+
+<!ENTITY view.unsorted.label            "Osorterad">
+<!ENTITY view.unsorted.accesskey        "O">
+<!ENTITY view.sortAscending.label       "A > Ö ordning">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ö > A ordning">
+<!ENTITY view.sortDescending.accesskey  "Ö">
+
+<!ENTITY view.groupNone.label           "Inget">
+<!ENTITY view.groupNone.accesskey       "I">
+<!ENTITY view.groupDay.label            "Datum">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "Webbplats">
+<!ENTITY view.groupSite.accesskey       "W">
+<!ENTITY view.groupDayAndSite.label     "Datum och Webbplats">
+<!ENTITY view.groupDayAndSite.accesskey "o">
+
+<!ENTITY cmd.open.label                 "Öppna">
+<!ENTITY cmd.open.accesskey             "Ö">
+<!ENTITY cmd.open_window.label          "Öppna länk i nytt fönster">
+<!ENTITY cmd.open_window.accesskey      "f">
+<!ENTITY cmd.open_tab.label             "Öppna länk i ny flik">
+<!ENTITY cmd.open_tab.accesskey         "l">
+
+<!ENTITY bookmarkLinkCmd.label          "Lägg till bokmärke för länkmål">
+<!ENTITY bookmarkLinkCmd.accesskey      "b">
+<!ENTITY bookmarkLinksCmd.label         "Lägg till bokmärken för dessa länkar">
+<!ENTITY bookmarkLinksCmd.accesskey     "l">
+
+<!ENTITY col.title.label                "Namn">
+<!ENTITY col.title.accesskey            "N">
+<!ENTITY col.url.label                  "Adress">
+<!ENTITY col.url.accesskey              "A">
+<!ENTITY col.lastvisit.label            "Senaste besök">
+<!ENTITY col.lastvisit.accesskey        "S">
+<!ENTITY col.visitcount.label           "Antal besök">
+<!ENTITY col.visitcount.accesskey       "k">

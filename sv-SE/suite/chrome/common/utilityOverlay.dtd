@@ -86,6 +86,9 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "Inställningar…">
+<!ENTITY customizeToolbarContext.accesskey        "n">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "Inställningar för detta verktygsfält">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
 <!ENTITY customizeToolbar.iconsAndText.label      "Ikoner och text">

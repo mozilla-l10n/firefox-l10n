@@ -2,24 +2,24 @@
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newCardCmd.label                "Adresskort…">
-<!ENTITY newCardCmd.accesskey            "A">
+<!ENTITY newContactCmd.label             "Kontakt…">
+<!ENTITY newContactCmd.accesskey         "K">
 
 <!ENTITY sendPage.label                  "Skicka sida…">
-<!ENTITY sendPage.accesskey              "k">
+<!ENTITY sendPage.accesskey              "S">
 
 <!ENTITY contextSendThisPage.label       "Skicka denna sida…">
 <!ENTITY contextSendThisPage.accesskey   "d">
 <!ENTITY contextSendThisLink.label       "Skicka denna länk…">
 <!ENTITY contextSendThisLink.accesskey   "n">
 <!ENTITY contextSendImage.label          "Skicka bild…">
-<!ENTITY contextSendImage.accesskey      "c">
+<!ENTITY contextSendImage.accesskey      "b">
 <!ENTITY contextSendVideo.label          "Skicka video…">
-<!ENTITY contextSendVideo.accesskey      "c">
+<!ENTITY contextSendVideo.accesskey      "v">
 <!ENTITY contextSendAudio.label          "Skicka audio…">
-<!ENTITY contextSendAudio.accesskey      "c">
+<!ENTITY contextSendAudio.accesskey      "a">
 <!ENTITY contextSendFrame.label          "Skicka ram…">
-<!ENTITY contextSendFrame.accesskey      "c">
+<!ENTITY contextSendFrame.accesskey      "r">
 
 <!ENTITY sendLinkCmd.label               "Skicka länk…"> 
 <!ENTITY sendLinkCmd.accesskey           "l">

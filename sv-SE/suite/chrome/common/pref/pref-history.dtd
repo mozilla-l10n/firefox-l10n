@@ -2,9 +2,15 @@
 
 <!ENTITY  pref.history.caption             "Webbsurfandehistorik">
 <!ENTITY  historyPages.label        "Historiken består av en lista med redan besökta sidor.">
-<!ENTITY  pageHis.label             "Kom ihåg sidor du besökt de senaste">
-<!ENTITY  pageHis.accesskey         "s">
-<!ENTITY  days.label                "dagarna">
+<!ENTITY  expireDaysMin1.label              "Kom ihåg sidor du besökt i minst">
+<!ENTITY  expireDaysMin1.accesskey          "m">
+<!ENTITY  expireDaysMin2.label              "dagar">
+<!ENTITY  expireDays1.label                 "Kom ihåg sidor du besökt i upp till">
+<!ENTITY  expireDays1.accesskey             "u">
+<!ENTITY  expireDays2.label                 "dagar">
+<!ENTITY  expireSites1.label                "Kom ihåg upp till">
+<!ENTITY  expireSites1.accesskey            "t">
+<!ENTITY  expireSites2.label                "besökta sidor">
 <!ENTITY  clearHistory.label        "Rensa historiken">
 <!ENTITY  clearHistory.accesskey    "R">
 
@@ -12,3 +18,9 @@
 <!ENTITY  clearLocationBar.label    "Rensa listan med webbplatser i adressfältet.">
 <!ENTITY  clearLocationBarButton.label      "Rensa adressfältet">
 <!ENTITY  clearLocationBarButton.accesskey  "a">
+<!ENTITY  formfillHistory.caption           "Formulär och sökhistorik">
+<!ENTITY  enableFormfill.label              "Används formulär och sökhistorik">
+<!ENTITY  enableFormfill.accesskey          "A">
+<!ENTITY  formfillExpire.label              "Kom ihåg formulär och sökhistorik i upp till">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "dagar">

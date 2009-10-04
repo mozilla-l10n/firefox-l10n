@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label        "Dölja statusfältet">
 
 <!ENTITY enablePlugin.label              "Aktivera insticksmoduler för">
+
+<!ENTITY whenPluginsRequired.label       "När insticksmoduler behövs">
+<!ENTITY displayNotification.label       "Visa ett meddelande i innehållsfönstrets överkant">
+<!ENTITY displayNotification.accesskey   "m">

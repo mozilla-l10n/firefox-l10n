@@ -3,6 +3,6 @@
 <!ENTITY  newMessageCmd.label             "Meddelande">
 <!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newCardCmd.label                "Adresskort…">
-<!ENTITY  newCardCmd.accesskey            "A">
+<!ENTITY  newContactCmd.label             "Kontakt…">
+<!ENTITY  newContactCmd.accesskey         "K">
  

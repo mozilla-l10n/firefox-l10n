@@ -4,7 +4,7 @@
 <!ENTITY browser.label "Webbläsare">
 <!ENTITY email.label "E-post">
 <!ENTITY newsgroups.label "Diskussionsgrupper">
-<!ENTITY rss.label "RSS-flöden">
+<!ENTITY feeds.label "Flöden och bloggar">
 
 <!ENTITY checkOnStartup.label "Kontrollera alltid detta när du startar &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "K">

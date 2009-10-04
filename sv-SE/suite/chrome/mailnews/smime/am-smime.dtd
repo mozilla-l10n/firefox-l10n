@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label "Signera meddelanden (som förval)">
 <!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Använd detta certifikat för att signera meddelanden du skickar:">
+
+<!ENTITY certificates.label "Certifikat">
+<!ENTITY manageCerts.label "Hantera certifikat…">
+<!ENTITY manageCerts.accesskey "H">
+<!ENTITY manageDevices.label "Hantera säkerhetsenheter…">
+<!ENTITY manageDevices.accesskey "k">
