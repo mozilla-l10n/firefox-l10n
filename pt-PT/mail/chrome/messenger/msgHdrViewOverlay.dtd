@@ -93,7 +93,7 @@
 <!ENTITY markAsUnreadMenuItem.label "marcar como não lida">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "guardar como…">
-<!ENTITY saveAsMenuItem.accesskey "v">
+<!ENTITY saveAsMenuItem.accesskey "u">
 <!ENTITY viewSourceMenuItem.label "ver fonte…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
 <!ENTITY otherActionsPrint.label "imprimir…">
