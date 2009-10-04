@@ -18,12 +18,12 @@
 <!ENTITY col.status.label "Durum">
 <!ENTITY col.status.accesskey "D">
 <!ENTITY col.status.tooltip "Durum">
-<!ENTITY col.actionPlay.label "Pause/Resume/Retry">
-<!ENTITY col.actionPlay.accesskey "u">
-<!ENTITY col.actionPlay.tooltip "Pause/Resume/Retry">
-<!ENTITY col.actionStop.label "Cancel/Remove">
-<!ENTITY col.actionStop.accesskey "C">
-<!ENTITY col.actionStop.tooltip "Cancel/Remove">
+<!ENTITY col.actionPlay.label "Duraklat/Devam/Yeniden dene">
+<!ENTITY col.actionPlay.accesskey "D">
+<!ENTITY col.actionPlay.tooltip "Duraklat/Devam/Yeniden dene">
+<!ENTITY col.actionStop.label "İptal/Sil">
+<!ENTITY col.actionStop.accesskey "İ">
+<!ENTITY col.actionStop.tooltip "İptal/Sil">
 <!ENTITY col.progress.label "İlerleme">
 <!ENTITY col.progress.accesskey "l">
 <!ENTITY col.progress.tooltip "İlerleme">
@@ -54,8 +54,8 @@
 
 <!ENTITY view.columns.label "Sütunları göster">
 <!ENTITY view.columns.accesskey "S">
-<!ENTITY view.sortBy.label "Sort by">
-<!ENTITY view.sortBy.accesskey "S">
+<!ENTITY view.sortBy.label "Sıralama koşulu">
+<!ENTITY view.sortBy.accesskey "l">
 
 <!ENTITY view.unsorted.label "Sınıflanmamış">
 <!ENTITY view.unsorted.accesskey "f">
@@ -82,5 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "g">
 <!ENTITY cmd.copyDownloadLink.label "İndirme bağlantısını kopyala">
 <!ENTITY cmd.copyDownloadLink.accesskey "l">
-<!ENTITY cmd.properties.label "Properties…">
-<!ENTITY cmd.properties.accesskey "s">
+<!ENTITY cmd.properties.label "Özellikler…">
+<!ENTITY cmd.properties.accesskey "l">
