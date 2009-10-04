@@ -741,6 +741,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "o">
 <!ENTITY CopyNewsgroupName.label "Kopiera diskussionsgruppens namn">
 <!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupURL.label "Kopiera diskussionsgruppens URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Skapa filterregel utifrån…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Rapportera e-postbluff">
