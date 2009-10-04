@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title      "Om &brandFullName;">
-<!ENTITY credits.label          "Medarbetare">
-<!ENTITY credits.accesskey      "M">
 <!ENTITY aboutButton.label      "&lt; Bakåt">
 <!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "version">
@@ -9,6 +7,8 @@
                                  Foundation. Alla rättigheter förbehållna.">
 <!ENTITY aboutMenu.label        "Om">
 <!ENTITY aboutMenu.accesskey    "O">
+<!ENTITY aboutCredits.label     "Medarbetare">
+<!ENTITY aboutCredits.accesskey "M">
 <!ENTITY aboutRights.label      "Dina rättigheter">
 <!ENTITY aboutRights.accesskey  "D">
 <!ENTITY aboutContributors.label "Medarbetare">
