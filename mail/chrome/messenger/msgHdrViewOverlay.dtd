@@ -91,6 +91,10 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "ö">
 <!ENTITY otherActionsOpenInNewTab.label "öppna i ny flik">
 <!ENTITY otherActionsOpenInNewTab.accesskey "a">
+<!ENTITY markAsReadMenuItem.label "markera som läst">
+<!ENTITY markAsReadMenuItem.accesskey "m">
+<!ENTITY markAsUnreadMenuItem.label "markera som oläst">
+<!ENTITY markAsUnreadMenuItem.accesskey "o">
 <!ENTITY saveAsMenuItem.label "spara som…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "visa källkod…">
