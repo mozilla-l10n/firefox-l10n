@@ -1,3 +1,4 @@
 <!ENTITY window.title             "Berichtsamenvatting">
 <!ENTITY selectedmessages.label   "Geselecteerde berichten">
 <!ENTITY archive.label            "archief">
+<!ENTITY delete.label             "verwijderen">
