@@ -57,13 +57,27 @@
 
 <!ENTITY editMessageDescription.label "Dit is een berichtconcept">
 <!ENTITY editMessageButton.label "Bewerken…">
-<!ENTITY archiveButton.label "archiveren">
+<!ENTITY hdrArchiveButton.label "archiveren">
+<!ENTITY hdrArchiveButton.tooltip "dit bericht archiveren">
 <!ENTITY hdrReplyButton.label "beantwoorden">
+<!ENTITY hdrReplyButton.tooltip "dit bericht beantwoorden">
 <!ENTITY hdrReplyAllButton.label "allen beantwoorden">
+<!ENTITY hdrReplyAllButton.tooltip "afzender en alle ontvangers beantwoorden">
 <!ENTITY hdrReplyListButton.label "lijst beantwoorden">
+<!ENTITY hdrReplyListButton.tooltip "e-maillijst beantwoorden">
 <!ENTITY hdrForwardButton.label "doorsturen">
+<!ENTITY hdrForwardButton.tooltip "dit bericht doorsturen">
 <!ENTITY hdrJunkButton.label "ongewenst">
-<!ENTITY trashButton.tooltiptext "verwijderen">
+<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
+<!ENTITY hdrTrashButton.label "verwijderen">
+<!ENTITY hdrTrashButton.tooltip "dit bericht verwijderen">
+
+<!ENTITY hdrViewToolbarShowFull.label "Pictogrammen en tekst tonen">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Pictogrammen alleen tonen">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "P">
+<!ENTITY hdrViewToolbarShowText.label "Tekst alleen tonen">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
 
 <!ENTITY otherActionsButton.label "andere acties">
 <!ENTITY otherActionsShowConversation.label "In conversatie tonen">
