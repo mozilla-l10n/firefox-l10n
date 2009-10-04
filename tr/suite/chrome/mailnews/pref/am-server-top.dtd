@@ -1,6 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Güvenlik Ayarları">
+<!ENTITY securitySettings.label "Güvenlik ayarları">
 <!ENTITY serverSettings.label "Sunucu ayarları">
 <!ENTITY serverType.label "Sunucu türü:">
 <!ENTITY serverName.label "Sunucu ismi:">
@@ -9,7 +9,7 @@
 <!ENTITY userName.accesskey "l">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label "Varsayılan:">
+<!ENTITY serverPortDefault.label "Öntanımlı:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -17,7 +17,7 @@
 -->
 <!ENTITY biffStart.label "Yeni iletileri her ">
 <!ENTITY biffStart.accesskey "h">
-<!ENTITY biffEnd.label "dakikada kontrol et.">
+<!ENTITY biffEnd.label "dakikada kontrol et">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
 <!ENTITY connectionSecurity.accesskey "g">
 <!ENTITY connectionSecurityType-0.label "Hiçbiri">
@@ -46,9 +46,9 @@
 <!ENTITY modelDeleteImmediately.label "Hemen sil">
 <!ENTITY modelDeleteImmediately.accesskey "H">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Gelen kutusundaki iletileri (&quot;Expunge&quot;) çıkışta sil">
+<!ENTITY expungeOnExit.label "Gelen kutusundaki silinmiş iletileri çıkışta temizle (&quot;Expunge&quot;)">
 <!ENTITY expungeOnExit.accesskey "E">
-<!ENTITY emptyTrashOnExit.label "Çıkarken çöpü boşalt">
+<!ENTITY emptyTrashOnExit.label "Çıkışta çöpü boşalt">
 <!ENTITY emptyTrashOnExit.accesskey "k">
 <!ENTITY loginAtStartup.label "Başlarken yeni iletileri kontrol et">
 <!ENTITY loginAtStartup.accesskey "B">
