@@ -6,9 +6,9 @@
 <!ENTITY  checking.title                  "Iskanje posodobitev">
 <!ENTITY  updateCheck.label               "Iskanje novih različic programa &brandShortName; ...">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+<!ENTITY  pluginupdatesfound.title        "Na voljo so posodobitve vstavkov">
+<!ENTITY  pluginupdatesfound.label        "Na voljo so novejše različice enega ali več vaših vstavkov.">
+<!ENTITY  pluginupdateslink.label         "Kako nadgradim vstavke?">
 
 <!ENTITY  noupdatesfound.title "Trenutno ni posodobitev">
 <!ENTITY  noupdatesautoenabled.intro      "Posodobitve niso na voljo. &brandShortName; bo redno

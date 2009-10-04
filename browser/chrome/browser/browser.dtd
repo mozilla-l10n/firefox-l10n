@@ -32,7 +32,7 @@
 <!ENTITY goOfflineCmd.label "Delaj v brezpovezavnem načinu">
 <!ENTITY goOfflineCmd.accesskey "b">
 
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Orodna vrstica za brskanje">
 <!ENTITY navbarCmd.accesskey "N">
@@ -50,8 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Celozaslonski način">
 <!ENTITY fullScreenCmd.accesskey "C">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY fullScreenCmd.macCommandKey "c">
+<!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimiziraj">
@@ -91,7 +91,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Prenehaj z nalaganjem te strani">
 <!ENTITY goEndCap.tooltip "Odpri mesto v naslovnem polju">
-<!ENTITY feedButton.tooltip           "Subscribe to this page…">
+<!ENTITY feedButton.tooltip           "Naroči se na to stran…">
 <!ENTITY printButton.label "Natisni">
 <!ENTITY printButton.tooltip "Natisni to stran">
 
@@ -369,7 +369,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Izreži">
 <!ENTITY copyButton.tooltip "Kopiraj">
 <!ENTITY pasteButton.tooltip "Prilepi">
-<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
+<!ENTITY fullScreenButton.tooltip       "Prikaži okno v celozaslonskem načinu">
 
 <!ENTITY quitApplicationCmdWin.label "Izhod">
 <!ENTITY quitApplicationCmdWin.accesskey "i">

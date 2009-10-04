@@ -22,14 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "S">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Poišče posodobitve vaših dodatkov">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Poišče posodobtive vaših tem">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Poišče posodobitve vaših vstavkov">
 <!ENTITY cmd.installLocalFile.label "Namesti ...">
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Namesti dodatke">
 <!ENTITY cmd.installFileTheme.tooltip "Namesti temo">
-<!ENTITY cmd.installUpdatesAll2.label     "Install Updates">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Install the selected updates">
+<!ENTITY cmd.installUpdatesAll2.label     "Namesti posodobitve">
+<!ENTITY cmd.installUpdatesAll2.accesskey "N">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Namesti izbrane posodobitve">
 <!ENTITY cmd.restartApp2.label "Ponovno zaženi &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey "P">
 <!ENTITY cmd.restartApp2.tooltip "Za uveljavitev sprememb ponovno zaženite &brandShortName;">
@@ -113,8 +113,8 @@
 <!ENTITY insecureUpdate.label "Ne omogoča varnih posodobitev.">
 <!ENTITY needsDependencies.label "Ima dodatne zahteve.">
 <!ENTITY blocklisted.label "Onemogočeno za vašo varnost.">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
-<!ENTITY outdated.label                   "A newer, safer version is available.">
+<!ENTITY softBlocklisted.label            "Znano, da povzroča težave z varnostjo in zanesljivostjo.">
+<!ENTITY outdated.label                   "Na voljo je novejša in bolj varna različica.">
 <!ENTITY toBeDisabled.label "Onemogočam ob naslednjem zagonu.">
 <!ENTITY toBeEnabled.label "Omogočam ob naslednjem zagonu.">
 <!ENTITY toBeInstalled.label "Nameščam ob naslednjem zagonu.">
