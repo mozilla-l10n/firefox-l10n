@@ -102,10 +102,10 @@
 <!ENTITY redoCmd.accesskey "Y">
 <!ENTITY thisFrameMenu.label "Geçerli çerçeve">
 <!ENTITY thisFrameMenu.accesskey "l">
-<!ENTITY mediaPlay.label "Play">
-<!ENTITY mediaPlay.accesskey "P">
-<!ENTITY mediaPause.label "Ara ver">
-<!ENTITY mediaPause.accesskey "r">
+<!ENTITY mediaPlay.label "Yürüt">
+<!ENTITY mediaPlay.accesskey "Y">
+<!ENTITY mediaPause.label "Duraklat">
+<!ENTITY mediaPause.accesskey "D">
 <!ENTITY mediaMute.label "Sesi kapat">
 <!ENTITY mediaMute.accesskey "k">
 <!ENTITY mediaUnmute.label "Sesi aç">

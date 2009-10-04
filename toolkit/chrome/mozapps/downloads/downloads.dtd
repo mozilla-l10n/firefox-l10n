@@ -9,8 +9,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title "İndirilenler">
 
-<!ENTITY cmd.pause.label "Ara ver">
-<!ENTITY cmd.pause.accesskey "r">
+<!ENTITY cmd.pause.label "Duraklat">
+<!ENTITY cmd.pause.accesskey "D">
 <!ENTITY cmd.resume.label "Devam et">
 <!ENTITY cmd.resume.accesskey "t">
 <!ENTITY cmd.cancel.label "Vazgeç">

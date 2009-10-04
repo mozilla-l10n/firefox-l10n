@@ -86,14 +86,14 @@
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.label "TLS 1.0 kullan">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
-<!ENTITY pref.calendar.advanced.encryption.certificates.label "Sertifikalar">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Onay belgeleri">
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "Sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Birini otomatik olarak seç">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Her seferinde bana sor">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Sertifikaları göster">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "S">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Onay belgelerini göster">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "O">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Hükümsüz sayılanlar listesi">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "r">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Doğrulama">

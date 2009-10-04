@@ -15,8 +15,8 @@
 
 <!ENTITY useAutoScroll.label "Otomatik kaydırmayı kullan">
 <!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "Yumuşak kaydırmayı kullan">
-<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY useSmoothScrolling.label "Akıcı kaydırmayı kullan">
+<!ENTITY useSmoothScrolling.accesskey "c">
 <!ENTITY checkSpelling.label "Yazarken yazım denetimi gerçekleştir">
 <!ENTITY checkSpelling.accesskey "t">
 
@@ -86,14 +86,14 @@
 <!ENTITY useSSL3.accesskey "3">
 <!ENTITY useTLS1.label "TLS 1.0 kullan">
 <!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Sertifikalar">
+<!ENTITY certificates.label "Onay belgeleri">
 <!ENTITY certSelection.description "Sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY certs.auto "Birini otomatik olarak seç">
 <!ENTITY certs.auto.accesskey "B">
 <!ENTITY certs.ask "Her seferinde bana sor">
 <!ENTITY certs.ask.accesskey "b">
-<!ENTITY viewCerts.label "Sertifikaları göster">
-<!ENTITY viewCerts.accesskey "S">
+<!ENTITY viewCerts.label "Onay belgeleini göster">
+<!ENTITY viewCerts.accesskey "O">
 <!ENTITY viewCRLs.label "Hükümsüz sayılanlar listesi">
 <!ENTITY viewCRLs.accesskey "r">
 <!ENTITY verify2.label "Doğrulama">
