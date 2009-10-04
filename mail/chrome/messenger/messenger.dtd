@@ -750,7 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Spara länk som…">
-<!ENTITY saveLinkAsCmd.accesskey "S">
+<!ENTITY saveLinkAsCmd.accesskey "ä">
 <!ENTITY saveImageAsCmd.label "Spara bild som…">
 <!ENTITY saveImageAsCmd.accesskey "b">
 <!ENTITY cutCmd.label "Klipp ut">
@@ -767,6 +767,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopiera e-postadress">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Stopp">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Uppdatera">
+<!ENTITY reloadCmd.accesskey "U">
+<!ENTITY openInBrowser.label "Öppna i webbläsare">
+<!ENTITY openInBrowser.accesskey "Ö">
+<!ENTITY openLinkInBrowser.label "Öppna länk i webbläsare">
+<!ENTITY openLinkInBrowser.accesskey "w">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klar">
