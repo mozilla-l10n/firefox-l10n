@@ -251,6 +251,8 @@
 <!ENTITY openAttachment.accesskey "Ö">
 <!ENTITY delete.label "Ta bort">
 <!ENTITY delete.accesskey "T">
+<!ENTITY removeAttachment.label "Ta bort bilaga">
+<!ENTITY removeAttachment.accesskey "a">
 <!ENTITY renameAttachment.label "Byt namn…">
 <!ENTITY renameAttachment.accesskey "n">
 <!ENTITY selectAll.label "Markera allt">
