@@ -1,5 +1,5 @@
-<!ENTITY autoconfigWizard.title          "Oppsett at e-postkonto">
-<!ENTITY name.label                      "Namn:">
+<!ENTITY autoconfigWizard.title          "Innstillingar for e-postkonto">
+<!ENTITY name.label                      "Namnet ditt:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.emptytext                  "Fornamn, etternam">
 <!ENTITY name.text                       "Namnet ditt, slik det vert vist til andre">
@@ -23,14 +23,14 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Manuelt oppsett …">
+<!ENTITY manualSetup.label               "Manuelle innstillingar …">
 <!ENTITY manualSetup.accesskey           "M">
 <!ENTITY cancel.label                    "Avbryt">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Hald fram">
 <!ENTITY continue.accesskey              "H">
 <!ENTITY startOver.label                 "Start på nytt">
-<!ENTITY startOver.accesskey             "n">
+<!ENTITY startOver.accesskey             "t">
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -70,6 +70,6 @@
 <!ENTITY insecureServer.tooltip.title    "Åtvaring! Dette er ein usikker tenar.">
 <!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
 
-<!ENTITY insecureCleartext.description   "E-post vert sendt i klartekst, som vil seie at e-posten din kan verte lesen av andre på Internett. &brandShortName; vil la deg få e-posten din, men du burde verkeleg få e-posttilbydaren din til å konfigurere tenaren med eit sikkert samband.">
+<!ENTITY insecureUnencrypted.description "Autentisering av e-posten din er sendt utan kryptering, slik at passord (og meldingar) lett kan lesast av andre personar. &brandShortName; vil la deg hente e-posten din, men du burde kontakte e-posttilbydaren din om oppsett av tenaren for sikkert samband.">
 <!ENTITY insecureSelfSigned.description  "Tenaren brukar eit sertifikat som vi ikkje kan stole på, og vi kan derfor ikkje vere sikre på at nokon fangar opp trafikken mellom &brandShortName; og tenaren. &brandShortName; lèt deg bruke e-posten likevel, men du bør verkeleg få e-posttilbydaren til å konfigurere tenaren med eit tiltrudd sertifikat.">
 <!ENTITY secureServer.description        "Gratulerer! Dette er ein trygg tenar.">

@@ -1,3 +1,4 @@
 <!ENTITY window.title             "Meldingsoppsummering">
 <!ENTITY selectedmessages.label   "Valde meldingar">
-<!ENTITY archive.label            "Arkiver">
+<!ENTITY archive.label            "arkiver">
+<!ENTITY delete.label             "slett">

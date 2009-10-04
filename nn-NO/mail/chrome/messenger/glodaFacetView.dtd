@@ -1,8 +1,16 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.filters.label): Label at the top of the
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
-<!ENTITY glodaFacetView.filters.label "Filtrer etter:">
+<!ENTITY glodaFacetView.filters.label "Filter:">
 
-<!-- LOCALIZATION NOTE (glodaFacetView.showMore.label): Label at the bottom
+<!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
+     the search results take a long time to appear. -->
+<!ENTITY glodaFacetView.loading.label "Søkjer&#8230;">
+
+<!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
+     there are no results that match the search query. -->
+<!ENTITY glodaFacetView.empty.label "Ingen meldingar passar til søket">
+
+<!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
-<!ENTITY glodaFacetView.showMore.label "Vis fleire treff">
+<!ENTITY glodaFacetView.pageMore.label "Fleire &#187;">
