@@ -143,7 +143,7 @@
 <!ENTITY recentFolders.accesskey                       "H">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label                                "Sorteerimine">
+<!ENTITY sortMenu.label                                "Sortimine">
 <!ENTITY sortMenu.accesskey                            "S">
 <!ENTITY sortByDateCmd.label                           "Kuupäev">
 <!ENTITY sortByDateCmd.accesskey                       "e">
@@ -181,7 +181,7 @@
 <!ENTITY sortThreaded.accesskey                        "i">
 <!ENTITY sortUnthreaded.label                          "Lõimedeta">
 <!ENTITY sortUnthreaded.accesskey                      "õ">
-<!ENTITY groupBySort.label                             "Grupeeritud sorteerimise järgi">
+<!ENTITY groupBySort.label                             "Grupeeritud sortimise järgi">
 <!ENTITY groupBySort.accesskey                         "G">
 <!ENTITY msgsMenu.label                                "Kirjad">
 <!ENTITY msgsMenu.accesskey                            "K">
@@ -563,24 +563,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip                         "Klõpsa näidatavate veergude valimiseks">
 <!ENTITY threadColumn.tooltip                          "Klõpsa, et kuvada kirju lõimedena">
-<!ENTITY fromColumn.tooltip                            "Klõpsa, et sorteerida saatja järgi">
-<!ENTITY recipientColumn.tooltip                       "Klõpsa, et sorteerida adressaadi järgi">
-<!ENTITY subjectColumn.tooltip                         "Klõpsa, et sorteerida teema järgi">
-<!ENTITY dateColumn.tooltip                            "Klõpsa, et sorteerida kuupäeva järgi">
-<!ENTITY priorityColumn.tooltip                        "Klõpsa, et sorteerida prioriteedi järgi">
-<!ENTITY tagsColumn.tooltip                            "Klõpsa, et sorteerida siltide järgi">
-<!ENTITY accountColumn.tooltip                         "Klõpsa, et sorteerida kontode järgi">
-<!ENTITY statusColumn.tooltip                          "Klõpsa, et sorteerida oleku järgi">
-<!ENTITY sizeColumn.tooltip                            "Klõpsa, et sorteerida suuruse järgi">
-<!ENTITY junkStatusColumn.tooltip                      "Klõpsa, et sorteerida rämpspostiks olemise järgi">
+<!ENTITY fromColumn.tooltip                            "Klõpsa, et sortida saatja järgi">
+<!ENTITY recipientColumn.tooltip                       "Klõpsa, et sortida adressaadi järgi">
+<!ENTITY subjectColumn.tooltip                         "Klõpsa, et sortida teema järgi">
+<!ENTITY dateColumn.tooltip                            "Klõpsa, et sortida kuupäeva järgi">
+<!ENTITY priorityColumn.tooltip                        "Klõpsa, et sortida prioriteedi järgi">
+<!ENTITY tagsColumn.tooltip                            "Klõpsa, et sortida siltide järgi">
+<!ENTITY accountColumn.tooltip                         "Klõpsa, et sortida kontode järgi">
+<!ENTITY statusColumn.tooltip                          "Klõpsa, et sortida oleku järgi">
+<!ENTITY sizeColumn.tooltip                            "Klõpsa, et sortida suuruse järgi">
+<!ENTITY junkStatusColumn.tooltip                      "Klõpsa, et sortida rämpspostiks olemise järgi">
 <!ENTITY unreadColumn.tooltip                          "Lugemata kirjade arv lõimes">
 <!ENTITY totalColumn.tooltip                           "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn.tooltip                            "Klõpsa, et sorteerida loetuse järgi">
-<!ENTITY receivedColumn.tooltip                        "Klõpsa, et sorteerida saabumise aja järgi">
-<!ENTITY starredColumn.tooltip                         "Klõpsa, et sorteerida tähistuse järgi">
-<!ENTITY locationColumn.tooltip                        "Klõpsa, et sorteerida asukoha järgi">
-<!ENTITY idColumn.tooltip                              "Klõpsa, et sorteerida kättesaamise järgi">
-<!ENTITY attachmentColumn.tooltip                      "Klõpsa, et sorteerida manuste järgi">
+<!ENTITY readColumn.tooltip                            "Klõpsa, et sortida loetuse järgi">
+<!ENTITY receivedColumn.tooltip                        "Klõpsa, et sortida saabumise aja järgi">
+<!ENTITY starredColumn.tooltip                         "Klõpsa, et sortida tähistuse järgi">
+<!ENTITY locationColumn.tooltip                        "Klõpsa, et sortida asukoha järgi">
+<!ENTITY idColumn.tooltip                              "Klõpsa, et sortida kättesaamise järgi">
+<!ENTITY attachmentColumn.tooltip                      "Klõpsa, et sortida manuste järgi">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label                    "Ava kiri uues aknas">
