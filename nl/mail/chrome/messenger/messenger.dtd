@@ -738,7 +738,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Vernieuwen">
 <!ENTITY reloadCmd.accesskey "V">
-
+<!ENTITY openInBrowser.label "In browser openen">
+<!ENTITY openInBrowser.accesskey "o">
+<!ENTITY openLinkInBrowser.label "Koppeling in browser openen">
+<!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klaar">
