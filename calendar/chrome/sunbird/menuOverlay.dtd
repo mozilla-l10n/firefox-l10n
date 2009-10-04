@@ -177,7 +177,7 @@
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label          "Serviços">
 <!ENTITY hideThisAppCmdMac.label        "Esconder o &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "E">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Esconder Outros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
