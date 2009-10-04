@@ -31,8 +31,12 @@
 
 <!ENTITY accountManagerTitle.label "Kontoinställningar för e-post och diskussionsgrupper">
 
-<!ENTITY addAccountButton.label "Lägg till konto…">
-<!ENTITY addAccountButton.accesskey "L">
+<!ENTITY accountActionsButton.label "Kontoåtgärder">
+<!ENTITY accountActionsButton.accesskey "t">
+<!ENTITY addMailAccountButton.label "Lägg till e-postkonto…">
+<!ENTITY addMailAccountButton.accesskey "L">
+<!ENTITY addOtherAccountButton.label "Lägg till annat konto…">
+<!ENTITY addOtherAccountButton.accesskey "a">
 <!ENTITY setDefaultButton.label "Gör till standardkonto">
 <!ENTITY setDefaultButton.accesskey "G">
 <!ENTITY removeButton.label "Ta bort konto">
