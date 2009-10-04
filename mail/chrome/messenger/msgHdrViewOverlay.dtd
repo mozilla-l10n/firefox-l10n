@@ -86,6 +86,10 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "v">
 <!ENTITY otherActionsOpenInNewTab.label "Openen in nieuw tabblad">
 <!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "als gelezen markeren">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "als ongelezen markeren">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "opslaan als…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "bron bekijken">
