@@ -68,7 +68,7 @@
 <!-- Button labels -->
 
 <!ENTITY cancel "Vazgeç">
-<!ENTITY pause "Ara ver">
+<!ENTITY pause "Duraklat">
 <!ENTITY resume "Devam et">
 <!ENTITY close "Kapat">
 <!ENTITY reveal "Dosya konumunu göster">
@@ -78,7 +78,7 @@
     This string is used to indicate that the download is paused -->
 
 
-<!ENTITY pausedMsg "İndirme durdu">
+<!ENTITY pausedMsg "İndirme duraklatıldı">
 <!-- LOCALIZATION NOTE (progressMsg):
 
     This string is used to generate the status message used during

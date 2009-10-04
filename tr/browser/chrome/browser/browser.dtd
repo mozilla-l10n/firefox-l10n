@@ -326,7 +326,7 @@
 <!ENTITY mediaPlay.label "Yürüt">
 <!ENTITY mediaPlay.accesskey "t">
 <!ENTITY mediaPause.label "Duraklat">
-<!ENTITY mediaPause.accesskey "u">
+<!ENTITY mediaPause.accesskey "D">
 <!ENTITY mediaMute.label "Sesi kapat">
 <!ENTITY mediaMute.accesskey "k">
 <!ENTITY mediaUnmute.label "Sesi aç">

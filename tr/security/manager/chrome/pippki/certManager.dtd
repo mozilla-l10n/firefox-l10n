@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title "Sertifika yöneticisi">
+<!ENTITY certmgr.title "Onay belgesi yöneticisi">
 
-<!ENTITY certmgr.tab.mine "Sertifikalarınız">
+<!ENTITY certmgr.tab.mine "Onay belgeleriniz">
 <!ENTITY certmgr.tab.others2 "Kişiler">
 <!ENTITY certmgr.tab.websites3 "Sunucular">
 <!ENTITY certmgr.tab.ca "Yetkili">
@@ -46,10 +46,10 @@
 <!ENTITY certmgr.ca.builtins "Yerleşik CA">
 <!ENTITY certmgr.ca.mycas "Tarafınızdan yönetilen CA">
 
-<!ENTITY certmgr.mine "Bu kurum tarafından sertifikalanan kimlikler:">
-<!ENTITY certmgr.others "Bu dosyada şu insanlar sertifikalandı:">
+<!ENTITY certmgr.mine "Bu kurum tarafından onaylanan kimlikler:">
+<!ENTITY certmgr.others "Bu dosyada şu insanlar onaylandı:">
 <!ENTITY certmgr.websites2 "Dosyada bu sunucuları tanımlayan onay belgeleriniz var:">
-<!ENTITY certmgr.cas "Elinizdeki sertifikalar aşağıda belirtilen sertifika sağlayıcılarınınkilerle özdeş:">
+<!ENTITY certmgr.cas "Elinizdeki onay belgeleri aşağıda belirtilen onay belgesi sağlayıcılarınınkilerle özdeş:">
 <!ENTITY certmgr.orphans "Dosyada diğer hiçbir kategoride olmayan onay belgeleriniz var:">
 
 <!ENTITY certmgr.detail.general_tab.title "Genel">
@@ -57,12 +57,12 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Ayrıntılar">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "A">
 
-<!ENTITY certmgr.pending.label "Şu an sertifika doğrulanıyor…">
+<!ENTITY certmgr.pending.label "Şu an onay belgesi doğrulanıyor…">
 <!ENTITY certmgr.subjectinfo.label "Onaylanan">
 <!ENTITY certmgr.issuerinfo.label "Düzenleyen">
 <!ENTITY certmgr.validity.label "Geçerlilik">
 <!ENTITY certmgr.fingerprints.label "Parmak izleri">
-<!ENTITY certmgr.certdetail.title "Sertifika ayrıntıları">
+<!ENTITY certmgr.certdetail.title "Onay belgesi ayrıntıları">
 <!ENTITY certmgr.certdetail.cn "Genel isim (CN)">
 <!ENTITY certmgr.certdetail.o "Kurum (O)">
 <!ENTITY certmgr.certdetail.ou "Kurumsal birim (OU)">
@@ -70,29 +70,29 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 parmak izi">
 <!ENTITY certmgr.certdetail.md5fingerprint "MD5 parmak izi">
 
-<!ENTITY certmgr.editcert.title "Güvenlik sertifika ayarlarını düzenle">
-<!ENTITY certmgr.editcacert.title "CA sertifika güvenlik ayarlarını düzenle">
-<!ENTITY certmgr.editsslcert.title "Ağ sayfası sertifika güvenlik ayarlarını düzenle">
+<!ENTITY certmgr.editcert.title "Güvenlik onay belgesi ayarlarını düzenle">
+<!ENTITY certmgr.editcacert.title "CA onay belgesi güvenlik ayarlarını düzenle">
+<!ENTITY certmgr.editsslcert.title "Ağ sayfası onay belgesi güvenlik ayarlarını düzenle">
 <!ENTITY certmgr.editcert.edittrust "Güven ayarlarını düzenle:">
-<!ENTITY certmgr.editcert.trustssl "Bu sertifika ağ sayfalarını belirler.">
-<!ENTITY certmgr.editcert.trustemail "Bu sertifika posta kullanıcılarını tanımlar.">
-<!ENTITY certmgr.editcert.trustobjsign "Bu sertifika yazılımcıları belirler.">
-<!ENTITY certmgr.editsslcert.edittrust "Sertifika güven ayarlarını düzeni:">
-<!ENTITY certmgr.editsslcert.dotrust "Bu sertifikanın doğruluğu güvensiz.">
-<!ENTITY certmgr.editsslcert.donttrust "Bu sertifikanın doğruluğuna güvenme.">
-<!ENTITY certmgr.editemailcert.title "E-posta sertifika güvenlik ayarlarını düzenle">
-<!ENTITY certmgr.editemailcert.edittrust "Sertifika güvenlik ayarlarını düzenle:">
-<!ENTITY certmgr.editemailcert.dotrust "Bu sertifikanın kimlik doğrulamasına güven.">
-<!ENTITY certmgr.editemailcert.donttrust "Bu sertifikanın kimlik doğrulamasına güvenme.">
+<!ENTITY certmgr.editcert.trustssl "Bu onay belgesi ağ sayfalarını belirler.">
+<!ENTITY certmgr.editcert.trustemail "Bu onay belgesi posta kullanıcılarını tanımlar.">
+<!ENTITY certmgr.editcert.trustobjsign "Bu onay belgesi yazılımcıları belirler.">
+<!ENTITY certmgr.editsslcert.edittrust "Onay belgesi güven ayarlarını düzenle:">
+<!ENTITY certmgr.editsslcert.dotrust "Bu onay belgesinin doğruluğu güvensiz.">
+<!ENTITY certmgr.editsslcert.donttrust "Bu onay belgesinin doğruluğuna güvenmeyin.">
+<!ENTITY certmgr.editemailcert.title "E-posta onay belgesi güvenlik ayarlarını düzenle">
+<!ENTITY certmgr.editemailcert.edittrust "Onay belgesi güvenlik ayarlarını düzenle:">
+<!ENTITY certmgr.editemailcert.dotrust "Bu onay belgesinin kimlik doğrulamasına güven.">
+<!ENTITY certmgr.editemailcert.donttrust "Bu onay belgesinin kimlik doğrulamasına güvenmeyin.">
 
-<!ENTITY certmgr.deletecert.title "Sertifika Sil">
-<!ENTITY certmgr.deletecert.beforename "Silinmesini istediğiniz sertifika:">
-<!ENTITY certmgr.deletecert.aftername "Bu sertifikayı silmek istediğinizden emin misiniz ?">
-<!ENTITY certmgr.deleteusercert.title "Sertifikamı sil">
-<!ENTITY certmgr.deleteusercert.beforename "Silinmesini talep ettiğiniz sertifika:">
-<!ENTITY certmgr.deleteusercert.aftername "Bu sertifikayı silerseniz, sildikten sonra bunun ile şifrelenmiş postaları okuyamazsınız.">
+<!ENTITY certmgr.deletecert.title "Onay belgesini Sil">
+<!ENTITY certmgr.deletecert.beforename "Silmek istediğiniz onay belgesi:">
+<!ENTITY certmgr.deletecert.aftername "Bu onay belgesini silmek istediğinizden emin misiniz?">
+<!ENTITY certmgr.deleteusercert.title "Onay belgemi sil">
+<!ENTITY certmgr.deleteusercert.beforename "Silinmesini talep ettiğiniz onay belgesi:">
+<!ENTITY certmgr.deleteusercert.aftername "Bu onay belgesini silerseniz, sildikten sonra bunun ile şifrelenmiş postaları okuyamazsınız.">
 
-<!ENTITY certmgr.certname "Sertifika ismi">
+<!ENTITY certmgr.certname "Onay belgesi ismi">
 <!ENTITY certmgr.certserver "Sunucu">
 <!ENTITY certmgr.typesofoverrides "Ayrıcalıklar">
 <!ENTITY certmgr.override_lifetime "Yaşam süresi">
@@ -123,11 +123,11 @@
 <!ENTITY certmgr.backupall2.accesskey "d">
 <!ENTITY certmgr.restore2.label "İçe aktar…">
 <!ENTITY certmgr.restore2.accesskey "a">
-<!ENTITY certmgr.details.label "Sertifika alanları">
-<!ENTITY certmgr.details.accesskey "S">
+<!ENTITY certmgr.details.label "Onay belgesi alanları">
+<!ENTITY certmgr.details.accesskey "O">
 <!ENTITY certmgr.fields.label "Alan değeri">
 <!ENTITY certmgr.fields.accesskey "d">
-<!ENTITY certmgr.hierarchy.label "Sertifika hiyerarşisi">
+<!ENTITY certmgr.hierarchy.label "Onay belgesi hiyerarşisi">
 <!ENTITY certmgr.hierarchy.accesskey "h">
 <!ENTITY certmgr.addException.label "Ayrıcalık tanı…">
 <!ENTITY certmgr.addException.accesskey "t">

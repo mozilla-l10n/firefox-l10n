@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Sertifikayı indir">
-<!ENTITY info.message "Alıcı sertifikalarını dizinde ara. Bu işlem uzun sürebilir.">
+<!ENTITY title.label "Onay belgesini indir">
+<!ENTITY info.message "Alıcı onay belgelerini dizinde ara. Bu işlem uzun sürebilir.">
 <!ENTITY stop.label "Aramayı durdur">

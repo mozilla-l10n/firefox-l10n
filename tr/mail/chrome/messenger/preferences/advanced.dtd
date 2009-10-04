@@ -2,7 +2,7 @@
 <!ENTITY itemDisplay.label "Okuma ve görünüm">
 <!ENTITY itemUpdate.label "Güncelleme">
 <!ENTITY itemNetworking.label "Ağ ve disk alanı">
-<!ENTITY itemCertificates.label "Sertifikalar">
+<!ENTITY itemCertificates.label "Onay belgeleri">
 <!-- General Settings -->
 
 
@@ -98,7 +98,7 @@
 <!ENTITY certs.ask "Her seferinde bana sor">
 <!ENTITY certs.ask.accesskey "H">
 
-<!ENTITY viewCertificates.label "Sertifikaları göster">
+<!ENTITY viewCertificates.label "Onay belgelerini göster">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "Hükümsüz sayılanları göster">
 <!ENTITY viewCRLs.accesskey "e">

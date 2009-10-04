@@ -38,7 +38,7 @@
 
 <!ENTITY progress.title "İndirme işlemi…">
 <!ENTITY closeWindow.key "d">
-<!ENTITY cmd.pause.tooltip "Ara verilmiş">
+<!ENTITY cmd.pause.tooltip "Duraklat">
 <!ENTITY cmd.resume.tooltip "Devam et">
 <!ENTITY cmd.retry.tooltip "Yeniden dene">
 <!ENTITY cmd.cancel.tooltip "Vazgeç">

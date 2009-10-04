@@ -64,8 +64,8 @@
 <!ENTITY view.sortDescending.label "Z'den A'ya sırala">
 <!ENTITY view.sortDescending.accesskey "Z">
 
-<!ENTITY cmd.pause.label "Ara ver">
-<!ENTITY cmd.pause.accesskey "r">
+<!ENTITY cmd.pause.label "Duraklat">
+<!ENTITY cmd.pause.accesskey "D">
 <!ENTITY cmd.resume.label "Devam et">
 <!ENTITY cmd.resume.accesskey "t">
 <!ENTITY cmd.retry.label "Yeniden dene">

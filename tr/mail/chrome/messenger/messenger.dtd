@@ -663,8 +663,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contextPlay.label "Yürüt">
 <!ENTITY contextPlay.accesskey "t">
-<!ENTITY contextPause.label "Ara ver">
-<!ENTITY contextPause.accesskey "r">
+<!ENTITY contextPause.label "Duraklat">
+<!ENTITY contextPause.accesskey "D">
 <!ENTITY contextMute.label "Sesi kapat">
 <!ENTITY contextMute.accesskey "k">
 <!ENTITY contextUnmute.label "Sesi aç">

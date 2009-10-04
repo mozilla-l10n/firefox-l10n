@@ -102,7 +102,7 @@
 <!ENTITY securityTab "Güvenlik">
 <!ENTITY securityTab.accesskey "G">
 <!ENTITY securityHeader "Sayfanın güvenlik bilgileri">
-<!ENTITY securityView.certView "Sertifikaları göster">
+<!ENTITY securityView.certView "Onay belgesini göster">
 <!ENTITY securityView.accesskey "G">
 <!ENTITY securityView.unknown "Bilinmiyor">
 
