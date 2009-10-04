@@ -753,8 +753,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Spara bild som…">
 <!ENTITY saveImageAsCmd.accesskey "b">
+<!ENTITY cutCmd.label "Klipp ut">
+<!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopiera">
 <!ENTITY copyCmd.accesskey "o">
+<!ENTITY pasteCmd.label "Klistra in">
+<!ENTITY pasteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Markera allt">
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Kopiera länkadress">
