@@ -55,7 +55,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar Tarefas Concluidas">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar Tarefas Concluídas">
 
 <!ENTITY calendar.today.button.label       "Hoje" >
 <!ENTITY calendar.tomorrow.button.label       "Amanhã">
@@ -91,7 +91,7 @@
 <!ENTITY calendar.day.button.tooltip            "Mudar para vista do dia" >
 <!ENTITY calendar.week.button.tooltip           "Mudar para vista da semana" >
 <!ENTITY calendar.month.button.tooltip          "Mudar para vista do mês" >
-<!ENTITY calendar.multiweek.button.tooltip      "Mudar para vista de multisemanas" >
+<!ENTITY calendar.multiweek.button.tooltip      "Mudar para vista multi-semanal" >
 
 <!ENTITY calendar.nextday.button.tooltip        "Dia Seguinte" >
 <!ENTITY calendar.prevday.button.tooltip        "Dia Anterior" >
@@ -121,7 +121,7 @@
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "p" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Tarefas em Vista" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "f" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Mostrar Tarefas Concluidas" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Mostrar Tarefas Concluídas" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "C" >
 
 <!ENTITY calendar.orientation.label "Rodar Vista" >
