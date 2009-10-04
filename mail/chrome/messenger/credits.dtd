@@ -1,17 +1,13 @@
 <!ENTITY credit.title     "&brandFullName; bidragsytarar">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
-<!ENTITY credit.leads     "Hovudingeniørar">
 <!ENTITY credit.thanks    "Spesielt takk til">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Omsetjarar</h3><ul><li>Vebjørn Sture</li><li>Torstein Hønsi</li><li>Kurt-Rune Bergset</li><li>Ronny Vårdal</li><li>Tom Ottar Røw</li><li>Kristian Svanes</li><li>Åsmund Skjæveland</li><li>Erik Klepsvik</li><li>Håvar Henriksen</li><li>Håvard Mork</li><li>Jan-Espen Pettersen</li><li>Pascual Strømsnæs</li><li>Bjørn Svindseth</li><li>Eirik U. Birkeland</li></ul>">
+  "<h3>Norsk omsetjing</h3><ul><li>Vebjørn Sture</li><li>Torstein Hønsi</li><li>Kurt-Rune Bergset</li><li>Ronny Vårdal</li><li>Tom Ottar Røw</li><li>Kristian Svanes</li><li>Åsmund Skjæveland</li><li>Erik Klepsvik</li><li>Håvar Henriksen</li><li>Håvard Mork</li><li>Jan-Espen Pettersen</li><li>Pascual Strømsnæs</li><li>Bjørn I. Svindseth</li><li>Eirik U. Birkeland</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Omsetjarar</h3><ul><li>Vebjørn Sture</li><li>Torstein Hønsi</li><li>Kurt-Rune Bergset</li><li>Ronny Vårdal</li><li>Tom Ottar Røw</li><li>Kristian Svanes</li><li>Åsmund Skjæveland</li><li>Erik Klepsvik</li><li>Håvar Henriksen</li><li>Håvard Mork</li><li>Jan-Espen Pettersen</li><li>Pascual Strømsnæs</li><li>Bjørn Svindseth</li><li>Eirik U. Birkeland</li></ul>">
+<!ENTITY credit.translation "<h3>Norsk omsetjing</h3><ul><li>Vebjørn Sture</li><li>Torstein Hønsi</li><li>Kurt-Rune Bergset</li><li>Ronny Vårdal</li><li>Tom Ottar Røw</li><li>Kristian Svanes</li><li>Åsmund Skjæveland</li><li>Erik Klepsvik</li><li>Håvar Henriksen</li><li>Håvard Mork</li><li>Jan-Espen Pettersen</li><li>Pascual Strømsnæs</li><li>Bjørn I. Svindseth</li><li>Eirik U. Birkeland</li></ul>">
 
-<!ENTITY credit.theme          "Tema-utforming">
-<!ENTITY credit.qa             "Kvalitetssikring">
-<!ENTITY credit.build          "Utgjevingar">
 <!ENTITY credit.memory         "Til minne om">
 <!ENTITY credit.poweredByGecko "Brukar Gecko&trade;-teknologi">
