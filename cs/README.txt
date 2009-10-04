@@ -1,4 +1,2 @@
-This directory contains Czech (cs) locale that is maintain
-by CZilla.cz team <info@czilla.cz>
-
-Browser/mail/toolkit owner: Pavel Franc <franc@czilla.cz>
+This directory contains Czech (cs) locale that is maintained
+by Pavel Franc <pfranc@mozilla.cz>
