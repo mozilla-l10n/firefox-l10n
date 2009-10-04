@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Gör om radbrytning">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "y">
@@ -258,7 +259,7 @@
 <!ENTITY selectAll.label "Markera allt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Bifoga fil(er)…">
-<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachFile.accesskey "B">
 <!ENTITY attachPage.label "Bifoga webbsida…">
 <!ENTITY attachPage.accesskey "w">
 
