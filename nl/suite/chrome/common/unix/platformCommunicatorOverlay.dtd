@@ -19,7 +19,7 @@
 <!ENTITY accel.emacs_conflict           "accel,shift">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label              "Help inhoud">
+<!ENTITY openHelpCmd.label              "Helpinhoud">
 <!ENTITY openHelpCmd.accesskey          "H">
 <!ENTITY openHelpCmd.key                "VK_F1">
 
@@ -27,3 +27,7 @@
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
+
+<!-- Copy Image Location (regression fix for bug 469481) -->
+<!ENTITY copyImageURLCmd.label          "Afbeeldings-url kopiëren">
+<!ENTITY copyImageURLCmd.accesskey      "u">

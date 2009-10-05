@@ -4,12 +4,15 @@
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "Vanuit koppelingen geopende nieuwe tabbladen selecteren">
 <!ENTITY background.accesskey "S">
+<!ENTITY warnOnClose.label "Waarschuwen bij sluiten van een venster met meerdere tabbladen">
+<!ENTITY warnOnClose.accesskey "v">
 <!ENTITY loadGroup.label "Tijdens het openen van een bladwijzersgroep">
 <!ENTITY loadGroupAppend.label "Tabbladen toevoegen">
 <!ENTITY loadGroupAppend.accesskey "T">
 <!ENTITY loadGroupReplace.label "Bestaande tabbladen vervangen">
 <!ENTITY loadGroupReplace.accesskey "B">
 <!ENTITY openTabs.label "Tabbladen in plaats van vensters openen voor">
+
 <!ENTITY newWindow.label "Koppelingen in webpagina's">
 <!ENTITY newWindowDescription.label "Koppelingen die een nieuw venster openen tonen in">
 <!ENTITY external.label "Koppelingen vanuit andere applicaties">

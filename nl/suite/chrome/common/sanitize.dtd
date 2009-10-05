@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label               "Navigatiegeschiedenis">
 <!ENTITY itemHistory.accesskey           "N">
+<!ENTITY itemUrlBar.label                "Locatiebalkgeschiedenis">
+<!ENTITY itemUrlBar.accesskey            "L">
 <!ENTITY itemDownloads.label             "Downloadgeschiedenis">
 <!ENTITY itemDownloads.accesskey         "D">
 <!ENTITY itemFormSearchHistory.label     "Opgeslagen formulier- en zoekgeschiedenis">

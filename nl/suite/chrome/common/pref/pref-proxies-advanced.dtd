@@ -20,7 +20,7 @@
 
 <!ENTITY socks.caption                "Algemene proxy">
 <!ENTITY socks.description            "Een SOCKS-proxy is een algemene proxy die soms wordt gebruikt in een kantooromgeving">
-<!ENTITY socks.label                  "SOCKS-Proxy:">
+<!ENTITY socks.label                  "SOCKS-proxy:">
 <!ENTITY socks.accesskey              "O">
 <!ENTITY socks4.label                 "SOCKS v4">
 <!ENTITY socks4.accesskey             "C">

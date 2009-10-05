@@ -589,9 +589,9 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Onderwerp en afzender doorzoeken">
-<!ENTITY advancedButton.label "Advanced…">
-<!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchSubjectOrAddress.emptytext "Onderwerp of adres zoeken">
+<!ENTITY advancedButton.label "geavanceerd…">
+<!ENTITY advancedButton.accesskey "g">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
@@ -606,5 +606,5 @@
 <!ENTITY loadRemoteContentButton.label "Afbeeldingen laden">
 
 <!-- Remote Content Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; denkt dat dit bericht misschien een e-mailscam is.">
-<!ENTITY removePhishingBarButton.label "Geen scam">
+<!ENTITY phishingBarMessage.label "&brandShortName; denkt dat dit bericht misschien een phishing e-mail is.">
+<!ENTITY removePhishingBarButton.label "Geen phishing e-mail">
