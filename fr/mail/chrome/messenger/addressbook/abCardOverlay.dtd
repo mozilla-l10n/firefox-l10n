@@ -115,7 +115,7 @@ dans les messages HTML de ce contact.">
 <!ENTITY HomeCountry.accesskey "P">
 <!ENTITY HomeWebPage.label "Page Web :">
 <!ENTITY HomeWebPage.accesskey "e">
-<!ENTITY Birthday.label "Anniversaire :">
+<!ENTITY Birthday.label "Anniversaire :">
 <!ENTITY Birthday.accesskey "A">
 <!ENTITY In.label "">
 <!ENTITY Year.emptytext "Année">
@@ -156,12 +156,12 @@ dans les messages HTML de ce contact.">
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "Divers 4 :"> 
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Notes :">
+<!ENTITY Notes.label "Notes :">
 <!ENTITY Notes.accesskey "N">
 
 <!ENTITY Photo.tab "Photo">
 <!ENTITY Photo.accesskey "o">
-<!ENTITY PhotoDesc.label "Choisir une des photos suivantes :">
+<!ENTITY PhotoDesc.label "Choisir une des photos suivantes :">
 <!ENTITY GenericPhoto.label "Photo générique">
 <!ENTITY GenericPhoto.accesskey "P">
 <!ENTITY DefaultPhoto.label "Défaut">

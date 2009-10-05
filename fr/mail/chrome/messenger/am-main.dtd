@@ -13,11 +13,11 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organisation :">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signatureText.label "Texte de signature :">
+<!ENTITY signatureText.label "Texte de signature :">
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Utiliser HTML (par ex., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "U">
-<!ENTITY signatureFile.label "Apposer la signature à partir d'un fichier (texte, HTML ou image) :">
+<!ENTITY signatureFile.label "Apposer la signature à partir d'un fichier (texte, HTML ou image) :">
 <!ENTITY signatureFile.accesskey "H">
 <!ENTITY edit.label "Modifier…">
 <!ENTITY choose.label "Choisir…">
@@ -33,6 +33,6 @@
 <!ENTITY manageIdentities.accesskey "G">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Serveur sortant (SMTP):">
+<!ENTITY smtpName.label "Serveur sortant (SMTP) :">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Utiliser le serveur par défaut">

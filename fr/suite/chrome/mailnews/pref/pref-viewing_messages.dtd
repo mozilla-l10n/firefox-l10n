@@ -52,7 +52,7 @@
 <!ENTITY displayPlainText.caption "Messages en texte simple">
 <!ENTITY fontPlainText.label "Police :">
 <!ENTITY fontPlainText.accesskey "P">
-<!ENTITY displayQuoted.label "Paramètres d'affichage du texte simple cité :">
+<!ENTITY displayQuoted.label "Paramètres d'affichage du texte simple cité :">
 <!ENTITY wrapInMsg.label "Reformatage des messages">
 <!ENTITY wrapInMsg.accesskey "e">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
@@ -77,7 +77,7 @@
 <!ENTITY existingWindowRadio.accesskey "n">
 <!ENTITY disableContent.label "Bloquer les images et autres contenus distants">
 <!ENTITY disableContent.accesskey "B">
-<!ENTITY showCondensedAddresses.label "Afficher seulement « Nom à afficher » pour les personnes dans mon carnet d'adresses">
+<!ENTITY showCondensedAddresses.label "Afficher seulement « Nom à afficher » pour les personnes dans mon carnet d'adresses">
 <!ENTITY showCondensedAddresses.accesskey "h">
 <!ENTITY closeMsgWindowOnDelete.label "Fermer la fenêtre de message lors de la suppression du message">
 <!ENTITY closeMsgWindowOnDelete.accesskey "F">

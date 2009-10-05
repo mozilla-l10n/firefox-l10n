@@ -1,6 +1,6 @@
 <!ENTITY privatebrowsingpage.title "Navigation privée">
 
-<!ENTITY privatebrowsingpage.title.normal "Voulez-vous commencer une session de navigation privée ?">
+<!ENTITY privatebrowsingpage.title.normal "Voulez-vous commencer une session de navigation privée ?">
 
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; ne conservera aucun historique pour cette session.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; n'est pas en ce moment en mode de navigation privée.">

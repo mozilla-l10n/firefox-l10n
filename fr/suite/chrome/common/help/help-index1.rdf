@@ -155,7 +155,7 @@
       <rdf:Seq>
         <rdf:li>
           <rdf:Description ID="Sidebar:description"
-            nc:name="Qu'est-ce que la barre latérale ?"
+            nc:name="Qu'est-ce que la barre latérale ?"
             nc:link="customize_help.xhtml#what_is_sidebar"/>
         </rdf:li>
         <rdf:li>
@@ -569,7 +569,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:cookies_and"
-         nc:name="Que sont les cookies et comment fonctionnent-ils ?"
+         nc:name="Que sont les cookies et comment fonctionnent-ils ?"
          nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/>
      </rdf:li>
      <rdf:li>
@@ -621,12 +621,12 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="cookies:email_and"
-            nc:name="Comment contrôler les pages Web dans les courriers ?"
+            nc:name="Comment contrôler les pages Web dans les courriers ?"
             nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="cookies:foreign"
-            nc:name="Que sont les cookies tierce-partie ?"
+            nc:name="Que sont les cookies tierce-partie ?"
             nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
         </rdf:li>
         <rdf:li>
@@ -825,7 +825,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
-         nc:name="Choisir l'apparence de la fenêtre « Courrier »"
+         nc:name="Choisir l'apparence de la fenêtre « Courrier »"
          nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
      </rdf:li>
      <rdf:li>
@@ -1282,7 +1282,7 @@
       <rdf:Seq>
         <rdf:li>
           <rdf:Description ID="images:email_and"
-            nc:name="Comment contrôler les pages Web dans les courriers ?"
+            nc:name="Comment contrôler les pages Web dans les courriers ?"
             nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
         </rdf:li>
         <rdf:li>
@@ -1536,7 +1536,7 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="bookmarks:what_are_bookmarks"
-            nc:name="Que sont les marque-pages ?"
+            nc:name="Que sont les marque-pages ?"
             nc:link="customize_help.xhtml#what_are_bookmarks"/>
         </rdf:li>
       </rdf:Seq>
@@ -1592,7 +1592,7 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="master_password:forgetting"
-            nc:name="Que faire en cas d'oubli du mot de passe principal ?"
+            nc:name="Que faire en cas d'oubli du mot de passe principal ?"
             nc:link="using_priv_help.xhtml#what_to_do_if_you_forget_your_master_password"/>
         </rdf:li>
         <rdf:li>
@@ -1733,7 +1733,7 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="Tabbed_Browsing:what_is"
-            nc:name="Qu'est-ce que la navigation par onglets ?"
+            nc:name="Qu'est-ce que la navigation par onglets ?"
             nc:link="customize_help.xhtml#what_is_tabbed_browsing"/>
         </rdf:li>
       </rdf:Seq>

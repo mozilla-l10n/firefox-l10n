@@ -48,7 +48,7 @@
 <!ENTITY newsgroupsField.label "Groupes : ">
 <!ENTITY followupToField.label "Faire suivre à : ">
 
-<!ENTITY tagsHdr.label "Étiquette : ">
+<!ENTITY tagsHdr.label "Étiquette : ">
 <!ENTITY dateField.label "Date : ">
 <!ENTITY userAgentField.label "Agent utilisateur : ">
 <!ENTITY referencesField.label "Références : ">

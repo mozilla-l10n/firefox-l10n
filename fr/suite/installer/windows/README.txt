@@ -74,7 +74,7 @@ temporairement votre antivirus.
 Pour toutes les plateformes, décompressez dans un (nouveau) répertoire vide.
 Installer par dessus d'anciennes versions peut provoquer des problèmes.
 
-Note : Ces instructions ne vous indiquent pas comment compiler SeaMonkey.
+Note : Ces instructions ne vous indiquent pas comment compiler SeaMonkey.
 Pour des informations sur la façon de compiler SeaMonkey, consultez
 
   http://developer.mozilla.org/en/docs/Build_Documentation
@@ -83,14 +83,14 @@ Pour des informations sur la façon de compiler SeaMonkey, consultez
 Instructions d'installation pour Windows
 ----------------------------------------
 
-Note : Pour les systèmes Windows 2000 et XP, vous devez avoir des privilèges
+Note : Pour les systèmes Windows 2000 et XP, vous devez avoir des privilèges
 administrateur pour installer SeaMonkey. Si vous voyez le message "Error 5"
 pendant l'installation, assurez-vous d'exécuter l'installation avec des
 privilèges administrateur.
 
 
    Pour installer SeaMonkey en téléchargeant l'installeur SeaMonkey,
-   suivez ces étapes :
+   suivez ces étapes :
 
    1. Cliquez sur le lien seamonkey-x.xx.fr.win32.installer.exe (ou un nom
       de fichier similaire) sur le site d'où vous voulez télécharger SeaMonkey
@@ -105,7 +105,7 @@ privilèges administrateur.
 
 
    Pour installer SeaMonkey en téléchargeant le fichier .zip et en l'installant
-   manuellement, suivez ces étapes :
+   manuellement, suivez ces étapes :
 
    1. Cliquez sur le lien seamonkey-x.xx.fr.win32.zip (ou un nom
       de fichier similaire) sur le site d'où vous voulez télécharger SeaMonkey

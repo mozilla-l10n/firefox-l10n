@@ -205,7 +205,7 @@
 <!ENTITY event.reminder.accesskey "R">
 <!ENTITY event.description.label "Description :" >
 <!ENTITY event.description.accesskey "p">
-<!ENTITY event.attachments.label "Pièces jointes :" >
+<!ENTITY event.attachments.label "Pièces jointes :" >
 <!ENTITY event.attachments.accesskey "P" >
 <!ENTITY event.attachments.popup.remove.label "Supprimer" >
 <!ENTITY event.attachments.popup.remove.accesskey "S" >
@@ -215,7 +215,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey "T" >
 <!ENTITY event.attachments.popup.attachPage.label "Joindre une page Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey "W" >
-<!ENTITY event.url.label "Lien :" >
+<!ENTITY event.url.label "Lien :" >
 <!ENTITY event.priority2.label "Priorité :">
 
 <!ENTITY event.reminder.none.label "Aucun " >

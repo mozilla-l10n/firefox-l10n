@@ -11,7 +11,7 @@
 <!ENTITY highPriorityCmd.label "Haute">
 <!ENTITY highestPriorityCmd.label "Maximale">
 
-<!ENTITY contextDesc.label "Appliquer le filtre :">
+<!ENTITY contextDesc.label "Appliquer le filtre :">
 <!ENTITY contextDesc.accesskey "A">
 <!ENTITY contextIncoming.label "Lors de la réception du courrier">
 <!ENTITY contextManual.label "Lors de son exécution manuelle">

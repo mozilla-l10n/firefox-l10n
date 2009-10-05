@@ -49,8 +49,8 @@ lower case is intentional, but may be overriden if that doesn't make sense
 because of a specific language context.-->
 <!ENTITY featureConfigurator.syncNone.button "ne rien synchroniser">
 
-<!ENTITY featureConfigurator.advancedUsers.label "Utilisateurs avancés :">
-<!ENTITY featureConfigurator.advancedUsers.para "Vous pouvez également personnaliser chaque compte et chaque dossier :">
+<!ENTITY featureConfigurator.advancedUsers.label "Utilisateurs avancés :">
+<!ENTITY featureConfigurator.advancedUsers.para "Vous pouvez également personnaliser chaque compte et chaque dossier :">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nouvelle barre d'outils">
 <!ENTITY featureConfigurator.toolbar.new.status "Utilisation de la nouvelle barre d'outils.">

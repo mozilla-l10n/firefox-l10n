@@ -87,7 +87,7 @@
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Utiliser TLS 1.0">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "Certificats">
-<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Quand un serveur demande mon certificat personnel :">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Quand un serveur demande mon certificat personnel :">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Le sélectionner automatiquement">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "L">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Demander chaque fois">

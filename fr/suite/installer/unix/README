@@ -56,7 +56,7 @@ l'installation de SeaMonkey.
 
 * Linux
 
-   - Les versions de bibliothèques suivantes (ou compatibles) sont requises :
+   - Les versions de bibliothèques suivantes (ou compatibles) sont requises :
      glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
      Des installations Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10
      ("Edgy"), Debian "Lenny" (testing) et openSUSE 10.2 (ou suivantes)
@@ -78,7 +78,7 @@ n'utilisez pas bash, adaptez les commandes en conséquence.
 Pour toutes les plateformes, décompressez dans un (nouveau) répertoire vide.
 Installer par dessus d'anciennes versions peut provoquer des problèmes.
 
-Note : Ces instructions ne vous indiquent pas comment compiler SeaMonkey.
+Note : Ces instructions ne vous indiquent pas comment compiler SeaMonkey.
 Pour des informations sur la façon de compiler SeaMonkey, consultez
 
   http://developer.mozilla.org/en/docs/Build_Documentation
@@ -87,11 +87,11 @@ Pour des informations sur la façon de compiler SeaMonkey, consultez
 Instructions d'installation
 ---------------------------
 
-  Note : Il n'y a pas d'installeur disponible, mais en extrayant simplement
+  Note : Il n'y a pas d'installeur disponible, mais en extrayant simplement
   l'archive tar.bz2 dans le répertoire par défaut (habituellement /usr/local/seamonkey)
   vous obtenez le même résultat qu'avec un installeur.
 
-  Pour installer SeaMonkey en téléchargeant le fichier tar.bz2 :
+  Pour installer SeaMonkey en téléchargeant le fichier tar.bz2 :
 
   1. Créer un répertoire intitulé "seamonkey" (mkdir seamonkey) et rendez-vous dans
      ce répertoire (cd seamonkey).
@@ -99,7 +99,7 @@ Instructions d'installation
   2. Cliquez sur le lien du site d'où vous téléchargez SeaMonkey pour récupérer le
      fichier (seamonkey*.tar.bz2) dans votre répertoire seamonkey.
 
-  3. Décompressez le fichier avec la commande suivante :
+  3. Décompressez le fichier avec la commande suivante :
 
        tar jxvf sea*.tar.bz2
 
@@ -107,18 +107,18 @@ Instructions d'installation
 
   4. Rendez-vous dans le sous-répertoire seamonkey (cd seamonkey).
 
-  5. Lancez SeaMonkey en exécutant le script suivant :
+  5. Lancez SeaMonkey en exécutant le script suivant :
 
     ./seamonkey
 
 
   Pour ajouter l'icône de SeaMonkey dans le panneau GNOME,
-  suivez ces étapes :
+  suivez ces étapes :
 
   1. Ouvrez le "Centre de contrôle GNOME", cliquez sur l'icône "Disposition de menu" puis
      cliquez sur le bouton "Nouvel élément".
 
-  2. Dans le champ "Commande" indiquez :
+  2. Dans le champ "Commande" indiquez :
 
        nom_du_répertoire./seamonkey
 
@@ -128,10 +128,10 @@ Instructions d'installation
 
   3. Donnez un nom au lanceur et saisissez un commentaire si vous le désirez.
 
-  4. Cliquez sur le bouton icône et saisissez l'emplacement de l'icône :
+  4. Cliquez sur le bouton icône et saisissez l'emplacement de l'icône :
 
        nom_du_répertoire/chrome/icons/default/default.png
 
      où nom_du_répertoire est le nom du répertoire où est installé SeaMonkey.
-     Par exemple, le répertoire par défaut :
+     Par exemple, le répertoire par défaut :
      /usr/local/seamonkey/chrome/icons/default/default.png.

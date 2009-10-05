@@ -1,5 +1,5 @@
 <!ENTITY defaultClient.title "Client par défaut">
-<!ENTITY defaultClient.intro "Utiliser &brandShortName; comme client par défaut pour :">
+<!ENTITY defaultClient.intro "Utiliser &brandShortName; comme client par défaut pour :">
 
 <!ENTITY browser.label "la navigation">
 <!ENTITY email.label "le courrier électronique">

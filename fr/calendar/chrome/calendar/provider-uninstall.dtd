@@ -39,6 +39,6 @@
 <!ENTITY providerUninstall.accept.accesskey "S">
 <!ENTITY providerUninstall.cancel.label "Conserver le module complémentaire">
 <!ENTITY providerUninstall.cancel.accesskey "C">
-<!ENTITY providerUninstall.preName.label "Vous avez demandé de désinstaller ou de désactiver :">
+<!ENTITY providerUninstall.preName.label "Vous avez demandé de désinstaller ou de désactiver :">
 <!ENTITY providerUninstall.postName.label "Ceci provoquera la désactivation des agendas ci-dessous.">
 <!ENTITY providerUninstall.reinstallNote.label "Si vous ne prévoyez pas de réinstaller ce fournisseur, vous pouvez choisir de vous désabonner des agendas de celui-ci.">
