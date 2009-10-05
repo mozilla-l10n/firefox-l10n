@@ -77,7 +77,7 @@
 <!ENTITY pac.accesskey "u">
 <!ENTITY wpad.label "Connecté (proxy : découverte automatique)">
 <!ENTITY wpad.accesskey "d">
-<!ENTITY system.label "Connecté (proxy : système)">
+<!ENTITY system.label "Connecté (proxy : système)">
 <!ENTITY system.accesskey "s">
 
 <!ENTITY proxy.label "Configuration du proxy…">

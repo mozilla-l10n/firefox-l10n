@@ -71,7 +71,7 @@
 <!ENTITY  formName              "Nom">
 <!ENTITY  formEncoding          "Encodage :">
 <!ENTITY  formTarget            "Cible :">
-<!ENTITY  formFields            "Champs:">
+<!ENTITY  formFields            "Champs :">
 <!ENTITY  formLabel             "Libellé">
 <!ENTITY  formFName             "Nom du champ">
 <!ENTITY  formType              "Type">

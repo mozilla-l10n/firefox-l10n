@@ -118,7 +118,7 @@
         </ul>
       </span>
       <p class="search-input">
-        Recherche : <input type="text" id="search" onkeyup="onKeyUp(event)"/>
+        Recherche : <input type="text" id="search" onkeyup="onKeyUp(event)"/>
         <input type="button" onclick="onSearch()" value="Go">
 
         <input type="checkbox" id="command-names" value="1">

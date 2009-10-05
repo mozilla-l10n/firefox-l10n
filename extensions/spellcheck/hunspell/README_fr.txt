@@ -20,11 +20,11 @@ _______________________________________________________________________________
    concernés par les rectifications de l’orthographe proposées en 1990 par
    le Conseil supérieur à la langue française et par l’Académie française.
    
-   À propos de la réforme orthographique de 1990:
+   À propos de la réforme orthographique de 1990 :
    http://www.renouvo.org/
    
    Ce dictionnaire ne peut fonctionner qu’avec un logiciel utilisant le
-   correcteur Hunspell: OpenOffice.org 2.1+, Firefox 3+, Thunderbird 3+
+   correcteur Hunspell : OpenOffice.org 2.1+, Firefox 3+, Thunderbird 3+
 
    Remerciements à:
    - Laurent Dubois, Pierre Poisson pour leur active participation;

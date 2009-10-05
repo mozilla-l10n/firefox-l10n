@@ -52,7 +52,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Saisie du mot de passe principal">
-<!ENTITY getPassword.tokenName2.label "Périphérique de sécurité :">
+<!ENTITY getPassword.tokenName2.label "Périphérique de sécurité :">
 <!ENTITY getPassword.password.label "Mot de passe :">
 
 <!-- These should be common -->

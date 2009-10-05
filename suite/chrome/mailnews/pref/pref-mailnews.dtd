@@ -44,7 +44,7 @@
 <!ENTITY mailBiffOnNewWindow.label "Ne vérifier que les nouveaux courriels lors de l'ouverture de Courrier et Groupes de discussion">
 <!ENTITY mailBiffOnNewWindow.accesskey "N">
 
-<!ENTITY defaultMailSettings.description "Utiliser &brandShortName; Courrier et Groupes comme application par défaut pour :">
+<!ENTITY defaultMailSettings.description "Utiliser &brandShortName; Courrier et Groupes comme application par défaut pour :">
 <!ENTITY setDefaultMail.label "le courrier">
 <!ENTITY setDefaultMail.accesskey "e">
 <!ENTITY setDefaultNews.label "les groupes">

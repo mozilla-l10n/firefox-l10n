@@ -36,7 +36,7 @@
 
 <!ENTITY window.title "Rejoindre un salon">
 
-<!ENTITY qsearch.label "Recherche rapide :">
+<!ENTITY qsearch.label "Recherche rapide :">
 <!ENTITY qsearch.accesskey "R">
 
 <!ENTITY topics.label "Rechercher dans les sujets et dans les noms de salons">
@@ -45,10 +45,10 @@
 <!ENTITY join.label "Rejoindre">
 <!ENTITY join.accesskey "j">
 
-<!ENTITY minusers.label "Min de présents :">
+<!ENTITY minusers.label "Min de présents :">
 <!ENTITY minusers.accesskey "n">
 
-<!ENTITY maxusers.label "Max de présents :">
+<!ENTITY maxusers.label "Max de présents :">
 <!ENTITY maxusers.accesskey "x">
 
 <!ENTITY refresh.label "Actualiser">

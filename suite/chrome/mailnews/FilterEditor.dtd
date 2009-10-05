@@ -53,7 +53,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "Modifier le filtre">
-<!ENTITY filterName.label "Nom du filtre :">
+<!ENTITY filterName.label "Nom du filtre :">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Indésirable">
@@ -65,14 +65,14 @@
 <!ENTITY highPriorityCmd.label "Haute">
 <!ENTITY highestPriorityCmd.label "Maximale">
 
-<!ENTITY contextDesc.label "Appliquer le filtre :">
+<!ENTITY contextDesc.label "Appliquer le filtre :">
 <!ENTITY contextDesc.accesskey "A">
 <!ENTITY contextIncoming.label "Lors de la réception du courrier">
 <!ENTITY contextManual.label "Lors de son exécution manuelle">
 <!ENTITY contextBoth.label "Lors de la réception du courrier ou de son exécution manuelle">
 <!ENTITY contextPostPlugin.label "Vérifier le courrier (après classement)">
 <!ENTITY contextPostPluginBoth.label "Vérifier le courrier (après classement) ou exécuter manuellement">
-<!ENTITY filterActionDesc.label "Exécuter ces actions :">
+<!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
 <!-- New Style Filter Rule Actions -->

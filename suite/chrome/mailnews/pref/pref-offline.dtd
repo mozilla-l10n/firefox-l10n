@@ -25,7 +25,7 @@
 <!ENTITY radioAskDownload "Me demander">
 <!ENTITY radioAskDownload.accesskey "e">
 <!ENTITY mailConnections.caption "Connexions messagerie">
-<!ENTITY mailnewsTimeout.label "Délai d'attente de connexion :">
+<!ENTITY mailnewsTimeout.label "Délai d'attente de connexion :">
 <!ENTITY mailnewsTimeout.accesskey "D">
 <!ENTITY mailnewsTimeoutSeconds.label "secondes">
 <!ENTITY Diskspace "Espace disque">

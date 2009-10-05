@@ -19,6 +19,6 @@
 
 <!ENTITY enablePlugin.label "Activer les plugins pour">
 
-<!ENTITY whenPluginsRequired.label "Quand des plugins supplémentaires sont requis :">
+<!ENTITY whenPluginsRequired.label "Quand des plugins supplémentaires sont requis :">
 <!ENTITY displayNotification.label "Afficher une barre de notification en haut de la zone d'affichage">
 <!ENTITY displayNotification.accesskey "h">

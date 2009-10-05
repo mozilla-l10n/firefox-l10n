@@ -69,4 +69,4 @@
 
 <!ENTITY domainnameError.title "Erreur de nom de domaine">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label "Le nom de domaine @string@ est invalide et sera ignoré. Les noms de domaine valides doivent contenir au moins un « . » et des caractères de part et d'autre.">
+<!ENTITY invalidEntryError.label "Le nom de domaine @string@ est invalide et sera ignoré. Les noms de domaine valides doivent contenir au moins un « . » et des caractères de part et d'autre.">

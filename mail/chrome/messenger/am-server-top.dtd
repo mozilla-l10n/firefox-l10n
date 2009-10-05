@@ -18,7 +18,7 @@
 <!ENTITY biffStart.label "Vérifier les nouveaux messages toutes les ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
-<!ENTITY connectionSecurity.label "Sécurité de la connexion :">
+<!ENTITY connectionSecurity.label "Sécurité de la connexion :">
 <!ENTITY connectionSecurity.accesskey "S">
 <!ENTITY connectionSecurityType-0.label "Aucune">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, si disponible">
@@ -69,7 +69,7 @@
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.thunderbird »)">
 <!ENTITY advancedButton.label "Avancés…">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
+<!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">
 <!ENTITY browseFolder.accesskey "P">

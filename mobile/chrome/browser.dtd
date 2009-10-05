@@ -70,7 +70,7 @@
 <!ENTITY noResults.label "Pas de résultat">
 <!ENTITY allBookmarks.label "Tous les marque-pages">
 
-<!ENTITY searchEngine.addSearch "Ajouter une recherche :">
+<!ENTITY searchEngine.addSearch "Ajouter une recherche :">
 
 <!ENTITY bookmarkPopup.label "Page marquée">
 <!ENTITY bookmarkRemove.label "Supprimer">
@@ -90,11 +90,11 @@
 <!ENTITY consoleErrors.label "Erreurs">
 <!ENTITY consoleWarnings.label "Avertissements">
 <!ENTITY consoleMessages.label "Messages">
-<!ENTITY consoleCodeEval.label "Code :">
+<!ENTITY consoleCodeEval.label "Code :">
 <!ENTITY consoleClear.label "Effacer">
 <!ENTITY consoleEvaluate.label "…">
-<!ENTITY consoleErrFile.label "Fichier source :">
-<!ENTITY consoleErrLine.label "Ligne :">
-<!ENTITY consoleErrColumn.label "Colonne :">
+<!ENTITY consoleErrFile.label "Fichier source :">
+<!ENTITY consoleErrLine.label "Ligne :">
+<!ENTITY consoleErrColumn.label "Colonne :">
 
 <!ENTITY selectListDone.label "Terminé">

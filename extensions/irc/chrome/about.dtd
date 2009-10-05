@@ -44,6 +44,6 @@
 <!ENTITY homepage.label    "Visitez le site Web de ChatZilla">
 <!ENTITY copyversion.label "Détails de la version">
 
-<!ENTITY section.core.label    "Équipe de développement :">
-<!ENTITY section.locale.label  "Localisation :">
-<!ENTITY section.contrib.label "Contributeurs :">
+<!ENTITY section.core.label    "Équipe de développement :">
+<!ENTITY section.locale.label  "Localisation :">
+<!ENTITY section.contrib.label "Contributeurs :">

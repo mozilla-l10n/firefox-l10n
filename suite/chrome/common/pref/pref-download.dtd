@@ -1,6 +1,6 @@
 <!ENTITY pref.download.title "Téléchargements">
 <!ENTITY downloadBehavior.label "Au début d'un téléchargement">
-<!ENTITY focusWhenStarting.label "Faire clignoter le gestionnaire de téléchargement s'il est ouvert, autrement :">
+<!ENTITY focusWhenStarting.label "Faire clignoter le gestionnaire de téléchargement s'il est ouvert, autrement :">
 <!ENTITY focusWhenStarting.accesskey "F">
 
 <!ENTITY openDM.label "Ouvrir le gestionnaire de téléchargements">

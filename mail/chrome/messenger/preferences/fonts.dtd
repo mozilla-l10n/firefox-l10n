@@ -3,21 +3,21 @@
 <!ENTITY  window.macWidth                         "59em">
 <!ENTITY  window.unixWidth                        "59em">
 
-<!ENTITY  language.label                          "Polices pour :">
+<!ENTITY  language.label                          "Polices pour :">
 <!ENTITY  language.accesskey                      "o">
 
-<!ENTITY  size.label                              "Taille :">
+<!ENTITY  size.label                              "Taille :">
 <!ENTITY  proportionalSize.accesskey              "T">
 <!ENTITY  sizeMono.accesskey                      "e">
 
-<!ENTITY  proportional.label                      "Proportionnelle :">
+<!ENTITY  proportional.label                      "Proportionnelle :">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif :">
+<!ENTITY  serif.label                             "Serif :">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans serif :">
+<!ENTITY  sans-serif.label                        "Sans serif :">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Largeur fixe :">
+<!ENTITY  monospace.label                         "Largeur fixe :">
 <!ENTITY  monospace.accesskey                     "L">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
@@ -49,7 +49,7 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Taille minimale de la police :">
+<!ENTITY minSize.label                            "Taille minimale de la police :">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Aucune">
 

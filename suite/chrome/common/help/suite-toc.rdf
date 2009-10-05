@@ -1106,8 +1106,8 @@
                         <rdf:Description about="#privacy-doc-cookies">
                           <nc:subheadings>
                             <rdf:Seq>
-                              <rdf:li> <rdf:Description ID="privacy-doc-cookies-how" nc:name="Comment les sites utilisent les informations contenues dans un cookie ?" nc:link="privacy_help.xhtml#privacy_how"/> </rdf:li>
-                              <rdf:li> <rdf:Description ID="privacy-doc-cookies-foreign" nc:name="Que sont les cookies d'un site tiers ?" nc:link="privacy_help.xhtml#what_are_third-party_cookies"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="privacy-doc-cookies-how" nc:name="Comment les sites utilisent les informations contenues dans un cookie ?" nc:link="privacy_help.xhtml#privacy_how"/> </rdf:li>
+                              <rdf:li> <rdf:Description ID="privacy-doc-cookies-foreign" nc:name="Que sont les cookies d'un site tiers ?" nc:link="privacy_help.xhtml#what_are_third-party_cookies"/> </rdf:li>
                             </rdf:Seq>
                           </nc:subheadings>
                         </rdf:Description>
@@ -1221,7 +1221,7 @@
                       <rdf:li> <rdf:Description ID="using-priv-help-encrypt-master" nc:name="Définir un mot de passe principal" nc:link="using_priv_help.xhtml#setting_a_master_password"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="using-priv-help-encrypt-change" nc:name="Modifier votre mot de passe principal" nc:link="using_priv_help.xhtml#changing_your_master_password"/> </rdf:li>
                       <rdf:li> <rdf:Description ID="using-priv-help-encrypt-logout" nc:name="Se déconnecter du gestionnaire de mots de passe" nc:link="using_priv_help.xhtml#logging_out_of_your_master_password"/> </rdf:li>
-                      <rdf:li> <rdf:Description ID="using-priv-help-encrypt-forget" nc:name="Que faire en cas d'oubli du mot de passe principal ?" nc:link="using_priv_help.xhtml#what_to_do_if_you_forget_your_master_password"/> </rdf:li>
+                      <rdf:li> <rdf:Description ID="using-priv-help-encrypt-forget" nc:name="Que faire en cas d'oubli du mot de passe principal ?" nc:link="using_priv_help.xhtml#what_to_do_if_you_forget_your_master_password"/> </rdf:li>
                     </rdf:Seq>
                   </nc:subheadings>
                 </rdf:Description>

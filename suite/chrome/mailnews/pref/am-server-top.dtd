@@ -18,7 +18,7 @@
 <!ENTITY biffStart.label "Vérifier les nouveaux messages toutes les ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
-<!ENTITY connectionSecurity.label "Sécurité de la connexion :">
+<!ENTITY connectionSecurity.label "Sécurité de la connexion :">
 <!ENTITY connectionSecurity.accesskey "S">
 <!ENTITY connectionSecurityType-0.label "Aucune">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, si disponible">
@@ -68,7 +68,7 @@
 <!ENTITY abbreviateOn.label "des noms complets (par exemple « mozilla.dev.apps.seamonkey »)">
 <!ENTITY abbreviateOff.label "des noms abrégés (par exemple « m.d.a.seamonkey »)">
 <!ENTITY advancedButton.label "Avancé…">
-<!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
+<!ENTITY serverDefaultCharset.label "Encodage de caractères par défaut :">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "Sélection du répertoire local">
 <!ENTITY browseFolder.label "Parcourir…">

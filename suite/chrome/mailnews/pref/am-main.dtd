@@ -13,11 +13,11 @@
 <!ENTITY replyTo.accesskey "r">
 <!ENTITY organization.label "Organisation :">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signatureText.label "Texte de signature :">
+<!ENTITY signatureText.label "Texte de signature :">
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Utiliser HTML">
 <!ENTITY signatureHtml.accesskey "U">
-<!ENTITY signatureFile.label "Apposer la signature à partir d'un fichier :">
+<!ENTITY signatureFile.label "Apposer la signature à partir d'un fichier :">
 <!ENTITY signatureFile.accesskey "h">
 <!ENTITY choose.label "Choisir…">
 <!ENTITY choose.accesskey "C">

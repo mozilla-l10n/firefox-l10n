@@ -5,7 +5,7 @@
 <!ENTITY itemCookies.label       "Contenu Web">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».">
+<!ENTITY junkMail.intro "Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».">
 <!ENTITY manualMark.label "Quand je marque des messages comme indésirables :">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "les déplacer dans le dossier « Indésirables »">

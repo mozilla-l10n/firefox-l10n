@@ -112,12 +112,12 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Créer un nouvel agenda">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Afficher le « Mois réduit »">
+<!ENTITY todaypane.showMinimonth.label "Afficher le « Mois réduit »">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "Afficher le « Jour réduit »">
+<!ENTITY todaypane.showMiniday.label "Afficher le « Jour réduit »">
 <!ENTITY todaypane.showMiniday.accesskey "J">
 <!ENTITY todaypane.showNone.label "Ne rien afficher">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Afficher le panneau « Aujourd'hui »">
+<!ENTITY todaypane.showTodayPane.label "Afficher le panneau « Aujourd'hui »">
 <!ENTITY todaypane.showTodayPane.accesskey "A">
-<!ENTITY todaypane.statusButton.label "Panneau « Aujourd'hui »">
+<!ENTITY todaypane.statusButton.label "Panneau « Aujourd'hui »">

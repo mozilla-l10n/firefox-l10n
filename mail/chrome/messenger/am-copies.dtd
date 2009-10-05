@@ -22,9 +22,9 @@
 <!ENTITY draftInOtherFolder.label "Autre dossier :">
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Dossiers « Archives » de :">
+<!ENTITY archivesFolderOn.label "Dossiers « Archives » de :">
 <!ENTITY archivesFolderOn.accesskey "o">
-<!ENTITY archiveInOtherFolder.label "Autre dossier :">
+<!ENTITY archiveInOtherFolder.label "Autre dossier :">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Dossier « Modèles » de :">
@@ -33,5 +33,5 @@
 <!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Brouillons, archives et modèles">
 <!ENTITY keepDrafts.label "Conserver les brouillons dans :">
-<!ENTITY keepArchives.label "Conserver les archives dans :">
+<!ENTITY keepArchives.label "Conserver les archives dans :">
 <!ENTITY keepTempltes.label "Conserver les modèles dans :">

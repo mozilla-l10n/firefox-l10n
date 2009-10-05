@@ -2,7 +2,7 @@
 
 <!ENTITY  locationBar.label             "Barre d'adresse">
 
-<!ENTITY  locbar.pre.label              "Lors de l'utilisation de la barre d'adresse, suggérer :">
+<!ENTITY  locbar.pre.label              "Lors de l'utilisation de la barre d'adresse, suggérer :">
 <!ENTITY  locbar.pre.accessKey          "L">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historique et marque-pages">
@@ -29,7 +29,7 @@
 <!ENTITY  showCookies.label             "Afficher les cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Règles de conservation :">
+<!ENTITY  historyHeader.pre.label          "Règles de conservation :">
 <!ENTITY  historyHeader.pre.accesskey      "R">
 <!ENTITY  historyHeader.remember.label     "conserver l'historique">
 <!ENTITY  historyHeader.dontremember.label "ne jamais conserver l'historique">

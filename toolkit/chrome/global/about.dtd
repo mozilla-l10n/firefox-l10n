@@ -16,4 +16,4 @@
 <!ENTITY about.buildconfig.linkTitle  "configuration de compilation">
 <!ENTITY about.buildconfig.afterLink  "utilisée pour cette version.">
 
-<!ENTITY about.buildIdentifier        "Identifiant de compilation : ">
+<!ENTITY about.buildIdentifier        "Identifiant de compilation : ">

@@ -1,7 +1,7 @@
   = = = = = = = = = = = = =  Lisez-moi de SeaMonkey  = = = = = = = = = = = = = =
 
   Merci d'avoir téléchargé SeaMonkey. Ce fichier contient des informations sur les
-  sujets suivants :
+  sujets suivants :
 
   - Prérequis système et matériel
   - Installation
@@ -19,11 +19,11 @@
   Prérequis système et matériel
   -----------------------------
 
-  Prérequis système :
+  Prérequis système :
 
   - Mac OS X 10.4 et supérieur
 
-  Prérequis matériel :
+  Prérequis matériel :
 
   - Ordinateur Macintosh avec processeur Intel x86 ou PowerPC G3/G4/G5
   - 256 Mo de RAM
@@ -33,7 +33,7 @@
   Installation
   ------------
 
-  Pour installer SeaMonkey, réalisez les étapes suivantes :
+  Pour installer SeaMonkey, réalisez les étapes suivantes :
 
   1. Déposez l'icône de l'application SeaMonkey dans le dossier Applications
 
@@ -73,7 +73,7 @@
 
   Pour supprimer toutes traces de SeaMonkey de votre ordinateur (y compris vos
   paramètres personnels, marque-pages, courriels, mots de passe, etc.), réalisez
-  les étapes suivantes :
+  les étapes suivantes :
 
   1. glissez l'icône de SeaMonkey de votre dossier Applications vers la corbeille
 
@@ -93,7 +93,7 @@
   être boguées.
 
   Des compilations nocturnes de différentes dates sont disponibles sur le site
-  FTP de mozilla.org à l'adresse suivante :
+  FTP de mozilla.org à l'adresse suivante :
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/.
 
   Pour les toutes dernières compilations, consultez

@@ -36,7 +36,7 @@
 
 <!ENTITY pref.junk.title "Courriers indésirables et suspects">
 <!ENTITY junkSettings.caption "Gérer les indésirables">
-<!ENTITY junkMail.intro "Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».">
+<!ENTITY junkMail.intro "Définir les paramètres par défaut des indésirables. Les paramètres pour les indésirables propres à chaque compte peuvent être configurés dans le menu  « Paramètres des comptes… ».">
 
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label               "Quand je marque des messages comme indésirables :">

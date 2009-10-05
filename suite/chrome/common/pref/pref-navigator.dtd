@@ -26,7 +26,7 @@
 <!ENTITY  useDefault.label "Configuration par défaut">
 <!ENTITY  useDefault.accesskey "n">
 
-<!ENTITY  toolbarIntro.label "Boutons visibles dans les barres d'outils :">
+<!ENTITY  toolbarIntro.label "Boutons visibles dans les barres d'outils :">
 
 <!ENTITY  navToolbarIntro.label "Barre d'outils de navigation">
 <!ENTITY  goButton.label "Go">
