@@ -53,12 +53,12 @@ because of a specific language context.-->
 <!ENTITY featureConfigurator.advancedUsers.para "Hesap ve dizin bazlı ayarlar:">
 
 <!ENTITY featureConfigurator.toolbar.heading "Yeni araç çubuğu">
-<!ENTITY featureConfigurator.toolbar.new.status "Using the new toolbar.">
+<!ENTITY featureConfigurator.toolbar.new.status "Yeni araç çubuğunun kullanımı.">
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
 word 'original' is chosen deliberately to be neutral, vs. 'old' which in
 English at least had a negative connotation.-->
 
-<!ENTITY featureConfigurator.toolbar.original.status "Using the original toolbar.">
+<!ENTITY featureConfigurator.toolbar.original.status "Özgün araç çubuğunun kullanımı.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "A cleaner interface than our previous default, which leaves more room  for the richer search textbox, as well as add-ons.">
 <!ENTITY featureConfigurator.toolbarAlternative.para "If you like the old toolbar configuration better, you don't want to re-customize it, or you don't use the message pane in your layout.">
