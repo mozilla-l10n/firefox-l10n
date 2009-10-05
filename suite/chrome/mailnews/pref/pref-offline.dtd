@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Offline &amp; Schijfruimte">
+<!ENTITY pref.network.title               "Netwerk &amp; Schijfruimte">
 <!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Bij het opstarten:">
 <!ENTITY textStartUp.accesskey            "B">
@@ -24,7 +24,11 @@
 <!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload                 "Mij vragen">
 <!ENTITY radioAskDownload.accesskey       "r">
-<!ENTITY Diskspace                        "Schijfruimtee">
+<!ENTITY mailConnections.caption          "Mailverbindingen">
+<!ENTITY mailnewsTimeout.label            "Verbindingstimeout:">
+<!ENTITY mailnewsTimeout.accesskey        "t">
+<!ENTITY mailnewsTimeoutSeconds.label     "seconden">
+<!ENTITY Diskspace                        "Schijfruimte">
 <!ENTITY offlineCompact.label             "Mappen comprimeren als het meer bespaart dan">
 <!ENTITY offlineCompact.accesskey         "p">
 <!ENTITY kb.label                         "KB">

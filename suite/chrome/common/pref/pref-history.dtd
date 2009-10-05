@@ -15,6 +15,12 @@
 <!ENTITY  clearHistory.accesskey            "G">
 
 <!ENTITY  locationBarHistory.caption        "Locatiebalkgeschiedenis">
-<!ENTITY  clearLocationBar.label            "De lijst met in het locatiebalkmenu opgeslagen stekken wissen.">
+<!ENTITY  clearLocationBar.label            "De lijst met in het locatiebalkmenu opgeslagen websites wissen.">
 <!ENTITY  clearLocationBarButton.label      "Locatiebalk wissen">
 <!ENTITY  clearLocationBarButton.accesskey  "L">
+<!ENTITY  formfillHistory.caption           "Formulier- en zoekgeschiedenis">
+<!ENTITY  enableFormfill.label              "Formulier- en zoekgeschiedenis inschakelen">
+<!ENTITY  enableFormfill.accesskey          "F">
+<!ENTITY  formfillExpire.label              "Formulier- en zoekgeschiedenis bewaren gedurende">
+<!ENTITY  formfillExpire.accesskey          "b">
+<!ENTITY  formfillDays.label                "dagen">

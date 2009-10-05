@@ -1,29 +1,36 @@
-<!ENTITY pref.download.title 			"Downloads">
+<!ENTITY pref.download.title 		"Downloads">
 
-<!ENTITY downloadBehavior.label 		"Tijdens het starten van het ophalen van een bestand">
-<!ENTITY focusWhenStarting.label		"Downloadmanager laten oplichten wanneer deze al actief is, en anders:">
+<!ENTITY downloadBehavior.label 	"Tijdens het starten van het ophalen van een bestand">
+<!ENTITY focusWhenStarting.label	"Downloadmanager laten oplichten wanneer deze al actief is, en anders:">
 <!ENTITY focusWhenStarting.accesskey	"o">
-<!ENTITY openDM.label					"De Downloadbeheerder openen">
-<!ENTITY openDM.accesskey				"D">
-<!ENTITY openProgressDialog.label		"Een voortgangsdialoogvenster openen">
+<!ENTITY openDM.label			"De Downloadbeheerder openen">
+<!ENTITY openDM.accesskey		"D">
+<!ENTITY openProgressDialog.label	"Een voortgangsdialoogvenster openen">
 <!ENTITY openProgressDialog.accesskey	"V">
-<!ENTITY doNothing.label				"Niets openen">
-<!ENTITY doNothing.accesskey			"N">
+<!ENTITY doNothing.label		"Niets openen">
+<!ENTITY doNothing.accesskey		"N">
 
 <!ENTITY downloadLocation.label		"Bij het opslaan van een bestand">
-<!ENTITY saveTo.label					"Bestanden opslaan in">
-<!ENTITY saveTo.accesskey				"B">
+<!ENTITY saveTo.label			"Bestanden opslaan in">
+<!ENTITY saveTo.accesskey		"B">
 <!ENTITY chooseDownloadFolder.label	"Map kiezen…">
 <!ENTITY chooseDownloadFolder.accesskey	"M">
-<!ENTITY alwaysAsk.label				"Altijd vragen waar bestanden moeten worden opgeslagen">
-<!ENTITY alwaysAsk.accesskey			"A">
+<!ENTITY alwaysAsk.label		"Altijd vragen waar bestanden moeten worden opgeslagen">
+<!ENTITY alwaysAsk.accesskey		"A">
+
+<!ENTITY downloadRetention.label        "Bewaartermijn">
+<!ENTITY removeDownloads.label          "Downloads uit lijst verwijderen">
+<!ENTITY removeDownloads.accesskey      "R">
+<!ENTITY whenCompleted.label            "Als ze voltooid zijn">
+<!ENTITY whenQuittingApp.label          "Bij het afsluiten van &brandShortName;">
+<!ENTITY neverRemove.label              "Nooit">
 
 <!ENTITY finishedBehavior.label		"Wanneer het ophalen van een bestand is voltooid">
-<!ENTITY playSound.label				"Een geluid afspelen">
-<!ENTITY playSound.accesskey			"G">
-<!ENTITY showAlert.label				"Een waarschuwing tonen">
-<!ENTITY showAlert.accesskey			"W">
-<!ENTITY browse.label					"Bladeren…">
-<!ENTITY browse.accesskey				"B">
-<!ENTITY preview.label					"Bestand inzien">
-<!ENTITY preview.accesskey				"i">
+<!ENTITY playSound.label		"Een geluid afspelen">
+<!ENTITY playSound.accesskey		"G">
+<!ENTITY showAlert.label		"Een waarschuwing tonen">
+<!ENTITY showAlert.accesskey		"W">
+<!ENTITY browse.label			"Bladeren…">
+<!ENTITY browse.accesskey		"B">
+<!ENTITY preview.label			"Bestand inzien">
+<!ENTITY preview.accesskey		"i">

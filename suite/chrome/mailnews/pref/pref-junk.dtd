@@ -47,8 +47,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "v">
 
 <!ENTITY markAsRead.intro               "Markeer berichten als gelezen:">
-<!ENTITY autoMarkAsRead.label           "Wanneer &brandShortName; berichten detecteerd als ongewenst">
-<!ENTITY autoMarkAsRead.accesskey       "u">
+<!ENTITY autoMarkAsRead.label           "Wanneer &brandShortName; berichten detecteert als ongewenst">
+<!ENTITY autoMarkAsRead.accesskey       "d">
 <!ENTITY manualMarkAsRead.label         "Wanneer ik berichten markeer als ongewenst">
 <!ENTITY manualMarkAsRead.accesskey     "k">
 
@@ -58,3 +58,15 @@
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">
 <!ENTITY resetTrainingData.accesskey "r">
+
+<!ENTITY pref.suspectMail.caption       "Verdachte mail">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "Phishing e-mails">
+<!ENTITY enablePhishingDetector.label     "Het mij vertellen als een bericht dat ik lees mogelijk een phishing e-mail is">
+<!ENTITY enablePhishingDetector.accesskey "m">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Antivirus">
+<!ENTITY antiVirus.label                  "Antivirusprogramma's toestaan om inkomende berichten gemakkelijker te scannen">
+<!ENTITY antiVirus.accesskey              "A">

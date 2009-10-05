@@ -1,4 +1,4 @@
-<!ENTITY window.title "Berichtenfilters">
+<!ENTITY filterListDialog.title "Berichtenfilters">
 <!ENTITY nameColumn.label "Filternaam">
 <!ENTITY activeColumn.label "Actief">
 <!ENTITY newButton.label "Nieuw…">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "P">
 <!ENTITY choosethis.label "Deze map kiezen">
 <!ENTITY choosethisnewsserver.label "Deze nieuwsserver kiezen">
-<!ENTITY helpButton.label "Help">
-<!ENTITY helpButton.accesskey "H">
