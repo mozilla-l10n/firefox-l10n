@@ -335,6 +335,8 @@
 <!ENTITY mediaShowControls.accesskey "B">
 <!ENTITY mediaHideControls.label     "Bedieningsknoppen verbergen">
 <!ENTITY mediaHideControls.accesskey "B">
+<!ENTITY videoFullScreen.label       "Volledig scherm">
+<!ENTITY videoFullScreen.accesskey   "V">
 
 
 <!-- LOCALIZATION NOTE :
