@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey "A">
 <!-- Cookies -->
 
-<!ENTITY cookies.intro "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies.">
+<!ENTITY cookies.intro "&brandShortName; aracılığı ile günlük, haber ve diğer sitelerin çerez bırakma iznini belirleyebilirsiniz.">
 <!ENTITY acceptCookies.label "Sitelerin çerez bırakmasına izin ver">
 <!ENTITY acceptCookies.accesskey "z">
 <!ENTITY keepUntil.label "Tutma sınırı:">
