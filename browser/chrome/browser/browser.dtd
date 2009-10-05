@@ -270,6 +270,8 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label "Nascondi controlli">
 <!ENTITY mediaHideControls.accesskey "c">
+<!ENTITY videoFullScreen.label "A tutto schermo">
+<!ENTITY videoFullScreen.accesskey "u">
 <!ENTITY fullZoomEnlargeCmd.label "Aumenta zoom">
 <!ENTITY fullZoomEnlargeCmd.accesskey "u">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
