@@ -67,5 +67,5 @@
 <!ENTITY customPrompt.title "Настройка масштаба…">
 <!ENTITY homearrow.tooltip "Первая страница">
 <!ENTITY endarrow.tooltip "Последняя страница">
-<!ENTITY rightarrow.tooltip "Следующая страница">
-<!ENTITY leftarrow.tooltip "Предыдущая страница">
+<!ENTITY nextarrow.tooltip "Следующая страница">
+<!ENTITY previousarrow.tooltip "Предыдущая страница">
