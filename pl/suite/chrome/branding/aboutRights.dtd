@@ -1,0 +1,57 @@
+<!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "O prawach użytkownika">
+<!ENTITY rights.intro "&brandFullName; to wolne oprogramowanie open source, stworzone przez społeczność tysięcy ludzi z całego świata. Jest kilka rzeczy, o których użytkownik powinien wiedzieć:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "Program &brandShortName; został udostępniony użytkownikowi na warunkach licencji ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Oznacza to, że użytkownik ma prawo używać, kopiować i rozpowszechniać program &brandShortName;. Może on też modyfikować kod źródłowy programu &brandShortName;, by dostosować go do swoich potrzeb. Licencja MPL (Mozilla Public License) daje użytkownikowi także prawo do rozpowszechniania zmodyfikowanych wersji.">
+
+<!ENTITY rights.intro-point2a "Mozilla nie przyznaje użytkownikowi żadnych praw do znaków towarowych i logotypów Mozilla i SeaMonkey. Dodatkowe informacje dotyczące znaków towarowych można znaleźć ">
+<!ENTITY rights.intro-point2b "w tym miejscu">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Informacje dotyczące zasad ochrony prywatności związanych z produktami &vendorShortName; można znaleźć ">
+<!ENTITY rights.intro-point3b "w tym miejscu">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; udostępnia także opcjonalne usługi informacyjne dotyczące witryn internetowych, takie jak usługa aktualizacji dodatków; jednakże nie możemy zagwarantować ich stuprocentowej dokładności ani bezbłędności. Szczegółowe informacje, w tym opis wyłączenia tych usług, można znaleźć w ">
+<!ENTITY rights.intro-point4b "warunkach korzystania z tych usług">
+<!ENTITY rights.intro-point4c ".">
+
+<!ENTITY rights.webservices-header "Usługi WWW powiązane z programem &brandFullName;">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; korzysta z usług informacyjnych dotyczących witryn WWW (&bdquo;Usług&rdquo;), takich jak usługa aktualizacji dodatków, 
+udostępnianych użytkownikom niniejszej binarnej wersji programu &brandShortName; na warunkach przedstawionych poniżej. Jeśli użytkownik nie chce korzystać z Usług lub nie akceptuje poniższych warunków, może wyłączyć usługę aktualizacji dodatków wchodząc do preferencji programu, przechodząc do sekcji 
+ ">
+<!ENTITY rights.webservices-b "Zaawansowane">
+<!ENTITY rights.webservices-c ", a następnie ">
+<!ENTITY rights.webservices-d "Instalacja">
+<!ENTITY rights.webservices-e " i odznaczając opcję &quot;Automatycznie sprawdzaj, czy są dostępne aktualizacje dla:&quot;.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; może przerwać lub zmienić funkcjonowanie Usług według własnego uznania.">
+<!ENTITY rights.webservices-term2 "Użytkownik może korzystać z tych Usług wraz z powiązaną wersją programu &brandShortName; i ma wszelkie prawa konieczne do tego. &vendorShortName; i jej licencjodawcy zastrzegają sobie wszelkie inne prawa związane z Usługami. Warunki te nie mają na celu ograniczenia jakichkolwiek praw przyznanych w ramach licencji open source mających zastosowanie do programu &brandShortName; jak i odpowiadających wersji źródłowych programu &brandShortName;.">
+<!ENTITY rights.webservices-term3 "Usługi dostarczane są &bdquo;w stanie, w jakim są&rdquo;. &vendorShortName;, jej współpracownicy, licencjodawcy i dystrybutorzy zrzekają się jakichkolwiek gwarancji, wyraźnych i dorozumianych, w tym - bez ograniczeń: gwarancji, że Usługi są jakości handlowej i że są odpowiednie do konkretnych potrzeb użytkownika.
+Użytkownik ponosi całkowite ryzyko w kwestii wyboru Usług dla swoich celów, jak też co do ich jakości i wydajności. Niektóre jurysdykcje nie zezwalają na takie wyłączenie lub ograniczenie domniemanych gwarancji, tak więc to zrzeczenie może użytkownika nie dotyczyć.">
+<!ENTITY rights.webservices-term4 "Z wyjątkiem wymogów prawnych, &vendorShortName;, jej współpracownicy, licencjobiorcy ani dystrybutorzy nie ponoszą odpowiedzialności za jakiekolwiek szkody - niebezpośrednie, specjalne, przypadkowe, wynikające, karne ani moralne, wynikłe z lub w jakikolwiek sposób powiązane z korzystaniem z programu &brandShortName; i Usług. Kolektywna odpowiedzialność zgodnie z tymi warunkami nie przekroczy 500 (pięciuset) dolarów amerykańskich. 
+Niektóre jurysdykcje nie zezwalają na takie wyłączenie lub ograniczenie odpowiedzialności za szkody, tak więc to zrzeczenie i ograniczenie może użytkownika nie dotyczyć.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; może co jakiś czas aktualizować niniejsze warunki. Warunki te nie mogą być zmieniane ani anulowane, o ile &vendorShortName; nie wyrazi pisemnej zgody.">
+<!ENTITY rights.webservices-term6 "Niniejsze warunki powinny być rozpatrywane zgodnie z prawem stanu Kalifornia (Stany Zjednoczone Ameryki), z wyłączeniem konfliktu postanowień prawnych. Jeśli jakakolwiek część niniejszych warunków zostanie uznana za nieprawidłową lub niewykonalną, pozostałe części pozostaną w mocy. W przypadku różnic między przetłumaczoną wersją niniejszych warunków a oryginalną angielską wersją językową, ważne są postanowienia angielskiej wersji językowej.">
