@@ -12,6 +12,12 @@
 <!ENTITY replyTo.accesskey "S">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Signatur:">
+<!ENTITY signatureText.accesskey "i">
+<!ENTITY signatureHtml.label "Använd HTML">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Hämta signaturen från en fil istället:">
+<!ENTITY signatureFile.accesskey "f">
 <!ENTITY signature.label "Infoga signatur:">
 <!ENTITY signature.accesskey "I">
 <!ENTITY choose.label "Välj…">

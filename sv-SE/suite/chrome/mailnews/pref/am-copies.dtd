@@ -21,6 +21,11 @@
 <!ENTITY draftsFolderOn.accesskey "U">
 <!ENTITY draftInOtherFolder.label "Annan mapp:">
 <!ENTITY draftInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Mappen &quot;Arkiv&quot; i:">
+<!ENTITY archivesFolderOn.accesskey "i">
+<!ENTITY archiveInOtherFolder.label "Annan mapp:">
+<!ENTITY archiveInOtherFolder.accesskey "p">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Mappen &quot;Mallar&quot; i:">
 <!ENTITY templatesFolderOn.accesskey "r">
@@ -28,4 +33,5 @@
 <!ENTITY templateInOtherFolder.accesskey "m">
 <!ENTITY specialFoldersTitle.label "Utkast och mallar">
 <!ENTITY keepDrafts.label "Spara utkast i:">
+<!ENTITY keepArchives.label "Spara arkiv i:">
 <!ENTITY keepTempltes.label "Spara mallar i:">

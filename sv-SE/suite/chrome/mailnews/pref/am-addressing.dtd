@@ -32,3 +32,7 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "efter citerad text (rekommenderas)">
 <!ENTITY aboveText.label                      "efter mitt svar (före citerad text)">
+<!ENTITY includeSigOnReply.label              "Använd signatur i svar">
+<!ENTITY includeSigOnReply.accesskey          "g">
+<!ENTITY includeSigOnForward.label            "Använd signatur i vidarebefordrade meddelanden">
+<!ENTITY includeSigOnForward.accesskey        "v">

@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Nedkopplat läge &amp; Diskutrymme">
+<!ENTITY pref.network.title               "Nätverk &amp; Diskutrymme">
 <!ENTITY pref.offline.caption             "Nedkopplat läge">
 <!ENTITY textStartUp                      "Vid start:">
 <!ENTITY textStartUp.accesskey            "V">
@@ -24,6 +24,10 @@
 <!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload                 "Fråga">
 <!ENTITY radioAskDownload.accesskey       "å">
+<!ENTITY mailConnections.caption          "E-post uppkoppling">
+<!ENTITY mailnewsTimeout.label            "Avbryt uppkopplingsförsök efter:">
+<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeoutSeconds.label     "sekunder">
 <!ENTITY Diskspace                        "Diskutrymme">
 <!ENTITY offlineCompact.label             "Komprimera mappar när det sparar mer än">
 <!ENTITY offlineCompact.accesskey         "m">
