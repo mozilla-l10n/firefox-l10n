@@ -18,3 +18,9 @@
 <!ENTITY clearLocationBar.label "Wyczyść listę adresów WWW dostępną w pasku adresu.">
 <!ENTITY clearLocationBarButton.label "Wyczyść pasek adresu">
 <!ENTITY clearLocationBarButton.accesskey "a">
+<!ENTITY formfillHistory.caption "Historia formularzy i wyszukiwania">
+<!ENTITY enableFormfill.label "Włącz historię formularzy i wyszukiwania">
+<!ENTITY enableFormfill.accesskey "W">
+<!ENTITY formfillExpire.label "Pamiętaj historię formularzy i wyszukiwania przez maksymalnie">
+<!ENTITY formfillExpire.accesskey "f">
+<!ENTITY formfillDays.label "dni">
