@@ -14,7 +14,7 @@
 <!ENTITY autoCompleteMatch.label "Szukaj">
 <!ENTITY autoCompleteMatch.accesskey "S">
 <!ENTITY autoCompleteMatchAnywhere "Gdziekolwiek w adresie bądź tytule">
-<!ENTITY autoCompleteMatchWordsFirst "Gdziekolwiek, preferuj ale granice słów">
+<!ENTITY autoCompleteMatchWordsFirst "Gdziekolwiek, ale preferuj granice słów">
 <!ENTITY autoCompleteMatchWords "Wyłącznie na granicach słów">
 <!ENTITY autoCompleteMatchStart "Wyłącznie na początku adresu bądź tytułu">
 
