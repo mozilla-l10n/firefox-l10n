@@ -15,7 +15,7 @@
 <!ENTITY composingMessages.label "Tworzenie">
 <!ENTITY format.label "Formatowanie">
 <!ENTITY return.label "Potwierdzenia">
-<!ENTITY junk.label "Niechciane i podejrzane wiadomościß">
+<!ENTITY junk.label "Niechciane i podejrzane wiadomości">
 <!ENTITY tags.label "Etykiety">
 <!ENTITY characterEncoding.label "Kodowanie znaków">
 <!ENTITY networkStorage.label "Sieć i miejsce na dysku">
