@@ -14,13 +14,11 @@
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamamıştı">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Adresteki yanlışları kontrol ediniz, örn. 
-<strong>www</strong>.example.com yerine 
-<strong>ww</strong>.example.com gibi</li> 
-<li>Eğer hiçbir sayfaya ulaşamıyorsanız bilgisayarınızın ağ bağlantısını 
-kontrol edin.</li> 
-<li>Bilgisayarınız ateş duvarı veya vekil sunucusu  arkasındaysa, 
-&brandShortName; uygulamasının Web erişimi izni olduğundan emin olun.</li> 
+<li><strong>www</strong>.example.com yerine 
+<strong>ww</strong>.example.com 
+adres yanlış yazılmış olabilir.</li>
+<li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> 
+<li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
