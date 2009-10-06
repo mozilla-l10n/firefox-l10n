@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Niechciana poczta">
+<!ENTITY pref.junk.title "Niechciana i podejrzana poczta">
 <!ENTITY junkSettings.caption "Ustawienia niechcianej poczty">
 <!ENTITY junkMail.intro "Aby zmienić ustawienia niechcianej poczty dotyczące konkretnego konta, przejdź do Konfiguracji kont.">
 
@@ -58,3 +58,15 @@
 <!ENTITY openJunkLog.accesskey "d">
 <!ENTITY resetTrainingData.label "Resetuj dane treningowe">
 <!ENTITY resetTrainingData.accesskey "R">
+
+<!ENTITY pref.suspectMail.caption "Podejrzana poczta">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption "Fałszywe wiadomości">
+<!ENTITY enablePhishingDetector.label "Informuj, jeżeli wyświetlana wiadomość może być próbą oszustwa">
+<!ENTITY enablePhishingDetector.accesskey "I">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption "Ochrona antywirusowa">
+<!ENTITY antiVirus.label "Ułatw programom antywirusowym analizowanie przychodzących wiadomości pocztowych">
+<!ENTITY antiVirus.accesskey "a">

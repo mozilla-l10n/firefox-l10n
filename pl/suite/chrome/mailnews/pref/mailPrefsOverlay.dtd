@@ -1,6 +1,4 @@
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbJsCheckMailNews.label "Kurier Poczty">
-<!ENTITY enbJsCheckMailNews.accesskey "K">
 <!ENTITY enbPluginCheckMailNews.label "Kurier Poczty">
 <!ENTITY enbPluginCheckMailNews.accesskey "p">
 
@@ -17,7 +15,7 @@
 <!ENTITY composingMessages.label "Tworzenie">
 <!ENTITY format.label "Formatowanie">
 <!ENTITY return.label "Potwierdzenia">
-<!ENTITY junk.label "Niechciana">
+<!ENTITY junk.label "Niechciane i podejrzane wiadomościß">
 <!ENTITY tags.label "Etykiety">
 <!ENTITY characterEncoding.label "Kodowanie znaków">
-<!ENTITY offline.label "Tryb offline i miejsce na dysku">
+<!ENTITY networkStorage.label "Sieć i miejsce na dysku">
