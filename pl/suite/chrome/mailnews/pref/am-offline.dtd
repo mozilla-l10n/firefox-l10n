@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pobrane wiadomości przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
-<!ENTITY doNotDownload.label "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
+<!ENTITY doNotDownloadNntp.label "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
+<!ENTITY doNotDownloadImap.label "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku kopie mogą być przechowywane przez ograniczony czas lub wedle rozmiaru.">
 <!ENTITY allFoldersOffline.label "Przechowuj wiadomości dla tego konta lokalnie na komputerze">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Nie pobieraj wiadomości większych niż">
 <!ENTITY offlineNotDownload.accesskey "p">
+<!ENTITY autosyncNotDownload.label "Nie pobieraj wiadomości większych niż">
+<!ENTITY autosyncNotDownload.accesskey "N">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "najnowszych wiadomości">
@@ -32,3 +35,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Synchronizacja wiadomości">
 <!ENTITY diskspaceGroupTitle.label "Miejsce na dysku">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label "Synchronizuj wszystkie wiadomości niezależnie od wieku">
+<!ENTITY allAutosync.accesskey "S">
+<!ENTITY ageAutosyncBefore.label "Synchronizuj tylko ostatnie wiadomości">
+<!ENTITY ageAutosync.accesskey "t">
+<!ENTITY ageAutosyncMiddle.label "">
+<!ENTITY dayAgeInterval.label "Dni">
+<!ENTITY weekAgeInterval.label "Tygodnie">
+<!ENTITY monthAgeInterval.label "Miesiące">
+<!ENTITY yearAgeInterval.label "Lata">
+<!ENTITY ageAutosyncAfter.label "">
