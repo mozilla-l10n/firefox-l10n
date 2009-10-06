@@ -55,7 +55,7 @@
 <!ENTITY calendar.newtask.button.tooltip "Yeni görev oluştur">
 
 <!ENTITY calendar.unifinder.todoitems.label "Görevler">
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Biten görevleri göster">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Bitmiş görevleri göster">
 
 <!ENTITY calendar.today.button.label "Bugün">
 <!ENTITY calendar.tomorrow.button.label "Yarın">
