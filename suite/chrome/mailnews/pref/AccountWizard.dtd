@@ -59,7 +59,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Din befintliga server för utgående e-post (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, kommer att användas. Du kan ändra vilken server som används för utgående e-post senare genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, kommer att användas. Du kan ändra vilken server som används för utgående e-post senare genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
 
 <!-- Entities for Login page -->
 
@@ -77,13 +77,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ditt befintliga användarnamn för utgående e-post (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, kommer att användas. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, kommer att användas. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Din server för utgående e-post (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, är identisk med din server för inkommande e-post. Ditt användarnamn för inkommande e-post kommer att användas vid anslutningen. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, är identisk med din server för inkommande e-post. Ditt användarnamn för inkommande e-post kommer att användas vid anslutningen. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
 
 <!-- Entities for Account name page -->
 
@@ -102,7 +102,9 @@
 <!ENTITY smtpServerNamePrefix.label "Server för utgående (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Server för grupper (NNTP):">
 <!ENTITY downloadOnLogin.label "Hämta meddelanden nu">
+<!ENTITY downloadOnLogin.accesskey "H">
 <!ENTITY deferStorageDesc.label "Markera denna ruta för att lagra e-post för det här kontot i den globala inkorgen i Lokala mappar. I annat fall fungerar kontot som ett eget konto, och dess meddelanden lagras i den egna katalogen.">
 <!ENTITY deferStorage.label "Använd en global inkorg (lagra e-posten i Lokala mappar)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klicka på Slutför för att spara kontoinställningarna och avsluta kontoguiden.">
 <!ENTITY clickFinish.labelMac "Klicka på Klar för att spara kontoinställningarna och avsluta kontoguiden.">

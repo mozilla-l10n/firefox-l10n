@@ -44,6 +44,8 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Bevara trådningen vid sortering av meddelanden">
 <!ENTITY preserveThreading.accesskey      "t">
+<!ENTITY mailBiffOnNewWindow.label        "Leta efter nya meddelanden bara om fönstret E-post &amp; grupper har öppnats">
+<!ENTITY mailBiffOnNewWindow.accesskey    "y">
 
 <!ENTITY defaultMailSettings.description  "Gör &brandShortName; E-post &amp; Grupper till förvalt program för:">
 <!ENTITY setDefaultMail.label             "E-post">
@@ -61,14 +63,3 @@
 <!ENTITY useDefault.accesskey             "r">
 <!ENTITY rememberLastMsg.label            "Kom ihåg det sist valda meddelandet">
 <!ENTITY rememberLastMsg.accesskey        "K">
-<!ENTITY toolbarIntro.caption               "Välj de knappar du vill ha i verktygsfältet">
-<!ENTITY fileButton.label                 "Arkivera">
-<!ENTITY fileButton.accesskey             "A">
-<!ENTITY nextButton.label                 "Nästa">
-<!ENTITY nextButton.accesskey             "N">
-<!ENTITY junkMailButton.label             "Skräppost">
-<!ENTITY junkMailButton.accesskey         "S">
-<!ENTITY printButton.label                "Skriv ut">
-<!ENTITY printButton.accesskey            "u">
-<!ENTITY stopButton.label                 "Stopp">
-<!ENTITY stopButton.accesskey             "o">

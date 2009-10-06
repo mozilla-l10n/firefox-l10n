@@ -1,6 +1,4 @@
 <!-- These are added to the Advanced - Scripts & Plug-ins panel -->
-<!ENTITY enbJsCheckMailNews.label     "E-post &amp; Grupper">
-<!ENTITY enbJsCheckMailNews.accesskey "E">
 <!ENTITY enbPluginCheckMailNews.label     "E-post &amp; Grupper">
 <!ENTITY enbPluginCheckMailNews.accesskey "p">
 
@@ -20,4 +18,4 @@
 <!ENTITY junk.label                       "Skräppost">
 <!ENTITY tags.label                       "Etiketter">
 <!ENTITY characterEncoding.label          "Teckenkodning">
-<!ENTITY offline.label "Nedkopplad/Utrymme">
+<!ENTITY networkStorage.label             "Nätverk &amp; lagring">

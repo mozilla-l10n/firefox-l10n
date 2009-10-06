@@ -82,3 +82,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Visa endast skärmnamn på personer i min adressbok">
 <!ENTITY showCondensedAddresses.accesskey "V">
+<!ENTITY closeMsgWindowOnDelete.label     "Stäng meddelandefönstret när meddelandet tas bort">
+<!ENTITY closeMsgWindowOnDelete.accesskey "g">

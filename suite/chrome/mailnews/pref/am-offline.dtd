@@ -12,19 +12,38 @@
 <!ENTITY nntpDownloadMsg.label "Meddelanden äldre än">
 <!ENTITY nntpDownloadMsg.accesskey "ä">
 <!ENTITY retentionCleanup.label "För att spara diskutrymme kan gamla meddelanden tas bort">
+<!ENTITY retentionCleanupImap.label "För att spara diskutrymme kan gamla meddelanden tas bort, både den lokala kopian och deras original på servern.">
+<!ENTITY retentionCleanupPop.label "För att spara diskutrymme kan gamla meddelanden tas bort, inklusive deras original på servern.">
 <!ENTITY retentionKeepMsg.label "Ta bort meddelanden äldre än">
 <!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
 <!ENTITY retentionKeepAll.accesskey "b">
-<!ENTITY retentionKeepNew.label "Ta bort alla utom de senaste">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Ta alltid bort lästa meddelanden">
-<!ENTITY retentionKeepUnread.accesskey "n">
-<!ENTITY nntpRemoveBody.label "Endast innehållet i meddelanden yngre än">
-<!ENTITY nntpRemoveBody.accesskey "y">
+<!ENTITY retentionKeepRecent.label "Ta bort alla utom de senaste">
+<!ENTITY retentionKeepRecent.accesskey "a">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Ta alltid bort lästa meddelande (oberoende av inställda dagar)">
+<!ENTITY retentionApplyToFlagged.label "Spara alltid märkta meddelanden">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Ta bort innehållet i meddelanden äldre än">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för användning nedkopplad…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Avancerat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "c">
 <!ENTITY syncGroupTitle.label "Synkronisering av meddelanden">
 <!ENTITY diskspaceGroupTitle.label "Diskutrymme">
+
+<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
+  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
+  useAutosyncAfter.label appear on a single line in preferences as follows:
+
+  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+-->
+<!ENTITY useAutosyncBefore.label         "">
+<!ENTITY useAutosyncMiddle.label         "">
+<!ENTITY allInterval.label               "Alla">
+<!ENTITY dayInterval.label               "dagars">
+<!ENTITY weekInterval.label              "veckors">
+<!ENTITY monthInterval.label             "månaders">
+<!ENTITY yearInterval.label              "års">
+<!ENTITY useAutosyncAfter.label          "meddelanden kommer att sparas på disken">
