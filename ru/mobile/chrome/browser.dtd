@@ -56,7 +56,7 @@
 <!ENTITY downloadResume.label "Возобновить">
 <!ENTITY downloadRetry.label "Повторить">
 <!ENTITY downloadRemove.label "Удалить">
-<!ENTITY downloadFailed.label "Неудача ">
+<!ENTITY downloadFailed.label "Неудача">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
 <!ENTITY searchEngine.addSearch "Добавить поиск в:">
