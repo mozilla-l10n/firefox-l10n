@@ -7,7 +7,7 @@
 <!ENTITY navigator.label "Przeglądarka">
 <!ENTITY history.label "Historia">
 <!ENTITY languages.label "Języki">
-<!ENTITY applications.label "Aplikacje pomocnicze">
+<!ENTITY applications.label "Aplikacje">
 <!ENTITY locationBar.label "Pasek adresu">
 <!ENTITY tabWindows.label "Karty">
 <!ENTITY offline.label "Tryb offline">
