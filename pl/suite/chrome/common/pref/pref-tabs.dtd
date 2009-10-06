@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "Przejdź do nowych kart otwartych poprzez odnośniki">
 <!ENTITY background.accesskey "P">
+<!ENTITY warnOnClose.label "Ostrzegaj przed zamknięciem okna z wieloma kartami">
+<!ENTITY warnOnClose.accesskey "s">
 <!ENTITY loadGroup.label "Podczas otwierania grupy zakładek">
 <!ENTITY loadGroupAppend.label "Otwórz wszystkie jako nowe karty">
 <!ENTITY loadGroupAppend.accesskey "O">
