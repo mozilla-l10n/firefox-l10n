@@ -3,7 +3,7 @@
 <!ENTITY siteIcons.label "Ikony witryn">
 <!ENTITY useSiteIcons.label "Pokaż ikony witryn">
 <!ENTITY useSiteIcons.accesskey "k">
-<!ENTITY useFavIcons.label "Agresywnie szukaj za ikonami witryn które niezdefiniowały ich">
+<!ENTITY useFavIcons.label "Wymuszaj wyszukiwanie ikon dla witryn, które ich nie definiują">
 <!ENTITY useFavIcons.accesskey "A">
 <!ENTITY tbIconsDescription.label "Wyświetlaj ikony witryn w menu i pasku zakładek:">
 <!ENTITY tbIconsNever.label "Nigdy nie wyświetlaj ikon dla witryn w zakładkach">
