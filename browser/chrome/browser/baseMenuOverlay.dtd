@@ -12,37 +12,25 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "&brandFullName; વિશે">
 <!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "મદદ સમાવિષ્ટો">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; મદદ">
 <!ENTITY helpForIEUsers.label     "Internet Explorer વપરાશકર્તાઓ માટે">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
-
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY helpReleaseNotes.label         "પ્રકાશન નોંધો">
-<!ENTITY updateCmd.accesskey            "o">
 <!ENTITY updateCmd.label                "સુધારાઓ માટે ચકાસો...">
 
 <!ENTITY preferencesCmdMac.label        "પસંદગીઓ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "સેવાઓ">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; છુપાવો">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "અન્ય છુપાવો">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "બધું બતાવો">

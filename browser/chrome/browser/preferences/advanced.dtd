@@ -51,8 +51,6 @@
 <!ENTITY autoCheck.label                 "સુધારાઓ માટે આમાં આપોઆપ ચકાસો:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "સ્થાપિત એડ-ઓન">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
 <!ENTITY enableSearchUpdate.label        "શોધ યંત્રો">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "જ્યારે &brandShortName; ના સુધારાઓ મળે:">
