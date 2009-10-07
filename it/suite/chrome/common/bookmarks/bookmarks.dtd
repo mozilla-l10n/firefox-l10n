@@ -1,0 +1,120 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <blakeross@telocity.com>
+   -   Mike Kowalski <mikejk@ameritech.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from ./bookmarks.xul -->
+<!ENTITY menuBar.tooltip "Barra del menu">
+<!ENTITY bookmarkToolbar.tooltip "Barra dei Segnalibri">
+<!ENTITY menuitem.newBookmark.label "Segnalibro">
+<!ENTITY menuitem.newBookmark.accesskey "B">
+<!ENTITY menuitem.newFolder.label "Cartella">
+<!ENTITY menuitem.newFolder.accesskey "C">
+<!ENTITY button.newFolder.label "Nuova cartella">
+<!ENTITY button.newFolder.accesskey "u">
+<!ENTITY menuitem.newSeparator.label "Separatore">
+<!ENTITY menuitem.newSeparator.accesskey "S">
+<!ENTITY button.newSeparator.label "Nuovo separatore">
+<!ENTITY button.newSeparator.accesskey "a">
+<!ENTITY menuitem.open.label "Apri file di segnalibri…">
+<!ENTITY menuitem.open.accesskey "A">
+<!ENTITY menuitem.import.label "Importa…">
+<!ENTITY menuitem.import.accesskey "I">
+<!ENTITY menuitem.export.label "Esporta…">
+<!ENTITY menuitem.export.accesskey "E">
+<!ENTITY menuitem.find.label "Cerca nei segnalibri…">
+<!ENTITY menuitem.find.accesskey "r">
+<!ENTITY menuitem.find.find.key "F">
+<!ENTITY command.findBookmarks.label "Cerca…">
+<!ENTITY menuitem.properties.label "Properties…">
+<!ENTITY menuitem.properties.accesskey "o">
+<!ENTITY button.properties.label "Properties…">
+<!ENTITY button.properties.accesskey "P">
+<!ENTITY menuitem.properties.key "I">
+<!ENTITY button.rename.label "Rename…">
+<!ENTITY button.rename.accesskey "R">
+<!ENTITY button.delete.label "Delete">
+<!ENTITY button.delete.accesskey "E">
+<!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
+<!ENTITY menuitem.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.label "Move…">
+<!ENTITY button.moveBookmark.accesskey "M">
+<!ENTITY command.addBookmark.label "Aggiungi…">
+<!ENTITY command.manageBookmarks.label "Modifica">
+<!ENTITY command.sortFolder.label "Ordina cartella…">
+<!ENTITY command.sortFolder.accesskey "d">
+<!ENTITY command.sortFolder.key "S">
+<!ENTITY command.sortFolderByName.label "Ordina cartella per nome">
+<!ENTITY command.sortFolderByName.accesskey "n">
+
+<!ENTITY menuitem.view.command.toolbar.label "Barra degli strumenti">
+<!ENTITY menuitem.view.command.toolbar.accesskey "s">
+<!ENTITY menuitem.view.show_columns.label "Visualizza colonne">
+<!ENTITY menuitem.view.show_columns.accesskey "V">
+<!ENTITY menuitem.newbookmarkfolder.label "Imposta come cartella nuovi segnalibri">
+<!ENTITY menuitem.newbookmarkfolder.accesskey "n">
+<!ENTITY menuitem.newinternetsearchfolder.label "Imposta come cartella ricerche Internet">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "r">
+<!ENTITY menuitem.personaltoolbarfolder.label "Imposta come cartella Barra personale">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey "B">
+
+<!ENTITY treecol.name.label "Nome">
+<!ENTITY treecol.name.accesskey "N">
+<!ENTITY treecol.name.tooltip "Fare clic per ordinare per nome">
+<!ENTITY treecol.url.label "Indirizzo">
+<!ENTITY treecol.url.accesskey "I">
+<!ENTITY treecol.url.tooltip "Fare clic per ordinare per indirizzo">
+<!ENTITY treecol.shortcut.label "Parole chiave">
+<!ENTITY treecol.shortcut.accesskey "P">
+<!ENTITY treecol.shortcut.tooltip "Fare clic per ordinare per parole chiave">
+<!ENTITY treecol.description.label "Descrizione">
+<!ENTITY treecol.description.accesskey "D">
+<!ENTITY treecol.description.tooltip "Fare clic per ordinare per descrizione">
+<!ENTITY treecol.addedon.label "Data creazione">
+<!ENTITY treecol.addedon.accesskey "A">
+<!ENTITY treecol.addedon.tooltip "Fare clic per ordinare per data di creazione">
+<!ENTITY treecol.lastmod.label "Ultima modifica">
+<!ENTITY treecol.lastmod.accesskey "m">
+<!ENTITY treecol.lastmod.tooltip "Fare clic per ordinare per data di ultima modifica">
+<!ENTITY treecol.lastvisit.label "Ultima visita">
+<!ENTITY treecol.lastvisit.accesskey "v">
+<!ENTITY treecol.lastvisit.tooltip "Fare clic per ordinare per data di ultima visita">
+
+<!ENTITY bookmarksWindowTitle.label "Gestione segnalibri">
+
+<!ENTITY search.emptytext "Search Bookmarks">
+<!ENTITY search.key "f">

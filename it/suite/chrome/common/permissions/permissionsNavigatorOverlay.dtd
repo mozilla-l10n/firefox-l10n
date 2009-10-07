@@ -1,0 +1,42 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Permessi per i cookie cambiati">
+<!ENTITY cookieDisplayCookiesCmd.label "Gestione cookie memorizzati">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "G">
+<!ENTITY cookieAllowCookiesCmd.label "Accetta cookie da questo sito">
+<!ENTITY cookieAllowCookiesCmd.accesskey "A">
+<!ENTITY cookieAllowCookiesMsg.label "I cookie da questo sito verranno sempre accettati.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Accetta cookie di sessione da questo sito">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Questo sito potrà impostare cookie solo per questa sessione.">
+<!ENTITY cookieCookiesDefaultCmd.label "Utilizza i permessi predefiniti per i cookie">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultMsg.label "I cookie da questo sito saranno accettati o bloccati in base alle impostazioni predefinite.">
+<!ENTITY cookieBlockCookiesCmd.label "Blocca cookie da questo sito">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "I cookie da questo sito saranno sempre bloccati.">
+
+<!ENTITY cookieImageMessageTitle.label "Permessi per le immagini cambiati">
+<!ENTITY cookieDisplayImagesCmd.label "Gestione permessi immagini">
+<!ENTITY cookieDisplayImagesCmd.accesskey "G">
+<!ENTITY cookieAllowImagesCmd.label "Accetta immagini da questo sito">
+<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieAllowImagesMsg.label "Le immagini da questo sito saranno sempre scaricate.">
+<!ENTITY cookieImagesDefaultCmd.label "Utilizza i permessi predefiniti per le immagini">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultMsg.label "Le immagini da questo sito saranno scaricate in base alle impostazioni predefinite.">
+<!ENTITY cookieBlockImagesCmd.label "Blocca immagini da questo sito">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Le immagini da questo sito non saranno mai scaricate.">
+
+<!ENTITY cookieAllowPopupsCmd.label "Accetta pop-up da questo sito">
+<!ENTITY cookieAllowPopupsCmd.accesskey "A">
+<!ENTITY cookieManagePopups.label "Gestione pop-up">
+<!ENTITY cookieManagePopups.accesskey "G">
+
+<!ENTITY cookieCookieManager.label "Gestione cookie">
+<!ENTITY cookieCookieManager.accesskey "k">
+<!ENTITY cookieImageManager.label "Gestione immagini">
+<!ENTITY cookieImageManager.accesskey "m">
+<!ENTITY cookiePopupManager.label "Gestione pop-up">
+<!ENTITY cookiePopupManager.accesskey "o">

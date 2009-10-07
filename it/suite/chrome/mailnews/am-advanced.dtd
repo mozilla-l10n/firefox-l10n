@@ -1,0 +1,20 @@
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "È necessario specificare un solo server (SMTP) in uscita, anche se si possiedono altri account di posta. Inserire il nome del server per la posta in uscita.">
+
+<!ENTITY smtpListAdd.label "Aggiungi…">
+<!ENTITY smtpListAdd.accesskey "u">
+<!ENTITY smtpListEdit.label "Modifica…">
+<!ENTITY smtpListEdit.accesskey "M">
+<!ENTITY smtpListDelete.label "Elimina">
+<!ENTITY smtpListDelete.accesskey "n">
+<!ENTITY smtpListSetDefault.label "Imposta come predefinito">
+<!ENTITY smtpListSetDefault.accesskey "d">
+
+<!ENTITY serverDescription.label "Descrizione:">
+<!ENTITY serverName.label "Nome server:">
+<!ENTITY serverPort.label "Porta:">
+<!ENTITY userName.label "Nome utente:">
+<!ENTITY connectionSecurity.label "Sicurezza della connessione: ">
+<!ENTITY useSecureAuthentication.label "Autenticazione sicura: ">

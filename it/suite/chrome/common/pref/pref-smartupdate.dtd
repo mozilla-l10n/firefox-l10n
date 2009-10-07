@@ -1,0 +1,21 @@
+<!ENTITY pref.smartUpdate.title "Installazione programmi">
+<!ENTITY smartTitle.label "Installazione e aggiornamento di programmi">
+<!ENTITY enableSU.label "Permetti ai siti web di installare estensioni ed aggiornamenti">
+<!ENTITY enableSU.accesskey "P">
+<!ENTITY allowedSites.label "Siti accettati">
+<!ENTITY allowedSites.accesskey "a">
+
+<!ENTITY verifyUpdates.caption "Updates">
+<!ENTITY autoUpdates.label "Automatically check for updates to:">
+<!ENTITY appUpdates.label "&brandShortName;">
+<!ENTITY appUpdates.accesskey "S">
+<!ENTITY daily.label "daily">
+<!ENTITY appDaily.accesskey "d">
+<!ENTITY weekly.label "settimanalmente">
+<!ENTITY appWeekly.accesskey "w">
+<!ENTITY extensionsUpdates.label "Installed Add-ons">
+<!ENTITY extensionsUpdates.accesskey "n">
+<!ENTITY extensionsDaily.accesskey "i">
+<!ENTITY extensionsWeekly.accesskey "k">
+<!ENTITY addonManagerButton.label "Add-on Manager">
+<!ENTITY addonManagerButton.accesskey "M">

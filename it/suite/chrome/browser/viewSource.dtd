@@ -1,0 +1,27 @@
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Sorgente di: ">
+
+<!ENTITY viewPartialSourceWindow.title "Sorgente DOM">
+
+<!ENTITY menu_wrapLongLines.title "A capo automatico">
+<!ENTITY menu_wrapLongLines.accesskey "m">
+
+<!ENTITY menu_highlightSyntax.label "Evidenzia sintassi">
+<!ENTITY menu_highlightSyntax.accesskey "E">
+
+<!ENTITY findNextCmd.label "Trova successivo">
+<!ENTITY findNextCmd.accesskey "u">
+
+<!ENTITY goToLineCmd.label "Vai alla riga…">
+<!ENTITY goToLineCmd.accesskey "l">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY printSetupCmd.label "Imposta pagina…">
+<!ENTITY printSetupCmd.accesskey "I">

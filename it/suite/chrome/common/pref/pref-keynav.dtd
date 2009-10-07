@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Navigazione da tastiera">
+<!ENTITY tabNavigationBehavior.label "Spostamento con tasto tabulatore">
+<!ENTITY tabNavigationLinks.label "Collegamenti">
+<!ENTITY tabNavigationLinks.accesskey "C">
+<!ENTITY tabNavigationForms.label "Pulsanti, pulsanti radio, caselle di spunta e liste di selezione">
+<!ENTITY tabNavigationForms.accesskey "P">
+<!ENTITY tabNavigationTextboxes.label "Nota: le caselle di testo e le regioni con scorrimento fanno sempre parte della lista di tabulazione.">
+<!ENTITY tabNavigationDesc.label "Quando viene premuto il tasto Tab o Maiusc+Tab, muovi tra:">
+<!ENTITY findAsYouTypeBehavior.label "Cerca quanto digitato">
+<!ENTITY findAsYouTypeTip.label "Suggerimento: per effettuare manualmente una ricerca mentre si scrive, premere il tasto / per cercare del testo o il tasto ' per cercare nei collegamenti, seguito dal testo che si intende cercare.">
+<!ENTITY findAsYouTypeTimeout.label "Cancella la ricerca corrente dopo alcuni secondi di inattività">
+<!ENTITY findAsYouTypeTimeout.accesskey "a">
+<!ENTITY findAsYouTypeSound.label "Riproduci un suono quando non è possibile trovare il testo inserito">
+<!ENTITY findAsYouTypeSound.accesskey "R">
+<!ENTITY findAsYouTypeEnableAuto.label "Cerca il testo digitato all'interno della pagina:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "C">
+<!ENTITY findAsYouTypeAutoText.label "In tutto il testo della pagina">
+<!ENTITY findAsYouTypeAutoText.accesskey "u">
+<!ENTITY findAsYouTypeAutoLinks.label "Solo nei collegamenti">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "S">
+

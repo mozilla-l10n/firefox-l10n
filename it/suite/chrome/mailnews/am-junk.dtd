@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Controlli posta spam">
+<!ENTITY trainingWarning.label "Se attivati, si deve inizialmente insegnare a &brandShortName; come identificare i messaggi spam utilizzando il pulsante Spam della barra degli strumenti per marcare i messaggi come spam o meno. È necessario identificare sia i messaggi spam sia quelli non spam.">
+<!ENTITY level.label "Attiva i controlli spam per questo account">
+<!ENTITY level.accesskey "v">
+
+<!ENTITY move.label "Sposta i nuovi messaggi spam in:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "Cartella &quot;Spam&quot; in:">
+<!ENTITY junkFolderOn.accesskey "p">
+<!ENTITY otherFolder.label "Altro:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Cancella automaticamente i messaggi spam dopo">
+<!ENTITY purge1.accesskey "C">
+<!ENTITY purge2.label "giorni">
+
+<!ENTITY whitelist.label "Non segnare come spam se il mittente é in:">
+<!ENTITY whitelist.accesskey "N">
+
+<!ENTITY ispHeaders.label "Utilizza le intestazioni spam impostate da:">
+<!ENTITY ispHeaders.accesskey "U">

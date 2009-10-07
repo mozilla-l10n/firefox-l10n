@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "Sottoscrizioni ai feed">
+<!ENTITY subscriptionDesc.label "Nota: rimuovere o cambiare la cartella per un feed non influenzerà gli articoli già scaricati.">
+<!ENTITY feedTitle.label "Titolo:">
+<!ENTITY location.label "Posizione:">
+
+<!ENTITY button.addFeed.label "Aggiungi">
+<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.editFeed.label "Modifica">
+<!ENTITY button.editFeed.accesskey "M">
+<!ENTITY button.removeFeed.label "Elimina">
+<!ENTITY button.removeFeed.accesskey "E">
+<!ENTITY button.importOPML.label "Importa">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Esporta">
+<!ENTITY button.exportOPML.accesskey "s">
+
+<!ENTITY cmd.close.commandKey "w">

@@ -1,0 +1,24 @@
+<!ENTITY window.title "Ordinamento cartella">
+
+<!ENTITY sortOptions.label "Opzioni di riordino">
+<!ENTITY description.label "&brandShortName; può riordinare cartelle individuali. Utilizzare queste opzioni per personalizzare l'ordinamento di questa cartella.">
+
+<!ENTITY sortBy.label "Ordinato per:">
+<!ENTITY sortBy.accesskey "O">
+<!ENTITY sortBy.name.label "Nome">
+<!ENTITY sortBy.url.label "Indirizzo">
+<!ENTITY sortBy.shortcutUrl.label "Parole chiave">
+<!ENTITY sortBy.description.label "Descrizione">
+<!ENTITY sortBy.bookmarkAddDate.label "Data creazione">
+<!ENTITY sortBy.lastModifiedDate.label "Ultima modifica">
+<!ENTITY sortBy.lastVisitDate.label "Ultima visita">
+
+<!ENTITY sortOrder.label "Ordine:">
+<!ENTITY sortOrder.accesskey "o">
+<!ENTITY sortAscending.label "Ascending">
+<!ENTITY sortDescending.label "Descending">
+
+<!ENTITY sortFoldersFirst.label "Cartelle all'inizio">
+<!ENTITY sortFoldersFirst.accesskey "z">
+<!ENTITY sortRecursively.label "Ordina ricorsivamente">
+<!ENTITY sortRecursively.accesskey "c">
