@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "ChatZilla">
+
+<!ENTITY pref-irc.open.title "ChatZilla tercihleri">
+<!ENTITY pref-irc.open.desc "ChatZilla's preferences are too extensive to fit into this preference window so, instead, you can open its preferences window from here.">
+<!ENTITY pref-irc.open.label "ChatZilla tercihlerini aç">
+<!ENTITY pref-irc.open.accesskey "a">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "Z">

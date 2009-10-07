@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label "Devam et">
 <!ENTITY downloadRetry.label "Yeniden dene">
 <!ENTITY downloadRemove.label "Kaldır">
+<!ENTITY downloadFailed.label "Hatalı">
 
 <!ENTITY noResults.label "Sonuç yok">
 <!ENTITY allBookmarks.label "Tüm yer imlerini göster">
