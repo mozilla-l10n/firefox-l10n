@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label "Obnovit">
 <!ENTITY downloadRetry.label "Opakovat">
 <!ENTITY downloadRemove.label "Odebrat">
+<!ENTITY downloadFailed.label "Chyba">
 
 <!ENTITY noResults.label "Žádné výsledky">
 <!ENTITY allBookmarks.label "Zobrazit všechny záložky">
