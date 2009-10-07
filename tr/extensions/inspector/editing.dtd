@@ -1,0 +1,16 @@
+<!ENTITY mnEditUndo.label "Geri al ">
+<!ENTITY mnEditUndo.accesskey "G">
+<!ENTITY mnEditRedo.label "Yinele">
+<!ENTITY mnEditRedo.accesskey "Y">
+<!ENTITY mnEditCut.label "Kes">
+<!ENTITY mnEditCut.accesskey "K">
+<!ENTITY mnEditCopy.label "Kopyala">
+<!ENTITY mnEditCopy.accesskey "K">
+<!ENTITY mnEditPaste.label "Yapıştır">
+<!ENTITY mnEditPaste.accesskey "p">
+<!ENTITY mnEditInsert.label "Ekle">
+<!ENTITY mnEditInsert.accesskey "E">
+<!ENTITY mnEditEdit.label "Edit">
+<!ENTITY mnEditEdit.accesskey "e">
+<!ENTITY mnEditDelete.label "Sil">
+<!ENTITY mnEditDelete.accesskey "S">
