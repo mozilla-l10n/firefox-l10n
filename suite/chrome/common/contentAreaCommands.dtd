@@ -1,0 +1,132 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label "Respingi pop-up di questo sito">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label "Consenti pop-up di questo sito">
+<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY openLinkCmd.label "Apri in nuova finestra">
+<!ENTITY openLinkCmd.accesskey "A">
+<!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
+<!ENTITY openLinkCmdInTab.accesskey "h">
+<!ENTITY openLinkInWindowCmd.label "Apri">
+<!ENTITY openLinkInWindowCmd.accesskey "p">
+<!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
+<!ENTITY openFrameCmd.accesskey "A">
+<!ENTITY openFrameCmdInTab.label "Apri riquadro in nuova scheda">
+<!ENTITY openFrameCmdInTab.accesskey "h">
+<!ENTITY showOnlyThisFrameCmd.label "Visualizza solo questo riquadro">
+<!ENTITY showOnlyThisFrameCmd.accesskey "V">
+<!ENTITY goBackCmd.label "Indietro">
+<!ENTITY goBackCmd.accesskey "I">
+<!ENTITY goForwardCmd.label "Avanti">
+<!ENTITY goForwardCmd.accesskey "A">
+<!ENTITY goUpCmd.label "Su">
+<!ENTITY goUpCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Ricarica">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadFrameCmd.label "Ricarica riquadro">
+<!ENTITY reloadFrameCmd.accesskey "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Mostra sorgente selezione">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Mostra sorgente MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "g">
+<!ENTITY viewPageSourceCmd.label "Visualizza sorgente pagina">
+<!ENTITY viewPageSourceCmd.accesskey "g">
+<!ENTITY viewFrameSourceCmd.label "Visualizza sorgente riquadro">
+<!ENTITY viewFrameSourceCmd.accesskey "u">
+<!ENTITY viewPageInfoCmd.label "Visualizza info pagina">
+<!ENTITY viewPageInfoCmd.accesskey "V">
+<!ENTITY viewFrameInfoCmd.label "Visualizza informazioni sul riquadro">
+<!ENTITY viewFrameInfoCmd.accesskey "n">
+<!ENTITY fitImageCmd.label "Adatta dimensioni alla finestra">
+<!ENTITY fitImageCmd.accesskey "A">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "e">
+<!ENTITY viewImageCmd.label "Visualizza immagine">
+<!ENTITY viewImageCmd.accesskey "m">
+<!ENTITY viewVideoCmd.label "View Video">
+<!ENTITY viewVideoCmd.accesskey "i">
+<!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
+<!ENTITY viewBGImageCmd.accesskey "f">
+<!ENTITY setWallpaperCmd.label "Imposta come sfondo">
+<!ENTITY setWallpaperCmd.accesskey "f">
+<!ENTITY bookmarkPageCmd.label "Aggiungi pagina nei segnalibri">
+<!ENTITY bookmarkPageCmd.accesskey "b">
+<!ENTITY bookmarkLinkCmd.label "Aggiungi collegamento nei segnalibri…">
+<!ENTITY bookmarkLinkCmd.accesskey "g">
+<!ENTITY bookmarkFrameCmd.label "Aggiungi questo riquadro nei segnalibri">
+<!ENTITY bookmarkFrameCmd.accesskey "b">
+<!ENTITY savePageAsCmd.label "Salva pagina con nome…">
+<!ENTITY savePageCmd.label "Salva pagina">
+<!ENTITY savePageCmd.accesskey "v">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY saveFrameAsCmd.label "Salva riquadro con nome…">
+<!ENTITY saveFrameCmd.label "Salva riquadro">
+<!ENTITY saveFrameCmd.accesskey "S">
+<!ENTITY saveLinkAsCmd.label "Salva destinazione con nome…">
+<!ENTITY saveLinkCmd.label "Salva destinazione">
+<!ENTITY saveLinkCmd.accesskey "v">
+<!ENTITY saveImageAsCmd.label "Salva immagine con nome…">
+<!ENTITY saveImageCmd.label "Salva immagine">
+<!ENTITY saveImageCmd.accesskey "l">
+<!ENTITY saveVideoCmd.label "Save Video As…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Save Audio As…">
+<!ENTITY saveAudioCmd.accesskey "v">
+<!ENTITY copyCmd.label "Copia">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Seleziona tutto">
+<!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
+<!ENTITY copyLinkCmd.accesskey "n">
+<!ENTITY copyImageCmd.label "Copia immagine">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyVideoURLCmd.label "Copy Video Location">
+<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
+<!ENTITY copyAudioURLCmd.accesskey "o">
+<!ENTITY metadataCmd.label "Proprietà">
+<!ENTITY metadataCmd.accesskey "P">
+<!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
+<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY pasteCmd.label "Incolla">
+<!ENTITY pasteCmd.accesskey "I">
+<!ENTITY cutCmd.label "Taglia">
+<!ENTITY cutCmd.accesskey "T">
+<!ENTITY deleteCmd.label "Elimina">
+<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY undoCmd.label "Annulla">
+<!ENTITY undoCmd.accesskey "A">
+<!ENTITY redoCmd.label "Ripeti">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY thisFrameMenu.label "Questo riquadro">
+<!ENTITY thisFrameMenu.accesskey "Q">
+<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Pause">
+<!ENTITY mediaPause.accesskey "P">
+<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Show Media Controls">
+<!ENTITY mediaShowControls.accesskey "a">
+<!ENTITY mediaHideControls.label "Hide Media Controls">
+<!ENTITY mediaHideControls.accesskey "a">
+<!ENTITY search.accesskey "W">
+<!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
+<!ENTITY bidiSwitchTextDirectionItem.label "Cambia direzione testo">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY spellAddToDictionary.label "Aggiungi al dizionario">
+<!ENTITY spellAddToDictionary.accesskey "d">
+<!ENTITY spellIgnoreWord.label "Ignore Word">
+<!ENTITY spellIgnoreWord.accesskey "W">
+<!ENTITY spellCheckEnable.label "Check Spelling">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(Nessun suggerimento ortografico)">
+<!ENTITY spellDictionaries.label "Lingue">
+<!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellAddDictionaries.label "Scarica altri dizionari…">
+<!ENTITY spellAddDictionaries.accesskey "S">

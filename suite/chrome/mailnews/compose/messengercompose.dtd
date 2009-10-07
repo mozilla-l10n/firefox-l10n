@@ -1,0 +1,164 @@
+<!ENTITY msgComposeWindow.title "Composizione di: (nessun oggetto)">
+
+<!ENTITY fromAddr.label "Da:">
+<!ENTITY fromAddr.accesskey "D">
+<!ENTITY subject.label "Oggetto:">
+<!ENTITY subject.accesskey "O">
+<!ENTITY attachments.label "Allegati:">
+<!ENTITY attachments.accesskey "A">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Messaggio">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY saveCmd.label "Salva">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Salva come">
+<!ENTITY saveAsCmd.accesskey "v">
+<!ENTITY saveAsFileCmd.label "File…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Bozza">
+<!ENTITY saveAsDraftCmd.accesskey "B">
+<!ENTITY saveAsTemplateCmd.label "Modello">
+<!ENTITY saveAsTemplateCmd.accesskey "M">
+<!ENTITY attachMenu.label "Allega">
+<!ENTITY attachMenu.accesskey "A">
+<!ENTITY attachFileCmd.label "File…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Pagina web…">
+<!ENTITY attachPageCmd.accesskey "w">
+<!ENTITY attachVCardCmd.label "Includi biglietto da visita (vCard)">
+<!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY sendNowCmd.label "Spedisci ora">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Spedisci più tardi">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "t">
+<!ENTITY printSetupCmd.label "Impostazioni di stampa…">
+<!ENTITY printSetupCmd.accesskey "I">
+<!ENTITY printCmd.label "Stampa…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "m">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Riformatta">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "f">
+<!ENTITY findCmd.label "Trova e sostituisci…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "v">
+<!ENTITY findAgainCmd.label "Trova successivo">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "u">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Trova precedente">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY accountManagerCmd.label "Configurazione account posta…">
+<!ENTITY accountManagerCmd.accesskey "n">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Barra degli strumenti">
+<!ENTITY showComposeToolbarCmd.accesskey "m">
+<!ENTITY showFormatToolbarCmd.label "Barra di formattazione">
+<!ENTITY showFormatToolbarCmd.accesskey "f">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Formato">
+<!ENTITY formatMenu.accesskey "r">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Opzioni">
+<!ENTITY optionsMenu.accesskey "O">
+
+<!ENTITY quoteCmd.label "Cita messaggio">
+<!ENTITY quoteCmd.accesskey "C">
+<!ENTITY selectAddressCmd.label "Selezione indirizzi…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "i">
+
+<!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "C">
+<!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
+<!ENTITY enableInlineSpellChecker.accesskey "C">
+
+<!ENTITY priorityMenu.label "Priorità">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY lowestPriorityCmd.label "Minima">
+<!ENTITY lowestPriorityCmd.accesskey "M">
+<!ENTITY lowPriorityCmd.label "Bassa">
+<!ENTITY lowPriorityCmd.accesskey "B">
+<!ENTITY normalPriorityCmd.label "Normale">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highPriorityCmd.accesskey "A">
+<!ENTITY highestPriorityCmd.label "Massima">
+<!ENTITY highestPriorityCmd.accesskey "s">
+
+<!ENTITY returnReceiptMenu.label "Ricevuta di ritorno">
+<!ENTITY returnReceiptMenu.accesskey "R">
+<!ENTITY outputFormatMenu.label "Formato">
+<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "Automatico">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Solo testo semplice">
+<!ENTITY plainTextFormatCmd.accesskey "S">
+<!ENTITY htmlFormatCmd.label "Solo HTML">
+<!ENTITY htmlFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.label "Testo semplice e HTML">
+<!ENTITY bothFormatCmd.accesskey "T">
+
+<!ENTITY fileCarbonCopyCmd.label "Salva copia in">
+<!ENTITY fileCarbonCopyCmd.accesskey "c">
+<!ENTITY fileHereMenu.label "Archivia qua">
+
+<!ENTITY sendButton.label "Spedisci">
+<!ENTITY addressButton.label "Destinatari">
+<!ENTITY attachButton.label "Allega">
+<!ENTITY spellingButton.label "Ortografia">
+<!ENTITY saveButton.label "Salva">
+<!ENTITY stopButton.label "Stop">
+
+<!ENTITY addressBar.tooltip "Barra degli indirizzi">
+<!ENTITY formatToolbar.tooltip "Barra di formattazione">
+<!ENTITY sendButton.tooltip "Spedisce ora questo messaggio">
+<!ENTITY sendlaterButton.tooltip "Salva il messaggio nella cartella Da inviare">
+<!ENTITY addressButton.tooltip "Seleziona un destinatario da una rubrica">
+<!ENTITY attachButton.tooltip "Aggiungi un allegato">
+<!ENTITY saveButton.tooltip "Salva questo messaggio come bozza">
+<!ENTITY stopButton.tooltip "Interrompe il trasferimento in corso">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "(Nessun suggerimento trovato)">
+<!ENTITY spellCheckIgnoreWord.label "Ignora parola">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Aggiungi al dizionario">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Annulla">
+<!ENTITY undo.accesskey "A">
+<!ENTITY cut.label "Taglia">
+<!ENTITY cut.accesskey "T">
+<!ENTITY copy.label "Copia">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "Incolla">
+<!ENTITY paste.accesskey "I">
+<!ENTITY pasteQuote.label "Incolla come citazione">
+<!ENTITY pasteQuote.accesskey "z">
+
+<!ENTITY openAttachment.label "Apri">
+<!ENTITY openAttachment.accesskey "A">
+<!ENTITY delete.label "Elimina">
+<!ENTITY delete.accesskey "E">
+<!ENTITY renameAttachment.label "Rinomina">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "Seleziona tutto">
+<!ENTITY selectAll.accesskey "S">
+<!ENTITY attachFile.label "Allega file…">
+<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachPage.label "Allega pagina web…">
+<!ENTITY attachPage.accesskey "w">

@@ -1,0 +1,17 @@
+
+<!ENTITY search.name.label "nome">
+<!ENTITY search.url.label "indirizzo">
+<!ENTITY search.shortcut.label "parola chiave">
+<!ENTITY search.description.label "descrizione">
+<!ENTITY search.startswith.label "inizia con">
+<!ENTITY search.endswith.label "termina con">
+<!ENTITY search.is.label "è">
+<!ENTITY search.isnot.label "non è">
+<!ENTITY search.contains.label "contiene">
+<!ENTITY search.doesntcontain.label "non contiene">
+<!ENTITY save.query.label "Salva questa ricerca con un segnalibro">
+<!ENTITY save.query.accesskey "S">
+<!ENTITY search.for.label "Trova i segnalibri il cui">
+<!ENTITY findBookmark.title "Ricerca segnalibri">
+<!ENTITY findButton.label "Trova">
+<!ENTITY findButton.accesskey "T">

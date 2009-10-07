@@ -1,0 +1,26 @@
+<!ENTITY pref.history.title "Cronologia">
+
+<!ENTITY pref.history.caption "Cronologia di navigazione">
+<!ENTITY historyPages.label "La cronologia è un elenco di pagine visitate.">
+<!ENTITY expireDaysMin1.label "Always remember visited pages for at least">
+<!ENTITY expireDaysMin1.accesskey "R">
+<!ENTITY expireDaysMin2.label "days">
+<!ENTITY expireDays1.label "Remember visited pages for up to">
+<!ENTITY expireDays1.accesskey "e">
+<!ENTITY expireDays2.label "days">
+<!ENTITY expireSites1.label "Remember up to">
+<!ENTITY expireSites1.accesskey "m">
+<!ENTITY expireSites2.label "visited pages">
+<!ENTITY clearHistory.label "Svuota cronologia">
+<!ENTITY clearHistory.accesskey "S">
+
+<!ENTITY locationBarHistory.caption "Cronologia barra degli indirizzi">
+<!ENTITY clearLocationBar.label "Elimina la lista di siti memorizzata nel menu della barra degli indirizzi.">
+<!ENTITY clearLocationBarButton.label "Svuota barra degli indirizzi">
+<!ENTITY clearLocationBarButton.accesskey "b">
+<!ENTITY formfillHistory.caption "Form and Search History">
+<!ENTITY enableFormfill.label "Enable form and search history">
+<!ENTITY enableFormfill.accesskey "n">
+<!ENTITY formfillExpire.label "Remember form and search history for up to">
+<!ENTITY formfillExpire.accesskey "f">
+<!ENTITY formfillDays.label "days">

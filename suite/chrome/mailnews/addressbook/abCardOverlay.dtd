@@ -1,0 +1,171 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab "Contatti">
+<!ENTITY Contact.accesskey "C">
+<!ENTITY Name.box "Nome">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+
+<!ENTITY NameField1.label "Nome:">
+<!ENTITY NameField1.accesskey "N">
+<!ENTITY NameField2.label "Cognome:">
+<!ENTITY NameField2.accesskey "C">
+<!ENTITY PhoneticField1.label "Fonetico:">
+<!ENTITY PhoneticField2.label "Fonetico:">
+<!ENTITY DisplayName.label "Nome visualizzato:">
+<!ENTITY DisplayName.accesskey "v">
+<!ENTITY NickName.label "Soprannome:">
+<!ENTITY NickName.accesskey "S">
+
+<!ENTITY PrimaryEmail.label "E-mail:">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY SecondEmail.label "E-mail secondaria:">
+<!ENTITY SecondEmail.accesskey "m">
+<!ENTITY PreferMailFormat.label "Preferisce ricevere i messaggi formattati come:">
+<!ENTITY PreferMailFormat.accesskey "P">
+<!ENTITY PlainText.label "Testo semplice">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Non definito">
+<!ENTITY ScreenName.label "Instant Messenger:">
+<!ENTITY ScreenName.accesskey "I">
+
+<!ENTITY allowRemoteContent1.label "Consenti contenuto remoto.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "Nei messaggi in HTML è possibile includere elementi ospitati da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di elementi esterni contenuti nei messaggi HTML provenienti da questo contatto.">
+
+<!ENTITY WorkPhone.label "Lavoro:">
+<!ENTITY WorkPhone.accesskey "L">
+<!ENTITY HomePhone.label "Casa:">
+<!ENTITY HomePhone.accesskey "a">
+<!ENTITY FaxNumber.label "Fax:">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY PagerNumber.label "Cercapersone:">
+<!ENTITY PagerNumber.accesskey "r">
+<!ENTITY CellularNumber.label "Cellulare:">
+<!ENTITY CellularNumber.accesskey "e">
+
+<!ENTITY Home.tab "Privato">
+<!ENTITY Home.accesskey "P">
+<!ENTITY HomeAddress.label "Indirizzo:">
+<!ENTITY HomeAddress.accesskey "I">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "Città:">
+<!ENTITY HomeCity.accesskey "à">
+<!ENTITY HomeState.label "Provincia:">
+<!ENTITY HomeState.accesskey "v">
+<!ENTITY HomeZipCode.label "CAP:">
+<!ENTITY HomeZipCode.accesskey "C">
+<!ENTITY HomeCountry.label "Nazione:">
+<!ENTITY HomeCountry.accesskey "z">
+<!ENTITY HomeWebPage.label "Pagina web:">
+<!ENTITY HomeWebPage.accesskey "w">
+<!ENTITY Birthday.label "Compleanno:">
+<!ENTITY Birthday.accesskey "C">
+<!ENTITY In.label "">
+<!ENTITY Year.emptytext "Anno">
+<!ENTITY Or.value "o">
+<!ENTITY Age.emptytext "Età">
+<!ENTITY YearsOld.label "">
+
+<!ENTITY Work.tab "Lavoro">
+<!ENTITY Work.accesskey "L">
+<!ENTITY JobTitle.label "Qualifica:">
+<!ENTITY JobTitle.accesskey "i">
+<!ENTITY Department.label "Dipartimento:">
+<!ENTITY Department.accesskey "m">
+<!ENTITY Company.label "Organizzazione:">
+<!ENTITY Company.accesskey "O">
+<!ENTITY WorkAddress.label "Indirizzo:">
+<!ENTITY WorkAddress.accesskey "I">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "Città:">
+<!ENTITY WorkCity.accesskey "C">
+<!ENTITY WorkState.label "Provincia:">
+<!ENTITY WorkState.accesskey "P">
+<!ENTITY WorkZipCode.label "CAP:">
+<!ENTITY WorkZipCode.accesskey "A">
+<!ENTITY WorkCountry.label "Nazione:">
+<!ENTITY WorkCountry.accesskey "N">
+<!ENTITY WorkWebPage.label "Pagina web:">
+<!ENTITY WorkWebPage.accesskey "w">
+
+<!ENTITY Other.tab "Altre">
+<!ENTITY Other.accesskey "h">
+<!ENTITY Custom1.label "Personalizzato 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Personalizzato 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Personalizzato 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Personalizzato 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.label "Note:">
+<!ENTITY Notes.accesskey "N">
+
+<!ENTITY Photo.tab "Fotografia">
+<!ENTITY Photo.accesskey "o">
+<!ENTITY PhotoDesc.label "Scegliere fra le seguenti opzioni:">
+<!ENTITY GenericPhoto.label "fotografia generica">
+<!ENTITY GenericPhoto.accesskey "G">
+<!ENTITY DefaultPhoto.label "Predefinito">
+<!ENTITY PhotoFile.label "su questo computer">
+<!ENTITY PhotoFile.accesskey "m">
+<!ENTITY BrowsePhoto.label "Sfoglia">
+<!ENTITY BrowsePhoto.accesskey "S">
+<!ENTITY PhotoURL.label "sul web">
+<!ENTITY PhotoURL.accesskey "b">
+<!ENTITY PhotoURL.emptytext "Inserire l'indirizzo web di una foto">
+<!ENTITY UpdatePhoto.label "Aggiorna">
+<!ENTITY UpdatePhoto.accesskey "A">
