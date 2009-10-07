@@ -3,10 +3,10 @@
 # LOCALIZATION NOTE: The 'en-US' strings in some URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're live.
 
-#define bookmarks_title Bokm‰rken
-#define bookmarks_heading Bokm‰rken
+#define bookmarks_title Bokm√§rken
+#define bookmarks_heading Bokm√§rken
 
-#define personal_toolbarfolder Bokm‰rkesf‰ltet
+#define personal_toolbarfolder Bokm√§rkesf√§ltet
 
 #define seamonkey_and_mozilla SeaMonkey och Mozilla
 
@@ -38,7 +38,7 @@
 
 # LOCALIZATION NOTE (seamonkey_addons):
 # link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/
-#define seamonkey_addons SeaMonkey-till‰gg
+#define seamonkey_addons SeaMonkey-till√§gg
 
 # LOCALIZATION NOTE (seamonkey_themes):
 # link title for https://en-US.add-ons.mozilla.com/en-US/seamonkey/themes
@@ -58,7 +58,7 @@
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
-#define mozdev_seamonkey SeaMonkey-till‰gg frÂn mozdev.org
+#define mozdev_seamonkey SeaMonkey-till√§gg fr√•n mozdev.org
 
 #define community_support Gemenskap &amp; Support
 
