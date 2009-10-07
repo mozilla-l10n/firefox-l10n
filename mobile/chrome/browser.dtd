@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label      "Hervatten">
 <!ENTITY downloadRetry.label       "Opnieuw proberen">
 <!ENTITY downloadRemove.label      "Verwijderen">
+<!ENTITY downloadFailed.label      "Mislukt">
 
 <!ENTITY noResults.label           "Geen resultaten">
 <!ENTITY allBookmarks.label        "Alle bladwijzers tonen">
