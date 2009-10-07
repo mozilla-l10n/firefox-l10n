@@ -190,11 +190,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "પાછળ">
-<!ENTITY backCmd.accesskey   "B">
 <!ENTITY backButton.tooltip  "પાછળ જાવ">
 
 <!ENTITY forwardCmd.label       "આગળ">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "આગળ જાવ">
 
 <!ENTITY detailsPane.more.label "વધુ">

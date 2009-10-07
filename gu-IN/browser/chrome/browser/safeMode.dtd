@@ -48,9 +48,6 @@
 <!ENTITY resetToolbars.label          "સાધનપટ્ટીઓ અને નિયંત્રકો પુનઃસુયોજિત કરો">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "બુકમાર્કોને &brandShortName; મૂળભૂતોમાં પુનઃસુયોજિત કરો">
-<!ENTITY resetBookmarks.accesskey     "b">
-
 <!ENTITY resetUserPrefs.label         "બધી વપરાશકર્તા પસંદગીઓને &brandShortName; મૂળભૂતોમાં પુનઃસુયોજિત કરો">
 <!ENTITY resetUserPrefs.accesskey     "p">
 

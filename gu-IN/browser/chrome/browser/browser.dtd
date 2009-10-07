@@ -93,13 +93,6 @@
 
 <!ENTITY bookmarksButton.label          "બુકમાર્કો">
 <!ENTITY bookmarksButton.tooltip        "તમારી બુકમાર્કો દર્શાવો">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "ઈતિહાસ">
 <!ENTITY historyButton.tooltip          "તમે છેલ્લે જુએલા પાનાંઓ દર્શાવો">
@@ -270,8 +263,6 @@
 <!ENTITY copyImageContentsCmd.label   "ચિત્રની  નકલ કરો">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY blockImageCmd.accesskey       "B">
-<!ENTITY metadataCmd.label            "ગુણધર્મો">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "ઈમેઈલ સરનામાની નકલ કરો">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "આ ચોકઠું">
@@ -380,8 +371,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "કે જે આના દ્વારા ચલાવવામાં આવે છે">
 <!ENTITY editBookmark.undo.label                     "રદ કરો">
 
-<!ENTITY urlbar.emptyText             "ઈતિહાસ અને બુકમાર્કમાં શોધો">
-
 <!ENTITY backForwardMenu.tooltip      "છેલ્લા પાનાંઓ">
 <!ENTITY organizeBookmarks.label "બુકમાર્કો આયોજીત કરો…">
 
@@ -395,7 +384,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY copyAudioURLCmd.label        "ઓડિયો સ્થાનની નકલ કરો">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyVideoURLCmd.label        "વીડિયો સ્થાનની નકલ કરો">
-<!ENTITY ctrlTab.search.emptyText "શોધ ટેબો">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "નિયંત્રણો છુપાવો">
 <!ENTITY mediaMute.accesskey         "M">
@@ -425,8 +413,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ખાનગી બ્રાઉઝીંગ)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.start.label         "ખાનગી બ્રાઉઝીંગ શરૂ કરો">

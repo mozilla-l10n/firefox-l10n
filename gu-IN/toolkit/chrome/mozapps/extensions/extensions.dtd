@@ -25,9 +25,6 @@
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "એડ-ઓન સ્થાપિત કરો">
 <!ENTITY cmd.installFileTheme.tooltip     "થીમ સ્થાપિત કરો">
-<!ENTITY cmd.installUpdatesAll.label      "સુધારાઓ સ્થાપિત કરો">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "પસંદ કરેલ સુધારાઓ સ્થાપિત કરે છે">
 <!ENTITY cmd.skip.label                   "અવગણો">
 <!ENTITY cmd.skip.accesskey               "k">
 <!ENTITY cmd.skip.tooltip                 "આ સુધારાઓ અવગણો">

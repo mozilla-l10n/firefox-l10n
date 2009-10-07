@@ -13,14 +13,3 @@
 <!ENTITY safeb.palm.decline.label "આ ચેતવણી અવગણો">
 <!ENTITY safeb.palm.decline.statustext "ચેતવણી બંધ કરો" >
 <!ENTITY safeb.palm.notforgery.label2 "આ વેબ ગુનાખોરી નથી">
-<!ENTITY safeb.palm.report.label "આ સાઈટ શા માટે અટકાવાયેલ હતી?">
-
-<!ENTITY safeb.blocked.malware.title "અહેવાલ અપાયેલ હુમલા સાઈટો!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> આગળની આ વેબસાઈટ હુમલા સાઈટ તરીકે અહેવાલ આપવામાં આવેલ છે અને તે તમારી સુરક્ષા પસંદગીઓ પર અટકાવાયેલ છે.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>હુમલા સાઈટો કાર્યક્રમો સ્થાપિત કરવાનો પ્રયાસ કરે કે જે ખાનગી જાણકારી ચોરે, તમારા કમ્પ્યૂટરનો બીજા પર હુમલો કરવા માટે વપરાશ કરે, અથવા તમારી સિસ્ટમને નુકસાન પહોંચાડે.</p><p>અમુક હુમલા સાઈટો હેતુસર નુકસાનકારત સોફ્ટવેર વહેંચે છે, પરંતુ ઘણીબધી તેમના માલિકોની પરવાનગી વિના નબળી પાડવામાં આવે છે.</p>">
-
-<!ENTITY safeb.blocked.phishing.title "અહેવાલ અપાયેલ વેબ ગુનાખોરી!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/> આગળની આ સાઈટનો વેબ ગુનાખોરી માટે અહેવાલ આપવામાં આવેલ છે અને તે તમારી સુરક્ષા પસંદગીઓ પર આધાર રાખીને અટકાવવામાં આવેલ છે.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>વેબ ગુનાખોરીઓ તમને તમે જે સ્રોતો પર વિશ્વાસ મૂકો તેની મદદથી તમારી ખાનગી અથવા આર્થિક જાણકારી ખોલવા માટે રચાયેલ હોય છે.</p><p>આ વેબ પાનાં પર કોઈપણ જાણકારી દાખલ કરવાનું ઓળખ ચોરી અથવા અન્ય દગામાં પરિણમી શકશે.</p>">
