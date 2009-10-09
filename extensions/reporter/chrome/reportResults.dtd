@@ -5,7 +5,7 @@
 <!ENTITY reportProduct               "Produit">
 <!ENTITY reportoscpu                 "OS">
 <!ENTITY reportGecko                 "Gecko">
-<!ENTITY reportBuildConfig           "Mise en page…">
+<!ENTITY reportBuildConfig           "Configuration de compilation">
 <!ENTITY reportUseragent             "Agent utilisateur">
 <!ENTITY reportLanguage              "Langue">
 <!ENTITY reportCharset               "Jeu de caractères">
