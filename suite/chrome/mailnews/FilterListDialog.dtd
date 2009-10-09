@@ -1,4 +1,4 @@
-<!ENTITY window.title "Meddelandefilter">
+<!ENTITY filterListDialog.title "Meddelandefilter">
 <!ENTITY nameColumn.label "Beskrivning">
 <!ENTITY activeColumn.label "Aktiverat">
 <!ENTITY newButton.label "Nytt…">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "å">
 <!ENTITY choosethis.label "välj denna mapp">
 <!ENTITY choosethisnewsserver.label "välj denna diskussionsgruppsserver">
-<!ENTITY helpButton.label "Hjälp">
-<!ENTITY helpButton.accesskey "H">

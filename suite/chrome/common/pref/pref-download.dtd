@@ -18,6 +18,13 @@
 <!ENTITY alwaysAsk.label                "Fråga alltid var jag vill spara filerna">
 <!ENTITY alwaysAsk.accesskey            "A">
 
+<!ENTITY downloadRetention.label        "Behåll hämtningar">
+<!ENTITY removeDownloads.label          "Ta bort hämtningar">
+<!ENTITY removeDownloads.accesskey      "T">
+<!ENTITY whenCompleted.label            "När de är klara">
+<!ENTITY whenQuittingApp.label          "När &brandShortName; avslutas">
+<!ENTITY neverRemove.label              "Aldrig">
+
 <!ENTITY finishedBehavior.label         "När hämtningen är slutförd">
 <!ENTITY playSound.label                "Ge en ljudsignal">
 <!ENTITY playSound.accesskey            "l">
