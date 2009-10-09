@@ -18,8 +18,6 @@
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Hämta signaturen från en fil istället:">
 <!ENTITY signatureFile.accesskey "f">
-<!ENTITY signature.label "Infoga signatur:">
-<!ENTITY signature.accesskey "I">
 <!ENTITY choose.label "Välj…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Redigera kort…">

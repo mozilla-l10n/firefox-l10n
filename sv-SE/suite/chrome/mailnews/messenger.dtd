@@ -593,7 +593,7 @@
 <!-- SearchBar -->
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "S">
-<!ENTITY searchSubjectAndFrom.emptytext "Ämne eller Från innehåller:">
+<!ENTITY searchSubjectOrAddress.emptytext "Ämne eller adress innehåller:">
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">
 
