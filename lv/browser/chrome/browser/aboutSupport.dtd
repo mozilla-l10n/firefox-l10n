@@ -11,7 +11,6 @@
 <!ENTITY aboutSupport.extensionName "Nosaukums">
 <!ENTITY aboutSupport.extensionEnabled "Ieslēgts">
 <!ENTITY aboutSupport.extensionVersion "Versija">
-<!ENTITY aboutSupport.extensionFirstRun "PirmāPalaišana">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Programmas pamatdati">
