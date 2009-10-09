@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title  "à propos de ChatZilla">
+<!ENTITY window.title  "À propos de ChatZilla">
 
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "Version inconnue">
