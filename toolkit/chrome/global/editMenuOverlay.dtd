@@ -26,6 +26,6 @@
 <!ENTITY findAgainCmd.label "Meklēt vēlreiz">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.accesskey "z">
 <!ENTITY findPreviousCmd.label "Meklēt iepriekšējo">
 <!ENTITY findPreviousCmd.accesskey "p">

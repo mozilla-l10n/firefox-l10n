@@ -435,6 +435,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Nosūtīt audio…">
 <!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY videoFullScreen.label       "Pa visu ekrānu">
+<!ENTITY videoFullScreen.accesskey   "P">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privātā pārlūkošana)">

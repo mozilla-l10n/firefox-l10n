@@ -14,8 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Palīdzība">
 <!ENTITY helpMenuWin.accesskey "P">
-<!ENTITY aboutCmd.label "Par &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutProduct.label    "Par &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY helpForIEUsers.label "Internet Explorer lietotājiem">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">

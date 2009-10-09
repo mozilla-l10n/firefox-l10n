@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "Pirmā lapa">
 <!ENTITY endarrow.tooltip "Pēdējā lapa">
-<!ENTITY rightarrow.tooltip "Nākamā lapa">
-<!ENTITY leftarrow.tooltip "Iepriekšējā lapa">
+<!ENTITY nextarrow.tooltip "Nākamā lapa">
+<!ENTITY previousarrow.tooltip "Iepriekšējā lapa">
