@@ -23,7 +23,7 @@
 <!ENTITY rights.webservices-b "Дополнительные">
 <!ENTITY rights.webservices-c " , затем выбрав вкладку ">
 <!ENTITY rights.webservices-d "Обновления">
-<!ENTITY rights.webservices-e " , и снять флажки «Автоматически проверять наличие обновлений для».">
+<!ENTITY rights.webservices-e " , и сняв флажки «Автоматически проверять наличие обновлений для».">
 <!ENTITY rights.webservices-unbranded "Обзор служб информирования о сайтах, включённых в продукт, вместе с инструкциями по их отключению, если таковые требуются, должен быть приведён здесь.">
 <!ENTITY rights.webservices-term1-unbranded "Любые применимые политики использования служб для этого продукта должны быть перечислены здесь.">
 <!ENTITY rights.webservices-term1 "&vendorShortName; может прекратить предоставление Служб или изменить работу Служб по своему усмотрению.">
