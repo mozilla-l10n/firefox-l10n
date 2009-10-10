@@ -10,9 +10,9 @@
 <!ENTITY viewNotDeleted.accesskey "s">
 <!ENTITY viewTags.label "Étiquettes">
 <!ENTITY viewTags.accesskey "q">
-<!ENTITY viewCustomViews.label "Personnaliser…">
+<!ENTITY viewCustomViews.label "Vues personnalisées">
 <!ENTITY viewCustomViews.accesskey "P">
 <!ENTITY viewVirtualFolder.label "Enregistrer la recherche…">
 <!ENTITY viewVirtualFolder.accesskey "r">
 <!ENTITY viewCustomizeView.label "Personnaliser…">
-<!ENTITY viewCustomizeView.accesskey "P">
+<!ENTITY viewCustomizeView.accesskey "e">

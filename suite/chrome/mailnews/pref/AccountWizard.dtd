@@ -5,14 +5,14 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Pour recevoir des messages, vous devez d'abord créer et paramétrer un compte de courrier électronique ou de groupes de discussion.">
+<!ENTITY accountSetupInfo.label      "Pour recevoir des messages, vous devez d'abord créer et paramétrer un compte de courrier électronique ou de groupes de discussion.">
 <!ENTITY accountTypeTitle.label "Paramétrage du nouveau compte">
-<!ENTITY accountTypeDesc.label "Cet assistant va collecter les informations nécessaires à la création d'un compte de courrier ou de groupes de discussion. Si vous êtes incapable de répondre à certaines questions, veuillez contacter votre administrateur système ou votre Fournisseur d'accès à Internet.">
+<!ENTITY accountTypeDesc.label       "Cet assistant va collecter les informations nécessaires à la création d'un compte de courrier ou de groupes de discussion. Si vous êtes incapable de répondre à certaines questions, veuillez contacter votre administrateur système ou votre Fournisseur d'accès à Internet.">
 <!ENTITY accountTypeDirections.label "Sélectionnez le type de compte que vous voulez créer :">
-<!ENTITY accountTypeMail.label "Compte courrier électronique">
+<!ENTITY accountTypeMail.label "Courrier électronique">
 <!ENTITY accountTypeMail.accesskey "C">
-<!ENTITY accountTypeNews.label "Compte groupes de discussion">
-<!ENTITY accountTypeNews.accesskey "g">
+<!ENTITY accountTypeNews.label "Groupes de discussion">
+<!ENTITY accountTypeNews.accesskey "d">
 
 <!-- Entities for Identity page -->
 

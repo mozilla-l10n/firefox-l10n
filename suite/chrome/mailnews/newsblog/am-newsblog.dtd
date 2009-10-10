@@ -4,17 +4,17 @@
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutes">
 
-<!ENTITY loginAtStartup.label "Vérifier les nouveaux articles au démarrage"> 
+<!ENTITY loginAtStartup.label "Vérifier les nouveaux articles au démarrage">
 <!ENTITY loginAtStartup.accesskey "r">
 
-<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l'article plutôt que de télécharger la page Web"> 
+<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l'article plutôt que de télécharger la page Web">
 <!ENTITY useQuickMode.accesskey "P">
 
-<!ENTITY manageSubscriptions.label "Gérer les abonnements…"> 
+<!ENTITY manageSubscriptions.label "Gérer les abonnements…">
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs et nouvelles">
-<!ENTITY feeds.wizardShortName "Flux">  
+<!ENTITY feeds.wizardShortName "Flux">
 <!ENTITY feeds.wizardLongName "Blogs et nouvelles">
 <!ENTITY feeds.wizardLongName.accesskey "B">

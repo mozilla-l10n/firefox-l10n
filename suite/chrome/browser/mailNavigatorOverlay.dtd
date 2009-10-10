@@ -3,7 +3,7 @@
 <!ENTITY  newMessageCmd.key               "M">
 
 <!ENTITY  newContactCmd.label             "Contact…">
-<!ENTITY  newContactCmd.accesskey         "C">
+<!ENTITY  newContactCmd.accesskey         "o">
 
 <!ENTITY sendPage.label                   "Envoyer la page…">
 <!ENTITY sendPage.accesskey               "l">
