@@ -71,7 +71,7 @@
 <!ENTITY totalColumn.tooltip "Skupno število sporočil v niti">
 <!ENTITY readColumn.tooltip "Kliknite sem za razvrščanje po stanju prebranega">
 <!ENTITY flagColumn.tooltip "Kliknite za razvrščanje po zastavici">
-<!ENTITY locationColumn.tooltip "Kliknite sem za razvrščanje po lokaciji">
+<!ENTITY locationColumn.tooltip "Kliknite sem za razvrščanje po mestu">
 <!ENTITY idColumn.tooltip "Kliknite za razvrščanje po vrstnem redu prejema">
 
 

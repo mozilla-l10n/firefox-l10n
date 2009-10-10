@@ -44,9 +44,9 @@
 <!ENTITY percentPopup.value "procent(ov)">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "Lokacija slike:">
-<!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Vpišite datotčno ime oziroma lokacijo slike">
+<!ENTITY locationEditField.label "Naslov slike:">
+<!ENTITY locationEditField.accessKey "N">
+<!ENTITY locationEditField.tooltip "Vnesite ime datoteke oziroma naslov slike">
 <!ENTITY title.label "Namig:">
 <!ENTITY title.accessKey "n">
 <!ENTITY title.tooltip "Atribut HTML 'title' se izriše kot namig">
@@ -113,7 +113,7 @@
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Obrazec">
-<!ENTITY imageLocationTab.label "Lokacija">
+<!ENTITY imageLocationTab.label "Naslov">
 <!ENTITY imageDimensionsTab.label "Dimenzije">
 <!ENTITY imageAppearanceTab.label "Videz">
 <!ENTITY imageLinkTab.label "Povezava">

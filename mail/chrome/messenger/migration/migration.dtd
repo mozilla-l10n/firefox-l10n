@@ -22,7 +22,7 @@
 <!ENTITY importItems.label              "Izberite, kaj želite uvoziti:">
 
 <!ENTITY migrating.title                "Uvoz ...">
-<!ENTITY migrating.label                "Trenutno se uvaža sledeče ...">
+<!ENTITY migrating.label                "Trenutno se uvaža ...">
 
 <!ENTITY selectProfile.title            "Izbira profila">
 <!ENTITY selectProfile.label            "Uvoz je možen iz naslednjih profilov:">

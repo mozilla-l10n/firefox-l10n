@@ -51,7 +51,7 @@
 <!ENTITY footerRight.tip "Desna noga">
 
 <!ENTITY hfTitle "Naslov">
-<!ENTITY hfURL "URI">
+<!ENTITY hfURL "URL">
 <!ENTITY hfDateAndTime "Datum/čas">
 <!ENTITY hfPage "Stran #">
 <!ENTITY hfPageAndTotal "Stran # od #">

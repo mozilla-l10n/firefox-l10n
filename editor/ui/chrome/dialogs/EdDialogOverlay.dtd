@@ -41,10 +41,10 @@
 <!ENTITY chooseButton.label "Izberite datoteko ...">
 <!ENTITY chooseFile.accessKey "d">
 <!ENTITY chooseFileLink.accessKey "o">
-<!ENTITY makeUrlRelative.label "URI je relativen glede na lokacijo strani">
+<!ENTITY makeUrlRelative.label "URL je relativen glede na naslov strani">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "URI se spreminja med relativnim in absolutnim. Pred izvrševanjem te možnosti morate stran shraniti.">
+<!ENTITY makeUrlRelative.tooltip "URLs se spreminja med relativnim in absolutnim. Pred izvrševanjem te možnosti morate stran shraniti.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Vnesite lokacijo spletne strani, lokalne datoteke, ali pa izberite poimenovano 'sidro' oziroma naslov iz spiska:">
+<!ENTITY LinkURLEditField.label "Vnesite naslov spletne strani, lokalne datoteke, ali pa izberite poimenovano 'sidro' oziroma naslov iz spiska:">
 <!ENTITY LinkURLEditField.accessKey "I">

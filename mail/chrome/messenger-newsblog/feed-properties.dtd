@@ -4,7 +4,7 @@
 <!ENTITY feedFolder.label         "Shrani članke v: ">
 <!ENTITY feedFolder.accesskey     "S">
 
-<!ENTITY feedLocation.label       "Prenesi URI: ">
+<!ENTITY feedLocation.label       "Prenesi URL: ">
 <!ENTITY feedLocation.accesskey   "U">
 
 <!ENTITY choosethisfolder.label   "izberi ta imenik">

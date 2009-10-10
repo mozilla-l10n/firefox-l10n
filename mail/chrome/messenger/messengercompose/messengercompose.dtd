@@ -35,8 +35,8 @@
 <!ENTITY saveAsDraftCmd.accesskey "n">
 <!ENTITY saveAsTemplateCmd.label "Predloga">
 <!ENTITY saveAsTemplateCmd.accesskey "g">
-<!ENTITY offlineGoOfflineCmd.label "Delaj brez povezave">
-<!ENTITY offlineGoOfflineCmd.accesskey "b">
+<!ENTITY offlineGoOfflineCmd.label "Nepovezan način">
+<!ENTITY offlineGoOfflineCmd.accesskey "N">
 <!ENTITY sendNowCmd.label "Pošlji zdaj">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
@@ -178,7 +178,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimiziraj okno">
+<!ENTITY minimizeWindow.label "Skrči okno">
 <!ENTITY bringAllToFront.label "Prinesi vse v ospredje">
 <!ENTITY zoomWindow.label "Približaj okno"> 
 <!ENTITY windowMenu.label "Okno"> 

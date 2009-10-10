@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
-<!ENTITY retry.label "Poskusite ponovno">
+<!ENTITY retry.label "Poskusi znova">
 <!-- Specific error messages -->
 
 
@@ -41,9 +41,9 @@
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Brez povezave">
+<!ENTITY netOffline.title "Nepovezan način">
 <!ENTITY netOffline.longDesc "<ul> 
-<li>Odstranite možnost &quot;Delaj v brezpovezavnem načinu&quot; v meniju Datoteka, nato pa poskusite znova.</li> 
+<li>Odstranite možnost &quot;Nepovezan način&quot; v meniju Datoteka, nato pa poskusite znova.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
@@ -103,12 +103,12 @@ da ima &brandShortName; dovoljenja za dostop do spleta.</li>
 <li>Napaka lahko izvira iz nastavitev strežnika, ali pa nekdo poskuša 
 oponašati njegovo delovanje, da bi vas preslepil.</li> 
 <li>Če ste se v preteklosti že uspešno povezovali na ta strežnik, je napaka morda 
-začasna in lahko poskusite ponovno pozneje.</li> 
+začasna in lahko poskusite znova pozneje.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>Stran je morda začasno nedosegljiva ali preobremenjena. 
-Poskusite ponovno nekoliko pozneje.</li> 
+Poskusite znova nekoliko pozneje.</li> 
 <li>Če ne uspete naložiti nobene strani, preverite povezavo 
 svojega računalnika do interneta.</li> 
 <li>Če uporabljate proxy ali požarni zid, se prepričajte, 

@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey "E">
 <!ENTITY profileDirectoryExplanation.text "Vaše nastavitve in drugi podatki, vezani na uporabnika, bodo shranjeni v:">
 <!ENTITY profileDefaultName "Privzeti uporabnik">
-<!ENTITY button.choosefolder.label "Izberite imenik ...">
+<!ENTITY button.choosefolder.label "Izberite mapo ...">
 <!ENTITY button.choosefolder.accesskey "I">
-<!ENTITY button.usedefault.label "Uporabi privzeti imenik">
+<!ENTITY button.usedefault.label "Uporabi privzeto mapo">
 <!ENTITY button.usedefault.accesskey "U">

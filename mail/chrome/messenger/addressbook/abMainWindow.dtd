@@ -239,6 +239,6 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Okno">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimiziraj okno">
+<!ENTITY minimizeWindow.label "Skrči okno">
 <!ENTITY bringAllToFront.label "Prinesi vse v ospredje">
 <!ENTITY zoomWindow.label "Približaj okno">

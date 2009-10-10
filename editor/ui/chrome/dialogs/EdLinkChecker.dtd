@@ -37,10 +37,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Preverjanje lokacije slik in povezav">
-<!ENTITY urlsNotFound.label    "Sledeče lokacije slik ali povezav niso najdene:">
+<!ENTITY windowTitle.label     "Preverjanje naslovov slik in povezav">
+<!ENTITY urlsNotFound.label    "Naslednjih naslovov slik ali povezav ni bilo mogoče najti:">
 <!ENTITY notFoundKey.label     "(&quot;X&quot; = datoteka ni najdena, &quot;?&quot; = časovna omejitev pretekla.)">
-<!ENTITY changeUrlButton.label "Spremeni lokacijo izbranega">
+<!ENTITY changeUrlButton.label "Spremeni naslov izbranega">
 <!ENTITY succeeded.label       "Uspešno">
 <!ENTITY failed.label          "Neuspešno">
 <!ENTITY closeButton.label     "Zapri">

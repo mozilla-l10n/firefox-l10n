@@ -10,14 +10,14 @@
 <!ENTITY sizeProportional.accesskey "z">
 <!ENTITY sizeMonospace.accesskey "e">
 
-<!ENTITY proportional.label "Spremenljiva pisava:">
+<!ENTITY proportional.label "Spremenljivokoračna pisava:">
 <!ENTITY proportional.accesskey "S">
 
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Enoširinska pisava:">
+<!ENTITY monospace.label "Enokoračna pisava:">
 <!ENTITY monospace.accesskey "E">
 
 <!ENTITY font.langGroup.latin1 "zahodno">

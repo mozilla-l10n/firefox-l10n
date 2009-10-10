@@ -7,11 +7,11 @@
 <!ENTITY name.label "Ime">
 <!ENTITY size.label "Velikost">
 <!ENTITY lastModified.label "Zadnja sprememba">
-<!ENTITY showHiddenFiles.label "Pokaži skrite datoteke in imenike">
+<!ENTITY showHiddenFiles.label "Pokaži skrite datoteke in mape">
 <!ENTITY showHiddenFiles.accesskey "S">
 
-<!ENTITY noPermissionError.label "Nimate potrebnih dovoljenj za ogled tega imenika.">
+<!ENTITY noPermissionError.label "Nimate potrebnih dovoljenj za ogled te mape.">
 
 <!ENTITY folderUp.tooltiptext "Pojdi eno raven višje">
-<!ENTITY folderHome.tooltiptext "Pojdi v domači imenik">
-<!ENTITY folderNew.tooltiptext "Ustvari nov imenik">
+<!ENTITY folderHome.tooltiptext "Pojdi v domačo mapo">
+<!ENTITY folderNew.tooltiptext "Ustvari novo mapo">

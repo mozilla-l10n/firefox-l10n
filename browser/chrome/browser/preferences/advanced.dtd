@@ -22,7 +22,7 @@
 
 <!ENTITY systemDefaults.label "Privzete vrednosti">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label "Ob zagonu vedno preveri, ali je &brandShortName; privzet brskalnik">
+<!ENTITY alwaysCheckDefault.label "Ob zagonu vedno preveri, ali je &brandShortName; privzeti brskalnik">
 <!ENTITY alwaysCheckDefault.accesskey "v">
 <!ENTITY checkNow.label "Preveri zdaj">
 <!ENTITY checkNow.accesskey "E">
@@ -35,7 +35,7 @@
 <!ENTITY connectionSettings.label "Nastavitve ...">
 <!ENTITY connectionSettings.accesskey "n">
 
-<!ENTITY offlineStorage.label "Hramba za delo brez povezave">
+<!ENTITY offlineStorage.label "Shramba brez povezave">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

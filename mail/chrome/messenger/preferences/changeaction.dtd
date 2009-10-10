@@ -5,7 +5,7 @@
 
 <!ENTITY  openDefault.label                   "jih odpri s privzetim programom:">
 <!ENTITY  openDefault.accesskey               "O">
-<!ENTITY  openApplication.label               "jih odpri s sledečim programom:">
+<!ENTITY  openApplication.label               "jih odpri z naslednjim programom:">
 <!ENTITY  openApplication.accesskey           "e">
 <!ENTITY  changeApp.label                     "Spremeni ...">
 <!ENTITY  changeApp.accesskey                 "s">

@@ -9,14 +9,14 @@
 <!ENTITY  typefaces.label                         "Pisava">
 <!ENTITY  sizes.label                             "Velikost">
 
-<!ENTITY  proportional.label                      "Spremenljiva pisava:">
+<!ENTITY  proportional.label                      "Spremenljivokoračna pisava:">
 <!ENTITY  proportional.accesskey                  "s">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Enoširinska pisava:">
+<!ENTITY  monospace.label                         "Enokoračna pisava:">
 <!ENTITY  monospace.accesskey                     "e">
 
 <!ENTITY  fontsize.units                          "pike">

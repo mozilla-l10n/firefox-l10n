@@ -10,7 +10,7 @@ Welcome_Message3=Kliknite gumb Naprej za nadaljevanje namestitve programa %s.
 
 License_Title=Licenca programske opreme
 License_SubTitle=Pogoji uporabe te programske opreme.
-License_Message0=Prosimo, preberite sledečo licenco. Uporabite drsnik, da boste lahko prebrali vso.
+License_Message0=Prosimo, preberite naslednjo licenco. Uporabite drsnik, da boste lahko prebrali vso.
 License_Accept=&Sprejmem pogoje licence
 License_Decline=&NE sprejmem pogojev licence
 
@@ -48,14 +48,14 @@ Advanced_Message0=V kolikor vaša povezava do interneta zahteva strežnik proxy,
 
 Install_Title=Povzetek
 Install_SubTitle=Vse je nared za namestitev programa $ProductName$.
-Install_MessageInstall=Sledeče komponente bodo zdaj nameščene:
-Install_MessageDownload=Sledeče komponente bodo zdaj prenešene in nato nameščene:
+Install_MessageInstall=Naslednje komponente bodo zdaj nameščene:
+Install_MessageDownload=Naslednje komponente bodo zdaj prenesene in nato nameščene:
 Install_Message0=Kliknite gumb Naprej za nadaljevanje.
 
 Downloading_Title=Prenašanje
-Downloading_SubTitle=Prenašam zahtevane komponente ...
-Downloading_Blurb=Prenašam datoteke, potrebne za namestitev programa $ProductName$.
-Downloading_FileName=Trenutno prenašam:
+Downloading_SubTitle=Prenašanje zahtevane komponente ...
+Downloading_Blurb=Prenašanje datoteke, potrebne za namestitev programa $ProductName$.
+Downloading_FileName=Trenutno poteka prenos komponente:
 Downloading_Time=Preostanek:
 
 Installing_Title=Nameščanje
@@ -72,7 +72,7 @@ Success_Launch=Poženi %s.
 
 Check_Message=Prenos programa $ProductName$ je uspel. Program $ProductNameInternal$ morate zapreti, če želite nadaljevati z namestitvijo. Kliknite gumb V redu sa samodejen izhod in začetek namestitve.
 Check_FullMessage=Program $ProductNameInternal$ morate zapreti, če želite nadaljevati z namestitvijo. Kliknite gumb V redu sa samodejen izhod in začetek namestitve.
-Check_Wait=Ugašam program $ProductNameInternal$. Prosim, počakajte ...
+Check_Wait=Zaključevanje programa $ProductNameInternal$. Prosim, počakajte ...
 
 Component_XPCOM=Cross-Platform COM
 Component_Mail=$ProductName$

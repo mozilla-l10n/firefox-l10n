@@ -1,4 +1,4 @@
-<!ENTITY caption.label "Odpiram #1">
+<!ENTITY caption.label "Odpiranje #1">
 <!-- Localization note: The default intro text has 3 "inserts":
         #1 - replaced with the descriptive text that describes the mime type
              (e.g., "MSWord Document")
@@ -20,7 +20,7 @@
 
 <!ENTITY prompt.label "Kaj naj #1 stori s to datoteko?">
 
-<!ENTITY alwaysHandle.label "Ob ravnanju z datotekami te vrste vselej izvrši sledeče dejanje">
+<!ENTITY alwaysHandle.label "Ob ravnanju z datotekami te vrste vedno izvedi naslednje dejanje">
 <!ENTITY alwaysHandle.accesskey "A">
 
 <!ENTITY saveToDisk.label "Shrani datoteko na disk">
@@ -39,4 +39,4 @@
 <!ENTITY chooseAppFilePickerTitle "Izbiranje pomožnega programa">
 
 <!ENTITY badApp "Navedenega programa (&quot;#1&quot;) ni mogoče najti. Preverite ime datoteke, ali pa izberite drug program.">
-<!ENTITY badApp.title "Programa ne najdem">
+<!ENTITY badApp.title "Programa ni mogoče najti">

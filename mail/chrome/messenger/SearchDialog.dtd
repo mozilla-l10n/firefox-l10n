@@ -51,7 +51,7 @@
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
 <!ENTITY flagColumn.label "Zastavica">
-<!ENTITY locationColumn.label "Lokacija">
+<!ENTITY locationColumn.label "Mesto">
 <!ENTITY idColumn.label "Vrstni red prejema">
 
 <!-- Thread Pane Tooltips -->
@@ -71,5 +71,5 @@
 <!ENTITY totalColumn.tooltip "Skupno število sporočil v niti">
 <!ENTITY readColumn.tooltip "Kliknite sem za razvrščanje po prebranosti">
 <!ENTITY flagColumn.tooltip "Kliknite sem za razvrščanje po zastavici">
-<!ENTITY locationColumn.tooltip "Kliknite sem za razvrščanje po lokaciji">
+<!ENTITY locationColumn.tooltip "Kliknite sem za razvrščanje po mestu">
 <!ENTITY idColumn.tooltip "Kliknite sem za razvrščanje po vrstnem redu prejetja">

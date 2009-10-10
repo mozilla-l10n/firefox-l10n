@@ -9,7 +9,7 @@
 <!ENTITY cmd.close.commandKey "w">
 
 <!-- View labels -->
-<!ENTITY search.label "Dobi dodatke">
+<!ENTITY search.label "Poišči dodatke">
 <!ENTITY extensions.label "Razširitve">
 <!ENTITY themes.label "Teme">
 <!ENTITY locales.label "Jeziki">
@@ -125,8 +125,8 @@
 <!ENTITY getThemes.label "Več tem">
 <!ENTITY getPlugins.label "Dobi vstavke">
 
-<!ENTITY searchAddons.label "Išči vse dodatke">
-<!ENTITY browseAddons.label "Brskaj vse dodatke">
+<!ENTITY searchAddons.label "Išči po vseh dodatkih">
+<!ENTITY browseAddons.label "Brskaj po vseh dodatkih">
 <!ENTITY searchFailed.label "&brandShortName; ni mogel pridobiti dodatkov">
 <!ENTITY recommendedHeader.label "Priporočeno">
 <!ENTITY recommendedThrobber.label "Pridobivanje priporočenih dodatkov">
@@ -172,5 +172,5 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Sprejmi in namesti ...">
 
-<!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Disable">
+<!ENTITY blocklist.blocked.label          "Zavrnjeno">
+<!ENTITY blocklist.checkbox.label         "Onemogoči">

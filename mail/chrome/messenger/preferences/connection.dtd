@@ -8,9 +8,9 @@
 <!ENTITY  WPADTypeRadio.accesskey       "m">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
 <!ENTITY  manualTypeRadio.accesskey     "r">
-<!ENTITY  autoTypeRadio.label           "URI samodejne nastavitve za proxy:">
+<!ENTITY  autoTypeRadio.label           "URL samodejne nastavitve za proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  configAutoconfigText.label    "Mesto nastavitev (URI):">
+<!ENTITY  configAutoconfigText.label    "Mesto nastavitev (URL):">
 <!ENTITY  configAutoconfigText.accesskey "u">
 <!ENTITY  reload.label                  "Ponovno naloži">
 <!ENTITY  reload.accesskey              "i">

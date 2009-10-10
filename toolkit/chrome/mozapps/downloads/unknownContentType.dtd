@@ -55,7 +55,7 @@
 
 <!ENTITY chooseHandlerMac.label "Izberi ...">
 <!ENTITY chooseHandlerMac.accesskey "I">
-<!ENTITY chooseHandler.label "Brskaj ...">
+<!ENTITY chooseHandler.label "Prebrskaj ...">
 <!ENTITY chooseHandler.accesskey "B">
 
 <!ENTITY unknownPromptText.label "Želite shraniti to datoteko?">
