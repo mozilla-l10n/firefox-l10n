@@ -9,7 +9,7 @@
 <!ENTITY newMenu.label "Nouveau">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label     "Page blanche">
-<!ENTITY newBlankPageCmd.accesskey "p">
+<!ENTITY newBlankPageCmd.accesskey "P">
 <!ENTITY newBlankPageCmd.key "N">
 <!ENTITY newPageFromTemplateCmd.label "Page utilisant un modèle">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
@@ -36,7 +36,7 @@
 <!ENTITY copyCmd.accesskey "p">
 <!ENTITY pasteCmd.label "Coller">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Supprimer">
 <!ENTITY deleteCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Tout sélectionner">

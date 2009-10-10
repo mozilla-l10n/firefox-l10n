@@ -63,10 +63,10 @@
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameAsCmd.label "Enregistrer le cadre sous…">
 <!ENTITY saveFrameCmd.label "Enregistrer le cadre">
-<!ENTITY saveFrameCmd.accesskey "E">
+<!ENTITY saveFrameCmd.accesskey "s">
 <!ENTITY saveLinkAsCmd.label "Enregistrer le lien sous…">
 <!ENTITY saveLinkCmd.label "Enregistrer le lien">
-<!ENTITY saveLinkCmd.accesskey "E">
+<!ENTITY saveLinkCmd.accesskey "s">
 <!ENTITY saveImageAsCmd.label "Enregistrer l'image sous…">
 <!ENTITY saveImageCmd.label "Enregistrer l'image">
 <!ENTITY saveImageCmd.accesskey "s">

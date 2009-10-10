@@ -141,7 +141,7 @@
 <!ENTITY folderPropsCmd.label "Propriétés du dossier">
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
-<!ENTITY folderPropsCmd.accesskey "g">
+<!ENTITY folderPropsCmd.accesskey "é">
 <!ENTITY accountManagerCmd.label     "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
 <!ENTITY undoDeleteMsgCmd.label "Annuler l'effacement">
@@ -349,10 +349,10 @@
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Répondre à tous les destinataires">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
-<!ENTITY forwardMsgCmd.label "Faire suivre">
+<!ENTITY forwardMsgCmd.label "Transférer">
 <!ENTITY forwardMsgCmd.accesskey "s">
 <!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Faire suivre au format">
+<!ENTITY forwardAsMenu.label "Transférer au format">
 <!ENTITY forwardAsMenu.accesskey "u">
 <!ENTITY forwardAsInline.label "Intégré">
 <!ENTITY forwardAsInline.accesskey "I">
@@ -477,7 +477,7 @@
 <!ENTITY newPlainTextMessageCmd.accesskey "b">
 <!ENTITY replyButton.label "Répondre">
 <!ENTITY replyAllButton.label " Rép. à tous">
-<!ENTITY forwardButton.label " Faire suivre">
+<!ENTITY forwardButton.label " Transférer">
 <!ENTITY fileButton.label "Classer">
 <!ENTITY nextButton.label "Suivant">
 <!ENTITY goBackButton.label "Revenir">
@@ -500,7 +500,7 @@
 <!ENTITY replyButton.tooltip "Répondre au message">
 <!ENTITY replyAllButton.tooltip "Répondre à l'expéditeur et aux autres destinataires">
 <!ENTITY replyAllButtonNews.tooltip "Répondre à l'expéditeur et dans le groupe">
-<!ENTITY forwardButton.tooltip "Faire suivre le message sélectionné">
+<!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
 <!ENTITY goBackButton.tooltip "Aller au message précédent">
@@ -534,9 +534,9 @@
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplySenderAndNewsgroup.label "Répondre à l'exp. et dans le groupe">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
-<!ENTITY contextForward.label "Faire suivre">
+<!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "s">
-<!ENTITY contextForwardAsAttachment.label "Faire suivre comme pièce jointe">
+<!ENTITY contextForwardAsAttachment.label "Transférer comme pièce jointe">
 <!ENTITY contextForwardAsAttachment.accesskey "j">
 <!ENTITY contextMoveMsgMenu.label "Déplacer vers">
 <!ENTITY contextMoveMsgMenu.accesskey "D">

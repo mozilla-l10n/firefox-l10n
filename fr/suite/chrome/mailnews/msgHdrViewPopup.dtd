@@ -38,7 +38,7 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label "Ajouter l'adresse au carnet d'adresses">
 <!ENTITY AddToAddressBook.accesskey "j">
-  <!ENTITY SendMailTo.label "Écrire un courrier à">
+<!ENTITY SendMailTo.label "Écrire un courrier à">
 <!ENTITY SendMailTo.accesskey "r">
 <!ENTITY CopyEmailAddress.label "Copier l'adresse électronique">
 <!ENTITY CopyEmailAddress.accesskey "C">

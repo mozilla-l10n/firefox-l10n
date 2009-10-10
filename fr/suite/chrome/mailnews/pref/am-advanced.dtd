@@ -1,16 +1,16 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Serveur SMTP">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label               "Bien qu'il soit possible de spécifier plusieurs serveurs pour l'expédition du courrier (SMTP), ce n'est recommandé que pour les utilisateurs avancés. Définir plusieurs serveurs SMTP peut provoquer des erreurs lors de l'envoi de messages.">
+<!ENTITY smtpDesc.label                "Bien qu'il soit possible de spécifier plusieurs serveurs pour l'expédition du courrier (SMTP), ce n'est recommandé que pour les utilisateurs avancés. Définir plusieurs serveurs SMTP peut provoquer des erreurs lors de l'envoi de messages.">
 
 <!ENTITY smtpListAdd.label  "Ajouter…">
 <!ENTITY smtpListAdd.accesskey  "A">
-<!ENTITY smtpListEdit.label           "Modifier…">
-<!ENTITY smtpListEdit.accesskey "M">
-<!ENTITY smtpListDelete.label         "Supprimer">
-<!ENTITY smtpListDelete.accesskey "S">
-<!ENTITY smtpListSetDefault.label     "Utiliser par défaut">
-<!ENTITY smtpListSetDefault.accesskey "d">
+<!ENTITY smtpListEdit.label            "Modifier…">
+<!ENTITY smtpListEdit.accesskey        "M">
+<!ENTITY smtpListDelete.label          "Supprimer">
+<!ENTITY smtpListDelete.accesskey      "S">
+<!ENTITY smtpListSetDefault.label      "Utiliser par défaut">
+<!ENTITY smtpListSetDefault.accesskey  "d">
 
 <!ENTITY serverDescription.label "Description : ">
 <!ENTITY serverName.label "Nom du serveur : ">

@@ -19,7 +19,7 @@
 <!ENTITY alwaysAsk.accesskey            "T">
 
 <!ENTITY downloadRetention.label        "Conservation des téléchargements">
-<!ENTITY removeDownloads.label          "Suppprimer les télachargements">
+<!ENTITY removeDownloads.label          "Suppprimer les téléchargements">
 <!ENTITY removeDownloads.accesskey      "S">
 <!ENTITY whenCompleted.label            "lorsqu'ils sont terminés">
 <!ENTITY whenQuittingApp.label          "en quittant &brandShortName;">

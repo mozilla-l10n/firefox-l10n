@@ -60,7 +60,7 @@
 <!ENTITY editMessage.accesskey "b">
 
 <!ENTITY attachmentsTree.label "Pièces jointes :">
-<!ENTITY attachmentsTree.accesskey "P">
+<!ENTITY attachmentsTree.accesskey "j">
 <!ENTITY openAttachmentCmd.label "Ouvrir">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY viewAttachmentCmd.label "Code source du message">
@@ -75,5 +75,5 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey "T">
 <!ENTITY detachAllAttachmentsCmd.label "Tout détacher…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "d">
-<!ENTITY deleteAllAttachmentsCmd.label "Tout effacer…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+<!ENTITY deleteAllAttachmentsCmd.label "Tout supprimer…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "s">

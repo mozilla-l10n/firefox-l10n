@@ -43,17 +43,17 @@
 <!-- File Menu -->
 <!ENTITY newContact.label "Contact…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newContact.accesskey "n">
-<!ENTITY newListCmd.label "Liste de diffusion…">
+<!ENTITY newContact.accesskey               "n">
+<!ENTITY newListCmd.label                   "Liste de diffusion…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey "l">
-<!ENTITY newAddressBookCmd.label "Carnet d'adresses…">
-<!ENTITY newAddressBookCmd.accesskey "c">
+<!ENTITY newAddressBookCmd.label            "Carnet d'adresses…">
+<!ENTITY newAddressBookCmd.accesskey        "C">
 <!ENTITY newLDAPDirectoryCmd.label "Annuaire LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "A">
 <!ENTITY newIM.label "MI">
-<!ENTITY printContactViewCmd.label "Imprimer la fiche du contact…">
+<!ENTITY printContactViewCmd.label "Imprimer la fiche…">
 <!ENTITY printContactViewCmd.accesskey "p">
 <!ENTITY printPreviewContactViewCmd.label "Aperçu de la fiche avant impression">
 <!ENTITY printPreviewContactViewCmd.accesskey "d">
@@ -72,7 +72,7 @@
 <!ENTITY deleteListCmd.label "Supprimer la liste">
 <!ENTITY deleteListsCmd.label               "Supprimer les listes">
 <!ENTITY deleteItemsCmd.label               "Supprimer les éléments">
-<!ENTITY swapFirstNameLastNameCmd.label     "Intervertir nom/prénom">
+<!ENTITY swapFirstNameLastNameCmd.label "Intervertir nom/prénom">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "v">
 <!ENTITY propertiesCmd.label "Modifier…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
@@ -88,9 +88,9 @@
   
 <!ENTITY menu_ShowNameAs.label "Afficher le nom comme">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Prénom, Nom">
+<!ENTITY firstLastCmd.label                 "Prénom, Nom">
 <!ENTITY firstLastCmd.accesskey "P">
-<!ENTITY lastFirstCmd.label "Nom, Prénom">
+<!ENTITY lastFirstCmd.label                 "Nom, Prénom">
 <!ENTITY lastFirstCmd.accesskey "N">
 <!ENTITY displayNameCmd.label "Nom à afficher">
 <!ENTITY displayNameCmd.accesskey "a">
@@ -126,7 +126,7 @@
 <!ENTITY newmsgButton.tooltip          "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip "Envoyer un message instantané ou initier un chat">
 <!ENTITY deleteItemButton.tooltip "Supprimer l'élément sélectionné">
-<!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">
+<!ENTITY throbber.tooltip                   "Visiter le site Web de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Recherche avancée d'adresses">
 
 <!-- Status Bar -->  
