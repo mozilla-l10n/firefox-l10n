@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Marcadores">
 <!ENTITY bookmarksManage.label     "Gerir">
-<!ENTITY foldersHeader.label       "Pastas">
 
 <!ENTITY editBookmarkRemove.label  "Remover">
-<!ENTITY editBookmarkMove.label    "Mover">
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
 
@@ -43,8 +41,8 @@
 
 <!ENTITY addonsHeader.label        "Extras">
 <!ENTITY addonsLocal.label         "Os seus extras">
-<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRepo.label          "Obter extras">
+<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRecommended.label   "Ver recomendados">
 <!ENTITY addonsSearch.label        "Pesquisar">
 <!ENTITY addonsSearch2.emptytext   "Pesquisar catálogo">
@@ -59,11 +57,6 @@
 <!ENTITY addonShowPage.label       "Ir para a página">
 
 <!ENTITY downloadsHeader.label     "Transferências">
-<!ENTITY downloadsSortDate.label   "Por data">
-<!ENTITY downloadsSortSite.label   "Por sítio">
-<!ENTITY downloadsSortName.label   "Por nome">
-<!ENTITY downloadsSearch.label     "Pesquisar">
-<!ENTITY downloadsSearch2.emptytext "Pesquisar">
 
 <!ENTITY downloadShowPage.label    "Ir para a página">
 <!ENTITY downloadShow2.label        "Procurar">
@@ -72,6 +65,8 @@
 <!ENTITY downloadPause.label       "Pausa">
 <!ENTITY downloadResume.label      "Resumir">
 <!ENTITY downloadRetry.label       "Tentar novamente">
+<!ENTITY downloadRemove.label "Eliminar">
+<!ENTITY downloadFailed.label "Falhou">
 
 <!ENTITY noResults.label           "Sem resultados">
 <!ENTITY allBookmarks.label        "Ver todos os marcadores">
@@ -84,12 +79,12 @@
 
 <!ENTITY identity.unverifiedsite2 "Este sítio web não fornece informação da identidade.">
 <!ENTITY identity.connectedTo2 "Está ligado a">
-<!-- Localization note (identity.runBy)
+<!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "que é gerido por">
+<!ENTITY identity.runBy2 "que é gerido por">
 
 <!ENTITY consoleHeader.label       "Consola de erro">
 <!ENTITY consoleAll.label          "Tudo">

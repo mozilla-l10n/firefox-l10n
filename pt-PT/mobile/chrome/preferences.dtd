@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button                   "Limpar">
 <!ENTITY clearPrivateData.description              "O seu histórico ajuda o &brandShortName; a sugerir aonde você deseja ir">
 <!ENTITY rememberPasswords.title                   "lembrar senhas">
+<!ENTITY language.title                            "Idioma">
+<!ENTITY language.description                      "Escolha o idioma para o &brandShortName;">
+<!ENTITY language.auto                             "Auto-detectar">
