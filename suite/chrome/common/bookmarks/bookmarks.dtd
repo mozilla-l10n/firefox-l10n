@@ -120,5 +120,5 @@
 <!ENTITY bookmarksWindowTitle.label	"Hantera bokmärken">
 
 <!ENTITY search.emptytext               "Sök bokmärken">
-<!ENTITY search.key                     "S">
+<!ENTITY search.key                     "f">
 

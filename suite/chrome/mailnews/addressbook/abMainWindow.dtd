@@ -47,7 +47,7 @@
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.accesskey                           "K">
 <!ENTITY newListCmd.label                               "Sändlista…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "l">  

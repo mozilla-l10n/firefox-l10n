@@ -4,7 +4,7 @@
 <!ENTITY searchBar.tooltip              "Söklist">
 
 <!ENTITY search.emptytext               "Sök historik">
-<!ENTITY search.key                     "S">
+<!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Visa">
 
 <!ENTITY view.columns.label             "Visa kolumner">
