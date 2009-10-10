@@ -12,8 +12,8 @@
 <!ENTITY     button.removeallcookies.accesskey "a">
 
 <!ENTITY     search.emptytext               "Sök kakor">
-<!ENTITY     focusSearch.key                "k">
-<!ENTITY     windowClose.key                "g">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Namn:">

@@ -81,13 +81,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey	"a">
 <!ENTITY getNewMsgCmd.label "Hämta nya meddelanden">
 <!ENTITY getNewMsgCmd.accesskey "H">
-<!ENTITY getNewMsgCmd2.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Hämta nya meddelanden för">
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alla konton">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Hämta alla nya meddelanden">
-<!ENTITY getAllNewMsgCmd2.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label			"Hämta nästa 500 gruppinlägg">
 <!ENTITY getNextNMsgCmd.accesskey "g">
 <!ENTITY sendUnsentCmd.label			"Skicka osända meddelanden">
@@ -592,7 +592,7 @@
 
 <!-- SearchBar -->
 <!-- focusSearchInput.key also used by addressbook -->
-<!ENTITY focusSearchInput.key "S">
+<!ENTITY focusSearchInput.key "k">
 <!ENTITY searchSubjectOrAddress.emptytext "Ämne eller adress innehåller:">
 <!ENTITY advancedButton.label "Avancerat…">
 <!ENTITY advancedButton.accesskey "c">

@@ -26,7 +26,7 @@
 <!ENTITY radioAskDownload.accesskey       "å">
 <!ENTITY mailConnections.caption          "E-post uppkoppling">
 <!ENTITY mailnewsTimeout.label            "Avbryt uppkopplingsförsök efter:">
-<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeout.accesskey        "b">
 <!ENTITY mailnewsTimeoutSeconds.label     "sekunder">
 <!ENTITY Diskspace                        "Diskutrymme">
 <!ENTITY offlineCompact.label             "Komprimera mappar när det sparar mer än">
