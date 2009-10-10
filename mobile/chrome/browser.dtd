@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label      "恢复">
 <!ENTITY downloadRetry.label       "重试">
 <!ENTITY downloadRemove.label      "移除">
+<!ENTITY downloadFailed.label      "已失败">
 
 <!ENTITY noResults.label           "没有结果">
 <!ENTITY allBookmarks.label        "查看所有书签">
