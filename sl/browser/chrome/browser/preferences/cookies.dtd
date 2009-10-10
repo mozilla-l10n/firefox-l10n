@@ -1,6 +1,6 @@
 <!ENTITY window.width "36em">
 
-<!ENTITY cookiesonsystem.label "Sledeči piškoti so shranjeni na vašem računalniku:">
+<!ENTITY cookiesonsystem.label "Na vašem računalniku so shranjeni naslednji piškoti:">
 <!ENTITY cookiename.label "Ime">
 <!ENTITY cookiedomain.label "Stran">
 <!ENTITY button.removecookie.label "Odstrani piškot">

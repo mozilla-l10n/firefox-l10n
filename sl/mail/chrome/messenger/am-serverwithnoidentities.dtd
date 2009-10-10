@@ -8,5 +8,5 @@
 <!ENTITY localPath.label "Lokalni imenik:">
 <!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Izberite lokalen imenik">
-<!ENTITY browseFolder.label "Brskaj ...">
+<!ENTITY browseFolder.label "Prebrskaj ...">
 <!ENTITY browseFolder.accesskey "B">

@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title "Poročilo o pokvarjeni spletni strani">
 
 <!ENTITY privacyNotice.label "Izjava o zasebnosti">
-<!ENTITY reportWizardPrivacy.description "To orodje vam omogoča, da ekipi Evangelism Team sporočite strani, ki ne delujejo pravilno v &brandShortName;u oziroma ga zaprejo. Na ta način nam lahko pomagate zagotoviti najboljšo izkušnjo za uporabnike programa &brandShortName;. Vzemite si trenutek za pregled sledeče vsebine, ki pojasnjuje, kako uporabljamo podatke, če se boste odločili sodelovati.">
+<!ENTITY reportWizardPrivacy.description "To orodje vam omogoča, da ekipi Evangelism Team sporočite strani, ki ne delujejo pravilno v &brandShortName;u oziroma ga zaprejo. Na ta način nam lahko pomagate zagotoviti najboljšo izkušnjo za uporabnike programa &brandShortName;. Vzemite si trenutek za pregled naslednje vsebine, ki pojasnjuje, kako uporabljamo podatke, če se boste odločili sodelovati.">
 <!ENTITY reportWizardMustAgree.description "Za nadaljevanje se morate strinjati z zgornjo izjavo o zasebnosti.">
 
 <!ENTITY dontShowPrivacyStatement.label "Prebral(a) sem in se strinjam z zgornjo izjavo o zasebnosti.">

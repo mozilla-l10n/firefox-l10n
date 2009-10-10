@@ -98,7 +98,7 @@
 <!ENTITY calendar.unifinder.tree.duedate.label "Rok">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Dokončano">
 <!ENTITY calendar.unifinder.tree.categories.label "Kategorija">
-<!ENTITY calendar.unifinder.tree.location.label "Lokacija">
+<!ENTITY calendar.unifinder.tree.location.label "Mesto">
 <!ENTITY calendar.unifinder.tree.status.label "Stanje">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Ime koledarja">
 <!ENTITY calendar.unifinder.tree.duration.label      "Zapade">
@@ -359,7 +359,7 @@
 <!ENTITY calendarproperties.caldav.label   "CalDAV">
 <!ENTITY calendarproperties.wcap.label     "Sistemski strežnik koledarjev Java Sun (WCAP)">
 <!ENTITY calendarproperties.format.label   "Oblika:">
-<!ENTITY calendarproperties.location.label "Lokacija:">
+<!ENTITY calendarproperties.location.label "Mesto:">
 <!ENTITY calendarproperties.name.label     "Ime:">
 <!ENTITY calendarproperties.readonly.label "Samo za branje">
 <!ENTITY calendarproperties.firealarms.label "Pokaži alarme">
@@ -372,7 +372,7 @@
 
 <!-- Dialog objave koledarja-->
 <!ENTITY calendar.publish.dialog.title "Objavi koledar">
-<!ENTITY calendar.publish.url.label "Naslov URI za objavo koledarja:">
+<!ENTITY calendar.publish.url.label "Naslov URL za objavo koledarja:">
 <!ENTITY calendar.publish.publish.button "Objavi">
 <!ENTITY calendar.publish.close.button "Zapri">
 

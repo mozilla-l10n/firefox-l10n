@@ -49,7 +49,7 @@
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Splošno">
-<!ENTITY generalTab.accesskey "G">
+<!ENTITY generalTab.accesskey "S">
 <!ENTITY generalURL "Spletni naslov:">
 <!ENTITY generalType "Vrsta:">
 <!ENTITY generalMode "Upodobitveni način:">
@@ -61,11 +61,11 @@
 <!ENTITY generalMetaName "Ime">
 <!ENTITY generalMetaContent "Vsebina">
 <!ENTITY generalSecurityDetails "Več">
-<!ENTITY generalSecurityDetails.accesskey "V">
+<!ENTITY generalSecurityDetails.accesskey "E">
 
 <!ENTITY mediaTab "Večpredstavnost">
-<!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaLocation "Lokacija:">
+<!ENTITY mediaTab.accesskey "V">
+<!ENTITY mediaLocation "Naslov:">
 <!ENTITY mediaText "Povezano besedilo:">
 <!ENTITY mediaAltHeader "Nadomestno besedilo">
 <!ENTITY mediaAddress "Naslov">
@@ -74,19 +74,19 @@
 <!ENTITY mediaCount "Število">
 <!ENTITY mediaDimension "Mere:">
 <!ENTITY mediaLongdesc "Dolg opis:">
-<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaBlockImage.accesskey "P">
 <!ENTITY mediaSaveAs "Shrani kot ...">
-<!ENTITY mediaSaveAs.accesskey "k">
-<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaSaveAs.accesskey "h">
+<!ENTITY mediaSaveAs2.accesskey "r">
 <!ENTITY mediaPreview "Predogled:">
 
 <!ENTITY feedTab "Viri">
-<!ENTITY feedTab.accesskey "F">
+<!ENTITY feedTab.accesskey "I">
 <!ENTITY feedSubscribe "Naroči se">
-<!ENTITY feedSubscribe.accesskey "u">
+<!ENTITY feedSubscribe.accesskey "N">
 
 <!ENTITY permTab "Dovoljenja">
-<!ENTITY permTab.accesskey "P">
+<!ENTITY permTab.accesskey "D">
 <!ENTITY permUseDefault "Uporabi privzeto">
 <!ENTITY  permAskAlways         "Vedno vprašaj">
 <!ENTITY permAllow "Dovoli">
@@ -97,13 +97,13 @@
 <!ENTITY permPopup "Odpri pojavna okna">
 <!ENTITY permCookie "Nastavi piškote">
 <!ENTITY permInstall "Namesti razširitve in teme">
-<!ENTITY  permGeo               "Objavi lokacijo">
+<!ENTITY  permGeo               "Objavi položaj">
 
 <!ENTITY securityTab "Varnost">
-<!ENTITY securityTab.accesskey "S">
+<!ENTITY securityTab.accesskey "A">
 <!ENTITY securityHeader "Varnostne informacije o tej strani">
 <!ENTITY securityView.certView "Preglej certifikat">
-<!ENTITY securityView.accesskey "V">
+<!ENTITY securityView.accesskey "C">
 <!ENTITY securityView.unknown "Neznano">
 
 
@@ -116,9 +116,9 @@
 <!ENTITY securityView.privacy.history "Ali sem to stran obiskal že kdaj pred današnjim dnem?">
 <!ENTITY securityView.privacy.cookies "Ali ta spletna stran shranjuje podatke (piškote) na moj računalnik?">
 <!ENTITY securityView.privacy.viewCookies "Preglej piškote">
-<!ENTITY securityView.privacy.viewCookies.accessKey "k">
+<!ENTITY securityView.privacy.viewCookies.accessKey "p">
 <!ENTITY securityView.privacy.passwords "Ali sem shranil kakšno geslo za to stran?">
 <!ENTITY securityView.privacy.viewPasswords "Preglej shranjena gesla">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "g">
 
 <!ENTITY securityView.technical.header "Tehnične podrobnosti">

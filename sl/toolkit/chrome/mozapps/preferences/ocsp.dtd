@@ -5,7 +5,7 @@
 <!ENTITY certOCSP2.accesskey "P">
 <!ENTITY proxyOCSP2.label "Preveri vse certifikate z uporabo naslednjega strežnika OCSP:">
 <!ENTITY proxyOCSP2.accesskey "v">
-<!ENTITY serviceURL.label "URI storitve:">
+<!ENTITY serviceURL.label "URL storitve:">
 <!ENTITY serviceURL.accesskey "S">
 <!ENTITY signingCA.label "Podpisnik odgovora:">
 <!ENTITY signingCA.accesskey "P">

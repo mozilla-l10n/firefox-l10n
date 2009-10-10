@@ -504,9 +504,9 @@
 <!ENTITY dumpRedoStack.label "Izpiši 'Redo Stack'">
 <!ENTITY executeJSTransactionViaTxmgr.label "Izvrši JS transakcijo prek upravitelja transakcij">
 <!ENTITY executeJSTransactionViaEditor.label "Izvrši JS transakcijo prek urejevalnika">
-<!ENTITY startLogCmd.label "Začni log">
-<!ENTITY stopLogCmd.label "Končaj log">
-<!ENTITY runLogCmd.label "Poženi log">
+<!ENTITY startLogCmd.label "Začni dnevnik">
+<!ENTITY stopLogCmd.label "Končaj dnevnik">
+<!ENTITY runLogCmd.label "Zaženi dnevnik">
 <!ENTITY setFocusCmd.label "Nastavi fokus">
 
 <!-- Toolbar-only items -->
@@ -517,8 +517,8 @@
 <!ENTITY openToolbarCmd.label "Odpri">
 <!ENTITY openToolbarCmd.tooltip "Odpri lokalno datoteko">
 <!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na lokalni sistem">
-<!ENTITY publishToolbarCmd.tooltip "Naloži datoteko na oddaljeno lokacijo">
-<!ENTITY previewToolbarCmd.label "Brskaj">
+<!ENTITY publishToolbarCmd.tooltip "Naloži datoteko na oddaljen naslov">
+<!ENTITY previewToolbarCmd.label "Predogled">
 <!ENTITY previewToolbarCmd.tooltip "Naloži stran v Navigatorju">
 <!ENTITY printToolbarCmd.label "Natisni">
 <!ENTITY printToolbarCmd.tooltip "Natisni to stran">

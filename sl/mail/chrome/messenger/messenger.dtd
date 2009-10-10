@@ -213,7 +213,7 @@
 <!ENTITY textZoomEnlargeCmd.accesskey "P">
 <!ENTITY textZoomEnlargeCmd.commandkey "+">
 <!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Zmanjšaj">
+<!ENTITY textZoomReduceCmd.label "Pomanjšaj">
 <!ENTITY textZoomReduceCmd.accesskey "Z">
 <!ENTITY textZoomReduceCmd.commandkey "-">
 <!ENTITY textZoomResetCmd.commandkey "0">
@@ -532,7 +532,7 @@
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
 <!ENTITY flagColumn.label "Zastavica">
-<!ENTITY locationColumn.label "Lokacija">
+<!ENTITY locationColumn.label "Mesto">
 <!ENTITY idColumn.label "Vrstni red prejema">
 <!ENTITY attachmentColumn.label "Priloge">
 
@@ -553,7 +553,7 @@
 <!ENTITY totalColumn.tooltip "Število vseh sporočil v niti">
 <!ENTITY readColumn.tooltip "Kliknite sem za razvrščanje po prebranosti">
 <!ENTITY flagColumn.tooltip "Kliknite sem za razvrščanje po zastavicah">
-<!ENTITY locationColumn.tooltip "Kliknite sem za razvrščanje po lokaciji">
+<!ENTITY locationColumn.tooltip "Kliknite sem za razvrščanje po mestu">
 <!ENTITY idColumn.tooltip "Kliknite sem za razvrščanje po vrstnem redu prejema">
 <!ENTITY attachmentColumn.tooltip "Kliknite sem za razvrščanje po prilogah">
 
@@ -623,6 +623,6 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimiziraj okno">
+<!ENTITY minimizeWindow.label "Skrči okno">
 <!ENTITY bringAllToFront.label "Prinesi vse v ospredje">
 <!ENTITY zoomWindow.label "Približaj okno">

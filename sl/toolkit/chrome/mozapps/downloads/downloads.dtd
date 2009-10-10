@@ -15,7 +15,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey "N">
 <!ENTITY cmd.cancel.label "Prekliči">
 <!ENTITY cmd.cancel.accesskey "P">
-<!ENTITY cmd.show.label "Odpri vsebujoči imenik">
+<!ENTITY cmd.show.label "Odpri vsebujočo mapo">
 <!ENTITY cmd.show.accesskey "V">
 <!ENTITY cmd.showMac.label "Prikaži v Finderju">
 <!ENTITY cmd.showMac.accesskey "F">
@@ -44,5 +44,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label "Zapri, ko so vsi prenosi končani">
 <!ENTITY closeWhenDone.tooltip "Zapre okno s prenosi, ko je prenašanje vseh datotek končano">
 
-<!ENTITY showFolder.label "Prikaži ta imenik">
+<!ENTITY showFolder.label "Prikaži to mapo">
 <!ENTITY searchBox.label "Išči ...">

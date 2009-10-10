@@ -2,7 +2,7 @@
 <!ENTITY  window.width                         "490">
 <!ENTITY  window.height                        "330">
 
-<!ENTITY  fileTypesDescription.label          "Vselej izvrši sledeče ob prenosu datoteke določene vrste:">
+<!ENTITY  fileTypesDescription.label          "Ob prenosu datoteke določene vrste vselej izvrši naslednje:">
 
 <!ENTITY  fileHandlerColumn.label             "Dejanje">
 <!ENTITY  fileHandlerColumn.accesskey         "D">

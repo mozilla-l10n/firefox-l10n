@@ -4,7 +4,7 @@
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; išče dodatke ...">
 
 <!ENTITY pluginWizard.availablePluginsPage.title "Dodatki na voljo">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Sledeči dodatki so na voljo:">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Na voljo so naslednji dodatki:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Kliknite gumb Naprej za namestitev teh dodatkov.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "Nekateri dodatki lahko zahtevajo dodatne podatke od vas med namestitvijo.">
 

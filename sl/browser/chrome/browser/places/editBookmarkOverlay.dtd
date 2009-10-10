@@ -1,10 +1,10 @@
 <!ENTITY editBookmarkOverlay.name.label "Ime:">
 <!ENTITY editBookmarkOverlay.name.accesskey "I">
-<!ENTITY editBookmarkOverlay.location.label "Lokacija:">
-<!ENTITY editBookmarkOverlay.location.accesskey "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label "Lokacija vira:">
+<!ENTITY editBookmarkOverlay.location.label "Naslov:">
+<!ENTITY editBookmarkOverlay.location.accesskey "N">
+<!ENTITY editBookmarkOverlay.feedLocation.label "Naslov vira:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "V">
-<!ENTITY editBookmarkOverlay.siteLocation.label "Lokacija strani:">
+<!ENTITY editBookmarkOverlay.siteLocation.label "Naslov strani:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "S">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Živi napisi">
 <!ENTITY editBookmarkOverlay.folder.label "Mapa:">

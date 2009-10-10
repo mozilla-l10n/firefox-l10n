@@ -29,12 +29,12 @@
 <!ENTITY import.label "Uvozi ...">
 <!ENTITY import.accesskey "I">
 
-<!ENTITY goOfflineCmd.label "Delaj v brezpovezavnem načinu">
-<!ENTITY goOfflineCmd.accesskey "b">
+<!ENTITY goOfflineCmd.label "Nepovezan način">
+<!ENTITY goOfflineCmd.accesskey "n">
 
 <!ENTITY menubarCmd.label "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Orodna vrstica za brskanje">
+<!ENTITY navbarCmd.label "Orodna vrstica brskanja">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Orodna vrstica zaznamkov">
 <!ENTITY personalbarCmd.accesskey "Z">
@@ -54,7 +54,7 @@
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fullScreenMinimize.tooltip "Minimiziraj">
+<!ENTITY fullScreenMinimize.tooltip "Skrči">
 <!ENTITY fullScreenRestore.tooltip "V običajen način">
 <!ENTITY fullScreenClose.tooltip "Zapri">
 <!ENTITY fullScreenAutohide.label "Skrij orodne vrstice">
@@ -72,7 +72,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran ...">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke ...">
-<!ENTITY organizeBookmarks.label "Upravljanje z zaznamki...">
+<!ENTITY organizeBookmarks.label "Upravljanje zaznamkov ...">
 <!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke ...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
@@ -95,7 +95,7 @@
 <!ENTITY printButton.label "Natisni">
 <!ENTITY printButton.tooltip "Natisni to stran">
 
-<!ENTITY locationItem.title "Lokacija">
+<!ENTITY locationItem.title "Naslov">
 <!ENTITY searchItem.title "Iskanje">
 <!ENTITY throbberItem.title "Merilnik dejavnosti">
 <!ENTITY bookmarksItem.title "Zaznamki">
@@ -131,7 +131,7 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Dodatki">
-<!ENTITY addons.tooltip "Upravljanje z dodatki">
+<!ENTITY addons.tooltip "Upravljanje dodatkov">
 <!ENTITY addons.accesskey "D">
 
 <!ENTITY errorConsoleCmd.label "Konzola JavaScript">
@@ -270,7 +270,7 @@
 <!ENTITY bookmarkPageCmd2.label "Dodaj stran med zaznamke">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Dodaj povezavo med zaznamke">
-<!ENTITY bookmarkThisLinkCmd.accesskey "Z">
+<!ENTITY bookmarkThisLinkCmd.accesskey "M">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj okvir med zaznamke">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
 <!ENTITY sendPageCmd.label "Pošlji stran ...">
@@ -357,7 +357,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 
-<!ENTITY fullZoomToggleCmd.label "Povečaj samo besedilo">
+<!ENTITY fullZoomToggleCmd.label "Povečaj le besedilo">
 <!ENTITY fullZoomToggleCmd.accesskey "B">
 <!ENTITY fullZoom.label "Povečevanje">
 <!ENTITY fullZoom.accesskey "P">
@@ -386,7 +386,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Slog strani">
 <!ENTITY pageStyleMenu.accesskey "g">
-<!ENTITY pageStyleNoStyle.label "Ni sloga">
+<!ENTITY pageStyleNoStyle.label "Brez sloga">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Osnovni slog strani">
 <!ENTITY pageStylePersistentOnly.accesskey "o">
@@ -419,12 +419,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Dodaj slovarje ...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label "Končaj">
+<!ENTITY editBookmark.done.label "Shrani">
 <!ENTITY editBookmark.cancel.label "Prekliči">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY editBookmark.undo.label "Razveljavi ...">
 <!ENTITY editBookmark.undo.accessKey "Z">
-<!ENTITY editBookmark.edit.label "Urejanje...">
+<!ENTITY editBookmark.edit.label "Urejanje ...">
 <!ENTITY editBookmark.edit.accessKey "E">
 
 <!ENTITY identity.unverifiedsite2 "Spletna stran ne vsebuje podatkov o identiteti.">
@@ -442,7 +442,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ki jo poganja">
 
-<!ENTITY identity.moreInfoLinkText "Več podatkov...">
+<!ENTITY identity.moreInfoLinkText "Več podatkov ...">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknite za odpiranje okna prenosov">
 

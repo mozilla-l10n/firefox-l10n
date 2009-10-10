@@ -11,8 +11,8 @@
 <!ENTITY  pluginupdateslink.label         "Kako nadgradim vstavke?">
 
 <!ENTITY  noupdatesfound.title "Trenutno ni posodobitev">
-<!ENTITY  noupdatesautoenabled.intro      "Posodobitve niso na voljo. &brandShortName; bo redno
-                                           iskal posodobitve.">
+<!ENTITY  noupdatesautoenabled.intro      "Posodobitve niso na voljo, vendar jih bo &brandShortName; redno
+                                           iskal.">
 <!ENTITY  noupdatesautodisabled.intro     "Posodobitve niso na voljo. Ponovno poskusite pozneje ali
                                            vključite samodejno preverjanje posodobitev za &brandShortName;.">
 
@@ -44,9 +44,9 @@
 <!ENTITY  incompatibleList.title          "Najdeni nezdružljivi dodatki">
 
 <!ENTITY downloading.title "Prenos posodobitve">
-<!ENTITY downloading.intro "Prenašam posodobitev ...">
+<!ENTITY downloading.intro "Prenašanje posodobitev ...">
 <!ENTITY connecting.label "Povezujem se na strežnik za posodobitve...">
-<!ENTITY verificationFailedText.label "Ker ne morem preveriti integritete prenešene posodobitve po stopnjah, zdaj prenašam celotno posodobitveni paket.">
+<!ENTITY verificationFailedText.label "Ker ni bilo mogoče preveriti neokrnjenosti posodobitve po stopnjah, se zdaj prenaša celoten posodobitveni paket.">
 
 <!ENTITY  viewDetails.tooltip             "Prikaži podrobnosti posodobitve">
 

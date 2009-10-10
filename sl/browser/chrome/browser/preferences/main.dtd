@@ -23,7 +23,7 @@
 <!ENTITY closeWhenDone.accesskey "z">
 <!ENTITY saveTo.label "Shrani datoteke v">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label "Brskaj ...">
+<!ENTITY chooseFolderWin.label "Prebrskaj ...">
 <!ENTITY chooseFolderWin.accesskey "b">
 <!ENTITY chooseFolderMac.label "Izberi ...">
 <!ENTITY chooseFolderMac.accesskey "b">

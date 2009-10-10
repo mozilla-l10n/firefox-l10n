@@ -87,8 +87,8 @@
 <!ENTITY serverDefaultCharset.label "Privzeti nabor znakov:">
 <!ENTITY advancedButton.accesskey "N">
 <!ENTITY localFolderPicker.label "Izberite lokalen imenik">
-<!ENTITY browseFolder.label "Brskaj ...">
+<!ENTITY browseFolder.label "Prebrskaj ...">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Izberite datoteko newsrc">
-<!ENTITY browseNewsrc.label "Brskaj ...">
+<!ENTITY browseNewsrc.label "Prebrskaj ...">
 <!ENTITY browseNewsrc.accesskey "a">

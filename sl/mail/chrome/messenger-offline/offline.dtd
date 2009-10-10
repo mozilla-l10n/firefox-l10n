@@ -10,6 +10,6 @@
 <!ENTITY downloadFlaggedCmd.accesskey "o">
 
 <!ENTITY prefOfflineConnection.label "Nastavitve dela brez povezave">
-<!ENTITY prefOfflineDesc.label "Upravljanje z nastavitvami dela brez povezave.">
+<!ENTITY prefOfflineDesc.label "Upravljanje nastavitev dela brez povezave.">
 <!ENTITY prefOfflineButton.label "Nastavitve dela brez povezave ...">
 <!ENTITY prefOfflineButton.accesskey "e">

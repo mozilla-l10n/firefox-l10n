@@ -6,7 +6,7 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY chooseFolderButton.label "Izberi ...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc sledeče naslove:">
+<!ENTITY bccAddress.label "Bcc za naslednje naslove:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY specialFolderTitle.label "Posebni imeniki">
 <!ENTITY draftMailFolder.label "Shranjuj osnutke sporočil v:">

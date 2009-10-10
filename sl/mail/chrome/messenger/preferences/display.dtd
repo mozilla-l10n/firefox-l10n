@@ -32,7 +32,7 @@
 <!ENTITY convertEmoticons.label           "Prikaži smeške kot slike">
 <!ENTITY convertEmoticons.accesskey       "s">
 <!ENTITY htmlColors.label                 "Sporočila HTML">
-<!ENTITY overrideSender.label             "Ob prikazu sporočil HTML messages uporabi sledeče:">
+<!ENTITY overrideSender.label             "Ob prikazu sporočil HTML uporabi naslednje:">
 <!ENTITY overrideSender.accesskey         "e"> 
 <!ENTITY  textColor.label                 "Barva besedila:">
 <!ENTITY  textColor.accesskey             "b">
