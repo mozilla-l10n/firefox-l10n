@@ -48,7 +48,7 @@
 <!ENTITY saveFile.label "Gravar Ficheiro">
 <!ENTITY saveFile.accesskey "g">
 
-<!ENTITY rememberChoice.label "Fazer isto automaticamente para ficheiros deste tipo de agora em diante.">
+<!ENTITY rememberChoice.label "Repetir isto para ficheiros deste tipo daqui para a frente.">
 <!ENTITY rememberChoice.accesskey "a">
 
 <!ENTITY whichIsA.label "que é um:">
