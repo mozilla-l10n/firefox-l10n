@@ -3,7 +3,7 @@
 <!ENTITY accountManagerTitle.label "Paramètres des comptes Courrier et Groupes">
 
 <!ENTITY accountActionsButton.label "Gestion des comptes">
-<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY accountActionsButton.accesskey "G">
 <!ENTITY addMailAccountButton.label "Ajouter un compte de messagerie…">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addOtherAccountButton.label "Ajouter un autre compte…">
