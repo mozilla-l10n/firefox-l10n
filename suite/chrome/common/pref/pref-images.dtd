@@ -14,7 +14,7 @@
 <!ENTITY accOrgImagesRadio.accesskey "c">
 <!ENTITY disableImages.label "Ne pas charger les images">
 <!ENTITY disableImages.accesskey "N">
-<!ENTITY viewImages.label "Gestion des images">
+<!ENTITY viewImages.label "Gérer les images">
 <!ENTITY viewImages.accesskey "G">
 <!ENTITY animLoopingTitle.label "Les images animées doivent tourner en boucle :">
 <!ENTITY animLoopAsSpecified.label "Autant de fois que spécifié par l'image">
