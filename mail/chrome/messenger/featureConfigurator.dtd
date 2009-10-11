@@ -15,18 +15,18 @@ think it's important to preserve user choice. -->
 <!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
 that this page is active (the buttons change the UI), and that they can get
 back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Utilisez cette page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu Aide.">
+<!ENTITY featureConfigurator.para2 "Utilisez cette page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu «&nbsp;Aide&nbsp;».">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
 IMAP synchronization feature. The words should probably echo the word used
 in the per-account dialog.-->
 <!ENTITY featureConfigurator.imap.heading "Synchroniser les messages IMAP">
 
-<!ENTITY featureConfigurator.imap.status.all "Tous vos dossiers IMAP sont paramétrés à &laquo;synchroniser&raquo;.">
+<!ENTITY featureConfigurator.imap.status.all "Tous vos dossiers IMAP sont paramétrés à «&nbsp;synchroniser&nbsp;».">
 
-<!ENTITY featureConfigurator.imap.status.none "Aucun de vos dossiers IMAP n'est paramétré à &laquo;synchroniser&raquo;.">
+<!ENTITY featureConfigurator.imap.status.none "Aucun de vos dossiers IMAP n'est paramétré à «&nbsp;synchroniser&nbsp;».">
 
-<!ENTITY featureConfigurator.imap.status.some "Certains de vos dossiers IMAP sont paramétrés à &laquo;synchroniser&raquo;.">
+<!ENTITY featureConfigurator.imap.status.some "Certains de vos dossiers IMAP sont paramétrés à «&nbsp;synchroniser&nbsp;».">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
 is intended to explain why we've implemented this and picked it as a default.-->
@@ -49,8 +49,8 @@ lower case is intentional, but may be overriden if that doesn't make sense
 because of a specific language context.-->
 <!ENTITY featureConfigurator.syncNone.button "ne rien synchroniser">
 
-<!ENTITY featureConfigurator.advancedUsers.label "Utilisateurs avancés :">
-<!ENTITY featureConfigurator.advancedUsers.para "Vous pouvez également personnaliser chaque compte et chaque dossier :">
+<!ENTITY featureConfigurator.advancedUsers.label "Utilisateurs avancés&nbsp;:">
+<!ENTITY featureConfigurator.advancedUsers.para "Vous pouvez également personnaliser chaque compte et chaque dossier&nbsp;:">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nouvelle barre d'outils">
 <!ENTITY featureConfigurator.toolbar.new.status "Utilisation de la nouvelle barre d'outils.">
@@ -79,24 +79,24 @@ words here should echo the name of the mode shown in the folder pane.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Utiliser les &laquo;dossiers intelligents&raquo;.">
+<!ENTITY featureConfigurator.smartFolders.smart.status "Utiliser les «&nbsp;dossiers intelligents&nbsp;».">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
 shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Ne pas utiliser les &laquo;dossiers intelligents&raquo;.">
+<!ENTITY featureConfigurator.smartFolders.all.status "Ne pas utiliser les «&nbsp;dossiers intelligents&nbsp;».">
 
 <!ENTITY featureConfigurator.smartFolderBenefits.para "Si vous possédez plusieurs comptes, ce mode regroupe ensemble les dossiers tels que la boîte de réception, ainsi vous avez une vue d'ensemble de votre courrier.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Si vous aimez avoir des comptes distincts alors vous préférerez le mode &laquotTous les dossiers&raquo;.">
+<!ENTITY featureConfigurator.smartFolderAlternative.para "Si vous aimez avoir des comptes distincts alors vous préférerez le mode «&nbsp;Tous les dossiers&nbsp;».">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "utiliser les &laquo;dossiers intelligents&raquo;">
+<!ENTITY featureConfigurator.useSmartFolders.button "utiliser les «&nbsp;dossiers intelligents&nbsp;»">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useAllFolders.button "utiliser &laquo;tous les dossiers&raquo;">
+<!ENTITY featureConfigurator.useAllFolders.button "utiliser «&nbsp;tous les dossiers&nbsp;»">
 
 <!ENTITY featureConfigurator.collapsedHeaders.heading "En-têtes réduits">
 
