@@ -75,7 +75,7 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "h">
 <!ENTITY cmd.delete.label               "Diese Seite löschen">
 <!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Diese Website vergessen">
+<!ENTITY cmd.deleteDomainData.label     "Gesamte Website vergessen">
 <!ENTITY cmd.deleteDomainData.accesskey "v">
 
 <!ENTITY cmd.open.label                  "Öffnen">
