@@ -53,13 +53,13 @@
 <!ENTITY offlineGoOfflineCmd.label "Travailler hors connexion">
 <!ENTITY offlineGoOfflineCmd.accesskey "h">
 <!ENTITY synchronizeOfflineCmd.label "Synchroniser…">
-<!ENTITY synchronizeOfflineCmd.accesskey "T">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Paramètres hors connexion…">
 <!ENTITY settingsOfflineCmd.accesskey "P">
 <!ENTITY downloadSelectedCmd.label "Relever les messages sélectionnés">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Relever les messages suivis">
-<!ENTITY downloadStarredCmd.accesskey "c">
+<!ENTITY downloadStarredCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
