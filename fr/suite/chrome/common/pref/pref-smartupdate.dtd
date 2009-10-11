@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title "Installation des logiciels">
-<!ENTITY smartTitle.label "Installations et mises à jour logicielles">
+<!ENTITY smartTitle.label "Installations et mises à jour de logiciels">
 <!ENTITY enableSU.label "Autoriser des sites Web à installer et à mettre à jour des modules complémentaires">
 <!ENTITY enableSU.accesskey "u">
 <!ENTITY allowedSites.label "Sites autorisés">
