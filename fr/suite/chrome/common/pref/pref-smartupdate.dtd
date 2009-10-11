@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title "Installation des logiciels">
-<!ENTITY smartTitle.label "Gérer les installations et les mises à jour logicielles">
+<!ENTITY smartTitle.label "Installations et mises à jour logicielles">
 <!ENTITY enableSU.label "Autoriser des sites Web à installer et à mettre à jour des modules complémentaires">
 <!ENTITY enableSU.accesskey "u">
 <!ENTITY allowedSites.label "Sites autorisés">
@@ -18,5 +18,5 @@
 <!ENTITY extensionsUpdates.accesskey "d">
 <!ENTITY extensionsDaily.accesskey "s">
 <!ENTITY extensionsWeekly.accesskey "n">
-<!ENTITY addonManagerButton.label "Gestion des modules complémentaires">
+<!ENTITY addonManagerButton.label "Gérer les modules complémentaires">
 <!ENTITY addonManagerButton.accesskey "G">

@@ -39,7 +39,7 @@
 
 <!ENTITY  validation.crl.caption "LCR">
 <!ENTITY  validation.crl.description "Utilisez le Gestionnaire de LCR pour gérer les listes de certificats révoqués (LCR) qui sont stockées dans la base de données de certificats.">
-<!ENTITY  validation.managecrls.button "Gestion des LCR…">
+<!ENTITY  validation.managecrls.button "Gérer les LCR…">
 <!ENTITY  validation.managecrls.accesskey "G">
 
 <!ENTITY validation.ocsp.caption "OCSP">
