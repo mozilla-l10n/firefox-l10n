@@ -1,0 +1,10 @@
+<!ENTITY welcome.title                      "Witaj w &brandShortName;">
+<!ENTITY overview.description               "Zsynchronizuj swój PC i komórkę przez Weave. Dostosuj korzystając z dodatków. Łatwo otwieraj strony korzystając z inteligentnego paska adresu i wiele więcej.">
+<!ENTITY nextSteps.title                    "Następne kroki">
+<!ENTITY sync.title                         "Włącz i ruszaj">
+<!ENTITY sync.description                   "Pobierz Weave aby usprawnić swojego &brandShortName;. Współdziel ustawienia, zakłądki, historię i inne między PC a komórką.">
+<!ENTITY sync.link                          "Pobierz dodatek Weave">
+<!ENTITY getPersonal.title                  "Spersonalizuj">
+<!ENTITY getPersonal.description            "Dopasuj &brandShortName; do siebie. Dostosuj pierwszą przeglądarkę z dodatkami na komórkę.">
+<!ENTITY getPersonal.link                   "Pobierz dodatki dla swojej komórki.">
+<!ENTITY skip.link                          "Pomiń to i otwórz stronę.">
