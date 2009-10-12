@@ -1,3 +1,7 @@
+<!ENTITY prefsHeader.label                         "Opcje">
+<!ENTITY about.title                               "O &brandShortName;">
+<!ENTITY about.button                              "Idź do strony">
+<!ENTITY about.description                         "Uzyskaj pomoc i dowiedz się o produkcie">
 <!ENTITY content.title                             "Treść">
 <!ENTITY showImages.title                          "Pokazuj obrazki">
 <!ENTITY enableJavaScript.title                    "Włącz JavaScript">
@@ -11,3 +15,6 @@
 <!ENTITY clearPrivateData.button                 "Wyczyść">
 <!ENTITY clearPrivateData.description            "Dane na temat historii pozwalają, aby &brandShortName; podpowiadał adresy">
 <!ENTITY rememberPasswords.title                   "Zachowuj hasła">
+<!ENTITY language.title                            "Język">
+<!ENTITY language.description                      "Wybierz preferowany język dla programu &brandShortName;">
+<!ENTITY language.auto                             "Wykryj automatycznie">

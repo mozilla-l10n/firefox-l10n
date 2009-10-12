@@ -41,6 +41,12 @@
 <!ENTITY editBookmarkDone.label    "Gotowe">
 <!ENTITY editBookmarkTags.label    "Dodaj etykiety">
 
+<!ENTITY helperApp.prompt          "Co mam z tym zrobić">
+<!ENTITY helperApp.open            "Otwórz">
+<!ENTITY helperApp.save            "Zapisz">
+<!ENTITY helperApp.nothing         "Nic">
+
+
 <!ENTITY findOnCmd.label     "Znajdź na tej stronie…">
 <!ENTITY findOnCmd.accesskey "Z">
 <!ENTITY findOnCmd.commandkey "f">
@@ -51,15 +57,18 @@
 
 <!ENTITY addonsHeader.label        "Dodatki">
 <!ENTITY addonsLocal.label         "Twoje dodatki">
+<!ENTITY addonsUpdate.label        "Aktualizacja">
 <!ENTITY addonsRepo.label          "Pobierz dodatki">
 <!ENTITY addonsRecommended.label   "Polecane">
 <!ENTITY addonsSearch.label        "Szukaj">
-<!ENTITY addonsSearch.emptytext    "Przeszukaj wszystkie">
+<!ENTITY addonsSearch2.emptytext   "Przeszukaj katalog">
+<!ENTITY addonsSearch.recommended  "Polecane">
+
 
 <!ENTITY addonOptions.label        "Opcje">
 <!ENTITY addonEnable.label         "Włącz">
 <!ENTITY addonDisable.label        "Wyłącz">
-<!ENTITY addonInstall.label        "Instaluj">
+<!ENTITY addonInstall2.label       "Dodaj do programu &brandShortName;">
 <!ENTITY addonUninstall.label      "Odinstaluj">
 <!ENTITY addonCancel.label         "Anuluj">
 <!ENTITY addonShowPage.label       "Idź do strony">
@@ -81,6 +90,10 @@
 
 <!ENTITY noResults.label           "Brak wyników">
 
+<!ENTITY bookmarkPopup.label       "Zakładka dodana do strony">
+<!ENTITY bookmarkRemove.label      "Usuń">
+<!ENTITY bookmarkEdit.label        "Edytuj">
+
 <!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swej tożsamości.">
 <!ENTITY identity.connectedTo "Połączono z witryną">
 <!-- Localization note (identity.runBy) : This string appears between a
@@ -94,4 +107,18 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "prowadzoną przez">
+<!ENTITY identity.runBy2 "prowadzoną przez">
+
+<!ENTITY consoleHeader.label       "Konsola błędów">
+<!ENTITY consoleAll.label          "Wszystkie">
+<!ENTITY consoleErrors.label       "Błędy">
+<!ENTITY consoleWarnings.label     "Ostrzeżenia">
+<!ENTITY consoleMessages.label     "Wiadomości">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Wyczyść">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kod źródłowy:">
+<!ENTITY consoleErrLine.label      "Linia:">
+<!ENTITY consoleErrColumn.label    "Kolumna:">
+
+<!ENTITY selectListDone.label      "Gotowe">
