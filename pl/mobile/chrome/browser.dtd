@@ -1,24 +1,11 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Wstecz">
-<!ENTITY back.tooltip          "Wstecz">
 <!ENTITY forward.label         "Do przodu">
-<!ENTITY forward.tooltip       "Do przodu">
 <!ENTITY reload.label          "Odśwież">
-<!ENTITY reload.tooltip        "Odśwież">
 <!ENTITY stop.label            "Zatrzymaj">
-<!ENTITY stop.tooltip          "Zatrzymaj">
 <!ENTITY search.label          "Znajdź">
-<!ENTITY search.tooltip        "Znajdź">
 <!ENTITY go.label              "Przejdź">
-<!ENTITY go.tooltip            "Przejdź">
 <!ENTITY openLocation.label    "Otwórz lokację">
-<!ENTITY openLocation.tooltip  "Otwórz lokację"> 
 <!ENTITY star.label            "Gwiazdka">
-<!ENTITY star.tooltip          "Dodaj zakładkę do strony">
-<!ENTITY bookmarks.label       "Zakładki">
-<!ENTITY bookmarks.tooltip     "Pokaż zakładki">
 
 <!ENTITY newtab.label          "Nowa karta">
 <!ENTITY closetab.label        "Zamknij kartę">
@@ -34,7 +21,6 @@
 
 <!ENTITY bookmarksHeader.label     "Zakładki">
 <!ENTITY bookmarksManage.label     "Zarządzaj">
-<!ENTITY foldersHeader.label       "Foldery">
 
 <!ENTITY editBookmarkRemove.label  "Usuń">
 <!ENTITY editBookmarkDone.label    "Gotowe">
@@ -73,12 +59,6 @@
 <!ENTITY addonShowPage.label       "Idź do strony">
 
 <!ENTITY downloadsHeader.label     "Pobieranie plików">
-<!ENTITY downloadsSortDate.label   "Data">
-<!ENTITY downloadsSortSite.label   "Strona">
-<!ENTITY downloadsSortName.label   "Nazwa">
-<!ENTITY downloadsSearch.label     "Szukaj">
-<!ENTITY downloadsSearch.emptytext "Szukaj pobranego pliku">
-
 <!ENTITY downloadShowPage.label    "Idź do strony">
 <!ENTITY downloadShow2.label       "Znajdź">
 <!ENTITY downloadOpen2.label       "Otwórz">

@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "O programie &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Wsparcie">
+<!ENTITY aboutPage.privacyPolicy.label          "Polityka prywatności">
+<!ENTITY aboutPage.rights.label                 "Poznaj swoje prawa">
+<!ENTITY aboutPage.relNotes.label               "Notki do wydania">
+<!ENTITY aboutPage.credits.label                "Podziękowania">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Współtwórcy. Wszystkie prawa zastrzeżone. (">
+<!ENTITY aboutPage.licenseLink                  "Informacje o licencji">
+<!ENTITY aboutPage.copyrightInfo2               ").">
