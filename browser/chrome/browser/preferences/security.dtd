@@ -32,12 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Uložené heslá…">
 <!ENTITY  savedPasswords.accesskey        "s">
-
-
-<!ENTITY  warnings.label                "Bezpečnostné upozornenia">
-
-<!ENTITY  chooseWarnings.label          "Upozornenia, ktoré sa majú zobrazovať pri prehliadaní webu">
-
-<!ENTITY  warningSettings.label         "Nastavenia…">
-<!ENTITY  warningSettings.accesskey     "N">
-
