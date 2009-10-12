@@ -36,8 +36,7 @@
 <!ENTITY bookmarksManage.label     "Zarządzaj">
 <!ENTITY foldersHeader.label       "Foldery">
 
-<!ENTITY editBookmarkEdit.label    "Edytuj">
-<!ENTITY editBookmarkMove.label    "Przenieś">
+<!ENTITY editBookmarkRemove.label  "Usuń">
 <!ENTITY editBookmarkDone.label    "Gotowe">
 <!ENTITY editBookmarkTags.label    "Dodaj etykiety">
 
@@ -87,15 +86,20 @@
 <!ENTITY downloadPause.label       "Wstrzymaj">
 <!ENTITY downloadResume.label      "Kontynuuj">
 <!ENTITY downloadRetry.label       "Pobierz ponownie">
+<!ENTITY downloadRemove.label      "Usuń">
+<!ENTITY downloadFailed.label      "Nieudany">
 
 <!ENTITY noResults.label           "Brak wyników">
+<!ENTITY allBookmarks.label        "Pokaż wszystkie zakładki">
+
+<!ENTITY searchEngine.addSearch    "Dodaj wyszukiwarkę:">
 
 <!ENTITY bookmarkPopup.label       "Zakładka dodana do strony">
 <!ENTITY bookmarkRemove.label      "Usuń">
 <!ENTITY bookmarkEdit.label        "Edytuj">
 
 <!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swej tożsamości.">
-<!ENTITY identity.connectedTo "Połączono z witryną">
+<!ENTITY identity.connectedTo2 "Połączono z">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
