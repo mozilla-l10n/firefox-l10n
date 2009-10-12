@@ -10,10 +10,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomocník">
 <!ENTITY helpMenuWin.accesskey    "P">
-<!ENTITY aboutCmd.label           "O programe &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "m">
+<!ENTITY aboutProduct.label       "O prehliadači &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Pomocník prehliadača &brandShortName;">
-<!ENTITY productHelp.accesskey    "o">
+<!ENTITY productHelp.accesskey    "m">
 <!ENTITY helpForIEUsers.label     "Pre používateľov Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "E">
 <!ENTITY openHelp.commandkey      "VK_F1">

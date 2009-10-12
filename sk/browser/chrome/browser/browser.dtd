@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label "Otvoriť odkaz v novom okne">
 <!ENTITY openLinkCmd.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.label     "Otvoriť odkaz">
+<!ENTITY openLinkCmdInCurrent.accesskey "d">
 <!ENTITY openLinkCmdInTab.label "Otvoriť odkaz na novej karte">
 <!ENTITY openLinkCmdInTab.accesskey "t">
 <!ENTITY openFrameCmd.label "Otvoriť rámec v novom okne">
@@ -333,6 +335,8 @@
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Skryť ovládanie">
 <!ENTITY mediaHideControls.accesskey "n">
+<!ENTITY videoFullScreen.label       "Na celú obrazovku">
+<!ENTITY videoFullScreen.accesskey   "c">
 
 
 <!-- LOCALIZATION NOTE :
