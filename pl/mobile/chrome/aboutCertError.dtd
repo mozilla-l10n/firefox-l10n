@@ -31,6 +31,8 @@ nakazać programowi &brandShortName;, by ufał identyfikacji tej witryny.
 w połączenie użytkownika.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nie należy dodawać wyjątku, o ile nie ma
 uzasadnionych przyczyn, dla których ta witryna nie używa zaufanej identyfikacji.">
-<!ENTITY certerror.addException.label "Dodaj wyjątek…">
+<!ENTITY certerror.addTemporaryException.label "Odwiedź stronę">
+<!ENTITY certerror.addPermanentException.label "Dodaj wyjątek na stałe">
+
 
 <!ENTITY certerror.technical.heading "Szczegóły techniczne">
