@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label      "Fierder">
 <!ENTITY downloadRetry.label       "Opnij">
 <!ENTITY downloadRemove.label      "Fuortsmite">
+<!ENTITY downloadFailed.label      "Mislearre">
 
 <!ENTITY noResults.label           "Gjin resultaten">
 <!ENTITY allBookmarks.label        "Besjoch alle blêdwizers">
