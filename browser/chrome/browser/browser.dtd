@@ -335,6 +335,8 @@
 <!ENTITY mediaShowControls.accesskey "T">
 <!ENTITY mediaHideControls.label     "Ferstop knoppen">
 <!ENTITY mediaHideControls.accesskey "F">
+<!ENTITY videoFullScreen.label       "Folslein skerm">
+<!ENTITY videoFullScreen.accesskey   "s">
 
 
 <!-- LOCALIZATION NOTE :
