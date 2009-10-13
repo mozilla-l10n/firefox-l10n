@@ -14,3 +14,6 @@ window {
   min-width: 25em !important;
 }
 
+#advancedProxyPreferences {
+  min-width: 45em !important;
+}
