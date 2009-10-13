@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Earste side">
 <!ENTITY endarrow.tooltip     "Lêste side">
-<!ENTITY rightarrow.tooltip   "Folgjende side">
-<!ENTITY leftarrow.tooltip    "Foargeande side">
+<!ENTITY nextarrow.tooltip    "Folgjende side">
+<!ENTITY previousarrow.tooltip "Foargeande side">
