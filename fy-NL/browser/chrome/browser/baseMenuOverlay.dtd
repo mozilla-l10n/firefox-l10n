@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Help"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "Oer &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "F">
+<!ENTITY aboutProduct.label       "Oer &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "&brandShortName; Help">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Foar Internet Explorer-brûkers">
@@ -38,4 +38,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Oare ferstopje">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Alles sjen litte">
+<!ENTITY showAllAppsCmdMac.label        "Alles toane">
