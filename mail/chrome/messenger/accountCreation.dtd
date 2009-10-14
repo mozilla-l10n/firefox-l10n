@@ -1,0 +1,75 @@
+<!ENTITY autoconfigWizard.title          "Thiết lập Tài khoản Thư">
+<!ENTITY name.label                      "Tên của bạn:">
+<!ENTITY name.accesskey                  "T">
+<!ENTITY name.emptytext                  "Tên, Họ">
+<!ENTITY name.text                       "Tên của bạn, cho người khác thấy">
+<!ENTITY email.label                     "Địa chỉ email:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@vidu.com">
+<!ENTITY password.label                  "Mật khẩu:">
+<!ENTITY password.accesskey              "M">
+<!ENTITY password.emptytext              "Mật khẩu">
+<!ENTITY password.text                   "Phụ, chỉ sẽ được dùng để kiểm tra tên đăng nhập">
+
+<!ENTITY accountInformation.label        "Thông tin Tài khoản">
+<!ENTITY username2.label                 "Tên đăng nhập:">
+<!ENTITY incoming.label                  "Đến:">
+<!ENTITY outgoing.label                  "Đi:">
+<!ENTITY noEncryption.label              "Không">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Thiết lập Thủ công…">
+<!ENTITY manualSetup.accesskey           "i">
+<!ENTITY cancel.label                    "Hủy bỏ">
+<!ENTITY cancel.accesskey                "H">
+<!ENTITY continue.label                  "Tiếp tục">
+<!ENTITY continue.accesskey              "p">
+<!ENTITY startOver.label                 "Bắt đầu lại">
+<!ENTITY startOver.accesskey             "B">
+<!ENTITY stop.label                      "Dừng">
+<!ENTITY stop.accesskey                  "D">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Kiểm tra lại Cấu hình">
+<!ENTITY retest.accesskey                "K">
+<!ENTITY edit.label                      "Chỉnh sửa">
+<!ENTITY edit.accesskey                  "C">
+
+<!ENTITY rememberPassword.label          "Ghi nhớ mật khẩu">
+<!ENTITY rememberPassword.accesskey      "G">
+
+<!ENTITY warning.label                   "Cảnh báo!">
+<!ENTITY incomingSettings.label          "Thiết lập nhận thư:">
+<!ENTITY outgoingSettings.label          "Thiết lập gửi thư:">
+<!ENTITY technicaldetails.label          "Chi tiết Kĩ thuật">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Tôi hiểu các nguy cơ.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Tạo Tài Khoản">
+<!ENTITY createAccount.accesskey         "o">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Thay đổi Thiết lập">
+<!ENTITY changeSettings.accesskey        "y">
+
+<!ENTITY contactYourProvider.description "&brandShortName; có thể cho phép bạn tải thư bằng cấu hình đã cung cấp. Tuy nhiên, bạn nên liên hệ quản trị viên hoặc nhà cung cấp thư điện tử về vấn đề kết nối không phù hợp này. Xem FAQ của Thunderbird để biết thêm thông tin.">
+
+<!ENTITY insecureServer.tooltip.title    "Cảnh báo! Đây là một máy chủ không bảo mật.">
+<!ENTITY insecureServer.tooltip.details  "Nhấn lên vòng tròn để biết thêm chi tiết.">
+
+<!ENTITY insecureUnencrypted.description "Email và thông tin xác thực của bạn được gửi mà không mã hóa, do đó mật khẩu (và thư) của bạn có thể sẽ bị người khác đọc được. &brandShortName; vẫn để bạn tải thư, nhưng bạn nên liên hệ nhà cung cấp thư điện tử của mình vè việc cấu hình máy chủ với kết nối an toàn.">
+<!ENTITY insecureSelfSigned.description  "Máy chủ sử dụng một chứng thư mà chúng tôi không tin tưởng, do đó chúng tôi không thể chắc là liệu có ai đó đang can thiệp vào đường truyền giữa &brandShortName; và máy chủ của bạn hay không. &brandShortName; vẫn để cho bạn tải thư, nhưng bạn nên đề nghị nhà cung cấp thư điện tử của mình cấu hình máy chủ bằng một chứng thư tin cậy.">
+<!ENTITY secureServer.description        "Chúc mừng! Máy chủ này có an toàn.">

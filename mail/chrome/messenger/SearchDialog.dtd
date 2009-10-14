@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Tìm kiếm thư mục con">
 <!ENTITY searchSubfolders.accesskey  "c">
+<!ENTITY searchOnServer.label        "Chạy tìm kiếm trên máy chủ">
+<!ENTITY searchOnServer.accesskey    "y">
 <!ENTITY resetButton.label           "Xóa trắng">
 <!ENTITY resetButton.accesskey       "a">
 <!ENTITY openButton.label            "Mở">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label            "Xếp">
 <!ENTITY fileButton.accesskey        "X">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Mở Thư Mục Thư">
-<!ENTITY goToFolderButton.accesskey  "h">
+<!ENTITY openInFolder.label          "Mở trong Thư mục">
+<!ENTITY openInFolder.accesskey      "o">
 <!ENTITY saveAsVFButton.label        "Lưu thành Thư mục Tìm kiếm">
 <!ENTITY saveAsVFButton.accesskey    "L">
 
@@ -38,7 +40,7 @@
 <!ENTITY dateColumn.label "Ngày">
 <!ENTITY priorityColumn.label "Mức ưu tiên">
 <!ENTITY tagsColumn.label "Nhãn">
-<!ENTITY accountColumn.label "Tài khỏan">
+<!ENTITY accountColumn.label "Tài khoản">
 <!ENTITY statusColumn.label "Trạng thái">
 <!ENTITY sizeColumn.label "Dung lượng">
 <!ENTITY junkStatusColumn.label "Trạng thái Thư rác">

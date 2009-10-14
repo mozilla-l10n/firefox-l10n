@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Phông cho:">
 <!ENTITY  language.accesskey                      "P">
 
-<!ENTITY  sizes.label                             "Kích cỡ (điểm ảnh)">
+<!ENTITY  size.label                              "Kích cỡ:">
 <!ENTITY  proportionalSize.accesskey              "K">
-<!ENTITY  monospaceSize.accesskey                 "m">
+<!ENTITY  sizeMono.accesskey                      "K">
 
 <!ENTITY  proportional.label                      "Tỉ lệ:">
 <!ENTITY  proportional.accesskey                  "l">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Điều chỉnh Phông">
+<!ENTITY  useFixedWidthForPlainText.label         "Dùng phông độ rộng cố định cho các thư thuần văn bản">
+<!ENTITY  fixedWidth.accesskey                    "b">
 <!ENTITY  useDocumentFonts.label                  "Cho phép thư sử dụng phông khác">
 <!ENTITY  useDocumentFonts.accesskey              "C">
 

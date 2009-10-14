@@ -57,19 +57,47 @@
 
 <!ENTITY editMessageDescription.label "Đây là một thư nháp">
 <!ENTITY editMessageButton.label "Chỉnh sửa…">
-<!ENTITY archiveButton.label "lưu trữ">
+<!ENTITY hdrArchiveButton.label "lưu trữ">
+<!ENTITY hdrArchiveButton.tooltip "lưu trữ thư này">
 <!ENTITY hdrReplyButton.label "trả lời">
+<!ENTITY hdrReplyButton.tooltip "trả lời thư này">
 <!ENTITY hdrReplyAllButton.label "trả lời tất cả">
+<!ENTITY hdrReplyAllButton.tooltip "trả lời người gửi và tất cả người nhận">
 <!ENTITY hdrReplyListButton.label "trả lời danh sách">
+<!ENTITY hdrReplyListButton.tooltip "trả lời danh sách thư">
 <!ENTITY hdrForwardButton.label "chuyển tiếp">
+<!ENTITY hdrForwardButton.tooltip "chuyển tiếp thư này">
 <!ENTITY hdrJunkButton.label "thư rác">
-<!ENTITY trashButton.tooltiptext "xóa">
+<!ENTITY hdrJunkButton.tooltip "đánh dấu thư này là thư rác">
+<!ENTITY hdrTrashButton.label "xóa">
+<!ENTITY hdrTrashButton.tooltip "xóa thư này">
+
+<!ENTITY hdrViewToolbarShowFull.label "Hiện Biểu tượng và Chữ">
+<!ENTITY hdrViewToolbarShowFull.accesskey "B">
+<!ENTITY hdrViewToolbarShowIcons.label "Chỉ hiện Biểu tượng">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "u">
+<!ENTITY hdrViewToolbarShowText.label "Chỉ hiện Chữ">
+<!ENTITY hdrViewToolbarShowText.accesskey "C">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Luôn hiện Trả lời tới Người gửi">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "thao tác khác">
+<!ENTITY otherActionsShowConversation.label "hiện trong hội thoại">
+<!ENTITY otherActionsShowConversation.accesskey "o">
+<!ENTITY otherActionsOpenInNewWindow.label "mở trong cửa sổ mới">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "s">
+<!ENTITY otherActionsOpenInNewTab.label "mở trong thẻ mới">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "đánh dấu là đã đọc">
+<!ENTITY markAsReadMenuItem.accesskey "d">
+<!ENTITY markAsUnreadMenuItem.label "đánh dấu là chưa đọc">
+<!ENTITY markAsUnreadMenuItem.accesskey "a">
 <!ENTITY saveAsMenuItem.label "lưu thành…">
 <!ENTITY saveAsMenuItem.accesskey "l">
-<!ENTITY viewSourceMenuItem.label "xem mã nguồn…">
-<!ENTITY viewSourceMenuItem.accesskey "x">
+<!ENTITY viewSourceMenuItem.label "xem mã nguồn">
+<!ENTITY viewSourceMenuItem.accesskey "m">
+<!ENTITY otherActionsPrint.label "in…">
+<!ENTITY otherActionsPrint.accesskey "i">
 
 <!ENTITY openAttachmentCmd.label    "Mở">
 <!ENTITY openAttachmentCmd.accesskey    "M">

@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label      "Lừa đảo Email">
 <!ENTITY itemPasswords.label     "Mật khẩu">
 <!ENTITY itemAntiVirus.label     "Diệt Virút">
+<!ENTITY itemCookies.label       "Nội dung Web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Chỉnh các thiết lập thư rác mặc định. Cũng có thể thiết lập thư rác từng tài khoản trong Thiết lập Tài khoản.">
@@ -41,3 +42,18 @@
 <!ENTITY antiVirus.intro      "&brandShortName; có thể giúp các phần mềm diệt virút dễ dàng phân tích các thư đến, trước khi chúng được lưu trữ vào máy.">
 <!ENTITY antiVirus.label      "Cho phép chương trình diệt virút cách ly riêng biệt từng thư đến">
 <!ENTITY antiVirus.accesskey  "C">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; để bạn chỉ định những blog, feed tin tức và các trang web nào được phép đặt cookie.">
+<!ENTITY acceptCookies.label            "Cho phép cookie từ các trang">
+<!ENTITY acceptCookies.accesskey        "C">
+<!ENTITY keepUntil.label                "Lưu cho tới khi:">
+<!ENTITY keepUntil.accesskey            "k">
+<!ENTITY expire.label                   "chúng hết hạn">
+<!ENTITY close.label                    "tôi thoát &brandShortName;">
+<!ENTITY askEachTime.label              "hỏi tôi mỗi lần">
+<!ENTITY cookieExceptions.label         "Ngoại trừ…">
+<!ENTITY cookieExceptions.accesskey     "N">
+<!ENTITY showCookies.label              "Hiện Cookie…">
+<!ENTITY showCookies.accesskey          "e">
+

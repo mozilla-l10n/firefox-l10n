@@ -153,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Lưu ý:">
 <!ENTITY Notes.accesskey                "L">
+
+<!ENTITY Photo.tab                      "Ảnh">
+<!ENTITY Photo.accesskey                "h">
+<!ENTITY PhotoDesc.label                "Chọn một trong danh sách sau:">
+<!ENTITY GenericPhoto.label             "Ảnh chung">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Mặc định">
+<!ENTITY PhotoFile.label                "Trên máy tính này">
+<!ENTITY PhotoFile.accesskey            "y">
+<!ENTITY BrowsePhoto.label              "Duyệt">
+<!ENTITY BrowsePhoto.accesskey          "u">
+<!ENTITY PhotoURL.label                 "Trên web">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.emptytext             "Dán hoặc gõ địa chỉ web của ảnh">
+<!ENTITY UpdatePhoto.label              "Cập nhật">
+<!ENTITY UpdatePhoto.accesskey          "p">

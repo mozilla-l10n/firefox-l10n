@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Thiết lập Định danh">
 <!ENTITY identityListDesc.label "Cấu hình các thiết lập cho định danh này:">
 

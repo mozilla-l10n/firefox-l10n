@@ -52,8 +52,8 @@
 <!ENTITY autoCheck.label                "Tự động kiểm tra phiên bản mới của:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Những Tiện-ích đã cài">
-<!ENTITY enableAddonsUpdate.accesskey   "T">
+<!ENTITY enableAddonsUpdate.label       "Tiện ích Đã cài">
+<!ENTITY enableAddonsUpdate.accesskey   "i">
 <!ENTITY whenUpdatesFound.label         "Khi tìm thấy các bản cập nhật của &brandShortName;,">
 <!ENTITY modeAskMe.label                "Hỏi tôi nên làm gì">
 <!ENTITY modeAskMe.accesskey            "H">
@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "a">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng thư cá nhân của tôi:">
+<!ENTITY certs.auto                      "Tự động chọn một cái">
+<!ENTITY certs.auto.accesskey            "n">
+<!ENTITY certs.ask                       "Hỏi tôi mỗi lần">
+<!ENTITY certs.ask.accesskey             "H">
+
 <!ENTITY viewCertificates.label         "Xem Chứng Thư">
 <!ENTITY viewCertificates.accesskey     "X">
 <!ENTITY viewCRLs.label                 "Danh sách Thu hồi">

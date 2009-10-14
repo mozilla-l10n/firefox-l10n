@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Thiết lập Tài khoản">
 
-<!ENTITY addAccountButton.label "Thêm Tài Khoản…">
-<!ENTITY addAccountButton.accesskey "T">
+<!ENTITY accountActionsButton.label "Thao tác trên Tài khoản">
+<!ENTITY accountActionsButton.accesskey "a">
+<!ENTITY addMailAccountButton.label "Thêm Tài Khoản Thư…">
+<!ENTITY addMailAccountButton.accesskey "m">
+<!ENTITY addOtherAccountButton.label "Thêm Tài Khoản Khác…">
+<!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Dùng làm Mặc định">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Xóa Tài Khoản">

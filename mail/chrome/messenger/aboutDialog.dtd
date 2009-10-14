@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title      "Thông tin về &brandFullName;">
-<!ENTITY credits.label          "Công trạng">
-<!ENTITY credits.accesskey      "C">
 <!ENTITY aboutButton.label      "&lt; Lùi">
 <!ENTITY aboutButton.accesskey  "L">
 <!ENTITY aboutVersion           "phiên bản">
@@ -9,9 +7,13 @@
                                  được bảo lưu.">
 <!ENTITY aboutMenu.label        "Giới thiệu">
 <!ENTITY aboutMenu.accesskey    "G">
+<!ENTITY aboutCredits.label     "Công trạng">
+<!ENTITY aboutCredits.accesskey "C">
 <!ENTITY aboutRights.label      "Quyền của Bạn">
 <!ENTITY aboutRights.accesskey  "Q">
 <!ENTITY aboutContributors.label "Người Đóng Góp">
 <!ENTITY aboutContributors.accesskey "N">
+<!ENTITY aboutLicense.label      "Giấy phép">
+<!ENTITY aboutLicense.accesskey  "G">
 
 <!ENTITY cmdCloseMac.commandKey "w">

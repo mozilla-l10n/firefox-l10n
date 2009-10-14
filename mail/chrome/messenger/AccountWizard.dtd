@@ -55,12 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Máy chủ gửi thư (SMTP) hiện tại của bạn, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, sẽ được dùng. Bạn có thể sửa đổi thiết lập máy chủ gửi thư bằng cách chọn Thiết lập Tài khoản trên trình đơn Công cụ.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, sẽ được dùng. Bạn có thể thay đổi máy chủ thư đi trong thiết lập tài khoản.">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Nhập tên nguời dùng gửi thư mà nhà cung cấp dịch vụ email đã cấp cho bạn (thường cũng là tên người dùng nhận thư).">
 <!ENTITY usernameSmtpLabel.label "Tên người dùng Gửi thư:">
 <!ENTITY usernameSmtpLabel.accesskey "G">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Tên người dùng gửi thư (SMTP) hiện tại của bạn, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, sẽ được dùng. Bạn có thể sửa đổi thiết lập máy chủ gửi thư bằng cách chọn Thiết lập Tài khoản trên trình đơn Công cụ.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, sẽ được dùng. Bạn có thể thay đổi máy chủ thư đi trong thiết lập tài khoản.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Máy chủ gửi thư (SMTP) của bạn, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, giống với máy chủ nhận thư của bạn, và tên người dùng nhận thư của bạn sẽ được dùng để truy cập. Bạn có thể sửa đổi thiết lập máy chủ gửi thư bằng cách chọn Thiết lập Tài khoản trên trình đơn Công cụ.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, trùng với máy chủ thư đến của bạn, tên đăng nhập cho máy chủ thư đến sẽ được dùng để truy cập. Bạn có thể thay đổi máy chủ thư đi trong thiết lập tài khoản.">
 
 <!-- Entities for Account name page -->
 

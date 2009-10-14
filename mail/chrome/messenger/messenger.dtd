@@ -7,12 +7,14 @@
 <!ENTITY newFolderCmd.accesskey "h">
 <!ENTITY closeTabCmd.label "Đóng Thẻ">
 <!ENTITY closeTabCmd.accesskey "g">
+<!ENTITY closeOtherTabsCmd.label "Đóng Các Thẻ Khác">
+<!ENTITY closeOtherTabsCmd.accesskey "K">
 <!ENTITY newVirtualFolderCmd.label "Tìm kiếm Được lưu…">
 <!ENTITY newVirtualFolderCmd.accesskey "m">
-<!ENTITY newAccountCmd.label "Tài khoản…">
-<!ENTITY newAccountCmd.accesskey "i">
-<!ENTITY newMailAccountCmd.label "Tài khoản Thư (Thiết lập Nhanh)">
-<!ENTITY newMailAccountCmd.accesskey "T">
+<!ENTITY newOtherAccountsCmd.label "Tài khoản Khác…">
+<!ENTITY newOtherAccountsCmd.accesskey "k">
+<!ENTITY newEmailAccountCmd.label "Tài khoản Thư…">
+<!ENTITY newEmailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Mở các Thư Đã Lưu…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Phần đính kèm">
@@ -130,6 +132,8 @@
 
 <!ENTITY folderView.label "Thư mục">
 <!ENTITY folderView.accesskey "T">
+<!ENTITY smartFolders.label "Thông minh">
+<!ENTITY smartFolders.accesskey "g">
 <!ENTITY allFolders.label "Tất cả">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Chưa đọc">
@@ -467,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Trả lời Danh sách">
 <!ENTITY forwardButton.label "Chuyển tiếp">
 <!ENTITY fileButton.label "Xếp">
+<!ENTITY archiveButton.label "Lưu trữ">
 <!ENTITY nextButton.label "Tiếp">
 <!ENTITY previousButton.label "Trước">
 <!ENTITY backButton1.label "Lùi">
@@ -499,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Trả lời danh sách thư">
 <!ENTITY forwardButton.tooltip "Chuyển tiếp thư đã chọn">
 <!ENTITY fileButton.tooltip "Xếp thông điệp được chọn vào thư mục">
+<!ENTITY archiveButton.tooltip "Lưu trữ các thư đã chọn">
 <!ENTITY nextButton.tooltip "Chuyển sang thư chưa đọc tiếp theo">
 <!ENTITY previousButton.tooltip "Chuyển sang thư chưa đọc phía trước">
 <!ENTITY goForwardButton.tooltip "Đi tới một thư">
@@ -566,28 +572,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Tìm kiếm Thư…">
-<!ENTITY glodaSearchBar.facet.label "Tìm kiếm:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Mọi thứ">
-<!ENTITY glodaSearchFacet.subject.label "Tiêu đề">
-<!ENTITY glodaSearchFacet.involves.label "Từ, Tới, Cc, Bcc">
-<!ENTITY glodaSearchFacet.to.label "Tới, CC">
-<!ENTITY glodaSearchFacet.from.label "Từ">
-<!ENTITY glodaSearchFacet.body.label "Nội dung Thư">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Tên tập tin Đính kèm">
-
-<!ENTITY glodaSearchBar.location.label "Địa chỉ:">
-<!ENTITY glodaSearchFacet.everywhere.label "Tất cả Thư mục">
-<!ENTITY glodaSearchFacet.folder.label "Trong một thư mục riêng…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tiêu đề">
@@ -618,15 +602,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Địa chỉ">
 <!ENTITY idColumn.label "Thứ tự Nhận được">
 <!ENTITY attachmentColumn.label "Phần đính kèm">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Tại sao">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Điểm">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Nhấn để chọn cột hiển thị">
@@ -649,8 +624,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Nhấn để sắp xếp theo địa chỉ">
 <!ENTITY idColumn.tooltip "Nhấn để sắp xếp theo thứ tự nhận được">
 <!ENTITY attachmentColumn.tooltip "Nhấn để sắp xếp theo phần đính kèm">
-<!ENTITY glodaWhyColumn.tooltip "Nhấn để sắp xếp theo lí do thư xuất hiện trong kết quả tìm kiếm">
-<!ENTITY glodaScoreColumn.tooltip "Nhấn để sắp xếp theo điểm số tìm kiếm">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Mở Thư trong Cửa Sổ Mới">
@@ -659,6 +632,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Chỉnh sửa Dưới dạng Thư Mới…">
 <!ENTITY contextEditAsNew.accesskey "s">
+<!ENTITY contextArchive.label "Lưu trữ">
+<!ENTITY contextArchive.accesskey "L">
 <!ENTITY contextReplySender.label "Chỉ trả lời Người gửi">
 <!ENTITY contextReplySender.accesskey "g">
 <!ENTITY contextReplyNewsgroup.label "Trả lời Nhóm tin">
@@ -684,6 +659,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Xem trước Bản in">
 <!ENTITY contextPrintPreview.accesskey "e">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Chơi">
+<!ENTITY contextPlay.accesskey "C">
+<!ENTITY contextPause.label "Tạm dừng">
+<!ENTITY contextPause.accesskey "d">
+<!ENTITY contextMute.label "Tắt tiếng">
+<!ENTITY contextMute.accesskey "g">
+<!ENTITY contextUnmute.label "Bật tiếng">
+<!ENTITY contextUnmute.accesskey "B">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Thư rác">
 <!ENTITY junkBarButton1.label "Không phải Thư rác">
@@ -703,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchAllMessages.label "Tìm kiếm tất cả các thư">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Thêm vào Sổ Địa Chỉ…">
@@ -713,10 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "C">
 <!ENTITY ViewContact.label "Hiển thị Danh bạ">
 <!ENTITY ViewContact.accesskey "H">
-<!ENTITY SendMailTo.label "Soạn Thư Tới">
-<!ENTITY SendMailTo.accesskey "S">
+<!ENTITY SubscribeToNewsgroup.label "Đăng kí theo dõi Nhóm tin">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Soạn Thư Tới">
+<!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Chép Địa Chỉ Email">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "Sao Chép Tên Nhóm Tin">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Sao Chép URL Nhóm Tin">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Tạo Bộ Lọc Từ…">
 <!ENTITY CreateFilterFrom.accesskey "B">
 <!ENTITY reportPhishingURL.label "Báo cáo Thư lừa đảo">
@@ -727,8 +719,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "K">
 <!ENTITY saveImageAsCmd.label "Lưu Ảnh dưới dạng…">
 <!ENTITY saveImageAsCmd.accesskey "L">
+<!ENTITY cutCmd.label "Cắt">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Chép">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Dán">
+<!ENTITY pasteCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
 <!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY copyLinkCmd.label "Chép Địa Chỉ Liên Kết">
@@ -737,6 +733,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Chép Địa Chỉ Email">
 <!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Dừng">
+<!ENTITY stopCmd.accesskey "D">
+<!ENTITY reloadCmd.label "Tải lại">
+<!ENTITY reloadCmd.accesskey "i">
+<!ENTITY openInBrowser.label "Mở trong Trình Duyệt">
+<!ENTITY openInBrowser.accesskey "o">
+<!ENTITY openLinkInBrowser.label "Mở Liên Kết trong Trình Duyệt">
+<!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Xong">
