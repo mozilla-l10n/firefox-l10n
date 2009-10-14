@@ -1,87 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  %brandDTD;
-]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" > %brandDTD;]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Privacy &amp; Security Preferences - Certificates</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+	<title>Prywatność i&nbsp;zabezpieczenia &mdash; Certyfikaty</title>
+	<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
+
 <body>
+<h1 id="certificate_settings">Ustawienia certyfikatów</h1>
 
-<h1 id="certificate_settings">Certificate Settings</h1>
+<p>Niniejszy rozdział opisuje ustawienia dotyczące certyfikatów, Menedżera certyfikatów, Menedżera urządzeń zabezpieczających, a&nbsp;także okna dialogowe dotyczące certyfikatów.</p>
 
-<p>This section describes how to set your certificate preferences and how to
-  use the Certificate Manager, Device Manager, and other dialog boxes related
-  to certificates.</p>
+<p>Więcej informacji na temat certyfikatów i&nbsp;zagadnień z&nbsp;nimi związanych zawiera rozdział <a href="using_certs_help.xhtml">Używanie certyfikatów</a>.</p>
 
-<p>For step-by-step descriptions of various tasks related to certificates, see
-  <a href="using_certs_help.xhtml">Using Certificates</a>.</p>
-
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
-    <li><a href="#privacy_and_security_preferences_certificates">Certificate 
-      Preferences</a></li>
-    <li><a href="certs_help.xhtml">Certificate Manager</a></li>
-    <li><a href="certs_help.xhtml#device_manager">Device Manager</a></li>
-    <li><a href="cert_dialog_help.xhtml">Certificate Information and
-      Decisions</a></li>
+    <li><a href="#privacy_and_security_preferences_certificates">Preferencje certyfikatów</a></li>
+    <li><a href="certs_help.html">Menedżer certyfikatów</a></li>
+    <li><a href="certs_help.html#Security_Devices">Menedżer urządzeń zabezpieczających</a></li>
+    <li><a href="cert_dialog_help.xhtml">Certyfikaty &mdash; informacje i&nbsp;decyzje</a></li>
   </ul>
 </div>
 
-<h1 id="privacy_and_security_preferences_certificates">Privacy &amp; Security
-  Preferences - Certificates</h1>
+<h1 id="privacy_and_security_preferences_certificates">Preferencje certyfikatów</h1>
 
-<p>This section describes use the Certificates preferences panel. To view
-  Certificates preferences, follow these steps:</p>
+<p>Ten rozdział objaśnia używanie panelu preferencji certyfikatów. Aby wyświetlić panel, należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
+   <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+   <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Certyfikaty. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
 </ol>
 
-<h3 id="client_certificate_selection">Client Certificate Selection</h3>
+<h3 id="client_certificate_selection">Sposób wyboru certyfikatu</h3>
 
-<p>Some websites require you to identify yourself with a certificate. The
-  option you select here determines how the browser identifies the certificate
-  to present among those you may have on file:</p>
-
+<p>Niektóre witryny internetowe wymagają identyfikacji użytkowników przy pomocy certyfikatów. Poniższe opcje określają, w&nbsp;jaki sposób przeglądarka będzie identyfikowała certyfikaty w&nbsp;celu przekazania witrynie tego właściwego:</p>
 <ul>
-  <li><strong>Select Automatically:</strong> Click this option if you want
-    the browser to select a certificate without asking you.</li>
-  <li><strong>Ask Every Time:</strong> Click this option if you want the browser
-    to ask you which certificate to use each time a website requests one.</li>
+	<li><strong>Wybierz automatycznie</strong>: pozwala na automatyczny wybór odpowiedniego certyfikatu bez pytania użytkownika. Jest to domyślne ustawienie sposobu wyboru certyfikatu.</li>
+	<li><strong>Pytaj za każdym razem</strong>: powoduje wyświetlenie zapytania do użytkownika o&nbsp;właściwy certyfikat za każdym razem, gdy zażąda tego strona WWW.</li>
 </ul>
 
-<h3 id="manage_certificates">Manage Certificates</h3>
+<h3 id="manage_certificates">Menedżer certyfikatów</h3>
 
-<p>Certificates are the digital equivalent of ID cards&mdash;they help other
-  people identify you, and they help you identify other people, websites, and
-  organizations.</p>
+<p>Certyfikaty są cyfrowymi odpowiednikami kart identyfikacyjnych &mdash; umożliwiają jednoznaczne stwierdzenie tożsamości użytkownika, witryny WWW&nbsp;lub organizacji.</p>
 
-<p>To examine or configure the certificates you have on file, click Manage
-  Certificates.</p>
+<p>Aby sprawdzić lub skonfigurować posiadane certyfikaty, należy nacisnąć przycisk Menedżer certyfikatów.</p>
 
-<h3 id="manage_security_devices">Manage Security Devices</h3>
+<h3 id="manage_security_devices">Menedżer urządzeń zabezpieczających</h3>
 
-<p>A security device is a hardware or software device that stores your
-  certificates and keys. For example, a smart card is a security device. Your
-  browser has its own built-in software security device, and you can use
-  additional security devices, such as smart cards, at the same time.</p>
+<p>Urządzenie zabezpieczające (sprzętowe lub programowe) przechowuje certyfikaty i&nbsp;klucze użytkownika. Przykładowo, urządzeniem zabezpieczającym może być inteligentna karta magnetyczna lub chipowa. Nawigator posiada swoje własne, wbudowane urządzenie zabezpieczające, niemniej istnieje możliwość używania w&nbsp;tym samym czasie dodatkowych urządzeń, takich jak np. inteligentne karty.</p>
 
-<p>To examine or configure your security devices, click Manage Security
-  Devices.</p>
-
+<p>Aby sprawdzić lub zmienić ustawienia urządzenia zabezpieczającego, należy nacisnąć przycisk Menedżer urządzeń zabezpieczających.</p>
 
 <p>&copyright.string;</p>
-
+ 
 </body>
 </html>

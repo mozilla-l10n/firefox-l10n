@@ -8,484 +8,281 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Certificate Information and Decisions</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+<title>Certyfikaty &mdash; informacje i&nbsp;decyzje</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
 <body>
 
-<div class="boilerPlate">This document is provided for your information only.
-  It may help you take certain steps to protect the privacy and security of
-  your personal information on the Internet. This document does not, however,
-  address all online privacy and security issues, nor does it represent a
-  recommendation about what constitutes adequate privacy and security
-  protection on the Internet.</div>
+<div class="boilerPlate">Ten dokument został stworzony tylko w&nbsp;celach pomocniczych. Wskaże parę kroków do wykonania w&nbsp;celu ochrony poufności i&nbsp;bezbieczeństwa informacji osobistych w&nbsp;internecie. Dokument ten jednakże nie obejmuje wszystkich zagadnień związanych z&nbsp;poufnoscią i&nbsp;bezpieczeństwem danych w&nbsp;internecie, ani nie przedstawia rekomendacji odnośnie odpowiednich ustawień programu w&nbsp;celu ich uzyskania.</div>
 
-<h1 id="certificate_information_and_decisions">Certificate Information and
-  Decisions</h1>
+<h1 id="certificate_information_and_decisions">Certyfikaty &mdash; informacje i&nbsp;decyzje</h1>
 
-<p>This section describes how to use various windows displayed at different times by
-  Certificate Manager. The additional information given here appears when you click
-  the Help button in one of those windows.</p>
+<p>Ten rozdział objaśnia używanie różnych okien pokazywanych podczas korzystania z&nbsp;Menedżera certyfikatów. Dodatkowe informacje tu podane są dostępne po naciśnięciu przycisku Pomoc w&nbsp;odpowiednim oknie.</p>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
-    <li><a href="#certificate_viewer">Certificate Viewer</a></li>
-    <li><a href="#choose_security_device">Choose Security Device</a></li>
-    <li><a href="#encryption_key_copy">Encryption Key Copy</a></li>
-    <li><a href="#certificate_backup">Certificate Backup</a></li>
-    <li><a href="#user_identification_request">User Identification Request</a></li>
-    <li><a href="#new_certificate_authority">New Certificate Authority</a></li>
-    <li><a href="#web_site_certificates">Website Certificates</a></li>
+    <li><a href="#certificate_viewer">Podgląd certyfikatu</a></li>
+    <li><a href="#choose_security_device">Wybór urządzenia zabezpieczającego</a></li>
+    <li><a href="#encryption_key_copy">Kopia klucza szyfrującego</a></li>
+    <li><a href="#certificate_backup">Kopia zapasowa certyfikatu</a></li>
+    <li><a href="#user_identification_request">Żądanie identyfikacji użytkownika</a></li>
+    <li><a href="#new_certificate_authority">Nowy organ certyfikacji</a></li>
+    <li><a href="#web_site_certificates">Certyfikaty witryn WWW</a></li>
   </ul>
 </div>
 
-<h2 id="certificate_viewer">Certificate Viewer</h2>
+<h2 id="certificate_viewer">Podgląd certyfikatu</h2>
 
-<p>The Certificate Viewer displays information about a certificate you selected
-  in one of the Certificate Manager tabs. The General tab summarizes
-  information about who issued the certificate, its verification status, what
-  the certificate can be used for, and so on. The Details tab provides complete
-  details on the certificate&apos;s contents.</p>
+<p>W&nbsp;oknie podglądu certyfikatu są pokazywane informacje o&nbsp;certyfikacie zaznaczonym na jednej z&nbsp;kart Menedżera certyfikatów. Karta Ogólne zawiera sumaryczne dane o&nbsp;stanie weryfikacji certyfikatu, jego właścicielu, wydawcy, datach: wystawienia i&nbsp;ważności oraz odciskach kluczy kryptograficznych powiązanych z&nbsp;certyfikatem. Karta Szczegóły zawiera kompletne i&nbsp;szczegółowe informacje o&nbsp;zawartości certyfikatu.</p>
 
-<p>If you are not currently viewing the Certificate Viewer, follow these
-  steps:</p>
+<p>Jeżeli podgląd certyfikatu jeszcze nie jest widoczny, należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>Click Manage Certificates.</li>
-  <li>Click the tab for the type of certificate whose details you want to
-    view.</li>
-  <li>Select the certificate whose details you want to view.</li>
-  <li>Click View.</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+	 <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Certyfikaty. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
+   <li>Nacisnąć przycisk Menedżer certyfikatów</li>
+   <li>Wybrać kartę odpowiedniego typu certyfikatów.</li>
+   <li>Zaznaczyć certyfikat do podglądu.</li>
+   <li>Nacisnąć przycisk Wyświetl.</li>
 </ol>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
-    <li><a href="#general_tab">General Tab</a></li>
-    <li><a href="#details_tab">Details Tab</a></li>
+    <li><a href="#general_tab">Karta Ogólne</a></li>
+    <li><a href="#details_tab">Karta Szczegóły</a></li>
   </ul>
 </div>
 
-<h3 id="general_tab">General Tab</h3>
+<h3 id="general_tab">Karta Ogólne</h3>
 
-<p>When you first open the Certificate Viewer, the General tab displays several
-  kinds of information about the selected certificate:</p>
+<p>Po otwarciu okna podglądu certyfikatu, domyślnie pokazana jest karta Ogólne. Zawiera ona kilka rodzajów informacji o&nbsp;certyfikacie:</p>
 
 <ul>
-  <li><strong>This certificate has been verified for the following
-    uses</strong>: See
-    <a href="glossary.xhtml#certificate_verification">certificate verification</a>
-    for a discussion of how the Certificate Manager verifies certificates. Uses
-    can include any of the following:
+  <li><strong>Niniejszy certyfikat został zweryfikowany do wykorzystania przez</strong>: Informacje, w&nbsp;jaki sposób Menedżer certyfikatów dokonuje ich sprawdzenia są dostępne w&nbsp;rozdziale <a href="glossary.html#certificate_verification">Weryfikacja certyfikatów</a>. Cele użytkowania certyfikatu mogą być dowolne z&nbsp;niżej podanych:
     <ul>
-      <li><strong>SSL Client Certificate</strong>: Certificate used to identify
-        you to websites.</li>
-      <li><strong>SSL Server Certificate</strong>: Certificate used to identify
-        a website server to browsers.</li>
-      <li><strong>Email Signer Certificate</strong>: Certificate used to
-        identify you for the purposes of digitally signing email messages.</li>
-      <li><strong>Email Recipient Certificate</strong>: Certificate used to
-        identify someone else, for example so you can send that person
-        encrypted email.</li>
-      <li><strong>Status Responder Certificate</strong>: Certificate used to
-        identify an online status responder that uses the Online Certificate
-        Status Protocol (OCSP) to check the validity of certificates. For more
-        information about OCSP, see
-        <a href="validation_help.xhtml">Validation Settings</a>.</li>
-      <li><strong>SSL Certificate Authority</strong>: Certificate used to
-        identify a certificate authority&mdash;that is, a service that issues
-        certificates for use as identification over computer networks.</li>
+      <li><strong>Certyfikat SSL klienta</strong>: Certyfikat używany do identyfikacji użytkownika na stronach WWW.</li>
+      <li><strong>Certyfikat SSL serwera</strong>: Certyfikat używany do identyfikacji przez przeglądarki serwera WWW.</li>
+      <li><strong>Certyfikat osoby podpisującej wiadomość</strong>: Certyfikat używany do identyfikacji użytkownika w&nbsp;celach cyfrowego podpisywania wiadomości poczty elektronicznej.</li>
+      <li><strong>Certyfikat adresata wiadomości</strong>: Certyfikat używany do identyfikacji osoby trzeciej. Przykładowo, aby mieć możliwość wysyłania do niej zaszyfrowanych wiadomości poczty elektronicznej.</li>
+      <li><strong>Certyfikat serwera potwierdzającego</strong>: Certyfikat używany do identyfikacji serwera potwierdzającego stan certyfikatów, używającego protokołu OCSP. Dodatkowe informacje o&nbsp;protokole OCSP można znaleźć w&nbsp;rozdziale <a href="validation_help.html">Ustawienia weryfikacji</a>.</li>
+      <li><strong>Organ certyfikacji SSL</strong>: Certyfikat używany do identyfikacji organu certyfikacji &mdash; organizacji wydającej certyfikaty używane do identyfikacji użytkowników w&nbsp;sieciach komputerowych.</li>
     </ul>
   </li>
-  <li><strong>Issued To</strong>: Summarizes the following information about
-    the certificate:
+	<li><strong>Wystawiony dla</strong>: Sumaryczne informacje o&nbsp;certyfikacie:
     <ul>
-      <li><strong>Common Name</strong>: The name of the person or other entity
-        that the certificate identifies.</li>
-      <li><strong>Organization</strong>: The name of the organization to which
-        the entity belongs (such as the name of a company).</li>
-      <li><strong>Organizational Unit</strong>: The name of the organizational
-        unit to which the entity belongs (such as Accounting Department).</li>
-      <li><strong>Serial Number</strong>: The certificate&apos;s serial
-        number.</li>
+	    <li><strong>Nazwa certyfikatu</strong>: Nazwa użytkownika, którego identyfikuje certyfikat.</li>
+      <li><strong>Organizacja</strong>: Nazwa organizacji, do której należy właściciel certyfikatu (np. nazwa firmy, której jest użytkownik pracownikiem).</li>
+      <li><strong>Jednostka organizacyjna</strong>: Nazwa jednostki organizacyjnej, do której należy właściciel certyfikatu (np. Dział Informatyki).</li>
+      <li><strong>Numer seryjny</strong>: Numer seryjny certyfikatu.</li>
     </ul>
   </li>
-  <li><strong>Issued By</strong>: Summarizes information (similar to that
-    provided under <q>Issued To</q>; see above) about the certificate authority
-    (CA) that issued the  certificate.</li>
-  <li><strong>Validity</strong>: Indicates the period during which the
-    certificate is valid.</li>
-  <li><strong>Fingerprints</strong>: Lists the certificate&apos;s fingerprints.
-    A fingerprint is a unique number produced by applying a mathematical
-    function to the certificate contents. A certificate&apos;s fingerprint can
-    be used to verify  that the certificate has not been tampered with.</li>
+	<li><strong>Wystawiony przez</strong>: Sumaryczne informacje (podobne do tych podanych w&nbsp;sekcji "Wystawiony dla" powyżej) o&nbsp;organie certyfikacji, który wydał dany certyfikat.</li>
+	<li><strong>Ważność</strong>: Określa przedział czasu, podczas którego certyfikat jest ważny.</li>
+	<li><strong>Odciski</strong>: Pokazuje odciski certyfikatu. Odcisk jest unikalnym ciągiem cyfr tworzonym przez zastosowanie pewnej funkcji matematycznej do zawartości certyfikatu. Odcisk certyfikatu może być użyteczny przy sprawdzaniu, czy certyfikat nie został sfałszowany.</li>
 </ul>
 
-<h3 id="details_tab">Details Tab</h3>
+<h3 id="details_tab">Karta Szczegóły</h3>
 
-<p>Click the Details tab at the top of the Certificate Viewer to see more
-  detailed information about the selected certificate. To examine information
-  for any certificate in the Certificate Hierarchy area, select its name,
-  select the field under Certificate Fields that you want to examine, and
-  read the field&apos;s value under Field Value:</p>
+<p>Po wybraniu karty Szczegóły w&nbsp;oknie podglądu certyfikatu, pokażą się szczegółowe informacje o&nbsp;certyfikacie. Aby sprawdzić informacje dotyczące dowolnego certyfikatu w&nbsp;hierarchii, należy zaznaczyć jego nazwę, następnie interesującą pozycję w&nbsp;oknie Pola certyfikatu i&nbsp;odczytać jej zawartość w&nbsp;oknie Wartość pola:</p>
 
 <ul>
-  <li><strong>Certificate Hierarchy</strong>: Displays the certificate chain,
-    with the certificate you originally selected at the bottom. A certificate
-    chain is a hierarchical series of certificates signed by successive
-    certificate authorities (CAs). A CA certificate identifies a
-    <a href="glossary.xhtml#certificate_authority">certificate authority</a>
-    and is used to sign certificates issued by that authority. A CA certificate
-    can in turn be signed by the CA certificate of a parent CA and so on up to
-    a <a href="glossary.xhtml#root_ca">root CA</a>.</li>
-  <li><strong>Certificate Fields</strong>: Displays the fields of the
-    certificate selected under Certificate Hierarchy.</li>
-  <li><strong>Field Value</strong>: Displays the value of the field selected
-    under Certificate Fields.</li>
+	<li><strong>Hierarchia certyfikatu</strong>: W&nbsp;tej części okna podglądu certyfikatu pokazany jest łańcuch certyfikatów z&nbsp;zaznaczonym certyfikatem umieszczonym na samym dole.  Łańcuch certyfikatów jest hierarchicznym przedstawieniem certyfikatów podpisanych przez kolejne organy certyfikacji (ang. certificate authorities (CA)). Certyfikat organu certyfikacji identyfikuje <a href="glossary.html#certificate_authority">organ certyfikacji</a> i&nbsp;jest używany do podpisywania certyfikatów wydanych przez ten organ. Certyfikat organu wydającego bezpośrednio certyfikat użytkownika może być podpisany przez certyfikat organu nadrzędnego (ten z&nbsp;kolei może być podpisany przez certyfikat organu będącego w&nbsp;hierarchii nad nim, aż do certyfikatu <a href="glossary.html#root_CA">głównego organu certyfikacji</a>.</li>
+	<li><strong>Pola certyfikatu</strong>: Ta część okna pokazuje pola składające się na zawartość certyfikatu.</li>
+	<li><strong>Wartość pola</strong>: Ta część okna pokazuje zawartość zaznaczonego pola certyfikatu.</li>
 </ul>
 
-<p>The Certificate Viewer displays basic ANSI types in human-readable form
-  wherever possible. For fields whose contents the Certificate Manager cannot
-  interpret, it displays the actual values contained in the certificate.</p>
+<p>Okno podglądu certyfikatu (tam, gdzie jest to możliwe) pokazuje informacje o&nbsp;certyfikacie w&nbsp;formacie przyjaznym do odczytania przez użytkownika (w postaci znaków ANSI). Zawartość pól, które nie mogą zostać jednoznacznie zinterpretowane, jest pokazywana w&nbsp;takiej postaci, w&nbsp;jakiej jest zawarta w&nbsp;certyfikacie.</p>
 
-<h2 id="choose_security_device">Choose Security Device</h2>
+<h2 id="choose_security_device">Wybór urządzenia zabezpieczającego</h2>
 
-<p>A security device (sometimes called a token) is a hardware or software
-  device that provides cryptographic services such as encryption and decryption
-  and stores certificates and keys. The Choose Security Device window appears
-  when Certificate Manager needs help deciding which security device to use
-  when importing a certificate or performing a cryptographic operation, such as
-  generating keys for a new certificate. This window allows you to select one
-  of two or more security devices that Certificate Manager has detected on your
-  machine.</p>
+<p>Urządzenie zabezpieczające (zwane czasami tokenem) jest to sprzętowy lub programowy przyrząd, posiadający wbudowane procedury i&nbsp;usługi kryptograficzne, oraz przechowujący certyfikaty i&nbsp;klucze kryptograficzne użytkownika. Okno wyboru urządzenia zabezpieczającego pojawia się na ekranie w&nbsp;momencie, kiedy Menedżer certyfikatów musi wybrać, które z&nbsp;obecnych w&nbsp;systemie urządzeń ma zostać użyte przy wykonywaniu operacji związanych z&nbsp;obsługą certyfikatów, lub inną czynnością kryptograficzną (jak generacja kluczy nowego certyfikatu). To okno umożliwia użytkownikowi zaznaczenie jednego z&nbsp;dwóch lub więcej urządzeń zabezpieczających obecnych w&nbsp;systemie i&nbsp;pracę z&nbsp;wybranym urządzeniem.</p>
 
-<p>A smart card is one example of a security device. For example, if a smart
-  card reader connected to your computer has a smart card inserted in it, the
-  name of the smart card will show up in the drop-down menu. In this case, you
-  must choose the name of the smart card from the menu to let Certificate
-  Manager know that you want to use it.</p>
+<p>Jednym z&nbsp;przykładów urządzenia zabezpieczającego jest karta inteligentna. Przykładowo, gdy czytnik kart podłączony do komputera posiada włożoną kartę inteligentną, jej nazwa będzie pokazywana na rozwijanej liście urządzeń zabezpieczających. Aby skorzystać z&nbsp;karty, użytkownik musi wybrać z&nbsp;listy dostępnych urządzeń jej nazwę.</p>
 
-<p>The Certificate Manager also supplies its own default, built-in security
-  device, which can always be used no matter what additional devices are or
-  aren&apos;t available.</p>
+<p>Menedżer certyfikatów posiada swoje własne (wbudowane) urządzenie zabezpieczające, które może być używane zawsze, niezależnie od dostępności dodatkowych urządzeń instalowanych przez użytkownika.</p>
 
-<h2 id="encryption_key_copy">Encryption Key Copy</h2>
+<h2 id="encryption_key_copy">Kopia klucza szyfrującego</h2>
 
-<p><a href="glossary.xhtml#certificate_authority">Certificate authorities (CAs)</a>
-  that issue separate signing and encryption email certificates typically make
-  backup copies of your private
-  <a href="glossary.xhtml#encryption_key">encryption key</a> during the
-  certificate enrollment process.</p>
+<p>Te <a href="glossary.html#certificate_authority">organy certyfikacji (CA)</a>, które wydają oddzielne certyfikaty do podpisywania i&nbsp;szyfrowania poczty elektronicznej, zwykle tworzą kopie zapasowe prywatnych <a href="glossary.html#encryption_key">kluczy szyfrujących</a> użytkownika podczas procesu wystawiania certyfikatu.</p>
 
-<p>The Encryption Key Copy dialog box allows you to approve the creation of
-  such a backup or cancel the certificate request. A CA that has archived a
-  backup copy of your encryption key has the potential capability of
-  decrypting any messages you receive that were encrypted with your
-  corresponding public key.</p>
+<p>Okno dialogowe tworzenia kopii klucza szyfrującego umożliwia zatwierdzenie chęci utworzenia takiej kopii, lub anulowanie żądania wydania certyfikatu. Organ certyfikacji, który posiada kopię klucza prywatnego użytkownika, posiada również potencjalną możliwość odszyfrowywania zaszyfrowanej przy pomocy tego klucza korespondencji skierowanej do właściciela certyfikatu.</p>
 
-<p>You can take these actions from the Encryption Key Copy dialog box:</p>
+<p>Z&nbsp;okna dialogowego tworzenia kopii klucza prywatnego istnieje możliwość podjęcia następujących czynności:</p>
 
 <ul>
-  <li><strong>View Certificate</strong>: To view the certificate identifying
-    the CA that is requesting the backup copy, click View Certificate.</li>
-  <li><strong>OK</strong>: If you trust the CA identified by the CA certificate
-    to decrypt encrypted messages that you receive, click OK.
-
-    <p>If you are not sure whether to trust the CA that is requesting the
-      backup copy, talk to your system administrator.</p>
-  </li>
-  <li><strong>Cancel</strong>: If you don&apos;t trust the CA that is
-    requesting the backup copy, don&apos;t request a certificate from it. Click
-    Cancel to stop both the backup procedure and the request for a
-    certificate.</li>
+  <li><strong>Podgląd certyfikatu</strong>: Ten przycisk należy nacisnąć, aby uzyskać podgląd certyfikatu identyfikującego organ certyfikacji, który żąda wykonania kopii klucza prywatnego.</li>
+  <li><strong>OK</strong>: Jeżeli organ certyfikacji, który został zidentyfikowany przy pomocy jego certyfikatu, jest dla użytkownika zaufany, należy nacisnąć przycisk OK. Po naciśnięciu przycisku rozpocznie się proces tworzenia kopii klucza prywatnego.
+	
+    <p>Przy niepewności co do zaufania organowi certyfikacji, który żąda utworzenia kopii klucza, należy zwrócić się o&nbsp;pomoc do administratora systemu.</p>
+	</li>
+	<li><strong>Anuluj</strong>: Jeżeli organ certyfikacji żądający wykonania kopii klucza prywatnego nie jest wystarczająco zaufany, nie należy żądać wydania przezeń certyfikatu. Naciśnięcie przycisku Anuluj spowoduje przerwanie zarówno procesu wykonywania kopii klucza prywatnego, jak i&nbsp;procesu tworzenia certyfikatu.</li>
 </ul>
 
-<p>After your CA makes a backup copy of the encryption key, you will be able to
-  use that key to access your encrypted mail even if you lose your password or
-  lose your own copy of the key. If no backup copy of your encryption key
-  exists and you lose your password or the key, you will have no way of reading
-  email messages that were encrypted with that key.</p>
+<p>Po utworzeniu kopii klucza prywatnego przez organ certyfikacji, użytkownik będzie w&nbsp;stanie używać tego klucza do odczytu własnej zaszyfrowanej korespondencji nawet w&nbsp;przypadku zapomnienia hasła do klucza lub utraty własnej kopii klucza. Jeżeli nie będzie istnieć żadna kopia klucza prywatnego, a&nbsp;użytkownik zapomni hasło lub utraci swój klucz, nie będzie miał możliwości czytania korespondencji, która została zaszyfrowana przy użyciu takiego klucza.</p>
 
-<h2 id="certificate_backup">Certificate Backup</h2>
+<h2 id="certificate_backup">Kopia zapasowa certyfikatu</h2>
 
-<p>When you receive a certificate, make a backup copy of the certificate and
-  its private key, then store the copy in a safe place. For example, you can
-  put the copy on a floppy disk and store it with other valuable items under
-  lock and key. That way, even if you have hard disk or file corruption
-  problems, you can easily restore the certificate.</p>
+<p>Po uzyskaniu certyfikatu należy wykonać kopię zapasową samego certyfikatu, jak i&nbsp;powiązanego z&nbsp;nim klucza prywatnego. Kopię tę należy przechowywać w&nbsp;bezpiecznym miejscu. Przykładowo, można ją umieścić na dyskietce, która następnie będzie przechowywana w&nbsp;bezpiecznym i&nbsp;zamkniętym miejscu. Tym sposobem, nawet w&nbsp;przypadku utraty certyfikatu z&nbsp;powodu problemów z&nbsp;dyskiem twardym komputera lub plikiem certyfikatu, będzie można bez problemów odzyskać certyfikat.</p>
 
-<p>It can be inconvenient, at best, and in some situations catastrophic to lose
-  your certificate and its associated private key, depending on what you use it
-  for. For example:</p>
+<p>Utrata certyfikatu może stanowić dużą uciążliwość dla jego właściciela, a&nbsp;w niektórych wypadkach może okazać się czynnością katastrofalną w&nbsp;skutkach (w zależności od celów używania certyfikatu). Przykładowo:</p>
 
 <ul>
-  <li>If you lose a certificate that identifies you to important websites, you
-    will not be able to access those websites until you obtain a new
-    certificate. </li>
-  <li>If you lose a certificate used to encrypt email messages, you will not
-    be able to read any of your encrypted email&mdash;including both encrypted
-    messages that you have sent and encrypted messages that you have received.
-    In this case, if you cannot obtain a backup of the private encryption key
-    associated with the certificate, you will never be able to read any of the
-    messages encrypted with that key.</li>
+	<li>Po utracie certyfikatu identyfikującego użytkownika na ważnych stronach WWW, nie będzie on posiadał prawa dostępu do tych stron do momentu uzyskania nowego certyfikatu.</li>
+	<li>Po utracie certyfikatu używanego do szyfrowania elektronicznej korespondencji, nie będzie istniała możliwość odczytu tej korespondencji &mdash; zarówno wysłanej, jak i&nbsp;odebranej. W&nbsp;tym przypadku, jeśli użytkownik nie odzyska certyfikatu i&nbsp;powiązanego z&nbsp;nim klucza prywatnego z&nbsp;kopii zapasowej, nie będzie w&nbsp;stanie nigdy odczytać żadnej korespondencji zaszyfrowanej przy użyciu tego klucza.</li>
 </ul>
 
-<p>Like any other valuable data, certificates should be backed up to avoid
-  future trouble and expense. Do it now so you don&apos;t forget.</p>
+<p>Jak wszelkie inne cenne dane, również certyfikat powinien mieć utworzoną kopię bezpieczeństwa. Nie należy o&nbsp;tym zapominać.</p>
 
-<h2 id="user_identification_request">User Identification Request</h2>
+<h2 id="user_identification_request">Żądanie identyfikacji użytkownika</h2>
 
-<p>Some websites require that you identify yourself with a certificate rather
-  than a name and password, because certificates provide a more reliable form
-  of identification. This method of identifying yourself over the Internet is
-  sometimes called
-  <a href="glossary.xhtml#client_authentication">client authentication</a>.</p>
+<p>Certyfikat jest bardzo wiarygodną metodą identyfikacji. Z&nbsp;tego też powodu niektóre witryny internetowe żądają przy identyfikacji użytkownika jego certyfikatu zamiast standardowej pary użytkownik i&nbsp;hasło. Taka metoda identyfikacji jest czasami zwana <a href="glossary.html#client_authentication">autoryzacją klienta</a>.</p>
 
-<p>However, Certificate Manager may have more than one certificate on file that
-  can be used for the purposes of identifying yourself to a website. In this
-  case, Certificate Manager presents the User Identification Request dialog
-  box, which displays two kinds of information:</p>
+<p>Jak wiadomo, jeden użytkownik może posiadać w&nbsp;Menedżerze certyfikatów więcej niż jeden certyfikat służący jego identyfikacji w&nbsp;Internecie. W&nbsp;takim przypadku, Menedżer certyfikatów wyświetli okno dialogowe Żądanie identyfikacji użytkownika, zawierające dwa rodzaje informacji:</p>
 
-<p><strong>This site has requested that you identify yourself with a
-  certificate</strong>: This section of the dialog box lists the following
-  information:</p>
+<p><strong>Witryna zażądała identyfikacji użytkownika za pomocą certyfikatu</strong>: Ta część okna dialogowego pokazuje następujące informacje:</p>
 
 <ul>
-  <li><strong>Host name</strong>: The name of the server requesting
-    identification, used as part of its URL. For example, the host name for the
-    Netscape website is <tt>home.netscape.com</tt>.</li>
-  <li><strong>Organization</strong>: The name of the organization that runs the
-    web site.</li>
-  <li><strong>Issued under</strong>: The name of the
-    <a href="glossary.xhtml#certificate_authority">certificate authority (CA)</a>
-    that issued the certificate.</li>
+		<li><strong>Nazwa hosta (serwera)</strong>: Nazwa serwera żądającego identyfikacji użytkownika, pokazywana jako część jego adresu URL. Przykładowo, nazwą hosta witryny firmy Netscape jest <tt>home.netscape.com</tt>.</li>
+		<li><strong>Organizacja</strong>: Nazwa organizacji, która zarządza witryną WWW.</li>
+		<li><strong>Wydany przez</strong>: Nazwa <a href="glossary.html#certificate_authority">organu certyfikacji (CA)</a>, który wydał certyfikat.</li>
 </ul>
 
-<p><strong>Choose a certificate to present as identification</strong>: The
-  certificates you have available for the purposes of identifying yourself to a
-  website are listed in the drop-down list in this section of the dialog box.
-  Choose the certificate that seems most likely to be recognized by the website
-  you want to visit.</p>
+<p><strong>Wybierz certyfikat do użycia</strong>: Certyfikaty posiadane przez użytkownika przeznaczone do jego identyfikacji na stronach WWW, są umieszczone w&nbsp;tej części okna dialogowego na rozwijanej liście wyboru. Z&nbsp;niej należy wybrać ten certyfikat, który wydaje się najbardziej pasującym do odwiedzanej witryny.</p>
 
-<p>To help you decide, the following details of the selected certificate are
-  displayed:</p>
+<p>Aby pomóc w&nbsp;wyborze właściwego certyfikatu, wyświetlane są poniższe szczegóły dotyczące zaznaczonego certyfikatu:</p>
 
 <ul>
-  <li><strong>Issued to</strong>: Lists information about the person identified
-    by the certificate (for example, your name and email address) and the
-    certificate&apos;s serial number and validity dates.</li>
-  <li><strong>Issued by</strong>: Summarizes information about the CA that
-    issued the certificate, such as its name, location, and state.</li>
+		<li><strong>Wystawiony dla</strong>: Pokazuje informacje o&nbsp;osobie, którą certyfikat identyfikuje (przykładowo nazwisko i&nbsp;adres poczty elektronicznej tej osoby), a&nbsp;także numer seryjny certyfikatu i&nbsp;daty jego ważności.</li>
+		<li><strong>Wystawiony przez</strong>: Pokazuje skrócone informacje o&nbsp;organie certyfikacji, który wydał certyfikat (nazwa organu, jego lokalizacja geograficzna).</li>
 </ul>
 
-<h2 id="new_certificate_authority">New Certificate Authority</h2>
+<h2 id="new_certificate_authority">Nowy organ certyfikacji</h2>
 
-<p>The certificates that the Certificate Manager has on file, whether stored on
-  your computer or on an external security device such as a smart card, include
-  certificates that identify
-  <a href="glossary.xhtml#certificate_authority">certificate authorities (CAs)</a>.
-  To be able to recognize any other certificates it has on file, Certificate
-  Manager must have certificates for the CAs that issued or authorized issuance
-  of those certificates.</p>
+<p>Certyfikat, który jest w&nbsp;posiadaniu Menedżera certyfikatów w&nbsp;postaci pliku (niezależnie od miejsca jego przechowywania &mdash; dysk twardy komputera, lub zewnętrzne urządzenie zabezpieczające), zawiera certyfikaty identyfikujące <a href="glossary.html#certificate_authority">organy certyfikacji (CA)</a>. Aby móc rozpoznawać wszystkie certyfikaty ze swojej bazy, Menedżer certyfikatów musi posiadać certyfikaty organów certyfikacji, które wydały lub autoryzowały wydanie tych certyfikatów.</p>
 
-<p>When you decide to trust a CA, Certificate Manager downloads that CA&apos;s
-  certificate and can then recognize the kinds of certificates you trust that
-  CA to issue.</p>
+<p>Gdy użytkownik zadecyduje o&nbsp;zakwalifikowaniu danego organu certyfikacji do organów zaufanych, Menedżer certyfikatów pobiera certyfikat takiego organu i&nbsp;od tej pory jest w&nbsp;stanie poprawnie rozpoznawać te rodzaje certyfikatów, które zostały wybrane w&nbsp;momencie ustawiania stopnia zaufania organu.</p>
 
-<p>Before downloading a new CA certificate, Certificate Manager allows you to
-  specify the purposes for which you trust the certificate, if at all. You can
-  select any of the following options:</p>
+<p>Przed pobraniem nowego certyfikatu organu certyfikacji, Menedżer certyfikatów umożliwia określenie rodzajów certyfikatów wydawanych przez organ, które należy uznać za zaufane. Istnieje możliwość wyboru każdej opcji z&nbsp;poniższej listy:</p>
 
 <ul>
-  <li><strong>Trust this CA to identify websites</strong>: Website certificates
-    for some sites, such as those that handle financial transactions, can be
-    extremely important, and inappropriate or false identification can have
-    negative consequences.</li>
-  <li><strong>Trust this CA to identify email users</strong>: If you intend to
-    send email users confidential information in encrypted form, or if accurate
-    identification of email users is important to you for any other reason, you
-    should consider carefully the CA&apos;s procedures for identifying
-    prospective certificate owners and whether they are appropriate for your
-    purposes before selecting this option.</li>
-  <li><strong>Trust this CA to identify software developers</strong>: Selecting
-    this option means that you trust the CA to issue certificates that identify
-    the origin of Java applets and JavaScript scripts requesting special access
-    to your computer, such as the ability to change files. Since such access
-    privileges can be misused, for example to destroy data stored on your hard
-    disk, be very careful about selecting this option unless you are certain
-    that you trust the CA for this purpose.</li>
+	<li><strong>Zaufaj temu CA&nbsp;przy identyfikacji witryn internetowych</strong>: Certyfikaty niektórych witryn WWW&nbsp;(na przykład prowadzących działalność finansową) mogą mieć szczególne znaczenie z&nbsp;punktu widzenia bezpieczeństwa transakcji i&nbsp;każda niepoprawna lub fałszywa identyfikacja witryny może mieć poważne negatywne konsekwencje dla użytkownika.</li>
+	<li><strong>Zaufaj temu CA&nbsp;przy identyfikacji użytkowników poczty</strong>: Jeżeli użytkownik zamierza wysyłać poufne wiadomości przy pomocy poczty elektronicznej lub, gdy z&nbsp;jakiś powodów jest dla niego istotna dokładność identyfikacji swych korespondentów, powinien przed zaznaczeniem tej opcji szczegółowo zapoznać się z&nbsp;procedurami organów certyfikacji dotyczącymi identyfikacji przyszłych posiadaczy certyfikatów i&nbsp;zdecydować, czy są one dla niego odpowiednie).</li>
+	<li><strong>Zaufaj temu CA&nbsp;przy identyfikacji twórców oprogramowania</strong>: Zaznaczenie tej opcji oznacza, że użytkownik zakłada odpowiedni poziom zaufania dla organu certyfikacji, który może wydawać certyfikaty identyfikujące pochodzenie apletów języka Java i&nbsp;skryptów języka JavaScript żądających wyjątkowego dostępu do jego komputera (jak np. możliwość zmiany plików). Ponieważ taki tryb dostępu do danych może być używany w&nbsp;celach niepożądanych (przykładowo może doprowadzić do skasowania danych znajdujących się na dysku twardym), należy podjąć decyzję o&nbsp;zaznaczeniu tej opcji z&nbsp;zachowaniem szczególnej uwagi.</li>
 </ul>
 
-<p>Before you decide to trust a new CA, make sure that you know who is
-  operating it. Make sure the CA&apos;s policies and procedures are
-  appropriate for the kinds of certificates it issues. For example, if the CA
-  issues certificates identifying websites you use for financial transactions,
-  make sure you are comfortable with the level of assurance the CA
-  provides.</p>
+<p>Zanim zostanie podjęta decyzja o&nbsp;zaufaniu nowemu organowi certyfikacji, należy upewnić się, kto jest właścicielem i&nbsp;operatorem organu. Należy upewnić się, czy polityka i&nbsp;procedury organu są odpowiednie dla tych rodzajów certyfikatów, które organ wydaje. Przykładowo, jeżeli organ wydaje certyfikaty identyfikujące witryny WWW&nbsp;używane do transakcji finansowych, należy upewnić się, że poziom bezpieczeństwa zapewniany przez organ jest dla użytkownika wystarczający.</p>
 
 <ul>
-  <li><strong>View</strong>: Click this button to view the CA certificate you
-    are about to download. If you decide you don&apos;t want to download this
-    certificate, click Cancel.</li>
+	<li><strong>Wyświetl</strong>: Naciśnięcie tego przycisku wywołuje okno z&nbsp;podglądem certyfikatu dodawanego środka certyfikacji. Jeżeli zdecydowano o&nbsp;niepobieraniu certyfikatu, należy nacisnąć przycisk Anuluj.</li>
 </ul>
 
-<h2 id="web_site_certificates">Website Certificates</h2>
+<h2 id="web_site_certificates">Certyfikaty witryn WWW</h2>
 
-<p>When you attempt to go to a website that supports the use of
-  <a href="glossary.xhtml#ssl">SSL</a> for
-  <a href="glossary.xhtml#authentication">authentication</a> and
-  <a href="glossary.xhtml#encryption">encryption</a>, you may be faced with an
-  error page. There are two types, one called
-  <a href="#secure_connection_failed_page">Secure Connection Failed</a> and one
-  called <a href="#untrusted_connection_page">Untrusted Connection</a>.</p>
+<p>Jedno z&nbsp;okien opisanych poniżej może się pojawić przy próbie dostępu do witryny WWW&nbsp;obsługującej protokół <a href="glossary.html#Secure_Sockets_Layer">SSL</a> dla celów <a href="glossary.html#authentication">autoryzacji</a> użytkownika i&nbsp;<a href="glossary.html#encryption">szyfrowania</a> przesyłu danych.</p>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
-    <li><a href="#secure_connection_failed_page">Secure Connection Failed
-      Page</a></li>
-    <li><a href="#untrusted_connection_page">Untrusted Connection Page</a></li>
-    <li><a href="#secure_connection_failed_dialog">Secure Connection Failed
-      Dialog</a></li>
-    <li><a href="#certificate_expired">Server Certificate Expired</a></li>
-    <li><a href="#certificate_not_yet_valid">Server Certificate Not Yet
-      Valid</a></li>
-    <li><a href="#domain_name_mismatch">Domain Name Mismatch</a></li>
+    <li><a href="#web_site_certified_by_an_unknown_authority">Witryna WWW&nbsp;certyfikowana przez nieznany organ certyfikacji</a></li>
+    <li><a href="#server_certificate_expired">Wygasły certyfikat serwera</a></li>
+    <li><a href="#server_certificate_not_yet_valid">Jeszcze nieważny certyfikat serwera</a></li>
+    <li><a href="#domain_name_mismatch">Niezgodność nazw domen</a></li>
   </ul>
 </div>
 
-<h3 id="secure_connection_failed_page">Secure Connection Failed Page</h3>
+<h3 id="web_site_certified_by_an_unknown_authority">Witryna WWW&nbsp;certyfikowana przez nieznany organ certyfikacji</h3>
 
-<p>In the case where you have disabled the SSL protocol (e.g. through
-  <a href="ssl_help.xhtml#ssl_settings">SSL Settings</a>) or the site that you
-  are accessing is using an older, insecure version of the SSL protocol then you
-  will be presented with a page titled &quot;Secure Connection Failed&quot;.
-  That page contains some basic background information (including the
-  <strong>Error code</strong> that uniquely identifies the type of problem
-  &brandShortName; detected with the site) and a <strong>Try Again</strong>
-  button that triggers a page reload.</p>
-
-<h3 id="untrusted_connection_page">Untrusted Connection Page</h3>
-
-<p>If SSL itself is enabled then the error page that you will be presented with
-  will be titled &quot;This Connection is Untrusted&quot;. There are many
-  different reasons why a connection can appear untrusted. Here are some of the
-  most common ones:</p>
+<p>Wiele witryn WWW&nbsp;używa certyfikatów do własnej identyfikacji w&nbsp;sieci. Jeżeli Menedżer certyfikatów nie rozpozna <a href="glossary.html#certificate_authority">organu certyfikacji (CA)</a>, który wystawił certyfikat witryny, wyświetli ostrzeżenie umożliwiające analizę certyfikatu i&nbsp;podjęcie decyzji o&nbsp;dalszych czynnościach.</p>
 
 <ul>
-  <li>the certificate of the website is <a href="#certificate_expired">no longer
-    valid (expired)</a></li>
-  <li>the certificate of the website is
-    <a href="#certificate_not_yet_valid">not yet valid</a></li>
-  <li>the certificate of the website is only valid for another site
-    (<a href="#domain_name_mismatch">domain name mismatch</a>)</li>
-  <li>the certificate of the website is self-signed (thus the identity of the
-    website cannot be verified).</li>
-  <li>the issuer certificate is not trusted (&brandShortName; cannot
-    verify the identity of the website because it doesn&apos;t
-    recognize the <a href="glossary.xhtml#certificate_authority">certificate
-    authority (CA)</a> that issued the website&apos;s certificate)</li>
+	<li><strong>Sprawdź certyfikat</strong>: Naciśnięcie tego przycisku powoduje wyświetlenie okna z&nbsp;podglądem certyfikatu witryny.</li>
 </ul>
 
-<p>The page displayed in the above cases is meant to help you understand why
-  &brandShortName; was unable to establish a secure connection to the website.
-  It starts by telling you that the site&apos;s identity could not be verified,
-  then offers you to leave the page by clicking the <strong>This sounds bad,
-  take me to my home page instead</strong> button. If you are unsure what to do
-  it is recommended that you follow this advice.</p>
+<p>W&nbsp;oknie ostrzeżenia można wybrać jedną z&nbsp;następujących opcji:</p>
 
-<p>If you want to know a little bit more about the actual problem at hand you
-  may expand the corresponding section by clicking the chevron in front of
-  <strong>Technical Details</strong>. That section also contains the
-  <strong>Error code</strong> that uniquely identifies the type of problem
-  &brandShortName; detected with the site.</p>
+<ul>
+	<li><strong>Zaakceptuj ten certyfikat na stałe</strong>: Zaznaczenie tej opcji powoduje akceptację certyfikatu witryny pomimo widocznego na ekranie problemu i&nbsp;połączenie z&nbsp;witryną. Menedżer certyfikatów będzie rozpoznawał certyfikat jako wiarygodny do czasu jego wygaśnięcia.</li>
+	<li><strong>Zaakceptuj ten certyfikat tymczasowo, na okres trwania bieżącej sesji</strong>: Zaznaczenie tej opcji powoduje jednorazowe zaakceptowanie certyfikatu i&nbsp;połączenie z&nbsp;witryną. Menedżer certyfikatów będzie rozpoznawał certyfikat jako wiarygodny tylko do następnego uruchomienia przeglądarki. Użytkownik może zobaczyć powtórnie ostrzeżenie przy następnej próbie połączenia się z&nbsp;witryną.</li>
+	<li><strong>Zalecane jest odmówienie akceptacji tego certyfikatu oraz przerwanie połączenia z&nbsp;tą witryną</strong>: Zaznaczenie tej opcji powoduje przerwanie połączenia z&nbsp;witryną. Takie postępowanie jest zalecane przykładowo przy wykonywaniu przy pomocy witryny operacji finansowych. W&nbsp;takim przypadku przed podjęciem dalszych operacji, użytkownik powinien skontaktować się z&nbsp;administratorem organizacji, która zarządza witryną i&nbsp;upewnić się, że certyfikat witryny jest ważny.</li>
+</ul>
 
-<h4 id="add_security_exception">Adding a Security Exception</h4>
+<p>Naciśnięcie przycisku OK potwierdza dokonany wybór. Naciśnięcie przycisku Anuluj powoduje uznanie certyfikatu za niewiarygodny i&nbsp;anulowanie połączenia z&nbsp;witryną.</p>
 
-<p>The <strong>I Understand the Risks</strong> section of the Untrusted
-  Connection page allows you to tell &brandShortName; to explicitly override the
-  security checks for this site by adding an exception. If you expand the
-  section by clicking the chevron in front of it you will see an <strong>Add
-  Exception</strong> button that will take you to a dialog allowing you to get
-  and view the website&apos;s certificate and optionally add a Security
-  Exception for it (either permanently or just for the current session). Those
-  exceptions can be administered through the Certificate Manager&apos;s
-  <a href="certs_help.xhtml#servers">Servers</a> tab.</p>
+<p><strong>Ważna uwaga dla administratorów serwerów</strong>: To ostrzeżenie może zostać wywołane przez niepoprawnie skonfigurowany serwer WWW. Aby sprawdzić, czy tak jest w&nbsp;danym przypadku, administrator lub opiekun witryny WWW&nbsp;powinien sprawdzić stan żądanego pośredniego organu certyfikacji i&nbsp;&mdash; w&nbsp;razie potrzeby &mdash; zainstalować brakujący certyfikat.</p>
 
-<h3 id="secure_connection_failed_dialog">Secure Connection Failed Dialog</h3>
+<p>Jeżeli użytkownik w&nbsp;związku z&nbsp;tym ostrzeżeniem zdecyduje się na kontakt z&nbsp;administratorem lub opiekunem witryny WWW, powinien w&nbsp;swojej informacji zawrzeć następujące informacje:</p>
 
-<p>In cases where &brandShortName; cannot determine the actual cause of the
-  problem a dialog titled &quot;Secure Connection Failed&quot; is shown in
-  addition to the <a href="#untrusted_connection_page">Untrusted Connection
-  page</a>. That dialog includes a <strong>View Certificate</strong> button
-  that allows you to examine the website&apos;s certificate more closely.</p>
+<ul>
+  <li>Administrator serwera może pobrać więcej informacji o&nbsp;pośrednich organach certyfikacji z&nbsp;następującej lokalizacji: "<a href="http://knowledge.verisign.com/search/solution.jsp?id=vs2119">What is the purpose of the Intermediate CA certificate?</a> (witryna w języku angielskim).</li>
+  <li>Jeżeli serwer używa certyfikatu wystawionego przez organizację VeriSign, administrator może pobrać odpowiedni certyfikat z&nbsp;następującej lokalizacji: <a href="http://www.verisign.com/support/ssl-certificates-support/install-ssl-certificate.html">SSL Certificates Support</a> (witryna w języku angielskim).</li>
+</ul>
 
-<h3 id="certificate_expired">Certificate Expired</h3>
+<p><strong>Użytkownicy zaawansowani</strong>: By mieć pewność, że Menedżer certyfikatów traktuje wszystkie certyfikaty wystawione przez organ certyfikacji jako zaufane, można poddać edycji ustawienia poziomu zaufania dla danego certyfikatu organu certyfikacji. Aby to uczynić, należy wykonać poniższe czynności:</p>
 
-<p>Like a credit card, a driver&apos;s license, and many other forms of
-  identification, a <a href="glossary.xhtml#certificate">certificate</a> is
-  valid for a specified period of time. When a certificate expires, the owner
-  of the certificate needs to get a new one.</p>
+<ol>
+   <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+	 <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Certyfikaty. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
+   <li>Nacisnąć przycisk Menedżer certyfikatów.</li>
+   <li>Wybrać kartę Organy certyfikacji.</li>
+   <li>Zaznaczyć certyfikat tego organu, dla którego poziom zaufania ma zostać poddany edycji.</li>
+   <li>Nacisnąć przycisk Edytuj i&nbsp;zaznaczyć właściwe ustawienia zaufania.</li>
+</ol>
 
-<p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you
-  attempt to visit a website whose server certificate has expired. The first
-  thing you should do is make sure the time and date displayed by your computer
-  is correct. If your computer&apos;s clock is set to a date that is after the
-  expiration date, &brandShortName; treats the website&apos;s certificate as
-  expired.</p>
+<h3 id="server_certificate_expired">Wygasły certyfikat serwera</h3>
 
-<p>If your computer&apos;s clock is set correctly, you need to make a decision
-  about whether to trust the site. This decision depends on what you intend to
-  do at the site and what else you know about it. Most commercial sites will
-  make sure that they replace their certificates before they expire. If you
-  choose to continue you need to <a href="#add_security_exception">add a
-  security exception</a>.</p>
+<p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.html#certificate">certyfikat</a> jest ważny przez określony okres czasu. Po wygaśnięciu certyfikatu użytkownik musi sobie wyrobić nowy.</p>
 
-<h3 id="certificate_not_yet_valid">Certificate Not Yet Valid</h3>
+<p>Menedżer certyfikatów ostrzega użytkownika przed próbą dostępu do witryny WWW, której certyfikat wygasł. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na datę późniejszą niż data wygaśnięcia certyfikatu, Menedżer certyfikatów będzie traktować certyfikat jako wygasły.</p>
 
-<p>Like a credit card, a driver&apos;s license, and many other forms of
-  identification, a <a href="glossary.xhtml#certificate">certificate</a> is
-  valid for a specified period of time.</p>
+<p>Jeżeli zegar komputera jest ustawiony poprawnie, do użytkownika należy decyzja o&nbsp;zaufaniu okazanym danej witrynie. Taka decyzja może zależeć od tego, jakie czynności chce się wykonywać na witrynie, czy też, czy witryna jest użytkownikowi znana i&nbsp;zaufana. Większość stron komercyjnych uaktualnia swoje certyfikaty przed ich wygaśnięciem.</p>
 
-<p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you
-  attempt to visit a website whose server certificate&apos;s validity period has
-  not yet started. The first thing you should do is make sure the time and date
-  displayed by your own computer is correct. If your computer&apos;s clock is
-  set to the wrong date, &brandShortName; may treat the server certificate as
-  not yet valid even if this is not the case.</p>
+<p>Z&nbsp;okna dialogowego informującego o&nbsp;wygaśnięciu certyfikatu można wykonać następujące czynności:</p>
 
-<p>If your computer&apos;s clock is set correctly, you need to make a decision
-  about whether to trust the site. This decision depends on what you intend to
-  do at the site and what else you know about it. Most commercial sites will
-  make sure that the validity period for their certificates has begun before
-  beginning to use them. If you choose to continue you need to
-  <a href="#add_security_exception">add a security exception</a>.</p>
+<ul>
+  <li><strong>Pokaż certyfikat</strong>: Naciśnięcie tego przycisku wywoła okno z&nbsp;podglądem certyfikatu, gdzie istnieje możliwość sprawdzenia jego daty ważności.</li>
+  <li><strong>OK</strong>: Jeżeli użytkownik posiada powody do uznania, że wygaśnięcie certyfikatu jest nieumyślnym błędem, może nacisnąć przycisk OK i&nbsp;zaakceptować mimo ostrzeżenia certyfikat na czas trwania bieżącej sesji. Jednakże powinien poinformować osobę odpowiedzialną za działanie witryny o&nbsp;napotkanym problemie.
 
-<h3 id="domain_name_mismatch">Domain Name Mismatch</h3>
+	  <p>Należy w&nbsp;takim przypadku być szczególnie ostrożnym w&nbsp;wykonywaniu wszelkich czynności na tej witrynie.</p>
+	</li>
+  <li><strong>Anuluj</strong>: Jeżeli użytkownik podejrzewa, że źródłem ostrzeżenia może być istotny problem po stronie witryny i&nbsp;nie chce ryzykować odwiedzin na tej stronie, powinien nacisnąć przycisk Anuluj (co spowoduje, niepołączenie się z&nbsp;witryną).</li>
+</ul>
 
-<p>A server <a href="glossary.xhtml#certificate">certificate</a> specifies the
-  name of the server in the form of the site&apos;s domain name. For example,
-  the domain name for the Mozilla website is <tt>www.mozilla.org</tt>. If the
-  domain name in a server&apos;s certificate doesn&apos;t match the actual
-  domain name of the website, it may be a sign that someone is attempting to
-  intercept your communication with the website.</p>
+<h3 id="server_certificate_not_yet_valid">Jeszcze nieważny certyfikat serwera</h3>
 
-<p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you
-  attempt to visit a website whose server certificate&apos;s domain does not
-  match the domain of the website you are trying to visit. The decision whether
-  to trust the site anyway depends on what you intend to do at the site and what
-  else you know about it. Most commercial sites will make sure that the host
-  name for a website certificate matches the website&apos;s actual host name.
-  If you choose to continue you need to <a href="#add_security_exception">add
-  a security exception</a>.</p>
+<p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.html#certificate">certyfikat</a> jest ważny przez określony okres czasu.</p>
 
-<p>If you decide to accept the certificate anyway (either for this session or
-  permanently), you should be cautious about what you do on the website, and you
-  should treat any information you find there as potentially suspect.</p>
+<p>Menedżer certyfikatów ostrzega użytkownika przed próbą dostępu do witryny WWW, której certyfikat jest jeszcze nieważny. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na niewłaściwą datę, Menedżer certyfikatów może traktować certyfikat jako jeszcze nieważny, nawet jeśli tak nie jest w&nbsp;danym konkretnym przypadku.</p>
+
+<p>Jeżeli zegar komputera jest ustawiony poprawnie, do użytkownika należy decyzja o&nbsp;zaufaniu okazanym danej witrynie. Taka decyzja może zależeć od tego, jakie czynności chce się wykonywać na witrynie, czy też, czy witryna jest użytkownikowi znana i&nbsp;zaufana. Większość stron komercyjnych nie udostępnia swoich certyfikatów z&nbsp;datą początku ważności wybiegającą w&nbsp;przyszłość.</p>
+
+<p>Z&nbsp;okna dialogowego informującego o&nbsp;tym, że certyfikat nie jest jeszcze ważny można wykonać następujące czynności:</p>
+
+<ul>
+  <li><strong>Pokaż certyfikat</strong>: Naciśnięcie tego przycisku wywoła okno dialogowe z&nbsp;podglądem certyfikatu, w&nbsp;którym istnieje możliwość sprawdzenia jego okresu ważności.</li>
+  <li><strong>OK</strong>: Jeżeli użytkownik posiada powody do uznania, że ostrzeżenie jest nieumyślnym błędem, może nacisnąć przycisk OK i&nbsp;zaakceptować mimo ostrzeżenia certyfikat na czas trwania bieżącej sesji. Jednakże powinien poinformować osobę odpowiedzialną za działanie witryny o&nbsp;napotkanym problemie.
+	
+    <p>Należy w&nbsp;takim przypadku być szczególnie ostrożnym w&nbsp;wykonywaniu wszelkich czynności na tej witrynie.</p>
+	</li>
+  <li><strong>Anuluj</strong>: Jeżeli użytkownik podejrzewa, że źródłem ostrzeżenia może być istotny problem po stronie witryny i&nbsp;nie chce ryzykować odwiedzin na tej stronie, powinien nacisnąć przycisk Anuluj (co spowoduje niepołączenie się z&nbsp;witryną).</li>
+</ul>
+
+<h3 id="domain_name_mismatch">Niezgodność nazw domen</h3>
+
+<p><a href="glossary.html#certificate">Certyfikat</a> serwera zawiera nazwę serwera w&nbsp;postaci nazwy domeny witryny. Przykładowo, nazwą domeny witryny WWW&nbsp;organizacji Mozilla jest <tt>www.mozilla.org</tt>. Jeżeli nazwa domeny w&nbsp;certyfikacie serwera nie jest zgodna z&nbsp;aktualną nazwą domeny witryny WWW, może to oznaczać, że ktoś próbuje przechwycić komunikację użytkownika z&nbsp;witryną WWW.</p>
+
+<p>Decyzja, czy mimo ostrzeżenia można traktować witrynę jako zaufaną należy do użytkownika i&nbsp;może zależeć od tego, jakie czynności chce on wykonywać na niej i&nbsp;czy jest ona znana użytkownikowi. Certyfikaty większości stron komercyjnych posiadają taką samą nazwę domeny w&nbsp;certyfikacie, jaka widnieje w&nbsp;pasku adresu przeglądarki.</p>
+
+<p>Z&nbsp;okna dialogowego informującego o&nbsp;błędzie niezgodności nazw domen można wykonać następujące czynności:</p>
+
+<ul>
+  <li><strong>Pokaż certyfikat</strong>: Naciśnięcie tego przycisku wywoła okno z&nbsp;podglądem zawartości certyfikatu.</li>
+  <li><strong>OK</strong>: Jeżeli użytkownik posiada powody do wiary, że ostrzeżenie jest nieumyślnym błędem, może nacisnąć przycisk OK i&nbsp;zaakceptować mimo ostrzeżenia certyfikat na czas trwania bieżącej sesji. Jednakże powinien poinformować osobę odpowiedzialną za działanie witryny o&nbsp;napotkanym problemie.
+
+    <p>Należy w&nbsp;takim przypadku być szczególnie ostrożnym w&nbsp;wykonywaniu wszelkich czynności na tej witrynie i&nbsp;traktować wszelkie informacje na stronie jako potencjalnie niebezpieczne z&nbsp;punktu widzenia bezpieczeństwa systemu.</p>
+	</li>
+  <li><strong>Anuluj</strong>: Jeżeli użytkownik podejrzewa, że źródłem ostrzeżenia może być istotny problem po stronie witryny i&nbsp;nie chce ryzykować odwiedzin na tej stronie, powinien nacisnąć przycisk Anuluj (co spowoduje niepołączenie się z&nbsp;witryną).</li>
+</ul>
+
+<p>Jeżeli użytkownik zdecyduje mimo wszystko zaakceptować certyfikat na czas bieżącej sesji, powinien być ostrożny w&nbsp;wykonywaniu czynności w&nbsp;witrynie i&nbsp;powinien traktować wszelkie informacje na niej jako potencjalnie podejrzane.</p>
 
 <p>&copyright.string;</p>
 

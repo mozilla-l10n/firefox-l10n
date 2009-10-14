@@ -8,254 +8,150 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Validation Settings</title>
+<title>Ustawienia weryfikacji certyfikatów</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<h1 id="validation_settings">Validation Settings</h1>
+<h1 id="validation_settings">Ustawienia weryfikacji certyfikatów</h1>
 
-<p>This section describes how to set Validation preferences and how to control
-  Certificate Revocation List (CRL) settings.</p>
+<p>Ten rozdział wyjaśnia ustawienia dotyczące weryfikacji certyfikatów i&nbsp;list certyfikatów unieważnionych (list CRL).</p>
 
-<p>For step-by-step descriptions of various tasks related to validation and
-  CRLs, see <a href="using_certs_help.xhtml#controlling_validation">How
-  Certificate Validation Works</a>.</p>
+<p>Szczegółowe informacje o&nbsp;różnych zadaniach związanych z&nbsp;weryfikacją i&nbsp;listami CRL zawarte są w&nbsp;rozdziale <a href="using_certs_help.xhtml#controlling_validation">Kontrola ważności</a>.</p>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
-    <li><a href="#privacy_and_security_preferences_validation">Privacy &amp;
-      Security Preferences - Validation</a></li>
-    <li><a href="#manage_crls">Manage CRLs</a></li>
-    <li><a href="#crl_import_status">CRL Import Status</a></li>
-    <li><a href="#automatic_crl_update_preferences">Automatic CRL Update
-      Preferences</a></li>
+    <li><a href="#privacy_and_security_preferences_validation">Preferencje weryfikacji</a></li>
+    <li><a href="#manage_crls">Zarządzanie listami CRL</a></li>
+    <li><a href="#crl_import_status">Status importu listy CRL</a></li>
+    <li><a href="#automatic_crl_update_preferences">Ustawienia automatycznej aktualizacji list CRL</a></li>
   </ul>
 </div>
 
-<h2 id="privacy_and_security_preferences_validation">Privacy &amp; Security
-  Preferences - Validation</h2>
+<h2 id="privacy_and_security_preferences_validation">Preferencje weryfikacji</h2>
 
-<p>This section describes how to use the Validation Settings panel. If you are
-  not already viewing the panel, follow these steps:</p>
+<p>Ten rozdział pomocy objaśnia używanie panelu ustawień weryfikacji certyfikatów. Jeżeli panel nie jest w&nbsp;tej chwili widoczny, należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Validation. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+  <li>Kliknąć na podkategorię Weryfikacja w&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia. (Jeżeli nie są widoczne żadne podkategorie, należy podwójnym kliknięciem rozwinąć listę podkategorii).</li>
 </ol>
 
-<p>For background information on certificate validation, see
-  <a href="using_certs_help.xhtml#controlling_validation">How Certificate
-  Validation Works</a>.</p>
+<p>Dodatkowe informacje o&nbsp;weryfikacji certyfikatów znajdują się w&nbsp;rozdziale <a href="using_certs_help.xhtml#controlling_validation">Kontrola ważności</a>.</p>
 
-<h3 id="crl">CRL</h3>
+<h3 id="crl">Lista unieważnionych certyfikatów CRL</h3>
 
-<p>A certificate revocation list (CRL) is a list of revoked certificates that
-  is generated and signed by a
-  <a href="glossary.xhtml#certificate_authority">certificate authority
-  (CA)</a>. It&apos;s possible to download a CRL to your browser, which can
-  check it to ensure that certificates are still valid before permitting their
-  use for authentication.</p>
+<p>Lista unieważnionych certyfikatów (ang. Certificate Revocation List (CRL)) jest tworzona i&nbsp;podpisywana przez <a href="glossary.xhtml#certificate_authority">organ certyfikacji</a> i&nbsp;zawiera certyfikaty unieważnione z&nbsp;różnych powodów przez ich właścicieli lub organ certyfikacji. Istnieje możliwość pobierania list CRL do przeglądarki i&nbsp;sprawdzania w&nbsp;ten sposób ważności certyfikatów przed podjęciem decyzji o&nbsp;ich użyciu do dalszej autoryzacji.</p>
 
-<p>Click Manage CRLs to see a list of the CRLs available to Certificate
-  Manager.</p>
+<p>Naciśnięcie przycisku Menedżer CRL wyświetli okno dialogowe zawierające wszystkie dostępne w&nbsp;przeglądarce listy CRL.</p>
 
-<p>For more information about managing CRLs, see
-  <a href="using_certs_help.xhtml#managing_crls">Managing CRLs</a>.</p>
+<p>Dodatkowe informacje o&nbsp;zarządzaniu listami CRL znajdują się w&nbsp;rozdziale <a href="using_certs_help.xhtml#managing_crls">Zarządzanie listami certyfikatów unieważnionych</a>.</p>
 
-<h3 id="ocsp">OCSP</h3>
+<h3 id="ocsp">Protokół Weryfikacji Certyfikatu Online OCSP</h3>
 
-<p>The Online Certificate Status Protocol (OCSP) makes it possible for
-  Certificate Manager to perform an online check of a certificate&apos;s
-  validity each time the certificate is viewed or used. This process involves
-  checking the certificate against a certificate revocation list (CRL)
-  maintained at a specified server. Your computer must be online for OCSP to
-  work.</p>
+<p>Protokół Weryfikacji Certyfikatu Online (ang. Online Certificate Status Protocol (OCSP)) umożliwia sprawdzanie ważności certyfikatu. Sprawdzanie to odbywa się w&nbsp;czasie połączenia z&nbsp;Internetem i&nbsp;jest wykonywane za każdym razem, gdy certyfikat jest używany, bądź wyświetlany. Weryfikacja polega na sprawdzeniu, czy certyfikat jest obecny na liście CRL dostępnej na podanym serwerze.</p>
 
-<p>To specify how Certificate Manager uses OCSP, choose one of these settings
-  in the OCSP section of Validation Settings:</p>
+<p>Aby określić, w&nbsp;jaki sposób Menedżer certyfikatów powinien korzystać z&nbsp;protokołu OCSP, należy wybrać jedną z&nbsp;poniższych opcji w&nbsp;sekcji Weryfikacja certyfikatów:</p>
 
 <ul>
-  <li><strong>Use the Online Certificate Status Protocol (OCSP) to confirm the
-    current validity of certificates</strong>: Select this setting if you want
-    Certificate Manager to perform an online status check each time it verifies
-    a certificate. If this setting is off, Certificate Manager will only
-    confirm the certificate&apos;s validity period and that it is correctly
-    signed by a CA whose own CA certificate is both listed under the CA
-    Certificates tab (in the main Certificate Manager window) and marked as
-    trusted for issuing that kind of certificate.</li>
-  <li><strong>Validate a certificate if it specifies a OCSP server</strong>:
-    Select this setting for online validation of certificates that provides a
-    validation service address (Service URL). Certificate Manager makes sure
-    that the certificate is listed as valid at the URL and checks validity
-    period and trust settings.</li>
-  <li><strong>Validate all certificates using the following OSCP
-    server</strong>: Select this setting if you want to specify a OCSP server
-    for the validation of all certificates. If you select this setting, you
-    should also choose the certificate from the Response Signer pop-up menu
-    that identifies the signer of the OCSP responses. With this setting, the
-    only certificates Certificate Manager recognizes are those that can be
-    verified by an OCSP response signed with the Response Signer certificate
-    (or signed using a certificate that chains to it).
+  <li><strong>Nie używaj OCSP do weryfikacji certyfikatów</strong>: Zaznaczenie tej opcji spowoduje brak sprawdzania stanu ważności certyfikatu przez Menedżera certyfikatów. W&nbsp;tym przypadku, w&nbsp;trakcie przeprowadzania przez Menedżera certyfikatów <a href="glossary.xhtml#certificate_verification">weryfikacji certyfikatu</a>, potwierdza on tylko jego okres ważności i&nbsp;poprawność podpisu przez wydający organ certyfikacji.</li>
+  <li><strong>Użyj OCSP do weryfikacji wyłącznie tych certyfikatów, które zawierają odnośnik do usługi OCSP</strong>: Zaznaczenie tej opcji spowoduje sprawdzanie przez Menedżera certyfikatów ważności certyfikatu. Sprawdzanie to odbywa się w&nbsp;trybie połączenia z&nbsp;Internetem i&nbsp;jest wykonywane za każdym razem, gdy certyfikat jest używany, bądź wyświetlany. Certyfikat musi mieć podany w&nbsp;swojej zawartości adres URL do sprawdzenia ważności. Jeżeli adres ten jest podany w&nbsp;certyfikacie, Menedżer certyfikatów dokonuje sprawdzenia, czy certyfikat jest wyszczególniony pod tym adresem jako ważny i&nbsp;dodatkowo sprawdza jego okres ważności i&nbsp;ustawienia dotyczące zaufania.</li>
+  <li><strong>Użyj poniższego organu OCSP do weryfikacji wszystkich certyfikatów</strong>: Zaznaczenie tej opcji spowoduje sprawdzanie przez Menedżera certyfikatów ważności certyfikatu. Sprawdzanie to odbywa się w&nbsp;trybie połączenia z&nbsp;Internetem i&nbsp;jest wykonywane za każdym razem, gdy certyfikat jest używany, bądź wyświetlany. Po zaznaczeniu tej opcji dodatkowo trzeba wybrać z&nbsp;rozwijanej listy organów weryfikacji ten, który ma być używany do weryfikacji certyfikatów. Przy tym ustawieniu weryfikacji, jedynymi certyfikatami rozpoznawanymi przez Menedżera certyfikatów będą te, które zostaną zweryfikowane przez wybrany organ weryfikujący (lub będą podpisane przy użyciu certyfikatu znajdującego się w&nbsp;łańcuchu certyfikatów tego organu).
 
-    <p>When you choose a Response Signer certificate from the pop-up menu,
-      Certificate Manager fills in the Service URL (if available) for that
-      signer automatically. If the Service URL is not filled in automatically,
-      you must provide it yourself; ask your system administrator for
-      details.</p>
+    <p>Po wybraniu właściwego organu weryfikacji Menedżer certyfikatów automatycznie uzupełni pole adresu URL usługi weryfikacji (jeśli taki adres jest dostępny). Jeżeli adres URL usługi nie został automatycznie uzupełniony, należy wpisać go ręcznie.</p>
   </li>
-  <li><strong>When an OCSP server connection fails, treat the certificate as
-    invalid</strong>: Select this if you want the validation to fail if a
-    connection to the OCSP server can&apos;t be established.</li>
+  <li><strong>Jeśli nie uda sie połączyć z serwerem OCSP, traktuj certyfikat jako niewiarygodny</strong>: Wybranie tej opcji skutkuje niepowodzeniem procesu weryfikacji, jeżeli połączenie się z serwerem OCSP niepowiodło się.</li>
 </ul>
 
-<h2 id="manage_crls">Manage CRLs</h2>
+<h2 id="manage_crls">Zarządzanie listami CRL</h2>
 
-<p>This section describes how to use the Manage CRLs dialog box. To view it,
-  follow these steps:</p>
+<p>Ta część objaśnia sposób używania okna dialogowego Menedżera list CRL. Aby wyświetlić to okno, należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Validation. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>Click Manage CRLs.</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+  <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać podkategorię Weryfikacja. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
+  <li>Nacisnąć przycisk Menedżer CRL.</li>
 </ol>
 
-<p>This dialog box displays a list of the
-  <a href="glossary.xhtml#crl">CRLs</a> that you have
-  downloaded for use by your browser. Typically, you download a CRL by
-  clicking a URL. For information about how CRLs work, see
-  <a href="using_certs_help.xhtml#managing_crls">Managing CRLs</a>.</p>
+<p>Okno dialogowe Menedżera list CRL zawiera wszystkie listy <a href="glossary.xhtml#crl">CRL</a>, które zostały pobrane do przeglądarki. Typowym sposobem pobrania listy CRL jest kliknięcie w&nbsp;odnośnik jej adresu URL. Informacje w&nbsp;jaki sposób funkcjonują listy CRL znajdują się w&nbsp;rozdziale <a href="using_certs_help.xhtml#managing_crls">Zarządzanie listami certyfikatów unieważnionych</a>.</p>
 
-<p>To select a CRL, click it. You can then perform any of these actions:</p>
+<p>Kliknięcie w&nbsp;listę CRL powoduje jej zaznaczenie. Po zaznaczeniu listy można wykonać dowolną z&nbsp;poniższych czynności:</p>
 
 <ul>
-  <li><strong>Delete</strong>: Deletes the CRL permanently from your hard disk.
-    Don&apos;t do this unless you&apos;re sure you no longer need the CRL for
-    validating certificates. If in doubt, consult your system
-    administrator.</li>
-  <li><strong>Settings</strong>: Opens the
-    <a href="#automatic_crl_update_preferences">Automatic CRL Update
-    Preferences</a> dialog box, which allows you to activate automatic CRL
-    updates for the selected CRL and specify how frequently they should be
-    performed.</li>
-  <li><strong>Update</strong>: Immediately updates the selected CRL
-  (if possible).</li>
+  <li><strong>Usuń</strong>: Trwałe usunięcie listy CRL z&nbsp;dysku twardego komputera. Ta czynność powinna być wykonywana tylko w&nbsp;przypadku braku dalszego wykorzystywania danej listy CRL.</li>
+  <li><strong>Ustawienia</strong>: Otwiera okno dialogowe <a href="#automatic_crl_update_preferences">Ustawień automatycznej aktualizacji list CRL</a>, w&nbsp;którym można uaktywnić automatyczną aktualizację wybranej listy CRL i&nbsp;określić częstotliwość aktualizacji.</li>
+  <li><strong>Aktualizacja</strong>: Natychmiastowa aktualizacja zaznaczonej listy CRL (jeśli lista posiada taką możliwość).</li>
 </ul>
 
-<p>The Manage CRLs dialog box provides the following information about each
-  CRL:</p>
+<p>Okno Menedżera CRL zawiera następujące informacje o&nbsp;każdej liście CRL:</p>
 
 <ul>
-  <li><strong>Organization (O)</strong>: The name of the organization that
-    issued the CRL.</li>
-  <li><strong>Organizational Unit (OU)</strong>: The name of the organizational
-    unit that issued the CRL (such as the root CA for a particular kind of
-    certificate).</li>
-  <li><strong>Last Update</strong>: The date on which the browser&apos;s copy
-    of this CRL was last updated.</li>
-  <li><strong>Next Update</strong>: The next date on which an updated version
-    of this CRL will be published by the CRL issuer.</li>
-  <li><strong>Auto Update</strong>: Indicates whether Auto Update has been
-    enabled for this CRL. To view the settings that control auto updating,
-    select the CRL and click Settings.</li>
-  <li><strong>Auto Update Status</strong>:
+  <li><strong>Organizacja (O)</strong>: Nazwa organizacji, która opublikowała listę CRL.</li>
+  <li><strong>Jednostka organizacyjna (OU)</strong>: Nazwa jednostki organizacyjnej, która opublikowała listę CRL (z reguły nazwa głównego organu certyfikacji).</li>
+  <li><strong>Ostatnia aktualizacja</strong>: Data ostatniej aktualizacji listy CRL przez przeglądarkę.</li>
+  <li><strong>Następna aktualizacja</strong>: Data następnej aktualizacji listy CRL. Jest to data publikacji listy CRL przez jej wydawcę.</li>
+  <li><strong>Automatyczna aktualizacja</strong>: Pokazuje, czy jest włączona automatyczna aktualizacja danej listy CRL. Aby zobaczyć ustawienia automatycznej aktualizacji, należy zaznaczyć listę i&nbsp;nacisnąć przycisk Ustawienia.</li>
+  <li><strong>Status automatycznej aktualizacji</strong>:
     <ul>
-      <li>If Auto Update has not been enabled, or if it has been enabled but
-        the next scheduled update has not yet occurrred, this field will be
-        blank.</li>
-      <li>After at least one auto update has occurred, this field shows
-        <q>failed</q> if the most recent auto update failed, or
-        <q>OK</q> if the most recent auto update was successful.</li>
+      <li>Jeżeli automatyczna aktualizacja nie została włączona, lub jeśli została włączona, ale nie jest znana data następnej aktualizacji, to pole statusu będzie puste.</li>
+      <li>Po przynajmniej jednym wystąpieniu automatycznej aktualizacji, w&nbsp;polu tym będzie widoczna jedna z&nbsp;dwóch informacji: <q>nieudana</q> &mdash; jeśli ostatnia aktualizacja nie powiodła się, lub <q>OK</q> &mdash; jeśli ostatnia aktualizacja powiodła się.</li>
     </ul>
   </li>
 </ul>
 
-<h2 id="crl_import_status">CRL Import Status</h2>
+<h2 id="crl_import_status">Status importu listy CRL</h2>
 
-<p>This section describes how to use the CRL Import Status dialog box, which
-  appears when you first attempt to import a CRL or when you successfully
-  update it manually.</p>
+<p>Ta część rozdziału objaśnia sposób używania okna dialogowego statusu importu listy CRL. Okno dialogowe to pojawia się przy pierwszej próbie importu danej listy CRL, lub po jej pomyślnej ręcznej aktualizacji.</p>
 
-<p>This dialog box informs you</p>
+<p>Zawartość okna dialogowego informuje o:</p>
 
 <ul>
-  <li>whether your attempt to import or update the CRL was successful</li>
-  <li>what organization issued the CRL</li>
-  <li>when the next update of this CRL will be published</li>
-  <li>whether Automatic Update is enabled for this CRL</li>
+  <li>pomyślnym imporcie lub uaktualnieniu danej listy CRL,</li>
+  <li>organizacji, która opublikowała daną listę CRL,</li>
+  <li>dacie następnej aktualizacji danej listy CRL,</li>
+  <li>włączeniu automatycznej aktualizacji danej listy CRL.</li>
 </ul>
 
-<p>If Automatic Update is not enabled, you can turn it on from here:</p>
+<p>Jeżeli automatyczna aktualizacja danej listy CRL nie jest włączona, w&nbsp;oknie dialogowym statusu można ją włączyć:</p>
 
 <ul>
-  <li><strong>Yes</strong>: Click Yes to enable automatic updating of this CRL.
-    If you click this button, the Automatic CRL Update Preferences dialog box
-    appears next. The next section describes how to set these preferences.</li>
-  <li><strong>No</strong>: Click No if you wish to leave Automatic Update
-    disabled.</li>
+  <li><strong>Tak</strong>: Naciśnięcie tego przycisku włącza automatyczną aktualizację dla listy CRL. Po naciśnięciu przycisku Tak na ekranie pojawi się okno dialogowe preferencji automatycznej aktualizacji. W&nbsp;następnej części opisano ustawienia tych preferencji.</li>
+  <li><strong>Nie</strong>: Naciśnięcie tego przycisku wyłącza automatyczną aktualizację listy CRL.</li>
 </ul>
 
-<h2 id="automatic_crl_update_preferences">Automatic CRL Update Preferences</h2>
+<h2 id="automatic_crl_update_preferences">Ustawienia automatycznej aktualizacji list CRL</h2>
 
-<p>This section describes how to use the Automatic CRL Update Preferences
-  dialog box. If you are not already viewing it, follow these steps:</p>
+<p>Ta część rozdziału objaśnia sposób używania okna dialogowego preferencji automatycznej aktualizacji listy CRL. Aby wyświetlić to okno dialogowe, należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Validation. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>Click Manage CRLs, then select the CRL whose auto update preferences you
-    want to view or change.</li>
-  <li>Click Settings.</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+	<li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać podkategorię Weryfikacja. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
+  <li>Nacisnąć przycisk Menedżer CRL, a&nbsp;następnie zaznaczyć listę CRL, której preferencje automatycznej aktualizacji mają zostać wyświetlone lub zmienione.</li>
+  <li>Nacisnąć przycisk Ustawienia.</li>
 </ol>
 
-<p>This dialog box displays the following options and information:</p>
+<p>Okno dialogowe preferencji automatycznej aktualizacji, które pojawiło się na ekranie, zawiera następujące opcje i&nbsp;informacje:</p>
 
 <ul>
-  <li><strong>Enable Automatic Update for this CRL</strong>: Select this option
-    if you want the CRL you selected to be updated automatically according to
-    the schedule you set here. (Note that you can&apos;t select this option if
-    the CRL doesn&apos;t specify a Next Update date.)
+  <li><strong>Włącz automatyczną aktualizację dla tej listy CRL</strong>: Zaznaczenie tej opcji spowoduje włączenie automatycznej aktualizacji tej listy CRL z&nbsp;zadanym terminem aktualizacji. (Uwaga: włączenie automatycznej aktualizacji nie jest możliwe w&nbsp;przypadku list CRL, które nie mają podanej daty następnej aktualizacji)
 
-    <p>If you enable Automatic Update, you must select one of these radio
-      buttons:</p>
+    <p>Po włączeniu automatycznej aktualizacji należy zaznaczyć jedną z&nbsp;poniższych opcji:</p>
       <ul>
-        <li><strong>Update X days before Next Update date</strong>: Select this
-          option if you want to base the update frequency on the frequency with
-          which the CRL publisher publishes a new version of the CRL.</li>
-        <li><strong>Update every X days</strong>: Select this option if you
-          want to specify an update interval unrelated to the CRL&apos;s Next
-          Update date.</li>
+        <li><strong>Aktualizuj X dni przed następną datą aktualizacji</strong>: Zaznaczenie tej opcji powoduje aktualizację listy CRL z&nbsp;częstotliwością bazującą na częstości aktualizacji listy przez jej wystawcę.</li>
+        <li><strong>Aktualizuj co X dni</strong>: Zaznaczenie tej opcji powoduje aktualizację listy z&nbsp;zadaną częstością, niezależnie od częstości jej aktualizacji przez wystawcę.</li>
       </ul>
   </li>
-  <li><strong>CRL would be imported from</strong>: Indicates the URL from which
-    the browser originally imported the CRL. This setting cannot be changed. To
-    specify a different location, delete the CRL and re-import it from the new
-    location.</li>
-  <li><strong>Previous Consecutive Update Failures</strong>: Indicates how
-    many times update attempts for this CRL have failed consecutively,
-    including the most recent failure:
+  <li><strong>Lista CRL będzie zaimportowana z</strong>: Wskazuje na adres URL, z&nbsp;którego przeglądarka zaimportowała listę CRL. Ten adres nie może zostać zmieniony. Aby wskazać inną lokalizację importu listy CRL, należy listę usunąć, a&nbsp;następnie ponownie ją zaimportować z&nbsp;nowego adresu.</li>
+  <li><strong>Poprzednie, kolejne błędne aktualizacje</strong>: Wskazuje, ile razy próba aktualizacji listy CRL zakończyła się niepowodzeniem, włączając w&nbsp;to najnowsze niepowodzenie:
     <ul>
-      <li>If the most recent attempt was successful, this reads
-        <q>None</q> even if there were previous unsuccessful
-        attempts.</li>
-      <li>If the most recent attempt failed, this indicates the number of
-        consecutive failures and the error message for the most recent
-        failure.</li>
+      <li>Jeżeli najnowsza próba aktualizacji listy CRL zakończyła się sukcesem, pojawi się informacja <q>Brak</q>, nawet jeśli poprzednio były jakieś próby zakończone niepowodzeniem.</li>
+      <li>Jeżeli najnowsza próba aktualizacji zakończyła się niepowodzeniem, pojawi się informacja wskazująca liczbę kolejnych niepowodzeń wraz z&nbsp;komunikatem błędu pochodzącym z&nbsp;ostatniego niepowodzenia.</li>
     </ul>
   </li>
 </ul>
 
-<p>Click OK to confirm your choices.</p>
+<p>Naciśnięcie przycisku OK zatwierdza ustawienia i&nbsp;zamyka okno dialogowe.</p>
 
 <p>&copyright.string;</p>
 

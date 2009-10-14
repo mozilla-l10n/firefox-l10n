@@ -1,418 +1,224 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  %brandDTD;
-]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" > %brandDTD;]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Certificate Manager</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+<title>Menedżer certyfikatów</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
 <body>
 
-<div class="boilerPlate">This document is provided for your information only.
-  It may help you take certain steps to protect the privacy and security of
-  your personal information on the Internet. This document does not, however,
-  address all online privacy and security issues, nor does it represent a
-  recommendation about what constitutes adequate privacy and security
-  protection on the Internet.</div>
+<div class="boilerPlate">Ten dokument został stworzony tylko w&nbsp;celach pomocniczych. Wskaże parę kroków do wykonania w&nbsp;celu ochrony poufności i&nbsp;bezbieczeństwa informacji osobistych w&nbsp;internecie. Dokument ten jednakże nie obejmuje wszystkich zagadnień związanych z&nbsp;poufnoscią i&nbsp;bezpieczeństwem danych w&nbsp;internecie, ani nie przedstawia rekomendacji odnośnie odpowiednich ustawień programu w&nbsp;celu ich uzyskania.</div>
 
-<h1 id="certificate_manager">Certificate Manager</h1>
+<h1 id="certificate_manager">Menedżer certyfikatów</h1>
 
-<p>This section describes how to use the Certificate Manager. For more
-  information on using certificates, see <a href="using_certs_help.xhtml">Using
-  Certificates</a>.</p>
+<p>Ten rozdział opisuje używanie Menedżera certyfikatów. Więcej informacji na temat używania certyfikatów w&nbsp;rozdziale <a href="using_certs_help.xhtml">Używanie certyfikatów</a>.</p>
 
-<p>If you are not currently viewing the Certificate Manager window, follow
-  these steps:</p>
+<p>Jeżeli okno Menedżera certyfikatów nie jest w&nbsp;tej chwili widoczne, należy:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>Click Manage Certificates.</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+  <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Certyfikaty. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
+  <li>Nacisnąć przycisk Menedżer certyfikatów.</li>
 </ol>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
-    <li><a href="#your_certificates">Your Certificates</a></li>
-    <li><a href="#people">People</a></li>
-    <li><a href="#servers">Servers</a></li>
-    <li><a href="#authorities">Authorities</a></li>
-    <li><a href="#others">Others</a></li>
+    <li><a href="#your_certificates">Twoje certyfikaty</a></li>
+    <li><a href="#other_peoples_certificates">Inne osoby</a></li>
+    <li><a href="#web_site_certificates">Serwery WWW</a></li>
+    <li><a href="#authorities">Organy certyfikacji</a></li>
   </ul>
 </div>
 
-<h2 id="your_certificates">Your Certificates</h2>
+<h2 id="your_certificates">Twoje certyfikaty</h2>
 
-<p>The Your Certificates tab in the <a href="#certificate_manager">Certificate
-  Manager</a> displays the certificates on file that identify you. Your
-  certificates are listed under the names of the organizations that issued
-  them. If you can&apos;t see certificate names under an organization&apos;s
-  name, double-click the name to expand it.</p>
-
-<p>Use the following buttons to view and manage your certificates (most actions
-  require one or more certificates to be selected):</p>
+<p>Karta Twoje certyfikaty w&nbsp;<a href="#certificate_manager">Menedżerze certyfikatów</a> pokazuje certyfikaty identyfikujące bieżącego użytkownika. Certyfikaty są umieszczone poniżej nazw organów certyfikacji, które je wydały:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Backup</strong>: Initiate the process of saving the selected
-    certificates. A window appears that allows you to choose a password to
-    protect the backup. You can then save the backup in a directory of your
-    choice.</li>
-  <li><strong>Backup All</strong>: Initiate the process of saving all the
-    certificates stored in the
-    <a href="glossary.xhtml#software_security_device">Software Security
-    Device</a>.
+  <li>Jeżeli nazwy certyfikatów nie są widoczne poniżej nazw organów certyfikacji, należy podwójnie kliknąć na nazwie ośrodka.</li>
+  <li>Aby zaznaczyć certyfikat, należy kliknąć jego nazwę.</li>
+  <li>Aby zaznaczyć więcej niż jeden certyfikat, należy przytrzymać klawisz Ctrl i&nbsp;klikać ich nazwy.</li>
+</ul>
 
-    <p><strong>Note</strong>: Certificates on smart cards cannot be backed up.
-      Whether you select some of your certificates and click Backup, or click
-      Backup All, the resulting backup file will not include any certificates
-      stored on smart cards or other external security devices. You can only
-      back up certificates that are stored on the built-in Software Security
-      Device.</p>
+<p>Poniższe czynności wymagają najpierw zaznaczenia jednego lub więcej certyfikatów, a&nbsp;następnie naciśnięcia jednego z&nbsp;przycisków:</p>
+
+<ul>
+  <li><strong>Wyświetl</strong>: Wyświetla szczegółową informację o&nbsp;wybranych certyfikatach.</li>
+  <li><strong>Kopia zapasowa</strong>: Rozpoczyna proces zachowywania kopii zaznaczonych certyfikatów. W&nbsp;oknie dialogowym można wprowadzić hasło chroniące plik certyfikatu a&nbsp;następnie zachować plik kopii w&nbsp;wybranym katalogu.</li>
+  <li><strong>Usuń</strong>: Usuwa zaznaczone certyfikaty.</li>
+</ul>
+
+<p>Poniższe czynności nie wymagają zaznaczenia certyfikatu:</p>
+
+<ul>
+  <li><strong>Importuj</strong>: Rozpoczyna proces importowania jednego lub więcej certyfikatów z&nbsp;pliku kopii zapasowej, w&nbsp;którym zostały one uprzednio zachowane. Po naciśnięciu przycisku Importuj Menedżer certyfikatów najpierw zadaje pytanie o&nbsp;lokalizację pliku zawierającego certyfikaty. Z&nbsp;reguły nazwa pliku z&nbsp;certyfikatami posiada rozszerzenie <tt>.p12</tt>; przykładowo: <tt>Mojecertyfikaty.p12</tt>. Po zaznaczeniu pliku do importu, Menedżer certyfikatów zadaje pytanie o&nbsp;hasło ustalone podczas wykonywania kopii zapasowej certyfikatów.</li>
+  <li><strong>Wykonaj kopię zapasową</strong>: Rozpoczyna proces zachowywania wszystkich certyfikatów przechowywanych w&nbsp;<a href="glossary.xhtml#software_security_device">programowym urządzeniu zabezpieczającym</a>.
+    <p><strong>Uwaga: Nie można wykonywać kopii zapasowej certyfikatów przechowywanych na kartach inteligentnych.</strong> Pomimo zaznaczenia certyfikatów i&nbsp;naciśnięcia przycisku Kopia zapasowa lub Wykonaj kopię zapasową, wynikowy plik kopii nie będzie zawierał certyfikatów przechowywanych na kartach inteligentnych lub innych zewnętrznych urządzeniach zabezpieczających. Wykonywanie kopii zapasowej dotyczy tylko certyfikatów przechowywanych we wbudowanym urządzeniu zabezpieczającym.</p>
   </li>
-  <li><strong>Import</strong>: Import a file containing one or more
-    certificates that were previously backed up. When you click Import,
-    Certificate Manager first asks you to locate the file that contains the
-    backup. The names of certificate backup files typically end in
-    <tt>.p12</tt>; for example, <tt>MyCert.p12</tt>. After you select the file
-    to be imported, Certificate Manager asks you to enter the password that you
-    set when you backed up the certificate.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
 </ul>
 
-<h3 id="choose_a_certificate_backup_password">Choose a Certificate Backup
-  Password</h3>
+<h3 id="choose_a_certificate_backup_password">Wybór hasła kopii zapasowej certyfikatu</h3>
 
-<p>A certificate backup password protects one or more certificates that you are
-  backing up from the <a href="#your_certificates">Your Certificates</a> tab in
-  the Certificate Manager.</p>
+<p>Hasło kopii zapasowej zabezpiecza plik kopii jednego lub więcej certyfikatów wykonywanej z&nbsp;karty <a href="#your_certificates">Twoje certyfikaty</a> Menedżera certyfikatów.</p>
 
-<p>The Certificate Manager asks you to set this password when you back up
-  certificates, and requests it when you attempt to import certificates that
-  have previously been backed up.</p>
+<p>Menedżer certyfikatów proponuje ustawienie hasła przy rozpoczynaniu procesu wykonywania kopii zapasowej certyfikatów i&nbsp;żąda go przy próbie importu certyfikatu z&nbsp;pliku kopii zapasowej. Można ustawić puste hasło, ale jest to czynność bardzo ryzykowna z&nbsp;uwagi na możliwość przechwycenia przez osoby niepowołane pliku z&nbsp;kopią certyfikatów i&nbsp;ewentualne podszywanie się dzięki nim pod właściwego użytkownika.</p>
 
 <ul>
-  <li><strong>Certificate backup password</strong>: Type your backup password
-    into this field.</li>
-  <li><strong>Certificate backup password (again)</strong>: Type your backup
-    password again. If you don&apos;t type it the second time exactly as you
-    did the first time, the OK button remains inactive. If this happens, try
-    typing the new password again.</li>
+  <li><strong>Hasło kopii bezpieczeństwa certyfikatu</strong>: W&nbsp;pole tekstowe należy wpisać hasło kopii bezpieczeństwa.</li>
+  <li><strong>Hasło kopii bezpieczeństwa certyfikatu (ponownie)</strong>: W&nbsp;pole tekstowe należy ponownie wpisać hasło kopii bezpieczeństwa. Jeżeli hasło nie zostanie wpisane w&nbsp;sposób identyczny jak w&nbsp;polu powyżej, przycisk OK pozostanie nieaktywny. W&nbsp;takim przypadku należy ponownie wpisać hasło.</li>
 </ul>
 
-<p>If someone obtains the file containing a certificate that you have backed up
-  and successfully imports the certificate, that person can send messages or
-  access websites while pretending to be you. This can be a problem, for
-  example, if you digitally sign important email messages or manage your bank
-  or investment accounts over the Internet.</p>
+<p>Jeżeli osoba niepowołana uzyska dostęp do pliku zawierającego kopie zapasowe certyfikatów i&nbsp;wykona pomyślny ich import na swoim komputerze, będzie w&nbsp;stanie podszywać się pod właściwego użytkownika przy wymianie poczty elektronicznej, czy też przy dostępie do stron WWW. Może to stanowić źródło potencjalnych poważnych problemów (przykładowo przy cyfrowym podpisywaniu poczty elektronicznej, czy dostępie internetowym do usług bankowych lub inwestycyjnych).</p>
 
-<p>Therefore, it&apos;s important to select a certificate backup password that
-  is difficult to guess. The <strong>password quality meter</strong> gives you
-  a rough idea of the quality of your password as you type it based on factors
-  such as length and the use of uppercase letters, lowercase letters, numbers,
-  and symbols. It does not guarantee that your password cannot be guessed,
-  however.</p>
+<p>Z&nbsp;tego powodu bardzo istotny jest wybór takiego hasła zabezpieczającego kopię zapasową certyfikatów, które będzie nietrywialne i&nbsp;przez to trudne do odgadnięcia przez osoby niepowołane. Miernik jakości hasła obecny poniżej pól wpisywania hasła obrazuje ideę tworzenia dobrego hasła. Poziom wskaźnika oparty jest na następujących czynnikach: długość hasła i&nbsp;użycie mieszanych znaków (duże, małe litery, cyfry, symbole). Dłuższy pasek wskaźnika oznacza lepsze (trudniejsze do złamania) hasło, ale oczywiście nie gwarantuje całkowitej ochrony hasła (np. przed zwykłym odgadnięciem).</p>
 
-<p>For further guidelines, see
-  <a href="passwords_help.xhtml#choosing_a_good_password">Choosing a Good
-  Password</a>.</p>
+<p>Więcej informacji o&nbsp;wyborze odpowiednio bezpiecznego hasła można znaleźć w&nbsp;rozdziale <a href="passwords_help.xhtml#choosing_a_good_password">Wybór dobrego hasła</a>.</p>
 
-<p>It&apos;s also important to record the password in a safe place&mdash;and
-  not anywhere that&apos;s easily accessible to someone else. If you forget
-  this password, you can&apos;t import the backup of your certificate.</p>
+<p>Istotną rzeczą jest przechowywanie hasła w&nbsp;bezpiecznym miejscu &mdash; takim, które nie jest dostępne dla osób niepowołanych. W&nbsp;wypadku zapomnienia hasła import certyfikatów z&nbsp;kopii zapasowej nie będzie możliwy.</p>
 
-<h3 id="delete_your_certificates">Delete Your Certificates</h3>
+<h3 id="delete_your_certificates">Usuwanie własnych certyfikatów</h3>
 
-<p>Before deleting one of your own expired certificates from the
-  <a href="#your_certificates">Your Certificates</a> tab in the Certificate
-  Manager, make sure you won&apos;t need it again some day for reading old
-  email messages that you may have encrypted with the corresponding private
-  key.</p>
+<p>Przed usunięciem wygasłego certyfikatu z&nbsp;karty <a href="#your_certificates">Twoje certyfikaty</a> Menedżera certyfikatów należy upewnić się, że nie będzie on potrzebny pewnego dnia do odczytu starych listów elektronicznych zaszyfrowanych przy użyciu klucza prywatnego powiązanego z&nbsp;tym certyfikatem. Jeżeli użytkownik przechowuje archiwalną korespondencję, która była zaszyfrowana przy użyciu klucza prywatnego pochodzącego od wygasłego certyfikatu, po usunięciu takiego certyfikatu nie będzie możliwości jej odszyfrowania i&nbsp;odczytania.</p>
 
-<h2 id="people">People</h2>
+<h2 id="other_peoples_certificates">Inne osoby</h2>
 
-<p>The People tab in the <a href="#certificate_manager">Certificate Manager</a>
-  displays email certificates you have on file that identify other people.</p>
+<p>Karta Inne osoby w&nbsp;<a href="#certificate_manager">Menedżerze certyfikatów</a> pokazuje certyfikaty służące do podpisywania i&nbsp;szyfrowania poczty elektronicznej, a&nbsp;pochodzące od osób trzecich.</p>
 
-<p>When people send you digitally signed email messages, Certificate Manager
-  imports their certificates automatically. You can use these certificates to
-  send encrypted messages to those people.</p>
+<p>Gdy użytkownik otrzyma list podpisany cyfrowo przez nadawcę, Menedżer certyfikatów dokona automatycznego importu certyfikatu nadawcy. Od tego momentu istnieje możliwość wymiany z&nbsp;tym nadawcą korespondencji szyfrowanej.</p>
 
-<p>Certificates that identify people are listed under the names of the
-  organizations that issued them. If you can&apos;t see certificate names under
-  an organization&apos;s name, double-click the name to expand it.</p>
-
-<p>Use the following buttons to view and manage your certificates (most actions
-  require one or more certificates to be selected):</p>
+<p>Certyfikaty osób trzecich są umieszczone poniżej nazw organów certyfikacji, które je wydały:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Edit</strong>: View or change the trust settings that Certificate
-    Manager associates with the selected certificates. You can use these
-    settings to designate an email certificate as one that you trust or
-    don&apos;t trust for identification purposes.</li>
-  <li><strong>Import</strong>: Import a file containing one or more
-    certificates. When you click Import, Certificate Manager first asks you
-    to locate the file that contains the certificate(s).</li>
-  <li><strong>Export</strong>: Export the selected certificates. You can
-    choose among various formats.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
+  <li>Jeżeli nazwy certyfikatów nie są widoczne poniżej nazw organów certyfikacji, należy podwójnie kliknąć na nazwie organu.</li>
+  <li>Aby zaznaczyć certyfikat, należy kliknąć jego nazwę.</li>
+  <li>Aby zaznaczyć więcej niż jeden certyfikat, należy przytrzymać klawisz Ctrl i&nbsp;kliknąć ich nazwy.</li>
 </ul>
 
-<h3 id="delete_email_certificates">Delete Email Certificates</h3>
-
-<p>Before deleting someone else&apos;s certificate from the
-  <a href="#people">People</a> tab in the Certificate Manager, make sure you
-  won&apos;t need it again some day to send encrypted email to that person or
-  to verify digital signatures on messages from that person.</p>
-
-<h2 id="servers">Servers</h2>
-
-<p>The Servers tab in the Certificate Manager displays certificates you have
-  on file that identify servers (websites, mail servers).</p>
-
-<p>Certificates that identify servers are grouped under the names of the
-  organizations that issued them. If you can&apos;t see certificate names under
-  an organization&apos;s name, double-click the name to expand it.</p>
-
-<p>Use the following buttons to view and manage your certificates (most actions
-  require one or more certificates to be selected):</p>
+<p>Poniższe czynności wymagają najpierw zaznaczenia jednego lub więcej certyfikatów, a&nbsp;następnie naciśnięcia jednego z&nbsp;przycisków:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Edit</strong>: View or change the trust settings that Certificate
-    Manager associates with the selected certificates. You can use these
-    settings to designate a website certificate as one that you trust or
-    don&apos;t trust for identification purposes.</li>
-  <li><strong>Import</strong>: Import a file containing one or more
-    certificates. When you click Import, Certificate Manager first asks you
-    to locate the file that contains the certificate(s).</li>
-  <li><strong>Export</strong>: Export the selected certificates. You can
-    choose among various formats.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
-  <li><strong>Add Exception</strong>: Add a security exception for a server
-    (website, mail server) that identifies itself with invalid information.
-    This is an advanced feature, act with caution.</li>
+  <li><strong>Wyświetl</strong>: Pokazuje dokładniejsze informacje o&nbsp;zaznaczonych certyfikatach.</li>
+  <li><strong>Usuń</strong>: Usuwa zaznaczone certyfikaty.</li>
 </ul>
 
-<h3 id="edit_web_site_certificate_trust_settings">Edit Web Site Certificate
-  Trust Settings</h3>
+<h3 id="delete_email_certificates">Usuwanie certyfikatów osób trzecich</h3>
 
-<p>When you select a website certificate from the
-  <a href="#servers">Servers</a> tab in the Certificate Manager and click Edit,
-  you see a window entitled <q>Edit web site certificate trust settings</q>.
-  Here you specify whether you want to trust the selected certificate for
-  identifying the website and setting up an encrypted connection.</p>
+<p>Przed usunięciem certyfikatu osoby trzeciej z&nbsp;karty <a href="#other_peoples_certificates">Inne osoby</a> Menedżera certyfikatów należy upewnić się, że nie będzie on potrzebny pewnego dnia do wysłania zaszyfrowanej poczty elektronicznej do tej osoby, lub weryfikacji podpisu cyfrowego z&nbsp;wiadomości od tej osoby.</p>
 
-<p>The dialog box contains these elements:</p>
+<h2 id="web_site_certificates">Serwery WWW</h2>
+
+<p>Karta Serwery WWW&nbsp;w&nbsp;Menedżerze certyfikatów pokazuje posiadane certyfikaty identyfikujące strony i&nbsp;serwisy sieci Internet.</p>
+
+<p>Certyfikaty serwerów WWW&nbsp;są pogrupowane poniżej nazw organów certyfikacji, które je wydały:</p>
 
 <ul>
-  <li><strong>The certificate <q><em>name of certificate</em></q> was
-    issued by</strong>: Provides information about the
-    <a href="glossary.xhtml#certificate_authority">certificate authority</a>
-    that issued this certificate.</li>
-  <li><strong>Edit certificate trust settings</strong>:
+  <li>Jeżeli nazwy certyfikatów nie są widoczne poniżej nazw organów certyfikacji, należy podwójnie kliknąć na nazwie organu.</li>
+  <li>Aby zaznaczyć certyfikat, należy kliknąć jego nazwę.</li>
+  <li>Aby zaznaczyć więcej niż jeden certyfikat, należy przytrzymać klawisz Ctrl i&nbsp;kliknąć ich nazwy.</li>
+</ul>
+
+<p>Poniższe czynności wymagają najpierw zaznaczenia jednego lub więcej certyfikatów, a&nbsp;następnie naciśnięcia jednego z&nbsp;przycisków:</p>
+
+<ul>
+  <li><strong>Wyświetl</strong>: Pokazuje dokładniejsze informacje o&nbsp;zaznaczonych certyfikatach.</li>
+  <li><strong>Edytuj</strong>: Pokazuje okno edycji ustawień zaufania certyfikatu. Ustawienia te służą do określania, czy dany serwer WWW&nbsp;został zakwalifikowany jako zaufany (bądź nie) dla celów identyfikacyjnych.</li>
+  <li><strong>Usuń</strong>: Usuwa zaznaczone certyfikaty.</li>
+</ul>
+
+<h3 id="edit_web_site_certificate_trust_settings">Edycja ustawień zaufania certyfikatu serwerów WWW</h3>
+
+<p>Po zaznaczeniu certyfikatu serwera WWW&nbsp;na karcie <a href="#web_site_certificates">Serwery WWW</a> w&nbsp;Menedżerze certyfikatów i&nbsp;naciśnięciu przycisku Edycja, pojawi się okno zatytułowane <q>Edycja ustawień zaufania certyfikatu.</q>. W&nbsp;tym oknie można zadecydować, czy zaznaczony certyfikat ma zostać uznany za zaufany dla celów identyfikacji serwera WWW&nbsp;i&nbsp;ustanawiania szyfrowanego połączenia.</p>
+
+<p>Okno dialogowe edycji zawiera następujące elementy:</p>
+
+<ul>
+  <li><strong>Certyfikat <q><em>nazwa certyfikatu</em></q> był wydany przez</strong>: Podaje informacje o&nbsp;<a href="glossary.xhtml#certificate_authority">organie certyfikacji</a>, który wydał ten certyfikat.</li>
+  <li><strong>Edytuj ustawienia zaufania certyfikatu</strong>:
     <ul>
-      <li><strong>Trust the authenticity of this certificate</strong>: If you
-        select this option, Certificate Manager will henceforth trust this
-        certificate for the purposes of identifying this website or setting up
-        an encrypted connection. If you select this option and then attempt to
-        visit the website, your browser will access the site with few, if any,
-        warnings.</li>
-      <li><strong>Do not trust the authenticity of this certificate</strong>:
-        If you select this option, Certificate Manager will no longer trust
-        this certificate for the purposes of identifying this website or
-        setting up an encrypted connection. If you select this option and
-        then attempt to visit the website, you will see one or more warning
-        messages before you can access the site.</li>
+      <li><strong>Zaufaj autentyczności tego certyfikatu</strong>: Po zaznaczeniu tej opcji Menedżer certyfikatów będzie zakładał, że certyfikat jest wiarygodny dla celów identyfikacji serwera WWW&nbsp;lub ustanawiania połączenia szyfrowanego. Przeglądarka będzie umożliwiać dostęp do serwisu WWW&nbsp;bez wyświetlania ostrzeżeń lub wyświetlając ich niewielką ilość.</li>
+      <li><strong>Nie ufaj autentyczności tego certyfikatu</strong>: Po zaznaczeniu tej opcji Menedżer certyfikatów będzie zakładał, że certyfikat nie jest wiarygodny dla celów identyfikacji serwera WWW&nbsp;czy ustanawiania połączenia szyfrowanego. Przy próbie dostępu do serwisu WWW&nbsp;przeglądarka wyświetli jedno lub więcej ostrzeżeń zanim zezwoli na dostęp do serwisu.</li>
     </ul>
   </li>
-  <li><strong>Edit CA Trust</strong>: Click this button to specify trust
-    settings for the certificate authority (CA) that issued the website
-    certificate. These settings allow you to trust or not to trust different
-    kinds of certificates issued by that certificate authority. For example,
-    you can choose to trust all website certificates issued by the
-    authority.</li>
+  <li><strong>Edytuj ustawienia zaufania organu certyfikacji</strong>: Ten przycisk pozwala na określenie ustawień zaufania dla organu certyfikacji, który wydał ten certyfikat serwera WWW. Ustawienia te umożliwiają określenie zaufania (bądź nie) dla różnych rodzajów certyfikatów wydanych przez dany organ. Przykładowo, można wybrać opcję określania wszystkich certyfikatów serwerów WWW&nbsp;wydanych przez dany organ jako zaufanych.</li>
 </ul>
 
-<p>Click OK to confirm your choice.</p>
+<p>Naciśnięcie przycisku OK powoduje potwierdzenie i&nbsp;zapisanie wybranych opcji.</p>
 
-<h3 id="delete_web_site_certificates">Delete Website Certificates</h3>
+<h3 id="delete_web_site_certificates">Usuwanie certyfikatów serwerów WWW</h3>
 
-<p>Before deleting a server certificate from the
-  <a href="#servers">Servers</a> tab in the Certificate Manager, make sure that
-  you won&apos;t need it again for the purposes of identifying a website or
-  mail server and setting up an encrypted connection.</p>
+<p>Przed usunięciem certyfikatu serwera WWW&nbsp;z&nbsp;karty <a href="#web_site_certificates">Serwery WWW</a> Menedżera certyfikatów, należy upewnić się, że nie będzie on więcej potrzebny ponownie w&nbsp;celu identyfikacji serwera WWW&nbsp;lub ustanowienia połączenia szyfrowanego.</p>
 
-<h2 id="authorities">Authorities</h2>
+<h2 id="authorities">Organy certyfikacji</h2>
 
-<p>The Authorities tab in the <a href="#certificate_manager">Certificate
-  Manager</a> displays the certificates you have on file that identify
-  <a href="glossary.xhtml#certificate_authority">certificate authorities
-  (CAs)</a>.</p>
+<p>Karta Organy certyfikacji w&nbsp;<a href="#certificate_manager">Menedżerze certyfikatów</a> pokazuje posiadane certyfikaty identyfikujące <a href="glossary.xhtml#certificate_authority">Organy certyfikacji</a> (ang. certificate authorities (CAs)).</p>
 
-<p>CA certificates are grouped under the names of the organizations that issued
-  them. If you can&apos;t see certificate names under an organization&apos;s
-  name, double-click the name to expand it.</p>
-
-<p>Use the following buttons to view and manage your certificates (most actions
-  require one or more certificates to be selected):</p>
+<p>Certyfikaty organów certyfikacji są pogrupowane poniżej nazw organizacji, które je wydały:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Edit</strong>: View or change the settings that Certificate
-    Manager associates with the selected certificates. You can use these
-    settings to designate what kinds of certificates, if any, you trust that
-    are issued by the corresponding CAs.</li>
-  <li><strong>Import</strong>: Import a file containing one or more
-    certificates. When you click Import, Certificate Manager first asks you
-    to locate the file that contains the certificate(s).</li>
-  <li><strong>Export</strong>: Export the selected certificates. You can
-    choose among various formats.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
+  <li>Jeżeli nazwy certyfikatów organów certyfikacji nie są widoczne, należy podwójnie kliknąć na nazwie organu.</li>
+  <li>Aby zaznaczyć organ certyfikacji, należy kliknąć jego nazwę.</li>
+  <li>Aby zaznaczyć więcej niż jeden organ certyfikacji, należy przytrzymać klawisz Ctrl i&nbsp;kliknąć ich nazwy.</li>
 </ul>
 
-<p>To ensure that an entire
-  <a href="glossary.xhtml#certificate_chain">certificate chain</a> of CAs are
-  all trusted, you need to edit the root CA certifiate only.</p>
-
-<p>To import the chain, you click a link on a web page provided by the CA. You
-  can then use the authorities tab to locate the root certificate and edit its
-  trust settings.</p>
-
-<p>The root and intermediate CAs all appear under the same organization. The
-  root certificate is the one that lists itself as the the issuer.</p>
-
-<p><strong>If you download an intermediate CA</strong>: If you download an
-  intermediate CA certificate that chains to a root certificate already marked
-  as trusted in your browser, you don&apos;t have to indicate what purposes you
-  trust it for. Intermediate certificates automatically inherit the trust
-  settings of their roots.</p>
-
-<h3 id="edit_ca_certificate_trust_settings">Edit CA Certificate Trust
-  Settings</h3>
-
-<p>When you select a CA certificate from the
-  <a href="#authorities">Authorities</a> tab in the Certificate Manager and
-  click Edit, you see a window entitled <q>Edit CA certificate trust
-  settings</q>. Here you specify the kinds of certificates you trust this CA
-  to certify. If you deselect all the checkboxes, Certificate Manager will not
-  trust any certificates issued by this CA.</p>
-
-<p>The settings have these effects:</p>
+<p>Poniższe czynności wymagają najpierw zaznaczenia jednego lub więcej certyfikatów, a&nbsp;następnie naciśnięcia jednego z&nbsp;przycisków:</p>
 
 <ul>
-  <li><strong>This certificate can identify websites</strong>: Certificate
-    Manager will trust certificates issued by this CA for the purpose of
-    identifying websites and encrypting website connections. If you deselect
-    this checkbox, Certificate Manager will not trust website certificates
-    issued by this CA.</li>
-  <li><strong>This certificate can identify mail users</strong>: Certificate
-    Manager will trust certificates issued by this CA for the purpose of
-    signing or encrypting email. If you deselect this checkbox, Certificate
-    Manager will not trust email certificates issued by this CA.</li>
-  <li><strong>This certificate can identify software makers</strong>:
-    Certificate Manager will trust certificates issued by this CA for the
-    purpose of identifying software makers. If you deselect this checkbox,
-    Certificate Manager will not trust such certificates issued by this
-    CA.</li>
+  <li><strong>Wyświetl</strong>: Pokazuje dokładniejsze informacje o&nbsp;zaznaczonych certyfikatach.</li>
+  <li><strong>Edytuj</strong>: Pokazuje okno edycji ustawień wybranego certyfikatu. Te ustawienia pomagają w&nbsp;określaniu zaufania różnych rodzajów certyfikatów wydawanych przez dany organ certyfikacji.</li>
+  <li><strong>Usuń</strong>: Usuwa zaznaczone certyfikaty.</li>
 </ul>
 
-<p>Click OK to confirm the settings you have selected.</p>
+<p>Aby zapewnić odpowiedni poziom zaufania całego <a href="glossary.xhtml#certificate_chain">łańcucha certyfikatów</a> poszczególnych organów certyfikacji, wystarczy wyedytować jedynie opcje certyfikatu zaufanego organu certyfikacji.</p>
 
-<h3 id="delete_ca_certificates">Delete CA Certificates</h3>
+<p>W&nbsp;celu wykonania importu łańcucha certyfikatów, należy kliknąć w&nbsp;odpowiedni odnośnik podany na stronie organu certyfikacji. Następnie na karcie organów autoryzacji można odnaleźć główny certyfikat i&nbsp;dokonać zmian jego ustawień zaufania.</p>
 
-<p>Before deleting a CA certificate from the
-  <a href="#authorities">Authorities</a> tab in the Certificate Manager,
-  make sure that you won&apos;t need it again to validate certificates issued
-  by that CA. If you delete the only valid certificate you have for a CA,
-  Certificate Manager will no longer trust any certificates issued by that
-  CA.</p>
+<p>Organy certyfikacji (główne i&nbsp;pośrednie) widnieją na liście uporządkowane według wystawców certyfikatów głównych. Wystawca głównego certyfikatu to organ, który widnieje jako emitent własnego certyfikatu.</p>
 
-<h2 id="others">Others</h2>
+<p><strong>Zachowywanie certyfikatu pośredniego organu certyfikacji</strong>:  Przy zachowywaniu certyfikatu pośredniego organu certyfikacji, którego certyfikat wyższego poziomu obecny jest już w&nbsp;przeglądarce użytkownika i&nbsp;jest zaznaczony jako zaufany, nie zachodzi konieczność określania celów jego zaufania. Certyfikaty pośrednich organów certyfikacji automatycznie przejmują ustawienia zaufania od odpowiadających im certyfikatów wyższego poziomu.</p>
 
-<p>The Others tab in the Certificate Manager displays certificates you have
-  on file that do not fit in any of the other categories, i.e. certificates
-  that neither belong to you, other people, servers or CAs.</p>
+<h3 id="edit_ca_certificate_trust_settings">Edycja ustawień zaufania certyfikatu</h3>
 
-<p>Other certificates are grouped under the names of the organizations that
-  issued them. If you can&apos;t see certificate names under an
-  organization&apos;s name, double-click the name to expand it.</p>
+<p>Po zaznaczeniu certyfikatu organu certyfikacji na karcie <a href="#authorities">Organy certyfikacji</a> w&nbsp;Menedżerze certyfikatów i&nbsp;naciśnięciu przycisku Edycja, pojawi się okno zatytułowane <q>Edytuj ustawienia zaufania ośrodków CA</q>. W tym oknie można sprecyzować rodzaje certyfikatów, które uznaje się za zaufane dla danego organu certyfikacji. Po odznaczeniu wszystkich rodzajów certyfikatów Menedżer certyfikatów będzie traktować wszystkie certyfikaty wydane przez dany organ jako pozbawione zaufania.</p>
 
-<p>Use the following buttons to view and manage your certificates:</p>
+<p>Skutki ustawień opcji zaufania:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Export</strong>: Export the selected certificates. You can
-    choose among various formats.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
+  <li><strong>Ten certyfikat identyfikuje strony WWW</strong>: Menedżer certyfikatów będzie traktował wszystkie certyfikaty wydane przez dany organ certyfikacji jako zaufane dla celów identyfikacji serwerów WWW&nbsp;i&nbsp;ustanawiania szyfrowanych połączeń z&nbsp;usługami. Przy odznaczonej opcji Menedżer certyfikatów będzie traktował certyfikaty serwerów WWW&nbsp;wydane przez dany organ certyfikacji jako niezaufane.</li>
+  <li><strong>Ten certyfikat identyfikuje użytkowników poczty</strong>: Menedżer certyfikatów będzie traktował wszystkie certyfikaty wydane przez dany organ certyfikacji jako zaufane dla celów podpisywania lub szyfrowania poczty elektronicznej. Przy odznaczonej opcji Menedżer certyfikatów będzie traktował certyfikaty pocztowe wydane przez dany organ certyfikacji jako niezaufane.</li>
+  <li><strong>Ten certyfikat identyfikuje twórców oprogramowania</strong>: Menedżer certyfikatów będzie traktował wszystkie certyfikaty wydane przez dany organ certyfikacji jako zaufane dla celów identyfikacji twórców oprogramowania. Przy odznaczonej opcji Menedżer certyfikatów będzie traktował te certyfikaty wydane przez dany organ certyfikacji jako nie zaufane.</li>
 </ul>
 
-<h2 id="device_manager">Device Manager</h2>
+<p>Naciśnięcie przycisku OK powoduje potwierdzenie i&nbsp;zapisanie wybranych opcji.</p>
 
-<p>This section describes the options available in the Device Manager window.
-  For background information and step-by-step instructions on the use of the
-  Device Manager, see
-  <a href="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">Managing
-  Smart Cards and Other Security Devices</a>.</p>
+<h3 id="delete_ca_certificates">Usuwanie certyfikatów organów certyfikacji</h3>
 
-<p>If you are not currently viewing the Device Manager window, follow these
-  steps:</p>
+<p>Przed usunięciem certyfikatu ośrodka certyfikacji z&nbsp;karty <a href="#authorities">Ośrodki certyfikacji</a> Menedżera certyfikatów należy upewnić się, że nie będzie on więcej potrzebny do weryfikacji certyfikatów wydanych przez ten organ. Po usunięciu jedynego ważnego certyfikatu danego organu Menedżer certyfikatów będzie traktował wszystkie certyfikaty wydane przez ten organ jako niezaufane.</p>
+
+<h2 id="device_manager">Menedżer urządzeń zabezpieczających</h2>
+
+<p>Ten rozdział objaśnia opcje dostępne w&nbsp;oknie Menedżera urządzeń zabezpieczających. Dokładniejsze informacje i&nbsp;instrukcje krok-po-kroku używania Menedżera urządzeń zabezpieczających można znaleźć w&nbsp;rozdziale <a href="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">Zarządzanie kartami inteligentnymi i&nbsp;innymi urządzeniami zabezpieczającymi</a>.</p>
+
+<p>Jeżeli okno Menedżera urządzeń zabezpieczających nie jest w&nbsp;tej chwili widoczne, należy wykonać następujące czynności:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>In the Certificates panel, click Manage Security Devices.</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+  <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Certyfikaty. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
+  <li>Nacisnąć przycisk Menedżer urządzeń zabezpieczających.</li>
 </ol>
 
-<p>The Device Manager lists each available PKCS #11 module, and the security
-  devices managed by each module below the module&apos;s name.</p>
+<p>Okno Menedżera urządzeń zabezpieczających pokazuje wszystkie dostępne urządzenia i&nbsp;moduły zabezpieczające. Są one pokazywane poniżej nazwy modułu zabezpieczającego.</p>
 
-<p>When you select a module or device, information about the selected item
-  appears in the middle of the window, and some of the buttons on the right
-  side of the window become available. In general, you perform an action on
-  a module or device by selecting its name and clicking the appropriate
-  button:</p>
+<p>Po zaznaczeniu modułu lub urządzenia, w&nbsp;oknie po prawej stronie pojawiają się informacje o&nbsp;nim i&nbsp;dodatkowo uaktywniają się niektóre przyciski z&nbsp;prawej strony. Czynności związane z&nbsp;modułami lub urządzeniami wykonuje się zaznaczając jego nazwę i&nbsp;naciskając odpowiedni przycisk:</p>
 
 <ul>
-  <li><strong>Log In</strong>: Log into the selected security device. After you
-    have logged in to the device, the frequency with which you will be asked to
-    enter the master password for the device depends on the
-    <a href="passwords_help.xhtml#master_password_timeout">Master Password
-    Timeout</a> settings.</li>
-  <li><strong>Log Out</strong>: Log out of the selected security device. After
-    you have logged out of the device, the device and the certificates it
-    contains will not be available until you log in again.</li>
-  <li><strong>Change Password</strong>: Change the master password for the
-    selected security device.</li>
-  <li><strong>Load</strong>: Displays a dialog box that allows you to specify
-    the name and location of a new PKCS #11 module. Before adding a new module,
-    you should first install the module software on your computer and if
-    necessary connect any associated hardware device. Follow the instructions
-    provided by the vendor.</li>
-  <li><strong>Unload</strong>: Unload the selected module. If you unload a
-    module, both the module and its security devices are no longer available
-    for use by the browser.</li>
-  <li><strong>Enable FIPS</strong>: Turns the FIPS mode on and off. For more
-    information, see
-    <a href="using_certs_help.xhtml#enable_fips_mode">Enable FIPS
-    Mode</a>.</li>
+  <li><strong>Zaloguj</strong>: Powoduje zalogowanie się użytkownika do zaznaczonego urządzenia zabezpieczającego. Po zalogowaniu co pewien czas będzie pojawiał się monit o&nbsp;podanie głównego hasła do urządzenia. Częstotliwość pojawiania się monitu zależy od ustawienia <a href="passwords_help.xhtml#master_password_timeout">limitu czasu ważności głównego hasła</a>.</li>
+  <li><strong>Wyloguj</strong>: Powoduje wylogowanie się użytkownika z&nbsp;zaznaczonego urządzenia zabezpieczającego. Po wylogowaniu zarówno urządzenie jak i&nbsp;certyfikaty, które ono zawiera nie będą dostępne do momentu następnego zalogowania.</li>
+  <li><strong>Zmień hasło</strong>: Pokazuje okno zmiany głównego hasła do zaznaczonego urządzenia zabezpieczającego.</li>
+  <li><strong>Załaduj</strong>: Pokazuje okno dialogowe służące wprowadzeniu informacji o&nbsp;nazwie i&nbsp;lokalizacji pliku nowego modułu zabezpieczeń. Przed dodaniem nowego modułu należy najpierw zainstalować oprogramowanie modułu i, jeśli to konieczne, dołączone do modułu urządzenie sprzętowe. Należy postępować zgodnie z&nbsp;instrukcjami dostawcy modułu.</li>
+  <li><strong>Usuń z&nbsp;pamięci</strong>: Usuwa z&nbsp;pamięci zaznaczony moduł. Po usunięciu modułu z&nbsp;pamięci zarówno moduł jak i&nbsp;jego urządzenia zabezpieczające nie będą dłużej dostępne do używania w&nbsp;przeglądarce.</li>
+  <li><strong>Włącz FIPS</strong>: Włącza lub wyłącza tryb FIPS. Dodatkowe informacje są dostępne w&nbsp;rozdziale <a href="using_certs_help.xhtml#enable_fips_mode">Uaktywnianie trybu FIPS</a>.</li>
 </ul>
 
 <p>&copyright.string;</p>

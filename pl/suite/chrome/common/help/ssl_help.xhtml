@@ -1,124 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  %brandDTD;
-]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >%brandDTD;]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>SSL Settings</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+<title>Ustawienia SSL</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
 <body>
 
-<h1 id="ssl_settings">SSL Settings</h1>
+<h1 id="ssl_settings">Ustawienia SSL</h1>
 
-<p>This section describes how to set your SSL preferences.</p>
+<p>Ten rozdział objaśnia konfigurację protokołu SSL i&nbsp;szyfrów.</p>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">W&nbsp;rozdziale:
   <ul>
-    <li><a href="#privacy_and_security_preferences_ssl">Privacy &amp; Security
-      Preferences - SSL</a></li>
+    <li><a href="#privacy_and_security_preferences_ssl">Preferencje SSL</a></li>
   </ul>
 </div>
 
-<h2 id="privacy_and_security_preferences_ssl">Privacy &amp; Security
-  Preferences - SSL</h2>
+<h2 id="privacy_and_security_preferences_ssl">Preferencje SSL</h2>
 
-<p>This section describes how to use the SSL preferences panel. If you are not
-  already viewing the panel, follow these steps:</p>
+<p>Ta część objaśnia używanie panelu konfiguracji protokołu SSL. Jeżeli panel nie jest w&nbsp;tej chwili widoczny, należy wykonać poniższe czynności:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click SSL. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span><span class="noMac">Edycja</span> wybrać Preferencje.</li>
+  <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać SSL. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
 </ol>
 
-<h3 id="ssl_protocol_versions">SSL Protocol Versions</h3>
+<h3 id="ssl_protocol_versions">Wersje protokołu SSL</h3>
 
-<p>The Secure Sockets Layer (SSL) protocol defines rules governing mutual
-  authentication between a web site and browser software and the encryption of
-  information that flows between them. The Transport Layer Security (TLS)
-  protocol is an IETF standard based on SSL. TLS 1.0 can be thought of as SSL
-  3.1.</p>
+<p>Protokół SSL (ang. Secure Sockets Layer) definiuje zasady rządzące wzajemną autentykacją (uwierzytelnianiem) w&nbsp;komunikacji pomiędzy witryną WWW&nbsp;a&nbsp;oprogramowaniem służącym do przeglądania zawartości stron WWW. Zapewnia poufność i&nbsp;integralność transmisji danych. Protokół TLS (ang. Transport Layer Security) jest standardem opracowanym przez nieformalną organizację IETF (ang. Internet Engineering Task Force), zajmującą się opracowywaniem standardów technicznych i&nbsp;organizacyjnych w&nbsp;Internecie i&nbsp;bazuje na SSL. Można w&nbsp;uproszczeniu założyć, że TLS w&nbsp;wersji 1.0 jest tożsame SSL w&nbsp;wersji 3.1.</p>
 
-<p>You should normally leave these three checkboxes selected to ensure that
-  both older and newer web servers can work with the browser:</p>
+<p>Przy normalnej pracy przeglądarki wszystkie trzy pola wyboru wersji SSL powinny być zaznaczone (włączone). Zapewni to poprawną współpracę przeglądarki z&nbsp;nowszymi i&nbsp;starszymi serwerami WWW:</p>
 
 <ul>
-  <li><strong>Enable SSL version 3</strong>: Allows newer web servers to work
-    with the browser.</li>
-  <li><strong>Enable TLS</strong>: Allows web servers that support TLS to take
-    advantage of it.</li>
+  <li><strong>Włącz SSL wersję 3</strong>: Umożliwia poprawną współpracę przeglądarki z&nbsp;nowszymi serwerami WWW.</li>
+  <li><strong>Włącz TLS</strong>: Umożliwia poprawną współpracę przeglądarki z&nbsp;serwerami WWW, które obsługują standard TLS.</li>
 </ul>
 
-<p><strong>Important note regarding TLS</strong>: Some servers that do not
-  implement SSL correctly cannot negotiate the SSL handshake with client
-  software (such as the browser) that supports TLS. Such servers are known as
-  <q>TLS intolerant</q>.</p>
+<p><strong>Ważna uwaga dotycząca TLS</strong>: Niektóre serwery, nieposiadające poprawnej implementacji protokołu SSL, nie potrafią negocjować parametrów kryptograficznych z&nbsp;oprogramowaniem (np. przeglądarkami), które obsługuje standard TLS. Takie serwery są nazywane <q>serwerami nietolerancyjnymi w&nbsp;stosunku do TLS</q>.</p>
 
-<p>When the Enable TLS option in the SSL preferences panel is selected, the
-  browser attempts to use the TLS protocol when making secure connections with
-  a server. If that connection fails because the server is TLS intolerant, the
-  browser will fall back to using SSL 3.0.</p>
+<p>Jeśli opcja obsługi TLS jest włączona, przeglądarka przy ustanawianiu połączenia szyfrowanego z&nbsp;serwerem będzie najpierw próbować użyć protokołu TLS. Jeżeli połączenie nie zostanie ustanowione z&nbsp;powodu "nietolerancyjności" serwera, przeglądarka będzie próbować je ustanowić przy pomocy protokołów starszych (SSL 3.0 lub SSL 2.0).</p>
 
-<h3 id="ssl_warnings">SSL Warnings</h3>
+<h3 id="ssl_warnings">Ostrzeżenia SSL</h3>
 
-<p>It&apos;s easy to tell when the web site you are viewing is using an encrypted
-  connection. If the connection is encrypted, the lock icon in the lower-right
-  corner of the browser window is locked. If the connection is not encrypted,
-  the lock icon is unlocked.</p>
+<p>Bardzo łatwo jest zauważyć fakt oglądania strony WWW&nbsp;przy użyciu bezpiecznego połączenia. Jeżeli połączenie jest szyfrowane, wówczas ikona umieszczona w&nbsp;prawym dolnym rogu okna przeglądarki przedstawia zamkniętą kłódkę. Jeżeli połączenie nie jest szyfrowane, wówczas ikona w&nbsp;prawym dolnym rogu okna przeglądarki nie pojawia się lub przedstawia otwartą kłódkę.</p>
 
-<p>If you want additional warnings, you can select one or more of the warning
-  checkboxes in the SSL preferences panel. Some people find these warnings
-  annoying.</p>
+<p>Jeżeli zachodzi potrzeba pokazywania przez przeglądarkę dodatkowych ostrzeżeń dotyczących obsługi SSL, użytkownik może zaznaczyć jedną lub więcej opcji w&nbsp;panelu preferencji SSL. Niektóre mogą osoby uznać te dodatkowe ostrzeżenia za denerwujące.</p>
 
-<p>To activate any of these warnings, select the corresponding checkbox:</p>
+<p>Aby uaktywnić którekolwiek z&nbsp;poniższych ostrzeżeń, należy zaznaczyć odpowiednią opcję:</p>
 
 <ul>
-  <li><strong>Loading a page that supports encryption</strong>: Select this
-    warning if you want to be reminded whenever you are loading a page that
-    supports encryption.</li>
-  <li><strong>Loading a page that uses low-grade encryption</strong>: Select
-    this warning if you want to be reminded whenever you are loading a page
-    that supports low-grade encryption. (Low-grade encryption is the weakest
-    encryption available, using 40-bit keys.)</li>
-  <li><strong>Leaving a page that supports encryption</strong>: Select this
-    warning if you want to be reminded whenever you are leaving a page that
-    supports encryption for one that does not.</li>
-  <li><strong>Sending form data from an unencrypted page to an unencrypted
-    page</strong>: Select this warning if you want to be reminded whenever you
-    are submitting data over an unencrypted connection. If you send unencrypted
-    information over the Internet, it can easily be intercepted by other
-    people.</li>
-  <li><strong>Viewing a page with an encrypted/unencrypted mix</strong>:
-    Select this warning if you want to be alerted whenever you are viewing a
-    page that includes any information that&apos;s not encrypted.</li>
+  <li><strong>Wczytanie strony, która używa szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie wczytania przez przeglądarkę strony używającej szyfrowania danych podczas transmisji.</li>
+  <li><strong>Wczytanie strony, która używa niskiego poziomu szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie wczytania przez przeglądarkę strony używającej szyfrowania o&nbsp;niskim poziomie. (Szyfrowanie o&nbsp;niskim poziomie jest najsłabszym dostępnym szyfrowaniem, używa kluczy o&nbsp;długości 40 bitów).</li>
+  <li><strong>Opuszczenie strony, która używa szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie przejścia ze strony używającej szyfrowania danych na stronę, która takiego szyfrowania nie używa.</li>
+  <li><strong>Przesyłanie danych pomiędzy stronami, które nie używają szyfrowania</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy próbie przesyłania danych (np. przy użyciu formularza) przy użyciu nieszyfrowanego połączenia. Przy przesyłaniu niezaszyfrowanych danych poprzez Internet istnieje ryzyko przechwycenia tych danych przez osoby trzecie.</li>
+  <li><strong>Przeglądanie strony tylko częściowo zaszyfrowanej</strong>: Zaznaczenie tej opcji spowoduje pokazanie okna z&nbsp;odpowiednim ostrzeżeniem przy przeglądaniu strony, której nie wszystkie elementy zostały przesłane przy wykorzystaniu szyfrowanego połączenia.</li>
 </ul>
 
-<p>For short definitions, click
-  <a href="glossary.xhtml#authentication">authentication</a>,
-  <a href="glossary.xhtml#encryption">encryption</a>, or
-  <a href="glossary.xhtml#certificate">certificate</a>.</p>
+<p>Krótkie definicje ważnych przy szyfrowaniu danych pojęć: <a href="glossary.xhtml#authentication">autoryzacja</a>, <a href="glossary.xhtml#encryption">szyfrowanie</a>, lub <a href="glossary.xhtml#certificate">certyfikat</a>.</p>
 
-<p>For more information about ciphers and encryption, see the following online
-  documents:</p>
+<p>Więcej informacji o&nbsp;szyfrach i&nbsp;szyfrowaniu można znaleźć w&nbsp;poniższych dokumentach anglojęzycznych:</p>
 
 <ul>
   <li>
-    <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction
-    to Public-Key Cryptography</a></li>
+    <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction to Public-Key Cryptography</a>.</li>
   <li>
-    <a href="http://developer.mozilla.org/en/docs/Introduction_to_SSL">Introduction
-    to SSL</a></li>
+    <a href="http://developer.mozilla.org/en/docs/Introduction_to_SSL">Introduction to SSL</a>.</li>
   <li>
-    <a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html">Encryption
-    Technologies Available in NSS 3.11</a>.</li>
+    <a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html">Encryption Technologies Available in NSS 3.11</a>.</li>
 </ul>
 
 <p>&copyright.string;</p>

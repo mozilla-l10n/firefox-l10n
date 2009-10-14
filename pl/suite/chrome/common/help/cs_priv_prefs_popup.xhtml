@@ -1,144 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  %brandDTD;
-]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" > %brandDTD;]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>&brandShortName; Popup Blocking Help</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+<title>Kontrola wyskakujących okien &brandShortName;</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
 <body>
 
-<div class="boilerPlate">This document is provided for your information only.
-  It may help you take certain steps to protect the privacy and security of
-  your personal information on the Internet. This document does not, however,
-  address all online privacy and security issues, nor does it represent a
-  recommendation about what constitutes adequate privacy and security
-  protection on the Internet.</div>
+<div class="boilerPlate">Ten dokument został stworzony tylko w&nbsp;celach pomocniczych. Wskaże kilka sposobów pozwalajacych ochronić poufność i&nbsp;bezpieczeństwo informacji osobistych w&nbsp;internecie. Dokument ten jednakże nie obejmuje wszystkich zagadnień związanych z&nbsp;poufnoscią i&nbsp;bezpieczeństwem danych w&nbsp;internecie, ani nie przedstawia rekomendacji odnośnie odpowiednich ustawień programu w&nbsp;celu ich uzyskania.</div>
   
-<h1 id="controlling_popups">Controlling Popups</h1>
+<h1 id="controlling_popups">Kontrola wyskakujących okien</h1>
 
-<p><strong>What are Popups?</strong></p>
+<p><strong>Czym są wyskakujące okna?</strong></p>
 
-<p>Pop-up windows, or popups, are windows that appear automatically and without
-  your permission. They vary in size, but usually don&apos;t cover the whole
-  screen. Some popups open on top of the current browser window, thus popping
-  up, while others appear underneath the browser (popunders).</p>
+<p>Wyskakujące okna są to okna pojawiające się na ekranie w&nbsp;sposób automatyczny i&nbsp;bez zezwolenia użytkownika. Posiadają różne rozmiary, ale z&nbsp;reguły nie zajmują całej powierzchni ekranu. Niektóre z&nbsp;nich otwierają się nad bieżącym oknem przeglądarki, (stąd nazwa <q>wyskakujące okna</q>), inne otwierają się w&nbsp;tle (pod aktywnym oknem przeglądarki).</p>
 
-<p>&brandShortName; allows you to control both popups and popunders through the
-  <a href="#privacy_and_security_preferences_popup_windows">Popup Windows
-  preferences panel</a>. Since popup blocking is turned off by default, you
-  must enable it to prevent popups from appearing in the browser.</p>
+<p>&brandShortName; umożliwia kontrolę nad obydwoma typami okien wyskakujących poprzez <a href="#privacy_and_security_preferences_popup_windows">Panel preferencji wyskakujących okien</a>. Ponieważ blokada wyskakujących okien jest domyślnie wyłączona, użytkownik musi ją samodzielnie włączyć w&nbsp;celu blokowania niepożądanych wyskakujących okien.</p>
 
-<p>When blocking a popup, &brandShortName; can be set up to play a sound or
-  display an icon
-  <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
-  icon"/> in the status bar or a notification bar at the top of the website
-  content area, or any combination of the above. You can use the icon or the
-  bar to add a website you&apos;re viewing to an exceptions list so that the
-  site is allowed to again display popups.</p>
+<p>Podczas blokady wyskakującego okna &brandShortName; może odtwarzać dźwięki oraz wyświetlać w&nbsp;dolnym pasku stanu specjalną ikonkę <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control icon"/>. Klikając w&nbsp;tę ikonkę można dodać witrynę WWW&nbsp;do listy akceptowanych witryn, które mogą wyświetlać wyskakujące okna.</p>
 
-<p><strong>Blocking popups may interfere with some websites</strong>: Some web
-  sites, including some banking sites, use popups for important features. 
-  Blocking all popups disables such features. To allow specific websites to
-  use popups, while blocking all others, you can add specific websites to the
-  list of allowed sites. For more information, see
-  <a href="#privacy_and_security_preferences_popup_windows">Privacy &amp;
-  Security Preferences - Popup Windows</a>.</p>
+<p><strong>Blokowanie wyskakujących okien może uniemożliwiać korzystanie z&nbsp;niektórych witryn WWW</strong>: Niektóre witryny WWW, przykładowo strony banków, używają wyskakujących okien dla przekazania istotnych informacji. Blokowanie wszystkich wyskakujących okien może uniemożliwić korzystanie z&nbsp;tych informacji. Aby zezwolić witrynie na używanie wyskakujących okien przy jednoczesnej ich blokadzie w&nbsp;innych witrynach, należy dodać witrynę do listy witryn akceptowanych. Więcej informacji na ten temat w&nbsp;rozdziale <a href="#privacy_and_security_preferences_popup_windows">Prywatność i&nbsp;zabezpieczenia &mdash; Wyskakujące okna</a>.</p>
 
-<p><strong>Blocking popups doesn&apos;t always work</strong>: Although
-  &brandShortName; blocks most popups, some websites, even when blocked, may
-  use other methods to show popups.</p>
+<p><strong>Blokowanie wyskakujących okien nie jest skuteczne w&nbsp;100 procentach</strong>: Jakkolwiek &brandShortName; potrafi blokować większość wyskakujących okien, niektóre witryny internetowe (nawet będące na liście witryn zablokowanych) mogą używać innych metod do pokazywania wyskakujących okien.</p>
 
-<p><strong>Allowing popups from certain websites</strong>: After you&apos;ve
-  enabled popup blocking, you can still allow specific sites to display popups.
-  Browse to the website, and then from the Tools menu, choose Popup Manager,
-  and then choose Allow Popups From This Site.</p>
+<p><strong>Akceptowanie wyskakujących okien z&nbsp;konkretnych witryn internetowych</strong>: W&nbsp;dalszym ciągu (nawet po uaktywnieniu funkcji blokowania) istnieje możliwość zezwalania poszczególnym witrynom na otwieranie wyskakujących okien. Należy w&nbsp;tym celu wyświetlić stronę WWW, a&nbsp;następnie z&nbsp;menu Narzędzia wybrać Zarządzaj wyskakującymi oknami i&nbsp;z&nbsp;podmenu Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę.</p>
 
-<p>The next section describes how to control popups through preferences and
-  through the popup control icon.</p>
+<p>Następny rozdział objaśnia, jak kontrolować wyskakujące okna poprzez preferencje i&nbsp;poprzez ikonę wyskakujących okien.</p>
 
-<h2 id="privacy_and_security_preferences_popup_windows">Privacy &amp; Security
-  Preferences - Popup Windows</h2>
+<h2 id="privacy_and_security_preferences_popup_windows">Prywatność i&nbsp;zabezpieczenia &mdash; Wyskakujące okna</h2>
 
-<p>This section describes how to use the Popup Windows preferences panel. If
-  you&apos;re not already viewing it, follow these steps:</p>
+<p>Ten rozdział objaśnia ustawienia panelu preferencji dotyczące wyskakujących okien przeglądarki. Jeżeli panel nie jest w&nbsp;tej chwili widoczny, należy:</p>
 
 <ol>
-  <li>Open the
-    <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security Preferences category, click Popup
-    Windows. (If no subcategories are visible, double-click Privacy &amp;
-    Security to expand the list.)</li>
+  <li>Z&nbsp;menu <span class="mac">&brandShortName;</span> <span class="noMac">Edycja</span> wybrać Preferencje.</li>
+  <li>W&nbsp;kategorii Prywatność i&nbsp;zabezpieczenia wybrać Wyskakujące okna. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Prywatność i&nbsp;zabezpieczenia.)</li>
 </ol>
 
 <ul>
-  <li><strong>Block unrequested popup windows</strong>: Select this to prevent
-    popups from appearing in the browser.</li>
-  <li><strong>Allowed Sites</strong>: Click this to view and edit the list of
-    web sites that you want to allow to display popups.
+  <li><strong>Blokuj niepożądane wyskakujące okna</strong>: Zaznaczenie tej opcji włącza blokadę wyskakujących okien w&nbsp;przeglądarce.</li>
+  <li><strong>Akceptowane witryny</strong>: Naciśnięcie tego przycisku otwiera okno dialogowe umożliwiające podgląd i&nbsp;edycję listy witryn internetowych, które mogą otwierać wyskakujące okna.
     <ul>
-      <li><strong>Allowed websites</strong>: The list of allowed websites
-        appears when you click <q>Allowed Sites</q>. You can add or remove
-        websites that should be allowed to show popups.</li>
-      <li><strong>Add</strong>: Click this after typing in a website that you
-        want to add to the list.</li>
-      <li><strong>Remove</strong>: Click this to remove a selected website.</li>
-      <li><strong>Remove All</strong>: Click this to remove all of the websites
-        in the current list.</li>
+      <li><strong>Wyskakujące okna otwierane przez witryny znajdujące się na poniższej liście będą wyświetlane</strong>: Lista zawiera adresy witryn, którym Użytkownik zezwolił na otwieranie wyskakujących okien. W&nbsp;tym miejscu można do listy akceptowanych witryn dodać witrynę lub z&nbsp;niej ją usunąć.</li>
+      <li><strong>Dodaj witrynę</strong>: Naciśnięcie przycisku dodaje wprowadzony adres witryny do listy.</li>
+      <li><strong>Usuń witrynę</strong>: Naciśnięcie przycisku usuwa z&nbsp;listy zaznaczoną witrynę.</li>
+      <li><strong>Usuń wszystkie witryny</strong>: Naciśnięcie przycisku usuwa z&nbsp;listy adresy wszystkich witryn.</li>
     </ul>
   </li>
 </ul>
 
-<h3>When a popup window has been blocked</h3>
+<h3>Wykonaj poniższe czynności, gdy zostanie zablokowane wyskakujące okno:</h3>
 
 <ul>
-  <li><strong>Play a sound</strong>: If you want a sound to play each time
-    the browser blocks a popup, select this option and type the location of the
-    sound file.
+  <li><strong>Odtwórz dźwięk</strong>: Zaznaczenie tej opcji spowoduje odtworzenie wybranego pliku dźwiękowego w&nbsp;momencie zablokowania wyskakującego okna. Nazwę i&nbsp;ścieżkę do pliku można wpisać w&nbsp;pole tekstowe lub wybrać przy użyciu przycisku <q>Wybierz</q>
     <ul>
-      <li><strong>Select</strong>: Click this to choose a sound file instead of
-        typing its location in the field.</li>
-      <li><strong>Preview</strong>: Click this to listen to the chosen
-        sound.</li>
+      <li><strong>Wybierz</strong>: Naciśnięcie przycisku otwiera okno dialogowe umożliwiające wybór pliku dźwiękowego.</li>
+      <li><strong>Odtwórz</strong>: Naciśnięcie przycisku spowoduje odtworzenie wybranego pliku dźwiękowego.</li>
     </ul>
   </li>
-  <li><strong>Display an icon in the browser status bar</strong>: Select this
-    to display an icon
-    <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
-    icon"/> in the browser status bar to indicate that a popup is blocked.
+  <li><strong>Wyświetl ikonę na pasku stanu przeglądarki</strong>: Zaznaczenie tej opcji spowoduje wyświetlenie na pasku stanu przeglądarki ikony <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Ikona kontroli wyskakującego okna"/> świadczącej o&nbsp;zablokowaniu wyskakującego okna.
 
-    <p><strong>Note</strong>: After the popup control icon
-      <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup
-      control icon"/> appears, it remains visible until you visit another
-      website.</p>
+    <p><strong>Uwaga</strong>: Ikona zablokowanego wyskakującego okna <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Ikona kontroli wyskakującego okna"/> jest widoczna przez cały czas przebywania na stronie i&nbsp;znika w&nbsp;momencie wejścia na inną stronę WWW.</p>
   </li>
-  <li><strong>Display a notification bar at the top of the content area</strong>:
-    Select this to display a notification bar above the website content area
-    whenever a popup is blocked. In the bar, use the Preferences button to choose
-    how to handle popups from that website.
-  </li>
-</ul>
+  <li><strong>Wyświetlay pasek powiadomień powyżej wyświetlanej strony</strong>: Zaznaczenie tej opcji spowoduje wyświetlanie powyżej treści strony paska z informacją o zablokowanym wyskakującym oknie. Po naciśnięciu przycisku na tym pasku można zdecydować jak mają być obsługiwane wyskakujące okna na tej witrynie.</li>
+ </ul>
 
-<p><strong>Using the popup control icon or notification bar to add allowed
-  websites</strong>: You can use the popup control icon or notification bar to
-  quickly add a website to the list of allowed websites. Click the icon
-  <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
-  icon"/> to open the list of allowed websites. The current website is
-  already filled in. Click Add and then click OK to confirm your addition.
-  Similarly you can use the notification bar to allow popups from the current
-  website or open the list of allowed websites through Manage Popups. Just
-  click the Preferences button at the right end of the notification bar.</p>
+<p><strong>Używanie ikony do dodawania witryny do listy witryn akceptowanych</strong>: Wyświetlona na pasku stanu ikona umożliwia szybkie dodanie witryny do listy witryn akceptowanych. Kliknięcie na ikonę <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control icon"/> otwiera okno z&nbsp;listą witryn akceptowanych. W&nbsp;polu tekstowym okna dialogowego Menedżera wyskakujących okien jest wpisany adres bieżącej witryny. Kliknięcie na przycisk Dodaj witrynę oraz przycisk OK spowoduje dodanie jej do listy witryn akceptowanych.</p>
 
-<p><strong>Note</strong>: Blocking popups may not always work and may interfere
-  with some websites. For more information about blocking popups, see
-  <a href="#controlling_popups">Controlling Popups</a>.</p>
+<p><strong>Uwaga</strong>: Blokowanie wyskakujących okien może nie zawsze działać w&nbsp;100 procentach i&nbsp;może sprawiać problemy z&nbsp;poprawnym działaniem niektórych witryn. Więcej informacji o&nbsp;blokowaniu wyskakujących okien w&nbsp;rozdziale <a href="#controlling_popups">Kontrola wyskakujących okien</a>.</p>
 
 <p>&copyright.string;</p>
 

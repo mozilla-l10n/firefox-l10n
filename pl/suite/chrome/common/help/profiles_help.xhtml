@@ -1,109 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  %brandDTD;
-]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >%brandDTD;]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Managing Profiles</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+<title>Zarządzanie profilami</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
 <body>
 
-<h1 id="managing_profiles">Managing Profiles</h1>
+<h1 id="managing_profiles">Zarządzanie profilami</h1>
 
-<p>If you use the Internet at home and at work, you may want to have access to
-  a different set of bookmarks, preferences, address books, email accounts,
-  Sidebar setup, and so on. Similarly, family members may want to share a copy
-  of the same browser software but keep their Internet identities separate.</p>
+<p>W&nbsp;przypadku, gdy użytkownik korzysta z&nbsp;Internetu zarówno do celów prywatnych jak i&nbsp;służbowych, przydatne może być posiadanie dwóch zupełnie różnych zbiorów zakładek, preferencji, książek adresowych, kont pocztowych, ustawień panelu bocznego, itp. Podobnie, gdy z&nbsp;tego samego komputera korzysta wiele osób, możliwe jest, aby każda z&nbsp;nich miała indywidualne ustawienia, zapisane w&nbsp;danych odrębnych tożsamości internetowych, w&nbsp;&brandShortName; zwanych profilami.</p>
 
-<p>The Profile Manager lets you create different profiles, each with its own
-  bookmarks, preferences, email settings, and so on. You automatically create a
-  default profile when you first install your browser software. After you
-  create one or more additional profiles, you will be asked which you want to
-  use each time you launch the browser.</p>
+<p>Modułem &brandShortName; umożliwiającym zarządzanie tożsamościami (profilami) internetowymi jest Menedżer Profili. Pozwala on na tworzenie profili, z&nbsp;których każdy przechowuje osobną konfigurację przeglądarki, ustawienia poczty, zestaw zakładek, książek adresowych itp. Podczas instalacji Mozilli automatycznie tworzony jest jeden profil domyślny. Jeżeli utworzony zostanie jeden lub więcej dodatkowych profili, to przy każdym starcie dowolnego komponentu &brandShortName;, użytkownik zostanie zapytany, którego profilu chce użyć.</p>
 
-<div class="contentsBox">In this section:
- <ul>
-    <li><a href="#creating_a_new_profile">Creating a New Profile</a></li>
-    <li><a href="#deleting_or_renaming_a_profile">Deleting or Renaming a
-      Profile</a></li>
+<div class="contentsBox">W&nbsp;tym rozdziale:
+  <ul>
+    <li><a href="#creating_a_new_profile">Tworzenie nowego profilu</a></li>
+    <li><a href="#deleting_or_renaming_a_profile">Usuwanie lub zmiana nazwy profilu</a></li>
   </ul>
 </div>
 
-<h2 id="creating_a_new_profile">Creating a New Profile</h2>
+<h2 id="creating_a_new_profile">Tworzenie nowego profilu</h2>
 
-<p>To create a profile:</p>
-
-<ol>
-  <li>Open the Profile Manager:
-    <ul>
-      <li><strong>If &brandShortName; is running</strong>: Open the Tools menu
-        and select Switch Profile.</li>
-      <li><strong>If &brandShortName; is closed</strong>:<span class="win">
-        Open the Start menu and choose Programs, then &brandShortName;, then
-        Profile Manager.</span><span class="mac"> Hold down the
-        <kbd>Option</kbd> key while you&apos;re starting &brandShortName; from
-        the Finder or the Dock.</span><span class="unix"> Type the following at
-        the command line: <kbd>./mozilla -profilemanager</kbd></span></li>
-    </ul>
-  </li>
-  <li>Click Create Profile, read the Profile description, and then click
-    Next.</li>
-  <li>Enter a profile name. This can be anything you like, such as your real
-    name or a name that&apos;s related to what you use the profile for, such as
-    <q>School</q>.</li>
-  <li>Accept the default location for the new profile, or click the Choose
-    Folder button and navigate to the location you want.</li>
-  <li>If you have additional Language Packs installed, click
-    Select Language and choose the language you want.</li>
-  <li>Click Finish.</li>
-</ol>
-
-<p>[<a href="#managing_profiles">Return to beginning of section</a>]</p>
-
-<h2 id="deleting_or_renaming_a_profile">Deleting or Renaming a Profile</h2>
-
-<p>You may want to delete profiles that you don&apos;t normally use. To delete
-  or rename an existing profile:</p>
+<p>W&nbsp;celu utworzenia nowego profilu użytkownika należy:</p>
 
 <ol>
-  <li>Open the Profile Manager:
+  <li>Uruchomić Menedżera profili:
     <ul>
-      <li><strong>If &brandShortName; is running</strong>: Open the Tools menu
-        and select Switch Profile. <strong>Note</strong>: You can&apos;t delete
-        the profile that is in use.</li>
-      <li><strong>If &brandShortName; is closed</strong>:
-        <span class="win"> Open the Start menu and choose Programs, then
-        &brandShortName;, then Profile Manager.</span><span class="mac"> Hold
-        down the <kbd>Option</kbd> key while you&apos;re starting
-        &brandShortName; from the Finder or the Dock.</span><span class="unix">
-        Type the following at the command line:
-        <kbd>./mozilla -profilemanager</kbd></span></li>
+      <li><strong>Jeżeli &brandShortName; jest uruchomiona</strong>: Należy z&nbsp;menu Narzędzia wybrać Zmień profil.</li>
+      <li><strong>Jeżeli &brandShortName; nie jest uruchomiona</strong>:<span class="win"> Należy z&nbsp;menu Start wybrać kategorie: Programy, &brandShortName;, Menedżer profili.</span><span class="mac"> Należy nacisnąć przycisk <kbd>Option</kbd> podczas uruchamiania &brandShortName; z&nbsp;Findera lub Doku.</span><span class="unix"> Należy w&nbsp;konsoli wykonać następujące polecenie: <kbd>./seamonkey -profilemanager</kbd></span></li>
     </ul>
   </li>
-  <li>To delete a profile, select its name and click Delete Profile. In the
-    confirmation box, choose one of the following options:
-    <ul>
-      <li><strong>Delete files</strong>: Deletes the whole profile folder
-        with its stored data (bookmarks, preferences, email
-        accounts, and so on). <em>Make sure that you won&apos;t need anything
-        from the profile in the future before you choose this option.</em></li>
-      <li><strong>Don&apos;t delete files</strong>: Removes the profile from
-        the list of available profiles, but keeps the profile folder. By
-        choosing this option none of your profile&apos;s stored data will be
-        deleted.</li>
-    </ul>
-  </li>
-  <li>To rename a profile, select its name, click Rename Profile, and follow the
-    instructions.</li>
+  <li>Nacisnąć przycisk Utwórz nowy profil, zapoznać się z&nbsp;krótkimi informacjami na temat tworzonego profilu, a&nbsp;następnie nacisnąć przycisk Dalej.</li>
+  <li>W&nbsp;kolejnym oknie wprowadzić nazwę profilu. Nazwa może być dowolna, jednak musi być różna od nazw już istniejących profili.</li>
+  <li>Zaaprobować domyślny katalog przechowywania danych profilu, lub (po naciśnięciu przycisku Wybierz katalog) wybrać dysk i&nbsp;katalog przechowywania danych profilu.</li>
+  <li>Jeżeli w&nbsp;programie są zainstalowane różne pakiety językowe, należy nacisnąć przycisk Wybierz język i&nbsp;wybrać żądany język.</li>
+  <li>Aby zakończyć tworzenie nowego profilu, nacisnąć przycisk Zakończ.</li>
 </ol>
 
-<p>[<a href="#managing_profiles">Return to beginning of section</a>]</p>
+<p>[<a href="#managing_profiles">Na początek rozdziału</a>]</p>
+
+<h2 id="deleting_or_renaming_a_profile">Usuwanie lub zmiana nazwy profilu</h2>
+
+<p>Użytkownik ma także możliwość usunięcia profili, które nie są już dłużej potrzebne i&nbsp;używane. W&nbsp;celu usunięcia lub zmiany nazwy profilu, należy:</p>
+
+<ol>
+  <li>Uruchomić Menedżera profili:
+    <ul>
+      <li><strong>Jeżeli &brandShortName; jest uruchomiona</strong>: Należy z&nbsp;menu Narzędzia wybrać Zmień profil. <strong>Uwaga</strong>: nie można skasować aktualnie używanego profilu.</li>
+      <li><strong>Jeżeli &brandShortName; nie jest uruchomiona</strong>:<span class="win"> Należy z&nbsp;menu Start wybrać kategorie: Programy, &brandShortName;, Menedżer profili.</span><span class="mac"> Należy nacisnąć przycisk <kbd>Option</kbd> podczas uruchamiania &brandShortName; z&nbsp;Findera lub Doku.</span><span class="unix"> Należy w&nbsp;konsoli wykonać następujące polecenie: <kbd>./mozilla -profilemanager</kbd></span></li>
+    </ul>
+  </li>
+  <li>W&nbsp;celu usunięcia profilu należy zaznaczyć jego nazwę, a&nbsp;następnie nacisnąć przycisk Usuń zaznaczony profil. W&nbsp;oknie dialogowym potwierdzenia kasowania profilu użytkownik może wybrać jedną z&nbsp;następujących opcji:
+    <ul>
+      <li><strong>Usuń pliki</strong>: usuwa cały katalog profilu wraz z&nbsp;plikami z&nbsp;danymi (takimi jak: zachowana poczta, zakładki, certyfikaty, ustawienia i&nbsp;wszystkie inne pozostałe prywatne dane). <em>Przed wyborem tej opcji należy upewnić się czy na pewno w&nbsp;przyszłości żadne z&nbsp;informacji nie będą potrzebne. Jest to operacja której nie można cofnąć.</em></li>
+      <li><strong>Nie usuwaj plików</strong>: Usuwa profil z&nbsp;listy dostępnych profili jednak nie usuwa fizycznie z&nbsp;dysku ani katalogów ani plików.</li>
+    </ul>
+  </li>
+  <li>W&nbsp;celu zmiany nazwy zaznaczonego profilu należy zaznaczyć jego nazwę, a&nbsp;następnie nacisnąć przycisk Zmień nazwę profilu i&nbsp;postępować zgodnie ze wskazówkami na ekranie.</li>
+</ol>
+
+<p>[<a href="#managing_profiles">Na początek rozdziału</a>]</p>
+
+<h2 id="roaming_profiles">Przenośne profile</h2>
+
+<p class="noMac"><strong>Uwaga</strong>: Ta funkcja obecnie nie jest dostępna w&nbsp;instalacyjnych wydaniach &brandShortName;.</p>
+
+<p>Przenośny profil pozwala na przetrzymywanie profilu i&nbsp;skojarzonych ustawień na serwerze. Celem tego jest umożliwienie podążania ustawień za użytkownikiem z&nbsp;jednego komputera na dowolny inny. Przykładowo użytkownik &brandShortName; może chcieć posiadać zsynchronizowane książki adresowe, zakładki i&nbsp;inne ustawienia w&nbsp;pracy oraz domu, lub firma może chcieć aby jej pracownicy używali jednego profilu &brandShortName; na dowolnym komputerze.</p>
+
+<p>Przenośne profile mogą być przetrzymywane na serwerach HTTP lub FTP. W&nbsp;takim przypadku użytkownik potrzebuje loginu i&nbsp;hasła w&nbsp;celu uzyskania prawa zapisu do przypisanego katalogu, aby możliwe było składowanie i&nbsp;przesyłanie danych z&nbsp;profilu. Na komputerach używających współdzielonych zasobów plikowych można przechowywać profil w&nbsp;lokalnym katalogu, umieszczając go tam za pomocą operacji kopiowania.</p>
+
+<p>Profil będzie pobierany podczas startu &brandShortName; i&nbsp;wysyłany podczas zamykania.</p>
+
+<p>[<a href="#managing_profiles">Na początek rozdziału</a>]</p>
 
 <p>&copyright.string;</p>
 
