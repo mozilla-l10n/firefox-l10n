@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Màu:">
 <!ENTITY color.accesskey                  "M">
 <!ENTITY displayWidth.label               "Thư Văn Bản Thuần">
-<!ENTITY plainText.label                  "Sử dụng phông sau:">
 <!ENTITY displayText.label                "Khi hiển thị nội dung văn bản thuần được trích dẫn:">
-<!ENTITY fixedWidth.label                 "Phông có độ rộng cố định">
-<!ENTITY fixedWidth.accesskey             "r">
-<!ENTITY variableWidth.label              "Phông có độ rộng biến đổi">
-<!ENTITY variableWidth.accesskey          "b">
 <!ENTITY colors.label                     "Màu sắc">
 <!ENTITY overrideColors.label             "Khi hiển thị thư, dùng những màu sau:">
 <!ENTITY textColor.label                  "Màu Chữ:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "X">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Cấu hình phông và bảng mã dùng bởi &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Phông &amp; Bảng mã">
-<!ENTITY fontOptions.accesskey   "P">
-<!ENTITY fontOptions.label       "Phông…">
+<!ENTITY fontsAndColors.label    "Phông">
+<!ENTITY defaultFont.label       "Phông mặc định:">
+<!ENTITY defaultFont.accesskey   "P">
+<!ENTITY defaultSize.label       "Kích cỡ:">
+<!ENTITY defaultSize.accesskey   "K">
+<!ENTITY fontOptions.accesskey   "o">
+<!ENTITY fontOptions.label       "Nâng cao…">

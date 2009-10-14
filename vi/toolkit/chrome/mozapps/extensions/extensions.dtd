@@ -124,7 +124,7 @@
 <!ENTITY getPlugins.label                 "Lấy thêm Phần bổ trợ">
 
 <!ENTITY searchAddons.label               "Tìm Tất cả các Tiện ích">
-<!ENTITY browseAddons.label               "Duyệt Tất cả các Tiện ích">
+<!ENTITY browseAddons.label               "Duyệt xem Tất cả Tiện ích">
 <!ENTITY searchFailed.label               "&brandShortName; không thể lấy Tiện ích về">
 <!ENTITY recommendedHeader.label          "Khuyên dùng">
 <!ENTITY recommendedThrobber.label        "Đang lấy về những tiện ích được khuyên dùng">

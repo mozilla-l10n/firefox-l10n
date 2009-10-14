@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "&brandFullName; Công trạng">
 <!ENTITY brandMotto       "Chim Sét Đang Bay!">
-<!ENTITY credit.leads     "Chỉ đạo Kĩ thuật">
 <!ENTITY credit.thanks    "Đặc biệt Cảm ơn">
 
 <!-- localization credits look like this: -->
@@ -10,8 +9,5 @@
 -->
 <!ENTITY credit.translation "<h3>Mozilla Việt Nam</h3><ul><li>Nguyễn Mạnh Hùng</li><li>Nguyễn Xuân Minh</li><li>Huỳnh Hải Đăng</li><li>Bùi Việt Khoa</li><li>Trần Nguyễn Sơn</li><li>http://vi.mozdev.org</li></ul>">
 
-<!ENTITY credit.theme          "Thiết kế Giao diện">
-<!ENTITY credit.qa             "Bảo đảm Chất lượng">
-<!ENTITY credit.build          "Xây dựng và Phát hành">
 <!ENTITY credit.memory         "Thương Nhớ Về">
 <!ENTITY credit.poweredByGecko "Tiếp sức mạnh từ Gecko&trade;">

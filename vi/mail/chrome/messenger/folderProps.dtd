@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Tạo lại Tập tin Tóm tắt"> 
      
 <!ENTITY retention.label "Chính sách Sử dụng">
-<!ENTITY retentionUseDefault.label  "Dùng mặc định của máy chủ">
-<!ENTITY retentionUseDefault.accesskey "D">
+<!ENTITY retentionUseAccount.label  "Sử dụng thiết lập tài khoản của tôi">
+<!ENTITY retentionUseAccount.accesskey "S">
 <!ENTITY daysOld.label "ngày">
 <!ENTITY message.label "thư mới nhất">
 <!ENTITY retentionCleanup.label "Để khôi phục dung lượng đĩa, thư cũ sẽ bị xóa.">

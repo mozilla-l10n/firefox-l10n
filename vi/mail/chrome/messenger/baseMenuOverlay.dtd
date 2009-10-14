@@ -7,6 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "p">
 <!ENTITY releaseCmd.label "Ghi chú Phát hành">
 <!ENTITY releaseCmd.accesskey "P">
+<!ENTITY whatsNewCmd.label "Có Gì Mới">
+<!ENTITY whatsNewCmd.accesskey "G">
+<!ENTITY featureConfiguratorCmd.label "Trợ lí Di cư">
+<!ENTITY featureConfiguratorCmd.accesskey "D">
 <!ENTITY openHelp.label "Nội dung Trợ giúp">
 <!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -15,5 +19,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "Tìm bản Cập nhật…">
-<!ENTITY aboutCmd.label "Thông tin về &brandFullName;">
-<!ENTITY aboutCmd.accesskey "v">
+<!ENTITY aboutMenuCmd.label "Thông tin về &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "v">

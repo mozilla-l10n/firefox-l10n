@@ -1,3 +1,4 @@
 <!ENTITY window.title             "Tóm tắt Thư">
 <!ENTITY selectedmessages.label   "Các thư Đã chọn">
 <!ENTITY archive.label            "lưu trữ">
+<!ENTITY delete.label             "xóa">

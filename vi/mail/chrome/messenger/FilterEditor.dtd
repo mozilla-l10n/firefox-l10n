@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Kiểm tra Thư">
 <!ENTITY contextManual.label "Tự Chạy">
 <!ENTITY contextBoth.label "Kiểm tra Thư hoặc Tự Chạy">
+<!ENTITY contextPostPlugin.label "Đang kiểm tra Thư (sau phân loại)">
+<!ENTITY contextPostPluginBoth.label "Đang kiểm tra Thư (sau phân loại) hoặc Chạy thủ công">
 <!ENTITY filterActionDesc.label "Thực hiện các thao tác này:">
 <!ENTITY filterActionDesc.accesskey "T">
 

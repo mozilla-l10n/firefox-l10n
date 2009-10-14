@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "D">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Gói lại">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "G">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY delete.label "Xóa">
 <!ENTITY delete.accesskey "X">
+<!ENTITY removeAttachment.label "Xóa phần đính kèm">
+<!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Đổi tên…">
 <!ENTITY renameAttachment.accesskey "i">
 <!ENTITY selectAll.label "Chọn Toàn Bộ">
