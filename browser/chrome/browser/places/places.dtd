@@ -23,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey "С">
 <!ENTITY view.sortDescending.label "В обратном порядке">
 <!ENTITY view.sortDescending.accesskey "о">
-<!ENTITY help.usingBookmarks.label "Использование закладок">
-<!ENTITY help.usingBookmarks.accesskey "з">
-<!ENTITY help.usingHistory.label "Использование журнала">
-<!ENTITY help.usingHistory.accesskey "ж">
-<!ENTITY help.advancedTips.label "Советы опытным пользователям">
-<!ENTITY help.advancedTips.accesskey "С">
 <!ENTITY cmd.findInBookmarks.label "Найти в Закладках…">
 <!ENTITY cmd.findInBookmarks.accesskey "й">
 <!ENTITY cmd.findCurrent.label "Найти в текущей коллекции…">
@@ -79,7 +73,6 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "в">
 <!ENTITY cmd.properties.label "Свойства">
 <!ENTITY cmd.properties.accesskey "в">
-<!ENTITY cmd.show_info.key "i">
 <!ENTITY cmd.rename.label "Переименовать">
 <!ENTITY cmd.rename.accesskey "П">
 <!ENTITY cmd.sortby_name.label "Сортировка по имени">
@@ -98,14 +91,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "н">
 <!ENTITY cmd.reloadMicrosummary.label "Обновить текущий заголовок">
 <!ENTITY cmd.reloadMicrosummary.accesskey "б">
-<!ENTITY cmd.groupby_site.label "Группировать по сайту">
-<!ENTITY cmd.groupby_site.accesskey "с">
-<!ENTITY cmd.groupby_page.label "Группировать по странице">
-<!ENTITY cmd.groupby_page.accesskey "т">
-<!ENTITY cmd.groupby_feed.label "Группировать по подписке">
-<!ENTITY cmd.groupby_feed.accesskey "п">
-<!ENTITY cmd.groupby_post.label "Группировать по посту">
-<!ENTITY cmd.groupby_post.accesskey "о">
 <!ENTITY cmd.moveBookmarks.label "Переместить…">
 <!ENTITY cmd.moveBookmarks.accesskey "м">
 <!ENTITY col.name.label "Имя">
@@ -127,50 +112,11 @@
 <!ENTITY search.scopeDownloads.accesskey "г">
 <!ENTITY search.scopeHistory.label "Журнал">
 <!ENTITY search.scopeHistory.accesskey "у">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Показать построитель поиска">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Скрыть построитель поиска">
 <!ENTITY saveSearch.label "Сохранить">
 <!ENTITY saveSearch.accesskey "С">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Искать только в закладках">
-<!ENTITY advancedSearch.match.label "Совпадает">
-<!ENTITY advancedSearch.all.label "всем из следующих">
-<!ENTITY advancedSearch.any.label "любому из следующих">
-<!ENTITY advancedSearch.rules.label " правил:">
-<!ENTITY advancedSearch.subj_keyword.label "Содержащая текст">
-<!ENTITY advancedSearch.subj_visited.label "Посещёна">
-<!ENTITY advancedSearch.subj_location.label "Адрес">
-<!ENTITY advancedSearch.location_startswith.label "начинается с">
-<!ENTITY advancedSearch.location_is.label "совпадает с">
-<!ENTITY advancedSearch.location_onsite.label "расположен на сайте">
-<!ENTITY advancedSearch.time_is.label "на">
-<!ENTITY advancedSearch.time_before.label "до">
-<!ENTITY advancedSearch.time_after.label "после">
-<!ENTITY advancedSearch.time_inlast.label "в последние">
-<!ENTITY advancedSearch.last_days.label "дней">
-<!ENTITY advancedSearch.last_weeks.label "недель">
-<!ENTITY advancedSearch.last_months.label "месяцев">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Группировать по:">
-<!ENTITY advancedSearch.groupby_host.label "узлу">
-<!ENTITY advancedSearch.groupby_domain.label "домену">
-<!ENTITY advancedSearch.groupby_folder.label "папке">
-<!ENTITY advancedSearch.sortby.label "Сортировка по:">
-<!ENTITY advancedSearch.sortby_title.label "заголовку">
-<!ENTITY advancedSearch.sortby_date.label "дате">
-<!ENTITY advancedSearch.sortby_visit.label "количеству посещений">
-<!ENTITY advancedSearch.sortby_url.label "ссылке (URL)">
-<!ENTITY advancedSearch.sortby_asc.label "возрастанию">
-<!ENTITY advancedSearch.sortby_desc.label "убыванию">
-<!ENTITY advancedSearch.max.label "Макс. количество результатов:">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "Лента новостей">
 <!ENTITY feed.subscribe.tooltip "Подписаться">
-<!ENTITY view.detailsMacOSX.label "Список">
-<!ENTITY view.details.label "Подробности">
-<!ENTITY view.details.accesskey "д">
-<!ENTITY view.addons.label "Загрузить расширения для меню «Вид»">
 <!ENTITY maintenance.label "Импорт и резервирование">
 <!ENTITY maintenance.accesskey "м">
 <!ENTITY backCmd.label "Назад">
