@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z'den A'ya sırala">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Yer imlerini kullanma">
-<!ENTITY help.usingBookmarks.accesskey "Y">
-<!ENTITY help.usingHistory.label "Geçmişi kullanma">
-<!ENTITY help.usingHistory.accesskey "e">
-<!ENTITY help.advancedTips.label "İleri düzey ipuçları ve marifetler">
-<!ENTITY help.advancedTips.accesskey "t">
 
 <!ENTITY cmd.findInBookmarks.label "Yer imlerinde bul…">
 <!ENTITY cmd.findInBookmarks.accesskey "Y">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label "Özellikler">
 <!ENTITY cmd.properties.accesskey "i">
 
-<!ENTITY cmd.show_info.key "i">
-
 <!ENTITY cmd.rename.label "Adını değiştir">
 <!ENTITY cmd.rename.accesskey "r">
 
@@ -114,21 +106,12 @@
 <!ENTITY cmd.reloadMicrosummary.label "Kısa özeti tazele">
 <!ENTITY cmd.reloadMicrosummary.accesskey "t">
 
-<!ENTITY cmd.groupby_site.label "Siteye göre gruplandır">
-<!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "Sayfaya göre gruplandır">
-<!ENTITY cmd.groupby_page.accesskey "f">
-<!ENTITY cmd.groupby_feed.label "Aboneliğe göre gruplandır">
-<!ENTITY cmd.groupby_feed.accesskey "n">
-<!ENTITY cmd.groupby_post.label "Gönderiye göre gruplandır">
-<!ENTITY cmd.groupby_post.accesskey "d">
-
 <!ENTITY cmd.moveBookmarks.label "Taşı…">
 <!ENTITY cmd.moveBookmarks.accesskey "T">
 
 <!ENTITY col.name.label "Adı">
 <!ENTITY col.tags.label "Etiketler">
-<!ENTITY col.url.label "Konum">
+<!ENTITY col.url.label "Location">
 <!ENTITY col.lastvisit.label "Ziyaret tarihi">
 <!ENTITY col.visitcount.label "Ziyaret sayısı">
 <!ENTITY col.keyword.label "Anahtar kelime">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey "n">
 <!ENTITY search.scopeHistory.label "Geçmiş">
 <!ENTITY search.scopeHistory.accesskey "G">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Arama yapıcıyı göster">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Arama yapıcıyı gizle">
 <!ENTITY saveSearch.label "Kaydet">
 <!ENTITY saveSearch.accesskey "K">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Sadece yer imlerinde ara">
-<!ENTITY advancedSearch.match.label "Sonuç aşağıdaki ">
-<!ENTITY advancedSearch.all.label "her">
-<!ENTITY advancedSearch.any.label "hernangi bir">
-<!ENTITY advancedSearch.rules.label " kurala uysun:">
-<!ENTITY advancedSearch.subj_keyword.label "İçerdiği metin">
-<!ENTITY advancedSearch.subj_visited.label "Ziyaret">
-<!ENTITY advancedSearch.subj_location.label "Konum">
-<!ENTITY advancedSearch.location_startswith.label "bunla başlar">
-<!ENTITY advancedSearch.location_is.label "budur">
-<!ENTITY advancedSearch.location_onsite.label "bu sitededir">
-<!ENTITY advancedSearch.time_is.label "bu tarihte gerçekleşti">
-<!ENTITY advancedSearch.time_before.label "bu tarihten önce gerçekleşti">
-<!ENTITY advancedSearch.time_after.label "bu tarihten sonra gerçekleşti">
-<!ENTITY advancedSearch.time_inlast.label "son">
-<!ENTITY advancedSearch.last_days.label "gün içinde gerçekleşti">
-<!ENTITY advancedSearch.last_weeks.label "hafta içinde gerçekleşti">
-<!ENTITY advancedSearch.last_months.label "ay içinde gerçekleşti">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Gruplandırma koşulu: ">
-<!ENTITY advancedSearch.groupby_host.label "ana makine">
-<!ENTITY advancedSearch.groupby_domain.label "alan adı">
-<!ENTITY advancedSearch.groupby_folder.label "dizin">
-<!ENTITY advancedSearch.sortby.label "Sıralama koşulu: ">
-<!ENTITY advancedSearch.sortby_title.label "başlık">
-<!ENTITY advancedSearch.sortby_date.label "tarih">
-<!ENTITY advancedSearch.sortby_visit.label "ziyaret sayısı">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "artarak">
-<!ENTITY advancedSearch.sortby_desc.label "azalarak">
-<!ENTITY advancedSearch.max.label "Sonuç üst sınırı: ">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "Besleme">
 <!ENTITY feed.subscribe.tooltip "Abone ol">
-
-<!ENTITY view.detailsMacOSX.label "Liste">
-<!ENTITY view.details.label "Ayrıntılar">
-<!ENTITY view.details.accesskey "A">
-
-<!ENTITY view.addons.label "Görünüm eklentileri edinin">
 
 <!ENTITY maintenance.label "İçe aktarma ve yedekleme">
 <!ENTITY maintenance.accesskey "y">
