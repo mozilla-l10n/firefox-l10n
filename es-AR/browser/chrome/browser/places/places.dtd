@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey  "A">
 <!ENTITY view.sortDescending.label     "Ordenado Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Usar marcadores">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "Usar historial">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "Consejos y trucos avanzados">
-<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label        "Buscar en Marcadores…">
 <!ENTITY cmd.findInBookmarks.accesskey    "M">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label             "Propiedades">
 <!ENTITY cmd.properties.accesskey         "d">
 
-<!ENTITY cmd.show_info.key                "i">
-
 <!ENTITY cmd.rename.label                 "Renombrar">
 <!ENTITY cmd.rename.accesskey             "R">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey   "R">
 <!ENTITY cmd.reloadMicrosummary.label       "Recargar título vivo">
 <!ENTITY cmd.reloadMicrosummary.accesskey   "R">
-
-<!ENTITY cmd.groupby_site.label             "Agrupar por sitio">
-<!ENTITY cmd.groupby_site.accesskey         "S">
-<!ENTITY cmd.groupby_page.label             "Agrupar por página">
-<!ENTITY cmd.groupby_page.accesskey         "P">
-<!ENTITY cmd.groupby_feed.label             "Agrupar por suscripción">
-<!ENTITY cmd.groupby_feed.accesskey         "S">
-<!ENTITY cmd.groupby_post.label             "Agrupar por Post">
-<!ENTITY cmd.groupby_post.accesskey         "P">
 
 <!ENTITY cmd.moveBookmarks.label            "Mover…">
 <!ENTITY cmd.moveBookmarks.accesskey        "M">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Historial">
 <!ENTITY search.scopeHistory.accesskey             "A">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Mostrar constructor de búsquedas">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Ocultar constructor de búsquedas">
 <!ENTITY saveSearch.label                  "Guardar">
 <!ENTITY saveSearch.accesskey              "G">
-<!ENTITY moreCriteria.label                "+">
-<!ENTITY advancedSearch.onlybookmarked.label  "Buscar solamente marcadores">
-<!ENTITY advancedSearch.match.label           "Coincidiendo ">
-<!ENTITY advancedSearch.all.label             "todas">
-<!ENTITY advancedSearch.any.label             "cualquiera">
-<!ENTITY advancedSearch.rules.label           " de las siguientes reglas:">
-<!ENTITY advancedSearch.subj_keyword.label    "Conteniendo el texto">
-<!ENTITY advancedSearch.subj_visited.label    "Visitado">
-<!ENTITY advancedSearch.subj_location.label   "Dirección">
-<!ENTITY advancedSearch.location_startswith.label  "comienza con">
-<!ENTITY advancedSearch.location_is.label          "está">
-<!ENTITY advancedSearch.location_onsite.label      "está en el sitio">
-<!ENTITY advancedSearch.time_is.label              "el">
-<!ENTITY advancedSearch.time_before.label          "antes">
-<!ENTITY advancedSearch.time_after.label           "después">
-<!ENTITY advancedSearch.time_inlast.label          "en los últimos">
-<!ENTITY advancedSearch.last_days.label            "días">
-<!ENTITY advancedSearch.last_weeks.label           "semanas">
-<!ENTITY advancedSearch.last_months.label          "meses">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Agrupar por: ">
-<!ENTITY advancedSearch.groupby_host.label         "servidor">
-<!ENTITY advancedSearch.groupby_domain.label       "dominio">
-<!ENTITY advancedSearch.groupby_folder.label       "carpeta">
-<!ENTITY advancedSearch.sortby.label               "Ordenar por: ">
-<!ENTITY advancedSearch.sortby_title.label         "título">
-<!ENTITY advancedSearch.sortby_date.label          "fecha">
-<!ENTITY advancedSearch.sortby_visit.label         "visitas">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "ascendente">
-<!ENTITY advancedSearch.sortby_desc.label          "descendente">
-<!ENTITY advancedSearch.max.label                  "Resultados máximos: ">
 
 <!ENTITY cmd.find.key                              "f">
 
 <!ENTITY feed.subscribe.label                      "Canal">
 <!ENTITY feed.subscribe.tooltip                    "Suscribirse">
-
-<!ENTITY view.detailsMacOSX.label                  "Lista">
-<!ENTITY view.details.label                        "Detalles">
-<!ENTITY view.details.accesskey                    "">
-
-<!ENTITY view.addons.label                         "Obtener agregados">
 
 <!ENTITY maintenance.label                         "Importar y resguardar">
 <!ENTITY maintenance.accesskey  "I">
