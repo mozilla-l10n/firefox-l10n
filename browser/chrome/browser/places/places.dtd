@@ -25,12 +25,7 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordre décroissant (Z > A)">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Utiliser les marque-pages">
-<!ENTITY help.usingBookmarks.accesskey "U">
-<!ENTITY help.usingHistory.label "Utiliser l'historique">
-<!ENTITY help.usingHistory.accesskey "h">
-<!ENTITY help.advancedTips.label "Trucs et astuces avancés">
-<!ENTITY help.advancedTips.accesskey "T">
+
 <!ENTITY cmd.findInBookmarks.label "Rechercher dans les marque-pages…">
 <!ENTITY cmd.findInBookmarks.accesskey "c">
 <!ENTITY cmd.findCurrent.label "Rechercher dans la sélection courante…">
@@ -40,15 +35,18 @@
 <!ENTITY cmd.exportHTML.accesskey "E">
 <!ENTITY cmd.importHTML.label "Importer au format HTML…">
 <!ENTITY cmd.importHTML.accesskey "I">
+
 <!ENTITY cmd.backup.label "Sauvegarder…">
 <!ENTITY cmd.backup.accesskey "v">
 <!ENTITY cmd.restore2.label "Restaurer">
 <!ENTITY cmd.restore2.accesskey "R">
 <!ENTITY cmd.restoreFromFile.label "Choisir un fichier…">
 <!ENTITY cmd.restoreFromFile.accesskey "C">
+
 <!ENTITY cmd.select_all.label "Tout sélectionner">
 <!ENTITY cmd.select_all.accesskey "T">
 <!ENTITY cmd.select_all.key "A">
+
 <!ENTITY cmd.edit_cut.label "Couper">
 <!ENTITY cmd.edit_cut.accesskey "C">
 <!ENTITY cmd.edit_cut.key "X">
@@ -82,14 +80,17 @@
 <!ENTITY cmd.open_tab.accesskey "g">
 <!ENTITY cmd.open_all_in_tabs.label "Tout ouvrir dans des onglets">
 <!ENTITY cmd.open_all_in_tabs.accesskey "v">
+
 <!ENTITY cmd.properties.label "Propriétés">
 <!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.show_info.key "I">
+
 <!ENTITY cmd.rename.label "Renommer">
 <!ENTITY cmd.rename.accesskey "R">
+
 <!ENTITY cmd.sortby_name.label "Trier par nom">
 <!ENTITY cmd.sortby_name.accesskey "m">
 <!ENTITY cmd.context_sortby_name.accesskey "m">
+
 <!ENTITY cmd.new_bookmark.label "Nouveau marque-page…">
 <!ENTITY cmd.new_bookmark.accesskey "g">
 <!ENTITY cmd.new_livemark.label "Nouveau marque-page dynamique…">
@@ -99,18 +100,11 @@
 <!ENTITY cmd.context_new_folder.accesskey "d">
 <!ENTITY cmd.new_separator.label "Nouveau séparateur">
 <!ENTITY cmd.new_separator.accesskey "N">
+
 <!ENTITY cmd.reloadLivebookmark.label "Actualiser les entrées">
 <!ENTITY cmd.reloadLivebookmark.accesskey "l">
 <!ENTITY cmd.reloadMicrosummary.label "Actualiser le titre dynamique">
 <!ENTITY cmd.reloadMicrosummary.accesskey "A">
-<!ENTITY cmd.groupby_site.label "Trier par site">
-<!ENTITY cmd.groupby_site.accesskey "s">
-<!ENTITY cmd.groupby_page.label "Trier par page">
-<!ENTITY cmd.groupby_page.accesskey "g">
-<!ENTITY cmd.groupby_feed.label "Trier par abonnement">
-<!ENTITY cmd.groupby_feed.accesskey "b">
-<!ENTITY cmd.groupby_post.label "Trier par billet">
-<!ENTITY cmd.groupby_post.accesskey "t">
 
 <!ENTITY cmd.moveBookmarks.label "Déplacer…">
 <!ENTITY cmd.moveBookmarks.accesskey "D">
@@ -135,50 +129,14 @@
 <!ENTITY search.scopeDownloads.accesskey "T">
 <!ENTITY search.scopeHistory.label "Historique">
 <!ENTITY search.scopeHistory.accesskey "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Afficher la barre de recherche">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Masquer la barre de recherche">
 <!ENTITY saveSearch.label "Enregistrer">
 <!ENTITY saveSearch.accesskey "E">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Rechercher dans les marque-pages seulement">
-<!ENTITY advancedSearch.match.label "correspond à ">
-<!ENTITY advancedSearch.all.label "chacune">
-<!ENTITY advancedSearch.any.label "n'importe laquelle">
-<!ENTITY advancedSearch.rules.label " des règles suivantes :">
-<!ENTITY advancedSearch.subj_keyword.label "Contenant le texte">
-<!ENTITY advancedSearch.subj_visited.label "Visité">
-<!ENTITY advancedSearch.subj_location.label "Emplacement">
-<!ENTITY advancedSearch.location_startswith.label "commence par">
-<!ENTITY advancedSearch.location_is.label "est">
-<!ENTITY advancedSearch.location_onsite.label "est sur le site">
-<!ENTITY advancedSearch.time_is.label "on">
-<!ENTITY advancedSearch.time_before.label "avant">
-<!ENTITY advancedSearch.time_after.label "après">
-<!ENTITY advancedSearch.time_inlast.label "ces dernier(e)s">
-<!ENTITY advancedSearch.last_days.label "jours">
-<!ENTITY advancedSearch.last_weeks.label "semaines">
-<!ENTITY advancedSearch.last_months.label "mois">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Trier par : ">
-<!ENTITY advancedSearch.groupby_host.label "hôte">
-<!ENTITY advancedSearch.groupby_domain.label "domaine">
-<!ENTITY advancedSearch.groupby_folder.label "dossier">
-<!ENTITY advancedSearch.sortby.label "Trier par : ">
-<!ENTITY advancedSearch.sortby_title.label "titre">
-<!ENTITY advancedSearch.sortby_date.label "date">
-<!ENTITY advancedSearch.sortby_visit.label "nombre de visites">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "ordre croissant">
-<!ENTITY advancedSearch.sortby_desc.label "ordre décroissant">
-<!ENTITY advancedSearch.max.label "Nombre de résultats maximum : ">
+
 <!ENTITY cmd.find.key "F">
+
 <!ENTITY feed.subscribe.label "Flux">
 <!ENTITY feed.subscribe.tooltip "S'abonner">
-<!ENTITY view.detailsMacOSX.label "Lister">
-<!ENTITY view.details.label "Détails">
-<!ENTITY view.details.accesskey "D">
-<!ENTITY view.addons.label "Obtenir des modules de vues">
+
 <!ENTITY maintenance.label "Importation et sauvegarde">
 <!ENTITY maintenance.accesskey "I">
 
