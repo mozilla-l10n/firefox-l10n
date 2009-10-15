@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A 排序">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "使用书签">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "使用历史">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "高级 提示 &amp; 技巧">
-<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label      "在当前书签中查找…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label      "属性">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.show_info.key  "i">
-
 <!ENTITY cmd.rename.label      "重命名">
 <!ENTITY cmd.rename.accesskey  "R">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "重新载入实时标题">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
-
-<!ENTITY cmd.groupby_site.label      "按站点分组">
-<!ENTITY cmd.groupby_site.accesskey  "S">
-<!ENTITY cmd.groupby_page.label      "按页面分组">
-<!ENTITY cmd.groupby_page.accesskey  "P">
-<!ENTITY cmd.groupby_feed.label      "按订阅分组">
-<!ENTITY cmd.groupby_feed.accesskey  "S">
-<!ENTITY cmd.groupby_post.label      "按提交分组">
-<!ENTITY cmd.groupby_post.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "移动…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "历史">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "显示搜索构建器">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "隐藏搜索构建器">
 <!ENTITY saveSearch.label                          "保存">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "仅搜索书签">
-<!ENTITY advancedSearch.match.label                "符合">
-<!ENTITY advancedSearch.all.label                  "全部">
-<!ENTITY advancedSearch.any.label                  "任意">
-<!ENTITY advancedSearch.rules.label                " 如下规则:">
-<!ENTITY advancedSearch.subj_keyword.label         "包含文本">
-<!ENTITY advancedSearch.subj_visited.label         "访问日期">
-<!ENTITY advancedSearch.subj_location.label        "位置">
-<!ENTITY advancedSearch.location_startswith.label  "开始为">
-<!ENTITY advancedSearch.location_is.label          "是">
-<!ENTITY advancedSearch.location_onsite.label      "是站点">
-<!ENTITY advancedSearch.time_is.label              "于">
-<!ENTITY advancedSearch.time_before.label          "之前">
-<!ENTITY advancedSearch.time_after.label           "之后">
-<!ENTITY advancedSearch.time_inlast.label          "在最近">
-<!ENTITY advancedSearch.last_days.label            "天">
-<!ENTITY advancedSearch.last_weeks.label           "星期">
-<!ENTITY advancedSearch.last_months.label          "月">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "分组，按:">
-<!ENTITY advancedSearch.groupby_host.label         "主机">
-<!ENTITY advancedSearch.groupby_domain.label       "域">
-<!ENTITY advancedSearch.groupby_folder.label       "文件夹">
-<!ENTITY advancedSearch.sortby.label               "排序，按:">
-<!ENTITY advancedSearch.sortby_title.label         "标题">
-<!ENTITY advancedSearch.sortby_date.label          "日期">
-<!ENTITY advancedSearch.sortby_visit.label         "访问数">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "升序">
-<!ENTITY advancedSearch.sortby_desc.label          "降序">
-<!ENTITY advancedSearch.max.label                  "最大结果数:">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "收取点">
 <!ENTITY feed.subscribe.tooltip  "订阅">
-
-<!ENTITY view.detailsMacOSX.label  "列出">
-<!ENTITY view.details.label        "细节">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "获取查看附加组件">
 
 <!ENTITY maintenance.label      "导入以及备份">
 <!ENTITY maintenance.accesskey  "I">
