@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey  			"A">
 <!ENTITY view.sortDescending.label  			"Sortearfolchoarder Z > A">
 <!ENTITY view.sortDescending.accesskey  		"Z">
-<!ENTITY help.usingBookmarks.label  			"Blêdwizers brûke">
-<!ENTITY help.usingBookmarks.accesskey  		"B">
-<!ENTITY help.usingHistory.label  				"Skiednis brûke">
-<!ENTITY help.usingHistory.accesskey  			"S">
-<!ENTITY help.advancedTips.label  				"Avansearre tips &amp; trúks">
-<!ENTITY help.advancedTips.accesskey  			"t">
 
 <!ENTITY cmd.findInBookmarks.label  			"Sykje yn Blêdwizers...">
 <!ENTITY cmd.findInBookmarks.accesskey  		"S">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label  					"Eigenskippen">
 <!ENTITY cmd.properties.accesskey  				"E">
 
-<!ENTITY cmd.show_info.key  					"i">
-
 <!ENTITY cmd.rename.label  						"Omneame">
 <!ENTITY cmd.rename.accesskey  					"O">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  		"L">
 <!ENTITY cmd.reloadMicrosummary.label  			"Live titel op 'e nij lade">
 <!ENTITY cmd.reloadMicrosummary.accesskey  		"T">
-
-<!ENTITY cmd.groupby_site.label  				"Groepearje op webstee">
-<!ENTITY cmd.groupby_site.accesskey  			"W">
-<!ENTITY cmd.groupby_page.label   				"Groepearje op side">
-<!ENTITY cmd.groupby_page.accesskey  			"S">
-<!ENTITY cmd.groupby_feed.label  				"Groepearje op abonnemint">
-<!ENTITY cmd.groupby_feed.accesskey  			"A">
-<!ENTITY cmd.groupby_post.label  				"Groepearje op post">
-<!ENTITY cmd.groupby_post.accesskey 			"P">
 
 <!ENTITY cmd.moveBookmarks.label         		"Ferpleats...">
 <!ENTITY cmd.moveBookmarks.accesskey         	"F">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey        "B">
 <!ENTITY search.scopeHistory.label              "Skiednis">
 <!ENTITY search.scopeHistory.accesskey          "k">
-<!ENTITY search.scopeBarExpanderDown.tooltip    "Toan sykmakker">
-<!ENTITY search.scopeBarExpanderUp.tooltip      "Ferbergje sykmakker">
 <!ENTITY saveSearch.label  						"Bewarje">
 <!ENTITY saveSearch.accesskey  					"B">
-<!ENTITY moreCriteria.label  					"+">
-<!ENTITY advancedSearch.onlybookmarked.label  	"Allinnich Blêdwizers trochsykje">
-<!ENTITY advancedSearch.match.label  			"Foldogge oan ">
-<!ENTITY advancedSearch.all.label  				"alle">
-<!ENTITY advancedSearch.any.label  				"ien fan de">
-<!ENTITY advancedSearch.rules.label  			" folgjende riges:">
-<!ENTITY advancedSearch.subj_keyword.label  	"Befat de tekst">
-<!ENTITY advancedSearch.subj_visited.label  	"Besocht">
-<!ENTITY advancedSearch.subj_location.label  	"Lokaasje">
-<!ENTITY advancedSearch.location_startswith.label  "begjint mei">
-<!ENTITY advancedSearch.location_is.label  		"is">
-<!ENTITY advancedSearch.location_onsite.label  	"is op webstee">
-<!ENTITY advancedSearch.time_is.label   		"op">
-<!ENTITY advancedSearch.time_before.label  		"foar">
-<!ENTITY advancedSearch.time_after.label  		"nei">
-<!ENTITY advancedSearch.time_inlast.label  		"yn de lêste">
-<!ENTITY advancedSearch.last_days.label  		"dagen">
-<!ENTITY advancedSearch.last_weeks.label  		"wiken">
-<!ENTITY advancedSearch.last_months.label  		"moannen">
-<!ENTITY advancedSearch.plus.label  			"+">
-<!ENTITY advancedSearch.minus.label  			"-">
-<!ENTITY advancedSearch.groupby.label  			"Groepearje op: ">
-<!ENTITY advancedSearch.groupby_host.label  	"host">
-<!ENTITY advancedSearch.groupby_domain.label  	"domein">
-<!ENTITY advancedSearch.groupby_folder.label  	"map">
-<!ENTITY advancedSearch.sortby.label  			"Sortearje op: ">
-<!ENTITY advancedSearch.sortby_title.label  	"titel">
-<!ENTITY advancedSearch.sortby_date.label  		"datum">
-<!ENTITY advancedSearch.sortby_visit.label  	"besykteller">
-<!ENTITY advancedSearch.sortby_url.label  		"url">
-<!ENTITY advancedSearch.sortby_asc.label  		"oprinnend">
-<!ENTITY advancedSearch.sortby_desc.label  		"ôfrinnend">
-<!ENTITY advancedSearch.max.label  				"Maksimum resultaten: ">
 
 <!ENTITY cmd.find.key  							"f">
 
 <!ENTITY feed.subscribe.label  					"Feed">
 <!ENTITY feed.subscribe.tooltip  				"Abonnearje">
-
-<!ENTITY view.detailsMacOSX.label  				"List">
-<!ENTITY view.details.label   					"Details">
-<!ENTITY view.details.accesskey  				"D">
-
-<!ENTITY view.addons.label  					"Krij byld Tafoegings">
 
 <!ENTITY maintenance.label  					"Ymport en Reservekopy">
 <!ENTITY maintenance.accesskey  				"Y">
