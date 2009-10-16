@@ -11,7 +11,6 @@
 <!ENTITY aboutSupport.extensionName "Nom">
 <!ENTITY aboutSupport.extensionEnabled "Habilitada">
 <!ENTITY aboutSupport.extensionVersion "Versió">
-<!ENTITY aboutSupport.extensionFirstRun "Primera execució">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Paràmetres bàsics de l'aplicació">
@@ -20,6 +19,13 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Directori dels perfils">
 <!ENTITY aboutSupport.appBasicsPlugins "Connectors instal·lats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuració de la versió">
+
+<!ENTITY aboutSupport.show.label "Obre'l en la carpeta que el conté">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+     variant of aboutSupport.show.label.  This allows us to use the preferred
+     "Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Mostra'l en el Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferències modificades">
 <!ENTITY aboutSupport.modifiedPrefsName "Nom">
