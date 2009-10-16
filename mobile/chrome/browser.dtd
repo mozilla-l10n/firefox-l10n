@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label      "Reprèn">
 <!ENTITY downloadRetry.label       "Reintenta">
 <!ENTITY downloadRemove.label      "Suprimeix">
+<!ENTITY downloadFailed.label      "Ha fallat">
 
 <!ENTITY noResults.label           "Cap resultat">
 
