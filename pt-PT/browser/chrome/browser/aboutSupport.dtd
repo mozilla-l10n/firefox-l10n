@@ -12,13 +12,20 @@ sobre o &brandShortName;, veja o nosso <a id='supportLink'>sítio web de suporte
 <!ENTITY aboutSupport.extensionEnabled "Activado">
 <!ENTITY aboutSupport.extensionVersion "Versão">
 <!ENTITY aboutSupport.extensionId "ID">
- 
+
 <!ENTITY aboutSupport.appBasicsTitle "Noções básicas">
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versão">
 <!ENTITY aboutSupport.appBasicsProfileDir "Pasta do perfil">
 <!ENTITY aboutSupport.appBasicsPlugins "Plugins instalados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da versão">
+
+<!ENTITY aboutSupport.show.label "Abrir pasta de conteúdos">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Mostrar Finder">
  
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferências modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
