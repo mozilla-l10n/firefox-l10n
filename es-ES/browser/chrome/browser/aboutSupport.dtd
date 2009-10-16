@@ -11,6 +11,8 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil ">
 <!ENTITY aboutSupport.appBasicsPlugins "Plugins instalados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
+<!ENTITY aboutSupport.show.label "Abrir la carpeta que lo contiene">
+<!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
