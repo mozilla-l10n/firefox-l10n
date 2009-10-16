@@ -330,6 +330,8 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Amaga els controls">
 <!ENTITY mediaHideControls.accesskey "c">
+<!ENTITY videoFullScreen.label       "Pantalla completa">
+<!ENTITY videoFullScreen.accesskey   "P">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
