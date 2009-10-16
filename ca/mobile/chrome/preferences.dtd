@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button                   "Neteja">
 <!ENTITY clearPrivateData.description              "El vostre historial ajuda al &brandShortName; a suggerir-vos on voleu anar">
 <!ENTITY rememberPasswords.title                   "Recorda les contrasenyes">
+<!ENTITY language.title                            "Llengua">
+<!ENTITY language.description                      "Trieu la vostra llengua preferida per al &brandShortName;">
+<!ENTITY language.auto                             "Detecta automàticament">
