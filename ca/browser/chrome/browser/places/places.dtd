@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordenació Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "S'estan utilitzant les adreces d'interès">
-<!ENTITY help.usingBookmarks.accesskey "d">
-<!ENTITY help.usingHistory.label "S'està utilitzant l'historial">
-<!ENTITY help.usingHistory.accesskey "i">
-<!ENTITY help.advancedTips.label "Consells avançats i trucs">
-<!ENTITY help.advancedTips.accesskey "t">
 
 <!ENTITY cmd.findInBookmarks.label "Cerca a les adreces d'interès i a l'historial…">
 <!ENTITY cmd.findInBookmarks.accesskey "r">
@@ -84,7 +78,6 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 <!ENTITY cmd.properties.label "Propietats">
 <!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.show_info.key "i">
 <!ENTITY cmd.rename.label "Reanomena">
 <!ENTITY cmd.rename.accesskey "R">
 <!ENTITY cmd.sortby_name.label "Ordena per nom">
@@ -103,14 +96,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
 <!ENTITY cmd.reloadMicrosummary.label "Torna a carregar el títol actiu">
 <!ENTITY cmd.reloadMicrosummary.accesskey "R">
-<!ENTITY cmd.groupby_site.label "Agrupa per lloc">
-<!ENTITY cmd.groupby_site.accesskey "l">
-<!ENTITY cmd.groupby_page.label "Agrupa per pàgina">
-<!ENTITY cmd.groupby_page.accesskey "p">
-<!ENTITY cmd.groupby_feed.label "Agrupa per subscripció">
-<!ENTITY cmd.groupby_feed.accesskey "s">
-<!ENTITY cmd.groupby_post.label "Agrupa per article">
-<!ENTITY cmd.groupby_post.accesskey "t">
 <!ENTITY cmd.moveBookmarks.label "Mou…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
 <!ENTITY col.name.label "Nom">
@@ -132,54 +117,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "d">
 <!ENTITY search.scopeHistory.label                 "Historial">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Mostra el constructor de cerques">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Amaga el constructor de cerques">
 <!ENTITY saveSearch.label "Desa">
 <!ENTITY saveSearch.accesskey "s">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Cerca només les adreces d'interès">
-<!ENTITY advancedSearch.match.label "Coincideix ">
-<!ENTITY advancedSearch.all.label "totes">
-<!ENTITY advancedSearch.any.label "qualsevol">
-<!ENTITY advancedSearch.rules.label " de les següents regles:">
-<!ENTITY advancedSearch.subj_keyword.label "Que contenen el text">
-<!ENTITY advancedSearch.subj_visited.label "Visitat">
-<!ENTITY advancedSearch.subj_location.label "Ubicació">
-<!ENTITY advancedSearch.location_startswith.label "comença amb">
-<!ENTITY advancedSearch.location_is.label "és">
-<!ENTITY advancedSearch.location_onsite.label "és al lloc web">
-<!ENTITY advancedSearch.time_is.label "a">
-<!ENTITY advancedSearch.time_before.label "abans">
-<!ENTITY advancedSearch.time_after.label "després">
-<!ENTITY advancedSearch.time_inlast.label "els/les darrers/eres">
-<!ENTITY advancedSearch.last_days.label "dies">
-<!ENTITY advancedSearch.last_weeks.label "setmanes">
-<!ENTITY advancedSearch.last_months.label "mesos">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Agrupa per: ">
-<!ENTITY advancedSearch.groupby_host.label "servidor central">
-<!ENTITY advancedSearch.groupby_domain.label "domini">
-<!ENTITY advancedSearch.groupby_folder.label "carpeta">
-<!ENTITY advancedSearch.sortby.label "Agrupa per: ">
-<!ENTITY advancedSearch.sortby_title.label "títol">
-<!ENTITY advancedSearch.sortby_date.label "data">
-<!ENTITY advancedSearch.sortby_visit.label "nombre de visites">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "ascendent">
-<!ENTITY advancedSearch.sortby_desc.label "descendent">
-<!ENTITY advancedSearch.max.label "Resultats màxims: ">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "Canal">
 <!ENTITY feed.subscribe.tooltip "Subscriviu-vos">
-
-<!ENTITY view.detailsMacOSX.label  "Llista">
-<!ENTITY view.details.label        "Detalls">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Visualització dels complements">
 
 <!ENTITY maintenance.label   "Importa i fes una còpia de seguretat">
 <!ENTITY maintenance.accesskey  "I">
