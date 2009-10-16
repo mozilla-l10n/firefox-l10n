@@ -19,6 +19,13 @@
 <!ENTITY aboutSupport.appBasicsPlugins "已安装插件">
 <!ENTITY aboutSupport.appBasicsBuildConfig "构建选项">
 
+<!ENTITY aboutSupport.show.label "打开所在文件夹">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "显示于 Finder">
+
 <!ENTITY aboutSupport.modifiedPrefsTitle "已修改的首选项">
 <!ENTITY aboutSupport.modifiedPrefsName "名称">
 <!ENTITY aboutSupport.modifiedPrefsValue "值">
