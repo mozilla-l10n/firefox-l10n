@@ -11,6 +11,8 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Cartella del profilo">
 <!ENTITY aboutSupport.appBasicsPlugins "Plugin installati">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurazione build">
+<!ENTITY aboutSupport.show.label "Apri cartella">
+<!ENTITY aboutSupport.showMac.label "Mostra nel Finder">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferenze modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valore">
