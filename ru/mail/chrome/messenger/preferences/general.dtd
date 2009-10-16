@@ -5,8 +5,8 @@
 <!ENTITY location1.accesskey "д">
 <!ENTITY useDefault.label "Восстановить">
 <!ENTITY useDefault.accesskey "т">
-<!ENTITY bounceSystemDockIcon.label "Анимация значка в доке">
-<!ENTITY bounceSystemDockIcon.accesskey "д">
+<!ENTITY bounceSystemDockIcon.label "Анимация значка в Dock">
+<!ENTITY bounceSystemDockIcon.accesskey "м">
 <!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
 <!ENTITY playSound.label "Подавать звуковой сигнал">
 <!ENTITY playSound1.accesskey "в">

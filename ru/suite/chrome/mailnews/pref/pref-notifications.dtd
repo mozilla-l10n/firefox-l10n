@@ -8,8 +8,8 @@
 <!ENTITY showAnimatedAlert.accesskey "у">
 <!ENTITY showTrayIcon.label "Показать значок в трее">
 <!ENTITY showTrayIcon.accesskey "т">
-<!ENTITY bounceSystemDockIcon.label "Анимация иконки в доке">
-<!ENTITY bounceSystemDockIcon.accesskey "А">
+<!ENTITY bounceSystemDockIcon.label "Анимация значка в Dock">
+<!ENTITY bounceSystemDockIcon.accesskey "м">
 <!ENTITY preview.label "Демонстрация">
 <!ENTITY preview.accesskey "Д">
 <!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
