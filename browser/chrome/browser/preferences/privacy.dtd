@@ -62,7 +62,7 @@
 <!ENTITY  showCookies.accesskey         "R">
 
 <!ENTITY  historyHeader.pre.label                "„&brandShortName;“ privalo:">
-<!ENTITY  historyHeader.pre.accesskey            "t">
+<!ENTITY  historyHeader.pre.accesskey            "p">
 <!ENTITY  historyHeader.remember.label           "vesti žurnalą">
 <!ENTITY  historyHeader.dontremember.label       "niekada nevesti žurnalo">
 <!ENTITY  historyHeader.custom.label             "laikytis tinkintų žurnalo vedimo nuostatų">
