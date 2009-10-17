@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Ordna Ö > A">
 <!ENTITY view.sortDescending.accesskey  "Ö">
-<!ENTITY help.usingBookmarks.label      "Använda bokmärken">
-<!ENTITY help.usingBookmarks.accesskey  "b">
-<!ENTITY help.usingHistory.label        "Använda historiken">
-<!ENTITY help.usingHistory.accesskey    "ä">
-<!ENTITY help.advancedTips.label        "Avancerade tips &amp; tricks">
-<!ENTITY help.advancedTips.accesskey    "t">
 
 <!ENTITY cmd.findInBookmarks.label      "Sök i Bokmärken…">
 <!ENTITY cmd.findInBookmarks.accesskey  "S">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label      "Egenskaper">
 <!ENTITY cmd.properties.accesskey  "E">
 
-<!ENTITY cmd.show_info.key  "i">
-
 <!ENTITY cmd.rename.label      "Byt namn">
 <!ENTITY cmd.rename.accesskey  "B">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "U">
 <!ENTITY cmd.reloadMicrosummary.label      "Uppdatera aktiv titel">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "U">
-
-<!ENTITY cmd.groupby_site.label      "Gruppera efter webbplats">
-<!ENTITY cmd.groupby_site.accesskey  "P">
-<!ENTITY cmd.groupby_page.label      "Gruppera efter sida">
-<!ENTITY cmd.groupby_page.accesskey  "S">
-<!ENTITY cmd.groupby_feed.label      "Gruppera efter prenumeration">
-<!ENTITY cmd.groupby_feed.accesskey  "e">
-<!ENTITY cmd.groupby_post.label      "Gruppera efter post">
-<!ENTITY cmd.groupby_post.accesskey  "o">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytta…">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "F">
 <!ENTITY search.scopeHistory.label                 "Historik">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Visa sökuppbyggnad">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Dölj sökuppbyggnad">
 <!ENTITY saveSearch.label                          "Spara">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Sök endast bokmärken">
-<!ENTITY advancedSearch.match.label                "Matcha ">
-<!ENTITY advancedSearch.all.label                  "alla">
-<!ENTITY advancedSearch.any.label                  "någon">
-<!ENTITY advancedSearch.rules.label                " av följande regler:">
-<!ENTITY advancedSearch.subj_keyword.label         "Innehåller texten">
-<!ENTITY advancedSearch.subj_visited.label         "Besökta">
-<!ENTITY advancedSearch.subj_location.label        "Adressen">
-<!ENTITY advancedSearch.location_startswith.label  "börjar med">
-<!ENTITY advancedSearch.location_is.label          "är">
-<!ENTITY advancedSearch.location_onsite.label      "finns på webbplatsen">
-<!ENTITY advancedSearch.time_is.label              "på">
-<!ENTITY advancedSearch.time_before.label          "innan">
-<!ENTITY advancedSearch.time_after.label           "efter">
-<!ENTITY advancedSearch.time_inlast.label          "de senaste">
-<!ENTITY advancedSearch.last_days.label            "dagarna">
-<!ENTITY advancedSearch.last_weeks.label           "veckorna">
-<!ENTITY advancedSearch.last_months.label          "månaderna">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Gruppera efter: ">
-<!ENTITY advancedSearch.groupby_host.label         "värd">
-<!ENTITY advancedSearch.groupby_domain.label       "domän">
-<!ENTITY advancedSearch.groupby_folder.label       "mapp">
-<!ENTITY advancedSearch.sortby.label               "Sortera efter: ">
-<!ENTITY advancedSearch.sortby_title.label         "titel">
-<!ENTITY advancedSearch.sortby_date.label          "datum">
-<!ENTITY advancedSearch.sortby_visit.label         "antal besök">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "stigande">
-<!ENTITY advancedSearch.sortby_desc.label          "fallande">
-<!ENTITY advancedSearch.max.label                  "Maximalt antal resultat: ">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "Kanal">
 <!ENTITY feed.subscribe.tooltip  "Prenumerera">
-
-<!ENTITY view.detailsMacOSX.label  "Lista">
-<!ENTITY view.details.label        "Detaljer">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Hämta vyer-tillägg">
 
 <!ENTITY maintenance.label      "Importera och säkerhetskopiera">
 <!ENTITY maintenance.accesskey  "I">
