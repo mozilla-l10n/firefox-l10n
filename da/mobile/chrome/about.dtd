@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Om &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "OSS">
+<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.privacyPolicy.label          "Privatlivspolitik">
+<!ENTITY aboutPage.rights.label                 "Kend dine rettigheder">
+<!ENTITY aboutPage.relNotes.label               "Udgivelsesnoter">
+<!ENTITY aboutPage.credits.label                "Tak til">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Bidragydere. Alle rettigheder forbeholdes. (">
+<!ENTITY aboutPage.licenseLink                  "Licensinformation">
+<!ENTITY aboutPage.copyrightInfo2               ").">
