@@ -57,12 +57,6 @@
 <!ENTITY view.sortAscending.accesskey   "a">
 <!ENTITY view.sortDescending.label      "Atvirkščiai">
 <!ENTITY view.sortDescending.accesskey  "v">
-<!ENTITY help.usingBookmarks.label      "Adresyno naudojimas">
-<!ENTITY help.usingBookmarks.accesskey  "A">
-<!ENTITY help.usingHistory.label        "Retrospektyvos naudojimas">
-<!ENTITY help.usingHistory.accesskey    "R">
-<!ENTITY help.advancedTips.label        "Papildomi patarimai">
-<!ENTITY help.advancedTips.accesskey    "P">
 
 <!ENTITY cmd.findInBookmarks.label      "Rasti adresyne…">
 <!ENTITY cmd.findInBookmarks.accesskey  "R">
@@ -122,8 +116,6 @@
 <!ENTITY cmd.properties.label            "Savybės">
 <!ENTITY cmd.properties.accesskey        "S">
 
-<!ENTITY cmd.show_info.key               "i">
-
 <!ENTITY cmd.rename.label                "Pervardyti">
 <!ENTITY cmd.rename.accesskey            "P">
 
@@ -145,15 +137,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "t">
 <!ENTITY cmd.reloadMicrosummary.label      "Atnaujinti kaičiąją antraštę">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "n">
-
-<!ENTITY cmd.groupby_site.label      "Grupuoti pagal svetainę">
-<!ENTITY cmd.groupby_site.accesskey  "s">
-<!ENTITY cmd.groupby_page.label      "Grupuoti pagal tinklalapį">
-<!ENTITY cmd.groupby_page.accesskey  "t">
-<!ENTITY cmd.groupby_feed.label      "Grupuoti pagal prenumeratą">
-<!ENTITY cmd.groupby_feed.accesskey  "p">
-<!ENTITY cmd.groupby_post.label      "Grupuoti pagal žinutę">
-<!ENTITY cmd.groupby_post.accesskey  "ž">
 
 <!ENTITY cmd.moveBookmarks.label                  "Perkelti…">
 <!ENTITY cmd.moveBookmarks.accesskey              "P">
@@ -178,54 +161,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "S">
 <!ENTITY search.scopeHistory.label                 "Žurnale">
 <!ENTITY search.scopeHistory.accesskey             "Ž">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Rodyti paieškos komponuoklį">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Nerodyti paieškos komponuoklio">
 <!ENTITY saveSearch.label                          "Įrašyti">
 <!ENTITY saveSearch.accesskey                      "r">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Ieškoti tik adresyne">
-<!ENTITY advancedSearch.match.label                "Atitikti ">
-<!ENTITY advancedSearch.all.label                  "visas taisykles">
-<!ENTITY advancedSearch.any.label                  "bet kurią taisyklę">
-<!ENTITY advancedSearch.rules.label                ":">
-<!ENTITY advancedSearch.subj_keyword.label         "Apraše yra tekstas">
-<!ENTITY advancedSearch.subj_visited.label         "Lankytasi">
-<!ENTITY advancedSearch.subj_location.label        "Adresas">
-<!ENTITY advancedSearch.location_startswith.label  "prasideda">
-<!ENTITY advancedSearch.location_is.label          "yra">
-<!ENTITY advancedSearch.location_onsite.label      "yra svetainėje">
-<!ENTITY advancedSearch.time_is.label              "tiksliai">
-<!ENTITY advancedSearch.time_before.label          "anksčiau, nei">
-<!ENTITY advancedSearch.time_after.label           "vėliau, nei">
-<!ENTITY advancedSearch.time_inlast.label          "pastarąsias">
-<!ENTITY advancedSearch.last_days.label            "dienas">
-<!ENTITY advancedSearch.last_weeks.label           "savaites">
-<!ENTITY advancedSearch.last_months.label          "mėnesius">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Grupuoti pagal: ">
-<!ENTITY advancedSearch.groupby_host.label         "serverį">
-<!ENTITY advancedSearch.groupby_domain.label       "vardų sritį">
-<!ENTITY advancedSearch.groupby_folder.label       "aplanką">
-<!ENTITY advancedSearch.sortby.label               "Rikiuoti pagal: ">
-<!ENTITY advancedSearch.sortby_title.label         "pavadinimą">
-<!ENTITY advancedSearch.sortby_date.label          "datą">
-<!ENTITY advancedSearch.sortby_visit.label         "apsilankymų kiekį">
-<!ENTITY advancedSearch.sortby_url.label           "adresą">
-<!ENTITY advancedSearch.sortby_asc.label           "didėjančiai">
-<!ENTITY advancedSearch.sortby_desc.label          "mažėjančiai">
-<!ENTITY advancedSearch.max.label                  "Didžiausias radinių kiekis: ">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "Kanalas">
 <!ENTITY feed.subscribe.tooltip  "Prenumeruoti">
-
-<!ENTITY view.detailsMacOSX.label  "Išsamiai">
-<!ENTITY view.details.label        "Išsamiai">
-<!ENTITY view.details.accesskey    "I">
-
-<!ENTITY view.addons.label   "Atsisiųsti rodymo priedų">
 
 <!ENTITY maintenance.label   "Importas ir atsarginės kopijos">
 <!ENTITY maintenance.accesskey  "I">

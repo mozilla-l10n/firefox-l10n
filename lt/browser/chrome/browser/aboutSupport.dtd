@@ -51,6 +51,13 @@
 <!ENTITY aboutSupport.appBasicsPlugins             "Įdiegti priedai">
 <!ENTITY aboutSupport.appBasicsBuildConfig         "Darinio konfigūracija">
 
+<!ENTITY aboutSupport.show.label                   "Atverti aplanką">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+     variant of aboutSupport.show.label.  This allows us to use the preferred
+     "Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label                "Parodyti programoje „Finder“">
+
 <!ENTITY aboutSupport.modifiedPrefsTitle           "Pakeistos nuostatos">
 <!ENTITY aboutSupport.modifiedPrefsName            "Vardas">
 <!ENTITY aboutSupport.modifiedPrefsValue           "Reikšmė">
