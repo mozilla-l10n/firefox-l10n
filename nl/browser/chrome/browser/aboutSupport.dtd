@@ -18,7 +18,14 @@
 <!ENTITY aboutSupport.appBasicsVersion "Versie">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profielmap">
 <!ENTITY aboutSupport.appBasicsPlugins "Geïnstalleerde plug-ins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Buildconfiguratien">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Buildconfiguratie">
+
+<!ENTITY aboutSupport.show.label "Bijbehorende map openen">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "In Finder tonen">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Aangepaste voorkeuren">
 <!ENTITY aboutSupport.modifiedPrefsName "Naam">
