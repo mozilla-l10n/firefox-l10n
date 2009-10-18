@@ -1,7 +1,7 @@
 <!ENTITY featureConfigurator.title "Помощник в миграции">
-<!ENTITY featureConfigurator.heading "Функции Thunderbird 3 о которых стоит знать">
+<!ENTITY featureConfigurator.heading "Функции Thunderbird 3, о которых стоит знать">
 <!ENTITY featureConfigurator.para1 "Thunderbird 3 включает в себя новые возможности, которыми мы гордимся, и которые, как мы думаем, понравятся большинству людей. Тем не менее, у каждого свои вкусы и потребности, поэтому мы облегчили для вас настройку Thunderbird.">
-<!ENTITY featureConfigurator.para2 "Для конфигурации этих новых параметров используйте эту страницу. Вы всегда можете вызвать Помощника в миграции из меню Справка.">
+<!ENTITY featureConfigurator.para2 "Для конфигурации новых параметров используйте эту страницу. Вы всегда можете вызвать Помощника в миграции из меню Справка.">
 <!ENTITY featureConfigurator.imap.heading "Синхронизация IMAP сообщений">
 <!ENTITY featureConfigurator.imap.status.all "Все ваши папки IMAP настроены на &quot;синхронизацию&quot;.">
 <!ENTITY featureConfigurator.imap.status.none "Ни одна из ваших папок IMAP не настроена на &quot;синхронизацию&quot;.">
@@ -29,6 +29,6 @@
 <!ENTITY featureConfigurator.useSmartFolders.button "использовать режим &quot;умных папок&quot;">
 <!ENTITY featureConfigurator.useAllFolders.button "использовать режим &quot;все папки&quot;">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Свёрнутые заголовки">
-<!ENTITY featureConfigurator.headerParaBeforeLink "В Thunderbird 3 был улучшен дизайн подробного заголовка сообщения, а также добавлены кнопки для обработки сообщения. Альтернативные дизайны доступны в виде">
+<!ENTITY featureConfigurator.headerParaBeforeLink "В Thunderbird 3 был улучшен дизайн подробного заголовка сообщения, а также добавлены кнопки для обработки сообщения. Альтернативные дизайны доступны в виде ">
 <!ENTITY featureConfigurator.headerParaLinkName "дополнений">
 <!ENTITY featureConfigurator.headerParaAfterLink ".">
