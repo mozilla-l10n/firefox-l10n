@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Sorteervolgorde Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Bladwijzers gebruiken">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "Geschiedenis gebruiken">
-<!ENTITY help.usingHistory.accesskey    "G">
-<!ENTITY help.advancedTips.label        "Geavanceerde tips &amp; trucs">
-<!ENTITY help.advancedTips.accesskey    "t">
 
 <!ENTITY cmd.findInBookmarks.label      "Zoeken in bladwijzers…">
 <!ENTITY cmd.findInBookmarks.accesskey  "Z">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label            "Eigenschappen">
 <!ENTITY cmd.properties.accesskey        "E">
 
-<!ENTITY cmd.show_info.key               "i">
-
 <!ENTITY cmd.rename.label                "Hernoemen">
 <!ENTITY cmd.rename.accesskey            "H">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "L">
 <!ENTITY cmd.reloadMicrosummary.label      "Livetitel opnieuw laden">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "L">
-
-<!ENTITY cmd.groupby_site.label      "Groeperen op website">
-<!ENTITY cmd.groupby_site.accesskey  "w">
-<!ENTITY cmd.groupby_page.label      "Groeperen op pagina">
-<!ENTITY cmd.groupby_page.accesskey  "p">
-<!ENTITY cmd.groupby_feed.label      "Groeperen op abonnement">
-<!ENTITY cmd.groupby_feed.accesskey  "a">
-<!ENTITY cmd.groupby_post.label      "Groeperen op post">
-<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                 "Verplaatsen…">
 <!ENTITY cmd.moveBookmarks.accesskey             "V">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Geschiedenis">
 <!ENTITY search.scopeHistory.accesskey             "G">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Zoekvelden tonen">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Zoekvelden verbergen">
 <!ENTITY saveSearch.label                          "Opslaan">
 <!ENTITY saveSearch.accesskey                      "p">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Alleen bladwijzers doorzoeken">
-<!ENTITY advancedSearch.match.label                "Moet voldoen aan ">
-<!ENTITY advancedSearch.all.label                  "alle">
-<!ENTITY advancedSearch.any.label                  "één van de">
-<!ENTITY advancedSearch.rules.label                " volgende regels:">
-<!ENTITY advancedSearch.subj_keyword.label         "Bevat de tekst">
-<!ENTITY advancedSearch.subj_visited.label         "Bezocht">
-<!ENTITY advancedSearch.subj_location.label        "Locatie">
-<!ENTITY advancedSearch.location_startswith.label  "begint met">
-<!ENTITY advancedSearch.location_is.label          "is">
-<!ENTITY advancedSearch.location_onsite.label      "bevindt zich op website">
-<!ENTITY advancedSearch.time_is.label              "op">
-<!ENTITY advancedSearch.time_before.label          "voor">
-<!ENTITY advancedSearch.time_after.label           "na">
-<!ENTITY advancedSearch.time_inlast.label          "in de laatste">
-<!ENTITY advancedSearch.last_days.label            "dagen">
-<!ENTITY advancedSearch.last_weeks.label           "weken">
-<!ENTITY advancedSearch.last_months.label          "maanden">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Groeperen op: ">
-<!ENTITY advancedSearch.groupby_host.label         "host">
-<!ENTITY advancedSearch.groupby_domain.label       "domein">
-<!ENTITY advancedSearch.groupby_folder.label       "map">
-<!ENTITY advancedSearch.sortby.label               "Sorteren op: ">
-<!ENTITY advancedSearch.sortby_title.label         "titel">
-<!ENTITY advancedSearch.sortby_date.label          "datum">
-<!ENTITY advancedSearch.sortby_visit.label         "bezoekteller">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "oplopend">
-<!ENTITY advancedSearch.sortby_desc.label          "aflopend">
-<!ENTITY advancedSearch.max.label                  "Maximumaantal resultaten: ">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "Feed">
 <!ENTITY feed.subscribe.tooltip  "Abonneren">
-
-<!ENTITY view.detailsMacOSX.label  "Lijst tonen">
-<!ENTITY view.details.label        "Details">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Add-ons voor weergave verkrijgen">
 
 <!ENTITY maintenance.label      "Importeren en reservekopie maken">
 <!ENTITY maintenance.accesskey  "I">
