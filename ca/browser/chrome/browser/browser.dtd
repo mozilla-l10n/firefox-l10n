@@ -15,7 +15,7 @@
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Obre una ubicació…">
-<!ENTITY openLocationCmd.accesskey "u">
+<!ENTITY openLocationCmd.accesskey "a">
 <!ENTITY openFileCmd.label "Obre un fitxer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
