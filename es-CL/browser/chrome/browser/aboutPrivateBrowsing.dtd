@@ -1,7 +1,7 @@
 <!ENTITY privatebrowsingpage.title                 "Navegación privada">
 <!ENTITY privatebrowsingpage.title.normal          "¿Quiere iniciar la navegación privada?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; no recordará cualquier cosa en esta sesión.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; no recordará nada en el historial para esta sesión.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; no está actualmente en modo de Navegación Privada.">
 
 <!ENTITY privatebrowsingpage.description               "En una sesión de Navegación Privada, &brandShortName; no mantendrá ningún tipo de historial de navegación, búsquedas, descargas, formularios, cookies o archivos temporales. Sin embargo, los archivos bajados y marcadores se mantendrán.">

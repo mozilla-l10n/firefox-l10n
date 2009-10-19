@@ -65,7 +65,7 @@
 <!ENTITY cmd.disable.accesskey            "D">
 <!ENTITY cmd.disable.tooltip              "Deshabilitar este Agregado cuando se reinicie &brandShortName;">
 <!ENTITY cmd.uninstall.label              "Desinstalar">
-<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.accesskey         "s">
 <!ENTITY cmd.uninstall2.tooltip           "Desinstalar este Agregado cuando se reinicie &brandShortName;">
 <!ENTITY cmd.cancelUninstall.label        "Cancelar Desinstalación">
 <!ENTITY cmd.cancelUninstall.accesskey    "C">
