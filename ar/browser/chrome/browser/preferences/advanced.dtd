@@ -4,7 +4,7 @@
 
 <!ENTITY accessibility.label "الإعانة">
 
-<!ENTITY useCursorNavigation.label "استعمل دائما مفاتيح الأسهم للتنقل داخل الصفحات">
+<!ENTITY useCursorNavigation.label "استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات">
 <!ENTITY useCursorNavigation.accesskey "س">
 <!ENTITY searchStartTyping.label "ابحث عن النص عندما أبدأ الكتابة">
 <!ENTITY searchStartTyping.accesskey "ح">
@@ -51,11 +51,11 @@
 
 <!ENTITY updateTab.label "حدِّث">
 
-<!ENTITY autoCheck.label "التمس آليّا تحديثات لـ:">
+<!ENTITY autoCheck.label "التمس آليًا تحديثات ل‍:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "ف">
-<!ENTITY enableAddonsUpdate.label "الإضافات المثبتة">
-<!ENTITY enableAddonsUpdate.accesskey "ض">
+<!ENTITY enableAppUpdate.accesskey       "ف">
+<!ENTITY enableAddonsUpdate2.label       "الإضافات">
+<!ENTITY enableAddonsUpdate2.accesskey   "ض">
 <!ENTITY enableSearchUpdate.label "محركات البحث">
 <!ENTITY enableSearchUpdate.accesskey "ح">
 <!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل&brandShortName;:">

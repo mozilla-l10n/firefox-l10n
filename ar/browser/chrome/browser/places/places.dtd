@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "أ">
 <!ENTITY view.sortDescending.label "ترتيب ي > أ">
 <!ENTITY view.sortDescending.accesskey "ي">
-<!ENTITY help.usingBookmarks.label "استعمال العلامات">
-<!ENTITY help.usingBookmarks.accesskey "ع">
-<!ENTITY help.usingHistory.label "استعمال التأريخ">
-<!ENTITY help.usingHistory.accesskey "ت">
-<!ENTITY help.advancedTips.label "تلميحات وحيل متقدمة">
-<!ENTITY help.advancedTips.accesskey "ح">
 
 <!ENTITY cmd.findInBookmarks.label "ابحث في العلامات…">
 <!ENTITY cmd.findInBookmarks.accesskey "ب">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label "الخصائص">
 <!ENTITY cmd.properties.accesskey "خ">
 
-<!ENTITY cmd.show_info.key "i">
-
 <!ENTITY cmd.rename.label "غيّر الاسم">
 <!ENTITY cmd.rename.accesskey "س">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "ع">
 <!ENTITY cmd.reloadMicrosummary.label "أعِد تحميل العناوين الحية">
 <!ENTITY cmd.reloadMicrosummary.accesskey "ع">
-
-<!ENTITY cmd.groupby_site.label "اجمع بالموقع">
-<!ENTITY cmd.groupby_site.accesskey "م">
-<!ENTITY cmd.groupby_page.label "اجمع بالصفحة">
-<!ENTITY cmd.groupby_page.accesskey "ص">
-<!ENTITY cmd.groupby_feed.label "اجمع بالاشتراك">
-<!ENTITY cmd.groupby_feed.accesskey "ش">
-<!ENTITY cmd.groupby_post.label "اجمع بالارسال">
-<!ENTITY cmd.groupby_post.accesskey "ر">
 
 <!ENTITY cmd.moveBookmarks.label "انقل…">
 <!ENTITY cmd.moveBookmarks.accesskey "ن">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey "ز">
 <!ENTITY search.scopeHistory.label "التاريخ">
 <!ENTITY search.scopeHistory.accesskey "ت">
-<!ENTITY search.scopeBarExpanderDown.tooltip "أظهر باني البحث">
-<!ENTITY search.scopeBarExpanderUp.tooltip "اخفِ باني البحث">
 <!ENTITY saveSearch.label "احفظ">
 <!ENTITY saveSearch.accesskey "ح">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "ابحث في العلامات فقط">
-<!ENTITY advancedSearch.match.label "طابِق">
-<!ENTITY advancedSearch.all.label "كل">
-<!ENTITY advancedSearch.any.label "أي">
-<!ENTITY advancedSearch.rules.label " القواعد التالية:">
-<!ENTITY advancedSearch.subj_keyword.label "تحتوي النص">
-<!ENTITY advancedSearch.subj_visited.label "مُزارة">
-<!ENTITY advancedSearch.subj_location.label "المكان">
-<!ENTITY advancedSearch.location_startswith.label "تبدأ به">
-<!ENTITY advancedSearch.location_is.label "يكون">
-<!ENTITY advancedSearch.location_onsite.label "في الموقع">
-<!ENTITY advancedSearch.time_is.label "يعمل">
-<!ENTITY advancedSearch.time_before.label "قبل">
-<!ENTITY advancedSearch.time_after.label "بعد">
-<!ENTITY advancedSearch.time_inlast.label "في آخر">
-<!ENTITY advancedSearch.last_days.label "أيّام">
-<!ENTITY advancedSearch.last_weeks.label "أسابيع">
-<!ENTITY advancedSearch.last_months.label "شهور">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "اجمع ب‍:">
-<!ENTITY advancedSearch.groupby_host.label "المستضيف">
-<!ENTITY advancedSearch.groupby_domain.label "النطاق">
-<!ENTITY advancedSearch.groupby_folder.label "المجلد">
-<!ENTITY advancedSearch.sortby.label "رتب ب‍:">
-<!ENTITY advancedSearch.sortby_title.label "العنوان">
-<!ENTITY advancedSearch.sortby_date.label "التاريخ">
-<!ENTITY advancedSearch.sortby_visit.label "عدد الزيارات">
-<!ENTITY advancedSearch.sortby_url.label "المسار">
-<!ENTITY advancedSearch.sortby_asc.label "تصاعدي">
-<!ENTITY advancedSearch.sortby_desc.label "تنازلي">
-<!ENTITY advancedSearch.max.label "أقصى نتائج: ">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "تلقيمة">
 <!ENTITY feed.subscribe.tooltip "اشترِك">
-
-<!ENTITY view.detailsMacOSX.label "قائمة">
-<!ENTITY view.details.label "التفاصيل">
-<!ENTITY view.details.accesskey "ت">
-
-<!ENTITY view.addons.label "احصل على إضافات المشاهد">
 
 <!ENTITY maintenance.label "التصدير والحفظ الاحتياطي">
 <!ENTITY maintenance.accesskey "ص">

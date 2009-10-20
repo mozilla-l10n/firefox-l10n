@@ -37,8 +37,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "تمسح تأريخك الحالي كله">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "ابدأ &brandShortName; تلقائيًا في جلسة تصفح خاص">
-<!ENTITY  privateBrowsingAutoStart.accesskey "خ">
+<!ENTITY  privateBrowsingPermanent.label "نمط التصفح الخاص دائم">
+<!ENTITY  privateBrowsingPermanent.accesskey "ئ">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
