@@ -36,11 +36,23 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY descRole.label "Role:">
-<!ENTITY descName.label "Name:">
+<!ENTITY descRole.label "Rol:">
+<!ENTITY descName.label "Adı:">
 <!ENTITY descDescription.label "Açıklama:">
-<!ENTITY descValue.label "Value:">
-<!ENTITY descState.label "State:">
-<!ENTITY descActionName.label "Action Name:">
-<!ENTITY descBounds.label "Bounds:">
-
+<!ENTITY descValue.label "Değer:">
+<!ENTITY descState.label "Durum:">
+<!ENTITY descActionName.label "Eylem adı:">
+<!ENTITY descBounds.label "Sınırlar:">
+<!ENTITY tabAttrs.label "Nesne öznitelikleri">
+<!ENTITY colAttrName.label "Adı">
+<!ENTITY colAttrValue.label "Değer">
+<!ENTITY tabTableCell.label "Tablo hücresi">
+<!ENTITY descColumnIdx.label "Sütun indisi:">
+<!ENTITY descRowIdx.label "Satır indisi:">
+<!ENTITY descColumnExtent.label "Sütun boyutu:">
+<!ENTITY descRowExtent.label "Satır boyutu:">
+<!ENTITY descIsSelected.label "Seçili:">
+<!ENTITY colProp.label "Özellik">
+<!ENTITY colRole.label "Rol">
+<!ENTITY colName.label "Adı">
+<!ENTITY colNodeName.label "Düğüm adı">

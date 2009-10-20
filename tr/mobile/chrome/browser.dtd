@@ -31,14 +31,6 @@
 <!ENTITY helperApp.save "Kaydet">
 <!ENTITY helperApp.nothing "Hiçbir şey">
 
-<!ENTITY findOnCmd.label "Bu sayfada bul…">
-<!ENTITY findOnCmd.accesskey "s">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Sonrakini bul">
-<!ENTITY findAgainCmd.accesskey "a">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label "Eklentiler">
 <!ENTITY addonsLocal.label "Eklentilerim">
 <!ENTITY addonsUpdate.label "Güncelle">
