@@ -25,13 +25,6 @@
 <!ENTITY helperApp.open "Открыть">
 <!ENTITY helperApp.save "Сохранить">
 <!ENTITY helperApp.nothing "Ничего">
-<!ENTITY findOnCmd.label "Найти на этой странице…">
-<!ENTITY findOnCmd.accesskey "Н">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Найти ещё раз">
-<!ENTITY findAgainCmd.accesskey "й">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY addonsHeader.label "Дополнения">
 <!ENTITY addonsLocal.label "Ваши дополнения">
 <!ENTITY addonsUpdate.label "Обновление">
