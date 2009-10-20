@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "ملء الشاشة">
 <!ENTITY fullScreenCmd.accesskey "ش">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "أظهِر كل الألسنة">
+<!ENTITY showAllTabsCmd.accesskey "ك">
 
 <!ENTITY fullScreenMinimize.tooltip "صغّر">
 <!ENTITY fullScreenRestore.tooltip "استعِد">
@@ -71,7 +74,7 @@
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY organizeBookmarks.label "نظّم العلامات…">
 <!ENTITY bookmarkAllCmd.label "علّم كل الألسنة…">
-<!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات المرجعية">
+<!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
 
 <!ENTITY backCmd.label "للخلف">
 <!ENTITY backCmd.accesskey "خ">
@@ -233,6 +236,8 @@
 
 <!ENTITY openLinkCmd.label "افتح الوصلة في نافذة جديدة">
 <!ENTITY openLinkCmd.accesskey "ج">
+<!ENTITY openLinkCmdInCurrent.label     "افتح الوصلة">
+<!ENTITY openLinkCmdInCurrent.accesskey "و">
 <!ENTITY openLinkCmdInTab.label "افتح الوصلة في لسان جديد">
 <!ENTITY openLinkCmdInTab.accesskey "ل">
 <!ENTITY openFrameCmd.label "افتح الإطار في نافذةٍ جديدة">
@@ -313,8 +318,6 @@
 <!ENTITY copyAudioURLCmd.label "انسخ مكان الصوت">
 <!ENTITY copyAudioURLCmd.accesskey "و">
 <!ENTITY blockImageCmd.accesskey "ع">
-<!ENTITY metadataCmd.label "الخصائص">
-<!ENTITY metadataCmd.accesskey "خ">
 <!ENTITY copyEmailCmd.label "انسخ عنوان البريد الإلكتروني">
 <!ENTITY copyEmailCmd.accesskey "خ">
 <!ENTITY thisFrameMenu.label "هذا الإطار">
@@ -333,13 +336,14 @@
 <!ENTITY mediaShowControls.accesskey "ز">
 <!ENTITY mediaHideControls.label "أخفِ أزرار التحكم">
 <!ENTITY mediaHideControls.accesskey "ك">
+<!ENTITY videoFullScreen.label       "ملء الشاشة">
+<!ENTITY videoFullScreen.accesskey   "ء">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
-
 
 <!ENTITY fullZoomEnlargeCmd.label "قرّب">
 <!ENTITY fullZoomEnlargeCmd.accesskey "ق">
@@ -370,6 +374,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "قصّ">
 <!ENTITY copyButton.tooltip "انسخ">
 <!ENTITY pasteButton.tooltip "ألصق">
+<!ENTITY fullScreenButton.tooltip       "اعرض النافذة ملء الشاشة">
 
 <!ENTITY quitApplicationCmdWin.label "اخرج">
 <!ENTITY quitApplicationCmdWin.accesskey "خ">
@@ -444,4 +449,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "انقر لفتح نافذة التنزيلات">
 
-<!ENTITY ctrlTab.search.emptyText "ابحث في الألسنة">
+<!ENTITY allTabs.filter.emptyText "ابحث في الألسنة">

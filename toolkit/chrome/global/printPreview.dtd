@@ -44,7 +44,7 @@
 <!ENTITY of.label "من">
 <!ENTITY scale.label "المقياس:">
 <!ENTITY scale.accesskey "م">
-<!ENTITY portrait.label "طولي">
+<!ENTITY portrait.label "طوليّ">
 <!ENTITY portrait.accesskey "ط">
 <!ENTITY landscape.label "عرضيّ">
 <!ENTITY landscape.accesskey "ض">
@@ -66,7 +66,7 @@
 <!ENTITY ShrinkToFit.label "قلّص ليناسب">
 <!ENTITY customPrompt.title "مقياس مخصص…">
 
-<!ENTITY homearrow.tooltip "الصّفحة الأولى">
-<!ENTITY endarrow.tooltip "الصّفحة الأخيرة">
-<!ENTITY rightarrow.tooltip "الصّفحة التّالية">
-<!ENTITY leftarrow.tooltip "الصّفحة السّابقة">
+<!ENTITY homearrow.tooltip "الصفحة الأولى">
+<!ENTITY endarrow.tooltip "الصفحة الأخيرة">
+<!ENTITY nextarrow.tooltip "الصفحة التالية">
+<!ENTITY previousarrow.tooltip "الصفحة السابقة">

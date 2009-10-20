@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "ل">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "ابحث عن تحديثات لإضافاتك">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "ابحث عن تحديثات لسِماتك">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "ابحث عن تحديثات لملحقاتك">
 <!ENTITY cmd.installLocalFile.label "ثبّت…">
 <!ENTITY cmd.installLocalFile.accesskey "ب">
 <!ENTITY cmd.installFileAddon.tooltip "ثبّت إضافة">
@@ -113,7 +114,8 @@
 <!ENTITY needsDependencies.label "يتطلب عناصر إضافية.">
 <!ENTITY blocklisted.label "عُطِّل لحمايتك.">
 <!ENTITY softBlocklisted.label "معروفة بأنها قد تسبب مشكلات في الأمن أو في الثبات.">
-<!ENTITY toBeDisabled.label "ستُعطّل هذه الإضافة عند إعادة تشغيل &brandShortName;.">
+<!ENTITY outdated.label                   "هناك إصدارة أحدث وأأمَن متاحة.">
+<!ENTITY toBeDisabled.label "ستُعطَّل هذه الإضافة عند إعادة تشغيل &brandShortName;.">
 <!ENTITY toBeEnabled.label "ستُفعّل هذه الإضافة عند إعادة تشغيل &brandShortName;.">
 <!ENTITY toBeInstalled.label "ستُثبّت هذه الإضافة عند إعادة تشغيل &brandShortName;.">
 <!ENTITY toBeUninstalled.label "ستُزال هذه الإضافة عند إعادة تشغيل &brandShortName;.">

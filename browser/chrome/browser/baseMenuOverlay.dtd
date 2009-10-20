@@ -10,11 +10,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "مساعدة">
 <!ENTITY helpMenuWin.accesskey "م">
-<!ENTITY aboutCmd.label "عنْ &brandFullName;">
-<!ENTITY aboutCmd.accesskey "ع">
-<!ENTITY helpContents.label "محتويات المساعدة">
-<!ENTITY helpContents.accesskey "ح">
-<!ENTITY helpContentsMac.label "مساعدة &brandShortName;">
+<!ENTITY aboutProduct.label       "عن &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "ع">
+<!ENTITY productHelp.label        "مساعدة &brandShortName;">
+<!ENTITY productHelp.accesskey    "ة">
 <!ENTITY helpForIEUsers.label "لمستعملي إنترنت إكسبلورر">
 <!ENTITY helpForIEUsers.accesskey "ك">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -23,6 +22,10 @@
 
 <!ENTITY helpReleaseNotes.label "ملاحظات الإصدار">
 <!ENTITY helpReleaseNotes.accesskey "ص">
+
+<!ENTITY helpTroubleshooting.label      "معلومات عن مواجهة الأعطال…">
+<!ENTITY helpTroubleshooting.accesskey  "ش">
+
 <!ENTITY updateCmd.label "التمس التحديثات…">
 
 <!ENTITY preferencesCmdMac.label "التفضيلات…">

@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "صفّر الأشرطة و المفاتيح">
 <!ENTITY resetToolbars.accesskey "ش">
 
-<!ENTITY resetBookmarks.label "صفّر العلامات لمبدئيات &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "ا">
+<!ENTITY deleteBookmarks.label        "احذف جميع العلامات عدا النسخ الاحتياطية">
+<!ENTITY deleteBookmarks.accesskey    "ذ">
 
 <!ENTITY resetUserPrefs.label "صفّر كل خيارات المستخدم لمبدئيات &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "ف">

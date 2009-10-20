@@ -33,10 +33,3 @@
 <!ENTITY savedPasswords.label "كلمات السرّ المحفوظة…">
 <!ENTITY savedPasswords.accesskey "ك">
 
-
-<!ENTITY warnings.label "رسائل التحذير">
-
-<!ENTITY chooseWarnings.label "اختر رسائل التحذير التي تريد رؤيتها عند تصفّح الوِب">
-
-<!ENTITY warningSettings.label "الإعدادات…">
-<!ENTITY warningSettings.accesskey "ع">

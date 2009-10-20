@@ -1,0 +1,35 @@
+<!ENTITY aboutSupport.pageTitle "معلومات عن مواجهة الأعطال">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  هذه الصفحة تحتوي معلومات تقنية قد تفيدك لدى محاولتك مواجهة العطل عندك. إن كنتَ تبحث عن إجابات لأسئلة شائعة بخصوص &brandShortName;، فتحقق من <a id='supportLink'>موقع الدعم</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "الامتدادات">
+<!ENTITY aboutSupport.extensionName "الاسم">
+<!ENTITY aboutSupport.extensionEnabled "مفعّل">
+<!ENTITY aboutSupport.extensionVersion "الإصدار">
+<!ENTITY aboutSupport.extensionId "المعرّف">
+
+<!ENTITY aboutSupport.appBasicsTitle "أساسيات التطبيق">
+<!ENTITY aboutSupport.appBasicsName "الاسم">
+<!ENTITY aboutSupport.appBasicsVersion "الإصدار">
+<!ENTITY aboutSupport.appBasicsProfileDir "مجلد الملف الشخصي">
+<!ENTITY aboutSupport.appBasicsPlugins "الملحقات المثبتة">
+<!ENTITY aboutSupport.appBasicsBuildConfig "إعدادات البناء">
+
+<!ENTITY aboutSupport.show.label "افتح المجلد الحاوي">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "أظهِر في Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "التفضيلات المعدّلة">
+<!ENTITY aboutSupport.modifiedPrefsName "الاسم">
+<!ENTITY aboutSupport.modifiedPrefsValue "القيمة">
+
+<!ENTITY aboutSupport.installationHistoryTitle "تأريخ التثبيت">
+<!ENTITY aboutSupport.updateHistoryTitle "تأريخ التحديث">
+
+<!ENTITY aboutSupport.copyToClipboard.label "انسخ الكل إلى الحافظة">
