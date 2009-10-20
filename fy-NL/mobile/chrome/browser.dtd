@@ -31,14 +31,6 @@
 <!ENTITY helperApp.save            "Bewarje">
 <!ENTITY helperApp.nothing         "Neat">
 
-<!ENTITY findOnCmd.label     "Fyn yn dizze side…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Opnij fine">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label        "Tafoegings">
 <!ENTITY addonsLocal.label         "Jo Tafoegings">
 <!ENTITY addonsUpdate.label        "Fernij">
