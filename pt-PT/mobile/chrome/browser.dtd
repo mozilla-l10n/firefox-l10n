@@ -31,14 +31,6 @@
 <!ENTITY helperApp.save            "Guardar">
 <!ENTITY helperApp.nothing         "Nada">
 
-<!ENTITY findOnCmd.label     "Procurar nesta página…">
-<!ENTITY findOnCmd.accesskey "P">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Procurar novamente">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label        "Extras">
 <!ENTITY addonsLocal.label         "Os seus extras">
 <!ENTITY addonsRepo.label          "Obter extras">
