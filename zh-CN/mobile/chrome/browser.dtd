@@ -31,14 +31,6 @@
 <!ENTITY helperApp.save            "保存">
 <!ENTITY helperApp.nothing         "无">
 
-<!ENTITY findOnCmd.label     "在当前页查找…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "再次查找">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label        "附加组件">
 <!ENTITY addonsLocal.label         "您的附加组件">
 <!ENTITY addonsUpdate.label        "更新">
