@@ -31,14 +31,6 @@
 <!ENTITY helperApp.save            "Opslaan">
 <!ENTITY helperApp.nothing         "Niets">
 
-<!ENTITY findOnCmd.label     "Zoeken in deze pagina…">
-<!ENTITY findOnCmd.accesskey "Z">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Opnieuw zoeken">
-<!ENTITY findAgainCmd.accesskey "w">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label        "Add-ons">
 <!ENTITY addonsLocal.label         "Uw Add-ons">
 <!ENTITY addonsUpdate.label        "Update">
