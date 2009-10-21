@@ -25,13 +25,6 @@
 <!ENTITY helperApp.open "Abrir">
 <!ENTITY helperApp.save "Guardar">
 <!ENTITY helperApp.nothing "Nada">
-<!ENTITY findOnCmd.label "Buscar en esta página…">
-<!ENTITY findOnCmd.accesskey "B">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.accesskey "R">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY addonsHeader.label "Complementos">
 <!ENTITY addonsLocal.label "Sus complementos">
 <!ENTITY addonsUpdate.label "Actualizar">
