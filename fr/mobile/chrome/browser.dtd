@@ -31,14 +31,6 @@
 <!ENTITY helperApp.save "Enregistrer">
 <!ENTITY helperApp.nothing "Rien">
 
-<!ENTITY findOnCmd.label "Rechercher dans la page…">
-<!ENTITY findOnCmd.accesskey "C">
-<!ENTITY findOnCmd.commandkey "">
-<!ENTITY findAgainCmd.label  "Rechercher le suivant">
-<!ENTITY findAgainCmd.accesskey "h">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label "Modules">
 <!ENTITY addonsLocal.label "Vos modules">
 <!ENTITY addonsRepo.label "Obtenir des modules">
