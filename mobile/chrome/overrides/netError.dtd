@@ -67,7 +67,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul>
    <li>Verificare la correttezza delle impostazioni del proxy.</li>
    <li>Contattare l'amministratore di rete per verificare se il server proxy è funzionante.</li></ul>">
-<!ENTITY proxyResolveFailure.title "Server proxy non reperibile">
+<!ENTITY proxyResolveFailure.title "Impossibile stabilire una connessione con il server proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Verificare la correttezza delle impostazioni del proxy.</li>
 <li>Verificare se il computer ha una connessione di rete funzionante.</li>

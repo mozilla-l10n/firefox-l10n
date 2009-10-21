@@ -25,13 +25,6 @@
 <!ENTITY helperApp.open "Apri">
 <!ENTITY helperApp.save "Salva">
 <!ENTITY helperApp.nothing "Nessuna">
-<!ENTITY findOnCmd.label "Trova in questa pagina…">
-<!ENTITY findOnCmd.accesskey "T">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Trova successivo">
-<!ENTITY findAgainCmd.accesskey "T">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
 <!ENTITY addonsLocal.label "Componenti installati">
 <!ENTITY addonsUpdate.label "Aggiorna">
@@ -48,7 +41,7 @@
 <!ENTITY addonCancel.label "Annulla">
 <!ENTITY addonShowPage.label "Vai alla scheda">
 <!ENTITY downloadsHeader.label "Download">
-<!ENTITY downloadShowPage.label "Vai a pagina">
+<!ENTITY downloadShowPage.label "Vai alla pagina">
 <!ENTITY downloadShow2.label "Trova">
 <!ENTITY downloadOpen2.label "Apri">
 <!ENTITY downloadCancel.label "Annulla">
