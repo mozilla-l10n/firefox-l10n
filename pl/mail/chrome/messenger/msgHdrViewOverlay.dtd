@@ -62,19 +62,19 @@
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label      "edytuj…">
 <!ENTITY hdrArchiveButton.label       "archiwizuj">
-<!ENTITY hdrArchiveButton.tooltip     "Archiwizuj tą wiadomość">
+<!ENTITY hdrArchiveButton.tooltip     "Archiwizuj tę wiadomość">
 <!ENTITY hdrReplyButton.label         "odpowiedz">
-<!ENTITY hdrReplyButton.tooltip       "Odpowiedz na tą wiadomość">
+<!ENTITY hdrReplyButton.tooltip       "Odpowiedz na tę wiadomość">
 <!ENTITY hdrReplyAllButton.label      "odpowiedz wszystkim">
 <!ENTITY hdrReplyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim pozostałym korespondentom">
 <!ENTITY hdrReplyListButton.label     "odpowiedz liście">
 <!ENTITY hdrReplyListButton.tooltip   "Wyślij odpowiedź na listę dyskusyjną">
 <!ENTITY hdrForwardButton.label       "przekaż">
-<!ENTITY hdrForwardButton.tooltip     "Przekaż tą wiadomość">
+<!ENTITY hdrForwardButton.tooltip     "Przekaż tę wiadomość">
 <!ENTITY hdrJunkButton.label          "niechciana">
 <!ENTITY hdrJunkButton.tooltip        "Oznacz wiadomość jako niechcianą">
 <!ENTITY hdrTrashButton.label         "Usuń">
-<!ENTITY hdrTrashButton.tooltip       "Usuń tą wiadomość">
+<!ENTITY hdrTrashButton.tooltip       "Usuń tę wiadomość">
 <!ENTITY otherActionsButton.label     "inne">
 
 <!ENTITY hdrViewToolbarShowFull.label      "Wyświetlaj ikony i tekst">
