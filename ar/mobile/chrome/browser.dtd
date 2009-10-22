@@ -21,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "العلامات">
 <!ENTITY bookmarksManage.label     "إدارة">
-<!ENTITY foldersHeader.label       "المجلدات">
 
 <!ENTITY editBookmarkRemove.label  "أزِل">
-<!ENTITY editBookmarkMove.label    "انقل">
 <!ENTITY editBookmarkTags.label    "الوسوم:">
 <!ENTITY editBookmarkDone.label    "تمّ">
 
@@ -32,14 +30,6 @@
 <!ENTITY helperApp.open            "افتحه">
 <!ENTITY helperApp.save            "احفظه">
 <!ENTITY helperApp.nothing         "لا تفعل شيئًا">
-
-<!ENTITY findOnCmd.label     "ابحث في هذه الصفحة…">
-<!ENTITY findOnCmd.accesskey "ث">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "ابحث مجددًا">
-<!ENTITY findAgainCmd.accesskey "ح">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY addonsHeader.label        "الإضافات">
 <!ENTITY addonsLocal.label         "إضافاتك">
@@ -59,11 +49,6 @@
 <!ENTITY addonShowPage.label       "اذهب إلى الصفحة">
 
 <!ENTITY downloadsHeader.label     "التنزيلات">
-<!ENTITY downloadsSortDate.label   "حسب التاريخ">
-<!ENTITY downloadsSortSite.label   "حسب الموقع">
-<!ENTITY downloadsSortName.label   "حسب الاسم">
-<!ENTITY downloadsSearch.label     "ابحث">
-<!ENTITY downloadsSearch2.emptytext "ابحث">
 
 <!ENTITY downloadShowPage.label    "اذهب إلى الصفحة">
 <!ENTITY downloadShow2.label       "ابحث">
@@ -72,6 +57,8 @@
 <!ENTITY downloadPause.label       "ألبِث">
 <!ENTITY downloadResume.label      "تابِع">
 <!ENTITY downloadRetry.label       "أعِد المحاولة">
+<!ENTITY downloadRemove.label      "أزِل">
+<!ENTITY downloadFailed.label      "فشل">
 
 <!ENTITY noResults.label           "لا نتائج">
 <!ENTITY allBookmarks.label        "شاهِد كل العلامات">

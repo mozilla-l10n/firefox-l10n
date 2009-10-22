@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button                   "امسح">
 <!ENTITY clearPrivateData.description              "يساعد التأريخ &brandShortName; على تقديم اقتراحات لأسماء مواقع الوب التي تقصدها">
 <!ENTITY rememberPasswords.title                   "تذكّر كلمات السر">
+<!ENTITY language.title                            "اللغة">
+<!ENTITY language.description                      "اختر لغتك المفضلة في &brandShortName;">
+<!ENTITY language.auto                             "اكتشاف تلقائي">
