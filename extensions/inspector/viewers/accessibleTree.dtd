@@ -39,7 +39,7 @@
 
 <!ENTITY role.label "Rol">
 <!ENTITY name.label "Adı">
-<!ENTITY nodeName.label "Node Name">
+<!ENTITY nodeName.label "Düğüm adı">
 
-<!ENTITY evaluateJS.label "Evaluate JavaScript">
+<!ENTITY evaluateJS.label "JavaScript değerlendir">
 

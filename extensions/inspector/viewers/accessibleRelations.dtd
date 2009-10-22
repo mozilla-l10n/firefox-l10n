@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY relationType.label "Relation Type">
+<!ENTITY relationType.label "İlişki türü">
 <!ENTITY role.label "Rol">
-<!ENTITY nodeName.label "Node Name">
-<!ENTITY relations.label "Relations: ">
-<!ENTITY relationTargets.label "Relation Targets: ">
+<!ENTITY nodeName.label "Düğüm adı">
+<!ENTITY relations.label "İlişkiler:">
+<!ENTITY relationTargets.label "İlgili hedefler:">
 
