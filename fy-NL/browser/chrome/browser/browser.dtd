@@ -258,13 +258,15 @@
 <!ENTITY viewFrameSourceCmd.label     "Dielfinsterboarne besjen">
 <!ENTITY viewFrameSourceCmd.accesskey "b">
 <!ENTITY viewPageInfoCmd.label        "Side-ynfo besjen">
-<!ENTITY viewPageInfoCmd.accesskey    "Y">
+<!ENTITY viewPageInfoCmd.accesskey    "y">
 <!ENTITY viewFrameInfoCmd.label       "Dielfinsterynfo besjen">
-<!ENTITY viewFrameInfoCmd.accesskey   "Y">
+<!ENTITY viewFrameInfoCmd.accesskey   "y">
 <!ENTITY reloadImageCmd.label         "Ofbylding op 'e nij lade">
 <!ENTITY reloadImageCmd.accesskey     "l">
-<!ENTITY viewImageCmd.label           "Ofbylding besjen">
+<!ENTITY viewImageCmd.label           "Toan ôfbylding">
 <!ENTITY viewImageCmd.accesskey       "f">
+<!ENTITY viewImageInfoCmd.label       "Toan ôfbyldingsynformaasje">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Toan fideo">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Eftergrûnôfbylding besjen">
