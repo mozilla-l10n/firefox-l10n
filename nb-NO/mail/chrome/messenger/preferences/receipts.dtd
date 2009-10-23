@@ -6,7 +6,7 @@
 <!ENTITY leaveIt.accesskey             "L">
 <!ENTITY moveToSent.label              "Flytt den til «Sendt»-mappen">
 <!ENTITY moveToSent.accesskey          "F">
-<!ENTITY requestMDN.label              "Når jeg mottar forespørsel for kvittering:">
+<!ENTITY requestMDN.label              "Når jeg mottar forespørsel om kvittering:">
 <!ENTITY never.label                   "Aldri send kvitteringer">
 <!ENTITY never.accesskey               "A">
 <!ENTITY returnSome.label              "Tillat kvitteringer for noen meldinger">

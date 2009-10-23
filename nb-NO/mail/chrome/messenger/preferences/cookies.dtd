@@ -4,7 +4,7 @@
 <!ENTITY cookiename.label                  "Navn">
 <!ENTITY cookiedomain.label                "Nettsted">
 <!ENTITY button.removecookie.label         "Slett infokapsel">
-<!ENTITY button.removecookie.accesskey     "S">
+<!ENTITY button.removecookie.accesskey     "e">
 <!ENTITY button.removeallcookies.label     "Slett alle infokapsler">
 <!ENTITY button.removeallcookies.accesskey "a">
 

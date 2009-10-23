@@ -10,16 +10,16 @@
 <!ENTITY openButton.label            "Åpne">
 <!ENTITY openButton.accesskey        "Å">
 <!ENTITY deleteButton.label          "Slett">
-<!ENTITY deleteButton.accesskey      "S">
+<!ENTITY deleteButton.accesskey      "l">
 <!ENTITY searchDialogTitle.label     "Søk i meldinger">
 <!ENTITY results.label               "Resultater">
-<!ENTITY fileHereMenu.label          "Arkiver her">
-<!ENTITY fileHereMenu.accesskey      "A">
-<!ENTITY fileButton.label            "Arkiver">
+<!ENTITY fileHereMenu.label          "Lagre her">
+<!ENTITY fileHereMenu.accesskey      "a">
+<!ENTITY fileButton.label            "Lagre">
 <!ENTITY fileButton.accesskey        "r">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Åpne i mappen">
-<!ENTITY openInFolder.accesskey      "Å">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Lagre som søkemappe">
 <!ENTITY saveAsVFButton.accesskey    "L">
 

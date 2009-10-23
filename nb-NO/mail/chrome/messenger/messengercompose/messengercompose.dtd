@@ -151,9 +151,9 @@
 <!ENTITY highPriorityCmd.accesskey "H">
 <!ENTITY highestPriorityCmd.label "Høyest">
 <!ENTITY highestPriorityCmd.accesskey "H">
-<!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
+<!ENTITY fileCarbonCopyCmd.label "Lagre en kopi i">
 <!ENTITY fileCarbonCopyCmd.accesskey "k">
-<!ENTITY fileHereMenu.label "Arkiver her">
+<!ENTITY fileHereMenu.label "Lagre her">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">

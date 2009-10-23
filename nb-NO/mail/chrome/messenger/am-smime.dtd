@@ -18,11 +18,11 @@
 <!ENTITY encryption.certificate_clear.accesskey "ø">
 <!ENTITY signingGroupTitle.label "Digital signering">
 <!ENTITY signMessage.label "Signer meldinger digitalt (som standard)">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "m">
 <!ENTITY signingCert.message "Bruk dette sertifikatet for å digitalt signere meldinger du sender:">
 
 <!ENTITY certificates.label "Sertifikater">
 <!ENTITY manageCerts.label "Vis sertifikater">
-<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageCerts.accesskey "r">
 <!ENTITY manageDevices.label "Sikkerhetsenheter">
 <!ENTITY manageDevices.accesskey "S">
