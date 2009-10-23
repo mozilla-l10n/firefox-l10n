@@ -271,6 +271,8 @@
 <!ENTITY reloadImageCmd.accesskey     "O">
 <!ENTITY viewImageCmd.label           "Pokaż obrazek" >
 <!ENTITY viewImageCmd.accesskey       "P" >
+<!ENTITY viewImageInfoCmd.label       "Pokaż informacje o obrazku">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Pokaż wideo">
 <!ENTITY viewVideoCmd.accesskey       "P">
 <!ENTITY viewBGImageCmd.label "Pokaż obrazek tła" >
