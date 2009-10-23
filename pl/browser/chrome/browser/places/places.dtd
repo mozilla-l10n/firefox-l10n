@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label   "Porządek sortowania Z > A">
 <!ENTITY view.sortDescending.accesskey   "Z">
-<!ENTITY help.usingBookmarks.label   "Korzystanie z zakładek">
-<!ENTITY help.usingBookmarks.accesskey   "z">
-<!ENTITY help.usingHistory.label   "Korzystanie z historii">
-<!ENTITY help.usingHistory.accesskey   "h">
-<!ENTITY help.advancedTips.label   "Zaawansowane porady i sztuczki">
-<!ENTITY help.advancedTips.accesskey   "p">
 
 <!ENTITY cmd.findInBookmarks.label    "Znajdź w zakładkach">
 <!ENTITY cmd.findInBookmarks.accesskey   "Z">
@@ -91,8 +85,6 @@
 <!ENTITY cmd.properties.label   "Właściwości">
 <!ENTITY cmd.properties.accesskey   "i">
 
-<!ENTITY cmd.show_info.key   "i">
-
 <!ENTITY cmd.rename.label   "Zmień nazwę">
 <!ENTITY cmd.rename.accesskey   "m">
 
@@ -114,15 +106,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey   "d">
 <!ENTITY cmd.reloadMicrosummary.label   "Odśwież dynamiczny tytuł">
 <!ENTITY cmd.reloadMicrosummary.accesskey   "d">
-
-<!ENTITY cmd.groupby_site.label   "Grupuj wg witryny">
-<!ENTITY cmd.groupby_site.accesskey   "w">
-<!ENTITY cmd.groupby_page.label   "Grupuj wg strony">
-<!ENTITY cmd.groupby_page.accesskey   "t">
-<!ENTITY cmd.groupby_feed.label   "Grupuj wg subskrypcji">
-<!ENTITY cmd.groupby_feed.accesskey   "S">
-<!ENTITY cmd.groupby_post.label   "Grupuj wg wiadomości">
-<!ENTITY cmd.groupby_post.accesskey   "w">
 
 <!ENTITY cmd.moveBookmarks.label          "Przenieś…">
 <!ENTITY cmd.moveBookmarks.accesskey          "P">
@@ -147,56 +130,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "P">
 <!ENTITY search.scopeHistory.label                 "Historię">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Wyświetl konstruktora wyszukiwania">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Ukryj konstruktora wyszukiwania">
-
 <!ENTITY saveSearch.label   "Zapisz">
 <!ENTITY saveSearch.accesskey   "Z">
-<!ENTITY moreCriteria.label   "+">
-<!ENTITY advancedSearch.onlybookmarked.label   "Przeszukaj tylko zakładki">
-<!ENTITY advancedSearch.match.label   "Dopasuj strony spełniające ">
-<!ENTITY advancedSearch.all.label   "wszystkie">
-<!ENTITY advancedSearch.any.label   "dowolne">
-<!ENTITY advancedSearch.rules.label   " z poniższych reguł:">
-<!ENTITY advancedSearch.subj_keyword.label   "Zawiera tekst">
-<!ENTITY advancedSearch.subj_visited.label   "Odwiedzona">
-<!ENTITY advancedSearch.subj_location.label   "Adres">
-<!ENTITY advancedSearch.location_startswith.label   "zaczyna się na">
-<!ENTITY advancedSearch.location_is.label   "jest równy">
-<!ENTITY advancedSearch.location_onsite.label   "jest w witrynie">
-<!ENTITY advancedSearch.time_is.label   "w dniu">
-<!ENTITY advancedSearch.time_before.label   "przed">
-<!ENTITY advancedSearch.time_after.label   "po">
-<!ENTITY advancedSearch.time_inlast.label   "w ciągu ostatnich">
-<!ENTITY advancedSearch.last_days.label   "dni">
-<!ENTITY advancedSearch.last_weeks.label   "tygodni">
-<!ENTITY advancedSearch.last_months.label   "miesięcy">
-<!ENTITY advancedSearch.plus.label   "+">
-<!ENTITY advancedSearch.minus.label   "-">
-<!ENTITY advancedSearch.groupby.label   "Grupuj wg: ">
-<!ENTITY advancedSearch.groupby_host.label   "hosta">
-<!ENTITY advancedSearch.groupby_domain.label   "domeny">
-<!ENTITY advancedSearch.groupby_folder.label   "folderu">
-<!ENTITY advancedSearch.sortby.label   "Sortuj wg: ">
-<!ENTITY advancedSearch.sortby_title.label   "tytułu">
-<!ENTITY advancedSearch.sortby_date.label   "daty">
-<!ENTITY advancedSearch.sortby_visit.label   "liczby odwiedzin">
-<!ENTITY advancedSearch.sortby_url.label   "adresu URL">
-<!ENTITY advancedSearch.sortby_asc.label   "rosnąco">
-<!ENTITY advancedSearch.sortby_desc.label   "malejąco">
-<!ENTITY advancedSearch.max.label   "Maksymalna liczba wyników: ">
 
 <!ENTITY cmd.find.key   "f">
 
 <!ENTITY feed.subscribe.label   "Kanał">
 <!ENTITY feed.subscribe.tooltip   "Subskrybuj">
-
-<!ENTITY view.detailsMacOSX.label   "Lista">
-<!ENTITY view.details.label   "Szczegóły">
-<!ENTITY view.details.accesskey   "S">
-
-<!-- FIXME(view.addons.label) enUS: Get View Add-ons? -->
-<!ENTITY view.addons.label   "Pobierz dodatki związane z widokami">
 
 <!ENTITY maintenance.label   "Importowanie i kopie zapasowe">
 <!ENTITY maintenance.accesskey  "I">
