@@ -17,7 +17,3 @@
 <!ENTITY changeMasterPassword.accesskey "З">
 <!ENTITY savedPasswords.label "Захаваныя паролі…">
 <!ENTITY savedPasswords.accesskey "П">
-<!ENTITY warnings.label "Паведамленні-папярэджанні">
-<!ENTITY chooseWarnings.label "Выбар папярэджанняў, якія вы хочаце бачыць падчас азірання сеціва">
-<!ENTITY warningSettings.label "Наладжванні…">
-<!ENTITY warningSettings.accesskey "Н">

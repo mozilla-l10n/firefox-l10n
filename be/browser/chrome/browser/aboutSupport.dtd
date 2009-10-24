@@ -8,7 +8,6 @@
 <!ENTITY aboutSupport.extensionName "Назва">
 <!ENTITY aboutSupport.extensionEnabled "Дазволена">
 <!ENTITY aboutSupport.extensionVersion "Версія">
-<!ENTITY aboutSupport.extensionFirstRun "Першы запуск">
 <!ENTITY aboutSupport.extensionId "Вызначальнік">
 <!ENTITY aboutSupport.appBasicsTitle "Аснова прыстасавання">
 <!ENTITY aboutSupport.appBasicsName "Назва">
@@ -16,6 +15,8 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Дырэкторыя профілю">
 <!ENTITY aboutSupport.appBasicsPlugins "Усталяваныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладка пабудовы">
+<!ENTITY aboutSupport.show.label "Адкрыць змяшчальную папку">
+<!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">

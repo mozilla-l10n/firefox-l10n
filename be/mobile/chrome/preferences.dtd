@@ -15,3 +15,6 @@
 <!ENTITY clearPrivateData.button "Ачысціць">
 <!ENTITY clearPrivateData.description "Ваша гісторыя дазваляе &brandShortName; прапаноўваць вам месца для наведвання">
 <!ENTITY rememberPasswords.title "Памятаць паролі">
+<!ENTITY language.title "Мова">
+<!ENTITY language.description "Выберыце для  &brandShortName; мову, якой вы аддаяце перавагу">
+<!ENTITY language.auto "Сама-вызначэнне">

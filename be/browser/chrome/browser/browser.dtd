@@ -203,6 +203,8 @@
 <!ENTITY reloadImageCmd.accesskey "А">
 <!ENTITY viewImageCmd.label "Праглядзець малюнак">
 <!ENTITY viewImageCmd.accesskey "М">
+<!ENTITY viewImageInfoCmd.label "Звесткі пра малюнак">
+<!ENTITY viewImageInfoCmd.accesskey "м">
 <!ENTITY viewVideoCmd.label "Прагледзець відэя">
 <!ENTITY viewVideoCmd.accesskey "г">
 <!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
@@ -270,6 +272,8 @@
 <!ENTITY mediaShowControls.accesskey "к">
 <!ENTITY mediaHideControls.label "Схаваць кіроўцы">
 <!ENTITY mediaHideControls.accesskey "к">
+<!ENTITY videoFullScreen.label "Увесь экран">
+<!ENTITY videoFullScreen.accesskey "У">
 <!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">

@@ -23,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey "А">
 <!ENTITY view.sortDescending.label "Размеркаваць ад Я да А">
 <!ENTITY view.sortDescending.accesskey "Я">
-<!ENTITY help.usingBookmarks.label "Ужыванне закладак">
-<!ENTITY help.usingBookmarks.accesskey "з">
-<!ENTITY help.usingHistory.label "Ужыванне гісторыі">
-<!ENTITY help.usingHistory.accesskey "г">
-<!ENTITY help.advancedTips.label "Парады і хітрасці">
-<!ENTITY help.advancedTips.accesskey "х">
 <!ENTITY cmd.findInBookmarks.label "Знайсці ў закладках…">
 <!ENTITY cmd.findInBookmarks.accesskey "З">
 <!ENTITY cmd.findCurrent.label "Шукаць у гэтым зборы…">
@@ -79,7 +73,6 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "у">
 <!ENTITY cmd.properties.label "Уласцівасці">
 <!ENTITY cmd.properties.accesskey "У">
-<!ENTITY cmd.show_info.key "i">
 <!ENTITY cmd.rename.label "Перайменаваць">
 <!ENTITY cmd.rename.accesskey "П">
 <!ENTITY cmd.sortby_name.label "Размеркаваць па назве">
@@ -98,14 +91,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "А">
 <!ENTITY cmd.reloadMicrosummary.label "Абнавіць жывую закладку">
 <!ENTITY cmd.reloadMicrosummary.accesskey "А">
-<!ENTITY cmd.groupby_site.label "Купаваць па пляцоўкам">
-<!ENTITY cmd.groupby_site.accesskey "К">
-<!ENTITY cmd.groupby_page.label "Купаваць па старонкам">
-<!ENTITY cmd.groupby_page.accesskey "с">
-<!ENTITY cmd.groupby_feed.label "Купаваць па падпісцы">
-<!ENTITY cmd.groupby_feed.accesskey "п">
-<!ENTITY cmd.groupby_post.label "Купаваць па допісам">
-<!ENTITY cmd.groupby_post.accesskey "д">
 <!ENTITY cmd.moveBookmarks.label "Рухаць…">
 <!ENTITY cmd.moveBookmarks.accesskey "Р">
 <!ENTITY col.name.label "Назва">
@@ -127,50 +112,11 @@
 <!ENTITY search.scopeDownloads.accesskey "З">
 <!ENTITY search.scopeHistory.label "Гісторыя">
 <!ENTITY search.scopeHistory.accesskey "Г">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Паказаць будаўнік пошуку">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Схаваць будаўнік пошуку">
 <!ENTITY saveSearch.label "Захаваць">
 <!ENTITY saveSearch.accesskey "З">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Шукаць толькі закладкі">
-<!ENTITY advancedSearch.match.label "Адпавядаюць">
-<!ENTITY advancedSearch.all.label "усім">
-<!ENTITY advancedSearch.any.label "нейкаму">
-<!ENTITY advancedSearch.rules.label " з наступных правілаў:">
-<!ENTITY advancedSearch.subj_keyword.label "Які змяшчае тэкст">
-<!ENTITY advancedSearch.subj_visited.label "Наведаны">
-<!ENTITY advancedSearch.subj_location.label "Месцазнаходжанне">
-<!ENTITY advancedSearch.location_startswith.label "пачынаецца з">
-<!ENTITY advancedSearch.location_is.label "тоесны">
-<!ENTITY advancedSearch.location_onsite.label "на пляцоўцы">
-<!ENTITY advancedSearch.time_is.label "на">
-<!ENTITY advancedSearch.time_before.label "перад">
-<!ENTITY advancedSearch.time_after.label "пасля">
-<!ENTITY advancedSearch.time_inlast.label "у апошнія">
-<!ENTITY advancedSearch.last_days.label "дзён">
-<!ENTITY advancedSearch.last_weeks.label "тыдняў">
-<!ENTITY advancedSearch.last_months.label "месяцаў">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Купаваць па:">
-<!ENTITY advancedSearch.groupby_host.label "трымальнікам">
-<!ENTITY advancedSearch.groupby_domain.label "даменам">
-<!ENTITY advancedSearch.groupby_folder.label "папкам">
-<!ENTITY advancedSearch.sortby.label "Размеркаваць па:">
-<!ENTITY advancedSearch.sortby_title.label "загалоўкам">
-<!ENTITY advancedSearch.sortby_date.label "датам">
-<!ENTITY advancedSearch.sortby_visit.label "колькасці наведванняў">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "узыходна">
-<!ENTITY advancedSearch.sortby_desc.label "сыходна">
-<!ENTITY advancedSearch.max.label "Найбольшы лік вынікаў:">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "Жывільнік">
 <!ENTITY feed.subscribe.tooltip "Падпісацца">
-<!ENTITY view.detailsMacOSX.label "Спіс">
-<!ENTITY view.details.label "Падрабязнасці">
-<!ENTITY view.details.accesskey "д">
-<!ENTITY view.addons.label "Набыць дадаткі праяваў">
 <!ENTITY maintenance.label "Імпарт і адноўка">
 <!ENTITY maintenance.accesskey "І">
 <!ENTITY backCmd.label "Назад">

@@ -9,7 +9,7 @@
 <!ENTITY cmd.resume.accesskey "р">
 <!ENTITY cmd.cancel.label "Скасаваць">
 <!ENTITY cmd.cancel.accesskey "С">
-<!ENTITY cmd.show.label "Адчыніць змяшчальную папку">
+<!ENTITY cmd.show.label "Адкрыць змяшчальную папку">
 <!ENTITY cmd.show.accesskey "п">
 <!ENTITY cmd.showMac.label "Паказаць у шукальніку">
 <!ENTITY cmd.showMac.accesskey "ш">
