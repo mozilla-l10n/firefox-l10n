@@ -63,13 +63,9 @@
 <!ENTITY helperApp.save                   "Įrašyti">
 <!ENTITY helperApp.nothing                "Nieko">
 
-<!ENTITY findOnCmd.label                  "Ieškoti šiame tinklalapyje…">
-<!ENTITY findOnCmd.accesskey              "I">
-<!ENTITY findOnCmd.commandkey             "f">
-<!ENTITY findAgainCmd.label               "Ieškoti toliau">
-<!ENTITY findAgainCmd.accesskey           "e">
-<!ENTITY findAgainCmd.commandkey          "g">
-<!ENTITY findAgainCmd.commandkey2         "VK_F3">
+<!ENTITY formHelper.previous              "Ankstesnis">
+<!ENTITY formHelper.next                  "Kitas">
+<!ENTITY formHelper.done                  "Baigta">
 
 <!ENTITY addonsHeader.label               "Priedai">
 <!ENTITY addonsLocal.label                "Įdiegti priedai">
@@ -129,5 +125,3 @@
 <!ENTITY consoleErrFile.label             "Failas:">
 <!ENTITY consoleErrLine.label             "Eilutė:">
 <!ENTITY consoleErrColumn.label           "Stulpelis:">
-
-<!ENTITY selectListDone.label             "Baigta">
