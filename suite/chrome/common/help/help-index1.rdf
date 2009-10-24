@@ -13,6 +13,11 @@
        <rdf:Description ID="adding"
          nc:name="Hinzuf&#252;gen"/>
      </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="add-ons"
+         nc:name="Add-Ons"
+         nc:link="customize_help.xhtml#add-ons"/>
+     </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books"
          nc:name="Adressb&#252;cher"
@@ -92,6 +97,56 @@
        <rdf:Description ID="address_books:searching"
          nc:name="Durchsuchen Ihres Adressbuchs"
          nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#add-ons">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:about"
+         nc:name="&#220;ber"
+         nc:link="customize_help.xhtml#about_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:installing"
+         nc:name="Installieren"
+         nc:link="customize_help.xhtml#installing_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:manager"
+         nc:name="Add-ons Manager"
+         nc:link="customize_help.xhtml#using_the_add-on_manager"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#add-ons:manager">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:get_add-ons"
+         nc:name="Add-ons herunterladen Panel"
+         nc:link="customize_help.xhtml#the_get_add-ons_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:extensions_panel"
+         nc:name="ERweiterungen Panel"
+         nc:link="customize_help.xhtml#the_extensions_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:themes_panel"
+         nc:name="Theme Panel"
+         nc:link="customize_help.xhtml#the_themes_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:languages_panel"
+         nc:name="Sprachen Panel"
+         nc:link="customize_help.xhtml#the_languages_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:plugins_panel"
+         nc:name="Plugins Panel"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -222,6 +277,16 @@
        <rdf:Description ID="browser:start_page"
          nc:name="Startseite"
          nc:link="customize_help.xhtml#specifying_a_starting_page"/>
+     </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="browser:session_restore"
+         nc:name="Sitzung wiederherstellen"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:crash_recovery"
+         nc:name="Absturz Wiederherstellung"
+         nc:link="customize_help.xhtml#session_restore"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:start_up_components"
@@ -595,6 +660,11 @@
        <rdf:Description ID="JSConsole"
          nc:name="Fehler Konsole"
          nc:link="developer_tools.xhtml#js_console"/>         
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="extensions_panel"
+         nc:name="Erweiterungen Panel"
+         nc:link="customize_help.xhtml#the_extensions_panel"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -771,11 +841,6 @@
      <rdf:li>
        <rdf:Description ID="import"
          nc:name="Import"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="intermediate_server_CA_certificates"
-         nc:name="Subserver CA-Zertifikate"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -946,6 +1011,11 @@
        <rdf:Description ID="languages"
          nc:name="Sprachen"
          nc:link="nav_help.xhtml#using_languages_and_international_content"/>
+     </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="languages_panel"
+         nc:name="Sprachen Panel"
+         nc:link="customize_help.xhtml#the_languages_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="LDAP"
@@ -1152,6 +1222,11 @@
          nc:name="Suchen von Nachrichten"
          nc:link="mail_help.xhtml#searching_through_messages"/>
      </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
+         nc:name="Mail and Newsgroups Netzwerk Einstellungen"
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+     </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
          nc:name="Offline Synchronisations-Einstellungen"
@@ -1314,7 +1389,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="offlineeinstellungen"
-         nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1345,6 +1420,11 @@
        <rdf:Description ID="plugins"
          nc:name="Plug-Ins"
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
+     </rdf:li>
+      <rdf:li>
+       <rdf:Description ID="plugins_panel"
+         nc:name="Plugins Panel"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="POP"
@@ -1647,11 +1727,6 @@
          nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="profiles:roaming"
-         nc:name="roaming profile"
-	 nc:link="profiles_help.xhtml#roaming_profiles"/>     
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="profiles:managing"
          nc:name="Verwalten von Profilen"
          nc:link="profiles_help.xhtml#managing_profiles"/>
@@ -1660,11 +1735,6 @@
        <rdf:Description ID="profiles:renaming"
          nc:name="Umbenennen eines Profils"
          nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="profiles:roaming"
-         nc:name="roaming profile"
-         nc:link="profiles_help.xhtml#roaming_profiles"/>     
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1747,11 +1817,6 @@
        <rdf:Description ID="security_devices"
          nc:name="Sicherheitsger&#228;te"
          nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="server_certificate_problems"
-         nc:name="Serverzertifikate - Probleme"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings"

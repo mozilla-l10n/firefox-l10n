@@ -572,8 +572,8 @@ Sicherheit um die Liste aufzuklappen.)</li>
   wenn Sie genauere Informationen dar&#252;ber erhalten wollen, wie Sie f&#252;r bestimmte Sender externe Inhalte
   zulassen k&#246;nnen.</p>
 
-<p>Standartm&#228;ssig sind f&#252;r ankommende Nachrichten Javascript und Plug-Ins deaktiviert. 
-Um diese Eisntellungen zu &#228;ndern:</p>
+<p>Standartm&#228;ssig sind f&#252;r ankommende Nachrichten Plug-Ins deaktiviert. 
+Um diese Einstellungen zu &#228;ndern:</p>
 
 <ol>
 <li>&#214;ffnen sie das Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
@@ -583,9 +583,6 @@ und w&#228;hlen Einstellungen.</li>
 (Wenn keine Unterkategorieren sicherbar sind, doppelklicken Sie auf Erweitert um die Liste aufzuklappen.)</li>
 
 <ul>
-<li>Unter <q>Javascript aktivieren f&#252;r</q>, w&#228;hlen Sie <q>Mail &amp; Newsgroups</q> um 
-Javascript zu aktivieren.</li>
-
 <li>Unter <q>Plug-Ins aktivieren f&#252;r</q>, w&#228;hlen Sie <q>Mail &amp; Newsgroups</q> um 
 Plugins zu aktivieren.</li>
 </ul>
@@ -3089,9 +3086,9 @@ explizit als <q>Nicht Junk</q> markieren.</p>
 <h2 id="junk_controls_options">Junk-Mail-Filter Einstellungen</h2>
 
 <p>Um die Junk-Mail-Filter feiner zu justieren, benutzen Sie die
-<a href="global_junk_settings">Globalen Junk-Mail Einstellungen</a> f&#252;r generelle Optionen
-und die <a href="junk_settings">Junk-Mail Einstellungen</a> um f&#252;r einen Account spezielle
-Regeln zu definieren.</p>
+<a href="#junk_and_suspect_preferences">Junk-Mail Einstellungen</a> 
+f&#252;r generelle Optionen und die <a href="#junk_settings">Junk-Mail Einstellungen</a> um 
+f&#252;r einen Account spezielle Regeln zu definieren.</p>
 
 <p>[<a href="#controlling_junk_mail">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
@@ -3852,7 +3849,7 @@ Nachrichten, die Sie w&#228;hrend der Offline-Arbeit senden, im Ordner
 wollen das &brandShortName; beim Online gehen diese Nachrichten automatisch
 absendet, dann &#228;ndern Sie dies &#252;ber die Einstellungen im Men&#252;
 <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span></q>, unter
-<a href="#offline_and_disk_space_preferences">Offlineeinstellungen</a>.</p>
+<a href="#network_and_storage_preferences">Offlineeinstellungen</a>.</p>
 
 <p>[<a href="#working_offline">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
@@ -3922,7 +3919,7 @@ Nachrichten, die Sie w&#228;hrend der Offline-Arbeit senden, im Ordner
 wollen das &brandShortName; beim Online gehen diese Nachrichten automatisch
 absendet, dann &#228;ndern Sie dies &#252;ber die Einstellungen im Men&#252;
 <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span></q>, unter
-<a href="#offline_and_disk_space_preferences">Offlineeinstellungen</a>.</p>
+<a href="#network_and_storage_preferences">Offlineeinstellungen</a>.</p>
 
 <p>[<a href="#working_offline">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
@@ -4009,7 +4006,7 @@ Nachrichten, die Sie w&#228;hrend der Offline-Arbeit senden, im Ordner
 wollen das &brandShortName; beim Online gehen diese Nachrichten automatisch
 absendet, dann &#228;ndern Sie dies &#252;ber die Einstellungen im Men&#252;
 <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span></q>, unter
-<a href="#offline_and_disk_space_preferences">Offlineeinstellungen</a>.</p>
+<a href="#network_and_storage_preferences">Offlineeinstellungen</a>.</p>
 
 <p>[<a href="#working_offline">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
@@ -4468,10 +4465,21 @@ Sie wie folgt, beginnend aus dem Mail-Fenster, vor:</p>
   <li><strong>Port</strong>: &#196;ndern Sie diese Einstellung nur wenn Sie
       dazu von Ihrem ISP oder Systemadministrator aufgefordert werden.</li>
 
-  <li><strong>Sichere Verbindung verwenden (SSL)</strong>: Aktivieren Sie die
-      Option, wenn der IMAP-Server zum Senden und Empfangen
-	  verschl&#252;sselter Mail konfiguriert ist. Wenn Sie unsicher sind,
-	  wenden Sie sich an den Mail-Server-Administrator oder Ihren ISP.</li>
+  <li><strong>Verbindungssicherheit</strong>: W&#228;hlen Sie eine der folgenden Optionen
+    um eine <a href="glossary.xhtml#secure_connection">Sichere Verbindung</a> 
+    zu Ihrem IMAP-Server herzustellen:
+    <ul>
+      <li><strong>Keine</strong>: &brandShortName; verwende eine normale Verbindung,
+        ohne irgendwelche Verschl&#252;sselungen. Sie sollten dies <strong>nur</strong> nutzen, 
+        wenn Ihn Posteingangsserver keine Verschl&#252;sselung unterst&#252;tzt.</li>
+      <li><strong>STARTTLS</strong>: Ben&#246;tigt eine verschl&#252;sselte Verbindung und 
+        benutzt <a href="glossary.xhtml#starttls">STARTTLS</a> Methode verwendet. Hierbei
+        wird normalerweise der Standard IMAP Port 143 verwendet.</li>
+      <li><strong>SSL/TLS</strong>: Ben&#246;tigt eine verschl&#252;sselte Verbindung und 
+        benutzt die IMAP-over-SSL Methode. Der Standard-Port hierf&#252;r ist 993.
+      </li>
+    </ul>
+  </li>
 
   <li><strong>Sichere Authentifikation verwenden</strong>: W&#228;hlen Sie diese
       Option wenn Sicherheitsmechanismen wie CRAM-MD5 verwenden. Wenn Sie
@@ -4490,11 +4498,12 @@ Sie wie folgt, beginnend aus dem Mail-Fenster, vor:</p>
 	  Nachrichten &#252;berpr&#252;fen, indem Sie auf <q>Abrufen</q> im
 	  Mail-Fenster klicken.</li>
 
-  <li id="when_i_delete_a_message"><strong>Beim L&#246;schen einer
-      Nachricht</strong>: Verschieben Sie gel&#246;schte Nachrichten in den
-	  Ordner Papierkorb (Empfohlen). Markieren Sie Nachrichten nur dann als
-	  gel&#246;scht und entfernen Sie sie, wenn ein Ordner komprimiert
-	  wird.</li>
+  <li id="when_i_delete_a_message"><strong>Beim L&#246;schen einer Nachricht</strong>: 
+    W&#228;hlen Sie das Verhalten well eine Nachricht gel&#246;scht werden soll. 
+    Es wird empfohlen die Option <q>In diesen Ordner verschieben</q> bei welcher Sie den
+    Ziel-Ordner w&#228;hlen k&#246;nnen zu nutzen, auser Ihr System-Administrator oder 
+    Service-Provider schreibt etwas anderes vor. Nachrichten welche als gel&#246;scht markiert
+    wurden, werden erst enfernt, wenn Sie den Ordner komprimieren.</li>
 
   <li><strong>Bereinigen <q>(Expunge)</q> des Posteingangs beim
       Verlassen</strong>: Wenn Sie diese Option aktivieren, werden
@@ -4579,10 +4588,21 @@ Mail-Fenster):</p>
   <li><strong>Port</strong>: &#196;ndern Sie diese Einstellung nur wenn Sie
       dazu von Ihrem ISP oder Systemadministrator aufgefordert werden.</li>
 
-  <li><strong>Sichere Verbindung verwenden (SSL)</strong>: Aktivieren Sie die
-      Option, wenn der IMAP-Server zum Senden und Empfangen
-	  verschl&#252;sselter Mail konfiguriert ist. Wenn Sie unsicher sind,
-	  wenden Sie sich an den Mail-Server-Administrator oder Ihren ISP.</li>
+  <li><strong>Verbindungssicherheit</strong>: W&#228;hlen Sie eine der folgenden Optionen
+    um eine <a href="glossary.xhtml#secure_connection">Sichere Verbindung</a> 
+    zu Ihrem POP-Server herzustellen:
+    <ul>
+      <li><strong>Keine</strong>: &brandShortName; verwende eine normale Verbindung,
+        ohne irgendwelche Verschl&#252;sselungen. Sie sollten dies <strong>nur</strong> nutzen, 
+        wenn Ihn Posteingangsserver keine Verschl&#252;sselung unterst&#252;tzt.</li>
+      <li><strong>STARTTLS</strong>: Ben&#246;tigt eine verschl&#252;sselte Verbindung und 
+        benutzt <a href="glossary.xhtml#starttls">STARTTLS</a> Methode verwendet. Hierbei
+        wird normalerweise der Standard POP Port 110 verwendet.</li>
+      <li><strong>SSL/TLS</strong>: Ben&#246;tigt eine verschl&#252;sselte Verbindung und 
+        benutzt die POP-over-SSL Methode. Der Standard-Port hierf&#252;r ist 995.
+      </li>
+    </ul>
+  </li>
 
   <li><strong>Sichere Authentifikation verwenden</strong>: W&#228;hlen Sie diese
       Option wenn Sicherheitsmechanismen wie CRAM-MD5 verwenden. Wenn Sie
@@ -4620,10 +4640,8 @@ Mail-Fenster):</p>
         <li><strong>F&#252;r maximal [__] Tage</strong>: W&#228;hlen Sie diese Option
 		    W&#228;hlen Sie diese Einstellung wenn die Nachrichten nach der
 			eingegebenen Zahl an Tagen gel&#246;scht werden sollen.</li>
-        <li><strong>Bis sie vom Posteingang verschoben oder gel&#246;scht
-		    werden</strong>: W&#228;hlen Sie diese Option, damit die
-			Nachrichten auch vom Server gel&#246;scht werden, sobald Sie
-			vom lokalen Computer gel&#246;scht werden.</li>
+      <li><strong>Bis sie gel&#246;scht werden</strong>: W&#228;hlen Sie diese Option 
+        wenn Nachrichten am Server entfernt werden sollen, sobald Sie diese l&#246;schen.</li>
       </ul></li>
 
   <li><strong>Papierkorb beim Verlassen leeren</strong>: W&#228;hlen Sie diese
@@ -4671,10 +4689,13 @@ Mail-Fenster):</p>
   <li><strong>Port</strong>: &#196;ndern Sie diese Einstellung nur wenn Sie
       dazu von Ihrem ISP oder Systemadministrator aufgefordert werden.</li>
 
-  <li><strong>Sichere Verbindung verwenden (SSL)</strong>: Aktivieren Sie die
-      Option, wenn der IMAP-Server zum Senden und Empfangen
-	  verschl&#252;sselter Mail konfiguriert ist. Wenn Sie unsicher sind,
-	  wenden Sie sich an den Mail-Server-Administrator oder Ihren ISP.</li>
+  <li><strong>Verbindungssicherheit</strong>: W&#228;hlen Sie &quot;SSL/TLS&quot; wenn
+    Ihr News-Server konfiguriert ist, verschl&#252;sselte Nachrichten zu senden und zu empfangen,
+    ansonsten w&#228;hlen Sie &quot;Keine&quot;. Wenn Sie sich nicht sicher sind, kontaktieren Sie
+    Ihren Service-Provider oder System-Administrator.</li>
+  <li><strong>Beim Starten auf neue Artikel pr&#252;fen</strong>: W&#228;hlen Sie diese Option
+    wenn automatisch auf neue Artikel gepr&#252;ft werden soll, sobald Sie die Mail &amp;
+    Newsgroup Komponente von &brandShortName; aufrufen.</li>
 
   <li><strong>Alle [__] Minuten auf neue Nachrichten
       &#252;berpr&#252;fen</strong>: Klicken Sie auf diese Option und geben Sie
@@ -4697,9 +4718,6 @@ Mail-Fenster):</p>
 	  Verbindung zu einem Server hergstellt wird. Selbst dann wenn der Server
 	  nicht danach fragt (<q>Pushed Authentication</q>).</li>
 
-  <li><strong>Erweitert</strong>: Hier k&#246;nnen Sie einen anderen
-      Postausgangsserver (SMTP) f&#252;r diesen Account einstellen.</li>
-
   <li><strong>newsrc-Datei</strong>: Der Pfad f&#252;r die Datei newsrc wird
       zur Information angezeigt. Die Datei newsrc speichert Informationen
 	  &#252;ber die abonnierten Foren und die Nachrichten, die Sie in jedem
@@ -4707,6 +4725,13 @@ Mail-Fenster):</p>
 
   <li><strong>Lokales Verzeichnis</strong>: Der Ort auf Ihrer Festplatte, an
       dem Ihre E-Mails f&#252;r diesen Account gespeichert werden.</li>
+
+  <li><strong>Standard-Zeichensatz</strong>: W&#228;hlen Sie den gew&#252;nschten Zeichensatz 
+    aus dem Dropdown-Men&#252; welchen Sie standardm&#228;ssig f&#252;r eingehende 
+    Newsgroup-Artikel verwenden m&#246;chten. Dies wird empfohlen, wenn es 
+    wahrscheinlich ist da&#223; Sie Newsgroup-Artikel bekommen, welche keinen 
+    Zeichensatz (MIME charset) defierte haben, wie z.B. beim Lesen einer 
+    internationalen Newsgroup.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
@@ -4929,12 +4954,21 @@ h&#228;ngen vom Servertyp (IMAP, POP oder News) des Accounts ab.</p>
     werden jedoch <em>gel&#246;scht</em> wenn Sie die 
    Option <q>Nachrichten f&#252;r diesen Account auf diesem Rechner behalten</q> aktivieren.</p>
 </li>
-
-  <li><strong>Keine Nachrichten lokal herunterladen, die gr&#246;&#223;er sind
-      als [__] KB</strong>: Wenn Sie dieses Kontrollk&#228;stchen aktivieren,
-	  k&#246;nnen Sie Speicherplatz sparen, indem Sie verhindern, dass
-	  umfangreiche Nachrichten heruntergeladen werden. Geben Sie die maximale
-	  Gr&#246;&#223;e f&#252;r herunterzuladende Nachrichten ein.</li>
+  <li><strong>Alle Nachrichten ungeachtet des Alters lokal synchronisieren</strong>:
+    Wenn Sie die Syncronisation f&#252;r einen Account oder einen Ordner aktiviert haben,
+    werden <em>alle</em> Nachrichten lokal heruntergeladen und gespeichert, auser
+    es wurde eine Gr&#246;ssenbegrenzung festgelegt.</li>
+  <li><strong>Die letzten [__] [Tage] syncronisieren</strong>: Nur Nachrichten,
+    welche nicht &#228;lter als die angegebene Anzahl an Tagen (Wochen, Monate, Jahre)
+    sind werden lokal syncronisiert. Nach erreichen der Aufbewarhungsdauer 
+    wird die Offline-Kopie gel&#246;scht. Das Orginal am Server ist davon <em>nicht</em> 
+    betroffen.</li>
+  <li><strong>Keine Nachrichten herunterladen, die gr&#246;&#223;er sind als [__] KB</strong>:
+    W&#228;hlen Sie diese Option um lokalen Speicherplatz zu sparen, indem Sie
+    grosse Nachrichten von der Syncronisation ausschlie&#223;en. Geben Sie dazu
+    die maximale Gr&#146;&#223;e ein, biszu der Nachrichten heruntergeladen werden
+    sollen. Eine &#196;nderung dieser Einstellung betrifft <em>nicht</em> bereits
+    heruntergeladene Nachrichten.</li>
   <li>Die <a href="#retention_policy">Speicherdauer Einstellungen</a> k&#246;nnen dazu benutzt werden
     Speicherpatz freizugeben, indem alte Nachrichten gel&#246;scht werden. Beachten Sie da&#223; diese Einstellung
     sich <em>sowohl</em> auf die lokal gespeicherten sowie die Nachrichten am Server auswirkt.</li>
@@ -5094,7 +5128,7 @@ behalten</q> lassen sich gute Ergebnisse erzielen.</p>
   Kopie und das Orgninal am Server.</p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
-<h2 id="junk_settings">Mail &amp; Newsgroups Account Settings - Junk Settings</h2>
+<h2 id="junk_settings">Mail &amp; Newsgroups Account Settings - Junk Einstellungen</h2>
 
 <p>Dieser Abschnitt beschreibt wie Sie die Einstellungen f&#252;r
 die Junk-Mail Behandlung eines Accounts ver&#228;ndern k&#246;nnen. 
@@ -5111,8 +5145,7 @@ so folgen Sie bitte folgenden Schritten:</p>
 
 <p>In den Junk-Mail Einstellungen k&#246;nnen Sie konfigurieren, welche Junk-Mail Filtereinstellungen f&#252;r
 diesen Account gelten sollen. Die globalen Junk-Mail Einstellungen finden Sie unter 
-<a href="#global_junk_settings">Mail &amp; Newsgroups Einstellungen - Junk Mail</a>.</p>
-
+<a href="#junk_and_suspect_preferences">Mail &amp; Newsgroups Einstellungen - Junk-Mail Einstellungen</a>.</p>
 <ul>                                                                            
   <li><strong>Adaptiven Junk-Mail-Filter f&#252;r diesen Account aktivieren</strong>:     
     Aktivieren Sie diese Option, wenn Sie eine Junk-Mail Behandlung f&#252;r diesen Account wollen.</li> 
@@ -5403,18 +5436,18 @@ anschauen, beginnen Sie bitte im Mail-Fenster:</p>
     sicher sind, ob diese Option von Ihrem Mailserver unterst&#252;tzt wird, kontaktieren Sie Ihren
     Service-Provider oder System-Administrator.</li>   
   <li><strong>Sichere Verbindung verwenden</strong>: &brandShortName; unterst&#252;tzt zwei
-      Methoden um eine sichere Verbindung zu Ihrem SMTP-Server aufzubaun. W&#228;hlen Sie
-      diejenige, welche Ihr SMTP-Server unterst&#252;tzt. (Wenn Sie eine Methode w&#228;hlen, welche
-      Ihr SMTP-Server nicht unterst&#252;tzt, bekommen Sie eine entsprechende Fehlermeldung beim
-      Senden von Mails).
+      Methoden um <a href="glossary.xhtml#secure_connection">eine sichere Verbindung</a> zu Ihrem 
+      SMTP-Server aufzubaun. W&#228;hlen Sie diejenige, welche Ihr SMTP-Server unterst&#252;tzt. #
+      (Wenn Sie eine Methode w&#228;hlen, welche Ihr SMTP-Server nicht unterst&#252;tzt, bekommen Sie 
+      eine entsprechende Fehlermeldung beim Senden von Mails).
       <ul>
         <li><strong>STARTTLS, wenn verf&#252;gbar</strong>: &brandShortName; wird
-		    versuchen eine STARTTLS verschl&#252;sselte Verbindung herzustellen. Falls
-			der Server dies nicht unterst&#252;tzt wird eine unverschl&#252;sselte
-			Verbindung hergstellt.</li>
-        <li><strong>STARTTLS</strong>: Ben&#246;tigt eine STARTTLS verschl&#252;sselte
-		    Verbindung. Diese Art der Verschl&#252;sselung l&#228;uft standardm&#228;ssig auf dem
-			Standard-SMTP-Port 25.</li>
+		    versuchen eine <a href="glossary.xhtml#starttls">STARTTLS</a> verschl&#252;sselte 
+                    Verbindung herzustellen. Falls der Server dies nicht unterst&#252;tzt wird eine 
+                    unverschl&#252;sselte Verbindung hergstellt.</li>
+        <li><strong>STARTTLS</strong>: Ben&#246;tigt eine <a href="glossary.xhtml#starttls">STARTTLS</a> 
+                    verschl&#252;sselte Verbindung. Diese Art der Verschl&#252;sselung l&#228;uft 
+                    standardm&#228;ssig auf dem Standard-SMTP-Port 25.</li>
         <li><strong>SSL/TLS</strong>: Ben&#246;tigt eine SSL verschl&#252;sselte
 		    Verbindung (Auch bekannt als SMTPS). Der Standard-Port daf&#252;r ist 465.</li>
 </ul>
@@ -5443,10 +5476,11 @@ zu gelangen:</p>
     <li><a href="#composition">Verfassen</a></li>
     <li><a href="#send_format">Sendeformat</a></li>
     <li><a href="#addressing_preferences">Adressieren</a></li>
+    <li><a href="#junk_and_suspect_preferences">Junk-Mail</a></li>
     <li><a href="#tags">Tags</a></li>
     <li><a href="#return_receipts_preferences">Empfangsbest&#228;tigungen</a></li>
     <li><a href="#character_encoding">Zeichensatz</a></li>
-    <li><a href="#offline_and_disk_space_preferences">Offline &amp; Speicherplatz</a></li>
+    <li><a href="#network_and_storage_preferences">Offline &amp; Speicherplatz</a></li>
   </ul>
 </div>
 
@@ -5847,6 +5881,64 @@ vor sich haben, gehen Sie wie folgt vor:</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
+ <h2 id="junk_and_suspect_preferences">Mail &amp; Newsgroups Einstellungen -
+   Junk-Mail</h2>
+ 
+ <p>Dieser Abschnitt beschreibt die Einstellungen zur Junk-Mail Filterung. 
+   Zum Anzeigen des Abschnitts gehen Sie wie folgt vor:</p>
+ 
+ <ol>
+   <li>&#214;ffnen Sie das Men&#252; 
+     <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span> 
+     und w&#228;hlen Sie Einstellungen.</li>
+   <li>In der Kategorie Mail &amp; Newsgroups, klicken Sie auf Junk-Mail.
+     (Wenn keine Auswahlm&#246;glichkeiten unterhalb der Kategorie erscheinen, 
+     doppelklicken Sie auf die Kategorie um die Liste einzublenden.)</li>
+ </ol>
+ 
+ <ul>
+   <li><strong>Wenn Nachrichten als Junk markiert werden</strong>: W&#228;hlen 
+     Sie das Verhalten von &brandShortName; wenn Nachrichten manuell als Junk
+     markiert werden.
+     <ul>
+       <li><strong>Diese in den <q>Junk</q>-Ordner des Accounts verschieben</strong>:
+         W&#228;hlen Sie diese Option, wenn die Nachrichten in den Junk-Ordner des 
+         entsprechenden Accounts verschoben werden sollen.
+       </li>
+       <li><strong>Diese l&#246;schen</strong>: W&#228;hlen Sie diese Option, wenn die
+         Nachrichten in den Papierkorb verschoben werden sollen.</li>
+     </ul>
+   </li>
+   <li><strong>Nachrichten als gelesen markieren</strong>:
+     <ul>
+       <li><strong>Wenn &brandShortName; sie als Junk erkennt</strong>:
+         W&#228;hlen Sie diese Option, wenn Nachrichte, welche von &brandShortName;
+         als Junk erkannt wurden automatisch als gelesen markiert werden sollen.</li>
+       <li><strong>Wenn sie manuell als Junk markiert werden</strong>: W&#228;len
+         Sie diese Option, wenn Nachrichten, welche manuell als Junk markiert werden,
+         automatisch als gelesen markiert werden sollen.</li>
+     </ul>
+   </li>
+   <li><strong>Junk-Filter-Log aktivieren</strong>: Aktivieren Sie diese Option,
+     wenn &brandShortName; eine History der Junk-Mail Erkennung aufbewahren soll.
+     Klicken Sie auf die Schaltfl&#228;che <strong>Log anzeigen</strong> um das Logfile
+     einzusehn.</li>
+   <li><strong>Training-Daten zur&#252;cksetzen</strong>: Durch Klick auf diese
+     Schaltfl&#228;che werden die Trainings-Daten des adaptiven Junk-Filters zur&#252;ckgesetzt. 
+     Da dies Ihr pers&#246;nliches Junk-Erkennungs-Profil l&#246;scht, m&#252;ssen Sie diese Aktion
+     explizit best&#228;tigen.</li>
+   <li><strong>Warnung bei Verdacht auf betr&#252;gerische E-Mails anzeigen</strong>: 
+     Aktivieren Sie diese Option, um &brandShortName; daztu zu veranlassen,
+     nach betr&#252;gerischen E-Mails zu suchen, indem nach den g&#228;ngisten Techniken
+     gescannt wird, welche genutzt werden um Personen irrezuf&#252;hren.</li>
+   <li><strong>Anti-Virus-Programmen das Scannen eingehender Nachrichten erleichtern</strong>: 
+     Aktivieren Sie diese Option, um &brandShortName; dazu zu veranlassen, es Anti-Virus
+     Programmen einfacher zu machen, eingehende Email-Nachrichten nach Viren zu scannen, bevor
+     diese gespeichert werden.</li>
+ </ul>
+
+ <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
 <h2 id="tags">Mail &amp; Newsgroups Einstellungen - Tags</h2>
 
 <p>Dieser Abschnitt beschreibt die Einstellungen zum &#196;ndern der
@@ -5975,8 +6067,8 @@ lesen Sie
 
 <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
-<h2 id="offline_and_disk_space_preferences">Mail &amp; Newsgroups Einstellungen
-- Offline &amp; Speicherplatz</h2>
+<h2 id="network_and_storage_preferences">Mail &amp; Newsgroups Einstellungen
+- Netzwerk &amp; Speicherung</h2>
 
 <p>Dieser Abschnitt beschreibt die Einstellungen zur Offline-Arbeit und zum
 Speicherplatz. Wenn Sie die Einstellungen noch nicht vor sich haben, tun Sie
@@ -5986,18 +6078,20 @@ folgendes:</p>
   <li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
   und w&#228;hlen Sie Einstellungen.</li>
   <li>In der Kategorie Mail &amp; Newsgroups, klicken Sie auf
-      Offline &amp; Speicherplatz. (Wenn keine Auswahlm&#246;glichkeiten
+      Netzwerk &amp; Speicherung. (Wenn keine Auswahlm&#246;glichkeiten
 	  unterhalb der Kategorie erscheinen, doppelklicken Sie auf die
 	  Kategorie um die Liste einzublenden.)</li>
 </ol>
 
-<p>Die Offline- &amp; Speicherplatz-Einstellungen erm&#246;glichen es Ihnen
+<p>Die Netzwerk &amp; Speicherungs-Einstellungen erm&#246;glichen es Ihnen
 Einstellungen &#252;ber On- &amp; Offline arbeiten und den Speicherplatz zu
 ver&#228;ndern.</p>
 
 <ul>
   <li><strong>Offline</strong>: Geben Sie an wie Mail &amp; Newsgroups mit
       Ihren Nachrichten umgehen soll, wenn Sie offline oder online gehen.</li>
+  <li><strong>Mail-Verbindungen</strong>: W&#228;hlen Sie wie lange Mail &amp;
+    Newsgroups versuchen soll, den Server zu kontaktieren, bevor abgebrochen wird.</li>
 
   <li><strong>Speicherplatz</strong>:
       Sparen Sie Speicherplatz indem die Ordner automatisch komprimiert

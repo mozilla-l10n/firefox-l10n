@@ -75,6 +75,10 @@ Aspekten im Browser.</p>
 	        weiter unten festgelegt).</li>
             <li><strong>Letzte angezeigte Seite</strong>: Um mit der Seite zu beginnen,
 	        die Sie zuletzt besucht haben.</li>
+          <li><strong>Vorherige Sitzung wiederherstellen</strong>: Veranl&#228;st den Browser
+            die Fenster und Tabs, welche beim letzen Mal als &brandShortName;
+            geschlo&#223;en wurde, wiederherzustellen. Diese Option ist nur in Verbindung mit
+            der entsprechenden Option unter <strong>Startseite</strong> verf&#252;gbar.</li>
         </ul>
         </li>
     </ol>
@@ -135,7 +139,7 @@ Schritte aus:</p>
 <p>Legt die Einstellungen zur History des Browsers fest.</p>
 
 <ul>
-    <li><strong>Browse-History</strong>:
+  <li><strong>Browse-History</strong>:
     <ul>
       <li><strong>History l&#246;schen</strong>: Klicken Sie hier um die Liste der besuchten Seiten zu l&#246;schen.</li>
       <li><strong>Besuchte Seiten immer f&#252;r mindestens [__] Tage speichern</strong>: Geben Sie hier die minimale
@@ -152,13 +156,23 @@ Schritte aus:</p>
 	   speichern soll. Wenn die aktuelle Anzahl von besuchten Seiten diesen konfigurierten Wert &#252;berschreitet, werden die &#228;ltesten Eintr&#228;ge gel&#246;scht,
 	   um den Wert wieder zu erreichen.</li>
     </ul>
-    </li>
-    <li><strong>Adressleisten-History</strong>:
+  </li>
+  <li><strong>Adressleisten-History</strong>:
     <ul>
-        <li><strong>Adressleisten-History l&#246;schen</strong>: um die Liste der
-	    besuchten Seiten in der Adressleiste zu l&#246;schen.</li>
+      <li><strong>Adressleisten-History l&#246;schen</strong>: um die Liste der
+	  besuchten Seiten in der Adressleiste zu l&#246;schen.</li>
     </ul>
-    </li>
+  </li>
+  <li><strong>Formular- und Such-History</strong>:
+    <ul>
+      <li><strong>Formular- und Such-History aktivieren</strong>: W&#228;hlen Sie diese Option
+        wenn &brandShortName; eine History ihrer Formular- und Such-Daten aufbewahren soll.</li>
+      <li><strong>Formular- und Such-History f&#252;r bis zu [__] Tage speichern</strong>:
+        Geben Sie maximale Anzahl an Tagen ein, f&#252;r welche &brandShortName; die History-Daten 
+        aufbewahren soll. Wenn Sie zum Beispiel die Anzahl auf 180 Tage stellen, bleiben Formular- 
+        und Such-History Daten f&#252;r die letzten 180 Tage gespeichert.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>F&#252;r mehr Informationen &#252;ber die Browser-History Siehe
@@ -440,6 +454,9 @@ folgende Schritte aus:</p>
         <li><strong>Von Links ge&#246;ffnete Tabs im Vordergrund laden</strong>: W&#228;hlen Sie diese Option, 
             wenn &brandShortName; in den neuen Tab wechseln soll, sobald ein Link in einem
             neuen Tab ge&#246;ffnet wird.</li>
+      <li><strong>Warnung beim Schlie&#223;en von Fenstern mit mehreren Tabs</strong>:
+        Aktivieren Sie diese Option, wenn &brandShortName; Sie warnen soll, wenn Sie versuchen
+        ein Browser-Fenster welches mehrere offene Tabs hat zu schliessen.</li>
     </ul>
     </li>
     <li><strong>Tabs statt Fenster &#246;ffnen bei</strong>:
@@ -528,12 +545,16 @@ Schritte aus:</p>
 <p>Legt fest wie &brandShortName; mit Downlodas von Webseiten umgehen soll:</p>
 
 <ul>
-    <li><strong>Beim Starten eines Downloads</strong>:
+  <li><strong>Beim Starten eines Downloads</strong>:
     <ul>
+      <li><strong>Den Download Manager in den Vordergrund bringen, wenn er bereits offen ist</strong>:
+        Aktivieren Sie diese Option, wenn der Download-Manager den Fokus bekommen soll, wenn
+        dieser bereits offen ist. Dieser zeigt Ihnen der Status der aktuellen und bereits beendeten
+        Downloads in einem einzelnen Fenster. Diese Option wirkt nur, wenn der Download-Manager 
+        bereits offen ist und &#252;berschreibt die anderen Einstellungen.</li>
         <li><strong>Download-Manager &#246;ffnen</strong>: W&#228;hlen Sie diese
-	    Option um den Download-Manager anzuzeigen. Im Download-Manager sehen
-            Sie den Status des derzeitigen Downloads, sowie vergangene - alles in
-            einem einzigen Fenster.</li>
+	    Option um den Download-Manager anzuzeigen. Er wird nur angezeigt,
+            wenn der Download-Manager derzeit noch nicht ge&#246;ffnet ist.</li>
         <li><strong>Fortschritts-Dialog &#246;ffnen</strong>: W&#228;hlen Sie diese
 	    Option um einen Fortschritts-Dialog anzuzeigen, in welchem der Status
             des derzeitigen Downloads angezeigt wird. Jeder Download bekommt dabei
@@ -541,34 +562,47 @@ Schritte aus:</p>
         <li><strong>Nichts &#246;ffnen</strong>: W&#228;hlen Sie diese Option wenn
 	    Downloads ohne Statusanzeige durchf&#252;hren wollen.</li>
     </ul>
-    </li>
+  </li>
 </ul>
 <ul>
-    <li><strong>Beim Speichern einer Datei</strong>:
+  <li><strong>Beim Speichern einer Datei</strong>:
     <ul>
-        <li><strong>Nach Download-Ort fragen und Standard vorgeben</strong>: W&#228;hlen Sie
-            diese Option wenn Sie den Ordner ausw&#228;hlen wollen, wie die Datei gespeichert 
-            werden soll. W&#228;hlen Sie einen der folgenden Ordner als Ihren Standard-Download-Pfad:
-        <ul>
-            <li><strong>Letzten Download-Ordner</strong>: Der Standard-Pfad ist der Ordner, 
-            in welchem Sie zuletzte eine Datei gespeichert haben.</li>
-            <li><strong>Angegebener Download-Ordner</strong>: Der Standard-Pfad entspricht ihrem
-            Aktuellem Download-Ordner.</li>
-        </ul>
-    </li>
-    <li><strong>Dateien Automatisch in angegebenen Download-Ordner herunterladen</strong>: 
-        W&#228;hlen Sie diese Option wenn Sie Dateien ohne Nachfrage in Ihren aktuellen Download-Ordner
-        speichern wollen..</li>
+      <li><strong>Dateien speichern in</strong>: W&#228;hlen Sie diese Option,
+        wenn &brandShortName; Dateien automatisch in den definierten
+        Ordner speichern soll, ohne Sie nach zu fragen.</li>
+      <li><strong>Immer nachfragen, wo Dateien gespeichert werden sollen</strong>: 
+        W&#228;hlen Sie diese Option, wenn Sie jedesmal wenn Sie eine Datei herunterladen
+        gefragt werden wollen, wohin diese gespeichert werden soll.
+        Standardm&#228;ssig wird der Ordner vorgeschlagen, welcher das letzte Mal
+        als Zielordner f&#252;r einen Download gew&#228;hlt wurde.</li>
     </ul>
-    </li>
+  </li>
 </ul>
 <ul>
-    <li><strong>Aktueller Download-Ordner</strong>: Benutzen Sie den Button um Ihren
-        Download-Ordner auszuw&#228;hlen.</li>
-</ul>
-    
+  <li><strong>Behalten von Downloads</strong>:
+    <ul>
+      <li><strong>Downloads entfernen</strong>: Diese Option legt fest,
+        wann die Eintr&#228;ge abgeschlossener Downloads im Download-Manager
+        entfernt werden sollen (Die heruntergeladenen Dateien betrifft
+        diese Einstellung <em>nicht</em>):
+        <ul>
+          <li><strong>Wenn Sie beendet sind</strong>: W&#228;hlen Sie diese Option
+            wenn die Eintr&#228;ge sofort nach erfolgreichem Beenden des Downloads
+            entfernt werden sollen.</li>
+          <li><strong>Beim Beenden von &brandShortName;</strong>: W&#228;hlen Sie 
+            diese Option, wenn die Eintr&#228;ge erhalten bleiben sollen, bis Sie
+            &brandShortName; beenden.</li>
+          <li><strong>Nie</strong>: W&#228;hlen Sie diese Option, wenn die Eintr&#228;ge
+            nie automatisch entfernt werden sollen. Sie k&#246;nnen die Eintr&#228;ge h&#228;ndisch
+            im Download-Manager entfernen.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>    
+
 <ul>
-    <li><strong>Wenn ein Download abgeschlossen wird</strong>:
+  <li><strong>Wenn ein Download abgeschlossen wird</strong>:
     <ul>
         <li><strong>Klang abspielen</strong>: W&#228;hlen Sie diese Option wenn &brandShortName; einen selbst
             definierten Klang (&#252;blicherwiese im WAV-Format) abspielen soll, sobald der Download beendet wird.
@@ -577,7 +611,7 @@ Schritte aus:</p>
         <li><strong>Warnung anzeigen</strong>: W&#228;hlen Sie diese Option wenn &brandShortName; eine Warnung anzeigen soll
         sobald ein Download abgeschlossen ist.</li>
     </ul>
-    </li>
+  </li>
 </ul>
 
 <p>F&#252;r mehr Informationen &#252;ber das Herunterladen von Dateien sehen Sie auch
