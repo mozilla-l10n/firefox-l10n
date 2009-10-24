@@ -1,7 +1,7 @@
 <!ENTITY next.label "Наступны">
 <!ENTITY next.accesskey "Н">
 <!ENTITY next.tooltip "Знайсці наступны выпадак выразу">
-<!ENTITY previous.label "Папярэдні">
+<!ENTITY previous.label "Назад">
 <!ENTITY previous.accesskey "П">
 <!ENTITY previous.tooltip "Знайсці папярэдні выпадак выразу">
 <!ENTITY findCloseButton.tooltip "Зачыніць паліцу пошуку">

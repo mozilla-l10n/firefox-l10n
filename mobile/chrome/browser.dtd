@@ -25,13 +25,9 @@
 <!ENTITY helperApp.open "Адчыніць">
 <!ENTITY helperApp.save "Захаваць">
 <!ENTITY helperApp.nothing "Нічога">
-<!ENTITY findOnCmd.label "Знайсці на гэтай старонцы…">
-<!ENTITY findOnCmd.accesskey "З">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Знайсці зноў">
-<!ENTITY findAgainCmd.accesskey "З">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous "Назад">
+<!ENTITY formHelper.next "Далей">
+<!ENTITY formHelper.done "Гатова">
 <!ENTITY addonsHeader.label "Дадаткі">
 <!ENTITY addonsLocal.label "Вашы дадаткі">
 <!ENTITY addonsUpdate.label "Абнаўленне">
@@ -56,6 +52,7 @@
 <!ENTITY downloadResume.label "Працягнуць">
 <!ENTITY downloadRetry.label "Паўтарыць">
 <!ENTITY downloadRemove.label "Прыняць">
+<!ENTITY downloadFailed.label "Няўдача">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
 <!ENTITY searchEngine.addSearch "Дадаць пошук:">
@@ -76,4 +73,3 @@
 <!ENTITY consoleErrFile.label "Зыходны файл:">
 <!ENTITY consoleErrLine.label "Радок:">
 <!ENTITY consoleErrColumn.label "Слупок:">
-<!ENTITY selectListDone.label "Гатова">

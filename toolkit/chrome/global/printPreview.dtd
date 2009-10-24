@@ -67,5 +67,5 @@
 <!ENTITY customPrompt.title "Выбарачнае павялічэнне…">
 <!ENTITY homearrow.tooltip "Першая старонка">
 <!ENTITY endarrow.tooltip "Апошняя старонка">
-<!ENTITY rightarrow.tooltip "Наступная старонка">
-<!ENTITY leftarrow.tooltip "Папярэдняя старонка">
+<!ENTITY nextarrow.tooltip "Наступная старонка">
+<!ENTITY previousarrow.tooltip "Папярэдняя старонка">

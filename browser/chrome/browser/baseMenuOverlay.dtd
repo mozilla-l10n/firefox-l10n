@@ -7,8 +7,8 @@
 <!ENTITY helpMenu.accesskey "Д">
 <!ENTITY helpMenuWin.label "Даведка">
 <!ENTITY helpMenuWin.accesskey "Д">
-<!ENTITY aboutCmd.label "Пра &brandFullName;">
-<!ENTITY aboutCmd.accesskey "П">
+<!ENTITY aboutProduct.label "Пра &brandShortName;">
+<!ENTITY aboutProduct.accesskey "П">
 <!ENTITY productHelp.label "Даведка &brandShortName;">
 <!ENTITY productHelp.accesskey "Д">
 <!ENTITY helpForIEUsers.label "Для карыстальнікаў Internet Explorer">
