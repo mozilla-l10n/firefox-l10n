@@ -37,7 +37,7 @@ is intended to explain why it might not be the right default for some users.-->
 <!ENTITY featureConfigurator.alternative.label "Alternative">
 
 <!ENTITY featureConfigurator.syncBenefits.para "Lisez vos messages quand vous n'êtes pas connecté à Internet et cherchez des messages suivant leur contenu et plus uniquement selon les sujets ou les expéditeurs.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird téléchargera tous vos messagess sur cet ordinateur. Fermez-le si vous n'avez pas assez d'espace disque ou devez payer à la connexion.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird téléchargera tous vos messages sur cet ordinateur. Fermez-le si vous n'avez pas assez d'espace disque ou devez payer à la connexion.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
