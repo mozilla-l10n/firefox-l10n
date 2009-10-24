@@ -31,6 +31,10 @@
 <!ENTITY helperApp.save "Enregistrer">
 <!ENTITY helperApp.nothing "Rien">
 
+<!ENTITY formHelper.previous "Précédent">
+<!ENTITY formHelper.next "suivant">
+<!ENTITY formHelper.done "Terminé">
+
 <!ENTITY addonsHeader.label "Modules">
 <!ENTITY addonsLocal.label "Vos modules">
 <!ENTITY addonsRepo.label "Obtenir des modules">
@@ -89,5 +93,3 @@
 <!ENTITY consoleErrFile.label "Fichier source :">
 <!ENTITY consoleErrLine.label "Ligne :">
 <!ENTITY consoleErrColumn.label "Colonne :">
-
-<!ENTITY selectListDone.label "Terminé">
