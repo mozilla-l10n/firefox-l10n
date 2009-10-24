@@ -18,7 +18,7 @@
 <!ENTITY helpReleaseNotes.label "Notas de publicación">
 <!ENTITY helpReleaseNotes.accesskey "N">
 <!ENTITY helpTroubleshooting.label "Información para solucionar problemas…">
-<!ENTITY helpTroubleshooting.accesskey "I">
+<!ENTITY helpTroubleshooting.accesskey "m">
 <!ENTITY updateCmd.label "Buscar actualizaciones…">
 <!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
