@@ -333,92 +333,90 @@
 	abrufen wollen, klicken Sie auf Abbruch.</li>
 </ul>
 <h2 id="web_site_certificates">Zertifikate f&#252;r Webseiten</h2>
-    <p>Eines der hier aufgef&#252;hrten Fenster kann erscheinen, wenn Sie versuchen, eine Webseite
-       aufzurufen, die die Benutzung von <a href="glossary.xhtml#secure_sockets_layer">SSL</a> f&#252;r
-       <a href="glossary.xhtml#authentication">Authentifizierung</a> und
-       <a href="glossary.xhtml#encryption">Verschl&#252;sselung</a> benutzt.</p>
+
+<p>Wenn Sie versuchen eine Webseite zu &#246;ffnen, welche <a href="glossary.xhtml#ssl">SSL</a> zur
+  <a href="glossary.xhtml#authentication">Authentifizierung</a> und
+  <a href="glossary.xhtml#encryption">Verschl&#252;sselung</a> benutzt, erhalten Sie
+  m&#246;glicherweise eine Fehlerseite. Es gibt 2 Arten von Fehlern, 
+  <a href="#secure_connection_failed_page">Sichere Verbindung fehlgeschlagen</a> und
+  <a href="#untrusted_connection_page">Keine vertrauensw&#252;rdige Verbindung</a>.</p>
+
 
 <div class="contentsBox">In diesem Abschnitt:
-    <ul>
-        <li><a href="#web_site_certified_by_an_unknown_authority">Webseite, die von einer unbekannten
-        Zertifizierungsstelle zertifiziert ist</a></li>
-        <li><a href="#server_certificate_expired">Server-Zertifikat abgelaufen</a></li>
-        <li><a href="#server_certificate_not_yet_valid">Server-Zertifikat noch nicht g&#252;ltig</a></li>
-        <li><a href="#domain_name_mismatch">Domain-Name nicht &#252;bereinstimmend</a></li>
-    </ul>
+  <ul>
+   <li><a href="#secure_connection_failed_page">Sichere Verbindung fehlgeschlagen Seite</a></li>
+   <li><a href="#untrusted_connection_page">Keine vertrauensw&#252;rdige Verbindung Seite</a></li>
+   <li><a href="#secure_connection_failed_dialog">Sichere Verbindung fehlgeschlagen Dialog</a></li>
+   <li><a href="#certificate_expired">Zertifikat abgelaufen</a></li>
+   <li><a href="#server_certificate_not_yet_valid">Zertifikat noch nicht g&#252;ltig</a></li>
+   <li><a href="#domain_name_mismatch">Domain-Name nicht &#252;bereinstimmend</a></li>
+  </ul>
  </div>
 
-<h3 id="web_site_certified_by_an_unknown_authority">Webseite, die von einer unbekannten 
-Zertifizierungsstelle zertifiziert ist</h3>
+<h3 id="secure_connection_failed_page">Sichere Verbindung fehlgeschlagen Seite</h3>
 
-<p>Viele Webseiten benutzen Zertifikate, um sich selbst zu identifizieren, wenn Sie eine
-   solche Seite aufsuchen. Wenn der Zertifikat-Manager die
-   <a href="glossary.xhtml#certificate_authority">Zertifizierungsstelle (CA)</a> nicht kennt,
-   die das Zertifikat der Webseite ausgestellt hat, zeigt er eine Warnung an, die es
-   Ihnen erlaubt, das neue Webseiten-Zertifikat zu untersuchen und zu entscheiden, was zu tun
-   ist.</p>
+<p>Sollten Sie das SSL-Protokoll deaktiviert haben (z.Bsp. &#252;ber die 
+  <a href="ssl_help.xhtml#ssl_settings">SSL-Einstellungen</a>) oder die Seite welche Sie
+  sich ansehn wollen nutzt eine &#228;ltere, unsichere Version des SSL-Protokolls wird Ihnen
+  eine Seite mit dem Titel &quot;Sichere Verbindung fehlgeschlagen&quot;.
+  Auf der Seite werden Ihnen einige allgemeine Hintergrund-Informationen (z. Bsp. der 
+  <strong>Fehler-Code</strong> welcher eine eindeutige Kennung des Problems beinhaltet, welches
+  &brandShortName; auf dieser Seite gefunden hat) sowie einer Schaltfl&#228;che <strong>Erneut versuchen</strong>
+  welche ein neu laden der Seite durchf&#252;hrt.</p>
 
-<p>Benutzen Sie die Schaltfl&#228;chen um eine der folgenden Optionen auszuw&#228;hlen:</p>
-<ul>
-    <li><strong>Zertifikat anzeigen</strong>: Klicken Sie auf diesen Button, um das
-        Zertifikat der Webseite anzuzeigen.</li>
-    <li><strong>Abbruch</strong>: Zertifikat-Behandlung abbrechen. Der Zertifikat-Manager
-      erkennt das Zertifikat nicht als g&#252;ltig an und verweigert die Verbindung mit der
-      gew&#228;hlten Webseite.</li>
-    <li><strong>OK</strong>: Akzeptiere das Zertifikat und baue eine Verbindung mit der Seite auf.
-    W&#228;hlen Sie, wie lange das Zertifikat akzeptiert werden soll:
-    <ul>
-      <li><strong>Das Zertifikat dauerhaft speichern.</strong> W&#228;hlen Sie diese Option
-	wenn Sie das Zertifikat akzeptieren (trotz des offensichtlichen Problems) und die
-	Webseite besuchen wollen. Der Zertifikat-Manager wird dieses Zertifikat auch in
-	Zukunft als legitimiert erkennen, bis das Zertifikat abgelaufen ist.</li>
-    <li><strong>Das Zertifikat f&#252;r diese Sitzung speichern.</strong> W&#228;hlen Sie
-	diese Option wenn Sie das Zertifikat f&#252;r diese Sitzung akzeptieren und die Webseite
-	besuchen wollen. Der Zertifikat-Manager wird dieses Zertifikat nur solange als legitim
-	erkennen, bis der Browser neu gestartet wird.</li>
-   </ul>
-  </li>   
-</ul>
+<h3 id="untrusted_connection_page">Keine vertrauensw&#252;rdige Verbindung Seite</h3>
 
-<p><strong>Wichtige Anmerkung f&#252;r Server Administratoren</strong>: Diese Warnung kann
-   dadurch ausgel&#246;st werden das der Server nicht korrekt konfiguriert ist. Um
-   herauszufinden ob dies der Fall ist, sollte der Server Administrator oder der Webmaster
-   dieser Seite den Status der ben&#246;tigten Zertifikate &#252;berpr&#252;fen und falls
-   notwendig die entsprechenden Zertifikate nachinstallieren.</p>
-
-<p>Entscheiden Sie sich den Webmaster dieser Seite &#252;ber das Problem informieren zu
-   wollen, k&#246;nnen Sie folgende Informationen inkludieren:</p>
+<p>Wenn SSL aktiviert ist wird Ihnen eine Fehler-Seite mit dem Titel
+  &quot;Keine vertrauensw&#252;rdige Verbindung&quot; angezeigt. Es gibt viele verschiedene
+  Gr&#252;nde, weshalb eine Verbindung nicht vertrauensw&#252;rdig ist. Hier eine Liste 
+  der am h&#228;ufigsten vorkommenden Gr&#252;nde:</p>
 
 <ul>
-    <li>Der Server Administrator erh&#228;lt mehr Informationen &#252;ber Zertifkiate unter:
-        <p><a href="http://knowledge.verisign.com/search/solution.jsp?id=vs2119">
-        Was ist der Zweck von Zwischen-CA Zertifikaten?</a> (englisch)</p></li>
-    <li>Benutzt der Server ein VeriSign Zertifikat, kann der Administrator das betreffende
-        Zertifikat hier herunterladen:
-        <p><a href="http://www.verisign.com/support/ssl-certificates-support/install-ssl-certificate.html">
-        SSL Zertifikate Support</a> (englisch)</p></li>
+  <li>das Zertifikat der Webseite ist <a href="#certificate_expired">nicht mehr g&#252;ltig (abgelaufen)</a></li>
+  <li>das Zertifikat der Webseite ist <a href="#certificate_not_yet_valid">noch nicht g&#252;ltig</a></li>
+  <li>das Zertifikat der Webseite ist f&#252;r eine andere Seite g&#252;ltig
+    (siehe <a href="#domain_name_mismatch">Domain-Name nicht &#252;bereinstimmend</a>)</li>
+  <li>das Zertifikat der Webseite ist ein selbst erstelltes (somit ist die Identit&#228;t der Webseite nicht
+    verifizierbar).</li>
+  <li>der Austeller des Zertifikats ist nicht g&#252;ltig (&brandShortName; kann die Identit&#228;t der Webseite nicht
+    verifizieren, da die 
+    <a href="glossary.xhtml#certificate_authority">Zertifizierungsstelle (CA)</a> 
+    nicht erkannt wurde</li>
 </ul>
 
-<p><strong>F&#252;r erfahrene Benutzer</strong>: Um sicherzustellen, das der
-   Zertifikat-Manager allen Zertifikaten vertraut, die von einer bestimmten
-   Zertifizierungsstelle ausgestellt wurden, m&#252;ssen Sie die Vertrauenseinstellungen
-   f&#252;r das entsprechende CA-Zertifikat editieren. Dazu folgen Sie diesen Schritten:</p>
+<p>Die Seite welche in den beschriebenen F&#228;llen angezeigt wird ist dazu gedacht, Ihnen
+  zu erkl&#228;ren, warum &brandShortName; keine sichere Verbindung mit der Webseite aufbaun konnte.
+  Es wird Ihnen signalisiert, dass die Identit&#228;t der Seite nicht verifiziert werden konnte und bietet
+  Ihnen die M&#246;glichkeit, die Seite zu verlassen, indem Sie auf die Schaltfl&#228;che
+  <strong>Das klingt schlimm, stattdessen auf die Startseite gehen</strong> klicken. 
+  Wenn Sie sich nicht sicher sind, was Sie tun sollen wird empfohlen, dieser Anweisung zu folgen.</p>
 
-<ol>
-    <li>&#246;ffnen Sie das <span class="noMac">Bearbeiten</span>
-	<span class="mac">&brandShortName;</span>-Men&#252; und w&#228;hlen Sie Einstellungen.</li>
-    <li>Unter der Kategorie Privatsph&#228;re &amp; Sicherheit klicken Sie auf Zertifikate.
-        (Wenn keine Unterkategorien zu sehen sind, klicken Sie doppelt auf Privatsph&#228;re
-	&amp; Sicherheit, um die Liste zu erweitern.)</li>
-    <li>W&#228;hlen Sie Zertifikate verwalten.</li>
-    <li>Klicken Sie auf das Zertifizierungsstellen-Tab.</li>
-    <li>W&#228;hlen Sie das CA-Zertifikat, dessen Vertrauenseinstellungen Sie editieren
-        m&#246;chten.</li>
-    <li>Klicken Sie auf den Edit-Button und w&#228;hlen Sie die entsprechenden
-        Vertrauenseinstellungen.</li>
-</ol>
+<p>Wenn Sie etwas mehr &#252;ber das aktuelle Problem wissen wollen, k&#246;nnen Sie die Anzeige
+  erweitern, indem Sie auf den Pfeil bei <strong>Techniche Details</strong> klicken. 
+  Dieser Abschnitt enth&#338;lt auch einen eindeutigen <strong>Fehler Code</strong> welcher
+  das Problem beinhaltet, welches &brandShortName; auf dieser Seite gefunden hat.</p>
 
-<h3 id="server_certificate_expired">Server-Zertifikat abgelaufen</h3>
+<h4 id="add_security_exception">Eine Sicherheits-Ausnahme hinzuf&#252;gen</h4>
+
+<p>Der Abschnitt <strong>Ich kenne das Risiko</strong> der Seite erlaubt es Ihnen
+  &brandShortName; mitzuteilen, dass Sie die Sicherheits-Pr&#252;fungen dieser Seite
+  umgehen wollen. Wenn Sie diesen Abschnitt erweitern indem Sie auf den Pfeil klicken,
+  sehen Sie eine Schaltfl&#228;che <strong>Ausnahme hinzuf&#252;gen</strong> welche einen Dialog 
+  &#246;ffnet, in welchem Sie das Zertifikat der Seite ansehn k&#246;nnen und 
+  optional eine Sicherheits-Ausnahme f&#252;r diese Webseite einrichten k&#246;nnen.
+  Die Sicherheits-Ausnahmen k&#246;nnen permanent oder f&#252;r die aktuelle Sitzung 
+  konfiguriert werden. Diese Ausnahmen k&#246;nnen im Zertifikat-Manager im Tab 
+  <a href="certs_help.xhtml#servers">Servers</a> administriert werden.</p>
+
+<h3 id="secure_connection_failed_dialog">Sichere Verbindung fehlgeschlagen Dialog</h3>
+
+<p>Im Falle da&#223; &brandShortName; den Grund f&#252;r das Problem nicht ermitteln kann,
+  wird ein <q>Sichere Verbindung fehlgeschlagen</q> Dialog zus&#228;tzlich zur 
+  <a href="#untrusted_connection_page">Keine vertrauensw&#252;rdige Verbindung Seite</a>
+  angezeigt. Der Dialog enth&#228;lt eine Schaltfl&#228;che <strong>Zertifikat zeigen</strong> 
+  welcher es Ihnen erlaubt, das Zertifikat der Seite genauer zu untersuchen.</p>
+
+<h3 id="certificate_expired">Zertifikat abgelaufen</h3>
 
 <p>Wie eine Kreditkarte, ein F&#252;hrerschein und viele andere Formen der Identifikation
    ist ein <a href="glossary.xhtml#certificate">Zertifikat</a> nur f&#252;r eine bestimmte
@@ -433,85 +431,46 @@ Zertifizierungsstelle zertifiziert ist</h3>
 <p>Wenn Ihre Computeruhr korrekt gestellt ist, m&#252;ssen Sie die Entscheidung treffen, ob
    Sie der Seite vertrauen. Diese Entscheidung h&#228;ngt davon ab, was Sie auf der Seite tun
    wollen und was Sie sonst &#252;ber diese Seite wissen. Die meisten kommerziellen Seiten
-   werden sicherstellen, das ihre Zertifikate vor dem Ablauf erneuert werden.</p>
+   werden sicherstellen, das ihre Zertifikate vor dem Ablauf erneuert werden. Wenn Sie
+   sich entscheiden fortzufahren, m&#252;ssen Sie eine <a href="#add_security_exception">
+   Sicherheits-Ausnahme</a> einrichten.</p>
 
-<p>In der Dialogbox Server-Zertifikat abgelaufen k&#246;nnen Sie folgende Aktionen vornehmen:</p>
-<ul>
-    <li><strong>Zertifikat anzeigen</strong>: Um Informationen &#252;ber das Zertifikat,
-        einschlie&#223;lich der G&#252;ltigkeitsdauer, zu untersuchen, w&#228;hlen Sie
-        Zertifikat anzeigen.</li>
-    <li><strong>OK</strong>: Wenn Sie Grund zu der Annahme haben, das der Zertifikat-Ablauf ein
-        unbeabsichtigter Fehler ist, k&#246;nnen Sie auf OK klicken, um das Zertifikat f&#252;r
-	diese Sitzung zu akzeptieren und den Webmaster &#252;ber das Problem informieren.
-        <p>Seien Sie vorsichtig bei allen Aktionen, die Sie unternehmen, w&#228;hrend Sie die Seite
-	besuchen.</p></li>
-    <li><strong>Abbruch</strong>: Wenn Sie vermuten, dass es ein bedeutendes Problem gibt und
-        Sie den Besuch der Seite nicht riskieren wollen, klicken Sie auf Abbruch (in diesem Fall
-	wird Sie der Zertifikat-Manager nicht mit der Seite verbinden).</li>
-</ul>
-<h3 id="server_certificate_not_yet_valid">Server-Zertifikat noch nicht g&#252;ltig</h3>
+<h3 id="server_certificate_not_yet_valid">Zertifikat noch nicht g&#252;ltig</h3>
 <p>Wie eine Kreditkarte, ein F&#252;hrerschein und viele andere Formen der Identifikation
    ist ein <a href="glossary.xhtml#certificate">Zertifikat</a> nur f&#252;r eine bestimmte
    Zeitperiode g&#252;ltig.</p>
 
-<p>Der Zertifikat-Manager warnt Sie, wenn Sie eine Webseite aufsuchen, dessen
-   Server-Zertifikat-G&#252;ltigkeitsperiode noch nicht begonnen hatt. Das erste, was Sie
-   sicherstellen sollten, ist, das Datum und Zeit auf Ihrem Computer korrekt sind. Wenn die
-   Uhr Ihres Computers falsch gestellt ist, behandelt der Zertifkat-Manager das Zertifikat
-   als noch nicht g&#252;ltig, obwohl dies nicht der Fall ist.</p>
+<p>&brandShortName; <a href="#untrusted_connection_page">warnt</a> Sie, wenn Sie
+   versuchen eine Seite aufzurufen, dessen Zertifikats eine G&#252;ltigkeits-Dauer 
+   aufweist, welche noch nicht begonnen hat. Pr&#252;fen Sie als erstes, ob die 
+   Datums und Uhrzeit-Einstellungen Ihres Computers korrekt sind. Wenn diese falsch 
+   sind, interpretiert &brandShortName; m&#246;glicherweise das Zertifiakt als ung&#252;ltig, 
+   obwohl dies eigentlich nicht der Fall ist.</p>
 
 <p>Wenn Ihre Computeruhr korrekt gestellt ist, m&#252;ssen Sie die Entscheidung treffen, ob
    Sie der Seite vertrauen. Diese Entscheidung h&#228;ngt davon ab, was Sie auf der Seite tun
    wollen und was Sie sonst &#252;ber diese Seite wissen. Die meisten kommerziellen Seiten
    werden sicherstellen, das die G&#252;ltigkeitsperiode f&#252;r ihre Zertifikate begonnen
-   hat, bevor sie verwendet werden.</p>
+   hat, bevor sie verwendet werden. Wenn Sie sich entscheiden fortzufahren, m&#252;ssen Sie 
+   eine <a href="#add_security_exception">Sicherheits-Ausnahme</a> einrichten.</p>
 
-<p>Aus der Dialogbox Server-Zertifikat noch nicht g&#252;ltig k&#246;nnen Sie folgende
-   Aktionen w&#228;hlen:</p>
-
-<ul>
-    <li><strong>Zertifikat anzeigen</strong>: Um Informationen &#252;ber das Zertifikat,
-        einschlie&#223;lich der G&#252;ltigkeitsdauer, zu untersuchen, w&#228;hlen Sie
-	Zertifikat anzeigen.</li>
-    <li><strong>OK</strong>: Wenn Sie Grund zu der Annahme haben, das es sich um einen
-        unbeabsichtigten Fehler handelt, k&#246;nnen Sie auf OK klicken, um das Zertifikat
-	f&#252;r diese Sitzung zu akzeptieren und den Webmaster &#252;ber das Problem
-	informieren.
-    <p>Seien Sie vorsichtig bei allen Aktionen, die Sie unternehmen, w&#228;hrend Sie die
-       Seite besuchen.</p></li>
-   <li><strong>Abbruch</strong>: Wenn Sie vermuten, dass es ein bedeutendes Problem gibt
-       und Sie den Besuch der Seite nicht riskieren wollen, klicken Sie auf Abbruch (in
-       diesem Fall wird Sie der Zertifikat-Manager nicht mit der Seite verbinden).</li>
-</ul>
 <h3 id="domain_name_mismatch">Domain-Name nicht &#252;bereinstimmend</h3>
 <p>Ein Server-<a href="glossary.xhtml#certificate">Zertifikat</a> spezifiziert den Namen
    des Servers in der Form seines Domain-Namens. So ist z. B. der Domain-Name f&#252;r die
    Mozilla-Webseite <tt>www.mozilla.org</tt>. Wenn der Domain-Name in einem Server-Zertifikat
    nicht dem aktuellen Domain-Namen der Webseite entspricht, kann dies ein Zeichen daf&#252;r
    sein, das irgendjemand versucht, Ihre Kommunikation mit der Webseite abzuh&#246;ren.</p>
-<p>Die Entscheidung ob Sie der Seite trotzdem vertrauen, h&#228;ngt davon ab, was Sie dort
-   machen wollen und was Sie sonst noch &#252;ber die Seite wissen. Viele kommerzielle Seiten
-   weden sicherstellen, das der Rechnername eines Webseiten-Zertifikates dem aktuellen
-   Rechnernamen der Webseite entspricht.</p>
 
-<p>Aus der Dialogbox Domain-Name nicht &#252;bereinstimmend k&#246;nnen Sie die folgenden
-   Aktionen treffen:</p>
+<p>&brandShortName; <a href="#untrusted_connection_page">warnt</a> Sie, wenn Sie
+   versuchen eine Seite aufzurufen, dessen Zertifikat f&#252;r eine andere Domain
+   ausgestellt wurde. Die Entscheidung, ob Sie der Seite trotzdem vertrauen,
+   h&#228;ngt davon ab, was Sie auf der Seite machen wollen und was Sie &#252;ber die
+   Seite wissen. Die meisten kommerziellen Webseiten achten darauf, da&#223; das 
+   Zertifikat auf die korrekte Adresse ausgestellt ist. Wenn Sie sich entscheiden 
+   fortzufahren, m&#252;ssen Sie eine <a href="#add_security_exception">
+   Sicherheits-Ausnahme</a> einrichten.</p>
 
-<ul>
-    <li><strong>Zertifikat anzeigen</strong>: Um Informationen &#252;ber das Zertifikat zu
-        untersuchen, klicken Sie auf Zertifikat anzeigen.</li>
-    <li><strong>OK</strong>: Wenn Sie Grund zu der Annahme haben, das es sich nur um einen
-        versehentlichen Fehler handelt, k&#246;nnen Sie OK klicken, um das Zertifikat f&#252;r
-	diese Sitzung zu akzeptieren und den Webmaster dieser Seite &#252;ber das Problem zu
-	informieren.
-    <p>Seien Sie vorsichtig bei allen Aktionen, die Sie unternehmen, w&#228;hrend Sie die Seite
-	besuchen und behandeln Sie alle Informationen als m&#246;glicherweise suspekt.</p></li>
-    <li><strong>Abbruch</strong>: Wenn Sie vermuten, das es ein bedeutendes Problem gibt und
-        Sie den Besuch der Seite nicht riskieren wollen, klicken Sie auf Abruch (in diesem Fall
-	wird Sie der Zertifikat-Manager nicht mit der Seite verbinden).</li>
-</ul>
-
-<p>Wenn Sie entscheiden, das Zertifikat trotzdem f&#252;r diese Sitzung zu akzeptieren,
+<p>Wenn Sie entscheiden, das Zertifikat trotzdem zu aktzeptieren (f&#252;r diese Sitzung oder permanet),
    sollten Sie vorsichtig sein bei Ihren Aktionen auf dieser Webseite und jede Information als
    m&#246;glicherweise suspekt behandeln.</p>
    

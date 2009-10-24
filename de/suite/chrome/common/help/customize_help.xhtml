@@ -24,8 +24,8 @@ pers&#246;nlichen Informationen im Internet ist.</div>
 
 <h1 id="customizing_mozilla">&brandShortName; anpassen</h1>
 
-<p>Um &brandShortName; auf Ihre Bed&#252;rfnisse abzustimmen, k&#246;nnen sie Funktionen wie Sidebar, Lesezeichen und 
-Tabbed browsing verwenden.</p>
+<p>Um &brandShortName; auf Ihre Bed&#252;rfnisse abzustimmen, k&#246;nnen sie Funktionen wie Sidebar, Lesezeichen, 
+Tabbed browsing und Add-Ons verwenden.</p>
   
 <p>Dieser Abschnitt beschreibt die anpassbaren Teile der &brandShortName; Bowser-Komponente.</p>
 
@@ -36,6 +36,7 @@ Tabbed browsing verwenden.</p>
   <li><a href="#changing_fonts_colors_and_themes">&#196;ndern von Schriftarten, Farben und Themes</a></li>
   <li><a href="#toolbars">Symbolleisten</a></li>
   <li><a href="#bookmarks">Lesezeichen</a></li>
+  <li><a href="#add-ons">Add-ons</a></li>
   <li><a href="#specifying_how_mozilla_starts_up">Festlegen, wie &brandShortName; startet</a></li>
   <li><a href="cs_nav_prefs_appearance.xhtml">Erscheinungsbild</a></li>                                                      
   <li><a href="cs_nav_prefs_navigator.xhtml">Navigator</a></li>                                                      
@@ -303,6 +304,8 @@ Maustaste wieder loslassen (drag &amp; drop). &brandShortName; zeigt Ihnen w&#22
 hinverschoben wird. Es besteht auch die M&#246;glichkeit, Tabs mittes entsprehenden 
 <a href="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts">Tastenkombinationen</a> zu verschieben.</p>
 
+<p><strong>Hinweis</strong>: Die Tastenkombinationen funktionieren nicht, wenn eine Textbox den Fokus hat.</p>
+
 <p>[<a href="#tabbed_browsing">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
 <h3 id="bookmarking_tabs">Tabs als Lesezeichen ablegen</h3>
@@ -369,6 +372,313 @@ Gruppe der Browser-Tabs des aktuellen Fenster als Lesezeichen abzulegen:</p>
 </ul>
 
 <p>[<a href="#tabbed_browsing">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="add-ons">Add-ons</h2>
+
+<p>Einer der beeindruckensten Wege &brandShortName; Ihren Anspr&#252;chen anzupassen
+  ist das Hinzuf&#252;gen von Add-ons. In diesem Abschnitt werden Sie erfahren, was
+  Add-Ons sind, wie Sie diese installieren und wie Sie den Add-on Manager
+  nutzen k&#246;nnen.</p>
+
+<div class="contentsBox">In diesem Abschnitt:
+  <ul>
+    <li><a href="#about_add-ons">&#220;ber Add-ons</a></li>
+    <li><a href="#installing_add-ons">Add-ons installieren</a></li>
+    <li><a href="#using_the_add-on_manager">Den Add-on Manager benutzen</a></li>
+  </ul>
+</div>
+
+<h3 id="about_add-ons">&#220;ber Add-ons</h3>
+
+<p>Ein Add-on ist ein St&#252;ck Software welche zu &brandShortName; hinzugef&#252;gt
+  werden kann um das Erscheinungsbild oder die Arbeitsweise zu &#228;ndern, oder
+  neue Funktionalit&#228;ten beinhaltet. Es kann auch die Sprache der Programoberfl&#228;che
+  anpassen. Add-Ons werden in vier Kategorieren unterteilt:</p>
+
+<ul>
+  <li><strong>Erweiterungen</strong>: Diese Art Add-on beinflusst die
+    Arbeitsweise von &brandShortName; oder f&#252;gt neue Funktionalit&#228;ten hinzu.
+    Es gibt zum Beispiel Erweiterungen, welche Ihnen Wettervorhersagen liefern, einen
+    vollwertigen FTP-Client nachr&#252;sten oder Werbung auf Web-Seite blockieren.
+    Manche Erweiterungen sind gezielt so entwickelt worden, dass diese nur auf bestimmten
+    Seiten funktionieren.</li>
+  <li><strong>Themen</strong>: Themen &#228;ndern das Aussehn von &brandShortName;, aber
+    nichts an der Funktionalit&#228;t. Diese sind mit einem Skin vergleichbar. 
+    &brandShortName; liefert standardm&#228;ssig zwei Themen mit, das Default-Theme und das
+    Modern-Theme. Sie k&#246;nnen jedoch jederzeit ein Theme welches Ihren Vorstellungen 
+    entspricht installieren.</li>
+  <li><strong>Sprachen</strong>: W&#228;hrend Sie &brandShortName; in
+    verschiedenen Sprachen herunterladen k&#246;nnen, besteht manchmal der Bedarf, zus&#228;tzliche
+    Sprachen in Form von Sprach-Packeten nachzur&#252;sten. Auf diese Weise k&#246;nnen unterschiedliche
+    Benutzer &brandShortName; in Ihrer eigenen Sprache bedienen, ohne da&#223; Sie eine eigene
+    Installation f&#252;r jeden dieser Benutzer bereitstellen m&#252;ssen. Dies ist besonders hilfreich,
+    wenn der Computer auf welchem &brandShortName; installiert ist, von mehreren Personen
+    genutzt wird, wie zum Beispiel in einem Computer-Labor.
+
+    <p><strong>Hinweis</strong>: Sprach-Packete &#228;ndern nur die Sprache des Programs. Webseite,
+      Nachrichten, Newsgroups sowie News &amp; Blog-Nachrichten werden weiterhin in der Sprache
+      in welcher diese geschrieben wurden angezeigt.</p>
+  </li>
+  <li><strong>Plugins</strong>: Plugins sind Schnittstellen zwischen &brandShortName;
+    und anderen Programmen. Diese erlauben es Ihnen, spezielle Inhalte (wie zum Beispiel Flash-Filme oder 
+    Adobe PDF Dokumente) direkt im Browser-Fenster von &brandShortName; anzuzeigen, anstatt das entsprechende
+    Program in einem seperaten Fenster zu &#246;ffnen zu m&#252;ssen.</li>
+</ul>
+
+<p>Add-ons kommen immer als Packet. Jedes Add-on in einer einzelnen Datei mit der Endung XPI, auser Plugins, 
+  welche normalerweise in Form eines Installers f&#252;r das entsprechende Betriebsystem geliefert wird.</p>
+
+<p>[<a href="#add-ons">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="installing_add-ons">Add-ons installieren</h3>
+
+<p>Es gibt verschiedene Wege Add-ons zu installieren:</p>
+
+<ul>
+  <li>Durch klicken auf einen Link f&#252;r ein Add-on auf einer Webseite.
+    Dies bringt einen &brandShortName;-Dialog welcher Sie fragt, ob Sie
+    der Installation zustimmen oder lieber abbrechen wollen. Die
+    Schaltfl&#228;che <q>Installieren</q> wird dabei f&#252;r ein paar Sekunden 
+    deaktiviert um zu verhindern, da&#223; Sie versehentlich draufdr&#252;cken,
+    wenn der Dialog erscheint.
+    
+    <p><strong>Hinweis</strong>: Als eine zus&#228;tzliche Sicherheits-Massnahme erlaubt
+      &brandShortName; nur bestimmten Seiten das installieren von Add-ons.
+      Diese Seiten finden Sie im <a
+      href="cs_nav_prefs_advanced.xhtml#software_installation">Einstellungs-Fenster 
+      f&#252;r Software-Installation</a>.</p>
+  </li>
+  <li>Durch &#246;ffnen eines zuvor gespeicherten Add-on Packets, genauso wie Sie
+    andere Dateien &#246;ffnen, welche Sie zuvor abgespeichert habe. W&#228;hlen Sie <q>Datei
+    &#246;ffnen</q> im Men&#252; Datei oder dr&#252;cken Sie 
+    <span class="mac"><kbd>Cmd</kbd></span><span class="noMac"><kbd>Strg</kbd></span>+<kbd>O</kbd>.</li>
+  <li>Durch die Nutzung der <q>Add-on herunterladen</q>-Seite im Add-on Manager oder durch klicken auf
+    die Schaltfl&#228;che <q>Installieren</q> in einem beliebigen Panel des Add-on Managers.</li>
+</ul>
+
+<p><strong>Hinweis</strong>: Plugins werden normalerweise als seperate Programme installiert, 
+  w&#228;hrend &brandShortName; beendet ist, um eine reibungslose Installation des Plugins zu 
+  erm&#246;glichen.
+</p>
+
+<p>[<a href="#add-ons">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="using_the_add-on_manager">Den Add-on Manager benutzen</h3>
+
+<p>Der Add-on Manager erlaubt es Ihnen, Add-ons zu installieren oder zu
+  deinstallieren, Add-ons zu aktivieren oder zu deaktivieren und in manchen 
+  F&#228;llen, Einstellungen f&#252;r das Add-on aufzurufen.</p>
+  
+<p id="accessing_the_add-on_manager">Um den Add-on Manager aufzurufen, folgenden Sie diesen Schritten:</p>
+
+<ul>
+  <li>&#214;ffnen Sie das Men&#252; Extras und w&#228;hlen Sie dort Add-on Manager.</li>
+  <li>&#214;ffnen Sie das Men&#252; <span class="mac">&brandShortName;</span><span
+    class="noMac">Bearbeiten</span> und w&#228;hlen Sie Einstellungen. Klappen
+    Sie die Kategorie <q>Erweitert</q> auf und w&#228;hlen dort 
+    Software-Installation.</li>
+</ul>
+
+<div class="contentsBox">In diesem Abschnitt:
+  <ul>
+    <li><a href="#the_get_add-ons_panel">Das Panel Add-ons herunterladen</a></li>
+    <li><a href="#the_extensions_panel">Das Panel Erweiterungen</a></li>
+    <li><a href="#the_themes_panel">Das Panel Themen</a></li>
+    <li><a href="#the_languages_panel">Das Panel Sprachen</a></li>
+    <li><a href="#the_plugins_panel">Das Panel Plugins</a></li>
+  </ul>
+</div>
+
+<h4 id="the_get_add-ons_panel">Das Panel Add-ons herunterladen</h4>
+
+<p>Das Panel <q>Add-ons herunterladen</q> nutzt Web-Services welche von 
+  der Mozilla Add-on Webseite bereitgestellt wird. Das Panel zeigt Ihnen
+  eine Liste der empfohlenen Add-ons und bietet Ihnen die M&#246;glichkeit
+  nach Add-ons zu suchen. Nachdem Sie den 
+  <a href="#accessing_the_add-on_manager">Add-on Manager aufgerufen</a> haben
+  klicken Sie auf die Schaltfl&#228;che <q>Add-ons herunterladen</q>. Dort 
+  k&#246;nnen Sie folgende Aktionen ausf&#252;hren:</p>
+
+<ul>
+  <li>Suchen nach Add-ons nach Name, Beschreibung oder Tags mittels der Such-Box.
+    Geben Sie ein Wort oder eine Phrase ein und dr&#252;cken Sie <span
+    class="mac"><kbd>Return</kbd></span><span
+    class="noMac"><kbd>Enter</kbd></span>. Sie bekommen eine Liste der passenden
+    Add-ons angezeigt. Um das Such-Ergebnis zu l&#246;schen klicken Sie auf das
+    Symbol innerhalb der Such-Box.
+
+    <p><strong>Hinweis</strong>: Add-ons welche bereits Installiert oder
+      inkompatibel mit Ihrer derzeitigen Version von &brandShortName; sind,
+      werden im Such-Resultat nicht angezeigt.</p>
+  </li>
+  <li>Um die Mozilla Add-on Webseite in einem neum Browser-Fenster (oder einem
+    neuen Browser-Tab, abh&#228;ngig von Ihren Einstellungen) zu &#246;ffnen, 
+    klicken Sie auf <q>Alle Add-ons ansehn</q>.</li>
+  <li>Um mehr Informationen &#252;ber eines der empfohlenen Add-ons zu bekommen,
+    klicken Sie auf den ensprechenden Eintrag. Der Eintrag wird erweitert,
+    zeigt ein gr&#246;&#223;eres Bild, eine vollst&#228;ndige Beschreibung des 
+    Add-ons und welcher Typ von Add-on (Erweiterung, Theme, usw.) es ist. Sie 
+    k&#246;nnen das Add-on auch direkt installieren, indem Sie auf die Schaltfl&#228;che
+    <q>Zu &brandShortName; hinzuf&#252;gen</q> klicken.</li>
+  <li>Um die vollst&#228;ndige Liste der empfohlenen Add-ons f&#252;r &brandShortName; 
+    in einem neuem Browser-Fenster (oder einem neuen Browser-Tab, abh&#228;ngig von Ihren
+    Einstellungen) zu &#246;ffnen, scrollen Sie bis zum Ende der Liste bis Sie den Link
+    <q>Alle empfohlenen Add-ons ansehn</q> sehen.</li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h4 id="the_extensions_panel">Das Panel Erweiterungen</h4>
+
+<p>Das Panel Erweiterungen im Add-on Manager zeigt alle installierten Erweiterungen.</p>
+
+<p>Nach dem <a href="#accessing_the_add-on_manager">&#214;ffnen des Add-on
+  Managers</a>, klicken Sie auf die Schaltfl&#228;che Erweiterungen um das Panel anzuzeigen.
+  Dort k&#246;nnen Sie folgende Aktionen durchf&#252;hren:</p>
+
+<ul>
+  <li>Um mehr Informationen &#252;ber eine der installierten Erweiterungen zu bekommen, 
+    klicken Sie auf den entsprechenden Eintrag. Der Eintrag wird erweitert und zeigt
+    eine vollst&#228;ndige Beschreibung der Erweiterung.
+
+    <p><strong>Hinweis</strong>: Deaktivierte Erweiterungen werden ausgegraut 
+      dargestellt. Erweiterungen welche nicht kompatibel mit Ihrer Version von
+      &brandShortName; sind, werden ebenfalls ausgegraut dargestellt und haben 
+      zus&#228;tzlich ein Verbots-Zeichen &#252;ber dem Symbol der Erweiterung, 
+      da diese ebenfalls deaktiviert sind.</p>
+  </li>
+  <li>Um die Einstellungen einer Erweiterung zu &#246;ffnen, klicken Sie auf die
+    Schaltfl&#228;che Einstellungen der entsprechenden Erweiterung.
+
+    <p><strong>Hinweis</strong>: Wenn eine Erweiterung keinen Einstellungen-Dialog
+      besitzt, wird die Einstellungen - Schaltfl&#228;che deaktiviert. Einstellungen
+      von deaktierten und nicht kompatiblen Erweiterungen k&#246;nnen ebenfalls nicht
+      ge&#246;ffnet werden.</p>
+  </li>
+  <li>Um eine Erweiterung zu deaktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Deaktivieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+  <li>Um eine Erweiterung zu aktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Aktivieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+  <li>Um eine Erweiterung zu deinstallieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Deinstallieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+  <li>Um Updates f&#252;r installierte Erweiterungen (inklusive imkompatibler Erweiterungen)
+    zu finden, klicken Sie auf die Schaltfl&#228;che <q>Aktualisieren</q> am unteren Rand 
+    des Add-on Managers.
+
+    <p>Wenn Updates gefunden werden, werden diese einem neuen Panel angezeigt.
+      In diesem Panel k&#246;nnen Sie ausw&#228;hlen, f&#252;r welche 
+      Erweiterungen Sie die gefunden Updates herunterladen wollen. 
+      Dies geschieht durch Klick auf die Schaltfl&#228;che <q>Updates
+      installieren</q>. Nachdem die Update heruntergeladen wurden, muss
+      &brandShortName; neu gestart werden um die Updates zu installieren.</p>
+  </li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h4 id="the_themes_panel">Das Panel Themen</h4>
+
+<p>Das Panel Themen im Add-on Manager zeigt alle installierten Themen.</p>
+
+<p>Nach dem <a href="#accessing_the_add-on_manager">&#214;ffnen des Add-on
+  Managers</a>, klicken Sie auf die Schaltfl&#228;che Themen um das Panel anzuzeigen.
+  Dort k&#246;nnen Sie folgende Aktionen durchf&#252;hren:</p>
+
+<ul>
+  <li>Um mehr Informationen &#252;ber eines der installierten Themen zu bekommen, 
+    klicken Sie auf den entsprechenden Eintrag. Der Eintrag wird erweitert und zeigt
+    eine vollst&#228;ndige Beschreibung der Erweiterung sowie eine Vorschau des
+    Themes auf der rechten Seite des Add-on Managers (Sie m&#252;ssen 
+    m&#246;glicherweise das Add-on Manager Fenster vergr&#246;&#223;ern um 
+    die Vorschau zu sehn).</li>
+  <li>Um ein Theme zu aktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf de Schaltfl&#228;che <q>Theme benutzen</q>.
+    Es erscheint eine Informations-Leiste welche Sie darauf aufmerksam macht, 
+    da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.
+    <p><strong>Hinweis</strong>: Im Gegensatz zu Erweiterungen kann immer nur
+    ein Theme aktiv sein.</p>
+  </li>
+  <li>Um ein Theme zu deinstallieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Deinstallieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h4 id="the_languages_panel">Das Panel Sprachen</h4>
+
+<p>Das Panel Sprachen im Add-on Manager zeigt alle installierten Sprach-Packete.</p>
+
+<p>Nach dem <a href="#accessing_the_add-on_manager">&#214;ffnen des Add-on
+  Managers</a>, klicken Sie auf die Schaltfl&#228;che Sprachen um das Panel anzuzeigen.
+  Dort k&#246;nnen Sie folgende Aktionen durchf&#252;hren:</p>
+
+<ul>
+  <li>Um ein Sprach-Packet zu deaktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Deaktivieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+  <li>Um ein Sprach-Packet zu aktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Aktivieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+  <li>Um ein Sprach-Packet zu deinstallieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Deinstallieren</q>. Es erscheint
+    eine Informations-Leiste welche Sie darauf aufmerksam macht, da&#223; die &#196;nderung erst
+    durch einen Neustart von &brandShortName; aktiv wird. In der Information-Leiste
+    befindet sich auch eine Schaltfl&#228;che mit welcher Sie &brandShortName; 
+    neu starten k&#246;nnen.</li>
+</ul>
+
+<p><strong>Hinweis</strong>: Aktivieren eines Sprach-Packets im Sprachen-Panel
+  &#228;ndert nicht die Sprache der &brandShortName;-Oberfl&#228;che. Es 
+  erm&#246;glicht nur, dass Sie die Sprache in den
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">Erscheinungsbild-
+  Einstellungen</a> ausw&#228;hlen k&#246;nnen.</p>
+
+<p>[<a href="#using_the_add-on_manager">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h4 id="the_plugins_panel">Das Panel Plugins</h4>
+
+<p>Das Panel Plagins im Add-on Manager zeigt alle installierten Plugins.</p>
+
+<p>Nach dem <a href="#accessing_the_add-on_manager">&#214;ffnen des Add-on
+  Managers</a>, klicken Sie auf die Schaltfl&#228;che Plugins um das Panel anzuzeigen.
+  Dort k&#246;nnen Sie folgende Aktionen durchf&#252;hren:</p>
+
+<ul>
+  <li>Um ein Plugin zu deaktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Deaktivieren</q>.</li>
+  <li>Um ein Plugin zu aktivieren, klicken Sie auf den entsprechenden Eintrag
+    in der Liste und klicken auf die Schaltfl&#228;che <q>Aktivieren</q>.</li>
+</ul>
+
+<p><strong>Hinweis</strong>: Im Gegensatz zu allen anderen Typen von Add-ons muss
+  beim Aktivieren und Deaktivieren von Plugins &brandShortName; nicht neu gestartet werden.</p>
+
+<p>[<a href="#using_the_add-on_manager">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
 <h2 id="changing_fonts_colors_and_themes">Schriftarten, Farben und Themes &#228;ndern</h2>
   
@@ -933,6 +1243,7 @@ nicht zwei Lesezeichen-Dateien erstellt.</p>
 <ul>
   <li><a href="#specifying_a_starting_page">Eine Startseite festlegen</a></li>
   <li><a href="#changing_your_home_page">Startseite &#228;ndern</a></li>
++    <li><a href="#session_restore">Sitzung wiederherstellen</a></li>
   <li><a href="#specifying_which_components_open_at_launch">Festlegen, welche Komponente beim Programmstart ge&#246;ffnet wird</a></li>
 </ul>
 </div>
@@ -946,8 +1257,25 @@ nicht zwei Lesezeichen-Dateien erstellt.</p>
   w&#228;hlen Sie <q>Einstellungen</q>.</li>
   <li>In der Kategegorie <q>Browser</q> k&#246;nnen Sie unter <q>Browser statet mit</q> festlegen, ob eine leere Seite, 
   Ihre Startseite oder die zuletzt besuchte Webseite beim Programmstart automatisch ge&#246;ffnet werden soll.
+  Sie k&#246;nnen &brandShortName; auch dazu veranlassen, Ihre vorhergehende Sitzung wiederherzustellen. Dadurch werden
+  die Fenster und Tabs welche Sie ge&#246;ffnet hatten, als Sie &brandShortName; das letzte Mal beendet haben wiederhergestellt.
   <p><strong>Hinweis</strong>: Wenn Sie <q>Startseite</q> gew&#228;hlt haben, geben Sie die URL ins Feld <q>Adresse</q> ein.</p></li>
 </ol>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h3 id="session_restore">Sitzung wiederherstellen</h3>
+
+<p>&brandShortName; speichert in periodischen Abst&#228;nden Ihre Browser-Sitzung (offne Fenster und Tabs,
+  inklusive Formular-Daten) auf Ihren Computer. Wenn Sie &brandShortName; starten und die Sitzungs-Wiederhstellung
+  aktiviert haben, werden diese wiederhergestellt. Dies ist vorallem dann n&#252;tzlich, wenn Ihre letzte Browser-Sitzung
+  unerwartet beendet wurde (z.B. wenn Ihr Computer abgest&#252;tzt ist oder eine besuchte Webseite &brandShortName; 
+  abst&#252;tzen l&#228;sst). &brandShortName; wird automatisch Ihre letzte Sitzung wiederherstellen, wenn Sie 
+  <q>letzte Sitzung wiederherstellen</q> unter <q>Startseite</q> ausgew&#228;hlt haben. Wenn Sie beim Schlie&#223;en eines
+  Browser-Fensters mit mehreren Tabs nicht gewarnt werden (siehe <a href="#tabbed_browsing">Tabbed
+  Browsing</a> Eigenschafts-Seite), wird &brandShortName; eine Seite &#246;ffnen wo Sie ausw&#228;hlen k&#246;nnen,
+  welche Fenster/Tabs der letzten Sitzung Sie wiederherstellen wollen. Dies wird Ihnen auch angezeigt,
+  wenn &brandShortName; abgest&#252;tzt ist.</p>
 
 <p>[<a href="#specifying_how_mozilla_starts_up">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 

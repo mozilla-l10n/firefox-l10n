@@ -20,6 +20,12 @@ und/oder die Sicherheit der dargestellten Technologien.</div>
 <h1 id="glossary">Glossar</h1>
 
 <dl>
+<dt id="add-on">Add-on</dt><dd>Ein St&#252;ck Software welches zu &brandShortName; 
+  hinzugef&#252;gt werden kann um das Erscheinungsbild oder die Arbeitsweise zu 
+  &#228;ndern, oder neue Funktionalit&#228;ten beinhaltet. Es kann auch die 
+  Sprache der Programoberfl&#228;che anpassen. Siehe auch unter
+  <a href="#extension">Erweiterung</a>, <a href="#language_pack">Sprach-Packet</a>, 
+  <a href="#plugin">Plugin</a> und <a href="#theme">Theme</a>.</dd>
 
 <dt id="authentication">Authentifizierung</dt><dd>Der Einsatz eines Passworts, 
 eines Zertifikats, einer Geheimzahl (PIN) oder anderer Angaben, um eine 
@@ -233,10 +239,16 @@ Verschl&#252;sselungszertifikate werden nicht zum Signieren verwendet.
 Siehe auch <a href="#dual_key_pairs">doppelte Schl&#252;sselpaare</a>,
   <a href="#signing_certificate">Signatur-Zertifikat</a>.</dd>
   
-<dt id="encryption_key">Schl&#252;ssel zum Verschl&#252;sseln</dt><dd>Ein &#246;ffentlicher Schl&#252;ssel, der nur zum Verschl&#252;sseln genutzt wird. 
-Ein verschl&#252;sselnder Schl&#252;ssel und sein entsprechender geheimer Schl&#252;ssel,
-sowie ein <a href="#signing_key">Signatur-Schl&#252;ssel</a> und sein 
-entsprechender &#246;ffentlicher Schl&#252;ssel bilden ein <a href="#dual_key_pairs">doppeltes Schl&#252;sselpaar</a>.</dd>
+<dt id="encryption_key">Schl&#252;ssel zum Verschl&#252;sseln</dt><dd>Ein 
+  &#246;ffentlicher Schl&#252;ssel, der nur zum Verschl&#252;sseln genutzt wird. 
+  Ein verschl&#252;sselnder Schl&#252;ssel und sein entsprechender geheimer Schl&#252;ssel,
+  sowie ein <a href="#signing_key">Signatur-Schl&#252;ssel</a> und sein 
+  entsprechender &#246;ffentlicher Schl&#252;ssel bilden ein 
+  <a href="#dual_key_pairs">doppeltes Schl&#252;sselpaar</a>.</dd>
+
+<dt id="extension">Erweiterung</dt><dd>Ein <a href="#add-on">Add-on</a>-Typ
+  welches die Arbeitsweise von &brandShortName; beeinflusst, oder neue Funktionen
+  hinzuf&#252;gt.</dd>
 
 <dt id="feed">Feed</dt><dd>Eine regelm&#228;ssig aktualisierte Verkn&#252;pfung zu einer
   Web-Seite, meist Blog-Artikel oder Nachrichten. Technisch gesehn ist es ein 
@@ -377,6 +389,10 @@ Der &#246;ffentliche Schl&#252;ssel einer Person dient z.B. anderen Personen, um
 Nachrichten an erstere zu verschl&#252;sseln. Die verschl&#252;sselten Mitteilungen 
 m&#252;ssen mit dem zugeh&#246;rigen geheimen Schl&#252;ssel entschl&#252;sselt werden. Siehe
 auch <a href="#public-key_cryptography">Kryptographie mit &#246;ffentlichem Schl&#252;ssel</a>.</dd>
+
+<dt id="language_pack">Sprach-Packet</dt><dd>Ein <a href="#add-on">Add-on</a>-Typ
+  welcher eine zus&#228;tzliche Sprache für die Program-Oberfl&#228;che von &brandShortName;
+  beinhaltet.</dd>
   
 <dt id="ldap">Lightweight Directory Access Protocol (LDAP) - 
 (<q>leichtes Adressbuch-Zugangsprotokoll</q>)</dt><dd>Ein Standardprotokoll, um auf Verzeichnisdienste wie z.B.
@@ -552,10 +568,6 @@ wird unter Verschluss gehalten. Mit dem &#246;ffentlichen Schl&#252;ssel
 verschl&#252;sselte Daten k&#246;nnen nur mit dem geheimen Schl&#252;ssel entschl&#252;sselt 
 werden.</dd>
   
-<dt id="roaming_profile">externes Profil</dt><dd>Ein Userprofile (oder Teile davon) werden
-  auf einem externen Server gespeichert. Mehrere Computer k&#246;nnen sich so dieselben 
-  Einstellungen und Daten teilen.</dd>
-
 <dt id="root_ca">Wurzel-Zertifizierungsstelle (Root CA)</dt><dd>
 Jene <a href="#certificate_authority">Zertifizierungsstelle (CA)</a>mit einem 
 selbstsigniertem Zertifikat, die am Anfang der <a href="#certificate_chain">Zertifizierungskette</a> steht. Siehe auch 
@@ -572,7 +584,18 @@ durch und katalogisieren diese manuell f&#252;r die Suche. Typischerweise
 tippt der Nutzer ein Wort oder einen Satz, auch Abfrage genannt, in ein
 Eingabefenster ein und die Suchmaschine zeigt Links zu relevanten
 Web-Seiten an.</dd>
-  
+
+<dt id="secure_authentication">Sichere Authentifikation</dt><dd>Eine Art der
+  <a href="#authentication">Authentifikation</a> welche eine
+  <a href="#secure_connection">sichere Verbindung</a> verwendet und die
+  Kommunikation zwischen Client und Server verschl&#252;sselt.</dd>
+
+<dt id="secure_connection">Sichere Verbindung</dt><dd>Eine Verbindung zwischen
+  einem Client und einem Server welche eine Verschl&#252;sselung verwendet (meist
+  <a href="#ssl">SSL</a>) um sicherzustellen, da&#223; die Kommunikation nicht von
+  anderen mitverfolgt werden kann. Meist wird vom Server das Zertifikat 
+  zur Indentifikation geliefert.</dd>
+
 <dt id="security_certificate">Kryptozertifikat</dt><dd>Siehe 
   <a href="#certificate">Zertifikat</a>.</dd>
   
@@ -662,6 +685,10 @@ der Internet Engineering Task Force (IETF) namens Transport Layer
 Security (TLS) baut auf SSL auf. Siehe auch <a href="#authentication">Authentifizierung</a>,
   <a href="#encryption">Verschl&#252;sselung</a>.</dd>
 
+<dt id="starttls">STARTTLS</dt><dd>Eine Erweiterund des TCP-Protokolls (wie SMTP, PHP oder IMAP)
+  mit welche der Client dem Server mitteilen kann, <a href="#tls">TLS</a> am selben Port wie 
+  eine ungesicherte Verbindung zu nutzen.</dd>
+
 <dt id="status_bar">Statusleiste</dt><dd>Die Symbolleiste, die unten in jedem &brandShortName;-Fenster erscheint.
 Sie enth&#228;lt die <a href="#component_bar">Komponentenleiste</a>auf der linken und die Status-Icons auf der rechten Seite.</dd>
   
@@ -694,10 +721,15 @@ der urspr&#252;nglichen Fassung entsprechen.</dd>
 um Computer zu verbinden, die mit verschiedensten Betriebssystemen betrieben werden. TCP/IP ist ein 
 wesentliches Internet Protokoll und wurde allgemeiner Standard.</dd>
 
+<dt id="theme">Theme</dt><dd>Ein <a href="#add-on">Add-on</a>-Typ, welcher das Aussehn von
+  &brandShortName; &#228;ndert.</dd>
+
 <dt id="third-party_cookie">Drittcookie</dt><dd>Siehe 
   <a href="#foreign_cookie">Fremdcookie</a>.</dd>
   
-<dt id="tls">TLS</dt><dd>Siehe <a href="#ssl">Secure Sockets Layer (SSL)</a>.</dd>
+<dt id="tls">TLS</dt><dd>Transport Layer Security (TLS) ist der neue is Standard der Internet
+  Engineering Task Force (IETF) basierend auf SSL (Secure Sockets Layer).
+  Siehe auch unter <a href="#ssl">SSL</a> und <a href="#encryption">encryption</a>.</dd>
   
 <dt id="token">Token</dt><dd>Siehe <a href="#security_device">Kryptographie-Modul</a>.</dd>
 
