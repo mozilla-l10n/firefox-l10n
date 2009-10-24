@@ -32,7 +32,7 @@
 <!ENTITY helperApp.nothing "Rien">
 
 <!ENTITY formHelper.previous "Précédent">
-<!ENTITY formHelper.next "suivant">
+<!ENTITY formHelper.next "Suivant">
 <!ENTITY formHelper.done "Terminé">
 
 <!ENTITY addonsHeader.label "Modules">
