@@ -296,6 +296,8 @@
 <!ENTITY reloadImageCmd.accesskey     "H">
 <!ENTITY viewImageCmd.label           "Visa bild">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewImageInfoCmd.label       "Visa bildinfo">
+<!ENTITY viewImageInfoCmd.accesskey   "a">
 <!ENTITY viewVideoCmd.label           "Visa video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Visa bakgrundsbild">
