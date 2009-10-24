@@ -25,6 +25,9 @@
 <!ENTITY helperApp.open "Apri">
 <!ENTITY helperApp.save "Salva">
 <!ENTITY helperApp.nothing "Nessuna">
+<!ENTITY formHelper.previous "Precedente">
+<!ENTITY formHelper.next "Successivo">
+<!ENTITY formHelper.done "Fatto">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
 <!ENTITY addonsLocal.label "Componenti installati">
 <!ENTITY addonsUpdate.label "Aggiorna">
@@ -70,4 +73,3 @@
 <!ENTITY consoleErrFile.label "File sorgente:">
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
-<!ENTITY selectListDone.label "Fatto">
