@@ -295,6 +295,8 @@
 <!ENTITY reloadImageCmd.accesskey     "n">
 <!ENTITY viewImageCmd.label           "Rodyti paveikslą">
 <!ENTITY viewImageCmd.accesskey       "y">
+<!ENTITY viewImageInfoCmd.label       "Rodyti paveikslo savybes">
+<!ENTITY viewImageInfoCmd.accesskey   "s">
 <!ENTITY viewVideoCmd.label           "Rodyti vaizdo įrašą">
 <!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
