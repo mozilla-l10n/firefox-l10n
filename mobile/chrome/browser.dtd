@@ -25,6 +25,9 @@
 <!ENTITY helperApp.open "Открыть">
 <!ENTITY helperApp.save "Сохранить">
 <!ENTITY helperApp.nothing "Ничего">
+<!ENTITY formHelper.previous "Предыдущее">
+<!ENTITY formHelper.next "Следующее">
+<!ENTITY formHelper.done "Готово">
 <!ENTITY addonsHeader.label "Дополнения">
 <!ENTITY addonsLocal.label "Ваши дополнения">
 <!ENTITY addonsUpdate.label "Обновление">
@@ -70,4 +73,3 @@
 <!ENTITY consoleErrFile.label "Источник:">
 <!ENTITY consoleErrLine.label "Строка:">
 <!ENTITY consoleErrColumn.label "Символ:">
-<!ENTITY selectListDone.label "Готово">
