@@ -79,8 +79,6 @@
 <!ENTITY cmd.properties.label "Īpašības">
 <!ENTITY cmd.properties.accesskey "p">
 
-<!ENTITY cmd.show_info.key "i">
-
 <!ENTITY cmd.rename.label "Pārsaukt">
 <!ENTITY cmd.rename.accesskey "R">
 
