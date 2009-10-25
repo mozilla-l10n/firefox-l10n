@@ -20,6 +20,13 @@
 <!ENTITY aboutSupport.appBasicsPlugins "Instalētie spraudņi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
 
+<!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Rādīt Finder logā">
+
 <!ENTITY aboutSupport.modifiedPrefsTitle "Mainītie iestatījumi">
 <!ENTITY aboutSupport.modifiedPrefsName "Nosaukums">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vērtība">
