@@ -54,7 +54,6 @@
 <!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
 <!ENTITY showAllTabsCmd.accesskey "t">
 
-
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Fechar">
@@ -236,20 +235,20 @@ shortcut keys on Linux. -->
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Abrir a ligação numa nova janela">
-<!ENTITY openLinkCmd.accesskey "j">
+<!ENTITY openLinkCmd.accesskey "J">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
-<!ENTITY openLinkCmdInCurrent.accesskey "b">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openLinkCmdInTab.label "Abrir a ligação num novo separador">
-<!ENTITY openLinkCmdInTab.accesskey "s">
+<!ENTITY openLinkCmdInTab.accesskey "S">
 <!ENTITY openFrameCmd.label "Abrir a frame numa nova janela">
 <!ENTITY openFrameCmd.accesskey "J">
 <!ENTITY openFrameCmdInTab.label "Abrir a frame num novo separador">
-<!ENTITY openFrameCmdInTab.accesskey "s">
+<!ENTITY openFrameCmdInTab.accesskey "S">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar apenas esta frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Recarregar a frame">
-<!ENTITY reloadFrameCmd.accesskey "c">
+<!ENTITY reloadFrameCmd.accesskey "C">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fonte da selecção">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ver código fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -267,6 +266,8 @@ shortcut keys on Linux. -->
 <!ENTITY reloadImageCmd.accesskey       "R">
 <!ENTITY viewImageCmd.label "Ver imagem">
 <!ENTITY viewImageCmd.accesskey "V">
+<!ENTITY viewImageInfoCmd.label       "Ver info da imagem">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Ver Vídeo">
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label "Ver imagem de fundo">
@@ -337,9 +338,8 @@ shortcut keys on Linux. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Ocultar Controlos">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Ecrã total">
-<!ENTITY videoFullScreen.accesskey   "t">
-
+<!ENTITY videoFullScreen.label       "Ecrã completo">
+<!ENTITY videoFullScreen.accesskey   "c">
 
 
 <!-- LOCALIZATION NOTE :
