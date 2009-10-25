@@ -31,6 +31,10 @@
 <!ENTITY helperApp.save            "Opslaan">
 <!ENTITY helperApp.nothing         "Niets">
 
+<!ENTITY formHelper.previous       "Vorige">
+<!ENTITY formHelper.next           "Volgende">
+<!ENTITY formHelper.done           "Klaar">
+
 <!ENTITY addonsHeader.label        "Add-ons">
 <!ENTITY addonsLocal.label         "Uw Add-ons">
 <!ENTITY addonsUpdate.label        "Update">
