@@ -251,6 +251,8 @@
 <!ENTITY viewFrameInfoCmd.accesskey "I">
 <!ENTITY viewImageCmd.label "Skatīt attēlu">
 <!ENTITY viewImageCmd.accesskey "T">
+<!ENTITY viewImageInfoCmd.label       "Skatīt attēla informāciju">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Skatīt video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label "Skatīt fona attēlu">

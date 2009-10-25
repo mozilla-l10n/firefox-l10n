@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z > A kārtība">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Izmantojot grāmatzīmes">
-<!ENTITY help.usingBookmarks.accesskey "G">
-<!ENTITY help.usingHistory.label "Izmantojot vēsturi">
-<!ENTITY help.usingHistory.accesskey "i">
-<!ENTITY help.advancedTips.label "Padomi un gudrības profesionāļiem">
-<!ENTITY help.advancedTips.accesskey "G">
 
 <!ENTITY cmd.bookmarkLink.label         "Saglabāt šo lapu grāmatzīmēs…">
 <!ENTITY cmd.bookmarkLink.accesskey     "S">
@@ -109,15 +103,6 @@
 <!ENTITY cmd.reloadMicrosummary.label "Pārlādēt dzīvos virsrakstus">
 <!ENTITY cmd.reloadMicrosummary.accesskey "R">
 
-<!ENTITY cmd.groupby_site.label "Grupēt pēc vietnes">
-<!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "Grupēt pēc lapas">
-<!ENTITY cmd.groupby_page.accesskey "P">
-<!ENTITY cmd.groupby_feed.label "Grupēt pēc pieraksta">
-<!ENTITY cmd.groupby_feed.accesskey "S">
-<!ENTITY cmd.groupby_post.label "Grupēt pēc raksta">
-<!ENTITY cmd.groupby_post.accesskey "P">
-
 <!ENTITY cmd.moveBookmarks.label "Pārvietot...">
 <!ENTITY cmd.moveBookmarks.accesskey "P">
 
@@ -141,54 +126,13 @@
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "Vēsturē">
 <!ENTITY search.scopeHistory.accesskey "A">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Rādīt meklēšanas būvētāju">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Paslēpt meklēšanas būvētāju">
 <!ENTITY saveSearch.label "Saglabāt">
 <!ENTITY saveSearch.accesskey "S">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Meklēt tikai grāmatzīmēs">
-<!ENTITY advancedSearch.match.label "Atlasīt ">
-<!ENTITY advancedSearch.all.label "visus">
-<!ENTITY advancedSearch.any.label "jebkuru">
-<!ENTITY advancedSearch.rules.label "no sekojošajiem nosacījumiem:">
-<!ENTITY advancedSearch.subj_keyword.label "Kas satur tekstu">
-<!ENTITY advancedSearch.subj_visited.label "Apmeklēts">
-<!ENTITY advancedSearch.subj_location.label "Adrese">
-<!ENTITY advancedSearch.location_startswith.label "sākas ar">
-<!ENTITY advancedSearch.location_is.label "ir">
-<!ENTITY advancedSearch.location_onsite.label "ir lapā">
-<!ENTITY advancedSearch.time_is.label "uz">
-<!ENTITY advancedSearch.time_before.label "pirms">
-<!ENTITY advancedSearch.time_after.label "pēc">
-<!ENTITY advancedSearch.time_inlast.label "pēdējo">
-<!ENTITY advancedSearch.last_days.label "dienu">
-<!ENTITY advancedSearch.last_weeks.label "nedēļu">
-<!ENTITY advancedSearch.last_months.label "mēnešu">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Grupēt pēc: ">
-<!ENTITY advancedSearch.groupby_host.label "servera">
-<!ENTITY advancedSearch.groupby_domain.label "domēna">
-<!ENTITY advancedSearch.groupby_folder.label "mapes">
-<!ENTITY advancedSearch.sortby.label "Kārtot pēc: ">
-<!ENTITY advancedSearch.sortby_title.label "virsraksta">
-<!ENTITY advancedSearch.sortby_date.label "datuma">
-<!ENTITY advancedSearch.sortby_visit.label "apmeklējumu skaita">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "augošā secībā">
-<!ENTITY advancedSearch.sortby_desc.label "dilstošā secībā">
-<!ENTITY advancedSearch.max.label "Maksimālais rezultātu skaits: ">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "Barotne">
 <!ENTITY feed.subscribe.tooltip "Pierakstīties">
-
-<!ENTITY view.detailsMacOSX.label "Saraksts">
-<!ENTITY view.details.label "Sīkāka informācija">
-<!ENTITY view.details.accesskey "S">
-
-<!ENTITY view.addons.label "Iegūt aplūkošanas papildinājumus">
 
 <!ENTITY maintenance.label "Importēšana un rezerves kopēšana">
 <!ENTITY maintenance.accesskey "I">
