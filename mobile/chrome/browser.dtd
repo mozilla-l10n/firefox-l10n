@@ -31,13 +31,9 @@
 <!ENTITY helperApp.save            "Tancar-ho">
 <!ENTITY helperApp.nothing         "Res">
 
-<!ENTITY findOnCmd.label     "Cerca a la pàgina…">
-<!ENTITY findOnCmd.accesskey "C">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Torna a cercar">
-<!ENTITY findAgainCmd.accesskey "r">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous       "Anterior">
+<!ENTITY formHelper.next           "Següent">
+<!ENTITY formHelper.done           "Fet">
 
 <!ENTITY addonsHeader.label        "Complements">
 <!ENTITY addonsLocal.label         "Els vostres complements">
@@ -101,4 +97,3 @@
 <!ENTITY consoleErrLine.label      "Línia:">
 <!ENTITY consoleErrColumn.label    "Columna:">
 
-<!ENTITY selectListDone.label      "Fet">
