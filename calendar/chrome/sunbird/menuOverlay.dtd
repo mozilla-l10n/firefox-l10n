@@ -59,10 +59,10 @@
 <!ENTITY calendar.selectall.key                            "A">
 <!ENTITY calendar.selectall.accesskey                      "A">
 
-<!ENTITY toolbarsMenu.label                                "Toolbar">
+<!ENTITY toolbarsMenu.label                                "Bilah Alat">
 <!ENTITY toolbarsMenu.accesskey                            "T">
 
-<!ENTITY showStatusBarCmd.label                            "Bar Status">
+<!ENTITY showStatusBarCmd.label                            "Bilah Alat Status">
 <!ENTITY showStatusBarCmd.accesskey                        "B">
 
 <!ENTITY showTaskBoxCmd.label                              "Daftar Tugas">

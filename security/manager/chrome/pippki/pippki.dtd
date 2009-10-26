@@ -98,8 +98,8 @@
 <!ENTITY formSigning.title "Permintaan Penandatanganan Teks">
 <!ENTITY formSigning.cert "Penandatangan Sertifikat">
 <!ENTITY formSigning.confirmPassword "Untuk konfirmasi persetujuan Anda untuk menandatangani pesan teks dengan sertifikat pilihan Anda, silakan masukkan kata sandi utama:">
-<!ENTITY protectedAuth.title "Otentikasi Token Terproteksi">
-<!ENTITY protectedAuth.msg "Silakan token berikut diotentikasi. Metode otentikasi bergantung pada tipe token Anda.">
+<!ENTITY protectedAuth.title "Autentikasi Token Terproteksi">
+<!ENTITY protectedAuth.msg "Silakan token berikut diautentikasi. Metode autentikasi bergantung pada tipe token Anda.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
 <!ENTITY certErrorDlg.title "Sambungan Aman Gagal">
 <!ENTITY certErrorDlg.info1 "Hal ini mungkin terjadi karena masalah pada konfigurasi server atau pihak tertentu mencoba menyamar menjadi server pada alamat tersebut.">

@@ -43,7 +43,7 @@
 <!ENTITY netOffline.title "Mode luring">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Matikan &quot;Bekerja Luring&quot; di menu Berkas lalu coba lagi.</li>
+  <li>Matikan &quot;Bekerja Luring&quot; pada menu Berkas lalu coba lagi.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">

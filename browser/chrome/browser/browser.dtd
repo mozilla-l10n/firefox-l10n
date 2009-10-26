@@ -21,14 +21,14 @@
 <!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "Bekerja Luring">
 <!ENTITY goOfflineCmd.accesskey "L">
-<!ENTITY menubarCmd.label "Bar Menu">
+<!ENTITY menubarCmd.label "Bilah Menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Toolbar Navigasi">
+<!ENTITY navbarCmd.label "Bilah Alat Navigasi">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Toolbar Bookmark">
+<!ENTITY personalbarCmd.label "Bilah Alat Bookmark">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Nama Bookmark">
-<!ENTITY taskbarCmd.label "Bar Status">
+<!ENTITY taskbarCmd.label "Bilah Status">
 <!ENTITY taskbarCmd.accesskey "a">
 <!ENTITY pageSourceCmd.label "Kode Sumber Halaman">
 <!ENTITY pageSourceCmd.accesskey "S">
@@ -38,10 +38,11 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Layar Penuh">
 <!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY fullScreenMinimize.tooltip "Kecilkan">
 <!ENTITY fullScreenRestore.tooltip "Kembalikan">
 <!ENTITY fullScreenClose.tooltip "Tutup">
-<!ENTITY fullScreenAutohide.label "Sembunyikan Toolbar">
+<!ENTITY fullScreenAutohide.label "Sembunyikan Bilah Alat">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar dari Mode Layar Penuh">
 <!ENTITY fullScreenExit.accesskey "P">
@@ -71,7 +72,7 @@
 <!ENTITY stopCmd.accesskey "i">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Berhenti memuat halaman ini">
-<!ENTITY goEndCap.tooltip "Pindah ke alamat di Bar Lokasi">
+<!ENTITY goEndCap.tooltip "Pindah ke alamat di Bilah Lokasi">
 <!ENTITY feedButton.tooltip "Berlangganan halaman ini…">
 <!ENTITY printButton.label "Cetak">
 <!ENTITY printButton.tooltip "Cetak halaman ini">
@@ -148,9 +149,9 @@
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
-<!ENTITY viewToolbarsMenu.label "Toolbar">
+<!ENTITY viewToolbarsMenu.label "Bilah Alat">
 <!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY viewSidebarMenu.label "Bar Samping">
+<!ENTITY viewSidebarMenu.label "Bilah Samping">
 <!ENTITY viewSidebarMenu.accesskey "m">
 <!ENTITY viewCustomizeToolbar.label "Suka-suka…">
 <!ENTITY viewCustomizeToolbar.accesskey "S">
@@ -172,6 +173,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "Buka Tautan di Jendela Baru">
 <!ENTITY openLinkCmd.accesskey "J">
+<!ENTITY openLinkCmdInCurrent.label     "Buka Tautan">
+<!ENTITY openLinkCmdInCurrent.accesskey "a">
 <!ENTITY openLinkCmdInTab.label "Buka Tautan di Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey "T">
 <!ENTITY openFrameCmd.label "Buka Bingkai di Jendela Baru">
@@ -198,6 +201,8 @@
 <!ENTITY reloadImageCmd.accesskey "U">
 <!ENTITY viewImageCmd.label "Lihat Gambar">
 <!ENTITY viewImageCmd.accesskey "G">
+<!ENTITY viewImageInfoCmd.label "Lihat Informasi Gambar">
+<!ENTITY viewImageInfoCmd.accesskey "m">
 <!ENTITY viewVideoCmd.label "Lihat Video">
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Lihat Gambar Latar Belakang">
@@ -249,8 +254,6 @@
 <!ENTITY copyAudioURLCmd.label "Salin Lokasi Audio">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY blockImageCmd.accesskey "g">
-<!ENTITY metadataCmd.label "Properti">
-<!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Salin Alamat Email">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Bingkai Ini">
@@ -267,6 +270,8 @@
 <!ENTITY mediaShowControls.accesskey "T">
 <!ENTITY mediaHideControls.label "Sembunyikan Kendali">
 <!ENTITY mediaHideControls.accesskey "S">
+<!ENTITY videoFullScreen.label       "Layar Penuh">
+<!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY fullZoomEnlargeCmd.label "Perbesar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "b">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
@@ -286,10 +291,11 @@
 <!ENTITY fullZoom.accesskey "b">
 <!ENTITY newTabButton.tooltip "Buka tab baru">
 <!ENTITY newWindowButton.tooltip "Buka jendela baru">
-<!ENTITY sidebarCloseButton.tooltip "Tutup bar samping">
+<!ENTITY sidebarCloseButton.tooltip "Tutup bilah samping">
 <!ENTITY cutButton.tooltip "Potong">
 <!ENTITY copyButton.tooltip "Salin">
 <!ENTITY pasteButton.tooltip "Tempel">
+<!ENTITY fullScreenButton.tooltip "Tampilkan jendela dalam mode layar penuh">
 <!ENTITY quitApplicationCmdWin.label "Keluar">
 <!ENTITY quitApplicationCmdWin.accesskey "K">
 <!ENTITY goBackCmd.commandKey "[">

@@ -1,0 +1,15 @@
+<!ENTITY typeColumn.label "Tipe Isi">
+<!ENTITY typeColumn.accesskey "T">
+<!ENTITY actionColumn2.label "Aksi">
+<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.emptytext "Cari">
+<!ENTITY saveTo.label                 "Simpan berkas di">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Tanyakan selalu tempat menyimpan berkas">
+<!ENTITY alwaysAsk.accesskey          "T">
+<!ENTITY chooseFolderWin.label        "Jelajahi…">
+<!ENTITY chooseFolderWin.accesskey    "J">
+<!ENTITY chooseFolderMac.label        "Pilih…">
+<!ENTITY chooseFolderMac.accesskey    "P">

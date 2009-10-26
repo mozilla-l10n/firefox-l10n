@@ -46,4 +46,4 @@
 <!ENTITY descriptionInput.accessKey "K">
 <!ENTITY locationNewPage.label "[Halaman baru, belum disimpan]">
 <!ENTITY EditHEADSource1.label "Canggih:">
-<!ENTITY EditHEADSource2.label "Untuk menyunting isi lainnya pada region &lt;head&gt; gunakan &quot;Kode Sumber HTML&quot; pada menu Tampilan atau Toolbar Mode Edit.">
+<!ENTITY EditHEADSource2.label "Untuk menyunting isi lainnya pada region &lt;head&gt; gunakan &quot;Kode Sumber HTML&quot; pada menu Tampilan atau Bilah Alat Mode Sunting.">

@@ -11,9 +11,9 @@
 <!ENTITY compositionGroupTitle.label "Susun">
 <!ENTITY useHtml.label "Buat pesan dalam format HTML">
 <!ENTITY useHtml.accesskey "S">
-<!ENTITY autoQuote.label "Otomatis membuat kutipan dari pesan asli ketika membuat balasan">
-<!ENTITY autoQuote.accesskey "k">
-<!ENTITY then.label "Kemudian,">
+<!ENTITY autoQuote.label "Otomatis menyertakan kutipan dari pesan asli ketika membuat balasan">
+<!ENTITY autoQuote.accesskey "O">
+<!ENTITY then.label "Kemudian">
 <!ENTITY then.accesskey "K">
 <!ENTITY aboveQuote.label "letakkan balasan saya di atas kutipan">
 <!ENTITY belowQuote.label "letakkan balasan saya setelah kutipan">
@@ -22,7 +22,7 @@
 <!ENTITY place.accesskey "t">
 <!ENTITY belowText.label "di bawah kutipan (disarankan)">
 <!ENTITY aboveText.label "di bawah balasan saya (di atas kutipan)">
-<!ENTITY includeSigOnReply.label "Sertakan tanda tangan saya dalam balasan">
+<!ENTITY includeSigOnReply.label "Sertakan tanda tangan saya pada pesan balasan">
 <!ENTITY includeSigOnReply.accesskey "b">
-<!ENTITY includeSigOnForward.label "Sertakan tanda tangan saya dalam penerusan">
+<!ENTITY includeSigOnForward.label "Sertakan tanda tangan saya pada pesan yang diteruskan">
 <!ENTITY includeSigOnForward.accesskey "u">

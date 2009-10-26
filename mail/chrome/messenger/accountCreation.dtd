@@ -1,0 +1,75 @@
+<!ENTITY autoconfigWizard.title          "Setup Akun Email">
+<!ENTITY name.label                      "Nama Anda:">
+<!ENTITY name.accesskey                  "N">
+<!ENTITY name.emptytext                  "Nama Lengkap">
+<!ENTITY name.text                       "Nama Anda, untuk ditampilkan">
+<!ENTITY email.label                     "Alamat email:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "Kata Sandi:">
+<!ENTITY password.accesskey              "S">
+<!ENTITY password.emptytext              "kata sandi">
+<!ENTITY password.text                   "Opsional, akan digunakan untuk memvalidasi nama pengguna">
+
+<!ENTITY accountInformation.label        "Informasi Akun">
+<!ENTITY username2.label                 "Nama pengguna:">
+<!ENTITY incoming.label                  "Terima:">
+<!ENTITY outgoing.label                  "Keluar:">
+<!ENTITY noEncryption.label              "Tanpa">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Setup Manual…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "Batal">
+<!ENTITY cancel.accesskey                "b">
+<!ENTITY continue.label                  "Lanjutkan">
+<!ENTITY continue.accesskey              "L">
+<!ENTITY startOver.label                 "Ulangi dari Awal">
+<!ENTITY startOver.accesskey             "U">
+<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Ulangi Uji Konfigurasi">
+<!ENTITY retest.accesskey                "U">
+<!ENTITY edit.label                      "Sunting">
+<!ENTITY edit.accesskey                  "S">
+
+<!ENTITY rememberPassword.label          "Ingat kata sandi">
+<!ENTITY rememberPassword.accesskey      "I">
+
+<!ENTITY warning.label                   "Peringatan!">
+<!ENTITY incomingSettings.label          "Pengaturan terima:">
+<!ENTITY outgoingSettings.label          "Pengaturan keluar:">
+<!ENTITY technicaldetails.label          "Detail teknis">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Saya memahami resikonya.">
+<!ENTITY confirmWarning.accesskey        "r">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Buat Akun">
+<!ENTITY createAccount.accesskey         "B">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Ganti Pengaturan">
+<!ENTITY changeSettings.accesskey        "G">
+
+<!ENTITY contactYourProvider.description "&brandShortName; dapat mengambil email Anda menggunakan konfigurasi yang telah disediakan. Akan tetapi, sebaiknya Anda menghubungi administrator sistem atau penyedia layanan email tentang sambungan yang tidak sesuai. Silakan lihat FAQ Thunderbird untuk informasi lebih lanjut.">
+
+<!ENTITY insecureServer.tooltip.title    "Peringatan! Server ini tidak aman.">
+<!ENTITY insecureServer.tooltip.details  "Klik pada lingkaran untuk detail lebih lanjut.">
+
+<!ENTITY insecureUnencrypted.description "Email dan autentikasi Anda akan dikirim tanpa enkripsi sehingga kata sandi (dan pesan Anda) dapat dibaca pihak lain dengan mudah.&brandShortName; akan tetap mengambil email Anda, tetapi sebaiknya Anda memberitahukan penyedia layanan email Anda untuk mengkonfigurasi servernya dengan menggunakan sambungan yang aman.">
+<!ENTITY insecureSelfSigned.description  "Server menggunakan sertifikat yang tidak dapat dipercaya, sehingga tidak dapat dipastikan adanya pihak yang mencuri dengan trafik data antara &brandShortName; dan server Anda. &brandShortName;  akan tetap mengambil email Anda, tetapi sebaiknya Anda memberitahukan penyedia layanan email Anda untuk mengkonfigurasi servernya dengan menggunakan sertifikat yang dapat dipercaya.">
+<!ENTITY secureServer.description        "Selamat! Server ini aman.">

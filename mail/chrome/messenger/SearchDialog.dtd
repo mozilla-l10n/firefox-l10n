@@ -2,6 +2,8 @@
 <!ENTITY searchHeading.accesskey "p">
 <!ENTITY searchSubfolders.label "Cari subfolder">
 <!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchOnServer.label        "Jalankan pencarian pada server">
+<!ENTITY searchOnServer.accesskey    "s">
 <!ENTITY resetButton.label "Bersihkan">
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY openButton.label "Buka">
@@ -15,8 +17,8 @@
 <!ENTITY fileButton.label "Berkas">
 <!ENTITY fileButton.accesskey "B">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Buka Folder Pesan">
-<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY openInFolder.label          "Buka dalam Folder">
+<!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label "Simpan sebagai Folder Pencarian">
 <!ENTITY saveAsVFButton.accesskey "F">
 <!ENTITY abSearchHeading.label "Cari di:">
@@ -26,10 +28,10 @@
 <!ENTITY composeButton.label "Tulis">
 <!ENTITY composeButton.accesskey "T">
 <!ENTITY abSearchDialogTitle.label "Pencarian Canggih Daftar Alamat">
-<!ENTITY threadColumn.label "Alur Bahasan">
+<!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
-<!ENTITY subjectColumn.label "Judul Subjek">
+<!ENTITY subjectColumn.label "Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
 <!ENTITY tagsColumn.label "Tag">
@@ -45,10 +47,10 @@
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urut berdasarkan Diterima">
 <!ENTITY columnChooser.tooltip "Klik untuk memilih kolom yang ingin ditampilkan">
-<!ENTITY threadColumn.tooltip "Klik untuk menampilkan alur bahasan pesan">
+<!ENTITY threadColumn.tooltip "Klik untuk menampilkan utas pesan">
 <!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasarkan nama pengirim">
 <!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasarkan nama penerima">
-<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasarkan judul subjek">
+<!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasarkan subjek">
 <!ENTITY dateColumn.tooltip "Klik untuk mengurut berdasarkan tanggal">
 <!ENTITY priorityColumn.tooltip "Klik untuk mengurut berdasarkan prioritas">
 <!ENTITY tagsColumn.tooltip "Klik untuk mengurut berdasarkan tag">
@@ -56,8 +58,8 @@
 <!ENTITY statusColumn.tooltip "Klik untuk mengurut berdasarkan status">
 <!ENTITY sizeColumn.tooltip "Klik untuk mengurut berdasarkan besar pesan">
 <!ENTITY junkStatusColumn.tooltip "Klik untuk mengurut berdasarkan status junk">
-<!ENTITY unreadColumn.tooltip "Jumlah pesan yang belum dibaca dalam alur bahasan">
-<!ENTITY totalColumn.tooltip "Jumlah pesan dalam alur bahasan">
+<!ENTITY unreadColumn.tooltip "Jumlah pesan yang belum dibaca dalam utas">
+<!ENTITY totalColumn.tooltip "Jumlah pesan dalam utas">
 <!ENTITY readColumn.tooltip "Klik untuk mengurut berdasarkan pembacaan">
 <!ENTITY receivedColumn.tooltip "Klik untuk mengurut berdasarkan tanggal diterima">
 <!ENTITY starredColumn.tooltip "Klik untuk mengurut berdasarkan bintang">

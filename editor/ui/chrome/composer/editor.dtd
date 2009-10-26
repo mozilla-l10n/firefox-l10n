@@ -39,11 +39,11 @@
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
-<!ENTITY compositionToolbarCmd.label "Toolbar Komposisi">
+<!ENTITY compositionToolbarCmd.label "Bilah Alat Komposisi">
 <!ENTITY compositionToolbarCmd.accesskey "K">
-<!ENTITY formattingToolbarCmd.label "Toolbar Format">
+<!ENTITY formattingToolbarCmd.label "Bilah Alat Format">
 <!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Toolbar Mode Sunting">
+<!ENTITY editmodeToolbarCmd.label "Bilah Alat Mode Sunting">
 <!ENTITY editmodeToolbarCmd.accesskey "S">
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">

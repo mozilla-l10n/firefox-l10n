@@ -13,6 +13,8 @@
 <!ENTITY contextIncoming.label "Memeriksa Email">
 <!ENTITY contextManual.label "Dijalankan Manual">
 <!ENTITY contextBoth.label "Memeriksa Email atau Dijalankan Manual">
+<!ENTITY contextPostPlugin.label "Memeriksa Email (setelah klasifikasi)">
+<!ENTITY contextPostPluginBoth.label "Memeriksa Email (setelah klasifikasi) atau Dijalankan Manual">
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
 <!ENTITY moveMessage.label "Pindahkan Pesan ke">
@@ -27,7 +29,7 @@
 <!ENTITY deleteMessage.label "Hapus Pesan">
 <!ENTITY deleteFromPOP.label "Hapus dari Server POP">
 <!ENTITY fetchFromPOP.label "Ambil dari Server POP">
-<!ENTITY ignoreThread.label "Abaikan Alur Bahasan">
-<!ENTITY ignoreSubthread.label "Abaikan Alur Sub Bahasan">
-<!ENTITY watchThread.label "Amati Alur Bahasan">
+<!ENTITY ignoreThread.label "Abaikan Utas">
+<!ENTITY ignoreSubthread.label "Abaikan Sub Utas">
+<!ENTITY watchThread.label "Monitor Utas">
 <!ENTITY stopExecution.label "Hentikan Proses Pemfilteran">

@@ -58,9 +58,9 @@
 
 <!ENTITY  event.menu.view.label                           "Tampilan">
 <!ENTITY  event.menu.view.accesskey                       "T">
-<!ENTITY  event.menu.view.toolbars.label                  "Toolbar">
+<!ENTITY  event.menu.view.toolbars.label                  "Bilah Alat">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
-<!ENTITY  event.menu.view.toolbars.event.label            "Toolbar Acara">
+<!ENTITY  event.menu.view.toolbars.event.label            "Bilah Alat Acara">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "A">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Suka-suka…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "S">

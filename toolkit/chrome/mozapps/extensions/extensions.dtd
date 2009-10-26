@@ -13,8 +13,9 @@
 <!ENTITY install.label "Pemasangan">
 <!ENTITY cmd.checkUpdatesAll.label "Temukan Pemutakhiran">
 <!ENTITY cmd.checkUpdatesAll.accesskey "T">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Temukan Pemutakhiran Pengaya">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Temukan Pemutakhiran Tema">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Temukan Pemutakhiran Pengaya Anda">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Temukan Pemutakhiran Tema Anda">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Temukan Pemutakhiran Plugin Anda">
 <!ENTITY cmd.installLocalFile.label "Pasang…">
 <!ENTITY cmd.installLocalFile.accesskey "n">
 <!ENTITY cmd.installFileAddon.tooltip "Pasang Pengaya">
@@ -97,6 +98,7 @@
 <!ENTITY needsDependencies.label "Membutuhkan item tambahan.">
 <!ENTITY blocklisted.label "Dimatikan untuk perlindungan Anda.">
 <!ENTITY softBlocklisted.label "Telah diketahui dapat menimbulkan masalah stabilitas atau keamanan.">
+<!ENTITY outdated.label "Versi baru yang lebih aman tersedia.">
 <!ENTITY toBeDisabled.label "Pengaya berikut akan dimatikan setelah &brandShortName; direstart.">
 <!ENTITY toBeEnabled.label "Pengaya berikut akan diaktifkan setelah &brandShortName; direstart.">
 <!ENTITY toBeInstalled.label "Pengaya berikut akan dipasang setelah &brandShortName; direstart.">

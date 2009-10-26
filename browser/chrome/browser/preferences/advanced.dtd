@@ -1,10 +1,10 @@
 <!ENTITY generalTab.label "Umum">
 <!ENTITY accessibility.label "Aksesibilitas">
-<!ENTITY useCursorNavigation.label "Selalu gunakan kursor papan ketik untuk navigasi halaman">
+<!ENTITY useCursorNavigation.label "Selalu gunakan kursor papan ketik untuk navigasi laman">
 <!ENTITY useCursorNavigation.accesskey "s">
 <!ENTITY searchStartTyping.label "Mulai pencarian sejak diketikkan">
 <!ENTITY searchStartTyping.accesskey "k">
-<!ENTITY blockAutoRefresh.label "Peringatkan jika situs web mencoba mengalihkan atau memuat ulang halaman">
+<!ENTITY blockAutoRefresh.label "Peringatkan jika situs web mencoba mengalihkan atau memuat ulang laman">
 <!ENTITY blockAutoRefresh.accesskey "b">
 <!ENTITY browsing.label "Jelajah Web">
 <!ENTITY useAutoScroll.label "Gunakan penggeseran otomatis">
@@ -13,11 +13,11 @@
 <!ENTITY useSmoothScrolling.accesskey "m">
 <!ENTITY checkSpelling.label "Periksa ejaan saat mengetik teks">
 <!ENTITY checkSpelling.accesskey "e">
-<!ENTITY systemDefaults.label "Nilai Default dari Sistem">
+<!ENTITY systemDefaults.label "Pengaturan Default Sistem">
 <!ENTITY alwaysCheckDefault.label "Periksa apakah &brandShortName; adalah program peramban web default ketika memulai">
 <!ENTITY alwaysCheckDefault.accesskey "w">
-<!ENTITY checkNow.label "Periksa Sekarang">
-<!ENTITY checkNow.accesskey "N">
+<!ENTITY checkNow.label "Tetapkan Sekarang">
+<!ENTITY checkNow.accesskey "T">
 <!ENTITY networkTab.label "Jaringan">
 <!ENTITY connection.label "Sambungan">
 <!ENTITY connectionDesc.label "Atur cara &brandShortName; tersambung ke Internet">
@@ -33,8 +33,8 @@
 <!ENTITY autoCheck.label "Otomatis periksa versi baru untuk:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "f">
-<!ENTITY enableAddonsUpdate.label "Pengaya Terpasang">
-<!ENTITY enableAddonsUpdate.accesskey "g">
+<!ENTITY enableAddonsUpdate2.label "Pengaya">
+<!ENTITY enableAddonsUpdate2.accesskey "g">
 <!ENTITY enableSearchUpdate.label "Mesin Pencari">
 <!ENTITY enableSearchUpdate.accesskey "r">
 <!ENTITY whenUpdatesFound.label "Bila versi baru &brandShortName; ditemukan:">

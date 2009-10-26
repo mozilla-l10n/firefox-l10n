@@ -11,8 +11,8 @@
 <!ENTITY edit.accesskey "U">
 <!ENTITY views.label "Tampilan">
 <!ENTITY views.accesskey "T">
-<!ENTITY view.toolbar.label "Toolbar">
-<!ENTITY view.toolbar.accesskey "o">
+<!ENTITY view.toolbar.label "Bilah Alat">
+<!ENTITY view.toolbar.accesskey "l">
 <!ENTITY view.columns.label "Tampilkan Kolom">
 <!ENTITY view.columns.accesskey "K">
 <!ENTITY view.sort.label "Urutan">
@@ -23,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Urutan Z ke A">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Menggunakan Bookmark">
-<!ENTITY help.usingBookmarks.accesskey "B">
-<!ENTITY help.usingHistory.label "Menggunakan Riwayat">
-<!ENTITY help.usingHistory.accesskey "R">
-<!ENTITY help.advancedTips.label "Tips &amp; Trick Canggih">
-<!ENTITY help.advancedTips.accesskey "T">
 <!ENTITY cmd.findInBookmarks.label "Cari di Daftar Bookmark…">
 <!ENTITY cmd.findInBookmarks.accesskey "C">
 <!ENTITY cmd.findCurrent.label "Cari di Kelompok Ini…">
@@ -79,7 +73,6 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "m">
 <!ENTITY cmd.properties.label "Properti">
 <!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.show_info.key "i">
 <!ENTITY cmd.rename.label "Ganti nama">
 <!ENTITY cmd.rename.accesskey "g">
 <!ENTITY cmd.sortby_name.label "Urut Berdasar Nama">
@@ -98,14 +91,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "H">
 <!ENTITY cmd.reloadMicrosummary.label "Muat Ulang Bookmark Hidup">
 <!ENTITY cmd.reloadMicrosummary.accesskey "H">
-<!ENTITY cmd.groupby_site.label "Kelompokkan berdasar Situs">
-<!ENTITY cmd.groupby_site.accesskey "K">
-<!ENTITY cmd.groupby_page.label "Kelompokkan berdasar Halaman">
-<!ENTITY cmd.groupby_page.accesskey "H">
-<!ENTITY cmd.groupby_feed.label "Kelompokkan berdasar Langganan">
-<!ENTITY cmd.groupby_feed.accesskey "L">
-<!ENTITY cmd.groupby_post.label "Kelompokkan berdasar Posting">
-<!ENTITY cmd.groupby_post.accesskey "P">
 <!ENTITY cmd.moveBookmarks.label "Pindah…">
 <!ENTITY cmd.moveBookmarks.accesskey "P">
 <!ENTITY col.name.label "Nama">
@@ -127,50 +112,11 @@
 <!ENTITY search.scopeDownloads.accesskey "U">
 <!ENTITY search.scopeHistory.label "Riwayat">
 <!ENTITY search.scopeHistory.accesskey "R">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Tampilkan penyusun pencarian">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Sembunyikan penyusun pencarian">
 <!ENTITY saveSearch.label "Simpan">
 <!ENTITY saveSearch.accesskey "S">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Cari Bookmark saja">
-<!ENTITY advancedSearch.match.label "Cocok dengan ">
-<!ENTITY advancedSearch.all.label "semua">
-<!ENTITY advancedSearch.any.label "salah satu">
-<!ENTITY advancedSearch.rules.label " aturan ini:">
-<!ENTITY advancedSearch.subj_keyword.label "Mengandung teks">
-<!ENTITY advancedSearch.subj_visited.label "Kunjungan">
-<!ENTITY advancedSearch.subj_location.label "Lokasi">
-<!ENTITY advancedSearch.location_startswith.label "dimulai dengan">
-<!ENTITY advancedSearch.location_is.label "sama dengan">
-<!ENTITY advancedSearch.location_onsite.label "ada di situs">
-<!ENTITY advancedSearch.time_is.label "pada">
-<!ENTITY advancedSearch.time_before.label "sebelum">
-<!ENTITY advancedSearch.time_after.label "sesudah">
-<!ENTITY advancedSearch.time_inlast.label "dalam">
-<!ENTITY advancedSearch.last_days.label "hari sebelumnya">
-<!ENTITY advancedSearch.last_weeks.label "minggu sebelumnya">
-<!ENTITY advancedSearch.last_months.label "bulan sebelumnya">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Dikelompokkan berdasar: ">
-<!ENTITY advancedSearch.groupby_host.label "host">
-<!ENTITY advancedSearch.groupby_domain.label "domain">
-<!ENTITY advancedSearch.groupby_folder.label "folder">
-<!ENTITY advancedSearch.sortby.label "Diurut berdasar: ">
-<!ENTITY advancedSearch.sortby_title.label "judul">
-<!ENTITY advancedSearch.sortby_date.label "tanggal">
-<!ENTITY advancedSearch.sortby_visit.label "jumlah kunjungan">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "urut naik">
-<!ENTITY advancedSearch.sortby_desc.label "urut turun">
-<!ENTITY advancedSearch.max.label "Jumlah hasil maksimum: ">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "Feed">
 <!ENTITY feed.subscribe.tooltip "Berlangganan">
-<!ENTITY view.detailsMacOSX.label "Daftar">
-<!ENTITY view.details.label "Detail">
-<!ENTITY view.details.accesskey "D">
-<!ENTITY view.addons.label "Unduh Pengaya Tampilan">
 <!ENTITY maintenance.label "Impor dan Cadangan">
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY backCmd.label "Mundur">

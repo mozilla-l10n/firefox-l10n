@@ -14,12 +14,7 @@
 <!ENTITY color.label "Warna:">
 <!ENTITY color.accesskey "W">
 <!ENTITY displayWidth.label "Pesan Teks Polos">
-<!ENTITY plainText.label "Gunakan huruf berikut:">
 <!ENTITY displayText.label "Saat menampilkan kutipan dalam pesan dalam format teks polos gunakan:">
-<!ENTITY fixedWidth.label "Huruf dengan lebar tetap">
-<!ENTITY fixedWidth.accesskey "t">
-<!ENTITY variableWidth.label "Huruf dengan lebar bervariasi">
-<!ENTITY variableWidth.accesskey "V">
 <!ENTITY colors.label "Warna">
 <!ENTITY overrideColors.label "Saat menampilkan pesan gunakan warna berikut:">
 <!ENTITY textColor.label "Warna Teks:">
@@ -35,7 +30,13 @@
 <!ENTITY editTagButton.accesskey "U">
 <!ENTITY removeTagButton.label "Hapus">
 <!ENTITY removeTagButton.accesskey "H">
-<!ENTITY fontAndEncodingsDescription.label "Atur huruf dan pengodean yang digunakan &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "Huruf &amp; Pengodean">
 <!ENTITY fontOptions.accesskey "F">
 <!ENTITY fontOptions.label "Huruf…">
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label    "Huruf">
+<!ENTITY defaultFont.label       "Huruf default:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Ukuran:">
+<!ENTITY defaultSize.accesskey   "U">
+<!ENTITY fontOptions.accesskey   "C">
+<!ENTITY fontOptions.label       "Canggih…">

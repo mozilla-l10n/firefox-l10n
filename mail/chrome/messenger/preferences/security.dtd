@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label "Penipuan Email">
 <!ENTITY itemPasswords.label "Kata Sandi">
 <!ENTITY itemAntiVirus.label "Anti-Virus">
+<!ENTITY itemCookies.label       "Konten Web">
 <!ENTITY junkMail.intro "Atur pengaturan email junk default. Pengaturan email junk masing-masing akun dapat diatur pada Pengaturan Akun.">
 <!ENTITY manualMark.label "Saat menandai pesan sebagai pesan junk:">
 <!ENTITY manualMark.accesskey "S">
@@ -33,3 +34,17 @@
 <!ENTITY antiVirus.intro "&brandShortName; dapat memudahkan perangkat lunak anti-virus untuk menganalisis virus pada pesan email masuk sebelum disimpan secara lokal.">
 <!ENTITY antiVirus.label "Izinkan perangkat lunak anti-virus untuk memasukkan pesan ke dalam karantina anti virus">
 <!ENTITY antiVirus.accesskey "l">
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; dapat mengatur feed blog dan berita atau situs web lain yang diizinkan untuk mengatur cookie.">
+<!ENTITY acceptCookies.label            "Terima cookie dari situs">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Simpan hingga:">
+<!ENTITY keepUntil.accesskey            "S">
+<!ENTITY expire.label                   "kedaluwarsa">
+<!ENTITY close.label                    "&brandShortName; ditutup">
+<!ENTITY askEachTime.label              "tanyakan selalu">
+<!ENTITY cookieExceptions.label         "Pengecualian…">
+<!ENTITY cookieExceptions.accesskey     "P">
+<!ENTITY showCookies.label              "Tampilkan Cookie…">
+<!ENTITY showCookies.accesskey          "T">
+

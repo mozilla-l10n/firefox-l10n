@@ -92,6 +92,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Tempel sebagai Kutipan">
 <!ENTITY pasteAsQuotationCmd.accesskey "k">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Cari dan Ganti…">
 <!ENTITY findCmd.accesskey "c">
 <!ENTITY findCmd.key "f">
@@ -354,9 +355,9 @@
 <!ENTITY convertToTable.accesskey "o">
 <!ENTITY tableProperties.label "Properti Tabel…">
 <!ENTITY tableProperties.accesskey "o">
-<!ENTITY menuBar.tooltip "Bar Menu">
-<!ENTITY compositionToolbar.tooltip "Bar Pengkomposisi">
-<!ENTITY formatToolbar.tooltip "Bar Format">
+<!ENTITY menuBar.tooltip "Bilah Menu">
+<!ENTITY compositionToolbar.tooltip "Bilah Alat Komposisi">
+<!ENTITY formatToolbar.tooltip "Bilah Format">
 <!ENTITY newToolbarCmd.tooltip "Buat Halaman Baru di Composer">
 <!ENTITY openToolbarCmd.label "Buka">
 <!ENTITY openToolbarCmd.tooltip "Buka berkas lokal">

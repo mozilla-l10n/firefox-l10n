@@ -30,9 +30,9 @@
 <!ENTITY preferencesCmdUnix.accesskey "P">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
-<!ENTITY viewToolbarsMenu.label "Toolbar">
+<!ENTITY viewToolbarsMenu.label "Bilah Alat">
 <!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY showTaskbarCmd.label "Bar Status">
+<!ENTITY showTaskbarCmd.label "Bilah Status">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY proxy.label "Konfigurasi Proxy…">
 <!ENTITY proxy.accesskey "K">

@@ -18,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label "Kata Kunci:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Tampilkan semua Tag">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label "Muat Bookmark ini pada bar samping">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label "Muat Bookmark ini pada bilah samping">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "s">
 <!ENTITY editBookmarkOverlay.choose.label "Pilih…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Folder baru">

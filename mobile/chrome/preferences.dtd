@@ -1,3 +1,7 @@
+<!ENTITY prefsHeader.label                         "Pengaturan">
+<!ENTITY about.title                               "Tentang &brandShortName;">
+<!ENTITY about.button                              "Buka">
+<!ENTITY about.description                         "Dapatkan bantuan dan informasi produk">
 <!ENTITY content.title                             "Isi">
 <!ENTITY showImages.title                          "Tampilkan gambar">
 <!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
@@ -11,3 +15,6 @@
 <!ENTITY clearPrivateData.button                   "Bersihkan">
 <!ENTITY clearPrivateData.description              "Riwayat Anda membantu &brandShortName; untuk memberi saran alamat yang Anda buka">
 <!ENTITY rememberPasswords.title                   "Ingat keta sandi">
+<!ENTITY language.title                            "Bahasa">
+<!ENTITY language.description                      "Pilih bahasa yang ingin digunakan untuk &brandShortName;">
+<!ENTITY language.auto                             "Deteksi otomatis">

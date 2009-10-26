@@ -4,9 +4,9 @@
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "Huruf untuk:">
 <!ENTITY language.accesskey "h">
-<!ENTITY sizes.label "Ukuran (piksel)">
+<!ENTITY size.label                              "Ukuran:">
 <!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "k">
+<!ENTITY sizeMono.accesskey                      "i">
 <!ENTITY proportional.label "Proporsional:">
 <!ENTITY proportional.accesskey "p">
 <!ENTITY serif.label "Serif:">
@@ -47,8 +47,14 @@
 <!ENTITY minSize.none "Tidak Ada">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Tanpa Serif">
-<!ENTITY useDocumentFonts.label "Izinkan pesan untuk menggunakan font lainnya">
+<!ENTITY useDocumentFonts.label "Izinkan pesan untuk menggunakan huruf lainnya">
 <!ENTITY useDocumentFonts.accesskey "o">
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Pengaturan Huruf">
+<!ENTITY  useFixedWidthForPlainText.label         "Gunakan huruf dengan lebar tetap untuk pesan dalam teks polos">
+<!ENTITY  fixedWidth.accesskey                    "s">
+<!ENTITY  useDocumentFonts.label                  "Izinkan pesan untuk menggunakan huruf lainnya">
+<!ENTITY  useDocumentFonts.accesskey              "I">
 <!ENTITY sendDefaultCharset.label "Email Keluar:">
 <!ENTITY sendDefaultCharset.accesskey "u">
 <!ENTITY languagesTitle1.label "Pengodean Karakter">

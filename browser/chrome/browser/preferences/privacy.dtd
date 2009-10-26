@@ -1,6 +1,6 @@
 <!ENTITY history.label "Riwayat">
-<!ENTITY locationBar.label "Bar Lokasi">
-<!ENTITY locbar.pre.label "Saat menggunakan bar lokasi sarankan:">
+<!ENTITY locationBar.label "Bilah Lokasi">
+<!ENTITY locbar.pre.label "Saat menggunakan bilah lokasi sarankan:">
 <!ENTITY locbar.pre.accessKey "l">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "Riwayat dan Bookmark">
@@ -36,8 +36,8 @@
 <!ENTITY dontrememberActions.pre.label "Anda juga dapat ">
 <!ENTITY dontrememberActions.clearHistory.label "membersihkan riwayat terkini">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingAutoStart.label "Otomatis mulai sesi &brandShortName; dalam mode penjelajahan pribadi">
-<!ENTITY privateBrowsingAutoStart.accesskey "O">
+<!ENTITY  privateBrowsingPermanent.label "Mode Penjelajahan Pribadi Permanen">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 <!ENTITY rememberHistory.pre.label "Simpan riwayat penjelajahan untuk">
 <!ENTITY rememberHistory.pre.accesskey "r">
 <!ENTITY rememberHistory.post.label "hari terakhir">

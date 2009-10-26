@@ -3,6 +3,9 @@
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "Memeriksa Versi Baru">
 <!ENTITY  updateCheck.label "Memeriksa versi baru &brandShortName;…">
+<!ENTITY  pluginupdatesfound.title        "Versi Baru Plugin Ditemukan">
+<!ENTITY  pluginupdatesfound.label        "Versi baru untuk satu atau lebih plugin Anda telah ditemukan.">
+<!ENTITY  pluginupdateslink.label         "Tampilkan bagaimana cara memperbarui plugin Anda.">
 <!ENTITY noupdatesfound.title "Versi Baru Tidak Ditemukan">
 <!ENTITY noupdatesautoenabled.intro "Belum ada versi baru yang tersedia. &brandShortName; akan memeriksa
                                            versi baru secara periodik.">
@@ -21,7 +24,7 @@
                                            di bawah ini untuk melanjutkan pemasangan versi baru ini.">
 <!ENTITY license.titleText "Perjanjian Lisensi Perangkat Lunak">
 <!ENTITY license.introText "Persyaratan penggunaan perangkat lunak.">
-<!ENTITY license.instructionText "Silakan dibaca perjanjian lisensi berikut. Gunakan bar penggeser untuk melihat sisa bacaan perjanjian.">
+<!ENTITY license.instructionText "Silakan dibaca perjanjian lisensi berikut. Gunakan bilah penggeser untuk melihat sisa bacaan perjanjian.">
 <!ENTITY license.accept "Saya menyetujui persyaratan Perjanjian Lisensi">
 <!ENTITY license.accept.accesskey "S">
 <!ENTITY license.decline "Saya TIDAK menyetujui Perjanjian Lisensi">
@@ -43,10 +46,10 @@
 <!ENTITY errorpatching.intro "Pemutakhiran Parsial tidak dapat diaplikasikan.
                                            &brandShortName; akan mencoba lagi dengan mengunduh pemutakhiran lengkap.">
 <!ENTITY  finishedPage.title "Pemutakhiran Siap Dipasang">
-<!ENTITY  finishedPage.text "Pemutakhiran akan dipasang saat &brandShortName; dibuka lagi. Anda dapat merestart &brandShortName; sekarang juga atau tetap bekerja dan me-restart nanti.">
+<!ENTITY  finishedPage.text "Pemutakhiran akan dipasang saat &brandShortName; dibuka lagi. Anda dapat merestart &brandShortName; sekarang juga atau tetap bekerja dan merestart nanti.">
 <!ENTITY  finishedBackgroundPage.text "Pemutakhiran keamanan dan stabilitas untuk &brandShortName; telah diunduh dan siap untuk dipasang.">
 <!ENTITY  finishedBackground.name "Pemutakhiran:">
-<!ENTITY  finishedBackground.more "Pemutakhiran akan dipasang saat &brandShortName; dimulai lagi. Anda dapat me-restart &brandShortName; sekarang juga atau tetap bekerja dan me-restart nanti.">
+<!ENTITY  finishedBackground.more "Pemutakhiran akan dipasang saat &brandShortName; dimulai lagi. Anda dapat merestart &brandShortName; sekarang juga atau tetap bekerja dan merestart nanti.">
 <!ENTITY installed.title "Versi Baru Terpasang">
 <!ENTITY installed.intro "Versi baru sukses dipasang.">
 <!ENTITY whatsnew.label "Baca tentang hal baru…">

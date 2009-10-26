@@ -1,4 +1,4 @@
-<!ENTITY msgComposeWindow.title "Tulis: (belum ada judul subjek)">
+<!ENTITY msgComposeWindow.title "Tulis: (belum ada subjek)">
 <!ENTITY fileMenu.label "Berkas">
 <!ENTITY fileMenu.accesskey "B">
 <!ENTITY newMenu.label "Baru">
@@ -59,6 +59,7 @@
 <!ENTITY pasteCmd.label "Tempel">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY pasteCmd.accesskey "T">
 <!ENTITY editRewrapCmd.label "Atur ulang pemotongan">
 <!ENTITY editRewrapCmd.key "P">
@@ -81,17 +82,17 @@
 <!ENTITY findPrevCmd.accesskey "S">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
-<!ENTITY viewToolbarsMenuNew.label "Toolbar">
+<!ENTITY viewToolbarsMenuNew.label "Bilah Alat">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
-<!ENTITY showCompositionToolbarCmd.label "Toolbar Komposisi">
+<!ENTITY showCompositionToolbarCmd.label "Bilah Alat Komposisi">
 <!ENTITY showCompositionToolbarCmd.accesskey "K">
-<!ENTITY showFormattingBarCmd.label "Bar Format">
+<!ENTITY showFormattingBarCmd.label "Bilah Format">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY showTaskbarCmd.label "Bar Status">
+<!ENTITY showTaskbarCmd.label "Bilah Status">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Suka-suka…">
 <!ENTITY customizeToolbar.accesskey "S">
-<!ENTITY addressSidebar.label "Bar Samping Daftar Kenalan">
+<!ENTITY addressSidebar.label "Bilah Samping Daftar Kenalan">
 <!ENTITY addressSidebar.accesskey "K">
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
@@ -180,7 +181,7 @@
 <!ENTITY replyAddr.label "Balas Kepada:">
 <!ENTITY newsgroupsAddr.label "Newsgroup:">
 <!ENTITY followupAddr.label "Lanjutkan Kepada:">
-<!ENTITY subject.label "Judul Subjek:">
+<!ENTITY subject.label "Subjek:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Lampiran:">
 <!ENTITY attachments.accesskey "L">
@@ -220,6 +221,8 @@
 <!ENTITY openAttachment.accesskey "B">
 <!ENTITY delete.label "Hapus">
 <!ENTITY delete.accesskey "H">
+<!ENTITY removeAttachment.label "Hapus Lampiran">
+<!ENTITY removeAttachment.accesskey "H">
 <!ENTITY renameAttachment.label "Ganti Nama…">
 <!ENTITY renameAttachment.accesskey "G">
 <!ENTITY selectAll.label "Pilih Semua">

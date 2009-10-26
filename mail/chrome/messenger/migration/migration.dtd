@@ -1,6 +1,6 @@
 <!ENTITY migrationWizard.title "Penuntun Impor">
-<!ENTITY importFromWin.label "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan Data Lainnya dari:">
-<!ENTITY importFromNonWin.label "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan Data Lainnya dari:">
+<!ENTITY importFromWin.label "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan data Lainnya dari:">
+<!ENTITY importFromNonWin.label "Impor Pengaturan, Pengaturan Akun, Buku Alamat, Filter, dan data Lainnya dari:">
 <!ENTITY importFromNothing.label "Jangan impor apapun">
 <!ENTITY importFromNothing.accesskey "J">
 <!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x atau SeaMonkey">

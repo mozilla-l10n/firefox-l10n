@@ -49,14 +49,6 @@
 <!ENTITY offlineCompact.label "Padatkan folder jika menghemat lebih dari">
 <!ENTITY offlineCompact.accesskey "P">
 <!ENTITY kb.label "KB">
-<!ENTITY viewCertificates.label "Daftar Sertifikat">
-<!ENTITY viewCertificates.accesskey "a">
-<!ENTITY viewCRLs.label "Daftar Pencabutan">
-<!ENTITY viewCRLs.accesskey "c">
-<!ENTITY validation.label "Validasi">
-<!ENTITY validation.accesskey "d">
-<!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
-<!ENTITY viewSecurityDevices.accesskey "k">
 <!ENTITY useCacheBefore.label "Gunakan harddisk untuk tembolok hingga">
 <!ENTITY useCacheBefore.accesskey "h">
 <!ENTITY useCacheAfter.label "MB">
@@ -75,5 +67,19 @@
 <!ENTITY alwaysCheckDefault.accesskey "l">
 <!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; untuk pencarian pesan">
 <!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkNow.label "Periksa Sekarang">
+<!ENTITY checkNow.label "Tetapkan Sekarang">
 <!ENTITY checkNow.accesskey "N">
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Ketika server meminta sertifikat pribadi saya:">
+<!ENTITY certs.auto                      "Pilih satu secara otomatis">
+<!ENTITY certs.auto.accesskey            "P">
+<!ENTITY certs.ask                       "Tanyakan selalu">
+<!ENTITY certs.ask.accesskey             "T">
+<!ENTITY viewCertificates.label "Daftar Sertifikat">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "Daftar Pencabutan">
+<!ENTITY viewCRLs.accesskey "c">
+<!ENTITY validation.label "Validasi">
+<!ENTITY validation.accesskey "d">
+<!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
+<!ENTITY viewSecurityDevices.accesskey "k">

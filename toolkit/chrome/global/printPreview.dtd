@@ -67,5 +67,5 @@
 <!ENTITY customPrompt.title "Skala Suka-suka…">
 <!ENTITY homearrow.tooltip "Halaman pertama">
 <!ENTITY endarrow.tooltip "Halaman terakhir">
-<!ENTITY rightarrow.tooltip "Halaman berikutnya">
-<!ENTITY leftarrow.tooltip "Halaman sebelumnya">
+<!ENTITY nextarrow.tooltip    "Halaman berikutnya">
+<!ENTITY previousarrow.tooltip "Halaman sebelumnya">

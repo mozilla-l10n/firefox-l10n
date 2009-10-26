@@ -7,17 +7,18 @@
 <!ENTITY helpMenu.accesskey "n">
 <!ENTITY helpMenuWin.label "Bantuan">
 <!ENTITY helpMenuWin.accesskey "n">
-<!ENTITY aboutCmd.label "Tentang &brandFullName;">
-<!ENTITY aboutCmd.accesskey "T">
-<!ENTITY helpContents.label "Daftar Isi Bantuan">
-<!ENTITY helpContents.accesskey "I">
-<!ENTITY helpContentsMac.label "Bantuan untuk &brandShortName;">
+<!ENTITY aboutProduct.label       "Tentang &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "T">
+<!ENTITY productHelp.label "Bantuan &brandShortName;">
+<!ENTITY productHelp.accesskey "B">
 <!ENTITY helpForIEUsers.label "Untuk Pengguna Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "E">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Catatan Rilis">
 <!ENTITY helpReleaseNotes.accesskey "C">
+<!ENTITY helpTroubleshooting.label "Informasi Pemecahan Masalah…">
+<!ENTITY helpTroubleshooting.accesskey "M">
 <!ENTITY updateCmd.label "Periksa Versi Baru…">
 <!ENTITY preferencesCmdMac.label "Pengaturan…">
 <!ENTITY preferencesCmdMac.commandkey ",">
