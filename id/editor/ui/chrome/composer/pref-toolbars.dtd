@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.toolbars.title "Toolbar">
-<!ENTITY composition.caption "Tampilkan tombol berikut pada Toolbar Pengkomposisi:">
+<!ENTITY pref.toolbars.title "Bilah Alat">
+<!ENTITY composition.caption "Tampilkan tombol berikut pada Bilah Alat Komposisi:">
 <!ENTITY new.label "Baru">
 <!ENTITY open.label "Buka">
 <!ENTITY save.label "Simpan">
@@ -51,7 +51,7 @@
 <!ENTITY table.label "Tabel">
 <!ENTITY link.label "Tautan">
 <!ENTITY anchor.label "Penanda Bernama">
-<!ENTITY formatting.caption "Tampilkan tombol berikut pada Toolbar Format">
+<!ENTITY formatting.caption "Tampilkan tombol berikut pada Bilah Alat Format">
 <!ENTITY smaller.label "Lebih kecil">
 <!ENTITY larger.label "Lebih besar">
 <!ENTITY bold.label "Tebal">

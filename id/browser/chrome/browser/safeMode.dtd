@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Mike Connor <mconnor@steelgryphon.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,10 +41,10 @@
 <!ENTITY safeModeDescription2.label "Anda dapat membuat perubahan berikut menjadi permanen:">
 <!ENTITY disableAddons.label "Matikan semua Pengaya">
 <!ENTITY disableAddons.accesskey "M">
-<!ENTITY resetToolbars.label "Reset toolbar dan kontrol">
+<!ENTITY resetToolbars.label "Reset bilah alat dan kontrol">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY resetBookmarks.label "Reset Daftar Bookmark menjadi default &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label        "Hapus semua bookmark kecuali untuk cadangan">
+<!ENTITY deleteBookmarks.accesskey    "b">
 <!ENTITY resetUserPrefs.label "Reset semua pengaturan pengguna menjadi default &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "p">
 <!ENTITY restoreSearch.label "Kembalikan daftar mesin pencari default">

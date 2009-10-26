@@ -1,6 +1,6 @@
 <!ENTITY migrationWizard.title "Penuntun Impor">
-<!ENTITY importFrom.label "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi dan data lain dari:">
-<!ENTITY importFromUnix.label "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi dan data lain dari:">
+<!ENTITY importFrom.label "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi, dan data lainnya dari:">
+<!ENTITY importFromUnix.label "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi, dan data lainnya dari:">
 <!ENTITY importFromBookmarks.label "Impor Bookmark dari:">
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">

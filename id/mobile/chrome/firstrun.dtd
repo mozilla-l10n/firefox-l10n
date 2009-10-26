@@ -1,0 +1,10 @@
+<!ENTITY welcome.title                      "Selamat datang di &brandShortName;">
+<!ENTITY overview.description               "Sinkronkan komputer dan perangkat genggam Anda dengan Weave. Sesuaikan dengan pengaya. Jelajahi Web dengan Awesome Bar, dan fitur lainnya.">
+<!ENTITY nextSteps.title                    "Langkah Berikut">
+<!ENTITY sync.title                         "Langkah Pertama dan Mulai">
+<!ENTITY sync.description                   "Unduh Weave untuk menyesuaikan &brandShortName;. Sinkronkan pengaturan, bookmark, riwayat penjelajahan, dan lain-lainnya antara komputer dan perangkat genggam Anda.">
+<!ENTITY sync.link                          "Unduh pengaya Weave">
+<!ENTITY getPersonal.title                  "Personalisasi">
+<!ENTITY getPersonal.description            "Sesuaikan &brandShortName; dengan selera Anda. Atur penjelajah web pertama yang menawarkan kemampuan tambahan lewat pengaya untuk perangkat genggam.">
+<!ENTITY getPersonal.link                   "Dapatkan pengaya untuk perangkat genggam Anda.">
+<!ENTITY skip.link                          "Lewati semuanya dan jelajahi Web.">

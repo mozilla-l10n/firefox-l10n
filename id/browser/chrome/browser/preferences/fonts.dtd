@@ -51,7 +51,7 @@
 <!ENTITY minSize.none "Tidak Ada">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Tanpa Serif">
-<!ENTITY allowPagesToUse.label "Izinkan halaman memilih hurufnya sendiri">
+<!ENTITY allowPagesToUse.label "Izinkan laman memilih hurufnya sendiri">
 <!ENTITY allowPagesToUse.accesskey "i">
 <!ENTITY languages.customize.Charset.grouplabel "Pengodean Karakter">
 <!ENTITY languages.customize.DefaultCharset.label "Pengodean Karakter Default:">

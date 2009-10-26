@@ -1,0 +1,28 @@
+<!ENTITY window.width                      "36em">
+
+<!ENTITY cookiesonsystem.label             "Cookie berikut disimpan pada komputer Anda:">
+<!ENTITY cookiename.label                  "Nama Cookie">
+<!ENTITY cookiedomain.label                "Situs">
+<!ENTITY button.removecookie.label         "Hapus Cookie">
+<!ENTITY button.removecookie.accesskey     "H">
+<!ENTITY button.removeallcookies.label     "Hapus Semua Cookie">
+<!ENTITY button.removeallcookies.accesskey "S">
+
+<!ENTITY props.name.label                  "Nama:">
+<!ENTITY props.value.label                 "Isi:">
+<!ENTITY props.domain.label                "Host:">
+<!ENTITY props.path.label                  "Path:">
+<!ENTITY props.secure.label                "Dikirim Untuk:">
+<!ENTITY props.expires.label               "Kedaluwarsa:">
+
+<!ENTITY window.title                      "Cookie">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
+
+<!ENTITY filter.label                      "Cari:">
+<!ENTITY filter.accesskey                  "C">
+
+<!ENTITY button.close.label                "Tutup">
+<!ENTITY button.close.accesskey            "T">
+

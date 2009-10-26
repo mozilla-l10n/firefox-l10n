@@ -97,3 +97,18 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Catatan:">
 <!ENTITY Notes.accesskey "C">
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Silakan pilih salah satu:">
+<!ENTITY GenericPhoto.label             "Berkas Foto">
+<!ENTITY GenericPhoto.accesskey         "B">
+<!ENTITY DefaultPhoto.label             "Default">
+<!ENTITY PhotoFile.label                "Di Komputer ini">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Jelajahi">
+<!ENTITY BrowsePhoto.accesskey          "J">
+<!ENTITY PhotoURL.label                 "Di Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Tempel atau ketik alamat web foto">
+<!ENTITY UpdatePhoto.label              "Perbarui">
+<!ENTITY UpdatePhoto.accesskey          "u">

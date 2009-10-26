@@ -47,7 +47,7 @@
 <!ENTITY folderRebuildSummaryFile.accesskey "U">
 <!ENTITY folderRebuildSummaryFileTip.label "Buat Ulang Berkas Ringkasan">
 <!ENTITY retention.label "Kebijakan Penyimpanan">
-<!ENTITY retentionUseAccount.label  "Gunakan pengaturan akun saya">
+<!ENTITY retentionUseAccount.label "Gunakan pengaturan akun saya">
 <!ENTITY retentionUseAccount.accesskey "a">
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">

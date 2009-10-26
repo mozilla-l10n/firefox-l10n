@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Untuk menghemat ruang disk, jangan unduh:">
-<!ENTITY doNotDownload.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan luring:">
+<!ENTITY doNotDownloadNntp.label "Untuk menghemat ruang disk, jangan unduh pesan untuk penggunaan luring:">
+<!ENTITY doNotDownloadImap.label "Untuk menghemat ruang disk, pengunduhan pesan dari server dan penyimpanan luring salinan lokal dapat diatur berdasarkan umur atau besar pesan.">
 <!ENTITY allFoldersOffline.label "Tinggalkan pesan untuk akun ini pada komputer ini">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Pesan lebih besar dari">
 <!ENTITY offlineNotDownload.accesskey "P">
+<!ENTITY autosyncNotDownload.label "Jangan unduh pesan yang lebih besar dari">
+<!ENTITY autosyncNotDownload.accesskey "J">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">
@@ -32,3 +35,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Proses Sinkronisasi Pesan">
 <!ENTITY diskspaceGroupTitle.label "Ruang Disk">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Sinkronkan semua pesan secara lokal">
+<!ENTITY allAutosync.accesskey           "S">
+<!ENTITY ageAutosyncBefore.label         "Hanya sinkronkan yang paling baru">
+<!ENTITY ageAutosync.accesskey           "b">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Hari">
+<!ENTITY weekAgeInterval.label           "Minggu">
+<!ENTITY monthAgeInterval.label          "Bulan">
+<!ENTITY yearAgeInterval.label           "Tahun">
+<!ENTITY ageAutosyncAfter.label          "">

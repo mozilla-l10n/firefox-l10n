@@ -1,5 +1,5 @@
 <!ENTITY settings.caption "Pengaturan">
-<!ENTITY security.caption "Keamanan dan Otentikasi">
+<!ENTITY security.caption "Keamanan dan Autentikasi">
 <!ENTITY serverName.label "Nama Server:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Keterangan:">
@@ -10,7 +10,7 @@
 <!ENTITY alwaysUseUsername.accesskey "n">
 <!ENTITY userName.label "Nama Pengguna:">
 <!ENTITY userName.accesskey "N">
-<!ENTITY useSecAuth.label "Gunakan otentikasi aman">
+<!ENTITY useSecAuth.label "Gunakan autentikasi aman">
 <!ENTITY useSecAuth.accesskey "a">
 <!ENTITY connectionSecurity.label "Keamanan sambugan:">
 <!ENTITY connectionSecurity.accesskey "n">

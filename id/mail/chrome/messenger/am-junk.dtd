@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Pengaturan Pesan Junk">
-<!ENTITY trainingWarning.label 'Jika diaktifkan, Anda perlu untuk "melatih" &brandShortName; agar dapat mengidentifikasi email junk dengan menggunakan tombol Junk pada toolbar untuk menandai apakah pesan merupakan pesan junk. Anda perlu mengidentifikasi mana yang pesan junk dan mana yang bukan.'>
+<!ENTITY trainingWarning.label 'Jika diaktifkan, Anda perlu untuk "melatih" &brandShortName; agar dapat mengidentifikasi email junk dengan menggunakan tombol Junk pada bilah alat untuk menandai apakah pesan merupakan pesan junk. Anda perlu mengidentifikasi mana yang pesan junk dan mana yang bukan.'>
 <!ENTITY level.label "Gunakan kontrol email junk adaptif untuk akun ini">
 <!ENTITY level.accesskey "a">
 <!ENTITY move.label "Pindahkan pesan junk ke:">

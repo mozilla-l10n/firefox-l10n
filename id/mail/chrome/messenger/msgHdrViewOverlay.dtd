@@ -4,7 +4,7 @@
 <!ENTITY senderField2.label "pengirim ">
 <!ENTITY organizationField2.label "organisasi ">
 <!ENTITY replyToField2.label "balas-ke ">
-<!ENTITY subjectField2.label "judul-subjek ">
+<!ENTITY subjectField2.label "subjek ">
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "newsgroup ">
@@ -18,18 +18,47 @@
 <!ENTITY originalWebsite2.label "situs-web ">
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
 <!ENTITY editMessageButton.label "Sunting…">
-<!ENTITY archiveButton.label "arsipkan">
+<!ENTITY hdrArchiveButton.label "arsipkan">
+<!ENTITY hdrArchiveButton.tooltip "arsipkan pesan ini">
 <!ENTITY hdrReplyButton.label "balas">
+<!ENTITY hdrReplyButton.tooltip "balas pesan ini">
 <!ENTITY hdrReplyAllButton.label "balas ke semua">
+<!ENTITY hdrReplyAllButton.tooltip "balas ke pengirim dan semua penerima">
 <!ENTITY hdrReplyListButton.label "balas ke milis">
+<!ENTITY hdrReplyListButton.tooltip "balas ke milis">
 <!ENTITY hdrForwardButton.label "teruskan">
-<!ENTITY hdrJunkButton.label "tandai sebagai junk">
-<!ENTITY trashButton.tooltiptext "hapus">
+<!ENTITY hdrForwardButton.tooltip "teruskan pesan ini">
+<!ENTITY hdrJunkButton.label "junk">
+<!ENTITY hdrJunkButton.tooltip "tandai pesan ini sebagai pesan junk">
+<!ENTITY hdrTrashButton.label "hapus">
+<!ENTITY hdrTrashButton.tooltip "hapus pesan ini">
+
+<!ENTITY hdrViewToolbarShowFull.label "Tampilkan Ikon dan Teks">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Tampilkan Ikon Saja">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Tampilkan Teks Saja">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Selalu Tampilkan Balas ke Pengirim">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "P">
+
 <!ENTITY otherActionsButton.label "aksi lainnya">
+<!ENTITY otherActionsShowConversation.label "tampilkan percakapan">
+<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "buka di jendela baru">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "j">
+<!ENTITY otherActionsOpenInNewTab.label "buka di tab baru">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "tandai sudah dibaca">
+<!ENTITY markAsReadMenuItem.accesskey "c">
+<!ENTITY markAsUnreadMenuItem.label "tandai belum dibaca">
+<!ENTITY markAsUnreadMenuItem.accesskey "b">
 <!ENTITY saveAsMenuItem.label "simpan sebagai…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "tampilkan kode sumber…">
 <!ENTITY viewSourceMenuItem.accesskey "s">
+<!ENTITY otherActionsPrint.label "cetak…">
+<!ENTITY otherActionsPrint.accesskey "c">
 <!ENTITY openAttachmentCmd.label "Buka">
 <!ENTITY openAttachmentCmd.accesskey "B">
 <!ENTITY saveAsAttachmentCmd.label "Simpan dengan Nama…">

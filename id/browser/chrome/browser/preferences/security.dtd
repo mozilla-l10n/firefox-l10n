@@ -17,7 +17,3 @@
 <!ENTITY changeMasterPassword.accesskey "u">
 <!ENTITY savedPasswords.label "Kata Sandi Tersimpan…">
 <!ENTITY savedPasswords.accesskey "K">
-<!ENTITY warnings.label "Pesan Peringatan">
-<!ENTITY chooseWarnings.label "Pilih pesan peringatan apa saja yang ingin ditampilkan saat menjelajah web">
-<!ENTITY warningSettings.label "Pengaturan…">
-<!ENTITY warningSettings.accesskey "n">

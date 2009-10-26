@@ -68,11 +68,11 @@
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
-<!ENTITY viewToolbarsMenu.label "Toolbar">
+<!ENTITY viewToolbarsMenu.label "Bilah Alat">
 <!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY showAbToolbarCmd.label "Toolbar Buku Alamat">
-<!ENTITY showAbToolbarCmd.accesskey "o">
-<!ENTITY showTaskbarCmd.label "Bar Status">
+<!ENTITY showAbToolbarCmd.label "Bilah Alat Buku Alamat">
+<!ENTITY showAbToolbarCmd.accesskey "b">
+<!ENTITY showTaskbarCmd.label "Bilah Status">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Suka-suka…">
 <!ENTITY customizeToolbar.accesskey "S">

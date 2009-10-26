@@ -1,21 +1,11 @@
 <!ENTITY back.label            "Kembali">
-<!ENTITY back.tooltip          "Kembali">
 <!ENTITY forward.label         "Maju">
-<!ENTITY forward.tooltip       "Maju">
 <!ENTITY reload.label          "Muat Ulang">
-<!ENTITY reload.tooltip        "Muat Ulang">
 <!ENTITY stop.label            "Stop">
-<!ENTITY stop.tooltip          "Stop">
 <!ENTITY search.label          "Cari">
-<!ENTITY search.tooltip        "Cari">
 <!ENTITY go.label              "Buka">
-<!ENTITY go.tooltip            "Buka">
 <!ENTITY openLocation.label    "Buka lokasi">
-<!ENTITY openLocation.tooltip  "Buka lokasi">
 <!ENTITY star.label            "Bookmark">
-<!ENTITY star.tooltip          "Buat Bookmark untuk halaman ini">
-<!ENTITY bookmarks.label       "Bookmark">
-<!ENTITY bookmarks.tooltip     "Tampilkan bookmark">
 
 <!ENTITY newtab.label          "Tab Baru">
 <!ENTITY closetab.label        "Tutup Tab">
@@ -31,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Daftar Bookmark">
 <!ENTITY bookmarksManage.label     "Kelola">
-<!ENTITY foldersHeader.label       "Folder">
 
-<!ENTITY editBookmarkEdit.label    "Ubah">
-<!ENTITY editBookmarkMove.label    "Pindah">
+<!ENTITY editBookmarkRemove.label  "Hapus">
 <!ENTITY editBookmarkDone.label    "Selesai">
 <!ENTITY editBookmarkTags.label    "Tambah tag di sini">
 
@@ -43,35 +31,24 @@
 <!ENTITY helperApp.save            "Simpan">
 <!ENTITY helperApp.nothing         "Tidak ada">
 
-<!ENTITY findOnCmd.label     "Cari di Halaman Ini…">
-<!ENTITY findOnCmd.accesskey "C">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Cari Lagi">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
 <!ENTITY addonsHeader.label        "Pengaya">
 <!ENTITY addonsLocal.label         "Pengaya Anda">
+<!ENTITY addonsUpdate.label        "Perbarui">
 <!ENTITY addonsRepo.label          "Unduh Pengaya">
 <!ENTITY addonsRecommended.label   "Rekomendasi">
 <!ENTITY addonsSearch.label        "Cari">
-<!ENTITY addonsSearch.emptytext    "Cari semua pengaya">
+<!ENTITY addonsSearch2.emptytext   "Cari di Katalog">
+<!ENTITY addonsSearch.recommended  "Rekomendasi">
 
 <!ENTITY addonOptions.label        "Pengaturan">
 <!ENTITY addonEnable.label         "Aktifkan">
 <!ENTITY addonDisable.label        "Matikan">
-<!ENTITY addonInstall.label        "Pasang">
+<!ENTITY addonInstall2.label       "Pasang ke &brandShortName;">
 <!ENTITY addonUninstall.label      "Hapus">
 <!ENTITY addonCancel.label         "Batal">
 <!ENTITY addonShowPage.label       "Buka Beranda">
 
 <!ENTITY downloadsHeader.label     "Unduhan">
-<!ENTITY downloadsSortDate.label   "Tanggal">
-<!ENTITY downloadsSortSite.label   "Situs">
-<!ENTITY downloadsSortName.label   "Nama">
-<!ENTITY downloadsSearch.label     "Cari">
-<!ENTITY downloadsSearch.emptytext "Cari berkas yang telah diunduh">
 
 <!ENTITY downloadShowPage.label    "Buka Halaman">
 <!ENTITY downloadShow2.label       "Cari">
@@ -80,8 +57,17 @@
 <!ENTITY downloadPause.label       "Tunda">
 <!ENTITY downloadResume.label      "Lanjutkan">
 <!ENTITY downloadRetry.label       "Coba Lagi">
+<!ENTITY downloadRemove.label      "Hapus">
+<!ENTITY downloadFailed.label      "Gagal">
 
 <!ENTITY noResults.label           "Tidak ada hasil">
+<!ENTITY allBookmarks.label        "Tampilkan semua bookmark">
+
+<!ENTITY searchEngine.addSearch    "Tambah Mesin Pencarian:">
+
+<!ENTITY bookmarkPopup.label       "Bookmark halaman ini dibuat">
+<!ENTITY bookmarkRemove.label      "Hapus">
+<!ENTITY bookmarkEdit.label        "Sunting">
 
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
 <!ENTITY identity.connectedTo2 "Tersambung ke">

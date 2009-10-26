@@ -1,3 +1,4 @@
 <!ENTITY window.title             "Ringkasan Pesan">
 <!ENTITY selectedmessages.label   "Pesan Terpilih">
 <!ENTITY archive.label            "arsip">
+<!ENTITY delete.label             "hapus">

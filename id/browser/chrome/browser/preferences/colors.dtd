@@ -1,7 +1,7 @@
 <!ENTITY colorsDialog.title "Warna">
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
-<!ENTITY allowPagesToUse.label "Izinkan halaman memilih warna sendiri">
+<!ENTITY allowPagesToUse.label "Izinkan laman memilih warna sendiri">
 <!ENTITY allowPagesToUse.accesskey "I">
 <!ENTITY color "Teks dan Latar Belakang">
 <!ENTITY textColor.label "Teks:">

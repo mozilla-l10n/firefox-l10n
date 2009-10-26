@@ -58,7 +58,7 @@
 <!ENTITY propsCmd.accesskey "h">
 <!ENTITY mapviewMenu.label "Tampilan">
 <!ENTITY mapviewMenu.accesskey "T">
-<!ENTITY showhideTbarCmd.label "Sembunyikan Toolbar">
+<!ENTITY showhideTbarCmd.label "Sembunyikan Bilah Alat">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!ENTITY mapviewScale.label "Skala">
 <!ENTITY mapviewScale.accesskey "S">

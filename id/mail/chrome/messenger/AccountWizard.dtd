@@ -32,7 +32,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "Server pengirim (SMTP) yang sudah ada, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot; akan digunakan. Anda dapat mengubah pengaturan server pengirim dengan memilih Pengaturan Akun dari menu Alat.">
+<!ENTITY haveSmtp1.suffix2 "&quot; akan digunakan. Anda dapat mengubah server pengirim pada pengaturan akun.">
 <!ENTITY loginTitle.label "Nama Pengguna">
 <!ENTITY usernameDesc.label "Masukkan nama pengguna server penerima yang diberikan oleh penyedia layanan email Anda ">
 <!ENTITY usernameExample.label "(contohnya, &quot;budiputra&quot;).">
@@ -42,9 +42,9 @@
 <!ENTITY usernameSmtpLabel.label "Nama Pengguna Server Pengirim:">
 <!ENTITY usernameSmtpLabel.accesskey "P">
 <!ENTITY haveSmtp2.prefix "Nama pengguna server pengirim (SMTP) yang sudah ada &quot;">
-<!ENTITY haveSmtp2.suffix "&quot; akan digunakan. Anda dapat mengubah pengaturan server pengirim dengan memilih Pengaturan Akun dari menu Alat.">
+<!ENTITY haveSmtp2.suffix2 "&quot; akan digunakan. Anda dapat mengubah server pengirim pada pengaturan akun.">
 <!ENTITY haveSmtp3.prefix "Server pengirim (SMTP) Anda, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; sama dengan server penerima Anda, nama pengguna server penerima Anda akan digunakan untuk mengakses server ini. Anda dapat mengubah pengaturan server pengirim dengan memilih Pengaturan Akun dari menu Alat.">
+<!ENTITY haveSmtp3.suffix2 "&quot; sama dengan server penerima Anda, nama pengguna server penerima Anda akan digunakan untuk mengakses server ini. Anda dapat mengubah server pengirim pada pengaturan akun.">
 <!ENTITY accnameTitle.label "Nama Akun">
 <!ENTITY accnameDesc.label "Masukkan nama yang ingin Anda jadikan sebagai referensi akun ini (contohnya, &quot;Akun Kantor&quot;, &quot;Akun Pribadi&quot;, atau &quot;Akun News&quot;).">
 <!ENTITY accnameLabel.label "Nama Akun:">

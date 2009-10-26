@@ -2,13 +2,13 @@
 <!ENTITY startupPage.label "Saat memulai &brandShortName;:">
 <!ENTITY startupPage.accesskey "m">
 <!ENTITY startupHomePage.label "Tampilkan beranda">
-<!ENTITY startupBlankPage.label "Tampilkan halaman kosong">
+<!ENTITY startupBlankPage.label "Tampilkan laman kosong">
 <!ENTITY startupLastSession.label "Tampilkan jendela dan tab dari sesi sebelumnya">
 <!ENTITY location.label "Beranda:">
 <!ENTITY location.accesskey "b">
-<!ENTITY useCurrentPage.label "Gunakan Halaman sekarang">
+<!ENTITY useCurrentPage.label "Gunakan Laman Sekarang">
 <!ENTITY useCurrentPage.accesskey "h">
-<!ENTITY useMultiple.label "Gunakan Semua Halaman Berikut">
+<!ENTITY useMultiple.label "Gunakan Semua Laman Berikut">
 <!ENTITY useBookmark.label "Gunakan Bookmark">
 <!ENTITY useBookmark.accesskey "g">
 <!ENTITY restoreDefault.label "Kembalikan ke Default">

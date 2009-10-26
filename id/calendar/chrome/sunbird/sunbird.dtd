@@ -43,9 +43,9 @@
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label                   "Suka-suka…">
 <!ENTITY sunbird.context.customize.accesskey               "S">
-<!ENTITY sunbird.menu.customize.label                      "Toolbar Suka-suka…">
+<!ENTITY sunbird.menu.customize.label                      "Bilah Alat Suka-suka…">
 <!ENTITY sunbird.menu.customize.accesskey                  "T">
-<!ENTITY sunbird.maintoolbar.name                          "Toolbar Utama">
+<!ENTITY sunbird.maintoolbar.name                          "Bilah Alat Utama">
 <!ENTITY sunbird.maintoolbar.accesskey                     "U">
 
 <!-- Sunbird Help -->

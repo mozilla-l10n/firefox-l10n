@@ -13,7 +13,7 @@
 <!ENTITY generic.title "Tidak Dapat Menyelesaikan Permintaan">
 <!ENTITY generic.longDesc "<p>Informasi lanjut tentang masalah atau kesalahan tidak tersedia saat ini.</p>">
 <!ENTITY malformedURI.title "Alamat Salah">
-<!ENTITY malformedURI.longDesc "<p>Alamat yang diberikan tidak dalam format yang bisa dikenali program. Periksa ulang Bar Lokasi kemudian coba lagi.</p>">
+<!ENTITY malformedURI.longDesc "<p>Alamat yang diberikan tidak dalam format yang bisa dikenali program. Periksa ulang Bilah Lokasi kemudian coba lagi.</p>">
 <!ENTITY netInterrupt.title "Transfer Data Terganggu">
 <!ENTITY netInterrupt.longDesc "<p>Program peramban tersambung dengan sukses tetapi sambungan terganggu saat sedang mentransfer informasi. Silakan coba lagi.</p><ul><li>Apakah Anda tidak bisa menjelajah situs lain? Periksa sambungan jaringan komputer Anda.</li><li>Masih bermasalah? Tanyakan pada administrator jaringan Anda atau Penyedia Layanan Internet (Internet Service Provider).</li></ul>">
 <!ENTITY netOffline.title "Mode Luring">

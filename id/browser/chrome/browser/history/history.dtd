@@ -1,9 +1,9 @@
 <!ENTITY find.label "Cari:">
 <!ENTITY find.accesskey "C">
-<!ENTITY expand.label "Ekspansi">
-<!ENTITY expand.accesskey "E">
-<!ENTITY collapse.label "Rubuhkan">
-<!ENTITY collapse.accesskey "R">
+<!ENTITY expand.label "Bentangkan">
+<!ENTITY expand.accesskey "B">
+<!ENTITY collapse.label "Ciutkan">
+<!ENTITY collapse.accesskey "C">
 <!ENTITY byDate.label "Berdasarkan Tanggal">
 <!ENTITY byDate.accesskey "T">
 <!ENTITY bySite.label "Berdasarkan Situs">

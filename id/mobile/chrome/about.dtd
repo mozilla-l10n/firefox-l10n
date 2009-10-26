@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Tentang &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Layanan Dukungan">
+<!ENTITY aboutPage.privacyPolicy.label          "Kebijakan Privasi">
+<!ENTITY aboutPage.rights.label                 "Ketahui Hak Anda">
+<!ENTITY aboutPage.relNotes.label               "Catatan Rilis">
+<!ENTITY aboutPage.credits.label                "Kredit">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Kontributor. Hak cipta dilindungi undang-undang. (">
+<!ENTITY aboutPage.licenseLink                  "Informasi Lisensi">
+<!ENTITY aboutPage.copyrightInfo2               ").">
