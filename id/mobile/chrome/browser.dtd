@@ -26,6 +26,10 @@
 <!ENTITY editBookmarkDone.label    "Selesai">
 <!ENTITY editBookmarkTags.label    "Tambah tag di sini">
 
+<!ENTITY formHelper.previous       "Sebelumnya">
+<!ENTITY formHelper.next           "Lanjut">
+<!ENTITY formHelper.done           "Selesai">
+
 <!ENTITY helperApp.prompt          "Apa yang ingin Anda lakukan?">
 <!ENTITY helperApp.open            "Buka">
 <!ENTITY helperApp.save            "Simpan">
@@ -84,5 +88,3 @@
 <!ENTITY consoleErrFile.label      "Berkas Sumber:">
 <!ENTITY consoleErrLine.label      "Baris:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
-
-<!ENTITY selectListDone.label      "Selesai">
