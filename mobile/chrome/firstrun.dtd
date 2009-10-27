@@ -1,10 +1,8 @@
 <!ENTITY welcome.title "Bienvenido a &brandShortName;">
 <!ENTITY overview.description "Sincronice su ordenador y móvil con Weave. Personalice con complementos. Navegue con la barra de direcciones alucinante y muchas otras cosas más.">
-<!ENTITY nextSteps.title "Siguientes pasos">
 <!ENTITY sync.title "Sincronizar y ¡navegar!">
 <!ENTITY sync.description "Consiga Weave para ayudarle con &brandShortName;. Comparta sus preferencias, marcadores, historial de navegación y mucho más entre su móvil y su ordenador.">
-<!ENTITY sync.link "Conseguir el complemento Weave">
+<!ENTITY sync.linkLabel "Conseguir el complemento Weave">
 <!ENTITY getPersonal.title "Personalícelo">
 <!ENTITY getPersonal.description "Haga &brandShortName;suyo. Personalice el primer navegador que ofrece complementos para un dispositivo móvil.">
-<!ENTITY getPersonal.link "Consiga complementos para su móvil.">
-<!ENTITY skip.link "Salir de esto y navegar por la Web.">
+<!ENTITY getPersonal.linkLabel "Consigue complementos para tu móvil">
