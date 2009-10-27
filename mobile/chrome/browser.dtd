@@ -31,6 +31,10 @@
 <!ENTITY helperApp.save            "Bewarje">
 <!ENTITY helperApp.nothing         "Neat">
 
+<!ENTITY formHelper.previous       "Foarige">
+<!ENTITY formHelper.next           "Folgjende">
+<!ENTITY formHelper.done           "Dien">
+
 <!ENTITY addonsHeader.label        "Tafoegings">
 <!ENTITY addonsLocal.label         "Jo Tafoegings">
 <!ENTITY addonsUpdate.label        "Fernij">
@@ -63,20 +67,20 @@
 <!ENTITY noResults.label           "Gjin resultaten">
 <!ENTITY allBookmarks.label        "Besjoch alle blêdwizers">
 
-<!ENTITY searchEngine.addSearch     "Sykmasine tafoegje:">
+<!ENTITY searchEngine.addSearch    "Sykmasine tafoegje:">
 
 <!ENTITY bookmarkPopup.label       "Blêdwizer bewarre">
 <!ENTITY bookmarkRemove.label      "Fuortsmite">
 <!ENTITY bookmarkEdit.label        "Bewurkje">
 
-<!ENTITY identity.unverifiedsite2 "Dit webstee jout gjin identiteitsynformaasje.">
-<!ENTITY identity.connectedTo2 "Ferbûn mei">
+<!ENTITY identity.unverifiedsite2  "Dit webstee jout gjin identiteitsynformaasje.">
+<!ENTITY identity.connectedTo2 	   "Ferbûn mei">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "makke troch">
+<!ENTITY identity.runBy2 		   "makke troch">
 
 <!ENTITY consoleHeader.label       "Flaterkonsôle">
 <!ENTITY consoleAll.label          "Alles">
@@ -89,5 +93,3 @@
 <!ENTITY consoleErrFile.label      "Boarnebestân:">
 <!ENTITY consoleErrLine.label      "Rige:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
-
-<!ENTITY selectListDone.label      "Dien">
