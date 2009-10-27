@@ -1,18 +1,18 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS-abonneminten">
-<!ENTITY subscriptionDesc.label "Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikels dy't al ynladen binne.">
-<!ENTITY feedTitle.label "Titel:">
-<!ENTITY location.label "Lokaasje:">
+<!ENTITY feedSubscriptions.label		"Feed-abonneminten">
+<!ENTITY subscriptionDesc.label			"Opmerking: it fuortsmiten of feroarjen fan in feedmap hat gjin ynfloed op artikels dy't al ynladen binne.">
+<!ENTITY feedTitle.label				"Titel:">
+<!ENTITY location.label					"Lokaasje:">
 
-<!ENTITY button.addFeed.label "Tafoegje">
-<!ENTITY button.addFeed.accesskey "T">
-<!ENTITY button.editFeed.label "Bewurkje">
-<!ENTITY button.editFeed.accesskey "w">
-<!ENTITY button.removeFeed.label "Fuortsmite">
-<!ENTITY button.removeFeed.accesskey "F">
-<!ENTITY button.importOPML.label "Ymportearje">
-<!ENTITY button.importOPML.accesskey "Y">
-<!ENTITY button.exportOPML.label "Eksportearje">
-<!ENTITY button.exportOPML.accesskey   "k">
+<!ENTITY button.addFeed.label			"Tafoegje">
+<!ENTITY button.addFeed.accesskey		"T">
+<!ENTITY button.editFeed.label			"Bewurkje">
+<!ENTITY button.editFeed.accesskey		"w">
+<!ENTITY button.removeFeed.label		"Fuortsmite">
+<!ENTITY button.removeFeed.accesskey	"F">
+<!ENTITY button.importOPML.label		"Ymportearje">
+<!ENTITY button.importOPML.accesskey	"Y">
+<!ENTITY button.exportOPML.label		"Eksportearje">
+<!ENTITY button.exportOPML.accesskey	"k">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey			"w">

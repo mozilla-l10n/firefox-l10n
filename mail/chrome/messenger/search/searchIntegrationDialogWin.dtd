@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windows Sykje">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; Yntegraasje">
-<!ENTITY searchIntegration.description "Wolle jo graach &searchIntegration.engineName; ynskeakelje om &brandShortName; e-mail en nijsberjochten te indeksearjen en troch te sykjen?">
-
-<!ENTITY searchIntegration.accept "&searchIntegration.engineName; ynskeakelje">
-<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; net ynskeakelje">

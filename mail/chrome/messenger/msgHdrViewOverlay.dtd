@@ -35,42 +35,69 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "Oan ">
-<!ENTITY fromField2.label "Fan ">
-<!ENTITY senderField2.label "Ofstjoerder ">
-<!ENTITY organizationField2.label "Organisaasje ">
-<!ENTITY replyToField2.label "Antwurd-nei ">
+<!ENTITY toField2.label "aan ">
+<!ENTITY fromField2.label "van ">
+<!ENTITY senderField2.label "ôfstjoerder ">
+<!ENTITY organizationField2.label "organisaasje ">
+<!ENTITY replyToField2.label "antwurd-nei ">
 
-<!ENTITY subjectField2.label "Underwerp ">
+<!ENTITY subjectField2.label "ûnderwerp ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "Cc ">
-<!ENTITY bccField2.label "Bcc ">
-<!ENTITY newsgroupsField2.label "Nijsgroepen ">
-<!ENTITY followupToField2.label "Reaksjes-nei ">
-<!ENTITY tagsHdr2.label "Labels ">
-<!ENTITY dateField2.label "Datum ">
-<!ENTITY userAgentField2.label "Useragent ">
-<!ENTITY referencesField2.label "Referinsjes ">
-<!ENTITY messageIdField2.label "Message-ID ">
-<!ENTITY inReplyToField2.label "Yn-antwurd-op ">
-<!ENTITY originalWebsite2.label "Webstee ">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "nijsgroepen ">
+<!ENTITY followupToField2.label "reaksjes-nei ">
+<!ENTITY tagsHdr2.label "labels ">
+<!ENTITY dateField2.label "datum ">
+<!ENTITY userAgentField2.label "useragent ">
+<!ENTITY referencesField2.label "referinsjes ">
+<!ENTITY messageIdField2.label "message-ID ">
+<!ENTITY inReplyToField2.label "yn-antwurd-op ">
+<!ENTITY originalWebsite2.label "webstee ">
 
 <!ENTITY editMessageDescription.label "Dit is in berjochtkonsept">
 <!ENTITY editMessageButton.label "Bewurkje…">
-<!ENTITY archiveButton.label "argivearje">
-<!ENTITY hdrReplyButton.label "antwurdzje">
+<!ENTITY hdrArchiveButton.label "argivearje">
+<!ENTITY hdrArchiveButton.tooltip "argivearje dit berjocht">
+<!ENTITY hdrReplyButton.label "beantwurdzje">
+<!ENTITY hdrReplyButton.tooltip "beantwurdzje dit berjocht">
+<!ENTITY hdrReplyAllButton.label "elk beantwurdzje">
+<!ENTITY hdrReplyAllButton.tooltip "beantwurdzje nei ôfstjoerder en alle ûntfangers">
+<!ENTITY hdrReplyListButton.label "list beantwurdzje">
+<!ENTITY hdrReplyListButton.tooltip "beantwurdzje nei mailinglist">
 <!ENTITY hdrForwardButton.label "trochstjoere">
+<!ENTITY hdrForwardButton.tooltip "dit berjocht trochstjoere">
 <!ENTITY hdrJunkButton.label "net-winske">
-<!ENTITY trashButton.tooltiptext "fuortsmite">
+<!ENTITY hdrJunkButton.tooltip "markearje dit berjocht as net-winske">
+<!ENTITY hdrTrashButton.label "fuortsmite">
+<!ENTITY hdrTrashButton.tooltip "dit berjocht fuortsmite">
+
+<!ENTITY hdrViewToolbarShowFull.label "Toan ikoantsjes en tekst">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Toan allinnich ikoantsjes">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Toan allinnich tekst">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Altyd antwurd nei ôfstjoerder toane">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label "oare aksjes">
+<!ENTITY otherActionsShowConversation.label "toan yn petear">
+<!ENTITY otherActionsShowConversation.accesskey "p">
+<!ENTITY otherActionsOpenInNewWindow.label "Iepenje yn nij finster">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "f">
+<!ENTITY otherActionsOpenInNewTab.label "Iepenje yn nij ljepblêd">
+<!ENTITY otherActionsOpenInNewTab.accesskey "l">
+<!ENTITY markAsReadMenuItem.label "markearje as lêzen">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "markearje as net lêzen">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "bewarje as…">
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "boarne besjen…">
 <!ENTITY viewSourceMenuItem.accesskey "b">
-
-<!ENTITY hideDetailsButton.label "details ferbergje">
-<!ENTITY showDetailsButton.label "details toane">
+<!ENTITY otherActionsPrint.label "ôfdrukke…">
+<!ENTITY otherActionsPrint.accesskey "d">
 
 <!ENTITY openAttachmentCmd.label "Iepenje">
 <!ENTITY openAttachmentCmd.accesskey "I">

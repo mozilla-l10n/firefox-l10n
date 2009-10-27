@@ -43,9 +43,9 @@
 <!ENTITY newGroupsTab.label           "Nije groepen">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Fernije">
-<!ENTITY refreshButton.accesskey      "V">
+<!ENTITY refreshButton.accesskey      "F">
 <!ENTITY stopButton.label             "Ophâlde">
-<!ENTITY stopButton.accesskey         "S">
+<!ENTITY stopButton.accesskey         "O">
 <!ENTITY server.label                 "Account:">
 <!ENTITY server.accesskey             "A">
 <!ENTITY subscribedHeader.label       "Abonnearje">

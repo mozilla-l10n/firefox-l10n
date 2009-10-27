@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label "RSS-accountynstellings">
+<!ENTITY accountTitle.label				"Accountynstellings">
 
-<!ENTITY biffStart.label "Op nije artikelen kontrolearje nei hieltyd">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minuten">
+<!ENTITY biffStart.label				"Op nije artikels kontrolearje nei hieltyd">
+<!ENTITY biffStart.accesskey			"k">
+<!ENTITY biffEnd.label					"minuten">
 
-<!ENTITY loginAtStartup.label "Op nije artikelen kontrolearje by opstarten">
-<!ENTITY loginAtStartup.accesskey "o">
+<!ENTITY loginAtStartup.label			"Op nije artikels kontrolearje by opstarten">
+<!ENTITY loginAtStartup.accesskey		"o">
 
-<!ENTITY useQuickMode.label "Standert de artikelgearfetting werjaan y.s.f. de webside te laden">
-<!ENTITY useQuickMode.accesskey "S">
+<!ENTITY useQuickMode.label				"Standert de artikelgearfetting werjaan y.s.f. de webside te laden">
+<!ENTITY useQuickMode.accesskey			"S">
 
-<!ENTITY manageSubscriptions.label "Abonneminten behearje…">
-<!ENTITY manageSubscriptions.accesskey "b">
+<!ENTITY manageSubscriptions.label		"Abonneminten beheare…">
+<!ENTITY manageSubscriptions.accesskey	"b">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Nijs &amp; Blogs">
-<!ENTITY rss.wizardShortName        "RSS">
-<!ENTITY rss.wizardLongName         "RSS-nijs &amp; -blogs">
-<!ENTITY rss.wizardLongName.accesskey "R">                                      
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName				"Blogs &amp; Nijsfeeds">
+<!ENTITY feeds.wizardShortName			"Feeds">
+<!ENTITY feeds.wizardLongName			"Blogs &amp; Nijsfeeds">
+<!ENTITY feeds.wizardLongName.accesskey	"f">                                      

@@ -1,10 +1,10 @@
-<!ENTITY notificationsDialog2.title       "Waarschuwing bij nieuwe e-mail aanpassen">
+<!ENTITY notificationsDialog2.title       "Warskôging by nije e-mail oanpasse">
 <!ENTITY window.width                     "34em">
 
-<!ENTITY alertCustomization.intro         "Kies welke velden worden getoond in de waarschuwingsnotificatie:">
-<!ENTITY previewText.label                "Voorbeeldweergavetekst">
-<!ENTITY previewText.accesskey            "V">
-<!ENTITY subject.label                    "Onderwerp">
-<!ENTITY subject.accesskey                "O">
-<!ENTITY sender.label                     "Afzender">
-<!ENTITY sender.accesskey                 "A">
+<!ENTITY alertCustomization.intro         "Kies hokker fjilden toand wurde yn de warskôgingsnotifikaasje:">
+<!ENTITY previewText.label                "Foarbyldwerjeftetekst">
+<!ENTITY previewText.accesskey            "F">
+<!ENTITY subject.label                    "Underwerp">
+<!ENTITY subject.accesskey                "U">
+<!ENTITY sender.label                     "Ofstjoerder">
+<!ENTITY sender.accesskey                 "O">

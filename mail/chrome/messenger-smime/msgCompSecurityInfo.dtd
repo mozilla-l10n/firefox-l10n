@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Berjochtbefeiliging">
-<!ENTITY subject.plaintextWarning "Pas op: ûnderwerpen fan e-mailberjochten wurde noait fersifere.">
+<!ENTITY subject.plaintextWarning "Tink derom: ûnderwerpen fan e-mailberjochten wurde noait fersifere.">
 <!ENTITY status.heading "De ynhâld fan jo berjocht sil sa ferstjoerd wurde:">
 <!ENTITY status.signed "Digitaal ûndertekene:">
 <!ENTITY status.encrypted "Kodearre:">

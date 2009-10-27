@@ -6,11 +6,13 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             		"Berjochtyndeksearder ynskeakelje">
-<!ENTITY enableGloda.accesskey         		"y">
-<!ENTITY systemDefaults.label              	"Standertwearden systeem">
-<!ENTITY alwaysCheckDefault.label          	"Altyd by it opstarten kontrolearje of &brandShortName; de standert e-mailclient is">
-<!ENTITY alwaysCheckDefault.accesskey      	"k">
+<!ENTITY enableGlodaSearch.label            "Globaal sykje en yndeksearder ynskeakelje">
+<!ENTITY enableGlodaSearch.accesskey        "y">
+<!ENTITY systemIntegration.label			"Systeemyntegraasje">
+<!ENTITY alwaysCheckDefault.label          	"By it opstarten altyd neigean oft &brandShortName; de standert e-mailclient is">
+<!ENTITY alwaysCheckDefault.accesskey      	"c">
+<!ENTITY searchIntegration.label			"Lit &searchIntegration.engineName; troch berjochten sykje">
+<!ENTITY searchIntegration.accesskey		"S">
 <!ENTITY checkNow.label             		"No kontrolearje">
 <!ENTITY checkNow.accesskey         		"N">
 <!ENTITY configEditDesc.label          		"Wiidweidige konfiguraasje">
@@ -37,10 +39,14 @@
 <!ENTITY markAsReadDelay.accesskey        	"N">
 <!ENTITY secondsLabel.label               	"sekonden">
 <!ENTITY openMsgIn.label               		"Nije berjochten iepenje yn:">
+<!ENTITY openMsgInNewTab.label         "in nij ljepblêd">
+<!ENTITY openMsgInNewTab.accesskey     "l">
 <!ENTITY reuseExpRadio0.label          		"In nij berjochtefinster">
 <!ENTITY reuseExpRadio0.accesskey      		"i">
 <!ENTITY reuseExpRadio1.label          		"In besteand berjochtefinster">
 <!ENTITY reuseExpRadio1.accesskey      		"a">
+<!ENTITY closeMsgWindowOnDelete.label		"Slút berjochtskerm nei it fuortsmiten">
+<!ENTITY closeMsgWindowOnDelete.accesskey	"S">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                	"Automatysk kontrolearje op fernijings foar:">
@@ -86,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         	"N">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "As in tsjinner freget om myn persoanlike sertifikaat:">
+<!ENTITY certs.auto                      "Selektearje automatysk ien">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Freegje my altyd">
+<!ENTITY certs.ask.accesskey             "a">
+
 <!ENTITY viewCertificates.label         	"Toan sertifikaten">
 <!ENTITY viewCertificates.accesskey     	"S">
 <!ENTITY viewCRLs.label                 	"Ynlûklisten">

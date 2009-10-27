@@ -1,11 +1,11 @@
 <!ENTITY dialog.title                 "Ferstjoeropsjes">
 <!ENTITY sendMail.title               "Tekstopmaak">
-<!ENTITY sendMaildesc.label           "As in berjocht yn HTML-opmaak ferstjoerd wurdt en fan ien of mear ûntfangers is net bekend of se HTML ûntfange kinne:">
+<!ENTITY sendMaildesc.label           "As in berjocht yn HTML-opmaak ferstjoerd wurdt en fan ien of mear ûntfangers is net bekend oft se HTML ûntfange kinne:">
 <!ENTITY askMe.label                  "My freegje wat te dwaan">
 <!ENTITY askMe.accesskey              "f">
-<!ENTITY convertPlain.label           "Berjocht konfertearje nei platte tekst">
+<!ENTITY convertPlain.label           "Berjocht konvertearje nei platte tekst">
 <!ENTITY convertPlain.accesskey       "k">
-<!ENTITY sendHTML.label               "Berjocht toch as HTML ferstjoere">
+<!ENTITY sendHTML.label               "Berjocht dochs as HTML ferstjoere">
 <!ENTITY sendHTML.accesskey           "H">
 <!ENTITY sendBoth.label               "Berjocht as platte tekst en HTML ferstjoere">
 <!ENTITY sendBoth.accesskey           "e">

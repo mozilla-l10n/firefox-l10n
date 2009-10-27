@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Befeiliging">
-<!ENTITY securityMenu.accesskey "f">
-
 <!ENTITY menu_securityEncryptRequire.label "Berjocht fersiferje">
 <!ENTITY menu_securityEncryptRequire.accesskey "f">
-
-<!ENTITY menu_securityNoEncryption.label "Berjocht net fersiferje">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Berjocht digitaal ûndertekenje">
 <!ENTITY menu_securitySign.accesskey "d">

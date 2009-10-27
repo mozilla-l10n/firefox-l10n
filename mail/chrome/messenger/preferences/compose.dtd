@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Berjochten trochstjoere:">
 <!ENTITY forwardMsg.accesskey                 "t">
 <!ENTITY inline.label                         "Yn it berjocht">
-<!ENTITY inline.accesskey                     "Y">
 <!ENTITY asAttachment.label                   "As bylage">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "Ekstinsje oan bestânsnamme tafoegje">
 <!ENTITY addExtension.accesskey               "t">
 
@@ -20,7 +18,7 @@
 <!ENTITY fontColor.accesskey                  "k">
 <!ENTITY bgColor.label                        "Achtergrûnkleur:">
 <!ENTITY bgColor.accesskey                    "A">
-<!ENTITY restoreHTMLDefaults.label            "Standertwearden werstelle">
+<!ENTITY restoreHTMLDefaults.label            "Standertwearden tebeksette">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
 
 <!ENTITY spellCheck.label                     "Stavering kontrolearje foar it ferstjoeren">
@@ -46,9 +44,14 @@
 <!ENTITY directories.label                     "Directorytsjinner:">
 <!ENTITY directories.accesskey                 "y">
 <!ENTITY directoriesNone.label                 "Gjin">
-<!ENTITY editDirectories.label                 "Directory’s bewurkje…">
+<!ENTITY editDirectories.label                 "Directorys bewurkje…">
 <!ENTITY editDirectories.accesskey             "w">
 
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrach konfigurearje">
 <!ENTITY sendOptions.label                     "Ferstjoeropsjes…">
 <!ENTITY sendOptions.accesskey                 "F">
+
+<!ENTITY attachmentReminder.label              "Kontrolearje op fergetten bylagen">
+<!ENTITY attachmentReminder.accesskey          "f">
+<!ENTITY attachmentReminderOptions.label       "Kaaiwurden…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

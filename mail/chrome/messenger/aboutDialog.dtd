@@ -1,10 +1,19 @@
-<!ENTITY aboutDialog.title      "Oer &brandFullName;">
-<!ENTITY credits.label          "Meiwurkers">
-<!ENTITY credits.accesskey      "M">
-<!ENTITY aboutLink.label        "&lt; Oer &brandFullName;">
-<!ENTITY aboutLink.accesskey    "O">
-<!ENTITY aboutVersion           "Ferzje">
-<!ENTITY copyrightText          "&#169;1998-2008 Meiwurkers. Alle rjochten foarbehâlden. Mozilla Thunderbird en de 
-                                 Thunderbird-logo’s binne hannelsmerken fan de Mozilla Foundation.  Alle rjochten 
-                                 foarbehâlden.">
-<!ENTITY cmdCloseMac.commandKey "w">
+<!ENTITY aboutDialog.title      	"Oer &brandFullName;">
+<!ENTITY aboutButton.label      	"&lt; Tebek">
+<!ENTITY aboutButton.accesskey  	"T">
+<!ENTITY aboutVersion           	"ferzje">
+<!ENTITY copyrightText          	"&#169;1998-2009 Meiwurkers. Alle rjochten foarbehâlden. Mozilla Thunderbird en de 
+                                 	Thunderbird-logo’s binne hannelsmerken fan de Mozilla Foundation.  Alle rjochten 
+                                 	foarbehâlden.">
+<!ENTITY aboutMenu.label        	"Oer">
+<!ENTITY aboutMenu.accesskey    	"O">
+<!ENTITY aboutCredits.label     	"Credits">
+<!ENTITY aboutCredits.accesskey 	"C">
+<!ENTITY aboutRights.label      	"Jo rjochten">
+<!ENTITY aboutRights.accesskey  	"r">
+<!ENTITY aboutContributors.label 	"Meiwurkers">
+<!ENTITY aboutContributors.accesskey "e">
+<!ENTITY aboutLicense.label      	"Lisinsje">
+<!ENTITY aboutLicense.accesskey  	"L">
+
+<!ENTITY cmdCloseMac.commandKey 	"w">

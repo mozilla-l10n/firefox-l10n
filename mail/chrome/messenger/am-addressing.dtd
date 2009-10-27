@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "ûnder de sitearre tekst (oanret)">
 <!ENTITY aboveText.label                      "ûnder myn antwurd (boppe de sitearre tekst)">
+<!ENTITY includeSigOnReply.label              "Undertekening brûke by it antwurdzjen">
+<!ENTITY includeSigOnReply.accesskey          "U">
+<!ENTITY includeSigOnForward.label            "Undertekening brûke by it trochstjoeren">
+<!ENTITY includeSigOnForward.accesskey        "t">

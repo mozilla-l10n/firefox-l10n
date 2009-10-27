@@ -13,7 +13,7 @@
 <!ENTITY newContact.label "Adresboekkontakt…">
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Bylage">
-<!ENTITY attachMenu.accesskey "T">
+<!ENTITY attachMenu.accesskey "y">
 <!ENTITY attachFileCmd.label "Bestân(nen)…">
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachPageCmd.label "Webstee…">
@@ -66,9 +66,10 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Op 'e nij rjochtsje">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "l">
+<!ENTITY editRewrapCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Fuortsmite">
 <!ENTITY deleteCmd.accesskey "F">
 <!ENTITY selectAllCmd.label "Alles selektearje">
@@ -162,7 +163,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Accountynstellings…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "i">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "I">
 <!ENTITY delete.label "Fuortsmite">
 <!ENTITY delete.accesskey "F">
+<!ENTITY removeAttachment.label "Bylage fuorthelje">
+<!ENTITY removeAttachment.accesskey "f">
 <!ENTITY renameAttachment.label "Omneame…">
 <!ENTITY renameAttachment.accesskey "O">
 <!ENTITY selectAll.label "Alles selektearje">
