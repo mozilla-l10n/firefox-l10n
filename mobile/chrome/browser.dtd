@@ -31,10 +31,14 @@
 <!ENTITY helperApp.save            "Guardar">
 <!ENTITY helperApp.nothing         "Nada">
 
+<!ENTITY formHelper.previous       "Anterioe">
+<!ENTITY formHelper.next           "Seguinte">
+<!ENTITY formHelper.done           "Feito">
+
 <!ENTITY addonsHeader.label        "Extras">
 <!ENTITY addonsLocal.label         "Os seus extras">
-<!ENTITY addonsRepo.label          "Obter extras">
 <!ENTITY addonsUpdate.label        "Actualizar">
+<!ENTITY addonsRepo.label          "Obter extras">
 <!ENTITY addonsRecommended.label   "Ver recomendados">
 <!ENTITY addonsSearch.label        "Pesquisar">
 <!ENTITY addonsSearch2.emptytext   "Pesquisar catálogo">
@@ -57,8 +61,8 @@
 <!ENTITY downloadPause.label       "Pausa">
 <!ENTITY downloadResume.label      "Resumir">
 <!ENTITY downloadRetry.label       "Tentar novamente">
-<!ENTITY downloadRemove.label "Eliminar">
-<!ENTITY downloadFailed.label "Falhou">
+<!ENTITY downloadRemove.label      "Eliminar">
+<!ENTITY downloadFailed.label      "Falhou">
 
 <!ENTITY noResults.label           "Sem resultados">
 <!ENTITY allBookmarks.label        "Ver todos os marcadores">
@@ -89,4 +93,3 @@
 <!ENTITY consoleErrFile.label      "Ficheiro fonte:">
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
-
