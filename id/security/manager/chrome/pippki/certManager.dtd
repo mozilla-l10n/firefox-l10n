@@ -86,10 +86,8 @@
 <!ENTITY certmgr.deleteusercert.aftername "Begitu Anda menghapus sertifikat ini, Anda tidak lagi bisa membaca email yang terenkripsi dengannya.">
 <!ENTITY certmgr.certname "Nama Sertifikat">
 <!ENTITY certmgr.certserver "Server">
-<!ENTITY certmgr.typesofoverrides "Pengecualian">
 <!ENTITY certmgr.override_lifetime "Umur">
 <!ENTITY certmgr.tokenname "Perangkat Keamanan">
-<!ENTITY certmgr.purpose "Penggunaan">
 <!ENTITY certmgr.issued "Diterbitkan Pada">
 <!ENTITY certmgr.expires "Kedaluwarsa Pada">
 <!ENTITY certmgr.email "Alamat Email">
