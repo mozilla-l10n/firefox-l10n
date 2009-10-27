@@ -1,0 +1,4 @@
+<!ENTITY appManager.title     "Applikaasje details">
+<!ENTITY appManager.style     "breedte: 30em; min-hichte: 20em;">
+<!ENTITY remove.label         "Fuortsmite">
+<!ENTITY remove.accesskey     "F">
