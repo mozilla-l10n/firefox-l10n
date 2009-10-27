@@ -1,0 +1,75 @@
+<!ENTITY autoconfigWizard.title          "E-mailaccount ynstelle">
+<!ENTITY name.label                		 "Jo namme">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Foarnamme Efternamme">
+<!ENTITY name.text                       "Jo namme, as toant oan oaren">
+<!ENTITY email.label                     "E-mailadres:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@foarbyld.nl">
+<!ENTITY password.label                  "Wachtwurd:">
+<!ENTITY password.accesskey              "W">
+<!ENTITY password.emptytext              "Wachtwurd">
+<!ENTITY password.text                   "Opsjoneel, sil allinnich brûkt wurde om de brûkersnamme te falidearjen">
+
+<!ENTITY accountInformation.label        "Accountynformaasje">
+<!ENTITY username2.label                 "Brûkersnamme:">
+<!ENTITY incoming.label		  			 "Ynkommend:">
+<!ENTITY outgoing.label             	 "Utgeand:">
+<!ENTITY noEncryption.label              "Gjin">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Hânmjittich ynstelle…">
+<!ENTITY manualSetup.accesskey           "H">
+<!ENTITY cancel.label                    "Annulearje">
+<!ENTITY cancel.accesskey                "A">
+<!ENTITY continue.label                  "Fierder">
+<!ENTITY continue.accesskey              "F">
+<!ENTITY startOver.label                 "Opnij">
+<!ENTITY startOver.accesskey             "O">
+<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Konfiguraasje op 'e nij teste">
+<!ENTITY retest.accesskey                "K">
+<!ENTITY edit.label                      "Bewurkje">
+<!ENTITY edit.accesskey                  "B">
+
+<!ENTITY rememberPassword.label          "Wachtwurd ûnthâlde">
+<!ENTITY rememberPassword.accesskey      "a">
+
+<!ENTITY warning.label                   "Warskôging!">
+<!ENTITY incomingSettings.label          "Ynkommende ynstellings:">
+<!ENTITY outgoingSettings.label          "Utgeande ynstellings:">
+<!ENTITY technicaldetails.label          "Technyske details">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Ik begryp it risiko.">
+<!ENTITY confirmWarning.accesskey        "b">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Meitsje Account">
+<!ENTITY createAccount.accesskey         "M">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Wizigje ynstellings">
+<!ENTITY changeSettings.accesskey        "W">
+
+<!ENTITY contactYourProvider.description "&brandShortName; kin jo tastean om jo e-mail te krijen mei dizze konfiguraasjes. Mar, jo soene kontakt opnimme moatte mei de administrator of e-mailprovider oer dizze ferkearde ferbinings. Sjoch de Thunderbird FAQ foar mear ynformaasje.">
+
+<!ENTITY insecureServer.tooltip.title    "Warskôging! Dit is in ûnfeilige tsjinner.">
+<!ENTITY insecureServer.tooltip.details  "Klik sirkel foar mear details.">
+
+<!ENTITY insecureUnencrypted.description "Jo e-mail en autentikaasje wurde net-fersifere ferstjoerd, dus jo wachtwurd (en jo berjocht) kin maklik lêzen wurde troch oare minsken. &brandShortName; sil jo jo e-mail ophelje, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilige ferbining.">
+<!ENTITY insecureSelfSigned.description  "De tsjinner brûkt in sertifikaat dy't wy net fertrouwe kinne, dus wy binne net wis oft ien it ferkear tusken &brandShortName; en jo tsjinner besiket te ûnderskeppen. &brandShortName; sil jo jo e-mail ophelje litte, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilich sertifikaat.">
+<!ENTITY secureServer.description        "Lokwinske! Dit is in feilige tsjinner.">

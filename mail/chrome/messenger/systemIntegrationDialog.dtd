@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Systeemyntegraasje">
+<!ENTITY defaultClient.intro  "&brandShortName; as de standertclient brûke foar:">
+
+<!ENTITY email.label "E-mail">
+<!ENTITY newsgroups.label "Nijsgroepen">
+<!ENTITY feeds.label "Feeds">
+
+<!ENTITY checkOnStartup.label "Dizze kontrole altyd útfiere by it starten fan &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "D">
+
+<!ENTITY searchIntegration.label "Lit &searchIntegration.engineName; troch berjochten sykje">
+<!ENTITY searchIntegration.accesskey "S">
