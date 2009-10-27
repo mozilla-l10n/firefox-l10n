@@ -1,10 +1,9 @@
 <!ENTITY welcome.title "Bienvenue dans &brandShortName;">
 <!ENTITY overview.description "Synchronisez votre PC et votre téléphone portable avec Weave. Personnalisez-le avec des modules complémentaires. Naviguez avec la barre intelligente, et bien plus encore.">
-<!ENTITY nextSteps.title "Étapes suivantes">
 <!ENTITY sync.title "Lancez-vous">
 <!ENTITY sync.description "Obtenez Weave pour vous aider à transformer votre &brandShortName;. Partagez vos préférences, marque-pages, historique de navigation et bien plus encore entre votre ordinateur et votre téléphone portable.">
-<!ENTITY sync.link "Obtenir le module complémentaire Weave">
+<!ENTITY sync.linkLabel "Obtenir le module complémentaire Weave">
 <!ENTITY getPersonal.title "Personnaliser">
 <!ENTITY getPersonal.description "&brandShortName; à votre image. Personnalisez le premier navigateur à offrir des modules complémentaires pour téléphone portable.">
-<!ENTITY getPersonal.link "Obtenir des modules complémentaires pour votre téléphone portable.">
-<!ENTITY skip.link "Ignorer tout ceci et naviguer sur le Web.">
+<!ENTITY getPersonal.linkLabel "Obtenir des modules complémentaires pour votre téléphone portable.">
+
