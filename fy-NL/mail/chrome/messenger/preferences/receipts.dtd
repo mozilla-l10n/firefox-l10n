@@ -2,9 +2,9 @@
 <!ENTITY requestReceipt.label "Altyd in lêsbefestiging freegje by it ferstjoeren fan berjochten">
 <!ENTITY requestReceipt.accesskey "t">
 <!ENTITY receiptArrive.label "As in lêsbefestiging oankomt:">
-<!ENTITY leaveIt.label "Dizze yn myn Postfek YN stean litte">
+<!ENTITY leaveIt.label "Dy yn myn Postfek YN stean litte">
 <!ENTITY leaveIt.accesskey "l">
-<!ENTITY moveToSent.label "Dizze nei myn map &quot;Ferstjoerd&quot; ferpleatse">
+<!ENTITY moveToSent.label "Dy nei myn map &quot;Ferstjoerd&quot; ferpleatse">
 <!ENTITY moveToSent.accesskey "f">
 <!ENTITY requestMDN.label "As in fersyk foar in lêsbefestiging oankomt:">
 <!ENTITY never.label "Noait in lêsbefestiging stjoere">

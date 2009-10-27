@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Lettertypen foar:">
 <!ENTITY  language.accesskey                      "L">
 
-<!ENTITY  sizes.label                             "Grutte (piksels)">
+<!ENTITY  size.label                              "Grutte">
 <!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  monospaceSize.accesskey                 "e">
+<!ENTITY  sizeMono.accesskey                      "e">
 
 <!ENTITY  proportional.label                      "Proporsjoneel:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -33,14 +33,14 @@
 <!ENTITY  font.langGroup.turkish                  "Turks">
 <!ENTITY  font.langGroup.unicode                  "Onre talen">
 <!ENTITY  font.langGroup.user-def                 "Troch brûker definiearre">
-<!ENTITY  font.langGroup.thai                     "Thaisk">
-<!ENTITY  font.langGroup.hebrew                   "Hebreeuwsk">
+<!ENTITY  font.langGroup.thai                     "Taisk">
+<!ENTITY  font.langGroup.hebrew                   "Hebrieusk">
 <!ENTITY  font.langGroup.arabic                   "Arabysk">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armeensk">
 <!ENTITY  font.langGroup.bengali                  "Bengaalsk">
-<!ENTITY  font.langGroup.canadian                 "Ferienigd Kanadeesk lettergreepskrift">
+<!ENTITY  font.langGroup.canadian                 "Ferienige Kanadeesk lettergreepskrift">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopysk">
 <!ENTITY  font.langGroup.georgian                 "Georgysk">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
@@ -57,7 +57,11 @@
 <!ENTITY  useDefaultFontSerif.label               "Mei skreef">
 <!ENTITY  useDefaultFontSansSerif.label           "Skreefleas">
 
-<!ENTITY  useDocumentFonts.label                  "Berjochten tastean om oanre lettertypen te brûken">
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Lettertype ynstellings">
+<!ENTITY  useFixedWidthForPlainText.label         "Brûk fêstebreedtelettertype foar platte tekstberjochten">
+<!ENTITY  fixedWidth.accesskey                    "f">
+<!ENTITY  useDocumentFonts.label                  "Berjochten tastean om oare lettertypen te brûken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
 <!-- Language settings -->

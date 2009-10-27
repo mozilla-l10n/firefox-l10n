@@ -15,14 +15,9 @@
 <!ENTITY color.label                      "Kleur:">
 <!ENTITY color.accesskey                  "K">
 <!ENTITY displayWidth.label               "Platte-tekstberjochten">
-<!ENTITY plainText.label                  "It folgjende lettertype brûke:">
-<!ENTITY displayText.label                "Sitearde tekst yn platte-tekstberjochten werjaan as:">
-<!ENTITY fixedWidth.label                 "Fêste-breedte-lettertype">
-<!ENTITY fixedWidth.accesskey             "F">
-<!ENTITY variableWidth.label              "Fariabele-breedte-lettertype">
-<!ENTITY variableWidth.accesskey          "r">
+<!ENTITY displayText.label                "Sitearre tekst yn platte-tekstberjochten werjaan as:">
 <!ENTITY colors.label                     "Kleuren">
-<!ENTITY overrideColors.label             "By it werjaan fan berjochten de folgjende kleuren brûken:">
+<!ENTITY overrideColors.label             "By it werjaan fan berjochten de folgjende kleuren brûke:">
 <!ENTITY textColor.label                  "Tekstkleur:">
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Achtergrûnkleur:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey        "s">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "De lettertypen en tekensets konfigurearje dy't brûkt wurde troch &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Lettertypen &amp; tekensets">
-<!ENTITY fontOptions.accesskey            "L">
-<!ENTITY fontOptions.label                "Lettertypen...">
+<!ENTITY fontsAndColors.label    "Lettertypen">
+<!ENTITY defaultFont.label       "Standertlettertype:">
+<!ENTITY defaultFont.accesskey   "S">
+<!ENTITY defaultSize.label       "Grutte:">
+<!ENTITY defaultSize.accesskey   "G">
+<!ENTITY fontOptions.label       "Avansearre…">
+<!ENTITY fontOptions.accesskey   "s">

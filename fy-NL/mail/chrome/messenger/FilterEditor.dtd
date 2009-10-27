@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Kontrolearjen fan E-mail">
 <!ENTITY contextManual.label "Hânmjittich aktivearjen">
 <!ENTITY contextBoth.label "Kontrolearjen fan E-mail of hânmjittich aktivearjen">
+<!ENTITY contextPostPlugin.label "Kontrolearjen fan E-mail (nei klassifikaasje)">
+<!ENTITY contextPostPluginBoth.label "Kontrolearjen fan E-mail (nei klassifikaasje) of hânmjittich aktivearjen">
 <!ENTITY filterActionDesc.label "Dizze aksjes útfiere:">
 <!ENTITY filterActionDesc.accesskey "f">
 

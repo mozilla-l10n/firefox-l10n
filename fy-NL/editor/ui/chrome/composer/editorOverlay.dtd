@@ -54,9 +54,9 @@
 <!ENTITY openRemoteCmd.label "Ynternetlokaasje iepenje">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Resinte sides">
+<!ENTITY fileRecentMenu.label "Resinte siden">
 <!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Tebekgean">
+<!ENTITY fileRevert.label "Tebek gean">
 <!ENTITY fileRevert.accesskey "T">
 <!ENTITY saveCmd.label "Bewarje">
 <!ENTITY saveCmd.accesskey "w">
@@ -96,14 +96,9 @@
 <!ENTITY pasteAs.accesskey "P">
 <!ENTITY publishSettings.label "Publikaasjewebstee-ynstellings...">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteAsQuotationCmd.label "Plakke als sitaat">
+<!ENTITY pasteAsQuotationCmd.label "Plakke as sitaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Sykje en ferfange...">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "f">
@@ -116,7 +111,7 @@
 <!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY enableInlineSpellChecker.label "Stavering kontrolearje tiidens typen">
+<!ENTITY enableInlineSpellChecker.label "Stavering kontrolearje by typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Stavering kontrolearje">
 <!ENTITY checkSpellingCmd2.accesskey "k">
@@ -134,7 +129,7 @@
 <!ENTITY insertAnchorCmd.accesskey "n">
 <!ENTITY insertImageCmd.label "Ofbylding...">
 <!ENTITY insertImageCmd.accesskey "O">
-<!ENTITY insertHLineCmd.label "Horisontale line">
+<!ENTITY insertHLineCmd.label "Horizontale line">
 <!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabel...">
 <!ENTITY insertTableCmd.accesskey "T">
@@ -168,7 +163,7 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Fuortsmite">
 <!ENTITY deleteCmd.accesskey "F">
-<!ENTITY clearCmd.label "Wisse">
+<!ENTITY clearCmd.label "Wiskje">
 <!ENTITY clearCmd.accesskey "W">
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -222,23 +217,23 @@
 <!ENTITY styleBoldCmd.label "Fet">
 <!ENTITY styleBoldCmd.accesskey "F">
 <!ENTITY styleBoldCmd.key "b">
-<!ENTITY styleItalicCmd.label "Kursief">
+<!ENTITY styleItalicCmd.label "Kursyf">
 <!ENTITY styleItalicCmd.accesskey "K">
 <!ENTITY styleItalicCmd.key "i">
 <!ENTITY styleUnderlineCmd.label "Understreekje">
 <!ENTITY styleUnderlineCmd.accesskey "U">
 <!ENTITY styleUnderlineCmd.key "u">
 <!ENTITY styleStrikeThruCmd.label "Trochstreekje">
-<!ENTITY styleStrikeThruCmd.accesskey "D">
+<!ENTITY styleStrikeThruCmd.accesskey "T">
 <!ENTITY styleSuperscriptCmd.label "Superskript">
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subskript">
 <!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "Gjin tebekrin">
 <!ENTITY styleNonbreakingCmd.accesskey "t">
-<!ENTITY styleEm.label "Beneidrukke">
+<!ENTITY styleEm.label "Klam jaan">
 <!ENTITY styleEm.accesskey "n">
-<!ENTITY styleStrong.label "Sterker beneidrukke">
+<!ENTITY styleStrong.label "Mear klam jaan">
 <!ENTITY styleStrong.accesskey "k">
 <!ENTITY styleCite.label "Sitaat">
 <!ENTITY styleCite.accesskey "i">
@@ -255,7 +250,7 @@
 
 <!ENTITY formatFontColor.label "Tekstkleur...">
 <!ENTITY formatFontColor.accesskey "K">
-<!ENTITY tableOrCellColor.label "Tabel- of selachtergrûnkleur...">
+<!ENTITY tableOrCellColor.label "Tabel- of seleftergrûnkleur...">
 <!ENTITY tableOrCellColor.accesskey "T">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -317,7 +312,7 @@
 <!ENTITY alignLeft.tooltip "Links útlynje">
 <!ENTITY alignCenter.label "Midden">
 <!ENTITY alignCenter.accesskey "M">
-<!ENTITY alignCenter.tooltip "Yn it midden útlynje">
+<!ENTITY alignCenter.tooltip "Sintrearje">
 <!ENTITY alignRight.label "Rjochts">
 <!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "Rjochts útlynje">
@@ -330,10 +325,10 @@
 <!ENTITY layerSendToBack.tooltip "Nei achteren bringe">
 <!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
-<!ENTITY increaseIndent.label "Ynspringing fergrutsje">
+<!ENTITY increaseIndent.label "Ynspringen fergrutsje">
 <!ENTITY increaseIndent.accesskey "n">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "Ynspringing ferlytse">
+<!ENTITY decreaseIndent.label "Ynspringen ferlytse">
 <!ENTITY decreaseIndent.accesskey "r">
 <!ENTITY decreaseIndent.key "[">
 
@@ -342,7 +337,7 @@
 
 <!ENTITY pageProperties.label "Sidetitel en -eigenskippen...">
 <!ENTITY pageProperties.accesskey "P">
-<!ENTITY colorsAndBackground.label "Sidekleuren en achtergrûn...">
+<!ENTITY colorsAndBackground.label "Sidekleuren en eftergrûn...">
 <!ENTITY colorsAndBackground.accesskey "h">
 
 <!-- Table Menu -->
@@ -376,7 +371,7 @@
 <!ENTITY tableColumn.accesskey "K">
 <!ENTITY tableColumnBefore.label "Kolom dêrfoar">
 <!ENTITY tableColumnBefore.accesskey "o">
-<!ENTITY tableColumnAfter.label "Kolom dêrachter">
+<!ENTITY tableColumnAfter.label "Kolom dêrefter">
 <!ENTITY tableColumnAfter.accesskey "e">
 <!ENTITY tableCell.label "Sel">
 <!ENTITY tableCells.label "Sel(len)">
@@ -385,9 +380,9 @@
 <!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Alle sellen">
 <!ENTITY tableAllCells.accesskey "A">
-<!ENTITY tableCellBefore.label "Sel dêrroar">
+<!ENTITY tableCellBefore.label "Sel dêrfoar">
 <!ENTITY tableCellBefore.accesskey "S">
-<!ENTITY tableCellAfter.label "Sel dêrachter">
+<!ENTITY tableCellAfter.label "Sel dêrefter">
 <!ENTITY tableCellAfter.accesskey "a">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Fuortsmite">
@@ -427,17 +422,17 @@
 <!ENTITY imageToolbarCmd.label "Ofbylding">
 <!ENTITY imageToolbarCmd.tooltip "Nije ôfbylding ynfoegje of eigenskippen fan selektearre ôfbylding oanpasse">
 <!ENTITY hruleToolbarCmd.label "H.line">
-<!ENTITY hruleToolbarCmd.tooltip "Horisontale line ynfoegje of eigenskippen fan selektearre line oanpasse">
+<!ENTITY hruleToolbarCmd.tooltip "Horizontale line ynfoegje of eigenskippen fan selektearre line oanpasse">
 <!ENTITY tableToolbarCmd.label "Tabel">
 <!ENTITY tableToolbarCmd.tooltip "Nije tabel ynfoegje of eigenskippen fan selektearre tabel oanpasse">
 <!ENTITY linkToolbarCmd.label "Keppeling">
-<!ENTITY linkToolbarCmd.tooltip "Nije koppeling ynfoegje of eigenskippen fan selektearre keppeling oanpasse">
+<!ENTITY linkToolbarCmd.tooltip "Nije keppeling ynfoegje of eigenskippen fan selektearre keppeling oanpasse">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Nije ankerferwizing ynfoegje of eigenskippen fan selektearre ankerferwizing oanpasse">
 <!ENTITY TextColorButton.tooltip "Tekstkleur kieze">
-<!ENTITY BackgroundColorButton.tooltip "Achtergrûnkleur kieze">
+<!ENTITY BackgroundColorButton.tooltip "Eftergrûnkleur kieze">
 <!ENTITY throbber.tooltip "Gean nei de thússide fan &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Markearingskleur foar tekst kieze">
+<!ENTITY HighlightColorButton.tooltip "Markearringskleur foar tekst kieze">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Lytsere lettergrutte">
@@ -447,20 +442,20 @@
 <!ENTITY underlineToolbarCmd.tooltip "Understreekje">
 <!ENTITY bulletListToolbarCmd.tooltip "List mei opsommingstekens">
 <!ENTITY numberListToolbarCmd.tooltip "List mei nûmering">
-<!ENTITY outdentToolbarCmd.tooltip "Ynspringing ferlytse">
-<!ENTITY indentToolbarCmd.tooltip "Ynspringing fergrutsje">
+<!ENTITY outdentToolbarCmd.tooltip "Ynspringen ferlytse">
+<!ENTITY indentToolbarCmd.tooltip "Ynspringen fergrutsje">
 <!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
-<!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horisontale line of tabel ynfoegje">
-<!ENTITY alignLeftButton.tooltip "Tekst útlynje lâns de linkermarge">
+<!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horizontale line of tabel ynfoegje">
+<!ENTITY alignLeftButton.tooltip "Tekst by de linkermarge lâns">
 <!ENTITY alignCenterButton.tooltip "Tekst útlynje yn it midden">
-<!ENTITY alignRightButton.tooltip "Tekst útlynje lâns de rjochtermarge">
-<!ENTITY alignjustifyButton.tooltip "Tekst útlynje lâns de linker- en rjochtermarge">
+<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarge lâns">
+<!ENTITY alignjustifyButton.tooltip "Tekst by de linker- en rjochtermarge lâns">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">
 <!ENTITY NormalMode.label "Normale bewurkingsmoadus">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Tabelrannen en ankerferwizings toane">
+<!ENTITY NormalMode.tooltip "Tabelrânen en ankerferwizings toane">
 <!ENTITY AllTagsMode.label "HTML-koades">
 <!ENTITY AllTagsMode.accesskey "k">
 <!ENTITY AllTagsMode.tooltip "Piktogrammen werjaan foar alle HTML-koades">
@@ -472,7 +467,7 @@
 <!ENTITY HTMLSourceMode.tooltip "HTML-boarne bewurkje">
 <!ENTITY PreviewMode.label "Foarbyld">
 <!ENTITY PreviewMode.accesskey "F">
-<!ENTITY PreviewMode.tooltip "As WYSIWYG toane (as yn de browser)">
+<!ENTITY PreviewMode.tooltip "As WJSIWJK toane (as yn de browser)">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
      Use latin "ltr" if you want the <html> image to left of the 
@@ -485,9 +480,9 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selektearje">
 <!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Tag fuortsmite">
-<!ENTITY structRemoveTag.accesskey  "v">
-<!ENTITY structChangeTag.label      "Tag wizigje">
+<!ENTITY structRemoveTag.label      "Label fuortsmite">
+<!ENTITY structRemoveTag.accesskey  "f">
+<!ENTITY structChangeTag.label      "Label wizigje">
 <!ENTITY structChangeTag.accesskey  "w">
 
 <!-- TOC manipulation -->

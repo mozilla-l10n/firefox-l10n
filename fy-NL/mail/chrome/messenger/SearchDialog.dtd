@@ -2,7 +2,9 @@
 <!ENTITY searchHeading.label         "Berjochten sykje yn:">
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Yn submappen sykje">
-<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY searchSubfolders.accesskey  "Y">
+<!ENTITY searchOnServer.label        "Sykje op tsjinner">
+<!ENTITY searchOnServer.accesskey    "t">
 <!ENTITY resetButton.label           "Wiskje">
 <!ENTITY resetButton.accesskey       "W">
 <!ENTITY openButton.label            "Iepenje">
@@ -16,10 +18,10 @@
 <!ENTITY fileButton.label            "Bewarje yn">
 <!ENTITY fileButton.accesskey        "w">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Berjochtemap iepenje">
-<!ENTITY goToFolderButton.accesskey  "B">
+<!ENTITY openInFolder.label          "Iepenje yn map">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Bewarje as sykmap">
-<!ENTITY saveAsVFButton.accesskey    "m">
+<!ENTITY saveAsVFButton.accesskey    "s">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Adressen sykje yn:">

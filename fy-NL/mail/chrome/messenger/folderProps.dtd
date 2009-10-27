@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Gearfettingsbestân fernije">      
 
 <!ENTITY retention.label "Behâldbelied">
-<!ENTITY retentionUseDefault.label  "Tsjinnerstandert brûke">
-<!ENTITY retentionUseDefault.accesskey "r">
+<!ENTITY retentionUseAccount.label  "Brûk myn accountynstellings">
+<!ENTITY retentionUseAccount.accesskey "r">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
 <!ENTITY retentionCleanup.label "Om skiifromte frij te meitsjen, kinne âlde berjochten foargoed fuortsmiten wurde">
@@ -61,14 +61,14 @@
 <!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Gjin berjochten fuortsmite">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label "Alle berjochten fuortsmite, útsein de lêste">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Lêzen berjochten altyd fuortsmite">
-<!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY retentionKeepRecent.label "Alle fuortsmite, útsein de lêste">
+<!ENTITY retentionKeepRecent.accesskey "a">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Lêzen berjochten altyd fuortsmite (negearret leeftydsynstellings)">
 <!ENTITY retentionApplyToFlagged.label "Berjochten mei stjer altyd bewarje">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
+<!ENTITY folderSynchronizationTab.label          "Syngronisaasje">
 <!ENTITY folderCheckForNewMessages.label         "Dizze map op nije berjochten kontrolearje">
 <!ENTITY folderCheckForNewMessages.accesskey     "k">
 

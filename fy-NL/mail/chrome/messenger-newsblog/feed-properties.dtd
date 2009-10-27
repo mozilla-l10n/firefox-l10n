@@ -1,7 +1,7 @@
 <!-- Feed Properties Dialog -->
 <!ENTITY window.title "Eigenskippen fan de nijsfeed">
 
-<!ENTITY feedFolder.label "Feedartikelen bewarje yn:">
+<!ENTITY feedFolder.label "Feedartikels bewarje yn:">
 <!ENTITY feedFolder.accesskey "s">
 
 <!ENTITY feedLocation.label "Feed-URL:">

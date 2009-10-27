@@ -48,8 +48,6 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "S">
 
-<!ENTITY closeWindow.label "Finster slute">
-
 <!ENTITY quitApplicationCmd.label "Ofslute">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "O">

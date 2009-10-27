@@ -3,7 +3,7 @@
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Lokaasje:">
 <!ENTITY location1.accesskey              "L">
-<!ENTITY useDefault.label                 "Standertynstelling werstelle">
+<!ENTITY useDefault.label                 "Standertynstelling tebeksette">
 <!ENTITY useDefault.accesskey             "S">
 
 <!ENTITY bounceSystemDockIcon.label       "It systeemfakpiktogram animearje">
@@ -29,7 +29,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY addonsMgr.label                  "Tafoegings">
-<!ENTITY manageAddonsDescWin.label        "Wizich opsjes foar jo tafoegings">
-<!ENTITY manageAddonsDescUnix2.label      "Wizich foarkarren foar jo tafoegings">
+<!ENTITY manageAddonsDescWin.label        "Wizigje opsjes foar jo tafoegings">
+<!ENTITY manageAddonsDescUnix2.label      "Wizigje foarkarren foar jo tafoegings">
 <!ENTITY manageAddons.label               "Behear tafoegings…">
 <!ENTITY manageAddons.accesskey           "B">

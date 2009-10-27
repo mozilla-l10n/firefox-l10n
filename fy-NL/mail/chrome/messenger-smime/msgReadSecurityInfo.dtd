@@ -2,7 +2,7 @@
 
 <!ENTITY status.label "Berjochtbefeiliging">
 <!ENTITY signatureCert.label "Besjoch ûndertekeningssertifikaat">
-<!ENTITY encryptionCert.label "Bekijk fersiferingssertifikaat">
+<!ENTITY encryptionCert.label "Besjoch fersiferingssertifikaat">
 
 <!ENTITY signer.name "Undertekene troch:">
 <!ENTITY recipient.name "Fersifere foar:">

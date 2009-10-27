@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "Standertclient">
-<!ENTITY defaultClient.intro  "&brandShortName; as de standertclient brûke foar:">
-
-<!ENTITY email.label "E-mail">
-<!ENTITY newsgroups.label "Nijsgroepen">
-<!ENTITY rss.label "RSS-feeds">
-
-<!ENTITY checkOnStartup.label "Dizze kontrole altyd útfiere by it starten fan &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "D">

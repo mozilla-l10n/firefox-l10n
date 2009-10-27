@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "n">
 <!ENTITY organization.label "Organisaasje:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Dizze ûndertekening ynfoegje:">
-<!ENTITY signature.accesskey "D">
+<!ENTITY signatureText.label "Undertekeningstekst:">
+<!ENTITY signatureText.accesskey "k">
+<!ENTITY signatureHtml.label "Brûk HTML (byg., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Brûk yn stee dêrfan de ûndertekening út in bestân (tekst, HTML, of ôfbylding):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Bewurkje…">
 <!ENTITY choose.label "Kieze…">
 <!ENTITY choose.accesskey "K">
