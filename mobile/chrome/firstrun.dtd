@@ -1,10 +1,8 @@
 ﻿<!ENTITY welcome.title                      "Bem vindo ao &brandShortName;">
 <!ENTITY overview.description               "Sincronize o seu PC e telemóvel com o Weave. Personalize os seus extras. Navegue com a barra fantástica e muito, muito mais.">
-<!ENTITY nextSteps.title                    "Passos seguintes">
 <!ENTITY sync.title                         "Acorde e vá">
 <!ENTITY sync.description                   "Obtenha o Weave para o ajudar com o seu &brandShortName;. Partilhe as suas preferências, marcadores, histórico de navegação, e mais entre o seu PC e o telemóvel.">
-<!ENTITY sync.link                          "Obtenha o extra Weave">
+<!ENTITY sync.linkLabel                     "Obtenha o extra Weave">
 <!ENTITY getPersonal.title                  "Seja pessoal">
 <!ENTITY getPersonal.description            "Torne o &brandShortName; seu. Customize the first ever browser to offer add-ons for mobile.">
-<!ENTITY getPersonal.link                   "Obtenha extras para o seu telemóvel.">
-<!ENTITY skip.link                          "Saltar tudo e navegar na web.">
+<!ENTITY getPersonal.linkLabel              "Obtenha extras para o seu telemóvel.">
