@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname 					  "Sertifikaatnamme">
 <!ENTITY certmgr.certserver                   "Tsjinner">
-<!ENTITY certmgr.typesofoverrides             "Utsûnderings">
 <!ENTITY certmgr.override_lifetime            "Libbensdoer">
 <!ENTITY certmgr.tokenname 					  "Befeiligingsapparaat">
-<!ENTITY certmgr.purpose 					  "Doeleinen">
 <!ENTITY certmgr.issued 					  "Utjûn op">
 <!ENTITY certmgr.expires 					  "Ferrint op">
 <!ENTITY certmgr.email 						  "E-mailadres">
