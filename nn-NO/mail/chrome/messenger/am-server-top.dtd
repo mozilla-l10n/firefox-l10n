@@ -18,7 +18,7 @@
 <!ENTITY biffStart.label "Sjå etter nye meldingar kvart">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minutt">
-<!ENTITY connectionSecurity.label "Tilkoplings-sikkerheit:">
+<!ENTITY connectionSecurity.label "Tilkoplingssikkerheit:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Ingen">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, om tilgjengeleg">
@@ -46,8 +46,8 @@
 <!ENTITY modelDeleteImmediately.label "Fjern med ein gong">
 <!ENTITY modelDeleteImmediately.accesskey "n">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Tøm («Expunge») innboksen ved avslutting">
-<!ENTITY expungeOnExit.accesskey "T">
+<!ENTITY expungeOnExit.label "Tøm (slett) innboksen ved avslutting">
+<!ENTITY expungeOnExit.accesskey "a">
 <!ENTITY emptyTrashOnExit.label "Tøm søppelkassa ved avslutting">
 <!ENTITY emptyTrashOnExit.accesskey "ø">
 <!ENTITY loginAtStartup.label "Sjå etter nye meldingar ved oppstart">
