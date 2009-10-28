@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "证书名称">
 <!ENTITY certmgr.certserver                   "服务器">
-<!ENTITY certmgr.typesofoverrides             "例外">
 <!ENTITY certmgr.override_lifetime            "生命周期">
 <!ENTITY certmgr.tokenname                    "安全设备">
-<!ENTITY certmgr.purpose                      "目的">
 <!ENTITY certmgr.issued                       "签发日期">
 <!ENTITY certmgr.expires                      "过期时间">
 <!ENTITY certmgr.email                        "电子邮件地址">
