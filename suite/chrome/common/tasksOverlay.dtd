@@ -21,7 +21,7 @@
 <!ENTITY webDevelopment.accesskey "w">
 
 <!ENTITY windowMenu.label "Okno">
-<!ENTITY windowMenu.accesskey "K">
+<!ENTITY windowMenu.accesskey "k">
 
 <!ENTITY tasksMenu.label "Nástroje">
 <!ENTITY tasksMenu.accesskey "N">
@@ -37,6 +37,7 @@
 
 <!ENTITY downloadManagerCmd.label "Správce stahování">
 <!ENTITY downloadManagerCmd.accesskey "S">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Správce doplňků">
 <!ENTITY addonsManagerCmd.accesskey "d">

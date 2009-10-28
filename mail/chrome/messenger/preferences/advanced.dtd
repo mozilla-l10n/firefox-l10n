@@ -7,20 +7,20 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label "Povolit globální hledání a indexaci">
-<!ENTITY enableGlodaSearch.accesskey "P">
+<!ENTITY enableGlodaSearch.accesskey "g">
 <!ENTITY systemIntegration.label "Nastavení systému">
 <!ENTITY alwaysCheckDefault.label "Při startu aplikace &brandShortName; kontrolovat, zda je výchozím poštovním klientem">
-<!ENTITY alwaysCheckDefault.accesskey "t">
+<!ENTITY alwaysCheckDefault.accesskey "s">
 <!ENTITY searchIntegration.label "Povolit službě &searchIntegration.engineName; prohledávat zprávy">
-<!ENTITY searchIntegration.accesskey "P">
+<!ENTITY searchIntegration.accesskey "v">
 <!ENTITY checkNow.label "Zkontrolovat">
-<!ENTITY checkNow.accesskey "n">
+<!ENTITY checkNow.accesskey "Z">
 <!ENTITY configEditDesc.label "Rozšířená konfigurace">
 <!ENTITY configEdit.label "Editor předvoleb…">
 <!ENTITY configEdit.accesskey "E">
 <!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
 <!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
-<!ENTITY showReturnReceipts.accesskey "v">
+<!ENTITY showReturnReceipts.accesskey "P">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption "Čtení">
@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey "m">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description "Pokud server vyžaduje osobní certifikát:">
+<!ENTITY certs.auto "Zvolit automaticky">
+<!ENTITY certs.auto.accesskey "a">
+<!ENTITY certs.ask "Vždy se dotázat">
+<!ENTITY certs.ask.accesskey "d">
+
 <!ENTITY viewCertificates.label "Certifikáty…">
 <!ENTITY viewCertificates.accesskey "C">
 <!ENTITY viewCRLs.label "Zneplatnění…">

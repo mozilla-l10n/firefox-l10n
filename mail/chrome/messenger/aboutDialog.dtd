@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title "O aplikaci &brandShortName;">
-<!ENTITY credits.label "Autoři">
-<!ENTITY credits.accesskey "A">
 <!ENTITY aboutButton.label "&lt; Zpět">
 <!ENTITY aboutButton.accesskey "Z">
 <!ENTITY aboutVersion "verze">
@@ -9,9 +7,13 @@
 
 <!ENTITY aboutMenu.label "O aplikaci">
 <!ENTITY aboutMenu.accesskey "O">
+<!ENTITY aboutCredits.label "Autoři">
+<!ENTITY aboutCredits.accesskey "A">
 <!ENTITY aboutRights.label "Vaše práva">
 <!ENTITY aboutRights.accesskey "V">
 <!ENTITY aboutContributors.label "Přispěvatelé">
 <!ENTITY aboutContributors.accesskey "P">
+<!ENTITY aboutLicense.label "Licence">
+<!ENTITY aboutLicense.accesskey "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

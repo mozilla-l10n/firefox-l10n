@@ -17,13 +17,15 @@
 <!ENTITY contextIncoming.label "kontrole pošty">
 <!ENTITY contextManual.label "manuálním spuštění">
 <!ENTITY contextBoth.label "kontrole pošty a manuálním spuštění">
+<!ENTITY contextPostPlugin.label "kontrole pošty po klasifikaci">
+<!ENTITY contextPostPluginBoth.label "kontrole pošty po klasifikaci a manuálním spuštění">
 <!ENTITY filterActionDesc.label "Provést akci:">
 <!ENTITY filterActionDesc.accesskey "a">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Přesunout zprávu do složky">
 <!ENTITY copyMessage.label "Kopírovat zprávu do složky">
-<!ENTITY forwardTo.label "Přeposlat na:">
+<!ENTITY forwardTo.label "Přeposlat na">
 <!ENTITY replyWithTemplate.label "Odpovědět pomocí šablony">
 <!ENTITY markMessageRead.label "Označit jako přečtené">
 <!ENTITY markMessageStarred.label "Přidat hvězdičku">

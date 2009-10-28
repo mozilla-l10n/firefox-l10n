@@ -57,19 +57,47 @@
 
 <!ENTITY editMessageDescription.label "Tato zpráva je koncept">
 <!ENTITY editMessageButton.label "Upravit…">
-<!ENTITY archiveButton.label "archivovat">
+<!ENTITY hdrArchiveButton.label "archivovat">
+<!ENTITY hdrArchiveButton.tooltip "archivuje tuto zprávu">
 <!ENTITY hdrReplyButton.label "odpovědět">
+<!ENTITY hdrReplyButton.tooltip "odpoví na tuto zprávu">
 <!ENTITY hdrReplyAllButton.label "odpovědět všem">
+<!ENTITY hdrReplyAllButton.tooltip "odpoví odesílateli a všem příjemcům">
 <!ENTITY hdrReplyListButton.label "odpovědět do konference">
+<!ENTITY hdrReplyListButton.tooltip "odpoví do e-mailové konference">
 <!ENTITY hdrForwardButton.label "přeposlat">
+<!ENTITY hdrForwardButton.tooltip "přepošle tuto zprávu">
 <!ENTITY hdrJunkButton.label "nevyžádaná pošta">
-<!ENTITY trashButton.tooltiptext "smazat">
+<!ENTITY hdrJunkButton.tooltip "označí tuto zprávu jako nevyžádaná">
+<!ENTITY hdrTrashButton.label "smazat">
+<!ENTITY hdrTrashButton.tooltip "smaže tuto zprávu">
+
+<!ENTITY hdrViewToolbarShowFull.label "Zobrazit ikony a text">
+<!ENTITY hdrViewToolbarShowFull.accesskey "Z">
+<!ENTITY hdrViewToolbarShowIcons.label "Zobrazit pouze ikony">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Zobrazit pouze text">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Vždy zobrazit Odpovědět odesílateli">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
 <!ENTITY otherActionsButton.label "další akce">
+<!ENTITY otherActionsShowConversation.label "zobrazit jako rozhovor">
+<!ENTITY otherActionsShowConversation.accesskey "r">
+<!ENTITY otherActionsOpenInNewWindow.label "otevřít v novém okně">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "o">
+<!ENTITY otherActionsOpenInNewTab.label "otevřít v panelu">
+<!ENTITY otherActionsOpenInNewTab.accesskey "p">
+<!ENTITY markAsReadMenuItem.label "označit jako přečtená">
+<!ENTITY markAsReadMenuItem.accesskey "z">
+<!ENTITY markAsUnreadMenuItem.label "označit jako nepřečtená">
+<!ENTITY markAsUnreadMenuItem.accesskey "z">
 <!ENTITY saveAsMenuItem.label "uložit jako…">
 <!ENTITY saveAsMenuItem.accesskey "u">
 <!ENTITY viewSourceMenuItem.label "zobrazit zdrojový kód…">
-<!ENTITY viewSourceMenuItem.accesskey "z">
+<!ENTITY viewSourceMenuItem.accesskey "k">
+<!ENTITY otherActionsPrint.label "tisknout">
+<!ENTITY otherActionsPrint.accesskey "t">
 
 <!ENTITY openAttachmentCmd.label "Otevřít">
 <!ENTITY openAttachmentCmd.accesskey "O">

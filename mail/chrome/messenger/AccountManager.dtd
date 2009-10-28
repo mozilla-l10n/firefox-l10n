@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Nastavení účtu">
 
-<!ENTITY addAccountButton.label "Přidat účet…">
-<!ENTITY addAccountButton.accesskey "P">
+<!ENTITY accountActionsButton.label "Akce účtu">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Přidat poštovní účet…">
+<!ENTITY addMailAccountButton.accesskey "p">
+<!ENTITY addOtherAccountButton.label "Přidat jiný účet…">
+<!ENTITY addOtherAccountButton.accesskey "j">
 <!ENTITY setDefaultButton.label "Nastavit jako výchozí">
 <!ENTITY setDefaultButton.accesskey "N">
 <!ENTITY removeButton.label "Odebrat účet">

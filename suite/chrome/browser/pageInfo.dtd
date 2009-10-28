@@ -46,6 +46,7 @@
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Vybrat vše">
 <!ENTITY selectall.accesskey "a">
+<!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "Obecné">
@@ -77,7 +78,7 @@
 <!ENTITY formCValue "Současná hodnota">
 
 <!ENTITY linksTab "Odkazy">
-<!ENTITY linksTab.accesskey "L">
+<!ENTITY linksTab.accesskey "d">
 <!ENTITY linkNo "Č.">
 <!ENTITY linkName "Název">
 <!ENTITY linkAddress "Adresa">

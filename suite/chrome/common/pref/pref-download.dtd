@@ -18,6 +18,13 @@
 <!ENTITY alwaysAsk.label "Vždy se dotázat, kam uložit soubory">
 <!ENTITY alwaysAsk.accesskey "V">
 
+<!ENTITY downloadRetention.label "Uchování stahování">
+<!ENTITY removeDownloads.label "Odebrat stahování">
+<!ENTITY removeDownloads.accesskey "O">
+<!ENTITY whenCompleted.label "Po jeho dokončení">
+<!ENTITY whenQuittingApp.label "Při ukončení aplikace &brandShortName;">
+<!ENTITY neverRemove.label "Nikdy">
+
 <!ENTITY finishedBehavior.label "Když se dokončí stahování">
 <!ENTITY playSound.label "Přehrát zvukový soubor">
 <!ENTITY playSound.accesskey "h">

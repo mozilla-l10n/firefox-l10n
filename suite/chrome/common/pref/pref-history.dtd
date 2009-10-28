@@ -2,19 +2,26 @@
 
 <!ENTITY pref.history.caption "Historie prohlížení">
 <!ENTITY historyPages.label "Historie je seznam navštívených stránek.">
-<!ENTITY  expireDaysMin1.label "Vždy si pamatovat navštívené stránky nejméně">
-<!ENTITY  expireDaysMin1.accesskey "V">
-<!ENTITY  expireDaysMin2.label "dnů">
-<!ENTITY  expireDays1.label "Pamatovat si navštívené stránky až">
-<!ENTITY  expireDays1.accesskey "P">
-<!ENTITY  expireDays2.label "dnů">
-<!ENTITY  expireSites1.label "Pamatovat si až">
-<!ENTITY  expireSites1.accesskey "a">
-<!ENTITY  expireSites2.label "navštívených stránek">
+<!ENTITY expireDaysMin1.label "Vždy si pamatovat navštívené stránky nejméně">
+<!ENTITY expireDaysMin1.accesskey "V">
+<!ENTITY expireDaysMin2.label "dnů">
+<!ENTITY expireDays1.label "Pamatovat si navštívené stránky až">
+<!ENTITY expireDays1.accesskey "P">
+<!ENTITY expireDays2.label "dnů">
+<!ENTITY expireSites1.label "Pamatovat si až">
+<!ENTITY expireSites1.accesskey "a">
+<!ENTITY expireSites2.label "navštívených stránek">
 <!ENTITY clearHistory.label "Smazat historii">
-<!ENTITY clearHistory.accesskey "m">
+<!ENTITY clearHistory.accesskey "h">
 
 <!ENTITY locationBarHistory.caption "Historie adresního řádku">
 <!ENTITY clearLocationBar.label "Smazat seznam uložených webů v adresním řádku.">
 <!ENTITY clearLocationBarButton.label "Smazat historii adres">
-<!ENTITY clearLocationBarButton.accesskey "d">
+<!ENTITY clearLocationBarButton.accesskey "a">
+<!ENTITY formfillHistory.caption "Historie formulářů a hledání">
+<!ENTITY enableFormfill.label "Povolit historii formulářů a hledání">
+<!ENTITY enableFormfill.accesskey "v">
+<!ENTITY formfillExpire.label "Pamatovat si historii formulářů a hledání až">
+<!ENTITY formfillExpire.accesskey "m">
+<!ENTITY formfillDays.label "dnů">
+

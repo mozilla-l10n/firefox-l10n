@@ -35,13 +35,13 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.mailnews.title "Pošta a Diskusní skupiny">
+<!ENTITY pref.mailnews.title "Pošta a diskusní skupiny">
 <!ENTITY generalSettings.caption "Obecné nastavení">
 <!ENTITY confirmMove.label "Potvrzovat přesun složek do koše">
 <!ENTITY confirmMove.accesskey "V">
 <!ENTITY preserveThreading.label "Při seřazování zpráv uchovávat vlákna">
 <!ENTITY preserveThreading.accesskey "t">
-<!ENTITY mailBiffOnNewWindow.label "Kontrolovat na nové zprávy pouze při spuštění Pošty a Diskusních skupiny">
+<!ENTITY mailBiffOnNewWindow.label "Kontrolovat na nové zprávy pouze při spuštění pošty a diskusních skupin">
 <!ENTITY mailBiffOnNewWindow.accesskey "K">
 
 <!ENTITY defaultMailSettings.description "Použít aplikaci &brandShortName; jako výchozí program pro:">

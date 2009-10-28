@@ -47,6 +47,6 @@
 
 <!ENTITY availableProfiles.label "Dostupné profily">
 
-<!ENTITY introStart.label "To access your personal profile, which contains your stored messages, settings and other personalized information, please choose your profile from the list, and click &start.label; to begin your session.">
-<!ENTITY introSwitch.label "To switch to another profile, which contains stored messages, settings and other personalized information, please choose that profile from the list, and click &select.label; to begin using that profile.">
-<!ENTITY profileManagerText.label "&brandShortName; stores information about your settings, preferences, bookmarks, stored messages and other user items in your user profile.">
+<!ENTITY introStart.label "Pro zahájení relace s profilem, který obsahuje vaše nastavení, uložené zprávy a další osobní informace, zvolte jeho název ze seznamu a klepněte na tlačítko &start.label;.">
+<!ENTITY introSwitch.label "Pro přepnutí relace na jiný profil, který obsahuje vaše nastavení, uložené zprávy a další osobní informace, zvolte jeho název ze seznamu a klepněte na tlačítko &start.label;.">
+<!ENTITY profileManagerText.label "&brandShortName; ukládá informace o vašem nastavení, předvolbách, záložkách, uložených zpráv a ostatní osobní data do vašeho osobního profilu.">

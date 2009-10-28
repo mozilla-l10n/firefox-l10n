@@ -39,6 +39,12 @@
 <!ENTITY col.timeelapsed.label "Uplynulý čas">
 <!ENTITY col.timeelapsed.accesskey "U">
 <!ENTITY col.timeelapsed.tooltip "Uplynulý čas">
+<!ENTITY col.starttime.label "Čas začátku">
+<!ENTITY col.starttime.accesskey "a">
+<!ENTITY col.starttime.tooltip "Čas začátku">
+<!ENTITY col.endtime.label "Čas konce">
+<!ENTITY col.endtime.accesskey "k">
+<!ENTITY col.endtime.tooltip "Čas konce">
 <!ENTITY col.progresstext.label "&#37;">
 <!ENTITY col.progresstext.accesskey "&#37;">
 <!ENTITY col.progresstext.tooltip "Průběh (&#37;)">
@@ -76,3 +82,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "e">
 <!ENTITY cmd.copyDownloadLink.label "Kopírovat stahovaný odkaz">
 <!ENTITY cmd.copyDownloadLink.accesskey "K">
+<!ENTITY cmd.properties.label "Vlastnosti…">
+<!ENTITY cmd.properties.accesskey "V">

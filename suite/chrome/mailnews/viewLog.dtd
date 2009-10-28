@@ -1,8 +1,8 @@
-<!ENTITY viewLog.title "Log pro filtry">
-<!ENTITY viewLogInfo.text "Log pro filtr je soubor, který dokumentuje, které filtry byly spuštěny. Logování můžete povolit zaškrtnutím volby níže.">
-<!ENTITY clearLog.label "Vyčistit log">
-<!ENTITY clearLog.accesskey "V">
-<!ENTITY enableLog.label "Povolit log pro filtry">
+<!ENTITY viewLog.title "Žurnál filtrů">
+<!ENTITY viewLogInfo.text "Žurnál filtrů dokumentuje, které filtry byly spuštěny. Žurnálování můžete povolit zaškrtnutím volby níže.">
+<!ENTITY clearLog.label "Smazat žurnál">
+<!ENTITY clearLog.accesskey "m">
+<!ENTITY enableLog.label "Povolit žurnál filtrů">
 <!ENTITY enableLog.accesskey "P">
 <!ENTITY closeLog.label "Zavřít">
 <!ENTITY closeLog.accesskey "z">

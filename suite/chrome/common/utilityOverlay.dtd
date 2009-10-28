@@ -87,7 +87,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
 <!ENTITY customizeToolbarContext.label "Přizpůsobit…">
-<!ENTITY customizeToolbarContext.accesskey "C">
+<!ENTITY customizeToolbarContext.accesskey "z">
 
 <!ENTITY customizeToolbar.toolbarmode.label "Nastavení této lišty">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "t">

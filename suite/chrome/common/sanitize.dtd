@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label "Historie stránek">
 <!ENTITY itemHistory.accesskey "H">
+<!ENTITY itemUrlBar.label "Historie adresního řádku">
+<!ENTITY itemUrlBar.accesskey "a">
 <!ENTITY itemDownloads.label "Historie stahování">
 <!ENTITY itemDownloads.accesskey "s"> 
 <!ENTITY itemFormSearchHistory.label "Formuláře a historie hledání">

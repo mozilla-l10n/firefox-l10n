@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey "H">
 <!ENTITY searchSubfolders.label "Hledat v podsložkách">
 <!ENTITY searchSubfolders.accesskey "l">
+<!ENTITY searchOnServer.label "Spustit hledání na serveru">
+<!ENTITY searchOnServer.accesskey "S">
 <!ENTITY resetButton.label "Obnovit">
 <!ENTITY resetButton.accesskey "b">
 <!ENTITY openButton.label "Otevřít">
@@ -12,12 +14,12 @@
 <!ENTITY searchDialogTitle.label "Hledat ve zprávách">
 <!ENTITY results.label "Nalezené položky:">
 <!ENTITY fileHereMenu.label "Přesunout do složky">
-<!ENTITY fileHereMenu.accesskey "s">
+<!ENTITY fileHereMenu.accesskey "n">
 <!ENTITY fileButton.label "Přesunout">
 <!ENTITY fileButton.accesskey "P">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Otevřít složku se zprávami">
-<!ENTITY goToFolderButton.accesskey "t">
+<!ENTITY openInFolder.label "Otevřít ve složce">
+<!ENTITY openInFolder.accesskey "t">
 <!ENTITY saveAsVFButton.label "Uložit hledání jako složku…">
 <!ENTITY saveAsVFButton.accesskey "a">
 

@@ -3,85 +3,77 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
   %brandDTD;
+  %regionDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Privacy &amp; Security Preferences - Certificates</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+	<title>Soukromí &amp; Zabezpečení - Nastavení certifikátů</title>
+	<link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
 </head>
+
 <body>
+<h1 id="certificate_settings">Nastavení certifikátů</h1>
 
-<h1 id="certificate_settings">Certificate Settings</h1>
+<p>Tato kapitola popisuje, jak nastavit volby certifikátů a jak používat Správce certifikátů,
+ Správce bezpečnostních zařízení a další dialogová okna, která se certifikátů týkají.</p>
 
-<p>This section describes how to set your certificate preferences and how to
-  use the Certificate Manager, Device Manager, and other dialog boxes related
-  to certificates.</p>
+<p>Pro detailních návody různých činností týkajících se certifikátů navštivte kapitolu
+  <a href="using_certs_help.xhtml">Používání certifikátů</a>.</p>
 
-<p>For step-by-step descriptions of various tasks related to certificates, see
-  <a href="using_certs_help.xhtml">Using Certificates</a>.</p>
-
-<div class="contentsBox">In this section:
+<div class="contentsBox">V této kapitole:
   <ul>
-    <li><a href="#privacy_and_security_preferences_certificates">Certificate 
-      Preferences</a></li>
-    <li><a href="certs_help.xhtml">Certificate Manager</a></li>
-    <li><a href="certs_help.xhtml#device_manager">Device Manager</a></li>
-    <li><a href="cert_dialog_help.xhtml">Certificate Information and
-      Decisions</a></li>
+    <li><a href="#privacy_and_security_preferences_certificates">Nastavení certifikátů</a></li>
+    <li><a href="certs_help.xhtml">Správa certifikátů</a></li>
+    <li><a href="certs_help.xhtml#device_manager">Správa bezpečnostních zařízení</a></li>
+    <li><a href="cert_dialog_help.xhtml">Práce s certifikáty</a></li>
   </ul>
 </div>
 
-<h1 id="privacy_and_security_preferences_certificates">Privacy &amp; Security
-  Preferences - Certificates</h1>
+<h1 id="privacy_and_security_preferences_certificates">Soukromí &amp; Zabezpečení - Nastavení certifikátů</h1>
 
-<p>This section describes use the Certificates preferences panel. To view
-  Certificates preferences, follow these steps:</p>
+<p>Tato kapitola popisuje práci se sekcí Spravovat certifikáty. Pro její zobrazení proveďte následující kroky:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
+   <li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+     <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+   <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
 </ol>
 
-<h3 id="client_certificate_selection">Client Certificate Selection</h3>
+<h3 id="client_certificate_selection">Výběr klientských certifikátů</h3>
 
-<p>Some websites require you to identify yourself with a certificate. The
-  option you select here determines how the browser identifies the certificate
-  to present among those you may have on file:</p>
-
+<p>Některé webové stránky vyžadují, abyste se identifikovali certifikátem. Toto nastavení určuje chování
+Prohlížeče v případech, kdy má k dispozici více než jeden použitelný certifikát:</p>
 <ul>
-  <li><strong>Select Automatically:</strong> Click this option if you want
-    the browser to select a certificate without asking you.</li>
-  <li><strong>Ask Every Time:</strong> Click this option if you want the browser
-    to ask you which certificate to use each time a website requests one.</li>
+	<li><strong>Vybírat automaticky</strong>: Zvolte na tuto volbu,
+pokud chcete, aby Prohlížeč vybral certifikát, aniž by se vás ptal.</li>
+	<li><strong>Vždy se dotázat</strong>: Zvolte tuto volbu,
+pokud chcete, aby vám Prohlížeč dal vždy na výběr, jaký certifikát použít v okamžiku, kdy
+webová stránka certifikát požaduje.</li>
 </ul>
 
-<h3 id="manage_certificates">Manage Certificates</h3>
+<h3 id="manage_certificates">Správa certifikátů</h3>
 
-<p>Certificates are the digital equivalent of ID cards&mdash;they help other
-  people identify you, and they help you identify other people, websites, and
-  organizations.</p>
+<p>Certifikáty jsou digitálními protějšky osobních průkazů. Pomáhají ostatním lidem identifikovat vás
+a vám identifikovat ostatní lidi, webové stránky a organizace.</p>
 
-<p>To examine or configure the certificates you have on file, click Manage
-  Certificates.</p>
+<p>Pro prohlížení nebo změnu nastavení uložených certifikátů
+klepněte na tlačítko Správa certifikátů.</p>
 
-<h3 id="manage_security_devices">Manage Security Devices</h3>
+<h3 id="manage_security_devices">Správa bezpečnostních zařízení</h3>
 
-<p>A security device is a hardware or software device that stores your
-  certificates and keys. For example, a smart card is a security device. Your
-  browser has its own built-in software security device, and you can use
-  additional security devices, such as smart cards, at the same time.</p>
+<p>Bezpečnostní zařízení jsou softwarová nebo hardwarová zařízení, která slouží
+k ukládání vašich certifikátů a šifrovacích klíčů. Příkladem takového zařízení je smart card.
+Váš prohlížeč má vlastní vestavěné softwarové zařízení a můžete též přidat další
+bezpečnostní zařízení jako třeba smart cards.</p>
 
-<p>To examine or configure your security devices, click Manage Security
-  Devices.</p>
+<p>Pro prohlížení nebo změnu nastavení uložených certifikátů klepněte na tlačítko Správa bezpečnostních zařízení.</p>
 
 
 <p>&copyright.string;</p>
 
 </body>
 </html>
+

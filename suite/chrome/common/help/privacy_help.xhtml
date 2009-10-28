@@ -3,219 +3,152 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
   %brandDTD;
+  %regionDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Privacy on the Internet</title>
+<title>Ochrana soukromí na Internetu</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<h1 id="using_privacy_features">Using Privacy Features</h1>
+<h1 id="using_privacy_features">Ochrana soukromí na Internetu</h1>
 
-<p>Your browser includes features you can use to enhance the privacy and
-  security of your personal information. The sections that follow describe how
-  your browser can help you control cookies, passwords, and images while you
-  are surfing the Internet.</p>
+<p>Váš Prohlížeč obsahuje řadu funkcí, které můžete použít pro vyšší zabezpečení vašich 
+soukromých údajů. Následující kapitoly popisují, jak vám může Prohlížeč aplikace &brandShortName; 
+pomoct spravovat cookies, hesla a obrázky po dobu, kdy si prohlížíte webové stránky.</p>
 
-<p>For information about related &brandShortName; security features, see
-  <a href="mail_sec_help.xhtml">Signing &amp; Encrypting Messages</a> and
-  <a href="using_certs_help.xhtml">Using Certificates</a>.</p>
+<p>Pro informace o bezpečnostních funkcích aplikace &brandShortName; zvolte kapitoly 
+<a href="mail_sec_help.xhtml">Podepisování a šifrování e-mailů</a> a 
+<a href="using_certs_help.xhtml">Používání certifikátů</a>.</p>
 
-<div class="contentsBox">Privacy topics:
-  <ul>
-    <li><a href="#privacy_on_the_internet">Privacy on the Internet</a></li>
-    <li><a href="using_priv_help.xhtml#using_the_cookie_manager">Using the
-      Cookie Manager</a></li>
-    <li><a href="using_priv_help.xhtml#using_the_password_manager">Using the
-      Password Manager</a></li>
-    <li><a href="using_priv_help.xhtml#encrypting_stored_sensitive_information">Encrypting
-      Stored Sensitive Information</a></li>
-    <li><a href="using_priv_help.xhtml#managing_images">Managing Images</a></li>
-    <li><a href="cs_priv_prefs_popup.xhtml#controlling_popups">Controlling Popups</a></li>
-    <li><a href="privsec_help.xhtml">Privacy &amp; Security Preferences</a></li>
-  </ul>
+<div class="contentsBox">V této kapitole:
+<ul>
+  <li><a href="#privacy_on_the_internet">Soukromí na Internetu</a></li>
+  <li><a href="using_priv_help.xhtml#using_the_cookie_manager">Používáme Správce cookies</a></li>
+  <li><a href="using_priv_help.xhtml#using_the_password_manager">Používáme Správce hesel</a></li>
+  <li><a href="using_priv_help.xhtml#encrypting_stored_sensitive_information">Šifrování citlivých informací</a></li>
+  <li><a href="using_priv_help.xhtml#managing_images">Správce obrázků</a></li>
+  <li><a href="cs_priv_prefs_popup.xhtml#controlling_popups">Ovládání vyskakovacích oken</a></li>
+  <li><a href="privsec_help.xhtml">Předvolby pro Soukromí &amp; Zabezpečení</a></li>
+</ul>
 </div>
 
-<h1 id="privacy_on_the_internet">Privacy on the Internet</h1>
+<h1 id="privacy_on_the_internet">Soukromí na Internetu</h1>
 
-<p>This section summarizes some background information about privacy on the
-  Internet. It also describes several things you can do to help safeguard your
-  own privacy. It is not intended to provide a complete description of Internet
-  privacy issues.</p>
+<p>Tato sekce shrnuje několik základních informací ohledně soukromí na Internetu. Popisuje také několik věcí, které vám pomůžou ochránit vaše soukromí. Nemáme zde však v úmyslu poskytnout všechny popisy útoků na Internetové soukromí.</p>
 
-<div class="contentsBox">In this section:
-  <ul>
-    <li><a href="#what_information_does_my_browser_give_to_a_web_site">What
-      Information Does My Browser Give to a Web Site?</a></li>
-    <li><a href="#what_are_cookies_and_how_do_they_work">What Are Cookies, and
-      How Do They Work?</a></li>
-    <li><a href="#how_can_i_control_web_pages_in_email_messages">How Can I
-      Control Web Pages in Email Messages?</a></li>
-    <li><a href="#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">How
-      Can I Make Sure Unauthorized People Don&apos;t Use Information About
-      Me?</a></li>
-    </ul>
+<div class="contentsBox">V této sekci:
+<ul>
+<li><a href="#what_information_does_my_browser_give_to_a_web_site">Jaké informace poskytuje Prohlížeč webovým stránkám?</a></li>
+<li><a href="#what_are_cookies_and_how_do_they_work">Co jsou cookies a jak fungují?</a></li>
+<li><a href="#how_can_i_control_web_pages_in_email_messages">Jak kontrolovat webové stránky v poště?</a></li>
+<li><a href="#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">Jak zabránit neoprávněným lidem získat informace o mě?</a></li>
+</ul>
 </div>
 
-<h2 id="what_information_does_my_browser_give_to_a_web_site">What Information
-  Does My Browser Give to a Web Site?</h2>
+<h2 id="what_information_does_my_browser_give_to_a_web_site">Jaké informace poskytuje Prohlížeč webovým stránkám?</h2>
 
-<p>When your browser displays a web page&mdash;for example, each time you click
-  a link or type a URL, or when a web page is displayed in an email
-  message&mdash;it gives certain kinds of information to the site. This
-  information may include (but is not limited to) your operating environment,
-  your Internet address, and the page you&apos;re coming from.</p>
+<p>Když vám Prohlížeč zobrazí nějakou webovou stránku &mdash; např. klepnete na odkaz, zvolíte URL, nebo když se webová stránka zobrazí ve vaší poště &mdash; musíte serverům na Internetu zdělit určité informace. Ty mohou obsahovat informace o verzi vámi používaného operačního prostředí, internetovou adresu, či odkud na stránku přicházíte.</p>
 
-<h3>Operating Environment</h3>
+<h3>Operační prostředí</h3>
 
-<p>The site is told something about your operating environment, such as your
-  browser type and operating system. This helps the site present the page in
-  the best way for your screen. For example, the site might learn that you use
-  the French version of Mozilla 1.2 on a Windows 2000 computer.</p>
+<p>Webový server je informován o vašem operačním prostředí, tj. jaký máte typ a verzi Prohlížeče či jaký operační systém používáte. Někdy to danému serveru pomáhá určit nejlepší nastavení pro prohlížené stránky. Například se může server dozvědět, že používáte českou verzi aplikace &brandShortName; 1.6 na Windows 2000.</p>
 
-<h3 id="internet_address">Internet Address</h3>
+<h3 id="internet_address">Internetová adresa</h3>
 
-<p>Your browser must tell the site your Internet address (also known as the
-  Internet Protocol, or IP address) so the site knows where to send the page
-  you are requesting. The site can&apos;t present the page you want to see
-  unless it knows your IP address.</p>
-
-<p>Your IP address can be either temporary or fixed (static).</p>
-
-<p>If you connect to the Internet through a standard modem that&apos;s attached
-  to your phone line, then your Internet service provider (ISP) may assign you
-  a temporary IP address each time you log on. You use the temporary IP address
-  for the duration of your Internet session&mdash;for example, until you sign
-  off or hang up your dial-up connection, or otherwise end your computer&apos;s
-  live connection with the Internet. Each ISP has many IP addresses, and they
-  assign the addresses at random to users.</p>
-
-<p>If you have DSL, a cable modem, or a fiber-optic connection, you may have a
-  fixed IP address that you use every time you connect.</p>
-
-<p>Your IP address is not the same as your email address.</p>
-
-<h3>Referring Page</h3>
-
-<p>The site is also told which page you were reading when you clicked a link to
-  see one of the site&apos;s pages. This allows the site to know which site
-  referred you. Or, as you traverse the site, it allows the site to know which
-  of its pages you came from.</p>
-
-<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
-
-<h2 id="what_are_cookies_and_how_do_they_work">What Are Cookies, and How Do
-  They Work?</h2>
-
-<p>A cookie is a small bit of information used by some web sites. When you
-  visit a site that uses cookies, the site might ask your browser to place one
-  or more cookies on your hard disk.</p>
+<p>Prohlížeč musí serveru říct vaší Internetovou adresu (známou také jako IP adresu), aby server věděl, kam má odeslat vámi požadované stránky. Server vám nemůže poskytnout stránku, když neví vaši IP adresu.</p>
   
-<p>Later, when you return to the site, your browser sends back the cookies that
-  belong to the site.</p>
+<p>IP adresa může být buď dočasná nebo pevná (statická).</p>
+
+<p>Jestliže se k Internetu připojujete přes standardní modem, který je připojen do telefonické linky, potom váš poskytovatel Internetu (ISP) vám pravděpodobně přiděluje dočasnou IP adresu a to pro každé sezení jinou. Stejnou IP adresu pak používáte po celé trvání vašeho Internetového sezení &mdash; například, dokud neskončíte, nezavěsíte  dial-up spojení, nebo jinak neukončíte počítačové spojení s Internetem. Každý ISP má mnoho IP adres, a zpravidla náhodně určuje adresy pro své uživatele.</p>
+
+<p>Jestliže však máte DSL, kabelový modem, nebo spojení optickým vláknem, máte pravděpodobně pevnou IP adresu, která je tedy pro každé spojení stejná.</p>
+
+<p>Vaše IP adresa není to samé jako e-mailová adresa.</p>
+
+<h3>Odkazující stránka</h3>
+
+<p>Prohlížeč serveru také řekne, kterou stránku jste měli zobrazenou před tím, než jste klepli na odkaz vedoucí na jeho stránky. Server tedy ví, která stránka v Internetu vás na něj odkázala, nebo z které jeho vlastní webové stránky jste přišli. Server tedy ví, která stránka v Internetu vás na něj odkázala, nebo z které jeho vlastní webové stránky jste přišli.</p>
+
+<p>[<a href="#privacy_on_the_internet">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="what_are_cookies_and_how_do_they_work">Co jsou cookies a jak fungují?</h2>
+
+<p>Cookie je malý kousek informace, který používají některé servery. Pokud tento web navštívíte, může požádat váš 
+webový Prohlížeč, aby uložil jednu nebo více takových cookies na váš pevný disk.</p>
   
-<p>When you are using the default cookie settings, this activity is invisible
-  to you, and you won&apos;t know when a site is setting a cookie or when your
-  browser is sending a web site&apos;s cookie back. However, you can set your
-  preferences so that you will be asked before a cookie is set. For information
-  on how to do this, see
-  <a href="using_priv_help.xhtml#cookies">Privacy &amp; Security Preferences -
-    Cookies</a>.</p>
+<p>Pokud se později vrátíte na tentýž server, váš Prohlížeč mu pošle cookies, které patří danému serveru.</p>
   
-<h3>How Do Sites Use Cookie Information?</h3>
-
-<p>Cookies allow a site to know something about your previous visits. For
-  example, if you typically search for local weather or purchase books at a web
-  site, the site may use cookies to remember what city you live in or what
-  authors you like, so it can make your next visit easier and more useful.</p>
-
-<p>Some websites publish privacy policies that describe how they use the
-  information they gather.</p>
-
-<h3 id="what_are_third-party_cookies">What Are Third-Party Cookies?</h3>
-
-<p>If your browser stores a site&apos;s cookie, it will return the cookie only
-  to that particular site. Your browser will not provide one site with cookies
-  set by another. Since a web site can only receive its own cookies, it can
-  learn about your activities while you are at that site but not your
-  activities in general while surfing the Web.</p>
-
-<p>But sometimes a web site displays content that is hosted on another web
-  site. That content can be anything from an image to text or an advertisement.
-  The other web site that hosts such elements also has the ability to store a
-  cookie in your browser, even though you don&apos;t visit the site directly.
-</p>
-
-<p>Cookies that are stored by a site other than the one you are visiting are
-  called <strong>third-party cookies</strong> or <strong>foreign
-  cookies</strong>. Web sites sometimes use third-party cookies with
-  <strong>transparent GIFs</strong>, which are special images that help sites
-  count users, track email responses, learn more about how visitors use the
-  site, or customize your browsing experience. (Transparent GIFs are also known
-  as web beacons or web bugs.)</p>
-
-<p>If you want, you can adjust your cookie preferences so that sites can store
-  ordinary cookies but not third-party ones.</p>
-
-<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
-
-<h2 id="how_can_i_control_web_pages_in_email_messages">How Can I Control Web
-  Pages in Email Messages?</h2>
-
-<p>You can disable cookies, images, JavaScript, and plugins completely for
-  web pages that are received as part of email messages.</p>
+<p>Pokud používáte standardní nastavení pro cookies, pak tato činnost je pro vás neviditelná 
+a nebudete tak vědět, kdy server ukládá cookie a kdy prohlížeč cookies posílá zpět. Můžete si 
+však nastavit Prohlížeč tak, aby se vás zeptal dříve než cookies uloží na disk. Pro informace, 
+jak to udělat, zvolte kapitolu 
+<a href="using_priv_help.xhtml#cookies">Soukromí &amp; zabezpečení - Cookies</a>.</p>
   
-<p>While it may be convenient to enable some or all of these capabilities when
-  you&apos;re browsing the web, they may not be necessary in single web pages
-  sent as attachments to messages.</p>
+<h3>Jak servery používají informace z cookies?</h3>
 
-<p>For information on enabling or disabling cookies, images, JavaScript, and
-  plugins in email messages, see the following sections:</p>
+<p>Cookies umožňují serveru dozvědět se o vašich předchozích návštěvách. Například jak často zjišťujete předpověď počasí pro vaši oblast, či nakupujete knihy na serveru a ten může použít cookies na zapamatování města v kterém žijete, či vašich oblíbených autorů. Vaši budoucí návštěvu potom může zjednodušit a zefektivnit.</p>
+
+<p>Některé servery zveřejňují pravidla soukromí, které popisují, jak bude zacházeno se získanými informacemi.</p>
+
+<h3 id="what_are_third-party_cookies">Co jsou cookies z třetí strany?</h3>
+
+<p>Pokud váš Prohlížeč uloží cookie ze serveru, vrátí ho následovně pouze stejnému serveru. Prohlížeč neposkytne serveru cookies uložené jiným serverem. Když server může získat pouze vlastní cookies, může vědět o vašich činnostech, když jste na jeho stránkách, ale nic o prohlížení cizích serverů.</p>
+
+<p>Někdy však stránka zobrazuje obsah, který je uložen na jiném serveru. Tímto obsahem může být cokoliv od obrázků přes text či reklamu. Druhý server, který poskytuje tyto elementy má také možnost uložit ve vašem Prohlížeči cookie, i když jste jej přímo nenavštívili.</p>
+
+<p>Cookies, který jsou uložené na jiném serveru než je ten, který jste právě navštívili, se nazývají <strong>cookies z třetí strany</strong> nebo <strong>cizí cookies</strong>. Webové servery někdy používají cookies z třetí strany spolu s <strong>průhlednými GIF soubory</strong>. Tyto speciální obrázky jim pomáhají počítat přístupy, sledovat e-mailové odpovědi, zjišťovat víc o tom, jak návštěvníci používají server, nebo přizpůsobit vaši návštěvu na serveru.</p>
+
+<p>Pokud chcete, můžete změnit nastavení předvoleb cookies tak, že servery budou moci ukládat obyčejné cookies, ale ne ty z třetích stran.</p>
+
+<p>[<a href="#privacy_on_the_internet">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="how_can_i_control_web_pages_in_email_messages">Jak kontrolovat webové stránky v poště?</h2>
+
+<p>Můžete zcela nebo částečně vypnout cookies, obrázky a zásuvné moduly (JavaScript je
+  vypnut napořád) a to jak pro webové stránky, tak pro stránky, jenž jsou přijaty jako 
+  část e-mailové zprávy.</p>
+  
+<p>Mít zapnuté některé z výše jmenovaných věcí může být velice výhodné při brouzdání na 
+webu, ale nemusí být nutné pro jednoduché webové stránky přijaté poštou.</p>
+
+<p>Pro informace o zapnutí a vypnutí cookies, obrázků a zásuvných modulů v 
+poště se podívejte do následujících sekcí:</p>
   
 <ul>
-  <li><a href="using_priv_help.xhtml#cookies">Privacy &amp; Security
-    Preferences - Cookies</a></li>
-  <li><a href="mail_help.xhtml#message_display">Mail &amp; Newsgroups
-    Preferences - Message Display</a></li>
-  <li><a href="cs_nav_prefs_advanced.xhtml#scripts_and_plugins">Advanced
-    Preferences - Scripts &amp; Plugins</a></li>
+<li><a href="using_priv_help.xhtml#cookies">Soukromí &amp; zabezpečení - Cookies</a></li>
+<li><a href="mail_help.xhtml#message_display">Pošta &amp; Diskusní skupiny - Zobrazení zprávy</a></li> 
+<li><a href="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins">Rozšířené nastavení - Skripty &amp; zásuvné moduly</a></li>
 </ul>
 
-<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
+<p>[<a href="#privacy_on_the_internet">Návrat na začátek kapitoly</a>]</p>
 
-<h2 id="how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">How
-  Can I Make Sure Unauthorized People Don&apos;t Use Information About Me?</h2>
+<h2 id="how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">Jak zabránit neoprávněným lidem získat informace o mně?</h2>
 
-<p>The best way to keep your information private is to read the privacy
-  policies for the web sites you visit and the Internet services you use, and
-  to be cautious about giving out your personal information online.</p>
+<p>Nejlepší cesta k uchování vašich soukromých informací je číst si vždy prohlášení o zacházení s osobními informacemi na navštěvovaných webových stránkách či používaných Internetových službách, a především být opatrný, komu sdělujete vaše osobní informace.</p>
 
-<p>The Internet is a public network. When you send your name, phone number,
-  address, and other personal information over the network (via a web page,
-  email, or any other method), it is possible that someone else may be able to
-  intercept it.</p>
+<p>Internet je veřejná síť. Když odesíláte vaše jméno, telefonní číslo, adresu, a další osobní informace přes síť (přes webové stránky, e-mail, nebo některými dalšími způsoby), je možné, že někdo jiný může být schopný je zachytit.</p>
 
-<p>Here are some questions you might ask about a web site&apos;s privacy
-  policy:</p>
+<p>Zde jsou otázky, které by jste si měli položit, požaduje-li webová stránka vaše osobní informace:</p>
 
 <ul>
-  <li>What kinds of personal information is this site gathering?</li>
-  <li>How will the site use the information?</li>
-  <li>Will the site share the information with others and do I have choices
-    regarding the use of any shared information?</li>
-  <li>Can I access some or all of the information a site gathers about me, in
-    order to inspect or update it?</li>
-  <li>How does the site protect the information?</li>
-  <li>How do I contact the web site if I have questions or problems?</li>
+<li>Jaké druhy osobních informací server shromažďuje?</li>
+<li>Proč chce server vědět tyto informace?</li>
+<li>Bude server sdílet tyto informace s někým jiným?</li>
+<li>Mohu přistupovat k zadaným informacím a aktualizovat je?</li>
+<li>Jak server uchrání tyto informace?</li>
+<li>Jak mohu v případě problémů nebo otázek kontaktovat správce serveru?</li>
 </ul>
 
-<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
+<p>[<a href="#privacy_on_the_internet">Návrat na začátek kapitoly</a>]</p>
 
 <p>&copyright.string;</p>
 
 </body>
 </html>
+

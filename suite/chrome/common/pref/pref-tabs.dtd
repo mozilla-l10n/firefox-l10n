@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "Přepnout na nový panel otevřený z odkazu">
 <!ENTITY background.accesskey "P">
+<!ENTITY warnOnClose.label "Varovat, pokud zavírám okno s více panely">
+<!ENTITY warnOnClose.accesskey "V">
 <!ENTITY loadGroup.label "Při otevírání skupiny záložek">
 <!ENTITY loadGroupAppend.label "Přidat k panelům">
 <!ENTITY loadGroupAppend.accesskey "A">

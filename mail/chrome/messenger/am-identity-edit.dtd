@@ -1,5 +1,7 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Nastavení identity">
 <!ENTITY identityListDesc.label "Nastavení vlastností této identity:">
+
 <!ENTITY settingsTab.label "Nastavení">
 <!ENTITY copiesFoldersTab.label "Kopie a složky">
 <!ENTITY addressingTab.label "Vytváření zpráv a adresování">
