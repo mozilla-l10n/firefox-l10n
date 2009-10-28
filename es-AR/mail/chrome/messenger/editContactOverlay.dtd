@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "Borrar">
+<!ENTITY editContactPanelDeleteContact.accesskey "B">
+
 <!ENTITY editContactName.label "Nombre:">
 <!ENTITY editContactName.accesskey "N">
 

@@ -51,7 +51,7 @@
 <!ENTITY JobTitle.label "Puesto">
 <!ENTITY JobTitle.accesskey "u">
 <!ENTITY CellularNumber.label "Teléfono celular">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "e">
 <!ENTITY PagerNumber.label "Buscapersonas">
 <!ENTITY PagerNumber.accesskey "B">
 <!ENTITY FaxNumber.label "Fax">

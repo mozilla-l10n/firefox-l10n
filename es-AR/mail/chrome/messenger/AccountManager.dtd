@@ -1,7 +1,12 @@
 <!-- extracted from AccountManager.xul -->
-<!ENTITY accountManagerTitle.label "Configuración de la cuenta">
-<!ENTITY addAccountButton.label "Añadir cuenta…">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY accountManagerTitle.label "Configuración de cuenta">
+
+<!ENTITY accountActionsButton.label "Acciones de cuenta">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Añadir cuenta de correo…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Añadir otra cuenta…">
+<!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Eliminar cuenta">
@@ -13,6 +18,5 @@
      panel content to fit. 1em = the width of the letter 'm' in the selected font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 67em; height: 44em;">
-<!ENTITY macAccountManager.size "width: 68em; height: 44em;">
+<!ENTITY accountManager.size "width: 67em; height: 48em;">
 <!ENTITY accountTree.width "width: 17em;">

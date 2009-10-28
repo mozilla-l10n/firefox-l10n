@@ -1,9 +1,20 @@
 <!ENTITY aboutDialog.title "Acerca de &brandShortName;">
-<!ENTITY credits.label "Créditos">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label "&lt; Acerca de &brandShortName;">
-<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutButton.label      "&lt; Atrás">
+<!ENTITY aboutButton.accesskey  "t">
 <!ENTITY aboutVersion "versión">
-<!ENTITY copyrightText "&#169;1998-2008 Contribuyentes. Todos los derechos reservados. Mozilla Thunderbird y los logos
+<!ENTITY copyrightText "&#169;1998-2009 Contribuyentes. Todos los derechos reservados. Mozilla Thunderbird y los logos
                                  de Thunderbird son marcas comerciales de Mozilla Foundation.  Todos
                                  los derechos reservados.">
+<!ENTITY aboutMenu.label        "Acerca">
+<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutCredits.label     "Créditos">
+<!ENTITY aboutCredits.accesskey "C">
+<!ENTITY aboutRights.label      "Sus derechos">
+<!ENTITY aboutRights.accesskey  "r">
+<!ENTITY aboutContributors.label "Contribuyentes">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "Licencia">
+<!ENTITY aboutLicense.accesskey  "L">
+
+<!ENTITY cmdCloseMac.commandKey "w">
+ 

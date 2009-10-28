@@ -5,17 +5,14 @@
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Nuevo">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Tarjeta de la libreta de direcciones…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label                               "Contacto de libreta de direcciones…">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label "Lista de correo…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "Libreta de direcciones…">
 <!ENTITY newAddressBookCmd.accesskey "b">
 <!ENTITY newLDAPDirectoryCmd.label "Directorio LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Mensaje">
 <!ENTITY newMessageCmd.key "M">
@@ -28,14 +25,13 @@
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCardViewCmd.label "Vista preliminar de la tarjeta">
-<!ENTITY printPreviewCardViewCmd.accesskey "V">
-<!ENTITY printPreviewAddressBook.label "Vista preliminar de la libreta de direcciones">
+<!ENTITY printPreviewContactCmd.label                   "Vista previa del contacto">
+<!ENTITY printPreviewContactCmd.accesskey               "v">
+<!ENTITY printPreviewAddressBook.label "Vista previa de la libreta de direcciones">
 <!ENTITY printPreviewAddressBook.accesskey "b">
-<!ENTITY printCardViewCmd.label "Imprimir tarjeta">
-<!ENTITY printCardViewCmd.accesskey "p">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label                          "Imprimir contacto…">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
 <!ENTITY printAddressBook.accesskey "a">
 
@@ -60,8 +56,8 @@
 <!ENTITY deleteCmd.label "Borrar">
 <!ENTITY deleteCmd.accesskey "B">
 <!ENTITY deleteAbCmd.label "Borrar libreta de direcciones">
-<!ENTITY deleteCardCmd.label "Borrar tarjeta">
-<!ENTITY deleteCardsCmd2.label                          "Borrar tarjetas">
+<!ENTITY deleteContactCmd.label                         "Borrar contacto">
+<!ENTITY deleteContactsCmd.label                        "Borrar contactos">
 <!ENTITY deleteListCmd.label "Borrar lista">
 <!ENTITY deleteListsCmd.label "Borrar listas seleccionadas">
 <!ENTITY deleteItemsCmd.label "Borrar elementos">
@@ -75,7 +71,6 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "Propiedades…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 
@@ -90,13 +85,13 @@
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showCardPane.label "Resumen de las tarjetas">
-<!ENTITY showCardPane.accesskey "t">
+<!ENTITY showContactPane.label                          "Vista de resumen de contactos">
+<!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Nombre y apellidos">
+<!ENTITY firstLastCmd.label "Nombre, apellido">
 <!ENTITY firstLastCmd.accesskey "N">
-<!ENTITY lastFirstCmd.label "Apellidos, nombre">
+<!ENTITY lastFirstCmd.label "Apellido, nombre">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Nombre mostrado">
 <!ENTITY displayNameCmd.accesskey "d">
@@ -115,33 +110,32 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportar…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Preferencias…">
-<!ENTITY preferencesCmd.accesskey "f">
+<!ENTITY preferencesCmd.label "Opciones…">
+<!ENTITY preferencesCmd.accesskey "n">
 <!ENTITY preferencesCmdUnix.label "Preferencias…">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!-- Address Book Toolbar and Context Menus -->
-<!ENTITY newcardButton.label "Nueva tarjeta">
-<!ENTITY newcardButton.accesskey "j">
+<!ENTITY newContactButton.label                         "Nuevo contacto">
+<!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label "Nueva lista">
 <!ENTITY newlistButton.accesskey "l">
-<!ENTITY editButton.label "Propiedades">
-<!ENTITY editButton.accesskey "P">
+<!ENTITY editButton2.label                              "Propiedades">
+<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label "Redactar">
 <!ENTITY newmsgButton.accesskey "c">
-<!ENTITY newIM.label "IM">
+<!ENTITY newIM.label "Mensaje instantáneo">
 <!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton.label "Borrar">
-<!ENTITY deleteButton.accesskey "B">
-<!ENTITY throbberItem.title "Indicador de actividad">
+<!ENTITY deleteButton2.label "Borrar">
+<!ENTITY deleteButton2.accesskey "B">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip "Crear nueva tarjeta">
+<!ENTITY newContactButton.tooltip                       "Crear un nuevo contacto en la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
-<!ENTITY editButton.tooltip "Editar la tarjeta seleccionada">
+<!ENTITY editButton2.tooltip                            "Editar el ítem seleccionado">
 <!ENTITY newmsgButton.tooltip "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
-<!ENTITY deleteButton.tooltip "Borar tarjeta seleccionada o libreta de direcciones">
+<!ENTITY deleteButton2.tooltip                           "Borar el ítem seleccionado">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Libretas de direcciones">

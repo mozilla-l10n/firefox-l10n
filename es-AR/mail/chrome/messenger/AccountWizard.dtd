@@ -17,7 +17,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identidad">
-<!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que le identifica a usted ante otros cuando ellos reciben sus mensajes.">
+<!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que otras personas verán al leer sus mensajes.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Introduzca el nombre que quiere que aparezca en el campo &quot;De&quot; al enviar mensajes">
@@ -55,17 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Su servidor saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, será usado. Puede cambiar los servidores salientes en la configuración de sus cuentas.">
 
 <!-- Entities for Login page -->
 
@@ -83,13 +78,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Su nombre de usuario saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, será usado. Puede cambiar los servidores salientes en la configuración de sus cuentas.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, es idéntico a su servidor entrante; se usará su nombre de usuario para acceder a él. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, es idéntico a su servidor entrante; se usará su nombre de usuario para acceder a él. Puede cambiar los servidores salientes en la configuración de sus cuentas.">
 
 <!-- Entities for Account name page -->
 
@@ -101,13 +96,14 @@
 
 <!-- Entities for Done (Congratulations) page -->
 
-<!ENTITY completionTitle.label "¡Felicidades!">
-<!ENTITY completionText.label "Por favor, compruebe que la información de debajo es correcta.">
+<!ENTITY completionTitle.label "¡Felicitaciones!">
+<!ENTITY completionText.label "Por favor, compruebe que la siguiente información sea correcta.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor entrante:">
 <!ENTITY serverNamePrefix.label "Nombre del servidor entrante:">
 <!ENTITY smtpServerNamePrefix.label "Nombre del servidor de correo saliente (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nombre del servidor de noticias (NNTP):">
 <!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Desmarque esta casilla para guardar el correo de esta cuenta en su propio directorio. Esto hará que esta cuenta aparezca como una cuenta del nivel principal. Si no, formará parte de la cuenta de la bandeja de entrada global en las carpetas locales.">
 <!ENTITY deferStorage.label "Usar la bandeja de entrada global (almacenar en las carpetas locales)">
 <!ENTITY deferStorage.accesskey "g">

@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "Configuración avanzada de cuentas">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "directorio del servidor IMAP:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.label "Directorio del servidor IMAP:">
+<!ENTITY serverDirectory.accesskey "D">
 <!ENTITY usingSubscription.label "Mostrar sólo las carpetas suscriptas">
 <!ENTITY usingSubscription.accesskey "u">
 <!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan subcarpetas y mensajes">

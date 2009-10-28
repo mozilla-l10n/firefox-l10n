@@ -1,6 +1,7 @@
-<!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Mensaje">
-<!ENTITY newMessageCmd.accesskey "M">
-<!ENTITY newCardCmd.label "Tarjeta de la libreta de direcciones">
-<!ENTITY newCardCmd.accesskey "c">
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Mensaje">
+<!ENTITY  newMessageCmd.accesskey         "m">
+
+<!ENTITY  newContactCmd.label             "Contacto de la libreta de direcciones…">
+<!ENTITY  newContactCmd.accesskey         "C">

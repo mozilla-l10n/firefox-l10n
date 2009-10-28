@@ -10,13 +10,13 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "m">
-<!ENTITY newCard.label "Tarjeta de libreta de direcciones…">
-<!ENTITY newCard.accesskey "T">
+<!ENTITY newContact.label "Contacto de la libreta de deirecciones…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Adjuntar">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Archivo(s)…">
 <!ENTITY attachFileCmd.accesskey "v">
-<!ENTITY attachPageCmd.label "Adjuntar página web…">
+<!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Tarjeta personal (vCard)">
@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "j">
@@ -92,7 +93,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenuNew.accesskey "h">
 <!ENTITY showCompositionToolbarCmd.label "Barra de redacción">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showCompositionToolbarCmd.accesskey "r">
 <!ENTITY showFormattingBarCmd.label "Barra de formato">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
@@ -110,10 +111,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opciones">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "Revisar ortografía…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "s">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "g">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía mientras se escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Citar mensaje">
@@ -162,7 +163,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Configuración de cuentas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
@@ -212,6 +213,7 @@
 <!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "Insertar un emoticón">
 <!ENTITY smiley1Cmd.label "Sonriendo">
 <!ENTITY smiley2Cmd.label "Triste">
@@ -251,6 +253,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Borrar">
 <!ENTITY delete.accesskey "B">
+<!ENTITY removeAttachment.label "Eliminar adjunto">
+<!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Renombrar…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Seleccionar todo">
@@ -262,4 +266,3 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
-

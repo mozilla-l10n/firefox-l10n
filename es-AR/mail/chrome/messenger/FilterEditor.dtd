@@ -14,9 +14,11 @@
 
 <!ENTITY contextDesc.label "Aplicar el filtro cuando:">
 <!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "Se busca correo">
+<!ENTITY contextIncoming.label "se busque correo">
 <!ENTITY contextManual.label "se ejecute manualmente">
-<!ENTITY contextBoth.label "se busca correo o se ejecute manualmente">
+<!ENTITY contextBoth.label "se busque correo o se ejecute manualmente">
+<!ENTITY contextPostPlugin.label "se busque correo (después de clasificación)">
+<!ENTITY contextPostPluginBoth.label "se busque correo (después de clasificación) o se ejecute manualmente">
 <!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "E">
 

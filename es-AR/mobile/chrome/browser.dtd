@@ -31,6 +31,10 @@
 <!ENTITY helperApp.save            "Guardar">
 <!ENTITY helperApp.nothing         "Nada">
 
+<!ENTITY formHelper.previous       "Anterior">
+<!ENTITY formHelper.next           "Siguiente">
+<!ENTITY formHelper.done           "Terminado">
+
 <!ENTITY addonsHeader.label        "Agregados">
 <!ENTITY addonsLocal.label         "Tus agregados">
 <!ENTITY addonsUpdate.label        "Actualizar">
@@ -89,5 +93,3 @@
 <!ENTITY consoleErrFile.label      "Archivo Fuente: ">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
-
-<!ENTITY selectListDone.label      "Hecho">
