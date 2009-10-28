@@ -1,415 +1,241 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
   %brandDTD;
+  %regionDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Certificate Manager</title>
+<title>Správce certifikátů</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<div class="boilerPlate">This document is provided for your information only.
-  It may help you take certain steps to protect the privacy and security of
-  your personal information on the Internet. This document does not, however,
-  address all online privacy and security issues, nor does it represent a
-  recommendation about what constitutes adequate privacy and security
-  protection on the Internet.</div>
+<div class="boilerPlate">Tento dokument vytvořila Mozilla pouze pro vaši informaci. Může vám pomoci při zajištění ochrany soukromí a bezpečnosti vašich osobních údajů na Internetu. Tento dokument se však nezabývá všemi problémy soukromí a bezpečnosti na síti, ani nepředstavuje doporučení na to, čím by měla být tvořena odpovídající ochrana soukromí a bezpečnosti na Internetu.</div>
 
-<h1 id="certificate_manager">Certificate Manager</h1>
+<h1 id="certificate_manager">Správce certifikátů</h1>
 
-<p>This section describes how to use the Certificate Manager. For more
-  information on using certificates, see <a href="using_certs_help.xhtml">Using
-  Certificates</a>.</p>
+<p>Tato kapitola popisuje, jak používat Správce certifikátů. Více informací k použití certifikátů, viz <a href="using_certs_help.xhtml">Použití certifikátů</a>.</p>
 
-<p>If you are not currently viewing the Certificate Manager window, follow
-  these steps:</p>
+<p>Pokud právě nemáte otevřené okno Správce certifikátů, postupujte dle následujících kroků:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>Click Manage Certificates.</li>
+<li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+  <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+
+<li>Otevřete nabídku Úpravy (na Mac OS X nabídku &brandShortName;) a klepněte na položku Předvolby.</li>
+<li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+<li>Klepněte na Správa Certifikátů...</li>
 </ol>
 
-<div class="contentsBox">In this section:
-  <ul>
-    <li><a href="#your_certificates">Your Certificates</a></li>
-    <li><a href="#other_peoples_certificates">Other People&apos;s
-      Certificates</a></li>
-    <li><a href="#web_site_certificates">Website Certificates</a></li>
-    <li><a href="#authorities">Authorities</a></li>
-  </ul>
+<div class="contentsBox">V této kapitole:
+
+<ul>
+	<li><a href="#your_certificates">Osobní</a></li>
+    <li><a href="#people">Lidé</a></li>
+    <li><a href="#servers">Servery</a></li>
+	<li><a href="#authorities">Certifikační autority</a></li>
+    <li><a href="#others">Ostatní</a></li>
+</ul>
+
 </div>
 
-<h2 id="your_certificates">Your Certificates</h2>
+<h2 id="your_certificates">Osobní certifikáty</h2>
 
-<p>The Your Certificates tab in the <a href="#certificate_manager">Certificate
-  Manager</a> displays the certificates on file that identify you. Your
-  certificates are listed under the names of the organizations that issued
-  them:</p>
+<p>Panel Osobní certifikáty <a href="#certificate_manager">Správce certifikátů</a> zobrazuje registrované certifikáty, které vás identifikují. Vaše certifikáty jsou uvedeny v seznamu pod jmény organizací, jež je vydaly. Pokud nevidíte názvy certifikátů pod jmény organizací, dvojklepněte na taková jména.</p>
 
-<ul>
-  <li>If you can&apos;t see certificate names under an organization&apos;s
-    name, double-click the name.</li>
-  <li>To select a certificate, click its name.</li>
-  <li>To select more than one certificate, hold down the Control key and click
-    their names.</li>
-</ul>
-
-<p>To perform the following actions, select one or more certificates and click
-  one of the following buttons:</p>
+<p>Pro zobrazení a správu vašich certifikátů použijte následující tlačítka (většina akcí vyžaduje, aby byl vybrán jeden či více certifikátů):</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Backup</strong>: Initiate the process of saving the selected
-    certificates. A window appears that allows you to choose a password to
-    protect the backup. You can then save the backup in a directory of your
-    choice.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
+<li><strong>Zobrazit</strong>: Zobrazí podrobné informace o vybraných certifikátech.</li>
+<li><strong>Zálohovat</strong>: Spustí proces ukládání vybraných certifikátů. Objeví se nové okno, které vám dovolí zvolit heslo k ochraně zálohy. Poté můžete zálohu uložit do vámi zvoleného adresáře.</li>
+<li><strong>Zálohovat vše</strong>: Spustí proces ukládání všech certifikátů umístěných v
+  <a href="glossary.xhtml#software_security_device">Bezpečnostním zařízení</a>.
+<p><strong>Poznámka</strong>: Certifikáty na smart cards nemohou být zálohovány. Pokud vyberete některé z vašich certifikátů a klepnete na tlačítko Zálohovat, nebo Zálohovat vše, výsledný soubor zálohy nebude obsahovat žádný certifikát umístěný na čipové kartě či jiných externích bezpečnostních zařízeních. Zálohovat můžete pouze ty certifikáty, jenž jsou uloženy na vestavěném bezpečnostním zařízení.</p>
+</li>
+<li><strong>Importovat</strong>: Importujte soubor obsahující jeden nebo více certifikátů, které byly dříve uloženy. Když klepnete na tlačítko Importovat, Správce certifikátů vás nejprve požádá o umístění souboru, který obsahuje uložené certifikáty. Názvy souborů uložených certifikátů mají obvykle příponu <tt>.p12</tt>; například, <tt>MujCert.p12</tt>. Poté, co jste vybrali soubor k importu, požádá vás Správce certifikátů, abyste vložili to heslo, jenž jste uvedli při zálohování certifikátu.</li>
+<li><strong>Smazat</strong>: Smaže vybrané certifikáty.</li>
+
 </ul>
 
-<p>These actions do not require a certificate to be selected:</p>
+<h3 id="choose_a_certificate_backup_password">Zvolte si heslo zálohy certifikátu</h3>
+
+<p>Heslo zálohy certifikátu chrání jeden či více certifikátů, které zálohujete v panelu <a href="#your_certificates">Osobní certifikáty</a> Správce certifikátů.</p>
+
+<p>Správce certifikátů vás požádá, aby jste zadali toto heslo když zálohujete certifikáty a vyžaduje ho když se pokoušíte importovat certifikáty, jež jste již předem uložili.</p>
 
 <ul>
-  <li><strong>Import</strong>: Import a file containing one or more
-    certificates that were previously backed up. When you click Import,
-    Certificate Manager first asks you to locate the file that contains the
-    backup. The names of certificate backup files typically end in
-    <tt>.p12</tt>; for example, <tt>MyCert.p12</tt>. After you select the file
-    to be imported, Certificate Manager asks you to enter the password that you
-    set when you backed up the certificate.</li>
-  <li><strong>Backup All</strong>: Initiate the process of saving all the
-    certificates stored in the
-    <a href="glossary.xhtml#software_security_device">Software Security
-    Device</a>.
-
-    <p><strong>Note</strong>: Certificates on smart cards cannot be backed up.
-      Whether you select some of your certificates and click Backup, or click
-      Backup All, the resulting backup file will not include any certificates
-      stored on smart cards or other external security devices. You can only
-      back up certificates that are stored on the built-in Software Security
-      Device.</p>
-  </li>
+<li><strong>Heslo zálohy certifikátu</strong>: Do tohoto editačního pole napište vaše heslo zálohy.</li>
+<li><strong>Heslo zálohy certifikátu (znovu)</strong>: Opět napište heslo vaší zálohy. Pokud by jste ho podruhé nenapsali úplně stejně jako poprvé, zůstane tlačítko OK nedostupné. Pokud k tomu dojde, zkuste napsat nové heslo znovu.</li>
 </ul>
 
-<h3 id="choose_a_certificate_backup_password">Choose a Certificate Backup
-  Password</h3>
+<p>Pokud někdo získá takový soubor, který obsahuje vámi uložený certifikát a úspěšně ho naimportuje, taková osoba pak může posílat emaily nebo přistupovat na webové stránky a tvářit se být vámi. To může představovat problém, pokud například digitálně podepíšete důležitý email, nebo spravujete bankovní účet přes Internet.</p>
 
-<p>A certificate backup password protects one or more certificates that you are
-  backing up from the <a href="#your_certificates">Your Certificates</a> tab in
-  the Certificate Manager.</p>
+<p>Z tohoto důvodu je velmi důležité zvolit heslo zálohy certifikátu tak, aby ho bylo obtížné uhodnout. <strong>Měřič kvality hesla</strong> vám dá hrubou představu o kvalitě hesla během vašeho psaní, založenou na takových parametrech, jako délka hesla, užití malých a velkých písmen, číslic a symbolů. To však stále neznamená, že vaše heslo nemůže být uhodnuté.</p>
 
-<p>The Certificate Manager asks you to set this password when you back up
-  certificates, and requests it when you attempt to import certificates that
-  have previously been backed up.</p>
+<p>Více instrukcí naleznete v dokumentu <a href="Stanovení dobrého hesla">Stanovení dobrého hesla</a>.</p>
+
+<p>Velice důležité je také to, aby úložiště vašeho hesla bylo na bezpečném místě, a ne tam, kde je lehce dostupné komukoliv jinému. Pokud byste toto heslo zapomněli, nemůžete zálohu vašeho certifikátu naimportovat zpět.</p>
+
+<h3 id="delete_your_certificates">Odstranění certifikátů</h3>
+
+<p>Před smazáním jednoho z vašich certifikátů s vypršenou platností v panelu  <a href="#your_certificates">Osobní certifikáty</a> v Správci certifikátů se ujistěte, že ho již nikdy nebudete potřebovat na čtení starých e-mailů, jež mohou být zakódovány odpovídajícím privátním klíčem.</p>
+
+<h2 id="people">Lidé</h2>
+
+<p>Panel Lidé <a href="#certificate_manager">Správce certifikátů</a> zobrazí registrované e-mailové certifikáty, které identifikují ostatní osoby.</p>
+
+<p>Když vám lidé zašlou digitálně podepsaný e-mail, Správce certifikátů automaticky naimportuje jejich certifikáty. Tyto certifikáty můžete pak použít k zaslání šifrovaných e-mailů těmto lidem.</p>
+
+<p>Certifikáty těchto lidí jsou v seznamu pod jmény organizací, které je vydaly. Pokud nevidíte názvy certifikátů pod jmény organizací, dvojklepněte na taková jména.</p>
+
+<p>K provedení následujících činností budete potřebovat vybrat jeden nebo více certifikátů a klepnout na jedno z následujících tlačítek:</p>
 
 <ul>
-  <li><strong>Certificate backup password</strong>: Type your backup password
-    into this field.</li>
-  <li><strong>Certificate backup password (again)</strong>: Type your backup
-    password again. If you don&apos;t type it the second time exactly as you
-    did the first time, the OK button remains inactive. If this happens, try
-    typing the new password again.</li>
+<li><strong>Zobrazit</strong>: Zobrazí podrobné informace o vybraných certifikátech.</li>
+  <li><strong>Upravit</strong>: Zobrazí či změní nastavení důvěry, kterou má
+  Správce certifikátů asociován s konkrétní osobou. </li>
+  <li><strong>Importovat</strong>: Provede import souboru obsahující jeden nebo více certifikátů. Když klepněte na tlačítko Importovat, zeptá se vás nejprve Správce certifikátů na soubor, který obsahuje certifikát(y).</li>
+  <li><strong>Exportovat</strong>: Provede export zvolených certifikátů. Při exportu lze volit z řady formátů.</li>
+<li><strong>Smazat</strong>: Smaže vybrané certifikáty.</li>
 </ul>
 
-<p>If someone obtains the file containing a certificate that you have backed up
-  and successfully imports the certificate, that person can send messages or
-  access websites while pretending to be you. This can be a problem, for
-  example, if you digitally sign important email messages or manage your bank
-  or investment accounts over the Internet.</p>
+<h3 id="delete_email_certificates">Odstranění e-mailových Certifikátů</h3>
 
-<p>Therefore, it&apos;s important to select a certificate backup password that
-  is difficult to guess. The <strong>password quality meter</strong> gives you
-  a rough idea of the quality of your password as you type it based on factors
-  such as length and the use of uppercase letters, lowercase letters, numbers,
-  and symbols. It does not guarantee that your password cannot be guessed,
-  however.</p>
+<p>Před smazáním něčího certifikátu v panelu
+  <a href="#people">Lidé</a> Správce certifikátů se ujistěte, že ho nebudete již nikdy v budoucnu potřebovat k zaslání šifrovaného e-mailu této osobě nebo k ověření digitálních podpisů emailů od této osoby.</p>
 
-<p>For further guidelines, see
-  <a href="passwords_help.xhtml#choosing_a_good_password">Choosing a Good
-  Password</a>.</p>
+<h2 id="servers">Servery</h2>
 
-<p>It&apos;s also important to record the password in a safe place&mdash;and
-  not anywhere that&apos;s easily accessible to someone else. If you forget
-  this password, you can&apos;t import the backup of your certificate.</p>
+<p>Panel Servery Správce certifikátů zobrazí registrované certifikáty, které identifikují servery (webové a e-mailové).</p>
 
-<h3 id="delete_your_certificates">Delete Your Certificates</h3>
+<p>Certifikáty jež identifikují servery jsou seskupeny pod jmény organizací, které je vydaly. Pokud nevidíte názvy certifikátů pod jmény organizací, dvojklepněte na taková jména.</p>
 
-<p>Before deleting one of your own expired certificates from the
-  <a href="#your_certificates">Your Certificates</a> tab in the Certificate
-  Manager, make sure you won&apos;t need it again some day for reading old
-  email messages that you may have encrypted with the corresponding private
-  key.</p>
-
-<h2 id="other_peoples_certificates">Other People&apos;s Certificates</h2>
-
-<p>The Other People&apos;s tab in the <a href="#certificate_manager">Certificate
-  Manager</a> displays email certificates you have on file that identify other
-  people.</p>
-
-<p>When people send you digitally signed email messages, Certificate Manager
-  imports their certificates automatically. You can use these certificates to
-  send encrypted messages to those people.</p>
-
-<p>Other people&apos;s certificates are listed under the names of the
-  organizations that issued them:</p>
+<p>K provedení následujících činností budete potřebovat vybrat jeden nebo více certifikátů a klepnout na jedno z následujících tlačítek:</p>
 
 <ul>
-  <li>If you can&apos;t see certificate names under an organization&apos;s
-    name, double-click the name.</li>
-  <li>To select a certificate, click its name.</li>
-  <li>To select more than one certificate, hold down the Control key and click
-    their names.</li>
+<li><strong>Zobrazit</strong>: Zobrazí podrobné informace o vybraných certifikátech.</li>
+<li><strong>Upravit</strong>: Zobrazte nebo upravte nastavení důvěry, které Správce certifikátů připojí k vybraným certifikátům. Tato nastavení můžete použít k označení serverových certifikátů - jestli jim důvěřujete, nebo nedůvěřujete, pro identifikační účely.</li>
+  <li><strong>Importovat</strong>: Provede import souboru obsahující jeden nebo více certifikátů. Když klepněte na tlačítko Importovat, zeptá se vás nejprve Správce certifikátů na soubor, který obsahuje certifikát(y).</li>
+  <li><strong>Exportovat</strong>: Provede export zvolených certifikátů. Při exportu lze volit z řady formátů.</li>
+<li><strong>Smazat</strong>: Smaže vybrané certifikáty.</li>
+<!--translate--><li><strong>Přidat výjimku</strong>: Přidá bezpečnostní výjimku pro server (webový server, poštovní server), který sebe identifikuje neplatnými informacemi. Jedná se o pokročilou funkci, a proto ji používejte na vlastní riziko.</li>
 </ul>
 
-<p>To perform the following actions, select one or more certificates and click
-  one of the following buttons:</p>
+<h3 id="edit_web_site_certificate_trust_settings">Změna nastavení důvěry serverových certifikátů</h3>
+
+<p>Když v panelu
+  <a href="#web_site_certificates">Servery</a> Správce certifikátů vyberete nějaký webový certifikát a klepnete na tlačítko Upravit, uvidíte okno s titulkem <q>Změna nastavení důvěry serverových certifikátů.</q> Zde určíte, zda chcete důvěřovat vybranému certifikátu pro identifikaci webového serveru a navázání šifrovaného spojení.</p>
+
+<p>Dialogové okno obsahuje tyto položky:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
+<li><strong>Certifikát <q><em>jméno certifikátu</em></q> byl vydán</strong>: Poskytuje informace o
+  <a href="glossary.xhtml#certificate_authority">certifikační autoritě</a> která tento certifikát vydala.</li>
+<li><strong>Upravte nastavení důvěry certifikátu</strong>:
+  <ul>
+  <li><strong>Důvěřuj původu tohoto certifikátu</strong>: Pokud vyberete tuto volbu, Správce certifikátů bude od této chvíle důvěřovat tomuto certifikátu pro identifikaci tohoto webového serveru či navázání šifrovaného spojení. Pokud vyberete tuto volbu a pak se pokusíte tyto stránky navštívit, váš prohlížeč zpřístupní stránky s několika, pokud vůbec, varovnými hlášeními.</li>
+  <li><strong>Nedůvěřuj původu tohoto certifikátu</strong>: Pokud vyberete tuto volbu, Správce certifikátů již nebude důvěřovat tomuto certifikátu pro identifikaci tohoto webového serveru či navázání šifrovaného spojení. Pokud vyberete tuto nabídku a pak se pokusíte tyto stránky navštívit, uvidíte jedno či více varovných hlášení dříve, než se na stránky dostanete.</li>
+  </ul>
+</li>
+<li><strong>Upravte důvěru v CA</strong>: Klepněte na toto tlačítko a určete nastavení důvěry pro certifikační autoritu (CA) která vydala tento serverový certifikát. Tato nastavení vám umožní důvěřovat či nedůvěřovat různým druhům certifikátů vydaných touto certifikační autoritou. Můžete si například zvolit důvěřovat všem serverovým certifikátům vydaných touto autoritou.</li>
 </ul>
 
-<h3 id="delete_email_certificates">Delete Email Certificates</h3>
+<p>Klepněte na tlačítko OK a potvrďte vaší volbu.</p>
 
-<p>Before deleting someone else&apos;s certificate from the
-  <a href="#other_peoples_certificates">Other People&apos;s</a> tab in the
-  Certificate Manager, make sure you won&apos;t need it again some day to send
-  encrypted email to that person or to verify digital signatures on messages
-  from that person.</p>
+<h3 id="delete_web_site_certificates">Odstranění serverových certifikátů</h3>
 
-<h2 id="web_site_certificates">Website Certificates</h2>
+<p>Před smazáním serverového certifikátu v panelu
+  <a href="#web_site_certificates">Servery</a> Správce certifikátů, se ujistěte, že ho již nebudete potřebovat pro identifikaci webového serveru nebo e-mailového serveru a navázání šifrovaného spojení.</p>
 
-<p>The Websites tab in the Certificate Manager displays certificates you have
-  on file that identify websites.</p>
+<h2 id="authorities">Autority</h2>
 
-<p>Website certificates are grouped under the names of the organizations that
-  issued them:</p>
+<p>Panel Certifikační autority <a href="#certificate_manager">Správce certifikátů</a> zobrazí registrované certifikáty, které identifikují
+  <a href="glossary.xhtml#certificate_authority">certifikační autority (CA)</a>.</p>
+
+<p>Certifikáty CA jsou seskupeny pod jmény organizací, které je vydaly. Pokud nevidíte názvy certifikátů CA pod jmény organizací, dvojklepněte na taková jména.</p>
+
+<p>K provedení následujících činností budete potřebovat vybrat jeden nebo více certifikátů a klepnout na jedno z následujících tlačítek:</p>
 
 <ul>
-  <li>If you can&apos;t see certificate names under an organization&apos;s
-    name, double-click the name.</li>
-  <li>To select a certificate, click its name.</li>
-  <li>To select more than one certificate, hold down the Control key and click
-    their names.</li>
+<li><strong>Zobrazit</strong>: Zobrazí podrobné informace o vybraných certifikátech.</li>
+<li><strong>Upravit</strong>: Zobrazte nebo upravte nastavení důvěry, které Správce certifikátů připojí k vybraným certifikátům. Tato nastavení můžete použít k určení, kterým druhům certifikátů, vydaným odpovídajícími CA, pokud nějakým, důvěřujete.</li>
+  <li><strong>Importovat</strong>: Provede import souboru obsahující jeden nebo více certifikátů. Když klepněte na tlačítko Importovat, zeptá se vás nejprve Správce certifikátů na soubor, který obsahuje certifikát(y).</li>
+  <li><strong>Exportovat</strong>: Provede export zvolených certifikátů. Při exportu lze volit z řady formátů.</li>
+<li><strong>Smazat</strong>: Smaže vybrané certifikáty.</li>
 </ul>
 
-<p>To perform the following actions, select one or more certificates and click
-  one of the following buttons:</p>
+<p>K zajištění, že celý <a href="glossary.xhtml#certificate_chain">řetězený certifikát</a> CA bude důvěryhodný, potřebujete upravit pouze kořenový certifikát CA.</p>
+
+<p>Abyste naimportovali tento řetězený certifikát, klepněte na odkaz na webové stránce příslušné CA. Pak můžete použít  panel autorit k vyhledání kořenového certifikátu a ke změně nastavení jeho důvěry.</p>
+
+<p>Všechny kořenové a podřízené certifikáty se zobrazí pod stejnou organizací. Kořenový certifikát je ten, který má v seznamu uveden sám sebe jako vydavatele.</p>
+
+<p><strong>Pokud stahujete podřízený certifikát</strong>: Při stahování podřízeného certifikátu CA, jehož kořenový certifikát je již označen jako důvěryhodný, nemusíte označovat, pro které účely mu důvěřujete. Podřízené certifikáty automaticky dědí nastavení důvěry po jejich kořenových certifikátech.</p>
+
+<h3 id="edit_ca_certificate_trust_settings">Změna nastavení důvěry certifikátu CA</h3>
+
+<p>Když vyberete z panelu <a href="#authorities">Certifikační autority</a> Správce certifikátů certifikát CA a klepnete na tlačítko Upravit, zobrazí se dialogové okno s titulkem <q>Změna nastavení důvěry certifikátu CA</q>. Zde uveďte jakým druhům certifikátů potvrzených touto CA důvěřujete. Pokud odznačíte všechny zaškrtávací políčka, Správce certifikátů nebude důvěřovat žádnému certifikátu vydaným touto CA.</p>
+
+<p>Tato nastavení mají následující účinky:</p>
 
 <ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Edit</strong>: View or change the trust settings that Certificate
-    Manager associates with the selected certificates. You can use these
-    settings to designate a website certificate as one that you trust or
-    don&apos;t trust for identification purposes.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
+<li><strong>Tento certifikát je schopen rozpoznat webové servery</strong>: Správce certifikátů bude důvěřovat certifikátům vydaným touto CA pro účely identifikace webových serverů a šifrování spojení s nimi. Pokud odznačíte toto zaškrtávací políčko, nebude Správce certifikátů důvěřovat serverovým certifikátům vydaným touto CA.</li>
+<li><strong>Tento certifikát je schopen rozpoznat emailové uživatele</strong>: Správce certifikátů bude důvěřovat certifikátům vydaným touto CA pro účely podepsání a šifrování e-mailu. Pokud odznačíte toto zaškrtávací políčko, nebude Správce certifikátů důvěřovat e-mailovým certifikátům vydaným touto CA.</li>
+<li><strong>Tento certifikát je schopen rozpoznat výrobce softwaru</strong>: Správce certifikátů bude důvěřovat certifikátům vydaným touto CA pro účely identifikace výrobců softwaru. Pokud odznačíte toto zaškrtávací políčko, nebude Správce certifikátů důvěřovat takovým certifikátům, které vydala tato CA.</li>
 </ul>
 
-<h3 id="edit_web_site_certificate_trust_settings">Edit Website Certificate
-  Trust Settings</h3>
+<p>Pro potvrzení nastavení, které jste vybrali, klepněte na tlačítko OK.</p>
 
-<p>When you select a website certificate from the
-  <a href="#web_site_certificates">Websites</a> tab in the Certificate Manager
-  and click Edit, you see a window entitled <q>Edit website certificate trust
-  settings</q>. Here you specify whether you want to trust the selected
-  certificate for identifying the website and setting up an encrypted
-  connection.</p>
+<h3 id="delete_ca_certificates">Odstranění certifikátů CA</h3>
 
-<p>The dialog box contains these elements:</p>
+<p>Před smazáním certifikátu CA v panelu <a href="#authorities">Certifikační autority</a> Správce certifikátů se ujistěte, že ho již nebudete potřebovat pro ověření certifikátů vydaných touto CA. Pokud byste smazali jediný platný certifikát pro určitou CA, nebude Správce certifikátů již dále důvěřovat žádným certifikátům vydaným touto CA.</p>
+
+<h2 id="others">Ostatní</h2>
+
+<p>Ostatní panely ve Správci certifikátů zobrazují certifikáty, které máte v souboru, který nespadá do žádné kategorie.</p>
+
+<p>Use the following buttons to view and manage your certificates:</p>
 
 <ul>
-  <li><strong>The certificate <q><em>name of certificate</em></q> was
-    issued by</strong>: Provides information about the
-    <a href="glossary.xhtml#certificate_authority">certificate authority</a>
-    that issued this certificate.</li>
-  <li><strong>Edit certificate trust settings</strong>:
-    <ul>
-      <li><strong>Trust the authenticity of this certificate</strong>: If you
-        select this option, Certificate Manager will henceforth trust this
-        certificate for the purposes of identifying this website or setting up
-        an encrypted connection. If you select this option and then attempt to
-        visit the website, your browser will access the site with few, if any,
-        warnings.</li>
-      <li><strong>Do not trust the authenticity of this certificate</strong>:
-        If you select this option, Certificate Manager will no longer trust
-        this certificate for the purposes of identifying this website or
-        setting up an encrypted connection. If you select this option and
-        then attempt to visit the website, you will see one or more warning
-        messages before you can access the site.</li>
-    </ul>
-  </li>
-  <li><strong>Edit CA Trust</strong>: Click this button to specify trust
-    settings for the certificate authority (CA) that issued the website
-    certificate. These settings allow you to trust or not to trust different
-    kinds of certificates issued by that certificate authority. For example,
-    you can choose to trust all website certificates issued by the
-    authority.</li>
+  <li><strong>Zobrazit...</strong>: Zobrazí detailní informace o zvolených certifikátech.</li>
+  <li><strong>Exportovat...</strong>: Provede export zvolených certifikátů. Můžete zvolit z řady formátů. </li>
+  <li><strong>Smazat...</strong>: Smaže zvolené certifikáty.</li>
 </ul>
 
-<p>Click OK to confirm your choice.</p>
+<h2 id="device_manager">Správce zařízení</h2>
 
-<h3 id="delete_web_site_certificates">Delete Website Certificates</h3>
+<p>Tato kapitola popisuje volby dostupné ve Správci zařízení. Podrobnější informace a průvodce použitím Spávce zařízení viz <a href="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">Správa čipových karet a jiných bezpečnostních zařízení</a>.</p>
 
-<p>Before deleting a website certificate from the
-  <a href="#web_site_certificates">Websites</a> tab in the Certificate
-  Manager, make sure that you won&apos;t need it again for the purposes of
-  identifying a website and setting up an encrypted connection.</p>
-
-<h2 id="authorities">Authorities</h2>
-
-<p>The Authorities tab in the <a href="#certificate_manager">Certificate
-  Manager</a> displays the certificates you have on file that identify
-  <a href="glossary.xhtml#certificate_authority">certificate authorities
-  (CAs)</a>.</p>
-
-<p>CA certificates are grouped under the names of the organizations that issued
-  them:</p>
-
-<ul>
-  <li>If you can&apos;t see CA certificate names under an organization&apos;s
-    name, double-click the name.</li>
-  <li>To select a CA certificate, click its name.</li>
-  <li>To select more than one CA certificate, hold down the Control key and
-    click their names.</li>
-</ul>
-
-<p>To perform these actions, select the certificates on which you want to act
-  and click one of these buttons:</p>
-
-<ul>
-  <li><strong>View</strong>: Display detailed information about the selected
-    certificates.</li>
-  <li><strong>Edit</strong>: View or change the settings that Certificate
-    Manager associates with the selected certificates. You can use these
-    settings to designate what kinds of certificates, if any, you trust that
-    are issued by the corresponding CAs.</li>
-  <li><strong>Delete</strong>: Delete the selected certificates.</li>
-</ul>
-
-<p>To ensure that an entire
-  <a href="glossary.xhtml#certificate_chain">certificate chain</a> of CAs are
-  all trusted, you need to edit the root CA certifiate only.</p>
-
-<p>To import the chain, you click a link on a web page provided by the CA. You
-  can then use the authorities tab to locate the root certificate and edit its
-  trust settings.</p>
-
-<p>The root and intermediate CAs all appear under the same organization. The
-  root certificate is the one that lists itself as the the issuer.</p>
-
-<p><strong>If you download an intermediate CA</strong>: If you download an
-  intermediate CA certificate that chains to a root certificate already marked
-  as trusted in your browser, you don&apos;t have to indicate what purposes you
-  trust it for. Intermediate certificates automatically inherit the trust
-  settings of their roots.</p>
-
-<h3 id="edit_ca_certificate_trust_settings">Edit CA Certificate Trust
-  Settings</h3>
-
-<p>When you select a CA certificate from the
-  <a href="#authorities">Authorities</a> tab in the Certificate Manager and
-  click Edit, you see a window entitled <q>Edit CA certificate trust
-  settings</q>. Here you specify the kinds of certificates you trust this CA
-  to certify. If you deselect all the checkboxes, Certificate Manager will not
-  trust any certificates issued by this CA.</p>
-
-<p>The settings have these effects:</p>
-
-<ul>
-  <li><strong>This certificate can identify websites</strong>: Certificate
-    Manager will trust certificates issued by this CA for the purpose of
-    identifying websites and encrypting website connections. If you deselect
-    this checkbox, Certificate Manager will not trust website certificates
-    issued by this CA.</li>
-  <li><strong>This certificate can identify mail users</strong>: Certificate
-    Manager will trust certificates issued by this CA for the purpose of
-    signing or encrypting email. If you deselect this checkbox, Certificate
-    Manager will not trust email certificates issued by this CA.</li>
-  <li><strong>This certificate can identify software makers</strong>:
-    Certificate Manager will trust certificates issued by this CA for the
-    purpose of identifying software makers. If you deselect this checkbox,
-    Certificate Manager will not trust such certificates issued by this
-    CA.</li>
-</ul>
-
-<p>Click OK to confirm the settings you have selected.</p>
-
-<h3 id="delete_ca_certificates">Delete CA Certificates</h3>
-
-<p>Before deleting a CA certificate from the
-  <a href="#authorities">Authorities</a> tab in the Certificate Manager,
-  make sure that you won&apos;t need it again to validate certificates issued
-  by that CA. If you delete the only valid certificate you have for a CA,
-  Certificate Manager will no longer trust any certificates issued by that
-  CA.</p>
-
-<h2 id="device_manager">Device Manager</h2>
-
-<p>This section describes the options available in the Device Manager window.
-  For background information and step-by-step instructions on the use of the
-  Device Manager, see
-  <a href="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">Managing
-  Smart Cards and Other Security Devices</a>.</p>
-
-<p>If you are not currently viewing the Device Manager window, follow these
-  steps:</p>
+<p>Pokud právě nemáte otevřené okno Správce zařízení, postupujte dle následujících kroků:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click Certificates. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
-  <li>In the Certificates panel, click Manage Security Devices.</li>
+<li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+  <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+<li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+<li>V podkategorii Certifikáty klepněte na Spravovat bezpečnostní zařízení...</li>
 </ol>
 
-<p>The Device Manager lists each available PKCS #11 module, and the security
-  devices managed by each module below the module&apos;s name.</p>
+<p>Tento Správce zařízení vytváří pod názvy modulů seznam každého dostupného modulu PKCS #11 a bezpečnostních zařízení spravovaných jednotlivými moduly.</p>
 
-<p>When you select a module or device, information about the selected item
-  appears in the middle of the window, and some of the buttons on the right
-  side of the window become available. In general, you perform an action on
-  a module or device by selecting its name and clicking the appropriate
-  button:</p>
+<p>Když vyberete nějaký modul či zařízení, objeví se uprostřed okna informace o vybrané položce a některá tlačítka na pravé straně okna se zpřístupní. Obecně se dá říci, že k vykonání nějaké akce na modulu či zařízení musíte vybrat jméno této položky a klepnout na odpovídající tlačítko:</p>
 
 <ul>
-  <li><strong>Log In</strong>: Log into the selected security device. After you
-    have logged in to the device, the frequency with which you will be asked to
-    enter the master password for the device depends on the
-    <a href="passwords_help.xhtml#master_password_timeout">Master Password
-    Timeout</a> settings.</li>
-  <li><strong>Log Out</strong>: Log out of the selected security device. After
-    you have logged out of the device, the device and the certificates it
-    contains will not be available until you log in again.</li>
-  <li><strong>Change Password</strong>: Change the master password for the
-    selected security device.</li>
-  <li><strong>Load</strong>: Displays a dialog box that allows you to specify
-    the name and location of a new PKCS #11 module. Before adding a new module,
-    you should first install the module software on your computer and if
-    necessary connect any associated hardware device. Follow the instructions
-    provided by the vendor.</li>
-  <li><strong>Unload</strong>: Unload the selected module. If you unload a
-    module, both the module and its security devices are no longer available
-    for use by the browser.</li>
-  <li><strong>Enable FIPS</strong>: Turns the FIPS mode on and off. For more
-    information, see
-    <a href="using_certs_help.xhtml#enable_fips_mode">Enable FIPS
-    Mode</a>.</li>
+<li><strong>Přihlásit</strong>: Přihlašte se do vybraného bezpečnostního zařízení. Poté, co jste se přihlásili, četnost, s jakou budete dotazováni na vložení hlavního hesla tohoto zařízení závisí na nastavení <a href="passwords_help.xhtml#master_password_timeout">Platnost hlavního hesla</a>.</li>
+<li><strong>Odhlásit</strong>: Odhlašte se z vybraného bezpečnostního zařízení. Poté, co jste se odhlásili z tohoto zařízení, nebude zařízení, ani certifikáty, které obsahuje, dostupné, dokud se znovu nepřihlásíte.</li>
+<li><strong>Změnit heslo</strong>: Změňte hlavní heslo vybraného bezpečnostního zařízení.</li>
+<li><strong>Přidat</strong>: Zobrazí dialogové okno, které vám umožní zadat název a umístění nového modulu PKCS #11. Před přidáním nového modulu byste měli nejprve nainstalovat na váš počítač modulový software a pokud je to nutné, připojit veškerá s tím spojená hardwarová zařízení. Postupujte dle instrukcí výrobce.</li>
+<li><strong>Odstranit</strong>: Odstraňte vybraný modul. Pokud odstraníte modul, jak modul samotný tak i jeho bezpečnostní zařízení, nebudou již dostupné pro použití prohlížečem.</li>
+<li><strong>Povolit FIPS</strong>: Zapíná a vypíná režim FIPS. Více informací, viz <a href="using_certs_help.xhtml#enable_fips_mode">Povolit režim FIPS</a>.</li>
 </ul>
 
 <p>&copyright.string;</p>
 
 </body>
 </html>
+

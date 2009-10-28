@@ -52,9 +52,21 @@
 <!ENTITY manualMarkAsRead.label "Pokud je označím manuálně jako nevyžádané">
 <!ENTITY manualMarkAsRead.accesskey "k">
 
-<!ENTITY enableJunkLogging.label "Povolit logování nevyžádané pošty.">
-<!ENTITY enableJunkLogging.accesskey "E">
-<!ENTITY openJunkLog.label "Zobrazit log">
+<!ENTITY enableJunkLogging.label "Povolit žurnálvání nevyžádané pošty.">
+<!ENTITY enableJunkLogging.accesskey "v">
+<!ENTITY openJunkLog.label "Zobrazit žurnál">
 <!ENTITY openJunkLog.accesskey "Z">
-<!ENTITY resetTrainingData.label "Vymazat naučená pravidla">
-<!ENTITY resetTrainingData.accesskey "t">
+<!ENTITY resetTrainingData.label "Smazat naučená pravidla">
+<!ENTITY resetTrainingData.accesskey "m">
+
+<!ENTITY pref.suspectMail.caption "Podezřelá pošta">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption "Podvodná pošta">
+<!ENTITY enablePhishingDetector.label "Upozornit, pokud čtená zpráva je podezřelá na podvodnou poštu">
+<!ENTITY enablePhishingDetector.accesskey "U">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption "Antivir">
+<!ENTITY antiVirus.label "Povolit antivirovým klientům prohlížet jednotlivé příchozí zprávy">
+<!ENTITY antiVirus.accesskey "P">

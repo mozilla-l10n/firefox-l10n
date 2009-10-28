@@ -1,74 +1,78 @@
-<!ENTITY welcome.description             "Quick Account Setup">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "Your name">
-<!ENTITY email.description               "Email">
-<!ENTITY password.description            "Password">
+<!ENTITY autoconfigWizard.title "Založení poštovního účtu">
+<!ENTITY name.label "Vaše jméno:">
+<!ENTITY name.accesskey "n">
+<!ENTITY name.emptytext "Jméno Příjmení">
+<!ENTITY name.text "Vaše jméno tak, jak se bude zobrazovat ostatním.">
+<!ENTITY email.label "E-mail:">
+<!ENTITY email.accesskey "l">
+<!ENTITY email.emptytext "email@example.com">
+<!ENTITY password.label "Heslo:">
+<!ENTITY password.accesskey "H">
+<!ENTITY password.emptytext "Heslo">
+<!ENTITY password.text "Nepoviné, pouze pro ověření uživatelského jména">
 
-<!ENTITY next.label                      "Next &#187;">
-<!ENTITY next.accesskey                  "N">
-<!ENTITY back.label                      "&#171; Back">
-<!ENTITY back.accesskey                  "B">
+<!ENTITY accountInformation.label "Informace o účtu">
+<!ENTITY username2.label "Uživatelské jméno">
+<!ENTITY incoming.label "Příchozí">
+<!ENTITY outgoing.label "Odchozí">
+<!ENTITY noEncryption.label "Žádné">
+<!ENTITY starttls.label "STARTTLS">
+<!ENTITY sslTls.label "SSL/TLS">
 
-<!ENTITY accountInformation.label        "Account Information">
-<!ENTITY username.label                  "username">
-<!ENTITY receivingServer.label           "receiving">
-<!ENTITY sendingServer.label             "sending">
-<!ENTITY noEncryption.label              "None">
-<!ENTITY starttls.label                  "STARTTLS">
-<!ENTITY sslTls.label                    "SSL/TLS">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop.label "POP">
+<!ENTITY smtp.label "SMTP">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
-<!ENTITY createAndEditSettings.label     "Create and Edit Account Settings">
-<!ENTITY cancel.label                    "Cancel">
-<!ENTITY stop.label                      "Stop">
-<!ENTITY stop.accesskey                  "S">
+<!ENTITY manualSetup.label "Ruční nastavení…">
+<!ENTITY manualSetup.accesskey "R">
+<!ENTITY cancel.label "Zrušit">
+<!ENTITY cancel.accesskey "Z">
+<!ENTITY continue.label "Pokračovat">
+<!ENTITY continue.accesskey "P">
+<!ENTITY startOver.label "Začít znovu">
+<!ENTITY startOver.accesskey "n">
+<!ENTITY stop.label "Zastavit">
+<!ENTITY stop.accesskey "s">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Re-test Configuration">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Edit">
-<!ENTITY edit.accesskey                  "E">
+ displayed on the button which will re-guess the account configuration,
+ taking into account the settings the user has changed. -->
+<!ENTITY retest.label "Znovu otestovat nastavení">
+<!ENTITY retest.accesskey "o">
+<!ENTITY edit.label "Upravit">
+<!ENTITY edit.accesskey "U">
 
-<!ENTITY rememberPassword.label          "Remember password">
-<!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY rememberPassword.label "Zapamatovat si heslo">
+<!ENTITY rememberPassword.accesskey "p">
 
-<!ENTITY warning.label                   "Warning!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "I understand the risks.">
-<!ENTITY confirmIncomingWarning.accesskey "u">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
-     warning on the outgoing server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "I understand the risks.">
-<!ENTITY confirmOutgoingWarning.accesskey "d">
+<!ENTITY warning.label "Upozornění!">
+<!ENTITY incomingSettings.label "Příchozí nastavení:">
+<!ENTITY outgoingSettings.label "Odchozí nastavení:">
+<!ENTITY technicaldetails.label "Technické detaily">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+ warning on the outgoing server, then the user will need to check a
+ checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label "Uvědomuji si rizika.">
+<!ENTITY confirmWarning.accesskey "U">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
-     on the incoming or outgoing servers, then the page that pops up will
-     have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Create Account">
-<!ENTITY createAccount.accesskey         "C">
+ on the incoming or outgoing servers, then the page that pops up will
+ have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label "Vytvořit účet">
+<!ENTITY createAccount.accesskey "V">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
-     the incoming or outgoing servers, then the page that pops up will have
-     this text in a button to take you back to the previous page to change
-     the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
-<!ENTITY changeSettings.accesskey        "S">
+ the incoming or outgoing servers, then the page that pops up will have
+ this text in a button to take you back to the previous page to change
+ the settings and try again. -->
+<!ENTITY changeSettings.label "Změnit nastavení">
+<!ENTITY changeSettings.accesskey "m">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; vám umožní pracovat s poštou dle zadaného nastavení, ale bylo by vhodné kontaktovat svého administrátora či poskytovatele pošty ohledně řádného připojení. Pro více informací vizte časté otázky aplikace Thunderbird.">
 
-<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.title "Upozornění! Toto je nezabezpečený server.">
+<!ENTITY insecureServer.tooltip.details "Klepněte na kroužek pro více informací.">
 
-<!ENTITY insecureClearText.description   "Email is sent in clear-text, so your email could be read by attackers, etc. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
-<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY insecureUnencrypted.description "E-maily a přihlašovací údaje jsou zasílány nešifrovaně, a tak je případní útočníci mohou snadno číst. &brandShortName; vám sice umožní pracovat s poštou, ale bylo by velmi vhodné požádat svého poskytovatele pošty o zabezpečení komunikace se serverem.">
+<!ENTITY insecureSelfSigned.description "Server používá nedůvěryhodný certifikát a nelze tak zaručit, že nikdo nepřebírá komunikaci mezi aplikací &brandShortName; a serverem. &brandShortName; vám sice umožní pracovat s poštou, ale bylo by vhodné požádat svého poskytovatele pošty o zabezpečení komunikace pomocí důvěryhodného certifikátu.">
+<!ENTITY secureServer.description "Gratulujeme! Toto je zabezpečený server.">
+
+
+

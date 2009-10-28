@@ -1,22 +1,22 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
-<!ENTITY pref.content.title                     "Obsah">
-<!ENTITY pref.content.description               "These settings influence how website and message content appears in &brandShortName;.">
-<!ENTITY siteIcons.label                        "Ikony webového serveru">
-<!ENTITY useSiteIcons.label                     "Zobrazovat ikony webového serveru">
-<!ENTITY useSiteIcons.accesskey                 "Z">
-<!ENTITY useFavIcons.label                      "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
-<!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Zobrazovat ikony webového serveru u záložek v nabídce a na liště:">
-<!ENTITY tbIconsNever.label                     "Nikdy u záložek nezobrazovat ikony webového serveru">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "Pouze pokud byla stránka nedávno navštívena">
-<!ENTITY tbIconsCache.accesskey                 "P">
-<!ENTITY tbIconsAlways.label                    "Vždy u záložek nahrávat ikony webového serveru">
-<!ENTITY tbIconsAlways.accesskey                "V">
-<!ENTITY enableAutomaticImageResizing.label     "Zmenšovat velké obrázky na rozměr okna prohlížeče">
+<!ENTITY pref.content.title "Obsah">
+<!ENTITY pref.content.description "Toto nastavení ovlivní zobrazení webových stránek a obsahu zpráv v aplikaci &brandShortName;.">
+<!ENTITY siteIcons.label "Ikony webového serveru">
+<!ENTITY useSiteIcons.label "Zobrazovat ikony webového serveru">
+<!ENTITY useSiteIcons.accesskey "Z">
+<!ENTITY useFavIcons.label "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
+<!ENTITY useFavIcons.accesskey "A">
+<!ENTITY tbIconsDescription.label "Zobrazovat ikony webového serveru u záložek v nabídce a na liště:">
+<!ENTITY tbIconsNever.label "Nikdy u záložek nezobrazovat ikony webového serveru">
+<!ENTITY tbIconsNever.accesskey "N">
+<!ENTITY tbIconsCache.label "Pouze pokud byla stránka nedávno navštívena">
+<!ENTITY tbIconsCache.accesskey "P">
+<!ENTITY tbIconsAlways.label "Vždy u záložek nahrávat ikony webového serveru">
+<!ENTITY tbIconsAlways.accesskey "V">
+<!ENTITY enableAutomaticImageResizing.label "Zmenšovat velké obrázky na rozměr okna prohlížeče">
 <!ENTITY enableAutomaticImageResizing.accesskey "e">
-<!ENTITY useSmoothScroll.label                  "Použít jemné posunování">
-<!ENTITY useSmoothScroll.accesskey              "P">
-<!ENTITY textZoomOnly.label                     "Měnit velikost pouze textu místo celé stránky">
-<!ENTITY textZoomOnly.accesskey                 "M">
+<!ENTITY useSmoothScroll.label "Použít jemné posunování">
+<!ENTITY useSmoothScroll.accesskey "P">
+<!ENTITY textZoomOnly.label "Měnit velikost pouze textu místo celé stránky">
+<!ENTITY textZoomOnly.accesskey "M">

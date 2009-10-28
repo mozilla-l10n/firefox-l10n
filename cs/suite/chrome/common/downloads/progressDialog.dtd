@@ -51,4 +51,4 @@
 <!ENTITY cmd.copyDownloadLink.label "Kopírovat stahovaný odkaz">
 <!ENTITY cmd.copyDownloadLink.accesskey "K">
 <!ENTITY closeWhenDone.label "Zavřít toto okno při dokončení stahování.">
-<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY closeWhenDone.accesskey "Z">

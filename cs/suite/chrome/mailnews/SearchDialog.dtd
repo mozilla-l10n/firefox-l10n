@@ -1,13 +1,13 @@
 <!-- for SearchDialog.xul -->
 
 <!ENTITY searchHeading.label "Hledat položky v:">
-<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchHeading.accesskey "e">
 <!ENTITY searchSubfolders.label "Hledat ve vnořených složkách">
 <!ENTITY searchSubfolders.accesskey "l">
 <!ENTITY searchLocalSystem.label "Hledat v místním systému">
 <!ENTITY searchLocalSystem.accesskey "d">
 <!ENTITY resetButton.label "Obnovit">
-<!ENTITY resetButton.accesskey "B">
+<!ENTITY resetButton.accesskey "O">
 <!ENTITY helpButton.label "Nápověda">
 <!ENTITY helpButton.accesskey "v">
 <!ENTITY openButton.label "Otevřít">

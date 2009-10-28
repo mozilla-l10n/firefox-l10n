@@ -1,16 +1,14 @@
 <!-- These are added to the Advanced - Scripts & Plug-ins panel -->
-<!ENTITY enbJsCheckMailNews.label "Pošta a diskusní skupiny">
-<!ENTITY enbJsCheckMailNews.accesskey "P">
 <!ENTITY enbPluginCheckMailNews.label "Pošta a diskusní skupiny">
 <!ENTITY enbPluginCheckMailNews.accesskey "o">
-<!-- These are added to the Window menu -->
 
+<!-- These are added to the Window menu -->
 <!ENTITY mail.label "Pošta a diskusní skupiny">
 <!ENTITY mail.accesskey "P">
 <!ENTITY addressbook.label "Adresář">
 <!ENTITY addressbook.accesskey "A">
-<!-- These are added to Preferences dialog -->
 
+<!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label "Zobrazení zpráv">
 <!ENTITY notifications.label "Upozorňování">
 <!ENTITY address.label "Adresování">
@@ -20,4 +18,4 @@
 <!ENTITY junk.label "Nevyžádaná pošta">
 <!ENTITY tags.label "Štítky">
 <!ENTITY characterEncoding.label "Znaková sada">
-<!ENTITY offline.label "Režim offline a místo na disku">
+<!ENTITY networkStorage.label "Síť a úložiště">

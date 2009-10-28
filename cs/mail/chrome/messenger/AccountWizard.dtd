@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Průvodce vytvoření účtu">
-<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY windowTitle.label "Průvodce vytvářením účtu">
+<!ENTITY accountWizard.size "width: 44em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
@@ -25,7 +25,7 @@
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(například: &quot;Pavel Novák&quot;).">
+<!ENTITY fullnameExample.label "(například: &quot;Jiří Novák&quot;).">
 <!ENTITY fullnameLabel.label "Vaše jméno:">
 <!ENTITY fullnameLabel.accesskey "V">
 
@@ -55,12 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Pro tento účet bude použit existující odchozí (SMTP) server &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;. Nastavení odchozího serveru můžete změnit pomocí položky Nastavení účtu z nabídky Nástroje.">
+<!ENTITY haveSmtp1.prefix "Bude použit existující odchozí (SMTP) server &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;. Nastavení odchozího serveru lze změnit v nastavení účtu.">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Zadejte jméno uživatele pro odchozí poštu přidělené poskytovatelem (většinou je stejné jako jméno uživatele pro příchozí poštu).">
 <!ENTITY usernameSmtpLabel.label "Jméno uživatele pro odchozí server:">
 <!ENTITY usernameSmtpLabel.accesskey "m">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Jméno pro uživatele odchozího serveru  (SMTP) je &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;. Nastavení odchozího serveru můžete změnit pomocí položky Nastavení účtu z nabídky Nástroje.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.prefix "Bude použito existující odchozí (SMTP) uživatelské jméno &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;. Nastavení odchozího serveru lze změnit v nastavení účtu.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Váš odchozí (SMTP) server, &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; je stejný jako příchozí, takže bude použito stejné jméno uživatele. Nastavení odchozího serveru můžete změnit pomocí položky Nastavení účtu z nabídky Nástroje.">
+<!ENTITY haveSmtp3.suffix2 "&quot; je shodný s příchozím. Pro přístup bude použito příchozí uživatelské jméno. Nastavení odchozího serveru lze změnit v nastavení účtu.">
 
 <!-- Entities for Account name page -->
 

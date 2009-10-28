@@ -15,12 +15,7 @@
 <!ENTITY color.label "Barva:">
 <!ENTITY color.accesskey "B">
 <!ENTITY displayWidth.label "Zobrazení prostých textových zpráv a článků">
-<!ENTITY plainText.label "Použít písmo:">
 <!ENTITY displayText.label "Použít následující nastavení pro zobrazení citovaných zpráv v čistém textu:">
-<!ENTITY fixedWidth.label "Neproporcionální písmo">
-<!ENTITY fixedWidth.accesskey "N">
-<!ENTITY variableWidth.label "Proporcionální písmo">
-<!ENTITY variableWidth.accesskey "r">
 <!ENTITY colors.label "Barvy">
 <!ENTITY overrideColors.label "Při zobrazení zpráv použít následující barvy:">
 <!ENTITY textColor.label "Barva textu:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "S">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label "Nastavení písem a znakové sady aplikace &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "Písma a znaková sada">
-<!ENTITY fontOptions.accesskey "m">
-<!ENTITY fontOptions.label "Písma…">
+<!ENTITY fontsAndColors.label "Písma">
+<!ENTITY defaultFont.label "Výchozí písmo:">
+<!ENTITY defaultFont.accesskey "p">
+<!ENTITY defaultSize.label "Velikost:">
+<!ENTITY defaultSize.accesskey "e">
+<!ENTITY fontOptions.accesskey "o">
+<!ENTITY fontOptions.label "Rozšířené…">

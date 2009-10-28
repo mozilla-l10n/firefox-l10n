@@ -72,7 +72,7 @@
 <!ENTITY menuitem.moveBookmark.label "Přesunout záložku(y)…">
 <!ENTITY menuitem.moveBookmark.accesskey "s">
 <!ENTITY button.moveBookmark.label "Přesunout…">
-<!ENTITY button.moveBookmark.accesskey "M">
+<!ENTITY button.moveBookmark.accesskey "s">
 <!ENTITY command.addBookmark.label "Přidat…">
 <!ENTITY command.manageBookmarks.label "Spravovat">
 <!ENTITY command.sortFolder.label "Seřadit složku…">

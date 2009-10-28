@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Vložit jako citaci">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Najít/nahradit…">
 <!ENTITY findCmd.accesskey "h">
 <!ENTITY findCmd.key "f">

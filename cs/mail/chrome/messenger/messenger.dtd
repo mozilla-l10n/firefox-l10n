@@ -6,13 +6,15 @@
 <!ENTITY newFolderCmd.label "Složka…">
 <!ENTITY newFolderCmd.accesskey "S">
 <!ENTITY closeTabCmd.label "Zavřít panel">
-<!ENTITY closeTabCmd.accesskey "z">
+<!ENTITY closeTabCmd.accesskey "Z">
+<!ENTITY closeOtherTabsCmd.label "Zavřít ostatní panely">
+<!ENTITY closeOtherTabsCmd.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Uložené hledání…">
 <!ENTITY newVirtualFolderCmd.accesskey "U">
-<!ENTITY newAccountCmd.label "Účet…">
-<!ENTITY newAccountCmd.accesskey "t">
-<!ENTITY newMailAccountCmd.label "Poštovní účet (rychlé nastavení)…">
-<!ENTITY newMailAccountCmd.accesskey "r">
+<!ENTITY newOtherAccountsCmd.label "Další účty…">
+<!ENTITY newOtherAccountsCmd.accesskey "D">
+<!ENTITY newEmailAccountCmd.label "Poštovní účet…">
+<!ENTITY newEmailAccountCmd.accesskey "P">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Přílohy">
@@ -40,10 +42,10 @@
 <!ENTITY deleteFolder.label "Smazat složku">
 <!ENTITY deleteFolder.accesskey "m">
 <!ENTITY renameFolder.label "Přejmenovat složku…">
-<!ENTITY renameFolder.accesskey "j">
+<!ENTITY renameFolder.accesskey "P">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolders.accesskey "P">
+<!ENTITY compactFolders.accesskey "d">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Režim offline">
@@ -130,7 +132,9 @@
 
 <!ENTITY folderView.label "Složky">
 <!ENTITY folderView.accesskey "S">
-<!ENTITY allFolders.label "Vše">
+<!ENTITY smartFolders.label "Chytré">
+<!ENTITY smartFolders.accesskey "C">
+<!ENTITY allFolders.label "Všechny">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Nepřečtené">
 <!ENTITY unreadFolders.accesskey "N">
@@ -467,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Odpovědět do konference">
 <!ENTITY forwardButton.label "Přeposlat">
 <!ENTITY fileButton.label "Přesunout">
+<!ENTITY archiveButton.label "Archivovat">
 <!ENTITY nextButton.label "Další">
 <!ENTITY previousButton.label "Předchozí">
 <!ENTITY backButton1.label "Zpět">
@@ -499,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Odpoví na zprávu do e-mailové konference">
 <!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
+<!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
 <!ENTITY previousButton.tooltip "Přejde na předchozí nepřečtenou zprávu">
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
@@ -532,7 +538,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextNew.label "Nová podsložka…">
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Přejmenovat">
-<!ENTITY folderContextRename.accesskey "m">
+<!ENTITY folderContextRename.accesskey "P">
 <!ENTITY folderContextRemove.label "Smazat">
 <!ENTITY folderContextRemove.accesskey "m">
 <!ENTITY folderContextCompact.label "Provést údržbu složky">
@@ -555,8 +561,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSearchMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "V">
-<!ENTITY folderContextFavoriteFolder.label "Složka Oblíbené">
-<!ENTITY folderContextFavoriteFolder.accesskey "O">
+<!ENTITY folderContextFavoriteFolder.label "Oblíbená složka">
+<!ENTITY folderContextFavoriteFolder.accesskey "b">
 <!ENTITY folderContextSettings.label "Nastavení…">
 <!ENTITY folderContextSettings.accesskey "N">
 
@@ -565,29 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "m">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Hledat zprávy…">
-<!ENTITY glodaSearchBar.facet.label "Hledat:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Vše">
-<!ENTITY glodaSearchFacet.subject.label "Předmět">
-<!ENTITY glodaSearchFacet.involves.label "Účastníci (od,komu,kopie)">
-<!ENTITY glodaSearchFacet.to.label "Komu, kopie">
-<!ENTITY glodaSearchFacet.from.label "Od">
-<!ENTITY glodaSearchFacet.body.label "Text zprávy">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Jména příloh">
-
-<!ENTITY glodaSearchBar.location.label "Umístění:">
-<!ENTITY glodaSearchFacet.everywhere.label "Všechny složky">
-<!ENTITY glodaSearchFacet.folder.label "Vybrané složky…">
+<!ENTITY glodaSearchBar.emptyText "Hledat ve zprávách…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Předmět">
@@ -618,15 +602,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Adresa">
 <!ENTITY idColumn.label "Pořadí přijetí">
 <!ENTITY attachmentColumn.label "Přílohy">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Proč">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Skóre">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klepnutím vyberte sloupce pro zobrazení">
@@ -649,8 +624,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle adresy">
 <!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
 <!ENTITY attachmentColumn.tooltip "Klepnutím seřadíte podle příloh">
-<!ENTITY glodaWhyColumn.tooltip "Klepnutím seřadíte podle důvodu proč je zpráva ve výsledku vyhledávání">
-<!ENTITY glodaScoreColumn.tooltip "Klepnutím seřadíte podle skóre hledání">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">
@@ -658,7 +631,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.label "Otevřít zprávu v novém panelu">
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextEditAsNew.label "Upravit jako novou…">
-<!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextEditAsNew.accesskey "U">
+<!ENTITY contextArchive.label "Archivovat">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
 <!ENTITY contextReplySender.accesskey "l">
 <!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní skupiny">
@@ -684,6 +659,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Náhled tisku">
 <!ENTITY contextPrintPreview.accesskey "h">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Přehrát">
+<!ENTITY contextPlay.accesskey "h">
+<!ENTITY contextPause.label "Pozastavit">
+<!ENTITY contextPause.accesskey "z">
+<!ENTITY contextMute.label "Vypnout zvuk">
+<!ENTITY contextMute.accesskey "p">
+<!ENTITY contextUnmute.label "Zapnout zvuk">
+<!ENTITY contextUnmute.accesskey "p">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Nevyžádaná pošta">
 <!ENTITY junkBarButton1.label "Není nevyžádaná">
@@ -703,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchAllMessages.label "Prohledat všechny zprávy">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Přidat do kontaktů…">
@@ -713,10 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "U">
 <!ENTITY ViewContact.label "Zobrazit kontakt">
 <!ENTITY ViewContact.accesskey "Z">
-<!ENTITY SendMailTo.label "Vytvořit zprávu pro">
-<!ENTITY SendMailTo.accesskey "V">
+<!ENTITY SubscribeToNewsgroup.label "Odebírat diskusní skupinu">
+<!ENTITY SubscribeToNewsgroup.accesskey "O">
+<!ENTITY SendMessageTo.label "Vytvořit zprávu pro">
+<!ENTITY SendMessageTo.accesskey "V">
 <!ENTITY CopyEmailAddress.label "Kopírovat e-mailovou adresu">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNewsgroupName.label "Kopírovat název diskusní skupiny">
+<!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupURL.label "Kopírovat adresu diskusní skupiny">
+<!ENTITY CopyNewsgroupURL.accesskey "a">
 <!ENTITY CreateFilterFrom.label "Vytvořit filtr…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Nahlásit podvodný e-mail">
@@ -726,9 +718,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.label "Uložit cíl odkazu jako…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
-<!ENTITY saveImageAsCmd.accesskey "o">
+<!ENTITY saveImageAsCmd.accesskey "r">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.accesskey "y">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
@@ -737,6 +733,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "b">
 <!ENTITY copyEmailCmd.label "Kopírovat adresu e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Zastavit">
+<!ENTITY stopCmd.accesskey "Z">
+<!ENTITY reloadCmd.label "Obnovit">
+<!ENTITY reloadCmd.accesskey "v">
+<!ENTITY openInBrowser.label "Otevřít v prohlížeči">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "Otevřít odkaz v prohlížeči">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Hotovo">

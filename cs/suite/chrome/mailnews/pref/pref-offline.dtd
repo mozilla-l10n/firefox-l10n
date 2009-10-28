@@ -1,10 +1,10 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title "Nastavení režimu offline">
+<!ENTITY pref.network.title "Síť a úložiště">
 <!ENTITY pref.offline.caption "Režim offline">
 <!ENTITY textStartUp "Při startu:">
-<!ENTITY textStartUp.accesskey "P">
+<!ENTITY textStartUp.accesskey "s">
 <!ENTITY menuitemRememberPrevState "Pamatovat si předchozí stav">
 <!ENTITY menuitemAskMe "Při startu se zepat na stav online">
 <!ENTITY menuitemAlwaysOnline "Vždy začít v režimu online">
@@ -14,17 +14,21 @@
 <!ENTITY radioAutoSend "Ano">
 <!ENTITY radioAutoSend.accesskey "A">
 <!ENTITY radioNotSend "Ne">
-<!ENTITY radioNotSend.accesskey "e">
+<!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent "Zeptat se">
-<!ENTITY radioAskUnsent.accesskey "A">
+<!ENTITY radioAskUnsent.accesskey "p">
 <!ENTITY textGoingOffline "Stáhnout zprávy pro offline použití při přechodu do offline režimu?">
 <!ENTITY radioAutoDownload "Ano">
 <!ENTITY radioAutoDownload.accesskey "o">
 <!ENTITY radioNotDownload "Ne">
-<!ENTITY radioNotDownload.accesskey "n">
+<!ENTITY radioNotDownload.accesskey "e">
 <!ENTITY radioAskDownload "Zeptat se">
 <!ENTITY radioAskDownload.accesskey "Z">
+<!ENTITY mailConnections.caption "Připojení k poště">
+<!ENTITY mailnewsTimeout.label "Časový limit spojení:">
+<!ENTITY mailnewsTimeout.accesskey "m">
+<!ENTITY mailnewsTimeoutSeconds.label "sekund">
 <!ENTITY Diskspace "Místo na disku">
 <!ENTITY offlineCompact.label "Provést údržbu složek, pokud bude ušetřeno více než">
-<!ENTITY offlineCompact.accesskey "K">
+<!ENTITY offlineCompact.accesskey "P">
 <!ENTITY kb.label "kB">

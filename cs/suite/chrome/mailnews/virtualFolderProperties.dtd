@@ -10,5 +10,5 @@
 <!ENTITY chooseFoldersButton.label "Vybrat…">
 <!ENTITY chooseFoldersButton.accesskey "v">
 
-<!ENTITY searchOnline.label "Hledat online (Vrací vždy aktuální výsledky u složek typu IMAP nebo Diskusní skupiny, ale zvyšuje čas potřebný k otevření složky)">
+<!ENTITY searchOnline.label "Hledat online (Vrací vždy aktuální výsledky u složek typu IMAP nebo diskusní skupiny, ale zvyšuje čas potřebný k otevření složky)">
 <!ENTITY searchOnline.accesskey "O">

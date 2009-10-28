@@ -3,125 +3,134 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
   %brandDTD;
+  %regionDTD;
 ]>
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>SSL Settings</title>
+<title>Nastavení SSL</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<h1 id="ssl_settings">SSL Settings</h1>
+<h1 id="ssl_settings">Nastavení SSL</h1>
 
-<p>This section describes how to set your SSL preferences.</p>
+<p>Tato kapitola popisuje nastavení předvoleb pro SSL.</p>
 
-<div class="contentsBox">In this section:
-  <ul>
-    <li><a href="#privacy_and_security_preferences_ssl">Privacy &amp; Security
-      Preferences - SSL</a></li>
-  </ul>
+<div class="contentsBox">V této kapitole:
+<ul>
+  <li><a href="#privacy_and_security_preferences_ssl">Předvolby Soukromí &amp; Zabezpečení - SSL</a></li>
+</ul>
 </div>
 
-<h2 id="privacy_and_security_preferences_ssl">Privacy &amp; Security
-  Preferences - SSL</h2>
+<h2 id="privacy_and_security_preferences_ssl">Předvolby Soukromí &amp; Zabezpečení - SSL</h2>
 
-<p>This section describes how to use the SSL preferences panel. If you are not
-  already viewing the panel, follow these steps:</p>
+<p>Tato kapitola popisuje použití podkategorie SSL v předvolbách. Zobrazení podkategorie provedete následujícím způsobem:</p>
 
 <ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Privacy &amp; Security category, click SSL. (If no
-    subcategories are visible, double-click Privacy &amp; Security to expand
-    the list.)</li>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii SSL. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
 </ol>
 
-<h3 id="ssl_protocol_versions">SSL Protocol Versions</h3>
+<h3 id="ssl_protocol_versions">Verze protokolu SSL</h3>
 
-<p>The Secure Sockets Layer (SSL) protocol defines rules governing mutual
-  authentication between a web site and browser software and the encryption of
-  information that flows between them. The Transport Layer Security (TLS)
-  protocol is an IETF standard based on SSL. TLS 1.0 can be thought of as SSL
-  3.1.</p>
+<p>SSL (Secure Sockets Layer ) protokol definuje pravidla
+oboustranného ověřování mezi webovou stránkou
+a prohlížečem. Taktéž šifruje předávané informace. 
+TLS (Transport Layer Security) protokol je standard IETF, který je
+založen na SSL. Pod pojmem TLS 1.0 může být rozuměno SSL 3.1.</p>
 
-<p>You should normally leave these three checkboxes selected to ensure that
-  both older and newer web servers can work with the browser:</p>
+<p>Ve výchozím nastavení jsou následující tři zaškrtávací políčka vybrána pro zajištění optimální kompatibility se staršími i novějšími webovými servery:</p>
 
 <ul>
-  <li><strong>Enable SSL version 3</strong>: Allows newer web servers to work
-    with the browser.</li>
-  <li><strong>Enable TLS</strong>: Allows web servers that support TLS to take
-    advantage of it.</li>
+  <li><strong>Povolit SSL verze 3</strong>: Umožňuje spolupráci
+Prohlížeče s novějšími webovými servery.</li>
+  <li><strong>Povolit TLS</strong>: Umožňuje webovým serverům, které podporují tento protokol, používat jeho výhody.</li>
 </ul>
 
-<p><strong>Important note regarding TLS</strong>: Some servers that do not
-  implement SSL correctly cannot negotiate the SSL handshake with client
-  software (such as the browser) that supports TLS. Such servers are known as
-  <q>TLS intolerant</q>.</p>
+<p><strong>Důležitá informace o TLS</strong>: Některé servery
+nemají správně implementovaný protokol SSL a
+nemohou se správně spojit s klientským programem
+(kterým může být například prohlížeč),
+který podporuje TLS. Tyto servery jsou známy jako <q>TLS
+nesnášenlivé</q>.</p>
 
-<p>When the Enable TLS option in the SSL preferences panel is selected, the
-  browser attempts to use the TLS protocol when making secure connections with
-  a server. If that connection fails because the server is TLS intolerant, the
-  browser will fall back to using SSL 3.0.</p>
+<p>Pokud je aktivována možnost Povolit TLS v podkategorii
+SSL, prohlížeč se pokusí při navazování
+zabezpečeného spojení se serverem použít protokol
+TLS. Pokud se spojení nepodaří protože je server
+TLS nesnášenlivý, prohlížeč se
+vrátí k použití protokolu SSL 3.0.</p>
 
-<h3 id="ssl_warnings">SSL Warnings</h3>
+<h3 id="ssl_warnings">SSL upozornění</h3>
 
-<p>It&apos;s easy to tell when the web site you are viewing is using an encrypted
-  connection. If the connection is encrypted, the lock icon in the lower-right
-  corner of the browser window is locked. If the connection is not encrypted,
-  the lock icon is unlocked.</p>
+<p>Oznámení o použití šifrovaného
+spojení na právě prohlížené webové
+stránce vypadá následovně: Pokud je spojení
+šifrováno, ikona zámku v pravém dolním rohu
+okna Prohlížeče zobrazí uzamčený
+zámek. Není-li spojení šifrováno, je
+zámek v ikoně odemčen.</p>
 
-<p>If you want additional warnings, you can select one or more of the warning
-  checkboxes in the SSL preferences panel. Some people find these warnings
-  annoying.</p>
+<p>Požadujete-li další upozornění, zvolte jednu nebo
+více možností v podkategorii SSL v předvolbách.
+Někteří lidé nepovažují tato upozornění za
+příjemná.</p>
 
-<p>To activate any of these warnings, select the corresponding checkbox:</p>
+<p>Pro aktivaci některého z těchto upozornění
+vyberte odpovídající zaškrtávací políčko:</p>
 
 <ul>
-  <li><strong>Loading a page that supports encryption</strong>: Select this
-    warning if you want to be reminded whenever you are loading a page that
-    supports encryption.</li>
-  <li><strong>Loading a page that uses low-grade encryption</strong>: Select
-    this warning if you want to be reminded whenever you are loading a page
-    that supports low-grade encryption. (Low-grade encryption is the weakest
-    encryption available, using 40-bit keys.)</li>
-  <li><strong>Leaving a page that supports encryption</strong>: Select this
-    warning if you want to be reminded whenever you are leaving a page that
-    supports encryption for one that does not.</li>
-  <li><strong>Sending form data from an unencrypted page to an unencrypted
-    page</strong>: Select this warning if you want to be reminded whenever you
-    are submitting data over an unencrypted connection. If you send unencrypted
-    information over the Internet, it can easily be intercepted by other
-    people.</li>
-  <li><strong>Viewing a page with an encrypted/unencrypted mix</strong>:
-    Select this warning if you want to be alerted whenever you are viewing a
-    page that includes any information that&apos;s not encrypted.</li>
+  <li><strong>Vstup na stránku, která podporuje
+šifrování</strong>: Vyberte toto upozornění tehdy,
+chcete-li být upozorněni kdykoli vstupujete na
+stránku, která podporuje šifrování.</li>
+  <li><strong>Vstup na stránku, která používá
+slabou šifru</strong>: Vyberte toto upozornění tehdy, chcete-li
+být upozorněni kdykoli vstupujete na stránku,
+která podporuje šifrování slabou šifrou.
+(Slabé šifrování je nejslabší možné,
+používá 40 bitový klíč.)</li>
+  <li><strong>Opuštění stránky, která podporuje
+šifrování</strong>: Vyberte toto upozornění tehdy,
+chcete-li být upozorněni kdykoli opouštíte
+stránku, která podporuje šifrování a
+vstupujete na jinou, již nešifrovanou stránku.</li>
+  <li><strong>Zasláním dat z formuláře na
+nezabezpečené stránce na nezabezpečenou stránku</strong>: Vyberte
+toto upozornění tehdy, chcete-li být upozorněni
+kdykoli zasíláte data přes nezašifrované
+připojení. Pokud zašlete přes Internet nezašifrované
+informace, mohou být snadno zachyceny
+ostatními.</li>
+  <li><strong>Zobrazení stránky se směsicí
+zašifrovaných i nezašifrovaných dat</strong>: Vyberte
+toto upozornění, pokud chcete být varováni kdykoli
+vstoupíte na stránku která obsahuje jakoukoli
+nezašifrovanou informaci.</li>
 </ul>
 
-<p>For short definitions, click
-  <a href="glossary.xhtml#authentication">authentication</a>,
-  <a href="glossary.xhtml#encryption">encryption</a>, or
-  <a href="glossary.xhtml#certificate">certificate</a>.</p>
+<p>Pro stručné definice klepněte na pojmy <a href="glossary.xhtml#authentication">autorizace</a>,
+  <a href="glossary.xhtml#encryption">šifrování</a> nebo
+  <a href="glossary.xhtml#certificate">certifikát</a>.</p>
 
-<p>For more information about ciphers and encryption, see the following online
-  documents:</p>
+<p>Více informací o šifrách a šifrování naleznete v následujících dokumentech:</p>
 
 <ul>
   <li>
-    <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction
-    to Public-Key Cryptography</a></li>
+    <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction to Public-Key Cryptography</a> [Eng.]</li>
   <li>
-    <a href="http://developer.mozilla.org/en/docs/Introduction_to_SSL">Introduction
-    to SSL</a></li>
+    <a href="http://developer.mozilla.org/en/docs/Introduction_to_SSL">Introduction to SSL</a> [Eng.]</li>
   <li>
-    <a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html">Encryption
-    Technologies Available in NSS 3.11</a>.</li>
+    <a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html">Encryption Technologies Available in NSS 3.11</a>. [Eng.]</li>
 </ul>
 
 <p>&copyright.string;</p>
 
 </body>
 </html>
+

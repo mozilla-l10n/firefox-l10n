@@ -71,7 +71,7 @@
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Další e-mail:">
 <!ENTITY SecondEmail.accesskey "a">
-<!ENTITY PreferMailFormat.label "Upřednostňovaný formát poštovních zpráv:">
+<!ENTITY PreferMailFormat.label "Upřednostňovaný formát zpráv:">
 <!ENTITY PreferMailFormat.accesskey "u">
 <!ENTITY PlainText.label "Prostý text">
 <!ENTITY HTML.label "HTML">
@@ -79,7 +79,7 @@
 <!ENTITY ScreenName.label "Účet pro IM">
 <!ENTITY ScreenName.accesskey "E">
 
-<!ENTITY allowRemoteContent1.label "Povolit vzdálený obsah.">
+<!ENTITY allowRemoteContent1.label "Povolit vzdálený obsah">
 <!ENTITY allowRemoteContent1.accesskey "P">
 <!ENTITY allowRemoteContent1.tooltip "Do HTML zprávy lze vložit obsah ze vzdálených zdrojů. Při otevření takovéto zprávy dojde k navázaní spojení ke vzdálenému serveru. Toto chování lze použít k určení zda zpráva byla přečtena. Povolením vzdáleného obsahu umožníte načítání takovéhoto obsahu v HTML zprávách od tohoto kontaktu.">
 
@@ -157,3 +157,20 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Poznámky:">
 <!ENTITY Notes.accesskey "P">
+
+<!ENTITY Photo.tab "Fotografie">
+<!ENTITY Photo.accesskey "o">
+<!ENTITY PhotoDesc.label "Zvolte jednu z následujících:">
+<!ENTITY GenericPhoto.label "Obecná fotografie">
+<!ENTITY GenericPhoto.accesskey "O">
+<!ENTITY DefaultPhoto.label "Výchozí">
+<!ENTITY PhotoFile.label "Na počítači">
+<!ENTITY PhotoFile.accesskey "p">
+<!ENTITY BrowsePhoto.label "Procházet">
+<!ENTITY BrowsePhoto.accesskey "r">
+<!ENTITY PhotoURL.label "Na webu">
+<!ENTITY PhotoURL.accesskey "w">
+<!ENTITY PhotoURL.emptytext "Vložte nebo vepište webovou adresu fotografie">
+<!ENTITY UpdatePhoto.label "Aktualizovat">
+<!ENTITY UpdatePhoto.accesskey "A">
+

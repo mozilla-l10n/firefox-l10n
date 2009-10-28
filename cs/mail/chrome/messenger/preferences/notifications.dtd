@@ -1,7 +1,8 @@
-<!ENTITY notificationsDialog2.title "Upozornění na novou poštu">
-<!ENTITY window.width "30em"> 
+<!ENTITY notificationsDialog2.title "Nová pošta">
+<!ENTITY window.width "30em">
 
 <!ENTITY alertCustomization.intro "Pole zobrazovaná v okně upozornění:">
+
 <!ENTITY previewText.label "Náhled na tělo zprávy">
 <!ENTITY previewText.accesskey "N">
 <!ENTITY subject.label "Předmět">

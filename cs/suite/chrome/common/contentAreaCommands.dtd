@@ -44,7 +44,9 @@
 <!ENTITY reloadImageCmd.label "Načíst obrázek">
 <!ENTITY reloadImageCmd.accesskey "N">
 <!ENTITY viewImageCmd.label "Zobrazit obrázek">
-<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewImageCmd.accesskey "i">
+<!ENTITY viewVideoCmd.label "Zobrazit video">
+<!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek pozadí">
 <!ENTITY viewBGImageCmd.accesskey "o">
 <!ENTITY setWallpaperCmd.label "Nastavit jako pozadí">

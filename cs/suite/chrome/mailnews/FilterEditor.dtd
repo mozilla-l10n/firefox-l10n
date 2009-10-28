@@ -71,6 +71,9 @@
 <!ENTITY contextIncoming.label "kontrole pošty">
 <!ENTITY contextManual.label "manuálním spuštění">
 <!ENTITY contextBoth.label "kontrole pošty a manuálním spuštění">
+<!ENTITY contextPostPlugin.label "kontrole pošty po klasifikaci">
+<!ENTITY contextPostPluginBoth.label "kontrole pošty po klasifikaci a manuálním spuštění">
+
 <!ENTITY filterActionDesc.label "Provést akci:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -91,4 +94,4 @@
 <!ENTITY ignoreThread.label "Ignorovat vlákno">
 <!ENTITY ignoreSubthread.label "Ignorovat podvlákno">
 <!ENTITY watchThread.label "Sledovat vlákno">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY stopExecution.label "Zastavit vykonávání filtru">

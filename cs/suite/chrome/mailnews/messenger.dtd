@@ -41,6 +41,13 @@
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
+<!-- tabmail -->
+<!ENTITY tabmailClose.label "Zavřít panel">
+<!ENTITY tabmailClose.tooltip "Zavře panel">
+<!ENTITY tabmailNewButton.tooltip "Vytvoří duplikát aktuálního panelu">
+<!ENTITY tabmailCloseButton.tooltip "Zavře aktuální panel">
+<!ENTITY tabmailAllTabs.tooltip "Zobrazí seznam všech panelů">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
@@ -50,6 +57,11 @@
 <!ENTITY newFolderCmd.accesskey "S">
 <!ENTITY newVirtualFolderCmd.label "Uložené hledání…">
 <!ENTITY newVirtualFolderCmd.accesskey "U">
+<!ENTITY newTabCmd.label "Duplikovat panel">
+<!ENTITY newTabCmd.accesskey "D">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Zavřít panel">
+<!ENTITY closeTabCmd.accesskey "Z">
 <!ENTITY newAccountCmd.label "Účet…">
 <!ENTITY newAccountCmd.accesskey "T">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
@@ -57,7 +69,7 @@
 <!ENTITY openAttachmentCmd.label "Přílohy">
 <!ENTITY openAttachmentCmd.accesskey "P">
 <!ENTITY saveAsMenu.label "Uložit jako">
-<!ENTITY saveAsMenu.accesskey "J">
+<!ENTITY saveAsMenu.accesskey "j">
 <!ENTITY saveAsFileCmd.label "Soubor">
 <!ENTITY saveAsFileCmd.accesskey "S">
 <!ENTITY saveAsFileCmd.key "s">
@@ -65,13 +77,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "B">
 <!ENTITY getNewMsgCmd.label "Přijmout nové zprávy">
 <!ENTITY getNewMsgCmd.accesskey "V">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Přijmout nové zprávy pro">
 <!ENTITY getNewMsgForCmd.accesskey "r">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Všechny účty">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
 <!ENTITY getAllNewMsgCmd.label "Přijmout všechny nové zprávy">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Přijmout dalších 500 diskusních příspěvků">
 <!ENTITY getNextNMsgCmd.accesskey "d">
 <!ENTITY sendUnsentCmd.label "Odeslat neodeslané zprávy">
@@ -155,17 +167,19 @@
 <!ENTITY showLocationToolbarCmd.accesskey "N">
 
 <!ENTITY messagePaneLayoutStyle.label "Rozmístění">
-<!ENTITY messagePaneLayoutStyle.accesskey "R">
+<!ENTITY messagePaneLayoutStyle.accesskey "m">
 <!ENTITY messagePaneClassic.label "Klasický pohled">
-<!ENTITY messagePaneClassic.accesskey "L">
+<!ENTITY messagePaneClassic.accesskey "l">
 <!ENTITY messagePaneWide.label "Široký pohled">
-<!ENTITY messagePaneWide.accesskey "R">
+<!ENTITY messagePaneWide.accesskey "r">
 <!ENTITY messagePaneVertical.label "Svislý pohled">
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessagePaneCmd.label "Panel zprávy">
-<!ENTITY showMessagePaneCmd.accesskey "P">
+<!ENTITY showMessagePaneCmd.accesskey "z">
+<!ENTITY showThreadPaneCmd.label "Panel vláken">
+<!ENTITY showThreadPaneCmd.accesskey "v">
 <!ENTITY showFolderPaneCmd.label "Panel složek">
-<!ENTITY showFolderPaneCmd.accesskey "A">
+<!ENTITY showFolderPaneCmd.accesskey "s">
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Seřadit podle">
@@ -457,6 +471,10 @@
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Přijmout">
 <!ENTITY newMsgButton.label "Napsat">
+<!ENTITY newHTMLMessageCmd.label "Napsat v HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Napsat v prostém textu">
+<!ENTITY newPlainTextMessageCmd.accesskey "p">
 <!ENTITY replyButton.label "Odpovědět">
 <!ENTITY replyAllButton.label "Odp. všem">
 <!ENTITY forwardButton.label "Přeposlat">
@@ -501,9 +519,11 @@
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">
-<!ENTITY contextOpenNewWindow.accesskey "V">
+<!ENTITY contextOpenNewWindow.accesskey "z">
+<!ENTITY contextOpenNewTab.label "Otevřít zprávu v novém panelu">
+<!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextEditAsNew.label "Upravit jako novou…">
-<!ENTITY contextEditAsNew.accesskey "N">
+<!ENTITY contextEditAsNew.accesskey "n">
 <!ENTITY contextArchive.label "Archiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
@@ -536,6 +556,8 @@
 <!ENTITY folderContextGetMessages.accesskey "P">
 <!ENTITY folderContextOpenNewWindow.label "Otevřít v novém okně">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "Otevřít v novém panelu">
+<!ENTITY folderContextOpenNewTab.accesskey "v">
 <!ENTITY folderContextRename.label "Přejmenovat">
 <!ENTITY folderContextRename.accesskey "P">
 <!ENTITY folderContextRemove.label "Smazat">
@@ -567,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Hledat předmět a od">
+<!ENTITY searchSubjectOrAddress.emptytext "Hledat předmět nebo adresu">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
 

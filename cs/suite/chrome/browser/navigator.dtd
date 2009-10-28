@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Naposledy zavřené panely">
 <!ENTITY recentTabs.accesskey "p">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Naposledy zavřená okna">
+<!ENTITY recentWindows.accesskey "d">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Upravit stránku">
 <!ENTITY editPageCmd.accesskey "U">
 <!ENTITY editPageCmd.commandkey "e">
@@ -107,7 +110,7 @@
 <!ENTITY goHomeCmd.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Záložky">
-<!ENTITY bookmarksMenu.accesskey "Z">
+<!ENTITY bookmarksMenu.accesskey "o">
 <!ENTITY addCurPageCmd.label "Přidat k záložkám">
 <!ENTITY addCurPageCmd.accesskey "P">
 <!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
