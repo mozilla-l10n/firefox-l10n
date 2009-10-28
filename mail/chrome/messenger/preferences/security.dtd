@@ -6,9 +6,9 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Vel standardinnstilling for uønskt e-post. Kontospesifikke innstillingar for uønskt e-post kan setjast opp i Kontoinnstillingar.">
-<!ENTITY manualMark.label "Når eg merkar meldingar som uønskt:">
+<!ENTITY manualMark.label "Når eg merkar meldingar som uønskte:">
 <!ENTITY manualMark.accesskey "N">
-<!ENTITY manualMarkModeMove.label "Flytt dei til &quot;Junk&quot;-mappa på kontoen">
+<!ENTITY manualMarkModeMove.label "Flytt dei til «Uønskt»-mappa på kontoen">
 <!ENTITY manualMarkModeMove.accesskey "F">
 <!ENTITY manualMarkModeDelete.label "Slett dei">
 <!ENTITY manualMarkModeDelete.accesskey "t">
