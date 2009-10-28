@@ -1,10 +1,8 @@
 <!ENTITY welcome.title                      "欢迎使用 &brandShortName;">
 <!ENTITY overview.description               "使用 Weave 在 PC 和移动设备之间同步，通过附加组件定制，在智能地址栏和其他许多许多功能的帮助下驰骋于网络中。">
-<!ENTITY nextSteps.title                    "下面的步骤">
 <!ENTITY sync.title                         "准备好开始">
 <!ENTITY sync.description                   "获取 Weave 帮助改进您的 &brandShortName; 。在 PC 和移动设备之间共享设置、书签、浏览历史记录和更多信息。">
-<!ENTITY sync.link                          "获取附加组件 Weave 。">
+<!ENTITY sync.linkLabel                     "获取附加组件 Weave 。">
 <!ENTITY getPersonal.title                  "个性化">
 <!ENTITY getPersonal.description            "打造您自己的 &brandShortName; ，通过专供移动设备的附加组件打造一个前所未有的浏览器。">
-<!ENTITY getPersonal.link                   "为您的移动设备获取附加组件。">
-<!ENTITY skip.link                          "跳过所有这些病开始浏览网络。">
+<!ENTITY getPersonal.linkLabel              "为您的手机获取附加组件">
