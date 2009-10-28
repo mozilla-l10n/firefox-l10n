@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "V">
 <!ENTITY view.sortDescending.label "Sestupně">
 <!ENTITY view.sortDescending.accesskey "S">
-<!ENTITY help.usingBookmarks.label "Jak používat záložky">
-<!ENTITY help.usingBookmarks.accesskey "z">
-<!ENTITY help.usingHistory.label "Jak používat historii">
-<!ENTITY help.usingHistory.accesskey "h">
-<!ENTITY help.advancedTips.label "Pokročilé tipy a triky">
-<!ENTITY help.advancedTips.accesskey "P">
 
 <!ENTITY cmd.findInBookmarks.label  "Hledat v záložkách…">
 <!ENTITY cmd.findInBookmarks.accesskey "H">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label "Vlastnosti">
 <!ENTITY cmd.properties.accesskey "V">
 
-<!ENTITY cmd.show_info.key "i">
-
 <!ENTITY cmd.rename.label "Přejmenovat">
 <!ENTITY cmd.rename.accesskey "P">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "O">
 <!ENTITY cmd.reloadMicrosummary.label "Obnovit aktuální titulek">
 <!ENTITY cmd.reloadMicrosummary.accesskey "b">
-
-<!ENTITY cmd.groupby_site.label "Seskupit dle serveru">
-<!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "Seskupit dle stránky">
-<!ENTITY cmd.groupby_page.accesskey "t">
-<!ENTITY cmd.groupby_feed.label "Seskupit dle odebírání">
-<!ENTITY cmd.groupby_feed.accesskey "o">
-<!ENTITY cmd.groupby_post.label "Seskupit dle odeslání">
-<!ENTITY cmd.groupby_post.accesskey "d">
 
 <!ENTITY cmd.moveBookmarks.label "Přesunout…">
 <!ENTITY cmd.moveBookmarks.accesskey "P">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey "S">
 <!ENTITY search.scopeHistory.label "Historie">
 <!ENTITY search.scopeHistory.accesskey "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Zobrazit pomocníka dotazu">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Skrýt pomocníka dotazu">
 <!ENTITY saveSearch.label "Uložit">
 <!ENTITY saveSearch.accesskey "U">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Hledat pouze záložky">
-<!ENTITY advancedSearch.match.label "Odpovídá ">
-<!ENTITY advancedSearch.all.label "všem">
-<!ENTITY advancedSearch.any.label "a některému">
-<!ENTITY advancedSearch.rules.label " z následujících pravidel:">
-<!ENTITY advancedSearch.subj_keyword.label "Obsahuje text">
-<!ENTITY advancedSearch.subj_visited.label "Navštíveno">
-<!ENTITY advancedSearch.subj_location.label "Adresa">
-<!ENTITY advancedSearch.location_startswith.label "začíná na">
-<!ENTITY advancedSearch.location_is.label "je">
-<!ENTITY advancedSearch.location_onsite.label "je na serveru">
-<!ENTITY advancedSearch.time_is.label "v">
-<!ENTITY advancedSearch.time_before.label "před">
-<!ENTITY advancedSearch.time_after.label "po">
-<!ENTITY advancedSearch.time_inlast.label "v posledních">
-<!ENTITY advancedSearch.last_days.label "dny/dnech">
-<!ENTITY advancedSearch.last_weeks.label "týdny/týdnech">
-<!ENTITY advancedSearch.last_months.label "měsíci/měsících">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Seskupit dle: ">
-<!ENTITY advancedSearch.groupby_host.label "serveru">
-<!ENTITY advancedSearch.groupby_domain.label "domény">
-<!ENTITY advancedSearch.groupby_folder.label "složky">
-<!ENTITY advancedSearch.sortby.label "Seskupit dle: ">
-<!ENTITY advancedSearch.sortby_title.label "titulku">
-<!ENTITY advancedSearch.sortby_date.label "data">
-<!ENTITY advancedSearch.sortby_visit.label "počtu návštěv">
-<!ENTITY advancedSearch.sortby_url.label "adresy">
-<!ENTITY advancedSearch.sortby_asc.label "vzestupně">
-<!ENTITY advancedSearch.sortby_desc.label "sestupně">
-<!ENTITY advancedSearch.max.label "Nejvíce výsledků: ">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "Kanál">
 <!ENTITY feed.subscribe.tooltip "Odebírat">
-
-<!ENTITY view.detailsMacOSX.label "Seznam">
-<!ENTITY view.details.label "Podrobnosti">
-<!ENTITY view.details.accesskey "d">
-
-<!ENTITY view.addons.label "Získat doplňky pohledů">
 
 <!ENTITY maintenance.label "Import a záloha">
 <!ENTITY maintenance.accesskey  "I">
