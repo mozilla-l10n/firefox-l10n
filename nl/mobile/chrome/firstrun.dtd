@@ -1,10 +1,8 @@
 <!ENTITY welcome.title                      "Welkom bij  &brandShortName;">
 <!ENTITY overview.description               "Sync uw PC en mobiel met Weave. Pas het aan met add-ons. Blader met de Awesome Bar en veel, veel. veel meer.">
-<!ENTITY nextSteps.title                    "Volgende stappen">
 <!ENTITY sync.title                         "Sta op en ga">
 <!ENTITY sync.description                   "Verkrijg Weave om in te breken in uw &brandShortName;. Deel uw voorkeuren, bladwijzers, bladergeschiedenis en meer tussen uw PC en mobiel.">
-<!ENTITY sync.link                          "Verkrijg de Weave add-on">
+<!ENTITY sync.linkLabel                     "Verkrijg de Weave add-on">
 <!ENTITY getPersonal.title                  "Maak het persoonlijk">
 <!ENTITY getPersonal.description            "Maak &brandShortName; je eigen. Pas de allereerste browser die add-ons aanbied voor mobiel aan.">
-<!ENTITY getPersonal.link                   "Verkrijg add-ons voor uw mobiel.">
-<!ENTITY skip.link                          "Sla dit alles over en ga bladeren over het web.">
+<!ENTITY getPersonal.linkLabel              "Verkrijg add-ons voor uw mobiel.">
