@@ -5,9 +5,7 @@
 <!ENTITY forwardMsg.label                     "Reenviar mensajes:">
 <!ENTITY forwardMsg.accesskey                 "m">
 <!ENTITY inline.label                         "Incorporado">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "Como adjunto">
-<!ENTITY asAttachment.accesskey               "a">
 <!ENTITY addExtension.label                   "agregar la extensión al nombre de archivo">
 <!ENTITY addExtension.accesskey               "n">
 
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "Configurar el comportamiento del formato de texto">
 <!ENTITY sendOptions.label                     "Opciones de envío…">
 <!ENTITY sendOptions.accesskey                 "O">
+
+<!ENTITY attachmentReminder.label              "Comprobar adjuntos faltantes">
+<!ENTITY attachmentReminder.accesskey          "j">
+<!ENTITY attachmentReminderOptions.label       "Palabras…">
+<!ENTITY attachmentReminderOptions.accesskey   "P">

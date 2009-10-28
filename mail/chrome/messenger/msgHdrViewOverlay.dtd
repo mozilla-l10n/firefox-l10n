@@ -57,19 +57,47 @@
 
 <!ENTITY editMessageDescription.label "Este mensaje es borrador…">
 <!ENTITY editMessageButton.label "Editar…">
-<!ENTITY replyButton.label "responder…">
-<!ENTITY forwardButton.label "reenviar…">
-<!ENTITY junkButton.label "marcar como basura">
-<!ENTITY trashButton.tooltiptext "borrar">
+<!ENTITY hdrArchiveButton.label "archivar">
+<!ENTITY hdrArchiveButton.tooltip "archivar este mensaje">
+<!ENTITY hdrReplyButton.label "responder">
+<!ENTITY hdrReplyButton.tooltip "responder este mensaje">
+<!ENTITY hdrReplyAllButton.label "responder a todos">
+<!ENTITY hdrReplyAllButton.tooltip "responder al remitiente y a todos los receptores">
+<!ENTITY hdrReplyListButton.label "responder a lista">
+<!ENTITY hdrReplyListButton.tooltip "responder a una lista de correos">
+<!ENTITY hdrForwardButton.label "reenviar">
+<!ENTITY hdrForwardButton.tooltip "reenviar este mensaje">
+<!ENTITY hdrJunkButton.label "basura">
+<!ENTITY hdrJunkButton.tooltip "marcar este mensaje como basura">
+<!ENTITY hdrTrashButton.label "borrar">
+<!ENTITY hdrTrashButton.tooltip "borrar este mensaje">
+
+<!ENTITY hdrViewToolbarShowFull.label "Mostrar íconos y texto">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Mostrar íconos solos">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "o">
+<!ENTITY hdrViewToolbarShowText.label "Mostrar texto solo">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Siempre mostrar responder al remitente">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "otras acciones">
+<!ENTITY otherActionsShowConversation.label "mostrar en conversación">
+<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "abrir en una ventana nueva">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab.label "abrir en una pestaña nueva">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "marcar como leído">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "marcar como no leído">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "guardar como…">
 <!ENTITY saveAsMenuItem.accesskey "g">
 <!ENTITY viewSourceMenuItem.label "ver fuente…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-
-<!ENTITY hideDetailsButton.label "ocultar detalles">
-<!ENTITY showDetailsButton.label "mostrar detalles">
+<!ENTITY otherActionsPrint.label "imprimir">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "b">

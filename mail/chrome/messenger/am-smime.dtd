@@ -1,18 +1,29 @@
 <!ENTITY securityTitle.label "Seguridad">
+<!ENTITY securityTab.label "Seguridad">
 <!ENTITY securityHeading.label "Para enviar y recibir mensajes firmados o cifrados, debe especificar tanto un certificado de firma digital como un certificado de cifrado.">
 <!ENTITY encryptionGroupTitle.label "Cifrado">
 <!ENTITY encryptionChoiceLabel.label "Cifrado predeterminado al enviar mensajes:">
 <!ENTITY neverEncrypt.label "Nunca (no usar cifrado)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Requerido (no se puede enviar el mensaje a menos que todos los destinatarios tengan certificados)">
-<!ENTITY encryptionCert.message "Usear este certificado para cifrar y descifrar los mensajes que le sean enviados:">
-<!ENTITY certificate.button "Seleccionar…">
-<!ENTITY certificate_clear.button "Limpiar">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "Usar este certificado para cifrar y descifrar los mensajes que le sean enviados:">
+<!ENTITY digitalSign.certificate.button "Seleccionar…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Limpiar">
+<!ENTITY digitalSign.certificate_clear.accesskey "L">
+<!ENTITY encryption.certificate.button "Seleccionar…">
+<!ENTITY encryption.certificate.accesskey "c">
+<!ENTITY encryption.certificate_clear.button "Limpiar">
+<!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Firma digital">
 <!ENTITY signMessage.label "Firmar los mensajes digitalmente (por defecto)">
-<!ENTITY signingCert.message "Usear este certificado para firmar digitalmente los mensajes que envíe:">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Usar este certificado para firmar digitalmente los mensajes que envíe:">
 
 <!ENTITY certificates.label     "Certificados">
-<!ENTITY managecerts.label      "Ver certificados">
-<!ENTITY managecerts.accesskey  "V">
-<!ENTITY managedevices.label    "Dispositivos de seguridad">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY manageCerts.label      "Ver certificados">
+<!ENTITY manageCerts.accesskey  "V">
+<!ENTITY manageDevices.label    "Dispositivos de seguridad">
+<!ENTITY manageDevices.accesskey "S">
+ 

@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "No importar nada">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x o SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label      "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOExpress.label       "Outlook Express">
@@ -21,8 +21,8 @@
 <!ENTITY importItems.title              "Elementos a importar">
 <!ENTITY importItems.label              "Seleccionar los elementos a importar:">
 
-<!ENTITY migrating.title                "Importando...">
-<!ENTITY migrating.label                "Se están importando los siguientes elementos...">
+<!ENTITY migrating.title                "Importando…">
+<!ENTITY migrating.label                "Se están importando los siguientes elementos…">
 
 <!ENTITY selectProfile.title            "Seleccionar perfil">
 <!ENTITY selectProfile.label            "Los siguientes perfiles están disponibles para importar desde:">

@@ -67,7 +67,6 @@ The Initial Developer of the Original Code is
 <!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "A">
 
-<!ENTITY Internet.box "Internet">
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey "e">
 <!ENTITY SecondEmail.label "Otro correo electrónico:">
@@ -80,13 +79,13 @@ The Initial Developer of the Original Code is
 <!ENTITY ScreenName.label "Nombre en pantalla:">
 <!ENTITY ScreenName.accesskey "t">
 
-<!ENTITY allowRemoteContent.label       "Permite imágenes remotas en el correo HTML.">
-<!ENTITY allowRemoteContent.accesskey   "g">
-<!ENTITY allowRemoteContent.tooltip     "En mensajes HTML messages es posible
-incrustar imágenes de fuentes remotas. Abriendo esos mensajes se abrirá una
+<!ENTITY allowRemoteContent1.label      "Permitir contenido remoto.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "En mensajes HTML es posible
+incrustar contenido de fuentes remotas. Abriendo esos mensajes se abrirá una
 conexión a esa fuente externa. Ésto puede permitir el rastreo del
-mensaje que se está leyendo. Marcando esta caja permitirá esas imágenes externas
-incrustadas en mensajes HTML de este contacto.">
+mensaje que se está leyendo. Marcando esta caja permitirá ese contenido externo
+incrustado en mensajes HTML de este contacto.">
 
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
@@ -97,7 +96,7 @@ incrustadas en mensajes HTML de este contacto.">
 <!ENTITY PagerNumber.label "Buscapersonas:">
 <!ENTITY PagerNumber.accesskey "p">
 <!ENTITY CellularNumber.label "Teléfono celular:">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "e">
 
 <!ENTITY Home.tab "Privado">
 <!ENTITY Home.accesskey "v">
@@ -117,9 +116,11 @@ incrustadas en mensajes HTML de este contacto.">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Cumpleaños:">
 <!ENTITY Birthday.accesskey             "C">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Año">
 <!ENTITY Or.value                       "o">
 <!ENTITY Age.emptytext                  "Edad">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab "Trabajo">
 <!ENTITY Work.accesskey "j">
@@ -156,3 +157,19 @@ incrustadas en mensajes HTML de este contacto.">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notas:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Seleccione una de las siguientes:">
+<!ENTITY GenericPhoto.label             "Foto genérica">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Predeterminada">
+<!ENTITY PhotoFile.label                "En esta computadora">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Examinar">
+<!ENTITY BrowsePhoto.accesskey          "x">
+<!ENTITY PhotoURL.label                 "En la web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Pegar o ingresar la dirección web de una foto">
+<!ENTITY UpdatePhoto.label              "Actualizar">
+<!ENTITY UpdatePhoto.accesskey          "u">

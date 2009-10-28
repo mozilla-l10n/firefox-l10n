@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "bajo el texto citado (recomendado)">
 <!ENTITY aboveText.label "bajo mi respuesta (sobre el texto citado)">
+<!ENTITY includeSigOnReply.label              "Incluir firma para respuestas">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Incluir forma para reenvíos">
+<!ENTITY includeSigOnForward.accesskey        "v">

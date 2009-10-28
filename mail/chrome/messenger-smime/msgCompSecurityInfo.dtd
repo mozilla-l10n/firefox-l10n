@@ -8,7 +8,7 @@
 <!ENTITY status.certificates "Certificados:">
 <!ENTITY view.label "Ver">
 <!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "Recipient">
+<!ENTITY tree.recipient "Destinatario">
 <!ENTITY tree.status "Estado">
 <!ENTITY tree.issuedDate "Emitido">
 <!ENTITY tree.expiresDate "Expira">

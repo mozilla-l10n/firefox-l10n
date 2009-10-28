@@ -1,5 +1,5 @@
-<!ENTITY junkSettings.label "Opciones de basura">
-<!ENTITY trainingWarning.label "Si se habilita, primero debe entrenar el &brandShortName; para identificar el correo basura usando el botón Basura para marcar los mensajes. Necesita identificar tanto los mensajes que sean basura como los que no lo sean.">
+<!ENTITY junkSettings.label "Opciones de correo basura">
+<!ENTITY trainingWarning.label "Si se habilita, primero debe entrenar a &brandShortName; para identificar el correo basura usando el botón Basura para marcar los mensajes. Necesita identificar tanto los mensajes que sean basura como los que no lo sean.">
 <!ENTITY level.label "Habilitar controles adaptivos de basura para esta cuenta">
 <!ENTITY level.accesskey "E">
 

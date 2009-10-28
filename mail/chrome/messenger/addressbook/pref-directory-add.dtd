@@ -65,6 +65,13 @@ The Initial Developer of the Original Code is
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "resultados">
 <!ENTITY offlineText.label "Puede descargar una copia en local de este directorio para poder trabajar con ella cuando este desconectado.">
+<!ENTITY saslMechanism.label               "Método de ingreso: ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Simple">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

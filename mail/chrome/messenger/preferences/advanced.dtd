@@ -1,13 +1,30 @@
 <!ENTITY itemGeneral.label       "General">
-<!ENTITY itemDisplay.label       "Reading &amp; Display">
+<!ENTITY itemDisplay.label       "Lectura y apariencia">
 <!ENTITY itemUpdate.label        "Actualización">
 <!ENTITY itemNetworking.label    "Red y espacio en disco">
 <!ENTITY itemCertificates.label  "Certificados">
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Habilitar indexador de mensajes">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Habilitar indexado y búsqueda global">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemIntegration.label       "Integración con el sistema">
+<!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque mensajes">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkNow.label             "Verificar ahora">
+<!ENTITY checkNow.accesskey         "V">
+<!ENTITY configEditDesc.label          "Configuración avanzada">
+<!ENTITY configEdit.label              "Editor de configuración…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
+<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                "Reading">
+<!ENTITY display.caption                "Display">
 <!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -21,23 +38,15 @@
 <!ENTITY markAsReadDelay.label         "Después de mostrarlo por ">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "segundos">
-<!ENTITY showFolderColumns.label       "Mostrar columnas expandidas en la vista de carpetas">
-<!ENTITY showFolderColumns.accesskey   "v">
 <!ENTITY openMsgIn.label               "Abrir los menajes en:">
+<!ENTITY openMsgInNewTab.label         "Una nueva pestaña">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "Una nueva ventana de mensaje">
 <!ENTITY reuseExpRadio0.accesskey      "U">
 <!ENTITY reuseExpRadio1.label          "Una ventana de mensaje existente">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY configEditDesc.label          "Configuración avanzada">
-<!ENTITY configEdit.label              "Editor de configuración…">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
-<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Reading">
-<!ENTITY display.caption                "Display">
+<!ENTITY closeMsgWindowOnDelete.label  "Cerrar ventana del mensaje al borrar">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">
@@ -45,7 +54,6 @@
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label    "Agregados instalados">
 <!ENTITY enableAddonsUpdate.accesskey "i">
-<!ENTITY checkNow.label                 "Buscar ahora…">
 <!ENTITY whenUpdatesFound.label         "Cuando se encuentren actualizaciones para &brandShortName;,">
 <!ENTITY modeAskMe.label                "Preguntarme qué hacer">
 <!ENTITY modeAskMe.accesskey            "h">
@@ -57,9 +65,9 @@
 <!ENTITY showUpdates.accesskey          "u">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.label            "Configuración…">
 <!ENTITY showSettings.accesskey        "n">
-<!ENTITY proxiesConfigure.label        "Configurar como &brandShortName; se conecta a Internet.">
+<!ENTITY proxiesConfigure.label        "Configurar cómo &brandShortName; se conectará a Internet.">
 <!ENTITY connectionsInfo.caption       "Conexión">
 <!ENTITY offlineInfo.caption           "Sin conexión">
 <!ENTITY offlineInfo.label             "Configure las opciones 'Sin conexión'">
@@ -84,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "B">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Cuando un servidor solicite mi certificado personal:">
+<!ENTITY certs.auto                      "Seleccionar uno automáticamente">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Preguntarme cada vez">
+<!ENTITY certs.ask.accesskey             "A">
+
 <!ENTITY viewCertificates.label         "Ver certificados">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Listas de revocación">

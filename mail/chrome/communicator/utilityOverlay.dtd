@@ -29,9 +29,9 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Preferencias...">
-<!ENTITY preferencesCmd.accesskey "f">
-<!ENTITY preferencesCmdUnix.label "Preferences">
+<!ENTITY preferencesCmd.label "Opciones…">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY viewMenu.label "Ver">
@@ -41,14 +41,12 @@
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "s">
 
-<!ENTITY proxy.label "Configuración de proxy...">
+<!ENTITY proxy.label "Configuración de proxy…">
 <!ENTITY proxy.accesskey "C">
 
 <!ENTITY closeCmd.label         "Cerrar">  
 <!ENTITY closeCmd.key         "W">  
 <!ENTITY closeCmd.accesskey      "c">
-
-<!ENTITY closeWindow.label "Cerrar ventana">
 
 <!ENTITY quitApplicationCmd.label   "Salir"> 
 <!ENTITY quitApplicationCmd.key      "Q"> 

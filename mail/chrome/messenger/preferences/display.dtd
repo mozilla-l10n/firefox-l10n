@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Color:">
 <!ENTITY color.accesskey                  "c">
 <!ENTITY displayWidth.label               "Mensajes de texto plano">
-<!ENTITY plainText.label                      "Usar la siguiente tipografía:">
 <!ENTITY displayText.label                    "Cuando se muestren mensajes de texto plano citados:">
-<!ENTITY fixedWidth.label                 "Letra de ancho fijo">
-<!ENTITY fixedWidth.accesskey             "n">
-<!ENTITY variableWidth.label              "Letra de ancho variable">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "Colores">
 <!ENTITY overrideColors.label             "Cuando se muestren mensajes, usar los colores siguientes:">
 <!ENTITY textColor.label                  "Color del texto:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "B">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Configure las tipografías y codificaciones usadas por &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Tipografías y codificaciones">
-<!ENTITY fontOptions.accesskey   "F">
-<!ENTITY fontOptions.label       "Tipografías…">
+<!ENTITY fontsAndColors.label    "Tipografía">
+<!ENTITY defaultFont.label       "Tipografía predeterminada:">
+<!ENTITY defaultFont.accesskey   "d">
+<!ENTITY defaultSize.label       "Tamaño:">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avanzadas…">

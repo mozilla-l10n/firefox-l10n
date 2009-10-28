@@ -50,21 +50,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir archivo resumen"> 
 
 <!ENTITY retention.label "Política de retención">
-<!ENTITY retentionUseDefault.label  "Usar configuración del servidor">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label  "Usar configuración de mi cuenta">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "días">
 <!ENTITY message.label "mensajes">
 <!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
+<!ENTITY retentionCleanupImap.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente tanto las copias locales como los originales en el servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente incluyendo los originales en el servidor remoto.">
 <!ENTITY retentionDeleteMsg.label "Borrar mensajes de más de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No borrar ningún mensaje">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Borrar todos menos los últimos">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Siempre borrar los mensajes leídos">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "Borrar todos excepto los más recientes">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Siempre borrar los mensajes leídos (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Siempre mantener los mensajes destacados">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label "Sin conexión">
+<!ENTITY folderSynchronizationTab.label          "Sincronización">
 <!ENTITY folderCheckForNewMessages.label "Comprobar esta carpeta en busca de nuevos mensajes">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
@@ -84,7 +88,7 @@
 <!ENTITY folderProps.location.accesskey          "U">
 
 <!ENTITY folderSharingTab.label "Compartir">
-<!ENTITY privileges.button.label "Privilegios...">
+<!ENTITY privileges.button.label "Privilegios…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label "Tiene los siguientes permisos:">
 <!ENTITY folderType.label "Tipo de carpeta:">

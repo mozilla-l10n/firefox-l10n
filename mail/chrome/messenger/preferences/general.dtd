@@ -1,17 +1,5 @@
-<!ENTITY systemDefaults.label              "Predeterminados del sistema">
-<!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Verificar ahora">
-<!ENTITY checkNow.accesskey         "V">
-
 <!ENTITY messengerStartPage.label         "Página de inicio de &brandShortName;">
-<!ENTITY enableStartPage.label            "Cunado se inicie &brandShortName;, muestre la página de inicio en el área de mensajes">
+<!ENTITY enableStartPage.label            "Cuando se inicie &brandShortName;, muestre la página de inicio en el área de mensajes">
 <!ENTITY enableStartPage.accesskey        "i">
 <!ENTITY location.label                   "Dirección:">
 <!ENTITY location1.accesskey               "c">
