@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title "Parole chiave promemoria allegati">
+<!ENTITY attachKeywordText.label "&brandShortName; avviserà nel caso si stia per inviare una e-mail priva di allegati e che contenga una di queste parole chiave.">
+<!ENTITY addKeywordButton.label "Aggiungi">
+<!ENTITY addKeywordButton.accesskey "A">
+<!ENTITY editKeywordButton.label "Modifica">
+<!ENTITY editKeywordButton.accesskey "M">
+<!ENTITY removeKeywordButton.label "Elimina">
+<!ENTITY removeKeywordButton.accesskey "E">
