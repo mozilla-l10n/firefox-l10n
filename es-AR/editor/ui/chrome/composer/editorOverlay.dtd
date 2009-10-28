@@ -68,15 +68,15 @@
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicar como…">
-<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY publishAsCmd.accesskey "m">
 <!ENTITY exportToTextCmd.label "Exportar a texto…">
 <!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
 <!ENTITY previewCmd.label "Visualizar página en el navegador">
 <!ENTITY previewCmd.accesskey "V">
 <!ENTITY sendPageCmd.label "Enviar página…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY sendPageCmd.accesskey "E">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Imprimir…">
@@ -90,7 +90,7 @@
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Copiar sin formato">
-<!ENTITY pasteNoFormatting.accesskey "s">
+<!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "a">
@@ -101,6 +101,7 @@
      clipboard formats are available -->
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
 <!ENTITY findCmd.accesskey "A">
 <!ENTITY findCmd.key "A">
@@ -109,15 +110,15 @@
 <!ENTITY findAgainCmd.accesskey "q">
 <!ENTITY findAgainCmd.key "q">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Encontrar anterior">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.label "Buscar anterior">
+<!ENTITY findPrevCmd.accesskey "e">
 <!ENTITY findPrevCmd.key "q">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Ortografía mientras tipea">
 <!ENTITY enableInlineSpellChecker.accesskey "O">
-<!ENTITY checkSpellingCmd.label "Revisar ortografía">
-<!ENTITY checkSpellingCmd.accesskey "g">
-<!ENTITY checkSpellingCmd.key "k">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía">
+<!ENTITY checkSpellingCmd2.accesskey "g">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Validar HTML">
 <!ENTITY validateCmd.accesskey "v">
 
@@ -149,12 +150,12 @@
 <!ENTITY spellCheckAddToDictionary.label "Agregar al diccionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Crear enlace…">
-<!ENTITY createLinkCmd.accesskey "k">
+<!ENTITY createLinkCmd.accesskey "e">
 <!ENTITY editLinkCmd.label "Editar enlace en nueva ventana de Composer">
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY redoCmd.label "Repetir">
 <!ENTITY redoCmd.accesskey "r">
 <!ENTITY cutCmd.label "Cortar">
@@ -164,9 +165,9 @@
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.accesskey "r">
 <!ENTITY clearCmd.label "Limpiar">
-<!ENTITY clearCmd.accesskey "d">
+<!ENTITY clearCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "a">
 
@@ -180,36 +181,36 @@
 <!ENTITY fontFixedWidth.accesskey "j">
 <!ENTITY fontFixedWidth.key "t">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
-<!ENTITY fontHelvetica.accesskey "d">
+<!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fontTimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontCourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
 <!ENTITY decreaseFontSize.label "Más pequeño">
-<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.accesskey "s">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Más grande">
-<!ENTITY increaseFontSize.accesskey "q">
+<!ENTITY increaseFontSize.accesskey "r">
 <!ENTITY increaseFontSize.key "+">
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Tamaño">
 <!ENTITY fontSizeMenu.accesskey "T">
 <!ENTITY size-xx-smallCmd.label "xx-pequeño">
-<!ENTITY size-xx-smallCmd.accesskey "a">
+<!ENTITY size-xx-smallCmd.accesskey "x">
 <!ENTITY size-x-smallCmd.label "Muy pequeño">
 <!ENTITY size-x-smallCmd.accesskey "q">
 <!ENTITY size-smallCmd.label "Pequeño">
-<!ENTITY size-smallCmd.accesskey "G">
+<!ENTITY size-smallCmd.accesskey "P">
 <!ENTITY size-mediumCmd.label "Medio">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "Grande">
-<!ENTITY size-largeCmd.accesskey "d">
+<!ENTITY size-largeCmd.accesskey "G">
 <!ENTITY size-x-largeCmd.label "Muy grande">
-<!ENTITY size-x-largeCmd.accesskey "x">
+<!ENTITY size-x-largeCmd.accesskey "M">
 <!ENTITY size-xx-largeCmd.label "Extragrande">
 <!ENTITY size-xx-largeCmd.accesskey "e">
 
@@ -335,10 +336,10 @@
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY grid.label "Grilla de posicionamiento">
-<!ENTITY grid.accesskey "t">
+<!ENTITY grid.accesskey "G">
 
 <!ENTITY pageProperties.label "Título y propiedades de la página…">
-<!ENTITY pageProperties.accesskey "q">
+<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Color y fondo de la página…">
 <!ENTITY colorsAndBackground.accesskey "f">
 

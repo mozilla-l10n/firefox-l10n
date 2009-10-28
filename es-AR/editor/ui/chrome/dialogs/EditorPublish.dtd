@@ -94,7 +94,7 @@
 <!ENTITY username.accesskey           "U">
 <!ENTITY username.tooltip             "El nombre de usuario con el que ingresa a su proveedor para el servicio de hosting">
 <!ENTITY password.label               "Contraseña:">
-<!ENTITY password.accesskey           "w">
+<!ENTITY password.accesskey           "C">
 <!ENTITY password.tooltip             "La contrseña asociada con su nombre de usuario">
 <!ENTITY savePassword.label           "Guardar contraseña">
 <!ENTITY savePassword.accesskey       "S">

@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Fondo y colores de la página">
+<!ENTITY windowTitle.label "Color y fondo de la página">
 <!ENTITY pageColors.label "Colores de la página">
 <!ENTITY defaultColorsRadio.label "Colores predeterminados del lector (no fijar los colores en la página)">
 <!ENTITY defaultColorsRadio.accessKey "D">
