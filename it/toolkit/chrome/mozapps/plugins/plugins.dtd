@@ -3,7 +3,7 @@
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; sta controllando l'esistenza di plugin disponibili…">
 <!ENTITY pluginWizard.availablePluginsPage.title "Download plugin disponibili">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Sono disponibili i seguenti plugin:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Premere Avanti per installare questi plugin.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Fare clic su Avanti per installare questi plugin.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI "Alcuni plugin potrebbero richiedere informazioni aggiuntive durante l'installazione.">
 <!ENTITY pluginWizard.licensePage.title "Licenze plugin">
 <!ENTITY pluginWizard.licensePage.accept.label "Accetto.">
