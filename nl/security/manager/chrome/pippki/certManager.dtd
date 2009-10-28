@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Certificaatnaam">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Uitzonderingen">
 <!ENTITY certmgr.override_lifetime            "Levensduur">
 <!ENTITY certmgr.tokenname                    "Beveiligingsapparaat">
-<!ENTITY certmgr.purpose                      "Doeleinden">
 <!ENTITY certmgr.issued                       "Uitgegeven op">
 <!ENTITY certmgr.expires                      "Verloopt op">
 <!ENTITY certmgr.email                        "E-mailadres">
