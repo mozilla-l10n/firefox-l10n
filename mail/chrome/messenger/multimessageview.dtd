@@ -1,0 +1,4 @@
+<!ENTITY window.title "Riepilogo messaggio">
+<!ENTITY selectedmessages.label "Messaggi selezionati">
+<!ENTITY archive.label "archivia">
+<!ENTITY delete.label "elimina">

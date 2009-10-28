@@ -1,0 +1,34 @@
+<!ENTITY featureConfigurator.title "Migrazione guidata">
+<!ENTITY featureConfigurator.heading "Le caratteristiche di Thunderbird 3 da conoscere">
+<!ENTITY featureConfigurator.para1 "Thunderbird 3 introduce nuove potenti funzioni di cui andiamo particolarmente fieri e siamo convinti che molte persone sapranno apprezzarle. Dal momento che ogni utente ha le proprie necessità e le proprie preferenze, abbiamo comunque reso Thunderbird semplice da controllare e personalizzare.">
+<!ENTITY featureConfigurator.para2 "È possibile utilizzare questa pagina per configurare le nuove impostazioni. La Migrazione guidata può essere richiamata in qualunque istante utilizzando il menu Aiuto.">
+<!ENTITY featureConfigurator.imap.heading "Sincronizzazione messaggi IMAP">
+<!ENTITY featureConfigurator.imap.status.all "Tutte le cartelle IMAP sono impostate per la &quot;sincronizzazione&quot;.">
+<!ENTITY featureConfigurator.imap.status.none "Nessuna cartella IMAP è impostata per la &quot;sincronizzazione&quot;.">
+<!ENTITY featureConfigurator.imap.status.some "Alcune cartelle IMAP sono impostate per la &quot;sincronizzazione&quot;.">
+<!ENTITY featureConfigurator.benefits.label "Vantaggi">
+<!ENTITY featureConfigurator.alternative.label "Alternative">
+<!ENTITY featureConfigurator.syncBenefits.para "Consente di leggere i messaggi in assenza di una connessione a Internet e permette di cercare all'interno del messaggio completo, non solo nell'oggetto o nei contatti.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird scaricherà tutta la posta sul computer in uso. È possibile disattivare questa funzione per risparmiare spazio su disco o ridurre il consumo di banda.">
+<!ENTITY featureConfigurator.syncAll.button "Sincronizza tutto">
+<!ENTITY featureConfigurator.syncNone.button "Non sincronizzare nulla">
+<!ENTITY featureConfigurator.advancedUsers.label "Utenti esperti:">
+<!ENTITY featureConfigurator.advancedUsers.para "è possibile personalizzare la sincronizzazione per account e per cartella:">
+<!ENTITY featureConfigurator.toolbar.heading "Nuova barra degli strumenti">
+<!ENTITY featureConfigurator.toolbar.new.status "Si sta utilizzando la nuova barra degli strumenti.">
+<!ENTITY featureConfigurator.toolbar.original.status "Si sta utilizzando la versione precedente della barra degli strumenti.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Un'interfaccia più semplice rispetto al passato, che lascia più spazio al campo di ricerca interrattivo e ad eventuali componenti aggiuntivi.">
+<!ENTITY featureConfigurator.toolbarAlternative.para "Se si preferisce utilizzare la versione precedente della barra degli strumenti, non si vuole ripetere la personalizzazione o si utilizza una visualizzazione in cui il pannello dei messaggi è nascosto.">
+<!ENTITY featureConfigurator.useOriginalToolbar.button "Attiva la vecchia versione della barra degli strumenti">
+<!ENTITY featureConfigurator.useNewToolbar.button "Attiva la nuova barra degli strumenti">
+<!ENTITY featureConfigurator.smartFolders.heading "Visualizzazione Cartelle smart">
+<!ENTITY featureConfigurator.smartFolders.smart.status "Si sta utilizzando la visualizzazione &quot;Cartelle smart&quot;.">
+<!ENTITY featureConfigurator.smartFolders.all.status "Non si sta utilizzando la visualizzazione &quot;Cartelle smart&quot;.">
+<!ENTITY featureConfigurator.smartFolderBenefits.para "Progettata per utenti con molti account di posta, questa visualizzazione consente di raggruppare cartelle come la Posta in arrivo, ottenendo una visualizzazione complessiva e immediata dei messaggi.">
+<!ENTITY featureConfigurator.smartFolderAlternative.para "Se si preferisce mantenere separati le informazioni nei diversi account, è consigliabile utilizzare la modalità di visualizzazione &quot;Tutte le cartelle&quot;.">
+<!ENTITY featureConfigurator.useSmartFolders.button "Attiva la visualizzazione &quot;Cartelle smart&quot;">
+<!ENTITY featureConfigurator.useAllFolders.button "Attiva la visualizzazione &quot;Tutte le cartelle&quot;">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Intestazioni raggruppate">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 migliora la modalità di visualizzazione delle intestazioni, fornendo pulsanti per effettuare le operazioni più comuni sui messaggi. Sono comunque disponibili delle soluzioni alternative attraverso i ">
+<!ENTITY featureConfigurator.headerParaLinkName "componenti aggiuntivi">
+<!ENTITY featureConfigurator.headerParaAfterLink ".">
