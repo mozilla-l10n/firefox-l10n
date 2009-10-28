@@ -3,23 +3,28 @@
 <!ENTITY fccMailFolder.label "copia il messaggio in:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Salva le risposte nella cartella del messaggio a cui si è risposto">
-<!ENTITY fccReplyFollowsParent.accesskey "e">
+<!ENTITY fccReplyFollowsParent.accesskey "u">
 <!ENTITY bccAddress.label "Copia nascosta a questi indirizzi di posta:">
 <!ENTITY bccAddress.accesskey "n">
 <!ENTITY saveMessageDlg.label "Chiedi conferma quando si salvano i messaggi">
 <!ENTITY saveMessageDlg.accesskey "h">
 <!ENTITY sentFolderOn.label "cartella &quot;Posta inviata&quot; su:">
-<!ENTITY sentFolderOn.accesskey "C">
+<!ENTITY sentFolderOn.accesskey "o">
 <!ENTITY sentInOtherFolder.label "altra:">
 <!ENTITY sentInOtherFolder.accesskey "t">
 <!ENTITY draftsFolderOn.label "cartella &quot;Bozze&quot; su:">
 <!ENTITY draftsFolderOn.accesskey "B">
 <!ENTITY draftInOtherFolder.label "altra:">
 <!ENTITY draftInOtherFolder.accesskey "l">
+<!ENTITY archivesFolderOn.label "Cartella &quot;Archivi&quot; su:">
+<!ENTITY archivesFolderOn.accesskey "v">
+<!ENTITY archiveInOtherFolder.label "altra:">
+<!ENTITY archiveInOtherFolder.accesskey "a">
 <!ENTITY templatesFolderOn.label "cartella &quot;Modelli&quot; su:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "altra:">
-<!ENTITY templateInOtherFolder.accesskey "a">
-<!ENTITY specialFoldersTitle.label "Bozze e modelli">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Bozze, archivi e modelli">
 <!ENTITY keepDrafts.label "Conserva le bozze dei messaggi in:">
+<!ENTITY keepArchives.label "Conserva gli archivi dei messaggi in:">
 <!ENTITY keepTempltes.label "Conserva i modelli dei messaggi in:">

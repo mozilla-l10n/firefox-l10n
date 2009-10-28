@@ -1,16 +1,16 @@
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
-<!ENTITY smtpDesc.label "Nonostante sia possibile specificare più di un server di posta in uscita (SMTP) di solito è sconsigliato se non ad utenti avanzati. Specificare più di un server di posta in uscita può causare errori durante la spedizione del messaggio.">
+<!ENTITY smtpDesc.label "Nonostante sia possibile specificare più di un server di posta in uscita (SMTP), questa operazione è consigliata solo ad utenti esperti. Specificare più di un server di posta in uscita può causare errori durante l'invio del messaggio.">
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "g">
 <!ENTITY smtpListEdit.label "Modifica…">
 <!ENTITY smtpListEdit.accesskey "M">
 <!ENTITY smtpListDelete.label "Elimina">
-<!ENTITY smtpListDelete.accesskey "E">
+<!ENTITY smtpListDelete.accesskey "n">
 <!ENTITY smtpListSetDefault.label "Imposta predefinito">
 <!ENTITY smtpListSetDefault.accesskey "t">
-<!ENTITY serverDescription.label "Descrizione:">
-<!ENTITY serverName.label "Nome server:">
-<!ENTITY serverPort.label "Porta:">
-<!ENTITY userName.label "Nome utente:">
-<!ENTITY useSecureConnection.label "Collegamento sicuro:">
-<!ENTITY useSecureAuthentication.label "Autenticazione sicura:">
+<!ENTITY serverDescription.label "Descrizione: ">
+<!ENTITY serverName.label "Nome server: ">
+<!ENTITY serverPort.label "Porta: ">
+<!ENTITY userName.label "Nome utente: ">
+<!ENTITY connectionSecurity.label "Sicurezza della connessione: ">
+<!ENTITY useSecureAuthentication.label "Autenticazione sicura: ">

@@ -1,6 +1,6 @@
 <!ENTITY dialog.title "Ricevute di ritorno">
 <!ENTITY requestReceipt.label "Quando si spediscono i messaggi chiedere sempre la ricevuta di ritorno">
-<!ENTITY requestReceipt.accesskey "Q">
+<!ENTITY requestReceipt.accesskey "u">
 <!ENTITY receiptArrive.label "Quando arriva una ricevuta:">
 <!ENTITY leaveIt.label "Lasciala nella posta in arrivo">
 <!ENTITY leaveIt.accesskey "i">
@@ -11,9 +11,9 @@
 <!ENTITY never.accesskey "n">
 <!ENTITY returnSome.label "Consenti ricevuta di ritorno per alcuni messaggi">
 <!ENTITY returnSome.accesskey "r">
-<!ENTITY notInToCc.label "Se il mio indirizzo non è nel campo 'A' o 'Cc':">
+<!ENTITY notInToCc.label "Se il proprio indirizzo non è nel campo 'A' o 'Cc':">
 <!ENTITY notInToCc.accesskey "e">
-<!ENTITY outsideDomain.label "Se il mittente è esterno al mio dominio:">
+<!ENTITY outsideDomain.label "Se il mittente è esterno al proprio dominio:">
 <!ENTITY outsideDomain.accesskey "t">
 <!ENTITY otherCases.label "In tutti gli altri casi:">
 <!ENTITY otherCases.accesskey "a">

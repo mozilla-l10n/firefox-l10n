@@ -1,14 +1,8 @@
-<!ENTITY systemDefaults.label "Predefiniti di sistema">
-<!ENTITY alwaysCheckDefault.label "All'avvio controlla sempre che &brandShortName; sia il programma di posta predefinito.">
-<!ENTITY alwaysCheckDefault.accesskey "f">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Controlla ora">
-<!ENTITY checkNow.accesskey "N">
 <!ENTITY messengerStartPage.label "Pagina iniziale di &brandShortName;">
 <!ENTITY enableStartPage.label "All'apertura di &brandShortName; mostra la pagina iniziale nell'area messaggi">
 <!ENTITY enableStartPage.accesskey "d">
 <!ENTITY location.label "Posizione:">
-<!ENTITY location1.accesskey "z">
+<!ENTITY location1.accesskey "n">
 <!ENTITY useDefault.label "Ripristina predefinita">
 <!ENTITY useDefault.accesskey "R">
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona nel dock">
@@ -26,12 +20,12 @@
 <!ENTITY systemsoundMac.label "Suono di avviso predefinito">
 <!ENTITY systemsoundMac.accesskey "p">
 <!ENTITY systemsound.accesskey "p">
-<!ENTITY customsound.label "Usa questo file sonoro">
+<!ENTITY customsound.label "Utilizza questo file audio">
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Sfoglia…">
 <!ENTITY browse.accesskey "S">
 <!ENTITY addonsMgr.label "Componenti aggiuntivi">
 <!ENTITY manageAddonsDescWin.label "Modifica le opzioni per i componenti aggiuntivi">
 <!ENTITY manageAddonsDescUnix2.label "Modifica preferenze per i componenti aggiuntivi">
-<!ENTITY manageAddons.label "Gestione componenti aggiuntivi">
-<!ENTITY manageAddons.accesskey "M">
+<!ENTITY manageAddons.label "Gestione componenti aggiuntivi…">
+<!ENTITY manageAddons.accesskey "G">

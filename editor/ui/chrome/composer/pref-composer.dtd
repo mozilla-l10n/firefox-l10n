@@ -5,14 +5,14 @@
 <!ENTITY savingFiles.title "Salvando o pubblicando le pagine">
 <!ENTITY preserveExisting.label "Preservare la formattazione originale della sorgente">
 <!ENTITY preserveExisting.accesskey "P">
-<!ENTITY preserveExisting.tooltip "Preservare le interruzioni di linea e la formattazione originale della pagina">
+<!ENTITY preserveExisting.tooltip "Preserva le interruzioni di riga e la formattazione originale della pagina">
 <!ENTITY saveAssociatedFiles.label "Salva assieme alla pagina immagini e altri file associati ">
 <!ENTITY saveAssociatedFiles.accesskey "S">
 <!ENTITY showPublishDialog.label "Visualizza sempre la finestra di dialogo quando si pubblica">
 <!ENTITY showPublishDialog.accesskey "A">
 <!ENTITY composerEditing.label "Modifica">
 <!ENTITY maintainStructure.label "Mantenere la struttura della tabella durante l'inserimento o l'eliminazione di celle">
-<!ENTITY maintainStructure.tooltip "Preservare la forma rettangolare della tabella aggiungendo automaticamente celle dopo l'inserimento o l'eliminazione di celle">
+<!ENTITY maintainStructure.tooltip "Preserva la forma rettangolare della tabella aggiungendo automaticamente celle dopo l'inserimento o l'eliminazione di celle">
 <!ENTITY maintainStructure.accesskey "a">
 <!ENTITY useCSS.label "Utilizza stili CSS al posto di elementi ed attributi HTML">
 <!ENTITY useCSS.accesskey "U">

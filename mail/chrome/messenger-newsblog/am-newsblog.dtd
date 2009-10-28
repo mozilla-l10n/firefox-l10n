@@ -1,5 +1,5 @@
-<!ENTITY newsblogTitle.label "Impostazioni account RSS">
-<!ENTITY biffStart.label "Controlla la presenza di nuovi articoli ogni">
+<!ENTITY accountTitle.label "Impostazioni account">
+<!ENTITY biffStart.label "Controlla la presenza di nuovi articoli ogni ">
 <!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minuti">
 <!ENTITY loginAtStartup.label "Controlla presenza di nuovi articoli all'avvio.">
@@ -8,7 +8,7 @@
 <!ENTITY useQuickMode.accesskey "m">
 <!ENTITY manageSubscriptions.label "Gestione sottoscrizioni…">
 <!ENTITY manageSubscriptions.accesskey "G">
-<!ENTITY rss.accountName "Notizie e Blog">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "Notizie e Blog RSS">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "Blog e feed delle news">
+<!ENTITY feeds.wizardShortName "Feed">
+<!ENTITY feeds.wizardLongName "Blog e feed delle news">
+<!ENTITY feeds.wizardLongName.accesskey "F">

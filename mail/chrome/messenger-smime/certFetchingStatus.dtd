@@ -1,3 +1,3 @@
 <!ENTITY title.label "Ricezione certificati">
-<!ENTITY info.message "Ricerca nella directory per i certificati dei mittenti. L'operazione potrebbe richiedere alcuni minuti.">
+<!ENTITY info.message "Ricerca in corso del certificato dei destinatari nella directory. L'operazione potrebbe richiedere alcuni minuti.">
 <!ENTITY stop.label "Interrompi ricerca">

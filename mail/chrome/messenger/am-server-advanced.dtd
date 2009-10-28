@@ -5,9 +5,9 @@
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "Il server supporta cartelle contenenti altre cartelle e messaggi">
 <!ENTITY dualUseFolders.accesskey "s">
-<!ENTITY useIdle.label "Usa il comando IDLE se supportato dal server">
+<!ENTITY useIdle.label "Utilizza il comando IDLE se supportato dal server">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Numero massimo di collegamenti  verso il server da tenere in cache">
+<!ENTITY maximumConnectionsNumber.label "Numero massimo di collegamenti verso il server da tenere in cache">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label "Queste preferenze definiscono i domini sul server IMAP">
 <!ENTITY personalNamespace.label "Dominio personale:">
@@ -21,7 +21,7 @@
 <!ENTITY pop3Desc.label "Quando si scarica la posta da questo server usare la seguente cartella per memorizzarla:">
 <!ENTITY globalInbox.label "Posta in arrivo globale (Cartelle Locali)">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Posta in arrivo per  l'account di questo server">
+<!ENTITY accountDirectory.label "Posta in arrivo per l'account di questo server">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Posta in arrivo di un altro account.">
 <!ENTITY deferToServer.accesskey "D">

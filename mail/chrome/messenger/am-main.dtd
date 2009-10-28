@@ -8,20 +8,24 @@
 <!ENTITY email.label "Indirizzo e-mail:">
 <!ENTITY email.accesskey "I">
 <!ENTITY replyTo.label "Indirizzo per risposte:">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.accesskey "z">
 <!ENTITY organization.label "Organizzazione:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Allega questa firma:">
-<!ENTITY signature.accesskey "l">
+<!ENTITY signatureText.label "Testo per firma:">
+<!ENTITY signatureText.accesskey "r">
+<!ENTITY signatureHtml.label "Utilizza HTML (ad esempio &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "In alternativa allega la firma da un file (testo, HTML o immagine):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Modifica…">
-<!ENTITY choose.label "Scegliere…">
-<!ENTITY choose.accesskey "C">
+<!ENTITY choose.label "Sfoglia…">
+<!ENTITY choose.accesskey "S">
 <!ENTITY editVCard.label "Modifica scheda…">
 <!ENTITY editVCard.accesskey "d">
 <!ENTITY attachVCard.label "Allega biglietto da visita elettronico (vCard) ai messaggi">
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY manageIdentities.label "Gestione identità…">
 <!ENTITY manageIdentities.accesskey "G">
-<!ENTITY smtpName.label "Server in uscita (SMTP)">
+<!ENTITY smtpName.label "Server in uscita (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Usare il server predefinito">

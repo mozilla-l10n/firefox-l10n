@@ -1,8 +1,8 @@
 <!ENTITY accountTitle.label "Impostazioni account">
 <!ENTITY accountSettingsDesc.label "Questo è un account speciale. Non ci sono identità associate ad esso.">
-<!ENTITY accountName.label "Nome account :">
+<!ENTITY accountName.label "Nome account:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Archivio messaggi">
+<!ENTITY messageStorage.label "Cartella messaggi">
 <!ENTITY emptyTrashOnExit.label "Svuota cestino all'uscita">
 <!ENTITY emptyTrashOnExit.accesskey "v">
 <!ENTITY localPath.label "Cartella locale:">

@@ -38,4 +38,4 @@
 <!ENTITY windowTitle.label "Proprietà ancora">
 <!ENTITY anchorNameEditField.label "Nome ancora:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Inserire un nome (destinazione) per quest'ancora. Fare clic su Proprietà avanzate per aggiungere o modificare ulteriori proprietà.">
+<!ENTITY nameInput.tooltip "Inserisci un nome univoco per quest'ancora (destinazione).">

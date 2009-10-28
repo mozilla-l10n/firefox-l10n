@@ -1,3 +1,3 @@
-<!ENTITY newTagDialog.title "Creare una nuova etichetta">
+<!ENTITY newTagDialog.title "Nuova etichetta">
 <!ENTITY name.label "Nome dell'etichetta:">
-<!ENTITY name.accesskey "T">
+<!ENTITY name.accesskey "N">

@@ -42,7 +42,7 @@
 <!ENTITY publishButton.label "Pubblica">
 <!ENTITY siteList.label "Nome sito:">
 <!ENTITY siteList.accesskey "e">
-<!ENTITY siteList.tooltip "Scegliere il sito su cui si vuole pubblicare">
+<!ENTITY siteList.tooltip "Scegli il sito su cui si vuole pubblicare">
 <!ENTITY newSiteButton.label "Nuovo sito">
 <!ENTITY newSiteButton.accesskey "N">
 <!ENTITY docDirList.label "Percorso nel sito per la pagina:">
@@ -60,11 +60,11 @@
 <!ENTITY otherDirList.tooltip "Scegli o digita il nome della sottocartella in cui saranno pubblicati i file">
 <!ENTITY pageTitle.label "Titolo pagina:">
 <!ENTITY pageTitle.accesskey "T">
-<!ENTITY pageTitle.tooltip "Inserire un titolo per identificare la pagina nella finestra e nei segnalibri">
+<!ENTITY pageTitle.tooltip "Inserisci un titolo per identificare la pagina nella finestra e nei segnalibri">
 <!ENTITY pageTitleExample.label "es.: &quot;La mia pagina web&quot;">
 <!ENTITY filename.label "Nome file:">
 <!ENTITY filename.accesskey "F">
-<!ENTITY filename.tooltip "Inserire un nome per questo file, incluso '.html' per pagine web">
+<!ENTITY filename.tooltip "Inserisci un nome per questo file, incluso '.html' per pagine web">
 <!ENTITY filenameExample.label "es.: &quot;lamiapagina.html&quot;">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "p">

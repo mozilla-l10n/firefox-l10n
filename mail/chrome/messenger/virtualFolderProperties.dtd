@@ -1,10 +1,10 @@
 <!ENTITY virtualFolderProperties.title "Cartella ricerca appena salvata">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY description.label "Creare come sottocartella di:">
+<!ENTITY description.label "Crea come sottocartella di:">
 <!ENTITY description.accesskey "e">
-<!ENTITY searchTermCaption.label "Configurare il criterio di ricerca usato per questa cartella di ricerca salvata:">
-<!ENTITY folderSelectionCaption.label "Selezionare le cartelle in cui cercare:">
+<!ENTITY searchTermCaption.label "Configurare il criterio di ricerca usato per questa cartella di ricerca salvata: ">
+<!ENTITY folderSelectionCaption.label "Selezionare le cartelle in cui cercare: ">
 <!ENTITY chooseFoldersButton.label "Scegliere…">
 <!ENTITY chooseFoldersButton.accesskey "c">
 <!ENTITY searchOnline.label "Ricerca in linea (fornisce risultati aggiornati per le cartelle IMAP o dei Gruppi di discussione ma aumenta il tempo necessario per aprire la cartella)">

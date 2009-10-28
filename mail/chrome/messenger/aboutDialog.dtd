@@ -1,9 +1,18 @@
-<!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
-<!ENTITY credits.label "Riconoscimenti">
-<!ENTITY credits.accesskey "C">
-<!ENTITY aboutLink.label "&lt; informazioni su &brandFullName;">
-<!ENTITY aboutLink.accesskey "I">
-<!ENTITY aboutVersion "version">
-<!ENTITY copyrightText "©1998-2008 dei collaboratori. Tutti i diritti riservati. Mozilla Thunderbird ed i
-   logo di Thunderbird sono marchi registrati della Mozilla Foundation.
+<!ENTITY aboutDialog.title "&brandFullName;">
+<!ENTITY aboutButton.label "&lt; Indietro">
+<!ENTITY aboutButton.accesskey "I">
+<!ENTITY aboutVersion "versione">
+<!ENTITY copyrightText "©1998-2009 dei collaboratori. Tutti i diritti riservati. Mozilla Thunderbird ed i
+   loghi di Thunderbird sono marchi registrati della Mozilla Foundation.
 	Tutti i diritti sono riservati.">
+<!ENTITY aboutMenu.label "Informazioni su">
+<!ENTITY aboutMenu.accesskey "n">
+<!ENTITY aboutCredits.label "Riconoscimenti">
+<!ENTITY aboutCredits.accesskey "c">
+<!ENTITY aboutRights.label "I tuoi diritti">
+<!ENTITY aboutRights.accesskey "r">
+<!ENTITY aboutContributors.label "Collaboratori">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label "Licenza">
+<!ENTITY aboutLicense.accesskey "L">
+<!ENTITY cmdCloseMac.commandKey "w">

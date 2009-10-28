@@ -1,6 +1,6 @@
-<!ENTITY itemFormatting.label "Formattazione">
+<!ENTITY itemFormatting.label "Formato">
 <!ENTITY itemTags.label "Etichette">
-<!ENTITY style.label "Stile">
+<!ENTITY style.label "Stile:">
 <!ENTITY style.accesskey "e">
 <!ENTITY regularStyle.label "Regolare">
 <!ENTITY bold.label "Grassetto">
@@ -12,30 +12,28 @@
 <!ENTITY bigger.label "Più grande">
 <!ENTITY smaller.label "Più piccolo">
 <!ENTITY color.label "Colore:">
-<!ENTITY color.accesskey "l">
+<!ENTITY color.accesskey "o">
 <!ENTITY displayWidth.label "Messaggi di testo semplice">
-<!ENTITY plainText.label "Usa il carattere:">
 <!ENTITY displayText.label "Durante la visualizzazione delle citazioni in testo semplice:">
-<!ENTITY fixedWidth.label "Carattere a larghezza fissa">
-<!ENTITY fixedWidth.accesskey "h">
-<!ENTITY variableWidth.label "Carattere a larghezza variabile">
-<!ENTITY variableWidth.accesskey "V">
 <!ENTITY colors.label "Colori">
-<!ENTITY overrideColors.label "Durante la visualizzazione dei messaggi usa i seguenti colori:">
+<!ENTITY overrideColors.label "Durante la visualizzazione dei messaggi utilizza i seguenti colori:">
 <!ENTITY textColor.label "Colore del testo:">
 <!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "Colore dello sfondo:">
-<!ENTITY backgroundColor.accesskey "o">
+<!ENTITY backgroundColor.accesskey "f">
 <!ENTITY convertEmoticons.label "Mostra le faccine in modo grafico">
-<!ENTITY convertEmoticons.accesskey "D">
-<!ENTITY displayTagsText.label "Le etichette possono essere usate per catalogare e dare priorità ai messaggi">
+<!ENTITY convertEmoticons.accesskey "a">
+<!ENTITY displayTagsText.label "Le etichette possono essere usate per catalogare e dare priorità ai messaggi.">
 <!ENTITY addTagButton.label "Aggiungi">
 <!ENTITY addTagButton.accesskey "A">
 <!ENTITY editTagButton.label "Modifica">
 <!ENTITY editTagButton.accesskey "M">
 <!ENTITY removeTagButton.label "Elimina">
-<!ENTITY removeTagButton.accesskey "i">
-<!ENTITY fontAndEncodingsDescription.label "Impostazione dei caratteri e della codifica usata da &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "Caratteri e codifica">
-<!ENTITY fontOptions.accesskey "C">
-<!ENTITY fontOptions.label "Caratteri…">
+<!ENTITY removeTagButton.accesskey "E">
+<!ENTITY fontsAndColors.label "Caratteri">
+<!ENTITY defaultFont.label "Carattere predefinito:">
+<!ENTITY defaultFont.accesskey "C">
+<!ENTITY defaultSize.label "Dim.:">
+<!ENTITY defaultSize.accesskey "D">
+<!ENTITY fontOptions.accesskey "z">
+<!ENTITY fontOptions.label "Avanzate…">

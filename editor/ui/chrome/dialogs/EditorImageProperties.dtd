@@ -39,9 +39,9 @@
 <!ENTITY pixelsPopup.value "pixel">
 <!ENTITY locationEditField.label "Indirizzo immagine:">
 <!ENTITY locationEditField.accessKey "I">
-<!ENTITY locationEditField.tooltip "Inserire il nome del file o l'indirizzo dell'immagine">
+<!ENTITY locationEditField.tooltip "Inserisci il nome del file o l'indirizzo dell'immagine">
 <!ENTITY title.label "Suggerimento:">
-<!ENTITY title.accessKey "T">
+<!ENTITY title.accessKey "u">
 <!ENTITY title.tooltip "L'attributo html 'title' che viene mostrato come suggerimento.">
 <!ENTITY altText.label "Testo alternativo:">
 <!ENTITY altText.accessKey "T">
@@ -62,7 +62,7 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Mantieni proporzioni">
 <!ENTITY constrainCheckbox.accessKey "M">
-<!ENTITY constrainCheckbox.tooltip "Mantiene le proporzioni dell'immagine">
+<!ENTITY constrainCheckbox.tooltip "Mantieni le proporzioni dell'immagine">
 <!ENTITY imagemapBox.label "Mappa immagine">
 <!ENTITY removeImageMapButton.label "Rimuovi">
 <!ENTITY removeImageMapButton.accessKey "R">
@@ -79,8 +79,8 @@
 <!ENTITY leftRightEditField.accessKey "D">
 <!ENTITY topBottomEditField.label "Sopra e sotto:">
 <!ENTITY topBottomEditField.accessKey "S">
-<!ENTITY borderEditField.label "Larghezza bordo:">
-<!ENTITY borderEditField.accessKey "L">
+<!ENTITY borderEditField.label "Bordo pieno:">
+<!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "Visualizza un bordo attorno all'immagine per indicare la presenza del collegamento">
 <!ENTITY showImageLinkBorder.accessKey "b">
 <!ENTITY imageInputTab.label "Modulo">

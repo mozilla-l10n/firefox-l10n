@@ -1,19 +1,19 @@
 <!ENTITY offlineDialog.title "Impostazioni non in linea">
-<!ENTITY textStartUp "All'avvio">
+<!ENTITY textStartUp "All'avvio:">
 <!ENTITY radioRememberPrevState.label "Ricordarsi del precedente stato in linea">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe.label "Chiedi all'avvio per la modalità in linea">
 <!ENTITY radioAskMe.accesskey "p">
-<!ENTITY radioAlwaysOnline.label "All'avvio iniziare sempre in linea">
+<!ENTITY radioAlwaysOnline.label "Iniziare sempre in linea">
 <!ENTITY radioAlwaysOnline.accesskey "l">
-<!ENTITY textGoingOnline "Invia i messaggi in attesa subito dopo essersi collegati?">
+<!ENTITY textGoingOnline "Inviare i messaggi in attesa subito dopo essersi collegati?">
 <!ENTITY radioAutoSend.label "Si">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "No">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Chiedi">
 <!ENTITY radioAskUnsent.accesskey "c">
-<!ENTITY textGoingOffline "Scarica i messaggi per essere usati non in linea quando ci si scollega?">
+<!ENTITY textGoingOffline "Scaricare i messaggi per l'utilizzo non in linea quando ci si scollega?">
 <!ENTITY radioAutoDownload.label "Si">
 <!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "No">

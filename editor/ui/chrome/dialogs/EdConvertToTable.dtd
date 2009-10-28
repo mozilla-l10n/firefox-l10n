@@ -35,12 +35,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Converti a tabella">
-<!ENTITY instructions1.label "Compositore crea una nuova riga della tabella per ciascun paragrafo in selezione.">
-<!ENTITY instructions2.label "Scegliere il carattere da utilizzare per separare la selezione in colonne:">
+<!ENTITY windowTitle.label "Converti in tabella">
+<!ENTITY instructions1.label "Verrà creata una nuova riga della tabella per ciascun paragrafo selezionato.">
+<!ENTITY instructions2.label "Scegliere il carattere da utilizzare per suddividere la selezione in colonne:">
 <!ENTITY commaRadio.label "Virgola">
 <!ENTITY spaceRadio.label "Spazio">
-<!ENTITY otherRadio.label "Un altro carattere:">
+<!ENTITY otherRadio.label "Altro carattere:">
 <!ENTITY deleteCharCheck.label "Elimina carattere separatore">
 <!ENTITY collapseSpaces.label "Ignora spazi adiacenti">
-<!ENTITY collapseSpaces.tooltip "Converte spazi adiacenti in un unico separatore">
+<!ENTITY collapseSpaces.tooltip "Converti spazi adiacenti in un unico separatore">

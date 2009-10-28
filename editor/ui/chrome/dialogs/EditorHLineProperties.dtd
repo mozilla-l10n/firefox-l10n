@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Proprietà separatore orizzontale">
 <!ENTITY dimensionsBox.label "Dimensioni">
-<!ENTITY heightEditField.label "Altezza">
+<!ENTITY heightEditField.label "Altezza:">
 <!ENTITY heightEditField.accessKey "A">
 <!ENTITY widthEditField.label "Larghezza:">
 <!ENTITY widthEditField.accessKey "L">
@@ -53,4 +53,4 @@
 <!ENTITY threeDShading.accessKey "I">
 <!ENTITY saveSettings.label "Salva impostazioni">
 <!ENTITY saveSettings.accessKey "M">
-<!ENTITY saveSettings.tooltip "Mantiene le impostazioni correnti per successivi separatori">
+<!ENTITY saveSettings.tooltip "Ricorda le impostazioni correnti per successivi separatori">

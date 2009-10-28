@@ -1,19 +1,19 @@
-<!ENTITY connectionsDialog.title "Impostazioni di collegamento">
+<!ENTITY connectionsDialog.title "Impostazioni di connessione">
 <!ENTITY window.width "49em">
-<!ENTITY proxyTitle.label "Configura Proxy per accesso ad internet">
-<!ENTITY noProxyTypeRadio.label "No proxy">
+<!ENTITY proxyTitle.label "Configura proxy per l'accesso a Internet">
+<!ENTITY noProxyTypeRadio.label "Nessun proxy">
 <!ENTITY noProxyTypeRadio.accesskey "y">
-<!ENTITY systemTypeRadio.label "Usa le impostazioni proxy di sistema">
+<!ENTITY systemTypeRadio.label "Utilizza le impostazioni del proxy di sistema">
 <!ENTITY systemTypeRadio.accesskey "u">
 <!ENTITY WPADTypeRadio.label "Configurazione automatica delle impostazioni del proxy per questa rete">
 <!ENTITY WPADTypeRadio.accesskey "x">
-<!ENTITY manualTypeRadio.label "Configurazione manuale del proxy">
+<!ENTITY manualTypeRadio.label "Configurazione manuale del proxy:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL per la configurazione automatica del proxy:">
 <!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "Ricarica">
 <!ENTITY reload.accesskey "R">
-<!ENTITY http.label "Proxy HTTP">
+<!ENTITY http.label "Proxy HTTP:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "Proxy SSL:">
 <!ENTITY ssl.accesskey "s">
@@ -32,5 +32,5 @@
 <!ENTITY noproxy.label "Nessun proxy per:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Esempio: .mozilla.org, .net.nz, mozillaitalia.org, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Usa questo proxy per tutti i protocolli">
+<!ENTITY shareproxy.label "Utilizza questo proxy per tutti i protocolli">
 <!ENTITY shareproxy.accesskey "U">

@@ -21,6 +21,7 @@
    - Contributor(s):
    -   Frank Schoenheit <frank.schoenheit@gmx.de>
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY messageMarkByDate.label "Marca i messaggi letti per data">
-<!ENTITY markByDateLower.label "Marca come letti tutti i messaggi a partire da:">
+<!ENTITY markByDateLower.label "Marca tutti i messaggi come letti a partire da:">
 <!ENTITY markByDateLower.accesskey "d">
 <!ENTITY markByDateUpper.label "fino a:">
 <!ENTITY markByDateUpper.accesskey "a">
