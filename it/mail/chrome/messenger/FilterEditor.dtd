@@ -1,8 +1,8 @@
 <!ENTITY window.title "Regole del filtro">
 <!ENTITY filterName.label "Nome del filtro:">
 <!ENTITY filterName.accesskey "f">
-<!ENTITY junk.label "Indesiderata">
-<!ENTITY notJunk.label "Non Indesiderata">
+<!ENTITY junk.label "posta indesiderata">
+<!ENTITY notJunk.label "posta non indesiderata">
 <!ENTITY lowestPriorityCmd.label "Minima">
 <!ENTITY lowPriorityCmd.label "Bassa">
 <!ENTITY normalPriorityCmd.label "Normale">
@@ -12,18 +12,20 @@
 <!ENTITY contextDesc.accesskey "A">
 <!ENTITY contextIncoming.label "durante il controllo della posta">
 <!ENTITY contextManual.label "manualmente">
-<!ENTITY contextBoth.label "durante il controllo della posta o in modalità manuale">
+<!ENTITY contextBoth.label "durante il controllo della posta o manualmente">
+<!ENTITY contextPostPlugin.label "durante il controllo della posta (dopo la classificazione)">
+<!ENTITY contextPostPluginBoth.label "durante il controllo della posta (dopo la classificazione) o manualmente">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
-<!ENTITY moveMessage.label "Sposta i messaggi in">
+<!ENTITY moveMessage.label "Sposta il messaggio in">
 <!ENTITY copyMessage.label "Copia il messaggio in">
-<!ENTITY forwardTo.label "Inoltra il messaggio a:">
-<!ENTITY replyWithTemplate.label "Rispondi con un  modello">
-<!ENTITY markMessageRead.label "Marcalo letto">
+<!ENTITY forwardTo.label "Inoltra il messaggio a">
+<!ENTITY replyWithTemplate.label "Rispondi con un modello">
+<!ENTITY markMessageRead.label "Marca il messaggio come letto">
 <!ENTITY markMessageStarred.label "Aggiungi a Speciali">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">
-<!ENTITY setJunkScore.label "Imposta stato indesiderata a">
+<!ENTITY setJunkScore.label "Considera il messaggio">
 <!ENTITY deleteMessage.label "Elimina messaggio">
 <!ENTITY deleteFromPOP.label "Elimina dal server POP">
 <!ENTITY fetchFromPOP.label "Scarica dal server POP">

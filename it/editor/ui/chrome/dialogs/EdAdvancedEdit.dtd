@@ -39,7 +39,7 @@
 <!ENTITY WindowTitle.label "Editor proprietà avanzate">
 <!ENTITY AttName.label "Attributo: ">
 <!ENTITY AttValue.label "Valore: ">
-<!ENTITY PropertyName.label "Proprietà:">
+<!ENTITY PropertyName.label "Proprietà: ">
 <!ENTITY currentattributesfor.label "Attributi correnti per: ">
 <!ENTITY tree.attributeHeader.label "Attributo">
 <!ENTITY tree.propertyHeader.label "Proprietà">
@@ -47,5 +47,5 @@
 <!ENTITY tabHTML.label "Attributi HTML">
 <!ENTITY tabCSS.label "Stile in linea">
 <!ENTITY tabJSE.label "Eventi JavaScript">
-<!ENTITY editAttribute.label "Fare clic su uno degli elementi qui sopra per modificarne il valore.">
+<!ENTITY editAttribute.label "Selezionare uno degli elementi per modificarne il valore.">
 <!ENTITY removeAttribute.label "Rimuovi">

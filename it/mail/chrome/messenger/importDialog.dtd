@@ -1,10 +1,15 @@
 <!--null-->
 <!ENTITY importDialog.windowTitle "Importa">
-<!ENTITY importDialog.allTitle "Importa tutto">
-<!ENTITY importDialog.mailTitle "Posta">
-<!ENTITY importDialog.addressbookTitle "Rubriche">
-<!ENTITY importDialog.settingsTitle "Impostazioni">
-<!ENTITY importDialog.filtersTitle "Filtri">
+<!ENTITY importAll.label "Importa tutto">
+<!ENTITY importAll.accesskey "u">
+<!ENTITY importMail.label "Posta">
+<!ENTITY importMail.accesskey "P">
+<!ENTITY importAddressbook.label "Rubriche">
+<!ENTITY importAddressbook.accesskey "R">
+<!ENTITY importSettings.label "Impostazioni">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label "Filtri">
+<!ENTITY importFilters.accesskey "F">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "50em">
 <!ENTITY importTitle.label "Importazione guidata di &brandShortName;">
@@ -12,6 +17,7 @@
 <!ENTITY importDescription1.label "Questo processo importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
 <!ENTITY selectDescription.label "Selezionare il programma dal quale eseguire l'importazione:">
+<!ENTITY selectDescription.accesskey "S">
 <!ENTITY back.label "&lt; Indietro">
 <!ENTITY forward.label "Avanti &gt;">
 <!ENTITY finish.label "Finito">
@@ -22,5 +28,7 @@
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x ha un indirizzo di posta per ogni scheda, mentre &brandShortName; ne ha due (Casa e Ufficio).">
 <!ENTITY FieldDiscInputText2.label "Selezionare la categoria nella quale immagazzinare gli indirizzi di posta importati:">
 <!ENTITY FieldDiscWarning.label "Questa sezione sarà utilizzata per tutte le voci della rubrica selezionata: ">
-<!ENTITY importDialog.homeTitle "Casa">
-<!ENTITY importDialog.workTitle "Lavoro">
+<!ENTITY importHome.label "Abitazione">
+<!ENTITY importHome.accesskey "A">
+<!ENTITY importWork.label "Lavoro">
+<!ENTITY importWork.accesskey "L">

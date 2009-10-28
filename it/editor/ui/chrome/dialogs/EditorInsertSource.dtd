@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Inserimento HTML">
 <!ENTITY sourceEditField.label "Inserire testo e tag HTML:">
-<!ENTITY example.label "Esempio:">
+<!ENTITY example.label "Esempio: ">
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Salve Mondo!">

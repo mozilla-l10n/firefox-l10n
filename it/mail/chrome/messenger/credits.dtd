@@ -1,6 +1,5 @@
 <!ENTITY credit.title "Riconoscimenti &brandFullName;">
 <!ENTITY brandMotto "Thunderbird si è alzato in volo!">
-<!ENTITY credit.leads "Guida dello sviluppo">
 <!ENTITY credit.thanks "Ringraziamenti a ">
 <!ENTITY credit.translation "<h3>Traduzione italiana:</h3>
 <ul><li>Roberto Principiano</li></ul>
@@ -8,9 +7,8 @@
 <ul><li>Associazione Italiana  Supporto e Traduzione Mozilla</li>
 <li>Francesco Lodolo</li>
 <li>Giacomo Magnini</li>
-<li>Michele Dal Corso</li></ul>">
-<!ENTITY credit.theme "Realizzazione tema">
-<!ENTITY credit.qa "Controllo qualità">
-<!ENTITY credit.build "Realizzazione e build">
+<li>Giacomo Pailli</li>
+<li>Michele Dal Corso</li>
+<li>Simone Lando</li></ul>">
 <!ENTITY credit.memory "In memoria di">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

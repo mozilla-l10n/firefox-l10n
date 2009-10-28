@@ -42,6 +42,6 @@
 <!ENTITY status.label "Pubblicazione in corso…">
 <!ENTITY fileList.label "Stato pubblicazione">
 <!ENTITY succeeded.label "Riuscita">
-<!ENTITY failed.label "Fallita">
+<!ENTITY failed.label "Non riuscita">
 <!ENTITY keepOpen "Mantieni aperta questa finestra anche a pubblicazione completata.">
 <!ENTITY closeButton.label "Chiudi">

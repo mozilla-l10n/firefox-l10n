@@ -24,6 +24,7 @@
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -41,27 +42,30 @@
 <!ENTITY folderProps.windowtitle.label "Proprietà">
 <!ENTITY generalInfo.label "Informazioni generali">
 <!ENTITY folderCharsetTab.label "Codifica caratteri predefinita:">
-<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetTab.accesskey "C">
 <!ENTITY folderCharsetOverride.label "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
 <!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFile.label "Ricostruisci gli indici">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
 <!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci il file sommario">
 <!ENTITY retention.label "Politica di conservazione">
-<!ENTITY retentionUseDefault.label "Usa le impostazioni fornite dal server">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label "Usa le impostazioni dell'account">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "giorni">
-<!ENTITY message.label "messaggi">
-<!ENTITY retentionCleanup.label "Per recuperare spazio su disco i vecchi messaggi possono essere eliminati definitivamente">
+<!ENTITY message.label "messaggi più recenti">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi.">
+<!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi, sia le copie locali sia quelle memorizzate nel server remoto.">
+<!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco è possibile eliminare definitivamente i vecchi messaggi, incluse le copie memorizzate nel server remoto.">
 <!ENTITY retentionDeleteMsg.label "Elimina i messaggi più vecchi di">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Non eliminare alcun messaggio">
-<!ENTITY retentionKeepAll.accesskey "o">
-<!ENTITY retentionKeepNew.label "Eliminare tutto meno gli ultimi">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "Eliminare sempre i messaggi letti">
-<!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY folderOfflineTab.label "Non in linea">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Elimina tutti eccetto i">
+<!ENTITY retentionKeepRecent.accesskey "E">
+<!ENTITY retentionKeepUnreadHidden.label "Elimina sempre i messaggi già letti (senza considerare le impostazioni di età)">
+<!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi speciali">
+<!ENTITY retentionApplyToFlagged.accesskey "C">
+<!ENTITY folderSynchronizationTab.label "Sincronizzazione">
 <!ENTITY folderCheckForNewMessages.label "Controlla l'arrivo di nuovi messaggi in questa cartella">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
 <!ENTITY offlineFolder.check.label "Seleziona questa cartella per l'uso non in linea">
@@ -69,13 +73,13 @@
 <!ENTITY offlineFolder.button.label "Scarica ora">
 <!ENTITY offlineFolder.button.accesskey "o">
 <!ENTITY selectofflineNewsgroup.check.label "Seleziona questo gruppo di discussione per l'uso non in linea">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY selectofflineNewsgroup.check.accesskey "S">
 <!ENTITY offlineNewsgroup.button.label "Scarica ora">
 <!ENTITY offlineNewsgroup.button.accesskey "o">
 <!ENTITY folderProps.name.label "Nome:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Posizione:">
-<!ENTITY folderProps.location.accesskey "o">
+<!ENTITY folderProps.location.accesskey "P">
 <!ENTITY folderSharingTab.label "Condivisione">
 <!ENTITY privileges.button.label "Privilegi…">
 <!ENTITY privileges.button.accesskey "P">

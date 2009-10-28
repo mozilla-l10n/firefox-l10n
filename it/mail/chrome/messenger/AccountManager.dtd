@@ -1,10 +1,13 @@
 <!ENTITY accountManagerTitle.label "Impostazioni account">
-<!ENTITY addAccountButton.label "Aggiungi account…">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY accountActionsButton.label "Azioni account">
+<!ENTITY accountActionsButton.accesskey "z">
+<!ENTITY addMailAccountButton.label "Aggiungi account di posta…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Aggiungi altro account…">
+<!ENTITY addOtherAccountButton.accesskey "u">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Elimina account">
 <!ENTITY removeButton.accesskey "E">
-<!ENTITY accountManager.size "width: 65em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 67em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountManager.size "width: 125ch; height: 49em;">
+<!ENTITY accountTree.width "width: 40ch;">

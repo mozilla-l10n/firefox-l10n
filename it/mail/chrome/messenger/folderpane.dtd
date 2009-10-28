@@ -1,5 +1,5 @@
 <!--null-->
 <!ENTITY nameColumn.label "Nome">
-<!ENTITY unreadColumn.label "Non letti">
+<!ENTITY unreadColumn.label "Non letto">
 <!ENTITY totalColumn.label "Totale">
 <!ENTITY folderSizeColumn.label "Dimensione">

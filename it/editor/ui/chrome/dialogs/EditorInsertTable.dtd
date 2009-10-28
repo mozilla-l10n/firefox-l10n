@@ -45,5 +45,5 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY borderEditField.label "Bordo:">
 <!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "Inserire un numero spessore bordo della tabella, o zero (0) per eliminare il bordo">
+<!ENTITY borderEditField.tooltip "Inserisci lo spessore del bordo della tabella, o zero (0) per eliminare il bordo">
 <!ENTITY pixels.label "pixel">

@@ -41,7 +41,7 @@
 <!ENTITY link.label "Area collegamento">
 <!ENTITY urlFieldset.label "URL area collegamento:">
 <!ENTITY altFieldset.label "Testo alternativo:">
-<!ENTITY browseButton.label "Sfogia…">
+<!ENTITY browseButton.label "Sfoglia…">
 <!ENTITY targetFieldset.label "Impostazioni destinazione">
 <!ENTITY target.label "Destinazione area collegamento:">
 <!ENTITY commonFieldset.label "Destinazioni comuni:">

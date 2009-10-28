@@ -1,7 +1,7 @@
 <!ENTITY dialog.title "Opzioni di invio">
 <!ENTITY sendMail.title "Formato testo">
 <!ENTITY sendMaildesc.label "Quando si inviano messaggi in HTML ed uno o più destinatari non sono elencati come in grado di ricevere HTML:">
-<!ENTITY askMe.label "Chiedi cosa fare">
+<!ENTITY askMe.label "Chiedi che cosa fare">
 <!ENTITY askMe.accesskey "c">
 <!ENTITY convertPlain.label "Converti il messaggio in testo semplice">
 <!ENTITY convertPlain.accesskey "C">
@@ -9,7 +9,7 @@
 <!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Invia il messaggio sia in testo semplice sia in HTML">
 <!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Nota: usa la rubrica per specificare il formato testo preferito per ogni singolo destinatario">
+<!ENTITY override.label "Nota: utilizza la rubrica per specificare il formato testo preferito per ogni singolo destinatario.">
 <!ENTITY domaindesc.label "Quando si invia un messaggio ad un indirizzo appartenente ad uno dei domini presenti nel seguente elenco &brandShortName; manda automaticamente il messaggio nel formato corretto.">
 <!ENTITY HTMLTab.label "Domini HTML">
 <!ENTITY HTMLTab.accesskey "H">

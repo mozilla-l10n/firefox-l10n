@@ -4,11 +4,9 @@
 <!ENTITY forwardMsg.label "Inoltra i messaggi:">
 <!ENTITY forwardMsg.accesskey "I">
 <!ENTITY inline.label "nel corpo del messaggio">
-<!ENTITY inline.accesskey "I">
 <!ENTITY asAttachment.label "come allegati">
-<!ENTITY asAttachment.accesskey "A">
-<!ENTITY addExtension.label "aggiungere l'estensione al nome del file">
-<!ENTITY addExtension.accesskey "f">
+<!ENTITY addExtension.label "Aggiungi l'estensione al nome del file">
+<!ENTITY addExtension.accesskey "e">
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Carattere:">
 <!ENTITY font.accesskey "c">
@@ -23,17 +21,17 @@
 <!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Attiva il controllo ortografico durante la digitazione">
-<!ENTITY spellCheckInline1.accesskey "n">
+<!ENTITY spellCheckInline1.accesskey "A">
 <!ENTITY languagePopup.label "Lingua:">
-<!ENTITY languagePopup.accessKey "g">
+<!ENTITY languagePopup.accessKey "L">
 <!ENTITY downloadDictionaries.label "Scarica altri dizionari">
-<!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si usa una scorciatoia da tastiera per inviare il messaggio">
+<!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si utilizza una scorciatoia da tastiera per inviare il messaggio">
 <!ENTITY warnOnSendAccelKey.accesskey "h">
 <!ENTITY autoSave.label "Salvataggio automatico ogni">
 <!ENTITY autoSave.accesskey "v">
 <!ENTITY autoSaveEnd.label "minuti">
 <!ENTITY emailCollectionPicker.label "Aggiungi automaticamente l'indirizzo della posta in uscita a:">
-<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Completamento automatico indirizzi">
 <!ENTITY autocompleteText.label "Durante la scrittura dell'indirizzo controlla le corrispondenze in:">
 <!ENTITY addressingEnable.label "Rubriche locali">
@@ -46,3 +44,7 @@
 <!ENTITY sendOptionsDescription.label "Configura la formattazione del testo:">
 <!ENTITY sendOptions.label "Opzioni di invio…">
 <!ENTITY sendOptions.accesskey "d">
+<!ENTITY attachmentReminder.label "Controlla allegati mancanti">
+<!ENTITY attachmentReminder.accesskey "m">
+<!ENTITY attachmentReminderOptions.label "Parole chiave…">
+<!ENTITY attachmentReminderOptions.accesskey "P">

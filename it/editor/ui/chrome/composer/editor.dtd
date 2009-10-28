@@ -40,9 +40,9 @@
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Barra di composizione">
-<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra di formattazione">
-<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Barra in modalità modifica">
 <!ENTITY editmodeToolbarCmd.accesskey "B">
 <!ENTITY formatMenu.label "Formato">

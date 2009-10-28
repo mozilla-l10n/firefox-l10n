@@ -7,8 +7,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Contatto in Rubrica…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "Contatto rubrica…">
+<!ENTITY newContact.accesskey "o">
 <!ENTITY attachMenu.label "Allega">
 <!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "File…">
@@ -46,20 +46,21 @@
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "n">
+<!ENTITY undoCmd.accesskey "A">
 <!ENTITY redoCmd.label "Ripeti">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Taglia">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Incolla">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "I">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Manda a capo">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "M">
@@ -67,10 +68,10 @@
 <!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "z">
 <!ENTITY findCmd.label "Trova e sostituisci…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "S">
+<!ENTITY findCmd.accesskey "v">
 <!ENTITY findAgainCmd.label "Trova di nuovo">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "u">
@@ -84,6 +85,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "Barra strumenti di composizione">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barra strumenti di formattazione">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Barra di stato">
@@ -92,25 +94,25 @@
 <!ENTITY customizeToolbar.accesskey "z">
 <!ENTITY addressSidebar.label "Barra contatti">
 <!ENTITY addressSidebar.accesskey "a">
-<!ENTITY formatMenu.label "Formattazione">
+<!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "r">
 <!ENTITY optionsMenu.label "Opzioni">
 <!ENTITY optionsMenu.accesskey "O">
-<!ENTITY checkSpellingCmd.label "Controlla ortografia…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "o">
-<!ENTITY enableInlineSpellChecker.label "Controlla ortografia durante la digitazione">
-<!ENTITY enableInlineSpellChecker.accesskey "n">
+<!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "a">
+<!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
+<!ENTITY enableInlineSpellChecker.accesskey "o">
 <!ENTITY quoteCmd.label "Cita messaggio">
 <!ENTITY quoteCmd.accesskey "t">
 <!ENTITY attachVCard.label "Allega biglietto da visita elettronico (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY returnReceiptMenu.label "Ricevuta di ritorno">
 <!ENTITY returnReceiptMenu.accesskey "R">
-<!ENTITY dsnMenu.label "Notifica dello stato di trasmissione">
-<!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Formattazione">
+<!ENTITY dsnMenu.label "Notifica dello stato di consegna">
+<!ENTITY dsnMenu.accesskey "d">
+<!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Automatico">
 <!ENTITY autoFormatCmd.accesskey "A">
@@ -118,7 +120,7 @@
 <!ENTITY plainTextFormatCmd.accesskey "T">
 <!ENTITY htmlFormatCmd.label "Solo Rich Text (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Sia testo semplice sia testo formattato  (HTML)">
+<!ENTITY bothFormatCmd.label "Sia testo semplice sia testo formattato (HTML)">
 <!ENTITY bothFormatCmd.accesskey "f">
 <!ENTITY priorityMenu.label "Priorità">
 <!ENTITY priorityMenu.accesskey "P">
@@ -143,7 +145,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Impostazioni account…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
@@ -162,12 +164,11 @@
 <!ENTITY attachButton.label "Allega">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salva">
-<!ENTITY throbberItem.title "Indicatore di attività">
 <!ENTITY sendButton.tooltip "Invia il messaggio ora">
 <!ENTITY sendlaterButton.tooltip "invia più tardi">
 <!ENTITY quoteButton.tooltip "Cita il messaggio precedente">
-<!ENTITY addressButton.tooltip "Scegliere un destinatario dalla Rubrica">
-<!ENTITY attachButton.tooltip "Inserire un allegato">
+<!ENTITY addressButton.tooltip "Scegli un destinatario dalla Rubrica">
+<!ENTITY attachButton.tooltip "Inserisci un allegato">
 <!ENTITY saveButton.tooltip "Salva questo messaggio">
 <!ENTITY cutButton.tooltip "Taglia">
 <!ENTITY copyButton.tooltip "Copia">
@@ -181,10 +182,10 @@
 <!ENTITY newsgroupsAddr.label "Gruppo discussione:">
 <!ENTITY followupAddr.label "Inoltra a:">
 <!ENTITY subject.label "Oggetto:">
-<!ENTITY subject.accesskey "g">
+<!ENTITY subject.accesskey "e">
 <!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "g">
-<!ENTITY SmileButton.tooltip "Inserisce una faccina">
+<!ENTITY SmileButton.tooltip "Inserisci una faccina">
 <!ENTITY smiley1Cmd.label "Sorriso">
 <!ENTITY smiley2Cmd.label "Broncio">
 <!ENTITY smiley3Cmd.label "Ammicco">
@@ -220,12 +221,14 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Elimina">
 <!ENTITY delete.accesskey "E">
+<!ENTITY removeAttachment.label "Elimina allegato">
+<!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Rinomina">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Seleziona tutto">
-<!ENTITY selectAll.accesskey "S">
+<!ENTITY selectAll.accesskey "z">
 <!ENTITY attachFile.label "Allega file…">
-<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachPage.accesskey "w">
 <!ENTITY addressesSidebarTitle.label "Contatti">

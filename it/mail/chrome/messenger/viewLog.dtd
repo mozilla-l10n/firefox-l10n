@@ -1,5 +1,5 @@
 <!ENTITY viewLog.title "Registro attività filtri">
-<!ENTITY viewLogInfo.text "Il registro attività dei filtri documenta i filtri eseguiti per questo account. Spuntare la casella per attivarlo.">
+<!ENTITY viewLogInfo.text "Il registro attività dei filtri mantiene traccia dei filtri eseguiti per questo account. Selezionare la casella per attivarlo.">
 <!ENTITY clearLog.label "Pulisci registro attività">
 <!ENTITY clearLog.accesskey "S">
 <!ENTITY enableLog.label "Attiva registro attività per i filtri">

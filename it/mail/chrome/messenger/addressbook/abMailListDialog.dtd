@@ -2,7 +2,7 @@
 <!ENTITY mailListWindow.title "Lista di distribuzione">
 <!ENTITY addToAddressBook.label "Aggiungi a: ">
 <!ENTITY ListName.label "Nome della lista: ">
-<!ENTITY ListNickName.label "Soprannome:">
+<!ENTITY ListNickName.label "Soprannome: ">
 <!ENTITY ListDescription.label "Descrizione: ">
 <!ENTITY AddressTitle.label "Inserire gli indirizzi e-mail per aggiungerli alla lista di distribuzione:">
 <!ENTITY UpButton.label "Sposta in alto">

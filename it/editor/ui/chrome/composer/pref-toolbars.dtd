@@ -34,13 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.toolbars.title "Toolbars">
+<!ENTITY pref.toolbars.title "Barre degli strumenti">
 <!ENTITY composition.caption "Mostra questi pulsanti nella Barra di composizione:">
 <!ENTITY new.label "Nuovo">
 <!ENTITY open.label "Apri">
 <!ENTITY save.label "Salva">
 <!ENTITY publish.label "Pubblica">
-<!ENTITY preview.label "Anteprima">
+<!ENTITY preview.label "Sfoglia">
 <!ENTITY cut.label "Taglia">
 <!ENTITY copy.label "Copia">
 <!ENTITY paste.label "Incolla">

@@ -1,9 +1,9 @@
 <!ENTITY pane.title "Ricevute di ritorno">
 <!ENTITY useGlobalPrefs.label "Per questo account utilizza le preferenze globali">
 <!ENTITY useGlobalPrefs.accesskey "u">
-<!ENTITY useCustomPrefs.label "Personalizza le opzioni di ricevuta di ritorno per questo account">
+<!ENTITY useCustomPrefs.label "Personalizza le opzioni per le ricevute di ritorno di questo account">
 <!ENTITY useCustomPrefs.accesskey "P">
-<!ENTITY requestReceipt.label "Quando si spediscono i messaggi chiedere sempre la Ricevuta di ritorno">
+<!ENTITY requestReceipt.label "Quando si spediscono i messaggi chiedi sempre la Ricevuta di ritorno">
 <!ENTITY requestReceipt.accesskey "Q">
 <!ENTITY receiptArrive.label "Quando arriva una ricevuta:">
 <!ENTITY leaveIt.label "Lasciala nella posta in arrivo">
@@ -15,9 +15,9 @@
 <!ENTITY returnSome.accesskey "C">
 <!ENTITY never.label "Non inviare mai una Ricevuta di ritorno">
 <!ENTITY never.accesskey "N">
-<!ENTITY notInToCc.label "Se il mio indirizzo non è nel campo 'A' o 'Cc':">
+<!ENTITY notInToCc.label "Se il proprio indirizzo non è nel campo 'A' o 'Cc':">
 <!ENTITY notInToCc.accesskey "i">
-<!ENTITY outsideDomain.label "Se il mittente non appartiene al mio dominio:">
+<!ENTITY outsideDomain.label "Se il mittente non appartiene al proprio dominio:">
 <!ENTITY outsideDomain.accesskey "m">
 <!ENTITY otherCases.label "In tutti gli altri casi:">
 <!ENTITY otherCases.accesskey "t">

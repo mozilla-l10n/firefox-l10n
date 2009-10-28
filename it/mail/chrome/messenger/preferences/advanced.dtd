@@ -3,69 +3,82 @@
 <!ENTITY itemUpdate.label "Aggiornamenti">
 <!ENTITY itemNetworking.label "Rete e spazio su disco">
 <!ENTITY itemCertificates.label "Certificati">
-<!ENTITY enableGloda.label "Attiva indicizzazione messaggi">
-<!ENTITY enableGloda.accesskey "i">
-<!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per le persone inserite nella rubrica'>
-<!ENTITY showCondensedAddresses.accesskey "p">
-<!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi come letti">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Appena visualizzati">
-<!ENTITY markAsReadNoDelay.accesskey "v">
-<!ENTITY markAsReadDelay.label "Dopo averli visualizzati per">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "secondi">
-<!ENTITY showFolderColumns.label "Mostra le colonne espanse nel riquadro delle cartelle">
-<!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY openMsgIn.label "Apri i messaggi in:">
-<!ENTITY reuseExpRadio0.label "in una nuova finestra">
-<!ENTITY reuseExpRadio0.accesskey "v">
-<!ENTITY reuseExpRadio1.label "sempre nella stessa finestra">
-<!ENTITY reuseExpRadio1.accesskey "s">
+<!ENTITY enableGlodaSearch.label "Attiva la ricerca globale e l'indicizzazione">
+<!ENTITY enableGlodaSearch.accesskey "E">
+<!ENTITY systemIntegration.label "Integrazione col sistema">
+<!ENTITY alwaysCheckDefault.label "Controlla sempre all'avvio se &brandShortName; è il programma di posta predefinito">
+<!ENTITY alwaysCheckDefault.accesskey "A">
+<!ENTITY searchIntegration.label "Permetti a &searchIntegration.engineName; di cercare nei messaggi">
+<!ENTITY searchIntegration.accesskey "P">
+<!ENTITY checkNow.label "Controlla ora">
+<!ENTITY checkNow.accesskey "C">
 <!ENTITY configEditDesc.label "Impostazioni avanzate">
 <!ENTITY configEdit.label "Editor di configurazione…">
-<!ENTITY configEdit.accesskey "g">
+<!ENTITY configEdit.accesskey "o">
 <!ENTITY returnReceiptsInfo.label "Determina come &brandShortName; gestisce le ricevute di ritorno">
 <!ENTITY showReturnReceipts.label "Ricevute di ritorno…">
 <!ENTITY showReturnReceipts.accesskey "R">
 <!ENTITY reading.caption "Lettura">
 <!ENTITY display.caption "Visualizzazione">
-<!ENTITY autoCheck.label "Controlla automaticamente gli aggiornamenti di:">
+<!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per i contatti presenti nella rubrica'>
+<!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi come letti">
+<!ENTITY autoMarkAsRead.accesskey "u">
+<!ENTITY markAsReadNoDelay.label "Appena visualizzati">
+<!ENTITY markAsReadNoDelay.accesskey "A">
+<!ENTITY markAsReadDelay.label "Dopo averli visualizzati per">
+<!ENTITY markAsReadDelay.accesskey "D">
+<!ENTITY secondsLabel.label "secondi">
+<!ENTITY openMsgIn.label "Apri i messaggi in:">
+<!ENTITY openMsgInNewTab.label "una nuova scheda">
+<!ENTITY openMsgInNewTab.accesskey "u">
+<!ENTITY reuseExpRadio0.label "una nuova finestra">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "nella stessa finestra">
+<!ENTITY reuseExpRadio1.accesskey "s">
+<!ENTITY closeMsgWindowOnDelete.label "Chiudi la finestra del messaggio quando viene eliminato">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Componenti aggiuntivi installati">
-<!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY checkNow.label "Controlla ora…">
-<!ENTITY whenUpdatesFound.label "Quando si trovano aggiornamenti di &brandShortName;:">
-<!ENTITY modeAskMe.label "Chiedi cosa fare">
+<!ENTITY enableAddonsUpdate.accesskey "C">
+<!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;:">
+<!ENTITY modeAskMe.label "Chiedi che cosa fare">
 <!ENTITY modeAskMe.accesskey "e">
 <!ENTITY modeAutomatic.label "Scarica ed installa automaticamente l'aggiornamento">
-<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutomatic.accesskey "S">
 <!ENTITY modeAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
-<!ENTITY modeAutoAddonWarn.accesskey "v">
+<!ENTITY modeAutoAddonWarn.accesskey "A">
 <!ENTITY showUpdates.label "Mostra cronologia aggiornamenti">
-<!ENTITY showUpdates.accesskey "o">
+<!ENTITY showUpdates.accesskey "M">
 <!ENTITY showSettings.label "Impostazioni…">
 <!ENTITY showSettings.accesskey "I">
 <!ENTITY proxiesConfigure.label "Configura il modo in cui &brandShortName; si collega a Internet">
 <!ENTITY connectionsInfo.caption "Connessione">
 <!ENTITY offlineInfo.caption "Non in linea">
-<!ENTITY offlineInfo.label "Configurare le impostazioni 'non in linea'">
+<!ENTITY offlineInfo.label "Configura le impostazioni 'non in linea'">
 <!ENTITY showOffline.label "Non in linea…">
-<!ENTITY showOffline.accesskey "O">
+<!ENTITY showOffline.accesskey "N">
 <!ENTITY Diskspace "Spazio su disco">
 <!ENTITY offlineCompact.label "Compatta le cartelle solo se si guadagnano più di ">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY kb.label "KB">
-<!ENTITY useCacheBefore.label "Usa al massimo">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "kB">
+<!ENTITY useCacheBefore.label "Utilizza al massimo">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB di spazio per la cache">
 <!ENTITY clearCacheNow.label "Pulisci ora">
 <!ENTITY clearCacheNow.accesskey "P">
+<!ENTITY certSelection.description "Quando un sito web richiede il certificato personale:">
+<!ENTITY certs.auto "Selezionane uno automaticamente">
+<!ENTITY certs.auto.accesskey "S">
+<!ENTITY certs.ask "Chiedi ogni volta">
+<!ENTITY certs.ask.accesskey "C">
 <!ENTITY viewCertificates.label "Mostra certificati">
-<!ENTITY viewCertificates.accesskey "s">
-<!ENTITY viewCRLs.label "Liste di revoca">
-<!ENTITY viewCRLs.accesskey "L">
+<!ENTITY viewCertificates.accesskey "M">
+<!ENTITY viewCRLs.label "Elenchi di revoca">
+<!ENTITY viewCRLs.accesskey "E">
 <!ENTITY validation.label "Validazione">
-<!ENTITY validation.accesskey "d">
+<!ENTITY validation.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
-<!ENTITY viewSecurityDevices.accesskey "z">
+<!ENTITY viewSecurityDevices.accesskey "D">

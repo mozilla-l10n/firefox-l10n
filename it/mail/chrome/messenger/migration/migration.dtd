@@ -3,8 +3,8 @@
 <!ENTITY importFromNonWin.label "Importa preferenze, impostazioni account, rubrica, filtri e altri dati da:">
 <!ENTITY importFromNothing.label "Non importare nulla">
 <!ENTITY importFromNothing.accesskey "m">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x o SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "Outlook Express">
@@ -19,6 +19,6 @@
 <!ENTITY migrating.title "Importazione in corso">
 <!ENTITY migrating.label "Importazione in corso dei seguenti oggetti…">
 <!ENTITY selectProfile.title "Seleziona un profilo">
-<!ENTITY selectProfile.label "Sono disponibili per l'importazione i seguenti profili: ">
+<!ENTITY selectProfile.label "Sono disponibili per l'importazione i seguenti profili:">
 <!ENTITY done.title "Importazione completata">
 <!ENTITY done.label "I seguenti oggetti sono stati importati correttamente:">

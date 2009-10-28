@@ -2,35 +2,29 @@
 <!ENTITY serverSettings.label "Impostazioni server">
 <!ENTITY serverType.label "Tipo di server:">
 <!ENTITY serverName.label "Nome server:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "N">
 <!ENTITY userName.label "Nome utente:">
-<!ENTITY userName.accesskey "o">
+<!ENTITY userName.accesskey "t">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predefinito:">
-<!ENTITY savePassword.label "Salva password">
-<!ENTITY biffStart.label "Controlla nuovi messaggi ogni">
-<!ENTITY biffStart.accesskey "n">
+<!ENTITY biffStart.label "Controlla nuovi messaggi ogni ">
+<!ENTITY biffStart.accesskey "i">
 <!ENTITY biffEnd.label "minuti">
-<!ENTITY isSecure.label "Usa connessione cifrata (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "Usare un collegamento sicuro:">
-<!ENTITY neverSecure.label "Mai">
-<!ENTITY neverSecure.accesskey "i">
-<!ENTITY sometimesSecure.label "TLS, se disponibile">
-<!ENTITY sometimesSecure.accesskey "d">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Usa autenticazione cifrata">
-<!ENTITY useSecAuth.accesskey "s">
+<!ENTITY connectionSecurity.label "Sicurezza della connessione:">
+<!ENTITY connectionSecurity.accesskey "d">
+<!ENTITY connectionSecurityType-0.label "Nessuno">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, se disponibile">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY useSecAuth.label "Utilizza autenticazione cifrata">
+<!ENTITY useSecAuth.accesskey "z">
 <!ENTITY leaveOnServer.label "Lascia i messaggi sul server">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Preleva soltanto le intestazioni">
 <!ENTITY headersOnly.accesskey "r">
 <!ENTITY deleteByAgeFromServer.label "non più di">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY deleteByAgeFromServer.accesskey "p">
 <!ENTITY daysEnd.label "giorni">
 <!ENTITY deleteOnServer2.label "finché non vengono eliminati">
 <!ENTITY deleteOnServer2.accesskey "h">

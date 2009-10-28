@@ -39,7 +39,7 @@
 <!ENTITY ButtonType.label "Tipo">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Invio">
-<!ENTITY reset.value "Azzera">
+<!ENTITY reset.value "Ripristina">
 <!ENTITY button.value "Pulsante">
 <!ENTITY ButtonName.label "Nome:">
 <!ENTITY ButtonName.accesskey "N">
