@@ -86,10 +86,8 @@
 <!ENTITY certmgr.deleteusercert.aftername "Una volta eliminato questo certificato, non sarà più possibile leggere messaggi cifrati con esso.">
 <!ENTITY certmgr.certname "Nome certificato">
 <!ENTITY certmgr.certserver "Server">
-<!ENTITY certmgr.typesofoverrides "Eccezioni">
 <!ENTITY certmgr.override_lifetime "Durata">
 <!ENTITY certmgr.tokenname "Dispositivo di sicurezza">
-<!ENTITY certmgr.purpose "Utilizzi">
 <!ENTITY certmgr.issued "Rilasciato il">
 <!ENTITY certmgr.expires "Scade il">
 <!ENTITY certmgr.email "Indirizzo e-mail">

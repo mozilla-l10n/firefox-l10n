@@ -1,10 +1,8 @@
 <!ENTITY welcome.title "Benvenuto in &brandShortName;">
 <!ENTITY overview.description "Sincronizza telefono e PC con Weave, personalizza la navigazione con i componenti aggiuntivi, sfrutta la barra di navigazione intelligente e molto altro ancora.">
-<!ENTITY nextSteps.title "Passi successivi">
 <!ENTITY sync.title "Inizia la navigazione">
 <!ENTITY sync.description "Installa Weave per iniziare al meglio con &brandShortName;: condividi preferenze, segnalibri, cronologia e molto altro ancora tra telefono e PC.">
-<!ENTITY sync.link "Scarica Weave">
+<!ENTITY sync.linkLabel "Scarica il componente aggiuntivo Weave">
 <!ENTITY getPersonal.title "Personalizza">
 <!ENTITY getPersonal.description "Personalizza &brandShortName;, il primo browser mobile dotato di componenti aggiuntivi, e rendilo davvero unico.">
-<!ENTITY getPersonal.link "Scarica componenti aggiuntivi per il tuo telefono.">
-<!ENTITY skip.link "Ignora questi passaggi e avvia la navigazione.">
+<!ENTITY getPersonal.linkLabel "Scarica componenti aggiuntivi per il tuo cellulare">
