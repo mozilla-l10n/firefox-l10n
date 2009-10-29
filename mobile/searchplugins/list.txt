@@ -1,7 +1,4 @@
 amazon-co-uk
-answers
-creativecommons
-eBay
 google
 wikipedia-da
 yahoo-dk
