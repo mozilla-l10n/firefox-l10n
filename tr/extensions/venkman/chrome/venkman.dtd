@@ -50,61 +50,61 @@
 <!-- toolips -->
 
 <!ENTITY DebugBar.tooltip "Debugging Toolbar">
-<!ENTITY MenuBar.tooltip "Menu Bar">
+<!ENTITY MenuBar.tooltip "Menü çubuğu">
 <!-- breakpoint view -->
 
-<!ENTITY Break.label "Breakpoints">
-<!ENTITY BreakCol0.label "Name">
+<!ENTITY Break.label "Kesme noktaları">
+<!ENTITY BreakCol0.label "Adı">
 <!ENTITY BreakCol1.label "Line/PC">
 <!-- locals view -->
 
-<!ENTITY Locals.label "Local Variables">
-<!ENTITY LocalsCol0.header "Name">
-<!ENTITY LocalsCol1.header "Type">
-<!ENTITY LocalsCol2.header "Value">
-<!ENTITY LocalsCol3.header "Flags">
+<!ENTITY Locals.label "Yerel değişkenler">
+<!ENTITY LocalsCol0.header "Adı">
+<!ENTITY LocalsCol1.header "Türü">
+<!ENTITY LocalsCol2.header "Değer">
+<!ENTITY LocalsCol3.header "Bayraklar">
 <!-- session view -->
 
-<!ENTITY Session.label "Interactive Session">
+<!ENTITY Session.label "Etkileşimli oturum">
 <!-- script view -->
 
-<!ENTITY Scripts.label "Loaded Scripts">
+<!ENTITY Scripts.label "Yüklenen betikler">
 <!ENTITY ScriptsSearch.label "Ara">
-<!ENTITY ScriptsSearch.tooltip "Click here to clear the search field">
-<!ENTITY ScriptsCol0.header "Name">
-<!ENTITY ScriptsCol1.header "Line">
-<!ENTITY ScriptsCol2.header "Length">
+<!ENTITY ScriptsSearch.tooltip "Arama alanını temizlemek için buraya tıklayın">
+<!ENTITY ScriptsCol0.header "Adı">
+<!ENTITY ScriptsCol1.header "Satır">
+<!ENTITY ScriptsCol2.header "Uzunluk">
 <!-- source view -->
 
-<!ENTITY Source.label "Source Code">
-<!ENTITY SourceHeader.tip "Source Toolbar">
-<!ENTITY SourceCol0.display "Margin">
-<!ENTITY SourceCol1.display "Line Number">
+<!ENTITY Source.label "Kaynak kod">
+<!ENTITY SourceHeader.tip "Kaynak kod araç çubuğu">
+<!ENTITY SourceCol0.display "Kenar">
+<!ENTITY SourceCol1.display "Satır numarası">
 <!-- stack view -->
 
-<!ENTITY Stack.label "Call Stack">
-<!ENTITY StackCol0.header "Name">
+<!ENTITY Stack.label "Çağrı yığını">
+<!ENTITY StackCol0.header "Adı">
 <!ENTITY StackCol1.header "Konum">
 <!-- watch view -->
 
-<!ENTITY Watch.label "Watches">
-<!ENTITY WatchCol0.header "Name">
-<!ENTITY WatchCol1.header "Type">
-<!ENTITY WatchCol2.header "Value">
-<!ENTITY WatchCol3.header "Flags">
+<!ENTITY Watch.label "İzlemeler">
+<!ENTITY WatchCol0.header "Adı">
+<!ENTITY WatchCol1.header "Türü">
+<!ENTITY WatchCol2.header "Değer">
+<!ENTITY WatchCol3.header "Bayraklar">
 <!-- window view -->
 
-<!ENTITY Windows.label "Open Windows">
-<!ENTITY WindowsCol0.label "File">
+<!ENTITY Windows.label "Pencere aç">
+<!ENTITY WindowsCol0.label "Dosya">
 <!-- breakpoint properties window -->
 
 <!ENTITY BPProps.URL.label "URL">
-<!ENTITY BPProps.Line.label "Line">
+<!ENTITY BPProps.Line.label "Satır">
 <!ENTITY BPProps.PC.label "PC">
-<!ENTITY BPProps.FunctionName.label "Function">
-<!ENTITY BPProps.TriggerCount.label "Trigger count">
-<!ENTITY BPProps.OneTime.label "Clear breakpoint after first trigger">
-<!ENTITY BPProps.Then.label "Then …">
+<!ENTITY BPProps.FunctionName.label "Fonksiyon">
+<!ENTITY BPProps.TriggerCount.label "Tetikleyici sayısı">
+<!ENTITY BPProps.OneTime.label "Birinci tetikleyiciden sonraki kesme noktalarını temizle">
+<!ENTITY BPProps.Then.label "Sonra …">
 <!ENTITY BPProps.ConditionalCheck.label "When triggered, execute…">
 <!ENTITY BPProps.NeverStopRadio.label "Continue regardless of result">
 <!ENTITY BPProps.AlwaysStopRadio.label "Stop regardless of result">

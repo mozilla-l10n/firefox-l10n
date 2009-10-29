@@ -42,5 +42,5 @@
 <!ENTITY descLength.label "Uzunluk:">
 <!ENTITY descIsInserted.label "Is text inserted: ">
 <!ENTITY descModifiedText.label "Değiştirilmiş metin:">
-<!ENTITY descCaretOffset.label "Caret offset: ">
+<!ENTITY descCaretOffset.label "İmleç konumu:">
 

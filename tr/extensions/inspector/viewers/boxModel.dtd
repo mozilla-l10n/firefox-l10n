@@ -38,6 +38,6 @@
 
 <!ENTITY boxPosition.label "Position">
 <!ENTITY boxDimension.label "Boyutlar">
-<!ENTITY boxMargin.label "Margin">
+<!ENTITY boxMargin.label "Kenar">
 <!ENTITY boxBorder.label "Border">
 <!ENTITY boxPadding.label "Padding">

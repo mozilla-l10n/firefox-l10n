@@ -1,10 +1,8 @@
 <!ENTITY welcome.title "&brandShortName; uygulamasına hoş geldiniz">
 <!ENTITY overview.description "Bilgisayarınız ve cep telefonunuzu Weave ile eşzamanlayın. Eklentilerle zenginleştirin. Şahane çubuk ile İnternet'i keşfedin ve daha, daha, daha fazlası.">
-<!ENTITY nextSteps.title "Sonraki adımlar">
 <!ENTITY sync.title "Ayarla ve başla">
 <!ENTITY sync.description "Weave ile &brandShortName; uygulamasına daha hızlı alışın. Ayarlarınızı, yer imlerinizi, geçmişi ve daha fazlasını bilgisayarınız ve cep telefonunuz arasında paylaşın.">
-<!ENTITY sync.link "Weave eklentisini edinin">
+<!ENTITY sync.linkLabel "Weave eklentisini edinin">
 <!ENTITY getPersonal.title "Kişiselleştirin">
 <!ENTITY getPersonal.description "&brandShortName; uygulamasını istediğiniz gibi yapın. Eklentileri destekleyen ilk mobil tarayıcınızı kişiselleştirin.">
-<!ENTITY getPersonal.link "Cep telefonunuz için eklenti edinin.">
-<!ENTITY skip.link "Hepsini gözardı et ve İnternet'i keşfet. ">
+<!ENTITY getPersonal.linkLabel "Mobil tarayıcınız için eklenti edinin">

@@ -22,8 +22,8 @@
 <!ENTITY helpReleaseNotes.label "Sürüm notları">
 <!ENTITY helpReleaseNotes.accesskey "r">
 
-<!ENTITY helpTroubleshooting.label "Sorun giderme bilgileri…">
-<!ENTITY helpTroubleshooting.accesskey "S">
+<!ENTITY helpTroubleshooting.label "Troubleshooting Information">
+<!ENTITY helpTroubleshooting.accesskey "T">
 
 <!ENTITY updateCmd.label "Güncellemeleri denetle…">
 

@@ -265,8 +265,8 @@
 <!ENTITY reloadImageCmd.accesskey "t">
 <!ENTITY viewImageCmd.label "Resme bak">
 <!ENTITY viewImageCmd.accesskey "R">
-<!ENTITY viewImageInfoCmd.label "View Image Info">
-<!ENTITY viewImageInfoCmd.accesskey "f">
+<!ENTITY viewImageInfoCmd.label "Resim bilgilerini göster">
+<!ENTITY viewImageInfoCmd.accesskey "R">
 <!ENTITY viewVideoCmd.label "Videoyu izle">
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Arkaplan resmini göster">

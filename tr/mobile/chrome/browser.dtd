@@ -31,6 +31,10 @@
 <!ENTITY helperApp.save "Kaydet">
 <!ENTITY helperApp.nothing "Hiçbir şey">
 
+<!ENTITY formHelper.previous "Önceki">
+<!ENTITY formHelper.next "Sonraki">
+<!ENTITY formHelper.done "Tamamlandı">
+
 <!ENTITY addonsHeader.label "Eklentiler">
 <!ENTITY addonsLocal.label "Eklentilerim">
 <!ENTITY addonsUpdate.label "Güncelle">
@@ -89,5 +93,3 @@
 <!ENTITY consoleErrFile.label "Kaynak dosya:">
 <!ENTITY consoleErrLine.label "Satır:">
 <!ENTITY consoleErrColumn.label "Sütun:">
-
-<!ENTITY selectListDone.label "Tamam">
