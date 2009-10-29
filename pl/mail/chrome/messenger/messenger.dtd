@@ -349,7 +349,7 @@
 <!ENTITY forwardAsInline.accesskey      "B">
 <!ENTITY forwardAsAttachmentCmd.label     "Załącznik">
 <!ENTITY forwardAsAttachmentCmd.accesskey "z">
-<!ENTITY editMsgAsNewCmd.label           "Edytuj wiadomość">
+<!ENTITY editMsgAsNewCmd.label           "Edytuj wiadomość jako nową">
 <!ENTITY editMsgAsNewCmd.accesskey       "E">
 <!ENTITY editMsgAsNewCmd.key             "e">
 <!ENTITY createFilter.label              "Utwórz filtr na podstawie wiadomości…">
