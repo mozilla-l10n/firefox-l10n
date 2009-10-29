@@ -1,3 +1,4 @@
 <!ENTITY window.title             "消息摘要">
 <!ENTITY selectedmessages.label   "已选中消息">
 <!ENTITY archive.label            "归档">
+<!ENTITY delete.label             "删除">

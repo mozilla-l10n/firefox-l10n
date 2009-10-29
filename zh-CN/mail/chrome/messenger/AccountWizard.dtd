@@ -49,18 +49,18 @@
 <!ENTITY newsServerLabel.label "新闻组服务器:">
 <!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP 邮件服务器">
+<!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP 邮件服务器">
+<!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "将使用您当前的外发服务器(SMTP)， &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
+<!ENTITY haveSmtp1.suffix2 "&quot;, 将被使用。您可以在帐户设置窗口中修改发送服务器。">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "请输入您的电子邮件服务提供者提供给您的外发用户名 （通常即为您的接收用户名）。">
 <!ENTITY usernameSmtpLabel.label "外发用户名：">
 <!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "将使用您当前的外发(SMTP)用户名，&quot;">
-<!ENTITY haveSmtp2.suffix "&quot;。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, 将被使用。您可以在帐户设置窗口中修改发送服务器。">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "您的外发(SMTP)服务器 , &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; 和您的接收服务器相同，您的接收用户名将被用来访问它。您也可以通过选择‘工具’菜单下的‘邮件和新闻组帐号设置’对外发服务器设置进行修改。">
+<!ENTITY haveSmtp3.suffix2 "&quot;, 与您的收信服务器一致，将使用您的收信用户名进行连接。您可以在账户设置中修改发信服务器。">
 
 <!-- Entities for Account name page -->
 

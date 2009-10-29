@@ -1,0 +1,75 @@
+<!ENTITY autoconfigWizard.title          "邮件帐户设置">
+<!ENTITY name.label                      "你的名字：">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "姓名">
+<!ENTITY name.text                       "你的名字，显示给其他人">
+<!ENTITY email.label                     "电子邮件地址：">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "密码：">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "密码">
+<!ENTITY password.text                   "可选，仅用于验证用户名">
+
+<!ENTITY accountInformation.label        "帐号信息">
+<!ENTITY username2.label                 "用户名：">
+<!ENTITY incoming.label                  "接收：">
+<!ENTITY outgoing.label                  "发出：">
+<!ENTITY noEncryption.label              "无">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "手动设置…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "取消">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "继续">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "开始覆盖">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "停止">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "重新测试配置">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "编辑">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "记住密码">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "警告!">
+<!ENTITY incomingSettings.label          "接收的相关设置：">
+<!ENTITY outgoingSettings.label          "外发设置：">
+<!ENTITY technicaldetails.label          "技术细节">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "我已了解相关风险。">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "创建账户">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "修改设置">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY contactYourProvider.description "&brandShortName; 可以让您通过使用提供的配置信息来收取邮件。但是，对于这些不正确的连接，您应该联系您的管理员或者电子邮件提供商，更详细的信息请参见 Thunderbird 常见问题解答。">
+
+<!ENTITY insecureServer.tooltip.title    "警告！这是一个不安全的服务器.">
+<!ENTITY insecureServer.tooltip.details  "点击圆圈查看更多信息。">
+
+<!ENTITY insecureUnencrypted.description "您的邮件以及密码均未加密，因此你的密码（以及您的消息）可能会被其他人轻易读取。&brandShortName; 将继续允许您访问您的邮件，但是您应该联系您的邮件服务提供商为这些服务器配置安全连接。">
+<!ENTITY insecureSelfSigned.description  "服务器使用了不被信任的证书，所以我们无法确保没有人监听 &brandShortName; 和你的服务器之间的通讯。&brandShortName; 使你可以访问你的邮件，但是你确实应该让你的邮件服务商用可信的证书配置服务器。">
+<!ENTITY secureServer.description        "祝贺你！这是一个安全服务器。">

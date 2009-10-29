@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "删除">
 <!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "移除附件">
+<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "重命名…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "选择全部">

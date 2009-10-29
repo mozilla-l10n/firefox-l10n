@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "检查邮件">
 <!ENTITY contextManual.label "手动运行">
 <!ENTITY contextBoth.label "检查邮件或者手动运行">
+<!ENTITY contextPostPlugin.label "正在检查邮件（分类后）">
+<!ENTITY contextPostPluginBoth.label "正在检查邮件（分类后）或手动运行">
 <!ENTITY filterActionDesc.label "执行动作:">
 <!ENTITY filterActionDesc.accesskey "P">
 
