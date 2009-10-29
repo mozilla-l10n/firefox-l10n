@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "Onay belgesi ismi">
 <!ENTITY certmgr.certserver "Sunucu">
-<!ENTITY certmgr.typesofoverrides "Ayrıcalıklar">
 <!ENTITY certmgr.override_lifetime "Yaşam süresi">
 <!ENTITY certmgr.tokenname "Güvenlik aygıtları">
-<!ENTITY certmgr.purpose "Amaç">
 <!ENTITY certmgr.issued "Yayınlama tarihi">
 <!ENTITY certmgr.expires "Bitiş tarihi">
 <!ENTITY certmgr.email "E-posta adresi">

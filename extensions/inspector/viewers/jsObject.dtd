@@ -36,15 +36,15 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY jsCopyValue.label "Copy Value">
-<!ENTITY jsEval.label "Evaluate JavaScript…">
+<!ENTITY jsCopyValue.label "Değeri kopyala">
+<!ENTITY jsEval.label "JavaScript değerlendir…">
 
 <!ENTITY jsProperty.label "Özellik">
 <!ENTITY jsValue.label "Değer">
 
-<!ENTITY evaluateDialog.title "Evaluate Expression">
+<!ENTITY evaluateDialog.title "İfadeyi değerlendir">
 <!ENTITY jsEval.desc "Enter a JavaScript expression.  The variable &quot;target&quot; is the property that is currently selected.">
-<!ENTITY jsExecute.label "Execute">
+<!ENTITY jsExecute.label "Çalıştır">
 <!ENTITY inspectReturn.label "Inspect return in">
 <!ENTITY inspectReturnNew.label "Yeni pencere">
-<!ENTITY inspectReturnExisting.label "Existing window">
+<!ENTITY inspectReturnExisting.label "Mevcut pencere">
