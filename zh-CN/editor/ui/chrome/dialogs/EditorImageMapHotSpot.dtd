@@ -50,7 +50,7 @@
 
 <!-- Targets -->
 <!ENTITY commonFieldset.label	"通用目标:">
-<!ENTITY none.value				"(none)">
+<!ENTITY none.value				"（无）">
 <!ENTITY same.value				"相同帧">
 <!ENTITY whole.value			"整个页面">
 <!ENTITY new.value				"新建窗口">

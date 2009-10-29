@@ -200,7 +200,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "窗口">
-<!ENTITY minimizeWindow.label "Minimize">
+<!ENTITY minimizeWindow.label "最小化">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "全部置前">
 <!ENTITY zoomWindow.label "缩放">

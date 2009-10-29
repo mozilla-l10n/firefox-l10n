@@ -174,7 +174,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimize">
+<!ENTITY minimizeWindow.label "最小化">
 <!ENTITY bringAllToFront.label "全部置前">
 <!ENTITY zoomWindow.label "缩放"> 
 <!ENTITY windowMenu.label "窗口">

@@ -23,7 +23,7 @@
 <!ENTITY folderPickerPrefix.label "执行所选的过滤器，对于:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "选择此文件夹">
-<!ENTITY choosethisnewsserver.label "choose this news server">
+<!ENTITY choosethisnewsserver.label "选择此新闻服务器">
 <!ENTITY helpButton.label "帮助">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
