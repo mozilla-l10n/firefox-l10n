@@ -362,7 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMsgToMenu.label "Kopier til">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Flytt igjen">
-<!ENTITY moveToFolderAgain.accesskey "F">
+<!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorer tråd">
 <!ENTITY killThreadMenu.accesskey "I">
