@@ -55,9 +55,9 @@
 <!ENTITY dateField2.label         "data ">
 <!ENTITY userAgentField2.label    "program ">
 <!ENTITY referencesField2.label   "odniesienia ">
-<!ENTITY messageIdField2.label    "ID wiadomości ">
+<!ENTITY messageIdField2.label    "identyfikator ">
 <!ENTITY inReplyToField2.label    "odpowiedź na ">
-<!ENTITY originalWebsite2.label   "witryna internetowa ">
+<!ENTITY originalWebsite2.label   "strona www ">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label      "edytuj…">
