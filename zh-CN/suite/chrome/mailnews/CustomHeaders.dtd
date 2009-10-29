@@ -1,0 +1,7 @@
+<!ENTITY window.title "自定义头">
+<!ENTITY addButton.label "添加">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "删除">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "新消息头：">
+<!ENTITY newMsgHeader.accesskey "N">

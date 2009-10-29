@@ -1,0 +1,27 @@
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "源：">
+
+<!ENTITY viewPartialSourceWindow.title "DOM源">
+
+<!ENTITY menu_wrapLongLines.title "将较长的行自动换行"> 
+<!ENTITY menu_wrapLongLines.accesskey "W">
+
+<!ENTITY menu_highlightSyntax.label "语法加亮">
+<!ENTITY menu_highlightSyntax.accesskey "H">
+
+<!ENTITY findNextCmd.label "查找下一个">
+<!ENTITY findNextCmd.accesskey "n">
+
+<!ENTITY goToLineCmd.label "转到行…">
+<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY printSetupCmd.label "打印设置…">
+<!ENTITY printSetupCmd.accesskey "u">

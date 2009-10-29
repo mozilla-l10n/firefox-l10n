@@ -1,0 +1,63 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla application suite mailnews start page.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser.
+   - Portions created by the Initial Developer are Copyright (C) 2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY startpage.title "欢迎使用&brandShortName; 邮件 &amp; 新闻组">
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
+<!ENTITY headline.label
+'欢迎使用 <a id="vendorURL" href="">&brandShortName;</a> 邮件 &amp; 新闻组!'>
+<!ENTITY description.label
+"&brandShortName; 邮件 &amp; 新闻组是一个功能强大的开源邮件和新闻客户端, 带有高级垃圾邮件检测和其他很多有用的特性.">
+<!ENTITY features.title "特性">
+<!ENTITY feat_multiacc.label "支持多账户">
+<!ENTITY feat_junk.label "垃圾邮件检测">
+<!ENTITY feat_feeds.label "订阅阅读器">
+<!ENTITY feat_filters.label "消息过滤器">
+<!ENTITY feat_htmlmsg.label "支持HTML邮件">
+<!ENTITY feat_abook.label "通讯录">
+<!ENTITY feat_labels.label "可定制的标签和邮件视图">
+<!ENTITY feat_integration.label
+"和&brandShortName;应用程序套件紧密集成">
+<!ENTITY dict.title "字典">
+<!ENTITY dict_intro.label "用于消息的拼写检查的字典.">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY dict_info.label
+'更多的附加的语言可以从<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>的<a id="dictURL" href="">dictionaries</a>部分安装.'>
+<!ENTITY info.title "更多信息">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label
+'<a href="http://www.mozilla.org/mailnews/">我们</a> 欢迎缺陷汇报和功能建议，但是请先阅读 <a id="releaseNotesURL" href="">发行说明</a> 并查询
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> 。'>

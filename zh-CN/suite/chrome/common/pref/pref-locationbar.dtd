@@ -1,0 +1,34 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "地址栏">
+
+<!ENTITY autoComplete.label                    "自动完成">
+<!ENTITY enableAutoComplete.label              "输入时根据浏览历史自动完成">
+<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteAutoFill.label            "自动预填充最匹配的内容">
+<!ENTITY autoCompleteAutoFill.accesskey        "u">
+<!ENTITY autoCompleteShowPopup.label           "显示相匹配结果的列表">
+<!ENTITY autoCompleteShowPopup.accesskey       "S">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "只匹配之前键入过的站点">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "仅仅匹配地址，而不是网站标题">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "匹配">
+<!ENTITY autoCompleteMatch.accesskey           "M">
+<!ENTITY autoCompleteMatchAnywhere             "地址或者标题">
+<!ENTITY autoCompleteMatchWordsFirst           "任何地方匹配，最好在词的边界">
+<!ENTITY autoCompleteMatchWords                "只在词的边界匹配">
+<!ENTITY autoCompleteMatchStart                "只在地址或者标题的开始">
+
+<!ENTITY searchEngine.label                    "Internet搜索引擎">
+<!ENTITY showSearchEngine.label                "显示默认的搜索引擎">
+<!ENTITY showSearchEngine.accesskey            "e">
+
+<!ENTITY unknownLocations.label                "未知的位置">
+<!ENTITY domainGuessing.label                  "当一个网页没有找到时, 为地址添加&quot;www.&quot; 和 &quot;.com&quot;">
+<!ENTITY domainGuessing.accesskey              "d">
+<!ENTITY keywords.label                        "当输入文本不是网站地址时在网络中搜索">
+<!ENTITY keywords.accesskey                    "P">

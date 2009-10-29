@@ -1,0 +1,171 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Compose页：(无主题)">
+
+<!ENTITY fromAddr.label "发件人:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY subject.label  "主题:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "附件：">
+<!ENTITY attachments.accesskey "c">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "错误信息">  
+<!ENTITY newMessage.accesskey "M">  
+<!ENTITY saveCmd.label "保存">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "另存为">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "文件…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "草稿">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "模板">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY attachMenu.label "附加">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "文件…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "网页…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "个人名片（vCard）">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY sendNowCmd.label "发送">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "以后发送">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "打印设置…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "打印…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "重新排版">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey  "w">
+<!ENTITY findCmd.label "查找并替换…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "再次查找">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "查找前一个">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY accountManagerCmd.label "邮件 &amp; 新闻组帐户设置">
+<!ENTITY accountManagerCmd.accesskey "m">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "邮件工具栏">
+<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showFormatToolbarCmd.label "格式化工具栏">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "格式">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "选项">
+<!ENTITY optionsMenu.accesskey "p">
+
+<!ENTITY quoteCmd.label "引用原始消息">
+<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY selectAddressCmd.label "选择地址">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "A">
+
+<!ENTITY checkSpellingCmd2.label "拼写检查…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "输入同时进行拼写检查">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+
+<!ENTITY priorityMenu.label "优先">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY lowestPriorityCmd.label "最低">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "低">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "普通">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "高">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "最高">
+<!ENTITY highestPriorityCmd.accesskey "H">
+
+<!ENTITY returnReceiptMenu.label "返回邮件回执">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY outputFormatMenu.label "格式">
+<!ENTITY outputFormatMenu.accesskey  "f">
+<!ENTITY autoFormatCmd.label "自动检测">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "仅纯文本">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "仅复杂文本 (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "简单或复杂 (HTML) 文本">
+<!ENTITY bothFormatCmd.accesskey "l">
+
+<!ENTITY fileCarbonCopyCmd.label "复制至">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "移动至此处">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "发送">
+<!ENTITY addressButton.label "地址">
+<!ENTITY attachButton.label "附加">
+<!ENTITY spellingButton.label "拼写检查">
+<!ENTITY saveButton.label "保存">
+<!ENTITY stopButton.label "停止">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "地址栏">
+<!ENTITY formatToolbar.tooltip "格式化工具栏">
+<!ENTITY sendButton.tooltip "现在发送此消息"> 
+<!ENTITY sendlaterButton.tooltip "以后发送此消息"> 
+<!ENTITY addressButton.tooltip "从通讯录中选择一个收件人"> 
+<!ENTITY attachButton.tooltip "添加附件"> 
+<!ENTITY saveButton.tooltip "保存此消息"> 
+<!ENTITY stopButton.tooltip "停止当前传送"> 
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "（无可用建议）">
+<!ENTITY spellCheckIgnoreWord.label "忽略该词">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "添加至字典">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "还原">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "剪切">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "复制">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "粘贴">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "粘贴为引文">
+<!ENTITY pasteQuote.accesskey "Q">
+
+<!ENTITY openAttachment.label "打开
+">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "删除">
+<!ENTITY delete.accesskey "D">
+<!ENTITY renameAttachment.label "重命名…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "选择全部">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "附件…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "附加网页…">
+<!ENTITY attachPage.accesskey "W">

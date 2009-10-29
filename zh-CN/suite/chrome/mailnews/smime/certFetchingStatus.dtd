@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "正在下载证书">
+<!ENTITY info.message "搜索目录以查找收件人的证书。可能需要几分钟。">
+<!ENTITY stop.label "停止搜索">

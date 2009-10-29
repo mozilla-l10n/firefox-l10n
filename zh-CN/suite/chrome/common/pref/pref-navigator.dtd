@@ -1,0 +1,42 @@
+<!ENTITY pref.navigator.title           "浏览器">
+
+<!ENTITY navRadio.label                 "显示在">
+<!ENTITY navRadio.accesskey             "n">
+<!ENTITY navStartPageMenu.label         "浏览器的启动">
+<!ENTITY newWinPageMenu.label           "新建浏览器窗口">
+<!ENTITY newTabPageMenu.label           "新建标签页">
+
+<!ENTITY blankPageRadio.label           "空白页">
+<!ENTITY blankPageRadio.accesskey       "B">
+<!ENTITY homePageRadio.label            "主页">
+<!ENTITY homePageRadio.accesskey        "m">
+<!ENTITY lastPageRadio.label            "上一个浏览页">
+<!ENTITY lastPageRadio.accesskey        "L">
+<!ENTITY restoreSessionRadio.label      "恢复上一次会话">
+<!ENTITY restoreSessionRadio.accesskey  "P">
+
+<!ENTITY header2.label                  "主页">
+<!ENTITY homePageIntro.label            "点击 主页 按钮打开此组页面：">
+<!ENTITY useCurrent.label               "使用当前页">
+<!ENTITY useCurrent.accesskey           "U">
+<!ENTITY useCurrentGroup.label          "用户当前所在组">
+<!ENTITY useCurrentGroup.accesskey      "G">
+<!ENTITY browseFile.label               "选择文件…">
+<!ENTITY browseFile.accesskey           "C">
+<!ENTITY useDefault.label               "恢复默认值">
+<!ENTITY useDefault.accesskey           "R">
+
+<!ENTITY toolbarIntro.label             "选择您想在工具栏看到的按钮:">
+
+<!ENTITY navToolbarIntro.label          "导航工具栏">
+<!ENTITY goButton.label                 "转到">
+<!ENTITY goButton.accesskey             "o">
+<!ENTITY searchButton.label             "查找">
+<!ENTITY searchButton.accesskey         "S">
+
+<!ENTITY defaultBrowserGroup.label      "默认浏览器">
+<!ENTITY defaultBrowserButton.label     "设为默认浏览器">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText             "&brandShortName; 已经是您的默认浏览器了.">
+<!ENTITY defaultPendingText             "当你单击确定时，&brandShortName;将被设为默认浏览器.">
+<!ENTITY makeDefaultText                "设置&brandShortName;为默认浏览器.">

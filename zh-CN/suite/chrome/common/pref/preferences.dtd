@@ -1,0 +1,37 @@
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "首选项">
+<!ENTITY categoryHeader "类别">
+<!ENTITY appear.label "外观">
+<!ENTITY content.label "内容">
+<!ENTITY fonts.label "字体">
+<!ENTITY colors.label "颜色">
+<!ENTITY navigator.label "浏览器">
+<!ENTITY history.label "历史记录">
+<!ENTITY languages.label "语言和字符编码">
+<!ENTITY applications.label "应用程序助手">
+<!ENTITY locationBar.label "地址栏">
+<!ENTITY tabWindows.label "标签式浏览">
+<!ENTITY offline.label "脱机">
+<!ENTITY security.label "隐私 &amp; 安全">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "图片">
+<!ENTITY popups.label "弹出窗口">
+<!ENTITY passwords.label "密码">
+<!ENTITY masterpass.label "主密码">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "证书">
+<!ENTITY validation.label "确认">
+<!ENTITY advance.label "高级">
+<!ENTITY down.label "下载">
+<!ENTITY cache.label "高速缓存">
+<!ENTITY proxies.label "代理服务器">
+<!ENTITY httpnetworking.label "HTTP 连网">
+<!ENTITY smart.label "软件安装">
+<!ENTITY download.label "下载项">
+<!ENTITY keynav.label "键盘导航">
+<!ENTITY search.label "互联网搜索">
+<!ENTITY policies.label "安全策略">
+<!ENTITY mousewheel.label "鼠标滚轮">
+<!ENTITY scriptsAndWindows.label "脚本 &amp; 插件">
+
+<!ENTITY focusSearch.key "f">

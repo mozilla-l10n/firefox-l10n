@@ -1,0 +1,46 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "浏览器">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label					"编写器">
+<!ENTITY editorCmd.accesskey				"c">
+<!ENTITY editorCmd.commandkey				"4">
+
+<!ENTITY javaConsoleCmd.label					"Java控制台">
+<!ENTITY javaConsoleCmd.accesskey				"j">
+
+<!ENTITY errorConsoleCmd.label                                  "错误控制台">
+<!ENTITY errorConsoleCmd.accesskey				"C">
+<!ENTITY errorConsoleCmd.commandkey				"j">
+
+<!ENTITY taskNavigator.tooltip  "浏览器">
+<!ENTITY taskComposer.tooltip  "编写器">
+
+<!ENTITY webDevelopment.label "Web开发">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "窗口">
+<!ENTITY windowMenu.accesskey "W">
+
+<!ENTITY tasksMenu.label "工具">
+<!ENTITY tasksMenu.accesskey "T"> 
+
+<!ENTITY passwordManagerCmd.label "密码管理器">
+<!ENTITY passwordManagerCmd.accesskey "P">
+
+<!ENTITY passwordDisplayCmd.label "管理存储的密码">
+<!ENTITY passwordDisplayCmd.accesskey "M">
+
+<!ENTITY passwordExpireCmd.label "注销">
+<!ENTITY passwordExpireCmd.accesskey "l">
+
+<!ENTITY downloadManagerCmd.label "下载管理器">
+<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.commandkey "j">
+
+<!ENTITY addonsManagerCmd.label "管理附加组件">
+<!ENTITY addonsManagerCmd.accesskey "A">
+
+<!ENTITY switchProfileCmd.label "切换配置文件…">
+<!ENTITY switchProfileCmd.accesskey "h">

@@ -1,0 +1,17 @@
+
+<!ENTITY search.name.label              "名称">
+<!ENTITY search.url.label               "地址">
+<!ENTITY search.shortcut.label          "关 键 字">
+<!ENTITY search.description.label       "描 述">
+<!ENTITY search.startswith.label        "开始为">
+<!ENTITY search.endswith.label          "结束为">
+<!ENTITY search.is.label                "是">
+<!ENTITY search.isnot.label             "没有">
+<!ENTITY search.contains.label          "包含">
+<!ENTITY search.doesntcontain.label     "不包含">
+<!ENTITY save.query.label               "在书签中保存查询">
+<!ENTITY save.query.accesskey           "S">
+<!ENTITY search.for.label               "按标记查找书签">
+<!ENTITY findBookmark.title             "查询书签">
+<!ENTITY findButton.label               "查找">
+<!ENTITY findButton.accesskey           "F">

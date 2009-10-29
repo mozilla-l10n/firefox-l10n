@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "将此图片附加至消息">
+<!ENTITY attachImageSource.accesskey     "s">
+
+<!ENTITY attachLinkSource.label          "将此链接的源代码附加至消息">
+<!ENTITY attachLinkSource.accesskey      "s">

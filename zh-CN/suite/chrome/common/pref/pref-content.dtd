@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "内容">
+<!ENTITY pref.content.description               "这些设置会影响web站点和消息内容在&brandShorName 上的显示.">
+<!ENTITY siteIcons.label                        "网站图标">
+<!ENTITY useSiteIcons.label                     "显示网站图标">
+<!ENTITY useSiteIcons.accesskey                 "S">
+<!ENTITY useFavIcons.label                      "当网页无默认图标时主动寻找一个。">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY tbIconsDescription.label               "在书签菜单与工具栏显示网站图标:">
+<!ENTITY tbIconsNever.label                     "从不显示书签图标">
+<!ENTITY tbIconsNever.accesskey                 "N">
+<!ENTITY tbIconsCache.label                     "仅当web站点最近被加载时">
+<!ENTITY tbIconsCache.accesskey                 "O">
+<!ENTITY tbIconsAlways.label                    "书签上总是载入网站图标">
+<!ENTITY tbIconsAlways.accesskey                "w">
+<!ENTITY enableAutomaticImageResizing.label     "调整大图像的尺寸以适应浏览器窗口">
+<!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY useSmoothScroll.label                  "使用平滑滚动">
+<!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY textZoomOnly.label                     "仅放大文本而不是放大整个页面">
+<!ENTITY textZoomOnly.accesskey                 "Z">

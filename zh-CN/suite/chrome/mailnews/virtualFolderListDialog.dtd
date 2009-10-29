@@ -1,0 +1,6 @@
+<!ENTITY server.label "帐户: ">
+<!ENTITY server.accesskey "A">
+<!ENTITY virtualFolderListTitle.title        "选择文件夹">
+<!ENTITY virtualFolderDesc.label       "选择要搜索的文件夹：">
+
+

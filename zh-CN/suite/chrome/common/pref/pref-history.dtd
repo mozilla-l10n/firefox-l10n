@@ -1,0 +1,26 @@
+<!ENTITY  pref.history.title                "历史记录">
+
+<!ENTITY  pref.history.caption              "浏览历史">
+<!ENTITY  historyPages.label                "历史是以前已浏览过页面的一个列表。">
+<!ENTITY  expireDaysMin1.label              "总是保存访问过的页面至少">
+<!ENTITY  expireDaysMin1.accesskey          "R">
+<!ENTITY  expireDaysMin2.label              "天">
+<!ENTITY  expireDays1.label                 "保留浏览过的页面，直到">
+<!ENTITY  expireDays1.accesskey             "e">
+<!ENTITY  expireDays2.label                 "天">
+<!ENTITY  expireSites1.label                "记住动作">
+<!ENTITY  expireSites1.accesskey            "m">
+<!ENTITY  expireSites2.label                "访问过的页面">
+<!ENTITY  clearHistory.label                "清除历史">
+<!ENTITY  clearHistory.accesskey            "s">
+
+<!ENTITY  locationBarHistory.caption        "地址栏历史">
+<!ENTITY  clearLocationBar.label            "清除地址栏存储的站点列表。">
+<!ENTITY  clearLocationBarButton.label      "清空地址栏">
+<!ENTITY  clearLocationBarButton.accesskey  "L">
+<!ENTITY  formfillHistory.caption           "表单和搜索历史">
+<!ENTITY  enableFormfill.label              "启用表单和搜索历史记录">
+<!ENTITY  enableFormfill.accesskey          "n">
+<!ENTITY  formfillExpire.label              "记住所有表单及搜索历史记录">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "天">

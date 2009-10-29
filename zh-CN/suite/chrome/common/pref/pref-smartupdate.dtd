@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "软件安装">
+<!ENTITY smartTitle.label                     "管理软件安装和更新">
+<!ENTITY enableSU.label                       "允许web站点安装扩展和更新">
+<!ENTITY enableSU.accesskey                   "e">
+<!ENTITY allowedSites.label                   "许可的站点">
+<!ENTITY allowedSites.accesskey               "A">
+
+<!ENTITY verifyUpdates.caption                "更新">
+<!ENTITY autoUpdates.label                    "自动检查下列组件的更新：">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY daily.label                          "每日">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY weekly.label                         "每周">
+<!ENTITY appWeekly.accesskey                  "w">
+<!ENTITY extensionsUpdates.label              "已安装的附加组件">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsDaily.accesskey            "i">
+<!ENTITY extensionsWeekly.accesskey           "k">
+<!ENTITY addonManagerButton.label             "管理附加组件">
+<!ENTITY addonManagerButton.accesskey         "M">

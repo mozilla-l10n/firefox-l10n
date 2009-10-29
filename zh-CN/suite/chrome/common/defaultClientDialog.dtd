@@ -1,0 +1,10 @@
+<!ENTITY defaultClient.title  "默认客户端">
+<!ENTITY defaultClient.intro  "使用 &brandShortName; 作为默认客户端:">
+
+<!ENTITY browser.label "浏览器">
+<!ENTITY email.label "电子邮件">
+<!ENTITY newsgroups.label "新闻群组">
+<!ENTITY feeds.label "收取点">
+
+<!ENTITY checkOnStartup.label "启动&brandShortName时总执行此项检查;">
+<!ENTITY checkOnStartup.accesskey "A">

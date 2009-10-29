@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "安全策略">
+
+<!ENTITY  zoneIntro.label     "&brandShortName; 允许你创建一组策略来定义访问一个站点时所使用的各种功能, 包括脚本和Java特性等.">
+
+<!ENTITY  policies.label      "策略：">
+<!ENTITY  default.label       "默认策略">
+<!ENTITY  allWebsites.label   "全部网站">
+<!ENTITY  trusted.label       "可信任的站点">
+<!ENTITY  annoyances.label    "常见的杂项">
+<!ENTITY  restricted.label    "受限的站点">
+
+<!ENTITY  addSite.label       "添加站点…">
+<!ENTITY  addSite.accesskey   "a">
+<!ENTITY  settings.label      "设置 ">
+<!ENTITY  settings.accesskey  "s">
+
+<!ENTITY  description.label   "策略描述:">
+ 
