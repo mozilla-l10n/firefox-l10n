@@ -95,7 +95,7 @@
 <!ENTITY  permImage             "Grafiken laden">
 <!ENTITY  permPopup             "Pop-up-Fenster öffnen">
 <!ENTITY  permCookie            "Cookies setzen">
-<!ENTITY  permInstall           "Erweiterungen  oder Themes installieren">
+<!ENTITY  permInstall           "Erweiterungen oder Themes installieren">
 <!ENTITY  permGeo               "Auf aktuellen Ort zugreifen">
 
 <!ENTITY  securityTab           "Sicherheit">
