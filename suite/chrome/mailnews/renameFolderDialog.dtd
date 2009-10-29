@@ -1,0 +1,3 @@
+<!ENTITY renameFolderDialog.title          "重命名文件夹">
+<!ENTITY rename.label                      "请输入文件夹的新名称:">
+<!ENTITY rename.accesskey                  "E">

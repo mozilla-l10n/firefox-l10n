@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "订阅收取点">
+<!ENTITY subscriptionDesc.label "说明：移除或者改变收取点的文件夹不会影响已下载的文章。">
+<!ENTITY feedTitle.label "标题:">
+<!ENTITY location.label  "地点：">
+
+<!ENTITY button.addFeed.label       "添加">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "编辑">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "删除">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "导入">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "导出">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey             "w">

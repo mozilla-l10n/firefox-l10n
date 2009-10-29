@@ -1,0 +1,44 @@
+<!ENTITY     tab.cookiesonsystem.label      "已保存Cookies">
+<!ENTITY     tab.bannedservers.label        "已阻止此站点Cookie">
+<!ENTITY     div.bannedservers.label        "管理你的Cookies设置是否允许网站存储Cookies。">
+<!ENTITY     div.cookiesonsystem.label      "查看或删除存储在你的电脑上的Cookies。">
+<!ENTITY     treehead.cookiename.label      "Cookie 名称">
+<!ENTITY     treehead.cookiedomain.label    "报告站点"> 
+<!ENTITY     treehead.cookieexpires.label   "过期"> 
+<!ENTITY     treehead.infoselected.label    "已选Cookie的信息">
+<!ENTITY     button.removecookie.label      "移除 Cookie">
+<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removeallcookies.label  "移除所有 Cookie">
+<!ENTITY     button.removeallcookies.accesskey "e">
+
+<!ENTITY     search.emptytext               "搜索Cookie">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     selectAll.key                  "a">
+
+<!ENTITY     props.name.label               "名称:">
+<!ENTITY     props.value.label              "内容：">
+<!ENTITY     props.domain.label             "主计算机:">
+<!ENTITY     props.path.label               "路径：">
+<!ENTITY     props.secure.label             "发送条件：">
+<!ENTITY     props.expires.label            "过期时间：">
+
+<!ENTITY     treehead.sitename.label        "报告站点">
+<!ENTITY     treehead.status.label          "状态">
+<!ENTITY     windowtitle.label              "管理Cookie">
+<!ENTITY     buttonaccept.label             "关闭">
+<!ENTITY     buttonaccept.accesskey         "C">
+
+<!ENTITY     blockSite.label                "阻止">
+<!ENTITY     blockSite.accesskey            "B">
+<!ENTITY     allowSite.label                "是">
+<!ENTITY     allowSite.accesskey            "A">
+<!ENTITY     allowSiteSession.label         "会话">
+<!ENTITY     allowSiteSession.accesskey     "S">
+<!ENTITY     removepermission.label         "删除站点">
+<!ENTITY     removepermission.accesskey     "R">
+<!ENTITY     removeallpermissions.label     "删除全部站点">
+<!ENTITY     removeallpermissions.accesskey "e">
+
+<!ENTITY     futureCookies.label            "禁止站点移除Cookies">
+<!ENTITY     futureCookies.accesskey        "D">

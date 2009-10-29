@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY importDialog.windowTitle "导入">
+<!ENTITY importAll.label          "全部导入">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "邮件">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "通讯录">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "设置">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "过滤依据：">
+<!ENTITY importFilters.accesskey  "F">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "&brandShortName; 导入向导">
+<!ENTITY importShortDesc.label    "从其他程序中导入邮件、通讯录、设置、过滤器">
+
+<!ENTITY importDescription1.label "此向导将从其他邮件程序以及常见通讯录格式文件中导入邮件消息、通讯录、首选项以及过滤器至 &brandShortName;。">
+<!ENTITY importDescription2.label "一旦导入，您就可以从 &brandShortName; 存取他们。">
+
+<!ENTITY selectDescription.label  "请选择导入的文件类型：">
+<!ENTITY selectDescription.accesskey "P">
+
+<!ENTITY back.label               "&lt; 后退">
+<!ENTITY forward.label            "下一步 &gt;">
+<!ENTITY finish.label             "完成">
+<!ENTITY cancel.label             "取消">
+
+<!ENTITY select.label             "选择导入信息的类型：">
+
+<!ENTITY title.label              "职位">
+<!ENTITY processing.label         "正在导入…">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x的每一个名片对应一个邮件地址，而 &brandShortName;对应两个地址（家庭和工作）。">
+<!ENTITY FieldDiscInputText2.label  "选择您想要保存导入的重要邮件地址的类别：">
+<!ENTITY FieldDiscWarning.label  "此类别将在已选择通讯录的所有条目中使用：">
+<!ENTITY importHome.label        "家庭">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "工作地址">
+<!ENTITY importWork.accesskey    "W">

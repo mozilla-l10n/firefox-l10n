@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title        "发送格式">
+<!ENTITY sendMaildesc.label           "当发送格式化（HTML）信件，而且收件人没有设置接收HTML:">
+<!ENTITY askMe.label                  "询问我如何做(邮件程序会提示您选择一个格式)">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "转换信息为普通文本(一些格式可能会丢失)">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "将信件作为格式化文件（HTML）发送（即使一些邮件程序不支持）">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "以文本和HTML格式发送邮件（比较大的信件）">
+<!ENTITY sendBoth.accesskey           "n">
+<!ENTITY override.label               "在写信件时，您可以点击选项菜单为单独的信件重新设置。">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title                 "超文本域和普通文本域">
+<!ENTITY domaindesc.label             "如果您向属于下面列举的域名的地址发送信件，Mail会自动以首选格式（格式化文本或者普通文本）来发送信件。">
+<!ENTITY HTMLdomaintitle.label        "HTML 域">
+<!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY PlainTexttitle.label         "纯文本域">
+<!ENTITY PlainTexttitle.accesskey     "P">
+<!ENTITY AddButton.label              "添加…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "删除">
+<!ENTITY DeleteHtmlDomain.accesskey   "e">
+<!ENTITY DeletePlainText.accesskey    "n">
+
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "添加 HTML 域名">
+<!ENTITY add.htmldomain               "HTML 域名：">
+<!ENTITY add.plaintexttitle           "添加纯文本域名：">
+<!ENTITY add.plaintextdomain          "纯文本域名称：">
+
+<!ENTITY domainnameError.title        "域名错误">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY invalidEntryError.label      "@string@ 是不可用的域名并且会被忽略。一个有效的域名，必须包含至少'.'，在'.'任何一侧会有多个字符">

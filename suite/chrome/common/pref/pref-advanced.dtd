@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "高级">
+
+<!ENTITY prefEnableJava.caption     "对解析网页提供辅助的特性">
+
+<!ENTITY enbJavaCheck.label         "启用 Java">
+<!ENTITY enbJavaCheck.accesskey     "J">
+
+<!ENTITY systemPref.caption         "系统选项">
+<!ENTITY systemPrefCheck.label      "使用系统设置">
+<!ENTITY systemPrefCheck.accesskey  "U">
+<!ENTITY systemPref.desc            "使用这个选项，brandShortName ;从系统中继承偏好。这些系统的设置将优先覆盖brandShortName。 ">
+
+<!ENTITY prefCheckDefault.caption   "系统集成">
+<!ENTITY prefCheckDefaultClient.label "启动时检查默认应用程序设置">
+<!ENTITY prefCheckDefaultClient.accesskey "C">

@@ -1,0 +1,137 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "通讯录">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newContact.label                               "联系...">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newListCmd.label                               "邮递列表…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "L">  
+<!ENTITY newAddressBookCmd.label                        "通讯录…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "o">  
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP目录…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newIM.label                                    "即时通讯软件">
+<!ENTITY printContactViewCmd.label                      "打印联系人…">
+<!ENTITY printContactViewCmd.accesskey                  "p">
+<!ENTITY printPreviewContactViewCmd.label               "联系人打印预览">
+<!ENTITY printPreviewContactViewCmd.accesskey           "v">
+<!ENTITY printContactViewCmd.key                        "P">
+<!ENTITY printAddressBook.label                         "打印通讯录…"> 
+<!ENTITY printAddressBook.accesskey                     "A"> 
+<!ENTITY printPreviewAddressBook.label                  "通讯录打印预览"> 
+<!ENTITY printPreviewAddressBook.accesskey              "B">
+<!ENTITY printSetupCmd.label                            "打印设置…">
+<!ENTITY printSetupCmd.accesskey                        "u">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "删除通讯录">  
+<!ENTITY deleteContactCmd.label                         "删除联系人">
+<!ENTITY deleteContactsCmd.label                        "删除已选择的联系人">
+<!ENTITY deleteListCmd.label                            "删除列表">
+<!ENTITY deleteListsCmd.label                           "删除选择的列表">
+<!ENTITY deleteItemsCmd.label                           "删除所选项">
+<!ENTITY swapFirstNameLastNameCmd.label                 "切换 姓/名">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">  
+<!ENTITY propertiesCmd.label                            "属性…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "i">  
+<!ENTITY propertiesCmd.key                              "i">  
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "通讯录工具栏"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "o">  
+
+<!ENTITY showCardPane.label                             "名片窗格">
+<!ENTITY showCardPane.accesskey                         "C">
+  
+<!ENTITY menu_ShowNameAs.label                          "名称显示方式"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY firstLastCmd.label                             "姓名">  
+<!ENTITY firstLastCmd.accesskey                         "f"> 
+<!ENTITY lastFirstCmd.label                             "姓氏，名字">  
+<!ENTITY lastFirstCmd.accesskey                         "l"> 
+<!ENTITY displayNameCmd.label                           "显示名称">  
+<!ENTITY displayNameCmd.accesskey                       "d"> 
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "导入…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "导出…">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY allowOnlineCheck.label                         "检查在线（美国在线）">
+<!ENTITY allowOnlineCheck.accesskey                     "C">
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newContactButton.label                         "新建联系人">
+<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newlistButton.label                            "新建列表">  
+<!ENTITY newlistButton.accesskey                        "L">  
+<!ENTITY editItemButton.label                           "属性">
+<!ENTITY editItemButton.accesskey                       "P">
+<!ENTITY newmsgButton.label                             "组成">  
+<!ENTITY newmsgButton.accesskey                         "C">  
+<!ENTITY deleteItemButton.label                         "删除">
+<!ENTITY deleteItemButton.accesskey                     "D">
+<!ENTITY newimButton.label                              "实时消息">  
+<!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY searchNameAndEmail.emptytext                   "搜索名字和邮件">
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "通讯录工具栏">
+<!ENTITY newContactButton.tooltip                       "创建新的通讯录联系人">
+<!ENTITY newlistButton.tooltip                          "创建新列表"> 
+<!ENTITY editItemButton.tooltip                         "编辑选中项">
+<!ENTITY newmsgButton.tooltip                           "发送一个邮件消息"> 
+<!ENTITY newIM.tooltip                                  "发送一条即时消息或聊天"> 
+<!ENTITY deleteItemButton.tooltip                       "删除选中项">
+<!ENTITY throbber.tooltip                               "转到 &vendorShortName; 主页">
+<!ENTITY advancedButton.tooltip                         "高级地址搜索">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

@@ -1,0 +1,71 @@
+<!-- extracted from content/pref-fonts.xul -->
+
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+<!ENTITY  pref.fonts.title                        "字体">
+
+<!ENTITY  language.label                          "字体，对：">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  typefaces.label                         "字型">
+<!ENTITY  sizes.label                             "大小（象素）">
+
+<!ENTITY  proportional.label                      "比例数：">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "加线：">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "灯芯体：">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "等宽字型：      ">
+<!ENTITY  monospace.accesskey                     "m">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY  fantasy.label                           "华丽：">
+<!ENTITY  fantasy.accesskey                       "f">
+<!ENTITY  cursive.label                           "草写体：">
+<!ENTITY  cursive.accesskey                       "c">
+
+<!ENTITY  font.langGroup.latin1                   "西方字体">
+<!ENTITY  font.langGroup.latin2                   "中欧字体">
+<!ENTITY  font.langGroup.japanese                 "日本语">
+<!ENTITY  font.langGroup.trad-chinese             "繁体字（台湾）">
+<!ENTITY  font.langGroup.simpl-chinese            "简体字">
+<!ENTITY  font.langGroup.trad-chinese-hk          "繁体字（香港）">
+<!ENTITY  font.langGroup.korean                   "Korean字体">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillic字体">
+<!ENTITY  font.langGroup.baltic                   "波罗的海字体">
+<!ENTITY  font.langGroup.el                       "希腊字体">
+<!ENTITY  font.langGroup.turkish                  "土耳其字体">
+<!ENTITY  font.langGroup.unicode                  "其他字体">
+<!ENTITY  font.langGroup.user-def                 "用户设定">
+<!ENTITY  font.langGroup.thai                     "太泰国字体">
+<!ENTITY  font.langGroup.hebrew                   "希伯来字体">
+<!ENTITY  font.langGroup.arabic                   "阿拉伯字体">
+<!ENTITY  font.langGroup.devanagari               "梵文字体">
+<!ENTITY  font.langGroup.tamil                    "泰米尔字体">
+<!ENTITY  font.langGroup.armenian                 "亚美尼亚字体">
+<!ENTITY  font.langGroup.bengali                  "孟加拉字体">
+<!ENTITY  font.langGroup.canadian                 "加拿大标准音节">
+<!ENTITY  font.langGroup.ethiopic                 "埃塞俄比亚字体
+">
+<!ENTITY  font.langGroup.georgian                 "格鲁吉亚字体">
+<!ENTITY  font.langGroup.gujarati                 "古吉拉特字体">
+<!ENTITY  font.langGroup.gurmukhi                 "果鲁穆奇字体">
+<!ENTITY  font.langGroup.khmer                    "高绵文">
+<!ENTITY  font.langGroup.malayalam                "马拉亚拉姆字体">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "最小字体大小：">
+<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.none                             "无">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "衬线字体">
+<!ENTITY  useDefaultFontSansSerif.label           "无衬线字体">
+
+<!ENTITY  useDocumentFonts.label                  "允许文档使用其他字体">
+<!ENTITY  useDocumentFonts.accesskey              "o">
+
+<!-- leaving this stuff in for now -->
+
+<!ENTITY  header2                                 "当网页自定义字体时">
+<!ENTITY  useDefaultFont.label                    "使用默认字体，忽略网页字体设置">
+<!ENTITY  useDefaultFont.accesskey                "u">

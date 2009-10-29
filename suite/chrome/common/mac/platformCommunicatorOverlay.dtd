@@ -1,0 +1,53 @@
+<!-- mac -->
+<!-- LOCALIZATION NOTE: FILE Do not translate all the entities ending with
+  Cmd.key. -->
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+  application menu. Never change the modifiers unless you are 100% sure that
+  they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmd.label           "预设...">
+<!ENTITY preferencesCmd.key             ",">
+<!ENTITY preferencesCmd.modifiers       "加速器">
+<!ENTITY servicesMenu.label             "服务">
+<!ENTITY hideThisAppCmd.label           "隐藏 &brandShortName;">
+<!ENTITY hideThisAppCmd.key             "H">
+<!ENTITY hideThisAppCmd.modifiers       "加速器">
+<!ENTITY hideOtherAppsCmd.label         "隐藏其他">
+<!ENTITY hideOtherAppsCmd.key           "H">
+<!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
+<!ENTITY showAllAppsCmd.label           "全部显示">
+<!ENTITY quitApplicationCmd.label       "退出 &brandShortName;"> 
+<!ENTITY quitApplicationCmd.key         "Q">
+<!ENTITY quitApplicationCmd.modifiers   "加速器">
+<!-- End of Application menu -->
+
+<!ENTITY closeCmd.label                 "关闭">  
+<!ENTITY closeCmd.key                   "W">  
+
+<!ENTITY printSetupCmd.label            "页面设置…">
+<!ENTITY printSetupCmd.accesskey        "u">
+
+<!ENTITY redoCmd.label                  "重复">  
+<!ENTITY redoCmd.key                    "Z">  
+
+<!ENTITY historyCmd.key                 "H">  
+
+<!ENTITY findTypeTextCmd.key            "">
+<!ENTITY findTypeLinksCmd.key           "">
+
+<!ENTITY accel.emacs_conflict           "加速器">
+
+<!ENTITY minimizeWindowCmd.label        "最小化">
+<!ENTITY minimizeWindowCmd.key          "M">
+<!ENTITY zoomWindowCmd.label            "缩放">
+
+<!-- Help menu -->
+<!ENTITY openHelpCmd.label              "&brandShortName; 帮助">
+<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.key                "?">
+<!ENTITY openHelpCmd.modifiers          "加速器">
+
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY ctrlKey.label                   "Ctrl键">
+<!ENTITY altKey.label                    "选项">
+<!ENTITY shiftKey.label                  "Shift键">

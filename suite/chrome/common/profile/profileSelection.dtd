@@ -1,0 +1,52 @@
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is mozilla.org code.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Ben Goodger (28/10/99)
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY            windowTitle.label    "选择用户分布图">
+<!ENTITY            profileManager.title "&brandShortName; 个人配置管理器">
+
+<!ENTITY            manage.label     "管理配置文件">
+<!ENTITY            manage.accesskey "M">
+<!ENTITY            select.label     "使用此配置">
+
+<!ENTITY            availableProfiles.label "可用配置文件">
+
+<!ENTITY            introStart.label         "选择列表中的配置文件并且点击&start.label访问，个人信息，设置和其他个人信息储存配置.">
+<!ENTITY            introSwitch.label        "选址列表并点击 &select.label，切换至另一配置文件，使用其中储存的信息，设置及其他个人信息。">
+<!ENTITY            profileManagerText.label "&brandShortName; 保存你的配置文件，包括浏览器设置、保存的表单、秘密、个人信息等项目。">

@@ -1,0 +1,65 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <BlakeR1234@aol.com>
+   -   Samir Gehani <sgehani@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sidebar.panels.label           "边栏">
+<!ENTITY sidebar.reload.label           "重新加载">
+<!ENTITY sidebar.reload.accesskey       "R">
+<!ENTITY sidebar.picker.label           "标签项">
+<!ENTITY sidebar.customize.label        "自定义侧边栏…">
+<!ENTITY sidebar.customize.accesskey    "u">
+<!ENTITY sidebar.hide.label             "隐藏标签页">
+<!ENTITY sidebar.hide.accesskey         "H">
+<!ENTITY sidebar.switch.label           "切换至标签页">
+<!ENTITY sidebar.switch.accesskey       "T">
+<!ENTITY sidebarCmd.label               "边栏">
+<!ENTITY sidebarCmd.accesskey           "b">
+<!ENTITY sidebar.loading.label          "载入中…">
+<!ENTITY sidebar.loadstopped.label      "停止载入">
+<!ENTITY sidebar.loading.stop.label     "停止">
+<!ENTITY sidebar.loading.stop.accesskey "S">
+
+<!ENTITY sidebar.no-panels.state     "当前侧边栏为空。">
+<!ENTITY sidebar.no-panels.add       '点击上方的"标签页"按钮打开新标签。'>
+<!ENTITY sidebar.no-panels.hide      '单击上方“查看”菜单，然后从“显示/隐藏”子菜单选择“侧栏”，即可完全隐藏侧栏。'>
+<!ENTITY sidebar.sbDirectory.label   "侧栏目录…">
+
+<!ENTITY sidebar.pagenotfound.label  "此标签当前不可用。">
+<!ENTITY sidebar.close.tooltip       "关闭侧栏">
+<!ENTITY sidebar.open.tooltip        "打开侧栏">
+

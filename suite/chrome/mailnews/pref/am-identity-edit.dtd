@@ -1,0 +1,7 @@
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "标识设置：">
+<!ENTITY identityListDesc.label "配置此标识的设置：">
+
+<!ENTITY settingsTab.label       "设置">
+<!ENTITY copiesFoldersTab.label "副本和文件夹">
+<!ENTITY addressingTab.label    "编写和地址查找">

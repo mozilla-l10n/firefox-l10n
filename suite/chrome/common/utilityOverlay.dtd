@@ -1,0 +1,112 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "离线工作">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "k">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"移动"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"新建">
+<!ENTITY newMenu.accesskey					"N">
+<!ENTITY newBlankPageCmd.label "编写页面">
+<!ENTITY newBlankPageCmd.accesskey "P" >
+<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY newPageFromTemplateCmd.label "使用模板新建">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "使用草稿新建">
+<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!ENTITY newNavigatorCmd.label "浏览器窗口">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "B">
+
+<!ENTITY editMenu.label					"编辑"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"还原">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"U"> 
+<!ENTITY redoCmd.label						"重复">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"R"> 
+<!ENTITY cutCmd.label						"剪切">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"复制">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"粘贴">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"删除">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"选择全部">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"预设...">
+<!ENTITY preferencesCmd.key					"k">  
+<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY findTypeTextCmd.label "查找自定义文本">
+<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY findTypeLinksCmd.label "查找自定义链接">
+<!ENTITY findTypeLinksCmd.accesskey "k">
+
+<!ENTITY viewMenu.label					"视图"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"显示/隐藏"> 
+<!ENTITY viewToolbarsMenu.accesskey			"w"> 
+<!ENTITY showTaskbarCmd.label					"状态栏">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY helpMenu.label					"帮助"> 
+<!ENTITY helpMenu.accesskey				"h"> 
+
+<!ENTITY releaseCmd.label				"版本注释">
+<!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY updateCmd.label                        "检查更新">
+<!ENTITY updateCmd.accesskey                    "C">
+<!ENTITY aboutCmd.label					"关闭 &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"A">
+<!ENTITY aboutCommPluginsCmd.label			"关于插件">
+<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+
+<!ENTITY direct.label                                   "已连接(使用代理:无)">
+<!ENTITY direct.accesskey                               "N">
+<!ENTITY manual.label                                   "已连接(使用代理:自定义)">
+<!ENTITY manual.accesskey                               "M">
+<!ENTITY pac.label                                      "已连接(使用代理:自动)">
+<!ENTITY pac.accesskey                                  "A">
+<!ENTITY wpad.label                                     "已连接(使用代理:自动发现)">
+<!ENTITY wpad.accesskey                                 "D">
+<!ENTITY system.label                                   "已连接(使用代理:系统设置)">
+<!ENTITY system.accesskey                               "S">
+
+<!ENTITY proxy.label                                    "代理配置…">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY bidiSwitchTextDirectionItem.label        "切换文字方向">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY customizeToolbarContext.label            "定制">
+<!ENTITY customizeToolbarContext.accesskey        "C">
+
+<!ENTITY customizeToolbar.toolbarmode.label       "设置此工具栏">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
+<!ENTITY customizeToolbar.iconsAndText.label      "图标和文字">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.icons.label             "图标">
+<!ENTITY customizeToolbar.icons.accesskey         "o">
+<!ENTITY customizeToolbar.text.label              "文本">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "使用小图标">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "文字在图标旁">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
+<!ENTITY customizeToolbar.useDefault.label        "使用默认设置">
+<!ENTITY customizeToolbar.useDefault.accesskey    "U">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY showPopupManager.label       "管理弹出窗口">
+<!ENTITY showPopupManager.accesskey   "M">
+<!ENTITY dontShowMessage.label        "不要再显示此弹出窗口信息">
+<!ENTITY dontShowMessage.accesskey    "D">
