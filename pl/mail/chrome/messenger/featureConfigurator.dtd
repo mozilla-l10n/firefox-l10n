@@ -1,7 +1,7 @@
 <!ENTITY featureConfigurator.title   "Asystent migracji">
 <!ENTITY featureConfigurator.heading "Najważniejsze zmiany w programie Thunderbird 3">
 <!ENTITY featureConfigurator.para1   "Program Thubnderbird 3 zawiera ciekawe nowe funkcjonalności z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta jednak bywają różne, dodajemy więc łatwą metodę kontrolli nad nimi.">
-<!ENTITY featureConfigurator.para2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe opcje. Zawsze też, będzie można otworzyć tę stronę ponownie z menu Pomoc.">
+<!ENTITY featureConfigurator.para2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe opcje. Zawsze też będzie można otworzyć tę stronę ponownie z menu Pomoc.">
 
 <!ENTITY featureConfigurator.imap.heading         "Synchronizacja kont IMAP">
 <!ENTITY featureConfigurator.imap.status.all      "Wszystkie foldery IMAP powinny być automatycznie &quot;synchronizowane&quot;.">
@@ -9,7 +9,7 @@
 <!ENTITY featureConfigurator.imap.status.some     "Tylko wybrane foldery IMAP powinny być automatycznie &quot;synchronizowane&quot;.">
 <!ENTITY featureConfigurator.benefits.label       "Korzyści">
 <!ENTITY featureConfigurator.alternative.label    "Alternatywa">
-<!ENTITY featureConfigurator.syncBenefits.para    "Możliwość czytania poczty nawet gdy nie ma połączenia z siecią i pozwala na przeszukiwanie treści wiadomości a nie tylko tematów i nadawców.">
+<!ENTITY featureConfigurator.syncBenefits.para    "Umożliwia czytanie poczty nawet gdy nie ma połączenia z siecią i pozwala na przeszukiwanie treści wiadomości a nie tylko tematów i nadawców.">
 <!ENTITY featureConfigurator.syncAlternative.para "Rezygnacja z pobierania całej poczty na dysk twardy komputera pozwala zaoszczędzić miejsce oraz zmniejszyć ilość przesyłanych danych.">
 <!ENTITY featureConfigurator.syncAll.button       "automatycznie synchronizuj wszystko">
 <!ENTITY featureConfigurator.syncNone.button      "niczego automatycznie nie synchronizuj">
