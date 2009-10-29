@@ -22,7 +22,7 @@
 <!ENTITY signingCert.message "使用如下证书对您发送的消息进行数字签名：">
 
 <!ENTITY certificates.label "证书">
-<!ENTITY manageCerts.label "View Certificates">
+<!ENTITY manageCerts.label "查看证书">
 <!ENTITY manageCerts.accesskey "V">
-<!ENTITY manageDevices.label "Security Devices">
+<!ENTITY manageDevices.label "安全设备">
 <!ENTITY manageDevices.accesskey "y">
