@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label      "Fraudes de correo">
 <!ENTITY itemPasswords.label     "Contraseñas">
 <!ENTITY itemAntiVirus.label     "Antivirus">
+<!ENTITY itemCookies.label       "Contenido Web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Configuración predeterminada de correo basura. Las configuraciones específicas de cada cuenta deben ser realizadas en Configuración de cuentas.">
@@ -28,19 +29,30 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; puede recordar las contraseñas para todas sus cuentas así no tiene que reingresarlas cada vez.">
-<!ENTITY  encryptEnabled.label        "Usar una contraseña maestra para cifrar las contraseñas guardadas">
-<!ENTITY  encryptEnabled.accesskey    "s">
-<!ENTITY  masterPassword.intro        "Al establecerla, la contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.">
-<!ENTITY  setMasterPassword.label     "Contraseña maestra">
-<!ENTITY  setMasterPassword.accesskey "M">
-<!ENTITY  removeMasterPassword.label  "Borrar la contraseña maestra…">
-<!ENTITY  removeMasterPassword.accesskey "R">
-<!ENTITY  editPasswords.label         "Editar las contraseñas guardadas">
-<!ENTITY  editPasswords.accesskey     "i">
+<!ENTITY savedPasswords.intro         "&brandShortName; puede recordar las contraseñas para todas sus cuentas.">
+<!ENTITY useMasterPassword.label        "Usar una contraseña maestra">
+<!ENTITY useMasterPassword.accesskey    "m">
+<!ENTITY  masterPassword.intro        "Una contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.">
+<!ENTITY changeMasterPassword.label     "Cambiar contraseña maestra…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Contraseñas guardadas…">
+<!ENTITY savedPasswords.accesskey       "s">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; puede facilitar a los antivirus que revisen el correo electrónico antes de ser guardados localmente.">
 <!ENTITY antiVirus.label      "Permitir a los antivirus poner en cuarentena mensajes individualmente">
 <!ENTITY antiVirus.accesskey  "l">
 
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; le permite especificar a cuáles blogs, canales de noticias y sitios web se les permitirá escribir cookies.">
+<!ENTITY acceptCookies.label            "Aceptar cookies de sitios">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Mantener hasta:">
+<!ENTITY keepUntil.accesskey            "M">
+<!ENTITY expire.label                   "que expiren">
+<!ENTITY close.label                    "Cierre &brandShortName;">
+<!ENTITY askEachTime.label              "preguntarme cada vez">
+<!ENTITY cookieExceptions.label         "Excepciones…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Mostrar cookies…">
+<!ENTITY showCookies.accesskey          "o">
