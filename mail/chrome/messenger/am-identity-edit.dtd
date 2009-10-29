@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "标识设置：">
 <!ENTITY identityListDesc.label "配置此标识的设置：">
 

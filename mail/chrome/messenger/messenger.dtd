@@ -7,12 +7,14 @@
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd.label "关闭标签页">
 <!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeOtherTabsCmd.label "关闭其他标签页">
+<!ENTITY closeOtherTabsCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "已保存搜索…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "帐户…">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "邮件帐号（快速设置） ...">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "其他帐户...">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "邮件帐户...">
+<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -130,6 +132,8 @@
 
 <!ENTITY folderView.label "文件夹">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY smartFolders.label "智能">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "全部">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "未读">
@@ -467,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "回复至列表">
 <!ENTITY forwardButton.label "转发">
 <!ENTITY fileButton.label "移动">
+<!ENTITY archiveButton.label "归档">
 <!ENTITY nextButton.label "下一个">
 <!ENTITY previousButton.label "上一个">
 <!ENTITY backButton1.label "后退">
@@ -499,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "回复至邮件列表">
 <!ENTITY forwardButton.tooltip "转发选择的消息">
 <!ENTITY fileButton.tooltip "移动选择的消息">
+<!ENTITY archiveButton.tooltip "归档选中的消息">
 <!ENTITY nextButton.tooltip "转至下一条未读消息">
 <!ENTITY previousButton.tooltip "转到上一条未读消息">
 <!ENTITY goForwardButton.tooltip "前进至下一条消息">
@@ -566,28 +572,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "搜索消息…">
-<!ENTITY glodaSearchBar.facet.label "搜索：">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "全部">
-<!ENTITY glodaSearchFacet.subject.label "标题">
-<!ENTITY glodaSearchFacet.involves.label "参与者 （from,to,cc,bcc）">
-<!ENTITY glodaSearchFacet.to.label "To，CC">
-<!ENTITY glodaSearchFacet.from.label "发件人">
-<!ENTITY glodaSearchFacet.body.label "消息文本">
-<!ENTITY glodaSearchFacet.attachmentNames.label "附件名称">
-
-<!ENTITY glodaSearchBar.location.label "地址：">
-<!ENTITY glodaSearchFacet.everywhere.label "全部文件夹">
-<!ENTITY glodaSearchFacet.folder.label "位于某个文件夹…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "标题">
@@ -618,15 +602,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "地址">
 <!ENTITY idColumn.label "按接收时间排序">
 <!ENTITY attachmentColumn.label "附件">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "原因">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "分数">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "点击选择要显示的列">
@@ -649,8 +624,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "点击按地址排序">
 <!ENTITY idColumn.tooltip "点击按接收顺序排序">
 <!ENTITY attachmentColumn.tooltip "点击对附件排序">
-<!ENTITY glodaWhyColumn.tooltip "点击将搜索结果按消息被列入的原因排序">
-<!ENTITY glodaScoreColumn.tooltip "点击按搜索得分排序">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">
@@ -659,6 +632,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "作为新消息编辑…">
 <!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextArchive.label "归档">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "只回复发件人">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "回复到新闻组">
@@ -684,6 +659,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "打印预览">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "播放">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "暂停">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "静音">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "恢复声音">
+<!ENTITY contextUnmute.accesskey "m">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "垃圾邮件">
 <!ENTITY junkBarButton1.label "非垃圾">
@@ -703,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchAllMessages.label "搜索全部消息">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "将地址添加到通讯录…">
@@ -713,10 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "查看联系人">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "发送邮件到">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY SubscribeToNewsgroup.label "订阅至新闻组">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "编写消息至">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "复制邮件地址">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "复制新闻组名称">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "复制新闻组 URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "创建过滤器，从…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "报告电子邮件欺诈">
@@ -727,16 +719,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "图片另存为…">
 <!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY cutCmd.label "剪切">
+<!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "复制">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "粘贴">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "全选">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "复制图片地址">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "复制邮件地址">
 <!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "停止">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "重新加载">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "在浏览器中打开">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "在浏览器中打开链接">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "完成">

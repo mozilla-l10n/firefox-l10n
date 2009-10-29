@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "颜色：">
 <!ENTITY color.accesskey                  "c">
 <!ENTITY displayWidth.label               "纯文本消息">
-<!ENTITY plainText.label                  "使用下列字体：">
 <!ENTITY displayText.label                "当显示引用的纯文本消息时使用以下设置：">
-<!ENTITY fixedWidth.label                 "固定宽度字体">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "可变宽度字体">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "颜色">
 <!ENTITY overrideColors.label             "显示消息时，使用下列颜色：">
 <!ENTITY textColor.label                  "文本颜色：">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "D">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "配置 &brandShortName; 所使用的字体和编码设置">
-<!ENTITY fontsAndEncodingsCaption.label      "字体和编码">
-<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontsAndColors.label    "字体">
+<!ENTITY defaultFont.label       "默认字体:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "大小：">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "字体…">

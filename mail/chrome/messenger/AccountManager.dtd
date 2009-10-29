@@ -2,10 +2,14 @@
 
 <!ENTITY accountManagerTitle.label "帐户设置">
 
-<!ENTITY addAccountButton.label "添加帐户…">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY accountActionsButton.label "帐号操作">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "添加邮件帐户…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "添加其他账户…">
+<!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "设置为默认帐户">
-<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "删除帐户">
 <!ENTITY removeButton.accesskey "R">
 

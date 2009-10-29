@@ -1,15 +1,17 @@
 <!ENTITY aboutDialog.title      "关于 &brandFullName;">
-<!ENTITY credits.label          "作者">
-<!ENTITY credits.accesskey      "C">
 <!ENTITY aboutButton.label      "&lt; 后退">
 <!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "版本">
 <!ENTITY copyrightText          "©1998-2007 贡献者。保留所有权利。 Mozilla Thunderbird 以及                                   Thunderbird 标志是  Mozilla Foundation 的商标。  保留所有权利。 ">
 <!ENTITY aboutMenu.label        "关于">
 <!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutCredits.label     "光荣榜">
+<!ENTITY aboutCredits.accesskey "C">
 <!ENTITY aboutRights.label      "您的权利">
 <!ENTITY aboutRights.accesskey  "R">
 <!ENTITY aboutContributors.label "贡献者">
 <!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "许可">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

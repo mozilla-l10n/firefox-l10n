@@ -7,6 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "发行说明">
 <!ENTITY releaseCmd.accesskey "R">
+<!ENTITY whatsNewCmd.label "新功能">
+<!ENTITY whatsNewCmd.accesskey "W">
+<!ENTITY featureConfiguratorCmd.label "迁移助手">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "帮助内容">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -15,5 +19,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "检查更新…">
-<!ENTITY aboutCmd.label "关于 &brandFullName;">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutMenuCmd.label "关于 &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "A">

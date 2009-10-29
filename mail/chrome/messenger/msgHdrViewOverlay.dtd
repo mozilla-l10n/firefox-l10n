@@ -57,19 +57,47 @@
 
 <!ENTITY editMessageDescription.label "这是一份草稿消息">
 <!ENTITY editMessageButton.label "编辑…">
-<!ENTITY archiveButton.label "归档">
+<!ENTITY hdrArchiveButton.label "归档">
+<!ENTITY hdrArchiveButton.tooltip "将该信息归档">
 <!ENTITY hdrReplyButton.label "回复">
+<!ENTITY hdrReplyButton.tooltip "回复该信息">
 <!ENTITY hdrReplyAllButton.label "全部回复">
+<!ENTITY hdrReplyAllButton.tooltip "回复至发件人以及所有收件人">
 <!ENTITY hdrReplyListButton.label "回复列表">
+<!ENTITY hdrReplyListButton.tooltip "回复至邮件列表">
 <!ENTITY hdrForwardButton.label "转发">
+<!ENTITY hdrForwardButton.tooltip "转发此消息">
 <!ENTITY hdrJunkButton.label "垃圾">
-<!ENTITY trashButton.tooltiptext "删除">
+<!ENTITY hdrJunkButton.tooltip "标记为垃圾邮件">
+<!ENTITY hdrTrashButton.label "删除">
+<!ENTITY hdrTrashButton.tooltip "删除该消息">
+
+<!ENTITY hdrViewToolbarShowFull.label "显示图标和文本">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "仅显示图标">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "仅显示文本">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "总是回复至发件人">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton.label "其他操作">
+<!ENTITY otherActionsShowConversation.label "在会话中显示">
+<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "在新窗口打开">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab.label "在新标签页打开">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "标记为已读">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "标记为未读">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "另存为…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "查看源代码…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+<!ENTITY otherActionsPrint.label "打印…">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label    "打开">
 <!ENTITY openAttachmentCmd.accesskey    "O">

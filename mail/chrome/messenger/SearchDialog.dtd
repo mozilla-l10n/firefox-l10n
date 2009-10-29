@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "搜索子文件夹">
 <!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "在服务器上运行搜索">
+<!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "清除">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "打开">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label            "移动">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "打开消息文件夹">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "在文件夹中打开">
+<!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "将搜索结果保存作为文件夹">
 <!ENTITY saveAsVFButton.accesskey    "v">
 

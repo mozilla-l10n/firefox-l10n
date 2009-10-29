@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "删除">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "名称：">
 <!ENTITY editContactName.accesskey "N">
 

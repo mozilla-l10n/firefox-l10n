@@ -50,8 +50,8 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "重建概要文件"> 
      
 <!ENTITY retention.label "保留策略">
-<!ENTITY retentionUseDefault.label  "使用服务器默认设置">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label  "使用我的帐户设置">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "天的消息">
 <!ENTITY message.label "消息">
 <!ENTITY retentionCleanup.label "将旧消息永久删除可释放更多的磁盘空间">
