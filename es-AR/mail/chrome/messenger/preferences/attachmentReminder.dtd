@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Palabras de recordatorio de adjunto">
+<!ENTITY attachKeywordText.label          "&brandShortName; le avisará acerca de adjuntos faltantes si está por enviar un correo electrónico que contenga alguna de estas palabras.">
+<!ENTITY addKeywordButton.label           "Agregar">
+<!ENTITY addKeywordButton.accesskey       "A">
+<!ENTITY editKeywordButton.label          "Editar">
+<!ENTITY editKeywordButton.accesskey      "E">
+<!ENTITY removeKeywordButton.label        "Borrar">
+<!ENTITY removeKeywordButton.accesskey    "D">
