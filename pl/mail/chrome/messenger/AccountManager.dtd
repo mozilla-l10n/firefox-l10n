@@ -13,5 +13,5 @@
 <!ENTITY removeButton.accesskey     "U">
 
 <!-- 1ch = The width of the "0" (ZERO, U+0030) glyph for the current font; 1em = The height of the font -->
-<!ENTITY accountManager.size "width: 117ch; height: 48em;"><!-- en-US: width: 97ch; height: 49em; -->
-<!ENTITY accountTree.width   "width: 35ch;"><!-- en-US: width: 31ch; -->
+<!ENTITY accountManager.size "width: 104ch; height: 49em;"><!-- en-US: width: 97ch; height: 49em; -->
+<!ENTITY accountTree.width   "width: 24ch;"><!-- en-US: width: 31ch; -->

@@ -7,7 +7,7 @@
 <!ENTITY neverEncrypt.accesskey      "N">
 <!ENTITY alwaysEncryptMessage.label              "Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)">
 <!ENTITY alwaysEncryptMessage.accesskey          "a">
-<!ENTITY encryptionCert.message                  "Certyfikat, który będzie używany do szyfrowania i deszyfrowania otrzymanych wiadomości:">
+<!ENTITY encryptionCert.message                  "Certyfikat do szyfrowania i deszyfrowania otrzymanych wiadomości:">
 <!ENTITY digitalSign.certificate.button          "Wybierz…">
 <!ENTITY digitalSign.certificate.accesskey       "z">
 <!ENTITY digitalSign.certificate_clear.button    "Wyczyść">
@@ -19,7 +19,7 @@
 <!ENTITY signingGroupTitle.label     "Podpis cyfrowy">
 <!ENTITY signMessage.label           "Podpisuj cyfrowo wiadomości (domyślnie)">
 <!ENTITY signMessage.accesskey       "P">
-<!ENTITY signingCert.message         "Certyfikat, który będzie używany do cyfrowego podpisywania wysyłanych wiadomości:">
+<!ENTITY signingCert.message         "Certyfikat do cyfrowego podpisywania wysyłanych wiadomości:">
 
 <!ENTITY certificates.label      "Certyfikaty">
 <!ENTITY manageCerts.label       "Wyświetl certyfikaty">
