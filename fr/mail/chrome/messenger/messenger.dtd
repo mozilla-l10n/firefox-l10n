@@ -733,8 +733,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Copier l'adresse du lien">
 <!ENTITY copyLinkCmd.accesskey "n">
-<!ENTITY copyImageCmd.label "Copier l'adresse de l'image">
-<!ENTITY copyImageCmd.accesskey "m">
+<!ENTITY copyImageAllCmd.label "Copier l'image">
+<!ENTITY copyImageAllCmd.label "m">
 <!ENTITY copyEmailCmd.label "Copier l'adresse électronique">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Arrêter">
