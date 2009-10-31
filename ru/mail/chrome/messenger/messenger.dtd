@@ -655,8 +655,8 @@
 <!ENTITY selectAllCmd.accesskey "ы">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
-<!ENTITY copyImageCmd.label "Копировать изображение">
-<!ENTITY copyImageCmd.accesskey "и">
+<!ENTITY copyImageAllCmd.label "Копировать изображение">
+<!ENTITY copyImageAllCmd.accesskey "и">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
 <!ENTITY copyEmailCmd.accesskey "э">
 <!ENTITY stopCmd.label "Остановить">

@@ -86,10 +86,8 @@
 <!ENTITY certmgr.deleteusercert.aftername "После удаления этого сертификата вам не удастся прочесть зашифрованную с его помощью почту.">
 <!ENTITY certmgr.certname "Имя сертификата">
 <!ENTITY certmgr.certserver "Сервер">
-<!ENTITY certmgr.typesofoverrides "Исключения">
 <!ENTITY certmgr.override_lifetime "Срок действия">
 <!ENTITY certmgr.tokenname "Устройство защиты">
-<!ENTITY certmgr.purpose "Цели">
 <!ENTITY certmgr.issued "Выдан">
 <!ENTITY certmgr.expires "Срок действия">
 <!ENTITY certmgr.email "Адрес электронной почты">
