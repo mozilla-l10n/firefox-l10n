@@ -4,109 +4,109 @@ baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.title "Pomocník s migrací">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.heading): Heading for the page -->
-<!ENTITY featureConfigurator.heading "Thunderbird 3 features worth knowing about">
+<!ENTITY featureConfigurator.heading "Novinky Thunderbirdu 3, které je dobré znát">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para1): The tone of this paragraph
 is important: we tried for a tone that promotes the new features (which we
 believe are good and worth users learning about), but also emphasizing that we
 think it's important to preserve user choice. -->
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 includes powerful new features which we're quite proud of, and think most people will love. People's tastes and needs vary, so we made it easy to control and customize Thunderbird.">
+<!ENTITY featureConfigurator.para1 "Thunderbird 3 obsahuje několik nových funkcí, které se budou podle nás většině lidí libit. Chutě a požadavky různých lidí jsou však různé, a proto vám umožníme si Thunderbird jednoduše nastavit podle sebe.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
 that this page is active (the buttons change the UI), and that they can get
 back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Use this page to configure these new settings. You can always get back to the Migration Assistant from the Help menu.">
+<!ENTITY featureConfigurator.para2 "Na této stránce máte možnost tyto novinky nastavit. Pomocníka s migrací můžete kdykoliv spustit z nabídky Nápověda.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
 IMAP synchronization feature. The words should probably echo the word used
 in the per-account dialog.-->
-<!ENTITY featureConfigurator.imap.heading "Synchronize IMAP Messages">
+<!ENTITY featureConfigurator.imap.heading "Synchronizace zpráv">
 
-<!ENTITY featureConfigurator.imap.status.all "All of your IMAP folders are set to &quot;synchronize&quot;.">
+<!ENTITY featureConfigurator.imap.status.all "Všechny složky typu IMAP mají nastavenu &quot;synchronizaci&quot;.">
 
-<!ENTITY featureConfigurator.imap.status.none "None of your IMAP folders are set to &quot;synchronize&quot;.">
+<!ENTITY featureConfigurator.imap.status.none "Žádná složka typu IMAP nemá nastavenu &quot;synchronizaci&quot;.">
 
-<!ENTITY featureConfigurator.imap.status.some "Some of your IMAP folders are set to &quot;synchronize&quot;.">
+<!ENTITY featureConfigurator.imap.status.some "Některé složky typu IMAP mají nastavenu &quot;synchronizaci&quot;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
 is intended to explain why we've implemented this and picked it as a default.-->
-<!ENTITY featureConfigurator.benefits.label "Benefits">
+<!ENTITY featureConfigurator.benefits.label "Výhody">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.alternative.label): The heading here
 is intended to explain why it might not be the right default for some users.-->
-<!ENTITY featureConfigurator.alternative.label "Alternative">
+<!ENTITY featureConfigurator.alternative.label "Jiná možnost">
 
-<!ENTITY featureConfigurator.syncBenefits.para "Lets you read your mail when you're not connected to the internet, and lets you find messages based on the words they contain, not just the subjects and names.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird will download all your mail onto this computer. Turn it off if you're low on disk space, or you have to pay for network traffic.">
+<!ENTITY featureConfigurator.syncBenefits.para "Možnost číst si svoji poštu, pokud nejste připojeni k Internetu. Možnost vyhledávat zprávy nejen podle předmětu a jmen, ale i podle slov, které obsahují.">
+<!ENTITY featureConfigurator.syncAlternative.para "Vypněte stahování veškeré vaší pošty na tento počítač, pokud máte nedostatek místa na disku, nebo jste limitováni objemem síťového provozu.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
 because of a specific language context.-->
-<!ENTITY featureConfigurator.syncAll.button "synchronize all">
+<!ENTITY featureConfigurator.syncAll.button "Synchronizovat vše">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncNone.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
 because of a specific language context.-->
-<!ENTITY featureConfigurator.syncNone.button "don't synchronize any">
+<!ENTITY featureConfigurator.syncNone.button "Nic nesynchronizovat">
 
-<!ENTITY featureConfigurator.advancedUsers.label "Advanced users:">
-<!ENTITY featureConfigurator.advancedUsers.para "You can also customize it per account and per folder:">
+<!ENTITY featureConfigurator.advancedUsers.label "Pro pokročilé:">
+<!ENTITY featureConfigurator.advancedUsers.para "Synchronizaci lze přizpůsobit pro jednotlivé účty a složky:">
 
-<!ENTITY featureConfigurator.toolbar.heading "New toolbar">
-<!ENTITY featureConfigurator.toolbar.new.status "Using the new toolbar.">
+<!ENTITY featureConfigurator.toolbar.heading "Nová lišta pošty">
+<!ENTITY featureConfigurator.toolbar.new.status "Používáte nový typ lišty.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
 word 'original' is chosen deliberately to be neutral, vs. 'old' which in
 English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Using the original toolbar.">
+<!ENTITY featureConfigurator.toolbar.original.status "Používáte původní typ lišty.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "A cleaner interface than our previous default, which leaves more room  for the richer search textbox, as well as add-ons.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "If you like the old toolbar configuration better, you don't want to re-customize it, or you don't use the message pane in your layout.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Jednoduší vzhled než ten předchozí ve výchozím nastavení, který přinásí více místa pro hledací pole či další tlačítka doplňků.">
+<!ENTITY featureConfigurator.toolbarAlternative.para "Pokud se vám líbilo nastavení původní lišty a nechcete ji proto přenastavit, nebo máte vypnutý panel zpráv.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useOriginalToolbar.button "use original toolbar">
+<!ENTITY featureConfigurator.useOriginalToolbar.button "Použít původní typ lišty">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useNewToolbar.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useNewToolbar.button "use new toolbar">
+<!ENTITY featureConfigurator.useNewToolbar.button "Použít nový typ lišty">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Smart folders mode">
+<!ENTITY featureConfigurator.smartFolders.heading "Režim chytrých složek">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Using the &quot;smart folders&quot; mode.">
+<!ENTITY featureConfigurator.smartFolders.smart.status "Používáte režim &quot;chytrých složek&quot;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
 shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Not using the &quot;smart folders&quot; mode.">
+<!ENTITY featureConfigurator.smartFolders.all.status "Nepoužíváte režim &quot;chytrých složek&quot;.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "For users with several accounts, this view groups folders like Inbox together, so you get a consolidated view of all your mail.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "If you like splitting information across accounts then you'll prefer the &quot;All Folders&quot; mode.">
+<!ENTITY featureConfigurator.smartFolderBenefits.para "Pokud máte více účtů, seskupí tento režim složky jako Doručená pošta dohromady, tak aby jste měli jednotný pohled na všechnu svoji poštu.">
+<!ENTITY featureConfigurator.smartFolderAlternative.para "Pokud máte rádi poštu rozdělenou přesně podle účtů, volte spíše režim &quot;všech složek&quot;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "use &quot;smart folders&quot; mode">
+<!ENTITY featureConfigurator.useSmartFolders.button "Použít režim &quot;chytrých složek&quot;">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useAllFolders.button "use &quot;all folders&quot; mode">
+<!ENTITY featureConfigurator.useAllFolders.button "Použít režim &quot;všech složek&quot;">
 
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Collapsed headers">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Záhlaví zpráv">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
 of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 has improved the detailed message header view, including buttons for message-related actions. There are alternative designs available as ">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 vylepšil zobrazení podrobného záhlaví zpráv včetně přidání tlačítek pro se zprávou související akce. Další úpravy záhlaví jsou dostupně ve formě ">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
 the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaLinkName "add-ons">
+<!ENTITY featureConfigurator.headerParaLinkName "doplňků">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaAfterLink): The part of
 the paragraph after the link to the AMO search page.-->
