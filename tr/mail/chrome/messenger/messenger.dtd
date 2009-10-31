@@ -730,8 +730,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey "B">
-<!ENTITY copyImageCmd.label "Resim konumunu kopyala">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Resmi kopyala">
+<!ENTITY copyImageAllCmd.accesskey "y">
 <!ENTITY copyEmailCmd.label "E-posta adresini kopyala">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Dur">
