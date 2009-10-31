@@ -763,8 +763,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopiera bildadress">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Kopiera bild">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopiera e-postadress">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stopp">
