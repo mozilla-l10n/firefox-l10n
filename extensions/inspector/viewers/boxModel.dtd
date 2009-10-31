@@ -36,8 +36,8 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY boxPosition.label "Position">
+<!ENTITY boxPosition.label "Konum">
 <!ENTITY boxDimension.label "Boyutlar">
 <!ENTITY boxMargin.label "Kenar">
-<!ENTITY boxBorder.label "Border">
-<!ENTITY boxPadding.label "Padding">
+<!ENTITY boxBorder.label "Kenar">
+<!ENTITY boxPadding.label "Dolgu">
