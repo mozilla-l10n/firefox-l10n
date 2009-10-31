@@ -22,7 +22,7 @@
 <!ENTITY helpReleaseNotes.label         "Versionsfakta">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 
-<!ENTITY helpTroubleshooting.label      "Felsökningsinformation…">
+<!ENTITY helpTroubleshooting.label      "Felsökningsinformation">
 <!ENTITY helpTroubleshooting.accesskey  "F">
 
 <!ENTITY updateCmd.label                "Sök efter uppdateringar…">
