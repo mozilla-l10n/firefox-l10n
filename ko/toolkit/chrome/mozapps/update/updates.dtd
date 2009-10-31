@@ -2,6 +2,9 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "새 업데이트 확인">
+<!ENTITY  pluginupdatesfound.title "플러그인 업데이트 발견">
+<!ENTITY  pluginupdatesfound.label "하나 또는 그 이상의 새로운 플러그인을 찾았습니다.">
+<!ENTITY  pluginupdateslink.label  "플러그인 업그레이드 방법을 참조 하십시오.">
 <!ENTITY noupdatesfound.title "새 업데이트 없음">
 <!ENTITY  noupdatesautoenabled.intro  "현재 업데이트가 없습니다. &brandShortName;는 주기적으로 업데이트를 확인하고 있습니다.">
 <!ENTITY  noupdatesautodisabled.intro     "현재 업데이트가 없습니다. 다시 확인 하거나 &brandShortName;가 자동 업데이트 확인을 하도록 설정하십시오.">
