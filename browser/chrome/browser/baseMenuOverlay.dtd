@@ -17,7 +17,7 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Заўвагі пра выданне">
 <!ENTITY helpReleaseNotes.accesskey "З">
-<!ENTITY helpTroubleshooting.label "Звесткі для вырашэнне праблемаў…">
+<!ENTITY helpTroubleshooting.label "Звесткі для вырашэнне праблемаў">
 <!ENTITY helpTroubleshooting.accesskey "в">
 <!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
 <!ENTITY preferencesCmdMac.label "Перавагі…">

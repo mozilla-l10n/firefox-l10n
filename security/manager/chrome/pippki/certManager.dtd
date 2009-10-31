@@ -86,10 +86,8 @@
 <!ENTITY certmgr.deleteusercert.aftername "Калі вы аднойчы выдаліце гэтае пасведчанне, вы не зможаце прачытаць пошту, зашыфраваную ім.">
 <!ENTITY certmgr.certname "Назва пасведчання">
 <!ENTITY certmgr.certserver "Паслугач">
-<!ENTITY certmgr.typesofoverrides "Выключэнні">
 <!ENTITY certmgr.override_lifetime "Час жыцця">
 <!ENTITY certmgr.tokenname "Збудова бяспекі">
-<!ENTITY certmgr.purpose "Мэты">
 <!ENTITY certmgr.issued "Выдадзена (калі)">
 <!ENTITY certmgr.expires "Высільваецца (калі)">
 <!ENTITY certmgr.email "Э-паштовы адрас">
