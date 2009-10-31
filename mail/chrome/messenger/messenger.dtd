@@ -700,8 +700,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "그림 주소 복사">
-<!ENTITY copyImageCmd.accesskey "I">
+<!ENTITY copyImageAllCmd.label "그림 복사">
+<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "메일 주소 복사">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY stopCmd.label "중지">
