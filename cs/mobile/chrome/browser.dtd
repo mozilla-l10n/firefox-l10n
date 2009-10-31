@@ -31,13 +31,9 @@
 <!ENTITY helperApp.save "Uložit">
 <!ENTITY helperApp.nothing "Nic">
 
-<!ENTITY findOnCmd.label "Hledat ve stránce…">
-<!ENTITY findOnCmd.accesskey "H">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Hledat znovu">
-<!ENTITY findAgainCmd.accesskey "z">
-<!ENTITY findAgainCmd.commandkey "z">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous "Předchozí">
+<!ENTITY formHelper.next "Další">
+<!ENTITY formHelper.done "Hotovo">
 
 <!ENTITY addonsHeader.label "Doplňky">
 <!ENTITY addonsLocal.label "Vaše doplňky">
@@ -97,5 +93,3 @@
 <!ENTITY consoleErrFile.label "Zdrojový soubor:">
 <!ENTITY consoleErrLine.label "Řádek:">
 <!ENTITY consoleErrColumn.label "Sloupec:">
-
-<!ENTITY selectListDone.label "Hotovo">

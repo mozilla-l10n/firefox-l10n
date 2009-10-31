@@ -1,10 +1,9 @@
 <!ENTITY welcome.title "Vítejte v aplikaci &brandShortName;">
 <!ENTITY overview.description "Synchronizujte svůj mobil a PC pomocí Weave, přispůsobujte pomocí doplňků, brouzdejte pomocí úžasného adresního řádu a mnohem mnohem více.">
-<!ENTITY nextSteps.title "Další kroky">
 <!ENTITY sync.title "Buďte synchronní">
 <!ENTITY sync.description "Získejte Weave a zkroťte svůj &brandShortName;. Sdílejte předvolby, záložky, historii a další mezi svým mobilem a PC.">
-<!ENTITY sync.link "Získat doplněk Weave">
+<!ENTITY sync.linkLabel "Získat doplněk Weave">
 <!ENTITY getPersonal.title "Buďte individuální">
 <!ENTITY getPersonal.description "Upravte si &brandShortName; podle sebe. Přispůsobte si první mobilní prohlížeč rozšířitelný doplňky.">
-<!ENTITY getPersonal.link "Získat doplňky pro mobil.">
-<!ENTITY skip.link "Přeskočit vše a prohlížet web.">
+<!ENTITY getPersonal.linkLabel "Získat doplňky pro mobil.">
+
