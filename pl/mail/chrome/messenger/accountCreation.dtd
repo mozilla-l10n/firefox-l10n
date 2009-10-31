@@ -1,15 +1,15 @@
-<!ENTITY autoconfigWizard.title "Konfiguracja konta email">
-<!ENTITY name.label             "Imię i nazwisko:">
-<!ENTITY name.accesskey         "I">
-<!ENTITY name.emptytext         "Imię Nazwisko">
-<!ENTITY name.text              "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
-<!ENTITY email.label            "Adres e-mail:">
-<!ENTITY email.accesskey        "A">
-<!ENTITY email.emptytext        "email@jakasdomena.pl">
-<!ENTITY password.label         "Hasło:">
-<!ENTITY password.accesskey     "H">
-<!ENTITY password.emptytext     "Hasło">
-<!ENTITY password.text          "Opcjonalnie, zostanie użyte wyłącznie do sprawdzenia nazwy użytkownika">
+<!ENTITY autoconfigWizard.title   "Konfiguracja konta email">
+<!ENTITY name.label               "Imię i nazwisko:">
+<!ENTITY name.accesskey           "I">
+<!ENTITY name.emptytext           "Imię Nazwisko">
+<!ENTITY name.text                "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
+<!ENTITY email.label              "Adres e-mail:">
+<!ENTITY email.accesskey          "A">
+<!ENTITY email.emptytext          "email@jakasdomena.pl">
+<!ENTITY password.label           "Hasło:">
+<!ENTITY password.accesskey       "H">
+<!ENTITY password.emptytext       "Hasło">
+<!ENTITY password.text            "Opcjonalnie, zostanie użyte wyłącznie do sprawdzenia nazwy użytkownika">
 
 <!ENTITY accountInformation.label "Informacje o koncie">
 <!ENTITY username2.label          "Nazwa użytkownika:">
@@ -23,7 +23,7 @@
 <!ENTITY pop.label  "POP">
 <!ENTITY smtp.label "SMTP">
 
-<!ENTITY manualSetup.label     "Utwórz konto i edytuj jego ustawienia…"><!-- FIXME ENTITY manualSetup.label "Manual Setup…" -->
+<!ENTITY manualSetup.label     "Utwórz konto i edytuj jego ustawienia…">
 <!ENTITY manualSetup.accesskey "U">
 <!ENTITY cancel.label          "Anuluj">
 <!ENTITY cancel.accesskey      "A">
@@ -42,21 +42,21 @@
 <!ENTITY rememberPassword.label     "Zapamiętaj hasło">
 <!ENTITY rememberPassword.accesskey "Z">
 
-<!ENTITY warning.label                    "Ostrzeżenie!">
-<!ENTITY incomingSettings.label           "Ustawienia dla poczty przychodzącej:">
-<!ENTITY outgoingSettings.label           "Ustawienia dla poczty wychodzącej:">
-<!ENTITY technicaldetails.label           "Szczegóły">
-<!ENTITY confirmWarning.label             "Rozumiem ryzyko.">
-<!ENTITY confirmWarning.accesskey         "R">
-<!ENTITY createAccount.label              "Utwórz konto">
-<!ENTITY createAccount.accesskey          "U">
-<!ENTITY changeSettings.label             "Zmień ustawienia">
-<!ENTITY changeSettings.accesskey         "Z">
+<!ENTITY warning.label              "Ostrzeżenie!">
+<!ENTITY incomingSettings.label     "Ustawienia dla poczty przychodzącej:">
+<!ENTITY outgoingSettings.label     "Ustawienia dla poczty wychodzącej:">
+<!ENTITY technicaldetails.label     "Szczegóły">
+<!ENTITY confirmWarning.label       "Rozumiem ryzyko.">
+<!ENTITY confirmWarning.accesskey   "R">
+<!ENTITY createAccount.label        "Utwórz konto">
+<!ENTITY createAccount.accesskey    "U">
+<!ENTITY changeSettings.label       "Zmień ustawienia">
+<!ENTITY changeSettings.accesskey   "Z">
 
 <!ENTITY contactYourProvider.description  "Program &brandShortName; użyje dostarczonej konfiguracji dla tego konta, jednakże administrator lub operator usługi pocztowej powinien zostać powiadomiony o tych nieprawidłowych połączeniach. Więcej informacji na ten temat można znaleźć w pomocy programu &brandShortName;.">
 
-<!ENTITY insecureServer.tooltip.title     "Ostrzeżenie! Ten serwer nie zapewnia wysokiego poziomu bezpieczeństwa."><!-- FIXME this is an insecure server -->
-<!ENTITY insecureServer.tooltip.details   "Kliknij, aby dowiedzieć się więcej"><!-- FIXME: Click circle for more details - wtf?! (taki pomarańczowy badziew, pojawia się między innymi? w dymku podpowiedzi)  -->
+<!ENTITY insecureServer.tooltip.title     "Ostrzeżenie! Ten serwer nie zapewnia wysokiego poziomu bezpieczeństwa.">
+<!ENTITY insecureServer.tooltip.details   "Kliknij, aby dowiedzieć się więcej">
 
 <!ENTITY insecureUnencrypted.description  "Połączenie nie jest szyfrowane, hasła i wiadomości będą wysyłane czystym tekstem (w żaden sposób niezabezpieczone), co grozi ich przechwyceniem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien udostępnić możliwość łączenia się z serwerem w bezpieczny sposób.">
 <!ENTITY insecureSelfSigned.description   "Ten serwer używa certyfikatu, któremu nie należy ufać, istnieje możliwość przechwycenia transmisji pomiędzy programem &brandShortName; a serwerem przez osoby trzecie. Konto zostanie skonfigurowane, jednakże operator usługi pocztowej powinien zostać powiadomiony o problemie w celu jego usunięcia.">

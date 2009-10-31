@@ -120,6 +120,6 @@
 <!ENTITY copyLinkCmd.label     "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey "K">
 
-<!ENTITY CopyMessageId.label        "Kopiuj ID wiadomości">
-<!ENTITY OpenMessageForMsgId.label  "Otwórz wiadomość o tym ID">
-<!ENTITY OpenBrowserWithMsgId.label "Otwórz przeglądarkę z ID wiadomości"><!-- FIXME -->
+<!ENTITY CopyMessageId.label        "Kopiuj identyfikator wiadomości">
+<!ENTITY OpenMessageForMsgId.label  "Wyświetl wiadomość">
+<!ENTITY OpenBrowserWithMsgId.label "Otwórz wiadomość w przeglądarce">

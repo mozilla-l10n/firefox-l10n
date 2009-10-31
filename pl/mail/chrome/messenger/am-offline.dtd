@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pobrane wiadomości przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
-<!ENTITY doNotDownloadNntp.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:"><!-- FIXME: fuzzy -->
+<!ENTITY doNotDownloadNntp.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
 <!ENTITY doNotDownloadImap.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku kopie mogą być przechowywane przez ograniczony czas lub wedle rozmiaru.">
 <!ENTITY allFoldersOffline.label         "Przechowuj wiadomości dla tego konta lokalnie na komputerze">
 <!ENTITY allFoldersOffline.accesskey     "k">
@@ -35,14 +35,13 @@
 <!ENTITY syncGroupTitle.label                 "Synchronizacja wiadomości">
 <!ENTITY diskspaceGroupTitle.label            "Miejsce na dysku">
 
-<!-- FIXME - sprawdzić w UI o co chodzi i jak to powinno naprawdę wyglądać -->
 <!ENTITY allAutosync.label       "Synchronizuj wszystkie wiadomości niezależnie od wieku">
 <!ENTITY allAutosync.accesskey   "S">
-<!ENTITY ageAutosyncBefore.label "Synchronizuj tylko ostatnie wiadomości">
+<!ENTITY ageAutosyncBefore.label "Synchronizuj tylko wiadomości z ostatnich">
 <!ENTITY ageAutosync.accesskey   "t">
 <!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label    "Dni">
-<!ENTITY weekAgeInterval.label   "Tygodnie">
-<!ENTITY monthAgeInterval.label  "Miesiące">
-<!ENTITY yearAgeInterval.label   "Lata">
+<!ENTITY dayAgeInterval.label    "dni">
+<!ENTITY weekAgeInterval.label   "tygodni">
+<!ENTITY monthAgeInterval.label  "miesięcy">
+<!ENTITY yearAgeInterval.label   "lat">
 <!ENTITY ageAutosyncAfter.label  "">

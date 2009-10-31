@@ -58,7 +58,7 @@
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY fontControl.label               "Zarządzanie czcionkami"><!-- FIXME: potrzebne coś lepszego, zob ui; accesskeys -->
+<!ENTITY fontControl.label               "Zasady używania czcionek">
 <!ENTITY useFixedWidthForPlainText.label "Używaj czcionki o stałej szerokości dla wiadomości wysyłanych jako zwykły tekst">
 <!ENTITY fixedWidth.accesskey            "U">
 <!ENTITY useDocumentFonts.label          "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">

@@ -46,7 +46,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; może zapamiętać hasła dla wszystkich kont użytkownika.">
 <!ENTITY useMasterPassword.label        "Używaj hasła głównego">
 <!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "Hasło główne chroni wszystkie hasła użytkownika ale musi być ono wprowadzane jednorazowo dla każdej sesji."><!-- FIXME not always per session -->
+<!ENTITY masterPassword.intro           "Hasło główne chroni wszystkie hasła użytkownika ale musi być ono wprowadzane jednorazowo dla każdej sesji.">
 <!ENTITY changeMasterPassword.label     "Zmień hasło główne…">
 <!ENTITY changeMasterPassword.accesskey "h">
 <!ENTITY savedPasswords.label           "Zapisane hasła…">

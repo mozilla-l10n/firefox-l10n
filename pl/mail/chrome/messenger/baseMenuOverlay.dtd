@@ -13,7 +13,7 @@
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers  "accel">
 
-<!ENTITY featureConfiguratorCmd.label     "Asystent migracji"><!-- FIXME: asystent -->
+<!ENTITY featureConfiguratorCmd.label     "Asystent migracji">
 <!ENTITY featureConfiguratorCmd.accesskey "A">
 
 <!ENTITY updateCmd.label        "Sprawdź dostępność aktualizacji…">

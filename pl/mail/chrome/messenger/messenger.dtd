@@ -479,7 +479,7 @@
 <!ENTITY junkButton.label       "Niechciana">
 <!ENTITY notJunkButton.label    "Pożądana">
 <!ENTITY addressBookButton.label         "Adresy">
-<!ENTITY glodaSearch.title               "Wyszukiwanie"><!-- FIXME: <!ENTITY glodaSearch.title "Global Search"> -->
+<!ENTITY glodaSearch.title               "Wyszukiwanie">
 <!ENTITY searchItem.title                "Szybkie wyszukiwanie">
 <!ENTITY mailViewsToolbarItem.title      "Widoki poczty">
 <!ENTITY folderLocationToolbarItem.title "Położenie folderu">
@@ -678,7 +678,7 @@
 
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "Szukaj we wszystkich wiadomościach">
+<!ENTITY searchAllMessages.label "Wyszukiwanie we wszystkich wiadomościach">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "szczegóły">

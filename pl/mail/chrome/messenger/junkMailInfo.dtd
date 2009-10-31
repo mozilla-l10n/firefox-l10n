@@ -4,4 +4,4 @@
 <!ENTITY info1b.label ".">
 <!ENTITY info2.label  "Po pierwszym uruchomieniu filtru niechcianej poczty należy rozpocząć sesję treningową, wskazując za pomocą przycisku Niechciana poczta na pasku narzędzi niechciane wiadomości. Wszystkie inne wiadomości należy oznaczać jako pożądane. W początkowym okresie nauki istotne jest poprawianie błędnie rozpoznanych wiadomości.">
 <!ENTITY info3.label  "Po zakończeniu procesu treningu programu, można włączyć automatyczne przenoszenie wiadomości rozpoznanych jako niechciane do folderu Niechciane lub dowolnego innego folderu.">
-<!ENTITY info4.label  "W celu uzyskania bliższych informacji należy zapoznać się z Pomocą lub otworzyć stronę http://mozillapl.org/niechciane/"><!-- FIXME: mozillapl.org/niechciane -->
+<!ENTITY info4.label  "W celu uzyskania bliższych informacji należy zapoznać się z Pomocą lub otworzyć stronę http://mozillapl.org/wiki/Niechciane">
