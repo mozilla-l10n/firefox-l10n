@@ -6,7 +6,7 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Globale Suche und Nachrichtenindexierung aktivieren">
+<!ENTITY enableGlodaSearch.label       "Globale Suche und Nachrichtenindizierung aktivieren">
 <!ENTITY enableGlodaSearch.accesskey   "N">
 
 <!ENTITY systemIntegration.label       "Systemintegration">
