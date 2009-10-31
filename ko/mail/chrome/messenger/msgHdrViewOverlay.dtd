@@ -18,20 +18,47 @@
 
 <!ENTITY editMessageDescription.label "임시 보관함 편집">
 <!ENTITY editMessageButton.label "편집…">
-<!ENTITY replyButton.label "답장…">
-<!ENTITY forwardButton.label "전달…">
-<!ENTITY junkButton.label "스팸 표시">
-<!ENTITY trashButton.tooltiptext "삭제">
+<!ENTITY hdrArchiveButton.label "보관">
+<!ENTITY hdrArchiveButton.tooltip "이 메시지 보관">
+<!ENTITY hdrReplyButton.label "회신">
+<!ENTITY hdrReplyButton.tooltip "이 메시지에 회신">
+<!ENTITY hdrReplyAllButton.label "전체 회신">
+<!ENTITY hdrReplyAllButton.tooltip "보낸이와 모든 수신자에 회신">
+<!ENTITY hdrReplyListButton.label "리스트로 회신">
+<!ENTITY hdrReplyListButton.tooltip "메일링 리스트로 회신">
+<!ENTITY hdrForwardButton.label "전달">
+<!ENTITY hdrForwardButton.tooltip "이 메시지를 전달">
+<!ENTITY hdrJunkButton.label "스팸 표시">
+<!ENTITY hdrJunkButton.tooltip "이 메시지를 스팸으로 표시">
+<!ENTITY hdrTrashButton.label "삭제">
+<!ENTITY hdrTrashButton.tooltip "이 메시지 삭제">
+
+<!ENTITY hdrViewToolbarShowFull.label "아이콘 텍스트 모두 보기">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "아이콘만 보기">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "텍스트만 보기">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "보낸이에게 회신 항상 보기">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton.label "기타 기능">
+<!ENTITY otherActionsShowConversation.label "대화로 보기">
+<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "새 창으로 열기">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab.label "새 탭으로 열기">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "읽은 메일로 표시">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "읽지 않은 메일로 표시">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "다른 이름으로 저장…">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "소스 보기…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
-
-
-<!ENTITY hideDetailsButton.label "상세 정보 숨기기">
-<!ENTITY showDetailsButton.label "상세 정보 보기">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "소스 보기">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+<!ENTITY otherActionsPrint.label "인쇄…">
+<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "열기">
 <!ENTITY openAttachmentCmd.accesskey "O">

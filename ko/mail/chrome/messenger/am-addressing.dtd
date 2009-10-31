@@ -27,4 +27,8 @@
 <!ENTITY place.label                          "서명 추가">
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "아래 인용 (권장)">
-<!ENTITY aboveText.label                      "아래 답글 (위 인용)">
+<!ENTITY aboveText.label                      "내 회신 아래 (위 인용)">
+<!ENTITY includeSigOnReply.label              "회신 시에 서명 포함">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "전달 시에 서명 포함">
+<!ENTITY includeSigOnForward.accesskey        "w">

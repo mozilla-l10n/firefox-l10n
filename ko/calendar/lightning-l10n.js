@@ -11,15 +11,14 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is Sun Microsystems code.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# Sun Microsystems, Inc.
-# Portions created by the Initial Developer are Copyright (C) 2007
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   Daniel Boelzle <daniel.boelzle@sun.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,23 +34,22 @@
 #
 # ***** END LICENSE BLOCK *****
 
-# args: host
-accessingServerFailedError.text=%1$S 서버로 접속할 수 없습니다!
-loginFailed.text=로그인 실패 했거나 올바르지 않은 세션 ID 입니다.
-accessDenied.text=이 사용자는 접속을 거부당했습니다.
+#filter substitution
 
-# args: host
-noHttpsConfirmation.text=%1$S 로그인이 암호화 되지 않았습니다!\n계속하시겠습니까?
-noHttpsConfirmation.check.text=다시 묻지 않기
-noHttpsConfirmation.label=경고!
+# the default day to start the week on
+#0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
+pref("calendar.week.start", 0);
 
-# args: host, prodId, serverVersion, wcapVersion
-insufficientWcapVersionConfirmation.text=%1$S (%2$S, v%3$S, WCAP v%4$S) 서버가 적합한 WCAP 버전을 지원하지 않습니다! 3.0.0 이상의 버전의 필요합니다.\n계속하시겠습니까?
-insufficientWcapVersionConfirmation.label=부적합한 WCAP 버전입니다!
+# default days off (not in work week)
+pref("calendar.week.d0sundaysoff", true);
+pref("calendar.week.d1mondaysoff", false);
+pref("calendar.week.d2tuesdaysoff", false);
+pref("calendar.week.d3wednesdaysoff", false);
+pref("calendar.week.d4thursdaysoff", false);
+pref("calendar.week.d5fridaysoff", false);
+pref("calendar.week.d6saturdaysoff", true);
 
-# args: host
-loginDialog.label=캘린더 서버의 비밀번호가 필요합니다.
+pref("general.useragent.locale", "@AB_CD@");
 
-privateItem.title.text=개인
-confidentialItem.title.text=기밀
-busyItem.title.text=바쁨
+# categories
+pref("calendar.categories.names", "기념일,생일,엄무,호출,손님,시합,고객,선호,진행 사항,선물,휴가,아이디어,논의 사항,기타,개인,프로젝트,공휴일,상태,납품,여행,방학");

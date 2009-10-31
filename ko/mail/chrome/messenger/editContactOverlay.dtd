@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "삭제">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "이름:">
 <!ENTITY editContactName.accesskey "N">
 

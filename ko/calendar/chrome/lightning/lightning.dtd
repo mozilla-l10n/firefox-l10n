@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "이벤트…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "태스크…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "캘린더…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "열기">
@@ -61,13 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "캘린더 파일…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "초대">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
-<!ENTITY lightning.calendar.label            "캘린더">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "태스크">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "캘린더">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "태스크">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "이벤트와 태스크">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "메일">
@@ -77,15 +82,9 @@
 <!ENTITY lightning.toolbar.task.label         "태스크">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "도구 모음:">
-<!ENTITY customize.toolbar.selector.mode     "모드 도구 모음">
-<!ENTITY customize.toolbar.selector.mail     "메일 도구 모음">
-<!ENTITY customize.toolbar.selector.calendar "캘린더 도구 모음">
-<!ENTITY customize.toolbar.selector.task     "작업 도구 모음">
-<!ENTITY customize.toolbar.location.label    "위치:">
-<!ENTITY customize.toolbar.location.top      "위">
-<!ENTITY customize.toolbar.location.bottom   "아래">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "이벤트">
+<!ENTITY lightning.toolbar.newtask.label      "태스크">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "일별">
@@ -119,5 +118,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "감추기">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Today Pane 보기">
+<!ENTITY todaypane.showTodayPane.label "오늘 일정 보기">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "오늘 일정">

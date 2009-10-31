@@ -34,13 +34,12 @@
 <!ENTITY viewToolbarsMenu.label				"도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey			"T">
 <!ENTITY showTaskbarCmd.label					"상태 표시줄">
-<!ENTITY showTaskbarCmd.accesskey				"S">
+<!ENTITY showTaskbarCmd.accesskey				"u">
 <!ENTITY proxy.label                                    "프록시 설정…">
 <!ENTITY proxy.accesskey                                "C">
 <!ENTITY closeCmd.label			"닫기">
 <!ENTITY closeCmd.key			"W">
 <!ENTITY closeCmd.accesskey		"c">
-<!ENTITY closeWindow.label "창 닫기">
 <!ENTITY quitApplicationCmd.label	"종료">
 <!ENTITY quitApplicationCmd.key		"Q">
 <!ENTITY quitApplicationCmd.accesskey	"x">

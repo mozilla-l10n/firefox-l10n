@@ -1,12 +1,12 @@
 <!ENTITY prefWindow.titleWin "설정">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; 환경 설정">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title "일반">
 <!ENTITY paneDisplay.title "표시">
 <!ENTITY paneComposition.title "쓰기">
 <!ENTITY paneAttachments.title "첨부">
-<!ENTITY panePrivacy.title "개인 정보">
+<!ENTITY paneSecurity.title "보안">
 <!ENTITY paneAdvanced.title "고급">
-<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">

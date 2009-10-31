@@ -3,5 +3,5 @@
 <!ENTITY  newMessageCmd.label             "메시지">
 <!ENTITY  newMessageCmd.accesskey         "m">
 
-<!ENTITY  newCardCmd.label                "주소록 명함...">
-<!ENTITY  newCardCmd.accesskey            "c">
+<!ENTITY  newContactCmd.label                "주소록 연락처…">
+<!ENTITY  newContactCmd.accesskey            "C">

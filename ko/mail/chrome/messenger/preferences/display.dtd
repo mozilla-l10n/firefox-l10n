@@ -1,4 +1,6 @@
 <!ENTITY itemFormatting.label "서식">
+<!ENTITY itemTags.label "태그">
+
 <!ENTITY style.label "스타일:">
 <!ENTITY style.accesskey "y">
 <!ENTITY regularStyle.label "규칙">
@@ -13,29 +15,32 @@
 <!ENTITY color.label "글자색:">
 <!ENTITY color.accesskey "c">
 <!ENTITY displayWidth.label "일반 텍스트 메시지">
-<!ENTITY plainText.label "다음 글꼴을 사용:">
-<!ENTITY displayText.label "인용 처리된 메시지를 표시할 때:">
-<!ENTITY fixedWidth.label "고정폭 글꼴">
-<!ENTITY fixedWidth.accesskey "x">
-<!ENTITY variableWidth.label "가변폭 글꼴">
-<!ENTITY variableWidth.accesskey "V">
+<!ENTITY displayText.label "인용 처리된 메시지 표시할 때:">
 <!ENTITY colors.label "색상">
-<!ENTITY overrideColors.label "메시지 출력시에 다음 색상을 사용:">
+<!ENTITY overrideColors.label "메시지 출력시 다음 색상 사용:">
 <!ENTITY textColor.label "글꼴 색상:">
 <!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "배경 색상:">
 <!ENTITY backgroundColor.accesskey "b">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "표정 아이콘 표시">
 <!ENTITY convertEmoticons.accesskey "D">
-<!ENTITY fontAndEncodingsDescription.label "&brandShortName;에서 사용할 글꼴과 인코딩을 설정합니다.">
-<!ENTITY fontsAndEncodingsCaption.label "글꼴 및 인코딩">
-<!ENTITY fontOptions.accesskey "F">
-<!ENTITY fontOptions.label "글꼴 설정…">
-<!ENTITY itemTags.label "태그">
+
+<!-- labels -->
 <!ENTITY displayTagsText.label "태그는 메일 메시지의 내용을 분류하거나 순위를 제공해 쉽게 검색 할 수 있도록 도와 줍니다.">
 <!ENTITY addTagButton.label "추가">
 <!ENTITY addTagButton.accesskey "A">
 <!ENTITY editTagButton.label "편집">
 <!ENTITY editTagButton.accesskey "E">
 <!ENTITY removeTagButton.label "삭제">
-<!ENTITY removeTagButton.accesskey "l">
+<!ENTITY removeTagButton.accesskey "D">
+
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label "글꼴">
+<!ENTITY defaultFont.label "기본 글꼴:">
+<!ENTITY defaultFont.accesskey "D">
+<!ENTITY defaultSize.label "크기:">
+<!ENTITY defaultSize.accesskey "S">
+<!ENTITY fontOptions.accesskey "A">
+<!ENTITY fontOptions.label "고급 설정…">

@@ -3,9 +3,9 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "새로 만들기">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "주소록 명함…">
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
+<!ENTITY newContact.label "연락처…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "목록…">
 <!ENTITY newListCmd.accesskey "L">
 <!ENTITY newAddressBookCmd.label "주소록…">
@@ -23,13 +23,13 @@
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY printSetupCmd.label "인쇄 화면 설정…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCardViewCmd.label "명함 인쇄 미리 보기">
-<!ENTITY printPreviewCardViewCmd.accesskey "v">
+<!ENTITY printPreviewContactCmd.label "연락처 인쇄 미리 보기">
+<!ENTITY printPreviewContactCmd.accesskey "v">
 <!ENTITY printPreviewAddressBook.label "주소록 인쇄 미리 보기">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printCardViewCmd.label "명함 인쇄…">
-<!ENTITY printCardViewCmd.accesskey "p">
-<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printContactCmd.label "연락처 인쇄…">
+<!ENTITY printContactCmd.accesskey "P">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "주소록 인쇄…">
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY editMenu.label "편집">
@@ -52,10 +52,10 @@
 <!ENTITY deleteCmd.label "삭제">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "주소록 삭제">
-<!ENTITY deleteCardCmd.label "명함 삭제">
-<!ENTITY deleteCardsCmd2.label "명함 삭제">
-<!ENTITY deleteListCmd.label "리스트 삭제">
-<!ENTITY deleteListsCmd.label "리스트 삭제">
+<!ENTITY deleteContactCmd.label "연락처 삭제">
+<!ENTITY deleteContactsCmd.label "선택한 연락처 삭제">
+<!ENTITY deleteListCmd.label "목록 삭제">
+<!ENTITY deleteListsCmd.label "목록 삭제">
 <!ENTITY deleteItemsCmd.label "아이템 삭제">
 <!ENTITY selectAllCmd.label "전체 선택">
 <!ENTITY selectAllCmd.key "A">
@@ -77,8 +77,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "사용자 정의…">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showCardPane.label "명함 요약">
-<!ENTITY showCardPane.accesskey "C">
+<!ENTITY showContactPane.label "연락처 요약">
+<!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "이름 표시">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "이름 성 형식">
@@ -104,29 +104,28 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY newcardButton.label "새 명함">
-<!ENTITY newcardButton.accesskey "C">
+<!ENTITY newContactButton.label "새 연락처">
+<!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "새 목록">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "속성">
-<!ENTITY editButton.accesskey "P">
+<!ENTITY editButton2.label "속성">
+<!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "쓰기">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "메신저 메시지">
 <!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton.label "삭제">
-<!ENTITY deleteButton.accesskey "D">
-<!ENTITY throbberItem.title "활성도 지시자">
-<!ENTITY newcardButton.tooltip "새 주소록 명함 만들기">
+<!ENTITY deleteButton2.label "삭제">
+<!ENTITY deleteButton2.accesskey "D">
+<!ENTITY newContactButton.tooltip "새 연락처 만들기">
 <!ENTITY newlistButton.tooltip "새 목록 만들기">
-<!ENTITY editButton.tooltip "선택한 명함 편집">
+<!ENTITY editButton2.tooltip "선택한 연락처 편집">
 <!ENTITY newmsgButton.tooltip "새 메시지 만들기">
-<!ENTITY newIM.tooltip "인스턴트 메시지 보내기">
-<!ENTITY deleteButton.tooltip "선택한 주소록 또는 명함 삭제">
+<!ENTITY newIM.tooltip "인스턴트 메시지 또는 채팅 보내기">
+<!ENTITY deleteButton2.tooltip "선택한 항목 삭제">
 <!ENTITY dirTreeHeader.label "주소록">
 <!ENTITY SearchNameOrEmail.label "이름 및 메일 포함:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY advancedButton.tooltip "고급 주소록 검색">
+<!ENTITY advancedButton.tooltip "주소록 검색">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY GeneratedName.label "이름">
 <!ENTITY GeneratedName.accesskey "N">
@@ -135,7 +134,7 @@
 <!ENTITY ScreenName.label "표시명">
 <!ENTITY ScreenName.accesskey "S">
 <!ENTITY Company.label "조직">
-<!ENTITY Company.accesskey "O">
+<!ENTITY Company.accesskey "z">
 <!ENTITY NickName.label "애칭">
 <!ENTITY NickName.accesskey "i">
 <!ENTITY SecondEmail.label "추가 메일">
@@ -169,7 +168,7 @@
 <!ENTITY addresses.heading "주소">
 <!ENTITY mapItButton.label "지도 가져오기">
 <!ENTITY mapIt.tooltip "웹에서 주소에 대한 지도 표시">
-<!ENTITY statusText.label "상태 표시줄">
+<!ENTITY statusText.label "">
 <!ENTITY windowMenu.label "창">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "창 최소화">

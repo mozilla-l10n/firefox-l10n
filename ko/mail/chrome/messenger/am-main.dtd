@@ -12,15 +12,19 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "소속:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "서명 첨부:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "서명:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "HTML 사용 (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "(text, HTML, image) 파일로 서명 첨부:">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "편집…">
 <!ENTITY choose.label "선택…">
 <!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "명함 편집…">
+<!ENTITY editVCard.label "vCard 편집…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "명함 첨부">
+<!ENTITY attachVCard.label "vCard 첨부">
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY manageIdentities.label "아이디 관리…">
 <!ENTITY manageIdentities.accesskey "M">

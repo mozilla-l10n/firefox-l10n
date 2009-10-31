@@ -2,6 +2,8 @@
 <!ENTITY searchHeading.accesskey "h">
 <!ENTITY searchSubfolders.label "하위 폴더 검색">
 <!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchOnServer.label "서버에서 검색 실행">
+<!ENTITY searchOnServer.accesskey "u">
 <!ENTITY resetButton.label "초기화">
 <!ENTITY resetButton.accesskey "C">
 <!ENTITY openButton.label "열기">
@@ -15,8 +17,8 @@
 <!ENTITY fileButton.label "파일">
 <!ENTITY fileButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "편지함 열기">
-<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY openInFolder.label "폴더 열기">
+<!ENTITY openInFolder.accesskey "r">
 <!ENTITY saveAsVFButton.label "검색 폴더를 새 이름으로 저장">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!ENTITY abSearchHeading.label "검색:">
