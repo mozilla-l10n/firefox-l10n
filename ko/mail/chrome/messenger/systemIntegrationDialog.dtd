@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "시스템 통합">
+<!ENTITY defaultClient.intro  "&brandShortName;를 다음 항목의 기본 프로그램으로 사용:">
+
+<!ENTITY email.label "이메일">
+<!ENTITY newsgroups.label "뉴스 그룹">
+<!ENTITY feeds.label "피드">
+
+<!ENTITY checkOnStartup.label "&brandShortName; 시작 시 항상 확인">
+<!ENTITY checkOnStartup.accesskey "A">
+
+<!ENTITY searchIntegration.label "검색시 &searchIntegration.engineName; 엔진 사용 허가">
+<!ENTITY searchIntegration.accesskey "S">

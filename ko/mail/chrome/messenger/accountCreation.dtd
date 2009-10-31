@@ -1,0 +1,77 @@
+<!ENTITY autoconfigWizard.title          "메일 계정 설정">
+<!ENTITY name.label                      "이름:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "First Last">
+<!ENTITY name.text                       "다른 사람에게 보여줄 이름">
+<!ENTITY email.label                     "메일 주소:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "암호:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.emptytext              "암호">
+<!ENTITY password.text                   "옵션, 계정이름을 검증하기 위해 사용">
+
+<!ENTITY accountInformation.label        "계정 정보">
+<!ENTITY username2.label                 "계정 이름:">
+<!ENTITY incoming.label                  "받기 서버:">
+<!ENTITY outgoing.label                  "보내기 서버:">
+<!ENTITY noEncryption.label              "없음">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "수동 설정…">
+<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY cancel.label                    "취소">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "계속">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "다시 검사">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "중지">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "설정 재 테스트">
+<!ENTITY retest.accesskey                "R">
+<!ENTITY edit.label                      "편집">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "암호 저장">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "주의!">
+<!ENTITY incomingSettings.label          "받기 설정:">
+<!ENTITY outgoingSettings.label          "보내기 설정:">
+<!ENTITY technicaldetails.label          "기술 상세 정보">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "위험성을 잘 알고 있습니다.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "계정 생성">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "설정 변경">
+<!ENTITY changeSettings.accesskey        "S">
+
+<!ENTITY contactYourProvider.description "&brandShortName;는 제공된 설정을 이용하여 메일을 가져올 수 있습니다만, 이 부적절한 연결에 대하여 관리자나 이메일 제공자에게 문의를 해야 합니다. 이에 대해서 Thunderbird FAQ에서 더 많은 정보를 보실 수 있습니다.">
+
+<!ENTITY insecureServer.tooltip.title    "경고! 이 서버는 보안 서버가 아닙니다.">
+<!ENTITY insecureServer.tooltip.details  "circle을 클릭하면 상세 사항을 보실 수 있습니다.">
+
+<!ENTITY insecureUnencrypted.description "메일과 인증이 암호화 되지 않은 채 전송이 되므로, 다른 사람이 당신의 암호(와 메시지)를 읽을 수도 있습니다. &brandShortName;로 메일을 가져올 수 있지만, 보안 연결을 지원하는 이메일 제공자를 이용
+하는 것을 권장 합니다.">
+
+<!ENTITY insecureSelfSigned.description  "서버가 신뢰할 수 없는 인증서를 사용 하고 있으므로, 누군가 &brandShortName;와 서버 사이의 전송 내용을 가로챌 소지가 있습니다. &brandShortName;로 메일을 받을 수는 있지만, 신뢰할 수 있는 인증서를 사용한 서버를 설정하기 위하여 관리자나 메일 제공자에게 문의해야 합니다.">
+<!ENTITY secureServer.description        "축하 합니다.! 이 서버는 보안 연결을 지원 합니다.">

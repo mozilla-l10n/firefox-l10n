@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "컨텐츠 형식">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "실행 방식">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "검색">
+
+<!ENTITY saveTo.label                 "저장 경로:">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "파일을 저장할 때 항상 물어보기">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "선택…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "선택…">
+<!ENTITY chooseFolderMac.accesskey    "C">
