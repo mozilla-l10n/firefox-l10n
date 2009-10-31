@@ -229,7 +229,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Výchozí formát">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "f">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Zobrazit vloženou přílohu">
+<!ENTITY viewAttachmentsInlineCmd.label "Zobrazit přílohy ve zprávě">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "l">
 
 <!-- LOCALIZATION NOTE :
@@ -395,7 +395,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.accesskey "P">
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Přečtené vlákno">
-<!ENTITY markThreadAsReadCmd.accesskey "V">
+<!ENTITY markThreadAsReadCmd.accesskey "l">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Přečtené podle data…">
 <!ENTITY markReadByDateCmd.accesskey "d">
@@ -407,10 +407,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.accesskey "h">
 <!ENTITY markStarredCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Nevyžádaná">
-<!ENTITY markAsJunkCmd.accesskey "v">
+<!ENTITY markAsJunkCmd.accesskey "N">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Není nevyžádaná">
-<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.accesskey "e">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Spustit kontrolu pošty">
 <!ENTITY recalculateJunkScoreCmd.accesskey "S">
@@ -441,8 +441,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY filtersCmd.label "Třídící filtry zpráv…">
-<!ENTITY filtersCmd.accesskey "f">
+<!ENTITY filtersCmd.label "Filtry zpráv…">
+<!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Spustit filtry na složce">
 <!ENTITY filtersApply.accesskey "p">
 <!ENTITY filtersApplyToSelection.label "Spustit filtry na vybraných zprávách">

@@ -1,7 +1,7 @@
 <!ENTITY window.title "Pravidla filtru">
 
 <!ENTITY filterName.label "Název filtru:">
-<!ENTITY filterName.accesskey "f">
+<!ENTITY filterName.accesskey "N">
 
 <!ENTITY junk.label "Nevyžádaná">
 <!ENTITY notJunk.label "Není nevyžádaná">
@@ -13,19 +13,19 @@
 <!ENTITY highestPriorityCmd.label "Nejvyšší">
 
 <!ENTITY contextDesc.label "Použít filtr při:">
-<!ENTITY contextDesc.accesskey "P">
+<!ENTITY contextDesc.accesskey "f">
 <!ENTITY contextIncoming.label "kontrole pošty">
 <!ENTITY contextManual.label "manuálním spuštění">
 <!ENTITY contextBoth.label "kontrole pošty a manuálním spuštění">
 <!ENTITY contextPostPlugin.label "kontrole pošty po klasifikaci">
 <!ENTITY contextPostPluginBoth.label "kontrole pošty po klasifikaci a manuálním spuštění">
 <!ENTITY filterActionDesc.label "Provést akci:">
-<!ENTITY filterActionDesc.accesskey "a">
+<!ENTITY filterActionDesc.accesskey "P">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Přesunout zprávu do složky">
 <!ENTITY copyMessage.label "Kopírovat zprávu do složky">
-<!ENTITY forwardTo.label "Přeposlat na">
+<!ENTITY forwardTo.label "Přeposlat zprávu na">
 <!ENTITY replyWithTemplate.label "Odpovědět pomocí šablony">
 <!ENTITY markMessageRead.label "Označit jako přečtené">
 <!ENTITY markMessageStarred.label "Přidat hvězdičku">
@@ -33,7 +33,7 @@
 <!ENTITY addTag.label "Přiřadit štítek">
 <!ENTITY setJunkScore.label "Nastavit druh zprávy na">
 <!ENTITY deleteMessage.label "Smazat zprávu">
-<!ENTITY deleteFromPOP.label "Smazat z POP3 serveru">
+<!ENTITY deleteFromPOP.label "Smazat zprávu z POP serveru">
 <!ENTITY fetchFromPOP.label "Stáhnout tělo zprávy z POP serveru">
 <!ENTITY ignoreThread.label "Ignorovat vlákno">
 <!ENTITY ignoreSubthread.label "Ignorovat podvlákno">
