@@ -7,6 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "온라인 제품 소개서">
 <!ENTITY releaseCmd.accesskey "R">
+<!ENTITY whatsNewCmd.label "새로운 기능">
+<!ENTITY whatsNewCmd.accesskey "W">
+<!ENTITY featureConfiguratorCmd.label "마이그레이션 관리자">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "&brandShortName; 목차">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -15,6 +19,5 @@
 <!ENTITY openHelpMac2.modifiers "accel">
 
 <!ENTITY updateCmd.label "업데이트 확인…">
-<!ENTITY updateCmd.accesskey "o">
-<!ENTITY aboutCmd.label "&brandFullName; 정보">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutMenuCmd.label "&brandShortName; 정보">
+<!ENTITY aboutMenuCmd.accesskey "A">

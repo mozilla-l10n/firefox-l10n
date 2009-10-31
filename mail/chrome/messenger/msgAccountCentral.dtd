@@ -12,5 +12,5 @@
 <!ENTITY filtersLink.label "메시지 필터 만들기">
 <!ENTITY junkSettings.label "스팸 메일 설정">
 <!ENTITY offlineLink.label "오프라인 설정">
-<!ENTITY rssSectionHdr.label "RSS 뉴스 및 블로그">
-<!ENTITY subscibeRSS.label "Manage subscriptions">
+<!ENTITY feedsSectionHdr.label "피드">
+<!ENTITY subscribeFeeds.label "구독 관리">

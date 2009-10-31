@@ -3,80 +3,106 @@
 <!ENTITY itemUpdate.label "업데이트">
 <!ENTITY itemNetworking.label "네트워크 및 디스크 공간">
 <!ENTITY itemCertificates.label "인증서">
-<!ENTITY enableGloda.label "메세지 색인 사용함">
-<!ENTITY enableGloda.accesskey         "i">
-<!ENTITY showCondensedAddresses.label "주소록에서 사람에 대한 표시명만 보이기">
-<!ENTITY showCondensedAddresses.accesskey "p">
-<!ENTITY autoMarkAsRead.label "메시지에 자동으로 읽음 표시">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "출력 후 즉시">
-<!ENTITY markAsReadNoDelay.accesskey "d">
-<!ENTITY markAsReadDelay.label "다음 시간 경과시에 읽음 표시: ">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "초">
-<!ENTITY showFolderColumns.label "폴더의 모든 항목 보이기">
-<!ENTITY showFolderColumns.accesskey "l">
-<!ENTITY reuseExpRadio0.label "새 메시지 창">
-<!ENTITY reuseExpRadio0.accesskey "i">
-<!ENTITY reuseExpRadio1.label "기존 메시지 창">
-<!ENTITY reuseExpRadio1.accesskey "x">
-<!ENTITY configEditDesc.label "고급 설정">
-<!ENTITY configEdit.label "설정 편집…">
-<!ENTITY configEdit.accesskey "g">
-<!ENTITY returnReceiptsInfo.label "수신 확인 메시지 설정">
-<!ENTITY showReturnReceipts.label "수신 확인…">
-<!ENTITY showReturnReceipts.accesskey "R">
+
+<!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "전체 검색 및 색인 사용함">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY systemIntegration.label       "시스템 통합">
+<!ENTITY alwaysCheckDefault.label      "시작시 &brandShortName;가 기본 메일 프로그램인지 항상 확인">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "검색시 &searchIntegration.engineName; 엔진 사용 허가">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkNow.label                "지금 확인">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "고급 설정">
+<!ENTITY configEdit.label              "설정 편집…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "수신 확인 메시지 설정">
+<!ENTITY showReturnReceipts.label      "수신 확인…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "읽기">
-<!ENTITY display.caption                "표시">
-<!ENTITY autoCheck.label "자동으로 업데이트 검사:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "설치된 부가 기능">
-<!ENTITY enableAddonsUpdate.accesskey "x">
-<!ENTITY checkNow.label "지금 확인">
-<!ENTITY whenUpdatesFound.label "&brandShortName;의 업데이트를 찾으면:">
-<!ENTITY modeAskMe.label "물어 보기">
-<!ENTITY modeAskMe.accesskey "k">
-<!ENTITY modeAutomatic.label "자동으로 업데이트 설치">
-<!ENTITY modeAutomatic.accesskey "m">
-<!ENTITY modeAutoAddonWarn.label "부가 기능을 사용할 수 없을 경우 경고하기">
-<!ENTITY modeAutoAddonWarn.accesskey "-">
-<!ENTITY showUpdates.label "업데이트 기록 보기">
-<!ENTITY showUpdates.accesskey "y">
-<!ENTITY showSettings.label "연결 설정…">
-<!ENTITY showSettings.accesskey "n">
-<!ENTITY proxiesConfigure.label "&brandShortName; 인터넷 연결 방식 설정">
-<!ENTITY connectionsInfo.caption "연결">
-<!ENTITY offlineInfo.caption "오프라인">
-<!ENTITY offlineInfo.label "오프라인 설정">
-<!ENTITY showOffline.label "오프라인…">
-<!ENTITY showOffline.accesskey "O">
+<!ENTITY reading.caption               "읽기">
+<!ENTITY display.caption               "표시">
+<!ENTITY showCondensedAddresses.label  "주소록에서 사람에 대한 표시명만 보이기">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label          "메시지에 자동으로 읽음 표시">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "출력 후 즉시">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "다음 시간 경과시에 읽음 표시: ">
+<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY secondsLabel.label            "초">
+<!ENTITY openMsgIn.label               "메시지 열기:">
+<!ENTITY openMsgInNewTab.label         "새 탭">
+<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY reuseExpRadio0.label          "새 메시지 창">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "기존 메시지 창">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgWindowOnDelete.label  "삭제시 메시지 창 닫기">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "자동으로 업데이트 검사:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "설치된 부가 기능">
+<!ENTITY enableAddonsUpdate.accesskey   "A">
+<!ENTITY whenUpdatesFound.label         "&brandShortName;의 업데이트를 찾으면:">
+<!ENTITY modeAskMe.label                "물어 보기">
+<!ENTITY modeAskMe.accesskey            "m">
+<!ENTITY modeAutomatic.label            "자동으로 업데이트 설치">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoAddonWarn.label        "부가 기능을 사용할 수 없을 경우 경고하기">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
+<!ENTITY showUpdates.label              "업데이트 기록 보기">
+<!ENTITY showUpdates.accesskey          "S">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "연결 설정…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "&brandShortName; 인터넷 연결 방식 설정">
+<!ENTITY connectionsInfo.caption       "연결">
+<!ENTITY offlineInfo.caption           "오프라인">
+<!ENTITY offlineInfo.label             "오프라인 설정">
+<!ENTITY showOffline.label             "오프라인…">
+<!ENTITY showOffline.accesskey         "O">
+
 <!ENTITY Diskspace "디스크 공간">
-<!ENTITY offlineCompact.label "지정된 용량 이상의 저장 시에는 폴더 압축하기">
-<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY offlineCompact.label "지정된 용량 이상 저장 시 폴더 압축">
+<!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
-The entities useCacheBefore.label and useCacheAfter.label appear on a single
-line in preferences as follows:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
 
-&useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label            "페이지 캐쉬">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB 까지 사용">
+<!ENTITY useCacheAfter.label             "MB 까지 캐쉬 사용">
 <!ENTITY clearCacheNow.label             "지금 삭제">
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY viewCertificates.label "인증서 보기">
-<!ENTITY viewCertificates.accesskey "a">
-<!ENTITY viewCRLs.label "인증서 폐기 목록">
-<!ENTITY viewCRLs.accesskey "e">
-<!ENTITY validation.label "인증서 유효성 확인">
-<!ENTITY validation.accesskey "d">
-<!ENTITY viewSecurityDevices.label "보안 장치">
-<!ENTITY viewSecurityDevices.accesskey "u">
-<!ENTITY openMsgIn.label "Open messages in:">
+<!ENTITY certSelection.description       "서버가 사설 인증서를 요청할 경우:">
+<!ENTITY certs.auto                      "자동으로 선택">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "매번 물어보기">
+<!ENTITY certs.ask.accesskey             "A">
+
+<!-- Certificates -->
+<!ENTITY viewCertificates.label         "인증서 보기">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewCRLs.label                 "인증서 폐기 목록">
+<!ENTITY viewCRLs.accesskey             "R">
+<!ENTITY validation.label               "인증서 유효성 확인">
+<!ENTITY validation.accesskey           "V">
+<!ENTITY viewSecurityDevices.label      "보안 장치">
+<!ENTITY viewSecurityDevices.accesskey  "S">

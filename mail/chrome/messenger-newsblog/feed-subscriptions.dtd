@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS 구독">
-<!ENTITY subscriptionDesc.label "RSS 구독 관리자.">
+<!ENTITY feedSubscriptions.label "피드 구독">
+<!ENTITY subscriptionDesc.label "알림: 폴더 변경 및 삭제가 이전에 받은 기사에는 영향을 주지 않습니다.">
 <!ENTITY feedTitle.label "제목:">
 <!ENTITY location.label  "주소:">
 <!ENTITY button.addFeed.label       "추가">

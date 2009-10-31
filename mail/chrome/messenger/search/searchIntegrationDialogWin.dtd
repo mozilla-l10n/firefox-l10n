@@ -1,7 +1,0 @@
-<!ENTITY searchIntegration.engineName "외부 검색 도구">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; 통합">
-<!ENTITY searchIntegration.description "&searchIntegration.engineName;에 메일 검색을 허용하십니까?ough &brandShortName; mail and news messages?">
-
-<!ENTITY searchIntegration.accept "&searchIntegration.engineName; 사용">
-<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; 사용 안함">
-

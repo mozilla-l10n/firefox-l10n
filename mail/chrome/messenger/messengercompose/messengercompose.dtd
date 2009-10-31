@@ -7,8 +7,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "주소록 명함…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "주소록 연락처…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "첨부">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "파일 첨부…">
@@ -59,7 +59,8 @@
 <!ENTITY pasteCmd.label "붙여넣기">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY pasteNoFormattingCmd.key	"V">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "재보호">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "삭제">
@@ -83,6 +84,7 @@
 <!ENTITY viewToolbarsMenuNew.label "도구 모음">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "작성 도구 모음">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "형식 도구 모음">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "상태 표시줄">
@@ -95,10 +97,10 @@
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY optionsMenu.label "설정">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "맞춤법 검사…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "맞춤법 검사…">
+<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "맞춤법 검사">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "메시지 인용">
@@ -140,7 +142,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "주소록">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "계정…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
@@ -159,7 +161,6 @@
 <!ENTITY attachButton.label "첨부">
 <!ENTITY spellingButton.label "맞춤법">
 <!ENTITY saveButton.label "저장">
-<!ENTITY throbberItem.title "활성도 지시자">
 <!ENTITY sendButton.tooltip "지금 보내기">
 <!ENTITY sendlaterButton.tooltip "나중에 보내기">
 <!ENTITY quoteButton.tooltip "이전 메시지 인용">
@@ -217,6 +218,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "삭제">
 <!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "첨부파일 삭제">
+<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "새 이름으로 저장…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "모두 선택">

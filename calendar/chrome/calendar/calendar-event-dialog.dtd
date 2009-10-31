@@ -1,4 +1,4 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -19,7 +19,14 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   C?dric Corazza <cedric.corazza@wanadoo.fr>
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Michael Buettner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,27 +44,339 @@
 
 <!ENTITY event.title.label                  "항목 편집" >
 
+
 <!ENTITY newevent.from.label                "개시일" >
 <!ENTITY newevent.to.label                  "종료일" >
-<!ENTITY newevent.attendees.sendEmail.label "참가자에게 초대 메일 보내기">
+<!ENTITY newevent.attendees.notify.label    "참석자 알림">
 
-<!ENTITY newevent.status.label              "상태" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "지정 없음" >
-<!ENTITY newevent.status.cancelled.label    "취소됨" >
-<!ENTITY newevent.status.tentative.label    "임시" >
-<!ENTITY newevent.status.confirmed.label    "확인됨" >
-<!ENTITY newevent.status.needsaction.label  "처리 요망" >
-<!ENTITY newevent.status.inprogress.label   "진행 중" >
-<!ENTITY newevent.status.completed.label    "완료됨" >
+<!ENTITY newevent.status.label                "상태" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "지정 없음" >
+<!ENTITY newevent.status.none.accesskey       "o" >
+<!ENTITY newevent.status.cancelled.label      "취소됨" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.tentative.label      "임시" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
+<!ENTITY newevent.status.confirmed.label      "확인됨" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
+<!ENTITY newevent.status.needsaction.label    "처리 요망" >
+<!ENTITY newevent.status.inprogress.label     "진행 중" >
+<!ENTITY newevent.status.completed.label      "완료" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 완료">
 
-<!-- Alarm -->
-<!ENTITY alarm.units.minutes                "분" >
-<!ENTITY alarm.units.hours                  "시간" >
-<!ENTITY alarm.units.days                   "일" >
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "파일">
+<!ENTITY  event.menu.file.accesskey                       "F">
+<!ENTITY  event.menu.file.new.label                       "새로 만들기">
+<!ENTITY  event.menu.file.new.accesskey                   "N">
+<!ENTITY  event.menu.file.new.event.label                 "이벤트">
+<!ENTITY  event.menu.file.new.event.accesskey             "E">
+<!ENTITY  event.menu.file.new.message.label               "메시지">
+<!ENTITY  event.menu.file.new.message.accesskey           "M">
+<!ENTITY  event.menu.file.new.contact.label               "Address Book Contact">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
+<!ENTITY  event.menu.file.close.label                     "닫기">
+<!ENTITY  event.menu.file.close.accesskey                 "C">
+<!ENTITY  event.menu.file.save.label                      "저장">
+<!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.item.delete.label                    "삭제…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
+<!ENTITY  event.menu.file.page.setup.label                "페이지 설정">
+<!ENTITY  event.menu.file.page.setup.accesskey            "u">
+<!ENTITY  event.menu.file.print.label                     "인쇄">
+<!ENTITY  event.menu.file.print.accesskey                 "P">
 
-<!ENTITY newevent.before.label              "전" >
-<!ENTITY newevent.after.label               "후" >
+<!ENTITY  event.menu.edit.label                           "편집">
+<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.undo.label                      "취소">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
+<!ENTITY  event.menu.edit.redo.label                      "재실행">
+<!ENTITY  event.menu.edit.redo.accesskey                  "R">
+<!ENTITY  event.menu.edit.cut.label                       "잘라내기">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
+<!ENTITY  event.menu.edit.copy.label                      "복사">
+<!ENTITY  event.menu.edit.copy.accesskey                  "C">
+<!ENTITY  event.menu.edit.paste.label                     "붙여넣기">
+<!ENTITY  event.menu.edit.paste.accesskey                 "P">
+<!ENTITY  event.menu.edit.select.all.label                "모두 선택">
+<!ENTITY  event.menu.edit.select.all.accesskey            "A">
+
+<!ENTITY  event.menu.view.label                           "보기">
+<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.toolbars.label                  "도구모음">
+<!ENTITY  event.menu.view.toolbars.accesskey              "T">
+<!ENTITY  event.menu.view.toolbars.event.label            "이벤트 도구 모음">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
+<!ENTITY  event.menu.view.toolbars.customize.label        "사용자 정의…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
+<!ENTITY  event.menu.view.showlink.label                  "관련 링크 보기">
+<!ENTITY  event.menu.view.showlink.accesskey              "R">
+
+<!ENTITY  event.menu.options.label                            "옵션">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attachments.label                "웹 페이지 첨부…">
+<!ENTITY  event.menu.options.attachments.accesskey            "W">
+<!ENTITY  event.menu.options.attendees.label                  "참석자 초대…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.spellcheck.label                 "철자 검사…">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "Spell Check As You Type">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
+<!ENTITY  event.menu.options.link.label                       "링크 추가…">
+<!ENTITY  event.menu.options.link.accesskey                   "L">
+<!ENTITY  event.menu.options.timezone.label                   "시간대">
+<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.priority2.label                  "중요도">
+<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority.notspecified.label      "지정 안됨">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.low.label               "낮음">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "보통">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "높음">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "공개여부">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "공개 이벤트">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "날자와 시간만 공개">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
+<!ENTITY  event.menu.options.privacy.private.label            "비공개 이벤트">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "시간 순">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.busy.label             "일정 있음">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.free.label             "일정 없음">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
+
+<!ENTITY event.help.label                                 "도움말">
+<!ENTITY event.help.accesskey                             "H">
+<!ENTITY event.help.release.notes.label                   "제품 소개서">
+<!ENTITY event.help.release.notes.accesskey               "R">
+<!ENTITY event.help.help.label                            "&brandShortName; 도움말">
+<!ENTITY event.help.help.accesskey                        "H">
+<!ENTITY event.help.about.label                           "&brandShortName; 정보">
+<!ENTITY event.help.about.accesskey                       "A">
+
+<!ENTITY event.invite.attendees.label                     "참석자 초대…">
+<!ENTITY event.invite.attendees.accesskey                 "I">
+<!ENTITY event.email.attendees.label                      "모든 참석자에게 이메일 작성…">
+<!ENTITY event.email.attendees.accesskey                  "A">
+<!ENTITY event.email.tentative.attendees.label            "결정안된 참석자에게 이메일 작성…">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "저장 후 종료">
+<!ENTITY  event.toolbar.delete.label                      "삭제">
+<!ENTITY  event.toolbar.attendees.label                   "초대">
+<!ENTITY  event.toolbar.spellcheck.label                  "철자 검사">
+<!ENTITY  event.toolbar.privacy.label                     "공개여부">
+<!ENTITY  event.toolbar.attachments.label                 "첨부파일">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "제목:" >
+<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.location.label                             "위치:" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "분류:">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.calendar.label                             "캘린더:" >
+<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.attendees.label                            "참석자:" >
+<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.alldayevent.label                          "전일 이벤트" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "시작:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "시작:" >
+<!ENTITY task.from.accesskey                              "B">
+<!ENTITY event.to.label                                   "종료:" >
+<!ENTITY event.to.accesskey                               "n">
+<!ENTITY task.to.label                                    "종료 날자:" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "상태:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "되풀이:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.reminder.label                             "알림:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "설명:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "첨부파일:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.popup.remove.label             "삭제" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "열기" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "모두 삭제" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "웹페이지 첨부…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+<!ENTITY event.url.label                                  "관련 링크:" >
+<!ENTITY event.priority2.label                            "중요도:">
+
+<!ENTITY event.reminder.none.label                        "알림 없음 " >
+<!ENTITY event.reminder.5minutes.before.label             "5분 전" >
+<!ENTITY event.reminder.10minutes.before.label            "10분 전" >
+<!ENTITY event.reminder.15minutes.before.label            "15분 전" >
+<!ENTITY event.reminder.30minutes.before.label            "30분 전" >
+<!ENTITY event.reminder.45minutes.before.label            "45분 전" >
+<!ENTITY event.reminder.1hour.before.label                "1시간 전" >
+<!ENTITY event.reminder.2hours.before.label               "2시간 전" >
+<!ENTITY event.reminder.5hours.before.label               "5시간 전" >
+<!ENTITY event.reminder.15hours.before.label              "15시간 전" >
+<!ENTITY event.reminder.1day.before.label                 "1일 전" >
+<!ENTITY event.reminder.2days.before.label                "2일 전" >
+<!ENTITY event.reminder.1week.before.label                "1주 전" >
+<!ENTITY event.reminder.custom.label                      "사용자 정의…" >
+
+<!ENTITY event.reminder.multiple.label                    "다중 알림…" >
+
+<!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "Edit Recurrence">
+
+<!ENTITY event.repeat.does.not.repeat.label             "되풀이 안함">
+<!ENTITY event.repeat.daily.label                       "Daily">
+<!ENTITY event.repeat.weekly.label                      "Weekly">
+<!ENTITY event.repeat.every.weekday.label               "매주">
+<!ENTITY event.repeat.bi.weekly.label                   "Bi-weekly">
+<!ENTITY event.repeat.monthly.label                     "Monthly">
+<!ENTITY event.repeat.yearly.label                      "Yearly">
+<!ENTITY event.repeat.custom.label                      "사용자 정의…">
+
+<!ENTITY event.recurrence.pattern.label                 "Recurrence pattern">
+<!ENTITY event.recurrence.occurs.label                  "되풀이" >
+<!ENTITY event.recurrence.day.label                     "daily" >
+<!ENTITY event.recurrence.week.label                    "weekly" >
+<!ENTITY event.recurrence.month.label                   "monthly" >
+<!ENTITY event.recurrence.year.label                    "annually" >
+
+<!ENTITY event.recurrence.pattern.every.label           "Every" >
+<!ENTITY repeat.units.days.both                         "Day(s)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "매주" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Every" >
+<!ENTITY repeat.units.weeks.both                        "Week(s)" >
+<!ENTITY event.recurrence.on.label                      "On:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Every" >
+<!ENTITY repeat.units.months.both                       "Month(s)" >
+<!ENTITY event.recurrence.monthly.every.label           "Every" >
+<!ENTITY event.recurrence.monthly.first.label           "첫번째">
+<!ENTITY event.recurrence.monthly.second.label          "두번째">
+<!ENTITY event.recurrence.monthly.third.label           "세번째">
+<!ENTITY event.recurrence.monthly.fourth.label          "네번째">
+<!ENTITY event.recurrence.monthly.fifth.label           "다섯번째">
+<!ENTITY event.recurrence.monthly.last.label            "마지막">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "일요일" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "월요일" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "화요일" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "수요일" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "목요일" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "금요일" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "일요일" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Day of the month">
+<!ENTITY event.recurrence.repeat.recur.label            "Recur on day(s)">
+
+<!ENTITY event.recurrence.every.label                        "Every:" >
+<!ENTITY repeat.units.years.both                             "Year(s)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Every" >
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "1월" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "2월" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "3월" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "4월" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "5월" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "6월" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "7월" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "8월" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "9월" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "10월" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "11월" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "12월" >
+<!ENTITY event.recurrence.yearly.every.label                 "Every">
+<!ENTITY event.recurrence.yearly.first.label                 "첫번째">
+<!ENTITY event.recurrence.yearly.second.label                "두번째">
+<!ENTITY event.recurrence.yearly.third.label                 "세번째">
+<!ENTITY event.recurrence.yearly.fourth.label                "네번째">
+<!ENTITY event.recurrence.yearly.fifth.label                 "다섯번째">
+<!ENTITY event.recurrence.yearly.last.label                  "마지막">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "일요일" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "월요일" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "화요일" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "수요일" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "목요일" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "금요일" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "토요일" >
+<!ENTITY event.recurrence.of.label                           "of" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "1월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "2월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "3월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "4월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "5월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "6월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "7월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "8월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "9월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "10월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "11월" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "12월" >
+
+<!ENTITY event.recurrence.range.label                   "Range of recurrence">
+<!ENTITY event.recurrence.forever.label                 "종료일 없음" >
+<!ENTITY event.recurrence.repeat.for.label              "생성" >
+<!ENTITY event.recurrence.appointments.label            "Appointment(s)" >
+<!ENTITY event.repeat.until.label                       "Repeat until" >
+<!ENTITY event.recurrence.preview.label                 "미리보기">
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "참석자 초대">
+<!ENTITY event.organizer.label                  "조직">
+<!ENTITY event.freebusy.suggest.slot            "시간 슬롯:">
+<!ENTITY event.freebusy.next.slot               "다음 슬롯 " >
+<!ENTITY event.freebusy.previous.slot           " 이전 슬롯" >
+<!ENTITY event.freebusy.zoom                    "확대:">
+<!ENTITY event.freebusy.plus                    "다음 시간" >
+<!ENTITY event.freebusy.minus                   "이전 시간" >
+<!ENTITY event.freebusy.legend.free             "일정 없음" >
+<!ENTITY event.freebusy.legend.busy             "일정 있음" >
+<!ENTITY event.freebusy.legend.busy_tentative   "임시" >
+<!ENTITY event.freebusy.legend.busy_unavailable "외근" >
+<!ENTITY event.freebusy.legend.unknown          "정보 없음" >
+<!ENTITY event.attendee.role.required           "필수 참석자">
+<!ENTITY event.attendee.role.optional           "추가 참석자">
+<!ENTITY event.attendee.role.chair              "이끌이">
+
+<!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "시간대를 지정 하십시오.">
+
+<!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "General">
+<!ENTITY read.only.title.label           "제목:">
+<!ENTITY read.only.repeat.label          "되풀이:">
+<!ENTITY read.only.location.label        "위치:">
+<!ENTITY read.only.category.label        "분류:">
+<!ENTITY read.only.organizer.label       "조직:">
+<!ENTITY read.only.reply.label           "회신:">
+<!ENTITY read.only.accept.label          "참석함">
+<!ENTITY read.only.decline.label         "참석 못함">
+<!ENTITY read.only.tentative.label       "참석 미정">
+<!ENTITY read.only.needs.action.label    "나중에 결정">
+<!ENTITY read.only.reminder.label        "알림:">
+<!ENTITY read.only.attendees.label       "참석자">
+<!ENTITY read.only.description.label     "설명">
+<!ENTITY read.only.documents.label       "문서">
+<!ENTITY read.only.link.label            "관련 링크">

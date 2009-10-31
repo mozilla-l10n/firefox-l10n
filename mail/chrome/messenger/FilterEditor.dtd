@@ -9,11 +9,13 @@
 <!ENTITY highPriorityCmd.label "상위">
 <!ENTITY highestPriorityCmd.label "최상위">
 
-<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.label "필터 적용:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextIncoming.label "메일 확인 시">
+<!ENTITY contextManual.label "수동으로 실행">
+<!ENTITY contextBoth.label "메일 확인 시 또는 수동으로 실행">
+<!ENTITY contextPostPlugin.label "메일 확인 시 (분류 후)">
+<!ENTITY contextPostPluginBoth.label "메일 확인 시 (분류 후) 또는 수동으로 실행">
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">
 

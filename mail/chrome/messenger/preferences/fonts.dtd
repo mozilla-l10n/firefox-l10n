@@ -2,19 +2,24 @@
 <!ENTITY window.width "39em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
+
 <!ENTITY language.label "언어">
 <!ENTITY language.accesskey "t">
-<!ENTITY sizes.label "크기 (픽셀)">
+
+<!ENTITY size.label "크기:">
 <!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY sizeMono.accesskey "i">
+
 <!ENTITY proportional.label "가변폭 글꼴:">
 <!ENTITY proportional.accesskey "P">
+
 <!ENTITY serif.label "명조체:">
 <!ENTITY serif.accesskey "s">
 <!ENTITY sans-serif.label "고딕체:">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "고정폭 글꼴:">
 <!ENTITY monospace.accesskey "m">
+
 <!ENTITY font.langGroup.latin1 "서유럽어">
 <!ENTITY font.langGroup.latin2 "중앙 유럽어">
 <!ENTITY font.langGroup.japanese "일본어">
@@ -42,17 +47,29 @@
 <!ENTITY font.langGroup.gurmukhi "구르무키 글자">
 <!ENTITY font.langGroup.khmer "크메르어">
 <!ENTITY font.langGroup.malayalam "말라야람어">
+
+<!-- Minimum font size -->
 <!ENTITY minSize.label "최소 크기:">
 <!ENTITY minSize.accesskey "z">
 <!ENTITY minSize.none "없음">
+
+<!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "명조체">
 <!ENTITY useDefaultFontSansSerif.label "고딕체">
+
+<!-- fonts in message -->
+<!ENTITY  fontControl.label "글꼴 제어">
+<!ENTITY  useFixedWidthForPlainText.label "평문 메시지에 고정폭 글꼴 사용">
+<!ENTITY  fixedWidth.accesskey "x">
 <!ENTITY useDocumentFonts.label "문서에서 지정한 글꼴 사용 허용">
 <!ENTITY useDocumentFonts.accesskey "o">
+
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "보내는 메일:">
 <!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle1.label "Character Encodings">
+<!ENTITY languagesTitle1.label "문자 인코딩">
 <!ENTITY composingDescription.label "메일을 보내고 받을 때 사용할 문자 인코딩 설정">
+
 <!ENTITY viewDefaultCharsetList.label "받는 메일:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
 <!ENTITY replyInDefaultCharset2.label "가능하면 회신할 때 기본 문자 인코딩 사용">

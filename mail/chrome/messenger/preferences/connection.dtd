@@ -1,5 +1,6 @@
 <!ENTITY connectionsDialog.title "인터넷 연결 설정">
 <!ENTITY window.width "37em">
+
 <!ENTITY proxyTitle.label "프록시 설정">
 <!ENTITY noProxyTypeRadio.label "프록시 사용 안함">
 <!ENTITY noProxyTypeRadio.accesskey "y">
@@ -31,6 +32,6 @@
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "프록시 사용 안 함:">
 <!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "예: .mozilla.or.kr, .net.nz">
+<!ENTITY noproxyExplain.label "예: .mozilla.or.kr, .net.nz 192.168.1.0/24">
 <!ENTITY shareproxy.label "이 프록시 서버를 모든 프로토콜에 적용">
 <!ENTITY shareproxy.accesskey "x">

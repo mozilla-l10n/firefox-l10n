@@ -32,7 +32,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "메일 서버 (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
+<!ENTITY haveSmtp1.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY loginTitle.label "사용자 이름">
 <!ENTITY usernameDesc.label "사용자의 로그인 이름을 입력하십시오.">
 <!ENTITY usernameExample.label "(예, &quot;jsmith&quot;)">
@@ -42,9 +42,9 @@
 <!ENTITY usernameSmtpLabel.label "계정 아이디:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix "계정 아이디 &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
+<!ENTITY haveSmtp2.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY haveSmtp3.prefix "메일 서버 (SMTP) &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;은(는) 메일 서버로 확인되었습니다. 계정 사용이 허가되었습니다. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
+<!ENTITY haveSmtp3.suffix2 "&quot;은(는) 메일 서버로 확인되었습니다. 계정 사용이 허가되었습니다. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY accnameTitle.label "계정 이름">
 <!ENTITY accnameDesc.label "참조할 계정 이름을 입력하십시오.">
 <!ENTITY accnameLabel.label "계정 이름:">
@@ -56,7 +56,9 @@
 <!ENTITY smtpServerNamePrefix.label "보내는 서버 (SMTP):">
 <!ENTITY newsServerNamePrefix.label "뉴스 서버 이름 (NNTP):">
 <!ENTITY downloadOnLogin.label "메시지 지금 받기">
+<!ENTITY downloadOnLogin.accesskey	"D">
 <!ENTITY deferStorageDesc.label "설정한 계정의 디렉토리에 메일을 저장하려면 체크 박스의 체크를 제거하십시오. 이는 이 계정이 상단에 나타남을 의미합니다. 반면에 로컬 폴더의 전체 메일함 계정의 일부분으로 취급됩니다.">
+<!ENTITY deferStorage.accesskey		"G">
 <!ENTITY deferStorage.label "전체 메일함 사용 (로컬 폴더에 메일 저장)">
 <!ENTITY clickFinish.label "이 설정을 저장하려면 완료를 눌러 계정 마법사를 종료하십시오.">
 <!ENTITY clickFinish.labelMac "현재 설정을 저장하고 계정 마법사를 종료 하려면 완료를 선택하십시오.">

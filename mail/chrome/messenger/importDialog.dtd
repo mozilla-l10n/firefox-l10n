@@ -1,9 +1,15 @@
 <!ENTITY importDialog.windowTitle "가져오기">
-<!ENTITY importDialog.allTitle    "모두 가져오기">
-<!ENTITY importDialog.mailTitle "메일">
-<!ENTITY importDialog.addressbookTitle "주소록">
-<!ENTITY importDialog.settingsTitle "설정">
-<!ENTITY importDialog.filtersTitle "필터">
+<!ENTITY importAll.label          "전체 가져오기">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "메일">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "주소록">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "설정">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "필터">
+<!ENTITY importFilters.accesskey  "F">
+
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "&brandShortName; 가져오기 마법사">
@@ -11,6 +17,7 @@
 <!ENTITY importDescription1.label "이 마법사는 다른 프로그램의 메일 메시지, 주소록, 설정, 필터 등을 가져와 &brandShortName;에서 사용할 수 있도록 합니다.">
 <!ENTITY importDescription2.label "일단 가져오기가 완료되면 &brandShortName;에서 사용할 수 있게 됩니다.">
 <!ENTITY selectDescription.label "가져오기를 할 파일 형식을 선택하십시오:">
+<!ENTITY selectDescription.accesskey "P">
 <!ENTITY back.label "&lt; 이전">
 <!ENTITY forward.label "다음 &gt;">
 <!ENTITY finish.label "종료">
@@ -21,5 +28,7 @@
 <!ENTITY FieldDiscInputText1.label "넷스케이프 4.x는 각 명함에 대하여 하나의 메일 설정이 있지만 &brandShortName;는 두 개의 설정이 있습니다.">
 <!ENTITY FieldDiscInputText2.label "가져온 메일 주소 저장 분류 선택:">
 <!ENTITY FieldDiscWarning.label "이 분류는 선택한 모든 메일 주소에 사용 가능:">
-<!ENTITY importDialog.homeTitle "자택">
-<!ENTITY importDialog.workTitle "직장">
+<!ENTITY importHome.label        "집">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "직장">
+<!ENTITY importWork.accesskey    "W">

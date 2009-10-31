@@ -1,17 +1,27 @@
 <!ENTITY securityTitle.label "보안 설정">
+<!ENTITY securityTab.label		"보안">
 <!ENTITY securityHeading.label "서명 또는 암호화 된 메시지를 보내고 받기 위해서는 유효한 인증서를 사용해야 합니다.">
 <!ENTITY encryptionGroupTitle.label "암호화">
 <!ENTITY encryptionChoiceLabel.label "메시지 보낼 때 기본 암호 설정:">
 <!ENTITY neverEncrypt.label "암호화 사용하지 않음">
+<!ENTITY neverEncrypt.accesskey		"N">
 <!ENTITY alwaysEncryptMessage.label "암호화 사용함 (개인 인증서 필요)">
+<!ENTITY alwaysEncryptMessage.accesskey	"u">
+<!ENTITY digitalSign.certificate.button	"선택…">
+<!ENTITY digitalSign.certificate.accesskey	"S">
+<!ENTITY digitalSign.certificate_clear.button	"제거">
+<!ENTITY digitalSign.certificate_clear.accesskey	"C">
+<!ENTITY encryption.certificate.button	"선택…">
+<!ENTITY encryption.certificate.accesskey	"t">
+<!ENTITY encryption.certificate_clear.button	"제거">
+<!ENTITY encryption.certificate_clear.accesskey	"e">
 <!ENTITY encryptionCert.message "다음 개인 인증서 사용:">
-<!ENTITY certificate.button "선택…">
-<!ENTITY certificate_clear.button "제거">
 <!ENTITY signingGroupTitle.label "디지털 서명">
 <!ENTITY signMessage.label "디지털 서명 메시지 (기본)">
+<!ENTITY signMessage.accesskey		"D">
 <!ENTITY signingCert.message "다음 개인 인증서 사용:">
 <!ENTITY certificates.label     "인증서 관리">
-<!ENTITY managecerts.label      "인증서 및 보안 장치 관리">
-<!ENTITY managecerts.accesskey  "V">
-<!ENTITY managedevices.label    "보안 장치 관리">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY manageCerts.label      "인증서 및 보안 장치 관리">
+<!ENTITY manageCerts.accesskey  "V">
+<!ENTITY manageDevices.label    "보안 장치 관리">
+<!ENTITY manageDevices.accesskey "y">

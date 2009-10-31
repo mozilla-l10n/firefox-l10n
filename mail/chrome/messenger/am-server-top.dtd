@@ -8,27 +8,21 @@
 <!ENTITY port.label "포트:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "기본:">
-<!ENTITY savePassword.label "암호 저장">
 <!ENTITY biffStart.label "새 메시지 확인">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "분 마다">
-<!ENTITY isSecure.label "보안된 연결 사용 (SSL)">
-<!ENTITY isSecure.accesskey "U">
-<!ENTITY socketType.label "보안 연결 사용:">
-<!ENTITY neverSecure.label "사용 안 함">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS (가능한 경우)">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "보안 연결:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "없음">
+<!ENTITY connectionSecurityType-1.label "STARTTLS (가능시)">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "안전 인증 사용">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "메시지를 서버에 보관">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "헤더만 가져오기">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "모든">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "일">

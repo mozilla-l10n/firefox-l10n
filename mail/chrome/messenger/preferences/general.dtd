@@ -1,31 +1,19 @@
-<!ENTITY systemDefaults.label              "시스템 기본 설정">
-<!ENTITY alwaysCheckDefault.label          "&brandShortName; 시작시에 기본 메일 프로그램 설정 확인하기">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "지금 확인">
-<!ENTITY checkNow.accesskey         "N">
-
-
 <!ENTITY messengerStartPage.label         "&brandShortName; 시작 페이지">
-<!ENTITY enableStartPage.label            "프로그램을 시작하면 메시지창에 시작 페이지 보이기">
+<!ENTITY enableStartPage.label            "프로그램 시작시 메시지창에 시작 페이지 출력">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "주소:">
 <!ENTITY location1.accesskey              "o">
 <!ENTITY useDefault.label                 "기본 설정 복원">
 <!ENTITY useDefault.accesskey             "R">
+
 <!ENTITY bounceSystemDockIcon.label       "움직이는 오리 아이콘">
 <!ENTITY bounceSystemDockIcon.accesskey   "i">
+
 <!ENTITY newMessagesArrive.label          "메시지 도착 알림">
 <!ENTITY playSound.label                  "소리로 알리기">
 <!ENTITY playSound1.accesskey             "d">
 <!ENTITY showAnimatedAlert.label          "알림창 띄우기">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-
 <!ENTITY customizeMailAlert.label         "사용자 정의…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
