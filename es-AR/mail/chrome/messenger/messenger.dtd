@@ -729,10 +729,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Copiar dirección de la imagen">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Copiar imagen">
+<!ENTITY copyImageAllCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "Copiar dirección de correo electrónico">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Detener">
 <!ENTITY stopCmd.accesskey "D">
 <!ENTITY reloadCmd.label "Recargar">
