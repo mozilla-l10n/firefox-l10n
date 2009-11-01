@@ -23,6 +23,7 @@
    -   Dan Haddix (dan6992@hotmail.com)
    -   Brian King (briano9@yahoo.com)
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -66,7 +67,7 @@
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
 <!ENTITY bpercentCmd.accesskey "2">
-<!ENTITY cpercentCmd.label "450">
+<!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Павялічыць">
 <!ENTITY zoomoutCmd.label "Паменшыць">

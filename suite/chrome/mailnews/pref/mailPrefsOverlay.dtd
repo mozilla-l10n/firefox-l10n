@@ -1,5 +1,3 @@
-<!ENTITY enbJsCheckMailNews.label "Пошта і Навінакупы">
-<!ENTITY enbJsCheckMailNews.accesskey "П">
 <!ENTITY enbPluginCheckMailNews.label "Пошта і Навінакупы">
 <!ENTITY enbPluginCheckMailNews.accesskey "о">
 <!ENTITY mail.label "Пошта і Навінакупы">
@@ -12,7 +10,7 @@
 <!ENTITY composingMessages.label "Укладанне">
 <!ENTITY format.label "Фармат дасылання">
 <!ENTITY return.label "Квіткі атрымання">
-<!ENTITY junk.label "Пошта-лухта">
+<!ENTITY junk.label "Лухта і падазроная пошта">
 <!ENTITY tags.label "Меткі">
 <!ENTITY characterEncoding.label "Кадоўка знакаў">
-<!ENTITY offline.label "Праца па-за сеткай і дыскавая прастора">
+<!ENTITY networkStorage.label "Сетка і захоўванне">

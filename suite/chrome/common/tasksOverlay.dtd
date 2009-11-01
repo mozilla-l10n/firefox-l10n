@@ -5,7 +5,7 @@
 <!ENTITY editorCmd.accesskey "У">
 <!ENTITY editorCmd.commandkey "4">
 <!ENTITY javaConsoleCmd.label "Кансоль Java">
-<!ENTITY javaConsoleCmd.accesskey "j">
+<!ENTITY javaConsoleCmd.accesskey "J">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -25,6 +25,7 @@
 <!ENTITY passwordExpireCmd.accesskey "В">
 <!ENTITY downloadManagerCmd.label "Кіраўнік загрузак">
 <!ENTITY downloadManagerCmd.accesskey "З">
+<!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addonsManagerCmd.label "Кіраўнік дадаткаў">
 <!ENTITY addonsManagerCmd.accesskey "д">
 <!ENTITY switchProfileCmd.label "Змяніць профіль…">

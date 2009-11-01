@@ -26,6 +26,7 @@
    -   Daniel Glazman (glazman@netscape.com)
    -   Stephen Donner (technutz@netscape.net)
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -92,6 +93,7 @@
 <!ENTITY publishSettings.accesskey "б">
 <!ENTITY pasteAsQuotationCmd.label "Уставіць як вытрымку">
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Знайсці і замяніць…">
 <!ENTITY findCmd.accesskey "З">
 <!ENTITY findCmd.key "F">

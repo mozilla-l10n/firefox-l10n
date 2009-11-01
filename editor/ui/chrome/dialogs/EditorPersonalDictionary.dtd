@@ -21,6 +21,7 @@
    -
    - Contributor(s):
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -46,5 +47,5 @@
 <!ENTITY ReplaceButton.accessKey "З">
 <!ENTITY RemoveButton.label "Выдаліць">
 <!ENTITY RemoveButton.accessKey "д">
-<!ENTITY CloseButton.label "Зачыніць">
-<!ENTITY CloseButton.accessKey "ч">
+<!ENTITY CloseButton.label "Закрыць">
+<!ENTITY CloseButton.accessKey "к">

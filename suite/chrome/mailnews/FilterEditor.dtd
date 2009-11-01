@@ -14,6 +14,8 @@
 <!ENTITY contextIncoming.label "Праверцы пошты">
 <!ENTITY contextManual.label "Ручным выкананні">
 <!ENTITY contextBoth.label "Праверцы пошты і ручным выкананні">
+<!ENTITY contextPostPlugin.label "Праверка пошты (пасля класіфікацыі)">
+<!ENTITY contextPostPluginBoth.label "Праверка пошты (пасля класіфікацыі) або ручны запуск">
 <!ENTITY filterActionDesc.label "Выканаць гэтыя дзеянні:">
 <!ENTITY filterActionDesc.accesskey "В">
 <!ENTITY moveMessage.label "Рухаць ліст у">

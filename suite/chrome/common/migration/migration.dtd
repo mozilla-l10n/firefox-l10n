@@ -7,7 +7,7 @@
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label "Файла">
 <!ENTITY importFromFile.accesskey "Ф">
-<!ENTITY importFromNothing.label "Не Імпартаваць нічога">
+<!ENTITY importFromNothing.label "Не імпартаваць нічога">
 <!ENTITY importFromNothing.accesskey "Н">
 <!ENTITY importSource.title "Імпартаваць наладжванні і здаткі">
 <!ENTITY importItems.title "Адзінкі для імпарту">

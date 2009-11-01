@@ -33,7 +33,7 @@
 <!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY showTaskbarCmd.label "Паліца з статусам">
-<!ENTITY showTaskbarCmd.accesskey "С">
+<!ENTITY showTaskbarCmd.accesskey "с">
 <!ENTITY proxy.label "Наладка пасярэднікаў…">
 <!ENTITY proxy.accesskey "л">
 <!ENTITY closeCmd.label "Зачыніць">

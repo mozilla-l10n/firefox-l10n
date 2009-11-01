@@ -11,8 +11,11 @@
 <!ENTITY openFileCmd.accesskey "Ф">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY recentTabs.label "Нядаўна зачыненыя закладкі">
-<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.accesskey "ў">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Нядаўна закрытыя вокны">
+<!ENTITY recentWindows.accesskey "Н">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Рэдагаваць старонку">
 <!ENTITY editPageCmd.accesskey "Р">
 <!ENTITY editPageCmd.commandkey "e">

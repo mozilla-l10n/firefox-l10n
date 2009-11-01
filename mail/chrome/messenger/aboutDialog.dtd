@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title "Пра &brandFullName;">
-<!ENTITY credits.label "Удзельнікі">
-<!ENTITY credits.accesskey "У">
 <!ENTITY aboutButton.label "&lt; Назад">
 <!ENTITY aboutButton.accesskey "Н">
 <!ENTITY aboutVersion "версія">
@@ -9,8 +7,12 @@
 				 Усе правы засцярожаны.">
 <!ENTITY aboutMenu.label "Пра">
 <!ENTITY aboutMenu.accesskey "П">
+<!ENTITY aboutCredits.label "Удзельнікі">
+<!ENTITY aboutCredits.accesskey "У">
 <!ENTITY aboutRights.label "Вашы правы">
 <!ENTITY aboutRights.accesskey "В">
 <!ENTITY aboutContributors.label "Укладчыкі">
 <!ENTITY aboutContributors.accesskey "к">
+<!ENTITY aboutLicense.label "Ліцэнзія">
+<!ENTITY aboutLicense.accesskey "Л">
 <!ENTITY cmdCloseMac.commandKey "w">

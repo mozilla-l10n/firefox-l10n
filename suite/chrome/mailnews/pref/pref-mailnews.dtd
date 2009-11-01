@@ -12,7 +12,7 @@
 <!ENTITY setDefaultMail.accesskey "П">
 <!ENTITY setDefaultNews.label "Навінаў">
 <!ENTITY setDefaultNews.accesskey "Н">
-<!ENTITY setDefaultFeed.label "Жывільнікі">
+<!ENTITY setDefaultFeed.label "Жывільнікаў">
 <!ENTITY setDefaultFeed.accesskey "Ж">
 <!ENTITY messengerStartPage.caption "Пачатковая старонка пошты">
 <!ENTITY enableStartPage.label "Паказваць пачатковую старонку ў абсягу ліста, калі Пошта запускаецца">

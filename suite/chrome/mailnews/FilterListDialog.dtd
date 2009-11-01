@@ -1,4 +1,4 @@
-<!ENTITY window.title "Сіты лістоў">
+<!ENTITY filterListDialog.title "Сіты лістоў">
 <!ENTITY nameColumn.label "Назва сіта">
 <!ENTITY activeColumn.label "Дазволена">
 <!ENTITY newButton.label "Новае…">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "і">
 <!ENTITY choosethis.label "выбраць гэтую папку">
 <!ENTITY choosethisnewsserver.label "выбраць гэты паслугач навінаў">
-<!ENTITY helpButton.label "Даведка">
-<!ENTITY helpButton.accesskey "Д">

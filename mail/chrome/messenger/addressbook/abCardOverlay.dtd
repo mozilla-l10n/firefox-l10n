@@ -101,3 +101,18 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
+<!ENTITY Photo.tab "Здымак">
+<!ENTITY Photo.accesskey "д">
+<!ENTITY PhotoDesc.label "Узяць адзін з наступных:">
+<!ENTITY GenericPhoto.label "Агульны здымак">
+<!ENTITY GenericPhoto.accesskey "А">
+<!ENTITY DefaultPhoto.label "Змоўчны">
+<!ENTITY PhotoFile.label "На гэтым кампутары">
+<!ENTITY PhotoFile.accesskey "к">
+<!ENTITY BrowsePhoto.label "Агляд">
+<!ENTITY BrowsePhoto.accesskey "г">
+<!ENTITY PhotoURL.label "У Сеціве">
+<!ENTITY PhotoURL.accesskey "С">
+<!ENTITY PhotoURL.emptytext "Устаўце ці набярыце сеціўны адрас здымка">
+<!ENTITY UpdatePhoto.label "Абнавіць">
+<!ENTITY UpdatePhoto.accesskey "н">

@@ -22,6 +22,7 @@
    -   Bob Lord <lord@netscape.com>
    -   Terry Hayes <thayes@netscape.com>
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,15 +46,15 @@
 <!ENTITY enable.tls "Дазволіць TLS">
 <!ENTITY enable.tls.accesskey "T">
 <!ENTITY warn.description "&brandShortName; можа папярэджваць вас пра статус бяспекі старонкі сеціва, якую вы праглядваеце. Наладзіць &brandShortName; паказваць папярэджванне і запытваць дазвол перад:">
-<!ENTITY warn.enteringsecure "Загрузка старонкі, якая падтрымлівае шыфраванне">
+<!ENTITY warn.enteringsecure "Загрузкай старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.enteringsecure.accesskey "З">
-<!ENTITY warn.enteringweak "Загрузка старонкі, якая выкарыстоўвае нізка-якаснае шыфраванне">
+<!ENTITY warn.enteringweak "Загрузкай старонкі, якая выкарыстоўвае нізка-якаснае шыфраванне">
 <!ENTITY warn.enteringweak.accesskey "а">
-<!ENTITY warn.insecurepost "Дасыланне даных формы з незашыфраванай старонкі на незашыфраваную старонку">
+<!ENTITY warn.insecurepost "Дасыланнем даных формы з незашыфраванай старонкі на незашыфраваную старонку">
 <!ENTITY warn.insecurepost.accesskey "Д">
-<!ENTITY warn.leavingsecure "Пакіданне старонкі, якая падтрымлівае шыфраванне">
+<!ENTITY warn.leavingsecure "Пакіданнем старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.leavingsecure.accesskey "к">
-<!ENTITY warn.viewmixed "Прагляд старонкі, якая змяшчае зашыфраваныя і незашыфраваныя даныя">
+<!ENTITY warn.viewmixed "Праглядам старонкі, якая змяшчае зашыфраваныя і незашыфраваныя даныя">
 <!ENTITY warn.viewmixed.accesskey "П">
 <!ENTITY certselect.description "Вырашае, як &brandShortName; выбірае пасведчанне бяспекі для падання яго пляцоўцы сеціва, якая патрабуе пасведчанне:">
 <!ENTITY certselect.auto "Выбірае самастойна">

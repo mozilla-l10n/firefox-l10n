@@ -4,6 +4,10 @@
 <!ENTITY helpMenuWin.accesskey "Д">
 <!ENTITY releaseCmd.label "Заўвагі пра выданне">
 <!ENTITY releaseCmd.accesskey "в">
+<!ENTITY whatsNewCmd.label "Што новага?">
+<!ENTITY whatsNewCmd.accesskey "Ш">
+<!ENTITY featureConfiguratorCmd.label "Памочнік міграцыі">
+<!ENTITY featureConfiguratorCmd.accesskey "м">
 <!ENTITY openHelp.label "Змесціва даведкі">
 <!ENTITY openHelp.accesskey "д">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -11,5 +15,5 @@
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
 <!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
-<!ENTITY aboutCmd.label "Пра &brandFullName;">
-<!ENTITY aboutCmd.accesskey "П">
+<!ENTITY aboutMenuCmd.label "Пра &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "П">

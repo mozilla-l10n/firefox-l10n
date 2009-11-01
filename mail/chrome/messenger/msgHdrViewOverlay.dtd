@@ -18,18 +18,45 @@
 <!ENTITY originalWebsite2.label "пляцоўка сеціва">
 <!ENTITY editMessageDescription.label "Чарнавік ліста">
 <!ENTITY editMessageButton.label "Праўка…">
-<!ENTITY archiveButton.label "архіў">
-<!ENTITY hdrReplyButton.label "адказ">
+<!ENTITY hdrArchiveButton.label "архіў">
+<!ENTITY hdrArchiveButton.tooltip "архіваваць гэты ліст">
+<!ENTITY hdrReplyButton.label "адказаць">
+<!ENTITY hdrReplyButton.tooltip "адказаць на гэты ліст">
 <!ENTITY hdrReplyAllButton.label "адказаць усім">
+<!ENTITY hdrReplyAllButton.tooltip "адказаць дасылальніку і ўсім атрымальнікам">
 <!ENTITY hdrReplyListButton.label "адказаць спісу">
-<!ENTITY hdrForwardButton.label "навіраваць">
+<!ENTITY hdrReplyListButton.tooltip "адказаць паштоваму спісу">
+<!ENTITY hdrForwardButton.label "накіраваць">
+<!ENTITY hdrForwardButton.tooltip "накіраваць гэты ліст">
 <!ENTITY hdrJunkButton.label "лухта">
-<!ENTITY trashButton.tooltiptext "выдаліць">
+<!ENTITY hdrJunkButton.tooltip "пазначыць гэты ліст як лухту">
+<!ENTITY hdrTrashButton.label "выдаліць">
+<!ENTITY hdrTrashButton.tooltip "выдаліць гэты ліст">
+<!ENTITY hdrViewToolbarShowFull.label "Паказваць значкі і тэкст">
+<!ENTITY hdrViewToolbarShowFull.accesskey "а">
+<!ENTITY hdrViewToolbarShowIcons.label "Паказваць толькі значкі">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "з">
+<!ENTITY hdrViewToolbarShowText.label "Паказваць толькі тэкст">
+<!ENTITY hdrViewToolbarShowText.accesskey "т">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Заўсёды паказваць адказ дасылальніку">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "д">
 <!ENTITY otherActionsButton.label "іншыя дзеянні">
+<!ENTITY otherActionsShowConversation.label "паказаць у размове">
+<!ENTITY otherActionsShowConversation.accesskey "р">
+<!ENTITY otherActionsOpenInNewWindow.label "адкрыць у новым акне">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "а">
+<!ENTITY otherActionsOpenInNewTab.label "адкрыць у новай устаўцы">
+<!ENTITY otherActionsOpenInNewTab.accesskey "у">
+<!ENTITY markAsReadMenuItem.label "пазначыць прачытаным">
+<!ENTITY markAsReadMenuItem.accesskey "ч">
+<!ENTITY markAsUnreadMenuItem.label "пазначыць непрачытаным">
+<!ENTITY markAsUnreadMenuItem.accesskey "ч">
 <!ENTITY saveAsMenuItem.label "захаваць як…">
 <!ENTITY saveAsMenuItem.accesskey "я">
-<!ENTITY viewSourceMenuItem.label "прагледзець зыходнік…">
+<!ENTITY viewSourceMenuItem.label "прагледзець зыходнік">
 <!ENTITY viewSourceMenuItem.accesskey "г">
+<!ENTITY otherActionsPrint.label "друк…">
+<!ENTITY otherActionsPrint.accesskey "д">
 <!ENTITY openAttachmentCmd.label "Адчыніць">
 <!ENTITY openAttachmentCmd.accesskey "А">
 <!ENTITY saveAsAttachmentCmd.label "Захаваць як…">

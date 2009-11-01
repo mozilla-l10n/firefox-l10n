@@ -20,6 +20,7 @@
    - Contributor(s):
    -   Scott MacGregor <mscott@mozilla.org> (original Thunderbird parts)
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.junk.title "Пошта-лухта">
+<!ENTITY pref.junk.title "Лухта і падазроная пошта">
 <!ENTITY junkSettings.caption "Агульныя наладжванні пошты-лухты">
 <!ENTITY junkMail.intro "Перайдзіце ў наладжванні рахунку, каб зрабіць асаблівыя наладжванні паштовай лухты.">
 <!ENTITY manualMark.label "Калі я пазначаю лісты як лухту:">
@@ -54,3 +55,10 @@
 <!ENTITY openJunkLog.accesskey "е">
 <!ENTITY resetTrainingData.label "Скінуць вывучаныя даныя">
 <!ENTITY resetTrainingData.accesskey "С">
+<!ENTITY pref.suspectMail.caption "Падазроная пошта">
+<!ENTITY pref.phishing.caption "Э-паштовыя ашукі">
+<!ENTITY enablePhishingDetector.label "Папярэджваць мяне, калі ліст, які я чытаю, падазраецца як э-паштовая ашука">
+<!ENTITY enablePhishingDetector.accesskey "я">
+<!ENTITY pref.antivirus.caption "Антывірус">
+<!ENTITY antiVirus.label "Дазволіць антывірусам правяраць уваходныя лісты больш проста">
+<!ENTITY antiVirus.accesskey "Д">

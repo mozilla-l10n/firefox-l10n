@@ -2,6 +2,8 @@
 <!ENTITY searchHeading.accesskey "ў">
 <!ENTITY searchSubfolders.label "Пошук у падпапках">
 <!ENTITY searchSubfolders.accesskey "о">
+<!ENTITY searchOnServer.label "Выканаць пошук на паслугачы">
+<!ENTITY searchOnServer.accesskey "ы">
 <!ENTITY resetButton.label "Ачысціць">
 <!ENTITY resetButton.accesskey "ч">
 <!ENTITY openButton.label "Адчыніць">
@@ -15,8 +17,8 @@
 <!ENTITY fileButton.label "Файл">
 <!ENTITY fileButton.accesskey "Ф">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Адчыніць папку ліста">
-<!ENTITY goToFolderButton.accesskey "п">
+<!ENTITY openInFolder.label "Адкрыць у папцы">
+<!ENTITY openInFolder.accesskey "п">
 <!ENTITY saveAsVFButton.label "Захаваць як папку пошуку">
 <!ENTITY saveAsVFButton.accesskey "а">
 <!ENTITY abSearchHeading.label "Шукаць у:">

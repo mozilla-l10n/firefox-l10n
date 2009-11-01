@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 85ch;">
 <!ENTITY identityTitle.label "Наладжванні адметы">
 <!ENTITY identityListDesc.label "Наладкі гэтай адметы:">
 <!ENTITY settingsTab.label "Наладжванні">

@@ -1,10 +1,6 @@
 <!ENTITY credit.title "Удзельнікі &brandFullName;">
 <!ENTITY brandMotto "Гром-птушкі ідуць!">
-<!ENTITY credit.leads "Інжынерныя кіраўнікі">
 <!ENTITY credit.thanks "Асаблівыя падзякі">
 <!ENTITY credit.translation "mozilla by">
-<!ENTITY credit.theme "Укладка тэмы">
-<!ENTITY credit.qa "Упэўніванне ў якасці">
-<!ENTITY credit.build "Пабудова і выданне">
 <!ENTITY credit.memory "У памяць аб">
 <!ENTITY credit.poweredByGecko "Падмацоўваецца Gecko&trade;">

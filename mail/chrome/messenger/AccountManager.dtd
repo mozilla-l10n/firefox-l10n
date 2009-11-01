@@ -1,6 +1,10 @@
 <!ENTITY accountManagerTitle.label "Наладжванні рахунку">
-<!ENTITY addAccountButton.label "Дадаць рахунак…">
-<!ENTITY addAccountButton.accesskey "Р">
+<!ENTITY accountActionsButton.label "Дзеянні рахункаў">
+<!ENTITY accountActionsButton.accesskey "р">
+<!ENTITY addMailAccountButton.label "Дадаць паштовы рахунак…">
+<!ENTITY addMailAccountButton.accesskey "Д">
+<!ENTITY addOtherAccountButton.label "Дадаць іншы рахунак…">
+<!ENTITY addOtherAccountButton.accesskey "і">
 <!ENTITY setDefaultButton.label "Змоўчны рахунак">
 <!ENTITY setDefaultButton.accesskey "З">
 <!ENTITY removeButton.label "Выдаліць рахунак">
