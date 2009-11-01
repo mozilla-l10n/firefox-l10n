@@ -35,7 +35,7 @@
 <!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Serverinformatie">
-<!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende e-mailserver.">
+<!ENTITY incomingServerTypeDesc.label "Selecteer het type van uw inkomende server.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Voer de naam in van uw inkomende server (bijvoorbeeld “pop.example.net”).">
 <!ENTITY incomingServerLabel.label "Inkomende server:">
@@ -60,7 +60,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, “">
-<!ENTITY haveSmtp1.suffix2 "&quot;, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver veranderen in de accountinstellingen.">
+<!ENTITY haveSmtp1.suffix2 "”, zal worden gebruikt. U kunt uitgaande servers wijzigen in de accountinstellingen.">
 
 <!-- Entities for Login page -->
 
@@ -78,13 +78,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, “">
-<!ENTITY haveSmtp2.suffix2 "&quot;, zal worden gebruikt. U kunt de instellingen van de uitgaande e-mailserver veranderen in de accountinstellingen.">
+<!ENTITY haveSmtp2.suffix2 "”, zal worden gebruikt. U kunt uitgaande servers wijzigen in de accountinstellingen.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, “">
-<!ENTITY haveSmtp3.suffix2 "&quot;, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt de instellingen van de uitgaande e-mailserver veranderen in de accountinstellingen.">
+<!ENTITY haveSmtp3.suffix2 "”, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt uitgaande servers wijzigen in de accountinstellingen.">
 
 <!-- Entities for Account name page -->
 

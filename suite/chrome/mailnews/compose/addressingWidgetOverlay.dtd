@@ -3,7 +3,6 @@
 <!ENTITY toAddr.label "Aan:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Antwoord aan:">
+<!ENTITY replyAddr.label "Antwoord-naar:">
 <!ENTITY newsgroupsAddr.label "Nieuwsgroep:">
-<!ENTITY followupAddr.label "Reacties naar:">
-
+<!ENTITY followupAddr.label "Reacties-naar:">

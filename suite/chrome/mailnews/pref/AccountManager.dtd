@@ -4,10 +4,10 @@
 
 <!ENTITY addAccountButton.label "Account toevoegen…">
 <!ENTITY addAccountButton.accesskey "t">
-<!ENTITY setDefaultButton.label "Instellen als standaard">
-<!ENTITY setDefaultButton.accesskey "I">
+<!ENTITY setDefaultButton.label "Als standaard instellen">
+<!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Account verwijderen">
-<!ENTITY removeButton.accesskey "V">
+<!ENTITY removeButton.accesskey "v">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

@@ -27,7 +27,7 @@
 <!ENTITY rights.intro-point3c " te vinden.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on update-service; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutloos zijn. Meer details, inclusief informatie over het uitschakelen van de diensten, is te vinden in de ">
+<!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on-updateservice; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, is te vinden in de ">
 <!ENTITY rights.intro-point4b "service terms">
 <!ENTITY rights.intro-point4c ".">
 

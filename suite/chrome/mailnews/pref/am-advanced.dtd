@@ -1,5 +1,6 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Uitgaande server (SMTP-)instellingen">
+<!ENTITY smtpServer.label "Instellingen voor uitgaande server (SMTP)">
+
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Hoewel u meer dan één uitgaande server (SMTP) kunt opgeven, wordt dit alleen aangeraden voor ervaren gebruikers. Instellen van meerdere SMTP-servers kan fouten veroorzaken bij het verzenden van berichten.">
 
@@ -9,8 +10,8 @@
 <!ENTITY smtpListEdit.accesskey "B">
 <!ENTITY smtpListDelete.label "Verwijderen">
 <!ENTITY smtpListDelete.accesskey "V">
-<!ENTITY smtpListSetDefault.label "Standaard">
-<!ENTITY smtpListSetDefault.accesskey "S">
+<!ENTITY smtpListSetDefault.label "Als standaard instellen">
+<!ENTITY smtpListSetDefault.accesskey "d">
 
 <!ENTITY serverDescription.label "Omschrijving: ">
 <!ENTITY serverName.label "Servernaam: ">

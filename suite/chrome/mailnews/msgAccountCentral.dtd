@@ -10,7 +10,7 @@
 <!ENTITY settingsLink.label           "Instellingen voor deze account bekijken">
 <!ENTITY newAcctLink.label            "Nieuwe account aanmaken">
 
-<!ENTITY advFeaturesSectionHdr.label  "Uitgebreide mogelijkheden">
+<!ENTITY advFeaturesSectionHdr.label  "Geavanceerde functies">
 <!ENTITY searchMsgsLink.label         "Berichten zoeken">
 <!ENTITY filtersLink.label            "Berichtenfilters beheren">
 <!ENTITY junkSettings.label           "Ongewensteberichtenfilters instellen">

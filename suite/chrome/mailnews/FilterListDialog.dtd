@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "h">
 <!ENTITY reorderDownButton.label "Omlaag verplaatsen">
 <!ENTITY reorderDownButton.accesskey "l">
-<!ENTITY filterHeader.label "Geactiveerde filters werken in de onderstaande volgorde.">
+<!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
 <!ENTITY filtersForPrefix.label "Filters voor:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogboek">

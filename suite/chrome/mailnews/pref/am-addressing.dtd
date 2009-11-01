@@ -11,9 +11,9 @@
 <!ENTITY editDirectories.label     "Directory’s bewerken…">
 <!ENTITY editDirectories.accesskey "w">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Andere LDAP-server gebruiken:">
+<!ENTITY directories.label         "Een andere LDAP-server gebruiken:">
 <!ENTITY directories.accesskey     "n">
-<!ENTITY directoriesNone.label     "None">
+<!ENTITY directoriesNone.label     "Geen">
 
 <!-- am-addressing.xul -->
 
@@ -33,7 +33,7 @@
 <!ENTITY place.accesskey                      "o">
 <!ENTITY belowText.label                      "onder de geciteerde tekst (aanbevolen)">
 <!ENTITY aboveText.label                      "onder mijn antwoord (boven de geciteerde tekst)">
-<!ENTITY includeSigOnReply.label              "Ondertekening toevoegen bij antwoorden">
-<!ENTITY includeSigOnReply.accesskey          "a">
-<!ENTITY includeSigOnForward.label            "Ondertekening toevoegen bij doorsturen">
-<!ENTITY includeSigOnForward.accesskey        "t">
+<!ENTITY includeSigOnReply.label              "Ondertekening invoegen bij antwoorden">
+<!ENTITY includeSigOnReply.accesskey          "t">
+<!ENTITY includeSigOnForward.label            "Ondertekening invoegen bij doorsturen">
+<!ENTITY includeSigOnForward.accesskey        "s">

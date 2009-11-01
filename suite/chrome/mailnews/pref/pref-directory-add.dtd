@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Eigenschappen directoryserver">
+<!ENTITY newDirectoryTitle.label           "Eigenschappen van directoryserver">
 <!ENTITY directoryName.label               "Naam: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Hostnaam: ">
@@ -55,7 +55,7 @@
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Zoekfilter: ">
 <!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Doorzoek: ">
+<!ENTITY scope.label                       "Bereik: ">
 <!ENTITY scope.accesskey                   "r">
 <!ENTITY scopeOneLevel.label               "Eén niveau">
 <!ENTITY scopeOneLevel.accesskey           "E">
@@ -65,10 +65,10 @@
 <!ENTITY return.accesskey                  "m">
 <!ENTITY results.label                     "resultaten weergeven">
 <!ENTITY offlineText.label                 "U kunt een lokale kopie van deze directory downloaden, zodat deze beschikbaar is voor offlinegebruik.">
-<!ENTITY saslMechanism.label               "Loginmethode: ">
-<!ENTITY saslMechanism.accesskey           "m">
-<!ENTITY saslOff.label                     "Simpel">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslMechanism.label               "Aanmeldingsmethode: ">
+<!ENTITY saslMechanism.accesskey           "A">
+<!ENTITY saslOff.label                     "Eenvoudig">
+<!ENTITY saslOff.accesskey                 "E">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
