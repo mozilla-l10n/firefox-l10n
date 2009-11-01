@@ -8,7 +8,7 @@
 <!ENTITY mousewheelHorizGroup.label "Гарызантальнае пракручванне">
 <!ENTITY scroll.label "Пракруціць дакумент на">
 <!ENTITY scroll.accesskey "р">
-<!ENTITY scrollHoriz.accesskey "г">
+<!ENTITY scrollHoriz.accesskey "к">
 <!ENTITY scrollLines.label "радкоў">
 <!ENTITY scrollChars.label "знакаў">
 <!ENTITY useSystemDefault.label "Згодна сістэмнаму значэнню">

@@ -1,0 +1,19 @@
+<!ENTITY window.title "Выключэнні">
+<!ENTITY window.width "42em">
+<!ENTITY treehead.sitename.label "Пляцоўка">
+<!ENTITY treehead.status.label "Статус">
+<!ENTITY removepermission.label "Прыняць пляцоўку">
+<!ENTITY removepermission.accesskey "П">
+<!ENTITY removeallpermissions.label "Прыняць усе пляцоўкі">
+<!ENTITY removeallpermissions.accesskey "у">
+<!ENTITY address.label "Адрас пляцоўкі сеціва:">
+<!ENTITY address.accesskey "А">
+<!ENTITY block.label "Блакаваць">
+<!ENTITY block.accesskey "Б">
+<!ENTITY session.label "Дазволіць на час сэсіі">
+<!ENTITY session.accesskey "Д">
+<!ENTITY allow.label "Дазволіць">
+<!ENTITY allow.accesskey "Д">
+<!ENTITY windowClose.key "w">
+<!ENTITY button.close.label "Закрыць">
+<!ENTITY button.close.accesskey "З">

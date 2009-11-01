@@ -2,12 +2,22 @@
 <!ENTITY messengerWindow.title "Пошта і Навінакупы">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
+<!ENTITY tabmailClose.label "Закрыць устаўку">
+<!ENTITY tabmailClose.tooltip "Закрыць устаўку">
+<!ENTITY tabmailNewButton.tooltip "Падвоіць цяперашнюю устаўку">
+<!ENTITY tabmailCloseButton.tooltip "Закрыць цяперашнюю устаўку">
+<!ENTITY tabmailAllTabs.tooltip "Пералічыць усе ўстаўкі">
 <!ENTITY newMessage.label "Новы ліст">
 <!ENTITY newMessage.accesskey "Н">
 <!ENTITY newFolderCmd.label "Папка…">
 <!ENTITY newFolderCmd.accesskey "П">
 <!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
 <!ENTITY newVirtualFolderCmd.accesskey "п">
+<!ENTITY newTabCmd.label "Падвоіць устаўку">
+<!ENTITY newTabCmd.accesskey "д">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Закрыць устаўку">
+<!ENTITY closeTabCmd.accesskey "к">
 <!ENTITY newAccountCmd.label "Рахунак…">
 <!ENTITY newAccountCmd.accesskey "Р">
 <!ENTITY openMessageFileCmd.label "Адчыніць файл…">
@@ -23,13 +33,13 @@
 <!ENTITY saveAsTemplateCmd.accesskey "У">
 <!ENTITY getNewMsgCmd.label "Атрымаць новыя лісты">
 <!ENTITY getNewMsgCmd.accesskey "А">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "Атрымаць новыя лісты для">
 <!ENTITY getNewMsgForCmd.accesskey "я">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Усе рахункі">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "У">
 <!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Атрымаць наступныя 500 лістоў навінаў">
 <!ENTITY getNextNMsgCmd.accesskey "т">
 <!ENTITY sendUnsentCmd.label "Даслаць неадпраўленыя лісты">
@@ -114,6 +124,8 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showMessagePaneCmd.label "Шыба ліста">
 <!ENTITY showMessagePaneCmd.accesskey "ш">
+<!ENTITY showThreadPaneCmd.label "Шыба нізак">
+<!ENTITY showThreadPaneCmd.accesskey "н">
 <!ENTITY showFolderPaneCmd.label "Шыба папак">
 <!ENTITY showFolderPaneCmd.accesskey "п">
 <!ENTITY sortMenu.label "Размеркаваць па">
@@ -389,6 +401,10 @@
 <!ENTITY totalColumn.label "Усяго">
 <!ENTITY getMsgButton.label "Атрымаць">
 <!ENTITY newMsgButton.label "Укласці">
+<!ENTITY newHTMLMessageCmd.label "Укладваць як HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Укладваць як просты тэкст">
+<!ENTITY newPlainTextMessageCmd.accesskey "п">
 <!ENTITY replyButton.label "Адказаць">
 <!ENTITY replyAllButton.label "Адк. усім">
 <!ENTITY forwardButton.label "Накіраваць">
@@ -428,6 +444,8 @@
 <!ENTITY statusText.label "Гатова">
 <!ENTITY contextOpenNewWindow.label "Адчыніць ліст у новым акне">
 <!ENTITY contextOpenNewWindow.accesskey "А">
+<!ENTITY contextOpenNewTab.label "Адкрыць ліст у новай устаўцы">
+<!ENTITY contextOpenNewTab.accesskey "у">
 <!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
 <!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextArchive.label "Архіў">
@@ -460,6 +478,8 @@
 <!ENTITY folderContextGetMessages.accesskey "А">
 <!ENTITY folderContextOpenNewWindow.label "Адчыніць у новым акне Пошты">
 <!ENTITY folderContextOpenNewWindow.accesskey "А">
+<!ENTITY folderContextOpenNewTab.label "Адкрыць у новай устаўцы">
+<!ENTITY folderContextOpenNewTab.accesskey "у">
 <!ENTITY folderContextRename.label "Перайменаваць">
 <!ENTITY folderContextRename.accesskey "й">
 <!ENTITY folderContextRemove.label "Выдаліць">
@@ -489,7 +509,7 @@
 <!ENTITY folderContextSettings.label "Наладжванні…">
 <!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Шукаць тэму і адпраўніка">
+<!ENTITY searchSubjectOrAddress.emptytext "Пошук тэмы або адрасу">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "П">
 <!ENTITY all.label "Усе">

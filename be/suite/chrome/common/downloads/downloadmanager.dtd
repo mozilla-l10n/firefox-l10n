@@ -35,6 +35,12 @@
 <!ENTITY col.timeelapsed.label "Мінула:">
 <!ENTITY col.timeelapsed.accesskey "М">
 <!ENTITY col.timeelapsed.tooltip "Мінула:">
+<!ENTITY col.starttime.label "Час пачатку">
+<!ENTITY col.starttime.accesskey "а">
+<!ENTITY col.starttime.tooltip "Час пачатку">
+<!ENTITY col.endtime.label "Час канца">
+<!ENTITY col.endtime.accesskey "к">
+<!ENTITY col.endtime.tooltip "Час канца">
 <!ENTITY col.progresstext.label "&#037;">
 <!ENTITY col.progresstext.accesskey "&#037;">
 <!ENTITY col.progresstext.tooltip "Развіццё (&#037;)">
@@ -69,3 +75,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "з">
 <!ENTITY cmd.copyDownloadLink.label "Капіяваць спасылку загрузкі">
 <!ENTITY cmd.copyDownloadLink.accesskey "К">
+<!ENTITY cmd.properties.label "Уласцівасці…">
+<!ENTITY cmd.properties.accesskey "У">

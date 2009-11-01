@@ -60,6 +60,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
@@ -220,6 +221,8 @@
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY delete.label "Выдаліць">
 <!ENTITY delete.accesskey "д">
+<!ENTITY removeAttachment.label "Выдаліць далучэнне">
+<!ENTITY removeAttachment.accesskey "д">
 <!ENTITY renameAttachment.label "Змяніць назву…">
 <!ENTITY renameAttachment.accesskey "З">
 <!ENTITY selectAll.label "Вылучыць усё">

@@ -15,15 +15,15 @@
 <!ENTITY draftsFolderOn.label "Папцы &quot;Чарнавікі&quot; ў:">
 <!ENTITY draftsFolderOn.accesskey "Ч">
 <!ENTITY draftInOtherFolder.label "Іншай:">
-<!ENTITY draftInOtherFolder.accesskey "І">
-<!ENTITY archivesFolderOn.label "Папка &quot;Архівы&quot; у:">
+<!ENTITY draftInOtherFolder.accesskey "н">
+<!ENTITY archivesFolderOn.label "Папцы &quot;Архівы&quot; у:">
 <!ENTITY archivesFolderOn.accesskey "А">
-<!ENTITY archiveInOtherFolder.label "Іншы:">
+<!ENTITY archiveInOtherFolder.label "Іншай:">
 <!ENTITY archiveInOtherFolder.accesskey "І">
 <!ENTITY templatesFolderOn.label "Папцы &quot;Узоры&quot; ў:">
 <!ENTITY templatesFolderOn.accesskey "У">
 <!ENTITY templateInOtherFolder.label "Іншай:">
-<!ENTITY templateInOtherFolder.accesskey "І">
+<!ENTITY templateInOtherFolder.accesskey "ш">
 <!ENTITY specialFoldersTitle.label "Чарнавікі, архівы і ўзоры">
 <!ENTITY keepDrafts.label "Трымаць чарнавікі лістоў у:">
 <!ENTITY keepArchives.label "Трымаць архівы лістоў у:">

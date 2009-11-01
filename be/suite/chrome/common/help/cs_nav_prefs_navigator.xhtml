@@ -76,6 +76,11 @@
           <li><strong>Last page visited</strong>: Causes the browser to load the
             page you were viewing right before you last exited
             &brandShortName;.</li>
+          <li><strong>Restore Previous Session</strong>: Causes the browser to
+            restore the windows and tabs you were viewing right before you last
+            exited &brandShortName;, including form data and browsing
+            history. This option is only available in connection with
+            <strong>Display on Browser Startup</strong>.</li>
         </ul>
       </li>
     </ol>
@@ -169,6 +174,18 @@
     <ul>
       <li><strong>Clear Location Bar</strong>: Click this to clear the list of
         sites in the Location bar menu.</li>
+    </ul>
+  </li>
+  <li><strong>Form and Search History</strong>:
+    <ul>
+      <li><strong>Enable form and search history</strong>: Select this to let
+        &brandShortName; keep a history of the forms you fill in and the
+        searches you do.</li>
+      <li><strong>Remember form and search history for up to [__] days</strong>:
+        Type the maximum number of days you want &brandShortName; to keep track
+        of forms you fill in and searches you do. For example, if you set this
+        number to 180 days, forms and searches 180 days old or less will be
+        kept.</li>
     </ul>
   </li>
 </ul>
@@ -459,6 +476,9 @@
       <li><strong>Switch to new tabs opened from links</strong>: Select this to
         make &brandShortName; switch to the new tab when using <q>Open in a
         New Tab</q> to open a link.</li>
+      <li><strong>Warn me when closing a window with multiple tabs</strong>:
+        Select this to make &brandShortName; warn you when you try to close a
+        browser window which has multiple tabs open in it.</li>
     </ul>
   </li>
   <li><strong>When opening a bookmark group</strong>:
@@ -562,10 +582,14 @@
 <ul>
   <li><strong>When starting a download</strong>:
     <ul>
+      <li><strong>Flash the download manager if it is already open</strong>:
+        Select this to change focus to the Download Manager if it is currently
+        open. It displays the status for current and previous downloads in a
+        single window. This option only takes effect if the Download Manager
+        is already open and overrides the other settings.</li>
       <li><strong>Open the download manager</strong>: Select this to display
-        the Download Manager, which displays the status for current and
-        previous downloads. The status of all downloads is kept in a single
-        window.</li>
+        the Download Manager when starting a new download. It will be opened
+        if the window isn&apos;t currently shown.</li>
       <li><strong>Open a progress dialog</strong>: Select this to display a
         progress dialog box, which display the status for your current
         download. The status of each download is kept in a separate
@@ -580,30 +604,38 @@
 <ul>
   <li><strong>When saving a file</strong>:
     <ul>
-      <li><strong>Prompt for download location and default to</strong>: Select
-        this if you always want to be able to choose a folder for the file to
-        be saved. Choose one of the following folders to be the default
-        location for the file:
-        <ul>
-          <li><strong>Last download folder</strong>: The default location will
-            be the folder you last downloaded a file to.</li>
-          <li><strong>Specified download folder</strong>: The default location
-            will be your Current Download Folder.</li>
-        </ul>
-      </li>
-      <li><strong>Automatically download files to specified download
-        folder</strong>: Select this if you want files to be saved to your
-        Current Download Folder without &brandShortName; prompting you for
-        the download location.</li>
+      <li><strong>Save files to</strong>: Select this if you want files to be
+        saved to the specified folder without &brandShortName; prompting you
+        for the download location.</li>
+      <li><strong>Always ask me where to save files</strong>: Select this if
+        you always want to be able to choose a folder for the file to be saved.
+        The default will be the folder you last downloaded a file to.</li>
     </ul>
   </li>
 </ul>
-    
+
 <ul>
-  <li><strong>Current Download Folder</strong>: Use the button to navigate
-    to a folder that you want to use as your specified download folder.</li>
+  <li><strong>Download retention</strong>:
+    <ul>
+      <li><strong>Remove downloads</strong>: This determines when a completed
+        entry is removed from the Download Manager listing (the downloaded
+        file will <em>not</em> be affected):
+        <ul>
+          <li><strong>When they have completed</strong>: Select this to
+            remove an entry immediately once the download is successfully
+            completed.</li>
+          <li><strong>When quitting &brandShortName;</strong>: Select this
+            to retain all entries until closing the program, the list will
+            be empty upon restarting &brandShortName;.</li>
+          <li><strong>Never</strong>: Select this to not remove <em>any</em>
+            entry automatically, even after &brandShortName; is restarted.
+            You can remove them manually in the Download Manager.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
-    
+        
 <ul>
   <li><strong>When a download completes</strong>:
     <ul>

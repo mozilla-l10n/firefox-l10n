@@ -6,6 +6,7 @@
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Вылучыць усё">
 <!ENTITY selectall.accesskey "у">
+<!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "w">
 <!ENTITY generalTab "Агульныя">
 <!ENTITY generalTab.accesskey "А">

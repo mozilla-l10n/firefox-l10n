@@ -44,6 +44,8 @@
 <!ENTITY reloadImageCmd.accesskey "б">
 <!ENTITY viewImageCmd.label "Праглядзець малюнак">
 <!ENTITY viewImageCmd.accesskey "М">
+<!ENTITY viewVideoCmd.label "Пабачыць відэя">
+<!ENTITY viewVideoCmd.accesskey "в">
 <!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
 <!ENTITY viewBGImageCmd.accesskey "Ф">
 <!ENTITY setWallpaperCmd.label "Усталяваць як шпалеры">

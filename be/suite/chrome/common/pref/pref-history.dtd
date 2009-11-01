@@ -16,3 +16,9 @@
 <!ENTITY clearLocationBar.label "Знішчыць спіс пляцовак, якія захоўваюцца ў меню на адраснай паліцы.">
 <!ENTITY clearLocationBarButton.label "Ачысціць паліцу адрасоў">
 <!ENTITY clearLocationBarButton.accesskey "ч">
+<!ENTITY formfillHistory.caption "Гісторыя формаў і пошукаў">
+<!ENTITY enableFormfill.label "Дазволіць гісторыю формаў і пошукаў">
+<!ENTITY enableFormfill.accesskey "Д">
+<!ENTITY formfillExpire.label "Памятаць гісторыя формаў і пошукаў на працягу">
+<!ENTITY formfillExpire.accesskey "ф">
+<!ENTITY formfillDays.label "дзён">

@@ -1,4 +1,4 @@
-<!ENTITY pref.offline.title "Праца па-за сеткай і дыскавая прастора">
+<!ENTITY pref.network.title "Сетка і захоўванне">
 <!ENTITY pref.offline.caption "Па-за сеткай">
 <!ENTITY textStartUp "Пры запуску:">
 <!ENTITY textStartUp.accesskey "П">
@@ -20,7 +20,11 @@
 <!ENTITY radioNotDownload "Не">
 <!ENTITY radioNotDownload.accesskey "е">
 <!ENTITY radioAskDownload "Спытаць мяне">
-<!ENTITY radioAskDownload.accesskey "з">
+<!ENTITY radioAskDownload.accesskey "С">
+<!ENTITY mailConnections.caption "Паштовыя злучэнні">
+<!ENTITY mailnewsTimeout.label "Часаспын злучэння:">
+<!ENTITY mailnewsTimeout.accesskey "Ч">
+<!ENTITY mailnewsTimeoutSeconds.label "секундаў">
 <!ENTITY Diskspace "Дыскавая прастора">
 <!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш">
 <!ENTITY offlineCompact.accesskey "У">

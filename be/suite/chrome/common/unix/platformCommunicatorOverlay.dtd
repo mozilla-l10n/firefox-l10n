@@ -16,3 +16,5 @@
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
 <!ENTITY shiftKey.label "Shift">
+<!ENTITY copyImageURLCmd.label "Капіяваць месцазнаходжанне малюнка">
+<!ENTITY copyImageURLCmd.accesskey "К">

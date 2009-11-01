@@ -69,6 +69,11 @@
 <!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
 <!ENTITY clearCacheNow.label "Ачысціць зараз">
 <!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY certSelection.description "Калі паслугач патрабуе маё асабістае пасведчанне:">
+<!ENTITY certs.auto "Выбраць адно самастойна">
+<!ENTITY certs.auto.accesskey "с">
+<!ENTITY certs.ask "Пытацца ў мяне кожны раз">
+<!ENTITY certs.ask.accesskey "р">
 <!ENTITY viewCertificates.label "Прагляд пасведчанняў">
 <!ENTITY viewCertificates.accesskey "г">
 <!ENTITY viewCRLs.label "Спісы адклікання">

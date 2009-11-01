@@ -1,0 +1,22 @@
+<!ENTITY window.width "42em">
+<!ENTITY cookiesonsystem.label "Наступныя біркі захоўваюцца на вашым кампутары:">
+<!ENTITY cookiename.label "Назва біркі">
+<!ENTITY cookiedomain.label "Пляцоўка">
+<!ENTITY button.removecookie.label "Выдаліць бірку">
+<!ENTITY button.removecookie.accesskey "В">
+<!ENTITY button.removeallcookies.label "Выдаліць усе біркі">
+<!ENTITY button.removeallcookies.accesskey "В">
+<!ENTITY props.name.label "Назва:">
+<!ENTITY props.value.label "Змесціва:">
+<!ENTITY props.domain.label "Трымальнік:">
+<!ENTITY props.path.label "Шлях:">
+<!ENTITY props.secure.label "Дасылаецца праз:">
+<!ENTITY props.expires.label "Высільваецца:">
+<!ENTITY window.title "Біркі">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Пошук:">
+<!ENTITY filter.accesskey "П">
+<!ENTITY button.close.label "Закрыць">
+<!ENTITY button.close.accesskey "З">

@@ -14,12 +14,7 @@
 <!ENTITY color.label "Колер:">
 <!ENTITY color.accesskey "К">
 <!ENTITY displayWidth.label "Простатэкставыя лісты">
-<!ENTITY plainText.label "Ужываць наступны шрыфт:">
 <!ENTITY displayText.label "Калі адлюстроўваюцца цытаваныя простатэкставыя лісты:">
-<!ENTITY fixedWidth.label "Шрыфт нязменнай шырыні">
-<!ENTITY fixedWidth.accesskey "н">
-<!ENTITY variableWidth.label "Шрыфт зменнай шырыні">
-<!ENTITY variableWidth.accesskey "м">
 <!ENTITY colors.label "Колеры">
 <!ENTITY overrideColors.label "Падчас адлюстравання лістоў ужываць наступныя колеры:">
 <!ENTITY textColor.label "Колер тэксту:">
@@ -35,7 +30,10 @@
 <!ENTITY editTagButton.accesskey "П">
 <!ENTITY removeTagButton.label "Выдаліць">
 <!ENTITY removeTagButton.accesskey "В">
-<!ENTITY fontAndEncodingsDescription.label "Наладка шрыфтоў і кадовак, якія ўжываюцца &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "Шрыфты і кадоўкі">
-<!ENTITY fontOptions.accesskey "Ш">
-<!ENTITY fontOptions.label "Шрыфты…">
+<!ENTITY fontsAndColors.label "Шрыфты">
+<!ENTITY defaultFont.label "Змоўчны шрыфт:">
+<!ENTITY defaultFont.accesskey "З">
+<!ENTITY defaultSize.label "Памер:">
+<!ENTITY defaultSize.accesskey "П">
+<!ENTITY fontOptions.accesskey "ш">
+<!ENTITY fontOptions.label "Пашыраны…">
