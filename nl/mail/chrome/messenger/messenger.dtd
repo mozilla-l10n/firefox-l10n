@@ -729,8 +729,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey "k">
-<!ENTITY copyImageCmd.label "Afbeeldingslocatie kopiëren">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Afbeelding kopiëren">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey "m">
 <!ENTITY stopCmd.label "Stoppen">
