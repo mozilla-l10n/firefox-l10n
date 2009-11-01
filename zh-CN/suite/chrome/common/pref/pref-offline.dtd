@@ -8,6 +8,6 @@
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY textStart   "在启动&brandShortName;时:">
+<!ENTITY textStart   "在启动 &brandShortName; 时:">
 <!ENTITY radioAskMode  "当我选择在线/离线模式时提示我">
 <!ENTITY radioUsePrev  "使用我先前的在线/离线状态"> 

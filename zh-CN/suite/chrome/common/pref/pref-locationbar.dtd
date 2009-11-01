@@ -28,7 +28,7 @@
 <!ENTITY showSearchEngine.accesskey            "e">
 
 <!ENTITY unknownLocations.label                "未知的位置">
-<!ENTITY domainGuessing.label                  "当一个网页没有找到时, 为地址添加&quot;www.&quot; 和 &quot;.com&quot;">
+<!ENTITY domainGuessing.label                  "当一个网页没有找到时, 为地址添加 &quot;www.&quot; 和 &quot;.com&quot;">
 <!ENTITY domainGuessing.accesskey              "d">
 <!ENTITY keywords.label                        "当输入文本不是网站地址时在网络中搜索">
 <!ENTITY keywords.accesskey                    "P">

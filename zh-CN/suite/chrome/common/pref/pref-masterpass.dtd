@@ -38,7 +38,7 @@
 
 <!ENTITY  pref.masterpass.title                  "主密码">
 <!ENTITY  managepassword.caption                 "主密码超时">
-<!ENTITY  managepassword.text                    "&brandShortName; 将请求您的主密码:">
+<!ENTITY  managepassword.text                    "&brandShortName; 将请求验证您的主密码:">
 <!ENTITY  managepassword.askfirsttime            "第一次需要时">
 <!ENTITY  managepassword.askfirsttime.accesskey  "T">
 <!ENTITY  managepassword.askeverytime            "每次需要时">

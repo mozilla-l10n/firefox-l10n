@@ -1,5 +1,5 @@
 <!ENTITY defaultClient.title  "默认客户端">
-<!ENTITY defaultClient.intro  "使用 &brandShortName; 作为默认客户端:">
+<!ENTITY defaultClient.intro  "使用 &brandShortName; 作为下列应用的默认客户端：">
 
 <!ENTITY browser.label "浏览器">
 <!ENTITY email.label "电子邮件">

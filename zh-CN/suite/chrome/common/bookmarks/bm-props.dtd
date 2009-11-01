@@ -37,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY bookmarks.windowtitle.label  "Properties for &quot;**bm_title**&quot的属性;">
+<!ENTITY bookmarks.windowtitle.label  "&quot;**bm_title**&quot;的属性">
 
 <!ENTITY generalInfo.label            "综述">
 <!ENTITY bookmarks.name.label         "名称:">

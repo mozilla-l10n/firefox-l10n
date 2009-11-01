@@ -1,13 +1,13 @@
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
-<!ENTITY messengerCmd.label					"邮件和新闻组">
+<!ENTITY messengerCmd.label					"邮件 &amp; 新闻组">
 <!ENTITY messengerCmd.accesskey				"m">
 <!ENTITY messengerCmd.commandkey			"2">
 <!ENTITY addressBookCmd.label				"通讯录">  
 <!ENTITY addressBookCmd.accesskey			"a">
 <!ENTITY addressBookCmd.commandkey			"5">
 
-<!ENTITY taskMessenger.tooltip  "邮件和新闻组">
+<!ENTITY taskMessenger.tooltip  "邮件 &amp; 新闻组">
 <!ENTITY taskAddressBook.tooltip  "通讯录">
 
 <!-- searchAddressesCmd is also used by addressbook -->

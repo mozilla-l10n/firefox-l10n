@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.mailnews.title              "邮件和新闻组">
+<!ENTITY pref.mailnews.title              "邮件 &amp; 新闻组">
 <!ENTITY generalSettings.caption          "常规设置">
 <!ENTITY confirmMove.label                "移动文件夹至回收站时进行确定">
 <!ENTITY confirmMove.accesskey            "C">
@@ -44,7 +44,7 @@
 <!ENTITY mailBiffOnNewWindow.label        "只在打开邮箱或新闻组时检查是否有新邮件">
 <!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
-<!ENTITY defaultMailSettings.description  "创建 &brandShortName; 默认应用是为了：">
+<!ENTITY defaultMailSettings.description  "将 &brandShortName; 设为下列应用的默认程序：">
 <!ENTITY setDefaultMail.label             "邮件">
 <!ENTITY setDefaultMail.accesskey         "M">
 <!ENTITY setDefaultNews.label             "新闻">

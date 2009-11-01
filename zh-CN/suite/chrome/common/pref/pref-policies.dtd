@@ -1,7 +1,7 @@
 
 <!ENTITY  pref.policies.title "安全策略">
 
-<!ENTITY  zoneIntro.label     "&brandShortName; 允许你创建一组策略来定义访问一个站点时所使用的各种功能, 包括脚本和Java特性等.">
+<!ENTITY  zoneIntro.label     "&brandShortName; 允许您创建一组策略来定义访问一个站点时允许其使用的各种功能, 包括脚本和 Java 特性等。">
 
 <!ENTITY  policies.label      "策略：">
 <!ENTITY  default.label       "默认策略">
