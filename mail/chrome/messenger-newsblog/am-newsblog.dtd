@@ -14,7 +14,7 @@
 <!ENTITY manageSubscriptions.accesskey "b">
 
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Blogs &amp; nieuws-feeds">
+<!ENTITY feeds.accountName "Blogs &amp; nieuwsfeeds">
 <!ENTITY feeds.wizardShortName "Feeds">
-<!ENTITY feeds.wizardLongName "Blogs &amp; nieuws-feeds">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feeds.wizardLongName "Blogs &amp; nieuwsfeeds">
+<!ENTITY feeds.wizardLongName.accesskey "f">
