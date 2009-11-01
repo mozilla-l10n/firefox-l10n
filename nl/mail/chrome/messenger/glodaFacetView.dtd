@@ -9,7 +9,7 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
-<!ENTITY glodaFacetView.empty.label "Geen berichten komen overeen">
+<!ENTITY glodaFacetView.empty.label "Er komen geen berichten overeen met uw zoekopdracht">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->

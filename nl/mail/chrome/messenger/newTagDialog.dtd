@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog.title      "Nieuw label maken">
 <!ENTITY name.label              "Labelnaam:">
-<!ENTITY name.accesskey             "L">
+<!ENTITY name.accesskey          "L">

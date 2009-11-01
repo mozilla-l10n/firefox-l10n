@@ -46,13 +46,13 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY importDialog.windowTitle "Importeren">
 <!ENTITY importAll.label          "Alles importeren">
-<!ENTITY importAll.accesskey      "i">
+<!ENTITY importAll.accesskey      "s">
 <!ENTITY importMail.label         "E-mail">
 <!ENTITY importMail.accesskey     "E">
 <!ENTITY importAddressbook.label  "Adresboeken">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Instellingen">
-<!ENTITY importSettings.accesskey "s">
+<!ENTITY importSettings.accesskey "I">
 <!ENTITY importFilters.label      "Filters">
 <!ENTITY importFilters.accesskey  "F">
 

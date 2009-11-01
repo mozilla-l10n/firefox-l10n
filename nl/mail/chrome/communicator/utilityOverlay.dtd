@@ -35,7 +35,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "V">
 
 <!ENTITY viewMenu.label "Beeld">
-<!ENTITY viewMenu.accesskey "L">
+<!ENTITY viewMenu.accesskey "l">
 <!ENTITY viewToolbarsMenu.label "Werkbalken">
 <!ENTITY viewToolbarsMenu.accesskey "W">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
@@ -55,5 +55,5 @@
 <!ENTITY quitApplicationCmdUnix.label "Afsluiten">
 <!ENTITY quitApplicationCmdUnix.accesskey "A">
 
-<!ENTITY quitApplicationCmdMac.label	"&brandShortName; afsluiten"> 
-<!ENTITY quitApplicationCmdMac.accesskey	"a">
+<!ENTITY quitApplicationCmdMac.label "&brandShortName; afsluiten"> 
+<!ENTITY quitApplicationCmdMac.accesskey "a">

@@ -1,20 +1,20 @@
-<!ENTITY autoconfigWizard.title          "E-mail accountsetup">
+<!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
 <!ENTITY name.label                      "Uw naam:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.emptytext                  "Voornaam achternaam">
-<!ENTITY name.text                       "Uw naam, deze wordt getoond aan anderen">
+<!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "E">
 <!ENTITY email.emptytext                 "email@example.com">
 <!ENTITY password.label                  "Wachtwoord:">
 <!ENTITY password.accesskey              "W">
 <!ENTITY password.emptytext              "Wachtwoord">
-<!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om uw gebruikersnaam te valideren">
+<!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren">
   
 <!ENTITY accountInformation.label        "Accountinformatie">
 <!ENTITY username2.label                 "Gebruikersnaam:">
-<!ENTITY incoming.label                  "Inkomende:">
-<!ENTITY outgoing.label                  "Uitgaande:">
+<!ENTITY incoming.label                  "Inkomend:">
+<!ENTITY outgoing.label                  "Uitgaand:">
 <!ENTITY noEncryption.label              "Geen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -23,15 +23,15 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!ENTITY manualSetup.label               "Handmatig configureren…">
+<!ENTITY manualSetup.label               "Handmatige configuratie…">
 <!ENTITY manualSetup.accesskey           "H">
 <!ENTITY cancel.label                    "Annuleren">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Doorgaan">
 <!ENTITY continue.accesskey              "D">
 <!ENTITY startOver.label                 "Opnieuw beginnen">
 <!ENTITY startOver.accesskey             "b">
-<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.label                      "Stoppen">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
@@ -45,13 +45,13 @@
 <!ENTITY rememberPassword.accesskey      "o">
 
 <!ENTITY warning.label                   "Waarschuwing!">
-<!ENTITY incomingSettings.label          "Inkomende instellingen:">
-<!ENTITY outgoingSettings.label          "Uitgaande instellingen:">
+<!ENTITY incomingSettings.label          "Instellingen inkomend:">
+<!ENTITY outgoingSettings.label          "Instellingen uitgaand:">
 <!ENTITY technicaldetails.label          "Technische details">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Ik begrijp de risico's.">
+<!ENTITY confirmWarning.label            "Ik begrijp de risico’s.">
 <!ENTITY confirmWarning.accesskey        "b">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
@@ -65,11 +65,11 @@
 <!ENTITY changeSettings.label            "Instellingen wijzigen">
 <!ENTITY changeSettings.accesskey        "I">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kan u toestaan uw mail met de gegeven configuratie binnen te halen. Maar u zou contact moeten opnen met uw systeembeheerder of e-mailprovider vanwege deze onjuiste verbinding. Zie de Thunderbird FAQ voor meer informatie.">
+<!ENTITY contactYourProvider.description "&brandShortName; kan u toegang tot uw e-mail geven met de opgegeven configuratie. U zou echter contact kunnen opnemen met uw systeembeheerder of e-mailprovider vanwege deze onjuiste verbindingen. Zie de Thunderbird-FAQ voor meer informatie.">
 
-<!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een onveilige server.">
+<!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een niet-beveiligde server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">
 
-<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie zijn niet versleuteld verzonden, dus uw wachtwoord (en uw bericht) kan gemakkelijk gelezen worden bij andere mensen. &brandShortName; staat toe dat u uw e-mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een beveiligde verbinding.">
-<!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat die we niet kunnen vertrouwen, dus we weten niet zeker of niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; staat toe dat u uw mail krijgt maar u zou uw e-mailprovider moeten vragen om de server te configureren met een vertrouwde certificaat.">
+<!ENTITY insecureUnencrypted.description "Uw e-mail en authenticatie worden niet-versleuteld verzonden, dus uw wachtwoord (en uw bericht) kunnen gemakkelijk worden gelezen door anderen. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een beveiligde verbinding.">
+<!ENTITY insecureSelfSigned.description  "De server gebruikt een certificaat dat we niet kunnen vertrouwen, dus we weten niet zeker dat niemand het verkeer tussen &brandShortName; en uw server onderschept. &brandShortName; geeft u toegang tot uw e-mail, maar u zou uw e-mailprovider kunnen vragen de server te configureren met een vertrouwd certificaat.">
 <!ENTITY secureServer.description        "Gefeliciteerd! Dit is een beveiligde server.">

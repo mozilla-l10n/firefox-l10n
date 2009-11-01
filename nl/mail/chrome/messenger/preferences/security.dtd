@@ -22,10 +22,10 @@
 <!ENTITY resetTrainingData.accesskey "T">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro "&brandShortName; kan berichten analyseren op verdachte e-mailscams door te kijken naar veelvoorkomende technieken die worden gebruikt om u te misleiden.">
-<!ENTITY enablePhishingDetector1.label    "Mij vertellen of het gelezen bericht een verdachte e-mailscam is">
+<!ENTITY phishingDetector1.intro "&brandShortName; kan berichten analyseren op vermoedelijke e-mailscams door te kijken naar veelvoorkomende technieken die worden gebruikt om u te misleiden.">
+<!ENTITY enablePhishingDetector1.label    "Mij vertellen of het gelezen bericht een vermoedelijke e-mailscam is">
 <!ENTITY enablePhishingDetector1.accesskey  "M">
-<!ENTITY useDownloadedList.label "Een gedownloade lijst van verdachte e-mailscams gebruiken">
+<!ENTITY useDownloadedList.label "Een gedownloade lijst van vermoedelijke e-mailscams gebruiken">
 <!ENTITY useDownloadedList.accesskey "d">
 
 <!-- Passwords -->
@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; laat u instellen welke blogs, nieuws-feeds en andere webpagina's toestemming hebben om cookies in te stellen.">
+<!ENTITY cookies.intro                  "U kunt in &brandShortName; opgeven welke blogs, nieuwsfeeds en andere webpagina’s toestemming hebben om cookies in te stellen.">
 <!ENTITY acceptCookies.label            "Cookies van websites accepteren">
 <!ENTITY acceptCookies.accesskey        "C">
 <!ENTITY keepUntil.label                "Bewaren totdat:">

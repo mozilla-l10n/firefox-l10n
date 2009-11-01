@@ -1,14 +1,14 @@
 <!ENTITY itemGeneral.label       "Algemeen">
-<!ENTITY itemDisplay.label       "Lezen &amp; scherm">
+<!ENTITY itemDisplay.label       "Lezen &amp; weergave">
 <!ENTITY itemUpdate.label        "Update">
 <!ENTITY itemNetworking.label    "Netwerk &amp; schijfruimte">
 <!ENTITY itemCertificates.label  "Certificaten">
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Globale zoek en indexer activeren">
+<!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
-<!ENTITY systemIntegration.label       "Systeem integratie">
+<!ENTITY systemIntegration.label       "Systeemintegratie">
 <!ENTITY alwaysCheckDefault.label      "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; toestaan om berichten te doorzoeken">
@@ -24,7 +24,7 @@
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Lezen">
-<!ENTITY display.caption               "Scherm">
+<!ENTITY display.caption               "Weergave">
 <!ENTITY showCondensedAddresses.label  "Van personen in mijn adresboek alleen weergavenaam tonen">
 <!ENTITY showCondensedAddresses.accesskey "V">
 
@@ -67,7 +67,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Instellingen…">
 <!ENTITY showSettings.accesskey        "I">
-<!ENTITY proxiesConfigure.label        "Instellen hoe &brandShortName; verbinding maakt met het internet">
+<!ENTITY proxiesConfigure.label        "Configureren hoe &brandShortName; verbinding maakt met het internet">
 <!ENTITY connectionsInfo.caption       "Verbinding">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Offline-instellingen configureren">
@@ -92,7 +92,7 @@
 <!ENTITY clearCacheNow.accesskey         "w">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Wanneer een server om mijn persoonlijke certificaat verzoekt:">
+<!ENTITY certSelection.description       "Wanneer een server om mijn persoonlijke certificaat vraagt:">
 <!ENTITY certs.auto                      "Er automatisch een selecteren">
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Mij elke keer vragen">

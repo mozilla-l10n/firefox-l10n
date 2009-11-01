@@ -54,9 +54,9 @@
 <!ENTITY retentionUseAccount.accesskey "M">
 <!ENTITY daysOld.label "dagen">
 <!ENTITY message.label "">
-<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd.">
-<!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, de lokale en de orginele versie op de server.">
-<!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd, inclusief de orginele op de server.">
+<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd.">
+<!ENTITY retentionCleanupImap.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd, zowel de lokale als de orginele versies op de server.">
+<!ENTITY retentionCleanupPop.label "Om schijfruimte vrij te maken kunnen oude berichten permanent worden verwijderd, inclusief de orginele op de server.">
 <!ENTITY retentionDeleteMsg.label "Berichten verwijderen die ouder zijn dan">
 <!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
@@ -64,7 +64,7 @@
 <!ENTITY retentionKeepRecent.label "Alle berichten verwijderen, behalve de meest recente">
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdinstellingen negeren)">
+<!ENTITY retentionKeepUnreadHidden.label "Gelezen berichten altijd verwijderen (leeftijdsinstellingen negeren)">
 <!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -90,7 +90,7 @@
 <!ENTITY folderSharingTab.label                  "Delen">
 <!ENTITY privileges.button.label                 "Privileges…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "U hebt de volgende toestemmingen:">
+<!ENTITY permissionsDesc.label                   "U hebt de volgende rechten:">
 <!ENTITY folderType.label                        "Maptype:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">

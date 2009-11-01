@@ -64,21 +64,21 @@
 <!ENTITY hdrReplyAllButton.label "allen beantwoorden">
 <!ENTITY hdrReplyAllButton.tooltip "afzender en alle ontvangers beantwoorden">
 <!ENTITY hdrReplyListButton.label "lijst beantwoorden">
-<!ENTITY hdrReplyListButton.tooltip "e-maillijst beantwoorden">
+<!ENTITY hdrReplyListButton.tooltip "mailinglijst beantwoorden">
 <!ENTITY hdrForwardButton.label "doorsturen">
 <!ENTITY hdrForwardButton.tooltip "dit bericht doorsturen">
 <!ENTITY hdrJunkButton.label "ongewenst">
-<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
+<!ENTITY hdrJunkButton.tooltip "dit bericht als ongewenst markeren">
 <!ENTITY hdrTrashButton.label "verwijderen">
 <!ENTITY hdrTrashButton.tooltip "dit bericht verwijderen">
 
 <!ENTITY hdrViewToolbarShowFull.label "Pictogrammen en tekst tonen">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
-<!ENTITY hdrViewToolbarShowIcons.label "Pictogrammen alleen tonen">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "P">
-<!ENTITY hdrViewToolbarShowText.label "Tekst alleen tonen">
-<!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Altijd afzender beantwoorden tonen">
+<!ENTITY hdrViewToolbarShowIcons.label "Alleen pictogrammen tonen">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "p">
+<!ENTITY hdrViewToolbarShowText.label "Alleen tekst tonen">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Afzender beantwoorden altijd tonen">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "b">
 
 <!ENTITY otherActionsButton.label "andere acties">

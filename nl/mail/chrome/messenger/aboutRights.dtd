@@ -2,7 +2,6 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Over uw rechten">
 <!ENTITY rights.intro-header     "Over uw rechten">
-
 <!ENTITY rights.intro "&brandFullName; is gratis en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld. Er zijn een paar zaken die u moet weten:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -30,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Privacybeleiden die van toepassing zijn op dit product dienen hier te worden genoemd.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on update-service; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, inclusief informatie over het uitschakelen van de diensten, is te vinden in de ">
+<!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on-updateservice; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, is te vinden in de ">
 <!ENTITY rights.intro-point4b "servicevoorwaarden">
 <!ENTITY rights.intro-point4c ".">
 
@@ -46,11 +45,11 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (&quot;Diensten&quot;) aan, zoals de add-on update-service, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on update-service uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
+<!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (“Diensten”) aan, zoals de add-on-updateservice, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on-updateservice uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
 <!ENTITY rights.webservices-b "Geavanceerd">
-<!ENTITY rights.webservices-c " te selecteren, gevolgd door het ">
+<!ENTITY rights.webservices-c " te selecteren, gevolgd door het tabblad ">
 <!ENTITY rights.webservices-d "Update">
-<!ENTITY rights.webservices-e " tabblad en de opties voor &quot;Automatisch controleren op updates voor:&quot; uit te vinken.">
+<!ENTITY rights.webservices-e ", en de opties voor “Automatisch controleren op updates voor:” uit te vinken.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Een overzicht van de in het product opgenomen websitediensten, samen met instructies over het uitschakelen ervan, indien van toepassing, dienen hier te worden bijgesloten.">

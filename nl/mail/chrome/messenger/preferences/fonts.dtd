@@ -58,9 +58,9 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Lettertypen instellingen">
-<!ENTITY  useFixedWidthForPlainText.label         "Gebruik vastebreedtelettertype voor platte tekstberichten">
-<!ENTITY  fixedWidth.accesskey                    "v">
+<!ENTITY  fontControl.label                       "Lettertype-instellingen">
+<!ENTITY  useFixedWidthForPlainText.label         "Vastebreedtelettertype gebruiken voor plattetekstberichten">
+<!ENTITY  fixedWidth.accesskey                    "b">
 <!ENTITY  useDocumentFonts.label                  "Berichten toestaan om andere lettertypen te gebruiken">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
@@ -73,4 +73,4 @@
 <!ENTITY viewDefaultCharsetList.label     "Inkomende e-mailberichten:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
 <!ENTITY replyInDefaultCharset2.label     "Wanneer mogelijk, de standaard tekenset gebruiken in antwoorden">
-<!ENTITY replyInDefaultCharset2.accesskey "b">
+<!ENTITY replyInDefaultCharset2.accesskey "W">

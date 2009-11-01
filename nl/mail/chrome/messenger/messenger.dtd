@@ -11,11 +11,10 @@
 <!ENTITY closeOtherTabsCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY newOtherAccountsCmd.label "Andere Accounts…">
+<!ENTITY newOtherAccountsCmd.label "Andere accounts…">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
 <!ENTITY newEmailAccountCmd.label "E-mailaccount…">
 <!ENTITY newEmailAccountCmd.accesskey "E">
-
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
@@ -71,7 +70,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Bericht verwijderen">
-<!ENTITY deleteMsgCmd.accesskey "w">
+<!ENTITY deleteMsgCmd.accesskey "v">
 <!ENTITY undeleteMsgCmd.label "Verwijderen bericht ongedaan maken">
 <!ENTITY undeleteMsgCmd.accesskey "V">
 <!ENTITY cancelNewsMsgCmd.label "Bericht annuleren">
@@ -324,8 +323,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Bericht">
 <!ENTITY newNewMsgCmd.accesskey "B">
-<!ENTITY archiveMsgCmd.label "Archief">
-<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.label "Archiveren">
+<!ENTITY archiveMsgCmd.accesskey "h">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Beantwoorden">
 <!ENTITY replyMsgCmd.accesskey "a">
@@ -338,7 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Lijst beantwoorden">
-<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.accesskey  "i">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Doorsturen">
 <!ENTITY forwardMsgCmd.accesskey "s">
@@ -355,7 +354,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Verplaatsen naar">
-<!ENTITY moveMsgToMenu.accesskey "p">
+<!ENTITY moveMsgToMenu.accesskey "r">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Berichtlocatie kopiëren">
@@ -363,7 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMsgToMenu.label "Kopiëren naar">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Opnieuw verplaatsen">
-<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgain.accesskey "w">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Conversatie negeren">
 <!ENTITY killThreadMenu.accesskey "C">
@@ -433,15 +432,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Extra">
 <!ENTITY tasksMenu.accesskey "x">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "Activiteitsbeheerder">
-<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "E-mail &amp; nieuwsgroepen">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "Activiteitsbeheerder">
+<!ENTITY activitymanager.accesskey "e">
 <!ENTITY filtersCmd.label "Berichtenfilters…">
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
@@ -505,7 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "E-maillijst beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
-<!ENTITY archiveButton.tooltip "Geselecteerde bericht archiveren">
+<!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY previousButton.tooltip "Naar het vorige ongelezen bericht gaan">
 <!ENTITY goForwardButton.tooltip "Een bericht vooruit gaan">
@@ -514,7 +513,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY undeleteButton.tooltip "Geselecteerde bericht terugplaatsen">
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY printButton.tooltip "Dit bericht afdrukken">
-<!ENTITY stopButton.tooltip "Huidige verbinding verbreken">
+<!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 <!ENTITY addressBookButton.tooltip "Naar het adresboek gaan">
@@ -633,7 +632,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Als nieuw bewerken…">
 <!ENTITY contextEditAsNew.accesskey "b">
-<!ENTITY contextArchive.label "Archief">
+<!ENTITY contextArchive.label "Archiveren">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
@@ -642,13 +641,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
 <!ENTITY contextReplyList.label "Lijst beantwoorden">
-<!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextReplyList.accesskey "i">
 <!ENTITY contextForward.label "Doorsturen">
 <!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsAttachment.label "Doorsturen als bijlagen">
 <!ENTITY contextForwardAsAttachment.accesskey "t">
 <!ENTITY contextMoveMsgMenu.label "Verplaatsen naar">
-<!ENTITY contextMoveMsgMenu.accesskey "V">
+<!ENTITY contextMoveMsgMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Kopiëren naar">
@@ -738,9 +737,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Vernieuwen">
 <!ENTITY reloadCmd.accesskey "V">
-<!ENTITY openInBrowser.label "In browser openen">
-<!ENTITY openInBrowser.accesskey "o">
-<!ENTITY openLinkInBrowser.label "Koppeling in browser openen">
+<!ENTITY openInBrowser.label "Openen in browser">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "Koppeling openen in browser">
 <!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
