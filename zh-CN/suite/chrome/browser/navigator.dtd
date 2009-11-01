@@ -40,7 +40,7 @@
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "视图">
+<!ENTITY viewMenu.label "查看">
 <!ENTITY viewMenu.accesskey "v">
 
 <!ENTITY toolbarsCmd.label "显示/隐藏">

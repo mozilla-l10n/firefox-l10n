@@ -6,7 +6,7 @@
 
 <!ENTITY search.emptytext               "搜索历史记录">
 <!ENTITY search.key                     "f">
-<!ENTITY view.label                     "视图">
+<!ENTITY view.label                     "查看">
 
 <!ENTITY view.columns.label             "显示列">
 <!ENTITY view.columns.accesskey         "C">
