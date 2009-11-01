@@ -16,9 +16,9 @@
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "仅显示当前帧">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY goBackCmd.label              "上一步">
+<!ENTITY goBackCmd.label              "后退">
 <!ENTITY goBackCmd.accesskey          "B">
-<!ENTITY goForwardCmd.label           "转发">
+<!ENTITY goForwardCmd.label           "前进">
 <!ENTITY goForwardCmd.accesskey       "F">
 <!ENTITY goUpCmd.label                "向上">
 <!ENTITY goUpCmd.accesskey            "U">
