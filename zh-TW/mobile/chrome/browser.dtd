@@ -31,13 +31,9 @@
 <!ENTITY helperApp.save            "儲存">
 <!ENTITY helperApp.nothing         "不使用">
 
-<!ENTITY findOnCmd.label     "尋找文字…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "找下一個">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous       "上一個">
+<!ENTITY formHelper.next           "下一個">
+<!ENTITY formHelper.done           "完成">
 
 <!ENTITY addonsHeader.label        "附加元件">
 <!ENTITY addonsLocal.label         "你的附加元件">
@@ -66,6 +62,7 @@
 <!ENTITY downloadResume.label      "繼續">
 <!ENTITY downloadRetry.label       "重試">
 <!ENTITY downloadRemove.label      "移除">
+<!ENTITY downloadFailed.label      "下載失敗">
 
 <!ENTITY noResults.label           "沒有結果">
 <!ENTITY allBookmarks.label        "顯示所有書籤">
@@ -96,5 +93,3 @@
 <!ENTITY consoleErrFile.label      "原始檔:">
 <!ENTITY consoleErrLine.label      "行號:">
 <!ENTITY consoleErrColumn.label    "欄數:">
-
-<!ENTITY selectListDone.label      "完成">
