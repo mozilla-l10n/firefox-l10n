@@ -63,7 +63,7 @@
 <!ENTITY releaseCmd.accesskey                   "N">
 <!ENTITY updateCmd.label                        "检查更新">
 <!ENTITY updateCmd.accesskey                    "C">
-<!ENTITY aboutCmd.label					"关闭 &brandShortName;">
+<!ENTITY aboutCmd.label					"关于 &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"A">
 <!ENTITY aboutCommPluginsCmd.label			"关于插件">
 <!ENTITY aboutCommPluginsCmd.accesskey			"p">
