@@ -159,7 +159,7 @@
 <!ENTITY event.help.release.notes.accesskey               "R">
 <!ENTITY event.help.help.label                            "&brandShortName; 帮助">
 <!ENTITY event.help.help.accesskey                        "H">
-<!ENTITY event.help.about.label                           "关闭 &brandShortName;">
+<!ENTITY event.help.about.label                           "关于 &brandShortName;">
 <!ENTITY event.help.about.accesskey                       "A">
 
 <!ENTITY event.invite.attendees.label                     "邀请参与者…">
