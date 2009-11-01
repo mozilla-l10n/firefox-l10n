@@ -130,9 +130,9 @@
 <!ENTITY navigationToolbar.tooltip        "导航工具栏">
 
 <!-- Toolbar items --> 
-<!ENTITY backButton.label             "上一步">
+<!ENTITY backButton.label             "后退">
 <!ENTITY backButton.tooltip           "转到上一页">
-<!ENTITY forwardButton.label          "转发">
+<!ENTITY forwardButton.label          "前进">
 <!ENTITY forwardButton.tooltip        "转到下一页">
 <!ENTITY reloadButton.label           "重新加载">
 <!ENTITY reloadButton.tooltip         "重新载入当前页面">
