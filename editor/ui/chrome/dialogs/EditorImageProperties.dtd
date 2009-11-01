@@ -40,11 +40,11 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "圖片屬性">
 
-<!ENTITY pixelsPopup.value "像素">
+<!ENTITY pixelsPopup.value "圖素">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "圖片位址 (URL):">
-<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.accessKey "g">
 <!ENTITY locationEditField.tooltip "輸入圖片檔的檔名路徑或網址">
 <!ENTITY title.label "提示文字:">
 <!ENTITY title.accessKey "T">
@@ -78,7 +78,7 @@
 <!ENTITY imagemapBox.label "圖片對應 Map">
 <!ENTITY removeImageMapButton.label "移除">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "編輯...">
+<!ENTITY editImageMapButton.label "編輯…">
 <!ENTITY editImageMapButton.tooltip "建立圖片上可以點選的Hotspot">
 
 <!-- These are the options for image alignment -->
@@ -92,7 +92,7 @@
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "空白">
 <!ENTITY leftRightEditField.label "左右兩邊">
-<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY leftRightEditField.accessKey "g">
 <!ENTITY topBottomEditField.label "頂端和底部:">
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "實心框線:">
@@ -104,7 +104,7 @@
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "表單">
-<!ENTITY imageLocationTab.label "位址">
-<!ENTITY imageDimensionsTab.label "尺寸">
+<!ENTITY imageLocationTab.label "地點">
+<!ENTITY imageDimensionsTab.label "大小">
 <!ENTITY imageAppearanceTab.label "外觀設定">
 <!ENTITY imageLinkTab.label "鏈結">

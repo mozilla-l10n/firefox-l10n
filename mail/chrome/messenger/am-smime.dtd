@@ -1,18 +1,28 @@
-<!ENTITY securityTitle.label "安全資訊">
+<!ENTITY securityTitle.label "安全性">
+<!ENTITY securityTab.label "安全性">
 <!ENTITY securityHeading.label "要收發有簽章或加密的郵件，您必須指定數位簽章及加密憑證。">
 <!ENTITY encryptionGroupTitle.label "加密">
 <!ENTITY encryptionChoiceLabel.label "寄送郵件時預設加密設定:">
 <!ENTITY neverEncrypt.label "不使用 (不加密)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "必要 (除非所有收件者都有憑證否則不寄出)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "使用下面的個人憑證以加解密寄給您的郵件:">
-<!ENTITY certificate.button "選擇...">
-<!ENTITY certificate_clear.button "清除">
+<!ENTITY digitalSign.certificate.button "選擇…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "清除">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "選擇…">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "清除">
+<!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "數位簽章">
 <!ENTITY signMessage.label "加上數位簽章 (預設)">
+<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "使用此憑證簽署您寄出的郵件:">
 
-<!ENTITY certificates.label     "憑證">
-<!ENTITY managecerts.label      "憑證">
-<!ENTITY managecerts.accesskey  "V">
-<!ENTITY managedevices.label    "管理安全裝置">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY certificates.label "憑證">
+<!ENTITY manageCerts.label "檢視憑證">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageDevices.label "安全裝置">
+<!ENTITY manageDevices.accesskey "y">

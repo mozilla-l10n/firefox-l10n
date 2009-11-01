@@ -44,11 +44,11 @@
 <!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "寬度:">
 <!ENTITY widthEditField.accessKey "W">
-<!ENTITY pixelsPopup.value "像素">
+<!ENTITY pixelsPopup.value "圖素">
 <!ENTITY alignmentBox.label "對齊">
 <!ENTITY leftRadio.label "靠左">
-<!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "置中">
+<!ENTITY leftRadio.accessKey "g">
+<!ENTITY centerRadio.label "靠中">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "靠右">
 <!ENTITY rightRadio.accessKey "R">

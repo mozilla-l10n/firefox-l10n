@@ -12,5 +12,5 @@
 <!ENTITY htmlOnly.label "只寄出 HTML 格式郵件">
 <!ENTITY htmlOnly.accesskey "H">
 
-<!ENTITY send.label "寄出">
+<!ENTITY send.label "寄送">
 <!ENTITY send.accesskey "S">

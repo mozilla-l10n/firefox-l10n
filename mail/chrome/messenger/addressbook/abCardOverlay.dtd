@@ -67,8 +67,7 @@
 <!ENTITY NickName.label                 "暱稱:">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY Internet.box                   "網際網路">
-<!ENTITY PrimaryEmail.label             "電子郵件：">
+<!ENTITY PrimaryEmail.label             "電子郵件:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "其它 Email:">
 <!ENTITY SecondEmail.accesskey          "i">
@@ -76,24 +75,24 @@
 <!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "純文字">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "未知格式">
+<!ENTITY Unknown.label                  "不明">
 <!ENTITY ScreenName.label               "網路代號:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "允許遠端圖片。">
-<!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "HTML 信件中可以從遠端網站來源中內嵌一些圖片。 打開這類信件將會建立連線到該外部來源。 這將可能使讀取信件的動作被追蹤。 勾選此項將允許來自此連絡人的信件使用遠端圖片。">
+<!ENTITY allowRemoteContent1.label      "允許遠端內容">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "HTML 格式的郵件可能嵌入遠端內容到郵件中。打開這類郵件時將會同時開啟億個遠端連線讀取嵌入的遠端內容來源。此動作有可能被利用來偵測該郵件已被讀取。勾選此選項將會允許在 HTML 郵件中載入遠端內容。">
 
 <!ENTITY WorkPhone.label                "商務電話:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "住家電話:">
-<!ENTITY HomePhone.accesskey            "o">
+<!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "傳真號碼:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "呼叫器:">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "行動電話:">
-<!ENTITY CellularNumber.accesskey       "M">
+<!ENTITY CellularNumber.accesskey       "b">
 
 <!ENTITY Home.tab                       "私人">
 <!ENTITY Home.accesskey                 "P">
@@ -111,21 +110,23 @@
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "網站:">
 <!ENTITY HomeWebPage.accesskey          "e">
-<!ENTITY Birthday.label                 "生日：">
+<!ENTITY Birthday.label                 "生日:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "年">
 <!ENTITY Or.value                       "或">
 <!ENTITY Age.emptytext                  "經過時間">
+<!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "商務電話">
+<!ENTITY Work.tab                       "商務">
 <!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "職稱:">
+<!ENTITY JobTitle.label                 "標題:">
 <!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "部門:">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "服務單位:">
-<!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "地址:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label              "住址:">
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
@@ -150,5 +151,21 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "自訂 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "註記：">
+<!ENTITY Notes.label                    "註記:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "相片">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "從下列選一個:">
+<!ENTITY GenericPhoto.label             "一般相片">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             " 預設">
+<!ENTITY PhotoFile.label                "從這台電腦裡">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "瀏覽">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "從網路上">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "貼上或輸入相片在網路上的網址">
+<!ENTITY UpdatePhoto.label              "更新">
+<!ENTITY UpdatePhoto.accesskey          "U">

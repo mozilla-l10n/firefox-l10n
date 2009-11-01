@@ -1,7 +1,17 @@
 <!ENTITY aboutDialog.title      "關於 &brandFullName;">
-<!ENTITY credits.label          "感謝">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; 關於 &brandFullName;">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "版本">
-<!ENTITY copyrightText          "&#169;1998-2006 Contributors. All Rights Reserved. Mozilla Thunderbird and the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights reserved.">
+<!ENTITY aboutButton.label      "&lt; 上一步">
+<!ENTITY aboutButton.accesskey  "B">
+<!ENTITY aboutVersion           "版本從">
+<!ENTITY copyrightText          "&#169;1998-2009 專案貢獻者；保留所有著作權利。Mozilla Thunderbird 字樣與 Thunderbird 標誌為 Mozilla 基金會註冊之商標；保留所有商標權利。">
+<!ENTITY aboutMenu.label        "關於">
+<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutCredits.label     "感謝">
+<!ENTITY aboutCredits.accesskey "C">
+<!ENTITY aboutRights.label      "您的權利">
+<!ENTITY aboutRights.accesskey  "r">
+<!ENTITY aboutContributors.label "貢獻者">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "授權條款">
+<!ENTITY aboutLicense.accesskey  "L">
+
+<!ENTITY cmdCloseMac.commandKey "w">

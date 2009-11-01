@@ -29,7 +29,7 @@
 <!ENTITY fullnameLabel.label "您的大名:">
 <!ENTITY fullnameLabel.accesskey "Y">
 
-<!ENTITY emailLabel.label "Email 地址:">
+<!ENTITY emailLabel.label "Email 位址:">
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Server page -->
@@ -55,12 +55,12 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "將會使用您已有的寄件伺服器 (SMTP):「">
-<!ENTITY haveSmtp1.suffix "」。您可由選單的「工具＞帳號設定」來改變。">
+<!ENTITY haveSmtp1.suffix2 "&quot; 將會被採用。 您可以在帳號設定裡更改寄件所使用的伺服器。">
 
 <!-- Entities for Login page -->
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "輸入寄送郵件用的使用者名稱 (通常與您的收件使用者名稱一致)。">
 <!ENTITY usernameSmtpLabel.label "寄件使用者名稱:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "將會使用您已有的寄件 (SMTP) 使用者名稱「">
-<!ENTITY haveSmtp2.suffix "」。若要修改寄件伺服器設定請至選單的「工具＞帳號設定」來改變。">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot; 將會被採用。 您可以在帳號設定裡更改寄件所使用的伺服器。">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "您的寄件伺服器「">
-<!ENTITY haveSmtp3.suffix "」與收信伺服器一致，所以會用相同帳號存取。若要使用不同帳號請自行修改。">
+<!ENTITY haveSmtp3.suffix2 "&quot; 與您的收件伺服器相同，您的收件伺服器使用者名稱將用來存取它。 您可以在帳號設定裡更改寄件伺服器設定。">
 
 <!-- Entities for Account name page -->
 
@@ -103,7 +103,9 @@
 <!ENTITY smtpServerNamePrefix.label "寄件伺服器名稱 (SMTP):">
 <!ENTITY newsServerNamePrefix.label "新聞群組伺服器名稱 (NNTP):">
 <!ENTITY downloadOnLogin.label "立刻下載郵件">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "若取消勾選此項則會把目前帳號的郵件儲存在各自的目錄中。這會使此帳號顯示在最頂層，否則它就是本機郵件匣中全域信箱帳號的一部份。">
 <!ENTITY deferStorage.label "使用全域郵件匣 (將郵件存在本機郵件匣中) ">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "按下「完成」即可儲存您的設定並離開帳號設定精靈。">
 <!ENTITY clickFinish.labelMac "點選不儲存這些設定並關閉帳號精靈。">

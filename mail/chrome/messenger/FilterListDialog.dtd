@@ -1,11 +1,11 @@
 <!ENTITY window.title "郵件篩選條件">
 <!ENTITY nameColumn.label "篩選條件名稱">
-<!ENTITY activeColumn.label "使用">
-<!ENTITY newButton.label "新增...">
+<!ENTITY activeColumn.label "啟用">
+<!ENTITY newButton.label "新增…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "編輯...">
+<!ENTITY editButton.label "編輯…">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "刪除">
+<!ENTITY deleteButton.label "刪除項目">
 <!ENTITY deleteButton.accesskey "t">
 <!ENTITY reorderUpButton.label "上移">
 <!ENTITY reorderUpButton.accesskey "U">
@@ -22,7 +22,7 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "執行篩選條件於:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "選取此郵件匣">
+<!ENTITY choosethis.label "選取這個資料夾">
 <!ENTITY choosethisnewsserver.label "選取此新聞伺服器">
 <!ENTITY helpButton.label "說明">
 <!ENTITY helpButton.accesskey "H">

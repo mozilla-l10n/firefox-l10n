@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "對應此種語言:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "大小 (像素)">
+<!ENTITY  size.label                              "大小:">
 <!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "比例字型:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "有襯線 (Serif)">
 <!ENTITY  useDefaultFontSansSerif.label           "無襯線 (Sans Serif)">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "字型控制">
+<!ENTITY  useFixedWidthForPlainText.label         "純文字郵件使用等寬字型">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "允許郵件指定其它字型">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 

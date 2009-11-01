@@ -41,16 +41,16 @@
 <!ENTITY closeButton.label                "關閉">
 <!ENTITY tableTab.label                   "表格">
 <!ENTITY cellTab.label                    "資料格">
-<!ENTITY tableRows.label                  "列數:">
+<!ENTITY tableRows.label                  "列:">
 <!ENTITY tableRows.accessKey              "R">
-<!ENTITY tableColumns.label               "欄數:">
+<!ENTITY tableColumns.label               "欄:">
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "高度:">
 <!ENTITY tableHeight.accessKey            "G">
 <!ENTITY tableWidth.label                 "寬度:">
 <!ENTITY tableWidth.accessKey             "W">
 <!ENTITY tableBorderSpacing.label         "框線與留白">
-<!ENTITY tableBorderWidth.label           "框線寬度:">
+<!ENTITY tableBorderWidth.label           "框線:">
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableSpacing.label               "資料格間距:">
 <!ENTITY tableSpacing.accessKey           "S">
@@ -73,9 +73,9 @@
 <!ENTITY cellSelectCell.label             "資料格">
 <!ENTITY cellSelectRow.label              "列數">
 <!ENTITY cellSelectColumn.label           "欄數">
-<!ENTITY cellSelectNext.label             "下一步">
+<!ENTITY cellSelectNext.label             "下一頁">
 <!ENTITY cellSelectNext.accessKey         "N">
-<!ENTITY cellSelectPrevious.label         "前一個">
+<!ENTITY cellSelectPrevious.label         "上一步">
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY applyBeforeChange.label          "更改的設定會在改變選取儲存格前先行套用。">
 <!ENTITY cellContentAlignment.label       "內容對齊格子方式">
@@ -91,7 +91,7 @@
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "斷行">
 <!ENTITY cellNoWrap.label                 "不斷行">
-<!ENTITY cellAlignTop.label               "頂端">
+<!ENTITY cellAlignTop.label               "回頂端">
 <!ENTITY cellAlignMiddle.label            "中間">
 <!ENTITY cellAlignBottom.label            "底部">
 <!ENTITY cellAlignJustify.label           "左右對齊">
@@ -100,8 +100,8 @@
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "大小">
-<!ENTITY pixels.label                     "像素">
-<!ENTITY backgroundColor.label            "背景顏色:">
+<!ENTITY pixels.label                     "圖素">
+<!ENTITY backgroundColor.label            "背景色彩:">
 <!ENTITY backgroundColor.accessKey        "B">
 <!ENTITY AlignLeft.label                  "靠左">
 <!ENTITY AlignCenter.label                "靠中">

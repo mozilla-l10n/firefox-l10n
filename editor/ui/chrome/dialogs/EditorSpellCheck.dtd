@@ -39,7 +39,7 @@
 <!ENTITY windowTitle.label "檢查拼字">
 
 <!ENTITY misspelledWord.label "拼錯的字:">
-<!ENTITY wordEditField.label "取代成:">
+<!ENTITY wordEditField.label "取代為:">
 <!ENTITY wordEditField.accessKey "w">
 <!ENTITY checkwordButton.label "檢查拼字">
 <!ENTITY checkwordButton.accessKey "k">
@@ -59,13 +59,13 @@
 <!ENTITY moreDictionaries.label "下載其它字典">
 <!ENTITY addToUserDictionaryButton.label "增加單字">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "編輯...">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.label "編輯…">
+<!ENTITY editUserDictionaryButton.accessKey "k">
 <!ENTITY recheckButton.label "重新檢查頁面">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "關閉">
 <!ENTITY closeButton.accessKey "C">
-<!ENTITY sendButton.label "寄出">
+<!ENTITY sendButton.label "寄送">
 <!ENTITY sendButton.accessKey "S">
 <!ENTITY languagePopup.label "語言:">
-<!ENTITY languagePopup.accessKey "L">
+<!ENTITY languagePopup.accessKey "g">

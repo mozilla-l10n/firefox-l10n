@@ -12,7 +12,7 @@
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "下載或同步完成後立刻離線">
 <!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "選擇...">
+<!ENTITY selectButton.label "選擇…">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "選擇要離線閱讀的郵件匣及新聞群組。">
 <!ENTITY MsgSelectInd.label "下載">

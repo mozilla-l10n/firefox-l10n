@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "附件提醒關鍵字">
+<!ENTITY attachKeywordText.label          "&brandShortName; 會在您建立的郵件中包含這些關鍵字並且未附加檔案時提醒您。">
+<!ENTITY addKeywordButton.label           "加入">
+<!ENTITY addKeywordButton.accesskey       "A">
+<!ENTITY editKeywordButton.label          "編輯">
+<!ENTITY editKeywordButton.accesskey      "E">
+<!ENTITY removeKeywordButton.label        "刪除項目">
+<!ENTITY removeKeywordButton.accesskey    "D">

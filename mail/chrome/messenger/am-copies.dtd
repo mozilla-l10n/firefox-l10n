@@ -14,18 +14,24 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "「寄件備份」匣:">
 <!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "其它:">
+<!ENTITY sentInOtherFolder.label "其他郵件匣:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "「草稿」郵件匣:">
 <!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "其它:">
+<!ENTITY draftInOtherFolder.label "其他郵件匣:">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quote;備存&quote; 資料夾於:">
+<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "其他郵件匣:">
+<!ENTITY archiveInOtherFolder.accesskey "h">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "「範本」郵件匣:">
 <!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "其它:">
+<!ENTITY templateInOtherFolder.label "其他郵件匣:">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "草稿與範本">
+<!ENTITY specialFoldersTitle.label "草稿、備存與範本">
 <!ENTITY keepDrafts.label "儲存郵件草稿到:">
+<!ENTITY keepArchives.label "備存郵件於:">
 <!ENTITY keepTempltes.label "儲存郵件範本到:">

@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "內容類型">
+<!ENTITY  typeColumn.accesskey        "t">
+
+<!ENTITY  actionColumn2.label         "動作">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "搜尋">
+
+<!ENTITY saveTo.label                 "全部檔案儲存到">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "每次都問我要存到何處">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "瀏覽…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "選取…">
+<!ENTITY chooseFolderMac.accesskey    "C">

@@ -3,13 +3,11 @@
 <!ENTITY itemSpellCheck.label                "拼字檢查">
 
 <!ENTITY forwardMsg.label                     "轉寄郵件時:">
-<!ENTITY forwardMsg.accesskey                 "w">
+<!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "引入內文">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "以附件轉寄">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "加入副檔名">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "字型:">
@@ -17,7 +15,7 @@
 <!ENTITY size.label                           "大小:">
 <!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "文字色彩:">
-<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "背景色彩:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "回復預設值">
@@ -26,29 +24,34 @@
 <!ENTITY spellCheck.label                     "寄送前先檢查拼字">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "啟用拼字檢查">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "語言:">
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "下載其它字典">
 
 <!ENTITY warnOnSendAccelKey.label             "用鍵盤快捷鍵發送郵件時需要確認">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!ENTITY autoSave.label                       "每隔">
-<!ENTITY autoSave.accesskey                   "u">
-<!ENTITY autoSaveEnd.label                    "分鐘自動儲存">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "分">
 
 <!ENTITY emailCollectionPicker.label           "自動把寄信時使用的電子郵件位址加到我的:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "快速選擇收件者">
 <!ENTITY autocompleteText.label                "使用下列功能以加速尋找符合的收件者:">
 <!ENTITY addressingEnable.label                "使用自動完成收件者 Email 功能">
-<!ENTITY addressingEnable.accesskey            "a">
+<!ENTITY addressingEnable.accesskey            "l">
 <!ENTITY directories.label                     "目錄伺服器:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "無">
-<!ENTITY editDirectories.label                 "編輯目錄...">
+<!ENTITY editDirectories.label                 "編輯目錄…">
 <!ENTITY editDirectories.accesskey             "E">
 
 <!ENTITY sendOptionsDescription.label          "設定文字編排方式">
-<!ENTITY sendOptions.label                     "寄送選項...">
+<!ENTITY sendOptions.label                     "寄送選項…">
 <!ENTITY sendOptions.accesskey                 "S">
+
+<!ENTITY attachmentReminder.label              "檢查遺失的附件">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "關鍵字…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "垃圾郵件">
+<!ENTITY itemPhishing.label      "電子郵件詐騙">
+<!ENTITY itemPasswords.label     "密碼">
+<!ENTITY itemAntiVirus.label     "防毒">
+<!ENTITY itemCookies.label       "網站內容">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "設定您的預設垃圾郵件設定。 帳號個別設定可於帳號設定中修改。">
+<!ENTITY manualMark.label "當標示郵件為垃圾信時:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "移動到該帳號的「垃圾郵件」資料夾">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "刪除它">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "標示垃圾郵件為已讀">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "啟動垃圾郵件過濾記錄">
+<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "顯示記錄">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "重設訓練資料">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; 可以分析詐騙郵件常用的手法找出可疑的郵件。">
+<!ENTITY enablePhishingDetector1.label    "當我閱讀可能是詐騙信的郵件時告訴我">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY useDownloadedList.label "使用下載好的可疑詐騙郵件清單">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; 可以幫您記住所有帳號的密碼。">
+<!ENTITY useMasterPassword.label        "使用主控密碼">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "主控密碼可以保護您的密碼，但您每個作業階段時都必須輸入它一次。">
+<!ENTITY changeMasterPassword.label     "變更主控密碼…">
+<!ENTITY changeMasterPassword.accesskey "c">
+<!ENTITY savedPasswords.label           "已存密碼…">
+<!ENTITY savedPasswords.accesskey       "S">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; 可讓防毒軟體在郵件存入電腦前檢查郵件是否有問題。">
+<!ENTITY antiVirus.label      "允許防毒軟體各別處理與檢查新郵件">
+<!ENTITY antiVirus.accesskey  "A">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; 可讓您指定哪些網誌、新聞來源和網站可以設定Cookie。">
+<!ENTITY acceptCookies.label            "允許網站設定 Cookie">
+<!ENTITY acceptCookies.accesskey        "C">
+<!ENTITY keepUntil.label                "保留 Cookie 直到:">
+<!ENTITY keepUntil.accesskey            "k">
+<!ENTITY expire.label                   "Cookie 過期">
+<!ENTITY close.label                    "關閉 &brandShortName;">
+<!ENTITY askEachTime.label              "每次都詢問我">
+<!ENTITY cookieExceptions.label         "例外網站…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "顯示 Cookie …">
+<!ENTITY showCookies.accesskey          "S">
+

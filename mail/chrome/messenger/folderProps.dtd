@@ -50,21 +50,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "重建摘要檔案"> 
      
 <!ENTITY retention.label "保存方式">
-<!ENTITY retentionUseDefault.label  "使用伺服器預設值">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label  "使用我的帳號設定">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "天前">
 <!ENTITY message.label "封">
 <!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，舊郵件或文章可以永遠刪除">
+<!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以同時永久刪除舊郵件的本地副本和遠端的原始郵件。">
+<!ENTITY retentionCleanupPop.label "欲回復磁碟空間，可以永久刪除舊的郵件包括遠端伺服器上的那一份。">
 <!ENTITY retentionDeleteMsg.label "刪除存放過久的郵件或文章:">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "不要刪除任何郵件或文章">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "只保留最後">
-<!ENTITY retentionKeepNew.accesskey "l">
-<!ENTITY retentionKeepUnread.label "一律刪除已讀郵件或文章">
-<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY retentionKeepRecent.label "除了最近的以外全部刪除">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "總是刪除已讀郵件(無視 Age 設定)">
+<!ENTITY retentionApplyToFlagged.label "保留星號標記的郵件">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "離線模式">
+<!ENTITY folderSynchronizationTab.label          "同步">
 <!ENTITY folderCheckForNewMessages.label         "檢查新郵件時包含此郵件匣">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
@@ -80,11 +84,11 @@
 
 <!ENTITY folderProps.name.label                  "名稱:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "位址:">
+<!ENTITY folderProps.location.label              "位置:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "分享">
-<!ENTITY privileges.button.label                 "權限...">
+<!ENTITY privileges.button.label                 "權限…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "您有下列權限:">
 <!ENTITY folderType.label                        "目錄類型:">

@@ -1,19 +1,7 @@
-<!ENTITY systemDefaults.label              "系統預設值">
-<!ENTITY alwaysCheckDefault.label          "每次啟動時都檢查 &brandShortName; 是否為預設郵件用戶端">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "立刻檢查">
-<!ENTITY checkNow.accesskey         "N">
-
 <!ENTITY messengerStartPage.label         "&brandShortName; 開始畫面">
 <!ENTITY enableStartPage.label            "當啟動 &brandShortName; 時，在郵件區顯示開始畫面">
 <!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "網址:">
+<!ENTITY location.label                   "位置:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "回復預設值">
 <!ENTITY useDefault.accesskey             "R">
@@ -26,7 +14,7 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "顯示警告視窗">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "自訂...">
+<!ENTITY customizeMailAlert.label         "自訂…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
 <!ENTITY play.label                       "播放">
@@ -37,7 +25,7 @@
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "使用下列音效檔案">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "瀏覽...">
+<!ENTITY browse.label                     "瀏覽…">
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY addonsMgr.label                  "附加元件">

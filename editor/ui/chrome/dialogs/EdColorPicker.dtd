@@ -37,7 +37,7 @@
 
 <!ENTITY windowTitle.label "色彩">
 <!ENTITY lastPickedColor.label "上次使用顏色">
-<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY lastPickedColor.accessKey "g">
 <!ENTITY setColor1.label "選擇一個顏色或">
 <!ENTITY setColor2.label "輸入 HTML 格式顏色字串">
 <!ENTITY setColor2.accessKey "H">

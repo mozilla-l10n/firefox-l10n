@@ -2,7 +2,7 @@
 <!ENTITY security.caption "安全與認證">
 <!ENTITY serverName.label "伺服器名稱:">
 <!ENTITY serverName.accesskey "S">
-<!ENTITY serverDescription.label "描述:">
+<!ENTITY serverDescription.label "說明:">
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
@@ -12,14 +12,11 @@
 <!ENTITY userName.accesskey "m">
 <!ENTITY useSecAuth.label "使用安全驗證">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "使用安全連線:">
-<!ENTITY neverSecure.label "不使用">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "嘗試使用 STARTTLS">
-<!ENTITY sometimesSTARTTLS.accesskey "A">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "連線安全性:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "無">
+<!ENTITY connectionSecurityType-1.label "嘗試使用STARTTLS">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP 寄件伺服器">
 <!ENTITY serverPortDefault.label "預設:">

@@ -1,10 +1,10 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS 訂閱清單">
+<!ENTITY feedSubscriptions.label "消息來源訂閱">
 <!ENTITY subscriptionDesc.label "注意: 移除或變更消息來源資料夾並不會影響已下載的文章。">
 <!ENTITY feedTitle.label "標題:">
-<!ENTITY location.label  "網址:">
+<!ENTITY location.label  "位置:">
 
-<!ENTITY button.addFeed.label       "新增">
+<!ENTITY button.addFeed.label       "加入">
 <!ENTITY button.addFeed.accesskey   "A">
 <!ENTITY button.editFeed.label      "編輯">
 <!ENTITY button.editFeed.accesskey  "E">

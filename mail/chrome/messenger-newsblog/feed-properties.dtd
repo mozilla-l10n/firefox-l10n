@@ -7,7 +7,7 @@
 <!ENTITY feedLocation.label       "消息來源 (Feed) 網址:">
 <!ENTITY feedLocation.accesskey   "F">
 
-<!ENTITY choosethisfolder.label   "選取此資料夾">
+<!ENTITY choosethisfolder.label   "選取這個資料夾">
 
 <!ENTITY quickMode.label          "顯示文章摘要而非載入網頁">
 <!ENTITY quickMode.accesskey      "h">

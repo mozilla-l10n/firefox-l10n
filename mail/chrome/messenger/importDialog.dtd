@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "匯入">
-<!ENTITY importDialog.allTitle    "全部匯入">
-<!ENTITY importDialog.mailTitle   "郵件">
-<!ENTITY importDialog.addressbookTitle "通訊錄">
-<!ENTITY importDialog.settingsTitle "設定">
-<!ENTITY importDialog.filtersTitle "篩選器">
+<!ENTITY importAll.label          "匯入全部">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "郵件">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "通訊錄">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "設定">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "篩選器">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "匯入成功後，您就能從 &brandShortName; 裡面存取之前的郵件或通訊錄等設定。">
 
 <!ENTITY selectDescription.label  "請選擇您想匯入的程式資料:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; 上一步">
 <!ENTITY forward.label            "下一步 &gt;">
@@ -69,11 +75,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY select.label             "選擇要匯入資料的類型:">
 
-<!ENTITY title.label              "標題">
-<!ENTITY processing.label         "匯入中...">
+<!ENTITY title.label              "頭銜">
+<!ENTITY processing.label         "匯入中…">
 
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 通訊家族 4.x 對每個通訊位址只能有一張名片卡，但 &brandShortName; 有兩份 (住家及商務)">
 <!ENTITY FieldDiscInputText2.label  "選擇您想匯入通訊地址的分類:">
 <!ENTITY FieldDiscWarning.label  "此分類會被用於已選取通訊錄的所有內容:">
-<!ENTITY importDialog.homeTitle  "住家">
-<!ENTITY importDialog.workTitle  "商務">
+<!ENTITY importHome.label        "首頁">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "商務">
+<!ENTITY importWork.accesskey    "W">

@@ -1,0 +1,4 @@
+<!ENTITY window.title             "郵件摘要">
+<!ENTITY selectedmessages.label   "已選郵件">
+<!ENTITY archive.label            "備存">
+<!ENTITY delete.label             "刪除">

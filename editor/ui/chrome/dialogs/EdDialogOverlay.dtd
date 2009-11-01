@@ -35,12 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY AdvancedEditButton.label "進階編輯...">
-<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.label "進階編輯…">
+<!ENTITY AdvancedEditButton.accessKey "k">
 <!ENTITY AdvancedEditButton.tooltip "編輯這個物件的特有屬性">
-<!ENTITY chooseFileButton.label "選擇檔案...">
+<!ENTITY chooseFileButton.label "選擇檔案…">
 <!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "選擇檔案...">
+<!ENTITY chooseFileLinkButton.label "選擇檔案…">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "網址 URL 是相對於此網頁位址">
 <!ENTITY makeUrlRelative.accessKey "r">
@@ -48,4 +48,4 @@
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "輸入網址、檔案路徑，或由選單中選取:">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.accessKey "g">

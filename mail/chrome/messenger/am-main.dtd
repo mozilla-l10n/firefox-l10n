@@ -1,6 +1,6 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "帳號設定">
+<!ENTITY accountTitle.label "帳戶設定">
 <!ENTITY accountName.label "帳號名稱:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "身份識別">
@@ -13,18 +13,22 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "服務單位:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "附加此簽名檔">
-<!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "編輯...">
-<!ENTITY choose.label "選取...">
+<!ENTITY signatureText.label "簽名:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "使用HTML (例如, &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "從檔案附加簽名(文字檔、HTML或影像)">
+<!ENTITY signatureFile.accesskey "T">
+<!ENTITY edit.label "編輯…">
+<!ENTITY choose.label "選取…">
 <!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "編輯電子名片...">
+<!ENTITY editVCard.label "編輯電子名片…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "附加名片卡到郵件中">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "身份識別管理...">
+<!ENTITY manageIdentities.label "身份識別管理…">
 <!ENTITY manageIdentities.accesskey "M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

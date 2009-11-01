@@ -38,9 +38,9 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "插入字元">
-<!ENTITY category.label "分類">
+<!ENTITY category.label "類別">
 <!ENTITY letter.label "字母:">
-<!ENTITY letter.accessKey "L">
+<!ENTITY letter.accessKey "g">
 <!ENTITY character.label "字元:">
 <!ENTITY character.accessKey "C">
 <!ENTITY accentUpper.label "主要大寫符號">
