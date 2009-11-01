@@ -46,6 +46,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Select All">
 <!ENTITY  selectall.accesskey   "A">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "General">
@@ -112,6 +113,7 @@
 <!ENTITY  permTab               "Permissions">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Use Default">
+<!ENTITY  permAskAlways         "Always ask">
 <!ENTITY  permAllow             "Allow">
 <!ENTITY  permAllowSession      "Allow for Session">
 <!ENTITY  permBlock             "Block">
@@ -120,6 +122,7 @@
 <!ENTITY  permPopup             "Open Popup Windows">
 <!ENTITY  permCookie            "Set Cookies">
 <!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permGeo               "Share Location">
 
 <!ENTITY  securityTab           "Security">
 <!ENTITY  securityTab.accesskey "S">
@@ -130,9 +133,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Web Site Identity">
-<!ENTITY  securityView.identity.owner    "Owner: ">
-<!ENTITY  securityView.identity.domain   "Web site: ">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
+<!ENTITY  securityView.identity.owner    "Owner:">
+<!ENTITY  securityView.identity.domain   "Web site:">
+<!ENTITY  securityView.identity.verifier "Verified by:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
