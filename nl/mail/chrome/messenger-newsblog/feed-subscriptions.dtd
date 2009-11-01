@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Feed-abonnementen">
-<!ENTITY subscriptionDesc.label "Opmerking: het verwijderen of veranderen van een feedmap heeft geen invloed op artikelen die reeds zijn gedownload.">
+<!ENTITY feedSubscriptions.label "Feedabonnementen">
+<!ENTITY subscriptionDesc.label "Opmerking: het verwijderen of wijzigen van een feedmap heeft geen invloed op eerder gedownloade artikelen.">
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY location.label "Locatie:">
 

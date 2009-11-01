@@ -10,9 +10,9 @@
 <!ENTITY addtoCcFieldMenu.label             "Toevoegen aan CC-veld">
 <!ENTITY addtoBccFieldMenu.label            "Toevoegen aan Bcc-veld">
 
-<!ENTITY toButton.label                     "Aan: toevoegen">
-<!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     "Cc: toevoegen">
-<!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "Bcc: toevoegen">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY toButton.label                     "Aan:">
+<!ENTITY toButton.accesskey                 "">
+<!ENTITY ccButton.label                     "Cc:">
+<!ENTITY ccButton.accesskey                 "">
+<!ENTITY bccButton.label                    "Bcc:">
+<!ENTITY bccButton.accesskey                "">

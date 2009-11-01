@@ -63,7 +63,7 @@
 <!ENTITY PhoneticField1.label           "Fonetisch:">
 <!ENTITY PhoneticField2.label           "Fonetisch:">
 <!ENTITY DisplayName.label              "Weergave:">
-<!ENTITY DisplayName.accesskey          "W">
+<!ENTITY DisplayName.accesskey          "a">
 <!ENTITY NickName.label                 "Bijnaam:">
 <!ENTITY NickName.accesskey             "B">
 
@@ -92,9 +92,9 @@ van dit contact wordt opgehaald.">
 <!ENTITY HomePhone.label                "Thuis:">
 <!ENTITY HomePhone.accesskey            "T">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pieper:">
-<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY PagerNumber.accesskey          "i">
 <!ENTITY CellularNumber.label           "Mobiel:">
 <!ENTITY CellularNumber.accesskey       "M">
 
@@ -105,17 +105,17 @@ van dit contact wordt opgehaald.">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Woonplaats:">
-<!ENTITY HomeCity.accesskey             "W">
+<!ENTITY HomeCity.accesskey             "n">
 <!ENTITY HomeState.label                "Provincie:">
 <!ENTITY HomeState.accesskey            "v">
 <!ENTITY HomeZipCode.label              "Postcode:">
-<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeZipCode.accesskey          "t">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Webpagina:">
 <!ENTITY HomeWebPage.accesskey          "b">
 <!ENTITY Birthday.label                 "Verjaardag:">
-<!ENTITY Birthday.accesskey             "V">
+<!ENTITY Birthday.accesskey             "e">
 <!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Jaar">
 <!ENTITY Or.value                       "of">
@@ -127,26 +127,26 @@ van dit contact wordt opgehaald.">
 <!ENTITY JobTitle.label                 "Functie:">
 <!ENTITY JobTitle.accesskey             "u">
 <!ENTITY Department.label               "Afdeling:">
-<!ENTITY Department.accesskey           "f">
+<!ENTITY Department.accesskey           "d">
 <!ENTITY Company.label                  "Organisatie:">
-<!ENTITY Company.accesskey              "i">
+<!ENTITY Company.accesskey              "r">
 <!ENTITY WorkAddress.label              "Adres:">
-<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Stad:">
 <!ENTITY WorkCity.accesskey             "S">
 <!ENTITY WorkState.label                "Provincie:">
-<!ENTITY WorkState.accesskey            "e">
+<!ENTITY WorkState.accesskey            "v">
 <!ENTITY WorkZipCode.label              "Postcode:">
 <!ENTITY WorkZipCode.accesskey          "t">
 <!ENTITY WorkCountry.label              "Land:">
-<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Webpagina:">
-<!ENTITY WorkWebPage.accesskey          "g">
+<!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Overig">
-<!ENTITY Other.accesskey                "v">
+<!ENTITY Other.accesskey                "O">
 <!ENTITY Custom1.label                  "Overig 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Overig 2:">
@@ -156,10 +156,10 @@ van dit contact wordt opgehaald.">
 <!ENTITY Custom4.label                  "Overig 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Aantekeningen">
-<!ENTITY Notes.accesskey                "n">
+<!ENTITY Notes.accesskey                "A">
 
 <!ENTITY Photo.tab                      "Foto">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "F">
 <!ENTITY PhotoDesc.label                "Kies één van de volgende:">
 <!ENTITY GenericPhoto.label             "Algemene foto">
 <!ENTITY GenericPhoto.accesskey         "A">
