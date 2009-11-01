@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "第一頁">
 <!ENTITY endarrow.tooltip     "最後一頁">
-<!ENTITY rightarrow.tooltip   "下一頁">
-<!ENTITY leftarrow.tooltip    "上一頁">
+<!ENTITY nextarrow.tooltip    "下一頁">
+<!ENTITY previousarrow.tooltip "上一頁">

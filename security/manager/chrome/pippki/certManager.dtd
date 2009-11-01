@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "憑證名稱">
 <!ENTITY certmgr.certserver                   "伺服器">
-<!ENTITY certmgr.typesofoverrides             "例外">
 <!ENTITY certmgr.override_lifetime            "存活時間">
 <!ENTITY certmgr.tokenname                    "安全裝置">
-<!ENTITY certmgr.purpose                      "用途">
 <!ENTITY certmgr.issued                       "簽發日">
 <!ENTITY certmgr.expires                      "到期日">
 <!ENTITY certmgr.email                        "E-Mail 位址">
