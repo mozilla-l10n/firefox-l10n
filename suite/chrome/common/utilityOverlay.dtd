@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label					"移动"> 
+<!ENTITY fileMenu.label					"文件"> 
 <!ENTITY fileMenu.accesskey				"f">
 <!ENTITY newMenu.label						"新建">
 <!ENTITY newMenu.accesskey					"N">

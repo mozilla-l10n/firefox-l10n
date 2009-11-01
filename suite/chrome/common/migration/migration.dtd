@@ -7,7 +7,7 @@
 <!ENTITY importFromSeamonkey.accesskey   "S">
 <!ENTITY importFromThunderbird.label     "雷鸟">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromFile.label            "移动">
+<!ENTITY importFromFile.label            "文件">
 <!ENTITY importFromFile.accesskey        "F">
 <!ENTITY importFromNothing.label         "不导入任何数据">
 <!ENTITY importFromNothing.accesskey     "D">
