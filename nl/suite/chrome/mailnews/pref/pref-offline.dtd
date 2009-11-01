@@ -5,8 +5,8 @@
 <!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Bij het opstarten:">
 <!ENTITY textStartUp.accesskey            "B">
-<!ENTITY menuitemRememberPrevState        "Vorige onlinestaat onthouden">
-<!ENTITY menuitemAskMe                    "Mij de onlinestaat vragen">
+<!ENTITY menuitemRememberPrevState        "Vorige onlinetoestand hanteren">
+<!ENTITY menuitemAskMe                    "Mij de onlinetoestand vragen">
 <!ENTITY menuitemAlwaysOnline             "Altijd online opstarten">
 <!ENTITY menuitemAlwaysOffline            "Altijd offline opstarten">
 <!ENTITY menuitemAutomatic                "Automatisch detecteren (als beschikbaar)">
