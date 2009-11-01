@@ -2,37 +2,37 @@
 
 <!-- cookies -->
 
-<!ENTITY cookiePolicy.label             "Cookie接收策略">
+<!ENTITY cookiePolicy.label             "Cookie 接收策略">
 
 <!ENTITY accAllCookiesRadio.label       "接受所有 cookie">
 <!ENTITY accAllCookiesRadio.accesskey   "c">
 
-<!ENTITY accOrgCookiesRadio.label       "仅接受来自本站点的 cookie">
+<!ENTITY accOrgCookiesRadio.label       "仅接受来自原站点的 cookie">
 <!ENTITY accOrgCookiesRadio.accesskey   "o">
 
-<!ENTITY disableCookies.label           "阻止cookies">
+<!ENTITY disableCookies.label           "阻止 cookie">
 <!ENTITY disableCookies.accesskey       "B">
 
 <!ENTITY cookieRetentionPolicy.label    "cookie 保存策略">
 
-<!ENTITY acceptNormally.label           "默认cookies选项">
+<!ENTITY acceptNormally.label           "正常接受 Cookie">
 <!ENTITY acceptNormally.accesskey       "n">
 
 <!ENTITY acceptForSession.label         "仅限当前会话">
 <!ENTITY acceptForSession.accesskey     "s">
 
-<!ENTITY acceptforNDays.label           "接收cookies用于">
+<!ENTITY acceptforNDays.label           "接收 cookie 于">
 <!ENTITY acceptforNDays.accesskey       "f">
 <!ENTITY days.label                     "天">
 
-<!ENTITY warnAboutCookies.label         "对每个cookie进行询问">
+<!ENTITY warnAboutCookies.label         "对每个 cookie 均询问">
 <!ENTITY warnAboutCookies.accesskey     "A">
-<!ENTITY forCurrentSession.label        "除用于会话的cookies外">
+<!ENTITY forCurrentSession.label        "除会话的 cookie 外">
 <!ENTITY forCurrentSession.accesskey    "e">
 
 <!ENTITY manageCookies.label            "管理 cookie 和站点">
 <!ENTITY manageCookiesDescription.label "允许查看和管理存储的 cookie 以及站点各自接受和拒绝 cookie 的设置。各站点的设置会覆盖以上设置。">
 
-<!ENTITY viewCookies.label              "管理Cookie">
+<!ENTITY viewCookies.label              "Cookie 管理器">
 <!ENTITY viewCookies.accesskey          "M">
 
