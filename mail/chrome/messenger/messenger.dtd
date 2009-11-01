@@ -729,7 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "複製鏈結位址">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageAllCmd.label "Copy Image">
+<!ENTITY copyImageAllCmd.label "複製圖片">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "複製 Email 位址">
 <!ENTITY copyEmailCmd.accesskey "E">
