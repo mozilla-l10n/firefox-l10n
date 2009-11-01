@@ -60,7 +60,7 @@
 <!ENTITY selectDescription.label  "请选择导入的文件类型：">
 <!ENTITY selectDescription.accesskey "P">
 
-<!ENTITY back.label               "&lt; 后退">
+<!ENTITY back.label               "&lt; 上一步">
 <!ENTITY forward.label            "下一步 &gt;">
 <!ENTITY finish.label             "完成">
 <!ENTITY cancel.label             "取消">
@@ -70,7 +70,7 @@
 <!ENTITY title.label              "职位">
 <!ENTITY processing.label         "正在导入…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x的每一个名片对应一个邮件地址，而 &brandShortName;对应两个地址（家庭和工作）。">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x 的每一个名片对应一个邮件地址，而 &brandShortName; 对应两个地址（家庭和工作）。">
 <!ENTITY FieldDiscInputText2.label  "选择您想要保存导入的重要邮件地址的类别：">
 <!ENTITY FieldDiscWarning.label  "此类别将在已选择通讯录的所有条目中使用：">
 <!ENTITY importHome.label        "家庭">

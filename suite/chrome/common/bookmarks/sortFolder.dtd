@@ -1,7 +1,7 @@
 <!ENTITY window.title "文件夹分类">
 
 <!ENTITY sortOptions.label "排序选项">
-<!ENTITY description.label "&brandShortName; 分类个人文件夹.使用此选项自定义文件排序.">
+<!ENTITY description.label "&brandShortName; 可以对文件夹单独排序。请使用此选项自定义文件夹中的排序。">
 
 <!ENTITY sortBy.label "排序依照:">
 <!ENTITY sortBy.accesskey "S">

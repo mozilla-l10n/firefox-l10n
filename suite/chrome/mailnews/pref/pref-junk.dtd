@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Junk Mail">
+<!ENTITY pref.junk.title "垃圾 &amp; 可疑邮件">
 <!ENTITY junkSettings.caption "全球垃圾邮件设置">
 <!ENTITY junkMail.intro "到账户设置中配置账户具体垃圾邮件设置。">
 
@@ -47,7 +47,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 
 <!ENTITY markAsRead.intro               "标记为已读信件：">
-<!ENTITY autoMarkAsRead.label           "当&brandShortName;确定这些是垃圾邮件">
+<!ENTITY autoMarkAsRead.label           "当 &brandShortName; 确定这些是垃圾邮件">
 <!ENTITY autoMarkAsRead.accesskey       "u">
 <!ENTITY manualMarkAsRead.label         "由我来标记为垃圾邮件">
 <!ENTITY manualMarkAsRead.accesskey     "k">

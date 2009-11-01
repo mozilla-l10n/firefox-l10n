@@ -35,12 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY startpage.title "欢迎使用&brandShortName; 邮件 &amp; 新闻组">
+<!ENTITY startpage.title "欢迎使用 &brandShortName; 邮件 &amp; 新闻组">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
 '欢迎使用 <a id="vendorURL" href="">&brandShortName;</a> 邮件 &amp; 新闻组!'>
 <!ENTITY description.label
-"&brandShortName; 邮件 &amp; 新闻组是一个功能强大的开源邮件和新闻客户端, 带有高级垃圾邮件检测和其他很多有用的特性.">
+"&brandShortName; 邮件 &amp; 新闻组是一个功能强大的开源邮件和新闻客户端，带有高级垃圾邮件检测和其他很多有用的特性。">
 <!ENTITY features.title "特性">
 <!ENTITY feat_multiacc.label "支持多账户">
 <!ENTITY feat_junk.label "垃圾邮件检测">
@@ -50,7 +50,7 @@
 <!ENTITY feat_abook.label "通讯录">
 <!ENTITY feat_labels.label "可定制的标签和邮件视图">
 <!ENTITY feat_integration.label
-"和&brandShortName;应用程序套件紧密集成">
+"和 &brandShortName; 应用程序套件紧密集成">
 <!ENTITY dict.title "字典">
 <!ENTITY dict_intro.label "用于消息的拼写检查的字典.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->

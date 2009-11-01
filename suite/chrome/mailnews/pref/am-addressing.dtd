@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "编写和地址查找">
+<!ENTITY addressing.label          "编写 &amp; 地址簿">
 <!ENTITY addressingGroupTitle.label "地址查找">
 <!ENTITY autocompleteToMyDomain.label     "自动在地址上添加我的域名">
 <!ENTITY autocompleteToMyDomain.accesskey "o">

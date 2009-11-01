@@ -6,7 +6,7 @@
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY imageDetails                   "定义&brandShortName; 处理图片的方式.">
+<!ENTITY imageDetails                   "定义 &brandShortName; 处理图片的方式。">
 
 <!ENTITY accAllImagesRadio.label        "接受所有的图片">
 <!ENTITY accAllImagesRadio.accesskey    "A">

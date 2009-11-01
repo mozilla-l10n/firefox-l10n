@@ -37,6 +37,6 @@
 <!ENTITY defaultBrowserGroup.label      "默认浏览器">
 <!ENTITY defaultBrowserButton.label     "设为默认浏览器">
 <!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText             "&brandShortName; 已经是您的默认浏览器了.">
-<!ENTITY defaultPendingText             "当你单击确定时，&brandShortName;将被设为默认浏览器.">
-<!ENTITY makeDefaultText                "设置&brandShortName;为默认浏览器.">
+<!ENTITY alreadyDefaultText             "&brandShortName; 已经是您的默认浏览器了。">
+<!ENTITY defaultPendingText             "当你单击确定时，&brandShortName; 将被设为默认浏览器。">
+<!ENTITY makeDefaultText                "设置 &brandShortName; 为默认浏览器。">

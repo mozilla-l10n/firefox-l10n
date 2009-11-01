@@ -46,7 +46,7 @@
 <!ENTITY enable.tls                         "启用TLS">
 <!ENTITY enable.tls.accesskey               "T">
 
-<!ENTITY warn.description                   "&brandShortName; 能警告您关于您查看的网页的安全信息。让&brandShortName;显示警告或者请求权限，当: ">
+<!ENTITY warn.description                   "&brandShortName; 能警告您关于您查看的网页的安全信息。让 &brandShortName; 显示警告或者请求权限，当: ">
 <!ENTITY warn.enteringsecure                "载入支持加密的页">
 <!ENTITY warn.enteringsecure.accesskey      "L">
 <!ENTITY warn.enteringweak                  "载入使用弱加密的页">
@@ -58,7 +58,7 @@
 <!ENTITY warn.viewmixed                     "查看加密/未加密混合页">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
-<!ENTITY certselect.description             "用于决定 &brandShortName; 如何为那些请求证书的web站点选择安全证书:">
+<!ENTITY certselect.description             "用于决定 &brandShortName; 如何为那些请求证书的网站选择安全证书:">
 <!ENTITY certselect.auto                    "自动选择">
 <!ENTITY certselect.auto.accesskey          "A">
 <!ENTITY certselect.ask                     "总是询问">
