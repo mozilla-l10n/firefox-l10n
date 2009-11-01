@@ -18,7 +18,7 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.accesskey "Z">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label "Používat konktakty Mac OS X">
+<!ENTITY osxAddressBook.label "Používat kontakty Mac OS X">
 <!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Zavřít">
 <!ENTITY closeCmd.key "W">

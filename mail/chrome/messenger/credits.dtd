@@ -7,7 +7,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Vedoucí překladu do češtiny</h3><ul><li>Pavel Franc</li></ul><h3>Na překladu spolupracovali</h3><ul><li>členové týmu CZilla</li></ul>">
+<!ENTITY credit.translation "<h3>Vedoucí překladu do češtiny</h3><ul><li>Pavel Franc</li></ul><h3>Na překladu spolupracovali</h3><ul><li>členové týmu Mozilla.cz</li></ul>">
 
 <!ENTITY credit.memory "V památce na">
 <!ENTITY credit.poweredByGecko "Poháněno Geckem&trade;">
