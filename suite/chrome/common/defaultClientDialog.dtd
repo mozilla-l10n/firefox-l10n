@@ -6,5 +6,5 @@
 <!ENTITY newsgroups.label "新闻群组">
 <!ENTITY feeds.label "收取点">
 
-<!ENTITY checkOnStartup.label "启动&brandShortName时总执行此项检查;">
+<!ENTITY checkOnStartup.label "启动 &brandShortName; 时总是进行此项检查">
 <!ENTITY checkOnStartup.accesskey "A">

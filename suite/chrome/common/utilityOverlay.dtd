@@ -41,7 +41,7 @@
 <!ENTITY selectAllCmd.label					"选择全部">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"a"> 
-<!ENTITY preferencesCmd.label				"预设...">
+<!ENTITY preferencesCmd.label				"首选项…">
 <!ENTITY preferencesCmd.key					"k">  
 <!ENTITY preferencesCmd.accesskey			"e"> 
 <!ENTITY findTypeTextCmd.label "查找自定义文本">
