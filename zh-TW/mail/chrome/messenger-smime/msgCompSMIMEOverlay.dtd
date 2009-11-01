@@ -1,21 +1,15 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "安全性">
-<!ENTITY securityMenu.accesskey "e">
-
 <!ENTITY menu_securityEncryptRequire.label "加密此郵件">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "不加密此郵件">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
-
 <!ENTITY menu_securitySign.label "對此郵件加上數位簽章">
-<!ENTITY menu_securitySign.accesskey "S">
+<!ENTITY menu_securitySign.accesskey "M">
 
 <!ENTITY menu_securityStatus.label "檢視安全資訊">
 <!ENTITY menu_securityStatus.accesskey "i">
 
-<!ENTITY securityButton.label "安全資訊">
+<!ENTITY securityButton.label "安全性">
 <!ENTITY securityButton.tooltip "檢視或修改安全性設定">
 
 <!ENTITY menu_viewSecurityStatus.label "郵件安全資訊">

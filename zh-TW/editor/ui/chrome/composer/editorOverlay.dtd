@@ -47,39 +47,39 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newBlankPageCmd.label "編輯新頁面">
 <!ENTITY newBlankPageCmd.accesskey "p" >
-<!ENTITY newMenu.label "新增">
-<!ENTITY openFileCmd.label "開啟檔案...">
+<!ENTITY newMenu.label "開新檔案">
+<!ENTITY openFileCmd.label "開啟檔案…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "開啟網址...">
+<!ENTITY openRemoteCmd.label "開啟網址…">
 <!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
+<!ENTITY openRemoteCmd.key "g">
 <!ENTITY fileRecentMenu.label "最近開啟頁面">
 <!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "叫回前次儲存結果">
+<!ENTITY fileRevert.label "反向">
 <!ENTITY fileRevert.accesskey "v">
 <!ENTITY saveCmd.label "儲存">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "另存新檔...">
+<!ENTITY saveAsCmd.label "另存新檔…">
 <!ENTITY saveAsCmd.accesskey "a">
 
-<!ENTITY publishCmd.label "發佈">
+<!ENTITY publishCmd.label "發表">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "發佈為...">
+<!ENTITY publishAsCmd.label "發佈為…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "輸出文字...">
+<!ENTITY exportToTextCmd.label "輸出文字…">
 <!ENTITY exportToTextCmd.accesskey "t">
-<!ENTITY saveAsChangeEncodingCmd.label "儲存並指定字元語言編碼">
+<!ENTITY saveAsChangeEncodingCmd.label "另存字元編碼方式">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY previewCmd.label "用瀏覽器預覽">
 <!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "傳送頁面...">
+<!ENTITY sendPageCmd.label "傳送頁面…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "頁面設定...">
+<!ENTITY printSetupCmd.label "頁面設定…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "列印...">
+<!ENTITY printCmd.label "列印…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "關閉">
@@ -94,11 +94,12 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "貼上為">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "網站發佈設定...">
+<!ENTITY publishSettings.label "網站發佈設定…">
 <!ENTITY publishSettings.accesskey "b">
-<!ENTITY pasteAsQuotationCmd.label "用引言的方式貼上">
+<!ENTITY pasteAsQuotationCmd.label "以引言方式貼上">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY findCmd.label "尋找及取代...">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findCmd.label "尋找及取代…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
@@ -112,7 +113,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "即時拼字檢查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "拼字檢查">
+<!ENTITY checkSpellingCmd2.label "檢查拼字">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "驗證 HTML">
@@ -121,31 +122,31 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "插入">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "鏈結...">
+<!ENTITY insertLinkCmd.label "鏈結…">
 <!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "插入鏈結目標...">
+<!ENTITY insertLinkCmd.key "g">
+<!ENTITY insertAnchorCmd.label "插入鏈結目標…">
 <!ENTITY insertAnchorCmd.accesskey "a">
-<!ENTITY insertImageCmd.label "圖片...">
+<!ENTITY insertImageCmd.label "圖片…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "水平線">
 <!ENTITY insertHLineCmd.accesskey "o">
-<!ENTITY insertTableCmd.label "表格...">
+<!ENTITY insertTableCmd.label "表格…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "字元及符號...">
+<!ENTITY insertCharsCmd.label "字元及符號…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "分開底下的圖片">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(無搜尋建議)">
-<!ENTITY spellCheckIgnoreWord.label "忽略文字">
+<!ENTITY spellCheckIgnoreWord.label "忽略單字">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "新增到字典">
+<!ENTITY spellCheckAddToDictionary.label "加入字典">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "建立鏈結...">
+<!ENTITY createLinkCmd.label "建立鏈結…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "用新編輯器視窗編輯此鏈結">
 <!ENTITY editLinkCmd.accesskey "i">
@@ -160,7 +161,7 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "貼上">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "刪除">
+<!ENTITY deleteCmd.label "刪除項目">
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY clearCmd.label "清除">
 <!ENTITY clearCmd.accesskey "l">
@@ -247,7 +248,7 @@
 <!ENTITY styleVar.label "變數">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "文字顏色...">
+<!ENTITY formatFontColor.label "文字顏色…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "表格或儲存格背景顏色..">
 <!ENTITY tableOrCellColor.accesskey "b">
@@ -280,7 +281,7 @@
 <!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
-<!ENTITY formatlistMenu.label "清單(List)">
+<!ENTITY formatlistMenu.label "清單">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "無">
 <!ENTITY noneCmd.accesskey "N">
@@ -292,7 +293,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "定義">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "列出所有屬性...">
+<!ENTITY listPropsCmd.label "列出所有屬性…">
 <!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "選擇段落格式">
@@ -334,9 +335,9 @@
 <!ENTITY grid.label "定位格點">
 <!ENTITY grid.accesskey "t">
 
-<!ENTITY pageProperties.label "頁面標題與屬性...">
+<!ENTITY pageProperties.label "頁面標題與屬性…">
 <!ENTITY pageProperties.accesskey "g">
-<!ENTITY colorsAndBackground.label "頁面文字顏色及背景顏色...">
+<!ENTITY colorsAndBackground.label "頁面文字顏色及背景顏色…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
@@ -385,7 +386,7 @@
 <!ENTITY tableCellAfter.label "在此格後加一格">
 <!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "刪除">
+<!ENTITY tableDeleteMenu.label "刪除項目">
 <!ENTITY tableDeleteMenu.accesskey "D">
 
 <!-- text for "Join Cells" is in editor.properties 
@@ -399,23 +400,23 @@
 <!ENTITY tableSplitCell.accesskey "C">
 <!ENTITY convertToTable.label "由選取資料建立表格">
 <!ENTITY convertToTable.accesskey "r">
-<!ENTITY tableProperties.label "表格屬性...">
+<!ENTITY tableProperties.label "表格屬性…">
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "選單列">
-<!ENTITY compositionToolbar.tooltip "設計工具列">
+<!ENTITY compositionToolbar.tooltip "編輯工具列">
 <!ENTITY formatToolbar.tooltip "格式化工具列">
 <!ENTITY newToolbarCmd.tooltip "建立新編輯視窗">
 <!ENTITY openToolbarCmd.label "開啟">
 <!ENTITY openToolbarCmd.tooltip "開啟本地檔案">
 <!ENTITY saveToolbarCmd.tooltip "儲存到本地檔案">
 <!ENTITY publishToolbarCmd.tooltip "上傳檔案到遠端位址">
-<!ENTITY previewToolbarCmd.label "瀏覽預覽">
+<!ENTITY previewToolbarCmd.label "瀏覽">
 <!ENTITY previewToolbarCmd.tooltip "將此頁載入瀏覽器">
 <!ENTITY printToolbarCmd.label "列印">
 <!ENTITY printToolbarCmd.tooltip "列印頁面">
-<!ENTITY findToolbarCmd.label "尋找">
+<!ENTITY findToolbarCmd.label "搜尋">
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">
 <!ENTITY spellToolbarCmd.tooltip "在整頁或選取文字中檢查拼字">
@@ -452,7 +453,7 @@
 <!ENTITY alignjustifyButton.tooltip "將文字對齊左右邊界">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "標準">
+<!ENTITY NormalModeTab.label "正常">
 <!ENTITY NormalMode.label "標準編輯模式">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "顯示表格框線與鏈結目標">
@@ -492,5 +493,5 @@
 <!ENTITY updateTOC.accesskey      "U">
 <!ENTITY removeTOC.label          "移除">
 <!ENTITY removeTOC.accesskey      "R">
-<!ENTITY tocMenu.label            "目錄...">
+<!ENTITY tocMenu.label            "目錄…">
 <!ENTITY tocMenu.accesskey        "b">

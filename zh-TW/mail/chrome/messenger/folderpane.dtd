@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label   "名稱"> 
+<!ENTITY nameColumn.label   "姓名"> 
 <!ENTITY unreadColumn.label "未讀"> 
 <!ENTITY totalColumn.label "全部"> 
 <!ENTITY folderSizeColumn.label "大小"> 

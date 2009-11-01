@@ -38,5 +38,5 @@
 <!ENTITY messageMarkByDate.label "依日期標示郵件為已讀">
 <!ENTITY markByDateLower.label "由此時間開始標示郵件:">
 <!ENTITY markByDateLower.accesskey "f">
-<!ENTITY markByDateUpper.label "到:">
+<!ENTITY markByDateUpper.label "至:">
 <!ENTITY markByDateUpper.accesskey "T">

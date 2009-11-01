@@ -37,13 +37,13 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "頁面屬性">
-<!ENTITY location.label "位址:">
+<!ENTITY location.label "位置:">
 <!ENTITY lastModified.label "上次修改:">
 <!ENTITY titleInput.label "標題:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "作者:">
 <!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "描述:">
+<!ENTITY descriptionInput.label "說明:">
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[新頁面，未儲存]">
 <!ENTITY EditHEADSource1.label "進階使用者:">

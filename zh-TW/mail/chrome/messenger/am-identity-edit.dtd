@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "身份設定">
 <!ENTITY identityListDesc.label "此身份的詳細資訊:">
 

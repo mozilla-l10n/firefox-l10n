@@ -42,9 +42,9 @@
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "選擇 LDAP 目錄伺服器:">
 <!ENTITY directoriesText.accesskey "S">
-<!ENTITY addDirectory.label        "新增">
+<!ENTITY addDirectory.label        "加入">
 <!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "編輯">
 <!ENTITY editDirectory.accesskey   "E">
-<!ENTITY deleteDirectory.label     "刪除">
+<!ENTITY deleteDirectory.label     "刪除項目">
 <!ENTITY deleteDirectory.accesskey "D">

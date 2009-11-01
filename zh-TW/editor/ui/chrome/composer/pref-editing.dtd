@@ -1,4 +1,4 @@
-<!ENTITY  pref.editing.title        "新頁面設定">
+<!ENTITY  pref.editing.title        "編輯設定">
 
 <!ENTITY  authorName.label          "作者:">
 <!ENTITY  authorName.accesskey      "u">
@@ -9,9 +9,9 @@
 <!ENTITY customColors.label         "使用者自訂的顏色:(由本網頁指定)">
 <!ENTITY customColors.accesskey     "c">
 
-<!ENTITY normalText.label           "一般文字:">
+<!ENTITY normalText.label           "一般文字">
 <!ENTITY normalText.accesskey       "N">
-<!ENTITY linkText.label             "鏈結文字:">
+<!ENTITY linkText.label             "未瀏覽過的鏈結文字:">
 <!ENTITY linkText.accesskey         "L">
 <!ENTITY activeLinkText.label       "被點選的鏈結文字顏色:">
 <!ENTITY activeLinkText.accesskey   "A">
@@ -23,6 +23,6 @@
 
 <!ENTITY backgroundImage.label      "背景圖片檔:">
 <!ENTITY backgroundImage.accesskey  "m">
-<!ENTITY chooseFile.label           "選擇檔案...">
+<!ENTITY chooseFile.label           "選擇檔案…">
 <!ENTITY chooseFile.accesskey       "o">
 

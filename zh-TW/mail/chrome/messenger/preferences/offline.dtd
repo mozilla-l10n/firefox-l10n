@@ -11,14 +11,14 @@
 <!ENTITY textGoingOnline "當切換到連線模式時寄出未寄郵件？">
 <!ENTITY radioAutoSend.label "是">
 <!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "否">
+<!ENTITY radioNotSend.label "不使用">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "詢問我">
 <!ENTITY radioAskUnsent.accesskey "s">
 <!ENTITY textGoingOffline "當切換到離線模式時自動下載郵件以供離線閱讀？">
 <!ENTITY radioAutoDownload.label "是">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "否">
+<!ENTITY radioNotDownload.label "不使用">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload.label "詢問我">
 <!ENTITY radioAskDownload.accesskey "A">

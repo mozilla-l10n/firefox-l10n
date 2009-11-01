@@ -3,21 +3,23 @@
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "搜尋子資料夾">
 <!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "在伺服器上執行搜尋">
+<!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "清除">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "開啟">
 <!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "刪除">
+<!ENTITY deleteButton.label          "刪除項目">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "搜尋郵件或文章">
 <!ENTITY results.label               "結果">
-<!ENTITY fileHereMenu.label          "存入此處">
+<!ENTITY fileHereMenu.label          "歸檔此處">
 <!ENTITY fileHereMenu.accesskey      "F">
 <!ENTITY fileButton.label            "歸檔">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "開啟資料夾">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "在資料夾開啟">
+<!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "存為即時搜尋資料夾">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
@@ -32,11 +34,11 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "主題">
-<!ENTITY fromColumn.label "寄件者">
-<!ENTITY recipientColumn.label "收件者">
+<!ENTITY fromColumn.label "從">
+<!ENTITY recipientColumn.label "收件回執:">
 <!ENTITY subjectColumn.label "主旨">
 <!ENTITY dateColumn.label "日期">
-<!ENTITY priorityColumn.label "優先權">
+<!ENTITY priorityColumn.label "重要性">
 <!ENTITY tagsColumn.label "標籤">
 <!ENTITY accountColumn.label "帳號">
 <!ENTITY statusColumn.label "狀態">
@@ -44,10 +46,10 @@
 <!ENTITY junkStatusColumn.label "垃圾信">
 <!ENTITY unreadColumn.label "未讀">
 <!ENTITY totalColumn.label "全部">
-<!ENTITY readColumn.label "已讀">
+<!ENTITY readColumn.label "已讀取">
 <!ENTITY receivedColumn.label "已接收">
 <!ENTITY starredColumn.label "已標星號">
-<!ENTITY locationColumn.label "位址">
+<!ENTITY locationColumn.label "地點">
 <!ENTITY idColumn.label "收件順序">
 
 <!-- Thread Pane Tooltips -->

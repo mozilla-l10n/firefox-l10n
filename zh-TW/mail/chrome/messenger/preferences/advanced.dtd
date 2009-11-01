@@ -6,69 +6,77 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "啟用信件索引">
-<!ENTITY enableGloda.accesskey         "I">
+<!ENTITY enableGlodaSearch.label       "啟動全域搜尋以及索引">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY systemIntegration.label       "系統整合">
+<!ENTITY alwaysCheckDefault.label      "每次啟動時檢查 &brandShortName; 是否為預設電子郵件用戶端">
+<!ENTITY alwaysCheckDefault.accesskey  "a">
+<!ENTITY searchIntegration.label       "允許 &searchIntegration.engineName; 搜尋郵件">
+<!ENTITY searchIntegration.accesskey   "s">
+<!ENTITY checkNow.label                "立刻檢查">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "進階組態">
+<!ENTITY configEdit.label              "組態編輯器…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "決定 &brandShortName; 如何處理收件回執 (Return Receipts)">
+<!ENTITY showReturnReceipts.label      "收件回執…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "讀取">
+<!ENTITY display.caption               "顯示">
 <!ENTITY showCondensedAddresses.label  "顯示通訊錄裡設定的名字">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
 <!ENTITY autoMarkAsRead.label          "自動標為已讀">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "顯示時立刻標示">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "在顯示">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "秒之後">
-<!ENTITY showFolderColumns.label       "在資料夾清單中顯示額外欄位">
-<!ENTITY showFolderColumns.accesskey   "l">
-<!ENTITY openMsgIn.label               "開啟郵件於： ">
+<!ENTITY openMsgIn.label               "開啟郵件於: ">
+<!ENTITY openMsgInNewTab.label         "新分頁">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "新視窗">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "重複使用已存在的視窗">
-<!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY configEditDesc.label          "進階組態設定">
-<!ENTITY configEdit.label              "組態編輯器...">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "決定 &brandShortName; 如何處理收件回執 (Return Receipts)">
-<!ENTITY showReturnReceipts.label      "收件回執...">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "讀取">
-<!ENTITY display.caption                "顯示">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgWindowOnDelete.label  "刪除郵件時關閉該郵件視窗">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "自動檢查是否有更新:">
+<!ENTITY autoCheck.label                "自動檢查更新:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "已安裝的附加元件">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "立刻檢查...">
-<!ENTITY whenUpdatesFound.label         "找到 &brandShortName; 的更新檔時，">
+<!ENTITY enableAddonsUpdate.accesskey   "a">
+<!ENTITY whenUpdatesFound.label         "找到 &brandShortName; 的更新檔時,">
 <!ENTITY modeAskMe.label                "詢問我要怎麼處理">
-<!ENTITY modeAskMe.accesskey            "k">
-<!ENTITY modeAutomatic.label            "自動下載與安裝更新檔">
-<!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "若會影響已安裝的附加元件請先警告我">
-<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY modeAskMe.accesskey            "m">
+<!ENTITY modeAutomatic.label            "自動下載並安裝更新檔案">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoAddonWarn.label        "若需要停用任何已安裝的附加元件時，請先警告我">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "顯示更新記錄">
-<!ENTITY showUpdates.accesskey          "y">
+<!ENTITY showUpdates.accesskey          "S">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "設定…">
-<!ENTITY showSettings.accesskey        "n">
+<!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "設定 &brandShortName; 要如何連到網路">
 <!ENTITY connectionsInfo.caption       "連線">
 <!ENTITY offlineInfo.caption           "離線模式">
 <!ENTITY offlineInfo.label             "離線模式設定">
-<!ENTITY showOffline.label             "離線模式...">
+<!ENTITY showOffline.label             "離線模式…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "磁碟空間">
 <!ENTITY offlineCompact.label "超過下列大小時自動壓實重整 (Compact) 郵件匣: ">
-<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
@@ -84,11 +92,17 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "當伺服器要求我的個人憑證時:">
+<!ENTITY certs.auto                      "自動選擇一組憑證">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "每次都詢問我">
+<!ENTITY certs.ask.accesskey             "A">
+
 <!ENTITY viewCertificates.label         "檢視憑證">
-<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "廢止清冊">
-<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "驗證">
-<!ENTITY validation.accesskey           "d">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "安全裝置">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewSecurityDevices.accesskey  "S">

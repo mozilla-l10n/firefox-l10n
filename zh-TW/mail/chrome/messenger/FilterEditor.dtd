@@ -3,20 +3,22 @@
 <!ENTITY filterName.label "篩選條件名稱:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "垃圾信">
+<!ENTITY junk.label "垃圾郵件">
 <!ENTITY notJunk.label "非垃圾信">
 
 <!ENTITY lowestPriorityCmd.label "最低">
 <!ENTITY lowPriorityCmd.label "低">
-<!ENTITY normalPriorityCmd.label "標準">
+<!ENTITY normalPriorityCmd.label "正常">
 <!ENTITY highPriorityCmd.label "高">
 <!ENTITY highestPriorityCmd.label "最高">
 
-<!ENTITY contextDesc.label "套用篩選器當：">
+<!ENTITY contextDesc.label "套用篩選器當:">
 <!ENTITY contextDesc.accesskey "w">
 <!ENTITY contextIncoming.label "檢查郵件時">
 <!ENTITY contextManual.label "手動執行">
 <!ENTITY contextBoth.label "檢查郵件時或手動執行時">
+<!ENTITY contextPostPlugin.label "檢查郵件(分類後)">
+<!ENTITY contextPostPluginBoth.label "檢查郵件(分類後)或手動執行">
 <!ENTITY filterActionDesc.label "執行下列動作:">
 <!ENTITY filterActionDesc.accesskey "P">
 

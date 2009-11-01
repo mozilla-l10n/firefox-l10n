@@ -1,8 +1,8 @@
-<!ENTITY newsblogTitle.label "RSS 帳號設定">
+<!ENTITY accountTitle.label "帳戶設定">
 
 <!ENTITY biffStart.label "每">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "分鐘檢查新文章">
+<!ENTITY biffEnd.label "分">
 
 <!ENTITY loginAtStartup.label "啟動時檢查是否有新文章"> 
 <!ENTITY loginAtStartup.accesskey "C">
@@ -10,11 +10,11 @@
 <!ENTITY useQuickMode.label "預設顯示文章摘要而非載入網頁"> 
 <!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "管理訂閱清單..."> 
+<!ENTITY manageSubscriptions.label "管理訂閱清單…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "RSS 新聞與部落格">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "RSS 新聞與部落格 (Blog)">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "部落格與新聞來源">
+<!ENTITY feeds.wizardShortName "消息來源">
+<!ENTITY feeds.wizardLongName "部落格與新聞來源">
+<!ENTITY feeds.wizardLongName.accesskey "F">

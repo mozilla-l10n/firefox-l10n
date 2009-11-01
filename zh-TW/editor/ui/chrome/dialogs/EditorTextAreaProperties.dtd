@@ -46,7 +46,7 @@
 <!ENTITY TextAreaCols.accessKey "C">
 <!ENTITY TextAreaReadOnly.label "唯讀">
 <!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "不使用">
+<!ENTITY TextAreaDisabled.label "已停用">
 <!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "選取順序(Tab Index):">
 <!ENTITY TextAreaTabIndex.accessKey "I">
@@ -57,8 +57,8 @@
 
 <!ENTITY TextAreaWrap.label "斷行模式:">
 <!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "預設值">
-<!ENTITY WrapOff.value "關閉(Off)">
+<!ENTITY WrapDefault.value " 預設">
+<!ENTITY WrapOff.value "關閉">
 <!ENTITY WrapHard.value "硬式(Hard)">
 <!ENTITY WrapSoft.value "軟式(Soft)">
 <!ENTITY WrapPhysical.value "實體(Physical)">

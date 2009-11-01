@@ -38,7 +38,7 @@
 
 <!ENTITY Settings.label "設定">
 
-<!ENTITY ButtonType.label "型態">
+<!ENTITY ButtonType.label "種類">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "送出">
 <!ENTITY reset.value "重設">
@@ -50,7 +50,7 @@
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "選取順序(Tab Index):">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "不使用">
+<!ENTITY ButtonDisabled.label "已停用">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "存取鍵:">
 <!ENTITY AccessKey.accesskey "K">

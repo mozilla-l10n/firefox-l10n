@@ -12,7 +12,7 @@
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "自訂檢視">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "儲存檢視結果為資料夾...">
+<!ENTITY viewVirtualFolder.label "儲存檢視結果為資料夾…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "自訂...">
+<!ENTITY viewCustomizeView.label "自訂…">
 <!ENTITY viewCustomizeView.accesskey "C">

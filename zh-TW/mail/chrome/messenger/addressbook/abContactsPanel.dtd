@@ -4,7 +4,7 @@
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "姓名 或 Email">
 
-<!ENTITY deleteAddrBookCard.label           "刪除">
+<!ENTITY deleteAddrBookCard.label           "刪除項目">
 <!ENTITY addrBookCardProperties.label       "屬性">
 <!ENTITY addtoToFieldMenu.label             "加到收件者 (To) 欄位">
 <!ENTITY addtoCcFieldMenu.label             "加到副本 (Cc) 欄位">
@@ -14,5 +14,5 @@
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "加到副本 (Cc):">
 <!ENTITY ccButton.accesskey                 "d">
-<!ENTITY bccButton.label                    "加入到密件副本：">
+<!ENTITY bccButton.label                    "加入到密件副本:">
 <!ENTITY bccButton.accesskey                "B">

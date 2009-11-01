@@ -38,9 +38,9 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label            "發佈頁面">
 <!ENTITY windowTitleSettings.label    "發佈設定">
-<!ENTITY publishTab.label             "發佈">
+<!ENTITY publishTab.label             "發表">
 <!ENTITY settingsTab.label            "設定">
-<!ENTITY publishButton.label          "發佈">
+<!ENTITY publishButton.label          "發表">
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "網站名稱:">
@@ -69,7 +69,7 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "輸入檔名，若為網頁請加上「.html」。">
 <!ENTITY filenameExample.label        "如: &quot;mypage.html&quot;">
-<!ENTITY setDefaultButton.label       "設為預設值">
+<!ENTITY setDefaultButton.label       "設為預設帳號">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "移除網站">
 <!ENTITY removeButton.accesskey       "R">

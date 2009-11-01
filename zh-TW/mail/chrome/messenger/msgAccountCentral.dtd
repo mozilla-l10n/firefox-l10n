@@ -1,4 +1,4 @@
-<!ENTITY emailSectionHdr.label        "電子郵件 Email"> 
+<!ENTITY emailSectionHdr.label        "電子郵件"> 
 <!ENTITY readMsgsLink.label           "讀取郵件"> 
 <!ENTITY composeMsgLink.label         "發新郵件"> 
 
@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label           "垃圾郵件設定">
 <!ENTITY offlineLink.label            "離線模式設定">
 
-<!ENTITY rssSectionHdr.label          "RSS 新聞與部落格"> 
-<!ENTITY subscibeRSS.label            "管理訂閱狀態">
+<!ENTITY feedsSectionHdr.label        "消息來源">
+<!ENTITY subscribeFeeds.label         "管理訂閱">

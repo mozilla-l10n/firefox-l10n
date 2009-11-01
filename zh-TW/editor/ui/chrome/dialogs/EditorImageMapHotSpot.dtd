@@ -44,7 +44,7 @@
 <!ENTITY link.label				"Hotspot 鏈結">
 <!ENTITY urlFieldset.label		"Hotspot 網址(URL):">
 <!ENTITY altFieldset.label		"Hotspot 替代文字:">
-<!ENTITY browseButton.label		"瀏覽...">
+<!ENTITY browseButton.label		"瀏覽…">
 <!ENTITY targetFieldset.label	"目標設定">
 <!ENTITY target.label			"Hotspot 目標">
 

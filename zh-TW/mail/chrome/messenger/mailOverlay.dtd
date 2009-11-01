@@ -3,6 +3,5 @@
 <!ENTITY  newMessageCmd.label             "郵件">
 <!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY  newCardCmd.label                "通訊錄名片...">
-<!ENTITY  newCardCmd.accesskey            "C">
- 
+<!ENTITY  newContactCmd.label             "通訊錄連絡人…">
+<!ENTITY  newContactCmd.accesskey         "C">
