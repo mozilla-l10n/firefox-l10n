@@ -70,7 +70,7 @@
 <!ENTITY openAttachmentCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "另存为">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "移动">
+<!ENTITY saveAsFileCmd.label "文件">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "模板">
@@ -478,7 +478,7 @@
 <!ENTITY replyButton.label "回复">
 <!ENTITY replyAllButton.label "全部回复">
 <!ENTITY forwardButton.label "转发">
-<!ENTITY fileButton.label "移动">
+<!ENTITY fileButton.label "文件">
 <!ENTITY nextButton.label "前进">
 <!ENTITY goBackButton.label "回到上一步">
 <!ENTITY goForwardButton.label "向前">
