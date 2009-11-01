@@ -9,7 +9,7 @@
 <!ENTITY password.label "Heslo:">
 <!ENTITY password.accesskey "H">
 <!ENTITY password.emptytext "Heslo">
-<!ENTITY password.text "Nepoviné, pouze pro ověření uživatelského jména">
+<!ENTITY password.text "Nepovinné, pouze pro ověření uživatelského jména">
 
 <!ENTITY accountInformation.label "Informace o účtu">
 <!ENTITY username2.label "Uživatelské jméno">

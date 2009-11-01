@@ -468,7 +468,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Napsat">
 <!ENTITY replyButton.label "Odpovědět">
 <!ENTITY replyAllButton.label "Odp. všem">
-<!ENTITY replyListButton.label "Odpovědět do konference">
+<!ENTITY replyListButton.label "Odp. do konf.">
 <!ENTITY forwardButton.label "Přeposlat">
 <!ENTITY fileButton.label "Přesunout">
 <!ENTITY archiveButton.label "Archivovat">

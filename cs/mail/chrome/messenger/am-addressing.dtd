@@ -31,7 +31,7 @@
 <!ENTITY place.accesskey "U">
 <!ENTITY belowText.label "pod citovaný text (doporučeno)">
 <!ENTITY aboveText.label "pod odpověď (nad citovaný text)">
-<!ENTITY includeSigOnReply.label "Při odpověďi vložit podpis">
+<!ENTITY includeSigOnReply.label "Při odpovědi vložit podpis">
 <!ENTITY includeSigOnReply.accesskey "o">
 <!ENTITY includeSigOnForward.label "Při přeposlání vložit podpis">
 <!ENTITY includeSigOnForward.accesskey "p">

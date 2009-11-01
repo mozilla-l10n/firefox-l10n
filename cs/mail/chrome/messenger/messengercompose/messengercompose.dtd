@@ -213,7 +213,7 @@
 <!ENTITY attachments.accesskey "P">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Vloží smajlíka">
+<!ENTITY SmileButton.tooltip "Vloží smajlík">
 <!ENTITY smiley1Cmd.label "Úsměv">
 <!ENTITY smiley2Cmd.label "Zamračený">
 <!ENTITY smiley3Cmd.label "Mrknutí">
