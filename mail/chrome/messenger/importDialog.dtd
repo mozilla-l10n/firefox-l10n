@@ -78,7 +78,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "标题">
 <!ENTITY processing.label         "正在导入…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x的每一个名片对应一个邮件地址，而 &brandShortName;对应两个地址（家庭和工作）。">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x 的每一个名片对应一个邮件地址，而 &brandShortName; 对应两个地址（家庭和工作）。">
 <!ENTITY FieldDiscInputText2.label  "选择您想要保存导入的重要邮件地址的类别：">
 <!ENTITY FieldDiscWarning.label  "此类别将在已选择通讯录的所有条目中使用：">
 <!ENTITY importHome.label        "家庭">
