@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "說明"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "關於 &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY aboutProduct.label       "關於 &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "&brandShortName; 說明">
 <!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpForIEUsers.label     "給 IE 使用者">
@@ -22,7 +22,7 @@
 <!ENTITY helpReleaseNotes.label         "版本資訊">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshooting.label      "疑難排解資訊…">
+<!ENTITY helpTroubleshooting.label      "疑難排解資訊">
 <!ENTITY helpTroubleshooting.accesskey  "T">
 
 <!ENTITY updateCmd.label                "檢查更新…">

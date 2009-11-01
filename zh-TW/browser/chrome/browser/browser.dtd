@@ -265,6 +265,8 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "檢視圖片">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageInfoCmd.label       "檢視圖片資訊">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "播放視訊檔案">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "檢視背景圖片">
@@ -335,6 +337,8 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "隱藏控制按鈕">
 <!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "全螢幕">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 
 <!-- LOCALIZATION NOTE :

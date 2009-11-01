@@ -10,7 +10,6 @@
 <!ENTITY aboutSupport.extensionName "名稱">
 <!ENTITY aboutSupport.extensionEnabled "已啟用">
 <!ENTITY aboutSupport.extensionVersion "版本">
-<!ENTITY aboutSupport.extensionFirstRun "首次啟用">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "應用程式一般資訊">
@@ -19,6 +18,13 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "設定檔目錄">
 <!ENTITY aboutSupport.appBasicsPlugins "已安裝的外掛程式">
 <!ENTITY aboutSupport.appBasicsBuildConfig "編譯組態">
+
+<!ENTITY aboutSupport.show.label "開啟所在資料夾">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "顯示於 Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "修改的偏好設定">
 <!ENTITY aboutSupport.modifiedPrefsName "名稱">
