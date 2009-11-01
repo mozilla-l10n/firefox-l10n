@@ -1,17 +1,17 @@
-<!ENTITY     tab.cookiesonsystem.label      "已保存Cookies">
-<!ENTITY     tab.bannedservers.label        "已阻止此站点Cookie">
-<!ENTITY     div.bannedservers.label        "管理你的Cookies设置是否允许网站存储Cookies。">
-<!ENTITY     div.cookiesonsystem.label      "查看或删除存储在你的电脑上的Cookies。">
+<!ENTITY     tab.cookiesonsystem.label      "已保存 Cookie">
+<!ENTITY     tab.bannedservers.label        "Cookie 站点">
+<!ENTITY     div.bannedservers.label        "管理站点并设置是否允许他们在您的计算机中存储 Cookie。">
+<!ENTITY     div.cookiesonsystem.label      "查看或删除存储在你的计算机中的 Cookie。">
 <!ENTITY     treehead.cookiename.label      "Cookie 名称">
 <!ENTITY     treehead.cookiedomain.label    "报告站点"> 
 <!ENTITY     treehead.cookieexpires.label   "过期"> 
-<!ENTITY     treehead.infoselected.label    "已选Cookie的信息">
+<!ENTITY     treehead.infoselected.label    "已选 Cookie 的信息">
 <!ENTITY     button.removecookie.label      "移除 Cookie">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "移除所有 Cookie">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.emptytext               "搜索Cookie">
+<!ENTITY     search.emptytext               "搜索 Cookie">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
@@ -25,7 +25,7 @@
 
 <!ENTITY     treehead.sitename.label        "报告站点">
 <!ENTITY     treehead.status.label          "状态">
-<!ENTITY     windowtitle.label              "管理Cookie">
+<!ENTITY     windowtitle.label              "Cookie 管理器">
 <!ENTITY     buttonaccept.label             "关闭">
 <!ENTITY     buttonaccept.accesskey         "C">
 
@@ -40,5 +40,5 @@
 <!ENTITY     removeallpermissions.label     "删除全部站点">
 <!ENTITY     removeallpermissions.accesskey "e">
 
-<!ENTITY     futureCookies.label            "禁止站点移除Cookies">
+<!ENTITY     futureCookies.label            "不允许设置已移除 Cookie 的站点将来设置 Cookie">
 <!ENTITY     futureCookies.accesskey        "D">

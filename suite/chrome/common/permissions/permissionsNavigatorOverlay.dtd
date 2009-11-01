@@ -1,20 +1,20 @@
 <!-- the following is for the task menu overlay -->
 
-<!ENTITY cookieMessageTitle.label "COOKIE权限已改变">
-<!ENTITY cookieDisplayCookiesCmd.label "管理已存储的Cookie">
+<!ENTITY cookieMessageTitle.label "Cookie 权限已改变">
+<!ENTITY cookieDisplayCookiesCmd.label "管理已存储的 Cookie">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "M">
-<!ENTITY cookieAllowCookiesCmd.label "允许此站点Cookies">
+<!ENTITY cookieAllowCookiesCmd.label "允许来自此站点的 Cookie">
 <!ENTITY cookieAllowCookiesCmd.accesskey "A">
-<!ENTITY cookieAllowCookiesMsg.label "总是允许此站点Cookies.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "允许此站点Cookies一次">
+<!ENTITY cookieAllowCookiesMsg.label "总是允许来自此站点的 Cookie。">
+<!ENTITY cookieAllowSessionCookiesCmd.label "允许来自此站点会话中的 Cookie">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
-<!ENTITY cookieAllowSessionCookiesMsg.label "允许此站点设置Cookies(仅当前会话)">
-<!ENTITY cookieCookiesDefaultCmd.label "使用默认Cookies隐私政策">
+<!ENTITY cookieAllowSessionCookiesMsg.label "允许此站点设置 Cookie (仅当前会话)">
+<!ENTITY cookieCookiesDefaultCmd.label "使用默认 Cookie 权限设置">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
-<!ENTITY cookieCookiesDefaultMsg.label "默认Cookies设置">
-<!ENTITY cookieBlockCookiesCmd.label "阻止此站点Cookies">
+<!ENTITY cookieCookiesDefaultMsg.label "来自此站点的 Cookie 将依据默认设置接受或阻止。">
+<!ENTITY cookieBlockCookiesCmd.label "阻止来自此站点的 Cookie">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
-<!ENTITY cookieBlockCookiesMsg.label "总是阻止此站点Cookies。">
+<!ENTITY cookieBlockCookiesMsg.label "总是阻止来自此站点的 Cookie。">
 
 <!ENTITY cookieImageMessageTitle.label "图片权限已变更">
 <!ENTITY cookieDisplayImagesCmd.label "管理图片权限">
@@ -34,7 +34,7 @@
 <!ENTITY cookieManagePopups.label                    "管理弹出窗口">
 <!ENTITY cookieManagePopups.accesskey                "M">
 
-<!ENTITY cookieCookieManager.label "管理Cookie">
+<!ENTITY cookieCookieManager.label "Cookie 管理器">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "图像管理">
 <!ENTITY cookieImageManager.accesskey "i">
