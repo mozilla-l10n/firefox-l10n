@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "邮件和新闻组">
+<!ENTITY messengerWindow.title "邮件 &amp; 新闻组">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -432,7 +432,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "邮件和新闻组">
+<!ENTITY messengerCmd.label "邮件 &amp; 新闻组">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "通讯录">
 <!ENTITY addressBookCmd.accesskey "B">
@@ -675,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "为了保护您的隐私, &brandShortName;已经禁止了这个消息中的远程内容.">
+<!ENTITY remoteContentMessage2.label "为了保护您的隐私, &brandShortName; 已经禁止了这个消息中的远程内容。">
 <!ENTITY loadRemoteContentButton3.label "显示远程内容">
 
 <!-- Phishing Bar -->

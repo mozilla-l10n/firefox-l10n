@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "编写和地址查找">
+<!ENTITY addressing.label          "编写 &amp; 地址簿">
 <!ENTITY addressingGroupTitle.label "地址查找">
 <!ENTITY addressingText.label      "查找地址时：">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
