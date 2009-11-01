@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Search subfolders">
 <!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "Run search on server">
+<!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "Clear">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "Open">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label            "File">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Open Message Folder">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "Open in Folder">
+<!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Save as Search Folder">
 <!ENTITY saveAsVFButton.accesskey    "a">
 
