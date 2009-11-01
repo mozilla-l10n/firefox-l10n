@@ -470,7 +470,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "获取邮件">
-<!ENTITY newMsgButton.label "组成">
+<!ENTITY newMsgButton.label "编写">
 <!ENTITY newHTMLMessageCmd.label "用HTML编写">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
 <!ENTITY newPlainTextMessageCmd.label "用普通文本编写">

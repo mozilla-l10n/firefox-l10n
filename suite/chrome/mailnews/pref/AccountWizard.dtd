@@ -25,7 +25,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(例如, &quot;陈冠吸&quot;).">
+<!ENTITY fullnameExample.label "（例如，&quot;张兵&quot;）">
 <!ENTITY fullnameLabel.label "您的姓名：">
 <!ENTITY fullnameLabel.accesskey "Y">
 

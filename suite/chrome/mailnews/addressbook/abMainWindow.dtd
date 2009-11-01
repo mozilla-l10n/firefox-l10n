@@ -110,7 +110,7 @@
 <!ENTITY newlistButton.accesskey                        "L">  
 <!ENTITY editItemButton.label                           "属性">
 <!ENTITY editItemButton.accesskey                       "P">
-<!ENTITY newmsgButton.label                             "组成">  
+<!ENTITY newmsgButton.label                             "编写">  
 <!ENTITY newmsgButton.accesskey                         "C">  
 <!ENTITY deleteItemButton.label                         "删除">
 <!ENTITY deleteItemButton.accesskey                     "D">

@@ -31,7 +31,7 @@
 <!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "属性">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "组成">
+<!ENTITY composeButton.label         "编写">
 <!ENTITY composeButton.accesskey     "e">
 <!ENTITY abSearchDialogTitle.label   "通讯录高级搜索">
 
