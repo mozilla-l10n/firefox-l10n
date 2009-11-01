@@ -7,12 +7,14 @@
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd.label "Close Tab">
 <!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeOtherTabsCmd.label "Close Other Tabs">
+<!ENTITY closeOtherTabsCmd.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Saved Search…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newAccountCmd.label "Account…">
-<!ENTITY newAccountCmd.accesskey "A">
-<!ENTITY newMailAccountCmd.label "Mail Account (Quick Setup)…">
-<!ENTITY newMailAccountCmd.accesskey "Q">
+<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Attachments">
@@ -130,6 +132,8 @@
 
 <!ENTITY folderView.label "Folders">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY smartFolders.label "Smart">
+<!ENTITY smartFolders.accesskey "S">
 <!ENTITY allFolders.label "All">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Unread">
@@ -467,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Reply to List">
 <!ENTITY forwardButton.label "Forward">
 <!ENTITY fileButton.label "File">
+<!ENTITY archiveButton.label "Archive">
 <!ENTITY nextButton.label "Next">
 <!ENTITY previousButton.label "Previous">
 <!ENTITY backButton1.label "Back">
@@ -499,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Forward selected message">
 <!ENTITY fileButton.tooltip "File selected message">
+<!ENTITY archiveButton.tooltip "Archive selected messages">
 <!ENTITY nextButton.tooltip "Move to the next unread message">
 <!ENTITY previousButton.tooltip "Move to the previous unread message">
 <!ENTITY goForwardButton.tooltip "Go forwards one message">
@@ -566,28 +572,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Search messages…">
-<!ENTITY glodaSearchBar.facet.label "Search:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Everything">
-<!ENTITY glodaSearchFacet.subject.label "Subject">
-<!ENTITY glodaSearchFacet.involves.label "Involves (From, To, Cc, Bcc)">
-<!ENTITY glodaSearchFacet.to.label "To, Cc">
-<!ENTITY glodaSearchFacet.from.label "From">
-<!ENTITY glodaSearchFacet.body.label "Message Text">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Attachment Names">
-
-<!ENTITY glodaSearchBar.location.label "Location:">
-<!ENTITY glodaSearchFacet.everywhere.label "All Folders">
-<!ENTITY glodaSearchFacet.folder.label "In a specific folder…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subject">
@@ -618,15 +602,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Location">
 <!ENTITY idColumn.label "Order Received">
 <!ENTITY attachmentColumn.label "Attachments">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Why">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Score">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Click to select columns to display">
@@ -649,8 +624,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Click to sort by location">
 <!ENTITY idColumn.tooltip "Click to sort by order received">
 <!ENTITY attachmentColumn.tooltip "Click to sort by attachments">
-<!ENTITY glodaWhyColumn.tooltip "Click to sort by why the message is in your search results">
-<!ENTITY glodaScoreColumn.tooltip "Click to sort by the search score">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Open Message in New Window">
@@ -659,6 +632,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Edit As New…">
 <!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextArchive.label "Archive">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Reply to Sender Only">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Reply to Newsgroup">
@@ -684,6 +659,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Print Preview">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.accesskey "m">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Junk Mail">
 <!ENTITY junkBarButton1.label "Not Junk">
@@ -703,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchAllMessages.label "Search all messages">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Add to Address Book…">
@@ -713,10 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "View Contact">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Compose Mail To">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Compose Message To">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copy Email Address">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Create Filter From…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Report Email Scam">
@@ -727,8 +719,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Save Image As…">
 <!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "Copy">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Paste">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Select All">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Copy Link Location">
@@ -737,6 +733,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Copy Email Address">
 <!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Reload">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "Open In Browser">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "Open Link In Browser">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Done">
