@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Colour:">
 <!ENTITY color.accesskey                  "c">
 <!ENTITY displayWidth.label               "Plain Text Messages">
-<!ENTITY plainText.label                  "Use the following font:">
 <!ENTITY displayText.label                "When displaying quoted plain text messages:">
-<!ENTITY fixedWidth.label                 "Fixed width font">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "Variable width font">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "Colours">
 <!ENTITY overrideColors.label             "When displaying messages, use the following colours:">
 <!ENTITY textColor.label                  "Text Colour:">
@@ -33,16 +28,19 @@
 <!ENTITY convertEmoticons.accesskey    "D">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Tags can be used to categorise and prioritise your messages.">
-<!ENTITY addTagButton.label       "Add">
-<!ENTITY addTagButton.accesskey   "A">
-<!ENTITY editTagButton.label      "Edit">
+<!ENTITY displayTagsText.label     "Tags can be used to categorise and prioritise your messages.">
+<!ENTITY addTagButton.label        "Add">
+<!ENTITY addTagButton.accesskey    "A">
+<!ENTITY editTagButton.label       "Edit">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "Delete">
+<!ENTITY removeTagButton.label     "Delete">
 <!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Configure the fonts and encodings used by &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Fonts &amp; Encodings">
-<!ENTITY fontOptions.accesskey   "F">
-<!ENTITY fontOptions.label       "Fonts…">
+<!ENTITY fontsAndColors.label    "Fonts">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Advanced…">

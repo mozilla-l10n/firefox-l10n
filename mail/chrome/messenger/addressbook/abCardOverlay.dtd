@@ -157,3 +157,19 @@ content in HTML messages from this contact.">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Photo">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Pick one of the following:">
+<!ENTITY GenericPhoto.label             "Generic Photo">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Default">
+<!ENTITY PhotoFile.label                "On this Computer">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Browse">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "On the Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Paste or type the web address of a photo">
+<!ENTITY UpdatePhoto.label              "Update">
+<!ENTITY UpdatePhoto.accesskey          "u">
