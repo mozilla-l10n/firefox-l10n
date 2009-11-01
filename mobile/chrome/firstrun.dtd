@@ -1,10 +1,8 @@
 <!ENTITY welcome.title                      "歡迎使用 &brandShortName;">
 <!ENTITY overview.description               "使用 Weave 同步您的電腦與手機。使用附加元件自訂瀏覽器。讓 Awesome Bar 和更多的功能伴您隨時瀏覽網路。">
-<!ENTITY nextSteps.title                    "接下來">
 <!ENTITY sync.title                         "立刻上手">
 <!ENTITY sync.description                   "取得 Weave 讓您快速上手 &brandShortName;。在您的電腦與手機之間同步偏好設定、書籤、瀏覽紀錄等等。">
-<!ENTITY sync.link                          "下載 Weave 附加元件">
+<!ENTITY sync.linkLabel                     "下載 Weave 附加元件">
 <!ENTITY getPersonal.title                  "個人化">
 <!ENTITY getPersonal.description            "讓 &brandShortName; 真正屬於您。使用附加元件自訂第一個在手機上提供擴充能力的瀏覽器。">
-<!ENTITY getPersonal.link                   "為您的手機下載附加元件">
-<!ENTITY skip.link                          "全部跳過且開始瀏覽網路。">
+<!ENTITY getPersonal.linkLabel              "取得用於行動裝置的附加元件">
