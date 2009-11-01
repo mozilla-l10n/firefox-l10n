@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windows Search">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; Integration">
-<!ENTITY searchIntegration.description "您想啟用 &searchIntegration.engineName; 來搜尋 &brandShortName; 的郵件和訊息嗎？">
-
-<!ENTITY searchIntegration.accept "啟用 &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "不要啟用 &searchIntegration.engineName;">
