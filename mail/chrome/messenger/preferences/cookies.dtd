@@ -12,7 +12,7 @@
 <!ENTITY props.value.label                 "Inhoud:">
 <!ENTITY props.domain.label                "Host:">
 <!ENTITY props.path.label                  "Pad:">
-<!ENTITY props.secure.label                "Verzonden aan:">
+<!ENTITY props.secure.label                "Verzenden bij:">
 <!ENTITY props.expires.label               "Verloopt:">
 
 

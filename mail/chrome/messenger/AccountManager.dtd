@@ -2,14 +2,14 @@
 
 <!ENTITY accountManagerTitle.label "Accountinstellingen">
 
-<!ENTITY accountActionsButton.label "Account acties">
-<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY accountActionsButton.label "Accountacties">
+<!ENTITY accountActionsButton.accesskey "c">
 <!ENTITY addMailAccountButton.label "E-mailaccount toevoegen…">
-<!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "Ander account toevoegen…">
-<!ENTITY addOtherAccountButton.accesskey "t">
-<!ENTITY setDefaultButton.label "Instellen als standaard">
-<!ENTITY setDefaultButton.accesskey "I">
+<!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addOtherAccountButton.label "Andere account toevoegen…">
+<!ENTITY addOtherAccountButton.accesskey "A">
+<!ENTITY setDefaultButton.label "Als standaard instellen">
+<!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Account verwijderen">
 <!ENTITY removeButton.accesskey "v">
 

@@ -1,7 +1,7 @@
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchInput.label                  "Zoeken naar:">
-<!ENTITY searchInput.accesskey              "o">
+<!ENTITY searchInput.accesskey              "Z">
 <!ENTITY SearchNameOrEmail.label            "Naam of e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Verwijderen">

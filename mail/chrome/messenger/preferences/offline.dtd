@@ -1,9 +1,9 @@
-<!ENTITY offlineDialog.title       "Offline-instellingen">
+<!ENTITY offlineDialog.title "Offline-instellingen">
 
-<!ENTITY textStartUp   "Bij het opstarten:">
-<!ENTITY radioRememberPrevState.label "Vorige onlinestaat hanteren">
+<!ENTITY textStartUp "Bij het opstarten:">
+<!ENTITY radioRememberPrevState.label "Vorige onlinetoestand hanteren">
 <!ENTITY radioRememberPrevState.accesskey "h">
-<!ENTITY radioAskMe.label "Mij de onlinestaat vragen">
+<!ENTITY radioAskMe.label "Mij de onlinetoestand vragen">
 <!ENTITY radioAskMe.accesskey "s">
 <!ENTITY radioAlwaysOnline.label "Altijd online opstarten">
 <!ENTITY radioAlwaysOnline.accesskey "o">

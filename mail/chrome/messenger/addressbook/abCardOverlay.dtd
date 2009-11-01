@@ -48,13 +48,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Voornaam:">
 <!ENTITY NameField1.accesskey           "V">
@@ -81,11 +81,11 @@
 
 <!ENTITY allowRemoteContent1.label      "Niet-ingebedde inhoud toestaan.">
 <!ENTITY allowRemoteContent1.accesskey  "d">
-<!ENTITY allowRemoteContent1.tooltip    "Berichten in HTML-opmaak kunnen links naar 
-inhoud (zoals afbeeldingen) van externe computerbronnen bevatten. Bij het openen van zo'n
-bericht wordt verbinding met de externe computer gemaakt. Hiermee kan door derden geconstateerd 
-worden dat u het bericht hebt geopend. Door het aanvinken van deze checkbox staat u toe
-dat er verbinding met de externe bron wordt gemaakt om de inhoud op te halen.">
+<!ENTITY allowRemoteContent1.tooltip    "Berichten in HTML-opmaak kunnen koppelingen naar
+inhoud van externe computerbronnen bevatten. Bij het openen van een dergelijk bericht wordt
+verbinding gemaakt met een externe computer. Hiermee kan worden gevolgd of het bericht is
+geopend. Door dit selectievakje aan te vinken staat u toe dat externe inhoud in HTML-berichten
+van dit contact wordt opgehaald.">
 
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
@@ -98,7 +98,7 @@ dat er verbinding met de externe bron wordt gemaakt om de inhoud op te halen.">
 <!ENTITY CellularNumber.label           "Mobiel:">
 <!ENTITY CellularNumber.accesskey       "M">
 
-<!ENTITY Home.tab                       "Prive">
+<!ENTITY Home.tab                       "Privé">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adres:">
 <!ENTITY HomeAddress.accesskey          "A">
@@ -160,16 +160,16 @@ dat er verbinding met de externe bron wordt gemaakt om de inhoud op te halen.">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Kies een van de volgende:">
+<!ENTITY PhotoDesc.label                "Kies één van de volgende:">
 <!ENTITY GenericPhoto.label             "Algemene foto">
-<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY GenericPhoto.accesskey         "A">
 <!ENTITY DefaultPhoto.label             "Standaard">
 <!ENTITY PhotoFile.label                "Op deze computer">
-<!ENTITY PhotoFile.accesskey            "c">
+<!ENTITY PhotoFile.accesskey            "d">
 <!ENTITY BrowsePhoto.label              "Bladeren">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Op het internet">
-<!ENTITY PhotoURL.accesskey             "h">
-<!ENTITY PhotoURL.emptytext             "Plak of type het internetadres van een foto">
+<!ENTITY PhotoURL.accesskey             "i">
+<!ENTITY PhotoURL.emptytext             "Plak of typ het internetadres van een foto">
 <!ENTITY UpdatePhoto.label              "Bijwerken">
 <!ENTITY UpdatePhoto.accesskey          "B">

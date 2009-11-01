@@ -3,16 +3,16 @@
 <!ENTITY aboutButton.accesskey  "T">
 <!ENTITY aboutVersion           "versie">
 <!ENTITY copyrightText          "© 1998-2009 Medewerkers. Alle rechten voorbehouden. Mozilla Thunderbird en de 
-                                 Thunderbird-logo’s zijn handelsmerken van de Mozilla Foundation.  Alle rechten 
+                                 Thunderbird-logo’s zijn handelsmerken van de Mozilla Foundation. Alle rechten 
                                  voorbehouden.">
 <!ENTITY aboutMenu.label        "Over">
 <!ENTITY aboutMenu.accesskey    "O">
-<!ENTITY aboutCredits.label     "Medewerkers">
-<!ENTITY aboutCredits.accesskey "M">
+<!ENTITY aboutCredits.label     "Dankbetuigingen">
+<!ENTITY aboutCredits.accesskey "D">
 <!ENTITY aboutRights.label      "Uw rechten">
 <!ENTITY aboutRights.accesskey  "r">
 <!ENTITY aboutContributors.label "Medewerkers">
-<!ENTITY aboutContributors.accesskey "m">
+<!ENTITY aboutContributors.accesskey "M">
 <!ENTITY aboutLicense.label      "Licentie">
 <!ENTITY aboutLicense.accesskey  "L">
 

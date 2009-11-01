@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label                     "Verzendopties…">
 <!ENTITY sendOptions.accesskey                 "V">
 
-<!ENTITY attachmentReminder.label              "Controleer op missende bijlagen">
-<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminder.label              "Controleren op ontbrekende bijlagen">
+<!ENTITY attachmentReminder.accesskey          "C">
 <!ENTITY attachmentReminderOptions.label       "Sleutelwoorden…">
-<!ENTITY attachmentReminderOptions.accesskey   "S">
+<!ENTITY attachmentReminderOptions.accesskey   "w">

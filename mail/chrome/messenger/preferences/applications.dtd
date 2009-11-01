@@ -1,13 +1,13 @@
-<!ENTITY  typeColumn.label        "Inhoudstype">
-<!ENTITY  typeColumn.accesskey    "t">
+<!ENTITY  typeColumn.label            "Inhoudstype">
+<!ENTITY  typeColumn.accesskey        "t">
 
-<!ENTITY  actionColumn2.label     "Actie">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.label         "Actie">
+<!ENTITY  actionColumn2.accesskey     "A">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext        "Zoeken">
+<!ENTITY  filter.emptytext            "Zoeken">
 
 <!ENTITY saveTo.label                 "Bestanden opslaan in">
 <!ENTITY saveTo.accesskey             "o">

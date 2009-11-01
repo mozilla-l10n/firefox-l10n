@@ -80,7 +80,7 @@
 <!ENTITY viewToolbarsMenu.label                         "Werkbalken">
 <!ENTITY viewToolbarsMenu.accesskey                     "W">
 <!ENTITY showAbToolbarCmd.label                         "Adresboekwerkbalk">
-<!ENTITY showAbToolbarCmd.accesskey                     "A">
+<!ENTITY showAbToolbarCmd.accesskey                     "d">
 <!ENTITY showTaskbarCmd.label                           "Statusbalk">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Aanpassen…">
@@ -116,7 +116,7 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "V">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                         "Nieuwe contact">
+<!ENTITY newContactButton.label                         "Nieuw contact">
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nieuwe lijst">
 <!ENTITY newlistButton.accesskey                        "l">
@@ -130,9 +130,9 @@
 <!ENTITY deleteButton2.accesskey                        "V">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Een nieuwe adresboekcontact aanmaken">
-<!ENTITY newlistButton.tooltip                         "Een nieuwe lijst aanmaken">
-<!ENTITY editButton2.tooltip                             "De geselecteerde item bewerken">
+<!ENTITY newContactButton.tooltip                       "Een nieuw adresboekcontact aanmaken">
+<!ENTITY newlistButton.tooltip                          "Een nieuwe lijst aanmaken">
+<!ENTITY editButton2.tooltip                            "Het geselecteerde item bewerken">
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteButton2.tooltip                          "Geselecteerde item verwijderen">

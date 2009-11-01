@@ -1,32 +1,32 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the
 Migration Assistant page. It should match featureConfiguratorCmd.label in
 baseMenuOverlay.dtd -->
-<!ENTITY featureConfigurator.title "Migratie-assistent">
+<!ENTITY featureConfigurator.title "Migratieassistent">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.heading): Heading for the page -->
-<!ENTITY featureConfigurator.heading "Thunderbird 3 noemenswaardige eigenschappen">
+<!ENTITY featureConfigurator.heading "Noemenswaardige functies van Thunderbird 3">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para1): The tone of this paragraph
 is important: we tried for a tone that promotes the new features (which we
 believe are good and worth users learning about), but also emphasizing that we
 think it's important to preserve user choice. -->
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 bevat krachtige nieuwe eigenschappen waar we trots op zijn en waarvan we denken dat iedereen ze bevalt. Smaak en benodigheden van mensen variëren dus hebben we het makkelijk gemaakt om Thunderbird te beheren en aan te passen.">
+<!ENTITY featureConfigurator.para1 "Thunderbird 3 bevat krachtige nieuwe functies waar we nogal trots op zijn en waarvan we denken dat ze iedereen zullen bevallen. Smaak en behoeften van mensen variëren, dus we hebben het makkelijk gemaakt om Thunderbird te beheren en aan te passen.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
 that this page is active (the buttons change the UI), and that they can get
 back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Gebruik deze pagina om de nieuwe instellingen te configureren. U kunt de migratie-assistent altijd weer starten via het helpmenu.">
+<!ENTITY featureConfigurator.para2 "Gebruik deze pagina om deze nieuwe instellingen te configureren. U kunt altijd terugkeren naar de migratieassistent via het menu Help.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
 IMAP synchronization feature. The words should probably echo the word used
 in the per-account dialog.-->
-<!ENTITY featureConfigurator.imap.heading "IMAP-berichten synchronizeren">
+<!ENTITY featureConfigurator.imap.heading "IMAP-berichten synchroniseren">
 
-<!ENTITY featureConfigurator.imap.status.all "Al uw IMAP-mappen zijn ingesteld op &quot;synchronizeren&quot;.">
+<!ENTITY featureConfigurator.imap.status.all "Al uw IMAP-mappen zijn ingesteld op “synchroniseren”.">
 
-<!ENTITY featureConfigurator.imap.status.none "Geen van uw IMAP-mappen zijn ingesteld op &quot;synchronizeren&quot;.">
+<!ENTITY featureConfigurator.imap.status.none "Geen van uw IMAP-mappen zijn ingesteld op “synchroniseren”.">
 
-<!ENTITY featureConfigurator.imap.status.some "Sommige van uw IMAP-mappen zijn ingesteld op &quot;synchronizeren&quot;.">
+<!ENTITY featureConfigurator.imap.status.some "Sommige van uw IMAP-mappen zijn ingesteld op “synchroniseren”.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
 is intended to explain why we've implemented this and picked it as a default.-->
@@ -36,32 +36,32 @@ is intended to explain why we've implemented this and picked it as a default.-->
 is intended to explain why it might not be the right default for some users.-->
 <!ENTITY featureConfigurator.alternative.label "Alternatief">
 
-<!ENTITY featureConfigurator.syncBenefits.para "Geeft de mogelijkheid om uw e-mail te lezen terwijl u geen verbinding met het internet heeft en geeft de mogelijkheid om berichten te vinden gebasserd op de woorden die het bevat, niet alleen op onderwerp of namen.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird zal al uw e-mail downloaden naar deze computer. Zet dit uit als u weinig schijfruimte heeft of als u moet betalen voor het netwerkverkeer.">
+<!ENTITY featureConfigurator.syncBenefits.para "Laat u uw e-mail lezen terwijl u geen verbinding hebt met het internet en laat u berichten vinden, gebaseerd op de woorden die ze bevatten, niet alleen op onderwerp en namen.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird zal al uw e-mail downloaden naar deze computer. Zet dit uit als u weinig schijfruimte hebt of als u moet betalen voor netwerkverkeer.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
 because of a specific language context.-->
-<!ENTITY featureConfigurator.syncAll.button "alles synchronizeren">
+<!ENTITY featureConfigurator.syncAll.button "alles synchroniseren">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.syncNone.button): The choice of
 lower case is intentional, but may be overriden if that doesn't make sense
 because of a specific language context.-->
-<!ENTITY featureConfigurator.syncNone.button "niets synchronizeren">
+<!ENTITY featureConfigurator.syncNone.button "niets synchroniseren">
 
 <!ENTITY featureConfigurator.advancedUsers.label "Ervaren gebruikers:">
-<!ENTITY featureConfigurator.advancedUsers.para "U kunt dit ook aanpassen per account en map:">
+<!ENTITY featureConfigurator.advancedUsers.para "U kunt dit ook aanpassen per account en per map:">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nieuwe werkbalk">
-<!ENTITY featureConfigurator.toolbar.new.status "De nieuwe werkbalk gebruikt.">
+<!ENTITY featureConfigurator.toolbar.new.status "De nieuwe werkbalk wordt gebruikt.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
 word 'original' is chosen deliberately to be neutral, vs. 'old' which in
 English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "De orginele werkbalk gebruikt.">
+<!ENTITY featureConfigurator.toolbar.original.status "De originele werkbalk wordt gebruikt.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Een overzichtelijkere interface dan onze vorige standaard werkbalk die meer ruimte laat voor de uitgebreide zoekbalk en add-ons.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Als u de oude werkbalk beter vind, u het niet wilt aanpassen of het berichtenvenster niet gebruikt in uw layout.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Een meer overzichtelijke interface dan onze vorige standaardversie die meer ruimte laat voor het uitgebreidere zoektekstveld en add-ons.">
+<!ENTITY featureConfigurator.toolbarAlternative.para "Als de oude werkbalkconfiguratie u beter bevalt, wilt u deze waarschijnlijk niet opnieuw aanpassen, of het berichtenvenster niet gebruiken in uw lay-out.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
@@ -75,34 +75,34 @@ sense because of a specific language context.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Slimme mappen modus">
+<!ENTITY featureConfigurator.smartFolders.heading "Modus Slimme mappen">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "De &quot;slimme mappen&quot; modus gebruikt.">
+<!ENTITY featureConfigurator.smartFolders.smart.status "De modus “slimme mappen” wordt gebruikt.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
 shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "De &quot;slimme mappen&quot; modus niet gebruikt.">
+<!ENTITY featureConfigurator.smartFolders.all.status "De modus “slimme mappen” wordt niet gebruikt.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Voor gebruikers met meerdere accounts, deze weergave groepeerd mappen zoals de Postvak In samen zodat u een beter overzicht krijg van al uw e-mail.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Als uw voorkeur is om alle informatie te verdelen over de accounts dan is de &quot;Alle mappen&quot; mode meer voor u.">
+<!ENTITY featureConfigurator.smartFolderBenefits.para "Voor gebruikers met meerdere accounts groepeert deze weergave mappen zoals het Postvak IN, zodat u een beter overzicht krijgt van al uw e-mail.">
+<!ENTITY featureConfigurator.smartFolderAlternative.para "Als u liever informatie over meerdere accounts verdeelt, zal de modus “Alle mappen” u beter bevallen.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "&quot;slimme mappen&quot; modus gebruiken">
+<!ENTITY featureConfigurator.useSmartFolders.button "modus “slimme mappen” gebruiken">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useAllFolders.button "&quot;alle mappen&quot; modus gebruiken">
+<!ENTITY featureConfigurator.useAllFolders.button "modus “alle mappen” gebruiken">
 
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Samengevouwen berichtkoppen">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
 of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 heeft de gedetailleerde berichtkoppen venster verbeterd door het toevoegen van knoppen met bericht gerelateerde acties. Er zijn alternatieve ontwerpen beschikbaar als ">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 heeft de gedetailleerde berichtkoppenweergave verbeterd, o.a. door knoppen voor berichtgerelateerde acties. Er zijn alternatieve ontwerpen beschikbaar als ">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
 the link to the AMO search page.-->
