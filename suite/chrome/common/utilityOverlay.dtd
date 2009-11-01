@@ -49,7 +49,7 @@
 <!ENTITY findTypeLinksCmd.label "查找自定义链接">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
-<!ENTITY viewMenu.label					"视图"> 
+<!ENTITY viewMenu.label					"查看"> 
 <!ENTITY viewMenu.accesskey				"v"> 
 <!ENTITY viewToolbarsMenu.label				"显示/隐藏"> 
 <!ENTITY viewToolbarsMenu.accesskey			"w"> 
