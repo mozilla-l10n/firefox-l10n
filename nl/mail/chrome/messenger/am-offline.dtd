@@ -44,11 +44,11 @@
 -->
 <!ENTITY allAutosync.label               "Alle berichten lokaal synchroniseren, ongeacht de leeftijd">
 <!ENTITY allAutosync.accesskey           "s">
-<!ENTITY ageAutosyncBefore.label         "De meest recente synchroniseren">
+<!ENTITY ageAutosyncBefore.label         "De meest recente">
 <!ENTITY ageAutosync.accesskey           "r">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "dagen">
 <!ENTITY weekAgeInterval.label           "weken">
 <!ENTITY monthAgeInterval.label          "maanden">
 <!ENTITY yearAgeInterval.label           "jaar">
-<!ENTITY ageAutosyncAfter.label          "">
+<!ENTITY ageAutosyncAfter.label          "synchroniseren">
