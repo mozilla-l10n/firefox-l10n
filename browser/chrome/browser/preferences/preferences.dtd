@@ -3,7 +3,7 @@
 <!-- ENTITY prefWindow.styleWin "വീതി:42em;ഉയരം:36em;" -->
 <!-- ENTITY prefWindow.styleMac "വീതി:47em; " -->
 <!-- ENTITY prefWindow.styleGNOME "വീതി:42em;ഉയരം:34.5em;" -->
-<!ENTITY paneMain.title "പ്രധാനം ">
+<!-- ENTITY paneMain.title "പ്രധാനം " -->
 <!ENTITY paneTabs.title "റ്റാബുകള്‍ ">
 <!ENTITY paneContent.title "ഉള്ളടക്കം">
 <!-- ENTITY paneFeeds.title "ഫീഡുകള്‍" -->
