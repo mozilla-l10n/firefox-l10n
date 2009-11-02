@@ -4,10 +4,10 @@
 <!ENTITY cookieDisplayCookiesCmd.label "Gespeicherte Cookies verwalten">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "G">
 <!ENTITY cookieAllowCookiesCmd.label "Cookies von dieser Website erlauben">
-<!ENTITY cookieAllowCookiesCmd.accesskey "C">
+<!ENTITY cookieAllowCookiesCmd.accesskey "k">
 <!ENTITY cookieAllowCookiesMsg.label "Cookies von dieser Website werden immer erlaubt.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Cookies für diese Sitzung (&quot;Session Cookies&quot;) erlauben">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "C">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "o">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Diese Website kann nur Cookies setzen, die innerhalb der Sitzung gültig sind.">
 <!ENTITY cookieCookiesDefaultCmd.label "Standard-Cookieberechtigungen verwenden">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "S">
@@ -18,9 +18,9 @@
 
 <!ENTITY cookieImageMessageTitle.label "Grafikberechtigungen wurden geändert">
 <!ENTITY cookieDisplayImagesCmd.label "Grafik-Berechtigungen verwalten">
-<!ENTITY cookieDisplayImagesCmd.accesskey "G">
+<!ENTITY cookieDisplayImagesCmd.accesskey "B">
 <!ENTITY cookieAllowImagesCmd.label "Grafiken von dieser Website erlauben">
-<!ENTITY cookieAllowImagesCmd.accesskey "G">
+<!ENTITY cookieAllowImagesCmd.accesskey "a">
 <!ENTITY cookieAllowImagesMsg.label "Grafiken von dieser Website werden immer heruntergeladen.">
 <!ENTITY cookieImagesDefaultCmd.label "Standard-Grafikberechtigungen verwenden">
 <!ENTITY cookieImagesDefaultCmd.accesskey "S">
@@ -32,11 +32,11 @@
 <!ENTITY cookieAllowPopupsCmd.label                  "Pop-ups von dieser Website erlauben">
 <!ENTITY cookieAllowPopupsCmd.accesskey              "P">
 <!ENTITY cookieManagePopups.label                    "Pop-ups verwalten">
-<!ENTITY cookieManagePopups.accesskey                "o">
+<!ENTITY cookieManagePopups.accesskey                "v">
 
 <!ENTITY cookieCookieManager.label "Cookie-Manager">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "Grafik-Manager">
 <!ENTITY cookieImageManager.accesskey "G">
 <!ENTITY cookiePopupManager.label "Pop-up-Manager">
-<!ENTITY cookiePopupManager.accesskey "P">
+<!ENTITY cookiePopupManager.accesskey "o">
