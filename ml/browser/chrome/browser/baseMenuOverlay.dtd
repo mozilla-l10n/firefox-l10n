@@ -9,9 +9,9 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutCmd.label "&brandFullName; നെ കുറിച്ച്‌">
 <!ENTITY aboutCmd.accesskey "A">
-<!ENTITY helpContents.label "സഹായ ഉള്ളടക്കം">
-<!ENTITY helpContents.accesskey "H">
-<!ENTITY helpContentsMac.label "&brandShortName; സഹായം">
+<!-- ENTITY helpContents.label "സഹായ ഉള്ളടക്കം" -->
+<!-- ENTITY helpContents.accesskey "H" -->
+<!-- ENTITY helpContentsMac.label "&brandShortName; സഹായം" -->
 <!ENTITY helpForIEUsers.label "ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍ ഉപഭോക്താക്കള്‍ക്കായി">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">

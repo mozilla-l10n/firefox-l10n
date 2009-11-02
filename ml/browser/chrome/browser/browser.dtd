@@ -83,9 +83,9 @@
 <!ENTITY homeButton.label "ആസ്ഥാനം">
 <!ENTITY bookmarksButton.label "അടയാളങ്ങള്‍">
 <!ENTITY bookmarksButton.tooltip "എന്റെ അടയാളങ്ങള്‍ കാണിക്കുക">
-<!ENTITY bookmarksSidebarCmd.accesskey "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!-- ENTITY bookmarksSidebarCmd.accesskey "B" -->
+<!-- ENTITY bookmarksSidebarCmd.commandkey "b" -->
+<!-- ENTITY bookmarksSidebarWinCmd.commandkey "i" -->
 <!ENTITY historyButton.label "ചരിത്രം">
 <!ENTITY historyButton.tooltip "അടുത്തിടെ സന്ദര്‍ശിച്ച പേജുകള്‍ കാണിക്കുക">
 <!ENTITY historySidebarCmd.accesskey "s">
@@ -237,8 +237,8 @@
 <!ENTITY copyImageContentsCmd.label "ചിത്രം പകര്‍ത്തുക">
 <!ENTITY copyImageContentsCmd.accesskey "y">
 <!ENTITY blockImageCmd.accesskey "g">
-<!ENTITY metadataCmd.label "ഗുണവിശേഷതകള്‍">
-<!ENTITY metadataCmd.accesskey "P">
+<!-- ENTITY metadataCmd.label "ഗുണവിശേഷതകള്‍" -->
+<!-- ENTITY metadataCmd.accesskey "P" -->
 <!ENTITY copyEmailCmd.label "ഇ-മെയില്‍ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "ഈ ഫ്രെയിം">
