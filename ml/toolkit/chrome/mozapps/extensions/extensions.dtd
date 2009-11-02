@@ -21,9 +21,9 @@
 <!-- ENTITY cmd.installFile.accesskey "I" -->
 <!ENTITY cmd.installFileAddon.tooltip "ഒരു ആഡ്‌-ഓണ്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
 <!ENTITY cmd.installFileTheme.tooltip "ഒരു തീം ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
-<!ENTITY cmd.installUpdatesAll.label "അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെടും ">
+<!-- ENTITY cmd.installUpdatesAll.label "അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക" -->
+<!-- ENTITY cmd.installUpdatesAll.accesskey "I" -->
+<!-- ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെടും " -->
 
 <!-- ENTITY cmd.restartApp.label "brandShortName;  വീണ്ടും ആരംഭിക്കുക (&);" -->
 

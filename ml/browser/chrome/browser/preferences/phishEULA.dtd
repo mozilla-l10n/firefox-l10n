@@ -1,7 +1,0 @@
-<!ENTITY phishDlg.title "ഫിഷിംഗ്‌ സുരക്ഷയ്ക്കായുള്ള വ്യവസ്ഥകള്‍">
-<!ENTITY phishDlg.height "40em">
-<!ENTITY phishDlg.width "35em">
-<!ENTITY acceptToS.label "ഫിഷിംഗ്‌ സുരക്ഷയ്ക്കായുള്ള ഈ വ്യവസ്ഥകള്‍ ഞാന്‍ അങ്ങീകരിക്കുന്നു ">
-<!ENTITY declineToS.label "ഫിഷിംഗ്‌ സുരക്ഷയ്ക്കായുള്ള ഈ വ്യവസ്ഥകള്‍ ഞാന്‍ അങ്ങീകരിക്കുന്നില്ല ">
-<!ENTITY accept.label "അംഗീകരിച്ച്‌ തുടരുക">
-<!ENTITY cancel.label "റദ്ദാക്കുക">

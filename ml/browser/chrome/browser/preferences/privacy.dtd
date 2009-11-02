@@ -2,11 +2,11 @@
 <!-- ENTITY rememberBefore.label "സന്ദര്‍ശിച്ച പേജുകള്‍ അവസാനത്തേതിനായി ഓര്‍ത്തിരിക്കുക" -->
 <!-- ENTITY rememberBefore.accesskey "v" -->
 <!-- ENTITY rememberAfter.label "ദിവസങ്ങള്‍ " -->
-<!ENTITY rememberForms.label "തെരച്ചില്‍ പട്ടയിലും ഫോറങ്ങളിലും ഞാന്‍ എന്ത്‌ എന്റര്‍ ചെയ്യുന്നുവെന്നത്‌ ഓര്‍ത്തിരിക്കുക">
-<!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "ഞാന്‍ ഡൌണ്‍ലോഡ്‌ ചെയ്‌തത്‌ എന്തൊക്കെയെന്ന് ഓര്‍ത്തിരിക്കുക">
-<!ENTITY rememberDownloads.accesskey "d">
-<!ENTITY cookies.label "കുക്കികള്‍">
+<!-- ENTITY rememberForms.label "തെരച്ചില്‍ പട്ടയിലും ഫോറങ്ങളിലും ഞാന്‍ എന്ത്‌ എന്റര്‍ ചെയ്യുന്നുവെന്നത്‌ ഓര്‍ത്തിരിക്കുക" -->
+<!-- ENTITY rememberForms.accesskey "f" -->
+<!-- ENTITY rememberDownloads.label "ഞാന്‍ ഡൌണ്‍ലോഡ്‌ ചെയ്‌തത്‌ എന്തൊക്കെയെന്ന് ഓര്‍ത്തിരിക്കുക" -->
+<!-- ENTITY rememberDownloads.accesskey "d" -->
+<!-- ENTITY cookies.label "കുക്കികള്‍" -->
 <!ENTITY acceptCookies.label "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY keepUntil.label "എപ്പോള്‍ വരെ വെയ്ക്കേണം ">
@@ -18,13 +18,13 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "കുക്കികള്‍ കാണിക്കുക ">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY privateData.label "സ്വകാര്യ ഡാറ്റാ">
-<!ENTITY alwaysClear.label "&brandShortName; ജാലകം അടയ്ക്കുമ്പോള്‍ എന്റെ സ്വകാര്യ ഡാറ്റകള്‍ മായിക്കുക ">
-<!ENTITY alwaysClear.accesskey "w">
-<!ENTITY askBeforeClear.label "സ്വകാര്യ വിവരങ്ങള്‍ മായ്ക്കുന്നതിന്‌ മുന്‍പ്‌ ചോദിക്കുക">
-<!ENTITY askBeforeClear.accesskey "A">
-<!ENTITY clearDataSettings.label "ക്രമീകരണങ്ങള്‍ ">
-<!ENTITY clearDataSettings.accesskey "t">
-<!ENTITY clearDataNow.label "ഇപ്പോള്‍ മായിക്കുക">
-<!ENTITY clearDataNow.label2 "ഇപ്പോള്‍ മായിക്കുക">
-<!ENTITY clearDataNow.accesskey "N">
+<!-- ENTITY privateData.label "സ്വകാര്യ ഡാറ്റാ" -->
+<!-- ENTITY alwaysClear.label "&brandShortName; ജാലകം അടയ്ക്കുമ്പോള്‍ എന്റെ സ്വകാര്യ ഡാറ്റകള്‍ മായിക്കുക " -->
+<!-- ENTITY alwaysClear.accesskey "w" -->
+<!-- ENTITY askBeforeClear.label "സ്വകാര്യ വിവരങ്ങള്‍ മായ്ക്കുന്നതിന്‌ മുന്‍പ്‌ ചോദിക്കുക" -->
+<!-- ENTITY askBeforeClear.accesskey "A" -->
+<!-- ENTITY clearDataSettings.label "ക്രമീകരണങ്ങള്‍ " -->
+<!-- ENTITY clearDataSettings.accesskey "t" -->
+<!-- ENTITY clearDataNow.label "ഇപ്പോള്‍ മായിക്കുക" -->
+<!-- ENTITY clearDataNow.label2 "ഇപ്പോള്‍ മായിക്കുക" -->
+<!-- ENTITY clearDataNow.accesskey "N" -->
