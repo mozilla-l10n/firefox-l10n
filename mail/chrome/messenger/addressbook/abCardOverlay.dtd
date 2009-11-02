@@ -120,7 +120,7 @@ van dit contact wordt opgehaald.">
 <!ENTITY Year.emptytext                 "Jaar">
 <!ENTITY Or.value                       "of">
 <!ENTITY Age.emptytext                  "Leeftijd">
-<!ENTITY YearsOld.label                 "">
+<!ENTITY YearsOld.label                 "jaar">
 
 <!ENTITY Work.tab                       "Werk">
 <!ENTITY Work.accesskey                 "W">
