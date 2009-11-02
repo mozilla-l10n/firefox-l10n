@@ -32,7 +32,7 @@
 <!ENTITY cookieAllowPopupsCmd.label                  "Pop-ups von dieser Website erlauben">
 <!ENTITY cookieAllowPopupsCmd.accesskey              "P">
 <!ENTITY cookieManagePopups.label                    "Pop-ups verwalten">
-<!ENTITY cookieManagePopups.accesskey                "P">
+<!ENTITY cookieManagePopups.accesskey                "o">
 
 <!ENTITY cookieCookieManager.label "Cookie-Manager">
 <!ENTITY cookieCookieManager.accesskey "C">
