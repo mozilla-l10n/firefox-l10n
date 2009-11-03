@@ -73,7 +73,7 @@
 <!ENTITY hdrForwardButton.tooltip     "Przekaż tę wiadomość">
 <!ENTITY hdrJunkButton.label          "niechciana">
 <!ENTITY hdrJunkButton.tooltip        "Oznacz wiadomość jako niechcianą">
-<!ENTITY hdrTrashButton.label         "Usuń">
+<!ENTITY hdrTrashButton.label         "usuń">
 <!ENTITY hdrTrashButton.tooltip       "Usuń tę wiadomość">
 <!ENTITY otherActionsButton.label     "inne">
 
