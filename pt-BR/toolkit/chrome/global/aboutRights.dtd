@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Quaisquer políticas de privacidade aplicáveis a este produto devem ser listadas aqui.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "O &brandShortName; também oferece serviços opcionais de informações de sites, tais como o SafeBrowsing; no entanto, não podemos garantir que são 100&#037; precisos ou livres de erro. Mais informações, incluindo sobre como desativar os serviços, podem ser encontradas nos ">
+<!ENTITY rights.intro-point4a "O &brandShortName; também oferece serviços opcionais de informações de sites, tais como o SafeBrowsing; no entanto, não podemos garantir que sejam 100&#037; precisos ou livres de erro. Mais informações, incluindo sobre como desativar os serviços, podem ser encontradas nos ">
 <!ENTITY rights.intro-point4b "termos de serviço">
 <!ENTITY rights.intro-point4c ".">
 
@@ -47,7 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "O &brandFullName; usa serviços de informações de sites (“Serviços”), tais como o serviço SafeBrowsing, que estão disponíveis para seu uso com esta versão binária do &brandShortName;, como descrito abaixo. Se você não quiser usar os Serviços ou não aceitar os termos a seguir, você pode desativar o serviço SafeBrowsing: abra as preferências do aplicativo, selecione o painel ">
 <!ENTITY rights.webservices-b "Segurança">
-<!ENTITY rights.webservices-c "e desmarque os itens “&blockAttackSites.label;” e “&blockWebForgeries.label;”.">
+<!ENTITY rights.webservices-c " e desmarque os itens “&blockAttackSites.label;” e “&blockWebForgeries.label;”.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar, se aplicável, devem ser colocados aqui.">
