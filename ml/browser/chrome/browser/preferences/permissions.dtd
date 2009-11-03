@@ -8,6 +8,7 @@
 <!ENTITY removeallpermissions.label "എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label "വെബ്‌ സൈറ്റിന്റെ വിലാസം ">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label "തടയുക ">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "ഈ സെഷന്‌ അനുവദിക്കുക">

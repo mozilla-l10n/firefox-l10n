@@ -1,45 +1,47 @@
-
 <!ENTITY addons.title "ആഡ്‌-ഓണുകള്‍">
 <!ENTITY em.width "520">
 <!ENTITY em.height "380">
 <!ENTITY cmd.info.commandKey "i">
 <!ENTITY cmd.options.commandKey ",">
 <!ENTITY cmd.close.commandKey "w">
+
+<!ENTITY search.label                     "ആഡ്‌-ഓണുകള്‍ ലഭ്യമാക്കുക">
 <!ENTITY extensions.label "എക്സ്റ്റെന്‍ഷനുകള്‍">
-<!ENTITY themes.label "തീമുകള്‍ ">
+<!ENTITY themes.label "പ്രമേയങ്ങള്‍">
 <!ENTITY locales.label "ഭാഷകള്‍ ">
 <!ENTITY plugins.label "പ്ലഗ്ഗിനുകള്‍">
-<!ENTITY update.label "അപ്പ്‌ഡേറ്റുകള്‍">
-<!ENTITY install.label "ഇന്‍സ്റ്റാള്ളേഷന്‍ ">
-<!ENTITY cmd.checkUpdatesAll.label "അപ്പ്‌ഡേറ്റുകള്‍ കണ്ടെത്തുക">
+<!ENTITY update.label "പരിഷ്കരണങ്ങള്‍">
+<!ENTITY install.label "ഇന്‍സ്റ്റലേഷന്‍ ">
+<!ENTITY cmd.checkUpdatesAll.label "പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക">
 <!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "തങ്കളുടെ ആഡ്‌-ഓണുകളുടെ അപ്പ്‌ഡേറ്റുകള്‍ കണ്ടെത്തും">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "തങ്കളുടെ ആഡ്‌-ഓണുകളുടെ പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക">
 
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "നിങ്ങളുടെ ഥീമുകള്‍ക്കുള്ള പരിഷ്കാരങ്ങള്‍ ലഭ്യമാക്കുക">
 
-<!ENTITY cmd.installLocalFile.label "ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installLocalFile.label "ഇന്‍സ്റ്റോള്‍ ചെയ്യുക ">
 <!-- ENTITY cmd.installFile.accesskey "I" -->
-<!ENTITY cmd.installFileAddon.tooltip "ഒരു ആഡ്‌-ഓണ്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
-<!ENTITY cmd.installFileTheme.tooltip "ഒരു തീം ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
-<!-- ENTITY cmd.installUpdatesAll.label "അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക" -->
-<!-- ENTITY cmd.installUpdatesAll.accesskey "I" -->
-<!-- ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന അപ്പ്‌ഡേറ്റുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെടും " -->
+<!ENTITY cmd.installFileAddon.tooltip "ഒരു ആഡ്‌-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+<!ENTITY cmd.installFileTheme.tooltip "ഒരു തീം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക ">
+<!ENTITY cmd.installUpdatesAll.label "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+<!ENTITY cmd.installUpdatesAll.accesskey "I">
+<!ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും ">
 
-<!-- ENTITY cmd.restartApp.label "brandShortName;  വീണ്ടും ആരംഭിക്കുക (&);" -->
+<!-- ENTITY cmd.restartApp.label "&brandShortName;  വീണ്ടും ആരംഭിക്കുക ;" -->
 
 <!-- ENTITY cmd.restartApp.accesskey "R" -->
 
-<!-- ENTITY cmd.restartApp.tooltip "ഇന്‍സ്റ്റലേഷന്‍ പൂറ്‍ത്തിയാക്കുന്നതിനായി brandShortName;  വീണ്ടും ആരംഭിക്കുക (&b)" -->
+<!-- ENTITY cmd.restartApp.tooltip "ഇന്‍സ്റ്റലേഷന്‍ പൂര്‍ത്തിയാക്കുന്നതിനായി &brandShortName;  വീണ്ടും ആരംഭിക്കുക " -->
 <!ENTITY cmd.skip.label "ഉപേക്ഷിക്കുക">
 
-<!ENTITY cmd.skip.accesskey "S">
+<!ENTITY cmd.skip.accesskey "k">
 
 <!ENTITY cmd.skip.tooltip "ഈ പരിഷ്കാരങ്ങള്‍ ഉപേക്ഷിക്കുക">
 
 <!ENTITY cmd.continue.label "തുടരുക">
 <!ENTITY cmd.continue.accesskey "C">
 
-<!ENTITY cmd.continue.tooltip "&brandShortName;  ലഭ്യമാക്കുന്നത് തുടരുക (&b)">
+<!ENTITY cmd.continue.tooltip "&brandShortName;  ലഭ്യമാക്കുന്നതു് തുടരുക">
 
 <!ENTITY cmd.enableAll.label "എല്ലാം സജ്ജമാക്കുക">
 <!ENTITY cmd.enableAll.accesskey "a">
@@ -52,7 +54,7 @@
 
 <!ENTITY cmd.useTheme.accesskey "T">
 
-<!ENTITY cmd.useTheme.tooltip "&brandShortName; -ന്റെ ഥീം മാറ്റുന്നു (&b)">
+<!ENTITY cmd.useTheme.tooltip "&brandShortName; -ന്റെ ഥീം മാറ്റുന്നു ">
 <!ENTITY cmd.options.label "ഉപാധികള്‍">
 
 <!ENTITY cmd.options.accesskey "O">
@@ -64,65 +66,146 @@
 <!ENTITY cmd.optionsUnix.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന എക്സ്റ്റെന്‍ഷന്റെ മുന്‍ഗണനകള്‍ ചിട്ടപ്പെടുത്തുക">
 <!ENTITY cmd.enable.label "സജ്ജമാക്കുക ">
 <!ENTITY cmd.enable.accesskey "E">
-<!ENTITY cmd.enable.tooltip "&brandShortName റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ ഈ ആഡ്‌-ഓണ്‍നെ സജ്ജമാക്കുക ">
+<!ENTITY cmd.enable.tooltip "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍ ഈ ആഡ്‌-ഓണ്‍നെ സജ്ജമാക്കുക ">
 <!ENTITY cmd.disable.label "നിര്‍വീര്യമാക്കുക">
 <!ENTITY cmd.disable.accesskey "D">
 
-<!ENTITY cmd.disable.tooltip "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍ ആഡ്-ഓണ്‍ നിറ്‍ജ്ജീവമാക്കുക(&b)">
+<!ENTITY cmd.disable.tooltip "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍ ആഡ്-ഓണ്‍ നിര്‍ജ്ജീവമാക്കുക">
 
-<!ENTITY cmd.uninstall.label "അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
+<!ENTITY cmd.uninstall.label "അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY cmd.uninstall2.accesskey "U">
-<!ENTITY cmd.uninstall2.tooltip "&brandShortName; റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ ഈ ആഡ്‌ഓണ്‍ അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
-<!ENTITY cmd.cancelUninstall.label "അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നത്‌ റദ്ദുചെയ്യുക">
+<!ENTITY cmd.uninstall2.tooltip "&brandShortName; റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുമ്പോള്‍ ഈ ആഡ്‌ഓണ്‍ അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുക ">
+<!ENTITY cmd.cancelUninstall.label "അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതു് റദ്ദാക്കുക">
 <!ENTITY cmd.cancelUninstall.accesskey "C">
-<!ENTITY cmd.cancelUninstall.tooltip "ഈ ആഡ്‌-ഓണ്‍ അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നത്‌ റദ്ദുചെയ്യുക">
-<!ENTITY cmd.installUpdate.label "അപ്പ്‌ഡേറ്റ്‌ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക">
+<!ENTITY cmd.cancelUninstall.tooltip "ഈ ആഡ്‌-ഓണ്‍ അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതു് റദ്ദാക്കുക">
+
+
+<!ENTITY cmd.cancelInstall.label          "ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതു് റദ്ദാക്കുക">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.label          "പരിഷ്കാരം റദ്ദാക്കുക">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+
+<!ENTITY cmd.cancelInstall.tooltip        "ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതു് റദ്ദാക്കുക">
+
+<!ENTITY cmd.cancelUpgrade.tooltip        "ഈ ആഡ്-ഓണ്‍ പരിഷ്കരിക്കുന്നതു് റദ്ദാക്കുക">
+
+
+<!ENTITY cmd.installUpdate.label "പരിഷ്കരണം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "ഈ ആഡ്‌-ഓണിന്റെ ഒരു അപ്പ്‌ഡേറ്റ്‌ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക ">
+<!ENTITY cmd.installUpdate.tooltip "ഈ ആഡ്‌-ഓണിന്റെ ഒരു പരിഷ്കരണം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക ">
+<!ENTITY cmd.showUpdateInfo.label         "വിവരങ്ങള്‍ കാണിക്കുക">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "ഈ പരിഷ്കരണങ്ങള്‍ സംബന്ധിച്ചുള്ള കൂടുതല്‍ വിവരങ്ങള്‍ കാണിക്കുക">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; വീണ്ടും ആരംഭിക്കുക">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "മാറ്റങ്ങള്‍ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നതിനായി &brandShortName; വീണ്ടും ആരംഭിക്കുക">
+<!ENTITY cmd.hideUpdateInfo.label         "വിവരങ്ങള്‍ അദൃശ്യമാക്കുക">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "ഈ പരിഷ്കരണങ്ങള്‍ സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ അദൃശ്യമാക്കുക ">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName;-ലേക്കു് ചേര്‍ക്കുക…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+
+
+<!ENTITY cmd.installSearchResult.tooltip   "ഈ ആഡ്-ഓണ്‍ ഡൌണ്‍ലോട് ചെയ്തു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY cancel.label "റദ്ദാക്കുക">
 <!ENTITY cancel.accesskey "C">
-<!ENTITY cmd.homepage.label "പ്രധാന പേജ്‌ സന്ദര്‍ശിക്കുക">
+<!ENTITY cancelInstall.label              "റദ്ദാക്കുക">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "റദ്ദാക്കുക">
+<!ENTITY cancelUpgrade.accesskey          "C">
+<!ENTITY cmd.homepage.label "പ്രധാന താള്‍ സന്ദര്‍ശിക്കുക">
 <!ENTITY cmd.homepage.accesskey "H">
-<!ENTITY cmd.about2.label "ഈ ആഡ്‌-ഓണിനെക്കുറിച്ച്‌ ">
+<!ENTITY cmd.about2.label "ഈ ആഡ്‌-ഓണിനെക്കുറിച്ചു്">
 <!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "അപ്പ്‌ഡേറ്റ്‌ കണ്ടെത്തുക">
+<!ENTITY cmd.checkUpdate.label "പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക">
 <!ENTITY cmd.checkUpdate.accesskey "F">
-<!ENTITY cmd.includeUpdate.label "അപ്പ്‌ഡേറ്റ്‌ ഉള്‍പ്പെടുത്തുക">
+<!ENTITY cmd.includeUpdate.label "പരിഷ്കരണങ്ങള്‍ ഉള്‍പ്പെടുത്തുക">
 <!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "ഈ അപ്പ്‌ഡേറ്റും ഉള്‍പ്പെടുത്തുക ">
+<!ENTITY includeUpdate.label "ഈ പരിഷ്കരണവും ഉള്‍പ്പെടുത്തുക ">
 <!ENTITY includeUpdate.accesskey "n">
 
-<!ENTITY includeUpdate.tooltip "അപ്പ്‌ഡേറ്റ് ഇന്‍സ്റ്റാള്‍ ചെയ്യുമ്പോള്‍ ഈ ആഡ്‌-ഓണ്‍ ചേര്‍ക്കുക">
-<!ENTITY needsDependencies.label "കൂടുതല്‍ വസ്തുക്കള്‍ ആവശ്യമുണ്ട്.">
+<!ENTITY includeUpdate.tooltip "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുമ്പോള്‍ ഈ ആഡ്‌-ഓണ്‍ ചേര്‍ക്കുക">
+<!ENTITY insecureUpdate.label             "സുരക്ഷിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമാക്കുന്നില്ല.">
+<!ENTITY needsDependencies.label "കൂടുതല്‍ വസ്തുക്കള്‍ ആവശ്യമുണ്ടു്.">
 
 <!ENTITY blocklisted.label "തങ്കളുടെ സുരക്ഷക്കായി നിര്‍വീര്യമാക്കിയിരിക്കുന്നു ">
+<!ENTITY emptySearch.label                "ചേരുന്ന ആഡ്-ഓണുകള്‍ ലഭ്യമല്ല">
+<!ENTITY emptySearch.button               "ശരി">
 
-<!ENTITY toBeDisabled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ നിറ്‍ജ്ജീവമാകുന്നു (&b).">
-<!ENTITY toBeEnabled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ സജീവമാകുന്നു (&b).">
-<!ENTITY toBeInstalled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു (&b).">
-<!ENTITY toBeUninstalled.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ എടുത്തു കളയുന്നു (&b).">
-<!-- ENTITY toBeUpgraded.label "brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍  പുതുക്കുന്നു (&b)." -->
+
+<!ENTITY toBeDisabled.label "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ നിര്‍ജ്ജീവമാകുന്നു .">
+<!ENTITY toBeEnabled.label "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ സജീവമാകുന്നു .">
+<!ENTITY toBeInstalled.label "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു .">
+<!ENTITY toBeUninstalled.label "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍ എടുത്തു കളയുന്നു .">
+<!-- ENTITY toBeUpgraded.label "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍  ഈ ആഡ്-ഓണ്‍  പുതുക്കുന്നു ." -->
 
 <!ENTITY getExtensions.label "എക്സ്റ്റന്‍ഷനുകള്‍ ലഭ്യമാക്കുക">
 <!-- ENTITY getExtensions.tooltip "addons.mozilla.org-ല്‍ നിന്നും എക്സ്റ്റന്‍ഷനുകള്‍ ലഭ്യമാക്കുക " -->
+<!ENTITY softBlocklisted.label            "സുരക്ഷയ്ക്കു് തടസ്സമുണ്ടാക്കുന്നു.">
+<!ENTITY toBeUpdated.label                "&brandShortName; വീണ്ടും ആരംഭിക്കുമ്പോള്‍ ഈ ആഡ്-ഓണ്‍ പരിഷ്കരിക്കപ്പെടുന്നു.">
 
 <!ENTITY getThemes.label "ഥീമുകള്‍ ലഭ്യമാക്കുക">
+<!ENTITY getPlugins.label                 "പ്ലഗ്ഗിനുകള്‍ ലഭ്യമാക്കുക">
+<!ENTITY searchFailed.button              "ശരി">
+<!ENTITY searchAddons.label               "എല്ലാ ആഡ്-ഓണുകളും തെരയുക">
+
+<!ENTITY resetSearch.label                "ഫലങ്ങള്‍ വെടിപ്പാക്കുക">
+<!ENTITY searchFailed.label               "&brandShortName;-നു്  ആഡ്-ഓണുകള്‍ ലഭ്യമാക്കുവാന്‍ സാധ്യമല്ല">
+<!ENTITY recommendedHeader.label          "നിര്‍ദ്ദേശിച്ചിരിക്കുന്നവ">
+<!ENTITY recommendedThrobber.label        "നിര്‍ദ്ദേശിച്ചിരിക്കുന്ന ആഡ്-ഓണുകള്‍ ലഭ്യമാക്കുന്നു">
+<!ENTITY searchThrobber.label             "ആഡ്-ഓണുകള്‍ക്കായി തെരയുക">
+
 <!-- ENTITY getThemes.tooltip "addons.mozilla.org-ല്‍ നിന്നും ഥീമുകള്‍ ലഭ്യമാക്കുക" -->
+<!ENTITY cancelSearch.button              "റദ്ദാക്കുക">
 
-<!ENTITY previewNoThemeSelected.label "തീം തെരഞ്ഞെടുത്തിട്ടില്ല ">
+<!ENTITY browseAddons.label               "എല്ലാ ആഡ്-ഓണുകളും തെരയുക">
 
-<!ENTITY previewNoPreviewImage.label "ഈ ഫീം സജ്ജമാക്കുന്നതിന് മുമ്പ് സ്ക്രീനില്‍ കാണുവാന്‍ സാധ്യമല്ല">
+<!ENTITY addonTypeExtension.label         "എക്സ്റ്റെന്‍ഷന്‍">
+<!ENTITY addonTypeTheme.label             "ഥീം">
+<!ENTITY missingThumbnail.label           "തിരനോട്ടം ലഭ്യമല്ല">
+
+<!ENTITY noSearchResults.label            "എല്ലാ ഫലങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്നു അല്ലെങ്കില്‍ പൊരുത്തപ്പെടുന്നില്ല.">
+<!ENTITY noRecommendedResults.label       " നിര്‍ദ്ദേശിച്ചിരിക്കുന്നതു് എല്ലാം ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്നു അല്ലെങ്കില്‍ പൊരുത്തപ്പെടുന്നില്ല.">
+
+<!ENTITY searchResultHomepage.value       "കൂടുതല്‍ അറിയുക">
+<!ENTITY searchBox.label                  "എല്ലാ ആഡ്-ഓണുകള്‍ക്കായും തെരയുക">
+<!ENTITY recommendedResults.label         "ഉത്തമമായ ആഡ്-ഓണുകള്‍ എല്ലാം കാണുക">
+<!ENTITY searchResultConnecting.label     "കണക്ട് ചെയ്യുന്നു…">
+<!ENTITY searchResultInstalling.label     "ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു…">
+<!ENTITY searchResultFailed.label         "ഇന്‍സ്റ്റലേഷന്‍ പരാജയപ്പെട്ടു">
+<!ENTITY searchResultInstalled.label      "ഇന്‍സ്റ്റലേഷന്‍ പൂര്‍ത്തിയായി">
+
+<!ENTITY previewNoThemeSelected.label "ഥീം തെരഞ്ഞെടുത്തിട്ടില്ല ">
+
+<!ENTITY previewNoPreviewImage.label "ഈ ഥീം സജ്ജമാക്കുന്നതിന് മുമ്പ് സ്ക്രീനില്‍ കാണുവാന്‍ സാധ്യമല്ല">
 <!ENTITY moreInfo.label "കൂടുതല്‍ വിവരങ്ങള്‍">
 
-<!-- ENTITY closeMessage.tooltip "ഈ സന്ദേശം അടയ്ക്കുക"  -->
+<!ENTITY infoNoAddonSelected.label        "പരിഷ്കരണങ്ങള്‍ ഒന്നും തെരഞ്ഞെടുത്തിട്ടില്ല">
+<!ENTITY infoNoUpdateInfo.label           "ഈ പരിഷ്കരണം സംബന്ധിച്ചുള്ള കൂടുതല്‍ വിവരങ്ങള്‍ ലഭ്യമല്ല">
+<!ENTITY infoUpdateInfoError.label        "ഈ പരിഷ്കരണം സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ലഭ്യമാക്കുന്നതില്‍ പിശക്">
 
-<!ENTITY updateSuccess.label "വിജയകരമായി പരിഷ്കാരം പൂറ്‍ത്തിയാക്കിയിരിക്കുന്നു.">
 
-<!ENTITY installSuccess.label "ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നത്‌ വിജയകരമായി പൂര്‍ത്തിയാക്കിയിരിക്കുന്നു ">
+<!-- ENTITY closeMessage.tooltip "ഈ സന്ദേശം അടയ്ക്കുക" -->
 
-<!ENTITY installSuccessRestart.label "ഇന്‍സ്റ്റലേഷന്‍ പൂറ്‍ത്തിയാക്കുന്നതിനായി വീണ്ടും ആരംഭിക്കുക.">
+<!ENTITY updateSuccess.label "വിജയകരമായി പരിഷ്കാരം പൂര്‍ത്തിയാക്കിയിരിക്കുന്നു.">
+
+<!ENTITY installSuccess.label "ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നത്‌ വിജയകരമായി പൂര്‍ത്തിയാക്കിയിരിക്കുന്നു ">
+
+<!ENTITY installSuccessRestart.label "ഇന്‍സ്റ്റലേഷന്‍ പൂര്‍ത്തിയാക്കുന്നതിനായി വീണ്ടും ആരംഭിക്കുക.">
+<!ENTITY updateSuccessRestart.label       "പരിഷ്കരണം പൂര്‍ണ്ണമാക്കുന്നതിനായി വീണ്ടും ആരംഭിക്കുക.">
 <!ENTITY installWaiting.label "കാത്തിരിക്കുന്നു...">
 <!ENTITY installIncompatibleUpdate.label "കോംപാറ്റിബിളിറ്റി പരിശോധിക്കുന്നു...">
 
 <!ENTITY installFinishing.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തുകൊണ്ടിരിക്കുന്നു">
-<!ENTITY installFailure.label "ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നത്‌ പരാജയപ്പെട്ടിരിക്കുന്നു ">
+<!ENTITY installFailure.label "ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതു് പരാജയപ്പെട്ടിരിക്കുന്നു ">
+
+<!ENTITY progressStatus.label             "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുന്നു">
+
+<!ENTITY eula.title                       "ഉപയോക്താവിനുള്ള ലൈസന്‍സ് എഗ്രീമെന്റ്">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "സ്വീകരിച്ചു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുക…">
+
+
+<!ENTITY blocklist.blocked.label          "തടസ്സപ്പെടുത്തിയിരിക്കുന്നു">
+<!ENTITY blocklist.checkbox.label         "പ്രവര്‍ത്തന രഹിതമാക്കുക">
