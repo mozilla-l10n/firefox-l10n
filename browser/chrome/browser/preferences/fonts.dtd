@@ -5,13 +5,15 @@
 <!ENTITY language.label "ഇതിനായ്‌ ഉള്ള ഫോണ്ടുകള്‍ ">
 <!ENTITY language.accesskey "F">
 <!ENTITY size.label "വലിപ്പം :">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 <!-- ENTITY size.accesskey1 "z" -->
 <!-- ENTITY size.accesskey2 "e" -->
-<!ENTITY proportional.label "ആനുപാദികം:">
+<!ENTITY proportional.label "ആനുപാതികം:">
 <!ENTITY proportional.accesskey "P">
-<!ENTITY serif.label "Serif:">
+<!ENTITY serif.label "സെറിഫ്:">
 <!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.label "സാന്‍സ്-സെറിഫ്:">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "മോണോസ്പേസ്‌: ">
 <!ENTITY monospace.accesskey "M">
@@ -23,9 +25,9 @@
 <!ENTITY font.langGroup.latin1 "വെസ്റ്റേണ്‍ ">
 <!ENTITY font.langGroup.latin2 "സെന്ററല്‍ യൂറോപ്പിയന്‍ ">
 <!ENTITY font.langGroup.japanese "ജാപ്പനീസ്‌">
-<!ENTITY font.langGroup.trad-chinese "ട്രഡിഷ്ണല്‍ ചൈനീസ്‌ (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "സിംബ്ലിഫൈഡ്‌ ചൈനീസ്‌ ">
-<!ENTITY font.langGroup.trad-chinese-hk "ട്രഡിഷ്ണല്‍ ചൈനീസ്‌ (Hong Kong)">
+<!ENTITY font.langGroup.trad-chinese "സമ്പ്രദായ ചൈനീസ്‌ (തായ്‌വാന്‍)">
+<!ENTITY font.langGroup.simpl-chinese "ലളിതമായ ചൈനീസ്‌ ">
+<!ENTITY font.langGroup.trad-chinese-hk "സമ്പ്രദായ ചൈനീസ്‌ (ഹോങ് കോങ്)">
 <!ENTITY font.langGroup.korean "കൊറിയന്‍ ">
 <!ENTITY font.langGroup.cyrillic "സിറില്ലിക്ക്‌ ">
 <!ENTITY font.langGroup.baltic "ബാള്‍ട്ടിക്ക്‌ ">
@@ -47,13 +49,17 @@
 <!ENTITY font.langGroup.gurmukhi "ഗുര്‍മുഖി">
 <!ENTITY font.langGroup.khmer "ഖെമെര്‍ ">
 <!ENTITY font.langGroup.malayalam "മലയാളം ">
+<!ENTITY  font.langGroup.oriya                    "ഒറിയാ">
+<!ENTITY  font.langGroup.telugu                   "തെലുങ്കു">
+<!ENTITY  font.langGroup.kannada                  "കന്നഡാ">
+<!ENTITY  font.langGroup.sinhala                  "സിന്‍ഹാലാ">
 <!ENTITY minSize.label "ചുരുങ്ങിയ ഫോണ്ട്‌ വലിപ്പം ">
 <!ENTITY minSize.accesskey "o">
 <!ENTITY minSize.none "None">
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY allowPagesToUse.label "എന്റെ താല്‍പര്യത്തിനു പകരം, പേജുകള്‍ തന്നെ ഫോണ്ടുകള്‍ തെരഞ്ഞെടുക്കുവാന്‍ അനുവദിക്കുക. ">
+<!ENTITY useDefaultFontSerif.label "സെറിഫ്">
+<!ENTITY useDefaultFontSansSerif.label "സാന്‍സ് സെറിഫ്">
+<!ENTITY allowPagesToUse.label "എന്റെ താല്‍പര്യത്തിനു പകരം, താളുകള്‍ സ്വയം ഫോണ്ടുകള്‍ തെരഞ്ഞെടുക്കുവാന്‍ അനുവദിക്കുക. ">
 <!ENTITY allowPagesToUse.accesskey "A">
 <!ENTITY languages.customize.Charset.grouplabel "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
-<!ENTITY languages.customize.DefaultCharset.label "ഡിഫോള്‍ട്ട്‌ ക്യാരക്‌ടര്‍ എന്‍കോഡിംഗ്‌:">
+<!ENTITY languages.customize.DefaultCharset.label "സ്വതവേയുള്ള ക്യാരക്‌ടര്‍ എന്‍കോഡിംഗ്‌:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">

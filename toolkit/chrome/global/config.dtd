@@ -35,27 +35,37 @@
    - the terms of any one of the NPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!ENTITY aboutWarningTitle.label "ഇതു് നിങ്ങളുടെ വാറന്റി നഷ്ടപ്പെടുത്തുന്നു!">
+<!ENTITY aboutWarningText.label "അധികമായ ആ ക്രമികരണങ്ങളില്‍ മാറ്റം വരുത്തുന്നതു് ഈ പ്രയോഗത്തിന്റെ സുരക്ഷയേയും പ്രവര്‍ത്തനത്തേയും ബാധിക്കുന്നു. നിങ്ങള്‍ ചെയ്യുന്ന കാര്യങ്ങളെപ്പറ്റി ഉറപ്പുണ്ടെങ്കില്‍ മാത്രം തുടരുക.">
+<!ENTITY aboutWarningButton.label "ഞാന്‍ സൂക്ഷിച്ചുകൊള്ളാം!">
+<!ENTITY aboutWarningCheckbox.label "ഈ മുന്നറിയിപ്പു് അടുത്ത തവണ കാണിക്കുക">
 <!ENTITY window.title "കോണ്‍ഫിഗിനെ കുറിച്ച്‌">
 
-<!ENTITY filterPrefs.label "ഫില്‍റ്ററ്‍:">
+<!ENTITY filterPrefs.label "ഫില്‍റ്റര്‍:">
 
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 <!-- ENTITY showAll.label "എല്ലാം കാണിക്കുക" -->
 <!-- ENTITY showAll.accesskey "W" -->
+
+<!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "മുന്‍ഗണനയുടെ പേര്‌">
 <!ENTITY lockColumn.label "സ്ഥിതി ">
 
-<!ENTITY typeColumn.label "ഏത് തരം">
+<!ENTITY typeColumn.label "ഏതു് തരം">
 
-<!ENTITY valueColumn.label "വാല്യൂ">
+<!ENTITY valueColumn.label "മൂല്ല്യം">
 
-<!ENTITY prefColumnHeader.tooltip "ക്റമത്തിലാക്കുന്നതിനായി ക്ളിക്ക് ചെയ്യുക">
-<!ENTITY columnChooser.tooltip "പ്റദറ്‍ശനത്തിനുള്ള നിരകള്‍ക്കായി ക്ളിക്ക് ചെയ്യുക">
+<!ENTITY prefColumnHeader.tooltip "ക്രമത്തിലാക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക">
+<!ENTITY columnChooser.tooltip "പ്രദര്‍ശനത്തിനുള്ള നിരകള്‍ക്കായി ക്ലിക്ക് ചെയ്യുക">
 
+
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "പകര്‍ത്തുക">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "പേര്‌ പകര്‍ത്തുക">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 
-<!ENTITY copyValue.label "മൂല്ല്യം പകറ്‍ത്തുക">
+<!ENTITY copyValue.label "മൂല്ല്യം പകര്‍ത്തുക">
 
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "നവീകരിക്കുക ">
@@ -69,7 +79,7 @@
 
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "പുതിയത്‌">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 
 <!ENTITY string.label " സ്ട്രിങ്">
 

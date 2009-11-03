@@ -1,28 +1,40 @@
 
-<!ENTITY printSetup.title "പേജ്‌  ക്റമികരണം">
-<!ENTITY basic.tab "&amp; ഉപാധികള്‍ ക്റമികരിക്കുക">
-<!ENTITY formatGroup.label "ഫോറ്‍മാറ്റ് ചെയ്യുക">
+<!ENTITY printSetup.title "താള്‍ ക്രമീകരണം">
+<!ENTITY basic.tab "&amp; ഉപാധികള്‍ ക്രമീകരിക്കുക">
+<!ENTITY formatGroup.label "ഫോര്‍മാറ്റ് ചെയ്യുക">
 <!ENTITY orientation.label "ഒറിയന്റേഷന്‍:">
+<!ENTITY portrait.label      "ഫോട്ടോ രീതിയില്‍">
+<!ENTITY portrait.accesskey  "P">
 <!-- ENTITY portrait "ഫോട്ടോ രീതിയില്‍" -->
+<!ENTITY landscape.label     "ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍">
+<!ENTITY landscape.accesskey "L">
+
 <!-- ENTITY landscape "ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍" -->
 <!ENTITY scale.label "അളവ്:">
+<!ENTITY scale.accesskey     "S">
 
 <!ENTITY scalePercent "&#037;">
 
-<!ENTITY shrinkToFit.label "പേജിന്റെ വീതിയിലാക്കുന്നതിനായി ചെറുതാക്കുക">
+<!ENTITY shrinkToFit.label "താളിന്റെ വീതിയിലാക്കുന്നതിനായി ചെറുതാക്കുക">
+<!ENTITY shrinkToFit.accesskey "W">
 <!ENTITY optionsGroup.label "ഉപാധികള്‍">
-<!ENTITY printBG.label "പശ്ചാത്തലം പ്റിന്റ് ചെയ്യുക ( &amp; ദൃശ്യങ്ങള്‍ക്ക് നിറം കൊടുക്കുക)">
-<!ENTITY advanced.tab "മാറ്‍ജിനുകള്‍  &amp; തലക്കെട്ടുകള്‍/അടിക്കുറിപ്പുകള്‍">
-<!ENTITY marginGroup.label "മാറ്‍ജിനുകള്‍ (#1)">
+<!ENTITY printBG.label "പശ്ചാത്തലം പ്രിന്റ് ചെയ്യുക ( &amp; ദൃശ്യങ്ങള്‍ക്കു് നിറം കൊടുക്കുക)">
+<!ENTITY printBG.accesskey   "B">
+<!ENTITY advanced.tab "മാര്‍ജിനുകള്‍  &amp; തലക്കെട്ടുകള്‍/അടിക്കുറിപ്പുകള്‍">
+<!ENTITY marginGroup.label "മാര്‍ജിനുകള്‍ (#1)">
 
 <!ENTITY marginUnits.inches "ഇഞ്ചുകള്‍ ">
 
 <!ENTITY marginUnits.metric "മില്ലിമീറ്ററുകള്‍">
 <!ENTITY marginTop.label "മുകള്‍ഭാഗം:">
+<!ENTITY marginTop.accesskey "T">
 
 <!ENTITY marginBottom.label "അടിവശം">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label "ഇടത്‌">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label "വലത്‌">
+<!ENTITY marginRight.accesskey "R">
 <!ENTITY headerFooter.label "തലക്കെട്ടുകളും അടിക്കുറിപ്പുകളും">
 <!ENTITY hfLeft.label "ഇടത്‌">
 
@@ -43,9 +55,9 @@
 <!-- ENTITY hfURL.code "[&amp;U]" -->
 <!ENTITY hfDateAndTime "തിയതി / സമയം">
 <!-- ENTITY hfDateAndTime.code "&amp;D" -->
-<!ENTITY hfPage "പേജ്‌ #">
+<!ENTITY hfPage "താള്‍ #">
 <!-- ENTITY hfPage.code "[&amp;P]" -->
-<!ENTITY hfPageAndTotal "പേജ്‌ # ല്‍ #">
+<!ENTITY hfPageAndTotal "താള്‍ # ല്‍ #">
 <!-- ENTITY hfPageAndTotal.code "[&amp;PT]" -->
 
 <!ENTITY hfBlank "--ശൂന്യം--">

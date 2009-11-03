@@ -1,12 +1,12 @@
 <!ENTITY securityWarnings.title "സുരക്ഷാ മുന്നറിയിപ്പുകള്‍ ">
 <!ENTITY security.warn_when "ഇത്‌ സംഭവിക്കുമ്പോള്‍ ഒരു മുന്നറിയിപ്പ്‌ കാണിക്കുക ">
-<!ENTITY security.warn_entering_secure.label "ഞാന്‍ ഒരു എന്‍ക്രിപ്റ്റ്‌ ചെയ്ത പേജ്‌ കാണൂവാന്‍ പോവുന്നു ">
+<!ENTITY security.warn_entering_secure.label "ഞാന്‍ ഒരു എന്‍ക്രിപ്റ്റ്‌ ചെയ്ത താള്‍ കാണൂവാന്‍ പോവുന്നു ">
 <!ENTITY security.warn_entering_secure.accesskey "v">
-<!ENTITY security.warn_entering_weak.label "കുറഞ്ഞ ഗ്രേഡ്‌ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്ന ഒരു പേജ്‌ ഞാന്‍ കാണുവാന്‍ പോകുന്നു ">
+<!ENTITY security.warn_entering_weak.label "കുറഞ്ഞ ഗ്രേഡ്‌ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്ന ഒരു താള്‍ ഞാന്‍ കാണുവാന്‍ പോകുന്നു ">
 <!ENTITY security.warn_entering_weak.accesskey "g">
-<!ENTITY security.warn_leaving_secure.label "എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെടാത്ത ഒരു പേജിനായി എന്‍ക്രിപ്റ്റ്‌ ചെയ്‌ത പേജ്‌ വിടുമ്പോള്‍. ">
+<!ENTITY security.warn_leaving_secure.label "എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെടാത്ത ഒരു താളിനായി എന്‍ക്രിപ്റ്റ്‌ ചെയ്‌ത താള്‍ വിടുമ്പോള്‍. ">
 <!ENTITY security.warn_leaving_secure.accesskey "l">
 <!ENTITY security.warn_submit_insecure.label "എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെടാത്ത വിവരങ്ങള്‍ ഞാന്‍ നല്‍കുന്നു">
 <!ENTITY security.warn_submit_insecure.accesskey "s">
-<!ENTITY security.warn_viewing_mixed.label "ചില എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെടാത്ത വിവരങ്ങള്‍ അടങ്ങിയ ഒരു എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെട്ട പേജ്‌ ഞാന്‍ കാണുവാന്‍ പോകുന്നു. ">
+<!ENTITY security.warn_viewing_mixed.label "ചില എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെടാത്ത വിവരങ്ങള്‍ അടങ്ങിയ ഒരു എന്‍ക്രിപ്റ്റ്‌ ചെയ്യപ്പെട്ട താള്‍ ഞാന്‍ കാണുവാന്‍ പോകുന്നു. ">
 <!ENTITY security.warn_viewing_mixed.accesskey "u">

@@ -36,11 +36,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY print.label "അച്ചടിക്കുക ">
+<!ENTITY print.label "പ്രിന്റ് ചെയ്യുക ">
 <!ENTITY print.accesskey "P">
-<!ENTITY pageSetup.label "പേജ്‌ സെറ്റപ്പ്‌">
+<!ENTITY pageSetup.label "താള്‍ ക്രമീകരണം">
 <!ENTITY pageSetup.accesskey "u">
-<!ENTITY page.label "പേജ്‌ ">
+<!ENTITY page.label "താള്‍ ">
 <!ENTITY page.accesskey "a">
 <!ENTITY of.label "of">
 
@@ -53,7 +53,7 @@
 
 <!ENTITY portrait.accesskey "o">
 
-<!ENTITY landscape.label "ഭൂദൃശ്യത്തിന്റെ ആകൃതിയി">
+<!ENTITY landscape.label "ഭൂദൃശ്യത്തിന്റെ ആകൃതിയില്‍">
 
 <!ENTITY landscape.accesskey "L">
 <!ENTITY close.label "അടയ്ക്കുക ">
@@ -75,7 +75,7 @@
 <!ENTITY ShrinkToFit.label "സ്ക്രീനിന്റെ അളവിലാക്കുന്നതിനായി ചെറുതാക്കുക">
 <!ENTITY customPrompt.title "അളവ് ഇഷ്ടാനുസരണമാക്കുക...">
 
-<!ENTITY homearrow.tooltip "ആദ്യ പേജ്‌ ">
-<!ENTITY endarrow.tooltip "ഒടുവിലത്തെ പേജ്‌ ">
-<!ENTITY rightarrow.tooltip "അടുത്ത പേജ്‌ ">
-<!ENTITY leftarrow.tooltip "മുന്‍പത്തേ പേജ്‌ ">
+<!ENTITY homearrow.tooltip "ആദ്യ താള്‍ ">
+<!ENTITY endarrow.tooltip "ഒടുവിലത്തെ താള്‍ ">
+<!ENTITY rightarrow.tooltip "അടുത്ത താള്‍ ">
+<!ENTITY leftarrow.tooltip "മുന്‍പത്തേ താള്‍ ">

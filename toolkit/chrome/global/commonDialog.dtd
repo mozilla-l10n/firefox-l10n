@@ -2,7 +2,11 @@
 
 <!ENTITY message.label "ഉദാഹരണമായ ചില വാചകങ്ങള്‍ ഇവിടെ നല്‍കുക.">
 <!ENTITY editfield0.label "ഉപയോക്തൃ നാമം:">
-<!ENTITY editfield1.label "പാസ്‌വേറ്‍ഡ്">
-<!ENTITY editfield2.label "പാസ്‌വേറ്‍ഡ് തീര്‍ച്ചപ്പെടുത്തുക ">
-<!ENTITY checkbox.label "തിരഞ്ഞെടുക്കുക">
+<!ENTITY editfield1.label "പാസ്‌വേര്‍ഡ്">
+<!ENTITY editfield2.label "പാസ്‌വേര്‍ഡ് തീര്‍ച്ചപ്പെടുത്തുക ">
+<!ENTITY checkbox.label "തെരഞ്ഞെടുക്കുക">
+<!ENTITY copyCmd.label    "പകര്‍ത്തുക">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "എല്ലാം തെരഞ്ഞെടുക്കുക">
+<!ENTITY selectAllCmd.accesskey "A">
 
