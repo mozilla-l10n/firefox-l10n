@@ -22,7 +22,7 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "പുതിയ ജാലകത്തില്‍ തുറക്കുക ">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "ഈ ലിങ്ക്‌ അടയാളപ്പെടുത്തുക">
-<!ENTITY bookmarkLink.accesskey "B">
+<!-- ENTITY bookmarkLink.label "ഈ ലിങ്ക്‌ അടയാളപ്പെടുത്തുക" -->
+<!-- ENTITY bookmarkLink.accesskey "B" -->
 <!ENTITY copyLink.label "ലിങ്ക്ന്റെ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyLink.accesskey "C">

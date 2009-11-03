@@ -44,8 +44,8 @@
 <!ENTITY autoCheck.label "സ്വയം പരിഷ്കരണങ്ങള്‍ക്കായി തെരയുക:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌-ഓണുകള്‍ ">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!-- ENTITY enableAddonsUpdate.label "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആഡ്‌-ഓണുകള്‍ " -->
+<!-- ENTITY enableAddonsUpdate.accesskey "n" -->
 <!ENTITY enableSearchUpdate.label "തെരച്ചിലിനുള്ള പ്രയോഗങ്ങള്‍">
 <!ENTITY enableSearchUpdate.accesskey "h">
 <!ENTITY whenUpdatesFound.label "&brandShortName;-നുള്ള പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുമ്പോള്‍">
