@@ -11,7 +11,7 @@
 <!ENTITY  pluginupdateslink.label         "Veja como atualizar seus plugins.">
 
 <!ENTITY  noupdatesfound.title            "Nenhuma atualização encontrada">
-<!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; verificará periodicamente a disponibilidade de atualizações.">
+<!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; verificará periodicamente a disponibilidade de novas versões.">
 <!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor, verifique de novo mais tarde ou ative a verificação automática de atualizações do &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Não é possível atualizar">
