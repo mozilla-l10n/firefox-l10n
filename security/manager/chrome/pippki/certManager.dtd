@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "Sertifikāta nosaukums">
 <!ENTITY certmgr.certserver "Serveris">
-<!ENTITY certmgr.typesofoverrides "Izņēmumi">
 <!ENTITY certmgr.override_lifetime "Dzīves ilgums">
 <!ENTITY certmgr.tokenname "Drošības ierīce">
-<!ENTITY certmgr.purpose "Nolūki">
 <!ENTITY certmgr.issued "Izdots">
 <!ENTITY certmgr.expires "Derīgs līdz">
 <!ENTITY certmgr.email "E-pasta adrese">
