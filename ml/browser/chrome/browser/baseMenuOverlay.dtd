@@ -1,6 +1,6 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "ചെറുതാക്കുക">
-<!ENTITY bringAllToFront.label "എല്ലം മുന്‍പോട്ട്‌ കൊണ്ടുവരിക">
+<!ENTITY bringAllToFront.label "എല്ലം മുമ്പോട്ട് കൊണ്ടുവരിക">
 <!ENTITY zoomWindow.label "വലുതാക്കുക">
 <!ENTITY windowMenu.label "ജാലകം">
 <!ENTITY helpMenu.label "സഹായം">
@@ -15,6 +15,7 @@
 <!ENTITY helpForIEUsers.label "ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍ ഉപഭോക്താക്കള്‍ക്കായി">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY helpMac.commandkey       "?">
 <!-- ENTITY openHelpMac.commandkey "VK_HELP" -->
 <!-- ENTITY openHelpMac.modifiers            "accel,shift" -->
 <!-- ENTITY openHelpMac.frontendCommandkey   "?" -->
@@ -23,9 +24,13 @@
 <!-- ENTITY openHelpMac2.modifiers "അക്സെല്‍,shift" -->
 <!-- ENTITY openHelpMac2.frontendCommandkey "?" -->
 <!-- ENTITY openHelpMac2.frontendModifiers "അക്സെല്‍" -->
-<!ENTITY helpReleaseNotes.label "റിലീസ്‌ നോട്ടുകള്‍">
+<!ENTITY helpReleaseNotes.label "പ്രകാശനക്കുറിപ്പുകള്‍">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "അപ്പ്ഡേറ്റുകള്‍ക്കു വേണ്ടി ചെക്ക്‌ ചെയ്യുക ">
+<!ENTITY helpTroubleshooting.label      "ട്രബിള്‍ഷൂട്ടിങ് വിവരങ്ങള്‍…">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY updateCmd.label "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുക ">
+<!ENTITY productHelp.label        "&brandShortName; സഹായം">
+<!ENTITY productHelp.accesskey    "H">
 <!-- ENTITY updateCmd.accesskey "o" -->
 <!ENTITY preferencesCmdMac.label "മുന്‍ഗണനകള്‍...">
 <!ENTITY preferencesCmdMac.commandkey ",">
