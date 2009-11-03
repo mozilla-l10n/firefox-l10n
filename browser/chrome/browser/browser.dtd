@@ -263,6 +263,8 @@
 <!ENTITY reloadImageCmd.accesskey     "C">
 <!ENTITY viewImageCmd.label           "Exibir imagem">
 <!ENTITY viewImageCmd.accesskey       "x">
+<!ENTITY viewImageInfoCmd.label       "Propriedades da imagem">
+<!ENTITY viewImageInfoCmd.accesskey   "P">
 <!ENTITY viewVideoCmd.label           "Exibir vídeo">
 <!ENTITY viewVideoCmd.accesskey       "x">
 <!ENTITY viewBGImageCmd.label         "Exibir imagem de fundo">

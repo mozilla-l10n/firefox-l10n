@@ -34,7 +34,7 @@
 
 <!ENTITY generic.title "Epa">
 <!ENTITY generic.longDesc "
-<p>Por algum motivo o &brandShortName; não conseguiu carregar esta página.</p>
+<p>Algo impediu o &brandShortName; de carregar esta página.</p>
 ">
 
 <!ENTITY malformedURI.title "Endereço inválido">
