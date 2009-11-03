@@ -14,7 +14,7 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Você solicitou que o &brandShortName; conecte-se de forma segura a <b>#1</b>. Porém, não foi possível confirmar a segurança da sua conexão.">
 <!ENTITY certerror.introPara2 "Normalmente, quando você tenta conecta-se de forma segura,
-os sites apresentarão uma identificação confiável para provar que você está indo ao lugar certo.
+os sites apresentarão uma identificação confiável para comprovar que você está indo ao lugar certo.
 Entretanto, a identidade deste site não pôde ser atestada.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
