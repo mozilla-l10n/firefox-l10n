@@ -207,11 +207,11 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "പുറകോട്ടു്">
-<!ENTITY backCmd.accesskey   "B">
+<!-- ENTITY backCmd.accesskey   "B" -->
 <!ENTITY backButton.tooltip  "പുറകോട്ടു് പോകുക">
 
 <!ENTITY forwardCmd.label       "മുമ്പോട്ടു്">
-<!ENTITY forwardCmd.accesskey   "F">
+<!-- ENTITY forwardCmd.accesskey   "F" -->
 <!ENTITY forwardButton.tooltip  "മുമ്പോട്ടു് പോകുക">
 
 <!ENTITY detailsPane.more.label "കൂടുതല്‍">

@@ -4,7 +4,7 @@
 <!-- ENTITY viewsourcetitle.preface "എന്തിനുവേണ്ടിയുള്ള ഉറവിടം" -->
 <!-- ENTITY nothingAvailable.label "(ഒന്നും ലഭ്യമല്ല)" -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(സ്വകാര്യ ബ്രൌസിങ്)">
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!-- ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;" -->
 <!ENTITY tabCmd.label "പുതിയ റ്റാബ്‌ ">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -95,10 +95,10 @@
 <!ENTITY homeButton.label "ആസ്ഥാനം">
 <!ENTITY bookmarksButton.label "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksButton.tooltip "എന്റെ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
-<!ENTITY bookmarksSidebarCmd.accesskey "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!-- ENTITY bookmarksSidebarCmd.accesskey "B" -->
+<!-- ENTITY bookmarksSidebarCmd.commandkey "b" -->
+<!-- ENTITY bookmarksSidebarGtkCmd.commandkey "o" -->
+<!-- ENTITY bookmarksSidebarWinCmd.commandkey "i" -->
 <!ENTITY historyButton.label "ചരിത്രം">
 <!ENTITY historyButton.tooltip "അടുത്തിടെ സന്ദര്‍ശിച്ച താളുകള്‍ കാണിക്കുക">
 <!ENTITY historySidebarCmd.accesskey "s">
@@ -188,7 +188,7 @@
 <!-- ENTITY historyHomeCmd.accesskey "h" -->
 <!ENTITY showAllHistoryCmd2.label "ഇതുവരെയുള്ള ചരിത്രം കാണിക്കുക">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY urlbar.emptyText             "ചരിത്രവും അടയാളക്കുറിപ്പുകളും തെരയുക">
+<!-- ENTITY urlbar.emptyText             "ചരിത്രവും അടയാളക്കുറിപ്പുകളും തെരയുക" -->
 <!-- ENTITY historySearchCmd.label "ചരിത്രത്തില്‍ തെരയുക..." -->
 <!-- ENTITY historySearchCmd.accesskey "s" -->
 <!-- ENTITY historyShowCmd.label "എല്ലാ ചരിത്രവും കാണുക..." -->
@@ -294,8 +294,8 @@
 <!ENTITY copyAudioURLCmd.label        "ഓഡിയോ സ്ഥാനം പകര്‍ത്തുക">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label "ഗുണവിശേഷതകള്‍">
-<!ENTITY metadataCmd.accesskey "P">
+<!-- ENTITY metadataCmd.label "ഗുണവിശേഷതകള്‍" -->
+<!-- ENTITY metadataCmd.accesskey "P" -->
 <!ENTITY copyEmailCmd.label "ഇ-മെയില്‍ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "ഈ ഫ്രെയിം">
@@ -433,5 +433,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- ENTITY location.status.bookmarked "സ്റ്റാര്‍ (ഓണ്‍)" -->
 <!-- ENTITY location.status.bookmark.tooltip "ഈ താളിലേക്കു്‌ ഒരു അടയാളം ചേര്‍ക്കുക" -->
 <!ENTITY downloadMonitor2.tooltip "ഡൌണ്‍ലോടിനുള്ള ജാലകം തുറക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യു‌ക">
-<!ENTITY ctrlTab.search.emptyText "റ്റാബുകള്‍ തെരയുക">
+<!-- ENTITY ctrlTab.search.emptyText "റ്റാബുകള്‍ തെരയുക" -->
 

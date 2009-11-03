@@ -15,14 +15,14 @@
 <!-- ENTITY rememberBefore.accesskey "v" -->
 <!-- ENTITY rememberAfter.label "ദിവസങ്ങള്‍ " -->
 
-<!ENTITY  rememberDaysBefore.label      "നാള്‍വഴി കുറഞ്ഞതു് ഇത്രയും നാള്‍ സൂക്ഷിക്കുക">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "ദിവസങ്ങള്‍">
+<!-- ENTITY  rememberDaysBefore.label      "നാള്‍വഴി കുറഞ്ഞതു് ഇത്രയും നാള്‍ സൂക്ഷിക്കുക" -->
+<!-- ENTITY  rememberDaysBefore.accesskey  "h" -->
+<!-- ENTITY  rememberDaysAfter2.label      "ദിവസങ്ങള്‍" -->
 
-<!ENTITY rememberForms.label "തെരച്ചില്‍ പട്ടയിലും ഫോറങ്ങളിലും നല്‍കിയതു് ഓര്‍ത്തിരിക്കുക">
-<!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "ഡൌണ്‍ലോഡ്‌ ചെയ്‌തത്‌ എന്തെല്ലാമെന്നു് ഓര്‍ത്തിരിക്കുക">
-<!ENTITY rememberDownloads.accesskey "d">
+<!-- ENTITY rememberForms.label "തെരച്ചില്‍ പട്ടയിലും ഫോറങ്ങളിലും നല്‍കിയതു് ഓര്‍ത്തിരിക്കുക" -->
+<!-- ENTITY rememberForms.accesskey "f" -->
+<!-- ENTITY rememberDownloads.label "ഡൌണ്‍ലോഡ്‌ ചെയ്‌തത്‌ എന്തെല്ലാമെന്നു് ഓര്‍ത്തിരിക്കുക" -->
+<!-- ENTITY rememberDownloads.accesskey "d" -->
 <!ENTITY cookies.label "കുക്കികള്‍">
 <!ENTITY acceptCookies.label "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY acceptCookies.accesskey "c">
@@ -35,13 +35,13 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "കുക്കികള്‍ കാണിക്കുക ">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY privateData.label "സ്വകാര്യ ഡേറ്റ">
-<!ENTITY alwaysClear.label "&brandShortName; ജാലകം അടയ്ക്കുമ്പോള്‍ സ്വകാര്യ ഡേറ്റകള്‍ മായിക്കുക ">
-<!ENTITY alwaysClear.accesskey "w">
+<!-- ENTITY privateData.label "സ്വകാര്യ ഡേറ്റ" -->
+<!-- ENTITY alwaysClear.label "&brandShortName; ജാലകം അടയ്ക്കുമ്പോള്‍ സ്വകാര്യ ഡേറ്റകള്‍ മായിക്കുക " -->
+<!-- ENTITY alwaysClear.accesskey "w" -->
 <!-- ENTITY askBeforeClear.label "സ്വകാര്യ വിവരങ്ങള്‍ മായ്ക്കുന്നതിന്‌ മുന്‍പ് ചോദിക്കുക" -->
 <!-- ENTITY askBeforeClear.accesskey "A" -->
-<!ENTITY clearDataSettings.label "ക്രമീകരണങ്ങള്‍ ">
-<!ENTITY clearDataSettings.accesskey "t">
+<!-- ENTITY clearDataSettings.label "ക്രമീകരണങ്ങള്‍ " -->
+<!-- ENTITY clearDataSettings.accesskey "t" -->
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
@@ -59,7 +59,7 @@
 <!ENTITY  rememberActions.pre.label           "നിങ്ങള്‍ക്കെ ചെയ്യാവുന്നത് : ">
 <!ENTITY  rememberActions.clearHistory.label  "നിങ്ങളുടെ അടുത്തകാലത്തെ ഹിസ്റ്ററി മായ്ക്കുക">
 <!ENTITY  rememberActions.middle.label        ", അലെങ്കില്‍  ">
-<!ENTITY  rememberActions.removeCookies.label "കുക്കീസ് ഓരോന്നായി കളയുക.">
+<!-- ENTITY  rememberActions.removeCookies.label "കുക്കീസ് ഓരോന്നായി കളയുക." -->
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.">
@@ -97,9 +97,9 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 
-<!ENTITY clearDataNow.label "ഇപ്പോള്‍ മായിക്കുക">
+<!-- ENTITY clearDataNow.label "ഇപ്പോള്‍ മായിക്കുക" -->
 <!-- ENTITY clearDataNow.label2 "ഇപ്പോള്‍ മായിക്കുക" -->
-<!ENTITY clearDataNow.accesskey "N">
+<!-- ENTITY clearDataNow.accesskey "N" -->
 
 <!ENTITY  acceptThirdParty.label        "തേര്‍ഡ്-പാര്‍ട്ടി കുക്കി അംഗീകരിക്കുക">
 <!ENTITY  acceptThirdParty.accesskey    "p">
