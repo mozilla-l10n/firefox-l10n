@@ -27,3 +27,5 @@
 <!ENTITY aboutSupport.updateHistoryTitle "చరిత్రని నవీకరించు">
 
 <!ENTITY aboutSupport.copyToClipboard.label "అన్నింటిని క్లిప్ బోర్డుకి నకలు తీయి">
+<!ENTITY aboutSupport.show.label "కలిగివున్న సంచయంను తెరువుము">
+<!ENTITY aboutSupport.showMac.label "కనుగొను దానినందు చూపుము">

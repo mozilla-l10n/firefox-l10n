@@ -436,3 +436,5 @@
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY allTabs.filter.emptyText "టాబ్లలో శోధన">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageInfoCmd.label       "చిత్రము సమాచారాన్ని దర్శించుము">
