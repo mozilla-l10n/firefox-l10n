@@ -18,7 +18,7 @@
 
 <!ENTITY  manualUpdate.title              "Net yn steat om te fernijen">
 <!ENTITY  manualUpdate.desc               "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
-                                           hawwe net de systeemrjochten dy't nedich binne om it te ynstallearjen. Nim asjebleaft kontakt op mei jo
+                                           hawwe net de systeemrjochten dy't nedich binne om it te ynstallearjen. Nim asjobleaft kontakt op mei jo
                                            systeembehearder, of besykje it nochris mei in account dy't wol de rjochten hat om
                                            programma's te ynstallearjen op dizze kompjûter.">
 <!ENTITY  manualUpdateGetMsg.label        "Jo kinne altyd de lêste ferzje fan &brandShortName; krije fanôf:">
@@ -36,7 +36,7 @@
 
 <!ENTITY  license.titleText               "Lisinsjeoerienkomst">
 <!ENTITY  license.introText               "Betingsten en kondysjes foar it gebrûk fan dit programma.">
-<!ENTITY  license.instructionText         "Lês asjebleaft de folgjende lisinsje-oerienkomst troch. Brûk de skowbalke om de rest fan dizze oerienkomst te besjen.">
+<!ENTITY  license.instructionText         "Lês asjobleaft de folgjende lisinsje-oerienkomst troch. Brûk de skowbalke om de rest fan dizze oerienkomst te besjen.">
 <!ENTITY  license.accept                  "Ik akseptear de betingsten fan de lisinsje-oerienkomst">
 <!ENTITY  license.accept.accesskey        "k">
 <!ENTITY  license.decline                 "Ik akseptear de betingsten fan de lisinsje-oerienkomst NET">
