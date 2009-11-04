@@ -262,7 +262,9 @@
 <!ENTITY reloadImageCmd.label         "Grafik neu laden">
 <!ENTITY reloadImageCmd.accesskey     "G">
 <!ENTITY viewImageCmd.label           "Grafik anzeigen">
-<!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageCmd.accesskey       "k">
+<!ENTITY viewImageInfoCmd.label       "Grafik-Info anzeigen">
+<!ENTITY viewImageInfoCmd.accesskey   "z">
 <!ENTITY viewVideoCmd.label           "Video anzeigen">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
@@ -309,7 +311,7 @@
 <!ENTITY copyImageCmd.label           "Grafikadresse kopieren">
 <!ENTITY copyImageCmd.accesskey       "d">
 <!ENTITY copyImageContentsCmd.label   "Grafik kopieren">
-<!ENTITY copyImageContentsCmd.accesskey  "k"> 
+<!ENTITY copyImageContentsCmd.accesskey  "o"> 
 <!ENTITY copyVideoURLCmd.label        "Video-Adresse kopieren">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Audio-Adresse kopieren">
