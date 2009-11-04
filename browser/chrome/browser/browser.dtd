@@ -263,6 +263,8 @@
 <!ENTITY reloadImageCmd.accesskey     "ب">
 <!ENTITY viewImageCmd.label           "نمایش تصویر">
 <!ENTITY viewImageCmd.accesskey       "ت">
+<!ENTITY viewImageInfoCmd.label       "نمایش اطلاعات تصویر">
+<!ENTITY viewImageInfoCmd.accesskey   "ص">
 <!ENTITY viewVideoCmd.label           "مشاهدهٔ ویدیو">
 <!ENTITY viewVideoCmd.accesskey       "م">
 <!ENTITY viewBGImageCmd.label         "نمایش تصویر پس‌زمینه">
