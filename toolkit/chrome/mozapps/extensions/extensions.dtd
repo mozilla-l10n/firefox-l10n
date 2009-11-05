@@ -23,9 +23,9 @@
 <!-- ENTITY cmd.installFile.accesskey "I" -->
 <!ENTITY cmd.installFileAddon.tooltip "ഒരു ആഡ്‌-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY cmd.installFileTheme.tooltip "ഒരു തീം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക ">
-<!ENTITY cmd.installUpdatesAll.label "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും ">
+<!-- ENTITY cmd.installUpdatesAll.label "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക" -->
+<!-- ENTITY cmd.installUpdatesAll.accesskey "I" -->
+<!-- ENTITY cmd.installUpdatesAll.tooltip "തെരഞ്ഞെടുത്തിരിക്കുന്ന പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും " -->
 
 <!-- ENTITY cmd.restartApp.label "&brandShortName;  വീണ്ടും ആരംഭിക്കുക ;" -->
 
@@ -209,3 +209,8 @@
 
 <!ENTITY blocklist.blocked.label          "തടസ്സപ്പെടുത്തിയിരിക്കുന്നു">
 <!ENTITY blocklist.checkbox.label         "പ്രവര്‍ത്തന രഹിതമാക്കുക">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
+<!ENTITY cmd.installUpdatesAll2.label     "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "തെരഞ്ഞെടുത്ത പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+<!ENTITY outdated.label                   "സുരക്ഷിതമായ ഒരു നൂതന പതിപ്പു് ലഭ്യമാണു്.">
