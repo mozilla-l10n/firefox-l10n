@@ -7,25 +7,30 @@
 <!ENTITY helpMenu.accesskey "H">
 <!ENTITY helpMenuWin.label "സഹായം">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutCmd.label "&brandFullName;-നെ കുറിച്ച്‌">
+<!ENTITY aboutCmd.label "&brandFullName; നെ കുറിച്ച്‌">
 <!ENTITY aboutCmd.accesskey "A">
-<!-- ENTITY helpContents.label "ഉള്ളടക്കം" -->
+<!-- ENTITY helpContents.label "സഹായ ഉള്ളടക്കം" -->
 <!-- ENTITY helpContents.accesskey "H" -->
 <!-- ENTITY helpContentsMac.label "&brandShortName; സഹായം" -->
-<!ENTITY helpForIEUsers.label "ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍ ഉപയോഗിക്കുന്നവര്‍ക്കു്">
+<!ENTITY helpForIEUsers.label "ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍ ഉപഭോക്താക്കള്‍ക്കായി">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!-- ENTITY openHelpMac.commandkey           "/" -->
+<!ENTITY helpMac.commandkey       "?">
+<!-- ENTITY openHelpMac.commandkey "VK_HELP" -->
 <!-- ENTITY openHelpMac.modifiers            "accel,shift" -->
 <!-- ENTITY openHelpMac.frontendCommandkey   "?" -->
 <!-- ENTITY openHelpMac.frontendModifiers    "accel" -->
 <!-- ENTITY openHelpMac2.commandkey "/" -->
 <!-- ENTITY openHelpMac2.modifiers "അക്സെല്‍,shift" -->
 <!-- ENTITY openHelpMac2.frontendCommandkey "?" -->
-<!-- ENTITY openHelpMac2.frontendModifiers "അക്സെല്‍ " -->
+<!-- ENTITY openHelpMac2.frontendModifiers "അക്സെല്‍" -->
 <!ENTITY helpReleaseNotes.label "പ്രകാശനക്കുറിപ്പുകള്‍">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുക">
+<!ENTITY helpTroubleshooting.label      "ട്രബിള്‍ഷൂട്ടിങ് വിവരങ്ങള്‍…">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY updateCmd.label "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുക ">
+<!ENTITY productHelp.label        "&brandShortName; സഹായം">
+<!ENTITY productHelp.accesskey    "H">
 <!-- ENTITY updateCmd.accesskey "o" -->
 <!ENTITY preferencesCmdMac.label "മുന്‍ഗണനകള്‍...">
 <!ENTITY preferencesCmdMac.commandkey ",">
