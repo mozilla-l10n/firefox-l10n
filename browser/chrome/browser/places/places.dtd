@@ -220,3 +220,5 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "തിരനോട്ടം">
 <!ENTITY detailsPane.selectAnItemText.description "ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക">
+<!ENTITY cmd.bookmarkLink.label         "ഈ താള്‍ അടയാളപ്പെടുത്തുക…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">

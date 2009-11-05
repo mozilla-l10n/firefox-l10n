@@ -92,3 +92,5 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">
 <!ENTITY viewSecurityDevices.accesskey "y">
+<!ENTITY enableAddonsUpdate2.label       "ആഡോണുകള്‍">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
