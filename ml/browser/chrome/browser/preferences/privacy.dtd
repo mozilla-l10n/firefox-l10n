@@ -23,7 +23,7 @@
 <!-- ENTITY rememberForms.accesskey "f" -->
 <!-- ENTITY rememberDownloads.label "ഡൌണ്‍ലോഡ്‌ ചെയ്‌തത്‌ എന്തെല്ലാമെന്നു് ഓര്‍ത്തിരിക്കുക" -->
 <!-- ENTITY rememberDownloads.accesskey "d" -->
-<!ENTITY cookies.label "കുക്കികള്‍">
+<!-- ENTITY cookies.label "കുക്കികള്‍" -->
 <!ENTITY acceptCookies.label "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY keepUntil.label "എപ്പോള്‍ വരെ വെയ്ക്കേണം ">
@@ -103,3 +103,4 @@
 
 <!ENTITY  acceptThirdParty.label        "തേര്‍ഡ്-പാര്‍ട്ടി കുക്കി അംഗീകരിക്കുക">
 <!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  rememberActions.removeCookies.label "ഓരോന്നായി കുക്കികള്‍ നീക്കം ചെയ്യുക">

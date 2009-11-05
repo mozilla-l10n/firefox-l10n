@@ -52,3 +52,5 @@
 <!ENTITY restoreSearch.accesskey "s">
 <!ENTITY changeAndRestartButton.label "മാറ്റങ്ങള്‍ വരുത്തി റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുക">
 <!ENTITY continueButton.label "സേഫ്‌ മോഡില്‍ തുടരുക ">
+<!ENTITY deleteBookmarks.label        "ബാക്കപ്പുകളൊഴികെ ബാക്കിയെല്ലാ അടയാളക്കുറിപ്പുകളും വെട്ടി നീക്കുക">
+<!ENTITY deleteBookmarks.accesskey    "b">
