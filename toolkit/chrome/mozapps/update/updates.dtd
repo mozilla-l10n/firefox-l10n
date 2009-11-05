@@ -99,3 +99,6 @@
 <!ENTITY update.details.label "വിവരങ്ങള്‍ ">
 <!ENTITY update.installedOn.label "ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെട്ടതു് ">
 <!ENTITY update.status.label "സ്ഥിതി ">
+<!ENTITY  pluginupdatesfound.label        "നിങ്ങളുടെ പ്ലഗിനുകള്‍ക്കുള്ള പരിഷ്കരണങ്ങള്‍ ലഭ്യമായിരിക്കുന്നു.">
+<!ENTITY  pluginupdatesfound.title        "പ്ലഗിനുകള്‍ക്കുള്ള പരിഷ്കരണങ്ങള്‍">
+<!ENTITY  pluginupdateslink.label         "നിങ്ങളുടെ പ്ലഗിനുകള്‍ പരിഷ്കരിക്കുക.">
