@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "Režim offline a miesto na disku">
+<!ENTITY pref.network.title               "Sieť a úložisko">
 <!ENTITY pref.offline.caption             "Režim offline">
 <!ENTITY textStartUp                      "Pri štarte:">
 <!ENTITY textStartUp.accesskey            "r">
@@ -24,6 +24,10 @@
 <!ENTITY radioNotDownload.accesskey       "b">
 <!ENTITY radioAskDownload                 "Vždy sa opýtať">
 <!ENTITY radioAskDownload.accesskey       "t">
+<!ENTITY mailConnections.caption          "Pripojenie k poštovému serveru">
+<!ENTITY mailnewsTimeout.label            "Časový limit pripojenia:">
+<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeoutSeconds.label     "sekúnd">
 <!ENTITY Diskspace                        "Miesto na disku">
 <!ENTITY offlineCompact.label             "Vykonať údržbu priečinkov, ak sa tým ušetrí viac ako">
 <!ENTITY offlineCompact.accesskey         "V">

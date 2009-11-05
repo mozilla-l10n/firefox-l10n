@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "Názov certifikátu">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Výnimky">
 <!ENTITY certmgr.override_lifetime            "Životnosť">
 <!ENTITY certmgr.tokenname "Bezpečnostné zariadenie">
-<!ENTITY certmgr.purpose "Účely">
 <!ENTITY certmgr.issued "Dátum vydania">
 <!ENTITY certmgr.expires "Platnosť vyprší">
 <!ENTITY certmgr.email "E-mailová adresa">

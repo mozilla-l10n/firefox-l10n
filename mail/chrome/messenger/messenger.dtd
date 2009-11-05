@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd.label "Zavrieť kartu">
 <!ENTITY closeTabCmd.accesskey "Z">
+<!ENTITY closeOtherTabsCmd.label "Zavrieť ostatné karty">
+<!ENTITY closeOtherTabsCmd.accesskey "a">
 <!ENTITY newVirtualFolderCmd.label "Priečinok hľadania…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Ďalšie účty…">
@@ -130,8 +132,8 @@
 
 <!ENTITY folderView.label "Priečinky">
 <!ENTITY folderView.accesskey "e">
-<!ENTITY smartFolders.label "Inteligentné">
-<!ENTITY smartFolders.accesskey "I">
+<!ENTITY smartFolders.label "Zoskupené">
+<!ENTITY smartFolders.accesskey "Z">
 <!ENTITY allFolders.label "Všetky">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Neprečítané">
@@ -469,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Odpovedať zoznamu">
 <!ENTITY forwardButton.label "Odoslať ďalej">
 <!ENTITY fileButton.label "Uložiť">
+<!ENTITY archiveButton.label "Archivovať">
 <!ENTITY nextButton.label "Ďalšia">
 <!ENTITY previousButton.label "Predchádzajúca">
 <!ENTITY backButton1.label "Prejsť naspäť">
@@ -501,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Odpovedať členom rozosielacieho zoznamu">
 <!ENTITY forwardButton.tooltip "Odoslať označenú správu ďalej">
 <!ENTITY fileButton.tooltip "Uložiť označenú správu do súboru">
+<!ENTITY archiveButton.tooltip "Presunúť označené správy do archívu">
 <!ENTITY nextButton.tooltip "Presunúť sa na nasledujúcu neprečítanú správu">
 <!ENTITY previousButton.tooltip "Presunúť sa na predchádzajúcu neprečítanú správu">
 <!ENTITY goForwardButton.tooltip "Prejsť o jednu správu dopredu">
@@ -628,6 +632,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextEditAsNew.label "Upraviť ako novú…">
 <!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextArchive.label "Archivovať">
+<!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
 <!ENTITY contextReplySender.accesskey "i">
 <!ENTITY contextReplyNewsgroup.label "Odpovedať do diskusnej skupiny">
@@ -678,11 +684,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Zdá sa, že toto nie je podvodná správa.">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "ďalšie">
+<!ENTITY more.label "ďalší">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Hľadať všade">
+<!ENTITY searchAllMessages.label "Prehľadávať celé správy">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Pridať do Adresára">
@@ -701,6 +707,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CopyNewsgroupName.label "Kopírovať názov diskusnej skupiny">
 <!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupURL.label "Kopírovať adresu diskusnej skupiny">
+<!ENTITY CopyNewsgroupURL.accesskey "a">
 <!ENTITY CreateFilterFrom.label "Vytvoriť filter z…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Nahlásiť podozrivý e-mail">
@@ -711,16 +719,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "c">
 <!ENTITY saveImageAsCmd.label "Uložiť obrázok ako…">
 <!ENTITY saveImageAsCmd.accesskey "b">
+<!ENTITY cutCmd.label "Vystrihnúť">
+<!ENTITY cutCmd.accesskey "V">
 <!ENTITY copyCmd.label "Kopírovať">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Prilepiť">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopírovať adresu obrázka">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Kopírovať obrázok">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopírovať e-mailovú adresu">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Zastaviť">
+<!ENTITY stopCmd.accesskey "Z">
+<!ENTITY reloadCmd.label "Obnoviť">
+<!ENTITY reloadCmd.accesskey "O">
+<!ENTITY openInBrowser.label "Otvoriť v prehliadači">
+<!ENTITY openInBrowser.accesskey "h">
+<!ENTITY openLinkInBrowser.label "Otvoriť odkaz v prehliadači">
+<!ENTITY openLinkInBrowser.accesskey "h">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Hotovo">

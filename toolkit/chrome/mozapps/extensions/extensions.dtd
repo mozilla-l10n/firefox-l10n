@@ -112,7 +112,7 @@
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Neposkytuje zabezpečené aktualizácie.">
 <!ENTITY needsDependencies.label          "Vyžaduje ďalšie doplnky.">
-<!ENTITY blocklisted.label                "Zakázané z dôvodu vašej ochrany.">
+<!ENTITY blocklisted.label                "Zakázaný pre vašu bezpečnosť.">
 <!ENTITY softBlocklisted.label            "Spôsobuje problémy s bezpečnosťou alebo stabilitou.">
 <!ENTITY outdated.label                   "Je dostupná novšia a bezpečnejšia verzia.">
 <!ENTITY toBeDisabled.label               "Tento doplnok bude zakázaný po reštarte aplikácie &brandShortName;">

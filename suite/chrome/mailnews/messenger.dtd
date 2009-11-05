@@ -532,7 +532,7 @@
 <!ENTITY contextReplyNewsgroup.accesskey "s">
 <!ENTITY contextReplyAll.label "Odpovedať všetkým">
 <!ENTITY contextReplyAll.accesskey "v">
-<!ENTITY contextReplySenderAndNewsgroup.label "Odpovedať odosielateľovi a do diskusej skupiny">
+<!ENTITY contextReplySenderAndNewsgroup.label "Odpovedať odosielateľovi a do diskusnej skupiny">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextForward.label "Odoslať ďalej">
 <!ENTITY contextForward.accesskey "l">
@@ -542,7 +542,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
 <!ENTITY contextCopyMsgMenu.accesskey "r">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy pooužité">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy použité">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextSaveAs.label "Uložiť ako…">
 <!ENTITY contextSaveAs.accesskey "a">
@@ -589,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Hľadať predmet alebo Od">
+<!ENTITY searchSubjectOrAddress.emptytext "Hľadať predmet alebo Od">
 <!ENTITY advancedButton.label "Rozšírené…">
 <!ENTITY advancedButton.accesskey "o">
 

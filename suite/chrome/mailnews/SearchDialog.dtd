@@ -7,8 +7,6 @@
 <!ENTITY searchLocalSystem.accesskey "m">
 <!ENTITY resetButton.label           "Obnoviť">
 <!ENTITY resetButton.accesskey       "b">
-<!ENTITY helpButton.label            "Pomocník">
-<!ENTITY helpButton.accesskey        "P">
 <!ENTITY openButton.label            "Otvoriť">
 <!ENTITY openButton.accesskey        "t">
 <!ENTITY deleteButton.label          "Odstrániť">

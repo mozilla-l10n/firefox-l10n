@@ -62,7 +62,7 @@
 <!ENTITY notifications.legend.label   "Notifikácia">
 
 <!ENTITY checknever.label             "Nikdy">
-<!ENTITY checkeveryday.label          "Každy deň">
+<!ENTITY checkeveryday.label          "Každý deň">
 <!ENTITY checkweekdays.label          "Pracovné dni">
 <!ENTITY checkweekends.label          "Každý víkend">
 <!ENTITY checkmondays.label           "Každý pondelok">

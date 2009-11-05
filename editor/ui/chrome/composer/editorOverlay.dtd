@@ -99,6 +99,7 @@
 
 <!ENTITY pasteAsQuotationCmd.label "Prilepiť ako citáciu">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Hľadať a nahradiť…">
 <!ENTITY findCmd.accesskey "H">
 <!ENTITY findCmd.key "F">

@@ -35,6 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.junk.title "Nevyžiadaná pošta">
+<!ENTITY pref.junk.title "Nevyžiadaná a podozrivá pošta">
 <!ENTITY junkSettings.caption "Globálne nastavenia pre nevyžiadanú poštu">
 <!ENTITY junkMail.intro "Ak chcete zmeniť špecifické nastavenia nevyžiadanej pošty svojho účtu, prejdite do jeho nastavenia.">
 
@@ -42,7 +43,7 @@
 <!ENTITY manualMark.label               "Keď manuálne označím správy ako nevyžiadané:">
 <!ENTITY manualMark.accesskey           "K">
 <!ENTITY manualMarkModeMove.label       "Presunúť ich do priečinka &quot;SPAM&quot; v danom účte">
-<!ENTITY manualMarkModeMove.accesskey   "u">
+<!ENTITY manualMarkModeMove.accesskey   "s">
 <!ENTITY manualMarkModeDelete.label     "Odstrániť ich">
 <!ENTITY manualMarkModeDelete.accesskey "d">
 
@@ -58,3 +59,15 @@
 <!ENTITY openJunkLog.accesskey          "Z">
 <!ENTITY resetTrainingData.label        "Vymazať zozbierané údaje">
 <!ENTITY resetTrainingData.accesskey    "V">
+
+<!ENTITY pref.suspectMail.caption       "Podozrivá pošta">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "Podvodné správy">
+<!ENTITY enablePhishingDetector.label     "Upozorniť v prípade, ak je čítaná správa podozrivá">
+<!ENTITY enablePhishingDetector.accesskey "U">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Antivírus">
+<!ENTITY antiVirus.label                  "Povoliť antivírusovým klientom prehliadať jednotlivé doručené správy">
+<!ENTITY antiVirus.accesskey              "n">

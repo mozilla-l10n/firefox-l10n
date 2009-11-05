@@ -15,7 +15,7 @@
 <!ENTITY sentFolderOn.label "priečinok &quot;Odoslaná pošta&quot; v účte:">
 <!ENTITY sentFolderOn.accesskey "d">
 <!ENTITY sentInOtherFolder.label "iný priečinok:">
-<!ENTITY sentInOtherFolder.accesskey "i">
+<!ENTITY sentInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "priečinok &quot;Návrhy&quot; v účte:">
 <!ENTITY draftsFolderOn.accesskey "v">
@@ -23,7 +23,7 @@
 <!ENTITY draftInOtherFolder.accesskey "k">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "priečinok &quot;Archívy&quot; v účte:">
-<!ENTITY archivesFolderOn.accesskey "c">
+<!ENTITY archivesFolderOn.accesskey "o">
 <!ENTITY archiveInOtherFolder.label "iný priečinok:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->

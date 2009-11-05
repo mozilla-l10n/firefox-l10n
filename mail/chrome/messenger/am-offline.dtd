@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Kvôli úspore miesta na disku nepreberať:">
-<!ENTITY doNotDownload.label "Kvôli úspore miesta na disku nepreberať pre použitie v režime offline:">
+<!ENTITY doNotDownloadNntp.label "Kvôli úspore miesta na disku nepreberať pre použitie v režime offline:">
+<!ENTITY doNotDownloadImap.label "Kvôli úspore miesta je možné preberanie správ zo servera a ukladanie ich lokálnych kópii pre použitie v režime offline obmedziť podľa veku alebo veľkosti správ.">
 <!ENTITY allFoldersOffline.label "Ponechať správy tohto účtu v tomto počítači">
-<!ENTITY allFoldersOffline.accesskey "c">
+<!ENTITY allFoldersOffline.accesskey "P">
 <!ENTITY offlineNotDownload.label "Správy väčšie ako ">
 <!ENTITY offlineNotDownload.accesskey "S">
+<!ENTITY autosyncNotDownload.label "Nepreberať správy väčšie ako">
+<!ENTITY autosyncNotDownload.accesskey "s">
 <!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "dní">
 <!ENTITY message.label "správ">
@@ -33,17 +36,19 @@
 <!ENTITY syncGroupTitle.label "Synchronizácia správ">
 <!ENTITY diskspaceGroupTitle.label "Miesto na disku">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY useAutosyncBefore.label         "Na disku uchovávať správy staré maximálne:">
-<!ENTITY useAutosyncMiddle.label         "">
-<!ENTITY allInterval.label               "všetky správy">
-<!ENTITY dayInterval.label               "dní">
-<!ENTITY weekInterval.label              "týždňov">
-<!ENTITY monthInterval.label             "mesiacov">
-<!ENTITY yearInterval.label              "rokov">
-<!ENTITY useAutosyncAfter.label          "">
+<!ENTITY allAutosync.label               "Synchronizovať všetky správy nezávisle na ich veku">
+<!ENTITY allAutosync.accesskey           "n">
+<!ENTITY ageAutosyncBefore.label         "Synchronizovať správy za posledných">
+<!ENTITY ageAutosync.accesskey           "S">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "dní">
+<!ENTITY weekAgeInterval.label           "týždňov">
+<!ENTITY monthAgeInterval.label          "mesiacov">
+<!ENTITY yearAgeInterval.label           "rokov">
+<!ENTITY ageAutosyncAfter.label          "">

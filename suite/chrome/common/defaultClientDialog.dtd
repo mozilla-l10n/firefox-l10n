@@ -6,5 +6,5 @@
 <!ENTITY newsgroups.label "Diskusné skupiny">
 <!ENTITY feeds.label "Informačné kanály (RSS)">
 
-<!ENTITY checkOnStartup.label "Vždy vykonvať túto kontrolu pri spustení &brandShortName;">
+<!ENTITY checkOnStartup.label "Vždy vykonať túto kontrolu pri spustení &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "V">

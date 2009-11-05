@@ -24,7 +24,7 @@
 <h1 id="customizing_mozilla">Prispôsobenie programu &brandShortName;</h1>
 
 <p>&brandShortName; umožňuje upravovať nastavenia mnohých svojich funkcií, ako
-  napríklad Bočného panelu, záložiek alebo prehliadania na kartách, tak, aby lepšie
+  napríklad Bočného panelu, záložiek, prehliadania na kartách alebo doplnkov, tak, aby lepšie
   vyhovovali vašim požiadavkám.</p>
 
 <p>Táto sekcia opisuje nastaviteľné vlastnosti prehliadača ako súčasti programu
@@ -38,6 +38,7 @@
       tém vzhľadu</a></li>
     <li><a href="#toolbars">Panely s nástrojmi</a></li>
     <li><a href="#bookmarks">Záložky</a></li>
+    <li><a href="#add-ons">Doplnky</a></li>
     <li><a href="#specifying_how_mozilla_starts_up">Spustenie programu
       &brandShortName;</a></li>
     <li><a href="cs_nav_prefs_appearance.xhtml">Nastavenia vzhľadu</a></li>
@@ -1020,11 +1021,273 @@
 
 <p>[<a href="#bookmarks">Návrat na začiatok kapitoly</a>]</p>
 
+<h2 id="add-ons">Doplnky</h2>
+
+<p>Jedným z najvzrušujúcejších spôsobov prispôsobenia programu &brandShortName; je
+  používanie doplnkov. V tejto kapitole sa naučíte, čo doplnky sú, ako ich inštalovať
+  a ako používať Správcu doplnkov.</p>
+
+<div class="contentsBox">V tejto kapitole:
+  <ul>
+    <li><a href="#about_add-ons">Čo sú doplnky</a></li>
+    <li><a href="#installing_add-ons">Inštalácia doplnkov</a></li>
+    <li><a href="#using_the_add-on_manager">Používame Správcu doplnkov</a></li>
+  </ul>
+</div>
+
+<h3 id="about_add-ons">Čo sú doplnky</h3>
+
+<p>Doplnok Softvér pre program &brandShortName;, ktorý mení jeho vzhľad,
+  správanie alebo pridáva nové funkcie. Doplnok môže takisto meniť jazyk
+  používateľského rozhrania programu. Je možné ich rozdeliť na štyri typy:</p>
+
+<ul>
+  <li><strong>Rozšírenia</strong>: tento typ doplnku buď mení spôsob, ako sa
+    &brandShortName; správa alebo do programu nové funkcie. Napríklad existujú
+    rozšírenia, ktoré poskytujú predpovede počasia, pridávajú plnohodnotného
+    klienta alebo blokujú reklamy na webových stránkach. Niektoré rozšírenia
+    sú navrhnuté pre konkrétne webové stránky.</li>
+  <li><strong>Témy</strong>: témy vzhľadu menia vzhľad programu &brandShortName;,
+    nepridávajú ani nemenia žiadne funkcie. Sú známe aj ako tzv. skiny.
+    &brandShortName; je dodávaný s dvoma témami, predvolenou a modernou, ďalšie
+    si môžete pridať podľa svojho výberu.</li>
+  <li><strong>Jazykové balíky</strong>: aj keď si môžete &brandShortName; prevziať
+    v mnohých jazykových mutáciách, môžete si do neho pridať ďalšie jazyky pomocou
+    jazykových balíkov. Týmto spôsobom môžu &brandShortName; používať rôzni
+    používatelia v rôznych jazykoch bez nutnosti inštalovať program pre každého
+    zvlášť. Toto je užitočné, ak inštalujete &brandShortName; na počítači, ktorý
+    používajú viacerí používatelia, napríklad v počítačovom laboratóriu.
+    <p><strong>Poznámka</strong>: jazykové balíky menia len jazyk používateľského
+      rozhrania. Webové stránky, správy, diskusné skupiny a príspevky informačných
+      kanálov a blogov zostávajú v originálnom jazyku, v ktorom boli napísané.</p>
+  </li>
+  <li><strong>Zásuvné moduly</strong>: zásuvné moduly prepájajú &brandShortName;
+    s inými programami. Umožňujú zobrazovať špecifický obsah (ako videá vo formáte
+    Flash alebo dokumenty typu PDF) priamo v okne prehliadača &brandShortName;.
+    Na ich zobrazenie teda nie je potrebné otvárať ďalší program.</li>
+</ul>
+
+<p>Doplnky sú vždy dodávané ako balíky. Každý doplnok je súbor s koncovkou XPI,
+  netýka sa to niektorých zásuvných modulov, ktoré môžu byť dostupné vo forme
+  binárnych súborov špecifických pre daný operačný systém.</p>
+
+<p>[<a href="#add-ons">Návrat na začiatok kapitoly</a>]</p>
+
+<h3 id="installing_add-ons">Inštalácia doplnkov</h3>
+
+<p>Existuje niekoľko spôsobov, ako jednoducho nainštalovať doplnky:</p>
+
+<ul>
+  <li>Kliknutím na odkaz doplnku na webovej stránke. Tým sa otvorí
+    dialógové okno &brandShortName;, kde je potrebné potvrdiť alebo zrušiť inštaláciu
+    pričom prvých niekoľko sekúnd je tlačidlo Inštalovať zakázané. Dôvodom je snaha zabrániť
+    náhodnému odsúhlaseniu inštalácie doplnku.
+    <p><strong>Poznámka</strong>: ako ďalší bezpečnostný prvok &brandShortName; umožňuje
+      inštaláciu doplnkov len zo stránok, ktoré sú v zozname povolených stránok v nastaveniach
+      programu, panel <a
+      href="cs_nav_prefs_advanced.xhtml#software_installation">Inštalácia softvéru</a>.</p>
+  </li>
+  <li>Otvorením predtým uloženého rozšírenia podobným spôsobom, ako otvárate klasický súbor
+    uložený na disk: zvolením položky Otvoriť súbor v ponuke Súbor alebo stlačením skratky
+    <span class="mac"><kbd>Cmd</kbd></span><span class="noMac"><kbd>Ctrl</kbd></span>+<kbd>O</kbd>.</li>
+  <li>Použitím panela Získať doplnky v okne Správcu doplnkov alebo kliknutím na tlačidlo
+    Inštalovať v ktoromkoľvek paneli Správcu doplnkov.</li>
+</ul>
+
+<p><strong>Poznámka</strong>: zásuvné moduly sú zvyčajne inštalované ako oddelený
+  program v čase, keď &brandShortName; nie je spustený. Tým sa zabezpečí, že externý
+  program a daný zásuvný modul pre &brandShortName; sú nainštalované korektne.</p>
+
+<p>[<a href="#add-ons">Návrat na začiatok kapitoly</a>]</p>
+
+<h3 id="using_the_add-on_manager">Používame Správcu doplnkov</h3>
+
+<p>Správca doplnkov umožňuje inštaláciu a odinštalovanie doplnkov, ich povolenie
+  alebo zakázanie a v niektorých prípadoch aj možnosť zvoliť špecifické nastavenia
+  doplnkov.</p>
+
+<p id="accessing_the_add-on_manager">Ak chcete otvoriť okno Správcu doplnkov,
+  vykonajte jeden z nasledujúcich krokov:</p>
+
+<ul>
+  <li>Otvorte ponuku Nástroje a zvoľte položku Doplnky.</li>
+  <li>Otvorte ponuku <span class="mac">&brandShortName;</span><span
+    class="noMac">Upraviť</span> a zvoľte položku Možnosti, rozbaľte kategóriu
+    Rozšírené a kliknite na položku Inštaláciu softvéru.</li>
+</ul>
+
+<div class="contentsBox">V tejto kapitole:
+  <ul>
+    <li><a href="#the_get_add-ons_panel">Panel Získať doplnky</a></li>
+    <li><a href="#the_extensions_panel">Panel Rozšírenia</a></li>
+    <li><a href="#the_themes_panel">Panel Témy</a></li>
+    <li><a href="#the_languages_panel">Panel Jazykové balíky</a></li>
+    <li><a href="#the_plugins_panel">Panel Zásuvné moduly</a></li>
+  </ul>
+</div>
+
+<h4 id="the_get_add-ons_panel">Panel Získať doplnky</h4>
+
+<p>Panel Získať doplnky v okne Správcu doplnkov používa webovú službu poskytovanú
+  stránkou Mozilla Add-ons na zobrazenie zoznamu odporúčaných doplnkov s možnosťou
+  prehľadávania stránky Mozilla Add-ons priamo z okna Správcu doplnkov. Po otvorení
+  <a href="#accessing_the_add-on_manager">okna Správcu doplnkov</a> kliknite na panel
+  Získať doplnky, kde môžete vykonať nasledujúce akcie:</p>
+
+<ul>
+  <li>Ak chcete vyhľadať doplnok podľa jeho názvu, popisu alebo značiek, použite
+    vyhľadávacie pole. Zadajte slovo alebo frázu a stlačte kláves <span
+    class="mac"><kbd>Return</kbd></span><span
+    class="noMac"><kbd>Enter</kbd></span>. Zobrazí sa zoznam nájdených doplnkov.
+    Ak chcete zrušiť vyhľadávanie, kliknite na tlačilo v pravej časti vyhľadávacieho poľa.
+    <p><strong>Poznámka</strong>: doplnky, ktoré sú už nainštalované alebo nie sú
+      kompatibilné s aktuálne používanou verziou &brandShortName; sa v zozname
+      nájdených doplnkov nezobrazia.</p>
+  </li>
+  <li>Ak chcete otvoriť webovú stránku Mozilla Add-ons v novom okne prehliadača
+    (alebo v závislosti na vašich nastaveniach na novej karte), kliknite na odkaz
+    Prehľadávať všetky doplnky.</li>
+  <li>Ak chcete získať viac informácií o jednom z odporúčaných doplnkov v predvolenom
+    zozname, kliknite na danú položku, ktorá sa následne rozbalí a zobrazí sa
+    väčší obrázok, plný popis doplnku a indikáciu typu doplnku (rozšírenie, téma atď).
+    Zobrazí sa tiež tlačidlo umožňujúce nainštalovanie doplnku priamo do &brandShortName;.</li>
+  <li>Ak chcete zobraziť celý zoznam odporúčaných doplnkov pre &brandShortName;
+    v novom okne prehliadača (alebo v závislosti na vašich nastaveniach na novej
+    karte), prejdite na koniec zoznamu odporúčaných a kliknite na odkaz Zobraziť
+    všetky odporúčané doplnky.</li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Návrat na začiatok kapitoly</a>]</p>
+
+<h4 id="the_extensions_panel">Panel Rozšírenia</h4>
+
+<p>Panel Rozšírenia nachádzajúci sa v okne Správcu doplnkov zobrazuje zoznam
+  nainštalovaných rozšírení. Po otvorení <a href="#accessing_the_add-on_manager">
+  okna Správcu doplnkov</a> kliknite na panel Rozšírenia, kde môžete vykonať nasledujúce
+  akcie:</p>
+
+<ul>
+  <li>Ak chcete získať viac informácii o ktoromkoľvek z nainštalovaných rozšírení,
+    kliknite na jeho položku v zozname, čím dôjde k zobrazeniu ďalších informácií.
+
+    <p><strong>Poznámka</strong>: zakázané rozšírenia sú zobrazené sivou farbou.
+      Nekompatibilné rozšírenia sú takisto zobrazené sivou farbou, pretože tieto sú
+      vlastne tiež zakázané. Takisto sa pri ich ikone zobrazuje znak zakázaného rozšírenia
+      (nekompatibilné rozšírenia sú tie, ktoré obsahujú informáciu o nekompatibilite
+      s verziou programu &brandShortName;, ktorú práve používate).</p>
+  </li>
+  <li>Ak chcete zobraziť okno nastavení rozšírenia (ak rozšírenie poskytuje možnosť
+    zmeniť jeho nastavenia), kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Možnosti.
+    <p><strong>Poznámka</strong>: ak rozšírenie neposkytuje možnosť
+    zmeniť jeho nastavenia, tlačidlo Možnosti nebude povolené. K nastaveniam zakázaných
+    alebo nekompatibilných rozšírení nie je možné pristupovať.</p>
+  </li>
+  <li>Ak chcete rozšírenie zakázať, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Zakázať. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+  <li>Ak chcete rozšírenie povoliť, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Povoliť. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+  <li>Ak chcete rozšírenie odinštalovať, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Odinštalovať. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+  <li>Ak chcete vyhľadať aktualizácie pre ktorékoľvek z nainštalovaných rozšírení
+    (vrátane tých označených ako nekompatibilné), kliknite na tlačidlo Hľadať aktualizácie
+    v dolnej časti okna Správcu doplnkov.
+    <p>Pri nájdení aktualizácii budú tieto zobrazené v novom paneli, kde si môžete zvoliť,
+    ktoré rozšírenia si prajete aktualizovať. Následne kliknite na tlačidlo Nainštalovať
+    aktualizácie. Nové verzie budú použité až po reštartovaní &brandShortName;.</p>
+  </li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Návrat na začiatok kapitoly</a>]</p>
+
+<h4 id="the_themes_panel">Panel Témy</h4>
+
+<p>Panel Témy nachádzajúci sa v okne Správcu doplnkov zobrazuje zoznam
+  nainštalovaných tém vzhľadu. Po otvorení <a href="#accessing_the_add-on_manager">
+  okna Správcu doplnkov</a> kliknite na panel Témy, kde môžete vykonať nasledujúce
+  akcie:</p>
+
+<ul>
+  <li>Ak chcete získať viac informácii a ukážku ktorejkoľvek z nainštalovaných tém vzhľadu,
+    kliknite na jej položku v zozname, čím dôjde k zobrazeniu popisu témy a jej ukážky
+    v pravej časti okna Správcu doplnkov (možno bude nutné rozšíriť okno, ak sa nezobrazí
+    kompletná ukážka).</li>
+  <li>Ak chcete tému vzhľadu použiť, kliknite na jej položku v zozname
+    a následne kliknite na tlačidlo Použiť tému. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.
+    <p><strong>Poznámka</strong>: Na rozdiel od rozšírení môžete v jednom čase používať len
+      jednu tému vzhľadu.</p>
+  </li>
+  <li>Ak chcete tému vzhľadu odinštalovať, kliknite na jej položku v zozname
+    a následne kliknite na tlačidlo Odinštalovať. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Návrat na začiatok kapitoly</a>]</p>
+
+<h4 id="the_languages_panel">Panel Jazykové balíky</h4>
+
+<p>Panel Zásuvné moduly nachádzajúci sa v okne Správcu doplnkov zobrazuje zoznam
+  nainštalovaných jazykových balíkov. Tento panel je zobrazený len v prípade, 
+  že máte nainštalovaný nejaký jazykový balík.</p>
+
+<p>Po otvorení <a href="#accessing_the_add-on_manager">okna
+  Správcu doplnkov</a> kliknite na panel Jazykové balíky, kde môžete vykonať nasledujúce
+  akcie:</p>
+
+<ul>
+  <li>Ak chcete jazykový balík zakázať, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Zakázať. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+  <li>Ak chcete jazykový balík povoliť, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Povoliť. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+  <li>Ak chcete jazykový balík odinštalovať, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Odinštalovať. Zobrazí sa informačný panel pripomínajúci, že
+    zmeny sa prejavia až po reštartovaní &brandShortName;. Informačný panel obsahuje
+    tlačidlo na reštartovanie programu &brandShortName;.</li>
+</ul>
+
+<p><strong>Poznámka</strong>: Povolenie jazykového balíka v paneli Jazykové balíky
+  nezmení jazyk používateľského rozhrania programu &brandShortName;, len pridá daný jazyk
+  ako voľbu do okna <a href="cs_nav_prefs_appearance.xhtml#appearance">Možnosti - Vzhľad</a>.</p>
+
+<p>[<a href="#using_the_add-on_manager">Návrat na začiatok kapitoly</a>]</p>
+
+<h4 id="the_plugins_panel">Panel Zásuvné moduly</h4>
+
+<p>Panel Zásuvné moduly nachádzajúci sa v okne Správcu doplnkov zobrazuje zoznam
+  nainštalovaných doplnkov typu zásuvný modul. Po otvorení <a href="#accessing_the_add-on_manager">okna
+  Správcu doplnkov</a> kliknite na panel Zásuvné moduly, kde môžete vykonať nasledujúce
+  akcie:</p>
+
+<ul>
+  <li>Ak chcete zásuvný modul zakázať, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Zakázať.</li>
+  <li>Ak chcete zásuvný modul povoliť, kliknite na jeho položku v zozname
+    a následne kliknite na tlačidlo Povoliť.</li>
+</ul>
+
+<p><strong>Poznámka</strong>: Na rozdiel od ostatných typov doplnkov, povolenie a
+  zakázanie zásuvných modulov nevyžaduje reštartovanie programu &brandShortName;.</p>
+
+<p>[<a href="#using_the_add-on_manager">Návrat na začiatok kapitoly</a>]</p>
+
 <h2 id="specifying_how_mozilla_starts_up">Spustenie programu &brandShortName;</h2>
 
 <div class="contentsBox">V tejto kapitole:
   <ul>
     <li><a href="#specifying_a_starting_page">Určenie štartovacej stránky</a></li>
+    <li><a href="#session_restore">Obnovenie relácie</a></li>
     <li><a href="#changing_your_home_page">Zmena nastavenia domovskej stránky</a></li>
     <li><a href="#specifying_which_components_open_at_launch">Voľba komponentov,
       ktoré sa majú spustiť pri štarte</a></li>
@@ -1040,10 +1303,29 @@
     <span class="noMac">Upraviť</span> a zvoľte položku Možnosti.</li>
   <li>V sekcii "Zobraziť pri spustení prehliadača" zvoľte, či chcete pri spustení
     prehliadača načítať prázdnu stránku, domovskú stránku alebo naposledy
-    navštívenú stránku.
+    navštívenú stránku. Prípadne môžete
+    &brandShortName; určiť, aby obnovil predchádzajúcu reláciu, tj. okná
+    a karty, ktoré boli otvorené pri poslednom ukončení &brandShortName;.
   <p><strong>Poznámka</strong>: Ak ste zvolili voľbu Domovskú stránku, zadajte v sekcii
     Domovská stránka jej adresu (URL).</p></li>
 </ol>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začiatok kapitoly</a>]</p>
+
+<h3 id="session_restore">Obnovenie relácie</h3>
+
+<p>&brandShortName; pravidelne ukladá relácie prehliadania (otvorené okná
+  a karty, vrátane údajov zadaných do fomulárov) na pevný disk. Ak spustíte &brandShortName; s
+  povolenou obnovou relácií, budú po spustení obnovené všetky okná a karty z predchádzajúcej
+  relácie. Toto je užitočné najmä v prípade, ak bola vaša predchádzajúca relácia ukončená
+  neočakávane (napr. zamrznutie počítača alebo neočakávané zlyhanie 
+  &brandShortName;). &brandShortName; automaticky obnoví
+  predchádzajúcu reláciu, ak je označená voľba "Obnoviť predchádzajúcu reláciu" v sekcii "Zobraziť pri spustení
+  prehliadača". Ak ste si zvolili nebyť upozornený pri zatváraní okna prehliadača, ktoré
+  obsahuje viacero otvorených kariet (viď nastavenia panela <a href="#tabbed_browsing">Prehliadanie
+  na kartách</a>), &brandShortName; otvorí stránku, kde si môžete zvoliť,
+  ktoré okná/karty z poslednej relácie chcete opätovne otvoriť.
+  Toto nastane aj v prípade, že &brandShortName; zlyhá viac krát za sebou.</p>
 
 <p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začiatok kapitoly</a>]</p>
 

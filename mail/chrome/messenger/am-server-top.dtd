@@ -8,7 +8,7 @@
 <!ENTITY userName.label "Používateľské meno:">
 <!ENTITY userName.accesskey "m">
 <!ENTITY port.label "Port:">
-<!ENTITY port.accesskey "r">
+<!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Štandardný:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
@@ -27,20 +27,20 @@
 <!ENTITY useSecAuth.label "Použiť bezpečnú autentifikáciu">
 <!ENTITY useSecAuth.accesskey "f">
 <!ENTITY leaveOnServer.label "Nechávať správy na serveri">
-<!ENTITY leaveOnServer.accesskey "c">
+<!ENTITY leaveOnServer.accesskey "r">
 <!ENTITY headersOnly.label "Prevziať len hlavičky správ">
 <!ENTITY headersOnly.accesskey "a">
 <!ENTITY deleteByAgeFromServer.label "najviac">
-<!ENTITY deleteByAgeFromServer.accesskey "j">
+<!ENTITY deleteByAgeFromServer.accesskey "n">
 <!ENTITY daysEnd.label "dní">
 <!ENTITY deleteOnServer2.label "až kým nebudú odstránené">
 <!ENTITY deleteOnServer2.accesskey "b">
 <!ENTITY downloadOnBiff.label "Automaticky prevziať novú poštu">
-<!ENTITY downloadOnBiff.accesskey "y">
+<!ENTITY downloadOnBiff.accesskey "o">
 <!ENTITY username.label "Názov účtu">
 <!ENTITY deleteMessagePrefix.label "Pri odstránení správy:">
 <!ENTITY modelMoveToTrash.label "Presunúť ju do priečinka:">
-<!ENTITY modelMoveToTrash.accesskey "j">
+<!ENTITY modelMoveToTrash.accesskey "n">
 <!ENTITY modelMarkDeleted.label "Iba ju označiť ako odstránenú">
 <!ENTITY modelMarkDeleted.accesskey "b">
 <!ENTITY modelDeleteImmediately.label "Okamžite ju odstrániť">

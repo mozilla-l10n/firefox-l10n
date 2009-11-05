@@ -14,6 +14,11 @@
          nc:name="pridanie"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="add-ons"
+         nc:name="doplnky"
+         nc:link="customize_help.xhtml#add-ons"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="address_books"
          nc:name="adresáre"
          nc:link="mail_help.xhtml#about_address_books"/>
@@ -92,6 +97,56 @@
        <rdf:Description ID="address_books:searching"
          nc:name="vyhľadávanie v adresári"
          nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#add-ons">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:about"
+         nc:name="čo je"
+         nc:link="customize_help.xhtml#about_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:installing"
+         nc:name="inštalácia"
+         nc:link="customize_help.xhtml#installing_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:manager"
+         nc:name="Správca doplnkov"
+         nc:link="customize_help.xhtml#using_the_add-on_manager"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#add-ons:manager">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:get_add-ons"
+         nc:name="Panel Získať doplnky"
+         nc:link="customize_help.xhtml#the_get_add-ons_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:extensions_panel"
+         nc:name="Panel Rozšírenia"
+         nc:link="customize_help.xhtml#the_extensions_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:themes_panel"
+         nc:name="Panel Témy"
+         nc:link="customize_help.xhtml#the_themes_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:languages_panel"
+         nc:name="Panel Jazykové balíky"
+         nc:link="customize_help.xhtml#the_languages_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:plugins_panel"
+         nc:name="Panel Zásuvné moduly"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -182,6 +237,11 @@
        <rdf:Description ID="browser:Download_Manager"
          nc:name="Správca preberania súborov"
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="plugins_panel"
+         nc:name="panel zásuvné moduly"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:full_screen_mode"
@@ -590,6 +650,11 @@
        <rdf:Description ID="JSConsole"
          nc:name="chybová konzola"
          nc:link="developer_tools.xhtml#js_console"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="extensions_panel"
+         nc:name="panel rozšírenia"
+         nc:link="customize_help.xhtml#the_extensions_panel"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -766,11 +831,6 @@
      <rdf:li>
        <rdf:Description ID="import"
          nc:name="import"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="intermediate_server_CA_certificates"
-         nc:name="správa certifikátov autoritou"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -941,6 +1001,11 @@
        <rdf:Description ID="languages"
          nc:name="jazyky"
          nc:link="nav_help.xhtml#using_languages_and_international_content"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="languages_panel"
+         nc:name="panel jazyky"
+         nc:link="customize_help.xhtml#the_languages_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="LDAP"
@@ -1153,6 +1218,11 @@
          nc:link="mail_help.xhtml#searching_through_messages"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
+         nc:name="nastavenie siete pre poštu a diskusné skupiny"
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
          nc:name="nastavenie synchronizácie pre režim offline"
          nc:link="mail_help.xhtml#synchronization_and_storage"/>
@@ -1314,7 +1384,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="nastavenia režimu offline"
-         nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
+         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1655,11 +1725,6 @@
        <rdf:Description ID="profiles:renaming"
          nc:name="premenovanie profilu"
          nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="profiles:roaming"
-         nc:name="vzdialené profily"
-         nc:link="profiles_help.xhtml#roaming_profiles"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1742,11 +1807,6 @@
        <rdf:Description ID="security_devices"
          nc:name="bezpečnostné zariadenia"
          nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="server_certificate_problems"
-         nc:name="problémy s certifikátom servera"
-         nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings"
@@ -2001,6 +2061,11 @@
        <rdf:Description ID="themes"
          nc:name="témy"
          nc:link="customize_help.xhtml#changing_the_theme"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="themes_panel"
+         nc:name="panel témy"
+         nc:link="customize_help.xhtml#the_themes_panel"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="toolbar"

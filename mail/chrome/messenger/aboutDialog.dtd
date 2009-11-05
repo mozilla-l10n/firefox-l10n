@@ -1,17 +1,19 @@
 <!ENTITY aboutDialog.title      "O programe &brandFullName;">
-<!ENTITY credits.label          "Tvorcovia">
-<!ENTITY credits.accesskey      "T">
 <!ENTITY aboutButton.label      "&lt; Naspäť">
 <!ENTITY aboutButton.accesskey  "N">
 <!ENTITY aboutVersion           "verzia">
 <!ENTITY copyrightText          "&#169;1998-2009 Prispievatelia. Všetky práva vyhradené.  Mozilla Thunderbird a
                                 logá Thunderbird sú ochranné známky patriace Mozilla Foundation. Všetky práva
                                 vyhradené.">
-<!ENTITY aboutMenu.label        "Čo je">
-<!ENTITY aboutMenu.accesskey    "o">
+<!ENTITY aboutMenu.label        "O programe">
+<!ENTITY aboutMenu.accesskey    "O">
+<!ENTITY aboutCredits.label     "Tvorcovia">
+<!ENTITY aboutCredits.accesskey "T">
 <!ENTITY aboutRights.label      "Spoznajte vaše práva">
-<!ENTITY aboutRights.accesskey  "z">
+<!ENTITY aboutRights.accesskey  "S">
 <!ENTITY aboutContributors.label "Prispievatelia">
 <!ENTITY aboutContributors.accesskey "P">
+<!ENTITY aboutLicense.label      "Licencia">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -18,6 +18,13 @@
 <!ENTITY alwaysAsk.label                "Vždy sa opýtať, kam uložiť súbory">
 <!ENTITY alwaysAsk.accesskey            "k">
 
+<!ENTITY downloadRetention.label        "Uchovávanie prevzatých súborov">
+<!ENTITY removeDownloads.label          "Záznamy o preberaných súboroch odstraňovať:">
+<!ENTITY removeDownloads.accesskey      "r">
+<!ENTITY whenCompleted.label            "po ich prevzatí">
+<!ENTITY whenQuittingApp.label          "pri ukončení &brandShortName;">
+<!ENTITY neverRemove.label              "nikdy">
+
 <!ENTITY finishedBehavior.label         "Pri ukončení preberania">
 <!ENTITY playSound.label                "Prehrať zvuk">
 <!ENTITY playSound.accesskey            "h">

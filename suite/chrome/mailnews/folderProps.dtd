@@ -55,7 +55,7 @@
 <!ENTITY daysOld.label "dní">
 <!ENTITY message.label "správ">
 <!ENTITY retentionCleanup.label "Ponechať správy:">
-<!ENTITY retentionCleanupImap.label "Ponechať správy, a to ako lokálne kópie, tak aj ich orignály na serveri:">
+<!ENTITY retentionCleanupImap.label "Ponechať správy, a to ako lokálne kópie, tak aj ich originály na serveri:">
 <!ENTITY retentionCleanupPop.label "Ponechať správy, vrátane ich originálov na serveri:">
 <!ENTITY retentionDeleteMsg.label "Odstrániť správy staršie ako">
 <!ENTITY retentionDeleteMsg.accesskey "O">

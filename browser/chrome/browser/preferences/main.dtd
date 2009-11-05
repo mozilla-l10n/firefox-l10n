@@ -1,6 +1,6 @@
 <!ENTITY startup.label             "Spustenie">
 
-<!ENTITY startupPage.label         "Po spustení programu &brandShortName; zobraziť:">
+<!ENTITY startupPage.label         "Po spustení prehliadača &brandShortName; zobraziť:">
 <!ENTITY startupPage.accesskey     "u">
 <!ENTITY startupHomePage.label     "domovskú stránku">
 <!ENTITY startupBlankPage.label    "prázdnu stránku">

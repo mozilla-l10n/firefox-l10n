@@ -31,13 +31,9 @@
 <!ENTITY helperApp.save            "Uložiť">
 <!ENTITY helperApp.nothing         "Nič">
 
-<!ENTITY findOnCmd.label           "Hľadať na tejto stránke…">
-<!ENTITY findOnCmd.accesskey       "H">
-<!ENTITY findOnCmd.commandkey      "f">
-<!ENTITY findAgainCmd.label        "Hľadať znova">
-<!ENTITY findAgainCmd.accesskey    "d">
-<!ENTITY findAgainCmd.commandkey   "g">
-<!ENTITY findAgainCmd.commandkey2  "VK_F3">
+<!ENTITY formHelper.previous       "Predchádzajúca">
+<!ENTITY formHelper.next           "Ďalšia">
+<!ENTITY formHelper.done           "Hotovo">
 
 <!ENTITY addonsHeader.label        "Doplnky">
 <!ENTITY addonsLocal.label         "Vaše doplnky">
@@ -97,5 +93,3 @@
 <!ENTITY consoleErrFile.label      "Zdroj:">
 <!ENTITY consoleErrLine.label      "Riadok:">
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
-
-<!ENTITY selectListDone.label      "Hotovo">

@@ -12,13 +12,13 @@
 <!ENTITY replyTo.label "Kam odpovedať:">
 <!ENTITY replyTo.accesskey "K">
 <!ENTITY organization.label "Organizácia:">
-<!ENTITY organization.accesskey "c">
+<!ENTITY organization.accesskey "a">
 <!ENTITY signatureText.label "Podpis:">
-<!ENTITY signatureText.accesskey "d">
+<!ENTITY signatureText.accesskey "P">
 <!ENTITY signatureHtml.label "Použiť HTML (napr. &lt;b&gt;tučný text&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Pripájať podpis zo súboru (text, HTML alebo obrázok):">
-<!ENTITY signatureFile.accesskey "a">
+<!ENTITY signatureFile.accesskey "d">
 <!ENTITY edit.label "Upraviť…">
 <!ENTITY choose.label "Vybrať…">
 <!ENTITY choose.accesskey "b">

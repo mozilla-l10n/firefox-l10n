@@ -1,4 +1,4 @@
-<!ENTITY window.title "Filtre správ">
+<!ENTITY filterListDialog.title "Filtre správ">
 <!ENTITY nameColumn.label "Názov filtra">
 <!ENTITY activeColumn.label "Povolený">
 <!ENTITY newButton.label "Nový…">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "r">
 <!ENTITY choosethis.label "Zvoliť tento priečinok">
 <!ENTITY choosethisnewsserver.label "Zvoliť tento server diskusných skupín">
-<!ENTITY helpButton.label "Pomocník">
-<!ENTITY helpButton.accesskey "P">

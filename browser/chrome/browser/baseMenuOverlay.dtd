@@ -22,7 +22,7 @@
 <!ENTITY helpReleaseNotes.accesskey     "P">
 <!ENTITY helpReleaseNotes.label         "Poznámky k vydaniu">
 
-<!ENTITY helpTroubleshooting.label      "Informácie pre riešenie problémov…">
+<!ENTITY helpTroubleshooting.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshooting.accesskey  "n">
 
 <!ENTITY updateCmd.label                "Kontrola aktualizácií…">

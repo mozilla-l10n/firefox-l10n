@@ -24,9 +24,6 @@
 <ul>
   <li><a href="#creating_a_new_profile">Vytvorenie nového profilu</a></li>
   <li><a href="#deleting_or_renaming_a_profile">Odstránenie alebo premenovanie profilu</a></li>
-  <li><a href="#roaming_profiles">Vzdialený profil</a></li>
-  <li><a href="#roaming_prefs">Nastavenia vzdialených profilov</a></li>
-  <li><a href="#roaming_item_selection">Nastavenia vzdialených profilov - Voľba súčastí</a></li>
 </ul>
 </div>
 
@@ -72,72 +69,6 @@
     </ul>
     Ak chcete premenovať profil, označte jeho názov a kliknite na tlačidlo Premenovať profil.</li>
 </ol>
-
-<p>[<a href="#managing_profiles">Návrat na začiatok kapitoly</a>]</p>
-
-<h2 id="roaming_profiles">Vzdialený profil</h2>
-
-<p>Vzdialené profily vám umožnia ukladať váš profil a pridružené nastavenia na centrálny server či na zdieľané miesto. Výhodou je, že vaše nastavenia môžete jednoducho prenášať z jedného počítača na iný. Napríklad si prajete používať rovnaké nastavenia balíka &brandShortName; v práci aj doma. Chcete mať rovnaké záložky, kontakty a ďalšie nastavenia synchrónne, alebo chcete mať synchrónne nastavenia v práci na niekoľkých počítačoch.</p>
-
-<p>Vzdialené profily môžu byť ukladané na server HTTP alebo FTP. Budete potrebovať prístupové meno a heslo k tomuto serveru do priečinka, kam máte právo zapisovať. To vám zaistí, že budete môcť profil jednoducho ukladať a znova načítať. Ďalšou z možností je využiť možnosť kopírovať profil do lokálneho priečinka pomocou voľby Kopírovať súbory.</p>
-
-<p>Vždy predtým, ako začnete balík &brandShortName; používať, bude váš profil prevzatý a pri ukončení odoslaný späť na úložné miesto.</p>
-
-<p>[<a href="#managing_profiles">Návrat na začiatok kapitoly</a>]</p>
-
-<h2 id="roaming_prefs">Nastavenia vzdialených profilov</h2>
-
-<p>Táto sekcia popisuje, ako používať nastavenia funkcie Vzdialený profil. Ak chcete tieto nastavenia zobraziť, postupne nasledovne:</p>
-
-<ol>
-  <li>Otvorte ponuku <span class="mac">&brandShortName;</span> <span class="noMac">Upraviť</span> a kliknite na položku Možnosti.</li>
-  <li>Kliknite na kategóriu Vzdialený profil</li>
-  <li>Vzdialený profil pre aktuálne používaný profil aktivujete pomocou voľby <strong>Povoliť vzdialené uloženie profilu</strong>.</li>
-  <li>Zvoľte jednu z nasledujúcich možností:
-    <ul>
-      <li><strong>HTTP / FTP</strong>: Zvoľte, ak si prajete ukladať profil na server FTP alebo HTTP.
-        <ul>
-          <li><strong>Adresa URL</strong>: Zadajte adresu URL priečinka, kam chcete vzdialený profil ukladať. Adresa musí byť typu FTP, HTTP či HTTPS. Ukladanie cez protokol FTP je pravdepodobne najjednoduchší spôsob na domácich sieťach. V iných prípadoch, ako je prenos cez internet, je rázne odporúčané používať HTTPS, pretože inak by prenášané heslá a záložky mohli boli jednoducho čitateľné pre iné osoby.
-
-            <p><strong>Príklady</strong>:<br/>
-            <kbd>&lt;https://user@http-server/dir/&gt;</kbd><br/>
-            <kbd>&lt;ftp://user@ftp-server//home/user/dir/&gt;</kbd><br/>
-            <kbd>&lt;ftp://user@ftp-server/dir/&gt;</kbd></p>
-
-          </li>
-          <li><strong>Meno používateľa</strong>: zadajte používateľské meno, ktoré bude použité na prístup k serveru FTP alebo HTTP.</li>
-          <li><strong>Uložiť heslo</strong>: označením tejto možnosti umožníte uložiť heslo, ktoré zadáte.</li>
-          <li><strong>Heslo</strong>: zadajte heslo, ktoré máte pridelené k zadanému používateľskému menu.</li>
-        </ul>
-      </li>
-      <li><strong>Kopírovať súbory</strong>:
-      Zvoľte túto možnosť, ak si prajete kopírovať profil do lokálneho priečinka.
-        <ul>
-          <li>Kliknite na tlačidlo <strong>Prehľadávať</strong> a zvoľte priečinok, kam si bude profil kopírovaný a odkiaľ bude tiež preberaný.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ol>
-
-<p>[<a href="#managing_profiles">Návrat na začiatok kapitoly</a>]</p>
-
-<h2 id="roaming_item_selection">Nastavenia vzdialených profilov - Voľba súčastí</h2>
-
-<p>V predvolenom nastavení sú súčasťou vzdialeného profilu len záložky, cookies a kontakty. Ak sú všetky možnosti zašedlé, uistite sa, že máte funkciu Vzdialený profil zapnutú. Ak chcete povoliť či zakázať jednotlivé možnosti vzdialeného profilu, postupujte nasledujúcim spôsobom:</p>
-
-<ol>
-  <li>Otvorte ponuku <span class="mac">&brandShortName;</span> <span class="noMac">Upraviť</span> a kliknite na položku Možnosti.</li>
-  <li>V kategórii Vzdialený profil kliknite na podkategóriu Voľba súčastí. (Ak nevidíte žiadnu podkategóriu, dvojitým kliknutím na kategóriu Vzdialený profil zobrazíte ich zoznam.)</li>
-  <li>Zvoľte položky, ktoré chcete zahrnúť do vzdialeného profilu.</li>
-</ol>
-
-<p>Ak nemôžete zahrnúť lokálne priečinky s poštou z dôvodu, že sú príliš veľké, začnite používať na tieto účely IMAP.</p>
-
-<p><strong>Poznámka</strong>: Ak používate pomalé pripojenie, majte na pamäti, že niektoré súbory môžu byť veľké a môže sa tak predĺžiť čas spustenia programu. &brandShortName; bude pred spustením musieť prevziať všetky potrebné súbory na lokálny pevný disk a uložiť ich naspäť pri ukončení programu.</p>
-
-<p>Ďalšie informácie o nastavení funkcie Vzdialený profil nájdete v dokumente <a href="http://www.klomp.org/mod_roaming/">mod_roaming - Roaming Access module for Apache</a> [EN] alebo
-<a href="http://web.archive.org/web/20020207131101/http://help.netscape.com/products/client/communicator/manual_roaming2.html">Manually Implementing Roaming Access</a>. [EN]</p>
 
 <p>[<a href="#managing_profiles">Návrat na začiatok kapitoly</a>]</p>
 
