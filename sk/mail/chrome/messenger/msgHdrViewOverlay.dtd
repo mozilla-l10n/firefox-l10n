@@ -57,19 +57,41 @@
 
 <!ENTITY editMessageDescription.label "Toto je návrh správy">
 <!ENTITY editMessageButton.label "Upraviť…">
-<!ENTITY archiveButton.label "archivovať">
+<!ENTITY hdrArchiveButton.label "archivovať">
+<!ENTITY hdrArchiveButton.tooltip "archivovať túto správu">
 <!ENTITY hdrReplyButton.label "odpovedať">
+<!ENTITY hdrReplyButton.tooltip "odpovedať na túto správu">
 <!ENTITY hdrReplyAllButton.label "odpovedať všetkým">
+<!ENTITY hdrReplyAllButton.tooltip "odpovedať odosielateľovi a všetkým príjemcom">
 <!ENTITY hdrReplyListButton.label "odpovedať zoznamu">
+<!ENTITY hdrReplyListButton.tooltip "odpovedať do rozosielacieho zoznamu">
 <!ENTITY hdrForwardButton.label "odoslať ďalej">
+<!ENTITY hdrForwardButton.tooltip "odoslať túto správu ďalej">
 <!ENTITY hdrJunkButton.label "nevyžiadaná">
-<!ENTITY trashButton.tooltiptext "odstrániť">
+<!ENTITY hdrJunkButton.tooltip "označiť túto správu ako nevyžiadanú">
+<!ENTITY hdrTrashButton.label "odstrániť">
+<!ENTITY hdrTrashButton.tooltip "odstrániť túto správu">
+
+<!ENTITY hdrViewToolbarShowFull.label "Zobraziť ikony a text">
+<!ENTITY hdrViewToolbarShowFull.accesskey "Z">
+<!ENTITY hdrViewToolbarShowIcons.label "Zobraziť len ikony">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "k">
+<!ENTITY hdrViewToolbarShowText.label "Zobraziť len text">
+<!ENTITY hdrViewToolbarShowText.accesskey "x">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Vždy zobraziť tlačidlo Odpovedať">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "O">
 
 <!ENTITY otherActionsButton.label "ďalšie akcie">
+<!ENTITY otherActionsShowConversation.label "zobraziť ako konverzáciu">
+<!ENTITY otherActionsShowConversation.accesskey "b">
 <!ENTITY otherActionsOpenInNewWindow.label "otvoriť v novom okne">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "o">
 <!ENTITY otherActionsOpenInNewTab.label "otvoriť na novej karte">
 <!ENTITY otherActionsOpenInNewTab.accesskey "k">
+<!ENTITY markAsReadMenuItem.label "označiť ako prečítaná">
+<!ENTITY markAsReadMenuItem.accesskey "n">
+<!ENTITY markAsUnreadMenuItem.label "označiť ako neprečítaná">
+<!ENTITY markAsUnreadMenuItem.accesskey "n">
 <!ENTITY saveAsMenuItem.label "uložiť ako…">
 <!ENTITY saveAsMenuItem.accesskey "u">
 <!ENTITY viewSourceMenuItem.label "zobraziť zdrojový kód">

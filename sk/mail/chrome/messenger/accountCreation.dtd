@@ -71,6 +71,6 @@
 <!ENTITY insecureServer.tooltip.title    "Upozornenie! Toto je nezabezpečený server.">
 <!ENTITY insecureServer.tooltip.details  "Viac informácií získate po kliknutí na krúžok.">
 
-<!ENTITY insecureCleartext.description   "E-mailové správy sú odosielané ako čistý text, takže obsah správ môže byť prečítaný inými ľuďmi pripojenými k internetu. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia k poštovému serveru.">
+<!ENTITY insecureUnencrypted.description "Vaša e-mailová adresa a prihlasovacie údaje sú odosielané nezašifrované, takže heslo (a vaša správa) môžu byť jednoducho prečítané inými ľuďmi. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia k poštovému serveru.">
 <!ENTITY insecureSelfSigned.description  "Server používa certifikát, ktorému nemôžeme dôverovať, takže nemôžeme zaručiť, že niekto nesleduje údaje posielané medzi &brandShortName;om a serverom. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia s platným certifikátom poštového servera.">
 <!ENTITY secureServer.description        "Gratulujeme! Toto je zabezpečený server.">

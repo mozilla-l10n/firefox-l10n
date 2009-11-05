@@ -25,6 +25,11 @@
 <!ENTITY openHelpCmd.key                "VK_F1">
 <!ENTITY helpForIEUsers.label           "Pre používateľov Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey       "E">
+<!-- LOCALIZATION NOTE some localizations need to change the
+                       "Help" menu label on Windows -->
+<!ENTITY helpMenu.label                 "Pomocník"> 
+<!ENTITY helpMenu.accesskey             "P">
+
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl">

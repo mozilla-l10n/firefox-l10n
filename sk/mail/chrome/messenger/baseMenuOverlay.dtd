@@ -9,6 +9,8 @@
 <!ENTITY releaseCmd.accesskey "P">
 <!ENTITY whatsNewCmd.label "Čo je nové?">
 <!ENTITY whatsNewCmd.accesskey "n">
+<!ENTITY featureConfiguratorCmd.label "Asistent pri prechode na novú verziu">
+<!ENTITY featureConfiguratorCmd.accesskey "s">
 <!ENTITY openHelp.label "Obsah pomocníka">
 <!ENTITY openHelp.accesskey "O">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -17,5 +19,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "Kontrola aktualizácií…">
-<!ENTITY aboutCmd.label "O programe &brandFullName;">
-<!ENTITY aboutCmd.accesskey "m">
+<!ENTITY aboutMenuCmd.label "O programe &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "m">

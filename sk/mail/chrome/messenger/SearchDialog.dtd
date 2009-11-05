@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label            "Uložiť">
 <!ENTITY fileButton.accesskey        "U">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Otvoriť priečinok správy">
-<!ENTITY goToFolderButton.accesskey  "O">
+<!ENTITY openInFolder.label          "Otvoriť v priečinku">
+<!ENTITY openInFolder.accesskey      "O">
 <!ENTITY saveAsVFButton.label        "Uložiť ako priečinok hľadania">
 <!ENTITY saveAsVFButton.accesskey    "k">
 

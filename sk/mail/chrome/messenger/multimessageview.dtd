@@ -1,3 +1,4 @@
 <!ENTITY window.title             "Súhrn správy">
 <!ENTITY selectedmessages.label   "Označené správy">
 <!ENTITY archive.label            "archivovať">
+<!ENTITY delete.label             "odstrániť">

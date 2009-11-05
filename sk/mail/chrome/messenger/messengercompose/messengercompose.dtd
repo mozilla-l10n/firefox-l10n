@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "m">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Odstrániť">
 <!ENTITY delete.accesskey "d">
+<!ENTITY removeAttachment.label "Odstrániť prílohu">
+<!ENTITY removeAttachment.accesskey "d">
 <!ENTITY renameAttachment.label "Premenovať…">
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY selectAll.label "Vybrať všetko">

@@ -166,7 +166,7 @@
 <!ENTITY historyCmd.accesskey       "H">
 <!ENTITY history.commandKey         "H">
 
-<!ENTITY popupIcon.tooltiptext      "Zrušiť blokovanie vyskakovacíck okien tejto stránky">
+<!ENTITY popupIcon.tooltiptext      "Zrušiť blokovanie vyskakovacích okien tejto stránky">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
