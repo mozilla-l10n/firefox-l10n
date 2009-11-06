@@ -1,8 +1,8 @@
 <!ENTITY welcome.title "Добро пожаловать в &brandShortName;">
-<!ENTITY overview.description "Sync your PC and mobile with Weave. Customize with add-ons. Surf with the Awesome Bar and much, much, much more.">
-<!ENTITY sync.title "Get Up and Go">
-<!ENTITY sync.description "Get Weave to help break in your &brandShortName;. Share your preferences, bookmarks, browsing history, and more between your PC and mobile.">
+<!ENTITY overview.description "Синхронизируйте свой персональный и мобильный компьютеры при помощи Weave. Настройте свою работу с помощью дополнений. Сёрфите, используя умную адресную строку, и многое, многое другое.">
+<!ENTITY sync.title "Встань и иди">
+<!ENTITY sync.description "Загрузите Weave, чтобы достучаться до своего &brandShortName;. Просматривайте и используйте свои настройки, закладки, журнал посещений и многое другое, как с персонального, так и с мобильного компьютера.">
 <!ENTITY sync.linkLabel "Загрузить дополнение Weave">
-<!ENTITY getPersonal.title "Get Personal">
-<!ENTITY getPersonal.description "Make &brandShortName; your own. Customize the first ever browser to offer add-ons for mobile.">
-<!ENTITY getPersonal.linkLabel "Получить дополнения для своего мобильного">
+<!ENTITY getPersonal.title "Найди свой стиль">
+<!ENTITY getPersonal.description "Сделайте &brandShortName; своим браузером. Настройте под себя первый браузер для мобильных устройств, предлагающий дополнения.">
+<!ENTITY getPersonal.linkLabel "Загрузить дополнения для своего мобильного">
