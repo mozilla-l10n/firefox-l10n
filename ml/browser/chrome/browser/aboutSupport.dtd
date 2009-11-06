@@ -1,0 +1,35 @@
+<!ENTITY aboutSupport.pageTitle "ട്രബിള്‍ഷൂട്ടിങ് വിവരങ്ങള്‍">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  പ്രശ്നങ്ങള്‍ പരിഹരിക്കുന്നതിനു് സഹായിക്കുന്ന സാങ്കേതിക വിവരങ്ങള്‍ ഈ താളില്‍ ലഭ്യമാണു്. &brandShortName; പറ്റിയുള്ള സാധാരണ ചോദ്യങ്ങള്‍ക്കുള്ള ഉത്തരം <a id='supportLink'>സപ്പോര്‍ട്ട് വെബ് സൈറ്റില്‍</a> ലഭ്യമാണു്.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "എക്സ്റ്റെന്‍ഷനുകള്‍">
+<!ENTITY aboutSupport.extensionName "പേരു്">
+<!ENTITY aboutSupport.extensionEnabled "സജ്ജം">
+<!ENTITY aboutSupport.extensionVersion "പതിപ്പു്">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "ആപ്ലിക്കേഷന്‍ ബേസിക്ക്സ്">
+<!ENTITY aboutSupport.appBasicsName "പേരു്">
+<!ENTITY aboutSupport.appBasicsVersion "പതിപ്പു്">
+<!ENTITY aboutSupport.appBasicsProfileDir "പ്രൊഫൈല്‍ ഡയറക്ടറി">
+<!ENTITY aboutSupport.appBasicsPlugins "ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന പ്ലഗിനുകള്‍">
+<!ENTITY aboutSupport.appBasicsBuildConfig "ബിള്‍ഡ് ക്രമീകരണം">
+
+<!ENTITY aboutSupport.show.label "ലഭ്യമായ ഫോള്‍ഡര്‍ തുറക്കുക">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "ഫൈന്‍ഡറില്‍ കാണിക്കുക">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "മാറ്റം വരുത്തിയ മുന്‍ഗണനകള്‍">
+<!ENTITY aboutSupport.modifiedPrefsName "പേരു്">
+<!ENTITY aboutSupport.modifiedPrefsValue "മൂല്ല്യം">
+
+<!ENTITY aboutSupport.installationHistoryTitle "ഇന്‍സ്റ്റലേഷന്‍ നാള്‍വഴി">
+<!ENTITY aboutSupport.updateHistoryTitle "പരിഷ്കരണ നാള്‍വഴി">
+
+<!ENTITY aboutSupport.copyToClipboard.label "എല്ലാം ക്ലിപ്പ്ബോര്‍ഡിലേക്ക് പകര്‍ത്തുക">
