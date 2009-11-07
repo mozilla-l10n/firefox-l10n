@@ -160,10 +160,10 @@
 <!ENTITY showMessengerToolbarCmd.accesskey	"e">
  
 <!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"Verktøylinje for søke">
+<!ENTITY showSearchToolbarCmd.label		"Verktøylinje for søking">
 <!ENTITY showSearchToolbarCmd.accesskey	"s">
 
-<!ENTITY showLocationToolbarCmd.label ".Adresselinje">
+<!ENTITY showLocationToolbarCmd.label "Adresselinje">
 <!ENTITY showLocationToolbarCmd.accesskey "A">
 
 <!ENTITY messagePaneLayoutStyle.label "Utseende">
@@ -589,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectAndFrom.emptytext "Søk i emne og fra">
+<!ENTITY searchSubjectOrAddress.emptytext "Søk i emne eller adresse">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
 

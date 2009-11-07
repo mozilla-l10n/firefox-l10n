@@ -7,7 +7,7 @@
 <!ENTITY inline.label                         "Innbundet">
 <!ENTITY asAttachment.label                   "Som vedlegg">
 <!ENTITY addExtension.label                   "Legg til etternavn på filnavnet">
-<!ENTITY addExtension.accesskey               "e">
+<!ENTITY addExtension.accesskey               "L">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Skrifttype:">
@@ -22,23 +22,23 @@
 <!ENTITY restoreHTMLDefaults.accesskey        "d">
 
 <!ENTITY spellCheck.label                     "Stavekontroller før meldinger sendes">
-<!ENTITY spellCheck.accesskey                 "U">
+<!ENTITY spellCheck.accesskey                 "S">
 <!ENTITY spellCheckInline.label               "Stavekontroller mens meldinger skrives">
-<!ENTITY spellCheckInline1.accesskey          "K">
+<!ENTITY spellCheckInline1.accesskey          "a">
 <!ENTITY languagePopup.label                  "Språk:">
-<!ENTITY languagePopup.accessKey              "S">
+<!ENTITY languagePopup.accessKey              "k">
 <!ENTITY downloadDictionaries.label           "Last ned flere ordbøker">
 
 <!ENTITY warnOnSendAccelKey.label             "Bekreft når tastatursnarvei brukes for å sende meldinger">
-<!ENTITY warnOnSendAccelKey.accesskey         "k">
+<!ENTITY warnOnSendAccelKey.accesskey         "e">
 <!ENTITY autoSave.label                       "Lagre meldinger automatisk hvert">
-<!ENTITY autoSave.accesskey                   "L">
+<!ENTITY autoSave.accesskey                   "a">
 <!ENTITY autoSaveEnd.label                    "minutt">
 
 <!ENTITY emailCollectionPicker.label           "Automatisk legg til adresser fra utgående e-post i:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Automatisk fullføring av adresser">
-<!ENTITY autocompleteText.label                "Ved adressering av meldinger, se etter tilsvarende adresser i">
+<!ENTITY autocompleteText.label                "Ved adressering av meldinger, søk etter treff i:">
 <!ENTITY addressingEnable.label                "Lokale adressebøker">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Katalogtjener:">

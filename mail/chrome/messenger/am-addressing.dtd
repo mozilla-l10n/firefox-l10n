@@ -31,7 +31,7 @@
 <!ENTITY place.accesskey                      "P">
 <!ENTITY belowText.label                      "Under sitert tekst (anbefalt)">
 <!ENTITY aboveText.label                      "Under svaret mitt (over sitert tekst)">
-<!ENTITY includeSigOnReply.label              "Legg til signaturen min i svar på meldinger">
+<!ENTITY includeSigOnReply.label              "Legg ved signaturen min i svar på meldinger">
 <!ENTITY includeSigOnReply.accesskey          "e">
-<!ENTITY includeSigOnForward.label            "Legg til signaturen min i videresendte meldinger">
+<!ENTITY includeSigOnForward.label            "Legg ved signaturen min i videresendte meldinger">
 <!ENTITY includeSigOnForward.accesskey        "s">

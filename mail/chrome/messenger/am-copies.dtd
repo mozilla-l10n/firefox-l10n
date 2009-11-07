@@ -4,7 +4,7 @@
 <!ENTITY sendingPrefix.label "Når meldinger sendes: ">
 <!ENTITY fccMailFolder.label "Lagre en kopi i:">
 <!ENTITY fccMailFolder.accesskey "g">
-<!ENTITY fccReplyFollowsParent.label "Legg svar i samme mappe som meldingen som blir besvart">
+<!ENTITY fccReplyFollowsParent.label "Legg svaret i samme mappe som meldinger som blir besvart">
 <!ENTITY fccReplyFollowsParent.accesskey "v">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Send BCC til disse e-postadressene:">

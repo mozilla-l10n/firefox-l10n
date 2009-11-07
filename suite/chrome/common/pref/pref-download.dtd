@@ -18,6 +18,13 @@
 <!ENTITY alwaysAsk.label                "Spør meg alltid om hvor filer skal lagres">
 <!ENTITY alwaysAsk.accesskey            "S">
 
+<!ENTITY downloadRetention.label        "Historikk for nedlastinger">
+<!ENTITY removeDownloads.label          "Fjern nedlastinger">
+<!ENTITY removeDownloads.accesskey      "F">
+<!ENTITY whenCompleted.label            "Når de er fullført">
+<!ENTITY whenQuittingApp.label          "Ved avslutning av &brandShortName;">
+<!ENTITY neverRemove.label              "Aldri">
+
 <!ENTITY finishedBehavior.label         "Når en nedlasting fullfører">
 <!ENTITY playSound.label                "Spill av en lyd">
 <!ENTITY playSound.accesskey            "S">

@@ -56,8 +56,8 @@
 <!ENTITY PlainTexttitle.label         "Tekstdomener">
 <!ENTITY PlainTexttitle.accesskey     "k">
 <!ENTITY AddButton.label              "Legg til …">
-<!ENTITY AddHtmlDomain.accesskey      "a">
-<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY AddHtmlDomain.accesskey      "L">
+<!ENTITY AddPlainText.accesskey       "e">
 <!ENTITY DeleteButton.label           "Slett">
 <!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.accesskey    "t">

@@ -19,9 +19,9 @@
 <!ENTITY colors.label                     "Farger">
 <!ENTITY overrideColors.label             "Bruk følgende farger når meldinger vises:">
 <!ENTITY textColor.label                  "Tekstfarge:">
-<!ENTITY textColor.accesskey              "T">
+<!ENTITY textColor.accesskey              "e">
 <!ENTITY backgroundColor.label            "Bakgrunnsfarge:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY backgroundColor.accesskey        "B">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Vis smileansikter som bilder">
