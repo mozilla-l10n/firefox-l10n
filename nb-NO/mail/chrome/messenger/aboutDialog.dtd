@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title      "Om &brandFullName;">
-<!ENTITY credits.label          "Bidragsytere">
-<!ENTITY credits.accesskey      "B">
 <!ENTITY aboutButton.label      "&lt; Tilbake">
 <!ENTITY aboutButton.accesskey  "T">
 <!ENTITY aboutVersion           "versjon">
@@ -9,9 +7,13 @@
                                  rettigheter forbeholdt.">
 <!ENTITY aboutMenu.label        "Om">
 <!ENTITY aboutMenu.accesskey    "O">
+<!ENTITY aboutCredits.label     "Bidragsytere">
+<!ENTITY aboutCredits.accesskey "B">
 <!ENTITY aboutRights.label      "Dine rettigheter">
 <!ENTITY aboutRights.accesskey  "D">
 <!ENTITY aboutContributors.label "Bidragsytere">
 <!ENTITY aboutContributors.accesskey "B">
+<!ENTITY aboutLicense.label      "Lisens">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

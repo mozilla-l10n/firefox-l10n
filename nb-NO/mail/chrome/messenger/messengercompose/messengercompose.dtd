@@ -66,8 +66,9 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
-<!ENTITY editRewrapCmd.key "T">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "B">
 <!ENTITY deleteCmd.label "Slett">
 <!ENTITY deleteCmd.accesskey "S">
@@ -150,9 +151,9 @@
 <!ENTITY highPriorityCmd.accesskey "H">
 <!ENTITY highestPriorityCmd.label "Høyest">
 <!ENTITY highestPriorityCmd.accesskey "H">
-<!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
+<!ENTITY fileCarbonCopyCmd.label "Lagre en kopi i">
 <!ENTITY fileCarbonCopyCmd.accesskey "k">
-<!ENTITY fileHereMenu.label "Arkiver her">
+<!ENTITY fileHereMenu.label "Lagre her">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY delete.label "Slett">
 <!ENTITY delete.accesskey "S">
+<!ENTITY removeAttachment.label "Fjern vedlegg">
+<!ENTITY removeAttachment.accesskey "v">
 <!ENTITY renameAttachment.label "Endre navn …">
 <!ENTITY renameAttachment.accesskey "E">
 <!ENTITY selectAll.label "Merk alt">

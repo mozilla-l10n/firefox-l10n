@@ -6,12 +6,12 @@
 <!ENTITY requestReceipt.label         "Alltid be om kvittering">
 <!ENTITY requestReceipt.accesskey     "A">
 <!ENTITY receiptArrive.label          "Når en kvittering ankommer:">
-<!ENTITY leaveIt.label                "La den være i Innboksen">
+<!ENTITY leaveIt.label                "La den ligge i innboksen">
 <!ENTITY leaveIt.accesskey            "L">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Flytt til «Sendt»-mappen">
+<!ENTITY moveToSent.label             "Flytt den til «Sendt»-mappen">
 <!ENTITY moveToSent.accesskey         "F">
-<!ENTITY requestMDN.label             "Når jeg mottar en forespørsel for returkvittering:">
+<!ENTITY requestMDN.label             "Når jeg mottar en forespørsel om returkvittering:">
 <!ENTITY returnSome.label             "Tillat for noen meldinger">
 <!ENTITY returnSome.accesskey         "T">
 <!ENTITY never.label                  "Aldri send">

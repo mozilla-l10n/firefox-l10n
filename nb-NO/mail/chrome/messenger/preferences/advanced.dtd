@@ -94,7 +94,7 @@
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Når en tjener spør etter mitt personlige sertifikat:">
 <!ENTITY certs.auto                      "Velg ett automatisk">
-<!ENTITY certs.auto.accesskey            "V">
+<!ENTITY certs.auto.accesskey            "e">
 <!ENTITY certs.ask                       "Spør meg hver gang">
 <!ENTITY certs.ask.accesskey             "S">
 

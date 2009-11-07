@@ -29,17 +29,17 @@
 <!ENTITY useDownloadedList.accesskey "B">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; kan huske passordinformasjon for alle kontoene dine, slik at du ikke trenger å skrive inn innloggingsdetaljene flere ganger.">
+<!ENTITY savedPasswords.intro           "&brandShortName; kan huske passordene for alle kontoene dine.">
 <!ENTITY useMasterPassword.label        "Bruk et hovedpassord">
 <!ENTITY useMasterPassword.accesskey    "B">
-<!ENTITY masterPassword.intro           "Et hovedpassord kan beskytte alle passordene dine, men du må skrive det inn en gang for hver programøkt.">
+<!ENTITY masterPassword.intro           "Du kan bruke et hovedpassord for å beskytte alle passordene dine, men da må du skrive inn passordet en gang for hver programøkt.">
 <!ENTITY changeMasterPassword.label     "Endre hovedpassord …">
 <!ENTITY changeMasterPassword.accesskey "E">
 <!ENTITY savedPasswords.label           "Lagrede passord …">
 <!ENTITY savedPasswords.accesskey       "L">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; kan gjøre det enkelt for antivirus-programmer å analysere e-post som blir lastet ned for virus før de blir lagret.">
+<!ENTITY antiVirus.intro      "&brandShortName; kan gjøre det enkelt for antivirus-programmer å analysere e-post du laster ned for virus før de lagres.">
 <!ENTITY antiVirus.label      "Tillat antivirus-programmer å sette innkommende meldinger i karantene">
 <!ENTITY antiVirus.accesskey  "T">
 
@@ -50,7 +50,7 @@
 <!ENTITY keepUntil.label                "Behold inntil:">
 <!ENTITY keepUntil.accesskey            "B">
 <!ENTITY expire.label                   "de utgår på dato">
-<!ENTITY close.label                    "Jeg lukker &brandShortName;">
+<!ENTITY close.label                    "jeg lukker &brandShortName;">
 <!ENTITY askEachTime.label              "spør meg hver gang">
 <!ENTITY cookieExceptions.label         "Unntak …">
 <!ENTITY cookieExceptions.accesskey     "U">

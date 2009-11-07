@@ -1,31 +1,34 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikke last ned:">
-<!ENTITY doNotDownload.label "For å spare diskplass, ikke last ned for frakoblet bruk:">
-<!ENTITY allFoldersOffline.label "Behold meldinger i denne kontoen på datamaskinen">
+<!ENTITY doNotDownloadNntp.label "For å spare diskplass, ikke last ned for frakoblet bruk:">
+<!ENTITY doNotDownloadImap.label "For å spare diskplass kan nedlasting av meldinger fra tjeneren og oppbevaring av lokale kopier for frakoblet bruk begrenses til en bestemt alder eller størrelse.">
+<!ENTITY allFoldersOffline.label "Behold meldinger for denne kontoen på datamaskinen">
 <!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY offlineNotDownload.label "Meldinger større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "Ikke last ned meldinger større enn">
+<!ENTITY autosyncNotDownload.accesskey "k">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "dager gammel">
-<!ENTITY message.label "meldinger">
+<!ENTITY daysOld.label "dager">
+<!ENTITY message.label "meldingene">
 <!ENTITY nntpNotDownloadRead.label "Leste meldinger">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
-<!ENTITY nntpDownloadMsg.label "Meldinger mer enn">
-<!ENTITY nntpDownloadMsg.accesskey "L">
-<!ENTITY retentionCleanup.label "For å frigi diskplass kan gamle meldinger slettes">
-<!ENTITY retentionCleanupImap.label "For å frigi diskplass kan gamle meldinger slettes, både lokale kopier og originalene på e-posttjeneren.">
-<!ENTITY retentionCleanupPop.label "For å frigi diskplass kan gamle meldinger slettes, inkludert originalene som ligger på e-posttjeneren.">
-<!ENTITY retentionKeepMsg.label "Slett meldinger mer enn">
-<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY nntpDownloadMsg.label "Meldinger eldre enn">
+<!ENTITY nntpDownloadMsg.accesskey "M">
+<!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldinger bli permanent slettet">
+<!ENTITY retentionCleanupImap.label "For å spare diskplass kan gamle meldinger slettes permanent, både lokale kopier og originalene på e-posttjeneren.">
+<!ENTITY retentionCleanupPop.label "For å spare diskplass kan gamle meldinger slettes permanent, også originaler som ligger lagret på e-posttjeneren.">
+<!ENTITY retentionKeepMsg.label "Slett meldinger eldre enn">
+<!ENTITY retentionKeepMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
-<!ENTITY retentionKeepAll.accesskey "k">
-<!ENTITY retentionKeepRecent.label "Slett alle bortsett fra de nyeste">
-<!ENTITY retentionKeepRecent.accesskey "a">
+<!ENTITY retentionKeepAll.accesskey "I">
+<!ENTITY retentionKeepRecent.label "Slett alle med unntak av de nyeste">
+<!ENTITY retentionKeepRecent.accesskey "u">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillingene)">
-<!ENTITY retentionApplyToFlagged.label "Alltid behold flaggede meldinger">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveMsgBody.label "Fjern meldingstekster fra meldinger eldre enn">
-<!ENTITY nntpRemoveMsgBody.accesskey "k">
+<!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillinger)">
+<!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med stjerne">
+<!ENTITY retentionApplyToFlagged.accesskey "d">
+<!ENTITY nntpRemoveMsgBody.label "Fjern innhold fra meldinger eldre enn">
+<!ENTITY nntpRemoveMsgBody.accesskey "m">
 <!ENTITY offlineSelectNntp.label "Velg nyhetsgrupper som skal leses frakoblet">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Avansert …">
@@ -33,17 +36,19 @@
 <!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY useAutosyncBefore.label         "">
-<!ENTITY useAutosyncMiddle.label         "">
-<!ENTITY allInterval.label               "Alle">
-<!ENTITY dayInterval.label               "Dager med">
-<!ENTITY weekInterval.label              "Uker med">
-<!ENTITY monthInterval.label             "Måneder med">
-<!ENTITY yearInterval.label              "År med">
-<!ENTITY useAutosyncAfter.label          "e-post lagres på disken">
+<!ENTITY allAutosync.label               "Synkroniser alle meldinger lokalt uansett alder">
+<!ENTITY allAutosync.accesskey           "n">
+<!ENTITY ageAutosyncBefore.label         "Synkroniser med de nyeste">
+<!ENTITY ageAutosync.accesskey           "k">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dager">
+<!ENTITY weekAgeInterval.label           "Uker">
+<!ENTITY monthAgeInterval.label          "Måneder">
+<!ENTITY yearAgeInterval.label           "År">
+<!ENTITY ageAutosyncAfter.label          "">

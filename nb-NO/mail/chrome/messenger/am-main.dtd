@@ -2,7 +2,7 @@
 
 <!ENTITY accountTitle.label "Kontoinnstillinger">
 <!ENTITY accountName.label "Kontonavn:">
-<!ENTITY accountName.accesskey "K">
+<!ENTITY accountName.accesskey "t">
 <!ENTITY identityTitle.label "Standard identitet">
 <!ENTITY identityDesc.label "Hver konto kan ha sin egen identitet, som er den informasjonen andre personer ser når de leser meldinger du har sendt.">
 <!ENTITY name.label "Navn:">

@@ -16,16 +16,16 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Se etter nye meldinger hvert">
-<!ENTITY biffStart.accesskey "r">
+<!ENTITY biffStart.accesskey "e">
 <!ENTITY biffEnd.label "minutt">
 <!ENTITY connectionSecurity.label "Tilkoblingssikkerhet:">
-<!ENTITY connectionSecurity.accesskey "T">
+<!ENTITY connectionSecurity.accesskey "o">
 <!ENTITY connectionSecurityType-0.label "Ingen">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, dersom tilgjengelig">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Bruk sikker autentisering">
-<!ENTITY useSecAuth.accesskey "A">
+<!ENTITY useSecAuth.accesskey "r">
 <!ENTITY leaveOnServer.label "La meldinger ligge på tjeneren">
 <!ENTITY leaveOnServer.accesskey "m">
 <!ENTITY headersOnly.label "Hent bare meldingshoder">
@@ -34,9 +34,9 @@
 <!ENTITY deleteByAgeFromServer.accesskey "I">
 <!ENTITY daysEnd.label "dager gamle">
 <!ENTITY deleteOnServer2.label "Inntil jeg sletter dem">
-<!ENTITY deleteOnServer2.accesskey "n">
+<!ENTITY deleteOnServer2.accesskey "t">
 <!ENTITY downloadOnBiff.label "Last ned nye meldinger automatisk">
-<!ENTITY downloadOnBiff.accesskey "n">
+<!ENTITY downloadOnBiff.accesskey "d">
 <!ENTITY username.label "Innloggingsnavn">
 <!ENTITY deleteMessagePrefix.label "Når jeg sletter en melding:">
 <!ENTITY modelMoveToTrash.label "Flytt den til Søppelkasse-mappen">
@@ -51,7 +51,7 @@
 <!ENTITY emptyTrashOnExit.label "Tøm søppelkassen ved avslutning">
 <!ENTITY emptyTrashOnExit.accesskey "ø">
 <!ENTITY loginAtStartup.label "Se etter nye meldinger ved oppstart">
-<!ENTITY loginAtStartup.accesskey "e">
+<!ENTITY loginAtStartup.accesskey "S">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
