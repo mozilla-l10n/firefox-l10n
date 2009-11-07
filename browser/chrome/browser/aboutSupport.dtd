@@ -4,10 +4,8 @@
 <!ENTITY aboutSupport.pageSubtitle "
   Questa pagina cuntegna infurmaziuns tecnicas che pudessan esser nizzaivlas, 
   sche ti emprovas da schliar in problem. Sche ti tschertgas rispostas a dumondas 
-  frequentas davart &brandShortName;, visita per plaschair nossa 
-  <a id='supportLink'>pagina d'agid</a>.
+  frequentas davart &brandShortName;, visita per plaschair nossa <a id='supportLink'>pagina d'agid</a>.
 ">
-
 
 <!ENTITY aboutSupport.extensionsTitle "Extensiuns">
 <!ENTITY aboutSupport.extensionName "Num">
@@ -21,6 +19,13 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Ordinatur dal profil">
 <!ENTITY aboutSupport.appBasicsPlugins "Plug-ins installads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
+
+<!ENTITY aboutSupport.show.label "Avrir l'ordinatur cuntegnend">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Mussar en il finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferenzas modifitgadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Num">
