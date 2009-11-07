@@ -6,6 +6,10 @@
 <!ENTITY  checking.title                  "இற்​றைப்படுத்துதல்களுக்காக சரிபார்க்கப்படுகின்றது">
 <!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
 
+<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
+<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
+<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+
 <!ENTITY  noupdatesfound.title            "எந்தவொரு இற்​றைப்படுத்துதல்களும் காணப்படவில்லை">
 <!ENTITY  noupdatesautoenabled.intro      "எந்தவொரு இற்​றைப்படுத்துதல்களும் கிடைக்கக்கூடியதாக இல்லை.&brandShortName; இற்​றைப்படுத்துதல்களுக்காக குறித்த காலத்துக்கொருமுறை சரிபார்க்கும்.">
 <!ENTITY  noupdatesautodisabled.intro     "எந்தவொரு இற்​றைப்படுத்துதல்களும் கிடைக்கக்கூடியதாக இல்லை. தயவுசெய்து சிறிது காலந்தாழ்த்தி மீண்டும் சரிபார்க்கவும் அல்லது &brandShortName; இனுடைய தன்னியக்க இற்​றைப்படுத்துதல் சரிபார்ப்பை இயலுமைப்படுத்தவும்.">
