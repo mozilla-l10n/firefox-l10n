@@ -45,8 +45,8 @@
 <!ENTITY minSize.label "Найменшы памер шрыфту:">
 <!ENTITY minSize.accesskey "м">
 <!ENTITY minSize.none "Няма">
-<!ENTITY useDefaultFontSerif.label "З засечкамі">
-<!ENTITY useDefaultFontSansSerif.label "Без засечак">
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 <!ENTITY fontControl.label "Кіраванне шрыфтамі:">
 <!ENTITY useFixedWidthForPlainText.label "Ужываць шрыфт з нязменнай шырынёй для простатэкставых лістоў">
 <!ENTITY fixedWidth.accesskey "н">

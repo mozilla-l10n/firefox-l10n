@@ -6,8 +6,6 @@
 <!ENTITY searchLocalSystem.accesskey "м">
 <!ENTITY resetButton.label "Ачысціць">
 <!ENTITY resetButton.accesskey "ч">
-<!ENTITY helpButton.label "Даведка">
-<!ENTITY helpButton.accesskey "Д">
 <!ENTITY openButton.label "Адчыніць">
 <!ENTITY openButton.accesskey "А">
 <!ENTITY deleteButton.label "Выдаліць">
