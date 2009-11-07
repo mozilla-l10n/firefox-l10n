@@ -15,15 +15,6 @@
 
   &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
 -->
-<!ENTITY  rememberDaysBefore.label      "ஆகக்குறைந்தது">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label       "நாட்கள் எனது வரலாறை பேணுக.">
-
-<!ENTITY  rememberForms.label           "நான் படிவம் மற்றும் தேடல் பட்டையில் எழுதுவதை நினைவு வைத்திருக்கவும்">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "நான் பதிவிறக்கம் செய்ததை நினைவு வைத்திருக்கவும்">
-<!ENTITY  rememberDownloads.accesskey   "d">
 
 <!ENTITY  rememberActions.clearHistory.label  "உங்களுடைய அண்மைக்கால வரலாற்றினைத்தூய்மைப்படுத்துக">
 <!ENTITY  rememberActions.middle.label        ", or ">
@@ -38,8 +29,6 @@
 <!ENTITY  rememberHistory.pre.label      " ஆவது எனது உலாவல் வரலாற்றினை ஞாபகத்தில் வைக்கவும்">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  rememberSearchForm.label       "தேடல் மற்றும் படிவ வரலாற்றினை ஞாபகத்தில் வைத்துக்கொள்ளவும்">
-
-<!ENTITY  cookies.label                 "குக்கீஸ்">
 
 <!ENTITY  acceptCookies.label           "பக்கங்களிலிருந்து cookies ஐ அனுமதிக்கவும்">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -60,25 +49,14 @@
 <!ENTITY  showCookies.label             "Cookies…ஐ நோக்குக">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  privateData.label             "தனிப்பட்ட தரவு">
 <!ENTITY  privateBrowsingAutoStart.accesskey "A">
 <!ENTITY  privateBrowsingAutoStart.label "தனிப்பட்ட உலாவல் அமர்வுகளில் &brandShortName; தானாக ஆரம்பிக்கும்">
-
-<!ENTITY  alwaysClear.label              "நான் &brandShortName; ஐ மூடும்போது என் தனிப்பட்ட தரவை நீக்குக">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-<!ENTITY  clearDataSettings.label        "அமைவுகள்…">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  clearOnClose.label             "&brandShortName;ஐ மூடும் பொழுது வரவாற்றைத் தூய்மைப்படுத்துக">
 <!ENTITY  clearOnClose.accesskey         "w">
 
 <!ENTITY  clearOnCloseSettings.label     "அமைப்புக்கள்…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  clearDataNow.label             "நீக்குக">
-<!ENTITY  clearDataNow.accesskey         "N">
 
 <!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாறு யாவற்றையும் தூய்மைப்படுத்துக">
 <!ENTITY  dontrememberActions.post.label         ".">

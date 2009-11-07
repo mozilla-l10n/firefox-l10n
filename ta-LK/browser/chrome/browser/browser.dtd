@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவல்)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 
 <!ENTITY tabCmd.label "புதிய தத்தல்">
@@ -35,6 +33,8 @@
 <!ENTITY goOfflineCmd.label "இணைப்பில்லாநிலையில் ​வேலை செய்க">
 <!ENTITY goOfflineCmd.accesskey "w">
 
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "வழிச்செலுத்தும் கருவிப்பட்டை">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "புத்தகக்குறிகள் கருவிப்பட்டை">
@@ -51,10 +51,12 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
 <!ENTITY fullScreenCmd.accesskey "F">
-
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY fullScreenMinimize.tooltip "சிறிதாக்குக">
 <!ENTITY fullScreenRestore.tooltip "மீ-அமைக்க">
 <!ENTITY fullScreenClose.tooltip "மூடு">
+<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenAutohide.label "கருவிப்பட்டைகளை மறைக்க">
 <!ENTITY fullScreenAutohide.accesskey "H">
@@ -89,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "இப்பக்கத்தை ஏற்றுவதை நிறுத்துக">
 <!ENTITY goEndCap.tooltip             "முகவரிப்பட்டையிலுள்ள முகவரிக்கு ‎செல்க">
+<!ENTITY feedButton.tooltip           "Subscribe to this page…">
 <!ENTITY printButton.label            "அச்சிடுக">
 <!ENTITY printButton.tooltip          "இப்பக்கத்தை அச்சிடுக">
 
@@ -102,9 +105,13 @@
 
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksButton.tooltip        "புத்தகக்குறிகளை நோக்குக">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "வரலாறு">
 <!ENTITY historyButton.tooltip          "அண்மையில் பார்க்கப்பட்ட பக்கங்களை காண்பிக்க">
@@ -197,7 +204,6 @@
 
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "புத்தகக்குறிகளையும் வரலாறையும் தேடுக">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.bookmark.emptyText    "புத்தகக்குறிகளைத் தேடுக">
 <!ENTITY urlbar.bookmarkhistory.emptyText "புத்தகக்குறிகளையும் வரலாறையும் தேடுக">
@@ -258,11 +264,12 @@
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewImageCmd.label           "படத்தை நோக்குக">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "View Image Info">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewBGImageCmd.label         "பின்னணிப் படத்தை நோக்குக">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Desktop பின்னணி போல அமைக்கவும்…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
 <!ENTITY bookmarkPageCmd2.label       "இப்பக்கத்தை புத்தகக்குறியிடுக">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "இவ்விணைப்பைப் புத்தகக்குறியிடுக">
@@ -309,8 +316,6 @@
 <!ENTITY copyAudioURLCmd.label        "கேட்பொலி இடத்தை நகலெடுக்க">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey       "B">
-<!ENTITY metadataCmd.label            "தன்மைகள்">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "மின்னஞ்சல் முகவரியை நகலெடுக்க">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "இச்சட்டம்">
@@ -362,6 +367,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip             "வெட்டுக">
 <!ENTITY copyButton.tooltip             "நகலெடுக்க">
 <!ENTITY pasteButton.tooltip            "ஒட்டுக">
+<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
 
 <!ENTITY quitApplicationCmdWin.label      "வெளியேறுக"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -442,4 +448,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY organizeBookmarks.label "புத்தகக்குறிகளை ஒழுங்குபடுத்துக">
 
 <!ENTITY backForwardMenu.tooltip      "அண்மையில் பார்க்கப்பட்ட பக்கங்கள்">
-<!ENTITY ctrlTab.search.emptyText "தேடல் தத்தல்கள்">
+
+<!ENTITY allTabs.filter.emptyText "Search Tabs">

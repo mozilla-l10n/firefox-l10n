@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "இந்தப் பக்கத்தை நீக்குக">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "இந்தத் தளத்தைப் பற்றி மறக்கவும்">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "பின்னே">
-<!ENTITY backCmd.accesskey   "B">
 <!ENTITY backButton.tooltip  "பின் செல்க">
 
 <!ENTITY forwardCmd.label       "முன்னே">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "முன் செல்க">
 
 <!ENTITY detailsPane.more.label "மேலும்">
