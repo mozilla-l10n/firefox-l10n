@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "கோப்பைத் தேர்ந்தெடு...">
 <!ENTITY newWindow.label "புதிய சாளரம்">
 <!ENTITY newTab.label "புதிய தத்தல்">
-<!ENTITY topWindow.label "நடப்பு சாளரம்">
+<!ENTITY topTab.label "Current Tab">
 <!ENTITY caption.label "வலைய முகவரியை திறக்கவும்">
 <!ENTITY openWhere.label "இங்கு திறக்கவும்:">
 
