@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "உங்கள் செருகல்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "உங்கள் கருத்துக்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
 <!ENTITY cmd.installLocalFile.label       "நிறுவக…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "ஒரு செருகலை நிறுவக">
 <!ENTITY cmd.installFileTheme.tooltip     "ஒரு கருத்தை நிறுவக">
-<!ENTITY cmd.installUpdatesAll.label      "இற்​றைப்படுத்தல்களை நிறுவுக">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "தெரிவுசெய்யப்பட்ட இற்​றைப்படுத்தல்களை நிறுவுக">
+<!ENTITY cmd.installUpdatesAll2.label      "இற்​றைப்படுத்தல்களை நிறுவுக">
+<!ENTITY cmd.installUpdatesAll2.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip    "தெரிவுசெய்யப்பட்ட இற்​றைப்படுத்தல்களை நிறுவுக">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; இனை மீள ஆரம்பிக்க">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "மாற்றங்களைப் பிரயோகிப்பதற்காக &brandShortName; இனை மீள ஆரம்பிக்க">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "மேலதிக உருப்படிகள் தேவையாக உள்ளது.">
 <!ENTITY blocklisted.label                "உங்கள் பாதுகாப்பிற்காக செயலற்றதாக்குக.">
 <!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
+<!ENTITY outdated.label                   "A newer, safer version is available.">
 <!ENTITY toBeDisabled.label               "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் செயலற்றதாக்கப்படும்.">
 <!ENTITY toBeEnabled.label                "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் இயலுமைப்படுத்தப்படும்.">
 <!ENTITY toBeInstalled.label              "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் நிறுவப்படும்.">
