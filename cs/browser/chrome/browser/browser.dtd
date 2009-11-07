@@ -59,7 +59,7 @@
 <!ENTITY fullScreenClose.tooltip "Zavřít">
 <!ENTITY fullScreenAutohide.label "Skrýt nástrojové lišty">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Ukončit řežim celé obrazovky">
+<!ENTITY fullScreenExit.label "Ukončit režim celé obrazovky">
 <!ENTITY fullScreenExit.accesskey "k">
 
 <!ENTITY closeWindow.label "Zavřít okno">
@@ -374,7 +374,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "Vyjmout">
 <!ENTITY copyButton.tooltip "Kopírovat">
 <!ENTITY pasteButton.tooltip "Vložit">
-<!ENTITY fullScreenButton.tooltip "Zobrazí okno v řežimu celé obrazovky">
+<!ENTITY fullScreenButton.tooltip "Zobrazí okno v režimu celé obrazovky">
 
 <!ENTITY quitApplicationCmdWin.label "Ukončit">
 <!ENTITY quitApplicationCmdWin.accesskey "k">
