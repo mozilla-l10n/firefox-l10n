@@ -1,9 +1,9 @@
 <!ENTITY matchAll.label "Подходящие под все условия">
-<!ENTITY matchAll.accesskey "в">
+<!ENTITY matchAll.accesskey "д">
 <!ENTITY matchAny.label "Подходящие под любое из условий">
-<!ENTITY matchAny.accesskey "л">
+<!ENTITY matchAny.accesskey "х">
 <!ENTITY matchAllMsgs.label "Все сообщения">
-<!ENTITY matchAllMsgs.accesskey "с">
+<!ENTITY matchAllMsgs.accesskey "е">
 <!ENTITY searchTermListAttributesFlexValue "5">
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">
