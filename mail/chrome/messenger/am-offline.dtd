@@ -4,7 +4,7 @@
 <!ENTITY allFoldersOffline.accesskey          "A">
 <!ENTITY offlineNotDownload.label             "suuremaid kirju kui">
 <!ENTITY offlineNotDownload.accesskey         "r">
-<!ENTITY kb.label                             "KB">
+<!ENTITY kb.label                             "KiB">
 <!ENTITY daysOld.label                        "päeva vanad">
 <!ENTITY message.label                        "kirja">
 <!ENTITY nntpNotDownloadRead.label            "loetud sõnumeid">

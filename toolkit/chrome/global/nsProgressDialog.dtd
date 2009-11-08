@@ -90,7 +90,7 @@ Allalaadimine peatatud">
     #3 will be replaced by the download rate (in KB per second) -->
 
 <!ENTITY progressMsg "_: 
-#1kB, kokku: #2kB (kiirus: #3kB/sec)">
+#1KiB, kokku: #2KiB (kiirus: #3KiB/sec)">
 <!-- LOCALIZATION NOTE (unknownTime):
     
     This string is used when the time remaining is unknown. -->
@@ -131,7 +131,7 @@ Pole teada">
     #2 will be replaced by the size of the file in Kilobytes -->
 
 <!ENTITY completeMsg "_: 
-Lõpetatud, #2 kB alla laaditud (aega kulus: #1)">
+Lõpetatud, #2 KiB-i alla laaditud (aega kulus: #1)">
 <!-- LOCALIZATION NOTE (percentMsg):
 
     This string is used to format the text to the right of the progress

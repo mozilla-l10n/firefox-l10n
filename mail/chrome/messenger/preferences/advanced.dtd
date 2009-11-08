@@ -67,7 +67,7 @@
 <!ENTITY Diskspace                        "Kettaruum">
 <!ENTITY offlineCompact.label             "Kaustad tihendatakse, kui see säästab rohkem kui">
 <!ENTITY offlineCompact.accesskey         "b">
-<!ENTITY kb.label                         "KB">
+<!ENTITY kb.label                         "KiB-i">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -77,7 +77,7 @@
 -->
 <!ENTITY useCacheBefore.label             "Vahemäluks kasutatakse kuni">
 <!ENTITY useCacheBefore.accesskey         "V">
-<!ENTITY useCacheAfter.label              "MB mälu">
+<!ENTITY useCacheAfter.label              "MiB-i mälu">
 <!ENTITY clearCacheNow.label              "Puhasta nüüd">
 <!ENTITY clearCacheNow.accesskey          "P">
 

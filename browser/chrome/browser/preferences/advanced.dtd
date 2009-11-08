@@ -2,12 +2,12 @@
 
 <!ENTITY generalTab.label                  "Üldine">
 
-<!ENTITY accessibility.label               "Hõlbsustus">
+<!ENTITY accessibility.label               "Hõlbustused">
 
 <!ENTITY useCursorNavigation.label         "Veebis liikumiseks kasutatakse alati kursori klahve">
 <!ENTITY useCursorNavigation.accesskey     "a">
-<!ENTITY searchStartTyping.label           "Kirjutamise alustamisel otsitakse teksti">
-<!ENTITY searchStartTyping.accesskey       "r">
+<!ENTITY searchStartTyping.label           "Sisestamise alustamisel otsitakse teksti">
+<!ENTITY searchStartTyping.accesskey       "o">
 <!ENTITY blockAutoRefresh.label            "Hoiatatakse kui veebilehed üritavad mujale suunata või lehte uuesti laadida">
 <!ENTITY blockAutoRefresh.accesskey        "H">
 
@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey           "u">
 <!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
 <!ENTITY useSmoothScrolling.accesskey      "s">
-<!ENTITY checkSpelling.label               "Kirjutamisel kontrollitakse õigekirja">
+<!ENTITY checkSpelling.label               "Sisestamisel kontrollitakse õigekirja">
 <!ENTITY checkSpelling.accesskey           "r">
 
 <!ENTITY systemDefaults.label              "Vaikimisi seaded">
@@ -43,7 +43,7 @@
 -->
 <!ENTITY useCacheBefore.label              "Vahemäluks kasutatakse kuni">
 <!ENTITY useCacheBefore.accesskey          "u">
-<!ENTITY useCacheAfter.label               "MB kettaruumi">
+<!ENTITY useCacheAfter.label               "MiB-i kettaruumi">
 <!ENTITY clearCacheNow.label               "Tühjenda">
 <!ENTITY clearCacheNow.accesskey           "T">
 
