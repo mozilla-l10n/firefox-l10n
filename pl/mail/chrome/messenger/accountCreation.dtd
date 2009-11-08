@@ -4,7 +4,7 @@
 <!ENTITY name.emptytext           "Imię Nazwisko">
 <!ENTITY name.text                "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
 <!ENTITY email.label              "Adres e-mail:">
-<!ENTITY email.accesskey          "A">
+<!ENTITY email.accesskey          "s">
 <!ENTITY email.emptytext          "email@jakasdomena.pl">
 <!ENTITY password.label           "Hasło:">
 <!ENTITY password.accesskey       "H">
@@ -24,7 +24,7 @@
 <!ENTITY smtp.label "SMTP">
 
 <!ENTITY manualSetup.label     "Utwórz konto i edytuj jego ustawienia…">
-<!ENTITY manualSetup.accesskey "U">
+<!ENTITY manualSetup.accesskey "k">
 <!ENTITY cancel.label          "Anuluj">
 <!ENTITY cancel.accesskey      "A">
 <!ENTITY continue.label        "Kontynuuj">
