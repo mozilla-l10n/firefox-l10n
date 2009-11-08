@@ -1,8 +1,8 @@
 <!ENTITY addons.title                     "Complementos">
 
 <!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "547">
-<!ENTITY em.height                        "400">
+<!ENTITY em.width                         "600">
+<!ENTITY em.height                        "430">
 
 <!ENTITY cmd.info.commandKey              "I">
 <!ENTITY cmd.options.commandKey           ",">
