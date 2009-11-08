@@ -102,7 +102,7 @@
 <!ENTITY messengerCmd.label           "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey       "P">
 <!ENTITY messengerCmd.commandkey      "1">
-<!ENTITY searchAddressesCmd.label     "Wyszukaj adresy…">
+<!ENTITY searchAddressesCmd.label     "Wyszukaj wizytówki…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 <!ENTITY importCmd.label              "Importuj…">
 <!ENTITY importCmd.accesskey          "I">

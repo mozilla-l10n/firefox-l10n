@@ -281,7 +281,7 @@
 <!ENTITY searchMailCmd.label          "Wyszukaj wiadomości…">
 <!ENTITY searchMailCmd.accesskey      "m">
 <!ENTITY searchMailCmd.key            "f">
-<!ENTITY searchAddressesCmd.label     "Wyszukaj adresy…">
+<!ENTITY searchAddressesCmd.label     "Wyszukaj wizytówki…">
 <!ENTITY searchAddressesCmd.accesskey "a">
 
 <!-- Go Menu -->
