@@ -133,7 +133,7 @@
 <!ENTITY col.visitcount.label    "Número de visitas">
 <!ENTITY col.keyword.label       "Palavra-chave">
 <!ENTITY col.description.label   "Descrição">
-<!ENTITY col.dateadded.label     "Criado">
+<!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Modificado">
 
 <!ENTITY search.label                              "Localizar:">
