@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "&brandShortName;관하여">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "지원">
+<!ENTITY aboutPage.privacyPolicy.label          "개인 정보 정책">
+<!ENTITY aboutPage.rights.label                 "권리 읽기">
+<!ENTITY aboutPage.relNotes.label               "릴리스 노트">
+<!ENTITY aboutPage.credits.label                "프로그램 정보">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 공헌자. 모든 저작권은   보호됨. (">
+<!ENTITY aboutPage.licenseLink                  "라이센스 정보">
+<!ENTITY aboutPage.copyrightInfo2               ").">

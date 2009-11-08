@@ -1,17 +1,20 @@
+<!ENTITY prefsHeader.label                         "환경설정">
+<!ENTITY about.title                               "&brandShortName; 관하여">
+<!ENTITY about.button                              "페이지로 가기">
+<!ENTITY about.description                         "도움과 제품에 대한 정보 얻기">
 <!ENTITY content.title                             "내용">
-<!ENTITY permissions.default.image.title           "그림 자동으로 읽기">
-<!ENTITY permissions.default.image.description     "웹사이트를 보기좋게">
-<!ENTITY javascript.enabled.title                  "자바스크립트 사용">
-<!ENTITY javascript.enabled.description            "동적인 웹사이트를 보여줍니다">
-<!ENTITY javascript.options.jit.content.title      "자바스크립트 가속 사용">
-<!ENTITY javascript.options.jit.content.description "네이티브 코드 컴파일 사용">
-<!ENTITY plugins.enabled.title                     "플러그인 사용">
-<!ENTITY plugins.enabled.description               "웹을 짜증나게 만든다">
+<!ENTITY showImages.title                          "그림 보기">
+<!ENTITY enableJavaScript.title                    "자바스크립트 사용">
+<!ENTITY enableJavaScript.description              "대부분의 동적인 웹사이트는 자바스크립트를 사용합니다">
+<!ENTITY enablePlugins.title                       "플러그인 사용">
+<!ENTITY enablePlugins.description                 "플러그인은 비디오와 같은 특별한 컨텐트를 위해 사용됩니다">
 <!ENTITY privacy.title                             "개인 정보 &amp; 보안">
-<!ENTITY network.cookie.cookieBehavior.title       "쿠키 저장">
-<!ENTITY network.cookie.cookieBehavior.description "맛있는 먹거리">
-<!ENTITY clear.private.data.title                  "개인 정보 초기화">
-<!ENTITY clear.private.data.button                 "초기화…">
-<!ENTITY clear.private.data.description            "개인 정보를 보호합니다">
-<!ENTITY signon.rememberSignons.title              "암호 저장하기">
-<!ENTITY signon.rememberSignons.description        "웹 사이트에 입력하는 암호 저장하기">
+<!ENTITY allowCookies.title                        "쿠기 허용">
+<!ENTITY allowCookies.description                  "Sites use cookies to identify you and remember your settings">
+<!ENTITY clearPrivateData.title                    "최근 방문 기록 삭제	">
+<!ENTITY clearPrivateData.button                   "삭제">
+<!ENTITY clearPrivateData.description              "개인 정보를 보호합니다">
+<!ENTITY rememberPasswords.title                   "암호 저장하기">
+<!ENTITY language.title                            "언어">
+<!ENTITY language.description                      "&brandShortName;를(을)위해 선호하는 언어를 선택하세요">
+<!ENTITY language.auto                             "자동인식">
