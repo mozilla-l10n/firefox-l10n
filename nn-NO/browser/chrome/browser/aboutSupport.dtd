@@ -7,7 +7,6 @@
 <!ENTITY aboutSupport.extensionName "Namn">
 <!ENTITY aboutSupport.extensionEnabled "Slått på">
 <!ENTITY aboutSupport.extensionVersion "Versjon">
-<!ENTITY aboutSupport.extensionFirstRun "FirstRun">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Applikasjonsdetaljar">
@@ -16,6 +15,13 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
 <!ENTITY aboutSupport.appBasicsPlugins "Installerte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfigurasjon">
+
+<!ENTITY aboutSupport.show.label "Opne mappa med fila">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Vis i Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Endra innstillingar">
 <!ENTITY aboutSupport.modifiedPrefsName "Namn">
