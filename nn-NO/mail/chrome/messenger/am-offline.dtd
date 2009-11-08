@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikkje last ned:">
-<!ENTITY doNotDownload.label "For å spare diskplass, ikkje last ned for fråkopla bruk:">
+<!ENTITY doNotDownloadNntp.label "For å spare diskplass, ikkje last ned for fråkopla bruk:">
+<!ENTITY doNotDownloadImap.label "For å spare diskplass kan nedlasting av meldingar frå tenaren og oppbevaring av lokale kopiar for fråkopla bruk avgrensast til ein bestemt alder eller storleik.">
 <!ENTITY allFoldersOffline.label "Ta vare på meldingar for denne kontoen på datamaskina">
 <!ENTITY allFoldersOffline.accesskey "T">
 <!ENTITY offlineNotDownload.label "Meldingar større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "Ikkje last ned meldingar større enn">
+<!ENTITY autosyncNotDownload.accesskey "k">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dagar gamle">
 <!ENTITY message.label "meldingar">
@@ -33,17 +36,19 @@
 <!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY useAutosyncBefore.label         "">
-<!ENTITY useAutosyncMiddle.label         "">
-<!ENTITY allInterval.label               "Alle">
-<!ENTITY dayInterval.label               "dagar med">
-<!ENTITY weekInterval.label              "veker med">
-<!ENTITY monthInterval.label             "månader med">
-<!ENTITY yearInterval.label              "år med">
-<!ENTITY useAutosyncAfter.label          "e-post vert lagra på disken">
+<!ENTITY allAutosync.label               "Synkroniser alle meldingar lokalt uansett alder">
+<!ENTITY allAutosync.accesskey           "n">
+<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
+<!ENTITY ageAutosync.accesskey           "k">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dagar">
+<!ENTITY weekAgeInterval.label           "Veker">
+<!ENTITY monthAgeInterval.label          "Månader">
+<!ENTITY yearAgeInterval.label           "År">
+<!ENTITY ageAutosyncAfter.label          "">

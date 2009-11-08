@@ -50,10 +50,10 @@
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn Svindseth</li></ul>">
+  "<h3>Norsk omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn I. Svindseth</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn Svindseth</li></ul>">
+<!ENTITY credit.translation "<h3>Norsk omsetjing</h3><ul><li>Eirik Birkeland</li><li>Bjørn I. Svindseth</li></ul>">
 
-<!ENTITY credit.powered     "Støtta av">
+<!ENTITY credit.powered     "Driven av">
 <!ENTITY license.and        "og">
 <!ENTITY cmdClose.macKey  "W">

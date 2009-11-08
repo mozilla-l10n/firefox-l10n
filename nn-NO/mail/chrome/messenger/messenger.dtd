@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "e">
 <!ENTITY closeTabCmd.label "Lat att fane">
 <!ENTITY closeTabCmd.accesskey "L">
+<!ENTITY closeOtherTabsCmd.label "Lat att andre faner">
+<!ENTITY closeOtherTabsCmd.accesskey "a">
 <!ENTITY newVirtualFolderCmd.label "Lagra søk …">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newOtherAccountsCmd.label "Andre kontoar …">
@@ -360,7 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMsgToMenu.label "Kopier til">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Flytt igjen">
-<!ENTITY moveToFolderAgain.accesskey "F">
+<!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorer tråd">
 <!ENTITY killThreadMenu.accesskey "I">
@@ -469,6 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Svar til liste">
 <!ENTITY forwardButton.label "Send vidare">
 <!ENTITY fileButton.label "Fil">
+<!ENTITY archiveButton.label "Arkiv">
 <!ENTITY nextButton.label "Neste">
 <!ENTITY previousButton.label "Førre">
 <!ENTITY backButton1.label "Tilbake">
@@ -501,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Send meldinga vidare">
 <!ENTITY fileButton.tooltip "Arkiver meldinga">
+<!ENTITY archiveButton.tooltip "Arkiver valde meldingar">
 <!ENTITY nextButton.tooltip "Flytt til neste ulesne melding">
 <!ENTITY previousButton.tooltip "Gå til førre ulesne melding">
 <!ENTITY goForwardButton.tooltip "Gå fram ei melding">
@@ -628,6 +632,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextEditAsNew.label "Rediger som ny …">
 <!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextArchive.label "Arkiv">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
 <!ENTITY contextReplySender.accesskey "S">
 <!ENTITY contextReplyNewsgroup.label "Svar til nyhendegruppe">
@@ -682,7 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchEverywhere.label "Søk alle stader">
+<!ENTITY searchAllMessages.label "Søk i alle meldingar">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Legg til i adresseboka …">
@@ -693,10 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Skriv ny e-post til">
-<!ENTITY SendMailTo.accesskey "S">
+<!ENTITY SubscribeToNewsgroup.label "Abonner på nyhendegruppe">
+<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SendMessageTo.label "Skriv melding til">
+<!ENTITY SendMessageTo.accesskey "k">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNewsgroupName.label "Kopier nyhendegruppenamn">
+<!ENTITY CopyNewsgroupName.accesskey "o">
+<!ENTITY CopyNewsgroupURL.label "Kopier adresse til nyhendegruppe">
+<!ENTITY CopyNewsgroupURL.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Lag filter frå …">
 <!ENTITY CreateFilterFrom.accesskey "L">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
@@ -707,8 +719,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "r">
 <!ENTITY saveImageAsCmd.label "Lagre biletet som …">
 <!ENTITY saveImageAsCmd.accesskey "a">
+<!ENTITY cutCmd.label "Klipp ut">
+<!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Lim inn">
+<!ENTITY pasteCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Kopier lenkjeadresse">
@@ -717,6 +733,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageCmd.accesskey "t">
 <!ENTITY copyEmailCmd.label "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Stopp">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Oppdater">
+<!ENTITY reloadCmd.accesskey "O">
+<!ENTITY openInBrowser.label "Opne i nettlesar">
+<!ENTITY openInBrowser.accesskey "n">
+<!ENTITY openLinkInBrowser.label "Opne lenkje i nettlesar">
+<!ENTITY openLinkInBrowser.accesskey "e">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Ferdig">
