@@ -1,4 +1,4 @@
-<!ENTITY autoconfigWizard.title   "Konfiguracja konta email">
+<!ENTITY autoconfigWizard.title   "Konfiguracja konta e-mail">
 <!ENTITY name.label               "Imię i nazwisko:">
 <!ENTITY name.accesskey           "I">
 <!ENTITY name.emptytext           "Imię Nazwisko">
