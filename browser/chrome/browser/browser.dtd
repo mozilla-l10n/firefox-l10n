@@ -263,8 +263,10 @@
 <!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Vis bilete">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewImageInfoCmd.label       "Vis biletinfo">
+<!ENTITY viewImageInfoCmd.accesskey   "t">
 <!ENTITY viewVideoCmd.label           "Vis video">
-<!ENTITY viewVideoCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.accesskey       "s">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilete">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Vel som skrivebordbakgrunn …">
