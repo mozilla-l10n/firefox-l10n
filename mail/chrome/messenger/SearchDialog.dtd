@@ -5,7 +5,7 @@
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchOnServer.label        "Køyr søk på tenar">
 <!ENTITY searchOnServer.accesskey    "K">
-<!ENTITY resetButton.label           "Tøm">
+<!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Opne">
 <!ENTITY openButton.accesskey        "O">
@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label            "Fil">
 <!ENTITY fileButton.accesskey        "F">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Opne meldingsmappe">
-<!ENTITY goToFolderButton.accesskey  "m">
+<!ENTITY openInFolder.label          "Opne i mappe">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Lagre som søkjemappe">
 <!ENTITY saveAsVFButton.accesskey    "L">
 

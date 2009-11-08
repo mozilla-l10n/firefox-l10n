@@ -72,13 +72,13 @@
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Når oppdateringar til &brandShortName; vert funne:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Spør meg kva eg vil gjere">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "k">
-<!ENTITY pref.calendar.advanced.update.modeAuto.label "Last automatisk ned og installer oppdateringa">
-<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Automatisk ned og installer oppdateringa">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "A">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Åtvar meg om dette vil slå av utvidingar">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "a">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "Å">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Vis oppdateringshistorikk …">
-<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "o">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "V">
 
 <!-- Encryption -->
 <!ENTITY pref.calendar.advanced.encryption.protocols.label "Protokollar">
@@ -89,14 +89,14 @@
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "Sertifikat">
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "Når ein tenar ber om mitt personlege sertifikat:">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Vel eit automatisk">
-<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "V">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Spør meg kvar gong">
-<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "S">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Vis sertifikat">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "e">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Tilbakekallingsliste">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "T">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Validering">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Sikkerheitseiningar">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "k">

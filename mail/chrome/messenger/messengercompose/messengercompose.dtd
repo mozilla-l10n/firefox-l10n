@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Tekstbryting">
 <!ENTITY editRewrapCmd.key "T">
 <!ENTITY editRewrapCmd.accesskey "T">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY delete.label "Slett">
 <!ENTITY delete.accesskey "S">
+<!ENTITY removeAttachment.label "Fjern vedlegg">
+<!ENTITY removeAttachment.accesskey "v">
 <!ENTITY renameAttachment.label "Byt namn …">
 <!ENTITY renameAttachment.accesskey "B">
 <!ENTITY selectAll.label "Merk alt">
