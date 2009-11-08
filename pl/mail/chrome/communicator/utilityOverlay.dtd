@@ -35,7 +35,7 @@
 <!ENTITY viewToolbarsMenu.label           "Paski narzędzi">
 <!ENTITY viewToolbarsMenu.accesskey       "n">
 <!ENTITY showTaskbarCmd.label             "Pasek stanu">
-<!ENTITY showTaskbarCmd.accesskey         "s">
+<!ENTITY showTaskbarCmd.accesskey         "e">
 
 <!ENTITY proxy.label                      "Konfiguracja Proxy…">
 <!ENTITY proxy.accesskey                  "c">

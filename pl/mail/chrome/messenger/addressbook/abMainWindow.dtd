@@ -80,7 +80,7 @@
 <!ENTITY showAbToolbarCmd.label     "Pasek narzędzi książki adresowej">
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label       "Pasek stanu">
-<!ENTITY showTaskbarCmd.accesskey   "s">
+<!ENTITY showTaskbarCmd.accesskey   "k">
 <!ENTITY customizeToolbar.label     "Dostosuj…">
 <!ENTITY customizeToolbar.accesskey "t">
 <!ENTITY showContactPane.label      "Panel kontaktów">
