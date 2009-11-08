@@ -10,24 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "Bokmerker">
 <!ENTITY  locbar.nothing.label          "Ingenting">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Behold historikk i minst">
-<!ENTITY  rememberDaysBefore.accesskey  "B">
-<!ENTITY  rememberDaysAfter2.label      "dager">
-
-<!ENTITY  rememberForms.label           "Husk innhold i skjemaer og søkefeltet">
-<!ENTITY  rememberForms.accesskey       "u">
-
-<!ENTITY  rememberDownloads.label       "Husk filer jeg har lastet ned">
-<!ENTITY  rememberDownloads.accesskey   "k">
-
-
-<!ENTITY  cookies.label                 "Infokapsler">
 
 <!ENTITY  acceptCookies.label           "Tillat infokapsler">
 <!ENTITY  acceptCookies.accesskey       "T">
@@ -48,14 +30,6 @@
 <!ENTITY  showCookies.label             "Vis infokapsler …">
 <!ENTITY  showCookies.accesskey         "V">
 
-
-<!ENTITY  privateData.label             "Private data">
-
-<!ENTITY  alwaysClear.label              "Alltid slett private data når jeg lukker &brandShortName;">
-<!ENTITY  alwaysClear.accesskey          "A">
-
-<!ENTITY  clearDataSettings.label        "Innstillinger …">
-<!ENTITY  clearDataSettings.accesskey    "I">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; skal:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -107,6 +81,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Innstillinger …">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
-
-<!ENTITY  clearDataNow.label             "Slett nå …">
-<!ENTITY  clearDataNow.accesskey         "n">

@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "G">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Bokmerk denne siden …">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slett denne siden">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Glem dette nettstedet">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Tilbake">
-<!ENTITY backCmd.accesskey   "T">
 <!ENTITY backButton.tooltip  "Gå tilbake">
 
 <!ENTITY forwardCmd.label       "Frem">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "Gå frem">
 
 <!ENTITY detailsPane.more.label "Mer">

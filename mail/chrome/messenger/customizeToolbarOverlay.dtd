@@ -1,5 +1,4 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -12,14 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is mozilla.org Code.
+   - The Original Code is Thunderbird Toolbar Customization Overlay.
    -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
+   - The Initial Developer of the Original Code is
+   - Mozilla Messaging, Inc.
+   - Portions created by the Initial Developer are Copyright (C) 2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Mike Connor <mconnor@steelgryphon.com>
+   -   Blake Winton <bwinton@latte.ca>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,29 +33,6 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-#endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; sikker modus">
-<!ENTITY window.width                 "37em">
-
-<!ENTITY safeModeDescription.label    "&brandShortName; kjører nå i sikker modus, som midlertidig slår av egendefinerte innstillinger, temaer og utvidelser.">
-<!ENTITY safeModeDescription2.label   "Du kan gjøre noen eller alle av disse endringene permanente:">
-
-<!ENTITY disableAddons.label          "Slå av alle utvidelser">
-<!ENTITY disableAddons.accesskey      "S">
-
-<!ENTITY resetToolbars.label          "Tilbakestill verktøylinjer og kontroller">
-<!ENTITY resetToolbars.accesskey      "T">
-
-<!ENTITY deleteBookmarks.label        "Slett alle bokmerker med unntak av sikkerhetskopier">
-<!ENTITY deleteBookmarks.accesskey    "t">
-
-<!ENTITY resetUserPrefs.label         "Tilbakestill alle brukerinnstillinger til &brandShortName;s standard">
-<!ENTITY resetUserPrefs.accesskey     "a">
-
-<!ENTITY restoreSearch.label          "Tilbakestill standard søkemotor">
-<!ENTITY restoreSearch.accesskey      "k">
-
-<!ENTITY changeAndRestartButton.label "Utfør endringer og start på nytt">
-<!ENTITY continueButton.label         "Fortsett i sikker modus">
+<!ENTITY iconsBesideText.label "Ikoner ved siden av teksten">

@@ -11,7 +11,7 @@
 <!ENTITY scroll.label                    "Bla dokumentet">
 <!ENTITY scroll.accesskey                "l">
 <!ENTITY scrollHoriz.accesskey           "a">
-<!ENTITY scrollLines.label               "linje(r)">
+<!ENTITY scrollLines.label               "linjer">
 <!ENTITY scrollChars.label               "tegn">
 <!ENTITY useSystemDefault.label          "Bruk standardverdi">
 <!ENTITY useSystemDefault.accesskey      "r">
@@ -19,7 +19,7 @@
 <!ENTITY scrollPgUpPgDn.label            "Bla en side opp eller ned">
 <!ENTITY scrollPgUpPgDn.accesskey        "B">
 <!ENTITY scrollPgLtPgRt.label            "Rull en side til venstre eller høyre">
-<!ENTITY scrollPgLtPgRt.accesskey        "o">
+<!ENTITY scrollPgLtPgRt.accesskey        "u">
 <!ENTITY history.label                   "Flytt bakover og forover i historikken">
 <!ENTITY history.accesskey               "F">
 <!ENTITY historyHoriz.accesskey          "b">
