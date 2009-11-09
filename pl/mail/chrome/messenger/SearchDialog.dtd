@@ -21,19 +21,19 @@
 <!ENTITY openInFolder.label         "Otwórz w folderze">
 <!ENTITY openInFolder.accesskey     "f">
 <!ENTITY saveAsVFButton.label       "Zapisz jako folder wyszukiwania">
-<!ENTITY saveAsVFButton.accesskey   "w">
+<!ENTITY saveAsVFButton.accesskey   "r">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label      "Szukaj w:">
-<!ENTITY abSearchHeading.accesskey  "j">
+<!ENTITY abSearchHeading.accesskey  "u">
 <!ENTITY propertiesButton.label     "Właściwości">
-<!ENTITY propertiesButton.accesskey "i">
+<!ENTITY propertiesButton.accesskey "a">
 <!ENTITY composeButton.label        "Napisz">
 <!ENTITY composeButton.accesskey    "N">
 <!ENTITY abSearchDialogTitle.label  "Zaawansowane wyszukiwanie w książce adresowej">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Wątek">
+<!ENTITY threadColumn.label     "Wątek">
 <!ENTITY fromColumn.label       "Nadawca">
 <!ENTITY recipientColumn.label  "Adresat">
 <!ENTITY subjectColumn.label    "Temat">

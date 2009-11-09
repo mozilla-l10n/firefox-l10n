@@ -1,4 +1,4 @@
-<!ENTITY window.title             "Reguły filtru">
+<!ENTITY window.title             "Edycja filtru">
 <!ENTITY filterName.label         "Nazwa filtru:">
 <!ENTITY filterName.accesskey     "N">
 
@@ -12,14 +12,14 @@
 <!ENTITY highestPriorityCmd.label "Najwyższy">
 
 <!ENTITY contextDesc.label           "Stosuj filtr podczas:">
-<!ENTITY contextDesc.accesskey       "S">
+<!ENTITY contextDesc.accesskey       "f">
 <!ENTITY contextIncoming.label       "sprawdzania poczty">
 <!ENTITY contextManual.label         "ręcznego uruchamiania">
 <!ENTITY contextBoth.label           "sprawdzania poczty lub ręcznego uruchamiania">
 <!ENTITY contextPostPlugin.label     "sprawdzania poczty (po filtrowaniu niechcianych)">
 <!ENTITY contextPostPluginBoth.label "sprawdzania poczty (po filtrowaniu niechcianych) lub ręcznego uruchamiania">
-<!ENTITY filterActionDesc.label      "…wykonaj następujące czynności:">
-<!ENTITY filterActionDesc.accesskey  "w">
+<!ENTITY filterActionDesc.label      "…i wykonuj następujące czynności:">
+<!ENTITY filterActionDesc.accesskey  "k">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label        "Przenieś wiadomość do">

@@ -1,12 +1,12 @@
-<!ENTITY matchAll.label         "do wiadomości spełniających wszystkie kryteria:">
-<!ENTITY matchAll.accesskey     "d">
-<!ENTITY matchAny.label         "do wiadomości spełniających dowolne kryteria:">
-<!ENTITY matchAny.accesskey     "o">
-<!ENTITY matchAllMsgs.label     "do wszystkich wiadomości">
-<!ENTITY matchAllMsgs.accesskey "a">
+<!ENTITY matchAll.label         "wszystkie warunki spełnione">
+<!ENTITY matchAll.accesskey     "w">
+<!ENTITY matchAny.label         "spełniony dowolny z warunków">
+<!ENTITY matchAny.accesskey     "s">
+<!ENTITY matchAllMsgs.label     "wszystkie wiadomości">
+<!ENTITY matchAllMsgs.accesskey "e">
 
 <!-- LOCALIZATION NOTE: values below are used to control the widths of the search widgets -->
-<!ENTITY searchTermListAttributesFlexValue "5">
-<!ENTITY searchTermListOperatorsFlexValue  "5">
-<!ENTITY searchTermListValueFlexValue      "4">
-<!ENTITY searchTermListButtonsFlexValue    "1">
+<!ENTITY searchTermListAttributesFlexValue "5"><!-- en-US: 5 -->
+<!ENTITY searchTermListOperatorsFlexValue  "5"><!-- en-US: 5 -->
+<!ENTITY searchTermListValueFlexValue      "4"><!-- en-US: 5 -->
+<!ENTITY searchTermListButtonsFlexValue    "1"><!-- en-US: 2 -->
