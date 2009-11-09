@@ -1,29 +1,29 @@
 <!ENTITY serverAdvanced.label           "Zaawansowane ustawienia konta">
 <!ENTITY serverDirectory.label          "Katalog serwera IMAP">
-<!ENTITY serverDirectory.accesskey      "I">
+<!ENTITY serverDirectory.accesskey      "K">
 <!ENTITY usingSubscription.label        "Pokaż tylko subskrybowane foldery">
-<!ENTITY usingSubscription.accesskey    "w">
+<!ENTITY usingSubscription.accesskey    "P">
 <!ENTITY dualUseFolders.label           "Serwer obsługuje foldery zawierające podfoldery i wiadomości">
-<!ENTITY dualUseFolders.accesskey       "f">
+<!ENTITY dualUseFolders.accesskey       "S">
 <!ENTITY useIdle.label                  "Używaj polecenia IDLE jeśli serwer je obsługuje">
-<!ENTITY useIdle.accesskey              "I">
+<!ENTITY useIdle.accesskey              "U">
 <!ENTITY maximumConnectionsNumber.label "Maksymalna liczba połączeń z serwerem">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY namespaceDesc.label            "Poniższe ustawienia określają dostępne przestrzenie nazw na bieżącym serwerze IMAP">
 <!ENTITY personalNamespace.label        "Osobista przestrzeń nazw:">
-<!ENTITY personalNamespace.accesskey    "p">
+<!ENTITY personalNamespace.accesskey    "a">
 <!ENTITY publicNamespace.label          "Publiczna (współdzielona) przestrzeń nazw:">
-<!ENTITY publicNamespace.accesskey      "u">
+<!ENTITY publicNamespace.accesskey      "w">
 <!ENTITY otherUsersNamespace.label      "Przestrzeń nazw innych użytkowników:">
-<!ENTITY otherUsersNamespace.accesskey  "O">
+<!ENTITY otherUsersNamespace.accesskey  "n">
 <!ENTITY overrideNamespaces.label       "Zezwalaj, aby serwer zmieniał powyższe ustawienia przestrzeni nazw">
-<!ENTITY overrideNamespaces.accesskey   "a">
+<!ENTITY overrideNamespaces.accesskey   "Z">
 <!ENTITY pop3Desc.label                 "Poczta pobierana z tego serwera POP powinna być zapisywana w następującym folderze:" >
 <!ENTITY globalInbox.label              "Globalna skrzynka odbiorcza (konto Lokalne foldery)">
 <!ENTITY globalInbox.accesskey          "G">
 <!ENTITY accountDirectory.label         "Odebrane - dla konta tego serwera">
-<!ENTITY accountDirectory.accesskey     "s">
+<!ENTITY accountDirectory.accesskey     "O">
 <!ENTITY deferToServer.label            "Odebrane - dla konta:">
 <!ENTITY deferToServer.accesskey        "d">
 <!ENTITY deferGetNewMail.label          "Uwzględnij ten serwer podczas pobierania nowych wiadomości">
-<!ENTITY deferGetNewMail.accesskey      "i">
+<!ENTITY deferGetNewMail.accesskey      "t">
