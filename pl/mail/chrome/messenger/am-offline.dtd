@@ -2,9 +2,9 @@
 <!ENTITY doNotDownloadNntp.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
 <!ENTITY doNotDownloadImap.label         "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku kopie mogą być przechowywane przez ograniczony czas lub wedle rozmiaru.">
 <!ENTITY allFoldersOffline.label         "Przechowuj wiadomości dla tego konta lokalnie na komputerze">
-<!ENTITY allFoldersOffline.accesskey     "k">
+<!ENTITY allFoldersOffline.accesskey     "P">
 <!ENTITY offlineNotDownload.label        "Nie pobieraj wiadomości większych niż">
-<!ENTITY offlineNotDownload.accesskey    "p">
+<!ENTITY offlineNotDownload.accesskey    "N">
 <!ENTITY autosyncNotDownload.label       "Nie pobieraj wiadomości większych niż">
 <!ENTITY autosyncNotDownload.accesskey   "N">
 <!ENTITY kb.label                        "KB">
@@ -25,7 +25,7 @@
 <!ENTITY message.label                        "wiadomości">
 <!ENTITY retentionKeepUnreadHidden.label      "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)">
 <!ENTITY retentionApplyToFlagged.label        "Zawsze przechowuj wiadomości oznaczone gwiazdką">
-<!ENTITY retentionApplyToFlagged.accesskey    "s">
+<!ENTITY retentionApplyToFlagged.accesskey    "e">
 <!ENTITY nntpRemoveMsgBody.label              "Usuwaj treść wiadomości starszych niż">
 <!ENTITY nntpRemoveMsgBody.accesskey          "U">
 <!ENTITY offlineSelectNntp.label              "Wybierz grupy dostępne w trybie offline…">
