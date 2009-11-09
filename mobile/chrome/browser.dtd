@@ -1,21 +1,11 @@
 <!ENTITY back.label            "Voltar">
-<!ENTITY back.tooltip          "Página anterior">
 <!ENTITY forward.label         "Avançar">
-<!ENTITY forward.tooltip       "Próxima página">
 <!ENTITY reload.label          "Recarregar">
-<!ENTITY reload.tooltip        "Atualizar a página">
 <!ENTITY stop.label            "Parar">
-<!ENTITY stop.tooltip          "Interromper o carregamento">
 <!ENTITY search.label          "Pesquisar">
-<!ENTITY search.tooltip        "Pesquisar">
 <!ENTITY go.label              "Ir">
-<!ENTITY go.tooltip            "Ir">
 <!ENTITY openLocation.label    "Abrir endereço">
-<!ENTITY openLocation.tooltip  "Abrir endereço">
 <!ENTITY star.label            "Estrela">
-<!ENTITY star.tooltip          "Adicionar aos favoritos">
-<!ENTITY bookmarks.label       "Favoritos">
-<!ENTITY bookmarks.tooltip     "Exibir favoritos">
 
 <!ENTITY newtab.label          "Nova aba">
 <!ENTITY closetab.label        "Fechar aba">
@@ -31,10 +21,8 @@
 
 <!ENTITY bookmarksHeader.label     "Favoritos">
 <!ENTITY bookmarksManage.label     "Gerenciar">
-<!ENTITY foldersHeader.label       "Pastas">
 
-<!ENTITY editBookmarkEdit.label    "Editar">
-<!ENTITY editBookmarkMove.label    "Mover">
+<!ENTITY editBookmarkRemove.label  "Excluir">
 <!ENTITY editBookmarkDone.label    "Concluir">
 <!ENTITY editBookmarkTags.label    "Adicione tags aqui">
 
@@ -43,35 +31,28 @@
 <!ENTITY helperApp.save            "Salvar">
 <!ENTITY helperApp.nothing         "Nada">
 
-<!ENTITY findOnCmd.label     "Localizar nesta página…">
-<!ENTITY findOnCmd.accesskey "L">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Localizar próxima">
-<!ENTITY findAgainCmd.accesskey "L">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous       "Voltar">
+<!ENTITY formHelper.next           "Avançar">
+<!ENTITY formHelper.done           "Concluir">
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Seus complementos">
+<!ENTITY addonsUpdate.label        "Atualizações">
 <!ENTITY addonsRepo.label          "Adicionar">
 <!ENTITY addonsRecommended.label   "Recomendações">
 <!ENTITY addonsSearch.label        "Pesquisar">
-<!ENTITY addonsSearch.emptytext    "Pesquisar complementos">
+<!ENTITY addonsSearch2.emptytext   "Pesquisar o catálogo">
+<!ENTITY addonsSearch.recommended  "Recomendações">
 
 <!ENTITY addonOptions.label        "Opções">
 <!ENTITY addonEnable.label         "Ativar">
 <!ENTITY addonDisable.label        "Desativar">
-<!ENTITY addonInstall.label        "Instalar">
+<!ENTITY addonInstall2.label       "Adicionar ao &brandShortName;">
 <!ENTITY addonUninstall.label      "Desinstalar">
 <!ENTITY addonCancel.label         "Cancelar">
 <!ENTITY addonShowPage.label       "Ir para a página">
 
 <!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadsSortDate.label   "Data">
-<!ENTITY downloadsSortSite.label   "Site">
-<!ENTITY downloadsSortName.label   "Nome">
-<!ENTITY downloadsSearch.label     "Localizar">
-<!ENTITY downloadsSearch.emptytext "Localizar arquivo recebido">
 
 <!ENTITY downloadShowPage.label    "Ir para a página">
 <!ENTITY downloadShow2.label       "Abrir pasta">
@@ -80,8 +61,17 @@
 <!ENTITY downloadPause.label       "Pausa">
 <!ENTITY downloadResume.label      "Continuar">
 <!ENTITY downloadRetry.label       "Reiniciar">
+<!ENTITY downloadRemove.label      "Excluir">
+<!ENTITY downloadFailed.label      "Malsucedido">
 
 <!ENTITY noResults.label           "Sem resultados">
+<!ENTITY allBookmarks.label        "Exibir todos os favoritos">
+
+<!ENTITY searchEngine.addSearch    "Adicionar pesquisa">
+
+<!ENTITY bookmarkPopup.label       "Novo favorito">
+<!ENTITY bookmarkRemove.label      "Excluir">
+<!ENTITY bookmarkEdit.label        "Editar">
 
 <!ENTITY identity.unverifiedsite2 "Este site não fornece informações de identidade">
 <!ENTITY identity.connectedTo2 "Conectado a">
@@ -99,9 +89,7 @@
 <!ENTITY consoleMessages.label     "Mensagens">
 <!ENTITY consoleCodeEval.label     "Código:">
 <!ENTITY consoleClear.label        "Limpar">
-<!ENTITY consoleEvaluate.label     "Executar">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Arquivo-fonte:">
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
-
-<!ENTITY selectListDone.label      "Concluir">
