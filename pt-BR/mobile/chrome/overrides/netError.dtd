@@ -34,7 +34,7 @@
 
 <!ENTITY generic.title "Epa">
 <!ENTITY generic.longDesc "
-<p>Por algum motivo o &brandShortName; não conseguiu carregar esta página.</p>
+<p>Algo impediu o &brandShortName; de carregar esta página.</p>
 ">
 
 <!ENTITY malformedURI.title "Endereço inválido">
@@ -114,7 +114,8 @@
 ">
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
-<!ENTITY nssFailure2.longDesc "<ul>
+<!ENTITY nssFailure2.longDesc "
+<ul>
   <li>A página que você está tentando abrir não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser comprovada.</li>
   <li>Por favor, contate os responsáveis pelo site para informá-los sobre este problema. Você também pode usar comando localizado no menu Ajuda para reportar o site como incompatível.</li>
 </ul>
@@ -136,7 +137,8 @@
 ">
 
 <!ENTITY malwareBlocked.title "Site suspeito de ser um foco de ataques!">
-<!ENTITY malwareBlocked.longDesc "<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
+<!ENTITY malwareBlocked.longDesc "
+<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p>
 <p>Proprietários de sites que acreditem estar sendo injustamente classificados como um foco de ataques podem <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar uma reavaliação</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">
