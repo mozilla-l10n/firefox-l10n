@@ -439,7 +439,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "Activiteitsbeheerder">
+<!ENTITY activitymanager.label "Activiteitenbeheerder">
 <!ENTITY activitymanager.accesskey "e">
 <!ENTITY filtersCmd.label "Berichtenfilters…">
 <!ENTITY filtersCmd.accesskey "B">
