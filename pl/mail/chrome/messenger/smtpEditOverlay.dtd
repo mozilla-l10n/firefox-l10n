@@ -1,7 +1,7 @@
 <!ENTITY settings.caption               "Ustawienia">
 <!ENTITY security.caption               "Zabezpieczenia i uwierzytelnianie">
 <!ENTITY serverName.label               "Nazwa serwera:">
-<!ENTITY serverName.accesskey           "s">
+<!ENTITY serverName.accesskey           "N">
 <!ENTITY serverDescription.label        "Opis:">
 <!ENTITY serverDescription.accesskey    "O">
 <!ENTITY serverPort.label               "Port:">
@@ -9,9 +9,9 @@
 <!ENTITY alwaysUseUsername.label        "Używaj identyfikatora użytkownika oraz hasła">
 <!ENTITY alwaysUseUsername.accesskey    "U">
 <!ENTITY userName.label                 "Użytkownik:">
-<!ENTITY userName.accesskey             "w">
+<!ENTITY userName.accesskey             "k">
 <!ENTITY useSecAuth.label               "Używaj bezpiecznego uwierzytelniania">
-<!ENTITY useSecAuth.accesskey           "U">
+<!ENTITY useSecAuth.accesskey           "a">
 <!ENTITY connectionSecurity.label       "Bezpieczeństwo połączenia:">
 <!ENTITY connectionSecurity.accesskey   "B">
 <!ENTITY connectionSecurityType-0.label "Bez szyfrowania">
