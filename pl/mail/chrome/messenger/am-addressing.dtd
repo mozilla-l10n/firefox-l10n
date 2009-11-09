@@ -21,10 +21,10 @@
 <!ENTITY belowQuote.label              "rozpocznij odpowiedź poniżej cytowanego tekstu">
 <!ENTITY selectAndQuote.label          "zaznacz zacytowany tekst">
 <!ENTITY place.label                   "Dołączaj sygnaturkę">
-<!ENTITY place.accesskey               "z">
+<!ENTITY place.accesskey               "D">
 <!ENTITY belowText.label               "pod cytowanym tekstem (zalecane)">
 <!ENTITY aboveText.label               "poniżej odpowiedzi (ponad cytowanym tekstem)">
 <!ENTITY includeSigOnReply.label       "Dołączaj sygnaturkę przy odpowiadaniu">
 <!ENTITY includeSigOnReply.accesskey   "s">
 <!ENTITY includeSigOnForward.label     "Dołączaj sygnaturkę przy przekazywaniu">
-<!ENTITY includeSigOnForward.accesskey "p">
+<!ENTITY includeSigOnForward.accesskey "n">
