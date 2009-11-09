@@ -2,14 +2,14 @@
 <!ENTITY serverSettings.label    "Konfiguracja serwera">
 <!ENTITY serverType.label        "Typ serwera:">
 <!ENTITY serverName.label        "Nazwa serwera:">
-<!ENTITY serverName.accesskey    "s">
+<!ENTITY serverName.accesskey    "N">
 <!ENTITY userName.label          "Użytkownik:">
-<!ENTITY userName.accesskey      "i">
+<!ENTITY userName.accesskey      "U">
 <!ENTITY port.label              "Port:">
-<!ENTITY port.accesskey          "o">
+<!ENTITY port.accesskey          "t">
 <!ENTITY serverPortDefault.label "Domyślnie:">
 <!ENTITY biffStart.label                  "Sprawdzaj, czy nadeszły nowe wiadomości co">
-<!ENTITY biffStart.accesskey              "r">
+<!ENTITY biffStart.accesskey              "S">
 <!ENTITY biffEnd.label                    "minut">
 <!ENTITY connectionSecurity.label         "Bezpieczeństwo połączenia:">
 <!ENTITY connectionSecurity.accesskey     "B">
@@ -18,37 +18,37 @@
 <!ENTITY connectionSecurityType-2.label   "STARTTLS">
 <!ENTITY connectionSecurityType-3.label   "SSL/TLS">
 <!ENTITY useSecAuth.label                 "Używaj bezpiecznego uwierzytelniania">
-<!ENTITY useSecAuth.accesskey             "c">
+<!ENTITY useSecAuth.accesskey             "w">
 <!ENTITY leaveOnServer.label              "Pozostaw kopię wiadomości na serwerze">
 <!ENTITY leaveOnServer.accesskey          "k">
 <!ENTITY headersOnly.label                "Pobieraj tylko nagłówki wiadomości">
-<!ENTITY headersOnly.accesskey            "b">
+<!ENTITY headersOnly.accesskey            "e">
 <!ENTITY deleteByAgeFromServer.label      "Przez">
 <!ENTITY deleteByAgeFromServer.accesskey  "z">
 <!ENTITY daysEnd.label                    "dni">
 <!ENTITY deleteOnServer2.label            "Dopóki wiadomość nie zostanie usunięta">
-<!ENTITY deleteOnServer2.accesskey        "e">
+<!ENTITY deleteOnServer2.accesskey        "D">
 <!ENTITY downloadOnBiff.label             "Automatycznie pobieraj nowe wiadomości">
-<!ENTITY downloadOnBiff.accesskey         "m">
+<!ENTITY downloadOnBiff.accesskey         "A">
 <!ENTITY username.label                   "Nazwa użytkownika">
 <!ENTITY deleteMessagePrefix.label        "Wiadomość usunięta lokalnie:">
 <!ENTITY modelMoveToTrash.label           "zostanie przeniesiona do folderu:">
-<!ENTITY modelMoveToTrash.accesskey       "p">
+<!ENTITY modelMoveToTrash.accesskey       "f">
 <!ENTITY modelMarkDeleted.label           "zostanie oznaczona jako usunięta">
-<!ENTITY modelMarkDeleted.accesskey       "o">
-<!ENTITY modelDeleteImmediately.label     "zostanie niezwłoczenie usunięta">
-<!ENTITY modelDeleteImmediately.accesskey "u">
+<!ENTITY modelMarkDeleted.accesskey       "j">
+<!ENTITY modelDeleteImmediately.label     "zostanie niezwłocznie usunięta">
+<!ENTITY modelDeleteImmediately.accesskey "i">
 <!ENTITY expungeOnExit.label          "Przy wyjściu z programu porządkuj folder Odebrane">
-<!ENTITY expungeOnExit.accesskey      "y">
+<!ENTITY expungeOnExit.accesskey      "r">
 <!ENTITY emptyTrashOnExit.label       "Przy wyjściu z programu opróżniaj Kosz">
-<!ENTITY emptyTrashOnExit.accesskey   "w">
+<!ENTITY emptyTrashOnExit.accesskey   "c">
 <!ENTITY loginAtStartup.label         "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
 <!ENTITY loginAtStartup.accesskey     "h">
 <!ENTITY maxMessagesStart.label       "Pytaj przy pobieraniu więcej niż">
-<!ENTITY maxMessagesStart.accesskey   "w">
+<!ENTITY maxMessagesStart.accesskey   "y">
 <!ENTITY maxMessagesEnd.label         "wiadomości">
 <!ENTITY alwaysAuthenticate.label     "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
-<!ENTITY alwaysAuthenticate.accesskey "c">
+<!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label       "Plik newsrc:">
 <!ENTITY localPath.label            "Katalog lokalny:">
 <!ENTITY abbreviate.label           "W folderze poczty pokazuj nazwy grup dyskusyjnych w formie:">
@@ -56,10 +56,10 @@
 <!ENTITY abbreviateOff.label        'Skróconej (Na przykład: "p.r.h.najlepsze")'>
 <!ENTITY advancedButton.label       "Zaawansowane…">
 <!ENTITY serverDefaultCharset.label "Domyślny zestaw znaków:">
-<!ENTITY advancedButton.accesskey   "a">
+<!ENTITY advancedButton.accesskey   "m">
 <!ENTITY localFolderPicker.label    "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label         "Przeglądaj…">
 <!ENTITY browseFolder.accesskey     "P">
 <!ENTITY newsrcPicker.label         "Wybierz plik newsrc">
 <!ENTITY browseNewsrc.label         "Przeglądaj…">
-<!ENTITY browseNewsrc.accesskey     "e">
+<!ENTITY browseNewsrc.accesskey     "g">
