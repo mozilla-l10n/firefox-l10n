@@ -681,7 +681,7 @@
 <!ENTITY searchAllMessages.label "Wyszukiwanie we wszystkich wiadomościach">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "szczegóły">
+<!ENTITY more.label "więcej"><!-- ENTITY more.label "i inni" FIXME -->
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label             "Dodaj adres do książki adresowej">
