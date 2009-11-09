@@ -6,28 +6,28 @@
 <!ENTITY name.label                 "Imię i nazwisko:">
 <!ENTITY name.accesskey             "I">
 <!ENTITY email.label                "Adres e-mail:">
-<!ENTITY email.accesskey            "m">
+<!ENTITY email.accesskey            "A">
 <!ENTITY replyTo.label              "Zwrotny adres e-mail:">
 <!ENTITY replyTo.accesskey          "s">
 <!ENTITY organization.label         "Firma/Organizacja:">
-<!ENTITY organization.accesskey     "O">
+<!ENTITY organization.accesskey     "F">
 <!ENTITY signatureText.label        "Sygnaturka:">
-<!ENTITY signatureText.accesskey    "g">
+<!ENTITY signatureText.accesskey    "k">
 <!ENTITY signatureHtml.label        "Używaj HTML (np. &lt;b&gt;pogrubiony tekst&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey    "H">
-<!ENTITY signatureFile.label        "Używaj treści z pliku (tekstowgo, HTML lub obrazka):">
+<!ENTITY signatureFile.label        "Używaj treści z pliku (tekstowego, HTML lub obrazka):">
 <!ENTITY signatureFile.accesskey    "U">
 <!ENTITY edit.label                 "Edytuj…">
 <!ENTITY choose.label               "Wybierz…">
-<!ENTITY choose.accesskey           "b">
+<!ENTITY choose.accesskey           "W">
 <!ENTITY editVCard.label            "Edytuj wizytówkę…">
-<!ENTITY editVCard.accesskey        "d">
+<!ENTITY editVCard.accesskey        "E">
 <!ENTITY attachVCard.label          "Dołączaj wizytówkę do wysyłanych wiadomości">
-<!ENTITY attachVCard.accesskey      "h">
+<!ENTITY attachVCard.accesskey      "D">
 
 <!ENTITY manageIdentities.label     "Zarządzaj tożsamościami…">
 <!ENTITY manageIdentities.accesskey "Z">
 
 <!ENTITY smtpName.label             "Serwer poczty wychodzącej (SMTP):">
-<!ENTITY smtpName.accesskey         "p">
+<!ENTITY smtpName.accesskey         "r">
 <!ENTITY smtpDefaultServer.label    "Użyj domyślnego serwera">
