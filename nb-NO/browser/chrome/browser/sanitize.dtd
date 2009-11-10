@@ -56,7 +56,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Denne handlingen kan ikke gjøres om.">
+<!ENTITY sanitizeEverythingUndoWarning     "Denne handlingen kan ikke angres.">
 
 <!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
