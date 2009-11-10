@@ -167,9 +167,9 @@ ynhâld yn HTML-berjochten fan dizze persoan ta.">
 <!ENTITY PhotoFile.label                "Op dizze kompjûter">
 <!ENTITY PhotoFile.accesskey            "k">
 <!ENTITY BrowsePhoto.label              "Blêdzje">
-<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY BrowsePhoto.accesskey          "l">
 <!ENTITY PhotoURL.label                 "Op it ynternet">
-<!ENTITY PhotoURL.accesskey             "h">
+<!ENTITY PhotoURL.accesskey             "n">
 <!ENTITY PhotoURL.emptytext             "Plak of type it ynternetadres fan in foto">
 <!ENTITY UpdatePhoto.label              "Bywurkje">
 <!ENTITY UpdatePhoto.accesskey          "B">
