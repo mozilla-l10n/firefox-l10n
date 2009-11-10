@@ -1,0 +1,20 @@
+<!ENTITY prefsHeader.label                         "Innstillingar">
+<!ENTITY about.title                               "Om &brandShortName;">
+<!ENTITY about.button                              "Gå til sida">
+<!ENTITY about.description                         "Få hjelp og produktinformasjon">
+<!ENTITY content.title                             "Innhald">
+<!ENTITY showImages.title                          "Vis bilde">
+<!ENTITY enableJavaScript.title                    "Slå på JavaScript">
+<!ENTITY enableJavaScript.description              "Dei fleste interaktive sider brukar JavaScript">
+<!ENTITY enablePlugins.title                       "Slå på programtillegg">
+<!ENTITY enablePlugins.description                 "Programtillegg vert brukt til spesialinnhald som video">
+<!ENTITY privacy.title                             "Personvern og sikkerheit">
+<!ENTITY allowCookies.title                        "Tillat infokapslar">
+<!ENTITY allowCookies.description                  "Nettsidar brukar infokapslar for å identifisere og hugse innstillingane dine">
+<!ENTITY clearPrivateData.title                    "Tøm nyleg nettlesarhistorikk">
+<!ENTITY clearPrivateData.button                   "Tøm">
+<!ENTITY clearPrivateData.description              "Historikken din hjelper &brandShortName; å føreslå kvar du ønskjer å gå til">
+<!ENTITY rememberPasswords.title                   "Hugs passord">
+<!ENTITY language.title                            "Språk">
+<!ENTITY language.description                      "Vel ønskt språk for &brandShortName;">
+<!ENTITY language.auto                             "Auto-attkjenning">

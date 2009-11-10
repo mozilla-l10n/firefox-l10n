@@ -1,0 +1,95 @@
+<!ENTITY back.label            "Tilbake">
+<!ENTITY forward.label         "Fram">
+<!ENTITY reload.label          "Oppdater">
+<!ENTITY stop.label            "Stopp">
+<!ENTITY search.label          "Søk">
+<!ENTITY go.label              "Gå">
+<!ENTITY openLocation.label    "Opne adresse">
+<!ENTITY star.label            "Stjerne">
+
+<!ENTITY newtab.label          "Ny fane">
+<!ENTITY closetab.label        "Lat att fane">
+
+<!ENTITY cut.label             "Klipp ut">
+<!ENTITY copy.label            "Kopier">
+<!ENTITY copylink.label        "Kopier lenkjeadresse">
+<!ENTITY paste.label           "Lim inn">
+<!ENTITY delete.label          "Slett">
+<!ENTITY selectAll.label       "Merk alt">
+<!ENTITY noSuggestions.label   "(Ingen forslag)">
+<!ENTITY addToDictionary.label "Legg til i ordbok">
+
+<!ENTITY bookmarksHeader.label     "Bokmerke">
+<!ENTITY bookmarksManage.label     "Handsam">
+
+<!ENTITY editBookmarkRemove.label  "Fjern">
+<!ENTITY editBookmarkDone.label    "Fullført">
+<!ENTITY editBookmarkTags.label    "Legg til merkelappar her">
+
+<!ENTITY helperApp.prompt          "Kva ønskjer du å gjere med">
+<!ENTITY helperApp.open            "Opne">
+<!ENTITY helperApp.save            "Lagre">
+<!ENTITY helperApp.nothing         "Ingenting">
+
+<!ENTITY formHelper.previous       "Føregåande">
+<!ENTITY formHelper.next           "neste">
+<!ENTITY formHelper.done           "Fullført">
+
+<!ENTITY addonsHeader.label        "Utvidingar">
+<!ENTITY addonsLocal.label         "Dine utvidingar">
+<!ENTITY addonsUpdate.label        "Oppdater">
+<!ENTITY addonsRepo.label          "Hent tvidingar">
+<!ENTITY addonsRecommended.label   "Tilrådd">
+<!ENTITY addonsSearch.label        "Søk">
+<!ENTITY addonsSearch2.emptytext   "Søk i katalog">
+<!ENTITY addonsSearch.recommended  "Tilrådd">
+
+<!ENTITY addonOptions.label        "Innstillingar">
+<!ENTITY addonEnable.label         "Slå på">
+<!ENTITY addonDisable.label        "Slå av">
+<!ENTITY addonInstall2.label       "Legg til i &brandShortName;">
+<!ENTITY addonUninstall.label      "Avinstaller">
+<!ENTITY addonCancel.label         "Avbryt">
+<!ENTITY addonShowPage.label       "Gå til sida">
+
+<!ENTITY downloadsHeader.label     "Nedlastingar">
+
+<!ENTITY downloadShowPage.label    "Gå til sida">
+<!ENTITY downloadShow2.label       "Finn">
+<!ENTITY downloadOpen2.label       "Opne">
+<!ENTITY downloadCancel.label      "Avbryt">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Hald fram">
+<!ENTITY downloadRetry.label       "Prøv igjen">
+<!ENTITY downloadRemove.label      "Fjern">
+<!ENTITY downloadFailed.label      "Mislykkka">
+
+<!ENTITY noResults.label           "Ingen resultat">
+<!ENTITY allBookmarks.label        "Vis alle bokmerke">
+
+<!ENTITY searchEngine.addSearch    "Legg til søk:">
+
+<!ENTITY bookmarkPopup.label       "Side bokmerka">
+<!ENTITY bookmarkRemove.label      "Fjern">
+<!ENTITY bookmarkEdit.label        "Rediger">
+
+<!ENTITY identity.unverifiedsite2 "Denne nettsida har ingen opplysningar om identitet.">
+<!ENTITY identity.connectedTo2 "Kopla til">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "køyrt av">
+
+<!ENTITY consoleHeader.label       "Feilkonsoll">
+<!ENTITY consoleAll.label          "Alle">
+<!ENTITY consoleErrors.label       "Feil">
+<!ENTITY consoleWarnings.label     "Åtvaringar">
+<!ENTITY consoleMessages.label     "Meldingar">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Tøm">
+<!ENTITY consoleEvaluate.label     " …">
+<!ENTITY consoleErrFile.label      "Kjeldefil:">
+<!ENTITY consoleErrLine.label      "Linje:">
+<!ENTITY consoleErrColumn.label    "Kolonne:">
