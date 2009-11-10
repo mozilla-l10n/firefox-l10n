@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "Velkomen til &brandShortName;">
+<!ENTITY overview.description               "Synkroniser PC og mobil med Weave. Tilpass med utvidingar. Surf med «Awesome Bar» og mykje, mykje meir.">
+<!ENTITY sync.title                         "Get Up and Go">
+<!ENTITY sync.description                   "Get Weave to help break in your &brandShortName;. Share your preferences, bookmarks, browsing history, and more between your PC and mobile.">
+<!ENTITY sync.linkLabel                     "Hent Weave-utviding">
+<!ENTITY getPersonal.title                  "Personleggjer">
+<!ENTITY getPersonal.description            "Gjer &brandShortName; til din. Tilpass den første nettlesaren nokon gong som tilbyr utvidingar for mobil.">
+<!ENTITY getPersonal.linkLabel              "Hent utvidingar til mobilen din">
