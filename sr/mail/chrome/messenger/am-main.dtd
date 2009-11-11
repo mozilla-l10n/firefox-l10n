@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "о">
 <!ENTITY organization.label "Установа:">
 <!ENTITY organization.accesskey "У">
-<!ENTITY signature.label "Приложи овај потпис:">
-<!ENTITY signature.accesskey "п">
+<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Уреди…">
 <!ENTITY choose.label "Избор…">
 <!ENTITY choose.accesskey "И">
@@ -25,7 +29,7 @@
 <!ENTITY attachVCard.accesskey "в">
 
 <!ENTITY manageIdentities.label "Управљање идентитетима…">
-<!ENTITY manageIdentities.accesskey "И">
+<!ENTITY manageIdentities.accesskey "и">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
 <!ENTITY smtpName.label "Одлазни сервер (SMTP):">

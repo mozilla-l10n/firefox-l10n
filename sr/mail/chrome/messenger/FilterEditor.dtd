@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "провери поште">
 <!ENTITY contextManual.label "ручном покретању">
 <!ENTITY contextBoth.label "провери поште или ручном покретању">
+<!ENTITY contextPostPlugin.label "Провера поште (после класификације)">
+<!ENTITY contextPostPluginBoth.label "Провера поште (после класификације), или ручно покренуто">
 <!ENTITY filterActionDesc.label "Уради следеће:">
 <!ENTITY filterActionDesc.accesskey "У">
 <!-- New Style Filter Rule Actions -->

@@ -96,11 +96,11 @@
 <!ENTITY topBottomEditField.label "Врх и дно:">
 <!ENTITY topBottomEditField.accessKey "В">
 <!ENTITY borderEditField.label "Попуњена ивица:">
-<!ENTITY borderEditField.accessKey "И">
+<!ENTITY borderEditField.accessKey "и">
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Прикажи оквир око увезане слике">
-<!ENTITY showImageLinkBorder.accessKey "О">
+<!ENTITY showImageLinkBorder.accessKey "о">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Формулар">

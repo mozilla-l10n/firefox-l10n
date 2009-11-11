@@ -1,5 +1,5 @@
 <!ENTITY addressbookPicker.label "Адресар:">
-<!ENTITY addressbookPicker.accesskey "а">
+<!ENTITY addressbookPicker.accesskey "А">
 <!ENTITY searchInput.label "Тражи:">
 <!ENTITY searchInput.accesskey "ж">
 <!ENTITY SearchNameOrEmail.label "Име или ел. адресу">
@@ -15,4 +15,4 @@
 <!ENTITY ccButton.label "Додај копије:">
 <!ENTITY ccButton.accesskey "к">
 <!ENTITY bccButton.label "Додај бКоп:">
-<!ENTITY bccButton.accesskey "Б">
+<!ENTITY bccButton.accesskey "б">

@@ -7,7 +7,7 @@
 <!ENTITY fpDialog.title "Сачувај датотеку">
 
 <!ENTITY fileCheck.label "Штампај у датотеку">
-<!ENTITY fileCheck.accesskey "Д">
+<!ENTITY fileCheck.accesskey "д">
 <!ENTITY propertiesButton.label "Својства…">
 <!ENTITY propertiesButton.accesskey "в">
 <!ENTITY descText.label "Опис штампача:">
@@ -19,7 +19,7 @@
 <!ENTITY allpagesRadio.label "Све стране">
 <!ENTITY allpagesRadio.accesskey "С">
 <!ENTITY rangeRadio.label "Стране">
-<!ENTITY rangeRadio.accesskey "Т">
+<!ENTITY rangeRadio.accesskey "т">
 <!ENTITY frompageInput.label "од">
 <!ENTITY frompageInput.accesskey "о">
 <!ENTITY topageInput.label "до">
@@ -29,7 +29,7 @@
 
 <!ENTITY copies.label "Копије">
 <!ENTITY numCopies.label "Број копија:">
-<!ENTITY numCopies.accesskey "б">
+<!ENTITY numCopies.accesskey "Б">
 
 <!ENTITY printframeGroup.label "Штампање оквира">
 <!ENTITY aslaidoutRadio.label "Као на екрану">
@@ -37,4 +37,4 @@
 <!ENTITY selectedframeRadio.label "The selected frame">
 <!ENTITY selectedframeRadio.accesskey "m">
 <!ENTITY eachframesepRadio.label "Сваки оквир засебно">
-<!ENTITY eachframesepRadio.accesskey "З">
+<!ENTITY eachframesepRadio.accesskey "з">

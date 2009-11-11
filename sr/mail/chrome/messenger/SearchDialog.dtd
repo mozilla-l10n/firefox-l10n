@@ -3,27 +3,29 @@
 <!ENTITY searchHeading.accesskey "р">
 <!ENTITY searchSubfolders.label "Тражи поддиректоријуме">
 <!ENTITY searchSubfolders.accesskey "п">
+<!ENTITY searchOnServer.label "Претрага на серверу">
+<!ENTITY searchOnServer.accesskey "П">
 <!ENTITY resetButton.label "Очисти">
 <!ENTITY resetButton.accesskey "О">
 <!ENTITY openButton.label "Отвори">
-<!ENTITY openButton.accesskey "о">
+<!ENTITY openButton.accesskey "О">
 <!ENTITY deleteButton.label "Обриши">
 <!ENTITY deleteButton.accesskey "О">
 <!ENTITY searchDialogTitle.label "Претрага порука">
 <!ENTITY results.label "Резултати">
 <!ENTITY fileHereMenu.label "Смести овде">
-<!ENTITY fileHereMenu.accesskey "Д">
+<!ENTITY fileHereMenu.accesskey "д">
 <!ENTITY fileButton.label "Датотека">
-<!ENTITY fileButton.accesskey "д">
+<!ENTITY fileButton.accesskey "Д">
 <!ENTITY closeCmd.key "З">
-<!ENTITY goToFolderButton.label "Отвори директоријум са порукама">
-<!ENTITY goToFolderButton.accesskey "к">
+<!ENTITY openInFolder.label "Отвори у директоријуму">
+<!ENTITY openInFolder.accesskey "д">
 <!ENTITY saveAsVFButton.label "Сачувај као директоријум за претрагу">
-<!ENTITY saveAsVFButton.accesskey "с">
+<!ENTITY saveAsVFButton.accesskey "С">
 <!-- for ABSearchDialog.xul -->
 
 <!ENTITY abSearchHeading.label "Тражи у:">
-<!ENTITY abSearchHeading.accesskey "т">
+<!ENTITY abSearchHeading.accesskey "Т">
 <!ENTITY propertiesButton.label "Поставке">
 <!ENTITY propertiesButton.accesskey "П">
 <!ENTITY composeButton.label "Запиши">

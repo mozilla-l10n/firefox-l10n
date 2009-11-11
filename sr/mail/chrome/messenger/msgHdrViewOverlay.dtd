@@ -57,24 +57,52 @@
 
 <!ENTITY editMessageDescription.label "Ово је нацрт поруке">
 <!ENTITY editMessageButton.label "Уреди…">
-<!ENTITY replyButton.label "одговори…">
-<!ENTITY forwardButton.label "проследи…">
-<!ENTITY junkButton.label "означи као непожељно">
-<!ENTITY trashButton.tooltiptext "уклони">
+<!ENTITY hdrArchiveButton.label "архивирај">
+<!ENTITY hdrArchiveButton.tooltip "архивирај ову поруку">
+<!ENTITY hdrReplyButton.label "одговор">
+<!ENTITY hdrReplyButton.tooltip "одговор на ову поруку">
+<!ENTITY hdrReplyAllButton.label "одговор свима">
+<!ENTITY hdrReplyAllButton.tooltip "одговор пошиљаоцу и свим примаоцима">
+<!ENTITY hdrReplyListButton.label "одговор на листу">
+<!ENTITY hdrReplyListButton.tooltip "одговор на дописну листу">
+<!ENTITY hdrForwardButton.label "проследи">
+<!ENTITY hdrForwardButton.tooltip "прослеђивање ове поруке">
+<!ENTITY hdrJunkButton.label "нежељено">
+<!ENTITY hdrJunkButton.tooltip "означава поруку као непожељну">
+<!ENTITY hdrTrashButton.label "уклони">
+<!ENTITY hdrTrashButton.tooltip "уклања ову поруку">
+
+<!ENTITY hdrViewToolbarShowFull.label "Покажи слике и текст">
+<!ENTITY hdrViewToolbarShowFull.accesskey "с">
+<!ENTITY hdrViewToolbarShowIcons.label "Покажи само слике">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "л">
+<!ENTITY hdrViewToolbarShowText.label "Покажи само текст">
+<!ENTITY hdrViewToolbarShowText.accesskey "т">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Увек приказуј дугме за одговор пошиљаоцу">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
 
 <!ENTITY otherActionsButton.label "друга дејства">
+<!ENTITY otherActionsShowConversation.label "прикажи у разговорима">
+<!ENTITY otherActionsShowConversation.accesskey "р">
+<!ENTITY otherActionsOpenInNewWindow.label "отвори у новом прозору">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "н">
+<!ENTITY otherActionsOpenInNewTab.label "отвори у новом језичку">
+<!ENTITY otherActionsOpenInNewTab.accesskey "ј">
+<!ENTITY markAsReadMenuItem.label "означи као прочитано">
+<!ENTITY markAsReadMenuItem.accesskey "п">
+<!ENTITY markAsUnreadMenuItem.label "означи као непрочитано">
+<!ENTITY markAsUnreadMenuItem.accesskey "н">
 <!ENTITY saveAsMenuItem.label "сачувај као…">
-<!ENTITY saveAsMenuItem.accesskey "С">
-<!ENTITY viewSourceMenuItem.label "преглед кода…">
-<!ENTITY viewSourceMenuItem.accesskey "П">
-
-<!ENTITY hideDetailsButton.label "сакриј детаље">
-<!ENTITY showDetailsButton.label "покажи детаље">
+<!ENTITY saveAsMenuItem.accesskey "с">
+<!ENTITY viewSourceMenuItem.label "преглед кода">
+<!ENTITY viewSourceMenuItem.accesskey "п">
+<!ENTITY otherActionsPrint.label "штампа…">
+<!ENTITY otherActionsPrint.accesskey "ш">
 
 <!ENTITY openAttachmentCmd.label "Отвори">
 <!ENTITY openAttachmentCmd.accesskey "О">
 <!ENTITY saveAsAttachmentCmd.label "Сачувај као…">
-<!ENTITY saveAsAttachmentCmd.accesskey "К">
+<!ENTITY saveAsAttachmentCmd.accesskey "к">
 <!ENTITY detachAttachmentCmd.label "Откачи…">
 <!ENTITY deleteAttachmentCmd.label "Уклони">
 <!ENTITY saveAllAttachmentsCmd.label "Сачувај све…">
@@ -85,7 +113,7 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "У">
 
 <!ENTITY copyLinkCmd.label "Умножи везу">
-<!ENTITY copyLinkCmd.accesskey "В">
+<!ENTITY copyLinkCmd.accesskey "в">
 
 <!ENTITY CopyMessageId.label "Умножи ИД поруке">
 <!ENTITY OpenMessageForMsgId.label "Отвори поруку по ИДу">

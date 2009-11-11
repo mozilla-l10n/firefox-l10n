@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label "Подешавања отпадне поште">
 <!ENTITY offlineLink.label "Подешавања за рад у локалу">
 
-<!ENTITY rssSectionHdr.label "RSS доводи и блогови">
-<!ENTITY subscibeRSS.label "Управљање праћењима">
+<!ENTITY feedsSectionHdr.label "Feeds">
+<!ENTITY subscribeFeeds.label "Manage subscriptions">

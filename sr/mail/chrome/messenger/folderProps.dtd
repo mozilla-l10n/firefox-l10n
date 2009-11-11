@@ -42,7 +42,7 @@
 
 <!ENTITY generalInfo.label "Општи подаци">
 <!ENTITY folderCharsetTab.label "Подразумевано кодирање знакова">
-<!ENTITY folderCharsetTab.accesskey "З">
+<!ENTITY folderCharsetTab.accesskey "з">
 <!ENTITY folderCharsetOverride.label "Примени изворна подешавања на све поруке у директоријуму (појединачна подешавања кодне странице и аутоматска детекција биће занемарени)">
 <!ENTITY folderCharsetOverride.accesskey "П">
 <!ENTITY folderRebuildSummaryFile.label "Преправи индекс">
@@ -50,21 +50,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label "Преправи датотеку са сажецима">
      
 <!ENTITY retention.label "Полиса чувања порука">
-<!ENTITY retentionUseDefault.label "Користи изворна подешавања">
-<!ENTITY retentionUseDefault.accesskey "п">
+<!ENTITY retentionUseAccount.label "Use my account settings">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "дана старе">
 <!ENTITY message.label "поруке">
-<!ENTITY retentionCleanup.label "Простор на диску се може ослободити брисањем старих порука">
+<!ENTITY retentionCleanup.label "Како бисте уштедели простор на диску, старе поруке се могу трајно уклонити.">
+<!ENTITY retentionCleanupImap.label "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, што обухвата и локалне умношке и оригинале на удаљеном рачунару.">
+<!ENTITY retentionCleanupPop.label "Да бисте вратили простор на диску, старе поруке се могу трајно уклонити, укључујући оригинале на удаљеном рачунару.">
 <!ENTITY retentionDeleteMsg.label "Уклони поруке више од">
-<!ENTITY retentionDeleteMsg.accesskey "у">
+<!ENTITY retentionDeleteMsg.accesskey "У">
 <!ENTITY retentionKeepAll.label "Не уклањај ниједну поруку">
-<!ENTITY retentionKeepAll.accesskey "Ј">
-<!ENTITY retentionKeepNew.label "Уклони све осим последњих оволико порука">
-<!ENTITY retentionKeepNew.accesskey "в">
-<!ENTITY retentionKeepUnread.label "Увек уклони прочитане поруке">
-<!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY retentionKeepAll.accesskey "ј">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездом">
+<!ENTITY retentionApplyToFlagged.accesskey "ч">
 
-<!ENTITY folderOfflineTab.label "Неповезан рад">
+<!ENTITY folderSynchronizationTab.label "Synchronization">
 <!ENTITY folderCheckForNewMessages.label "Провери овај директоријум на нове поруке">
 <!ENTITY folderCheckForNewMessages.accesskey "П">
 

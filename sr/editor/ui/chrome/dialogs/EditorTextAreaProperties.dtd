@@ -49,14 +49,14 @@
 <!ENTITY TextAreaDisabled.label "Искључено">
 <!ENTITY TextAreaDisabled.accessKey "И">
 <!ENTITY TextAreaTabIndex.label "Индекс језичка:">
-<!ENTITY TextAreaTabIndex.accessKey "Ј">
+<!ENTITY TextAreaTabIndex.accessKey "ј">
 <!ENTITY TextAreaAccessKey.label "Тастер за приступ:">
-<!ENTITY TextAreaAccessKey.accessKey "П">
+<!ENTITY TextAreaAccessKey.accessKey "п">
 <!ENTITY InitialText.label "Почетни текст:">
-<!ENTITY InitialText.accessKey "Т">
+<!ENTITY InitialText.accessKey "т">
 
 <!ENTITY TextAreaWrap.label "Начин прелома:">
-<!ENTITY TextAreaWrap.accessKey "П">
+<!ENTITY TextAreaWrap.accessKey "п">
 <!ENTITY WrapDefault.value "Изворни">
 <!ENTITY WrapOff.value "Искључен">
 <!ENTITY WrapHard.value "Увек">

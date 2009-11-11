@@ -2,7 +2,7 @@
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "Датотека">
-<!ENTITY fileMenu.accesskey "д">
+<!ENTITY fileMenu.accesskey "Д">
 <!ENTITY newMenu.label "Ново">
 <!ENTITY newMenu.accesskey "Н">
 <!ENTITY newContact.label "Address Book Contact…">
@@ -13,37 +13,37 @@
 <!ENTITY newAddressBookCmd.label "Адресар…">
 <!ENTITY newAddressBookCmd.accesskey "А">
 <!ENTITY newLDAPDirectoryCmd.label "LDAP директоријум…">
-<!ENTITY newLDAPDirectoryCmd.accesskey "К">
+<!ENTITY newLDAPDirectoryCmd.accesskey "к">
 <!ENTITY newMessageCmd.label "Порука">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "п">
+<!ENTITY newMessageCmd.accesskey "П">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label "Користи Мекинтошев адресар">
 <!ENTITY osxAddressBook.accesskey "М">
 <!ENTITY closeCmd.label "Затвори">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "з">
+<!ENTITY closeCmd.accesskey "З">
 <!ENTITY printSetupCmd.label "Подеси страну...">
-<!ENTITY printSetupCmd.accesskey "п">
+<!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewContactCmd.label "Print Preview Contact">
 <!ENTITY printPreviewContactCmd.accesskey "v">
 <!ENTITY printPreviewAddressBook.label "Преглед адресара пред штампу">
-<!ENTITY printPreviewAddressBook.accesskey "А">
+<!ENTITY printPreviewAddressBook.accesskey "а">
 <!ENTITY printContactCmd.label "Print Contact…">
 <!ENTITY printContactCmd.accesskey "P">
 <!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Штампај адресар…">
-<!ENTITY printAddressBook.accesskey "Т">
+<!ENTITY printAddressBook.accesskey "т">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Уреди">
-<!ENTITY editMenu.accesskey "у">
+<!ENTITY editMenu.accesskey "У">
 <!ENTITY undoCmd.label "Опозови">
 <!ENTITY undoCmd.key "О">
-<!ENTITY undoCmd.accesskey "о">
+<!ENTITY undoCmd.accesskey "О">
 <!ENTITY redoCmd.label "Понови">
 <!ENTITY redoCmd.key "Д">
-<!ENTITY redoCmd.accesskey "п">
+<!ENTITY redoCmd.accesskey "П">
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.key "с">
 <!ENTITY cutCmd.accesskey "с">
@@ -54,7 +54,7 @@
 <!ENTITY pasteCmd.key "Н">
 <!ENTITY pasteCmd.accesskey "б">
 <!ENTITY deleteCmd.label "Обриши">
-<!ENTITY deleteCmd.accesskey "о">
+<!ENTITY deleteCmd.accesskey "О">
 <!ENTITY deleteAbCmd.label "Обриши адресар">
 <!ENTITY deleteContactCmd.label "Delete Contact">
 <!ENTITY deleteContactsCmd.label "Delete Contacts">
@@ -66,17 +66,17 @@
 <!ENTITY searchAddressesCmd.key "f">
 <!ENTITY selectAllCmd.accesskey "с">
 <!ENTITY swapFirstNameLastNameCmd.label "Замени име и презиме">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "з">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "З">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "Особине…">
-<!ENTITY propertiesCmd.accesskey "о">
+<!ENTITY propertiesCmd.accesskey "О">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "Преглед">
-<!ENTITY viewMenu.accesskey "п">
+<!ENTITY viewMenu.accesskey "П">
 <!ENTITY viewToolbarsMenu.label "Алатне траке">
 <!ENTITY viewToolbarsMenu.accesskey "А">
 <!ENTITY showAbToolbarCmd.label "Алатне траке адресара">
@@ -88,13 +88,13 @@
 <!ENTITY showContactPane.label "Contact Summary Pane">
 <!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Редослед приказивања имена">
-<!ENTITY menu_ShowNameAs.accesskey "р">
+<!ENTITY menu_ShowNameAs.accesskey "Р">
 <!ENTITY firstLastCmd.label "Име, презиме">
-<!ENTITY firstLastCmd.accesskey "и">
+<!ENTITY firstLastCmd.accesskey "И">
 <!ENTITY lastFirstCmd.label "Презиме, име">
-<!ENTITY lastFirstCmd.accesskey "п">
+<!ENTITY lastFirstCmd.accesskey "П">
 <!ENTITY displayNameCmd.label "Прикажи име">
-<!ENTITY displayNameCmd.accesskey "п">
+<!ENTITY displayNameCmd.accesskey "П">
 <!ENTITY sortMenu.label "Ређање">
 <!ENTITY sortMenu.accesskey "Р">
 <!-- Tools Menu -->
@@ -102,7 +102,7 @@
 <!ENTITY tasksMenu.label "Алати">
 <!ENTITY tasksMenu.accesskey "А">
 <!ENTITY messengerCmd.label "Пошта и групе">
-<!ENTITY messengerCmd.accesskey "п">
+<!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Тражи адресе…">
 <!ENTITY searchAddressesCmd.accesskey "Т">
@@ -119,7 +119,7 @@
 <!ENTITY newContactButton.label "New Contact">
 <!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Ново друштво">
-<!ENTITY newlistButton.accesskey "Д">
+<!ENTITY newlistButton.accesskey "д">
 <!ENTITY editButton2.label "Properties">
 <!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "Запиши">
@@ -128,7 +128,6 @@
 <!ENTITY newIM.accesskey "Б">
 <!ENTITY deleteButton2.label "Delete">
 <!ENTITY deleteButton2.accesskey "D">
-<!ENTITY throbberItem.title "Показивач активности">
 <!-- Address Book Toolbar Tooltips -->
 
 <!ENTITY newContactButton.tooltip "Create a new address book contact">
@@ -156,11 +155,11 @@
 <!ENTITY ScreenName.label "Екранско име">
 <!ENTITY ScreenName.accesskey "Е">
 <!ENTITY Company.label "Организација">
-<!ENTITY Company.accesskey "о">
+<!ENTITY Company.accesskey "О">
 <!ENTITY NickName.label "Надимак">
-<!ENTITY NickName.accesskey "н">
+<!ENTITY NickName.accesskey "Н">
 <!ENTITY SecondEmail.label "Додатна ел. адреса">
-<!ENTITY SecondEmail.accesskey "д">
+<!ENTITY SecondEmail.accesskey "Д">
 <!ENTITY Department.label "Одељење">
 <!ENTITY Department.accesskey "љ">
 <!ENTITY JobTitle.label "Титула">
@@ -180,7 +179,7 @@
 <!ENTITY sortDescending.label "Опадајући">
 <!ENTITY sortDescending.accesskey "О">
 <!ENTITY _PhoneticName.label "Фонетско име">
-<!ENTITY _PhoneticName.accesskey "ф">
+<!ENTITY _PhoneticName.accesskey "Ф">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

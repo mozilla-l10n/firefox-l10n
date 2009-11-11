@@ -50,4 +50,4 @@
 <!ENTITY changeEntireListRadio.label "Промени цео списак">
 <!ENTITY changeEntireListRadio.accessKey "П">
 <!ENTITY changeSelectedRadio.label "Промени само изабране ставке">
-<!ENTITY changeSelectedRadio.accessKey "И">
+<!ENTITY changeSelectedRadio.accessKey "и">

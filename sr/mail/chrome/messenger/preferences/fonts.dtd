@@ -4,21 +4,21 @@
 <!ENTITY window.unixWidth "43em">
 
 <!ENTITY language.label "Намена:">
-<!ENTITY language.accesskey "н">
+<!ENTITY language.accesskey "Н">
 
-<!ENTITY sizes.label "Величина (у тачкама)">
+<!ENTITY size.label "Size:">
 <!ENTITY proportionalSize.accesskey "е">
-<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY sizeMono.accesskey "i">
 
 <!ENTITY proportional.label "Пропорционални:">
 <!ENTITY proportional.accesskey "П">
 
 <!ENTITY serif.label "Серифни:">
-<!ENTITY serif.accesskey "с">
+<!ENTITY serif.accesskey "С">
 <!ENTITY sans-serif.label "Безсерифни:">
 <!ENTITY sans-serif.accesskey "з">
 <!ENTITY monospace.label "Исте ширине:">
-<!ENTITY monospace.accesskey "и">
+<!ENTITY monospace.accesskey "И">
 
 <!ENTITY font.langGroup.latin1 "западноевропски">
 <!ENTITY font.langGroup.latin2 "централноевропски">
@@ -56,13 +56,17 @@
 
 <!ENTITY useDefaultFontSerif.label "Са серифима">
 <!ENTITY useDefaultFontSansSerif.label "Без серифа">
+<!-- fonts in message -->
 
+<!ENTITY fontControl.label "Font Control">
+<!ENTITY useFixedWidthForPlainText.label "Use fixed width font for plain text messages">
+<!ENTITY fixedWidth.accesskey "x">
 <!ENTITY useDocumentFonts.label "Поруке могу да користе друга писма">
 <!ENTITY useDocumentFonts.accesskey "д">
 <!-- Language settings -->
 
 <!ENTITY sendDefaultCharset.label "Одлазна пошта:">
-<!ENTITY sendDefaultCharset.accesskey "о">
+<!ENTITY sendDefaultCharset.accesskey "О">
 <!ENTITY languagesTitle1.label "Кодирање знакова">
 <!ENTITY composingDescription.label "Поставка изворног кодирања знакова за долазну и одлазну пошту">
 

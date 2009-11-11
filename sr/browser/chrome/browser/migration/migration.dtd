@@ -10,9 +10,9 @@
 <!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird или Phoenix">
 <!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "Не увози ништа">
-<!ENTITY importFromNothing.accesskey "Ш">
+<!ENTITY importFromNothing.accesskey "ш">
 <!ENTITY importFromSeamonkey.label "Netscape 6, 7 или Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "A">
+<!ENTITY importFromSeamonkey.accesskey "a">
 <!ENTITY importFromNetscape4.label "Нетскејп (Netscape) 4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOpera.label "Опера (Opera)">
@@ -22,13 +22,13 @@
 <!ENTITY importFromSafari.label "Сафари (Safari)">
 <!ENTITY importFromSafari.accesskey "С">
 <!ENTITY importFromOmniWeb.label "Омнивеб (OmniWeb)">
-<!ENTITY importFromOmniWeb.accesskey "В">
+<!ENTITY importFromOmniWeb.accesskey "в">
 <!ENTITY importFromICab.label "Икаб (iCab)">
-<!ENTITY importFromICab.accesskey "и">
+<!ENTITY importFromICab.accesskey "И">
 <!ENTITY importFromKonqueror.label "Конкверор (Konqueror)">
 <!ENTITY importFromKonqueror.accesskey "К">
 <!ENTITY importFromEpiphany.label "Спознаја (Epiphany)">
-<!ENTITY importFromEpiphany.accesskey "П">
+<!ENTITY importFromEpiphany.accesskey "п">
 <!ENTITY importFromGaleon.label "Галеон (Galeon)">
 <!ENTITY importFromGaleon.accesskey "Г">
 <!ENTITY importFromHTMLFile.label "Из ХТМЛ датотеке">

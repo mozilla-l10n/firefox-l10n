@@ -7,6 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "П">
 <!ENTITY releaseCmd.label "Белешке о издању">
 <!ENTITY releaseCmd.accesskey "Б">
+<!ENTITY whatsNewCmd.label "Шта има ново">
+<!ENTITY whatsNewCmd.accesskey "Ш">
+<!ENTITY featureConfiguratorCmd.label "Помоћник за миграцију">
+<!ENTITY featureConfiguratorCmd.accesskey "П">
 <!ENTITY openHelp.label "Садржај помоћи">
 <!ENTITY openHelp.accesskey "С">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -15,6 +19,5 @@
 <!ENTITY openHelpMac2.modifiers "accel">
 
 <!ENTITY updateCmd.label "Провера доградњи…">
-<!ENTITY updateCmd.accesskey "д">
-<!ENTITY aboutCmd.label "О програму &brandFullName;">
-<!ENTITY aboutCmd.accesskey "О">
+<!ENTITY aboutMenuCmd.label "О програму &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "О">

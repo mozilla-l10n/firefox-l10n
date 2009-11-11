@@ -12,7 +12,7 @@
 <!ENTITY block.label "Блокирај">
 <!ENTITY block.accesskey "Б">
 <!ENTITY session.label "Дозволи за сесију">
-<!ENTITY session.accesskey "С">
+<!ENTITY session.accesskey "с">
 <!ENTITY allow.label "Дозволи">
 <!ENTITY allow.accesskey "Д">
 <!ENTITY windowClose.key "w">

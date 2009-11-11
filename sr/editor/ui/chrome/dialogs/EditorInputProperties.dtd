@@ -60,21 +60,21 @@
 <!ENTITY InitialValue.label "Initial Value:">
 <!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Изабрано на почетку">
-<!ENTITY InputChecked.accesskey "П">
+<!ENTITY InputChecked.accesskey "п">
 <!ENTITY InputSelected.label "Изабрано на почетку">
-<!ENTITY InputSelected.accesskey "Ч">
+<!ENTITY InputSelected.accesskey "ч">
 <!ENTITY InputReadOnly.label "Само читање">
-<!ENTITY InputReadOnly.accesskey "М">
+<!ENTITY InputReadOnly.accesskey "м">
 <!ENTITY InputDisabled.label "Искључено">
 <!ENTITY InputDisabled.accesskey "И">
 <!ENTITY tabIndex.label "Индекс језичка">
-<!ENTITY tabIndex.accesskey "К">
+<!ENTITY tabIndex.accesskey "к">
 <!ENTITY TextSize.label "Величина поља:">
-<!ENTITY TextSize.accesskey "Љ">
+<!ENTITY TextSize.accesskey "љ">
 <!ENTITY TextLength.label "Највећа дужина">
-<!ENTITY TextLength.accesskey "Ж">
+<!ENTITY TextLength.accesskey "ж">
 <!ENTITY AccessKey.label "Тастер за приступ:">
-<!ENTITY AccessKey.accesskey "У">
+<!ENTITY AccessKey.accesskey "у">
 <!ENTITY Accept.label "Дозвољене врсте:">
 <!ENTITY Accept.accesskey "Д">
 

@@ -42,11 +42,11 @@
 <!ENTITY SelectSize.label "Висина:">
 <!ENTITY SelectSize.accesskey "В">
 <!ENTITY SelectMultiple.label "Вишеструки избор">
-<!ENTITY SelectMultiple.accesskey "Ш">
+<!ENTITY SelectMultiple.accesskey "ш">
 <!ENTITY SelectDisabled.label "Искључен">
 <!ENTITY SelectDisabled.accesskey "И">
 <!ENTITY SelectTabIndex.label "Индекс језичка:">
-<!ENTITY SelectTabIndex.accesskey "Д">
+<!ENTITY SelectTabIndex.accesskey "д">
 
 <!ENTITY OptGroup.label "Група опција">
 <!ENTITY OptGroupLabel.label "Ознака:">
@@ -58,9 +58,9 @@
 <!ENTITY OptionText.label "Текст:">
 <!ENTITY OptionText.accesskey "Т">
 <!ENTITY OptionValue.label "Вредност">
-<!ENTITY OptionValue.accesskey "С">
+<!ENTITY OptionValue.accesskey "с">
 <!ENTITY OptionSelected.label "Први избор">
-<!ENTITY OptionSelected.accesskey "З">
+<!ENTITY OptionSelected.accesskey "з">
 <!ENTITY OptionDisabled.label "Искључен">
 <!ENTITY OptionDisabled.accesskey "И">
 
@@ -69,12 +69,12 @@
 <!ENTITY SelectedHeader.label "Изабрано">
 
 <!ENTITY AddOption.label "Додај опцију">
-<!ENTITY AddOption.accesskey "Ц">
+<!ENTITY AddOption.accesskey "ц">
 <!ENTITY AddOptGroup.label "Додај групу">
-<!ENTITY AddOptGroup.accesskey "Г">
+<!ENTITY AddOptGroup.accesskey "г">
 <!ENTITY RemoveElement.label "Уклони">
 <!ENTITY RemoveElement.accesskey "У">
 <!ENTITY MoveElementUp.label "Помери горе">
-<!ENTITY MoveElementUp.accesskey "Г">
+<!ENTITY MoveElementUp.accesskey "г">
 <!ENTITY MoveElementDown.label "Помери доле">
-<!ENTITY MoveElementDown.accesskey "Е">
+<!ENTITY MoveElementDown.accesskey "е">

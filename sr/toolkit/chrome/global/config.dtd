@@ -62,20 +62,20 @@
 <!ENTITY copyPref.label "Умножи">
 <!ENTITY copyPref.accesskey "У">
 <!ENTITY copyName.label "Умножи име">
-<!ENTITY copyName.accesskey "И">
+<!ENTITY copyName.accesskey "и">
 <!ENTITY copyValue.label "Умножи вредност">
-<!ENTITY copyValue.accesskey "В">
+<!ENTITY copyValue.accesskey "в">
 <!ENTITY modify.label "Измени">
 <!ENTITY modify.accesskey "И">
 <!ENTITY toggle.label "Пребаци">
 <!ENTITY toggle.accesskey "П">
 <!ENTITY reset.label "Обнови">
-<!ENTITY reset.accesskey "Б">
+<!ENTITY reset.accesskey "б">
 <!ENTITY new.label "Ново">
-<!ENTITY new.accesskey "н">
+<!ENTITY new.accesskey "Н">
 <!ENTITY string.label "Стринг">
 <!ENTITY string.accesskey "С">
 <!ENTITY integer.label "Цео број">
-<!ENTITY integer.accesskey "Б">
+<!ENTITY integer.accesskey "б">
 <!ENTITY boolean.label "Булово (boolean)">
 <!ENTITY boolean.accesskey "Б">

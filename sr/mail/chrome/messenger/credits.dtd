@@ -1,6 +1,5 @@
 <!ENTITY credit.title "Заслуге за &brandFullName;">
 <!ENTITY brandMotto "Соколови су спремни!">
-<!ENTITY credit.leads "Вође пројекта">
 <!ENTITY credit.thanks "Посебна захвалност">
 <!-- localization credits look like this: -->
 <!--
@@ -8,11 +7,7 @@
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "<h3>Преводиоци</h3><ul><li>Филип Милетић</li><li>Љубиша Радовановић</li><li>проф. др Владан Јанковић</li><li>Владана Михаиловић</li><li>Драган Митровић</li><li>дипл. инж. Душан Вучковић</li><li>проф. др Милорад Тошић</li></ul>
-">
+<!ENTITY credit.translation "">
 
-<!ENTITY credit.theme "Дизајн теме">
-<!ENTITY credit.qa "Провера квалитета">
-<!ENTITY credit.build "Изградња и издавање">
 <!ENTITY credit.memory "У сећање на">
 <!ENTITY credit.poweredByGecko "Покреће геко (Gecko&trade;)">

@@ -1,40 +1,62 @@
-<!ENTITY sanitizePrefs.title "Уклони приватне податке">
-<!ENTITY sanitizeDialog2.title "Уклони скорашњи историјат">
+<!ENTITY sanitizePrefs2.title "Settings for Clearing History">
+<!ENTITY sanitizeDialog2.title "Clear Recent History">
 
-<!ENTITY sanitizeItems.label "Уклони следеће ставке:">
-<!ENTITY clearDataSettings2.label "При крају рада са програмом &brandShortName;, аутоматски се уклања:">
+<!ENTITY sanitizeItems.label "Clear the following items now:">
+<!ENTITY clearDataSettings2.label "When I quit &brandShortName;, it should automatically clear all:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
 
-
-<!ENTITY clearDuration.label "Уклони">
-<!ENTITY clearDuration.lastHour "последњи сат">
-<!ENTITY clearDuration.last2Hours "последња 2 сата">
-<!ENTITY clearDuration.last4Hours "последња 4 сата">
-<!ENTITY clearDuration.today "цео данашњи историјат">
-<!ENTITY clearDuration.everything "цео историјат">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+<!ENTITY clearTimeDuration.label "Time range to clear: ">
+<!ENTITY clearTimeDuration.accesskey "T">
+<!ENTITY clearTimeDuration.lastHour "Last Hour">
+<!ENTITY clearTimeDuration.last2Hours "Last Two Hours">
+<!ENTITY clearTimeDuration.last4Hours "Last Four Hours">
+<!ENTITY clearTimeDuration.today "Today">
+<!ENTITY clearTimeDuration.everything "Everything">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Visit Date">
+<!ENTITY clearTimeDuration.nameColumn "Name">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
 
-<!ENTITY historySection.label "Историјат">
-<!ENTITY dataSection.label "Подаци">
+<!ENTITY detailsProgressiveDisclosure.label "Details">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!ENTITY itemVisitedPages.label "Посећене стране">
-<!ENTITY itemVisitedPages.accesskey "П">
-<!ENTITY itemFormSearchEntries.label "Формуларе и уносе за претрагу">
-<!ENTITY itemFormSearchEntries.accesskey "Ф">
-<!ENTITY itemPasswords.label "Сачуване лозинке">
-<!ENTITY itemPasswords.accesskey "Л">
-<!ENTITY itemCookies.label "Колачиће">
-<!ENTITY itemCookies.accesskey "Л">
-<!ENTITY itemWebCache.label "Мрежни кеш">
-<!ENTITY itemWebCache.accesskey "М">
-<!ENTITY itemOfflineApps.label "Примљене податке са сајтова">
-<!ENTITY itemOfflineApps.accesskey "Р">
-<!ENTITY itemDownloadList.label "Списак пријема">
-<!ENTITY itemDownloadList.accesskey "С">
-<!ENTITY itemActiveLogins.label "Активне пријаве">
-<!ENTITY itemActiveLogins.accesskey "А">
+<!ENTITY historySection.label "History">
+<!ENTITY dataSection.label "Data">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
 
-<!ENTITY window.width "30em">
+<!ENTITY itemHistoryAndDownloads.label "Browsing &amp; Download History">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemBrowsingHistory.label "Browsing History">
+<!ENTITY itemBrowsingHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Form &amp; Search History">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Saved Passwords">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemOfflineApps.label "Offline Website Data">
+<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemDownloadHistory.label "Download History">
+<!ENTITY itemDownloadHistory.accesskey "D">
+<!ENTITY itemActiveLogins.label "Active Logins">
+<!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemSitePreferences.label "Site Preferences">
+<!ENTITY itemSitePreferences.accesskey "S">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+
+<!ENTITY sanitizeEverythingUndoWarning "This action cannot be undone.">
+
+<!ENTITY dialog.width "29em">
 <!ENTITY column.width "14em">

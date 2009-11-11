@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle "Поверљиво читање">
-
-<!ENTITY privatebrowsingpage.pagetitle "Поверљиво читање">
+<!ENTITY privatebrowsingpage.title "Поверљиво читање">
+<!ENTITY privatebrowsingpage.title.normal "Да ли желите да покренете поверљиво читање?">
 
 <!ENTITY privatebrowsingpage.issueDesc "Програм &brandShortName; неће памтити историјат за ову сесију.">
-<!ENTITY privatebrowsingpage.longDesc "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; тренутно не ради у режиму поверљивог читања.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label "Clear Recent History…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
+<!ENTITY privatebrowsingpage.description "У сесији са поверљивим читањем, &brandShortName; не чува историјат, историјат претрага, историјат пријема, историјат формулара, колачиће нити привремене датотеке.  Међутим, датотеке које примите и забелешке које направите биће сачуване.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.howToStopDesc "To stop private browsing, uncheck Tools &gt; Private Browsing.">
-<!ENTITY privatebrowsingpage.footerDesc "Enjoy!">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Можете да почнете тако што">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "очистите историјат">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Почни са поверљивим читањем">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "п">
+
+<!ENTITY privatebrowsingpage.howToStop "Да бисте обуставили поверљиво читање, изаберите &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, или искључите &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "Да бисте покренули поверљиво читање, можете такође да изаберете &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Иако рачунар неће оставити трага о историјату прегледаних страна, Ваш добављач услуге интернета или послодавац и даље могу да прате стране које сте посетили.">
+<!ENTITY privatebrowsingpage.learnMore "Сазнајте више">

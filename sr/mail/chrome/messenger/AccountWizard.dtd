@@ -39,7 +39,7 @@
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Унесите име Вашег долазног сервера (на пример, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Долазни сервер:">
-<!ENTITY incomingServerLabel.accesskey "С">
+<!ENTITY incomingServerLabel.accesskey "с">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Унесите име Вашег сервера за групе (NNTP) (на пример, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -54,13 +54,13 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 
-<!ENTITY haveSmtp1.prefix "Ваш тренутни одлазећи сервер (SMTP), „">
-<!ENTITY haveSmtp1.suffix "‟ ће бити коришћен.  Можете да промените подешавања одлазећег сервера избором подешавања налога из менија Алати.">
+<!ENTITY haveSmtp1.prefix "Ваш тренутни одлазни сервер (SMTP), „">
+<!ENTITY haveSmtp1.suffix2 "‟ ће бити коришћен.  Можете да промените одлазни сервер у подешавањима налога.">
 <!-- Entities for Login page -->
 
 
@@ -73,18 +73,18 @@
 <!ENTITY usernameSmtpDesc.label "Унесит одлазно корисничко име које Вам је дао добављач електронске поште (обично је исто као долазно корисничко име).">
 <!ENTITY usernameSmtpLabel.label "Одлазно корисничко име:">
 <!ENTITY usernameSmtpLabel.accesskey "О">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ваше тренутно одлазно (SMTP) корисничко име, „">
-<!ENTITY haveSmtp2.suffix "‟ ће бити коришћен.  Можете да промените подешавања одлазећег сервера избором подешавања налога из менија Алати.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "‟ ће бити употребљено.  Можете да промените одлазне сервере у подешавањима налога.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ваш одлазни (SMTP) сервер, „">
-<!ENTITY haveSmtp3.suffix "“, је исти као долазни сервер, ваше долазно корисничко име биће коришћено за приступ. Можете променити подешавања одлазног сервера бирајући Подешавања налога из менија Алати.">
+<!ENTITY haveSmtp3.suffix2 "‟ је идентичан као долазни сервер, ваше долазно корисничко име ће бити употребљено за приступ.  Можете променити одлазни сервер у подешавањима налога.">
 <!-- Entities for Account name page -->
 
 
@@ -103,7 +103,9 @@
 <!ENTITY smtpServerNamePrefix.label "Име одлазног сервера (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Име сервера за групе (NNTP):">
 <!ENTITY downloadOnLogin.label "Преузми поруке одмах">
+<!ENTITY downloadOnLogin.accesskey "П">
 <!ENTITY deferStorageDesc.label "Одбележите ову кутију како бисте чували пошту за овај налог у посебном директоријуму. На тај начин овај налог ће се појавити на врху. У супротном, биће део Локалних директоријума за Глобалну долазну пошту.">
 <!ENTITY deferStorage.label "Користи глобални долазни директоријум (пошта се смешта у локални директоријум „Долазно“)">
+<!ENTITY deferStorage.accesskey "г">
 <!ENTITY clickFinish.label "Притисните „Крај“ како бисте сачували ова подешавања и завршили рад са чаробњаком за налоге.">
 <!ENTITY clickFinish.labelMac "Притисните „Готово‟ како бисте сачували ова подешавања и изашли из Чаробњака за налоге.">

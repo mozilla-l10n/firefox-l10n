@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Претплате на РСС">
+<!ENTITY feedSubscriptions.label "Feed Subscriptions">
 <!ENTITY subscriptionDesc.label "Примедба: Уклањање или промена директоријума за довод неће утицати на претходно примљене чланке.">
 <!ENTITY feedTitle.label "Титула:">
 <!ENTITY location.label "Место:">

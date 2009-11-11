@@ -43,8 +43,8 @@
 <!ENTITY directoriesText.label "Избор директоријума за LDAP сервер">
 <!ENTITY directoriesText.accesskey "И">
 <!ENTITY addDirectory.label "Додај">
-<!ENTITY addDirectory.accesskey "д">
+<!ENTITY addDirectory.accesskey "Д">
 <!ENTITY editDirectory.label "Уреди">
-<!ENTITY editDirectory.accesskey "у">
+<!ENTITY editDirectory.accesskey "У">
 <!ENTITY deleteDirectory.label "Обриши">
-<!ENTITY deleteDirectory.accesskey "о">
+<!ENTITY deleteDirectory.accesskey "О">

@@ -70,46 +70,50 @@
 <!ENTITY PrimaryEmail.label "Ел. адреса:">
 <!ENTITY PrimaryEmail.accesskey "Е">
 <!ENTITY SecondEmail.label "Додатна ел. адреса:">
-<!ENTITY SecondEmail.accesskey "д">
+<!ENTITY SecondEmail.accesskey "Д">
 <!ENTITY PreferMailFormat.label "Жели да прима поруке форматиране као:">
-<!ENTITY PreferMailFormat.accesskey "ж">
+<!ENTITY PreferMailFormat.accesskey "Ж">
 <!ENTITY PlainText.label "Обичан текст">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Непознато">
 <!ENTITY ScreenName.label "Екранско име:">
 <!ENTITY ScreenName.accesskey "Е">
 
-<!ENTITY allowRemoteContent.label "Дозволи удаљене слике">
-<!ENTITY allowRemoteContent.accesskey "љ">
-<!ENTITY allowRemoteContent.tooltip "У порукама са ХТМЛ-ом је могућа уградња слика са удаљених рачунара.  Отварање овакве поруке ће отворити везу ка том рачунару.  Помоћу овога је могуће пратити да ли је порука прочитана.  Бирањем ове опције ћете дозволити приказ оваквих слика када Вам овај контакт пошаље поруку.">
+<!ENTITY allowRemoteContent1.label "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to
+embed content from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label "Посао:">
 <!ENTITY WorkPhone.accesskey "с">
 <!ENTITY HomePhone.label "Кућа:">
-<!ENTITY HomePhone.accesskey "к">
+<!ENTITY HomePhone.accesskey "К">
 <!ENTITY FaxNumber.label "Факс:">
-<!ENTITY FaxNumber.accesskey "ф">
+<!ENTITY FaxNumber.accesskey "Ф">
 <!ENTITY PagerNumber.label "Пејџер:">
-<!ENTITY PagerNumber.accesskey "п">
+<!ENTITY PagerNumber.accesskey "П">
 <!ENTITY CellularNumber.label "Мобилни:">
 <!ENTITY CellularNumber.accesskey "М">
 
 <!ENTITY Home.tab "Приватни">
 <!ENTITY Home.accesskey "П">
 <!ENTITY HomeAddress.label "Адреса:">
-<!ENTITY HomeAddress.accesskey "Д">
+<!ENTITY HomeAddress.accesskey "д">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Место:">
-<!ENTITY HomeCity.accesskey "м">
+<!ENTITY HomeCity.accesskey "М">
 <!ENTITY HomeState.label "Област/покрајина:">
 <!ENTITY HomeState.accesskey "О">
 <!ENTITY HomeZipCode.label "Поштански број:">
-<!ENTITY HomeZipCode.accesskey "Ш">
+<!ENTITY HomeZipCode.accesskey "ш">
 <!ENTITY HomeCountry.label "Држава:">
 <!ENTITY HomeCountry.accesskey "ж">
 <!ENTITY HomeWebPage.label "Веб страна:">
-<!ENTITY HomeWebPage.accesskey "в">
+<!ENTITY HomeWebPage.accesskey "В">
 <!ENTITY Birthday.label "Рођендан:">
 <!ENTITY Birthday.accesskey "Р">
 <!ENTITY In.label "">
@@ -121,7 +125,7 @@
 <!ENTITY Work.tab "Посао">
 <!ENTITY Work.accesskey "о">
 <!ENTITY JobTitle.label "Титула:">
-<!ENTITY JobTitle.accesskey "т">
+<!ENTITY JobTitle.accesskey "Т">
 <!ENTITY Department.label "Одељење:">
 <!ENTITY Department.accesskey "љ">
 <!ENTITY Company.label "Огранизација:">
@@ -133,9 +137,9 @@
 <!ENTITY WorkCity.label "Место:">
 <!ENTITY WorkCity.accesskey "т">
 <!ENTITY WorkState.label "Област/Покрајина:">
-<!ENTITY WorkState.accesskey "К">
+<!ENTITY WorkState.accesskey "к">
 <!ENTITY WorkZipCode.label "Поштански број:">
-<!ENTITY WorkZipCode.accesskey "С">
+<!ENTITY WorkZipCode.accesskey "с">
 <!ENTITY WorkCountry.label "Држава:">
 <!ENTITY WorkCountry.accesskey "в">
 <!ENTITY WorkWebPage.label "Веб страна:">
@@ -153,3 +157,19 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Белешке:">
 <!ENTITY Notes.accesskey "Б">
+
+<!ENTITY Photo.tab "Photo">
+<!ENTITY Photo.accesskey "o">
+<!ENTITY PhotoDesc.label "Pick one of the following:">
+<!ENTITY GenericPhoto.label "Generic Photo">
+<!ENTITY GenericPhoto.accesskey "G">
+<!ENTITY DefaultPhoto.label "Default">
+<!ENTITY PhotoFile.label "On this Computer">
+<!ENTITY PhotoFile.accesskey "n">
+<!ENTITY BrowsePhoto.label "Browse">
+<!ENTITY BrowsePhoto.accesskey "r">
+<!ENTITY PhotoURL.label "On the Web">
+<!ENTITY PhotoURL.accesskey "b">
+<!ENTITY PhotoURL.emptytext "Paste or type the web address of a photo">
+<!ENTITY UpdatePhoto.label "Update">
+<!ENTITY UpdatePhoto.accesskey "u">

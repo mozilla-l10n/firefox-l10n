@@ -22,7 +22,7 @@
 <!ENTITY optionsGroup.label "Опције">
 
 <!ENTITY printBG.label "Штампа позадине (боје и слика)">
-<!ENTITY printBG.accesskey "П">
+<!ENTITY printBG.accesskey "п">
 
 <!ENTITY advanced.tab "Маргине &amp; Заглавље/Подножје">
 
@@ -36,7 +36,7 @@
 <!ENTITY marginLeft.label "Лево:">
 <!ENTITY marginLeft.accesskey "Л">
 <!ENTITY marginRight.label "Десно:">
-<!ENTITY marginRight.accesskey "С">
+<!ENTITY marginRight.accesskey "с">
 
 <!ENTITY headerFooter.label "Заглавља и фусноте">
 

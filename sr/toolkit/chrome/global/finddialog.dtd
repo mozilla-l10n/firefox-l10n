@@ -2,17 +2,17 @@
 
 <!ENTITY findDialog.title "Пронађи на овој страни">
 <!ENTITY findField.label "Пронађи:">
-<!ENTITY findField.accesskey "п">
+<!ENTITY findField.accesskey "П">
 <!ENTITY caseSensitiveCheckbox.label "Разликуј величину слова">
 <!ENTITY caseSensitiveCheckbox.accesskey "в">
 <!ENTITY wrapCheckbox.label "Прелом редова">
-<!ENTITY wrapCheckbox.accesskey "Р">
+<!ENTITY wrapCheckbox.accesskey "р">
 <!ENTITY findButton.label "Нађи следеће">
-<!ENTITY findButton.accesskey "С">
+<!ENTITY findButton.accesskey "с">
 <!ENTITY cancelButton.label "Откажи">
 <!ENTITY closeButton.label "Затвори">
 <!ENTITY up.label "Нагоре">
-<!ENTITY up.accesskey "Г">
+<!ENTITY up.accesskey "г">
 <!ENTITY down.label "Надоле">
-<!ENTITY down.accesskey "Д">
+<!ENTITY down.accesskey "д">
 <!ENTITY direction.label "Смер">

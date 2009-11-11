@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "Подешавање RSS налога">
+<!ENTITY accountTitle.label "Account Settings">
 
 <!ENTITY biffStart.label "Проверавај чланке на">
 <!ENTITY biffStart.accesskey "ч">
@@ -12,9 +12,9 @@
 
 <!ENTITY manageSubscriptions.label "Управљање праћењима…">
 <!ENTITY manageSubscriptions.accesskey "У">
-<!-- entities from defaults/isp/rss.rdf -->
+<!-- entities from rss.rdf -->
 
-<!ENTITY rss.accountName "Вести и блогови">
-<!ENTITY rss.wizardShortName "РСС (RSS)">
-<!ENTITY rss.wizardLongName "Доводи РССа и блогови">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY feeds.accountName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; News Feeds">
+<!ENTITY feeds.wizardLongName.accesskey "F">

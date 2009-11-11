@@ -45,7 +45,7 @@
 <!ENTITY copy.accesskey "У">
 <!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Изабери све">
-<!ENTITY selectall.accesskey "С">
+<!ENTITY selectall.accesskey "с">
 <!ENTITY closeWindow.key "л">
 
 <!ENTITY generalTab "Опште">
@@ -88,6 +88,7 @@
 <!ENTITY permTab "Дозволе">
 <!ENTITY permTab.accesskey "Д">
 <!ENTITY permUseDefault "Користи изворно">
+<!ENTITY permAskAlways "Увек питај">
 <!ENTITY permAllow "Дозволи">
 <!ENTITY permAllowSession "Дозволи за сесију">
 <!ENTITY permBlock "Блокирај">
@@ -96,6 +97,7 @@
 <!ENTITY permPopup "Отварај искачуће прозоре">
 <!ENTITY permCookie "Постави колачиће">
 <!ENTITY permInstall "Инсталација продужетака и тема">
+<!ENTITY permGeo "Објави локацију">
 
 <!ENTITY securityTab "Безбедност">
 <!ENTITY securityTab.accesskey "н">
@@ -106,9 +108,9 @@
 
 
 <!ENTITY securityView.identity.header "Идентитет сајта">
-<!ENTITY securityView.identity.owner "Власник: ">
-<!ENTITY securityView.identity.domain "Веб сајт: ">
-<!ENTITY securityView.identity.verifier "Проверио: ">
+<!ENTITY securityView.identity.owner "Власник:">
+<!ENTITY securityView.identity.domain "Веб сајт:">
+<!ENTITY securityView.identity.verifier "Проверио:">
 
 <!ENTITY securityView.privacy.header "Приватност и историјат">
 <!ENTITY securityView.privacy.history "Да ли сам овај сајт посетио раније?">

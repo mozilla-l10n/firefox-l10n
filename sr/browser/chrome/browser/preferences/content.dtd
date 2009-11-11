@@ -9,9 +9,9 @@
 <!ENTITY exceptions.accesskey "з">
 
 <!ENTITY enableJavaScript.label "Укључи јаваскрипт (JavaScript)">
-<!ENTITY enableJavaScript.accesskey "С">
+<!ENTITY enableJavaScript.accesskey "с">
 <!ENTITY advancedJS.label "Напредно…">
-<!ENTITY advancedJS.accesskey "н">
+<!ENTITY advancedJS.accesskey "Н">
 
 <!ENTITY enableJava.label "Укључи јаву">
 <!ENTITY enableJava.accesskey "ј">
@@ -20,7 +20,7 @@
 <!ENTITY fontsAndColors.label "Писма и боје">
 
 <!ENTITY defaultFont.label "Изворно писмо:">
-<!ENTITY defaultFont.accesskey "П">
+<!ENTITY defaultFont.accesskey "п">
 <!ENTITY defaultSize.label "Величина:">
 <!ENTITY defaultSize.accesskey "В">
 

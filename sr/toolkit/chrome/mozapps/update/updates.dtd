@@ -7,9 +7,17 @@
 <!ENTITY updateCheck.label "Тражимо ново издање програма &brandShortName;…">
 
 <!ENTITY noupdatesfound.title "Доградње нису пронађене">
-<!ENTITY noupdatesautoenabled.intro "Нема нових доградњи.  &brandShorName; ће периодични проверавати доградње.">
+<!ENTITY noupdatesautoenabled.intro "Нема нових доградњи.  Програм &brandShortName; ће периодичнo проверавати доградње.">
 <!ENTITY noupdatesautodisabled.intro "Нема нових доградњи.  Молимо да проверите касније или да укључите 
 аутоматску проверу у програму &brandShortName;.">
+
+<!ENTITY manualUpdate.title "Доградња није могућа">
+<!ENTITY manualUpdate.desc "Доступна је препоручена доградња за безбедност и стабилност, али
+не поседујете права приступа потребна да је инсталирате.  Молимо да
+се обратите администратору система, или да инсталацију пробате поново
+уз употребу корисничког налога који има дозволу да инсталира програме
+на овај рачунар.">
+<!ENTITY manualUpdateGetMsg.label "Најсвежије издање програма &brandShortName; можете набавити на адреси:">
 
 <!ENTITY incompatibleCheck.title "Провера сагласности додатака">
 <!ENTITY incompatibleCheck.label "Тражење нових издања додатака…">

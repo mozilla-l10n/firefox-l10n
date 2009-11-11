@@ -7,16 +7,16 @@
 
 <!ENTITY color "Текст и позадина">
 <!ENTITY textColor.label "Текст:">
-<!ENTITY textColor.accesskey "т">
+<!ENTITY textColor.accesskey "Т">
 <!ENTITY backgroundColor.label "Позадина:">
-<!ENTITY backgroundColor.accesskey "п">
+<!ENTITY backgroundColor.accesskey "П">
 <!ENTITY useSystemColors.label "Користи системске боје">
-<!ENTITY useSystemColors.accesskey "к">
+<!ENTITY useSystemColors.accesskey "К">
 
 <!ENTITY underlineLinks.label "Подвуци везе">
-<!ENTITY underlineLinks.accesskey "п">
+<!ENTITY underlineLinks.accesskey "П">
 <!ENTITY links "Боје везе">
 <!ENTITY linkColor.label "Непосећене везе:">
 <!ENTITY linkColor.accesskey "в">
 <!ENTITY visitedLinkColor.label "Посећене везе:">
-<!ENTITY visitedLinkColor.accesskey "п">
+<!ENTITY visitedLinkColor.accesskey "П">

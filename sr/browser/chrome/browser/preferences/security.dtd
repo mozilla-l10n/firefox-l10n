@@ -9,10 +9,10 @@
 -->
 
 <!ENTITY blockAttackSites.label "Блокирај познате ризичне сајтове">
-<!ENTITY blockAttackSites.accesskey "б">
+<!ENTITY blockAttackSites.accesskey "Б">
 
 <!ENTITY blockWebForgeries.label "Блокирај познате мрежне фалсификате">
-<!ENTITY blockWebForgeries.accesskey "Л">
+<!ENTITY blockWebForgeries.accesskey "л">
 
 <!ENTITY addonExceptions.label "Изузеци…">
 <!ENTITY addonExceptions.accesskey "И">
@@ -28,10 +28,10 @@
 <!ENTITY useMasterPassword.label "Користи главну лозинку">
 <!ENTITY useMasterPassword.accesskey "К">
 <!ENTITY changeMasterPassword.label "Измена главне лозинке…">
-<!ENTITY changeMasterPassword.accesskey "Г">
+<!ENTITY changeMasterPassword.accesskey "г">
 
 <!ENTITY savedPasswords.label "Сачуване лозинке…">
-<!ENTITY savedPasswords.accesskey "Л">
+<!ENTITY savedPasswords.accesskey "л">
 
 
 <!ENTITY warnings.label "Поруке упозорења">

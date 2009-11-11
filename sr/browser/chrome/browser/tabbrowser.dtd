@@ -2,16 +2,18 @@
 <!ENTITY newTab.label "Нови језичак">
 <!ENTITY newTab.accesskey "Н">
 <!ENTITY closeTab.label "Затвори језичак">
-<!ENTITY closeTab.accesskey "з">
+<!ENTITY closeTab.accesskey "З">
 <!ENTITY closeOtherTabs.accesskey "д">
 <!ENTITY closeOtherTabs.label "Затвори друге језичке">
 <!ENTITY reloadAllTabs.label "Обнови све језичке">
-<!ENTITY reloadAllTabs.accesskey "С">
+<!ENTITY reloadAllTabs.accesskey "с">
 <!ENTITY reloadTab.label "Обнови језичак">
-<!ENTITY reloadTab.accesskey "о">
+<!ENTITY reloadTab.accesskey "О">
+<!ENTITY openTabInNewWindow.label "Отвори у новом језичку">
+<!ENTITY openTabInNewWindow.accesskey "ј">
 <!ENTITY listAllTabs.label "Наброј све језичке">
 <!ENTITY bookmarkAllTabs.label "Забележи све језичке">
-<!ENTITY bookmarkAllTabs.accesskey "В">
+<!ENTITY bookmarkAllTabs.accesskey "в">
 <!ENTITY bookmarkThisTab.label "Забележи овај језичак">
 <!ENTITY bookmarkThisTab.accesskey "З">
 <!ENTITY undoCloseTab.label "Врати затворен језичак">

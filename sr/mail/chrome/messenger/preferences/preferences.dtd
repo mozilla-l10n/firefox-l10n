@@ -1,4 +1,3 @@
-
 <!ENTITY prefWindow.titleWin "Опције">
 <!ENTITY prefWindow.titleGNOME "Поставке за &brandShortName;">
 <!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
@@ -9,7 +8,5 @@
 <!ENTITY paneDisplay.title "Приказ">
 <!ENTITY paneComposition.title "Састављање">
 <!ENTITY paneAttachments.title "Прилози">
-<!ENTITY panePrivacy.title "Приватност">
+<!ENTITY paneSecurity.title "Security">
 <!ENTITY paneAdvanced.title "Напредно">
-
-<!ENTITY cmdCloseMac.commandKey "w">

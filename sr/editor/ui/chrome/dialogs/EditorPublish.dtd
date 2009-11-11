@@ -44,7 +44,7 @@
 <!-- Publish Tab Panel -->
 
 <!ENTITY siteList.label "Име сајта:">
-<!ENTITY siteList.accesskey "и">
+<!ENTITY siteList.accesskey "И">
 <!ENTITY siteList.tooltip "Изаберите сајт где желите да објавите">
 <!ENTITY newSiteButton.label "Нови сајт">
 <!ENTITY newSiteButton.accesskey "Н">
@@ -70,7 +70,7 @@
 <!ENTITY filename.tooltip "Унесите име за ову датотеку, укључите и наставак „.html‟">
 <!ENTITY filenameExample.label "нпр.,: &quot;мојастрана.html&quot;">
 <!ENTITY setDefaultButton.label "Постави као изворно">
-<!ENTITY setDefaultButton.accesskey "И">
+<!ENTITY setDefaultButton.accesskey "и">
 <!ENTITY removeButton.label "Уклони сајт">
 <!ENTITY removeButton.accesskey "У">
 <!-- Settings Tab Panel -->
@@ -79,19 +79,19 @@
 <!ENTITY serverInfo.label "Подаци о серверу">
 <!ENTITY loginInfo.label "Подаци за пријаву">
 <!ENTITY siteName.label "Име сајта:">
-<!ENTITY siteName.accesskey "и">
+<!ENTITY siteName.accesskey "И">
 <!ENTITY siteName.tooltip "Име које Вас идентификује на месту за објаву">
 <!ENTITY siteUrl.label "Адреса за објаву (нпр.: „ftp://ftp.myisp.com/мојеиме‟):">
-<!ENTITY siteUrl.accesskey "а">
+<!ENTITY siteUrl.accesskey "А">
 <!ENTITY siteUrl.tooltip "Адреса за FTP:// или HTTP:// коју Вам је уступио добављач Интернета или хостинга">
 <!ENTITY browseUrl.label "ХТТП адреса Ваше почетне стране (e.g.: „http://www.myisp.com/myusername‟):">
-<!ENTITY browseUrl.accesskey "Д">
+<!ENTITY browseUrl.accesskey "д">
 <!ENTITY browseUrl.tooltip "HTTP:// адреса Вашег директоријума (без имена датотека)">
 <!ENTITY username.label "Корисничко име:">
 <!ENTITY username.accesskey "К">
 <!ENTITY username.tooltip "Корисничко име које користите за пријаву на добављача Интернета или хостинга">
 <!ENTITY password.label "Лозинка:">
-<!ENTITY password.accesskey "л">
+<!ENTITY password.accesskey "Л">
 <!ENTITY password.tooltip "Лозинка повезана са Вашим корисничким именом">
 <!ENTITY savePassword.label "Сачувај лозинку">
 <!ENTITY savePassword.accesskey "С">

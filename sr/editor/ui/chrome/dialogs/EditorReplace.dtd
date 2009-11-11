@@ -40,9 +40,9 @@
 
 <!ENTITY replaceDialog.title "Нађи и замени">
 <!ENTITY findField.label "Нађи текст:">
-<!ENTITY findField.accesskey "н">
+<!ENTITY findField.accesskey "Н">
 <!ENTITY replaceField.label "Замени са:">
-<!ENTITY replaceField.accesskey "з">
+<!ENTITY replaceField.accesskey "З">
 <!ENTITY caseSensitiveCheckbox.label "Разликуј мала и велика слова">
 <!ENTITY caseSensitiveCheckbox.accesskey "м">
 <!ENTITY wrapCheckbox.label "Премотај">
@@ -56,5 +56,5 @@
 <!ENTITY replaceAndFindButton.label "Замени и пронађи">
 <!ENTITY replaceAndFindButton.accesskey "р">
 <!ENTITY replaceAllButton.label "Замени све">
-<!ENTITY replaceAllButton.accesskey "В">
+<!ENTITY replaceAllButton.accesskey "в">
 <!ENTITY closeButton.label "Затвори">

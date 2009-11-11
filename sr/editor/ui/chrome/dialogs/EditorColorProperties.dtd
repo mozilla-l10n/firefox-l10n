@@ -42,17 +42,17 @@
 <!ENTITY defaultColorsRadio.accessKey "П">
 <!ENTITY defaultColorsRadio.tooltip "Користи искључиво подешавања из корисниковог читача">
 <!ENTITY customColorsRadio.label "Користи произвољне боје:">
-<!ENTITY customColorsRadio.accessKey "Б">
+<!ENTITY customColorsRadio.accessKey "б">
 <!ENTITY customColorsRadio.tooltip "Ова подешавања имају предност над корисниковим подешавањима">
 
 <!ENTITY normalText.label "Нормалан текст">
-<!ENTITY normalText.accessKey "О">
+<!ENTITY normalText.accessKey "о">
 <!ENTITY linkText.label "Текст везе">
-<!ENTITY linkText.accessKey "В">
+<!ENTITY linkText.accessKey "в">
 <!ENTITY activeLinkText.label "Текст активне везе">
-<!ENTITY activeLinkText.accessKey "А">
+<!ENTITY activeLinkText.accessKey "а">
 <!ENTITY visitedLinkText.label "Текст посећене везе">
-<!ENTITY visitedLinkText.accessKey "П">
+<!ENTITY visitedLinkText.accessKey "п">
 <!ENTITY background.label "Позадина:">
 <!ENTITY background.accessKey "П">
 <!ENTITY colon.character ":">

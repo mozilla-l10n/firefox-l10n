@@ -3,9 +3,9 @@
 <!ENTITY editBookmarkOverlay.location.label "Место:">
 <!ENTITY editBookmarkOverlay.location.accesskey "М">
 <!ENTITY editBookmarkOverlay.feedLocation.label "Место довода:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey "Д">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey "д">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Место сајта:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey "С">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey "с">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Живи наслови">
 <!ENTITY editBookmarkOverlay.folder.label "Директоријум:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Прикажи све директоријуме са забелешкама">
@@ -22,4 +22,4 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "б">
 <!ENTITY editBookmarkOverlay.choose.label "Избор…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Нови директоријум">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "н">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "Н">

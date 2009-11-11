@@ -1,9 +1,9 @@
 <!ENTITY matchAll.label "Уклопи све наведено">
-<!ENTITY matchAll.accesskey "у">
+<!ENTITY matchAll.accesskey "У">
 <!ENTITY matchAny.label "Уклопи било шта наведено">
 <!ENTITY matchAny.accesskey "б">
 <!ENTITY matchAllMsgs.label "Уклопи све поруке">
-<!ENTITY matchAllMsgs.accesskey "у">
+<!ENTITY matchAllMsgs.accesskey "У">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

@@ -18,7 +18,7 @@
 <!ENTITY compositionGroupTitle.label "Састављање">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label "Састављај поруке у HTML формату">
-<!ENTITY useHtml.accesskey "Т">
+<!ENTITY useHtml.accesskey "т">
 <!ENTITY autoQuote.label "Аутоматски цитирај изворну поруку при одговарању">
 <!ENTITY autoQuote.accesskey "ц">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "п">
 <!ENTITY belowText.label "испод цитата (препоручено)">
 <!ENTITY aboveText.label "испод мог одговора (изнад цитата)">
+<!ENTITY includeSigOnReply.label "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey "s">
+<!ENTITY includeSigOnForward.label "Include signature for forwards">
+<!ENTITY includeSigOnForward.accesskey "w">

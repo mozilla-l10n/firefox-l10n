@@ -13,7 +13,7 @@
 <!ENTITY copyCmd.label "Умножи">
 <!ENTITY copyCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Изабери све">
-<!ENTITY selectAllCmd.accesskey "В">
+<!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Насловна">
@@ -45,9 +45,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey "k">
 
 <!ENTITY zLevel.label "Увек на врху">
-<!ENTITY zLevel.accesskey "В">
+<!ENTITY zLevel.accesskey "в">
 
 <!ENTITY fullZoomReduceBtn.label "Умањи">
-<!ENTITY fullZoomReduceBtn.accesskey "М">
+<!ENTITY fullZoomReduceBtn.accesskey "м">
 <!ENTITY fullZoomEnlargeBtn.label "Увећај">
-<!ENTITY fullZoomEnlargeBtn.accesskey "В">
+<!ENTITY fullZoomEnlargeBtn.accesskey "в">

@@ -3,18 +3,18 @@
 
 
 <!ENTITY fileMenu.label "Датотека">
-<!ENTITY fileMenu.accesskey "д">
+<!ENTITY fileMenu.accesskey "Д">
 <!ENTITY newMenu.label "Ново">
 <!ENTITY newMenu.accesskey "Н">
 
 <!ENTITY editMenu.label "Уреди">
-<!ENTITY editMenu.accesskey "у">
+<!ENTITY editMenu.accesskey "У">
 <!ENTITY undoCmd.label "Опозови">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "о">
+<!ENTITY undoCmd.accesskey "О">
 <!ENTITY redoCmd.label "Понови">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "п">
+<!ENTITY redoCmd.accesskey "П">
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "с">
@@ -25,7 +25,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "б">
 <!ENTITY deleteCmd.label "Обриши">
-<!ENTITY deleteCmd.accesskey "о">
+<!ENTITY deleteCmd.accesskey "О">
 <!ENTITY selectAllCmd.label "Изабери све">
 <!ENTITY selectAllCmd.key "П">
 <!ENTITY selectAllCmd.accesskey "с">
@@ -35,25 +35,25 @@
 <!ENTITY preferencesCmdUnix.accesskey "в">
 
 <!ENTITY viewMenu.label "Преглед">
-<!ENTITY viewMenu.accesskey "п">
+<!ENTITY viewMenu.accesskey "П">
 <!ENTITY viewToolbarsMenu.label "Алатне траке">
 <!ENTITY viewToolbarsMenu.accesskey "А">
 <!ENTITY showTaskbarCmd.label "Статусна трака">
 <!ENTITY showTaskbarCmd.accesskey "С">
 
 <!ENTITY proxy.label "Подешавање посредника…">
-<!ENTITY proxy.accesskey "С">
+<!ENTITY proxy.accesskey "с">
 
 <!ENTITY closeCmd.label "Затвори">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "з">
+<!ENTITY closeCmd.accesskey "З">
 
 <!ENTITY quitApplicationCmd.label "Крај">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "к">
+<!ENTITY quitApplicationCmd.accesskey "К">
 
 <!ENTITY quitApplicationCmdUnix.label "Крај">
-<!ENTITY quitApplicationCmdUnix.accesskey "к">
+<!ENTITY quitApplicationCmdUnix.accesskey "К">
 
 <!ENTITY quitApplicationCmdMac.label "Крај рада: &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "к">
+<!ENTITY quitApplicationCmdMac.accesskey "К">

@@ -51,7 +51,7 @@
 
 <!ENTITY object.reset.label "Изворно">
 <!ENTITY object.reset.hint "Поставља поставке овог објекта на изворне вредности">
-<!ENTITY object.reset.accesskey "и">
+<!ENTITY object.reset.accesskey "И">
 
 <!ENTITY dialog.apply "Примени">
 
@@ -59,7 +59,7 @@
 <!ENTITY channel "Канал">
 <!ENTITY user "Корисник">
 
-<!ENTITY config.add.title "Додај објекат<за поставке">
+<!ENTITY config.add.title "Додај објекат за поставке">
 
 <!ENTITY config.type.label "Врста:">
 <!ENTITY config.type.hint "Врста објекта за који додају поставке">
@@ -69,4 +69,4 @@
 <!ENTITY config.network.accesskey "М">
 <!ENTITY config.target.label "Одредиште:">
 <!ENTITY config.target.hint "Циљни канал или име корисника">
-<!ENTITY config.target.accesskey "о">
+<!ENTITY config.target.accesskey "О">

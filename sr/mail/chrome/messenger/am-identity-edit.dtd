@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Подешавање личности">
 <!ENTITY identityListDesc.label "Постави подешавања за ову личност:">
 

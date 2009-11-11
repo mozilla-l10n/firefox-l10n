@@ -12,14 +12,11 @@
 <!ENTITY userName.accesskey "р">
 <!ENTITY useSecAuth.label "Користи безбедну аутентикацију">
 <!ENTITY useSecAuth.accesskey "б">
-<!ENTITY isSecure.label "Користи безбедну везу:">
-<!ENTITY neverSecure.label "Не">
-<!ENTITY neverSecure.accesskey "Н">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, ако је доступан">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "СМТП-преко-ССЛа">
-<!ENTITY alwaysSMTPOverSSL.accesskey "Л">
-<!ENTITY smtpEditTitle.label "SMTP сервер">
+<!ENTITY connectionSecurity.label "Безбедност везе:">
+<!ENTITY connectionSecurity.accesskey "Б">
+<!ENTITY connectionSecurityType-0.label "Ниједна">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ако је доступан">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "ССЛ/ТЛС">
+<!ENTITY smtpEditTitle.label "СМТП (SMTP) сервер">
 <!ENTITY serverPortDefault.label "Изворно:">

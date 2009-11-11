@@ -2,7 +2,7 @@
 <!ENTITY newWindowsAsTabs.accesskey "ј">
 
 <!ENTITY warnCloseMultipleTabs.label "Упозори ме при затварању више језичака">
-<!ENTITY warnCloseMultipleTabs.accesskey "у">
+<!ENTITY warnCloseMultipleTabs.accesskey "У">
 
 <!ENTITY warnOpenManyTabs.label "Упозори ме када отварање више језичака може да успори програм &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey "п">
