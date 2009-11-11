@@ -55,7 +55,7 @@
 <!ENTITY downloadFailed.label "Неудача">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
-<!ENTITY searchEngine.addSearch "Добавить поиск в:">
+<!ENTITY searchEngine.addSearch "Добавить поиск:">
 <!ENTITY bookmarkPopup.label "Добавлена в закладки">
 <!ENTITY bookmarkRemove.label "Удалить">
 <!ENTITY bookmarkEdit.label "Изменить">
