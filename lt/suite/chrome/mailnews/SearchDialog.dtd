@@ -39,8 +39,6 @@
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label           "Išvalyti">
 <!ENTITY resetButton.accesskey       "v">
-<!ENTITY helpButton.label            "Žinynas">
-<!ENTITY helpButton.accesskey        "Ž">
 <!ENTITY openButton.label            "Atverti">
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Pašalinti">
