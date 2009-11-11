@@ -96,10 +96,8 @@
 
 <!ENTITY certmgr.certname "Liudijimo vardas">
 <!ENTITY certmgr.certserver "Serveris">
-<!ENTITY certmgr.typesofoverrides "Išimtys">
 <!ENTITY certmgr.override_lifetime "Galiojimo laikas">
 <!ENTITY certmgr.tokenname "Saugumo priemonė">
-<!ENTITY certmgr.purpose "Rūšis">
 <!ENTITY certmgr.issued "Išdavimo data">
 <!ENTITY certmgr.expires "Galioja iki">
 <!ENTITY certmgr.email "El. pašto adresas">
