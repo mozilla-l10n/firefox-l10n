@@ -1,10 +1,8 @@
 <!ENTITY welcome.title                      "Us donem la benvinguda al &brandShortName;">
 <!ENTITY overview.description               "Sincronitzeu el vostre PC i el vostre mòbil amb el Weave. Personalitzeu-lo amb complements. Navegueu amb la barra fantàstica i molt, i molt més.">
-<!ENTITY nextSteps.title                    "Passos següents">
 <!ENTITY sync.title                         "Activació">
 <!ENTITY sync.description                   "Aconseguiu el Weave per a aprofitar al màxim el &brandShortName;. Compartiu les vostres preferències, adreces d'interès, historial de navegació i molt més entre el vostre PC i el vostre mòbil.">
-<!ENTITY sync.link                          "Aconseguiu el complement del Weave">
+<!ENTITY sync.linkLabel                     "Aconseguiu el complement del Weave">
 <!ENTITY getPersonal.title                  "Feu-vos-el vostre">
 <!ENTITY getPersonal.description            "Feu-vos vostre el &brandShortName;. Personalitzeu el primer navegador que ofereix complements per al vostre mòbil.">
-<!ENTITY getPersonal.link                   "Aconseguiu complements per al vostre mòbil.">
-<!ENTITY skip.link                          "Omet-ho tot i deixa'm navegar a la xarxa.">
+<!ENTITY getPersonal.linkLabel              "Aconseguiu complements per al vostre mòbil.">
