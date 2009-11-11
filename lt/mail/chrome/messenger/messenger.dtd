@@ -757,8 +757,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Kopijuoti paveikslo adresą">
-<!ENTITY copyImageCmd.accesskey "p">
+<!ENTITY copyImageAllCmd.label "Kopijuoti paveikslą">
+<!ENTITY copyImageAllCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stabdyti">
