@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Om &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "Ofte spurte spørsmål">
+<!ENTITY aboutPage.support.label                "Hjelp">
+<!ENTITY aboutPage.privacyPolicy.label          "Personvern">
+<!ENTITY aboutPage.rights.label                 "Kjenn dine rettigheter">
+<!ENTITY aboutPage.relNotes.label               "Utgivelsesmerknader">
+<!ENTITY aboutPage.credits.label                "Bidragsytere">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Bidragsytere. Alle rettigheter forbeholdt. (">
+<!ENTITY aboutPage.licenseLink                  "Lisensinformasjon">
+<!ENTITY aboutPage.copyrightInfo2               ").">
