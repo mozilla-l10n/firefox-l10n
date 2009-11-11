@@ -30,11 +30,9 @@
 
 <!ENTITY welcome.title                      "Sveiki! Čia „&brandShortName;“">
 <!ENTITY overview.description               "Sinchronizuokite duomenis su savo kompiuteriu, naudodami „Weave“. Papildykite programą priedais. Naršykite, naudodami sumanųjį adreso lauką. Ir tai – dar ne viskas.">
-<!ENTITY nextSteps.title                    "Tolesni žingsniai">
 <!ENTITY sync.title                         "Keliaukite kur Jums reikia">
 <!ENTITY sync.description                   "Parsisiųskite „Weave“! Šis priedas padės sinchronizuoti „&brandShortName;“ nuostatas, adresyną, naršymo žurnalą ir pan. su naršykle Jūsų kompiuteryje.">
-<!ENTITY sync.link                          "Parsisiųsti „Weave“ priedą">
+<!ENTITY sync.linkLabel                     "Parsisiųsti „Weave“ priedą">
 <!ENTITY getPersonal.title                  "Renkitės kaip Jums patinka">
 <!ENTITY getPersonal.description            "Individualizuokite „&brandShortName;“ – pirmąją naršyklę, palaikančią priedus mobiliuosiuose įrenginiuose!">
-<!ENTITY getPersonal.link                   "Parsisiųsti priedų.">
-<!ENTITY skip.link                          "Praleisti šiuos žingsnius ir naršyti žiniatinklį.">
+<!ENTITY getPersonal.linkLabel              "Parsisiųsti priedų">
