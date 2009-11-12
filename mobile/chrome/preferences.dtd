@@ -3,7 +3,7 @@
 <!ENTITY about.button "Перейти на страницу">
 <!ENTITY about.description "Открыть справку и информацию о продукте">
 <!ENTITY content.title "Содержимое">
-<!ENTITY showImages.title "Показать изображения">
+<!ENTITY showImages.title "Показывать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
 <!ENTITY enableJavaScript.description "Большинство интерактивных сайтов используют JavaScript">
 <!ENTITY enablePlugins.title "Использовать плагины">
