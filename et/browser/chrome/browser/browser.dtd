@@ -315,7 +315,7 @@
 <!ENTITY copyVideoURLCmd.accesskey               "e">
 <!ENTITY copyAudioURLCmd.label                   "Kopeeri audio aadress">
 <!ENTITY copyAudioURLCmd.accesskey               "p">
-<!ENTITY blockImageCmd.accesskey                 "B">
+<!ENTITY blockImageCmd.accesskey                 "i">
 <!ENTITY metadataCmd.label                       "Omadused">
 <!ENTITY metadataCmd.accesskey                   "u">
 <!ENTITY copyEmailCmd.label                      "Kopeeri e-posti aadress">
