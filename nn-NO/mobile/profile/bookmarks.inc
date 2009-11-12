@@ -9,11 +9,11 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobile
+#define bookmarks_title Mobil
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: Welcome
+#define bookmarks_welcome Firefox: Velkomen
 
 # LOCALIZATION NOTE (bookmarks_about):
 # link title for about:fennec
