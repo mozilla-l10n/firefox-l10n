@@ -5,11 +5,11 @@
 <!ENTITY windowMenu.label         "Ventana">
 
 <!ENTITY helpMenu.label           "Ayuda"> 
-<!ENTITY helpMenu.accesskey       "y"> 
+<!ENTITY helpMenu.accesskey       "u"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ayuda"> 
-<!ENTITY helpMenuWin.accesskey    "y">
+<!ENTITY helpMenuWin.accesskey    "u">
 <!ENTITY aboutCmd.label           "Acerca de &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "A">
 <!ENTITY productHelp.label        "Ayuda de &brandShortName;">
