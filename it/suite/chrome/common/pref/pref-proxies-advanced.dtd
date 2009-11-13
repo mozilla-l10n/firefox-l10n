@@ -2,7 +2,7 @@
 <!ENTITY protocols.caption "Proxy specifici per protocollo">
 <!ENTITY protocols.description "Normalmente lo stesso proxy può gestire tutti i protocolli qui elencati.">
 <!ENTITY http.label "Proxy HTTP:">
-<!ENTITY http.accesskey "T">
+<!ENTITY http.accesskey "x">
 <!ENTITY ssl.label "Proxy SSL:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY ftp.label "Proxy FTP:">
@@ -16,15 +16,14 @@
 <!ENTITY SSLPort.accesskey "o">
 <!ENTITY FTPPort.accesskey "r">
 <!ENTITY gopherPort.accesskey "">
-
 <!ENTITY socks.caption "Proxy generico">
 <!ENTITY socks.description "Un proxy SOCKS è un proxy generico usato talvolta negli ambienti aziendali o simili.">
 <!ENTITY socks.label "Proxy SOCKS:">
-<!ENTITY socks.accesskey "O">
+<!ENTITY socks.accesskey "K">
 <!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "C">
+<!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "K">
+<!ENTITY socks5.accesskey "5">
 <!ENTITY socksRemoteDNS.label "Utilizza per risolvere i nomi degli host (raccomandato per SOCKS v5)">
-<!ENTITY socksRemoteDNS.accesskey "e">
+<!ENTITY socksRemoteDNS.accesskey "z">
 <!ENTITY SOCKSport.accesskey "t">

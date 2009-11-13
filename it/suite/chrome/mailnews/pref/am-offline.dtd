@@ -1,0 +1,46 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Per salvare spazio su disco, non scaricare:">
+<!ENTITY doNotDownloadNntp.label "Al fine di risparmiare spazio su disco, non scaricare per l'uso 'non in linea':">
+<!ENTITY doNotDownloadImap.label "Al fine di risparmiare spazio su disco, è possibile gestire la copia locale dei messaggi in base all'età e alla dimensione.">
+<!ENTITY allFoldersOffline.label "Conserva in questo computer i messaggi di questo account">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Messaggi più grandi di">
+<!ENTITY offlineNotDownload.accesskey "r">
+<!ENTITY autosyncNotDownload.label "Non scaricare messaggi più grandi di">
+<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY kb.label "kB">
+<!ENTITY daysOld.label "giorni">
+<!ENTITY message.label "messaggi">
+<!ENTITY nntpNotDownloadRead.label "Messaggi letti">
+<!ENTITY nntpNotDownloadRead.accesskey "M">
+<!ENTITY nntpDownloadMsg.label "Messaggi anteriori a">
+<!ENTITY nntpDownloadMsg.accesskey "t">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente">
+<!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, sia in locale sia sul server.">
+<!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, inclusi gli originali sul server.">
+<!ENTITY retentionKeepMsg.label "Cancella i messaggi più vecchi di ">
+<!ENTITY retentionKeepMsg.accesskey "v">
+<!ENTITY retentionKeepAll.label "Non cancellare alcun messaggio">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Elimina tutti eccetto i">
+<!ENTITY retentionKeepRecent.accesskey "u">
+<!ENTITY retentionKeepUnreadHidden.label "Elimina sempre i messaggi già letti (senza considerare le impostazioni di età)">
+<!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi segnati">
+<!ENTITY retentionApplyToFlagged.accesskey "o">
+<!ENTITY nntpRemoveMsgBody.label "Elimina il corpo del messaggio per messaggi più grandi di">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Seleziona gruppi di discussione per l'uso fuori linea…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Avanzate…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY syncGroupTitle.label "Sincronizzazione messaggi">
+<!ENTITY diskspaceGroupTitle.label "Spazio su disco">
+<!ENTITY allAutosync.label "Sincronizza in locale i messaggi di qualunque età">
+<!ENTITY allAutosync.accesskey "c">
+<!ENTITY ageAutosyncBefore.label "Limita la sincronizzazione a">
+<!ENTITY ageAutosync.accesskey "z">
+<!ENTITY ageAutosyncMiddle.label "">
+<!ENTITY dayAgeInterval.label "giorni">
+<!ENTITY weekAgeInterval.label "settimane">
+<!ENTITY monthAgeInterval.label "mesi">
+<!ENTITY yearAgeInterval.label "anni">
+<!ENTITY ageAutosyncAfter.label "">

@@ -22,6 +22,8 @@
    -   Stephen Lamm <slamm@netscape.com>
    -   Blake Ross <blakeross@telocity.com>
    -   Mike Kowalski <mikejk@ameritech.net>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,12 +38,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- extracted from ./bookmarks.xul -->
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY bookmarkToolbar.tooltip "Barra dei Segnalibri">
 <!ENTITY menuitem.newBookmark.label "Segnalibro">
-<!ENTITY menuitem.newBookmark.accesskey "B">
+<!ENTITY menuitem.newBookmark.accesskey "b">
 <!ENTITY menuitem.newFolder.label "Cartella">
 <!ENTITY menuitem.newFolder.accesskey "C">
 <!ENTITY button.newFolder.label "Nuova cartella">
@@ -60,19 +60,19 @@
 <!ENTITY menuitem.find.accesskey "r">
 <!ENTITY menuitem.find.find.key "F">
 <!ENTITY command.findBookmarks.label "Cerca…">
-<!ENTITY menuitem.properties.label "Properties…">
-<!ENTITY menuitem.properties.accesskey "o">
-<!ENTITY button.properties.label "Properties…">
+<!ENTITY menuitem.properties.label "Proprietà">
+<!ENTITY menuitem.properties.accesskey "P">
+<!ENTITY button.properties.label "Proprietà">
 <!ENTITY button.properties.accesskey "P">
 <!ENTITY menuitem.properties.key "I">
-<!ENTITY button.rename.label "Rename…">
+<!ENTITY button.rename.label "Rinomina…">
 <!ENTITY button.rename.accesskey "R">
-<!ENTITY button.delete.label "Delete">
+<!ENTITY button.delete.label "Elimina">
 <!ENTITY button.delete.accesskey "E">
-<!ENTITY menuitem.moveBookmark.label "Move Bookmark(s)…">
-<!ENTITY menuitem.moveBookmark.accesskey "M">
-<!ENTITY button.moveBookmark.label "Move…">
-<!ENTITY button.moveBookmark.accesskey "M">
+<!ENTITY menuitem.moveBookmark.label "Sposta segnalibro…">
+<!ENTITY menuitem.moveBookmark.accesskey "S">
+<!ENTITY button.moveBookmark.label "Sposta…">
+<!ENTITY button.moveBookmark.accesskey "S">
 <!ENTITY command.addBookmark.label "Aggiungi…">
 <!ENTITY command.manageBookmarks.label "Modifica">
 <!ENTITY command.sortFolder.label "Ordina cartella…">
@@ -80,7 +80,6 @@
 <!ENTITY command.sortFolder.key "S">
 <!ENTITY command.sortFolderByName.label "Ordina cartella per nome">
 <!ENTITY command.sortFolderByName.accesskey "n">
-
 <!ENTITY menuitem.view.command.toolbar.label "Barra degli strumenti">
 <!ENTITY menuitem.view.command.toolbar.accesskey "s">
 <!ENTITY menuitem.view.show_columns.label "Visualizza colonne">
@@ -91,7 +90,6 @@
 <!ENTITY menuitem.newinternetsearchfolder.accesskey "r">
 <!ENTITY menuitem.personaltoolbarfolder.label "Imposta come cartella Barra personale">
 <!ENTITY menuitem.personaltoolbarfolder.accesskey "B">
-
 <!ENTITY treecol.name.label "Nome">
 <!ENTITY treecol.name.accesskey "N">
 <!ENTITY treecol.name.tooltip "Fare clic per ordinare per nome">
@@ -105,7 +103,7 @@
 <!ENTITY treecol.description.accesskey "D">
 <!ENTITY treecol.description.tooltip "Fare clic per ordinare per descrizione">
 <!ENTITY treecol.addedon.label "Data creazione">
-<!ENTITY treecol.addedon.accesskey "A">
+<!ENTITY treecol.addedon.accesskey "z">
 <!ENTITY treecol.addedon.tooltip "Fare clic per ordinare per data di creazione">
 <!ENTITY treecol.lastmod.label "Ultima modifica">
 <!ENTITY treecol.lastmod.accesskey "m">
@@ -113,8 +111,6 @@
 <!ENTITY treecol.lastvisit.label "Ultima visita">
 <!ENTITY treecol.lastvisit.accesskey "v">
 <!ENTITY treecol.lastvisit.tooltip "Fare clic per ordinare per data di ultima visita">
-
 <!ENTITY bookmarksWindowTitle.label "Gestione segnalibri">
-
-<!ENTITY search.emptytext "Search Bookmarks">
+<!ENTITY search.emptytext "Cerca nei segnalibri">
 <!ENTITY search.key "f">

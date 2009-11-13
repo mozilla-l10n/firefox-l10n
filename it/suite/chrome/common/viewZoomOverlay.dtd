@@ -1,14 +1,10 @@
-<!ENTITY zoomEnlargeCmd.label "Larger">
-<!ENTITY zoomEnlargeCmd.accesskey "L">
+<!ENTITY zoomEnlargeCmd.label "Più grande">
+<!ENTITY zoomEnlargeCmd.accesskey "d">
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
-
-<!ENTITY zoomReduceCmd.label "Smaller">
-<!ENTITY zoomReduceCmd.accesskey "S">
+<!ENTITY zoomReduceCmd.label "Più piccolo">
+<!ENTITY zoomReduceCmd.accesskey "P">
 <!ENTITY zoomReduceCmd.commandkey "-">
-
 <!ENTITY zoomResetCmd.commandkey "0">
-
-<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
-<!ENTITY zoomMenu.accesskey "z">
-<!ENTITY zoomOtherCmd.accesskey "o">
+<!ENTITY zoomMenu.accesskey "Z">
+<!ENTITY zoomOtherCmd.accesskey "A">

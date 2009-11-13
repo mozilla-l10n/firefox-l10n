@@ -1,0 +1,11 @@
+<!--null-->
+<!ENTITY pref.ldap.window.title "Server directory LDAP">
+<!ENTITY directories.label "Server directory LDAP:">
+<!ENTITY directoriesText.label "Selezionare un server directory LDAP:">
+<!ENTITY directoriesText.accesskey "S">
+<!ENTITY addDirectory.label "Aggiungi">
+<!ENTITY addDirectory.accesskey "A">
+<!ENTITY editDirectory.label "Modifica">
+<!ENTITY editDirectory.accesskey "M">
+<!ENTITY deleteDirectory.label "Elimina">
+<!ENTITY deleteDirectory.accesskey "E">

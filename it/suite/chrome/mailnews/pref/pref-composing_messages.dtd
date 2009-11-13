@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY pref.composing.messages.title "Composizione">
+<!ENTITY generalComposing.label "Generale">
+<!ENTITY forwardMsg.label "Inoltra messaggi:">
+<!ENTITY inline.label "In linea">
+<!ENTITY inline.accesskey "n">
+<!ENTITY asAttachment.label "Come allegato">
+<!ENTITY asAttachment.accesskey "a">
+<!ENTITY replyQuoteInline.label "Cita gli allegati in linea nelle risposte">
+<!ENTITY replyQuoteInline.accesskey "e">
+<!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si spedisce usando la scorciatoia da tastiera">
+<!ENTITY warnOnSendAccelKey.accesskey "h">
+<!ENTITY autoSave.label "Salvare in automatico il messaggio ogni">
+<!ENTITY autoSave.accesskey "u">
+<!ENTITY autoSaveEnd.label "minuti">
+<!ENTITY wrapOutMsg.label "Manda a capo i messaggi di testo a">
+<!ENTITY wrapOutMsg.accesskey "M">
+<!ENTITY char.label "caratteri">
+<!ENTITY spellingHeader.label "Ortografia">
+<!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
+<!ENTITY spellCheck.accesskey "o">
+<!ENTITY spellCheckInline.label "Correttore ortografico in scrittura">
+<!ENTITY spellCheckInline.accesskey "C">
+<!ENTITY languagePopup.label "Lingua:">
+<!ENTITY languagePopup.accessKey "L">
+<!ENTITY moreDictionaries.label "Scarica altri dizionari…">
+<!ENTITY defaultMessagesHeader.label "Impostazioni predefinite messaggi HTML">
+<!ENTITY font.label "Carattere:">
+<!ENTITY font.accesskey "r">
+<!ENTITY size.label "Dimensione:">
+<!ENTITY size.accesskey "D">
+<!ENTITY fontColor.label "Colore testo:">
+<!ENTITY fontColor.accesskey "t">
+<!ENTITY bgColor.label "Sfondo:">
+<!ENTITY bgColor.accesskey "s">

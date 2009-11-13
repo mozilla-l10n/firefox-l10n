@@ -22,6 +22,8 @@
    -   Stephen Lamm <slamm@netscape.com>
    -   Blake Ross <BlakeR1234@aol.com>
    -   Samir Gehani <sgehani@netscape.com>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,7 +38,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY sidebar.panels.label "Sidebar">
 <!ENTITY sidebar.reload.label "Ricarica">
 <!ENTITY sidebar.reload.accesskey "R">
@@ -47,19 +48,16 @@
 <!ENTITY sidebar.hide.accesskey "N">
 <!ENTITY sidebar.switch.label "Visualizza scheda">
 <!ENTITY sidebar.switch.accesskey "V">
-<!ENTITY sidebarCmd.label "Sidebar">
-<!ENTITY sidebarCmd.accesskey "b">
+<!ENTITY sidebarCmd.label "Barra laterale">
+<!ENTITY sidebarCmd.accesskey "B">
 <!ENTITY sidebar.loading.label "Caricamento in corso…">
 <!ENTITY sidebar.loadstopped.label "Riprendi caricamento">
-<!ENTITY sidebar.loading.stop.label "Stop">
-<!ENTITY sidebar.loading.stop.accesskey "S">
-
+<!ENTITY sidebar.loading.stop.label "Interrompi">
+<!ENTITY sidebar.loading.stop.accesskey "I">
 <!ENTITY sidebar.no-panels.state "Sidebar al momento è vuota.">
 <!ENTITY sidebar.no-panels.add 'È possibile aggiungere schede facendo clic sul pulsante "Aggiungi", e quindi su "Personalizza…"'>
 <!ENTITY sidebar.no-panels.hide 'Se si desidera nascondere completamente la Sidebar, fare clic sul menu "Visualizza" in alto e selezionare "Sidebar" dal sottomenu "Mostra/Nascondi".'>
 <!ENTITY sidebar.sbDirectory.label "Indice schede…">
-
 <!ENTITY sidebar.pagenotfound.label "Questa scheda non è al momento disponibile.">
 <!ENTITY sidebar.close.tooltip "Chiudi Sidebar">
 <!ENTITY sidebar.open.tooltip "Apre la Sidebar">
-

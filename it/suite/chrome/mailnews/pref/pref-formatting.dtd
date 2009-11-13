@@ -1,0 +1,30 @@
+<!--null-->
+<!ENTITY pref.formatting.title "Formato di invio">
+<!ENTITY sendMaildesc.label "Se si spediscono messaggi come testo formattato (HTML) e uno o più destinatari sono indicati come non in grado di ricevere HTML:">
+<!ENTITY askMe.label "Chiedi cosa fare (Posta chiederà di scegliere un formato)">
+<!ENTITY askMe.accesskey "C">
+<!ENTITY convertPlain.label "Converti il messaggio in testo semplice (può andare persa parte della formattazione)">
+<!ENTITY convertPlain.accesskey "o">
+<!ENTITY sendHTML.label "Spedisci il messaggio come testo formattato (HTML) in ogni caso (alcuni programmi di posta potrebbero non essere in grado di visualizzarlo)">
+<!ENTITY sendHTML.accesskey "f">
+<!ENTITY sendBoth.label "Spedisci il messaggio sia in testo semplice che in HTML (maggiori dimensioni)">
+<!ENTITY sendBoth.accesskey "S">
+<!ENTITY override.label "È possibile modificare queste impostazioni individualmente per ciascun messaggio utilizzando il menu Opzioni della finestra di composizione del messaggio.">
+<!ENTITY domain.title "Domini HTML e testo semplice">
+<!ENTITY domaindesc.label "Quando si invia un messaggio ad uno dei domini nell'elenco sottostante, Posta invierà automaticamente il messaggio nel formato preferito (testo formattato o semplice).">
+<!ENTITY HTMLdomaintitle.label "Domini HTML">
+<!ENTITY HTMLdomaintitle.accesskey "H">
+<!ENTITY PlainTexttitle.label "Domini testo semplice">
+<!ENTITY PlainTexttitle.accesskey "t">
+<!ENTITY AddButton.label "Aggiungi…">
+<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddPlainText.accesskey "u">
+<!ENTITY DeleteButton.label "Elimina">
+<!ENTITY DeleteHtmlDomain.accesskey "E">
+<!ENTITY DeletePlainText.accesskey "m">
+<!ENTITY add.htmltitle "Aggiunta nome dominio HTML">
+<!ENTITY add.htmldomain "Nome dominio HTML:">
+<!ENTITY add.plaintexttitle "Aggiunta nome dominio testo semplice">
+<!ENTITY add.plaintextdomain "Nome dominio testo semplice:">
+<!ENTITY domainnameError.title "Errore nel nome di dominio">
+<!ENTITY invalidEntryError.label "Il nome di dominio @string@ non è valido e verrà ignorato. I nomi di dominio validi devono contenere almeno un '.' e caratteri da entrambe i suoi lati.">

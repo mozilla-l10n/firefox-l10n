@@ -20,6 +20,8 @@
    -
    - Contributor(s):
    -   Frank Schoenheit <frank.schoenheit@gmx.de>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,7 +36,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY messageMarkByDate.label "Segna messaggi come letti per data">
 <!ENTITY markByDateLower.label "Segna messaggi come letti dal:">
 <!ENTITY markByDateLower.accesskey "d">

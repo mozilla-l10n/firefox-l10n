@@ -19,6 +19,8 @@
    -
    - Contributor(s):
    -   James Ross <silver@warwickcompsoc.co.uk>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,17 +35,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY window.title "About ChatZilla">
-
+<!ENTITY window.title "Informazioni su ChatZilla">
 <!ENTITY chatzilla.label "ChatZilla">
-<!ENTITY version.unknown.label "Version unknown">
-<!ENTITY version.known.label "Version &#37;S">
-<!ENTITY description.label "A clean, easy to use and highly extensible Internet Relay Chat (IRC) client.">
-
+<!ENTITY version.unknown.label "Versione sconosciuta">
+<!ENTITY version.known.label "Versione &#037;S">
+<!ENTITY description.label "Un client IRC (Internet Relay Chat) con un'interfaccia semplice, facile da usare e da espandere">
 <!ENTITY homepage.label "Visita il sito web">
-<!ENTITY copyversion.label "Copy Version Details">
-
-<!ENTITY section.core.label "Core Development Team:">
-<!ENTITY section.locale.label "Localization:">
-<!ENTITY section.contrib.label "Contributors:">
+<!ENTITY copyversion.label "Copia i dettagli della versione">
+<!ENTITY section.core.label "Team di sviluppo principale:">
+<!ENTITY section.locale.label "Localizzazione:">
+<!ENTITY section.contrib.label "Collaboratori:">

@@ -1,19 +1,13 @@
 <!ENTITY accountTitle.label "Impostazioni account">
-
 <!ENTITY biffStart.label "Controlla la presenza di nuovi articoli ogni ">
 <!ENTITY biffStart.accesskey "C">
 <!ENTITY biffEnd.label "minuti">
-
 <!ENTITY loginAtStartup.label "Controlla presenza di nuovi articoli all'avvio.">
 <!ENTITY loginAtStartup.accesskey "C">
-
 <!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece che caricare tutta la pagina.">
 <!ENTITY useQuickMode.accesskey "d">
-
 <!ENTITY manageSubscriptions.label "Gestione sottoscrizioni…">
 <!ENTITY manageSubscriptions.accesskey "o">
-
-<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blog e feed delle news">
 <!ENTITY feeds.wizardShortName "Feed">
 <!ENTITY feeds.wizardLongName "Blog e feed delle news">

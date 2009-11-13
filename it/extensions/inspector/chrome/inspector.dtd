@@ -1,0 +1,47 @@
+<!ENTITY Inspector.title "Analisi DOM">
+<!ENTITY thDOMNodes.label "Nodi DOM">
+<!ENTITY btnInspect.label "Analizza">
+<!ENTITY btnInspect.accesskey "A">
+<!ENTITY bxDocPanel.title "Documento">
+<!ENTITY bxObjectPanel.title "Oggetto">
+<!ENTITY btnSelecting.tooltip "Seleziona il nodo dell'area del documento facendoci clic sopra">
+<!ENTITY btnFind.tooltip "Cerca un nodo per id, tag o attributo">
+<!ENTITY mnFile.label "File">
+<!ENTITY mnFile.accesskey "F">
+<!ENTITY mnInspectContentDocument.label "Analizza contenuto documento">
+<!ENTITY mnInspectContentDocument.accesskey "A">
+<!ENTITY mnInspectChromeDocument.label "Analizza chrome documento">
+<!ENTITY mnInspectChromeDocument.accesskey "h">
+<!ENTITY cmdShowOpenURLDialog.label "Analizza URL…">
+<!ENTITY cmdShowOpenURLDialog.accesskey "U">
+<!ENTITY cmdSave.label "Salva DOM come…">
+<!ENTITY cmdSave.accesskey "S">
+<!ENTITY cmdClose.label "Chiudi">
+<!ENTITY cmdClose.accesskey "C">
+<!ENTITY cmdExit.label "Esci">
+<!ENTITY cmdExit.accesskey "E">
+<!ENTITY mnEdit.label "Modifica">
+<!ENTITY mnEdit.accesskey "M">
+<!ENTITY cmdUndo.label "Annulla">
+<!ENTITY cmdUndo.accesskey "A">
+<!ENTITY cmdRedo.label "Ripeti">
+<!ENTITY cmdRedo.accesskey "R">
+<!ENTITY cmdCut.label "Taglia">
+<!ENTITY cmdCut.accesskey "T">
+<!ENTITY cmdCopy.label "Copia">
+<!ENTITY cmdCopy.accesskey "C">
+<!ENTITY cmdPaste.label "Incolla">
+<!ENTITY cmdPaste.accesskey "I">
+<!ENTITY cmdDelete.label "Elimina">
+<!ENTITY cmdDelete.accesskey "E">
+<!ENTITY mnSearch.label "Cerca">
+<!ENTITY mnSearch.accesskey "C">
+<!ENTITY mnView.label "Visualizza">
+<!ENTITY mnView.accesskey "V">
+<!ENTITY cmdToggleBrowser.label "Navigator">
+<!ENTITY cmdToggleBrowser.accesskey "N">
+<!ENTITY cmdToggleSearch.label "Risultati ricerca">
+<!ENTITY browserPanel.label "Browser">
+<!ENTITY inspectNewWindow.label "Analizza in nuova finestra">
+<!ENTITY saveCmd.key "u">
+<!ENTITY closeCmd.key "C">

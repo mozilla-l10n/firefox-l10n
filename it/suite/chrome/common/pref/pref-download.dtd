@@ -1,30 +1,26 @@
 <!ENTITY pref.download.title "Download">
-
 <!ENTITY downloadBehavior.label "All'avvio di un download">
-<!ENTITY focusWhenStarting.label "Flash the download manager if it is already open, otherwise:">
+<!ENTITY focusWhenStarting.label "Fai lampeggiare la gestione download se è già aperta, altrimenti:">
 <!ENTITY focusWhenStarting.accesskey "F">
 <!ENTITY openDM.label "Apri Gestione download">
 <!ENTITY openDM.accesskey "d">
 <!ENTITY openProgressDialog.label "Apri una finestra con lo stato del download">
-<!ENTITY openProgressDialog.accesskey "f">
+<!ENTITY openProgressDialog.accesskey "A">
 <!ENTITY doNothing.label "Non aprire nulla">
 <!ENTITY doNothing.accesskey "o">
-
 <!ENTITY downloadLocation.label "Prima di salvare un file">
-<!ENTITY saveTo.label "Save files to">
+<!ENTITY saveTo.label "Salva file in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseDownloadFolder.label "Scegli cartella…">
 <!ENTITY chooseDownloadFolder.accesskey "t">
-<!ENTITY alwaysAsk.label "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey "A">
-
-<!ENTITY downloadRetention.label "Download retention">
-<!ENTITY removeDownloads.label "Remove downloads">
-<!ENTITY removeDownloads.accesskey "R">
-<!ENTITY whenCompleted.label "When they have completed">
-<!ENTITY whenQuittingApp.label "When quitting &brandShortName;">
-<!ENTITY neverRemove.label "Never">
-
+<!ENTITY alwaysAsk.label "Chiedi sempre dove salvare i file">
+<!ENTITY alwaysAsk.accesskey "C">
+<!ENTITY downloadRetention.label "Memorizzazione download">
+<!ENTITY removeDownloads.label "Elimina download">
+<!ENTITY removeDownloads.accesskey "E">
+<!ENTITY whenCompleted.label "Quando sono terminati">
+<!ENTITY whenQuittingApp.label "Alla chiusura di &brandShortName;">
+<!ENTITY neverRemove.label "Mai">
 <!ENTITY finishedBehavior.label "Al termine del download">
 <!ENTITY playSound.label "Riproduci un suono">
 <!ENTITY playSound.accesskey "R">

@@ -1,0 +1,31 @@
+<!ENTITY pref.network.title "Rete e spazio su disco">
+<!ENTITY pref.offline.caption "Fuori linea">
+<!ENTITY textStartUp "All'avvio:">
+<!ENTITY textStartUp.accesskey "A">
+<!ENTITY menuitemRememberPrevState "Ricorda lo stato di linea precedente">
+<!ENTITY menuitemAskMe "Chiedimi all'avvio lo stato della linea">
+<!ENTITY menuitemAlwaysOnline "Avvia sempre in linea">
+<!ENTITY menuitemAlwaysOffline "Avvia sempre fuori linea">
+<!ENTITY menuitemAutomatic "Riconsoci automaticamente (se disponibile)">
+<!ENTITY textGoingOnline "Inviare i messaggi non inviati quando si va fuori linea?">
+<!ENTITY radioAutoSend "Sì">
+<!ENTITY radioAutoSend.accesskey "S">
+<!ENTITY radioNotSend "No">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Chiedi">
+<!ENTITY radioAskUnsent.accesskey "h">
+<!ENTITY textGoingOffline "Scaricare i messaggi per l'uso fuori linea quando si va fuori linea?">
+<!ENTITY radioAutoDownload "Sì">
+<!ENTITY radioAutoDownload.accesskey "ì">
+<!ENTITY radioNotDownload "No">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Chiedi">
+<!ENTITY radioAskDownload.accesskey "d">
+<!ENTITY mailConnections.caption "Connessioni di posta">
+<!ENTITY mailnewsTimeout.label "Tempo limite connessione:">
+<!ENTITY mailnewsTimeout.accesskey "T">
+<!ENTITY mailnewsTimeoutSeconds.label "secondi">
+<!ENTITY Diskspace "Spazio su disco">
+<!ENTITY offlineCompact.label "Compatta le cartelle quando contengono più di">
+<!ENTITY offlineCompact.accesskey "m">
+<!ENTITY kb.label "kB">
