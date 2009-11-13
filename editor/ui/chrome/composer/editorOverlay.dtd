@@ -322,7 +322,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Leech">
-<!ENTITY layerSendToBack.tooltip "Nei achteren bringe">
+<!ENTITY layerSendToBack.tooltip "Nei efter bringe">
 <!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
 <!ENTITY increaseIndent.label "Ynspringen fergrutsje">
@@ -338,7 +338,7 @@
 <!ENTITY pageProperties.label "Sidetitel en -eigenskippen...">
 <!ENTITY pageProperties.accesskey "P">
 <!ENTITY colorsAndBackground.label "Sidekleuren en eftergrûn...">
-<!ENTITY colorsAndBackground.accesskey "h">
+<!ENTITY colorsAndBackground.accesskey "S">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabel">
