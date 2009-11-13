@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "Funzione identità multiple">
+<!ENTITY identitiesListAdd.label "Aggiungi…">
+<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListEdit.label "Modifica…">
+<!ENTITY identitiesListEdit.accesskey "M">
+<!ENTITY identitiesListDelete.label "Elimina">
+<!ENTITY identitiesListDelete.accesskey "E">

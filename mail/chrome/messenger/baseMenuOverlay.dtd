@@ -14,6 +14,6 @@
 <!ENTITY openHelpMac.label "Aiuto di &brandShortName;">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
-<!ENTITY updateCmd.label "Controllo aggiornamenti…">
+<!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
 <!ENTITY aboutMenuCmd.label "Informazioni su &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "I">

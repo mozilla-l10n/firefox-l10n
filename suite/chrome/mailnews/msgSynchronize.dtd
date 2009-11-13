@@ -1,5 +1,3 @@
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
-
 <!ENTITY MsgSynchronize.label "Download e sincronizzazione messaggi">
 <!ENTITY MsgSelect.label "Elementi per uso fuori linea">
 <!ENTITY MsgSyncDesc.label "Se sono già state scelte le cartelle da utilizzare una volta fuori linea, è possibile scaricare il loro contenuto e/o sincronizzarle ora. Altrimenti è possibile usare il pulsante &quot;Seleziona&quot; per scegliere cartelle di posta e gruppi di discussione per l'uso fuori linea.">

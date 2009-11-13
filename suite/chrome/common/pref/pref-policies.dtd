@@ -1,18 +1,13 @@
-
 <!ENTITY pref.policies.title "Politiche di sicurezza">
-
 <!ENTITY zoneIntro.label "&brandShortName; permette di creare delle politiche che determinino il tipo di accesso che alcuni siti possono avere a varie funzionalità, inclusi aspetti riguardanti gli script e Java.">
-
 <!ENTITY policies.label "Politiche:">
-<!ENTITY default.label "Politiche predefinite">
+<!ENTITY default.label "Politica predefinita">
 <!ENTITY allWebsites.label "Tutti i siti web">
 <!ENTITY trusted.label "Siti sicuri">
 <!ENTITY annoyances.label "Problemi ricorrenti">
 <!ENTITY restricted.label "Siti con restrizioni">
-
 <!ENTITY addSite.label "Aggiungi sito…">
 <!ENTITY addSite.accesskey "A">
 <!ENTITY settings.label "Impostazioni per">
-<!ENTITY settings.accesskey "s">
-
-<!ENTITY description.label "Descrizione politiche:">
+<!ENTITY settings.accesskey "I">
+<!ENTITY description.label "Descrizione politica:">

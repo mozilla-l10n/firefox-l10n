@@ -11,8 +11,6 @@
 <!ENTITY textonlyRadio.accesskey "t">
 <!ENTITY showHideTooltips.label "Visualizza i tooltip (brevi descrizioni che appaiono sostando con il puntatore del mouse)">
 <!ENTITY showHideTooltips.accesskey "V">
-
-<!ENTITY pref.locales.title "User Interface Language">
-<!ENTITY selectLocale.label "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
-<!ENTITY restartOnLangChange.label "Language preferences will take effect when you restart &brandShortName;.">
-
+<!ENTITY pref.locales.title "Lingua interfaccia utente">
+<!ENTITY selectLocale.label "Scegli la lingua per il testo usato in finestre di dialogo, menu, barre degli strumenti e pulsanti:">
+<!ENTITY restartOnLangChange.label "Le modifiche alla lingua avranno effetto dopo il riavvio di &brandShortName;">

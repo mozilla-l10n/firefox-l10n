@@ -1,33 +1,24 @@
 <!ENTITY pref.popups.title "Finestre pop-up">
-
 <!ENTITY pref.popups.caption "Finestre pop-up">
-
 <!ENTITY popupBlock.label "Blocca finestre pop-up non richieste">
 <!ENTITY popupBlock.accesskey "B">
-
 <!ENTITY popupExceptions.label "Siti accettati…">
 <!ENTITY popupExceptions.accesskey "S">
-
 <!ENTITY whenBlock.description "Quando viene bloccata una finestra pop-up:">
 <!ENTITY playSound.label "Riproduci un suono:">
 <!ENTITY playSound.accesskey "R">
-<!ENTITY systemSound.label "System beep">
-<!ENTITY systemSound.accesskey "S">
-<!ENTITY customSound.label "Custom sound file">
-<!ENTITY customSound.accesskey "C">
-
+<!ENTITY systemSound.label "Suono di sistema">
+<!ENTITY systemSound.accesskey "u">
+<!ENTITY customSound.label "File .wav personalizzato">
+<!ENTITY customSound.accesskey "F">
 <!ENTITY selectSound.label "Sfoglia…">
-<!ENTITY selectSound.accesskey "o">
+<!ENTITY selectSound.accesskey "f">
 <!ENTITY previewSound.label "Anteprima">
 <!ENTITY previewSound.accesskey "A">
 <!ENTITY selectSound.title "Seleziona suono per pop-up bloccato">
-<!ENTITY selectSound.filter "Sounds">
-
+<!ENTITY selectSound.filter "Suoni">
 <!ENTITY displayIcon.label "Visualizza una icona nella barra di stato di Navigator">
 <!ENTITY displayIcon.accesskey "V">
-
-<!ENTITY displayNotification.label "Display a notification bar at the top of the content area">
-<!ENTITY displayNotification.accesskey "N">
-
+<!ENTITY displayNotification.label "Visualizza una barra di notifica in cima all'area dei contenuti">
+<!ENTITY displayNotification.accesskey "n">
 <!ENTITY popupNote.description "Nota: bloccare tutti i pop-up può impedire il funzionamento di importanti caratteristiche di alcuni siti web, come le finestre di autenticazione per i siti delle banche e di acquisti commerciali. Per dettagli su come permettere a specifici siti web di utilizzare i pop-up bloccando gli altri, fare clic su Guida. Anche se bloccati, alcuni siti possono utilizzare altri metodi per visualizzare i pop-up.">
-

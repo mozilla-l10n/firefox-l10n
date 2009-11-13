@@ -1,0 +1,64 @@
+<!ENTITY windowTitle.label "Creazione nuovo account">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY accountSetupInfo.label "Per poter ricevere i messaggi, è necessario configurare gli account di posta e dei gruppi di discussione.">
+<!ENTITY accountTypeTitle.label "Configurazione nuovo account">
+<!ENTITY accountTypeDesc.label "Questa creazione guidata raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste, contattare il proprio amministratore di sistema o fornitore di servizio.">
+<!ENTITY accountTypeDirections.label "Seleziona il tipo di account da configurare:">
+<!ENTITY accountTypeMail.label "Account di posta">
+<!ENTITY accountTypeMail.accesskey "p">
+<!ENTITY accountTypeNews.label "Account gruppi di discussione">
+<!ENTITY accountTypeNews.accesskey "g">
+<!ENTITY identityTitle.label "Identità">
+<!ENTITY identityDesc.label "Ogni account ha una identità, che è l'informazione che ti identifica agli altri quando ricevono i tuoi messaggi.">
+<!ENTITY fullnameDesc.label "Inserire il nome che apparirà nel campo &quot;Da:&quot; dei propri messaggi in uscita">
+<!ENTITY fullnameExample.label "(ad esempio, &quot;Mario Rossi&quot;).">
+<!ENTITY fullnameLabel.label "Nome:">
+<!ENTITY fullnameLabel.accesskey "N">
+<!ENTITY emailLabel.label "Indirizzo e-mail:">
+<!ENTITY emailLabel.accesskey "I">
+<!ENTITY serverTitle.label "Informazioni sul server">
+<!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
+<!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio, &quot;mail.esempio.it&quot;).">
+<!ENTITY incomingServerLabel.label "Server in ingresso:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY newsServerNameDesc.label "Inserire il nome del server per i gruppi di discussione (NNTP) (ad esempio, &quot;news.esempio.it&quot;).">
+<!ENTITY smtpServerDesc.label "Inserire il nome del server in uscita (SMTP) (ad esempio, &quot;smtp.esempio.it&quot;).">
+<!ENTITY smtpServerLabel.label "Server in uscita:">
+<!ENTITY smtpServerLabel.accesskey "u">
+<!ENTITY newsServerLabel.label "Server gruppi discussione:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY haveSmtp1.prefix "L'attuale server di uscita (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account posta dal menu Modifica.">
+<!ENTITY loginTitle.label "Nomi utente">
+<!ENTITY usernameDesc.label "Inserire il nome utente in ingresso comunicato dal proprio fornitore di e-mail">
+<!ENTITY usernameExample.label "(ad esempio, &quot;mrossi&quot;)">
+<!ENTITY usernameLabel.label "Nome utente in ingresso:">
+<!ENTITY usernameLabel.accesskey "N">
+<!ENTITY usernameSmtpDesc.label "Inserire il nome utente in uscita comunicato dal proprio fornitore di e-mail (di solito è lo stesso del nome utente in ingresso).">
+<!ENTITY usernameSmtpLabel.label "Nome utente in uscita:">
+<!ENTITY usernameSmtpLabel.accesskey "o">
+<!ENTITY haveSmtp2.prefix "L'attuale nome utente per il server in uscita (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account posta dal menu Modifica.">
+<!ENTITY haveSmtp3.prefix "Il server in uscita (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;, è lo stesso della posta in arrivo, verrà usato il tuo nome utente della posta in arrivo per accedervi. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account posta dal menu Modifica.">
+<!ENTITY accnameTitle.label "Nome account">
+<!ENTITY accnameDesc.label "Inserire un nome per questo account (ad esempio, &quot;Lavoro&quot;, &quot;Casa&quot;, oppure &quot;Account gruppi discussione&quot;).">
+<!ENTITY accnameLabel.label "Nome account:">
+<!ENTITY accnameLabel.accesskey "N">
+<!ENTITY completionTitle.label "Congratulazioni!">
+<!ENTITY completionText.label "Verificare la correttezza delle informazioni inserite.">
+<!ENTITY serverTypePrefix.label "Tipo server in ingresso:">
+<!ENTITY serverNamePrefix.label "Nome server in ingresso:">
+<!ENTITY smtpServerNamePrefix.label "Nome server in uscita (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nome server Gruppi discussione (NNTP):">
+<!ENTITY downloadOnLogin.label "Scarica subito i messaggi">
+<!ENTITY downloadOnLogin.accesskey "S">
+<!ENTITY deferStorageDesc.label "Spuntare questa casella per memorizzare la posta di questo account nella cartella In arrivo globale dell'account Cartelle Locali. Altrimenti l'account sarà visibile come account di livello superiore e la sua posta sarà memorizzata nella propria cartella.">
+<!ENTITY deferStorage.label "Utilizzare In arrivo globale (memorizza la posta in Cartelle Locali)">
+<!ENTITY deferStorage.accesskey "b">
+<!ENTITY clickFinish.label "Premere Fine per salvare queste impostazioni ed uscire dalla creazione guidata dell'account.">
+<!ENTITY clickFinish.labelMac "Fare clic su Fatto per salvare queste impostazioni ed uscire dalla creazione guidata del nuovo account.">

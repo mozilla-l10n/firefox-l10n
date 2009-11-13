@@ -1,0 +1,6 @@
+<!ENTITY inspectorTaskCmd.label "Analisi DOM">
+<!ENTITY inspectorTaskCmd.commandkey "n">
+<!ENTITY inspectorTaskCmd.accesskey.ff "n">
+<!ENTITY inspectorTaskCmd.accesskey "A">
+<!ENTITY inspectPageTaskCmd.label "Analizza pagina">
+<!ENTITY inspectPageTaskCmd.accesskey "A">

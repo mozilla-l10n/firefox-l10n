@@ -1,19 +1,16 @@
-<!ENTITY window.title "ChatZilla Customer Experience Improvement Program">
+<!ENTITY window.title "Programma di miglioramento dell'esperienza con ChatZilla">
 <!ENTITY window.size "width: 42em;">
-
-<!ENTITY intro.label "The ChatZilla Customer Experience Improvement Program collects information about how you use ChatZilla, without interrupting you. This helps the developers identify which ChatZilla features to improve. No information is used to identify or contact you.">
-
-<!ENTITY groupSend.label "Send the following data:">
-<!ENTITY sendClient.label "When ChatZilla is opened and closed">
-<!ENTITY sendClient.accesskey "o">
-<!ENTITY sendCommand.label "Commands, menus and dialogs that are used">
+<!ENTITY intro.label "Il Progamma di mglioramento dell'esperienza ChatZilla raccoglie informazioni sul tuo utilizzo di ChatZilla, senza darti fastidio. Ciò aiuta gli sviluppatori ad identificare quali funzioni di ChatZilla devono essere migliorate. Nessuna informazione viene utilizzata per identificarti o contattarti.">
+<!ENTITY groupSend.label "Invia i dati seguenti:">
+<!ENTITY sendClient.label "Quando ChatZilla viene aperto e chiuso">
+<!ENTITY sendClient.accesskey "Q">
+<!ENTITY sendCommand.label "Comandi, menu e finestre di dialogo utilizzate">
 <!ENTITY sendCommand.accesskey "C">
-<!ENTITY sendID.label "Your unique ID:">
-<!ENTITY sendIDSrc.label "(randomly generated)">
-
-<!ENTITY groupNotSent.label "Data which is never sent:">
-<!ENTITY notsentNickname.label "Your nickname">
-<!ENTITY notsentMessages.label "Message content, including actions and notices">
-<!ENTITY notsentArguments.label "Arguments and data given to all commands, menus and dialogs">
-<!ENTITY notsentURLs.label "Names and URLs of networks, servers, channels and users">
-<!ENTITY notsentFiles.label "Names and contents of sent and received files">
+<!ENTITY sendID.label "Il tuo ID univoco:">
+<!ENTITY sendIDSrc.label "(generato a caso)">
+<!ENTITY groupNotSent.label "Dati che non vengono mai inviati:">
+<!ENTITY notsentNickname.label "Il tuo soprannome">
+<!ENTITY notsentMessages.label "Il contenuto del messaggio, incluse le azioni e le notifiche">
+<!ENTITY notsentArguments.label "I paramentri e i dati passati ai comandi, ai menu e alle finestre di dialogo">
+<!ENTITY notsentURLs.label "I nomi e gli URL delle reti, dei server, dei canali e degli utenti">
+<!ENTITY notsentFiles.label "I nomi e i contenuti dei file inviati e ricevuti">

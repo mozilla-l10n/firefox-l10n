@@ -19,6 +19,8 @@
    -
    - Contributor(s):
    -   James Ross <silver@warwickcompsoc.co.uk>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,27 +35,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY window.title "Join Channel">
-
-<!ENTITY qsearch.label "Quick Search:">
-<!ENTITY qsearch.accesskey "S">
-
-<!ENTITY topics.label "Search topics as well as channel names">
-<!ENTITY topics.accesskey "t">
-
-<!ENTITY join.label "Join">
-<!ENTITY join.accesskey "J">
-
-<!ENTITY minusers.label "Min users:">
+<!ENTITY window.title "Collegamento al canale">
+<!ENTITY qsearch.label "Ricerca rapida:">
+<!ENTITY qsearch.accesskey "R">
+<!ENTITY topics.label "Ricerca tra gli argomenti oltre ai nomi dei canali">
+<!ENTITY topics.accesskey "a">
+<!ENTITY join.label "Collegati">
+<!ENTITY join.accesskey "C">
+<!ENTITY minusers.label "Utenti min:">
 <!ENTITY minusers.accesskey "n">
-
-<!ENTITY maxusers.label "Max users:">
+<!ENTITY maxusers.label "Utenti max:">
 <!ENTITY maxusers.accesskey "x">
-
-<!ENTITY refresh.label "Refresh Now">
-<!ENTITY refresh.accesskey "">
-
-<!ENTITY col.name "Name">
-<!ENTITY col.users "Users">
-<!ENTITY col.topic "Topic">
+<!ENTITY refresh.label "Aggiorna ora">
+<!ENTITY refresh.accesskey "A">
+<!ENTITY col.name "Nome">
+<!ENTITY col.users "Utenti">
+<!ENTITY col.topic "Argomento">

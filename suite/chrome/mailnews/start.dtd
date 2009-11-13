@@ -20,6 +20,8 @@
    -
    - Contributor(s):
    -   Robert Kaiser <kairo@kairo.at>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,14 +36,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY startpage.title "Benvenuti in &brandShortName; Posta e Gruppi di discussione">
 <!ENTITY headline.label 'Benvenuti in <a href="&vendorURL;">&brandShortName;</a> Posta e Gruppi di discussione!'>
 <!ENTITY description.label "&brandShortName; Posta e Gruppi di discussione è un potente client open source per la posta ed i gruppi di discussione, che fornisce un controllo avanzato sulla posta spam ed altre interessanti caratteristiche.">
 <!ENTITY features.title "Funzionalità">
 <!ENTITY feat_multiacc.label "Gestione di account multipli">
 <!ENTITY feat_junk.label "Controllo della posta spam">
-<!ENTITY feat_feeds.label "Feed Reader">
+<!ENTITY feat_feeds.label "Lettore feed">
 <!ENTITY feat_filters.label "Filtri per i messaggi">
 <!ENTITY feat_htmlmsg.label "Gestione messaggio HTML">
 <!ENTITY feat_abook.label "Rubrica">

@@ -1,3 +1,3 @@
-<!ENTITY ircCmd.label "IRC Chat">
-<!ENTITY ircCmd.accesskey "i">
+<!ENTITY ircCmd.label "Chat IRC">
+<!ENTITY ircCmd.accesskey "h">
 <!ENTITY ircCmd.commandkey "6">

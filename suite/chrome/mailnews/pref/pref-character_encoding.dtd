@@ -1,0 +1,12 @@
+<!--null-->
+<!ENTITY pref.character.encoding.title "Codifica caratteri">
+<!ENTITY messageDisplay.caption "Visualizzazione messaggi">
+<!ENTITY viewDefaultCharset.label "Codifica caratteri predefinita:">
+<!ENTITY viewDefaultCharset.accesskey "C">
+<!ENTITY composingMessages.caption "Composizione messaggi">
+<!ENTITY useMIME.label "Per i messaggi che contengono caratteri a 8 bit, utilizza la codifica MIME 'quoted printable'. Lasciarlo non selezionato per inviare il messaggio senza modifiche.">
+<!ENTITY useMIME.accesskey "P">
+<!ENTITY sendDefaultCharset.label "Codifica caratteri predefinita:">
+<!ENTITY sendDefaultCharset.accesskey "o">
+<!ENTITY replyInDefaultCharset2.label "Quando possibile, utilizza questa codifica caratteri predefinita nelle risposte. (Lasciandola senza spunta, solo i nuovi messaggi utilizzano questa impostazione)">
+<!ENTITY replyInDefaultCharset2.accesskey "Q">

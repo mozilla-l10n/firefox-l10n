@@ -1,5 +1,3 @@
-<!-- extracted from content/pref-cache.xul -->
-
 <!ENTITY pref.cache.title "Cache">
 <!ENTITY pref.cache.caption "Imposta opzioni cache">
 <!ENTITY cachePara "La cache mantiene copie di pagine web visitate di frequente sul proprio hard disk. (Facendo clic su Ricarica viene sempre caricata la versione più aggiornata della pagina)">
@@ -21,7 +19,6 @@
 <!ENTITY neverRadio.accesskey "M">
 <!ENTITY autoRadio.label "Quando la pagina è scaduta">
 <!ENTITY autoRadio.accesskey "Q">
-
 <!ENTITY prefetchTitle.label "Caricamento preventivo collegamenti">
 <!ENTITY enablePrefetch.label "Carica le pagine web collegate durante i tempi morti, in modo che le pagine progettate per la navigazione sequenziale possano essere caricate più agevolmente">
 <!ENTITY enablePrefetch.accesskey "w">

@@ -1,0 +1,9 @@
+<!ENTITY accountManagerTitle.label "Impostazioni account">
+<!ENTITY addAccountButton.label "Aggiungi account…">
+<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY setDefaultButton.label "Imposta come predefinito">
+<!ENTITY setDefaultButton.accesskey "I">
+<!ENTITY removeButton.label "Elimina account">
+<!ENTITY removeButton.accesskey "E">
+<!ENTITY accountManager.size "width: 57em; height: 48em;">
+<!ENTITY accountTree.width "width: 17em;">

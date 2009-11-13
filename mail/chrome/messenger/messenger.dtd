@@ -193,7 +193,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Controllate con messaggi non letti">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "o">
 <!ENTITY ignoredThreadsCmd.label "Ignorate">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "a">
 <!ENTITY headersMenu.label "Intestazioni">
 <!ENTITY headersMenu.accesskey "I">
 <!ENTITY headersAllCmd.label "Tutte">
@@ -424,7 +424,7 @@
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "d">
 <!ENTITY accountManagerCmd.label "Impostazioni account…">
-<!ENTITY accountManagerCmd.accesskey "u">
+<!ENTITY accountManagerCmd.accesskey "p">
 <!ENTITY accountManagerCmdUnix.accesskey "u">
 <!ENTITY getMsgButton.label "Scarica posta">
 <!ENTITY newMsgButton.label "Scrivi">

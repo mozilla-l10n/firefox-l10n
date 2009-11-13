@@ -1,7 +1,0 @@
-<!ENTITY defaultClient.title "Programma predefinito">
-<!ENTITY defaultClient.intro "Usa &brandShortName; come programma predefinito per:">
-<!ENTITY email.label "E-mail">
-<!ENTITY newsgroups.label "Gruppi di discussione">
-<!ENTITY rss.label "Feed RSS">
-<!ENTITY checkOnStartup.label "Esegui sempre questo controllo all'avvio di &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "A">

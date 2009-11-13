@@ -10,35 +10,30 @@
 <!ENTITY button.removecookie.accesskey "k">
 <!ENTITY button.removeallcookies.label "Elimina tutti i cookie">
 <!ENTITY button.removeallcookies.accesskey "E">
-
-<!ENTITY search.emptytext "Search Cookies">
+<!ENTITY search.emptytext "Cerca nei cookie">
 <!ENTITY focusSearch.key "f">
-<!ENTITY windowClose.key "w">
-<!ENTITY selectAll.key "a">
-
+<!ENTITY windowClose.key "h">
+<!ENTITY selectAll.key "u">
 <!ENTITY props.name.label "Nome:">
 <!ENTITY props.value.label "Contenuto:">
 <!ENTITY props.domain.label "Sito:">
 <!ENTITY props.path.label "Percorso:">
 <!ENTITY props.secure.label "Invia per:">
 <!ENTITY props.expires.label "Scadenza:">
-
 <!ENTITY treehead.sitename.label "Sito">
 <!ENTITY treehead.status.label "Stato">
 <!ENTITY windowtitle.label "Gestione cookie">
-<!ENTITY buttonaccept.label "Close">
+<!ENTITY buttonaccept.label "Chiudi">
 <!ENTITY buttonaccept.accesskey "C">
-
 <!ENTITY blockSite.label "Blocca">
 <!ENTITY blockSite.accesskey "B">
 <!ENTITY allowSite.label "Permetti">
 <!ENTITY allowSite.accesskey "P">
 <!ENTITY allowSiteSession.label "Sessione">
 <!ENTITY allowSiteSession.accesskey "S">
-<!ENTITY removepermission.label "Elimina sito">
-<!ENTITY removepermission.accesskey "s">
-<!ENTITY removeallpermissions.label "Elimina tutti i siti">
-<!ENTITY removeallpermissions.accesskey "e">
-
-<!ENTITY futureCookies.label "Don't allow sites that set removed cookies to set future cookies">
-<!ENTITY futureCookies.accesskey "D">
+<!ENTITY removepermission.label "Rimuovi sito">
+<!ENTITY removepermission.accesskey "R">
+<!ENTITY removeallpermissions.label "Rimuovi tutti i siti">
+<!ENTITY removeallpermissions.accesskey "t">
+<!ENTITY futureCookies.label "Non permettere ai siti di hai rimosso i cookie di impostarne altri in futuro">
+<!ENTITY futureCookies.accesskey "N">

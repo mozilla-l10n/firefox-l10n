@@ -1,0 +1,94 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -   Giacomo Magnini (Mozilla Italia)
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY MainWindow.title "Debugger JavaScript">
+<!ENTITY ViewFloat.tooltip "Fare clic qui per staccare o unire questa vista alla finestra principale">
+<!ENTITY ViewGrippy.tooltip "Trascina la barra del titolo per spostare questa vista">
+<!ENTITY ViewClose.tooltip "Fare clic qui per chiudere questa vista">
+<!ENTITY Help.commands "Guida ai comandi">
+<!ENTITY Help.about "Informazioni su Venkman">
+<!ENTITY DebugBar.tooltip "Barra di debug">
+<!ENTITY MenuBar.tooltip "Barra del menu">
+<!ENTITY Break.label "Punti di interruzione">
+<!ENTITY BreakCol0.label "Nome">
+<!ENTITY BreakCol1.label "Riga/PC">
+<!ENTITY Locals.label "Variabili locali">
+<!ENTITY LocalsCol0.header "Nome">
+<!ENTITY LocalsCol1.header "Tipo">
+<!ENTITY LocalsCol2.header "Valore">
+<!ENTITY LocalsCol3.header "Flag">
+<!ENTITY Session.label "Console interattiva">
+<!ENTITY Scripts.label "Script caricati">
+<!ENTITY ScriptsSearch.label "Cerca">
+<!ENTITY ScriptsSearch.tooltip "Fare clic qui per svuotare il campo di ricerca">
+<!ENTITY ScriptsCol0.header "Nome">
+<!ENTITY ScriptsCol1.header "Riga">
+<!ENTITY ScriptsCol2.header "Lunghezza">
+<!ENTITY Source.label "Codice sorgente">
+<!ENTITY SourceHeader.tip "Barra del sorgente">
+<!ENTITY SourceCol0.display "Margine">
+<!ENTITY SourceCol1.display "Numero riga">
+<!ENTITY Stack.label "Stack chiamate">
+<!ENTITY StackCol0.header "Nome">
+<!ENTITY StackCol1.header "Tipo">
+<!ENTITY Watch.label "Variabili in esame">
+<!ENTITY WatchCol0.header "Nome">
+<!ENTITY WatchCol1.header "Tipo">
+<!ENTITY WatchCol2.header "Valore">
+<!ENTITY WatchCol3.header "Flag">
+<!ENTITY Windows.label "Finestre attive">
+<!ENTITY WindowsCol0.label "Archivia">
+<!ENTITY BPProps.URL.label "URL">
+<!ENTITY BPProps.Line.label "Riga">
+<!ENTITY BPProps.PC.label "PC">
+<!ENTITY BPProps.FunctionName.label "Funzione">
+<!ENTITY BPProps.TriggerCount.label "Conteggio utilizzi">
+<!ENTITY BPProps.OneTime.label "Rimuovi p.interr. dopo il primo uso">
+<!ENTITY BPProps.Then.label "Quindi …">
+<!ENTITY BPProps.ConditionalCheck.label "Quando attivato, esegui…">
+<!ENTITY BPProps.NeverStopRadio.label "Continua indipendentemente dal risultato">
+<!ENTITY BPProps.AlwaysStopRadio.label "Interrompi indipendentemente dal risultato">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Interrompi se il risultato è vero">
+<!ENTITY BPProps.EarlyReturnRadio.label "Ritorna anticipatamente dal chiamante con il risultato">
+<!ENTITY BPProps.PassExceptionsCheck.label "Passa eccezioni al chiamante">
+<!ENTITY BPProps.LogResultCheck.label "Output risultati">
+<!ENTITY BPProps.Apply.label "Applica">
+<!ENTITY BPProps.Revert.label "Ripristina">
+<!ENTITY BPProps.Close.label "Chiudi">

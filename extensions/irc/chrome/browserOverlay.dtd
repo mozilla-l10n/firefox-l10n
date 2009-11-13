@@ -19,6 +19,8 @@
    -
    - Contributor(s):
    -   James Ross <silver@warwickcompsoc.co.uk>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,7 +35,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY czButton.label "ChatZilla">
 <!ENTITY czMenu.label "ChatZilla">
-<!ENTITY czMenu.accesskey "Z">
+<!ENTITY czMenu.accesskey "C">

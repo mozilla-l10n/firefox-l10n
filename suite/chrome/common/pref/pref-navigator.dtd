@@ -1,20 +1,17 @@
 <!ENTITY pref.navigator.title "Navigator">
-
-<!ENTITY navRadio.label "Display on">
-<!ENTITY navRadio.accesskey "n">
+<!ENTITY navRadio.label "Mostra">
+<!ENTITY navRadio.accesskey "M">
 <!ENTITY navStartPageMenu.label "Avvio di Navigator">
 <!ENTITY newWinPageMenu.label "Nuova finestra">
 <!ENTITY newTabPageMenu.label "Nuova scheda">
-
 <!ENTITY blankPageRadio.label "Pagina bianca">
 <!ENTITY blankPageRadio.accesskey "b">
 <!ENTITY homePageRadio.label "Pagina home">
 <!ENTITY homePageRadio.accesskey "h">
 <!ENTITY lastPageRadio.label "Ultima pagina visitata">
 <!ENTITY lastPageRadio.accesskey "v">
-<!ENTITY restoreSessionRadio.label "Restore Previous Session">
-<!ENTITY restoreSessionRadio.accesskey "P">
-
+<!ENTITY restoreSessionRadio.label "Ripristina sessione precedente">
+<!ENTITY restoreSessionRadio.accesskey "t">
 <!ENTITY header2.label "Pagina home">
 <!ENTITY homePageIntro.label "La pressione del pulsante Home fa caricare la pagina o gruppo di pagine specificati.">
 <!ENTITY useCurrent.label "Utilizza pagina corrente">
@@ -25,18 +22,15 @@
 <!ENTITY browseFile.accesskey "S">
 <!ENTITY useDefault.label "Ripristina valori predefiniti">
 <!ENTITY useDefault.accesskey "R">
-
 <!ENTITY toolbarIntro.label "Selezionare i pulsanti da visualizzare nelle barre degli strumenti:">
-
 <!ENTITY navToolbarIntro.label "Barra degli strumenti di navigazione">
 <!ENTITY goButton.label "Vai">
 <!ENTITY goButton.accesskey "a">
 <!ENTITY searchButton.label "Cerca">
 <!ENTITY searchButton.accesskey "e">
-
-<!ENTITY defaultBrowserGroup.label "Default Browser">
-<!ENTITY defaultBrowserButton.label "Set Default Browser">
-<!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText "&brandShortName; is already your default browser.">
-<!ENTITY defaultPendingText "&brandShortName; will be set as your default browser when you click OK.">
-<!ENTITY makeDefaultText "Set &brandShortName; as your default browser.">
+<!ENTITY defaultBrowserGroup.label "Browser predefinito">
+<!ENTITY defaultBrowserButton.label "Imposta come browser predefinito">
+<!ENTITY defaultBrowserButton.accesskey "d">
+<!ENTITY alreadyDefaultText "&brandShortName; è già il tuo browser predefinito.">
+<!ENTITY defaultPendingText "&brandShortName; verrà impostato come tuo browser predefinito facendo clic su OK.">
+<!ENTITY makeDefaultText "Imposta &brandShortName; come tuo browser predefinito.">

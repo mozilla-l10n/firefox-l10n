@@ -2,17 +2,16 @@
 <!ENTITY tabDisplay.label "Visualizzazione schede">
 <!ENTITY autoHide.label "Nascondi la barra delle schede quando è aperta una sola scheda">
 <!ENTITY autoHide.accesskey "N">
-<!ENTITY background.label "Seleziona le nuove schede aperte dai collegamenti">
-<!ENTITY background.accesskey "S">
-<!ENTITY warnOnClose.label "Warn me when closing a window with multiple tabs">
-<!ENTITY warnOnClose.accesskey "n">
+<!ENTITY background.label "Passa alle nuove schede aperte dai collegamenti">
+<!ENTITY background.accesskey "P">
+<!ENTITY warnOnClose.label "Avvisa alla chiusura di una finestra con più schede">
+<!ENTITY warnOnClose.accesskey "s">
 <!ENTITY loadGroup.label "All'apertura di un gruppo di segnalibri">
 <!ENTITY loadGroupAppend.label "Aggiungi le schede">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "Sostituisci le schede aperte">
 <!ENTITY loadGroupReplace.accesskey "o">
 <!ENTITY openTabs.label "Apri una scheda al posto di una finestra con">
-
 <!ENTITY newWindow.label "Comportamento apertura collegamento">
 <!ENTITY newWindowDescription.label "Apri collegamenti destinati ad aprire una nuova finestra in">
 <!ENTITY external.label "Collegamenti da altre applicazioni">

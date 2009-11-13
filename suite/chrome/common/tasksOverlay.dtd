@@ -1,46 +1,32 @@
-<!-- extracted from tasksOverlay.xul -->
-<!ENTITY navigatorCmd.label "Navigator">
-<!ENTITY navigatorCmd.accesskey "N">
+<!ENTITY navigatorCmd.label "Browser">
+<!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
-<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Composer">
 <!ENTITY editorCmd.accesskey "C">
 <!ENTITY editorCmd.commandkey "4">
-
 <!ENTITY javaConsoleCmd.label "Console Java">
 <!ENTITY javaConsoleCmd.accesskey "J">
-
 <!ENTITY errorConsoleCmd.label "Console di errore">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-<!ENTITY taskNavigator.tooltip "Navigator">
+<!ENTITY taskNavigator.tooltip "Browser">
 <!ENTITY taskComposer.tooltip "Composer">
-
 <!ENTITY webDevelopment.label "Strumenti web">
 <!ENTITY webDevelopment.accesskey "S">
-
 <!ENTITY windowMenu.label "Finestre">
 <!ENTITY windowMenu.accesskey "n">
-
 <!ENTITY tasksMenu.label "Strumenti">
 <!ENTITY tasksMenu.accesskey "S">
-
-<!ENTITY passwordManagerCmd.label "Password Manager">
-<!ENTITY passwordManagerCmd.accesskey "P">
-
-<!ENTITY passwordDisplayCmd.label "Manage Stored Passwords">
-<!ENTITY passwordDisplayCmd.accesskey "M">
-
-<!ENTITY passwordExpireCmd.label "Log Out">
-<!ENTITY passwordExpireCmd.accesskey "l">
-
+<!ENTITY passwordManagerCmd.label "Gestione password">
+<!ENTITY passwordManagerCmd.accesskey "w">
+<!ENTITY passwordDisplayCmd.label "Gestione password memorizzate">
+<!ENTITY passwordDisplayCmd.accesskey "G">
+<!ENTITY passwordExpireCmd.label "Chiedi nuovamente accesso">
+<!ENTITY passwordExpireCmd.accesskey "C">
 <!ENTITY downloadManagerCmd.label "Gestione download">
 <!ENTITY downloadManagerCmd.accesskey "G">
 <!ENTITY downloadManagerCmd.commandkey "j">
-
-<!ENTITY addonsManagerCmd.label "Add-on Manager">
-<!ENTITY addonsManagerCmd.accesskey "A">
-
+<!ENTITY addonsManagerCmd.label "Componenti aggiuntivi">
+<!ENTITY addonsManagerCmd.accesskey "a">
 <!ENTITY switchProfileCmd.label "Passa al profilo…">
 <!ENTITY switchProfileCmd.accesskey "P">

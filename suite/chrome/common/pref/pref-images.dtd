@@ -1,9 +1,6 @@
 <!ENTITY pref.images.title "Immagini">
-
 <!ENTITY imageBlocking.label "Politica di accettazione immagini">
-
 <!ENTITY imageDetails "Specifica come &brandShortName; debba gestire le immagini.">
-
 <!ENTITY accAllImagesRadio.label "Accetta tutte le immagini">
 <!ENTITY accAllImagesRadio.accesskey "A">
 <!ENTITY accOrgImagesRadio.label "Accetta solo le immagini che vengono dal server di origine">

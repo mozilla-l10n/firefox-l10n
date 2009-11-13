@@ -22,6 +22,8 @@
    -   Stephen Lamm          <slamm@netscape.com>
    -   Robert John Churchill <rjc@netscape.com>
    -   Ben Goodger           <ben@netscape.com>
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,9 +38,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY bookmarks.windowtitle.label "Proprietà per &quot;**bm_title**&quot;">
-
 <!ENTITY generalInfo.label "Generali">
 <!ENTITY bookmarks.name.label "Nome:">
 <!ENTITY bookmarks.name.accesskey "N">
@@ -48,7 +48,6 @@
 <!ENTITY bookmarks.shortcut.accesskey "h">
 <!ENTITY bookmarks.description.label "Descrizione:">
 <!ENTITY bookmarks.description.accesskey "e">
-
 <!ENTITY checkforupdates.legend.label "Controlla questo indirizzo per aggiornamenti">
 <!ENTITY when.label "Quando:">
 <!ENTITY when.accesskey "q">
@@ -60,7 +59,6 @@
 <!ENTITY every.accesskey "o">
 <!ENTITY minutes.label "minuti">
 <!ENTITY notifications.legend.label "Notifica">
-
 <!ENTITY checknever.label "Mai">
 <!ENTITY checkeveryday.label "Ogni giorno">
 <!ENTITY checkweekdays.label "Giorni lavorativi">
@@ -72,7 +70,6 @@
 <!ENTITY checkfridays.label "Venerdì">
 <!ENTITY checksaturdays.label "Sabato">
 <!ENTITY checksundays.label "Domenica">
-
 <!ENTITY midnight.label "Mezzanotte">
 <!ENTITY AMone.label "1">
 <!ENTITY AMtwo.label "2">
@@ -85,7 +82,7 @@
 <!ENTITY AMnine.label "9">
 <!ENTITY AMten.label "10">
 <!ENTITY AMeleven.label "11">
-<!ENTITY noon.label "Mezzodì">
+<!ENTITY noon.label "Mezzogiorno">
 <!ENTITY PMone.label "13">
 <!ENTITY PMtwo.label "14">
 <!ENTITY PMthree.label "15">
@@ -97,7 +94,6 @@
 <!ENTITY PMnine.label "21">
 <!ENTITY PMten.label "22">
 <!ENTITY PMeleven.label "23">
-
 <!ENTITY notification.icon.label "Cambia icona del segnalibro">
 <!ENTITY notification.icon.accesskey "C">
 <!ENTITY notification.sound.label "Riproduci un suono">

@@ -19,6 +19,8 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
+   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,7 +35,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "E-mail">
@@ -66,8 +67,6 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Discendente">
 <!ENTITY sortDescending.accesskey "D">
-
-<!-- context menu -->
 <!ENTITY composeEmail.label "Scrivi messaggio a">
 <!ENTITY composeEmail.accesskey "v">
 <!ENTITY copyAddress.label "Copia indirizzo e-mail">

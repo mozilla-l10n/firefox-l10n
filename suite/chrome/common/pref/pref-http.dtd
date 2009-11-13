@@ -1,6 +1,4 @@
 <!ENTITY pref.http.title "Trasferimenti HTTP">
-
-<!-- Network-->
 <!ENTITY prefDirect.label "Opzioni connessione diretta">
 <!ENTITY prefProxy.label "Opzioni connessione via proxy">
 <!ENTITY prefEnableHTTP10.label "Utilizza HTTP 1.0">
