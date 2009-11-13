@@ -20,6 +20,13 @@
 <!ENTITY aboutSupport.appBasicsPlugins "Installerede plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
 
+<!ENTITY aboutSupport.show.label "Åbn mappe">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Vis i Finder">
+
 <!ENTITY aboutSupport.modifiedPrefsTitle "Ændrede indstillinger">
 <!ENTITY aboutSupport.modifiedPrefsName "Navn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Værdi">
