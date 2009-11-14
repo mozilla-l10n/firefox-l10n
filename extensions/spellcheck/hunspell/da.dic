@@ -1,4 +1,4 @@
-141834 # (c) Stavekontrolden.dk
+142004 # (c) Stavekontrolden.dk
 Nordjylland/55,939,947
 vidnepligt/70,73,7,976,939,947
 vidnesbyrd/70,252,10,976,939,947
@@ -230,7 +230,7 @@ vibeæg/70,254,976
 vibefedt/70,7,252,976,941,947
 vibe/70,73,7,976,941,947
 vi/6,143,148
-via/944,946
+via
 viadukt/70,73,7,976
 vi/70,10,73,976,466
 vi
@@ -336,7 +336,7 @@ verve/193,70,976
 veråb/70,252,10,976,466
 vertebrat/70,73,7,976
 versionere/6,143,148,466
-versus/944,946
+versus
 versificere/6,143,148,466
 version/70,73,7,976,939,947
 versere/6,143,148,466
@@ -1079,7 +1079,7 @@ veksler/20,7,70,976
 veksling/70,73,7,976
 vektor/70,73,7,976,941,947
 vektorprocessor/70,73,7,976
-vel
+vel/941,947
 
 vekselstrøm/70,133,976,939,947
 vekselspænding/70,73,7,976
@@ -1213,7 +1213,7 @@ vedstået
 vedståets
 vedståede
 vedståedes
-vedrørende/944,946
+vedrørende
 vedr.
 vedligeholdelsesudgift/70,73,7,976
 vedligeholdelsesstand/193,70,976
@@ -1310,10 +1310,10 @@ vedblivende
 
 vedbend/70,7,252,976
 veda/70,73,7,976
-ved/70,736,941,947
+ved/70,736,976,941,947
 ved
 
-ved/944,946
+ved
 ve/70,976
 veen/976
 veens/976
@@ -1380,7 +1380,9 @@ vaskekræfterne/976
 vaskekræfternes
 vaske/6,143,148,941,947
 vaskbar/70,962,366
-vaselin/70,73,7,976
+vaselin/70,73,7,976,940,947
+vaseline/976
+vaselines
 vask/20,7,70,976,940,947
 vaseformet/70,1062
 vase/70,73,7,976
@@ -1581,7 +1583,7 @@ vaps/70,73,7,976
 vanære/6,143,148
 vanvittig/207,70,366,976
 vanvidsscene/70,73,7,976
-vanvid/70,736,939,947
+vanvid/70,736,976,939,947
 vanvare/190,976
 vantro/193,70,976
 vantro/976
@@ -2491,7 +2493,7 @@ utaknemligst/976
 utaknemmeligst/976
 utaknemligste/976
 ut
-utak/737,70
+utak/737,70,976
 utagelig/207,70,366,976
 usårlighed/193,70,976
 usårlig/207,70,366,976
@@ -2625,7 +2627,7 @@ uskyld/193,70,976
 uskyldig/207,70,366,976
 uskikket/70,1062
 uskiftet/70,1062
-uskik/737,70
+uskik/737,70,976
 usket/70,1062
 uskarp/70,962,366
 uskelnelig/207,70,366,976
@@ -2885,7 +2887,7 @@ uretmæssig/207,70,366,976
 uretfærdig/207,70,366,976
 uretan/70,10,73,976
 uret/207,70,366,976
-uret/737,70,941,947
+uret/737,70,976,941,947
 urenlighed/70,73,7,976
 urenset/70,1062
 urentabel/976
@@ -3282,7 +3284,7 @@ ungdomsbøger/976
 ungdomsbøgers/976
 ungdomsbøgerne/976
 ungdomsbøgernes
-ungdom/737,70,939,947
+ungdom/737,70,976,939,947
 ungdommelighed/193,70,976
 ungdommelig/207,70,366,976
 ungarsk/190,976
@@ -3326,7 +3328,7 @@ undvig
 undtagelsesvis/70,962,366
 undtagelsesvis
 
-undtagen/944,946
+undtagen
 undtagen
 undtagelsesregel/70,976
 undtagelsesregels/976
@@ -3624,7 +3626,7 @@ underrepræsenteret/70,1062
 underprivilegeret/70,1062
 underordnet/70,1062
 underordnelse/70,73,7,976
-underneden/944,946
+underneden
 underneden
 
 undermand/70,976
@@ -3636,7 +3638,7 @@ undermænds/976
 undermændene/976
 undermændenes
 underlødig/207,70,366,976
-underlægningsmusik/737,70
+underlægningsmusik/737,70,976
 underlæggelse/193,70,976
 underlivsbetændelse/70,73,7,976
 underlagt/976
@@ -4323,7 +4325,7 @@ ugunstig/207,70,366,976
 ugudelighed/193,70,976
 ugudelig/207,70,366,976
 ugtl.
-ugræs/70,736
+ugræs/70,736,976
 ugrundet/70,1062
 ugribelig/207,70,366,976
 ugrenet/70,1062
@@ -4487,6 +4489,7 @@ ufyldestgørende/916,976
 ufærdig/207,70,366,976
 ufuldkommen/976
 ufuldkommens/976
+ufuldkomment/976
 ufuldkomments/976
 ufuldkomne/976
 ufuldkomnes/976
@@ -4494,8 +4497,7 @@ ufuldkomnere/976
 ufuldkomneres/976
 ufuldkomnest/976
 ufuldkomneste/976
-ufuldkomnestes/976
-ufuldkomment
+ufuldkomnestes
 ufuldendt/976
 ufuldendts/976
 ufuldendte/976
@@ -5964,7 +5966,7 @@ udlove/6,143,148
 udlude/6,143,148
 udludning/70,73,7,976
 udlufte/6,143,148
-udluftning/70,73,7,976
+udluftning/70,73,7,976,939,947
 udlugning/70,73,7,976
 udlosning/70,73,7,976
 udlodning/70,73,7,976
@@ -6109,7 +6111,7 @@ udklippets
 udklippede
 udklippedes
 udklip
-udklip/70,254,976
+udklip/70,254,976,939,947
 udklasse
 udklasser
 udklasses
@@ -6190,7 +6192,7 @@ udkant/70,73,7,976
 udkald/70,252,10,976
 udjævning/70,73,7,976
 udjævne/6,143,148
-udi/944,946
+udi
 udifferentieret/70,1062
 udiplomatisk/917,976
 udisciplineret/70,1062
@@ -6553,7 +6555,7 @@ udenoms
 
 udenomsareal/70,10,73,976
 udenomsparlamentarisk/917,976
-udenomssnak/737,70
+udenomssnak/737,70,976
 udenpå
 
 udenom
@@ -6598,7 +6600,7 @@ uden-/942,946
 uden
 uden
 
-uden/944,946
+uden
 udemokratisk/917,976
 udelukket/70,1062
 udelukkende
@@ -7206,7 +7208,7 @@ uansøgtes
 uansvarlighed/193,70,976
 uansvarlig/207,70,366,976
 uanstændighed/70,73,7,976
-uanset/944,946
+uanset
 uanskuelig/207,70,366,976
 uanstændig/207,70,366,976
 uanmodet/70,1062
@@ -7250,7 +7252,7 @@ uaktuel/1106,70,366
 ualmindelig/207,70,366,976
 uagtsom/1025,366,976
 uagtsomhed/193,70,976
-uagtet/944,946
+uagtet
 uagtet
 uafvendelighed/193,70,976
 uafvidende
@@ -7272,7 +7274,7 @@ uafhentet/70,1062
 uafhængig/207,70,366,976
 uafhængighed/193,70,976,939,947
 tårnur/10,70,20,976
-U/402,941,947
+U/402
 u/402
 u-/942,946
 uacceptabel/976
@@ -7372,7 +7374,7 @@ tåge/70,73,7,976,941,947
 tøvejr/70,252,10,976
 tøsne/193,70,976
 tøve/6,143,148
-tøsjap/70,736
+tøsjap/70,736,976
 tøset/70,1062
 tøsedreng/20,7,70,976
 tøsebarn/70,976
@@ -7391,7 +7393,7 @@ tørst/193,70,976,940,947
 tørste/6,143,148,941,947
 tørstege/140,143,148
 tørstig/207,70,366,976
-tørstof/70,736
+tørstof/70,736,976
 tørtid/70,73,7,976
 tørv/70,7,252,976,940,947
 tørlægge
@@ -7840,7 +7842,7 @@ tyverisigtet/70,1062
 tyverialarm/70,73,7,976
 tyveri/70,10,73,976,941,947
 tyver/20,7,70,976
-tyvepak/70,736
+tyvepak/70,736,976
 tyvendedel/20,7,70,976
 tyvende/70
 tyvekroneseddel/70,976
@@ -8189,7 +8191,7 @@ tvivlsom/1025,366,976
 tvivlsspørgsmål/70,252,10,976
 tvivlstilfælde/70,252,10,976
 tv-journalist/70,73,7,976
-tv-journalistik/737,70
+tv-journalistik/737,70,976
 tviste/6,143,148
 tvistighed/70,73,7,976
 tvivl/70,7,252,976
@@ -8532,7 +8534,7 @@ tungtopløselig/207,70,366,976
 tungtvandsreaktor/70,73,7,976
 tungtvejende/916,976
 tunguser/20,7,70,976
-tungspat/737,70
+tungspat/737,70,976
 tungsindig/207,70,366,976
 tungsindighed/193,70,976
 tungnem/1106,70,366
@@ -8819,7 +8821,7 @@ trøsket/70,1062
 trøje/70,73,7,976
 trøffelsvin/70,252,10,976
 trøffelsovs/20,7,70,976
-trøffel/70,976
+trøffel/70,976,941,947
 trøffels/976
 trøflen/976
 trøffelen/976
@@ -8968,7 +8970,7 @@ trækbrædders/976
 trækbrædderne/976
 trækbræddernes
 træk/70,254,976,941,947
-træk/737,70
+træk/737,70,976
 træhammer/70,976
 træhammers/976
 træhammeren/976
@@ -9264,7 +9266,7 @@ trosartikler/976
 trosartiklers/976
 trosartiklerne/976
 trosartiklernes
-tros/70,736,941,947
+tros/70,736,976,941,947
 troppebevægelse/70,73,7,976
 tropsfører/20,7,70,976
 troppe/941,947
@@ -9404,7 +9406,7 @@ trolddomskræfter/976
 trolddomskræfters/976
 trolddomskræfterne/976
 trolddomskræfternes
-trolddom/737,70,939,947
+trolddom/737,70,976,939,947
 troldand/70,976
 troldands/976
 troldanden/976
@@ -9435,7 +9437,7 @@ trodsig/207,70,366,976
 trodsighed/193,70,976
 trodse/6,143,148
 Troas/55
-trods/944,946
+trods
 trods/193,70,976
 trodsalder/193,70,976
 tro/6,143,148
@@ -10250,7 +10252,7 @@ tranchersaks/20,7,70,976
 tranchering/70,73,7,976
 tranchere/6,143,148
 trancetilstand/20,7,70,976
-tran/737,70
+tran/737,70,976
 trance/70,73,7,976
 trampolin/70,73,7,976,941,947
 trampolinspring/70,252,10,976
@@ -10300,7 +10302,7 @@ trailer/20,7,70,976
 train/194,70,976
 tragediedigter/20,7,70,976
 tragedienne/70,73,7,976
-tragik/737,70
+tragik/737,70,976
 tragikomedie/70,73,7,976
 tragikomisk/917,976
 tragisk/917,976
@@ -10890,7 +10892,7 @@ tomgangshastighed/70,73,7,976
 tomgang/193,70,976
 tome/70,73,7,976
 tombola/70,73,7,976
-tombak/737,70
+tombak/737,70,976
 tomatrød/70,962,366
 tomat/70,73,7,976,941,947
 tomatbåd/20,7,70,976
@@ -10919,7 +10921,7 @@ tolvårs's/976
 tolvårs'/976
 tolvårses
 tolvårig/70,962,366
-tolvtonemusik/737,70
+tolvtonemusik/737,70,976
 tolvfingertarm/20,7,70,976
 tolvtalssystem/70,10,73,976
 tolvte/70
@@ -11309,7 +11311,7 @@ titalssystem/70,10,73,976
 tissetrængende/916,976
 tirsdag/20,7,70,976
 tirsdagsmøde/70,10,73,976
-tis/70,736
+tis/70,736,976
 tiske/6,143,148
 tisse/941,947
 tisser
@@ -11507,7 +11509,7 @@ tindingeben/70,252,10,976
 tinding/70,73,7,976
 tin-/942,946
 tinde/70,73,7,976
-tin/70,736,941,947
+tin/70,736,976,941,947
 Timur/55
 timing/193,70,976
 Timotheus/55
@@ -11536,7 +11538,7 @@ timer/20,7,70,976
 times/941,947
 timedes
 timelønnet/70,1062
-timeløn/737,70,939,947
+timeløn/737,70,976,939,947
 timelærer/20,7,70,976
 timelighed/193,70,976
 timecharter/190,976
@@ -11817,7 +11819,7 @@ tilsnittets
 tilsnittede
 tilsnittedes
 tilsnit
-tilsnit/70,736
+tilsnit/70,736,976
 tilsnigelse/70,73,7,976
 tilsnige
 tilsniger
@@ -12889,9 +12891,9 @@ tilbageblevet
 tilbagebetalingstid/70,73,7,976
 tilbagebetaling/193,70,976
 tikæmper/20,7,70,976
-til
+til/941,947
 
-til/944,946
+til
 til
 tilbage
 
@@ -13140,7 +13142,7 @@ tidsnødens
 tidløshed/193,70,976
 tidløs/70,7,252,976
 tidløs/70,962,366
-tidløn/737,70,939,947
+tidløn/737,70,976,939,947
 tidligst/976
 tidligsts/976
 tidligste/976
@@ -13247,7 +13249,7 @@ teutonske/976
 teutoniskes/976
 teutonskes/976
 teutonsk
-tetraklorkulstof/70,736,941,947
+tetraklorkulstof/70,736,976,941,947
 tetralogi/70,73,7,976
 tetravalent/976
 tetravalents/976
@@ -13406,12 +13408,12 @@ termorude/70,73,7,976
 termografi/193,70,976
 termojakke/70,73,7,976
 termograf/70,73,7,976
-termoglas/70,736,941,947
+termoglas/70,736,976,941,947
 termoflaske/70,73,7,976
 termit/46,70,976
 termitbo/70,10,73,976
 termo-/942,946
-termodynamik/737,70,941,947
+termodynamik/737,70,976,941,947
 termodynamisk/917,976
 termoelement/70,10,73,976
 termisk/917,976
@@ -13506,7 +13508,7 @@ tenor/70,73,7,976,941,947
 tennissok/46,70,976
 tennissko/70,7,252,976
 tennisalbue/70,73,7,976
-tennis/737,70,941,947
+tennis/737,70,976,941,947
 tenformet/70,1062
 tendere/6,143,148
 tender/20,7,70,976
@@ -13635,7 +13637,7 @@ teleobjektiv/70,10,73,976
 telenet/70,254,976
 telemetri/193,70,976
 telemeter/70,252,10,976
-telematik/737,70,941,947
+telematik/737,70,976,941,947
 telelinse/70,73,7,976
 telekinetisk/917,976
 telekommunikation/70,73,7,976
@@ -13792,7 +13794,7 @@ teledatas/976
 teledataene/976
 teledataenes
 telefon/70,73,7,976
-tektonik/737,70,941,947
+tektonik/737,70,976,941,947
 tektonisk/917,976
 tekøkken/70,976
 tekøkkens/976
@@ -14314,7 +14316,7 @@ tandstænger/976
 tandstængers/976
 tandstængerne/976
 tandstængernes
-tandsmør/70,736,941,947
+tandsmør/70,736,976,941,947
 tandrække/70,73,7,976
 tandpastasmil/70,252,10,976
 tandpine/70,73,7,976
@@ -14466,7 +14468,7 @@ tallinjerne/976
 talliniernes/976
 tallinjernes
 talmudisk/917,976
-tallium/70,736,941,947
+tallium/70,736,976,941,947
 tallerkenrække/70,73,7,976
 tallerkenneger/20,7,70,976
 tallerkenfuld/70,976
@@ -14489,7 +14491,7 @@ tallerkenerne/976
 tallerknerne/976
 tallerkenernes/976
 tallerknernes
-talkum/70,736,941,947
+talkum/70,736,976,941,947
 talkolonne/70,73,7,976
 talje/70,73,7,976,941,947
 taljemål/70,252,10,976
@@ -14644,7 +14646,7 @@ takket/70,1062
 takkebrev/10,70,20,976
 tajga/193,70,976
 tak/46,70,976
-tak/737,70
+tak/737,70,976
 takistoskop/70,10,73,976
 takke/941,947
 takker
@@ -14712,7 +14714,7 @@ tagens
 tagne
 tagnes
 tag
-taffelmusik/737,70,941,947
+taffelmusik/737,70,976,941,947
 taffelservice/70,10,73,976
 taffelur/10,70,20,976
 taft/70,73,7,976
@@ -15027,7 +15029,7 @@ søskendebørn/976
 søskendebørns/976
 søskendebørnene/976
 søskendebørnenes
-søskende/70,976
+søskende/70,976,941,947
 søskendes
 søside/193,70,976
 sørøver/20,7,70,976,941,947
@@ -15424,7 +15426,7 @@ søgte/976
 søgtes
 søgsmål/70,252,10,976
 søgrøn/1106,70,366
-søgræs/70,736,941,947
+søgræs/70,736,976,941,947
 søgning/70,73,7,976,939,947
 søgnehelligdagsbetaling/70,73,7,976
 søger/20,7,70,976
@@ -15763,7 +15765,7 @@ sædvanlig/207,70,366,976
 sædvanligvis
 
 sædvæske/70,73,7,976
-sædvaneret/737,70,939,947
+sædvaneret/737,70,976,939,947
 sædvanemæssig/207,70,366,976
 sædvane/70,73,7,976
 sædudtømmelse/70,73,7,976
@@ -16201,7 +16203,7 @@ symbolladet/70,1062
 symbolist/70,73,7,976
 symbolisering/70,73,7,976
 symbolisere/6,143,148
-symbolik/737,70,941,947
+symbolik/737,70,976,941,947
 symbol/70,10,73,976,941,947
 symbiotisk/917,976
 symbiose/70,73,7,976
@@ -16319,7 +16321,7 @@ sygdomsbekæmpende/916,976
 sygdomsadfærd/193,70,976
 sygdoms-/942,946
 sygdom/70,133,976,939,947
-syfilis/737,70,941,947
+syfilis/737,70,976,941,947
 syfilitiker/20,7,70,976
 syfilitisk/917,976
 syg/70,962,366
@@ -17065,7 +17067,7 @@ svagtbegavet/70,1062
 svagt
 
 svagsynet/70,1062
-svagstrøm/737,70,939,947
+svagstrøm/737,70,976,939,947
 svaghedsperiode/70,73,7,976
 svaghed/70,73,7,976,939,947
 svagelig/207,70,366,976
@@ -17574,18 +17576,7 @@ succesfyldtes
 succesfuld/70,962,366
 succesforfatter/20,7,70,976
 succesfilm/70,7,252,976
-succes/70,976
-sucses/976
-succes'/976
-succes's/976
-succeses/976
-success/976
-succesen/976
-succesens/976
-succeser/976
-succesers/976
-succeserne/976
-succesernes
+succes/70,73,7,976,941,947
 subversiv/70,962,366
 subtrahere/6,143,148
 subtraktion/70,73,7,976
@@ -17875,7 +17866,7 @@ stævne/70,10,73,976,941,947
 stærkt
 
 stærkstrømsreglement/70,10,73,976
-stærkstrøm/737,70,939,947
+stærkstrøm/737,70,976,939,947
 stærkest/976
 stærkests/976
 stærkeste/976
@@ -18102,7 +18093,7 @@ stumfilm/70,7,252,976
 stum/1106,70,366
 stukkatør/70,73,7,976
 stukkatur/193,70,976
-stuk/70,736,941,947
+stuk/70,736,976,941,947
 stueur/10,70,20,976
 stueren/70,962,366
 stueorgel/70,976
@@ -18293,7 +18284,7 @@ studehandlers/976
 studehandlerne/976
 studehandlernes
 studehandler/20,7,70,976
-student/70,73,7,976,947
+student/70,73,7,976,437,947
 studenterbevægelse/70,73,7,976
 studenterbrød/70,252,10,976
 stubbe
@@ -18561,7 +18552,7 @@ strube/70,73,7,976,941,947
 stroppetur/20,7,70,976
 stropløs/70,962,366
 strop/46,70,976
-strontium/70,736,941,947
+strontium/70,736,976,941,947
 stroke/70,73,7,976
 stroganoff/193,70,976
 strofisk/917,976
@@ -18973,7 +18964,7 @@ storsnudet/70,1062
 storsnudethed/193,70,976
 storslåethed/193,70,976
 storslået/70,1062
-storslalom/737,70,941,947
+storslalom/737,70,976,941,947
 storskraldsordning/70,73,7,976
 storskryder/20,7,70,976
 storskærm/70,7,252,976
@@ -18993,7 +18984,7 @@ storrige/70,10,73,976
 storrussisk/917,976
 storrygende/916,976
 storryger/20,7,70,976
-storpolitik/737,70,941,947
+storpolitik/737,70,976,941,947
 storoffensiv/70,73,7,976
 stornæset/70,1062
 storno/70,976
@@ -20501,7 +20492,7 @@ statsretsligeres/976
 statsretligst/976
 statsretsligst/976
 statsretl
-statsret/737,70,939,947
+statsret/737,70,976,939,947
 statsreligion/70,73,7,976
 statsregnskab/70,10,73,976
 statsopera/70,73,7,976
@@ -20581,7 +20572,7 @@ statsfængslerne/976
 statsfængslernes
 statsfællesskab/70,10,73,976
 statsforvaltning/70,73,7,976
-statsforfatningsret/737,70,939,947
+statsforfatningsret/737,70,976,939,947
 statsforfatning/70,73,7,976
 statsforetagende/70,10,73,976
 statsforbund/70,252,10,976
@@ -20608,7 +20599,7 @@ statsdrevent
 statsdirigeret/70,1062
 statsdannelse/70,73,7,976
 statschef/70,73,7,976
-statsborgerret/737,70,939,947
+statsborgerret/737,70,976,939,947
 statsbudget/70,9,976
 statsbureaukrati/70,10,73,976
 statsbank/70,73,7,976
@@ -20649,7 +20640,7 @@ stationering/70,73,7,976
 stationere/6,143,148
 stationcar/70,7,252,976
 station/70,73,7,976
-statik/737,70,941,947
+statik/737,70,976,941,947
 statholder/20,7,70,976
 statement/70,10,73,976
 statelig/207,70,366,976
@@ -20712,7 +20703,7 @@ stank/20,7,70,976
 stankelben/70,252,10,976,939,947
 stangvægt/20,7,70,976
 stangtøj/194,70,976
-stangtennis/737,70,941,947
+stangtennis/737,70,976,941,947
 stangspringer/20,7,70,976
 stangspring/70,252,10,976
 stangsikker/976
@@ -20807,7 +20798,7 @@ stamplads/70,73,7,976
 stampublikum/70,9,976
 stamspiller/20,7,70,976
 stamper/20,7,70,976
-stampersonel/70,736,941,947
+stampersonel/70,736,976,941,947
 stampe/6,143,148
 stampe
 stampe/70,73,7,976
@@ -21219,7 +21210,7 @@ spækbrætterne/976
 spækkebrætterne/976
 spækbrætternes/976
 spækkebrætternes
-spæk/70,736,941,947
+spæk/70,736,976,941,947
 spægelse/70,73,7,976
 spæge/6,143,148
 spædlemmet/70,1062
@@ -21262,7 +21253,7 @@ spytkirtlers/976
 spytkirtlerne/976
 spytkirtlernes
 spytafsondring/70,73,7,976
-spyt/70,736,941,947
+spyt/70,736,976,941,947
 spydighed/70,73,7,976
 spydig/207,70,366,976
 spydblad/10,70,20,976
@@ -21383,7 +21374,7 @@ spruttede
 spruttedes
 sprut
 sprut/70,254,976
-sprut/737,70,941,947
+sprut/737,70,976,941,947
 sprunget/976
 sprungets/976
 sprungete/976
@@ -21468,7 +21459,7 @@ sprittedes
 sprit
 spritapparat/70,10,73,976
 sprit-/942,946
-sprit/737,70,941,947
+sprit/737,70,976,941,947
 sprinterdronning/70,73,7,976
 sprinkle/6,143,148
 sprinkler/20,7,70,976
@@ -21651,7 +21642,7 @@ sporesæk/70,133,976
 sporhund/20,7,70,976
 sporbar/70,962,366
 sporadisk/917,976
-spor/70,252,10,976
+spor/70,252,10,976,941,947
 spontanitet/193,70,976
 spontanflygtning/20,7,70,976
 spontan/70,962,366
@@ -21825,7 +21816,7 @@ spirituskørsler/976
 spirituskørslers/976
 spirituskørslerne/976
 spirituskørslernes
-spiritus/737,70,941,947
+spiritus/737,70,976,941,947
 spiritual/70,7,252,976,941,947
 spiritualisere/6,143,148
 spiritualistisk/917,976
@@ -21964,7 +21955,7 @@ spillemænd/976
 spillemænds/976
 spillemændene/976
 spillemændenes
-spillemandsmusik/737,70,941,947
+spillemandsmusik/737,70,976,941,947
 spillelysten/976
 spillelystens/976
 spillelystents/976
@@ -22155,7 +22146,7 @@ spiddedes
 spid
 sperling/70,73,7,976
 sperm/193,70,976
-spermacet/70,736,941,947
+spermacet/70,736,976,941,947
 spergel/70,976
 spergelen/976
 sperglen/976
@@ -22303,7 +22294,7 @@ specialstudiers/976
 specialstudierne/976
 specialstudiernes
 specialpædagogisk/917,976
-specialslalom/737,70,941,947
+specialslalom/737,70,976,941,947
 specialofficer/70,73,7,976
 specialskole/70,73,7,976
 specialskib/10,70,20,976
@@ -22405,7 +22396,7 @@ spatiumernes/976
 sp
 spasticitet/193,70,976
 spatelformet/70,1062
-spat/737,70,941,947
+spat/737,70,976,941,947
 spatel/70,976
 spatels/976
 spatelen/976
@@ -22517,7 +22508,7 @@ spanskes
 spankulere/6,143,148
 spankingrum/70,254,976
 spanke/6,143,148
-spanking/190,976
+spanking/193,70,976,941,947
 spaniol/70,73,7,976
 spanier/20,7,70,976
 Spaniensrejse/70,73,7,976
@@ -22642,7 +22633,7 @@ souvenir/70,73,7,976
 souper/70,73,7,976
 soupere/6,143,148
 sousafon/70,73,7,976
-soulmusik/737,70,941,947
+soulmusik/737,70,976,941,947
 soundtrack/70,252,10,976
 soul/190,976,939,947
 souffle/70,976
@@ -22727,7 +22718,7 @@ sortfødderne/976
 sortføddernes
 sortfarvet/70,1062
 sorterer/20,7,70,976
-sortering/70,73,7,976
+sortering/70,73,7,976,939,947
 sorteringsmaskine/70,73,7,976
 sortere/6,143,148
 sorteper/190,976
@@ -23195,7 +23186,7 @@ soldaterbøger/976
 soldaterbøgers/976
 soldaterbøgerne/976
 soldaterbøgernes
-soldat/70,73,7,976,947
+soldat/70,73,7,976,437,947
 sold/194,70,976,940,947
 sold/70,252,10,976
 solbrændthed/193,70,976
@@ -23323,7 +23314,9 @@ sogneaftnernes
 sogn/10,70,20,976,940,947
 softwarehus/10,70,20,976
 software/70,976,941,947
-softwaren
+softwaren/976
+softwares/976
+softwarens
 softice/70,7,252,976
 softdrink/70,7,252,976
 soffit/46,70,976
@@ -23685,7 +23678,7 @@ snotnæset/70,1062
 snotforvirret/70,1062
 snorlige/976
 snorliges
-snot/70,736,941,947
+snot/70,736,976,941,947
 snotdum/1106,70,366
 snotforkølet/70,1062
 snorkelyd/20,7,70,976
@@ -24743,7 +24736,7 @@ smudsafvisende/916,976
 smuds/194,70,976,941,947
 smovse/6,143,148
 smovs/70,73,7,976
-smog/737,70,941,947
+smog/737,70,976,941,947
 smoking/70,73,7,976,941,947
 smocksyning/70,73,7,976
 sml.
@@ -25125,8 +25118,7 @@ sluttethed/193,70,976
 slyng/70,252,10,976
 slynge/70,73,7,976,941,947
 slynge/6,143,148
-slyngel/70,976
-'slyngel'/976
+slyngel/70,976,941,947
 slyngels/976
 slyngelen/976
 slynglen/976
@@ -25387,10 +25379,10 @@ slikbøder/976
 slikbøders/976
 slikbøderne/976
 slikbødernes
-slik/737,70
+slik/737,70,976
 slik/70,254,976
 slik/190,976,941,947
-slik/70,736
+slik/70,736,976
 slig/194,70,976
 slig/207,70,366,976
 Slien/55
@@ -25424,7 +25416,7 @@ slidtes
 slid
 slidbane/70,73,7,976
 slide/70,7,252,976
-slid/70,736,941,947
+slid/70,736,976,941,947
 slibrighed/70,73,7,976
 slibrig/207,70,366,976
 slibning/70,73,7,976
@@ -25508,7 +25500,7 @@ slebnestes/976
 slebent
 slavofil/70,73,7,976
 slavist/70,73,7,976
-slavistik/737,70
+slavistik/737,70,976
 slavisk/917,976
 slavinde/70,73,7,976
 slaveri/194,70,976
@@ -25618,7 +25610,7 @@ slang/193,70,976
 slange/6,143,148
 slange/70,73,7,976,941,947
 slangeløs/70,962,366
-slam/70,736,941,947
+slam/70,736,976,941,947
 slagværk/70,10,73,976
 slagvåben/70,976
 slagvåbenet/976
@@ -25628,7 +25620,7 @@ slagvåbnets/976
 slagvåbens/976
 slagvåbnene/976
 slagvåbnenes
-slalom/737,70,941,947
+slalom/737,70,976,941,947
 slalombakke/70,73,7,976
 slalome/6,143,148
 slalomkørsel/70,976
@@ -26472,7 +26464,7 @@ skulptur/70,73,7,976,941,947
 skulpturel/1106,70,366
 skulpturere/6,143,148
 skulptør/70,73,7,976
-skum/70,736,941,947
+skum/70,736,976,941,947
 skumbad/10,70,20,976
 skumklædt/976
 skumklædts/976
@@ -26538,7 +26530,7 @@ skue/70,10,73,976
 skue/70,73,7,976
 skue/6,143,148
 skuebrød/70,252,10,976
-skueglas/70,736
+skueglas/70,736,976
 skuemester/70,7,252,976
 skuen/190,976
 skudvinkel/70,976
@@ -26778,7 +26770,7 @@ skrutrygget/70,1062
 skrækindjagende/916,976
 skrækfilm/70,7,252,976
 skrækblandet/70,1062
-skræk/737,70,941,947
+skræk/737,70,976,941,947
 skræddersy/6,143,148
 skrædderere/6,143,148
 skrædder/20,7,70,976,941,947
@@ -26941,7 +26933,7 @@ skrottedes
 skrot
 skrotning/70,73,7,976
 skrotbil/70,73,7,976
-skrot/737,70,941,947
+skrot/737,70,976,941,947
 skroget/70,1062
 skrog/70,252,10,976
 skrivning/70,73,7,976
@@ -27087,7 +27079,7 @@ skredne
 skrednes
 skrid
 skravere/6,143,148
-skravering/70,73,7,976
+skravering/70,73,7,976,939,947
 skravl/70,252,10,976
 skred/70,254,976
 skribent/70,73,7,976
@@ -27148,7 +27140,7 @@ skral
 skraldlatter/193,70,976
 skraldergrine/6,143,148
 skraldesæk/70,133,976
-skraldgas/737,70,941,947
+skraldgas/737,70,976,941,947
 skraldgrine/6,143,148
 skraldemand/70,976
 skraldemands/976
@@ -27436,7 +27428,7 @@ skok/70,133,976
 skokkevis
 
 skolar/70,73,7,976
-skolastik/737,70
+skolastik/737,70,976
 skolastisk/917,976
 skolde/6,143,148
 skoggerle
@@ -27634,7 +27626,7 @@ skinbarlig
 
 skinbarlig/207,70,366,976
 skimte/6,143,148
-skin/70,736,941,947
+skin/70,736,976,941,947
 skinangreb/70,252,10,976
 skimt/70,252,10,976
 skimming/70,976
@@ -27883,7 +27875,7 @@ skide/190,976
 skide/976
 skides
 skibsværftsindustri/70,73,7,976
-skibsøl/70,736
+skibsøl/70,736,976
 skibukser/70,976
 skibuksers/976
 skibukserne/976
@@ -27895,7 +27887,7 @@ skibsvirksomhed/70,73,7,976
 skibsulykke/70,73,7,976
 skibstømrer/20,7,70,976
 skibstype/70,73,7,976
-skibstrafik/737,70
+skibstrafik/737,70,976
 skibssætning/70,73,7,976
 skibssmed/20,7,70,976
 skibsskrue/70,73,7,976
@@ -28001,7 +27993,7 @@ skibbrudnestes/976
 skibbrudent
 skematisere/6,143,148
 skematisk/917,976
-skepsis/737,70
+skepsis/737,70,976
 skepticisme/193,70,976
 skemalægge
 skemalægger
@@ -28356,7 +28348,7 @@ skammekrog/20,7,70,976
 skamløs/70,962,366
 skamfuldhed/193,70,976
 skamfuld/70,962,366
-skam/737,70,941,947
+skam/737,70,976,941,947
 skam
 
 skam
@@ -28405,7 +28397,7 @@ skaldethed/193,70,976
 skaldepande/70,73,7,976
 skaldet/70,1062
 skalar/70,73,7,976
-skalaløn/737,70
+skalaløn/737,70,976
 skala/70,73,7,976,941,947
 skal/46,70,976,941,947
 skakur/10,70,20,976
@@ -28413,7 +28405,7 @@ Skagen/55
 Skagen/190,976
 Skagensmaler/20,7,70,976
 skagle/70,73,7,976
-skak/737,70,941,947
+skak/737,70,976,941,947
 skakbrik/46,70,976
 skakbræt/70,9,976
 skakke
@@ -28717,7 +28709,7 @@ sjap
 sjappet/70,1062
 sjal/70,10,73,976
 sjalskrave/70,73,7,976
-sjap/70,736
+sjap/70,736,976
 sjakre/6,143,148
 sjagger/20,7,70,976
 sjak/70,254,976,941,947
@@ -28913,7 +28905,7 @@ silikat/70,10,73,976
 siliciumkarbid/193,70,976
 silhouetklip/70,254,976
 silhuet/46,70,976
-silicium/70,736,941,947
+silicium/70,736,976,941,947
 silhouet/46,70,976
 silentium
 silen/70,73,7,976
@@ -29172,7 +29164,7 @@ sidenhen
 
 siden
 
-siden/944,946
+siden
 siden
 sidemand/70,976
 sidemands/976
@@ -29315,7 +29307,7 @@ shetlandspony/70,73,7,976
 shiamuslim/46,70,976
 shamanisme/193,70,976
 shaman/70,73,7,976
-shag/737,70,941,947
+shag/737,70,976,941,947
 shagpibe/70,73,7,976
 shah/70,73,7,976
 shaker/20,7,70,976
@@ -29360,7 +29352,7 @@ sexglad/976
 sexglads/976
 sexglade/976
 sexglades
-sevenbom/737,70
+sevenbom/737,70,976
 Sevilla/55
 seværdig/207,70,366,976
 seværdighed/70,73,7,976
@@ -29383,7 +29375,7 @@ set/70,1062
 set/70,252,10,976
 session/70,73,7,976
 sesam
-sesam/737,70,941,947
+sesam/737,70,976,941,947
 sesambolle/70,73,7,976
 ses
 sås
@@ -29610,7 +29602,7 @@ sensationslystneste/976
 sensationslystnestes/976
 sensationslystent
 sensation/70,73,7,976,939,947
-senromantik/737,70
+senromantik/737,70,976
 senromantisk/917,976
 senromersk/976
 senromersks/976
@@ -29960,7 +29952,7 @@ selvbudent
 selvbruner/20,7,70,976
 selvbeskyttende/916,976
 selvbestaltet/70,1062
-selvbestemmelsesret/737,70
+selvbestemmelsesret/737,70,976
 selvbestøvende/916,976
 selvbetjeningsbutik/46,70,976
 selvbevidst/976
@@ -30248,7 +30240,7 @@ segmentere/6,143,148
 segne/6,143,148
 segl/20,7,70,976
 seerinteresse/70,73,7,976
-seedning/70,73,7,976
+seedning/70,73,7,976,939,947
 seende/916,976
 seer/20,7,70,976,941,947
 seede/6,143,148
@@ -30309,7 +30301,7 @@ scoop/70,252,10,976
 scooter/20,7,70,976
 scooterstøvle/70,73,7,976
 score/6,143,148
-score/70,73,7,976
+score/70,73,7,976,941,947
 scientologi/70,10,73,976
 scientolog/20,7,70,976
 scientist/70,73,7,976
@@ -30768,7 +30760,7 @@ sangcyklerne/976
 sangcykluserne/976
 sa
 saneringsplan/70,73,7,976
-sang/20,7,70,976
+sang/20,7,70,976,941,947
 sangaften/70,976
 sangaftens/976
 sangaftenen/976
@@ -31632,7 +31624,7 @@ samle/6,143,148,941,947
 samkøring/70,73,7,976
 samkøre/140,143,148
 samkvemsret/193,70,976
-samkvem/70,736,939,947
+samkvem/70,736,976,939,947
 samhørende/916,976
 samhørig/207,70,366,976
 samhørighed/193,70,976
@@ -31645,7 +31637,7 @@ samhøre/140,143,148
 samhandlen/190,976
 samhandelspartner/20,7,70,976
 samgift/70,962,366
-samhandel/70,976
+samhandel/70,976,939,947
 samhandels/976
 samhandelen/976
 samhandlen/976
@@ -31963,7 +31955,7 @@ salmonella/190,976,941,947
 salmonellabakterie/70,73,7,976
 salmist/70,73,7,976
 salmiakpastil/46,70,976
-salmiak/737,70,941,947
+salmiak/737,70,976,941,947
 salmedigter/20,7,70,976
 salmebog/70,976
 salmebogs/976
@@ -31998,7 +31990,7 @@ salgbar/70,962,366
 salgbarhed/193,70,976
 salgsfremmende/916,976
 salg/70,252,10,976,939,947
-salep/737,70
+salep/737,70,976
 saldokvittering/70,73,7,976
 saldobalance/70,73,7,976
 saldo/70,976
@@ -32365,7 +32357,7 @@ sabbathvilen/976
 sabbatshvilen/976
 sabbathvilens/976
 sabbatshvilens
-sabbat/46,70,976
+sabbat/46,70,976,941,947
 s/402
 råvildt/194,70,976
 råsylte/6,143,148
@@ -32425,7 +32417,7 @@ rågummisål/70,73,7,976
 råhed/70,73,7,976
 råhus/10,70,20,976
 råge/70,73,7,976
-råglas/70,736
+råglas/70,736,976
 råfilm/70,7,252,976
 råfrugt/193,70,976
 råfryse
@@ -32520,11 +32512,11 @@ rådgivnes
 rådgiv
 rådføre/140,143,148
 rådelig/207,70,366,976
-råderet/737,70
+råderet/737,70,976
 råde/6,143,148,941,947
 råddenskab/193,70,976
 råd/70,252,10,976,939,947
-råd/70,736,941,947
+råd/70,736,976,941,947
 rådden/976
 råddens/976
 råddents/976
@@ -32603,7 +32595,7 @@ røvbaldernes/976
 røvballernes
 røsti/70,7,252,976
 røst/70,10,73,976
-røræg/737,70
+røræg/737,70,976
 røse/70,73,7,976
 røst/70,73,7,976
 rørtang/70,976
@@ -33044,7 +33036,7 @@ ræb/70,252,10,976
 ræbe/6,143,148
 ræd/1106,70,366
 rytter/20,7,70,976,941,947
-rytmik/737,70
+rytmik/737,70,976
 rytmisk/917,976
 rytme/70,73,7,976
 rytme/6,143,148,941,947
@@ -33188,7 +33180,7 @@ røgnes
 ryg
 rygben/70,252,10,976
 ryg/70,133,976
-rydning/70,73,7,976
+rydning/70,73,7,976,939,947
 ryddelig/207,70,366,976
 ry/194,70,976
 rya/70,73,7,976
@@ -33364,7 +33356,7 @@ rundviser/20,7,70,976
 rundvisning/70,73,7,976
 rundtur/20,7,70,976
 rundstykke/70,10,73,976
-rundt/944,946
+rundt
 rundt
 
 rundtakket/70,1062
@@ -33550,7 +33542,7 @@ rulning/70,73,7,976
 rum/70,254,976,941,947
 ruinere/6,143,148
 ruineret/70,1062
-rulam/737,70,939,947
+rulam/737,70,976,939,947
 rulamspels/20,7,70,976
 rulle/70,73,7,976
 rulle/941,947
@@ -33619,7 +33611,7 @@ rubricere/6,143,148
 rubinrød/70,962,366
 rubinfarvet/70,1062
 rubin/70,73,7,976
-rubidium/70,736
+rubidium/70,736,976
 rubel/70,976
 rubels/976
 rublen/976
@@ -33752,7 +33744,7 @@ roseernes/976
 roséernes
 rosastege/140,143,148
 ros/193,70,976
-ros/70,736
+ros/70,736,976
 rosa/976
 rosas
 rosafarvet/70,1062
@@ -33805,7 +33797,7 @@ romanist/70,73,7,976
 romani/190,976
 rollmops/70,7,252,976
 roll-on/70,73,7,976
-rom/737,70,941,947
+rom/737,70,976,941,947
 roman/70,73,7,976,941,947
 romance/70,73,7,976
 romancyklus/70,976
@@ -34492,7 +34484,7 @@ revy/70,73,7,976,941,947
 revurdering/70,73,7,976
 revurdere/6,143,148
 revser/20,7,70,976
-revselsesret/737,70
+revselsesret/737,70,976
 revselse/70,73,7,976
 revse/6,143,148
 revolutionere/6,143,148
@@ -34500,7 +34492,7 @@ revolutions-/942,946
 revolutionskomité/70,73,7,976
 revolutionær/70,962,366
 revolver/20,7,70,976,941,947
-revolverjournalistik/737,70
+revolverjournalistik/737,70,976
 revolvermand/70,976
 revolvermands/976
 revolvermanden/976
@@ -34912,7 +34904,7 @@ retfærdiggjorts
 retfærdiggjorte
 retfærdiggjortes
 retfærdiggør
-ret/193,70,976
+ret/737,70,976,939,947
 retardation/70,73,7,976
 retardere/6,143,148
 retarderet/70,1062
@@ -34921,15 +34913,7 @@ resumere/6,143,148
 ret/207,70,366,976
 ret
 
-ret/70,976
-rets/976
-'retten/976
-retten/976
-rettens/976
-retter/976
-retters/976
-retterne/976
-retternes
+ret/46,70,976,939,947
 resultatsøgende/70,73,7,976
 resultere/6,143,148
 resume/70,976
@@ -35326,7 +35310,7 @@ rentegne/6,143,148
 rentefrihed/70,73,7,976
 rentefri/70,962,366
 rentefradrag/70,252,10,976
-rentefradragsret/737,70
+rentefradragsret/737,70,976
 rentefod/70,976
 rentefods/976
 rentefoden/976
@@ -35740,7 +35724,7 @@ rekonvalescenthjem/70,254,976
 rekonvalescent/70,73,7,976
 rekombination/70,73,7,976
 rekombinere/6,143,148
-rekommandation/70,73,7,976
+rekommandation/70,73,7,976,939,947
 rekommandere/6,143,148
 rekommandør/70,73,7,976
 rekommendation/193,70,976
@@ -35791,7 +35775,7 @@ reklamefolks/976
 reklamefolkene/976
 reklamefolkenes
 reklame/70,73,7,976,941,947
-reklamationsret/737,70
+reklamationsret/737,70,976
 reklamation/70,73,7,976
 rekapitulere/6,143,148
 rekapitulation/70,73,7,976
@@ -36132,8 +36116,8 @@ regionalisme/70,73,7,976
 regi/193,70,976,941,947
 regibemærkning/70,73,7,976
 regie/193,70,976
-reggaemusik/737,70
-reggae/193,70,976
+reggaemusik/737,70,976
+reggae/193,70,976,941,947
 regeringsår/70,252,10,976
 regeringsvenlig/207,70,366,976
 regeringstropper/70,976
@@ -36702,7 +36686,7 @@ rapseri/70,10,73,976
 rapse/6,143,148
 rapsanger/20,7,70,976
 raps/193,70,976,941,947
-rapport/70,73,7,976
+rapport/70,73,7,976,941,947
 rapporte/6,143,148,941,947
 rapportere/6,143,148
 rapportskrivning/70,73,7,976
@@ -36718,7 +36702,7 @@ rappets
 rappede
 rappedes
 rap
-rapmusik/737,70
+rapmusik/737,70,976
 rapmundet/70,1062
 rapkæftet/70,1062
 rapiditet/70,73,7,976
@@ -36878,7 +36862,7 @@ rakkeri/70,10,73,976
 rakle/70,73,7,976
 raklebærende/916,976
 raku/190,976
-ral/737,70,941,947
+ral/737,70,976,941,947
 rakker/20,7,70,976,941,947
 rakke
 rakker
@@ -36890,21 +36874,21 @@ rakkets
 rakkede
 rakkedes
 rak
-rakitis/737,70
+rakitis/737,70,976
 raketangreb/70,252,10,976
 raket/46,70,976,941,947
-rak/70,736
+rak/70,736,976
 rajgræs/70,9,976
 rajah/70,73,7,976
 raillere/6,143,148
 raison/190,976
 raide/6,143,148
 raid/70,10,73,976
-ragtimemusik/737,70
+ragtimemusik/737,70,976
 ragtime/193,70,976
 ragsok/46,70,976
 ragout/70,73,7,976
-ragnarok/70,736
+ragnarok/70,736,976
 raglan/70,73,7,976
 rager/20,7,70,976
 ragelse/194,70,976
@@ -36962,7 +36946,7 @@ radiernes/976
 radiusernes/976
 radiussernes
 radiumstation/70,73,7,976
-radium/70,736,941,947
+radium/70,736,976,941,947
 radise/70,73,7,976
 radiostyret/70,1062
 radiostjerne/70,73,7,976
@@ -37560,7 +37544,7 @@ påbegyndelse/70,73,7,976
 påbegynde/140,143,148
 på-/942,946
 påagtet/70,1062
-på/944,946
+på
 på
 
 pøse/6,143,148
@@ -37658,7 +37642,7 @@ pyrrhussejr/20,7,70,976
 pyrolyseværk/70,10,73,976
 pyroman/70,73,7,976
 pyromani/193,70,976
-pyroteknik/737,70
+pyroteknik/737,70,976
 pyrit/193,70,976
 pyrenæisk/917,976
 pyramideformet/70,1062
@@ -37669,7 +37653,7 @@ pyntesyg/70,962,366
 pyntet/70,1062
 pyntning/70,73,7,976
 pyramidal/70,962,366
-pyramide/70,73,7,976
+pyramide/70,73,7,976,941,947
 pylremor/70,976
 pylremors/976
 pylremoren/976
@@ -38090,7 +38074,7 @@ psykoterapeut/70,73,7,976
 psykoteknisk/917,976
 psykoteknik/46,70,976
 psykosomatisk/917,976
-psykosomatik/737,70
+psykosomatik/737,70,976
 psykopatologi/70,73,7,976
 psykopatologisk/917,976
 psykose/70,73,7,976
@@ -38154,7 +38138,7 @@ psyke/6,143,148
 psyke/70,73,7,976
 psych.
 p-sprøjte/70,73,7,976
-psoriasis/737,70
+psoriasis/737,70,976
 p-skive/70,73,7,976
 pseudovidenskabelig/207,70,366,976
 pseudovidenskab/70,73,7,976
@@ -38619,7 +38603,7 @@ prosadigt/10,70,20,976
 prosa/193,70,976,941,947
 prorektor/70,73,7,976
 propædeutisk/917,976
-propædeutik/737,70
+propædeutik/737,70,976
 propylalkohol/70,73,7,976
 propyl/193,70,976
 proptrækkerkrølle/70,73,7,976
@@ -38653,7 +38637,7 @@ proportion/70,73,7,976,939,947
 proportional/70,73,7,976
 proportional/70,962,366
 proponere/6,143,148
-propolis/737,70
+propolis/737,70,976
 propmæt/207,70,366,976
 propfyldt/976
 propfyldts/976
@@ -39438,7 +39422,7 @@ pragmatisk/917,976
 p-plads/70,73,7,976
 PR/190,976
 PR-afdeling/70,73,7,976
-pragmatik/737,70
+pragmatik/737,70,976
 pragmatiker/20,7,70,976
 Povl/55
 p-pille/70,73,7,976
@@ -39724,7 +39708,7 @@ porcelænsblomst/70,73,7,976
 porcelæn/70,10,73,976,939,947
 populærvidenskabelig/207,70,366,976
 populærvidenskab/70,73,7,976
-populærmusik/737,70
+populærmusik/737,70,976
 populær/70,962,366,941,947
 populistisk/917,976
 populist/70,73,7,976
@@ -39772,13 +39756,13 @@ popbranche/70,73,7,976
 pony/70,73,7,976
 ponyridning/193,70,976
 pool/70,73,7,976
-pop/737,70,941,947
+pop/737,70,976,941,947
 pop-/942,946
 pontonbro/70,73,7,976
 Pontius/55
 ponton/70,73,7,976
 poncho/70,73,7,976
-pondus/737,70
+pondus/737,70,976
 pontifex/70,976
 pontifex's/976
 pontifex'/976
@@ -39842,7 +39826,7 @@ polytekniker/20,7,70,976
 polyteistisk/917,976
 polystyren/194,70,976
 polyteisme/193,70,976
-polyrytmik/737,70
+polyrytmik/737,70,976
 polypdyr/70,252,10,976
 polypropylen/193,70,976
 polyp/46,70,976
@@ -40085,7 +40069,7 @@ pointeløs/70,962,366
 pointe/70,73,7,976,941,947
 pog/20,7,70,976,941,947
 pogeskole/70,73,7,976
-point/70,252,10,976
+point/70,252,10,976,941,947
 pointbesejre/6,143,148
 poetisk/917,976
 poetisering/70,73,7,976
@@ -40113,7 +40097,7 @@ podiernes
 pode/6,143,148
 podagra/193,70,976
 pode/70,73,7,976,941,947
-pneumatik/737,70
+pneumatik/737,70,976
 pneumatisk/917,976
 poche/70,73,7,976
 pochere/6,143,148
@@ -40163,7 +40147,7 @@ plyndringstogt/70,10,73,976
 plys/70,9,976,941,947
 plyndring/70,73,7,976
 plyndrer/20,7,70,976
-plutonium/70,736,941,947
+plutonium/70,736,976,941,947
 plyndre/6,143,148
 plutokrat/70,73,7,976
 plusse
@@ -40307,7 +40291,7 @@ pligte/6,143,148
 pligtig/207,70,366,976
 plidderpladder/194,70,976
 pli/193,70,976
-plexiglas/70,736,941,947
+plexiglas/70,736,976,941,947
 pletvis
 
 pletvis/70,962,366
@@ -40326,7 +40310,7 @@ plettedes
 plet
 pletså/6,143,148
 pletfri/70,962,366
-plet/70,736
+plet/70,736,976
 plet/46,70,976,941,947
 pleonasme/70,73,7,976
 plenummøde/70,10,73,976
@@ -40771,7 +40755,7 @@ pjattegæs's/976
 pjattegæses/976
 pjatgæssene/976
 pjattegæssen
-pjat/70,736,941,947
+pjat/70,736,976,941,947
 pjaskvåd/70,962,366
 pjaske/6,143,148
 pjask/70,252,10,976,941,947
@@ -40871,7 +40855,7 @@ piske/6,143,148,941,947
 pisk/20,7,70,976,940,947
 pisk/70,252,10,976
 pisang/70,73,7,976
-pis/70,736
+pis/70,736,976
 piruettere/6,143,148
 piruette/70,73,7,976
 pirre
@@ -41105,7 +41089,7 @@ pilblad/70,7,252,976
 pile/6,143,148,941,947
 pileborer/20,7,70,976
 piktogram/70,9,976
-pil/20,7,70,976,940,947
+pil/20,7,70,976,941,947
 pilar/70,73,7,976
 pikofarad/70,976
 pikofarads/976
@@ -41340,7 +41324,7 @@ petroleumsblå/976
 petroleumsblåts/976
 petroleumsblås/976
 petroleumsblåt
-petroleum/737,70,939,947
+petroleum/737,70,976,939,947
 petrokemisk/917,976
 petrolblå/976
 petrolblåts/976
@@ -41439,7 +41423,7 @@ personificering/70,73,7,976
 personificere/6,143,148
 personfikseret/70,1062
 personel/1106,70,366
-personel/70,736,941,947
+personel/70,736,976,941,947
 personcentreret/70,1062
 personalunion/70,73,7,976
 personalisme/193,70,976
@@ -41473,7 +41457,7 @@ person/70,73,7,976,941,947
 persning/70,73,7,976
 persisk/917,976
 persisk/190,976
-persillesmør/70,736
+persillesmør/70,736,976
 persillerod/70,976
 persilleroden/976
 persillerodens/976
@@ -41545,7 +41529,7 @@ perkussion/70,73,7,976
 perkussionist/70,73,7,976
 peristyl/70,10,73,976
 peristaltisk/917,976
-peristaltik/737,70
+peristaltik/737,70,976
 periskop/70,10,73,976
 periodisering/70,73,7,976
 periodisk/917,976
@@ -41633,7 +41617,7 @@ perfektion/70,73,7,976,941,947
 perfektionere/6,143,148
 perfektibilitet/193,70,976
 Per/55
-per/944,946
+per
 per-/942,946
 perception/70,73,7,976
 perch/193,70,976
@@ -41644,7 +41628,7 @@ perfekts/976
 perfekte/976
 perfektes
 pepsin/194,70,976
-pep/70,736,941,947
+pep/70,736,976,941,947
 pepitaternet/70,1062
 peppe
 pepper
@@ -41893,7 +41877,7 @@ penges/976
 pengene/976
 pengenes
 Penelope/55
-pendultrafik/737,70
+pendultrafik/737,70,976
 pendulfart/70,73,7,976
 pendulering/70,73,7,976
 pendulere/6,143,148
@@ -41907,7 +41891,7 @@ pelsklædts/976
 pelsklædte/976
 pelsklædtes
 pemmikan/194,70,976
-pen/70,133,976
+pen/70,133,976,449,947
 penalhus/70,976
 pennalhus/976
 penalhus'/976
@@ -42149,7 +42133,7 @@ patriarkalskes
 patriark/70,73,7,976
 patologi/70,73,7,976
 patologisk/917,976
-patos/737,70
+patos/737,70,976
 patolog/70,73,7,976
 patogen/70,962,366
 patogenese/193,70,976
@@ -42205,7 +42189,7 @@ patentanmeldts/976
 patentanmeldte/976
 patentanmeldtes
 patent-/942,946
-patent/70,10,73,976
+patent/70,10,73,976,941,947
 pat/190,976
 patchouli/70,73,7,976
 patchwork/70,252,10,976
@@ -42936,7 +42920,7 @@ panikkede
 panikkedes
 panik
 panikalder/70,7,252,976
-panik/737,70,941,947
+panik/737,70,976,941,947
 panfløjte/70,73,7,976
 pangfarve/70,73,7,976
 panhellensk/976
@@ -43016,7 +43000,7 @@ pallede
 palledes
 pal
 Pallas/55
-palladium/70,736,941,947
+palladium/70,736,976,941,947
 palisander/193,70,976
 palisade/70,73,7,976
 palindrom/70,10,73,976
@@ -43089,7 +43073,7 @@ pajerne/976
 pierne/976
 pajernes/976
 piernes
-pak/70,736,941,947
+pak/70,736,976,941,947
 paket/46,70,976,941,947
 pakis/193,70,976
 paginering/70,73,7,976
@@ -43348,7 +43332,7 @@ overtrådts
 overtrådte
 overtrådtes
 overtræd
-overtryk/70,736,939,947
+overtryk/70,736,976,939,947
 overtrumfe/6,143,148
 overtroisk/917,976
 overtoning/70,73,7,976
@@ -44563,7 +44547,7 @@ over-/942,946
 overadministration/70,73,7,976
 over/941,947
 
-over/944,946
+over
 over/20,7,70,976
 ovenud
 
@@ -44587,14 +44571,14 @@ ovenfor
 
 ovenfra
 
-oveni/944,946
+oveni
 oveni
 
 ovenlys/194,70,976
 ovenlysvindue/70,10,73,976
 oven
 
-oven/944,946
+oven
 ovation/70,73,7,976
 ovarie/70,976
 ovarium/976
@@ -44701,7 +44685,7 @@ ose/6,143,148
 oser/20,7,70,976
 osman/46,70,976
 osmannisk/917,976
-osmium/70,736,941,947
+osmium/70,736,976,941,947
 oscillation/70,73,7,976
 Oscar/70,7,252,976
 os/193,70,976
@@ -44722,7 +44706,7 @@ ornere/6,143,148
 ornitolog/70,73,7,976
 ornat/70,10,73,976
 orne/70,73,7,976
-ornamentik/737,70
+ornamentik/737,70,976
 ornamentering/70,73,7,976
 ornamenteret/70,1062
 ornament/70,10,73,976
@@ -44757,7 +44741,7 @@ ormemidlernes
 orme/6,143,148,941,947
 orm/20,7,70,976,940,947
 orlovsordning/70,73,7,976
-orlov/70,73,7,976
+orlov/70,73,7,976,939,947
 orlogsmuseum/70,976
 orlogsmuseums/976
 orlogsmuseet/976
@@ -44838,7 +44822,7 @@ orgie/70,10,73,976
 orgle/6,143,148
 orgelpunkt/70,10,73,976
 orgelpibe/70,73,7,976
-orgelmusik/737,70
+orgelmusik/737,70,976
 orgelkoral/70,73,7,976
 orgelbænk/20,7,70,976
 orgelbyggeri/70,10,73,976
@@ -45307,7 +45291,7 @@ optimering/70,73,7,976,939,947
 optimere/6,143,148
 optimal/70,962,366
 optere/6,143,148
-optik/737,70
+optik/737,70,976
 optiker/20,7,70,976
 optegning/70,73,7,976
 optegnelse/70,73,7,976
@@ -45505,7 +45489,7 @@ opspændte/976
 opspændtes
 opspænding/70,73,7,976
 opspænde/140,143,148
-opspyt/70,736
+opspyt/70,736,976
 opsprætte
 opsprætter
 opsprættes
@@ -45532,7 +45516,7 @@ opsplit
 opsplitning/70,73,7,976
 opspind/70,252,10,976
 opspilet/70,1062
-opspil/70,736
+opspil/70,736,976
 opsparingssamfund/70,252,10,976
 opsparingskvote/70,73,7,976
 opsparingskonto/70,976
@@ -45767,7 +45751,7 @@ oprykkedes
 opryk
 oprydningsarbejde/70,10,73,976
 oprydning/70,73,7,976,939,947
-oprustningsvanvid/70,736
+oprustningsvanvid/70,736,976
 oprulning/70,73,7,976
 oprunde/6,143,148
 opruste/6,143,148
@@ -46104,7 +46088,7 @@ opkørtes
 opkøre/140,143,148
 opkøber/20,7,70,976
 opkøbe/140,143,148
-opkøb/70,252,10,976
+opkøb/70,252,10,976,939,947
 opkvikker/20,7,70,976
 opkvikkende/916,976
 opkvalificering/70,73,7,976
@@ -46738,7 +46722,7 @@ opadvendte/976
 opadvendtes
 opak/207,70,366,976
 opal/70,73,7,976
-opalglas/70,736
+opalglas/70,736,976
 opadgående/916,976
 opadgående/190,976
 opadbøjet/70,1062
@@ -47076,7 +47060,7 @@ omkringstående/916,976
 omkringsiddende/916,976
 omkringliggende/916,976
 omkringboende/916,976
-omkring/944,946
+omkring
 omkring
 
 omkredsning/70,73,7,976
@@ -47272,7 +47256,7 @@ omdele/140,143,148
 omdefinering/70,73,7,976
 omdefinere/6,143,148
 ombytning/70,73,7,976,939,947
-ombytningsret/737,70
+ombytningsret/737,70,976
 ombytte
 ombytter
 ombyttes
@@ -47402,7 +47386,7 @@ omadressere/6,143,148
 om-/942,946
 olympier/20,7,70,976
 olympisk/917,976
-om/944,946
+om
 om
 
 om
@@ -47561,7 +47545,7 @@ ohms
 ohmmeter/70,252,10,976
 oho
 ohøj
-oilskin/70,736,939,947
+oilskin/70,736,976,939,947
 og
 
 oftalmolog/70,73,7,976
@@ -47577,7 +47561,7 @@ offsides
 offside/190,976
 offshore/190,976
 offsettryk/70,254,976
-offset/737,70
+offset/737,70,976
 offpist/70,73,7,976
 offline
 
@@ -47735,7 +47719,7 @@ obstruere/6,143,148
 obstruktion/70,73,7,976
 obstetrisk/917,976
 obstetriker/20,7,70,976
-obstetrik/737,70
+obstetrik/737,70,976
 obsternasig/207,70,366,976
 obskønitet/70,73,7,976
 obskøn/70,962,366
@@ -47960,7 +47944,7 @@ nødsender/20,7,70,976
 nødsfald/70,252,10,976
 nødsignal/70,10,73,976
 nødretstilstand/20,7,70,976
-nødret/737,70,939,947
+nødret/737,70,976,939,947
 nødration/70,73,7,976
 nødraket/46,70,976
 nødplan/70,73,7,976
@@ -48116,7 +48100,7 @@ næstbedst/976
 næstbedsts/976
 næstbedste/976
 næstbedstes
-næst/944,946
+næst
 næsegrus/70,962,366
 næsegrus
 
@@ -48132,7 +48116,7 @@ næseben/70,252,10,976
 næs/70,254,976
 nærværende/916,976
 nærværelse/193,70,976
-nærtrafik/737,70
+nærtrafik/737,70,976
 nærved
 
 nærvær/194,70,976,939,947
@@ -48171,7 +48155,7 @@ nærmiljø/70,10,73,976
 nærmestliggende/916,976
 nærmest
 
-nærmest/944,946
+nærmest
 nærmere
 
 næringsmiddelindustri/70,73,7,976
@@ -48215,7 +48199,7 @@ nærdemokratisk/917,976
 nærdemokrati/70,10,73,976
 nærbutik/46,70,976
 nærbillede/70,10,73,976
-nær/944,946
+nær
 nær/207,70,366,976
 nær-/942,946
 nærbeslægtet/976
@@ -48565,7 +48549,7 @@ nys
 nys/70,252,10,976
 nys
 nyromantisk/917,976
-nyromantik/737,70
+nyromantik/737,70,976
 nyrock/193,70,976
 nyrig/70,962,366
 nyrevideret/70,1062
@@ -49017,7 +49001,7 @@ nummermændene/976
 nummermændenes
 nummerering/70,73,7,976,939,947
 nummerere/6,143,148
-nummer/70,976
+nummer/70,976,941,947
 nummers/976
 nummeret/976
 numret/976
@@ -49450,7 +49434,7 @@ noder/70,976
 noders/976
 noderne/976
 nodernes
-nobelium/70,736
+nobelium/70,736,976
 nobelpris/70,73,7,976
 nobelpristager/20,7,70,976
 nobilitet/70,73,7,976
@@ -49520,7 +49504,7 @@ nitid/70,73,7,976
 niti/70
 nital/70,9,976
 nistret/70,1062
-nisseøl/70,736
+nisseøl/70,736,976
 nissefar/70,976
 nissefars/976
 nissefaren/976
@@ -49572,7 +49556,7 @@ niogtres/70
 niogtyve/70
 nimbus/46,70,976
 Nimrod/55
-niobium/70,736
+niobium/70,736,976
 nikotinfri/70,962,366
 nikotingul/70,962,366
 niks
@@ -49625,7 +49609,7 @@ niece/70,73,7,976
 nidkærhed/193,70,976
 nidkær/70,962,366
 nidding/70,73,7,976
-nid/70,736,941,947
+nid/70,736,976,941,947
 Nicæa/55
 nicheproduktion/70,73,7,976
 niche/70,73,7,976
@@ -49812,7 +49796,7 @@ neriers/976
 nerierne/976
 neriernes
 nereide/70,73,7,976
-neptunium/70,736
+neptunium/70,736,976
 nepotisme/193,70,976
 Neptun/55
 nepalesisk/917,976
@@ -50433,7 +50417,7 @@ nederlag/70,252,10,976
 nedenom
 
 nedenstående/916,976
-nedenunder/944,946
+nedenunder
 nedenunder
 
 nederdel/20,7,70,976
@@ -50492,28 +50476,13 @@ nedadgående/916,976
 nedadbøjet/70,1062
 nedad
 
-nedad/944,946
+nedad
 ned-/942,946
 ned
 
 ned/70,10,73,976,941,947
 neanderthaler/20,7,70,976
-nebengeschæft/70,976
-nebengesjæft/976
-nebengeschæfts/976
-nebengesjæfts/976
-nebengeschæften/976
-nebengesjæften/976
-nebengeschæftens/976
-nebengesjæftens/976
-nebengeschæfter/976
-nebengesjæfter/976
-nebengeschæfters/976
-nebengesjæfters/976
-nebengeschæfterne/976
-nebengesjæfterne/976
-nebengeschæfternes/976
-ne
+nebengeschæft/70,73,7,976
 neandertaler/20,7,70,976
 NB
 nazisme/193,70,976
@@ -50776,12 +50745,12 @@ naturlægemidler/976
 naturlægemidlers/976
 naturlægemidlerne/976
 naturlægemidlernes
-naturlyrik/737,70
+naturlyrik/737,70,976
 naturlov/20,7,70,976
 naturlighed/193,70,976
 naturlig/207,70,366,976
 naturkundskab/70,73,7,976
-naturkrøl/70,736
+naturkrøl/70,736,976
 naturkraft/70,976
 naturkrafts/976
 naturkraften/976
@@ -50790,7 +50759,7 @@ naturkræfter/976
 naturkræfters/976
 naturkræfterne/976
 naturkræfternes
-naturkosmetik/737,70
+naturkosmetik/737,70,976
 naturklagenævn/70,252,10,976
 naturkamp/20,7,70,976
 naturkatastrofe/70,73,7,976
@@ -50960,7 +50929,7 @@ natronlud/193,70,976
 natravn/20,7,70,976
 natrenovation/70,73,7,976
 natrestaurant/70,73,7,976
-natrium/70,736,941,947
+natrium/70,736,976,941,947
 natriumbenzoat/194,70,976
 natron/193,70,976
 natradio/70,73,7,976
@@ -50970,7 +50939,7 @@ natophold/70,252,10,976
 natoland/10,70,20,976
 Nato/55
 natmandsfolk/70,252,10,976
-natmusik/737,70
+natmusik/737,70,976
 natmørk/70,962,366
 natlys/70,7,252,976
 natlæge/70,73,7,976
@@ -51015,7 +50984,7 @@ nationalsocialistisk/917,976
 nationalsocialisme/193,70,976
 nationalromantisk/917,976
 nationalscene/70,73,7,976
-nationalromantik/737,70
+nationalromantik/737,70,976
 nationalregnskab/70,10,73,976
 nationalprodukt/70,10,73,976
 nationalpolitisk/917,976
@@ -51412,7 +51381,7 @@ månesonde/70,73,7,976
 måneskulpe/70,73,7,976
 måneskive/70,73,7,976
 måneskinsarbejde/70,10,73,976
-måneskin/70,736,939,947
+måneskin/70,736,976,939,947
 månerejse/70,73,7,976
 månesegl/20,7,70,976
 måneraket/46,70,976
@@ -51990,7 +51959,7 @@ mytedannelse/70,73,7,976
 mytisk/917,976
 mytolog/70,73,7,976
 mystiker/20,7,70,976
-mystik/737,70
+mystik/737,70,976
 mystifistisk/917,976
 mysteriøs/70,962,366
 mysticisme/193,70,976
@@ -52239,7 +52208,7 @@ musikaftnernes
 museumsskib/10,70,20,976
 musical/70,73,7,976
 musicere/6,143,148
-musik/737,70,941,947
+musik/737,70,976,941,947
 museumsmand/70,976
 museumsmands/976
 museumsmanden/976
@@ -52567,7 +52536,7 @@ mugneste/976
 mugnestes/976
 muggent
 mugge/70,73,7,976
-mug/737,70,941,947
+mug/737,70,976,941,947
 mugdannelse/70,73,7,976
 muge/6,143,148
 mufti/70,73,7,976
@@ -52613,7 +52582,7 @@ motorkræfters/976
 motorkræfterne/976
 motorkræfternes
 motorisering/70,73,7,976
-motorik/737,70
+motorik/737,70,976
 motorisere/6,143,148
 motorcykelbande/70,73,7,976
 motorcykelbetjent/20,7,70,976
@@ -52661,7 +52630,7 @@ motionsrum/70,254,976
 motionsprogram/70,9,976
 motionsklub/46,70,976
 motionshold/70,252,10,976
-motionsgymnastik/737,70
+motionsgymnastik/737,70,976
 motionscykel/70,976
 motionscykels/976
 motionscykelen/976
@@ -52680,11 +52649,11 @@ motet/46,70,976
 mosteri/70,10,73,976
 motel/70,9,976
 most/70,73,7,976
-moster/70,7,252,976
+moster/70,85,7,976
 Mossø/55
 mosle/6,143,148
 moskusokse/70,73,7,976
-moskus/737,70,941,947
+moskus/737,70,976,941,947
 moskovitisk/917,976
 moskovit/46,70,976
 moskitonet/70,254,976
@@ -52856,7 +52825,7 @@ morgenpost/193,70,976
 morgennisse/70,73,7,976
 morgenmåltid/70,10,73,976
 morgenmøde/70,10,73,976
-morgenmusik/737,70
+morgenmusik/737,70,976
 morgenmenneske/70,10,73,976
 morgenmand/70,976
 morgenmands/976
@@ -52888,7 +52857,7 @@ morgenhimle/976
 morgenhimles/976
 morgenhimlene/976
 morgenhimlenes
-morgengymnastik/737,70,941,947
+morgengymnastik/737,70,976,941,947
 morgenhilsen/70,976
 morgenhilsens/976
 morgenhilsnen/976
@@ -53223,7 +53192,7 @@ momse/6,143,148
 momsfri/70,962,366
 mon
 
-mon/70,736,941,947
+mon/70,736,976,941,947
 monade/70,73,7,976
 monarki/70,10,73,976
 monarkisk/917,976
@@ -53314,7 +53283,6 @@ modvægt/20,7,70,976
 modvillig/207,70,366,976
 modvilje/70,73,7,976
 modtræk/70,254,976
-modul/70,73,7,976
 modulation/70,73,7,976
 modulator/70,73,7,976
 modulere/6,143,148
@@ -53675,7 +53643,7 @@ mocambiquerne/976
 mozambiquerne/976
 mocambiquernes/976
 mozambiquernes
-mod/944,946
+mod
 mobilkran/70,73,7,976
 mobilnet/70,254,976
 mobilitet/193,70,976
@@ -53785,7 +53753,7 @@ missede
 missedes
 mis
 misser/20,7,70,976
-missil/70,10,73,976
+missil/70,10,73,976,941,947
 mission/70,73,7,976,939,947
 missionere/6,143,148
 missionsk/976
@@ -53886,7 +53854,7 @@ minør/70,73,7,976
 minuttal/70,254,976
 minutlang/70,962,366
 minutiøs/70,962,366
-minut/70,9,976
+minut/70,9,976,941,947
 minusgrad/70,73,7,976
 minuskel/70,976
 minuskels/976
@@ -53985,7 +53953,7 @@ minimallønsområde/70,10,73,976
 minimalt
 
 minimarked/70,10,73,976
-minimalløn/737,70,939,947
+minimalløn/737,70,976,939,947
 minimalistisk/917,976
 minimalisme/193,70,976
 minimal/70,962,366
@@ -54029,7 +53997,7 @@ mindsterente/70,73,7,976
 mindstepris/70,73,7,976
 mindstemål/70,252,10,976
 mindstelønning/70,73,7,976
-mindsteløn/737,70,939,947
+mindsteløn/737,70,976,939,947
 mindstekrav/70,252,10,976
 mindstebetaling/70,73,7,976
 mindstebeløb/70,252,10,976
@@ -54112,7 +54080,7 @@ mimisk/917,976
 mimer/20,7,70,976
 mimetisk/917,976
 mimicry/190,976
-mimik/737,70
+mimik/737,70,976
 mimiker/20,7,70,976
 miltbrand/193,70,976
 milturt/70,73,7,976
@@ -54170,15 +54138,7 @@ milliontedelenes
 millionbøf/46,70,976
 millionby/70,73,7,976
 millionbedrageri/70,10,73,976
-million/70,976
-millions/976
-millionen/976
-millionens/976
-'millioner/976
-millioner/976
-millioners/976
-millionerne/976
-millionernes
+million/70,73,7,976,941,947
 millimeterdemokrati/70,10,73,976
 millimeter/70,7,252,976,941,947
 millibar/70,976
@@ -54532,7 +54492,7 @@ mikronesier/20,7,70,976
 mikrometer/70,7,252,976
 mikrometer/70,252,10,976
 mikroliter/70,7,252,976
-mikrokosmos/70,736
+mikrokosmos/70,736,976
 mikrokosmisk/917,976
 mikroklima/70,10,73,976
 mikrofag/70,73,7,976
@@ -54775,7 +54735,7 @@ middel-/942,946
 middagsbord/10,70,20,976
 middel/976
 middels
-middel/70,976
+middel/70,976,941,947
 middels/976
 middelet/976
 midlet/976
@@ -54938,7 +54898,7 @@ metafysisk/917,976
 metafysiker/20,7,70,976
 metafysik/46,70,976
 metaforisk/917,976
-metaforik/737,70
+metaforik/737,70,976
 metafor/70,73,7,976,941,947
 metadonbehandling/70,73,7,976
 metadon/193,70,976,941,947
@@ -55045,7 +55005,7 @@ merudgift/70,73,7,976
 merværdi/70,73,7,976
 mertze/6,143,148
 merskumspibe/70,73,7,976
-merskum/70,736,939,947
+merskum/70,736,976,939,947
 mersalg/70,252,10,976
 merproduktion/70,73,7,976
 merpris/70,73,7,976
@@ -55323,7 +55283,7 @@ menigmænds/976
 menigmændene/976
 menigmændenes
 mening/70,73,7,976,939,947
-meningitis/737,70,941,947
+meningitis/737,70,976,941,947
 meningokok/46,70,976
 menighedsarbejde/70,10,73,976
 menge/193,70,976
@@ -55387,7 +55347,7 @@ melodramaernes/976
 melodramernes
 melodiøs/70,962,366
 melodistump/70,73,7,976
-melodik/737,70
+melodik/737,70,976
 melodisk/917,976
 melodiføring/70,73,7,976
 melodi/70,73,7,976,941,947
@@ -55578,7 +55538,7 @@ mellemblåt
 mellemblond/70,962,366
 mellem/976
 mellems
-mellem/944,946
+mellem
 mellem-/942,946
 mellemakt/70,73,7,976
 mellemamerikansk/976
@@ -55586,7 +55546,7 @@ mellemamerikansks/976
 mellemamerikanske/976
 mellemamerikanskes
 melet/70,1062
-melis/737,70
+melis/737,70,976
 meleret/70,1062
 mele/6,143,148
 meldrysset/70,1062
@@ -56103,7 +56063,7 @@ medbring
 medborgerlig/207,70,366,976
 medborgerhus/10,70,20,976
 medborger/20,7,70,976,941,947
-medbestemmelsesret/737,70
+medbestemmelsesret/737,70,976
 medbestemmende/916,976
 medbestemmelse/193,70,976
 medbejler/20,7,70,976
@@ -56123,7 +56083,7 @@ medaljehøst/70,73,7,976
 medalje/70,73,7,976
 med-/942,946
 med.
-med/944,946
+med
 med
 
 med/190,976
@@ -56272,9 +56232,9 @@ matineernes/976
 matinéernes
 matjessild/70,7,252,976
 matpoleret/70,1062
-math/70,73,7,976
+math/55
 materiel/1106,70,366
-materiel/70,736,941,947
+materiel/70,736,976,941,947
 materielforvalter/20,7,70,976
 materie/70,73,7,976
 materialistisk/917,976
@@ -56405,7 +56365,7 @@ mastodontisk/917,976
 mastodont/70,73,7,976
 mastiks/193,70,976
 mastitis/193,70,976
-mastik/737,70
+mastik/737,70,976
 masterbånd/70,252,10,976
 master/20,7,70,976,466
 mast/70,73,7,976,940,947
@@ -56447,7 +56407,7 @@ massakreret/70,1062
 masse/70,73,7,976,941,947
 masse-/942,946
 massearbejdsløshed/193,70,976
-masonit/737,70
+masonit/737,70,976
 masonitplade/70,73,7,976
 massage/70,73,7,976,941,947
 massageapparat/70,10,73,976
@@ -56580,7 +56540,7 @@ maskinfolkenes
 maskinfabrikant/70,73,7,976
 maskinfabrik/46,70,976
 maskineri/70,10,73,976
-maskinel/70,736
+maskinel/70,736,976
 maskinel/1106,70,366
 maskine/6,143,148
 maskine/70,73,7,976
@@ -56717,7 +56677,7 @@ marketingfolks/976
 marketingfolkene/976
 marketingfolkenes
 marketingchef/70,73,7,976
-marketing/193,70,976
+marketing/193,70,976,941,947
 marketenderi/70,10,73,976
 marketender/20,7,70,976
 markeringsspiller/20,7,70,976
@@ -56873,7 +56833,7 @@ mariehønerne/976
 mariehønsene/976
 mariehønernes/976
 mariehønsenes
-marieglas/70,736
+marieglas/70,736,976
 maribo/193,70,976
 Mariager/55
 Mariabillede/70,10,73,976
@@ -57202,7 +57162,7 @@ mandsmod/194,70,976
 mandskabskrævende/916,976
 mandskabsrum/70,254,976
 mandskor/70,252,10,976
-mandskøn/70,736
+mandskøn/70,736,976
 mandsling/70,73,7,976
 mandslinie/70,976
 mandslinje/976
@@ -57234,7 +57194,7 @@ mandschauvinist/70,73,7,976
 mandschauvinistisk/917,976
 mandlig/207,70,366,976
 mandola/70,73,7,976
-mandkøn/70,736
+mandkøn/70,736,976
 mandighed/193,70,976
 mandjævning/70,73,7,976
 mandig/207,70,366,976
@@ -57251,7 +57211,7 @@ mandeårene/976
 mandårene/976
 mandeårenes/976
 mandårenes
-mandfolkesnak/737,70
+mandfolkesnak/737,70,976
 mandfolk/70,252,10,976
 mandetime/70,976
 mandtime/976
@@ -57302,7 +57262,7 @@ manddomskræfter/976
 manddomskræfters/976
 manddomskræfterne/976
 manddomskræfternes
-manddom/737,70,939,947
+manddom/737,70,976,939,947
 mandbar/70,962,366
 mandatar/70,73,7,976
 mandat/70,10,73,976,941,947
@@ -57532,7 +57492,7 @@ maksimal/70,962,366
 makroniveau/70,10,73,976
 makron/70,73,7,976
 makromolekyle/70,10,73,976
-makrokosmos/70,736
+makrokosmos/70,736,976
 makrofag/70,73,7,976
 makrobiotisk/917,976
 makro-/942,946
@@ -57737,15 +57697,15 @@ magnoliaerne/976
 magnolierne/976
 magnoliaernes/976
 magnoliernes
-magnium/70,736
+magnium/70,736,976
 magnetosfære/70,73,7,976
 magistratsafdeling/70,73,7,976
 magma/70,73,7,976
 magmabjergart/70,73,7,976
 magnat/70,73,7,976
 magnesia/193,70,976
-magnesit/737,70
-magnesium/70,736,941,947
+magnesit/737,70,976
+magnesium/70,736,976,941,947
 magnet/70,73,7,976,941,947
 magnetbånd/70,252,10,976
 magnetiserbar/70,962,366
@@ -58156,7 +58116,7 @@ lønkontoernes
 lønførende/916,976
 løn/70,133,976
 løn/190,976
-løn/737,70,941,947
+løn/737,70,976,941,947
 lømmelalder/193,70,976
 lømmel/70,976
 lømmels/976
@@ -59033,7 +58993,7 @@ lys/70,962,366
 lys/70,252,10,976,941,947
 lys-/942,946
 lysalf/70,73,7,976
-lyrik/737,70,941,947
+lyrik/737,70,976,941,947
 lyrehale/70,73,7,976
 lyreformet/70,1062
 lyre/70,73,7,976
@@ -59358,7 +59318,7 @@ lurblæser/20,7,70,976
 lunkenhed/193,70,976
 lunografi/70,73,7,976
 lur/193,70,976
-lupus/737,70
+lupus/737,70,976
 lupin/70,73,7,976
 luns/70,73,7,976
 lunt
@@ -59469,7 +59429,7 @@ luksusvarers/976
 luksusvarerne/976
 luksusvarernes
 luksuøs/70,962,366
-luksus/737,70,941,947
+luksus/737,70,976,941,947
 luksus-/942,946
 luksusartikel/70,976
 luksusartikels/976
@@ -59695,7 +59655,7 @@ ludospil/70,254,976
 ludkedelig/207,70,366,976
 ludo/194,70,976
 ludfattig/207,70,366,976
-luderjournalistik/737,70
+luderjournalistik/737,70,976
 luderhotel/70,9,976
 ludende/916,976
 luddoven/976
@@ -60092,11 +60052,11 @@ lokalkendt/976
 lokalkendts/976
 lokalkendte/976
 lokalkendtes
-lokalkolorit/737,70
+lokalkolorit/737,70,976
 lokalkomité/70,73,7,976
 lokalkontor/70,10,73,976
 lokalkreds/20,7,70,976
-lokalløn/737,70,939,947
+lokalløn/737,70,976,939,947
 lokalmiljø/70,10,73,976
 lokalmuseum/70,976
 lokalmuseums/976
@@ -60259,7 +60219,8 @@ lodse/6,143,148
 lodsbåd/20,7,70,976
 lods/70,73,7,976,941,947
 lodretstillet/70,1062
-lodret/207,70,366,976
+lodret/976
+lodrette
 lodning/70,73,7,976
 lodlinie/70,976
 lodlinje/976
@@ -60361,7 +60322,7 @@ livsytringernes
 livsytring/70,73,7,976
 livsvilje/70,73,7,976
 livsvilkår/70,252,10,976
-livsvisdom/737,70
+livsvisdom/737,70,976
 livsværdi/70,73,7,976
 livsværk/194,70,976
 livsvigtig/207,70,366,976
@@ -60425,7 +60386,7 @@ livsmulighed/193,70,976
 livslængde/70,73,7,976
 livsløb/70,252,10,976
 livsløgn/20,7,70,976
-livsløn/737,70
+livsløn/737,70,976
 livsmaske/70,73,7,976
 livsmiljø/70,10,73,976
 livsmod/194,70,976
@@ -60550,7 +60511,7 @@ livsbevarende/916,976
 livsblod/194,70,976
 livsalighed/193,70,976
 livsanskuelse/70,73,7,976
-livsappetit/737,70
+livsappetit/737,70,976
 livsarving/70,73,7,976
 livsbane/70,73,7,976
 livsbegær/70,252,10,976
@@ -60709,7 +60670,7 @@ lithografier/976
 litografiers/976
 litografierne/976
 litografiernes
-litium/70,736,941,947
+litium/70,736,976,941,947
 litiumbatteri/70,10,73,976
 litograf/70,73,7,976
 literflaske/70,73,7,976
@@ -60736,7 +60697,7 @@ list/193,70,976,940,947
 lispund/70,252,10,976
 lise/190,976
 lirumlarum/190,976
-lirekassemusik/737,70
+lirekassemusik/737,70,976
 lirke/6,143,148
 lirekassemand/70,976
 lirekassemands/976
@@ -60768,7 +60729,7 @@ linse/70,73,7,976,941,947
 linolsyre/193,70,976
 linolie/193,70,976
 linoleumsgulv/10,70,20,976
-linoleum/70,736,939,947
+linoleum/70,736,976,939,947
 linolensyre/70,73,7,976
 linning/70,73,7,976
 linnedskab/10,70,20,976
@@ -61183,7 +61144,7 @@ ligesindet/70,1062
 ligesidet/70,1062
 ligervis
 
-ligeret/737,70,939,947
+ligeret/737,70,976,939,947
 ligere/6,143,148
 ligeoverfor
 
@@ -61197,7 +61158,7 @@ ligemændene/976
 ligemændenes
 ligemageri/194,70,976
 ligelønslov/20,7,70,976
-ligeløn/737,70,939,947
+ligeløn/737,70,976,939,947
 ligelig/207,70,366,976
 ligelighed/193,70,976
 ligeledes
@@ -61418,7 +61379,7 @@ li/70,73,7,976
 lian/70,73,7,976
 levning/70,73,7,976
 levre/6,143,148
-levvel/70,736
+levvel/70,736,976
 lex/190,976
 levnedsmiddelområde/70,10,73,976
 levnedsmidler/70,976
@@ -62314,7 +62275,7 @@ lappedes
 lap
 lapning/70,73,7,976
 laplandsugle/70,73,7,976
-lapis/737,70
+lapis/737,70,976
 laplandsk/976
 laplandsks/976
 laplandske/976
@@ -62399,7 +62360,7 @@ langskaftet/70,1062
 langskalle/70,73,7,976
 langskallet/70,1062
 langsgående/916,976
-langs/944,946
+langs
 langs
 
 langrendsløber/20,7,70,976
@@ -63073,7 +63034,7 @@ lakplade/70,73,7,976
 lakrids/70,73,7,976,941,947
 lakridskonfekt/70,73,7,976
 lakonisk/917,976
-lakmus/737,70,941,947
+lakmus/737,70,976,941,947
 lakmuspapir/70,10,73,976
 lakfjerner/20,7,70,976
 lakforsegler/20,7,70,976
@@ -63123,7 +63084,7 @@ lagenpose/70,73,7,976
 lager/70,252,10,976,941,947
 lager/20,7,70,976
 lager-/942,946
-lagerøl/70,736
+lagerøl/70,736,976
 lagenlærred/70,10,73,976
 lagen/70,976
 lagens/976
@@ -63611,7 +63572,7 @@ købstadrettigheders/976
 købstadrettighederne/976
 købstadrettighedernes
 købstadshus/10,70,20,976
-købsret/737,70
+købsret/737,70,976
 købspris/70,73,7,976
 købsordre/70,73,7,976
 købsaftale/70,73,7,976
@@ -63884,7 +63845,7 @@ kælderkold/70,962,366
 kælderbeværtning/70,73,7,976
 kælder-/942,946
 kæk/1106,70,366
-kælder/70,7,252,976,941,947
+kælder/115,70,85,976,941,947
 kæfte/6,143,148
 kæft/20,7,70,976
 kæfert/70,73,7,976
@@ -64018,7 +63979,7 @@ kvælstoffikserende/916,976
 k-værdi/70,73,7,976
 kværk/20,7,70,976
 kvælningsanfald/70,252,10,976
-kvælstof/70,736,941,947
+kvælstof/70,736,976,941,947
 kvælstofatom/70,10,73,976
 kværke/6,143,148
 kvælstofbindende/916,976
@@ -64285,7 +64246,7 @@ kvartærtid/193,70,976
 kvartudgave/70,73,7,976
 kvarttone/70,73,7,976
 kvartsur/10,70,20,976
-kvartsit/70,736
+kvartsit/70,736,976
 kvarts/70,73,7,976,941,947
 kvartmil/70,7,252,976
 kvartil/70,73,7,976
@@ -64616,7 +64577,7 @@ kup
 kupleder/20,7,70,976
 kuplet/70,1062
 kupmager/20,7,70,976
-kupon/70,73,7,976
+kupon/70,73,7,976,941,947
 kuponklipper/20,7,70,976
 kuple/6,143,148
 kuperet/70,1062
@@ -64899,7 +64860,7 @@ kulsort/976
 kulsorts/976
 kulsorte/976
 kulsortes
-kulstof/70,736,941,947
+kulstof/70,736,976,941,947
 kulproduktion/70,73,7,976
 kulos/193,70,976
 kulplads/70,73,7,976
@@ -65104,7 +65065,7 @@ krøl
 krølhåret/70,1062
 krølhår/70,252,10,976
 krølfri/70,962,366
-krøl/70,736,941,947
+krøl/70,736,976,941,947
 krævende/916,976
 kræse/6,143,148
 kræsen/976
@@ -65183,7 +65144,7 @@ krysant
 krympe/6,143,148
 krympefri/70,962,366
 krympning/70,73,7,976
-kryolit/737,70,941,947
+kryolit/737,70,976,941,947
 krypt/70,73,7,976
 krymmel/70,976
 krymmels/976
@@ -65216,7 +65177,7 @@ krydsermissil/70,10,73,976
 krydse/6,143,148
 kryds/70,252,10,976,941,947
 kryds/70,10,73,976
-kryddersmør/70,736
+kryddersmør/70,736,976
 krydre/6,143,148
 krydret/70,1062
 krydring/70,73,7,976
@@ -65512,7 +65473,7 @@ kristenkærlighed/193,70,976
 kristenhed/193,70,976
 kristenforfølgelse/70,73,7,976
 kristendomskundskab/193,70,976
-kristendom/737,70,939,947
+kristendom/737,70,976,939,947
 kristen/976
 kristens/976
 kristents/976
@@ -65650,7 +65611,7 @@ krigsministeriers/976
 krigsministerierne/976
 krigsministeriernes
 krigsmaskine/70,73,7,976
-krigsmateriel/70,736
+krigsmateriel/70,736,976
 krigsmiddel/70,976
 krigsmiddels/976
 krigsmiddelet/976
@@ -65975,7 +65936,7 @@ krappede
 krappedes
 krap
 kraplak/46,70,976
-krap/737,70,941,947
+krap/737,70,976,941,947
 krap/1106,70,366
 kranvogn/20,7,70,976
 kransstillet/70,1062
@@ -66023,7 +65984,7 @@ krammede
 krammedes
 kram
 kramkiste/70,73,7,976
-kram/70,736
+kram/70,736,976
 krambod/70,73,7,976
 kram/70,254,976
 krakmandel/70,976
@@ -66248,7 +66209,7 @@ kostbar/70,962,366
 kostald/20,7,70,976
 kost/20,7,70,976,940,947
 kost/193,70,976,941,947
-kosmos/70,736
+kosmos/70,736,976
 kosmonaut/70,73,7,976
 kosmopolit/46,70,976
 kosmopolitisk/917,976
@@ -66258,7 +66219,7 @@ kosmisk/917,976
 kosmetolog/70,73,7,976
 kosmetisk/917,976
 kosmetikpung/20,7,70,976
-kosmetik/737,70,941,947
+kosmetik/737,70,976,941,947
 korvet/46,70,976
 koryfæ/70,73,7,976
 kosak/46,70,976
@@ -66486,7 +66447,7 @@ kor-/942,946
 koptisk/917,976
 kopulation/70,73,7,976
 kopulere/6,143,148
-kor/70,252,10,976
+kor/70,252,10,976,941,947
 kopter/20,7,70,976
 kopra/193,70,976
 koppevaccination/70,73,7,976
@@ -66500,7 +66461,7 @@ kopipapir/70,10,73,976
 kopimaskine/70,73,7,976
 kopi/70,73,7,976,466
 kopiere/6,143,148
-kopiering/70,73,7,976
+kopiering/70,73,7,976,939,947
 Kopernikus/55
 kopfuld/70,976
 kopfulds/976
@@ -66635,7 +66596,7 @@ kontrolmålinger/70,976
 kontrolmålingers/976
 kontrolmålingerne/976
 kontrolmålingernes
-kontrollør/70,73,7,976
+kontrollør/70,73,7,976,941,947
 kontrollere/6,143,148
 kontrollaboratorium/70,976
 kontrollaboratoriums/976
@@ -66689,7 +66650,7 @@ kontoudskrift/70,73,7,976
 kontoudtog/70,252,10,976
 kontra
 
-kontra/944,946
+kontra
 kontra/70,73,7,976,941,947
 kontraalt/70,73,7,976
 kontoruddannet/70,1062
@@ -66786,7 +66747,7 @@ kontenance/193,70,976
 kontemplativ/70,962,366
 kontemplation/70,73,7,976
 kontekstuel/1106,70,366
-kontekst/70,73,7,976
+kontekst/70,73,7,976,941,947
 kontantværdi/70,73,7,976
 kontantvurdering/70,73,7,976
 kontantrabat/46,70,976
@@ -67187,7 +67148,7 @@ konfiskation/70,73,7,976
 konfiskere/6,143,148
 konfetti/193,70,976
 konfidentiel/1106,70,366
-konfiguration/70,73,7,976
+konfiguration/70,73,7,976,939,947
 konfirmand/70,73,7,976,939,947
 konfirmandforberedelse/70,73,7,976
 konfirmation/70,73,7,976,939,947
@@ -67352,7 +67313,7 @@ kompositaene/976
 kompositaenes
 kompositorisk/917,976
 kompositmateriale/70,10,73,976
-kompositionsmusik/737,70
+kompositionsmusik/737,70,976
 kompositionel/1106,70,366
 komposition/70,73,7,976
 komponist/70,73,7,976
@@ -67541,7 +67502,7 @@ kommitteredes
 kommittent/70,73,7,976
 kommittere/6,143,148
 kommitteret/70,1062
-kommissær/70,73,7,976
+kommissær/70,73,7,976,941,947
 kommissorium/70,976
 kommissoriums/976
 kommissoriet/976
@@ -67662,7 +67623,7 @@ komiteerne/976
 komitéernes/976
 komiteernes
 komfur/70,10,73,976
-komik/737,70
+komik/737,70,976
 komiker/20,7,70,976
 komikerpar/70,254,976
 Kominform/55
@@ -67670,7 +67631,7 @@ Komintern/55
 komisk/917,976
 kometagtig/207,70,366,976
 komethale/70,73,7,976
-komfort/193,70,976
+komfort/193,70,976,941,947
 komfortabel/976
 komfortabels/976
 komfortabelts/976
@@ -67841,7 +67802,7 @@ kollaboratør/70,73,7,976
 kollabere/6,143,148
 kollaboration/70,73,7,976
 kolkhos/70,73,7,976
-kolik/737,70,941,947
+kolik/737,70,976,941,947
 kolibri/70,73,7,976
 kolesterolindhold/70,252,10,976
 kolesterol/194,70,976,941,947
@@ -68857,7 +68818,7 @@ klod/70,133,976
 klode/70,73,7,976
 kloakvand/10,70,20,976
 kloaksystem/70,10,73,976
-kloakslam/737,70
+kloakslam/737,70,976
 kloakrør/70,252,10,976
 kloakrotte/70,73,7,976
 kloakrenovering/193,70,976
@@ -69074,7 +69035,7 @@ klik/70,254,976,940,947
 klientel/70,9,976
 klient/70,73,7,976,941,947
 klidbrød/70,252,10,976
-klid/70,736,941,947
+klid/70,736,976,941,947
 klichefyldt/976
 klichefyldts/976
 klichéfyldts/976
@@ -69166,7 +69127,7 @@ klatgæld/193,70,976
 klat/46,70,976,941,947
 klassisksproglig/207,70,366,976
 klassisk/917,976
-klassik/737,70
+klassik/737,70,976
 klassiker/20,7,70,976
 klassifikatorisk/917,976
 klassificere/6,143,148
@@ -69236,7 +69197,7 @@ klarhjernet/70,1062
 klargøring/70,73,7,976
 klarhed/193,70,976
 klarere/6,143,148
-klaret/737,70
+klaret/737,70,976
 klargøre
 klargøres
 klargjorde
@@ -69393,7 +69354,7 @@ kittets
 kittede
 kittedes
 kit
-kit/70,736
+kit/70,736,976
 kisteklæder/70,976
 kisteklæders/976
 kisteklæderne/976
@@ -69450,7 +69411,7 @@ kirsch/70,73,7,976
 kiropraktor/70,73,7,976
 kiropraktisk/917,976
 kiropraktiker/20,7,70,976
-kiropraktik/737,70
+kiropraktik/737,70,976
 kiromantisk/917,976
 kiromantiker/20,7,70,976
 kirkeår/70,252,10,976
@@ -69507,7 +69468,7 @@ kirgisisk/917,976
 Kirgisistan/55
 Kirgistan/55
 kirgiser/20,7,70,976
-kir/737,70
+kir/737,70,976
 kippe/70,73,7,976
 kippe
 kipper
@@ -69763,7 +69724,7 @@ ketsjer/20,7,70,976
 keton/70,73,7,976
 kerub/70,73,7,976
 ketch/70,73,7,976
-ketchup/737,70,941,947
+ketchup/737,70,976,941,947
 kerteminder/20,7,70,976
 kerte/70,976
 kærte/976
@@ -69822,7 +69783,7 @@ keramisk/917,976
 keratin/70,10,73,976
 kepaløg/70,252,10,976
 kepi/70,73,7,976
-keramik/737,70,941,947
+keramik/737,70,976,941,947
 keramiker/20,7,70,976
 kentaur/70,73,7,976
 kenyaner/20,7,70,976
@@ -69940,7 +69901,7 @@ kavalkade/70,73,7,976
 kavaler/70,73,7,976
 kavalergang/20,7,70,976
 kavaj/70,73,7,976
-kautsjuk/737,70
+kautsjuk/737,70,976
 kautionsforpligtelse/70,73,7,976
 kaustisk/917,976
 kaution/70,73,7,976
@@ -70439,14 +70400,14 @@ kardanakslers/976
 kardanakslerne/976
 kardanakslernes
 karburering/70,73,7,976
-karburatorsprit/737,70
+karburatorsprit/737,70,976
 karburator/70,73,7,976
 karboxylsyre/70,73,7,976
-karborundum/70,736
+karborundum/70,736,976
 karbonat/70,10,73,976
 karbonade/70,73,7,976
 karbon/70,73,7,976,941,947
-karbolineum/70,736
+karbolineum/70,736,976
 karbol/193,70,976,941,947
 karbid/193,70,976
 karavel/46,70,976
@@ -70572,7 +70533,7 @@ kappede
 kappedes
 kap
 kapoktræ/70,10,73,976
-kapok/737,70
+kapok/737,70,976
 kapitæl/70,10,73,976
 kapitulere/6,143,148
 kapitulation/70,73,7,976
@@ -70653,7 +70614,7 @@ kaot/70,73,7,976
 kaotisk/917,976
 kap/190,976
 kap/190,976,941,947
-kaos/70,736,941,947
+kaos/70,736,976,941,947
 kaolin/70,73,7,976
 kanøfle
 karnøfle
@@ -70817,7 +70778,7 @@ kanel/194,70,976,941,947
 kane/70,73,7,976,941,947
 kane/6,143,148
 kandisere/6,143,148
-kandis/737,70,941,947
+kandis/737,70,976,941,947
 kandidere/6,143,148
 kandidatur/70,73,7,976
 kandidat/70,73,7,976,941,947
@@ -71138,7 +71099,7 @@ kalligrafere/6,143,148
 kalksalpeter/193,70,976
 kalksandsten/193,70,976
 kalkspalter/20,7,70,976
-kalkspat/737,70
+kalkspat/737,70,976
 kalksten/70,7,252,976
 kalkstøv/194,70,976
 kalksæbe/70,73,7,976
@@ -71197,7 +71158,7 @@ kalkbrud/70,254,976
 kalkbrænderi/70,10,73,976
 kalkbjerg/10,70,20,976
 kalif/46,70,976
-kalium/70,736,941,947
+kalium/70,736,976,941,947
 kaliumbromid/70,10,73,976
 kalk/193,70,976
 kalk/20,7,70,976
@@ -71258,7 +71219,7 @@ kakifarvedes
 kakifarvet/70,1062
 kaki/193,70,976
 kakerlak/46,70,976
-kakaosmør/70,736
+kakaosmør/70,736,976
 kakaobønne/70,73,7,976
 kakao/193,70,976,941,947
 kakafoni/70,73,7,976
@@ -71450,7 +71411,7 @@ jævnthen
 jævnstrømsgenerator/70,73,7,976
 jævnstrøm/70,133,976
 jævnspænding/193,70,976
-jævnsides/944,946
+jævnsides
 jævnsides
 
 jævnlig/207,70,366,976
@@ -71799,7 +71760,7 @@ journalnumres/976
 journalnumrene/976
 journalnumrenes
 journalistisk/917,976
-journalistik/737,70
+journalistik/737,70,976
 journalistelev/70,73,7,976
 journalist/70,73,7,976,941,947
 journalisering/70,73,7,976
@@ -71838,7 +71799,7 @@ jordtank/20,7,70,976
 jordtilliggende/70,10,73,976
 jordspyd/70,254,976
 jordspekulation/70,73,7,976
-jordsmon/70,736
+jordsmon/70,736,976
 jordslået/70,1062
 jordskredssejr/20,7,70,976
 jordskyld/193,70,976
@@ -72190,7 +72151,7 @@ jobbedes
 job
 jobansøgning/70,73,7,976
 jobannonce/70,73,7,976
-jitterbug/737,70
+jitterbug/737,70,976
 jo
 
 job/70,254,976,941,947
@@ -72525,7 +72486,7 @@ jag/70,252,10,976
 jadegrøn/1106,70,366
 jade/193,70,976
 jacquerie/70,10,73,976
-jackpot/737,70
+jackpot/737,70,976
 jack/193,70,976
 iøjespringende/976
 iøjespringendes/976
@@ -72808,7 +72769,7 @@ islagts
 islagte
 islagtes
 islæg
-islæg/70,736
+islæg/70,736,976
 islandsk/976
 islandsks/976
 islandske/976
@@ -72831,7 +72792,7 @@ iskold/70,962,366
 isklump/70,73,7,976
 iskiosk/70,73,7,976
 iskiasnerve/70,73,7,976
-iskias/737,70
+iskias/737,70,976
 ishockey/190,976
 ishus/10,70,20,976
 ising/70,73,7,976
@@ -72862,7 +72823,7 @@ isfyldte/976
 isfyldtes
 isfugl/20,7,70,976
 isfri/70,962,366
-isenkram/70,736,941,947
+isenkram/70,736,976,941,947
 iseddike/70,73,7,976
 ise/6,143,148
 isdækket/70,1062
@@ -73003,7 +72964,7 @@ irlandskes
 iris/46,70,976
 irisblænde/70,73,7,976
 irisere/6,143,148
-iridium/70,736,941,947
+iridium/70,736,976,941,947
 irgrøn/1106,70,366
 irgang/20,7,70,976
 irettesættelse/70,73,7,976
@@ -73024,7 +72985,7 @@ iranske/976
 iranskes
 iraner/20,7,70,976
 Iran/699,55
-ir/737,70
+ir/737,70,976
 irakisk/917,976
 iraker/20,7,70,976
 Irak/699,55
@@ -73457,7 +73418,7 @@ instrumentarierne/976
 instrumentariernes
 instrumental/70,962,366,941,947
 instrumentalist/70,73,7,976
-instrumentalmusik/737,70
+instrumentalmusik/737,70,976
 instrument/70,10,73,976
 instruktørassistent/70,73,7,976
 instruktor/70,73,7,976
@@ -73596,7 +73557,7 @@ inopportun/70,962,366
 innovator/70,73,7,976
 innovativ/70,962,366
 innovationsproces/46,70,976
-innovation/70,73,7,976
+innovation/70,73,7,976,939,947
 innerwing/70,73,7,976
 inkvisitorisk/917,976
 inkvisitor/70,73,7,976
@@ -73653,7 +73614,7 @@ inkommensurabelt
 inkognito
 
 inkognito/190,976
-inklusive/944,946
+inklusive
 inklusiv/70,962,366
 inkludering/70,73,7,976
 inkludere/6,143,148
@@ -73754,7 +73715,7 @@ informationsbærende/916,976
 informationsbase/70,73,7,976
 information/70,73,7,976,939,947
 informatikassistent/70,73,7,976
-informatik/737,70,941,947
+informatik/737,70,976,941,947
 informant/70,73,7,976
 influere/6,143,148
 influenza/70,73,7,976,941,947
@@ -74041,7 +74002,7 @@ indtræd
 indtjeningsevne/70,73,7,976
 indtjening/70,73,7,976,939,947
 indtjene/140,143,148
-indtil/944,946
+indtil
 indtil
 indterpning/70,73,7,976
 indterpe/6,143,148
@@ -74144,7 +74105,7 @@ indstrømmets
 indstrømmede
 indstrømmedes
 indstrøm
-indstillingsret/737,70
+indstillingsret/737,70,976
 indstrege/6,143,148
 indstregning/70,73,7,976
 indstilling/70,73,7,976,939,947
@@ -74843,7 +74804,7 @@ individualisering/70,73,7,976
 individualisere/6,143,148
 individorienteret/70,1062
 individ/70,10,73,976
-indium/70,736
+indium/70,736,976
 indisposition/193,70,976
 indisponeret/70,1062
 indiskretion/70,73,7,976
@@ -74865,7 +74826,7 @@ indiskretes
 indisk/917,976
 indimellem
 
-indimellem/944,946
+indimellem
 indirekte/976
 indirektes
 indikere/6,143,148
@@ -75092,7 +75053,7 @@ indførslers/976
 indførslerne/976
 indførslernes
 indføringshylster/70,252,10,976
-indfødsret/737,70,939,947
+indfødsret/737,70,976,939,947
 indfødt/976
 indfødts/976
 indfødte/976
@@ -75376,7 +75337,7 @@ indenom
 
 indenfor
 
-indeni/944,946
+indeni
 indeni
 
 indenlands
@@ -75385,7 +75346,7 @@ indenlandsk/976
 indenlandsks/976
 indenlandske/976
 indenlandskes
-indenfor/944,946
+indenfor
 indendørs
 
 indendørsarkitekt/70,73,7,976
@@ -75409,7 +75370,7 @@ indenad
 inden
 inden
 
-inden/944,946
+inden
 indemuring/70,73,7,976
 indemure/6,143,148
 indeksregulering/193,70,976
@@ -75852,7 +75813,7 @@ imprægnere/6,143,148
 improviseret/70,1062
 improvisere/6,143,148
 improvisation/70,73,7,976,939,947
-improvisationsmusik/737,70
+improvisationsmusik/737,70,976
 improvisator/70,73,7,976
 improvisatorisk/917,976
 impromptu/70,10,73,976
@@ -75960,7 +75921,7 @@ imorges
 
 immunreaktion/70,73,7,976
 immunsystem/70,10,73,976
-imod/944,946
+imod
 immunologi/193,70,976
 immunologisk/917,976
 imorgen
@@ -75986,7 +75947,7 @@ immun/70,962,366
 immunforsvar/70,252,10,976
 immatrikulation/70,73,7,976
 immatrikulationsfest/70,73,7,976
-imellem/944,946
+imellem
 imellem
 
 imidlertid
@@ -76301,7 +76262,7 @@ ihjelbidtes
 ihjelbid
 igennem
 
-igennem/944,946
+igennem
 igle/70,73,7,976
 iglo/70,73,7,976
 igloo/70,73,7,976
@@ -76334,7 +76295,7 @@ igangsatte
 igangsattes
 igangsæt
 iføre/140,143,148
-ifølge/944,946
+ifølge
 Ifigenia/55
 ifalde
 ifalder
@@ -76623,7 +76584,7 @@ ibmkompatiblestes/976
 ibmkompatibelt
 iblandt
 
-iblandt/944,946
+iblandt
 iblødsætning/70,73,7,976
 iblødsætningsmiddel/70,976
 iblødsætningsmiddels/976
@@ -77210,7 +77171,7 @@ hørebrillerne/976
 hørebrillernes
 høreapparat/70,10,73,976
 høre-/942,946
-hør/737,70
+hør/737,70,976
 hør
 hør-/942,946
 hørbar/70,962,366
@@ -77518,7 +77479,7 @@ højkomprimeret/70,1062
 højkirkelig/207,70,366,976
 højintellektuel/1106,70,366
 højindustrialiseret/70,1062
-højhedsret/737,70
+højhedsret/737,70,976
 højhellig/207,70,366,976
 højhælet/70,1062
 højhed/70,73,7,976
@@ -78084,11 +78045,11 @@ hydroxyderne/976
 hydroxidernes/976
 hydroxydernes
 hydrostatisk/917,976
-hydrostatik/737,70
+hydrostatik/737,70,976
 hydrosfære/193,70,976
 hydropneumatisk/917,976
 hydrometer/70,252,10,976
-hydromekanik/737,70
+hydromekanik/737,70,976
 hydrolysere/6,143,148
 hydrolyse/70,73,7,976
 hydrolog/70,133,976
@@ -78106,11 +78067,11 @@ hydrofil/70,962,366
 hydrofob/70,962,366
 hydrofoil/70,73,7,976
 hydrodynamisk/917,976
-hydrodynamik/737,70
+hydrodynamik/737,70,976
 hydraulisk/917,976
 hydrazin/193,70,976
 hydrid/70,10,73,976
-hydraulik/737,70,941,947
+hydraulik/737,70,976,941,947
 hydrat/70,10,73,976
 hydra/70,73,7,976
 hybris/190,976
@@ -78280,7 +78241,7 @@ hvidplettet/70,1062
 hvidnæse/70,73,7,976
 hvidne/6,143,148
 hvidmalet/70,1062
-hvidløgssmør/70,736
+hvidløgssmør/70,736,976
 hvidløgspresser/20,7,70,976
 hvidløgsmayonnaise/70,73,7,976
 hvidløgsekstrakt/70,73,7,976
@@ -78357,7 +78318,7 @@ hvidblå/976
 hvidblåts/976
 hvidblås/976
 hvidblåt
-hvidblik/70,736
+hvidblik/70,736,976
 hvidbalance/70,73,7,976
 hvid-/942,946
 hvid/70,962,366
@@ -78481,7 +78442,7 @@ husslave/70,73,7,976
 husskade/70,73,7,976
 husråd/70,252,10,976
 husrødstjert/20,7,70,976
-husrum/70,736
+husrum/70,736,976
 husrække/70,73,7,976
 husregel/70,976
 husregels/976
@@ -78701,7 +78662,7 @@ husbehov/190,976
 husbestyrerinde/70,73,7,976
 husbesættelse/70,73,7,976
 husbesøg/70,252,10,976
-husblas/737,70
+husblas/737,70,976
 husblok/70,133,976
 husbond/70,73,7,976
 husbondafløser/20,7,70,976
@@ -78729,7 +78690,7 @@ hurtighed/193,70,976
 hurra
 hurra/70,10,73,976
 hurraråb/70,252,10,976
-hurtig/207,70,366,976
+hurtig/207,70,366,976,941,947
 hurtigbus/46,70,976
 hurtigbåd/20,7,70,976
 hurtiggående/976
@@ -78957,7 +78918,7 @@ humbugmagerne/976
 humbugsmagerne/976
 humbugmagernes/976
 humbugsmagernes
-humbug/737,70
+humbug/737,70,976
 humanitær/70,962,366
 humanmedicin/193,70,976
 humanvidenskab/70,73,7,976
@@ -79291,7 +79252,15 @@ hotpants'/976
 hotpantsene/976
 hotpantsenes
 hot/1106,70,366
-hotdog/70,7,252,976
+hotdog/70,976,941,947
+hotdoggen/976
+hotdogs/976
+hotdoggene/976
+hotdogsene/976
+hotdoggens/976
+hotdogs'/976
+hotdoggenes/976
+hotdogsenes
 hotel/70,9,976,941,947
 hoteldrift/70,73,7,976
 hotline/70,73,7,976
@@ -79332,7 +79301,7 @@ hoslagtes
 hosliggende/916,976
 hose/70,73,7,976
 hosianna
-hos/944,946
+hos
 hortulan/70,73,7,976
 hortonom/70,73,7,976
 hortensia/70,976
@@ -79460,7 +79429,7 @@ homogen/70,962,366
 homofon/70,962,366
 homofili/193,70,976
 homofil/70,962,366
-homiletik/737,70
+homiletik/737,70,976
 homerisk/917,976
 homebanking/193,70,976
 Homer/55
@@ -79823,7 +79792,7 @@ hjernehindebetændelse/70,73,7,976
 hjernehinde/70,73,7,976
 hjernehalvdel/20,7,70,976
 hjernefunktion/70,73,7,976
-hjernegymnastik/737,70
+hjernegymnastik/737,70,976
 hjerneforsker/20,7,70,976
 hjernedød/193,70,976
 hjernedødskriterium/70,976
@@ -80264,7 +80233,7 @@ hinke/6,143,148,939,947
 hinkerude/70,73,7,976
 hinsidan
 
-hinsides/944,946
+hinsides
 hingsteføl/70,976
 hingsteføllet/976
 hingstføllet/976
@@ -80323,7 +80292,7 @@ himmelspræt/190,976
 himmelstige/70,73,7,976
 himmelstormende/916,976
 himmelstormer/20,7,70,976
-himmelrum/70,736
+himmelrum/70,736,976
 himmelråbende/916,976
 himmelseng/20,7,70,976
 himmelsk/976
@@ -80872,7 +80841,7 @@ heppedes
 hep
 henånde/6,143,148
 hep
-hepatitis/737,70
+hepatitis/737,70,976
 henvist/976
 henvists/976
 henviste/976
@@ -80885,7 +80854,7 @@ henvende/140,143,148
 hentyde/6,143,148
 hentydning/70,73,7,976
 hentære/6,143,148
-henved/944,946
+henved
 henter/20,7,70,976
 hentehår/70,252,10,976
 hente/6,143,148
@@ -81124,7 +81093,7 @@ henkogningskedlers/976
 henkogningskedlerne/976
 henkogningskedlernes
 henkastning/193,70,976
-henimod/944,946
+henimod
 henkaste/6,143,148
 henholdende/916,976
 henholdsvis
@@ -81249,7 +81218,7 @@ hendødes
 henblik/190,976
 hen
 
-henad/944,946
+henad
 hems/20,7,70,976
 hemmeligt
 
@@ -81466,7 +81435,7 @@ helle
 helle/70,73,7,976,941,947
 hellebard/70,73,7,976
 helledusseda
-helium/70,736,941,947
+helium/70,736,976,941,947
 heliotrop/70,73,7,976
 heling/70,73,7,976
 heliocentrisk/917,976
@@ -81711,7 +81680,7 @@ heftedes
 hæftedes
 hæft
 heft
-hefte/70,976
+hefte/70,976,941,947
 hæfte/976
 heftes/976
 hæftes/976
@@ -81825,7 +81794,7 @@ havterne/70,73,7,976
 havtorn/70,7,252,976
 havstrøm/70,133,976
 havstryger/20,7,70,976
-havstok/737,70
+havstok/737,70,976
 havspejl/10,70,20,976
 havstigning/193,70,976
 havskildpadde/70,73,7,976
@@ -81856,7 +81825,7 @@ havretsligste/976
 havretligste
 havregryn/70,252,10,976
 havregrynspakke/70,73,7,976
-havret/737,70,939,947
+havret/737,70,976,939,947
 havnymfe/70,73,7,976
 havodder/20,7,70,976
 havområde/70,10,73,976
@@ -82124,7 +82093,7 @@ harniskklædtes
 harnisk/70,10,73,976
 harmonere/6,143,148
 harmoni/70,73,7,976,941,947
-harmonik/737,70
+harmonik/737,70,976
 harmonika/70,73,7,976,941,947
 harmonikasammenstød/70,252,10,976
 harmonisere/6,143,148
@@ -82231,7 +82200,7 @@ hankønsvæsenerne/976
 hankønsvæsnerne/976
 hankønsvæsenernes/976
 hankønsvæsnernes
-hankøn/70,736,939,947
+hankøn/70,736,976,939,947
 hankeløs/70,962,366
 hanke/6,143,148
 hankat/70,133,976
@@ -82327,7 +82296,7 @@ handelsstatistik/46,70,976
 handelsstation/70,73,7,976
 handelsstandsforening/70,73,7,976
 handelsråd/70,73,7,976
-handelssamkvem/70,736
+handelssamkvem/70,736,976
 handelssektor/193,70,976
 handelsstand/193,70,976
 handelsskib/10,70,20,976
@@ -83103,7 +83072,7 @@ habitklædte/976
 habitklædtes
 habit/46,70,976,941,947
 habilitet/193,70,976
-habengut/70,736
+habengut/70,736,976
 habil/70,962,366
 gåseleverpostej/70,73,7,976
 gåseskrog/70,252,10,976
@@ -83450,7 +83419,7 @@ gynge/6,143,148
 gymnastiksal/20,7,70,976
 gymnastiksko/70,7,252,976
 gymnastisk/917,976
-gymnastik/737,70,941,947
+gymnastik/737,70,976,941,947
 gymnastikdragt/70,73,7,976
 gymnasticere
 gymnasticerer
@@ -83812,7 +83781,7 @@ gudsøn/46,70,976
 gudvelbehagelig/207,70,366,976
 guerilla/70,73,7,976,941,947
 guerillakrig/20,7,70,976
-guf/70,736
+guf/70,736,976
 gudsrige/194,70,976
 gudstjeneste/70,73,7,976
 gudstjenestelig/976
@@ -84571,7 +84540,7 @@ grundighed/193,70,976
 grundig/207,70,366,976
 grundidé/70,73,7,976
 Grundfos/55
-grundet/944,946
+grundet
 grunder/20,7,70,976
 grunde/6,143,148
 grunden/190,976
@@ -84863,7 +84832,7 @@ grazioso
 
 gravtale/70,73,7,976
 gravure/70,73,7,976
-gravøl/70,736
+gravøl/70,736,976
 gravør/70,73,7,976
 gravsættelse/70,73,7,976
 gravsætning/70,73,7,976
@@ -85058,7 +85027,7 @@ grammatikalsks/976
 grammatikalske/976
 grammatikalskes
 grafisk/917,976,941,947
-grafit/737,70,941,947
+grafit/737,70,976,941,947
 grafitgrå/976
 grafitgråts/976
 grafitgrås/976
@@ -85132,7 +85101,7 @@ got
 gospel/190,976
 gospelsang/20,7,70,976
 goter/20,7,70,976
-gotik/737,70
+gotik/737,70,976
 gotisk/917,976
 gotlandsk/976
 gotlandsks/976
@@ -85845,7 +85814,7 @@ glasbeholder/20,7,70,976
 glasarbejde/70,10,73,976
 glas-/942,946
 glas/70,254,976
-glas/70,736,941,947
+glas/70,736,976,941,947
 glarmesterforretning/70,73,7,976
 glarmester/70,7,252,976
 glarmager/20,7,70,976
@@ -86333,7 +86302,7 @@ germansk/976
 germansks/976
 germanske/976
 germanskes
-germanium/70,736
+germanium/70,736,976
 germanist/70,73,7,976
 germanisere/6,143,148
 germaner/20,7,70,976
@@ -86572,7 +86541,7 @@ genskinnets
 genskinnede
 genskinnedes
 genskin
-genskin/70,736
+genskin/70,736,976
 genskabning/70,73,7,976
 genskaber/20,7,70,976
 genskabelse/70,73,7,976
@@ -86900,7 +86869,7 @@ gennemtrukkens
 gennemtrukne
 gennemtruknes
 gennemtræk
-gennemtræk/737,70
+gennemtræk/737,70,976
 gennemtræk/70,254,976
 gennemtrumfning/70,73,7,976
 gennemtrumfe/6,143,148
@@ -87248,7 +87217,7 @@ gennets
 gennede
 gennedes
 gen
-gennem/944,946
+gennem
 gennemarbejde/6,143,148
 genmanipulation/70,73,7,976
 genlæse/140,143,148
@@ -88123,7 +88092,7 @@ gammelmødrenes
 gammelmodig/207,70,366,976
 gammelmandssukkersyge/193,70,976
 gammelmandsstemme/70,73,7,976
-gammelmandssnak/737,70
+gammelmandssnak/737,70,976
 gammelmands-/942,946
 gammelmandsansigt/70,10,73,976
 gammelliberalisme/193,70,976
@@ -88246,11 +88215,11 @@ galoppadernes
 galmyg/70,267,976
 galmide/70,73,7,976
 galmandsværk/190,976
-galmandssnak/737,70
+galmandssnak/737,70,976
 galluptal/70,254,976
 gallup/190,976,941,947
 gallisk/917,976
-gallium/70,736,941,947
+gallium/70,736,976,941,947
 gallon/70,976
 gallons/976
 gallons'/976
@@ -88477,7 +88446,7 @@ førstestyrmændene/976
 førstestyrmændenes
 førstesprog/194,70,976
 førstesekretær/70,73,7,976
-førsteret/737,70
+førsteret/737,70,976
 førsterangs/976
 førsterangs'/976
 førsterangs's/976
@@ -88526,7 +88495,7 @@ førsteholdsspiller/20,7,70,976
 førstegangsfødende/916,976
 førstedirektør/70,73,7,976
 førsteelsker/20,7,70,976
-førstefødselsret/737,70
+førstefødselsret/737,70,976
 førstefødt/976
 førstefødts/976
 førstefødte/976
@@ -88582,7 +88551,7 @@ føring/70,73,7,976
 førindustriel/1106,70,366
 førelse/70,73,7,976
 førend
-førend/944,946
+førend
 førende/916,976
 fører/20,7,70,976,941,947
 førerbevis/70,10,73,976
@@ -88605,7 +88574,7 @@ føre/140,143,148
 føre/194,70,976
 førdatid/70,73,7,976
 før/70,962,366
-før/944,946
+før
 før-/942,946
 før
 
@@ -89406,8 +89375,8 @@ fusker/20,7,70,976
 fuske/6,143,148
 fusk/190,976
 fusionsplan/70,73,7,976
-fusionsmusik/737,70
-fusion/70,73,7,976
+fusionsmusik/737,70,976
+fusion/70,73,7,976,939,947
 fusionere/6,143,148
 fusionering/70,73,7,976
 fusionsenergi/193,70,976
@@ -89450,7 +89419,7 @@ fupnumre/976
 fupnumres/976
 fupnumrene/976
 fupnumrenes
-fup/70,736,941,947
+fup/70,736,976,941,947
 fupmager/20,7,70,976
 funktionær/70,73,7,976,941,947
 funktionærbolig/70,73,7,976
@@ -89466,7 +89435,7 @@ funktion/70,73,7,976,939,947
 funkle/6,143,148
 fungicid/70,10,73,976
 funke/6,143,148
-funkis/737,70,941,947
+funkis/737,70,976,941,947
 funk/193,70,976
 funke/70,73,7,976
 fungere/6,143,148
@@ -89620,7 +89589,7 @@ fuldbårnest/976
 fuldbårneste/976
 fuldbårnestes/976
 fuldbårent
-fuldemandssnak/737,70
+fuldemandssnak/737,70,976
 fuldbringelse/70,73,7,976
 fuldbringe
 fuldbringer
@@ -89651,7 +89620,7 @@ fuldbefarneste/976
 fuldbefarnestes/976
 fuldbefarent
 fuldautomatisere/6,143,148
-fuldautomatik/737,70
+fuldautomatik/737,70,976
 fuld-/942,946
 fuld/70,962,366
 ful/70,962,366
@@ -90988,7 +90957,7 @@ fremføre/140,143,148
 fremfærd/193,70,976
 fremfusenhed/193,70,976
 fremfusende/916,976
-fremfor/944,946
+fremfor
 fremfarende/916,976
 fremdrift/193,70,976
 fremdrive
@@ -91393,7 +91362,7 @@ frasagts
 frasagte
 frasagtes
 frasig
-fraset/944,946
+fraset
 frasere/6,143,148
 frasepareret/70,1062
 fraseologi/70,73,7,976
@@ -91675,7 +91644,7 @@ foxtrot/46,70,976
 foyer/70,73,7,976
 fr.
 fra
-fra/944,946
+fra
 fra
 
 fouragering/70,73,7,976
@@ -92167,7 +92136,7 @@ forudset
 forudsets
 forudsete
 forudsetes
-forudsat/944,946
+forudsat
 forudsat
 
 forudlagt/976
@@ -92196,7 +92165,7 @@ forudgåedes
 forudfattet/70,1062
 foruden
 
-foruden/944,946
+foruden
 forude
 
 foruddiskontere/6,143,148
@@ -92391,7 +92360,7 @@ fortrolig/207,70,366,976
 fortravlet/70,1062
 fortrin/70,254,976,939,947
 fortrinlig/207,70,366,976
-fortrinsret/737,70
+fortrinsret/737,70,976
 fortrinsvis
 
 fortovskafé/70,73,7,976
@@ -93377,7 +93346,7 @@ forretningsfolkenes
 forretningsanliggende/70,10,73,976
 forretnings-/942,946
 forretning/70,73,7,976,939,947
-forret/737,70
+forret/737,70,976
 forret/46,70,976,939,947
 forrest/976
 forrests/976
@@ -93705,7 +93674,7 @@ formstøbte/976
 formstøbtes
 formssag/190,976
 formstøbe/140,143,148
-formskum/70,736
+formskum/70,736,976
 formskære
 formskærer
 formskæres
@@ -93871,7 +93840,7 @@ formlers/976
 formlerne/976
 formlernes
 formel/1106,70,366
-formedelst/944,946
+formedelst
 forme/6,143,148,941,947
 formdannende/916,976
 formbrød/70,252,10,976
@@ -94135,13 +94104,13 @@ forladts
 forladte
 forladtes
 forlad
-forkørselsret/737,70
+forkørselsret/737,70,976
 forkølet/70,1062
 forkølelsessår/70,252,10,976
 forkølelse/70,73,7,976
 forkøle/6,143,148
 forkøbet
-forkøbsret/737,70
+forkøbsret/737,70,976
 forkøbe/140,143,148
 forkætring/193,70,976
 forkætret/70,1062
@@ -94287,7 +94256,7 @@ forjag
 forivre/6,143,148
 foring/70,73,7,976
 Forindien/55
-forinden/944,946
+forinden
 forinden
 
 forinden
@@ -94788,7 +94757,7 @@ foren/190,976,940,947
 forende/70,73,7,976
 forene/6,143,148
 forenelig/207,70,366,976
-forelskelse/70,73,7,976
+forelskelse/70,73,7,976,939,947
 forelæggelse/70,73,7,976
 forelæggelsestale/70,73,7,976
 forelske/6,143,148
@@ -95237,7 +95206,7 @@ forbidts/976
 forbidte/976
 forbidtes
 forbier/20,7,70,976
-forbi/944,946
+forbi
 forbi
 
 forberedelseskursus/70,976
@@ -95350,7 +95319,7 @@ foraminiferer/70,976
 foraminiferers/976
 foraminifererne/976
 foraminiferernes
-foran/944,946
+foran
 foran
 
 foraksel/70,976
@@ -95374,7 +95343,7 @@ for/70,252,10,976
 for
 
 for
-for/944,946
+for
 fontæne/70,73,7,976
 fontanelle/70,73,7,976
 font/20,7,70,976
@@ -95426,6 +95395,8 @@ fondses
 fondant/70,73,7,976
 fond/70,73,7,976
 fond/70,10,73,976,939,947
+fonde/976
+fondes
 fon/70,73,7,976,941,947
 follow-up/190,976
 follikel/70,976
@@ -95752,9 +95723,9 @@ fnug
 fnisen/190,976
 fniseri/194,70,976
 FNobservatør/70,73,7,976
-fnok/737,70
+fnok/737,70,976
 FNsoldat/70,73,7,976
-fnat/737,70
+fnat/737,70,976
 fnatmide/70,73,7,976
 FN-forbund/70,252,10,976
 fnis/70,252,10,976
@@ -96023,7 +95994,7 @@ fly/70,252,10,976,941,947
 flutter/190,976
 flux/190,976
 flute/70,7,252,976
-flusspat/737,70
+flusspat/737,70,976
 fluorescere/6,143,148
 fluorid/70,73,7,976
 flus/190,976
@@ -96694,7 +96665,7 @@ fjernt
 
 fjernsynstårn/10,70,20,976
 fjernsynsudsendelse/70,73,7,976
-fjerntrafik/737,70
+fjerntrafik/737,70,976
 fjerntog/10,70,20,976
 fjerntboende/916,976
 fjerntliggende/916,976
@@ -97454,7 +97425,7 @@ finte/6,143,148
 finte/70,73,7,976
 fint
 
-finsprit/737,70
+finsprit/737,70,976
 finslibning/193,70,976
 finslibe
 finsliber
@@ -97518,7 +97489,7 @@ finpuds/193,70,976
 finnjolle/70,73,7,976
 finnet/70,1062
 finne/70,73,7,976
-finmotorik/737,70
+finmotorik/737,70,976
 finmekanisk/917,976
 finmekaniker/20,7,70,976
 finmekanik/46,70,976
@@ -97767,8 +97738,7 @@ filtrere/6,143,148
 filosofisk/917,976
 filt/70,73,7,976,941,947
 filte/6,143,148
-filter/70,252,10,976
-filter/194,70,976,941,947
+filter/70,85,10,976,941,947
 filtet/70,1062
 filtning/70,73,7,976
 filosof/46,70,976,940,947
@@ -97975,7 +97945,7 @@ feststemte/976
 feststemtes
 festival/70,73,7,976,941,947
 festivaldeltager/20,7,70,976
-festivitas/737,70
+festivitas/737,70,976
 festklædt/976
 festklædts/976
 festklædte/976
@@ -98234,9 +98204,9 @@ feltstudiernes
 feltlinie/70,73,7,976
 feltmæssig/207,70,366,976
 fel/194,70,976
-feldspat/737,70
+feldspat/737,70,976
 felt/193,70,976,941,947
-felt/70,10,73,976
+felt/70,10,73,976,941,947
 feltbiologisk/917,976
 feltfod/70,976
 feltfods/976
@@ -98500,7 +98470,7 @@ feberagtig/207,70,366,976
 feber/70,7,252,976,941,947
 feb.
 featureuge/70,73,7,976
-feature/70,7,252,976
+feature/70,7,252,976,941,947
 feagtig/207,70,366,976
 fe/70,976,941,947
 feen/976
@@ -98893,7 +98863,7 @@ farvenegativfilm/70,7,252,976
 farvemættet/70,1062
 farveløs/70,962,366
 farvel
-farvel/70,736,941,947
+farvel/70,736,976,941,947
 farvehandel/70,976
 farvehandels/976
 farvehandelen/976
@@ -99020,7 +98990,7 @@ farceagtig/207,70,366,976
 fantasme/70,73,7,976
 fantast/70,73,7,976
 fantasteri/70,10,73,976
-fantastik/737,70
+fantastik/737,70,976
 fantastisk/917,976
 fantasyroman/70,73,7,976
 fantom/70,10,73,976,941,947
@@ -99757,7 +99727,7 @@ evangeliskluthersk
 evangelisk/917,976
 evangelietekst/70,73,7,976
 evalueringsrapport/70,73,7,976
-evaluering/70,73,7,976
+evaluering/70,73,7,976,939,947
 evaluere/6,143,148
 evaluation/193,70,976
 evakueringsplan/70,73,7,976
@@ -99803,7 +99773,7 @@ Euklid/55
 eukalyptustræ/70,10,73,976
 eukalyptus/70,267,976
 eugenisk/917,976
-eugenik/737,70
+eugenik/737,70,976
 eufori/193,70,976
 euforiserende/916,976
 euforisk/917,976
@@ -99853,7 +99823,7 @@ etiopier/20,7,70,976
 etiopisk/917,976
 etioper/20,7,70,976
 etiker/20,7,70,976
-etiket/46,70,976
+etiket/46,70,976,941,947
 etikette/193,70,976,941,947
 etikettebog/70,976
 etikettebogs/976
@@ -99868,7 +99838,7 @@ etik/46,70,976
 ethjulet/70,1062
 etbær/70,267,976
 eternitfabrik/46,70,976
-eternit/737,70,941,947
+eternit/737,70,976,941,947
 eternel/46,70,976
 et cetera
 etc.
@@ -99954,17 +99924,17 @@ essentiel/1106,70,366
 essig/207,70,366,976
 esse/70,73,7,976
 essayist/70,73,7,976
-essayistik/737,70
+essayistik/737,70,976
 essayistisk/917,976
 essay/70,252,10,976,941,947
-esrom/737,70
+esrom/737,70,976
 esprit/70,73,7,976
 espressomaskine/70,73,7,976
 esplanade/70,73,7,976
 espresso/70,73,7,976
 esperanto/190,976
 espeløv/194,70,976
-espartogræs/70,736
+espartogræs/70,736,976
 espaliere
 spaliere
 espalierer
@@ -100057,7 +100027,7 @@ erotisk/917,976
 erotoman/70,73,7,976
 erosion/70,73,7,976
 erot/70,73,7,976,941,947
-erotik/737,70,941,947
+erotik/737,70,976,941,947
 Ernst/55
 ernære/6,143,148
 ernæring/70,73,7,976,939,947
@@ -100237,7 +100207,7 @@ epoke/70,73,7,976
 epistemologi/70,10,73,976
 epistemologisk/917,976
 epitaf/70,10,73,976
-epik/737,70
+epik/737,70,976
 epikuræer/20,7,70,976
 epikuræisk/917,976
 epikuræisme/193,70,976
@@ -100522,7 +100492,7 @@ enkeltord/70,252,10,976
 enkeltperson/70,73,7,976
 enkeltmandskreds/20,7,70,976
 enkeltmandsejet/70,1062
-enkeltmand/70,976
+enkeltmand/70,976,939,947
 enkeltmands/976
 enkeltmanden/976
 enkeltmandens/976
@@ -100553,7 +100523,7 @@ enkeltfagskursus's/976
 enkeltfagskursuses/976
 enkeltfagskurserne/976
 
-enkeltfag/70,252,10,976
+enkeltfag/70,252,10,976,939,947
 enkeltbinding/70,73,7,976
 enkeltbillet/46,70,976
 enkeltbillede/70,10,73,976
@@ -100570,8 +100540,6 @@ enklestes/976
 enkelt
 enkeltbekkasin/70,73,7,976
 enkelt-/942,946
-enkelt/941,947
-
 enkelt/976
 enkelts/976
 enkelte/976
@@ -100754,7 +100722,7 @@ energibevidstes
 energi/70,73,7,976,941,947
 energianlæg/70,254,976
 energetisk/917,976
-energetik/737,70
+energetik/737,70,976
 eneretsbevilling/70,73,7,976
 ener/20,7,70,976,941,947
 enentydig/207,70,366,976
@@ -101020,7 +100988,7 @@ emancipere/6,143,148
 emancipatorisk/917,976
 emancipation/70,73,7,976
 emanation/70,73,7,976
-em/737,70
+em/737,70,976
 emalje/70,73,7,976,939,947
 emaljere/6,143,148
 EM
@@ -101246,7 +101214,7 @@ elektrotekniker/20,7,70,976
 elektroteknik/46,70,976
 elektrostimulation/70,73,7,976
 elektrostatisk/917,976
-elektrostatik/737,70
+elektrostatik/737,70,976
 elektropositiv/70,962,366
 elektronvolt/70,976
 elektronvolts
@@ -101259,7 +101227,7 @@ elektron/70,73,7,976,941,947
 elektron-/942,946
 elektronblitz/70,7,252,976
 elektronhjerne/70,73,7,976
-elektronik/737,70,941,947
+elektronik/737,70,976,941,947
 elektromagnetisk/917,976
 elektromagnetisme/193,70,976
 elektromekaniker/20,7,70,976
@@ -101275,8 +101243,8 @@ elektrolyse/193,70,976
 elektroindustri/70,73,7,976
 elektrogalvanisering/193,70,976
 elektrofører/20,7,70,976
-elektrode/70,73,7,976
-elektrodynamik/737,70
+elektrode/70,73,7,976,941,947
+elektrodynamik/737,70,976
 elektroencefalogram/70,9,976
 elektrofiskeri/70,10,73,976
 elektroforese/70,73,7,976
@@ -101325,7 +101293,7 @@ elefantordnerne/976
 elefantordenernes/976
 elefantordnernes
 elefantiasis/190,976
-elefantgræs/70,736
+elefantgræs/70,736,976
 elefantfod/70,976
 elefantfods/976
 elefantfoden/976
@@ -101458,7 +101426,7 @@ ekstraarbejde/70,10,73,976
 ekstraarbejder/20,7,70,976
 ekstrabetaling/70,73,7,976
 ekstrablad/10,70,20,976
-eksterritorialret/737,70
+eksterritorialret/737,70,976
 ekstern/70,962,366
 eksteriør/70,10,73,976
 ekstensiv/70,962,366
@@ -101615,7 +101583,7 @@ ekskrementernes
 ekskone/70,73,7,976
 ekskommunikation/70,73,7,976
 eksklusivitet/193,70,976
-eksklusive/944,946
+eksklusive
 eksklusivaftale/70,73,7,976
 ekskludere/6,143,148
 ekskludering/70,73,7,976
@@ -102084,7 +102052,7 @@ efterslægt/70,73,7,976
 efterslæt/70,254,976
 eftersmag/20,7,70,976
 eftersmæk/70,254,976
-eftersnak/737,70
+eftersnak/737,70,976
 eftersnakker/20,7,70,976
 eftersom
 eftersommer/70,976
@@ -102146,7 +102114,7 @@ eftermiddagsavis/70,73,7,976
 eftermiddag/20,7,70,976,939,947
 efterlønner/20,7,70,976
 efterlysning/70,73,7,976
-efterløn/737,70,939,947
+efterløn/737,70,976,939,947
 efterlyse/140,143,148
 efterliv/70,252,10,976
 efterligning/70,73,7,976
@@ -102345,12 +102313,12 @@ efterbearbejde/6,143,148
 efter-/942,946
 efterabe/6,143,148
 efterabning/70,73,7,976
-efter/944,946
+efter
 efter
 efter
 
 EFTA/55
-EF-ret/737,70
+EF-ret/737,70,976
 EF-retlig/207,70,366,976
 EFsamarbejde/194,70,976
 EF-sprog/194,70,976
@@ -102480,7 +102448,7 @@ ecuadorianske/976
 ecuadorianskes
 ecu/70,7,252,976
 eclair/70,7,252,976
-ebonit/737,70
+ebonit/737,70,976
 Ebeltoft/55
 ebbe/193,70,976
 ebbe
@@ -103091,7 +103059,7 @@ dækadresse/70,73,7,976
 dæk-/942,946
 dæk/70,254,976,941,947
 dæggelam/70,254,976
-dyvelsdræk/70,736
+dyvelsdræk/70,736,976
 dytte
 dytter
 dyttes
@@ -103291,7 +103259,7 @@ dynastisk/917,976
 dynasti/70,10,73,976
 dynamolygte/70,73,7,976
 dynamo/70,73,7,976
-dynamit/737,70,941,947
+dynamit/737,70,976,941,947
 dynamisk/917,976
 dynamisere/6,143,148
 dyn/70,976
@@ -103619,7 +103587,7 @@ dugfrisk/917,976
 dufte/6,143,148
 duftløs/70,962,366
 dug/20,7,70,976,940,947
-dug/737,70,941,947
+dug/737,70,976,941,947
 dugfri/70,962,366
 duft/20,7,70,976,941,947
 duform/70,73,7,976
@@ -104133,7 +104101,7 @@ driftsmidler/976
 driftsmidlers/976
 driftsmidlerne/976
 driftsmidlernes
-driftsmateriel/70,736
+driftsmateriel/70,736,976
 driftsliv/70,252,10,976
 driftslån/70,252,10,976
 driftsledelse/70,73,7,976
@@ -104293,7 +104261,7 @@ dramaturg/70,73,7,976
 dramatisk/917,976
 dramatisering/70,73,7,976
 dramatisere/6,143,148
-dramatik/737,70
+dramatik/737,70,976
 dramadokumentarisk/917,976
 drama/70,10,73,976
 dram/70,133,976
@@ -104457,7 +104425,7 @@ donkeymændenes
 donkraft/70,73,7,976
 donna/70,73,7,976
 domsudskrift/70,73,7,976
-domæne/70,10,73,976
+domæne/70,10,73,976,941,947
 Don/55
 donation/70,73,7,976
 donator/70,73,7,976
@@ -104557,7 +104525,7 @@ dominant/976
 dominants/976
 dominante/976
 dominantes
-dolomit/737,70
+dolomit/737,70,976
 dolme/70,73,7,976
 dolman/70,73,7,976
 dollarseddel/70,976
@@ -104619,7 +104587,7 @@ dogmatiker/20,7,70,976
 dogmatisere/6,143,148
 dogmatisk/917,976
 dogmatisme/193,70,976
-dogme/70,10,73,976
+dogme/70,10,73,976,941,947
 dok/46,70,976,941,947
 dokke/70,73,7,976
 doglap/70,976
@@ -105038,7 +105006,7 @@ diskontinuerte/976
 diskontinuertes
 diskonto/70,73,7,976
 diskontinuerlig/207,70,366,976
-diskomusik/737,70
+diskomusik/737,70,976
 diskodronning/70,73,7,976
 diskofil/70,962,366
 diskografi/70,73,7,976
@@ -105137,7 +105105,7 @@ direkthed/193,70,976
 direktion/70,73,7,976,939,947
 diplomatfrakke/70,73,7,976
 diplomati/70,10,73,976
-diplomatik/737,70
+diplomatik/737,70,976
 diplomatisk/917,976
 dipol/70,73,7,976
 dippedut/46,70,976
@@ -105321,7 +105289,7 @@ die/6,143,148
 diegivende/916,976
 die/190,976
 didaktisk/917,976
-didaktik/46,70,976
+didaktik/46,70,976,941,947
 did
 
 diatonisk/917,976
@@ -105413,7 +105381,7 @@ diagonal/70,73,7,976
 diagonaldæk/70,254,976
 diagnostiker/20,7,70,976
 diagnosticering/70,73,7,976
-diagnostik/737,70
+diagnostik/737,70,976
 diagnosticere
 diagnostisere
 diagnosticerer
@@ -105448,7 +105416,7 @@ detronisere/6,143,148
 detronisering/70,73,7,976
 detteher
 
-deuterium/70,736
+deuterium/70,736,976
 devaluere/6,143,148
 devaluering/70,73,7,976
 development/70,10,73,976
@@ -105916,7 +105884,7 @@ denimbukser/70,976
 denimbuksers/976
 denimbukserne/976
 denimbuksernes
-denim/737,70
+denim/737,70,976
 denier/70,976
 deniers
 dengse/70,73,7,976
@@ -106193,7 +106161,7 @@ dekadence/193,70,976
 degustation/193,70,976
 dehydrere/6,143,148
 dehydrering/70,73,7,976
-deiksis/737,70,941,947
+deiksis/737,70,976,941,947
 deisme/193,70,976
 dej/20,7,70,976,941,947
 dejagtig/207,70,366,976
@@ -106228,7 +106196,7 @@ definere/6,143,148
 defilering/70,73,7,976
 definerbar/70,962,366
 defilere/6,143,148
-deficit/70,736
+deficit/70,736,976
 defensiv/70,962,366
 defensivt
 
@@ -106440,7 +106408,7 @@ dataoverførslers/976
 dataoverførslerne/976
 dataoverførslernes
 datakriminalitet/193,70,976
-datamatik/737,70
+datamatik/737,70,976
 datamat/70,73,7,976
 datamaskine/70,73,7,976
 datalære/193,70,976
@@ -106836,7 +106804,7 @@ dagplejemødrene/976
 dagplejemødrenes
 dagplejehjem/70,254,976
 dagpengegivende/916,976
-dagpengeret/737,70
+dagpengeret/737,70,976
 dagplads/70,73,7,976
 dagpleje/70,73,7,976,941,947
 dagplejebarn/70,976
@@ -106847,7 +106815,7 @@ dagplejebørn/976
 dagplejebørns/976
 dagplejebørnene/976
 dagplejebørnenes
-dagløn/737,70,939,947
+dagløn/737,70,976,939,947
 dagning/193,70,976
 dagpatient/70,73,7,976
 dagpenge/70,976
@@ -106998,7 +106966,7 @@ d/402
 D/402
 cølibat/194,70,976
 D/70
-cæsium/70,736,941,947
+cæsium/70,736,976,941,947
 cæsur/70,73,7,976
 cæsar/70,976
 cæsars/976
@@ -107370,7 +107338,7 @@ cotangens/190,976
 cottoncoat/70,73,7,976
 coulomb/70,976
 coulombs
-countrymusik/737,70
+countrymusik/737,70,976
 countryrock/193,70,976
 countrysanger/20,7,70,976
 coupe/70,976
@@ -107424,7 +107392,7 @@ cornflakesenes
 consensus/190,976
 container/20,7,70,976,941,947
 containerplads/70,73,7,976
-contra/944,946
+contra
 cool/976
 cools
 congolesisk/917,976
@@ -108205,7 +108173,7 @@ cerut/46,70,976
 certifikat/70,10,73,976,941,947
 certificering/70,73,7,976,939,947
 certificere/6,143,148
-cerium/70,736
+cerium/70,736,976
 ceremoniel/70,9,976
 ceremoniel/1106,70,366
 ceremoni/70,73,7,976,941,947
@@ -108434,7 +108402,7 @@ cd-plade/70,73,7,976
 cayennepeber/194,70,976
 causeri/70,10,73,976
 causere/6,143,148
-catgut/737,70
+catgut/737,70,976
 cateringsvirksomhed/70,976
 cateringvirksomhed/976
 cateringsvirksomheds/976
@@ -108527,7 +108495,7 @@ cancer/20,7,70,976
 cancergrill/70,73,7,976
 cand.
 candyfloss/70,73,7,976
-cannabis/737,70
+cannabis/737,70,976
 canadier/20,7,70,976
 canadisk/917,976
 canarisk/917,976
@@ -108876,7 +108844,7 @@ bøvs/10,70,20,976
 bøvle/6,143,148
 bøvl/194,70,976
 bøvet/70,1062
-bøttesmør/70,736
+bøttesmør/70,736,976
 bøttepapir/194,70,976
 bøtte/70,73,7,976
 bøssebar/70,73,7,976
@@ -109454,7 +109422,7 @@ byttede
 byttedes
 byt
 bytorv/10,70,20,976
-bytrafik/737,70
+bytrafik/737,70,976
 bytning/70,73,7,976
 byting/70,252,10,976
 byte/70,7,252,976
@@ -109700,7 +109668,7 @@ byggets
 byggede
 byggedes
 byg
-byg/737,70,941,947
+byg/737,70,976,941,947
 bygade/70,73,7,976
 byfornyelsesbeslutning/70,73,7,976
 byfornyelse/70,73,7,976,939,947
@@ -110454,7 +110422,7 @@ bræddestablerne/976
 bræddestablernes
 bræddevæg/70,133,976
 bræge/6,143,148
-bræk/70,736,941,947
+bræk/70,736,976,941,947
 brække
 brækker
 brækkes
@@ -110540,7 +110508,7 @@ bryllup/70,9,976,939,947
 bryllupsbillede/70,10,73,976
 bryggers/70,10,73,976,941,947
 bryggerhest/20,7,70,976
-bryggeri/70,10,73,976
+bryggeri/70,10,73,976,941,947
 bryggeriarbejder/20,7,70,976
 bryggekar/70,976
 bryggekarret/976
@@ -110625,7 +110593,7 @@ brusen/190,976
 brushane/70,73,7,976
 brushoved/70,10,73,976
 brusk/20,7,70,976,941,947
-bruskbarok/737,70
+bruskbarok/737,70,976
 brusket/70,1062
 brusten/976
 brustens/976
@@ -111742,7 +111710,7 @@ bord/10,70,20,976,941,947
 bordben/70,252,10,976
 bopæl/20,7,70,976,939,947
 boplads/70,73,7,976
-bop/737,70,941,947
+bop/737,70,976,941,947
 booste/6,143,148
 boopgørelse/70,73,7,976
 bookingfirma/70,10,73,976
@@ -112249,7 +112217,7 @@ boblekamrene/976
 boblekamrenes
 boble/70,73,7,976
 boble/6,143,148,941,947
-bobinet/70,736
+bobinet/70,736,976
 bobestyrer/20,7,70,976
 bobbe
 bobber
@@ -112469,7 +112437,7 @@ blæksorts/976
 blæksorte/976
 blæksortes
 blytung/70,962,366
-blæk/70,736,941,947
+blæk/70,736,976,941,947
 blækhat/70,133,976
 blyholdig/207,70,366,976
 blyhvidt/194,70,976
@@ -112676,7 +112644,7 @@ blomsterplante/70,73,7,976
 blomsterpind/20,7,70,976
 blomsterpige/70,73,7,976
 blomsterpark/70,73,7,976
-blomsterornamentik/737,70
+blomsterornamentik/737,70,976
 blomsteropsats/70,73,7,976
 blomstermønstret/70,1062
 blomstermønster/70,252,10,976
@@ -112755,7 +112723,7 @@ blomsterbørns/976
 blomsterbørnene/976
 blomsterbørnenes
 blomsteranlæg/70,254,976
-blomst/70,73,7,976,947
+blomst/70,73,7,976,437,947
 blommesten/70,7,252,976
 blomme/70,73,7,976,941,947
 blommefarvet/70,1062
@@ -112763,7 +112731,7 @@ bloktilskud/70,254,976
 blokvogn/20,7,70,976
 blomkål/70,7,252,976,939,947
 blomkålsgratin/70,73,7,976
-blokpolitik/737,70
+blokpolitik/737,70,976
 Bloksbjerg/55
 bloklys/70,252,10,976
 blokering/70,73,7,976
@@ -112832,11 +112800,11 @@ blodtilførslerne/976
 blodtilførslernes
 blodtilsølet/70,1062
 blodtransfusion/70,73,7,976
-blodtryk/70,736,939,947
+blodtryk/70,736,976,939,947
 blodtryksforhøjelse/70,73,7,976
 blodsudgydelse/70,73,7,976
 blodstænk/70,252,10,976
-blodskam/737,70,939,947
+blodskam/737,70,976,939,947
 blodskamsforhold/70,252,10,976
 blodskudt/976
 blodskudts/976
@@ -113074,7 +113042,7 @@ blegsottigst/976
 blegsotigste/976
 blegsottigste/976
 blegsotigste
-blik/70,736,941,947
+blik/70,736,976,941,947
 blidt
 
 blidhed/193,70,976
@@ -113198,9 +113166,9 @@ blanket/46,70,976
 blankhed/193,70,976
 blankocheck/70,7,252,976
 blandingsbatteri/70,10,73,976
-blandingssmør/70,736
+blandingssmør/70,736,976
 blandsæd/193,70,976
-blandt/944,946
+blandt
 blandt
 
 blank/70,962,366
@@ -113954,7 +113922,7 @@ bikinitop/70,133,976
 bikage/70,73,7,976
 bikarbonat/70,10,73,976
 bikini/70,73,7,976
-bigbandmusik/737,70
+bigbandmusik/737,70,976
 bigot/207,70,366,976
 bigotteri/194,70,976
 bihensigt/70,73,7,976
@@ -114696,16 +114664,7 @@ besprøjte/6,143,148
 bespottelse/70,73,7,976
 bespisning/70,73,7,976
 besmudse/6,143,148
-besmykke
-besmykker
-besmykkes
-besmykkende
-besmykkendes
-besmykket
-besmykkets
-besmykkede
-besmykkedes
-besmyk
+besmykke/6,143,148
 bespottelig/207,70,366,976
 beslå
 beslår
@@ -114729,16 +114688,7 @@ beslægtet/70,1062
 besluttet/70,1062
 beslutter/20,7,70,976
 besluttende/916,976
-beslutte
-beslutter
-besluttes
-besluttende
-besluttendes
-besluttet
-besluttets
-besluttede
-besluttedes
-beslut
+beslutte/6,143,148
 beslutsomhed/193,70,976
 beslutningstagning/70,73,7,976
 beslutsom/1025,366,976
@@ -114816,16 +114766,7 @@ beskyttelsesbrillerne/976
 beskyttelsesbrillernes
 beskyttelsesbrille/70,73,7,976
 beskyttelse/70,73,7,976,939,947
-beskytte
-beskytter
-beskyttes
-beskyttende
-beskyttendes
-beskyttet
-beskyttets
-beskyttede
-beskyttedes
-beskyt
+beskytte/6,143,148
 beskydning/70,73,7,976
 beskylde/140,143,148
 beskyldning/70,73,7,976
@@ -115006,7 +114947,7 @@ berømmets
 berømmede
 berømmedes
 berøm
-beryllium/70,736
+beryllium/70,736,976
 beryl/46,70,976
 berygtet/70,1062
 beruser/20,7,70,976
@@ -115398,7 +115339,7 @@ bekæmpelsesmidlerne/976
 bekæmpelsesmidlernes
 bekæmpelse/70,73,7,976
 bekæmpe/6,143,148
-bekymring/70,73,7,976
+bekymring/70,73,7,976,939,947
 bekymret/70,1062
 bekymre/6,143,148
 bekvemt
@@ -116167,7 +116108,7 @@ bebudelse/70,73,7,976
 bebude/6,143,148
 bebrillet/70,1062
 bebrejdelse/70,73,7,976
-bebop/737,70,941,947
+bebop/737,70,976,941,947
 bebrejde/6,143,148
 beboerblad/10,70,20,976
 beboer/20,7,70,976,941,947
@@ -116238,7 +116179,7 @@ bavle/6,143,148
 bavl/194,70,976
 battledress/70,252,10,976
 bautasten/20,7,70,976
-bauxit/737,70
+bauxit/737,70,976
 bauxitforekomst/70,73,7,976
 bavian/70,73,7,976
 batikfarvet/70,1062
@@ -116458,9 +116399,9 @@ baronesse/70,73,7,976
 baron/70,73,7,976
 barometerstand/193,70,976
 barometer/70,252,10,976
-barokmusik/737,70
+barokmusik/737,70,976
 barograf/70,73,7,976
-barok/737,70,941,947
+barok/737,70,976,941,947
 barok/1106,70,366
 barnlig/207,70,366,976
 barnlighed/70,73,7,976
@@ -116575,7 +116516,7 @@ barnemorder/20,7,70,976
 barnemund/20,7,70,976
 barnenumse/70,73,7,976
 barnepige/70,73,7,976
-barnepjat/70,736
+barnepjat/70,736,976
 barnepleje/193,70,976
 barnemoder/70,976
 barnemor/976
@@ -116711,7 +116652,7 @@ barndomsminderne/976
 barndomsmindernes
 barnagtig/207,70,366,976
 barnagtighed/70,73,7,976
-barndom/737,70,939,947
+barndom/737,70,976,939,947
 barndomsegn/20,7,70,976
 barndomserindringer/70,976
 barndomserindringers/976
@@ -116747,7 +116688,7 @@ bardunstrammer/20,7,70,976
 bardus
 
 barhovedet/70,1062
-barium/70,736,941,947
+barium/70,736,976,941,947
 bark/193,70,976,941,947
 baret/46,70,976
 barfodet/70,1062
@@ -116780,7 +116721,6 @@ bar/70,73,7,976,941,947
 bar/70,976
 bars
 bar/70,962,366
-bar/194,70,976
 baptist/70,73,7,976
 bantufolk/70,252,10,976
 baobabtræ/70,10,73,976
@@ -116966,7 +116906,7 @@ ballon/70,73,7,976,941,947
 ballistisk/917,976
 ballettoman/70,73,7,976
 ballettoman/70,962,366
-ballistik/737,70
+ballistik/737,70,976
 balletstjerne/70,73,7,976
 balletchef/70,73,7,976
 balletsko/70,7,252,976
@@ -117063,10 +117003,10 @@ bakkets
 bakkede
 bakkedes
 bak
-bakelit/737,70,941,947
+bakelit/737,70,976,941,947
 bak
 
-bak/737,70,941,947
+bak/737,70,976,941,947
 bajonetsav/20,7,70,976
 bajonetplante/70,73,7,976
 bajonet/46,70,976
@@ -117363,7 +117303,7 @@ bagage/193,70,976,941,947
 bag/190,976
 bag
 
-bag/944,946
+bag
 bag/20,7,70,976
 badut
 badutspring/70,252,10,976
@@ -117523,7 +117463,7 @@ ave/190,976
 avec/70,73,7,976,941,947
 avantgardist/70,73,7,976,941,947
 avantgardisme/193,70,976,941,947
-avantgardemusik/737,70,941,947
+avantgardemusik/737,70,976,941,947
 avantgarde/70,73,7,976,941,947
 avancere/6,143,148
 avancementsstilling/70,73,7,976,939,947
@@ -117564,7 +117504,7 @@ automobilmuseernes
 automekaniker/20,7,70,976,941,947
 automatisk/917,976
 automatisering/70,73,7,976,939,947
-automatik/737,70,941,947
+automatik/737,70,976,941,947
 automation/70,73,7,976,939,947
 automatisere/6,143,148
 automatgear/70,252,10,976,941,947
@@ -117638,7 +117578,7 @@ aurikler/976
 auriklers/976
 auriklerne/976
 auriklernes
-au pair
+au pair/466
 aura/70,73,7,976
 aula/70,73,7,976
 augustinermunk/20,7,70,976
@@ -117851,7 +117791,7 @@ atlantisk/917,976
 atlas/70,9,976
 atlask/194,70,976
 atlet/70,73,7,976
-atletik/737,70,941,947
+atletik/737,70,976,941,947
 athensk/976
 athensks/976
 athenske/976
@@ -117880,7 +117820,7 @@ asynkron/70,962,366
 astronom/70,73,7,976
 astronomisk/917,976
 astronomi/70,73,7,976
-astronautik/737,70
+astronautik/737,70,976
 astronaut/70,73,7,976
 astrologisk/917,976
 astrologi/193,70,976
@@ -118022,7 +117962,7 @@ asfaltbal/70,9,976
 asfaltboble/70,73,7,976
 asfaltere/6,143,148
 asfaltering/70,73,7,976
-aseptik/737,70
+aseptik/737,70,976
 aseptisk/917,976
 asfalt/193,70,976
 aseksuel/1106,70,366
@@ -118135,7 +118075,7 @@ artefakt/70,73,7,976
 art/70,73,7,976,939,947
 arte/6,143,148
 arsenal/70,10,73,976
-arsenik/737,70,941,947
+arsenik/737,70,976,941,947
 arsen/194,70,976
 arrogant/976
 arrogants/976
@@ -118386,7 +118326,7 @@ arbejdsprogram/70,9,976
 arbejdspræstation/70,73,7,976
 arbejdspsykologi/70,73,7,976
 arbejdsredskab/70,10,73,976
-arbejdsret/737,70
+arbejdsret/737,70,976
 arbejdsretlig/207,70,366,976
 arbejdspres/70,254,976
 arbejdspligt/70,73,7,976
@@ -118635,7 +118575,7 @@ apsidernes/976
 apsisernes/976
 apsissernes
 apropos/70,10,73,976
-apropos/944,946
+apropos
 apriorisk/917,976
 aprilsnar/130,70,976
 aprilsvejr/70,976
@@ -118668,7 +118608,7 @@ appetitvækker/20,7,70,976
 applaudere/6,143,148
 appetitløshed/193,70,976
 appetitlig/207,70,366,976
-appetit/737,70,941,947
+appetit/737,70,976,941,947
 apperception/70,73,7,976
 appendiks/70,10,73,976
 appendicit/46,70,976
@@ -118785,7 +118725,7 @@ antropomorf/70,962,366
 antrit/70,254,976
 antropolog/70,73,7,976
 antonym/70,10,73,976
-antracit/737,70,941,947
+antracit/737,70,976,941,947
 antitoksin/70,10,73,976
 antitotalitær/70,962,366
 antologi/70,73,7,976
@@ -118800,7 +118740,7 @@ antistof/70,9,976
 antistatisk/917,976
 antiskating/193,70,976
 antiseptisk/917,976
-antiseptik/737,70
+antiseptik/737,70,976
 antisemitisme/193,70,976
 antisemitisk/917,976
 antisemit/46,70,976
@@ -118967,7 +118907,7 @@ antagne
 antagnes
 antag
 antabusbehandling/70,73,7,976
-antabus/737,70,941,947
+antabus/737,70,976,941,947
 ansøgningsblanket/46,70,976
 ansøgning/70,73,7,976,939,947
 ansøger/20,7,70,976,941,947
@@ -119414,7 +119354,7 @@ animalsk/976
 animalsks/976
 animalske/976
 animalskes
-angående/944,946
+angående
 anhang/70,252,10,976
 anholde
 anholder
@@ -119854,7 +119794,7 @@ anarkistisk/917,976
 anamnese/70,73,7,976
 ananas/46,70,976,941,947
 analytisk/917,976
-analytiker/20,7,70,976
+analytiker/20,7,70,976,941,947
 analysere/6,143,148
 analyserbar/70,962,366
 analysefirma/70,10,73,976
@@ -119978,12 +119918,12 @@ amortisation/70,73,7,976
 amnesti/70,73,7,976
 ammunitionsdepot/70,10,73,976
 ammonit/46,70,976
-ammonium/70,736,941,947
+ammonium/70,736,976,941,947
 ammoniumklorid/70,10,73,976
 ammunition/193,70,976,939,947
-ammoniak/737,70,941,947
+ammoniak/737,70,976,941,947
 ammoniakfordampning/70,73,7,976
-ammestuesnak/737,70
+ammestuesnak/737,70,976
 ammestuehistorie/70,73,7,976
 ammeko/70,976
 ammekos/976
@@ -120133,7 +120073,7 @@ alufolie/70,73,7,976
 aluform/20,7,70,976
 alufælg/20,7,70,976
 alumina/190,976
-aluminium/70,736
+aluminium/70,736,976,939,947
 aluminiumsfolie/70,73,7,976
 alumnat/70,10,73,976
 alumne/70,73,7,976
@@ -120265,7 +120205,7 @@ almenskole/70,73,7,976
 almensprog/194,70,976
 almentdannende/916,976
 almentilstand/20,7,70,976
-almenvel/70,736
+almenvel/70,736,976
 almenviden/190,976
 almindelig/207,70,366,976
 almindeliggøre
@@ -120304,7 +120244,7 @@ almendannende/916,976
 almendannelse/70,73,7,976
 almenbegreb/70,10,73,976
 almenbefindende/194,70,976
-almen/70,962,366
+almen/70,962,366,941,947
 almanakhistorie/70,73,7,976
 almanak/46,70,976
 almagt/193,70,976
@@ -120627,7 +120567,7 @@ aldeles
 alder/70,7,252,976,939,947
 aldre/976
 aldres
-alderdom/737,70,939,947
+alderdom/737,70,976,939,947
 alderdomsforskning/193,70,976
 album/70,9,976
 albue/6,143,148,941,947
@@ -120705,7 +120645,7 @@ aktivisme/193,70,976
 aktivist/70,73,7,976
 aktivisering/70,73,7,976
 aktivisere/6,143,148
-aktivering/70,73,7,976
+aktivering/70,73,7,976,939,947
 aktivere/6,143,148
 aktivbank/70,73,7,976
 aktivator/70,73,7,976
@@ -120799,7 +120739,7 @@ akrobatnumres/976
 akrobatnumrene/976
 akrobatnumrenes
 akrobat/70,73,7,976
-akrobatik/737,70,941,947
+akrobatik/737,70,976,941,947
 akrobatisk/917,976
 akkuratesse/193,70,976
 akkusativ/70,73,7,976
@@ -121521,7 +121461,7 @@ afspændingsmidler/976
 afspændingsmidlers/976
 afspændingsmidlerne/976
 afspændingsmidlernes
-afspændingsgymnastik/737,70,941,947
+afspændingsgymnastik/737,70,976,941,947
 afspænding/193,70,976,939,947
 afspænde/140,143,148
 afsporing/70,73,7,976
@@ -122236,7 +122176,7 @@ afkriminalisere/6,143,148
 afkriminalisering/70,73,7,976
 afkristne/6,143,148
 afkorte/6,143,148
-afkom/70,736,939,947
+afkom/70,736,976,939,947
 afkolonisering/70,73,7,976
 afkokse/6,143,148
 afkolonisere/6,143,148
@@ -122327,7 +122267,7 @@ formatering/70,73,7,976,939,947
 central/913,70,366,976,941,947
 forskellig/913,70,366,976
 afsnitstypografi/70,73,7,976,941,947
-linjeafslutning/939,947
+linjeafslutning/,939,947
 foranstillet/976
 foranstillede/976
 foranstilledes/976
@@ -122441,7 +122381,6 @@ menupunkt/70,73,7,976,939,947
 shtml
 HTML/466
 javascript/55,941,947
-Writer/55,466
 overskrive
 overskrev
 overskrevet
@@ -122464,10 +122403,10 @@ webbet/976
 webben/976
 webbets/976
 webbens
-Bru
+Bru/,
 meta/942,946,941,947
 flash/70,976,466
-OOo
+OOo/941,947
 deaktivere/6,143,148
 genindlæse/140,143,148
 Perl/55,941,947
@@ -122513,7 +122452,7 @@ tillærte
 bi/942,946,941,947
 CMS/466
 CRM/466
-E-post/941,947
+E-post/,941,947
 idriftsætning/70,73,7,976,939,947
 hjemme-pc/70,73,7,976,466
 c.c.
@@ -122550,7 +122489,7 @@ komite/70,73,7,976,941,947
 OASIS
 filendelse/70,73,7,976,939,947
 tog/70,252,10,976,941,947
-pps
+pps/,
 DocBook/190,976
 rtf/466
 txt/466
@@ -122583,7 +122522,7 @@ pps
 sagkyndig/913,70,366,976,941,947
 makro/942,946,941,947
 WWF
-XBM/944,946
+XBM
 stampe
 hovedsageligt
 workshop/70,976
@@ -122618,8 +122557,8 @@ defekt/913,70,366,976
 vedhæfte/6,143,148
 ulåst/976
 ulåste
-Drop-down/944,946
-Resum
+Drop-down
+Resum/,
 Words/55
 Word
 Mail/70,976,941,947
@@ -122629,7 +122568,7 @@ mails/976
 mailsene
 Sigrid/55
 Kronenberger/55
-paramenter
+paramenter/,
 John/55
 Gary/55
 Schnabl/55
@@ -122657,7 +122596,7 @@ Pontoppidan/55
 yahoo/55
 downloade/6,143,148
 jdk
-jar
+jar/,
 Inkscape/55
 FDF
 kryptering/70,73,7,976,939,947
@@ -122678,8 +122617,8 @@ Uncial/70,73,7,976,941,947
 DictOOo/55,466
 Mandriva/55
 rpm/466
-su
-tar
+su/,
+tar/,
 Metallica/55
 begynde/140,143,148
 Aalborg/55
@@ -122704,10 +122643,10 @@ Business
 PBS
 Lautrupbjerg/55
 Inkl.
-umn
+umn/,
 entitet/70,73,7,976
 Fujitsu/55
-IB
+IB/,
 Nørregade/699,55
 virring/699,55
 dimensional/976
@@ -123313,7 +123252,7 @@ af-/942,946
 aerosoldåse/70,73,7,976
 af/466
 
-af/944,946
+af
 aeronaut/70,73,7,976
 aeronautisk/917,976
 aeroplan/70,10,73,976
@@ -123601,8 +123540,8 @@ adagio
 
 ad
 
-ad/944,946
-ad/944,946
+ad
+ad
 actionmættet/70,1062
 actionfilm/70,7,252,976
 action/190,976,941,947
@@ -123709,9 +123648,9 @@ abdicere/6,143,148
 ABC/401
 abbedi/70,10,73,976
 abbed/70,73,7,976,941,947
-ab/944,946
+ab
 A-aktie/70,73,7,976
-a/944,946
+a
 a/402
 A
 68-generation/70,73,7,976
@@ -124366,7 +124305,7 @@ vipstjerterne/976
 vipstjærterne/976
 vipstjerternes/976
 vipstjærternes
-virak/737,70
+virak/737,70,976
 vire/70,73,7,976
 Virginia/55
 virginiatobak/46,70,976
@@ -124514,15 +124453,15 @@ visa/70,976
 visas/976
 visane/976
 visanes
-vis-a-vis/944,946
+vis-a-vis
 vis-a-vis
 visavis
 vis-à-vis/190,976
 vis-à-vis
 visàvis
-vis-à-vis/944,946
+vis-à-vis
 viscose/942,946
-visdom/737,70,939,947
+visdom/737,70,976,939,947
 visdomsbog/70,976
 visdomsbogs/976
 visdomsbogen/976
@@ -124606,7 +124545,7 @@ visirklædts/976
 visirklædte/976
 visirklædtes
 visit/46,70,976
-visitation/70,73,7,976
+visitation/70,73,7,976,939,947
 visitator/70,73,7,976
 visitatsbog/70,976
 visitatsbogs/976
@@ -124629,7 +124568,7 @@ viskos/70,962,366
 viskose/193,70,976
 viskositet/193,70,976
 viskøs/70,962,366
-vismand/70,976
+vismand/70,976,939,947
 vismands/976
 vismanden/976
 vismandens/976
@@ -124799,7 +124738,7 @@ voksdug/193,70,976
 voksdukke/70,73,7,976
 vokse/6,143,148,941,947
 voksealder/193,70,976
-voksen/976
+voksen/976,941,947
 voksens/976
 voksents/976
 voksne/976
@@ -124833,7 +124772,7 @@ voksenliv/194,70,976
 voksenpædagogik/193,70,976
 voksenpædagogisk/917,976
 voksensamfund/70,252,10,976
-voksensnak/737,70
+voksensnak/737,70,976
 voksenteater/70,252,10,976
 voksentid/70,73,7,976
 voksentilværelse/193,70,976
@@ -125641,14 +125580,20 @@ vævsstrammende/916,976
 vævstype/70,73,7,976
 vævsvæske/70,73,7,976
 vølve/70,73,7,976
-våben/70,976
+våben/70,976,941,947
 våbenet/976
 våbnet/976
 våbenets/976
 våbnets/976
 våbens/976
 våbnene/976
-våbnenes
+våbnenes/976
+våbner/976
+våbners/976
+våbener/976
+våbeners/976
+våbnerne/976
+våbnernes
 våbenart/70,73,7,976
 våbenbesiddelse/70,73,7,976
 våbenbroder/70,976
@@ -125861,7 +125806,7 @@ wingback/70,73,7,976
 wire/70,73,7,976
 wirelås/20,7,70,976
 wobler/20,7,70,976
-wolfram/70,736,941,947
+wolfram/70,736,976,941,947
 Wood/55
 workshop/46,70,976
 wow/190,976
@@ -126848,7 +126793,7 @@ zygote/70,73,7,976
 ølmærke/70,10,73,976
 øloplukker/20,7,70,976
 ølsalg/70,252,10,976
-ølskum/70,736
+ølskum/70,736,976
 ølsort/70,73,7,976
 ølstue/70,73,7,976
 øltapper/20,7,70,976
@@ -137358,7 +137303,6 @@ Geer/55
 Geert/55
 Geir/55
 Gejr/55
-Gen/55,941,947
 Gene/55
 Geno/55
 Gent/55
@@ -141312,6 +141256,7 @@ Quattro/55
 Unicode/55
 OpenBasic/55,466
 VBA
+Beanshell/55
 plug-in/70,976
 plug-ins/976
 plug-inene/976
@@ -141322,21 +141267,27 @@ IBM/55
 Nautilus/55,466
 Konqueror/55,466
 KDE/55,466
+FreeBSD/55
 BitTorrent/55
-dokumentation
+dokumentation/,
 ikon/70,73,7,976
-servlets
+servlets/,
+au pair/70,73,7,976
 Microsystems/55,466
 hjemmeside/70,73,7,976,941,947
+OOExtras/55
 LGPL
 Free/70,976
+FSF
 stavekontrol/46,70,976,941,947
 Koncept/70,10,73,976
 lingucomponent/55,941,947
 filsystem/70,10,73,976,941,947
 varemærke/70,9,976,941,947
 xsl
+xst
 Laurenson/55,941,947
+sdp
 uforudset/913,70,366,976
 parameter/70,118,85,976,941,947
 Mobilnummer/70,976,941,947
@@ -141348,21 +141299,27 @@ Mobilnumres/976
 Mobilnumre/976
 Mobilnumres
 DTD
+WinZip/55,466
 McDonald/55
+Gentoo/55,466
+UNIX/55,466
 MacOS/55
 FC
 browse/6,143,148
 Ubuntu/55
+Debian/55,466
 DVD/401,466
+websted/70,10,73,976,939,947
 site/20,7,70,976
 internetbrowser/20,7,70,976
 nano/942,946
 konfigurere/6,143,148
 Foulum/699,55
 PC/466
+DSB/466
 Jylland/699,55,939,947
 OOXML
-Novell
+Novell/,
 odf/466
 https/466
 docx/466
@@ -141384,13 +141341,14 @@ paste/6,143,148
 style/6,143,148
 try/699,55
 listed/699,55
+switch/70,7,252,976
 trykt/976
 
 Aars/699,55
 Computerworld/55
 ISO-standard
 Massachusetts/55
-betyde
+betyde/,
 betød
 betydet
 finger/115,70,85,976,941,947
@@ -141402,7 +141360,7 @@ grine/6,143,148
 kanon/942,946
 lejr/20,7,70,976
 omklædningsrummet/70,254,976,939,947
-Bilka
+Bilka/,
 ødelægge
 ødelagde
 ødelagt
@@ -141442,7 +141400,7 @@ foretrukkens
 foretrukne
 foretruknes
 foretræk
-foretrække
+foretrække/,
 redegøre
 redegøres
 redegjorde
@@ -141513,7 +141471,7 @@ studenter/942,946,941,947
 besøge/140,143,148
 emnemæssig/913,70,366,976
 videregivelse/70,73,7,976
-nørre
+nørre/,
 undersøge/140,143,148
 Politiken/55
 Århus/55
@@ -141582,7 +141540,9 @@ UNICEF
 Cameroun/55
 underrette/6,143,148
 dr
+dating/193,70,976,941,947
 chatte/6,143,148
+cyberspace
 Slesvig/699,55
 Augustenborg/699,55
 Rusland/699,55
@@ -141594,7 +141554,7 @@ Hellerup/699,55
 Spanien/699,55
 Portugal/55
 Afrika/699,55
-Indien/55
+Indien/699,55,939,947
 Grenada/55
 Atlanterhavet/55
 muslimerne/70,73,7,976
@@ -141649,10 +141609,12 @@ betaget
 betagen
 betagne
 betagede
+Abba/55
 Vanløse/699,55
 velvære/194,70,976
 Jupiter/55
 Pluto/55
+Allah/55
 Lanka/55
 Malaysia/55
 grundlagde
@@ -141674,7 +141636,7 @@ Finland/699,55
 Belgien/699,55
 Paraguay/55
 Vesterhavet/699,55
-planlægge
+planlægge/,
 planlagde
 planlagt
 Hammershus/699,55
@@ -141704,6 +141666,7 @@ San/55
 Californien/55
 Maryland/55
 Islamabad/55
+burka/70,73,7,976,941,947
 Smith/55
 Glasgow/55
 Storbritannien/55
@@ -150490,7 +150453,7 @@ afinstallering/70,73,7,976,939,947
 korrespondance/46,70,976,941,947
 vedligeholdelse/70,73,7,976,939,947
 source/193,70,976,466
-koggen
+koggen/,
 Jerusalem/55
 forestilling/70,73,7,976,939,947
 vs.
@@ -150791,7 +150754,7 @@ flowdiagrammer
 Langagerskolen/55
 Nowak/55
 planlægning/70,73,7,976,939,947
-heuristik/737,70,941,947
+heuristik/737,70,976,941,947
 vognkapacitet/70,73,7,976,939,947
 Einstein/55
 afhøring/70,73,7,976,939,947
@@ -150815,7 +150778,7 @@ King/55
 snobrød/70,252,10,976,939,947
 understrege/6,143,148
 Svejts/55
-proaktiv
+proaktiv/,
 menneskeret/193,70,976,939,947
 dokumentar/70,73,7,976,941,947
 vende
@@ -150825,7 +150788,7 @@ zappe/6,143,148
 zapper/70,73,7,976,941,947
 tzatziki/193,70,976
 dertilhørende/976
-website
+website/,
 lemma/70,10,73,976
 opmærkning/70,73,7,976,939,947
 hardware/194,70,976
@@ -150876,8 +150839,8 @@ ram's
 rammens
 ram'enes
 samlebånd/70,252,10,976,939,947
-kompetence/941,947
-link
+kompetence/,941,947
+link/,
 metodemæssig/976
 metodemæssigt
 inkommodere/6,143,148
@@ -150891,7 +150854,7 @@ pascal/190,976
 Pa
 Botniske
 
-VIP
+VIP/,
 VIP/70,976,466
 VIP'en/976
 VIP'er/976
@@ -150918,7 +150881,7 @@ Nygade/55
 Ejerlavskode/55
 Howitzvej/55
 Stationsparken/55
-Stationsparken
+Stationsparken/,
 Helligkorsvej/55
 Rygårdsvænget/55
 Prøvestensvej/55
@@ -150987,10 +150950,12 @@ Sidon/55
 Kana/55
 Nikodemus/55
 deiktisk/913,70,366,976
-RNT
+RNT/,
 Calgary/699,55,941,947
 intranet/70,254,976,941,947
 intro/70,73,7,976,941,947
+spam/70,976,941,947
+spams
 grundlov/20,7,70,976,939,947
 pirateri/70,10,73,976
 venne/942,946
@@ -151058,7 +151023,7 @@ Nazaret/55
 Nineve/55
 Sarepta/55
 Tiberias/55
-Tiberias
+Tiberias/,
 Tiberias/55
 Tiberias/55
 Zion/55
@@ -151076,7 +151041,7 @@ grundlovsdage/976
 grundlovsdagen
 begrave/6,143,148
 brud/20,7,70,976,941,947
-
+/,
 byg
 foregive/466
 foregiver
@@ -151114,23 +151079,23 @@ aller/941,947
 bekæmpelse/70,73,7,976,939,947
 børne/942,946,941,947
 morgenmad/193,70,976,939,947
-val/737,70
+val/737,70,976
 uddeling/70,73,7,976
 powerpoint/55,466
 Impress/55,466
 Calc/55,939,947
 Excel/55,466
-multimedia/941,947
-vedligeholdelse
+multimedia/,941,947
+vedligeholdelse/,
 orddeling/70,73,7,976,939,947
 url
-skrot/70,736,941,947
+skrot/70,736,976,941,947
 saleprod/193,70,976
-ral/70,736,941,947
-petroleum/70,736,939,947
+ral/70,736,976,941,947
+petroleum/70,736,976,939,947
 ethanol/193,70,976,941,947
-offset/70,736,941,947
-mug/70,736
+offset/70,736,976,941,947
+mug/70,736,976
 Fedora Core/55
 højreklik/70,252,10,976
 cache/6,143,148,941,947
@@ -151142,10 +151107,10 @@ probe/70,73,7,976,941,947
 tal/70,254,976,941,947
 første/70,941,947
 fnokurt/46,70,976
-denim/70,736
+denim/70,736,976
 termo/942,946
-stuk/737,70,941,947
-slam/737,70,941,947
+stuk/737,70,976,941,947
+slam/737,70,976,941,947
 Ragnarok/55
 dankort/70,252,10,976,941,947
 fup/46,70,976
@@ -151153,16 +151118,16 @@ bræk/70,254,976,941,947
 Amager/699,55,941,947
 gns.
 gudeskøn/913,70,366,976
-
+/,
 selvmord
-
+/,
 med
 med/942,946,941,947
 selvmord/70,976,939,947
 selvmordene
-teenager
-eksembel
-bel
+teenager/,
+eksembel/,
+bel/,
 auto/70,73,7,976,941,947
 PDF/466
 kursus/70,976,941,947
@@ -151173,7 +151138,7 @@ kursussene/976
 kurserne
 forresten
 mis/942,946,941,947
-tyvepak/70,736
+tyvepak/70,736,976
 bortfalde
 bortfalder
 bortfaldes
@@ -151187,7 +151152,7 @@ bortfaldens
 bortfaldne
 bortfaldnes
 bortfald
-velmagt
+velmagt/,
 N
 velmagtsdag/20,7,70,976
 Nm
@@ -151205,15 +151170,16 @@ eufoni/70,73,7,976
 avance/70,73,7,976,941,947
 holocaust/70,10,73,976,941,947
 Draw/55,466
-josvabogen
-samuelsbog
-krønikebog
-efeserbrevet
-efeserbrevet
-kolossenserbrevet
-thessalonikerbrev 
-timotheusbrev
-Filemonbrevet
+josvabogen/,
+samuelsbog/,
+krønikebog/,
+efeserbrevet/,
+efeserbrevet/,
+kolossenserbrevet/,
+thessalonikerbrev /,
+timotheusbrev/,
+Filemonbrevet/,
+søvnapnø/70,976
 affektion/70,73,7,976,941,947
 bestikke/976,466
 bestak/976
@@ -151228,6 +151194,9 @@ nedbryde/976
 nedbrød/976
 nedbrudt
 kåring/70,73,7,976,466
+underholde
+underholder
+underholdt
 desformedelst/941,947
 avers/70,73,7,976,941,947
 velcro/193,70,976,941,947
@@ -151252,11 +151221,15 @@ sortekunstner/20,7,70,976,941,947
 desarmere/6,143,148
 ebola/193,70,976
 ebolaen
+splat
+lydhør/913,70,366,976
 undertvinge/70,976
 undertvang/976
 undertvunget/976
 undertvungen/976
 undertvungne
+supranational
+supranationale
 Duma/55,466
 Knesset/55,941,947
 perniciøs/913,70,366,976
@@ -151291,7 +151264,9 @@ Himalaya/699,55
 små/942,946
 fireogtyve/70
 fireogtyve/70
+abracadabra/194,70,976
 abstinere/6,143,148
+firewall/193,70,976
 virtualisering/70,73,7,976,939,947
 fireogtyve/70
 toogfyrre/70
@@ -151602,10 +151577,200 @@ fotografering/70,73,7,976,939,947
 sexist/70,73,7,976
 demarkation/70,73,7,976,939,947
 koincidens/70,73,7,976,941,947
-impotens
+impotens/,
 fåreskind/70,252,10,976,939,947
 yt
 büchnertragt/20,7,70,976,939,947
+jungmand/70,976
+jungmands/976
+jungmanden/976
+jungmandens/976
+jungmænd/976
+jungmænds/976
+jungmændene/976
+jungmændenes
+undertrykke/140,143,148
+øl/70,254,976,941,947
+svigerinde/70,73,7,976
+ oral/70,73,7,976,941,947
+badstue/70,73,7,976
+oral/70,73,7,976,941,947
+provokere/6,143,148
+understøtte
+understøtter
+understøttes
+understøttede
+understøttedes
+understøttende
+understøttendes
+understøttet
+understøtten
+understøt
+operationaliserbar/913,70,366,976
+operationaliserbarhed/70,73,7,976,939,947
+sandsynliggøre
+sandsynliggør
+sandsynliggøres
+sandsynliggjorde
+sandsynliggjordes
+sandsynliggørende
+sandsynliggjort
+sandsynliggøren
+sandsynliggør
+Hæfte/70,10,73,976,941,947
+didaktologi/70,73,7,976
+menneske/70,252,10,976
+luftfart/70,73,7,976,939,947
+Latinamerika/55
+misforstå
+misforstår
+misforstod
+misforstået
+misforstås
+om/942,946
+apnø/70,73,7,976
+lemfældighed/70,73,7,976,939,947
+misdanne/6,143,148
+voksenindhold/194,70,976,939,947
+midter/942,946
+kørbar/913,70,366,976
+åndbar/913,70,366,976
+udokumenterbar/913,70,366,976
+tændbar/913,70,366,976
+transporterbar/913,70,366,976
+tipbar/913,70,366,976
+svejsbar/913,70,366,976
+substituerbar/913,70,366,976
+spaltbar/913,70,366,976
+placerbar/913,70,366,976
+perforerbar/913,70,366,976
+omkobbelbar/913,70,366,976
+negligerbar/913,70,366,976
+møblerbar/913,70,366,976
+monterbar/913,70,366,976
+meldbar/913,70,366,976
+lokaliserbar/913,70,366,976
+lakerbar/913,70,366,976
+kritiserbar/913,70,366,976
+kombinerbar/913,70,366,976
+kipbar/913,70,366,976
+følbar/913,70,366,976
+fikserbar/913,70,366,976
+drejbar/913,70,366,976
+distraherbar/913,70,366,976
+diskuterbar/913,70,366,976
+differentierbar/913,70,366,976
+deriverbar/913,70,366,976
+demonstrerbar/913,70,366,976
+deformerbar/913,70,366,976
+dechifrerbar/913,70,366,976
+citerbar/913,70,366,976
+fremmedsprog/70,252,10,976,939,947
+vækstfremmer/20,7,70,976
+udfasning/70,73,7,976,939,947
+tinnitus/193,70,976
+timeout/70,73,7,976,941,947
+tee/401
+millennium/70,976,941,947
+millenniums/976
+millenniet/976
+millenniets/976
+millennier/976
+millenniers/976
+millennierne/976
+millenniernes
+beachvolley/193,70,976,941,947
+roadpricing/70,976
+lavtløn/737,70,976,939,947
+kickstarte/6,143,148
+hæmatokritværdi/70,73,7,976
+bagel/70,976
+bagelen/976
+bagels/976
+bagelene/976
+bagelens/976
+bagels'/976
+bagelenes
+ambient/193,70,976,941,947
+ecstasy/193,70,976,466
+filtrering/70,73,7,976,939,947
+struds/20,7,70,976,940,947
+streetbasket/70,976,941,947
+streetbaskets/976
+streetbasketball/976
+streetbasketballs
+skrædderi/70,10,73,976
+råbekor/70,252,10,976
+outsourcing/193,70,976,941,947
+opkonvertering/70,73,7,976,939,947
+kogalskab/193,70,976,939,947
+homofobi/193,70,976
+misdanne/6,143,148
+tilbage/942,946
+skadesfri/913,70,366,976
+nørdet/976
+nørdede
+minerydder/20,7,70,976
+Facebook/55
+aquaspinning/193,70,976
+burkini/70,73,7,976
+Sandholmlejren/55
+konfrontativ/913,70,366,976
+lønne/6,143,148
+sb.
+vb.
+pron.
+playmaker/20,7,70,976
+whiteboard/70,976,941,947
+whiteboardet/976
+whiteboards/976
+whiteboardene/976
+whiteboardets/976
+whiteboards'/976
+whiteboardenes
+tredimensionel/976
+tredimensionelt/976
+tredimensionelle
+airbag/70,976,941,947
+airbaggen/976
+airbagger/976
+airbags/976
+airbaggerne/976
+airbaggene/976
+airbaggens/976
+airbaggers/976
+airbags'/976
+airbaggerne/976
+airbaggenes
+doggybag/70,976
+doggybaggen/976
+doggybagger/976
+doggybags/976
+doggybaggene/976
+doggybaggerne/976
+doggybaggens/976
+doggybaggers/976
+doggybags'/976
+doggybaggenes/976
+doggybaggernes
+abc/401
+ærefrygtig/913,70,366,976
+okulere/6,143,148
+okulerkniv/20,7,70,976
+naturist/70,73,7,976,941,947
+muzak/737,70,976,941,947
+modparti/70,10,73,976
+inuit/46,70,976
+rehabilitation/70,73,7,976
+rethaver/20,7,70,976
+rethaveri/70,10,73,976
+påtegnelse/70,73,7,976
+skolie/70,73,7,976
+antegning/70,73,7,976
+adnotation/70,73,7,976
+numerolog/70,73,7,976
+attrapere/6,143,148
+afbene/6,143,148
 bortfalle/36
 bortfaller/36
 bortfallen/36
@@ -151638,3 +151803,19 @@ skadeløse/36
 skibsbrud/36
 skibsbruddet/36
 skibsbruddene/36
+retshaver/36
+retshaveren/36
+retshavere/36
+retshavererne/36
+retshavers/36
+retshaverens/36
+retshaveres/36
+retshaverernes/36
+retshaveri/36
+retshaveriet/36
+retshaverier/36
+retshaverierne/36
+retshaveris/36
+retshaveriets/36
+retshaveriers/36
+retshaveriernes/36
