@@ -1,7 +1,7 @@
-#Stavekontrolden version 1.1
+#Stavekontrolden version 1.4
 #Denne fil er en del af Stavekontrolden - et softwareprodukt, der gør det muligt at stavekontrollere på dansk.
 
-#Copyright (C) 2007 Foreningen for frit tilgængelige sprogværktøjer
+#Copyright (C) 2009 Foreningen for frit tilgængelige sprogværktøjer
 #Website: http://www.stavekontrolden.dk
 #E-mail: info@stavekontrolden.dk
 
@@ -837,7 +837,7 @@ SFX 939 0 s/942,945,946 .
 SFX 939 0 s/943,945,946 .
 #Sammensætning, fugeelement -e-
 SFX 940 Y 2
-SFX 940 0 e/942,946,945,942 .
+SFX 940 0 e/942,946,945 .
 SFX 940 0 e/943,946,945 .
 #Sammensætning, fugeelement Ø
 SFX 941 Y 2
@@ -1454,3 +1454,11 @@ SFX 841 0 v v	+KONSONANT_FORDOBLING
 SFX 841 0 w w	+KONSONANT_FORDOBLING
 SFX 841 0 x x	+KONSONANT_FORDOBLING
 SFX 841 0 z z	+KONSONANT_FORDOBLING
+#Sammensætning, fugeelement -er-
+SFX 437 Y 2
+SFX 437 0 er/942,945,946 .
+SFX 437 0 er/946,943,945 .
+#Sammensætning, fugeelement -ne-
+SFX 449 Y 2
+SFX 449 0 ne/946,945,942 .
+SFX 449 0 ne/946,943,945 .
