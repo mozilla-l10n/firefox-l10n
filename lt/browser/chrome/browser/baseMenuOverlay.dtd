@@ -54,8 +54,8 @@
 <!ENTITY helpReleaseNotes.label         "Laidos apžvalga">
 <!ENTITY helpReleaseNotes.accesskey     "L">
 
-<!ENTITY helpTroubleshooting.label      "Informacija problemų sprendimui…">
-<!ENTITY helpTroubleshooting.accesskey  "s">
+<!ENTITY helpTroubleshootingInfo.label      "Informacija problemų sprendimui">
+<!ENTITY helpTroubleshootingInfo.accesskey  "s">
 
 <!ENTITY updateCmd.label                "Tikrinti ar yra naujinimų…">
 
