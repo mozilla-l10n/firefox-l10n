@@ -22,8 +22,8 @@
 <!ENTITY helpReleaseNotes.accesskey     "N">
 <!ENTITY helpReleaseNotes.label         "Notes de la versió">
 
-<!ENTITY helpTroubleshooting.label      "Informació per a la resolució d'errors…">
-<!ENTITY helpTroubleshooting.accesskey  "r">
+<!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució d'errors…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
 <!ENTITY updateCmd.label                "Comprova les actualitzacions…">
 
