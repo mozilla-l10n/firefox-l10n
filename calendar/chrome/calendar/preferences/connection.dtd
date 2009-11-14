@@ -41,8 +41,8 @@
 <!ENTITY  window.macWidth               "52em">
 
 <!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
-<!ENTITY  directTypeRadio.label         "Tiesioginis ryšys su internetu">
-<!ENTITY  directTypeRadio.accesskey     "T">
+<!ENTITY  directTypeRadio.label         "Nenaudoti įgaliotojo serverio">
+<!ENTITY  directTypeRadio.accesskey     "N">
 <!ENTITY  WPADTypeRadio.label           "Savarankiškai aptikti šio tinklo įgaliotuosius serverius">
 <!ENTITY  WPADTypeRadio.accesskey       "S">
 <!ENTITY  manualTypeRadio.label         "Rankinė įgaliotųjų serverių sąranka:">
@@ -50,7 +50,7 @@
 <!ENTITY  autoTypeRadio.label           "Automatinė įgaliotųjų serverių sąranka. Failą imti iš URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Atsiųsti iš naujo">
-<!ENTITY  reload.accesskey              "n">
+<!ENTITY  reload.accesskey              "u">
 <!ENTITY  ftp.label                     "FTP įgaliotasis serveris:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP įgaliotasis serveris:">

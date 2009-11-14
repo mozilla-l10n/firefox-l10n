@@ -48,7 +48,7 @@
 <!ENTITY enable.tls "TLS (naujas SSL standartas)">
 <!ENTITY enable.tls.accesskey               "T">
 
-<!ENTITY warn.description "„&brandShortName;“ gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus ir prašyti leidimo prieš:">
+<!ENTITY warn.description "Naršyklė gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus ir prašyti leidimo prieš:">
 <!ENTITY warn.enteringsecure "įkeliant tinklalapį, turintį šifravimo priemones">
 <!ENTITY warn.enteringsecure.accesskey      "k">
 <!ENTITY warn.enteringweak "įkeliant tinklalapį, turintį žemo lygio šifravimo priemones">

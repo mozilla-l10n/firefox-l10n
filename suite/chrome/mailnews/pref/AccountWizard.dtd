@@ -57,7 +57,7 @@
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(pvz., „Jonas Jonaitis“).">
+<!ENTITY fullnameExample.label "(pvz., „Vardenis Pavardenis“).">
 <!ENTITY fullnameLabel.label "Asmenvardis:">
 <!ENTITY fullnameLabel.accesskey "A">
 
@@ -99,7 +99,7 @@
 <!ENTITY loginTitle.label "Abonento vardas">
 <!ENTITY usernameDesc.label "Surinkite laiškų gavimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(pvz., „jjonas“).">
+<!ENTITY usernameExample.label "(pvz., „vpavardenis“).">
 <!ENTITY usernameLabel.label "Laiškų gavimo abonento vardas:">
 <!ENTITY usernameLabel.accesskey "L">
 <!ENTITY usernameSmtpDesc.label "Surinkite laiškų išsiuntimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">

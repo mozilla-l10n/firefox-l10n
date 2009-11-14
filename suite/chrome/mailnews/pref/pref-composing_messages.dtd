@@ -42,9 +42,9 @@
 <!ENTITY pref.composing.messages.title        "Laiškų rašymas">
 <!ENTITY generalComposing.label               "Bendrosios">
 <!ENTITY forwardMsg.label                     "Persiųsti laiškus:">
-<!ENTITY inline.label                         "Tiesiogiai">
-<!ENTITY inline.accesskey                     "T">
-<!ENTITY asAttachment.label                   "Kaip priedus">
+<!ENTITY inline.label                         "tiesiogiai">
+<!ENTITY inline.accesskey                     "t">
+<!ENTITY asAttachment.label                   "kaip priedus">
 <!ENTITY asAttachment.accesskey               "r">
 
 <!ENTITY replyQuoteInline.label               "Atsakant cituoti tiesiogiai rodomus priedus">

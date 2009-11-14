@@ -52,7 +52,7 @@
 <!ENTITY retentionKeepMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "Nešalinti laiškų">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepRecent.label "Šalinti visus išskyrus paskiausius">
+<!ENTITY retentionKeepRecent.label "Šalinti visus, išskyrus paskiausius">
 <!ENTITY retentionKeepRecent.accesskey "p">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Visuomet šalinti skaitytus laiškus (nepaisant jų amžiaus)">

@@ -42,10 +42,10 @@
 <!ENTITY playSound.accesskey              "g">
 <!ENTITY showAnimatedAlert.label          "rodyti įspėjimo langą">
 <!ENTITY showAnimatedAlert.accesskey      "s">
-<!ENTITY showTrayIcon.label               "Rodyti piktogramą sistemos juostelėje">
+<!ENTITY showTrayIcon.label               "rodyti piktogramą sistemos juostelėje">
 <!ENTITY showTrayIcon.accesskey           "t">
-<!ENTITY bounceSystemDockIcon.label       "Animuoti pritvirtinamą piktogramą">
-<!ENTITY bounceSystemDockIcon.accesskey   "A">
+<!ENTITY bounceSystemDockIcon.label       "animuoti pritvirtinamą piktogramą">
+<!ENTITY bounceSystemDockIcon.accesskey   "a">
 <!ENTITY preview.label                    "Perklausyti">
 <!ENTITY preview.accesskey                "P">
 <!ENTITY systemsound.label                "naudoti sistemoje numatytą garsą">

@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title  "Prisijungimas prie kanalo">
+<!ENTITY window.title            "Prisijungimas prie kanalo">
 
-<!ENTITY qsearch.label     "Sparčioji paieška:">
-<!ENTITY qsearch.accesskey "p">
+<!ENTITY qsearch.label           "Sparčioji paieška:">
+<!ENTITY qsearch.accesskey       "p">
 
-<!ENTITY topics.label     "Ieškoti kanalų temose ir pavadinimuose">
-<!ENTITY topics.accesskey "t">
+<!ENTITY topics.label            "Ieškoti kanalų temose ir pavadinimuose">
+<!ENTITY topics.accesskey        "t">
 
-<!ENTITY join.label     "Jungtis">
-<!ENTITY join.accesskey "J">
+<!ENTITY join.label              "Jungtis">
+<!ENTITY join.accesskey          "J">
 
-<!ENTITY minusers.label     "Mažiausia dalyvių:">
-<!ENTITY minusers.accesskey "M">
+<!ENTITY minusers.label          "Mažiausia dalyvių:">
+<!ENTITY minusers.accesskey      "M">
 
-<!ENTITY maxusers.label     "Daugiausia dalyvių:">
-<!ENTITY maxusers.accesskey "D">
+<!ENTITY maxusers.label          "Daugiausia dalyvių:">
+<!ENTITY maxusers.accesskey      "D">
 
-<!ENTITY refresh.label     "Atšviežinti">
-<!ENTITY refresh.accesskey "A">
+<!ENTITY refresh.label           "Atšviežinti">
+<!ENTITY refresh.accesskey       "A">
 
-<!ENTITY col.name  "Pavadinimas">
-<!ENTITY col.users "Dalyviai">
-<!ENTITY col.topic "Tema">
+<!ENTITY col.name                "Pavadinimas">
+<!ENTITY col.users               "Dalyviai">
+<!ENTITY col.topic               "Tema">
