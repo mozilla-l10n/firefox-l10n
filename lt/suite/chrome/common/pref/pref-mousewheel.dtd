@@ -44,7 +44,7 @@
 <!ENTITY scroll.accesskey                "S">
 <!ENTITY scrollHoriz.accesskey           "l">
 <!ENTITY scrollLines.label               "dokumento eilutes">
-<!ENTITY scrollChars.label               "simbolius">
+<!ENTITY scrollChars.label               "simb.">
 <!ENTITY useSystemDefault.label          "Naudoti numatytąsias sistemos nuostatas">
 <!ENTITY useSystemDefault.accesskey      "N">
 <!ENTITY useSystemDefaultHoriz.accesskey "o">

@@ -37,8 +37,8 @@
 <!ENTITY useDefault.label                 "Atstatyti numatytąsias nuostatas">
 <!ENTITY useDefault.accesskey             "t">
 
-<!ENTITY bounceSystemDockIcon.label       "Animuoti pritvirtinamą piktogramą">
-<!ENTITY bounceSystemDockIcon.accesskey   "A">
+<!ENTITY bounceSystemDockIcon.label       "animuoti pritvirtinamą piktogramą">
+<!ENTITY bounceSystemDockIcon.accesskey   "a">
 
 <!ENTITY newMessagesArrive.label          "Gavus naują laišką:">
 <!ENTITY playSound.label                  "Pranešti garsu">

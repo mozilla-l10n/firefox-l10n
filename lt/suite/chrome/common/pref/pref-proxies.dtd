@@ -32,10 +32,10 @@
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Įgaliotieji serveriai">
-<!ENTITY  pref.proxies.desc             "Įgaliotasis serveris atlieka filtravimo ir/arba ryšio su internetu paspasrtinimo funkciją.">
+<!ENTITY  pref.proxies.desc             "Įgaliotasis serveris atlieka filtravimo ir (arba) ryšio su internetu paspasrtinimo funkciją.">
 <!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
-<!ENTITY  directTypeRadio.label         "Tiesioginis ryšys su internetu">
-<!ENTITY  directTypeRadio.accesskey     "e">
+<!ENTITY  directTypeRadio.label         "Nenaudoti įgaliotojo serverio">
+<!ENTITY  directTypeRadio.accesskey     "N">
 <!ENTITY  systemTypeRadio.label         "Taikyti šios sistemos įgaliotojo serverio nuostatas">
 <!ENTITY  systemTypeRadio.accesskey     "T">
 <!ENTITY  manualTypeRadio.label         "Rankinė įgaliotojo serverio sąranka">
@@ -51,7 +51,7 @@
 <!ENTITY  port.label                    "Prievadas:">
 <!ENTITY  HTTPPort.accesskey            "P">
 <!ENTITY  advanced.label                "Papildomai…">
-<!ENTITY  advanced.accesskey            "i">
+<!ENTITY  advanced.accesskey            "d">
 <!ENTITY  noproxy.label                 "Tiesiogiai jungtis prie šių sričių:">
 <!ENTITY  noproxy.accesskey             "š">
-<!ENTITY  noproxyExplain.label          "Nurodykite sričių sąrašą, pvz., .xxx.yyy, .xxx.yy.zz">
+<!ENTITY  noproxyExplain.label          "Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24">
