@@ -8,12 +8,12 @@
 <!ENTITY enableJavaScript.description              "De fleste interaktive sider bruker JavaScript">
 <!ENTITY enablePlugins.title                       "Slå på programtillegg">
 <!ENTITY enablePlugins.description                 "Programtillegg brukes for spesielt innhold slik som video">
-<!ENTITY privacy.title                             "Personvern &amp; sikkerhet">
+<!ENTITY privacy.title                             "Personvern og sikkerhet">
 <!ENTITY allowCookies.title                        "Tillat informasjonskapsler">
 <!ENTITY allowCookies.description                  "Sider bruker informasjonskapsler til å identifisere deg og huske dine innstillinger">
 <!ENTITY clearPrivateData.title                    "Slett nylig historikk">
 <!ENTITY clearPrivateData.button                   "Slett">
-<!ENTITY clearPrivateData.description              "Historikken din hjelper &brandShortName; å foreslå sider du bør besøke">
+<!ENTITY clearPrivateData.description              "Historikken din gjør det lettere å gå til sider du har besøkt tidligere">
 <!ENTITY rememberPasswords.title                   "Husk passord">
 <!ENTITY language.title                            "Språk">
 <!ENTITY language.description                      "Velg ditt foretrukne språk for &brandShortName;">

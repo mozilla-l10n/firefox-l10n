@@ -9,26 +9,26 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobile
+#define bookmarks_title Mobile bokmerker
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: Welcome
+#define bookmarks_welcome Firefox: Velkommen
 
 # LOCALIZATION NOTE (bookmarks_about):
 # link title for about:fennec
-#define bookmarks_about Firefox: About
+#define bookmarks_about Firefox: Om produktet
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Synchronize using Weave
+#define bookmarks_weave Firefox: Synkroniser med Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Tilpass med utvidelser
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Brukerstøtte
 
 #unfilter emptyLines
