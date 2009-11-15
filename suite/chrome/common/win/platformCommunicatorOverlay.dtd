@@ -1,6 +1,6 @@
 <!-- win -->
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
-                         You may want to translate the Cmd.key and accesskey --> 
+                         You may want to translate the Cmd.key and accesskey -->
 
 <!ENTITY closeCmd.label "Zavřít">
 <!ENTITY closeCmd.key "W">
@@ -25,6 +25,10 @@
 <!ENTITY openHelpCmd.key "VK_F1">
 <!ENTITY helpForIEUsers.label "Pro uživatele Internet Exploreru">
 <!ENTITY helpForIEUsers.accesskey "I">
+<!-- LOCALIZATION NOTE some localizations need to change the
+                       "Help" menu label on Windows -->
+<!ENTITY helpMenu.label "Nápověda">
+<!ENTITY helpMenu.accesskey "v">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label "Ctrl">
