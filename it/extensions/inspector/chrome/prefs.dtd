@@ -18,5 +18,5 @@
 <!ENTITY installHowTo.label "La scheda Sidebar di Analisi DOM non è stata installata. Fare clic sul pulsante 'Installa' per aggiungerla alla Sidebar.">
 <!ENTITY install.label "Installa">
 <!ENTITY install.accesskey "I">
-<!ENTITY addNavigatorHooks.label "Aggiungi menu contestuale a Navigator">
+<!ENTITY addNavigatorHooks.label "Aggiungi menu contestuale al browser">
 <!ENTITY addNavigatorHooks.accesskey "m">

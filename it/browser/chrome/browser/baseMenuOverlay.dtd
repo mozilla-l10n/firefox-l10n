@@ -17,8 +17,8 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Note di versione">
 <!ENTITY helpReleaseNotes.accesskey "v">
-<!ENTITY helpTroubleshooting.label "Risoluzione dei problemi">
-<!ENTITY helpTroubleshooting.accesskey "R">
+<!ENTITY helpTroubleshootingInfo.label "Risoluzione dei problemi">
+<!ENTITY helpTroubleshootingInfo.accesskey "R">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
 <!ENTITY preferencesCmdMac.label "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey ",">
