@@ -1,10 +1,10 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Search for messages in:">
-<!ENTITY searchHeading.accesskey "e">
-<!ENTITY searchSubfolders.label "Search subfolders">
-<!ENTITY searchSubfolders.accesskey "u">
-<!ENTITY searchLocalSystem.label "Search local system">
-<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY searchHeading.label "İletileri burada ara:">
+<!ENTITY searchHeading.accesskey "b">
+<!ENTITY searchSubfolders.label "Alt dizinleri ara">
+<!ENTITY searchSubfolders.accesskey "A">
+<!ENTITY searchLocalSystem.label "Yerel dosya sisteminde ara">
+<!ENTITY searchLocalSystem.accesskey "Y">
 <!ENTITY resetButton.label "Boşalt">
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY openButton.label "Aç">
@@ -13,20 +13,20 @@
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY searchDialogTitle.label "Postaları ara">
 <!ENTITY results.label "Sonuçlar">
-<!ENTITY fileHereMenu.label "File Here">
-<!ENTITY fileHereMenu.accesskey "r">
-<!ENTITY fileButton.label "File">
-<!ENTITY fileButton.accesskey "F">
-<!ENTITY goToFolderButton.label "Open Message Folder">
-<!ENTITY goToFolderButton.accesskey "n">
-<!ENTITY saveAsVFButton.label "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey "v">
+<!ENTITY fileHereMenu.label "Buraya dosyala">
+<!ENTITY fileHereMenu.accesskey "B">
+<!ENTITY fileButton.label "Dosya">
+<!ENTITY fileButton.accesskey "o">
+<!ENTITY goToFolderButton.label "Posta dizinini aç">
+<!ENTITY goToFolderButton.accesskey "a">
+<!ENTITY saveAsVFButton.label "Arama dizini olarak kaydet">
+<!ENTITY saveAsVFButton.accesskey "A">
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label "Search in:">
-<!ENTITY abSearchHeading.accesskey "e">
+<!ENTITY abSearchHeading.label "Arama yeri:">
+<!ENTITY abSearchHeading.accesskey "r">
 <!ENTITY propertiesButton.label "Özellikler">
 <!ENTITY propertiesButton.accesskey "z">
-<!ENTITY composeButton.label "Compose">
-<!ENTITY composeButton.accesskey "o">
+<!ENTITY composeButton.label "Yeni ileti">
+<!ENTITY composeButton.accesskey "Y">
 <!ENTITY abSearchDialogTitle.label "Gelişmiş Adres Defteri Araması">
