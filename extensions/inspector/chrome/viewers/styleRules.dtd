@@ -45,7 +45,7 @@
 <!ENTITY viewSelectedFileURI.label "Visualizza file">
 <!ENTITY toggleSelectedImportant.label "Inverti !important">
 <!ENTITY styleRule.label "Regola di stile">
-<!ENTITY styleRuleURI.label "Archivia">
+<!ENTITY styleRuleURI.label "File">
 <!ENTITY styleRuleLineNumber.label "Riga">
 <!ENTITY styleRulePropPriority.label "Priorità">
 <!ENTITY styleRulePropName.label "Proprietà">

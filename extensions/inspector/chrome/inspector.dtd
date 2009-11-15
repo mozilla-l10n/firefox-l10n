@@ -38,7 +38,7 @@
 <!ENTITY mnSearch.accesskey "C">
 <!ENTITY mnView.label "Visualizza">
 <!ENTITY mnView.accesskey "V">
-<!ENTITY cmdToggleBrowser.label "Navigator">
+<!ENTITY cmdToggleBrowser.label "Browser">
 <!ENTITY cmdToggleBrowser.accesskey "N">
 <!ENTITY cmdToggleSearch.label "Risultati ricerca">
 <!ENTITY browserPanel.label "Browser">

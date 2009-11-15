@@ -74,7 +74,7 @@
 <!ENTITY WatchCol2.header "Valore">
 <!ENTITY WatchCol3.header "Flag">
 <!ENTITY Windows.label "Finestre attive">
-<!ENTITY WindowsCol0.label "Archivia">
+<!ENTITY WindowsCol0.label "File">
 <!ENTITY BPProps.URL.label "URL">
 <!ENTITY BPProps.Line.label "Riga">
 <!ENTITY BPProps.PC.label "PC">
