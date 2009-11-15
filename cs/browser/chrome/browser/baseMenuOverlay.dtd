@@ -22,8 +22,8 @@
 <!ENTITY helpReleaseNotes.label "Poznámky k vydání">
 <!ENTITY helpReleaseNotes.accesskey "P">
 
-<!ENTITY helpTroubleshooting.label "Technické informace…">
-<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label "Technické informace…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
 

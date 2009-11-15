@@ -1,5 +1,4 @@
 <!-- for SearchDialog.xul -->
-
 <!ENTITY searchHeading.label "Hledat položky v:">
 <!ENTITY searchHeading.accesskey "e">
 <!ENTITY searchSubfolders.label "Hledat ve vnořených složkách">
@@ -8,8 +7,6 @@
 <!ENTITY searchLocalSystem.accesskey "d">
 <!ENTITY resetButton.label "Obnovit">
 <!ENTITY resetButton.accesskey "O">
-<!ENTITY helpButton.label "Nápověda">
-<!ENTITY helpButton.accesskey "v">
 <!ENTITY openButton.label "Otevřít">
 <!ENTITY openButton.accesskey "o">
 <!ENTITY deleteButton.label "Smazat">
@@ -24,8 +21,8 @@
 <!ENTITY goToFolderButton.accesskey "t">
 <!ENTITY saveAsVFButton.label "Uložit jako virtuální složku">
 <!ENTITY saveAsVFButton.accesskey "v">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Hledat v:">
 <!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
