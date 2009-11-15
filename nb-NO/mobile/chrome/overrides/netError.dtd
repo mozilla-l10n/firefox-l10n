@@ -1,171 +1,173 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem loading page">
-<!ENTITY retry.label "Try Again">
+<!ENTITY loadError.label "Problem ved lasting av side">
+<!ENTITY retry.label "Prøv igjen">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Unable to connect">
+<!ENTITY connectionFailure.title "Klarte ikke å koble til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
+<!ENTITY deniedPortAccess.title "Tilgangen til dennen adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server not found">
+<!ENTITY dnsNotFound.title "Tjener ikke funnet">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Kontroller om det er skrivefeil i adressen, for eksempel
+    <strong>ww</strong>.eksempel.no istedenfor
+    <strong>www</strong>.eksempel.no</li>
+  <li>Dersom du ikke klarer å laste noen nettsider, kontroller at datamaskinens
+    nettverksforbindelse er i orden.</li>
+  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur
+    eller mellomtjener, sjekk at &brandShortName; har tillatelse til å bruke internett.</li>
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "File not found">
+<!ENTITY fileNotFound.title "Fil ikke funnet">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
+  <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre
+    skrivefeil.</li>
+  <li>Sjekk om filen er flyttet, har endret navn eller er slettet.</li>
 </ul>
 ">
 
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
+<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak</p>
 ">
 
-<!ENTITY malformedURI.title "The address isn't valid">
+<!ENTITY malformedURI.title "Ugyldig adresse">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Web addresses are usually written like
-    <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
+  <li>Nettsideadresser skrives vanligvis på formen
+    <strong>http://www.eksempel.no/</strong></li>
+  <li>Kontroller at du bruker fremover-skråstrek (f.eks.
     <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "Frakoblet modus">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Uncheck &quot;Work Offline&quot; in the File menu, then try again.</li>
+  <li>Fjern avkryssingen fra &quot;Arbeid frakoblet&quot; i Fil-menyen, og prøv igjen</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>Kontakt eieren av nettstedet og informer om problemet.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "Utrygg filtype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>Kontakt nettsideeierne og informer dem om dette problemet.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "Tilkoblingen ble avbrutt">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "Tilkoblingen fikk tidsavbrudd">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
+<!ENTITY protocolNotFound.title "Klarte ikke å forstår adressen">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>You might need to install other software to open this address.</li>
+  <li>Det er mulig du må installere annen programvare for å åpne denne
+    adressen.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "Mellomtjener godtar ikke tilkoblinger">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
+  <li>Kontroller at mellomtjenerinnstillingene er korrekte.</li>
+  <li>Kontakt nettverksansvarlig og forsikre deg om at mellomtjeneren
+    fungerer.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "Klarte ikke å finne mellomtjener">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your computer has a working network connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Kontroller at innstillingene for mellomtjener er korrekte.</li>
+  <li>Kontroller at datamaskinen har en virkende nettverksforbindelse.</li>
+  <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller mellomtjener, kontroller
+    at &brandShortName; har tillatelse til å få tilgang til Internett.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "Nettsiden videresender ikke ordentlig">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
+  <li>Dette problemet kan av og til skyldes at infokapsler er
+    avslått.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "Uventet svar fra tjener">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
+  <li>Kontroller at systemet ditt har Personal Security Manager
+    installert.</li>
+  <li>Dette problemet kan skyldes en uvanlig konfigurasjon på tjeneren.</li>
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Sikker tilkobling feilet">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>Siden du forsøker åpne kan ikke vises fordi identiteten til avsenderen av informasjonen ikke kunne bli kontrollert.</li>
+  <li>Kontakt nettstedseieren og informer om problemet. Du kan også rapportere nettstedet som ødelagt ved hjelp av Hjelp-menyen.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Sikker tilkobling feilet">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+  <li>Dette kan være på grunn av et problem med tjenerens innstillinger, eller det kan være
+at noen forsøker å etterligne tjeneren.</li>
+  <li>Dersom du tidligere har koblet til tjeneren er det mulig at feilen er
+midlertidig, og du kan prøve igjen senere.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Nettstedet kan være midlertidig utilgjengelig eller opptatt. Prøv igjen om
+    en liten stund.</li>
+  <li>Dersom du ikke klarer å laste noen sider, kontroller at datamaskinens
+    nettverkstilkobling er i orden.</li>
+  <li>Dersom datamaskinen er beskyttet av en brannmur eller mellomtjener, kontroller
+    at &brandShortName; har tillatelse til å bruke verdensveven (www).</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.title "Mistenkt angrepsnettsted!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+<p>Angrepsnettsted kan forsøke å installere programvare som stjeler privat informasjon, bruker datamaskinen din til å angripe andre, eller skader datamaskinen din.</p>
+<p>Nettstedseiere som tror at deres nettsted er feilaktig rapportert som et angrepsnettsted kan <a href='http://www.stopbadware.org/home/reviewinfo' >be om å bli vurdert på nytt</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+<p>Dersom du skriver inn personlig informasjon på denne nettsiden kan føre til identitetstyveri eller annen svindel.</p>
+<p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
+<!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -173,7 +175,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler på, eller dersom du ikke er vant med å se slike advarsler for denne tjeneren.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>

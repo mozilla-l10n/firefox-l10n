@@ -5,7 +5,7 @@
 <!ENTITY search.label          "Søk">
 <!ENTITY go.label              "Gå">
 <!ENTITY openLocation.label    "Åpne adresse">
-<!ENTITY star.label            "Gi stjerne">
+<!ENTITY star.label            "Legg til bokmerke">
 
 <!ENTITY newtab.label          "Ny fane">
 <!ENTITY closetab.label        "Lukk fane">
@@ -47,7 +47,7 @@
 <!ENTITY addonOptions.label        "Innstillinger">
 <!ENTITY addonEnable.label         "Slå på">
 <!ENTITY addonDisable.label        "Slå av">
-<!ENTITY addonInstall2.label       "Legg til &brandShortName;">
+<!ENTITY addonInstall2.label       "Legg til i &brandShortName;">
 <!ENTITY addonUninstall.label      "Avinstaller">
 <!ENTITY addonCancel.label         "Avbryt">
 <!ENTITY addonShowPage.label       "Gå til siden">
@@ -58,7 +58,7 @@
 <!ENTITY downloadShow2.label       "Søk">
 <!ENTITY downloadOpen2.label       "Åpne">
 <!ENTITY downloadCancel.label      "Avbryt">
-<!ENTITY downloadPause.label       "Paus">
+<!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Fortsett">
 <!ENTITY downloadRetry.label       "Prøv igjen">
 <!ENTITY downloadRemove.label      "Fjern">

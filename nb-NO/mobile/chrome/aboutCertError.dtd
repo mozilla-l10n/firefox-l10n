@@ -13,7 +13,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å koble til
-<b>#1</b> med en sikker tilkobling, men vi kan ikke bekrefte at tilkoblingen er sikker.">
+<b>#1</b> med en sikker tilkobling, men &brandShortName; kan ikke bekrefte at tilkoblingen er sikker.">
 <!ENTITY certerror.introPara2 "Vanligvis når du kobler til med en sikker tilkobling vil
 nettsteder oppgi en sikker identitet for å bevise at du besøker rett nettsted.
 Denne gangen kan ikke identiteten til dette nettstedet bekreftes.">
@@ -21,7 +21,7 @@ Denne gangen kan ikke identiteten til dette nettstedet bekreftes.">
 <!ENTITY certerror.whatShouldIDo.heading "Hva bør jeg gjøre?">
 <!ENTITY certerror.whatShouldIDo.content "Dersom du vanligvis kobler til
 dette nettstedet uten problemer kan denne meldingen bety at noen forsøker
-å etterligne nettstedet, og du bør da ikke fortsette.">
+å etterligne nettstedet. Du bør da ikke fortsette.">
 <!ENTITY certerror.getMeOutOfHere.label "Få meg bort herfra!">
 
 <!ENTITY certerror.expert.heading "Jeg forstår risikoen">
