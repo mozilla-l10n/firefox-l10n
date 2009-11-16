@@ -92,4 +92,4 @@
 <!ENTITY consoleEvaluate.label     " …">
 <!ENTITY consoleErrFile.label      "Kjeldefil:">
 <!ENTITY consoleErrLine.label      "Linje:">
-<!ENTITY consoleErrColumn.label    "Kolonne:">
+<!ENTITY consoleErrColumn.label    "Spalte:">
