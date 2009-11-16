@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "Velkommen til &brandShortName;">
+<!ENTITY intro.description                  "Synkroniser din PC og mobil med Weave Sync. Tilpas med udvidelser. Surf med den smarte adresselinje og meget, meget mere.">
+<!ENTITY weave.title                        "Kom afsted">
+<!ENTITY weave.description                  "Brug Weave Sync til at få din Firefox oplevelse på din mobil. Del din browserhistorik, bogmærker, gemte adgangskoder og faneblade imellem din PC og mobil.">
+<!ENTITY weave.linkLabel                    "Hent Weave Sync tilføjelsen">
+<!ENTITY getPersonal.title                  "Bliv personlig">
+<!ENTITY getPersonal.description            "Gør &brandShortName; til din egen. Tilpas den første browser, som tilbyder udvidelser til din mobil.">
+<!ENTITY getPersonal.linkLabel              "Hent tilføjelser til din mobil">
