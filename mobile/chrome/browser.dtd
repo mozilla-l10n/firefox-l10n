@@ -1,24 +1,11 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "Tilbage">
-<!ENTITY back.tooltip          "Gå en side tilbage">
 <!ENTITY forward.label         "Fremad">
-<!ENTITY forward.tooltip       "Gå en side frem">
 <!ENTITY reload.label          "Genindlæs">
-<!ENTITY reload.tooltip        "Genindlæs siden">
 <!ENTITY stop.label            "Stop">
-<!ENTITY stop.tooltip          "Stop">
 <!ENTITY search.label          "Søg">
-<!ENTITY search.tooltip        "Søg">
 <!ENTITY go.label              "Gå">
-<!ENTITY go.tooltip            "Gå">
 <!ENTITY openLocation.label    "Åbn placering">
-<!ENTITY openLocation.tooltip  "Åbn placering">
 <!ENTITY star.label            "Stjerne">
-<!ENTITY star.tooltip          "Bogmærk denne side">
-<!ENTITY bookmarks.label       "Bogmærker">
-<!ENTITY bookmarks.tooltip     "Se bogmærker">
 
 <!ENTITY newtab.label          "Nyt faneblad">
 <!ENTITY closetab.label        "Luk faneblad">
@@ -34,42 +21,38 @@
 
 <!ENTITY bookmarksHeader.label     "Bogmærker">
 <!ENTITY bookmarksManage.label     "Rediger">
-<!ENTITY foldersHeader.label       "Mapper">
 
-<!ENTITY editBookmarkEdit.label    "Rediger">
-<!ENTITY editBookmarkMove.label    "Flyt">
+<!ENTITY editBookmarkRemove.label  "Fjern">
 <!ENTITY editBookmarkDone.label    "Færdig">
 <!ENTITY editBookmarkTags.label    "Tilføj mærkater her">
 
-<!ENTITY findOnCmd.label     "Find på denne side…">
-<!ENTITY findOnCmd.accesskey "d">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Find næste">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY helperApp.prompt          "Hvad ønsker du at gøre med">
+<!ENTITY helperApp.open            "Åbn">
+<!ENTITY helperApp.save            "Gem">
+<!ENTITY helperApp.nothing         "Ingenting">
+
+<!ENTITY formHelper.previous       "Forrige">
+<!ENTITY formHelper.next           "Næste">
+<!ENTITY formHelper.done           "Færdig">
 
 <!ENTITY addonsHeader.label        "Tilføjelser">
 <!ENTITY addonsLocal.label         "Dine tilføjelser">
+<!ENTITY addonsUpdate.label        "Opdater">
 <!ENTITY addonsRepo.label          "Find tilføjelser">
 <!ENTITY addonsRecommended.label   "Anbefalede">
 <!ENTITY addonsSearch.label        "Søg">
-<!ENTITY addonsSearch.emptytext    "Søg i alle tilføjelser">
+<!ENTITY addonsSearch2.emptytext   "Søg i alle tilføjelser">
+<!ENTITY addonsSearch.recommended  "Anbefalede">
 
 <!ENTITY addonOptions.label        "Indstillinger">
 <!ENTITY addonEnable.label         "Aktiver">
 <!ENTITY addonDisable.label        "Deaktiver">
-<!ENTITY addonInstall.label        "Installer">
+<!ENTITY addonInstall2.label       "Tilføj til &brandShortName;">
 <!ENTITY addonUninstall.label      "Afinstaller">
 <!ENTITY addonCancel.label         "Afbryd">
 <!ENTITY addonShowPage.label       "Gå til hjemmeside">
 
 <!ENTITY downloadsHeader.label     "Filhentninger">
-<!ENTITY downloadsSortDate.label   "Dato">
-<!ENTITY downloadsSortSite.label   "Websted">
-<!ENTITY downloadsSortName.label   "Navn">
-<!ENTITY downloadsSearch.label     "Søg">
-<!ENTITY downloadsSearch.emptytext "Søg efter hentet fil">
 
 <!ENTITY downloadShowPage.label    "Gå til side">
 <!ENTITY downloadShow2.label       "Find">
@@ -78,20 +61,35 @@
 <!ENTITY downloadPause.label       "Pause">
 <!ENTITY downloadResume.label      "Fortsæt">
 <!ENTITY downloadRetry.label       "Prøv igen">
+<!ENTITY downloadRemove.label      "Fjern">
+<!ENTITY downloadFailed.label      "Mislykkedes">
 
 <!ENTITY noResults.label           "Ingen resultater">
+<!ENTITY allBookmarks.label        "Se alle bogmærker">
+
+<!ENTITY searchEngine.addSearch    "Tilføj søgetjeneste:">
+
+<!ENTITY bookmarkPopup.label       "Side bogmærket">
+<!ENTITY bookmarkRemove.label      "Fjern">
+<!ENTITY bookmarkEdit.label        "Rediger">
 
 <!ENTITY identity.unverifiedsite2 "Dette websted leverer ingen information om dets identitet.">
-<!ENTITY identity.connectedTo "Du er forbundet til">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2    "Forbundet til">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "Drevet af">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "som ejes af">
+<!ENTITY consoleHeader.label       "Fejlkonsol">
+<!ENTITY consoleAll.label          "Alle">
+<!ENTITY consoleErrors.label       "Fejl">
+<!ENTITY consoleWarnings.label     "Advarsler">
+<!ENTITY consoleMessages.label     "Beskeder">
+<!ENTITY consoleCodeEval.label     "Kode:">
+<!ENTITY consoleClear.label        "Ryd">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kildefil:">
+<!ENTITY consoleErrLine.label      "Linje:">
+<!ENTITY consoleErrColumn.label    "Kolonne:">
