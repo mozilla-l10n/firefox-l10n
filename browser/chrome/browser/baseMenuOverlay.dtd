@@ -22,12 +22,12 @@
 <!ENTITY helpReleaseNotes.label         "Utjefte-opmerkings">
 <!ENTITY helpReleaseNotes.accesskey     "U">
 
-<!ENTITY helpTroubleshooting.label      "Helpynformaasje…">
-<!ENTITY helpTroubleshooting.accesskey  "H">
+<!ENTITY helpTroubleshootingInfo.label      "Helpynformaasje">
+<!ENTITY helpTroubleshootingInfo.accesskey  "H">
 
-<!ENTITY updateCmd.label                "Op nije ferzjes kontrolearje...">
+<!ENTITY updateCmd.label                "Op fernijings kontrolearjs…">
 
-<!ENTITY preferencesCmdMac.label        "Foarkarren...">
+<!ENTITY preferencesCmdMac.label        "Foarkarren…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tsjinsten">
