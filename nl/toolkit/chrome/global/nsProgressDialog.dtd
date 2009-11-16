@@ -41,36 +41,36 @@
 -->
 
 <!-- This is used prior to initializing with a proper title -->
-<!ENTITY defaultTitle "Bezig met opslaan">
+<!ENTITY defaultTitle     "Bezig met opslaan">
 
 <!-- These are used when saving -->
-<!ENTITY savingTitle "#2&#037; van #1 opgeslagen">
-<!ENTITY savingSource "Bezig met opslaan van:">
-<!ENTITY savingTarget "Naar:">
+<!ENTITY savingTitle      "#2&#037; van #1 opgeslagen">
+<!ENTITY savingSource     "Bezig met opslaan van:">
+<!ENTITY savingTarget     "Naar:">
 
 <!-- These are used when opening (with an application) -->
-<!ENTITY openingTitle "#2&#037; van #1 geopend">
-<!ENTITY openingSource "Bezig met openen van:">
-<!ENTITY openingTarget "Met:">
+<!ENTITY openingTitle     "#2&#037; van #1 voltooid">
+<!ENTITY openingSource    "Bezig met openen van:">
+<!ENTITY openingTarget    "Met:">
 
 <!-- This is used when the download percentage is unknown -->
-<!ENTITY unknownSavingTitle "Bezig met opslaan van #1">
+<!ENTITY unknownSavingTitle  "Bezig met opslaan van #1">
 <!ENTITY unknownOpeningTitle "Bezig met openen van #1">
 
 <!-- Labels on other fields -->
-<!ENTITY status "Status">
+<!ENTITY status      "Status:">
 <!ENTITY timeElapsed "Verstreken tijd:">
-<!ENTITY timeLeft "Resterende tijd:">
-<!ENTITY progress "Voortgang:">
+<!ENTITY timeLeft    "Resterende tijd:">
+<!ENTITY progress    "Voortgang:">
 
 <!-- Label for the "keep dialog" checkbox -->
 <!ENTITY keep "Dit venster open houden nadat de download is voltooid.">
 
 <!-- Button labels -->
 <!ENTITY cancel "Annuleren">
-<!ENTITY pause "Pauzeren">
+<!ENTITY pause  "Pauzeren">
 <!ENTITY resume "Hervatten">
-<!ENTITY close "Sluiten">
+<!ENTITY close  "Sluiten">
 <!ENTITY reveal "Bestandslocatie tonen">
 <!ENTITY launch "Bestand openen">
 

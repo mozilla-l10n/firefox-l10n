@@ -1,19 +1,19 @@
-<!ENTITY aboutSupport.pageTitle "Foutzoeken informatie">
+<!ENTITY aboutSupport.pageTitle "Probleemoplossingsinformatie">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Deze pagina bevat technische informatie die handig kan zijn als u een probleem  
-  probeert op te lossen. Als u zoekt naar antwoorden op veel gestelde vragen 
-  over &brandShortName;, kijk dan op onze <a id='supportLink'>ondersteuningwebsite</a>.
+  Deze pagina bevat technische informatie die handig kan zijn als u een probleem 
+  probeert op te lossen. Als u antwoorden op veelgestelde vragen over &brandShortName;
+  zoekt, kijk dan op onze <a id='supportLink'>ondersteuningwebsite</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensies">
 <!ENTITY aboutSupport.extensionName "Naam">
-<!ENTITY aboutSupport.extensionEnabled "Actief">
+<!ENTITY aboutSupport.extensionEnabled "Ingeschakeld">
 <!ENTITY aboutSupport.extensionVersion "Versie">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Applicatiebasics">
+<!ENTITY aboutSupport.appBasicsTitle "Toepassingsbasics">
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Versie">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profielmap">
@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "In Finder tonen">
+<!ENTITY aboutSupport.showMac.label "Tonen in Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Aangepaste voorkeuren">
 <!ENTITY aboutSupport.modifiedPrefsName "Naam">
@@ -34,4 +34,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "Installatiegeschiedenis">
 <!ENTITY aboutSupport.updateHistoryTitle "Updategeschiedenis">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Alles naar het klembord kopiëren">
+<!ENTITY aboutSupport.copyToClipboard.label "Alles naar klembord kopiëren">

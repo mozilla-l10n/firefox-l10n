@@ -10,6 +10,7 @@
 <!ENTITY  locbar.bookmarks.label        "Bladwijzers">
 <!ENTITY  locbar.nothing.label          "Niets">
 
+
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
 <!ENTITY  acceptCookies.accesskey       "C">
 
@@ -28,6 +29,7 @@
 
 <!ENTITY  showCookies.label             "Cookies tonen…">
 <!ENTITY  showCookies.accesskey         "t">
+
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; zal:">
 <!ENTITY  historyHeader.pre.accesskey      "z">
@@ -80,4 +82,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Instellingen…">
 <!ENTITY  clearOnCloseSettings.accesskey "s">
-

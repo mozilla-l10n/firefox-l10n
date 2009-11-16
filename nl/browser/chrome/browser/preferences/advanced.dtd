@@ -86,7 +86,7 @@
 <!ENTITY useTLS1.label                   "TLS 1.0 gebruiken">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificaten">
-<!ENTITY certSelection.description       "Wanneer een server om mijn persoonlijke certificaat verzoekt:">
+<!ENTITY certSelection.description       "Wanneer een server om mijn persoonlijke certificaat vraagt:">
 <!ENTITY certs.auto                      "Er automatisch een selecteren">
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Mij elke keer vragen">

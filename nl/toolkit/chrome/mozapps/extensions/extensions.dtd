@@ -22,14 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "z">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Zoekt updates voor uw add-ons">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Zoekt updates voor uw thema’s">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Zoekt updates voor uw plugins">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Zoekt updates voor uw plug-ins">
 <!ENTITY cmd.installLocalFile.label       "Installeren…">
 <!ENTITY cmd.installLocalFile.accesskey   "s">
 <!ENTITY cmd.installFileAddon.tooltip     "Een add-on installeren">
 <!ENTITY cmd.installFileTheme.tooltip     "Een thema installeren">
 <!ENTITY cmd.installUpdatesAll2.label     "Updates installeren">
 <!ENTITY cmd.installUpdatesAll2.accesskey "i">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Installeer de geselecteerde updates">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "De geselecteerde updates installeren">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; herstarten">
 <!ENTITY cmd.restartApp2.accesskey        "h">
 <!ENTITY cmd.restartApp2.tooltip          "Herstart &brandShortName; om wijzigingen toe te passen">
@@ -114,7 +114,7 @@
 <!ENTITY needsDependencies.label          "Vereist extra onderdelen.">
 <!ENTITY blocklisted.label                "Uitgeschakeld voor uw bescherming.">
 <!ENTITY softBlocklisted.label            "Bekend als veroorzaker van veiligheids- of stabiliteitsproblemen.">
-<!ENTITY outdated.label                   "Een nieuwere, veiligere versie is beschikbaar.">
+<!ENTITY outdated.label                   "Er is een nieuwere, veiligere versie beschikbaar.">
 <!ENTITY toBeDisabled.label               "Deze add-on zal worden uitgeschakeld zodra &brandShortName; wordt herstart.">
 <!ENTITY toBeEnabled.label                "Deze add-on zal worden ingeschakeld zodra &brandShortName; wordt herstart.">
 <!ENTITY toBeInstalled.label              "Deze add-on zal worden geïnstalleerd zodra &brandShortName; wordt herstart.">
@@ -138,7 +138,7 @@
 <!ENTITY emptySearch.button               "OK">
 <!ENTITY cancelSearch.button              "Annuleren">
 <!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Meer leren">
+<!ENTITY searchResultHomepage.value       "Meer info">
 <!ENTITY searchBox.label                  "Alle add-ons zoeken">
 <!ENTITY recommendedResults.label         "Alle aanbevolen add-ons tonen">
 <!ENTITY searchResultConnecting.label     "Verbinden…">

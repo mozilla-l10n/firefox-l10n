@@ -22,8 +22,8 @@
 <!ENTITY helpReleaseNotes.label         "Uitgaveopmerkingen">
 <!ENTITY helpReleaseNotes.accesskey     "U">
 
-<!ENTITY helpTroubleshooting.label      "Foutzoeken informatie…">
-<!ENTITY helpTroubleshooting.accesskey  "t">
+<!ENTITY helpTroubleshooting.label      "Probleemoplossingsinformatie…">
+<!ENTITY helpTroubleshooting.accesskey  "P">
 
 <!ENTITY updateCmd.label                "Controleren op updates…">
 

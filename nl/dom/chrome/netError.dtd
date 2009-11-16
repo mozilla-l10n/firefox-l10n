@@ -6,7 +6,7 @@
 <!ENTITY connectionFailure.title "Fout bij verbinden">
 <!ENTITY connectionFailure.longDesc "<p>Hoewel de website lijkt te bestaan is het de browser niet gelukt ermee te verbinden.</p><ul><li>Misschien is de website tijdelijk niet beschikbaar? Probeer het later opnieuw.</li><li>Kunt u ook geen andere websites bezoeken? Controleer de netwerkverbinding van de computer.</li><li>Wordt uw computer of netwerk beschermd door een firewall of proxy? Onjuiste instellingen kunnen een goede werking tijdens het webbrowsen verstoren.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Poort beperkt om beveiligingsredenen">
+<!ENTITY deniedPortAccess.title "Poort beperkt om veiligheidsredenen">
 <!ENTITY deniedPortAccess.longDesc "<p>Het opgevraagde adres specificeert een poort (bv. <q>mozilla.org:80</q> voor poort 80 op mozilla.org) die normaal gesproken wordt gebruikt voor <em>andere</em> doeleinden dan webbrowsen. De browser heeft het verzoek geannuleerd omwille van uw bescherming en veiligheid.</p>">
 
 <!ENTITY dnsNotFound.title "Adres niet gevonden">

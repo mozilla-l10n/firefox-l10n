@@ -10,7 +10,7 @@
 <!ENTITY showHiddenFiles.label      "Verborgen bestanden en mappen tonen">
 <!ENTITY showHiddenFiles.accesskey  "V">
 
-<!ENTITY noPermissionError.label "U hebt niet de benodigde permissies om deze map te bekijken.">
+<!ENTITY noPermissionError.label "U hebt niet de benodigde rechten om deze map te bekijken.">
 
 <!ENTITY folderUp.tooltiptext   "Een niveau omhoog gaan">
 <!ENTITY folderHome.tooltiptext "Naar startmap gaan">
