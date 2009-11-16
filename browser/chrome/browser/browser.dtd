@@ -108,8 +108,8 @@
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
- -  key should not contain the letters A-F, since these are reserved
- -  shortcut keys on Linux. -->
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -265,20 +265,20 @@
 <!ENTITY reloadImageCmd.accesskey     "r">
 <!ENTITY viewImageCmd.label           "Afbeelding bekijken">
 <!ENTITY viewImageCmd.accesskey       "f">
-<!ENTITY viewImageInfoCmd.label       "Afbeeldinginfo bekijken">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageInfoCmd.label       "Afbeeldingsinfo bekijken">
+<!ENTITY viewImageInfoCmd.accesskey   "i">
 <!ENTITY viewVideoCmd.label           "Video bekijken">
-<!ENTITY viewVideoCmd.accesskey       "o">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Achtergrondafbeelding bekijken">
 <!ENTITY viewBGImageCmd.accesskey     "h">
 <!ENTITY setDesktopBackgroundCmd.label      "Als bureaubladachtergrond instellen…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "c">
-<!ENTITY bookmarkPageCmd2.label        "Bladwijzer voor deze pagina maken">
-<!ENTITY bookmarkPageCmd2.accesskey    "m">
-<!ENTITY bookmarkThisLinkCmd.label     "Bladwijzer voor deze koppeling maken">
-<!ENTITY bookmarkThisLinkCmd.accesskey "m">
-<!ENTITY bookmarkThisFrameCmd.label    "Bladwijzer voor dit deelvenster maken">
-<!ENTITY bookmarkThisFrameCmd.accesskey "m">
+<!ENTITY bookmarkPageCmd2.label       "Bladwijzer voor deze pagina maken">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Bladwijzer voor deze koppeling maken">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "Koppeling versturen…">
 <!ENTITY sendPageCmd.accesskey        "u">
 <!ENTITY savePageCmd.label            "Pagina opslaan als…">
@@ -375,7 +375,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Knippen">
 <!ENTITY copyButton.tooltip             "Kopiëren">
 <!ENTITY pasteButton.tooltip            "Plakken">
-<!ENTITY fullScreenButton.tooltip       "Venster tonen in volledig scherm">
+<!ENTITY fullScreenButton.tooltip       "Venster weergeven in volledig scherm">
 
 <!ENTITY quitApplicationCmdWin.label       "Afsluiten">
 <!ENTITY quitApplicationCmdWin.accesskey   "A">

@@ -6,9 +6,9 @@
 <!ENTITY  checking.title                  "Controleren op updates">
 <!ENTITY  updateCheck.label               "Controleren op nieuwere versies van &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Updates voor plugins gevonden">
-<!ENTITY  pluginupdatesfound.label        "Nieuwere versies van een of meerdere plugins zijn gevonden.">
-<!ENTITY  pluginupdateslink.label         "Hoe uw plugins te updaten.">
+<!ENTITY  pluginupdatesfound.title        "Updates voor plug-ins gevonden">
+<!ENTITY  pluginupdatesfound.label        "Er zijn nieuwere versies van één of meerdere plug-ins gevonden.">
+<!ENTITY  pluginupdateslink.label         "Lees hoe u uw plug-ins kunt bijwerken.">
 
 <!ENTITY  noupdatesfound.title            "Geen updates gevonden">
 <!ENTITY  noupdatesautoenabled.intro      "Er zijn geen updates beschikbaar. &brandShortName; zal periodiek
