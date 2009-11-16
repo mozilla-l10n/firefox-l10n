@@ -1,8 +1,8 @@
 <!ENTITY welcome.title                      "Wolkom by &brandShortName;">
-<!ENTITY overview.description               "Syng jo PC en mobyl mei Weave. Pas oan mei tafoegings. Sneupje mei de Awesome Bar en heel veel meer.">
-<!ENTITY sync.title                         "Sta op en start">
-<!ENTITY sync.description                   "Krij Weave om yn te brekken yn jo &brandShortName;. Diel jo foarkarren, blêdwjzers, blêderskiednis en mear tusken jo PC en mobyl.">
-<!ENTITY sync.linkLabel                     "Krij de Weave tafoeging">
-<!ENTITY getPersonal.title                  "Meitsje it persoanlik">
+<!ENTITY intro.description               	"Syngronisearje jo PC en mobyl mei Weave Sync. Pas oan mei tafoegings. Sneupje mei de Bjusterbaarlike balk en noch folle mear.">
+<!ENTITY weave.title                        "Sta op en gean">
+<!ENTITY weave.description                  "Krij Weave om yn te brekken yn jo Firefox. Diel jo foarkarren blêderskiednis, blêdwizers, bewarre wachwurden en ljepblêden tusken jo PC en mobyl.">
+<!ENTITY weave.linkLabel                    "Krij de Weave Sync tafoeging">
+<!ENTITY getPersonal.title                  "Wurdt persoanlik">
 <!ENTITY getPersonal.description            "Meitsje &brandShortName; jo eigen. Pas de alderearste browser dy't tafoegings oanbiedet foar mobyl oan.">
 <!ENTITY getPersonal.linkLabel              "Krij tafoegings foar jo mobyl.">
