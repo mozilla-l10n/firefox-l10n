@@ -1,8 +1,8 @@
 <!ENTITY welcome.title "Benvenuto in &brandShortName;">
-<!ENTITY overview.description "Sincronizza telefono e PC con Weave, personalizza la navigazione con i componenti aggiuntivi, sfrutta la barra di navigazione intelligente e molto altro ancora.">
-<!ENTITY sync.title "Inizia la navigazione">
-<!ENTITY sync.description "Installa Weave per iniziare al meglio con &brandShortName;: condividi preferenze, segnalibri, cronologia e molto altro ancora tra telefono e PC.">
-<!ENTITY sync.linkLabel "Scarica il componente aggiuntivo Weave">
+<!ENTITY intro.description "Sincronizza il tuo pc e il telefono cellulare con Weave Sync. Personalizza con i componenti aggiuntivi. Naviga con la Barra irresistibile e molto, molto, molto altro ancora.">
+<!ENTITY weave.title "Alzati e vai">
+<!ENTITY weave.description "Scarica Weave Sync per iniziare al meglio con Firefox. Potrai condividere cronologia di navigazione, segnalibri, password salvate e schede tra il tuo computer e il telefono cellulare.">
+<!ENTITY weave.linkLabel "Scarica Weave Sync">
 <!ENTITY getPersonal.title "Personalizza">
 <!ENTITY getPersonal.description "Personalizza &brandShortName;, il primo browser mobile dotato di componenti aggiuntivi, e rendilo davvero unico.">
 <!ENTITY getPersonal.linkLabel "Scarica componenti aggiuntivi per il tuo cellulare">

@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label "Preferenze">
 <!ENTITY about.title "Informazioni su &brandShortName;">
 <!ENTITY about.button "Vai alla pagina">
-<!ENTITY about.description "Aiuto e informazioni sul prodotto">
 <!ENTITY content.title "Contenuto">
 <!ENTITY showImages.title "Mostra le immagini">
 <!ENTITY enableJavaScript.title "Attiva JavaScript">
-<!ENTITY enableJavaScript.description "La maggior parte dei siti interattivi utilizza JavaScript">
 <!ENTITY enablePlugins.title "Attiva i plugin">
-<!ENTITY enablePlugins.description "I plugin vengono utilizzati per contenuti specifici come i video">
 <!ENTITY privacy.title "Privacy e sicurezza">
 <!ENTITY allowCookies.title "Permetti cookie">
-<!ENTITY allowCookies.description "I siti utilizzano i cookie per identificare il visitatore e memorizzare le sue impostazioni">
-<!ENTITY clearPrivateData.title "Cancella la cronologia recente">
+<!ENTITY clearPrivateData2.title "Elimina dati personali">
 <!ENTITY clearPrivateData.button "Cancella">
-<!ENTITY clearPrivateData.description "La cronologia fornisce a &brandShortName; dei suggerimenti per la navigazione">
 <!ENTITY rememberPasswords.title "Ricorda le password">
 <!ENTITY language.title "Lingua">
-<!ENTITY language.description "Selezionare la lingua preferita per &brandShortName;">
 <!ENTITY language.auto "Selezione automatica">
