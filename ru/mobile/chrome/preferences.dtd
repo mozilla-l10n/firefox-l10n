@@ -7,7 +7,7 @@
 <!ENTITY enablePlugins.title "Использовать плагины">
 <!ENTITY privacy.title "Приватность и защита">
 <!ENTITY allowCookies.title "Принимать куки">
-<!ENTITY clearPrivateData.title "Очистка недавней истории">
+<!ENTITY clearPrivateData2.title "Очистка личных данных">
 <!ENTITY clearPrivateData.button "Очистить">
 <!ENTITY rememberPasswords.title "Запоминать пароли">
 <!ENTITY language.title "Язык">

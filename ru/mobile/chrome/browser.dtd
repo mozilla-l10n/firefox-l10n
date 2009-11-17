@@ -2,7 +2,6 @@
 <!ENTITY forward.label "Вперёд">
 <!ENTITY reload.label "Обновить">
 <!ENTITY stop.label "Остановить">
-<!ENTITY search.label "Поиск">
 <!ENTITY go.label "Перейти">
 <!ENTITY openLocation.label "Открыть адрес">
 <!ENTITY star.label "Звёздочка">
