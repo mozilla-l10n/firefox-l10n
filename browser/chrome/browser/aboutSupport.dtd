@@ -1,0 +1,38 @@
+<!ENTITY aboutSupport.pageTitle "Informacije o problemu">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Ova stranica sadrži tehničke informacije koje bi mogle biti korisne pri 
+  rješavanju problema. Ako tražite odgovore na česta pitanja o 
+  &brandShortName;, pogledajte našu <a id='supportLink'>web stranicu za
+  podršku</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Proširenja">
+<!ENTITY aboutSupport.extensionName "Ime">
+<!ENTITY aboutSupport.extensionEnabled "Omogućeno">
+<!ENTITY aboutSupport.extensionVersion "Inačica">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
+<!ENTITY aboutSupport.appBasicsName "Ime">
+<!ENTITY aboutSupport.appBasicsVersion "Inačica">
+<!ENTITY aboutSupport.appBasicsProfileDir "Direktorij profila">
+<!ENTITY aboutSupport.appBasicsPlugins "Instalirani dodaci">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija izrade">
+
+<!ENTITY aboutSupport.show.label "Otvori sadržani direktorij">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Prikaži u Finderu">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Izmijenjene osobitosti">
+<!ENTITY aboutSupport.modifiedPrefsName "Ime">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Povijest instalacija">
+<!ENTITY aboutSupport.updateHistoryTitle "Osvježi povijest">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopiraj sve u međuspremnik">
