@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label "Tercihler">
 <!ENTITY about.title "&brandShortName; hakkında">
 <!ENTITY about.button "Sayfaya git">
-<!ENTITY about.description "Yardım ve ürün bilgileri">
 <!ENTITY content.title "İçerik">
 <!ENTITY showImages.title "Resimleri göster">
 <!ENTITY enableJavaScript.title "JavaScript'i etkinleştir">
-<!ENTITY enableJavaScript.description "En interaktif siteler JavaScript kullanıyor">
 <!ENTITY enablePlugins.title "Yan uygulamaları etkinleştir">
-<!ENTITY enablePlugins.description "Yan uygulamalar video gibi özel içerik için kullanılıyor">
 <!ENTITY privacy.title "Kişisel gizlilik ve güvenlik">
 <!ENTITY allowCookies.title "Çerezlere izin ver">
-<!ENTITY allowCookies.description "Ayarlarınızı hatırlamak için siteler çerez kullanıyorlar">
 <!ENTITY clearPrivateData.title "Ziyaret edilen sitelerin listesini temizle">
 <!ENTITY clearPrivateData.button "Temizle">
-<!ENTITY clearPrivateData.description "&brandShortName; uygulaması geçmişi kullanarak nereyi ziyaret etmek istediğinizi önerir">
 <!ENTITY rememberPasswords.title "Parolaları hatırla">
 <!ENTITY language.title "Dil">
-<!ENTITY language.description "&brandShortName; için tercih ettiğiniz dili seçin">
 <!ENTITY language.auto "Otomatik algıla">
