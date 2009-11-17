@@ -1,37 +1,37 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Podatki za odpravljanje težav">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're 
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+  Ta stran vsebuje tehnične podatke, ki vam bodo lahko v pomoč, ko boste poskušali 
+  odpraviti težave. Če iščete odgovore na pogosta vprašanja
+  o &brandShortName;u, obiščite <a id='supportLink'>spletno stran tehnične podpore</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "Razširitve">
+<!ENTITY aboutSupport.extensionName "Ime">
+<!ENTITY aboutSupport.extensionEnabled "Omogočeno">
+<!ENTITY aboutSupport.extensionVersion "Različica">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsPlugins "Installed Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsTitle "Osnovni podatki o programu">
+<!ENTITY aboutSupport.appBasicsName "Ime">
+<!ENTITY aboutSupport.appBasicsVersion "Različica">
+<!ENTITY aboutSupport.appBasicsProfileDir "Mapa s profilom">
+<!ENTITY aboutSupport.appBasicsPlugins "Nameščeni vstavki">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitve izdaje">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Odpri mapo">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Pokaži v Finderju">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Spremenjene nastavitve">
+<!ENTITY aboutSupport.modifiedPrefsName "Ime">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vrednost">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "Zgodovina namestitev">
+<!ENTITY aboutSupport.updateHistoryTitle "Zgodovina posodobitev">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Kopiraj vse v odložišče">
