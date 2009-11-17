@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label "Настройки">
 <!ENTITY about.title "О &brandShortName;">
 <!ENTITY about.button "Перейти на страницу">
-<!ENTITY about.description "Открыть справку и информацию о продукте">
 <!ENTITY content.title "Содержимое">
 <!ENTITY showImages.title "Показывать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
-<!ENTITY enableJavaScript.description "Большинство интерактивных сайтов используют JavaScript">
 <!ENTITY enablePlugins.title "Использовать плагины">
-<!ENTITY enablePlugins.description "Плагины используются для специального контента, например видео">
 <!ENTITY privacy.title "Приватность и защита">
 <!ENTITY allowCookies.title "Принимать куки">
-<!ENTITY allowCookies.description "Сайты используют куки для вашей идентификации и запоминания ваших настроек">
 <!ENTITY clearPrivateData.title "Очистка недавней истории">
 <!ENTITY clearPrivateData.button "Очистить">
-<!ENTITY clearPrivateData.description "Ваша история поможет &brandShortName; предположить, куда вы захотите пойти">
 <!ENTITY rememberPasswords.title "Запоминать пароли">
 <!ENTITY language.title "Язык">
-<!ENTITY language.description "Выберите язык интерфейса для &brandShortName;">
 <!ENTITY language.auto "Автоопределение">
