@@ -261,8 +261,8 @@
 <!ENTITY reloadImageCmd.accesskey     "P">
 <!ENTITY viewImageCmd.label "Pokaži sliko">
 <!ENTITY viewImageCmd.accesskey "I">
-<!ENTITY viewImageInfoCmd.label       "View Image Info">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageInfoCmd.label       "Podatki o sliki">
+<!ENTITY viewImageInfoCmd.accesskey   "s">
 <!ENTITY viewVideoCmd.label           "Pokaži video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label "Pokaži sliko za ozadje">
