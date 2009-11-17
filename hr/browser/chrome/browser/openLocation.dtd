@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Odaberi datoteku...">
 <!ENTITY newWindow.label "Novi prozor">
 <!ENTITY newTab.label "Nova kartica">
-<!ENTITY topWindow.label "Trenutni prozor">
+<!ENTITY topTab.label "Trenutna kartica">
 <!ENTITY caption.label "Otvori web lokaciju">
 <!ENTITY openWhere.label "Otvori u:">
 <!ENTITY openBtn.label "Otvori">

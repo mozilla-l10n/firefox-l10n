@@ -10,25 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "zabilješke">
 <!ENTITY  locbar.nothing.label          "ništa">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Čuvaj moju povijest barem">
-<!ENTITY  rememberDaysBefore.accesskey  "p">
-<!ENTITY  rememberDaysAfter2.label      "dana">
-
-<!ENTITY  rememberForms.label           "Upamti što upisujem u obrasce i polje pretraživača">
-<!ENTITY  rememberForms.accesskey       "t">
-
-<!ENTITY  rememberDownloads.label       "Zapamti što sam preuzeo">
-<!ENTITY  rememberDownloads.accesskey   "p">
-
-
-<!ENTITY  cookies.label                 "Kolačići">
-
 <!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -48,14 +29,6 @@
 <!ENTITY  showCookies.label             "Prikaži kolačiće...">
 <!ENTITY  showCookies.accesskey         "k">
 
-
-<!ENTITY  privateData.label             "Privatni podaci">
-
-<!ENTITY  alwaysClear.label              "Uvijek očisti moje privatne podatke kod zatvaranja &brandShortName;">
-<!ENTITY  alwaysClear.accesskey          "U">
-
-<!ENTITY  clearDataSettings.label        "Postavke...">
-<!ENTITY  clearDataSettings.accesskey    "t">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; će:">
 <!ENTITY  historyHeader.pre.accesskey      "e">
@@ -94,6 +67,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Postavke…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY  clearDataNow.label             "Očisti sada...">
-<!ENTITY  clearDataNow.accesskey         "s">

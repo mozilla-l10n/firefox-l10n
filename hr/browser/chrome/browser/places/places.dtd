@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "P">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Zabilježi ovu stranicu…">
+<!ENTITY cmd.bookmarkLink.accesskey     "Z">
 <!ENTITY cmd.delete.label               "Obriši ovu stranicu">
 <!ENTITY cmd.delete.accesskey           "O">
 <!ENTITY cmd.deleteDomainData.label     "Zaboravi ovu stranicu">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "U">
 
 <!ENTITY backCmd.label       "Natrag">
-<!ENTITY backCmd.accesskey   "t">
 <!ENTITY backButton.tooltip  "Idi natrag">
 
 <!ENTITY forwardCmd.label       "Naprijed">
-<!ENTITY forwardCmd.accesskey   "p">
 <!ENTITY forwardButton.tooltip  "Idi naprijed">
 
 <!ENTITY detailsPane.more.label "Više">

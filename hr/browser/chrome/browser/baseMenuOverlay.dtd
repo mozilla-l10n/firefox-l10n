@@ -12,37 +12,34 @@
 <!ENTITY helpMenuWin.accesskey    "P">
 <!ENTITY aboutCmd.label           "O &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "O">
-<!ENTITY helpContents.label       "Sadržaj pomoći">
-<!ENTITY helpContents.accesskey   "S">
-<!ENTITY helpContentsMac.label    "&brandShortName; Pomoć">
+<!ENTITY productHelp.label        "&brandShortName; pomoć">
+<!ENTITY productHelp.accesskey    "p">
 <!ENTITY helpForIEUsers.label     "Za korisnike Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY helpMac.commandkey       "?">
+
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "VK_HELP">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
 
 <!ENTITY helpReleaseNotes.label         "Bilješke izdanih inačica">
 <!ENTITY helpReleaseNotes.accesskey     "B">
+
+<!ENTITY helpTroubleshooting.label      "Informacije o greški…">
+<!ENTITY helpTroubleshooting.accesskey  "g">
+
 <!ENTITY updateCmd.label                "Provjeri za nadogradnje...">
-<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "Postavke...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Servisi">
 
 <!ENTITY hideThisAppCmdMac.label        "Sakrij &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sakrij ostale">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži sve">

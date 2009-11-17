@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "t">
 <!ENTITY openInNewWindow.label "Otvori u novom prozoru">
 <!ENTITY openInNewWindow.accesskey "t">
-<!ENTITY bookmarkLink.label "Zabilježi ovaj link...">
-<!ENTITY bookmarkLink.accesskey "l">
 <!ENTITY copyLink.label "Kopiraj lokaciju poveznice">
 <!ENTITY copyLink.accesskey "C">
