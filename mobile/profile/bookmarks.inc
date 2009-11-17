@@ -15,16 +15,16 @@
 # link title for about:firstrun
 #define bookmarks_welcome Firefox: Добро пожаловать
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: О программе
+#define bookmarks_aboutBrowser Firefox: О вашем браузере
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
 #define bookmarks_weave Firefox: Синхронизация с использованием Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://addons.mozilla.org/en-US/mobile
+# link title for https://addons.mozilla.org/ru/mobile
 #define bookmarks_addons Firefox: Настройка с помощью дополнений
 
 # LOCALIZATION NOTE (bookmarks_support):
