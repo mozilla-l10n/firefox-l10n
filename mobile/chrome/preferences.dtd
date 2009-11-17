@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                          "Foarkarren">
 <!ENTITY about.title                                "Oer &brandShortName;">
 <!ENTITY about.button                               "Gean nei side">
-<!ENTITY about.description                          "Krij help en produktynformaasje">
 <!ENTITY content.title								"Ynhâld">
 <!ENTITY showImages.title							"Toan ôfbyldings">
 <!ENTITY enableJavaScript.title						"Javaskript ynskeakelje">
-<!ENTITY enableJavaScript.description				"Meast ynteraktive websteeën brûke JavaScript">
 <!ENTITY enablePlugins.title						"Ynstekkers ynskeakelje">
-<!ENTITY enablePlugins.description					"Ynstekkers wurde brûkt foar spesjale ynhâld lykas fideo">
 <!ENTITY privacy.title								"Privacy &amp; Feilichheid">
 <!ENTITY allowCookies.title							"Cookies tastean">
-<!ENTITY allowCookies.description					"Websteeën brûke cookies om jo te identifisearjen en jo ynstellings te ûnthâlden">
-<!ENTITY clearPrivateData.title						"Wis resinte sneupskiednis">
+<!ENTITY clearPrivateData.title						"Wiskje resinte sneupskiednis">
 <!ENTITY clearPrivateData.button					"Wiskje">
-<!ENTITY clearPrivateData.description				"Jo skiednis helpt &brandShortName; foarstellen te jaan wêr't jo hinne wolle">
 <!ENTITY rememberPasswords.title					"Wachtwurden bewarje">
 <!ENTITY language.title                            	"Taal">
-<!ENTITY language.description                      	"Kies jo winske taal foar &brandShortName;">
 <!ENTITY language.auto                             	"Auto-detektearje">
