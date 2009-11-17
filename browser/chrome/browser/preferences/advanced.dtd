@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Automatski provjeri postojanje nadogradnji za:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Instalirane dodatke">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate2.label       "Dodaci">
+<!ENTITY enableAddonsUpdate2.accesskey   "D">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
 <!ENTITY enableSearchUpdate.accesskey    "t">
 <!ENTITY whenUpdatesFound.label          "Kad su nadogradnje za &brandShortName; pronađene:">

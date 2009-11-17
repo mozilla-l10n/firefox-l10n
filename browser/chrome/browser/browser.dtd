@@ -11,7 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privatno pretraživanje)">
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Nova kartica">
 <!ENTITY tabCmd.accesskey "t">
@@ -34,6 +33,8 @@
 <!ENTITY goOfflineCmd.label "Izvanmrežni rad">
 <!ENTITY goOfflineCmd.accesskey "v">
 
+<!ENTITY menubarCmd.label "Traka izbornika">
+<!ENTITY menubarCmd.accesskey "i">
 <!ENTITY navbarCmd.label "Navigacijska alatna traka">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Alatna traka zabilješki">
@@ -50,6 +51,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Potpuni ekran">
 <!ENTITY fullScreenCmd.accesskey "e">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Prikaži sve kartice">
+<!ENTITY showAllTabsCmd.accesskey "S">
 
 <!ENTITY fullScreenMinimize.tooltip "Smanji">
 <!ENTITY fullScreenRestore.tooltip "Vrati">
@@ -88,6 +92,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Zaustavi učitavanje stranice">
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
+<!ENTITY feedButton.tooltip           "Predbilježi se na ovu stranicu…">
 <!ENTITY printButton.label            "Ispis">
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
 
@@ -101,13 +106,13 @@
 
 <!ENTITY bookmarksButton.label          "Zabilješke">
 <!ENTITY bookmarksButton.tooltip        "Prikaži svoje zabilješke">
-<!ENTITY bookmarksSidebarCmd.accesskey  "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "i">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Povijest">
 <!ENTITY historyButton.tooltip          "Prikaži nedavno posjećene stranice">
@@ -198,7 +203,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Pretraži zabilješke i povijest">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Pretraži zabilješke i povijest">
 <!ENTITY urlbar.bookmark.emptyText    "Pretraži zabilješke">
 <!ENTITY urlbar.history.emptyText     "Pretraži povijest">
@@ -260,6 +264,8 @@
 <!ENTITY reloadImageCmd.accesskey     "u">
 <!ENTITY viewImageCmd.label           "Pogledaj sliku">
 <!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "Prikaži informacije o slici">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Pogledaj video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Pogledaj pozadinsku sliku">
@@ -312,8 +318,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopiraj lokaciju zvuka">
 <!ENTITY copyAudioURLCmd.accesskey    "z">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY metadataCmd.label            "Svojstva">
-<!ENTITY metadataCmd.accesskey        "j">
 <!ENTITY copyEmailCmd.label           "Kopiraj adresu e-pošte">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Ovaj okvir">
@@ -368,6 +372,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
 <!ENTITY pasteButton.tooltip            "Zalijepi">
+<!ENTITY fullScreenButton.tooltip       "Prikaži prozor preko cijelog zaslona">
 
 <!ENTITY quitApplicationCmdWin.label       "Izlaz"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "I">
@@ -444,4 +449,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Kliknite za otvaranje prozora preuzimanja">
 
-<!ENTITY ctrlTab.search.emptyText "Kartice pretraživanja">
+<!ENTITY allTabs.filter.emptyText "Kartice pretraživanja">

@@ -13,14 +13,14 @@
 <!ENTITY safeb.palm.decline.label "Zanemari ovo upozorenje">
 <!ENTITY safeb.palm.decline.statustext "Zatvori upozorenje" >
 <!ENTITY safeb.palm.notforgery.label2 "Ovo nije web krivotvorina…">
-<!ENTITY safeb.palm.report.label "Zašto je ova stranica blokirana?">
+<!ENTITY safeb.palm.reportPage.label "Zašto je ova stranica blokirana?">
 
-<!ENTITY safeb.blocked.malware.title "Prijavljena zloćudna stranica!">
+<!ENTITY safeb.blocked.malwarePage.title "Prijavljena zloćudna stranica!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Web stranica <span id='malware_sitename'/> je prijavljena kao zloćudna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Zloćudne stranice pokušavaju instalirati program koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p><p>Neke sloćudne stranice namjerno distribuiraju zloćudne programe, ali isto tako postoji mnogo stranica koje su izmijenjene bez znanja i dozvole njihovih vlasnika.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Web stranica <span id='malware_sitename'/> je prijavljena kao zloćudna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Zloćudne stranice pokušavaju instalirati program koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p><p>Neke sloćudne stranice namjerno distribuiraju zloćudne programe, ali isto tako postoji mnogo stranica koje su izmijenjene bez znanja i dozvole njihovih vlasnika.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Prijavljena web krivotvorina!">
+<!ENTITY safeb.blocked.phishingPage.title "Prijavljena web krivotvorina!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Web stranica <span id='phishing_sitename'/> je prijavljena kao web krivotvorina i blokirana je na temelju vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Web prijevare su osmišljene tako da vas navedu u otkrivanje osobnih ili financijskih informacija, imitirajući stranice kojima vjerujete.</p><p>Unošenje bilo kakvih informacija na ovoj stranici može rezultirati krađom identiteta ili drugim prijevarama.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Web stranica <span id='phishing_sitename'/> je prijavljena kao web krivotvorina i blokirana je na temelju vaših sigurnosnih postavki.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web prijevare su osmišljene tako da vas navedu u otkrivanje osobnih ili financijskih informacija, imitirajući stranice kojima vjerujete.</p><p>Unošenje bilo kakvih informacija na ovoj stranici može rezultirati krađom identiteta ili drugim prijevarama.</p>">

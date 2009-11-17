@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Poništi alatne trake i kontrole">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Poništi zabilješke na zadane postavke za &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "Obriši sve zabilješke osim za sigurnosnu pohranu">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "Poništi sve korisničke postavke na zadane postavke za &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">

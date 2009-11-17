@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "a">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Pronalazi nadogradnje za vaše dodatke">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Pronalazi nadogradnje za vaše teme">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Pronalazi nadogradnje za vaše priključke">
 <!ENTITY cmd.installLocalFile.label       "Instaliraj...">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "Instaliraj dodatak">
 <!ENTITY cmd.installFileTheme.tooltip     "Instaliraj temu">
-<!ENTITY cmd.installUpdatesAll.label      "Instaliraj nadogradnje">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Instalira odabrane nadogradnje">
+<!ENTITY cmd.installUpdatesAll2.label     "Instaliraj nadogradnje">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Instaliraj odabrane nadogradnje">
 <!ENTITY cmd.restartApp2.label            "Ponovo pokreni &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Ponovo pokreni &brandShortName; radi primjene promjena">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Zahtijeva dodatne stavke.">
 <!ENTITY blocklisted.label                "Onemogućeno radi vaše zaštite.">
 <!ENTITY softBlocklisted.label            "Poznato je da narušava sigurnost ili stabilnost.">
+<!ENTITY outdated.label                   "Novija, sigurnija inačica je dostupna.">
 <!ENTITY toBeDisabled.label               "Ovaj dodatak će biti onemogućen kad se &brandShortName; ponovno pokrene.">
 <!ENTITY toBeEnabled.label                "Ovaj dodatak će biti omogućen kad se &brandShortName; ponovno pokrene.">
 <!ENTITY toBeInstalled.label              "Ovaj dodatak će biti instaliran kad se &brandShortName; ponovno pokrene.">
