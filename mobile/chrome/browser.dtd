@@ -2,7 +2,6 @@
 <!ENTITY forward.label "Avanti">
 <!ENTITY reload.label "Ricarica">
 <!ENTITY stop.label "Stop">
-<!ENTITY search.label "Cerca">
 <!ENTITY go.label "Vai">
 <!ENTITY openLocation.label "Apri indirizzo">
 <!ENTITY star.label "Stella">
