@@ -1,10 +1,10 @@
-<!ENTITY doNotDownloadPop3Movemail.label "디스크 공간을 확보하려면 메시지를 저장하지 마십시오.">
-<!ENTITY doNotDownloadNntp.label "디스크 공간을 확보하려면 오프라인 사용을 위한 메시지 저장을 하지 마십시오.">
-<!ENTITY doNotDownloadImap.label "디스크 공간을 확보하려면, 서버에서 받은 메시지와 오프라인을 위한 로컬 복사본 유지에 기간 또는 크기 제한을 하십시오.">
+<!ENTITY doNotDownloadPop3Movemail.label "디스크 용량을 확보하려면 메시지를 저장하지 마십시오.">
+<!ENTITY doNotDownloadNntp.label "디스크 용량을 확보하려면 오프라인 사용을 위한 메시지 저장을 하지 마십시오.">
+<!ENTITY doNotDownloadImap.label "디스크 용량을 확보하려면, 서버에서 받은 메시지와 오프라인을 위한 로컬 복사본 유지에 기간 또는 크기 제한을 하십시오.">
 <!ENTITY allFoldersOffline.label "컴퓨터에 현재 계정 메시지 보관">
 <!ENTITY allFoldersOffline.accesskey "o">
 
-<!ENTITY offlineNotDownload.label "다음 지정 용향 이상 메시지 저장 안함:">
+<!ENTITY offlineNotDownload.label "다음에 지정된 용량 이상은 메시지를 저장하지 않음:">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "지정한 사이즈 보다 큰 메시지 받지 않음: ">
 <!ENTITY autosyncNotDownload.accesskey "m">
@@ -15,9 +15,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "메시지 본문 받기">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "디스크 용량을 늘리려면 오래된 메시지는 삭제해야 합니다.">
-<!ENTITY retentionCleanupImap.label "디스크 용량을 복구하기 위해 오래된 메시지는 영구적으로 삭제 합니다. 이 컴퓨터 및 원격 서버의 원본까지 제거 합니다.">
-<!ENTITY retentionCleanupPop.label "디스크 용량을 복구하기 위해 오래된 메시지는 영구적으로 삭제 합니다. 원격 서버의 원본을 제거 합니다.">
+<!ENTITY retentionCleanup.label "디스크 용량을 확보 하려면 오래된 메시지는 삭제해야 합니다.">
+<!ENTITY retentionCleanupImap.label "디스크 용량을 확보하기 위해 오래된 메시지를 완전히 삭제 합니다. 이 컴퓨터 및 원격 서버의 원본까지 제거 합니다.">
+<!ENTITY retentionCleanupPop.label "디스크 용량을 확보하기 위해 오래된 메시지를 완전히 삭제 합니>다. 원격 서버의 원본을 제거 합니다.">
 <!ENTITY retentionKeepMsg.label "오래된 메시지 삭제하기">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "메시지 삭제하지 않기">
@@ -35,7 +35,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "고급 설정…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "메시지 동기화">
-<!ENTITY diskspaceGroupTitle.label "디스크 공간">
+<!ENTITY diskspaceGroupTitle.label "디스크 용량">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
