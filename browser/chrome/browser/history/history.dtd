@@ -1,3 +1,6 @@
+
+
+
 <!ENTITY find.label "தேடுக:">
 <!ENTITY find.accesskey "">
 <!ENTITY expand.label "விரிக்கவும்">
@@ -22,5 +25,7 @@
 <!ENTITY openInNewTab.accesskey "">
 <!ENTITY openInNewWindow.label "புதிய சாளரத்தில் திறக்கவும்">
 <!ENTITY openInNewWindow.accesskey "">
+
+
 <!ENTITY copyLink.label "இணைப்பை நகலெடுக்கவும்">
 <!ENTITY copyLink.accesskey "">

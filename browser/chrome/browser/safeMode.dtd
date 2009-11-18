@@ -1,3 +1,6 @@
+<!ENTITY deleteBookmarks.label        "படியெடுப்புக்கு தவிர்ந்த மற்றைய எல்லா புத்தகக்குறிகளையும் நீக்குக">
+<!ENTITY deleteBookmarks.accesskey    "b">
+
 <!-- ***** BEGIN LICENSE BLOCK *****
    - ***** END LICENSE BLOCK ***** -->
 
@@ -13,8 +16,7 @@
 <!ENTITY resetToolbars.label "கருவிப்பட்டைகள் மற்றும் கட்டுப்பாடுகளை மீண்டும் அமைக்கவும்">
 <!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
-<!ENTITY deleteBookmarks.accesskey    "b">
+
 
 <!ENTITY resetUserPrefs.label "அனைத்து பயனர் விருப்பத்தேர்வுகளையும் &brandShortName;-ன் பொதுஇருப்பாக மீண்டும் அமைக்கவும்">
 <!ENTITY resetUserPrefs.accesskey "p">

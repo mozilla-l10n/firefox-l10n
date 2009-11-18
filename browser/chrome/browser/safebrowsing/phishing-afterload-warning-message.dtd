@@ -1,3 +1,12 @@
+<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
+
+
 <!ENTITY safeb.palm.warning.title "சந்தேகத்துக்கு உரிய வலைய மோசடி">
 
 <!ENTITY safeb.palm.message.p1 "பயனாளர்களின் பிரத்தியேகத் தகவல்கள் அல்லது நிதி தகவல்களை தந்திரமாகப் பகிர்வதற்கு வடிவமைக்கப்பட்ட இணைய மோசடிப்பக்கமாக இந்தப் பக்கம் அறிக்கைப்படுத்தப்பட்டுள்ளது.இந்தப் பக்கத்தில் நுழைக்கும் எந்தவொரு பிரத்தியேகத் தகவலும் அடையாளத்திருட்டுக்கோ அல்லது ஏனைய மோசடிக்கோ வழிவகுக்கும். &#160;">
@@ -13,30 +22,14 @@
 <!ENTITY safeb.palm.decline.label "இந்த எச்சரிக்கையை தவிர்க்கவும்">
 <!ENTITY safeb.palm.decline.statustext "எச்சரிக்கையை மூடுக">
 <!ENTITY safeb.palm.notforgery.label2 "இது வலைய மோசடி இல்லை">
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
-
 
 
 <!-- from version 3.05b -->
 
-<!-- <!ENTITY safeb.blocked.malware.title "தெரிவிக்கப்பட்டுள்ள அபாயகரமான தளம்!">
 
-<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> இலுள்ள இத்தளம் ஒரு அபாயகரமான தளமாக அறிவிப்பட்டுள்ளதுடன் உங்களது பாதுகாப்பு அமைப்புகளின் மூலம் தடுக்கப்பட்டும் உள்ளது.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>அபாயகரமாக தளங்கள் உங்கள் பிரத்தியேகத் தகவல்களைத் திருடுவதற்கான, உங்கள் கணினியை பயன்படுத்தி வேறு கணினிகளை தாக்குவதற்கும் அல்லது உங்கள் கணினியைச் சேதப்படுத்தும் நிரல்களை நிறுவ முயற்சிக்கலாம்.</p><p>வேறும் சில அபாயகரமான தளங்கள் வேண்டுமென்றே பாதிப்பை ஏற்படுத்தக்கூடிய மென்பொருள்களை அவற்றின் உரிமையாளரருக்குத் தெரியாமல் பரப்பலாம்.</p>">
-
-<!ENTITY safeb.blocked.phishing.title "Reported Web Forgery!">
-<!ENTITY safeb.blocked.phishing.shortDesc "இந்த இணையத்தளமானது <span id='phishing_sitename'/> இணைய மோசடித்தளமாக அறிக்கை செய்யப்பட்டிருப்பதுடன் உங்களுடைய பாதுகாப்பு முன்னுரிமைகளின் அடிப்படையில் தடைசெய்யப்பட்டுமுள்ளது.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>மோசடி இணையத்தளங்கள் நாம் நம்பிக்கை வைத்துள்ள தளங்கள் போன்று செயற்பட்டு எமது பிரத்தியேக மற்றும் பணரீதியான தகவல்களைப் பெறும் வகையில் வடிவமைக்கப்பட்டிருக்கும்.</p><p>இத்தளத்தில் பதியப்படும் எந்தவொரு தகவலும் அடையாளத் திருட்டுக்கோ அல்லது வேறு மோசடிக்கே வழிவகுக்கலாம்.</p>">
-<!ENTITY safeb.palm.report.label "ஏன் இந்தத் தளம் தடைசெய்யப்பட்டுள்ளது?"> -->
-
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
 
 

@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip            "இந்தப் பக்கத்தை அச்சிடுக">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Search">
-<!ENTITY searchHeader.label             "Search results">
+<!ENTITY search.emptytext               "தேடல்">
+<!ENTITY searchHeader.label             "தேடல் பெறுபேறுகள்">
 <!ENTITY toctab.label                   "உள்ளடக்கங்கள்">
 <!ENTITY toctab.accesskey               "C">
 

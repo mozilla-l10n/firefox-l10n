@@ -1,10 +1,12 @@
 <!-- extracted from content/openLocation.xul -->
+<!ENTITY topTab.label "வழக்கத்திலுள்ள கீற்று">
+
 
 <!ENTITY enter.label "வலைமுகவரியை எழுதுக (URL), அல்லது திறக்க விரும்பும் கோப்பு உள்ள இடத்தை குறிப்பிடவும்:">
 <!ENTITY chooseFile.label "கோப்பைத் தேர்ந்தெடு...">
 <!ENTITY newWindow.label "புதிய சாளரம்">
 <!ENTITY newTab.label "புதிய தத்தல்">
-<!ENTITY topTab.label "Current Tab">
+
 <!ENTITY caption.label "வலைய முகவரியை திறக்கவும்">
 <!ENTITY openWhere.label "இங்கு திறக்கவும்:">
 

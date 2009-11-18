@@ -4,11 +4,11 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; இந்த அமர்விற்காக எந்த வரலாற்றினையும் ஞாபகப்படுத்த மாட்டாது.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; நடப்பில் தனிப்பட்ட உலாவல் முறைமையில் இருக்கவில்லை">
 
-<!ENTITY privatebrowsingpage.description               "தனிப்பட்ட உலாவல் அமர்வில், &brandShortName; எந்தவொரு உலாவல் வரலாற்றினையோ,தேடல் வரலாற்றினையோ,பதிவிறக்கல் வரலாற்றினையோ,இணைய படிவ வாலாற்றினையோ,குக்கீஸ்களையோ அல்லது தற்காலிக இணையக் கோப்புக்களையோ வைத்திருக்காது.However, files you download and bookmarks you make will be kept.">
+<!ENTITY privatebrowsingpage.description               "தனிப்பட்ட உலாவல் அமர்வில், &brandShortName; எந்தவொரு உலாவல் வரலாற்றினையோ,தேடல் வரலாற்றினையோ,பதிவிறக்கல் வரலாற்றினையோ,இணைய படிவ வாலாற்றினையோ,குக்கீஸ்களையோ அல்லது தற்காலிக இணையக் கோப்புக்களையோ வைத்திருக்காது.எப்படியாயினும்,உங்களால் பதிவிறக்கம் செய்யப்ட்ட கோப்புகள் மற்றும் புத்தககுறிகள் சேமிக்கப்படும்.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "You may want to start by also ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "நீங்களும் தொடங்க வேண்டும்">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "உங்களது அண்மைக்கால வரலாற்றினைச் சுத்தம் செய்க">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 

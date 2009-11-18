@@ -1,10 +1,10 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
+<!ENTITY blocklist.title             "உட்செருகல்கள் பிரச்சினைகளை ஏற்படுத்தலாம்.">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
+<!ENTITY blocklist.summary           "கீழே காணப்படும் உட்செருகலானது நிலையான தன்மைக்கு அல்லது பாதுகாப்பிற்கு பிரச்சினைகளை ஏற்படுத்தும் என &brandShortName; தீர்மானித்துள்ளது:">
+<!ENTITY blocklist.softblocked       "உங்களுடைய பாதுகாப்பிற்காக,இந்த உட்செருகல்களை இயலாமைப்படுத்தி மீள ஆரம்பிக்குமாறு இது பரிந்துரைக்கின்றது.">
+<!ENTITY blocklist.hardblocked       "நிலையான தன்மைக்கு அல்லது பாதுகாப்பிற்கு பிரச்சினைகளை ஏற்படுத்தும் உயர்ந்த சிக்கலை இந்த உட்செருகல் கொண்டிருப்பதுடன் இது தடுக்கப்பட்டும் உள்ளது,ஆனால் இவற்றை பூரணமாக இயலாமைப்படுத்துவதற்கு நீங்கள் மீள ஆரம்பிக்க வேண்டும்.">
 <!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.moreinfo          "மேலதிக தகவல்கள்">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
+<!ENTITY blocklist.accept.label      "&brandShortName;ஐ மீள ஆரம்பிக்கவும்">
 <!ENTITY blocklist.accept.accesskey  "R">

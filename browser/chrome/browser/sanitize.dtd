@@ -28,7 +28,7 @@ that require it.  -->
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemDownloadHistory.label         "பதிவிறக்க வரலாறு">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemFormSearchHistory.label       "Form &amp; Search History">
+<!ENTITY itemFormSearchHistory.label       "Form &amp; வரலாற்று தேடல்">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemHistoryAndDownloads.label     "உலாவுவதுடன் வரலாற்றினைப் பதிவிறக்கம் செய்க">
 <!ENTITY itemSitePreferences.accesskey     "S">

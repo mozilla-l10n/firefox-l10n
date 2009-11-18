@@ -7,9 +7,9 @@
 <!ENTITY closeCmdGNOME.label        "மூடுக">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 பங்களிப்பாளர்கள். All rights reserved. (">
 <!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Licensing information">
+<!ENTITY licenseLinkText            "உரிமத் தகவல்">
 <!ENTITY copyrightInfo2             ").">
 
 
