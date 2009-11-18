@@ -13,20 +13,20 @@
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: Bienvenue
+#define bookmarks_welcome Firefox : Bienvenue
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: À propos de
+#define bookmarks_about Firefox : À propos de votre navigateur
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Synchroniser en utilisant Weave
+#define bookmarks_weave Firefox : Synchroniser en utilisant Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Personnaliser avec des modules complémentaires
+#define bookmarks_addons Firefox : Personnaliser avec des modules complémentaires
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: Assistance
+#define bookmarks_support Firefox : Assistance
