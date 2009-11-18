@@ -7,13 +7,11 @@
 <!ENTITY offline.toggleOffline.label "Pārslēgites tiešsaistē.">
 <!ENTITY offline.toggleOffline.accesskey "P">
 
-<!ENTITY mismatch.win.title "Nesaderīgi paplašinājumi">
-<!ENTITY mismatch.top.label "Šie paplašinājumi nav saderīgi ar šo &brandShortName; 
- versiju un tika atslēgti:">
-<!ENTITY mismatch.bottom.label "&brandShortName; var pārbaudīt, vai ir pieejamas saderīgas 
- šo papildinājumu versijas">
+<!ENTITY mismatch.win.title "Nesaderīgi papildinājumi">
+<!ENTITY mismatch.top.label "Šie papildinājumi nav saderīgi ar šo &brandShortName; versiju un tika atslēgti:">
+<!ENTITY mismatch.bottom.label "&brandShortName; var pārbaudīt, vai ir pieejamas saderīgas šo papildinājumu versijas">
 
-<!ENTITY checking.wizard.title "Meklē saderīgus paplašinājumus">
+<!ENTITY checking.wizard.title "Meklē saderīgus papildinājumus">
 <!ENTITY checking.top.label "Pārbauda atjauninājumus nesaderīgajiem papildinājumiem...">
 <!ENTITY checking.status "Tas var aizņemt dažas minūtes...">
 

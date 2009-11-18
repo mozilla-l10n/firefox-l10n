@@ -54,10 +54,10 @@
 <!ENTITY cmd.useTheme.tooltip "Maina &brandShortName; tēmu">
 <!ENTITY cmd.options.label "Iestatījumi">
 <!ENTITY cmd.options.accesskey "S">
-<!ENTITY cmd.options.tooltip "Mainīt izvēlētā paplašinājuma iestatījumus">
+<!ENTITY cmd.options.tooltip "Mainīt izvēlētā papildinājuma iestatījumus">
 <!ENTITY cmd.optionsUnix.label "Iestatījumi">
 <!ENTITY cmd.optionsUnix.accesskey "s">
-<!ENTITY cmd.optionsUnix.tooltip "Mainīt izvēlētā paplašinājuma iestatījumus">
+<!ENTITY cmd.optionsUnix.tooltip "Mainīt izvēlētā papildinājuma iestatījumus">
 <!ENTITY cmd.enable.label "Ieslēgt">
 <!ENTITY cmd.enable.accesskey "E">
 <!ENTITY cmd.enable.tooltip "Ieslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
@@ -120,7 +120,7 @@
 <!ENTITY toBeUninstalled.label "Šis papildinājums tiks noņemts pēc &brandShortName; pārstartēšanas.">
 <!ENTITY toBeUpdated.label "Šis papildinājums tiks atjaunināts pēc &brandShortName; pārstartēšanas.">
 
-<!ENTITY getExtensions.label "Dabūt paplašinājumus">
+<!ENTITY getExtensions.label "Dabūt papildinājumus">
 <!ENTITY getThemes.label "Dabūt tēmas">
 <!ENTITY getPlugins.label "Dabūt spraudņus">
 
@@ -144,7 +144,7 @@
 <!ENTITY searchResultInstalling.label "Instalē...">
 <!ENTITY searchResultFailed.label "Instalēšana neizdevās">
 <!ENTITY searchResultInstalled.label "Instalēšana pabeigta">
-<!ENTITY addonTypeExtension.label "Paplašinājums">
+<!ENTITY addonTypeExtension.label "Papildinājums">
 <!ENTITY addonTypeTheme.label "Tēma">
 <!ENTITY missingThumbnail.label "Nav priekšskatījuma">
 
