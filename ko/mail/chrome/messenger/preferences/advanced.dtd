@@ -1,7 +1,7 @@
 <!ENTITY itemGeneral.label "일반">
 <!ENTITY itemDisplay.label "읽기 및 표시">
 <!ENTITY itemUpdate.label "업데이트">
-<!ENTITY itemNetworking.label "네트워크 및 디스크 공간">
+<!ENTITY itemNetworking.label "네트워크 및 디스크 용량">
 <!ENTITY itemCertificates.label "인증서">
 
 <!-- General Settings -->
@@ -73,7 +73,7 @@
 <!ENTITY showOffline.label             "오프라인…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "디스크 공간">
+<!ENTITY Diskspace "디스크 용량">
 <!ENTITY offlineCompact.label "지정된 용량 이상 저장 시 폴더 압축">
 <!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "KB">

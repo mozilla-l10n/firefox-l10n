@@ -1,6 +1,6 @@
 <!ENTITY securityTitle.label "보안 설정">
 <!ENTITY securityTab.label		"보안">
-<!ENTITY securityHeading.label "서명 또는 암호화 된 메시지를 보내고 받기 위해서는 유효한 인증서를 사용해야 합니다.">
+<!ENTITY securityHeading.label "서명 또는 암호화 된 메시지를 주고받거나 인증하려면 유효한 >인증서를 사용해야 합니다.">
 <!ENTITY encryptionGroupTitle.label "암호화">
 <!ENTITY encryptionChoiceLabel.label "메시지 보낼 때 기본 암호 설정:">
 <!ENTITY neverEncrypt.label "암호화 사용하지 않음">
