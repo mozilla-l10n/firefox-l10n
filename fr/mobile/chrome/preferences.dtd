@@ -7,7 +7,7 @@
 <!ENTITY enablePlugins.title                       "Activer les plugins">
 <!ENTITY privacy.title                             "Vie privée et confidentialité">
 <!ENTITY allowCookies.title                        "Autoriser les cookies">
-<!ENTITY clearPrivateData.title                    "Effacer l'historique de navigation récent">
+<!ENTITY clearPrivateData2.title                   "Effacer les données personnelles">
 <!ENTITY clearPrivateData.button                   "Effacer">
 <!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
 
