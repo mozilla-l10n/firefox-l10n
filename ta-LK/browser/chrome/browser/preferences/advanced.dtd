@@ -1,3 +1,7 @@
+<!ENTITY enableAddonsUpdate2.label       "Add-ons">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "பொது">
@@ -53,8 +57,6 @@
 <!ENTITY autoCheck.label                 "இதற்கான புதிய இற்றைப்படுத்தல்களை தன்னிச்சையாகப் பரிசோதிக்க :">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "தேடுபொறிகள்">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          " &brandShortName; இற்கான புதுப்பிகள் காணப்படின்:">

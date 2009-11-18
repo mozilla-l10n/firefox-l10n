@@ -3,5 +3,5 @@
 <!ENTITY date.heading               "சமர்ப்பிக்கப்பட்ட திகதி">
 <!ENTITY noReports.label            "எந்தவொரு crash அறிக்கைகளும் சமர்ப்பிக்கப்படவி்ல்லை.">
 <!ENTITY noConfig.label             "இந்தச் செயலி Crash அறிக்கைகளை திரையிடுவதற்கு தகவமைக்கப்பட்டிருக்கவில்லை. முன்னுரிமை <code>breakpad.reportURL</code> கட்டாயம் அமைக்கப்பட வேண்டும்.">
-<!ENTITY clearAllReports.label      "Remove All Reports">
+<!ENTITY clearAllReports.label      "அறிக்கைகள் யாவற்றையும் நீக்குக">
 

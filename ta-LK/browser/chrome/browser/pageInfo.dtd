@@ -55,7 +55,7 @@
 <!ENTITY  securityView.identity.header   "இணைய அடையாளம்">
 <!ENTITY  securityView.identity.owner    "உரிமையாளர்: ">
 <!ENTITY  securityView.identity.domain   "இணையப்பக்கம்: ">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
+<!ENTITY  securityView.identity.verifier "சரிபார்க்கபட்டது: ">
 
 <!ENTITY  securityView.privacy.header                   "பிரத்தியேக &amp; வரலாறு">
 <!ENTITY  securityView.privacy.history                  "நான் இவ் இணையப்பக்கத்திற்கு முன்னொரு தடவை வந்துள்ளேனா?">

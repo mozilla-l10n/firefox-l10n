@@ -18,18 +18,18 @@
 <!ENTITY install.label                    "நிறுவுதல்">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
+<!ENTITY cmd.checkUpdatesAll.label        "இற்றைப்படுத்தல்களைக் கண்டுபிடிக்க">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "உங்கள் செருகல்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "உங்களுடைய உட்செருகலிற்கு இற்றைப்படுத்தல்களைக் கண்டுபிடிக்க">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "உங்கள் கருத்துக்களுக்கான இற்​றைப்படுத்தல்களைக் கண்டுபிடிக்க">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Finds Updates to your Plugins">
+<!ENTITY cmd.installUpdatesAll2.label     "இற்றைப்படுத்தல்களை நிறுவுக">
+<!ENTITY cmd.installUpdatesAll2.accesskey "I">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "தெரிவு செய்யப்பட்ட இற்றைப்படுத்தல்களை நிறுவுக">
 <!ENTITY cmd.installLocalFile.label       "நிறுவக…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip     "ஒரு செருகலை நிறுவக">
 <!ENTITY cmd.installFileTheme.tooltip     "ஒரு கருத்தை நிறுவக">
-<!ENTITY cmd.installUpdatesAll2.label      "இற்​றைப்படுத்தல்களை நிறுவுக">
-<!ENTITY cmd.installUpdatesAll2.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip    "தெரிவுசெய்யப்பட்ட இற்​றைப்படுத்தல்களை நிறுவுக">
 <!ENTITY cmd.restartApp2.label            "&brandShortName; இனை மீள ஆரம்பிக்க">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "மாற்றங்களைப் பிரயோகிப்பதற்காக &brandShortName; இனை மீள ஆரம்பிக்க">
@@ -114,7 +114,6 @@
 <!ENTITY needsDependencies.label          "மேலதிக உருப்படிகள் தேவையாக உள்ளது.">
 <!ENTITY blocklisted.label                "உங்கள் பாதுகாப்பிற்காக செயலற்றதாக்குக.">
 <!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
-<!ENTITY outdated.label                   "A newer, safer version is available.">
 <!ENTITY toBeDisabled.label               "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் செயலற்றதாக்கப்படும்.">
 <!ENTITY toBeEnabled.label                "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் இயலுமைப்படுத்தப்படும்.">
 <!ENTITY toBeInstalled.label              "&brandShortName; மீள ஆரம்பிக்கப்படும் போது இந்தச் செருகல் நிறுவப்படும்.">
@@ -134,6 +133,7 @@
 <!ENTITY resetSearch.label                "பெறுபேறுகளை சுத்தம்செய்க">
 <!ENTITY noSearchResults.label            "அனைத்து பெறுபேறுகளும் ஏறகனவே நிறுவப்பட்டது அல்லது இசைவானதாக இல்லை.">
 <!ENTITY noRecommendedResults.label       "அனைத்து பரிந்துரைகளும் ஏறகனவே நிறுவப்பட்டது அல்லது இசைவானதாக இல்லை.">
+<!ENTITY outdated.label                   "புதிய,பாதுகாப்பான பதிப்புக் காணப்படுகின்றது.">
 <!ENTITY emptySearch.label                "பொருத்தமான செருகுதல்கள் இல்லை">
 <!ENTITY emptySearch.button               "சரி">
 <!ENTITY cancelSearch.button              "இரத்துச் செய்க">
@@ -172,5 +172,5 @@
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "ஏற்றுக்கொண்டு நிறுவுக…">
 
-<!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Disable">
+<!ENTITY blocklist.blocked.label          "தடுக்கப்பட்டுள்ளது">
+<!ENTITY blocklist.checkbox.label         "இயலாமைப்படுத்தல்">

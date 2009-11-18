@@ -10,7 +10,7 @@
 
 <!ENTITY props.name.label "பெயர்:">
 <!ENTITY props.value.label "பொருளடக்கம்:">
-<!ENTITY props.domain.label "Domain:">
+<!ENTITY props.domain.label "ஆள்களம்:">
 <!ENTITY props.path.label "பாதை:">
 <!ENTITY props.secure.label "இதற்காக அனுப்புக:">
 <!ENTITY props.expires.label "முடிவடைகிறது:">
