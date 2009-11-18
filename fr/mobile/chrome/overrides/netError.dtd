@@ -55,7 +55,7 @@
 <!ENTITY netOffline.title "Mode hors connexion">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Décochez &quot;Travailler hors connexion&quot; dans le menu Fichier et essayez à nouveau.</li>
+  <li>Essayez à nouveau. &brandShortName; essaiera d'ouvrir une connexion et d'actualiser la page.</li>
 </ul>
 ">
 
