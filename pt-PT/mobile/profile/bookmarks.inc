@@ -17,7 +17,7 @@
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: About your browser
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
