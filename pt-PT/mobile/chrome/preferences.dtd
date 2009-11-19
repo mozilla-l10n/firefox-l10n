@@ -7,7 +7,7 @@
 <!ENTITY enablePlugins.title                       "Activar Plugins">
 <!ENTITY privacy.title                             "Privacidade &amp; Segurança">
 <!ENTITY allowCookies.title                        "Permitir cookies">
-<!ENTITY clearPrivateData.title                    "limpara histórico de navegação">
+<!ENTITY clearPrivateData2.title                   "Limpar histórico de navegação">
 <!ENTITY clearPrivateData.button                   "Limpar">
 <!ENTITY rememberPasswords.title                   "lembrar senhas">
 <!ENTITY language.title                            "Idioma">
