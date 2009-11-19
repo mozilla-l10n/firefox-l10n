@@ -52,6 +52,15 @@
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
+<ul>
+  <li>Tente novamente. O &brandShortName; vai tentar abrir uma ligação e recarregar a página.</li>
+</ul>
+">
+
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc "
 <ul>
