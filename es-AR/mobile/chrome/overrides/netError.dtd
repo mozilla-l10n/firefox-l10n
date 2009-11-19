@@ -40,12 +40,16 @@
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Modo sin conexión a la red">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Desmarque &quot;Trabajar sin conexión&quot; en el menú Archivo e intente nuevamente.</li>
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "<ul>
+  <li>Intente nuevamente. &brandShortName; intentará abrir una conexión y recargar la página.</li>
 </ul>
-">
+  ">
+
+<!ENTITY netOffline.title "Modo sin conexión a la red">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Póngase en contacto con los propietarios del sitio web para informarles acerca de este problema.</li> </ul>     ">
