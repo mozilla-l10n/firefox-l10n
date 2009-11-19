@@ -52,12 +52,17 @@
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Finkje &quot;Offline werken&quot; yn it menu Bestân út en besykje it op 'e nij.</li>
+  <li>Probearje opnij. &brandShortName; sil probearje om in ferbining te iepenjen en de side opnij te laden.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Offline-moadus">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
 <!ENTITY contentEncodingError.longDesc "
