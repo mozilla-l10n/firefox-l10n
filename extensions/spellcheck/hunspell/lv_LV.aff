@@ -1,9 +1,9 @@
-# Latvieðu valodas affix fails lietoðanai ar OpenOffice v.v. 1.1.x un 2.x.x
-# Latvian affix table for OpenOffice v.v. 1.1.x and 2.x.x
+# Latvieðu valodas affix fails lietoðanai ar OpenOffice v.v. 1.1.x, 2.x.x un 3.x.x
+# Latvian affix table for OpenOffice v.v. 1.1.x, 2.x.x and 3.x.x
 #
-# Copyright (C) 2002-2008 Janis Eisaks, jancs@dv.lv
+# Copyright (C) 2002-2009 Janis Eisaks, jancs@dv.lv
 #
-# Version info: 0.7.4
+# Version info: 0.8.2
 # Izmainîta pieeja darbîbas vârdu locîðanai - no dalîtas pa konjugâcijâm 
 # uz dalîtâm pa laikiem un tipiem (tag, pak, nak, izt formas, ciesh k, divd.)
 #
@@ -23,7 +23,9 @@
 # 
 # Faila radîðanai izmantotâ literatûra  
 #  1. B.Ceplîte, L.Ceplîtis
-#     Latvieðu valodas praktiskâ gramatika
+#     Latvieðu valodas praktiskâ gramatika, ISBN 9984 04 641-9
+#  2.D.Guïevska, A.Miíelsone, T.Porîte
+#     Pareizrakstîbas un pareizrunas rokasgrâmata, Avots, 2002, ISBN 9984-700-64-X
 #
 # Pateicos Dr. Andrejam Spektoram un LU Mâkslîgâ Intelekta laboratorijai
 # par iespçju izmantot apkopoto vârdu krâjumu; Edvînam Malnaèam, 
@@ -49,6 +51,8 @@ TRY ianseâtumpojðrkdîzlçvbgcíûòïèþfìhASMVLDIKERBGJZTNPHUOFCÂÍÞÇÌÐÎÛÈÒÏ
 PFX + Y 1
 PFX +  0  ne .
 
+SFX = Y 1
+SFX = 0 . .
 
 SFX B Y 21
 SFX B   t     ðu     [^sz]t
@@ -81,6 +85,8 @@ SFX F   t     îsim    [s]t
 SFX F   t     îsiet   [s]t
 SFX F   t     îsit    [s]t
 SFX F   t     îðot    [s]t
+
+
 
 SFX E Y 37
 SFX E   st    dîðu     [s]t
@@ -212,72 +218,20 @@ SFX 1   t     ja      [âçîoû]t
 SFX 1   t     jâm     [âçîoû]t
 SFX 1   t     jât     [âçîoû]t
 
-SFX H Y 6
-SFX H   t   ju    [âçîoû]t
-SFX H   t   0     [âçîoû]t
-SFX H   t   jam   [âçîoû]t
-SFX H   t   jat   [âçîoû]t
-SFX H   t   jiet  [âçîoû]t
-SFX H   t   jot   [âçîoû]t
 
 
-SFX G Y 5
-SFX G   t   jas     [âçîoû]t
-SFX G   t   jamies  [âçîoû]t
-SFX G   t   jaties  [âçîoû]t
-SFX G   t   jieties [âçîoû]t
-SFX G   t   joties  [âçîoû]t
-
-
-SFX C Y 20
-SFX C  ât  u       [^j][â]t
-SFX C  ât  i       [^j][â]t
-SFX C  ât  a       [^j][â]t
-SFX C  ât  âm      [^j][â]t
-SFX C  ât  ot      [^j][â]t
-SFX C  ât  iet     [^j][â]t
-SFX C  çt  u       [ç]t
-SFX C  çt  i       [ç]t
-SFX C  çt  0       [ç]t
-SFX C  çt  am      [ç]t
-SFX C  çt  at      [ç]t
-SFX C  çt  iet     [ç]t
-SFX C  çt  ot      [ç]t
-SFX C  ît  u       [î]t
-SFX C  ît  i       [î]t
-SFX C  ît  a       [î]t
-SFX C  ît  âm      [î]t
-SFX C  ît  ât      [î]t
-SFX C  ît  iet     [î]t
-SFX C  ît  ot      [î]t
-
-
-SFX c Y 25
-SFX c  0   ies    [â]t
-SFX c  ât  os     [â]t
-SFX c  ât  ies    [â]t
-SFX c  t   mies   [â]t
-SFX c  ât  ieties [â]t
-SFX c  ât  oties  [â]t
-SFX c  t   ðoties [â]t
-SFX c  0   ies    [ç]t
-SFX c  çt  os     [ç]t
-SFX c  çt  ies    [ç]t
-SFX c  çt  as     [ç]t
-SFX c  çt  amies  [ç]t
-SFX c  çt  aties  [ç]t
-SFX c  çt  ieties [ç]t
-SFX c  çt  oties  [ç]t
-SFX c  t   ðoties [ç]t
-SFX c  0   ies    [î]t
-SFX c  ît  os     [î]t
-SFX c  ît  ies    [î]t
-SFX c  ît  âs     [î]t
-SFX c  ît  âmies  [î]t
-SFX c  ît  âties  [î]t
-SFX c  ît  ieties [î]t
-SFX c  ît  oties  [î]t
-SFX c  t   ðoties [î]t
+SFX 8 Y 11
+SFX 8   t   u       t
+SFX 8   t   i       [^gk]t
+SFX 8   gt  dz      [g]t
+SFX 8   kt  c       [k]t
+SFX 8   t   0       t
+SFX 8   t   am      t
+SFX 8   t   at      t
+SFX 8   t   iet     [^gk]t
+SFX 8   gt  dziet   [g]t
+SFX 8   kt  ciet    [k]t
+SFX 8   t   ot      t
 
 SFX 6 Y 104
 SFX 6   t     ju      [âçubmp]t
@@ -385,7 +339,7 @@ SFX 6  zt   þamajos  [z]t
 SFX 6  zt   þamajâm  [z]t
 SFX 6  zt   þamajâs  [z]t
 
-SFX 2 Y 7
+SFX 2 Y 53
 SFX 2   st     þu     [s]t
 SFX 2   st     d      [s]t
 SFX 2   st     þ      [s]t
@@ -393,6 +347,52 @@ SFX 2   st     þam    [s]t
 SFX 2   st     þat    [s]t
 SFX 2   st     þot    [s]t
 SFX 2   st     diet   [s]t
+SFX 2   st   þoðs     [s]t
+SFX 2   st   þoða     [s]t
+SFX 2   st   þoðam    [s]t
+SFX 2   st   þoðu     [s]t
+SFX 2   st   þoðâ     [s]t
+SFX 2   st   þoðas    [s]t
+SFX 2   st   þoðai    [s]t
+SFX 2   st   þoði     [s]t
+SFX 2   st   þoðiem   [s]t
+SFX 2   st   þoðus    [s]t
+SFX 2   st   þoðos    [s]t
+SFX 2   st   þoðâm    [s]t
+SFX 2   st   þoðâs    [s]t
+SFX 2   st   þoðais   [s]t
+SFX 2   st   þoðajam  [s]t
+SFX 2   st   þoðo     [s]t
+SFX 2   st   þoðajâ   [s]t
+SFX 2   st   þoðajai  [s]t
+SFX 2   st   þoðie    [s]t
+SFX 2   st   þoðajiem [s]t
+SFX 2   st   þoðajos  [s]t
+SFX 2   st   þoðajâm  [s]t
+SFX 2   st   þoðajâs  [s]t
+SFX 2   st   þams     [s]t
+SFX 2   st   þama     [s]t
+SFX 2   st   þamam    [s]t
+SFX 2   st   þamu     [s]t
+SFX 2   st   þamâ     [s]t
+SFX 2   st   þamas    [s]t
+SFX 2   st   þamai    [s]t
+SFX 2   st   þami     [s]t
+SFX 2   st   þamiem   [s]t
+SFX 2   st   þamus    [s]t
+SFX 2   st   þamos    [s]t
+SFX 2   st   þamâm    [s]t
+SFX 2   st   þamâs    [s]t
+SFX 2   st   þamais   [s]t
+SFX 2   st   þamajam  [s]t
+SFX 2   st   þamo     [s]t
+SFX 2   st   þamajâ   [s]t
+SFX 2   st   þamajai  [s]t
+SFX 2   st   þamie    [s]t
+SFX 2   st   þamajiem [s]t
+SFX 2   st   þamajos  [s]t
+SFX 2   st   þamajâm  [s]t
+SFX 2   st   þamajâs  [s]t
 
 SFX 3 Y 6
 SFX 3   st     ðu     [s]t
@@ -416,6 +416,79 @@ SFX 7   0   at   [sz]t
 SFX 7   0   ot   [sz]t
 SFX 7   0   iet  [sz]t
 
+
+
+SFX H Y 6
+SFX H   t   ju    [âçîoû]t
+SFX H   t   0     [âçîoû]t
+SFX H   t   jam   [âçîoû]t
+SFX H   t   jat   [âçîoû]t
+SFX H   t   jiet  [âçîoû]t
+SFX H   t   jot   [âçîoû]t
+
+
+SFX G Y 5
+SFX G   t   jas     [âçîoû]t
+SFX G   t   jamies  [âçîoû]t
+SFX G   t   jaties  [âçîoû]t
+SFX G   t   jieties [âçîoû]t
+SFX G   t   joties  [âçîoû]t
+
+
+SFX C Y 20
+SFX C  ât  u       [^j][â]t
+SFX C  ât  i       [^j][â]t
+SFX C  ât  a       [^j][â]t
+SFX C  ât  âm      [^j][â]t
+SFX C  ât  ot      [^j][â]t
+SFX C  ât  iet     [^j][â]t
+SFX C  çt  u       [ç]t
+SFX C  çt  i       [ç]t
+SFX C  çt  0       [ç]t
+SFX C  çt  am      [ç]t
+SFX C  çt  at      [ç]t
+SFX C  çt  iet     [ç]t
+SFX C  çt  ot      [ç]t
+SFX C  ît  u       [î]t
+SFX C  ît  i       [î]t
+SFX C  ît  a       [î]t
+SFX C  ît  âm      [î]t
+SFX C  ît  ât      [î]t
+SFX C  ît  iet     [î]t
+SFX C  ît  ot      [î]t
+
+
+SFX c Y 25
+SFX c  0   ies    [â]t
+SFX c  ât  os     [â]t
+SFX c  ât  ies    [â]t
+SFX c  t   mies   [â]t
+SFX c  ât  ieties [â]t
+SFX c  ât  oties  [â]t
+SFX c  t   ðoties [â]t
+SFX c  0   ies    [ç]t
+SFX c  çt  os     [ç]t
+SFX c  çt  ies    [ç]t
+SFX c  çt  as     [ç]t
+SFX c  çt  amies  [ç]t
+SFX c  çt  aties  [ç]t
+SFX c  çt  ieties [ç]t
+SFX c  çt  oties  [ç]t
+SFX c  t   ðoties [ç]t
+SFX c  0   ies    [î]t
+SFX c  ît  os     [î]t
+SFX c  ît  ies    [î]t
+SFX c  ît  âs     [î]t
+SFX c  ît  âmies  [î]t
+SFX c  ît  âties  [î]t
+SFX c  ît  ieties [î]t
+SFX c  ît  oties  [î]t
+SFX c  t   ðoties [î]t
+
+
+
+
+
 SFX M Y 4
 SFX M   t    dams    t
 SFX M   t    dama    t
@@ -428,26 +501,33 @@ SFX N   st   zdama   [s]t
 SFX N   st   zdami   [s]t
 SFX N   st   zdamas  [s]t
 
-SFX [ Y 5
-SFX [   t    damies    t
-SFX [   t    damâs     t
-SFX [   t    ðanos     [^sz]t
-SFX [   st   ðanos     [s]t
-SFX [   zt   ðanos     [z]t
+SFX [ Y 4
+SFX [   t    damies    [^s]t
+SFX [   t    damâs     [^s]t
+SFX [   st   zdamies [s]t
+SFX [   st   zdamâs  [s]t
 
-SFX ] Y 2
-SFX ]   st   zdamies [s]t
-SFX ]   st   zdamâs  [s]t
+SFX ] Y 3
+SFX ]   t    ðanos     [^sz]t
+SFX ]   st   ðanos     [s]t
+SFX ]   zt   ðanos     [z]t
 
-SFX { Y 3
+SFX { Y 2
 SFX { t  juðies    t
 SFX { t  jusies    t
-SFX { t  joðies    t
 
-SFX } Y 3
-SFX } t  uðies    t
-SFX } t  usies    t
-SFX } t  oðies    t
+
+SFX p Y 1
+SFX p t  joðies    t
+
+SFX } Y 6
+SFX } t  uðies    [^âçî]t
+SFX } t  usies    [^âçî]t
+SFX } t  oðies    [^âçî]t
+SFX } ât  oðies    [â]t
+SFX } çt  oðies    [ç]t
+SFX } ît  oðies    [î]t
+
 
 SFX Z Y 23
 SFX Z   t   stams     t
@@ -684,6 +764,57 @@ SFX (   t   majiem  [â]t
 SFX (   t   majos   [â]t
 SFX (   t   majâm   [â]t
 SFX (   t   majâs   [â]t
+
+SFX n Y 23
+SFX n   ît   âms      [c]ît
+SFX n   ît   âma      [c]ît
+SFX n   ît   âmam     [c]ît
+SFX n   ît   âmu      [c]ît
+SFX n   ît   âmâ      [c]ît
+SFX n   ît   âmas     [c]ît
+SFX n   ît   âmai     [c]ît
+SFX n   ît   âmi      [c]ît
+SFX n   ît   âmiem    [c]ît
+SFX n   ît   âmus     [c]ît
+SFX n   ît   âmos     [c]ît
+SFX n   ît   âmâm     [c]ît
+SFX n   ît   âmâs     [c]ît
+SFX n   ît   âmais    [c]ît
+SFX n   ît   âmajam   [c]ît
+SFX n   ît   âmo      [c]ît
+SFX n   ît   âmajâ    [c]ît
+SFX n   ît   âmajai   [c]ît
+SFX n   ît   âmie     [c]ît
+SFX n   ît   âmajiem  [c]ît
+SFX n   ît   âmajos   [c]ît
+SFX n   ît   âmajâm   [c]ît
+SFX n   ît   âmajâs   [c]]ît
+
+SFX r Y 23
+SFX r   ît   oða      [c]ît
+SFX r   ît   oðâ      [c]ît
+SFX r   ît   oðai     [c]ît
+SFX r   ît   oðais    [c]ît
+SFX r   ît   oðajâ    [c]ît
+SFX r   ît   oðajai   [c]ît
+SFX r   ît   oðajam   [c]ît
+SFX r   ît   oðajâm   [c]ît
+SFX r   ît   oðajâs   [c]ît
+SFX r   ît   oðajiem  [c]ît
+SFX r   ît   oðajos   [c]ît
+SFX r   ît   oðam     [c]ît
+SFX r   ît   oðâm     [c]ît
+SFX r   ît   oðas     [c]ît
+SFX r   ît   oðâs     [c]ît
+SFX r   ît   oði      [c]ît
+SFX r   ît   oðie     [c]ît
+SFX r   ît   oðiem    [c]ît
+SFX r   ît   oðo      [c]ît
+SFX r   ît   oðos     [c]ît
+SFX r   ît   oðs      [c]ît
+SFX r   ît   oðu      [c]ît
+SFX r   ît   oðus     [c]ît
+
 
 SFX ^ Y 23
 SFX ^   t   stoðs     t
@@ -1434,6 +1565,88 @@ SFX I  t    tâm     t
 SFX I  t    tâs     t
 SFX I  t    tu      t
 
+SFX & Y 13
+SFX &  0     âks     [âçîo]t
+SFX &  0     âka     [âçîo]t
+SFX &  0     âkas    [âçîo]t
+SFX &  0     âkam    [âçîo]t
+SFX &  0     âkai    [âçîo]t
+SFX &  0     âku     [âçîo]t
+SFX &  0     âkâ     [âçîo]t
+SFX &  0     âki     [âçîo]t
+SFX &  0     âkiem   [âçîo]t
+SFX &  0     âkâm    [âçîo]t
+SFX &  0     âkus    [âçîo]t
+SFX &  0     âkos    [âçîo]t
+SFX &  0     âkâs    [âçîo]t
+
+SFX * Y 10
+SFX *  0     âkais   [âçîo]t
+SFX *  0     âkajam  [âçîo]t
+SFX *  0     âkajai  [âçîo]t
+SFX *  0     âko     [âçîo]t
+SFX *  0     âkajâ   [âçîo]t
+SFX *  0     âkie    [âçîo]t
+SFX *  0     âkajiem [âçîo]t
+SFX *  0     âkajâm  [âçîo]t
+SFX *  0     âkajos  [âçîo]t
+SFX *  0     âkajâs  [âçîo]t
+
+
+SFX < Y 13
+SFX <  t     joðâks     [âçîo]t
+SFX <  t     joðâka     [âçîo]t
+SFX <  t     joðâkas    [âçîo]t
+SFX <  t     joðâkam    [âçîo]t
+SFX <  t     joðâkai    [âçîo]t
+SFX <  t     joðâku     [âçîo]t
+SFX <  t     joðâkâ     [âçîo]t
+SFX <  t     joðâki     [âçîo]t
+SFX <  t     joðâkiem   [âçîo]t
+SFX <  t     joðâkâm    [âçîo]t
+SFX <  t     joðâkus    [âçîo]t
+SFX <  t     joðâkos    [âçîo]t
+SFX <  t     joðâkâs    [âçîo]t
+
+SFX > Y 10
+SFX >  t     joðâkais   [âçîo]t
+SFX >  t     joðâkajam  [âçîo]t
+SFX >  t     joðâkajai  [âçîo]t
+SFX >  t     joðâko     [âçîo]t
+SFX >  t     joðâkajâ   [âçîo]t
+SFX >  t     joðâkie    [âçîo]t
+SFX >  t     joðâkajiem [âçîo]t
+SFX >  t     joðâkajâm  [âçîo]t
+SFX >  t     joðâkajos  [âçîo]t
+SFX >  t     joðâkajâs  [âçîo]t
+
+SFX , Y 13
+SFX ,  t     jamâks     [âçîo]t
+SFX ,  t     jamâka     [âçîo]t
+SFX ,  t     jamâkas    [âçîo]t
+SFX ,  t     jamâkam    [âçîo]t
+SFX ,  t     jamâkai    [âçîo]t
+SFX ,  t     jamâku     [âçîo]t
+SFX ,  t     jamâkâ     [âçîo]t
+SFX ,  t     jamâki     [âçîo]t
+SFX ,  t     jamâkiem   [âçîo]t
+SFX ,  t     jamâkâm    [âçîo]t
+SFX ,  t     jamâkus    [âçîo]t
+SFX ,  t     jamâkos    [âçîo]t
+SFX ,  t     jamâkâs    [âçîo]t
+
+SFX . Y 10
+SFX .  t     jamâkais   [âçîo]t
+SFX .  t     jamâkajam  [âçîo]t
+SFX .  t     jamâkajai  [âçîo]t
+SFX .  t     jamâko     [âçîo]t
+SFX .  t     jamâkajâ   [âçîo]t
+SFX .  t     jamâkie    [âçîo]t
+SFX .  t     jamâkajiem [âçîo]t
+SFX .  t     jamâkajâm  [âçîo]t
+SFX .  t     jamâkajos  [âçîo]t
+SFX .  t     jamâkajâs  [âçîo]t
+
 
 SFX 0 Y 1
 SFX 0   0     u     t
@@ -1492,18 +1705,117 @@ SFX g   0   os      [âçîoû]t
 SFX g   t   ðoties  [âçîoû]t
 
 
-SFX 8 Y 11
-SFX 8   t   u       t
-SFX 8   t   i       [^gk]t
-SFX 8   gt  dz      [g]t
-SFX 8   kt  c       [k]t
-SFX 8   t   0       t
-SFX 8   t   am      t
-SFX 8   t   at      t
-SFX 8   t   iet     [^gk]t
-SFX 8   gt  dziet   [g]t
-SFX 8   kt  ciet    [k]t
-SFX 8   t   ot      t
+SFX A Y 28
+SFX A ties jos      .
+SFX A ties jies     .
+SFX A ties jas      .
+SFX A ties jamies   .
+SFX A ties jaties   .
+SFX A ties jâs      .
+SFX A ties jâmies   .
+SFX A ties jâties   .
+SFX A ties ðos      .
+SFX A ties sies     .
+SFX A ties simies   .
+SFX A ties sieties  .
+SFX A ties sities   .
+SFX A ties jieties  .
+SFX A ties tos      .
+SFX A ties joties   .
+SFX A ties ðoties   .
+SFX A ties damies   .
+SFX A ties damâs    .
+SFX A ties joðies   .
+SFX A ties joðos    .
+SFX A ties joðâs    .
+SFX A ties jusies   .
+SFX A ties juðies   .
+SFX A ties juðos    .
+SFX A ties juðâs    .
+SFX A ties ðanos    .
+SFX A ties ðanâs    .
+
+SFX D Y 50
+SFX D âties  os     [â]ties
+SFX D âties  ies    [â]ties
+SFX D âties  âs     [â]ties
+SFX D âties  âmies  [â]ties
+SFX D âties  âties  [â]ties
+SFX D âties  ieties [â]ties
+SFX D âties  oties  [â]ties
+SFX D âties  oðies  [â]ties
+SFX D âties  oðos   [â]ties
+SFX D âties  oðâs   [â]ties
+SFX D çties  os     [ç]ties
+SFX D çties  ies    [ç]ties
+SFX D çties  as     [ç]ties
+SFX D çties  amies  [ç]ties
+SFX D çties  aties  [ç]ties
+SFX D çties  ieties [ç]ties
+SFX D çties  oties  [ç]ties
+SFX D çties  oðies  [ç]ties
+SFX D çties  oðos   [ç]ties
+SFX D çties  oðâs   [ç]ties
+SFX D îties  os     [î]ties
+SFX D îties  ies    [î]ties
+SFX D îties  âs     [î]ties
+SFX D îties  âmies  [î]ties
+SFX D îties  âties  [î]ties
+SFX D îties  ieties [î]ties
+SFX D îties  oties  [î]ties
+SFX D îties  oðies  [î]ties
+SFX D îties  oðos   [î]ties
+SFX D îties  oðâs   [î]ties
+SFX D ies    os      [âçî]ties
+SFX D ties   jos     [âçî]ties
+SFX D ties   jies    [âçî]ties
+SFX D ties   jâs     [âçî]ties
+SFX D ties   jâmies  [âçî]ties
+SFX D ties   jâties  [âçî]ties
+SFX D ties   ðos     [âçî]ties
+SFX D ties   sies    [âçî]ties
+SFX D ties   sieties [âçî]ties
+SFX D ties   simies  [âçî]ties
+SFX D ties   sities  [âçî]ties
+SFX D ties   damies  [âçî]ties
+SFX D ties   damâs   [âçî]ties
+SFX D ties   jusies  [âçî]ties
+SFX D ties   juðies  [âçî]ties
+SFX D ties   juðos   [âçî]ties
+SFX D ties   juðâs   [âçî]ties
+SFX D ties   ðanos   [âçî]ties
+SFX D ties   ðanâs   [âçî]ties
+SFX D ties   ðoties  [âçî]ties
+
+
+
+SFX T Y 15
+SFX T   t   os      [^s]t
+SFX T   t   ies     [^s]t
+SFX T   t   âs      [^s]t
+SFX T   t   âmies   [^s]t
+SFX T   t   âties   [^s]t
+SFX T   t  os     [^îû][s]t
+SFX T   t  ies    [^îû][^s]t
+SFX T   t  âs     [^îû][^s]t
+SFX T   t  âmies  [^îû][^s]t
+SFX T   t  âties  [^îû][^s]t
+SFX T   st  dos     [îû][s]t
+SFX T   st  dies    [îû][s]t
+SFX T   st  dâs     [îû][s]t
+SFX T   st  dâmies  [îû][s]t
+SFX T   st  dâties  [îû][s]t
+
+
+SFX R Y 8
+SFX R   t  stos     t
+SFX R   t  sties    t
+SFX R   t  stas     t
+SFX R   t  stamies  t
+SFX R   t  staties  t
+SFX R   t  stieties t
+SFX R   t  stoties  t
+SFX R   t  ðoties   t
 
 
 
@@ -1513,7 +1825,8 @@ SFX 8   t   ot      t
 
 
 
-SFX O Y 9
+
+SFX O Y 10
 SFX O   s     a     [s]
 SFX O   s     am    [s]
 SFX O   s     u     [s]
@@ -1523,6 +1836,7 @@ SFX O   ð     a     [ð]
 SFX O   ð     am    [ð]
 SFX O   ð     u     [ð]
 SFX O   ð     â     [ð]
+SFX O   ð     0     [ð]
 
 SFX i Y 8
 SFX i   s     i     [s]
@@ -1577,6 +1891,12 @@ SFX v   ð     iòi     [ð]
 SFX v   ð     iòus    [ð]
 SFX v   ð     iòiem   [ð]
 SFX v   ð     iòos    [ð]
+
+SFX o Y 4
+SFX o   0     em    [i]  
+SFX o   i     os    [i]
+SFX o   i     u     [i]
+SFX o   i     us    [i]
 
 
 
@@ -1712,114 +2032,141 @@ SFX w   is     îðiem [i]s
 SFX w   is     îðus  [i]s
 SFX w   is     îðos  [i]s
 
-SFX Q Y 3
-SFX Q   s     m     [u]s
-SFX Q   s     0     [u]s
-SFX Q   us    û     [u]s
-
-SFX k Y 3
-SFX k   us    i     [u]s
-SFX k   us    iem   [u]s
-SFX k   us    os    [u]s
-
-SFX R Y 4
-SFX R   0     s     a
-SFX R   0     i     a
-SFX R   a     u     a
-SFX R   a     â     a
-
-SFX l Y 2
-SFX l   a     âm    a
-SFX l   a     âs    a
-
-SFX r Y 20
-SFX r   a     iòa   [^gk]a
-SFX r   a     iòas  [^gk]a
-SFX r   a     iòai  [^gk]a
-SFX r   a     iòu   [^gk]a
-SFX r   a     iòâ   [^gk]a
-SFX r   ga    dziòa   [g]a
-SFX r   ga    dziòas  [g]a
-SFX r   ga    dziòai  [g]a
-SFX r   ga    dziòu   [g]a
-SFX r   ga    dziòâ   [g]a
-SFX r   ka    ciòa   [^s]ka
-SFX r   ka    ciòas  [^s]ka
-SFX r   ka    ciòai  [^s]ka
-SFX r   ka    ciòu   [^s]ka
-SFX r   ka    ciòâ   [^s]ka
-SFX r   a     iòa     [s]ka
-SFX r   a     iòas    [s]ka
-SFX r   a     iòai    [s]ka
-SFX r   a     iòu     [s]ka
-SFX r   a     iòâ     [s]ka
 
 
-SFX x Y 8
-SFX x   a     iòâm   [^gk]a
-SFX x   a     iòâs   [^gk]a
-SFX x   ga    dziòâm   [g]a
-SFX x   ga    dziòâs   [g]a
-SFX x   ka    ciòâm   [^s]ka
-SFX x   ka    ciòâs   [^s]ka
-SFX x   a     iòâm    [s]ka
-SFX x   a     iòâs    [s]ka
 
-SFX S Y 4
-SFX S   0     s    e
-SFX S   0     i    [e]
-SFX S   e     i    [e]
-SFX S   e     ç    [e]
+SFX S Y 12
+SFX S  0   s   [ae]
+SFX S  0   i   [ae]
+SFX S  a   u    a
+SFX S  a   â    a
+SFX S  e   i    e
+SFX S  e   ç    e
+SFX S  s   ij  [^u]s
+SFX S  s   i   [^u]s
+SFX S  s   î   [^u]s
+SFX S  s   m   [u]s
+SFX S  s   0   [u]s
+SFX S  us  û   [u]s
 
-SFX m Y 16
-SFX m   e     u    [^bcdlmnpstvz]e
-SFX m   e     ju   [bmpv]e
-SFX m   ce    èu   [c]e
-SFX m   de    þu   [d]e
-SFX m   le    ïu   [^l]le
-SFX m   lle   ïïu  [l]le
-SFX m   ne    òu   [^sz][n]e
-SFX m   sne   ðòu  [s]ne
-SFX m   zne   þòu  [z]ne
-SFX m   se    ðu   [s]e
-SFX m   te    ðu   [^s]te
-SFX m   te    tu   [^k]ste
-SFX m   ste   ðu   [k]ste
-SFX m   ze    þu   [z]e
-SFX m   e     çm   [e]
-SFX m   e     çs   [e]
 
-SFX s Y 5
-SFX s   e     îte   [e]
-SFX s   e     îtes  [e]
-SFX s   e     îtei  [e]
-SFX s   e     îti   [e]
-SFX s   e     îtç   [e]
 
-SFX f Y 3
-SFX f   e     îðu   [e]
-SFX f   e     îtçm  [e]
-SFX f   e     îtçs  [e]
 
-SFX T Y 3
-SFX T   s     ij   [s]
-SFX T   s     i    [s]
-SFX T   s     î    [s]
+SFX m Y 67
+SFX m  a     âm    a
+SFX m  a     âs    a
+SFX m  as    âm    [a]s
+SFX m  as    âs    [a]s
+SFX m  as    u     [a]s
+SFX m  e     u    [^bcdlmnpstvz]e
+SFX m  e     ju   [bmpv]e
+SFX m  ce    èu   [c]e
+SFX m  de    þu   [d]e
+SFX m  le    ïu   [^l]le
+SFX m  lle   ïïu  [l]le
+SFX m  ne    òu   [^lsz][n]e
+SFX m  lne   ïòu  [l]ne
+SFX m  sne   ðòu  [s]ne
+SFX m  zne   þòu  [z]ne
+SFX m  se    ðu   [s]e
+SFX m  te    ðu   [^s]te
+SFX m  te    tu   [^k]ste
+SFX m  ste   ðu   [k]ste
+SFX m  ze    þu   [z]e
+SFX m  e     çm   [e]
+SFX m  e     çs   [e]
+SFX m  es      u   [^bcdlmnpstvz]es
+SFX m  es     ju   [bmpv]es
+SFX m  ces    èu   [c]es
+SFX m  des    þu   [d]es
+SFX m  les    ïu   [^l]les
+SFX m  lles   ïïu  [l]les
+SFX m  nes    òu   [^sz][n]es
+SFX m  lnes   ïòu  [l]nes
+SFX m  snes   ðòu  [s]nes
+SFX m  znes   þòu  [z]nes
+SFX m  ses    ðu   [s]es
+SFX m  tes    ðu   [^s]tes
+SFX m  tes    tu   [^k]stes
+SFX m  stes   ðu   [k]stes
+SFX m  zes    þu   [z]es
+SFX m  es     çm   [e]s
+SFX m  es     çs   [e]s
+SFX m  s     is   [^iu]s
+SFX m  s     u    [^iudlntsvz]s
+SFX m  ds    þu   [d]s
+SFX m  ls    ïu   [l]s
+SFX m  ns    òu   [^s]ns
+SFX m  sns   ðòu  [s]ns
+SFX m  s     ju   [v]s
+SFX m  zs    þu   [z]s
+SFX m  s     îm   [^iu]s
+SFX m  s     îs   [^iu]s
+SFX m  s     u    [s]s
+SFX m  ts    ðu   [^âîurs]ts
+SFX m  ts    tu   [âîurs]ts
+SFX m  is     u    [^dlntsvz]is
+SFX m  dis    þu   [d]is
+SFX m  lis    ïu   [l]is
+SFX m  nis    òu   [^s]nis
+SFX m  snis   ðòu  [s]nis
+SFX m  is     ju   [v]is
+SFX m  zis    þu   [z]is
+SFX m  is     îm   [i]s
+SFX m  is     îs   [i]s
+SFX m  is     u    [s]is
+SFX m  tis    ðu   [^âîurs]tis
+SFX m  tis    tu   [âîurs]tis
+SFX m  us    i     [u]s
+SFX m  us    iem   [u]s
+SFX m  us    os    [u]s
 
-SFX n Y 13
-SFX n   s     is   [s]
-SFX n   s     u    [^dlntsvz]s
-SFX n   ds    þu   [d]s
-SFX n   ls    ïu   [l]s
-SFX n   ns    òu   [^s]ns
-SFX n   sns   ðòu  [s]ns
-SFX n   s     ju   [v]s
-SFX n   zs    þu   [z]s
-SFX n   s     îm   [s]
-SFX n   s     îs   [s]
-SFX n   s     u    [s]s
-SFX n   ts    ðu   [^âuûrs]ts
-SFX n   ts    tu   [âuûrs]ts
+
+SFX s Y 30
+SFX s  a     iòa   [^gk]a
+SFX s  a     iòas  [^gk]a
+SFX s  a     iòai  [^gk]a
+SFX s  a     iòu   [^gk]a
+SFX s  a     iòâ   [^gk]a
+SFX s  a     iò    [^gk]a
+SFX s  ga    dziòa   [g]a
+SFX s  ga    dziòas  [g]a
+SFX s  ga    dziòai  [g]a
+SFX s  ga    dziòu   [g]a
+SFX s  ga    dziòâ   [g]a
+SFX s  ga    dziò    [g]a
+SFX s  ka    ciòa   [^s]ka
+SFX s  ka    ciòas  [^s]ka
+SFX s  ka    ciòai  [^s]ka
+SFX s  ka    ciòu   [^s]ka
+SFX s  ka    ciòâ   [^s]ka
+SFX s  ka    ciò    [^s]ka
+SFX s  a     iòa     [s]ka
+SFX s  a     iòas    [s]ka
+SFX s  a     iòai    [s]ka
+SFX s  a     iòu     [s]ka
+SFX s  a     iòâ     [s]ka
+SFX s  a     iò     [s]ka
+SFX s  e     ît    [e]
+SFX s  e     îte   [e]
+SFX s  e     îtes  [e]
+SFX s  e     îtei  [e]
+SFX s  e     îti   [e]
+SFX s  e     îtç   [e]
+
+
+SFX f Y 11
+SFX f  a   iòâm    [^gk]a
+SFX f  a   iòâs    [^gk]a
+SFX f  ga  dziòâm   [g]a
+SFX f  ga  dziòâs   [g]a
+SFX f  ka  ciòâm   [^s]ka
+SFX f  ka  ciòâs   [^s]ka
+SFX f  a   iòâm    [s]ka
+SFX f  a   iòâs    [s]ka
+SFX f  e   îðu     [e]
+SFX f  e   îtçm    [e]
+SFX f  e   îtçs    [e]
 
 
 
@@ -1858,8 +2205,7 @@ SFX W  ð     as     [ð]
 SFX W  ð     ajâs   [ð]
 SFX W  ð     ajos   [ð]
 
-
-SFX Y Y 28
+SFX Y Y 42
 SFX Y  s     âk      [s]
 SFX Y  s     âks     [s]
 SFX Y  s     âka     [s]
@@ -1888,6 +2234,22 @@ SFX Y  ð     âkâm    [ð]
 SFX Y  ð     âkus    [ð]
 SFX Y  ð     âkos    [ð]
 SFX Y  ð     âkâs    [ð]
+SFX Y  0     tâk      [âçîo]t
+SFX Y  0     tâks     [âçîo]t
+SFX Y  0     tâka     [âçîo]t
+SFX Y  0     tâkas    [âçîo]t
+SFX Y  0     tâkam    [âçîo]t
+SFX Y  0     tâkai    [âçîo]t
+SFX Y  0     tâku     [âçîo]t
+SFX Y  0     tâkâ     [âçîo]t
+SFX Y  0     tâki     [âçîo]t
+SFX Y  0     tâkiem   [âçîo]t
+SFX Y  0     tâkâm    [âçîo]t
+SFX Y  0     tâkus    [âçîo]t
+SFX Y  0     tâkos    [âçîo]t
+SFX Y  0     tâkâs    [âçîo]t
+
+
 
 SFX X Y 20
 SFX X  s     âkais   [s]
