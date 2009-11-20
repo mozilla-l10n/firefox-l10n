@@ -15,12 +15,12 @@
 <!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion...">
 <!ENTITY safeb.palm.reportPage.label "Pertge è questa pagina vegnida bloccada?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Pagina d'internet classifitgada sco website attatganta!">
+<!ENTITY safeb.blocked.malwarePage.title "Classifitgà sco pagina attatganta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "La website sin <span id='malware_sitename'/> è vegnida annunziada sco pagina attatganta e bloccada sin fundament da tias preferenzas da segirezza.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Websites attatgantas emprovan d'installar programs che engolan infurmaziuns privatas, che dovran tes computer per attatgar auters u che donnegian tes sistem.</p><p>Tschertas paginas d'internet derasan sapientivamain virus e sumeglianta software donnegiusa, ma bleras websites èn era pertutgadas senza che l'administratur saja perencletg u infurmà.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Questa pagina d'internet sin <span id='malware_sitename'/> è vegnida annunziada sco pagina attatganta ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Websites attatgantas emprovan d'installar programs che engolan infurmaziuns privatas, dovran tes computer per attatgar auters u donnegian tes sistem.</p><p>Tschertas paginas attatgantas derasan sapientivamain software donnegiusa, ma bleras èn era pertutgadas senza che l'administratur saja perencletg u infurmà.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Website annunziada sco emprova d'engion!">
+<!ENTITY safeb.blocked.phishingPage.title "Classifitgà sco emprova d'engion!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "La website sin <span id='phishing_sitename'/> è classifitgada sco emprova d'engion ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Cun paginas d'engion emprovan persunas criminalas da persvader tai da tradir datas persunalas u finanzialas. Cun l'intenziun d'engianar imiteschan ellas websites u e-mails che inspiran confidenza .</p><p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Questa pagina web sin <span id='phishing_sitename'/> è vegnida annunziada sco emprova d'engion ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Paginas d'engion vegnan creadas per surmanar tai da tradir datas persunalas u finanzialas. Cun imitar websites u e-mails vulan ellas inspirar confidenza .</p><p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p>">

@@ -22,7 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "u">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Tschertgar actualisaziuns per supplements">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tschertgar actualisaziuns per designs">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Tschertgar actualisaziuns per plug-ins">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Tschertgar actualisaziuns per tes plug-ins">
 <!ENTITY cmd.installLocalFile.label       "Installar...">
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Installar il supplement">
