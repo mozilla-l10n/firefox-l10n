@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Questa pagina cuntegna infurmaziuns tecnicas che pudessan esser nizzaivlas, 
-  sche ti emprovas da schliar in problem. Sche ti tschertgas rispostas a dumondas 
+  sche ti emprovas da schliar in problem. Sche ti tschertgas respostas a dumondas 
   frequentas davart &brandShortName;, visita per plaschair nossa <a id='supportLink'>pagina d'agid</a>.
 ">
 
@@ -20,7 +20,7 @@
 <!ENTITY aboutSupport.appBasicsPlugins "Plug-ins installads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
 
-<!ENTITY aboutSupport.show.label "Avrir l'ordinatur cuntegnend">
+<!ENTITY aboutSupport.show.label "Avrir l'ordinatur">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
@@ -31,7 +31,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Num">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valur">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Cronica d'installaziun">
-<!ENTITY aboutSupport.updateHistoryTitle "Cronica d'actualisaziun">
+<!ENTITY aboutSupport.installationHistoryTitle "Cronologia da l'installaziun">
+<!ENTITY aboutSupport.updateHistoryTitle "Cronologia d'actualisaziun">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar tut en l'archiv provisoric">

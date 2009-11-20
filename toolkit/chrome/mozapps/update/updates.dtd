@@ -8,7 +8,7 @@
 
 <!ENTITY  pluginupdatesfound.title        "Chattà actualisaziuns per plug-ins">
 <!ENTITY  pluginupdatesfound.label        "Versiuns pli novas dad in u plirs da tes plug-ins èn vegnidas chattadas.">
-<!ENTITY  pluginupdateslink.label         "Guardar sco che ti pos actualisar tes plug-ins.">
+<!ENTITY  pluginupdateslink.label         "Legia co che ti po actualisar tes plug-ins.">
 
 <!ENTITY  noupdatesfound.title            "Naginas actualisaziuns disponiblas">
 <!ENTITY  noupdatesautoenabled.intro      "Naginas actualisaziuns novas disponiblas. &brandShortName; vegn a controllar regularmain,                               schebain actualisaziuns stattan a disposiziun.">

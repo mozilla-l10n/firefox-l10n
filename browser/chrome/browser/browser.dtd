@@ -371,7 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Encollar">
-<!ENTITY fullScreenButton.tooltip       "Mussar la fanestra en maletg entir">
+<!ENTITY fullScreenButton.tooltip       "Mussar la fanestra a visur entir">
 
 <!ENTITY quitApplicationCmdWin.label       "Terminar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "T">
