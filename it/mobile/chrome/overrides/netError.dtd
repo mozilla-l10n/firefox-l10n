@@ -37,12 +37,12 @@
 ">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-<!ENTITY netOffline.title "Non in linea">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Togliere la spunta a &quot;Lavora non in linea&quot; nel menu File, quindi riprovare.</li>
-</ul>
-">
+  <li>Riprova. &brandShortName; cercherà di aprire una connessione e ricaricare la pagina.</li>
+</ul>">
+<!ENTITY netOffline.title "Non in linea">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
