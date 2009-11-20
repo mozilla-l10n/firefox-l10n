@@ -38,11 +38,16 @@ adres yanlış yazılmış olabilir.</li>
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+
+<!ENTITY netOffline2.longDesc "<ul> 
+<li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeyi çalışacaktır.</li> 
+</ul>">
 
 <!ENTITY netOffline.title "Çevrim dışı tarama kipi">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Dosya menüsündeki &quot;Çevdimdışı çalış&quot; seçeneğinin önündeki işareti kaldırıp yeniden deneyin.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<ul> 

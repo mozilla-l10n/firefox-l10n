@@ -2,7 +2,6 @@
 <!ENTITY forward.label "İleri">
 <!ENTITY reload.label "Tazele">
 <!ENTITY stop.label "Dur">
-<!ENTITY search.label "Ara">
 <!ENTITY go.label "Git">
 <!ENTITY openLocation.label "Konumu aç">
 <!ENTITY star.label "Yıldız">
