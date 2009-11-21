@@ -33,12 +33,11 @@
 ">
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-<!ENTITY netOffline.title "Автономный режим">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Снимите галочку с пункта «Работать Автономно» в меню «Файл» и попробуйте снова.</li>
-</ul>
-">
+   <li>Попробуйте снова. &brandShortName; попробует открыть соединение и перезагрузить страницу.</li> </ul> ">
+<!ENTITY netOffline.title "Автономный режим">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "
 
