@@ -16,7 +16,7 @@
 
 <!ENTITY  manualUpdate.title              "Mise à jour impossible">
 <!ENTITY  manualUpdate.desc               "Une mise à jour de stabilité et de sécurité est disponible, mais vous ne disposez pas des autorisations système nécessaires pour l'installer. Veuillez contacter votre administrateur système ou essayer à nouveau avec un compte ayant les autorisations pour installer un logiciel sur cet ordinateur.">
-<!ENTITY  manualUpdateGetMsg.label        "Vous pouvez toujours obtenir la dernière version de &brandShortName; sur&nbsp;:">
+<!ENTITY  manualUpdateGetMsg.label        "Vous pouvez toujours obtenir la dernière version de &brandShortName; sur :">
 
 <!ENTITY  incompatibleCheck.title         "Vérification de la compatibilité des modules complémentaires">
 <!ENTITY  incompatibleCheck.label         "Recherche de nouvelles versions de vos modules complémentaires…">
