@@ -130,7 +130,7 @@
 <!ENTITY searchFailed.label               "&brandShortName; nije mogao preuzeti dodatak">
 <!ENTITY recommendedHeader.label          "Preporučeno">
 <!ENTITY recommendedThrobber.label        "Preuzimanje preporučenih dodataka">
-<!ENTITY searchThrobber.label             "Ptretraživanje dodataka">
+<!ENTITY searchThrobber.label             "Pretraživanje dodataka">
 <!ENTITY resetSearch.label                "Očisti rezultate">
 <!ENTITY noSearchResults.label            "Sve rezultati su već instalirani ili nisu kompatibilni.">
 <!ENTITY noRecommendedResults.label       "Sve preporuke su već instalirane ili nisu kompatibilne.">
