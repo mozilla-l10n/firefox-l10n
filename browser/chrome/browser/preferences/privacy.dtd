@@ -57,8 +57,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "rydde al din historik">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Start automatisk &brandShortName; i Privat browsing-tilstand">
-<!ENTITY  privateBrowsingAutoStart.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "Gør Private browsing-tilstand permanent">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single

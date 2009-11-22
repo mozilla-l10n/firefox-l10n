@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label            "Åbn link i nyt vindue">
 <!ENTITY openLinkCmd.accesskey        "v">
+<!ENTITY openLinkCmdInCurrent.label     "Åbn link i nuværende faneblad">
+<!ENTITY openLinkCmdInCurrent.accesskey "n">
 <!ENTITY openLinkCmdInTab.label       "Åbn link i nyt faneblad">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openFrameCmd.label           "Åbn ramme i nyt vindue">
@@ -335,6 +337,8 @@
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Skjul knapper">
 <!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY videoFullScreen.label       "Fuldskærm">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 
 <!-- LOCALIZATION NOTE :
