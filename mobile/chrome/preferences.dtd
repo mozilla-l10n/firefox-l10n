@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "Indstillinger">
 <!ENTITY about.title                               "Om &brandShortName;">
 <!ENTITY about.button                              "Gå til side">
-<!ENTITY about.description                         "Få hjælp og produktinformation">
 <!ENTITY content.title                             "Indhold">
 <!ENTITY showImages.title                          "Vis billeder">
 <!ENTITY enableJavaScript.title                    "Aktiver JavaScript">
-<!ENTITY enableJavaScript.description              "De fleste interaktive websteder bruger JavaScript">
 <!ENTITY enablePlugins.title                       "Aktiver plug-ins">
-<!ENTITY enablePlugins.description                 "Plug-ins bruges til specielle typer indhold så som video">
 <!ENTITY privacy.title                             "Privatliv &amp; sikkerhed">
 <!ENTITY allowCookies.title                        "Tillad cookies">
-<!ENTITY allowCookies.description                  "Websteder bruger cookies til at identificere dig og huske dine indstillinger">
-<!ENTITY clearPrivateData.title                    "Ryd browsing-historik">
+<!ENTITY clearPrivateData2.title                   "Ryd private data">
 <!ENTITY clearPrivateData.button                   "Ryd">
-<!ENTITY clearPrivateData.description              "Din historik hjælper &brandShortName; med at foreslå hvor du vil hen">
 <!ENTITY rememberPasswords.title                   "Husk adgangskoder">
 <!ENTITY language.title                            "Sprog">
-<!ENTITY language.description                      "Vælg dit foretrukne sprog til brug med &brandShortName;">
 <!ENTITY language.auto                             "Autodetekter">

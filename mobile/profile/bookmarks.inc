@@ -15,9 +15,9 @@
 # link title for about:firstrun
 #define bookmarks_welcome Firefox: Velkommen
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: Om
+#define bookmarks_aboutBrowser Firefox: Om din browser
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
