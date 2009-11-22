@@ -23,8 +23,8 @@
 <!ENTITY helpReleaseNotes.accesskey     "I">
 <!ENTITY helpReleaseNotes.label         "Informacje o wydaniu">
 
-<!ENTITY helpTroubleshooting.label      "Informacje dla rozwiązywania problemów…">
-<!ENTITY helpTroubleshooting.accesskey  "n">
+<!ENTITY helpTroubleshootingInfo.label      "Informacje dla rozwiązywania problemów…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "n">
 
 <!ENTITY updateCmd.label                "Sprawdź dostępność aktualizacji…">
 
