@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Gemte adgangskoder…">
 <!ENTITY  savedPasswords.accesskey        "G">
-
-
-<!ENTITY  warnings.label                "Advarsler">
-
-<!ENTITY  chooseWarnings.label          "Vælg hvilke advarsler du ønsker at se mens du surfer på nettet">
-
-<!ENTITY  warningSettings.label         "Indstillinger…">
-<!ENTITY  warningSettings.accesskey     "I">
