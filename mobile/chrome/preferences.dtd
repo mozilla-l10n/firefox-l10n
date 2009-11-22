@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label "Перавагі">
 <!ENTITY about.title "Пра &brandShortName;">
 <!ENTITY about.button "Перайсці на старонку">
-<!ENTITY about.description "Даведка і звесткі пра прадукт">
 <!ENTITY content.title "Змесціва">
 <!ENTITY showImages.title "Паказваць малюнкі">
 <!ENTITY enableJavaScript.title "Дазволіць JavaScript">
-<!ENTITY enableJavaScript.description "Найбольш узаемадзейныя пляцоўкі ўжываюць JavaScript">
 <!ENTITY enablePlugins.title "Дазволіць убудовы">
-<!ENTITY enablePlugins.description "Убудовы ўжываюцца для адмысловага змесціва, такога як відэя ">
 <!ENTITY privacy.title "Адасабленне і бяспека">
 <!ENTITY allowCookies.title "Дазволіць біркі">
-<!ENTITY allowCookies.description "Пляцоўкі ўжываюць біркі, каб апазнаваць вас і памятаць вашы наладжванні">
-<!ENTITY clearPrivateData.title "Ачысціць нядаўнюю гісторыю азірання">
+<!ENTITY clearPrivateData2.title "Ачысціць асабістыя звесткі">
 <!ENTITY clearPrivateData.button "Ачысціць">
-<!ENTITY clearPrivateData.description "Ваша гісторыя дазваляе &brandShortName; прапаноўваць вам месца для наведвання">
 <!ENTITY rememberPasswords.title "Памятаць паролі">
 <!ENTITY language.title "Мова">
-<!ENTITY language.description "Выберыце для  &brandShortName; мову, якой вы аддаяце перавагу">
 <!ENTITY language.auto "Сама-вызначэнне">

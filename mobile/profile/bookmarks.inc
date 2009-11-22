@@ -15,9 +15,9 @@
 # link title for about:firstrun
 #define bookmarks_welcome Firefox: Калі ласка
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: Пра
+#define bookmarks_aboutBrowser Firefox: Пра ваш азіральнік
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave

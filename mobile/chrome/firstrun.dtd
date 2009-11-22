@@ -1,8 +1,8 @@
 <!ENTITY welcome.title "Калі ласка да &brandShortName;">
-<!ENTITY overview.description "Сінхранізаваць ваш кампутар і мабільнік з Weave. Уладкаваць дадаткі. Коўзацца з паліцай Awesome Bar і шмат, шмат, шмат чаго іншага.">
-<!ENTITY sync.title "Наладзіць і пачаць">
-<!ENTITY sync.description "Атрымаць Weave, каб напоўніць &brandShortName;. Падзеліць вашы перавагі, закладкі, гісторыю азірання і шмат чаго іншага паміж вашым кампутарам і мабільнікам.">
-<!ENTITY sync.linkLabel "Атрымаць дадатак Weave">
+<!ENTITY intro.description "Сінхранізаваць ваш кампутар і мабільнік з дапамогаю Weave Sync. Уладкаваць дадаткі. Коўзацца з дапамогаю Awesome Bar і шмат чаго іншага...">
+<!ENTITY weave.title "Узяць і пайсці">
+<!ENTITY weave.description "Атрымаць Weave Sync, каб напоўніць ваш Firefox. Падзяліць гісторыю азірання, закладкі, захаваныя паролі, устаўкі паміж вашым кампутарам і мабільнікам.">
+<!ENTITY weave.linkLabel "Атрымаць дадатак Weave Syn">
 <!ENTITY getPersonal.title "Зрабіць асабістым">
 <!ENTITY getPersonal.description "Зрабіць асабістым &brandShortName;. Уладкаваць першакрынічны азіральнік прапановаўваць дадаткі мабільнаму.">
 <!ENTITY getPersonal.linkLabel "Атрымаць дадаткі для вашага мабільніка">

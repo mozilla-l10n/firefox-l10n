@@ -38,12 +38,13 @@
 ">
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-<!ENTITY netOffline.title "Пазасеткавы рэжым">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Прыміце адзнаку з &quot;Праца па-за сеткаю&quot; ў меню Файл і паспрабуйце зноў.</li>
+  <li>Паспрабуйце зноў. &brandShortName; паспрабуе злучыцца і перазагрузіць старонку.</li>
 </ul>
 ">
+<!ENTITY netOffline.title "Пазасеткавы рэжым">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
