@@ -18,8 +18,10 @@
   <li>Undersøg adressen for tastefejl, såsom
     <strong>ww</strong>.eksempel.dk i stedet for
     <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da 
+     din computers netværksforbindelse.</li>
+  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da for 
+     at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>
 ">
 
@@ -50,12 +52,17 @@
 <!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Afmarker &quot;Arbejd offline&quot; i menuen 'Filer', og forsøg igen.</li>
+  <li>Prøv igen. &brandShortName; vil forsøge at åbne en forbindelse og genindlæse siden.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Tegnkodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
