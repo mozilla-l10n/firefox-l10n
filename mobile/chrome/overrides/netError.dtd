@@ -48,15 +48,20 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
+<ul>
+  <li>Bandykite vėl. Naršyklė pabandys iš naujo užmegzti ryšį ir įkelti tinklalapį.</li>
+</ul>
+">
+
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Pašalinkite meniu „Failas“ elemento „Atsijungti nuo tinklo“ žymėjimą ir bandykite vėl.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Kodavimo klaida">
 <!ENTITY contentEncodingError.longDesc "

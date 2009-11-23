@@ -34,7 +34,6 @@
 <!ENTITY forward.label                    "Pirmyn">
 <!ENTITY reload.label                     "Naujinti">
 <!ENTITY stop.label                       "Stabdyti">
-<!ENTITY search.label                     "Ieškoti">
 <!ENTITY go.label                         "Eiti">
 <!ENTITY openLocation.label               "Atverti tinklavietę">
 <!ENTITY star.label                       "Žvaigždutė">
