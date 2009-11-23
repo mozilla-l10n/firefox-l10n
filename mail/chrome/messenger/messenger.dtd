@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "T">
 <!ENTITY activitymanager.label "Aktiviteitebehearder">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "Bewarre bestannen">
+<!ENTITY savedFiles.accesskey "t">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Berjochtefilters…">
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters tapasse op map">
@@ -729,8 +732,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey "k">
-<!ENTITY copyImageCmd.label "Ofbyldingslokaasje kopiearje">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Ofbylding kopiearje">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "E-mailadres kopiearje">
 <!ENTITY copyEmailCmd.accesskey "m">
 <!ENTITY stopCmd.label "Stop">
