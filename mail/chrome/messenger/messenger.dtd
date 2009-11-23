@@ -435,12 +435,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY messengerCmd.label "Nachrichten &amp; Newsgruppen">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Adressbuch">
-<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.accesskey "b">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Aktivitäten">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "Gespeicherte Dateien">
+<!ENTITY savedFiles.accesskey "G">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filter…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Filter auf Ordner anwenden">
@@ -448,7 +451,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.label "Filter auf gewählte Nachrichten anwenden">
 <!ENTITY filtersApplyToSelection.accesskey "g">
 <!ENTITY filtersApplyToMessage.label "Filter auf Nachricht anwenden">
-<!ENTITY filtersApplyToMessage.accesskey "t">
+<!ENTITY filtersApplyToMessage.accesskey "N">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
 <!ENTITY runJunkControls.accesskey "J">
 <!ENTITY deleteJunk.label "Junk in diesem Ordner löschen">
