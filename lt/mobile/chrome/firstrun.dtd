@@ -29,10 +29,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY welcome.title                      "Sveiki! Čia „&brandShortName;“">
-<!ENTITY overview.description               "Sinchronizuokite duomenis su savo kompiuteriu, naudodami „Weave“. Papildykite programą priedais. Naršykite, naudodami sumanųjį adreso lauką. Ir tai – dar ne viskas.">
-<!ENTITY sync.title                         "Keliaukite kur Jums reikia">
-<!ENTITY sync.description                   "Parsisiųskite „Weave“! Šis priedas padės sinchronizuoti „&brandShortName;“ nuostatas, adresyną, naršymo žurnalą ir pan. su naršykle Jūsų kompiuteryje.">
-<!ENTITY sync.linkLabel                     "Parsisiųsti „Weave“ priedą">
+<!ENTITY intro.description                  "Sinchronizuokite duomenis su savo kompiuteriu, naudodami „Weave Sync“. Papildykite programą priedais. Naršykite, naudodami sumanųjį adreso lauką. Ir tai – dar ne viskas.">
+<!ENTITY weave.title                        "Pirmyn į kelią">
+<!ENTITY weave.description                  "Parsisiųskite „Weave Sync“! Šis priedas padės sinchronizuoti „&brandShortName;“ nuostatas, adresyną, naršymo žurnalą ir pan. su naršykle Jūsų kompiuteryje.">
+<!ENTITY weave.linkLabel                    "Parsisiųsti „Weave Sync“ priedą">
 <!ENTITY getPersonal.title                  "Renkitės kaip Jums patinka">
 <!ENTITY getPersonal.description            "Individualizuokite „&brandShortName;“ – pirmąją naršyklę, palaikančią priedus mobiliuosiuose įrenginiuose!">
 <!ENTITY getPersonal.linkLabel              "Parsisiųsti priedų">

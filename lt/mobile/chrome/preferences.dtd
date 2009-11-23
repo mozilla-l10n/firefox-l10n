@@ -31,20 +31,14 @@
 <!ENTITY prefsHeader.label                             "Nuostatos">
 <!ENTITY about.title                                   "Apie „&brandShortName;“">
 <!ENTITY about.button                                  "Atverti tinklalapį">
-<!ENTITY about.description                             "Pagalba ir informacija apie programą">
 <!ENTITY content.title                                 "Turinys">
 <!ENTITY showImages.title                              "Įkelti paveikslus">
 <!ENTITY enableJavaScript.title                        "Leisti naudoti „JavaScript“">
-<!ENTITY enableJavaScript.description                  "Dauguma interaktyvių svetainių naudoja „JavaScript“">
 <!ENTITY enablePlugins.title                           "Leisti papildinius">
-<!ENTITY enablePlugins.description                     "Papildiniai reikalingi atvaizduoti kai kurių tipų turiniui, pavyzdžiui, vaizdo įrašams">
 <!ENTITY privacy.title                                 "Privatumas ir saugumas">
 <!ENTITY allowCookies.title                            "Leisti įrašyti slapukus">
-<!ENTITY allowCookies.description                      "Svetainės pasitelkia slapukus Jūsų atpažinimui ir nuostatų įsiminimui">
-<!ENTITY clearPrivateData.title                        "Valyti šviežiausius žurnalo įrašus">
+<!ENTITY clearPrivateData2.title                       "Valyti privačius duomenis">
 <!ENTITY clearPrivateData.button                       "Valyti">
-<!ENTITY clearPrivateData.description                  "Žurnalas padeda „&brandShortName;“ Jums teikti adresų siūlymus">
 <!ENTITY rememberPasswords.title                       "Įsiminti slaptažodžius">
 <!ENTITY language.title                                "Kalba">
-<!ENTITY language.description                          "Pasirinkite kalbą, kuria norite matyti „&brandShortName;“ sąsają">
 <!ENTITY language.auto                                 "Parinkti automatiškai">
