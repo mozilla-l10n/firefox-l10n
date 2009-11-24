@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title "Mouse Wheel">
+<!ENTITY pref.mouseWheel.title "Fare tekerleği">
 <!ENTITY mouseWheelPanel.label "Specify mouse wheel behavior when used with this modifier key: ">
 <!ENTITY usingJustTheWheel.label "No modifier key">
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">

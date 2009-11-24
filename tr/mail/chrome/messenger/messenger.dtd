@@ -442,6 +442,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "E">
 <!ENTITY activitymanager.label "Aktivite yöneticisi">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "Kaydedilmiş dosyalar">
+<!ENTITY savedFiles.accesskey "y">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "İleti süzgeçleri…">
 <!ENTITY filtersCmd.accesskey "s">
 <!ENTITY filtersApply.label "Seçili dizinlerde süzgeç çalıştır">
