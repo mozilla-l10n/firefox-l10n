@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Administrador de actividades">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "Archivos guardados">
+<!ENTITY savedFiles.accesskey "h">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtros de mensaje…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
