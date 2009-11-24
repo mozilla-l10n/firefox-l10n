@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "Vooruit">
 <!ENTITY reload.label          "Vernieuwen">
 <!ENTITY stop.label            "Stoppen">
-<!ENTITY search.label          "Zoeken">
 <!ENTITY go.label              "Ga">
 <!ENTITY openLocation.label    "Locatie openen">
 <!ENTITY star.label            "Ster">
