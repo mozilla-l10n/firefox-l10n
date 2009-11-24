@@ -8,8 +8,6 @@
 <!ENTITY searchLocalSystem.accesskey "l">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
-<!ENTITY helpButton.label            "Ajuda">
-<!ENTITY helpButton.accesskey        "u">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Eliminar">
