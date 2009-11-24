@@ -52,12 +52,17 @@
 <!ENTITY netInterrupt.title "De verbinding werd onderbroken">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Offlinemodus">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Vink “Offline werken” in het menu Bestand uit en probeer het opnieuw.</li>
+  <li>Probeer opnieuw. &brandShortName; zal proberen om een verbinding te openen en de pagina opnieuw te laden.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Offlinemodus">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Inhoudcoderingsfout">
 <!ENTITY contentEncodingError.longDesc "
