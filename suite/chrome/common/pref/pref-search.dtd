@@ -2,22 +2,22 @@
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
 
-<!ENTITY pref.search.title "Internet Search">
-<!ENTITY legendHeader "Default Search Engine">
-<!ENTITY defaultSearchEngine.label "Search using:">
-<!ENTITY defaultSearchEngine.accesskey "S">
+<!ENTITY pref.search.title "İnternet'te ara">
+<!ENTITY legendHeader "Öntanımlı arama motoru:">
+<!ENTITY defaultSearchEngine.label "Arama motoru:">
+<!ENTITY defaultSearchEngine.accesskey "A">
 
-<!ENTITY openSidebarSearchPanel.label "Open the Search tab in the Sidebar when a search is invoked">
-<!ENTITY openSidebarSearchPanel.accesskey "O">
+<!ENTITY openSidebarSearchPanel.label "Arama sekmesini kenar çubuğunda aç">
+<!ENTITY openSidebarSearchPanel.accesskey "m">
 
-<!ENTITY openContextSearchTab.label "Open a tab instead of a window for a context menu web search">
-<!ENTITY openContextSearchTab.accesskey "t">
+<!ENTITY openContextSearchTab.label "Sağ tuş İnternet aramalarını yeni pencere yerine yeni sekmede aç">
+<!ENTITY openContextSearchTab.accesskey "s">
 
 <!ENTITY searchResults.label "Arama sonuçları">
 
-<!ENTITY sidebarSearchTabPref.label "Sidebar Search Tab Preference">
-<!ENTITY searchModeBasic.label "Basic">
-<!ENTITY searchModeBasic.accesskey "B">
-<!ENTITY searchModeAdvanced.label "Advanced">
-<!ENTITY searchModeAdvanced.accesskey "A">
+<!ENTITY sidebarSearchTabPref.label "Kenar çubuğu arama sekmesi tercihleri">
+<!ENTITY searchModeBasic.label "Temel">
+<!ENTITY searchModeBasic.accesskey "T">
+<!ENTITY searchModeAdvanced.label "Gelişmiş">
+<!ENTITY searchModeAdvanced.accesskey "G">
 

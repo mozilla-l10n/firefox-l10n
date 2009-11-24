@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title "Helper Applications">
+<!ENTITY pref.applications.title "Yardımcı uygulamalar">
 
 <!ENTITY typeColumn.label "Content Type">
 <!ENTITY typeColumn.accesskey "T">

@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-scripts.xul -->
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
-<!ENTITY pref.scripts.title "Scripts &amp; Plugins">
+<!ENTITY pref.scripts.title "Betikler ve yan uygulamalar">
 
 <!ENTITY navigator.label "Browser">
 <!ENTITY navigator.accesskey "B">
