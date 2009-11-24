@@ -28,7 +28,7 @@
 <!ENTITY netOffline.longDesc "<p>De browser werkt momenteel in offlinemodus en kan niet verbinden met het opgevraagde item.</p><ul><li>Is de computer verbonden met een actief netwerk?</li><li>Zet de browser in onlinemodus en probeer het opnieuw.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Inhoudcoderingsfout">
-<!ENTITY contentEncodingError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven omdat deze gebruikmaakt van een ongeldige of niet-ondersteunde vorm van compressie.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat deze gebruikmaakt van een ongeldige of niet-ondersteunde vorm van compressie.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Onveilig bestandstype">
 <!ENTITY unsafeContentType.longDesc "
@@ -59,7 +59,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>De website antwoordde op een onverwachte manier op het netwerkverzoek en de browser kan niet doorgaan.</p>">
 
 <!ENTITY nssFailure2.title "Beveiligde verbinding mislukt">
-<!ENTITY nssFailure2.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven omdat de echtheid van de ontvangen gegevens niet kon worden geverifieerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat de echtheid van de ontvangen gegevens niet kon worden geverifieerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Beveiligde verbinding mislukt">
 <!ENTITY nssBadCert.longDesc2 "<ul>
