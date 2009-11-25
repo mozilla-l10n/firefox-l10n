@@ -67,5 +67,5 @@
 <!ENTITY customPrompt.title "Escala personalizada…">
 <!ENTITY homearrow.tooltip "Primera página">
 <!ENTITY endarrow.tooltip "Última página">
-<!ENTITY rightarrow.tooltip "Página siguiente">
-<!ENTITY leftarrow.tooltip "Página anterior">
+<!ENTITY nextarrow.tooltip "Página siguiente">
+<!ENTITY previousarrow.tooltip "Página anterior">
