@@ -42,7 +42,7 @@
 <!ENTITY toolbarsCmd.accesskey "s">
 <!ENTITY toolbarMode.label     "Modo">
 <!ENTITY toolbarMode.accesskey "M">
-<!ENTITY toolbarEval.label     "Entrada de JavaScript>
+<!ENTITY toolbarEval.label     "Entrada de JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 
 <!ENTITY all.accesskey         "A">
