@@ -15,17 +15,17 @@
 # link title for about:firstrun
 #define bookmarks_welcome Firefox: Bienvenido
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: Acerca de
+#define bookmarks_aboutBrowser Firefox: Acerca de su navegador
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Sincronízalo usando Weave
+#define bookmarks_weave Firefox: Sincronícelo usando Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Personalízalo con complementos
+#define bookmarks_addons Firefox: Personalícelo con complementos
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
