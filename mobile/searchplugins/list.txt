@@ -1,7 +1,5 @@
-amazondotcom
-answers
-creativecommons
-eBay
+yahoo-france
 google
-wikipedia
-yahoo
+wikipedia-fr
+eBay-france
+twitter
