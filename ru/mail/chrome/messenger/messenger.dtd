@@ -407,6 +407,9 @@
 <!ENTITY addons.accesskey "Д">
 <!ENTITY activitymanager.label "Диспетчер работы">
 <!ENTITY activitymanager.accesskey "и">
+<!ENTITY savedFiles.label "Сохранённые файлы">
+<!ENTITY savedFiles.accesskey "х">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Фильтры сообщений…">
 <!ENTITY filtersCmd.accesskey "Ф">
 <!ENTITY filtersApply.label "Применить фильтры к папке">
