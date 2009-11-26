@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "نوع المحتوى">
+<!ENTITY  typeColumn.accesskey        "ح">
+
+<!ENTITY  actionColumn2.label         "الإجراء">
+<!ENTITY  actionColumn2.accesskey     "ر">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "ابحث">
+
+<!ENTITY saveTo.label                 "احفظ الملفات في">
+<!ENTITY saveTo.accesskey             "ف">
+<!ENTITY alwaysAsk.label              "اسألني دائمًا أين أريد حفظ الملفات">
+<!ENTITY alwaysAsk.accesskey          "د">
+<!ENTITY chooseFolderWin.label        "استعرض…">
+<!ENTITY chooseFolderWin.accesskey    "ع">
+<!ENTITY chooseFolderMac.label        "اختر…">
+<!ENTITY chooseFolderMac.accesskey    "خ">

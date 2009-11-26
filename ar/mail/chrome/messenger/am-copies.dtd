@@ -1,31 +1,37 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "الأدلة و النُسخ">
-<!ENTITY sendingPrefix.label "عند إرسال الرّسائل، آليًا:">
+<!ENTITY copyAndFolderTitle.label "المجلدات و النُسَخ">
+<!ENTITY sendingPrefix.label "عند إرسال الرسائل، آليًا:">
 <!ENTITY fccMailFolder.label "ضع نسخة في:">
 <!ENTITY fccMailFolder.accesskey "ض">
 <!ENTITY fccReplyFollowsParent.label "ضع الرّدود في دليل الرّسالة التّي يتم الرّد عليها">
 <!ENTITY fccReplyFollowsParent.accesskey "ع">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "أرسِل Bcc للعناوين التّاليّة:">
+<!ENTITY bccAddress.label "أرسِل Bcc للعناوين التالية:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY saveMessageDlg.label "أظهِر حوار تأكيد عندما تُحفظ الرّسائل">
+<!ENTITY saveMessageDlg.label "أظهِر حوار تأكيد عندما تُحفظ الرسائل">
 <!ENTITY saveMessageDlg.accesskey "ظ">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "مُجلّد &quot;المُرسل&quot; على:">
+<!ENTITY sentFolderOn.label "مُجلد &quot;المُرسل&quot; في:">
 <!ENTITY sentFolderOn.accesskey "م">
 <!ENTITY sentInOtherFolder.label "غير ذلك:">
 <!ENTITY sentInOtherFolder.accesskey "غ">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "دليل &quot;المسودات&quot; على:">
+<!ENTITY draftsFolderOn.label "مجلد &quot;المسودات&quot; في:">
 <!ENTITY draftsFolderOn.accesskey "س">
 <!ENTITY draftInOtherFolder.label "غير ذلك:">
 <!ENTITY draftInOtherFolder.accesskey "ر">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "مجلد &quot;الأرشيف&quot; في:">
+<!ENTITY archivesFolderOn.accesskey "ش">
+<!ENTITY archiveInOtherFolder.label "غير ذلك:">
+<!ENTITY archiveInOtherFolder.accesskey "خ">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "دليل &quot;القوالب&quot; على:">
+<!ENTITY templatesFolderOn.label "مجلد &quot;القوالب&quot; في:">
 <!ENTITY templatesFolderOn.accesskey "ق">
-<!ENTITY templateInOtherFolder.label "غير ذلك">
+<!ENTITY templateInOtherFolder.label "غير ذلك:">
 <!ENTITY templateInOtherFolder.accesskey "ذ">
 <!ENTITY specialFoldersTitle.label "المسودات و القوالب">
 <!ENTITY keepDrafts.label "اترك مسودات الرّسائل في:">
+<!ENTITY keepArchives.label "اترك أرشيف الرسائل في:">
 <!ENTITY keepTempltes.label "اترك قوالب الرّسائل في:">

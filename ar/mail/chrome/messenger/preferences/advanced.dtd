@@ -5,9 +5,15 @@
 <!ENTITY itemCertificates.label "الشهادات">
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "مكّن مفهرس الرسائل">
-<!ENTITY enableGloda.accesskey         "ف">
-
+<!ENTITY enableGlodaSearch.label             "فعّل البحث العمومي والفهرسة">
+<!ENTITY enableGlodaSearch.accesskey         "ف">
+<!ENTITY systemIntegration.label       "تكامل النظام">
+<!ENTITY alwaysCheckDefault.label      "تحقق دائمًا عند البدء إن كان &brandShortName; هو عميل البريد الافتراضي">
+<!ENTITY alwaysCheckDefault.accesskey  "ئ">
+<!ENTITY searchIntegration.label       "اسمح ل‍ &searchIntegration.engineName; بالبحث في الرسائل">
+<!ENTITY searchIntegration.accesskey   "ث">
+<!ENTITY checkNow.label                "تحقق الآن">
+<!ENTITY checkNow.accesskey            "ن">
 <!ENTITY showCondensedAddresses.label "اعرض فقط اسم العرض للأشخاص في دفتر عناويني">
 <!ENTITY showCondensedAddresses.accesskey "ع">
 
@@ -22,6 +28,8 @@
 <!ENTITY markAsReadDelay.accesskey "ض">
 <!ENTITY secondsLabel.label "ثوان/ثانية">
 <!ENTITY openMsgIn.label "افتح الرسائل في:">
+<!ENTITY openMsgInNewTab.label         "لسان جديد">
+<!ENTITY openMsgInNewTab.accesskey     "ن">
 <!ENTITY reuseExpRadio0.label "نافذة رسالة جديدة ">
 <!ENTITY reuseExpRadio0.accesskey "ن">
 <!ENTITY reuseExpRadio1.label "نافذة رسالة موجودة">
@@ -32,6 +40,9 @@
 <!ENTITY returnReceiptsInfo.label "حدد كيف يتعامل &brandShortName;  مع إعلام الوصول">
 <!ENTITY showReturnReceipts.label "إعلام الوصول…">
 <!ENTITY showReturnReceipts.accesskey "ع">
+<!ENTITY closeMsgWindowOnDelete.label  "أغلِق نافذة الرسالة عند الحذف">
+<!ENTITY closeMsgWindowOnDelete.accesskey "ذ">
+
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption "القراءة">
@@ -43,7 +54,6 @@
 <!ENTITY enableAppUpdate.accesskey "ح">
 <!ENTITY enableAddonsUpdate.label "الإضافات المثبتة">
 <!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY checkNow.label "التمس الآن…">
 <!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل‍ ‍&brandShortName; ">
 <!ENTITY modeAskMe.label "اسألني ماذا أريد أن أفعل">
 <!ENTITY modeAskMe.accesskey "س">
@@ -80,7 +90,13 @@
 <!ENTITY useCacheAfter.label "م.بايت من المساحة للذاكرة المخبأة">
 <!ENTITY clearCacheNow.label "امسح الآن">
 <!ENTITY clearCacheNow.accesskey "ح">
+
 <!-- Certificates -->
+<!ENTITY certSelection.description       "عندما يطلب خادوم شهادتي الشخصية:">
+<!ENTITY certs.auto                      "اختر واحدة تلقائيًا">
+<!ENTITY certs.auto.accesskey            "و">
+<!ENTITY certs.ask                       "اسألني كل مرة">
+<!ENTITY certs.ask.accesskey             "ك">
 
 <!ENTITY viewCertificates.label "اعرض الشهادات">
 <!ENTITY viewCertificates.accesskey "ش">

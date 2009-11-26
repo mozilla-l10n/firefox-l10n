@@ -10,7 +10,6 @@
 <!ENTITY port.label "المَنفذ:">
 <!ENTITY port.accesskey "م">
 <!ENTITY serverPortDefault.label "مبدئي:">
-<!ENTITY savePassword.label "احفظ كلمة السر">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,16 +18,13 @@
 <!ENTITY biffStart.label "افحص الرسائل الجديدة كل">
 <!ENTITY biffStart.accesskey "ف">
 <!ENTITY biffEnd.label "دقائق">
-<!ENTITY socketType.label "استخدم اتصالا آمنا:">
-<!ENTITY neverSecure.label "أبدًا">
-<!ENTITY neverSecure.accesskey "ب">
-<!ENTITY sometimesSecure.label "إذا توفر TLS">
-<!ENTITY sometimesSecure.accesskey "ف">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "استخدم استيثاقا آمنا">
+<!ENTITY connectionSecurity.label "أمن الاتصال:">
+<!ENTITY connectionSecurity.accesskey "ص">
+<!ENTITY connectionSecurityType-0.label "لا شيء">
+<!ENTITY connectionSecurityType-1.label "STARTTLS، إن كان متاحًا">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY useSecAuth.label "استخدم استيثاقًا آمنًا">
 <!ENTITY useSecAuth.accesskey "س">
 <!ENTITY leaveOnServer.label "اترك الرسائل على الخادوم">
 <!ENTITY leaveOnServer.accesskey "ر">
@@ -65,7 +61,7 @@
 <!ENTITY maxMessagesStart.accesskey "س">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "رسائل">
-<!ENTITY alwaysAuthenticate.label "اطلب الاستيثاق دائما عند الاتصال بهذا الخادوم">
+<!ENTITY alwaysAuthenticate.label "اطلب الاستيثاق دائمًا عند الاتصال بهذا الخادوم">
 <!ENTITY alwaysAuthenticate.accesskey "ط">
 <!ENTITY newsrcFilePath.label "ملف newsrc:">
 <!ENTITY localPath.label "دليل محلي:">

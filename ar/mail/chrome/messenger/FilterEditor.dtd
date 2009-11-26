@@ -4,7 +4,7 @@
 <!ENTITY filterName.accesskey "ر">
 
 <!ENTITY junk.label "سخام">
-<!ENTITY notJunk.label "ليس سخاما">
+<!ENTITY notJunk.label "ليس سخامًا">
 
 <!ENTITY lowestPriorityCmd.label "الدنيا">
 <!ENTITY lowPriorityCmd.label "قليلة">
@@ -17,21 +17,23 @@
 <!ENTITY contextIncoming.label "فحص البريد">
 <!ENTITY contextManual.label "التشغيل اليدوي">
 <!ENTITY contextBoth.label "فحص البريد أو التشغيل اليدوي">
-<!ENTITY filterActionDesc.label "نفّذ الإجراءات التّالية:">
+<!ENTITY contextPostPlugin.label "التماس البريد (بعد التصنيف)">
+<!ENTITY contextPostPluginBoth.label "التماس البريد (بعد التصنيف) أو التشغيل اليدوي">
+<!ENTITY filterActionDesc.label "نفذ الإجراءات التالية:">
 <!ENTITY filterActionDesc.accesskey "ن">
 
 <!-- New Style Filter Rule Actions -->
 
-<!ENTITY moveMessage.label "انقل الرّسالة إلى">
-<!ENTITY copyMessage.label "انسخ الرّسالة إلى">
-<!ENTITY forwardTo.label "مرِّر الرّسالة إلى">
+<!ENTITY moveMessage.label "انقل الرسالة إلى">
+<!ENTITY copyMessage.label "انسخ الرسالة إلى">
+<!ENTITY forwardTo.label "مرِّر الرسالة إلى">
 <!ENTITY replyWithTemplate.label "رُد باستخدام قالب">
 <!ENTITY markMessageRead.label "أشِّر كمقروء">
 <!ENTITY markMessageStarred.label "أضِف نجمة">
 <!ENTITY setPriority.label "اجعل الأولويّة">
 <!ENTITY addTag.label "سِمْ الرّسالة">
 <!ENTITY setJunkScore.label "اجعل حالة السخام">
-<!ENTITY deleteMessage.label "احذف الرّسالة">
+<!ENTITY deleteMessage.label "احذف الرسالة">
 <!ENTITY deleteFromPOP.label "احذف من خادوم POP">
 <!ENTITY fetchFromPOP.label "اجلب من خادوم POP">
 <!ENTITY ignoreThread.label "تجاهل النقاش">

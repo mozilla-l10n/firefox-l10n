@@ -14,13 +14,8 @@
 <!ENTITY smaller.label "أصغر">
 <!ENTITY color.label "اللون:">
 <!ENTITY color.accesskey "ل">
-<!ENTITY displayWidth.label "رسائل النص الصِرْف ">
-<!ENTITY plainText.label "استخدم الخط التالي:">
+<!ENTITY displayWidth.label "رسائل النص الصرف ">
 <!ENTITY displayText.label "عند عرض رسائل النص الصرف مقتبسة:">
-<!ENTITY fixedWidth.label "خط ثابت العرض">
-<!ENTITY fixedWidth.accesskey "ث">
-<!ENTITY variableWidth.label "خط متغير العرض">
-<!ENTITY variableWidth.accesskey "م">
 <!ENTITY colors.label "الألوان">
 <!ENTITY overrideColors.label "عند عرض الرسائل استخدم الألوان التالية:">
 <!ENTITY textColor.label "لون النص:">
@@ -40,9 +35,12 @@
 <!ENTITY editTagButton.accesskey "ح">
 <!ENTITY removeTagButton.label "احذف">
 <!ENTITY removeTagButton.accesskey "ح">
-<!-- Fonts -->
 
-<!ENTITY fontAndEncodingsDescription.label "اضبط الخطوط والترميزات التي يستخدمها &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "الخطوط والترميزات">
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label    "الخطوط">
+<!ENTITY defaultFont.label       "الخط المبدئي:">
+<!ENTITY defaultFont.accesskey   "م">
+<!ENTITY defaultSize.label       "الحجم:">
+<!ENTITY defaultSize.accesskey   "ح">
 <!ENTITY fontOptions.accesskey "خ">
 <!ENTITY fontOptions.label "الخطوط…">

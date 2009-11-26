@@ -47,25 +47,29 @@
 <!ENTITY folderCharsetOverride.accesskey "ط">
 <!ENTITY folderRebuildSummaryFile.label "أعد بناء الفهرس">
 <!ENTITY folderRebuildSummaryFile.accesskey "ب">
-<!ENTITY folderRebuildSummaryFileTip.label "أعد بناء ملف الملخّص">
+<!ENTITY folderRebuildSummaryFileTip.label "أعد بناء ملف الملخص">
      
 <!ENTITY retention.label "سياسة الإبقاء">
-<!ENTITY retentionUseDefault.label "استخدم مبدئيّات الخادوم">
-<!ENTITY retentionUseDefault.accesskey "خ">
+<!ENTITY retentionUseAccount.label  "استخدم إعدادات حسابي">
+<!ENTITY retentionUseAccount.accesskey "ت">
 <!ENTITY daysOld.label "أيّام">
 <!ENTITY message.label "رسائل">
-<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرّسائل القديمة نهائيًّا">
+<!ENTITY retentionCleanup.label "لاستعادة مساحة القرص يمكن حذف الرسائل القديمة نهائيًّا">
+<!ENTITY retentionCleanupImap.label "لاستعادة مساحة القرص، يمكن حذف الرسائل القديمة نهائيًا من جهازك ومن الخادوم البعيد.">
+<!ENTITY retentionCleanupPop.label "لاستعادة مساحة القرص، يمكن حذف الرسائل القديمة نهائيًا، ويشمل ذلك نسخها الأصلية في الخادوم البعيد.">
 <!ENTITY retentionDeleteMsg.label "احذف الرسائل التي تزيد عن">
 <!ENTITY retentionDeleteMsg.accesskey "ر">
-<!ENTITY retentionKeepAll.label "لا تحذف أيًّا من الرّسائل">
+<!ENTITY retentionKeepAll.label "لا تحذف أيًّا من الرسائل">
 <!ENTITY retentionKeepAll.accesskey "ل">
-<!ENTITY retentionKeepNew.label "احذف كل الرّسائل عدا آخر">
-<!ENTITY retentionKeepNew.accesskey "ع">
-<!ENTITY retentionKeepUnread.label "دائمًا احذف الرّسائل المقروءة">
-<!ENTITY retentionKeepUnread.accesskey "م">
+<!ENTITY retentionKeepRecent.label "احذف الكل ما عدا الأحدث">
+<!ENTITY retentionKeepRecent.accesskey "ك">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "احذف الرسائل المقروءة دائمًا (يلغي إعدادات الزمن)">
+<!ENTITY retentionApplyToFlagged.label "احتفظ دائمًا بالرسائل ذات النجمة">
+<!ENTITY retentionApplyToFlagged.accesskey "ج">
 
-<!ENTITY folderOfflineTab.label "غير متّصل">
-<!ENTITY folderCheckForNewMessages.label "افحص هذا الدليل بحثا عن رسائل جديدة">
+<!ENTITY folderSynchronizationTab.label          "مزامنة">
+<!ENTITY folderCheckForNewMessages.label "افحص هذا الدليل بحثًا عن رسائل جديدة">
 <!ENTITY folderCheckForNewMessages.accesskey "ف">
 
 <!ENTITY offlineFolder.check.label "اختر هذا الدليل للاستخدام دون اتصال">

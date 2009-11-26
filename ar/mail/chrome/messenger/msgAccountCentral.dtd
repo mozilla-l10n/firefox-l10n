@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label "إعدادات السخام">
 <!ENTITY offlineLink.label "إعدادات طور اللااتصال">
 
-<!ENTITY rssSectionHdr.label "تلقيمات المدونات و الأخبار">
-<!ENTITY subscibeRSS.label "أدر الاشتراكات">
+<!ENTITY feedsSectionHdr.label "تلقيمات المدونات و الأخبار">
+<!ENTITY subscribeFeeds.label "أدر الاشتراكات">

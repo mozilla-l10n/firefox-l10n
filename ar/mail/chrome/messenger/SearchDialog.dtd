@@ -1,23 +1,25 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "ابحث عن الرّسائل في:">
 <!ENTITY searchHeading.accesskey "ث">
-<!ENTITY searchSubfolders.label "ابحث في الأدلة الفرعيّة">
+<!ENTITY searchSubfolders.label "ابحث في المجلدات الفرعيّة">
 <!ENTITY searchSubfolders.accesskey "ب">
+<!ENTITY searchOnServer.label        "شغّل البحث في الخادوم">
+<!ENTITY searchOnServer.accesskey    "خ">
 <!ENTITY resetButton.label "امسح">
 <!ENTITY resetButton.accesskey "م">
 <!ENTITY openButton.label "افتح">
 <!ENTITY openButton.accesskey "ف">
 <!ENTITY deleteButton.label "احذف">
-<!ENTITY deleteButton.accesskey "ف">
+<!ENTITY deleteButton.accesskey "ذ">
 <!ENTITY searchDialogTitle.label "ابحث في الرّسائل">
-<!ENTITY results.label "النّتائج">
+<!ENTITY results.label "النتائج">
 <!ENTITY fileHereMenu.label "أرشف هنا">
 <!ENTITY fileHereMenu.accesskey "ه">
 <!ENTITY fileButton.label "أرشِف">
 <!ENTITY fileButton.accesskey "ش">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "افتح دليل الرّسائل">
-<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY openInFolder.label          "افتح في مجلد">
+<!ENTITY openInFolder.accesskey      "د">
 <!ENTITY saveAsVFButton.label "احفظ كدليل بحث">
 <!ENTITY saveAsVFButton.accesskey "ح">
 <!-- for ABSearchDialog.xul -->
@@ -35,7 +37,7 @@
 <!ENTITY fromColumn.label "من">
 <!ENTITY recipientColumn.label "المُستلِم">
 <!ENTITY subjectColumn.label "الموضوع">
-<!ENTITY dateColumn.label "التّاريخ">
+<!ENTITY dateColumn.label "التاريخ">
 <!ENTITY priorityColumn.label "الأولويّة">
 <!ENTITY tagsColumn.label "الوسوم">
 <!ENTITY accountColumn.label "الحساب">
@@ -46,7 +48,7 @@
 <!ENTITY totalColumn.label "المجموع">
 <!ENTITY readColumn.label "مقروء">
 <!ENTITY receivedColumn.label "مستَلَم">
-<!ENTITY starredColumn.label "مُنجَّم">
+<!ENTITY starredColumn.label "عليه نجمة">
 <!ENTITY locationColumn.label "الموقع">
 <!ENTITY idColumn.label "ترتيب الوصول">
 <!-- Thread Pane Tooltips -->

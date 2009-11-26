@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label "افتراضيات النظام">
-<!ENTITY alwaysCheckDefault.label "دائما تحقق من كون &brandShortName; عميل البريد المبدئي عند البدء">
-<!ENTITY alwaysCheckDefault.accesskey "د">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "تحقق الآن">
-<!ENTITY checkNow.accesskey "ت">
-
 <!ENTITY messengerStartPage.label "صفحة بداية &brandShortName; ">
 <!ENTITY enableStartPage.label "عند تشغيل &brandShortName;، اعرض صفحة البداية في منطقة الرسالة">
 <!ENTITY enableStartPage.accesskey "ص">

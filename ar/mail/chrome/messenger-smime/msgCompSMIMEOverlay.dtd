@@ -1,22 +1,16 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "السرية">
-<!ENTITY securityMenu.accesskey "س">
-
-<!ENTITY menu_securityEncryptRequire.label "شفّر هذه الرّسالة">
-<!ENTITY menu_securityEncryptRequire.accesskey "ش">
-
-<!ENTITY menu_securityNoEncryption.label "لا تشفّر هذه الرّسالة">
-<!ENTITY menu_securityNoEncryption.accesskey "ل">
+<!ENTITY menu_securityEncryptRequire.label "عمِّ هذه الرّسالة">
+<!ENTITY menu_securityEncryptRequire.accesskey "ع">
 
 <!ENTITY menu_securitySign.label "وقّع هذه الرّسالة رقميًّا">
 <!ENTITY menu_securitySign.accesskey "و">
 
-<!ENTITY menu_securityStatus.label "اعرض معلومات السرية">
+<!ENTITY menu_securityStatus.label "اعرض معلومات الأمن">
 <!ENTITY menu_securityStatus.accesskey "ت">
 
-<!ENTITY securityButton.label "السرية">
-<!ENTITY securityButton.tooltip "اعرض أو غيّر إعدادات السرية">
+<!ENTITY securityButton.label "الأمن">
+<!ENTITY securityButton.tooltip "اعرض أو غيّر إعدادات الأمن">
 
 <!ENTITY menu_viewSecurityStatus.label "معلومات سرّية الرّسالة">
 <!ENTITY menu_viewSecurityStatus.accesskey "ت">

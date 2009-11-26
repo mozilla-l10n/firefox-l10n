@@ -12,9 +12,13 @@
 <!ENTITY replyTo.label "عنوان الرّد:">
 <!ENTITY replyTo.accesskey "د">
 <!ENTITY organization.label "المنظمة:">
-<!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "أرفِق هذا التّوقيع:">
-<!ENTITY signature.accesskey "ر">
+<!ENTITY organization.accesskey "ظ">
+<!ENTITY signatureText.label "نص التوقيع:">
+<!ENTITY signatureText.accesskey "ص">
+<!ENTITY signatureHtml.label "استخدم HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "أرفِق التوقيع من ملف (نص أو HTML أو صورة):">
+<!ENTITY signatureFile.accesskey "ف">
 <!ENTITY edit.label "حرِّر…">
 <!ENTITY choose.label "اختر…">
 <!ENTITY choose.accesskey "ر">

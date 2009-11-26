@@ -3,7 +3,7 @@
 <!ENTITY useGlobalPrefs.accesskey "س">
 <!ENTITY useCustomPrefs.label "خصِّص إعلام الوصول لهذا الحساب">
 <!ENTITY useCustomPrefs.accesskey "خ">
-<!ENTITY requestReceipt.label "اطلب إعلام الوصول دائما عند إرسال الرسائل">
+<!ENTITY requestReceipt.label "اطلب إعلام الوصول دائمًا عند إرسال الرسائل">
 <!ENTITY requestReceipt.accesskey "ط">
 <!ENTITY receiptArrive.label "عند وصول الإعلام:">
 <!ENTITY leaveIt.label "دعها في البريد الوارد">
