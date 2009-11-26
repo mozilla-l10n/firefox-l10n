@@ -1,7 +1,3 @@
-amazondotcom
-answers
-creativecommons
-eBay
 google
-yahoo
-wikipedia
+twitter
+wikipedia-tr 
