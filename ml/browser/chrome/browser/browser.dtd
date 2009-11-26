@@ -152,7 +152,7 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "ഇച്ഛാനുസൃതമാക്കുക...">
 <!ENTITY viewCustomizeToolbar.accesskey "C">
-<!ENTITY historyMenu.label "ചരിത്രം">
+<!ENTITY historyMenu.label "നാള്‍വഴി">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "അടുത്തിടെ അടച്ച റ്റാബുകള്‍">
 <!-- ENTITY historyUndoMenu.accesskey "R" -->
