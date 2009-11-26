@@ -1,7 +1,3 @@
 google
-priceru
-rambler
-torgmailru
+twitter
 wikipedia-ru
-yandex-slovari
-yandex
