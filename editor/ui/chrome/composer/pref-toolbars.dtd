@@ -45,7 +45,7 @@
 <!ENTITY preview.label          "استعرض">
 <!ENTITY cut.label              "قصّ">
 <!ENTITY copy.label             "انسخ">
-<!ENTITY paste.label            "ألصق">
+<!ENTITY paste.label            "الصق">
 <!ENTITY print.label            "اطبع">
 <!ENTITY find.label             "ابحث">
 <!ENTITY image.label            "صورة">

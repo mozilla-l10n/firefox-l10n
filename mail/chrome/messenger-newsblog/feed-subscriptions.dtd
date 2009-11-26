@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "اشتراكات التلقيمات">
+<!ENTITY feedSubscriptions.label "اشتراكات التلقيمات">
 <!ENTITY subscriptionDesc.label "ملاحظة: لن يؤثر حذف أو تغيير دليل التلقيم على المقالات التي نُزِّلت من قبل.">
 <!ENTITY feedTitle.label "العنوان: ">
 <!ENTITY location.label "الموقع: ">

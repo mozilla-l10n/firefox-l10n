@@ -9,7 +9,5 @@
 <!ENTITY paneDisplay.title "العرض">
 <!ENTITY paneComposition.title "التحرير">
 <!ENTITY paneAttachments.title "المرفقات">
-<!ENTITY panePrivacy.title "الخصوصية">
+<!ENTITY paneSecurity.title       "الأمان">
 <!ENTITY paneAdvanced.title "متقدم">
-
-<!ENTITY cmdCloseMac.commandKey   "w">

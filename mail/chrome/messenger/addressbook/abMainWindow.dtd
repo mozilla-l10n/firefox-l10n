@@ -5,11 +5,11 @@
 <!ENTITY fileMenu.accesskey "م">
 <!ENTITY newMenu.label "جديد">
 <!ENTITY newMenu.accesskey "ج">
-<!ENTITY newCard.label "بطاقة دفتر العناوين…">
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "قائمة بريدية…">
-<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newListCmd.accesskey "ب">
+<!ENTITY newContact.label                               "متراسل دفتر العناوين…">
+<!ENTITY newContact.accesskey                           "و">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newAddressBookCmd.label "دفتر العناوين…">
 <!ENTITY newAddressBookCmd.accesskey "د">
 <!ENTITY newLDAPDirectoryCmd.label "دليل LDAP…">
@@ -25,15 +25,15 @@
 <!ENTITY closeCmd.accesskey "غ">
 <!ENTITY printSetupCmd.label "إعداد الصفحة …">
 <!ENTITY printSetupCmd.accesskey "ع">
-<!ENTITY printPreviewCardViewCmd.label "عاين طباعة البطاقة">
-<!ENTITY printPreviewCardViewCmd.accesskey "ب">
+<!ENTITY printPreviewContactCmd.label                   "عاين طباعة المتراسل">
+<!ENTITY printPreviewContactCmd.accesskey               "ص">
 <!ENTITY printPreviewAddressBook.label "عاين طباعة دفتر العناوين">
 <!ENTITY printPreviewAddressBook.accesskey "ع">
-<!ENTITY printCardViewCmd.label "اطبع البطاقة…">
-<!ENTITY printCardViewCmd.accesskey "ط">
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "اطبع دفتر العناوين…">
 <!ENTITY printAddressBook.accesskey "د">
+<!ENTITY printContactCmd.label                          "اطبع المتراسل…">
+<!ENTITY printContactCmd.accesskey                      "ط">
+<!ENTITY printContactCmd.key                            "P">
 
 <!-- Edit Menu -->
 
@@ -57,11 +57,11 @@
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ح">
 <!ENTITY deleteAbCmd.label "احذف دفتر العناوين">
-<!ENTITY deleteCardCmd.label "احذف البطاقة">
-<!ENTITY deleteCardsCmd2.label "احذف البطاقات">
 <!ENTITY deleteListCmd.label "احذف القائمة">
 <!ENTITY deleteListsCmd.label "احذف القوائم">
 <!ENTITY deleteItemsCmd.label "احذف العناصر">
+<!ENTITY deleteContactCmd.label                         "احذف المتراسل">
+<!ENTITY deleteContactsCmd.label                        "احذف المتراسلين">
 <!ENTITY selectAllCmd.label "اختر الكل">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -72,7 +72,7 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "الخصائص…">
-<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.accesskey "خ">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -86,8 +86,8 @@
 <!ENTITY showTaskbarCmd.accesskey "ش">
 <!ENTITY customizeToolbar.label "خصّص…">
 <!ENTITY customizeToolbar.accesskey "خ">
-<!ENTITY showCardPane.label "شريط ملخّص البطاقة">
-<!ENTITY showCardPane.accesskey "ب">
+<!ENTITY showContactPane.label                          "لوحة تلخيص المتراسل">
+<!ENTITY showContactPane.accesskey                      "ل">
 <!ENTITY menu_ShowNameAs.label "اعرض الاسم ك‍">
 <!ENTITY menu_ShowNameAs.accesskey "ك">
 <!ENTITY firstLastCmd.label "الأول، الأخير">
@@ -117,27 +117,26 @@
 <!ENTITY preferencesCmdUnix.accesskey "ف">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "بطاقة جديدة">
-<!ENTITY newcardButton.accesskey "ب">
+<!ENTITY newContactButton.label                         "متراسل جديد">
+<!ENTITY newContactButton.accesskey                     "ج">
 <!ENTITY newlistButton.label "قائمة جديدة">
 <!ENTITY newlistButton.accesskey "ق">
-<!ENTITY editButton.label "الخصائص">
-<!ENTITY editButton.accesskey "خ">
+<!ENTITY editButton2.label "الخصائص">
+<!ENTITY editButton2.accesskey "خ">
 <!ENTITY newmsgButton.label "اكتب">
 <!ENTITY newmsgButton.accesskey "ك">
 <!ENTITY newIM.label "رسالة فورية">
 <!ENTITY newIM.accesskey "ف">
-<!ENTITY deleteButton.label "احذف">
-<!ENTITY deleteButton.accesskey "ح">
-<!ENTITY throbberItem.title "مُوضح النشاط">
+<!ENTITY deleteButton2.label "احذف">
+<!ENTITY deleteButton2.accesskey "ح">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "أنشئ بطاقة دفتر عناوين جديدة">
 <!ENTITY newlistButton.tooltip "أنشئ قائمة جديدة">
-<!ENTITY editButton.tooltip "حرّر البطاقة المُختارة">
+<!ENTITY editButton2.tooltip "حرّر العنصر المُختار">
 <!ENTITY newmsgButton.tooltip "أرسِل رسالة بريد">
 <!ENTITY newIM.tooltip "أرسِل رسالة فورية أو دردشة">
-<!ENTITY deleteButton.tooltip "احذف البطاقة أو دفتر العناوين المُختار">
+<!ENTITY deleteButton2.tooltip "احذف العنصر المُختار">
+<!ENTITY newContactButton.tooltip                       "أنشئ متراسل جديد في دفتر العناوين">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label "دفاتر العناوين">
@@ -185,7 +184,7 @@
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading "مُراسَل">
+<!ENTITY contact.heading "متراسل">
 <!ENTITY home.heading "المنزل">
 <!ENTITY other.heading "أخرى">
 <!ENTITY phone.heading "الهاتف">

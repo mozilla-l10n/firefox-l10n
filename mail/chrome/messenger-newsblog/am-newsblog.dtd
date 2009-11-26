@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "إعدادات حساب تلقيمة">
+<!ENTITY accountTitle.label "إعدادات الحساب">
 
 <!ENTITY biffStart.label "التمس المقالات الجديدة كلّ">
 <!ENTITY biffStart.accesskey "ت">
@@ -12,9 +12,9 @@
 
 <!ENTITY manageSubscriptions.label "أدر الاشتراكات…">
 <!ENTITY manageSubscriptions.accesskey "د">
-<!-- entities from defaults/isp/rss.rdf -->
 
-<!ENTITY rss.accountName "أخبار و مدوّنات">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "تلقيمات أخبار ومدوّنات">
-<!ENTITY rss.wizardLongName.accesskey "ت">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "تلقيمات المدونات والأخبار">
+<!ENTITY feeds.wizardShortName "التلقيمات">
+<!ENTITY feeds.wizardLongName "تلقيمات المدونات والأخبار">
+<!ENTITY feeds.wizardLongName.accesskey "ت">

@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "تكامل النظام">
+<!ENTITY defaultClient.intro  "اجعل &brandShortName; العميل المبدئي ل‍:">
+
+<!ENTITY email.label "البريد الإلكتروني">
+<!ENTITY newsgroups.label "مجموعات الأخبار">
+<!ENTITY feeds.label "التلقيمات">
+
+<!ENTITY checkOnStartup.label "تحقق دائمًا من ذلك عند بدء &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "ء">
+
+<!ENTITY searchIntegration.label "اسمح ل‍ &searchIntegration.engineName; بالبحث في الرسائل">
+<!ENTITY searchIntegration.accesskey "س">

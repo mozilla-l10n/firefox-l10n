@@ -3,6 +3,5 @@
 <!ENTITY newMessageCmd.label "رسالة">
 <!ENTITY newMessageCmd.accesskey "ر">
  
-<!ENTITY newCardCmd.label "بطاقة دفتر العناوين…">
-<!ENTITY newCardCmd.accesskey "ب">
-
+<!ENTITY  newContactCmd.label             "متراسل دفتر العناوين…">
+<!ENTITY  newContactCmd.accesskey         "ر">

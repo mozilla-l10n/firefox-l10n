@@ -2,12 +2,10 @@
 <!ENTITY itemAutoComplete.label "العنونة">
 <!ENTITY itemSpellCheck.label "الإملاء">
 
-<!ENTITY forwardMsg.label "مرر الرسائل:">
+<!ENTITY forwardMsg.label "مرّر الرسائل:">
 <!ENTITY forwardMsg.accesskey "م">
 <!ENTITY inline.label "ضمن السّياق">
-<!ENTITY inline.accesskey "ض">
 <!ENTITY asAttachment.label "كمرفقة">
-<!ENTITY asAttachment.accesskey "ك">
 <!ENTITY addExtension.label "أضِف الامتداد إلى اسم الملف">
 <!ENTITY addExtension.accesskey "ف">
 
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label "اضبط سلوك تنسيق النص">
 <!ENTITY sendOptions.label "خيارات الإرسال…">
 <!ENTITY sendOptions.accesskey "س">
+
+<!ENTITY attachmentReminder.label              "تحقق من المرفقات الناقصة">
+<!ENTITY attachmentReminder.accesskey          "ن">
+<!ENTITY attachmentReminderOptions.label       "الكلمات الدليلية…">
+<!ENTITY attachmentReminderOptions.accesskey   "ك">

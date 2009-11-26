@@ -66,8 +66,8 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 
-<!ENTITY haveSmtp1.prefix "سيُستخدم خادوم الصّادر (SMTP) الموجود مسبقًا، &quot;">
-<!ENTITY haveSmtp1.suffix "&quot; بإمكانك تعديل إعدادات خادوم الصّادر باختيار إعدادات الحسابات من قائمة الأدوات.">
+<!ENTITY haveSmtp1.prefix "سيُستخدم خادوم (SMTP) المصدِّر الموجود مسبقًا، &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;. يمكنك تغيير الخادمات المصدِّرة في إعدادات الحسابات.">
 <!-- Entities for Login page -->
 
 
@@ -84,14 +84,14 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "اسم المستخدم للصّادر (SMTP) الموجود حاليا، &quot; ">
-<!ENTITY haveSmtp2.suffix "&quot; بإمكانك تعديل إعدادات خادوم الصّادر باختيار إعدادات الحسابات من قائمة الأدوات.">
+<!ENTITY haveSmtp2.prefix "سوف يُستعمل اسم المستخدم الموجود حاليًا ل‍ (SMTP) المصدِّر، &quot; ">
+<!ENTITY haveSmtp2.suffix2 "&quot;. يمكنك تغيير الخادومات المصدِّرة في إعدادات الحسابات.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "خادوم الصّادر (SMTP) لديك، &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; ، يطابق خادوم الوارد، سيستخدم اسم المستخدم للوارد للوصول له. يمكنك تعديل إعدادات الصّادر باختيار إعدادات الحسابات من قائمة الأدوات.">
+<!ENTITY haveSmtp3.prefix "خادوم (SMTP) المصدِّر عندك، &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;، هو نفسه الخادوم المستورِد. سيُستعمل اسم مستخدمك المستوِرد في الوصول إليه. بإمكانك تغيير الخادومات المصدِّرة في إعدادات الحسابات.">
 <!-- Entities for Account name page -->
 
 
@@ -110,7 +110,9 @@
 <!ENTITY smtpServerNamePrefix.label "اسم خادوم الصّادر (SMTP):‏">
 <!ENTITY newsServerNamePrefix.label "اسم خادوم الأخبار (NNTP):‏">
 <!ENTITY downloadOnLogin.label "نزِّل الرّسائل الآن">
+<!ENTITY downloadOnLogin.accesskey "ن">
 <!ENTITY deferStorageDesc.label "أزل الإشارة من مربّع الاختيار هذا لتخزين بريد هذا الحساب في دليله الخاص. سيجعل ذلك من الحساب يبدو أنّه حساب أعلى مستوى. بغير ذلك، سيصبح جزءًا من الأدلة المحليّة لحساب صندوق الوارد العام.">
 <!ENTITY deferStorage.label "استخدم صندوق الوارد العامّ (تخزين البريد في المجلّدات المحليّة)">
+<!ENTITY deferStorage.accesskey "ع">
 <!ENTITY clickFinish.label "اضغط &quot;أنهِ&quot; لحفظ هذه الإعدادات و إنهاء مرشد الحسابات.">
 <!ENTITY clickFinish.labelMac 'انقر على "تمّ" لحفظ هذه الإعدادات والخروج من مرشد الحسابات.'>

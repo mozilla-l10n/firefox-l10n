@@ -15,5 +15,5 @@
 <!ENTITY copyLinkCmd.label "انسخ وصلة الموقع">
 <!ENTITY copyLinkCmd.accesskey "ن">
 
-<!ENTITY pasteLinkCmd.label "ألصق">
+<!ENTITY pasteLinkCmd.label "الصق">
 <!ENTITY pasteLinkCmd.accesskey "ل">

@@ -1,7 +1,7 @@
 <!ENTITY dialog.title "خيارات الإرسال">
 <!ENTITY sendMail.title "تنسيق النص">
 <!ENTITY sendMaildesc.label "عند إرسال رسائل بتنسيق HTML ولم يكن واحد أو أكثر من المستلمين في قائمة من يستطيع استقبال رسائل HTML:">
-<!ENTITY askMe.label "اسألني ماذا تفعل">
+<!ENTITY askMe.label "اسألني ماذا ستفعل">
 <!ENTITY askMe.accesskey "س">
 <!ENTITY convertPlain.label "حوِّل الرسالة إلى نص صرف">
 <!ENTITY convertPlain.accesskey "ح">
@@ -11,7 +11,7 @@
 <!ENTITY sendBoth.accesskey "س">
 <!ENTITY override.label "ملاحظة: استخدم دفتر العناوين لتحديد تنسيق النص المفضّل للمستلمين.">
 
-<!ENTITY domaindesc.label "عندما ترسل رسالة لأحد العناوين ذات اسم نطاق من المسرودة أدناه، سيُرسل &brandShortName; الرسائل آليا بالتنسيق الصحيح.">
+<!ENTITY domaindesc.label "عندما ترسل رسالة لأحد العناوين ذات اسم نطاق من المسرودة أدناه، سيُرسل &brandShortName; الرسائل آليًا بالتنسيق الصحيح.">
 <!ENTITY HTMLTab.label "نطاقات HTML">
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "نطاقات النص الصِّرف">

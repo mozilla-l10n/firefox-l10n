@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "اسم الخادوم:">
 <!ENTITY serverPort.label "المَنفذ:">
 <!ENTITY userName.label "اسم المستخدم:">
-<!ENTITY useSecureConnection.label "اتصال آمن:">
+<!ENTITY connectionSecurity.label "أمن الاتصال:">
 <!ENTITY useSecureAuthentication.label "مصادقة آمنة:">

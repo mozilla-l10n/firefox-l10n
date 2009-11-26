@@ -1,0 +1,77 @@
+<!ENTITY autoconfigWizard.title          "مُعِدّ حسابات البريد">
+<!ENTITY name.label                "اسمك:">
+<!ENTITY name.accesskey                  "س">
+<!ENTITY name.emptytext                  "الاسم العائلة">
+<!ENTITY name.text                       "اسمك الذي سيظهر للآخرين">
+<!ENTITY email.label                     "البريد الإلكتروني:">
+<!ENTITY email.accesskey                 "د">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "كلمة السر:">
+<!ENTITY password.accesskey              "م">
+<!ENTITY password.emptytext              "كلمة السر">
+<!ENTITY password.text                   "اختيارية، ستُستخدم فقط للتحقق من اسم المستخدم">
+
+<!ENTITY accountInformation.label        "معلومات الحساب">
+<!ENTITY username2.label                 "اسم المستخدم:">
+<!ENTITY incoming.label                  "المستورِد:">
+<!ENTITY outgoing.label                  "المصدِّر:">
+<!ENTITY noEncryption.label              "لا يوجد">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "إعداد يدويّ…">
+<!ENTITY manualSetup.accesskey           "و">
+<!ENTITY cancel.label                    "ألغِ">
+<!ENTITY cancel.accesskey                "ل">
+<!ENTITY continue.label                  "أكمِل">
+<!ENTITY continue.accesskey              "ك">
+<!ENTITY startOver.label                 "ابدأ من جديد">
+<!ENTITY startOver.accesskey             "د">
+<!ENTITY stop.label                      "أوقِف">
+<!ENTITY stop.accesskey                  "ف">
+
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "أعِد اختبار الإعدادات">
+<!ENTITY retest.accesskey                "خ">
+<!ENTITY edit.label                      "حرّر">
+<!ENTITY edit.accesskey                  "ح">
+
+<!ENTITY rememberPassword.label          "تذكّر كلمة السر">
+<!ENTITY rememberPassword.accesskey      "ذ">
+
+<!ENTITY warning.label                   "تحذير!">
+<!ENTITY incomingSettings.label          "إعدادات الواردات:">
+<!ENTITY outgoingSettings.label          "إعدادات الصادرات:">
+<!ENTITY technicaldetails.label          "التفاصيل التقنية">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "أتفهّم الأخطار.">
+<!ENTITY confirmWarning.accesskey        "ط">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "أنشئ الحساب">
+<!ENTITY createAccount.accesskey         "ش">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "غيّر الإعدادات">
+<!ENTITY changeSettings.accesskey        "ع">
+
+<!ENTITY contactYourProvider.description "يمكن أن يسمح لك &brandShortName; بالحصول على بريدك باستخدام الإعدادات المعطاة، غير أنه ينبغي عليك تبليغ مدير شبكتك أو مزوّد البريد عن هذه الاتصالات غير الصحيحة. راجع أسئلة ثَندِرْبِرد الأكثر شيوعًا لمزيد من المعلومات.">
+
+<!ENTITY insecureServer.tooltip.title    "تحذير! هذا خادوم غير آمن.">
+<!ENTITY insecureServer.tooltip.details  "انقر على الدائرة لمزيد من التفاصيل.">
+
+<!ENTITY insecureUnencrypted.description "أُرسِلَ بريدك والاستيثاق من غير تعمية، لذا يمكن أن يقرأ أيّ كان كلمة سرّك (ورسالتك) بسهولة. سيسمح لك &brandShortName; بالوصول إلى بريدك، ولكن ينبغي عليك أن تطلب من مزوّد البريد إعداد اتصال آمن في الخادوم.">
+
+<!ENTITY insecureSelfSigned.description  "يستخدم الخادوم شهادة لا نستطيع الوثوق بها، لذا لا يمكننا التأكد أن شخصًا لا يحاول التدخل في الاتصال بين  &brandShortName; وبين خادومك. سيسمح لك &brandShortName; بالوصول إلى بريدك، ولكن ينبغي عليك حقًا أن تطلب من مزوّد البريد أن يستخدم شهادة موثقة في إعدادات الخادوم.">
+<!ENTITY secureServer.description        "تهانينا! هذا خادوم آمن.">

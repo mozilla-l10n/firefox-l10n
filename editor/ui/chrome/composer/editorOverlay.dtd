@@ -48,7 +48,7 @@
 <!ENTITY newBlankPageCmd.label "صفحة المحرر">
 <!ENTITY newBlankPageCmd.accesskey "ص">
 <!ENTITY newMenu.label "جديد">
-<!ENTITY openFileCmd.label "افتح ملفا…">
+<!ENTITY openFileCmd.label "افتح ملفًا…">
 <!ENTITY openFileCmd.accesskey "ف">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "افتح موقع وب…">
@@ -89,10 +89,10 @@
 
 <!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ت">
-<!ENTITY pasteNoFormatting.label "ألصق بلا التنسيق">
+<!ENTITY pasteNoFormatting.label "الصق بلا التنسيق">
 <!ENTITY pasteNoFormatting.accesskey "ب">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ألصق على هيئة…">
+<!ENTITY pasteAs.label "الصق على هيئة…">
 <!ENTITY pasteAs.accesskey "ك">
 <!ENTITY publishSettings.label "إعدادات موقع النشر…">
 <!ENTITY publishSettings.accesskey "ع">
@@ -103,14 +103,15 @@
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
      This accesskey must be in both strings -->
-<!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
+<!ENTITY pasteAsQuotationCmd.label "الصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "ابحث و استبدل…">
 <!ENTITY findCmd.accesskey "ث">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "ابحث ثانيا">
-<!ENTITY findAgainCmd.accesskey "ي">
+<!ENTITY findAgainCmd.label "ابحث مرة أخرى">
+<!ENTITY findAgainCmd.accesskey "م">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "ابحث عن السابق">
@@ -119,9 +120,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
 <!ENTITY enableInlineSpellChecker.accesskey "د">
-<!ENTITY checkSpellingCmd.label "دقِّق الإملاء">
-<!ENTITY checkSpellingCmd.accesskey "ء">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "دقِّق الإملاء">
+<!ENTITY checkSpellingCmd2.accesskey "ء">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "صدّق HTML">
 <!ENTITY validateCmd.accesskey "ص">
 <!-- View menu items -->
@@ -169,7 +170,7 @@
 <!ENTITY cutCmd.accesskey "ق">
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "ألصق">
+<!ENTITY pasteCmd.label "الصق">
 <!ENTITY pasteCmd.accesskey "ص">
 <!ENTITY deleteCmd.label "احذف">
 <!ENTITY deleteCmd.accesskey "ح">
@@ -370,7 +371,7 @@
 <!ENTITY tableDeleteMenu2.accesskey "ذ">
 <!-- Insert SubMenu -->
 
-<!ENTITY tableInsertMenu.label "أدرج">
+<!ENTITY tableInsertMenu.label "إدراج">
 <!ENTITY tableInsertMenu.accesskey "د">
 <!ENTITY tableTable.label "جدول">
 <!ENTITY tableTable.accesskey "ج">
@@ -416,7 +417,7 @@
 <!ENTITY tableSplitCell.label "اقسم الخلية ">
 <!ENTITY tableSplitCell.accesskey "ق">
 <!ENTITY convertToTable.label "حول ما هو محدد إلى جدول">
-<!ENTITY convertToTable.accesskey "ن">
+<!ENTITY convertToTable.accesskey "ج">
 <!ENTITY tableProperties.label "خصائص الجدول…">
 <!ENTITY tableProperties.accesskey "خ">
 <!-- Tools menu -->

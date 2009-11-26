@@ -6,9 +6,9 @@
 <!ENTITY language.label "خطوط:">
 <!ENTITY language.accesskey "خ">
 
-<!ENTITY sizes.label "الحجم (عنصورات)">
+<!ENTITY  size.label                              "الحجم:">
 <!ENTITY proportionalSize.accesskey "ح">
-<!ENTITY monospaceSize.accesskey "ث">
+<!ENTITY  sizeMono.accesskey                      "ت">
 
 <!ENTITY proportional.label "نسبي:">
 <!ENTITY proportional.accesskey "ن">
@@ -57,8 +57,13 @@
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "التحكم بالخطوط">
+<!ENTITY  useFixedWidthForPlainText.label         "استخدم الخط الثابت العرض لرسائل النص الصرف">
+<!ENTITY  fixedWidth.accesskey                    "ن">
 <!ENTITY useDocumentFonts.label "اسمح للرسائل باستخدام خطوط أخرى">
 <!ENTITY useDocumentFonts.accesskey "س">
+
 <!-- Language settings -->
 
 <!ENTITY sendDefaultCharset.label "البريد الصادر:">

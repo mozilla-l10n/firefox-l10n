@@ -7,6 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "ة">
 <!ENTITY releaseCmd.label "ملاحظات الإصدار">
 <!ENTITY releaseCmd.accesskey "م">
+<!ENTITY whatsNewCmd.label "ما الجديد">
+<!ENTITY whatsNewCmd.accesskey "د">
+<!ENTITY featureConfiguratorCmd.label "مساعد الانتقال">
+<!ENTITY featureConfiguratorCmd.accesskey "ق ">
 <!ENTITY openHelp.label "محتويات المساعدة">
 <!ENTITY openHelp.accesskey "ح">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -14,7 +18,6 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "التمِسْ التحديثات…">
-<!ENTITY updateCmd.accesskey "ث">
-<!ENTITY aboutCmd.label "حوْل &brandFullName;">
-<!ENTITY aboutCmd.accesskey "و">
+<!ENTITY updateCmd.label "التمِس التحديثات…">
+<!ENTITY aboutMenuCmd.label "عن &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "ع">

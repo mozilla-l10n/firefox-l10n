@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab "المتواصل">
-<!ENTITY Contact.accesskey "ص">
+<!ENTITY Contact.tab "المتراسل">
+<!ENTITY Contact.accesskey "س">
 <!ENTITY Name.box "الاسم">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -79,13 +79,9 @@
 <!ENTITY ScreenName.label "اسم الشاشة:">
 <!ENTITY ScreenName.accesskey "س">
 
-<!ENTITY allowRemoteContent.label "اسمح بالصور البعيدة في بريد HTML.">
-<!ENTITY allowRemoteContent.accesskey "ص">
-<!ENTITY allowRemoteContent.tooltip     "من الممكن تضمين الصور ذات 
-المصادر البعيدة في رسائل HTML. عند فتح هكذا رسائل، 
-سيُفتح اتصال مع ذلك المصدر الخارجي. قد يسمح هذا 
-بتعقب الرسالى التي تُقرأ. سيسمح التأشير على هذا الصندوق 
-بالصور الخارجية المضمنة في رسائل HTML القادمة من هذا المتواصل.">
+<!ENTITY allowRemoteContent1.label      "اسمح بالمحتوى البعيد.">
+<!ENTITY allowRemoteContent1.accesskey  "ع">
+<!ENTITY allowRemoteContent1.tooltip    "من الممكن تضمين محتوى من مصادر بعيدة في رسائل HTML. سيؤدي فتح هذه الرسائل إلى إنشاء اتصال مع المصدر الخارجي. قد يسمح ذلك باقتفاء أثر الرسالة التي تُقرأ. إذا أشّرتَ على هذا الصندوق، فستسمح بعرض المحتوى المضمّن البعيد في رسائل HTML القادمة من هذا المتراسل.">
 
 <!ENTITY WorkPhone.label "العمل:">
 <!ENTITY WorkPhone.accesskey "ع">
@@ -114,7 +110,8 @@
 <!ENTITY HomeCountry.accesskey "ل">
 <!ENTITY HomeWebPage.label "صفحة الوِب:">
 <!ENTITY HomeWebPage.accesskey "ب">
-
+<!ENTITY In.label                       "">
+<!ENTITY YearsOld.label                 "">
 <!ENTITY Work.tab                       "العمل">
 <!ENTITY Work.accesskey                 "ع">
 <!ENTITY JobTitle.label "العنوان:">
@@ -155,3 +152,19 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label                    "المذكّرات:">
 <!ENTITY Notes.accesskey "م">
+
+<!ENTITY Photo.tab                      "صورة">
+<!ENTITY Photo.accesskey                "ة">
+<!ENTITY PhotoDesc.label                "اختر واحدة من الآتي:">
+<!ENTITY GenericPhoto.label             "صورة عمومية">
+<!ENTITY GenericPhoto.accesskey         "ع">
+<!ENTITY DefaultPhoto.label             "مبدئية">
+<!ENTITY PhotoFile.label                "في هذا الحاسوب">
+<!ENTITY PhotoFile.accesskey            "ف">
+<!ENTITY BrowsePhoto.label              "استعرض">
+<!ENTITY BrowsePhoto.accesskey          "ر">
+<!ENTITY PhotoURL.label                 "في الوب">
+<!ENTITY PhotoURL.accesskey             "و">
+<!ENTITY PhotoURL.emptytext             "اكتب عنوان عنوان الصورة في الوب">
+<!ENTITY UpdatePhoto.label              "حدّث">
+<!ENTITY UpdatePhoto.accesskey          "ث">

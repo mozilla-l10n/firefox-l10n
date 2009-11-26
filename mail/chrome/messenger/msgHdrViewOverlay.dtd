@@ -43,33 +43,61 @@
 
 <!ENTITY subjectField2.label "الموضوع">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "نسخة كربون مخفية">
-<!ENTITY newsgroupsField2.label "مجموعات الأخبار">
-<!ENTITY followupToField2.label "ملحق إلى">
-<!ENTITY tagsHdr2.label "وسوم">
-<!ENTITY dateField2.label "التاريخ">
-<!ENTITY userAgentField2.label "عميل المستخدم">
-<!ENTITY referencesField2.label "الإحالات">
-<!ENTITY messageIdField2.label "معرّف الرسالة">
-<!ENTITY inReplyToField2.label "ردًّا على">
-<!ENTITY originalWebsite2.label "موقع الوب">
+<!ENTITY ccField2.label "نسخة كربونية إلى ">
+<!ENTITY bccField2.label "نسخة كربونية مخفية إلى ">
+<!ENTITY newsgroupsField2.label "مجموعات الأخبار ">
+<!ENTITY followupToField2.label "ملحق إلى ">
+<!ENTITY tagsHdr2.label "وسوم ">
+<!ENTITY dateField2.label "التاريخ ">
+<!ENTITY userAgentField2.label "عميل المستخدم ">
+<!ENTITY referencesField2.label "المَراجع ">
+<!ENTITY messageIdField2.label "معرّف الرسالة ">
+<!ENTITY inReplyToField2.label "ردًّا على ">
+<!ENTITY originalWebsite2.label "موقع الوب ">
 
-<!ENTITY editMessageDescription.label "هذه رسالة مسودّة">
+<!ENTITY editMessageDescription.label "هذه رسالة مسوّدة">
 <!ENTITY editMessageButton.label "حرّر…">
-<!ENTITY replyButton.label "رُدّ…">
-<!ENTITY forwardButton.label "حوّل…">
-<!ENTITY junkButton.label "أضف علامة السُخام">
-<!ENTITY trashButton.tooltiptext "احذف">
+<!ENTITY hdrArchiveButton.label "أرشِف">
+<!ENTITY hdrArchiveButton.tooltip "أرشِف هذه الرسالة">
+<!ENTITY hdrReplyButton.label "ردّ">
+<!ENTITY hdrReplyButton.tooltip "ردّ على هذه الرسالة">
+<!ENTITY hdrReplyAllButton.label "ردّ على الكل">
+<!ENTITY hdrReplyAllButton.tooltip "ردّ على المرسِل وكل المستلمين">
+<!ENTITY hdrReplyListButton.label "ردّ على القائمة">
+<!ENTITY hdrReplyListButton.tooltip "ردّ على القائمة البريدية">
+<!ENTITY hdrForwardButton.label "مرّر">
+<!ENTITY hdrForwardButton.tooltip "مرّر هذه الرسالة">
+<!ENTITY hdrJunkButton.label "سُخام">
+<!ENTITY hdrJunkButton.tooltip "عامِل هذه الرسالة كسُخام">
+<!ENTITY hdrTrashButton.label "احذف">
+<!ENTITY hdrTrashButton.tooltip "احذف هذه الرسالة">
+
+<!ENTITY hdrViewToolbarShowFull.label "أظهِر الأيقونات والنص">
+<!ENTITY hdrViewToolbarShowFull.accesskey "ت">
+<!ENTITY hdrViewToolbarShowIcons.label "أظهِر الأيقونات فقط">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "ن">
+<!ENTITY hdrViewToolbarShowText.label "أظهِر النص فقط">
+<!ENTITY hdrViewToolbarShowText.accesskey "ص">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "أظهِر دائمًا ردّ على المرسِل">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ر">
 
 <!ENTITY otherActionsButton.label "إجراءات أخرى">
+<!ENTITY otherActionsShowConversation.label "أظهِر في المحادثة">
+<!ENTITY otherActionsShowConversation.accesskey "ث">
+<!ENTITY otherActionsOpenInNewWindow.label "افتح في نافذة جديدة">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "ن">
+<!ENTITY otherActionsOpenInNewTab.label "افتح في لسان جديد">
+<!ENTITY otherActionsOpenInNewTab.accesskey "ل">
+<!ENTITY markAsReadMenuItem.label "اجعلها مقروءة">
+<!ENTITY markAsReadMenuItem.accesskey "ء">
+<!ENTITY markAsUnreadMenuItem.label "اجعلها غير مقروءة">
+<!ENTITY markAsUnreadMenuItem.accesskey "ة">
 <!ENTITY saveAsMenuItem.label "احفظ ك‍…">
 <!ENTITY saveAsMenuItem.accesskey "ظ">
 <!ENTITY viewSourceMenuItem.label "اعرض المصدر…">
 <!ENTITY viewSourceMenuItem.accesskey "ص">
-
-<!ENTITY hideDetailsButton.label "أخفِ التفاصيل">
-<!ENTITY showDetailsButton.label "أظهِر التفاصيل">
+<!ENTITY otherActionsPrint.label "اطبع…">
+<!ENTITY otherActionsPrint.accesskey "ط">
 
 <!ENTITY openAttachmentCmd.label "افتح">
 <!ENTITY openAttachmentCmd.accesskey "ف">

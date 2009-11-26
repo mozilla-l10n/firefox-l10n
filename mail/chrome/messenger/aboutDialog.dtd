@@ -1,8 +1,17 @@
 <!ENTITY aboutDialog.title "عنْ &brandFullName;">
-<!ENTITY credits.label "المساهمون">
-<!ENTITY credits.accesskey "س">
-<!ENTITY aboutLink.label "&lt; حول &brandFullName;">
-<!ENTITY aboutLink.accesskey "ح">
+<!ENTITY aboutButton.label      "&lt; عودة">
+<!ENTITY aboutButton.accesskey  "ع">
 <!ENTITY aboutVersion "الإصدارة">
 <!ENTITY copyrightText "&#169; مساهمو 1998-2008. جميع الحقوق محفوظة. موزيلا ثندَربِرْد و شعارات ثندَربِرْد هي علامات تجارية لمؤسسة موزيلا. جميع الحقوق محفوظة.">
+<!ENTITY aboutMenu.label        "معلومات عن">
+<!ENTITY aboutMenu.accesskey    "م">
+<!ENTITY aboutCredits.label     "المشاركين">
+<!ENTITY aboutCredits.accesskey "م">
+<!ENTITY aboutRights.label      "حقوقك">
+<!ENTITY aboutRights.accesskey  "ق">
+<!ENTITY aboutContributors.label "المساهمين">
+<!ENTITY aboutContributors.accesskey "س">
+<!ENTITY aboutLicense.label      "الرخصة">
+<!ENTITY aboutLicense.accesskey  "ص">
+
 <!ENTITY cmdCloseMac.commandKey "w">

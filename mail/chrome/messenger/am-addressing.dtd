@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "ض">
 <!ENTITY belowText.label "تحت الاقتباس (مفضّل)">
 <!ENTITY aboveText.label "تحت ردّي (فوق الاقتباس)">
+<!ENTITY includeSigOnReply.label              "ضمّن توقيعي في الردود">
+<!ENTITY includeSigOnReply.accesskey          "ع">
+<!ENTITY includeSigOnForward.label            "ضمّن توقيعي عند التمرير">
+<!ENTITY includeSigOnForward.accesskey        "و">

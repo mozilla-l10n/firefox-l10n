@@ -44,12 +44,17 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 
-<!ENTITY importDialog.windowTitle "استورد">
-<!ENTITY importDialog.allTitle "استورد كل شيء">
-<!ENTITY importDialog.mailTitle "البريد">
-<!ENTITY importDialog.addressbookTitle "دفاتر العناوين">
-<!ENTITY importDialog.settingsTitle "الإعدادات">
-<!ENTITY importDialog.filtersTitle "المرشّحات">
+<!ENTITY importDialog.windowTitle "استيراد">
+<!ENTITY importAll.label          "استورد كل شيء">
+<!ENTITY importAll.accesskey      "ك">
+<!ENTITY importMail.label         "البريد">
+<!ENTITY importMail.accesskey     "ر">
+<!ENTITY importAddressbook.label  "دفاتر العناوين">
+<!ENTITY importAddressbook.accesskey "د">
+<!ENTITY importSettings.label     "الإعدادات">
+<!ENTITY importSettings.accesskey "ع">
+<!ENTITY importFilters.label      "المرشحات">
+<!ENTITY importFilters.accesskey  "ح">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
@@ -60,14 +65,15 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "هذا المرشد سوف يستورد رسائل البريد، ومدخلات دفاتر العناوين، والتفضيلات، والمرشحات من برامج بريد أخرى ومن صيغ دفاتر عناوين شائعة إلى &brandShortName;.">
 <!ENTITY importDescription2.label "بمجرّد استيرادها سيمكنك الوصول إليها من بريد &brandShortName; و/أو دفتر العناوين.">
 
-<!ENTITY selectDescription.label "من فضلك اختر البرمجية التي ترغب في الاستيراد منها:">
+<!ENTITY selectDescription.label "من فضلك اختر نوع الملف الذي ترغب باستيراده:">
+<!ENTITY selectDescription.accesskey "ض">
 
 <!ENTITY back.label "&lt; السابق">
-<!ENTITY forward.label "اللاحق &gt;">
+<!ENTITY forward.label "التالي &gt;">
 <!ENTITY finish.label "أنهِ">
 <!ENTITY cancel.label "ألغِ">
 
-<!ENTITY select.label "اختر نوع المحتوى للاستيراد:">
+<!ENTITY select.label "أو اختر نوع المحتوى للاستيراد:">
 
 <!ENTITY title.label "العنوان">
 <!ENTITY processing.label "يستورد…">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label "نتسكيب كميونيكيتور 4.x يحفظ عنوان بريدي واحد لكل بطاقة، بينما &brandShortName; يحفظ اثنين (المنزل والعمل).">
 <!ENTITY FieldDiscInputText2.label "اختر التصنيف الذي ترغب في حفظ عناوين البريد المستوردة به:">
 <!ENTITY FieldDiscWarning.label "سيستخدم التصنيف لكل مدخلات دفتر العناوين المختار:">
-<!ENTITY importDialog.homeTitle "المنزل">
-<!ENTITY importDialog.workTitle "العمل">
+<!ENTITY importHome.label        "المنزل">
+<!ENTITY importHome.accesskey    "ن">
+<!ENTITY importWork.label        "العمل">
+<!ENTITY importWork.accesskey    "م">

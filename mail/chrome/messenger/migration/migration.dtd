@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey "س">
-<!ENTITY importFromSeamonkey.label "نتسكيب 6 و7 أو موزيلا x.1">
-<!ENTITY importFromSeamonkey.accesskey "ن">
+<!ENTITY importFromSeamonkey2.label "نتسكيب 6 و7 أو موزيلا x.1 أو سي مانكي">
+<!ENTITY importFromSeamonkey2.accesskey "ن">
 <!ENTITY importFromNetscape4.label "نتسكيب  4.x">
 <!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "أوتلوك إكسبريس">

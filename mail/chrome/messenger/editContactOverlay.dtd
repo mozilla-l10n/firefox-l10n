@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "احذف">
+<!ENTITY editContactPanelDeleteContact.accesskey "ذ">
+
 <!ENTITY editContactName.label "الاسم:">
 <!ENTITY editContactName.accesskey "س">
 
