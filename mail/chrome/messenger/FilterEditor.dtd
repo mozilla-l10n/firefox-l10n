@@ -13,7 +13,7 @@
 <!ENTITY highestPriorityCmd.label "Muito Alta">
 
 <!ENTITY contextDesc.label "Aplicar filtro quando:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.accesskey "q">
 <!ENTITY contextIncoming.label "A verificar correio">
 <!ENTITY contextManual.label "Verificação manual">
 <!ENTITY contextBoth.label "A verificar correio ou verificação manual">
