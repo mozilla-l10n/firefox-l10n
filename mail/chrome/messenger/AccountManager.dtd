@@ -9,5 +9,5 @@
 <!ENTITY setDefaultButton.accesskey "п">
 <!ENTITY removeButton.label "Удалить учётную запись">
 <!ENTITY removeButton.accesskey "У">
-<!ENTITY accountManager.size "width: 118ch; height: 49em;">
+<!ENTITY accountManager.size "width: 118ch; height: 50em;">
 <!ENTITY accountTree.width "width: 33ch;">
