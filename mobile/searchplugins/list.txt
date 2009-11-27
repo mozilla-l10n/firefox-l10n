@@ -1,4 +1,3 @@
 google
 wikipedia-nl
 bolcom-nl
-hyves-nl
