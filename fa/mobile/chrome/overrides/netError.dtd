@@ -2,72 +2,80 @@
 %brandDTD;
 
 <!ENTITY loadError.label "اشکال در هنگام بارگیری">
-<!ENTITY retry.label "تلاش دوباره">
+<!ENTITY retry.label "سعی دوباره">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "قادر به برقراری اتصال نیست">
+<!ENTITY connectionFailure.title "قادر به اتصال نیست">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "این نشانی ممنوع است">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را بررسی کنید که مثلاً <span dir='ltr'><strong>ww</strong>.‪example.com‬</span> به طور اشتباه به جای <span dir='ltr'><strong>www</strong>.example.com</span> وارد نشده باشد.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را بررسی کنید که به طور اشتباه <span dir='ltr'><strong>ww</strong>.‪example.com‬</span> به جای <span dir='ltr'><strong>www</strong>.example.com</span> وارد نشده باشد.</li> <li>اگر نمی‌تواند هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ کامپیوتر را بررسی کنید.</li> <li>اگر کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; مجاز است تا به وب دسترسی داشته باشد.</li> </ul>">
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
-<!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نما یافته، یا پاک شده است.</li> </ul>">
 
 
-<!ENTITY generic.title "متأسفیم.">
+<!ENTITY generic.title "اوخ.">
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌تواند این صفحه را نمایش دهد.</p>">
 
-<!ENTITY malformedURI.title "این نشانی معتبر نیست">
-<!ENTITY malformedURI.longDesc "<ul> <li>نشانی‌های وب معمولاً به صورت <span dir='ltr'><strong>http://www.example.com/</strong></span> نوشته می‌شوند</li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.title "این نشانی معتبر نمی‌باشد">
+<!ENTITY malformedURI.longDesc "<ul> <li>نشانی‌های وب به طور معمول به صورت <span dir='ltr'><strong>http://www.example.com/</strong></span>نوشته می‌شوند</li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "<ul>
+  <li>دوباره تلاش کنید. &brandShortName; تلاش خواهد کرد تا اتصالی باز کند و صفحه را دوباره بارگذاری کند.</li>
+</ul>
+">
+
 <!ENTITY netOffline.title "حالت منفصل">
-<!ENTITY netOffline.longDesc "<ul> <li>از منوی «پرونده» گزینهٔ «کار منفصل» را غیرفعال نمایید و دوباره تلاش کنید.</li> </ul>">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul>
-  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.</li>
+  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "نوع پروندهٔ ناامن">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.</li>
+  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li>
 </ul>
 ">
 
 <!ENTITY netReset.title "اتصال قطع شد">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "مهلت اتصال تمام شد">
+<!ENTITY netTimeout.title "وقت اتصال تمام شد">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "نشانی قابل فهم نبود">
-<!ENTITY protocolNotFound.longDesc "<ul> <li>امکان دارد نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید.</li> </ul>">
+<!ENTITY protocolNotFound.longDesc "<ul> <li>شاید نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی دارید.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "کارگزار پیشکار از برقراری اتصال خودداری می‌کند.">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار به درستی کار می‌کند.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "کارگزار پیشکار از اتصال خودداری می‌کند.">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>تنظیمات پیشکار را بررسی کنید که صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار عمل می‌کند.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نشد">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ رایانه شما به درستی کار می‌کند.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نمی‌شود">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>تنظیمات پیشکار را بررسی کنید که صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ کامپیوتر شما عمل می‌کند.</li> <li>اگر کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازه‌ی دسترسی به وب را دارد.</li> </ul>">
 
 <!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
-<!ENTITY redirectLoop.longDesc "<ul> <li>گاهی ممکن است این اشکال به دلیل غیر فعال بودن یا خودداری کردن از قبول کوکی‌ها باشد.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>گاهی ممکن است این اشکال به دلیل غیر فعال بودن یا خودداری کردن از قبول کوکی باشد.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager) روی رایانهٔ شما نصب شده باشد.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager) بر روی سیستم شما نصب شده است.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
 
 <!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssFailure2.longDesc "<ul>
-  <li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست زیرا صحت اطلاعات دریافتی از آن قابل بررسی نیست.</li>
-  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.  همچنین می‌توانید با استفاده از فرمان موجود در منوی راهنما این وب‌گاه ناهموار را گزارش دهید.</li>
+  <li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست زیرا صحت اطلاعات دریافتی قابل بررسی نیست.</li>
+  <li>لطفاً با صاحبان وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.  همچنین می‌توانید با استفاده از فرمان موجود در منوی راهنما این وب‌گاه ناهموار را گزارش دهید.</li>
 </ul>
 ">
 
@@ -78,7 +86,7 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "<ul> <li>ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد. چند دقیقه صبر کنید و بعد دوباره تلاش کنید.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد. چند دقیقه صبر کنید و بعد دوباره سعی کنید.</li> <li>اگر نمی‌تواند هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ کامپیوتر را بررسی کنید.</li> <li>اگر کامپیوتر یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; مجاز است تا به وب دسترسی داشته باشد.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "وب‌گاه تهاجمی احتمالی!">
 <!ENTITY malwareBlocked.longDesc "<p>وب‌گاه‌های تهاجمی تلاش می‌کنند برنامه‌هایی نصب کند که اطلاعات خصوصی شما را به سرقت می‌برند، از رایانهٔ شما برای تهاجم به دیگران استفاده می‌کنند، یا به سیستم شما آسیب می‌زنند.</p>
