@@ -1,6 +1,4 @@
 google
-yahoo-nl
-bolcom-nl
-vandale-nl
 wikipedia-nl
-marktplaats-nl
+bolcom-nl
+hyves-nl
