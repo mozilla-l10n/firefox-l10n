@@ -1,8 +1,0 @@
-<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
-<ShortName>Van Dale Woordenboek</ShortName>
-<Description>Van Dale Taalweb On-linewoordenboek:</Description>
-<InputEncoding>ISO-8859-1</InputEncoding>
-<Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAK3RFWHRDcmVhdGlvbiBUaW1lAFNhdCA2IERlYyAyMDAzIDE1OjQ1OjAxIC0wMDAwDmVEwwAAAAd0SU1FB9MMBg8yK/J1nPAAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAEZ0FNQQAAsY8L/GEFAAABXUlEQVR42rVSPYvCQBR0Q1CDjSCksEkhWImFVrFIJwGxSpVfICH/Ihh7SWFnF0vRziI/wMpGBAslhpCTQECMVwiSj5vzijsQvLO4qYbdNztv3luSpmnmFVAvVX8Kzufzcrm0bTuO48fr+I6fJ+SrJcdx1uu17/tvd1wul+v1ejweXdfFbavVUhRFFEWKoshjhiiK3u84HA6e5223W9M0oVRV1TCMTPoHQNxut/HWfD7/RXC73YbDIRpGSPTT6/Xo5zPRdb1arXIch+jlchlWzwSn02k8Hu/3e/AkSeBWqVSe7WE2mzUajXw+D77ZbIIg6Ha7BNLVamVZFkbJsmytVuN5vlAooAcQTdM6nQ5qJEkihEynU7JYLAaDgSzLpVIJplgFRskwDEgulxuNRmEY9vv93W43mUyKxSJBDjCYwhoVINlslqbper2OPSAABM1mUxAETOl70//5+V4VfAAoNQMKuu6SpgAAAABJRU5ErkJggg==</Image>
-<Url type="text/html" method="GET" template="http://www.vandale.nl/opzoeken/woordenboek/?zoekwoord={searchTerms}">
-</Url>
-</SearchPlugin>
