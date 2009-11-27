@@ -163,7 +163,7 @@
 <!ENTITY installWaiting.label "Esperando…">
 <!ENTITY installIncompatibleUpdate.label "Verificando compatibilidad…">
 <!ENTITY installFinishing.label "Instalando…">
-<!ENTITY installFailure.label "Insalación fallida.">
+<!ENTITY installFailure.label "Instalación fallida.">
 
 <!ENTITY progressStatus.label             "Buscando actualizaciones">
 
