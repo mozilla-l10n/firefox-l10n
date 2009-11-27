@@ -30,7 +30,7 @@ bu sitenin kimlik bilgilerine güvenmesini söyleyebilirsiniz.
 anlamına gelebilir.</b>">
 <!ENTITY certerror.expert.contentPara2 "Bu siteye, güvenilir kimlik bilgisi sunmaması için geçerli bir nedeni 
 olmadıkça ayrıcalık tanımayın.">
-<!ENTITY certerror.addTemporaryException.label "Ziyaret sitesi">
+<!ENTITY certerror.addTemporaryException.label "Siteyi ziyaret et">
 <!ENTITY certerror.addPermanentException.label "Kalıcı istisna ekle">
 
 <!ENTITY certerror.technical.heading "Teknik ayrıntılar">
