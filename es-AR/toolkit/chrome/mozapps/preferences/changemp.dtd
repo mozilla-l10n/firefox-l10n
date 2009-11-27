@@ -5,5 +5,5 @@
 <!ENTITY setPassword.reenterPassword.label "Reingrese contraseña:">
 <!ENTITY setPassword.meter.label           "Medidor de calidad de la contraseña">
 <!ENTITY setPassword.meter.loading         "Cargando">
-<!ENTITY masterPasswordDescription.label   "Una contraseña maestra se usa para proteger información sensitiva como contraseñas de acceso. Si crea una contraseña maestra, se le pedira que la ingrese una vez por sesión cuando &brandShortName; recupere información guardada protegida por contraseña.">
+<!ENTITY masterPasswordDescription.label   "Una contraseña maestra se usa para proteger información sensitiva como contraseñas de acceso. Si crea una contraseña maestra, se le pedirá que la ingrese una vez por sesión cuando &brandShortName; recupere información guardada protegida por contraseña.">
 <!ENTITY masterPasswordWarning.label       "Asegúrese de recordar la contraseña maestra que ha ingresado. Si la olvida, no podrá volver a acceder a la información que está protegiendo.">
