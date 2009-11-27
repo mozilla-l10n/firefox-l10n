@@ -16,7 +16,6 @@
 <!ENTITY productHelp.accesskey "y">
 <!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 
 <!ENTITY helpReleaseNotes.label "Sürüm notları">
