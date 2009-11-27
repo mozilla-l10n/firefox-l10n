@@ -20,7 +20,7 @@
 <!ENTITY editBookmarkRemove.label "Elimina">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
-<!ENTITY helperApp.prompt "Che operazione eseguire con">
+<!ENTITY helperApp.prompt "Quale operazione eseguire con">
 <!ENTITY helperApp.open "Apri">
 <!ENTITY helperApp.save "Salva">
 <!ENTITY helperApp.nothing "Nessuna">
