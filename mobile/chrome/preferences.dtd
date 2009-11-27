@@ -6,9 +6,9 @@
 <!ENTITY enableJavaScript.title "Attiva JavaScript">
 <!ENTITY enablePlugins.title "Attiva i plugin">
 <!ENTITY privacy.title "Privacy e sicurezza">
-<!ENTITY allowCookies.title "Permetti cookie">
-<!ENTITY clearPrivateData2.title "Elimina dati personali">
-<!ENTITY clearPrivateData.button "Cancella">
+<!ENTITY allowCookies.title "Permetti i cookie">
+<!ENTITY clearPrivateData2.title "Elimina i dati personali">
+<!ENTITY clearPrivateData.button "Elimina">
 <!ENTITY rememberPasswords.title "Ricorda le password">
 <!ENTITY language.title "Lingua">
 <!ENTITY language.auto "Selezione automatica">
