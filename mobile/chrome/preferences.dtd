@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "Voorkeuren">
 <!ENTITY about.title                               "Over &brandShortName;">
 <!ENTITY about.button                              "Ga naar pagina">
-<!ENTITY about.description                         "Help en productinformatie verkrijgen">
 <!ENTITY content.title                             "Inhoud">
 <!ENTITY showImages.title                          "Afbeeldingen tonen">
 <!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
-<!ENTITY enableJavaScript.description              "De meeste interactive websites maken gebruik van JavaScript">
 <!ENTITY enablePlugins.title                       "Plug-ins inschakelen">
-<!ENTITY enablePlugins.description                 "Plug-ins worden gebruikt voor speciale inhoud zoals video">
 <!ENTITY privacy.title                             "Privacy &amp; Beveiliging">
 <!ENTITY allowCookies.title                        "Cookies toestaan">
-<!ENTITY allowCookies.description                  "Pagina's gebruiken cookies om u te identificeren en uw instellingen te onthouden">
 <!ENTITY clearPrivateData.title                    "Recente navigatiegeschiedenis wissen">
 <!ENTITY clearPrivateData.button                   "Wissen">
-<!ENTITY clearPrivateData.description              "Uw geschiedenis help &brandShortName; te suggereren waar u naar toe wilt">
 <!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
 <!ENTITY language.title                            "Taal">
-<!ENTITY language.description                      "Kies uw voorkeurstaal voor &brandShortName;">
 <!ENTITY language.auto                             "Autodetectie">
