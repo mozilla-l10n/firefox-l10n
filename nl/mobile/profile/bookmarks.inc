@@ -17,7 +17,6 @@
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: Over
 #define bookmarks_aboutBrowser Firefox: Over uw browser
 
 # LOCALIZATION NOTE (bookmarks_weave):
