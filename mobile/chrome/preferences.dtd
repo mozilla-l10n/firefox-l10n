@@ -1,15 +1,14 @@
+<!ENTITY prefsHeader.label                         "ترجیحات">
+<!ENTITY about.title                               "دربارهٴ &brandShortName;">
+<!ENTITY about.button                              "رفتن به صفحه">
 <!ENTITY content.title                             "محتوا">
-<!ENTITY permissions.default.image.title           "بار کردن تصاویر">
-<!ENTITY permissions.default.image.description     "وب‌گاه‌ها را زیبا می‌سازد">
-<!ENTITY javascript.enabled.title                  "فعال کردن جاوا اسکریپت">
-<!ENTITY javascript.enabled.description            "وب‌گاه‌ها را پر زرق و برق می‌سازد">
-<!ENTITY plugins.enabled.title                     "فعال کردن متصل شونده‌ها">
-<!ENTITY plugins.enabled.description               "وب‌گاه‌ها را آزاردهنده می‌سازد">
+<!ENTITY showImages.title                          "نمایش تصاویر">
+<!ENTITY enableJavaScript.title                    "فعال بودن جاوا اسکریپت">
+<!ENTITY enablePlugins.title                       "فعال کردن متصل شونده‌ها">
 <!ENTITY privacy.title                             "خصوصی و امنیت">
-<!ENTITY network.cookie.cookieBehavior.title       "ذخیرهٔ کوکی‌ها">
-<!ENTITY network.cookie.cookieBehavior.description "کلوچه‌های خوشمزه">
-<!ENTITY clear.private.data.title                  "پاک‌سازی اطلاعات خصوصی">
-<!ENTITY clear.private.data.button                 "پاک‌سازی…">
-<!ENTITY clear.private.data.description            "پوشانندهٔ ردپای‌تان">
-<!ENTITY signon.rememberSignons.title              "ذخیرهٔ گذرواژه‌ها">
-<!ENTITY signon.rememberSignons.description        "کمتر تایپ کنید">
+<!ENTITY allowCookies.title                        "اجازه دادن کوکی‌ها">
+<!ENTITY clearPrivateData2.title                   "پاک‌سازی اطلاعات خصوصی">
+<!ENTITY clearPrivateData.button                   "پاک کردن">
+<!ENTITY rememberPasswords.title                   "به خاطر سپردن گذرواژه‌ها">
+<!ENTITY language.title                            "زبان">
+<!ENTITY language.auto                             "تشخیص خودکار">
