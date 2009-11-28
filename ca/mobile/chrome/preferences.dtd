@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "Preferències">
 <!ENTITY about.title                               "Quant al &brandShortName;">
 <!ENTITY about.button                              "Vés a la pàgina">
-<!ENTITY about.description                         "Obtingueu ajuda i informació del producte">
 <!ENTITY content.title                             "Contingut">
 <!ENTITY showImages.title                          "Mostra les imatges">
 <!ENTITY enableJavaScript.title  	           "Habilita els JavaScript">
-<!ENTITY enableJavaScript.description              "La majoria dels llocs interactius empren JavaScript">
 <!ENTITY enablePlugins.title                       "Habilita els connectors">
-<!ENTITY enablePlugins.description                 "Els connectors s'utilitzen en contingut especial com ara els vídeo">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
 <!ENTITY allowCookies.title                        "Permet les galetes">
-<!ENTITY allowCookies.description                  "Els llocs utilitzen galetes per a indetificar-vos i recordar els vostres paràmetres">
-<!ENTITY clearPrivateData.title                    "Neteja l'historial de navegació recent">
+<!ENTITY clearPrivateData2.title                   "Neteja les dades privades">
 <!ENTITY clearPrivateData.button                   "Neteja">
-<!ENTITY clearPrivateData.description              "El vostre historial ajuda al &brandShortName; a suggerir-vos on voleu anar">
 <!ENTITY rememberPasswords.title                   "Recorda les contrasenyes">
 <!ENTITY language.title                            "Llengua">
-<!ENTITY language.description                      "Trieu la vostra llengua preferida per al &brandShortName;">
 <!ENTITY language.auto                             "Detecta automàticament">
