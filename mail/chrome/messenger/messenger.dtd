@@ -407,6 +407,9 @@
 <!ENTITY addons.accesskey "д">
 <!ENTITY activitymanager.label "Кіраўнік дзейнасці">
 <!ENTITY activitymanager.accesskey "д">
+<!ENTITY savedFiles.label "Захаваныя файлы">
+<!ENTITY savedFiles.accesskey "ф">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Сіты лістоў…">
 <!ENTITY filtersCmd.accesskey "С">
 <!ENTITY filtersApply.label "Ужыць сіты на папцы">
