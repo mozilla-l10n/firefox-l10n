@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "Nastavenia">
 <!ENTITY about.title                               "Čo je &brandShortName;">
 <!ENTITY about.button                              "Prejsť na stránku">
-<!ENTITY about.description                         "Pomocník a informácie o produkte">
 <!ENTITY content.title                             "Obsah">
 <!ENTITY showImages.title                          "Zobrazovať obrázky">
 <!ENTITY enableJavaScript.title                    "Povoliť JavaScript">
-<!ENTITY enableJavaScript.description              "Väčšina interaktívnych stránok používa JavaScript">
 <!ENTITY enablePlugins.title                       "Povoliť zásuvné moduly">
-<!ENTITY enablePlugins.description                 "Zásuvné moduly sa používajú pre špeciálny obsah, ako napr. video">
 <!ENTITY privacy.title                             "Súkromie a bezpečnosť">
 <!ENTITY allowCookies.title                        "Povoliť cookies">
-<!ENTITY allowCookies.description                  "Stránky používajú cookies na vašu identifikáciu a ukladanie nastavení stránok">
-<!ENTITY clearPrivateData.title                    "Vymazanie nedávnej histórie prehliadania">
+<!ENTITY clearPrivateData2.title                   "Vymazanie súkromných údajov">
 <!ENTITY clearPrivateData.button                   "Vymazať">
-<!ENTITY clearPrivateData.description              "História pomáha &brandShortName;u navrhovať, kam môžete prejsť">
 <!ENTITY rememberPasswords.title                   "Pamätať si heslá">
 <!ENTITY language.title                            "Jazyk">
-<!ENTITY language.description                      "Zvoľte preferovaný jazyk pre &brandShortName;">
 <!ENTITY language.auto                             "Automaticky detekovať">

@@ -1,8 +1,8 @@
 <!ENTITY welcome.title                      "Víta vás &brandShortName;">
-<!ENTITY overview.description               "Synchronizujte váš počítač PC a mobilné zariadenie pomocou Weave. Prispôsobte si ho pomocou doplnkov. Surfujte s inteligentným panelom s adresou a oveľa, oveľa viac.">
-<!ENTITY sync.title                         "Ideme na to">
-<!ENTITY sync.description                   "Nainštalujte si Weave a využite &brandShortName; naplno. Zdieľajte svoje nastavenia, záložky, históriu prehliadania a ďalšie medzi vašim počítačom a mobilným zariadením.">
-<!ENTITY sync.linkLabel                     "Získať doplnok Weave">
+<!ENTITY intro.description                  "Synchronizujte svoj počítač a mobilné zariadenie pomocou Weave Sync. Prispôsobte si ho pomocou doplnkov. Surfujte s inteligentným panelom s adresou a oveľa, oveľa viac.">
+<!ENTITY weave.title                        "Postavte sa a choďte">
+<!ENTITY weave.description                  "Nainštalujte si Weave Sync a využite &brandShortName; naplno. Zdieľajte svoju históriu prehliadania, záložky, uložené heslá a karty medzi svojim počítačom a mobilným zariadením.">
+<!ENTITY weave.linkLabel                    "Získať doplnok Weave Sync">
 <!ENTITY getPersonal.title                  "Buďte jedineční">
 <!ENTITY getPersonal.description            "Upravte si &brandShortName; podľa svojich predstáv. Prispôsobte si prvý prehliadač pre mobilné zariadenia v histórii, ktorý podporuje doplnky.">
-<!ENTITY getPersonal.linkLabel              "Získať doplnky pre vaše mobilné zariadenie.">
+<!ENTITY getPersonal.linkLabel              "Získať doplnky pre vaše mobilné zariadenie">
