@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "Endavant">
 <!ENTITY reload.label          "Actualitza">
 <!ENTITY stop.label            "Atura">
-<!ENTITY search.label          "Cerca">
 <!ENTITY go.label              "Vés-hi">
 <!ENTITY openLocation.label    "Obre una ubicació">
 <!ENTITY star.label            "Senyala">

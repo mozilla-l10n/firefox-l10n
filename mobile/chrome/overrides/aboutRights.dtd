@@ -45,9 +45,9 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "El &brandFullName; utilitza serveis d'informació web («serveis» d'ara endavant), com ara el SafeBrowsing, que està disponible per al vostre ús amb aquesta versió binària del &brandShortName; tal com es descriu a continuació. Si no voleu aquests serveis o no considereu els termes acceptables, podeu inhabilitar el SafeBrowsing a les preferències de l'aplicació.">
-<!ENTITY rights.webservices-b "">
-<!ENTITY rights.webservices-c "">
+<!ENTITY rights.webservices-a "El &brandFullName; utilitza serveis d'informació web («serveis» d'ara endavant), com ara el SafeBrowsing, que està disponible per al vostre ús amb aquesta versió binària del &brandShortName; tal com es descriu a continuació. Si no voleu aquests serveis o no considereu els termes acceptables, podeu inhabilitar el SafeBrowsing obrint les preferències de l'aplicació, seleccionant la secció ">
+<!ENTITY rights.webservices-b "Seguretat">
+<!ENTITY rights.webservices-c " , i desmarcant llavors «&blockAttackSites.label;» i «&blockWebForgeries.label;»">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Un resum dels serveis web que incorpora el producte, juntament amb instruccions de com inhabilitar-los si s'escau, cal incloure-ho ací.">
