@@ -1,3 +1,4 @@
 google
-wikipedia
-yahoo
+slovnik-sk
+twitter
+wikipedia-sk
