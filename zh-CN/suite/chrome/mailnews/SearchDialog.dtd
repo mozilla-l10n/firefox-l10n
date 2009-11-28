@@ -8,8 +8,6 @@
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label           "清空">
 <!ENTITY resetButton.accesskey       "C">
-<!ENTITY helpButton.label            "帮助">
-<!ENTITY helpButton.accesskey        "l">
 <!ENTITY openButton.label            "打开
 ">
 <!ENTITY openButton.accesskey        "n">
