@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "活动管理器">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "已保存的文件">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "消息过滤器…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "对文件夹执行过滤器">
