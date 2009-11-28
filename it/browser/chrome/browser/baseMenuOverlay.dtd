@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Contrai">
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY zoomWindow.label "Ridimensiona">
 <!ENTITY windowMenu.label "Finestra">
 <!ENTITY helpMenu.label "Aiuto">
 <!ENTITY helpMenu.accesskey "A">
