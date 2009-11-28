@@ -83,7 +83,7 @@
 <!ENTITY sendOptions.label                     "Siuntimo parinktys…">
 <!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label              "Tikrinti, ar neužmiršta prisegti failo">
+<!ENTITY attachmentReminder.label              "Tikrinti, ar neužmiršta pridėti failo">
 <!ENTITY attachmentReminder.accesskey          "t">
 <!ENTITY attachmentReminderOptions.label       "Reikšminiai žodžiai…">
 <!ENTITY attachmentReminderOptions.accesskey   "ž">

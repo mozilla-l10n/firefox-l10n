@@ -345,7 +345,7 @@
 <!ENTITY msgMenu.label "Laiškas">
 <!ENTITY msgMenu.accesskey "L">
 <!ENTITY newMsgCmd.label "Naujas laiškas…">
-<!ENTITY newMsgCmd.accesskey "l">
+<!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Laiškas…">
 <!ENTITY newNewMsgCmd.accesskey "L">
 <!ENTITY archiveMsgCmd.label "Archyvuoti">
@@ -446,7 +446,7 @@
 <!ENTITY markAsNotPhishCmd.accesskey "s">
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openMessageWindowCmd.label "Atverti laišką">
-<!ENTITY openMessageWindowCmd.accesskey "A">
+<!ENTITY openMessageWindowCmd.accesskey "l">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Atverti pranešimą">
 <!ENTITY openFeedMessage.accesskey "A">
