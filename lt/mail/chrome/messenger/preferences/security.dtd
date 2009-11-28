@@ -61,10 +61,10 @@
 <!ENTITY useDownloadedList.accesskey "N">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "Programa „&brandShortName;“ gali įsiminti visų Jūsų paskyrų slaptažodžius.">
+<!ENTITY savedPasswords.intro           "Programa „&brandShortName;“ gali įsiminti visų paskyrų slaptažodžius.">
 <!ENTITY useMasterPassword.label        "Naudoti pagrindinį slaptažodį">
 <!ENTITY useMasterPassword.accesskey    "N">
-<!ENTITY masterPassword.intro           "Pagrindinis slaptažodis apsaugos visus Jūsų slaptažodžius. Jis turi būti pateikiamas programai vieną kartą per seansą.">
+<!ENTITY masterPassword.intro           "Pagrindinis slaptažodis apsaugos visus slaptažodžius. Jis turi būti pateikiamas programai kartą per seansą.">
 <!ENTITY changeMasterPassword.label     "Pakeisti pagrindinį slaptažodį…">
 <!ENTITY changeMasterPassword.accesskey "k">
 <!ENTITY savedPasswords.label           "Įrašyti slaptažodžiai…">
@@ -76,7 +76,7 @@
 <!ENTITY antiVirus.accesskey  "L">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "Čia programai galite nurodyti, kuriems tinklaraščiams, naujienų srautams ir kitoms svetainėms ji turi leisti įrašyti slapukus.">
+<!ENTITY cookies.intro                  "Čia galite nurodyti, kuriems tinklaraščiams, naujienų srautams ir kitoms svetainėms leisti įrašyti slapukus.">
 <!ENTITY acceptCookies.label            "Leisti įrašyti slapukus">
 <!ENTITY acceptCookies.accesskey        "s">
 <!ENTITY keepUntil.label                "Laikyti iki:">

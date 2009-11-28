@@ -353,7 +353,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY msgMenu.label "Laiškas">
 <!ENTITY msgMenu.accesskey "l">
 <!ENTITY newMsgCmd.label "Naujas laiškas…">
-<!ENTITY newMsgCmd.accesskey "l">
+<!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Laiškas…">
 <!ENTITY newNewMsgCmd.accesskey "L">
 <!ENTITY archiveMsgCmd.label "Archyvuoti">
@@ -448,7 +448,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY recalculateJunkScoreCmd.label "Ieškoti šlamšto"> 
 <!ENTITY recalculateJunkScoreCmd.accesskey "a">
 <!ENTITY openMessageWindowCmd.label "Atverti laišką">
-<!ENTITY openMessageWindowCmd.accesskey "A">
+<!ENTITY openMessageWindowCmd.accesskey "l">
 <!ENTITY openMessageWindowCmd.key "o">
 
 <!ENTITY openFeedMessage.label "Atverti pranešimą">
@@ -757,8 +757,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageAllCmd.label "Kopijuoti paveikslą">
-<!ENTITY copyImageAllCmd.accesskey "p">
+<!ENTITY copyImageCmd.label "Kopijuoti paveikslo adresą">
+<!ENTITY copyImageCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stabdyti">

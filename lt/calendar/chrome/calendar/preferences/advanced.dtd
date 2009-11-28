@@ -51,10 +51,10 @@
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "V">
 
 <!-- Passwords -->
-<!ENTITY pref.calendar.advanced.savedPasswords.intro "„&brandShortName;“ gali įsiminti visų jūsų kalendorių slaptažodžius, kad kitą kartą jungiantis, jums nereiktų jų įvesti iš naujo.">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "Programa „&brandShortName;“ gali įsiminti visų kalendorių slaptažodžius, kad kitą kartą jungiantis, Jums nereiktų jų įvesti iš naujo.">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Įrašytus slaptažodžius šifruoti naudojant pagrindinį slaptažodį">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "š">
-<!ENTITY pref.calendar.advanced.masterPassword.intro "Pagrindinis slaptažodis apsaugos visus Jūsų slaptažodžius. Jis pateikiamas programai vieną kartą per seansą.">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Pagrindinis slaptažodis apsaugos visus slaptažodžius. Jis pateikiamas programai kartą per seansą.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Keisti pagrindinį slaptažodį…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "K">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Rodyti įrašytus slaptažodžius…">

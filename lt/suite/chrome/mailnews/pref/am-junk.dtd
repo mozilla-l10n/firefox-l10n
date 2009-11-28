@@ -43,7 +43,7 @@
 <!ENTITY otherFolder.accesskey "k">
 <!ENTITY purge1.label "Automatiškai šalinti šlamštą praėjus">
 <!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "dienoms(-ų)">
+<!ENTITY purge2.label "d.">
 
 <!ENTITY whitelist.label "Laiško nelaikyti šlamštu, jei jo siuntėjas įrašytas į šią adresų knygą: ">
 <!ENTITY whitelist.accesskey "d">
