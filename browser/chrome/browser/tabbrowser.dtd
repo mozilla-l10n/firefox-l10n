@@ -4,7 +4,7 @@
 <!ENTITY  closeTab.label         "Zatvori karticu">
 <!ENTITY  closeTab.accesskey         "Z">
 <!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "Zatovri ostale kartice">
+<!ENTITY  closeOtherTabs.label   "Zatvori ostale kartice">
 <!ENTITY  reloadAllTabs.label    "Ponovo učitaj sve kartice">
 <!ENTITY  reloadAllTabs.accesskey         "u">
 <!ENTITY  reloadTab.label        "Ponovo učitaj karticu">
