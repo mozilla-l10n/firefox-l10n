@@ -49,7 +49,7 @@
 <!ENTITY accountColumn.label "Paskyra">
 <!ENTITY statusColumn.label "Būsena">
 <!ENTITY sizeColumn.label "Dydis">
-<!ENTITY junkStatusColumn.label "Šlamšto statusas">
+<!ENTITY junkStatusColumn.label "Brukalo statusas">
 <!ENTITY unreadColumn.label "Neskaitytas">
 <!ENTITY totalColumn.label "Iš viso">
 <!ENTITY readColumn.label "Skaitytas">
@@ -71,7 +71,7 @@
 <!ENTITY accountColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal paskyrą">
 <!ENTITY statusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal būseną">
 <!ENTITY sizeColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal dydį">
-<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal šlamšto statusą">
+<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal brukalo statusą">
 <!ENTITY unreadColumn.tooltip "Neskaitytų laiškų skaičius gijoje">
 <!ENTITY totalColumn.tooltip "Laiškų skaičius gijoje">
 <!ENTITY readColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal skaitytus laiškus">

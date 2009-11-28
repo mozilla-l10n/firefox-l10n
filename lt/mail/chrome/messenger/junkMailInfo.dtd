@@ -13,6 +13,7 @@
    -
    - Contributor(s):
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -28,10 +29,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title  "Apie šlamštą">
+<!ENTITY window.title  "Apie brukalą">
 <!ENTITY window.width  "500">
-<!ENTITY info1a.label  "„&brandShortName;“ automatiškai aptinka įtartinus (panašius į šlamštą) laiškus ir juos pažymi ženkleliu „šlamštas“">
+<!ENTITY info1a.label  "„&brandShortName;“ automatiškai aptinka įtartinus (panašius į brukalą) laiškus ir juos pažymi ženkleliu „brukalas“">
 <!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "Tam, kad automatinis šlamšto aptikimas pradėtų veikti, programą „&brandShortName;“ pirma reikia apmokyti, nepageidaujamus laiškus pažymint kaip šlamštą (mygtukas „Šlamštas“ pašto mygtukų juostoje).">
-<!ENTITY info3.label   "Jei „&brandShortName;“ teisingai aptinka šlamštą, tai galima pradėti jį apdoroti automatiškai (pvz., perkelti atsiunčiamą šlamštą į atskirą aplanką arba pašalinti).">
+<!ENTITY info2.label   "Tam, kad automatinis brukalo aptikimas pradėtų veikti, programą „&brandShortName;“ pirma reikia apmokyti, nepageidaujamus laiškus pažymint kaip brukalą (mygtukas „Brukalas“ pašto mygtukų juostoje).">
+<!ENTITY info3.label   "Jei „&brandShortName;“ teisingai aptinka brukalą, tai galima pradėti jį apdoroti automatiškai (pvz., perkelti atsiunčiamą brukalą į atskirą aplanką arba pašalinti).">
 <!ENTITY info4.label   "Daugiau informacijos galima rasti elektroniniame žinyne.">

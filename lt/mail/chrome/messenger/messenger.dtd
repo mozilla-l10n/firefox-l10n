@@ -199,7 +199,7 @@
 <!ENTITY sortByStatusCmd.accesskey "b">
 <!ENTITY sortByTagsCmd.label "Gairė">
 <!ENTITY sortByTagsCmd.accesskey "G">
-<!ENTITY sortByJunkStatusCmd.label "Šlamšto statusas">
+<!ENTITY sortByJunkStatusCmd.label "Brukalo statusas">
 <!ENTITY sortByJunkStatusCmd.accesskey "l">
 <!ENTITY sortBySubjectCmd.label "Tema">
 <!ENTITY sortBySubjectCmd.accesskey "t">
@@ -439,13 +439,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.label "Žvaigždute">
 <!ENTITY markStarredCmd.accesskey "Ž">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Kaip šlamštą">
-<!ENTITY markAsJunkCmd.accesskey "š">
+<!ENTITY markAsJunkCmd.label "Kaip brukalą">
+<!ENTITY markAsJunkCmd.accesskey "b">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Kad nėra šlamštas">
+<!ENTITY markAsNotJunkCmd.label "Kad nėra brukalas">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Ieškoti šlamšto"> 
+<!ENTITY recalculateJunkScoreCmd.label "Ieškoti brukalo"> 
 <!ENTITY recalculateJunkScoreCmd.accesskey "a">
 <!ENTITY openMessageWindowCmd.label "Atverti laišką">
 <!ENTITY openMessageWindowCmd.accesskey "l">
@@ -475,9 +475,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.label "Adresų knyga">  
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY runJunkControls.label "Ieškoti šlamšto šiame aplanke">
-<!ENTITY runJunkControls.accesskey "m">
-<!ENTITY deleteJunk.label "Pašalinti laiškus, pažymėtus kaip šlamštą">
+<!ENTITY runJunkControls.label "Ieškoti brukalo šiame aplanke">
+<!ENTITY runJunkControls.accesskey "b">
+<!ENTITY deleteJunk.label "Pašalinti laiškus, pažymėtus kaip brukalą">
 <!ENTITY deleteJunk.accesskey "š">
 <!ENTITY errorConsoleCmd.label "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey "u">
@@ -509,8 +509,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Spausdinti">
 <!ENTITY stopButton.label "Stabdyti">
 <!ENTITY throbberItem.title "Aktyvumo rodiklis">
-<!ENTITY junkButton.label "Šlamštas">
-<!ENTITY notJunkButton.label "Ne šlamštas">
+<!ENTITY junkButton.label "Brukalas">
+<!ENTITY notJunkButton.label "Ne brukalas">
 <!ENTITY addressBookButton.label "Adresai">
 <!ENTITY glodaSearch.title "Globali paieška">
 <!ENTITY searchItem.title "Sparčioji paieška">
@@ -541,8 +541,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.tooltip "Pažymėti laiškus">
 <!ENTITY printButton.tooltip "Spausdinti šį laišką">
 <!ENTITY stopButton.tooltip "Stabdyti atsiuntimą">
-<!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip šlamštą">
-<!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra šlamštas">
+<!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip brukalą">
+<!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra brukalas">
 <!ENTITY addressBookButton.tooltip "Eiti į adresų knygą">
 <!ENTITY tagButton.tooltip "Priskirti gaires pažymėtiems laiškams">
 <!ENTITY compactButton.tooltip "Sunaikinti pašalintus laiškus iš pažymėto aplanko">
@@ -572,7 +572,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextCompact.accesskey "u">
 <!ENTITY folderContextEmptyTrash.label "Išvalyti šiukšlinę">
 <!ENTITY folderContextEmptyTrash.accesskey "v">
-<!ENTITY folderContextEmptyJunk.label "Išvalyti šlamšto aplanką">
+<!ENTITY folderContextEmptyJunk.label "Išvalyti brukalo aplanką">
 <!ENTITY folderContextEmptyJunk.accesskey "v">
 <!ENTITY folderContextSendUnsentMessages.label "Išsiųsti laiškus…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "ų">
@@ -620,7 +620,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.label "Paskyra">
 <!ENTITY statusColumn.label "Būsena">
 <!ENTITY sizeColumn.label "Dydis">
-<!ENTITY junkStatusColumn.label "Šlamšto statusas">
+<!ENTITY junkStatusColumn.label "Brukalo statusas">
 <!ENTITY unreadColumn.label "Neskaitytas">
 <!ENTITY totalColumn.label "Iš viso">
 <!ENTITY readColumn.label "Skaitytas">
@@ -642,7 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal paskyrą">
 <!ENTITY statusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal būseną">
 <!ENTITY sizeColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal dydį">
-<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal šlamšto statusą">
+<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal brukalo statusą">
 <!ENTITY unreadColumn.tooltip "Gijos neskaitytų laiškų skaičius">
 <!ENTITY totalColumn.tooltip "Gijos laiškų skaičius">
 <!ENTITY readColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal skaitytus">
@@ -698,8 +698,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "r">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Šlamštas">
-<!ENTITY junkBarButton1.label "Tai nėra šlamštas">
+<!ENTITY junkBarMessage1.label "Brukalas">
+<!ENTITY junkBarButton1.label "Tai nėra brukalas">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->

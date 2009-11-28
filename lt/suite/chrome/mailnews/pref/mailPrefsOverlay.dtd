@@ -47,7 +47,7 @@
 <!ENTITY composingMessages.label          "Laiškų rašymas">
 <!ENTITY format.label                     "Siunčiamo teksto tipai">
 <!ENTITY return.label                     "Pranešimai apie išsiųstus laiškus">
-<!ENTITY junk.label                       "Šlamštas">
+<!ENTITY junk.label                       "Brukalas">
 <!ENTITY tags.label                       "Gairės">
 <!ENTITY characterEncoding.label          "Koduotė">
 <!ENTITY networkStorage.label             "Tinklas ir disko atmintis">

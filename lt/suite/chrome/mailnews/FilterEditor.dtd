@@ -60,8 +60,8 @@
 <!ENTITY filterName.label                 "Filtro pavadinimas:">
 <!ENTITY filterName.accesskey             "F">
 
-<!ENTITY junk.label                       "Šlamštas">
-<!ENTITY notJunk.label                    "Ne šlamštas">
+<!ENTITY junk.label                       "Brukalas">
+<!ENTITY notJunk.label                    "Ne brukalas">
 
 <!ENTITY lowestPriorityCmd.label          "žemiausią">
 <!ENTITY lowPriorityCmd.label             "žemą">
@@ -90,7 +90,7 @@
 <!ENTITY labelMessage.label               "Pažymėti gaire:">
 <!ENTITY setPriority.label                "Nustatyti prioritetą:">
 <!ENTITY addTag.label                     "Priskirti gairę:">
-<!ENTITY setJunkScore.label               "Priskirti šlamšto statusą:">
+<!ENTITY setJunkScore.label               "Priskirti brukalo statusą:">
 <!ENTITY deleteMessage.label              "Pašalinti laišką">
 <!ENTITY deleteFromPOP.label              "Pašalinti iš POP serverio">
 <!ENTITY fetchFromPOP.label               "Atsiųsti laiško tekstą iš POP serverio">

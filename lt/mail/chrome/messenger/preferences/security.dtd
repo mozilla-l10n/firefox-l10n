@@ -30,23 +30,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY itemJunk.label          "Šlamštas">
+<!ENTITY itemJunk.label          "Brukalas">
 <!ENTITY itemPhishing.label      "Apgaulingi laiškai">
 <!ENTITY itemPasswords.label     "Slaptažodžiai">
 <!ENTITY itemAntiVirus.label     "Antivirusinė apsauga">
 <!ENTITY itemCookies.label       "Žiniatinklis">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Šlamšto kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
-<!ENTITY manualMark.label "Pažymėjus, kad laiškai yra šlamštas:">
+<!ENTITY junkMail.intro "Brukalo kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
+<!ENTITY manualMark.label "Pažymėjus, kad laiškai yra brukalas:">
 <!ENTITY manualMark.accesskey "P">
-<!ENTITY manualMarkModeMove.label "perkelti juos į paskyros aplanką „Šlamštas“">
+<!ENTITY manualMarkModeMove.label "perkelti juos į paskyros aplanką „Brukalas“">
 <!ENTITY manualMarkModeMove.accesskey "k">
 <!ENTITY manualMarkModeDelete.label "pašalinti juos">
 <!ENTITY manualMarkModeDelete.accesskey "š">
-<!ENTITY markAsReadOnSpam.label "Laiškus, įgijusius šlamšto statusą, žymėti kaip skaitytus">
+<!ENTITY markAsReadOnSpam.label "Laiškus, įgijusius brukalo statusą, žymėti kaip skaitytus">
 <!ENTITY markAsReadOnSpam.accesskey "L">
-<!ENTITY enableJunkLogging.label "Įrašyti šlamšto filtravimo veiksmus">
+<!ENTITY enableJunkLogging.label "Įrašyti brukalo filtravimo veiksmus">
 <!ENTITY enableJunkLogging.accesskey "r">
 <!ENTITY openJunkLog.label "Rodyti žurnalą">
 <!ENTITY openJunkLog.accesskey "ž">

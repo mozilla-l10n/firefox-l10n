@@ -37,25 +37,25 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Šlamštas">
-<!ENTITY junkSettings.caption "Bendrosios šlamšto kontrolės nuostatos">
-<!ENTITY junkMail.intro "Šlamšto kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
+<!ENTITY pref.junk.title "Brukalas">
+<!ENTITY junkSettings.caption "Bendrosios brukalo kontrolės nuostatos">
+<!ENTITY junkMail.intro "Brukalo kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
 
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label               "Pažymėjus, kad laiškai yra šlamštas:">
+<!ENTITY manualMark.label               "Pažymėjus, kad laiškai yra brukalas:">
 <!ENTITY manualMark.accesskey           "P">
-<!ENTITY manualMarkModeMove.label       "perkelti juos į paskyros aplanką „Šlamštas“">
-<!ENTITY manualMarkModeMove.accesskey   "m">
+<!ENTITY manualMarkModeMove.label       "perkelti juos į paskyros aplanką „Brukalas“">
+<!ENTITY manualMarkModeMove.accesskey   "B">
 <!ENTITY manualMarkModeDelete.label     "pašalinti juos">
 <!ENTITY manualMarkModeDelete.accesskey "š">
 
-<!ENTITY markAsRead.intro               "Laiškus, įgijusius šlamšto statusą, žymėti kaip skaitytus:">
-<!ENTITY autoMarkAsRead.label           "kai jį suteikia „&brandShortName;“ šlamšto filtrai">
+<!ENTITY markAsRead.intro               "Laiškus, įgijusius brukalo statusą, žymėti kaip skaitytus:">
+<!ENTITY autoMarkAsRead.label           "kai jį suteikia „&brandShortName;“ brukalo filtrai">
 <!ENTITY autoMarkAsRead.accesskey       "f">
-<!ENTITY manualMarkAsRead.label         "kai šlamšto statusas suteikiamas rankiniu būdu">
+<!ENTITY manualMarkAsRead.label         "kai brukalo statusas suteikiamas rankiniu būdu">
 <!ENTITY manualMarkAsRead.accesskey     "r">
 
-<!ENTITY enableJunkLogging.label        "Įrašyti šlamšto filtravimo veiksmus">
+<!ENTITY enableJunkLogging.label        "Įrašyti brukalo filtravimo veiksmus">
 <!ENTITY enableJunkLogging.accesskey    "e">
 <!ENTITY openJunkLog.label              "Rodyti žurnalą">
 <!ENTITY openJunkLog.accesskey          "ž">
