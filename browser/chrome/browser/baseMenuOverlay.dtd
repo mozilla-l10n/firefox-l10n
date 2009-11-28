@@ -16,7 +16,6 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "致 Internet Explorer 用户">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "发行说明">
