@@ -470,6 +470,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Veiklų tvarkytuvė">
 <!ENTITY activitymanager.accesskey "V">
+<!ENTITY savedFiles.label "Įrašyti failai">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY messengerCmd.label "Paštas ir naujienų grupės">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY addressBookCmd.label "Adresų knyga">  
@@ -757,8 +760,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Kopijuoti paveikslo adresą">
-<!ENTITY copyImageCmd.accesskey "p">
+<!ENTITY copyImageAllCmd.label "Kopijuoti paveikslą">
+<!ENTITY copyImageAllCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stabdyti">
