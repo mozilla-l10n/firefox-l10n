@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "前进">
 <!ENTITY reload.label          "重新载入">
 <!ENTITY stop.label            "停止">
-<!ENTITY search.label          "搜索">
 <!ENTITY go.label              "转到">
 <!ENTITY openLocation.label    "打开位置">
 <!ENTITY star.label            "星标">
