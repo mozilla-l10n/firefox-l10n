@@ -1,4 +1,3 @@
-answers
 google
-wikipedia
-yahoo
+twitter
+wikipedia-zh-CN

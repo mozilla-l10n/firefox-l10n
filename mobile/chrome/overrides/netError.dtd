@@ -40,6 +40,14 @@
 <!ENTITY netInterrupt.title "连接被中断">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "<ul>
+  <li>请重试。 &brandShortName; 将会尝试打开一个链接并重新载入页面。</li>
+</ul>
+ ">
+
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc "<ul><li>请将 文件 菜单中的 &quot;脱机工作&quot; 反选，然后再试。</li></ul>">
 

@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "首选项">
 <!ENTITY about.title                               "关于 &brandShortName;">
 <!ENTITY about.button                              "转至页面">
-<!ENTITY about.description                         "获取帮助和产品信息">
 <!ENTITY content.title                             "内容">
 <!ENTITY showImages.title                          "显示图片">
 <!ENTITY enableJavaScript.title                    "启用 JavaScript">
-<!ENTITY enableJavaScript.description              "大部分交互性网站使用 JavaScript 语言">
 <!ENTITY enablePlugins.title                       "启用插件">
-<!ENTITY enablePlugins.description                 "插件用于特殊的内容，比如视频">
 <!ENTITY privacy.title                             "隐私 &amp; 安全">
 <!ENTITY allowCookies.title                        "允许 cookies">
-<!ENTITY allowCookies.description                  "网站使用 cookies 来识别您的身份和记住您的设置">
-<!ENTITY clearPrivateData.title                    "清空最近的浏览历史">
+<!ENTITY clearPrivateData2.title                   "清除隐私数据">
 <!ENTITY clearPrivateData.button                   "清空">
-<!ENTITY clearPrivateData.description              "历史信息可以帮助 &brandShortName; 为您更好地提供目的地址的建议">
 <!ENTITY rememberPasswords.title                   "记住密码">
 <!ENTITY language.title                            "语言">
-<!ENTITY language.description                      "请选择 &brandShortName; 首选的语言">
 <!ENTITY language.auto                             "自动检测">
