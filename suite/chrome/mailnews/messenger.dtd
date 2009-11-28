@@ -212,7 +212,7 @@
 <!ENTITY sortByStatusCmd.accesskey "B">
 <!ENTITY sortByTagsCmd.label "Gairės">
 <!ENTITY sortByTagsCmd.accesskey "G">
-<!ENTITY sortByJunkStatusCmd.label "Šlamšto būsena">
+<!ENTITY sortByJunkStatusCmd.label "Brukalo būsena">
 <!ENTITY sortByJunkStatusCmd.accesskey "ū">
 <!ENTITY sortBySubjectCmd.label "Tema">
 <!ENTITY sortBySubjectCmd.accesskey "T">
@@ -431,13 +431,13 @@
 <!ENTITY markFlaggedCmd.label "Gairele">
 <!ENTITY markFlaggedCmd.accesskey "a">
 <!ENTITY markFlaggedCmd.key "i">
-<!ENTITY markAsJunkCmd.label "Kaip šlamštą">
+<!ENTITY markAsJunkCmd.label "Kaip brukalą">
 <!ENTITY markAsJunkCmd.accesskey "š">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Kad nėra šlamštas">
+<!ENTITY markAsNotJunkCmd.label "Kad nėra brukalas">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Vykdyti šlamšto valdymo mechanizmą">
+<!ENTITY recalculateJunkScoreCmd.label "Vykdyti brukalo valdymo mechanizmą">
 <!ENTITY recalculateJunkScoreCmd.accesskey "š">
 <!ENTITY markAsShowRemoteCmd.label "Įkelti elementus iš tinklo">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
@@ -481,8 +481,8 @@
 <!ENTITY markButton.label "Pažymėti">
 <!ENTITY printButton.label "Spausdinti">
 <!ENTITY stopButton.label "Stabdyti">
-<!ENTITY junkButton.label "Šlamštas">
-<!ENTITY notJunkButton.label "Ne šlamštas">
+<!ENTITY junkButton.label "Brukalas">
+<!ENTITY notJunkButton.label "Ne brukalas">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Meniu juosta">
@@ -505,8 +505,8 @@
 <!ENTITY printButton.tooltip "Spausdinti šį laišką">
 <!ENTITY stopButton.tooltip "Stabdyti atsiuntimą">
 <!ENTITY throbber.tooltip "Atverti &vendorShortName; pradžios tinklalapį">
-<!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip šlamštą (arba pašalinti tokį žymėjimą)">
-<!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra šlamštas">
+<!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip brukalą (arba pašalinti tokį žymėjimą)">
+<!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra brukalas">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Dokumentas baigtas">
@@ -560,7 +560,7 @@
 <!ENTITY folderContextCompact.accesskey "u">
 <!ENTITY folderContextEmptyTrash.label "Išvalyti šiukšlinę">
 <!ENTITY folderContextEmptyTrash.accesskey "v">
-<!ENTITY folderContextEmptyJunk.label "Išvalyti šlamšto aplanką">
+<!ENTITY folderContextEmptyJunk.label "Išvalyti brukalo aplanką">
 <!ENTITY folderContextEmptyJunk.accesskey "v">
 <!ENTITY folderContextSendUnsentMessages.label "Išsiųsti laiškus…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "ų">
@@ -594,15 +594,15 @@
 <!ENTITY searchAddressesCmd.label "Adresų paieška…">
 <!ENTITY searchAddressesCmd.accesskey "A">
 
-<!ENTITY runJunkControls.label "Taikyti šlamšto valdymą pažymėtiems laiškams…">
+<!ENTITY runJunkControls.label "Taikyti brukalo valdymą pažymėtiems laiškams…">
 <!ENTITY runJunkControls.accesskey "m">
 
-<!ENTITY deleteJunk.label "Pašalinti laiškus, pažymėtus kaip šlamštą">
+<!ENTITY deleteJunk.label "Pašalinti laiškus, pažymėtus kaip brukalą">
 <!ENTITY deleteJunk.accesskey "š">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; laiko, kad šis laiškas yra šlamštas">
-<!ENTITY junkBarButton.label "Tai nėra šlamštas">
+<!ENTITY junkBarMessage.label "„&brandShortName;“ laiko, kad šis laiškas yra brukalas">
+<!ENTITY junkBarButton.label "Tai nėra brukalas">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->

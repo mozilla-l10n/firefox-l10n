@@ -30,23 +30,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY junkSettings.label "Šlamšto nuostatos">
-<!ENTITY trainingWarning.label "Įjungus šlamšto filtrą reikia parodyti „&brandShortName;“ programai, kurie laiškai laikomi šlamštu, kurie – ne (mygtukas „Šlamštas“ arba „Ne šlamštas“ priemonių juostoje).">
-<!ENTITY level.label "Įjungti šios paskyros adaptyvųjį šlamšto filtrą">
+<!ENTITY junkSettings.label "Brukalo nuostatos">
+<!ENTITY trainingWarning.label "Įjungus brukalo filtrą reikia parodyti „&brandShortName;“ programai, kurie laiškai laikomi brukalu, kurie – ne (mygtukas „Brukalas“ arba „Ne brukalas“ priemonių juostoje).">
+<!ENTITY level.label "Įjungti šios paskyros adaptyvųjį brukalo filtrą">
 <!ENTITY level.accesskey "Į">
 
-<!ENTITY move.label "Naują šlamštą perkelti į:">
+<!ENTITY move.label "Naują brukalą perkelti į:">
 <!ENTITY move.accesskey "p">
-<!ENTITY junkFolderOn.label "aplanką „Šlamštas“:">
-<!ENTITY junkFolderOn.accesskey "Š">
+<!ENTITY junkFolderOn.label "aplanką „Brukalas“:">
+<!ENTITY junkFolderOn.accesskey "B">
 <!ENTITY otherFolder.label "kitą aplanką:">
 <!ENTITY otherFolder.accesskey "k">
-<!ENTITY purge1.label "Automatiškai šalinti šlamštą praėjus">
+<!ENTITY purge1.label "Automatiškai šalinti brukalą praėjus">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "d.">
 
-<!ENTITY whitelist.label "Laiško nelaikyti šlamštu, jei jo siuntėjas įrašytas į šią adresų knygą: ">
+<!ENTITY whitelist.label "Laiško nelaikyti brukalu, jei jo siuntėjas įrašytas į šią adresų knygą: ">
 <!ENTITY whitelist.accesskey "d">
 
-<!ENTITY ispHeaders.label "Pasitikėti laiškų šlamšto antraštėmis, kurias priskyrė: ">
+<!ENTITY ispHeaders.label "Pasitikėti laiškų brukalo antraštėmis, kurias priskyrė: ">
 <!ENTITY ispHeaders.accesskey "t">

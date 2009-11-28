@@ -69,8 +69,8 @@
 <!ENTITY hdrReplyListButton.tooltip "atsakyti el. pašto grupei">
 <!ENTITY hdrForwardButton.label "persiųsti">
 <!ENTITY hdrForwardButton.tooltip "persiųsti šį laišką">
-<!ENTITY hdrJunkButton.label "šlamštas">
-<!ENTITY hdrJunkButton.tooltip "pažymėti šį laišką kaip šlamštą">
+<!ENTITY hdrJunkButton.label "brukalas">
+<!ENTITY hdrJunkButton.tooltip "pažymėti šį laišką kaip brukalą">
 <!ENTITY hdrTrashButton.label "pašalinti">
 <!ENTITY hdrTrashButton.tooltip "pašalinti šį laišką">
 

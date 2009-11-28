@@ -54,7 +54,7 @@
 <!ENTITY advFeaturesSectionHdr.label  "Kitkas">
 <!ENTITY searchMsgsLink.label         "Laiškų paieška">
 <!ENTITY filtersLink.label            "Laiškų filtrai">
-<!ENTITY junkSettings.label           "Šlamšto (nepageidaujamų laiškų) nuostatos">
+<!ENTITY junkSettings.label           "Brukalo nuostatos">
 <!ENTITY offlineLink.label            "Darbo atsijungus nuo tinklo nuostatos">
 
 <!ENTITY feedsSectionHdr.label        "Sklaidos kanalai">

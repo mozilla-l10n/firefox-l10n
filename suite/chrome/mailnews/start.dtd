@@ -43,10 +43,10 @@
 <!ENTITY headline.label
 'Sveiki! Čia „<a id="vendorURL" href="">&brandShortName;</a>“ pašto ir naujienų grupių programa'>
 <!ENTITY description.label
-"„&brandShortName;“ pašto ir naujienų grupių programa – atvirojo kodo produktas, pasižymintis galingais šlamšto filtrais bei kitomis naudingomis savybėmis.">
+"„&brandShortName;“ pašto ir naujienų grupių programa – atvirojo kodo produktas, pasižymintis galingais brukalo filtrais bei kitomis naudingomis savybėmis.">
 <!ENTITY features.title "Savybės">
 <!ENTITY feat_multiacc.label "galimybė dirbti su keliais pašto abonentais vienu metu">
-<!ENTITY feat_junk.label "šlamšto aptikimas">
+<!ENTITY feat_junk.label "brukalo aptikimas">
 <!ENTITY feat_feeds.label "sklaidos kanalų skaitytuvė">
 <!ENTITY feat_filters.label "Laiškų filtrai">
 <!ENTITY feat_htmlmsg.label "darbas su raiškiaisiais (HTML) laiškais">

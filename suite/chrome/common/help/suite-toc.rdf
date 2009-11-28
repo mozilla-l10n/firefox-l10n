@@ -154,7 +154,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-delete" nc:name="Laiškų šalinimas" nc:link="mail_help.xhtml#deleting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-address" nc:name="Adresų knygos" nc:link="mail_help.xhtml#using_address_books" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-folders" nc:name="Laiškų tvarkymas" nc:link="mail_help.xhtml#organizing_your_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Šlamšto valdymas" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk" nc:name="Brukalo valdymas" nc:link="mail_help.xhtml#controlling_junk_mail" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Laiškų ir nuostatų importas iš kitų pašto programų" nc:link="mail_help.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-news" nc:name="Darbo su naujienų grupėmis pradžia" nc:link="mail_help.xhtml#getting_started_with_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Darbas atsijungus nuo tinklo" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
@@ -346,7 +346,7 @@
 <rdf:Description about="#mail-junk">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Šlamšto valdymo mechanizmas" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-junk-controls" nc:name="Brukalo valdymo mechanizmas" nc:link="mail_help.xhtml#using_junk_mail_controls" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>

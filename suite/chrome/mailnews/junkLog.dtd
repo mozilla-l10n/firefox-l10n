@@ -37,8 +37,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY junkLog.title "Šlamšto žurnalas">
-<!ENTITY junkLogInfo.label "Šlamšto kontrolės veiksmų žurnalas.">
+<!ENTITY junkLog.title "Brukalo žurnalas">
+<!ENTITY junkLogInfo.label "Brukalo kontrolės veiksmų žurnalas.">
 <!ENTITY clearLog.label "Išvalyti žurnalą">
 <!ENTITY clearLog.accesskey "v">
 <!ENTITY closeLog.label "Užverti">
