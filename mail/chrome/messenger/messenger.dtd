@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Správca činností">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "Uložené súbory">
+<!ENTITY savedFiles.accesskey "e">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtre správ…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Spustiť filtre na tento priečinok">

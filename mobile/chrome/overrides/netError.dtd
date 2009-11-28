@@ -49,12 +49,17 @@
 <!ENTITY netInterrupt.title "Pripojenie bolo prerušené">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Režim offline">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Zrušte začiarknutie možnosti &quot;Pracovať offline&quot; v ponuke Súbor a skúste to znova.</li>
+  <li>Skúste to znova. &brandShortName; sa pokúsi nadviazať spojenie a načítať stránku.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Režim offline">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Chyba kódovania obsahu">
 <!ENTITY contentEncodingError.longDesc "
