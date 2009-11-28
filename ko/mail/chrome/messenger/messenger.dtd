@@ -636,6 +636,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "메시지 작업 관리">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "저장된 파일">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY searchItem.title "빠른 검색">
 <!ENTITY mailViewsToolbarItem.title "메일 보기">
 <!ENTITY folderLocationToolbarItem.title "폴더 위치">
