@@ -13,7 +13,6 @@
 <!ENTITY productHelp.accesskey "п">
 <!ENTITY helpForIEUsers.label "Для пользователей Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "л">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Примечания к выпуску">
 <!ENTITY helpReleaseNotes.accesskey "р">
