@@ -333,9 +333,6 @@
 <!ENTITY newMsgCmd.accesskey "i">
 <!ENTITY newNewMsgCmd.label "Posta">
 <!ENTITY newNewMsgCmd.accesskey "P">
-<!ENTITY archiveMsgCmd.label "Arşivle">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Yanıtla">
 <!ENTITY replyMsgCmd.accesskey "Y">
 <!ENTITY replyMsgCmd.key "r">
@@ -364,6 +361,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Postadan süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "a">
+<!ENTITY archiveMsgCmd.label "Arşivle">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Taşı">
 <!ENTITY moveMsgToMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label "Posta adresini kopyala">
@@ -524,8 +524,6 @@
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextEditAsNew.label "Yeni olarak düzenle…">
 <!ENTITY contextEditAsNew.accesskey "e">
-<!ENTITY contextArchive.label "Arşivle">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Sadece göndereni yanıtla">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Haber grubunu yanıtla">
@@ -538,6 +536,8 @@
 <!ENTITY contextForward.accesskey "l">
 <!ENTITY contextForwardAsAttachment.label "Ek olarak ilet">
 <!ENTITY contextForwardAsAttachment.accesskey "a">
+<!ENTITY contextArchive.label "Arşivle">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Taşı">
 <!ENTITY contextMoveMsgMenu.accesskey "T">
 <!ENTITY contextCopyMsgMenu.label "Buraya kopyala">
