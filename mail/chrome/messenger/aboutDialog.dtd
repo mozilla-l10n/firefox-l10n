@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title      "關於 &brandFullName;">
 <!ENTITY aboutButton.label      "&lt; 上一步">
 <!ENTITY aboutButton.accesskey  "B">
-<!ENTITY aboutVersion           "版本從">
+<!ENTITY aboutVersion           "版本">
 <!ENTITY copyrightText          "&#169;1998-2009 專案貢獻者；保留所有著作權利。Mozilla Thunderbird 字樣與 Thunderbird 標誌為 Mozilla 基金會註冊之商標；保留所有商標權利。">
 <!ENTITY aboutMenu.label        "關於">
 <!ENTITY aboutMenu.accesskey    "A">

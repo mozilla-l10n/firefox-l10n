@@ -73,7 +73,7 @@
 <!ENTITY cellSelectCell.label             "資料格">
 <!ENTITY cellSelectRow.label              "列數">
 <!ENTITY cellSelectColumn.label           "欄數">
-<!ENTITY cellSelectNext.label             "下一頁">
+<!ENTITY cellSelectNext.label             "下一個">
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "上一步">
 <!ENTITY cellSelectPrevious.accessKey     "P">
