@@ -52,12 +52,16 @@
 <!ENTITY netInterrupt.title "Fehler: Datenübertragung unterbrochen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Fehler: Offline-Modus">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
 <ul>
-  <li>Wählen Sie &quot;Offline arbeiten&quot; im Datei-Menü ab, versuchen Sie es dann nochmals.</li>
+  <li>Probieren Sie es erneut. Es wird versucht, eine Verbindung zu öffnen und die Seite neu zu laden.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Fehler: Offline-Modus">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Content-Encoding-Fehler">
 <!ENTITY contentEncodingError.longDesc "
