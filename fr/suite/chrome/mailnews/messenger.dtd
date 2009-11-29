@@ -332,9 +332,6 @@
 <!ENTITY newMsgCmd.accesskey "m">
 <!ENTITY newNewMsgCmd.label "Message">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archiver">
-<!ENTITY archiveMsgCmd.accesskey "h">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Répondre">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
@@ -363,6 +360,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
 <!ENTITY createFilter.accesskey "i">
+<!ENTITY archiveMsgCmd.label "Archiver">
+<!ENTITY archiveMsgCmd.accesskey "h">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Déplacer le message vers">
 <!ENTITY moveMsgToMenu.accesskey "D">
 <!ENTITY copyMessageLocation.label "Copier l'adresse du message">
