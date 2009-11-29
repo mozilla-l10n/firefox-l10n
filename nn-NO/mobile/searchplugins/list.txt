@@ -1,5 +1,3 @@
-amazondotcom
 google
 twitter
-wikipedia
-yahoo
+wikipedia-NN
