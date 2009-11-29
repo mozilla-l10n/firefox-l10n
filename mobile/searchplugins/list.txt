@@ -1,8 +1,3 @@
 google
-yahoo
 twitter
 be.wikipedia.org
-be-x-old.wikipedia.org
-ru.wikipedia.org-be
-tut.by
-yandex.ru-be
