@@ -55,6 +55,7 @@
 <!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
 to pickup this string change. Please update netOffline.longDesc too -->
 
+<!ENTITY netOffline2.longDesc "
 <ul>
   <li>Probieren Sie es erneut. Es wird versucht, eine Verbindung zu öffnen und die Seite neu zu laden.</li>
 </ul>
