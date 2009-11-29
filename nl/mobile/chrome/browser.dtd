@@ -82,7 +82,7 @@
 <!ENTITY identity.runBy2 "beheerd door">
 
 <!ENTITY consoleHeader.label       "Foutconsole">
-<!ENTITY consoleAll.label          "Allea">
+<!ENTITY consoleAll.label          "Alles">
 <!ENTITY consoleErrors.label       "Fouten">
 <!ENTITY consoleWarnings.label     "Waarschuwingen">
 <!ENTITY consoleMessages.label     "Berichten">
