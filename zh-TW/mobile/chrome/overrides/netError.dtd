@@ -48,6 +48,14 @@
 <!ENTITY netInterrupt.title "資料傳輸中斷">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "<ul>
+  <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。</li>
+</ul>
+">
+
 <!ENTITY netOffline.title "離線模式">
 <!ENTITY netOffline.longDesc "
 <ul>

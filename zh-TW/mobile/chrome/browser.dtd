@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "下一頁">
 <!ENTITY reload.label          "重新載入">
 <!ENTITY stop.label            "停止">
-<!ENTITY search.label          "搜尋">
 <!ENTITY go.label              "衝">
 <!ENTITY openLocation.label    "開啟網址">
 <!ENTITY star.label            "星號">
