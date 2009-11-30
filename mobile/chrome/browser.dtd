@@ -66,6 +66,7 @@
 <!ENTITY downloadResume.label      "Fortsetzen">
 <!ENTITY downloadRetry.label       "Nochmals versuchen">
 <!ENTITY downloadRemove.label      "Entfernen">
+<!ENTITY downloadFailed.label      "Fehlgeschlagen">
 
 <!ENTITY noResults.label           "Keine Ergebnisse">
 <!ENTITY allBookmarks.label        "Alle Lesezeichen anzeigen">
