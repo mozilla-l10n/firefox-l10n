@@ -17,7 +17,7 @@
    <li>請檢查網址是否有打錯？例如把
    <strong>www</strong>.example.com 打成
    <strong>ww</strong>.example.com</li>
-   <li>若無法載入任何網站，請檢查你的網路連線狀態。</li>
+   <li>若無法載入任何網站，請檢查您的網路連線狀態。</li>
    <li>若電腦或網路被防火牆或 Proxy 保護，請確定
    &brandShortName; 被允許存取網路。</li> </ul>
                     ">
@@ -40,7 +40,7 @@
 <!ENTITY malformedURI.longDesc "<ul>
    <li>網址通常長的像
       <strong>http://www.example.com/</strong>。</li>
-   <li>請確定你用的是斜線 (例:
+   <li>請確定您用的是斜線 (例:
       <strong>/</strong>)。</li>
 </ul>
                 ">
@@ -78,7 +78,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY protocolNotFound.title "看不懂網址">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>你需要安裝其他軟體才能開啟此網址。</li>
+  <li>您需要安裝其他軟體才能開啟此網址。</li>
 </ul>
 ">
 
@@ -86,7 +86,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>請檢查 Proxy 設定是否正確。</li>
-  <li>與你的網路管理員聯絡，確定 Proxy 伺服器正常運作。</li>
+  <li>與您的網路管理員聯絡，確定 Proxy 伺服器正常運作。</li>
 </ul>
 ">
 
@@ -94,7 +94,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>請檢查 Proxy 設定是否正確。</li>
-  <li>請檢查你的網路連線狀態。</li>
+  <li>請檢查您的網路連線狀態。</li>
   <li>若電腦或網路被防火牆或 Proxy 保護，請確定
     &brandShortName; 被允許存取網路。</li>
 </ul>
@@ -118,7 +118,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY nssFailure2.title "安全連線失敗">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>你嘗試檢視的頁面無法顯示，因為已接收資料的憑證無法被驗證。</li>
+  <li>您嘗試檢視的頁面無法顯示，因為已接收資料的憑證無法被驗證。</li>
   <li>請向網站擁有者回報此問題，或是從「說明」功能表中回報此有問題的網站。</li>
 </ul>
 ">
@@ -127,26 +127,26 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>可能是伺服器上的組態設定造成的，或是有人嘗試假造該伺服器。</li>
-  <li>若你以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，你可以稍後再試試看。</li>
+  <li>若您以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，您可以稍後再試試看。</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
   <li>該網站可能暫時無法使用或太過忙碌，請過幾分鐘後再試試。</li>
-  <li>若無法載入任何網站，請檢查你的網路連線狀態。</li>
+  <li>若無法載入任何網站，請檢查您的網路連線狀態。</li>
   <li>若電腦或網路被防火牆或 Proxy 保護，請確定
     &brandShortName; 被允許存取網路。</li>
 </ul>
 ">
 
 <!ENTITY malwareBlocked.title "可能是有害網站！">
-<!ENTITY malwareBlocked.longDesc "<p>有害網站會嘗試安裝能竊取隱私資訊、利用你的電腦攻擊他人或破壞作業系統等的惡意軟體到你的電腦上。</p> <p>如果你是網頁擁有者，發現你的網站被誤認為有害網站時可以 <a href='http://www.stopbadware.org/home/reviewinfo' >請求重新審核</a>。</p>">
+<!ENTITY malwareBlocked.longDesc "<p>有害網站會嘗試安裝能竊取隱私資訊、利用您的電腦攻擊他人或破壞作業系統等的惡意軟體到您的電腦上。</p> <p>如果您是網頁擁有者，發現您的網站被誤認為有害網站時可以 <a href='http://www.stopbadware.org/home/reviewinfo' >請求重新審核</a>。</p>">
 
 <!ENTITY phishingBlocked.title "可能是偽造網站！">
-<!ENTITY phishingBlocked.longDesc "<p>在此網頁上輸入的任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。</p> <p>這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿你信任的合法來源之詐騙網頁。</p>">
+<!ENTITY phishingBlocked.longDesc "<p>在此網頁上輸入的任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。</p> <p>這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿您信任的合法來源之詐騙網頁。</p>">
 
-<!ENTITY securityOverride.linkText "或者你也可以新增例外網站…">
+<!ENTITY securityOverride.linkText "或者您也可以新增例外網站…">
 <!ENTITY securityOverride.getMeOutOfHereButton "帶我離開這裡！">
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
 
@@ -156,7 +156,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningText "
-<p>若你不想在連線到該伺服器時看到警告訊息，才需要加入該網站到例外網站清單中。但是若你直接與網際網路連線又不是完全信任該網站，你就不應該將該網站加入例外網站。</p>
+<p>若您不想在連線到該伺服器時看到警告訊息，才需要加入該網站到例外網站清單中。但是若您直接與網際網路連線又不是完全信任該網站，您就不應該將該網站加入例外網站。</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
