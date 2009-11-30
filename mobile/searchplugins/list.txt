@@ -1,6 +1,3 @@
 google
-jyxo-cz
-mall-cz
-seznam-cz
-slunecnice-cz
+twitter
 wikipedia-cz
