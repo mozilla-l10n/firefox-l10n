@@ -1,8 +1,8 @@
 <!ENTITY welcome.title "Vítejte v aplikaci &brandShortName;">
-<!ENTITY overview.description "Synchronizujte svůj mobil a PC pomocí Weave, přispůsobujte pomocí doplňků, brouzdejte pomocí úžasného adresního řádu a mnohem mnohem více.">
-<!ENTITY sync.title "Buďte synchronní">
-<!ENTITY sync.description "Získejte Weave a zkroťte svůj &brandShortName;. Sdílejte předvolby, záložky, historii a další mezi svým mobilem a PC.">
-<!ENTITY sync.linkLabel "Získat doplněk Weave">
+<!ENTITY intro.description "Synchronizujte svůj mobil a PC pomocí Weave Sync, přispůsobujte pomocí doplňků, brouzdejte pomocí úžasného adresního řádu a mnohem, mnohem více.">
+<!ENTITY weave.title "Buďte synchronní">
+<!ENTITY weave.description "Nainstalujte si Weave a napíchněte se na svůj Firefox. Sdílejte historii, záložky a uložená hesla mezi svým mobilem a PC.">
+<!ENTITY weave.linkLabel "Získat doplněk Weave Sync">
 <!ENTITY getPersonal.title "Buďte individuální">
 <!ENTITY getPersonal.description "Upravte si &brandShortName; podle sebe. Přispůsobte si první mobilní prohlížeč rozšířitelný doplňky.">
 <!ENTITY getPersonal.linkLabel "Získat doplňky pro mobil.">

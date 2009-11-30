@@ -2,7 +2,6 @@
 <!ENTITY forward.label "Vpřed">
 <!ENTITY reload.label "Obnovit">
 <!ENTITY stop.label "Zastavit">
-<!ENTITY search.label "Hledat">
 <!ENTITY go.label "Přejít">
 <!ENTITY openLocation.label "Otevřít adresu">
 <!ENTITY star.label "Hvězda">

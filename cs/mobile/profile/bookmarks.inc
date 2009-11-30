@@ -1,7 +1,7 @@
 #filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 # live.
 
 # LOCALIZATION NOTE: Some of these URLs are currently 404s, but should be coming
@@ -17,11 +17,11 @@
 
 # LOCALIZATION NOTE (bookmarks_about):
 # link title for about:fennec
-#define bookmarks_about Firefox: O aplikaci
+#define bookmarks_aboutBrowser Firefox: O prohlížeči
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Synchronizace
+#define bookmarks_weave Firefox: Synchronizace pomocí Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
