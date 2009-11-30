@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "Innstillinger">
 <!ENTITY about.title                               "Om &brandShortName;">
 <!ENTITY about.button                              "Gå til siden">
-<!ENTITY about.description                         "Hjelp og produktinformasjon">
 <!ENTITY content.title                             "Innhold">
 <!ENTITY showImages.title                          "Vis bilder">
 <!ENTITY enableJavaScript.title                    "Slå på JavaScript">
-<!ENTITY enableJavaScript.description              "De fleste interaktive sider bruker JavaScript">
 <!ENTITY enablePlugins.title                       "Slå på programtillegg">
-<!ENTITY enablePlugins.description                 "Programtillegg brukes for spesielt innhold slik som video">
 <!ENTITY privacy.title                             "Personvern og sikkerhet">
 <!ENTITY allowCookies.title                        "Tillat informasjonskapsler">
-<!ENTITY allowCookies.description                  "Sider bruker informasjonskapsler til å identifisere deg og huske dine innstillinger">
-<!ENTITY clearPrivateData.title                    "Slett nylig historikk">
+<!ENTITY clearPrivateData2.title                   "Slett privat data">
 <!ENTITY clearPrivateData.button                   "Slett">
-<!ENTITY clearPrivateData.description              "Historikken din gjør det lettere å gå til sider du har besøkt tidligere">
 <!ENTITY rememberPasswords.title                   "Husk passord">
 <!ENTITY language.title                            "Språk">
-<!ENTITY language.description                      "Velg ditt foretrukne språk for &brandShortName;">
 <!ENTITY language.auto                             "Oppdag automatisk">

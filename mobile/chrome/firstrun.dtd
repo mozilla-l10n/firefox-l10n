@@ -1,8 +1,8 @@
 <!ENTITY welcome.title                      "Velkommen til &brandShortName;">
-<!ENTITY overview.description               "Synkroniser din PC og mobile enhet med Weave. Tilpass med utvidelser. Surf smartere med den nye adresselinjen og mye, mye  mer.">
-<!ENTITY sync.title                         "Kom i gang">
-<!ENTITY sync.description                   "Hent Weave for å virkelig ta i bruk &brandShortName;. Del dine innstillinger, bokmerker, historikk og mer mellom din PC og mobile enhet.">
-<!ENTITY sync.linkLabel                     "Hent Weave-utvidelsen">
+<!ENTITY intro.description                  "Synkroniser din PC og mobile enhet med Weave Sync. Tilpass med utvidelser. Surf smartere med den nye adresselinjen og mye, mye mer.">
+<!ENTITY weave.title                        "Kom i gang">
+<!ENTITY weave.description                  "Hent Weave Sync for å virkelig ta i bruk Firefox. Del dine innstillinger, bokmerker, historikk og mer mellom din PC og mobile enhet.">
+<!ENTITY weave.linkLabel                    "Hent Weave Sync-utvidelsen">
 <!ENTITY getPersonal.title                  "Gjør din enhet personlig">
 <!ENTITY getPersonal.description            "Gjør &brandShortName; til din egen. Tilpass den første nettleseren som tilbyr utvidelser til mobile enheter.">
 <!ENTITY getPersonal.linkLabel              "Hent &brandShortName;-utvidelser">
