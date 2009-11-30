@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "Frem">
 <!ENTITY reload.label          "Last på nytt">
 <!ENTITY stop.label            "Stopp lasting">
-<!ENTITY search.label          "Søk">
 <!ENTITY go.label              "Gå">
 <!ENTITY openLocation.label    "Åpne adresse">
 <!ENTITY star.label            "Legg til bokmerke">

@@ -53,12 +53,17 @@
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Frakoblet modus">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Fjern avkryssingen fra &quot;Arbeid frakoblet&quot; i Fil-menyen, og prøv igjen</li>
+  <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Frakoblet modus">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "
