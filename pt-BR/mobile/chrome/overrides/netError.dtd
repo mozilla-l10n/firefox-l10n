@@ -47,12 +47,17 @@
 <!ENTITY netInterrupt.title "Conexão interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Desmarque a opção “Modo offline” no menu Arquivo e tente de novo.</li>
+  <li>Tente de novo. O &brandShortName; tentará abrir uma conexão e recarregar a página.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Modo offline">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "

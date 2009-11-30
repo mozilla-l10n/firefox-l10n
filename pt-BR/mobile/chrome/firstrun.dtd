@@ -1,8 +1,8 @@
 <!ENTITY welcome.title                      "Bem-vindo ao &brandShortName;">
-<!ENTITY overview.description               "Sincronize desktop e móvel com o Weave. Personalize com complementos. Navegue com o incrível campo de endereço e muito, muito mais.">
-<!ENTITY sync.title                         "Sincronize">
-<!ENTITY sync.description                   "Adicione o Weave para aproveitar melhor o seu &brandShortName;. Compartilhe preferências, favoritos, histórico e mais entre desktop e móvel.">
-<!ENTITY sync.linkLabel                     "Adicionar a extensão Weave">
+<!ENTITY intro.description                  "Sincronize desktop e móvel com o Weave Sync. Personalize com complementos. Navegue com o incrível campo de endereço e muito, muito mais.">
+<!ENTITY weave.title                        "Sincronize">
+<!ENTITY weave.description                  "Adicione o Weave Sync para aproveitar melhor o seu Firefox. Compartilhe histórico, favoritos, senhas e abas entre desktop e móvel.">
+<!ENTITY weave.linkLabel                    "Adicionar a extensão Weave Sync">
 <!ENTITY getPersonal.title                  "Personalize">
 <!ENTITY getPersonal.description            "Torne o &brandShortName; seu. Personalize o primeiro navegador móvel a oferecer extensões.">
 <!ENTITY getPersonal.linkLabel              "Adicionar complementos ao seu móvel">
