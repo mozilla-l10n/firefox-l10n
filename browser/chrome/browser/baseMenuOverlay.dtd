@@ -16,7 +16,6 @@
 <!ENTITY productHelp.accesskey    "m">
 <!ENTITY helpForIEUsers.label     "Pre používateľov Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "E">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.accesskey     "P">

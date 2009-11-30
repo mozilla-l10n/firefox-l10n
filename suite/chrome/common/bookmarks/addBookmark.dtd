@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY newBookmark.title          "Pridanie záložky">
-<!ENTITY selectFolder.title         "Vybrať priečinok">
+<!ENTITY selectFolder.title         "Výber priečinka">
 <!ENTITY name.label                 "Názov:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY url.label                  "Adresa:">
