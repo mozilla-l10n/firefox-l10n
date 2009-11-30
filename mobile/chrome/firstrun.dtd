@@ -1,11 +1,9 @@
 <!ENTITY welcome.title                      "Wíllkommen bei &brandShortName;">
-<!ENTITY overview.description               "Synchronisieren Sie Ihren PC und Ihr Handy mit Weave. Passen Sie den Browser an, über Add-ons. Surfen Sie mit der intelligenten Adressleiste und vieles, vieles mehr.">
-
-<!ENTITY nextSteps.title                    "Nächste Schritte">
-<!ENTITY sync.title                         "Auf und Los">
-<!ENTITY sync.description                   "Mit Weave bleibt  &brandShortName; aktuell. Synchronisieren Sie Ihre Einstellungen, Lesezeichen, Browser-Chronik und mehr zwischen Ihren PC und Ihrem Handy.">
-<!ENTITY sync.link                          "Holen Sie sich das Weave Add-onn">
+<!ENTITY intro.description                  "Synchronisieren Sie Ihren PC und Ihr Handy mit Weave Sync. Passen Sie den Browser an, über Add-ons. Surfen Sie mit der intelligenten Adressleiste und vieles, vieles mehr.">
+<!ENTITY weave.title                        "Auf und Los">
+<!ENTITY weave.description                  "Mit Weave Sync bleibt Firefox aktuell. Synchronisieren Sie Ihre Einstellungen, Lesezeichen, Browser-Chronik und mehr zwischen Ihren PC und Ihrem Handy.">
+<!ENTITY weave.linkLabel                    "Holen Sie sich das Weave Sync Add-on">
 <!ENTITY getPersonal.title                  "Persönlich werden">
 <!ENTITY getPersonal.description            "Machen Sie &brandShortName; zu Ihrem persönlichen Browser. Das erste Mal können Sie Add-ons in einem mobilen Browser verwenden.">
-<!ENTITY getPersonal.link                   "Holen Sie sich Add-ons für Ihr Handy">
-<!ENTITY skip.link                          "Überspringen und im Web surfen.">
+<!ENTITY getPersonal.linkLabel              "Holen Sie sich Add-ons für Ihr Handy">
+
