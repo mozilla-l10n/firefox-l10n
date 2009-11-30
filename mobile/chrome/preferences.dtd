@@ -7,14 +7,14 @@
 <!ENTITY enableJavaScript.title                    "Slå på JavaScript">
 <!ENTITY enableJavaScript.description              "Dei fleste interaktive sider brukar JavaScript">
 <!ENTITY enablePlugins.title                       "Slå på programtillegg">
-<!ENTITY enablePlugins.description                 "Programtillegg vert brukt til spesialinnhald som video">
+<!ENTITY enablePlugins.description                 "Programtillegg vert brukt til spesielt innhald, slik som video">
 <!ENTITY privacy.title                             "Personvern og sikkerheit">
 <!ENTITY allowCookies.title                        "Tillat infokapslar">
-<!ENTITY allowCookies.description                  "Nettsidar brukar infokapslar for å identifisere og hugse innstillingane dine">
-<!ENTITY clearPrivateData.title                    "Tøm nyleg nettlesarhistorikk">
-<!ENTITY clearPrivateData.button                   "Tøm">
-<!ENTITY clearPrivateData.description              "Historikken din hjelper &brandShortName; å føreslå kvar du ønskjer å gå til">
+<!ENTITY allowCookies.description                  "Nettsider brukar infokapslar for å identifisere og hugse innstillingane dine">
+<!ENTITY clearPrivateData.title                    "Slett nyleg historikk">
+<!ENTITY clearPrivateData.button                   "Slett">
+<!ENTITY clearPrivateData.description              "Historikken din gjer det lettare å gå til sider du har besøkt tidlegare">
 <!ENTITY rememberPasswords.title                   "Hugs passord">
 <!ENTITY language.title                            "Språk">
 <!ENTITY language.description                      "Vel ønskt språk for &brandShortName;">
-<!ENTITY language.auto                             "Auto-attkjenning">
+<!ENTITY language.auto                             "Oppdag automatisk">
