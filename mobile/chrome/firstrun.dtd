@@ -1,8 +1,8 @@
 <!ENTITY welcome.title                      "歡迎使用 &brandShortName;">
-<!ENTITY overview.description               "使用 Weave 同步您的電腦與手機。使用附加元件自訂瀏覽器。讓 Awesome Bar 和更多的功能伴您隨時瀏覽網路。">
-<!ENTITY sync.title                         "立刻上手">
-<!ENTITY sync.description                   "取得 Weave 讓您快速上手 &brandShortName;。在您的電腦與手機之間同步偏好設定、書籤、瀏覽紀錄等等。">
-<!ENTITY sync.linkLabel                     "下載 Weave 附加元件">
+<!ENTITY intro.description                  "使用 Weave Sync 將您的行動裝置與 PC 同步。用附加元件自訂。使用 Awesome Bar 等更多功能上網。">
+<!ENTITY weave.title                        "起而行！">
+<!ENTITY weave.description                  "下載 Weave Sync 幫助您和 Firefox 整合。在行動裝置與 PC 之間共用您的瀏覽記錄、書籤、已存密碼與分頁。">
+<!ENTITY weave.linkLabel                    "下載 Weave Sync 附加元件">
 <!ENTITY getPersonal.title                  "個人化">
 <!ENTITY getPersonal.description            "讓 &brandShortName; 真正屬於您。使用附加元件自訂第一個在手機上提供擴充能力的瀏覽器。">
 <!ENTITY getPersonal.linkLabel              "取得用於行動裝置的附加元件">
