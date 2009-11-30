@@ -18,15 +18,14 @@
 <!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY helpForIEUsers.label "Internet Explorer lietotājiem">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 
 <!ENTITY helpReleaseNotes.label "Laidiena piezīmes">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "Pārbaudīt atjauninājumus...">
+<!ENTITY updateCmd.label "Pārbaudīt atjauninājumus…">
 
-<!ENTITY preferencesCmdMac.label "Iestatījumi...">
+<!ENTITY preferencesCmdMac.label "Iestatījumi…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 
 <!ENTITY servicesMenuMac.label "Servisi">
