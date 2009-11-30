@@ -22,7 +22,7 @@
 <!ENTITY draftInOtherFolder.label "其他郵件匣:">
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quote;備存&quote; 資料夾於:">
+<!ENTITY archivesFolderOn.label "「備存」資料夾於:">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "其他郵件匣:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
