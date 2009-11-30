@@ -18,9 +18,9 @@
   <li>Zkontrolujte, zda je adresa napsána správně a neobsahuje chyby jako
     <strong>ww</strong>.server.cz místo
     <strong>www</strong>.server.cz</li>
-  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého 
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -52,12 +52,17 @@
 <!ENTITY netInterrupt.title "Spojení bylo přerušeno">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Režim offline">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Zrušte zaškrtnutí &quot;Pracovat offline&quot; v nabídce Soubor a zkuste to znovu.</li>
+  <li>Zkusit znovu. &brandShortName; se pokusí otevřít spojení a obnovit stránku.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Režim offline">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Chyba kódování obsahu">
 <!ENTITY contentEncodingError.longDesc "
@@ -94,13 +99,12 @@
 </ul>
 ">
 
-
 <!ENTITY proxyResolveFailure.title "Proxy server nenalezen">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Zkontrolujte, zda je nastavení proxy serveru správné.</li>
   <li>Zkontrolujte, síťové připojení svého počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -116,7 +120,7 @@
 <!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Zkontrolujte, zda má váš systém nainstalován 
+  <li>Zkontrolujte, zda má váš systém nainstalován
 Personal Security Manager.</li>
   <li>Tato chyba může být rovněž způsobena nestandardní konfigurací serveru.</li>
 </ul>
@@ -133,7 +137,7 @@ Personal Security Manager.</li>
 <!ENTITY nssBadCert.title "Chyba zabezpečeného spojení">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-<li>Tato chyba může být způsobena chybnou konfigurací serveru nebo někým, 
+<li>Tato chyba může být způsobena chybnou konfigurací serveru nebo někým,
 kdo se snaží vydávat za server.</li>
 <li>Pokud jste se k tomuto serveru  připojili úspěšně již v minulosti, je možná
  chyba jenom dočasná, a můžete to zkusit znovu později.</li>
@@ -142,11 +146,11 @@ kdo se snaží vydávat za server.</li>
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Server je dočasně nedostupný. Zkuste to prosím znovu 
+  <li>Server je dočasně nedostupný. Zkuste to prosím znovu
 za chvíli.</li>
-  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého 
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">

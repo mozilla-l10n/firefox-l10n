@@ -1,21 +1,15 @@
 <!ENTITY prefsHeader.label "Předvolby">
 <!ENTITY about.title "O aplikaci &brandShortName;">
 <!ENTITY about.button "Jít na stránku">
-<!ENTITY about.description "Získat nápovědu a informace o produktu">
 <!ENTITY content.title "Obsah">
 <!ENTITY showImages.title "Zobrazit obrázky">
 <!ENTITY enableJavaScript.title "Povolit JavaScript">
-<!ENTITY enableJavaScript.description "Většina interaktivních stránek používá JavaScript">
 <!ENTITY enablePlugins.title "Povolit moduly">
-<!ENTITY enablePlugins.description "Zásuvné moduly se používají pro speciální obsah jako např. video">
 <!ENTITY privacy.title "Soukromí a bezpečnost">
 <!ENTITY allowCookies.title "Povolit cookies">
-<!ENTITY allowCookies.description "Webové servery používají cookies k přihlášení a zapamatování nastavení">
-<!ENTITY clearPrivateData.title "Vymazat aktuální historii prohlížení">
-<!ENTITY clearPrivateData.button "Vymazat">
-<!ENTITY clearPrivateData.description "Historie pomáhá aplikaci &brandShortName; odhadovat, kam se vydáte">
+<!ENTITY clearPrivateData2.title "Smazání důvěrných dat">
+<!ENTITY clearPrivateData.button "Smazat">
 <!ENTITY rememberPasswords.title "Pamatovat si hesla">
 <!ENTITY language.title "Jazyk">
-<!ENTITY language.description "Zvolte upřednostňovaný jazyk aplikace &brandShortName;">
 <!ENTITY language.auto "Autodetekce">
 
