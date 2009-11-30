@@ -36,10 +36,10 @@
 <!ENTITY close.label "es aizveru &brandShortName;">
 <!ENTITY askEachTime.label "jautāt man katru reizi">
 
-<!ENTITY cookieExceptions.label "Izņēmumi...">
+<!ENTITY cookieExceptions.label "Izņēmumi…">
 <!ENTITY cookieExceptions.accesskey "I">
 
-<!ENTITY showCookies.label "Parādīt sīkdatnes...">
+<!ENTITY showCookies.label "Parādīt sīkdatnes…">
 <!ENTITY showCookies.accesskey "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
@@ -68,7 +68,7 @@
 <!ENTITY  locbar.bookmarks.label        "Grāmatzīmes">
 <!ENTITY  locbar.nothing.label          "Neko">
 
-<!ENTITY  clearOnClose.label             "Dzēst aizvetor &brandShortName;">
+<!ENTITY  clearOnClose.label             "Dzēst aizverot &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "D">
 
 <!ENTITY  clearOnCloseSettings.label     "Iestatījumi…">
