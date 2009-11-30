@@ -333,9 +333,6 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Správa">
 <!ENTITY newNewMsgCmd.accesskey "S">
-<!ENTITY archiveMsgCmd.label "Archivovať">
-<!ENTITY archiveMsgCmd.accesskey "c">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Odpovedať">
 <!ENTITY replyMsgCmd.accesskey "d">
 <!ENTITY replyMsgCmd.key "r">
@@ -364,6 +361,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
 <!ENTITY createFilter.accesskey "f">
+<!ENTITY archiveMsgCmd.label "Archivovať">
+<!ENTITY archiveMsgCmd.accesskey "c">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Presunúť do">
 <!ENTITY moveMsgToMenu.accesskey "r">
 <!ENTITY copyMessageLocation.label "Kopírovať adresu správy">
@@ -524,8 +524,6 @@
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextEditAsNew.label "Upraviť ako novú…">
 <!ENTITY contextEditAsNew.accesskey "n">
-<!ENTITY contextArchive.label "Archivovať">
-<!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
 <!ENTITY contextReplySender.accesskey "d">
 <!ENTITY contextReplyNewsgroup.label "Odpovedať do diskusnej skupiny">
@@ -538,6 +536,8 @@
 <!ENTITY contextForward.accesskey "l">
 <!ENTITY contextForwardAsAttachment.label "Odoslať ďalej ako prílohu">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextArchive.label "Archivovať">
+<!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextMoveMsgMenu.label "Presunúť do">
 <!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
