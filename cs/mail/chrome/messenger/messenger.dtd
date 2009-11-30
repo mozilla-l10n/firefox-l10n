@@ -438,9 +438,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Správce doplňků">
-<!ENTITY addons.accesskey "D">
+<!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "Uložené soubory">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtry zpráv…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Spustit filtry na složce">
@@ -448,7 +451,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.label "Spustit filtry na vybraných zprávách">
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Spustit filtry na zprávě">
-<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY filtersApplyToMessage.accesskey "z">
 <!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
 <!ENTITY runJunkControls.accesskey "S">
 <!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
