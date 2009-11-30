@@ -1,4 +1,4 @@
 google
 wikipedia-it
-ebay-it
+eBay-it
 twitter
