@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Activiteitenbeheerder">
 <!ENTITY activitymanager.accesskey "e">
+<!ENTITY savedFiles.label "Opgeslagen bestanden">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Berichtenfilters…">
 <!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Filters toepassen op map">
