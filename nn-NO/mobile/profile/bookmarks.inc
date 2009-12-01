@@ -17,18 +17,18 @@
 
 # LOCALIZATION NOTE (bookmarks_about):
 # link title for about:fennec
-#define bookmarks_about Firefox: About
+#define bookmarks_about Firefox: Om
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Synchronize using Weave
+#define bookmarks_weave Firefox: Sykroniser med Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Tilpass med utvidingar
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Brukarstøtte
 
 #unfilter emptyLines
