@@ -30,18 +30,18 @@
 <!ENTITY helperApp.save            "Salvar">
 <!ENTITY helperApp.nothing         "Nada">
 
-<!ENTITY formHelper.previous       "Voltar">
-<!ENTITY formHelper.next           "Avançar">
+<!ENTITY formHelper.previous       "Anterior">
+<!ENTITY formHelper.next           "Próximo">
 <!ENTITY formHelper.done           "Concluir">
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Seus complementos">
-<!ENTITY addonsUpdate.label        "Atualizações">
+<!ENTITY addonsUpdate.label        "Atualizar">
 <!ENTITY addonsRepo.label          "Adicionar">
-<!ENTITY addonsRecommended.label   "Recomendações">
+<!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Pesquisar">
 <!ENTITY addonsSearch2.emptytext   "Pesquisar o catálogo">
-<!ENTITY addonsSearch.recommended  "Recomendações">
+<!ENTITY addonsSearch.recommended  "Recomendado">
 
 <!ENTITY addonOptions.label        "Opções">
 <!ENTITY addonEnable.label         "Ativar">
@@ -63,7 +63,7 @@
 <!ENTITY downloadRemove.label      "Excluir">
 <!ENTITY downloadFailed.label      "Malsucedido">
 
-<!ENTITY noResults.label           "Sem resultados">
+<!ENTITY noResults.label           "Nenhum resultado">
 <!ENTITY allBookmarks.label        "Exibir todos os favoritos">
 
 <!ENTITY searchEngine.addSearch    "Adicionar pesquisa">
@@ -72,7 +72,7 @@
 <!ENTITY bookmarkRemove.label      "Excluir">
 <!ENTITY bookmarkEdit.label        "Editar">
 
-<!ENTITY identity.unverifiedsite2 "Este site não fornece informações de identidade">
+<!ENTITY identity.unverifiedsite2 "Este site não fornece informações de identidade.">
 <!ENTITY identity.connectedTo2 "Conectado a">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
