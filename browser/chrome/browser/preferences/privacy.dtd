@@ -33,7 +33,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "recordará el historial">
 <!ENTITY  historyHeader.dontremember.label "nunca recordará el historial">
-<!ENTITY  historyHeader.custom.label       "usará la configuración predeterminada para el historial">
+<!ENTITY  historyHeader.custom.label       "usará la configuración personalizada para el historial">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; recordará las búsquedas, las descargas, los formularios y el historial de descargas y además, almacenará las cookies de los sitios web que visite.">
