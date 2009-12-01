@@ -1,8 +1,3 @@
 google
-wikipedia
-kelkoo
 twitter
-1890.no
-ordbok
-
-
+wikipedia-NN
