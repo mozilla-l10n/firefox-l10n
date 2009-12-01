@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "O &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "Pogosta vprašanja">
+<!ENTITY aboutPage.support.label                "Podpora">
+<!ENTITY aboutPage.privacyPolicy.label          "Politika zasebnosti">
+<!ENTITY aboutPage.rights.label                 "Vaše pravice">
+<!ENTITY aboutPage.relNotes.label               "Opombe ob izdaji">
+<!ENTITY aboutPage.credits.label                "Zahvale">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Sodelavci. Vse pravice pridržane. (">
+<!ENTITY aboutPage.licenseLink                  "Podatki o dovoljenjih">
+<!ENTITY aboutPage.copyrightInfo2               ").">
