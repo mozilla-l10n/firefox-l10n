@@ -46,6 +46,13 @@
 <!ENTITY netInterrupt.title "Tilkoplinga vart avbroten">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "<ul>  
+<li>Prøv igjen. &brandShortName; vil prøve å opne ei tilkobling og laste inn sida på nytt.</li>
+</ul> ">
+
 <!ENTITY netOffline.title "Fråkopla-modus">
 <!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
@@ -68,7 +75,8 @@
 
 <!ENTITY protocolNotFound.title "Klarte ikkje å forstå adressa">
 <!ENTITY protocolNotFound.longDesc "<ul>
-  <li>Det kan vere at du må installere anna programvare for å opne denne addressa.</li>
+  <li>Det kan vere at du må installere anna programvare for å opne denne
+    addressa.</li>
 </ul>
 ">
 
