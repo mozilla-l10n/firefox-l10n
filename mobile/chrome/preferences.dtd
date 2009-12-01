@@ -1,0 +1,14 @@
+<!ENTITY prefsHeader.label                         "Nastavitve">
+<!ENTITY about.title                               "O &brandShortName;">
+<!ENTITY about.button                              "Pojdi">
+<!ENTITY content.title                             "Vsebina">
+<!ENTITY showImages.title                          "Prikaži slike">
+<!ENTITY enableJavaScript.title                    "Omogoči JavaScript">
+<!ENTITY enablePlugins.title                       "Omogoči vstavke">
+<!ENTITY privacy.title                             "Zasebnost in varnost">
+<!ENTITY allowCookies.title                        "Omogoči piškote">
+<!ENTITY clearPrivateData2.title                   "Počisti zasebne podatke">
+<!ENTITY clearPrivateData.button                   "Počisti">
+<!ENTITY rememberPasswords.title                   "Zapomni si gesla">
+<!ENTITY language.title                            "Jezik">
+<!ENTITY language.auto                             "Samodejno zaznaj">
