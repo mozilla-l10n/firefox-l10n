@@ -1,13 +1,13 @@
 <!ENTITY prefsHeader.label                         "Voorkeuren">
 <!ENTITY about.title                               "Over &brandShortName;">
-<!ENTITY about.button                              "Ga naar pagina">
+<!ENTITY about.button                              "Naar pagina gaan">
 <!ENTITY content.title                             "Inhoud">
 <!ENTITY showImages.title                          "Afbeeldingen tonen">
 <!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
 <!ENTITY enablePlugins.title                       "Plug-ins inschakelen">
-<!ENTITY privacy.title                             "Privacy &amp; Beveiliging">
+<!ENTITY privacy.title                             "Privacy &amp; beveiliging">
 <!ENTITY allowCookies.title                        "Cookies toestaan">
-<!ENTITY clearPrivateData2.title                   "Privégegevens opruimen">
+<!ENTITY clearPrivateData2.title                   "Privégegevens wissen">
 <!ENTITY clearPrivateData.button                   "Wissen">
 <!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
 <!ENTITY language.title                            "Taal">
