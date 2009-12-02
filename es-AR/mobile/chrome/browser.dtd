@@ -25,7 +25,7 @@
 <!ENTITY editBookmarkDone.label    "Terminado">
 <!ENTITY editBookmarkTags.label    "Agregar etiquetas aquí">
 
-<!ENTITY helperApp.prompt          "Qué desea hacer con">
+<!ENTITY helperApp.prompt          "Qué querés hacer con">
 <!ENTITY helperApp.open            "Abrir">
 <!ENTITY helperApp.save            "Guardar">
 <!ENTITY helperApp.nothing         "Nada">
@@ -89,6 +89,6 @@
 <!ENTITY consoleCodeEval.label     "Código:">
 <!ENTITY consoleClear.label        "Limpiar">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Archivo Fuente: ">
+<!ENTITY consoleErrFile.label      "Archivo Fuente:">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">

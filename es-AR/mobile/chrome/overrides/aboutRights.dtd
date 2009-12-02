@@ -5,8 +5,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Acerca de sus derechos">
-<!ENTITY rights.intro "&brandFullName; es software libre y de código abierto, creado por una comunidad de miles de personas a lo largo del mundo. Hay algunas cosas que debería saber:">
+<!ENTITY rights.intro-header    "Acerca de tus derechos">
+<!ENTITY rights.intro "&brandFullName; es software libre y de código abierto, creado por una comunidad de miles de personas a lo largo del mundo. Hay algunas cosas que deberías saber:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -18,9 +18,9 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Licencia Pública de Mozilla">
-<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y compartir &brandShortName; con otras personas. También tiene la posibilidad de modificar el código fuente de &brandShortName; como desee a fin de que éste se ajuste a sus necesidades. La Licencia Pública de Mozilla también le otorga el derecho a distribuir esas versiones modificadas.">
+<!ENTITY rights.intro-point1c ". Esto significa que podés usar, copiar y compartir &brandShortName; con otras personas. También tenés la posibilidad de modificar el código fuente de &brandShortName; como desees a fin de que éste se ajuste a tus necesidades. La Licencia Pública de Mozilla también te otorga el derecho a distribuir esas versiones modificadas.">
 
-<!ENTITY rights.intro-point2a "Mozilla no otorga derechos con respecto a las marcas registradas y logos de Mozilla y Firefox. Puede encontrar información adicional sobre las marcas registradas ">
+<!ENTITY rights.intro-point2a "Mozilla no otorga derechos con respecto a las marcas registradas y logos de Mozilla y Firefox. Podés encontrar información adicional sobre las marcas registradas ">
 <!ENTITY rights.intro-point2b "aquí">
 <!ENTITY rights.intro-point2c ".">
 
@@ -33,16 +33,16 @@
 <!ENTITY rights.intro-point3-unbranded "Aquí deben enumerarse todas las políticas de privacidad aplicables a este producto.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios de información sobre sitios web opcionales, como por ejemplo el servicio SafeBrowsing; sin embargo, no podemos garantizar que esten libres de errores o sean 100&#37; precisos. Puede encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
+<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios de información sobre sitios web opcionales, como por ejemplo el servicio SafeBrowsing; sin embargo, no podemos garantizar que estén libres de errores o sean 100&#37; precisos. Podés encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, cualquier término de servicio aplicable para los servicios debe ser enlazado a la sección del ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, cualquier término de servicio aplicable para los servicios debe ser enlazado a la sección de los ">
+<!ENTITY rights.intro-point4b-unbranded "servicios de sitios web">
+<!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights.webservices-header "&brandFullName; Web Site Services">
+<!ENTITY rights.webservices-header ".">
 
 <!-- intro paragraph for branded builds -->
 <!-- XXX Edited this section to remove the specific reference to Firefox UI (see bug 514817) -->
