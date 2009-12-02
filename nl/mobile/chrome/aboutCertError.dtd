@@ -27,11 +27,11 @@ na te bootsen en kunt u beter niet verdergaan.">
 <!ENTITY certerror.expert.heading "Ik begrijp de risico’s">
 <!ENTITY certerror.expert.content "Als u begrijpt wat er aan de hand is,
 kunt u &brandShortName; vertellen de identiteit van deze website te vertrouwen.
-<b>Zelfs als u de website vertrouwt kan deze fout betekenen dat iemand met 
+<b>Zelfs als u de website vertrouwt, kan deze fout betekenen dat iemand met 
 uw verbinding aan het knoeien is.</b>">
 <!ENTITY certerror.expert.contentPara2 "U kunt beter geen uitzondering toevoegen, tenzij
 u weet dat er een goede reden is dat deze website geen vertrouwde identificatie gebruikt.">
-<!ENTITY certerror.addTemporaryException.label "Bezoek website">
-<!ENTITY certerror.addPermanentException.label "Deze uitzondering voor altijd opslaan">
+<!ENTITY certerror.addTemporaryException.label "Website bezoeken">
+<!ENTITY certerror.addPermanentException.label "Blijvende uitzondering toevoegen">
 
 <!ENTITY certerror.technical.heading "Technische details">

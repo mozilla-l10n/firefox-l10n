@@ -15,7 +15,7 @@
 <!ENTITY paste.label           "Plakken">
 <!ENTITY delete.label          "Verwijderen">
 <!ENTITY selectAll.label       "Alles selecteren">
-<!ENTITY noSuggestions.label   "(Geen spellingsuggesties)">
+<!ENTITY noSuggestions.label   "(Geen suggesties)">
 <!ENTITY addToDictionary.label "Toevoegen aan woordenboek">
 
 <!ENTITY bookmarksHeader.label     "Bladwijzers">
@@ -35,7 +35,7 @@
 <!ENTITY formHelper.done           "Klaar">
 
 <!ENTITY addonsHeader.label        "Add-ons">
-<!ENTITY addonsLocal.label         "Uw Add-ons">
+<!ENTITY addonsLocal.label         "Uw add-ons">
 <!ENTITY addonsUpdate.label        "Update">
 <!ENTITY addonsRepo.label          "Add-ons verkrijgen">
 <!ENTITY addonsRecommended.label   "Aanbevolen">
@@ -49,7 +49,7 @@
 <!ENTITY addonInstall2.label       "Toevoegen aan &brandShortName;">
 <!ENTITY addonUninstall.label      "De-installeren">
 <!ENTITY addonCancel.label         "Annuleren">
-<!ENTITY addonShowPage.label       "Ga naar pagina">
+<!ENTITY addonShowPage.label       "Naar pagina gaan">
 
 <!ENTITY downloadsHeader.label     "Downloads">
 
@@ -66,11 +66,11 @@
 <!ENTITY noResults.label           "Geen resultaten">
 <!ENTITY allBookmarks.label        "Alle bladwijzers tonen">
 
+<!ENTITY searchEngine.addSearch    "Zoekmachine toevoegen:">
+
 <!ENTITY bookmarkPopup.label       "Bladwijzer gemaakt">
 <!ENTITY bookmarkRemove.label      "Verwijderen">
 <!ENTITY bookmarkEdit.label        "Bewerken">
-
-<!ENTITY searchEngine.addSearch    "Zoekmachine toevoegen:">
 
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo2 "Verbonden met">
