@@ -38,6 +38,7 @@
 
 <!ENTITY downloadManagerCmd.label "Gestor de baixades">
 <!ENTITY downloadManagerCmd.accesskey "b">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addonsManagerCmd.label "Gestor de complements">
 <!ENTITY addonsManagerCmd.accesskey "G">

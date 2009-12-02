@@ -4,7 +4,7 @@
 <!ENTITY browser.label "Navegador">
 <!ENTITY email.label "Correu electrònic">
 <!ENTITY newsgroups.label "Grups de discussió">
-<!ENTITY rss.label "Canals RSS">
+<!ENTITY feeds.label "Canals">
 
 <!ENTITY checkOnStartup.label "Fes sempre aquesta comprovació quan s'iniciï el &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">

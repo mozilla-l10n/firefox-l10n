@@ -1,7 +1,7 @@
 <!ENTITY dialog.title                 "Opcions d'enviament">
 <!ENTITY sendMail.title               "Format del text">
-<!ENTITY sendMaildesc.label           "Quan s'enviïn missatges en format HTML, i un o més dels destinataris estiguin llistats com a que no poden rebre HTML:">
-<!ENTITY askMe.label                  "Demana'm què fer">
+<!ENTITY sendMaildesc.label           "Quan s'enviïn missatges en format HTML, però hi hagi algun destinatari pel qual s'hagi especificat que no pot rebre HTML:">
+<!ENTITY askMe.label                  "Demana'm què vull fer">
 <!ENTITY askMe.accesskey              "m">
 <!ENTITY convertPlain.label           "Converteix el missatge en text net">
 <!ENTITY convertPlain.accesskey       "C">

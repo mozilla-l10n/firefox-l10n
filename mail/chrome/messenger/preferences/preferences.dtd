@@ -9,7 +9,7 @@
 <!ENTITY paneDisplay.title        "Visualització">
 <!ENTITY paneComposition.title    "Redacció">
 <!ENTITY paneAttachments.title    "Adjuncions">
-<!ENTITY panePrivacy.title        "Privadesa">
+<!ENTITY paneSecurity.title        "Seguretat">
 <!ENTITY paneAdvanced.title       "Avançat">
 
-<!ENTITY cmdCloseMac.commandKey   "w">
+

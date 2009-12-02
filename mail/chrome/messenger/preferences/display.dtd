@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Color:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "Missatges en text net">
-<!ENTITY plainText.label				          "Utilitza el tipus de lletra següent:">
 <!ENTITY displayText.label				        "Quan es mostrin missatges de text net citat:">
-<!ENTITY fixedWidth.label                 "Amplada fixa">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "Amplada variable">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY colors.label                     "Colors">
 <!ENTITY overrideColors.label             "Quan es mostrin els missatges, utilitza els colors següents:">
 <!ENTITY  textColor.label                 "Color del text:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "x">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label       "Configura els tipus de lletra i les codificacions que utilitza el &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label      "Tipus de lletres i codificacions">
-<!ENTITY fontOptions.accesskey   "T">
-<!ENTITY fontOptions.label       "Tipus de lletres…">
+<!ENTITY fontsAndColors.label    "Tipus de lletra">
+<!ENTITY defaultFont.label       "Tipus de lletra per defecte:">
+<!ENTITY defaultFont.accesskey   "d">
+<!ENTITY defaultSize.label       "Mida:">
+<!ENTITY defaultSize.accesskey   "M">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Avançades…">

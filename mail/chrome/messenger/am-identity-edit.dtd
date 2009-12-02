@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Paràmetres de la identitat">
 <!ENTITY identityListDesc.label "Configureu els paràmetres per a aquesta identitat">
 

@@ -118,6 +118,7 @@
 <!ENTITY deleteItemButton.accesskey                     "u">
 <!ENTITY newimButton.label                              "Missatgeria instantània">  
 <!ENTITY newimButton.accesskey                          "M">  
+<!ENTITY searchNameAndEmail.emptytext                   "Cerca el nom i l'adreça de correu">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra d'eines de la llibreta d'adreces">

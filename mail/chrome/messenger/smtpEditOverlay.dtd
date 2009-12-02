@@ -12,15 +12,6 @@
 <!ENTITY userName.accesskey "m">
 <!ENTITY useSecAuth.label "Utilitza autenticació segura">
 <!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "Utilitza una connexió segura:">
-<!ENTITY neverSecure.label "No">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, si és disponible">
-<!ENTITY sometimesSTARTTLS.accesskey "A">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SSL sobre SMTP">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY connectionSecurity.label "Connexió segura:">
 <!ENTITY connectionSecurity.accesskey "C">
 <!ENTITY connectionSecurityType-0.label "Cap">

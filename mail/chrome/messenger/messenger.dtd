@@ -5,12 +5,16 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY closeTabCmd.accesskey "t">
 <!ENTITY closeTabCmd.label "Tanca la pestanya">
+<!ENTITY closeTabCmd.accesskey "t">
+<!ENTITY closeOtherTabsCmd.label "Tanca les altres pestanyes">
+<!ENTITY closeOtherTabsCmd.accesskey "a">
 <!ENTITY newVirtualFolderCmd.label "Cerca desada…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
-<!ENTITY newAccountCmd.label "Compte…">
-<!ENTITY newAccountCmd.accesskey "o">
+<!ENTITY newOtherAccountsCmd.label "Altres comptes…">
+<!ENTITY newOtherAccountsCmd.accesskey "A">
+<!ENTITY newEmailAccountCmd.label "Compte de correu…">
+<!ENTITY newEmailAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Obre el missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
@@ -56,7 +60,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Baixa els missatges seleccionats">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadStarredCmd.label "Baixa els missatges senyalats">
+<!ENTITY downloadStarredCmd.label "Baixa els missatges assenyalats">
 <!ENTITY downloadStarredCmd.accesskey "s">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
@@ -87,10 +91,10 @@
 <!ENTITY selectMenu.accesskey "l">
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">
-<!ENTITY selectThreadCmd.label "Cadena">
-<!ENTITY selectThreadCmd.accesskey "d">
+<!ENTITY selectThreadCmd.label "Conversa">
+<!ENTITY selectThreadCmd.accesskey "n">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Missatges senyalats">
+<!ENTITY selectFlaggedCmd.label "Missatges assenyalats">
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Carpeta preferida">
 <!ENTITY menuFavoriteFolder.accesskey "f">
@@ -133,6 +137,8 @@
 
 <!ENTITY folderView.label "Carpetes">
 <!ENTITY folderView.accesskey "p">
+<!ENTITY smartFolders.label "Inteŀligent">
+<!ENTITY smartFolders.accesskey "I">
 <!ENTITY allFolders.label "Totes">
 <!ENTITY allFolders.accesskey "o">
 <!ENTITY unreadFolders.label "Per llegir">
@@ -147,9 +153,9 @@
 <!ENTITY sortMenu.accesskey "d">
 <!ENTITY sortByDateCmd.label "Data">
 <!ENTITY sortByDateCmd.accesskey "t">
-<!ENTITY sortByReceivedCmd.label "Rebuda">
-<!ENTITY sortByReceivedCmd.accesskey "b">
-<!ENTITY sortByStarCmd.label "Senyalador">
+<!ENTITY sortByReceivedCmd.label "Recepció">
+<!ENTITY sortByReceivedCmd.accesskey "R">
+<!ENTITY sortByStarCmd.label "Assenyalat">
 <!ENTITY sortByStarCmd.accesskey "y">
 <!ENTITY sortByAttachmentsCmd.label "Adjuncions">
 <!ENTITY sortByAttachmentsCmd.accesskey "j">
@@ -159,7 +165,7 @@
 <!ENTITY sortBySizeCmd.accesskey "M">
 <!ENTITY sortByStatusCmd.label "Estat">
 <!ENTITY sortByStatusCmd.accesskey "E">
-<!ENTITY sortByTagsCmd.label "Etiquetes">
+<!ENTITY sortByTagsCmd.label "Etiqueta">
 <!ENTITY sortByTagsCmd.accesskey "q">
 <!ENTITY sortByJunkStatusCmd.label "Estat del correu brossa">
 <!ENTITY sortByJunkStatusCmd.accesskey "b">
@@ -169,18 +175,18 @@
 <!ENTITY sortByFromCmd.accesskey "t">
 <!ENTITY sortByRecipientCmd.label "Destinatari">
 <!ENTITY sortByRecipientCmd.accesskey "i">
-<!ENTITY sortByUnreadCmd.label "Per llegir">
+<!ENTITY sortByUnreadCmd.label "Pendent de llegir">
 <!ENTITY sortByUnreadCmd.accesskey "l">
-<!ENTITY sortByOrderReceivedCmd.label "Ordre de rebuda">
-<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortByOrderReceivedCmd.label "Ordre de recepció">
+<!ENTITY sortByOrderReceivedCmd.accesskey "r">
 <!ENTITY sortAscending.label "Ascendent">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Descendent">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "Encadenat">
-<!ENTITY sortThreaded.accesskey "c">
-<!ENTITY sortUnthreaded.label "No encadenat">
-<!ENTITY sortUnthreaded.accesskey "N">
+<!ENTITY sortThreaded.label "Converses senceres">
+<!ENTITY sortThreaded.accesskey "C">
+<!ENTITY sortUnthreaded.label "Missatges per separat">
+<!ENTITY sortUnthreaded.accesskey "s">
 <!ENTITY groupBySort.label "Agrupa per ordenació">
 <!ENTITY groupBySort.accesskey "g">
 <!ENTITY msgsMenu.label "Missatges">
@@ -217,8 +223,19 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Text net">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Visualitza les adjuncions en línia">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "V">
+
+<!ENTITY bodyMenuFeed.label "Cos del missatge del canal">
+<!ENTITY bodyMenuFeed.accesskey "C">
+<!ENTITY viewFeedWebPage.label "Pàgina web">
+<!ENTITY viewFeedWebPage.accesskey "w">
+<!ENTITY viewFeedSummary.label "Resum">
+<!ENTITY viewFeedSummary.accesskey "R">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Format per defecte">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -279,9 +296,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "Missatge per llegir">
 <!ENTITY nextUnreadMsgCmd.accesskey "i">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Missatge senyalat">
+<!ENTITY nextStarredMsgCmd.label "Missatge assenyalat">
 <!ENTITY nextStarredMsgCmd.accesskey "s">
-<!ENTITY nextUnreadThread.label "Cadena per llegir">
+<!ENTITY nextUnreadThread.label "Conversa per a llegir">
 <!ENTITY nextUnreadThread.accesskey "C">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
@@ -298,7 +315,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Enrere">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Missatge senyalat">
+<!ENTITY prevStarredMsgCmd.label "Missatge assenyalat">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
@@ -321,6 +338,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Respon a tots">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Respon a la llista">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Reenvia">
 <!ENTITY forwardMsgCmd.accesskey "v">
 <!ENTITY forwardMsgCmd.key "l">
@@ -346,18 +366,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY moveToFolderAgain.label "Torna a moure-ho">
 <!ENTITY moveToFolderAgain.accesskey "T">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ignora la cadena">
+<!ENTITY killThreadMenu.label "Ignora la conversa">
 <!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignora la subcadena">
+<!ENTITY killSubthreadMenu.label "Ignora la subconversa">
 <!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Vigila la cadena">
+<!ENTITY watchThreadMenu.label "Vigila la conversa">
 <!ENTITY watchThreadMenu.accesskey "V">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Arxiva'l ací">
+<!ENTITY fileHereMenu.label "Arxiva'l aquí">
 <!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY copyHereMenu.label "Copia'l ací">
+<!ENTITY copyHereMenu.label "Copia'l aquí">
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiqueta">
 <!ENTITY tagMenu.accesskey "q">
@@ -376,7 +396,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Com a llegit">
 <!ENTITY markAsReadCmd.accesskey "C">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "Cadena com a llegida">
+<!ENTITY markThreadAsReadCmd.label "Conversa com a llegida">
 <!ENTITY markThreadAsReadCmd.accesskey "m">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Llegits per data…">
@@ -385,7 +405,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.label "Tots llegits">
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Senyalador">
+<!ENTITY markStarredCmd.label "Assenyalat">
 <!ENTITY markStarredCmd.accesskey "y">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Com a correu brossa">
@@ -399,6 +419,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Obre el missatge">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Obre el missatge del canal">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Pàgina web en una nova finestra">
+<!ENTITY openFeedWebPageInWindow.accesskey "w">
+<!ENTITY openFeedSummaryInWindow.label "Resum en una nova finestra">
+<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Commuta la pàgina web i el resum en el quadre de missatges">
+<!ENTITY openFeedWebPageInMP.accesskey "q">
+
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Finestra">
@@ -410,12 +439,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "m">
 <!ENTITY activitymanager.label "Gestor d'activitat">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "Fitxers desats">
+<!ENTITY savedFiles.accesskey "d">
+<!ENTITY savedFiles.key "j">
 <!ENTITY messengerCmd.label "Missatgeria">
 <!ENTITY messengerCmd.accesskey "M">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Llibreta d'adreces">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY runJunkControls.label "Executa els controls de brossa a la carpeta">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Suprimeix la brossa de la carpeta">
@@ -438,8 +469,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "Redacta">
 <!ENTITY replyButton.label "Respon">
 <!ENTITY replyAllButton.label "Respon a tots">
+<!ENTITY replyListButton.label "Respon a la llista">
 <!ENTITY forwardButton.label "Reenvia">
-<!ENTITY fileButton.label "Arxiva">
+<!ENTITY fileButton.label "Mou">
+<!ENTITY archiveButton.label "Arxiva">
 <!ENTITY nextButton.label "Següent">
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Enrere">
@@ -468,8 +501,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Crea un nou missatge">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
+<!ENTITY replyListButton.tooltip "Respon a una llista de destinataris">
 <!ENTITY forwardButton.tooltip "Reenvia el missatge seleccionat">
-<!ENTITY fileButton.tooltip "Arxiva el missatge seleccionat">
+<!ENTITY fileButton.tooltip "Mou el missatge seleccionat">
+<!ENTITY archiveButton.tooltip "Arxiva els missatges seleccionats">
 <!ENTITY nextButton.tooltip "Vés al següent missatge per llegir">
 <!ENTITY previousButton.tooltip "Vés a l'anterior missatge per llegir">
 <!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
@@ -537,28 +572,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Cerca missatges…">
-<!ENTITY glodaSearchBar.facet.label "Cerca:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Tots els camps">
-<!ENTITY glodaSearchFacet.subject.label "Assumpte">
-<!ENTITY glodaSearchFacet.involves.label "Implicats (a,de,cc,bcc)">
-<!ENTITY glodaSearchFacet.to.label "Destinatari, CC">
-<!ENTITY glodaSearchFacet.from.label "Remitent">
-<!ENTITY glodaSearchFacet.body.label "Text del missatge">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Noms de les adjuncions">
-
-<!ENTITY glodaSearchBar.location.label "Ubicació:">
-<!ENTITY glodaSearchFacet.everywhere.label "Totes les carpetes">
-<!ENTITY glodaSearchFacet.folder.label "En una carpeta determinada…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Assumpte">
@@ -570,7 +583,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveAsVirtualFolderMenu.label "Desa la cerca com una carpeta…">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Cadena">
+<!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
 <!ENTITY subjectColumn.label "Assumpte">
@@ -584,15 +597,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
-<!ENTITY receivedColumn.label "Rebuda">
-<!ENTITY starredColumn.label "Senyalador">
+<!ENTITY receivedColumn.label "Recepció">
+<!ENTITY starredColumn.label "Assenyalat">
 <!ENTITY locationColumn.label "Ubicació">
-<!ENTITY idColumn.label "Ordre de rebuda">
+<!ENTITY idColumn.label "Ordre de recepció">
 <!ENTITY attachmentColumn.label "Adjuncions">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Motiu">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Feu un clic per a seleccionar les columnes a visualitzar">
@@ -607,15 +616,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.tooltip "Feu un clic per a ordenar per estat">
 <!ENTITY sizeColumn.tooltip "Feu un clic per a ordenar per mida">
 <!ENTITY junkStatusColumn.tooltip "Feu un clic per a ordenar per l'estat de brossa">
-<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la cadena">
-<!ENTITY totalColumn.tooltip "Nombre total de missatges en cadena">
+<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la conversa">
+<!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
 <!ENTITY readColumn.tooltip "Feu un clic per a ordenar per llegit">
-<!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per data de rebuda">
-<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per senyalador">
+<!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per data de recepció">
+<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per si està assenyalat">
 <!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
 <!ENTITY idColumn.tooltip "Feu clic per a ordenar per ordre de recepció">
 <!ENTITY attachmentColumn.tooltip "Feu un clic per a ordenar per adjuncions">
-<!ENTITY glodaWhyColumn.tooltip "Feu un clic per a ordenar pel motiu per el qual el missatge és a la llista de resultats"> 
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
@@ -624,12 +632,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
 <!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextArchive.label "Arxiva">
+<!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Respon només al remitent">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Respon al grup de discussió">
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Respon a tots">
 <!ENTITY contextReplyAll.accesskey "p">
+<!ENTITY contextReplyList.label "Respon a la llista">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Reenvia">
 <!ENTITY contextForward.accesskey "v">
 <!ENTITY contextForwardAsAttachment.label "Reenvia com a adjuncions">
@@ -647,14 +659,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Exemple d'impressió">
 <!ENTITY contextPrintPreview.accesskey "e">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Reprodueix">
+<!ENTITY contextPlay.accesskey "R">
+<!ENTITY contextPause.label "Pausa">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Silenci">
+<!ENTITY contextMute.accesskey "S">
+<!ENTITY contextUnmute.label "So">
+<!ENTITY contextUnmute.accesskey "S">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Correu brossa">
 <!ENTITY junkBarButton1.label "Correu legítim">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Per a protegir la vostra privadesa, s'han blocat les imatges remotes.">
-<!ENTITY loadRemoteContentButton2.label "Carrega les imatges ara">
+<!ENTITY remoteContentMessage2.label "Per a protegir la vostra privadesa, el &brandShortName; ha blocat el contingut remot.">
+<!ENTITY loadRemoteContentButton3.label "Mostra el contingut remot">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Aquest missatge podria ser fradulent.">
@@ -666,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchAllMessages.label "Cerca tots els missatges">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Afegeix a la llibreta d'adreces…">
@@ -676,10 +699,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Visualitza el contacte">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Redacta un correu a ">
-<!ENTITY SendMailTo.accesskey "r">
+<!ENTITY SubscribeToNewsgroup.label "Subscriu-me al grup de notícies">
+<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SendMessageTo.label "Redacta un missatge a">
+<!ENTITY SendMessageTo.accesskey "R">
 <!ENTITY CopyEmailAddress.label "Copia l'adreça de correu electrònic">
 <!ENTITY CopyEmailAddress.accesskey "c">
+<!ENTITY CopyNewsgroupName.label "Copia el nom del grup de notícies">
+<!ENTITY CopyNewsgroupName.accesskey "n">
+<!ENTITY CopyNewsgroupURL.label "Copia l'URL del grup de notícies">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Crea un filtre de…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Informa d'un missatge fraudulent">
@@ -690,16 +719,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "ç">
 <!ENTITY saveImageAsCmd.label "Anomena i desa la imatge…">
 <!ENTITY saveImageAsCmd.accesskey "i">
+<!ENTITY cutCmd.label "Retalla">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Enganxa">
+<!ENTITY pasteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Copia la ubicació de la imatge">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Copia la imatge">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Copia l'adreça electrònica">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Atura">
+<!ENTITY stopCmd.accesskey "A">
+<!ENTITY reloadCmd.label "Actualitza">
+<!ENTITY reloadCmd.accesskey "A">
+<!ENTITY openInBrowser.label "Obre en un navegador">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "Obre l'enllaç en un navegador">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Fet">

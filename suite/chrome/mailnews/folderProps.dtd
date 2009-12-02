@@ -52,13 +52,13 @@
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
 <!ENTITY folderRebuildSummaryFileTip.label       "Reconstrueix el fitxer de resum"> 
 
-<!ENTITY folderOfflineTab.label "Fora de línia">
+<!ENTITY folderSynchronizationTab.label          "Sincronització">
 <!ENTITY folderCheckForNewMessages.label "Cerca missatges nous a aquesta carpeta">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
 <!ENTITY retention.label "Política de retenció">
-<!ENTITY retentionUseDefault.label  "Utilitza els paràmetres per defecte del servidor">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label  "Utilitza les meves opcions del compte">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
 <!ENTITY retentionCleanup.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics">
@@ -68,10 +68,11 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepNew.label "Suprimeix-ho tot excepte els darrers">
-<!ENTITY retentionKeepNew.accesskey "r">
-<!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
-<!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY retentionKeepRecent.label "Suprimeix-los tots excepte els més nous">
+<!ENTITY retentionKeepRecent.accesskey "x">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu les opcions d'antiguitat)">
+
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges senyalats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -89,6 +90,7 @@
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Ubicació:">
 <!ENTITY folderProps.location.accesskey          "U">
+
 
 <!ENTITY folderSharingTab.label "S'està compartint">
 <!ENTITY privileges.button.label "Privilegis">

@@ -45,6 +45,8 @@
 <!ENTITY reloadImageCmd.accesskey     "e">
 <!ENTITY viewImageCmd.label "Visualitza la imatge">
 <!ENTITY viewImageCmd.accesskey "V">
+<!ENTITY viewVideoCmd.label           "Visualitza el vídeo">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label "Visualitza la imatge de fons">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setWallpaperCmd.label "Assigna com a fons d'escriptori">

@@ -7,6 +7,10 @@
 <!ENTITY helpMenuWin.accesskey    "j">
 <!ENTITY releaseCmd.label "Notes de la versió">
 <!ENTITY releaseCmd.accesskey "r">
+<!ENTITY whatsNewCmd.label "Novetats">
+<!ENTITY whatsNewCmd.accesskey "N">
+<!ENTITY featureConfiguratorCmd.label "Assistent a la migració">
+<!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Continguts de l'ajuda">
 <!ENTITY openHelp.accesskey "C">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -18,7 +22,6 @@
 <!ENTITY openHelpMac2.modifiers            "accel">
 
 <!ENTITY updateCmd.label "Comprova si hi ha actualitzacions…">
-<!ENTITY updateCmd.accesskey "o">
-<!ENTITY aboutCmd.label "Quant al &brandFullName;">
-<!ENTITY aboutCmd.accesskey "Q">
+<!ENTITY aboutMenuCmd.label "Quant al &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "Q">
 

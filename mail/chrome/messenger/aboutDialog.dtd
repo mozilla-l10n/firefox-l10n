@@ -1,11 +1,21 @@
 <!ENTITY aboutDialog.title "Quant al &brandFullName;">
-<!ENTITY credits.label "Crèdits">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label "&lt; Quant al &brandFullName;">
-<!ENTITY aboutLink.accesskey    "Q">
+<!ENTITY aboutCredits.label "Crèdits">
+<!ENTITY aboutCredits.accesskey      "C">
+
+<!ENTITY aboutButton.label      "&lt; Enrere">
+<!ENTITY aboutButton.accesskey  "E">
 <!ENTITY aboutVersion "versió">
-<!ENTITY copyrightText          "&#169;1998-2008 Coŀlaboradors. Tots els drets reservats. El Mozilla Thunderbird i els
+<!ENTITY copyrightText          "&#169;1998-2009 Coŀlaboradors. Tots els drets reservats. El Mozilla Thunderbird i els
                                  seus logotips són marques registrades de la Fundació Mozilla. Tots els drets 
-                                 reservats. S'utilitzen alguns drets de marca sota llicència de The
-                                 Charlton Company.">
+                                 reservats.">
+
+<!ENTITY aboutMenu.label        "Quant a">
+<!ENTITY aboutMenu.accesskey    "Q">
+<!ENTITY aboutRights.label      "Els vostres drets">
+<!ENTITY aboutRights.accesskey  "d">
+<!ENTITY aboutContributors.label "Coŀlaboradors">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "Llicència">
+<!ENTITY aboutLicense.accesskey  "L">
+
 <!ENTITY cmdCloseMac.commandKey "w">

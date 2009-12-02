@@ -81,13 +81,13 @@
 <!ENTITY ScreenName.label "Nom en pantalla:">
 <!ENTITY ScreenName.accesskey "p">
 
-<!ENTITY allowRemoteContent.label       "Permet les imatges remotes en el correu HTML.">
-<!ENTITY allowRemoteContent.accesskey   "g">
-<!ENTITY allowRemoteContent.tooltip     "En els missatges HTML és possible
-incrustar imatges d'origen remot. En obrir-se un d'aquests missatges, s'establirà
+<!ENTITY allowRemoteContent1.label       "Permet el contingut remot.">
+<!ENTITY allowRemoteContent1.accesskey   "r">
+<!ENTITY allowRemoteContent1.tooltip     "En els missatges HTML és possible
+incrustar contingut d'un origen remot. En obrir-se un d'aquests missatges, s'establirà
 una connexió amb la font externa. Això permet que es pugui detectar si es
-llegeix el missatge. En marcar aquest quadre, es permetrà aquest tipus d'imatges
-incrustades en els missatges HTML d'aquest contacte.">
+llegeix el missatge. Si es marca aquesta opció, es permetrà mostrar aquest tipus 
+de contingut incrustat en els missatges HTML d'aquest contacte.">
 
 <!ENTITY WorkPhone.label "Feina:">
 <!ENTITY WorkPhone.accesskey "F">
@@ -161,4 +161,20 @@ incrustades en els missatges HTML d'aquest contacte.">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Anotacions">
 <!ENTITY Notes.accesskey                "n">
+
+<!ENTITY Photo.tab                      "Fotografia">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Seleccioneu una opció:">
+<!ENTITY GenericPhoto.label             "Fotografia genèrica">
+<!ENTITY GenericPhoto.accesskey         "g">
+<!ENTITY DefaultPhoto.label             "Per defecte">
+<!ENTITY PhotoFile.label                "Una de l'ordinador">
+<!ENTITY PhotoFile.accesskey            "o">
+<!ENTITY BrowsePhoto.label              "Navega">
+<!ENTITY BrowsePhoto.accesskey          "N">
+<!ENTITY PhotoURL.label                 "Una del web">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.emptytext             "Enganxeu o escriviu l'adreça web d'una fotografia">
+<!ENTITY UpdatePhoto.label              "Actualitza">
+<!ENTITY UpdatePhoto.accesskey          "A">
 

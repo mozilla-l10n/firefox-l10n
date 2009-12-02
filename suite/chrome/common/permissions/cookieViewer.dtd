@@ -11,6 +11,11 @@
 <!ENTITY button.removeallcookies.label "Suprimeix totes les galetes">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
+<!ENTITY     search.emptytext               "Cerca galetes">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     selectAll.key                  "a">
+
 <!ENTITY props.name.label "Nom:">
 <!ENTITY props.value.label "Contingut:">
 <!ENTITY props.domain.label "Servidor central:">

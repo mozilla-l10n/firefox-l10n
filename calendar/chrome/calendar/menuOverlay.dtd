@@ -59,13 +59,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "Exporta el calendari…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.label                  "Exporta…">
+<!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "Exporta la selecció…">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "Publica…">
 <!ENTITY calendar.publish.accesskey             "b">
+
+<!ENTITY calendar.deletecalendar.label          "Suprimeix el calendari seleccionat…">
+<!ENTITY calendar.deletecalendar.accesskey      "S">
 
 <!ENTITY calendar.menu.customize.label          "Personalitza…">
 <!ENTITY calendar.menu.customize.accesskey      "z">
@@ -95,11 +98,6 @@
 <!ENTITY goNextCmd.week.label                   "Setmana següent">
 <!ENTITY goNextCmd.month.label                  "Mes següent">
 <!ENTITY goNextCmd.all.accesskey                "e">
-
-<!ENTITY addressBookCmd.label                   "Llibreta d'adreces">
-<!ENTITY addressBookCmd.accesskey               "L">
-
-<!ENTITY calendar.importcalendar.label          "Importa un calendari…">
 
 <!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">

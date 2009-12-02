@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Tipus de lletra per a:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "Mida (píxels)">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  size.label                             "Mida:">
+<!ENTITY  proportionalSize.accesskey              "M">
+<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -52,9 +52,14 @@
 <!ENTITY minSize.accesskey                        "d">
 <!ENTITY minSize.none                             "Cap">
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Control del tipus de lletra">
+<!ENTITY  useFixedWidthForPlainText.label         "Utilitza el tipus de lletra d'amplada fixa per als missatges de text">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permet que els missatges utilitzin altres tipus de lletra">
 <!ENTITY  useDocumentFonts.accesskey              "e">
 

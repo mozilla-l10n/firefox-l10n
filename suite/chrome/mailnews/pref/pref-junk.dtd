@@ -58,3 +58,15 @@
 <!ENTITY openJunkLog.accesskey          "s">
 <!ENTITY resetTrainingData.label        "Reinicia les dades d'entrenament">
 <!ENTITY resetTrainingData.accesskey    "t">
+
+<!ENTITY pref.suspectMail.caption       "Correu sospitós">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "Correu fraudulent">
+<!ENTITY enablePhishingDetector.label     "Avisa'm si el missatge que estic llegint és sospitós de ser fraudulent">
+<!ENTITY enablePhishingDetector.accesskey "A">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "AntiVirus">
+<!ENTITY antiVirus.label                  "Permet que els clients antivirus analitzin els missatges entrants més fàcilment">
+<!ENTITY antiVirus.accesskey              "P">

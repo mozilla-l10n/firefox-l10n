@@ -38,7 +38,7 @@
 <!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
 
 
-<!ENTITY threadColumn.label "Cadena">
+<!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
 <!ENTITY attachmentColumn.label "Adjunts">
@@ -53,10 +53,10 @@
 <!ENTITY unreadColumn.label "Per llegir">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
-<!ENTITY receivedColumn.label "Rebut">
-<!ENTITY flagColumn.label "Senyalador">
+<!ENTITY receivedColumn.label "Recepció">
+<!ENTITY flagColumn.label "Assenyalat">
 <!ENTITY locationColumn.label "Ubicació">
-<!ENTITY idColumn.label "Ordre rebuda">
+<!ENTITY idColumn.label "Ordre de recepció">
 
 <!--Tooltips-->
 <!ENTITY columnChooser.tooltip "Feu un clic per a seleccionar les columnes a visualitzar">
@@ -72,11 +72,11 @@
 <!ENTITY statusColumn.tooltip "Feu un clic per a ordenar per estat">
 <!ENTITY sizeColumn.tooltip "Feu un clic per a ordenar per mida">
 <!ENTITY junkStatusColumn.tooltip "Feu un clic per a ordenar per l'estat de brossa">
-<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la cadena">
-<!ENTITY totalColumn.tooltip "Nombre total de missatges en cadena">
+<!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la conversa">
+<!ENTITY totalColumn.tooltip "Nombre total de missatges en conversa">
 <!ENTITY readColumn.tooltip "Feu un clic per a ordenar per llegit">
-<!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per ordre de rebuda">
-<!ENTITY flagColumn.tooltip "Feu un clic per a ordenar per senyalador">
+<!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per ordre de recepció">
+<!ENTITY flagColumn.tooltip "Feu un clic per a ordenar per si està assenyalat">
 <!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
 <!ENTITY idColumn.tooltip "Feu clic per a ordenar per ordre de recepció">
 

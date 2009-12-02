@@ -84,4 +84,5 @@
 <!ENTITY disableContent.accesskey         "m">
 <!ENTITY showCondensedAddresses.label     "Mostra només el nom de la gent a la meva llibreta d'adreces">
 <!ENTITY showCondensedAddresses.accesskey "o">
-
+<!ENTITY closeMsgWindowOnDelete.label     "Tanca la finestra de missatges quan se suprimeixi el missatge">
+<!ENTITY closeMsgWindowOnDelete.accesskey "T">

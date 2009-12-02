@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
 <!ENTITY pref.proxies.advanced.title "Preferències avançades de servidor intermediari">
 <!ENTITY protocols.caption "Servidors intermediaris específics de protocol">
-<!ENTITY protocols.description "Normalment el mateix servidor intermediari pot gestionar tots els protocols que es llisten ací.">
+<!ENTITY protocols.description "Normalment el mateix servidor intermediari pot gestionar tots els protocols que es llisten aquí.">
 <!ENTITY ftp.label "Servidor intermediari d'FTP:">
 <!ENTITY ftp.accesskey "F">
 <!ENTITY gopher.label "Servidor intermediari de Gopher:">

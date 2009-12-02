@@ -4,6 +4,8 @@
 <!ENTITY autoHide.accesskey "g">
 <!ENTITY background.label "Carrega els enllaços en segon terme">
 <!ENTITY background.accesskey "s">
+<!ENTITY warnOnClose.label "Avisa'm en tancar una finestra amb moltes pestanyes">
+<!ENTITY warnOnClose.accesskey "n">
 <!ENTITY loadGroup.label "En obrir un grup d'adreces d'interès">
 <!ENTITY loadGroupAppend.label "Afegeix pestanyes">
 <!ENTITY loadGroupAppend.accesskey "A">

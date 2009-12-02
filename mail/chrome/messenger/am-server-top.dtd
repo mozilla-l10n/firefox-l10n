@@ -24,15 +24,6 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, si està disponible">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "TLS sobre SSL">
-<!ENTITY socketType.label "Utilitza una connexió segura:">
-<!ENTITY neverSecure.label "Mai">
-<!ENTITY neverSecure.accesskey "M">
-<!ENTITY sometimesSecure.label "TLS, si és disponible">
-<!ENTITY sometimesSecure.accesskey "o">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
 <!ENTITY useSecAuth.label "Utilitza l'autenticació segura">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Deixa els missatges al servidor">

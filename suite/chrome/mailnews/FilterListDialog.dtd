@@ -1,4 +1,4 @@
-<!ENTITY window.title "Filtres de missatge">
+<!ENTITY filterListDialog.title "Filtres de missatge">
 <!ENTITY nameColumn.label "Nom del filtre">
 <!ENTITY activeColumn.label "Habilitat">
 <!ENTITY newButton.label "Nou...">
@@ -24,5 +24,4 @@
 <!ENTITY folderPickerPrefix.accesskey "i">
 <!ENTITY choosethis.label "escull aquesta carpeta">
 <!ENTITY choosethisnewsserver.label "tria aquest servidor de grups de discussió">
-<!ENTITY helpButton.label "Ajuda">
-<!ENTITY helpButton.accesskey "j">
+

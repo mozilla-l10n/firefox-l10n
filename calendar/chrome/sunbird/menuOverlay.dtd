@@ -156,10 +156,15 @@
 
 <!ENTITY releaseCmd.label                       "Notes de la versió">
 <!ENTITY releaseCmd.accesskey                   "N">
+
 <!ENTITY aboutCmd.label                         "Quant al &brandFullName;">
 <!ENTITY aboutCmd.accesskey                     "Q">
+
 <!ENTITY updateCmd.label                        "Comprova si hi ha actualitzacions…">
 <!ENTITY updateCmd.accesskey                    "o">
+
+<!ENTITY sunbird.export.calendar.label                     "Exporta el calendari…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
 
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "Finestra">

@@ -22,6 +22,9 @@
 <!ENTITY recentTabs.label "Pestanyes tancades recentment">
 <!ENTITY recentTabs.accesskey "r">
 <!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Finestres tancades recentment">
+<!ENTITY recentWindows.accesskey "n">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Edita la pàgina">
 <!ENTITY editPageCmd.accesskey "d">
 <!ENTITY editPageCmd.commandkey "e">

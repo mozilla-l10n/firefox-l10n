@@ -44,6 +44,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Selecciona-ho tot">
 <!ENTITY  selectall.accesskey   "a">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY closeWindow.key "w">
 
 <!ENTITY generalTab "General">
@@ -58,8 +59,9 @@
 <!ENTITY generalEncoding "Codificació:">
 <!ENTITY generalMetaName "Nom:">
 <!ENTITY generalMetaContent "Contingut">
-<!ENTITY generalSecurityMore   "Més">
-<!ENTITY generalSecurityMore.accesskey "M">
+<!ENTITY  generalSecurityDetails           "Detalls">
+<!ENTITY  generalSecurityDetails.accesskey "D">
+
 
 <!ENTITY formsTab "Formularis">
 <!ENTITY formsTab.accesskey        "F">
@@ -110,6 +112,7 @@
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Utiliza els predeterminats">
+<!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
 <!ENTITY  permAllowSession      "Permet per aquesta sessió">
 <!ENTITY  permBlock             "Bloca">
@@ -118,6 +121,7 @@
 <!ENTITY  permPopup             "Obrir finestres emergents">
 <!ENTITY  permCookie            "Definir galetes">
 <!ENTITY  permInstall           "Instaŀlar extensions o temes">
+<!ENTITY  permGeo               "Compartir la ubicació">
 
 <!ENTITY  securityTab           "Seguretat">
 <!ENTITY  securityTab.accesskey "S">
