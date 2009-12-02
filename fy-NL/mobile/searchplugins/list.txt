@@ -1,7 +1,3 @@
-amazondotcom
-answers
-creativecommons
-eBay
 google
-wikipedia
-yahoo
+wikipedia-fy-NL
+bolcom-fy-NL
