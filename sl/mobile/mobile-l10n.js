@@ -36,4 +36,4 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "@sl@");
+pref("general.useragent.locale", "sl");
