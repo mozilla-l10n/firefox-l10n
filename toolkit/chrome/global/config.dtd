@@ -40,7 +40,7 @@
 <!ENTITY aboutWarningButton.label "Farò attenzione, prometto">
 <!ENTITY aboutWarningCheckbox.label "Visualizza nuovamente questo avviso in futuro">
 <!ENTITY filterPrefs.label "Filtro:">
-<!ENTITY filterPrefs.accesskey "F">
+<!ENTITY filterPrefs.accesskey "o">
 <!ENTITY focusFilter.key "f">
 <!ENTITY prefColumn.label "Nome Parametro">
 <!ENTITY lockColumn.label "Stato">
