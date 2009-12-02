@@ -144,7 +144,7 @@
 <!ENTITY dirTreeHeader.label                            "Quasernet d'adreças">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Lo nom o l'adreça>
+<!ENTITY SearchNameOrEmail.label                        "Lo nom o l'adreça">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
 <!ENTITY advancedButton.tooltip                         "Recèrca avançada d'adreças">
 <!ENTITY quickSearchCmd.key                             "k">
