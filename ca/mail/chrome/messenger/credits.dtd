@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "Crèdits del &brandFullName;">
 <!ENTITY brandMotto "Endavant els Thunderbirds!">
-<!ENTITY credit.leads "Caps d'enginyeria">
 <!ENTITY credit.thanks "Agraïments especials per a">
 
 
@@ -24,10 +23,8 @@
  <li>Xavi Ivars</li>
  <li>Quico Llach</li>
  <li>Jordi Mas</li>
+ <li>Quim Perez</li>
  </ul>">
 
-<!ENTITY credit.theme "Disseny del tema">
-<!ENTITY credit.qa "Gestió de qualitat">
-<!ENTITY credit.build "Versió">
 <!ENTITY credit.memory "En record de">
 <!ENTITY credit.poweredByGecko "Funciona amb Gecko&trade;">

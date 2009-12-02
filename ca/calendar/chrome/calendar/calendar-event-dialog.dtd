@@ -50,9 +50,13 @@
 <!ENTITY newevent.status.label 		   "Estat">
 <!ENTITY newevent.status.accesskey 	   "s" >
 <!ENTITY newevent.status.none.label        "Sense especificar" >
+<!ENTITY newevent.status.none.accesskey       "e" >
 <!ENTITY newevent.status.cancelled.label   "Canceŀlada" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
 <!ENTITY newevent.status.tentative.label   "Provisional" >
+<!ENTITY newevent.status.tentative.accesskey  "P" >
 <!ENTITY newevent.status.confirmed.label   "Confirmada" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
 <!ENTITY newevent.status.needsaction.label "Necessita una acció" >
 <!ENTITY newevent.status.inprogress.label  "En procés" >
 <!ENTITY newevent.status.completed.label   "Finalitzada el dia" >
@@ -69,12 +73,14 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "C">
 <!ENTITY  event.menu.file.new.message.label               "Missatge">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "Targeta de la llibreta d'adreces">
-<!ENTITY  event.menu.file.new.address.accesskey           "g">
+<!ENTITY  event.menu.file.new.contact.label               "Contacte de la llibreta d'adreces">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
 <!ENTITY  event.menu.file.close.label                     "Tanca">
 <!ENTITY  event.menu.file.close.accesskey                 "T">
 <!ENTITY  event.menu.file.save.label                      "Desa">
 <!ENTITY  event.menu.file.save.accesskey                  "D">
+<!ENTITY  event.menu.item.delete.label                    "Suprimeix…">
+<!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.file.page.setup.label                "Configuració de la pàgina">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
 <!ENTITY  event.menu.file.print.label                     "Imprimeix">
@@ -163,6 +169,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Desa i tanca">
+<!ENTITY  event.toolbar.delete.label                      "Suprimeix">
 <!ENTITY  event.toolbar.attendees.label                   "Convida als assistents">
 <!ENTITY  event.toolbar.spellcheck.label                  "Verficació ortogràfica">
 <!ENTITY  event.toolbar.privacy.label                     "Privadesa">
@@ -347,6 +354,9 @@
 <!ENTITY event.freebusy.legend.unknown   "Sense informació" >
 <!ENTITY event.freebusy.legend.busy_tentative "Intent" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Fora de l'oficina" >
+<!ENTITY event.attendee.role.required           "Assistent necessari">
+<!ENTITY event.attendee.role.optional           "Assistent opcional">
+<!ENTITY event.attendee.role.chair              "Cap de la reunió">
 
 <!-- Timezone dialog -->
 

@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Subscripcions RSS">
+<!ENTITY feedSubscriptions.label "Subscripcions RSS">
 <!ENTITY subscriptionDesc.label "Nota: Si se suprimeix o canvia la carpeta d'un canal, els articles que s'hagin baixat abans no se'n veuran afectats.">
 <!ENTITY feedTitle.label "Títol:">
 <!ENTITY location.label  "Ubicació:">

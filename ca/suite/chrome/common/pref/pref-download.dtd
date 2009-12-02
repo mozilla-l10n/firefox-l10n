@@ -1,24 +1,31 @@
 <!ENTITY pref.download.title            "Baixades">
+
 <!ENTITY downloadBehavior.label "En iniciar una baixada">
-<!ENTITY downloadLocation.label         "En desar un fitxer">
-<!ENTITY finishedBehavior.label         "Quan acabi una baixada">
+<!ENTITY focusWhenStarting.label        "Mostra'm el gestor de baixades si ja estava obert, i sinó:">
+<!ENTITY focusWhenStarting.accesskey    "M">
 <!ENTITY openDM.label "Obre el gestor de baixades">
 <!ENTITY openDM.accesskey "b">
 <!ENTITY openProgressDialog.label "Obre un diàleg de progrés">
 <!ENTITY openProgressDialog.accesskey "d">
 <!ENTITY doNothing.label "No obris res">
 <!ENTITY doNothing.accesskey "N">
-<!ENTITY promptDownload.label           "Pregunta la ubicació de baixada i per defecte a">
-<!ENTITY promptDownload.accesskey       "r">
-<!ENTITY lastLocation.label             "Darrera carpeta de baixades">
-<!ENTITY lastLocation.accesskey         "D">
-<!ENTITY specifiedLocation.label        "Carpeta de baixades">
-<!ENTITY specifiedLocation.accesskey    "e">
-<!ENTITY autoDownload.label             "Baixa els fitxers automàticament a la carpeta de baixades definida">
-<!ENTITY autoDownload.accesskey         "a">
-<!ENTITY downloadFolder.label           "Carpeta de baixades actual:">
+
+<!ENTITY downloadLocation.label         "Quan es desi un fitxer">
+<!ENTITY saveTo.label                   "Desa els fitxers a">
+<!ENTITY saveTo.accesskey               "a">
 <!ENTITY chooseDownloadFolder.label     "Tria la carpeta...">
 <!ENTITY chooseDownloadFolder.accesskey "T">
+<!ENTITY alwaysAsk.label                "Demana'm sempre on desar els fitxers">
+<!ENTITY alwaysAsk.accesskey            "a">
+
+<!ENTITY downloadRetention.label        "Mantén les baixades">
+<!ENTITY removeDownloads.label          "Suprimeix les baixades">
+<!ENTITY removeDownloads.accesskey      "S">
+<!ENTITY whenCompleted.label            "Quan s'hagin baixat">
+<!ENTITY whenQuittingApp.label          "Quan surti del &brandShortName;">
+<!ENTITY neverRemove.label              "Mai">
+
+<!ENTITY finishedBehavior.label         "Quan acabi una baixada">
 <!ENTITY playSound.label                "Reprodueix un so">
 <!ENTITY playSound.accesskey            "s">
 <!ENTITY showAlert.label                "Mostra un avís">

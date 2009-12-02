@@ -4,6 +4,7 @@
 <!ENTITY description.label "El &brandShortName; pot ordenar carpetes individuals. Utilitzeu aquestes opcions per personalitzar l'ordenació d'aquesta carpeta.">
 
 <!ENTITY sortBy.label "Ordena per:">
+<!ENTITY sortBy.accesskey "n">
 <!ENTITY sortBy.name.label "Nom">
 <!ENTITY sortBy.url.label "Ubicació">
 <!ENTITY sortBy.shortcutUrl.label "Paraula clau">
@@ -13,8 +14,11 @@
 <!ENTITY sortBy.lastVisitDate.label "Visitada per darrera vegada el">
 
 <!ENTITY sortOrder.label "Tipus d'ordenació:">
+<!ENTITY sortOrder.accesskey "o">
 <!ENTITY sortAscending.label "Ascendent">
 <!ENTITY sortDescending.label "Descendent">
 
 <!ENTITY sortFoldersFirst.label "Ordena primer les carpetes">
+<!ENTITY sortFoldersFirst.accesskey "d">
 <!ENTITY sortRecursively.label "Ordena de manera recursiva">
+<!ENTITY sortRecursively.accesskey "c">

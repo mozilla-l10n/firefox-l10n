@@ -58,23 +58,49 @@
 <!ENTITY inReplyToField2.label "en-resposta-a ">
 <!ENTITY originalWebsite2.label "lloc web ">
 
-<!ENTITY editMessageDescription.label "Aço és un esborrany">
+<!ENTITY editMessageDescription.label "Esteu en un esborrany">
 <!ENTITY editMessageButton.label "Edita…">
-<!ENTITY archiveButton.label "arxiu">
-<!ENTITY trashButton.tooltiptext "suprimeix">
+<!ENTITY hdrArchiveButton.label "arxiva">
+<!ENTITY hdrArchiveButton.tooltip "arxiva aquest missatge">
 <!ENTITY hdrReplyButton.label "respon">
-<!ENTITY hdrReplyAllButton.label "respon tots">
+<!ENTITY hdrReplyButton.tooltip "respon aquest missatge">
+<!ENTITY hdrReplyAllButton.label "respon a tots">
+<!ENTITY hdrReplyAllButton.tooltip "respon al remitent i a tots els destinataris">
+<!ENTITY hdrReplyListButton.label "respon a la llista">
+<!ENTITY hdrReplyListButton.tooltip "respon a la llista de distribució">
 <!ENTITY hdrForwardButton.label "reenvia">
-<!ENTITY hdrJunkButton.label "marca com a brossa">
+<!ENTITY hdrForwardButton.tooltip "reenvia aquest missatge">
+<!ENTITY hdrJunkButton.label "brossa">
+<!ENTITY hdrJunkButton.tooltip "marca aquest missatge com a correu brossa">
+<!ENTITY hdrTrashButton.label "suprimeix">
+<!ENTITY hdrTrashButton.tooltip "suprimeix aquest missatge">
+
+<!ENTITY hdrViewToolbarShowFull.label "Mostra les icones i el text">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Mostra les icones només">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Mostra el text només">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Mostra sempre respon al remitent">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "altres accions">
+<!ENTITY otherActionsShowConversation.label "obre la conversa">
+<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "obre en una altra finestra">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "f">
+<!ENTITY otherActionsOpenInNewTab.label "obre en una altra pestanya">
+<!ENTITY otherActionsOpenInNewTab.accesskey "p">
+<!ENTITY markAsReadMenuItem.label "marca'l com a llegit">
+<!ENTITY markAsReadMenuItem.accesskey "l">
+<!ENTITY markAsUnreadMenuItem.label "marca'l com a no llegit">
+<!ENTITY markAsUnreadMenuItem.accesskey "n">
 <!ENTITY saveAsMenuItem.label "anomena i desa…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "visualitza el codi font…">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-
-<!ENTITY hideDetailsButton.label "mostra'n els detalls">
-<!ENTITY showDetailsButton.label "amaga'n els detalls">
+<!ENTITY saveAsMenuItem.accesskey "a">
+<!ENTITY viewSourceMenuItem.label "codi font">
+<!ENTITY viewSourceMenuItem.accesskey "c">
+<!ENTITY otherActionsPrint.label "imprimeix…">
+<!ENTITY otherActionsPrint.accesskey "i">
 
 <!ENTITY openAttachmentCmd.label "Obre">
 <!ENTITY openAttachmentCmd.accesskey "O">

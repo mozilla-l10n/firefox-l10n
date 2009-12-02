@@ -18,7 +18,7 @@ al lloc adequat. No obstant això, la identitat d'aquest lloc no es pot verifica
 <!ENTITY certerror.whatShouldIDo.content "Si normalment us connecteu a
 aquest lloc sense problemes, podria voler dir que algú altre
 vol fer-se'n amb la identitat i, per tant, no hauríeu de continuar.">
-<!ENTITY certerror.getMeOutOfHere.label "Treu-me d'ací!">
+<!ENTITY certerror.getMeOutOfHere.label "Treu-me d'aquí!">
 
 <!ENTITY certerror.expert.heading "Entenc els riscos">
 <!ENTITY certerror.expert.content "Si sabeu què esteu fent, podeu

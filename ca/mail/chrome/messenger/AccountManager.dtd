@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Paràmetres del compte">
 
-<!ENTITY addAccountButton.label "Afegeix un compte…">
-<!ENTITY addAccountButton.accesskey "o">
+<!ENTITY accountActionsButton.label "Accions del compte">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Afegeix un compte de correu…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Afegeix un altre tipus de compte…">
+<!ENTITY addOtherAccountButton.accesskey "t">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Suprimeix el compte">
@@ -17,5 +21,4 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 65em; height: 50em;"> 
-<!ENTITY macAccountManager.size "width: 70em; height: 55em;">
 <!ENTITY accountTree.width   "width: 20em;">

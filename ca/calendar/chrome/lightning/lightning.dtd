@@ -48,8 +48,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Cita…">
+<!ENTITY lightning.menupopup.new.event.accesskey "C">
 <!ENTITY lightning.menupopup.new.task.label     "Tasca…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendari…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Obre">
@@ -59,11 +62,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Fitxer calendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Calendari">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "Tasques">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Calendari">
+<!ENTITY lightning.menu.view.calendar.accesskey        "C">
+<!ENTITY lightning.menu.view.tasks.label               "Tasques">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Cites i tasques">
+<!ENTITY lightning.menu.eventtask.accesskey            "i">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label      "Correu">

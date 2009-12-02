@@ -1,9 +1,9 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title "Fora de línia i espai de disc">
-<!ENTITY pref.offline.caption "Fora de línia">
-<!ENTITY textStartUp "En iniciar-se:">
+<!ENTITY pref.network.title 			"Xarxa i emmagatzematge">
+<!ENTITY pref.offline.caption 			"Fora de línia">
+<!ENTITY textStartUp 					"En iniciar-se:">
 <!ENTITY textStartUp.accesskey            "n">
 <!ENTITY menuitemRememberPrevState        "Recorda l'estat en línia anterior">
 <!ENTITY menuitemAskMe                    "Demana'm l'estat en línia a l'inici">
@@ -24,6 +24,10 @@
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Demana'm si els vull baixar">
 <!ENTITY radioAskDownload.accesskey "i">
+<!ENTITY mailConnections.caption          "Connexions del correu">
+<!ENTITY mailnewsTimeout.label            "Temps màxim de connexió:">
+<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeoutSeconds.label     "segons">
 <!ENTITY Diskspace "Espai de disc">
 <!ENTITY offlineCompact.label "Compacta les carpetes quan s'estalviïn més de">
 <!ENTITY offlineCompact.accesskey "C">

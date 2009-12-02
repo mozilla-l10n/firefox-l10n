@@ -42,8 +42,10 @@
 <!ENTITY generalSettings.caption "Paràmetres generals">
 <!ENTITY confirmMove.label "Demana confirmació per a moure carpetes a la paperera">
 <!ENTITY confirmMove.accesskey "c">
-<!ENTITY preserveThreading.label          "Conserva l'encadenament en ordenar els missatges">
+<!ENTITY preserveThreading.label          "Conserva la conversa en ordenar els missatges">
 <!ENTITY preserveThreading.accesskey      "t">
+<!ENTITY mailBiffOnNewWindow.label        "Només comprova si hi ha correu nou després d'obrir el Correu i grups de discussió">
+<!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
 <!ENTITY defaultMailSettings.description  "Fes el &brandShortName; l'aplicació per defecte per a:">
 <!ENTITY setDefaultMail.label             "Correu electrònic">
@@ -62,14 +64,4 @@
 <!ENTITY useDefault.accesskey "r">
 <!ENTITY rememberLastMsg.label "Recorda el darrer missatge seleccionat">
 <!ENTITY rememberLastMsg.accesskey "R">
-<!ENTITY toolbarIntro.caption "Seleccioneu els botons que voleu veure a la barra d'eines ">
-<!ENTITY fileButton.label "Fitxer">
-<!ENTITY fileButton.accesskey "F">
-<!ENTITY nextButton.label "Següent">
-<!ENTITY nextButton.accesskey "s">
-<!ENTITY junkMailButton.label "Correu brossa">
-<!ENTITY junkMailButton.accesskey "C">
-<!ENTITY printButton.label "Imprimeix">
-<!ENTITY printButton.accesskey "I">
-<!ENTITY stopButton.label "Atura">
-<!ENTITY stopButton.accesskey "A">
+

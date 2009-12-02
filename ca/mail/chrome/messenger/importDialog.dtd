@@ -47,8 +47,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importa">
-<!ENTITY importAll.label    		"Importa-ho tot">
-<!ENTITY importDialog.allTitle    "Importa-ho tot">
+<!ENTITY importAll.label    	  "Importa-ho tot">
 <!ENTITY importAll.accesskey      "t">
 <!ENTITY importMail.label         "Correu">
 <!ENTITY importMail.accesskey     "C">

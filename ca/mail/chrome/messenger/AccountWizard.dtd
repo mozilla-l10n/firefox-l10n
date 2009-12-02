@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "Cada compte té una identitat, que és la informació que us identifica davant dels altres quan aquests reben els vostres missatges.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Introduïu el nom que voleu que aparegui en el camp &quot;Des de&quot; dels missatges de sortida">
+<!ENTITY fullnameDesc.label "Introduïu el nom que voleu que aparegui en el camp &quot;De&quot; dels missatges de sortida">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
 	1, do not translate two of "&quot;"
 	2, Use localized full name instead of "John Smith"
@@ -65,7 +65,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;. Podeu modificar els paràmetres del vostre servidor de sortida triant Paràmetres del compte des del menú Eines. ">
+<!ENTITY haveSmtp1.suffix2 "&quot;. Podeu modificar els paràmetres dels vostres servidors de sortida en les opcions del compte. ">
 
 <!-- Entities for Login page -->
 
@@ -83,13 +83,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "S'utilitzarà el vostre nom d'usuari de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;. Podeu modificar els paràmetres del vostre servidor de sortida triant Paràmetres del compte des del menú Eines.">
+<!ENTITY haveSmtp2.suffix2 "&quot;. Podeu modificar els vostres servidors de sortida en les opcions del compte.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, és idèntic al vostre servidor d'entrada, el vostre nom d'usuari entrant s'utilitzarà per accedir-hi. Podeu modificar la configuració del vostre servidor de sortida triant Paràmetres del compte des del menú Eines.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, és idèntic al vostre servidor d'entrada, el vostre nom d'usuari entrant s'utilitzarà per accedir-hi. Podeu modificar la configuració dels vostres servidors de sortida en les opcions del compte.">
 
 <!-- Entities for Account name page -->
 

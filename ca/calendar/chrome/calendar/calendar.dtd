@@ -100,6 +100,13 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "Mes següent" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Mes anterior" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Un dia després" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Un dia abans" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Una setmana després" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Una setmana abans" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mes després" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mes abans" >
+
 <!ENTITY calendar.newtask.button.label          "Nova tasca" >
 <!ENTITY calendar.newevent.button.label         "Nova cita" >
 
@@ -298,6 +305,10 @@
 <!ENTITY calendarproperties.firealarms.label "Mostra les alertes">
 <!ENTITY calendarproperties.cache.label    "Memòria cau (EXPERIMENTAL, cal tornar a engegar)">
 <!ENTITY calendarproperties.enabled.label  "Mostra aquest calendari">
+<!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han deshabilitat o s'han desinstal·lat complements.">
+<!ENTITY calendarproperties.unsubscribe.label              "Cancel·la la subscripció">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "C">
+
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publica el calendari">
@@ -325,7 +336,7 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalls…">
-<!ENTITY calendar.error.number "Error número:">
+<!ENTITY calendar.error.code "Codi d'error:">
 <!ENTITY calendar.error.description "Descripció:">
 <!ENTITY calendar.error.title "S'ha produït un error">
 

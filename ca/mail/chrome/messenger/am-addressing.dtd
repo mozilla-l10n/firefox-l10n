@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "sota el text citat (recomanat)">
 <!ENTITY aboveText.label "sota la resposta (abans del text citat)">
+<!ENTITY includeSigOnReply.label              "Inclou la signatura a les respostes">
+<!ENTITY includeSigOnReply.accesskey          "r">
+<!ENTITY includeSigOnForward.label            "Inclou la signatura als reenviaments">
+<!ENTITY includeSigOnForward.accesskey        "r">

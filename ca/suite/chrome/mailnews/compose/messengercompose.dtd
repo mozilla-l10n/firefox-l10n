@@ -118,7 +118,7 @@
 
 <!ENTITY fileCarbonCopyCmd.label "Envia una còpia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "i">
-<!ENTITY fileHereMenu.label "Arxiva'l ací">
+<!ENTITY fileHereMenu.label "Arxiva'l aquí">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->

@@ -4,10 +4,8 @@
 
 <!ENTITY forwardMsg.label                     "Reenvia missatges:">
 <!ENTITY forwardMsg.accesskey                 "n">
-<!ENTITY inline.label                         "Insert">
-<!ENTITY inline.accesskey                     "I">
+<!ENTITY inline.label                         "Insereix">
 <!ENTITY asAttachment.label                   "Com a adjunció">
-<!ENTITY asAttachment.accesskey               "a">
 <!ENTITY addExtension.label                   "afegeix l'extensió al nom del fitxer">
 <!ENTITY addExtension.accesskey               "f">
 
@@ -33,14 +31,14 @@
 
 <!ENTITY warnOnSendAccelKey.label             "Confirma quan s'utilitzi dreceres del teclat per a enviar missatges">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
-<!ENTITY autoSave.label                       "Deseu automàticament cada">
+<!ENTITY autoSave.label                       "Desa automàticament cada">
 <!ENTITY autoSave.accesskey                   "u">
 <!ENTITY autoSaveEnd.label                    "minuts">
 
 <!ENTITY emailCollectionPicker.label           "Afegeix automàticament les adreces electròniques de sortida a:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "Compleció automàtica d'adreces">
-<!ENTITY autocompleteText.label                "Quan adrecis els missatges, cerqueu entrades que hi coincideixin a:">
+<!ENTITY autocompleteText.label                "Quan s'estigui escrivint adreces en els missatges, cerca adreces que coincideixin a:">
 <!ENTITY addressingEnable.label                "Llibretes d'adreces locals">
 <!ENTITY addressingEnable.accesskey            "a">
 <!ENTITY directories.label                     "Servidor de directori:">
@@ -53,3 +51,7 @@
 <!ENTITY sendOptions.label                     "Opcions d'enviament…">
 <!ENTITY sendOptions.accesskey                 "v">
 
+<!ENTITY attachmentReminder.label              "Comprova si falten fitxers adjunts">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Paraules clau…">
+<!ENTITY attachmentReminderOptions.accesskey   "P">

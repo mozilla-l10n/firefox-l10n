@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organització:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Adjunta aquesta signatura:">
-<!ENTITY signature.accesskey "A">
+<!ENTITY signatureText.label "Text de la signatura:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Utilitza HTML (ex., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer (text, HTML, o imatges):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY choose.label "Trieu…">
 <!ENTITY choose.accesskey "T">
 <!ENTITY editVCard.label "Edita la targeta electrònica…">

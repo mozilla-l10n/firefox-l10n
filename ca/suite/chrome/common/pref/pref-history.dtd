@@ -11,11 +11,17 @@
 <!ENTITY  expireSites1.label                "Recorda com a màxim">
 <!ENTITY  expireSites1.accesskey            "m">
 <!ENTITY  expireSites2.label                "les pàgines visitades">
-<!ENTITY clearHistory.label "Buida l'historial">
-<!ENTITY clearHistory.accesskey "r">
+<!ENTITY  clearHistory.label "Buida l'historial">
+<!ENTITY  clearHistory.accesskey "r">
 
 <!ENTITY  locationBarHistory.caption        "Historial de la barra d'ubicació">
-<!ENTITY clearLocationBar.label "Buida la llista de llocs emmagatzemats al menú de la barra d'ubicació.">
-<!ENTITY clearLocationBarButton.label "Buida la barra d'ubicació">
+<!ENTITY clearLocationBar.label "Neteja la llista de llocs emmagatzemats al menú de la barra d'ubicació.">
+<!ENTITY clearLocationBarButton.label "Neteja la barra d'ubicació">
 <!ENTITY clearLocationBarButton.accesskey "b">
-  
+<!ENTITY  formfillHistory.caption           "Historial de formularis i cerca">
+<!ENTITY  enableFormfill.label              "Habilita l'historial de formularis i cerca">
+<!ENTITY  enableFormfill.accesskey          "H">
+<!ENTITY  formfillExpire.label              "Recorda l'historial de formularis i cerca fins a ">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "dies">
+

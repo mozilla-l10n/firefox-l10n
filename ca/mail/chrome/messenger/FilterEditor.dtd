@@ -14,9 +14,11 @@
 
 <!ENTITY contextDesc.label "Aplica el filtre quan:">
 <!ENTITY contextDesc.accesskey "q">
-<!ENTITY contextIncoming.label "Es comprova el correu">
-<!ENTITY contextManual.label "S'executa manualment">
-<!ENTITY contextBoth.label "Es comprova el correu o s'executa manualment">
+<!ENTITY contextIncoming.label "Es comprovi el correu">
+<!ENTITY contextManual.label "S'executi manualment">
+<!ENTITY contextBoth.label "Es comprovi el correu o s'executi manualment">
+<!ENTITY contextPostPlugin.label "Es comprovi el correu (després de classificar)">
+<!ENTITY contextPostPluginBoth.label "Es comprovi el correu (després de classificar) o s'executi manualment">
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
 
@@ -25,15 +27,15 @@
 <!ENTITY forwardTo.label "Reenvia el missatge a">
 <!ENTITY replyWithTemplate.label "Respon amb plantilla">
 <!ENTITY markMessageRead.label "Marca'l com a llegit">
-<!ENTITY markMessageStarred.label "Marca'l amb un senyalador">
+<!ENTITY markMessageStarred.label "Senyala'l">
 <!ENTITY setPriority.label "Defineix la prioritat a">
 <!ENTITY addTag.label "Etiqueta el missatge">
 <!ENTITY setJunkScore.label "Especifica l'estat del correu brossa com a:">
 <!ENTITY deleteMessage.label "Suprimeix el missatge">
 <!ENTITY deleteFromPOP.label "Suprimeix-lo del servidor POP">
 <!ENTITY fetchFromPOP.label "Baixa'l del servidor POP ">
-<!ENTITY ignoreThread.label "Ignora la cadena">
-<!ENTITY ignoreSubthread.label "Ignora la subcadena">
-<!ENTITY watchThread.label "Vigila la cadena">
+<!ENTITY ignoreThread.label "Ignora tota la conversa">
+<!ENTITY ignoreSubthread.label "Ignora la subconversa">
+<!ENTITY watchThread.label "Vigila la conversa">
 <!ENTITY stopExecution.label "Atura l'execució del filtre">
 

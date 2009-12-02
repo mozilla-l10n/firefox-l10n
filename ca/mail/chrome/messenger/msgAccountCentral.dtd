@@ -16,6 +16,6 @@
 <!ENTITY junkSettings.label "Paràmetres del correu brossa…">
 <!ENTITY offlineLink.label "Paràmetres de fora de línia">
 
+<!ENTITY feedsSectionHdr.label "Canals">
+<!ENTITY subscribeFeeds.label "Gestiona les subscripcions">
 
-<!ENTITY rssSectionHdr.label "Blocs i notícies RSS">
-<!ENTITY subscibeRSS.label "Gestiona les subscripcions">

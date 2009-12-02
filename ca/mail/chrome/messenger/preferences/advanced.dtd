@@ -8,13 +8,16 @@
 
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY systemDefaults.label              "Paràmetres per defecte del sistema">
-<!ENTITY alwaysCheckDefault.label          "Comprova sempre si el &brandShortName; és el client de correu per defecte a l'inici">
+<!ENTITY systemIntegration.label       "Integració amb el sistema">
+<!ENTITY alwaysCheckDefault.label          "Comprova si el &brandShortName; és el client de correu per defecte">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
+<!ENTITY searchIntegration.label       "Permet al &searchIntegration.engineName; que cerqui missatges">
+<!ENTITY searchIntegration.accesskey   "c">
 <!ENTITY checkNow.label             "Comprova-ho ara">
 <!ENTITY checkNow.accesskey         "h">
-<!ENTITY showCondensedAddresses.label "Ensenya només el 'Nom a mostrar' per a aquella gent a la llibreta d'adreces.">
-<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY showCondensedAddresses.label "Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces">
+<!ENTITY showCondensedAddresses.accesskey "n">
 
 <!ENTITY autoMarkAsRead.label          "Marca els missatges com a llegits automàticament">
 <!ENTITY autoMarkAsRead.accesskey      "a">
@@ -27,15 +30,21 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "segons">
 <!ENTITY openMsgIn.label               "Obre els missatges en:">
-<!ENTITY reuseExpRadio0.label          "Una finestra de missatge nova">
+<!ENTITY openMsgInNewTab.label         "Una pestanya nova">
+<!ENTITY openMsgInNewTab.accesskey     "p">
+<!ENTITY reuseExpRadio0.label          "Una finestra nova">
 <!ENTITY reuseExpRadio0.accesskey      "f">
-<!ENTITY reuseExpRadio1.label          "Una finestra de missatge ja existent">
-<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio1.label          "Una finestra ja oberta">
+<!ENTITY reuseExpRadio1.accesskey      "j">
+<!ENTITY closeMsgWindowOnDelete.label  "Tanca la finestra de missatges quan es suprimeixi">
+<!ENTITY closeMsgWindowOnDelete.accesskey "T">
+
+
 <!ENTITY configEditDesc.label          "Configuració avançada">
-<!ENTITY configEdit.label              "Editor de configuració…">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona els avisos de rebuda">
-<!ENTITY showReturnReceipts.label      "Avisos de rebuda…">
+<!ENTITY configEdit.label              "Editor de la configuració…">
+<!ENTITY configEdit.accesskey          "c">
+<!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona les confirmacions de recepció">
+<!ENTITY showReturnReceipts.label      "Confirmacions de recepció…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
 <!-- Display and Reading Settings -->
@@ -85,8 +94,13 @@
 <!ENTITY clearCacheNow.label             "Neteja-la ara">
 <!ENTITY clearCacheNow.accesskey         "N">
 
-
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Quan un servidor demani el meu certificat personal:">
+<!ENTITY certs.auto                      "Selecciona'n un automàticament">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Demana-m'ho cada vegada">
+<!ENTITY certs.ask.accesskey             "c">
+
 <!ENTITY viewCertificates.label         "Visualitza els certificats">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Llistes de revocació">

@@ -1,6 +1,4 @@
 
-<!ENTITY enbJsCheckMailNews.label "Missatgeria">
-<!ENTITY enbJsCheckMailNews.accesskey "M">
 <!ENTITY enbPluginCheckMailNews.label "Missatgeria">
 <!ENTITY enbPluginCheckMailNews.accesskey "i">
 
@@ -17,6 +15,5 @@
 <!ENTITY junk.label                       "Correu brossa">
 <!ENTITY tags.label "Etiquetes">
 <!ENTITY characterEncoding.label          "Codificació de caràcters">
-<!ENTITY offline.label "Fora de línia i espai de disc">
-
+<!ENTITY networkStorage.label             "Xarxa i emmagatzematge">
 

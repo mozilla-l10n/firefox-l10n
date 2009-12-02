@@ -3,7 +3,7 @@
 <!ENTITY composeMsgLink.label "Redacta un nou missatge">
 
 <!ENTITY newsSectionHdr.label "Grups de discussió">
-<!ENTITY subscribeNewsLink.label "Subscriu-te als grups de discussió">
+<!ENTITY subscribeNewsLink.label "Subscriu-me als grups de discussió">
 
 <!ENTITY accountsSectionHdr.label "Comptes">
 <!ENTITY subscribeImapFolders.label   "Gestiona les subscripcions de carpeta">
@@ -13,9 +13,9 @@
 <!ENTITY advFeaturesSectionHdr.label "Característiques avançades">
 <!ENTITY searchMsgsLink.label "Cerca missatges">
 <!ENTITY filtersLink.label "Crea filtres de missatge">
-<!ENTITY junkSettings.label "Paràmetres del correu brossa...">
+<!ENTITY junkSettings.label "Paràmetres del correu brossa…">
 <!ENTITY offlineLink.label "Paràmetres de fora de línia">
 
+<!ENTITY feedsSectionHdr.label "Canals">
+<!ENTITY subscribeFeeds.label "Gestiona les subscripcions">
 
-<!ENTITY rssSectionHdr.label "Blocs i notícies RSS">
-<!ENTITY subscibeRSS.label "Gestiona les subscripcions">

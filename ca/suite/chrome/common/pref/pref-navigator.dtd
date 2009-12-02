@@ -12,6 +12,8 @@
 <!ENTITY homePageRadio.accesskey "g">
 <!ENTITY lastPageRadio.label "Darrera pàgina visitada">
 <!ENTITY lastPageRadio.accesskey "D">
+<!ENTITY restoreSessionRadio.label      "Recupera la sessió anterior">
+<!ENTITY restoreSessionRadio.accesskey  "p">
 
 <!ENTITY header2.label "Pàgina d'inici">
 <!ENTITY homePageIntro.label "En prémer el botó Inici anireu a aquesta pàgina.">

@@ -7,15 +7,13 @@
 <!ENTITY searchLocalSystem.accesskey "i">
 <!ENTITY resetButton.label "Buida">
 <!ENTITY resetButton.accesskey "B">
-<!ENTITY helpButton.label            "Ajuda">
-<!ENTITY helpButton.accesskey        "j">
 <!ENTITY openButton.label "Obre">
 <!ENTITY openButton.accesskey "O">
 <!ENTITY deleteButton.label "Suprimeix">
 <!ENTITY deleteButton.accesskey "u">
 <!ENTITY searchDialogTitle.label "Cerca de missatges">
 <!ENTITY results.label "Resultats">
-<!ENTITY fileHereMenu.label "Arxiva'l ací">
+<!ENTITY fileHereMenu.label "Arxiva'l aquí">
 <!ENTITY fileHereMenu.accesskey "A">
 <!ENTITY fileButton.label "Arxiva">
 <!ENTITY fileButton.accesskey "A">

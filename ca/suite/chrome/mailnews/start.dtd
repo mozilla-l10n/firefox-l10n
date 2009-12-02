@@ -38,13 +38,14 @@
 <!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
 
 
-<!ENTITY startpage.title "Benvinguts a la missatgeria del &brandShortName;">
-<!ENTITY headline.label "Benvinguts a la Missatgeria del <a href='&vendorURL;'>&brandShortName;</a>!">
+<!ENTITY startpage.title "Us donem la benvinguda a la Missatgeria del &brandShortName;">
+<!ENTITY headline.label
+'Us donem la benvinguda a la Missatgeria del <a id="vendorURL" href="">&brandShortName;</a>!'>
 <!ENTITY description.label "La Missatgeria del &brandShortName; és un potent client de correu i grups de discussió lliure. S'hi implementa una avançada detecció del correu brossa i altres característiques pioneres.">
 <!ENTITY features.title "Característiques">
 <!ENTITY feat_multiacc.label "Múltiples comptes">
 <!ENTITY feat_junk.label "Detecció de correu brossa">
-<!ENTITY feat_rss.label "Lector d'RSS">
+<!ENTITY feat_feeds.label "Lector de canals">
 <!ENTITY feat_filters.label "Filtres de missatge">
 <!ENTITY feat_htmlmsg.label "Missatges HTML">
 <!ENTITY feat_abook.label "Llibreta d'adreces">
@@ -52,6 +53,13 @@
 <!ENTITY feat_integration.label "Estreta integració amb el conjunt d'aplicacions del &brandShortName;">
 <!ENTITY dict.title "Diccionaris">
 <!ENTITY dict_intro.label "Els diccionaris serveixen per a comprovar l'ortografia dels vostres missatges.">
-<!ENTITY dict_info.label "<p><img src='http://br.mozdev.org/thunderbird/install-spell.png' alt='' /><a href='ftp://ftp.softcatala.org/pub/softcatala/mozilla-extensions/myspell/diccionari-ca.xpi' onclick='installDic(this);return false'>Feu clic ací per a instal·lar el corrector ortogràfic en català</a>. També podeu baixar-vos <a href='http://www.softcatala.org/projectes/mozilla/diccionari/'>més correctors en altres llengües</a>.</p>">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY dict_info.label
+'Es poden instal·lar llengües addicionals de la secció de
+<a id="dictURL" href="">diccionaris</a> del
+<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Més informació">
-<!ENTITY info_bugs.label "<a href='http://www.mozilla.org/mailnews/'>Agraïm</a> els informes d'errors i tot tipus de propostes per a les properes versions. Abans llegiu les <a href='&releaseURL;'>notes de la versió</a> i consulteu el <a href='https://bugzilla.mozilla.org/query.cgi'>Bugzilla</a>.">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label
+'<a href="http://www.mozilla.org/mailnews/">Agraïm</a> informes sobre errors i sol·licituds de noves característiques, però abans de res llegiu les <a id="releaseNotesURL" href="">notes de la versió</a> i consulteu el
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
