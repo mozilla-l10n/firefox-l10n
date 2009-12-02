@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Integració amb el sistema">
+<!ENTITY defaultClient.intro  "Utilitza el &brandShortName; com a client per defecte per:">
+
+<!ENTITY email.label "Correu electrònic">
+<!ENTITY newsgroups.label "Grups de notícies">
+<!ENTITY feeds.label "Canals">
+
+<!ENTITY checkOnStartup.label "Comprova-ho sempre quan s'inicia el &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "s">
+
+<!ENTITY searchIntegration.label "Permet al &searchIntegration.engineName; que cerqui missatges">
+<!ENTITY searchIntegration.accesskey "c">

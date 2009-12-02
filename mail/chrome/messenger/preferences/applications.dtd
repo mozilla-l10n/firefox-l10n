@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Tipus de contingut">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Acció">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Cerca">
+
+<!ENTITY saveTo.label                 "Desa els fitxers a">
+<!ENTITY saveTo.accesskey             "s">
+<!ENTITY alwaysAsk.label              "Demana'm sempre on vull desar els fitxers">
+<!ENTITY alwaysAsk.accesskey          "a">
+<!ENTITY chooseFolderWin.label        "Navega…">
+<!ENTITY chooseFolderWin.accesskey    "v">
+<!ENTITY chooseFolderMac.label        "Tria…">
+<!ENTITY chooseFolderMac.accesskey    "T">
