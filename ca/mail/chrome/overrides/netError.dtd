@@ -1,0 +1,181 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Carregant la pàgina s'ha produït un problema">
+<!ENTITY retry.label "Proveu-ho de nou">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "No s'ha pogut contactar">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Aquesta adreça està restringida">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "No s'ha trobat el servidor">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Comproveu que no hi hagin error a l'adreça, per exemple 
+    <strong>ww</strong>.exemple.com en comptes de
+    <strong>www</strong>.exemple.com</li>
+  <li>Si no podeu carregar cap pàgina, comproveu la connexió de xarxa 
+	del vostre ordinador.</li>
+  <li>Si el vostre ordinador o la vostra xarxa estan protegits
+	amb un tallafocs o un servidor intermediari, assegureu-vos que 
+    el &brandShortName; té permís per a accedir al web.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Comproveu que el nom del fitxer estigui ben escrit i que les majúscules i 
+     minúscules estan ben posades.</li>
+  <li>Comproveu que el fitxer no s'hagi mogut o se li hagi canviat el nom o s'hagi esborrat.</li>
+</ul>
+">
+
+<!ENTITY generic.title "Ep!">
+<!ENTITY generic.longDesc "
+<p>El &brandShortName; no ha pogut carregar aquesta pàgina per algun motiu.</p>
+">
+
+<!ENTITY malformedURI.title "L'adreça no és vàlida">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Les adreces web normalment s'escriuen així 
+    <strong>http://www.example.com/</strong></li>
+  <li>Assegureu-vos que esteu utilitzant la barra inclinada (ex.
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "La connexió s'ha tallat">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Mode fora de línia">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Poseu el &brandShortName; en mode en línia i torneu-ho a intentar.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Error de codificació del contingut">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Contacteu amb els propietaris del lloc web per a informar-los del problema.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Tipus de fitxer insegur">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Contacteu amb els propietaris del lloc web per a informar-los del problema.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "La connexió s'ha tallat">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "La connexió no respon">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "No s'ha entès l'adreça">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Segurament necessiteu instal·lar algun altre programari per a obrir aquesta adreça.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your computer has a working network connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>This problem can sometimes be caused by disabling or refusing to accept
+    cookies.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Check to make sure your system has the Personal Security Manager
+    installed.</li>
+  <li>This might be due to a non-standard configuration on the server.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Secure connection failed">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Secure connection failed">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>This could be a problem with the server's configuration, or it could be
+someone trying to impersonate the server.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Suspected attack site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected web forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+
+<!ENTITY securityOverride.linkText "Or you can add an exception…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
+<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to thunderbird. -->
+
+<!ENTITY securityOverride.warningText "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

@@ -1,0 +1,4 @@
+<!ENTITY window.title             "Resum del missatge">
+<!ENTITY selectedmessages.label   "Missatges seleccionats">
+<!ENTITY archive.label            "arxiu">
+<!ENTITY delete.label             "suprimeix">

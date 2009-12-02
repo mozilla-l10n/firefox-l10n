@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Cerca de Windows">
-<!ENTITY searchIntegration.title "Integració amb la &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Us agradaria habilitar la &searchIntegration.engineName; per a indexar i cercar des del &brandShortName; els missatges de correu i grups de notícies?">
-
-<!ENTITY searchIntegration.accept "Habilita la &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "No habilitis la &searchIntegration.engineName;">

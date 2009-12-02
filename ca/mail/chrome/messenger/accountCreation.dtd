@@ -1,0 +1,76 @@
+<!ENTITY autoconfigWizard.title          "Configuració del compte de correu">
+<!ENTITY name.label                      "El vostre nom:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Nom i cognoms">
+<!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
+<!ENTITY email.label                     "Adreça electrònica:">
+<!ENTITY email.accesskey                 "A">
+<!ENTITY email.emptytext                 "email@exemple.com">
+<!ENTITY password.label                  "Contrasenya:">
+<!ENTITY password.accesskey              "C">
+<!ENTITY password.emptytext              "Contrasenya">
+<!ENTITY password.text                   "Opcional, només es farà servir per a validar el vostre usuari">
+
+<!ENTITY accountInformation.label        "Informació del compte">
+<!ENTITY username2.label                 "Usuari:">
+<!ENTITY incoming.label                  "Sortida:">
+<!ENTITY outgoing.label                  "Entrada:">
+<!ENTITY noEncryption.label              "Cap">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Configuració manual…">
+<!ENTITY manualSetup.accesskey           "m">
+<!ENTITY cancel.label                    "Canceŀla">
+<!ENTITY cancel.accesskey                "n">
+<!ENTITY continue.label                  "Continua">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Torna a començar">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "Atura">
+<!ENTITY stop.accesskey                  "A">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Prova la configuració">
+<!ENTITY retest.accesskey                "P">
+<!ENTITY edit.label                      "Edita">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Recorda la contrasenya">
+<!ENTITY rememberPassword.accesskey      "R">
+
+<!ENTITY warning.label                   "Atenció!">
+<!ENTITY incomingSettings.label          "Opcions de recepció:">
+<!ENTITY outgoingSettings.label          "Opcions d'enviament:">
+<!ENTITY technicaldetails.label          "Detalls tècnics">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Comprenc els riscs.">
+<!ENTITY confirmWarning.accesskey        "r">
+
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Crea un compte">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Modifica les opcions">
+<!ENTITY changeSettings.accesskey        "M">
+
+<!ENTITY contactYourProvider.description "El &brandShortName; us podrà donar accés al vostre correu amb les opcions que heu configurat. Tot i així, hauríeu de comentar a l'administrador o al proveïdor de correu que les connexions no estan bé així. Per a més informació consulteu les PMF del Thunderbird.">
+
+<!ENTITY insecureServer.tooltip.title    "Atenció! Això és un servidor insegur.">
+<!ENTITY insecureServer.tooltip.details  "Per a més informació feu un clic al cercle.">
+
+<!ENTITY insecureUnencrypted.description   "El correu s'envia desencriptat, per tant la vostra contrasenya (i el vostre missatge) es poden llegir fàcilment. El &brandShortName; us deixarà que utilitzeu el vostre correu, però hauríeu de contactar amb el vostre proveïdor perquè configuri una connexió segura al servidor.">
+<!ENTITY insecureSelfSigned.description  "El servidor utilitza un certificat que no és de confiança, per tant no ens podem estar segurs que ningú estigui interceptant les comunicacions entre el &brandShortName; i el vostre servidor. El &brandShortName; us permetrà accedir al vostre correu, però hauríeu de comentar al vostre proveïdor que configuri el servidor amb un certificat que sigui de confiança.">
+<!ENTITY secureServer.description        "Felicitats! Aquest servidor és segur.">

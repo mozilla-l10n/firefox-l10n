@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "Client per defecte">
-<!ENTITY defaultClient.intro  "Utilitza el &brandShortName; com client per defecte per a:">
-
-<!ENTITY email.label "Correu electrònic">
-<!ENTITY newsgroups.label "Grups de discussió">
-<!ENTITY rss.label "Canals RSS">
-
-<!ENTITY checkOnStartup.label "Fes sempre aquesta comprovació quan s'iniciï el &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "a">
