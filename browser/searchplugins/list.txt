@@ -1,5 +1,5 @@
 wikipedia-it
-demauro
+hoepli
 creativecommons
 eBay-it
 google

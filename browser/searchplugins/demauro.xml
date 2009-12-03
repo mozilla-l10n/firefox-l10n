@@ -1,9 +1,0 @@
-<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
-<ShortName>De Mauro</ShortName>
-<Description>Dizionario della lingua italiana De Mauro Paravia</Description>
-<InputEncoding>ISO-8859-1</InputEncoding>
-<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAohJREFUOI2lkjtoU2EYhp+cnOaq0WDFSJUITUSlhppaqtYuBRVBlA4OOggO4qCDl8mh6CJO4iLiUNBFUbGDgpda6rVXtfUCsa2tt7Yx0aSlzUlObqf5HKKthTr5Lv/P+/Nevo/fFBER/gNqpvkhJf2fSY3HAXBsqUbduxOA7JNuLG1dRFd5WLhnOwuWLpnh1Y4+onYVJa8lSTeepud6MwPaJFOnzjG1+yDJ2DjTpYvJXLlB9NAxoqOjqL9TLW1d/Gg8QeebXogkdflAuVw7fFIiIhLufidDlMrT/UclIiJj+45LCLe0XbstMRGJiMj3hiPSynLpGvwoiujpYnXFDIBSE8Batw1ncwuxsTB5hGkKEBrCAEil0UODxSqZLMq8m6lejzX7k9jzbkacJZhRKLx4TQowWtv58jFEzuqEQmHWoFAozOgV96Ii9y1M3mFl0uPD9naAbCJB8sFT4g4nLosV42+DvyE2a9EoqQOQr6/BrSVJPO7gx9AwbK6cDZu5KLNepkyWPBl0VUFiE1gPNGBZ5EZvukVnPIKntobpXA5VVf/R4Oc4NhyIZyn5hAbLSnEEK1Bb7mMOrsPr9wFgGMb8BmrPe0awsziwlpKEjsm1AGVLEJehUb5rB067A2s2Q1bTUBSHfY5YGfxK+mU7fVVrWFkZIKfrmOw2StatJoqbskDF3LDY2YsoTLDi7gumvJdJXr3JM7+H+qYLqG1d2Hp7Sd15RG5DkHHvCpa7XMSb72Ejjvb8FeZ99dvP9G+thpUeRj4NE66rpOrSecr9Pr72D5IqLyOqabhqN2L4vXhW+xj6NIxeu4mkxYIpIiIqFH/ZH6TS4LTPnvO9/RkBwEil59vlXNE/uF+2NR/CriCtaQAAAABJRU5ErkJggg==</Image>
-<Url type="text/html" method="GET" template="http://www.demauroparavia.it/@{searchTerms}">
-</Url>
-<SearchForm>http://www.demauroparavia.it/</SearchForm>
-</SearchPlugin>
