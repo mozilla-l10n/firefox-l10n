@@ -30,8 +30,8 @@
 <!ENTITY helperApp.save            "保存">
 <!ENTITY helperApp.nothing         "无">
 
-<!ENTITY formHelper.previous       "上一页">
-<!ENTITY formHelper.next           "下一页">
+<!ENTITY formHelper.previous       "上一个">
+<!ENTITY formHelper.next           "下一个">
 <!ENTITY formHelper.done           "完成">
 
 <!ENTITY addonsHeader.label        "附加组件">
