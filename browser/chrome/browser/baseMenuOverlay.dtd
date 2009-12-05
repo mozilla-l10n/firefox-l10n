@@ -13,7 +13,6 @@
 <!ENTITY productHelp.accesskey "A">
 <!ENTITY helpForIEUsers.label "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Notas de publicación">
 <!ENTITY helpReleaseNotes.accesskey "N">
