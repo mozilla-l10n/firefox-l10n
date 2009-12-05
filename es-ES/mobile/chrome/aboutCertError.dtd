@@ -12,5 +12,5 @@
 <b>Incluso aunque confíe en este sitio, este error puede significar que alguien esté interfiriendo en su conexión.</b>">
 <!ENTITY certerror.expert.contentPara2 "No agregue una excepción a menos que haya una razón seria por la que este sitio no use información verificada.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sitio ">
-<!ENTITY certerror.addPermanentException.label "Añadir excepxión de forma permanente">
+<!ENTITY certerror.addPermanentException.label "Añadir excepción de forma permanente">
 <!ENTITY certerror.technical.heading "Detalles técnicos">
