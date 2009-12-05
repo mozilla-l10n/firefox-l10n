@@ -31,10 +31,10 @@
 <!ENTITY addonsLocal.label "Sus complementos">
 <!ENTITY addonsUpdate.label "Actualizar">
 <!ENTITY addonsRepo.label "Conseguir complementos">
-<!ENTITY addonsRecommended.label "Recomendados">
+<!ENTITY addonsRecommended.label "Recomendado">
 <!ENTITY addonsSearch.label "Buscar">
 <!ENTITY addonsSearch2.emptytext "Buscar en el catálogo">
-<!ENTITY addonsSearch.recommended "Recomendados">
+<!ENTITY addonsSearch.recommended "Recomendado">
 <!ENTITY addonOptions.label "Opciones">
 <!ENTITY addonEnable.label "Activar">
 <!ENTITY addonDisable.label "Desactivar">
