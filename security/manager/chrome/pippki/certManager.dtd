@@ -80,16 +80,14 @@
 <!ENTITY certmgr.editemailcert.donttrust "No confiar en la autenticidad de este certificado.">
 <!ENTITY certmgr.deletecert.title "Eliminar certificado">
 <!ENTITY certmgr.deletecert.beforename "Ha pedido que se elimine este certificado:">
-<!ENTITY certmgr.deletecert.aftername "¿Esta seguro de que quiere eliminar este certificado?">
+<!ENTITY certmgr.deletecert.aftername "¿Está seguro de que quiere eliminar este certificado?">
 <!ENTITY certmgr.deleteusercert.title "Eliminar su certificado">
 <!ENTITY certmgr.deleteusercert.beforename "Ha pedido la eliminación de este certificado:">
 <!ENTITY certmgr.deleteusercert.aftername "Una vez haya eliminado este certificado, no podrá leer el correo que haya sido cifrado con él.">
 <!ENTITY certmgr.certname "Nombre del certificado">
 <!ENTITY certmgr.certserver "Servidor">
-<!ENTITY certmgr.typesofoverrides "Excepciones">
 <!ENTITY certmgr.override_lifetime "Vida útil">
 <!ENTITY certmgr.tokenname "Dispositivo de seguridad">
-<!ENTITY certmgr.purpose "Propósitos">
 <!ENTITY certmgr.issued "Emitido el">
 <!ENTITY certmgr.expires "Expira el">
 <!ENTITY certmgr.email "Dirección de correo electr.">
