@@ -106,7 +106,7 @@
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Opmaak">
-<!ENTITY formatMenu.accesskey "M">
+<!ENTITY formatMenu.accesskey "m">
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opties">
@@ -129,7 +129,7 @@
 <!ENTITY dsnMenu.label "Afleverstatusnotificatie">
 <!ENTITY dsnMenu.accesskey "A">
 <!ENTITY outputFormatMenu.label "Opmaak">
-<!ENTITY outputFormatMenu.accesskey "O">
+<!ENTITY outputFormatMenu.accesskey "m">
 <!ENTITY autoFormatCmd.label "Automatisch herkennen">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Alleen platte tekst">

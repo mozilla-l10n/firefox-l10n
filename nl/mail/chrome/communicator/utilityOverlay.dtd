@@ -39,7 +39,7 @@
 <!ENTITY viewToolbarsMenu.label "Werkbalken">
 <!ENTITY viewToolbarsMenu.accesskey "W">
 <!ENTITY showTaskbarCmd.label "Statusbalk">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "b">
 
 <!ENTITY proxy.label "Proxyconfiguratie…">
 <!ENTITY proxy.accesskey "P">

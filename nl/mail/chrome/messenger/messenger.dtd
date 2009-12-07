@@ -715,7 +715,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.label "Filter maken op basis van…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "E-mailscam rapporteren">
-<!ENTITY reportPhishingURL.accesskey "o">
+<!ENTITY reportPhishingURL.accesskey "s">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Koppelingsdoel opslaan als…">
