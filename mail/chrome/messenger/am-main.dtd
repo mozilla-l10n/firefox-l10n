@@ -11,8 +11,12 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organización:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Adjuntar esta firma:">
-<!ENTITY signature.accesskey "f">
+<!ENTITY signatureText.label "Texto de la firma:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Usar HTML (p.e., &lt;b&gt;negrita&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Adjuntar la firma de un archivo (texto, HTML o imagen):">
+<!ENTITY signatureFile.accesskey "H">
 <!ENTITY edit.label "Editar…">
 <!ENTITY choose.label "Elegir…">
 <!ENTITY choose.accesskey "E">

@@ -2,6 +2,8 @@
 <!ENTITY sanitizeItems.label "Vaciar ahora los siguientes elementos:">
 <!ENTITY itemHistory.label "Historial de navegación">
 <!ENTITY itemHistory.accesskey "H">
+<!ENTITY itemUrlBar.label "Historial de la barra de direcciones">
+<!ENTITY itemUrlBar.accesskey "b">
 <!ENTITY itemDownloads.label "Historial de descargas">
 <!ENTITY itemDownloads.accesskey "D">
 <!ENTITY itemFormSearchHistory.label "Formularios guardados e historial de búsquedas">

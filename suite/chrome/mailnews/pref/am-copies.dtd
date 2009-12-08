@@ -3,23 +3,23 @@
 <!ENTITY fccMailFolder.label "Poner una copia en:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Colocar respuestas en la carpeta del mensaje respondido">
-<!ENTITY fccReplyFollowsParent.accesskey "a">
+<!ENTITY fccReplyFollowsParent.accesskey "u">
 <!ENTITY bccAddress.label "Bcc a estas direcciones:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmación cuando se guarden los mensajes">
 <!ENTITY saveMessageDlg.accesskey "d">
 <!ENTITY sentFolderOn.label "Carpeta &quot;Enviados&quot; en:">
 <!ENTITY sentFolderOn.accesskey "v">
-<!ENTITY sentInOtherFolder.label "Otro:">
+<!ENTITY sentInOtherFolder.label "Otra carpeta:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Otro:">
+<!ENTITY draftsFolderOn.accesskey "e">
+<!ENTITY draftInOtherFolder.label "Otra carpeta:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en">
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en:">
 <!ENTITY archivesFolderOn.accesskey "h">
-<!ENTITY archiveInOtherFolder.label "Otro:">
-<!ENTITY archiveInOtherFolder.accesskey "t">
+<!ENTITY archiveInOtherFolder.label "Otra carpeta:">
+<!ENTITY archiveInOtherFolder.accesskey "a">
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "C">
 <!ENTITY templateInOtherFolder.label "Otro:">

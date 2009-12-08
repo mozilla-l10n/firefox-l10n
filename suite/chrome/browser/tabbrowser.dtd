@@ -1,5 +1,5 @@
 <!ENTITY untitledTab "(Sin título)">
-<!ENTITY newTab.label "Nueva pestaña">
+<!ENTITY newTab.label "Pestaña nueva">
 <!ENTITY newTab.accesskey "N">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "C">
@@ -12,6 +12,6 @@
 <!ENTITY bookmarkGroup.label "Añadir a marcadores este grupo de pestañas">
 <!ENTITY bookmarkGroup.accesskey "m">
 <!ENTITY closeTabButton.tooltip "Cerrar pestaña actual">
-<!ENTITY newTabButton.tooltip "Abrir una nueva pestaña">
+<!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
 <!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY undoCloseTab.accesskey "h">

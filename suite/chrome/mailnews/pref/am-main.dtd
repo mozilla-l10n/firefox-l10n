@@ -4,23 +4,27 @@
 <!ENTITY identityTitle.label "Identidad predeterminada">
 <!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que otras personas verán al leer sus mensajes.">
 <!ENTITY name.label "Su nombre:">
-<!ENTITY name.accesskey "u">
+<!ENTITY name.accesskey "S">
 <!ENTITY email.label "Dirección de correo electrónico:">
-<!ENTITY email.accesskey "E">
+<!ENTITY email.accesskey "D">
 <!ENTITY replyTo.label "Dirección de respuesta:">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.accesskey "c">
 <!ENTITY organization.label "Organización:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Adjuntar esta firma:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "Texto de la firma:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Usar HTML">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Adjuntar la firma desde un archivo:">
+<!ENTITY signatureFile.accesskey "f">
 <!ENTITY choose.label "Elegir…">
-<!ENTITY choose.accesskey "g">
+<!ENTITY choose.accesskey "E">
 <!ENTITY editVCard.label "Editar tarjeta…">
-<!ENTITY editVCard.accesskey "d">
+<!ENTITY editVCard.accesskey "i">
 <!ENTITY attachVCard.label "Adjuntar mi tarjeta vCard en los mensajes.">
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY manageIdentities.label "Administrar identidades…">
-<!ENTITY manageIdentities.accesskey "M">
+<!ENTITY manageIdentities.accesskey "A">
 <!ENTITY smtpName.label "Servidor saliente (SMTP):">
-<!ENTITY smtpName.accesskey "o">
+<!ENTITY smtpName.accesskey "M">
 <!ENTITY smtpDefaultServer.label "Usar servidor predet.">

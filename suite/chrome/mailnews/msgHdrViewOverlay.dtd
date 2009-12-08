@@ -17,7 +17,9 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Sitio web: ">
 <!ENTITY editMessage.label "Editar borrador…">
+<!ENTITY editMessage.accesskey "D">
 <!ENTITY attachmentsTree.label "Adjuntos:">
+<!ENTITY attachmentsTree.accesskey "d">
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "b">
 <!ENTITY viewAttachmentCmd.label "Ver código fuente">

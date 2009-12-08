@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.junk.title "Correo basura">
+<!ENTITY pref.junk.title "Correo basura o sospechoso">
 <!ENTITY junkSettings.caption "Configuración global de correo basura">
 <!ENTITY junkMail.intro "Vaya a Configuración de cuentas para establecer configuraciones de correo basura específicas de cada cuenta.">
 <!ENTITY manualMark.label "Cuando marco los mensajes como basura:">
@@ -53,4 +53,11 @@
 <!ENTITY openJunkLog.label "Mostrar el registro">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Reiniciar datos de entrenamiento">
-<!ENTITY resetTrainingData.accesskey "e">
+<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY pref.suspectMail.caption "Correo sospechoso">
+<!ENTITY pref.phishing.caption "Correo fraudulento">
+<!ENTITY enablePhishingDetector.label "Decirme si el mensaje que estoy leyendo parece un mensaje fraudulento">
+<!ENTITY enablePhishingDetector.accesskey "D">
+<!ENTITY pref.antivirus.caption "Antivirus">
+<!ENTITY antiVirus.label "Permitir a los clientes antivirus analizar los mensajes entrantes más fácilmente">
+<!ENTITY antiVirus.accesskey "P">

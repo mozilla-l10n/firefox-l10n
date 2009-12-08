@@ -2,20 +2,18 @@
 <!ENTITY itemAutoComplete.label "Destinatario">
 <!ENTITY itemSpellCheck.label "Ortografía">
 <!ENTITY forwardMsg.label "Reenviar mensajes:">
-<!ENTITY forwardMsg.accesskey "v">
+<!ENTITY forwardMsg.accesskey "m">
 <!ENTITY inline.label "Incorporado">
-<!ENTITY inline.accesskey "I">
 <!ENTITY asAttachment.label "Como adjunto">
-<!ENTITY asAttachment.accesskey "u">
-<!ENTITY addExtension.label "añadir extensión al nombre de archivo">
-<!ENTITY addExtension.accesskey "a">
+<!ENTITY addExtension.label "Añadir extensión al nombre de archivo">
+<!ENTITY addExtension.accesskey "A">
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Tipo de letra:">
-<!ENTITY font.accesskey "d">
+<!ENTITY font.accesskey "T">
 <!ENTITY size.label "Tamaño:">
-<!ENTITY size.accesskey "T">
+<!ENTITY size.accesskey "o">
 <!ENTITY fontColor.label "Color del texto:">
-<!ENTITY fontColor.accesskey "C">
+<!ENTITY fontColor.accesskey "x">
 <!ENTITY bgColor.label "Color de fondo:">
 <!ENTITY bgColor.accesskey "C">
 <!ENTITY restoreHTMLDefaults.label "Restaurar valores por omisión">
@@ -25,14 +23,14 @@
 <!ENTITY spellCheckInline.label "Activar corrección ortogr. al escribir">
 <!ENTITY spellCheckInline1.accesskey "v">
 <!ENTITY languagePopup.label "Idioma:">
-<!ENTITY languagePopup.accessKey "d">
+<!ENTITY languagePopup.accessKey "I">
 <!ENTITY downloadDictionaries.label "Descargar más diccionarios">
 <!ENTITY warnOnSendAccelKey.label "Confirmar al usar el atajo de teclado para envío de mensajes">
-<!ENTITY warnOnSendAccelKey.accesskey "C">
+<!ENTITY warnOnSendAccelKey.accesskey "n">
 <!ENTITY autoSave.label "Guardar automáticamente cada">
 <!ENTITY autoSave.accesskey "G">
 <!ENTITY autoSaveEnd.label "minutos">
-<!ENTITY emailCollectionPicker.label "Añadir automáticamente las direcciones de correo saliente a mi:">
+<!ENTITY emailCollectionPicker.label "Añadir automáticamente las direcciones de correo saliente a mi(s):">
 <!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Autocompletado de direcciones">
 <!ENTITY autocompleteText.label "Al enviar mensajes, buscar entradas coincidentes en:">
@@ -45,4 +43,8 @@
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY sendOptionsDescription.label "Configurar comportamiento del formato de texto">
 <!ENTITY sendOptions.label "Opciones de envío…">
-<!ENTITY sendOptions.accesskey "O">
+<!ENTITY sendOptions.accesskey "v">
+<!ENTITY attachmentReminder.label "Comprobar adjuntos olvidados">
+<!ENTITY attachmentReminder.accesskey "b">
+<!ENTITY attachmentReminderOptions.label "Palabras clave…">
+<!ENTITY attachmentReminderOptions.accesskey "P">

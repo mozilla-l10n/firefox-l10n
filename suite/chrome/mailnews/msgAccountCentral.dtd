@@ -13,5 +13,5 @@
 <!ENTITY filtersLink.label "Administrar filtros de mensajes">
 <!ENTITY junkSettings.label "Configuración de correo basura">
 <!ENTITY offlineLink.label "Configuración sin conexión">
-<!ENTITY rssSectionHdr.label "Noticias y blogs RSS">
-<!ENTITY subscibeRSS.label "Administrar suscripciones">
+<!ENTITY feedsSectionHdr.label "Canales">
+<!ENTITY subscribeFeeds.label "Administrar suscripciones">

@@ -10,6 +10,8 @@
 <head>
   <title>Usar Correo y noticias de &brandShortName;</title>
   <link rel="stylesheet" href="helpFileLayout.css" type="text/css" />
+  <link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
+        type="text/css"/>
 </head>
 
 <body>
@@ -50,7 +52,7 @@ ventana, la ventana de Correo y noticias.</p>
 
 <div class="contentsBox">En esta sección:
   <ul>
-    <li><a href="#getting_started_with_mozilla_mail_and_newsgroups">Empezar
+    <li><a href="#getting_started_with_mozilla_mail_and_newsgroups">Comenzar
       con el correo y grupos de &brandShortName;</a></li>
     <li><a href="#reading_messages">Leer mensajes</a></li>
     <li><a href="#sending_messages">Enviar mensajes</a></li>
@@ -63,8 +65,10 @@ ventana, la ventana de Correo y noticias.</p>
     <li><a href="#controlling_junk_mail">Controlar el correo basura</a></li>
     <li><a href="#importing_mail_from_other_programs">Importar correo de
       otros programas</a></li>
-    <li><a href="#getting_started_with_newsgroups">Empezar con los grupos de
+    <li><a href="#getting_started_with_newsgroups">Comenzar con los grupos de
       noticias</a></li>
+    <li><a href="#getting_started_with_blogs_and_news_feeds">Comenzar con los
+      canales de blogs y noticias</a></li>
     <li><a href="#working_offline">Trabajar sin conexión</a></li>
     <li><a href="mail_sec_help.xhtml">Firmar y cifrar mensajes</a></li>
     <li><a href="#mail_and_newsgroups_account_settings">Configuración
@@ -91,21 +95,21 @@ con el correo y noticias de &brandShortName;</h1>
 <h2 id="using_the_mail_account_setup_wizard">Usar el asistente para
 configuración de cuentas de correo</h2>
 
-<p>Para configurar una cuenta de correo o noticias, primero abra el
-menú Ventana y escoja Correo y noticias. Si no ha configurado
-aún ninguna cuenta, el asistente de cuentas aparece
-automáticamente, permitiéndole configurar una.</p>
+<p>Para configurar una cuenta de correo, de noticias o de canales de blogs y
+  noticias, primero abra el menú Ventana y escoja Correo y noticias. Si no ha
+  configurado aún ninguna cuenta, el asistente de cuentas aparece
+  automáticamente, permitiéndole configurar una.</p>
 
-<p>El asistente de cuentas le guía a lo largo del proceso de
-creación de una nueva cuenta. Si no conoce algún
-parámetro, pulse Cancelar y pregunte a su proveedor de servicios de
-Internet (ISP) o servicio de atención a usuarios.</p>
+<p>El asistente de cuentas le guía a lo largo del proceso de creación de una
+  nueva cuenta. Si no conoce algún parámetro, pulse Cancelar y pregunte a su
+  proveedor de servicios de Internet (ISP) o servicio de atención a
+  usuarios.</p>
 
-<p>Si ya existe una cuenta, el asistente no aparecerá
-automáticamente. En su lugar, tras abrir la ventana de Correo, abra el
-menú Archivo y escoja Nuevo, y luego Cuenta. Para más detalles,
-vea <a href="#setting_up_additional_mail_and_news_accounts">Configurar cuentas
-adicionales de correo y noticias</a>.</p>
+<p>Si ya existe una cuenta, el asistente no aparecerá automáticamente. En su
+  lugar, tras abrir la ventana de Correo, abra el menú Archivo y escoja Nuevo,
+  y luego Cuenta. Para más detalles, vea
+  <a href="#setting_up_additional_mail_and_news_accounts">Configurar cuentas
+  adicionales de correo, noticias y canales de blogs y noticias</a>.</p>
 
 <h3 id="setting_up_mail_accounts_with_an_isp_or_email_provider">
 Configurar cuentas de correo con un ISP o proveedor de correo 
@@ -132,61 +136,59 @@ de correo debería facilitarle la siguiente información:</p>
   <li>nombre de la cuenta</li>
 </ul>
 
-<p>Para configurar una cuenta de correo o noticias, vayamos a la ventana
-de Correo y noticias:</p>
+<p>Para configurar una cuenta de correo, de noticias o de canales de blogs y
+  noticias, vaya a la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Opciones de la cuenta de correo
-  y noticias. Verá el cuadro de diálogo de opciones para
-  cuentas de correo y noticias.</li>
+  <li>Abra el menú Editar y elija Opciones de la cuenta de correo y noticias.
+    Verá el cuadro de diálogo de opciones para cuentas de correo y
+    noticias.</li>
   <li>Pulse en Añadir cuenta para mostrar el asistente para cuentas.
-  <p>La información solicitada por el asistente de cuentas depende del
-  tipo de cuenta que especifique en su primera ventana. Los encabezados
-  en negrita que siguen corresponden a las ventanas que verá cuando
-  configure una cuenta de correo de un ISP o proveedor de correo
-  electrónico.</p>
+    <p>La información solicitada por el asistente de cuentas depende del tipo
+      de cuenta que especifique en su primera ventana. Los encabezados en
+      negrita que siguen corresponden a las ventanas que verá cuando configure
+      una cuenta de correo de un ISP o proveedor de correo electrónico.</p>
   </li>
   <li><strong>Configuración de nueva cuenta</strong>: escoja el tipo de
-  cuenta que quiere configurar y pulse la flecha derecha.</li>
-  <li><strong>Identidad</strong>: introduzca el nombre y dirección de
-  correo electrónico apropiados para esta cuenta y pulse la flecha
-  derecha.</li>
-  <li><strong>Información de servidor</strong>:
+    cuenta que quiere configurar y pulse la flecha derecha.</li>
+  <li><strong>Identidad</strong>: introduzca el nombre y dirección de correo
+    electrónico apropiados para esta cuenta y pulse la flecha derecha. Esta
+    ventana no está disponible para el tipo de cuentas de canales de blogs y
+    noticias.</li>
+  <li><strong>Información de servidor</strong>: esta ventana no está disponible
+    para el tipo de cuentas de canales de blogs y noticias.
     <ul>
       <li>Indique si quiere una cuenta POP o IMAP. No todos los proveedores de
-      servicios admiten ambas opciones. Para más información, vea
-      <a href="#server_settings">Configuración de cuentas de Correo y
-      noticias - Configuración del servidor</a>.</li>
+        servicios admiten ambas opciones. Para más información, vea
+        <a href="#server_settings">Configuración de cuentas de Correo y
+        noticias - Configuración del servidor</a>.</li>
       <li>Introduzca el nombre de su servidor de correo entrante.</li>
       <li>Si quiere que esta cuenta sea parte de la bandeja de entrada global
-      de la cuenta Carpetas Locales, seleccione la casilla <q>Usar
-      bandeja de entada global</q>. El correo de esta cuenta se
-      guardará en sus carpetas locales. En caso contrario, si la
-      casilla no está marcada, el correo se guardará en su
-      propio directorio.</li>
+        de la cuenta Carpetas Locales, seleccione la casilla <q>Usar bandeja de
+        entrada global</q>. El correo de esta cuenta se guardará en sus carpetas
+        locales. En caso contrario, si la casilla no está marcada, el correo se
+        guardará en su propio directorio.</li>
       <li>Introduzca el nombre de su servidor de correo saliente (SMTP).
-      
-      <p><strong>Nota</strong>: sólo necesita especificar un servidor de
-      correo saliente (SMTP), incluso aunque tenga varias cuentas de correo. El
-      nombre de su host <a href="glossary.xhtml#smtp">SMTP</a> puede no haberle
-      sido facilitado
-      explícitamente en la información de configuración de
-      cuenta que se le ha proporcionado. Por ejemplo, su host SMTP puede ser el
-      mismo que su host POP o IMAP. En caso de duda, contacte con su ISP o
-      administrador de sistema.</p></li>
+        <p><strong>Nota</strong>: sólo necesita especificar un servidor de
+          correo saliente (SMTP), incluso aunque tenga varias cuentas de correo.
+          El nombre de su host <a href="glossary.xhtml#smtp">SMTP</a> puede no
+          haberle sido facilitado explícitamente en la información de
+          configuración de cuenta que se le ha proporcionado. Por ejemplo, su
+          host SMTP puede ser el mismo que su host POP o IMAP. En caso de duda,
+          contacte con su ISP o administrador de sistema.</p></li>
       <li>Pulse la flecha derecha para continuar.</li>
     </ul>
   </li>
   <li><strong>Nombres de usuario</strong>: introduzca los nombres de usuario
-  entrante y saliente proporcionados por su ISP o proveedor de correo
-  electrónico y pulse la flecha derecha.</li>
+    entrante y saliente proporcionados por su ISP o proveedor de correo
+    electrónico y pulse la flecha derecha. Esta ventana no está disponible para
+    el tipo de cuentas de canales de blogs y noticias.</li>
   <li><strong>Nombre de la cuenta</strong>: introduzca el nombre con el que
-  quiera referirse a esta cuenta y pulse la flecha derecha.</li>
-  <li><strong>&iexcl;Felicidades!</strong>: verifique que la
-  información que ha introducido es correcta. Si es necesario,
-  verifique esta información con su ISP o administrador del sistema.
-  Cuando esté seguro de que es correcta, pulse Finalizar para crear su
-  cuenta.</li>
+    quiera referirse a esta cuenta y pulse la flecha derecha.</li>
+  <li><strong>&iexcl;Felicidades!</strong>: verifique que la información que
+    ha introducido es correcta. Si es necesario, verifique esta información
+    con su ISP o administrador del sistema. Cuando esté seguro de que es
+    correcta, pulse Finalizar para crear su cuenta.</li>
   <li>Verá su nueva cuenta lista en el lado izquierdo del cuadro de
   diálogo de configuración de cuentas de correo y noticias.
   Pulse Aceptar para comenzar a usar su cuenta.</li>
@@ -218,39 +220,41 @@ Configuración de la cuenta, donde la informacion incluye datos como:</p>
 ya existente, comenzando desde la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas de
-  correo y noticias. Verá aparecer el cuadro de diálogo Opciones
-  para cuentas de correo y noticias. Puede llevar a cabo las siguientes tareas:
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias. Verá aparecer el cuadro de diálogo Opciones para cuentas de
+    correo y noticias. Puede llevar a cabo las siguientes tareas:
     <ul>
-      <li><strong>Añadir cuenta</strong>: pulse este botón para
-      añadir una nueva cuenta de correo o noticias. Asegúrese de
-      escribir la cuenta tal y como se la han proporcionado a usted. Muévase
-      a través de las pantallas con las flechas, o pulse Cancela
-      botón de Siguiente o el de Atrás para moverse por las
-      pantallas. Para cancelar la creación de la cuenta, pulse el
-      botón de Cancelar.</li>
-      <li><strong>Definir como predeterminada</strong>: seleccione una cuenta
-      y luego pulse este botón para hacer que esa cuenta aparezca la
-      primera en su lista de cuentas en la ventana de Correo. Los cambios
-      tendrán efecto la próxima vez que inicie Correo y noticias.
+      <li><strong>Añadir cuenta</strong>: pulse este botón para añadir una
+        nueva cuenta de correo, noticias o canales de blogs y noticias.
+        Asegúrese de escribir la cuenta tal y como se la han proporcionado
+        a usted. Muévase a través de las pantallas con las flechas, o pulse
+        Cancelar para detener la creación de la cuenta.</li>
+      <li><strong>Definir como predeterminada</strong>: seleccione una cuenta y
+        luego pulse este botón para hacer que esa cuenta aparezca la primera en
+        su lista de cuentas en la ventana de Correo. Los cambios tendrán efecto
+        la próxima vez que inicie Correo y noticias.
       
-      <p>La cuenta predeterminada es la en la que se quiere iniciar sesión
-      y (sólo para cuentas IMAP) comprobar si hay mensajes nuevos cuando
-      se inicia Correo y noticias (para cuentas POP, siempre debe pulsar el
-      botón Obtener mensajes para descargar nuevos mensajes).</p></li>
+        <p>La cuenta predeterminada es la en la que se quiere iniciar sesión y
+          (sólo para cuentas IMAP) comprobar si hay mensajes nuevos cuando se
+          inicia Correo y noticias (para cuentas POP, siempre debe pulsar el
+          botón Obtener mensajes para descargar nuevos mensajes).</p>
+
+        <p><strong>Nota:</strong> no puede definir una cuenta de canales de
+          blogs y noticias como predeterminada.</p>
+      </li>
       <li><strong>Eliminar cuenta</strong>: seleccione una cuenta y pulse este
-      botón para eliminar completamente la cuenta de la ventana de Correo
-      y noticias.</li>
+        botón para eliminar completamente la cuenta de la ventana de Correo
+        y noticias.</li>
       <li><strong>Servidor de correo saliente (SMTP)</strong>: pulse este
-      elemento (al final de la lista de cuentas) para modificar
-      información sobre el servidor de correo saliente, Vea <a
-      href="#outgoing_server">Opciones de correo y noticias - Servidor de
-      correo saliente (SMTP)</a> para más información.</li>
+        elemento (al final de la lista de cuentas) para modificar información
+        sobre el servidor de correo saliente, Vea <a
+        href="#outgoing_server">Opciones de correo y noticias - Servidor de
+        correo saliente (SMTP)</a> para más información.</li>
     </ul>
   </li>
   <li>Pulse en los apartados de cualquier cuenta y modifique los valores
-  correspondientes en el panel de la derecha.</li>
-  <li> Pulse Aceptar para guardar los cambios.</li>
+    correspondientes en el panel de la derecha.</li>
+  <li>Pulse Aceptar para guardar los cambios.</li>
 </ol>
 
 <p>[<a href="#getting_started_with_mozilla_mail_and_newsgroups">Volver al
@@ -263,66 +267,64 @@ de una cuenta</h2>
 noticias existente, comenzando desde la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración para cuentas
-  de correo y noticias. Verá aparecer el cuadro de diálogo
-  Configuración de cuentas de correo y noticias.</li>
-  <li>Pulse en el nombre de la cuenta en la parte izquierda del cuadro
-  de diálogo de opciones de cuenta. Verá información
-  sobre la cuenta, como la dirección de correo electrónico
-  y archivo de firma, en la parte derecha del cuadro de diálogo.</li>
-  <li>Pulse cualquiera de estos elementos bajo el nombre de una cuenta para
-  ver los parámetros correspondientes:
+  <li>Abra el menú Editar y elija Configuración para cuentas de correo y
+    noticias. Verá aparecer el cuadro de diálogo Configuración de cuentas de
+    correo y noticias.</li>
+  <li>Pulse en el nombre de la cuenta en la parte izquierda del cuadro de
+    diálogo de opciones de cuenta. Verá información sobre la cuenta, como la
+    dirección de correo electrónico y la firma, en la parte derecha del cuadro
+    de diálogo.</li>
+  <li>Pulse cualquiera de estos elementos bajo el nombre de una cuenta para ver
+    los parámetros correspondientes:
     <ul>
-      <li><strong>Configuración del servidor</strong>: los valores
-      disponibles dependen del tipo de servidor (IMAP, POP o servidor de
-      grupos de noticias). Para más información vea <a
-      href="#server_settings">Configuración de cuentas de correo y
-      noticias - Configuración del servidor</a>.
+      <li><strong>Configuración del servidor</strong>: los valores disponibles
+        dependen del tipo de servidor (IMAP, POP o servidor de grupos de
+        noticias). Para más información vea <a
+        href="#server_settings">Configuración de cuentas de correo y noticias -
+        Configuración del servidor</a>.
       
-      <p><strong>Importante</strong>: si necesita cambiar el tipo de
-      servidor (por ejemplo, de POP a IMAP) debe borrar primero la cuenta
-      existente y reiniciar &brandShortName;. Entonces vuelva a abrir el
-      cuadro de diálogo Configuración de cuentas de correo y
-      noticias y vuelva a crear la cuenta con el nuevo tipo de servidor
-      pulsando en Añadir cuenta.</p>
+        <p><strong>Importante</strong>: si necesita cambiar el tipo de servidor
+          (por ejemplo, de POP a IMAP) debe borrar primero la cuenta existente y
+          reiniciar &brandShortName;. Entonces vuelva a abrir el cuadro de
+          diálogo Configuración de cuentas de correo y noticias y vuelva a crear
+          la cuenta con el nuevo tipo de servidor pulsando en Añadir cuenta.</p>
       </li>
-      <li><strong>Copias y carpetas</strong>: estos valores determinan si
-      se envían mensajes automáticos (copias ocultas) y
-      dónde quiere que se almacenen las copias de los mensajes
-      enviados, borradores y plantillas. Para más información,
-      vea <a href="#copies_and_folders">Configuración de cuentas de
-      correo y noticias - Copias y carpetas</a>.</li>
-      <li><strong>Redacción y direcciones</strong>: estos valores le
-      permiten elegir su formato predeterminado y el modo de cita cuando
-      redacta un mensaje. También puede sustituir la
-      configuración global de servidores de directorio indicada para
-      todas las libretas de direcciones en la ventana de preferencias por
-      valores específicos de esta cuenta. Para más
-      información, vea <a href="#addressing">Configuración
-      de cuentas de correo y noticias - Redacción y direcciones</a>.</li>
-      <li><strong>Sin conexión y espacio en disco (sólo para
-      cuentas IMAP y noticias)</strong>: estos valores se utilizan cuando
-      se encuentra en modo sin conexión (desconectado de Internet) o
-      necesita ahorrar tiempo en la descarga y conservar espacio en disco.
-      Para más información, vea <a
-      href="#offline_and_disk_space_settings_imap">Configuración en
-      modo desconectado y espacio en disco (IMAP)</a> o <a
-      href="#offline_and_disk_space_settings_nntp">Configuración en
-      modo desconectado y espacio en disco (Noticias)</a>.</li>
-      <li><strong>Espacio en disco (sólo para cuentas POP)</strong>:
-      estos valores determinan el tamaño máximo de los mensajes
-      que desea descargar en su disco duro. Para más información,
-      vea <a href="#disk_space_settings">Configuración de espacio en
-      disco (POP)</a>.</li>
+      <li><strong>Copias y carpetas</strong>: estos valores determinan si se
+        envían mensajes automáticos (copias ocultas) y dónde quiere que se
+        almacenen las copias de los mensajes enviados, borradores y plantillas.
+        Para más información, vea <a href="#copies_and_folders">Configuración
+        de cuentas de correo y noticias - Copias y carpetas</a>.</li>
+      <li><strong>Redacción y direcciones</strong>: estos valores le permiten
+        elegir su formato predeterminado y el modo de cita cuando redacta un
+        mensaje. También puede sustituir la configuración global de servidores
+        de directorio indicada para todas las libretas de direcciones en la
+        ventana de preferencias por valores específicos de esta cuenta. Para
+        más información, vea <a href="#addressing">Configuración de cuentas de
+        correo y noticias - Redacción y direcciones</a>.</li>
+      <li><strong>Sincronización y almacenamiento (sólo para cuentas IMAP y
+        noticias)</strong>: estos valores se utilizan cuando se encuentra en
+        modo sin conexión (desconectado de Internet) o necesita ahorrar tiempo
+        en la descarga y conservar espacio en disco. Para más información, vea
+        <a href="#synchronization_and_storage_settings_imap">Configuración de
+        sincronización y almacenamiento (IMAP)</a> o
+        <a href="#synchronization_and_storage_settings_nntp">Configuración de
+        sincronización y almacenamiento (Noticias)</a>.</li>
+      <li><strong>Espacio en disco (sólo para cuentas POP y de canales de
+        blogs y noticias)</strong>: estos valores le ayudan a gestionar la
+        cantidad de espacio en disco que ocupan los mensajes descargados en su
+        disco duro. Para más información, vea
+        <a href="#disk_space_settings_pop">Configuración de espacio en disco
+        (POP)</a> o <a href="#disk_space_settings_blog">Configuración de
+        espacio en disco (Blogs)</a>.</li>
       <li><strong>Seguridad</strong>: estos valores determinan qué <a
-      href="glossary.xhtml#certificate">certificados</a> se usan para firmar
-      digitalmente y cifrar los mensajes de correo que envía. Las
-      opciones de firma digital permiten que se pueda identificar de manera
-      fiable ante otras personas al enviar mensajes de correo. Las opciones
-      de cifrado le permiten asegurarse de que la privacidad de sus mensajes
-      de correo permanece intacta al viajar por la red. Para más
-      información, vea <a href="#security">Configuración de
-      cuentas de correo y noticias - Seguridad</a>.</li>
+        href="glossary.xhtml#certificate">certificados</a> se usan para firmar
+        digitalmente y cifrar los mensajes de correo que envía. Las opciones de
+        firma digital permiten que se pueda identificar de manera fiable ante
+        otras personas al enviar mensajes de correo. Las opciones de cifrado le
+        permiten asegurarse de que la privacidad de sus mensajes de correo
+        permanece intacta al viajar por la red. Para más información, vea
+        <a href="#security">Configuración de cuentas de correo y noticias -
+        Seguridad</a>.</li>
     </ul>
   </li>
   <li>Pulse Aceptar para guardar los cambios.</li>
@@ -349,22 +351,30 @@ principio de la sección</a>]</p>
 
 <h2 id="getting_new_messages">Obtener nuevos mensajes</h2>
 
-<p>Para una cuenta IMAP, puede recuperar los mensajes nuevos
-automáticamente y mostrarlos en la bandeja de entrada simplemente
-abriendo Correo y noticias y seleccionando la bandeja de entrada de la cuenta
-IMAP.</p>
+<p>Para una cuenta IMAP, puede recuperar los mensajes nuevos automáticamente y
+  mostrarlos en la bandeja de entrada simplemente abriendo Correo y noticias y
+  seleccionando la bandeja de entrada de la cuenta IMAP.</p>
 
-<p>Para una cuenta POP, debe seleccionar la bandeja de entrada y pulsar
-Recibir mensajes para recuperar sus mensajes. Por defecto, los mensajes de su
-cuenta POP se descarga completos y se borran del servidor POP una vez los
-recupera. Puede <a href="#pop_server_settings">cambiar su configuración
-del servidor POP</a> para descargar sólo las cabeceras y/o mantener una copia
-de los mensajes en el servidor además de descargarlos a su
-ordenador.</p>
+<p>Para cuentas POP, debe seleccionar la bandeja de entrada y pulsar Recibir
+  mensajes para recuperar sus mensajes. Por defecto, los mensajes de su cuenta
+  POP se descarga completos y se borran del servidor POP una vez los recupera.
+  Puede <a href="#pop_server_settings">cambiar su configuración del servidor
+  POP</a> para descargar sólo las cabeceras y/o mantener una copia de los
+  mensajes en el servidor además de descargarlos a su ordenador.</p>
 
-<p>También se puede configurar &brandShortName; para obtener los
-mensajes nuevos al iniciarse y que compruebe si hay mensajes nuevos cada
-cierto tiempo.</p>
+<p>Para cuentas de noticias, al expandirse la lista de grupos de noticias de
+  la cuenta se buscarán automáticamente nuevos elementos, igual que sucede si
+  simplemente selecciona uno de los grupos de noticias. Mientras está leyendo
+  un grupo de noticias, puede forzar una comprobación en busca de nuevos
+  artículos haciendo clic en Recibir mensajes.</p>
+
+<p>Para cuentas de canales de blogs y noticias, la primera vez que expanda la
+  cuenta se comprobará en busca de nuevos artículos. Además de eso, puede
+  forzar la comprobación en cualquier momento haciendo clic en Recibir
+  mensajes.</p>
+
+<p>También se puede configurar &brandShortName; para obtener los mensajes nuevos
+  al iniciarse y que compruebe si hay mensajes nuevos cada cierto tiempo.</p>
 
 <table>
   <tr>
@@ -377,7 +387,7 @@ cierto tiempo.</p>
 </table>
 
 <p>El icono de Correo y noticias en la barra de estado muestra una flecha
-verde para indicarle que han llegado mensajes nuevos.</p>
+  verde para indicarle que han llegado mensajes nuevos.</p>
 
 <table>
   <tr>
@@ -390,12 +400,12 @@ verde para indicarle que han llegado mensajes nuevos.</p>
 </table>
 
 <p>Para configurar &brandShortName; para que compruebe automáticamente
-si hay correo nuevo, comenzando desde la ventana de Correo y noticias:</p>
+  si hay correo nuevo, comenzando desde la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas
-  de correo y noticias, y verá el cuadro de diálogo
-  Configuración de cuentas de correo y noticias.</li>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias, y verá el cuadro de diálogo Configuración de cuentas de correo
+    y noticias.</li>
   <li>Si tiene varias cuentas, seleccione una y elija la categoría
   Configuración del servidor de esa cuenta.</li>
   <li>Seleccione una o ambas de las siguientes opciones en el apartado de
@@ -615,8 +625,8 @@ de Outlook Express:</p>
   tarjeta en una libreta de direcciones</a> para obtener detalles de
   cómo cambiar qué remitentes pueden mostrar contenido remoto.</p>  
 
-<p>Por defecto, JavaScript y los plugins no están activados en los
-  mensajes que recibe. Para cambiar estos valores:</p>
+<p>Por defecto, los plugins no están activados en los mensajes que recibe. Para
+  cambiar estos valores:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
@@ -625,9 +635,6 @@ de Outlook Express:</p>
     hay subcategorías visibles, haga doble clic en Avanzadas para
     expandir la lista).
     <ul>
-      <li>Bajo <q>Activar JavaScript para</q>, marque <q>Correo y noticias</q>
-        para habilitar JavaScript para las páginas web vistas en los
-        mensajes de correo.</li>
       <li>Bajo <q>Habilitar plugins para</q>, marque <q>Correo y noticias</q>
         para habilitar los plugins.</li>
     </ul>
@@ -671,22 +678,27 @@ nuevo mediante una de las siguientes formas:</p>
   dirección y pulse el botón Redactar.</li>
 </ul>
 
-<p><strong>Truco</strong>: use la opción Configuración de
-cuentas de correo y noticias - <a href="#addressing">Redacción y
-direcciones</a> para especificar el editor de texto HTML para redactar
-mensajes enviados desde esta cuenta (puede especificar un editor diferente
-para cada una de sus cuentas). Vea <a
-href="#changing_the_settings_for_an_account">Cambiar la configuración
-de una cuenta</a> para más información.</p>
+<p><strong>Truco</strong>: use la opción Configuración de cuentas de correo y
+  noticias - <a href="#addressing">Redacción y direcciones</a> para especificar
+  el editor de texto HTML para redactar mensajes enviados desde esta cuenta
+  (puede especificar un editor diferente para cada una de sus cuentas). Vea <a
+  href="#changing_the_settings_for_an_account">Cambiar la configuración de una
+  cuenta</a> para más información.</p>
+
+<p><strong>Nota</strong>: en general, no es posible redactar mensajes para
+  publicarlos en cuentas de canales de blogs y noticias. Si quiere publicar
+  artículos en un blog (y tiene los permisos apropiados para hacerlo), tendrá
+  que usar los mecanismos proporcionados por el sistema de blogs específico. En
+  algunos casos, esto puede incluir el envío de un mensaje de correo electrónico
+  a una dirección específica.</p>
 
 <p>Redactar los mensajes en formato HTML le permite usar diferentes tipos de
-letra, colores y estilos en el texto (tales como negrita o cursiva), tablas,
-listas numeradas y no numeradas, e imágenes en sus mensajes. Sin
-embargo, algunos destinatarios quizá sólo puedan leer mensajes
-redactados en texto sin formato. Si ocasionalmente quiere usar el editor de
-texto sin formato, puede mantener pulsada la tecla Mayúsculas mientras
-hace clic en el botón Redactar o Responder para usar el editor de texto
-sin formato cuando sea necesario.</p>
+  letra, colores y estilos en el texto (tales como negrita o cursiva), tablas,
+  listas numeradas y no numeradas, e imágenes en sus mensajes. Sin embargo,
+  algunos destinatarios quizá sólo puedan leer mensajes redactados en texto sin
+  formato. Si ocasionalmente quiere usar el editor de texto sin formato, puede
+  mantener pulsada la tecla Mayúsculas mientras hace clic en el botón Redactar
+  o Responder para usar el editor de texto sin formato cuando sea necesario.</p>
 
 <p>[<a href="#sending_messages">Volver al principio de la sección</a>]</p>
 
@@ -925,37 +937,35 @@ sección</a>]</p>
 
 <ul>
   <li>Seleccione el mensaje.</li>
-  <li>Pulse en el botón Responder para responder sólo al
-  remitente.</li>
-  <li>Pulse en el botón Responder Todos para responder a todas las
-  direcciones del mensaje.</li>
+  <li>Pulse en el botón Responder para responder sólo al remitente.</li>
+  <li>Pulse en el botón Responder Todos para responder a todas las direcciones
+    del mensaje.</li>
 </ul>
 
-<p>Para incluir el mensaje original cada vez que conteste a cualquier
-mensaje, y para especificar cómo situar el mensaje original en la
-respuesta:</p>
+<p>Para incluir el mensaje original cada vez que conteste a cualquier mensaje,
+  y para especificar cómo situar el mensaje original en la respuesta:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas de
-  correo y noticias.</li>
-  <li>Si tiene múltiples cuentas, seleccione una y pulse la
-  categoría <a href="#addressing">Redacción y direcciones</a>
-  de esa cuenta.</li>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias.</li>
+  <li>Si tiene múltiples cuentas, seleccione una y pulse la categoría
+    <a href="#addressing">Redacción y direcciones</a> de esa cuenta.</li>
   <li>Seleccione <q>Citar automáticamente el mensaje original al
-  responder</q>.</li>
-  <li>Especifique dónde situar su respuesta en el mensaje. <q>Comenzar
-  mi respuesta bajo el texto citado</q> es la opción
-  predeterminada.</li>
-  <li>Si ha decidido <a href="#account_settings">adjuntar una firma</a> en
-  cada mensaje saliente y seleccionó en el paso anterior iniciar su
-  respuesta sobre el mensaje citado, puede también configurar
-  dónde situar su firma:
+    responder</q>.</li>
+  <li>Especifique dónde situar su respuesta en el mensaje. <q>Comenzar mi
+    respuesta bajo el texto citado</q> es la opción predeterminada.</li>
+  <li>Si ha decidido <a href="#account_settings">adjuntar una firma</a> en cada
+    mensaje saliente y seleccionó en el paso anterior iniciar su respuesta
+    sobre el mensaje citado, puede también configurar dónde situar su firma:
     <ul>
       <li>Seleccione <q>bajo el texto citado (recomendado)</q> para situar su
-      firma al final de todo el mensaje, bajo el texto citado.</li>
+        firma al final de todo el mensaje, bajo el texto citado.</li>
       <li>Seleccione <q>bajo mi respuesta (sobre el texto citado)</q> para
-      situar su firma entre su respuesta y el texto citado.</li>
+        situar su firma entre su respuesta y el texto citado.</li>
     </ul>
+    <p><strong>Nota</strong>: si ha creado una firma, puede
+      <a href="#addressing">omitirla</a> opcionalmente al responder a un
+      mensaje.</p>
   </li>
   <li>Pulse Aceptar.</li>
 </ol>
@@ -965,16 +975,16 @@ sección</a>]</p>
 
 <h2 id="forwarding_a_message">Reenviar un mensaje</h2>
 
-<p>Cuando se reenvía un mensaje, se puede especificar cómo
-se incluye su contenido en el nuevo mensaje: <em>en línea</em>
-(en el cuerpo del mensaje), o como <em>adjunto</em>.</p>
+<p>Cuando se reenvía un mensaje, se puede especificar cómo se incluye su
+  contenido en el nuevo mensaje: <em>en línea</em> (en el cuerpo del
+  mensaje), o como <em>adjunto</em>.</p>
 
 <p>Para reenviar un mensaje:</p>
 
 <ol>
   <li>Seleccione el mensaje y pulse el botón Reenviar.</li>
   <li>Escriba el nombre o dirección de correo electrónico del
-  destinatario.</li>
+    destinatario.</li>
   <li>Pulse el botón Enviar.</li>
 </ol>
 
@@ -982,116 +992,116 @@ se incluye su contenido en el nuevo mensaje: <em>en línea</em>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
-  <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
-  <li>En la categoría de Correo y grupos de noticias, elija <a
-  href="#composition">Redacción de mensajes</a> (si no hay
-  subcategorías visibles, haga doble clic en Correo y noticias
-  para expandir la lista).</li>
+    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+  <li>En la categoría de Correo y grupos de noticias, elija
+    <a href="#composition">Redacción de mensajes</a> (si no hay
+    subcategorías visibles, haga doble clic en Correo y noticias para expandir
+    la lista).</li>
   <li>Para reenviar mensajes, elija Incorporado (en el cuerpo del mensaje) o
-  Como adjunto.</li>
+    Como adjunto.
+
+    <p><strong>Nota</strong>: si ha creado una firma y la re-envía en línea,
+      su ubicación depende de la respectiva configuración de respuesta. Puede
+      <a href="#addressing">omitir la firma</a> opcionalmente al re-enviar un
+      mensaje.</p>
+  </li>
   <li>Pulse Aceptar.</li>
 </ol>
 
 <p><strong>Truco</strong>: para no tener en cuenta el comportamiento
-predeterminado al reenviar un mensaje, seleccione el mensaje, abra el
-menú Mensaje y escoja Reenviar como, y a continuación escoja
-entre Incorporado o Adjunto.</p>
+  predeterminado al reenviar un mensaje, seleccione el mensaje, abra el menú
+  Mensaje y escoja Reenviar como, y a continuación escoja entre Incorporado o
+  Adjunto.</p>
 
-<p>[<a href="#sending_messages">Volver al principio de la
-sección</a>]</p>
+<p>[<a href="#sending_messages">Volver al principio de la sección</a>]</p>
 
 <h2 id="confirming_that_your_message_was_opened">Confirmar que su mensaje ha
-sido abierto</h2>
+  sido abierto</h2>
 
-<p>Puede usar acuses de recibo para notificarle cuándo un destinatario
-ha visto (abierto) su mensaje. El destinatario debe estar utilizando
-un programa de corre que tenga la función estándar de
-Notificación de Disposición de Mensaje (MDN). Tenga en cuenta
-que el destinatario puede elegir no enviarle un acuse de recibo, incluso si
-usted lo ha solicitado. Los mensajes que se envían a un grupo de
-noticias no incluyen una solicitud de acuse de recibo, puesto que los
-servidores de noticias no permiten esta característica.</p>
+<p>Puede usar acuses de recibo para notificarle cuándo un destinatario ha visto
+  (abierto) su mensaje. El destinatario debe estar utilizando un programa de
+  correo que tenga la función estándar de Notificación de Disposición de
+  Mensaje (MDN). Tenga en cuenta que el destinatario puede elegir no enviarle
+  un acuse de recibo, incluso si usted lo ha solicitado. Los mensajes que se
+  envían a un grupo de noticias no incluyen una solicitud de acuse de recibo,
+  puesto que los servidores de noticias no permiten esta característica.</p>
 
-<p>Para solicitar acuses de recibo para todos los mensajes que envíe,
-puede usar las preferencias globales de <a
-href="#return_receipts_preferences">acuses de recibo</a> para especificar
-cómo gestionar las solicitudes de acuse de recibo que usted reciba.
-Puede variar estas preferencias globales en cada cuenta individual de correo.</p>
+<p>Para solicitar acuses de recibo para todos los mensajes que envíe, puede
+  usar las preferencias globales de
+  <a href="#return_receipts_preferences">acuses de recibo</a> para especificar
+  cómo gestionar las solicitudes de acuse de recibo que usted reciba. Puede
+  variar estas preferencias globales en cada cuenta individual de correo.</p>
 
 <p>Para solicitar un acuse de recibo para un mensaje individual:</p>
 
 <ul>
-  <li>Desde una ventana de redacción de mensaje, abra el menú
-  Opciones y escoja Acuse de recibo.</li>
+  <li>Desde una ventana de redacción de mensaje, abra el menú Opciones y escoja
+    Acuse de recibo.</li>
 </ul>
 
-<p>Para solicitar automáticamente acuses de recibo cuando envíe
-mensajes de cualquiera de sus cuentas de correo:</p>
+<p>Para solicitar automáticamente acuses de recibo cuando envíe mensajes de
+  cualquiera de sus cuentas de correo:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
-  <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
   <li>Bajo la categoría de Correo y noticias, pulse <a
-  href="#return_receipts_preferences">Acuses de recibo</a> (si no hay
-  subcategorías visibles, haga doble clic en Correo y noticias para
-  expandir la lista).</li>
-  <li>Seleccione <q>Cuando envío un mensaje, solicitar siempre un acuse
-  de recibo</q>.</li>
+    href="#return_receipts_preferences">Acuses de recibo</a> (si no hay
+    subcategorías visibles, haga doble clic en Correo y noticias para expandir
+    la lista).</li>
+  <li>Seleccione <q>Cuando envío un mensaje, solicitar siempre un acuse de
+    recibo</q>.</li>
   <li>Pulse Aceptar.</li>
 </ol>
 
-<p>Para más información sobre cómo configurar las
-preferencias de acuse de recibo, vea <a
-href="#return_receipts_preferences">Preferencias de Correo y noticias - Acuses
-de recibo</a>.</p>
+<p>Para más información sobre cómo configurar las preferencias de acuse de
+  recibo, vea <a href="#return_receipts_preferences">Preferencias de Correo y
+  noticias - Acuses de recibo</a>.</p>
 
-<p>[<a href="#sending_messages">Volver al principio de la
-sección</a>]</p>
+<p>[<a href="#sending_messages">Volver al principio de la sección</a>]</p>
 
-<h2 id="saving_and_editing_a_message_draft">Guardar y editar
-borradores</h2>
+<h2 id="saving_and_editing_a_message_draft">Guardar y editar borradores</h2>
 
 <p>Para guardar un mensaje de correo como borrador, para poder terminarlo
-después:</p>
+  después:</p>
 
 <ul>
-  <li>En la ventana de redacción, pulse el botón Guardar,
-  o abra el menú Archivo y elija Guardar como borrador. Por defecto,
-  el mensaje se guarda en la carpeta de borradores de la cuenta actual.
-  <p><strong>Nota</strong>: el mensaje permacerá abierto después
-  de salvarlo como borrador.</p>
+  <li>En la ventana de redacción, pulse el botón Guardar, o abra el menú
+    Archivo y elija Guardar como borrador. Por defecto, el mensaje se guarda
+    en la carpeta de borradores de la cuenta actual.
+    <p><strong>Nota</strong>: el mensaje permacerá abierto después de salvarlo
+      como borrador.</p>
   </li>
 </ul>
 
-<p>Para editar o enviar un borrador de mensaje, comenzando desde la ventana
-de Correo y noticias:</p>
+<p>Para editar o enviar un borrador de mensaje, comenzando desde la ventana de
+  Correo y noticias:</p>
 
 <ol>
-  <li>Elija la carpeta Borradores de la cuenta en la que se creó el
-  borrador del mensaje.</li>
+  <li>Elija la carpeta Borradores de la cuenta en la que se creó el borrador
+    del mensaje.</li>
   <li>Pulse en el mensaje que quiera editar.</li>
   <li>En la esquina superior derecha del mensaje, pulse el botón Editar
-  borrador (N. del T: si el botón no está visible, pulse en el
-  símbolo <q>+</q> a la izquierda del mensaje).</li>
+    borrador (N. del T: si el botón no está visible, pulse en el símbolo
+    <q>+</q> a la izquierda del mensaje).</li>
   <li>Realice los cambios necesarios en el mensaje.</li>
-  <li>Pulse el botón Enviar para mandar el mensaje o pulse el
-  botón Guardar para archivar el mensaje y continuar en otro
-  momento.
-  <p><strong>Nota</strong>: enviar el mensaje hace que se elimine de la carpeta
-  Borradores.</p>
+  <li>Pulse el botón Enviar para mandar el mensaje o pulse el botón Guardar
+    para archivar el mensaje y continuar en otro momento.
+    <p><strong>Nota</strong>: enviar el mensaje hace que se elimine de la
+      carpeta Borradores.</p>
   </li>
 </ol>
 
-<p><strong>Truco</strong>: también puede hacer doble clic en el mensaje
-para abrirlo y editarlo. Esto es especialmente últil si el panel de
-mensajes está cerrado.</p>
+<p><strong>Truco</strong>: también puede hacer doble clic en el mensaje para
+  abrirlo y editarlo. Esto es especialmente últil si el panel de mensajes está
+  cerrado.</p>
 
-<p>Para borrar uno o más borradores no deseados, comenzando desde la
-ventana de Correo y noticias:</p>
+<p>Para borrar uno o más borradores no deseados, comenzando desde la ventana de
+  Correo y noticias:</p>
 
 <ol>
   <li>Pulse en la carpeta Borradores de la cuenta donde ha creado los
-  borradores.</li>
+    borradores.</li>
   <li>Seleccione los borradores que quiere eliminar.</li>
   <li>Pulse Borrar en la barra de herramientas de Correo y noticias.</li>
 </ol>
@@ -2673,134 +2683,165 @@ sección</a>]</p>
 
 <h2 id="creating_message_filters">Crear filtros de mensajes</h2>
 
-<p>Los filtros de mensajes le permiten gestionar y organizar los mensajes.
-Se pueden crear filtros de mensajes que &brandShortName; usa para realizar
-automáticamente ciertas acciones sobre los mensajes entrantes basadas
-en los criterios que se especifiquen. Por ejemplo, se puede crear un filtro
-de mensaje que automáticamente mueva los mensajes entrantes a una
-carpeta determinada. Los filtros de mensajes operan a nivel de
-cuenta.</p>
+<p>Los filtros de mensajes le permiten gestionar y organizar los mensajes. Se
+  pueden crear filtros de mensajes que &brandShortName; usa para realizar
+  automáticamente ciertas acciones sobre los mensajes entrantes basadas en los
+  criterios que se especifiquen. Por ejemplo, se puede crear un filtro de
+  mensaje que automáticamente mueva los mensajes entrantes a una carpeta
+  determinada. Los filtros de mensajes operan se aplican a cada cuenta.</p>
 
-<p>Si no está viendo el cuadro de diálogo de filtros de mensaje,
-vaya a la ventana de Correo y noticias:</p>
+<p>Si no está viendo el cuadro de diálogo de filtros de mensaje, vaya a la
+  ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Herramientas y elija Filtros de mensaje. Verá
-  el cuadro de diálogo de filtros de mensaje.</li>
+  <li>Abra el menú Herramientas y elija Filtros de mensaje. Verá el cuadro de
+    diálogo de filtros de mensaje.</li>
   <li>Si tiene varias cuentas, elija la cuenta a la que quiera aplicar el
-  filtro.</li>
-  <li>Elija Nuevo. Use el cuadro de diálogo de Reglas de filtrado
-  para especificar los criterios de acción y la acción a
-  realizar por el filtro.</li>
+    filtro.</li>
+  <li>Elija Nuevo. Use el cuadro de diálogo de reglas de filtrado para
+    especificar los tipos de mensaje sobre los que actuar y las acciones a
+    realizar por el filtro.</li>
   <li>Escriba un nombre para el filtro.</li>
-  <li>Seleccione la opción adecuada para elegir el criterio a usar:
-  <q>que cumplan <em>todas</em> las siguientes</q> condiciones que elija,
-  o <q>que cumplan <em>cualquiera</em> de las siguientes</q>.</li>
-  <li>Use las listas desplegables para elegir el criterio de búsqueda
-  (por ejemplo, <q>Asunto</q>, <q>Remitente</q>, <q>contiene</q>, <q>no
-  contiene</q>) y luego escriba el texto o frase que quiera buscar.
+  <li>Selecciones cuándo quiere que se aplique el filtro. Este valor le permite
+    definir que algunos filtros se apliquen de manera automática (al comprobar
+    el correo), bajo demanda (al ejecutarlos manualmente), o en ambos casos.
+    <q>Tras clasificarlo</q> significa que los controles de correo basura y
+    correo fraudulento se ejecutarán antes de aplicar el filtro.</li>
+  <li>Seleccione la clase de coincidencia que debe usar Correo: <q>que se
+    cumplan <em>todas</em> las reglas</q> que indique, <q>que se cumplan
+    <em>cualquiera</em> de las reglas</q>, o que se <em>incluyan todos los
+    mensajes</em>.</li>
+  <li>Use las listas desplegables para elegir el criterio de búsqueda (por
+    ejemplo, <q>Asunto</q>, <q>Remitente</q>, <q>contiene</q>, <q>no
+    contiene</q>) y luego escriba el texto o frase que quiera buscar.
 
-  <p><strong>Truco</strong>: para buscar mensajes que contengan una cabecera
-  que no esté en la primera lista (por ejemplo, si quiere buscar
-  mensajes que incluyan la cabecera Resent-From), elija Personalizar y escriba
-  la cabecera por la que quiera buscar. &brandShortName; añade la
-  cabecera personalizada a la lista desplegable, para que pueda elegirla para
-  buscar entradas. Asegúrese de que introduce la cabecera personalizada
-  correctamente, puesto que &brandShortName; sólo encontrará las
-  entradas que coincidan exactamente con lo que haya escrito.</p>
+    <p><strong>Truco</strong>: para buscar mensajes que contengan una cabecera
+      que no esté en la primera lista (por ejemplo, si quiere buscar mensajes
+      que incluyan la cabecera Resent-From), elija Personalizar y escriba la
+      cabecera por la que quiera buscar. &brandShortName; añade la cabecera
+      personalizada a la lista desplegable, para que pueda elegirla para buscar
+      entradas. Asegúrese de que introduce la cabecera personalizada
+      correctamente, puesto que &brandShortName; sólo encontrará las entradas
+      que coincidan exactamente con lo que haya escrito.</p>
   </li>
   <li>Pulse en <q>+</q> para añadir criterios y en <q>-</q> para
-  quitarlos.</li>
-  <li>Use la lista para elegir la acción que quiera realizar sobre los
-  mensajes cuando se cumpla la condición indicada (por ejemplo, Mover a
-  la carpeta).
-  
-  <p><strong>Truco</strong>: para poner automáticamente una etiqueta
-  a los mensajes entrantes, elija <q>Etiquetar el mensaje</q> en la lista
-  desplegable.</p>
+    quitarlos.</li>
+  <li>Use la lista para elegir la acción que quiera realizar sobre los mensajes
+    cuando se cumpla la condición indicada (por ejemplo, Mover mensaje a). Use
+    <q>+</q> y <q>-</q> para añadir o eliminar acciones.
+ 
+    <p><strong>Truco</strong>: para poner automáticamente una etiqueta a los
+      mensajes entrantes, elija <q>Etiquetar mensaje</q> en la lista
+      desplegable.</p>
+
+    <p><strong>Truco</strong>: los filtros de mensajes se aplican uno detrás de
+      otro. Podría ser que no se quiera que se ejecuten todos los filtros si
+      uno o más mensajes cumplen ciertas condiciones. Por ejemplo, puede que
+      quiera etiquetar todos los mensajes con la dirección de correo de su jefe
+      como <q>Importante</q>, y puede que quiera que todos los mensajes que
+      contienen la palabra <q>Informe</q> en su asunto se muevan a una carpeta
+      llamada <q>Lecturas pendientes</q>, pero no quiere que ningún mensaje de
+      su jefe se mueva a otra carpeta, incluso si contiene <q>Informe</q> en el
+      asunto. Así que el primer filtro de mensaje que defina debería usar como
+      regla la dirección de correo de su jefe, y contendría dos acciones:
+      <q>Etiquetar mensaje</q> como <q>Importante</q> y <q>Detener ejecución de
+      los filtros</q>.</p>
   </li>
-  <li>Elija una carpeta de destino en la que guardar los mensajes, o cree
-  una nueva.</li>
+  <li>Si ha elegido <q>Mover</q> or <q>Copiar</q> el mensaje a una carpeta,
+    entonces elija una carpeta de destino en la que guardar los mensajes, o
+    cree una nueva.</li>
   <li>Pulse Aceptar para confirmar las opciones.</li>
-  <li>Pulse Aceptar en el cuadro de diálogo de filtros de mensaje. El
-  filtro comienza a actuar sobre los mensajes entrantes en el momento en que
-  se pulsa Aceptar.</li>
+  <li>Pulse Aceptar en el cuadro de diálogo de filtros de mensaje. El filtro
+    comienza a actuar sobre los mensajes entrantes en el momento en que se
+    pulsa Aceptar.</li>
 </ol>
 
-<p>Para gestionar los filtros, comenzando desde la ventana de Correo y noticias:</p>
+<p><strong>Nota</strong>: también puede ejecutar los filtros de mensajes
+  manualmente en cualquier momento. En la ventana de Correo, elija Herramientas
+  y luego seleccione Ejecutar filtros en la carpeta para aplicar los filtros en
+  carpeta actual, o Ejecutar filtros en el mensaje para aplicar los filtros en
+  los mensajes seleccionados (si hay alguno).</p>
+
+<p>Para gestionar los filtros, comenzando desde la ventana de Correo y
+  noticias:</p>
 
 <ol>
-  <li>Abra el menú Herramientas y elija Filtros de mensaje. Verá
-  el cuadro de diálogo de Filtros de Mensaje.</li>
-  <li>Si tiene varias cuentas de correo, elija la cuenta para la que va
-  a crear el filtro.</li>
+  <li>Abra el menú Herramientas y elija Filtros de mensaje. Verá el cuadro de
+    diálogo de filtros de mensaje.</li>
+  <li>Si tiene varias cuentas de correo, elija la cuenta para la que va a crear
+    el filtro.</li>
   <li>Puede realizar las siguientes acciones:
     <ul>
       <li><strong>Para activar o desactivar un filtro</strong>: marque o
-      desmarque la casilla que hay a la derecha del nombre del filtro para
-      activarlo o desactivarlo, cambiando el estado cada vez que se pulse en
-      la casilla.</li>
+        desmarque la casilla que hay a la derecha del nombre del filtro para
+        activarlo o desactivarlo, cambiando el estado cada vez que se pulse en
+        la casilla.</li>
       <li><strong>Para editar un filtro</strong>: seleccione el nombre del
-      filtro y pulse Editar o haga doble clic en el  nombre del filtro. Use el
-      cuadro de diálog de reglas de filtrado para realizar
-      cambios.</li>
+        filtro y pulse Editar o haga doble clic en el  nombre del filtro. Use
+        el cuadro de diálog de reglas de filtrado para realizar cambios.</li>
       <li><strong>Para borrar un filtro</strong>: seleccione el nombre del
-      filtro y pulse en Borrar.</li>
-      <li><strong>Para cambiar el orden de aplicación de los
-      filtros</strong>: en la lista de filtros, pulse en el nombre de uno y
-      pulse los botones Subir o Bajar para moverlo.
-      <p><strong>Nota</strong>: los filtros se aplican a cada mensaje entrante
-      en el orden que se indique, hasta que la acción elegida borre el
-      mensaje o lo mueva de la bandeja de entrada.</p>
+        filtro y pulse en Borrar.</li>
+      <li><strong>Para cambiar el orden de aplicación de los filtros</strong>:
+        en la lista de filtros, pulse en el nombre de uno y pulse los botones
+        Subir o Bajar para moverlo.
+        
+        <p><strong>Nota</strong>: los filtros se aplican a cada mensaje
+          entrante en el orden que se indique, hasta que la acción elegida
+          borre el mensaje o lo mueva de la bandeja de entrada.</p>
       </li>
     </ul>
-    </li>
-    <li>Pulse Aceptar cuando haya terminado de realizar los cambios en los
-    filtros. Si ha creado un filtro nuevo, comienza a actuar en el momento
-    de pulsar Aceptar.</li>
+  </li>
+  <li>Pulse Aceptar cuando haya terminado de realizar los cambios en los
+    filtros. Si ha creado un filtro nuevo, comienza a actuar en el momento de
+    pulsar Aceptar.</li>
 </ol>
 
 <p><strong>Nota</strong>: si se borra una carpeta donde almacenaba mensajes
-mediante un filtro, el filtro dejará de funcionar. Los mensajes que
-coincidan con el criterio del filtro se quedarán en la bandeja de
-entrada. Si se renombra o se mueve la carpeta, el filtro se actualizará
-automáticamente para usar el nombre nuevo.</p>
+  mediante un filtro, el filtro dejará de funcionar. Los mensajes que
+  coincidan con el criterio del filtro se quedarán en la bandeja de entrada. Si
+  se renombra o se mueve la carpeta, el filtro se actualizará automáticamente
+  para usar el nombre nuevo.</p>
 
 <p><strong>Truco</strong>: si tiene mensajes que quiere mover a otra carpeta,
-use la opción Ejecutar filtros en la carpeta del menú
-Herramientas.</p>
+  use la opción Ejecutar filtros en la carpeta del menú Herramientas.</p>
 
 <p>[<a href="#organizing_your_messages">Volver al principio de la
-sección</a>]</p>
+  sección</a>]</p>
 
 <h3 id="filtering_messages_from_a_specific_sender">Filtrar mensajes de un
-remitente específico</h3>
+  remitente específico</h3>
 
-<p>Puede crear rápidamente filtros para los mensajes de
-alguien en particular. Por ejemplo, si quiere mover automáticamente
-todos los mensajes entrantes del profesor de su hijo en una carpeta llamada
-<q>Colegio</q>, puede crear un filtro rápidamente para hacer esto.</p>
+<p>Puede crear rápidamente filtros para los mensajes de alguien en particular.
+  Por ejemplo, si quiere mover automáticamente todos los mensajes entrantes del
+  profesor de su hijo en una carpeta llamada <q>Colegio</q>, puede crear un
+  filtro rápidamente para hacer esto.</p>
 
 <p>Para crear un filtro para los mensajes de un remitente específico,
-comenzando desde la ventana de Correo y noticias:</p>
+  comenzando desde la ventana de Correo y noticias:</p>
 
 <ol>
   <li>Seleccione un mensaje del remitente específico.</li>
-  <li>Abra el menú Mensaje, y elija Crear filtro. Verá el cuadro
-  de diálogo de reglas de filtrado. &brandShortName; rellena el nombre
-  del filtro con el nombre del remitente, así como el criterio de
-  búsqueda y la acción (Mover a la carpeta).</li>
-  <li>Elija una carpeta de destino para almacenar los mensajes que reciba
-  de esa persona en concreto, o cree una carpeta nueva.</li>
-  <li>Pulse Aceptar para confirmar los datos. Verá el cuadro de
-  diálogo <a href="#creating_message_filters">Filtros de mensajes</a>,
-  donde puede crear, borrar o editar filtros de mensajes.</li>
-  <li>Pulse Aceptar. El filtro comienza a actuar en el momento en que se
-  pulsa Aceptar.</li>
+  <li>Abra el menú Mensaje, y elija Crear filtro. O, en el panel de cabecera
+    del mensaje, haga clic con el botón derecho en el nombre del remitente y
+    elija Crear filtro a partir de.</li>
+  <li>Verá el cuadro de diálogo de reglas de filtrado. Usando la dirección de
+    correo del remitente, &brandShortName; precumplimenta el criterio de
+    coincidencia y la acción del filtro (Mover mensaje a). Puede cambiar o
+    añadir nuevas reglas a los criterios de coincidencia.</li>
+  <li>Elija una carpeta de destino para almacenar los mensajes que reciba de
+    esa persona en concreto, o cree una carpeta nueva. Tambié puede elegir
+    otras acciones para este filtro, o cambiar la predeterminada.</li>
+  <li>Observe que, si deja el nombre del filtro vacío, &brandShortName;
+    le proporcionará un nombre basándose en la primera condición.</li>
+  <li>Pulse Aceptar para confirmar los datos. Verá el cuadro de diálogo
+    <a href="#creating_message_filters">Filtros de mensajes</a>, donde puede
+    crear, borrar o editar filtros de mensajes.</li>
+  <li>Pulse Aceptar. El filtro comienza a actuar en el momento en que se pulsa
+    Aceptar.</li>
 </ol>
 
 <p>[<a href="#organizing_your_messages">Volver al principio de la
-sección</a>]</p>
+  sección</a>]</p>
 
 <h2 id="searching_through_messages">Buscar entre los mensajes</h2>
 
@@ -2918,8 +2959,8 @@ funciona la detección de phishing.</p>
       basura</a></li>
     <li><a href="#junk_controls_options">Opciones de los controles de correo
       basura</a></li>
-    <li><a href="#junk_controls_and_filters">Controles y filtros de correo
-      basura</a></li>
+    <li><a href="#junk_controls_and_filters">Controles de correo basura y
+      filtros</a></li>
     <li><a href="#phishing_detection">Detección de phishing</a></li>
   </ul>
 </div>
@@ -2993,8 +3034,8 @@ sección</a>]</p>
 <h2 id="junk_controls_options">Opciones de los controles de correo basura</h2>
 
 <p>Para realizar un ajuste fino sobre el funcionamiento de los controles de
-  correo basura, use el <a href="#global_junk_settings">panel de preferencias
-  globales de correo basura</a> para la configuración común a
+  correo basura, use el <a href="#junk_and_suspect_preferences">panel de
+  preferencias de correo basura y sospechoso</a> para la configuración común a
   todas las cuentas y la <a href="#junk_settings">configuración de correo
   basura</a> del administrador de cuentas para la que sea específica de
   cada cuenta.</p>
@@ -3004,16 +3045,19 @@ sección</a>]</p>
 
 <h2 id="junk_controls_and_filters">Controles de correo basura y filtros</h2>
 
-<p>Los controles de correo basura se ejecutan después de los filtros de
-correo y se aplican únicamente a la bandeja de entrada y sus
-subcarpetas. Use esto en su propio beneficio; por ejemplo, puede filtrar
-correo del que esté seguro que no es correo basura a una carpeta
-especial fuera de la bandeja de entrada, de manera que los mensajes no puedan
-ser clasificados como correo basura (especialmente útil si se suscribe
-a <em>newsletters</em> o si está en una lista de correo moderada).</p>
+<p>Los controles de correo basura se ejecutan después de los filtros de correo
+  (a menos que configure el filtro para que se ejecute tras clasificar los
+  mensajes, entendiendo <q>clasificarlos</q> por analizarlos para determinar si
+  son correo basura o fraudulento) y se aplican únicamente a la bandeja de
+  entrada y sus subcarpetas. Use esto en su propio beneficio; por ejemplo,
+  puede filtrar correo del que esté seguro que no es correo basura a una
+  carpeta especial fuera de la bandeja de entrada, de manera que los mensajes
+  no puedan ser clasificados como correo basura (especialmente útil si se
+  suscribe a <em>boletines (newsletters)</em> o si está en una lista de correo
+  moderada).</p>
 
 <p>[<a href="#controlling_junk_mail">Volver al principio de la
-sección</a>]</p>
+  sección</a>]</p>
 
 <h2 id="phishing_detection">Detección de phishing</h2>
 
@@ -3318,6 +3362,400 @@ elija Suscribirse.</p>
 <p>[<a href="#getting_started_with_newsgroups">Volver al principio de la
 sección</a>]</p>
 
+<h1 id="getting_started_with_blogs_and_news_feeds">Comenzar con los canales de
+  blogs y noticias</h1>
+
+<div class="contentsBox">En esta sección:
+  <ul>
+    <li><a href="#subscribing_to_blogs_and_news_feeds">Suscribirse a canales de
+      blogs y noticias</a></li>
+    <li><a href="#subscribing_to_blogs_and_news_feeds_from_browser">Suscribirse
+      a canales de blogs y noticias desde una ventana del navegador</a></li>
+    <li><a href="#reading_blogs_and_news_feed_messages">Leer mensajes de canales
+      de blogs y noticias</a></li>
+    <li><a href="#posting_blog_messages">Publicar mensajes en blogs</a></li>
+    <li><a href="#adding_comments_to_a_blog_post">Añadir comentarios a un
+      artículo de blog</a></li>
+    <li><a href="#exporting_and_importing_feeds">Exportar e importar
+      canales</a></li>
+    <li><a href="#editing_a_feed">Editar un canal</a></li>
+    <li><a href="#removing_a_feed">Eliminar un canal</a></li>
+    <li><a href="#using_different_blogs_and_news_feeds_accounts">Usar varias
+      cuentas de canales de blogs y noticias</a></li>
+    <li><a href="#organizing_your_feeds">Organizar sus canales</a></li>
+  </ul>
+</div>
+
+<h2 id="subscribing_to_blogs_and_news_feeds">Suscribirse a canales de blogs y
+  noticias</h2>
+
+<p>Si ha configurado una
+  <a href="#setting_up_additional_mail_and_news_accounts">cuenta de blogs y
+  noticias</a>, puede suscribirse a canales de blogs y noticias.</p>
+
+<p>Para suscribirse a un canal, comience desde la ventana de Correo:</p>
+
+<ol>
+  <li id="getting_into_the_feed_subscriptions_dialog">Acceda al diálogo de
+    suscripción de canales. Hay varias maneras de hacer esto:
+    <ul>
+      <li>En el panel de cuentas, haga clic en la cuenta de canales de blogs y
+        noticias que desea gestionar, luego pulse en Administrar suscripciones
+        en el panel de la derecha.</li>
+      <li>En el panel de cuentas, haga clic en la cuenta de canales de blogs y
+        noticias que desea gestionar, o en un canal dentro de ella, y luego
+        abra el menú Archivo y elija Suscribirse.</li>
+      <li>En el panel de cuentas, <strong>haga clic con el botón derecho</strong>
+        en la cuenta de canales de blogs y noticias que desea gestionar y elija
+        Suscribirse...</li>
+      <li>Abra el menú Editar y seleccione la opción Configuración de cuentas
+        de correo y noticias. En el diálogo de configuración de cuentas de
+        correo y noticias, haga clic en la sección principal de una cuenta de
+        canales de blogs y noticias, y luego pulse el botón Administrar
+        suscripciones...</li>
+    </ul>
+  </li>
+  <li>Una vez en el diálogo de suscripciones de canales, haga clic en el botón
+    Añadir. Aparecerá el diálogo de propiedades de canales.</li>
+  <li>Escriba (o copie y pegue) la URL del canal en el campo de URL del
+    canal.</li>
+  <li>Pulse en la lista desplegable <q>Guardar artículos en</q> para elegir el
+    elemento de la lista donde quiere que se guarden los artículos. Esto le
+    permite agrupar múltiples canales en un elemento de la lista.</li>
+  <li>Marque <q>Mostrar el resumen del artículo en lugar de cargar la página
+    web</q> para mostrar un breve resumen que suelen incluir los canales de
+    blogs y noticias para cada artículo.
+    
+    <p><strong>Truco:</strong> mostrar el resumen del artículo reduce el tráfico
+      de red y es más rápido, puesto que el resumen ya se ha descargado cuando
+      se comprueba el canal en busca de nuevos artículos. Sin embargo, si
+      normalmente está interesado en el artículo completo, ahorrará tiempo
+      desmarcando esta opción.</p>
+  </li>
+  <li>Pulse Aceptar para confirmar la adición del canal.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="subscribing_to_blogs_and_news_feeds_from_browser">Suscribirse a canales
+  de blogs y noticias desde una ventana del navegador</h2>
+
+<p>Mientras navega por la web usando &brandShortName;, puede encontrar el icono
+  de descubrimiento de canales
+  (<img src="chrome://communicator/skin/icons/feedIcon.png"
+  style="width: 16px; height: 16px;" />) mientras visita una página web. Puede
+  hacer clic en él para ver una lista de canales disponibles y elegir uno para
+  que sea añadido a su primera cuenta de canales de blog y noticias.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="reading_blogs_and_news_feed_messages">Leer mensajes de canales de
+  blogs y noticias</h2>
+
+<p>Cuando abre su cuenta de blogs y noticias, ve la lista de canales a los
+  cuales se ha suscrito. &brandShortName; comprueba cada canal en busca de
+  nuevos mensajes y los descarga.</p>
+
+<p>Para leer mensajes de blogs y noticias, comience desde la ventana de
+  Correo:</p>
+
+<ol>
+  <li>Haga doble clic en una cuenta de blogs y noticias para ver sus canales
+    (si no hay canales, puede necesitar suscribirse a uno).</li>
+  <li>Pulse en el nombre de un canal para ver sus mensajes.</li>
+  <li>Pulse en un mensaje para leerlo. La cabecera mostrará la URL original
+    del artículo, la cual puede pulsar para abrir una ventana de navegador
+    con la página web correspondiente.</li>
+</ol>
+
+<p>Dependiendo de su configuración para las cuentas y cada canal individual, el
+  mensaje se mostrará en su vista resumida o en la vista completa. Puede
+  cambiarlo eligiendo la opción de menú Ver, y luego Descargar cuerpo del
+  mensaje como. Entonces podrá seleccionar una de estas opciones:</p>
+
+<ul>
+  <li><strong>Página web</strong>: seleccione esta opción para mostrar la
+    página web completa de este mensaje.</li>
+  <li><strong>Resumen</strong>: seleccione esta opción para mostrar la versión
+    corta resumida de este mensaje.</li>
+  <li><strong>Formato por omisión</strong>: seleccione esta opción para mostrar
+    el artículo en su formato predeterminado, como se haya especificado en las
+    opciones del canal o, en su defecto, en la cuenta de blogs y noticias.</li>
+</ul>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="posting_blog_messages">Publicar mensajes en blogs</h2>
+
+<p>Para publicar un mensaje, necesita una cuenta en el blog correspondiente.
+  Además, no hay manera estándar de publicar mensajes de blogs, así que
+  normalmente no podrá publicar mensajes desde el componente de correo de
+  &brandShortName;. En su lugar, necesitará abrir una ventana de navegador,
+  iniciar sesión en su cuenta del blog y usar la interfaz web.</p>
+ 
+<p>Algunos sistemas de blog, sin embargo, permiten publicar mensajes en el blog
+  enviando un mensaje de correo electrónico a una dirección específica.
+  Necesitará averiguar si su servicio de blog implementa esta característica, y
+  la dirección de correo electrónico correcta que debe usar.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="adding_comments_to_a_blog_post">Añadir comentarios a un artículo de
+  blog</h2>
+
+<p>Puesto que no hay manera estándar de añadir comentarios a un artículo de
+  blog, nomalmente necesitará abrir una ventana de navegador y usar la interfaz
+  web.</p>
+ 
+<p>Algunos sistemas de blogs, no obstante, permiten añadir comentarios enviando
+  un mensaje de correo electrónico a una dirección específica. Necesitará
+  averiguar si el servicio de blogs implementa esta característica, y la
+  dirección de correo electrónico correcta que debe usar.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="exporting_and_importing_feeds">Exportar e importar canales</h2>
+
+<p>Si ha configurado una
+  <a href="#setting_up_additional_mail_and_news_accounts">cuenta de blogs y
+  noticias</a>, puede exportar o importar colecciones de canales de blogs y
+  noticias usando el formato OPML (lenguaje de marcado de procesadores de
+  esquemas).</p>
+
+<p>Para exportar los canales en su cuenta seleccionada de blogs y noticias,
+  comience desde la ventana de Correo:</p>
+
+<ol>
+  <li>En el panel de cuentas, pulse en la cuenta de blogs y noticias que desee
+    gestionar, o en un canal dentro de ella.</li>
+  <li>Abra el menú Archivo y elija Suscribirse (o use cualquier otro de los
+    <a href="#getting_into_the_feed_subscriptions_dialog">métodos
+    disponibles</a> para acceder al cuadro de diálogo de suscripciones de
+    canales).</li>
+  <li>En el diálogo de suscripciones de canales, haga clic en el botón
+    Exportar. Aparecerá el diálogo Exportar canales como un archivo OPML.</li>
+  <li>Seleccione el directorio y nombre de archivo para guardar el archivo
+    OPML, y pulse en Guardar.</li>
+</ol>
+
+<p>Para importar los canales en su cuenta seleccionada de blogs y noticias,
+  comience desde la ventana de Correo:</p>
+
+<ol>
+  <li>En el panel de cuentas, pulse en la cuenta de blogs y noticias que desee
+    gestionar, o en un canal dentro de ella.</li>
+  <li>Abra el menú Archivo y elija Suscribirse (o use cualquier otro de los
+    <a href="#getting_into_the_feed_subscriptions_dialog">métodos
+    disponibles</a> para acceder al cuadro de diálogo de suscripciones de
+    canales).</li>
+  <li>En el diálogo de suscripciones de canales, haga clic en el botón
+    Importar. Aparecerá el diálogo Seleccione archivo OPML para importar.</li>
+  <li>Seleccione el directorio y nombre de archivo para cargar el archivo
+    OPML, y pulse en Abrir.</li>
+  <li>Se añadirán todos los canales definidos en el archivo OPML a su cuenta
+    de blogs y noticias.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="editing_a_feed">Editar un canal</h2>
+
+<p>Si quiere cambiar las propiedades de uno de los canales en su cuenta de blogs
+  y noticias, puede editarlo.</p>
+
+<p>Para editar un canal en su cuenta de blogs y noticias seleccionada, comience
+  desde la ventana de Correo:</p>
+
+<ol>
+  <li>En el panel de cuentas, pulse en la cuenta de blogs y noticias que desee
+    gestionar, o en un canal dentro de ella.</li>
+  <li>Abra el menú Archivo y elija Suscribirse (o use cualquier otro de los
+    <a href="#getting_into_the_feed_subscriptions_dialog">métodos
+    disponibles</a> para acceder al cuadro de diálogo de suscripciones de
+    canales).</li>
+  <li>En el diálogo de suscripción de canales, pulse en un canal en la lista de
+    canales. Puede que necesite desplegar las carpetas en la lista de canales
+    para ver cada canal individual.</li>
+  <li>Pulse en el botón Editar. Aparecerá el diálogo de propiedades del
+    canal.</li>
+  <li>Puede cambiar dónde quiere que se guarden los artículos pulsando la lista
+    desplegable <q>Guardar artículos en</q>.</li>
+  <li>Puede marcar <q>Mostrar el resumen del artículo en lugar de cargar la
+    página web</q> para mostrar un breve resumen que suelen incluir para cada
+    artículo los canales de blogs.
+    
+    <p><strong>Truco:</strong> mostrar el resumen del artículo reduce el tráfico
+      de red y es más rápido, puesto que el resumen ya se ha descargado cuando
+      se comprueba en canal en busca de nuevos artículos. Sin embargo, si
+      normalmente está interesado en el artículo completo, ahorrará tiempo
+      desmarcando esta opción.</p>
+  </li>
+  <li>Pulse Aceptar para confirmar los cambios.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="removing_a_feed">Eliminar un canal</h2>
+
+<p>Si ya no quiere seguir uno de los canales de su cuenta de blogs y noticias,
+  puede eliminarlo.</p>
+
+<p>Para eliminar un canal en su cuenta de blogs y noticias seleccionada,
+  comience desde la ventana de Correo:</p>
+
+<ol>
+  <li>En el panel de cuentas, pulse en la cuenta de blogs y noticias que desee
+    gestionar, o en un canal dentro de ella.</li>
+  <li>Abra el menú Archivo y elija Suscribirse (o use cualquier otro de los
+    <a href="#getting_into_the_feed_subscriptions_dialog">métodos
+    disponibles</a> para acceder al cuadro de diálogo de suscripciones de
+    canales).</li>
+  <li>En el diálogo de suscripción de canales, pulse en un canal en la lista de
+    canales. Puede que necesite desplegar las carpetas en la lista de canales
+    para ver cada canal individual.</li>
+  <li>Pulse en el botón Eliminar. Se le pedirá que confirme la eliminación del
+    canal.</li>
+</ol>
+
+<p><strong>Nota:</strong> no confunda un canal con una carpeta en una cuenta de
+  blogs y noticias. Eliminar un canal no elimina la carpeta en la que se
+  guardan los artículos del canal y, por tanto, dichos artículos permanecerán
+  en la carpeta hasta que elimine bien la carpeta completa o los artículos en
+  sí. Para una mejor comprensión, vea <a href="#organizing_your_feeds">Organizar
+  sus canales</a> más adelante en esta sección.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="using_different_blogs_and_news_feeds_accounts">Usar varias cuentas de
+  canales de blogs y noticias</h2>
+
+<p>Una única cuentas de canales de blogs y noticias puede contener cualquier
+  número de canales en ella, así que estrictamente hablando no necesita más de
+  una cuenta de canales de blogs y noticias. Sin embargo, puede querer crear
+  varias cuentas de canales de blogs y noticias. Algunas razones para hacer
+  eso son:</p>
+
+<ul>
+  <li>Puede querer usar diferentes cuentas para categorizar sus canales. Por
+    ejemplo, puede crear una cuenta llamada <q>Noticias de Mozilla</q> para
+    poner en ella todos sus canales relacionados con Mozilla, y otra llamada
+    <q>Titulares del día</q> para poner en ella todos sus canales con noticias
+    generales.</li>
+  <li>Si tiene varias cuentas, cada una puede tener configuraciones diferentes.
+    De esta manera, puede elegir, por ejemplo, diferentes intervalos de tiempo
+    para cada cuenta (y, en consecuencia, sus canales).</li>
+</ul>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Volver al principio de
+  la sección</a>]</p>
+
+<h2 id="organizing_your_feeds">Organizar sus canales</h2>
+
+<p>La operación por defecto cuando se añade un canal a una cuenta de blogs y
+  noticias en &brandShortName; es crear una carpeta y un canal dentro de ella.
+  Sin embargo, &brandShortName; le permite un alto grado de flexibilidad. Esta
+  sección le permite organizar mejor sus canales:</p>
+
+<div class="contentsBox">En esta sección:
+  <ul>
+    <li><a href="#feeds_vs_folders">Canales vs. carpetas</a></li>
+    <li><a href="#organizing_folders_in_blogs_and_news_feeds_accounts">Organizar
+      carpetas en cuentas de canales de blogs y noticias</a></li>
+    <li><a href="#downloading_multiple_feeds_in_a_single_folder">Descargar
+       múltiples canales en una sola carpeta</a></li>
+    <li><a href="#moving_a_feed_to_another_folder">Mover un canal a otra
+      carpeta</a></li>
+  </ul>
+</div>
+
+<h3 id="feeds_vs_folders">Canales vs. carpetas</h3>
+
+<p>Las cuentas de canales de blogs y noticias se organizan mediante dos
+  conceptos principales: <strong>canales</strong> y
+  <strong>carpetas</strong>.</p>
+  
+<ul>
+  <li>Los <strong>canales</strong> son fuentes de artículos/mensajes.
+    Proporcionan el medio de obtener nuevos artículos de los blogs. Usted se
+    suscribe a canales.</li>
+  <li>Las <strong>carpetas</strong> en las cuentas de canales de blogs y
+    noticias funcionan más o menos igual que en cualquier otro tipo de cuenta.
+    Las carpetas guardan los artículos/mensajes que obtiene a través de los
+    canales.</li>
+</ul>
+
+<p>Usted usa el diálogo de suscripción de canales para decirle a
+  &brandShortName; qué mensajes de canales se descargan en qué canales. Como
+  los canales suministran nuevos artículos y las carpetas proporcionan el
+  espacio donde poner dichos artículos, puede querer tenerlos conectados,
+  normalmente enlazando un canal con una carpeta. Sin embargo, tenga en cuenta
+  que eliminar un canal no elimina automáticamente la carpeta asociada, ni
+  tampoco los artículos/mensajes del canal eliminado, puesto que aquéllos se
+  guardan en la carpeta.</p>
+
+<p>[<a href="#organizing_your_feeds">Volver al principio de la sección</a>]</p>
+
+<h3 id="organizing_folders_in_blogs_and_news_feeds_accounts">Organizar carpetas
+  en cuentas de canales de blogs y noticias</h3>
+
+<p>Puede crear, renombrar, mover o copiar carpetas en las cuentas de canales de
+  blogs y noticias exactamente igual que con cualquier otro tipo de cuenta. Vea
+  <a href="#creating_a_folder">Crear una carpeta</a>,
+  <a href="#renaming_a_folder">Renombrar una carpeta</a> y
+  <a href="#moving_or_copying_a_folder">Mover o copiar una carpeta</a> para más
+  detalles.</p>
+
+<p>[<a href="#organizing_your_feeds">Volver al principio de la sección</a>]</p>
+
+<h3 id="downloading_multiple_feeds_in_a_single_folder">Descargar múltiples
+  canales en una sola carpeta</h3>
+
+<p>Puede querer usar una sola carpeta para guardar los artículos/mensajes
+  provenientes de más de un canal. Para hacer esto, necesita añadir canales
+  adicionales en esa carpeta. Comience desde la carpeta de Correo:</p>
+
+<ol>
+  <li>En el panel de cuentas, pulse en la cuenta de blogs y noticias que desee
+    gestionar, o en un canal dentro de ella.</li>
+  <li>Abra el menú Archivo y elija Suscribirse (o use cualquier otro de los
+    <a href="#getting_into_the_feed_subscriptions_dialog">métodos
+    disponibles</a> para acceder al cuadro de diálogo de suscripciones de
+    canales).</li>
+  <li>Una vez en el diálogo de suscripciones de canales, haga clic en la
+    carpeta, luego pulse el botón Añadir. Aparecerá el diálogo de propiedades
+    de canales.</li>
+  <li>Escriba (o copie y pegue) la URL del canal en el campo de URL del
+    canal.</li>
+  <li>Pulse Aceptar para confirmar la adición del canal.</li>
+</ol>
+
+<p>[<a href="#organizing_your_feeds">Volver al principio de la sección</a>]</p>
+
+<h3 id="moving_a_feed_to_another_folder">Mover un canal a otra carpeta</h3>
+
+<p>Puede mover un canal de una carepta a otra usando cualquiera de estos
+  métodos:</p>
+
+<ul>
+  <li>Arrastre y suelte un canal dentro de la ventana de suscripciones de
+    canales.</li>
+  <li><a href="#editing_a_feed">Edite el canal</a> para cambiar en qué carpeta
+    se descargan los artículos/mensajes.</li>
+</ul>
+
+<p><strong>Nota</strong>: recuerde que mover el canal no mueve los artículos
+  existentes de la carpeta en la que han sido descargados.</p>
+
+<p>[<a href="#organizing_your_feeds">Volver al principio de la sección</a>]</p>
+
 <h1 id="working_offline">Trabajar sin conexión</h1>
 
 <div class="contentsBox">En esta sección:
@@ -3325,8 +3763,8 @@ sección</a>]</p>
     <li><a
     href="#setting_up_mozilla_mail_and_newsgroups_to_work_offline">Configurar
     &brandShortName; para trabajar sin conexión</a></li>
-    <li><a href="#downloading_your_inbox_for_offline_use">Descargar su bandeja
-    de entrada para usar sin conexión</a></li>
+    <li><a href="#downloading_all_messages_for_offline_use">Descargar todos
+    los mensajes para su uso sin conexión</a></li>
     <li><a href="#downloading_an_individual_folder_for_offline_use">Descargar
     una carpeta individual para trabajar sin conexión</a></li>
     <li><a
@@ -3346,86 +3784,80 @@ sección</a>]</p>
   </ul>
 </div>
 
-<h2 id="setting_up_mozilla_mail_and_newsgroups_to_work_offline">
-Configurar &brandShortName; para trabajar sin conexión</h2>
+<h2 id="setting_up_mozilla_mail_and_newsgroups_to_work_offline">Configurar
+  &brandShortName; para trabajar sin conexión</h2>
 
-<p>La característica de &brandShortName; para trabajar sin
-conexión le permite descargar el correo y leerlo sin estar conectado a
-Internet. Si usa una conexión telefónica (módem) para
-acceder a su correo y quiere reducir el tiempo que está conectado, o si
-necesita desconectar temporalmente de la red de su empresa mientras viaja o
-cambiar de método de conexión, puede descargar su correo para
-poder leerlo sin conexión. La característica sin conexión
-puede descargar automáticamente los mensajes entrantes y enviar
-después los mensajes pendientes de enviar cuando se vuelva a
-conectar.</p>
+<p>La característica de &brandShortName; para trabajar sin conexión le permite
+  descargar el correo y leerlo sin estar conectado a Internet. Si usa una
+  conexión telefónica (módem) para acceder a su correo y quiere reducir el
+  tiempo que está conectado, o si necesita desconectar temporalmente de la red
+  de su empresa mientras viaja o cambiar de método de conexión, puede descargar
+  su correo para poder leerlo sin conexión. La característica sin conexión
+  puede descargar automáticamente los mensajes entrantes y enviar después los
+  mensajes pendientes de enviar cuando se vuelva a conectar.</p>
 
 <p>Observe que, para las cuentas POP, su correo ya se descarga de manera
-predeterminada, por lo que la mayoría de las características de trabajo sin
-conexión no son relevantes para las cuentas POP.</p>
+  predeterminada, por lo que la mayoría de las características de trabajo sin
+  conexión no son relevantes para las cuentas POP.</p>
 
-<p>Si quiere trabajar sin conexión, &brandShortName; le
-facilita:</p>
+<p>Si quiere trabajar sin conexión, &brandShortName; le facilita:</p>
 
 <ul>
   <li>Descargar su bandeja de entrada para usar sin conexión.</li>
   <li>Descargar una carpeta individual para usarla sin conexión.</li>
   <li>Descargar sólo los mensajes seleccionados o marcados para usar
-  sin conexión.</li>
+    sin conexión.</li>
   <li>Descargar entradas de directorio en su libreta de direcciones para
-  usarlas sin conexión.</li>
+    usarlas sin conexión.</li>
 </ul>
 
-<p>Si trabaja sin conexión a menudo, &brandShortName; también le
-permite:</p>
+<p>Si trabaja sin conexión a menudo, &brandShortName; también le permite:</p>
 
 <ul>
-  <li>Configurar una o más de sus cuentas para usar sin
-  conexión.</li>
+  <li>Configurar una o más de sus cuentas para usar sin conexión.</li>
   <li>Configurar las preferencias para trabajar sin conexión y espacio
-  en disco para cada cuenta.</li>
+    en disco para cada cuenta.</li>
   <li>Seleccionar las carpetas y grupos de noticias que quiere ver sin
-  conexión.</li>
+    conexión.</li>
 </ul>
 
 <p>[<a href="#working_offline">Volver al principio de la
-sección</a>]</p>
+  sección</a>]</p>
 
-<h2 id="downloading_your_inbox_for_offline_use">Descargar la Bandeja de
-entrada para usar sin conexión</h2>
+<h2 id="#downloading_all_messages_for_offline_use">Descargar todos los mensajes
+  para su uso sin conexión</h2>
 
-<p>Puede decirle a &brandShortName; que descargue automáticamente los
-mensajes de la bandeja de entrada para usarlos sin conexión.
-Después, cuando vuelva a estar conectado, &brandShortName; sincroniza
-automáticamente su bandeja de entrada con el servidor.</p>
+<p>Puede decirle a &brandShortName; que descargue automáticamente sus
+  mensajes para usarlos sin conexión. Después, cuando vuelva a estar conectado,
+  &brandShortName; sincroniza automáticamente sus mensajes con el servidor.</p>
 
 <p>Observe que la bandeja de entrada las cuentas POP se descarga de modo
-predeterminado, por lo que esta sección no es aplicable a las cuentas POP.</p>
+  predeterminado, por lo que esta sección no es aplicable a las cuentas POP.</p>
 
-<p>Para descargar automáticamente la Bandeja de entrada para usar
-sin conexión, comenzando desde la ventana de Correo y noticias:</p>
+<p>Para descargar automáticamente sus mensajes para usarlos sin conexión,
+  comience desde la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas
-  de correo y noticias. Verá aparecer un cuadro de
-  diálogo.</li>
-  <li>En la parte izquierda del cuadro de diálogo, elija la cuenta que
-  quiere usar sin conexión, y seleccione Sin conexión y espacio
-  en disco (esta categoría no está disponible en cuentas
-  POP).</li>
-  <li>Marque la casilla <q>Hacer que los mensajes en mi bandeja de entrada
-  estén disponibles cuando trabaje sin conexión</q>.</li>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias. Verá aparecer un cuadro de diálogo.</li>
+  <li>En la parte izquierda del cuadro de diálogo, elija la cuenta que quiere
+    usar sin conexión, y seleccione Sincronización y almacenamiento (esta
+    categoría no está disponible en cuentas POP).</li>
+  <li>Marque la casilla <q>Conservar mensajes de esta cuenta en este
+    equipo</q>.</li>
   <li>Pulse Aceptar.</li>
-  <li>En el panel de carpetas, bajo el nombre de la cuenta que desea usar sin
-  conexión, pulse cualquier carpeta distinta de Bandeja de entrada. Por
-  ejemplo, pulse en la carpeta Enviados o Borradores. A continuación
-  pulse la carpeta bandeja de entrada para comenzar a descargar sus
-  mensajes.</li>
-  <li>Una vez la descarga se haya completado, pulse el indicador
-  Conectado/desconectado <img src="images/online.png" alt="" />
-  en la esquina inferior derecha de la ventana de Correo y noticias (a la
-  izquierda del icono de cookies) para ir al modo sin conexión.</li>
+  <li>Pulse el indicador Con/Sin conexión <img src="images/online.png" alt=""/>
+    en la esquina inferior derecha de la ventana de Correo (a la izquierda del
+    icono de la cookie) para pasar a modo sin conexión. Se le preguntará si
+    quiere descargar mensajes para que estén disponibles en el modo sin
+    conexión. Pulse en <q>Descargar</q> para proceder.</li>
 </ol>
+
+<p><strong>Nota</strong>: esta configuración también se aplica a cualquier
+  nueva carpeta creada. Si bien la configuración por cuenta se puede modificar
+  para una <a href="#downloading_an_individual_folder_for_offline_use">carpeta
+  individual</a>, estas opciones por carpeta <em>se eliminan</em> cuando se
+  marca/desmarca la casilla <q>Conservar mensajes</q>.</p>
 
 <p>&brandShortName; descarga automáticamente todos los mensajes en la
 bandeja de entrada para que pueda leer y responderlos mientras trabaja sin
@@ -3452,7 +3884,7 @@ automáticamente sus mensajes pendientes al volver a tener
 conexión, vaya al menú <span
 class="mac">&brandShortName;</span><span class="noMac">Editar</span>, elija
 Preferencias, y en la categoría del mismo nombre, cambie las <a
-href="#offline_and_disk_space_preferences">preferencias sin
+href="#network_and_storage_preferences">preferencias sin
 conexión</a> que desee para todas sus cuentas.</p>
 
 <p>[<a href="#working_offline">Volver al principio de la
@@ -3469,20 +3901,17 @@ comenzando desde la ventana de Correo y noticias:</p>
 
 <ol>
   <li>En la parte izquierda de la ventana de Correo y noticias, seleccione la
-  carpeta que quiere descargar para usar sin conexión.</li>
+    carpeta que quiere descargar para usar sin conexión.</li>
   <li>Abra el menú Editar y elija Propiedades de la carpeta.</li>
-  <li>Pulse la pestaña Sin conexión.</li>
-  <li>Marque <q>Seleccionar esta carpeta para usar sin
-  conexión</q>.</li>
+  <li>Pulse la pestaña Sincronización.</li>
+  <li>Marque <q>Seleccionar esta carpeta para usar sin conexión</q>.</li>
   <li>Elija Descargar ahora si quiere comenzar inmediatamente a descargar los
-  mensajes de la carpeta. También puede continuar trabajando, y cuando
-  esté preparado para la desconexión, vaya al siguiente
-  punto.</li>
+    mensajes de la carpeta. También puede continuar trabjando, y cuando
+    esté preparado para la desconexión, vaya al siguiente punto.</li>
   <li>Pulse el indicador Conectado/desconectado <img src="images/online.png"
-  alt="" /> en la esquina inferior derecha de la ventana de Correo y noticias
-  para ir al modo sin conexión.</li>
-  <li>En el cuadro de diálogo de trabajar sin conexión, elija
-  Descargar.</li>
+    alt="" /> en la esquina inferior derecha de la ventana de Correo y noticias
+    para ir al modo sin conexión.</li>
+  <li>En el cuadro de diálogo de trabajar sin conexión, elija Descargar.</li>
 </ol>
 
 <p>&brandShortName; automáticamente descarga todos los mensajes de la
@@ -3516,7 +3945,7 @@ los mensajes guardados. Para que &brandShortName; haga esto
 automáticamente al volver a tener conexión, vaya al menú
 <span class="mac">&brandShortName;</span><span class="noMac">Editar</span>,
 elija Preferencias, y en la categoría del mismo nombre, elija las
-<a href="#offline_and_disk_space_preferences">preferencias Sin
+<a href="#network_and_storage_preferences">preferencias Sin
 conexión</a> que desee.</p>
 
 <p>[<a href="#working_offline">Volver al principio de la
@@ -3604,7 +4033,7 @@ mensajes guardados. Para que &brandShortName; haga esto automáticamente
 al volver a tener conexión, vaya al menú <span
 class="mac">&brandShortName;</span><span class="noMac">Editar</span>, elija
 Preferencias, y en la categoría del mismo nombre, elija las <a
-href="#offline_and_disk_space_preferences">preferencias Sin
+href="#network_and_storage_preferences">preferencias Sin
 conexión</a> que desee.</p>
 
 <p>[<a href="#working_offline">Volver al principio de la
@@ -3665,30 +4094,31 @@ POP o grupo de noticias).</p>
 cuentas para usar sin conexión:</p>
 
 <ol>
-  <li>Para cada cuenta con la que quiera trabajar sin conexión, use
-  el cuadro de diálogo de Configuración de cuentas de correo
-  y noticias para configurar las opciones sin conexión y espacio en
-  disco para esa cuenta. Debe seleccionar los elementos (cuentas, carpetas,
-  grupos) que quiera descargar para usar sin conexión. Vea <a
-  href="#selecting_items_for_offline_viewing">Seleccionar elementos para ver
-  sin conexión</a> para más información.
+  <li>Para cada cuenta con la que quiera trabajar sin conexión, use el cuadro
+    de diálogo de Configuración de cuentas de correo y noticias para
+    configurar las opciones de sincronización y almacenamiento para esa cuenta.
+    Debe seleccionar los elementos (carpetas y grupos) que quiere descargar
+    para usar sin conexión. Vea <a
+    href="#selecting_items_for_offline_viewing">Seleccionar elementos para ver
+    sin conexión</a> para más información.
 
-  <p>Cuando haya terminado, no hace falta que cambie estas opciones. Vea las
-  secciones siguientes para más información para configurar las
-  opciones de Sin conexión y espacio en disco para cuentas <a
-  href="#offline_and_disk_space_settings_imap">IMAP</a>, <a
-  href="#disk_space_settings">POP</a> y <a
-  href="#offline_and_disk_space_settings_nntp">grupos de noticias</a>.</p>
+    <p>Cuando haya terminado, no hace falta que cambie estas opciones. Vea las
+      secciones siguientes para más información para configurar las opciones
+      sin conexión y espacio en disco para cuentas
+      <a href="#synchronization_and_storage_settings_imap">IMAP</a>,
+      <a href="#disk_space_settings_pop">POP</a>,
+      <a href="#disk_space_settings_blogs">Blogs</a> y
+      <a href="#synchronization_and_storage_settings_nntp">grupos de
+      noticias</a>.</p>
 
-  <p><strong>Truco</strong>: para configurar las preferencias Sin
-  conexión y espacio en disco para la cuenta actual, abra el
-  menú Archivo, elija Sin conexión, y luego Opciones sin
-  conexión.</p>
+    <p><strong>Truco</strong>: para configurar las preferencias de
+      sincronización y almacenamiento para la cuenta actual, abra el menú
+      Archivo, elija Sin conexión, y luego Opciones sin conexión.</p>
   </li>
   <li>Abra el menú Archivo, elija Sin conexión, y luego escoja
-  Descargar/Sincronizar ahora en el submenú.</li>
+    Descargar/Sincronizar ahora en el submenú.</li>
   <li>Seleccione el tipo de mensajes (correo, grupos o ambos) que quiera
-  descargar.
+    descargar.
 
   <p><strong>Importante</strong>: debe seleccionar al menos una
   categoría (mensajes de correo o mensajes de grupos de noticias) para
@@ -3723,19 +4153,21 @@ también más espacio en disco.</p>
 comenzando desde la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar, elija Configuración de cuentas
-  de correo y noticias. Verá aparecer el cuadro de diálogo
-  para configurar las cuentas.</li>
-  <li>Elija la categoría Sin conexión y espacio en disco para
-  la cuenta que quiera cambiar.</li>
-  <li>Pulse el botón Seleccionar. Verá sus cuentas y carpetas
-  de correo IMAP y los grupos a los que esté suscrito.
-  <p><strong>Nota</strong>: sólo verá los grupos y las carpetas
-  a las que esté <a href="#subscribing_to_newsgroups">suscrito</a>.
-  Las cuentas POP y las carpetas locales no aparecen en la lista.</p>
+  <li>Abra el menú Editar, elija Configuración de cuentas de correo y
+    noticias. Verá aparecer el cuadro de diálogo para configurar las
+    cuentas.</li>
+  <li>Elija la categoría Sincronización y almacenamiento para la cuenta que
+    quiere cambiar.</li>
+  <li>Pulse <q>Avanzado</q> para ver sus carpetas IMAP, o <q>Seleccionar
+    grupos de noticias para su uso sin condexión</q> para los grupos de
+    noticias a los que esté suscrito.
+
+    <p><strong>Nota</strong>: sólo verá los grupos y las carpetas a las que
+      esté <a href="#subscribing_to_newsgroups">suscrito</a>. Las cuentas POP
+      y las carpetas locales no aparecen en la lista.</p>
   </li>
   <li>Seleccione los elementos (carpetas, grupos) que quiera tener disponibles
-  para usar sin conexión.</li>
+    para usar sin conexión.</li>
   <li>Pulse Aceptar.</li>
 </ol>
 
@@ -3822,34 +4254,35 @@ comience desde la ventana de Correo y noticias.</p>
 para leer sin conexión muestran un icono de sobre o grupo de noticias
 con un gris más oscuro que el resto.</p>
 
-<p><strong>Truco</strong>: para configurar el comportamiento de
-&brandShortName; al descargar antes de la desconexión, abra el
-menú <span class="mac">&brandShortName;</span><span
-class="noMac">Editar</span>, elija Preferencias, y luego elija la
-categoría Sin conexión y espacio en disco. Se puede elegir que
-&brandShortName; pregunte si quiere descargar los mensajes cuando vaya a
-desconectarse, para poder elegir cada vez si descargar o no los mensajes.</p>
+<p><strong>Truco</strong>: para configurar el comportamiento de &brandShortName;
+  al descargar antes de la desconexión, abra el menú
+  <span class="mac">&brandShortName;</span><span class="noMac">Editar</span>,
+  elija Preferencias, y luego, dentro de la categoría Correo y noticias, elija
+  Red y almacenamiento (si no hay categorías visibles, haga doble clic en
+  Correo y noticias para expandir la lista). Se puede hacer que
+  &brandShortName; pregunte si quiere descargar los mensajes cada vez que pase
+  a modo sin conexión, que los descargue automáticamente, o que no descargue
+  ningún mensaje.</p>
 
 <p>Para volver a conectar y sincronizar los mensajes:</p>
 
 <ol>
   <li>Pulse el indicador Conectado/desconectado <img src="images/offline.png"
-  alt="" /> en la esquina inferior derecha de cualquier ventana de
-  &brandShortName;.</li>
+    alt="" /> en la esquina inferior derecha de cualquier ventana de
+    &brandShortName;.</li>
   <li>Abra el menú Archivo, elija Sin conexión, y luego escoja
-  Descargar/Sincronizar ahora.</li>
+    Descargar/Sincronizar ahora.</li>
 </ol>
 
 <p>&brandShortName; sincroniza sus mensajes con el servidor replicando
-cualquier cambio realizado mientras se estaba trabajando sin
-conexión.</p>
+  cualquier cambio realizado mientras se estaba trabajando sin conexión.</p>
 
 <p><strong>Truco</strong>: para configurar lo que debe hacer &brandShortName;
-al pasar a modo con conexión, abra el menú <span
-class="mac">&brandShortName;</span><span class="noMac">Editar</span>,
-elija Preferencias, y luego elija la categoría Sin conexión y
-espacio en disco. Se puede hacer que &brandShortName; pregunte cada vez, para
-enviar o no automáticamente los mensajes pendientes de enviar.</p>
+  al pasar a modo con conexión, abra el menú <span
+  class="mac">&brandShortName;</span><span class="noMac">Editar</span>, elija
+  Preferencias, y luego elija la categoría Sincronización y almacenamiento.
+  Se puede hacer que &brandShortName; pregunte cada vez, para
+  enviar o no automáticamente los mensajes pendientes de enviar.</p>
 
 <p>[<a href="#working_offline">Volver al principio de la
 sección</a>]</p>
@@ -3880,8 +4313,8 @@ cuentas, siga estos pasos:</p>
     <li><a href="#server_settings">Configuración del servidor</a></li>
     <li><a href="#copies_and_folders">Copias y carpetas</a></li>
     <li><a href="#addressing">Redacción y direccionamiento</a></li>
-    <li><a href="#offline_and_disk_space">Sin conexión y espacio en
-      disco</a></li>
+    <li><a href="#synchronization_and_storage">Sincronización y
+      almacenamiento</a></li>
     <li><a href="#junk_settings">Configuración de correo basura</a></li>
     <li><a href="#return_receipts">Acuses de recibo</a></li>
     <li><a href="#security">Seguridad</a></li>
@@ -3890,36 +4323,70 @@ cuentas, siga estos pasos:</p>
   </ul>
 </div>
 
-<h2 id="account_settings">Configuración de la cuenta -
-(cuentas de correo y noticias)</h2>
+<h2 id="account_settings">Configuración de la cuenta - (cuentas de correo y
+  noticias)</h2>
 
-<p>Esta sección describe cómo ver o cambiar la
-configuración de la cuenta, como el nombre de usuario, dirección
-de respuesta y fichero de firma. Si todavía no tiene delante la
-configuración de las cuentas, vaya a la ventana de Correo y
-noticias:</p>
+<p>Esta sección describe cómo ver o cambiar la configuración de la cuenta, como
+  el nombre de usuario, dirección de respuesta y firma. Si todavía no tiene
+  delante la configuración de las cuentas, vaya a la ventana de Correo y
+  noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de
-  las cuentas de correo y noticias. Verá un cuadro de
-  diálogo.</li>
+  <li>Abra el menú Editar y elija Configuración de las cuentas de correo y
+    noticias. Verá un cuadro de diálogo.</li>
   <li>Seleccione el nombre de la cuenta de la que quiera para ver el panel
-  de configuración.</li>
+    de configuración.</li>
 </ol>
 
 <ul>
   <li><strong>Nombre de cuenta</strong>: el nombre de la cuenta.</li>
-  <li><strong>Identidad</strong>: aquí se guarda el nombre, la
-  dirección de correo electrónico, la dirección de
-  respuesta (sólo si es diferente de la de correo) y la
-  organización (opcional).</li>
-  <li><strong>Adjuntar esta firma</strong>: indique aquí el archivo
-  (en formato texto o HTML) con la firma que quiere añadir a los
-  mensajes que envíe. Pulse en Elegir para indicar el fichero de
-  firma (opcional).</li>
-  <li><strong>Adjuntar mi vCard a los mensajes</strong>: le permite elegir
-  si su vCard debe adjuntarse a sus mensajes salientes. Pulse Editar tarjeta
-  para editar la información de la tarjeta (opcional).</li>
+  <li>Para cualquier tipo de cuenta excepto canales de blogs y noticias:
+    <ul>
+      <li><strong>Identidad</strong>: aquí se guarda el nombre, la dirección de
+        correo electrónico, la dirección de respuesta (sólo si es diferente de
+        la de correo) y la organización (opcional).</li>
+      <li><strong>Texto de la firma</strong>: si quiere adjuntar una firma a
+        todos los mensajes enviados, escriba su texto en este cuadro. Marque
+        <strong>Usar HTML</strong> para activar el código HTML, p.e.
+        &lt;b&gt;negrita&lt;/b&gt; (opcional).</li>
+      <li><strong>Adjuntar la firma desde un archivo</strong>: le permite elegir
+        adjuntar la firma desde un archivo (en formato texto, HTML o imagen) en
+        lugar de escribir el texto. Marcar esta opción prevalece sobre cualquier
+        texto introducido en el cuadro de la firma. Pulse Elegir para localizar
+        el archivo de firma (opcional).
+    
+        <p>Hay más opciones de firmas en <a href="#addressing">Redacción y
+          direcciones</a>.</p>
+      </li>
+      <li><strong>Adjuntar mi vCard a los mensajes</strong>: le permite elegir
+        si su vCard debe adjuntarse a sus mensajes salientes. Pulse Editar
+        tarjeta para editar la información de la tarjeta (opcional).</li>
+    </ul>
+  </li>
+  <li>Para cuentas de canales de blogs y noticias:
+    <ul>
+      <li><strong>Comprobar si hay mensajes nuevos al iniciar</strong>:
+        seleccione esta casilla si quiere comprobar esta cuenta automáticamente
+        en busca de nuevos mensajes de blogs y noticias siempre que inicie
+        Correo y noticias.</li>
+      <li><strong>Buscar mensajes nuevos cada [__] minutos</strong>: seleccione
+        esta casilla si quiere especificar el número de minutos entre dos
+        comprobaciones de canales. También puede comprobar si hay nuevos
+        mensajes de blogs y noticias en cualquier momento pulsando Recibir
+        mensajes en la ventana de Correo.</li>
+      <li><strong>Mostrar de forma predeterminada el resumen de artículos en
+        vez de cargar la página web</strong>: seleccione esta casilla si quiere
+        que &brandShortName; muestre un breve resumen del artículo (incluido
+        dentro del canal) en lugar de cargar la página web completa. Mostrar el
+        resumen del artículo es ligeramente más rápido que la página web
+        completa, pero puede perder parte del contenido del artículo.</li>
+      <li><strong>Vaciar papelera al salir</strong>: vacía la carpeta Papelera
+        siempre que cierra Correo y noticias.</li>
+      <li><strong>Administrar suscripciones...</strong>: muestra el diálogo de
+        suscripción de canales, que le permite añadir, editar y eliminar
+        canales en esta cuenta de blogs y noticias.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
@@ -3928,26 +4395,25 @@ sección</a>]</p>
 <h2 id="server_settings">Configuración del servidor -
 (cuentas de correo y noticias)</h2>
 
-<p>&brandShortName; puede trabajar con dos tipos de servidores de correo:
-IMAP y POP. Si no está seguro del tipo de servidor de su
-proveedor de Internet, pregúntele. Si soporta ambos tipos,
-lo que viene a continuación puede ayudarle a elegir
-qué tipo usar.</p>
+<p>&brandShortName; puede trabajar con dos tipos de servidores de correo: IMAP
+  y POP. Si no está seguro del tipo de servidor de su proveedor de Internet,
+  pregúntele. Si admite ambos tipos, lo que viene a continuación puede ayudarle
+  a elegir qué tipo usar.</p>
 
 <div class="contentsBox">En esta sección:
   <ul>
     <li><a href="#about_internet_message_access_protocol">Sobre el Internet
-    Message Access Protocol (IMAP)</a></li>
+      Message Access Protocol (IMAP)</a></li>
     <li><a href="#about_post_office_protocol">Sobre el Post Office Protocol
-    (POP)</a></li>
+      (POP)</a></li>
     <li><a href="#imap_server_settings">Configuración del servidor
-    IMAP</a></li>
+      IMAP</a></li>
     <li><a href="#advanced_imap_server_settings">Configuración avanzada
-    de un servidor IMAP</a></li>
+      de un servidor IMAP</a></li>
     <li><a href="#pop_server_settings">Configuración de un servidor
-    POP</a></li>
+      POP</a></li>
     <li><a href="#news_server_settings">Configuración de servidores de
-    noticias</a></li>
+      noticias</a></li>
   </ul>
 </div>
 
@@ -4008,57 +4474,63 @@ la ventana de Correo y noticias:</p>
 
 <ul>
   <li><strong>Tipo de servidor</strong>: el tipo de servidor (Servidor de
-  correo IMAP) que especificó al crear esta cuenta. Para cambiar
-  el tipo de servidor asociado con esta cuenta, debe borrarla y volver a
-  crearla.</li>
-  <li><strong>Nombre del servidor</strong>: el nombre del servidor
-  que especificó al crear esta cuenta. Si tiene problemas al
-  obtener el correo de esta cuenta, compruebe con el proveedor o el
-  administrador del sistema que el nombre del servidor introducido
-  es correcto.</li>
-  <li><strong>Nombre de usuario</strong>: el nombre de usuario que
-  especificó al crear esta cuenta.</li>
-  <li><strong>Puerto</strong>: a menos que su proveedor o administrador
-  del sistema le indique lo contrario, deje esta opción como
-  está.</li>
-  <li><strong>Usar conexión segura (SSL)</strong>: elija esta
-  opción si su servidor de correo está configurado para enviar
-  y recibir correo cifrado. Si no está seguro, contacte con su
-  proveedor o administrador del sistema.</li>
-  <li><strong>Usar identificación segura</strong>: escoja este valor si
-  quiere usar mecanismos seguros para iniciar sesión, tales como
-  CRAM-MD5. Si no está seguro de si su servicio permite esta
-  característica, póngase en contacto con su proveedor de
-  servicios o administrador del sistema.</li>
-  <li><strong>Comprobar si hay correo nuevo al iniciar</strong>: elija
-  esta opción si quiere que &brandShortName; compruebe
-  automáticamente si hay mensajes nuevos para esta cuenta al iniciar
-  el correo y noticias de &brandShortName;.</li>
+    correo IMAP) que especificó al crear esta cuenta. Para cambiar el tipo de
+    servidor asociado con esta cuenta, debe borrarla y volver a crearla.</li>
+  <li><strong>Nombre del servidor</strong>: el nombre del servidor que
+    especificó al crear esta cuenta. Si tiene problemas al obtener el correo de
+    esta cuenta, compruebe con el proveedor o el administrador del sistema que
+    el nombre del servidor introducido es correcto.</li>
+  <li><strong>Nombre de usuario</strong>: el nombre de usuario que especificó
+    al crear esta cuenta.</li>
+  <li><strong>Puerto</strong>: a menos que su proveedor o administrador del
+    sistema le indique lo contrario, deje esta opción como está.</li>
+  <li><strong>Seguridad de la conexión</strong>: elija una de las opciones
+    disponibles para establecer una <a
+    href="glossary.xhtml#secure_connection">conexión segura</a> a su servidor
+    IMAP entrante. Puede elegir una de las siguientes:
+    <ul>
+      <li><strong>Ninguna</strong>: &brandShortName; usará una conexión simple,
+        sin ningún tipo de cifrado. Debería escoger esta opción
+        <strong>sólo</strong> si su servidor entrante no admite ningún tipo de
+        seguridad.</li>
+      <li><strong>STARTTLS</strong>: requiere una conexión cifrada, usa el
+        método <a href="glossary.xhtml#starttls">STARTTLS</a>. Este mecanismo
+        usará normlamente el puerto IMAP estándar 143.</li>
+      <li><strong>SSL/TLS</strong>: requiere una conexión cifrada, usa el
+        método IMAP-sobre-SSL. El puerto predeterminado para éste es 993.</li>
+    </ul>
+  </li>
+  <li><strong>Usar identificación segura</strong>: escoja este valor si quiere
+    usar mecanismos seguros para iniciar sesión, tales como CRAM-MD5. Si no
+    está seguro de si su servicio permite esta característica, póngase en
+    contacto con su proveedor de servicios o administrador del sistema.</li>
+  <li><strong>Comprobar si hay mensajes nuevo al iniciar</strong>: elija esta
+    opción si quiere que &brandShortName; compruebe automáticamente si hay
+    mensajes nuevos para esta cuenta al iniciar el correo y noticias de
+    &brandShortName;.</li>
   <li><strong>Comprobar si hay mensajes nuevos cada [__] minutos</strong>:
-  elija esta opción para comprobar automáticamente si hay
-  mensajes nuevos, y luego cada cuántos minutos realizar la
-  comprobación. Si no selecciona esta opción, puede comprobar si
-  hay mensajes nuevos en cualquier momento pulsando el botón Obtener
-  mensajes en la ventana de Correo y noticias.</li>
+    elija esta opción para comprobar automáticamente si hay mensajes nuevos, y
+    luego cada cuántos minutos realizar la comprobación. Si no selecciona esta
+    opción, puede comprobar si hay mensajes nuevos en cualquier momento
+    pulsando el botón Obtener mensajes en la ventana de Correo y noticias.</li>
   <li id="when_i_delete_a_message"><strong>Cuando borre un mensaje</strong>:
-  elija qué debe hacer &brandShortName; cuando borre un mensaje.
-  <q>Moverlo a la papelera</q> es lo recomendado a menos que se le indique lo
-  contrario por parte de su proveedor o administrador del sistema. Los
-  mensajes marcados para borrar se eliminan sólo cuando se compactan
-  las carpetas.</li>
+    elija qué debe hacer &brandShortName; cuando borre un mensaje. <q>Moverlo a
+    esta carpeta</q>, donde puede elegir la carpeta concreta a usar, es lo
+    recomendado a menos que se le indique lo contrario por parte de su
+    proveedor o administrador del sistema. Los mensajes marcados para borrar
+    se eliminan sólo cuando se compactan las carpetas.</li>
   <li><strong>Limpiar la bandeja de entrada al salir</strong>: elimina los
-  mensajes marcados para borrar de la bandeja de entrada cuando sale del
-  correo de &brandShortName;. Elija esta opción si eligió marcar
-  los mensajes para su borrado posterior.</li>
-  <li><strong>Vaciar la papelera al salir</strong>: vacía la papelera
-  al salir del correo de &brandShortName;.</li>
+    mensajes marcados para borrar de la bandeja de entrada cuando sale del
+    correo de &brandShortName;. Elija esta opción si eligió marcar los mensajes
+    para su borrado posterior.</li>
+  <li><strong>Vaciar la papelera al salir</strong>: vacía la papelera al salir
+    del correo de &brandShortName;.</li>
   <li><strong>Avanzadas</strong>: le permite escoger un servidor de salida
-  (SMTP) distinto para los mensajes salientes de esta cuenta. También
-  puede llegar a la <a
-  href="#advanced_imap_server_settings">configuración avanzada del
-  servidor IMAP</a> a través de este botón.</li>
+    (SMTP) distinto para los mensajes salientes de esta cuenta. También puede
+    llegar a la <a href="#advanced_imap_server_settings">configuración avanzada
+    del servidor IMAP</a> a través de este botón.</li>
   <li><strong>Directorio local</strong>: el directorio en el disco duro donde
-  se almacena el correo para esta cuenta. </li>
+    se almacena el correo para esta cuenta.</li>
 </ul>
 
 <h3 id="advanced_imap_server_settings">Configuración avanzada de un
@@ -4098,147 +4570,155 @@ sección</a>]</p>
 
 <h3 id="pop_server_settings">Configuración del servidor POP</h3>
 
-<p>Si no tiene delante la configuración del servidor POP, vaya a la
-ventana de Correo y noticias:</p>
+<p>Si no tiene delante la configuración del servidor POP, vaya a la ventana de
+  Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas
-  de correo y noticias. Verá aparecer un cuadro de diálogo.</li>
-  <li>Seleccione el nombre de la cuenta y elija la categoría
-  Configuración del servidor (si eligió un servidor POP cuando
-  configuró esta cuenta, verá la configuración del
-  servidor POP).</li>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias. Verá aparecer un cuadro de diálogo.</li>
+  <li>Seleccione el nombre de la cuenta y elija la categoría Configuración del
+    servidor (si eligió un servidor POP cuando configuró esta cuenta, verá la
+    configuración del servidor POP).</li>
 </ol>
 
 <ul>
   <li><strong>Tipo de servidor</strong>: el tipo de servidor (Servidor de
-  correo POP) que especificó cuando creó esta cuenta. Para
-  cambiar el tipo de servidor asociado con esta cuenta, debe borrar
-  la cuenta y volver a crearla.</li>
+    correo POP) que especificó cuando creó esta cuenta. Para cambiar el tipo de
+    servidor asociado con esta cuenta, debe borrar la cuenta y volver a
+    crearla.</li>
   <li><strong>Nombre del servidor</strong>: el nombre del servidor que
-  especificó al crear esta cuenta. Si tiene problemas al obtener
-  el correo de esta cuenta, compruebe con el proveedor o el administrador
-  del sistema que el nombre del servidor introducido es correcto.</li>
-  <li><strong>Nombre de usuario</strong>: el nombre de usuario que
-  especificó al crear esta cuenta.</li>
-  <li><strong>Puerto</strong>: a menos que su proveedor o administrador
-  del sistema le indique lo contrario, deje esta opción como
-  está.</li>
-  <li><strong>Usar conexión segura (SSL)</strong>: elija esta
-  opción si su servidor de correo está configurado para enviar
-  y recibir correo cifrado. Si no está seguro, contacte con su
-  proveedor o administrador del sistema.</li>
-  <li><strong>Usar identificación segura</strong>: escoja este valor si
-  quiere usar mecanismos seguros para iniciar sesión, tales como
-  CRAM-MD5 o APOP. Si no está seguro de si su servicio permite esta
-  característica, póngase en contacto con su proveedor de
-  servicios o administrador del sistema.</li>
-  <li><strong>Comprobar si hay correo nuevo al iniciar</strong>: elija esta
-  opción si quiere que &brandShortName; compruebe
-  automáticamente si hay mensajes nuevos para esta cuenta al iniciar el
-  correo y noticias de &brandShortName;. En las cuentas POP, &brandShortName;
-  no descarga los mensajes nuevos hasta que se pulsa en Obtener mensajes en la
-  barra de herramientas de Correo y noticias.</li>
-  <li><strong>Comprobar si hay mensajes nuevos cada [__] minutos</strong>:
-  elija esta opción para comprobar automáticamente si hay
-  mensajes nuevos, y luego cada cuántos minutos realizar la
-  comprobación. Si no selecciona esta opción, puede comprobar si
-  hay mensajes nuevos en cualquier momento pulsando el botón Obtener
-  mensajes en la ventana de Correo y noticias.</li>
-  <li><strong>Descargar los mensajes nuevos automáticamente</strong>:
-  elija esta opción si quiere que &brandShortName; recupere los
-  mensajes nuevos cada vez que comprueba el servidor.</li>
-  <li><strong>Descargar sólo las cabeceras</strong>: elija esta
-  opción si quiere descargar únicamente las cabeceras en lugar
-  de los mensajes completos cuando descargue correo nuevo. Esta opción
-  requiere que su servidor POP reconozca el comando <q>TOP</q>. Los servidores
-  más modernos lo admiten, pero si no está seguro sobre su
-  servidor, contacte con su proveedor de servicio o administrador de
-  sistema.</li>
-  <li><strong>Dejar mensajes en el servidor</strong>: elija esta opción
-  para dejar una copia de los mensajes en el servidor de correo, además
-  de la que se descarga en el ordenador.
+    especificó al crear esta cuenta. Si tiene problemas al obtener el correo de
+    esta cuenta, compruebe con el proveedor o el administrador del sistema que
+    el nombre del servidor introducido es correcto.</li>
+  <li><strong>Nombre de usuario</strong>: el nombre de usuario que especificó
+    al crear esta cuenta.</li>
+  <li><strong>Puerto</strong>: a menos que su proveedor o administrador del
+    sistema le indique lo contrario, deje esta opción como está.</li>
+  <li><strong>Seguridad de la conexión</strong>: elija una de las opciones
+    disponibles para establecer una <a
+    href="glossary.xhtml#secure_connection">conexión segura</a> a su servidor
+    POP entrante. Puede elegir una de las siguientes:
     <ul>
-      <li><strong>Hasta [__] días</strong>: escoja esta opción
-      para eliminar los mensajes del servidor automáticamente cuando
-      haya transcurrido el número de días que introduzca
-      aquí.</li>
-      <li><strong>Hasta que yo los borre o mueva de la bandeja de
-      entrada</strong>: escoja esta opción para eliminar los mensajes
-      del servidor una vez que los borre o mueva de su bandeja de entrada a
-      otra carpeta.</li>
+      <li><strong>Ninguna</strong>: &brandShortName; usará una conexión simple,
+        sin ningún tipo de cifrado. Debería escoger esta opción
+        <strong>sólo</strong> si su servidor entrante no admite ningún tipo de
+        seguridad.</li>
+      <li><strong>STARTTLS</strong>: requiere una conexión cifrada, usa el
+        método <a href="glossary.xhtml#starttls">STARTTLS</a>. Este mecanismo
+        usará normlamente el puerto POP estándar 110.</li>
+      <li><strong>SSL/TLS</strong>: requiere una conexión cifrada, usa el
+        método POP-sobre-SSL. El puerto predeterminado para éste es 995.</li>
+    </ul>
+  </li>
+  <li><strong>Usar identificación segura</strong>: escoja este valor si quiere
+    usar mecanismos seguros para iniciar sesión, tales como CRAM-MD5 o APOP. Si
+    no está seguro de si su servicio permite esta característica, póngase en
+    contacto con su proveedor de servicios o administrador del sistema.</li>
+  <li><strong>Comprobar si hay mensajes nuevos al iniciar</strong>: elija esta
+    opción si quiere que &brandShortName; compruebe automáticamente si hay
+    mensajes nuevos para esta cuenta al iniciar el correo y noticias de
+    &brandShortName;. En las cuentas POP, &brandShortName; no descarga los
+    mensajes nuevos hasta que se pulsa en Obtener mensajes en la barra de
+    herramientas de Correo y noticias.</li>
+  <li><strong>Comprobar si hay mensajes nuevos cada [__] minutos</strong>:
+    elija esta opción para comprobar automáticamente si hay mensajes nuevos, y
+    luego cada cuántos minutos realizar la comprobación. Si no selecciona esta
+    opción, puede comprobar si hay mensajes nuevos en cualquier momento
+    pulsando el botón Obtener mensajes en la ventana de Correo y noticias.</li>
+  <li><strong>Descargar los mensajes nuevos automáticamente</strong>:
+    elija esta opción si quiere que &brandShortName; recupere los mensajes
+    nuevos cada vez que comprueba el servidor.</li>
+  <li><strong>Descargar sólo las cabeceras</strong>: elija esta opción si
+    quiere descargar únicamente las cabeceras en lugar de los mensajes
+    completos cuando descargue correo nuevo. Esta opción requiere que su
+    servidor POP reconozca el comando <q>TOP</q>. Los servidores más modernos
+    lo admiten, pero si no está seguro sobre su servidor, contacte con su
+    proveedor de servicio o administrador de sistema.</li>
+  <li><strong>Dejar mensajes en el servidor</strong>: elija esta opción para
+    dejar una copia de los mensajes en el servidor de correo, además de la que
+    se descarga en el ordenador.
+    <ul>
+      <li><strong>Hasta [__] días</strong>: escoja esta opción para eliminar
+        los mensajes del servidor automáticamente cuando haya transcurrido el
+        número de días que introduzca aquí.</li>
+      <li><strong>Hasta que yo los borre</strong>: escoja esta opción para
+        eliminar los mensajes del servidor una vez que los borre.</li>
     </ul>
   </li>
   <li><strong>Borrar mensajes en el servidor cuando se borren
-  localmente</strong>: elija esta opción para borrar los mensajes del
-  servidor una vez que los borre del ordenador.</li>
-  <li><strong>Vaciar la papelera al salir</strong>: vacía la papelera
-  al salir del correo de &brandShortName;.</li>
-  <li><strong>Avanzadas</strong>: le permite elegir un servidor saliente
-  (SMTP) para los mensajes salientes de esta cuenta.</li>
+    localmente</strong>: elija esta opción para borrar los mensajes del
+    servidor una vez que los borre del ordenador.</li>
+  <li><strong>Vaciar la papelera al salir</strong>: vacía la papelera al salir
+    del correo de &brandShortName;.</li>
+  <li><strong>Avanzadas</strong>: le permite elegir dónde deben depositarse los
+    nuevos mensajes. También puede incluir el servidor entre los que se
+    consultan en busca de correo nuevo periódicamente.</li>
   <li><strong>Directorio local</strong>: el directorio en el disco duro donde
-  se almacena el correo para esta cuenta.</li>
+    se almacena el correo para esta cuenta.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
 sección</a>]</p>
 
-<h3 id="news_server_settings">Configuración del servidor de
-noticias</h3>
+<h3 id="news_server_settings">Configuración del servidor de noticias</h3>
 
-<p>Esta sección describe cómo cambiar la configuración
-de un servidor de noticias. Si no está viendo la configuración
-del servidor de noticias, vaya a la ventana de Correo y noticias:</p>
+<p>Esta sección describe cómo cambiar la configuración de un servidor de
+  noticias. Si no está viendo la configuración del servidor de noticias, vaya a
+  la ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de las
-  cuentas de correo y noticias. Verá aparecer un cuadro de
-  diálogo.</li>
-  <li>Seleccione el nombre de la cuenta y elija la categoría
-  Configuración del servidor (si eligió un servidor de noticias
-  cuando configuró esta cuenta, verá la configuración del
-  servidor de noticias).</li>
+  <li>Abra el menú Editar y elija Configuración de las cuentas de correo y
+    noticias. Verá aparecer un cuadro de diálogo.</li>
+  <li>Seleccione el nombre de la cuenta y elija la categoría Configuración del
+    servidor (si eligió un servidor de noticias cuando configuró esta cuenta,
+    verá la configuración del servidor de noticias).</li>
 </ol>
 
 <ul>
   <li><strong>Tipo de servidor</strong>: el tipo de servidor (Servidor de
-  noticias NNTP) que especificó cuando creó esta cuenta.</li>
+    noticias NNTP) que especificó cuando creó esta cuenta.</li>
   <li><strong>Nombre del servidor</strong>: el nombre del servidor que
-  especificó al crear esta cuenta. Si tiene problemas para recibir
-  mensajes en esta cuenta, compruebe con el proveedor o el administrador del
-  sistema que el nombre del servidor introducido es correcto.</li>
+    especificó al crear esta cuenta. Si tiene problemas para recibir mensajes
+    en esta cuenta, compruebe con el proveedor o el administrador del sistema
+    que el nombre del servidor introducido es correcto.</li>
   <li><strong>Puerto</strong>: a menos que su proveedor o administrador del
-  sistema le indique lo contrario, deje esta opción como
-  está.</li>
-  <li><strong>Usar conexión segura (SSL)</strong>: elija esta
-  opción si su servidor de noticias está configurado para enviar
-  y recibir correo cifrado. Si no está seguro, contacte con su
-  proveedor o administrador del sistema.</li>
+    sistema le indique lo contrario, deje esta opción como está.</li>
+  <li><strong>Seguridad de la conexión</strong>: elija &quot;SSL/TLS&quot; si
+    su servidor de noticias está configurado para enviar y recibir mensajes
+    cifrados, o &quot;Ninguna&quot; si no lo admite. Si no está seguro,
+    contacte con su proveedor de servicios o administrador del sistema.</li>
+  <li><strong>Comprobar si hay mensajes nuevos al iniciar</strong>: elija este
+    valor para comprobar automáticamente si hay nuevos mensajes al abrir el
+    componente Correo y noticias de &brandShortName;.</li>
   <li><strong>Comprobar si hay mensajes nuevos cada [__] minutos</strong>:
-  elija esta opción para comprobar automáticamente si hay
-  mensajes nuevos, y luego cada cuántos minutos realizar la
-  comprobación. Si no selecciona esta opción, puede comprobar si
-  hay mensajes nuevos en cualquier momento pulsando el botón Recibir
-  mensajes en la ventana de Correo y noticias.</li>
-  <li><strong>Preguntarme antes de descargar más de [__]
-  mensajes</strong>: elija esta opción para conservar espacio en disco
-  y ahorrar tiempo de descarga, configurando un límite para el
-  número de mensajes que se pueden descargar cada vez.</li>
-  <li><strong>Solicitar identificación siempre cuando se conecte a este
-  servidor</strong>: algunos servidores le permiten conversar con ellos sin
-  iniciar sesión, pero ocultarán sin avisar todos los
-  grupos/mensajes <em>privados</em> a menos que haya iniciado sesión.
-  Elija este valor para forzar que &brandShortName; se identifique cada vez
-  que conecta con el servidor incluso cuando el servidor no lo solicita
-  (también llamado <q>identificación forzada</q>).</li>
-  <li><strong>Avanzadas</strong>: le permite escoger un servidor saliente
-  (SMTP) para los mensajes salientes de esta cuenta.</li>
+    elija esta opción para comprobar automáticamente si hay mensajes nuevos, y
+    luego cada cuántos minutos realizar la comprobación. Si no selecciona esta
+    opción, puede comprobar si hay mensajes nuevos en cualquier momento
+    pulsando el botón Recibir mensajes en la ventana de Correo y noticias.</li>
+  <li><strong>Preguntarme antes de descargar más de [__] mensajes</strong>:
+    elija esta opción para conservar espacio en disco y ahorrar tiempo de
+    descarga, configurando un límite para el número de mensajes que se pueden
+    descargar cada vez.</li>
+  <li><strong>Solicitar siempre identificación al conectar con este
+    servidor</strong>: algunos servidores le permiten conversar con ellos sin
+    iniciar sesión, pero ocultarán sin avisar todos los grupos/mensajes
+    <em>privados</em> a menos que haya iniciado sesión. Elija este valor para
+    forzar que &brandShortName; se identifique cada vez que conecta con el
+    servidor incluso cuando el servidor no lo solicita (también llamado
+    <q>identificación forzada</q>).</li>
   <li><strong>archivo newsrc</strong>: la ruta al archivo newsrc se muestra
-  principalmente para su información. El archivo newsrc guarda
-  información acerca de los grupos a los que está suscrito y los
-  mensajes que ha leído en cada grupo.</li>
+    principalmente para su información. El archivo newsrc guarda información
+    acerca de los grupos a los que está suscrito y los mensajes que ha leído
+    en cada grupo.</li>
   <li><strong>Directorio local</strong>: el directorio en el disco duro donde
-  se almacena el correo para esta cuenta.</li>
+    se almacena el correo para esta cuenta.</li>
+  <li><strong>Codificación de caracteres predeterminada</strong>: haga clic en
+    esta lista desplegable para seleccionar la codificación de caracteres que
+    quiere que use Correo y noticias como predeterminada para los mensajes
+    entrantes de grupos de noticias. Se recomienda esto si es probable que
+    reciba mensajes en los cuales la codificación de caracteres (juego de
+    caracteres MIME) no esté indicada, como cuando se leen mensajes en grupos
+    de noticias internacionales.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
@@ -4299,257 +4779,345 @@ y carpetas, vaya a la ventana de Correo y noticias:</p>
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
 sección</a>]</p>
 
-<h2 id="addressing">Configuración de redacción y
-direcciones - (cuentas de correo y noticias)</h2>
+<h2 id="addressing">Configuración de redacción y direcciones - (cuentas de
+  correo y noticias)</h2>
 
-<p>Utilice los valores de configuración de Redacción para elegir
-cómo quiere formatear el texto y gestionar las respuestas.</p>
+<p>Utilice los valores de configuración de Redacción para elegir cómo quiere
+  formatear el texto, gestionar las respuestas y cómo se incluye una firma
+  que haya definido.</p>
+
+<p>Si no está viendo aún la configuración de redacción, vaya a la ventana de
+  Correo y noticias:</p>
+
+<ol>
+  <li>Abra el menú Editar y elija Configuración de la cuenta de correo y
+    noticias. Verá aparecer un cuadro de diálogo.</li>
+  <li>Seleccione la cuenta y elija la categoría Redacción y direcciones.</li>
+</ol>
 
 <ul>
-  <li><strong>Redactar mensajes en formato HTML</strong>: use el editor
-  HTML como editor predeterminado para escribir mensajes de correo y noticias.
-  Deje este elemento sin marcar para usar el editor de texto sin formato de
-  manera predeterminada. Los mensajes HTML pueden incluir texto con formato,
-  enlaces, imágenes y tablas, igual que una página web. Sin
-  embargo, algunos destinatarios quizá no puedan recibir mensajes
-  HTML.
-  <p><strong>Ayuda</strong>: si sólo quiere usar un editor
-  ocasionalmente, puede mantener pulsada la tecla Mayúsculas mientras
-  hace clic en los botones Redactar o Responder para usar el editor no
-  predeterminado cuando lo necesite.</p>
+  <li><strong>Redactar mensajes en formato HTML</strong>: use el editor HTML
+    como editor predeterminado para escribir mensajes de correo y noticias.
+    Deje este elemento sin marcar para usar el editor de texto sin formato de
+    manera predeterminada. Los mensajes HTML pueden incluir texto con formato,
+    enlaces, imágenes y tablas, igual que una página web. Sin embargo, algunos
+    destinatarios quizá no puedan recibir mensajes HTML.
+
+    <p><strong>Ayuda</strong>: si sólo quiere usar un editor ocasionalmente,
+      puede mantener pulsada la tecla Mayúsculas mientras hace clic en los
+      botones Redactar o Responder para usar el editor no predeterminado cuando
+      lo necesite.</p>
   </li>
-  <li><strong>Automáticamente citar el mensaje original al
-  responder</strong>: seleccione esta opción para incluir el texto del
-  mensaje original en su respuesta. Use la lista desplegable para seleccionar
-  si el cursor debería posicionarse debajo o encima del texto citado.
-  También puede escoger que el mensaje citado se seleccione
-  automáticamente.
+  <li><strong>Automáticamente citar el mensaje original al responder</strong>:
+    seleccione esta opción para incluir el texto del mensaje original en su
+    respuesta. Use la lista desplegable para seleccionar si el cursor debería
+    posicionarse debajo o encima del texto citado. También puede escoger que el
+    mensaje citado se seleccione automáticamente.
     <ul>
-      <li><strong>y situar mi firma</strong>: esta lista desplegable le
-      permite elegir dónde quiere que se añada su firma.
-      Sólo está activada si ha decidido <a
-      href="#account_settings">adjuntar una firma</a> y situar el cursor sobre
-      el texto citado.</li>
+      <li><strong>y situar mi firma</strong>: esta lista desplegable le permite
+        elegir dónde quiere que se añada su firma. Sólo es aplicable si ha
+        decidido <a href="#account_settings">adjuntar una firma</a> y situar el
+        cursor sobre el texto citado.</li>
     </ul>
   </li>
 </ul>
 
-<p>Use las opciones de Direcciones para tener preferencia sobre la
-configuración global del servidor LDAP especificada para todas las
-<a href="#addressing_preferences">libretas de direcciones</a> en el cuadro de
-diálogo de Preferencias. La configuración del servidor LDAP
-afecta al comportamiento del <a href="#address_autocompletion">autocompletado
-de direcciones</a>, y puede cambiar esta configuración para cada cuenta
-si es necesario.</p>
+<ul>
+  <li><strong>Incluir firma en las respuestas</strong>: si ha creado una firma,
+    seleccione esta opción para incluirla en su respuesta a un mensaje. La
+    firma se añade de acuerdo a sus opciones de citado y ubicación de
+    firma.</li>
+  <li><strong>Incluir firma en re-envíos</strong>: si ha creado una firma,
+    seleccione esta opción para incluirla cuando re-envíe un mensaje. La firma
+    se añade de acuerdo a sus opciones de respuesta al
+    <a href="#composition">re-enviar en línea</a>.</li>
+</ul>
 
-<p>El autocompletado de direcciones usa las libretas de direcciones
-para encontrar direcciones cuando se escriban en el área de las
-direcciones en la ventana de redacción de mensajes.</p>
+<p>Use las opciones de Direcciones para tener preferencia sobre la configuración
+  global del servidor LDAP especificada para todas las
+  <a href="#addressing_preferences">libretas de direcciones</a> en el cuadro de
+  diálogo de Preferencias. La configuración del servidor LDAP afecta al
+  comportamiento del <a href="#address_autocompletion">autocompletado de
+  direcciones</a>, y puede cambiar esta configuración para cada cuenta si es
+  necesario.</p>
 
-<p>Si todavía no está viendo la configuración de las
-direcciones, vaya a la ventana de Correo y noticias:</p>
+<p>El autocompletado de direcciones usa las libretas de direcciones para
+  encontrar direcciones cuando se escriban en el área de las direcciones en la
+  ventana de redacción de mensajes.</p>
+
+<p>Si todavía no está viendo la configuración de las direcciones, vaya a la
+  ventana de Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Editar y elija Configuración de cuentas de
-  correo y noticias. Verá un cuadro de diálogo.</li>
-  <li>Seleccione la cuenta y elija la categoría Redacción y
-  Direcciones.</li>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias. Verá un cuadro de diálogo.</li>
+  <li>Seleccione la cuenta y elija la categoría Redacción y Direcciones.</li>
 </ol>
 
 <ul>
-  <li><strong>Añadir automáticamente mi dominio a las
-  direcciones</strong>: seleccione esta opción si quiere que
-  Correo y Noticias complete automáticamente las direcciones que
-  escribe con el dominio de la dirección de su cuenta.</li>
+  <li><strong>Añadir automáticamente mi dominio a las direcciones</strong>:
+    seleccione esta opción si quiere que Correo y Noticias complete
+    automáticamente las direcciones que escribe con el dominio de la dirección
+    de su cuenta.</li>
   <li><strong>Usar las preferencias globales del servidor LDAP para esta
-  cuenta</strong>: es la opción predeterminada. Selecciónela
-  si no quiere especificar otras opciones distintas para esta cuenta.</li>
-  <li><strong>Usar otro servidor LDAP</strong>: seleccione esta opción
-  y luego elija otro servidor LDAP de la lista si quiere usar un servidor LDAP
-  distinto para el autocompletado de direcciones en esta cuenta. Si es
-  necesario, elija Editar directorios para editar la configuración
-  individual de un servidor, añadir un servidor de directorio o
-  borrarlo. Para más información, vea <a
-  href="#adding_and_removing_ldap_directories">Añadir y quitar
-  directorios LDAP</a>.</li>
+    cuenta</strong>: es la opción predeterminada. Selecciónela si no quiere
+    especificar otras opciones distintas para esta cuenta.</li>
+  <li><strong>Usar otro servidor LDAP</strong>: seleccione esta opción y luego
+    elija otro servidor LDAP de la lista si quiere usar un servidor LDAP
+    distinto para el autocompletado de direcciones en esta cuenta. Si es
+    necesario, elija Editar directorios para editar la configuración individual
+    de un servidor, añadir un servidor de directorio o borrarlo. Para más
+    información, vea <a href="#adding_and_removing_ldap_directories">Añadir y
+    quitar directorios LDAP</a>.</li>
 </ul>
 
-<p>El directorio que seleccione también será usado para buscar
-certificados cuando intente enviar mensajes cifrados a uno o más
-destinatarios de los cuales no tiene el certificado en un archivo
-local.</p>
+<p>El directorio que seleccione también será usado para buscar certificados
+  cuando intente enviar mensajes cifrados a uno o más destinatarios de los
+  cuales no tiene el certificado en un archivo local.</p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de
 la sección</a>]</p>
 
-<h2 id="offline_and_disk_space">Configuración del modo
-sin conexión y espacio en disco - (cuentas de correo y
-noticias)</h2>
+<h2 id="synchronization_and_storage">Configuración de sincronización y
+  almacenamiento - (cuentas de correo y noticias)</h2>
 
-<p>La configuración de Sin conexión y espacio en disco le
-permite ahorrar espacio en disco o configurar una cuenta para que pueda usarla
-sin conexión (desconectado de Internet). Las opciones disponibles
-dependen del tipo de servidor (IMAP, POP o noticias) asociado con la
-cuenta.</p>
+<p>La configuración de sincronización y almacenamiento le permite ahorrar
+  espacio en disco o configurar una cuenta para que pueda usarla sin
+  conexión (desconectado de Internet). Las opciones disponibles dependen del
+  tipo de servidor (IMAP, POP o noticias) asociado con la cuenta.</p>
 
 <div class="contentsBox">
   <ul>
-    <li><a href="#offline_and_disk_space_settings_imap">Configuración
-    Sin conexión y espacio en disco (IMAP)</a></li>
-    <li><a href="#disk_space_settings">Configuración de Espacio en
-    disco (POP)</a></li>
-    <li><a href="#offline_and_disk_space_settings_nntp">Configuración
-    Sin conexión y espacio en disco (Noticias)</a></li>
+    <li><a href="#synchronization_and_storage_settings_imap">Configuración de
+      sincronización y almacenamiento (IMAP)</a></li>
+    <li><a href="#disk_space_settings_pop">Configuración de Espacio en
+      disco (POP)</a></li>
+    <li><a href="#disk_space_settings_blogs">Configuración de Espacio en
+      disco (Blogs)</a></li>
+    <li><a href="#synchronization_and_storage_settings_nntp">Configuración de
+      sincronización y almacenamiento (Noticias)</a></li>
+    <li><a href="#retention_policy">Configuración de políticas comunes de
+      retención</a></li>
   </ul>
 </div>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
 sección</a>]</p>
 
-<h3 id="offline_and_disk_space_settings_imap">Configuración Sin
-conexión y espacio en disco (IMAP)</h3>
+<h3 id="synchronization_and_storage_settings_imap">Configuración de
+  sincronización y almacenamiento (IMAP)</h3>
 
-<p>Si todavía no está viendo las preferencias Sin
-conexión y espacio en disco para una cuenta IMAP, vaya a la ventana
-de Correo y noticias:</p>
+<p>Si no está ya viendo las preferencias de sincronización y almacenamiento de
+  una cuenta IMAP, comience desde la ventana de correo:</p>
 
 <ol>
-  <li>Abra el menú Editar, elija Configuración de cuentas de
-  correo y noticias. Verá un cuadro de diálogo.</li>
-  <li>Elija la categoría Sin conexión y espacio en disco para
-  una cuenta IMAP.</li>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y
+    noticias. Verá el cuadro de diálogo de configuración de cuentas de correo y
+    noticias.</li>
+  <li>Elija la categoría Sincronización y almacenamiento de una cuenta
+    IMAP.</li>
 </ol>
 
 <ul>
-  <li><strong>Hacer que los mensajes en la bandeja de entrada estén
-  disponibles cuando trabaje sin conexión</strong>: seleccione esta
-  opción para que los mensajes en la bandeja de entrada estén
-  disponibles cuando trabaje sin conexión.</li>
-  <li><strong>Cuando cree nuevas carpetas, seleccionarlas para usar sin
-  conexión</strong>: seleccione esta opción para que las nuevas
-  carpetas que se creen se seleccionen automáticamente para usar sin
-  conexión. Si no se marca, las nuevas carpetas no quedarán
-  seleccionadas automáticamente para usarlas sin conexión. Puede
-  seleccionar carpetas manualmente para usar sin conexión usando la
-  orden Descargar/Sincronizar ahora (disponible en el menú Archivo,
-  en el apartado Sin conexión). Pulse el botón Seleccionar en el
-  cuadro de diálogo Descargar/sincronizar mensajes para seleccionar las
-  carpetas.</li>
-  <li><strong>Seleccionar carpetas para su uso sin conexión</strong>:
-  pulse para seleccionar las carpetas que quiere tener disponibles para usar
-  sin conexión. Vea <a
-  href="#selecting_items_for_offline_viewing">Seleccionar cuentas, carpetas
-  y grupos para ver sin conexión</a> para más
-  información.</li>
-  <li><strong>Mensajes mayores de [__] KB</strong>: seleccione esta opción
-  para ahorrar espacio en disco evitando que se descarguen mensajes de gran
-  tamaño. Introduzca el tamaño máximo de los mensajes
-  descargados.</li>
+  <li><strong>Conservar mensajes de esta cuenta en este equipo</strong>:
+    seleccione esta opción para que los mensajes de sus carpetas estén
+    disponibles cuando esté trabajando sin conexión. Esta opción también se
+    aplica a cualquier carpeta nueva que cree o a la que se suscriba.</li>
+  <li><strong>Avanzadas</strong>: pulse este botón para abrir un diálogo donde
+    podrá seleccionar las carpetas que quiere tener disponibles para usar
+    sin conexión. Vea <a
+    href="#selecting_items_for_offline_viewing">Seleccionar elementos para ver
+    sin conexión</a> para más información.
+    
+    <p><strong>Nota</strong>: aunque la configuración por defecto se puede
+      cambiar para una carpeta individual, esas configuraciones por carpeta se
+      <em>eliminan</em> siempre que se cambia el valor de la casilla
+      <q>Conservar mensajes de esta cuenta</q>.</p>
+  </li>
+  <li><strong>Sincronizar todos los mensajes localmente sin importar su
+    antigüedad</strong>: cuando está activada la sincronización de una cuenta o
+    una carpeta, se descargan <em>todos</em> los mensajes y se guardan copias
+    locales de ellos en disco, a menos que se especifique un limite de
+    tamaño.</li>
+  <li><strong>Sincronizar los [__] [días] más recientes</strong>: sólo se
+    mantienen para sincronización local las copias de mensajes más recientes
+    que el número especificado de días (o semanas, meses o años); transcurrido
+    ese plazo, se eliminan del almacenamiento sin conexión. Esto <em>no</em>
+    afecta a los originales en el servidor, sólo se eliminan las copias locales
+    si se alcanza la antigüedad dada.</li>
+  <li><strong>No descargar mensajes mayores de [__] KB</strong>: seleccione
+    esta opción para conservar espacio en disco, evitando descargar los
+    mensajes grandes. Introduzca el tamaño máximo de los mensajes descargados.
+    Cambiar esta opción <em>no</em> affecta a los mensajes que ya han sido
+    descargados.</li>
+  <li>Las <a href="#retention_policy">opciones de retención</a> se pueden usar
+    para liberar espacio eliminando mensajes antiguos. Observe que estas
+    opciones se aplican <em>tanto</em> a las copias locales <em>como</em> a sus
+    originales en el servidor.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
 sección</a>]</p>
 
-<h3 id="disk_space_settings">Configuración de espacio en disco
-(POP)</h3>
+<h3 id="disk_space_settings_pop">Configuración de espacio en disco (POP)</h3>
 
-<p>Los mensajes de las cuentas POP se descargan completamente a la
-máquina en local a menos que haya activado la opción <q>Recibir
-sólo cabeceras</q>. Esta sección describe cómo se puede
-ahorrar espacio en disco para una cuenta POP. Si su cuenta tiene activada la
-opción <q>Recibir sólo cabeceras</q>, estas preferencias de
-espacio en disco no se tendrán en cuenta. Si todavía no
-está viendo las preferencias de espacio en disco para una cuenta POP,
-siga estos pasos:</p>
+<p>Los mensajes de las cuentas POP se descargan completamente a la máquina en
+  local a menos que haya activado la opción <q>Recibir sólo cabeceras</q>. Esta
+  sección describe cómo se puede ahorrar espacio en disco para una cuenta POP.
+  Si su cuenta tiene activada la opción <q>Recibir sólo cabeceras</q>, estas
+  preferencias de espacio en disco no se tendrán en cuenta. Si todavía no
+  está viendo las preferencias de espacio en disco para una cuenta POP,
+  siga estos pasos:</p>
 
 <p>Vaya a la ventana de Correo y noticias.</p>
 
 <ol>
   <li>Abra el menú Editar, elija Configuración de cuentas de
-  correo y noticias. Verá un cuadro de   diálogo.</li>
+    correo y noticias. Verá un cuadro de   diálogo.</li>
   <li>Pulse en la categoría de espacio en disco para una cuenta
-  POP.</li>
+    POP.</li>
 </ol>
 
 <ul>
   <li><strong>Mensajes mayores de [__] KB</strong>: seleccione esta opción
-  para ahorrar espacio en disco evitando que se descarguen mensajes de gran
-  tamaño. Introduzca el tamaño máximo de los mensajes
-  descargados.</li>
+    para ahorrar espacio en disco evitando que se descarguen mensajes de gran
+    tamaño. Introduzca el tamaño máximo de los mensajes descargados.</li>
+  <li>Las <a href="#retention_policy">opciones de retención</a> se pueden usar
+    para liberar espacio eliminando mensajes antiguos. Observe que estas
+    opciones se aplican <em>tanto</em> a las copias locales <em>como</em> a sus
+    originales en el servidor.
+    
+    <p><strong>Nota</strong>: si su cuenta POP está configurada para usar la
+      bandeja de entrada global, los valores de periodos de retención aplicados
+      son los de la bandeja de entrada de destino.</p>
+  </li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
-sección</a>]</p>
+  sección</a>]</p>
 
-<h3 id="offline_and_disk_space_settings_nntp">Configuración Sin
-conexión y espacio en disco (Noticias)</h3>
+<h3 id="disk_space_settings_blogs">Configuración de espacio en disco
+  (Blogs)</h3>
 
-<p>Si todavía no está viendo la configuración de Sin
-conexión y espacio en disco para una cuenta de noticias, vaya a la
-ventana de Correo y noticias:</p>
+<p>Los mensajes de cuentas de canales de blogs y noticias se guardan en su
+  máquina local únicamente en su forma corta, es decir, el resumen del
+  artículo, sin importar si su configuración indica mostrar los artículos
+  completos por defecto. No obstante, hay opciones para controlar cuánto
+  espacio en disco se usa por su cuenta de canales de blogs y canales. Si
+  no está ya viendo las preferencias de espacio en disco de una cuenta de
+  canales de blogs y noticias, siga estos pasos:</p>
+
+<p>Comience desde la ventana de Correo.</p>
+
+<ol>
+  <li>Abra el menú Editar y elija Configuración de cuentas de correo y noticias.
+    Verá el diálogo de configuración de cuentas de correo y noticias.</li>
+  <li>Pulse la categoría Espacio en disco de una cuenta de canales de blogs y
+   noticias.</li>
+</ol>
+
+<p>Allí, puede especificar qué mensajes deben eliminarse para recuperar espacio
+  en disco:</p>
+
+<ul>
+  <li><strong>No eliminar ningún mensaje</strong>: seleccione esta opción para
+    conservar todos los mensajes para siempre. Tenga en cuenta que, si está
+    suscrito a muchos blogs con alto tráfico, esto incrementará el espacio de
+    disco ocupado constantemente y podría llegar a llenar su disco duro.</li>
+  <li><strong>Elimiar todos excepto los más recientes [____] mensajes</strong>:
+    seleccione esta opción para conservar en cada canal sólo un número máximo
+    de mensajes. Introduzca el número máximo de mensajes (por defecto,
+    1000).</li>
+  <li><strong>Eliminar mensajes con más de [__] días</strong>: seleccione esta
+    opción para conservar en cada canal únicamente los mensajes que no son más
+    antiguos que el número de días que introduzca aquí (por defecto, 30
+    días).</li>
+  <li><strong>Conservar siempre mensajes señalados</strong>: marque esta opción
+    para guardar (no eliminar) los mensajes señalados, sin importar su
+    antigüedad.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
+  sección</a>]</p>
+
+<h3 id="synchronization_and_storage_settings_nntp">Configuración de
+      sincronización y almacenamiento (Noticias)</h3>
+
+<p>Si todavía no está viendo la configuración de Sin conexión y espacio en
+  disco para una cuenta de noticias, vaya a la ventana de Correo y
+  noticias:</p>
 
 <ol>
   <li>Abra el menú Editar, y elija Configuración de cuentas de
-  correo y noticias. Verá un cuadro de diálogo.</li>
-  <li>Elija la categoría Sin conexión y espacio en disco en
-  una cuenta de noticias.</li>
+    correo y noticias. Verá un cuadro de diálogo.</li>
+  <li>Elija la categoría Sincronización y almacenamiento de una cuenta de
+    noticias.</li>
 </ol>
 
 <ul>
-  <li><strong>Seleccionar grupos de noticias para su uso sin
-  conexión</strong>: pulse para seleccionar los grupos que quiere que
-  estén disponibles para usar sin conexión. Vea <a
-  href="#selecting_items_for_offline_viewing">Seleccionar elementos para ver
-  sin conexión</a> para más información.</li>
+  <li><strong>Seleccionar grupos de noticias para su uso sin conexión</strong>:
+    pulse para seleccionar los grupos que quiere que estén disponibles para
+    usar sin conexión. Vea <a
+    href="#selecting_items_for_offline_viewing">Seleccionar elementos para ver
+    sin conexión</a> para más información.</li>
 </ul>
 
 <p>Las siguientes opciones ayudan a ahorrar espacio en disco y tiempo de
-descarga. Especifique qué mensajes no quiere descargar localmente:</p>
+  descarga. Especifique qué mensajes no quiere descargar localmente:</p>
 
 <ul>
-  <li><strong>Mensajes leídos</strong>: seleccione esta opción
-  para descargar únicamente los cuerpos de los mensajes que no haya
-  leído.</li>
-  <li><strong>Mensajes mayores de [__] KB</strong>: seleccione esta
-  opción para ahorrar espacio en disco evitando que se descarguen
-  mensajes grandes. Introduzca el tamaño máximo para los
-  mensajes descargados.</li>
-  <li><strong>Mensajes de más de [__] días de
-  antig&uuml;edad</strong>: seleccione esta opción para descargar
-  sólo los mensajes que no sean más antiguos que el
-  número de días que introduzca aquí.</li>
+  <li><strong>Mensajes leídos</strong>: seleccione esta opción para descargar
+    únicamente los cuerpos de los mensajes que no haya leído.</li>
+  <li><strong>Mensajes mayores de [__] KB</strong>: seleccione esta opción para
+    ahorrar espacio en disco evitando que se descarguen mensajes grandes.
+    Introduzca el tamaño máximo para los mensajes descargados.</li>
+  <li><strong>Mensajes de más de [__] días de antig&uuml;edad</strong>:
+    seleccione esta opción para descargar sólo los mensajes que no sean más
+    antiguos que el número de días que introduzca aquí.</li>
 </ul>
 
-<p>&brandShortName; puede borrar automáticamente los mensajes de los
-grupos de noticias por usted. Puede configurar este proceso con las opciones
-indicadas bajo <strong>Mantener</strong>:</p>
+<p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
+  sección</a>]</p>
+
+<h3 id="retention_policy">Configuración de políticas comunes de retención</h3>
+
+<p>&brandShortName; puede borrar automáticamente los mensajes antiguos por
+  usted. Puede configurar este proceso con las opciones indicadas bajo
+  <strong>Para recuperar espacio en disco, los mensajes antiguos pueden
+  eliminarse permanentemente</strong>:</p>
 
 <ul>
-  <li><strong>Todos los mensajes</strong>: mantener todos los mensajes. No
-  borrar nunca los mensajes automáticamente.</li>
-  <li><strong>Los más recientes [__] mensajes</strong>: introduzca el
-  número de mensajes a mantener. Con esta opción sólo se
-  borrarán los mensajes más antiguos a partir del número
-  indicado.</li>
-  <li><strong>Mensajes que hayan llegado en los últimos [__]
-  días</strong>: mantener todos los mensajes que
-  hayan llegado en el número dado de días.</li>
+  <li><strong>No eliminar ningún mensaje</strong>: mantiene todos los mensajes.
+    Nunca se eliminan mensajes automáticamente debido a su antigüedad.</li>
+  <li><strong>Eliminar todos excepto los más recientes [__] mensajes</strong>:
+    introduzca el número de mensajes a conservar. Con esta opción sólo se
+    eliminan los mensajes más antiguos que los indicados.</li>
+  <li><strong>Eliminar mensajes con más de [__] días</strong>: mantener todos
+    los mensajes que hayan llegado en el número dado de días.</li>
 </ul>
 
-<p>Con las dos últimas opciones puede limitar aún más las
-tres opciones para borrar mensajes automáticamente. Esto es
-especialmente útil en combinación con la opción para
-mantener todos los mensajes.</p>
+<p>Con las siguientes opciones puede limitar aún más las tres opciones para
+  borrar mensajes automáticamente. Esto es especialmente útil en combinación
+  con la opción para mantener todos los mensajes.</p>
 
 <ul>
-  <li><strong>Sólo mensajes no leídos</strong>: seleccione esta
-  opción para impedir que &brandShortName; borre mensajes no
-  leídos.</li>
-  <li><strong>Sólo los cuerpos de mensajes con menos de [__]
-  días</strong>: seleccione esta opción para impedir que
-  &brandShortName; borre los mensajes que sean más modernos que el
-  número de días que indique aquí.</li>
+  <li><strong>Conservar siempre los mensajes señalados</strong>: use esta
+    opción para impedir que &brandShortName; elimine ningún mensaje que haya
+    señalado.</li>
+  <li><strong>Eliminar los mensajes de más de [__] días</strong>: seleccione
+    esta opción para mantener todas las cabeceras pero eliminar los cuerpos
+    de los mensajes que sean más antiguos que el número de días que especifique
+    aquí (sólo cuentas de noticias). Aún será de aplicación cualquier opción
+    para eliminar el mensaje entero basándose en su antigüedad.</li>  
 </ul>
+
+<p>Esta política puede modificarse para una carpeta individual en las
+  propiedades de la carpeta, pestaña Política de retención.</p>
+
+<p><strong>Nota:</strong> si la sincronización de mensajes está activada (para
+  IMAP), o los mensajes se dejan en el servidor (para cuentas POP), los valores
+  se aplican <em>tanto</em> a las copias locales <em>como</em> y sus originales
+  en el servidor.</p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Volver al principio de la
 sección</a>]</p>
@@ -4557,23 +5125,23 @@ sección</a>]</p>
 <h2 id="junk_settings">Configuración de correo basura - (cuentas de
   correo basura)</h2>
 
-<p>Esta sección describe cómo usar la configuración de
-  correo basura de las cuentas. Si no está viendo la
-  configuración de correo basura, siga estos pasos:</p>
+<p>Esta sección describe cómo usar la configuración de correo basura de las
+  cuentas. Si no está viendo la configuración de correo basura, siga estos
+  pasos:</p>
 
 <ol>
-  <li>Abra el menú Editar, elija Configuración de cuentas de
-    correo y noticias. Verá la ventana de diálogo de
-    configuración de cuentas de correo y noticias.</li>
-  <li>Pulse en la categoría Configuración de correo basura de
-    su cuenta de correo.</li>
+  <li>Abra el menú Editar, elija Configuración de cuentas de correo y noticias.
+    Verá la ventana de diálogo de configuración de cuentas de correo y
+    noticias.</li>
+  <li>Pulse en la categoría Configuración de correo basura de su cuenta de
+    correo.</li>
 </ol>
 
 <p>Se usa el panel de configuración de correo basura para definir la
-  configuración específica de cada cuenta para el filtro de
-  correo adaptativo. La configuración global de correo basura se cambia
-  en <a href="#global_junk_settings">Correo basura (preferencias de correo y
-  grupos de noticias)</a></p>
+  configuración específica de cada cuenta para el filtro de correo adaptativo.
+  La configuración global de correo basura se cambia en las <a
+  href="#junk_and_suspect_preferences">preferencias de correo y noticias -
+  Correo basura y sospechoso</a>.</p>
 
 <ul>
   <li><strong>Activar controles adaptativos de correo basura en esta
@@ -4857,17 +5425,20 @@ sección</a>]</p>
     seguro de si servicio admite esto, contacte con su proveedor de servicio o
     administrador del sistema.</li>
   <li><strong>Usar conexión segura</strong>: hay dos métodos para establecer
-    una conexión segura a su servidor saliente. Escoja la que admite su
-    servidor (si elige una opción para la cual su servidor no está
-    configurado, obtendrá un mensaje de error al intentar enviar correo):
+    una <a href="glossary.xhtml#secure_connection">conexión segura</a> a su
+    servidor saliente. Escoja la que admite su servidor (si elige una opción
+    para la cual su servidor no está configurado, obtendrá un mensaje de error
+    al intentar enviar correo):
     <ul>
       <li><strong>STARTTLS, si está disponible</strong>: &brandShortName;
-        intentará negociar el cifrado usando el método STARTTLS. Si el
+        intentará negociar el cifrado usando el método
+        <a href="glossary.xhtml#starttls">STARTTLS</a>. Si el
         servidor no lo permite, se usará una conexión no cifrada.</li>
       <li><strong>STARTTLS</strong>: requiere una conexión cifrada, y usa el
-        método STARTTLS. Este mecanismo funcionará casi con toda seguridad en
-        el puerto estándar SMTP (25).</li>
-      <li><strong>SMTP-sobre-SSL</strong>: requiere una conexión cifrada, usa
+        método <a href="glossary.xhtml#starttls">STARTTLS</a>. Este mecanismo
+        funcionará casi con toda seguridad en el puerto estándar SMTP
+        (25).</li>
+      <li><strong>SSL/TLS</strong>: requiere una conexión cifrada, usa
         el método SMTP-sobre-SSL (también conocido como SMTPS). El puerto
         predeterminado para esta opción es 465.</li>
     </ul>
@@ -4900,12 +5471,13 @@ preferencias:</p>
     <li><a href="#composition">Redacción de mensajes</a></li>
     <li><a href="#send_format">Formato de envío</a></li>
     <li><a href="#addressing_preferences">Libreta de direcciones</a></li>
-    <li><a href="#global_junk_settings">Correo basura</a></li>
+    <li><a href="#junk_and_suspect_preferences">Correo basura y
+      sospechoso</a></li>
     <li><a href="#tags">Etiquetas</a></li>
     <li><a href="#return_receipts_preferences">Acuses de recibo</a></li>
     <li><a href="#character_encoding">Codificación de caracteres</a></li>
-    <li><a href="#offline_and_disk_space_preferences">Sin conexión y
-      espacio en disco</a></li>
+    <li><a href="#network_and_storage_preferences">Red y
+      almacenamiento</a></li>
   </ul>
 </div>
 
@@ -5336,16 +5908,18 @@ sección</a>]</p>
 
 <h2 id="global_junk_settings">Correo basura (preferencias de correo y
   grupos de noticias)</h2>
+<h2 id="junk_and_suspect_preferences">Correo basura y sospechoso (preferencias
+  de correo y grupos de noticias)</h2>
 
-<p>Esta sección describe cómo usar el panel de preferencias de
-  correo basura. Si no está viendo ya el panel de correo basura, siga
-  estos pasos:</p>
+<p>Esta sección describe cómo usar el panel de preferencias de correo basura y
+  sospechoso. Si no está viendo ya el panel de preferencias de correo basura y
+  sospechoso, siga estos pasos:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
     <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
   <li>En la categoría de Correo y grupos de noticias, seleccione
-    Correo basura (si no hay opciones disponibles en esta categoría,
+    Correo basura y sospechoso (si no hay opciones disponibles en esta categoría,
     haga doble clic en la categoría para expandir la lista).</li>
 </ol>
 
@@ -5356,27 +5930,38 @@ sección</a>]</p>
     <ul>
       <li><strong>Moverlos a la carpeta <q>Basura</q> de la cuenta</strong>:
         escoja esta opción para mover los mensajes marcados manualmente
-        como correo basura a la carpeta Basura.
-      </li>
+        como correo basura a la carpeta Basura.</li>
       <li><strong>Borrarlos</strong>: escoja esta opción para mover los
         mensajes marcados manualmente como correo basura a la papelera.</li>
     </ul>
   </li>
-  <li><strong>Marcar los mensajes identificados como correo basura como
-    leídos</strong>: seleccione esta opción para marcar los
-    mensajes que son correo basura como leídos, para que no sigan
-    apareciendo como nuevos.</li>
-  <li><strong>Activar registro del filtro de correo basura</strong>: seleccione
-    esta opción para permitir el registro del historial de detecciones
-    de correo basura. Pulse el botón <strong>Mostrar el
-    registro</strong> para abrir un diálogo mostrando este
-    registro.</li>
-  <li><strong>Reiniciar datos de entrenamiento</strong>: pulse este
-    botón para limpiar los datos de entrenamiento del filtro adaptativo
-    de correo basura. Puesto que esto tendrá como efecto la
-    destrucción de su información personal sobre correo basura,
-    se le pedirá confirmación.
+  <li><strong>Marcar mensajes como leídos</strong>:
+    <ul>
+      <li><strong>Cuando &brandShortName; determine que son correo
+        basura</strong>: seleccione esta opción para marcar los mensajes
+        identificados como correo basura como leídos, para que no aparezcan
+        como nuevos.</li>
+      <li><strong>Cuando yo los marco manualmente como correo basura</strong>:
+        seleccione esta opción para marcar los mensajes como leídos cuando usted
+        los marque manualmente como correo basura.</li>
+    </ul>
   </li>
+  <li><strong>Activar registro del filtro de correo basura</strong>: seleccione
+    esta opción para permitir el registro del historial de detecciones de
+    correo basura. Pulse el botón <strong>Mostrar el registro</strong> para
+    abrir un diálogo mostrando este registro.</li>
+  <li><strong>Reiniciar datos de entrenamiento</strong>: pulse este botón para
+    limpiar los datos de entrenamiento del filtro adaptativo de correo basura.
+    Puesto que esto tendrá como efecto la destrucción de su información
+    personal sobre correo basura, se le pedirá confirmación.</li>
+  <li><strong>Avisarme si el mensaje que estoy leyendo es sospechoso de ser
+    fraudulento</strong>: elija esta opción para hacer que &brandShortName;
+    analice los mensajes en busca de posibles fraudes basados en técnicas
+    comunes para engañar a la gente.</li>
+  <li><strong>Permitir a los clientes antivirus analizar los mensajes entrantes
+    más fácilmente</strong>: elija esta opción para permitir que
+    &brandShortName; facilite al software antivirus analizar los mensajes de
+    correo entrante en busca de virus antes de que se guarden localmente.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Volver al principio de la
@@ -5521,29 +6106,30 @@ sección</a>]</p>
 <p>[<a href="#mail_and_newsgroup_preferences">Volver al principio de
   la sección</a>]</p>
 
-<h2 id="offline_and_disk_space_preferences">Sin conexión y espacio
-  en disco (preferencias de correo y grupos de noticias)</h2>
+<h2 id="network_and_storage_preferences">Red y almacenamiento (preferencias de
+  correo y grupos de noticias)</h2>
 
-<p>Esta sección describe cómo usar el panel Sin conexión
-  y espacio en disco. Si todavía no está viendo el panel,
-  siga estos pasos:</p>
+<p>Esta sección describe cómo usar el panel Red y almacenamiento. Si todavía no
+  está viendo el panel, siga estos pasos:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
     <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
-  <li>Pulse en Sin conexión y espacio en disco (si no hay
-    subcategorías visibles, haga doble clic en Correo y noticias para
+  <li>Bajo la categoría Correo y noticias, seleccione Red y almacenamiento (si
+    no hay subcategorías visibles, haga doble clic en Correo y noticias para
     expandir la lista).</li>
 </ol>
 
-<p>Las preferencias del panel Sin conexión y espacio en disco le
-  permiten configurar cómo trabajar sin conexión, cómo
-  proceder al volver a conectarse y cómo gestionar el espacio en
-  disco.</p>
+<p>Las preferencias del panel Red y almacenamiento le permiten configurar cómo
+  trabajar sin conexión, cómo proceder al volver a conectarse y cómo gestionar
+  el espacio en disco.</p>
 
 <ul>
   <li><strong>Sin conexión</strong>: seleccione cómo quiere que
     &brandShortName; gestione los mensajes cuando conecte o desconecte.</li>
+  <li><strong>Conexiones de correo</strong>: elija cuánto tiempo quiere que
+    intente conectar Correo y noticias con el servidor antes de que caduque la
+    conexión.</li>    
   <li><strong>Espacio en disco</strong>: seleccione esta opción para
     ahorrar espacio en disco compactando automáticamente las carpetas de
     los mensajes cuando esto suponga ahorrar la cantidad de espacio en disco

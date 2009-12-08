@@ -1,0 +1,54 @@
+<!ENTITY autoconfigWizard.title "Configuración de cuenta de correo">
+<!ENTITY name.label "Su nombre:">
+<!ENTITY name.accesskey "S">
+<!ENTITY name.emptytext "Nombre y apellidos">
+<!ENTITY name.text "Su nombre, tal y como se muestra a los demás">
+<!ENTITY email.label "Dirección de correo:">
+<!ENTITY email.accesskey "D">
+<!ENTITY email.emptytext "email@ejemplo.com">
+<!ENTITY password.label "Contraseña:">
+<!ENTITY password.accesskey "a">
+<!ENTITY password.emptytext "Contraseña">
+<!ENTITY password.text "Opcional, sólo se usará para validar el nombre de usuario">
+<!ENTITY accountInformation.label "Información de cuenta">
+<!ENTITY username2.label "Nombre de usuario:">
+<!ENTITY incoming.label "Entrante:">
+<!ENTITY outgoing.label "Saliente:">
+<!ENTITY noEncryption.label "Ninguno">
+<!ENTITY starttls.label "STARTTLS">
+<!ENTITY sslTls.label "SSL/TLS">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop.label "POP">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY manualSetup.label "Configuración manual…">
+<!ENTITY manualSetup.accesskey "f">
+<!ENTITY cancel.label "Cancelar">
+<!ENTITY cancel.accesskey "n">
+<!ENTITY continue.label "Continuar">
+<!ENTITY continue.accesskey "o">
+<!ENTITY startOver.label "Comenzar de nuevo">
+<!ENTITY startOver.accesskey "m">
+<!ENTITY stop.label "Parar">
+<!ENTITY stop.accesskey "P">
+<!ENTITY retest.label "Comprobar de nuevo la configuración">
+<!ENTITY retest.accesskey "C">
+<!ENTITY edit.label "Editar">
+<!ENTITY edit.accesskey "E">
+<!ENTITY rememberPassword.label "Recordar contraseña">
+<!ENTITY rememberPassword.accesskey "R">
+<!ENTITY warning.label "¡Advertencia!">
+<!ENTITY incomingSettings.label "Configuración de entrada:">
+<!ENTITY outgoingSettings.label "Configuración de salida:">
+<!ENTITY technicaldetails.label "Detalles técnicos">
+<!ENTITY confirmWarning.label "Entiendo los riesgos.">
+<!ENTITY confirmWarning.accesskey "E">
+<!ENTITY createAccount.label "Crear cuenta">
+<!ENTITY createAccount.accesskey "u">
+<!ENTITY changeSettings.label "Cambiar configuración">
+<!ENTITY changeSettings.accesskey "b">
+<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Thunderbird para más información.">
+<!ENTITY insecureServer.tooltip.title "¡Advertencia! Este servidor es inseguro.">
+<!ENTITY insecureServer.tooltip.details "Pulse en el círculo para más detalles.">
+<!ENTITY insecureUnencrypted.description "Sus credenciales y correo se envían sin cifrar, por lo que su contraseña (y su mensaje) pueden ser leídos fácilmente por otras personas. &brandShortName; le permitirá acceder a su correo, pero debería contactar con su proveedor de correo electrónico para configurar el servidor con una conexión segura.">
+<!ENTITY insecureSelfSigned.description "El servidor usa un certificado en el que no se puede confiar, por lo que no es posible asegurar que no hay nadie interceptando el tráfico entre &brandShortName; y su servidor. &brandShortName; le permitirá su correo, pero debería conseguir que su proveedor de correo configure el servidor con un certificado confiable.">
+<!ENTITY secureServer.description "¡Felicidades! Éste servidor es seguro.">

@@ -5,7 +5,7 @@
 <!ENTITY certerror.introPara2 "Normalmente, cuando intenta conectar de manera segura, los sitios
 presentarán una identificación confiable para demostrar que está visitando
 el sitio correcto. Sin embargo, la identidad de este sitio no se puede verificar.">
-<!ENTITY certerror.whatShouldIDo.heading "¿Que debo hacer?">
+<!ENTITY certerror.whatShouldIDo.heading "¿Qué debo hacer?">
 <!ENTITY certerror.whatShouldIDo.content "Si normalmente conecta a
 este sitio sin problemas, este error podría querer decir que alguien
 está intentando hacerse pasar por el sitio, y no debería continuar.">

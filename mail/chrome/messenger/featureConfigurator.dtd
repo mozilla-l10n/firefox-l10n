@@ -1,0 +1,34 @@
+<!ENTITY featureConfigurator.title "Asistente de migración">
+<!ENTITY featureConfigurator.heading "Características de Thunderbird 3 que merece la pena conocer">
+<!ENTITY featureConfigurator.para1 "Thunderbird 3 incluye nuevas y potentes características de las que estamos orgullosos, y pensamos que la mayoría de la gente las apreciará. Los gustos y necesidades de la gente varían, así que hemos hecho fácil controlar y personalizar Thunderbird.">
+<!ENTITY featureConfigurator.para2 "Use esta página para configurar estas nuevas opciones. Siempre puede volver al asistente de migración desde el menú Ayuda.">
+<!ENTITY featureConfigurator.imap.heading "Sincronizar mensajes IMAP">
+<!ENTITY featureConfigurator.imap.status.all "Todas sus carpetas IMAP están configuradas para &quot;sincronizarse&quot;.">
+<!ENTITY featureConfigurator.imap.status.none "Ninguna de sus carpetas IMAP está configurada para &quot;sincronizarse&quot;.">
+<!ENTITY featureConfigurator.imap.status.some "Algunas de sus carpetas IMAP están configuradas para &quot;sincronizarse&quot;.">
+<!ENTITY featureConfigurator.benefits.label "Beneficios">
+<!ENTITY featureConfigurator.alternative.label "Alternativa">
+<!ENTITY featureConfigurator.syncBenefits.para "Le permite leer su correo cuando no está conectado a Internet, y le permite encontrar los mensajes basándose en las palabras que contiene, no sólo en sus asuntos y nombres.">
+<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird descargará todo su correo en este ordenador. Desactívelo si tiene poco espacio en disco, o si tiene que pagar por el tráfico de red.">
+<!ENTITY featureConfigurator.syncAll.button "sincronizar todo">
+<!ENTITY featureConfigurator.syncNone.button "no sincronizar ninguna">
+<!ENTITY featureConfigurator.advancedUsers.label "Usuarios avanzados:">
+<!ENTITY featureConfigurator.advancedUsers.para "También puede personalizarlo por cuenta y por carpeta:">
+<!ENTITY featureConfigurator.toolbar.heading "Nueva barra de herramientas">
+<!ENTITY featureConfigurator.toolbar.new.status "Se está usando la nueva barra de herramientas.">
+<!ENTITY featureConfigurator.toolbar.original.status "Se está usando la barra de herramientas original.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Un interfaz más despejado que nuestro valor predeterminado anterior, lo que deja más espacio para la caja de texto de búsqueda mejorada y los complementos.">
+<!ENTITY featureConfigurator.toolbarAlternative.para "Si le gusta más la configuración de la antigua barra de herramientas, no quiere volver a configurarla, o no usa el panel de mensajes en su disposición de ventana.">
+<!ENTITY featureConfigurator.useOriginalToolbar.button "usar la barra de herramientas original">
+<!ENTITY featureConfigurator.useNewToolbar.button "usar la barra de herramientas nueva">
+<!ENTITY featureConfigurator.smartFolders.heading "Modo de carpetas inteligentes">
+<!ENTITY featureConfigurator.smartFolders.smart.status "Se está usando el modo &quot;carpetas inteligentes&quot;.">
+<!ENTITY featureConfigurator.smartFolders.all.status "No se está usando el modo &quot;carpetas inteligentes&quot;.">
+<!ENTITY featureConfigurator.smartFolderBenefits.para "Para los usuarios con varias cuentas, esta vista agrupa las carpetas como la Bandeja de entrada, de modo que vea una vista consolidada de todo su correo.">
+<!ENTITY featureConfigurator.smartFolderAlternative.para "Si le gusta separar la información entre varias cuentas, entonces preferirá el modo &quot;Todas las carpetas&quot;.">
+<!ENTITY featureConfigurator.useSmartFolders.button "usar el modo &quot;carpetas inteligentes&quot;">
+<!ENTITY featureConfigurator.useAllFolders.button "usar el modo &quot;todas las carpetas&quot;">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Encabezados contraídos">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 ha mejorado la vista detallada de encabezado de mensaje, incluyendo botones para operaciones relacionadas con el mensaje. Hay diseños alternativos disponibles como ">
+<!ENTITY featureConfigurator.headerParaLinkName "complementos">
+<!ENTITY featureConfigurator.headerParaAfterLink ".">

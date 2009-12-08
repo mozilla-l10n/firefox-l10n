@@ -1,11 +1,7 @@
 <!ENTITY credit.title "Créditos de &brandFullName;">
 <!ENTITY brandMotto "¡Los Thunderbirds despegan!">
-<!ENTITY credit.leads "Jefes de ingeniería">
 <!ENTITY credit.thanks "Agradecimiento especial a">
 <!ENTITY credit.translation "<h3>Traducción</h3>
 <ul><li>Proyecto NAVE</li></ul>">
-<!ENTITY credit.theme "Diseño de temas">
-<!ENTITY credit.qa "Garantía de calidad">
-<!ENTITY credit.build "Versión y publicación">
 <!ENTITY credit.memory "En memoria con cariño a">
 <!ENTITY credit.poweredByGecko "Diseñado con Gecko&trade;">

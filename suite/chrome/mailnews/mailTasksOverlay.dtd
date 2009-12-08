@@ -2,7 +2,7 @@
 <!ENTITY messengerCmd.accesskey "O">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.accesskey "d">
 <!ENTITY addressBookCmd.commandkey "5">
 <!ENTITY taskMessenger.tooltip "Correo y noticias">
 <!ENTITY taskAddressBook.tooltip "Libreta de direcciones">

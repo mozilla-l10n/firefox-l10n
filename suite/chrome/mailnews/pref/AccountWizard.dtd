@@ -32,7 +32,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "Su servidor saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, se usará. Puede modificar la configuración del servidor de salida eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
 <!ENTITY loginTitle.label "Nombres de usuario">
 <!ENTITY usernameDesc.label "Introduzca el nombre de usuario entrante facilitado por su proveedor de correo electrónico ">
 <!ENTITY usernameExample.label "(por ejemplo, &quot;jperez&quot;).">
@@ -42,9 +42,9 @@
 <!ENTITY usernameSmtpLabel.label "Nombre de usuario saliente:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix "Su nombre de usuario saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, se usará. Puede modificar la configuración del servidor de salida eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
 <!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, es idéntico a su servidor entrante; se usará su nombre de usuario para acceder a él. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, es idéntico a su servidor entrante, por lo que se usará su nombre de usuario entrante para acceder a él. Puede modificar la configuración del servidor de salida eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
 <!ENTITY accnameTitle.label "Nombre de la cuenta">
 <!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
 <!ENTITY accnameLabel.label "Nombre de la cuenta:">
@@ -56,6 +56,7 @@
 <!ENTITY smtpServerNamePrefix.label "Nombre del servidor de correo saliente (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nombre del servidor de noticias (NNTP):">
 <!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Marque esta casilla para guardar el correo de esta cuenta en la bandeja de entrada global de la cuenta Carpetas locales. En caso contrario aparecerá como una cuenta de nivel superior y su correo se guardará en su propio directorio.">
 <!ENTITY deferStorage.label "Usar band. entrada global (guardar msj. en Carpetas locales)">
 <!ENTITY deferStorage.accesskey "G">

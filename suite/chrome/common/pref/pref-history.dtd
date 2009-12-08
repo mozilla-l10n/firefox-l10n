@@ -16,3 +16,9 @@
 <!ENTITY clearLocationBar.label "Vaciar la lista de sitios guardados en la barra de direcciones.">
 <!ENTITY clearLocationBarButton.label "Vaciar barra de direcciones">
 <!ENTITY clearLocationBarButton.accesskey "d">
+<!ENTITY formfillHistory.caption "Historial de formularios y búsquedas">
+<!ENTITY enableFormfill.label "Activar historial de formulario y búsquedas">
+<!ENTITY enableFormfill.accesskey "A">
+<!ENTITY formfillExpire.label "Recordar historial de formulario y búsquedas hasta">
+<!ENTITY formfillExpire.accesskey "b">
+<!ENTITY formfillDays.label "días">

@@ -2,14 +2,16 @@
 <!ENTITY navRadio.label "Mostrar en">
 <!ENTITY navRadio.accesskey "o">
 <!ENTITY navStartPageMenu.label "Inicio del navegador">
-<!ENTITY newWinPageMenu.label "Nueva ventana">
-<!ENTITY newTabPageMenu.label "Nueva pestaña">
+<!ENTITY newWinPageMenu.label "Ventana nueva">
+<!ENTITY newTabPageMenu.label "Pestaña nueva">
 <!ENTITY blankPageRadio.label "Página en blanco">
 <!ENTITY blankPageRadio.accesskey "B">
 <!ENTITY homePageRadio.label "Página de inicio">
 <!ENTITY homePageRadio.accesskey "n">
 <!ENTITY lastPageRadio.label "Última página visitada">
 <!ENTITY lastPageRadio.accesskey "L">
+<!ENTITY restoreSessionRadio.label "Restaurar sesión anterior">
+<!ENTITY restoreSessionRadio.accesskey "e">
 <!ENTITY header2.label "Página de inicio">
 <!ENTITY homePageIntro.label "Pulsar el botón Inicio le lleva a este grupo de páginas:">
 <!ENTITY useCurrent.label "Usar página actual">
@@ -26,13 +28,6 @@
 <!ENTITY goButton.accesskey "a">
 <!ENTITY searchButton.label "Buscar">
 <!ENTITY searchButton.accesskey "S">
-<!ENTITY printButton.label "Imprimir">
-<!ENTITY printButton.accesskey "P">
-<!ENTITY persToolbarIntro.label "B. herram. personal">
-<!ENTITY homeButton.label "Inicio">
-<!ENTITY homeButton.accesskey "I">
-<!ENTITY bookmarksButton.label "Marcadores">
-<!ENTITY bookmarksButton.accesskey "M">
 <!ENTITY defaultBrowserGroup.label "Navegador predeterminado">
 <!ENTITY defaultBrowserButton.label "Establecer navegador predeterminado">
 <!ENTITY defaultBrowserButton.accesskey "D">

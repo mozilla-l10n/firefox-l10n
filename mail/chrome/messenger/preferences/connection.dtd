@@ -28,7 +28,7 @@
 <!ENTITY SSLport.label "Puerto:">
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY SOCKSport.label "Puerto:">
-<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY SOCKSport.accesskey "e">
 <!ENTITY noproxy.label "No usar proxy para:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24">

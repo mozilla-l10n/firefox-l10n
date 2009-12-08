@@ -33,7 +33,7 @@
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "h">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "B">
 <!ENTITY proxy.label "Configuración de proxy…">
 <!ENTITY proxy.accesskey "C">
 <!ENTITY closeCmd.label "Cerrar">

@@ -8,7 +8,7 @@
 <!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY directories.label "Utilizar un servidor LDAP diferente:">
-<!ENTITY directories.accesskey "d">
+<!ENTITY directories.accesskey "D">
 <!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY compositionGroupTitle.label "Redacción">
 <!ENTITY useHtml.label "Redactar mensajes en formato HTML">
@@ -24,3 +24,7 @@
 <!ENTITY place.accesskey "f">
 <!ENTITY belowText.label "bajo el texto citado (recomendado)">
 <!ENTITY aboveText.label "bajo mi respuesta (encima del texto cit.)">
+<!ENTITY includeSigOnReply.label "Incluir firma en las respuestas">
+<!ENTITY includeSigOnReply.accesskey "I">
+<!ENTITY includeSigOnForward.label "Incluir firma en los re-envíos">
+<!ENTITY includeSigOnForward.accesskey "m">

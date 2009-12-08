@@ -16,3 +16,5 @@
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
 <!ENTITY shiftKey.label "Mayús.">
+<!ENTITY copyImageURLCmd.label "Copiar la dirección de la imagen">
+<!ENTITY copyImageURLCmd.accesskey "d">

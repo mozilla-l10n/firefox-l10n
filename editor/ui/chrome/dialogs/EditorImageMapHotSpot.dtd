@@ -48,5 +48,5 @@
 <!ENTITY none.value "(ninguno)">
 <!ENTITY same.value "Mismo marco">
 <!ENTITY whole.value "Página completa">
-<!ENTITY new.value "Nueva ventana">
+<!ENTITY new.value "Ventana nueva">
 <!ENTITY parent.value "Marco contenedor">

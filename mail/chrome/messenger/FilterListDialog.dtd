@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "M">
 <!ENTITY reorderDownButton.label "Mover abajo">
 <!ENTITY reorderDownButton.accesskey "j">
-<!ENTITY filterHeader.label "Los filtros activos se ejecutan automáticamente en el orden indicado debajo.">
+<!ENTITY filterHeader.label "Los filtros activos se aplican automáticamente en el orden de la lista.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Registro de filtros">

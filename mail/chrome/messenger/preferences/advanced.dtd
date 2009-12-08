@@ -3,40 +3,46 @@
 <!ENTITY itemUpdate.label "Actualizar">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
-<!ENTITY enableGloda.label "Activar indexador de mensajes">
-<!ENTITY enableGloda.accesskey "x">
-<!ENTITY systemDefaults.label "Opciones por defecto del sistema">
+<!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">
+<!ENTITY enableGlodaSearch.accesskey "A">
+<!ENTITY systemIntegration.label "Integración con el sistema">
 <!ENTITY alwaysCheckDefault.label "Comprobar siempre al iniciar si &brandShortName; es el cliente de correo por omisión">
-<!ENTITY alwaysCheckDefault.accesskey "s">
+<!ENTITY alwaysCheckDefault.accesskey "C">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; busque en los mensajes">
+<!ENTITY searchIntegration.accesskey "P">
 <!ENTITY checkNow.label "Comprobar ahora">
-<!ENTITY checkNow.accesskey "h">
+<!ENTITY checkNow.accesskey "b">
 <!ENTITY configEditDesc.label "Configuración avanzada">
 <!ENTITY configEdit.label "Editor de configuración…">
-<!ENTITY configEdit.accesskey "c">
+<!ENTITY configEdit.accesskey "E">
 <!ENTITY returnReceiptsInfo.label "Determinar cómo gestiona &brandShortName; los acuses de recibo">
 <!ENTITY showReturnReceipts.label "Acuses de recibo…">
-<!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY showReturnReceipts.accesskey "r">
 <!ENTITY reading.caption "Lectura">
 <!ENTITY display.caption "Visualización">
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
-<!ENTITY showCondensedAddresses.accesskey "s">
-<!ENTITY autoMarkAsRead.label "Marcar mensajes automáticamente como leídos">
-<!ENTITY autoMarkAsRead.accesskey "m">
+<!ENTITY showCondensedAddresses.accesskey "a">
+<!ENTITY autoMarkAsRead.label "Marcar mensaje automáticamente como leído">
+<!ENTITY autoMarkAsRead.accesskey "M">
 <!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">
-<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadNoDelay.accesskey "n">
 <!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
-<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY markAsReadDelay.accesskey "d">
 <!ENTITY secondsLabel.label "segundos">
 <!ENTITY openMsgIn.label "Abrir mensajes en:">
-<!ENTITY reuseExpRadio0.label "Una nueva ventana de mensajes">
+<!ENTITY openMsgInNewTab.label "Una pestaña nueva">
+<!ENTITY openMsgInNewTab.accesskey "t">
+<!ENTITY reuseExpRadio0.label "Una ventana de mensajes nueva">
 <!ENTITY reuseExpRadio0.accesskey "U">
 <!ENTITY reuseExpRadio1.label "Una ventana de mensajes existente">
 <!ENTITY reuseExpRadio1.accesskey "v">
-<!ENTITY autoCheck.label "Comprobar automáticamente actualizaciones para:">
+<!ENTITY closeMsgWindowOnDelete.label "Cerrar ventana del mensaje al eliminarlo">
+<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY autoCheck.label "Buscar actualizaciones automáticamente para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey "i">
+<!ENTITY enableAddonsUpdate.accesskey "C">
 <!ENTITY whenUpdatesFound.label "Cuando se encuentren actualizaciones para &brandShortName;,">
 <!ENTITY modeAskMe.label "Preguntarme qué quiero hacer">
 <!ENTITY modeAskMe.accesskey "P">
@@ -47,27 +53,32 @@
 <!ENTITY showUpdates.label "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey "M">
 <!ENTITY showSettings.label "Configuración…">
-<!ENTITY showSettings.accesskey "n">
-<!ENTITY proxiesConfigure.label "Configurar como se conecta &brandShortName; a Internet">
+<!ENTITY showSettings.accesskey "C">
+<!ENTITY proxiesConfigure.label "Configurar cómo se conecta &brandShortName; a Internet">
 <!ENTITY connectionsInfo.caption "Conexión">
 <!ENTITY offlineInfo.caption "Desconectado">
 <!ENTITY offlineInfo.label "Configurar modo sin conexión">
 <!ENTITY showOffline.label "Sin conexión…">
-<!ENTITY showOffline.accesskey "O">
+<!ENTITY showOffline.accesskey "S">
 <!ENTITY Diskspace "Espacio en disco">
 <!ENTITY offlineCompact.label "Compactar carpetas si se ahorra más de">
-<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY offlineCompact.accesskey "o">
 <!ENTITY kb.label "KB">
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
+<!ENTITY certSelection.description "Cuando un servidor solicite mi certificado personal:">
+<!ENTITY certs.auto "Seleccionar uno automáticamente">
+<!ENTITY certs.auto.accesskey "S">
+<!ENTITY certs.ask "Preguntarme cada vez">
+<!ENTITY certs.ask.accesskey "P">
 <!ENTITY viewCertificates.label "Ver certificados">
-<!ENTITY viewCertificates.accesskey "V">
+<!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "Listas de revocación">
-<!ENTITY viewCRLs.accesskey "e">
+<!ENTITY viewCRLs.accesskey "L">
 <!ENTITY validation.label "Validación">
-<!ENTITY validation.accesskey "d">
+<!ENTITY validation.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey "D">

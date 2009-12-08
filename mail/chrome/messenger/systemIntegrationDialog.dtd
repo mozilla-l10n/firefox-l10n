@@ -1,0 +1,9 @@
+<!ENTITY systemIntegration.title "Integración con el sistema">
+<!ENTITY defaultClient.intro "Usar &brandShortName; como cliente por omisión para:">
+<!ENTITY email.label "Correo-e">
+<!ENTITY newsgroups.label "Grupos de noticias">
+<!ENTITY feeds.label "Canales">
+<!ENTITY checkOnStartup.label "Hacer siempre esta comprobación al iniciar &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "H">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; busque en los mensajes">
+<!ENTITY searchIntegration.accesskey "P">

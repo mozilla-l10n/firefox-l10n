@@ -32,3 +32,4 @@
 <!ENTITY policies.label "Políticas de seguridad">
 <!ENTITY mousewheel.label "Rueda del ratón">
 <!ENTITY scriptsAndWindows.label "Scripts y plugins">
+<!ENTITY focusSearch.key "f">

@@ -1,4 +1,4 @@
-<!ENTITY window.title "Filtros de mensajes">
+<!ENTITY filterListDialog.title "Filtros de mensajes">
 <!ENTITY nameColumn.label "Nombre del filtro">
 <!ENTITY activeColumn.label "Activado">
 <!ENTITY newButton.label "Nuevo…">
@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "S">
 <!ENTITY reorderDownButton.label "Bajar">
 <!ENTITY reorderDownButton.accesskey "j">
-<!ENTITY filterHeader.label "Los filtros activos se aplican automáticamente en el orden siguiente.">
+<!ENTITY filterHeader.label "Los filtros activos se aplican automáticamente en el orden de la lista.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Registro de filtros">
@@ -20,9 +20,7 @@
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Detener">
 <!ENTITY stopFilters.accesskey "D">
-<!ENTITY folderPickerPrefix.label "Ejecutar filtros seleccionados en:">
+<!ENTITY folderPickerPrefix.label "Aplicar filtros selecc. en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "elegir esta carpeta">
 <!ENTITY choosethisnewsserver.label "elegir este servidor de noticias">
-<!ENTITY helpButton.label "Ayuda">
-<!ENTITY helpButton.accesskey "u">
