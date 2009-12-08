@@ -188,119 +188,93 @@
   <ul>
     <li><a href="#managing_certificates_that_identify_you">Administración
       de certificados que identifican al usuario</a></li>
-    <li><a href="#managing_certificates_that_identify_others">Administración
-      de certificados que identifican a otros</a></li>
-    <li><a href="#managing_certificates_that_identify_websites">Administración
-      de certificados que identifican sitios web</a></li>
+    <li><a href="#managing_certificates_that_identify_people">Administración
+      de certificados que identifican personas</a></li>
+    <li><a href="#managing_certificates_that_identify_servers">Administración
+      de certificados que identifican servidores</a></li>
     <li><a href="#managing_certificates_that_identify_certificate_authorities">Administración
       de certificados que identifican a autoridades certificadoras</a></li>
+    <li><a href="#managing_certificates_that_identify_others">Administración
+      de certificados que identifican a otros</a></li>
   </ul>
 </div>
 
 <h2 id="managing_certificates_that_identify_you">Administración de
   certificados que identifican al usuario</h2>
 
-<p>Al abrir por primera vez el administrador de certificados, se dará
-  cuenta de que tiene varias pestañas en la parte superior de la
-  ventana. La primera pestaña se llama Sus certificados y muestra los
-  certificados que tiene disponibles el navegador para la identificación
-  del usuario. La lista de sus certificados aparece bajo los nombres de las
-  organizaciones que los han emitido.</p>
+<p>Al abrir por primera vez el administrador de certificados, se dará cuenta de
+  que tiene varias pestañas en la parte superior de la ventana. La primera
+  pestaña se llama Sus certificados y muestra los certificados que tiene
+  disponibles su navegador o cliente de correo para identificarle. La lista de
+  sus certificados aparece bajo los nombres de las organizaciones que los han
+  emitido.</p>
 
-<p>Para realizar una acción sobre uno o más certificados, haga
-  clic en la entrada del certificado (o en <kbd class="mac">Cmd</kbd><kbd
-  class="noMac">Ctrl</kbd>-clic para seleccionar
-  más de uno) y, a continuación, haga clic en Ver, Copia de
-  seguridad o Eliminar. Cada uno de estos botones le permite acceder a otra
-  ventana en la que puede realizar la acción que el botón
-  describe. Haga clic en el botón Ayuda de cualquier ventana para
-  obtener más información sobre la utilización de esta
-  ventana.</p>
+<p>Para realizar una acción sobre uno o más certificados, haga clic en la
+  entrada del certificado (o en <kbd class="mac">Cmd</kbd><kbd
+  class="noMac">Ctrl</kbd>-clic para seleccionar más de uno) y, a continuación,
+  haga clic en uno de los botones en la base de la ventana del administrador de
+  certificados. Cada uno de estos botones le permite acceder a otra ventana en
+  la que puede realizar la acción que describe el botón. Haga clic en el botón
+  Ayuda de cualquier ventana para obtener más información sobre la utilización
+  de esta ventana.</p>
 
-<p>Los siguientes botones de la pestaña Sus certificados no requieren
-  la selección de un certificado. Puede utilizarlos para realizar las
-  siguientes acciones:</p>
-
-<ul>
-  <li><strong>Importar</strong>: haga clic en este botón si desea
-    importar un certificado del que ha realizado previamente una copia de
-    seguridad o que ha transferido de un equipo a otro.</li>
-  <li><strong>Copia de seguridad de todo</strong>: haga clic en este
-    botón para realizar copia de seguridad de todos sus certificados
-    propios almacenados en el <a href=
-    "glossary.xhtml#software_security_device">dispositivo de seguridad de
-    software</a>.</li>
-</ul>
-
-<p><strong>Importante</strong>: no es posible realizar copia de seguridad de
-  los certificados almacenados en tarjetas inteligentes. El archivo de copia de
-  seguridad que se crea no incluirá ningún certificado almacenado
-  en tarjetas inteligentes ni en ningún otro dispositivo de seguridad
-  externo, tanto si selecciona alguno de los certificados y se hace clic en
-  Copia de seguridad, como si se hace clic en Hacer copia de seguridad de todo.
-  Sólo podrá hacer copias de seguridad de los certificados que
-  estén almacenados en un dispositivo de seguridad de software
-  incorporado.</p>
-
-<p>Si desea más información sobre cualquiera de estas tareas,
+<p>Si desea más información sobre cómo ver y administrar estos certificados,
   consulte <a href="certs_help.xhtml#your_certificates">Sus
   certificados</a>.</p>
 
 <p>[<a href="#managing_certificates">Volver al principio de la
   sección</a>]</p>
   
-<h2 id="managing_certificates_that_identify_others">Administración de
-  certificados que identifican a otros</h2>
+<h2 id="managing_certificates_that_identify_people">Administración de
+  certificados que identifican pesonas</h2>
 
-<p>Al redactar un mensaje de correo, tiene la posibilidad de adjuntar una
-  firma digital. La <a href="glossary.xhtml#digital_signature">firma digital</a>
+<p>Al redactar un mensaje de correo, tiene la posibilidad de adjuntar una firma
+  digital. La <a href="glossary.xhtml#digital_signature">firma digital</a>
   permite a los destinatarios del mensaje comprobar que el mensaje viene
   realmente de usted y que no ha sido manipulado desde el momento del
   envío.</p>
 
-<p>Cada vez que envíe un mensaje firmado digitalmente,
-  automáticamente enviará con él su certificado de
-  cifrado. Este certificado permite a los destinatarios del mensaje enviarle
-  mensajes cifrados.</p>
+<p>Cada vez que envíe un mensaje firmado digitalmente, automáticamente enviará
+  con él su certificado de cifrado. Este certificado permite a los
+  destinatarios del mensaje enviarle mensajes cifrados.</p>
 
-<p>Una de las maneras más sencillas de obtener el certificado de
-  cifrado de otra persona es que dicha persona le envíe un mensaje con
-  firma digital. El administrador de certificados almacena
-  automáticamente los certificados de otras personas siempre que se
-  reciben de este modo.</p>
+<p>Una de las maneras más sencillas de obtener el certificado de cifrado de
+  otra persona es que dicha persona le envíe un mensaje con firma digital. El
+  administrador de certificados almacena automáticamente los certificados de
+  otras personas siempre que se reciben de este modo.</p>
 
-<p>Para ver todos los certificados que identifican a otras personas
-  disponibles en el administrador de certificados, haga clic en la
-  pestaña De otras personas, en la parte superior de la ventana
-  Administrador de certificados. Podrá enviar mensajes cifrados a
-  cualquier persona para la que aparezca un certificado válido. La lista
-  de certificados aparece bajo los nombres de las organizaciones que los han
-  emitido.</p>
+<p>Para ver todos los certificados que identifican a otras personas disponibles
+  en el administrador de certificados, haga clic en la pestaña Personas, en la
+  parte superior de la ventana Administrador de certificados. Podrá enviar
+  mensajes cifrados a cualquier persona para la que aparezca un certificado
+  válido. La lista de certificados aparece bajo los nombres de las
+  organizaciones que los han emitido.</p>
 
-<p>Para realizar una acción sobre uno o más certificados, haga
-  clic en la entrada del certificado (o en <kbd class="mac">Cmd</kbd><kbd
-  class="noMac">Ctrl</kbd>-clic para seleccionar
-  más de uno) y, a continuación, haga clic en los botones Ver o
-  Eliminar. Cada uno de estos botones le permite acceder a otra ventana desde
-  la que puede realizar la acción que el botón describe. Haga
-  clic en el botón Ayuda de cualquier ventana para obtener más
-  información sobre la utilización de esta ventana.</p>
+<p>Para realizar una acción sobre uno o más certificados, haga clic en la
+  entrada del certificado (o en <kbd class="mac">Cmd</kbd><kbd
+  class="noMac">Ctrl</kbd>-clic para seleccionar más de uno) y, a continuación,
+  haga clic en uno de los botones en la base de la ventana del administrador de
+  certificados. Cada uno de estos botones le permite acceder a otra ventana
+  desde la que puede realizar la acción que el botón describe. Haga clic en el
+  botón Ayuda de cualquier ventana para obtener más información sobre la
+  utilización de esta ventana.</p>
 
-<p>Si desea más información, consulte <a href=
-  "certs_help.xhtml#other_peoples_certificates">Cómo se consigue
-  certificados de otras personas</a>.</p>
+<p>Si desea más información sobre cómo ver y administrar estos certificados,
+  vea la descripción de la pestaña <a
+  href="certs_help.xhtml#people">Personas</a> del administrador de
+  certificados.</p>
 
 <p>[<a href="#managing_certificates">Volver al principio de la
   sección</a>]</p>
   
-<h2 id="managing_certificates_that_identify_websites">Administración
-  de certificados que identifican sitios web</h2>
+<h2 id="managing_certificates_that_identify_servers">Administración
+  de certificados que identifican servidores</h2>
 
-<p>Algunos sitios web utilizan certificados para identificarse a sí
-  mismos. Tal identificación es necesaria antes de que el sitio web
-  pueda cifrar la información transferida entre el sitio y el equipo del
-  usuario (o viceversa), para que nadie pueda leer los datos mientras
-  están circulando.</p>
+<p>Algunos sitios web y servidores de correo utilizan certificados para
+  identificarse a sí mismos. Tal identificación es necesaria antes de que el
+  servidor pueda cifrar la información transferida entre el sitio y el equipo
+  del usuario (o viceversa), para que nadie pueda leer los datos mientras están
+  circulando.</p>
 
 <p>Si la URL de un sitio web comienza por <tt>https://</tt>, éste
   dispone de un certificado. Si visita un sitio web de este tipo y su
@@ -310,22 +284,23 @@
   nuevo, el administrador de certificados lo agrega a la lista de certificados
   de sitios web.</p>
 
-<p>Para ver todos los certificados de sitios web disponibles para el
-  navegador, haga clic en la pestaña Sitios web, en la parte superior de
-  la ventana Administrador de certificados.</p>
+<p>Para ver todos los certificados de sitios web disponibles para el navegador,
+  haga clic en la pestaña Servidores, en la parte superior de la ventana
+  Administrador de certificados.</p>
 
-<p>Para realizar una acción sobre uno o más certificados de
-  sitios web, haga clic en la entrada del certificado (o en
-  <kbd>Mays</kbd>-clic para seleccionar más de uno) y, a
-  continuación, haga clic en Ver, Editar o Eliminar. Cada uno de estos
-  botones le permite acceder a otra ventana en la que puede realizar la
-  acción correspondiente.</p>
+<p>Para realizar una acción sobre uno o más certificados, haga clic en la
+  entrada del certificado (o <kbd class="mac">Cmd</kbd><kbd
+  class="noMac">Ctrl</kbd>-clic para seleccionar más de uno) y, a
+  continuación, haga clic en uno de los botones en la parte inferior de la
+  ventana del administrador de certificados. Cada uno de estos botones le
+  permite acceder a otra ventana en la que puede realizar la acción
+  correspondiente. Pulse el botón Ayuda en cualquier ventana para obtener más
+  información sobre el uso de esa ventana.</p>
 
-<p>El botón Editar le permite especificar si desea que el navegador
-  confíe en el futuro en el certificado del sitio web seleccionado.</p>
-
-<p>Si desea más información, consulte <a href=
-  "certs_help.xhtml#web_site_certificates">Certificados de sitios web</a>.</p>
+<p>Si desea más información sobre cómo ver y administrar estos certificados,
+  vea la descripción de la pestaña <a
+  href="certs_help.xhtml#servers">Servidores</a> del administrador de
+  certificados.</p>
 
 <p>[<a href="#managing_certificates">Volver al principio de la
   sección</a>]</p>
@@ -356,19 +331,30 @@
 <p>Para realizar una acción sobre uno o más certificados de CA,
   haga clic en la entrada del certificado (o en <kbd class="mac">Cmd</kbd><kbd
   class="noMac">Ctrl</kbd>-clic para seleccionar más de uno) y, a
-  continuación, en Ver, Editar o Eliminar. Cada uno de estos botones le
-  permite acceder a otra ventana desde la que puede realizar la acción
-  que el botón describe. Haga clic en el botón Ayuda de cualquier
-  ventana para obtener más información sobre la utilización
-  de esta ventana.</p>
+  continuación, en uno de los botones en la parte inferior de la ventana del
+  administrador de certificados. Cada uno de estos botones le permite acceder a
+  otra ventana desde la que puede realizar la acción que el botón describe.
+  Haga clic en el botón Ayuda de cualquier ventana para obtener más información
+  sobre la utilización de esta ventana.</p>
 
-<p>El botón Editar permite ver y controlar los valores de confianza de
-  cada certificado. Los valores de confianza de un certificado de CA le
-  permiten especificar los tipos de certificados emitidos por dicha CA en los
-  que desea confiar.</p>
+<p>Si desea más información sobre cómo ver y administrar estos certificados, vea
+  la descripción de la pestaña <a
+  href="certs_help.xhtml#authorities">Autoridades</a> del administrador de
+  certificados.</p>
 
-<p>Si desea más información, consulte <a href=
-  "certs_help.xhtml#authorities">Autoridades</a>.</p>
+<p>[<a href="#managing_certificates">Volver al principio de la
+  sección</a>]</p>
+  
+<h2 id="managing_certificates_that_identify_others">Administración de
+  certificados que identifican a otros</h2>
+
+<p>Para ver todos los certificados que no se ajustan a ninguna de las otras
+  categorías, pulse en la pestaña Otros en la parte superior de la ventana del
+  administrador de certificados.</p>
+
+<p>Para más detalles sobre cómo ver y administrar estos certificados, vea la
+  descripción de la pestaña <a href="certs_help.xhtml#others">Otros</a> del
+  administrador de certificados.</p>
 
 <p>[<a href="#managing_certificates">Volver al principio de la
   sección</a>]</p>

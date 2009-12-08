@@ -1,6 +1,6 @@
 <!ENTITY pref.locationBar.title "Barra de direcciones">
 <!ENTITY autoComplete.label "Autocompletado">
-<!ENTITY enableAutoComplete.label "Autocompletar de su historial de navegación según escribe">
+<!ENTITY enableAutoComplete.label "Autocompletar desde su historial de navegación según escribe">
 <!ENTITY enableAutoComplete.accesskey "A">
 <!ENTITY autoCompleteAutoFill.label "Precumplimentar automáticamente la mejor coincidencia">
 <!ENTITY autoCompleteAutoFill.accesskey "u">
@@ -8,14 +8,14 @@
 <!ENTITY autoCompleteShowPopup.accesskey "M">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Hacer coincidir sólo sitios web que haya escrito previamente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "H">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Buscar coincidencias sólo en las direcciones, no en los títulos de sitios web">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Hacer coincidir sólo en las direcciones, no en los títulos de sitios web">
 <!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
 <!ENTITY autoCompleteMatch.label "Buscar coincidencias">
 <!ENTITY autoCompleteMatch.accesskey "B">
-<!ENTITY autoCompleteMatchAnywhere "Cualquier parte en dirección o el título">
-<!ENTITY autoCompleteMatchWordsFirst "Cualquier parte, dando preferencia a los límites de palabras">
-<!ENTITY autoCompleteMatchWords "Sólo en los límites de palabras">
-<!ENTITY autoCompleteMatchStart "Sólo al principio de la dirección o el título">
+<!ENTITY autoCompleteMatchAnywhere "en cualquier parte de la dirección y el título">
+<!ENTITY autoCompleteMatchWordsFirst "en cualquier parte, mejor al comienzo de palabras">
+<!ENTITY autoCompleteMatchWords "Sólo en el comienzo de palabras">
+<!ENTITY autoCompleteMatchStart "Sólo al principio de la dirección y el título">
 <!ENTITY searchEngine.label "Motor de búsqueda en Internet">
 <!ENTITY showSearchEngine.label "Mostrar el buscador por defecto">
 <!ENTITY showSearchEngine.accesskey "o">

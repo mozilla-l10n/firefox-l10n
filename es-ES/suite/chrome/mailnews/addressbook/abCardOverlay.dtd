@@ -27,9 +27,9 @@
 <!ENTITY Unknown.label "Desconocido">
 <!ENTITY ScreenName.label "Nombre en pantalla:">
 <!ENTITY ScreenName.accesskey "t">
-<!ENTITY allowRemoteContent.label "Permitir imágenes remotas.">
-<!ENTITY allowRemoteContent.accesskey "r">
-<!ENTITY allowRemoteContent.tooltip "En los mensajes HTML es posible incrustar imágenes de orígenes remotos. Abrir tales mensajes abrirá una conexión a ese origen remoto. Esto puede permitir el seguimiento de la lectura del mensaje. Marcar esta casilla permitirá este tipo de imágenes externas incrustadas en los mensajes HTML de este contacto.">
+<!ENTITY allowRemoteContent1.label "Permitir contenido remoto.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "En los mensajes HTML es posible incluir contenido de orígenes remotos. Abrir tales mensajes abrirá a su vez una conexión a ese origen externo. Esto puede permitir el seguimiento de la lectura del mensaje. Marcar esta casilla permitirá este tipo de contenido en los mensajes HTML de este contacto.">
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
 <!ENTITY HomePhone.label "Casa:">
@@ -39,7 +39,7 @@
 <!ENTITY PagerNumber.label "Buscapersonas:">
 <!ENTITY PagerNumber.accesskey "B">
 <!ENTITY CellularNumber.label "Móvil:">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "v">
 <!ENTITY Home.tab "Privado">
 <!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Dirección:">
@@ -70,7 +70,7 @@
 <!ENTITY Department.label "Departamento:">
 <!ENTITY Department.accesskey "m">
 <!ENTITY Company.label "Organización:">
-<!ENTITY Company.accesskey "O">
+<!ENTITY Company.accesskey "n">
 <!ENTITY WorkAddress.label "Dirección:">
 <!ENTITY WorkAddress.accesskey "D">
 <!ENTITY WorkAddress2.label "">
@@ -97,3 +97,18 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notas:">
 <!ENTITY Notes.accesskey "N">
+<!ENTITY Photo.tab "Foto">
+<!ENTITY Photo.accesskey "t">
+<!ENTITY PhotoDesc.label "Elija una de las siguientes:">
+<!ENTITY GenericPhoto.label "Foto genérica">
+<!ENTITY GenericPhoto.accesskey "F">
+<!ENTITY DefaultPhoto.label "Por defecto">
+<!ENTITY PhotoFile.label "En este ordenador">
+<!ENTITY PhotoFile.accesskey "E">
+<!ENTITY BrowsePhoto.label "Examinar">
+<!ENTITY BrowsePhoto.accesskey "x">
+<!ENTITY PhotoURL.label "En la web">
+<!ENTITY PhotoURL.accesskey "w">
+<!ENTITY PhotoURL.emptytext "Pegue o escriba la dirección web de una foto">
+<!ENTITY UpdatePhoto.label "Actualizar">
+<!ENTITY UpdatePhoto.accesskey "A">

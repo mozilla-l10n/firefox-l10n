@@ -5,6 +5,8 @@
 <!ENTITY confirmMove.accesskey "C">
 <!ENTITY preserveThreading.label "Preservar las conversaciones al ordenar mensajes">
 <!ENTITY preserveThreading.accesskey "v">
+<!ENTITY mailBiffOnNewWindow.label "Buscar correo nuevo sólo tras abrir Correo y noticias">
+<!ENTITY mailBiffOnNewWindow.accesskey "B">
 <!ENTITY defaultMailSettings.description "Hacer que &brandShortName; sea la aplicación por defecto para:">
 <!ENTITY setDefaultMail.label "Correo">
 <!ENTITY setDefaultMail.accesskey "C">
@@ -17,18 +19,7 @@
 <!ENTITY enableStartPage.accesskey "j">
 <!ENTITY location.label "Dirección:">
 <!ENTITY location.accesskey "D">
-<!ENTITY useDefault.label "Restablecer valores predeterminados">
+<!ENTITY useDefault.label "Restablecer valor por defecto">
 <!ENTITY useDefault.accesskey "D">
 <!ENTITY rememberLastMsg.label "Recordar el último mensaje seleccionado">
 <!ENTITY rememberLastMsg.accesskey "R">
-<!ENTITY toolbarIntro.caption "Seleccione los botones que quiere ver en la barra de herramientas">
-<!ENTITY fileButton.label "Archivo">
-<!ENTITY fileButton.accesskey "A">
-<!ENTITY nextButton.label "Siguiente">
-<!ENTITY nextButton.accesskey "g">
-<!ENTITY junkMailButton.label "Correo basura">
-<!ENTITY junkMailButton.accesskey "b">
-<!ENTITY printButton.label "Imprimir">
-<!ENTITY printButton.accesskey "P">
-<!ENTITY stopButton.label "Parar">
-<!ENTITY stopButton.accesskey "P">

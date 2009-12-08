@@ -37,3 +37,5 @@
 <!ENTITY disableContent.accesskey "B">
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY closeMsgWindowOnDelete.label "Cerrar la ventana de mensajes al eliminar el mensaje">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

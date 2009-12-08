@@ -4,7 +4,7 @@
 <!ENTITY newContactCmd.label "Contacto…">
 <!ENTITY newContactCmd.accesskey "C">
 <!ENTITY sendPage.label "Enviar página…">
-<!ENTITY sendPage.accesskey "g">
+<!ENTITY sendPage.accesskey "p">
 <!ENTITY contextSendThisPage.label "Enviar esta página…">
 <!ENTITY contextSendThisPage.accesskey "p">
 <!ENTITY contextSendThisLink.label "Enviar este enlace…">

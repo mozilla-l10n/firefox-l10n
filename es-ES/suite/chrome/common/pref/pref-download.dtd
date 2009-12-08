@@ -1,29 +1,32 @@
 <!ENTITY pref.download.title "Descargas">
 <!ENTITY downloadBehavior.label "Cuando se inicie una descarga">
-<!ENTITY downloadLocation.label "Cuando se guarde un archivo:">
-<!ENTITY finishedBehavior.label "Cuando se completa una descarga">
+<!ENTITY focusWhenStarting.label "Hacer parpadear el administrador de descargas si ya está abierto; si no:">
+<!ENTITY focusWhenStarting.accesskey "H">
 <!ENTITY openDM.label "Abrir el administrador de descargas">
 <!ENTITY openDM.accesskey "m">
 <!ENTITY openProgressDialog.label "Abrir un diálogo de progreso">
 <!ENTITY openProgressDialog.accesskey "O">
 <!ENTITY doNothing.label "No abrir nada">
 <!ENTITY doNothing.accesskey "D">
-<!ENTITY promptDownload.label "Preguntar ubicación de descarga y proponer por omisión">
-<!ENTITY promptDownload.accesskey "P">
-<!ENTITY lastLocation.label "Última carpeta de descarga">
-<!ENTITY lastLocation.accesskey "L">
-<!ENTITY specifiedLocation.label "Carpeta de descarga especificada">
-<!ENTITY specifiedLocation.accesskey "e">
-<!ENTITY autoDownload.label "Descargar automát. archivos a la carpeta especificada">
-<!ENTITY autoDownload.accesskey "A">
-<!ENTITY downloadFolder.label "Carpeta actual de descarga:">
+<!ENTITY downloadLocation.label "Cuando se guarde un archivo:">
+<!ENTITY saveTo.label "Guardar archivos en">
+<!ENTITY saveTo.accesskey "G">
 <!ENTITY chooseDownloadFolder.label "Elegir carpeta…">
 <!ENTITY chooseDownloadFolder.accesskey "C">
+<!ENTITY alwaysAsk.label "Preguntarme siempre dónde guardar archivos">
+<!ENTITY alwaysAsk.accesskey "P">
+<!ENTITY downloadRetention.label "Retención de descargas">
+<!ENTITY removeDownloads.label "Eliminar descargas">
+<!ENTITY removeDownloads.accesskey "n">
+<!ENTITY whenCompleted.label "Cuando se hayan completado">
+<!ENTITY whenQuittingApp.label "Al salir de &brandShortName;">
+<!ENTITY neverRemove.label "Nunca">
+<!ENTITY finishedBehavior.label "Cuando se completa una descarga">
 <!ENTITY playSound.label "Reproducir un sonido">
-<!ENTITY playSound.accesskey "s">
+<!ENTITY playSound.accesskey "R">
 <!ENTITY showAlert.label "Mostrar una alerta">
-<!ENTITY showAlert.accesskey "n">
+<!ENTITY showAlert.accesskey "a">
 <!ENTITY browse.label "Examinar…">
 <!ENTITY browse.accesskey "x">
 <!ENTITY preview.label "Escuchar">
-<!ENTITY preview.accesskey "u">
+<!ENTITY preview.accesskey "E">

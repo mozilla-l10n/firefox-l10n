@@ -8,9 +8,9 @@
 <!ENTITY openLinkCmdInTab.accesskey "T">
 <!ENTITY openLinkInWindowCmd.label "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
-<!ENTITY openFrameCmd.label "Abrir el marco en una nueva ventana">
+<!ENTITY openFrameCmd.label "Abrir el marco en una ventana nueva">
 <!ENTITY openFrameCmd.accesskey "A">
-<!ENTITY openFrameCmdInTab.label "Abrir el marco en una nueva pestaña">
+<!ENTITY openFrameCmdInTab.label "Abrir el marco en una pestaña nueva">
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
@@ -44,6 +44,8 @@
 <!ENTITY reloadImageCmd.accesskey "e">
 <!ENTITY viewImageCmd.label "Ver imagen">
 <!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label "Ver vídeo">
+<!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setWallpaperCmd.label "Poner como fondo de escritorio">
@@ -74,7 +76,7 @@
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "Copiar imagen">
@@ -92,7 +94,7 @@
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY deleteCmd.accesskey "l">
 <!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.accesskey "h">
 <!ENTITY redoCmd.label "Rehacer">

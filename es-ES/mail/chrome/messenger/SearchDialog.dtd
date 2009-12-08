@@ -1,30 +1,32 @@
 <!ENTITY searchHeading.label "Buscar mensajes en:">
-<!ENTITY searchHeading.accesskey "e">
+<!ENTITY searchHeading.accesskey "B">
 <!ENTITY searchSubfolders.label "Buscar subcarpetas">
-<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchSubfolders.accesskey "c">
+<!ENTITY searchOnServer.label "Ejecutar búsqueda en el servidor">
+<!ENTITY searchOnServer.accesskey "s">
 <!ENTITY resetButton.label "Limpiar">
 <!ENTITY resetButton.accesskey "L">
 <!ENTITY openButton.label "Abrir">
 <!ENTITY openButton.accesskey "A">
 <!ENTITY deleteButton.label "Eliminar">
-<!ENTITY deleteButton.accesskey "r">
+<!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Buscar mensajes">
 <!ENTITY results.label "Resultados">
 <!ENTITY fileHereMenu.label "Archivar aquí">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY fileButton.label "Archivo">
-<!ENTITY fileButton.accesskey "i">
+<!ENTITY fileHereMenu.accesskey "h">
+<!ENTITY fileButton.label "Archivar">
+<!ENTITY fileButton.accesskey "v">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Abrir carpeta de mensajes">
-<!ENTITY goToFolderButton.accesskey "c">
+<!ENTITY openInFolder.label "Abrir en carpeta">
+<!ENTITY openInFolder.accesskey "i">
 <!ENTITY saveAsVFButton.label "Guardar como carpeta de búsqueda">
-<!ENTITY saveAsVFButton.accesskey "u">
+<!ENTITY saveAsVFButton.accesskey "G">
 <!ENTITY abSearchHeading.label "Buscar en:">
-<!ENTITY abSearchHeading.accesskey "u">
+<!ENTITY abSearchHeading.accesskey "n">
 <!ENTITY propertiesButton.label "Propiedades">
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY composeButton.label "Redactar">
-<!ENTITY composeButton.accesskey "e">
+<!ENTITY composeButton.accesskey "R">
 <!ENTITY abSearchDialogTitle.label "Búsqueda avanzada en la libreta de direcciones">
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">

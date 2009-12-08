@@ -48,22 +48,23 @@
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
 <!ENTITY folderRebuildSummaryFileTip.label "Reconstruir archivo sumario">
 <!ENTITY retention.label "Política de retención">
-<!ENTITY retentionUseDefault.label "Usar valores predeterminados del servidor">
-<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY retentionUseAccount.label "Usar los datos de mi cuenta">
+<!ENTITY retentionUseAccount.accesskey "i">
 <!ENTITY daysOld.label "días">
 <!ENTITY message.label "mensajes">
-<!ENTITY retentionCleanup.label "Mantener:">
+<!ENTITY retentionCleanup.label "Conservar mensajes:">
+<!ENTITY retentionCleanupImap.label "Conservar mensajes, tanto las copias locales como sus originales en el servidor:">
+<!ENTITY retentionCleanupPop.label "Conservar mensajes, incluyendo sus originales en el servidor:">
 <!ENTITY retentionDeleteMsg.label "Eliminar mensajes con más de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Todos los mensajes">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "Los más recientes">
-<!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "Sólo mensajes no leídos">
-<!ENTITY retentionKeepUnread.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Los más modernos">
+<!ENTITY retentionKeepRecent.accesskey "L">
+<!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensajes leídos (prevalece sobre la configuración de antigüedad)">
 <!ENTITY retentionApplyToFlagged.label "Conservar siempre mensajes señalados">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY folderOfflineTab.label "Sin conexión">
+<!ENTITY folderSynchronizationTab.label "Sincronización">
 <!ENTITY folderCheckForNewMessages.label "Comprobar esta carpeta en busca de nuevos mensajes">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
 <!ENTITY offlineFolder.check.label "Seleccionar esta carpeta para usar sin conexión">

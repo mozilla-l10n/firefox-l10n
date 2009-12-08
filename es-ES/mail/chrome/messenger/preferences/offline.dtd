@@ -14,9 +14,9 @@
 <!ENTITY radioAskUnsent.label "Preguntarme">
 <!ENTITY radioAskUnsent.accesskey "P">
 <!ENTITY textGoingOffline "¿Descargar mensajes para su uso desconectado al pasar a modo sin conexión?">
-<!ENTITY radioAutoDownload.label "Sí">
-<!ENTITY radioAutoDownload.accesskey "S">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAutoDownload.label "Siempre">
+<!ENTITY radioAutoDownload.accesskey "m">
+<!ENTITY radioNotDownload.label "Nunca">
+<!ENTITY radioNotDownload.accesskey "c">
 <!ENTITY radioAskDownload.label "Preguntarme">
 <!ENTITY radioAskDownload.accesskey "e">

@@ -36,9 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY print.label "Imprimir…">
-<!ENTITY print.accesskey "P">
+<!ENTITY print.accesskey "I">
 <!ENTITY pageSetup.label "Configurar página…">
-<!ENTITY pageSetup.accesskey "o">
+<!ENTITY pageSetup.accesskey "u">
 <!ENTITY page.label "Página:">
 <!ENTITY page.accesskey "a">
 <!ENTITY of.label "de">

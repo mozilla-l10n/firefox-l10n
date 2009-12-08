@@ -11,7 +11,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
-<!ENTITY saveAsCmd.accesskey "u">
+<!ENTITY saveAsCmd.accesskey "G">
 <!ENTITY saveAsFileCmd.label "Archivo…">
 <!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsDraftCmd.label "Borrador">
@@ -33,10 +33,10 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "I">
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "j">
@@ -54,7 +54,7 @@
 <!ENTITY accountManagerCmd.label "Configuración de cuentas de Correo y noticias…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY showComposeToolbarCmd.label "Barra de herramientas de correo">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showComposeToolbarCmd.accesskey "c">
 <!ENTITY showFormatToolbarCmd.label "Barra de herramientas de formato">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
 <!ENTITY formatMenu.label "Formato">

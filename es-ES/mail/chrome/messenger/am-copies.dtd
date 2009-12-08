@@ -16,10 +16,10 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Otro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en">
-<!ENTITY archivesFolderOn.accesskey "h">
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en:">
+<!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Otro:">
-<!ENTITY archiveInOtherFolder.accesskey "t">
+<!ENTITY archiveInOtherFolder.accesskey "O">
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "n">
 <!ENTITY templateInOtherFolder.label "Otro:">

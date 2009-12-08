@@ -30,10 +30,10 @@
 <!ENTITY cmd.open_window.accesskey "r">
 <!ENTITY cmd.open_tab.label "Abrir enlace en una pestaña nueva">
 <!ENTITY cmd.open_tab.accesskey "n">
-<!ENTITY cmd.open_all_in_tabs.label "Abrir todas en pestañas">
-<!ENTITY cmd.open_all_in_tabs.accesskey "A">
-<!ENTITY bookmarkCmd.label "Añadir a marcadores este enlace…">
-<!ENTITY bookmarkCmd.accesskey "m">
+<!ENTITY bookmarkLinkCmd.label "Añadir este enlace a marcadores…">
+<!ENTITY bookmarkLinkCmd.accesskey "A">
+<!ENTITY bookmarkLinksCmd.label "Añadir estos enlaces a marcadores">
+<!ENTITY bookmarkLinksCmd.accesskey "A">
 <!ENTITY col.title.label "Título">
 <!ENTITY col.title.accesskey "T">
 <!ENTITY col.url.label "Dirección">

@@ -13,6 +13,8 @@
 <!ENTITY contextIncoming.label "se compruebe el correo">
 <!ENTITY contextManual.label "se ejecute manualmente">
 <!ENTITY contextBoth.label "se compruebe el correo o se ejecute manualmente">
+<!ENTITY contextPostPlugin.label "se compruebe el correo (tras clasificarlo)">
+<!ENTITY contextPostPluginBoth.label "se compruebe el correo (tras clasificarlo) o se ejecute manualmente">
 <!ENTITY filterActionDesc.label "Realizar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "R">
 <!ENTITY moveMessage.label "Mover mensaje a">
@@ -30,4 +32,4 @@
 <!ENTITY ignoreThread.label "Ignorar conversación">
 <!ENTITY ignoreSubthread.label "Ignorar sub-conversación">
 <!ENTITY watchThread.label "Observar conversación">
-<!ENTITY stopExecution.label "Detener ejecución del filtro">
+<!ENTITY stopExecution.label "Detener ejecución de los filtros">

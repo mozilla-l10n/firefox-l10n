@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 70ch;">
 <!ENTITY identityTitle.label "Configuración de la identidad">
 <!ENTITY identityListDesc.label "Establecer la configuración para esta identidad:">
 <!ENTITY settingsTab.label "Configuración">

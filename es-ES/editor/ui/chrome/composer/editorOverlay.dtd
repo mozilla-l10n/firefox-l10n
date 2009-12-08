@@ -92,6 +92,7 @@
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
 <!ENTITY findCmd.accesskey "B">
 <!ENTITY findCmd.key "F">
@@ -137,7 +138,7 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "A">
 <!ENTITY createLinkCmd.label "Crear enlace…">
 <!ENTITY createLinkCmd.accesskey "n">
-<!ENTITY editLinkCmd.label "Editar enlace en nueva ventana de Composer">
+<!ENTITY editLinkCmd.label "Editar enlace en ventana de Composer nueva">
 <!ENTITY editLinkCmd.accesskey "i">
 <!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.accesskey "h">

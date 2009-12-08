@@ -11,7 +11,7 @@
 <!ENTITY playSound.label "Reproducir un sonido">
 <!ENTITY playSound1.accesskey "o">
 <!ENTITY showAnimatedAlert.label "Mostrar una alerta">
-<!ENTITY showAnimatedAlert.accesskey "s">
+<!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY customizeMailAlert.label "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey "P">
 <!ENTITY play.label "Reproducir">
@@ -28,4 +28,4 @@
 <!ENTITY manageAddonsDescWin.label "Cambiar opciones de sus complementos">
 <!ENTITY manageAddonsDescUnix2.label "Cambiar preferencias de sus complementos">
 <!ENTITY manageAddons.label "Administrar complementos…">
-<!ENTITY manageAddons.accesskey "M">
+<!ENTITY manageAddons.accesskey "A">

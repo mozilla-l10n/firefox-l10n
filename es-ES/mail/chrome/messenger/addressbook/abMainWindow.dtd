@@ -141,7 +141,7 @@
 <!ENTITY SecondEmail.accesskey "l">
 <!ENTITY Department.label "Departamento">
 <!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "Puesto:">
+<!ENTITY JobTitle.label "Puesto">
 <!ENTITY JobTitle.accesskey "T">
 <!ENTITY CellularNumber.label "Móvil">
 <!ENTITY CellularNumber.accesskey "M">

@@ -1,4 +1,4 @@
-<!ENTITY pref.offline.title "Sin conexión y espacio en disco">
+<!ENTITY pref.network.title "Red y almacenamiento">
 <!ENTITY pref.offline.caption "Desconectado">
 <!ENTITY textStartUp "Al iniciar:">
 <!ENTITY textStartUp.accesskey "A">
@@ -21,6 +21,10 @@
 <!ENTITY radioNotDownload.accesskey "u">
 <!ENTITY radioAskDownload "Preguntarme">
 <!ENTITY radioAskDownload.accesskey "g">
+<!ENTITY mailConnections.caption "Conexiones de correo">
+<!ENTITY mailnewsTimeout.label "Caducidad de la conexión:">
+<!ENTITY mailnewsTimeout.accesskey "d">
+<!ENTITY mailnewsTimeoutSeconds.label "segundos">
 <!ENTITY Diskspace "Espacio en disco">
 <!ENTITY offlineCompact.label "Comprimir carpetas cuando se ahorren más de">
 <!ENTITY offlineCompact.accesskey "C">

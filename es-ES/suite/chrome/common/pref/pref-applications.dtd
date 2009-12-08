@@ -3,5 +3,4 @@
 <!ENTITY typeColumn.accesskey "T">
 <!ENTITY actionColumn2.label "Acción">
 <!ENTITY actionColumn2.accesskey "c">
-<!ENTITY filter.label "Buscar:">
-<!ENTITY filter.accesskey "S">
+<!ENTITY search.emptytext "Buscar tipos y acciones">

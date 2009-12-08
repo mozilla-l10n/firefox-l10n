@@ -5,6 +5,5 @@
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Eliminar cuenta">
 <!ENTITY removeButton.accesskey "R">
-<!ENTITY accountManager.size "width: 59em; height: 44em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountManager.size "width: 114ch; height: 50em;">
+<!ENTITY accountTree.width "width: 31ch;">

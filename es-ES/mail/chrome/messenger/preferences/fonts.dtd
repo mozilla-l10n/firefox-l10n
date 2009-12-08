@@ -4,9 +4,9 @@
 <!ENTITY window.unixWidth "47em">
 <!ENTITY language.label "Tipos de letra para:">
 <!ENTITY language.accesskey "T">
-<!ENTITY sizes.label "Tamaño (píxeles)">
-<!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY size.label "Tamaño:">
+<!ENTITY proportionalSize.accesskey "a">
+<!ENTITY sizeMono.accesskey "m">
 <!ENTITY proportional.label "Proporcional:">
 <!ENTITY proportional.accesskey "P">
 <!ENTITY serif.label "Serif:">
@@ -47,6 +47,9 @@
 <!ENTITY minSize.none "Ninguno">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY fontControl.label "Control de tipos de letra">
+<!ENTITY useFixedWidthForPlainText.label "Usar tipografía ancho fijo para mensajes en texto sin formato">
+<!ENTITY fixedWidth.accesskey "f">
 <!ENTITY useDocumentFonts.label "Permitir a los mensajes usar otros tipos de letra">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!ENTITY sendDefaultCharset.label "Correo saliente:">

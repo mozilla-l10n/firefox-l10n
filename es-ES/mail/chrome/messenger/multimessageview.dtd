@@ -1,0 +1,4 @@
+<!ENTITY window.title "Resumen del mensaje">
+<!ENTITY selectedmessages.label "Mensajes seleccionados">
+<!ENTITY archive.label "archivo">
+<!ENTITY delete.label "eliminar">

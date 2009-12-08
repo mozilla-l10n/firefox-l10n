@@ -20,12 +20,13 @@
 <!ENTITY passwordManagerCmd.label "Administrador de contraseñas">
 <!ENTITY passwordManagerCmd.accesskey "A">
 <!ENTITY passwordDisplayCmd.label "Administrar contraseñas guardadas">
-<!ENTITY passwordDisplayCmd.accesskey "M">
+<!ENTITY passwordDisplayCmd.accesskey "A">
 <!ENTITY passwordExpireCmd.label "Cerrar sesión">
-<!ENTITY passwordExpireCmd.accesskey "s">
+<!ENTITY passwordExpireCmd.accesskey "C">
 <!ENTITY downloadManagerCmd.label "Administrador de descargas">
 <!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addonsManagerCmd.label "Administrador de complementos">
-<!ENTITY addonsManagerCmd.accesskey "A">
+<!ENTITY addonsManagerCmd.accesskey "m">
 <!ENTITY switchProfileCmd.label "Intercambiar perfil…">
 <!ENTITY switchProfileCmd.accesskey "I">
