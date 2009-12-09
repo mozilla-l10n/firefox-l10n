@@ -12,7 +12,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutCmd.label           "Über &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "e">
-<!ENTITY productHelp.label        "&brandShortName; Hilfe">
+<!ENTITY productHelp.label        "&brandShortName;-Hilfe">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Für Anwender des Internet Explorers">
 <!ENTITY helpForIEUsers.accesskey "F">
