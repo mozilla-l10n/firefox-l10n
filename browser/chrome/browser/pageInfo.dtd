@@ -104,7 +104,7 @@
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Šīs lapas drošības informācija">
 <!ENTITY securityView.certView "Skatīt sertifikātu">
-<!ENTITY securityView.accesskey "a">
+<!ENTITY securityView.accesskey "f">
 <!ENTITY securityView.unknown "Nezināms">
 
 
@@ -120,6 +120,6 @@
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
 <!ENTITY securityView.privacy.passwords "Vai man ir saglabātas paroles šai lapai?">
 <!ENTITY securityView.privacy.viewPasswords "Skatīt saglabātās paroles">
-<!ENTITY securityView.privacy.viewPasswords.accessKey "S">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "p">
 
 <!ENTITY securityView.technical.header "Tehniskā informācija">
