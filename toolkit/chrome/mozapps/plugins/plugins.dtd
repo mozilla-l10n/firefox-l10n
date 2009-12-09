@@ -4,8 +4,8 @@
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; اکنون در حال جست‌وجو به دنبال متصل شونده‌های موجود است…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "متصل شونده‌های قابل بارگیری موجود">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "متصل شونده‌های زیر موجود است:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "برای نصب این متصل شونده‌ها دکمهٔ بعد را فشار دهید.">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "متصل شونده‌های زیر موجود هستند:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "برای نصب این متصل شونده‌ها دکمهٔ بعدی را فشار دهید.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "بعضی متصل شونده‌ها ممکن است هنگام نصب اطالاعات بیشتری از شما بپرسند.">
 
 <!ENTITY pluginWizard.licensePage.title                      "مجوز متصل شونده">
@@ -17,9 +17,9 @@
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; نصب متصل شونده‌ها را به پایان رساند:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "اطلاعات بیشتری در مورد متصل شونده‌ها کسب کنید یا متصل شونده‌ها را خودتان دستی پیدا کنید.">
-<!ENTITY pluginWizard.finalPage.restart.label                "برای به کار افتادن متصل شونده(ها) باید &brandShortName; مجدداً راه‌اندازی کرد.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "اطلاعات بیشتری در مورد متصل شونده‌ها کسب کنید یا متصل شونده‌ها را خودتان پیدا کنید.">
+<!ENTITY pluginWizard.finalPage.restart.label                "برای به کار افتادن متصل شونده(ها) باید &brandShortName; مجدداً راه‌اندازی شود.">
   
 <!ENTITY missingPlugin.label                                 "برای بارگیری متصل شونده اینجا کلیک کنید.">
-<!ENTITY disabledPlugin.label                                "متصل‌شوندهٔ مربوط به این محتوا از کار انداخته شده است. برای مدیریت متصل‌شونده‌های خود اینجا را کلیک کنید.">
+<!ENTITY disabledPlugin.label                                "متصل‌شوندهٔ مربوط به این محتوا از کار انداخته شده است. برای مدیریت متصل‌شونده‌های خود اینجا کلیک کنید.">
 <!ENTITY blockedPlugin.label                                 "این متصل‌شونده به منظور محافظت از شما باز داشته شده است.">
