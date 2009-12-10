@@ -144,4 +144,4 @@
 <!ENTITY exceptionMgr.certstatus.viewCert     "Parodyti…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "r">
 <!ENTITY exceptionMgr.permanent.label         "Įrašyti šią išimtį visam laikui">
-<!ENTITY exceptionMgr.permanent.accesskey     "r">
+<!ENTITY exceptionMgr.permanent.accesskey     "v">
