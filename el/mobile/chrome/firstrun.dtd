@@ -1,0 +1,14 @@
+<!ENTITY welcome.title "Καλώς ήλθατε στον &brandShortName;">
+
+<!ENTITY intro.description                  "Συγχρονίστε το PC και το κινητό σας με το Weave Sync. Προσαρμόστε στο με πρόσθετα. Περιηγηθείτε με την Awesome Bar και πολλά, πολλά ακόμα">
+
+<!ENTITY weave.title                        "Ξεκινήστε με το Weave">
+
+
+<!ENTITY weave.description                  "Ρυθμίστε το Weave Sync μαζί με τον Firefox σας. Μοιραστείτε τις προτιμήσεις, τους σελιδοδείκτες, το ιστορικό σας και πολλά ακόμα ανάμεσα στο PC και το κινητό σας.">
+
+<!ENTITY getPersonal.title "Παραμετροποίηση">
+<!ENTITY getPersonal.description "Προσαρμόστε τον &brandShortName; όπως εσείς θέλετε. Ο πρώτος περιηγητής που προσφέρει πρόσθετα για το κινητό σας.">
+<!ENTITY getPersonal.linkLabel "Λήψη προσθέτων για το κινητό σας">
+<!ENTITY weave.linkLabel                    "Λήψη του προσθέτου Weave">
+
