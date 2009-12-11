@@ -38,5 +38,9 @@
 <!ENTITY eventType.label "Eylem türü">
 <!ENTITY eventTime.label "Zaman">
 <!ENTITY eventNodeName.label "Düğüm adı">
+<!ENTITY isWatched.label "Is watched">
 <!ENTITY clearEventList.label "Eylem listesini temizle">
+<!ENTITY chooseEventsToWatch.label "Choose events to watch">
+<!ENTITY selectAll.label "Tümünü seç">
+<!ENTITY unselectAll.label "Unselect all">
 
