@@ -1,0 +1,37 @@
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Preferencias">
+<!ENTITY categoryHeader "Categoría">
+<!ENTITY appear.label "Apariencia">
+<!ENTITY content.label "Contenido">
+<!ENTITY fonts.label "Tipografía">
+<!ENTITY colors.label "Colores">
+<!ENTITY navigator.label "Navegador">
+<!ENTITY history.label "Historial">
+<!ENTITY languages.label "Idiomas">
+<!ENTITY applications.label "Aplicaciones">
+<!ENTITY locationBar.label "Barra de navegación">
+<!ENTITY tabWindows.label "Navegación con pestañas">
+<!ENTITY offline.label "Sin conexión">
+<!ENTITY security.label "Privacidad y seguridad">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Imágenes">
+<!ENTITY popups.label "Ventanas emergentes">
+<!ENTITY passwords.label "Contraseñas">
+<!ENTITY masterpass.label "Contraseña maestra">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificados">
+<!ENTITY validation.label "Validación">
+<!ENTITY advance.label "Avanzadas">
+<!ENTITY down.label "Descargar">
+<!ENTITY cache.label "Caché">
+<!ENTITY proxies.label "Proxies">
+<!ENTITY httpnetworking.label "Red HTTP">
+<!ENTITY smart.label "Instalación de software">
+<!ENTITY download.label "Descargas">
+<!ENTITY keynav.label "Navegación por teclado">
+<!ENTITY search.label "Búsqueda en Internet">
+<!ENTITY policies.label "Políticas de seguridad">
+<!ENTITY mousewheel.label "Rueda del mouse">
+<!ENTITY scriptsAndWindows.label "Scripts y Plugins">
+
+<!ENTITY focusSearch.key "f">
