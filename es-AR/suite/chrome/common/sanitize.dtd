@@ -2,19 +2,21 @@
 <!ENTITY sanitizeItems.label             "Borrar los siguientes ítems ahora:">
 
 <!ENTITY itemHistory.label               "Historial de navegación">
-<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemHistory.accesskey           "H">
+<!ENTITY itemUrlBar.label                "Historial de la barra de direcciones">
+<!ENTITY itemUrlBar.accesskey            "l">
 <!ENTITY itemDownloads.label             "Historial de descargas">
-<!ENTITY itemDownloads.accesskey         "D">
-<!ENTITY itemFormSearchHistory.label     "Historial de formularios y búsquedas">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemDownloads.accesskey         "d">
+<!ENTITY itemFormSearchHistory.label     "Historial de búsquedas y formularios">
+<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemCache.label                 "Caché">
 <!ENTITY itemCache.accesskey             "a">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Offline Website Data">
-<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemOfflineApps.label           "Datos de sitios web sin conexión">
+<!ENTITY itemOfflineApps.accesskey       "o">
 <!ENTITY itemPasswords.label             "Contraseñas guardadas">
-<!ENTITY itemPasswords.accesskey         "P">
+<!ENTITY itemPasswords.accesskey         "C">
 <!ENTITY itemSessions.label              "Sesiones autenticadas">
 <!ENTITY itemSessions.accesskey          "S">
 

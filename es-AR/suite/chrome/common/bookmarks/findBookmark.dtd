@@ -1,15 +1,17 @@
 
-<!ENTITY search.name.label              "name">
-<!ENTITY search.url.label               "location">
-<!ENTITY search.shortcut.label          "keyword">
-<!ENTITY search.description.label       "description">
-<!ENTITY search.startswith.label        "starts with">
-<!ENTITY search.endswith.label          "ends with">
-<!ENTITY search.is.label                "is">
-<!ENTITY search.isnot.label             "is not">
-<!ENTITY search.contains.label          "contains">
-<!ENTITY search.doesntcontain.label     "doesn't contain">
-<!ENTITY save.query.label               "Save query in bookmarks">
-<!ENTITY search.for.label               "Find Bookmarks whose">
-<!ENTITY findBookmark.title             "Find Bookmarks">
-<!ENTITY findButton.label               "Find">
+<!ENTITY search.name.label              "nombre">
+<!ENTITY search.url.label               "ubicación">
+<!ENTITY search.shortcut.label          "palabra clave">
+<!ENTITY search.description.label       "descripción">
+<!ENTITY search.startswith.label        "comienza con">
+<!ENTITY search.endswith.label          "termina con">
+<!ENTITY search.is.label                "es">
+<!ENTITY search.isnot.label             "no es">
+<!ENTITY search.contains.label          "contiene">
+<!ENTITY search.doesntcontain.label     "no contiene">
+<!ENTITY save.query.label               "Guardar consulta en marcadores">
+<!ENTITY save.query.accesskey           "s">
+<!ENTITY search.for.label               "Buscar marcadores cuyos">
+<!ENTITY findBookmark.title             "Buscar marcadores">
+<!ENTITY findButton.label               "Buscar">
+<!ENTITY findButton.accesskey           "B">

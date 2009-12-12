@@ -1,31 +1,36 @@
-<!ENTITY pref.download.title            "Downloads">
-<!ENTITY downloadBehavior.label         "When starting a download">
-<!ENTITY downloadLocation.label         "When saving a file">
-<!ENTITY finishedBehavior.label         "When a download completes">
-<!ENTITY openDM.label                   "Open the download manager">
+<!ENTITY pref.download.title            "Descargas">
+
+<!ENTITY downloadBehavior.label         "Cuando comience una descarga">
+<!ENTITY focusWhenStarting.label        "Parpadear el administrador de descargas si ya está abierto, de no ser así:">
+<!ENTITY focusWhenStarting.accesskey    "P">
+<!ENTITY openDM.label                   "Abrir el administrador de descargas">
 <!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "Open a progress dialog">
-<!ENTITY openProgressDialog.accesskey   "O">
-<!ENTITY doNothing.label                "Don't open anything">
-<!ENTITY doNothing.accesskey            "D">
-<!ENTITY promptDownload.label           "Prompt for download location and default to">
-<!ENTITY promptDownload.accesskey       "P">
-<!ENTITY lastLocation.label             "Last download folder">
-<!ENTITY lastLocation.accesskey         "L">
-<!ENTITY specifiedLocation.label        "Specified download folder">
-<!ENTITY specifiedLocation.accesskey    "e">
-<!ENTITY autoDownload.label             "Automatically download files to specified download folder">
-<!ENTITY autoDownload.accesskey         "A">
-<!ENTITY downloadFolder.label           "Current Download Folder:">
-<!ENTITY chooseDownloadFolder.label     "Choose Folder…">
-<!ENTITY chooseDownloadFolder.accesskey "C">
-<!ENTITY playSound.label                "Play a sound">
+<!ENTITY openProgressDialog.label       "Abrir un diálogo de progreso">
+<!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY doNothing.label                "No abrir nada">
+<!ENTITY doNothing.accesskey            "d">
+
+<!ENTITY downloadLocation.label         "Cuando guarda un archivo">
+<!ENTITY saveTo.label                   "Guardar archivos en">
+<!ENTITY saveTo.accesskey               "v">
+<!ENTITY chooseDownloadFolder.label     "Seleccionar carpeta…">
+<!ENTITY chooseDownloadFolder.accesskey "c">
+<!ENTITY alwaysAsk.label                "Siempre preguntarme dónde guardar archivos">
+<!ENTITY alwaysAsk.accesskey            "a">
+
+<!ENTITY downloadRetention.label        "Retención de descargas">
+<!ENTITY removeDownloads.label          "Eliminar descargas">
+<!ENTITY removeDownloads.accesskey      "r">
+<!ENTITY whenCompleted.label            "Cuando se hayan completado">
+<!ENTITY whenQuittingApp.label          "Al salir de &brandShortName;">
+<!ENTITY neverRemove.label              "Nunca">
+
+<!ENTITY finishedBehavior.label         "Cuando se completa una descarga">
+<!ENTITY playSound.label                "Reproducir sonido">
 <!ENTITY playSound.accesskey            "s">
-<!ENTITY showAlert.label                "Show an alert">
+<!ENTITY showAlert.label                "Mostrar una alerta">
 <!ENTITY showAlert.accesskey            "n">
-<!ENTITY browse.label                   "Browse…">
-<!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Preview">
-<!ENTITY preview.accesskey              "v">
-<!ENTITY soundURL.label                 "Sound URL:">
-<!ENTITY soundURL.accesskey             "U">
+<!ENTITY browse.label                   "Examinar…">
+<!ENTITY browse.accesskey               "E">
+<!ENTITY preview.label                  "Vista previa">
+<!ENTITY preview.accesskey              "V">

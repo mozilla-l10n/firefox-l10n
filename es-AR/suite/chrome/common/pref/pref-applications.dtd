@@ -1,11 +1,10 @@
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title "Helper Applications">
+<!ENTITY pref.applications.title "Aplicaciones">
 
-<!ENTITY typeColumn.label        "Content Type">
+<!ENTITY typeColumn.label        "Tipo de contenido">
 <!ENTITY typeColumn.accesskey    "T">
 
-<!ENTITY actionColumn2.label     "Action">
+<!ENTITY actionColumn2.label     "Acción">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY filter.label            "Search:">
-<!ENTITY filter.accesskey        "S">
+<!ENTITY search.emptytext        "Buscar Tipos y Acciones">
