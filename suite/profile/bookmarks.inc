@@ -81,7 +81,7 @@
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
-# e.g. #define seamonkey_seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
+# e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
 #define seamonkey_l10n_long <DT><A HREF="http://www.mozilla-russia.org/products/seamonkey/">Проект SeaMonkey</a> 
 
 #unfilter emptyLines
