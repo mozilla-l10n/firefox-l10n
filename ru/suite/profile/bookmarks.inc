@@ -37,19 +37,19 @@
 #define extend_seamonkey Расширение SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
-# link title for https://ru.add-ons.mozilla.com/ru/seamonkey/
+# link title for https://addons.mozilla.org/ru/seamonkey/
 #define seamonkey_addons Дополнения SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_themes):
-# link title for https://ru.add-ons.mozilla.com/ru/seamonkey/themes
+# link title for https://addons.mozilla.org/ru/seamonkey/themes
 #define seamonkey_themes Темы SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
-# link title for https://ru.add-ons.mozilla.com/ru/seamonkey/dictionaries
+# link title for https://addons.mozilla.org/ru/seamonkey/dictionaries
 #define seamonkey_dictionaries Словари проверки орфографии
 
 # LOCALIZATION NOTE (seamonkey_plugins):
-# link title for https://ru.add-ons.mozilla.com/ru/seamonkey/plugins
+# link title for https://addons.mozilla.org/ru/seamonkey/plugins
 #define seamonkey_plugins Плагины для SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):
@@ -81,7 +81,7 @@
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
-# e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
+# e.g. #define seamonkey_seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
 #define seamonkey_l10n_long <DT><A HREF="http://www.mozilla-russia.org/products/seamonkey/">Проект SeaMonkey</a> 
 
 #unfilter emptyLines
