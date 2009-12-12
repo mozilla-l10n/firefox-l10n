@@ -37,24 +37,24 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY emailSectionHdr.label        "Email"> 
-<!ENTITY readMsgsLink.label           "Read messages"> 
-<!ENTITY composeMsgLink.label         "Compose a new message"> 
+<!ENTITY emailSectionHdr.label        "Correo electrónico"> 
+<!ENTITY readMsgsLink.label           "Leer mensajes"> 
+<!ENTITY composeMsgLink.label         "Redactar un mensaje nuevo"> 
 
-<!ENTITY newsSectionHdr.label         "Newsgroups"> 
-<!ENTITY subscribeNewsLink.label      "Manage newsgroup subscriptions"> 
+<!ENTITY newsSectionHdr.label         "Grupos de noticias"> 
+<!ENTITY subscribeNewsLink.label      "Administrar suscripciones a grupos de noticias"> 
 
-<!ENTITY accountsSectionHdr.label     "Accounts"> 
-<!ENTITY subscribeImapFolders.label   "Manage folder subscriptions"> 
-<!ENTITY settingsLink.label           "View settings for this account"> 
-<!ENTITY newAcctLink.label            "Create a new account"> 
+<!ENTITY accountsSectionHdr.label     "Cuentas"> 
+<!ENTITY subscribeImapFolders.label   "Administrar suscripciones a carpetas"> 
+<!ENTITY settingsLink.label           "Ver configuración de esta cuenta"> 
+<!ENTITY newAcctLink.label            "Crear una cuenta nueva"> 
 
-<!ENTITY advFeaturesSectionHdr.label  "Advanced Features"> 
-<!ENTITY searchMsgsLink.label         "Search messages"> 
-<!ENTITY filtersLink.label            "Manage message filters">
-<!ENTITY junkSettings.label           "Junk mail settings">
-<!ENTITY offlineLink.label            "Offline settings">
+<!ENTITY advFeaturesSectionHdr.label  "Funciones avanzadas"> 
+<!ENTITY searchMsgsLink.label         "Buscar mensajes"> 
+<!ENTITY filtersLink.label            "Administrar filtros de mensaje">
+<!ENTITY junkSettings.label           "Configuración de correo basura">
+<!ENTITY offlineLink.label            "Configuración sin conexión">
 
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "Manage subscriptions"> 
+<!ENTITY feedsSectionHdr.label        "Canales">
+<!ENTITY subscribeFeeds.label         "Administrar suscripciones">
 

@@ -36,48 +36,48 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.viewing.messages.title      "Message Display">
-<!ENTITY style.label                      "Style:">
-<!ENTITY style.accesskey                  "S">
+<!ENTITY pref.viewing.messages.title      "Vista de Mensajes">
+<!ENTITY style.label                      "Estilo:">
+<!ENTITY style.accesskey                  "s">
 <!ENTITY regular.label                    "Regular">
-<!ENTITY bold.label                       "Bold">
-<!ENTITY italic.label                     "Italic">
-<!ENTITY boldItalic.label                 "Bold Italic">
-<!ENTITY size.label                       "Size:">
-<!ENTITY size.accesskey                   "z">
-<!ENTITY bigger.label                     "Bigger">
-<!ENTITY smaller.label                    "Smaller">
+<!ENTITY bold.label                       "Negrita">
+<!ENTITY italic.label                     "Itálica">
+<!ENTITY boldItalic.label                 "Negrita itálica">
+<!ENTITY size.label                       "Tamaño:">
+<!ENTITY size.accesskey                   "T">
+<!ENTITY bigger.label                     "Más grande">
+<!ENTITY smaller.label                    "Más chico">
 <!ENTITY color.label                      "Color:">
 <!ENTITY color.accesskey                  "C">
-<!ENTITY displayPlainText.caption         "Plain text messages">
+<!ENTITY displayPlainText.caption         "Mensajes en texto plano">
 <!ENTITY fontPlainText.label              "Font:">
 <!ENTITY fontPlainText.accesskey          "F">
-<!ENTITY displayQuoted.label              "Settings for quoted messages:">
-<!ENTITY readingMessagesHeader.label      "For incoming messages">
-<!ENTITY messageWrapping.label            "Message Wrapping">
-<!ENTITY wrapInMsg.label                  "Wrap text to fit window width">
-<!ENTITY wrapInMsg.accesskey              "W">
+<!ENTITY displayQuoted.label              "Opciones para mensajes citados:">
+<!ENTITY wrapInMsg.label                  "Ajustar texto al ancho de la ventana">
+<!ENTITY wrapInMsg.accesskey              "A">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Display emoticons as graphics">
-<!ENTITY convertEmoticons.accesskey       "D">
+<!ENTITY convertEmoticons.label           "Mostrar emoticones como gráficos">
+<!ENTITY convertEmoticons.accesskey       "M">
 <!ENTITY generalMessageDisplay.caption    "General">
-<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "Immediately on display">
+<!ENTITY autoMarkAsRead.label             "Marcar mensajes como leídos automáticamente">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Inmediatamente al mostrarlo">
 <!ENTITY markAsReadNoDelay.accesskey      "m">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "After displaying for">
+<!ENTITY markAsReadDelay.label            "Después de mostrarlo por">
 <!ENTITY markAsReadDelay.accesskey        "t">
-<!ENTITY secondsLabel.label               "seconds">
+<!ENTITY secondsLabel.label               "segundos">
 
-<!ENTITY openingMessages.label            "When opening messages, display them in:">
-<!ENTITY newWindowRadio.label             "A new message window">
+<!ENTITY openingMessages.label            "Al abrir mensajes, mostrarlos en:">
+<!ENTITY newWindowRadio.label             "Una nueva ventana de mensaje">
 <!ENTITY newWindowRadio.accesskey         "n">
-<!ENTITY existingWindowRadio.label        "An existing message window">
+<!ENTITY existingWindowRadio.label        "Una ventana de mensaje existente">
 <!ENTITY existingWindowRadio.accesskey    "e">
-<!ENTITY disableContent.label             "Block images and other content from remote sources">
+<!ENTITY disableContent.label             "Bloquear imágenes y otros contenidos de fuentes remotas">
 <!ENTITY disableContent.accesskey         "B">
-<!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.label     "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY closeMsgWindowOnDelete.label     "Cerrar la ventana del mensaje al borrarlo">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

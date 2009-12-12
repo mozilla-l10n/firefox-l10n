@@ -1,42 +1,46 @@
 <!-- extracted from tasksOverlay.xul -->
-<!ENTITY navigatorCmd.label "Browser">
-<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.label "Navegador">
+<!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Composer">
-<!ENTITY editorCmd.accesskey				"c">
+<!ENTITY editorCmd.accesskey				"C">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY securityInfoCmd.label					".Security Info">  
-<!ENTITY securityInfoCmd.accesskey				"s">
-<!ENTITY javaConsoleCmd.label					"Java Console">
-<!ENTITY javaConsoleCmd.accesskey				"j">
+<!ENTITY javaConsoleCmd.label					"Consola de Java">
+<!ENTITY javaConsoleCmd.accesskey				"J">
 
-<!ENTITY errorConsoleCmd.label                                  "Error Console">
+<!ENTITY errorConsoleCmd.label                                  "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey				"C">
+<!ENTITY errorConsoleCmd.commandkey				"j">
 
-<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
-<!ENTITY privacyMenu.label "Privacy &amp; Security">
-<!ENTITY privacyMenu.accesskey "p">
-
-<!ENTITY taskNavigator.tooltip  "Browser">
+<!ENTITY taskNavigator.tooltip  "Navegador">
 <!ENTITY taskComposer.tooltip  "Composer">
-<!ENTITY taskBar.tooltip  "Status Bar">
 
-<!ENTITY webDevelopment.label "Web Development">
+<!ENTITY webDevelopment.label "Desarrollo Web">
 <!ENTITY webDevelopment.accesskey "W">
 
-<!ENTITY windowMenu.label "Window">
-<!ENTITY windowMenu.accesskey "W">
+<!ENTITY windowMenu.label "Ventana">
+<!ENTITY windowMenu.accesskey "V">
 
-<!ENTITY tasksMenu.label "Tools">
-<!ENTITY tasksMenu.accesskey "T"> 
+<!ENTITY tasksMenu.label "Herramientas">
+<!ENTITY tasksMenu.accesskey "t"> 
 
-<!ENTITY downloadManagerCmd.label "Download Manager">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY passwordManagerCmd.label "Administrador de contraseñas">
+<!ENTITY passwordManagerCmd.accesskey "A">
 
-<!ENTITY addonsManagerCmd.label "Add-on Manager">
+<!ENTITY passwordDisplayCmd.label "Administrar contraseñas guardadas">
+<!ENTITY passwordDisplayCmd.accesskey "m">
+
+<!ENTITY passwordExpireCmd.label "Terminar sesión">
+<!ENTITY passwordExpireCmd.accesskey "T">
+
+<!ENTITY downloadManagerCmd.label "Administrador de descargas">
+<!ENTITY downloadManagerCmd.accesskey "d">
+<!ENTITY downloadManagerCmd.commandkey "j">
+
+<!ENTITY addonsManagerCmd.label "Administrador de agregados">
 <!ENTITY addonsManagerCmd.accesskey "A">
 
-<!ENTITY switchProfileCmd.label "Switch Profile…">
-<!ENTITY switchProfileCmd.accesskey "h">
+<!ENTITY switchProfileCmd.label "Cambiar de perfil…">
+<!ENTITY switchProfileCmd.accesskey "C">

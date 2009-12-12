@@ -37,8 +37,7 @@
 
 <!-- extracted from ./local-panels.rdf -->
 
-<!ENTITY sidebar.whats-related.label  "What's Related">
-<!ENTITY sidebar.search.label         "Search">
-<!ENTITY sidebar.client-bookmarks.label     "Bookmarks">
-<!ENTITY sidebar.client-history.label       "History">
-<!ENTITY sidebar.client-addressbook.label   "Address Book">
+<!ENTITY sidebar.search.label         "Buscar">
+<!ENTITY sidebar.client-bookmarks.label     "Marcadores">
+<!ENTITY sidebar.client-history.label       "Historial">
+<!ENTITY sidebar.client-addressbook.label   "Libreta de direcciones">

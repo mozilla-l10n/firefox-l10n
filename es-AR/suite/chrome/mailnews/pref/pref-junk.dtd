@@ -34,27 +34,39 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Junk Mail">
-<!ENTITY junkSettings.caption "Global Junk Mail Settings">
-<!ENTITY junkMail.intro "Goto Account Settings to configure account specific junk mail settings.">
+<!ENTITY pref.junk.title "Basura y correo sospechoso">
+<!ENTITY junkSettings.caption "Opciones globales de correo basura">
+<!ENTITY junkMail.intro "Vaya a Opciones de cuenta para configurar opciones de correo basura específicas para esta cuenta.">
 
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label               "When I mark messages as junk:">
-<!ENTITY manualMark.accesskey           "W">
-<!ENTITY manualMarkModeMove.label       "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY manualMark.label               "Cuando marque mensajes como basura:">
+<!ENTITY manualMark.accesskey           "C">
+<!ENTITY manualMarkModeMove.label       "Moverlos a la carpeta &quot;Basura&quot; de la cuenta">
 <!ENTITY manualMarkModeMove.accesskey   "M">
-<!ENTITY manualMarkModeDelete.label     "Delete them">
-<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY manualMarkModeDelete.label     "Borrarlos">
+<!ENTITY manualMarkModeDelete.accesskey "B">
 
-<!ENTITY markAsRead.intro               "Mark messages as read:">
-<!ENTITY autoMarkAsRead.label           "When &brandShortName; determines that they are junk">
+<!ENTITY markAsRead.intro               "Marcar mensajes como leídos:">
+<!ENTITY autoMarkAsRead.label           "Cuando &brandShortName; determine que son basura">
 <!ENTITY autoMarkAsRead.accesskey       "u">
-<!ENTITY manualMarkAsRead.label         "When I manually mark them as junk">
-<!ENTITY manualMarkAsRead.accesskey     "k">
+<!ENTITY manualMarkAsRead.label         "Cuando los marque manualmente como basura">
+<!ENTITY manualMarkAsRead.accesskey     "C">
 
-<!ENTITY enableJunkLogging.label        "Enable junk filter logging">
-<!ENTITY enableJunkLogging.accesskey    "E">
-<!ENTITY openJunkLog.label              "Show log">
-<!ENTITY openJunkLog.accesskey          "S">
-<!ENTITY resetTrainingData.label        "Reset training data">
+<!ENTITY enableJunkLogging.label        "Habilitar el registro del filtro basura">
+<!ENTITY enableJunkLogging.accesskey    "e">
+<!ENTITY openJunkLog.label              "Mostrar el registro">
+<!ENTITY openJunkLog.accesskey          "s">
+<!ENTITY resetTrainingData.label        "Reiniciar datos de entrenamiento">
 <!ENTITY resetTrainingData.accesskey    "t">
+
+<!ENTITY pref.suspectMail.caption       "Correo sospechoso">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "Fraudes de correo">
+<!ENTITY enablePhishingDetector.label     "Avisarme si el mensaje que estoy leyendo se sospecha que puede ser una estafa">
+<!ENTITY enablePhishingDetector.accesskey "t">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Antivirus">
+<!ENTITY antiVirus.label                  "Permitir a los clientes antivirus que verifiquen los mensajes entrantes más fácilmente">
+<!ENTITY antiVirus.accesskey              "a">

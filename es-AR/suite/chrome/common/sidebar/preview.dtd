@@ -35,5 +35,4 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sidebar.preview.title.label          "Tab Preview">
-<!ENTITY sidebar.preview.close.label          "Close">
+<!ENTITY sidebar.preview.title.label          "Vista previa de la pestaña">

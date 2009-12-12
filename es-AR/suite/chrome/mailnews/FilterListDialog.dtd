@@ -1,28 +1,26 @@
-<!ENTITY window.title "Message Filters">
-<!ENTITY nameColumn.label "Filter Name">
-<!ENTITY activeColumn.label "Enabled">
-<!ENTITY newButton.label "New…">
+<!ENTITY filterListDialog.title "Filtros de mensaje">
+<!ENTITY nameColumn.label "Nombre del filtro">
+<!ENTITY activeColumn.label "Habilitado">
+<!ENTITY newButton.label "Nuevo…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Edit…">
+<!ENTITY editButton.label "Editar…">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "Delete">
-<!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderUpButton.label "Move Up">
-<!ENTITY reorderUpButton.accesskey "U">
-<!ENTITY reorderDownButton.label "Move Down">
-<!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY filterHeader.label "Enabled filters are run automatically in the order shown below.">
-<!ENTITY filtersForPrefix.label "Filters for:">
+<!ENTITY deleteButton.label "Borrar">
+<!ENTITY deleteButton.accesskey "B">
+<!ENTITY reorderUpButton.label "Subir">
+<!ENTITY reorderUpButton.accesskey "S">
+<!ENTITY reorderDownButton.label "Bajar">
+<!ENTITY reorderDownButton.accesskey "B">
+<!ENTITY filterHeader.label "Los filtros activos se ejecutan automáticamente en el orden indicado debajo.">
+<!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Filter Log">
-<!ENTITY viewLogButton.accesskey "L">
-<!ENTITY runFilters.label "Run Now">
-<!ENTITY runFilters.accesskey "R">
-<!ENTITY stopFilters.label "Stop">
-<!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Run selected filter(s) on:">
+<!ENTITY viewLogButton.label "Registro de filtros">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Ejecutar ahora">
+<!ENTITY runFilters.accesskey "r">
+<!ENTITY stopFilters.label "Detener">
+<!ENTITY stopFilters.accesskey "D">
+<!ENTITY folderPickerPrefix.label "Ejecutar los filtros seleccionados en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "choose this folder">
-<!ENTITY choosethisnewsserver.label "choose this news server">
-<!ENTITY helpButton.label "Help">
-<!ENTITY helpButton.accesskey "H">
+<!ENTITY choosethis.label "seleccionar esta carpeta">
+<!ENTITY choosethisnewsserver.label "elegir este servidor de noticias">

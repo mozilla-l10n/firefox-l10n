@@ -2,17 +2,17 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
                          You may want to translate the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Cerrar">  
-<!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "c">
+<!ENTITY closeCmd.label                 "Cerrar">
+<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY quitApplicationCmd.label       "Salir"> 
-<!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "x">
+<!ENTITY quitApplicationCmd.label       "Salir">
+<!ENTITY quitApplicationCmd.key         "Q">
+<!ENTITY quitApplicationCmd.accesskey   "S">
 
-<!ENTITY redoCmd.label                  "Rehacer">  
-<!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "r">
+<!ENTITY redoCmd.label                  "Rehacer">
+<!ENTITY redoCmd.key                    "Y">
+<!ENTITY redoCmd.accesskey              "R">
 
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
@@ -21,7 +21,7 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label              "Contenido de la ayuda">
-<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.accesskey          "y">
 <!ENTITY openHelpCmd.key                "VK_F1">
 <!ENTITY helpForIEUsers.label           "Para usuarios de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey       "I">
@@ -29,5 +29,5 @@
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
-<!ENTITY shiftKey.label                 "Shift">
+<!ENTITY shiftKey.label                 "May">
 

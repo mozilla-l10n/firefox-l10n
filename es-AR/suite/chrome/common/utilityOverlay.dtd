@@ -1,95 +1,112 @@
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY  offlineGoOfflineCmd.label                 "Work Offline">
-<!ENTITY  offlineGoOfflineCmd.accesskey             "k">
+<!ENTITY  offlineGoOfflineCmd.label                 "Trabajar sin conexión">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "T">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label					"File"> 
-<!ENTITY fileMenu.accesskey				"f">
-<!ENTITY newMenu.label						"New">
-<!ENTITY newMenu.accesskey					"N">
-<!ENTITY newBlankPageCmd.label "Composer Page">
+<!ENTITY fileMenu.label					"Archivo"> 
+<!ENTITY fileMenu.accesskey				"A">
+<!ENTITY newMenu.label					"Nuevo">
+<!ENTITY newMenu.accesskey				"N">
+<!ENTITY newBlankPageCmd.label "Página de Composer">
 <!ENTITY newBlankPageCmd.accesskey "P" >
 <!ENTITY newBlankPageCmd.key "n" >
-<!ENTITY newPageFromTemplateCmd.label "Page Using Template">
+<!ENTITY newPageFromTemplateCmd.label "Página que usa plantilla">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
-<!ENTITY newPageFromDraftCmd.label "Page Using Draft">
-<!ENTITY newPageFromDraftCmd.accesskey "d">
-<!ENTITY newNavigatorCmd.label "Browser Window">
+<!ENTITY newPageFromDraftCmd.label "Página usando borrador">
+<!ENTITY newPageFromDraftCmd.accesskey "P">
+<!ENTITY newNavigatorCmd.label "Ventana del navegador">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY newNavigatorCmd.accesskey "V">
 
-<!ENTITY editMenu.label					"Edit"> 
-<!ENTITY editMenu.accesskey				"e"> 
-<!ENTITY undoCmd.label						"Undo">  
+<!ENTITY editMenu.label					"Editar"> 
+<!ENTITY editMenu.accesskey				"E"> 
+<!ENTITY undoCmd.label						"Deshacer">  
 <!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"U"> 
-<!ENTITY redoCmd.label						"Redo">  
+<!ENTITY undoCmd.accesskey					"D"> 
+<!ENTITY redoCmd.label						"Rehacer">  
 <!ENTITY redoCmd.key						"Y">  
 <!ENTITY redoCmd.accesskey					"R"> 
-<!ENTITY cutCmd.label						"Cut">  
+<!ENTITY cutCmd.label						"Cortar">  
 <!ENTITY cutCmd.key							"X">  
 <!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"Copy">  
+<!ENTITY copyCmd.label						"Copiar">  
 <!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"c"> 
-<!ENTITY pasteCmd.label						"Paste">  
+<!ENTITY copyCmd.accesskey					"C"> 
+<!ENTITY pasteCmd.label						"Pegar">  
 <!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"p"> 
-<!ENTITY deleteCmd.label					"Delete">  
-<!ENTITY deleteCmd.key						"D">  
-<!ENTITY deleteCmd.accesskey				"d"> 
-<!ENTITY selectAllCmd.label					"Select All">  
+<!ENTITY pasteCmd.accesskey					"P"> 
+<!ENTITY deleteCmd.label					"Borrar">  
+<!ENTITY deleteCmd.accesskey				"B"> 
+<!ENTITY selectAllCmd.label					"Seleccionar todo">  
 <!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"a"> 
-<!ENTITY preferencesCmd.label				"Preferences…">
+<!ENTITY selectAllCmd.accesskey				"S"> 
+<!ENTITY preferencesCmd.label				"Preferencias…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"e"> 
-<!ENTITY findTypeTextCmd.label "Find Text As You Type">
+<!ENTITY findTypeTextCmd.label "Buscar texto mientras se escribe">
 <!ENTITY findTypeTextCmd.accesskey "x">
-<!ENTITY findTypeLinksCmd.label "Find Links As You Type">
-<!ENTITY findTypeLinksCmd.accesskey "k">
+<!ENTITY findTypeLinksCmd.label "Buscar enlaces mientras se escribe">
+<!ENTITY findTypeLinksCmd.accesskey "e">
 
-<!ENTITY viewMenu.label					"View"> 
-<!ENTITY viewMenu.accesskey				"v"> 
-<!ENTITY viewToolbarsMenu.label				"Show/Hide"> 
-<!ENTITY viewToolbarsMenu.accesskey			"w"> 
-<!ENTITY showTaskbarCmd.label					"Status Bar">  
-<!ENTITY showTaskbarCmd.accesskey				"S"> 
+<!ENTITY viewMenu.label					"Ver"> 
+<!ENTITY viewMenu.accesskey				"V"> 
+<!ENTITY viewToolbarsMenu.label				"Mostrar/Ocultar"> 
+<!ENTITY viewToolbarsMenu.accesskey			"M"> 
+<!ENTITY showTaskbarCmd.label					"Barra de estado">  
+<!ENTITY showTaskbarCmd.accesskey				"s"> 
 
-<!ENTITY helpMenu.label					"Help"> 
-<!ENTITY helpMenu.accesskey				"h"> 
+<!ENTITY helpMenu.label					"Ayuda"> 
+<!ENTITY helpMenu.accesskey				"y"> 
 
-<!ENTITY releaseCmd.label				"Release Notes">
+<!ENTITY releaseCmd.label				"Notas de la versión">
 <!ENTITY releaseCmd.accesskey                   "N">
-<!ENTITY updateCmd.label                        "Check for Updates…">
-<!ENTITY updateCmd.accesskey                    "C">
-<!ENTITY aboutCmd.label					"About &brandShortName;">
+<!ENTITY updateCmd.label                        "Buscar actualizaciones…">
+<!ENTITY updateCmd.accesskey                    "c">
+<!ENTITY aboutCmd.label					"Acerca de &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"A">
-<!ENTITY aboutCommPluginsCmd.label			"About Plugins">
+<!ENTITY aboutCommPluginsCmd.label			"Acerca de plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey			"p">
 
-<!ENTITY direct.label                                   "Online (Proxy: None)">
-<!ENTITY direct.accesskey                               "N">
-<!ENTITY manual.label                                   "Online (Proxy: Manual)">
+<!ENTITY direct.label                                   "Conectado (Proxy: ninguno)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Conectado (Proxy: manual)">
 <!ENTITY manual.accesskey                               "M">
-<!ENTITY pac.label                                      "Online (Proxy: Auto URL)">
-<!ENTITY pac.accesskey                                  "A">
-<!ENTITY wpad.label                                     "Online (Proxy: Auto Discover)">
+<!ENTITY pac.label                                      "Conectado (Proxy: URL automática)">
+<!ENTITY pac.accesskey                                  "a">
+<!ENTITY wpad.label                                     "Conectado (Proxy: descubierto automáticamente)">
 <!ENTITY wpad.accesskey                                 "D">
-<!ENTITY system.label                                   "Online (Proxy: System Proxy)">
-<!ENTITY system.accesskey                               "S">
+<!ENTITY system.label                                   "Conectado (Proxy: proxy del sistema)">
+<!ENTITY system.accesskey                               "s">
 
-<!ENTITY proxy.label                                    "Proxy Configuration…">
+<!ENTITY proxy.label                                    "Configuración de proxy…">
 <!ENTITY proxy.accesskey                                "C">
 
-<!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar dirección del texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY customizeToolbarContext.label            "Personalizar…">
+<!ENTITY customizeToolbarContext.accesskey        "P">
+
+<!ENTITY customizeToolbar.toolbarmode.label       "Opciones para esta barra de herramientas">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.iconsAndText.label      "Iconos y texto">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "I">
+<!ENTITY customizeToolbar.icons.label             "Iconos">
+<!ENTITY customizeToolbar.icons.accesskey         "o">
+<!ENTITY customizeToolbar.text.label              "Texto">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Usar íconos pequeños">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Mostrar texto debajo del ícono">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
+<!ENTITY customizeToolbar.useDefault.label        "Usar opciones predeterminadas">
+<!ENTITY customizeToolbar.useDefault.accesskey    "U">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
-<!ENTITY showPopupManager.label       "Manage Popups">
-<!ENTITY showPopupManager.accesskey   "M">
-<!ENTITY dontShowMessage.label        "Don't show this message when popups are blocked">
-<!ENTITY dontShowMessage.accesskey    "D">
+<!ENTITY showPopupManager.label       "Administrar ventanas emergentes">
+<!ENTITY showPopupManager.accesskey   "m">
+<!ENTITY dontShowMessage.label        "No mostrar este mensaje cuando las ventanas emergentes están bloqueadas">
+<!ENTITY dontShowMessage.accesskey    "d">

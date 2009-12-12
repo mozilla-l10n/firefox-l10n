@@ -1,24 +1,28 @@
-<!ENTITY securityTitle.label "Security">
-<!ENTITY securityTab.label "Security">
-<!ENTITY securityHeading.label "To send and receive signed or encrypted messages, you should specify both a digital signing certificate and an encryption certificate.">
-<!ENTITY encryptionGroupTitle.label "Encryption">
-<!ENTITY encryptionChoiceLabel.label "Default encryption setting when sending messages:">
-<!ENTITY neverEncrypt.label "Never (do not use encryption)">
+<!ENTITY securityTitle.label "Seguridad">
+<!ENTITY securityTab.label "Seguridad">
+<!ENTITY securityHeading.label "Para enviar y recibir mensajes firmados o cifrados, debe especificar tanto un certificado de firma digital como un certificado de cifrado.">
+<!ENTITY encryptionGroupTitle.label "Cifrado">
+<!ENTITY encryptionChoiceLabel.label "Cifrado predeterminado al enviar mensajes:">
+<!ENTITY neverEncrypt.label "Nunca (no usar cifrado)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Required (can't send message unless all recipients have certificates)">
+<!ENTITY alwaysEncryptMessage.label "Requerido (no se puede enviar el mensaje a menos que todos los destinatarios tengan certificados)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Use this certificate to encrypt &amp; decrypt messages sent to you:">
-<!ENTITY encryptionCert.notselected "No certificate set">
-<!ENTITY digitalSign.certificate.button "Select…">
+<!ENTITY encryptionCert.message "Usar este certificado para cifrar y descifrar mensajes que le sean enviados:">
+<!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
-<!ENTITY digitalSign.certificate_clear.button "Clear">
+<!ENTITY digitalSign.certificate_clear.button "Borrar">
 <!ENTITY digitalSign.certificate_clear.accesskey "C">
-<!ENTITY encryption.certificate.button "Select…">
+<!ENTITY encryption.certificate.button "Seleccionar…">
 <!ENTITY encryption.certificate.accesskey "t">
-<!ENTITY encryption.certificate_clear.button "Clear">
+<!ENTITY encryption.certificate_clear.button "Borrar">
 <!ENTITY encryption.certificate_clear.accesskey "e">
-<!ENTITY signingGroupTitle.label "Digital Signing">
-<!ENTITY signMessage.label "Digitally sign messages (by default)">
-<!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Use this certificate to digitally sign messages you send:">
-<!ENTITY signingCert.notselected "No certificate set">
+<!ENTITY signingGroupTitle.label "Firma digital">
+<!ENTITY signMessage.label "Firmar los mensajes digitalmente (por defecto)">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Usar este certificado para firmar digitalmente los mensajes que envíe:">
+
+<!ENTITY certificates.label "Certificados">
+<!ENTITY manageCerts.label "Administrar certificados…">
+<!ENTITY manageCerts.accesskey "m">
+<!ENTITY manageDevices.label "Administrar dispositivos de seguridad…">
+<!ENTITY manageDevices.accesskey "g">

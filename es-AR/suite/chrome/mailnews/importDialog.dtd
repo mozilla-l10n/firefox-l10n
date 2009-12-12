@@ -36,36 +36,44 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importDialog.allTitle    "Import everything">
-<!ENTITY importDialog.mailTitle   "Mail">
-<!ENTITY importDialog.addressbookTitle "Address Books">
-<!ENTITY importDialog.settingsTitle "Settings">
-<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importDialog.windowTitle "Importar">
+<!ENTITY importAll.label          "Importar todo">
+<!ENTITY importAll.accesskey      "I">
+<!ENTITY importMail.label         "Correo">
+<!ENTITY importMail.accesskey     "C">
+<!ENTITY importAddressbook.label  "Libretas de direcciones">
+<!ENTITY importAddressbook.accesskey "L">
+<!ENTITY importSettings.label     "Configuración">
+<!ENTITY importSettings.accesskey "o">
+<!ENTITY importFilters.label      "Filtros">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; Import Wizard">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importTitle.label        "Asistente de &brandShortName;">
+<!ENTITY importShortDesc.label    "Importar correo, libretas de direcciones, configuraciones y filtros de otros programas">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "Este asistente importará los mensajes de correo, entradas en la libreta de direcciones, preferencias y/o filtros desde otros programas de correo y formatos comunes de libretas de direcciones a &brandShortName;.">
+<!ENTITY importDescription2.label "Cuando hayan sido importados, podrá acceder a ellos desde &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
+<!ENTITY selectDescription.label  "Por favor, seleccione el tipo de archivo que quiere importar:">
+<!ENTITY selectDescription.accesskey "P">
 
-<!ENTITY back.label               "&lt; Back">
-<!ENTITY forward.label            "Next &gt;">
-<!ENTITY finish.label             "Finish">
-<!ENTITY cancel.label             "Cancel">
+<!ENTITY back.label               "&lt; Atrás">
+<!ENTITY forward.label            "Siguiente &gt;">
+<!ENTITY finish.label             "Finalizar">
+<!ENTITY cancel.label             "Cancelar">
 
-<!ENTITY select.label             "or select the type of material to import:">
+<!ENTITY select.label             "o seleccione el tipo de material a importar:">
 
-<!ENTITY title.label              "Title">
-<!ENTITY processing.label         "Importing…">
+<!ENTITY title.label              "Título">
+<!ENTITY processing.label         "Importando…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
-<!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
-<!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importDialog.homeTitle  "Home">
-<!ENTITY importDialog.workTitle  "Work">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x tiene una dirección de correo  para cada tarjeta, mientras que  &brandShortName; tiene dos (personal y trabajo).">
+<!ENTITY FieldDiscInputText2.label  "Seleccione la categoría en la que quiere almacenar las direcciones de correo importadas:">
+<!ENTITY FieldDiscWarning.label  "Esta categoría será utilizada para todas las entradas de la libreta de direcciones seleccionada:">
+<!ENTITY importHome.label        "Casa">
+<!ENTITY importHome.accesskey    "C">
+<!ENTITY importWork.label        "Trabajo">
+<!ENTITY importWork.accesskey    "T">
