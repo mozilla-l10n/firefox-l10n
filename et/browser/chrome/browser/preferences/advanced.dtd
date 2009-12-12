@@ -52,8 +52,8 @@
 <!ENTITY autoCheck.label                   "Järgmisi uuendusi kontrollitakse automaatselt:">
 <!ENTITY enableAppUpdate.label             "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey         "F">
-<!ENTITY enableAddonsUpdate.label          "Paigaldatud lisad">
-<!ENTITY enableAddonsUpdate.accesskey      "P">
+<!ENTITY enableAddonsUpdate2.label         "Lisad">
+<!ENTITY enableAddonsUpdate2.accesskey     "L">
 <!ENTITY enableSearchUpdate.label          "Otsingumootorid">
 <!ENTITY enableSearchUpdate.accesskey      "O">
 <!ENTITY whenUpdatesFound.label            "Kui &brandShortName;ile leitakse uuendusi:">

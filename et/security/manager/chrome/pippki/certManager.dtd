@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                    "Sertifikaadi nimi">
 <!ENTITY certmgr.certserver                  "Server">
-<!ENTITY certmgr.typesofoverrides            "Erandid">
 <!ENTITY certmgr.override_lifetime           "Eluaeg">
 <!ENTITY certmgr.tokenname                   "Turvaseade">
-<!ENTITY certmgr.purpose                     "Otstarve">
 <!ENTITY certmgr.issued                      "Välja antud">
 <!ENTITY certmgr.expires                     "Aegumine">
 <!ENTITY certmgr.email                       "E-posti aadress">

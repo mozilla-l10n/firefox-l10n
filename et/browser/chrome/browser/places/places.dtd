@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey             "A">
 <!ENTITY view.sortDescending.label                "Z > A">
 <!ENTITY view.sortDescending.accesskey            "Z">
-<!ENTITY help.usingBookmarks.label                "Järjehoidjate kasutamisest">
-<!ENTITY help.usingBookmarks.accesskey            "J">
-<!ENTITY help.usingHistory.label                  "Ajaloo kasutamisest">
-<!ENTITY help.usingHistory.accesskey              "o">
-<!ENTITY help.advancedTips.label                  "Nõuanded &amp; trikid edasijõudnuile">
-<!ENTITY help.advancedTips.accesskey              "r">
 
 <!ENTITY cmd.findInBookmarks.label                "Leia järjehoidjatest…">
 <!ENTITY cmd.findInBookmarks.accesskey            "L">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label                     "Omadused">
 <!ENTITY cmd.properties.accesskey                 "O">
 
-<!ENTITY cmd.show_info.key                        "I">
-
 <!ENTITY cmd.rename.label                         "Nimeta ümber">
 <!ENTITY cmd.rename.accesskey                     "N">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey         "L">
 <!ENTITY cmd.reloadMicrosummary.label             "Laadi uuenev pealkiri uuesti">
 <!ENTITY cmd.reloadMicrosummary.accesskey         "p">
-
-<!ENTITY cmd.groupby_site.label                   "Grupeeri saidi järgi">
-<!ENTITY cmd.groupby_site.accesskey               "G">
-<!ENTITY cmd.groupby_page.label                   "Grupeeri lehe järgi">
-<!ENTITY cmd.groupby_page.accesskey               "r">
-<!ENTITY cmd.groupby_feed.label                   "Grupeeri tellimuse järgi">
-<!ENTITY cmd.groupby_feed.accesskey               "u">
-<!ENTITY cmd.groupby_post.label                   "Grupeeri postitamise järgi">
-<!ENTITY cmd.groupby_post.accesskey               "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "Liiguta…">
 <!ENTITY cmd.moveBookmarks.accesskey              "L">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey          "A">
 <!ENTITY search.scopeHistory.label                "Ajalugu">
 <!ENTITY search.scopeHistory.accesskey            "g">
-<!ENTITY search.scopeBarExpanderDown.tooltip      "Näita otsingu ehitajat">
-<!ENTITY search.scopeBarExpanderUp.tooltip        "Peida otsingu ehitaja">
 <!ENTITY saveSearch.label                         "Salvesta">
 <!ENTITY saveSearch.accesskey                     "S">
-<!ENTITY moreCriteria.label                       "+">
-<!ENTITY advancedSearch.onlybookmarked.label      "Otsi ainult järjehoidjaid">
-<!ENTITY advancedSearch.match.label               "Vastab ">
-<!ENTITY advancedSearch.all.label                 "kõigile">
-<!ENTITY advancedSearch.any.label                 "ühele">
-<!ENTITY advancedSearch.rules.label               " järgmistest reeglitest:">
-<!ENTITY advancedSearch.subj_keyword.label        "Sisaldab teksti">
-<!ENTITY advancedSearch.subj_visited.label        "Külastatud">
-<!ENTITY advancedSearch.subj_location.label       "Asukoht">
-<!ENTITY advancedSearch.location_startswith.label "algab">
-<!ENTITY advancedSearch.location_is.label         "on">
-<!ENTITY advancedSearch.location_onsite.label     "on saidis">
-<!ENTITY advancedSearch.time_is.label             "aeg">
-<!ENTITY advancedSearch.time_before.label         "enne">
-<!ENTITY advancedSearch.time_after.label          "pärast">
-<!ENTITY advancedSearch.time_inlast.label         "viimastel">
-<!ENTITY advancedSearch.last_days.label           "päevadel">
-<!ENTITY advancedSearch.last_weeks.label          "nädalatel">
-<!ENTITY advancedSearch.last_months.label         "kuudel">
-<!ENTITY advancedSearch.plus.label                "+">
-<!ENTITY advancedSearch.minus.label               "-">
-<!ENTITY advancedSearch.groupby.label             "Grupeeritakse: ">
-<!ENTITY advancedSearch.groupby_host.label        "masina järgi">
-<!ENTITY advancedSearch.groupby_domain.label      "domeeni järgi">
-<!ENTITY advancedSearch.groupby_folder.label      "kausta järgi">
-<!ENTITY advancedSearch.sortby.label              "Sorditakse: ">
-<!ENTITY advancedSearch.sortby_title.label        "pealkirja järgi">
-<!ENTITY advancedSearch.sortby_date.label         "kuupäeva järgi">
-<!ENTITY advancedSearch.sortby_visit.label        "külastuste arvu järgi">
-<!ENTITY advancedSearch.sortby_url.label          "aadressi järgi">
-<!ENTITY advancedSearch.sortby_asc.label          "suurenev">
-<!ENTITY advancedSearch.sortby_desc.label         "vähenev">
-<!ENTITY advancedSearch.max.label                 "Maksimaalselt tulemusi: ">
 
 <!ENTITY cmd.find.key                             "F">
 
 <!ENTITY feed.subscribe.label                     "Uudisvoog">
 <!ENTITY feed.subscribe.tooltip                   "Telli">
-
-<!ENTITY view.detailsMacOSX.label                 "Nimekiri">
-<!ENTITY view.details.label                       "Täpsemalt">
-<!ENTITY view.details.accesskey                   "T">
-
-<!ENTITY view.addons.label                        "Tõmba vaatamise laiendusi">
 
 <!ENTITY maintenance.label                        "Importimine ja varundamine">
 <!ENTITY maintenance.accesskey                    "I">

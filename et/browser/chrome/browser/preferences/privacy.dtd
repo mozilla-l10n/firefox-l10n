@@ -55,8 +55,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "kustutada ka kogu praeguse ajaloo">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label         "&brandShortName; käivitatakse automaatselt privaatse veebilehitsemise režiimis">
-<!ENTITY  privateBrowsingAutoStart.accesskey     "k">
+<!ENTITY  privateBrowsingPermanent.label         "Pidev privaatse veebilehitsemise režiim">
+<!ENTITY  privateBrowsingPermanent.accesskey     "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
