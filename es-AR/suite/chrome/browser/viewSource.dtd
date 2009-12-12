@@ -6,22 +6,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Source of: ">
+<!ENTITY mainWindow.preface "Fuente de: ">
 
-<!ENTITY viewPartialSourceWindow.title "DOM Source">
+<!ENTITY viewPartialSourceWindow.title "Fuente del DOM">
 
-<!ENTITY menu_wrapLongLines.title "Wrap Long Lines"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_wrapLongLines.title "Ajustar líneas largas"> 
+<!ENTITY menu_wrapLongLines.accesskey "A">
 
-<!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
-<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_highlightSyntax.label "Resaltar sintaxis">
+<!ENTITY menu_highlightSyntax.accesskey "R">
 
-<!ENTITY findNextCmd.label "Find Next">
+<!ENTITY findNextCmd.label "Buscar siguiente">
 <!ENTITY findNextCmd.accesskey "n">
 
-<!ENTITY goToLineCmd.label "Go to Line…">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.label "Ir a línea…">
+<!ENTITY goToLineCmd.accesskey "I">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
