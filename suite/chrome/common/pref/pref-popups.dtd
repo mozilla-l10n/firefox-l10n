@@ -1,27 +1,33 @@
-<!ENTITY pref.popups.title              "Popup Windows">
+<!ENTITY pref.popups.title              "Ventanas emergentes">
 
-<!ENTITY pref.popups.caption            "Popup Windows">
+<!ENTITY pref.popups.caption            "Ventanas emergentes">
 
-<!ENTITY popupDesc.label                "Specify how to handle popup windows that appear on top of or under the current browser window:">
-
-<!ENTITY popupBlock.label               "Block unrequested popup windows">
+<!ENTITY popupBlock.label               "Bloquear ventanas emergentes no solicitadas">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Allowed Sites…">
-<!ENTITY popupExceptions.accesskey      "A">
+<!ENTITY popupExceptions.label          "Sitios permitidos…">
+<!ENTITY popupExceptions.accesskey      "S">
 
-<!ENTITY whenBlock.description          "When a popup window has been blocked:">
-<!ENTITY playSound.label                "Play a sound:">
-<!ENTITY playSound.accesskey            "s">
+<!ENTITY whenBlock.description          "Cuando una ventana emergente ha sido bloqueada:">
+<!ENTITY playSound.label                "Reproducir un sonido:">
+<!ENTITY playSound.accesskey            "p">
+<!ENTITY systemSound.label              "Bip del sistema">
+<!ENTITY systemSound.accesskey          "s">
+<!ENTITY customSound.label              "Archivo de sonido personalizado">
+<!ENTITY customSound.accesskey          "c">
 
-<!ENTITY selectSound.label              "Browse…">
-<!ENTITY selectSound.accesskey          "r">
-<!ENTITY previewSound.label             "Preview">
-<!ENTITY previewSound.accesskey         "P">
-<!ENTITY selectSound.title              "Select Popup Block Sound">
+<!ENTITY selectSound.label              "Examinar…">
+<!ENTITY selectSound.accesskey          "E">
+<!ENTITY previewSound.label             "Vista previa">
+<!ENTITY previewSound.accesskey         "V">
+<!ENTITY selectSound.title              "Seleccione el sonido de bloqueo de ventana emergente">
+<!ENTITY selectSound.filter             "Sonidos">
 
-<!ENTITY displayIcon.label              "Display an icon in the browser status bar">
-<!ENTITY displayIcon.accesskey          "D">
+<!ENTITY displayIcon.label              "Mostrar un ícono en la barra de estado del navegador">
+<!ENTITY displayIcon.accesskey          "d">
 
-<!ENTITY popupNote.description          "Note: Blocking all popups may prevent important features of some websites from working, such as login windows for banks and shopping sites. For details of how to allow specific sites to use popups while blocking all others, click Help. Even if blocked, sites may use other methods to show popups.">
+<!ENTITY displayNotification.label      "Mostrar una barra de notificación en la parte superior del área de contenidos">
+<!ENTITY displayNotification.accesskey  "d">
+
+<!ENTITY popupNote.description          "Nota: Bloquear todas las ventanas emergentes puede impedir que funcionen partes importantes de algunos sitios, como por ejemplo ventanas para identificarse en sitios de compras o bancos. Para más detalles de cómo permitir a determinados sitios el uso de ventanas emergentes al tiempo que se bloquean en todos los demás, haga clic en Ayuda. Incluso si están bloqueados, los sitios pueden usar otros métodos para mostrar ventanas emergentes.">
 

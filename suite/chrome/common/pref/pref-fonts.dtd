@@ -1,80 +1,70 @@
 <!-- extracted from content/pref-fonts.xul -->
 
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
-<!ENTITY  pref.fonts.title                        "Fonts">
+<!ENTITY  pref.fonts.title                        "Tipografía">
 
-<!ENTITY  language.label                          "Fonts for:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.label                          "Tipos para:">
+<!ENTITY  language.accesskey                      "T">
 
-<!ENTITY  typefaces.label                         "Typeface">
-<!ENTITY  sizes.label                             "Size (pixels)">
+<!ENTITY  typefaces.label                         "Tipo de letra">
+<!ENTITY  sizes.label                             "Tamaño (pixels)">
 
-<!ENTITY  proportional.label                      "Proportional:">
+<!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY  fantasy.label                           "Fantasy:">
-<!ENTITY  fantasy.accesskey                       "f">
-<!ENTITY  cursive.label                           "Cursive:">
-<!ENTITY  cursive.accesskey                       "c">
+<!ENTITY  fantasy.label                           "Ornamental:">
+<!ENTITY  fantasy.accesskey                       "O">
+<!ENTITY  cursive.label                           "Cursiva:">
+<!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  fontsize.units                          "pixels">
-
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
-<!ENTITY  font.langGroup.japanese                 "Japanese">
-<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese(Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese(Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Korean">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
-<!ENTITY  font.langGroup.el                       "Greek">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
+<!ENTITY  font.langGroup.latin1                   "Occidental">
+<!ENTITY  font.langGroup.latin2                   "Centroeuropeo">
+<!ENTITY  font.langGroup.japanese                 "Japonés">
+<!ENTITY  font.langGroup.trad-chinese             "Chino tradicional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chino simplificado">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chino tradicional (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Coreano">
+<!ENTITY  font.langGroup.cyrillic                 "Cirílico">
+<!ENTITY  font.langGroup.baltic                   "Báltico">
+<!ENTITY  font.langGroup.el                       "Griego">
+<!ENTITY  font.langGroup.turkish                  "Turco">
+<!ENTITY  font.langGroup.unicode                  "Otros idiomas">
+<!ENTITY  font.langGroup.user-def                 "Definido por el usuario">
+<!ENTITY  font.langGroup.thai                     "Tailandés">
+<!ENTITY  font.langGroup.hebrew                   "Hebreo">
+<!ENTITY  font.langGroup.arabic                   "Árabe">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.armenian                 "Armenio">
+<!ENTITY  font.langGroup.bengali                  "Bengalí">
+<!ENTITY  font.langGroup.canadian                 "Silabario canadiense unificado">
+<!ENTITY  font.langGroup.ethiopic                 "Etíope">
+<!ENTITY  font.langGroup.georgian                 "Georgiano">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.malayalam                "Malayo">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum font size:">
-<!ENTITY minSize.accesskey                        "z">
-<!ENTITY minSize.none                             "None">
+<!ENTITY minSize.label                            "Tamaño mínimo de fuente:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "Ninguno">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "serif">
+<!ENTITY  useDefaultFontSansSerif.label           "sans-serif">
 
-<!ENTITY  newLanguages.label                      "New languages can be configured using the Languages Panel.">
-
-<!ENTITY  useDocumentFonts.label                  "Allow documents to use other fonts">
+<!ENTITY  useDocumentFonts.label                  "Permitir a los documentos usar otra tipografía">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- leaving this stuff in for now -->
 
-<!ENTITY  header2                                 "When a webpage chooses its own fonts">
-<!ENTITY  useDefaultFont.label                    "Use my default fonts, ignoring the fonts the page has chosen">
-<!ENTITY  useDefaultFont.accesskey                "u">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Use the fonts chosen by the page">
-<!ENTITY  useDocFontNonDynamic.accesskey          "p">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Use all the fonts chosen by the page">
-<!ENTITY  useDocFontDynamic.accesskey             "a">
+<!ENTITY  header2                                 "Cuando una página elige sus propias tipografías">
+<!ENTITY  useDefaultFont.label                    "Usar mis tipografías, ignorando las que eligió la página">
+<!ENTITY  useDefaultFont.accesskey                "U">

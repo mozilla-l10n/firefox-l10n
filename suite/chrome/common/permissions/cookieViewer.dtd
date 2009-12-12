@@ -1,13 +1,19 @@
 <!ENTITY     tab.cookiesonsystem.label      "Cookies guardadas">
-<!ENTITY     tab.bannedservers.label        "Cookie Sites">
-<!ENTITY     div.bannedservers.label        "Manage sites that can and cannot store cookies on your computer.">
-<!ENTITY     div.cookiesonsystem.label      "View and remove cookies that are stored on your computer.">
-<!ENTITY     treehead.cookiename.label      "Cookie Name">
+<!ENTITY     tab.bannedservers.label        "Sitios de cookies">
+<!ENTITY     div.bannedservers.label        "Elige los sitios que pueden y cuales no pueden guardar cookies en tu computadora.">
+<!ENTITY     div.cookiesonsystem.label      "Ver y eliminar cookies que se guardan en su computadora.">
+<!ENTITY     treehead.cookiename.label      "Nombre de cookie">
 <!ENTITY     treehead.cookiedomain.label    "Sitio"> 
 <!ENTITY     treehead.cookieexpires.label   "Expira"> 
-<!ENTITY     treehead.infoselected.label    "Information about the selected Cookie">
+<!ENTITY     treehead.infoselected.label    "Información acerca de la cookie seleccionada">
 <!ENTITY     button.removecookie.label      "Eliminar cookie">
+<!ENTITY     button.removecookie.accesskey  "E">
 <!ENTITY     button.removeallcookies.label  "Eliminar todas las cookies">
+<!ENTITY     button.removeallcookies.accesskey "E">
+
+<!ENTITY     search.emptytext               "Buscar cookies">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
 
 <!ENTITY     props.name.label               "Nombre:">
 <!ENTITY     props.value.label              "Contenido:">
@@ -20,14 +26,20 @@
 <!ENTITY     treehead.status.label          "Estado">
 <!ENTITY     windowtitle.label              "Administrador de cookies">
 <!ENTITY     buttonaccept.label             "Cerrar">
+<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "Bloquear">
+<!ENTITY     blockSite.accesskey            "B">
 <!ENTITY     allowSite.label                "Permitir">
+<!ENTITY     allowSite.accesskey            "P">
 <!ENTITY     allowSiteSession.label         "Sesión">
+<!ENTITY     allowSiteSession.accesskey     "S">
 <!ENTITY     removepermission.label         "Eliminar sitio">
+<!ENTITY     removepermission.accesskey     "E">
 <!ENTITY     removeallpermissions.label     "Eliminar todos los sitios">
+<!ENTITY     removeallpermissions.accesskey "E">
 
-<!ENTITY     canSet.label                   "can set cookies">
-<!ENTITY     cannotSet.label                "cannot set cookies">
+<!ENTITY     futureCookies.label            "No permitir que los sitios que hayan guardado cookies que se borraron guardar nuevas cookies">
+<!ENTITY     futureCookies.accesskey        "d">
 
-<!ENTITY     checkbox.label                 "Don't allow sites that set removed cookies to set future cookies">
+<!ENTITY     selectAll.key        "">

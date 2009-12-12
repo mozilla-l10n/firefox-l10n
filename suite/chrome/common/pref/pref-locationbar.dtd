@@ -1,22 +1,34 @@
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title                "Location Bar">
+<!ENTITY pref.locationBar.title                "Barra de navegación">
 
-<!ENTITY autoComplete.label                    "Autocomplete">
-<!ENTITY enableAutoComplete.label              "Autocomplete from your browsing history as you type">
+<!ENTITY autoComplete.label                    "Autocompletar">
+<!ENTITY enableAutoComplete.label              "Autocompletar  desde su historia de navegación mientras escribe">
 <!ENTITY enableAutoComplete.accesskey          "A">
-<!ENTITY autoCompleteAutoFill.label            "Automatically prefill the best match">
+<!ENTITY autoCompleteAutoFill.label            "Llenar con la mejor coincidencia automáticamente">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
-<!ENTITY autoCompleteShowPopup.label           "Show list of matching results">
-<!ENTITY autoCompleteShowPopup.accesskey       "S">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Match only websites you've typed previously">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
+<!ENTITY autoCompleteShowPopup.label           "Mostrar la lista de resultados coincidentes">
+<!ENTITY autoCompleteShowPopup.accesskey       "s">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Coincidir solamente con sitios que haya escrito previamente">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Coincidencia sólo con URL, no títulos de sitios">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "Coincidir">
+<!ENTITY autoCompleteMatch.accesskey           "C">
+<!ENTITY autoCompleteMatchAnywhere             "Cualquier lugar de la URl o el título">
+<!ENTITY autoCompleteMatchWordsFirst           "Cualquier lugar pero preferiblemente en los límites de la palabra">
+<!ENTITY autoCompleteMatchWords                "Sólo en los límites de la palabra">
+<!ENTITY autoCompleteMatchStart                "Sólo al principio de la URL o el título">
 
-<!ENTITY searchEngine.label                    "Internet Search Engine">
-<!ENTITY showSearchEngine.label                "Show default search engine">
+<!ENTITY searchEngine.label                    "Motor de búsqueda en Internet">
+<!ENTITY showSearchEngine.label                "Mostrar motor de búsqueda predeterminado">
 <!ENTITY showSearchEngine.accesskey            "e">
 
-<!ENTITY unknownLocations.label                "Unknown Locations">
-<!ENTITY domainGuessing.label                  "Add &quot;www.&quot; and &quot;.com&quot; to the location if a web page is not found">
+<!ENTITY unknownLocations.label                "Ubicaciones desconocidas">
+<!ENTITY domainGuessing.label                  "Agregar &quot;www.&quot; y &quot;.com&quot; a la dirección si no se encontró la página web">
 <!ENTITY domainGuessing.accesskey              "d">
-<!ENTITY keywords.label                        "Perform a web search when entered text is not a web location">
-<!ENTITY keywords.accesskey                    "P">
+<!ENTITY keywords.label                        "Realizar una búsqueda en Internet si el texto ingresado no es una direción web">
+<!ENTITY keywords.accesskey                    "R">

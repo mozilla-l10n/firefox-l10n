@@ -1,15 +1,26 @@
-<!ENTITY  pref.history.title                "History">
+<!ENTITY  pref.history.title                "Historial">
 
-<!ENTITY  pref.history.caption              "Browsing History">
-<!ENTITY  historyPages.label                "History is a list of previously visited pages.">
-<!ENTITY  pageHis.label                     "Remember visited pages for the last">
-<!ENTITY  pageHis.accesskey                 "a">
-<!ENTITY  days.label                        "days">
-<!ENTITY  clearHistory.label                "Clear History">
-<!ENTITY  clearHistory.accesskey            "r">
+<!ENTITY  pref.history.caption              "Historial de navegación">
+<!ENTITY  historyPages.label                "Historial es una lista de las páginas visitadas previamente.">
+<!ENTITY  expireDaysMin1.label              "Siempre recordar las páginas visitadas por al menos">
+<!ENTITY  expireDaysMin1.accesskey          "a">
+<!ENTITY  expireDaysMin2.label              "días">
+<!ENTITY  expireDays1.label                 "Recordar las páginas visitadas hasta">
+<!ENTITY  expireDays1.accesskey             "e">
+<!ENTITY  expireDays2.label                 "días">
+<!ENTITY  expireSites1.label                "Recordar hasta">
+<!ENTITY  expireSites1.accesskey            "R">
+<!ENTITY  expireSites2.label                "páginas visitadas">
+<!ENTITY  clearHistory.label                "Borrar Historial">
+<!ENTITY  clearHistory.accesskey            "s">
 
-<!ENTITY  locationBarHistory.caption        "Location Bar History">
-<!ENTITY  clearLocationBar.label            "Clear the list of sites stored in the location bar menu.">
-<!ENTITY  clearLocationBarButton.label      "Clear Location Bar">
-<!ENTITY  clearLocationBarButton.accesskey  "b">
-  
+<!ENTITY  locationBarHistory.caption        "Historial de la barra de navegación">
+<!ENTITY  clearLocationBar.label            "Borrar el listado de sitios guardados en el menú de la barra de navegación.">
+<!ENTITY  clearLocationBarButton.label      "Borrar barra de navegación">
+<!ENTITY  clearLocationBarButton.accesskey  "B">
+<!ENTITY  formfillHistory.caption           "Historial de formularios y búsquedas">
+<!ENTITY  enableFormfill.label              "Habilitar historial de formularios y búsquedas">
+<!ENTITY  enableFormfill.accesskey          "H">
+<!ENTITY  formfillExpire.label              "Recordar el historial de formularios y búsquedas hasta">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "días">

@@ -35,17 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
   
-<!ENTITY newBookmark.title          "File Bookmark">
+<!ENTITY newBookmark.title          "Crear marcador">
 <!ENTITY selectFolder.title         "Seleccionar carpeta">
 <!ENTITY name.label                 "Nombre:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY url.label                  "Dirección:">
-<!ENTITY url.accesskey              "L">
-<!ENTITY shortcutURL.label          "Keyword:">
-<!ENTITY shortcutURL.accesskey      "K">
+<!ENTITY url.accesskey              "D">
+<!ENTITY shortcutURL.label          "Palabra clave:">
+<!ENTITY shortcutURL.accesskey      "P">
 <!ENTITY destination.label          "Destino:">
-<!ENTITY destination.accesskey      "D">
 <!ENTITY newFolder.label            "Nueva carpeta…">
-<!ENTITY newFolder.accesskey        "w">
+<!ENTITY newFolder.accesskey        "N">
 <!ENTITY addGroup.label             "Marcar este grupo de pestañas">
-<!ENTITY addGroup.accesskey         "B">
+<!ENTITY addGroup.accesskey         "M">
