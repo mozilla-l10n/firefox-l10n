@@ -38,66 +38,62 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Properties">
+<!ENTITY folderProps.windowtitle.label           "Propiedades">
 
-<!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetTab.label                  "Default Character Encoding:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
+<!ENTITY generalInfo.label                       "Información general">
+<!ENTITY folderCharsetTab.label                  "Juego de caracteres predeterminado:">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label             "Aplicar la configuración predeterminada a todos los mensajes de la carpeta (ignorando la autodetección y la configuración de codificación de caracteres de cada mensaje)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Rebuild Summary File">
+<!ENTITY folderRebuildSummaryFile.label          "Reconstruir índice">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
+<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir archivo resumen">
 
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseDefault.label "Use server defaults">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "days">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionNotDownloadRead.label "Read messages">
-<!ENTITY retentionNotDownloadRead.accesskey "R">
-<!ENTITY retentionDownloadMsg.label "Messages more than">
-<!ENTITY retentionDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Keep:">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retention.label "Política de retención">
+<!ENTITY retentionUseAccount.label "Usar mi configuración de cuenta">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "días">
+<!ENTITY message.label "mensajes">
+<!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
+<!ENTITY retentionCleanupImap.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente tanto las copias locales como los originales en el servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente incluyendo los originales en el servidor remoto.">
+<!ENTITY retentionDeleteMsg.label "Borrar mensajes de más de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "All messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "The newest">
-<!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "Only unread messages">
-<!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY retentionKeepAll.label "No borrar ningún mensaje">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Los más nuevos">
+<!ENTITY retentionKeepRecent.accesskey "n">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Siempre eliminar los mensajes leídos (invalida configuraciones de tiempo)">
+<!ENTITY retentionApplyToFlagged.label "Siempre mantener los mensajes destacados">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "Offline">
-<!ENTITY folderCheckForNewMessages.label         "Check this folder for new messages">
+<!ENTITY folderSynchronizationTab.label          "Sincronización">
+<!ENTITY folderCheckForNewMessages.label         "Comprobar esta carpeta en busca de nuevos mensajes">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
 
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
+<!ENTITY offlineFolder.check.label               "Seleccionar esta carpeta para usar sin conexión">
 <!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Download Now">
+<!ENTITY offlineFolder.button.label              "Descargar ahora">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
+<!ENTITY selectofflineNewsgroup.check.label      "Seleccionar este grupo de noticias para usar sin conexión">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Use the default from account settings ">
-<!ENTITY offlineNewsgroup.button.label           "Download Now">
+<!ENTITY offlineNewsgroup.button.label           "Descargar ahora">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.information.label           "Information:">
-<!ENTITY folderProps.name.label                  "Name:">
+<!ENTITY folderProps.name.label                  "Nombre:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.label              "Ubicación:">
+<!ENTITY folderProps.location.accesskey          "U">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
-<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY folderSharingTab.label                  "Compartir">
+<!ENTITY privileges.button.label                 "Privilegios…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY permissionsDesc.label                   "Tiene los siguientes permisos:">
+<!ENTITY folderType.label                        "Tipo de carpeta:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
-<!ENTITY folderQuotaStatus.label                 "Status:">
+<!ENTITY folderQuotaTab.label                    "Cuota">
+<!ENTITY folderQuotaRoot.label                   "Cuota raíz:">
+<!ENTITY folderQuotaUsage.label                  "Uso:">
+<!ENTITY folderQuotaStatus.label                 "Estado:">

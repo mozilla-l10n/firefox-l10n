@@ -35,32 +35,32 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY startpage.title "Welcome to &brandShortName; Mail &amp; Newsgroups">
+<!ENTITY startpage.title "Bienvenido a &brandShortName;, correo y grupos de noticias">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
-'Welcome to <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; Newsgroups!'>
+'¡Bienvenido a <a id="vendorURL" href="">&brandShortName;</a>, correo y grupos de noticias!'>
 <!ENTITY description.label
-"&brandShortName; Mail &amp; Newsgroups is a powerful open-source mail and news
-client, supporting advanced junk mail detection and other useful features.">
-<!ENTITY features.title "Features">
-<!ENTITY feat_multiacc.label "Support for multiple accounts">
-<!ENTITY feat_junk.label "Junk Mail detection">
-<!ENTITY feat_filters.label "Message Filters">
-<!ENTITY feat_htmlmsg.label "HTML message support">
-<!ENTITY feat_abook.label "Address Book">
-<!ENTITY feat_labels.label "Customizable Labels and Mail Views">
+"&brandShortName;, correo y grupo de noticias es un poderoso cliente de correo electrónico y grupos de noticias de código abierto, soportando detección avanzada de correo basura y otras características útiles.">
+<!ENTITY features.title "Características">
+<!ENTITY feat_multiacc.label "Soporte para múltiples cuentas">
+<!ENTITY feat_junk.label "Detección de correo basura">
+<!ENTITY feat_feeds.label "Lector de canales">
+<!ENTITY feat_filters.label "Filtros de mensaje">
+<!ENTITY feat_htmlmsg.label "Soporte de mensajes HTML">
+<!ENTITY feat_abook.label "Libreta de direcciones">
+<!ENTITY feat_labels.label "Personalizar etiquetas y vistas de correo">
 <!ENTITY feat_integration.label
-"Tight integration with the &brandShortName; application suite">
-<!ENTITY dict.title "Dictionaries">
-<!ENTITY dict_intro.label "Dictionaries are used to check the spelling of your messages.">
+"Integración fuerte con la aplicación &brandShortName;">
+<!ENTITY dict.title "Diccionarios">
+<!ENTITY dict_intro.label "Los diccionarios son usados para verificar la ortografía de sus mensajes.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label
-'Many additional languages can be installed from the
-<a id="dictURL" href="">dictionaries</a> section on
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
-<!ENTITY info.title "More Information">
+'Muchos idiomas adicionales pueden instalarse de la sección 
+<a id="dictURL" href="">diccionarios</a> en
+<a href="https://addons.mozilla.org/seamonkey/">Agregados de Mozilla</a>.'>
+<!ENTITY info.title "Más información">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">We</a> welcome bug reports and feature
-requests, but please read the <a id="releaseNotesURL" href="">release notes</a> and query
-<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> first.'>
+'<a href="http://www.mozilla.org/mailnews/">Nosotros</a> apreciamos los informes de errores y pedidos de nuevas
+características, pero lea las <a id="releaseNotesURL" href="">notas de la versión</a> y notifique en
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> primero.'>

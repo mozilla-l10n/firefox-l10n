@@ -52,47 +52,46 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "Filter Rules">
+<!ENTITY window.title "Reglas de filtrado">
 
-<!ENTITY filterName.label "Filter name:">
+<!ENTITY filterName.label "Nombre del filtro">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "Basura">
+<!ENTITY notJunk.label "No es basura">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
+<!ENTITY lowestPriorityCmd.label "La más baja">
+<!ENTITY lowPriorityCmd.label "Baja">
 <!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "La más alta">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.label "Aplicar el filtro cuando:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Se busca correo">
+<!ENTITY contextManual.label "se ejecute manualmente">
+<!ENTITY contextBoth.label "se busca correo o se ejecute manualmente">
+<!ENTITY contextPostPlugin.label "se busque correo (después de clasificación)">
+<!ENTITY contextPostPluginBoth.label "se busque correo (después de clasificación) o se ejecute manualmente">
 
-<!ENTITY filterActionDesc.label "Perform these actions:">
-<!ENTITY filterActionDesc.accesskey "P">
-
-<!ENTITY newFolderButton.label "New Folder…">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
+<!ENTITY filterActionDesc.accesskey "E">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageStarred.label "Mark As Flagged">
-<!ENTITY labelMessage.label "Label Message As">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY moveMessage.label "Mover mensaje a">
+<!ENTITY copyMessage.label "Copiar mensaje a">
+<!ENTITY forwardTo.label "Reenviar mensaje a">
+<!ENTITY replyWithTemplate.label "Responder con plantilla">
+<!ENTITY markMessageRead.label "Marcar como leído">
+<!ENTITY markMessageStarred.label "Marcar como destacado">
+<!ENTITY labelMessage.label "Etiquetar mensaje como">
+<!ENTITY setPriority.label "Establecer prioridad a">
+<!ENTITY addTag.label "Etiquetar mensaje">
+<!ENTITY setJunkScore.label "Establecer estado de correo basura a">
+<!ENTITY deleteMessage.label "Borrar mensaje">
+<!ENTITY deleteFromPOP.label "Borrar del servidor POP">
+<!ENTITY fetchFromPOP.label "Traer del servidor POP">
+<!ENTITY ignoreThread.label "Ignorar conversación">
+<!ENTITY ignoreSubthread.label "Ignorar subconversación">
+<!ENTITY watchThread.label "Observar conversación">
+<!ENTITY stopExecution.label "Detener ejecución del filtro">

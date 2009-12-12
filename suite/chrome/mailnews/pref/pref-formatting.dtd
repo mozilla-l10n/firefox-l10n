@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,45 +36,38 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.formatting.title        "Send Format">
-<!ENTITY sendMail.label               "Send Format">
-<!ENTITY sendMaildesc.label           "When sending formatted (HTML) messages and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do (Mail prompts you to choose a format)">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text (some formatting may be lost)">
-<!ENTITY convertPlain.accesskey       "c">
-<!ENTITY sendHTML.label               "Send the message as formatted text (HTML) anyway (some mail programs may not be able to display it)">
+<!ENTITY pref.formatting.title        "Formato de envío">
+<!ENTITY sendMaildesc.label           "Al enviar mensajes con formato (HTML) y uno o más destinatarios no están listados como capaces de recibir HTML:">
+<!ENTITY askMe.label                  "Preguntarme qué hacer (Mail le pide elegir un formato)">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Convertir el mensaje a texto plano (se puede perder algún formato)">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "Enviar el mensaje como texto con formato (HTML) de cualquier manera (algunos programas de correo no podrán mostrarlo)">
 <!ENTITY sendHTML.accesskey           "s">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML (larger message size)">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "You can override these settings for individual messages by using the Options menu while composing a message.">
-<!ENTITY receiveHTML.label            "If you know a particular recipient can receive HTML mail, uncheck the 'Send email as plain text (no HTML)' checkbox on the recipient's Address Book card.">
+<!ENTITY sendBoth.label               "Enviar el mensaje tanto en texto plano como en HTML (el mensaje tendrá más tamaño)">
+<!ENTITY sendBoth.accesskey           "n">
+<!ENTITY override.label               "Puede anular esta opción para mensajes individuales desde el menú Opciones mientras escribe el mensaje.">
 
 <!-- Html and Plain Text Domains  -->
-<!ENTITY domain.title                 "HTML and Plain Text Domains">
-<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, Mail automatically sends the message in the preferred format (formatted text or plain text).">
-<!ENTITY HTMLdomaintitle.label        "HTML Domains">
+<!ENTITY domain.title                 "Dominios HTML y texto plano">
+<!ENTITY domaindesc.label             "Cuando envíe un mensaje a una dirección de alguno de los dominios listados debajo, Mail enviará automáticamente el mensaje en el formato preferido (texto con formato o texto plano).">
+<!ENTITY HTMLdomaintitle.label        "Dominios HTML">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
-<!ENTITY PlainTexttitle.label         "Plain Text Domains">
-<!ENTITY PlainTexttitle.accesskey     "p">
-<!ENTITY AddButton.label              "Add…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
-<!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY PlainTexttitle.label         "Dominios de texto plano">
+<!ENTITY PlainTexttitle.accesskey     "t">
+<!ENTITY AddButton.label              "Agregar…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.accesskey       "g">
+<!ENTITY DeleteButton.label           "Borrar">
+<!ENTITY DeleteHtmlDomain.accesskey   "B">
+<!ENTITY DeletePlainText.accesskey    "r">
 
-<!-- Add HTML Domain Name -->
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.htmldomain.accesskey     "d">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
-<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
-<!ENTITY add.plaintext.accesskey      "d">
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "Agregar un nombre de dominio HTML">
+<!ENTITY add.htmldomain               "Agregar un nombre de dominio HTML">
+<!ENTITY add.plaintexttitle           "Nombre de dominio HTML:">
+<!ENTITY add.plaintextdomain          "Nombre de dominio de texto plano:">
 
+<!ENTITY domainnameError.title        "Error en el nombre de dominio">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Domain Name Error">
-<!ENTITY duplicationError.label       "The domain name @string@ already exists in this list.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "A domain name cannot appear in both the HTML and Plain Text lists. The domain name @string@ already exists.">
+<!ENTITY invalidEntryError.label      "El nombre de dominio @string@ no es válido y será ignorado. Los nombres de dominio válidos deben incluír al menos un '.' y caracteres a ambos lados del mismo.">

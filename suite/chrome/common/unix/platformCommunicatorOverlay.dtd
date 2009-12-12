@@ -1,17 +1,17 @@
 <!-- unix -->
 <!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Close">  
+<!ENTITY closeCmd.label                 "Cerrar ">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "c">
+<!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY quitApplicationCmd.label       "Quit"> 
+<!ENTITY quitApplicationCmd.label       "Salir"> 
 <!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "q">
+<!ENTITY quitApplicationCmd.accesskey   "S">
 
-<!ENTITY redoCmd.label                  "Redo">  
+<!ENTITY redoCmd.label                  "Rehacer">  
 <!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "r">
+<!ENTITY redoCmd.accesskey              "R">
 
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
@@ -19,11 +19,15 @@
 <!ENTITY accel.emacs_conflict           "accel,shift">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label              "Help Contents">
-<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.label              "Contenido de la ayuda">
+<!ENTITY openHelpCmd.accesskey          "C">
 <!ENTITY openHelpCmd.key                "VK_F1">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
-<!ENTITY shiftKey.label                 "Shift">
+<!ENTITY shiftKey.label                 "May">
+
+<!-- Copy Image Location (regression fix for bug 469481) -->
+<!ENTITY copyImageURLCmd.label          "Copiar dirección de la imagen">
+<!ENTITY copyImageURLCmd.accesskey      "i">

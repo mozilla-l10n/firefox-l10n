@@ -37,22 +37,19 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Mailing List">
+<!ENTITY mailListWindow.title           "Lista de correo">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Add to: ">
+<!ENTITY addToAddressBook.label         "Agregar a: ">
 
-<!ENTITY ListName.label                 "List Name: ">
-<!ENTITY ListNickName.label             "List Nickname: ">
-<!ENTITY ListDescription.label          "Description: ">
+<!ENTITY ListName.label                 "Nombre de lista: ">
+<!ENTITY ListNickName.label             "Apodo de lista: ">
+<!ENTITY ListDescription.label          "Descripción: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
-<!ENTITY RemoveButton.label             "Remove">
-<!ENTITY UpButton.label                 "Move Up">
-<!ENTITY DownButton.label               "Move Down">
+<!ENTITY AddressTitle.label             "Ingrese direcciones de correo electrónico para agregarlas a la lista de correo:">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListName.accesskey             "l">
+<!ENTITY ListNickName.accesskey         "p">
 <!ENTITY ListDescription.accesskey      "e">
 

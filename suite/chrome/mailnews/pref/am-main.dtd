@@ -1,35 +1,37 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountTitle.label "Configuración de cuenta">
+<!ENTITY accountName.label "Nombre de la cuenta:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "The account name is used to identify each account">
-<!ENTITY identityTitle.label "Default Identity">
-<!ENTITY identityDesc.label "Each account has an identity, which is the information that other people see when they read your messages.">
-<!ENTITY name.label "Your Name:">
-<!ENTITY name.accesskey "Y">
-<!ENTITY email.label "Email Address:">
-<!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Reply-to Address:">
+<!ENTITY identityTitle.label "Identidad">
+<!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que otras personas verán al leer sus mensajes.">
+<!ENTITY name.label "Su nombre:">
+<!ENTITY name.accesskey "b">
+<!ENTITY email.label "Dirección de correo electrónico:">
+<!ENTITY email.accesskey "e">
+<!ENTITY replyTo.label "Dirección de respuesta:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY organization.label "Organization:">
+<!ENTITY organization.label "Organización:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Attach this signature:">
-<!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "Edit…">
-<!ENTITY choose.label "Choose…">
-<!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "Edit Card…">
+<!ENTITY signatureText.label "Texto de la firma:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Usar HTML (ej.: &lt;b&gt;negrita&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Adjuntar la firma desde un archivo (texto, HTML o imagen):">
+<!ENTITY signatureFile.accesskey "t">
+<!ENTITY choose.label "Seleccionar…">
+<!ENTITY choose.accesskey "c">
+<!ENTITY editVCard.label "Editar tarjeta…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Attach my vCard to messages">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.label "Adjuntar mi tarjeta en los mensajes.">
+<!ENTITY attachVCard.accesskey "t">
 
-<!ENTITY manageIdentities.label "Manage Identities…">
-<!ENTITY manageIdentities.accesskey "M">
+<!ENTITY manageIdentities.label "Administrar identidades…">
+<!ENTITY manageIdentities.accesskey "m">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Outgoing Server (SMTP):">
-<!ENTITY smtpName.accesskey "u">
-<!ENTITY smtpDefaultServer.label "Use Default Server">
+<!ENTITY smtpName.label "Servidor saliente (SMTP):">
+<!ENTITY smtpName.accesskey "v">
+<!ENTITY smtpDefaultServer.label "Usar servidor predeterminado">
 
