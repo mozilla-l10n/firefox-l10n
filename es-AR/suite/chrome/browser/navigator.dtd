@@ -1,7 +1,7 @@
 <!-- extracted from content/navigator.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
-<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandShortName;">
@@ -10,204 +10,163 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY nothingAvailable.label "(Nothing Available)">
-
-<!ENTITY browserCmd.label	"New Browser Window">
-<!ENTITY browserCmd.accesskey	"N">
-<!ENTITY tabCmd.label "Browser Tab">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.label "Pestaña de navegador">
+<!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Open Web Location…">
-<!ENTITY openCmd.accesskey "l">
+<!ENTITY openCmd.label "Abrir dirección…">
+<!ENTITY openCmd.accesskey "A">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Recently Closed Tabs">
-<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.label "Pestañas cerradas recientemente">
+<!ENTITY recentTabs.accesskey "r">
 <!ENTITY recentTabs.commandkey "t">
-<!ENTITY editPageCmd.label "Edit Page">
+<!ENTITY recentWindows.label "Ventanas recientemente cerradas">
+<!ENTITY recentWindows.accesskey "V">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY editPageCmd.label "Editar página">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY editFrameCmd.label "Edit Frame">
-<!ENTITY editFrameCmd.accesskey "m">
-<!ENTITY editFrameSetCmd.label "Edit Frameset">
-<!ENTITY editFrameSetCmd.accesskey "t">
 
-<!ENTITY uploadFile.label "Upload File…">
-<!ENTITY uploadFile.accesskey "F">
+<!ENTITY uploadFile.label "Subir archivo…">
+<!ENTITY uploadFile.accesskey "S">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "Configuración de página…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printPreviewCmd.label "Vista previa">
+<!ENTITY printPreviewCmd.accesskey "V">
+<!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "View">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.accesskey "V">
 
-<!ENTITY toolbarsCmd.label "Show/Hide">
-<!ENTITY toolbarsCmd.accesskey "w">
-<!ENTITY navbarCmd.label "Navigation Toolbar">
-<!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Personal Toolbar">
+<!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
+<!ENTITY toolbarsCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Barra de navegación">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Barra de herramientas personal">
 <!ENTITY personalbarCmd.accesskey "p">
-<!ENTITY tabbarCmd.label "Tab Bar">
-<!ENTITY tabbarCmd.accesskey "T">
-<!ENTITY taskbarCmd.label "Status Bar">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Component Bar">
-<!ENTITY componentbarCmd.accesskey "C">
+<!ENTITY tabbarCmd.label "Barra de pestañas">
+<!ENTITY tabbarCmd.accesskey "t">
+<!ENTITY taskbarCmd.label "Barra de estado">
+<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY componentbarCmd.label "Barra de componentes">
+<!ENTITY componentbarCmd.accesskey "c">
 
-<!ENTITY useStyleSheetMenu.label "Use Style">
-<!ENTITY useStyleSheetMenu.accesskey "u">
-<!ENTITY useStyleSheetNone.label "None">
+<!ENTITY useStyleSheetMenu.label "Usar estilo">
+<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetNone.label "Ninguna">
 <!ENTITY useStyleSheetNone.accesskey "N">
-<!ENTITY useStyleSheetPersistentOnly.label "Default Style">
+<!ENTITY useStyleSheetPersistentOnly.label "Estilo predefinido">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY pageSourceCmd.label "Page Source">
+<!ENTITY pageSourceCmd.label "Código fuente de la página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Page Info">
-<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.label "Información de la página">
+<!ENTITY pageInfoCmd.accesskey "p">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Full Screen">
-<!ENTITY fullScreenCmd.accesskey "f">
-<!ENTITY translateMenu.label "Translate Page">
+<!ENTITY fullScreenCmd.label "Pantalla completa">
+<!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY translateMenu.label "Traducir página">
 <!ENTITY translateMenu.accesskey "T">
-<!ENTITY translate.commandKey "t">
 
-<!ENTITY closeOtherTabs.label "Close Other Tabs">
-<!ENTITY closeOtherTabs.accesskey "T">
-<!ENTITY closeWindow.label "Close Window">
-<!ENTITY closeWindow.accesskey "W">
+<!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
+<!ENTITY closeOtherTabs.accesskey "t">
+<!ENTITY closeWindow.label "Cerrar ventana">
+<!ENTITY closeWindow.accesskey "C">
 
-<!ENTITY minimizeButton.tooltip       "Minimize">
-<!ENTITY restoreButton.tooltip        "Restore">
+<!ENTITY minimizeButton.tooltip       "Minimizar">
+<!ENTITY restoreButton.tooltip        "Restaurar">
 
-<!-- I'd like all this to move to an overlay or something -->
-<!ENTITY bidiMenu.label "Bidi Options">
-<!ENTITY directionBidiMenu.label "Default Direction">
-<!ENTITY directionRTLBidiCmd.label "Right to Left">
-<!ENTITY directionLTRBidiCmd.label "Left to Right">
-<!ENTITY texttypeBidiMenu.label "Text Type">
-<!ENTITY charsettexttypeBidiCmd.label "Based on Character Set">
-<!ENTITY logicaltexttypeBidiCmd.label "Logical">
-<!ENTITY visualtexttypeBidiCmd.label "Visual">
-<!ENTITY numeralBidiMenu.label "Numeral Shape">
-<!ENTITY regularcontextnumeralBidiCmd.label "Contextual">
-<!ENTITY hindicontextnumeralBidiCmd.label "Hindi Numerals on RTL Document Direction">
-<!ENTITY arabicnumeralBidiCmd.label "Arabic">
-<!ENTITY hindinumeralBidiCmd.label "Hindi">
-<!ENTITY controlstextmodeBidiMenu.label "Text Mode in Controls">
-<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logical">
-<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visual">
-<!ENTITY containercontrolstextmodeBidiCmd.label "Like Containing Document">
-<!ENTITY charactersetBidiMenu.label "Character set">
-<!ENTITY doccharactersetBidiCmd.label "Use the document specified character set">
-<!ENTITY defaultcharactersetBidiCmd.label "Use my default character set, overriding the document-specified character set">
-
-<!ENTITY webContentMenu.label "Languages and Web Content">
-<!ENTITY webContentMenu.accesskey "l">
-<!ENTITY downloadMore.label "Download More">
-<!ENTITY downloadMore.accesskey "D">
-<!ENTITY applyTheme.label	"Apply Theme"> 
+<!ENTITY applyTheme.label	"Aplicar tema"> 
 <!ENTITY applyTheme.accesskey	"A"> 
-<!ENTITY getNewThemesCmd.label "Get New Themes">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY searchMenu.label "Search">
-<!ENTITY searchMenu.accesskey "S">
-<!ENTITY findOnCmd.label "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "f">
+<!ENTITY getNewThemesCmd.label "Obtener nuevos temas">
+<!ENTITY getNewThemesCmd.accesskey "O">
+<!ENTITY findOnCmd.label "Buscar en esta página…">
+<!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.label "Buscar de nuevo">
+<!ENTITY findAgainCmd.accesskey "B">
 <!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.label "Buscar anterior">
+<!ENTITY findPrevCmd.accesskey "B">
 <!ENTITY findPrevCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
-<!ENTITY searchInternetCmd.label "Search the Web">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.label "Buscar en la web">
+<!ENTITY searchInternetCmd.accesskey "s">
 <!ENTITY searchInternet.commandKey "s">
 
-<!ENTITY clearPrivateDataCmd.label "Clear Private Data…">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
+<!ENTITY clearPrivateDataCmd.label "Borrar datos privados…">
+<!ENTITY clearPrivateDataCmd.accesskey "B">
 
-<!ENTITY goMenu.label "Go">
-<!ENTITY goMenu.accesskey "g">
-<!ENTITY goHomeCmd.label "Home">
-<!ENTITY goHomeCmd.accesskey "h">
+<!ENTITY goMenu.label "Ir">
+<!ENTITY goMenu.accesskey "I">
+<!ENTITY goHomeCmd.label "Inicio">
+<!ENTITY goHomeCmd.accesskey "I">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY addCurPageCmd.label "Bookmark This Page">
-<!ENTITY addCurPageCmd.accesskey "B">
-<!ENTITY addCurPageAsCmd.label "File Bookmark…">
-<!ENTITY addCurPageAsCmd.accesskey "F">
+<!ENTITY bookmarksMenu.label "Marcadores">
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY addCurPageCmd.label "Marcar esta página">
+<!ENTITY addCurPageCmd.accesskey "M">
+<!ENTITY addCurPageAsCmd.label "Marcar esta página…">
+<!ENTITY addCurPageAsCmd.accesskey "M">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Bookmark This Group of Tabs…">
-<!ENTITY addCurTabsAsCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.label "Manage Bookmarks…">
-<!ENTITY manBookmarksCmd.accesskey "M">
+<!ENTITY addCurTabsAsCmd.label "Marcar este grupo de pestañas…">
+<!ENTITY addCurTabsAsCmd.accesskey "g">
+<!ENTITY manBookmarksCmd.label "Organizar marcadores…">
+<!ENTITY manBookmarksCmd.accesskey "m">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!ENTITY feedsMenu.label "Subscribe to This Page">
+<!ENTITY feedsMenu.label "Suscribirse a esta página">
 <!ENTITY feedsMenu.accesskey "S">
-<!ENTITY emptyItem.label "(Empty)">
+<!ENTITY emptyItem.label "(Vacío)">
 
-<!ENTITY helpMenuCmd.label "Help">
-<!ENTITY helpMenuCmd.accesskey "h">
-<!ENTITY helpContentsCmd.label "Help Contents">
-<!ENTITY softwareUpdatesCmd.label "Software Updates">
-<!ENTITY technicalSupportCmd.label "Technical Support">
-<!ENTITY releaseNotesCmd.label "Release Notes">
-
-<!ENTITY menuBar.tooltip                  "Menu Bar">
-<!ENTITY personalToolbar.tooltip          "Personal Toolbar">
-<!ENTITY navigationToolbar.tooltip        "Navigation Toolbar">
+<!ENTITY menuBar.tooltip                  "Barra de menú">
+<!ENTITY personalToolbar.tooltip          "Barra de herramientas personal">
+<!ENTITY navigationToolbar.tooltip        "Barra de navegación">
 
 <!-- Toolbar items --> 
-<!ENTITY backButton.label             "Back">
-<!ENTITY backButton.tooltip           "Go back one page">
-<!ENTITY forwardButton.label          "Forward">
-<!ENTITY forwardButton.tooltip        "Go forward one page">
-<!ENTITY reloadButton.label           "Reload">
-<!ENTITY reloadButton.tooltip         "Reload current page">
-<!ENTITY stopButton.label             "Stop">
-<!ENTITY stopButton.tooltip           "Stop loading this page">
-<!ENTITY searchButton.label           "Search">
-<!ENTITY searchButton.tooltip         "Type a word in the field to the left, then click Search">
-<!ENTITY goButton.label               "Go">
-<!ENTITY goButton.tooltip             "Type a location in the field to the left, then click Go">
-<!ENTITY printButton.label            "Print">
-<!ENTITY printButton.tooltip          "Print this page">
+<!ENTITY backButton.label             "Atrás">
+<!ENTITY backButton.tooltip           "Retroceder una página">
+<!ENTITY forwardButton.label          "Adelante">
+<!ENTITY forwardButton.tooltip        "Avanzar una página">
+<!ENTITY reloadButton.label           "Recargar">
+<!ENTITY reloadButton.tooltip         "Recargar la página actual">
+<!ENTITY stopButton.label             "Detener">
+<!ENTITY stopButton.tooltip           "Detener la carga de la página">
+<!ENTITY searchButton.label           "Buscar">
+<!ENTITY searchButton.tooltip         "Escriba una palabra en el campo de la izquierda y haga clic en Buscar">
+<!ENTITY goButton.label               "Ir">
+<!ENTITY goButton.tooltip             "Escriba una dirección en el campo de la izquierda y haga clic en Ir">
+<!ENTITY printButton.label            "Imprimir">
+<!ENTITY printButton.tooltip          "Imprimir esta página">
 
-<!ENTITY throbber.tooltip             "Go to the &vendorShortName; home page">
+<!ENTITY throbber.tooltip             "Ir a la página web de &vendorShortName;">
 
-<!ENTITY locationBar.tooltip          "Enter search term, keyword, or web address">
-<!ENTITY locationBar.accesskey        "d">
-<!ENTITY locationBar.title            "Location">
+<!ENTITY locationBar.tooltip          "Ingrese un término a buscar, una palabra clave o una dirección web">
+<!ENTITY locationBar.accesskey        "D">
+<!ENTITY locationBar.title            "Dirección">
 
-<!ENTITY proxyIcon.tooltip            "Drag and drop this icon to create a link to this page">
-<!ENTITY internetKeyword.tooltip      "Return to previously viewed page or choose keyword">
+<!ENTITY proxyIcon.tooltip            "Arrastre este ícono para crear un enlace a la página">
 
 <!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Bookmarks">
-<!ENTITY  bookmarksButton.tooltip     "Bookmarks list">
-<!ENTITY  homeButton.label            "Home">
+<!ENTITY  bookmarksButton.label       "Marcadores">
+<!ENTITY  bookmarksButton.tooltip     "Lista de marcadores">
+<!ENTITY  homeButton.label            "Inicio">
+<!ENTITY  bookmarksToolbarItem.label  "Items de la barra de marcadores">
 
 <!-- Statusbar -->
-<!ENTITY  statusText.label            "Done">
+<!ENTITY  statusText.label            "Terminado">
 
-<!ENTITY historyCmd.label           "History">  
+<!ENTITY historyCmd.label           "Historial">  
 <!ENTITY historyCmd.accesskey       "i">
 <!ENTITY history.commandKey         "h">
 
-<!ENTITY popupIcon.tooltiptext      "Unblock this site's popups">
+<!ENTITY popupIcon.tooltiptext      "Desbloquear las ventanas emergentes de este sitio">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar dirección de la página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

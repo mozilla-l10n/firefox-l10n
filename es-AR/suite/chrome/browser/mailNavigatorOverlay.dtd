@@ -1,22 +1,26 @@
-<!ENTITY newMessageCmd.label             "Message">
+<!ENTITY newMessageCmd.label             "Mensaje">
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newCardCmd.label                "Address Book Card…">
-<!ENTITY newCardCmd.accesskey            "C">
+<!ENTITY newContactCmd.label             "Contacto…">
+<!ENTITY newContactCmd.accesskey         "C">
 
-<!ENTITY sendPage.label                  "Send Page…">
-<!ENTITY sendPage.accesskey              "S">
+<!ENTITY sendPage.label                  "Enviar página…">
+<!ENTITY sendPage.accesskey              "E">
 
-<!ENTITY contextSendThisPage.label       "Send This Page…">
-<!ENTITY contextSendThisPage.accesskey   "d">
-<!ENTITY contextSendThisLink.label       "Send This Link…">
-<!ENTITY contextSendThisLink.accesskey   "k">
-<!ENTITY contextSendImage.label          "Send Image…">
+<!ENTITY contextSendThisPage.label       "Enviar ésta página…">
+<!ENTITY contextSendThisPage.accesskey   "E">
+<!ENTITY contextSendThisLink.label       "Enviar este enlace…">
+<!ENTITY contextSendThisLink.accesskey   "E">
+<!ENTITY contextSendImage.label          "Enviar imagen…">
 <!ENTITY contextSendImage.accesskey      "n">
-<!ENTITY contextSendFrame.label          "Send Frame…">
-<!ENTITY contextSendFrame.accesskey      "d">
+<!ENTITY contextSendVideo.label          "Enviar video…">
+<!ENTITY contextSendVideo.accesskey      "n">
+<!ENTITY contextSendAudio.label          "Enviar audio…">
+<!ENTITY contextSendAudio.accesskey      "a">
+<!ENTITY contextSendFrame.label          "Enviar marco…">
+<!ENTITY contextSendFrame.accesskey      "E">
 
-<!ENTITY sendLinkCmd.label               "Send Link…"> 
-<!ENTITY sendLinkCmd.accesskey           "d">
+<!ENTITY sendLinkCmd.label               "Enviar enlace…"> 
+<!ENTITY sendLinkCmd.accesskey           "E">
 
