@@ -31,10 +31,3 @@
 
 <!ENTITY savedPasswords.label           "Salvestatud paroolid...">
 <!ENTITY savedPasswords.accesskey       "l">
-
-<!ENTITY warnings.label                 "Hoiatused">
-
-<!ENTITY chooseWarnings.label           "Veebilehitsemisel kuvatavate hoiatuste häälestamine">
-
-<!ENTITY warningSettings.label          "Sätted...">
-<!ENTITY warningSettings.accesskey      "S">

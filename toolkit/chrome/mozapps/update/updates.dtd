@@ -6,6 +6,10 @@
 <!ENTITY checking.title                  "Uuenduste kontrollimine">
 <!ENTITY updateCheck.label               "Uuritakse, kas leidub uut versiooni &brandShortName;ist...">
 
+<!ENTITY  pluginupdatesfound.title       "Leiti uuendusi pluginatele">
+<!ENTITY  pluginupdatesfound.label       "Leiti ühe või enama plugina uus versioon.">
+<!ENTITY  pluginupdateslink.label        "Vaata, kuidas uuendada pluginaid.">
+
 <!ENTITY noupdatesfound.title            "Uuendusi ei leitud">
 <!ENTITY  noupdatesautoenabled.intro     "Uuendusi ei ole praegu saadaval. &brandShortName; kontrollib uuendusi
                                           regulaarselt.">

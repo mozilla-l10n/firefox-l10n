@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey                  "i">
 <!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
 <!ENTITY fullScreenCmd.accesskey                 "r">
+<!ENTITY fullScreenCmd.macCommandKey             "f">
 <!ENTITY showAllTabsCmd.label                    "Näita kõiki kaarte">
 <!ENTITY showAllTabsCmd.accesskey                "N">
 
@@ -236,6 +237,8 @@
 
 <!ENTITY openLinkCmd.label                       "Ava link uues aknas">
 <!ENTITY openLinkCmd.accesskey                   "l">
+<!ENTITY openLinkCmdInCurrent.label              "Ava link">
+<!ENTITY openLinkCmdInCurrent.accesskey          "v">
 <!ENTITY openLinkCmdInTab.label                  "Ava link uuel kaardil">
 <!ENTITY openLinkCmdInTab.accesskey              "k">
 <!ENTITY openFrameCmd.label                      "Ava paneel uues aknas">
@@ -256,14 +259,16 @@
 <!ENTITY viewPageSourceCmd.accesskey             "t">
 <!ENTITY viewFrameSourceCmd.label                "Vaata paneeli lähtekoodi">
 <!ENTITY viewFrameSourceCmd.accesskey            "n">
-<!ENTITY viewPageInfoCmd.label                   "Vaata veebilehe infot">
+<!ENTITY viewPageInfoCmd.label                   "Vaata veebilehe teavet">
 <!ENTITY viewPageInfoCmd.accesskey               "i">
-<!ENTITY viewFrameInfoCmd.label                  "Vaata paneeli infot">
+<!ENTITY viewFrameInfoCmd.label                  "Vaata paneeli teavet">
 <!ENTITY viewFrameInfoCmd.accesskey              "i">
 <!ENTITY reloadImageCmd.label                    "Laadi pilt uuesti">
 <!ENTITY reloadImageCmd.accesskey                "L">
 <!ENTITY viewImageCmd.label                      "Vaata pilti">
 <!ENTITY viewImageCmd.accesskey                  "t">
+<!ENTITY viewImageInfoCmd.label                  "Vaata pildi teavet">
+<!ENTITY viewImageInfoCmd.accesskey              "V">
 <!ENTITY viewVideoCmd.label                      "Vaata Videot">
 <!ENTITY viewVideoCmd.accesskey                  "i">
 <!ENTITY viewBGImageCmd.label                    "Vaata taustapilti">
@@ -316,8 +321,6 @@
 <!ENTITY copyAudioURLCmd.label                   "Kopeeri audio aadress">
 <!ENTITY copyAudioURLCmd.accesskey               "p">
 <!ENTITY blockImageCmd.accesskey                 "i">
-<!ENTITY metadataCmd.label                       "Omadused">
-<!ENTITY metadataCmd.accesskey                   "u">
 <!ENTITY copyEmailCmd.label                      "Kopeeri e-posti aadress">
 <!ENTITY copyEmailCmd.accesskey                  "i">
 <!ENTITY thisFrameMenu.label                     "See paneel">
@@ -336,6 +339,8 @@
 <!ENTITY mediaShowControls.accesskey             "N">
 <!ENTITY mediaHideControls.label                 "Peida juhtnupud">
 <!ENTITY mediaHideControls.accesskey             "e">
+<!ENTITY videoFullScreen.label                   "Täisekraanirežiim">
+<!ENTITY videoFullScreen.accesskey               "T">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
