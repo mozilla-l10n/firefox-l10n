@@ -1,17 +1,17 @@
-<!ENTITY  untitledTab            "(Untitled)">
-<!ENTITY  newTab.label           "New Tab">
+<!ENTITY  untitledTab            "(Sin título)">
+<!ENTITY  newTab.label           "Nueva pestaña">
 <!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "Close Tab">
+<!ENTITY  closeTab.label         "Cerrar pestaña">
 <!ENTITY  closeTab.accesskey         "C">
-<!ENTITY  closeOtherTabs.label   "Close Other Tabs">
-<!ENTITY  closeOtherTabs.accesskey         "O">
-<!ENTITY  reloadAllTabs.label    "Reload All Tabs">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "Reload Tab">
+<!ENTITY  closeOtherTabs.label   "Cerrar las otras pestañas">
+<!ENTITY  closeOtherTabs.accesskey         "o">
+<!ENTITY  reloadAllTabs.label    "Recargar todas las pestañas">
+<!ENTITY  reloadAllTabs.accesskey         "a">
+<!ENTITY  reloadTab.label        "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
-<!ENTITY  bookmarkGroup.accesskey  "B">
-<!ENTITY  closeTabButton.tooltip   "Close current tab">
-<!ENTITY  newTabButton.tooltip   "Open a new tab">
-<!ENTITY  undoCloseTab.label    "Undo Close Tab">
-<!ENTITY  undoCloseTab.accesskey  "U">
+<!ENTITY  bookmarkGroup.label    "Marcar este grupo de pestañas">
+<!ENTITY  bookmarkGroup.accesskey  "M">
+<!ENTITY  closeTabButton.tooltip   "Cerrar la pestaña actual">
+<!ENTITY  newTabButton.tooltip   "Abrir una nueva pestaña">
+<!ENTITY  undoCloseTab.label    "Deshacer cerrar pestaña">
+<!ENTITY  undoCloseTab.accesskey  "D">

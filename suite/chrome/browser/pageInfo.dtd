@@ -41,107 +41,109 @@
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Copy">
+<!ENTITY  copy.label            "Copiar">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Select All">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.label       "Seleccionar todo">
+<!ENTITY  selectall.accesskey   "a">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "General">
 <!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalURL            "Address:">
-<!ENTITY  generalType           "Type:">
-<!ENTITY  generalMode           "Render Mode:">
-<!ENTITY  generalSize           "Size:">
-<!ENTITY  generalReferrer       "Referring URL:">
-<!ENTITY  generalSource         "Cache Source:">
-<!ENTITY  generalModified       "Modified:">
-<!ENTITY  generalEncoding       "Encoding:">
-<!ENTITY  generalMetaName       "Name">
-<!ENTITY  generalMetaContent    "Content">
-<!ENTITY  generalSecurityMore   "More">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalURL            "Dirección:">
+<!ENTITY  generalType           "Tipo:">
+<!ENTITY  generalMode           "Modo de dibujo:">
+<!ENTITY  generalSize           "Tamaño:">
+<!ENTITY  generalReferrer       "URL referente:">
+<!ENTITY  generalSource         "Caché fuente:">
+<!ENTITY  generalModified       "Modificado:">
+<!ENTITY  generalEncoding       "Codificación:">
+<!ENTITY  generalMetaName       "Nombre">
+<!ENTITY  generalMetaContent    "Contenido">
+<!ENTITY  generalSecurityDetails           "Detalles">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  formsTab              "Forms">
+<!ENTITY  formsTab              "Formularios">
 <!ENTITY  formsTab.accesskey    "F">
-<!ENTITY  formAction            "Form Action">
-<!ENTITY  formMethod            "Method">
-<!ENTITY  formName              "Name">
-<!ENTITY  formNo                "No.">
-<!ENTITY  formEncoding          "Encoding:">
-<!ENTITY  formTarget            "Target:">
-<!ENTITY  formFields            "Fields:">
-<!ENTITY  formLabel             "Label">
-<!ENTITY  formFName             "Field Name">
-<!ENTITY  formType              "Type">
-<!ENTITY  formCValue            "Current Value">
+<!ENTITY  formAction            "Acción">
+<!ENTITY  formMethod            "Método">
+<!ENTITY  formName              "Nombre">
+<!ENTITY  formEncoding          "Codificación:">
+<!ENTITY  formTarget            "Destino:">
+<!ENTITY  formFields            "Campos:">
+<!ENTITY  formLabel             "Etiqueta">
+<!ENTITY  formFName             "Nombre del campo">
+<!ENTITY  formType              "Tipo">
+<!ENTITY  formCValue            "Valor actual">
 
-<!ENTITY  linksTab              "Links">
-<!ENTITY  linksTab.accesskey    "L">
+<!ENTITY  linksTab              "Enlaces">
+<!ENTITY  linksTab.accesskey    "l">
 <!ENTITY  linkNo                "No.">
-<!ENTITY  linkName              "Name">
-<!ENTITY  linkAddress           "Address">
-<!ENTITY  linkType              "Type">
-<!ENTITY  linkTarget            "Target">
-<!ENTITY  linkAccessKey         "Access Key">
+<!ENTITY  linkName              "Nombre">
+<!ENTITY  linkAddress           "Dirección">
+<!ENTITY  linkType              "Tipo">
+<!ENTITY  linkTarget            "Objetivo">
+<!ENTITY  linkAccessKey         "Tecla de acceso">
 
-<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab              "Medios">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Address:">
-<!ENTITY  mediaAlt              "Alternate Text:">
-<!ENTITY  mediaAltHeader        "Alternate Text">
-<!ENTITY  mediaAddress          "Address">
-<!ENTITY  mediaType             "Type">
-<!ENTITY  mediaSize             "Size">
-<!ENTITY  mediaCount            "Count">
-<!ENTITY  mediaDimensions       "Specified Dimensions:">
-<!ENTITY  mediaPhysDimensions   "Actual Dimensions:">
-<!ENTITY  mediaTitle            "Title:">
-<!ENTITY  mediaLongdesc         "Long Description:">
+<!ENTITY  mediaURL              "Dirección:">
+<!ENTITY  mediaAlt              "Texto alternativo:">
+<!ENTITY  mediaAltHeader        "Texto alternativo">
+<!ENTITY  mediaAddress          "Dirección">
+<!ENTITY  mediaType             "Tipo">
+<!ENTITY  mediaSize             "Tamaño">
+<!ENTITY  mediaCount            "Cantidad">
+<!ENTITY  mediaDimensions       "Dimensiones específicas:">
+<!ENTITY  mediaPhysDimensions   "Dimensiones actuales:">
+<!ENTITY  mediaTitle            "Título:">
+<!ENTITY  mediaLongdesc         "Descripción larga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Save As…">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs           "Guardar como…">
+<!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Media Preview:">
+<!ENTITY  mediaPreview          "Vista previa de medios:">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
+<!ENTITY  feedTab               "Canales">
+<!ENTITY  feedTab.accesskey     "C">
+<!ENTITY  feedSubscribe         "Suscribirse">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAllow             "Allow">
-<!ENTITY  permAllowSession      "Allow for Session">
-<!ENTITY  permBlock             "Block">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Popup Windows">
-<!ENTITY  permCookie            "Set Cookies">
-<!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permUseDefault        "Usar predeterminados">
+<!ENTITY  permAskAlways         "Siempre preguntar">
+<!ENTITY  permAllow             "Permitir">
+<!ENTITY  permAllowSession      "Habilitar para la sesión">
+<!ENTITY  permBlock             "Bloquear">
+<!ENTITY  permissionsFor        "Permisos para:">
+<!ENTITY  permImage             "Cargar imágenes">
+<!ENTITY  permPopup             "Abrir ventanas emergentes">
+<!ENTITY  permCookie            "Establecer Cookies">
+<!ENTITY  permInstall           "Instalar extensiones o temas">
+<!ENTITY  permGeo               "Compartir ubicación">
 
-<!ENTITY  securityTab           "Security">
+<!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information for this page">
-<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityHeader        "Información de seguridad para esta página">
+<!ENTITY  securityView.certView "Ver certificado">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Unknown">
+<!ENTITY  securityView.unknown   "Desconocido">
 
 
-<!ENTITY  securityView.identity.header   "Web Site Identity">
-<!ENTITY  securityView.identity.owner    "Owner: ">
-<!ENTITY  securityView.identity.domain   "Web site: ">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
+<!ENTITY  securityView.identity.header   "Identidad del sitio web">
+<!ENTITY  securityView.identity.owner    "Autor: ">
+<!ENTITY  securityView.identity.domain   "Sitio web: ">
+<!ENTITY  securityView.identity.verifier "Verificado por: ">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.header                   "Privacidad e historial">
+<!ENTITY  securityView.privacy.history                  "¿Visité este sitio antes en el día?">
+<!ENTITY  securityView.privacy.cookies                  "¿Este sitio web almacena información (cookies) en mi computadora?">
+<!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.passwords                "¿He guardado contraseñas para este sitio web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Ver contraseñas guardadas">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY  securityView.technical.header                 "Detalles técnicos">
