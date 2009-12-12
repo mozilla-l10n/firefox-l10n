@@ -37,45 +37,45 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Link Toolbar Title -->
-<!ENTITY linkToolbar.label "Site Navigation Bar">
+<!ENTITY linkToolbar.label "Barra de navegación del sitio">
 <!ENTITY linkToolbar.accesskey "a">
 
 <!-- Link Toolbar visibility options -->
-<!ENTITY linkToolbarAlways.label "Show Always">
-<!ENTITY linkToolbarAlways.accesskey "S">
-<!ENTITY linkToolbarAsNeeded.label "Show Only As Needed">
-<!ENTITY linkToolbarAsNeeded.accesskey "O">
-<!ENTITY linkToolbarNever.label "Hide Always">
-<!ENTITY linkToolbarNever.accesskey "H">
+<!ENTITY linkToolbarAlways.label "Mostrar siempre">
+<!ENTITY linkToolbarAlways.accesskey "s">
+<!ENTITY linkToolbarAsNeeded.label "Mostrar sólo cuando sea necesario">
+<!ENTITY linkToolbarAsNeeded.accesskey "o">
+<!ENTITY linkToolbarNever.label "Ocultar siempre">
+<!ENTITY linkToolbarNever.accesskey "O">
 
 <!-- Toolbar buttons, menus, and menuitems -->
-<!ENTITY topButton.label "Top">
-<!ENTITY upButton.label "Up">
-<!ENTITY firstButton.label "First">
-<!ENTITY prevButton.label "Previous">
-<!ENTITY nextButton.label "Next">
-<!ENTITY lastButton.label "Last">
+<!ENTITY topButton.label "Ir al inicio">
+<!ENTITY upButton.label "Arriba">
+<!ENTITY firstButton.label "Primero">
+<!ENTITY prevButton.label "Anterior">
+<!ENTITY nextButton.label "Siguiente">
+<!ENTITY lastButton.label "Último">
 
-<!ENTITY documentButton.label "Document">
+<!ENTITY documentButton.label "Documento">
 
-<!ENTITY tocButton.label "Table of Contents">
-<!ENTITY chapterButton.label "Chapters">
-<!ENTITY sectionButton.label "Sections">
-<!ENTITY subSectionButton.label "Subsections">
-<!ENTITY appendixButton.label "Appendices">
-<!ENTITY glossaryButton.label "Glossary">
-<!ENTITY indexButton.label "Index">
+<!ENTITY tocButton.label "Tabla de contenidos">
+<!ENTITY chapterButton.label "Capítulos">
+<!ENTITY sectionButton.label "Secciones">
+<!ENTITY subSectionButton.label "Subsecciones">
+<!ENTITY appendixButton.label "Anexos">
+<!ENTITY glossaryButton.label "Glosario">
+<!ENTITY indexButton.label "Índice">
 
-<!ENTITY moreButton.label "More">
+<!ENTITY moreButton.label "Más">
 
-<!ENTITY helpButton.label "Help">
-<!ENTITY searchButton.label "Search">
+<!ENTITY helpButton.label "Ayuda">
+<!ENTITY searchButton.label "Buscar">
 
-<!ENTITY authorButton.label "Author(s)">
+<!ENTITY authorButton.label "Autor(es)">
 <!ENTITY copyrightButton.label "Copyright">
 
-<!ENTITY bookmarkButton.label "Bookmarks">
+<!ENTITY bookmarkButton.label "Marcadores">
 
-<!ENTITY alternateButton.label "Other Versions">
+<!ENTITY alternateButton.label "Otras versiones">
 
-<!ENTITY feedButton.label "Subscribe">
+<!ENTITY feedButton.label "Suscribirse">

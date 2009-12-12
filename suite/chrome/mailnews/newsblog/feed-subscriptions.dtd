@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "Suscripciones a canales">
+<!ENTITY subscriptionDesc.label "Nota: Si elimina o cambia la carpeta de un canal, ello no afectará los artículos previamente descargados.">
+<!ENTITY feedTitle.label "Título:">
+<!ENTITY location.label  "Dirección:">
+
+<!ENTITY button.addFeed.label       "Agregar">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "Editar">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "Eliminar">
+<!ENTITY button.removeFeed.accesskey   "r">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportar">
+<!ENTITY button.exportOPML.accesskey   "E">
+
+<!ENTITY cmd.close.commandKey             "w">

@@ -1,26 +1,26 @@
-<!ENTITY no-properties.label   "No properties set.">
+<!ENTITY no-properties.label   "Sin propiedades.">
 
-<!ENTITY caption.label         "Element Properties">
-<!ENTITY image-sec.label       "Image Properties">
-<!ENTITY image-url.label       "Location:">
-<!ENTITY image-desc.label      "Description:">
-<!ENTITY image-alt.label       "Alternate text:">
-<!ENTITY image-width.label     "Width:">
-<!ENTITY image-height.label    "Height:">
-<!ENTITY image-filesize.label  "Size of File:">
-<!ENTITY insdel-sec.label      "Insert/Delete Properties">
-<!ENTITY insdel-cite.label     "Info:">
-<!ENTITY insdel-date.label     "Date:">
-<!ENTITY link-sec.label        "Link Properties">
-<!ENTITY link-url.label        "Address:">
-<!ENTITY link-target.label     "Will open in:">
-<!ENTITY link-type.label       "Target type:">
-<!ENTITY link-lang.label       "Target language:">
-<!ENTITY link-rel.label        "Relation:">
-<!ENTITY link-rev.label        "Reversed relation:">
-<!ENTITY misc-sec.label        "Miscellaneous Properties">
-<!ENTITY misc-lang.label       "Text language:">
-<!ENTITY misc-title.label      "Title:">
-<!ENTITY misc-tblsummary.label "Table summary:">
-<!ENTITY quote-sec.label       "Quote Properties">
-<!ENTITY quote-cite.label      "Info:">
+<!ENTITY caption.label         "Propiedades de elemento">
+<!ENTITY image-sec.label       "Propiedades de la imagen">
+<!ENTITY image-url.label       "Ubicación:">
+<!ENTITY image-desc.label      "Descripción:">
+<!ENTITY image-alt.label       "Texto alternativo:">
+<!ENTITY image-width.label     "Ancho:">
+<!ENTITY image-height.label    "Altura:">
+<!ENTITY image-filesize.label  "Tamaño de archivo:">
+<!ENTITY insdel-sec.label      "Insertar/borrar propiedades">
+<!ENTITY insdel-cite.label     "Información:">
+<!ENTITY insdel-date.label     "Fecha:">
+<!ENTITY link-sec.label        "Propiedades del enlace">
+<!ENTITY link-url.label        "Dirección:">
+<!ENTITY link-target.label     "Abrirá en:">
+<!ENTITY link-type.label       "Tipo de destino:">
+<!ENTITY link-lang.label       "Lenguaje destino:">
+<!ENTITY link-rel.label        "Relación:">
+<!ENTITY link-rev.label        "Relación inversa:">
+<!ENTITY misc-sec.label        "Propiedades varias">
+<!ENTITY misc-lang.label       "Idioma del texto:">
+<!ENTITY misc-title.label      "Título:">
+<!ENTITY misc-tblsummary.label "Sumario de tabla:">
+<!ENTITY quote-sec.label       "Citar propiedades">
+<!ENTITY quote-cite.label      "Información:">
