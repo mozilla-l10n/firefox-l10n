@@ -28,7 +28,7 @@
 <!ENTITY convertEmoticons.accesskey "D">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label "태그는 메일 메시지의 내용을 분류하거나 순위를 제공해 쉽게 검색 할 수 있도록 도와 줍니다.">
+<!ENTITY displayTagsText.label "태그는 메일의 내용을 분류하거나 차례를 매겨 검색을 도와 줍니다.">
 <!ENTITY addTagButton.label "추가">
 <!ENTITY addTagButton.accesskey "A">
 <!ENTITY editTagButton.label "편집">
