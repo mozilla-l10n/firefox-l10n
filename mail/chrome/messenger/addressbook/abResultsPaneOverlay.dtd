@@ -30,13 +30,3 @@
 <!ENTITY sortAscending.accesskey "S">
 <!ENTITY sortDescending.label "Faldende">
 <!ENTITY sortDescending.accesskey "F">
-<!ENTITY composeEmail.label "Skriv meddelelse til">
-<!ENTITY composeEmail.accesskey "S">
-<!ENTITY deleteAddrBookCard.label "Slet">
-<!ENTITY deleteAddrBookCard.accesskey "S">
-<!ENTITY newAddrBookCard.label "Nyt visitkort...">
-<!ENTITY newAddrBookCard.accesskey "N">
-<!ENTITY newAddrBookMailingList.label "Ny postliste">
-<!ENTITY newAddrBookMailingList.accesskey "p">
-<!ENTITY addrBookCardProperties.label "Egenskaber">
-<!ENTITY addrBookCardProperties.accesskey "E">

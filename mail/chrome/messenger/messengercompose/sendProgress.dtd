@@ -1,8 +1,4 @@
-<!ENTITY sendWindow.title "Sender meddelelserne">
-<!ENTITY titlePrefixSave "Gemmer meddelelserne -">
-<!ENTITY titlePrefixSend "Sender meddelelserne -">
-<!ENTITY status "Status:">
-<!ENTITY progress "Forløb:">
-<!ENTITY percentMsg "#1&#037;">
-<!ENTITY messageSent "Din meddelelse er sendt">
-<!ENTITY messageSaved "Din meddelelse er gemt">
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "Sender meddelelserne"> 
+<!ENTITY status.label "Status:">
+<!ENTITY progress.label "Forløb:">

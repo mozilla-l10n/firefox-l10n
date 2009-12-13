@@ -1,4 +1,7 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Skriv: (intet emne)">
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ny">
@@ -7,14 +10,15 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "N">
-<!ENTITY newCard.label "Visitkort...">
-<!ENTITY newCard.accesskey "V">
+<!ENTITY newContact.label "Adressebogskontakt…">
+<!ENTITY newContact.accesskey "V">
 <!ENTITY attachMenu.label "Vedhæft">
 <!ENTITY attachMenu.accesskey "V">
-<!ENTITY attachFileCmd.label "Fil(er)...">
+<!ENTITY attachFileCmd.label "Filer…">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Hjemmeside...">
+<!ENTITY attachPageCmd.label "Hjemmeside…">
 <!ENTITY attachPageCmd.accesskey "H">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Mit visitkort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY closeCmd.label "Luk">
@@ -31,24 +35,19 @@
 <!ENTITY saveAsDraftCmd.accesskey "K">
 <!ENTITY saveAsTemplateCmd.label "Skabelon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">
-<!ENTITY offlineGoOfflineCmd.label "Arbejd offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "o">
 <!ENTITY sendNowCmd.label "Send nu">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "s">
 <!ENTITY sendLaterCmd.label "Send senere">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Sideopsætning...">
+<!ENTITY printSetupCmd.label "Sideopsætning…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printCmd.label "Udskriv">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "U">
-<!ENTITY quitApplicationCmdWin.label "Luk">
-<!ENTITY quitApplicationCmdWin.accesskey "L">
-<!ENTITY quitApplicationCmd.label "Afslut">
-<!ENTITY quitApplicationCmd.accesskey "A">
-<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Rediger">
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Fortryd">
@@ -66,15 +65,17 @@
 <!ENTITY pasteCmd.label "Sæt ind">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "i">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Ombryd igen">
-<!ENTITY editRewrapCmd.accesskey "O">
+<!ENTITY editRewrapCmd.key "O">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Slet">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Marker alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Find i denne meddelelse...">
+<!ENTITY findCmd.label "Find og erstat…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "Find igen">
@@ -85,36 +86,48 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "d">
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Vis">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Værktøjslinier">
+<!ENTITY viewToolbarsMenuNew.label "Værktøjslinjer">
 <!ENTITY viewToolbarsMenuNew.accesskey "k">
-<!ENTITY showComposeToolbarCmd.label "Postværktøjslinjen">
-<!ENTITY showComposeToolbarCmd.accesskey "P">
-<!ENTITY showFormatToolbarCmd.label "Formateringslinjen">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showCompositionToolbarCmd.label "Postværktøjslinjen">
+<!ENTITY showCompositionToolbarCmd.accesskey "P">
+<!ENTITY showFormattingBarCmd.label "Formateringslinjen">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statuslinjen">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Tilpas...">
+<!ENTITY customizeToolbar.label "Tilpas…">
 <!ENTITY customizeToolbar.accesskey "T">
+
 <!ENTITY addressSidebar.label "Kontakter">
 <!ENTITY addressSidebar.accesskey "K">
+
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Formater">
 <!ENTITY formatMenu.accesskey "o">
+
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Valgmuligheder">
 <!ENTITY optionsMenu.accesskey "g">
-<!ENTITY checkSpellingCmd.label "Stavekontrol...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "S">
+<!ENTITY checkSpellingCmd2.label "Stavekontrol…">
+<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY enableInlineSpellChecker.label "Aktiv stavekontrol">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
 <!ENTITY quoteCmd.label "Citer meddelelse">
 <!ENTITY quoteCmd.accesskey "C">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Vedhæft personligt visitkort i meddelelser (vCard)">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY returnReceiptMenu.label "Kvittering">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Meddelelse om leveringsstatus">
+<!ENTITY dsnMenu.accesskey "M">
 <!ENTITY outputFormatMenu.label "Formater">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Find automatisk">
@@ -141,53 +154,52 @@
 <!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
 <!ENTITY fileCarbonCopyCmd.accesskey "k">
 <!ENTITY fileHereMenu.label "Gem her">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Funktioner">
 <!ENTITY tasksMenu.accesskey "F">
-<!ENTITY messengerCmd.label "&brandFullName;">
+<!ENTITY messengerCmd.label "Mail &amp; nyhedsgrupper">
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adressebog">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Kontoindstillinger...">
+<!ENTITY addressBookCmd.key "B">
+
+<!ENTITY accountManagerCmd.label "Kontoindstillinger…">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "i">
-<!ENTITY preferencesCmd.label "Indstillinger...">
-<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.label "Indstillinger…">
 <!ENTITY preferencesCmd.accesskey "I">
-<!ENTITY preferencesCmdUnix.label "Egenskaber">
-<!ENTITY preferencesCmdUnix.accesskey "E">
+<!ENTITY preferencesCmdUnix.label "Præferencer">
+<!ENTITY preferencesCmdUnix.accesskey "P">
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY bringAllToFront.label "Vis alle vinduer">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Vindue">
-<!ENTITY helpMenu.label "Hjælp">
-<!ENTITY helpMenu.accesskey "H">
-<!ENTITY releaseCmd.label "Udgivelsesnoter (www)">
-<!ENTITY releaseCmd.accesskey "U">
-<!ENTITY hintsAndTips.label "&brandShortName; hjælp (www)">
-<!ENTITY hintsAndTips.accesskey "H">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Om &brandShortName;">
-<!ENTITY aboutCmd.accesskey "O">
+
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Send">
 <!ENTITY quoteButton.label "Citat">
-<!ENTITY addressButton.label "Adresse">
+<!ENTITY addressButton.label "Kontakter">
 <!ENTITY attachButton.label "Vedhæft">
 <!ENTITY spellingButton.label "Stavekontrol">
 <!ENTITY saveButton.label "Gem">
-<!ENTITY throbberItem.title "Aktivitetsindikator">
+
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Send meddelelsen nu">
 <!ENTITY sendlaterButton.tooltip "Send denne meddelelse senere">
 <!ENTITY quoteButton.tooltip "Citer den foregående meddelelse">
-<!ENTITY addressButton.tooltip "Vælg en modtager fra adressebogen">
+<!ENTITY addressButton.tooltip "Vælg en modtager fra en adressebog">
 <!ENTITY attachButton.tooltip "Vedhæft en fil">
 <!ENTITY saveButton.tooltip "Gem denne meddelelse">
-<!ENTITY throbber.tooltip "Gå til &vendorShortName;s hjemmeside">
 <!ENTITY cutButton.tooltip "Klip">
 <!ENTITY copyButton.tooltip "Kopier">
 <!ENTITY pasteButton.tooltip "Sæt ind">
+
+<!-- Headers -->
 <!ENTITY fromAddr.label "Fra:">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "Til:">
@@ -200,18 +212,17 @@
 <!ENTITY subject.accesskey "E">
 <!ENTITY attachments.label "Vedhæftede filer:">
 <!ENTITY attachments.accesskey "d">
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Indsæt smiley">
 <!ENTITY smiley1Cmd.label "Smil">
 <!ENTITY smiley2Cmd.label "Ked af det">
 <!ENTITY smiley3Cmd.label "Vink">
-<!ENTITY smiley4Cmd.label "Ræk runge">
+<!ENTITY smiley4Cmd.label "Ræk tunge">
 <!ENTITY smiley5Cmd.label "Grinende">
 <!ENTITY smiley6Cmd.label "Flov">
 <!ENTITY smiley7Cmd.label "Ubeslutsom">
-<!ENTITY smiley8Cmd.label "Overraskelse">
+<!ENTITY smiley8Cmd.label "Overrasket">
 <!ENTITY smiley9Cmd.label "Kys">
 <!ENTITY smiley10Cmd.label "Råb">
 <!ENTITY smiley11Cmd.label "Sej">
@@ -219,8 +230,10 @@
 <!ENTITY smiley13Cmd.label "Fod i mund">
 <!ENTITY smiley14Cmd.label "Uskyldig">
 <!ENTITY smiley15Cmd.label "Græder">
-<!ENTITY smiley16Cmd.label "Lukket med syv sejl">
-<!ENTITY spellCheckNoSuggestions.label "Ingen foreslag fundet">
+<!ENTITY smiley16Cmd.label "Lukket med syv segl">
+
+<!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "Ingen forslag fundet">
 <!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Tilføj til ordbog">
@@ -235,14 +248,21 @@
 <!ENTITY paste.accesskey "æ">
 <!ENTITY pasteQuote.label "Indsæt som citat">
 <!ENTITY pasteQuote.accesskey "c">
+
 <!ENTITY openAttachment.label "Åben">
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY delete.label "Slet">
 <!ENTITY delete.accesskey "S">
+<!ENTITY removeAttachment.label "Fjern vedhæftet fil">
+<!ENTITY removeAttachment.accesskey "F">
+<!ENTITY renameAttachment.label "Omdøb…">
+<!ENTITY renameAttachment.accesskey "O">
 <!ENTITY selectAll.label "Marker alt">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Vedhæft fil(er)...">
+<!ENTITY attachFile.label "Vedhæft filer…">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachPage.label "Vedhæft hjemmeside...">
+<!ENTITY attachPage.label "Vedhæft hjemmeside…">
 <!ENTITY attachPage.accesskey "h">
+
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakter">

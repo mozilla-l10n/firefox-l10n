@@ -1,7 +1,6 @@
 <!ENTITY accountTitle.label "Kontoindstillinger">
 <!ENTITY accountName.label "Kontonavn:">
 <!ENTITY accountName.accesskey "K">
-<!ENTITY accountNameDesc.label "Kontonavnet bliver brugt til at identificerer hver konto">
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
 <!ENTITY name.label "Dit navn:">
@@ -12,16 +11,20 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Vedhæft denne underskrift:">
-<!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "Rediger...">
-<!ENTITY choose.label "Vælg...">
+<!ENTITY signatureFile.label "Vedhæft signaturen fra en fil (tekst, HTML eller et billede):">
+<!ENTITY signatureFile.accesskey "f">
+<!ENTITY signatureText.label "Tekstsignatur:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Brug HTML (fx &lt;b&gt;fed&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY edit.label "Rediger…">
+<!ENTITY choose.label "Vælg…">
 <!ENTITY choose.accesskey "V">
-<!ENTITY editVCard.label "Rediger kortet...">
+<!ENTITY editVCard.label "Rediger kortet…">
 <!ENTITY editVCard.accesskey "d">
 <!ENTITY attachVCard.label "Vedhæft personligt visitkort i meddelelser (vCard)">
 <!ENTITY attachVCard.accesskey "v">
-<!ENTITY manageIdentities.label "Rediger identiteter...">
+<!ENTITY manageIdentities.label "Rediger identiteter…">
 <!ENTITY manageIdentities.accesskey "i">
 <!ENTITY smtpName.label "Server:">
 <!ENTITY smtpName.accesskey "S">

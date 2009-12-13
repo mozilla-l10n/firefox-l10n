@@ -1,19 +1,12 @@
 <!ENTITY editorWindow.titlemodifier "Redigering">
 <!ENTITY editorWindow.titlemodifiermenuseparator "-">
-<!ENTITY textEditorWindow.titlemodifier "Tekstbehandler">
 <!ENTITY viewMenu.label "Vis">
-<!ENTITY viewmenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Værktøjslinjen komposition">
-<!ENTITY compositiontb.accesskey "V">
+<!ENTITY compositionToolbarCmd.accesskey "K">
 <!ENTITY formattingToolbarCmd.label "Formateringslinjen">
-<!ENTITY formattingtb.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Værktøjslinjen redigeringstilstand">
-<!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "Statuslinjen">
-<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY editmodeToolbarCmd.accesskey "E">
 <!ENTITY formatMenu.label "Formater">
-<!ENTITY formatmenu.accesskey "f">
-<!ENTITY helpMenu.label "Hjælp">
-<!ENTITY aboutCmd.label "Om &brandShortName;">
-<!ENTITY editMode.label "Redigeringstilstand:">
-<!ENTITY statusText.label "Sideindlæsning fuldført">
+<!ENTITY formatMenu.accesskey "f">

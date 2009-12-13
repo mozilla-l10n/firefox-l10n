@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Vedhæft dette billede til meddelelsen">
+<!ENTITY attachImageSource.accesskey     "V">
+
+<!ENTITY attachLinkSource.label          "Vedhæft kilden til dette link til meddelelsen">
+<!ENTITY attachLinkSource.accesskey      "k">

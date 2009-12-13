@@ -1,18 +1,11 @@
 <!ENTITY windowTitle.label "HTML-meddelelses spørgsmål">
 <!ENTITY recipient.label "Nogen af modtagerne er ikke opført som i stand til at læse HTML-post.">
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Din meddelelse kan konverteres til ren tekst uden at miste information.">
-<!ENTITY convertibleAltering.label "Din meddelelse kan konverteres til ren tekst uden at miste vigtig information. Men tekstversionen har muligvis et anderledes udseende end den havde da du skrev den.">
-<!ENTITY convertibleNo.label "Du har dog brugt formatering (fx farver) der ikke kan konverteres til ren tekst.">
 <!ENTITY question.label "Skal meddelelsen konverteres til ren tekst eller sendes som HTML alligevel?">
 <!ENTITY plainTextAndHtml.label "Send både som ren tekst og HTML">
+<!ENTITY plainTextAndHtml.accesskey "b">
 <!ENTITY plainTextOnly.label "Send kun som ren tekst">
+<!ENTITY plainTextOnly.accesskey "t">
 <!ENTITY htmlOnly.label "Send kun som HTML">
-<!ENTITY plainTextAndHtmlRecommended.label "Send både som ren tekst og HTML (anbefales)">
-<!ENTITY plainTextOnlyRecommended.label "Send kun som ren tekst (anbefales)">
-<!ENTITY htmlOnlyRecommended.label "Send kun som HTML (anbefales)">
-<!ENTITY recommended.label "(anbefales)">
+<!ENTITY htmlOnly.accesskey "H">
 <!ENTITY send.label "Send">
-<!ENTITY cancel.label "Annuller">
-<!ENTITY recipients.label "Modtagere...">
-<!ENTITY help.label "Hjælp">
+<!ENTITY send.accesskey "S">

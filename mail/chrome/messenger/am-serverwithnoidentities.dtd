@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Tøm Papirkurv ved afslutning">
 <!ENTITY emptyTrashOnExit.accesskey "T">
 <!ENTITY localPath.label "Lokal mappe:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY localFolderPicker.label "Vælg lokal mappe">
-<!ENTITY browseFolder.label "Gennemse...">
+<!ENTITY browseFolder.label "Gennemse…">
 <!ENTITY browseFolder.accesskey "G">

@@ -1,43 +1,98 @@
-<!ENTITY windowTitle.label "HTML-post spørgsmål">
-<!ENTITY windowTitleSettings.label "Publish Settings">
-<!ENTITY publishTab.label "Publish">
-<!ENTITY settingsTab.label "Indstillinger">
-<!ENTITY publishButton.label "Publish">
-<!ENTITY siteList.label "Site Name:">
-<!ENTITY siteList.tooltip "Choose the site that you want to publish to">
-<!ENTITY newSiteButton.label "New Site">
-<!ENTITY siteDirList.label "Select or type a directory name in your publishing site:">
-<!ENTITY siteDirList.tooltip "Choose or enter the name of the remote subdirectory to publish to">
-<!ENTITY docDirList.label "Site subdirectory for this page:">
-<!ENTITY publishImgCheckbox.label "Include images and other files">
-<!ENTITY publishImgCheckbox.tooltip "Publish images and other files referenced by this page">
-<!ENTITY sameLocationRadio.label "Use same location as page">
-<!ENTITY sameLocationRadio.tooltip "Publish files to the same location as the page">
-<!ENTITY useSubdirRadio.label "Use this site subdirectory:">
-<!ENTITY useSubdir.tooltip "Choose or enter name of remote subdirectory where files will be published">
-<!ENTITY chooseDirButton.label "Choose...">
-<!ENTITY pageTitle.label "Page Title:">
-<!ENTITY pageTitle.tooltip "Enter a title to identify the page in the window and in bookmarks">
-<!ENTITY pageTitleExample.label "e.g.: &quot;My Web Page&quot;">
-<!ENTITY filename.label "Filename:">
-<!ENTITY filename.tooltip "Enter a name for this file, including &quot;.html&quot; for a web page">
-<!ENTITY filenameExample.label "e.g,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label "Other files to publish">
-<!ENTITY setDefaultButton.label "Vælg som standard">
-<!ENTITY setDefSiteAndDir.label "Set as Default Site and Directory">
-<!ENTITY removeButton.label "Fjern">
-<!ENTITY publishSites.label "Publishing Sites">
-<!ENTITY serverInfo.label "Server Information">
-<!ENTITY loginInfo.label "Login Information">
-<!ENTITY siteName.label "Site Name:">
-<!ENTITY siteName.tooltip "A nickname that identifies this publishing site (e.g.: &quot;MySite&quot;)">
-<!ENTITY siteUrl.label "Publishing address (e.g.: &quot;ftp://ftp.myisp.com/myusername&quot;):">
-<!ENTITY siteUrl.tooltip "The FTP:// or HTTP:// address provided by your ISP or web hosting service">
-<!ENTITY browseUrl.label "HTTP address of your homepage (e.g.: &quot;http://www.myisp.com/myusername&quot;):">
-<!ENTITY browseUrl.tooltip "The HTTP:// address of your home directory (don&quot;t include filename)">
-<!ENTITY username.label "Dit loginnavn">
-<!ENTITY username.tooltip "The user name you use to log in to your ISP or web hosting service">
-<!ENTITY password.label "Password:">
-<!ENTITY password.tooltip "The password associated with your user name">
-<!ENTITY savePassword.label "Gem adgangskode">
-<!ENTITY savePassword.tooltip "Select this to save your password securely using Password Manager">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Overfør side">
+<!ENTITY windowTitleSettings.label    "Indstillinger for overførsel">
+<!ENTITY publishTab.label             "Overfør">
+<!ENTITY settingsTab.label            "Indstillinger">
+<!ENTITY publishButton.label          "Overfør">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Stedets navn:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.tooltip             "Vælg det sted som du vil overføre til">
+<!ENTITY newSiteButton.label          "Nyt sted">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Stedets undermappe til denne side:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Vælg eller angiv navnet på stedets undermappe til denne side">
+<!ENTITY publishImgCheckbox.label     "Inkluder billeder og andre filer">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip   "Overfør billeder og andre filer som er inkluderet i denne side">
+<!ENTITY sameLocationRadio.label      "Placer sammen med siden">
+<!ENTITY sameLocationRadio.accesskey  "s">
+<!ENTITY sameLocationRadio.tooltip    "Overfør filer til samme placering som siden">
+<!ENTITY useSubdirRadio.label         "Brug dette sites undermappe:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Overfør filer til den valgte undermappe">
+<!ENTITY otherDirList.tooltip         "Vælg eller angiv navnet på undermappen, som filerne skal overføres til">
+<!ENTITY pageTitle.label              "Sidens titel:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Angiv sidens titel. Titlen bruges bl.a. i bogmærker og på faneblade.">
+<!ENTITY pageTitleExample.label       "fx: &quot;Min hjemmeside&quot;">
+<!ENTITY filename.label               "Filnavn:">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY filename.tooltip             "Angiv et filnavn, inklusive filtype">
+<!ENTITY filenameExample.label        "fx &quot;Min hjemmeside.html&quot;">
+<!ENTITY setDefaultButton.label       "Brug som standard">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY removeButton.label           "Fjern sted">
+<!ENTITY removeButton.accesskey       "R">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Overførselssteder">
+<!ENTITY serverInfo.label             "Server-information">
+<!ENTITY loginInfo.label              "Log-in-information">
+<!ENTITY siteName.label               "Stedets navn:">
+<!ENTITY siteName.accesskey           "e">
+<!ENTITY siteName.tooltip             "Et valgfrit navn til at identificere stedet, fx &quot;Familiesiden&quot;">
+<!ENTITY siteUrl.label                "Overførselsadresse (fx: &quot;ftp://ftp.minhjemmeside.dk&quot;):">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "Den FTP://- eller HTTP://-adresse som du har fået oplyst af dit webhotel">
+<!ENTITY browseUrl.label              "Din hjemmesides adresse (fx: &quot;http://www.minhjemmeside.dk&quot;):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "HTTP://-adressen til din mappe på serveren">
+<!ENTITY username.label               "Brugernavn:">
+<!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip             "Det brugernavn, som du bruger for at logge ind på webhotellet">
+<!ENTITY password.label               "Adgangskode:">
+<!ENTITY password.accesskey           "A">
+<!ENTITY password.tooltip             "Den adgangskode du bruger for at logge ind på webhotellet">
+<!ENTITY savePassword.label           "Husk adgangskode">
+<!ENTITY savePassword.accesskey       "H">
+<!ENTITY savePassword.tooltip         "Vælg dette for at gemme adgangskoden på en sikker måde med Kodeordshuskeren">

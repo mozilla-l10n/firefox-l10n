@@ -2,12 +2,10 @@
 <!ENTITY sendingPrefix.label "Gør følgende, ved afsendelse af meddelelser:">
 <!ENTITY fccMailFolder.label "Anbring en kopi i:">
 <!ENTITY fccMailFolder.accesskey "A">
-<!ENTITY chooseFolderButton.label "Vælg mappe...">
+<!ENTITY fccReplyFollowsParent.label "Anbring svar i samme mappe som den besvarede meddelelse">
+<!ENTITY fccReplyFollowsParent.accesskey "s">
 <!ENTITY bccAddress.label "Skjult kopi til andre adresser:">
 <!ENTITY bccAddress.accesskey "S">
-<!ENTITY specialFolderTitle.label "Specielle mapper">
-<!ENTITY draftMailFolder.label "Gem meddelelses kladder i:">
-<!ENTITY templateMailFolder.label "Gem meddelelses skabeloner i:">
 <!ENTITY saveMessageDlg.label "Vis godkendelsesdialog, når meddelelser bliver gemt">
 <!ENTITY saveMessageDlg.accesskey "g">
 <!ENTITY sentFolderOn.label "&quot;Sendt&quot;-mappen på:">
@@ -18,10 +16,17 @@
 <!ENTITY draftsFolderOn.accesskey "k">
 <!ENTITY draftInOtherFolder.label "Andet:">
 <!ENTITY draftInOtherFolder.accesskey "d">
+
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "&quot;Arkiver&quot; mappe på:">
+<!ENTITY archivesFolderOn.accesskey "a">
+<!ENTITY archiveInOtherFolder.label "Anden:">
+<!ENTITY archiveInOtherFolder.accesskey "n">
 <!ENTITY templatesFolderOn.label "&quot;Skabeloner&quot;-mappen på:">
 <!ENTITY templatesFolderOn.accesskey "o">
 <!ENTITY templateInOtherFolder.label "Andet:">
 <!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Kladder og skabeloner">
-<!ENTITY keepDrafts.label "Gem meddelelses kladder i:">
-<!ENTITY keepTempltes.label "Gem meddelelses skabeloner i:">
+<!ENTITY keepDrafts.label "Gem meddelelseskladder i:">
+<!ENTITY keepArchives.label "Gem meddelelsesarkiver i:">
+<!ENTITY keepTempltes.label "Gem meddelelsesskabeloner i:">

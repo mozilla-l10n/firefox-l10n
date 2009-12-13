@@ -1,11 +1,11 @@
 <!ENTITY prefWindow.titleWin "Indstillinger">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; indstillinger">
-<!ENTITY prefWindow.styleWin "width: 47em; height: 38em;">
+<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleUnix "width: 47em;">
+<!ENTITY prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 <!ENTITY paneGeneral.title "Generelt">
 <!ENTITY paneDisplay.title "Visning">
 <!ENTITY paneComposition.title "Redigering">
 <!ENTITY paneAttachments.title "Vedhæftede filer">
-<!ENTITY panePrivacy.title "Privatliv">
+<!ENTITY paneSecurity.title "Sikkerhed">
 <!ENTITY paneAdvanced.title "Avanceret">

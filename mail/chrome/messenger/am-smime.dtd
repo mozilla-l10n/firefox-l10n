@@ -1,19 +1,27 @@
 <!ENTITY securityTitle.label "Sikkerhed">
+<!ENTITY securityTab.label "Sikkerhed">
 <!ENTITY securityHeading.label "For at sende eller modtage krypterede meddelelser, skal du angive både et certifikat til at underskrive med og et certifikat til at kryptere med.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standardindstilling for kryptering når du sender meddelelserne:">
 <!ENTITY neverEncrypt.label "Aldrig (brug ikke kryptering)">
+<!ENTITY neverEncrypt.accesskey "A">
 <!ENTITY alwaysEncryptMessage.label "Altid (deaktiver afsendelse med mindre alle modtagere har et certifikat)">
+<!ENTITY alwaysEncryptMessage.accesskey "a">
 <!ENTITY encryptionCert.message "Brug det følgende certifikat til at kryptere og dekryptere meddeleser du har sendt:">
-<!ENTITY encryptionCert.notselected "Intet certifikat valgt">
-<!ENTITY certificate.button "Vælg...">
-<!ENTITY certificate_clear.button "Ryd">
+<!ENTITY digitalSign.certificate.button "Vælg…">
+<!ENTITY digitalSign.certificate.accesskey "V">
+<!ENTITY digitalSign.certificate_clear.button "Ryd">
+<!ENTITY digitalSign.certificate_clear.accesskey "R">
+<!ENTITY encryption.certificate.button "Vælg…">
+<!ENTITY encryption.certificate.accesskey "V">
+<!ENTITY encryption.certificate_clear.button "Ryd">
+<!ENTITY encryption.certificate_clear.accesskey "R">
 <!ENTITY signingGroupTitle.label "Digital signatur">
 <!ENTITY signMessage.label "Signer meddelelser digitalt (standard)">
+<!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Brug det følgende certifikat til at signere meddeleser du har sendt:">
-<!ENTITY signingCert.notselected "Intet certifikat valgt">
 <!ENTITY certificates.label "Certifikater">
-<!ENTITY managecerts.label "Certifikathåndtering">
-<!ENTITY managecerts.accesskey "c">
-<!ENTITY managedevices.label "Håndter sikkerhedsenheder">
-<!ENTITY managedevices.accesskey "s">
+<!ENTITY manageCerts.label "Certifikathåndtering">
+<!ENTITY manageCerts.accesskey "c">
+<!ENTITY manageDevices.label "Håndter sikkerhedsenheder">
+<!ENTITY manageDevices.accesskey "s">

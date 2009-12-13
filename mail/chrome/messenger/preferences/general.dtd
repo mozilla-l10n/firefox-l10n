@@ -1,35 +1,35 @@
-<!ENTITY generalSettings.caption "Standardindstillinger">
-<!ENTITY generalSettings.label "Generelle indstillinger">
-<!ENTITY setDefaultMailClient.label "E-mail">
-<!ENTITY setDefaultMailClient.accesskey "E">
-<!ENTITY setDefaultNewsClient.label "Nyhedsgrupper">
-<!ENTITY setDefaultNewsClient.accesskey "n">
-<!ENTITY setDefaultFeedClient.label "RSS feeds">
-<!ENTITY setDefaultFeedClient.accesskey "R">
-<!ENTITY checkDefaultMailClient.label "&brandShortName; skal kontrollere, at den er sat til standard e-mail-klient ved opstart">
-<!ENTITY checkDefaultMailClient.accesskey "k">
-<!ENTITY defaultClientAdvanced.label "Avanceret...">
-<!ENTITY defaultClientAdvanced.accesskey "A">
-<!ENTITY windowSettings.label "Vindue konfiguration">
-<!ENTITY selectWindowLayout.label "Vælg det layout der passer dig bedst.">
-<!ENTITY selectWindowLayout.accesskey "V">
-<!ENTITY messengerStartPage.label "E-mail-startsiden">
+<!ENTITY messengerStartPage.label         "&brandShortName; startside">
 <!ENTITY enableStartPage.label "Vis startsiden i meddelelsesområdet, når &brandShortName; starter">
 <!ENTITY enableStartPage.accesskey "S">
 <!ENTITY location.label "Startside:">
-<!ENTITY location.accesskey "S">
+<!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label "Gendan standard">
 <!ENTITY useDefault.accesskey "G">
 <!ENTITY bounceSystemDockIcon.label "Animer dock-ikonet">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
 <!ENTITY newMessagesArrive.label "Når der kommer nye meddelelser:">
 <!ENTITY playSound.label "Afspil en lyd">
-<!ENTITY playSound.accesskey "l">
+<!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label "Vis en popup">
 <!ENTITY showAnimatedAlert.accesskey "p">
-<!ENTITY soundbutton.label "Avanceret...">
-<!ENTITY soundbutton.accesskey "v">
-<!ENTITY showConnections.label "Forbindelsesindstillinger">
-<!ENTITY showConnections.accesskey "F">
-<!ENTITY proxiesInfo.label "Vælg hvordan &brandShortName; skal forbinde til internettet.">
-<!ENTITY connectionsInfo.caption "Forbindelse">
+
+<!ENTITY customizeMailAlert.label         "Tilpas…">
+<!ENTITY customizeMailAlert.accesskey     "T">
+
+<!ENTITY play.label                       "Afspil">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Standard systemlyd ved modtagelse af ny mail">
+<!ENTITY systemsoundMac.label             "Systemadvarsel-lyd">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Anvend følgende lydfil">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Gennemse…">
+<!ENTITY browse.accesskey                 "G">
+
+<!ENTITY addonsMgr.label                  "Tilføjelser">
+<!ENTITY manageAddonsDescWin.label        "Skift indstillinger for dine tilføjelser">
+<!ENTITY manageAddonsDescUnix2.label      "Skift præferencer for dine tilføjelser">
+<!ENTITY manageAddons.label               "Administrer tilføjelser…">
+<!ENTITY manageAddons.accesskey           "m">
+

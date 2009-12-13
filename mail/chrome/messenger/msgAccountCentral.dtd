@@ -1,16 +1,20 @@
-<!ENTITY emailSectionHdr.label "E-mail">
+<!ENTITY emailSectionHdr.label "Mail">
 <!ENTITY readMsgsLink.label "Læs meddelelser">
 <!ENTITY composeMsgLink.label "Sammensæt en ny meddelelse">
+
 <!ENTITY newsSectionHdr.label "Nyhedsgrupper">
-<!ENTITY subscribeNewsLink.label "Håndter abonnmenter på nyhedsgrupper">
+<!ENTITY subscribeNewsLink.label "Håndter abonnementer på nyhedsgrupper">
+
 <!ENTITY accountsSectionHdr.label "Konti">
 <!ENTITY subscribeImapFolders.label "Håndter abonnementer på mapper">
 <!ENTITY settingsLink.label "Vis indstillinger for denne konto">
 <!ENTITY newAcctLink.label "Opret en ny konto">
+
 <!ENTITY advFeaturesSectionHdr.label "Avancerede">
 <!ENTITY searchMsgsLink.label "Søg i meddelelser">
 <!ENTITY filtersLink.label "Håndter meddelelsesfiltre">
 <!ENTITY junkSettings.label "Indstillinger for spam">
 <!ENTITY offlineLink.label "Offline-indstillinger">
-<!ENTITY rssSectionHdr.label "RSS nyheder &amp; blogs">
-<!ENTITY subscibeRSS.label "Håndter abonnementer">
+
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Håndter abonnementer">

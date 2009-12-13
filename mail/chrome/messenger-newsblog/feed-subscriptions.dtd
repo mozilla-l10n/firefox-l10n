@@ -1,4 +1,4 @@
-<!ENTITY newsBlogSubscriptions.label "RSS-abonnementer">
+<!ENTITY feedSubscriptions.label "RSS-abonnementer">
 <!ENTITY subscriptionDesc.label "Håndter dine RSS-abonnementer.">
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY location.label "Startside:">

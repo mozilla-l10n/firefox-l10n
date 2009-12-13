@@ -1,9 +1,7 @@
 <!ENTITY pref.ldap.window.title "LDAP-servere">
-<!ENTITY directory.label "Tilføj en server">
 <!ENTITY directories.label "Benyt en anden LDAP-server:">
 <!ENTITY directoriesText.label "Vælg en LDAP-server:">
 <!ENTITY directoriesText.accesskey "V">
-<!ENTITY autocomplete.title "LDAP-server">
 <!ENTITY addDirectory.label "Tilføj">
 <!ENTITY addDirectory.accesskey "t">
 <!ENTITY editDirectory.label "Rediger">

@@ -1,21 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Importer">
-<!ENTITY importDialog.mailTitle "E-mail">
-<!ENTITY importDialog.addressbookTitle "Adressebøger">
-<!ENTITY importDialog.settingsTitle "Indstillinger">
-<!ENTITY importTitle.label "&brandShortName; e-mail import guide">
-<!ENTITY importDesc.label "Importer e-mail, adressebøger og indstillinger fra andre programmer">
-<!ENTITY importDescription.label "Denne guide vil importere e-mail-meddelelser, adressebogsindhold og/eller indstillinger fra andre postprogrammer og standard-adressebogsformater til &brandShortName;.">
-<!ENTITY importDescription2.label "Når de er blevet importeret, kan du få adgang til dem fra &brandShortName;s postprogram og/eller adressebog.">
-<!ENTITY selectDescription.label "Vælg venligst det program du ønsker at importere fra:">
+<!ENTITY importAll.label          "Importer alt">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "Mail">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "Adressebøger">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Indstillinger">
+<!ENTITY importSettings.accesskey "I">
+<!ENTITY importFilters.label      "Filtre">
+<!ENTITY importFilters.accesskey  "F">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "&brandShortName; import-guide">
+<!ENTITY importShortDesc.label    "Importer e-mail, adressebøger, indstillinger og filtre fra andre programmer">
+
+<!ENTITY importDescription1.label "Denne guide vil importere e-mail-meddelelser, adressebogsindhold, indstillinger og/eller filtre fra andre mailprogrammer og standard adressebogsformater til &brandShortName;.">
+<!ENTITY importDescription2.label "Når de er blevet importeret, kan du få adgang til dem i &brandShortName;.">
+
+<!ENTITY selectDescription.label "Vælg venligst den type fil du ønsker at importere:">
+<!ENTITY selectDescription.accesskey "V">
+
 <!ENTITY back.label "&lt; Tilbage">
 <!ENTITY forward.label "Næste &gt;">
 <!ENTITY finish.label "Færdig">
 <!ENTITY cancel.label "Annuller">
-<!ENTITY select.label "Vælg den type materiale der skal importeres:">
+
+<!ENTITY select.label "eller vælg den type materiale der skal importeres:">
+
 <!ENTITY title.label "Titel">
-<!ENTITY processing.label "Importerer...">
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x har en e-mail-adresse for hvert kort, men &brandShortName; har to (Hjem og arbejde).">
+<!ENTITY processing.label "Importerer…">
+
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x har en e-mail-adresse for hvert kort, mens &brandShortName; har to (hjemme og arbejde).">
 <!ENTITY FieldDiscInputText2.label "Vælg den kategori, hvori du ønsker at gemme de importerede e-mail-adresser:">
 <!ENTITY FieldDiscWarning.label "Denne kategori vil blive benyttet til alle poster i den vagle adressebog:">
-<!ENTITY importDialog.homeTitle "Hjem">
-<!ENTITY importDialog.workTitle "Arbejde">
+<!ENTITY importHome.label        "Hjemme">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "Arbejde">
+<!ENTITY importWork.accesskey    "r">

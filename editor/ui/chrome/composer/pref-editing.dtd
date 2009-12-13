@@ -2,9 +2,9 @@
 <!ENTITY authorName.label "Forfatter:">
 <!ENTITY authorName.accesskey "F">
 <!ENTITY pageColorHeader "Standard sideudseende">
-<!ENTITY defaultColorsRadio.label "Brugerens standardfarver (Angiv ikke farver)">
+<!ENTITY defaultColors.label "Brugerens standardfarver (Angiv ikke farver)">
 <!ENTITY defaultColors.accesskey "s">
-<!ENTITY customColorsRadio.label "Brug brugerdefinerede farver:">
+<!ENTITY customColors.label "Brug brugerdefinerede farver:">
 <!ENTITY customColors.accesskey "f">
 <!ENTITY normalText.label "Normal tekst">
 <!ENTITY normalText.accesskey "n">

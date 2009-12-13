@@ -1,0 +1,60 @@
+<!ENTITY itemJunk.label          "SPAM">
+<!ENTITY itemPhishing.label      "E-mail-svindel">
+<!ENTITY itemPasswords.label     "Adgangskoder">
+<!ENTITY itemAntiVirus.label     "Antivirus">
+<!ENTITY itemCookies.label       "Web-indhold">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Du kan redigere kontospecifikke spam-indstillinger i menuen Kontoindstillinger.">
+<!ENTITY manualMark.label "Når du markere meddelesen som spam::">
+<!ENTITY manualMark.accesskey "N">
+<!ENTITY manualMarkModeMove.label "Flyt dem til kontoens &quot;spam-mappe&quot;">
+<!ENTITY manualMarkModeMove.accesskey "F">
+<!ENTITY manualMarkModeDelete.label "Slet dem">
+<!ENTITY manualMarkModeDelete.accesskey "S">
+<!ENTITY markAsReadOnSpam.label "Marker spam-meddelelser som læste">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Aktiver spam-filter logning">
+<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY openJunkLog.label "Vis log">
+<!ENTITY openJunkLog.accesskey "V">
+<!ENTITY resetTrainingData.label "Nulstil indlærte data">
+<!ENTITY resetTrainingData.accesskey "N">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meddelelser for e-mail-svindel ved at se efter standardteknikker, som benyttes til at snyde dig.">
+<!ENTITY enablePhishingDetector1.label    "Fortæl mig, hvis meddelelsen jeg læser er e-mail-svindel">
+<!ENTITY enablePhishingDetector1.accesskey  "F">
+<!ENTITY useDownloadedList.label "Benyt en downloaded liste over mistænkelig e-mail-svindel">
+<!ENTITY useDownloadedList.accesskey "B">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; kan huske adgangskoder til alle dine konti, så du ikke behøver at indtaste dem.">
+<!ENTITY useMasterPassword.label        "Brug hovedadgangskode">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Hovedadgangskoden beskytter alle dine adgangskoder, men du skal indtaste den ved hver opstart.">
+<!ENTITY changeMasterPassword.label     "Skift hovedadgangskode…">
+<!ENTITY changeMasterPassword.accesskey "S">
+<!ENTITY savedPasswords.label           "Gemte adgangskoder…">
+<!ENTITY savedPasswords.accesskey       "G">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; kan gøre det lettere for antivirusprogrammer at analysere indkommende meddelelser for virus, før de gemmes lokalt.">
+<!ENTITY antiVirus.label      "Tillad antivirusprogrammer at sætte indkommende meddelelser i karantæne">
+<!ENTITY antiVirus.accesskey  "T">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; lader dig specificere hvilke blogs, nyheds-feeds, og andre websteder der har lov til at gemme cookies.">
+<!ENTITY acceptCookies.label            "Accepter cookies fra websted">
+<!ENTITY acceptCookies.accesskey        "A">
+<!ENTITY keepUntil.label                "Behold indtil:">
+<!ENTITY keepUntil.accesskey            "B">
+<!ENTITY expire.label                   "de udløber">
+<!ENTITY close.label                    "Jeg lukker &brandShortName;">
+<!ENTITY askEachTime.label              "spørg mig hvergang">
+<!ENTITY cookieExceptions.label         "Undtagelser…">
+<!ENTITY cookieExceptions.accesskey     "U">
+<!ENTITY showCookies.label              "Vis cookies…">
+<!ENTITY showCookies.accesskey          "V">
+
+
