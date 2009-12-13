@@ -22,7 +22,7 @@
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName;는 여러분을 속이는데 사용하는 일반적 기법을 찾아 메일이 사기성이 있는지 여부를 분석합니다.">
+<!ENTITY phishingDetector1.intro  "&brandShortName;는 여러분을 속이는 사기 기법을 찾아 메일의 사기성 여부를 분석합니다.">
 <!ENTITY enablePhishingDetector1.label    "사기 메일로 의심될 때 알려 주기">
 <!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "사기 메일 의심 목록 이용">
