@@ -33,11 +33,11 @@
 <!ENTITY errorpatching.title "업데이트 실패">
 <!ENTITY errorpatching.intro "부분적인 업데이트를 할 수 없습니다. &brandShortName;가 업데이트 다운로드를 재시도 합니다.">
 <!ENTITY finishedPage.title "업데이트 설치 준비 완료">
-<!ENTITY finishedPage.text "업데이트는 &brandShortName; 재시작시 적용 합니다. 지금 &brandShortName;를 재시작 하거나 나중에 하실 수 있습니다.">
+<!ENTITY finishedPage.text "&brandShortName;를 재시작 하면 업데이트가 적용됩니다. &brandShortName;를 지금 재시작하거나 나중에 할 수 있습니다.">
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; 보안 및 안정성 업데이트를 다운로드 하였고 설치 준비가 완료되었습니다.">
 <!ENTITY finishedBackground.name "업데이트:">
 <!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more "업데이트는 &brandShortName; 재시작시 적용 합니다. 지금 &brandShortName;를 재시작 하거나 나중에 하실 수 있습니다.">
+<!ENTITY finishedBackground.more "&brandShortName;를 재시작 하면 업데이트가 적용됩니다. &brandShortName;를 지금 재시작하거나 나중에 할 수 있습니다.">
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
 <!ENTITY installed.title "업데이트 설치 완료">
 <!ENTITY installed.intro "업데이트 설치가 완료되었습니다.">
