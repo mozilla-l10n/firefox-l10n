@@ -39,7 +39,7 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "지운 편지함을 비우고 닫기">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "프로그램 시작 할때 새 메시지 확인">
+<!ENTITY loginAtStartup.label "프로그램 시작할 때 새 메시지 확인">
 <!ENTITY loginAtStartup.accesskey "C">
 <!ENTITY maxMessagesStart.label "받아오기 전 확인">
 <!ENTITY maxMessagesStart.accesskey "m">
