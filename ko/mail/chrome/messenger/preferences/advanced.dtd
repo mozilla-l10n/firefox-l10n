@@ -27,14 +27,14 @@
 <!ENTITY showCondensedAddresses.label  "주소록에서 사람에 대한 표시명만 보이기">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label          "메시지에 자동으로 읽음 표시">
+<!ENTITY autoMarkAsRead.label          "메시지를 자동으로 읽은 것으로 표시">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "출력 후 즉시">
 <!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "다음 시간 경과시에 읽음 표시: ">
+<!ENTITY markAsReadDelay.label         "다음 시간이 경과되었을 시 읽은 것으로 표시: ">
 <!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "초">
 <!ENTITY openMsgIn.label               "메시지 열기:">

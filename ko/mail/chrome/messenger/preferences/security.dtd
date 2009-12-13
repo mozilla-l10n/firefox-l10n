@@ -12,7 +12,7 @@
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "바로 삭제">
 <!ENTITY manualMarkModeDelete.accesskey "D">
-<!ENTITY markAsReadOnSpam.label "스팸으로 표시된 메시지는 읽음으로 표시">
+<!ENTITY markAsReadOnSpam.label "스팸으로 표시된 메시지는 읽은 것으로 표시">
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableJunkLogging.label "로그인 시 스팸 처리 실행">
 <!ENTITY enableJunkLogging.accesskey "E">
@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName;는 쿠키를 허가 할 블러그, 뉴스 피드, 웹 사이트를 지정할 수 있습니다. ">
+<!ENTITY cookies.intro                  "&brandShortName;는 블로그, 뉴스 피드, 웹 사이트의 쿠키 허용여부를 지정할 수 있습니다.">
 <!ENTITY acceptCookies.label            "사이트의 쿠기 허가">
 <!ENTITY acceptCookies.accesskey        "c">
 <!ENTITY keepUntil.label                "유지:">
