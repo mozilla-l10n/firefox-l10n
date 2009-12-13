@@ -24,7 +24,7 @@
 <!ENTITY backgroundColor.accesskey "b">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "표정 아이콘 표시">
+<!ENTITY convertEmoticons.label "이모티콘 표시">
 <!ENTITY convertEmoticons.accesskey "D">
 
 <!-- labels -->
