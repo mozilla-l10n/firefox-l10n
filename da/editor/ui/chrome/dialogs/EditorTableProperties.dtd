@@ -27,25 +27,19 @@
 <!ENTITY tableCaption.accessKey "O">
 <!ENTITY tableCaptionAbove.label "Over tabel">
 <!ENTITY tableCaptionBelow.label "Under tabelen">
-<!ENTITY tableCaptionLeft.label "Til venstre for tabelen">
-<!ENTITY tableCaptionRight.label "Til højre for tabelen">
+<!ENTITY tableCaptionLeft.label "Til venstre for tabellen">
+<!ENTITY tableCaptionRight.label "Til højre for tabellen">
 <!ENTITY tableCaptionNone.label "Ingen">
 <!ENTITY tableInheritColor.label "(Dæk ikke sidens baggrundsfarve)">
-<!ENTITY cellPercent.label "procent af tabellen">
 <!ENTITY cellSelection.label "Det valgte">
 <!ENTITY cellSelectCell.label "Celle">
 <!ENTITY cellSelectRow.label "Række">
 <!ENTITY cellSelectColumn.label "Kolonne">
 <!ENTITY cellSelectNext.label "Næste">
 <!ENTITY cellSelectNext.accessKey "N">
-<!ENTITY cellSelectPrevious.label "Forige">
+<!ENTITY cellSelectPrevious.label "Forrige">
 <!ENTITY cellSelectPrevious.accessKey "F">
-<!ENTITY cellApplyBeforeMove.label "Gem ændringer før markeringen ændres">
-<!ENTITY cellKeepCurrentData.label "Bevar nuværende indstillinger">
-<!ENTITY applyBeforeChange1.label "Nuværende ændringer bliver gemt">
-<!ENTITY applyBeforeChange2.label "før ændring af markeringen.">
-<!ENTITY cellRowSpan.label "Rækkespænd:">
-<!ENTITY cellColSpan.label "Kolonnespænd:">
+<!ENTITY applyBeforeChange.label "Nuværende ændringer bliver gemt før ændring af markeringen.">
 <!ENTITY cellContentAlignment.label "Justering af indholdet">
 <!ENTITY cellHorizontal.label "Vandret:">
 <!ENTITY cellHorizontal.accessKey "o">
@@ -63,7 +57,6 @@
 <!ENTITY cellAlignMiddle.label "Midten">
 <!ENTITY cellAlignBottom.label "Bunden">
 <!ENTITY cellAlignJustify.label "Lige margen">
-<!ENTITY cellAlignAtChar.label "Ved tegn:">
 <!ENTITY cellInheritColor.label "(Dæk ikke tabellens baggrundsfarve)">
 <!ENTITY cellUseCheckboxHelp.label "Brug afkrydsningsfelter til at bestemme hvilke egenskaber der gælder alle markerede celler">
 <!ENTITY size.label "Størrelse:">

@@ -7,7 +7,6 @@
 <!ENTITY bulletList.value "Uordnet (Unummereret) liste">
 <!ENTITY numberList.value "Ordnet liste">
 <!ENTITY definitionList.value "Definitionsliste">
-<!ENTITY changeListMsg.label "Ved skift af listetype:">
 <!ENTITY changeEntireListRadio.label "Ændr hele listen:">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Ændr kun markerede elementer">

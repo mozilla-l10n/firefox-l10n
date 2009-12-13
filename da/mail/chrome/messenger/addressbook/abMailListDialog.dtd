@@ -4,7 +4,6 @@
 <!ENTITY ListNickName.label "Liste kaldenavn:">
 <!ENTITY ListDescription.label "Beskrivelse:">
 <!ENTITY AddressTitle.label "Indtast navne eller træk adresser ind i postlisten nedenfor:">
-<!ENTITY RemoveButton.label "Fjern">
 <!ENTITY UpButton.label "Flyt op">
 <!ENTITY DownButton.label "Flyt ned">
 <!ENTITY addToAddressBook.accesskey "T">

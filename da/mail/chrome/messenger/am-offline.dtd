@@ -1,11 +1,13 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For at spare diskplads, hentes følgende ikke:">
-<!ENTITY doNotDownload.label "For at spare diskplads hentes, følgende ikke til offline-brug:">
-<!ENTITY offlineNewFolder.label "Når jeg opretter nye mapper, marker dem til offline-brug">
-<!ENTITY offlineNewFolder.accesskey "o">
+<!ENTITY doNotDownloadNntp.label "For at spare plads, hent ikke til offline-brug:">
+<!ENTITY doNotDownloadImap.label "Du kan spare plads ved at begrænse hentning af meddelelser til offline-brug ud fra alder eller størrelse.">
+<!ENTITY allFoldersOffline.label "Behold denne kontos meddelelser på denne computer">
+<!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY offlineNotDownload.label "Meddelelser større end">
 <!ENTITY offlineNotDownload.accesskey "s">
+<!ENTITY autosyncNotDownload.label "Hent ikke meddelelser større end">
+<!ENTITY autosyncNotDownload.accesskey "s">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "dage">
 <!ENTITY daysOld.label "dage gammel">
 <!ENTITY message.label "meddelelser">
 <!ENTITY nntpNotDownloadRead.label "Læste meddelelser">
@@ -13,21 +15,42 @@
 <!ENTITY nntpDownloadMsg.label "Meddelelser mere end">
 <!ENTITY nntpDownloadMsg.accesskey "m">
 <!ENTITY retentionCleanup.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent">
+<!ENTITY retentionCleanupImap.label "For at frigive plads kan gamle meddelelser slettes permanent, både de lokale kopier og de originale meddelelser på serveren.">
+<!ENTITY retentionCleanupPop.label "For at frigive plads kan gamle meddelelser slettes permanent, inklusive de originale meddelelser på serveren.">
 <!ENTITY retentionKeepMsg.label "Slet meddelelser, som er mere end">
 <!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Slet ingen meddelelser">
 <!ENTITY retentionKeepAll.accesskey "i">
-<!ENTITY retentionKeepNew.label "Slet alle, bortset fra nyeste">
-<!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "Slet læste meddelelser">
-<!ENTITY retentionKeepUnread.accesskey "l">
-<!ENTITY nntpRemoveBody.label "Kun meddelelser mindre end">
-<!ENTITY nntpRemoveBody.accesskey "m">
-<!ENTITY offlineSelectNntp.label "Vælg nyhedsgrupper til brug offline...">
-<!ENTITY offlineSelectImap.label "Vælg mapper til brug offline...">
-<!ENTITY offlineSelect.accesskey "v">
-<!ENTITY offlineDesc.label "Du kan hente dine meddelelser ned lokalt, så de er til rådighed, når du arbejder offline.">
-<!ENTITY makeInboxMsgsAvailable.label "Lad meddelelserne i Indbakke være til rådighed, når jeg er offline">
-<!ENTITY makeInboxMsgsAvailable.accesskey "L">
-<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY retentionKeepRecent.label "Slet alle, bortset fra nyeste">
+<!ENTITY retentionKeepRecent.accesskey "n">
+
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Slet altid læste meddelelser (overtrumfer aldersvalg)">
+<!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
+
+<!ENTITY nntpRemoveMsgBody.label "Fjern meddelelsesindhold fra meddelelser der er mere end">
+<!ENTITY nntpRemoveMsgBody.accesskey "i">
+<!ENTITY offlineImapAdvancedOffline.label "Avanceret…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY offlineSelectNntp.label "Vælg nyhedsgrupper til brug offline…">
+<!ENTITY offlineSelectNntp.accesskey "n">
+<!ENTITY syncGroupTitle.label "Synkronisering af meddelelser">
 <!ENTITY diskspaceGroupTitle.label "Diskplads">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Synkroniser alle meddelelser lokalt, uanset alder">
+<!ENTITY allAutosync.accesskey           "A">
+<!ENTITY ageAutosyncBefore.label         "Synkroniser de nyeste">
+<!ENTITY ageAutosync.accesskey           "n">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dage">
+<!ENTITY weekAgeInterval.label           "Uger">
+<!ENTITY monthAgeInterval.label          "Måneder">
+<!ENTITY yearAgeInterval.label           "År">
+<!ENTITY ageAutosyncAfter.label          "">

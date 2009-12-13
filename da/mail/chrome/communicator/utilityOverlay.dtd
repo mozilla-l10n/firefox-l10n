@@ -1,9 +1,12 @@
-<!ENTITY offlineGoOfflineCmd.label "Arbejd offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "o">
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nyt">
 <!ENTITY newMenu.accesskey "N">
+
 <!ENTITY editMenu.label "Rediger">
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Fortryd">
@@ -22,38 +25,36 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Slet">
-<!ENTITY deleteCmd.key "D">
+
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Marker alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Indstillinger...">
+<!ENTITY preferencesCmd.label "Indstillinger…">
 <!ENTITY preferencesCmd.accesskey "I">
-<!ENTITY preferencesCmdUnix.label "Egenskaber">
-<!ENTITY preferencesCmdUnix.accesskey "E">
-<!ENTITY findTypeTextCmd.label "Find tekst, mens du taster">
-<!ENTITY findTypeTextCmd.accesskey "t">
+<!ENTITY preferencesCmdUnix.label "Præferencer">
+<!ENTITY preferencesCmdUnix.accesskey "P">
+
 <!ENTITY viewMenu.label "Vis">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Værktøjslinjer">
 <!ENTITY viewToolbarsMenu.accesskey "V">
 <!ENTITY showTaskbarCmd.label "Statuslinjen">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY direct.label "Online (proxy: none)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Online (proxy: manual)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "Online (proxy: auto)">
-<!ENTITY pac.accesskey "a">
-<!ENTITY proxy.label "Proxy-konfiguration...">
+
+<!ENTITY proxy.label "Proxy-konfiguration…">
 <!ENTITY proxy.accesskey "k">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
+
 <!ENTITY closeCmd.label "Luk">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
+
 <!ENTITY quitApplicationCmd.label "Afslut">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "A">
+
 <!ENTITY quitApplicationCmdUnix.label "Afslut">
 <!ENTITY quitApplicationCmdUnix.accesskey "A">
+
+<!ENTITY quitApplicationCmdMac.label  "Afslut &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "A">

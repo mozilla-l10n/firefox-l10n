@@ -1,12 +1,11 @@
-<!ENTITY notificationsDialog.title "Lyd ved ny meddelelse">
+<!ENTITY notificationsDialog2.title       "Definer Ny Mail Underretning">
 <!ENTITY window.width "30em">
-<!ENTITY soundNotification.caption "Konfigurer lyd for ny meddelelse">
-<!ENTITY preview.label "Afspil lyd">
-<!ENTITY preview.accesskey "a">
-<!ENTITY systemsound.label "Systemets Ny Mail lyd">
-<!ENTITY systemsoundMac.label "Systemets Advarsel lyd">
-<!ENTITY systemsound.accesskey "y">
-<!ENTITY customsound.label "Brugervalgt .wav-fil">
-<!ENTITY customsound.accesskey "b">
-<!ENTITY browse.label "Gennemse...">
-<!ENTITY browse.accesskey "G">
+<!ENTITY alertCustomization.intro         "Vælg hvilke felter der vises i boksen:">
+<!ENTITY previewText.label                "Udsnit af meddelelsen">
+<!ENTITY previewText.accesskey            "U">
+<!ENTITY subject.label                    "Emne">
+<!ENTITY subject.accesskey                "E">
+<!ENTITY sender.label                     "Afsender">
+<!ENTITY sender.accesskey                 "A">
+
+

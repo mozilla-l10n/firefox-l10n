@@ -1,12 +1,12 @@
 <!ENTITY replaceDialog.title "Søg og erstat">
 <!ENTITY findField.label "Find tekst:">
-<!ENTITY findField.accesskey "t">
+<!ENTITY findField.accesskey "F">
 <!ENTITY replaceField.label "Erstat med:">
 <!ENTITY replaceField.accesskey "m">
 <!ENTITY caseSensitiveCheckbox.label "Tag hensyn til store og små bogstaver">
 <!ENTITY caseSensitiveCheckbox.accesskey "T">
 <!ENTITY wrapCheckbox.label "Ombryd linjer">
-<!ENTITY wrapCheckbox.accesskey "m">
+<!ENTITY wrapCheckbox.accesskey "O">
 <!ENTITY backwardsCheckbox.label "Søg bagud">
 <!ENTITY backwardsCheckbox.accesskey "S">
 <!ENTITY findNextButton.label "Find næste">
@@ -18,4 +18,3 @@
 <!ENTITY replaceAllButton.label "Erstat alle">
 <!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Luk">
-<!ENTITY notFoundWarning.label "Den tekst du skrev blev ikke fundet.">

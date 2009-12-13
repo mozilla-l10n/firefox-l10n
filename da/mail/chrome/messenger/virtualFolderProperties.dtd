@@ -3,9 +3,6 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Opret som en undermappe til:">
 <!ENTITY description.accesskey "O">
-<!ENTITY searchCriteriaText.label "Ændre søgekriterierne brugt i denne virtuelle mappe:">
-<!ENTITY searchCriteriaButton.label "Søgekriterier...">
-<!ENTITY searchCriteriaButton.accesskey "S">
 <!ENTITY searchTermCaption.label "Indstil søgekriterierne for denne virtuelle mappe:">
 <!ENTITY folderSelectionCaption.label "Vælg mapper der skal søges i:">
 <!ENTITY chooseFoldersButton.label "Vælg...">

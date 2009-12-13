@@ -9,25 +9,23 @@
 <!ENTITY sendHTML.accesskey "s">
 <!ENTITY sendBoth.label "Send meddelelsen som både HTML og ren tekst">
 <!ENTITY sendBoth.accesskey "b">
-<!ENTITY receiveHTML.label "Hvis du ved at en bestemt modtager kan læse HTML-post, så fjern markeringen i afkrydsningsfeltet &quot;Send post som ren tekst (ikke HTML)&quot; i adressebogskortet for modtageren.">
 <!ENTITY override.label "Note: Brug Adressebog til at specificere tekst formater for modtagere.">
+
 <!ENTITY domaindesc.label "Når du sender en meddelelse til en adresse i et af nedenstående domæner, sender &brandShortName; den automatisk i det rigtige format.">
 <!ENTITY HTMLTab.label "HTML-domæner">
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Ren tekst-domæner">
 <!ENTITY PlainTextTab.accesskey "R">
-<!ENTITY AddButton.label "Tilføj...">
-<!ENTITY AddHtmlDomain.accesskey "l">
-<!ENTITY AddPlainText.accesskey "T">
-<!ENTITY DeleteButton.label "Slet">
+<!ENTITY AddHtmlDomain.label "Tilføj…">
+<!ENTITY AddHtmlDomain.accesskey "T">
+<!ENTITY AddPlainText.label "Tilføj…">
+<!ENTITY AddPlainText.accesskey "i">
+<!ENTITY DeleteHtmlDomain.label "Slet">
 <!ENTITY DeleteHtmlDomain.accesskey "S">
+<!ENTITY DeletePlainText.label "Slet">
 <!ENTITY DeletePlainText.accesskey "e">
+
 <!ENTITY add.htmltitle "Tilføj HTML-domæne">
 <!ENTITY add.htmldomain "HTML-domæne:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Tilføj ren tekst domæne">
 <!ENTITY add.plaintextdomain "Ren tekst domæne:">
-<!ENTITY add.plaintext.accesskey "d">
-<!ENTITY domainnameError.title "Fejl i domænenavn">
-<!ENTITY duplicationError.label "Domænet @string@ eksisterer allerede i listen.">
-<!ENTITY dualEntryError.label "Samme domæne må ikke optræde i både listen over HTML-domæner og tekst-domæner. Domænet @string@ eksisterer allerede allerede.">

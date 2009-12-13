@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "Avancerede kontoindstillinger">
-<!ENTITY imapAdvanced.label "Avancerede indstillinger for IMAP-server">
 <!ENTITY serverDirectory.label "IMAP-servermappe:">
 <!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "Vis kun mapper der abonneres på">
@@ -20,7 +19,6 @@
 <!ENTITY overrideNamespaces.label "Tillad serveren at se bort fra disse navneområder">
 <!ENTITY overrideNamespaces.accesskey "n">
 <!ENTITY pop3Desc.label "Når der hentes POP3 meddelelser fra denne server, så benyt følgende mapper:">
-<!ENTITY folderStorage.label "Placer meddelelser i">
 <!ENTITY globalInbox.label "Global Indbakke (Lokale Mapper Konto)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Indbakke for denne servers konto">

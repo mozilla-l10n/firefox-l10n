@@ -1,45 +1,58 @@
 <!ENTITY folderProps.windowtitle.label "Egenskaber">
+
 <!ENTITY generalInfo.label "Generel information">
 <!ENTITY folderCharsetTab.label "Standardtegnsæt:">
 <!ENTITY folderCharsetTab.accesskey "S">
 <!ENTITY folderCharsetOverride.label "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnsætindstillinger og auto-opdagelse vil blive ignoreret)">
 <!ENTITY folderCharsetOverride.accesskey "G">
+<!ENTITY folderRebuildSummaryFile.label          "Genopbyg indeks">
+<!ENTITY folderRebuildSummaryFile.accesskey      "G">
+<!ENTITY folderRebuildSummaryFileTip.label       "Genopbyg sammendragsfil"> 
+
 <!ENTITY retention.label "Opbevaringsretningslinje">
-<!ENTITY retentionUseDefault.label "Benyt kontoindstillinger">
-<!ENTITY retentionUseDefault.accesskey "B">
-<!ENTITY days.label "dage">
+<!ENTITY retentionUseAccount.label  "Brug mine kontoindstillinger">
+<!ENTITY retentionUseAccount.accesskey "B">
 <!ENTITY daysOld.label "dage gammel">
 <!ENTITY message.label "meddelelser">
 <!ENTITY retentionCleanup.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent">
-<!ENTITY retentionKeepMsg.label "Slet meddelelser, som er mere end">
-<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY retentionCleanupImap.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent, både de lokale kopier og de originale på den eksterne server.">
+<!ENTITY retentionCleanupPop.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent, inklusive de originale på den eksterne server.">
+<!ENTITY retentionDeleteMsg.label "Slet meddelelser der er mere end">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Slet ingen meddelelser">
 <!ENTITY retentionKeepAll.accesskey "i">
-<!ENTITY retentionKeepNew.label "Slet alle, bortset fra nyeste">
-<!ENTITY retentionKeepNew.accesskey "a">
-<!ENTITY retentionKeepUnread.label "Slet læste meddelelser">
-<!ENTITY retentionKeepUnread.accesskey "l">
-<!ENTITY folderOfflineTab.label "Offline">
+<!ENTITY retentionKeepRecent.label "Slet alle undtagen de seneste">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Slet altid læste meddelelser (tilsidesætter indstillinger for alder)">
+<!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Synkronisering">
 <!ENTITY folderCheckForNewMessages.label "Kontroller denne mappe for nye meddelelser">
 <!ENTITY folderCheckForNewMessages.accesskey "K">
-<!ENTITY offlineFolder.check.label "Vælg denne mappe til anvendelse offline">
-<!ENTITY offlineFolder.check.accesskey "O">
-<!ENTITY offlineFolder.button.label "Download nu">
-<!ENTITY offlineFolder.button.accesskey "F">
-<!ENTITY selectofflineNewsgroup.check.label "Vælg denne nyhedsgruppe til anvendelse offline">
-<!ENTITY selectofflineNewsgroup.check.accesskey "g">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Benyt kontoindstillinger">
+
+<!ENTITY offlineFolder.check.label "Vælg denne mappe til offline-brug">
+<!ENTITY offlineFolder.check.accesskey "æ">
+<!ENTITY offlineFolder.button.label "Hent nu">
+<!ENTITY offlineFolder.button.accesskey "u">
+
+<!ENTITY selectofflineNewsgroup.check.label "Vælg denne nyhedsgruppe til offline-brug">
+<!ENTITY selectofflineNewsgroup.check.accesskey "V">
 <!ENTITY offlineNewsgroup.button.label "Hent nu">
-<!ENTITY offlineNewsgroup.button.accesskey "i">
-<!ENTITY folderProps.information.label "Oplysninger:">
+<!ENTITY offlineNewsgroup.button.accesskey "H">
+
 <!ENTITY folderProps.name.label "Navn:">
-<!ENTITY folderProps.name.accesskey "e">
+<!ENTITY folderProps.name.accesskey "a">
+<!ENTITY folderProps.location.label              "Placering:">
+<!ENTITY folderProps.location.accesskey          "P">
+
 <!ENTITY folderSharingTab.label "Deling">
-<!ENTITY privilegesDesc.label "Del denne og andre mapper med netværksbrugere, og vis/indstil adgangsrettigheder.">
-<!ENTITY privileges.button.label "Rettigheder...">
+<!ENTITY privileges.button.label "Rettigheder…">
 <!ENTITY privileges.button.accesskey "R">
 <!ENTITY permissionsDesc.label "Du har følgende tilladelser:">
 <!ENTITY folderType.label "Mappetype:">
+
 <!ENTITY folderQuotaTab.label "Kvote">
 <!ENTITY folderQuotaRoot.label "Kvote-rod:">
 <!ENTITY folderQuotaUsage.label "Forbrug:">

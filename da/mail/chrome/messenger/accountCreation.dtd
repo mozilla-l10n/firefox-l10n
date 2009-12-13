@@ -1,0 +1,74 @@
+<!ENTITY autoconfigWizard.title          "Opret mailkonto">
+<!ENTITY name.label                      "Dit navn:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Fornavn Efternavn">
+<!ENTITY name.text                       "Dit navn som andre skal se det">
+<!ENTITY email.label                     "Din mailadresse:">
+<!ENTITY email.accesskey                 "m">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "Adgangskode:">
+<!ENTITY password.accesskey              "A">
+<!ENTITY password.emptytext              "Adgangskode">
+<!ENTITY password.text                   "Valgfri, vil kun blive brugt til at validere brugernavnet">
+
+<!ENTITY accountInformation.label        "Kontooplysninger">
+<!ENTITY username2.label                 "Brugernavn:">
+<!ENTITY incoming.label                  "Indgående:">
+<!ENTITY outgoing.label                  "Udgående:">
+<!ENTITY noEncryption.label              "Ingen">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+
+<!ENTITY manualSetup.label               "Manuel opsætning…">
+<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY cancel.label                    "Annuller">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Fortsæt">
+<!ENTITY continue.accesskey              "F">
+<!ENTITY startOver.label                 "Forfra">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Afprøv konfigurationen">
+<!ENTITY retest.accesskey                "A">
+<!ENTITY edit.label                      "Rediger">
+<!ENTITY edit.accesskey                  "R">
+
+<!ENTITY rememberPassword.label          "Husk adgangskode">
+<!ENTITY rememberPassword.accesskey      "H">
+
+<!ENTITY warning.label                   "Advarsel!">
+<!ENTITY incomingSettings.label          "Indstillinger for indgående:">
+<!ENTITY outgoingSettings.label          "Indstillinger for udgående:">
+<!ENTITY technicaldetails.label          "Tekniske detaljer">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Jeg accepterer risikoen.">
+<!ENTITY confirmWarning.accesskey        "a">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Opret konto">
+<!ENTITY createAccount.accesskey         "O">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Rediger indstillinger">
+<!ENTITY changeSettings.accesskey        "R">
+<!ENTITY contactYourProvider.description "&brandShortName; lader dig bruge mailkontoen med den angivne konfiguration. Du bør dog kontakte din administrator eller mailudbyder angående disse usikre forbindelsesindstillinger. Se Thunderbirds FAQ for yderligere information.">
+<!ENTITY insecureServer.tooltip.title    "Advarsel! Dette er en usikret server.">
+<!ENTITY insecureServer.tooltip.details  "Klik på cirklen for at få flere oplysninger.">
+
+<!ENTITY insecureUnencrypted.description "Din mail og dine log-in-oplysninger sendes ukrypteret, så din adgangskode (og indholdet i dine mails) kan opsnappes af uvedkommende. &brandShortName; lader dig bruge mailkontoen med den angivne konfiguration. Du bør dog kontakte din mailudbyder for at få konfigureret serveren, så der benyttes en sikker forbindelse.">
+
+<!ENTITY insecureSelfSigned.description  "Serveren benytter et certifikat, som vi ikke stoler på. Det betyder, at vi ikke kan være sikre på, at uvedkommende ikke kan få adgang til de sendte data mellem &brandShortName; og serveren. &brandShortName; lader dig bruge forbindelsen, men du bør kontakte din mailudbyder for at få konfigureret serveren med et troværdigt certifikat.">
+<!ENTITY secureServer.description        "Tillykke! Dette er en sikker server.">

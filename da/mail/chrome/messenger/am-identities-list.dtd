@@ -1,8 +1,7 @@
-<!ENTITY identitiesListTitle.label "Identiteter tilknyttet denne konto">
-<!ENTITY identitiesListDesc.label "Fler identitetesunderstøttelse">
-<!ENTITY identitiesListAdd.label "Tilføj...">
+<!ENTITY identitiesListDesc.label "Understøttelse af flere identiteter">
+<!ENTITY identitiesListAdd.label "Tilføj…">
 <!ENTITY identitiesListAdd.accesskey "T">
-<!ENTITY identitiesListEdit.label "Rediger...">
+<!ENTITY identitiesListEdit.label "Rediger…">
 <!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDelete.label "Slet">
 <!ENTITY identitiesListDelete.accesskey "S">

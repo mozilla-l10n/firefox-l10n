@@ -1,6 +1,5 @@
 <!ENTITY windowTitle.label "Billedegenskaber">
 <!ENTITY pixelsPopup.value "pixler">
-<!ENTITY percentPopup.value "procent">
 <!ENTITY locationEditField.label "Billedets placering:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Skriv billedets navn eller placering">
@@ -13,7 +12,6 @@
 <!ENTITY noAltText.label "Brug ikke alternativ tekst">
 <!ENTITY noAltText.accessKey "D">
 <!ENTITY previewBox.label "Vis billedet">
-<!ENTITY MoreFewerButton.tooltip "Vis flere eller færre egenskaber at ændre på">
 <!ENTITY actualSize.label "Billedets egen størrelse:">
 <!ENTITY actualSizeRadio.label "Billedets egen størrelse">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -40,7 +38,6 @@
 <!ENTITY wrapRightPopup.value "Ombryd til højre">
 <!ENTITY wrapLeftPopup.value "Ombryd til venstre">
 <!ENTITY spacingBox.label "Afstand">
-<!ENTITY spacingBox.tooltip "Skriv et nummer for hvor meget luft der skal være omkring billedet">
 <!ENTITY leftRightEditField.label "Venstre og højre:">
 <!ENTITY leftRightEditField.accessKey "V">
 <!ENTITY topBottomEditField.label "Top og bund:">
@@ -49,10 +46,6 @@
 <!ENTITY borderEditField.accessKey "U">
 <!ENTITY showImageLinkBorder.label "Farvet kant rundt om billeder der er link">
 <!ENTITY showImageLinkBorder.accessKey "U">
-<!ENTITY makePageBackgroundCheckbox.label "Lav sidens baggrund">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Brug billede som sidebaggrund">
-<!ENTITY editImageButton.label "Rediger billede">
-<!ENTITY editImageButton.tooltip "Rediger billedfil i et andet program">
 <!ENTITY imageInputTab.label "Formular">
 <!ENTITY imageLocationTab.label "Sted">
 <!ENTITY imageDimensionsTab.label "Dimensioner">

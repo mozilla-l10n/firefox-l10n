@@ -2,5 +2,4 @@
 <!ENTITY unreadColumn.label "Ulæste">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Størrelse">
-<!ENTITY accounts.label "Konti">
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
+

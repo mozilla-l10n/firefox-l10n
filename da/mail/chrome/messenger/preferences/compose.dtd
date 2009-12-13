@@ -1,33 +1,38 @@
 <!ENTITY itemGeneral.label "Generelt">
 <!ENTITY itemAutoComplete.label "Adressering">
 <!ENTITY itemSpellCheck.label "Stavekontrol">
-<!ENTITY itemSendFormat.label "Sendeformat">
-<!ENTITY forwardReply.label "Videresend meddelelser">
+
 <!ENTITY forwardMsg.label "Videresend meddelelser som:">
 <!ENTITY forwardMsg.accesskey "v">
 <!ENTITY inline.label "En del af selve meddelelsen">
-<!ENTITY inline.accesskey "s">
 <!ENTITY asAttachment.label "Vedhæftet fil">
-<!ENTITY asAttachment.accesskey "v">
-<!ENTITY sendingMessagesHeader.label "Komposition af meddelelser">
+<!ENTITY addExtension.label "tilføj fil-endelse til filnavn">
+<!ENTITY addExtension.accesskey "t">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Skrifttype:">
+<!ENTITY font.accesskey                       "S">
+<!ENTITY size.label                           "Størrelse:">
+<!ENTITY size.accesskey                       "ø">
+<!ENTITY fontColor.label                      "Tekstfarve:">
+<!ENTITY fontColor.accesskey                  "F">
+<!ENTITY bgColor.label                        "Baggrundsfarve:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "Gendan standard">
+<!ENTITY restoreHTMLDefaults.accesskey        "G">
+
 <!ENTITY spellCheck.label "Udfør stavekontrol før meddelelsen sendes">
-<!ENTITY spellCheck.accesskey "s">
+<!ENTITY spellCheck.accesskey "U">
 <!ENTITY spellCheckInline.label "Anvend aktiv stavekontrol">
-<!ENTITY spellCheckInline.accesskey "A">
+<!ENTITY spellCheckInline1.accesskey          "n">
 <!ENTITY languagePopup.label "Sprog:">
 <!ENTITY languagePopup.accessKey "S">
 <!ENTITY downloadDictionaries.label "Hent flere ordbøger">
-<!ENTITY useMIME.label "Brug MIME-kodningen &quot;quoted printable&quot; i meddelelser der indeholder 8-bit tegn">
-<!ENTITY useMIME.accesskey "B">
 <!ENTITY warnOnSendAccelKey.label "Bekræft når genvejstaster bruges til at sende meddelelser">
 <!ENTITY warnOnSendAccelKey.accesskey "B">
 <!ENTITY autoSave.label "Gem automatisk hvert">
 <!ENTITY autoSave.accesskey "G">
 <!ENTITY autoSaveEnd.label "minut">
-<!ENTITY autoSaveEnd.accesskey "m">
-<!ENTITY wrapOutMsg.label "Ombryd tekstmeddelelser ved">
-<!ENTITY wrapOutMsg.accesskey "o">
-<!ENTITY char.label "tegn">
 <!ENTITY emailCollectionPicker.label "Tilføj e-mail-adresser til min:">
 <!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Adresse autofuldførelse">
@@ -36,17 +41,15 @@
 <!ENTITY addressingEnable.accesskey "L">
 <!ENTITY directories.label "LDAP-server:">
 <!ENTITY directories.accesskey "s">
-<!ENTITY editDirectories.label "Rediger LDAP-servere...">
+<!ENTITY directoriesNone.label "Ingen">
+<!ENTITY editDirectories.label "Rediger LDAP-servere…">
 <!ENTITY editDirectories.accesskey "R">
-<!ENTITY matchText.label "Hvis der er en tilsvarende i dine lokale adressebøger:">
-<!ENTITY skipDirectory.label "Søg ikke i LDAP">
-<!ENTITY sendOptionsCaption.label "Afsendelses- og HTML-indstillinger">
 <!ENTITY sendOptionsDescription.label "Konfigurering af meddelelsesindholdet:">
-<!ENTITY sendOptions.label "Afsendelsesindstillinger...">
+<!ENTITY sendOptions.label "Afsendelsesindstillinger…">
 <!ENTITY sendOptions.accesskey "A">
-<!ENTITY htmlComposeDescription.label "Konfigurer standard HTML-indstillinger:">
-<!ENTITY htmlCompose.label "HTML-indstillinger...">
-<!ENTITY htmlCompose.accesskey "H">
-<!ENTITY returnReceiptsInfo.label "Vælg hvordan &brandShortName; skal håndtere kvitteringer">
-<!ENTITY showReturnReceipts.label "Kvitteringer...">
-<!ENTITY showReturnReceipts.accesskey "K">
+
+<!ENTITY attachmentReminder.label              "Kontroller for manglede vedhæftninger">
+<!ENTITY attachmentReminder.accesskey          "K">
+<!ENTITY attachmentReminderOptions.label       "Stikord…">
+<!ENTITY attachmentReminderOptions.accesskey   "i">
+

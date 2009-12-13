@@ -10,14 +10,13 @@
 <!ENTITY alwaysUseUsername.accesskey "e">
 <!ENTITY userName.label "Brugernavn:">
 <!ENTITY userName.accesskey "B">
-<!ENTITY isSecure.label "Brug sikker forbindelse:">
-<!ENTITY neverSecure.label "Nej">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, hvis muligt">
-<!ENTITY sometimesSecure.accesskey "m">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY useSecAuth.label "Brug sikker authentifikation">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY connectionSecurity.label "Forbindelsessikkerhed:">
+<!ENTITY connectionSecurity.accesskey "F">
+<!ENTITY connectionSecurityType-0.label "Ingen">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, hvis tilgængelig">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standard:">

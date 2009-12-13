@@ -3,8 +3,9 @@
 <!ENTITY addressingText.label "Ved opslag af adresser:">
 <!ENTITY useGlobal.label "Brug mine globale LDAP-serverindstillinger for denne konto">
 <!ENTITY useGlobal.accesskey "U">
-<!ENTITY editDirectories.label "Rediger LDAP...">
+<!ENTITY editDirectories.label "Rediger LDAP…">
 <!ENTITY editDirectories.accesskey "R">
+<!ENTITY directoriesNone.label     "Ingen">
 <!ENTITY directories.label "Benyt en anden LDAP-server:">
 <!ENTITY directories.accesskey "B">
 <!ENTITY compositionGroupTitle.label "Nye meddelelser">
@@ -21,3 +22,7 @@
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "under det citerede (anbefalet)">
 <!ENTITY aboveText.label "under mit svar (over citatet)">
+<!ENTITY includeSigOnReply.label              "Brug signatur i svar">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Brug signatur ved videresendelse">
+<!ENTITY includeSigOnForward.accesskey        "v">

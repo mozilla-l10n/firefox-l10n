@@ -1,4 +1,4 @@
-<!ENTITY windowTitle.label "Horisontallinje egenskaber">
+<!ENTITY windowTitle.label "Linjeegenskaber">
 <!ENTITY dimensionsBox.label "Dimensioner">
 <!ENTITY heightEditField.label "Højde:">
 <!ENTITY heightEditField.accessKey "H">
@@ -6,13 +6,13 @@
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "pixler">
 <!ENTITY alignmentBox.label "Justering">
-<!ENTITY leftRadio.value "Venstre">
+<!ENTITY leftRadio.label "Venstre">
 <!ENTITY leftRadio.accessKey "V">
-<!ENTITY centerRadio.value "Centrer">
+<!ENTITY centerRadio.label "Centrer">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Højre">
+<!ENTITY rightRadio.label "Højre">
 <!ENTITY rightRadio.accessKey "H">
-<!ENTITY threeDShading.label "3-D skygger">
+<!ENTITY threeDShading.label "3-D-skygge">
 <!ENTITY threeDShading.accessKey "3">
 <!ENTITY saveSettings.label "Brug som standard">
 <!ENTITY saveSettings.accessKey "D">

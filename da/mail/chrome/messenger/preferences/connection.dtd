@@ -1,22 +1,20 @@
 <!ENTITY connectionsDialog.title "Forbindelsesindstillinger">
 <!ENTITY window.width "37em">
-<!ENTITY proxyTitle.label "Konfigurer proxier til at tilgå internettet">
-<!ENTITY directTypeRadio.label "Direkte forbindelse til internettet">
-<!ENTITY directTypeRadio.accesskey "d">
-<!ENTITY WPADTypeRadio.label "Opdag proxy-indstillinger for dette netværk automatisk">
-<!ENTITY WPADTypeRadio.accesskey "p">
-<!ENTITY manualTypeRadio.label "Manuel proxy-konfiguration">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "Automatisk proxy-konfigurations URL:">
-<!ENTITY autoTypeRadio.accesskey "a">
-<!ENTITY configAutoconfigText.label "Konfigurations placering (URL):">
-<!ENTITY configAutoconfigText.accesskey "K">
+
+<!ENTITY proxyTitle.label "Konfigurer proxy til at tilgå internettet">
+<!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "I">
+<!ENTITY  systemTypeRadio.label         "Brug systemets proxy indstillinger">
+<!ENTITY  systemTypeRadio.accesskey     "r">
+
+<!ENTITY WPADTypeRadio.label "Auto-detekter proxyindstillinger for dette netværk">
+<!ENTITY WPADTypeRadio.accesskey "A">
+<!ENTITY manualTypeRadio.label "Manuel proxykonfiguration">
+<!ENTITY manualTypeRadio.accesskey "M">
+<!ENTITY autoTypeRadio.label "Automatisk proxykonfigurations-URL:">
+<!ENTITY autoTypeRadio.accesskey "U">
 <!ENTITY reload.label "Genindlæs">
-<!ENTITY reload.accesskey "l">
-<!ENTITY ftp.label "FTP proxy:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher proxy:">
-<!ENTITY gopher.accesskey "G">
+<!ENTITY reload.accesskey "e">
 <!ENTITY http.label "HTTP proxy:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "SSL proxy">
@@ -27,11 +25,11 @@
 <!ENTITY socks4.accesskey "k">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Port:">
+<!ENTITY HTTPport.label "Port:">
 <!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.label  "Port:">
 <!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!ENTITY gopherPort.accesskey "e">
+<!ENTITY SOCKSport.label "Port:">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Ingen proxy for:">
 <!ENTITY noproxy.accesskey "n">

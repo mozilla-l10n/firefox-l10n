@@ -1,17 +1,4 @@
 <!ENTITY window.title "Filter regler">
-<!ENTITY subject.label "emne">
-<!ENTITY sender.label "afsender">
-<!ENTITY date.label "dato">
-<!ENTITY anyText.label "hele meddelelsen">
-<!ENTITY keyword.label "nøgleord">
-<!ENTITY age.label "alder i dage">
-<!ENTITY to.label "til">
-<!ENTITY cc.label "kopi til">
-<!ENTITY status.label "status">
-<!ENTITY priority.label "prioritet">
-<!ENTITY body.label "meddelelsestekst">
-<!ENTITY contains.label "indeholder">
-<!ENTITY nocontains.label "ikke indeholder">
 <!ENTITY filterName.label "Filternavn:">
 <!ENTITY filterName.accesskey "i">
 <!ENTITY junk.label "Spam">
@@ -21,23 +8,29 @@
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Høj">
 <!ENTITY highestPriorityCmd.label "Højest">
-<!ENTITY conditionDesc.label "Nye meddelelser der:">
 <!ENTITY filterActionDesc.label "Udfør disse funktioner:">
 <!ENTITY filterActionDesc.accesskey "U">
-<!ENTITY newFolderButton.label "Ny mappe...">
-<!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "Flyt meddelelse til">
 <!ENTITY copyMessage.label "Kopier meddelelse til">
 <!ENTITY forwardTo.label "Videresend meddelelse til">
 <!ENTITY replyWithTemplate.label "Besvar med skabelon">
 <!ENTITY markMessageRead.label "Marker som læst">
-<!ENTITY markMessageFlagged.label "Marker med statusflag">
-<!ENTITY labelMessage.label "Marker med etikette">
-<!ENTITY setPriority.label "Sæt prioritet til">
+<!ENTITY markMessageStarred.label "Påfør stjerne">
 <!ENTITY addTag.label "Marker meddelelse">
+<!ENTITY setPriority.label "Sæt prioritet til">
 <!ENTITY setJunkScore.label "Sæt spam-status til">
 <!ENTITY deleteMessage.label "Slet meddelelse">
 <!ENTITY deleteFromPOP.label "Slet fra POP-server">
 <!ENTITY fetchFromPOP.label "Hent fra POP-server">
 <!ENTITY ignoreThread.label "Ignorer tråd">
+<!ENTITY ignoreSubthread.label "Ignorer undertråd">
 <!ENTITY watchThread.label "Overvåg tråden">
+<!ENTITY stopExecution.label "Stop filter">
+
+<!ENTITY contextDesc.label "Kør filter ved:">
+<!ENTITY contextDesc.accesskey "K">
+<!ENTITY contextIncoming.label "Mailhentning">
+<!ENTITY contextManual.label "Manuel start">
+<!ENTITY contextBoth.label "Mailhentning og manuel start">
+<!ENTITY contextPostPlugin.label "Mailhentning (efter klassifikation)">
+<!ENTITY contextPostPluginBoth.label "Mailhentning (efter klassifikation) eller Manuel start">

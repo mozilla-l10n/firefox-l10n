@@ -1,71 +1,172 @@
-<!ENTITY chooseAddressBook.label "Tilføj til:">
-<!ENTITY chooseAddressBook.accesskey "T">
-<!ENTITY Contact.tab "Kontakt">
-<!ENTITY Name.box "Navn">
-<!ENTITY NameField1.id "FirstName">
-<!ENTITY NameField2.id "LastName">
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
-<!ENTITY PhoneticField2.id "PhoneticLastName">
-<!ENTITY NameField1.label "Fornavn:">
-<!ENTITY NameField1.accesskey "F">
-<!ENTITY NameField2.label "Efternavn:">
-<!ENTITY NameField2.accesskey "E">
-<!ENTITY PhoneticField1.label "Fonetisk:">
-<!ENTITY PhoneticField2.label "Fonetisk:">
-<!ENTITY DisplayName.label "Vis som:">
-<!ENTITY DisplayName.accesskey "V">
-<!ENTITY NickName.label "Kaldenavn">
-<!ENTITY NickName.accesskey "K">
-<!ENTITY Internet.box "Internet">
-<!ENTITY PrimaryEmail.label "E-mail-adresse">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "Yderligere e-mail">
-<!ENTITY SecondEmail.accesskey "Y">
-<!ENTITY PreferMailFormat.label "Foretrækker meddelelser i formatet:">
-<!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Ren tekst">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "Ukendt">
-<!ENTITY ScreenName.label "Skærmnavn">
-<!ENTITY ScreenName.accesskey "æ">
-<!ENTITY Phones.box "Telefoner">
-<!ENTITY WorkPhone.label "Arbejdstelefon">
-<!ENTITY WorkPhone.accesskey "A">
-<!ENTITY HomePhone.label "Hjemmetelefon">
-<!ENTITY HomePhone.accesskey "H">
-<!ENTITY FaxNumber.label "Fax">
-<!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "Personsøger">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY CellularNumber.label "Mobil">
-<!ENTITY CellularNumber.accesskey "M">
-<!ENTITY Address.tab "Adresse">
-<!ENTITY Home.box "Hjem">
-<!ENTITY HomeAddress.label "Adresse:">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeCity.label "By:">
-<!ENTITY HomeState.label "Stat/provins:">
-<!ENTITY HomeZipCode.label "Postnummer:">
-<!ENTITY HomeCountry.label "Land:">
-<!ENTITY HomeWebPage.label "Hjemmeside:">
-<!ENTITY Work.box "Arbejde">
-<!ENTITY JobTitle.label "Titel">
-<!ENTITY Department.label "Afdeling">
-<!ENTITY Company.label "Organisation">
-<!ENTITY WorkAddress.label "Adresse:">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkCity.label "By:">
-<!ENTITY WorkState.label "Stat/provins:">
-<!ENTITY WorkZipCode.label "Postnummer:">
-<!ENTITY WorkCountry.label "Land:">
-<!ENTITY WorkWebPage.label "Hjemmeside:">
-<!ENTITY Other.tab "Andet">
-<!ENTITY Custom1.label "Brugerdef. 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Brugerdef. 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Brugerdef. 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Brugerdef. 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.box "Notater">
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+ 
+<!ENTITY Contact.tab 						"Kontakt">
+<!ENTITY Contact.accesskey           	    "K">
+<!ENTITY Name.box 							"Navn">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label 				"Fornavn:">
+<!ENTITY NameField1.accesskey 			"F">
+<!ENTITY NameField2.label 				"Efternavn:">
+<!ENTITY NameField2.accesskey 			"E">
+<!ENTITY PhoneticField1.label 			"Fonetisk:">
+<!ENTITY PhoneticField2.label 			"Fonetisk:">
+<!ENTITY DisplayName.label 				"Vis som:">
+<!ENTITY DisplayName.accesskey 			"V">
+<!ENTITY NickName.label 				"Kaldenavn:">
+<!ENTITY NickName.accesskey 			"K">
+
+<!ENTITY PrimaryEmail.label             "Mail:">
+<!ENTITY PrimaryEmail.accesskey 		"M">
+<!ENTITY SecondEmail.label 				"Yderligere mail:">
+<!ENTITY SecondEmail.accesskey 			"Y">
+<!ENTITY PreferMailFormat.label 		"Foretrækker meddelelser i formatet:">
+<!ENTITY PreferMailFormat.accesskey 	"r">
+<!ENTITY PlainText.label 				"Ren tekst">
+<!ENTITY HTML.label 					"HTML">
+<!ENTITY Unknown.label 					"Ukendt">
+<!ENTITY ScreenName.label 				"Skærmnavn:">
+<!ENTITY ScreenName.accesskey 			"æ">
+
+<!ENTITY allowRemoteContent1.label      "Tillad eksternt indhold.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "Der er muligt, at indlejre indhold fra eksterne kilder. Åbning af sådan en meddelelse, åbner en forbindelse til denne eksterne kilde. Dette giver mulighed for, at spore om meddelelsen bliver læst. Markering af denne boks tillader sådan eksternt indlejret indhold i HTML-meddelelser fra denne kontakt.">
+
+<!ENTITY WorkPhone.label 				"Arbejdstelefon:">
+<!ENTITY WorkPhone.accesskey 			"A">
+<!ENTITY HomePhone.label 				"Hjemmetelefon:">
+<!ENTITY HomePhone.accesskey 			"H">
+<!ENTITY FaxNumber.label 				"Fax:">
+<!ENTITY FaxNumber.accesskey 			"x">
+<!ENTITY PagerNumber.label 				"Personsøger:">
+<!ENTITY PagerNumber.accesskey 			"P">
+<!ENTITY CellularNumber.label 			"Mobil:">
+<!ENTITY CellularNumber.accesskey 		"M">
+
+<!ENTITY Home.tab                       "Privat">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label 				"Adresse:">
+<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress2.label 			"">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label 				"By:">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label 				"Stat/provins:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label 				"Postnummer:">
+<!ENTITY HomeZipCode.accesskey          "o">
+<!ENTITY HomeCountry.label 				"Land:">
+<!ENTITY HomeCountry.accesskey          "L">
+<!ENTITY HomeWebPage.label 				"Hjemmeside:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Fødselsdato:">
+<!ENTITY Birthday.accesskey             "ø">
+<!ENTITY In.label                       "">
+<!ENTITY Year.emptytext                 "År">
+<!ENTITY Or.value                       "eller">
+<!ENTITY Age.emptytext                  "Alder">
+<!ENTITY YearsOld.label                 "">
+
+<!ENTITY Work.tab                       "Arbejde">
+<!ENTITY Work.accesskey                 "b">
+<!ENTITY JobTitle.label 				"Titel:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label 				"Afdeling:">
+<!ENTITY Department.accesskey           "f">
+<!ENTITY Company.label 					"Organisation:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label 				"Adresse:">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label 			"">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label 				"By:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label 				"Stat/provins:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label 				"Postnummer:">
+<!ENTITY WorkZipCode.accesskey          "o">
+<!ENTITY WorkCountry.label 				"Land:">
+<!ENTITY WorkCountry.accesskey          "L">
+<!ENTITY WorkWebPage.label 				"Hjemmeside:">
+<!ENTITY WorkWebPage.accesskey          "e">
+
+<!ENTITY Other.tab 						"Andet">
+<!ENTITY Other.accesskey                "n">
+<!ENTITY Custom1.label 					"Brugerdef. 1:">
+<!ENTITY Custom1.accesskey 				"1">
+<!ENTITY Custom2.label 					"Brugerdef. 2:">
+<!ENTITY Custom2.accesskey 				"2">
+<!ENTITY Custom3.label 					"Brugerdef. 3:">
+<!ENTITY Custom3.accesskey 				"3">
+<!ENTITY Custom4.label 					"Brugerdef. 4:">
+<!ENTITY Custom4.accesskey 				"4">
+<!ENTITY Notes.label                    "Noter:">
+<!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Vælg en af følgende:">
+<!ENTITY GenericPhoto.label             "Standardbillede">
+<!ENTITY GenericPhoto.accesskey         "S">
+<!ENTITY DefaultPhoto.label             "Standard">
+<!ENTITY PhotoFile.label                "På denne computer">
+<!ENTITY PhotoFile.accesskey            "å">
+<!ENTITY BrowsePhoto.label              "Gennemse">
+<!ENTITY BrowsePhoto.accesskey          "G">
+<!ENTITY PhotoURL.label                 "På nettet">
+<!ENTITY PhotoURL.accesskey             "P">
+<!ENTITY PhotoURL.emptytext             "Indsæt eller skriv et fotos web-adresse">
+<!ENTITY UpdatePhoto.label              "Opdater">
+<!ENTITY UpdatePhoto.accesskey          "O">
+

@@ -2,25 +2,23 @@
 <!ENTITY searchHeading.accesskey "i">
 <!ENTITY searchSubfolders.label "Søg i undermapper">
 <!ENTITY searchSubfolders.accesskey "u">
+<!ENTITY searchOnServer.label        "Søg på serveren">
+<!ENTITY searchOnServer.accesskey    "e">
 <!ENTITY resetButton.label "Ryd">
 <!ENTITY resetButton.accesskey "R">
-<!ENTITY optionsButton.label "Valgmuligheder">
-<!ENTITY closeButton.label "Luk">
 <!ENTITY openButton.label "Åbn">
 <!ENTITY openButton.accesskey "Å">
 <!ENTITY deleteButton.label "Slet">
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY searchDialogTitle.label "Søg i meddelelser">
-<!ENTITY conditionDesc.label "Søg efter meddelelser der matcher:">
-<!ENTITY conditions.label "Kriterie">
 <!ENTITY results.label "Resultater">
 <!ENTITY fileHereMenu.label "Gem her">
 <!ENTITY fileHereMenu.accesskey "G">
 <!ENTITY fileButton.label "Gem">
 <!ENTITY fileButton.accesskey "G">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Åbn meddelelsesmappe">
-<!ENTITY goToFolderButton.accesskey "m">
+<!ENTITY openInFolder.label          "Åbn i mappe">
+<!ENTITY openInFolder.accesskey      "Å">
 <!ENTITY saveAsVFButton.label "Gem som virtuel mappe">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!ENTITY abSearchHeading.label "Søg i:">
@@ -31,7 +29,7 @@
 <!ENTITY composeButton.accesskey "k">
 <!ENTITY abSearchDialogTitle.label "Avanceret adressebogssøgning">
 <!ENTITY threadColumn.label "Tråd">
-<!ENTITY senderColumn.label "Afsender">
+<!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Modtager">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
@@ -41,16 +39,14 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "Spam-status">
-<!ENTITY linesColumn.label "Linjer">
 <!ENTITY unreadColumn.label "Ulæste i tråden">
 <!ENTITY totalColumn.label "Total i tråd">
 <!ENTITY readColumn.label "Læst">
-<!ENTITY flagColumn.label "Markering">
 <!ENTITY locationColumn.label "Placering">
-<!ENTITY idColumn.label "Modtagelsesordre">
+<!ENTITY idColumn.label "Modtagelsesorden">
 <!ENTITY columnChooser.tooltip "Vælg hvilke kolonner der skal vises">
 <!ENTITY threadColumn.tooltip "Vis meddelelser i tråde">
-<!ENTITY senderColumn.tooltip "Sorter efter afsender">
+<!ENTITY fromColumn.tooltip "Sorter efter afsender">
 <!ENTITY recipientColumn.tooltip "Sorter efter modtager">
 <!ENTITY subjectColumn.tooltip "Sorter efter emne">
 <!ENTITY dateColumn.tooltip "Sorter efter dato">
@@ -63,6 +59,9 @@
 <!ENTITY unreadColumn.tooltip "Antal af ulæste meddelelser i tråden">
 <!ENTITY totalColumn.tooltip "Total antal af meddelelser i tråden">
 <!ENTITY readColumn.tooltip "Sorter efter læst">
-<!ENTITY flagColumn.tooltip "Sorter efter markering">
+<!ENTITY receivedColumn.label "Modtaget">
+<!ENTITY receivedColumn.tooltip "Sorter efter modtaget-dato">
 <!ENTITY locationColumn.tooltip "Sorter efter placering">
-<!ENTITY idColumn.tooltip "Sorter efter modtagelsesordre">
+<!ENTITY idColumn.tooltip "Sorter efter modtagelsesorden">
+<!ENTITY starredColumn.label "Stjernemarkeret">
+<!ENTITY starredColumn.tooltip "Sorter efter stjernemarkering">

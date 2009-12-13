@@ -8,3 +8,5 @@
 <!ENTITY quickMode.accesskey "V">
 <!ENTITY copyLinkCmd.label "Kopier link">
 <!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY pasteLinkCmd.label       "Indsæt">
+<!ENTITY pasteLinkCmd.accesskey   "æ">

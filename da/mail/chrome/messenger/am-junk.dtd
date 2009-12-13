@@ -3,8 +3,11 @@
 <!ENTITY level.label "Aktiver evalueringsfilter mod spam for denne konto">
 <!ENTITY level.accesskey "A">
 <!ENTITY move.label "Flyt nye spam-meddelelser til:">
+<!ENTITY move.accesskey "F">
 <!ENTITY junkFolderOn.label "&quot;Spam&quot; mappen på:">
+<!ENTITY junkFolderOn.accesskey "S">
 <!ENTITY otherFolder.label "Anden:">
+<!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Slet automatisk spam ældre end">
 <!ENTITY purge1.accesskey "l">
 <!ENTITY purge2.label "dage">

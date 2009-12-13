@@ -1,18 +1,11 @@
 <!ENTITY pref.composer.title "Composer">
-<!ENTITY saving "Gemmer">
-<!ENTITY AutoSaveCheck "Gem automatisk hvert">
-<!ENTITY minText "minut">
-<!ENTITY exterLegend.label "Ekstern tekstbehandler">
-<!ENTITY htmlSource "HTML-kildekode:">
-<!ENTITY imageeditor "Billeder:">
-<!ENTITY chooseButton.label "Vælg fil...">
 <!ENTITY recentFiles.title "Seneste sider">
 <!ENTITY documentsInMenu.label "Maksimum antal sider vist:">
 <!ENTITY documentsInMenu.accesskey "M">
 <!ENTITY savingFiles.title "Når sider gemmes eller udgives">
 <!ENTITY preserveExisting.label "Bevar original kildekode formatering">
 <!ENTITY preserveExisting.accesskey "B">
-<!ENTITY preserveExisting.tooltip "Bevar linieskift og sidens original formatering">
+<!ENTITY preserveExisting.tooltip "Bevar linjeskift og sidens original formatering">
 <!ENTITY saveAssociatedFiles.label "Gem billeder og andre tilknyttede filer, når sider gemmes">
 <!ENTITY saveAssociatedFiles.accesskey "G">
 <!ENTITY showPublishDialog.label "Vis altid dialogen Udgivelse, når sider udgives">

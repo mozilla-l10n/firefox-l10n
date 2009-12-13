@@ -1,7 +1,17 @@
 <!ENTITY aboutDialog.title "Om &brandShortName;">
-<!ENTITY credits "Bidragydere">
-<!ENTITY aboutLink "&lt; Om &brandShortName;">
-<!ENTITY aboutVersion "version">
-<!ENTITY copyrightText "&#169;1998-2008 Bidragydere. Alle rettigheder forbeholdes. Mozilla Thunderbird og
-Thunderbird-logoer er varemærker tilhørende Mozilla Foundation. Alle rettigheder
-forbeholdes.">
+<!ENTITY aboutButton.label      "&lt; Om &brandShortName;">
+<!ENTITY aboutButton.accesskey  "T">
+<!ENTITY aboutVersion           "version">
+<!ENTITY copyrightText "&#169;1998-2008 Bidragydere. Alle rettigheder forbeholdes. Mozilla Thunderbird og Thunderbird-logoer er varemærker tilhørende Mozilla Foundation. Alle rettigheder forbeholdes.">
+<!ENTITY aboutMenu.label        "Om">
+<!ENTITY aboutMenu.accesskey    "O">
+<!ENTITY aboutCredits.label     "Bidragsydere">
+<!ENTITY aboutCredits.accesskey "B">
+<!ENTITY aboutRights.label      "Dine rettigheder">
+<!ENTITY aboutRights.accesskey  "R">
+<!ENTITY aboutContributors.label "Tak til">
+<!ENTITY aboutContributors.accesskey "T">
+<!ENTITY aboutLicense.label      "Licens">
+<!ENTITY aboutLicense.accesskey  "L">
+
+<!ENTITY cmdCloseMac.commandKey "w">

@@ -1,0 +1,9 @@
+<!ENTITY attachmentReminderDialog.title   "Stikord for påmindelse om vedhæftning">
+<!ENTITY attachKeywordText.label          "&brandShortName; vil advarde dig ved manglende vedhæftning, og meddelesen indeholder en af disse ord.">
+<!ENTITY addKeywordButton.label           "Tilføj">
+<!ENTITY addKeywordButton.accesskey       "T">
+<!ENTITY editKeywordButton.label          "Rediger">
+<!ENTITY editKeywordButton.accesskey      "R">
+<!ENTITY removeKeywordButton.label        "Slet">
+<!ENTITY removeKeywordButton.accesskey    "S">
+

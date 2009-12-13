@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label        "Indholdstype">
+<!ENTITY  typeColumn.accesskey    "I">
+
+<!ENTITY  actionColumn2.label     "Handling">
+<!ENTITY  actionColumn2.accesskey "H">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.emptytext        "Søg">
+
+<!ENTITY saveTo.label                 "Gem filer til">
+<!ENTITY saveTo.accesskey             "G">
+<!ENTITY alwaysAsk.label              "Spørg mig altid, hvor filer skal gemmes">
+<!ENTITY alwaysAsk.accesskey          "S">
+<!ENTITY chooseFolderWin.label        "Gennemse…">
+<!ENTITY chooseFolderWin.accesskey    "G">
+<!ENTITY chooseFolderMac.label        "Gennemse…">
+<!ENTITY chooseFolderMac.accesskey    "G">
