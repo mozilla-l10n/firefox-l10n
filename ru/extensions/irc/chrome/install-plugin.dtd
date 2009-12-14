@@ -4,6 +4,6 @@
 <!ENTITY name.autopick.label "Автоматически выбрать для меня имя">
 <!ENTITY name.autopick.accesskey "в">
 <!ENTITY source.label "Исходник:">
-<!ENTITY source.accesskey "ч">
+<!ENTITY source.accesskey "х">
 <!ENTITY browse.label "Обзор…">
 <!ENTITY browse.accesskey "б">
