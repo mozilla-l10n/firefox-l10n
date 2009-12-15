@@ -1,6 +1,6 @@
 <!ENTITY featureConfigurator.title   "Asystent migracji">
 <!ENTITY featureConfigurator.heading "Najważniejsze zmiany w programie Thunderbird 3">
-<!ENTITY featureConfigurator.para1   "Program Thubnderbird 3 zawiera ciekawe nowe funkcjonalności z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta jednak bywają różne, dodajemy więc łatwą metodę kontrolli nad nimi.">
+<!ENTITY featureConfigurator.para1   "Program Thubnderbird 3 zawiera ciekawe nowe funkcjonalności z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta jednak bywają różne, dodajemy więc łatwą metodę kontroli nad nimi.">
 <!ENTITY featureConfigurator.para2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe opcje. Zawsze też będzie można otworzyć tę stronę ponownie z menu Pomoc.">
 
 <!ENTITY featureConfigurator.imap.heading         "Synchronizacja kont IMAP">
