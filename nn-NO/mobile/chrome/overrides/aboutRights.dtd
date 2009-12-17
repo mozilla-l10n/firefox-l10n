@@ -33,7 +33,7 @@
 <!ENTITY rights.intro-point3-unbranded "Alle personvernerklæringar for dette produktet må førast opp her .">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyr òg valfrie tenester for netsideinformasjon, slik som tenesta SafeBrowsing; likevel kan vi ikkje garantere at dei er 100% feilfrie. Meir informasjon, inkludert informasjon om korleis tenesta kan slåast av, finn ein i ">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyr òg valfrie tenester for netsideinformasjon, slik som tenesta SafeBrowsing; likevel kan vi ikkje garantere at dei er 100&#37; feilfrie. Meir informasjon, inkludert informasjon om korleis tenesta kan slåast av, finn ein i ">
 <!ENTITY rights.intro-point4b "tenestevilkåra">
 <!ENTITY rights.intro-point4c ".">
 
