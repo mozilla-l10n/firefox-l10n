@@ -60,22 +60,22 @@
 <!ENTITY originalWebsite2.label   "strona www ">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
-<!ENTITY editMessageButton.label      "edytuj…">
-<!ENTITY hdrArchiveButton.label       "archiwizuj">
+<!ENTITY editMessageButton.label      "Edytuj…">
+<!ENTITY hdrArchiveButton.label       "Archiwizuj">
 <!ENTITY hdrArchiveButton.tooltip     "Archiwizuj tę wiadomość">
-<!ENTITY hdrReplyButton.label         "odpowiedz">
+<!ENTITY hdrReplyButton.label         "Odpowiedz">
 <!ENTITY hdrReplyButton.tooltip       "Odpowiedz na tę wiadomość">
-<!ENTITY hdrReplyAllButton.label      "odpowiedz wszystkim">
+<!ENTITY hdrReplyAllButton.label      "Odpowiedz wszystkim">
 <!ENTITY hdrReplyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim pozostałym korespondentom">
-<!ENTITY hdrReplyListButton.label     "odpowiedz liście">
+<!ENTITY hdrReplyListButton.label     "Odpowiedz liście">
 <!ENTITY hdrReplyListButton.tooltip   "Wyślij odpowiedź na listę dyskusyjną">
-<!ENTITY hdrForwardButton.label       "przekaż">
+<!ENTITY hdrForwardButton.label       "Przekaż">
 <!ENTITY hdrForwardButton.tooltip     "Przekaż tę wiadomość">
-<!ENTITY hdrJunkButton.label          "niechciana">
+<!ENTITY hdrJunkButton.label          "Niechciana">
 <!ENTITY hdrJunkButton.tooltip        "Oznacz wiadomość jako niechcianą">
-<!ENTITY hdrTrashButton.label         "usuń">
+<!ENTITY hdrTrashButton.label         "Usuń">
 <!ENTITY hdrTrashButton.tooltip       "Usuń tę wiadomość">
-<!ENTITY otherActionsButton.label     "inne">
+<!ENTITY otherActionsButton.label     "Inne">
 
 <!ENTITY hdrViewToolbarShowFull.label      "Wyświetlaj ikony i tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey  "t">

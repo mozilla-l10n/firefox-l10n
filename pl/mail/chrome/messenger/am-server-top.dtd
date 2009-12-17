@@ -55,8 +55,8 @@
 <!ENTITY abbreviateOn.label         'Pełnej (Na przykład: "pl.rec.humor.najlepsze")'>
 <!ENTITY abbreviateOff.label        'Skróconej (Na przykład: "p.r.h.najlepsze")'>
 <!ENTITY advancedButton.label       "Zaawansowane…">
+<!ENTITY advancedButton.accesskey   "Z">
 <!ENTITY serverDefaultCharset.label "Domyślny zestaw znaków:">
-<!ENTITY advancedButton.accesskey   "m">
 <!ENTITY localFolderPicker.label    "Wybierz katalog lokalny">
 <!ENTITY browseFolder.label         "Przeglądaj…">
 <!ENTITY browseFolder.accesskey     "P">
