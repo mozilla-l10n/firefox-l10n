@@ -50,7 +50,7 @@
 
 <!ENTITY updateTab.label                 "更新">
 
-<!ENTITY autoCheck.label                 "自動檢查是否有更新:">
+<!ENTITY autoCheck.label                 "自動檢查下列項目是否有更新:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "附加元件">

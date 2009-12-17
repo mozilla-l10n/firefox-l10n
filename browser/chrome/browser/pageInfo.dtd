@@ -72,7 +72,7 @@
 <!ENTITY  mediaType             "類型">
 <!ENTITY  mediaSize             "大小">
 <!ENTITY  mediaCount            "數量">
-<!ENTITY  mediaDimension        "大小:">
+<!ENTITY  mediaDimension        "尺寸:">
 <!ENTITY  mediaLongdesc         "完整描述:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "另存新檔…">
@@ -112,7 +112,7 @@
 <!ENTITY  securityView.identity.domain   "網站:">
 <!ENTITY  securityView.identity.verifier "驗證機構:">
 
-<!ENTITY  securityView.privacy.header                   "隱私及瀏覽記錄">
+<!ENTITY  securityView.privacy.header                   "隱私及歷史記錄">
 <!ENTITY  securityView.privacy.history                  "我以前有瀏覽過這個網站嗎？">
 <!ENTITY  securityView.privacy.cookies                  "此網站有在我的電腦中儲存資訊 (Cookie) 嗎？">
 <!ENTITY  securityView.privacy.viewCookies              "檢視 Cookie">

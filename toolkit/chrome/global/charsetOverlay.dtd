@@ -11,11 +11,11 @@
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "中日韓語言">
 <!ENTITY charsetMenuMore3.accesskey    "a">
-<!ENTITY charsetMenuMore4.label        "東南亞語言">
+<!ENTITY charsetMenuMore4.label        "東南亞與西南亞語言">
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "中東語言">
 <!ENTITY charsetMenuMore5.accesskey    "M">
-<!ENTITY charsetMenuUnicode.label      "Unicode">
+<!ENTITY charsetMenuUnicode.label      "萬國碼 Unicode">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "自訂列表…">
 <!ENTITY charsetCustomize.accesskey    "C">
