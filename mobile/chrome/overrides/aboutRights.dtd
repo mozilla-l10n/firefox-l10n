@@ -33,7 +33,7 @@
 <!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyr også valgfrie informasjonstjenester som blant annet SafeBrowsing-tjenesten; men vi kan ikke garantere at de er 100% feilfrie. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyr også valgfrie informasjonstjenester som blant annet SafeBrowsing-tjenesten; men vi kan ikke garantere at de er 100&#37; feilfrie. Mer informasjon, også om hvordan tjenestene kan slås av, kan du finne i ">
 <!ENTITY rights.intro-point4b "tjenestebetingelsene">
 <!ENTITY rights.intro-point4c ".">
 
