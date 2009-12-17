@@ -1,38 +1,38 @@
 <!ENTITY featureConfigurator.title   "Asystent migracji">
 <!ENTITY featureConfigurator.heading "Najważniejsze zmiany w programie Thunderbird 3">
-<!ENTITY featureConfigurator.para1   "Program Thubnderbird 3 zawiera ciekawe nowe funkcjonalności z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta jednak bywają różne, dodajemy więc łatwą metodę kontroli nad nimi.">
-<!ENTITY featureConfigurator.para2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe opcje. Zawsze też będzie można otworzyć tę stronę ponownie z menu Pomoc.">
+<!ENTITY featureConfigurator.para1   "Program Thubnderbird 3 zawiera ciekawe nowe funkcjonalności, z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta bywają jednak różne, dodajemy więc łatwą metodę kontroli nad nowymi możliwościami.">
+<!ENTITY featureConfigurator.para2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe funkcje. W dowolnej chwili można też otworzyć tę stronę z poziomu menu Pomoc.">
 
 <!ENTITY featureConfigurator.imap.heading         "Synchronizacja kont IMAP">
-<!ENTITY featureConfigurator.imap.status.all      "Wszystkie foldery IMAP powinny być automatycznie &quot;synchronizowane&quot;.">
-<!ENTITY featureConfigurator.imap.status.none     "Żaden z folderów IMAP nie powinien być automatycznie &quot;synchronizowany&quot;.">
-<!ENTITY featureConfigurator.imap.status.some     "Tylko wybrane foldery IMAP powinny być automatycznie &quot;synchronizowane&quot;.">
+<!ENTITY featureConfigurator.imap.status.all      "Automatycznie synchronizowane są wszystkie foldery IMAP.">
+<!ENTITY featureConfigurator.imap.status.none     "Żaden z folderów IMAP nie jest automatycznie synchronizowany.">
+<!ENTITY featureConfigurator.imap.status.some     "Automatycznie synchronizowane są tylko wybrane foldery IMAP.">
 <!ENTITY featureConfigurator.benefits.label       "Korzyści">
 <!ENTITY featureConfigurator.alternative.label    "Alternatywa">
-<!ENTITY featureConfigurator.syncBenefits.para    "Umożliwia czytanie poczty nawet gdy nie ma połączenia z siecią i pozwala na przeszukiwanie treści wiadomości a nie tylko tematów i nadawców.">
+<!ENTITY featureConfigurator.syncBenefits.para    "Synchronizacja poczty umożliwia czytanie wiadomości, nawet gdy nie ma połączenia z siecią i pozwala na przeszukiwanie treści wiadomości, a nie tylko tematów i nadawców.">
 <!ENTITY featureConfigurator.syncAlternative.para "Rezygnacja z pobierania całej poczty na dysk twardy komputera pozwala zaoszczędzić miejsce oraz zmniejszyć ilość przesyłanych danych.">
-<!ENTITY featureConfigurator.syncAll.button       "automatycznie synchronizuj wszystko">
-<!ENTITY featureConfigurator.syncNone.button      "niczego automatycznie nie synchronizuj">
+<!ENTITY featureConfigurator.syncAll.button       "Automatycznie synchronizuj wszystko">
+<!ENTITY featureConfigurator.syncNone.button      "Niczego automatycznie nie synchronizuj">
 <!ENTITY featureConfigurator.advancedUsers.label  "Zaawansowana konfiguracja:">
 <!ENTITY featureConfigurator.advancedUsers.para   "Istnieje również możliwość konfiguracji synchronizacji dla każdego konta i folderu z osobna:">
 
 <!ENTITY featureConfigurator.toolbar.heading           "Nowy pasek narzędzi">
-<!ENTITY featureConfigurator.toolbar.new.status        "Używanie nowego paska.">
-<!ENTITY featureConfigurator.toolbar.original.status   "Używanie paska w stylu Thunderbirda 2.">
-<!ENTITY featureConfigurator.toolbarBenefits.para      "Bardziej przejrzysty interfejs od tego znanego  z poprzedniej wersji, więcej miejsca na nowy pasek wyszukiwania i przyciski dodawane przez rozszerzenia.">
-<!ENTITY featureConfigurator.toolbarAlternative.para   "Niektórzy użytkownicy zapewne uznają stary układ za lepszy, w szczególności jeśli nie używają podglądu wiadomości.">
-<!ENTITY featureConfigurator.useOriginalToolbar.button "używaj paska w stylu Thunderbirda 2">
-<!ENTITY featureConfigurator.useNewToolbar.button      "używaj nowego paska">
+<!ENTITY featureConfigurator.toolbar.new.status        "Nowy układ paska.">
+<!ENTITY featureConfigurator.toolbar.original.status   "Pasek w stylu Thunderbirda 2.">
+<!ENTITY featureConfigurator.toolbarBenefits.para      "Bardziej przejrzysty interfejs niż w poprzedniej wersji – więcej miejsca na nowy pasek wyszukiwania i przyciski dodawane przez rozszerzenia.">
+<!ENTITY featureConfigurator.toolbarAlternative.para   "Niektórzy użytkownicy, zapewne ci, którzy nie używają podglądu wiadomości, uznają stary układ za lepszy.">
+<!ENTITY featureConfigurator.useOriginalToolbar.button "Używaj paska w stylu Thunderbirda 2">
+<!ENTITY featureConfigurator.useNewToolbar.button      "Używaj nowego paska">
 
 <!ENTITY featureConfigurator.smartFolders.heading        "Pogrupowane foldery">
-<!ENTITY featureConfigurator.smartFolders.smart.status   "Kolumna folderów z układem &quot;Pogrupowane&quot;.">
-<!ENTITY featureConfigurator.smartFolders.all.status     "Kolumna folderów z układem &quot;Wszystkie&quot;.">
-<!ENTITY featureConfigurator.smartFolderBenefits.para    "W przypadkach gdy zostało skonfigurowanych kilka kont, foldery takie jak Oderane zostaną zgrupowane, aby można było wyświetlić wszystkie zawwarte w nich wiadomości na jednej liście.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Użytkownicy rozdzielający informacje na osobne konta będą zapewne woleli układ wyświetlający &quot;Wszystkie&quot; foldery osobno.">
-<!ENTITY featureConfigurator.useSmartFolders.button      "domyślnie wyświetl układ &quot;Pogrupowane&quot; foldery">
-<!ENTITY featureConfigurator.useAllFolders.button        "domyślnie wyświetl układ &quot;Wszystkie&quot; foldery">
+<!ENTITY featureConfigurator.smartFolders.smart.status   "Kolumna folderów z układem Pogrupowane.">
+<!ENTITY featureConfigurator.smartFolders.all.status     "Kolumna folderów z układem Wszystkie.">
+<!ENTITY featureConfigurator.smartFolderBenefits.para    "W przypadku, gdy zostało skonfigurowanych kilka kont, foldery takie jak Odebrane mogą zostać pogrupowane, aby można było wyświetlać wszystkie zawarte w nich wiadomości na jednej liście.">
+<!ENTITY featureConfigurator.smartFolderAlternative.para "Użytkownicy rozdzielający informacje na osobne konta będą zapewne woleli układ wyświetlający wszystkie foldery osobno.">
+<!ENTITY featureConfigurator.useSmartFolders.button      "Domyślnie wyświetlaj układ Pogrupowane foldery">
+<!ENTITY featureConfigurator.useAllFolders.button        "Domyślnie wyświetlaj układ Wszystkie foldery">
 
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Nagłówki wiadomości">
-<!ENTITY featureConfigurator.headerParaBeforeLink     "Thunderbird 3 zmienia sposób wyświetlania nagłówków wiadomości, alternatywne sposoby ich wyświetlania dostępne są jako ">
+<!ENTITY featureConfigurator.headerParaBeforeLink     "Thunderbird 3 zmienia sposób wyświetlania nagłówków wiadomości. Alternatywne sposoby ich wyświetlania dostępne są jako ">
 <!ENTITY featureConfigurator.headerParaLinkName       "dodatki">
 <!ENTITY featureConfigurator.headerParaAfterLink      ".">
