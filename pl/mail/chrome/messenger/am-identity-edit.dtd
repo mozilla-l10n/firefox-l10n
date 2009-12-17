@@ -1,4 +1,4 @@
-<!ENTITY identityDialog.style   "width: 70ch;"><!-- en-US: width: 67ch; -->
+<!ENTITY identityDialog.style   "width: 88ch;"><!-- en-US: width: 67ch; -->
 <!ENTITY identityTitle.label    "Ustawienia tożsamości">
 <!ENTITY identityListDesc.label "Konfiguruj ustawienia dla tej tożsamości:">
 
