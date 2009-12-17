@@ -2,8 +2,8 @@
 <!ENTITY reportWizard.title                         "回報有問題的網站">
 
 <!ENTITY privacyNotice.label                        "隱私權保護政策">
-<!ENTITY reportWizardPrivacy.description            "此工具讓您可以把有各種顯示、瀏覽或登入問題 (或是會讓 &brandShortName; 當掉) 的網站回報給 &brandShortName; 的開發小組，以幫助 &brandShortName; 提昇瀏覽品質。 但請注意如果可以的話請盡量在描述問題時使用英文，方便全世界的人一起來找出問題所在。 請先閱讀下面關於我們會如何使用收集到資訊的說明以決定是否繼續。">
-<!ENTITY reportWizardMustAgree.description          "要繼續請先同意接受上述的隱私權保護政策。">
+<!ENTITY reportWizardPrivacy.description            "此工具讓您可以把有各種顯示、瀏覽、登入問題 (或是會讓 &brandShortName; 當掉) 的網站回報給 &brandShortName; 的開發小組，以幫助 &brandShortName; 提昇瀏覽品質。請先閱讀下面關於我們會如何使用收集到的資訊的說明，以決定是否繼續。 ">
+<!ENTITY reportWizardMustAgree.description          "要繼續前，請先同意接受上述的隱私權保護政策。">
 
 <!ENTITY dontShowPrivacyStatement.label             "我已讀過並接受上面的隱私權保護政策。">
 <!ENTITY dontShowPrivacyStatement.accesskey         "I">
@@ -11,7 +11,7 @@
 <!ENTITY reportForm.label                           "填寫問題回報表單">
 
 <!ENTITY reportForm.description                     "請簡述您遇到的問題:">
-<!ENTITY reportForm.url.title                       "網址(URL):">
+<!ENTITY reportForm.url.title                       "網址 URL:">
 <!ENTITY reportForm.url.accesskey                   "U">
 
 <!ENTITY reportForm.behind_login.title              "網站有密碼保護"><!-- No ":" at the end -->

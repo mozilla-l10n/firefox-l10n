@@ -1,7 +1,7 @@
 <!ENTITY ocspDialog.title             "憑證驗證">
 <!ENTITY enableOCSP.label             "使用線上憑證狀態協定 (OCSP) 來檢查目前憑證的有效性">
 <!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY certOCSP2.label              "只使用指定的 OCSP 伺服器檢查憑證">
+<!ENTITY certOCSP2.label              "當憑證指定 OCSP 伺服器時才驗證該憑證">
 <!ENTITY certOCSP2.accesskey          "V">
 <!ENTITY proxyOCSP2.label             "使用下列 OCSP 伺服器檢查所有憑證:">
 <!ENTITY proxyOCSP2.accesskey         "a">
@@ -9,5 +9,5 @@
 <!ENTITY serviceURL.accesskey         "S">
 <!ENTITY signingCA.label              "回應簽署者:">
 <!ENTITY signingCA.accesskey          "R">
-<!ENTITY requireOCSP.label            "當 OCSP 伺服器連線失敗時，憑證則視為無效">
+<!ENTITY requireOCSP.label            "當 OCSP 伺服器連線失敗時，將憑證視為無效">
 <!ENTITY requireOCSP.accesskey        "W">

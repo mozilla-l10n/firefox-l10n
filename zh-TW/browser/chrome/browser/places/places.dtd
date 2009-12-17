@@ -31,7 +31,7 @@
 <!ENTITY cmd.findCurrent.label          "在目前書籤集中尋找…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "匯出為 HTML 檔案…">
+<!ENTITY cmd.exportHTML.label           "匯出 HTML 檔案…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
 <!ENTITY cmd.importHTML.label           "匯入 HTML 檔案…">
 <!ENTITY cmd.importHTML.accesskey       "I">

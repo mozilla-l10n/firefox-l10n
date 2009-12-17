@@ -42,7 +42,7 @@
 
 <!ENTITY moveResizeWindows.label        "移動或改變已開啟視窗大小">
 <!ENTITY moveResizeWindows.accesskey    "M">
-<!ENTITY raiseLowerWindows.label        "將視窗移往最上層或下層">
+<!ENTITY raiseLowerWindows.label        "將視窗移至上層或下層">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "停用或取代右鍵選單">
 <!ENTITY disableContextMenus.accesskey  "D">

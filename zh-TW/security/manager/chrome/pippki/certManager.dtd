@@ -64,8 +64,8 @@
 <!ENTITY certmgr.fingerprints.label           "指紋">
 <!ENTITY certmgr.certdetail.title             "憑證細節">
 <!ENTITY certmgr.certdetail.cn                "一般名稱 (CN)">
-<!ENTITY certmgr.certdetail.o                 "組織(O)">
-<!ENTITY certmgr.certdetail.ou                "組織單位(OU)">
+<!ENTITY certmgr.certdetail.o                 "組織 (O)">
+<!ENTITY certmgr.certdetail.ou                "組織單位 (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "序號">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 指紋">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 指紋">

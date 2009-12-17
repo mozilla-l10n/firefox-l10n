@@ -33,9 +33,9 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 應該:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "儲存所有歷史記錄">
-<!ENTITY  historyHeader.dontremember.label "不儲存歷史記錄">
-<!ENTITY  historyHeader.custom.label       "使用自訂的設定儲存歷史記錄">
+<!ENTITY  historyHeader.remember.label     "保留所有歷史記錄">
+<!ENTITY  historyHeader.dontremember.label "不保留歷史記錄">
+<!ENTITY  historyHeader.custom.label       "使用自訂的設定">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; 會儲存您的瀏覽記錄、下載清單、在表單與搜尋列輸入的內容，並且保留您瀏覽的網站所設定的 Cookie。">
