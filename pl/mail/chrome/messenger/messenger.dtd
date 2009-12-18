@@ -722,8 +722,8 @@
 <!ENTITY selectAllCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label           "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey       "s">
-<!ENTITY copyImageCmd.label          "Kopiuj adres obrazka">
-<!ENTITY copyImageCmd.accesskey      "b">
+<!ENTITY copyImageAllCmd.label       "Kopiuj obrazek">
+<!ENTITY copyImageAllCmd.accesskey   "K">
 <!ENTITY copyEmailCmd.label          "Kopiuj adres e-mail">
 <!ENTITY copyEmailCmd.accesskey      "e">
 <!ENTITY stopCmd.label               "Zatrzymaj">
