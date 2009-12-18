@@ -1,4 +1,4 @@
-google
+google-ru
 priceru
 rambler
 slovari.yandex.ru
