@@ -437,6 +437,9 @@
 <!ENTITY addons.accesskey                  "D">
 <!ENTITY activitymanager.label             "Menedżer aktywności">
 <!ENTITY activitymanager.accesskey         "M">
+<!ENTITY savedFiles.label                  "Zapisane pliki">
+<!ENTITY savedFiles.accesskey              "Z">
+<!ENTITY savedFiles.key                    "j">
 <!ENTITY messengerCmd.label                "Poczta i grupy dyskusyjne">
 <!ENTITY messengerCmd.accesskey            "P">
 <!ENTITY addressBookCmd.label              "Książka adresowa">
@@ -451,11 +454,11 @@
 <!ENTITY filtersCmd.label                  "Filtrowanie wiadomości…">
 <!ENTITY filtersCmd.accesskey              "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
-<!ENTITY filtersApply.accesskey            "Z">
+<!ENTITY filtersApply.accesskey            "b">
 <!ENTITY filtersApplyToSelection.label     "Zastosuj filtry do wybranych wiadomości">
 <!ENTITY filtersApplyToSelection.accesskey "w">
 <!ENTITY filtersApplyToMessage.label       "Zastosuj filtry do wiadomości">
-<!ENTITY filtersApplyToMessage.accesskey   "s">
+<!ENTITY filtersApplyToMessage.accesskey   "w">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label     "Pobierz">
