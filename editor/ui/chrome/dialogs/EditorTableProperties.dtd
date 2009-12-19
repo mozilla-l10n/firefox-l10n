@@ -95,7 +95,7 @@
 <!ENTITY cellAlignMiddle.label            "Milieu">
 <!ENTITY cellAlignBottom.label            "En bas">
 <!ENTITY cellAlignJustify.label           "Justifié">
-<!ENTITY cellInheritColor.label           "(Ne pas changer la table des couleurs)">
+<!ENTITY cellInheritColor.label           "(Laisser traverser la couleur du tableau)">
 <!ENTITY cellUseCheckboxHelp.label        "Utiliser les cases à cocher pour déterminer les propriétés à appliquer à toutes les cellules sélectionnées">
 
 <!-- Used in both Table and Cell panels  -->
