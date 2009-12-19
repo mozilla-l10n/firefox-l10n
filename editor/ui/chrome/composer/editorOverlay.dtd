@@ -71,7 +71,7 @@
 <!ENTITY publishAsCmd.accesskey "i">
 <!ENTITY exportToTextCmd.label "Exporter au format texte…">
 <!ENTITY exportToTextCmd.accesskey "x">
-<!ENTITY saveAsChangeEncodingCmd.label "Enregistrer en modifiant le codage de caractères…">
+<!ENTITY saveAsChangeEncodingCmd.label "Enregistrer en modifiant l'encodage de caractères…">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "r">
 <!ENTITY previewCmd.label "Visualiser la page">
 <!ENTITY previewCmd.accesskey "V">
