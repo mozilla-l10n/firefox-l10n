@@ -44,7 +44,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
 <!ENTITY cmd.select_all.label "Seleccionar tudo">
-<!ENTITY cmd.select_all.accesskey "t">
+<!ENTITY cmd.select_all.accesskey "l">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label         "Cortar">
