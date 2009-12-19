@@ -394,8 +394,8 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-<!ENTITY tableJoinCells.label "Joindre les cellules">
-<!ENTITY tableJoinCells.accesskey "J">
+<!ENTITY tableJoinCells.label "Fusionner les cellules">
+<!ENTITY tableJoinCells.accesskey "F">
 <!ENTITY tableSplitCell.label "Découper la cellule">
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Créer un tableau à partir de la sélection">
