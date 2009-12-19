@@ -29,14 +29,14 @@
 <!ENTITY leaveOnServer.label "Deixar mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "v">
 <!ENTITY headersOnly.label "Apenas Cabeçalhos Fetch">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "h">
 <!ENTITY deleteByAgeFromServer.label "Pelo menos">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
 <!ENTITY deleteOnServer2.label "Até eu apagá-los">
 <!ENTITY deleteOnServer2.accesskey "g">
 <!ENTITY downloadOnBiff.label "Transferir automaticamente novas mensagens">
-<!ENTITY downloadOnBiff.accesskey "a">
+<!ENTITY downloadOnBiff.accesskey "r">
 <!ENTITY username.label "O seu nome de Entrada">
 <!ENTITY deleteMessagePrefix.label "Quando eu apagar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Move-la para esta pasta:">

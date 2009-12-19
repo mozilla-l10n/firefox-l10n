@@ -4,16 +4,16 @@
 <!ENTITY allFoldersOffline.label "manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensagens maiores que ">
-<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY offlineNotDownload.accesskey "q">
 <!ENTITY autosyncNotDownload.label "Não transferir mensagens maiores que">
-<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY autosyncNotDownload.accesskey "f">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dias de idade">
 <!ENTITY message.label "mensagens">
 <!ENTITY nntpNotDownloadRead.label "Ler mensagens">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Mais mensagens que">
-<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY nntpDownloadMsg.accesskey "u">
 <!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas">
 <!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
 <!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
@@ -22,7 +22,7 @@
 <!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
 <!ENTITY retentionKeepAll.accesskey "g">
 <!ENTITY retentionKeepRecent.label "Apagar todas menos as últimas">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepRecent.accesskey "t">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (sobrepõe-se às definições de idade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">

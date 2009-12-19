@@ -6,7 +6,7 @@
 <!ENTITY button.removecookie.label         "Remover cookie">
 <!ENTITY button.removecookie.accesskey     "R">
 <!ENTITY button.removeallcookies.label     "Remover todos os cookies">
-<!ENTITY button.removeallcookies.accesskey "A">
+<!ENTITY button.removeallcookies.accesskey "t">
 
 <!ENTITY props.name.label                  "Nome:">
 <!ENTITY props.value.label                 "Conteúdo:">
