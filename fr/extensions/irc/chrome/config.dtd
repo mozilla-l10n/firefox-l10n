@@ -42,7 +42,7 @@
 <!ENTITY homepage.label "Site de ChatZilla">
 
 <!ENTITY object.add.label "Ajouter…">
-<!ENTITY object.add.hint "Ajouter un nouvel élément à qui attribuer des préférences">
+<!ENTITY object.add.hint "Ajouter un nouvel élément auquel attribuer des préférences">
 <!ENTITY object.add.accesskey "A">
 
 <!ENTITY object.del.label "Supprimer">
