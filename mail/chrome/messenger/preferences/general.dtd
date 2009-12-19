@@ -32,4 +32,4 @@
 <!ENTITY manageAddonsDescWin.label        "Mudar opções dos seus extras">
 <!ENTITY manageAddonsDescUnix2.label      "Mudar preferências dos seus extras">
 <!ENTITY manageAddons.label               "Gerir Extras…">
-<!ENTITY manageAddons.accesskey           "G">
+<!ENTITY manageAddons.accesskey           "x">

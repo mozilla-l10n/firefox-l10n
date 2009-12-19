@@ -1,15 +1,15 @@
 <!ENTITY serverAdvanced.label "Configurações Avançadas da Conta">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Pasta do servidor IMAP:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "v">
 <!ENTITY usingSubscription.label "Mostrar apenas pastas subscritas">
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contenham Sub-pastas e mensagens">
-<!ENTITY dualUseFolders.accesskey "p">
+<!ENTITY dualUseFolders.accesskey "h">
 <!ENTITY useIdle.label "Usar comando IDLE se o servidor o suportar">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Namespace Pessoal:">
@@ -28,4 +28,4 @@
 <!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "Incluir este servidor na recepção de correio">
-<!ENTITY deferGetNewMail.accesskey "I">
+<!ENTITY deferGetNewMail.accesskey "u">

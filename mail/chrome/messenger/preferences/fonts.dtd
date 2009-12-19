@@ -7,7 +7,7 @@
 <!ENTITY  language.accesskey                      "T">
 
 <!ENTITY  size.label                              "Tamanho">
-<!ENTITY  proportionalSize.accesskey              "m">
+<!ENTITY  proportionalSize.accesskey              "h">
 <!ENTITY  sizeMono.accesskey                      "n">
 
 <!ENTITY  proportional.label                      "Proporcional:">
@@ -16,7 +16,7 @@
 <!ENTITY  serif.label                             "Serifada:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Não serifada:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "r">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "M">
 
@@ -62,11 +62,11 @@
 <!ENTITY  useFixedWidthForPlainText.label         "Usar letra com largura fixa para mensagens em texto simples">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                   "Permitir que as Mensagens usem outros tipos de letra">
-<!ENTITY  useDocumentFonts.accesskey               "p">
+<!ENTITY  useDocumentFonts.accesskey               "g">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
-<!ENTITY sendDefaultCharset.accesskey     "m">
+<!ENTITY sendDefaultCharset.accesskey     "v">
 <!ENTITY languagesTitle1.label            "Codificações pré-definidas">
 <!ENTITY composingDescription.label       "Definir as codificações pré-definidas para receber e enviar mensagens.">
 

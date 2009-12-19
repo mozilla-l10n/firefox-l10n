@@ -37,7 +37,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title "Mailing List">
+<!ENTITY mailListWindow.title "Lista de correio">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label "Adicionar a: ">
 
@@ -45,13 +45,13 @@
 <!ENTITY ListNickName.label "Listar Alcunha: ">
 <!ENTITY ListDescription.label "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Escreva os endereços de correio electrónico para os adicionar à mailing list:">
+<!ENTITY AddressTitle.label "Escreva os endereços de correio electrónico para os adicionar à lista de correio:">
 <!ENTITY UpButton.label "Mover para Cima">
 <!ENTITY DownButton.label "Mover para Baixo">
 
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "A">
-<!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "L">
+<!ENTITY addToAddressBook.accesskey "d">
+<!ENTITY ListName.accesskey "N">
+<!ENTITY ListNickName.accesskey "a">
 <!ENTITY ListDescription.accesskey "e">
 

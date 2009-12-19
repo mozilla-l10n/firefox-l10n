@@ -100,7 +100,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ferramentas">
-<!ENTITY tasksMenu.accesskey "F">
+<!ENTITY tasksMenu.accesskey "r">
 <!ENTITY messengerCmd.label "Correio e Grupos de Discussão">
 <!ENTITY messengerCmd.accesskey "g">
 <!ENTITY messengerCmd.commandkey "1">
@@ -116,7 +116,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "p">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label "Novo ccontacto">
+<!ENTITY newContactButton.label "Novo contacto">
 <!ENTITY newContactButton.accesskey "c">
 <!ENTITY newlistButton.label "Nova lista">
 <!ENTITY newlistButton.accesskey "L">
