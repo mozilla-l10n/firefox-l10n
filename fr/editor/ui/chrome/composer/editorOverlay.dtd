@@ -182,7 +182,7 @@
 <!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
-<!ENTITY fontCourier.label "Courrier">
+<!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
