@@ -49,7 +49,7 @@
 <!ENTITY landscape.label "Horizontal">
 <!ENTITY landscape.accesskey "H">
 <!ENTITY close.label "Fechar">
-<!ENTITY close.accesskey "E">
+<!ENTITY close.accesskey "F">
 <!ENTITY p30.label "30&#037;">
 <!ENTITY p40.label "40&#037;">
 <!ENTITY p50.label "50&#037;">
@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "Primeira página">
 <!ENTITY endarrow.tooltip "Última página">
-<!ENTITY nextarrow.tooltip "Próxima página">
+<!ENTITY nextarrow.tooltip "Página seguinte">
 <!ENTITY previousarrow.tooltip "Página anterior">
