@@ -24,7 +24,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Convertir en tableau">
 <!ENTITY instructions1.label   "Le composeur crée une nouvelle ligne dans le tableau pour chaque paragraphe de la sélection.">
-<!ENTITY instructions2.label   "Choisir un caractère pour la séparation en colonne de la sélection :">
+<!ENTITY instructions2.label   "Choisir un caractère pour la séparation en colonnes de la sélection :">
 <!ENTITY commaRadio.label      "Virgule">
 <!ENTITY spaceRadio.label      "Espace">
 <!ENTITY otherRadio.label      "Autre caractère :">
