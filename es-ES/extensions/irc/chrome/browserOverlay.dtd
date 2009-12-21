@@ -34,6 +34,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY czButton.label "Charla IRC">
+<!ENTITY czButton.label "ChatZilla">
 <!ENTITY czMenu.label "ChatZilla">
 <!ENTITY czMenu.accesskey "Z">
