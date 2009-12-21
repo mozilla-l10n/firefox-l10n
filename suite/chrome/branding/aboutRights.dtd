@@ -17,17 +17,17 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
 
-<!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito ás marcas registadas ou logos da Mozilla e di Firefox. Informação adicional sobre Marcas registadas podem ser encontradas ">
+<!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito às marcas registadas ou logotipos da Mozilla e do Firefox. Encontra mais informação adicional sobre marcas registadas ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "A política de privacidade dos productos &vendorShortName;'s pode ser encontrada ">
+<!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
 <!ENTITY rights.intro-point3b "aqui">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "O &brandShortName; também oferece em opção serviços de informação de sítios web, tais como o serviço de actualização de extras; no entanto, não podemos garantir que é 100&#37; eficaz ou livre de erros. Mais detalhes, incluindo informação de como desactivar os serviços, podem ser encontrados nos ">
+<!ENTITY rights.intro-point4a "O &brandShortName; também oferece em opção serviços de informação de sítios web, tais como o serviço de actualização de extras; no entanto, não podemos garantir que é 100&#37; eficaz ou livre de erros. Pode encontrar mais detalhes, incluindo informação de como desactivar serviços, nos ">
 <!ENTITY rights.intro-point4b "termos do serviço">
 <!ENTITY rights.intro-point4c ".">
 
