@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Você pode desejar ">
 <!ENTITY  rememberActions.clearHistory.label  "limpar seu histórico recente">
-<!ENTITY  rememberActions.middle.label        ", ou ">
+<!ENTITY  rememberActions.middle.label        " ou ">
 <!ENTITY  rememberActions.removeCookies.label "excluir cookies em particular">
 <!ENTITY  rememberActions.post.label          ".">
 
