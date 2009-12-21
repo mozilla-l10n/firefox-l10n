@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "Administrer CRLer">
-<!ENTITY  validation.crlmanager.description       "Disse Certifikat Tilbagekaldelseslister (CRLer) er gemt i din certifikat database:">
+<!ENTITY  validation.crlmanager.description       "Du har gemt disse tilbagekaldelseslister for certifikater (CRLer):">
 <!ENTITY  validation.crlname.label                "Navn">
 <!ENTITY  validation.crllastupdate.label          "Seneste opdatering">
 <!ENTITY  validation.crlnextupdate.label          "Næste opdatering">

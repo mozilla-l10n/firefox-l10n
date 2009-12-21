@@ -39,7 +39,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Garantien dækker muligvis ikke her!">
-<!ENTITY aboutWarningText.label "At ændre disse avancerede indstillinger kan seriøst forringe dette programs stabilitet, sikkerhed og ydelse. Du bør kun fortsætte, hvis du ved, hvad du gør.">
+<!ENTITY aboutWarningText.label "Ændring af disse indstillinger kan forringe dette programs stabilitet, sikkerhed og ydelse væsentligt. Du bør kun fortsætte, hvis du ved, hvad du gør.">
 <!ENTITY aboutWarningButton.label "Jeg lover at være forsigtig!">
 <!ENTITY aboutWarningCheckbox.label "Vis mig denne advarsel næste gang">
 

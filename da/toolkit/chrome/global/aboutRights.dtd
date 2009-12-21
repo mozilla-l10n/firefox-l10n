@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Alle vedkommende policer vedrørende privatlivssikring for dette produkt bør optegnes her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom SafeBrowsing tjenesten; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfri. Yderligere detaljer, inklusiv information om at frakoble disse tjenester, kan findes under punktet ">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfri. Yderligere detaljer, inklusiv information om at frakoble disse tjenester, kan findes under punktet ">
 <!ENTITY rights.intro-point4b "tjenstevilkår">
 <!ENTITY rights.intro-point4c ".">
 
@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; bruger informationstjenester om websteder (&quot;Tjenester&quot;), såsom tjenesten SafeBrowsing, som gøres tilgængelig for dig ved brug af denne binære version af &brandShortName; som beskrevet nedenfor. Hvis du ikke ønsker at bruge tjenesten eller vil acceptere de nedenstående vilkår kan du frakoble SafeBrowsing tjenesten ved at gå ind i programmets indstillinger, vælge sektionen ">
+<!ENTITY rights.webservices-a "&brandFullName; bruger informationstjenester om websteder (&quot;Tjenester&quot;), såsom tjenesten SafeBrowsing, som gøres tilgængelig for dig ved brug af denne binære version af &brandShortName; som beskrevet nedenfor. Hvis du ikke ønsker at bruge tjenesten eller vil acceptere de nedenstående vilkår kan du frakoble tjenesten SafeBrowsing ved at gå ind i programmets indstillinger, vælge sektionen ">
 <!ENTITY rights.webservices-b "Sikkerhed">
 <!ENTITY rights.webservices-c ", og afmarkere punkterne &quot;&blockAttackSites.label;&quot; og &quot;&blockWebForgeries.label;&quot;">
 

@@ -3,7 +3,7 @@
 <!ENTITY  engineManager.intro       "Du har følgende søgetjenester installeret:">
 
 <!ENTITY  columnLabel.name          "Navn">
-<!ENTITY  columnLabel.keyword       "Nøgleord">
+<!ENTITY  columnLabel.keyword       "Stikord">
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "Flyt op">
@@ -12,7 +12,7 @@
 <!ENTITY  dn.accesskey              "n">
 <!ENTITY  remove.label              "Fjern">
 <!ENTITY  remove.accesskey          "F">
-<!ENTITY  edit.label                "Rediger nøgleord…">
+<!ENTITY  edit.label                "Rediger stikord…">
 <!ENTITY  edit.accesskey            "R">
 
 <!ENTITY  addEngine.label           "Hent flere søgetjenester…">

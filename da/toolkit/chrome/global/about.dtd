@@ -1,7 +1,7 @@
 <!ENTITY about.version                "version">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008">
-<!ENTITY about.copy.linkTitle         "Mozilla projektets bidragsydere">
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2009">
+<!ENTITY about.copy.linkTitle         "Mozilla projektets bidragydere">
 <!ENTITY about.copy.afterLink         ".">
 
 <!ENTITY about.license.beforeLink     "Læs dette produkts">
