@@ -3,7 +3,7 @@
 <!ENTITY useGlobalPrefs.accesskey     "U">
 <!ENTITY useCustomPrefs.label         "이 계정에 수신 확인 사용자 설정">
 <!ENTITY useCustomPrefs.accesskey     "C">
-<!ENTITY requestReceipt.label         "메시지를 보낼 때 항상 수신 확인하기">
+<!ENTITY requestReceipt.label         "메시지를 보낼 때 항상 수신 확인을 요청하기">
 <!ENTITY requestReceipt.accesskey     "W">
 <!ENTITY receiptArrive.label          "수신 확인 메시지를 받으면:">
 <!ENTITY leaveIt.label                "받은 편지함에 보관">

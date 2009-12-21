@@ -21,7 +21,7 @@
 <!ENTITY draftInOtherFolder.label "기타 폴더 지정:">
 <!ENTITY draftInOtherFolder.accesskey "t">
 <!--  LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440  -->
-<!ENTITY archivesFolderOn.label		"아래 계정을 &quot; 저장 &quot; 폴더로:">
+<!ENTITY archivesFolderOn.label		"아래 계정을 &quot;저장&quot; 폴더로:">
 <!ENTITY archivesFolderOn.accesskey	"n">
 <!ENTITY archiveInOtherFolder.label	"기타 폴더 지정:">
 <!ENTITY archiveInOtherFolder.accesskey	"h">

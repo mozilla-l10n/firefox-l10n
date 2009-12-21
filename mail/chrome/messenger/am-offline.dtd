@@ -15,7 +15,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "메시지 본문 받기">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "디스크 용량을 확보 하려면 오래된 메시지는 삭제해야 합니다.">
+<!ENTITY retentionCleanup.label "디스크 용량을 확보하려면 오래된 메시지는 삭제해야 합니다.">
 <!ENTITY retentionCleanupImap.label "디스크 용량을 확보하기 위해 오래된 메시지를 완전히 삭제 합니다. 이 컴퓨터 및 원격 서버의 원본까지 제거 합니다.">
 <!ENTITY retentionCleanupPop.label "디스크 용량을 확보하기 위해 오래된 메시지를 완전히 삭제 합니>다. 원격 서버의 원본을 제거 합니다.">
 <!ENTITY retentionKeepMsg.label "오래된 메시지 삭제하기">
