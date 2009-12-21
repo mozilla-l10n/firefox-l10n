@@ -121,8 +121,8 @@
 <!ENTITY toolsMenu.label              "Funktioner">
 <!ENTITY toolsMenu.accesskey          "u"> 
 
-<!ENTITY keywordfield.label           "Tilføj et nøgleord til denne søgning…">
-<!ENTITY keywordfield.accesskey       "n">
+<!ENTITY keywordfield.label           "Tilføj et stikord til denne søgning…">
+<!ENTITY keywordfield.accesskey       "s">
 <!ENTITY search.label                 "Søgning">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Filhentning">

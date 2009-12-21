@@ -4,21 +4,21 @@
 <!ENTITY window.macWidth               "39em">
 
 <!ENTITY proxyTitle.label              "Konfigurer proxier til at tilgå internettet">
-<!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "I">
-<!ENTITY  systemTypeRadio.label         "Brug systemets proxyindstillinger">
-<!ENTITY  systemTypeRadio.accesskey     "B">
-<!ENTITY WPADTypeRadio.label           "Auto-detekter proxyindstillinger for dette netværk">
+<!ENTITY noProxyTypeRadio.label        "Ingen proxy">
+<!ENTITY noProxyTypeRadio.accesskey    "I">
+<!ENTITY systemTypeRadio.label         "Brug systemets proxy-indstillinger">
+<!ENTITY systemTypeRadio.accesskey     "B">
+<!ENTITY WPADTypeRadio.label           "Auto-detekter proxy-indstillinger for dette netværk">
 <!ENTITY WPADTypeRadio.accesskey       "A">
-<!ENTITY manualTypeRadio.label         "Manuel proxykonfiguration:">
+<!ENTITY manualTypeRadio.label         "Manuel proxy-konfiguration:">
 <!ENTITY manualTypeRadio.accesskey     "M">
-<!ENTITY autoTypeRadio.label           "Automatisk proxykonfigurations-URL:">
+<!ENTITY autoTypeRadio.label           "Automatisk proxy-konfigurations-URL:">
 <!ENTITY autoTypeRadio.accesskey       "U">
 <!ENTITY reload.label                  "Genindlæs">
 <!ENTITY reload.accesskey              "e">
 <!ENTITY ftp.label                     "FTP-proxy:">
 <!ENTITY ftp.accesskey                 "F">
-<!ENTITY gopher.label                  "Gopherproxy:">
+<!ENTITY gopher.label                  "Gopher-proxy:">
 <!ENTITY gopher.accesskey              "G">
 <!ENTITY http.label                    "HTTP-proxy:">
 <!ENTITY http.accesskey                "T">
@@ -40,5 +40,5 @@
 <!ENTITY noproxy.label                 "Ingen proxy for:">
 <!ENTITY noproxy.accesskey             "n">
 <!ENTITY noproxyExplain.label          "Eks.: .mozilla.org, .net.dk, 192.168.1.0/24">
-<!ENTITY shareproxy.label              "Brug denne proxyserver for alle protokoller">
+<!ENTITY shareproxy.label              "Brug denne proxy-server for alle protokoller">
 <!ENTITY shareproxy.accesskey          "r">

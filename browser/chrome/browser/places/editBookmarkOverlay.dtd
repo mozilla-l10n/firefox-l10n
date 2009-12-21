@@ -15,8 +15,8 @@
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Adskil mærkater med kommaer">
 <!ENTITY editBookmarkOverlay.description.label               "Beskrivelse:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "B">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Nøgleord:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "ø">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Stikord:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "t">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Vis alle mærkater">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Indlæs dette bogmærke i sidebjælken">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "I">

@@ -114,7 +114,7 @@
 <!ENTITY col.url.label           "Placering">
 <!ENTITY col.lastvisit.label     "Senest besøgt">
 <!ENTITY col.visitcount.label    "Besøg">
-<!ENTITY col.keyword.label       "Nøgleord">
+<!ENTITY col.keyword.label       "Stikord">
 <!ENTITY col.description.label   "Beskrivelse">
 <!ENTITY col.dateadded.label     "Tilføjet">
 <!ENTITY col.lastmodified.label  "Sidst ændret">
