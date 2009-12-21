@@ -39,7 +39,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY            windowTitle.label    "Seleccione o perfil de utilizador">
-<!ENTITY            profileManager.title "Gestro de perfis do &brandShortName;">
+<!ENTITY            profileManager.title "Gestor de perfis do &brandShortName;">
 
 <!ENTITY            manage.label     "Gerir perfis…">
 <!ENTITY            manage.accesskey "G">
