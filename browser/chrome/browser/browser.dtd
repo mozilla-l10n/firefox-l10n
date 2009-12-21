@@ -12,7 +12,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!ENTITY tabCmd.label "Novo separador">
-<!ENTITY tabCmd.accesskey "e">
+<!ENTITY tabCmd.accesskey "s">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir endereço...">
 <!ENTITY openLocationCmd.accesskey "B">
@@ -167,7 +167,7 @@ shortcut keys on Linux. -->
 <!ENTITY deleteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
 <!ENTITY selectAllCmd.key "t">
-<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY preferencesCmd.label "Opções...">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
@@ -281,7 +281,7 @@ shortcut keys on Linux. -->
 <!ENTITY bookmarkThisFrameCmd.label "Adicionar esta frame aos marcadores...">
 <!ENTITY bookmarkThisFrameCmd.accesskey "M">
 <!ENTITY sendPageCmd.label "Enviar ligação...">
-<!ENTITY sendPageCmd.accesskey "v">
+<!ENTITY sendPageCmd.accesskey "l">
 <!ENTITY savePageCmd.label "Guardar página como...">
 <!ENTITY savePageCmd.accesskey "G">
 <!-- alternate for content area context menu -->
@@ -390,7 +390,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "e">
+<!ENTITY closeCmd.accesskey "F">
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
 <!ENTITY pageStyleMenu.accesskey "s">

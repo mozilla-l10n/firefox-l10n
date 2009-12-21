@@ -8,6 +8,6 @@
 <!ENTITY closeCmdGNOME.label        "Fechar">  
 <!ENTITY closeCmdGNOME.accesskey    "F">
 <!ENTITY copyrightInfo1             "&#169;1998-2008 Colaboradores. Todos os direitos reservados. Todos os direitos reservados. (">
-<!ENTITY licenseLink                "sobre:licença">
+<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Informação de licenciamento">
 <!ENTITY copyrightInfo2             ").">
