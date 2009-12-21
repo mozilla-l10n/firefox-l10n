@@ -38,7 +38,7 @@
 
 <!ENTITY importSource.title             "Importar dados e configurações">
 <!ENTITY importItems.title              "Itens">
-<!ENTITY importItems.label              "Importar este itens:">
+<!ENTITY importItems.label              "Importar estes itens:">
 
 <!ENTITY migrating.title                "Importando…">
 <!ENTITY migrating.label                "Estes itens estão sendo importados…">
