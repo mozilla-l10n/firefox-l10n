@@ -73,7 +73,7 @@
 <!ENTITY  mediaType             "Typ">
 <!ENTITY  mediaSize             "Storlek">
 <!ENTITY  mediaCount            "Antal gånger">
-<!ENTITY  mediaDimension        "Storlek:">
+<!ENTITY  mediaDimension        "Dimension:">
 <!ENTITY  mediaLongdesc         "Lång beskrivning:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Spara som…">
@@ -113,7 +113,7 @@
 <!ENTITY  securityView.identity.domain   "Webbplats:">
 <!ENTITY  securityView.identity.verifier "Verifierad av:">
 
-<!ENTITY  securityView.privacy.header                   "Sekretess &amp; historik">
+<!ENTITY  securityView.privacy.header                   "Sekretess och historik">
 <!ENTITY  securityView.privacy.history                  "Har jag besökt den här webbplatsen tidigare dagar?">
 <!ENTITY  securityView.privacy.cookies                  "Lagrar den här webbplatsen information (kakor) på min dator?">
 <!ENTITY  securityView.privacy.viewCookies              "Visa kakor">
