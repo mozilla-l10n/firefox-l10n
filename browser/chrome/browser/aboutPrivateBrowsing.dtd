@@ -10,5 +10,5 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "N">
 <!ENTITY privatebrowsingpage.howToStop "Per abbandonare la Navigazione anonima, selezionare &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; oppure chiudere &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart "È possibile avviare la Navigazione anonima anche selezionando il menu &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
-<!ENTITY privatebrowsingpage.moreInfo "Anche se questo computer non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagina visitate.">
+<!ENTITY privatebrowsingpage.moreInfo "Anche se questo computer non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY privatebrowsingpage.learnMore "Ulteriori informazioni">
