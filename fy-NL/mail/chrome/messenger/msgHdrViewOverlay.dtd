@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "aan ">
-<!ENTITY fromField2.label "van ">
+<!ENTITY toField2.label "oan ">
+<!ENTITY fromField2.label "fan ">
 <!ENTITY senderField2.label "ôfstjoerder ">
 <!ENTITY organizationField2.label "organisaasje ">
 <!ENTITY replyToField2.label "antwurd-nei ">
