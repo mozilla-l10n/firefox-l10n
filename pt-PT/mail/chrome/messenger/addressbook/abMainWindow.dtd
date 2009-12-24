@@ -54,7 +54,7 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "l">
+<!ENTITY deleteCmd.accesskey "a">
 <!ENTITY deleteAbCmd.label "Apagar Livro de Endereços">
 <!ENTITY deleteContactCmd.label "Apagar contacto">
 <!ENTITY deleteContactsCmd.label "Apagar contactos">
