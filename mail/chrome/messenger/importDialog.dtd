@@ -50,7 +50,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importMail.label         "Correio">
 <!ENTITY importMail.accesskey     "C">
 <!ENTITY importAddressbook.label  "Livros de Endereços">
-<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importAddressbook.accesskey "ç">
 <!ENTITY importSettings.label     "Definições">
 <!ENTITY importSettings.accesskey "D">
 <!ENTITY importFilters.label      "Filtros">
