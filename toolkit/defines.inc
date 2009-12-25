@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Lithuanian (LT)
+#define MOZ_LANG_TITLE Lietuvių
