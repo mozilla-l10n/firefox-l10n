@@ -48,7 +48,7 @@
 <!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Indstilingsnavn">
+<!ENTITY prefColumn.label "Indstillingsnavn">
 <!ENTITY lockColumn.label "Status">
 <!ENTITY typeColumn.label "Type">
 <!ENTITY valueColumn.label "Værdi">
