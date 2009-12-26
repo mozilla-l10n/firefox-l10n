@@ -48,8 +48,9 @@
 <!ENTITY  dontrememberActions.clearHistory.label "모든 방문 기록 삭제">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "사생활 보호 모드에서 &brandShortName; 자동 재시작">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "항상 사생활 보호 모드로만 이용">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
+
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single line in preferences as follows:

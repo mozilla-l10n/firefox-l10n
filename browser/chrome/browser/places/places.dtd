@@ -23,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "오름차순">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "북마크 이용하기">
-<!ENTITY help.usingBookmarks.accesskey "B">
-<!ENTITY help.usingHistory.label "방문 기록 이용하기">
-<!ENTITY help.usingHistory.accesskey "i">
-<!ENTITY help.advancedTips.label "고급 사용 방법">
-<!ENTITY help.advancedTips.accesskey "T">
 <!ENTITY cmd.findInBookmarks.label "북마크에서 찾기…">
 <!ENTITY cmd.findInBookmarks.accesskey "F">
 <!ENTITY cmd.findCurrent.label "현재 항목에서 찾기…">
@@ -81,7 +75,6 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 <!ENTITY cmd.properties.label "속성">
 <!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.show_info.key "i">
 <!ENTITY cmd.rename.label "이름 바꾸기">
 <!ENTITY cmd.rename.accesskey "R">
 <!ENTITY cmd.sortby_name.label "이름으로 정렬">
@@ -100,14 +93,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
 <!ENTITY cmd.reloadMicrosummary.label "라이브 타이틀 갱신">
 <!ENTITY cmd.reloadMicrosummary.accesskey "R">
-<!ENTITY cmd.groupby_site.label "사이트로 묶기">
-<!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "페이지로 묶기">
-<!ENTITY cmd.groupby_page.accesskey "P">
-<!ENTITY cmd.groupby_feed.label "피드로 묶기">
-<!ENTITY cmd.groupby_feed.accesskey "S">
-<!ENTITY cmd.groupby_post.label "글로 묶기">
-<!ENTITY cmd.groupby_post.accesskey "P">
 <!ENTITY cmd.moveBookmarks.label "이동…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
 
@@ -130,50 +115,11 @@
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "방문 기록">
 <!ENTITY search.scopeHistory.accesskey "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip "검색 설정 보이기">
-<!ENTITY search.scopeBarExpanderUp.tooltip "검색 설정 감추기">
 <!ENTITY saveSearch.label "저장">
 <!ENTITY saveSearch.accesskey "S">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "북마크만 검색">
-<!ENTITY advancedSearch.match.label "검색 조건: 아래 ">
-<!ENTITY advancedSearch.all.label "모든">
-<!ENTITY advancedSearch.any.label "일부">
-<!ENTITY advancedSearch.rules.label "조건에 맞는 항목 검색:">
-<!ENTITY advancedSearch.subj_keyword.label "제목 및 설명">
-<!ENTITY advancedSearch.subj_visited.label "방문일">
-<!ENTITY advancedSearch.subj_location.label "사이트 주소">
-<!ENTITY advancedSearch.location_startswith.label "시작 내용">
-<!ENTITY advancedSearch.location_is.label "일치">
-<!ENTITY advancedSearch.location_onsite.label "포함">
-<!ENTITY advancedSearch.time_is.label "일치">
-<!ENTITY advancedSearch.time_before.label "이전">
-<!ENTITY advancedSearch.time_after.label "이후">
-<!ENTITY advancedSearch.time_inlast.label "기간 설정">
-<!ENTITY advancedSearch.last_days.label "일">
-<!ENTITY advancedSearch.last_weeks.label "주">
-<!ENTITY advancedSearch.last_months.label "개월">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "모으기: ">
-<!ENTITY advancedSearch.groupby_host.label "호스트">
-<!ENTITY advancedSearch.groupby_domain.label "도메인">
-<!ENTITY advancedSearch.groupby_folder.label "폴더">
-<!ENTITY advancedSearch.sortby.label "정렬 조건: ">
-<!ENTITY advancedSearch.sortby_title.label "제목">
-<!ENTITY advancedSearch.sortby_date.label "날짜">
-<!ENTITY advancedSearch.sortby_visit.label "방문 횟수">
-<!ENTITY advancedSearch.sortby_url.label "주소">
-<!ENTITY advancedSearch.sortby_asc.label "오름차순">
-<!ENTITY advancedSearch.sortby_desc.label "내림차순">
-<!ENTITY advancedSearch.max.label "최대 결과: ">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "피드">
 <!ENTITY feed.subscribe.tooltip "구독">
-<!ENTITY view.detailsMacOSX.label "목록">
-<!ENTITY view.details.label "항목">
-<!ENTITY view.details.accesskey "D">
-<!ENTITY view.addons.label "부가 기능 보기">
 <!ENTITY maintenance.label "가져오기 및 복구">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY backCmd.label "뒤로">

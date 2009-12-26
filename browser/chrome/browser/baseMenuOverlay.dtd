@@ -7,18 +7,17 @@
 <!ENTITY helpMenu.accesskey "H">
 <!ENTITY helpMenuWin.label "도움말">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutCmd.label "&brandFullName; 정보">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutProduct.label "&brandFullName; 정보">
+<!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label		"&brandShortName; 도움말">
 <!ENTITY productHelp.accesskey		"H">
 <!ENTITY helpForIEUsers.label "Internet Explorer 사용자">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey		"?">
 <!ENTITY helpReleaseNotes.label "온라인 제품 소개서">
 <!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY helpTroubleshooting.label	"문제 해결 정보…">
-<!ENTITY helpTroubleshooting.accesskey	"T">
+<!ENTITY helpTroubleshootingInfo.label	"문제 해결 정보…">
+<!ENTITY helpTroubleshootingInfo.accesskey	"T">
 <!ENTITY updateCmd.label "업데이트 확인…">
 <!ENTITY preferencesCmdMac.label "환경 설정…">
 <!ENTITY preferencesCmdMac.commandkey ",">
