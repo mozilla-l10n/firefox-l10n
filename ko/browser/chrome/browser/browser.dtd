@@ -170,6 +170,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "새 창에 링크 열기">
 <!ENTITY openLinkCmd.accesskey "W">
+<!ENTITY openLinkCmdInCurrent.label     "링크 열기">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "새 탭에 링크 열기">
 <!ENTITY openLinkCmdInTab.accesskey "T">
 <!ENTITY openFrameCmd.label "새 창에 프레임 열기">
@@ -264,6 +266,9 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "버튼 숨기기">
 <!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "전체 화면">
+<!ENTITY videoFullScreen.accesskey   "F">
+
 
 <!ENTITY newTabButton.tooltip  "새 탭 열기">
 <!ENTITY newWindowButton.tooltip "새 창 열기">
