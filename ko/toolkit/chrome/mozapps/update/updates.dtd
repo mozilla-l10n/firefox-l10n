@@ -2,9 +2,6 @@
 <!ENTITY window.width "36em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "새 업데이트 확인">
-<!ENTITY  pluginupdatesfound.title "플러그인 업데이트 발견">
-<!ENTITY  pluginupdatesfound.label "하나 또는 그 이상의 새로운 플러그인을 찾았습니다.">
-<!ENTITY  pluginupdateslink.label  "플러그인 업그레이드 방법을 참조 하십시오.">
 <!ENTITY noupdatesfound.title "새 업데이트 없음">
 <!ENTITY  noupdatesautoenabled.intro  "현재 업데이트가 없습니다. &brandShortName;는 주기적으로 업데이트를 확인하고 있습니다.">
 <!ENTITY  noupdatesautodisabled.intro     "현재 업데이트가 없습니다. 다시 확인 하거나 &brandShortName;가 자동 업데이트 확인을 하도록 설정하십시오.">
@@ -27,17 +24,21 @@
 <!ENTITY  viewDetails.tooltip             "업데이트 상세 정보">
 <!ENTITY  updateCheck.label               "&brandShortName; 새 버전 찾기…">
 
+<!ENTITY  pluginupdatesfound.title	"신규 플러그인 업데이트">
+<!ENTITY  pluginupdatesfound.label	"설치 플러그인의 업데이트 버젼이 있습니다.">
+<!ENTITY  pluginupdateslink.label	"플러그인의 업데이트 순서 확인">
+
 <!ENTITY details.link "상세 정보">
 <!ENTITY error.label "현재 업데이트를 설치하는 도중 문제가 발생했습니다. &brandShortName;가 업데이트를 설치할 수 없습니다:">
 <!ENTITY errorManual.label "사용자가 직접 다음 사이트를 방문하여 &brandShortName; 업데이트의 최신 버전을 다운로드 할 수 있습니다.">
 <!ENTITY errorpatching.title "업데이트 실패">
 <!ENTITY errorpatching.intro "부분적인 업데이트를 할 수 없습니다. &brandShortName;가 업데이트 다운로드를 재시도 합니다.">
 <!ENTITY finishedPage.title "업데이트 설치 준비 완료">
-<!ENTITY finishedPage.text "&brandShortName;를 재시작 하면 업데이트가 적용됩니다. &brandShortName;를 지금 재시작하거나 나중에 할 수 있습니다.">
+<!ENTITY finishedPage.text "업데이트는 &brandShortName; 재시작시 적용 합니다. 지금 &brandShortName;를 재시작 하거나 나중에 하실 수 있습니다.">
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; 보안 및 안정성 업데이트를 다운로드 하였고 설치 준비가 완료되었습니다.">
 <!ENTITY finishedBackground.name "업데이트:">
 <!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
-<!ENTITY finishedBackground.more "&brandShortName;를 재시작 하면 업데이트가 적용됩니다. &brandShortName;를 지금 재시작하거나 나중에 할 수 있습니다.">
+<!ENTITY finishedBackground.more "업데이트는 &brandShortName; 재시작시 적용 합니다. 지금 &brandShortName;를 재시작 하거나 나중에 하실 수 있습니다.">
 <!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
 <!ENTITY installed.title "업데이트 설치 완료">
 <!ENTITY installed.intro "업데이트 설치가 완료되었습니다.">

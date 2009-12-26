@@ -7,7 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!ENTITY clearTimeDuration.label          "삭제할 기간: ">
 <!ENTITY clearTimeDuration.accesskey		"T">
-<!ENTITY clearTimeDuration.lastHour       "최근 한시간">
+<!ENTITY clearTimeDuration.lastHour       "최근 1시간">
 <!ENTITY clearTimeDuration.last2Hours     "최근 2시간">
 <!ENTITY clearTimeDuration.last4Hours     "최근 4시간">
 <!ENTITY clearTimeDuration.today          "오늘">

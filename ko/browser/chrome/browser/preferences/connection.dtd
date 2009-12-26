@@ -2,7 +2,7 @@
 <!ENTITY window.width "42em">
 <!ENTITY window.macWidth "39em">
 <!ENTITY proxyTitle.label "프록시 설정">
-<!ENTITY noProxyTypeRadio.label "프락시 사용 안함">
+<!ENTITY noProxyTypeRadio.label "프록시 사용 안 함">
 <!ENTITY noProxyTypeRadio.accesskey "y">
 <!ENTITY systemTypeRadio.label         "시스템 프록시 설정 사용">
 <!ENTITY systemTypeRadio.accesskey     "u">

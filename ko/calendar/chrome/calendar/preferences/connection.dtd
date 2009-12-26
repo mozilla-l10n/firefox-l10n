@@ -56,6 +56,8 @@
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP 프록시:">
 <!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  gopher.label                  "Gopher 프록시:">
+<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP 프록시:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL 프록시:">
@@ -70,6 +72,8 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "프록시를 사용하지 않을 항목:">
 <!ENTITY  noproxy.accesskey             "n">

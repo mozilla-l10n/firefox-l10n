@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "새 창으로 열기">
 <!ENTITY openInNewWindow.accesskey "W">
-<!ENTITY bookmarkLink.label "이 링크를 북마크에 추가…">
-<!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "링크 주소 복사">
 <!ENTITY copyLink.accesskey "C">

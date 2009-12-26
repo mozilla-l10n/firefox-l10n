@@ -2,7 +2,7 @@
 <!ENTITY chooseFile.label "파일 선택…">
 <!ENTITY newWindow.label "새 창">
 <!ENTITY newTab.label "새 탭">
-<!ENTITY topWindow.label "현재 창">
+<!ENTITY topTab.label "현재 탭">
 <!ENTITY caption.label "웹 주소 열기">
-<!ENTITY openWhere.label "열기:">
-<!ENTITY openBtn.label "열기">
+<!ENTITY openWhere.label "주소 지정:">
+<!ENTITY openBtn.label "열기:">

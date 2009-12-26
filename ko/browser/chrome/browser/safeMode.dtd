@@ -4,8 +4,9 @@
 <!ENTITY safeModeDescription2.label "변경 사항의 일부 또는 모두를 저장할 수 있습니다:">
 <!ENTITY resetToolbars.label "도구 모음 초기화">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY resetBookmarks.label "&brandShortName; 기본값으로 북마크 초기화">
-<!ENTITY resetBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label		"백업 이외 모든 북마크 삭제">
+<!ENTITY deleteBookmarks.accesskey	"b">
+
 <!ENTITY resetUserPrefs.label "&brandShortName; 기본값으로 모든 사용자 설정 초기화">
 <!ENTITY resetUserPrefs.accesskey "p">
 <!ENTITY restoreSearch.label          "기본 검색 사이트 재설정">
