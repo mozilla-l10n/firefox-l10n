@@ -1,21 +1,10 @@
 <!ENTITY back.label            "뒤로">
-<!ENTITY back.tooltip          "한 페이지 뒤로 가기">
 <!ENTITY forward.label         "앞으로">
-<!ENTITY forward.tooltip       "한 페이지 앞으로 가기">
 <!ENTITY reload.label          "새로 고침">
-<!ENTITY reload.tooltip        "현재 페이지 새로 고침">
 <!ENTITY stop.label            "중지">
-<!ENTITY stop.tooltip          "이 페이지 읽기 중지">
-<!ENTITY search.label          "웹 검색">
-<!ENTITY search.tooltip        "웹 페이지 검색하기">
-<!ENTITY go.label              "Go">
-<!ENTITY go.tooltip            "Go">
+<!ENTITY go.label              "이동">
 <!ENTITY openLocation.label    "주소 열기">
-<!ENTITY openLocation.tooltip  "웹 페이지 주소 열기">
 <!ENTITY star.label            "북마크에 추가">
-<!ENTITY star.tooltip          "이 페이지를 북마크에 추가하기">
-<!ENTITY bookmarks.label       "북마크">
-<!ENTITY bookmarks.tooltip     "북마크 보기">
 
 <!ENTITY newtab.label          "새 탭 열기">
 <!ENTITY closetab.label        "탭 닫기">
@@ -31,20 +20,19 @@
 
 <!ENTITY bookmarksHeader.label     "북마크">
 <!ENTITY bookmarksManage.label     "관리">
-<!ENTITY foldersHeader.label       "폴더">
 
-<!ENTITY editBookmarkEdit.label    "편집">
-<!ENTITY editBookmarkMove.label    "이동">
 <!ENTITY editBookmarkDone.label    "완료">
+<!ENTITY editBookmarkRemove.label  "삭제">
 <!ENTITY editBookmarkTags.label    "태그 추가">
 
-<!ENTITY findOnCmd.label     "이 페이지에서 찾기…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "다시 찾기">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY helperApp.prompt          "추가 기능 지원 :">
+<!ENTITY helperApp.open            "열기">
+<!ENTITY helperApp.save            "저장">
+<!ENTITY helperApp.nothing         "없음">
+
+<!ENTITY formHelper.previous       "이전">
+<!ENTITY formHelper.next           "다음">
+<!ENTITY formHelper.done           "완료">
 
 <!ENTITY addonsHeader.label        "부가 기능">
 <!ENTITY addonsLocal.label         "설치된 부가 기능 ">
@@ -104,6 +92,3 @@
 <!ENTITY consoleErrFile.label      "소스 파일:">
 <!ENTITY consoleErrLine.label      "행:">
 <!ENTITY consoleErrColumn.label    "열:">
-
-<!ENTITY selectListDone.label      "완료">
-

@@ -30,5 +30,5 @@
 <!ENTITY customPrompt.title "사용자 지정 크기">
 <!ENTITY homearrow.tooltip "첫 페이지">
 <!ENTITY endarrow.tooltip "마지막 페이지">
-<!ENTITY nextarrow.tooltip "다음 페이지">
-<!ENTITY previousarrow.tooltip "이전 페이지">
+<!ENTITY rightarrow.tooltip "다음 페이지">
+<!ENTITY leftarrow.tooltip "이전 페이지">

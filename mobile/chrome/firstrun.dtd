@@ -1,8 +1,9 @@
 <!ENTITY welcome.title                      "&brandShortName;사용을 환영합니다">
-<!ENTITY overview.description               "Weave를 사용한 PC와 모바일간의 동기화. 확장 기능으로 나만의 Fennec만들기. Awesome Bar와 함께 좀 더 많은 웹서핑을.">
-<!ENTITY sync.title                         "바로 사용하기">
-<!ENTITY sync.description                   "&brandShortName;에 Weave를 설치하고, 여러분의 PC와 모바일간의 환경 설정, 북마크, 히스토리 정보를 공유하세요.">
-<!ENTITY sync.linkLabel                     "Weave 확장 기능 설치하기">
-<!ENTITY getPersonal.title                  "나만을 위해 꾸미기">
-<!ENTITY getPersonal.description            "나만의 &brandShortName;만들기. 최초로 모바일용 확장 기능을 제공하는  맞춤형 브라우저를 설정하세요.">
-<!ENTITY getPersonal.linkLabel              "나만을 위한 확장 기능 받기">
+<!ENTITY weave.title                        "바로 가기">
+<!ENTITY intro.description                  "Weave를 통해 PC와 모바일 기기를 동기화 합니다. 주소창 검색으로 바로 이동할 수 있습니다.">
+<!ENTITY weave.description                  "Weave는 Firefox 이용을 도와 줍니다. PC의 방문 기록, 북마크, 암호 및 탭 기록을 공유하세요.">
+<!ENTITY weave.linkLabel                    "Weave 부가 기능">
+
+<!ENTITY getPersonal.title                  "Persona 받기">
+<!ENTITY getPersonal.description            "나만의 &brandShortName;만들기. 최초 모바일용 확장 기능을 제공 합니다.">
+<!ENTITY getPersonal.linkLabel              "Persona 기능 받기">

@@ -7,8 +7,8 @@
 <!ENTITY autoCheck.label "자동으로 업데이트할 항목:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "설치된 부가 기능">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableAddonsUpdate2.label "설치한 부가 기능">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "검색 사이트">
 <!ENTITY enableSearchUpdate.accesskey "h">
 <!ENTITY whenUpdatesFound.label "&brandShortName; 업데이트 항목이 있는 경우:">

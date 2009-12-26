@@ -11,7 +11,7 @@
 <!ENTITY generalURL "주소:">
 <!ENTITY generalType "형식:">
 <!ENTITY generalMode "렌더링 방식:">
-<!ENTITY generalSize "크기:">
+<!ENTITY generalSize "파일 용량:">
 <!ENTITY generalReferrer "참조 URL:">
 <!ENTITY generalSource "소스:">
 <!ENTITY generalModified "수정:">
@@ -25,7 +25,7 @@
 <!ENTITY mediaAddress "주소">
 <!ENTITY mediaType "유형">
 <!ENTITY mediaCount "카운트">
-<!ENTITY mediaDimension "크기:">
+<!ENTITY mediaDimension "사이즈:">
 <!ENTITY mediaLongdesc "설명:">
 <!ENTITY mediaSaveAs "다른 이름으로 저장...">
 <!ENTITY mediaSaveAs.accesskey "A">
@@ -34,7 +34,7 @@
 <!ENTITY generalSecurityDetails "상세 정보">
 <!ENTITY generalSecurityDetails.accesskey "D">
 <!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaSize "크기">
+<!ENTITY mediaSize "그림 크기">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs2.accesskey "e">
 <!ENTITY feedTab "피드">
@@ -44,6 +44,7 @@
 <!ENTITY permTab "이용 권한">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "기본 설정 이용">
+<!ENTITY permAskAlways	"항상 물어보기">
 <!ENTITY permAllow "허가">
 <!ENTITY permAllowSession "세션에 허가">
 <!ENTITY permBlock "차단">
@@ -52,6 +53,8 @@
 <!ENTITY permPopup "팝업 창 열기">
 <!ENTITY permCookie "쿠키 저장">
 <!ENTITY permInstall "확장 기능 및 테마 설치">
+<!ENTITY permGeo	"위치 정보 공유">
+
 <!ENTITY securityTab "보안">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "현재 페이지 보안 정보">

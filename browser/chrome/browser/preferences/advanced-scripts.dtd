@@ -6,12 +6,12 @@
 
 <!ENTITY allowScripts.label             "웹 페이지 내 자바스크립트 실행 허가 항목 선택:">
 
-<!ENTITY moveResizeWindows.label        "현재창의 이동 및 크기 조정">
+<!ENTITY moveResizeWindows.label        "창의 이동 및 크기 조정">
 <!ENTITY moveResizeWindows.accesskey    "M">
 
-<!ENTITY raiseLowerWindows.label        "현재창을 올리거나 내리기">
+<!ENTITY raiseLowerWindows.label        "창을 올리거나 내리기">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "우마우스 메뉴 사용하지 않거나 바꾸기">
+<!ENTITY disableContextMenus.label      "우클릭 메뉴 사용하지 않거나 바꾸기">
 <!ENTITY disableContextMenus.accesskey  "D">
 <!ENTITY hideStatusBar.label            "상태 표시줄 감추기">
 <!ENTITY hideStatusBar.accesskey        "H">

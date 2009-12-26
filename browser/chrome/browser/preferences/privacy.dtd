@@ -7,16 +7,8 @@
 <!ENTITY  locbar.both.label		"방문 기록 및 북마크">
 <!ENTITY  locbar.history.label		"방문 기록만">
 <!ENTITY  locbar.bookmarks.label	"북마크만">
-<!ENTITY  locbar.nothing.label		"추천 항목 표시 안함">
+<!ENTITY  locbar.nothing.label		"추천 항목 표시 안 함">
 
-<!ENTITY rememberDaysBefore.label "방문 웹 페이지 유지 시한">
-<!ENTITY rememberDaysBefore.accesskey "h">
-<!ENTITY rememberDaysAfter2.label "일">
-<!ENTITY rememberForms.label "검색 도구로 입력한 검색어를 기억">
-<!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "다운로드한 파일 항목을 기억">
-<!ENTITY rememberDownloads.accesskey "d">
-<!ENTITY cookies.label "쿠키">
 <!ENTITY acceptCookies.label "웹 사이트에서 제공 하는 쿠키 허용">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "제 3자 쿠키 허용">
@@ -30,16 +22,10 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "쿠키 보기…">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY privateData.label "개인 정보 초기화">
-<!ENTITY alwaysClear.label "&brandShortName;를 종료할 때, 개인 정보 모두 삭제">
-<!ENTITY alwaysClear.accesskey "w">
-<!ENTITY clearDataSettings.label "설정…">
-<!ENTITY clearDataSettings.accesskey "t">
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 작업 사항:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "방문 기록 저장">
-<!ENTITY  historyHeader.dontremember.label "방문 지록 저장 안함">
+<!ENTITY  historyHeader.dontremember.label "방문 기록 저장 안 함">
 <!ENTITY  historyHeader.custom.label       "사용자 정의 설정">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -73,10 +59,10 @@
 <!ENTITY  rememberHistory.pre.accesskey  "h">
 <!ENTITY  rememberHistory.post.label     "일">
 
-<!ENTITY  rememberDownload.label         "다운로드 기록 저장 기간">
+<!ENTITY  rememberDownload.label         "다운로드 기록 저장">
 <!ENTITY  rememberDownload.accesskey     "d">
 
-<!ENTITY  rememberSearchForm.label       "검색 및 입력 기록 저장 기간">
+<!ENTITY  rememberSearchForm.label       "검색 및 입력 기록 저장">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; 닫을 때 방문 기록 삭제">

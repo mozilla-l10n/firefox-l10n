@@ -1,5 +1,6 @@
 yahoo-kr
 google
+twitter
 daum-kr
 naver-kr
 wikipedia-kr
