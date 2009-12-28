@@ -16,14 +16,13 @@
 <!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpForIEUsers.label     "給 IE 使用者">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "版本資訊">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshooting.label      "疑難排解資訊">
-<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "疑難排解資訊">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY updateCmd.label                "檢查更新…">
 
