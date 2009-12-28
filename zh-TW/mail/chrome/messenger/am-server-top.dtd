@@ -17,7 +17,7 @@
 -->
 <!ENTITY biffStart.label "每">
 <!ENTITY biffStart.accesskey "y">
-<!ENTITY biffEnd.label "分">
+<!ENTITY biffEnd.label "分鐘檢查新郵件">
 <!ENTITY connectionSecurity.label "連線安全性:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "無">

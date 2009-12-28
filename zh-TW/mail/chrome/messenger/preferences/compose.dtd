@@ -33,7 +33,7 @@
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!ENTITY autoSave.label                       "每隔">
 <!ENTITY autoSave.accesskey                   "A">
-<!ENTITY autoSaveEnd.label                    "分">
+<!ENTITY autoSaveEnd.label                    "分鐘自動儲存">
 
 <!ENTITY emailCollectionPicker.label           "自動把寄信時使用的電子郵件位址加到我的:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
