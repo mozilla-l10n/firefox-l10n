@@ -2,7 +2,7 @@
 
 <!ENTITY biffStart.label "每">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "分">
+<!ENTITY biffEnd.label "分鐘檢查新文章">
 
 <!ENTITY loginAtStartup.label "啟動時檢查是否有新文章"> 
 <!ENTITY loginAtStartup.accesskey "C">

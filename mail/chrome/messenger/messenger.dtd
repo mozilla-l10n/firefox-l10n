@@ -305,10 +305,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.label "未讀郵件">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "下一封未讀">
+<!ENTITY goForwardCmd.label "下一頁">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "上一封未讀">
+<!ENTITY goBackCmd.label "上一頁">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "已加星號郵件">
@@ -441,6 +441,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "活動管理員">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "管理篩選條件…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "篩選此資料夾">
@@ -474,8 +476,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveButton.label "備存">
 <!ENTITY nextButton.label "下一封">
 <!ENTITY previousButton.label "上一封">
-<!ENTITY backButton1.label "上一封未讀">
-<!ENTITY goForwardButton1.label "下一封未讀">
+<!ENTITY backButton1.label "上一頁">
+<!ENTITY goForwardButton1.label "下一頁">
 <!ENTITY deleteButton.label "刪除項目">
 <!ENTITY undeleteButton.label "還原">
 <!ENTITY markButton.label "標示">
@@ -507,8 +509,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveButton.tooltip "將選取的郵件備存">
 <!ENTITY nextButton.tooltip "移至下一封未讀郵件">
 <!ENTITY previousButton.tooltip "移至上一封未讀郵件">
-<!ENTITY goForwardButton.tooltip "下一封郵件">
-<!ENTITY goBackButton.tooltip "上一封郵件">
+<!ENTITY goForwardButton.tooltip "前往下一頁">
+<!ENTITY goBackButton.tooltip "回到上一頁">
 <!ENTITY deleteButton.tooltip "刪除已選的郵件或資料夾">
 <!ENTITY undeleteButton.tooltip "還原選取的郵件">
 <!ENTITY markButton.tooltip "標示郵件">
