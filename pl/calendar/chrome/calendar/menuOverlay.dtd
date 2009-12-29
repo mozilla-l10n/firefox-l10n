@@ -70,7 +70,7 @@
 <!ENTITY calendar.export.selection.accesskey    "t">
 
 <!ENTITY calendar.publish.label                 "Publikuj…">
-<!ENTITY calendar.publish.accesskey             "p">
+<!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Usuń wybrany kalendarz…">
 <!ENTITY calendar.deletecalendar.accesskey      "U">
@@ -92,7 +92,7 @@
 <!ENTITY calendar.menu.numberofweeks.6          "Sześć tygodni">
 
 <!ENTITY goTodayCmd.label                       "Dzisiaj">
-<!ENTITY goTodayCmd.accesskey                   "D">
+<!ENTITY goTodayCmd.accesskey                   "z">
 
 <!ENTITY goPreviousCmd.day.label                "Poprzedni dzień">
 <!ENTITY goPreviousCmd.week.label               "Poprzedni tydzień">

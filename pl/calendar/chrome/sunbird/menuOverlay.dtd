@@ -125,7 +125,7 @@
 <!ENTITY goMenu.accesskey                       "r">
 
 <!ENTITY goDateCmd.label                        "Dzień…">
-<!ENTITY goDateCmd.accesskey                    "z">
+<!ENTITY goDateCmd.accesskey                    "D">
 
 <!ENTITY toolsMenu.label                        "Narzędzia">
 <!ENTITY toolsMenu.accesskey                    "n">
