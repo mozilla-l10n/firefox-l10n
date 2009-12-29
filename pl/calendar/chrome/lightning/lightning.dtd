@@ -47,9 +47,9 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label        "Wydarzenie…">
-<!ENTITY lightning.menupopup.new.event.accesskey    "W">
+<!ENTITY lightning.menupopup.new.event.accesskey    "d">
 <!ENTITY lightning.menupopup.new.task.label         "Zadanie…">
-<!ENTITY lightning.menupopup.new.task.accesskey     "Z">
+<!ENTITY lightning.menupopup.new.task.accesskey     "n">
 <!ENTITY lightning.menupopup.new.calendar.label     "Kalendarz…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "a">
 
@@ -63,9 +63,9 @@
 
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label           "Kalendarz">
-<!ENTITY lightning.menu.view.calendar.accesskey       "K">
+<!ENTITY lightning.menu.view.calendar.accesskey       "r">
 <!ENTITY lightning.menu.view.tasks.label              "Zadania">
-<!ENTITY lightning.menu.view.tasks.accesskey          "Z">
+<!ENTITY lightning.menu.view.tasks.accesskey          "a">
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label       "Wydarzenia i zadania">
