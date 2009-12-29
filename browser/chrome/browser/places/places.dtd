@@ -92,7 +92,7 @@
 <!ENTITY cmd.new_livemark.accesskey "G">
 <!ENTITY cmd.new_folder.label "Jauna mape...">
 <!ENTITY cmd.new_folder.accesskey "m">
-<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.context_new_folder.accesskey "m">
 <!ENTITY cmd.new_separator.label "Jauns atdalītājs">
 <!ENTITY cmd.new_separator.accesskey "S">
 
