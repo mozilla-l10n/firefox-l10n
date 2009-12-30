@@ -9,7 +9,7 @@
 <!ENTITY cmd.close.commandKey             "w">
 
 <!-- View labels -->
-<!ENTITY search.label                     "Add-ons herunterladen">
+<!ENTITY search.label                     "Add-ons suchen">
 <!ENTITY extensions.label                 "Erweiterungen">
 <!ENTITY themes.label                     "Themes">
 <!ENTITY locales.label                    "Sprachen">
