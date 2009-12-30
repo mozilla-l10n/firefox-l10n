@@ -21,8 +21,8 @@
    - Contributor(s):
    -      Eric Hodel <drbrain@segment7.net>
    -      Stuart Ballard <sballard@netreach.net>
-   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
-   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,7 +42,7 @@
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
 <!ENTITY linkToolbarAlways.accesskey "M">
 <!ENTITY linkToolbarAsNeeded.label "Mostra solo se necessario">
-<!ENTITY linkToolbarAsNeeded.accesskey "c">
+<!ENTITY linkToolbarAsNeeded.accesskey "s">
 <!ENTITY linkToolbarNever.label "Nascondi sempre">
 <!ENTITY linkToolbarNever.accesskey "N">
 <!ENTITY topButton.label "Inizio">

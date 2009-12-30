@@ -5,6 +5,6 @@
 <!ENTITY manage.accesskey "G">
 <!ENTITY select.label "Utilizza profilo">
 <!ENTITY availableProfiles.label "Profili disponibili">
-<!ENTITY introStart.label "Per accedere al tuo profilo che contiene i messaggi memorizzati, le impostazioni e le altre infomazioni personalizzate, sceglilo dall'elenco, e fai clic &start.label; per iniziare la tua sessione.">
-<!ENTITY introSwitch.label "Per passare ad un altro profilo che contiene i messeggi memorizzati, le impostazioni e le altre informazioni personalizzate, sceglilo dall'elenco e fai clic su &select.label; per iniziare ad usarlo.">
+<!ENTITY introStart.label "Per accedere al tuo profilo che contiene i messaggi memorizzati, le impostazioni e le altre informazioni personalizzate, sceglilo dall'elenco, e fai clic &start.label; per iniziare la tua sessione.">
+<!ENTITY introSwitch.label "Per passare ad un altro profilo che contiene i messaggi memorizzati, le impostazioni e le altre informazioni personalizzate, sceglilo dall'elenco e fai clic su &select.label; per iniziare ad usarlo.">
 <!ENTITY profileManagerText.label "&brandShortName; archivia le informazioni riguardanti le tue impostazioni, preferenze, segnalibri, messaggi memorizzati ed altri elementi nel tuo profilo utente.">

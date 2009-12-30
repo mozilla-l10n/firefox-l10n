@@ -3,9 +3,9 @@
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "u">
 <!ENTITY smtpListEdit.label "Modifica…">
-<!ENTITY smtpListEdit.accesskey "M">
+<!ENTITY smtpListEdit.accesskey "o">
 <!ENTITY smtpListDelete.label "Elimina">
-<!ENTITY smtpListDelete.accesskey "n">
+<!ENTITY smtpListDelete.accesskey "m">
 <!ENTITY smtpListSetDefault.label "Imposta come predefinito">
 <!ENTITY smtpListSetDefault.accesskey "d">
 <!ENTITY serverDescription.label "Descrizione:">

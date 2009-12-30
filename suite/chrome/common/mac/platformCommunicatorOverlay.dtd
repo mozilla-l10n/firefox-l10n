@@ -3,10 +3,10 @@
 <!ENTITY preferencesCmd.modifiers "accel">
 <!ENTITY servicesMenu.label "Servizi">
 <!ENTITY hideThisAppCmd.label "Nascondi &brandShortName;">
-<!ENTITY hideThisAppCmd.key "N">
+<!ENTITY hideThisAppCmd.key "H">
 <!ENTITY hideThisAppCmd.modifiers "accel">
-<!ENTITY hideOtherAppsCmd.label "Nascondi gli altri">
-<!ENTITY hideOtherAppsCmd.key "a">
+<!ENTITY hideOtherAppsCmd.label "Nascondi altre">
+<!ENTITY hideOtherAppsCmd.key "H">
 <!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
 <!ENTITY showAllAppsCmd.label "Mostra tutti">
 <!ENTITY quitApplicationCmd.label "Esci da &brandShortName;">
@@ -24,7 +24,7 @@
 <!ENTITY accel.emacs_conflict "accel">
 <!ENTITY minimizeWindowCmd.label "Minimizza">
 <!ENTITY minimizeWindowCmd.key "M">
-<!ENTITY zoomWindowCmd.label "Zoom testo">
+<!ENTITY zoomWindowCmd.label "Ridimensiona">
 <!ENTITY openHelpCmd.label "Guida di &brandShortName;">
 <!ENTITY openHelpCmd.accesskey "G">
 <!ENTITY openHelpCmd.key "?">

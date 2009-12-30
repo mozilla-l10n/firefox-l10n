@@ -17,9 +17,9 @@
 <!ENTITY draftInOtherFolder.label "Altro:">
 <!ENTITY draftInOtherFolder.accesskey "r">
 <!ENTITY archivesFolderOn.label "Cartella &quot;Archivi&quot; su:">
-<!ENTITY archivesFolderOn.accesskey "v">
+<!ENTITY archivesFolderOn.accesskey "h">
 <!ENTITY archiveInOtherFolder.label "Altro:">
-<!ENTITY archiveInOtherFolder.accesskey "A">
+<!ENTITY archiveInOtherFolder.accesskey "l">
 <!ENTITY templatesFolderOn.label "Cartella &quot;Modelli&quot; in:">
 <!ENTITY templatesFolderOn.accesskey "d">
 <!ENTITY templateInOtherFolder.label "Altro:">

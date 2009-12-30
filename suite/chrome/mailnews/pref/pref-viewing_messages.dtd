@@ -26,16 +26,16 @@
 <!ENTITY markAsReadNoDelay.label "Appena vengono visualizzati">
 <!ENTITY markAsReadNoDelay.accesskey "z">
 <!ENTITY markAsReadDelay.label "Dopo essere stati visualizzati per">
-<!ENTITY markAsReadDelay.accesskey "D">
+<!ENTITY markAsReadDelay.accesskey "t">
 <!ENTITY secondsLabel.label "secondi">
 <!ENTITY openingMessages.label "All'apertura dei messaggi, visualizzali in:">
 <!ENTITY newWindowRadio.label "Una nuova finestra messaggi">
 <!ENTITY newWindowRadio.accesskey "U">
 <!ENTITY existingWindowRadio.label "Una finestra messaggi esistente">
 <!ENTITY existingWindowRadio.accesskey "f">
-<!ENTITY disableContent.label "Blocca immagini e altri contenuti da sorgenti remote">
+<!ENTITY disableContent.label "Blocca immagini ed altri contenuti da sorgenti remote">
 <!ENTITY disableContent.accesskey "B">
 <!ENTITY showCondensedAddresses.label "Mostra solo nomi per le persone presenti in rubrica">
 <!ENTITY showCondensedAddresses.accesskey "o">
 <!ENTITY closeMsgWindowOnDelete.label "Chiudi la finestra messaggio alla sua cancellazione">
-<!ENTITY closeMsgWindowOnDelete.accesskey "h">
+<!ENTITY closeMsgWindowOnDelete.accesskey "n">

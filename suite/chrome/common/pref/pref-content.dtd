@@ -3,7 +3,7 @@
 <!ENTITY siteIcons.label "Icone sito web">
 <!ENTITY useSiteIcons.label "Mostra icone sito web">
 <!ENTITY useSiteIcons.accesskey "M">
-<!ENTITY useFavIcons.label "Cerca caccuratamente le icone del sito sito web quando la pagina non ne definisce una">
+<!ENTITY useFavIcons.label "Cerca accuratamente le icone del sito sito web quando la pagina non ne definisce una">
 <!ENTITY useFavIcons.accesskey "C">
 <!ENTITY tbIconsDescription.label "Mostra le icone dei siti web nei segnalibri e nella barra degli strumenti:">
 <!ENTITY tbIconsNever.label "Non mostrare mai le icone nei segnalibri">
@@ -17,4 +17,4 @@
 <!ENTITY useSmoothScroll.label "Utilizza lo scorrimento continuo">
 <!ENTITY useSmoothScroll.accesskey "U">
 <!ENTITY textZoomOnly.label "Fai lo zoom del solo testo invece di intere pagine">
-<!ENTITY textZoomOnly.accesskey "z">
+<!ENTITY textZoomOnly.accesskey "F">

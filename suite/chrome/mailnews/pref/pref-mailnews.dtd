@@ -4,22 +4,22 @@
 <!ENTITY confirmMove.label "Chiedi conferma prima di spostare cartelle nel Cestino">
 <!ENTITY confirmMove.accesskey "C">
 <!ENTITY preserveThreading.label "Mantieni la divisione per argomenti durante l'ordinamento dei messaggi">
-<!ENTITY preserveThreading.accesskey "n">
+<!ENTITY preserveThreading.accesskey "M">
 <!ENTITY mailBiffOnNewWindow.label "Controlla i nuovi messaggi solo dopo l'apertura di Posta e gruppi di discussione">
 <!ENTITY mailBiffOnNewWindow.accesskey "o">
 <!ENTITY defaultMailSettings.description "Rendi &brandShortName; l'applicazione predefinita per:">
 <!ENTITY setDefaultMail.label "Posta">
 <!ENTITY setDefaultMail.accesskey "P">
 <!ENTITY setDefaultNews.label "Gruppi di discussione">
-<!ENTITY setDefaultNews.accesskey "d">
+<!ENTITY setDefaultNews.accesskey "G">
 <!ENTITY setDefaultFeed.label "Feed">
 <!ENTITY setDefaultFeed.accesskey "F">
 <!ENTITY messengerStartPage.caption "Pagina di avvio Posta">
 <!ENTITY enableStartPage.label "All'avvio di Posta, visualizza la pagina iniziale nell'area dei messaggi">
-<!ENTITY enableStartPage.accesskey "v">
+<!ENTITY enableStartPage.accesskey "A">
 <!ENTITY location.label "Indirizzo:">
-<!ENTITY location.accesskey "z">
+<!ENTITY location.accesskey "I">
 <!ENTITY useDefault.label "Ripristina predefinito">
-<!ENTITY useDefault.accesskey "R">
+<!ENTITY useDefault.accesskey "d">
 <!ENTITY rememberLastMsg.label "Ricorda l'ultimo messaggio selezionato">
-<!ENTITY rememberLastMsg.accesskey "u">
+<!ENTITY rememberLastMsg.accesskey "R">

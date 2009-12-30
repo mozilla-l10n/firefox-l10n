@@ -2,7 +2,7 @@
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY subject.label "Oggetto:">
-<!ENTITY subject.accesskey "O">
+<!ENTITY subject.accesskey "t">
 <!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "A">
 <!ENTITY newMessage.label "Messaggio">

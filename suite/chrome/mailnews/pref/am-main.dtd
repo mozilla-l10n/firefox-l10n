@@ -1,10 +1,10 @@
 <!ENTITY accountTitle.label "Impostazioni account">
 <!ENTITY accountName.label "Nome dell'account:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "a">
 <!ENTITY identityTitle.label "Identità predefinita">
 <!ENTITY identityDesc.label "Ogni account ha una identità, che è l'informazione che le altre persone vedono quando leggono i tuoi messaggi.">
 <!ENTITY name.label "Il tuo nome:">
-<!ENTITY name.accesskey "t">
+<!ENTITY name.accesskey "n">
 <!ENTITY email.label "Indirizzo e-mail:">
 <!ENTITY email.accesskey "m">
 <!ENTITY replyTo.label "Indirizzo per la risposta:">
@@ -12,9 +12,9 @@
 <!ENTITY organization.label "Organizzazione:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Testo per firma:">
-<!ENTITY signatureText.accesskey "m">
+<!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "Utilizza HTML">
-<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Allega firma da un file:">
 <!ENTITY signatureFile.accesskey "f">
 <!ENTITY choose.label "Scegli…">

@@ -1,7 +1,7 @@
 <!--null-->
 <!ENTITY pref.receipts.title "Ricevute di ritorno">
 <!ENTITY prefReceipts.caption "Ricevute di ritorno">
-<!ENTITY requestReceipt.label "All'invio di un messaggio, richiedi sempre una ricevuta di ritorno">
+<!ENTITY requestReceipt.label "All'invio di ogni messaggio, richiedi sempre una ricevuta di ritorno">
 <!ENTITY requestReceipt.accesskey "A">
 <!ENTITY receiptArrive.label "All'arrivo di una ricevuta di ritorno:">
 <!ENTITY leaveIt.label "Lasciala nella cartella In arrivo">
@@ -13,12 +13,12 @@
 <!ENTITY returnSome.accesskey "R">
 <!ENTITY never.label "Non restituire mai una ricevuta">
 <!ENTITY never.accesskey "N">
-<!ENTITY notInToCc.label "Se il proprio indirizzo non compare in A: o CC:">
+<!ENTITY notInToCc.label "Se il proprio indirizzo non compare in A: o Cc:">
 <!ENTITY notInToCc.accesskey "o">
 <!ENTITY outsideDomain.label "Se il mittente non appartiene al proprio dominio:">
 <!ENTITY outsideDomain.accesskey "e">
 <!ENTITY otherCases.label "Negli altri casi:">
-<!ENTITY otherCases.accesskey "t">
+<!ENTITY otherCases.accesskey "c">
 <!ENTITY askMe.label "Chiedi">
 <!ENTITY alwaysSend.label "Invia sempre">
 <!ENTITY neverSend.label "Non inviare">

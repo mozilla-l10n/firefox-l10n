@@ -3,24 +3,24 @@
 <!ENTITY textStartUp "All'avvio:">
 <!ENTITY textStartUp.accesskey "A">
 <!ENTITY menuitemRememberPrevState "Ricorda lo stato di linea precedente">
-<!ENTITY menuitemAskMe "Chiedimi all'avvio lo stato della linea">
+<!ENTITY menuitemAskMe "Chiedimi lo stato della linea">
 <!ENTITY menuitemAlwaysOnline "Avvia sempre in linea">
 <!ENTITY menuitemAlwaysOffline "Avvia sempre fuori linea">
-<!ENTITY menuitemAutomatic "Riconsoci automaticamente (se disponibile)">
+<!ENTITY menuitemAutomatic "Riconosci automaticamente (se disponibile)">
 <!ENTITY textGoingOnline "Inviare i messaggi non inviati quando si va fuori linea?">
 <!ENTITY radioAutoSend "Sì">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend "No">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent "Chiedi">
-<!ENTITY radioAskUnsent.accesskey "h">
+<!ENTITY radioAskUnsent.accesskey "C">
 <!ENTITY textGoingOffline "Scaricare i messaggi per l'uso fuori linea quando si va fuori linea?">
 <!ENTITY radioAutoDownload "Sì">
 <!ENTITY radioAutoDownload.accesskey "ì">
 <!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Chiedi">
-<!ENTITY radioAskDownload.accesskey "d">
+<!ENTITY radioAskDownload.accesskey "h">
 <!ENTITY mailConnections.caption "Connessioni di posta">
 <!ENTITY mailnewsTimeout.label "Tempo limite connessione:">
 <!ENTITY mailnewsTimeout.accesskey "T">

@@ -1,19 +1,19 @@
 <!ENTITY offlineGoOfflineCmd.label "Lavora fuori linea">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
-<!ENTITY fileMenu.label "Archivia">
+<!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nuovo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Composizione pagina">
-<!ENTITY newBlankPageCmd.accesskey "C">
+<!ENTITY newBlankPageCmd.accesskey "o">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Pagina da modello">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label "Pagina da bozza">
 <!ENTITY newPageFromDraftCmd.accesskey "b">
 <!ENTITY newNavigatorCmd.label "Finestra browser">
-<!ENTITY newNavigatorCmd.key "b">
-<!ENTITY newNavigatorCmd.accesskey "F">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "b">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
@@ -40,9 +40,9 @@
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY findTypeTextCmd.label "Trova testo digitato">
-<!ENTITY findTypeTextCmd.accesskey "g">
+<!ENTITY findTypeTextCmd.accesskey "d">
 <!ENTITY findTypeLinksCmd.label "Trova testo digitato nei collegamenti">
-<!ENTITY findTypeLinksCmd.accesskey "l">
+<!ENTITY findTypeLinksCmd.accesskey "m">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Mostra/Nascondi">
@@ -53,8 +53,8 @@
 <!ENTITY helpMenu.accesskey "G">
 <!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
-<!ENTITY updateCmd.label "Controllo degli aggiornamenti…">
-<!ENTITY updateCmd.accesskey "C">
+<!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
+<!ENTITY updateCmd.accesskey "a">
 <!ENTITY aboutCmd.label "Informazioni su &brandShortName;">
 <!ENTITY aboutCmd.accesskey "I">
 <!ENTITY aboutCommPluginsCmd.label "Informazioni sui plugin">

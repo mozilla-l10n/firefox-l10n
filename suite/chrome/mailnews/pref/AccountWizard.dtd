@@ -1,5 +1,5 @@
 <!ENTITY windowTitle.label "Creazione nuovo account">
-<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY accountWizard.size "width: 46em; height: 38em;">
 <!ENTITY accountSetupInfo.label "Per poter ricevere i messaggi, è necessario configurare gli account di posta e dei gruppi di discussione.">
 <!ENTITY accountTypeTitle.label "Configurazione nuovo account">
 <!ENTITY accountTypeDesc.label "Questa creazione guidata raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste, contattare il proprio amministratore di sistema o fornitore di servizio.">
@@ -15,7 +15,7 @@
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Indirizzo e-mail:">
-<!ENTITY emailLabel.accesskey "I">
+<!ENTITY emailLabel.accesskey "e">
 <!ENTITY serverTitle.label "Informazioni sul server">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
 <!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio, &quot;mail.esempio.it&quot;).">
@@ -28,7 +28,7 @@
 <!ENTITY newsServerLabel.label "Server gruppi discussione:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
+<!ENTITY imapType.accesskey "M">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "L'attuale server di uscita (SMTP), &quot;">
@@ -58,7 +58,7 @@
 <!ENTITY downloadOnLogin.label "Scarica subito i messaggi">
 <!ENTITY downloadOnLogin.accesskey "S">
 <!ENTITY deferStorageDesc.label "Spuntare questa casella per memorizzare la posta di questo account nella cartella In arrivo globale dell'account Cartelle Locali. Altrimenti l'account sarà visibile come account di livello superiore e la sua posta sarà memorizzata nella propria cartella.">
-<!ENTITY deferStorage.label "Utilizzare In arrivo globale (memorizza la posta in Cartelle Locali)">
-<!ENTITY deferStorage.accesskey "b">
+<!ENTITY deferStorage.label "Utilizza In arrivo globale (memorizza la posta in Cartelle Locali)">
+<!ENTITY deferStorage.accesskey "U">
 <!ENTITY clickFinish.label "Premere Fine per salvare queste impostazioni ed uscire dalla creazione guidata dell'account.">
 <!ENTITY clickFinish.labelMac "Fare clic su Fatto per salvare queste impostazioni ed uscire dalla creazione guidata del nuovo account.">

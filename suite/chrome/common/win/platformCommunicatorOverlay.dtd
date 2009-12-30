@@ -15,8 +15,6 @@
 <!ENTITY openHelpCmd.key "VK_F1">
 <!ENTITY helpForIEUsers.label "Per utenti di Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY helpMenu.label "Guida">
-<!ENTITY helpMenu.accesskey "G">
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
 <!ENTITY shiftKey.label "Maiusc">

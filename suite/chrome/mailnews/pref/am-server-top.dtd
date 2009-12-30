@@ -8,21 +8,21 @@
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predefinito:">
-<!ENTITY biffStart.label "Controlla nuovi messaggi in arrivo ogni ">
-<!ENTITY biffStart.accesskey "n">
+<!ENTITY biffStart.label "Controlla la presenza di nuovi messaggi ogni ">
+<!ENTITY biffStart.accesskey "z">
 <!ENTITY biffEnd.label "minuti">
 <!ENTITY connectionSecurity.label "Sicurezza della connessione:">
-<!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "Nessuno">
+<!ENTITY connectionSecurity.accesskey "c">
+<!ENTITY connectionSecurityType-0.label "Nessuna">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponibile">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Utilizza autenticazione sicura">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY useSecAuth.accesskey "U">
 <!ENTITY leaveOnServer.label "Lascia i messaggi sul server">
 <!ENTITY leaveOnServer.accesskey "L">
 <!ENTITY headersOnly.label "Scarica solo intestazioni">
-<!ENTITY headersOnly.accesskey "z">
+<!ENTITY headersOnly.accesskey "t">
 <!ENTITY deleteByAgeFromServer.label "Per al più">
 <!ENTITY deleteByAgeFromServer.accesskey "ù">
 <!ENTITY daysEnd.label "giorni">
@@ -32,12 +32,12 @@
 <!ENTITY downloadOnBiff.accesskey "o">
 <!ENTITY username.label "Nome di accesso">
 <!ENTITY deleteMessagePrefix.label "Quando si elimina un messaggio:">
-<!ENTITY modelMoveToTrash.label "Sposta nella cartella Cestino">
+<!ENTITY modelMoveToTrash.label "Spostalo nella cartella:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Segna come eliminato">
-<!ENTITY modelMarkDeleted.accesskey "S">
+<!ENTITY modelMarkDeleted.label "Marca solo come eliminato">
+<!ENTITY modelMarkDeleted.accesskey "l">
 <!ENTITY modelDeleteImmediately.label "Elimina immediatamente">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "t">
 <!ENTITY expungeOnExit.label "Ripulisci la cartella 'In arrivo' dai messaggi eliminati prima di uscire">
 <!ENTITY expungeOnExit.accesskey "m">
 <!ENTITY emptyTrashOnExit.label "Svuota il Cestino prima di uscire">

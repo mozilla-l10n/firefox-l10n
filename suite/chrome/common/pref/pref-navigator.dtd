@@ -1,33 +1,33 @@
-<!ENTITY pref.navigator.title "Navigator">
+<!ENTITY pref.navigator.title "Browser">
 <!ENTITY navRadio.label "Mostra">
 <!ENTITY navRadio.accesskey "M">
-<!ENTITY navStartPageMenu.label "Avvio di Navigator">
-<!ENTITY newWinPageMenu.label "Nuova finestra">
-<!ENTITY newTabPageMenu.label "Nuova scheda">
+<!ENTITY navStartPageMenu.label "all'avvio del browser">
+<!ENTITY newWinPageMenu.label "nella nuova finestra">
+<!ENTITY newTabPageMenu.label "nella nuova scheda">
 <!ENTITY blankPageRadio.label "Pagina bianca">
 <!ENTITY blankPageRadio.accesskey "b">
 <!ENTITY homePageRadio.label "Pagina home">
 <!ENTITY homePageRadio.accesskey "h">
 <!ENTITY lastPageRadio.label "Ultima pagina visitata">
-<!ENTITY lastPageRadio.accesskey "v">
+<!ENTITY lastPageRadio.accesskey "U">
 <!ENTITY restoreSessionRadio.label "Ripristina sessione precedente">
-<!ENTITY restoreSessionRadio.accesskey "t">
+<!ENTITY restoreSessionRadio.accesskey "d">
 <!ENTITY header2.label "Pagina home">
 <!ENTITY homePageIntro.label "La pressione del pulsante Home fa caricare la pagina o gruppo di pagine specificati.">
 <!ENTITY useCurrent.label "Utilizza pagina corrente">
-<!ENTITY useCurrent.accesskey "U">
+<!ENTITY useCurrent.accesskey "z">
 <!ENTITY useCurrentGroup.label "Utilizza gruppo corrente">
-<!ENTITY useCurrentGroup.accesskey "c">
+<!ENTITY useCurrentGroup.accesskey "o">
 <!ENTITY browseFile.label "Scegli file…">
 <!ENTITY browseFile.accesskey "S">
 <!ENTITY useDefault.label "Ripristina valori predefiniti">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY toolbarIntro.label "Selezionare i pulsanti da visualizzare nelle barre degli strumenti:">
+<!ENTITY toolbarIntro.label "Seleziona i pulsanti da visualizzare nelle barre degli strumenti:">
 <!ENTITY navToolbarIntro.label "Barra degli strumenti di navigazione">
 <!ENTITY goButton.label "Vai">
-<!ENTITY goButton.accesskey "a">
+<!ENTITY goButton.accesskey "V">
 <!ENTITY searchButton.label "Cerca">
-<!ENTITY searchButton.accesskey "e">
+<!ENTITY searchButton.accesskey "C">
 <!ENTITY defaultBrowserGroup.label "Browser predefinito">
 <!ENTITY defaultBrowserButton.label "Imposta come browser predefinito">
 <!ENTITY defaultBrowserButton.accesskey "d">

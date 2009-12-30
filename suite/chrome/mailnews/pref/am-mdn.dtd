@@ -18,9 +18,9 @@
 <!ENTITY notInToCc.label "Se il proprio indirizzo non compare in A: o CC:">
 <!ENTITY notInToCc.accesskey "o">
 <!ENTITY outsideDomain.label "Se il mittente non appartiene al proprio dominio:">
-<!ENTITY outsideDomain.accesskey "n">
+<!ENTITY outsideDomain.accesskey "d">
 <!ENTITY otherCases.label "Negli altri casi:">
-<!ENTITY otherCases.accesskey "t">
+<!ENTITY otherCases.accesskey "N">
 <!ENTITY askMe.label "Chiedi">
 <!ENTITY alwaysSend.label "Spedisci">
 <!ENTITY neverSend.label "Non inviare">

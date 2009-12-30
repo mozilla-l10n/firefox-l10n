@@ -1,5 +1,5 @@
 <!ENTITY zoomEnlargeCmd.label "Più grande">
-<!ENTITY zoomEnlargeCmd.accesskey "d">
+<!ENTITY zoomEnlargeCmd.accesskey "r">
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
 <!ENTITY zoomReduceCmd.label "Più piccolo">
