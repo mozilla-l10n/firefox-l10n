@@ -12,12 +12,12 @@
 <!ENTITY saveTo.label "Salva file in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseDownloadFolder.label "Scegli cartella…">
-<!ENTITY chooseDownloadFolder.accesskey "t">
+<!ENTITY chooseDownloadFolder.accesskey "c">
 <!ENTITY alwaysAsk.label "Chiedi sempre dove salvare i file">
-<!ENTITY alwaysAsk.accesskey "C">
+<!ENTITY alwaysAsk.accesskey "h">
 <!ENTITY downloadRetention.label "Memorizzazione download">
-<!ENTITY removeDownloads.label "Elimina download">
-<!ENTITY removeDownloads.accesskey "E">
+<!ENTITY removeDownloads.label "Rimuovi download">
+<!ENTITY removeDownloads.accesskey "u">
 <!ENTITY whenCompleted.label "Quando sono terminati">
 <!ENTITY whenQuittingApp.label "Alla chiusura di &brandShortName;">
 <!ENTITY neverRemove.label "Mai">

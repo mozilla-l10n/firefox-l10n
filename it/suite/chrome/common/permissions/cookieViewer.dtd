@@ -35,5 +35,5 @@
 <!ENTITY removepermission.accesskey "R">
 <!ENTITY removeallpermissions.label "Rimuovi tutti i siti">
 <!ENTITY removeallpermissions.accesskey "t">
-<!ENTITY futureCookies.label "Non permettere ai siti di hai rimosso i cookie di impostarne altri in futuro">
+<!ENTITY futureCookies.label "Non permettere ai siti di cui hai rimosso i cookie di impostarne altri in futuro">
 <!ENTITY futureCookies.accesskey "N">

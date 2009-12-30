@@ -15,9 +15,9 @@
 <!ENTITY printPreviewContactViewCmd.accesskey "n">
 <!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Stampa rubrica…">
-<!ENTITY printAddressBook.accesskey "m">
+<!ENTITY printAddressBook.accesskey "r">
 <!ENTITY printPreviewAddressBook.label "Anteprima di stampa rubrica">
-<!ENTITY printPreviewAddressBook.accesskey "A">
+<!ENTITY printPreviewAddressBook.accesskey "u">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY deleteAbCmd.label "Elimina rubrica">
@@ -29,9 +29,9 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Scambia Nome/Cognome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY propertiesCmd.label "Proprietà…">
-<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.accesskey "o">
 <!ENTITY propertiesCmd.key "i">
-<!ENTITY showAbToolbarCmd.label "Barra della Rubrica">
+<!ENTITY showAbToolbarCmd.label "Barra della rubrica">
 <!ENTITY showAbToolbarCmd.accesskey "R">
 <!ENTITY showCardPane.label "Vista della scheda">
 <!ENTITY showCardPane.accesskey "V">

@@ -21,8 +21,8 @@
    - Contributor(s):
    -   Bob Lord <lord@netscape.com>
    -   Terry Hayes <thayes@netscape.com>
-   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
-   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -54,4 +54,4 @@
 <!ENTITY resetpassword.caption "Cancellazione password principale">
 <!ENTITY resetpassword.text "Se si cancella la password principale, andranno perse tutte le password di posta e dei siti web, i dati dei moduli, i certificati personali, e le chiavi private memorizzate.">
 <!ENTITY resetpassword.button "Cancella password">
-<!ENTITY resetpassword.accesskey "w">
+<!ENTITY resetpassword.accesskey "C">

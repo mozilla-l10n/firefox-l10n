@@ -1,12 +1,12 @@
 <!ENTITY certerror.pagetitle "Connessione non verificata">
 <!ENTITY certerror.longpagetitle "Questa connessione non è verificata">
 <!ENTITY certerror.introPara1 "Hai chiesto a &brandShortName; di connettersi in modo sicuro a <b>#1</b>, ma non possiamo confermare che la connessione sia sicura.">
-<!ENTITY certerror.introPara2 "Normally, when you try to connect securely, sites will present trusted identification to prove that you are going to the right place. However, this site's identity can't be verified.">
+<!ENTITY certerror.introPara2 "Normalmente, quando si cerca di aprire una connessione sicura, il sito visitato dovrebbe fornire una modalità di identificazione affidabile per garantire la sicurezza del visitatore. L'identità di questo sito non può essere verificata.">
 <!ENTITY certerror.whatShouldIDo.heading "Cosa devo fare?">
 <!ENTITY certerror.whatShouldIDo.content "Se ti connetti di solito a questo sito senza problemi, questo errore potrebbe indicare che qualcuno sta provando a sostituirsi al sito, e non dovresti proseguire.">
 <!ENTITY certerror.getMeOutOfHere.label "Mi suona male, portami piuttosto alla mia home">
 <!ENTITY certerror.expert.heading "Ho capito i rischi">
-<!ENTITY certerror.expert.content "Se capisci cosa succede, puoi dire a &brandShortName; di cominciare a credere all'identitifcazione di questo sito.
+<!ENTITY certerror.expert.content "Se capisci cosa succede, puoi dire a &brandShortName; di cominciare a credere all'identificazione di questo sito.
 <b>Anche se ti fidi di questo sito, questo errore potrebbe indicare che qualcuno sta cercando di manipolare la tua connessione.</b>">
 <!ENTITY certerror.expert.contentPara2 "Non aggiungere una eccezione a meno di non avere un buon motivo per cui questo sito non sta usando una identificazione verificata.">
 <!ENTITY certerror.addException.label "Aggiungi eccezione…">

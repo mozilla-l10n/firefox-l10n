@@ -4,24 +4,24 @@
 <!ENTITY encryptionGroupTitle.label "Cifratura">
 <!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l'invio dei messaggi:">
 <!ENTITY neverEncrypt.label "Mai (non cifrare)">
-<!ENTITY neverEncrypt.accesskey "m">
+<!ENTITY neverEncrypt.accesskey "M">
 <!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l'invio se alcuni i destinatari non hanno un certificato)">
 <!ENTITY alwaysEncryptMessage.accesskey "r">
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
 <!ENTITY digitalSign.certificate.button "Scegli…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Cancella">
-<!ENTITY digitalSign.certificate_clear.accesskey "n">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "Scegli…">
-<!ENTITY encryption.certificate.accesskey "c">
+<!ENTITY encryption.certificate.accesskey "e">
 <!ENTITY encryption.certificate_clear.button "Cancella">
-<!ENTITY encryption.certificate_clear.accesskey "l">
+<!ENTITY encryption.certificate_clear.accesskey "n">
 <!ENTITY signingGroupTitle.label "Firma digitale">
 <!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">
-<!ENTITY signMessage.accesskey "o">
-<!ENTITY signingCert.message "Utilizza il seguente certificato per firmare digitalmente i messaggi inviati:">
+<!ENTITY signMessage.accesskey "A">
+<!ENTITY signingCert.message "Utilizza il seguente certificato per aggiungere la firma digitale ai messaggi inviati:">
 <!ENTITY certificates.label "Certificati">
 <!ENTITY manageCerts.label "Gestione certificati…">
 <!ENTITY manageCerts.accesskey "G">
 <!ENTITY manageDevices.label "Gestione dispositivi di sicurezza…">
-<!ENTITY manageDevices.accesskey "G">
+<!ENTITY manageDevices.accesskey "d">

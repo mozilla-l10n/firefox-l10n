@@ -1,8 +1,8 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY tabCmd.label "Scheda in Navigator">
-<!ENTITY tabCmd.accesskey "N">
+<!ENTITY tabCmd.label "Scheda browser">
+<!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Apri indirizzo web…">
 <!ENTITY openCmd.accesskey "w">
@@ -35,7 +35,7 @@
 <!ENTITY navbarCmd.label "Barra di navigazione">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra personale">
-<!ENTITY personalbarCmd.accesskey "p">
+<!ENTITY personalbarCmd.accesskey "e">
 <!ENTITY tabbarCmd.label "Barra delle schede">
 <!ENTITY tabbarCmd.accesskey "h">
 <!ENTITY taskbarCmd.label "Barra di stato">
@@ -49,13 +49,13 @@
 <!ENTITY useStyleSheetPersistentOnly.label "Stile predefinito">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "S">
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "S">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Info pagina">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "n">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "A tutto schermo">
-<!ENTITY fullScreenCmd.accesskey "A">
+<!ENTITY fullScreenCmd.accesskey "h">
 <!ENTITY translateMenu.label "Traduci pagina">
 <!ENTITY translateMenu.accesskey "T">
 <!ENTITY closeOtherTabs.label "Chiudi altre schede">
@@ -65,7 +65,7 @@
 <!ENTITY minimizeButton.tooltip "Minimizza">
 <!ENTITY restoreButton.tooltip "Ripristina">
 <!ENTITY applyTheme.label "Applica tema">
-<!ENTITY applyTheme.accesskey "t">
+<!ENTITY applyTheme.accesskey "A">
 <!ENTITY getNewThemesCmd.label "Scarica nuovi temi">
 <!ENTITY getNewThemesCmd.accesskey "S">
 <!ENTITY findOnCmd.label "Trova in questa pagina…">
@@ -86,7 +86,7 @@
 <!ENTITY clearPrivateDataCmd.accesskey "v">
 <!ENTITY goMenu.label "Vai">
 <!ENTITY goMenu.accesskey "a">
-<!ENTITY goHomeCmd.label "Casa">
+<!ENTITY goHomeCmd.label "Home">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY bookmarksMenu.label "Segnalibri">
 <!ENTITY bookmarksMenu.accesskey "e">
@@ -101,7 +101,7 @@
 <!ENTITY manBookmarksCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abbonati a questa pagina">
-<!ENTITY feedsMenu.accesskey "A">
+<!ENTITY feedsMenu.accesskey "b">
 <!ENTITY emptyItem.label "(Vuoto)">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY personalToolbar.tooltip "Barra personale">
@@ -127,7 +127,7 @@
 <!ENTITY proxyIcon.tooltip "Trascina questa icona per creare un collegamento alla pagina">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Lista segnalibri">
-<!ENTITY homeButton.label "Casa">
+<!ENTITY homeButton.label "Home">
 <!ENTITY bookmarksToolbarItem.label "Elementi barra dei segnalibri">
 <!ENTITY statusText.label "Completato">
 <!ENTITY historyCmd.label "Cronologia">

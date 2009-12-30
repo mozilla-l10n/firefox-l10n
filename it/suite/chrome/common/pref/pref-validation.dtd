@@ -20,8 +20,8 @@
    -
    - Contributor(s):
    -   David P. Drinan (ddrinan@netscape.com)
-   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
-   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -52,5 +52,5 @@
 <!ENTITY serviceURL.accesskey "I">
 <!ENTITY signingCA.label "Firmatario:">
 <!ENTITY signingCA.accesskey "F">
-<!ENTITY validation.requireOCSP.description "Quando non è possibile stabilire una connessionecon il server OCSP, considera il certificato comenon valido.">
+<!ENTITY validation.requireOCSP.description "Quando non è possibile stabilire una connessione con il server OCSP, considera il certificato come non valido.">
 <!ENTITY validation.requireOCSP.accesskey "Q">

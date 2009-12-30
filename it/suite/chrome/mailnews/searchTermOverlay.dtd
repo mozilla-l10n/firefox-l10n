@@ -1,7 +1,7 @@
 <!ENTITY matchAll.label "Soddisfano tutte le condizioni">
-<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAll.accesskey "t">
 <!ENTITY matchAny.label "Soddisfano anche una sola condizione">
-<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAny.accesskey "u">
 <!ENTITY matchAllMsgs.label "Tutte incondizionatamente">
 <!ENTITY matchAllMsgs.accesskey "m">
 <!ENTITY searchTermListAttributesFlexValue "5">

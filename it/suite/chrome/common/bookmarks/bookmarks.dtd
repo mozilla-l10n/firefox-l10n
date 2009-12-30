@@ -22,8 +22,8 @@
    -   Stephen Lamm <slamm@netscape.com>
    -   Blake Ross <blakeross@telocity.com>
    -   Mike Kowalski <mikejk@ameritech.net>
-   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
-   -   Giacomo Magnini giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -72,7 +72,7 @@
 <!ENTITY menuitem.moveBookmark.label "Sposta segnalibro…">
 <!ENTITY menuitem.moveBookmark.accesskey "S">
 <!ENTITY button.moveBookmark.label "Sposta…">
-<!ENTITY button.moveBookmark.accesskey "S">
+<!ENTITY button.moveBookmark.accesskey "o">
 <!ENTITY command.addBookmark.label "Aggiungi…">
 <!ENTITY command.manageBookmarks.label "Modifica">
 <!ENTITY command.sortFolder.label "Ordina cartella…">

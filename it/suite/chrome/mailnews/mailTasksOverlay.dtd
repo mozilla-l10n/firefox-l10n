@@ -4,7 +4,7 @@
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
 <!ENTITY addressBookCmd.commandkey "5">
-<!ENTITY taskMessenger.tooltip "Posta e Gruppi di discussione">
+<!ENTITY taskMessenger.tooltip "Posta e gruppi di discussione">
 <!ENTITY taskAddressBook.tooltip "Rubrica">
 <!ENTITY searchAddressesCmd.label "Cerca indirizzi…">
 <!ENTITY searchAddressesCmd.accesskey "i">

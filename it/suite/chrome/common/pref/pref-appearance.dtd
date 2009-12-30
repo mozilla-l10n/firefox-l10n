@@ -1,10 +1,10 @@
 <!ENTITY pref.appearance.title "Aspetto">
 <!ENTITY onStartLegend.label "All'avvio di &brandShortName;, apri">
-<!ENTITY navCheck.label "Navigator">
-<!ENTITY navCheck.accesskey "N">
+<!ENTITY navCheck.label "Browser">
+<!ENTITY navCheck.accesskey "B">
 <!ENTITY showToolsLegend.label "Mostra barra degli strumenti come">
 <!ENTITY picsNtextRadio.label "Immagini e testo">
-<!ENTITY picsNtextRadio.accesskey "m">
+<!ENTITY picsNtextRadio.accesskey "I">
 <!ENTITY picsOnlyRadio.label "Solo immagini">
 <!ENTITY picsOnlyRadio.accesskey "S">
 <!ENTITY textonlyRadio.label "Solo testo">

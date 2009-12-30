@@ -8,7 +8,7 @@
 <!ENTITY disableImages.label "Non caricare immagini">
 <!ENTITY disableImages.accesskey "N">
 <!ENTITY viewImages.label "Gestione permessi immagini">
-<!ENTITY viewImages.accesskey "e">
+<!ENTITY viewImages.accesskey "G">
 <!ENTITY animLoopingTitle.label "Le immagini animate possono essere visualizzate">
 <!ENTITY animLoopAsSpecified.label "Tante volte quante specificate dall'immagine">
 <!ENTITY animLoopAsSpecified.accesskey "T">

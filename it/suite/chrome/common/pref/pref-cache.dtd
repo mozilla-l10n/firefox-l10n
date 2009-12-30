@@ -9,7 +9,7 @@
 <!ENTITY clearDiskCache.accesskey "c">
 <!ENTITY chooseDiskCacheFolder.label "Scegli cartella…">
 <!ENTITY chooseDiskCacheFolder.accesskey "S">
-<!ENTITY diskCacheFolderExplanation "I file della cache verranno memorizzati in una cartella chiamata &quot;Cache&quot; all'interno della cartella specificata. Riavviare &brandShortName; affinché le modifiche abbiano effetto.">
+<!ENTITY diskCacheFolderExplanation "I file della cache verranno memorizzati in una cartella chiamata &quot;Cache&quot; all'interno della cartella specificata. Riavvia &brandShortName; affinché le modifiche abbiano effetto.">
 <!ENTITY docCache "Confronta il documento nella cache con quello in rete:">
 <!ENTITY oncePsessionRadio.label "Una volta per sessione">
 <!ENTITY oncePsessionRadio.accesskey "U">
