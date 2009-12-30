@@ -12,7 +12,7 @@
 #define bookmarks_addons Obtenir des modules complémentaires
 
 #define bookmarks_toolbarfolder Barre personnelle
-#define bookmarks_toolbarfolder_description Ajoutez des marques-pages dans ce dossier pour les voir apparaître sur votre barre personnelle
+#define bookmarks_toolbarfolder_description Ajoutez des marque-pages dans ce dossier pour les voir apparaître sur votre barre personnelle
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://www.mozilla.com/en-US/firefox/central/
