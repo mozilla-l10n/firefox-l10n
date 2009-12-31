@@ -61,7 +61,7 @@
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "Copiar normbre">
+<!ENTITY copyName.label "Copiar nombre">
 <!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Copiar valor">
 <!ENTITY copyValue.accesskey "v">
