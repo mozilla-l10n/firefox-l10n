@@ -2,7 +2,7 @@
 <!ENTITY aboutButton.label "&lt; Назад">
 <!ENTITY aboutButton.accesskey "з">
 <!ENTITY aboutVersion "версия">
-<!ENTITY copyrightText "©1998–2009 Участники проекта. Все права защищены. Mozilla Thunderbird и его логотипы являются торговыми марками Mozilla Foundation. Все права защищены.">
+<!ENTITY copyrightText "©1998–2010 Участники проекта. Все права защищены. Mozilla Thunderbird и его логотипы являются торговыми марками Mozilla Foundation. Все права защищены.">
 <!ENTITY aboutMenu.label "О программе">
 <!ENTITY aboutMenu.accesskey "п">
 <!ENTITY aboutCredits.label "Авторы">
