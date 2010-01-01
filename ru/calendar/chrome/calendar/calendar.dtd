@@ -140,7 +140,7 @@
 <!ENTITY calendar.task.filter.next7days.accesskey   "л">
 <!ENTITY calendar.task.filter.notstarted.label      "Неначатые задачи">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "Н">
-<!ENTITY calendar.task.filter.overdue.label         "Просроченный задачи">
+<!ENTITY calendar.task.filter.overdue.label         "Просроченные задачи">
 <!ENTITY calendar.task.filter.overdue.accesskey     "П">
 <!ENTITY calendar.task.filter.completed.label       "Выполненные задачи">
 <!ENTITY calendar.task.filter.completed.accesskey   "ы">
