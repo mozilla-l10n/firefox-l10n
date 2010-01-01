@@ -269,9 +269,6 @@
 <!ENTITY newMsgCmd.accesskey "Н">
 <!ENTITY newNewMsgCmd.label "Ліст">
 <!ENTITY newNewMsgCmd.accesskey "Л">
-<!ENTITY archiveMsgCmd.label "Архіў">
-<!ENTITY archiveMsgCmd.accesskey "х">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Адказаць">
 <!ENTITY replyMsgCmd.accesskey "А">
 <!ENTITY replyMsgCmd.key "r">
@@ -300,6 +297,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "р">
+<!ENTITY archiveMsgCmd.label "Архіў">
+<!ENTITY archiveMsgCmd.accesskey "х">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Перамесціць у">
 <!ENTITY moveMsgToMenu.accesskey "м">
 <!ENTITY copyMessageLocation.label "Капіяваць месцазнаходжанне ліста">
@@ -448,8 +448,6 @@
 <!ENTITY contextOpenNewTab.accesskey "у">
 <!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
 <!ENTITY contextEditAsNew.accesskey "Р">
-<!ENTITY contextArchive.label "Архіў">
-<!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
 <!ENTITY contextReplySender.accesskey "т">
 <!ENTITY contextReplyNewsgroup.label "Адказаць навінакупе">
@@ -462,6 +460,8 @@
 <!ENTITY contextForward.accesskey "к">
 <!ENTITY contextForwardAsAttachment.label "Накіраваць як далучэнні">
 <!ENTITY contextForwardAsAttachment.accesskey "Д">
+<!ENTITY contextArchive.label "Архіў">
+<!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextMoveMsgMenu.label "Перамясціць у">
 <!ENTITY contextMoveMsgMenu.accesskey "м">
 <!ENTITY contextCopyMsgMenu.label "Капіяваць у">
