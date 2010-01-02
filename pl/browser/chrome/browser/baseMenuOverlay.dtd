@@ -13,7 +13,7 @@
 <!ENTITY aboutProduct.label       "O programie &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Pomoc programu &brandShortName;">
-<!ENTITY productHelp.accesskey    "H">
+<!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpForIEUsers.label     "Dla użytkowników Internet Explorera">
 <!ENTITY helpForIEUsers.accesskey "I">
 
