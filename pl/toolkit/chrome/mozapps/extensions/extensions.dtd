@@ -1,7 +1,7 @@
 <!ENTITY addons.title                 	  "Dodatki">
 
 <!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "540">
+<!ENTITY em.width                         "625">
 <!ENTITY em.height                        "380">
 
 <!-- View labels -->
