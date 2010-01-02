@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title   "Biblioteka">
-<!ENTITY places.library.width   "700">
+<!ENTITY places.library.width   "800">
 <!ENTITY places.library.height  "500">
 <!ENTITY organize.label         "Zarządzaj">
 <!ENTITY organize.accesskey     "Z">
