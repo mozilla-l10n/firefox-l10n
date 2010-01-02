@@ -38,7 +38,7 @@
 <!ENTITY aboutVersion               "version">
 <!ENTITY closeCmdGNOME.label        "Stäng">  
 <!ENTITY closeCmdGNOME.accesskey    "ä">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Medarbetarna. Alla rättigheter förbehållna. (">
+<!ENTITY copyrightInfo1             "&#169;1998-2010 Medarbetarna. Alla rättigheter förbehållna. (">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Licensinformation">
 <!ENTITY copyrightInfo2             ").">
