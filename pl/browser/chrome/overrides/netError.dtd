@@ -27,7 +27,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Należy sprawdzić wielkość liter oraz upewnić się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li>
-  <li>Należy sprawdzić, czy plik nie został przeniesiony, usunięty lub czy jego nazwa nie została zmieniona.</li>
+  <li>Należy sprawdzić, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li>
 </ul>
 ">
 
