@@ -91,7 +91,7 @@
   <li>Esto podría deberse a una configuración no estándar en el servidor.</li>
 </ul>
 ">
-<!ENTITY nssFailure2.title "La conexión segura ha fallado">
+<!ENTITY nssFailure2.title "Conexión segura fallida">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La página que está intentando ver no puede mostrarse porque no se ha podido verificar la autenticidad de los datos recibidos.</li>
