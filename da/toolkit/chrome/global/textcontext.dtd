@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "Slet">
 <!ENTITY deleteCmd.accesskey "S">
 
-<!ENTITY spellAddToDictionary.label "Tilføj til ordbog">
+<!ENTITY spellAddToDictionary.label "Føj til ordbog">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellCheckEnable.label "Stavekontrol">
 <!ENTITY spellCheckEnable.accesskey "t">

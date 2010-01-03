@@ -16,7 +16,7 @@
 <!ENTITY delete.label          "Slet">
 <!ENTITY selectAll.label       "Marker alt">
 <!ENTITY noSuggestions.label   "(ingen forslag)">
-<!ENTITY addToDictionary.label "Tilføj til ordbog">
+<!ENTITY addToDictionary.label "Føj til ordbog">
 
 <!ENTITY bookmarksHeader.label     "Bogmærker">
 <!ENTITY bookmarksManage.label     "Rediger">
@@ -46,7 +46,7 @@
 <!ENTITY addonOptions.label        "Indstillinger">
 <!ENTITY addonEnable.label         "Aktiver">
 <!ENTITY addonDisable.label        "Deaktiver">
-<!ENTITY addonInstall2.label       "Tilføj til &brandShortName;">
+<!ENTITY addonInstall2.label       "Føj til &brandShortName;">
 <!ENTITY addonUninstall.label      "Afinstaller">
 <!ENTITY addonCancel.label         "Afbryd">
 <!ENTITY addonShowPage.label       "Gå til hjemmeside">
