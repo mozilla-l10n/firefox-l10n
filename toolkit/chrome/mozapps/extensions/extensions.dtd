@@ -84,8 +84,8 @@
 <!ENTITY cmd.hideUpdateInfo.label         "Skjul information">
 <!ENTITY cmd.hideUpdateInfo.accesskey     "S">
 <!ENTITY cmd.hideUpdateInfo.tooltip       "Skjul information om disse opdateringer">
-<!ENTITY cmd.installSearchResult.label     "Tilføj til &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "T">
+<!ENTITY cmd.installSearchResult.label     "Føj til &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "F">
 <!ENTITY cmd.installSearchResult.tooltip   "Hent og installer denne tilføjelse">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "Afbryd">
