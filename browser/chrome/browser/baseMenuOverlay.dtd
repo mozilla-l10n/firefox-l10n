@@ -12,7 +12,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct.label       "Om &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "O">
-<!ENTITY productHelp.label        "&brandShortName; Hjælp">
+<!ENTITY productHelp.label        "Hjælp til &brandShortName;">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Til Internet Explorer-brugere">
 <!ENTITY helpForIEUsers.accesskey "I">
