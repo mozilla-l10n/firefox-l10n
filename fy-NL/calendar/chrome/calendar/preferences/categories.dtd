@@ -40,10 +40,10 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Kategorie tafoegje">
+<!ENTITY pref.categories.add.title "Kategory tafoegje">
 <!ENTITY pref.categories.addButton.label "Tafoegje…">
 <!ENTITY pref.categories.addButton.accesskey "">
-<!ENTITY pref.categories.edit.title "Kategorie bewurkje">
+<!ENTITY pref.categories.edit.title "Kategory bewurkje">
 <!ENTITY pref.categories.editButton.label "Bewurkje…">
 <!ENTITY pref.categories.editButton.accesskey "">
 <!ENTITY pref.categories.removeButton.label "Fuortsmite">
@@ -52,6 +52,6 @@
 <!ENTITY pref.categories.color.label "Kleur">
 <!ENTITY pref.categories.usecolor.label "Kleur brûke">
 <!ENTITY pref.categories.none.label "(gjin)">
-<!ENTITY pref.categories.overwrite "Der bestiet al in kategorie mei dizze namme. \n Wolle jo dizze oerskruiwe?">
+<!ENTITY pref.categories.overwrite "Der bestiet al in kategory mei dizze namme. \n Wolle jo dizze oerskriuwe?">
 <!ENTITY pref.categories.overwrite.title "Warskôging: dûbele namme">
-<!ENTITY pref.categories.noBlankCategories "Jo moatte in kategorienamme ynfiere.">
+<!ENTITY pref.categories.noBlankCategories "Jo moatte in kategorynamme ynfiere.">
