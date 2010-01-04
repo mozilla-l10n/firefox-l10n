@@ -78,12 +78,12 @@
 <!ENTITY calendar.unifinder.tree.enddate.label       "Ein">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Ferrin">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Foltôge">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategorie">
+<!ENTITY calendar.unifinder.tree.categories.label    "Kategory">
 <!ENTITY calendar.unifinder.tree.location.label      "Lokaasje">
 <!ENTITY calendar.unifinder.tree.status.label        "Steat">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Agindanamme">
 <!ENTITY calendar.unifinder.tree.duration.label      "Ferrint nei">
-<!ENTITY calendar.unifinder.close.tooltip            "Barrens sykje en barrenslist slute">
+<!ENTITY calendar.unifinder.close.tooltip            "Barrens sykje en barrenlist slute">
 
 <!ENTITY calendar.today.button.tooltip            "Nei hjoed gean" >
 <!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toane" >
@@ -91,7 +91,7 @@
 <!ENTITY calendar.day.button.tooltip            "Nei dei-oersjoch oerskeakelje" >
 <!ENTITY calendar.week.button.tooltip           "Nei wyk-oersjoch oerskeakelje" >
 <!ENTITY calendar.month.button.tooltip          "Nei moanne-oersjoch oerskeakelje" >
-<!ENTITY calendar.multiweek.button.tooltip      "Nei oersjoch foar mear wiken oerskeakelje" >
+<!ENTITY calendar.multiweek.button.tooltip      "Nei oersjoch foar mear wiken skeakelje" >
 
 <!ENTITY calendar.nextday.button.tooltip        "Folgjende dei" >
 <!ENTITY calendar.prevday.button.tooltip        "Foarige dei" >
@@ -99,6 +99,13 @@
 <!ENTITY calendar.prevweek.button.tooltip       "Foarige wike" >
 <!ENTITY calendar.nextmonth.button.tooltip      "Folgjende moanne" >
 <!ENTITY calendar.prevmonth.button.tooltip      "Foarige moanne" >
+
+<!ENTITY calendar.navigation.nextday.tooltip    "Ien dei foarút" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Ien dei tebek" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Ien wike foarút" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Ien wike tebek" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Ien moanne foarút" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Ien moanne tebek" >
 
 <!ENTITY calendar.newevent.button.label         "Nij barren" >
 <!ENTITY calendar.newtask.button.label          "Nije taak" >
@@ -147,7 +154,7 @@
 <!ENTITY calendar.task-details.priority.normal.label "Normaal">
 <!ENTITY calendar.task-details.priority.high.label   "Heech">
 <!ENTITY calendar.task-details.status.label          "steat:">
-<!ENTITY calendar.task-details.category.label        "kategorie:">
+<!ENTITY calendar.task-details.category.label        "kategory:">
 <!ENTITY calendar.task-details.repeat.label          "werhelje:">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken kategorisearje">
@@ -286,28 +293,31 @@
 <!ENTITY calendar.server.dialog.name.label          "Agindanamme:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Kleur:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Formaat:">
-<!ENTITY calendarproperties.location.label "Lokaasje:">
-<!ENTITY calendarproperties.name.label     "Namme:">
-<!ENTITY calendarproperties.readonly.label "Allinnich-lêze">
-<!ENTITY calendarproperties.firealarms.label "Alarmen toane">
-<!ENTITY calendarproperties.cache.label    "Buffer (EKSPERIMENTEEL, werstart nedich)">
-<!ENTITY calendarproperties.enabled.label  "Dizze aginda ynskeakelje">
+<!ENTITY calendarproperties.color.label    			"Kleur:">
+<!ENTITY calendarproperties.webdav.label   			"iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   			"CalDAV">
+<!ENTITY calendarproperties.wcap.label     			"Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   			"Formaat:">
+<!ENTITY calendarproperties.location.label 			"Lokaasje:">
+<!ENTITY calendarproperties.name.label     			"Namme:">
+<!ENTITY calendarproperties.readonly.label 			"Allinnich-lêze">
+<!ENTITY calendarproperties.firealarms.label 		"Alarmen toane">
+<!ENTITY calendarproperties.cache.label    			"Buffer (EKSPERIMENTEEL, werstart nedich)">
+<!ENTITY calendarproperties.enabled.label  			"Dizze aginda ynskeakelje">
+<!ENTITY calendarproperties.forceDisabled.label		"De útjouwer foar dizze aginda koe net fûn wurde. Dit bart faak as jo bepaalde útwreidings útskeakele of de-ynstallearre hawwe.">
+<!ENTITY calendarproperties.unsubscribe.label		"Utskriuwe">
+<!ENTITY calendarproperties.unsubscribe.accesskey	"U">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Aginda publisearje">
 <!ENTITY calendar.publish.url.label                 "Publikaasje-URL">
-<!ENTITY calendar.publish.publish.button      "Publisearje">
-<!ENTITY calendar.publish.close.button      "Slute">
+<!ENTITY calendar.publish.publish.button			"Publisearje">
+<!ENTITY calendar.publish.close.button				"Slute">
 
 <!ENTITY calendar.publish.example.url.description   "Lykas http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title    "Aginda selektearje">
+<!ENTITY calendar.select.dialog.title				"Aginda selektearje">
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "In aginda ôfdrukke">
@@ -323,6 +333,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Details…">
-<!ENTITY calendar.error.number "Flaternûmer:">
+<!ENTITY calendar.error.code "Flaterkoade:">
 <!ENTITY calendar.error.description "Beskriuwing:">
-<!ENTITY calendar.error.title "Der is in flater bard">
+<!ENTITY calendar.error.title "Der is in flater makke">

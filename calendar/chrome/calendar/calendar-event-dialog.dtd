@@ -52,9 +52,13 @@
 <!ENTITY newevent.status.label              "Steat" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "Net spesifisearre" >
+<!ENTITY newevent.status.none.accesskey     "e" >
 <!ENTITY newevent.status.cancelled.label    "Annulearre" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
 <!ENTITY newevent.status.tentative.label    "Foarlopich" >
+<!ENTITY newevent.status.tentative.accesskey  "F" >
 <!ENTITY newevent.status.confirmed.label    "Befestige" >
+<!ENTITY newevent.status.confirmed.accesskey  "B" >
 <!ENTITY newevent.status.needsaction.label  "Hanneling fereaske" >
 <!ENTITY newevent.status.inprogress.label   "Dwaande" >
 <!ENTITY newevent.status.completed.label    "Foltôge op" >
@@ -71,12 +75,14 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "a">
 <!ENTITY  event.menu.file.new.message.label               "Berjocht">
 <!ENTITY  event.menu.file.new.message.accesskey           "B">
-<!ENTITY  event.menu.file.new.address.label               "Adresboekkaart">
-<!ENTITY  event.menu.file.new.address.accesskey           "k">
+<!ENTITY  event.menu.file.new.contact.label               "Adresboekkontakt">
+<!ENTITY  event.menu.file.new.contact.accesskey           "k">
 <!ENTITY  event.menu.file.close.label                     "Slute">
 <!ENTITY  event.menu.file.close.accesskey                 "S">
 <!ENTITY  event.menu.file.save.label                      "Bewarje">
 <!ENTITY  event.menu.file.save.accesskey                  "w">
+<!ENTITY  event.menu.item.delete.label                    "Fuortsmite…">
+<!ENTITY  event.menu.item.delete.accesskey                "F">
 <!ENTITY  event.menu.file.page.setup.label                "Side-ynstellings">
 <!ENTITY  event.menu.file.page.setup.accesskey            "i">
 <!ENTITY  event.menu.file.print.label                     "Ofdrukke">
@@ -165,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Bewarje en slute">
+<!ENTITY  event.toolbar.delete.label                      "Fuortsmite">
 <!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnoegje">
 <!ENTITY  event.toolbar.spellcheck.label                  "Staveringskontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
@@ -175,7 +182,7 @@
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Lokaasje:" >
 <!ENTITY event.location.accesskey                         "a">
-<!ENTITY event.categories.label                           "Kategorie:">
+<!ENTITY event.categories.label                           "Kategory:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.calendar.label                             "Aginda:" >
 <!ENTITY event.calendar.accesskey                         "A">
@@ -349,16 +356,19 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Foarlopich" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Bûten kantoar" >
 <!ENTITY event.freebusy.legend.unknown   "Gjin ynformaasje" >
+<!ENTITY event.attendee.role.required	 "Fereaske dielnimmer">
+<!ENTITY event.attendee.role.optional	 "Opsjonele dielnimmer">
+<!ENTITY event.attendee.role.chair		 "Stoel">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Spesifisearje de tiidssoane">
+<!ENTITY timezone.title.label            "Spesifisearje de tiidsoane">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemien">
 <!ENTITY read.only.title.label           "Titel:">
 <!ENTITY read.only.repeat.label          "Werhelje:">
 <!ENTITY read.only.location.label        "Lokaasje:">
-<!ENTITY read.only.category.label        "Kategorie:">
+<!ENTITY read.only.category.label        "Kategory:">
 <!ENTITY read.only.organizer.label       "Organisator:">
 <!ENTITY read.only.reply.label           "Antwurd:">
 <!ENTITY read.only.accept.label          "Ik sil oanwêzich wêze">
