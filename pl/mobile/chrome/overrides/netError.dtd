@@ -28,7 +28,7 @@
 <!ENTITY fileNotFound.title "Nie odnaleziono pliku">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Sprawdź czy nazwa pliku nie zawiera dużych liter, lub czy nie ma innych literówek.</li>
+  <li>Sprawdź, czy nazwa pliku nie zawiera dużych liter lub nie ma innych literówek.</li>
   <li>Sprawdź czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li>
 </ul>
 ">
