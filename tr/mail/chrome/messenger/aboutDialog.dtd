@@ -2,7 +2,7 @@
 <!ENTITY aboutButton.label "&lt; Geri">
 <!ENTITY aboutButton.accesskey "G">
 <!ENTITY aboutVersion "sürüm">
-<!ENTITY copyrightText "&#169;1998-2008 Çalışanlar ve katkıda bulunanlar. Mozilla Thunderbird logosu Mozilla Vakfı'nın resmi logosudur ve bütün hakları saklıdır.">
+<!ENTITY copyrightText "&#169;1998-2010 Çalışanlar ve katkıda bulunanlar. Mozilla Thunderbird logosu Mozilla Vakfı'nın resmi logosudur ve bütün hakları saklıdır.">
 <!ENTITY aboutMenu.label "Hakkında">
 <!ENTITY aboutMenu.accesskey "H">
 <!ENTITY aboutCredits.label "Destekleyenler">

@@ -38,5 +38,5 @@
 
 <!ENTITY chooseAppFilePickerTitle "Uygulama seç">
 
-<!ENTITY badApp "Seçtiğiniz (&quot;#1&quot;) uygulama bulanamıyor. Dosya adını kontrol edin veya başka bir uygulama seçin.">
+<!ENTITY badApp "Seçtiğiniz (&quot;#1&quot;) uygulama bulunamıyor. Dosya adını kontrol edin veya başka bir uygulama seçin.">
 <!ENTITY badApp.title "Uygulama bulunamadı">
