@@ -17,7 +17,7 @@
 <!ENTITY netInterrupt.title "Trasferimento dati interrotto">
 <!ENTITY netInterrupt.longDesc "<p>Il browser si è connesso correttamente, ma la trasmissione delle informazioni è stata interrotta.  Si consiglia di riprovare.</p><ul><li>È possibile navigare in altri siti?  Controllare la connessione alla rete.</li><li>Il problema non si risolve? Consultare l'amministratore di rete o il provider internet per ricevere assistenza.</li></ul>">
 <!ENTITY netOffline.title "Non in linea">
-<!ENTITY netOffline.longDesc "<p>Il browser è al momento in modalità non in linea e non può connettersi al'oggetto richiesto.</p><ul><li>Il computer è connesso a una rete attiva?</li><li>Impostare il browser in modalità in linea e ritentare.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Il browser è al momento in modalità non in linea e non può connettersi all'oggetto richiesto.</p><ul><li>Il computer è connesso a una rete attiva?</li><li>Impostare il browser in modalità in linea e ritentare.</li></ul>">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
 <!ENTITY contentEncodingError.longDesc "<p>La pagina che si sta cercando di visualizzare non può essere mostrata poiché fa uso di una forma di compressione non valida o non supportata.</p><ul><li>Contattare il proprietario del sito web per informarlo del problema.</li></ul>">
 <!ENTITY unsafeContentType.title "Tipo di file non sicuro">
