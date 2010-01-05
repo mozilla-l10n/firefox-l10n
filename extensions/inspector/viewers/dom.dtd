@@ -57,9 +57,6 @@
 <!ENTITY cmdToggleProcessingInstructions.label "Show Processing Instructions">
 <!ENTITY cmdToggleProcessingInstructions.accesskey "P">
 
-<!ENTITY cmdFlashSelected.label "Blink Selected Element">
-<!ENTITY cmdFlashSelected.accesskey "S">
-
 <!ENTITY cmdToggleAttributes.label "Show Attributes">
 <!ENTITY cmdToggleAttributes.accesskey "r">
 

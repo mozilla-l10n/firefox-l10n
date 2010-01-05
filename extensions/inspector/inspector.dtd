@@ -49,6 +49,8 @@
 <!ENTITY cmdToggleBrowser.label "Browser">
 <!ENTITY cmdToggleBrowser.accesskey "B">
 <!ENTITY cmdToggleSearch.label "Arama sonuçları">
+<!ENTITY cmdFlashOnSelect.label "Blink Selected Element">
+<!ENTITY cmdFlashOnSelect.accesskey "S">
 
 <!ENTITY browserPanel.label "Browser">
 
