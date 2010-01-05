@@ -41,11 +41,13 @@
 <!ENTITY descDescription.label "Açıklama:">
 <!ENTITY descValue.label "Değer:">
 <!ENTITY descState.label "Durum:">
-<!ENTITY descActionName.label "Eylem adı:">
 <!ENTITY descBounds.label "Sınırlar:">
 <!ENTITY tabAttrs.label "Nesne öznitelikleri">
 <!ENTITY colAttrName.label "Adı">
 <!ENTITY colAttrValue.label "Değer">
+<!ENTITY tabActions.label "Actions">
+<!ENTITY descKeyBindings.label "Key bindings:">
+<!ENTITY descInvoke.label "Invoke">
 <!ENTITY tabTableCell.label "Tablo hücresi">
 <!ENTITY descColumnIdx.label "Sütun indisi:">
 <!ENTITY descRowIdx.label "Satır indisi:">
