@@ -249,7 +249,7 @@
 <!ENTITY calendar.context.properties.label             "Eigenskippen">
 <!ENTITY calendar.context.properties.accesskey         "E">
 
-<!ENTITY calendar.context.convertmenu.label               "Konfertearje nei">
+<!ENTITY calendar.context.convertmenu.label               "Konvertearje nei">
 <!ENTITY calendar.context.convertmenu.accesskey.mail      "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar  "K">
 <!ENTITY calendar.context.convertmenu.event.label         "Barren…">
