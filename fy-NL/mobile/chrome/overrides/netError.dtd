@@ -145,10 +145,10 @@ to pickup this string change. Please update netOffline.longDesc too -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Miskien is it webstee tydlik net beskikber. Besykje letter 
+  <li>Miskien is it webstee tydlik net beskikber. Besykje it letter 
     nochris.</li>
   <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
+  <li>Gean nei oft &brandShortName; tagong hat ta it web, of dat jo 
     kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
 ">
