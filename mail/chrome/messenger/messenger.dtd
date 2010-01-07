@@ -586,7 +586,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY searchRecipient.label "Pour ou Copie à">
 <!ENTITY searchSubjectOrRecipientMenu.label "Sujet, Pour ou Copie à">
 <!ENTITY searchMessageBody.label "Message complet">
-<!ENTITY saveAsVirtualFolderMenu.label "Sauver la recherche comme dossier…">
+<!ENTITY saveAsVirtualFolderMenu.label "Enregistrer la recherche comme dossier…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Discussion">
