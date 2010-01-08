@@ -42,7 +42,10 @@
 <!ENTITY aboutLink.label "&lt; &brandFullName; hakkında">
 <!ENTITY aboutLink.accesskey "k">
 <!ENTITY aboutVersion "sürüm">
-<!ENTITY copyrightText "&#169;1998-2009 katkıda bulunanlar. Mozilla Sunbird, Sunbird ve Sunbird logosu, Mozilla Vakfı'nın ticari markalarıdır. Bütün hakları saklıdır.">
+<!ENTITY copyrightText "&#169;1998-2010 katkıda bulunanlar. Bütün 
+hakları saklıdır. Mozilla Sunbird, Sunbird 
+ve Sunbird logosu, Mozilla Vakfı'nın ticari 
+markalarıdır. Bütün hakları saklıdır.  ">
 
 <!ENTITY brandMotto "Zaman her şeydir!">
 <!ENTITY credit.thanks "Özel olarak teşekkür ettiklerimiz">

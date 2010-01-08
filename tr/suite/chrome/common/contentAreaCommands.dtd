@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey "a">
 <!ENTITY mediaHideControls.label "Hide Media Controls">
 <!ENTITY mediaHideControls.accesskey "a">
+<!ENTITY videoFullScreen.label "Tam ekran">
+<!ENTITY videoFullScreen.accesskey "T">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Sayfa Yönetimine Geç">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "S">
