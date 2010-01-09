@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Ocultar controlos de médias">
 <!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY videoFullScreen.label        "Ecrã inteiro">
+<!ENTITY videoFullScreen.accesskey    "n">
 <!ENTITY search.accesskey             "c">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Mudar direcção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
