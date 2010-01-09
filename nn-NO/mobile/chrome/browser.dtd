@@ -64,16 +64,16 @@
 <!ENTITY downloadFailed.label      "Mislykkka">
 
 <!ENTITY noResults.label           "Ingen resultat">
-<!ENTITY allBookmarks.label        "Vis alle bokmerke">
+<!ENTITY allBookmarks.label        "Vis alle bokmerka">
 
 <!ENTITY searchEngine.addSearch    "Legg til søk:">
 
-<!ENTITY bookmarkPopup.label       "Sida bokmerka">
+<!ENTITY bookmarkPopup.label       "Sida er bokmerka">
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
 
 <!ENTITY identity.unverifiedsite2 "Denne sida har ingen identitetsinformasjon.">
-<!ENTITY identity.connectedTo2 "Kopla til">
+<!ENTITY identity.connectedTo2 "Du er tilkopla">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
@@ -91,4 +91,4 @@
 <!ENTITY consoleEvaluate.label     " …">
 <!ENTITY consoleErrFile.label      "Kjeldefil:">
 <!ENTITY consoleErrLine.label      "Linje:">
-<!ENTITY consoleErrColumn.label    "Spalte:">
+<!ENTITY consoleErrColumn.label    "Kolonne:">
