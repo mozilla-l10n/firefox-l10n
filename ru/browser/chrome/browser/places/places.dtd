@@ -75,7 +75,7 @@
 <!ENTITY cmd.properties.accesskey "в">
 <!ENTITY cmd.rename.label "Переименовать">
 <!ENTITY cmd.rename.accesskey "П">
-<!ENTITY cmd.sortby_name.label "Сортировка по имени">
+<!ENTITY cmd.sortby_name.label "Сортировать по имени">
 <!ENTITY cmd.sortby_name.accesskey "С">
 <!ENTITY cmd.context_sortby_name.accesskey "р">
 <!ENTITY cmd.new_bookmark.label "Новая закладка…">
