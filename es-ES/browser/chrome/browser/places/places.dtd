@@ -97,7 +97,7 @@
 <!ENTITY col.tags.label "Etiquetas">
 <!ENTITY col.url.label "Dirección">
 <!ENTITY col.lastvisit.label "Fecha de visita">
-<!ENTITY col.visitcount.label "Contador de visitas">
+<!ENTITY col.visitcount.label "Número de visitas">
 <!ENTITY col.keyword.label "Palabra clave">
 <!ENTITY col.description.label "Descripción">
 <!ENTITY col.dateadded.label "Añadido">

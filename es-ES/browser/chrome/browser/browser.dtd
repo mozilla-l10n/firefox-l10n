@@ -70,8 +70,8 @@
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Recargar esta página">
-<!ENTITY stopCmd.label "Parar">
-<!ENTITY stopCmd.accesskey "a">
+<!ENTITY stopCmd.label "Detener">
+<!ENTITY stopCmd.accesskey "t">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Parar la carga de esta página">
 <!ENTITY goEndCap.tooltip "Ir a la URL de la barra de direcciones">
@@ -290,7 +290,7 @@
 <!ENTITY fullZoomToggleCmd.label "Sólo ampliar texto">
 <!ENTITY fullZoomToggleCmd.accesskey "p">
 <!ENTITY fullZoom.label "Tamaño">
-<!ENTITY fullZoom.accesskey "T">
+<!ENTITY fullZoom.accesskey "m">
 <!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
 <!ENTITY newWindowButton.tooltip "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
