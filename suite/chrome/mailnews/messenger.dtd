@@ -333,9 +333,6 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Nachricht">
 <!ENTITY newNewMsgCmd.accesskey "N">
-<!ENTITY archiveMsgCmd.label "Archivieren">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Antwort">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
@@ -364,6 +361,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
+<!ENTITY archiveMsgCmd.label "Archivieren">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Verschieben in">
 <!ENTITY moveMsgToMenu.accesskey "V">
 <!ENTITY copyMessageLocation.label "Nachrichtenadresse kopieren">
@@ -524,8 +524,6 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten…">
 <!ENTITY contextEditAsNew.accesskey "A">
-<!ENTITY contextArchive.label "Archivieren">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Antwort nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Antwort an Newsgroup">
@@ -538,6 +536,8 @@
 <!ENTITY contextForward.accesskey "W">
 <!ENTITY contextForwardAsAttachment.label "Als Attachment weiterleiten">
 <!ENTITY contextForwardAsAttachment.accesskey "A">
+<!ENTITY contextArchive.label "Archivieren">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Verschieben in">
 <!ENTITY contextMoveMsgMenu.accesskey "V">
 <!ENTITY contextCopyMsgMenu.label "Kopieren in">

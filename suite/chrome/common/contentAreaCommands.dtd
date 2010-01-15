@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey  "M">
 <!ENTITY mediaHideControls.label      "Medien-Steuerelemente verstecken">
 <!ENTITY mediaHideControls.accesskey  "M">
+<!ENTITY videoFullScreen.label        "Vollbild">
+<!ENTITY videoFullScreen.accesskey    "V">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
