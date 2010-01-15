@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Zertifikatsname">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Ausnahmeregeln">
 <!ENTITY certmgr.override_lifetime            "Lebenszeit">
 <!ENTITY certmgr.tokenname                    "Kryptographie-Modul">
-<!ENTITY certmgr.purpose                      "Zwecke">
 <!ENTITY certmgr.issued                       "Ausgestellt am">
 <!ENTITY certmgr.expires                      "Läuft ab am">
 <!ENTITY certmgr.email                        "E-Mail-Adresse">
