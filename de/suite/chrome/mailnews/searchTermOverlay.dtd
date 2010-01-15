@@ -1,7 +1,7 @@
 <!ENTITY matchAll.label     "Alle folgenden Bedingungen erfüllen">
 <!ENTITY matchAll.accesskey "A">
 <!ENTITY matchAny.label     "Mindestens eine der folgenden Bedingungen erfüllen">
-<!ENTITY matchAny.accesskey "M">
+<!ENTITY matchAny.accesskey "d">
 <!ENTITY matchAllMsgs.label     "Mit allen Nachrichten übereinstimmen">
 <!ENTITY matchAllMsgs.accesskey "M">
 <!-- LOCALIZATION NOTE  

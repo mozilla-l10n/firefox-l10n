@@ -1,17 +1,14 @@
-
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Nachrichten suchen in:">
-<!ENTITY searchHeading.accesskey     "N">
+<!ENTITY searchHeading.accesskey     "a">
 <!ENTITY searchSubfolders.label      "Unterordner durchsuchen">
 <!ENTITY searchSubfolders.accesskey  "U">
 <!ENTITY searchLocalSystem.label     "Lokales System durchsuchen">
 <!ENTITY searchLocalSystem.accesskey "L">
 <!ENTITY resetButton.label           "Leeren">
 <!ENTITY resetButton.accesskey       "L">
-<!ENTITY helpButton.label            "Hilfe">
-<!ENTITY helpButton.accesskey        "H">
 <!ENTITY openButton.label            "Öffnen">
-<!ENTITY openButton.accesskey        "Ö">
+<!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "Löschen">
 <!ENTITY deleteButton.accesskey      "L">
 <!ENTITY searchDialogTitle.label     "Nachrichten durchsuchen">
@@ -21,9 +18,9 @@
 <!ENTITY fileButton.label            "Ablegen">
 <!ENTITY fileButton.accesskey        "b">
 <!ENTITY goToFolderButton.label      "Nachrichten-Ordner öffnen">
-<!ENTITY goToFolderButton.accesskey  "N">
+<!ENTITY goToFolderButton.accesskey  "O">
 <!ENTITY saveAsVFButton.label      "Als Suchordner speichern">
-<!ENTITY saveAsVFButton.accesskey  "A">
+<!ENTITY saveAsVFButton.accesskey  "c">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Suchen in:">
@@ -33,4 +30,3 @@
 <!ENTITY composeButton.label         "Verfassen">
 <!ENTITY composeButton.accesskey     "V">
 <!ENTITY abSearchDialogTitle.label   "Erweiterte Adressbuchsuche">
-
