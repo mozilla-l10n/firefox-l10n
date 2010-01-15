@@ -54,7 +54,7 @@
 
 <!ENTITY window.title "Süzgeç kuralları">
 
-<!ENTITY filterName.label "Süzgeç İsmi:">
+<!ENTITY filterName.label "Süzgeç ismi:">
 <!ENTITY filterName.accesskey "S">
 
 <!ENTITY junk.label "Gereksiz">
@@ -62,7 +62,7 @@
 
 <!ENTITY lowestPriorityCmd.label "En düşük">
 <!ENTITY lowPriorityCmd.label "Düşük">
-<!ENTITY normalPriorityCmd.label "normal">
+<!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Yüksek">
 <!ENTITY highestPriorityCmd.label "En yüksek">
 
@@ -78,17 +78,17 @@
 <!ENTITY filterActionDesc.accesskey "u">
 <!-- New Style Filter Rule Actions -->
 
-<!ENTITY moveMessage.label "Postayı taşı:">
-<!ENTITY copyMessage.label "Postayı kopyala">
-<!ENTITY forwardTo.label "İlet:">
-<!ENTITY replyWithTemplate.label "Şablon ile yanıtla:">
-<!ENTITY markMessageRead.label "Postayı okunmuş olarak işaretle">
-<!ENTITY markMessageStarred.label "Mark As Flagged">
-<!ENTITY labelMessage.label "İleti etiketi">
+<!ENTITY moveMessage.label "İletiyi taşı">
+<!ENTITY copyMessage.label "İletiyi kopyala">
+<!ENTITY forwardTo.label "İlet">
+<!ENTITY replyWithTemplate.label "Şablon ile yanıtla">
+<!ENTITY markMessageRead.label "İletiyi okunmuş olarak işaretle">
+<!ENTITY markMessageStarred.label "İletiyi işaretle">
+<!ENTITY labelMessage.label "İletiyi etiketle">
 <!ENTITY setPriority.label "Önemlilik">
 <!ENTITY addTag.label "İletiyi etiketle">
-<!ENTITY setJunkScore.label "Gereksiz konumunu buna ayarla">
-<!ENTITY deleteMessage.label "Postayı sil">
+<!ENTITY setJunkScore.label "Gereksiz durumunu ayarla">
+<!ENTITY deleteMessage.label "İletiyi sil">
 <!ENTITY deleteFromPOP.label "POP Sunucusundan sil">
 <!ENTITY fetchFromPOP.label "POP sunucudan ileti gövdesini indir">
 <!ENTITY ignoreThread.label "Dizilimi görmezden gel">
