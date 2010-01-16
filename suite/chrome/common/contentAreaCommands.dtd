@@ -24,36 +24,36 @@
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY stopCmd.label "Interrompi">
-<!ENTITY stopCmd.accesskey "I">
+<!ENTITY stopCmd.accesskey "n">
 <!ENTITY reloadFrameCmd.label "Ricarica riquadro">
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Mostra sorgente selezione">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Mostra sorgente MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "h">
+<!ENTITY viewPartialSourceCmd.accesskey "n">
 <!ENTITY viewPageSourceCmd.label "Visualizza sorgente pagina">
 <!ENTITY viewPageSourceCmd.accesskey "z">
 <!ENTITY viewFrameSourceCmd.label "Visualizza sorgente riquadro">
 <!ENTITY viewFrameSourceCmd.accesskey "u">
 <!ENTITY viewPageInfoCmd.label "Visualizza info pagina">
-<!ENTITY viewPageInfoCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.accesskey "f">
 <!ENTITY viewFrameInfoCmd.label "Visualizza informazioni sul riquadro">
 <!ENTITY viewFrameInfoCmd.accesskey "n">
 <!ENTITY fitImageCmd.label "Adatta dimensioni alla finestra">
 <!ENTITY fitImageCmd.accesskey "A">
 <!ENTITY reloadImageCmd.label "Ricarica immagine">
-<!ENTITY reloadImageCmd.accesskey "c">
+<!ENTITY reloadImageCmd.accesskey "a">
 <!ENTITY viewImageCmd.label "Visualizza immagine">
 <!ENTITY viewImageCmd.accesskey "m">
 <!ENTITY viewVideoCmd.label "Mostra video">
 <!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
-<!ENTITY viewBGImageCmd.accesskey "f">
+<!ENTITY viewBGImageCmd.accesskey "d">
 <!ENTITY setWallpaperCmd.label "Imposta come sfondo">
 <!ENTITY setWallpaperCmd.accesskey "f">
 <!ENTITY bookmarkPageCmd.label "Aggiungi pagina nei segnalibri">
 <!ENTITY bookmarkPageCmd.accesskey "b">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi collegamento nei segnalibri…">
-<!ENTITY bookmarkLinkCmd.accesskey "g">
+<!ENTITY bookmarkLinkCmd.accesskey "t">
 <!ENTITY bookmarkFrameCmd.label "Aggiungi questo riquadro nei segnalibri">
 <!ENTITY bookmarkFrameCmd.accesskey "b">
 <!ENTITY savePageAsCmd.label "Salva pagina con nome…">
@@ -65,7 +65,7 @@
 <!ENTITY saveFrameCmd.accesskey "S">
 <!ENTITY saveLinkAsCmd.label "Salva destinazione con nome…">
 <!ENTITY saveLinkCmd.label "Salva destinazione">
-<!ENTITY saveLinkCmd.accesskey "v">
+<!ENTITY saveLinkCmd.accesskey "z">
 <!ENTITY saveImageAsCmd.label "Salva immagine con nome…">
 <!ENTITY saveImageCmd.label "Salva immagine">
 <!ENTITY saveImageCmd.accesskey "l">
@@ -113,6 +113,8 @@
 <!ENTITY mediaShowControls.accesskey "a">
 <!ENTITY mediaHideControls.label "Nascondi controlli multimediali">
 <!ENTITY mediaHideControls.accesskey "a">
+<!ENTITY videoFullScreen.label "A tutto schermo">
+<!ENTITY videoFullScreen.accesskey "u">
 <!ENTITY search.accesskey "w">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
@@ -128,4 +130,4 @@
 <!ENTITY spellDictionaries.label "Lingue">
 <!ENTITY spellDictionaries.accesskey "L">
 <!ENTITY spellAddDictionaries.label "Scarica altri dizionari…">
-<!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY spellAddDictionaries.accesskey "S">
