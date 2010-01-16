@@ -38,9 +38,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent.label "Modo permanente de navegación privada">
 <!ENTITY privateBrowsingPermanent.accesskey "P">
-<!ENTITY rememberHistory.pre.label "Recordar el historial de búsqueda al menos">
-<!ENTITY rememberHistory.pre.accesskey "R">
-<!ENTITY rememberHistory.post.label "días">
+<!ENTITY rememberHistory.label "Recordar mi historial de navegación">
+<!ENTITY rememberHistory.accesskey "v">
 <!ENTITY rememberDownload.label "Recordar el historial de descargas">
 <!ENTITY rememberDownload.accesskey "R">
 <!ENTITY rememberSearchForm.label "Recordar el historial de formularios y búsquedas">
