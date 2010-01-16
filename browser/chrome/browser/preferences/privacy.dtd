@@ -60,15 +60,8 @@
 <!ENTITY privateBrowsingPermanent.label "Trvalý režim anonymního prohlížení">
 <!ENTITY privateBrowsingPermanent.accesskey "T">
 
-<!-- LOCALIZATION NOTE:
- The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
- line in preferences as follows:
-
- &rememberHistory.pre.label [ textbox for number of days ] &rememberHistory.post.label;
--->
-<!ENTITY rememberHistory.pre.label "Pamatovat si historii stránek nejméně">
-<!ENTITY rememberHistory.pre.accesskey "h">
-<!ENTITY rememberHistory.post.label "dní">
+<!ENTITY rememberHistory.label "Pamatovat si historii stránek">
+<!ENTITY rememberHistory.accesskey "P">
 
 <!ENTITY rememberDownload.label "Pamatovat si historii stahování">
 <!ENTITY rememberDownload.accesskey "P">
