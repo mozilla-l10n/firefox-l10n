@@ -38,9 +38,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent.label "Постоянно работать в режиме приватного просмотра">
 <!ENTITY privateBrowsingPermanent.accesskey "б">
-<!ENTITY rememberHistory.pre.label "Помнить историю посещений не менее">
-<!ENTITY rememberHistory.pre.accesskey "о">
-<!ENTITY rememberHistory.post.label "дней">
+<!ENTITY rememberHistory.label "Помнить историю посещений">
+<!ENTITY rememberHistory.accesskey "о">
 <!ENTITY rememberDownload.label "Помнить историю загрузок">
 <!ENTITY rememberDownload.accesskey "з">
 <!ENTITY rememberSearchForm.label "Помнить историю поиска и данных форм">
