@@ -60,15 +60,8 @@
 <!ENTITY  privateBrowsingPermanent.label "Använd alltid läget privat surfning">
 <!ENTITY  privateBrowsingPermanent.accesskey "A">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Spara historiken över besökta sidor i minst">
-<!ENTITY  rememberHistory.pre.accesskey  "e">
-<!ENTITY  rememberHistory.post.label     "dagar">
+<!ENTITY  rememberHistory.label      "Spara historiken över besökta sidor">
+<!ENTITY  rememberHistory.accesskey  "e">
 
 <!ENTITY  rememberDownload.label         "Spara filhämtningshistorik">
 <!ENTITY  rememberDownload.accesskey     "ä">
