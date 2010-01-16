@@ -249,7 +249,7 @@
 <!ENTITY pasteQuote.accesskey "t">
 
 <!ENTITY openAttachment.label "Opne">
-<!ENTITY openAttachment.accesskey "Å">
+<!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Slett">
 <!ENTITY delete.accesskey "S">
 <!ENTITY removeAttachment.label "Fjern vedlegg">

@@ -104,7 +104,7 @@ sense because of a specific language context.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
 of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 har forbetra den detaljerte meldingshovudvisinga, mellom anna knappane for meldingsrelaterte handlingar. Alternative utsjånader er tilgjengelege som">
+<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 har forbetra den detaljerte meldingshovudvisinga, mellom anna knappane for meldingsrelaterte handlingar. Alternative utsjånader er tilgjengelege som ">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
 the link to the AMO search page.-->
