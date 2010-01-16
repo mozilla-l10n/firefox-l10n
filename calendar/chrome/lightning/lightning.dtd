@@ -52,7 +52,7 @@
 <!ENTITY lightning.menupopup.new.event.label    "Hending …">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Oppgåve …">
-<!ENTITY lightning.menupopup.new.task.accesskey "T">
+<!ENTITY lightning.menupopup.new.task.accesskey "O">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender …">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
@@ -90,7 +90,7 @@
 <!ENTITY lightning.toolbar.day.label                 "Dag">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Veke">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
+<!ENTITY lightning.toolbar.week.accesskey            "V">
 <!ENTITY lightning.toolbar.multiweek.label           "Fleire veker">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "F">
 <!ENTITY lightning.toolbar.month.label               "Månad">
