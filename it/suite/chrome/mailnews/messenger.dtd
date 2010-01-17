@@ -154,7 +154,7 @@
 <!ENTITY sortByRecipientCmd.accesskey "n">
 <!ENTITY sortByUnreadCmd.label "Letti">
 <!ENTITY sortByUnreadCmd.accesskey "L">
-<!ENTITY sortByOrderReceivedCmd.label "Ricezione">
+<!ENTITY sortByOrderReceivedCmd.label "Ordine di ricezione">
 <!ENTITY sortByOrderReceivedCmd.accesskey "z">
 <!ENTITY sortByAttachmentsCmd.label "Allegati">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
@@ -311,7 +311,7 @@
 <!ENTITY killThreadMenu.label "Ignora la discussione">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY killSubthreadMenu.label "Ignora sottodiscussione">
 <!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Controlla discussione">

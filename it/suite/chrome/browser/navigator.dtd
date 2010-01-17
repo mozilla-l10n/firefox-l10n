@@ -18,7 +18,7 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Modifica pagina">
 <!ENTITY editPageCmd.accesskey "o">
-<!ENTITY editPageCmd.commandkey "d">
+<!ENTITY editPageCmd.commandkey "e">
 <!ENTITY uploadFile.label "Carica file…">
 <!ENTITY uploadFile.accesskey "f">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
@@ -51,7 +51,7 @@
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
 <!ENTITY pageSourceCmd.accesskey "S">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Info pagina">
+<!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
 <!ENTITY pageInfoCmd.accesskey "n">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "A tutto schermo">

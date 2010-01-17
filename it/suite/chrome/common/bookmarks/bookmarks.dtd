@@ -23,7 +23,6 @@
    -   Blake Ross <blakeross@telocity.com>
    -   Mike Kowalski <mikejk@ameritech.net>
    -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -70,16 +69,16 @@
 <!ENTITY button.delete.label "Elimina">
 <!ENTITY button.delete.accesskey "E">
 <!ENTITY menuitem.moveBookmark.label "Sposta segnalibro…">
-<!ENTITY menuitem.moveBookmark.accesskey "S">
+<!ENTITY menuitem.moveBookmark.accesskey "b">
 <!ENTITY button.moveBookmark.label "Sposta…">
 <!ENTITY button.moveBookmark.accesskey "o">
 <!ENTITY command.addBookmark.label "Aggiungi…">
 <!ENTITY command.manageBookmarks.label "Modifica">
 <!ENTITY command.sortFolder.label "Ordina cartella…">
-<!ENTITY command.sortFolder.accesskey "d">
+<!ENTITY command.sortFolder.accesskey "O">
 <!ENTITY command.sortFolder.key "S">
 <!ENTITY command.sortFolderByName.label "Ordina cartella per nome">
-<!ENTITY command.sortFolderByName.accesskey "n">
+<!ENTITY command.sortFolderByName.accesskey "d">
 <!ENTITY menuitem.view.command.toolbar.label "Barra degli strumenti">
 <!ENTITY menuitem.view.command.toolbar.accesskey "s">
 <!ENTITY menuitem.view.show_columns.label "Visualizza colonne">

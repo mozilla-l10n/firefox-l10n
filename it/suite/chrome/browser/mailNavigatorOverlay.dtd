@@ -8,7 +8,7 @@
 <!ENTITY contextSendThisPage.label "Invia questa pagina…">
 <!ENTITY contextSendThisPage.accesskey "u">
 <!ENTITY contextSendThisLink.label "Invia questo link…">
-<!ENTITY contextSendThisLink.accesskey "t">
+<!ENTITY contextSendThisLink.accesskey "k">
 <!ENTITY contextSendImage.label "Spedisci immagine…">
 <!ENTITY contextSendImage.accesskey "e">
 <!ENTITY contextSendVideo.label "Invia video…">

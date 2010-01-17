@@ -209,7 +209,7 @@ del browser.</p>
 
 <p>Il pannello di preferenze della lingua vi permette di scegliere le lingue e le 
   codifiche dei caratteri per la visualizzazione delle pagine web e scegliere se e come
-  correggere l'ortografia mentre si scrive:</p>
+  correggere l&apos;ortografia mentre si scrive:</p>
 
 <ul>
   <li><strong>Lingue per le pagine web</strong>:
@@ -256,138 +256,152 @@ del browser.</p>
   <li>Aprire il menu <span class="mac">&brandShortName;</span>
     <span class="noMac">Modifica</span> e scegliere Preferenze.</li>
   <li>Nella categoria Browser, fare clic su Applicazioni esterne. (Se nessuna sottocategoria 
-    &egrave; visualizzata, fare clic doppio su Browser per espandere la lista.)</li>
+    &egrave; visualizzata, fare doppio clic su Browser per espandere la lista.)</li>
 </ol>
 
-<p>Il pannello delle preferenze delle Applicazioni Esterne consente di specificare
-  come i diversi tipi di file debbano essere aperti da applicazioni esterne in
-  &brandShortName;:</p>
+<p>Il pannello delle preferenze delle Applicazioni Esterne permette di scegliere le applicazioni
+  e gli altri gestori per maneggiare i tipi differenti di contenuto (ad es. documenti PDF).
+  Visualizza un elenco di tipi di contenuto e permette di selezionare un gestore per ogni
+  tipo. Per filtrare l&apos;elenco, utilizzare il campo di ricerca. Il testo inserito ridurr&agrave;
+  la lista ai soli elementi che contengono tale testo o nella descrizione del tipo
+  o nell&apos;azione correntemente selezionata.</p>
+<p>Si pu&ograve; scegliere una applicazione locale per gestire qualsiasi tipo. Per alcuni, si
+  pu&ograve; anche scegliere una applicazione web per gestire il tipo, scegliere
+  <!-- a feature (like <a href="glossary.xhtml#live_bookmark">Live Bookmarks</a> for
+  feeds) or --> un <a href="glossary.xhtml#plugin">plugin</a> di &brandShortName; per
+  gestire il tipo, o salvare il tipo sul computer.</p>
+<p>Per scegliere un gestore per un tipo, selezionare il tipo dalla lista. Il gestore
+  attuale per il tipo diventer&agrave; un menu. aprire il menu e selezionare il
+  gestore che si vuole per il tipo. A seconda del tipo attuale, si pu&ograve;:</p>
 
 <ul>
-  <li><strong>Specificare quali applicazioni debbano gestire ciascun tipo di file</strong>:
-    <ul>
-      <li><strong>Tipi di file</strong>: visualizza i tipi di file che 
-        &brandShortName; usa. Selezionarne uno per visualizzare 
-        le seguenti informazioni:
-        <ul>
-          <li><strong>Descrizione</strong>: Visualizza una descrizione del tipo
-            di file selezionato.</li>
-          <li><strong>Estensioni</strong>: Visualizza l&apos;estensione del tipo di file 
-            scelto.</li>
-          <li><strong>Quando viene incontrato un file di questo tipo</strong>: Visualizza quale
-            tipo di azione verr&agrave; intrapresa quando &brandShortName; incontra il tipo di
-            file selezionato.</li>
-        </ul>
-      </li>
-      <li><strong>Nuovo tipo</strong>: Fare clic su questo per aggiungere un nuovo tipo di file. 
-        Viene visualizzata una finestra di dialogo:
-        <ul>
-          <li><strong>Tipo MIME</strong>: Inserire il tipo Mime del tipo di file
-            da aggiungere.</li>
-          <li><strong>Descrizione</strong>: Inserire una descrizione del tipo di file
-            da aggiungere.</li>
-          <li><strong>Estensione</strong>: Inserire l&apos;estensione del nome del file 
-            del tipo di file da aggiungere.</li>
-          <li><strong>Quando viene incontrato un file di questo tipo</strong>:
-            Selezionare un&apos;opzione tramite le caselle di spunta:
-            <ul>
-              <li><strong>Utilizza le impostazioni di sistema</strong>:
-                Permette che il file venga aperto col porgramma predefinito
-                del proprio sistema.</li>
-              <li><strong>Apri con</strong>: Permette che il file venga aperto con
-                un&apos;applicazione specificata. Utilizzare il pulsante Scegli
-                per localizzare il programma sul proprio computer.</li>
-              <li><strong>Salva su disco</strong>: Il file verr&agrave; salvato
-                su disco.</li>
-            </ul>
-          </li>
-          <li><strong>Chiedi sempre prima di aprire file di questo tipo</strong>: 
-            Selezionare questa opzione per fare in modo che la finestra di dialogo 
-            Download compaia sempre quando vengono incontrati file di questo tipo.</li>
-        </ul>
-      </li>
-      <li><strong>Modifica</strong>: Fare clic per cambiare le informazioni di gestione 
-        del tipo di file selezionato.</li>
-      <li><strong>Rimuovi</strong>: Fare clic per rimuovere il tipo di file 
-        selezionato.</li>
-    </ul>
-  </li>
-  <li><strong>Servizio per la ricerca dei plugin</strong>: 
-    <ul>
-      <li><strong>Utilizza sempre plugin Finder Service (PFS) per trovare i 
-        plugin mancanti</strong>: Selezionarlo per usare il Servizio di Ricerca dei plugin 
-        (Plugin Finder Service - PSF) quando &brandShortName; necessita di un nuovo plugin. 
-        Se lasciato non selezionato, il PSF viene usato solo quando la locazione di un 
-        plugin non viene indicata dalla pagina che lo richiede.</li>
-    </ul>
-  </li>
+  <li>Scegliere una applicazione selezionandola dal menu. Se si vuole una
+    applicazione locale non presente nel menu, selezionare
+    <strong>Utilizza altro…</strong> dal menu e navigare fino alla sua locazione.</li>
+  <li>Scegliere un <!-- feature or --> plugin selezionandolo dal menu.</li>
+  <li>Salvare i file di questo tipo sul computer selezionando
+    <strong>Salvare il file</strong> dal menu. Se &egrave; stata selezionata la preferenza
+    <strong>Scarica automaticamente i file nella cartella di download specificata</strong>
+    nel pannello <strong>Download</strong>, &brandShortName; salver&agrave;
+    il contenuto di questo tipo sul computer in automatico. Altrimenti, quando si
+    incontrer&agrave; questo tipo, &brandShortName; chieder&agrave; una locazione
+    sul computer in cui salvarlo.</li>
+  <li>Dire a &brandShortName; di <strong>chiedere sempre</strong> cosa fare quando
+    si incontra questo tipo. Quando si sceglie questa opzione, una finestra di dialogo
+    verr&agrave; sempre mostrata quando si accede a file di questo tipo, e si pu&ograve;
+    scegliere come gestire tale specifico file da qui.</li>
 </ul>
 
-<p>Per ulteriori informazioni su come gestire i diversi tipi di file in 
-  &brandShortName;, consultate <a 
-  href="nav_help.xhtml#managing_different_file_types">Gestire diversi tipi di file</a>.
+<p><strong>Nota:</strong> Quando un plugin &egrave; disponibile per gestire un tipo,
+  e si sceglie un altro gestore per quel tipo, &brandShortName; utilizzer&agrave; solo
+  il gestore scelto quando si accede direttamente al tipo. Quando il tipo &egrave; inserito
+  dentro una pagina web, &brandShortName; continuer&agrave; ad usare il plugin per gestirlo.
+  Vedere anche
+  <a href="nav_help.xhtml#plugins_and_downloads">Plugin e download</a>.
 </p>
 
 <p>[<a href="#navigator_preferences">Torna all&apos;inizio della sezione</a>]</p>
 
-<h2 id="smart_browsing">Preferenze Browser - Smart Browsing</h2>
+<h2 id="smart_browsing">Preferenze Browser - Barra degli indirizzi</h2>
 
-<p>Questa sezione descrive come usare il pannello delle preferenze di Smart 
-  Browsing. Se non &egrave; gi&agrave; aperto, eseguire questa procedura:</p>
+<p>Questa sezione descrive come usare il pannello delle preferenze Barra degli
+  indirizzi. Se non &egrave; gi&agrave; aperto, eseguire questa procedura:</p>
 
 <ol>
   <li>Aprire il menu <span class="mac">&brandShortName;</span>
     <span class="noMac">Modifica</span> e scegliere Preferenze.</li>
-  <li>Sotto la categoria Browser, fare clic su Smart Browsing. (Se nessuna
+  <li>Sotto la categoria Browser, fare clic su Barra degli indirizzi. (Se nessuna
     sottocategoria &egrave; visualizzata, fare doppio clic su Browser per espandere la lista.)</li>
 </ol>
 
-<p>Il pannello delle preferenze di Smart Browsing permette di migliorare la 
-  navigazione, tramite l&apos;uso delle parole chiave e dell&apos;autocompletamento nella barra degli indirizzi.</p>
+<p>Il pannello delle preferenze della Barra degli indirizzi permette di regolare il 
+  comportamento della Barra degli indirizzi.</p>
 
 <ul>
-  <li><strong>Parole chiave</strong>:
+  <li><strong>Autocompletamento</strong>:
     <ul>
-      <li><strong>Attiva Parole chiave</strong>: attiva l&apos;accesso 
-        rapido a servizi come la ricerca e altre informazioni dalla barra 
-        degli indirizzi.</li>
-      <li><strong>Maggiori informazioni</strong>: fare clic per ottenere dettagli 
-        sull&apos;uso delle parole chiave.</li>
-    </ul>
-  </li>
-  <li id="location_bar_autocomplete"><strong>Completamento automatico nella barra degli 
-    indirizzi</strong>:
-    <ul>
-      <li><strong>Completa automaticamente il testo inserito nella Barra degli 
-        indirizzi</strong>: selezionarlo per completare automaticamente il testo 
-        precedentemente inserito nella barra degli indirizzi.</li>
-      <li><strong>Avanzate</strong>: fare clic per selezionare una delle seguenti 
-        opzioni:
+      <li><strong>Autocompletamento dalla cronologia di navigazione durante la digitazione</strong>:
+        Selezionare questa opzione affinch&eacute; &brandShortName; mostri automaticamente dei suggerimenti
+        dalla cronologia di navigazione durante la digitazione nella Barra degli indirizzi.
         <ul>
-          <li><strong>Trova indirizzi corrispondenti mentre si digita</strong>: durante 
+          <li><strong>Trova corrispondenze solo con indirizzi inseriti in precedenza</strong>:
+            Mostra solo i siti web inseriti nella Barra degli indirizzi e non i siti
+            che sono stati aperti in altro modo, come ad esempio facendo clic su un link in
+            una pagina web.</li>
+          <li><strong>Confronta solo indirizzi, non i titoli dei siti web</strong>: Mostra
+            solo i siti web il cui indirizzo corrisponde a quanto inserito. I siti web
+            dove il titolo corrisponde a quanto digitato non verranno mostrati come
+            suggerimenti dell&apos;autocompletamento a meno che non corrisponda anche il loro indirizzo.</li>
+          <li><strong>Confronta</strong>:
+            <ul>
+              <li><strong>ovunque nell&apos;indirizzo o nel titolo</strong>: I
+                suggerimenti dell&apos;autocompletamento includeranno tutti i siti web a cui corrisponde
+                quanto inserito in qualsiasi parte dell&apos;indirizzo o del titolo del
+                sito web.</li>
+              <li><strong>ovunque ma preferendo gli estremi delle parole</strong>: I
+                suggerimenti dell&apos;autocompletamento includeranno tutti i siti web a cui corrisponde
+                quanto inserito in qualsiasi parte dell&apos;indirizzo o del titolo del
+                sito web ma le corrispondenze agli estremi delle parole (vedere punto successivo) sono
+                preferite. Questa &egrave; l&apos;impostazione predefinita.</li>
+              <li><strong>solo agli estremi delle parole</strong>: I suggerimenti
+                dell&apos;autocompletamento comprenderanno tutti i siti web inseriti
+                che corrispondono all&apos;inizio di ogni parola contenuta nell&apos;indirizzo
+                o nel titolo del sito web. Le corrispondenze possono essere trovate anche
+                dentro una parola se contiene maiuscole al suo interno (come in
+                CamelCase) poich&eacute; tutti i caratteri non-minuscoli vengono trattati
+                come estremi di parole.</li>
+              <li><strong>solo all&apos;inizio dell&apos;indirizzo o del
+                titolo</strong>: I suggerimenti dell&apos;autocompletamento comprenderanno
+                tutti i siti web a cui corrisponde all&apos;inizio dell&apos;indirizzo o del titolo
+                il testo inserito.</li>
+            </ul></li>
+          <li><strong>Riempi automaticamente con la corrispondenza pi&ugrave; simile</strong>: durante 
             l&apos;inserimento di un indirizzo nella barra degli indirizzi, &brandShortName; lo 
             completer&agrave; automaticamente con l&apos;indirizzo di un sito gi&agrave; visitato 
-            che sia il pi&ugrave; simile possibile.</li>
+            che sia il pi&ugrave; simile possibile. <span class="unix"><strong>Nota</strong>: Con questa
+            opzione attiva on verranno visualizzati gli indirizzi locali (come i percorsi ai file sul
+            disco rigido) anche se &egrave; stata disattivata <q>Autocompletamento dalla cronologia di
+            navigazione durante la digitazione</q>.</span></li>
           <li><strong>Visualizza lista dei risultati</strong>: durante l&apos;inserimento 
             dell&apos;indirizzo di un sito nella barra degli inidirizzi, &brandShortName; 
-            mostrer&agrave; una lista degli indirizzi simili visitati in precedenza.</li>
-          <li><strong>Visualizza motore di ricerca Internet</strong>: mostra una lista che permette di 
-            cercare nel motore di ricerca predefinito la parola inserita nella barra degli 
-            indirizzi.</li>
-          <li><strong>Trova corrispondenze solo con indirizzi inseriti in precedenza</strong>: mostra 
-            solo i siti i cui indirizzi sono stati inseriti nella barra e non quelli che 
-            sono stati raggiunti in altri modi, per esempio facendo clic su di un collegamento 
-            in una pagina web.</li>
-        </ul>
-      </li>
+            mostrer&agrave; una lista degli indirizzi simili visitati in precedenza.
+            <span class="unix"><strong>Nota</strong>: Se &egrave; stato disattivato
+            <q>Autocompletamento dalla cronologia di navigazione durante la digitazione</q>
+            i risultati corrispondenti presenti sul disco rigido verrano ancora mostrati
+            nel menu a cascata.</span></li>
+        </ul></li>
     </ul>
   </li>
-  <li><strong>Completamento intelligente del dominio</strong>: Selezionare questo se si vuole
-    che &brandShortName; automaticamente aggiunga <tt>www.</tt> e <tt>.com</tt> ad un 
-    indirizzo di pagina web non trovato. Per ulteriori informazioni circa la 
-    funzionalit&agrave; Completamento intelligente del dominio, vedere il documento online
-    <a href="http://www.mozilla.org/docs/end-user/domain-guessing.html"
-    target="_blank">Domain Guessing</a>.</li>
+  <li><strong>Motore di ricerca sul web</strong>:
+    <ul>
+      <li><strong>Visualizza il motore di ricerca predefinito</strong>: Mostra un elemento di menu a cascata,
+        che permette di cercare con il motore di ricerca predefinito le parole
+        inserite.</li>
+    </ul>
+  </li>
+  <li><strong>Indirizzi sconosciuti</strong>
+    <ul>
+      <li><strong>Aggiungi <q>www.</q> e <q>.com</q> all&apos;indirizzo se la pagina web
+        non viene trovata</strong>: Selezionare questa opzione se si vuole che &brandShortName;
+        aggiunga automaticamente <tt>www.</tt> all&apos;inizio e <tt>.com</tt> alla
+        fine dell&apos;indirizzo della pagina web che non &egrave; stata trovata. Per ulteriori
+        dettagliate informazioni su questa funzione, vedere il documento online
+        <a href="http://www.mozilla.org/docs/end-user/domain-guessing.html">
+        Domain Guessing</a>.</li>
+      <li><strong>Esegui una ricerca sul web quando il testo inserito non &egrave; un
+        indirizzo web</strong>: Selezionare questa opzione per permettere a &brandShortName;
+        di cercare automaticamente sul web per il testo inserito nella Barra degli indirizzi. Se il testo
+        inserito non &egrave; un indirizzo web, &brandShortName; effettuer&agrave; una ricerca
+        sul web una volta premuto <kbd class="noMac">Enter</kbd>
+        <kbd class="mac">Return</kbd> nella Barra degli indirizzi. Vedere il
+        documento online
+        <a href="http://www.mozilla.org/docs/end-user/internet-keywords.html">
+        Internet Keywords</a> per una descrizione pi&ugrave; tecnica di questa
+        funzione. <strong>Nota</strong>: Il motore di ricerca utilizzato non pu&ograve;
+        essere cambiato dalle <a href="#internet_search">Preferenze Ricerche in
+        Internet</a>.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>[<a href="#navigator_preferences">Torna all&apos;inizio della sezione</a>]</p>
@@ -416,7 +430,7 @@ del browser.</p>
   </li>
   <li><strong>Risultati della ricerca</strong>:
     <ul>
-      <li><strong>Apri il pannello 'Ricerca' nella Sidebar quando sono disponibili
+      <li><strong>Apri il pannello &apos;Ricerca&apos; nella Sidebar quando sono disponibili
         i risultati della ricerca</strong>: &brandShortName; aprir&agrave; la Sidebar e mostrer&agrave; 
         i risultati.</li>
       <li><strong>Apri una scheda invece di una finestra per una ricerca sul web dal menu
@@ -462,6 +476,9 @@ del browser.</p>
       <li><strong>Seleziona le nuove schede aperte dai collegamenti</strong>: Selezionare questa opzione 
         affinch&eacute; &brandShortName; passi alla nuova scheda quando si utilizza <q>Apri 
         in una nuova scheda</q> per aprire un collegamento.</li>
+      <li><strong>Avvisa alla chiusura di una finestra con pi&ugrave; schede</strong>:
+        Selezionandola &brandShortName; avviser&agrave; quando si tenta di chiudere una finestra
+        del browser che ha al suo interno diverse schede aperte.</li>
     </ul>
   </li>
   <li><strong>All&apos;apertura di un gruppo di segnalibri</strong>:
@@ -563,12 +580,16 @@ del browser.</p>
   debba gestire i file scaricati da pagine web:</p>
 
 <ul>
-  <li><strong>All'avvio di un download</strong>:
+  <li><strong>All&apos;avvio di un download</strong>:
     <ul>
+      <li><strong>Fai lampeggiare la gestione download se &egrave; gi&agrave; aperta</strong>:
+        Selezionare questa opzione per dare focus alla Gestione download se &egrave; aperto al
+        momento. Visualizza lo stato del download corrente e dei precedenti in una sola
+        finestra. Tale opzione funziona solo se la Gestione download &egrave; aperta
+        e supera le altre impostazioni.</li>
       <li><strong>Apri Gestione download</strong>: selezionarlo per 
-        visualizzare la Gestione download, che mostra lo stato del download 
-        corrente e di quelli precedenti. Lo stato di tutti i download viene 
-        mostrato in una sola finestra.</li>
+        visualizzare la Gestione download quando inizia un nuovo download. Verr&agrave;
+        aperta se la finestra non &egrave; visualizzata correntemente.</li>
       <li><strong>Apri una finestra con lo stato del download</strong>: selezionarlo per 
         visualizzare una finestra di dialogo che mostri lo stato del download 
         corrente. Lo stato di ogni download viene mostrato in una diversa 
@@ -583,28 +604,36 @@ del browser.</p>
 <ul>
   <li><strong>Prima di salvare un file</strong>:
     <ul>
-      <li><strong>Chiedi la locazione di download e rendila predefinita</strong>: Selezionare
-        questa opzione se si vuole poter scegliere una cartella in cui salvare il file.
-        Scegliere una delle seguenti cartelle come locazione predefinita
-        per il file:
-        <ul>
-          <li><strong>Ultima cartella di download</strong>: La locazione predefinita sar&agrave;
-            la cartella in cui è stato scaricato un file per l&apos;ultima volta.</li>
-          <li><strong>Cartella di download specificata</strong>: La locazione predefinita
-            sar&agrave; la propria <q>Cartella di download corrente</q>.</li>
-        </ul>
-      </li>
-      <li><strong>Scarica automaticamente i file nella cartella di download specificata
-        </strong>: Selezionare questa opzione se si vuole che i file vengano salvati nella propria
-        Cartella di download corrente senza che &brandShortName; richieda la locazione
-        di download.</li>
+      <li><strong>Salva file in</strong>: Selezionarla se si vuole che i file vengano
+        salvati nella cartella specificata senza che &brandShortName; richieda
+        il percorso locale per i download.</li>
+      <li><strong>Chiedi sempre dove salvare i file</strong>: Selezionare questa
+        opzione se si vuole sempre poter scegliere la cartella dove salvare i file.
+        Come impostazione predefinita verr&agrave; usata l&apos;ultima cartella in cui &egrave; stato salvato un file.</li>
     </ul>
   </li>
 </ul>
     
 <ul>
-  <li><strong>Cartella di download corrente</strong>: Usare il pulsante per selezionare la cartella
-    che deve essere usata come cartella per i download.</li>
+  <li><strong>Memorizzazione download</strong>:
+    <ul>
+      <li><strong>Rimuovi download</strong>: Specifica cosa succede quando viene
+        rimosso un elemento completato dall&apos;elenco di Gestione download (il
+        file scaricato <em>non</em> verr&agrave; toccato):
+        <ul>
+          <li><strong>Quando sono terminati</strong>: Selezionarla per
+            rimuovere un elemento appena il download &egrave; stato
+            completato con successo.</li>
+          <li><strong>Alla chiusura di &brandShortName;</strong>: Selezionarla
+            per mantenere tutti gli elementi fino alla chiusura del programma, la lista
+            sar&agrave; vuota al successivo avvio di &brandShortName;.</li>
+          <li><strong>Mai</strong>: Selezionare questa opzione per non rimuovere <em>alcun</em>
+            elemento automaticamente, anche dopo il riavvio di &brandShortName;.
+            Si possono rimuovere manualmente gli elementi nella Gestione download.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
     
 <ul>
@@ -623,8 +652,8 @@ del browser.</p>
 </ul>
 
 <p>Per ulteriori informazioni sul download di file da pagine web, consultare
-  <a href="nav_help.xhtml#managing_different_file_types">Gestire diversi 
-  di tipi di file</a>.</p>
+  <a href="nav_help.xhtml#plugins_and_downloads">Plugin e 
+  download</a>.</p>
 
 <p>[<a href="#navigator_preferences">Torna all&apos;inizio della sezione</a>]</p>
 

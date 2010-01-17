@@ -13,14 +13,14 @@
 <!ENTITY scrollChars.label "caratteri">
 <!ENTITY useSystemDefault.label "Utilizza le impostazioni predefinite">
 <!ENTITY useSystemDefault.accesskey "U">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY useSystemDefaultHoriz.accesskey "z">
 <!ENTITY scrollPgUpPgDn.label "Scorri di una pagina in su o in giù">
 <!ENTITY scrollPgUpPgDn.accesskey "d">
 <!ENTITY scrollPgLtPgRt.label "Scorri di una pagina a sinistra o a destra">
 <!ENTITY scrollPgLtPgRt.accesskey "n">
 <!ENTITY history.label "Muovi avanti/indietro nella cronologia">
 <!ENTITY history.accesskey "M">
-<!ENTITY historyHoriz.accesskey "b">
+<!ENTITY historyHoriz.accesskey "v">
 <!ENTITY zoom.label "Fai zoom dentro o fuori la pagina">
-<!ENTITY zoom.accesskey "z">
+<!ENTITY zoom.accesskey "F">
 <!ENTITY zoomHoriz.accesskey "e">
