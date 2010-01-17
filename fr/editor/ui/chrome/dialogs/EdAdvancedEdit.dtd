@@ -33,5 +33,5 @@
 <!ENTITY tabCSS.label                   "Style intégré">
 <!ENTITY tabJSE.label                   "Événements JavaScript">
 
-<!ENTITY editAttribute.label    "Cliquer sur un item pour changer ces valeurs">
+<!ENTITY editAttribute.label    "Cliquer sur un élément pour changer sa valeur">
 <!ENTITY removeAttribute.label  "Enlever l'attribut">

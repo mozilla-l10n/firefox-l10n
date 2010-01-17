@@ -34,5 +34,5 @@
 <!ENTITY definitionList.value "Liste de définitions">
 <!ENTITY changeEntireListRadio.label "Changer toute la liste">
 <!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "Changer uniquement les items sélectionnés">
+<!ENTITY changeSelectedRadio.label "Changer uniquement les éléments sélectionnés">
 <!ENTITY changeSelectedRadio.accessKey "i">
