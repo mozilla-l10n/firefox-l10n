@@ -373,7 +373,7 @@
 <!ENTITY markAllReadCmd.label "Все как прочитанные">
 <!ENTITY markAllReadCmd.accesskey "В">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Звёздочкой">
+<!ENTITY markStarredCmd.label "Звёздочка">
 <!ENTITY markStarredCmd.accesskey "З">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Как спам">
