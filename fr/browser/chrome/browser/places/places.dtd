@@ -11,15 +11,15 @@
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Modifier">
 <!ENTITY edit.accesskey "M">
-<!ENTITY views.label "Vues">
-<!ENTITY views.accesskey "V">
+<!ENTITY views.label "Affichage">
+<!ENTITY views.accesskey "A">
 <!ENTITY view.toolbar.label "Barre d'outils">
 <!ENTITY view.toolbar.accesskey "B">
 <!ENTITY view.columns.label "Afficher les colonnes">
 <!ENTITY view.columns.accesskey "c">
-<!ENTITY view.sort.label "Tri">
+<!ENTITY view.sort.label "Trier par">
 <!ENTITY view.sort.accesskey "T">
-<!ENTITY view.unsorted.label "Sans tri">
+<!ENTITY view.unsorted.label "(aucun tri)">
 <!ENTITY view.unsorted.accesskey "S">
 <!ENTITY view.sortAscending.label "Ordre croissant (A > Z)">
 <!ENTITY view.sortAscending.accesskey "A">
