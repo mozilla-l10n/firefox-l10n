@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey "o">
 <!ENTITY mediaHideControls.label "Skrýt ovládání">
 <!ENTITY mediaHideControls.accesskey "o">
+<!ENTITY videoFullScreen.label "Celá obrazovka">
+<!ENTITY videoFullScreen.accesskey "C">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
