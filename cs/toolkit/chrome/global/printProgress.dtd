@@ -2,7 +2,7 @@
 <!ENTITY printWindow.title "Tisk">
 <!ENTITY title "Nadpis:">
 <!ENTITY progress "Průběh:">
-<!ENTITY preparing "Připravuji…">
+<!ENTITY preparing "Příprava…">
 <!ENTITY printComplete "Tisk je dokončen.">
 <!ENTITY dialogCancel.label "Zrušit">
 <!ENTITY dialogClose.label "Zavřít">
