@@ -5,9 +5,9 @@
 <!ENTITY accountTypeDesc.label "Questa creazione guidata raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste, contattare il proprio amministratore di sistema o fornitore di servizio.">
 <!ENTITY accountTypeDirections.label "Seleziona il tipo di account da configurare:">
 <!ENTITY accountTypeMail.label "Account di posta">
-<!ENTITY accountTypeMail.accesskey "p">
+<!ENTITY accountTypeMail.accesskey "c">
 <!ENTITY accountTypeNews.label "Account gruppi di discussione">
-<!ENTITY accountTypeNews.accesskey "g">
+<!ENTITY accountTypeNews.accesskey "d">
 <!ENTITY identityTitle.label "Identità">
 <!ENTITY identityDesc.label "Ogni account ha una identità, che è l'informazione che ti identifica agli altri quando ricevono i tuoi messaggi.">
 <!ENTITY fullnameDesc.label "Inserire il nome che apparirà nel campo &quot;Da:&quot; dei propri messaggi in uscita">

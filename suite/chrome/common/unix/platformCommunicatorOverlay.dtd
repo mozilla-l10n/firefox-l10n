@@ -9,7 +9,7 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
-<!ENTITY accel.emacs_conflict "accel,shift">
+<!ENTITY accel.emacs_conflict "shift,accel">
 <!ENTITY openHelpCmd.label "Contenuti della guida">
 <!ENTITY openHelpCmd.accesskey "C">
 <!ENTITY openHelpCmd.key "VK_F1">

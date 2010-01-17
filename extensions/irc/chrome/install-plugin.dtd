@@ -1,0 +1,13 @@
+<!ENTITY windowtitle                    "Installazione del plugin…">
+
+<!ENTITY name.label                     "Nome:">
+<!ENTITY name.accesskey                 "N">
+
+<!ENTITY name.autopick.label            "Ottieni automaticamente un nome">
+<!ENTITY name.autopick.accesskey        "O">
+
+<!ENTITY source.label                   "Sorgente:">
+<!ENTITY source.accesskey               "r">
+
+<!ENTITY browse.label                   "Sfoglia…">
+<!ENTITY browse.accesskey               "S">
