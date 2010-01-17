@@ -141,7 +141,7 @@
 <!ENTITY cancelSearch.button              "Annuler">
 <!ENTITY searchFailed.button              "OK">
 <!ENTITY searchResultHomepage.value       "En apprendre plus">
-<!ENTITY searchBox.label                  "Rechercher dans tous les modules complémentaires">
+<!ENTITY searchBox.label                  "Rechercher des modules">
 <!ENTITY recommendedResults.label         "Voir tous les modules complémentaires recommandés">
 <!ENTITY searchResultConnecting.label     "Connexion…">
 <!ENTITY searchResultInstalling.label     "Installation…">
