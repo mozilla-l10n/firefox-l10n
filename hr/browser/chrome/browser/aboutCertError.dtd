@@ -19,7 +19,7 @@ stranica isporučuje vjerodostojnu identifikaciju kako bi potvrdila da doista
 posjećujete pravo mjesto. Ova stranica nije poslala takvu identifikaciju.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Što učiniti?">
-<!ENTITY certerror.whatShouldIDo.content "Ako se inaće povezujete na
+<!ENTITY certerror.whatShouldIDo.content "Ako se inače povezujete na
 ovu stranicu bez problema, ovo upozorenje bi moglo značiti da netko pokušava
 imitirati stranicu, pa stoga ne biste trebali nastaviti.">
 <!ENTITY certerror.getMeOutOfHere.label "Makni me odavde!">

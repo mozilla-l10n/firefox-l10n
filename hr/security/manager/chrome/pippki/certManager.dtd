@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "Dodaj sigurnosnu iznimku">
 <!ENTITY exceptionMgr.exceptionButton         "Potvrdi sigurnosnu iznimku">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "s">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimne banke, dućani i ostale javne stranice vas neće tražiti da ovo učinite.">
+<!ENTITY exceptionMgr.supplementalWarning     "Legitimne banke, trgovine i ostale javne stranice vas neće tražiti da ovo učinite.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Poslužitelj">
 <!ENTITY exceptionMgr.certlocation.url        "Lokacija:">
 <!ENTITY exceptionMgr.certlocation.download   "Preuzmi certifikat">
