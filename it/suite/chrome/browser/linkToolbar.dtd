@@ -36,7 +36,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY linkToolbar.label "Barra navigazione sito">
 <!ENTITY linkToolbar.accesskey "t">
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
