@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label "Seçenekler">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 
-<!ENTITY clearRecentHistoryCmd.label "Yakın geçmişi temizle">
-<!ENTITY clearRecentHistoryCmd.accesskey "t">
+<!ENTITY clearRecentHistory.label "Clear Recent History…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
 <!ENTITY privateBrowsingCmd.start.label "Gizli taramayı başlat">

@@ -1,12 +1,12 @@
 
 <!ENTITY Inspector.title "DOM denetçisi">
 
-<!ENTITY thDOMNodes.label "DOM Nodes">
-<!ENTITY btnInspect.label "Inspect">
-<!ENTITY btnInspect.accesskey "I">
+<!ENTITY thDOMNodes.label "DOM Düğümleri">
+<!ENTITY btnInspect.label "İncele">
+<!ENTITY btnInspect.accesskey "İ">
 <!ENTITY bxDocPanel.title "Belge">
 <!ENTITY bxObjectPanel.title "Nesne">
-<!ENTITY btnSelecting.tooltip "Find a node to inspect by clicking on it">
+<!ENTITY btnSelecting.tooltip "Bir düğüm bulun ve incelemek için tıklayın">
 <!ENTITY btnFind.tooltip "Find a node to inspect by id, tag, or attribute">
 <!-- MAIN MENU ITEMS -->
 
