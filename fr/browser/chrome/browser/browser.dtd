@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
 
-<!ENTITY clearRecentHistoryCmd.label            "Supprimer l'historique récent">
-<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+<!ENTITY clearRecentHistory.label               "Supprimer l'historique récent…">
+<!ENTITY clearRecentHistory.accesskey           "h">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Commencer la navigation privée">
