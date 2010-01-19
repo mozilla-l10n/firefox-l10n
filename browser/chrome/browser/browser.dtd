@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren…">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
 
-<!ENTITY clearRecentHistoryCmd.label            "Recente geschiedenis wissen">
-<!ENTITY clearRecentHistoryCmd.accesskey        "R">
+<!ENTITY clearRecentHistory.label               "Recente geschiedenis wissen…">
+<!ENTITY clearRecentHistory.accesskey           "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Privénavigatie starten">
