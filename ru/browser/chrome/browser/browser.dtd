@@ -142,8 +142,8 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
-<!ENTITY clearRecentHistoryCmd.label "Стирание недавней истории">
-<!ENTITY clearRecentHistoryCmd.accesskey "т">
+<!ENTITY clearRecentHistory.label "Стереть недавнюю историю…">
+<!ENTITY clearRecentHistory.accesskey "т">
 <!ENTITY privateBrowsingCmd.start.label "Войти в режим приватного просмотра">
 <!ENTITY privateBrowsingCmd.start.accesskey "п">
 <!ENTITY privateBrowsingCmd.stop.label "Выйти из режима приватного просмотра">
