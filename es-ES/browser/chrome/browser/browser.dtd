@@ -142,8 +142,8 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearRecentHistoryCmd.label "Limpiar el historial reciente">
-<!ENTITY clearRecentHistoryCmd.accesskey "H">
+<!ENTITY clearRecentHistory.label "Limpiar el historial reciente…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY privateBrowsingCmd.start.label "Iniciar navegación privada">
 <!ENTITY privateBrowsingCmd.start.accesskey "v">
 <!ENTITY privateBrowsingCmd.stop.label "Detener navegación privada">
