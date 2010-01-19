@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey "v">
 
-<!ENTITY clearRecentHistoryCmd.label "Vymazat nedávnou historii">
-<!ENTITY clearRecentHistoryCmd.accesskey "h">
+<!ENTITY clearRecentHistory.label "Vymazat nedávnou historii…">
+<!ENTITY clearRecentHistory.accesskey "h">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label "Spustit anonymní prohlížení">
