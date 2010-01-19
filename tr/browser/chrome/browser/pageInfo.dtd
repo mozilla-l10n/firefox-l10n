@@ -113,7 +113,7 @@
 <!ENTITY securityView.identity.verifier "Onaylayan:">
 
 <!ENTITY securityView.privacy.header "Güvenlik ve geçmiş">
-<!ENTITY securityView.privacy.history "Bu siteyi önceden ziyaret ettim mi?">
+<!ENTITY securityView.privacy.history "Have I visited this web site prior to today?">
 <!ENTITY securityView.privacy.cookies "Bu site bilgisayarıma çerez yerleştirdi mi?">
 <!ENTITY securityView.privacy.viewCookies "Çerezleri göster">
 <!ENTITY securityView.privacy.viewCookies.accessKey "R">
