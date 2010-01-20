@@ -310,8 +310,6 @@
 <!ENTITY sendAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "Copier l'adresse du lien">
 <!ENTITY copyLinkCmd.accesskey        "C">
-<!ENTITY copyLinkTextCmd.label        "Copier le texte du lien">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyImageCmd.label           "Copier l'adresse de l'image">
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Copier l'image">
