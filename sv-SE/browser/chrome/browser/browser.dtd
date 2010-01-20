@@ -203,8 +203,8 @@
 <!ENTITY preferencesCmdUnix.label       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Rensa ut tidigare historik">
-<!ENTITY clearRecentHistoryCmd.accesskey        "R">
+<!ENTITY clearRecentHistory.label               "Rensa ut tidigare historik…">
+<!ENTITY clearRecentHistory.accesskey           "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Starta privat surfning">
