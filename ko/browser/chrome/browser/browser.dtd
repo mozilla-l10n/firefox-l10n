@@ -142,8 +142,8 @@
 <!ENTITY preferencesCmdUnix.label "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistoryCmd.label            "최근 기록 삭제">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY clearRecentHistory.label            "최근 기록 삭제…">
+<!ENTITY clearRecentHistory.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "사생활 보호 모드 시작">
