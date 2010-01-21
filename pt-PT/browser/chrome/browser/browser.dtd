@@ -173,8 +173,8 @@ shortcut keys on Linux. -->
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "f">
 
-<!ENTITY clearRecentHistoryCmd.label "Limpar Histórico recente">
-<!ENTITY clearRecentHistoryCmd.accesskey "L">
+<!ENTITY clearRecentHistory.label "Limpar Histórico recente">
+<!ENTITY clearRecentHistory.accesskey "L">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Iniciar navegação privada">
@@ -309,8 +309,6 @@ shortcut keys on Linux. -->
 <!ENTITY sendAudioCmd.accesskey       "e">
 <!ENTITY copyLinkCmd.label "Copiar endereço da ligação">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyLinkTextCmd.label        "Copiar Ligação do Texto">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyImageCmd.label "Copiar endereço da imagem">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar a imagem">
