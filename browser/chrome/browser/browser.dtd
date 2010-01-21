@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label     "Foarkarren...">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 
-<!ENTITY clearRecentHistoryCmd.label            "Wis resinte skiednis">
-<!ENTITY clearRecentHistoryCmd.accesskey        "S">
+<!ENTITY clearRecentHistory.label            "Wis resinte skiednis…">
+<!ENTITY clearRecentHistory.accesskey        "S">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label      "Start Privee sneupe">
@@ -308,8 +308,6 @@
 <!ENTITY sendAudioCmd.accesskey       "o">
 <!ENTITY copyLinkCmd.label            "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey        "p">
-<!ENTITY copyLinkTextCmd.label        "Kopiearje keppelingstekst">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyImageCmd.label           "Ofbyldingslokaasje kopiearje">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Ofbylding kopiearje">
