@@ -6,12 +6,12 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newMessage.label "Ny meddelelse">
+<!ENTITY newMessage.label "Meddelelse">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "N">
-<!ENTITY newContact.label "Adressebogskontakt…">
-<!ENTITY newContact.accesskey "V">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newContact.label "Kontakt…">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Vedhæft">
 <!ENTITY attachMenu.accesskey "V">
 <!ENTITY attachFileCmd.label "Filer…">
@@ -42,7 +42,7 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Sideopsætning…">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "æ">
 <!ENTITY printCmd.label "Udskriv">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "U">
@@ -69,7 +69,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Ombryd igen">
 <!ENTITY editRewrapCmd.key "O">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "m">
 <!ENTITY deleteCmd.label "Slet">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Marker alt">
@@ -77,10 +77,10 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findCmd.label "Find og erstat…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.accesskey "e">
 <!ENTITY findAgainCmd.label "Find igen">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Find forrige">
 <!ENTITY findPrevCmd.key "G">
@@ -91,12 +91,12 @@
 <!ENTITY viewMenu.label "Vis">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Værktøjslinjer">
-<!ENTITY viewToolbarsMenuNew.accesskey "k">
-<!ENTITY showCompositionToolbarCmd.label "Postværktøjslinjen">
-<!ENTITY showCompositionToolbarCmd.accesskey "P">
-<!ENTITY showFormattingBarCmd.label "Formateringslinjen">
+<!ENTITY viewToolbarsMenuNew.accesskey "V">
+<!ENTITY showCompositionToolbarCmd.label "Maillinje">
+<!ENTITY showCompositionToolbarCmd.accesskey "M">
+<!ENTITY showFormattingBarCmd.label "Formateringslinje">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY showTaskbarCmd.label "Statuslinjen">
+<!ENTITY showTaskbarCmd.label "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Tilpas…">
 <!ENTITY customizeToolbar.accesskey "T">
@@ -115,8 +115,8 @@
 <!ENTITY checkSpellingCmd2.key "K">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "S">
-<!ENTITY enableInlineSpellChecker.label "Aktiv stavekontrol">
-<!ENTITY enableInlineSpellChecker.accesskey "A">
+<!ENTITY enableInlineSpellChecker.label "Løbende stavekontrol">
+<!ENTITY enableInlineSpellChecker.accesskey "L">
 <!ENTITY quoteCmd.label "Citer meddelelse">
 <!ENTITY quoteCmd.accesskey "C">
 
@@ -125,7 +125,7 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Kvittering">
-<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY returnReceiptMenu.accesskey "i">
 <!ENTITY dsnMenu.label "Meddelelse om leveringsstatus">
 <!ENTITY dsnMenu.accesskey "M">
 <!ENTITY outputFormatMenu.label "Formater">
@@ -136,7 +136,7 @@
 <!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Kun kodet tekst (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Både ren og (HTML)kodet tekst">
+<!ENTITY bothFormatCmd.label "Både ren og kodet tekst (HTML)">
 <!ENTITY bothFormatCmd.accesskey "B">
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "p">
@@ -157,7 +157,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Funktioner">
-<!ENTITY tasksMenu.accesskey "F">
+<!ENTITY tasksMenu.accesskey "u">
 <!ENTITY messengerCmd.label "Mail &amp; nyhedsgrupper">
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
@@ -167,7 +167,7 @@
 
 <!ENTITY accountManagerCmd.label "Kontoindstillinger…">
 <!ENTITY accountManagerCmd.accesskey "K">
-<!ENTITY accountManagerCmdUnix.accesskey "i">
+<!ENTITY accountManagerCmdUnix.accesskey "t">
 <!ENTITY preferencesCmd.label "Indstillinger…">
 <!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Præferencer">
@@ -207,17 +207,17 @@
 <!ENTITY bccAddr.label "Skjult kopi til (Bcc):">
 <!ENTITY replyAddr.label "Svar til (Reply-To):">
 <!ENTITY newsgroupsAddr.label "Nyhedsgruppe (Newsgroup):">
-<!ENTITY followupAddr.label "Følg op på (Followup-To):">
+<!ENTITY followupAddr.label "Opfølgning til (Followup-To):">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "E">
 <!ENTITY attachments.label "Vedhæftede filer:">
-<!ENTITY attachments.accesskey "d">
+<!ENTITY attachments.accesskey "æ">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Indsæt smiley">
 <!ENTITY smiley1Cmd.label "Smil">
 <!ENTITY smiley2Cmd.label "Ked af det">
-<!ENTITY smiley3Cmd.label "Vink">
+<!ENTITY smiley3Cmd.label "Blink">
 <!ENTITY smiley4Cmd.label "Ræk tunge">
 <!ENTITY smiley5Cmd.label "Grinende">
 <!ENTITY smiley6Cmd.label "Flov">
@@ -236,7 +236,7 @@
 <!ENTITY spellCheckNoSuggestions.label "Ingen forslag fundet">
 <!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Tilføj til ordbog">
+<!ENTITY spellCheckAddToDictionary.label "Føj til ordbog">
 <!ENTITY spellCheckAddToDictionary.accesskey "T">
 <!ENTITY undo.label "Fortryd">
 <!ENTITY undo.accesskey "F">
@@ -249,7 +249,7 @@
 <!ENTITY pasteQuote.label "Indsæt som citat">
 <!ENTITY pasteQuote.accesskey "c">
 
-<!ENTITY openAttachment.label "Åben">
+<!ENTITY openAttachment.label "Åbn">
 <!ENTITY openAttachment.accesskey "Å">
 <!ENTITY delete.label "Slet">
 <!ENTITY delete.accesskey "S">
@@ -260,7 +260,7 @@
 <!ENTITY selectAll.label "Marker alt">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Vedhæft filer…">
-<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachFile.accesskey "i">
 <!ENTITY attachPage.label "Vedhæft hjemmeside…">
 <!ENTITY attachPage.accesskey "h">
 

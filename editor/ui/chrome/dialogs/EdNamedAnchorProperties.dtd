@@ -1,4 +1,4 @@
-<!ENTITY windowTitle.label "Named Anchor Properties">
+<!ENTITY windowTitle.label "Egenskaber for linkmål">
 <!ENTITY anchorNameEditField.label "Navn til linkmål:">
 <!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "Skriv et unikt navn for dette navngivne linkmål">

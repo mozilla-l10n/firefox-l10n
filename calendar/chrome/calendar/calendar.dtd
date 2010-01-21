@@ -111,7 +111,7 @@
 <!ENTITY calendar.newtask.button.label "Ny opgave">
 <!ENTITY calendar.print.button.label "Udskriv">
 
-<!ENTITY calendar.export.calendar "Eksporter kalender²">
+<!ENTITY calendar.export.calendar "Eksporter kalender…">
 
 <!ENTITY calendar.day.button.label "Dag">
 <!ENTITY calendar.week.button.label "Uge">
@@ -169,11 +169,11 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey "Å">
 <!ENTITY calendar.context.modifyorviewtask.label "Åbn opgave…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey "Å">
-<!ENTITY calendar.context.newevent.label "Ny begivenhed...">
+<!ENTITY calendar.context.newevent.label "Ny begivenhed…">
 <!ENTITY calendar.context.newevent.accesskey "N">
-<!ENTITY calendar.context.newtodo.label "Ny opgave...">
+<!ENTITY calendar.context.newtodo.label "Ny opgave…">
 <!ENTITY calendar.context.newtodo.accesskey "y">
-<!ENTITY calendar.context.modifytask.label "Rediger opgave...">
+<!ENTITY calendar.context.modifytask.label "Rediger opgave…">
 <!ENTITY calendar.context.modifytask.accesskey "R">
 <!ENTITY calendar.context.modifyitem.label "Rediger begivenhed">
 <!ENTITY calendar.context.modifyitem.accesskey "e">
@@ -236,7 +236,7 @@
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Ny kalender">
 <!ENTITY calendar.context.newserver.accesskey "N">
-<!ENTITY calendar.context.findcalendar.label "Find kalender²">
+<!ENTITY calendar.context.findcalendar.label "Find kalender…">
 <!ENTITY calendar.context.findcalendar.accesskey "F">
 <!ENTITY calendar.context.deleteserver.label "Slet kalender">
 <!ENTITY calendar.context.deleteserver.accesskey "S">
@@ -244,7 +244,7 @@
 <!ENTITY calendar.context.reloadserver.accesskey "G">
 <!ENTITY calendar.context.publish.label "Udgiv hele kalenderen">
 <!ENTITY calendar.context.publish.accesskey "U">
-<!ENTITY calendar.context.export.label "Eksporter kalender²">
+<!ENTITY calendar.context.export.label "Eksporter kalender…">
 <!ENTITY calendar.context.export.accesskey "E">
 <!ENTITY calendar.context.properties.label "Egenskaber">
 <!ENTITY calendar.context.properties.accesskey "E">
@@ -254,8 +254,8 @@
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label "Begivenhed…">
 <!ENTITY calendar.context.convertmenu.event.accesskey "B">
-<!ENTITY calendar.context.convertmenu.message.label "Besked…">
-<!ENTITY calendar.context.convertmenu.message.accesskey "B">
+<!ENTITY calendar.context.convertmenu.message.label "Meddelelse…">
+<!ENTITY calendar.context.convertmenu.message.accesskey "M">
 <!ENTITY calendar.context.convertmenu.task.label "Opgave…">
 <!ENTITY calendar.context.convertmenu.task.accesskey "O">
 
@@ -271,7 +271,7 @@
 <!-- Calendar Alarm Dialog -->
 
 <!ENTITY calendar.alarm.location.label "Sted:">
-<!ENTITY calendar.alarm.details.label "Detaljer²">
+<!ENTITY calendar.alarm.details.label "Detaljer…">
 
 <!ENTITY calendar.alarm.snoozefor.label "Udsæt i">
 <!ENTITY calendar.alarm.snoozeallfor.label "Udsæt alle i">
@@ -314,7 +314,7 @@
 <!ENTITY calendar.publish.publish.button "Udgiv">
 <!ENTITY calendar.publish.close.button "Luk">
 
-<!ENTITY calendar.publish.example.url.description "Fx http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description "F.eks. http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title "Vælg kalender">
@@ -332,7 +332,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Sideopsætning">
 
 <!-- Error reporting -->
-<!ENTITY calendar.error.detail "Detaljer...">
+<!ENTITY calendar.error.detail "Detaljer…">
 <!ENTITY calendar.error.code "Fejlkode:">
 <!ENTITY calendar.error.description "Beskrivelse:">
 <!ENTITY calendar.error.title "Der er opstået en fejl">

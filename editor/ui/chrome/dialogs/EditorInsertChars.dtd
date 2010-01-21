@@ -1,9 +1,9 @@
 <!ENTITY windowTitle.label "Indsæt tegn">
 <!ENTITY category.label "Kategori">
 <!ENTITY letter.label "Bogstav:">
-<!ENTITY letter.accessKey "L">
+<!ENTITY letter.accessKey "B">
 <!ENTITY character.label "Tegn:">
-<!ENTITY character.accessKey "C">
+<!ENTITY character.accessKey "T">
 <!ENTITY accentUpper.label "Store bogstaver med accent">
 <!ENTITY accentLower.label "Små bogstaver med accent">
 <!ENTITY otherUpper.label "Andre store bogstaver">

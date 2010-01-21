@@ -7,16 +7,16 @@
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "Aktiver global søgning og indeksering">
-<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY systemIntegration.label       "Systemintegration">
-<!ENTITY alwaysCheckDefault.label      "Kontroller altid, om &brandShortName; er standard e-mail-program ved start">
-<!ENTITY alwaysCheckDefault.accesskey  "K">
+<!ENTITY alwaysCheckDefault.label      "Undersøg altid, om &brandShortName; er standardmailprogrammet, når det startes">
+<!ENTITY alwaysCheckDefault.accesskey  "U">
 <!ENTITY searchIntegration.label       "Tillad &searchIntegration.engineName; at søge efter meddelelser">
 <!ENTITY searchIntegration.accesskey   "T">
-<!ENTITY checkNow.label                "Undersøg Nu">
-<!ENTITY checkNow.accesskey            "U">
+<!ENTITY checkNow.label                "Undersøg nu">
+<!ENTITY checkNow.accesskey            "n">
 <!ENTITY configEditDesc.label          "Avanceret konfiguration">
-<!ENTITY configEdit.label              "Konfigurations redigering…">
+<!ENTITY configEdit.label              "Avancerede indstillinger…">
 <!ENTITY configEdit.accesskey          "r">
 <!ENTITY returnReceiptsInfo.label      "Vælg hvordan &brandShortName; skal håndtere kvitteringer">
 <!ENTITY showReturnReceipts.label      "Kvitteringer…">
@@ -36,7 +36,7 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "Efter visning i">
-<!ENTITY markAsReadDelay.accesskey     "d">
+<!ENTITY markAsReadDelay.accesskey     "v">
 <!ENTITY secondsLabel.label            "sekunder">
 <!ENTITY openMsgIn.label               "Åbn meddelelse i:">
 <!ENTITY openMsgInNewTab.label         "Et nyt faneblad">
@@ -49,18 +49,18 @@
 <!ENTITY closeMsgWindowOnDelete.accesskey "L">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Kontroller automatisk efter opdateringer til:">
+<!ENTITY autoCheck.label "Kontroller automatisk for opdateringer til:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "n">
+<!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Installerede tilføjelser">
-<!ENTITY enableAddonsUpdate.accesskey   "s">
+<!ENTITY enableAddonsUpdate.accesskey   "I">
 <!ENTITY whenUpdatesFound.label         "Når opdateringer til &brandShortName; er tilgængelige,">
-<!ENTITY modeAskMe.label                "Spørg mig hvad der skal gøres">
-<!ENTITY modeAskMe.accesskey            "r">
+<!ENTITY modeAskMe.label                "Spørg mig, hvad der skal gøres">
+<!ENTITY modeAskMe.accesskey            "S">
 <!ENTITY modeAutomatic.label "Hent automatisk og påbegynd installation">
 <!ENTITY modeAutomatic.accesskey "H">
-<!ENTITY modeAutoAddonWarn.label        "Advar mig hvis dette deaktiverer nogle af mine tilføjelser">
-<!ENTITY modeAutoAddonWarn.accesskey    "d">
+<!ENTITY modeAutoAddonWarn.label        "Advar mig, hvis dette deaktiverer nogle af mine tilføjelser">
+<!ENTITY modeAutoAddonWarn.accesskey    "A">
 <!ENTITY showUpdates.label "Vis opdateringshistorik">
 <!ENTITY showUpdates.accesskey "V">
 
@@ -70,12 +70,12 @@
 <!ENTITY proxiesConfigure.label        "Definer hvordan &brandShortName; forbinder til internettet">
 <!ENTITY connectionsInfo.caption       "Forbindelse">
 <!ENTITY offlineInfo.caption           "Offline">
-<!ENTITY offlineInfo.label             "Rediger offline indstillinger">
+<!ENTITY offlineInfo.label             "Rediger offline-indstillinger">
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Diskplads">
-<!ENTITY offlineCompact.label "Komprimer mapper, når det kan spare mere end">
+<!ENTITY offlineCompact.label "Optimer mapper, når det kan spare mere end">
 <!ENTITY offlineCompact.accesskey "K">
 <!ENTITY kb.label "KB">
 
@@ -86,23 +86,23 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label            "Benyt op til">
-<!ENTITY useCacheBefore.accesskey        "e">
+<!ENTITY useCacheBefore.accesskey        "B">
 <!ENTITY useCacheAfter.label             "MB til mellemlageret">
 <!ENTITY clearCacheNow.label             "Ryd nu">
-<!ENTITY clearCacheNow.accesskey         "y">
+<!ENTITY clearCacheNow.accesskey         "R">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Når en server forespørger mit personlige certifikat:">
 <!ENTITY certs.auto                      "Vælg et automatisk">
-<!ENTITY certs.auto.accesskey            "æ">
+<!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Spørg mig hver gang">
 <!ENTITY certs.ask.accesskey             "ø">
 
 <!ENTITY viewCertificates.label         "Vis certifikater">
 <!ENTITY viewCertificates.accesskey     "c">
 <!ENTITY viewCRLs.label                 "Tilbagekaldelsesliste">
-<!ENTITY viewCRLs.accesskey             "i">
+<!ENTITY viewCRLs.accesskey             "T">
 <!ENTITY validation.label               "Verifikation">
-<!ENTITY validation.accesskey           "r">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
-<!ENTITY viewSecurityDevices.accesskey  "k">
+<!ENTITY viewSecurityDevices.accesskey  "S">

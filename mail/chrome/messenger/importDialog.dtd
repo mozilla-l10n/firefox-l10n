@@ -60,12 +60,12 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; import-guide">
-<!ENTITY importShortDesc.label    "Importer e-mail, adressebøger, indstillinger og filtre fra andre programmer">
+<!ENTITY importShortDesc.label    "Importer mails, adressebøger, indstillinger og filtre fra andre programmer">
 
-<!ENTITY importDescription1.label "Denne guide vil importere e-mail-meddelelser, adressebogsindhold, indstillinger og/eller filtre fra andre mailprogrammer og standard adressebogsformater til &brandShortName;.">
+<!ENTITY importDescription1.label "Denne guide vil importere mailmeddelelser, adressebogsindhold, indstillinger og/eller filtre fra andre mailprogrammer og standard adressebogsformater til &brandShortName;.">
 <!ENTITY importDescription2.label "Når de er blevet importeret, kan du få adgang til dem i &brandShortName;.">
 
-<!ENTITY selectDescription.label "Vælg venligst den type fil du ønsker at importere:">
+<!ENTITY selectDescription.label "Vælg den type fil, du ønsker at importere:">
 <!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label "&lt; Tilbage">
@@ -73,13 +73,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label "Færdig">
 <!ENTITY cancel.label "Annuller">
 
-<!ENTITY select.label "eller vælg den type materiale der skal importeres:">
+<!ENTITY select.label "eller vælg den type materiale, der skal importeres:">
 
 <!ENTITY title.label "Titel">
 <!ENTITY processing.label "Importerer…">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x har en e-mail-adresse for hvert kort, mens &brandShortName; har to (hjemme og arbejde).">
-<!ENTITY FieldDiscInputText2.label "Vælg den kategori, hvori du ønsker at gemme de importerede e-mail-adresser:">
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x har en mailadresse for hvert kort, mens &brandShortName; har to (hjemme og arbejde).">
+<!ENTITY FieldDiscInputText2.label "Vælg den kategori, hvori du ønsker at gemme de importerede mailadresser:">
 <!ENTITY FieldDiscWarning.label "Denne kategori vil blive benyttet til alle poster i den vagle adressebog:">
 <!ENTITY importHome.label        "Hjemme">
 <!ENTITY importHome.accesskey    "H">

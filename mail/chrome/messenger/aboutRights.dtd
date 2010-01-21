@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Alle vedkommende policer vedrørende privatlivssikring for dette produkt bør optegnes her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom SafeBrowsing tjenesten; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfri. Yderligere detaljer, inklusiv information om at frakoble disse tjenester, kan findes under punktet ">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfri. Yderligere detaljer, inklusive information om at frakoble disse tjenester, kan findes under punktet ">
 <!ENTITY rights.intro-point4b "tjenstevilkår">
 <!ENTITY rights.intro-point4c ".">
 
@@ -46,7 +46,7 @@
      updated.  -->
 
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; tilbyder valgfri opdateringstjenester, som fx automatisk opdatering af installerede tilføjelser. Hvis du ikke ønsker at benytte en sådan tjeneste, eller hvis du ikke kan acceptere de nedenfor nævnte betingelser, kan du slå opdateringstjenesterne fra ved at klikke på menupunktet Funktioner, Indstillinger. Vælg ">
+<!ENTITY rights.webservices-a "&brandFullName; tilbyder valgfri opdateringstjenester, som f.eks. automatisk opdatering af installerede tilføjelser. Hvis du ikke ønsker at benytte en sådan tjeneste, eller hvis du ikke kan acceptere de nedenfor nævnte betingelser, kan du slå opdateringstjenesterne fra ved at klikke på menupunktet Funktioner, Indstillinger. Vælg ">
 <!ENTITY rights.webservices-b "sektionen Advanceret,">
 <!ENTITY rights.webservices-c " klik på fanen ">
 <!ENTITY rights.webservices-d "Opdateringer">

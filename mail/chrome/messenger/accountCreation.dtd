@@ -7,7 +7,7 @@
 <!ENTITY email.accesskey                 "m">
 <!ENTITY email.emptytext                 "email@example.com">
 <!ENTITY password.label                  "Adgangskode:">
-<!ENTITY password.accesskey              "A">
+<!ENTITY password.accesskey              "d">
 <!ENTITY password.emptytext              "Adgangskode">
 <!ENTITY password.text                   "Valgfri, vil kun blive brugt til at validere brugernavnet">
 

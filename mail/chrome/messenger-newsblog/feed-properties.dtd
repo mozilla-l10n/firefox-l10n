@@ -4,7 +4,7 @@
 <!ENTITY feedLocation.label "Feed URL:">
 <!ENTITY feedLocation.accesskey "F">
 <!ENTITY choosethisfolder.label "vælg denne mappe">
-<!ENTITY quickMode.label "Vis artikeltekst i stedet for, at hente hjemmesiden">
+<!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente hjemmesiden">
 <!ENTITY quickMode.accesskey "V">
 <!ENTITY copyLinkCmd.label "Kopier link">
 <!ENTITY copyLinkCmd.accesskey "K">

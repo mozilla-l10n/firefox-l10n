@@ -6,22 +6,22 @@
 <!ENTITY neverEncrypt.label "Aldrig (brug ikke kryptering)">
 <!ENTITY neverEncrypt.accesskey "A">
 <!ENTITY alwaysEncryptMessage.label "Altid (deaktiver afsendelse med mindre alle modtagere har et certifikat)">
-<!ENTITY alwaysEncryptMessage.accesskey "a">
-<!ENTITY encryptionCert.message "Brug det følgende certifikat til at kryptere og dekryptere meddeleser du har sendt:">
+<!ENTITY alwaysEncryptMessage.accesskey "d">
+<!ENTITY encryptionCert.message "Brug dette certifikat til kryptering og dekryptering af meddelelser:">
 <!ENTITY digitalSign.certificate.button "Vælg…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Ryd">
 <!ENTITY digitalSign.certificate_clear.accesskey "R">
 <!ENTITY encryption.certificate.button "Vælg…">
-<!ENTITY encryption.certificate.accesskey "V">
+<!ENTITY encryption.certificate.accesskey "æ">
 <!ENTITY encryption.certificate_clear.button "Ryd">
-<!ENTITY encryption.certificate_clear.accesskey "R">
+<!ENTITY encryption.certificate_clear.accesskey "y">
 <!ENTITY signingGroupTitle.label "Digital signatur">
 <!ENTITY signMessage.label "Signer meddelelser digitalt (standard)">
 <!ENTITY signMessage.accesskey "S">
-<!ENTITY signingCert.message "Brug det følgende certifikat til at signere meddeleser du har sendt:">
+<!ENTITY signingCert.message "Brug dette certifikat til at signere meddelelser:">
 <!ENTITY certificates.label "Certifikater">
 <!ENTITY manageCerts.label "Certifikathåndtering">
 <!ENTITY manageCerts.accesskey "c">
 <!ENTITY manageDevices.label "Håndter sikkerhedsenheder">
-<!ENTITY manageDevices.accesskey "s">
+<!ENTITY manageDevices.accesskey "h">

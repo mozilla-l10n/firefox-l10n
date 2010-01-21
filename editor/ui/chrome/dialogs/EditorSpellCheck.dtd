@@ -1,7 +1,7 @@
 <!ENTITY windowTitle.label "Stavekontrol">
 <!ENTITY misspelledWord.label "Fejlstavet ord:">
 <!ENTITY wordEditField.label "Nyt ord:">
-<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.accessKey "y">
 <!ENTITY checkwordButton.label "Kontroller ord">
 <!ENTITY checkwordButton.accessKey "k">
 <!ENTITY suggestions.label "Forslag:">
@@ -16,11 +16,11 @@
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY stopButton.accessKey "p">
-<!ENTITY userDictionary.label "Personlig ordbog.">
+<!ENTITY userDictionary.label "Personlig ordbog:">
 <!ENTITY moreDictionaries.label "Hent flere">
 <!ENTITY addToUserDictionaryButton.label "Tilføj ord">
 <!ENTITY addToUserDictionaryButton.accessKey "T">
-<!ENTITY editUserDictionaryButton.label "Rediger...">
+<!ENTITY editUserDictionaryButton.label "Rediger…">
 <!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton.label "Kontroller siden igen">
 <!ENTITY recheckButton.accessKey "o">

@@ -47,7 +47,7 @@
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
-<!ENTITY newevent.attendees.notify.label "Send besked til deltagerne">
+<!ENTITY newevent.attendees.notify.label "Send meddelelse til deltagerne">
 
 <!ENTITY newevent.status.label "Status">
 <!ENTITY newevent.status.accesskey "S">
@@ -73,8 +73,8 @@
 <!ENTITY event.menu.file.new.accesskey "N">
 <!ENTITY event.menu.file.new.event.label "Begivenhed">
 <!ENTITY event.menu.file.new.event.accesskey "B">
-<!ENTITY event.menu.file.new.message.label "Besked">
-<!ENTITY event.menu.file.new.message.accesskey "E">
+<!ENTITY event.menu.file.new.message.label "Meddelelse">
+<!ENTITY event.menu.file.new.message.accesskey "M">
 <!ENTITY event.menu.file.new.contact.label "Adressebogskontakt">
 <!ENTITY event.menu.file.new.contact.accesskey "k">
 <!ENTITY event.menu.file.close.label "Afslut">
@@ -98,7 +98,7 @@
 <!ENTITY event.menu.edit.cut.accesskey "K">
 <!ENTITY event.menu.edit.copy.label "Kopier">
 <!ENTITY event.menu.edit.copy.accesskey "o">
-<!ENTITY event.menu.edit.paste.label "Sæt ind">
+<!ENTITY event.menu.edit.paste.label "Indsæt">
 <!ENTITY event.menu.edit.paste.accesskey "S">
 <!ENTITY event.menu.edit.select.all.label "Vælg alt">
 <!ENTITY event.menu.edit.select.all.accesskey "A">
@@ -120,7 +120,7 @@
 <!ENTITY event.menu.options.attachments.accesskey "V">
 <!ENTITY event.menu.options.attendees.label "Inviter deltagere…">
 <!ENTITY event.menu.options.attendees.accesskey "I">
-<!ENTITY event.menu.options.spellcheck.label "Stavekontrol...">
+<!ENTITY event.menu.options.spellcheck.label "Stavekontrol…">
 <!ENTITY event.menu.options.spellcheck.accesskey "S">
 <!ENTITY event.menu.options.inline.spellcheck.label "Løbende stavekontrol">
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "L">
@@ -164,9 +164,9 @@
 
 <!ENTITY event.invite.attendees.label "Inviter deltagere…">
 <!ENTITY event.invite.attendees.accesskey "I">
-<!ENTITY event.email.attendees.label "Skriv en e-mail til alle deltagere…">
+<!ENTITY event.email.attendees.label "Skriv en mail til alle deltagere…">
 <!ENTITY event.email.attendees.accesskey "E">
-<!ENTITY event.email.tentative.attendees.label "Skriv en e-mail til ubeslutsomme deltagere…">
+<!ENTITY event.email.tentative.attendees.label "Skriv en mail til ubeslutsomme deltagere…">
 <!ENTITY event.email.tentative.attendees.accesskey "u">
 
 <!-- Toolbar -->
@@ -232,7 +232,7 @@
 <!ENTITY event.reminder.1day.before.label "1 dag før">
 <!ENTITY event.reminder.2days.before.label "2 dage før">
 <!ENTITY event.reminder.1week.before.label "1 uge før">
-<!ENTITY event.reminder.custom.label "Andet...">
+<!ENTITY event.reminder.custom.label "Andet…">
 
 <!ENTITY event.reminder.multiple.label "Flere påmindelser…">
 
@@ -246,7 +246,7 @@
 <!ENTITY event.repeat.bi.weekly.label "Hver 14. dag">
 <!ENTITY event.repeat.monthly.label "Månedligt">
 <!ENTITY event.repeat.yearly.label "Årligt">
-<!ENTITY event.repeat.custom.label "Andet...">
+<!ENTITY event.repeat.custom.label "Andet…">
 
 <!ENTITY event.recurrence.pattern.label "Gentagelsesmønster">
 <!ENTITY event.recurrence.occurs.label "Gentag">

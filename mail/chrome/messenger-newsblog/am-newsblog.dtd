@@ -1,14 +1,14 @@
-<!ENTITY accountTitle.label "RSS-kontoindstillinger">
-<!ENTITY biffStart.label "Kontroller efter nye artikler hvert">
-<!ENTITY biffStart.accesskey "K">
+<!ENTITY accountTitle.label "feed-indstillinger">
+<!ENTITY biffStart.label "Kontroller for nye artikler hvert">
+<!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minut">
-<!ENTITY loginAtStartup.label "Søg efter ny post ved opstart">
+<!ENTITY loginAtStartup.label "Søg efter nye artikler ved opstart">
 <!ENTITY loginAtStartup.accesskey "S">
-<!ENTITY useQuickMode.label "Vis artikeltekst i stedet for, at hente hjemmeside">
+<!ENTITY useQuickMode.label "Vis artikeltekst i stedet for at hente hjemmeside">
 <!ENTITY useQuickMode.accesskey "V">
-<!ENTITY manageSubscriptions.label "Håndter abonnementer...">
+<!ENTITY manageSubscriptions.label "Håndter abonnementer…">
 <!ENTITY manageSubscriptions.accesskey "H">
-<!ENTITY feeds.accountName "Nyheder &amp; blogs">
-<!ENTITY feeds.wizardShortName "RSS">
-<!ENTITY feeds.wizardLongName "RSS-nyheder &amp; blogs">
+<!ENTITY feeds.accountName "Feeds &amp; blogs">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Feeds &amp; blogs">
 <!ENTITY feeds.wizardLongName.accesskey "F">

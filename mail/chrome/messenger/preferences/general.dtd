@@ -1,8 +1,8 @@
 <!ENTITY messengerStartPage.label         "&brandShortName; startside">
 <!ENTITY enableStartPage.label "Vis startsiden i meddelelsesområdet, når &brandShortName; starter">
-<!ENTITY enableStartPage.accesskey "S">
+<!ENTITY enableStartPage.accesskey "V">
 <!ENTITY location.label "Startside:">
-<!ENTITY location1.accesskey               "o">
+<!ENTITY location1.accesskey               "S">
 <!ENTITY useDefault.label "Gendan standard">
 <!ENTITY useDefault.accesskey "G">
 <!ENTITY bounceSystemDockIcon.label "Animer dock-ikonet">
@@ -10,22 +10,22 @@
 <!ENTITY newMessagesArrive.label "Når der kommer nye meddelelser:">
 <!ENTITY playSound.label "Afspil en lyd">
 <!ENTITY playSound1.accesskey              "d">
-<!ENTITY showAnimatedAlert.label "Vis en popup">
+<!ENTITY showAnimatedAlert.label "Vis en pop op-meddelelse">
 <!ENTITY showAnimatedAlert.accesskey "p">
 
 <!ENTITY customizeMailAlert.label         "Tilpas…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
 <!ENTITY play.label                       "Afspil">
-<!ENTITY play.accesskey                   "P">
+<!ENTITY play.accesskey                   "A">
 <!ENTITY systemsound.label                "Standard systemlyd ved modtagelse af ny mail">
 <!ENTITY systemsoundMac.label             "Systemadvarsel-lyd">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Anvend følgende lydfil">
-<!ENTITY customsound.accesskey            "U">
+<!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Gennemse…">
-<!ENTITY browse.accesskey                 "G">
+<!ENTITY browse.accesskey                 "e">
 
 <!ENTITY addonsMgr.label                  "Tilføjelser">
 <!ENTITY manageAddonsDescWin.label        "Skift indstillinger for dine tilføjelser">

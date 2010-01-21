@@ -1,20 +1,20 @@
-<!ENTITY itemJunk.label          "SPAM">
-<!ENTITY itemPhishing.label      "E-mail-svindel">
+<!ENTITY itemJunk.label          "Spam">
+<!ENTITY itemPhishing.label      "Mailsvindel">
 <!ENTITY itemPasswords.label     "Adgangskoder">
 <!ENTITY itemAntiVirus.label     "Antivirus">
-<!ENTITY itemCookies.label       "Web-indhold">
+<!ENTITY itemCookies.label       "Webindhold">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Du kan redigere kontospecifikke spam-indstillinger i menuen Kontoindstillinger.">
-<!ENTITY manualMark.label "Når du markere meddelesen som spam::">
-<!ENTITY manualMark.accesskey "N">
-<!ENTITY manualMarkModeMove.label "Flyt dem til kontoens &quot;spam-mappe&quot;">
+<!ENTITY junkMail.intro "Du kan redigere kontospecifikke spam-indstillinger i vinduet Kontoindstillinger.">
+<!ENTITY manualMark.label "Når du markerer meddelelsen som spam:">
+<!ENTITY manualMark.accesskey "å">
+<!ENTITY manualMarkModeMove.label "Flyt dem til mappen Spam på kontoen">
 <!ENTITY manualMarkModeMove.accesskey "F">
 <!ENTITY manualMarkModeDelete.label "Slet dem">
 <!ENTITY manualMarkModeDelete.accesskey "S">
 <!ENTITY markAsReadOnSpam.label "Marker spam-meddelelser som læste">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Aktiver spam-filter logning">
+<!ENTITY enableJunkLogging.label "Aktiver logning af spam-filter">
 <!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Vis log">
 <!ENTITY openJunkLog.accesskey "V">
@@ -22,10 +22,10 @@
 <!ENTITY resetTrainingData.accesskey "N">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meddelelser for e-mail-svindel ved at se efter standardteknikker, som benyttes til at snyde dig.">
-<!ENTITY enablePhishingDetector1.label    "Fortæl mig, hvis meddelelsen jeg læser er e-mail-svindel">
+<!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meddelelser for mailsvindel ved at se efter standardteknikker, som benyttes til at snyde dig.">
+<!ENTITY enablePhishingDetector1.label    "Fortæl mig, hvis meddelelsen jeg læser er mailsvindel">
 <!ENTITY enablePhishingDetector1.accesskey  "F">
-<!ENTITY useDownloadedList.label "Benyt en downloaded liste over mistænkelig e-mail-svindel">
+<!ENTITY useDownloadedList.label "Benyt en downloaded liste over mistænkelig mailsvindel">
 <!ENTITY useDownloadedList.accesskey "B">
 
 <!-- Passwords -->
@@ -44,14 +44,14 @@
 <!ENTITY antiVirus.accesskey  "T">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; lader dig specificere hvilke blogs, nyheds-feeds, og andre websteder der har lov til at gemme cookies.">
-<!ENTITY acceptCookies.label            "Accepter cookies fra websted">
+<!ENTITY cookies.intro                  "&brandShortName; lader dig specificere, hvilke blogs, feeds og andre websteder der har lov til at gemme cookies.">
+<!ENTITY acceptCookies.label            "Accepter cookies fra websteder">
 <!ENTITY acceptCookies.accesskey        "A">
 <!ENTITY keepUntil.label                "Behold indtil:">
 <!ENTITY keepUntil.accesskey            "B">
 <!ENTITY expire.label                   "de udløber">
-<!ENTITY close.label                    "Jeg lukker &brandShortName;">
-<!ENTITY askEachTime.label              "spørg mig hvergang">
+<!ENTITY close.label                    "jeg lukker &brandShortName;">
+<!ENTITY askEachTime.label              "spørg mig hver gang">
 <!ENTITY cookieExceptions.label         "Undtagelser…">
 <!ENTITY cookieExceptions.accesskey     "U">
 <!ENTITY showCookies.label              "Vis cookies…">

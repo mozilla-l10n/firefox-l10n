@@ -1,17 +1,17 @@
 <!ENTITY MsgSynchronize.label "Hent og synkroniser meddelelser">
 <!ENTITY MsgSelect.label "Elementer til anvendelse offline">
-<!ENTITY MsgSyncDesc.label "Hvis du allerede har valgt postmapper eller nyhedsgrupper til anvendelse offline, kan du hente og/eller synkronisere dem nu. Ellers brug &quot;Vælg&quot; knappen til at vælge postmapper og nyhedsgrupper til anvendelse offline.">
+<!ENTITY MsgSyncDesc.label "Hvis du allerede har valgt mailmapper eller nyhedsgrupper til anvendelse offline, kan du hente og/eller synkronisere dem nu. Ellers brug &quot;Vælg&quot; knappen til at vælge mailmapper og nyhedsgrupper til anvendelse offline.">
 <!ENTITY MsgSyncDirections.label "Hent og/eller synkroniser følgende:">
-<!ENTITY syncTypeMail.label "E-mail-meddelelser">
+<!ENTITY syncTypeMail.label "Mailmeddelelser">
 <!ENTITY syncTypeMail.accesskey "E">
-<!ENTITY syncTypeNews.label "Nyhedsgruppe-meddelelser">
+<!ENTITY syncTypeNews.label "Nyhedsgruppemeddelelser">
 <!ENTITY syncTypeNews.accesskey "N">
 <!ENTITY sendMessage.label "Send meddelelser fra mappen Udbakke">
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Arbejd offline når hentning og/eller synkronisering er afsluttet">
 <!ENTITY workOffline.accesskey "o">
-<!ENTITY selectButton.label "Vælg...">
+<!ENTITY selectButton.label "Vælg…">
 <!ENTITY selectButton.accesskey "æ">
-<!ENTITY MsgSelectDesc.label "Vælg e-mail-mapper og nyhedsgrupper til anvendelse offline.">
+<!ENTITY MsgSelectDesc.label "Vælg mailmapper og nyhedsgrupper til anvendelse offline.">
 <!ENTITY MsgSelectInd.label "Hent">
 <!ENTITY MsgSelectItems.label "Mapper og nyhedsgrupper">

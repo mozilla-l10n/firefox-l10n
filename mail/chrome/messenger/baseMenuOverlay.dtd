@@ -9,12 +9,12 @@
 <!ENTITY releaseCmd.accesskey "U">
 <!ENTITY whatsNewCmd.label "Hvad er nyt">
 <!ENTITY whatsNewCmd.accesskey "v">
-<!ENTITY featureConfiguratorCmd.label "Migreringsassistent">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
+<!ENTITY featureConfiguratorCmd.label "Nye funktioner">
+<!ENTITY featureConfiguratorCmd.accesskey "N">
 <!ENTITY openHelp.label "Emner i Hjælp">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Hjælp">
+<!ENTITY openHelpMac.label "Hjælp til &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 

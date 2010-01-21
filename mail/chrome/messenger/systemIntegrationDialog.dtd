@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "Mail">
 <!ENTITY newsgroups.label "Nyhedsgrupper">
-<!ENTITY feeds.label "RSS-Feeds">
+<!ENTITY feeds.label "Feeds">
 
 <!ENTITY checkOnStartup.label "Undersøg altid om &brandShortName; er standardprogram, når &brandShortName; startes">
 <!ENTITY checkOnStartup.accesskey "A">

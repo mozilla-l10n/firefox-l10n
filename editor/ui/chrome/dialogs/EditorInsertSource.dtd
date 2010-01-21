@@ -1,5 +1,5 @@
 <!ENTITY windowTitle.label "Indsæt HTML">
-<!ENTITY sourceEditField.label "Skriv HTML-mærker og tekst">
+<!ENTITY sourceEditField.label "Skriv HTML-tags og tekst">
 <!ENTITY example.label "Eksempel:">
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">

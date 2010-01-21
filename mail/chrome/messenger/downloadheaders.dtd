@@ -1,8 +1,8 @@
 <!ENTITY all.label "Hent alle meddelelseshoveder">
 <!ENTITY all.accesskey "A">
 <!ENTITY download.label "Hent">
-<!ENTITY download.accesskey "o">
+<!ENTITY download.accesskey "H">
 <!ENTITY headers.label "meddelelseshoveder">
-<!ENTITY headers.accesskey "h">
+<!ENTITY headers.accesskey "d">
 <!ENTITY mark.label "Marker resterende meddelelseshoveder som læste">
 <!ENTITY mark.accesskey "M">

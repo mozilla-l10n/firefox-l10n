@@ -12,9 +12,9 @@
 <!ENTITY newVirtualFolderCmd.label "Virtuel mappe…">
 <!ENTITY newVirtualFolderCmd.accesskey "t">
 <!ENTITY newOtherAccountsCmd.label "Andre konti…">
-<!ENTITY newOtherAccountsCmd.accesskey "A">
-<!ENTITY newEmailAccountCmd.label "Mail-konto…">
-<!ENTITY newEmailAccountCmd.accesskey "k">
+<!ENTITY newOtherAccountsCmd.accesskey "i">
+<!ENTITY newEmailAccountCmd.label "Mailkonto…">
+<!ENTITY newEmailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Åbn gemt meddelelse…">
 <!ENTITY openMessageFileCmd.accesskey "g">
 <!ENTITY openAttachmentCmd.label "Åbn…">
@@ -27,7 +27,7 @@
 <!ENTITY saveAsTemplateCmd.label "Skabelon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">
 <!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgForCmd.label "Hent nye meddelelser for">
+<!ENTITY getNewMsgForCmd.label "Hent nye meddelelser fra">
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle konti">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
@@ -40,16 +40,16 @@
 <!ENTITY subscribeCmd.label "Abonner…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Slet mappe">
-<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY deleteFolder.accesskey "p">
 <!ENTITY renameFolder.label "Omdøb mappe…">
 <!ENTITY renameFolder.accesskey "O">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Komprimer mapper">
-<!ENTITY compactFolders.accesskey "K">
+<!ENTITY compactFolders.label "Optimer mapper">
+<!ENTITY compactFolders.accesskey "i">
 <!ENTITY emptyTrashCmd.label "Tøm papirkurv">
 <!ENTITY emptyTrashCmd.accesskey "T">
 <!ENTITY offlineMenu.label "Offline">
-<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Arbejd offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Hent/Synkroniser nu…">
@@ -59,14 +59,14 @@
 <!ENTITY downloadSelectedCmd.label "Hent valgte meddelelser">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Hent stjernemarkerede meddelelser">
-<!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY downloadStarredCmd.accesskey "m">
 <!ENTITY printCmd.label "Udskriv">
 <!ENTITY printCmd.accesskey "U">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Vis udskrift">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Sideopsætning…">
-<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printSetupCmd.accesskey "æ">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slet meddelelsen">
@@ -84,7 +84,7 @@
 <!ENTITY deleteFolderCmd.label "Slet mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Fjern abonnement">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "F">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "j">
 <!ENTITY selectMenu.label "Marker">
 <!ENTITY selectMenu.accesskey "m">
 <!ENTITY all.label "Alle">
@@ -94,8 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Stjernemarkerede meddelelser">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Favorit mappe">
-<!ENTITY menuFavoriteFolder.accesskey "F">
+<!ENTITY menuFavoriteFolder.label "Favoritmappe">
+<!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "Egenskaber…">
 <!ENTITY folderPropsFolderCmd.label "Mappeegenskaber…">
 <!ENTITY folderPropsNewsgroupCmd.label "Nyhedsgruppens egenskaber…">
@@ -109,13 +109,13 @@
 <!ENTITY undoMarkAllCmd.label "Fortryd marker alle som læste">
 <!ENTITY redoMarkAllCmd.label "Gentag marker alle som læste">
 <!ENTITY undoDefaultCmd.label "Fortryd">
-<!ENTITY undoDefaultCmd.accesskey "F">
+<!ENTITY undoDefaultCmd.accesskey "y">
 <!ENTITY redoDefaultCmd.label "Gentag">
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Postværktøjslinjen">
-<!ENTITY showMessengerToolbarCmd.accesskey "P">
+<!ENTITY showMessengerToolbarCmd.label "Maillinje">
+<!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY customizeToolbar.label "Tilpas…">
 <!ENTITY customizeToolbar.accesskey "T">
 
@@ -127,7 +127,7 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Lodret udseende">
 <!ENTITY messagePaneVertical.accesskey "L">
-<!ENTITY showMessageCmd.label "Meddelelse">
+<!ENTITY showMessageCmd.label "Meddelelsesrude">
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "Mapper">
@@ -145,13 +145,13 @@
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter efter">
-<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortMenu.accesskey "o">
 <!ENTITY sortByDateCmd.label "Dato">
 <!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Modtaget">
 <!ENTITY sortByReceivedCmd.accesskey "t">
-<!ENTITY sortByStarCmd.label "Stjerne">
-<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByStarCmd.label "Stjernemarkering">
+<!ENTITY sortByStarCmd.accesskey "j">
 <!ENTITY sortByAttachmentsCmd.label "Vedhæftede filer">
 <!ENTITY sortByAttachmentsCmd.accesskey "V">
 <!ENTITY sortByPriorityCmd.label "Prioritet">
@@ -160,10 +160,10 @@
 <!ENTITY sortBySizeCmd.accesskey "ø">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Mærker">
+<!ENTITY sortByTagsCmd.label "Mærkater">
 <!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Spam-status">
-<!ENTITY sortByJunkStatusCmd.accesskey "S">
+<!ENTITY sortByJunkStatusCmd.accesskey "a">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Afsender">
@@ -172,14 +172,14 @@
 <!ENTITY sortByRecipientCmd.accesskey "M">
 <!ENTITY sortByUnreadCmd.label "Læst">
 <!ENTITY sortByUnreadCmd.accesskey "æ">
-<!ENTITY sortByOrderReceivedCmd.label "Modtagelsestidspunkt">
+<!ENTITY sortByOrderReceivedCmd.label "Modtagelsesorden">
 <!ENTITY sortByOrderReceivedCmd.accesskey "o">
 <!ENTITY sortAscending.label "Stigende">
 <!ENTITY sortAscending.accesskey "S">
 <!ENTITY sortDescending.label "Faldende">
 <!ENTITY sortDescending.accesskey "F">
 <!ENTITY sortThreaded.label "Vis tråd">
-<!ENTITY sortThreaded.accesskey "V">
+<!ENTITY sortThreaded.accesskey "å">
 <!ENTITY sortUnthreaded.label "Ikke i tråd">
 <!ENTITY sortUnthreaded.accesskey "I">
 <!ENTITY groupBySort.label "Sorter i grupper">
@@ -207,9 +207,9 @@
 
 <!ENTITY headersMenu.label "Meddelelseshoveder">
 <!ENTITY headersMenu.accesskey "H">
-<!ENTITY headersAllCmd.label "Alle">
+<!ENTITY headersAllCmd.label "Alt">
 <!ENTITY headersAllCmd.accesskey "A">
-<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.label "Normalt">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Meddelelsesindhold som">
 <!ENTITY bodyMenu.accesskey "i">
@@ -221,7 +221,7 @@
 <!ENTITY bodyAsPlaintext.accesskey "R">
 
 <!ENTITY bodyMenuFeed.label "Feed-meddelelsens indhold som">
-<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY bodyMenuFeed.accesskey "F">
 <!ENTITY viewFeedWebPage.label "Hjemmeside">
 <!ENTITY viewFeedWebPage.accesskey "H">
 <!ENTITY viewFeedSummary.label "Sammendrag">
@@ -265,7 +265,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Find">
-<!ENTITY findMenu.accesskey "F">
+<!ENTITY findMenu.accesskey "n">
 <!ENTITY findCmd.label "Find i denne meddelelse…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
@@ -279,7 +279,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchMailCmd.accesskey "S">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Søg i adresser…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "ø">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Gå til">
@@ -289,10 +289,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.label "Meddelelse">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Ulæst meddelelse">
+<!ENTITY nextUnreadMsgCmd.label "Ulæste meddelelse">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Stjernemarkeret meddelelse">
+<!ENTITY nextStarredMsgCmd.label "Stjernemarkerede meddelelse">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Ulæste tråd">
 <!ENTITY nextUnreadThread.accesskey "T">
@@ -302,7 +302,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevMsgCmd.label "Meddelelse">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Ulæst meddelelse">
+<!ENTITY prevUnreadMsgCmd.label "Ulæste meddelelse">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Fremad">
@@ -311,39 +311,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Tilbage">
 <!ENTITY goBackCmd.accesskey "b">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Stjernemarkeret meddelelse">
+<!ENTITY prevStarredMsgCmd.label "Stjernemarkerede meddelelse">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY startPageCmd.label "Mail-startsiden">
-<!ENTITY startPageCmd.accesskey "s">
+<!ENTITY startPageCmd.label "Startsiden">
+<!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Meddelelse">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Ny meddelelse">
-<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newMsgCmd.accesskey "y">
 <!ENTITY newNewMsgCmd.label "Meddelelse">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arkiver">
-<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.accesskey "k">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Svar kun afsenderen">
 <!ENTITY replySenderCmd.accesskey "a">
-<!ENTITY replyNewsgroupCmd.label "Svar til nyhedsgruppen">
+<!ENTITY replyNewsgroupCmd.label "Svar nyhedsgruppen">
 <!ENTITY replyNewsgroupCmd.accesskey "n">
-<!ENTITY replyToAllMsgCmd.label "Svar til alle">
-<!ENTITY replyToAllMsgCmd.accesskey "a">
+<!ENTITY replyToAllMsgCmd.label "Svar alle">
+<!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToListMsgCmd.label "Svar til liste">
+<!ENTITY replyToListMsgCmd.label "Svar liste">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Videresend">
 <!ENTITY forwardMsgCmd.accesskey "V">
-<!ENTITY forwardMsgCmd.key "e">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Videresend som">
-<!ENTITY forwardAsMenu.accesskey "i">
+<!ENTITY forwardAsMenu.accesskey "n">
 <!ENTITY forwardAsInline.label "En del af selve meddelelsen">
 <!ENTITY forwardAsInline.accesskey "s">
 <!ENTITY forwardAsAttachmentCmd.label "Vedhæftet fil">
@@ -360,15 +360,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMessageLocation.label "Kopier adressen på meddelelsen">
 <!ENTITY copyMessageLocation.accesskey "m">
 <!ENTITY copyMsgToMenu.label "Kopier til">
-<!ENTITY copyMsgToMenu.accesskey "K">
+<!ENTITY copyMsgToMenu.accesskey "p">
 <!ENTITY moveToFolderAgain.label "Flyt igen">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorer tråden">
-<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorer undertråde">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.accesskey "u">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Overvåg tråden">
 <!ENTITY watchThreadMenu.accesskey "O">
@@ -377,8 +377,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileHereMenu.accesskey "G">
 <!ENTITY copyHereMenu.label "Kopier hertil">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY tagMenu.label "Mærke">
-<!ENTITY tagMenu.accesskey "M">
+<!ENTITY tagMenu.label "Mærkat">
+<!ENTITY tagMenu.accesskey "æ">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -407,7 +407,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Som spam">
-<!ENTITY markAsJunkCmd.accesskey "r">
+<!ENTITY markAsJunkCmd.accesskey "o">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Som ikke-spam">
 <!ENTITY markAsNotJunkCmd.accesskey "i">
@@ -439,7 +439,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tilføjelser">
 <!ENTITY addons.accesskey "T">
-<!ENTITY activitymanager.label "Aktivitetsmanager">
+<!ENTITY activitymanager.label "Aktivitet">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY filtersCmd.label "Meddelelsesfiltre…">
 <!ENTITY filtersCmd.accesskey "f">
@@ -456,9 +456,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.label "Importer…">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Fejlkonsol">
-<!ENTITY errorConsoleCmd.accesskey "k">
+<!ENTITY errorConsoleCmd.accesskey "j">
 <!ENTITY accountManagerCmd.label "Kontoindstillinger…">
-<!ENTITY accountManagerCmd.accesskey "S">
+<!ENTITY accountManagerCmd.accesskey "o">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "K">
@@ -489,8 +489,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchItem.title "Hurtig søg">
 <!ENTITY mailViewsToolbarItem.title "Meddelelses kriterier">
 <!ENTITY folderLocationToolbarItem.title "Mappeplacering">
-<!ENTITY tagButton.label "Mærke">
-<!ENTITY compactButton.label "Komprimer">
+<!ENTITY tagButton.label "Mærkat">
+<!ENTITY compactButton.label "Optimer">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Avanceret adressesøgning">
@@ -501,7 +501,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Skriv en ny meddelelse">
 <!ENTITY replyButton.tooltip "Svar på meddelelsen">
 <!ENTITY replyAllButton.tooltip "Svar til afsenderen og alle modtagerne">
-<!ENTITY replyListButton.tooltip "Svar til postliste">
+<!ENTITY replyListButton.tooltip "Svar til mailingliste">
 <!ENTITY forwardButton.tooltip "Videresend den valgte meddelelse">
 <!ENTITY fileButton.tooltip "Gem den valgte meddelelse">
 <!ENTITY archiveButton.tooltip "Arkiver valgte meddelelser">
@@ -521,7 +521,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Nyt mærke…">
+<!ENTITY addNewTag.label "Nyt mærkat…">
 <!ENTITY addNewTag.accesskey "m">
 
 <!-- Folder Pane -->
@@ -531,37 +531,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meddelelser">
 <!ENTITY folderContextGetMessages.accesskey "H">
-<!ENTITY folderContextOpenNewWindow.label "Åbn i et nyt postvindue">
+<!ENTITY folderContextOpenNewWindow.label "Åbn i et nyt vindue">
 <!ENTITY folderContextOpenNewWindow.accesskey "v">
 <!ENTITY folderContextOpenNewTab.label "Åbn i et nyt faneblad">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "Ny undermappe…">
-<!ENTITY folderContextNew.accesskey "u">
+<!ENTITY folderContextNew.accesskey "p">
 <!ENTITY folderContextRename.label "Omdøb">
 <!ENTITY folderContextRename.accesskey "O">
 <!ENTITY folderContextRemove.label "Slet">
 <!ENTITY folderContextRemove.accesskey "S">
-<!ENTITY folderContextCompact.label "Komprimer denne mappe">
-<!ENTITY folderContextCompact.accesskey "K">
+<!ENTITY folderContextCompact.label "Optimer denne mappe">
+<!ENTITY folderContextCompact.accesskey "p">
 <!ENTITY folderContextEmptyTrash.label "Tøm papirkurv">
-<!ENTITY folderContextEmptyTrash.accesskey "T">
+<!ENTITY folderContextEmptyTrash.accesskey "ø">
 <!ENTITY folderContextEmptyJunk.label "Tøm spam-mappen">
 <!ENTITY folderContextEmptyJunk.accesskey "ø">
 <!ENTITY folderContextSendUnsentMessages.label "Send meddelelser fra Udbakke…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Fjern abonnement">
-<!ENTITY folderContextUnsubscribe.accesskey "F">
+<!ENTITY folderContextUnsubscribe.accesskey "j">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marker nyhedsgruppe som læst">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 <!ENTITY folderContextMarkMailFolderRead.label "Marker mappen som læst">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "l">
 <!ENTITY folderContextSubscribe.label "Abonner…">
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchMessages.label "Søg i meddelelser…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextSearchMessages.accesskey "g">
 <!ENTITY folderContextProperties.label "Egenskaber…">
 <!ENTITY folderContextProperties.accesskey "E">
-<!ENTITY folderContextFavoriteFolder.label "Favorit mapper">
+<!ENTITY folderContextFavoriteFolder.label "Favoritmapper">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
 <!ENTITY folderContextSettings.label "Indstillinger…">
 <!ENTITY folderContextSettings.accesskey "n">
@@ -584,18 +584,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tråd">
-<!ENTITY fromColumn.label "Afsender">
-<!ENTITY recipientColumn.label "Modtager">
+<!ENTITY fromColumn.label "Fra">
+<!ENTITY recipientColumn.label "Til">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Mærke">
+<!ENTITY tagsColumn.label "Mærkat">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "Spam-status">
 <!ENTITY unreadColumn.label "Ulæste i tråden">
-<!ENTITY totalColumn.label "Total i tråd">
+<!ENTITY totalColumn.label "I alt i tråden">
 <!ENTITY readColumn.label "Læste">
 <!ENTITY receivedColumn.label "Modtaget">
 <!ENTITY starredColumn.label "Stjernemarkeret">
@@ -611,13 +611,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.tooltip "Sorter efter emne">
 <!ENTITY dateColumn.tooltip "Sorter efter dato">
 <!ENTITY priorityColumn.tooltip "Sorter efter prioritet">
-<!ENTITY tagsColumn.tooltip "Sorter efter mærker">
+<!ENTITY tagsColumn.tooltip "Sorter efter mærkater">
 <!ENTITY accountColumn.tooltip "Sorter efter konto">
 <!ENTITY statusColumn.tooltip "Sorter efter status">
 <!ENTITY sizeColumn.tooltip "Sorter efter størrelse">
 <!ENTITY junkStatusColumn.tooltip "Sorter efter spam-status">
-<!ENTITY unreadColumn.tooltip "Antal af ulæste meddelelser i tråden">
-<!ENTITY totalColumn.tooltip "Total antal af meddelelser i tråden">
+<!ENTITY unreadColumn.tooltip "Antal ulæste meddelelser i tråden">
+<!ENTITY totalColumn.tooltip "Samlede antal meddelelser i tråden">
 <!ENTITY readColumn.tooltip "Sorter efter læst">
 <!ENTITY receivedColumn.tooltip "Sorter efter modtagelsesdato">
 <!ENTITY starredColumn.tooltip "Sorter efter stjernemarkering">
@@ -631,13 +631,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.label "Åbn meddelelsen i et nyt faneblad">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextEditAsNew.label "Rediger som ny…">
-<!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextEditAsNew.accesskey "y">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "r">
 <!ENTITY contextReplySender.label "Svar kun afsenderen">
-<!ENTITY contextReplySender.accesskey "a">
+<!ENTITY contextReplySender.accesskey "e">
 <!ENTITY contextReplyNewsgroup.label "Svar til nyhedsgruppen">
-<!ENTITY contextReplyNewsgroup.accesskey "n">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Svar til liste">
@@ -645,7 +645,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextForward.label "Videresend">
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsAttachment.label "Videresend som vedhæftede filer">
-<!ENTITY contextForwardAsAttachment.accesskey "v">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Flyt til">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Seneste">
@@ -657,7 +657,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.label "Udskriv…">
 <!ENTITY contextPrint.accesskey "U">
 <!ENTITY contextPrintPreview.label "Vis udskrift">
-<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextPrintPreview.accesskey "d">
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Afspil">
@@ -679,9 +679,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY loadRemoteContentButton3.label "Vis billeder">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "&brandShortName; mener, at denne meddelelse måske er mail-svindel.">
+<!ENTITY phishingBarMessage2.label "&brandShortName; mener, at denne meddelelse måske er mailsvindel.">
 <!ENTITY removePhishingBarButton1.label "Ikke-svindel">
-<!ENTITY reportPhishingError1.label "Denne meddelelse ser ikke ud til at være mail-svindel.">
+<!ENTITY reportPhishingError1.label "Denne meddelelse ser ikke ud til at være mailsvindel.">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "mere">
@@ -691,9 +691,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchAllMessages.label "Søg i alle meddelelser">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Tilføj til adressebog…">
-<!ENTITY AddToAddressBook.accesskey "T">
-<!ENTITY AddDirectlyToAddressBook.label "Tilføj til adressebog">
+<!ENTITY AddToAddressBook.label "Føj til adressebog…">
+<!ENTITY AddToAddressBook.accesskey "t">
+<!ENTITY AddDirectlyToAddressBook.label "Føj til adressebog">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
 <!ENTITY EditContact.label "Rediger kontakt…">
 <!ENTITY EditContact.accesskey "e">
@@ -702,8 +702,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SubscribeToNewsgroup.label "Abonner på nyhedsgruppe">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Skriv meddelelse til">
-<!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Kopier mail-adresse">
+<!ENTITY SendMessageTo.accesskey "S">
+<!ENTITY CopyEmailAddress.label "Kopier mailadresse">
 <!ENTITY CopyEmailAddress.accesskey "o">
 <!ENTITY CopyNewsgroupName.label "Kopier nyhedsgruppens navn">
 <!ENTITY CopyNewsgroupName.accesskey "n">
@@ -711,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Opret filter fra…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY reportPhishingURL.label "Rapporter mail-svindel">
+<!ENTITY reportPhishingURL.label "Rapporter mailsvindel">
 <!ENTITY reportPhishingURL.accesskey "R">
 
 <!-- Content Pane Context Menu -->
@@ -726,12 +726,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteCmd.label "Indsæt">
 <!ENTITY pasteCmd.accesskey "æ">
 <!ENTITY selectAllCmd.label "Marker alt">
-<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageCmd.label "Kopier billedadresse">
 <!ENTITY copyImageCmd.accesskey "p">
-<!ENTITY copyEmailCmd.label "Kopier mail-adresse">
+<!ENTITY copyEmailCmd.label "Kopier mailadresse">
 <!ENTITY copyEmailCmd.accesskey "m">
 <!ENTITY stopCmd.label "Stop">
 <!ENTITY stopCmd.accesskey "S">
@@ -752,7 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Præferencer…">
+<!ENTITY preferencesCmdMac.label        "Indstillinger…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Tjenester">

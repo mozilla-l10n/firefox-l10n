@@ -6,9 +6,9 @@
 
 <!ENTITY deleteAddrBookCard.label           "Slet">
 <!ENTITY addrBookCardProperties.label       "Egenskaber">
-<!ENTITY addtoToFieldMenu.label "Tilføj til Til-feltet">
-<!ENTITY addtoCcFieldMenu.label "Tilføj til Kopi-til-feltet">
-<!ENTITY addtoBccFieldMenu.label "Tilføj til Skjult-kopi-til-feltet">
+<!ENTITY addtoToFieldMenu.label "Tilføj i Til-feltet">
+<!ENTITY addtoCcFieldMenu.label "Tilføj i Kopi-til-feltet">
+<!ENTITY addtoBccFieldMenu.label "Tilføj i Skjult-kopi-til-feltet">
 
 <!ENTITY toButton.label "Til ->">
 <!ENTITY toButton.accesskey                 "T">

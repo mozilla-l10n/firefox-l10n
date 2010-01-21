@@ -5,7 +5,7 @@
 <!ENTITY description.accesskey "O">
 <!ENTITY searchTermCaption.label "Indstil søgekriterierne for denne virtuelle mappe:">
 <!ENTITY folderSelectionCaption.label "Vælg mapper der skal søges i:">
-<!ENTITY chooseFoldersButton.label "Vælg...">
+<!ENTITY chooseFoldersButton.label "Vælg…">
 <!ENTITY chooseFoldersButton.accesskey "V">
 <!ENTITY searchOnline.label "Søg online (Giver opdateret resultater ved IMAP og nyhedsgrupper, men forøger tiden at åben mappen)">
 <!ENTITY searchOnline.accesskey "G">

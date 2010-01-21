@@ -35,42 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "til ">
-<!ENTITY fromField2.label "fra ">
-<!ENTITY senderField2.label "afsender ">
-<!ENTITY organizationField2.label "organisation ">
-<!ENTITY replyToField2.label "svar til ">
+<!ENTITY toField2.label "Til ">
+<!ENTITY fromField2.label "Fra ">
+<!ENTITY senderField2.label "Afsender ">
+<!ENTITY organizationField2.label "Organisation ">
+<!ENTITY replyToField2.label "Svar til ">
 
-<!ENTITY subjectField2.label "emne ">
+<!ENTITY subjectField2.label "Emne ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "nyhedsgrupper ">
-<!ENTITY followupToField2.label "følg op på ">
-<!ENTITY tagsHdr2.label "mærkater ">
-<!ENTITY dateField2.label "dato ">
-<!ENTITY userAgentField2.label "e-mail program ">
-<!ENTITY referencesField2.label "referencer ">
-<!ENTITY messageIdField2.label "meddelelses-id ">
-<!ENTITY inReplyToField2.label "i-svar-til ">
-<!ENTITY originalWebsite2.label "hjemmeside ">
+<!ENTITY newsgroupsField2.label "Nyhedsgrupper ">
+<!ENTITY followupToField2.label "Opfølgning til ">
+<!ENTITY tagsHdr2.label "Mærkater ">
+<!ENTITY dateField2.label "Dato ">
+<!ENTITY userAgentField2.label "Mailprogram ">
+<!ENTITY referencesField2.label "Referencer ">
+<!ENTITY messageIdField2.label "Meddelelses-id ">
+<!ENTITY inReplyToField2.label "Svar på ">
+<!ENTITY originalWebsite2.label "Hjemmeside ">
 
 <!ENTITY editMessageDescription.label "Denne meddelelse er en kladde">
 <!ENTITY editMessageButton.label "Rediger…">
-<!ENTITY hdrArchiveButton.label "arkiv">
-<!ENTITY hdrArchiveButton.tooltip "arkiver denne meddelelse">
-<!ENTITY hdrReplyButton.label "svar">
-<!ENTITY hdrReplyButton.tooltip "svar på denne meddelelse">
-<!ENTITY hdrReplyAllButton.label "svar alle">
-<!ENTITY hdrReplyAllButton.tooltip "svar afsender og alle modtagere">
-<!ENTITY hdrReplyListButton.label "svar liste">
-<!ENTITY hdrReplyListButton.tooltip "svar til diskussionsliste">
-<!ENTITY hdrForwardButton.label "videresend">
-<!ENTITY hdrForwardButton.tooltip "videresend denne meddelelse">
-<!ENTITY hdrJunkButton.label "spam">
-<!ENTITY hdrJunkButton.tooltip "marker denne meddelelse">
-<!ENTITY hdrTrashButton.label "slet">
-<!ENTITY hdrTrashButton.tooltip "slet denne meddelelse">
+<!ENTITY hdrArchiveButton.label "Arkiver">
+<!ENTITY hdrArchiveButton.tooltip "Arkiver denne meddelelse">
+<!ENTITY hdrReplyButton.label "Svar">
+<!ENTITY hdrReplyButton.tooltip "Svar på denne meddelelse">
+<!ENTITY hdrReplyAllButton.label "Svar til alle">
+<!ENTITY hdrReplyAllButton.tooltip "Svar afsender og alle modtagere">
+<!ENTITY hdrReplyListButton.label "Svar til liste">
+<!ENTITY hdrReplyListButton.tooltip "Svar til diskussionsliste">
+<!ENTITY hdrForwardButton.label "Videresend">
+<!ENTITY hdrForwardButton.tooltip "Videresend denne meddelelse">
+<!ENTITY hdrJunkButton.label "Spam">
+<!ENTITY hdrJunkButton.tooltip "Marker denne meddelelse">
+<!ENTITY hdrTrashButton.label "Slet">
+<!ENTITY hdrTrashButton.tooltip "Slet denne meddelelse">
 
 <!ENTITY hdrViewToolbarShowFull.label "Vis ikoner og tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey "V">
@@ -81,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vis altid svar til afsender">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "a">
 
-<!ENTITY otherActionsButton.label "anden handling">
-<!ENTITY otherActionsShowConversation.label "vis i konversationen">
-<!ENTITY otherActionsShowConversation.accesskey "i">
-<!ENTITY otherActionsOpenInNewWindow.label "åbn i nyt vindue">
+<!ENTITY otherActionsButton.label "Flere funktioner">
+<!ENTITY otherActionsShowConversation.label "Vis korrespondance i tråd">
+<!ENTITY otherActionsShowConversation.accesskey "t">
+<!ENTITY otherActionsOpenInNewWindow.label "Åbn i nyt vindue">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "v">
-<!ENTITY otherActionsOpenInNewTab.label "åbn i nyt faneblad">
+<!ENTITY otherActionsOpenInNewTab.label "Åbn i nyt faneblad">
 <!ENTITY otherActionsOpenInNewTab.accesskey "f">
-<!ENTITY markAsReadMenuItem.label "marker som læst">
+<!ENTITY markAsReadMenuItem.label "Marker som læst">
 <!ENTITY markAsReadMenuItem.accesskey "l">
-<!ENTITY markAsUnreadMenuItem.label "marker som ulæst">
-<!ENTITY markAsUnreadMenuItem.accesskey "i">
-<!ENTITY saveAsMenuItem.label "gem som…">
-<!ENTITY saveAsMenuItem.accesskey "g">
-<!ENTITY viewSourceMenuItem.label "vis kilde">
+<!ENTITY markAsUnreadMenuItem.label "Marker som ulæst">
+<!ENTITY markAsUnreadMenuItem.accesskey "M">
+<!ENTITY saveAsMenuItem.label "Gem som…">
+<!ENTITY saveAsMenuItem.accesskey "G">
+<!ENTITY viewSourceMenuItem.label "Vis kildekode">
 <!ENTITY viewSourceMenuItem.accesskey "k">
-<!ENTITY otherActionsPrint.label "udskriv…">
-<!ENTITY otherActionsPrint.accesskey "u">
+<!ENTITY otherActionsPrint.label "Udskriv…">
+<!ENTITY otherActionsPrint.accesskey "U">
 
 <!ENTITY openAttachmentCmd.label "Åbn…">
 <!ENTITY openAttachmentCmd.accesskey "Å">
@@ -106,7 +106,7 @@
 <!ENTITY detachAttachmentCmd.label "Fjern…">
 <!ENTITY deleteAttachmentCmd.label "Slet">
 <!ENTITY saveAllAttachmentsCmd.label "Gem alle…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "a">
+<!ENTITY saveAllAttachmentsCmd.accesskey "G">
 <!ENTITY detachAllAttachmentsCmd.label "Fjern alle…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "F">
 <!ENTITY deleteAllAttachmentsCmd.label "Slet alle…">

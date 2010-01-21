@@ -3,13 +3,13 @@
 <!ENTITY sendMaildesc.label "Når meddelelser sendes i HTML-format og en eller flere af modtagerne er markeret som ude af stand til at læse HTML:">
 <!ENTITY askMe.label "Spørg mig">
 <!ENTITY askMe.accesskey "s">
-<!ENTITY convertPlain.label "Konverter meddelelsen til ren tekst">
+<!ENTITY convertPlain.label "Konverter meddelelsen til ren tekst-format">
 <!ENTITY convertPlain.accesskey "k">
 <!ENTITY sendHTML.label "Send meddelelsen som HTML alligevel">
 <!ENTITY sendHTML.accesskey "s">
-<!ENTITY sendBoth.label "Send meddelelsen som både HTML og ren tekst">
+<!ENTITY sendBoth.label "Send meddelelsen som både HTML og ren tekst-format">
 <!ENTITY sendBoth.accesskey "b">
-<!ENTITY override.label "Note: Brug Adressebog til at specificere tekst formater for modtagere.">
+<!ENTITY override.label "Note: Brug adressebogen til at specificere tekstformat for modtagere.">
 
 <!ENTITY domaindesc.label "Når du sender en meddelelse til en adresse i et af nedenstående domæner, sender &brandShortName; den automatisk i det rigtige format.">
 <!ENTITY HTMLTab.label "HTML-domæner">
@@ -27,5 +27,5 @@
 
 <!ENTITY add.htmltitle "Tilføj HTML-domæne">
 <!ENTITY add.htmldomain "HTML-domæne:">
-<!ENTITY add.plaintexttitle "Tilføj ren tekst domæne">
-<!ENTITY add.plaintextdomain "Ren tekst domæne:">
+<!ENTITY add.plaintexttitle "Tilføj ren tekst-domæne">
+<!ENTITY add.plaintextdomain "Ren tekst-domæne:">

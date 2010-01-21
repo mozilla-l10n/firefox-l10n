@@ -10,7 +10,7 @@
 <!ENTITY alwaysUseUsername.accesskey "e">
 <!ENTITY userName.label "Brugernavn:">
 <!ENTITY userName.accesskey "B">
-<!ENTITY useSecAuth.label "Brug sikker authentifikation">
+<!ENTITY useSecAuth.label "Brug sikker godkendelse">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "Forbindelsessikkerhed:">
 <!ENTITY connectionSecurity.accesskey "F">

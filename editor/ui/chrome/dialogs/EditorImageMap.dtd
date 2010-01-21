@@ -62,7 +62,7 @@
 <!ENTITY pasteCmd.accesskey "æ">
 <!ENTITY selectallCmd.label "Marker alt">
 <!ENTITY selectallCmd.accesskey "M">
-<!ENTITY propsCmd.label "Hotspot-egenskaber">
+<!ENTITY propsCmd.label "Hotspots-egenskaber">
 <!ENTITY propsCmd.accesskey "H">
 
 <!-- View menu -->

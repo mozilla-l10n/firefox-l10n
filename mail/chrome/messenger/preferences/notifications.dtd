@@ -1,4 +1,4 @@
-<!ENTITY notificationsDialog2.title       "Definer Ny Mail Underretning">
+<!ENTITY notificationsDialog2.title       "Definer meddelelse om ny mail">
 <!ENTITY window.width "30em">
 <!ENTITY alertCustomization.intro         "Vælg hvilke felter der vises i boksen:">
 <!ENTITY previewText.label                "Udsnit af meddelelsen">

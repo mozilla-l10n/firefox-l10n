@@ -1,21 +1,21 @@
 <!ENTITY accountTitle.label "Kontoindstillinger">
 <!ENTITY accountName.label "Kontonavn:">
-<!ENTITY accountName.accesskey "K">
+<!ENTITY accountName.accesskey "a">
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
 <!ENTITY name.label "Dit navn:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "E-mail-adresse:">
+<!ENTITY email.label "Mailadresse:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Svar til adresse:">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.label "Svaradresse:">
+<!ENTITY replyTo.accesskey "r">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureFile.label "Vedhæft signaturen fra en fil (tekst, HTML eller et billede):">
 <!ENTITY signatureFile.accesskey "f">
 <!ENTITY signatureText.label "Tekstsignatur:">
 <!ENTITY signatureText.accesskey "T">
-<!ENTITY signatureHtml.label "Brug HTML (fx &lt;b&gt;fed&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Brug HTML (f.eks. &lt;b&gt;fed&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY edit.label "Rediger…">
 <!ENTITY choose.label "Vælg…">
@@ -28,4 +28,4 @@
 <!ENTITY manageIdentities.accesskey "i">
 <!ENTITY smtpName.label "Server:">
 <!ENTITY smtpName.accesskey "S">
-<!ENTITY smtpDefaultServer.label "Brug standard server">
+<!ENTITY smtpDefaultServer.label "Brug standardserver">

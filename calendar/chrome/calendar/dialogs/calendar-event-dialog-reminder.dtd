@@ -47,7 +47,7 @@
 <!ENTITY reminder.relation.after.label                     "efter" >
 
 <!ENTITY reminder.action.alert.label                       "Vis en påmindelse">
-<!ENTITY reminder.action.email.label                       "Send en e-mail">
+<!ENTITY reminder.action.email.label                       "Send en mail">
 
 <!ENTITY alarm.units.minutes                               "minutter" >
 <!ENTITY alarm.units.hours                                 "timer" >

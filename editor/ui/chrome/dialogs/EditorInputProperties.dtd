@@ -3,7 +3,7 @@
 <!ENTITY InputType.label "Felttype">
 <!ENTITY InputType.accesskey "F">
 <!ENTITY text.value "Tekst">
-<!ENTITY password.value "Kodeord">
+<!ENTITY password.value "Adgangskode">
 <!ENTITY checkbox.value "Afkrydsningsboks">
 <!ENTITY radio.value "Radioknap">
 <!ENTITY submit.value "Sendknap">
@@ -39,5 +39,5 @@
 <!ENTITY AccessKey.accesskey "G">
 <!ENTITY Accept.label "Accepttyper:">
 <!ENTITY Accept.accesskey "A">
-<!ENTITY ImageProperties.label "Billedegenskaber...">
+<!ENTITY ImageProperties.label "Billedegenskaber…">
 <!ENTITY ImageProperties.accesskey "B">

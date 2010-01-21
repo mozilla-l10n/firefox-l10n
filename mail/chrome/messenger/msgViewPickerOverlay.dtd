@@ -4,7 +4,7 @@
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Alle">
 <!ENTITY viewAll.accesskey "A">
-<!ENTITY viewUnread.label "Ulæst">
+<!ENTITY viewUnread.label "Ulæste">
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Ikke slettet">
 <!ENTITY viewNotDeleted.accesskey "I">

@@ -1,4 +1,4 @@
-<!ENTITY windowTitle.label "Billedegenskaber">
+<!ENTITY windowTitle.label "Egenskaber for billede">
 <!ENTITY pixelsPopup.value "pixler">
 <!ENTITY locationEditField.label "Billedets placering:">
 <!ENTITY locationEditField.accessKey "L">
@@ -7,14 +7,14 @@
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "HTML-attributten &quot;title&quot; der vises som et værktøjstip">
 <!ENTITY altText.label "Alternativ tekst:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.accessKey "e">
 <!ENTITY altTextEditField.tooltip "Skriv den tekst der skal skrives på billedets plads">
 <!ENTITY noAltText.label "Brug ikke alternativ tekst">
-<!ENTITY noAltText.accessKey "D">
-<!ENTITY previewBox.label "Vis billedet">
+<!ENTITY noAltText.accessKey "B">
+<!ENTITY previewBox.label "Billedoplysninger">
 <!ENTITY actualSize.label "Billedets egen størrelse:">
 <!ENTITY actualSizeRadio.label "Billedets egen størrelse">
-<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.accessKey "d">
 <!ENTITY actualSizeRadio.tooltip "Brug billedets egen størrelse">
 <!ENTITY customSizeRadio.label "Indstil størrelse">
 <!ENTITY customSizeRadio.accessKey "S">
@@ -24,12 +24,12 @@
 <!ENTITY widthEditField.label "Bredde:">
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY constrainCheckbox.label "Bundet">
-<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.accessKey "u">
 <!ENTITY constrainCheckbox.tooltip "Bevar billedets størrelsesforhold">
 <!ENTITY imagemapBox.label "Aktive billedområder">
 <!ENTITY removeImageMapButton.label "Fjern">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Rediger...">
+<!ENTITY editImageMapButton.label "Rediger…">
 <!ENTITY editImageMapButton.tooltip "Gør områder på billedet til aktive områder med link">
 <!ENTITY alignment.label "Juster teksten langs billedet">
 <!ENTITY bottomPopup.value "Forneden">

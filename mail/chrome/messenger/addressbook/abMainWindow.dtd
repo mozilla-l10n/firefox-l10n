@@ -5,10 +5,10 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newContact.label                               "Adressebogskontakt…">
+<!ENTITY newContact.label                               "Kontakt…">
 <!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label "Postliste…">
+<!ENTITY newListCmd.label "Mailingliste…">
 <!ENTITY newListCmd.accesskey "l">
 <!ENTITY newAddressBookCmd.label "Adressebog…">
 <!ENTITY newAddressBookCmd.accesskey "B">
@@ -28,7 +28,7 @@
 <!ENTITY printPreviewContactCmd.label                   "Vis udskrift af kontakt">
 <!ENTITY printPreviewContactCmd.accesskey "v">
 <!ENTITY printPreviewAddressBook.label 					"Vis udskrift af adressebog">
-<!ENTITY printPreviewAddressBook.accesskey "B">
+<!ENTITY printPreviewAddressBook.accesskey "a">
 <!ENTITY printContactCmd.label                          "Udskriv kontakt…">
 <!ENTITY printContactCmd.accesskey "u">
 <!ENTITY printContactCmd.key "P">
@@ -50,7 +50,7 @@
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Sæt ind">
+<!ENTITY pasteCmd.label "Indsæt">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Slet">
@@ -71,7 +71,7 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label "Egenskaber…">
-<!ENTITY propertiesCmd.accesskey "n">
+<!ENTITY propertiesCmd.accesskey "E">
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Tilpas…">
 <!ENTITY customizeToolbar.accesskey "T">
-<!ENTITY showContactPane.label         "Sammendragsrude">
-<!ENTITY showContactPane.accesskey "a">
+<!ENTITY showContactPane.label         "Indholdsrude">
+<!ENTITY showContactPane.accesskey "I">
 <!ENTITY menu_ShowNameAs.label "Vis navn som">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!ENTITY firstLastCmd.label "Fornavn efternavn">
@@ -105,20 +105,20 @@
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Søg i adresser…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "ø">
 <!ENTITY importCmd.label "Importer…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Eksporter…">
 <!ENTITY exportCmd.accesskey "E">
 <!ENTITY preferencesCmd.label "Indstillinger…">
-<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY preferencesCmd.accesskey "n">
 <!ENTITY preferencesCmdUnix.label "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!-- Address Book Toolbar and Context Menus --> 
 <!ENTITY newContactButton.label                         "Ny kontakt">
 <!ENTITY newContactButton.accesskey                     "K">
-<!ENTITY newlistButton.label "Ny postliste">
+<!ENTITY newlistButton.label "Ny mailingliste">
 <!ENTITY newlistButton.accesskey "L">
 <!ENTITY editButton2.label "Egenskaber">
 <!ENTITY editButton2.accesskey "E">
@@ -127,11 +127,11 @@
 <!ENTITY newIM.label "IM">
 <!ENTITY newIM.accesskey "I">
 <!ENTITY deleteButton2.label "Slet">
-<!ENTITY deleteButton2.accesskey "S">
+<!ENTITY deleteButton2.accesskey "l">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip  "Opret en ny adressebogskontakt">
-<!ENTITY newlistButton.tooltip "Opret en ny postliste">
+<!ENTITY newContactButton.tooltip  "Opret en ny kontakt">
+<!ENTITY newlistButton.tooltip "Opret en ny mailingliste">
 <!ENTITY editButton2.tooltip "Rediger det valgte element">
 <!ENTITY newmsgButton.tooltip "Skriv en ny meddelelse">
 <!ENTITY newIM.tooltip "Send en &quot;instant message&quot; eller chat">
@@ -150,14 +150,14 @@
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label "Navn">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "Mail-adresse">
+<!ENTITY PrimaryEmail.label "Mail">
 <!ENTITY PrimaryEmail.accesskey "M">
 <!ENTITY ScreenName.label "Skærmnavn">
 <!ENTITY ScreenName.accesskey "æ">
 <!ENTITY Company.label "Organisation">
-<!ENTITY Company.accesskey "F">
-<!ENTITY NickName.label "Kaldenavn">
-<!ENTITY NickName.accesskey "K">
+<!ENTITY Company.accesskey "g">
+<!ENTITY NickName.label "Alias">
+<!ENTITY NickName.accesskey "l">
 <!ENTITY SecondEmail.label "Yderligere mail">
 <!ENTITY SecondEmail.accesskey "Y">
 <!ENTITY Department.label "Afdeling">
