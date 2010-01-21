@@ -1,5 +1,5 @@
-<!ENTITY feedSubscriptions.label "RSS-abonnementer">
-<!ENTITY subscriptionDesc.label "Håndter dine RSS-abonnementer.">
+<!ENTITY feedSubscriptions.label "Feed-abonnementer">
+<!ENTITY subscriptionDesc.label "Håndter dine feed-abonnementer.">
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY location.label "Startside:">
 <!ENTITY button.addFeed.label "Tilføj">

@@ -8,8 +8,8 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
-<!ENTITY biffStart.label "Kontroller efter nye meddelelser hvert">
-<!ENTITY biffStart.accesskey "S">
+<!ENTITY biffStart.label "Kontroller for nye meddelelser hvert">
+<!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minut">
 <!ENTITY connectionSecurity.label "Forbindelsessikkerhed:">
 <!ENTITY connectionSecurity.accesskey "F">
@@ -18,9 +18,9 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY useSecAuth.label "Brug sikker godkendelse">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY useSecAuth.accesskey "u">
 <!ENTITY leaveOnServer.label "Gem meddelelser på serveren">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "e">
 <!ENTITY headersOnly.label "Hent kun meddelelseshoveder">
 <!ENTITY headersOnly.accesskey "H">
 <!ENTITY deleteByAgeFromServer.label "I højest">
@@ -33,33 +33,33 @@
 <!ENTITY username.label "Dit loginnavn">
 <!ENTITY deleteMessagePrefix.label "Når jeg sletter en meddelelse:">
 <!ENTITY modelMoveToTrash.label "Flyt den til mappen Papirkurv">
-<!ENTITY modelMoveToTrash.accesskey "P">
+<!ENTITY modelMoveToTrash.accesskey "i">
 <!ENTITY modelMarkDeleted.label "Marker den som slettet">
 <!ENTITY modelMarkDeleted.accesskey "m">
 <!ENTITY modelDeleteImmediately.label "Fjern den øjeblikkeligt">
-<!ENTITY modelDeleteImmediately.accesskey "æ">
-<!ENTITY expungeOnExit.label "Ryd op i (komprimer) Indbakke ved afslutning">
+<!ENTITY modelDeleteImmediately.accesskey "j">
+<!ENTITY expungeOnExit.label "Ryd op i (optimer) Indbakke ved afslutning">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Tøm Papirkurv ved afslutning">
 <!ENTITY emptyTrashOnExit.accesskey "T">
-<!ENTITY loginAtStartup.label "Søg efter ny post ved opstart">
-<!ENTITY loginAtStartup.accesskey "S">
-<!ENTITY maxMessagesStart.label "Spørg mig før download af mere end">
+<!ENTITY loginAtStartup.label "Kontroller for nye meddelelser ved opstart">
+<!ENTITY loginAtStartup.accesskey "K">
+<!ENTITY maxMessagesStart.label "Spørg mig før hentning af mere end">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!ENTITY maxMessagesEnd.label "meddelelser">
 <!ENTITY alwaysAuthenticate.label "Kræv altid godkendelse ved tilslutning til denne server">
-<!ENTITY alwaysAuthenticate.accesskey "g">
+<!ENTITY alwaysAuthenticate.accesskey "æ">
 <!ENTITY newsrcFilePath.label "newsrc fil:">
 <!ENTITY localPath.label "Lokal mappe:">
-<!ENTITY abbreviate.label "Vis nyhedsgruppenavne i e-mail-mappe panelet som:">
-<!ENTITY abbreviateOn.label "Fulde navne (fx, &quot;netscape.public.mozilla.mail-news&quot;)">
-<!ENTITY abbreviateOff.label "Forkortede navne (fx, &quot;n.p.m.mail-news&quot;)">
+<!ENTITY abbreviate.label "Vis nyhedsgruppenavne i mappeoversigten som:">
+<!ENTITY abbreviateOn.label "Fulde navne (f.eks. &quot;netscape.public.mozilla.mail-news&quot;)">
+<!ENTITY abbreviateOff.label "Forkortede navne (f.eks. &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avanceret…">
-<!ENTITY serverDefaultCharset.label "Standardtegnsæt:">
+<!ENTITY serverDefaultCharset.label "Standardtegnkodning:">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY localFolderPicker.label "Vælg lokal mappe">
 <!ENTITY browseFolder.label "Gennemse…">
 <!ENTITY browseFolder.accesskey "G">
 <!ENTITY newsrcPicker.label "Vælg newsrc fil">
 <!ENTITY browseNewsrc.label "Gennemse…">
-<!ENTITY browseNewsrc.accesskey "G">
+<!ENTITY browseNewsrc.accesskey "e">

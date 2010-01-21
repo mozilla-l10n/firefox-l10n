@@ -6,4 +6,4 @@
 <!ENTITY folderRestriction1.label "Denne server begrænser mapper til to specieller typer.">
 <!ENTITY folderRestriction2.label "Tillad at den nye mappe indeholder:">
 <!ENTITY foldersOnly.label "Kun mapper">
-<!ENTITY messagesOnly.label "kun meddelelser">
+<!ENTITY messagesOnly.label "Kun meddelelser">

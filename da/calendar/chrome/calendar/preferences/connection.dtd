@@ -48,7 +48,7 @@
 <!ENTITY directTypeRadio.accesskey "d">
 <!ENTITY WPADTypeRadio.label "Auto-detekter proxyindstillinger for dette netværk">
 <!ENTITY WPADTypeRadio.accesskey "a">
-<!ENTITY manualTypeRadio.label "Manual proxykonfiguration:">
+<!ENTITY manualTypeRadio.label "Manuel proxy-konfiguration:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL til automatisk proxy-konfiguration:">
 <!ENTITY autoTypeRadio.accesskey "u">
@@ -73,6 +73,6 @@
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Ingen Proxy for:">
 <!ENTITY noproxy.accesskey "I">
-<!ENTITY noproxyExplain.label "Fx: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY noproxyExplain.label "f.eks. .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "Brug denne proxyserver for alle protokoller">
 <!ENTITY shareproxy.accesskey "B">

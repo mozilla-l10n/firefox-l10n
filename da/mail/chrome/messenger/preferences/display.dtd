@@ -2,20 +2,20 @@
 <!ENTITY itemTags.label "Mærkater">
 
 <!ENTITY style.label "Stil:">
-<!ENTITY style.accesskey "S">
+<!ENTITY style.accesskey "i">
 <!ENTITY regularStyle.label "Normal">
 <!ENTITY bold.label "Fed">
 <!ENTITY italic.label "Kursiv">
 <!ENTITY boldItalic.label "Fed kursiv">
 <!ENTITY size.label "Størrelse:">
-<!ENTITY size.accesskey "t">
+<!ENTITY size.accesskey "r">
 <!ENTITY regularSize.label "Normal">
 <!ENTITY bigger.label "Større">
 <!ENTITY smaller.label "Mindre">
 <!ENTITY color.label "Farve:">
 <!ENTITY color.accesskey "f">
 <!ENTITY displayWidth.label "Meddelelser i ren tekst">
-<!ENTITY displayText.label "Ved visning af citerede ren tekst meddelelser:">
+<!ENTITY displayText.label "Ved visning af citerede meddelelser i ren tekst-format:">
 <!ENTITY colors.label "Farver">
 <!ENTITY overrideColors.label "Ved visning af meddelelser, benyt følgende farver:">
 <!ENTITY textColor.label "Tekstfarve">
@@ -41,7 +41,7 @@
 <!ENTITY defaultFont.label "Standard skrifttype:">
 <!ENTITY defaultFont.accesskey "S">
 <!ENTITY defaultSize.label "Størrelse:">
-<!ENTITY defaultSize.accesskey "t">
+<!ENTITY defaultSize.accesskey "ø">
 <!ENTITY fontOptions.accesskey "A">
 <!ENTITY fontOptions.label "Avanceret…">
 

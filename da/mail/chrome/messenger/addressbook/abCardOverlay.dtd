@@ -64,8 +64,8 @@
 <!ENTITY PhoneticField2.label 			"Fonetisk:">
 <!ENTITY DisplayName.label 				"Vis som:">
 <!ENTITY DisplayName.accesskey 			"V">
-<!ENTITY NickName.label 				"Kaldenavn:">
-<!ENTITY NickName.accesskey 			"K">
+<!ENTITY NickName.label 				"Alias:">
+<!ENTITY NickName.accesskey 			"l">
 
 <!ENTITY PrimaryEmail.label             "Mail:">
 <!ENTITY PrimaryEmail.accesskey 		"M">
@@ -80,8 +80,8 @@
 <!ENTITY ScreenName.accesskey 			"æ">
 
 <!ENTITY allowRemoteContent1.label      "Tillad eksternt indhold.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "Der er muligt, at indlejre indhold fra eksterne kilder. Åbning af sådan en meddelelse, åbner en forbindelse til denne eksterne kilde. Dette giver mulighed for, at spore om meddelelsen bliver læst. Markering af denne boks tillader sådan eksternt indlejret indhold i HTML-meddelelser fra denne kontakt.">
+<!ENTITY allowRemoteContent1.accesskey  "T">
+<!ENTITY allowRemoteContent1.tooltip    "Der er muligt, at indlejre indhold fra eksterne kilder i en meddelelse. Åbning af sådan en meddelelse, åbner en forbindelse til denne eksterne kilde. Dette giver mulighed for, at spore om meddelelsen bliver læst. Markering af denne boks tillader sådan eksternt indlejret indhold i HTML-meddelelser fra denne kontakt.">
 
 <!ENTITY WorkPhone.label 				"Arbejdstelefon:">
 <!ENTITY WorkPhone.accesskey 			"A">
@@ -90,9 +90,9 @@
 <!ENTITY FaxNumber.label 				"Fax:">
 <!ENTITY FaxNumber.accesskey 			"x">
 <!ENTITY PagerNumber.label 				"Personsøger:">
-<!ENTITY PagerNumber.accesskey 			"P">
+<!ENTITY PagerNumber.accesskey 			"ø">
 <!ENTITY CellularNumber.label 			"Mobil:">
-<!ENTITY CellularNumber.accesskey 		"M">
+<!ENTITY CellularNumber.accesskey 		"i">
 
 <!ENTITY Home.tab                       "Privat">
 <!ENTITY Home.accesskey                 "P">
@@ -105,7 +105,7 @@
 <!ENTITY HomeState.label 				"Stat/provins:">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label 				"Postnummer:">
-<!ENTITY HomeZipCode.accesskey          "o">
+<!ENTITY HomeZipCode.accesskey          "u">
 <!ENTITY HomeCountry.label 				"Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label 				"Hjemmeside:">
@@ -121,11 +121,11 @@
 <!ENTITY Work.tab                       "Arbejde">
 <!ENTITY Work.accesskey                 "b">
 <!ENTITY JobTitle.label 				"Titel:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label 				"Afdeling:">
 <!ENTITY Department.accesskey           "f">
 <!ENTITY Company.label 					"Organisation:">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "r">
 <!ENTITY WorkAddress.label 				"Adresse:">
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label 			"">
@@ -135,7 +135,7 @@
 <!ENTITY WorkState.label 				"Stat/provins:">
 <!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label 				"Postnummer:">
-<!ENTITY WorkZipCode.accesskey          "o">
+<!ENTITY WorkZipCode.accesskey          "u">
 <!ENTITY WorkCountry.label 				"Land:">
 <!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label 				"Hjemmeside:">
@@ -152,10 +152,10 @@
 <!ENTITY Custom4.label 					"Brugerdef. 4:">
 <!ENTITY Custom4.accesskey 				"4">
 <!ENTITY Notes.label                    "Noter:">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.accesskey                "e">
 
 <!ENTITY Photo.tab                      "Foto">
-<!ENTITY Photo.accesskey                "F">
+<!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Vælg en af følgende:">
 <!ENTITY GenericPhoto.label             "Standardbillede">
 <!ENTITY GenericPhoto.accesskey         "S">
@@ -165,8 +165,8 @@
 <!ENTITY BrowsePhoto.label              "Gennemse">
 <!ENTITY BrowsePhoto.accesskey          "G">
 <!ENTITY PhotoURL.label                 "På nettet">
-<!ENTITY PhotoURL.accesskey             "P">
+<!ENTITY PhotoURL.accesskey             "e">
 <!ENTITY PhotoURL.emptytext             "Indsæt eller skriv et fotos web-adresse">
 <!ENTITY UpdatePhoto.label              "Opdater">
-<!ENTITY UpdatePhoto.accesskey          "O">
+<!ENTITY UpdatePhoto.accesskey          "d">
 

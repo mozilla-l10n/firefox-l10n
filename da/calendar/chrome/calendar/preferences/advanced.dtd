@@ -51,7 +51,7 @@
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
 <!ENTITY pref.calendar.advanced.proxiesInfo.label "Angiv hvordan &brandShortName; forbinder til internettet">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Avancerede indstillinger">
-<!ENTITY pref.calendar.advanced.configEdit.button "Konfigurationsredigering…">
+<!ENTITY pref.calendar.advanced.configEdit.button "Avanceret konfiguration…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "K">
 
 <!-- Passwords -->
@@ -91,7 +91,7 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Vælg ét automatisk">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Spørg mig hver gang">
-<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "S">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "ø">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Vis certifikater">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "V">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Tilbagekaldelsesliste">

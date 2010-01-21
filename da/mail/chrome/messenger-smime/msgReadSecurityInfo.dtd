@@ -1,7 +1,7 @@
-<!ENTITY status.label "Meddelelses sikkerhed">
-<!ENTITY signatureCert.label "Vis underskrifts certifikat">
+<!ENTITY status.label "Meddelelsessikkerhed">
+<!ENTITY signatureCert.label "Vis underskriftscertifikat">
 <!ENTITY encryptionCert.label "Vis krypteringscertifikat">
 <!ENTITY signer.name "Underskrevet af:">
 <!ENTITY recipient.name "Krypteret for:">
-<!ENTITY email.address "E-mail-adresse:">
+<!ENTITY email.address "Mailadresse:">
 <!ENTITY issuer.name "Certifikat udstedt af:">

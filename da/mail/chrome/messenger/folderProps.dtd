@@ -1,28 +1,28 @@
 <!ENTITY folderProps.windowtitle.label "Egenskaber">
 
 <!ENTITY generalInfo.label "Generel information">
-<!ENTITY folderCharsetTab.label "Standardtegnsæt:">
+<!ENTITY folderCharsetTab.label "Standardtegnkodning:">
 <!ENTITY folderCharsetTab.accesskey "S">
-<!ENTITY folderCharsetOverride.label "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnsætindstillinger og auto-opdagelse vil blive ignoreret)">
-<!ENTITY folderCharsetOverride.accesskey "G">
+<!ENTITY folderCharsetOverride.label "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnkodningsindstillinger og auto-opdagelse vil blive ignoreret)">
+<!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFile.label          "Genopbyg indeks">
 <!ENTITY folderRebuildSummaryFile.accesskey      "G">
 <!ENTITY folderRebuildSummaryFileTip.label       "Genopbyg sammendragsfil"> 
 
-<!ENTITY retention.label "Opbevaringsretningslinje">
+<!ENTITY retention.label "Retningslinjer for opbevaring">
 <!ENTITY retentionUseAccount.label  "Brug mine kontoindstillinger">
 <!ENTITY retentionUseAccount.accesskey "B">
-<!ENTITY daysOld.label "dage gammel">
+<!ENTITY daysOld.label "dage gamle">
 <!ENTITY message.label "meddelelser">
-<!ENTITY retentionCleanup.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent">
-<!ENTITY retentionCleanupImap.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent, både de lokale kopier og de originale på den eksterne server.">
-<!ENTITY retentionCleanupPop.label "For at skabe mere diskplads, kan gamle meddelelser blive slettet permanent, inklusive de originale på den eksterne server.">
+<!ENTITY retentionCleanup.label "Gamle meddelelser kan slettes permanent for at skabe mere diskplads">
+<!ENTITY retentionCleanupImap.label "Gamle meddelelser kan slettes permanent for at skabe mere diskplads, både de lokale kopier og de originale på den eksterne server.">
+<!ENTITY retentionCleanupPop.label "Gamle meddelelser kan slettes permanent for at skabe mere diskplads, inklusive de originale på den eksterne server.">
 <!ENTITY retentionDeleteMsg.label "Slet meddelelser der er mere end">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Slet ingen meddelelser">
-<!ENTITY retentionKeepAll.accesskey "i">
+<!ENTITY retentionKeepAll.accesskey "S">
 <!ENTITY retentionKeepRecent.label "Slet alle undtagen de seneste">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepRecent.accesskey "a">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Slet altid læste meddelelser (tilsidesætter indstillinger for alder)">
 <!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
@@ -43,7 +43,7 @@
 <!ENTITY offlineNewsgroup.button.accesskey "H">
 
 <!ENTITY folderProps.name.label "Navn:">
-<!ENTITY folderProps.name.accesskey "a">
+<!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label              "Placering:">
 <!ENTITY folderProps.location.accesskey          "P">
 

@@ -1,4 +1,4 @@
-<!ENTITY tableWindow.title "Tabelegenskaber">
+<!ENTITY tableWindow.title "Egenskaber for tabel">
 <!ENTITY applyButton.label "Anvend">
 <!ENTITY applyButton.accesskey "A">
 <!ENTITY closeButton.label "Luk">
@@ -21,12 +21,12 @@
 <!ENTITY tablePadding.accessKey "I">
 <!ENTITY tablePxBetwCells.label "pixler mellem cellerne">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixler mellem cellens ramme og indholdet">
-<!ENTITY tableAlignment.label "Tabel-justering:">
+<!ENTITY tableAlignment.label "Tabeljustering:">
 <!ENTITY tableAlignment.accessKey "T">
 <!ENTITY tableCaption.label "Overskrift:">
 <!ENTITY tableCaption.accessKey "O">
-<!ENTITY tableCaptionAbove.label "Over tabel">
-<!ENTITY tableCaptionBelow.label "Under tabelen">
+<!ENTITY tableCaptionAbove.label "Over tabellen">
+<!ENTITY tableCaptionBelow.label "Under tabellen">
 <!ENTITY tableCaptionLeft.label "Til venstre for tabellen">
 <!ENTITY tableCaptionRight.label "Til højre for tabellen">
 <!ENTITY tableCaptionNone.label "Ingen">
@@ -42,13 +42,13 @@
 <!ENTITY applyBeforeChange.label "Nuværende ændringer bliver gemt før ændring af markeringen.">
 <!ENTITY cellContentAlignment.label "Justering af indholdet">
 <!ENTITY cellHorizontal.label "Vandret:">
-<!ENTITY cellHorizontal.accessKey "o">
+<!ENTITY cellHorizontal.accessKey "V">
 <!ENTITY cellVertical.label "Lodret:">
-<!ENTITY cellVertical.accessKey "V">
-<!ENTITY cellStyle.label "Celle-stil:">
+<!ENTITY cellVertical.accessKey "o">
+<!ENTITY cellStyle.label "Cellestil:">
 <!ENTITY cellStyle.accessKey "C">
 <!ENTITY cellNormal.label "Normal">
-<!ENTITY cellHeader.label "Hoved">
+<!ENTITY cellHeader.label "Hovede">
 <!ENTITY cellTextWrap.label "Ombryd tekst:">
 <!ENTITY cellTextWrap.accessKey "T">
 <!ENTITY cellWrap.label "Ombryd">
@@ -62,7 +62,7 @@
 <!ENTITY size.label "Størrelse:">
 <!ENTITY pixels.label "pixler">
 <!ENTITY backgroundColor.label "Baggrundsfarve">
-<!ENTITY backgroundColor.accessKey "B">
+<!ENTITY backgroundColor.accessKey "r">
 <!ENTITY AlignLeft.label "Venstre">
 <!ENTITY AlignCenter.label "Centrer">
 <!ENTITY AlignRight.label "Højre">

@@ -3,5 +3,5 @@
 <!ENTITY newMessageCmd.label "Meddelelse">
 <!ENTITY newMessageCmd.accesskey "M">
 
-<!ENTITY  newContactCmd.label             "Adressebogskontakt…">
-<!ENTITY  newContactCmd.accesskey         "k">
+<!ENTITY  newContactCmd.label             "Kontakt…">
+<!ENTITY  newContactCmd.accesskey         "K">

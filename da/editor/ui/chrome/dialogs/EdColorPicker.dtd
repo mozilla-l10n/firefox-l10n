@@ -1,18 +1,18 @@
 <!ENTITY windowTitle.label "Farve">
-<!ENTITY lastPickedColor.label "Sidstvalgte farve">
-<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY lastPickedColor.label "Senest valgte farve">
+<!ENTITY lastPickedColor.accessKey "S">
 <!ENTITY setColor1.label "Klik på en farve eller">
 <!ENTITY setColor2.label "skriv en HTML-farveangivelse">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY setColor2.accessKey "K">
 <!ENTITY setColorExample.label "(eks.: &quot;#0000ff&quot; eller &quot;blue&quot;):">
 <!ENTITY default.label "Standard">
 <!ENTITY default.accessKey "D">
 <!ENTITY palette.label "Palet:">
 <!ENTITY standardPalette.label "Standard">
-<!ENTITY webPalette.label "Alle web farver">
-<!ENTITY background.label "Baggrund for:">
+<!ENTITY webPalette.label "Alle web-farver">
+<!ENTITY background.label "Tekstbaggrund:">
 <!ENTITY background.accessKey "B">
 <!ENTITY table.label "Tabel">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Celle(r)">
+<!ENTITY cell.label "Celler">
 <!ENTITY cell.accessKey "C">

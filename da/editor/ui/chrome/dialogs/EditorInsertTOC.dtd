@@ -1,6 +1,6 @@
 <!ENTITY Window.title "Indholdsfortegnelse">
 <!ENTITY buildToc.label "Opret indholdsfortegnelse fra:">
-<!ENTITY tag.label "Mærke:">
+<!ENTITY tag.label "Tag:">
 <!ENTITY class.label "Klasse:">
 <!ENTITY header1.label "Niveau 1">
 <!ENTITY header2.label "Niveau 2">

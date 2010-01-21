@@ -60,14 +60,14 @@
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Usikker filtype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
@@ -117,7 +117,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejeren af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>

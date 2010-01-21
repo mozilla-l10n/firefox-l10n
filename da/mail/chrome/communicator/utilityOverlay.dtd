@@ -4,7 +4,7 @@
 
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newMenu.label "Nyt">
+<!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
 
 <!ENTITY editMenu.label "Rediger">
@@ -21,7 +21,7 @@
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Sæt ind">
+<!ENTITY pasteCmd.label "Indsæt">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Slet">
@@ -40,7 +40,7 @@
 <!ENTITY viewToolbarsMenu.label "Værktøjslinjer">
 <!ENTITY viewToolbarsMenu.accesskey "V">
 <!ENTITY showTaskbarCmd.label "Statuslinjen">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "a">
 
 <!ENTITY proxy.label "Proxy-konfiguration…">
 <!ENTITY proxy.accesskey "k">

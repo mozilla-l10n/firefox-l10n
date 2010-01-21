@@ -1,28 +1,28 @@
-<!ENTITY windowTitle.label "HTML-post spørgsmål">
+<!ENTITY windowTitle.label "HTML-mail spørgsmål">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!ENTITY accountSetupInfo.label "For at modtage meddelelser skal du først opsætte en konto.">
 <!ENTITY accountTypeTitle.label "Opsæt ny konto">
 <!ENTITY accountTypeDesc.label "Denne guide vil indsamle de nødvendige oplysninger til oprettelse af en konto. Hvis du ikke har alle de nødvendige oplysninger, skal du kontakte din systemadministrator eller internetudbyder.">
 <!ENTITY accountTypeDirections.label "Vælg den type konto du gerne vil oprette:">
-<!ENTITY accountTypeMail.label "E-mail-konto">
+<!ENTITY accountTypeMail.label "Mailkonto">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Nyhedsgruppekonto">
-<!ENTITY accountTypeNews.accesskey "N">
+<!ENTITY accountTypeNews.accesskey "y">
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
 <!ENTITY fullnameDesc.label "Indtast det navn du gerne vil have vist i &quot;Fra&quot; feltet i de meddelelser du sender">
-<!ENTITY fullnameExample.label "(for eksempel, &quot;Jens Hansen&quot;).">
+<!ENTITY fullnameExample.label "(f.eks. &quot;Jens Hansen&quot;).">
 <!ENTITY fullnameLabel.label "Dit navn:">
 <!ENTITY fullnameLabel.accesskey "n">
-<!ENTITY emailLabel.label "E-mail-adresse:">
+<!ENTITY emailLabel.label "Mailadresse:">
 <!ENTITY emailLabel.accesskey "E">
 <!ENTITY serverTitle.label "Serveroplysninger">
 <!ENTITY incomingServerTypeDesc.label "Vælg typen på din indgående server.">
-<!ENTITY incomingServerNameDesc.label "Indtast navnet på din indgående server (f.eks., &quot;mail.eksempel.dk&quot;).">
+<!ENTITY incomingServerNameDesc.label "Indtast navnet på din indgående server (f.eks. &quot;mail.eksempel.dk&quot;).">
 <!ENTITY incomingServerLabel.label "Indgående server:">
 <!ENTITY incomingServerLabel.accesskey "S">
-<!ENTITY newsServerNameDesc.label "Indtast navnet på din nyhedsgruppeserver (NNTP) (f.eks., &quot;news.eksempel.dk&quot;).">
-<!ENTITY smtpServerDesc.label "Indtast navnet på din udgående server (SMTP) (f.eks., &quot;smtp.eksempel.dk&quot;).">
+<!ENTITY newsServerNameDesc.label "Indtast navnet på din nyhedsgruppeserver (NNTP) (f.eks. &quot;news.eksempel.dk&quot;).">
+<!ENTITY smtpServerDesc.label "Indtast navnet på din udgående server (SMTP) (f.eks. &quot;smtp.eksempel.dk&quot;).">
 <!ENTITY smtpServerLabel.label "Udgående server:">
 <!ENTITY smtpServerLabel.accesskey "U">
 <!ENTITY newsServerLabel.label "Nyhedsgruppeserver:">
@@ -35,15 +35,15 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Din eksisterende udgående postserver (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, vil blive brugt. Du kan ændre indstillingerne for den udgående postserver i Kontoindstillinger i menuen Funktioner.">
+<!ENTITY haveSmtp1.prefix "Din eksisterende udgående mailserver (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;, vil blive brugt. Du kan ændre indstillingerne for den udgående mailserver i Kontoindstillinger i menuen Funktioner.">
 
 <!ENTITY loginTitle.label "Brugernavne">
-<!ENTITY usernameDesc.label "Skriv brugernavnet, som du har fået af din e-mail udbyder">
-<!ENTITY usernameExample.label "(for eksempel &quot;jhansen&quot;).">
+<!ENTITY usernameDesc.label "Skriv brugernavnet, som du har fået af din mailudbyder">
+<!ENTITY usernameExample.label "(f.eks. &quot;jhansen&quot;).">
 <!ENTITY usernameLabel.label "Indgående brugernavn:">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Skriv brugernavnet til den udgående postserver din postserverudbyder har givet dig (typisk det samme brugernavn som til den indgående postserver.)">
+<!ENTITY usernameSmtpDesc.label "Skriv brugernavnet til den udgående mailserver din mailudbyder har givet dig (typisk det samme brugernavn som til den indgående mailserver.)">
 <!ENTITY usernameSmtpLabel.label "Udgående brugernavn">
 <!ENTITY usernameSmtpLabel.accesskey "U">
 
@@ -51,18 +51,18 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Brugernavnet på din eksisterende udgående postserver (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, vil blive brugt. Du kan ændre indstillingerne for den udgående postserver i Kontoindstillinger i menuen Funktioner.">
+<!ENTITY haveSmtp2.prefix "Brugernavnet på din eksisterende udgående mailserver (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;, vil blive brugt. Du kan ændre indstillingerne for den udgående mailserver i Kontoindstillinger i menuen Funktioner.">
 
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Din udgående postserver (SMTP), &quot;">
+<!ENTITY haveSmtp3.prefix "Din udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot;, er identisk med din indkommende server, dit indkommende brugernavn bliver brugt til at oprette forbindelse. Du kan ændre indstillingerne for den udgående server ved at vælge Kontoindstillinger i menuen Funktioner.">
 
 <!ENTITY accnameTitle.label "Kontonavn">
-<!ENTITY accnameDesc.label "Indtast det navn du vil bruge til at referere til denne konto (f.eks., &quot;Arbejdskonto&quot;, &quot;Hjemmekonto&quot; eller &quot;Nyhedskonto&quot;).">
+<!ENTITY accnameDesc.label "Indtast det navn du vil bruge til at referere til denne konto (f.eks. &quot;Arbejdskonto&quot;, &quot;Hjemmekonto&quot; eller &quot;Nyhedskonto&quot;).">
 <!ENTITY accnameLabel.label "Kontonavn:">
 <!ENTITY accnameLabel.accesskey "n">
 <!ENTITY completionTitle.label "Tillykke!">
@@ -73,9 +73,9 @@
 <!ENTITY newsServerNamePrefix.label "Nyhedsgruppeservernavn (NNTP):">
 <!ENTITY downloadOnLogin.label "Hent meddelelser nu">
 <!ENTITY downloadOnLogin.accesskey "H">
-<!ENTITY deferStorageDesc.label "Fjern hakket for at opbevare denne kontos meddelelser i sin egen mappe. Det vil desuden få kontoen til at blive vist, som sin egen konto og ikke som en del af den Globale Indbakke.">
-<!ENTITY deferStorage.label "Benyt Global Indbakke (opbevar meddelelser i Lokale Mapper)">
+<!ENTITY deferStorageDesc.label "Fjern fluebenet ud for Benyt Global indbakke for at opbevare denne kontos meddelelser i sin egen mappe. Det vil desuden få kontoen til at blive vist som sin egen konto og ikke som en del af den globale indbakke.">
+<!ENTITY deferStorage.label "Benyt Global indbakke (opbevar meddelelser i Lokale mapper)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Klik på Færdig for at gemme disse indstillinger og afslutte Konto-guiden">
+<!ENTITY clickFinish.label "Klik på Afslut for at gemme disse indstillinger og afslutte Konto-guiden">
 <!ENTITY clickFinish.labelMac "Klik på Færdig for at gemme disse indstillinger og afslutte Konto-guiden.">
 

@@ -45,4 +45,4 @@
 <!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Tjek altid">
 
-<!ENTITY gdata.reminder.action.sms.label "Send en tekst-besked">
+<!ENTITY gdata.reminder.action.sms.label "Send en SMS">

@@ -1,5 +1,11 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Udgående serverindstillinger (SMTP)">
-<!ENTITY smtpDesc.label "Når der sendes meddelser fra denne identitet, skal følgende udgående postserver (SMTP) bruges:">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Du har mulighed for at benytte mere end en udgående server (SMTP). Brugen af flere servere frarådes dog for almindelige brugere, da dette kan føre til fejl, når der sendes meddelelser.">
+
 <!ENTITY smtpListAdd.label "Tilføj…">
 <!ENTITY smtpListAdd.accesskey "T">
 <!ENTITY smtpListEdit.label "Rediger…">
@@ -8,9 +14,10 @@
 <!ENTITY smtpListDelete.accesskey "S">
 <!ENTITY smtpListSetDefault.label "Vælg som standard">
 <!ENTITY smtpListSetDefault.accesskey "V">
+
 <!ENTITY serverDescription.label "Beskrivelse:">
 <!ENTITY serverName.label "Servernavn:">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY userName.label "Brugernavn:">
-<!ENTITY useSecureAuthentication.label   "Sikker autentifikation: ">
+<!ENTITY useSecureAuthentication.label   "Sikker godkendelse: ">
 <!ENTITY connectionSecurity.label "Sikkerhed for forbindelse: ">

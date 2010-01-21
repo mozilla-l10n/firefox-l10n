@@ -61,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "V">
 <!ENTITY pref.calendar.view.visiblehoursend.label "timer af gangen">
 
-<!ENTITY pref.numberofweeks.label "Forvalgt antal uger (inklusiv tidligere uger):">
+<!ENTITY pref.numberofweeks.label "Forvalgt antal uger (inklusive tidligere uger):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Antal forrige uger:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "f">

@@ -59,7 +59,7 @@
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label "Åbn">
 <!ENTITY lightning.menupopup.open.accesskey "Å">
-<!ENTITY lightning.menupopup.open.message.label "Gemt besked…">
+<!ENTITY lightning.menupopup.open.message.label "Gemt meddelelse…">
 <!ENTITY lightning.menupopup.open.message.accesskey "G">
 <!ENTITY lightning.menupopup.open.calendar.label "Kalenderfil…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "K">
@@ -99,10 +99,10 @@
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Vis begivenheder i i dags-ruden">
 <!ENTITY lightning.calendarproperties.showtasks.label "Vis opgaver i i dags-ruden og i opgavevisning">
-<!ENTITY lightning.calendarproperties.email.label "E-mail:">
+<!ENTITY lightning.calendarproperties.email.label "Mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Denne besked indeholder en invitation til en begivenhed.">
+<!ENTITY lightning.imipbar.description "Denne meddelelse indeholder en invitation til en begivenhed.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.new "B">

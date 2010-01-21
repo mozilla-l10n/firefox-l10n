@@ -3,13 +3,13 @@
 <!ENTITY searchSubfolders.label "Søg i undermapper">
 <!ENTITY searchSubfolders.accesskey "u">
 <!ENTITY searchOnServer.label        "Søg på serveren">
-<!ENTITY searchOnServer.accesskey    "e">
+<!ENTITY searchOnServer.accesskey    "ø">
 <!ENTITY resetButton.label "Ryd">
 <!ENTITY resetButton.accesskey "R">
 <!ENTITY openButton.label "Åbn">
 <!ENTITY openButton.accesskey "Å">
 <!ENTITY deleteButton.label "Slet">
-<!ENTITY deleteButton.accesskey "S">
+<!ENTITY deleteButton.accesskey "l">
 <!ENTITY searchDialogTitle.label "Søg i meddelelser">
 <!ENTITY results.label "Resultater">
 <!ENTITY fileHereMenu.label "Gem her">
@@ -18,7 +18,7 @@
 <!ENTITY fileButton.accesskey "G">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label          "Åbn i mappe">
-<!ENTITY openInFolder.accesskey      "Å">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label "Gem som virtuel mappe">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!ENTITY abSearchHeading.label "Søg i:">
@@ -34,13 +34,13 @@
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Mærker">
+<!ENTITY tagsColumn.label "Mærkater">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
 <!ENTITY junkStatusColumn.label "Spam-status">
 <!ENTITY unreadColumn.label "Ulæste i tråden">
-<!ENTITY totalColumn.label "Total i tråd">
+<!ENTITY totalColumn.label "I alt i tråden">
 <!ENTITY readColumn.label "Læst">
 <!ENTITY locationColumn.label "Placering">
 <!ENTITY idColumn.label "Modtagelsesorden">
@@ -51,7 +51,7 @@
 <!ENTITY subjectColumn.tooltip "Sorter efter emne">
 <!ENTITY dateColumn.tooltip "Sorter efter dato">
 <!ENTITY priorityColumn.tooltip "Sorter efter prioritet">
-<!ENTITY tagsColumn.tooltip "Sorter efter mærker">
+<!ENTITY tagsColumn.tooltip "Sorter efter mærkater">
 <!ENTITY accountColumn.tooltip "Sorter efter konto">
 <!ENTITY statusColumn.tooltip "Sorter efter status">
 <!ENTITY sizeColumn.tooltip "Sorter efter størrelse">

@@ -1,4 +1,4 @@
-<!ENTITY window.title "Filter regler">
+<!ENTITY window.title "Filterregler">
 <!ENTITY filterName.label "Filternavn:">
 <!ENTITY filterName.accesskey "i">
 <!ENTITY junk.label "Spam">
@@ -8,7 +8,7 @@
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Høj">
 <!ENTITY highestPriorityCmd.label "Højest">
-<!ENTITY filterActionDesc.label "Udfør disse funktioner:">
+<!ENTITY filterActionDesc.label "Udfør disse handlinger:">
 <!ENTITY filterActionDesc.accesskey "U">
 <!ENTITY moveMessage.label "Flyt meddelelse til">
 <!ENTITY copyMessage.label "Kopier meddelelse til">
@@ -33,4 +33,4 @@
 <!ENTITY contextManual.label "Manuel start">
 <!ENTITY contextBoth.label "Mailhentning og manuel start">
 <!ENTITY contextPostPlugin.label "Mailhentning (efter klassifikation)">
-<!ENTITY contextPostPluginBoth.label "Mailhentning (efter klassifikation) eller Manuel start">
+<!ENTITY contextPostPluginBoth.label "Mailhentning (efter klassifikation) og Manuel start">

@@ -159,7 +159,7 @@
 <!ENTITY cutCmd.accesskey "k">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Sæt ind">
+<!ENTITY pasteCmd.label "Indsæt">
 <!ENTITY pasteCmd.accesskey "æ">
 <!ENTITY deleteCmd.label "Slet">
 <!ENTITY deleteCmd.accesskey "S">
@@ -175,7 +175,7 @@
 <!ENTITY fontVarWidth.label "Variabel bredde">
 <!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Fast bredde">
-<!ENTITY fontFixedWidth.accesskey "F">
+<!ENTITY fontFixedWidth.accesskey "b">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -195,7 +195,7 @@
 <!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Størrelse">
-<!ENTITY fontSizeMenu.accesskey "S">
+<!ENTITY fontSizeMenu.accesskey "ø">
 <!ENTITY size-xx-smallCmd.label "xx-lille">
 <!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "x-lille">
@@ -220,10 +220,10 @@
 <!ENTITY styleItalicCmd.label "Kursiv">
 <!ENTITY styleItalicCmd.accesskey "i">
 <!ENTITY styleItalicCmd.key "I">
-<!ENTITY styleUnderlineCmd.label "Understreget">
+<!ENTITY styleUnderlineCmd.label "Understregning">
 <!ENTITY styleUnderlineCmd.accesskey "u">
 <!ENTITY styleUnderlineCmd.key "U">
-<!ENTITY styleStrikeThruCmd.label "Gennemstreget">
+<!ENTITY styleStrikeThruCmd.label "Gennemstregning">
 <!ENTITY styleStrikeThruCmd.accesskey "G">
 <!ENTITY styleSuperscriptCmd.label "Hævet skrift">
 <!ENTITY styleSuperscriptCmd.accesskey "H">
@@ -234,7 +234,7 @@
 <!ENTITY styleEm.label "Fremhævet">
 <!ENTITY styleEm.accesskey "t">
 <!ENTITY styleStrong.label "Kraftigere fremhævet">
-<!ENTITY styleStrong.accesskey "k">
+<!ENTITY styleStrong.accesskey "æ">
 <!ENTITY styleCite.label "Citat">
 <!ENTITY styleCite.accesskey "c">
 <!ENTITY styleAbbr.label "Forkortelse">
@@ -243,8 +243,8 @@
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Kode">
 <!ENTITY styleCode.accesskey "k">
-<!ENTITY styleSamp.label "Eksempel uddata">
-<!ENTITY styleSamp.accesskey "E">
+<!ENTITY styleSamp.label "output-eksempel">
+<!ENTITY styleSamp.accesskey "p">
 <!ENTITY styleVar.label "Variabel">
 <!ENTITY styleVar.accesskey "v">
 
@@ -293,7 +293,7 @@
 <!ENTITY listTermCmd.accesskey "t">
 <!ENTITY listDefinitionCmd.label "Definition">
 <!ENTITY listDefinitionCmd.accesskey "d">
-<!ENTITY listPropsCmd.label "Listeegenskaber…">
+<!ENTITY listPropsCmd.label "Egenskaber for liste…">
 <!ENTITY listPropsCmd.accesskey "l">
 
 <!ENTITY ParagraphSelect.tooltip "Vælg et afsnitsformat">
@@ -337,7 +337,7 @@
 
 <!ENTITY pageProperties.label "Sidens titel og egenskaber…">
 <!ENTITY pageProperties.accesskey "e">
-<!ENTITY colorsAndBackground.label "Sidens farve og baggrund…">
+<!ENTITY colorsAndBackground.label "Sidens farver og baggrund…">
 <!ENTITY colorsAndBackground.accesskey "v">
 
 <!-- Table Menu -->
@@ -364,7 +364,7 @@
 <!ENTITY tableRows.label "Rækker:">
 <!ENTITY tableRow.accesskey "R">
 <!ENTITY tableRowAbove.label "Række over">
-<!ENTITY tableRowAbove.accesskey "o">
+<!ENTITY tableRowAbove.accesskey "v">
 <!ENTITY tableRowBelow.label "Række under">
 <!ENTITY tableRowBelow.accesskey "u">
 <!ENTITY tableColumn.label "Kolonne">
@@ -422,7 +422,7 @@
 <!ENTITY spellToolbarCmd.tooltip "Stavekontrol af markering eller hele siden">
 <!ENTITY imageToolbarCmd.label "Billede">
 <!ENTITY imageToolbarCmd.tooltip "Indsæt nyt billede eller rediger det markerede billedes egenskaber">
-<!ENTITY hruleToolbarCmd.label "V. linje">
+<!ENTITY hruleToolbarCmd.label "Vandret linje">
 <!ENTITY hruleToolbarCmd.tooltip "Indsæt vandret linje eller rediger den valgte linjes egenskaber">
 <!ENTITY tableToolbarCmd.label "Tabel">
 <!ENTITY tableToolbarCmd.tooltip "Indsæt ny tabel eller rediger den markerede tabels egenskaber">
@@ -437,7 +437,7 @@
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre skriftstørrelse">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Større skrifttype">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Større skriftstørrelse">
 <!ENTITY boldToolbarCmd.tooltip "Fed">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Understreg">
@@ -457,9 +457,9 @@
 <!ENTITY NormalMode.label "Normal redigeringstilstand">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Vis tabelrammer og navngivne linkmål">
-<!ENTITY AllTagsMode.label "Vis alle mærker">
+<!ENTITY AllTagsMode.label "Vis alle tags">
 <!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "Vis ikoner for alle HTML mærker">
+<!ENTITY AllTagsMode.tooltip "Vis ikoner for alle HTML-tags">
 
 <!ENTITY HTMLSourceMode.label "HTML kildekode">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
@@ -481,9 +481,9 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Marker">
 <!ENTITY structSelect.accesskey "M">
-<!ENTITY structRemoveTag.label "Fjern mærke">
+<!ENTITY structRemoveTag.label "Fjern tag">
 <!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Ændr mærke">
+<!ENTITY structChangeTag.label "Ændr tag">
 <!ENTITY structChangeTag.accesskey "Æ">
 
 <!-- TOC manipulation -->
@@ -493,5 +493,5 @@
 <!ENTITY updateTOC.accesskey "O">
 <!ENTITY removeTOC.label "Fjern">
 <!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "Indholdsfortegnelse…">
+<!ENTITY tocMenu.label "Indholdsfortegnelse">
 <!ENTITY tocMenu.accesskey "I">

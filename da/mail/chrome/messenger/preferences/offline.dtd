@@ -1,4 +1,4 @@
-<!ENTITY offlineDialog.title "Offline Instillinger">
+<!ENTITY offlineDialog.title "Offline-indstillinger">
 
 <!ENTITY textStartUp "Ved opstart:">
 <!ENTITY radioRememberPrevState.label "Husk sidste online-status">
@@ -15,7 +15,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Spørg mig">
 <!ENTITY radioAskUnsent.accesskey "S">
-<!ENTITY textGoingOffline "Download meddelelser til offline-brug, når jeg går offline?">
+<!ENTITY textGoingOffline "Hent meddelelser til offline-brug, når jeg går offline?">
 <!ENTITY radioAutoDownload.label "Ja">
 <!ENTITY radioAutoDownload.accesskey "a">
 <!ENTITY radioNotDownload.label "Nej">

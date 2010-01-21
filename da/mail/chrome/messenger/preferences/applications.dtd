@@ -9,8 +9,8 @@
 
 <!ENTITY  filter.emptytext        "Søg">
 
-<!ENTITY saveTo.label                 "Gem filer til">
-<!ENTITY saveTo.accesskey             "G">
+<!ENTITY saveTo.label                 "Gem filer i">
+<!ENTITY saveTo.accesskey             "f">
 <!ENTITY alwaysAsk.label              "Spørg mig altid, hvor filer skal gemmes">
 <!ENTITY alwaysAsk.accesskey          "S">
 <!ENTITY chooseFolderWin.label        "Gennemse…">

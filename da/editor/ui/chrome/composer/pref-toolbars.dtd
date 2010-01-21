@@ -1,17 +1,17 @@
 <!ENTITY pref.toolbars.title "Værktøjslinier">
 <!ENTITY composition.caption "Vis disse knapper i komposition værktøjslinjen:">
-<!ENTITY new.label "Ny(t)">
+<!ENTITY new.label "Ny)">
 <!ENTITY open.label "Åbn">
 <!ENTITY save.label "Gem på disk">
 <!ENTITY publish.label "Udgiv">
 <!ENTITY preview.label "Afspil">
 <!ENTITY cut.label "Klip">
 <!ENTITY copy.label "Kopier">
-<!ENTITY paste.label "Sæt ind">
-<!ENTITY print.label "Udskriv...">
+<!ENTITY paste.label "Indsæt">
+<!ENTITY print.label "Udskriv…">
 <!ENTITY find.label "Søg">
 <!ENTITY image.label "Billede">
-<!ENTITY hline.label "H. linje">
+<!ENTITY hline.label "Vandret linje">
 <!ENTITY table.label "Tabel">
 <!ENTITY link.label "Link">
 <!ENTITY anchor.label "Linkmål">
@@ -24,7 +24,7 @@
 <!ENTITY italic.label "Kursiv">
 <!ENTITY outdent.label "Udrykket">
 <!ENTITY indent.label "Indrykket">
-<!ENTITY underline.label "Understreg">
+<!ENTITY underline.label "Understregning">
 <!ENTITY absolutePosition.label "Absolut positionering">
 <!ENTITY decreaseZIndex.label "Send bagud">
 <!ENTITY increaseZIndex.label "Send fremad">

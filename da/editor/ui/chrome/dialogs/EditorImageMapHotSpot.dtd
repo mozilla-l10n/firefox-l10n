@@ -2,7 +2,7 @@
 <!ENTITY link.label "Direkte link">
 <!ENTITY urlFieldset.label "Direkte URL:">
 <!ENTITY altFieldset.label "Direkte alternativ tekst:">
-<!ENTITY browseButton.label "Gennemse...">
+<!ENTITY browseButton.label "Gennemse…">
 <!ENTITY targetFieldset.label "Indstillinger for mål">
 <!ENTITY target.label "Direkte mål">
 <!ENTITY commonFieldset.label "Normale mål:">

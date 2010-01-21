@@ -42,12 +42,12 @@
 <!ENTITY aboutLink.label "&lt; Om &brandFullName;">
 <!ENTITY aboutLink.accesskey "O">
 <!ENTITY aboutVersion "version">
-<!ENTITY copyrightText          "&#169;1998-2008 Bidragsydere. Alle rettigheder
+<!ENTITY copyrightText          "&#169;1998-2009 Bidragydere. Alle rettigheder
                                  forbeholdt. Mozilla Sunbird, Sunbird og
                                  Sunbird-logoer er Mozilla Foundation
                                  varemærker. Alle rettigheder forbeholdt.">
 
-<!ENTITY brandMotto "det er på tide...">
+<!ENTITY brandMotto "det er på tide…">
 <!ENTITY credit.thanks "Særlig tak til">
 
 <!-- localization credits look like this: -->

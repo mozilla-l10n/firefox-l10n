@@ -13,8 +13,8 @@
 <!ENTITY useHtml.accesskey "H">
 <!ENTITY autoQuote.label "Citer altid den originale meddelelse i svar">
 <!ENTITY autoQuote.accesskey "C">
-<!ENTITY then.label "Så,">
-<!ENTITY then.accesskey "S">
+<!ENTITY then.label "og">
+<!ENTITY then.accesskey "o">
 <!ENTITY aboveQuote.label "start mit svar over den citerede tekst">
 <!ENTITY belowQuote.label "start mit svar under den citerede tekst">
 <!ENTITY selectAndQuote.label "marker den citerede tekst">

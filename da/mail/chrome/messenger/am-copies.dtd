@@ -1,28 +1,28 @@
 <!ENTITY copyAndFolderTitle.label "Kopier &amp; mapper">
-<!ENTITY sendingPrefix.label "Gør følgende, ved afsendelse af meddelelser:">
+<!ENTITY sendingPrefix.label "Gør følgende ved afsendelse af meddelelser:">
 <!ENTITY fccMailFolder.label "Anbring en kopi i:">
-<!ENTITY fccMailFolder.accesskey "A">
+<!ENTITY fccMailFolder.accesskey "b">
 <!ENTITY fccReplyFollowsParent.label "Anbring svar i samme mappe som den besvarede meddelelse">
-<!ENTITY fccReplyFollowsParent.accesskey "s">
+<!ENTITY fccReplyFollowsParent.accesskey "m">
 <!ENTITY bccAddress.label "Skjult kopi til andre adresser:">
-<!ENTITY bccAddress.accesskey "S">
-<!ENTITY saveMessageDlg.label "Vis godkendelsesdialog, når meddelelser bliver gemt">
+<!ENTITY bccAddress.accesskey "u">
+<!ENTITY saveMessageDlg.label "Vis godkendelsesdialog, når meddelelser gemmes">
 <!ENTITY saveMessageDlg.accesskey "g">
-<!ENTITY sentFolderOn.label "&quot;Sendt&quot;-mappen på:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.label "Mappen Sendt på:">
+<!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Andet:">
-<!ENTITY sentInOtherFolder.accesskey "n">
-<!ENTITY draftsFolderOn.label "&quot;Kladder&quot;-mappen på:">
-<!ENTITY draftsFolderOn.accesskey "k">
+<!ENTITY sentInOtherFolder.accesskey "t">
+<!ENTITY draftsFolderOn.label "Mappen Kladder på:">
+<!ENTITY draftsFolderOn.accesskey "l">
 <!ENTITY draftInOtherFolder.label "Andet:">
 <!ENTITY draftInOtherFolder.accesskey "d">
 
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Arkiver&quot; mappe på:">
-<!ENTITY archivesFolderOn.accesskey "a">
-<!ENTITY archiveInOtherFolder.label "Anden:">
+<!ENTITY archivesFolderOn.label "Mappen Arkiver på:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Andet:">
 <!ENTITY archiveInOtherFolder.accesskey "n">
-<!ENTITY templatesFolderOn.label "&quot;Skabeloner&quot;-mappen på:">
+<!ENTITY templatesFolderOn.label "Mappen Skabeloner på:">
 <!ENTITY templatesFolderOn.accesskey "o">
 <!ENTITY templateInOtherFolder.label "Andet:">
 <!ENTITY templateInOtherFolder.accesskey "e">

@@ -3,20 +3,20 @@
 <!ENTITY defaultColorsRadio.label "Brugerens standardfarver (Angiv ikke farver)">
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "Brug farveindstillingerne fra brugerens browser">
-<!ENTITY customColorsRadio.label "Brug brugerdefinerede farver:">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.label "Benyt brugerdefinerede farver:">
+<!ENTITY customColorsRadio.accessKey "u">
 <!ENTITY customColorsRadio.tooltip "Disse farveindstillinger erstatter brugerens egne valg">
 <!ENTITY normalText.label "Normal tekst">
 <!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "Linktekst">
+<!ENTITY linkText.label "Links">
 <!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "Aktive links tekst">
+<!ENTITY activeLinkText.label "Aktive links">
 <!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Besøgte links tekst">
+<!ENTITY visitedLinkText.label "Besøgte links">
 <!ENTITY visitedLinkText.accessKey "s">
-<!ENTITY background.label "Baggrund for:">
+<!ENTITY background.label "Tekstbaggrund:">
 <!ENTITY background.accessKey "B">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Baggrundsbillede:">
-<!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.accessKey "i">
 <!ENTITY backgroundImage.tooltip "Brug et billede som baggrund på siden">
