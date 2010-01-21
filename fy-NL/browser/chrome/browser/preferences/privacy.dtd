@@ -66,9 +66,8 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Unthâld myn browseskiednis foar op syn minst">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "dagen">
+<!ENTITY  rememberHistory.label      "Unthâld myn browseskiednis">
+<!ENTITY  rememberHistory.accesskey  "h">
 
 <!ENTITY  rememberDownload.label         "Unthâld ynlaadskiednis">
 <!ENTITY  rememberDownload.accesskey     "d">
