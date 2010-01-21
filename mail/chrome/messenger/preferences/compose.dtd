@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label "보내기 설정…">
 <!ENTITY sendOptions.accesskey "S">
 
-<!ENTITY attachmentReminder.label "빠진 첨부 파일을 확인">
+<!ENTITY attachmentReminder.label "첨부 파일의 누락 여부 확인">
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "키워드…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
