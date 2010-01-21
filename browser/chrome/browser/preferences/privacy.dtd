@@ -50,7 +50,7 @@
 <!ENTITY  dontrememberDescription.label  "O &brandShortName; irá usar as mesmas definições para a navegação privada e não irá lembrar-se de qualquer histórico de navegação na web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): irememberHistory.post.labelnclude a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Poderá também querer ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o seu histórico actual">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -59,14 +59,13 @@
 <!ENTITY  privateBrowsingPermanent.accesskey "M">
 
 <!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  The entities rememberHistory.pre.label and  appear on a single
   line in preferences as follows:
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Lembrar o histórico de navegação durante">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "dias">
+<!ENTITY  rememberHistory.label      "Lembrar o histórico de navegação">
+<!ENTITY  rememberHistory.accesskey  "h">
 
 <!ENTITY  rememberDownload.label         "Lembrar o histórico de transferências">
 <!ENTITY  rememberDownload.accesskey     "d">
