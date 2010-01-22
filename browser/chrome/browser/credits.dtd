@@ -2,6 +2,6 @@
 <!ENTITY credit.thanks "Ringraziamenti speciali a">
 <!ENTITY credit.thanks2 "Ringraziamenti ai nostri">
 <!ENTITY credit.contributors2 "collaboratori">
-<!ENTITY credit.translation "<h3>Traduzione</h3><ul><li>Francesco Lodolo</li><li>Michele Dal Corso</li></ul><h3>Controllo qualità (QA)</h3><ul><li>Associazione Italiana Supporto e Traduzione Mozilla</li><li>Iacopo Benesperi</li><li>Sandro Della Giustina</li><li>Simone Lando</li><li>Giacomo Magnini</li><li>Giuliano Masseroni</li></ul>">
+<!ENTITY credit.translation "<h3>Traduzione</h3><ul><li>Francesco Lodolo</li></ul><h3>Controllo qualità (QA)</h3><ul><li>Associazione Italiana Supporto e Traduzione Mozilla</li><li>Iacopo Benesperi</li><li>Sandro Della Giustina</li><li>Simone Lando</li><li>Giacomo Magnini</li><li>Giuliano Masseroni</li><li>Elisabetta Manuele</li></ul>">
 <!ENTITY credit.memory "In affettuoso ricordo di">
 <!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">
