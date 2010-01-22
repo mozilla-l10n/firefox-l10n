@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
-<!ENTITY clearRecentHistoryCmd.label            "Vymazať históriu prehliadania">
-<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+<!ENTITY clearRecentHistory.label            "Vymazať históriu prehliadania…">
+<!ENTITY clearRecentHistory.accesskey        "h">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Spustiť režim Súkromné prehliadanie">
@@ -308,8 +308,8 @@
 <!ENTITY sendAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "Kopírovať text odkazu">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY copyLinkText2Cmd.label       "Kopírovať text odkazu">
+<!ENTITY copyLinkText2Cmd.accesskey   "x">
 <!ENTITY copyImageCmd.label           "Kopírovať adresu obrázka">
 <!ENTITY copyImageCmd.accesskey       "e">
 <!ENTITY copyImageContentsCmd.label   "Kopírovať obrázok">

@@ -60,15 +60,8 @@
 <!ENTITY  privateBrowsingPermanent.label "Natrvalo zapnúť režim Súkromné prehliadanie">
 <!ENTITY  privateBrowsingPermanent.accesskey "a">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Históriu prehliadania uchovávať minimálne">
-<!ENTITY  rememberHistory.pre.accesskey  "H">
-<!ENTITY  rememberHistory.post.label     "dní">
+<!ENTITY  rememberHistory.label      "Uchovávať históriu prehliadania">
+<!ENTITY  rememberHistory.accesskey  "h">
 
 <!ENTITY  rememberDownload.label        "Pamätať si informácie o prevzatých súboroch">
 <!ENTITY  rememberDownload.accesskey    "z">
