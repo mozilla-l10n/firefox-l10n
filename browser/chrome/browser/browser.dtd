@@ -142,8 +142,8 @@
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY clearRecentHistoryCmd.label "Cancella la cronologia recente">
-<!ENTITY clearRecentHistoryCmd.accesskey "e">
+<!ENTITY clearRecentHistory.label "Cancella la cronologia recente…">
+<!ENTITY clearRecentHistory.accesskey "e">
 <!ENTITY privateBrowsingCmd.start.label "Avvia Navigazione anonima">
 <!ENTITY privateBrowsingCmd.start.accesskey "N">
 <!ENTITY privateBrowsingCmd.stop.label "Interrompi Navigazione anonima">
@@ -245,8 +245,8 @@
 <!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "z">
-<!ENTITY copyLinkTextCmd.label "Copia testo del link">
-<!ENTITY copyLinkTextCmd.accesskey "k">
+<!ENTITY copyLinkText2Cmd.label "Copia testo del link">
+<!ENTITY copyLinkText2Cmd.accesskey "k">
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyImageContentsCmd.label "Copia immagine">
