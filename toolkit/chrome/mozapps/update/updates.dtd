@@ -1,5 +1,5 @@
 <!ENTITY updateWizard.title "Aggiornamento software">
-<!ENTITY window.width "36em">
+<!ENTITY window.width "38em">
 <!ENTITY window.macWidth "42em">
 <!ENTITY checking.title "Controllo aggiornamenti">
 <!ENTITY updateCheck.label "Ricerca in corso di nuove versioni di &brandShortName;…">
