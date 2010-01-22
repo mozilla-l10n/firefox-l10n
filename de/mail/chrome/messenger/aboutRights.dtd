@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Über Ihre Rechte">
 <!ENTITY rights.intro-header     "Über Ihre Rechte">
-<!ENTITY rights.intro "&brandFullName; ist freie und quelloffene Software, entwickelt von einer Gemeinschaft tausender Gleichgesinnter, verteilt über die gesamte Welt. Es gibt da einige Dinge, die Sie wissen sollten:"> 
+<!ENTITY rights.intro "&brandFullName; ist freie und quelloffene Software, entwickelt von einer Gemeinschaft tausender Gleichgesinnter, verteilt über die gesamte Welt. Es gibt da einige Dinge, die Sie wissen sollten:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -14,7 +14,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; wird Ihnen unter den Bedingungen der ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c " zur Verfügung gestellt. Das bedeutet, Sie dürfen &brandShortName; verwenden, kopieren und an andere verteilen. Sie sind auch gerne eingeladen, den Quellcode von &brandShortName; zu verändern und an Ihre eigenen Bedürfnisse anzupassen. Die Mozilla Public License gibt Ihnen auch das Recht, Ihre veränderte Version an andere zu verteilen."> 
+<!ENTITY rights.intro-point1c " zur Verfügung gestellt. Das bedeutet, Sie dürfen &brandShortName; verwenden, kopieren und an andere verteilen. Sie sind auch gerne eingeladen, den Quellcode von &brandShortName; zu verändern und an Ihre eigenen Bedürfnisse anzupassen. Die Mozilla Public License gibt Ihnen auch das Recht, Ihre veränderte Version an andere zu verteilen.">
 
 <!ENTITY rights.intro-point2a "Mozilla gibt Ihnen kein Recht, die Marken &quot;Mozilla&quot; oder &quot;Thunderbird&quot; oder die Logos zu verwenden. Weitere Informationen zur Nutzung der Marken finden Sie ">
 <!ENTITY rights.intro-point2b "hier">
@@ -63,4 +63,4 @@
 <!ENTITY rights.webservices-term3 "Die Dienste werden &quot;wie es ist&quot; zur Verfügung gestellt. &vendorShortName;, ihre Mitwirkenden, Lizenznehmer und Distributoren gewähren keinerlei Gewährleistung, weder ausdrücklich noch implizit, einschließlich – aber nicht begrenzt auf – Marktreife oder Verwendbarkeit für einen bestimmten Zweck. Das volle Risiko bezüglich der Auswahl des für Sie richtigen Dienstes und die Qualität und Leistungsfähigkeit des Dienstes liegt bei Ihnen. Manche Gerichtsbarkeiten erlauben nicht den Ausschluss oder die Eingrenzung von implizierten Risiken, so dass dieser Haftungsausschluss möglicherweise nicht für sie gilt.">
 <!ENTITY rights.webservices-term4 "In keinem Fall, außer wenn durch geltendes Recht gefordert, sind &vendorShortName;, ihre Mitwirkenden, Lizenznehmer oder Distributoren für irgendwelchen indirekten oder speziellen Schäden, Schäden durch Seiteneffekte (Nebenwirkungen) oder Folgeschäden, die aus der Benutzung von &brandShortName; oder den Diensten folgen, haftbar. Die gesamte Haftbarkeit unter diesen Bedingungen beschränkt sich auf maximal $500 (fünfhundert Dollar). Manche Gerichtsbarkeiten erlauben nicht den Ausschluss oder die Eingrenzung von bestimmten Risiken, so dass diese Ausschlüsse oder Eingrenzungen möglicherweise nicht für sie gelten.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; kann diese Bedingungen bei Bedarf von Zeit zu Zeit aktualisieren. Diese Bedingungen können nicht ohne eine schriftliche Zusicherung von &vendorShortName; verändert oder aufgehoben werden.">
-<!ENTITY rights.webservices-term6 "Diese Bedingungen werden durch die Gesetze des Staates Kalifornien, USA, geschützt, ausschließlich den damit in Konflikt stehenden Rechtsvorschriften. Sollten einzelne Bestimmungen dieser Bedingungen unwirksam oder undurchführbar sein, bleibt davon die Wirksamkeit der anderen Bedingungen unberührt. Falls ein Konflikt bestehen sollte, zwischen der übersetzen Version dieser Bedingungen und der englischsprachigen Version, gelten die Bedingungen der englischsprachigen Version.">
+<!ENTITY rights.webservices-term6 "Diese Bedingungen werden durch die Gesetze des Staates Kalifornien, USA, geschützt, ausschließlich den damit in Konflikt stehenden Rechtsvorschriften. Sollten einzelne Bestimmungen dieser Bedingungen unwirksam oder undurchführbar sein, bleibt davon die Wirksamkeit der anderen Bedingungen unberührt. Falls ein Konflikt bestehen sollte, zwischen der übersetzten Version dieser Bedingungen und der englischsprachigen Version, gelten die Bedingungen der englischsprachigen Version.">
