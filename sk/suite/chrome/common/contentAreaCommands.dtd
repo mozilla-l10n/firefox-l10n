@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey  "n">
 <!ENTITY mediaHideControls.label      "Skryť ovládanie">
 <!ENTITY mediaHideControls.accesskey  "n">
+<!ENTITY videoFullScreen.label        "Na celú obrazovku">
+<!ENTITY videoFullScreen.accesskey    "c">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "m">

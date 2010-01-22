@@ -2,7 +2,7 @@
 <!ENTITY aboutButton.label      "&lt; Naspäť">
 <!ENTITY aboutButton.accesskey  "N">
 <!ENTITY aboutVersion           "verzia">
-<!ENTITY copyrightText          "&#169;1998-2009 Prispievatelia. Všetky práva vyhradené.  Mozilla Thunderbird a
+<!ENTITY copyrightText          "&#169;1998-2010 Prispievatelia. Všetky práva vyhradené.  Mozilla Thunderbird a
                                 logá Thunderbird sú ochranné známky patriace Mozilla Foundation. Všetky práva
                                 vyhradené.">
 <!ENTITY aboutMenu.label        "O programe">

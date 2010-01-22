@@ -9,6 +9,6 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Prispievatelia. Všetky práva vyhradené. ">
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2010 Prispievatelia. Všetky práva vyhradené. ">
 <!ENTITY aboutPage.licenseLink                  "Informácie o licenciách">
 <!ENTITY aboutPage.copyrightInfo2               ".">
