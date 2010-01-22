@@ -312,6 +312,8 @@
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copier l'adresse de l'image">
 <!ENTITY copyImageCmd.accesskey       "r">
+<!ENTITY copyLinkText2Cmd.label       "Copier le texte du lien">
+<!ENTITY copyLinkText2Cmd.accesskey   "x">
 <!ENTITY copyImageContentsCmd.label   "Copier l'image">
 <!ENTITY copyImageContentsCmd.accesskey  "a">
 <!ENTITY copyVideoURLCmd.label        "Copier l'URL de la vidéo">
