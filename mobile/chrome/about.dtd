@@ -9,6 +9,6 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Mitwirkende. Alle Rechte vorbehalten. (">
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2010 Mitwirkende. Alle Rechte vorbehalten. (">
 <!ENTITY aboutPage.licenseLink                  "Informationen zur Lizenzierung">
 <!ENTITY aboutPage.copyrightInfo2               ").">
