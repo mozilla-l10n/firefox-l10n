@@ -203,8 +203,8 @@
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label          "Valyti žurnalą">
-<!ENTITY clearRecentHistoryCmd.accesskey      "V">
+<!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
+<!ENTITY clearRecentHistory.accesskey           "V">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Pradėti privatųjį naršymą">
@@ -321,7 +321,7 @@
 <!ENTITY printFrameCmd.label          "Spausdinti kadrą…">
 <!ENTITY printFrameCmd.accesskey      "S">
 <!ENTITY saveLinkCmd.label            "Įrašyti saistomą objektą kaip…">
-<!ENTITY saveLinkCmd.accesskey        "į">
+<!ENTITY saveLinkCmd.accesskey        "Į">
 <!ENTITY sendLinkCmd.label            "Išsiųsti saitą…"> 
 <!ENTITY sendLinkCmd.accesskey        "ų">
 <!ENTITY saveImageCmd.label           "Įrašyti paveikslą kaip…">
@@ -338,8 +338,8 @@
 <!ENTITY sendAudioCmd.accesskey       "s">
 <!ENTITY copyLinkCmd.label            "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "Kopijuoti saito tekstą">
-<!ENTITY copyLinkTextCmd.accesskey    "p">
+<!ENTITY copyLinkText2Cmd.label       "Kopijuoti saito tekstą">
+<!ENTITY copyLinkText2Cmd.accesskey   "p">
 <!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopijuoti paveikslą">

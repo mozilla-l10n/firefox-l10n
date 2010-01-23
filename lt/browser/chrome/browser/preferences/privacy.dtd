@@ -90,15 +90,8 @@
 <!ENTITY  privateBrowsingPermanent.label         "Visuomet naršyti privačiojo naršymo veiksenoje">
 <!ENTITY  privateBrowsingPermanent.accesskey     "p">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label              "Žurnale įsiminti lankytus tinklalapius bent">
-<!ENTITY  rememberHistory.pre.accesskey          "r">
-<!ENTITY  rememberHistory.post.label             "d.">
+<!ENTITY  rememberHistory.label                  "Žurnale įsiminti lankytus tinklalapius">
+<!ENTITY  rememberHistory.accesskey              "r">
 
 <!ENTITY  rememberDownload.label                 "Įsiminti parsiųstus failus">
 <!ENTITY  rememberDownload.accesskey             "s">
