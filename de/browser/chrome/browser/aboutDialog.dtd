@@ -5,9 +5,9 @@
 <!ENTITY aboutLink                  "&lt; Über &brandFullName;">
 <!ENTITY aboutLink.accesskey        "Ü">
 <!ENTITY aboutVersion               "Version">
-<!ENTITY closeCmdGNOME.label        "Schließen">  
+<!ENTITY closeCmdGNOME.label        "Schließen">
 <!ENTITY closeCmdGNOME.accesskey    "s">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Mitwirkende. Alle Rechte vorbehalten. (">
+<!ENTITY copyrightInfo1             "&#169;1998-2010 Mitwirkende. Alle Rechte vorbehalten. (">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Informationen zur Lizenzierung">
 <!ENTITY copyrightInfo2             ").">
