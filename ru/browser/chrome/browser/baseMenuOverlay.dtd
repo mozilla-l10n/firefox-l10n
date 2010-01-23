@@ -16,8 +16,8 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Примечания к выпуску">
 <!ENTITY helpReleaseNotes.accesskey "р">
-<!ENTITY helpTroubleshootingInfo.label "Диагностическая информация">
-<!ENTITY helpTroubleshootingInfo.accesskey "г">
+<!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
+<!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY updateCmd.label "Проверить наличие обновлений…">
 <!ENTITY preferencesCmdMac.label "Настройки…">
 <!ENTITY preferencesCmdMac.commandkey ",">

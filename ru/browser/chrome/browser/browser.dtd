@@ -228,7 +228,7 @@
 <!ENTITY printFrameCmd.label "Печать фрейма…">
 <!ENTITY printFrameCmd.accesskey "ч">
 <!ENTITY saveLinkCmd.label "Сохранить объект как…">
-<!ENTITY saveLinkCmd.accesskey "С">
+<!ENTITY saveLinkCmd.accesskey "х">
 <!ENTITY sendLinkCmd.label "Отправить ссылку…">
 <!ENTITY sendLinkCmd.accesskey "т">
 <!ENTITY saveImageCmd.label "Сохранить изображение как…">
@@ -245,8 +245,8 @@
 <!ENTITY sendAudioCmd.accesskey "п">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
-<!ENTITY copyLinkTextCmd.label "Копировать текст ссылки">
-<!ENTITY copyLinkTextCmd.accesskey "с">
+<!ENTITY copyLinkText2Cmd.label "Копировать текст ссылки">
+<!ENTITY copyLinkText2Cmd.accesskey "е">
 <!ENTITY copyImageCmd.label "Копировать ссылку на изображение">
 <!ENTITY copyImageCmd.accesskey "и">
 <!ENTITY copyImageContentsCmd.label "Копировать изображение">
