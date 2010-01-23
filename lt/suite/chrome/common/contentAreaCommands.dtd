@@ -146,6 +146,8 @@
 <!ENTITY mediaShowControls.accesskey  "m">
 <!ENTITY mediaHideControls.label      "Nerodyti mygtukų">
 <!ENTITY mediaHideControls.accesskey  "m">
+<!ENTITY videoFullScreen.label        "Rodyti visame ekrane">
+<!ENTITY videoFullScreen.accesskey    "v">
 <!ENTITY search.accesskey             "š">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
