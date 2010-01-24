@@ -2,6 +2,7 @@
 <!ENTITY cookiesonsystem.label "Las cookies siguientes están guardadas en su ordenador:">
 <!ENTITY cookiename.label "Nombre de la cookie">
 <!ENTITY cookiedomain.label "Sitio">
+<!ENTITY button.removecookies.label "Eliminar cookies">
 <!ENTITY button.removecookie.label "Eliminar cookie">
 <!ENTITY button.removecookie.accesskey "R">
 <!ENTITY button.removeallcookies.label "Eliminar todas las cookies">
