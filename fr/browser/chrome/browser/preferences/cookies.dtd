@@ -2,7 +2,8 @@
 
 <!ENTITY     cookiesonsystem.label          "Les cookies suivants sont stockés sur votre ordinateur :">
 <!ENTITY     cookiename.label               "Nom du cookie">
-<!ENTITY     cookiedomain.label             "Site"> 
+<!ENTITY     cookiedomain.label             "Site">
+<!ENTITY     button.removecookies.label     "Supprimer les cookies">
 <!ENTITY     button.removecookie.label      "Supprimer le cookie">
 <!ENTITY     button.removecookie.accesskey  "S">
 <!ENTITY     button.removeallcookies.label  "Supprimer tous les cookies">
