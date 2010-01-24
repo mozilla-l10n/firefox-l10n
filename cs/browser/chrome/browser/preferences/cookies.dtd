@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label "Tyto cookies jsou uloženy ve vašem počítači:">
 <!ENTITY cookiename.label "Název cookie">
 <!ENTITY cookiedomain.label "Server">
+<!ENTITY button.removecookies.label "Odebrat cookies">
 <!ENTITY button.removecookie.label "Odebrat cookie">
 <!ENTITY button.removecookie.accesskey "O">
 <!ENTITY button.removeallcookies.label "Odebrat všechny cookies">
