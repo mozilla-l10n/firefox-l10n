@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY validation.crlmanager.label "Upravljanje CRL-jev">
-<!ENTITY validation.crlmanager.description "Naslednji zavrnitvenimi seznami certifikatov (CRL) so shranjeni v vaši bazi certifikatov:">
+<!ENTITY validation.crlmanager.description "Naslednji zavrnitvenimi seznami digitalnih potrdil (CRL) so shranjeni v vaši bazi digitalnih potrdil:">
 <!ENTITY validation.crlname.label "Ime">
 <!ENTITY validation.crllastupdate.label "Nazadnje posodobljeno">
 <!ENTITY validation.crlnextupdate.label "Nasledja posodobitev">
@@ -57,7 +57,7 @@
 <!ENTITY validation.crl.autoupdate.freq.label2 "Dnevi">
 <!ENTITY validation.crl.autoupdate.url.label "CRL bi bil uvožen iz:">
 <!ENTITY crl.import.status.title "Uvozno stanje CRL">
-<!ENTITY crl.import.success.message "Zavrnitveni seznam certifikatov (CRL) je bil uspešno uvožen.">
+<!ENTITY crl.import.success.message "Zavrnitveni seznam digitalnih potrdil (CRL) je bil uspešno uvožen.">
 <!ENTITY crl.issuer.label "Izdajatelj CRL:">
 <!ENTITY crl.issuer.org.label "Organizacija:">
 <!ENTITY crl.issuer.orgunit.label "Enota:">

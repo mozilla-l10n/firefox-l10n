@@ -102,8 +102,8 @@
 <!ENTITY securityTab "Varnost">
 <!ENTITY securityTab.accesskey "A">
 <!ENTITY securityHeader "Varnostne informacije o tej strani">
-<!ENTITY securityView.certView "Preglej certifikat">
-<!ENTITY securityView.accesskey "C">
+<!ENTITY securityView.certView "Preglej digitalno potrdilo">
+<!ENTITY securityView.accesskey "P">
 <!ENTITY securityView.unknown "Neznano">
 
 

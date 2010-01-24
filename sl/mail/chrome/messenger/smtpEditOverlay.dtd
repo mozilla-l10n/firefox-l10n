@@ -1,5 +1,5 @@
 <!ENTITY settings.caption "Nastavitve">
-<!ENTITY security.caption "Varnost in avtentikacija">
+<!ENTITY security.caption "Varnost in overjanje">
 <!ENTITY serverName.label "Ime strežnika:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Opis:">

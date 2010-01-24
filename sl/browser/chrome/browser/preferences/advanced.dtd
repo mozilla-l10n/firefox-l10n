@@ -86,14 +86,14 @@
 <!ENTITY useSSL3.accesskey "3">
 <!ENTITY useTLS1.label "Uporabljaj TLS 1.0">
 <!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Certifikati">
-<!ENTITY certSelection.description "Ko strežnik zahteva moj osebni certifikat:">
+<!ENTITY certificates.label "Digitalna potrdila">
+<!ENTITY certSelection.description "Ko strežnik zahteva moje osebno digitalno potrdilo:">
 <!ENTITY certs.auto "ga izberi samodejno">
 <!ENTITY certs.auto.accesskey "s">
 <!ENTITY certs.ask "me vsakokrat vprašaj">
 <!ENTITY certs.ask.accesskey "k">
-<!ENTITY viewCerts.label "Preglej certifikate">
-<!ENTITY viewCerts.accesskey "c">
+<!ENTITY viewCerts.label "Preglej digitalna potrdila">
+<!ENTITY viewCerts.accesskey "p">
 <!ENTITY viewCRLs.label "Zavrnitveni seznami">
 <!ENTITY viewCRLs.accesskey "Z">
 <!ENTITY verify2.label "Preverjanje">
