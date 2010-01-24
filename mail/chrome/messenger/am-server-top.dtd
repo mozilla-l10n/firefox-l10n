@@ -37,7 +37,7 @@
 <!ENTITY alwaysSecure.accesskey "T">
 <!ENTITY alwaysSSL.label "SSL">
 <!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Uporabi varno avtentikacijo">
+<!ENTITY useSecAuth.label "Uporabi varno overjanje">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Pusti sporočila na strežniku">
 <!ENTITY leaveOnServer.accesskey "p">
@@ -74,7 +74,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "sporočil">
-<!ENTITY alwaysAuthenticate.label "Vselej zahtevaj avtentikacijo ob povezovanju k temu strežniku">
+<!ENTITY alwaysAuthenticate.label "Vselej zahtevaj overjanje ob povezovanju k temu strežniku">
 <!ENTITY alwaysAuthenticate.accesskey "z">
 <!ENTITY newsrcFilePath.label "Datoteka newsrc:">
 <!ENTITY newsrcFilePath.accesskey "D">

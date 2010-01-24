@@ -3,26 +3,26 @@
 <!ENTITY window.width "37em">
 <!ENTITY window.macWidth "40em">
 
-<!ENTITY proxyTitle.label "Nastavitve strežnika proxy">
-<!ENTITY noProxyTypeRadio.label "Brez proxyja">
+<!ENTITY proxyTitle.label "Nastavitve posrednika">
+<!ENTITY noProxyTypeRadio.label "Brez posrednika">
 <!ENTITY noProxyTypeRadio.accesskey "y">
-<!ENTITY systemTypeRadio.label "Uporabi sistemske nastavitve za proxy">
+<!ENTITY systemTypeRadio.label "Uporabi sistemske nastavitve posrednika">
 <!ENTITY systemTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "Samozaznaj nastavitve proxyja za to mrežo">
+<!ENTITY WPADTypeRadio.label "Samozaznaj nastavitve posrednika za to mrežo">
 <!ENTITY WPADTypeRadio.accesskey "m">
-<!ENTITY manualTypeRadio.label "Ročna nastavitev proxy">
+<!ENTITY manualTypeRadio.label "Ročna nastavitev posrednika">
 <!ENTITY manualTypeRadio.accesskey "r">
-<!ENTITY autoTypeRadio.label "URL samodejne nastavitve za proxy:">
+<!ENTITY autoTypeRadio.label "URL samodejne nastavitve posrednika:">
 <!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "Ponovno naloži">
 <!ENTITY reload.accesskey "i">
-<!ENTITY ftp.label "Proxy FTP:">
+<!ENTITY ftp.label "Posrednik FTP:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Proxy Gopher:">
+<!ENTITY gopher.label "Posrednik Gopher:">
 <!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "Proxy HTTP:">
+<!ENTITY http.label "Posrednik HTTP:">
 <!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "Proxy SSL:">
+<!ENTITY ssl.label "Posrednik SSL:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "Gostitelj SOCKS:">
 <!ENTITY socks.accesskey "C">
@@ -37,8 +37,8 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Ni proxyja za:">
+<!ENTITY noproxy.label "Ni posrednika za:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Primer: .mozilla.org, .net.nz">
-<!ENTITY shareproxy.label "Uporabi isti proxy za vse protokole">
+<!ENTITY shareproxy.label "Uporabi istega posrednika za vse protokole">
 <!ENTITY shareproxy.accesskey "x">

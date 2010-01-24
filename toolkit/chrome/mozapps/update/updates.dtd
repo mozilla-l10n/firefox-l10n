@@ -57,13 +57,13 @@
 <!ENTITY errorManual.label "Program lahko posodobite ročno, če obiščete naslednjo povezavo in prenesete najnovejšo različico:">
 
 <!ENTITY errorpatching.title "Posodobitev neuspešna">
-<!ENTITY errorpatching.intro "Delne posodobitve ne morem namestiti. Prenešena bo celotna posodobitev.">
+<!ENTITY errorpatching.intro "Delne posodobitve ne morem namestiti. Prenesena bo celotna posodobitev.">
 
 <!ENTITY  finishedPage.title              "Posodobitev je na voljo">
 <!ENTITY  finishedPage.text               "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 
                                            storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
 
-<!ENTITY  finishedBackgroundPage.text     "Varnostna posodobitev za &brandShortName; je bila prenešena
+<!ENTITY  finishedBackgroundPage.text     "Varnostna posodobitev za &brandShortName; je bila prenesena
                                            in je na voljo za namestitev.">
 <!ENTITY  finishedBackground.name         "Posodobitev:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->

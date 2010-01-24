@@ -17,7 +17,7 @@
 <li>Morda ste se zmotili pri črkovanju naslova 
 (npr. <strong>ww</strong>.mozilla.org namesto <strong>www</strong>.mozilla.org).</li> 
 <li>Če prihaja do tega problema z več stranmi, imate morda napačne nastavitve povezave in DNS.</li> 
-<li>Če uporabljate proxy ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li> 
+<li>Če uporabljate posrednik ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
@@ -67,17 +67,17 @@
 <li>Za odpiranje tega naslova boste morda potrebovali dodaten program.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Strežnik proxy zavrača povezave">
+<!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Preverite nastavitve proxyja in se prepričajte, da so pravilne.</li> 
-<li>Pri skrbniku svojega omrežja preverite, da strežnik proxy deluje.</li> 
+<li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li> 
+<li>Pri skrbniku svojega omrežja preverite, da posrednik deluje.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Strežnika proxy ni mogoče najti">
+<!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Preverite nastavitve proxyja in se prepričajte, da so pravilne.</li> 
+<li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li> 
 <li>Preverite, ali ima vaš računalnik delujočo omrežno povezavo.</li> 
-<li>Če uporabljate strežnik proxy ali požarni zid, se prepričajte, 
+<li>Če uporabljate posrednik ali požarni zid, se prepričajte, 
 da ima &brandShortName; dovoljenja za dostop do spleta.</li> 
 </ul>">
 
@@ -111,7 +111,7 @@ začasna in lahko poskusite znova pozneje.</li>
 Poskusite znova nekoliko pozneje.</li> 
 <li>Če ne uspete naložiti nobene strani, preverite povezavo 
 svojega računalnika do interneta.</li> 
-<li>Če uporabljate proxy ali požarni zid, se prepričajte, 
+<li>Če uporabljate posrednik ali požarni zid, se prepričajte, 
 da ima &brandShortName; dovoljenja za dostop do spleta.</li> 
 </ul>">
 

@@ -47,7 +47,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Ponastavi">
 <!ENTITY resetPassword.title "Ponastavitev glavnega gesla">
-<!ENTITY resetPassword.text "Če ponastavite glavno geslo, bodo vsi vaši osebni podatki - shranjena spletna in e-poštna gesla, podatki o obrazcih, osebni certifikati in privatni ključi - pozabljeni. Ste prepričani, da želite ponastaviti svoje glavno geslo?">
+<!ENTITY resetPassword.text "Če ponastavite glavno geslo, bodo vsi vaši osebni podatki - shranjena spletna in e-poštna gesla, podatki o obrazcih, osebna digitalna potrdila in privatni ključi - pozabljeni. Ste prepričani, da želite ponastaviti svoje glavno geslo?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Vnos glavnega gesla">
@@ -64,53 +64,53 @@
 <!ENTITY pref.security.general.header "Nastavitve globalne varnosti">
 <!ENTITY pref.security.general.level.title "Varnostni nivo">
 <!ENTITY pref.security.general.paranoid.label "Uporabi paranoične varnostne nastavitve">
-<!ENTITY pref.security.general.certificates.title "Certifikati">
-<!ENTITY pref.security.general.manageCert.label "Upravljaj certifikate">
+<!ENTITY pref.security.general.certificates.title "Digitalna potrdila">
+<!ENTITY pref.security.general.manageCert.label "Upravljaj digitalna potrdila">
 <!-- Downloading a cert -->
 
-<!ENTITY downloadCert.title "Prenos certifikata">
-<!ENTITY downloadCert.message1 "Uradna oseba za certifikate (CA) vas sprašuje za zaupanje.">
-<!ENTITY downloadCert.trustSSL "Zaupaj tej uradni osebi za certifikate (CA) za identifikacijo spletnih strani.">
-<!ENTITY downloadCert.trustEmail "Zaupaj tej uradni osebi za certifikate (CA) za identifikacijo e-poštnih uporabnikov.">
-<!ENTITY downloadCert.trustObjSign "Zaupaj tej uradni osebi za certifikate (CA) za identifikacjo razvijalcev programja.">
-<!ENTITY downloadCert.message3 "Preden zaupate tej uradni osebi za certifikate (CA) za kakršenkoli namen, bi bilo priporočljivo, da pregledate njen certifikat in splošne procedure in standardne plane (če so na voljo).">
+<!ENTITY downloadCert.title "Prenos digitalnega potrdila">
+<!ENTITY downloadCert.message1 "Uradna oseba za digitalna potrdila (CA) vas sprašuje za zaupanje.">
+<!ENTITY downloadCert.trustSSL "Zaupaj tej uradni osebi za digitalna potrdila (CA) za identifikacijo spletnih strani.">
+<!ENTITY downloadCert.trustEmail "Zaupaj tej uradni osebi za digitalna potrdila (CA) za identifikacijo e-poštnih uporabnikov.">
+<!ENTITY downloadCert.trustObjSign "Zaupaj tej uradni osebi za digitalna potrdila (CA) za identifikacjo razvijalcev programja.">
+<!ENTITY downloadCert.message3 "Preden zaupate tej uradni osebi za digitalna potrdila (CA) za kakršenkoli namen, bi bilo priporočljivo, da pregledate njeno digitalno potrdilo in splošne procedure in standardne plane (če so na voljo).">
 <!ENTITY downloadCert.viewCert.label "Pogled">
 <!ENTITY downloadCert.viewPolicy.label "Standardni plan">
-<!ENTITY downloadCert.viewCert.text "Preveri certifikat uradne osebe za certifikate (CA)">
-<!ENTITY downloadCert.viewPolicy.text "Preveri standardne plane in procedure uradne osebe za certifikate:">
+<!ENTITY downloadCert.viewCert.text "Preveri digitalno potrdilo uradne osebe za digitalna potrdila (CA)">
+<!ENTITY downloadCert.viewPolicy.text "Preveri standardne plane in procedure uradne osebe za digitalna potrdila:">
 <!-- Certificate Exists in database -->
 
-<!ENTITY caCertExists.title "Certifikat obstaja">
-<!ENTITY caCertExists.message "Certifikat že obstaja.">
+<!ENTITY caCertExists.title "Digitalno potrdilo obstaja">
+<!ENTITY caCertExists.message "Digitalno potrdilo že obstaja.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Zahteva identifikacije uporabnika">
-<!ENTITY clientAuthAsk.message1 "Ta stran zahteva, da se predstavite s certifikatom:">
-<!ENTITY clientAuthAsk.message2 "Izberite certifikat, ki vas bo identificiral:">
-<!ENTITY clientAuthAsk.message3 "Podrobnosti o izbranem certifikatu:">
+<!ENTITY clientAuthAsk.message1 "Ta stran zahteva, da se predstavite z digitalnim potrdilom:">
+<!ENTITY clientAuthAsk.message2 "Izberite digitalno potrdilo, ki vas bo identificiral:">
+<!ENTITY clientAuthAsk.message3 "Podrobnosti o izbranem digitalnem potrdilu:">
 <!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Izbira certifikata">
-<!ENTITY certPicker.info "Certifikat:">
-<!ENTITY certPicker.detailsLabel "Podrobnosti o izbranem certifikatu:">
+<!ENTITY certPicker.title "Izbira digitalnega potrdila">
+<!ENTITY certPicker.info "Digitalno potrdilo:">
+<!ENTITY certPicker.detailsLabel "Podrobnosti o izbranem digitalnem potrdilu:">
 
-<!ENTITY pkcs12.setpassword.title "Izbira gesla za varnostne kopije certifikatov">
-<!ENTITY pkcs12.setpassword.message "Geslo za varnostne kopije certifikata, ki se ga tukaj nastavlja, ščiti varnostno kopijo, ki bo vsak čas narejena. To geslo morate nastaviti, če želite varnostno kopijo certifikata.">
-<!ENTITY pkcs12.setpassword.label1 "Geslo za varnostne kopije certifikatov:">
-<!ENTITY pkcs12.setpassword.label2 "Geslo za varnostne kopije certifikatov (ponovno):">
-<!ENTITY pkcs12.setpassword.reminder "Pomembno: Če pozabite geslo za varnostno kopijo certifikata, tega certifikata pozneje ne boste mogli obnoviti. Prosim, shranite geslo na varnem mestu.">
+<!ENTITY pkcs12.setpassword.title "Izbira gesla za varnostne kopije digitalnih potrdil">
+<!ENTITY pkcs12.setpassword.message "Geslo za varnostne kopije digitalnega potrdila, ki se ga tukaj nastavlja, ščiti varnostno kopijo, ki bo vsak čas narejena. To geslo morate nastaviti, če želite varnostno kopijo digitalnega potrdila.">
+<!ENTITY pkcs12.setpassword.label1 "Geslo za varnostne kopije digitalnih potrdil:">
+<!ENTITY pkcs12.setpassword.label2 "Geslo za varnostne kopije digitalnih potrdil (ponovno):">
+<!ENTITY pkcs12.setpassword.reminder "Pomembno: Če pozabite geslo za varnostno kopijo digitalnega potrdila, tega digitalnega potrdila pozneje ne boste mogli obnoviti. Prosim, shranite geslo na varnem mestu.">
 
 <!ENTITY pkcs12.getpassword.title "Pogovorno okno vnosa gesla">
-<!ENTITY pkcs12.getpassword.message "Prosim, uporabite geslo, ki je bilo uporabljeno za šifriranje te certifikatove varnostne kopije.">
+<!ENTITY pkcs12.getpassword.message "Prosim, uporabite geslo, ki je bilo uporabljeno za šifriranje te varnostne kopije digitalnega potrdila.">
 
 <!ENTITY chooseToken.title "Pogovorno okno izbiranja figure">
 <!ENTITY chooseToken.message1 "Prosim, izberite figuro.">
 
 <!ENTITY escrowWarn.title "Kopija šifrirnega ključa">
-<!ENTITY escrowWarn.message1 "Pomembno: Ta uradna oseba za certifikate (CA) želi narediti kopijo vašega šifrirnega privatnega ključa v namene izdelave varnostne kopije.">
-<!ENTITY escrowWarn.benefit1 "Prednost tega je, da če izgubite dostop do vašega privatnega ključa, lahko zahtevate kopijo od te uradne osebe za certifikate (CA).">
-<!ENTITY escrowWarn.message2 "Vendar pa bo vaš šifrirni privatni ključ shranjen pri uradni osebi za certifikate, kar lahko le-ta uporabi za branje šifrirane e-pošte ali dokumentov brez vašega dovoljenja.">
-<!ENTITY examineCert.label "Preglej certifikat">
+<!ENTITY escrowWarn.message1 "Pomembno: Ta uradna oseba za digitalna potrdila (CA) želi narediti kopijo vašega šifrirnega privatnega ključa v namene izdelave varnostne kopije.">
+<!ENTITY escrowWarn.benefit1 "Prednost tega je, da če izgubite dostop do vašega privatnega ključa, lahko zahtevate kopijo od te uradne osebe za digitalna potrdila (CA).">
+<!ENTITY escrowWarn.message2 "Vendar pa bo vaš šifrirni privatni ključ shranjen pri uradni osebi za digitalna potrdila, kar lahko le-ta uporabi za branje šifrirane e-pošte ali dokumentov brez vašega dovoljenja.">
+<!ENTITY examineCert.label "Preglej digitalno potrdilo">
 <!ENTITY examineCert.accesskey "P">
 
 <!ENTITY serverCrlNextupdate.message "Prosim, povprašajte sistemskega administratorja za pomoč">
@@ -122,8 +122,8 @@
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Zahteva podpisovanja besedila">
-<!ENTITY formSigning.cert "Certifikat za podpisovanje">
-<!ENTITY formSigning.confirmPassword "Za potrditev, da se strinjate, da boste podpisali besedilo tega sporočila z izbranim certifikatom, prosim, vnesite glavno geslo:">
+<!ENTITY formSigning.cert "Digitalno potrdilo za podpisovanje">
+<!ENTITY formSigning.confirmPassword "Za potrditev, da se strinjate, da boste podpisali besedilo tega sporočila z izbranim digitalnim potrdilom, prosim, vnesite glavno geslo:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Prijava v zaščiteno figuro">

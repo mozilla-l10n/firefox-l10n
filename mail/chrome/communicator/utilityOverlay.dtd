@@ -47,14 +47,14 @@
 <!ENTITY showTaskbarCmd.label					"Vrstica stanja">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY direct.label                                   "Na mreži (brez proxyja)">
+<!ENTITY direct.label                                   "Na mreži (brez posrednika)">
 <!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Na mreži (ročni proxy)">
+<!ENTITY manual.label                                   "Na mreži (ročni posrednik)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Na mreži (samodejni proxy)">
+<!ENTITY pac.label                                      "Na mreži (samodejni posrednik)">
 <!ENTITY pac.accesskey                                  "a">
 
-<!ENTITY proxy.label                                    "Nastavitve proxyja ...">
+<!ENTITY proxy.label                                    "Nastavitve posrednika ...">
 <!ENTITY proxy.accesskey                                "N">
 
 <!ENTITY findTypeTextCmd.key        "/">

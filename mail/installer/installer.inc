@@ -44,7 +44,7 @@ SelectFolder_Title=Namestitev $ProductName$ - Izbira programskega imenika
 SelectFolder_Message0=Ikone programa bodo dodane v imenik, določen spodaj. Če želite, lahko izberete drug imenik. Kliknite gumb Naprej za nadaljevanje.
 
 Advanced_Title=Namestitev $ProductName$ - Napredne nastavitve
-Advanced_Message0=V kolikor vaša povezava do interneta zahteva strežnik proxy, vnesite ime strežnika in podatke o vratih. V nasprotnem primeru pustite ta polja prazna.
+Advanced_Message0=Če vaša povezava do interneta zahteva posrednik, vnesite ime strežnika in podatke o vratih. V nasprotnem primeru pustite ta polja prazna.
 
 Install_Title=Povzetek
 Install_SubTitle=Vse je nared za namestitev programa $ProductName$.
