@@ -7,9 +7,6 @@ http://dsso.se/. The on-line database was created by
 combining Göran Andersson's ispell dictionary (version 1.3)
 and Tom Westerberg's large collection of root words.
 
-For OpenOffice.org installation instructions, see
-http://lingucomponent.openoffice.org/download_dictionary.html
-
 If you find a correct Swedish word that is missing from this
 dictionary, please go to http://dsso.se/ and insert it
 into the database; then it will be included in the next
@@ -19,7 +16,7 @@ release of this dictionary.
 * Copyright			*
 *********************************
 
-Copyright © 2003-08 Tom Westerberg <tweg@welho.com> and Göran Andersson <goran@init.se>.
+Copyright © 2003-2010 Göran Andersson <goran@init.se>.
 
 ******* BEGIN LICENSE BLOCK *******
 * Version: MPL 1.1/GPL 2.0/LGPL 2.1
