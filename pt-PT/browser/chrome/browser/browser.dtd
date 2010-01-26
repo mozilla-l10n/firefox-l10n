@@ -309,6 +309,8 @@ shortcut keys on Linux. -->
 <!ENTITY sendAudioCmd.accesskey       "e">
 <!ENTITY copyLinkCmd.label "Copiar endereço da ligação">
 <!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkText2Cmd.label       "Copiar texto da ligação">
+<!ENTITY copyLinkText2Cmd.accesskey   "x">
 <!ENTITY copyImageCmd.label "Copiar endereço da imagem">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Copiar a imagem">
