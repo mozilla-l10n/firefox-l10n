@@ -1,7 +1,7 @@
 <!ENTITY about.version "versión">
-<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2010 por">
-<!ENTITY about.copy.linkTitle "colaboradores">
-<!ENTITY about.copy.afterLink "al Proyecto Mozilla.">
+<!ENTITY about.credits.beforeLink "Vea una lista de ">
+<!ENTITY about.credits.linkTitle "colaboradores">
+<!ENTITY about.credits.afterLink " al proyecto Mozilla.">
 <!ENTITY about.license.beforeLink "Lea la">
 <!ENTITY about.license.linkTitle "información de licencia">
 <!ENTITY about.license.afterLink "para este producto.">
