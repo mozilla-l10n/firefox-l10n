@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "Följande kakor lagras på datorn:">
 <!ENTITY     cookiename.label               "Kakans namn">
 <!ENTITY     cookiedomain.label             "Webbplats"> 
+<!ENTITY     button.removecookies.label     "Ta bort kakor">
 <!ENTITY     button.removecookie.label      "Ta bort">
 <!ENTITY     button.removecookie.accesskey  "T">
 <!ENTITY     button.removeallcookies.label  "Ta bort alla">
