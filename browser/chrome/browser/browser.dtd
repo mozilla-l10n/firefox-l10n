@@ -339,8 +339,6 @@
 <!ENTITY sendAudioCmd.accesskey       "i">
 <!ENTITY copyLinkCmd.label            "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyLinkText2Cmd.label       "Kopiera länktext">
-<!ENTITY copyLinkText2Cmd.accesskey   "x">
 <!ENTITY copyImageCmd.label           "Kopiera bildadress">
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Kopiera bild">
