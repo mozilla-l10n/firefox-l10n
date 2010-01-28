@@ -2,7 +2,6 @@
 <!ENTITY copyright "공헌자">
 <!ENTITY aboutLink "&lt; &brandFullName; 정보">
 <!ENTITY aboutVersion "버전">
-<!ENTITY licenseLink			"about:license">
 <!ENTITY licenseLinkText		"라이선스 정보">
 <!ENTITY copyright.accesskey "C">
 <!ENTITY aboutLink.accesskey "A">
