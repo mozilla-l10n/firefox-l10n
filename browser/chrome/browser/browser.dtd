@@ -237,8 +237,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyLinkText2Cmd.label "링크 텍스트 복사">
-<!ENTITY copyLinkText2Cmd.accesskey "x">
 <!ENTITY copyImageCmd.label "그림 주소 복사">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "그림 복사">
