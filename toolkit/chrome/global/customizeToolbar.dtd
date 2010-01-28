@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "Araç çubuğunu özelleştirme">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY dialog.style "width: 86ch; height: 36em;">
 <!ENTITY instructions.description "Araç çubuklarına eklemek veya kaldırmak üzere öğeleri sürükleyin.">
 <!ENTITY show.label "Görünüm:">
 <!ENTITY iconsAndText.label "Simge ve metin">

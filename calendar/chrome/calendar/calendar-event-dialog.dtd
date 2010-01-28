@@ -153,15 +153,6 @@
 <!ENTITY event.menu.options.show.time.free.label "Serbest">
 <!ENTITY event.menu.options.show.time.free.accesskey "S">
 
-<!ENTITY event.help.label "Yardım">
-<!ENTITY event.help.accesskey "Y">
-<!ENTITY event.help.release.notes.label "Sürüm notları">
-<!ENTITY event.help.release.notes.accesskey "S">
-<!ENTITY event.help.help.label "&brandShortName; yardımı">
-<!ENTITY event.help.help.accesskey "y">
-<!ENTITY event.help.about.label "&brandShortName; hakkında">
-<!ENTITY event.help.about.accesskey "k">
-
 <!ENTITY event.invite.attendees.label "Katılımcıları davet et">
 <!ENTITY event.invite.attendees.accesskey "K">
 <!ENTITY event.email.attendees.label "Tüm katılımcılara e-posta yaz…">
