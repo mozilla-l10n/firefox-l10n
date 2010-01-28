@@ -1,7 +1,11 @@
 <!ENTITY about.version "버전">
-<!ENTITY about.copy.beforeLink "저작권  &copy; 1998-2008 by">
-<!ENTITY about.copy.linkTitle "개발자">
-<!ENTITY about.copy.afterLink "Mozilla 프로젝트에 있습니다.">
+
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Mozilla 프로젝트 ">
+<!ENTITY about.credits.linkTitle      "공헌자">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " 리스트">
+
 <!ENTITY about.license.beforeLink "제품에 대한 자세한 사항은">
 <!ENTITY about.license.linkTitle "라이센스 정보">
 <!ENTITY about.license.afterLink "를 참고하시기 바랍니다.">
