@@ -245,8 +245,6 @@
 <!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "z">
-<!ENTITY copyLinkText2Cmd.label "Copia testo del link">
-<!ENTITY copyLinkText2Cmd.accesskey "k">
 <!ENTITY copyImageCmd.label "Copia indirizzo immagine">
 <!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyImageContentsCmd.label "Copia immagine">
