@@ -1,7 +1,7 @@
-<!ENTITY inspectorTaskCmd.label "DOM Inspector">
+<!ENTITY inspectorTaskCmd.label "DOM denetçisi">
 <!ENTITY inspectorTaskCmd.commandkey "i">
 <!ENTITY inspectorTaskCmd.accesskey.ff "n">
-<!ENTITY inspectorTaskCmd.accesskey "I">
+<!ENTITY inspectorTaskCmd.accesskey "D">
 
 <!ENTITY inspectPageTaskCmd.label "Inspect Page">
 <!ENTITY inspectPageTaskCmd.accesskey "i">

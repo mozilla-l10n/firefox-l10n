@@ -1,5 +1,5 @@
 <!ENTITY Inspector.label "DOM denetçisi">
-<!ENTITY Sidebar.label "Sidebar">
+<!ENTITY Sidebar.label "Kenar çubuğu">
 <!ENTITY elementBlinking.label "Element Blinking">
 <!ENTITY blinkSelectedElement.label "Blink Selected Element">
 <!ENTITY blinkSelectedElement.accesskey "B">
