@@ -15,8 +15,8 @@
 <!ENTITY intro.attachment.label "Bu site eklenti olarak &quot;#3&quot; önerdi. Bu bir #2 (#1) dosya türü gibi gözüküyor ve burada bulunuyor:">
 <!ENTITY intro.attachment.noDesc.label "Bu site eklenti olarak &quot;#3&quot; önerdi. Bu bir #2  dosya türü gibi gözüküyor ve burada bulunuyor:">
 
-<!ENTITY intro.sniffed.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2 (#1). The file is located at:">
-<!ENTITY intro.sniffed.noDesc.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2. The file is located at:">
+<!ENTITY intro.sniffed.label "#4, #2 (#1) türünden olması olası &quot;#3&quot; dosyasını tespit etti: Dosyanın bulunduğu konum:">
+<!ENTITY intro.sniffed.noDesc.label "#4, #2 türünden olması olası &quot;#3&quot; dosyasını tespit etti: Dosyanın bulunduğu konum:">
 
 <!ENTITY prompt.label "Bu   #1  dosyası ile ne yapayım?">
 

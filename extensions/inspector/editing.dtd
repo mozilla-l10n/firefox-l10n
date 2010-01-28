@@ -1,4 +1,4 @@
-<!ENTITY mnEditUndo.label "Geri al ">
+<!ENTITY mnEditUndo.label "Geri al">
 <!ENTITY mnEditUndo.accesskey "G">
 <!ENTITY mnEditRedo.label "Yinele">
 <!ENTITY mnEditRedo.accesskey "Y">
@@ -10,7 +10,7 @@
 <!ENTITY mnEditPaste.accesskey "p">
 <!ENTITY mnEditInsert.label "Ekle">
 <!ENTITY mnEditInsert.accesskey "E">
-<!ENTITY mnEditEdit.label "Edit">
-<!ENTITY mnEditEdit.accesskey "e">
+<!ENTITY mnEditEdit.label "Düzenle">
+<!ENTITY mnEditEdit.accesskey "z">
 <!ENTITY mnEditDelete.label "Sil">
 <!ENTITY mnEditDelete.accesskey "S">

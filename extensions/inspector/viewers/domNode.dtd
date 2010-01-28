@@ -45,7 +45,7 @@
 
 <!ENTITY namespaceTitle.null.label "null">
 <!ENTITY namespaceTitle.default.label "Document Default">
-<!ENTITY namespaceTitle.custom.label "Custom">
+<!ENTITY namespaceTitle.custom.label "Özel">
 <!-- LOCALIZATION NOTE: The following entities are names of W3C specifications.
                         Please consult http://www.w3.org/Consortium/Translation/
                         for appropriate translation or leave unchanged. -->
