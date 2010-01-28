@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label "Bilgisayarınıza kayıtlı çerezler aşağıdadır:">
 <!ENTITY cookiename.label "Çerez ismi">
 <!ENTITY cookiedomain.label "Site">
+<!ENTITY button.removecookies.label "Remove Cookies">
 <!ENTITY button.removecookie.label "Çerezi sil">
 <!ENTITY button.removecookie.accesskey "r">
 <!ENTITY button.removeallcookies.label "Tüm çerezleri sil">

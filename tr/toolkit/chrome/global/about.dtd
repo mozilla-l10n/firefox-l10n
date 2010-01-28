@@ -1,8 +1,10 @@
 <!ENTITY about.version "sürüm">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
-<!ENTITY about.copy.beforeLink "Telif hakkı &copy; 1998-2010 Mozilla Projesi'ne">
-<!ENTITY about.copy.linkTitle "katkıda bulunanlar">
-<!ENTITY about.copy.afterLink ".">
+<!ENTITY about.credits.beforeLink "See a list of ">
+<!ENTITY about.credits.linkTitle "katkıda bulunanlar">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink " to the Mozilla Project.">
 
 <!ENTITY about.license.beforeLink "Bu ürünün">
 <!ENTITY about.license.linkTitle "lisans bilgilerini">

@@ -308,8 +308,6 @@
 <!ENTITY sendAudioCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey "B">
-<!ENTITY copyLinkTextCmd.label "Bağlantı metnini kopyala">
-<!ENTITY copyLinkTextCmd.accesskey "k">
 <!ENTITY copyImageCmd.label "Resim konumunu kopyala">
 <!ENTITY copyImageCmd.accesskey "k">
 <!ENTITY copyImageContentsCmd.label "Resmi kopyala">
