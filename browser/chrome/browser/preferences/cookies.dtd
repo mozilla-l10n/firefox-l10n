@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "De volgende cookies zijn op uw computer opgeslagen:">
 <!ENTITY     cookiename.label               "Cookienaam">
 <!ENTITY     cookiedomain.label             "Website"> 
+<!ENTITY     button.removecookies.label     "Cookies verwijderen">
 <!ENTITY     button.removecookie.label      "Cookie verwijderen">
 <!ENTITY     button.removecookie.accesskey  "v">
 <!ENTITY     button.removeallcookies.label  "Alle cookies verwijderen">
