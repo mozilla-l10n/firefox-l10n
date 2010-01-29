@@ -7,6 +7,5 @@
 <!ENTITY aboutVersion               "versie">
 <!ENTITY closeCmdGNOME.label        "Sluiten">  
 <!ENTITY closeCmdGNOME.accesskey    "S">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Licentie-informatie">
 <!ENTITY licenseLinkSuffix          ".">
