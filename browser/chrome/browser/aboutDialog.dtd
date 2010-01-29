@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion "verze">
 <!ENTITY closeCmdGNOME.label "Zavřít">
 <!ENTITY closeCmdGNOME.accesskey "Z">
-<!ENTITY copyrightInfo1 "&#169;1998-2010 přispěvatelé. Všechna práva vyhrazena. (">
-<!ENTITY licenseLink "about:license">
-<!ENTITY licenseLinkText "licenční informace">
-<!ENTITY copyrightInfo2 ").">
+<!ENTITY licenseLinkText "Licenční informace">
+<!ENTITY licenseLinkSuffix ".">
