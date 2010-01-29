@@ -114,6 +114,8 @@
 <!ENTITY mediaShowControls.accesskey    "C">
 <!ENTITY mediaHideControls.label        "Bediening verbergen">
 <!ENTITY mediaHideControls.accesskey    "C">
+<!ENTITY videoFullScreen.label        "Volledig scherm">
+<!ENTITY videoFullScreen.accesskey    "V">
 <!ENTITY search.accesskey               "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
