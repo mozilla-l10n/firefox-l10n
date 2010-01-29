@@ -7,7 +7,6 @@
 <!ENTITY aboutVersion               "versie">
 <!ENTITY closeCmdGNOME.label        "Sluiten">  
 <!ENTITY closeCmdGNOME.accesskey    "S">
-<!ENTITY copyrightInfo1             "&#169;1998-2010 Medewerkers. Alle rechten voorbehouden. (">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Licentie-informatie">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">
