@@ -1,8 +1,10 @@
 <!ENTITY about.version                "versie">
 
-<!ENTITY about.copy.beforeLink        "Auteursrecht &copy; 1998-2010 bij">
-<!ENTITY about.copy.linkTitle         "medewerkers">
-<!ENTITY about.copy.afterLink         "van het Mozilla-project.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Bekijk de lijst van ">
+<!ENTITY about.credits.linkTitle      "medewerkers">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " van het Mozilla-project.">
 
 <!ENTITY about.license.beforeLink     "Lees de">
 <!ENTITY about.license.linkTitle      "licentie-informatie">
