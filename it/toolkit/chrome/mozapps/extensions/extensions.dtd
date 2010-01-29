@@ -27,7 +27,7 @@
 <!ENTITY cmd.restartApp2.accesskey "R">
 <!ENTITY cmd.restartApp2.tooltip "Riavviare &brandShortName; per rendere effettive le modifiche">
 <!ENTITY cmd.skip.label "Tralascia">
-<!ENTITY cmd.skip.accesskey "a">
+<!ENTITY cmd.skip.accesskey "T">
 <!ENTITY cmd.skip.tooltip "Tralascia questi aggiornamenti">
 <!ENTITY cmd.continue.label "Continua">
 <!ENTITY cmd.continue.accesskey "C">
