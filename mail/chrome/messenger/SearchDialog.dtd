@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey    "i">
 <!ENTITY searchSubfolders.label     "Otsitakse ka alamkaustadest">
 <!ENTITY searchSubfolders.accesskey "m">
+<!ENTITY searchOnServer.label       "Otsitakse serverist">
+<!ENTITY searchOnServer.accesskey   "O">
 <!ENTITY resetButton.label          "Puhasta">
 <!ENTITY resetButton.accesskey      "P">
 <!ENTITY openButton.label           "Ava">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label           "Fail">
 <!ENTITY fileButton.accesskey       "i">
 <!ENTITY closeCmd.key               "W">
-<!ENTITY goToFolderButton.label     "Ava kirja sisaldav kaust">
-<!ENTITY goToFolderButton.accesskey "v">
+<!ENTITY openInFolder.label         "Ava kaustas">
+<!ENTITY openInFolder.accesskey     "v">
 <!ENTITY saveAsVFButton.label       "Salvesta otsing kaustana">
 <!ENTITY saveAsVFButton.accesskey   "v">
 
@@ -53,20 +55,20 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip      "Klõpsa näidatavate veergude valimiseks">
 <!ENTITY threadColumn.tooltip       "Klõpsa, et kuvada kirju lõimedena">
-<!ENTITY fromColumn.tooltip         "Klõpsa, et sortida saatja järgi">
-<!ENTITY recipientColumn.tooltip    "Klõpsa, et sortida saaja järgi">
-<!ENTITY subjectColumn.tooltip      "Klõpsa, et sortida teema järgi">
-<!ENTITY dateColumn.tooltip         "Klõpsa, et sortida kuupäeva järgi">
-<!ENTITY priorityColumn.tooltip     "Klõpsa, et sortida tähtsuse järgi">
-<!ENTITY tagsColumn.tooltip         "Klõpsa, et sortida siltide järgi">
-<!ENTITY accountColumn.tooltip      "Klõpsa, et sortida konto järgi">
-<!ENTITY statusColumn.tooltip       "Klõpsa, et sortida oleku järgi">
-<!ENTITY sizeColumn.tooltip         "Klõpsa, et sortida suuruse järgi">
-<!ENTITY junkStatusColumn.tooltip   "Klõpsa, et sortida rämpspostiks olemise järgi">
+<!ENTITY fromColumn.tooltip         "Klõpsa, et sorteerida saatja järgi">
+<!ENTITY recipientColumn.tooltip    "Klõpsa, et sorteerida saaja järgi">
+<!ENTITY subjectColumn.tooltip      "Klõpsa, et sorteerida teema järgi">
+<!ENTITY dateColumn.tooltip         "Klõpsa, et sorteerida kuupäeva järgi">
+<!ENTITY priorityColumn.tooltip     "Klõpsa, et sorteerida tähtsuse järgi">
+<!ENTITY tagsColumn.tooltip         "Klõpsa, et sorteerida siltide järgi">
+<!ENTITY accountColumn.tooltip      "Klõpsa, et sorteerida konto järgi">
+<!ENTITY statusColumn.tooltip       "Klõpsa, et sorteerida oleku järgi">
+<!ENTITY sizeColumn.tooltip         "Klõpsa, et sorteerida suuruse järgi">
+<!ENTITY junkStatusColumn.tooltip   "Klõpsa, et sorteerida rämpspostiks olemise järgi">
 <!ENTITY unreadColumn.tooltip       "Lugemata kirjade arv lõimes">
 <!ENTITY totalColumn.tooltip        "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn.tooltip         "Klõpsa, et sortida loetuse järgi">
-<!ENTITY receivedColumn.tooltip     "Klõpsa, et sortida saabumise aja järgi">
-<!ENTITY starredColumn.tooltip      "Klõpsa, et sortida tähistuse järgi">
-<!ENTITY locationColumn.tooltip     "Klõpsa, et sortida asukoha järgi">
-<!ENTITY idColumn.tooltip           "Klõpsa, et sortida kättesaamise järgi">
+<!ENTITY readColumn.tooltip         "Klõpsa, et sorteerida loetuse järgi">
+<!ENTITY receivedColumn.tooltip     "Klõpsa, et sorteerida saabumise aja järgi">
+<!ENTITY starredColumn.tooltip      "Klõpsa, et sorteerida tähistuse järgi">
+<!ENTITY locationColumn.tooltip     "Klõpsa, et sorteerida asukoha järgi">
+<!ENTITY idColumn.tooltip           "Klõpsa, et sorteerida kättesaamise järgi">

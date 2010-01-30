@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label           "RSS uudistevoo konto sätted">
+<!ENTITY accountTitle.label             "Konto sätted">
 
-<!ENTITY biffStart.label               "Uusi uudiseid kontrollitakse iga">
-<!ENTITY biffStart.accesskey           "u">
-<!ENTITY biffEnd.label                 "minuti järel">
+<!ENTITY biffStart.label                "Uusi uudiseid kontrollitakse iga">
+<!ENTITY biffStart.accesskey            "u">
+<!ENTITY biffEnd.label                  "minuti järel">
 
-<!ENTITY loginAtStartup.label          "Käivitumisel kontrollitakse uusi uudiseid">
-<!ENTITY loginAtStartup.accesskey      "K">
+<!ENTITY loginAtStartup.label           "Käivitumisel kontrollitakse uusi uudiseid">
+<!ENTITY loginAtStartup.accesskey       "K">
 
-<!ENTITY useQuickMode.label            "Vaikimisi tõmmatakse uudise kokkuvõte, mitte terve veebileht">
-<!ENTITY useQuickMode.accesskey        "V">
+<!ENTITY useQuickMode.label             "Vaikimisi tõmmatakse uudise kokkuvõte, mitte terve veebileht">
+<!ENTITY useQuickMode.accesskey         "V">
 
-<!ENTITY manageSubscriptions.label     "Halda tellimusi...">
-<!ENTITY manageSubscriptions.accesskey "H">
+<!ENTITY manageSubscriptions.label      "Halda tellimusi...">
+<!ENTITY manageSubscriptions.accesskey  "H">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName               "Uudised ja blogid">
-<!ENTITY rss.wizardShortName           "RSS uudistevood">
-<!ENTITY rss.wizardLongName            "RSS uudised ja blogid">
-<!ENTITY rss.wizardLongName.accesskey  "R">
+<!ENTITY feeds.accountName              "Blogid ja uudisvood">
+<!ENTITY feeds.wizardShortName          "Uudisvood">
+<!ENTITY feeds.wizardLongName           "Blogid ja uudisvood">
+<!ENTITY feeds.wizardLongName.accesskey "B">

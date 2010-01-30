@@ -1,14 +1,12 @@
 <!ENTITY prefWindow.titleWin     "Valikud">
 <!ENTITY prefWindow.titleGNOME   "&brandShortName;i eelistused">
-<!ENTITY prefWindow.styleWindows "width: 47em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac     "width: 47em;">
-<!ENTITY prefWindow.styleGNOME   "width: 47em;">
+<!ENTITY prefWindow.styleWindows "width: 49em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac     "width: 49em;">
+<!ENTITY prefWindow.styleGNOME   "width: 49em;">
 
 <!ENTITY paneGeneral.title       "Üldine">
 <!ENTITY paneDisplay.title       "Kuvamine">
 <!ENTITY paneComposition.title   "Koostamine">
 <!ENTITY paneAttachments.title   "Manused">
-<!ENTITY panePrivacy.title       "Privaatsus">
+<!ENTITY paneSecurity.title      "Turvalisus">
 <!ENTITY paneAdvanced.title      "Muud">
-
-<!ENTITY cmdCloseMac.commandKey   "w">

@@ -7,10 +7,14 @@
 <!ENTITY newFolderCmd.accesskey                        "a">
 <!ENTITY closeTabCmd.label                             "Sulge kaart">
 <!ENTITY closeTabCmd.accesskey                         "e">
+<!ENTITY closeOtherTabsCmd.label                       "Sulge teised kaardid">
+<!ENTITY closeOtherTabsCmd.accesskey                   "d">
 <!ENTITY newVirtualFolderCmd.label                     "Salvestatud otsing...">
 <!ENTITY newVirtualFolderCmd.accesskey                 "S">
-<!ENTITY newAccountCmd.label                           "Konto...">
-<!ENTITY newAccountCmd.accesskey                       "o">
+<!ENTITY newOtherAccountsCmd.label                     "Muud kontod…">
+<!ENTITY newOtherAccountsCmd.accesskey                 "o">
+<!ENTITY newEmailAccountCmd.label                      "E-posti konto…">
+<!ENTITY newEmailAccountCmd.accesskey                  "E">
 <!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
 <!ENTITY openMessageFileCmd.accesskey                  "i">
 <!ENTITY openAttachmentCmd.label                       "Manused">
@@ -44,8 +48,6 @@
 <!ENTITY compactFolders.accesskey                      "T">
 <!ENTITY emptyTrashCmd.label                           "Tühjenda Kustutatud">
 <!ENTITY emptyTrashCmd.accesskey                       "j">
-<!ENTITY importCmd.label                               "Impordi...">
-<!ENTITY importCmd.accesskey                           "I">
 <!ENTITY offlineMenu.label                             "Võrguta režiim">
 <!ENTITY offlineMenu.accesskey                         "i">
 <!ENTITY offlineGoOfflineCmd.label                     "Tööta võrguta">
@@ -98,9 +100,6 @@
 <!ENTITY folderPropsFolderCmd.label                    "Kausta omadused...">
 <!ENTITY folderPropsNewsgroupCmd.label                 "Uudistegrupi omadused...">
 <!ENTITY folderPropsCmd.accesskey                      "e">
-<!ENTITY accountManagerCmd.label                       "Kontode sätted...">
-<!ENTITY accountManagerCmd.accesskey                   "K">
-<!ENTITY accountManagerCmdUnix.accesskey               "K">
 <!ENTITY undoDeleteMsgCmd.label                        "Tühista kirja kustutamine">
 <!ENTITY redoDeleteMsgCmd.label                        "Korda kirja kustutamist">
 <!ENTITY undoMoveMsgCmd.label                          "Tühista kirja liigutamine">
@@ -133,6 +132,8 @@
 
 <!ENTITY folderView.label                              "Kaustad">
 <!ENTITY folderView.accesskey                          "K">
+<!ENTITY smartFolders.label                            "Targad">
+<!ENTITY smartFolders.accesskey                        "T">
 <!ENTITY allFolders.label                              "Kõik">
 <!ENTITY allFolders.accesskey                          "K">
 <!ENTITY unreadFolders.label                           "Lugemata">
@@ -143,7 +144,7 @@
 <!ENTITY recentFolders.accesskey                       "H">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label                                "Sortimine">
+<!ENTITY sortMenu.label                                "Sorteerimine">
 <!ENTITY sortMenu.accesskey                            "S">
 <!ENTITY sortByDateCmd.label                           "Kuupäev">
 <!ENTITY sortByDateCmd.accesskey                       "e">
@@ -181,7 +182,7 @@
 <!ENTITY sortThreaded.accesskey                        "i">
 <!ENTITY sortUnthreaded.label                          "Lõimedeta">
 <!ENTITY sortUnthreaded.accesskey                      "õ">
-<!ENTITY groupBySort.label                             "Grupeeritud sortimise järgi">
+<!ENTITY groupBySort.label                             "Grupeeritud sorteerimise järgi">
 <!ENTITY groupBySort.accesskey                         "G">
 <!ENTITY msgsMenu.label                                "Kirjad">
 <!ENTITY msgsMenu.accesskey                            "K">
@@ -203,6 +204,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey         "J">
 <!ENTITY ignoredThreadsCmd.label                       "Eiratavad lõimed">
 <!ENTITY ignoredThreadsCmd.accesskey                   "E">
+
 <!ENTITY headersMenu.label                             "Päised">
 <!ENTITY headersMenu.accesskey                         "P">
 <!ENTITY headersAllCmd.label                           "Kõik">
@@ -217,6 +219,16 @@
 <!ENTITY bodySanitized.accesskey                       "i">
 <!ENTITY bodyAsPlaintext.label                         "Lihttekst">
 <!ENTITY bodyAsPlaintext.accesskey                     "L">
+
+<!ENTITY bodyMenuFeed.label                            "Uudisvoo sisuks on">
+<!ENTITY bodyMenuFeed.accesskey                        "U">
+<!ENTITY viewFeedWebPage.label                         "Veebileht">
+<!ENTITY viewFeedWebPage.accesskey                     "V">
+<!ENTITY viewFeedSummary.label                         "Kokkuvõte">
+<!ENTITY viewFeedSummary.accesskey                     "o">
+<!ENTITY viewFeedSummaryFeedPropsPref.label            "Vaikimisi vorming">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey        "V">
+
 <!ENTITY viewAttachmentsInlineCmd.label                "Manuste kuvamine kirja sees">
 <!ENTITY viewAttachmentsInlineCmd.accesskey            "M">
 
@@ -304,12 +316,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevStarredMsgCmd.accesskey                   "T">
 <!ENTITY startPageCmd.label                            "Avaleht">
 <!ENTITY startPageCmd.accesskey                        "A">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label                                 "Kiri">
 <!ENTITY msgMenu.accesskey                             "K">
 <!ENTITY newMsgCmd.label                               "Uus kiri">
 <!ENTITY newMsgCmd.accesskey                           "U">
 <!ENTITY newNewMsgCmd.label                            "Kiri">
 <!ENTITY newNewMsgCmd.accesskey                        "K">
+<!ENTITY archiveMsgCmd.label                           "Arhiveeri">
+<!ENTITY archiveMsgCmd.accesskey                       "A">
+<!ENTITY archiveMsgCmd.key                             "a">
 <!ENTITY replyMsgCmd.label                             "Vasta">
 <!ENTITY replyMsgCmd.accesskey                         "V">
 <!ENTITY replyMsgCmd.key                               "r">
@@ -320,6 +337,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label                        "Vasta kõigile">
 <!ENTITY replyToAllMsgCmd.accesskey                    "k">
 <!ENTITY replyToAllMsgCmd.key                          "r">
+<!ENTITY replyToListMsgCmd.label                       "Vasta listile">
+<!ENTITY replyToListMsgCmd.accesskey                   "l">
+<!ENTITY replyToListMsgCmd.key                         "l">
 <!ENTITY forwardMsgCmd.label                           "Edasta">
 <!ENTITY forwardMsgCmd.accesskey                       "E">
 <!ENTITY forwardMsgCmd.key                             "l">
@@ -398,6 +418,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label                    "Ava kiri">
 <!ENTITY openMessageWindowCmd.accesskey                "A">
 <!ENTITY openMessageWindowCmd.key                      "o">
+<!ENTITY openFeedMessage.label                         "Ava uudisvoo sõnum">
+<!ENTITY openFeedMessage.accesskey                     "v">
+<!ENTITY openFeedWebPageInWindow.label                 "Veebileht uues aknas">
+<!ENTITY openFeedWebPageInWindow.accesskey             "e">
+<!ENTITY openFeedSummaryInWindow.label                 "Kokkuvõte uues aknas">
+<!ENTITY openFeedSummaryInWindow.accesskey             "t">
+<!ENTITY openFeedWebPageInMP.label                     "Vaheta veebilehe ja kokkuvõtte vahel kirja teksti paneelis">
+<!ENTITY openFeedWebPageInMP.accesskey                 "h">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label                              "Aken">
@@ -405,20 +433,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                               "Tööriistad">
 <!ENTITY tasksMenu.accesskey                           "T">
-<!ENTITY addons.label                                  "Lisad">
-<!ENTITY addons.accesskey                              "d">
 <!ENTITY messengerCmd.label                            "E-post ja uudistegrupid">
 <!ENTITY messengerCmd.accesskey                        "e">
-<!ENTITY messengerCmd.commandkey                       "1">
 <!ENTITY addressBookCmd.label                          "Aadressiraamat">
 <!ENTITY addressBookCmd.accesskey                      "A">
-<!ENTITY addressBookCmd.commandkey                     "2">
-<!ENTITY runJunkControls.label                         "Rakenda kaustale rämpspostifiltrit">
-<!ENTITY runJunkControls.accesskey                     "a">
-<!ENTITY deleteJunk.label                              "Kustuta kaustas rämpspostiks märgitud kirjad">
-<!ENTITY deleteJunk.accesskey                          "m">
-<!ENTITY errorConsoleCmd.label                         "Vigade konsool">
-<!ENTITY errorConsoleCmd.accesskey                     "i">
+<!ENTITY addressBookCmd.key                            "B">
+<!ENTITY addons.label                                  "Lisad">
+<!ENTITY addons.accesskey                              "d">
+<!ENTITY activitymanager.label                         "Tegevuste haldur">
+<!ENTITY activitymanager.accesskey                     "v">
+<!ENTITY savedFiles.label                              "Salvestatud failid">
+<!ENTITY savedFiles.accesskey                          "S">
+<!ENTITY savedFiles.key                                "j">
 <!ENTITY filtersCmd.label                              "E-posti filtrid...">
 <!ENTITY filtersCmd.accesskey                          "o">
 <!ENTITY filtersApply.label                            "Rakenda filtreid kaustale">
@@ -427,14 +453,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey             "f">
 <!ENTITY filtersApplyToMessage.label                   "Rakenda filtreid valitud kirjal">
 <!ENTITY filtersApplyToMessage.accesskey               "l">
+<!ENTITY runJunkControls.label                         "Rakenda kaustale rämpspostifiltrit">
+<!ENTITY runJunkControls.accesskey                     "a">
+<!ENTITY deleteJunk.label                              "Kustuta kaustas rämpspostiks märgitud kirjad">
+<!ENTITY deleteJunk.accesskey                          "m">
+<!ENTITY importCmd.label                               "Impordi...">
+<!ENTITY importCmd.accesskey                           "I">
+<!ENTITY errorConsoleCmd.label                         "Vigade konsool">
+<!ENTITY errorConsoleCmd.accesskey                     "i">
+<!ENTITY accountManagerCmd.label                       "Kontode sätted...">
+<!ENTITY accountManagerCmd.accesskey                   "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey               "K">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label                            "Tõmba kirjad">
 <!ENTITY newMsgButton.label                            "Kirjuta">
 <!ENTITY replyButton.label                             "Vasta">
 <!ENTITY replyAllButton.label                          "Vasta kõigile">
+<!ENTITY replyListButton.label                         "Vasta listile">
 <!ENTITY forwardButton.label                           "Edasta">
 <!ENTITY fileButton.label                              "Salvesta">
+<!ENTITY archiveButton.label                           "Arhiveeri">
 <!ENTITY nextButton.label                              "Järgmine">
 <!ENTITY previousButton.label                          "Eelmine">
 <!ENTITY backButton1.label                             "Tagasi">
@@ -448,6 +489,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label                              "Rämpspost">
 <!ENTITY notJunkButton.label                           "Pole rämpspost">
 <!ENTITY addressBookButton.label                       "Aadressiraamat">
+<!ENTITY glodaSearch.title                             "Üldotsing">
 <!ENTITY searchItem.title                              "Kiirotsing">
 <!ENTITY mailViewsToolbarItem.title                    "Kirja vaated">
 <!ENTITY folderLocationToolbarItem.title               "Kausta asukoht">
@@ -463,8 +505,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip                          "Loo uus kiri">
 <!ENTITY replyButton.tooltip                           "Vasta kirjale">
 <!ENTITY replyAllButton.tooltip                        "Vasta saatjale ja kõigile saajatele">
+<!ENTITY replyListButton.tooltip                       "Vasta meililistile">
 <!ENTITY forwardButton.tooltip                         "Edasta valitud kiri">
 <!ENTITY fileButton.tooltip                            "Salvesta valitud kiri">
+<!ENTITY archiveButton.tooltip                         "Arhiveeri valitud kirjad">
 <!ENTITY nextButton.tooltip                            "Kuva järgmist lugemata kirja">
 <!ENTITY previousButton.tooltip                        "Kuva eelmist lugemata kirja">
 <!ENTITY goForwardButton.tooltip                       "Mine ühe kirja võrra edasi">
@@ -475,7 +519,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.tooltip                           "Prindi valitud kiri">
 <!ENTITY stopButton.tooltip                            "Katkesta andmeedastus">
 <!ENTITY junkButton.tooltip                            "Märgi valitud kirjad rämpspostiks">
-<!ENTITY notJunkButton.tooltip                         "Eemalda sellelt kirjalt rämpsposti märge">
+<!ENTITY notJunkButton.tooltip                         "Märgi see kiri mitte rämpspostiks">
 <!ENTITY addressBookButton.tooltip                     "Ava aadressiraamat">
 <!ENTITY tagButton.tooltip                             "Sildista kirju">
 <!ENTITY compactButton.tooltip                         "Eemalda kustutatud kirjad valitud kaustast">
@@ -530,6 +574,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label                       "Nimi või e-posti aadress sisaldab:">
 <!ENTITY SearchNameOrEmail.accesskey                   "N">
 
+<!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.emptyText                      "Otsi kirju…">
+
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label                       "Teema">
 <!ENTITY searchFromMenu.label                          "Kellelt">
@@ -563,24 +610,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip                         "Klõpsa näidatavate veergude valimiseks">
 <!ENTITY threadColumn.tooltip                          "Klõpsa, et kuvada kirju lõimedena">
-<!ENTITY fromColumn.tooltip                            "Klõpsa, et sortida saatja järgi">
-<!ENTITY recipientColumn.tooltip                       "Klõpsa, et sortida adressaadi järgi">
-<!ENTITY subjectColumn.tooltip                         "Klõpsa, et sortida teema järgi">
-<!ENTITY dateColumn.tooltip                            "Klõpsa, et sortida kuupäeva järgi">
-<!ENTITY priorityColumn.tooltip                        "Klõpsa, et sortida prioriteedi järgi">
-<!ENTITY tagsColumn.tooltip                            "Klõpsa, et sortida siltide järgi">
-<!ENTITY accountColumn.tooltip                         "Klõpsa, et sortida kontode järgi">
-<!ENTITY statusColumn.tooltip                          "Klõpsa, et sortida oleku järgi">
-<!ENTITY sizeColumn.tooltip                            "Klõpsa, et sortida suuruse järgi">
-<!ENTITY junkStatusColumn.tooltip                      "Klõpsa, et sortida rämpspostiks olemise järgi">
+<!ENTITY fromColumn.tooltip                            "Klõpsa, et sorteerida saatja järgi">
+<!ENTITY recipientColumn.tooltip                       "Klõpsa, et sorteerida adressaadi järgi">
+<!ENTITY subjectColumn.tooltip                         "Klõpsa, et sorteerida teema järgi">
+<!ENTITY dateColumn.tooltip                            "Klõpsa, et sorteerida kuupäeva järgi">
+<!ENTITY priorityColumn.tooltip                        "Klõpsa, et sorteerida prioriteedi järgi">
+<!ENTITY tagsColumn.tooltip                            "Klõpsa, et sorteerida siltide järgi">
+<!ENTITY accountColumn.tooltip                         "Klõpsa, et sorteerida kontode järgi">
+<!ENTITY statusColumn.tooltip                          "Klõpsa, et sorteerida oleku järgi">
+<!ENTITY sizeColumn.tooltip                            "Klõpsa, et sorteerida suuruse järgi">
+<!ENTITY junkStatusColumn.tooltip                      "Klõpsa, et sorteerida rämpspostiks olemise järgi">
 <!ENTITY unreadColumn.tooltip                          "Lugemata kirjade arv lõimes">
 <!ENTITY totalColumn.tooltip                           "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn.tooltip                            "Klõpsa, et sortida loetuse järgi">
-<!ENTITY receivedColumn.tooltip                        "Klõpsa, et sortida saabumise aja järgi">
-<!ENTITY starredColumn.tooltip                         "Klõpsa, et sortida tähistuse järgi">
-<!ENTITY locationColumn.tooltip                        "Klõpsa, et sortida asukoha järgi">
-<!ENTITY idColumn.tooltip                              "Klõpsa, et sortida kättesaamise järgi">
-<!ENTITY attachmentColumn.tooltip                      "Klõpsa, et sortida manuste järgi">
+<!ENTITY readColumn.tooltip                            "Klõpsa, et sorteerida loetuse järgi">
+<!ENTITY receivedColumn.tooltip                        "Klõpsa, et sorteerida saabumise aja järgi">
+<!ENTITY starredColumn.tooltip                         "Klõpsa, et sorteerida tähistuse järgi">
+<!ENTITY locationColumn.tooltip                        "Klõpsa, er sorteerida asukoha järgi">
+<!ENTITY idColumn.tooltip                              "Klõpsa, et sorteerida kättesaamise järgi">
+<!ENTITY attachmentColumn.tooltip                      "Klõpsa, et sorteerida manuste järgi">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label                    "Ava kiri uues aknas">
@@ -589,12 +636,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey                   "k">
 <!ENTITY contextEditAsNew.label                        "Redigeeri uuena...">
 <!ENTITY contextEditAsNew.accesskey                    "R">
+<!ENTITY contextArchive.label                          "Arhiveeri">
+<!ENTITY contextArchive.accesskey                      "h">
 <!ENTITY contextReplySender.label                      "Vasta ainult saatjale">
 <!ENTITY contextReplySender.accesskey                  "S">
 <!ENTITY contextReplyNewsgroup.label                   "Vasta uudistegruppi">
 <!ENTITY contextReplyNewsgroup.accesskey               "u">
 <!ENTITY contextReplyAll.label                         "Vasta kõigile">
 <!ENTITY contextReplyAll.accesskey                     "s">
+<!ENTITY contextReplyList.label                        "Vasta listile">
+<!ENTITY contextReplyList.accesskey                    "l">
 <!ENTITY contextForward.label                          "Edasta">
 <!ENTITY contextForward.accesskey                      "d">
 <!ENTITY contextForwardAsAttachment.label              "Edasta manusena">
@@ -612,14 +663,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label                     "Printimise eelvaade">
 <!ENTITY contextPrintPreview.accesskey                 "r">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label                             "Esita">
+<!ENTITY contextPlay.accesskey                         "E">
+<!ENTITY contextPause.label                            "Paus">
+<!ENTITY contextPause.accesskey                        "P">
+<!ENTITY contextMute.label                             "Summuta">
+<!ENTITY contextMute.accesskey                         "S">
+<!ENTITY contextUnmute.label                           "Summutus maha">
+<!ENTITY contextUnmute.accesskey                       "m">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label                         "Rämpspost">
 <!ENTITY junkBarButton1.label                          "Pole rämpspost">
 <!ENTITY junkInfoButton.label                          "?">
 
 <!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label                   "Sinu privaatsuse kaitsmiseks on välised pildid selles kirjas blokeeritud">
-<!ENTITY loadRemoteContentButton2.label                "Laadi pildid">
+<!ENTITY remoteContentMessage2.label                   "Sinu privaatsuse kaitsmiseks on väline sisu selles kirjas blokeeritud">
+<!ENTITY loadRemoteContentButton3.label                "Näita välist sisu">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label                     "Selle kirja puhul võib olla tegemist e-posti pettusega">
@@ -631,6 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key                            "k">
+<!ENTITY searchAllMessages.label                       "Otsi kõiki kirju">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label                        "Lisa aadressiraamatusse...">
@@ -641,10 +703,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey                         "R">
 <!ENTITY ViewContact.label                             "Vaata kontakti">
 <!ENTITY ViewContact.accesskey                         "V">
-<!ENTITY SendMailTo.label                              "Saada kiri">
-<!ENTITY SendMailTo.accesskey                          "S">
+<!ENTITY SubscribeToNewsgroup.label                    "Telli uudisgrupp">
+<!ENTITY SubscribeToNewsgroup.accesskey                "T">
+<!ENTITY SendMessageTo.label                           "Saada kiri">
+<!ENTITY SendMessageTo.accesskey                       "S">
 <!ENTITY CopyEmailAddress.label                        "Kopeeri e-posti aadress">
 <!ENTITY CopyEmailAddress.accesskey                    "K">
+<!ENTITY CopyNewsgroupName.label                       "Kopeeri uudisgrupi nimi">
+<!ENTITY CopyNewsgroupName.accesskey                   "u">
+<!ENTITY CopyNewsgroupURL.label                        "Kopeeri uudisgrupi URL">
+<!ENTITY CopyNewsgroupURL.accesskey                    "o">
 <!ENTITY CreateFilterFrom.label                        "Loo filter...">
 <!ENTITY CreateFilterFrom.accesskey                    "f">
 <!ENTITY reportPhishingURL.label                       "Teavita e-posti pettusest">
@@ -655,16 +723,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey                       "k">
 <!ENTITY saveImageAsCmd.label                          "Salvesta pilt kui...">
 <!ENTITY saveImageAsCmd.accesskey                      "v">
+<!ENTITY cutCmd.label                                  "Lõika">
+<!ENTITY cutCmd.accesskey                              "L">
 <!ENTITY copyCmd.label                                 "Kopeeri">
 <!ENTITY copyCmd.accesskey                             "K">
+<!ENTITY pasteCmd.label                                "Aseta">
+<!ENTITY pasteCmd.accesskey                            "A">
 <!ENTITY selectAllCmd.label                            "Vali kõik">
 <!ENTITY selectAllCmd.accesskey                        "V">
 <!ENTITY copyLinkCmd.label                             "Kopeeri lingi asukoht">
 <!ENTITY copyLinkCmd.accesskey                         "o">
-<!ENTITY copyImageCmd.label                            "Kopeeri pildi asukoht">
-<!ENTITY copyImageCmd.accesskey                        "p">
+<!ENTITY copyImageAllCmd.label                         "Kopeeri pilt">
+<!ENTITY copyImageAllCmd.accesskey                     "p">
 <!ENTITY copyEmailCmd.label                            "Kopeeri e-posti aadress">
 <!ENTITY copyEmailCmd.accesskey                        "e">
+<!ENTITY stopCmd.label                                 "Peata">
+<!ENTITY stopCmd.accesskey                             "t">
+<!ENTITY reloadCmd.label                               "Laadi uuesti">
+<!ENTITY reloadCmd.accesskey                           "d">
+<!ENTITY openInBrowser.label                           "Ava brauseris">
+<!ENTITY openInBrowser.accesskey                       "u">
+<!ENTITY openLinkInBrowser.label                       "Ava link brauseris">
+<!ENTITY openLinkInBrowser.accesskey                   "i">
+
 
 <!-- Statusbar -->
 <!ENTITY statusText.label                              "Valmis">

@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey          "s">
 <!ENTITY organization.label         "Organisatsioon">
 <!ENTITY organization.accesskey     "O">
-<!ENTITY signature.label            "Lisatakse signatuur:">
-<!ENTITY signature.accesskey        "t">
+<!ENTITY signatureText.label        "Signatuur:">
+<!ENTITY signatureText.accesskey    "t">
+<!ENTITY signatureHtml.label        "Kasutatakse HTMLi (näiteks &lt;b&gt;paks kiri&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey    "K">
+<!ENTITY signatureFile.label        "Signatuur lisatakse failist (tekst, HTML või pilt):">
+<!ENTITY signatureFile.accesskey    "l">
 <!ENTITY edit.label                 "Redigeeri...">
 <!ENTITY choose.label               "Vali...">
 <!ENTITY choose.accesskey           "V">
@@ -26,8 +30,8 @@
 
 <!ENTITY manageIdentities.label     "Halda identiteete...">
 <!ENTITY manageIdentities.accesskey "H">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label             "Väljuva e-posti server (SMTP):">
 <!ENTITY smtpName.accesskey         "u">
 <!ENTITY smtpDefaultServer.label    "kasutatakse vaikimisi serverit">

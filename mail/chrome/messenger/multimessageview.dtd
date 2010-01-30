@@ -1,0 +1,4 @@
+<!ENTITY window.title             "Kirja kokkuvõte">
+<!ENTITY selectedmessages.label   "Valitud kirjad">
+<!ENTITY archive.label            "arhiveeri">
+<!ENTITY delete.label             "kustuta">

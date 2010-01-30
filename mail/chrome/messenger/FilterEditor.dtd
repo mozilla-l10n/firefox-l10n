@@ -1,39 +1,41 @@
-<!ENTITY window.title               "Filtri reeglid">
+<!ENTITY window.title                "Filtri reeglid">
 
-<!ENTITY filterName.label           "Filtri nimi:">
-<!ENTITY filterName.accesskey       "n">
+<!ENTITY filterName.label            "Filtri nimi:">
+<!ENTITY filterName.accesskey        "n">
 
-<!ENTITY junk.label                 "Rämpspost">
-<!ENTITY notJunk.label              "Pole rämpspost">
+<!ENTITY junk.label                  "Rämpspost">
+<!ENTITY notJunk.label               "Pole rämpspost">
 
-<!ENTITY lowestPriorityCmd.label    "Madalaim">
-<!ENTITY lowPriorityCmd.label       "Madal">
-<!ENTITY normalPriorityCmd.label    "Tavaline">
-<!ENTITY highPriorityCmd.label      "Kõrge">
-<!ENTITY highestPriorityCmd.label   "Kõrgeim">
+<!ENTITY lowestPriorityCmd.label     "Madalaim">
+<!ENTITY lowPriorityCmd.label        "Madal">
+<!ENTITY normalPriorityCmd.label     "Tavaline">
+<!ENTITY highPriorityCmd.label       "Kõrge">
+<!ENTITY highestPriorityCmd.label    "Kõrgeim">
 
-<!ENTITY contextDesc.label          "Filtrit rakendatakse kui:">
-<!ENTITY contextDesc.accesskey      "F">
-<!ENTITY contextIncoming.label      "kontrollitakse uusi kirju">
-<!ENTITY contextManual.label        "käivitatakse manuaalselt">
-<!ENTITY contextBoth.label          "kontrollitakse uusi kirju või käivitatakse manuaalselt">
-<!ENTITY filterActionDesc.label     "Sooritatakse järgnev tegevus:">
-<!ENTITY filterActionDesc.accesskey "R">
+<!ENTITY contextDesc.label           "Filtrit rakendatakse kui:">
+<!ENTITY contextDesc.accesskey       "F">
+<!ENTITY contextIncoming.label       "kontrollitakse uusi kirju">
+<!ENTITY contextManual.label         "käivitatakse manuaalselt">
+<!ENTITY contextBoth.label           "kontrollitakse uusi kirju või käivitatakse manuaalselt">
+<!ENTITY contextPostPlugin.label     "kontrollitakse uusi kirju (pärast liigitamist)">
+<!ENTITY contextPostPluginBoth.label "kontrollitakse uusi kirju (pärast liigitamist) või käivitatakse manuaalselt">
+<!ENTITY filterActionDesc.label      "Sooritatakse järgnev tegevus:">
+<!ENTITY filterActionDesc.accesskey  "R">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label          "kiri tõstetakse kausta">
-<!ENTITY copyMessage.label          "kiri kopeeritakse kausta">
-<!ENTITY forwardTo.label            "kiri edastatakse aadressile">
-<!ENTITY replyWithTemplate.label    "vastatakse malli abil">
-<!ENTITY markMessageRead.label      "märgitakse loetuks">
-<!ENTITY markMessageStarred.label   "lisatakse märgistus">
-<!ENTITY setPriority.label          "prioriteediks määratakse">
-<!ENTITY addTag.label               "kiri sildistatakse">
-<!ENTITY setJunkScore.label         "rämpsposti olekuks määratakse">
-<!ENTITY deleteMessage.label        "kiri kustutatakse">
-<!ENTITY deleteFromPOP.label        "kustutakse POP-serverist">
-<!ENTITY fetchFromPOP.label         "tõmmatakse POP-serverist">
-<!ENTITY ignoreThread.label         "lõime eiratakse">
-<!ENTITY ignoreSubthread.label      "alamlõime eiratakse">
-<!ENTITY watchThread.label          "lõime jälgitakse">
-<!ENTITY stopExecution.label        "filtri rakendamine peatatakse">
+<!ENTITY moveMessage.label           "kiri tõstetakse kausta">
+<!ENTITY copyMessage.label           "kiri kopeeritakse kausta">
+<!ENTITY forwardTo.label             "kiri edastatakse aadressile">
+<!ENTITY replyWithTemplate.label     "vastatakse malli abil">
+<!ENTITY markMessageRead.label       "märgitakse loetuks">
+<!ENTITY markMessageStarred.label    "lisatakse märgistus">
+<!ENTITY setPriority.label           "prioriteediks määratakse">
+<!ENTITY addTag.label                "kiri sildistatakse">
+<!ENTITY setJunkScore.label          "rämpsposti olekuks määratakse">
+<!ENTITY deleteMessage.label         "kiri kustutatakse">
+<!ENTITY deleteFromPOP.label         "kustutakse POP-serverist">
+<!ENTITY fetchFromPOP.label          "tõmmatakse POP-serverist">
+<!ENTITY ignoreThread.label          "lõime eiratakse">
+<!ENTITY ignoreSubthread.label       "alamlõime eiratakse">
+<!ENTITY watchThread.label           "lõime jälgitakse">
+<!ENTITY stopExecution.label         "filtri rakendamine peatatakse">

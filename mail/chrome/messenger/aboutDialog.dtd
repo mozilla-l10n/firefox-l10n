@@ -1,10 +1,19 @@
-<!ENTITY aboutDialog.title      "&brandFullName;i teave">
-<!ENTITY credits.label          "Autorid">
-<!ENTITY credits.accesskey      "A">
-<!ENTITY aboutLink.label        "&lt; &brandFullName;i teave">
-<!ENTITY aboutLink.accesskey    "t">
-<!ENTITY aboutVersion           "versioon">
-<!ENTITY copyrightText          "&#169;1998-2006 autorid. Kõik õigused kaitstud. Mozilla Thunderbird ja 
-                                 Thunderbirdi logod on Mozilla Foundationi kaubamärgid.  Kõik õigused 
-                                 kaitstud.">
-<!ENTITY cmdCloseMac.commandKey "w">
+<!ENTITY aboutDialog.title           "&brandFullName;i teave">
+<!ENTITY aboutButton.label           "&lt; Tagasi">
+<!ENTITY aboutButton.accesskey       "T">
+<!ENTITY aboutVersion                "versioon">
+<!ENTITY copyrightText               "&#169;1998-2009 autorid. Kõik õigused kaitstud. Mozilla Thunderbird ja 
+                                      Thunderbirdi logod on Mozilla Foundationi kaubamärgid.  Kõik õigused 
+                                      kaitstud.">
+<!ENTITY aboutMenu.label             "Teave">
+<!ENTITY aboutMenu.accesskey         "T">
+<!ENTITY aboutCredits.label          "Autorid">
+<!ENTITY aboutCredits.accesskey      "A">
+<!ENTITY aboutRights.label           "Sinu õigused">
+<!ENTITY aboutRights.accesskey       "S">
+<!ENTITY aboutContributors.label     "Toetajad">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label          "Litsents">
+<!ENTITY aboutLicense.accesskey      "L">
+
+<!ENTITY cmdCloseMac.commandKey      "w">

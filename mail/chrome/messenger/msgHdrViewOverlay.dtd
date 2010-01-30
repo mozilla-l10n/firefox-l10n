@@ -35,58 +35,86 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label                    "kellele ">
-<!ENTITY fromField2.label                  "kellelt ">
-<!ENTITY senderField2.label                "saatja ">
-<!ENTITY organizationField2.label          "organisatsioon ">
-<!ENTITY replyToField2.label               "vastamise aadress ">
+<!ENTITY toField2.label                            "kellele ">
+<!ENTITY fromField2.label                          "kellelt ">
+<!ENTITY senderField2.label                        "saatja ">
+<!ENTITY organizationField2.label                  "organisatsioon ">
+<!ENTITY replyToField2.label                       "vastamise aadress ">
 
-<!ENTITY subjectField2.label               "teema ">
+<!ENTITY subjectField2.label                       "teema ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label                    "cc ">
-<!ENTITY bccField2.label                   "pimekoopia ">
-<!ENTITY newsgroupsField2.label            "uudistegrupid ">
-<!ENTITY followupToField2.label            "järg postitusele ">
-<!ENTITY tagsHdr2.label                    "sildid ">
-<!ENTITY dateField2.label                  "kuupäev ">
-<!ENTITY userAgentField2.label             "e-posti klient ">
-<!ENTITY referencesField2.label            "viited ">
-<!ENTITY messageIdField2.label             "kirja-id ">
-<!ENTITY inReplyToField2.label             "vastus-kirjale ">
-<!ENTITY originalWebsite2.label            "veebileht ">
+<!ENTITY ccField2.label                            "cc ">
+<!ENTITY bccField2.label                           "pimekoopia ">
+<!ENTITY newsgroupsField2.label                    "uudistegrupid ">
+<!ENTITY followupToField2.label                    "järg postitusele ">
+<!ENTITY tagsHdr2.label                            "sildid ">
+<!ENTITY dateField2.label                          "kuupäev ">
+<!ENTITY userAgentField2.label                     "e-posti klient ">
+<!ENTITY referencesField2.label                    "viited ">
+<!ENTITY messageIdField2.label                     "kirja-id ">
+<!ENTITY inReplyToField2.label                     "vastus-kirjale ">
+<!ENTITY originalWebsite2.label                    "veebileht ">
 
-<!ENTITY editMessageDescription.label      "See kiri on mustand">
-<!ENTITY editMessageButton.label           "Redigeeri...">
-<!ENTITY replyButton.label                 "vasta...">
-<!ENTITY forwardButton.label               "edasta...">
-<!ENTITY junkButton.label                  "märgi rämpsuks">
-<!ENTITY trashButton.tooltiptext           "kustuta">
+<!ENTITY editMessageDescription.label              "See kiri on mustand">
+<!ENTITY editMessageButton.label                   "Redigeeri...">
+<!ENTITY hdrArchiveButton.label                    "arhiveeri">
+<!ENTITY hdrArchiveButton.tooltip                  "arhiveeri see kiri">
+<!ENTITY hdrReplyButton.label                      "vasta">
+<!ENTITY hdrReplyButton.tooltip                    "vasta sellele kirjale">
+<!ENTITY hdrReplyAllButton.label                   "vasta kõigile">
+<!ENTITY hdrReplyAllButton.tooltip                 "vasta saatjale ja kõigile saajatele">
+<!ENTITY hdrReplyListButton.label                  "vasta listile">
+<!ENTITY hdrReplyListButton.tooltip                "vasta meililistile">
+<!ENTITY hdrForwardButton.label                    "edasta">
+<!ENTITY hdrForwardButton.tooltip                  "edasta see kiri">
+<!ENTITY hdrJunkButton.label                       "märgi rämpsuks">
+<!ENTITY hdrJunkButton.tooltip                     "märgi see kiri rämpspostiks">
+<!ENTITY hdrTrashButton.label                      "kustuta">
+<!ENTITY hdrTrashButton.tooltip                    "kustuta see kiri">
 
-<!ENTITY otherActionsButton.label          "muud tegevused">
-<!ENTITY saveAsMenuItem.label              "salvesta kui...">
-<!ENTITY saveAsMenuItem.accesskey          "s">
-<!ENTITY viewSourceMenuItem.label          "vaata lähtekoodi...">
-<!ENTITY viewSourceMenuItem.accesskey      "v">
+<!ENTITY hdrViewToolbarShowFull.label              "Kuvatakse ikoone ja teksti">
+<!ENTITY hdrViewToolbarShowFull.accesskey          "K">
+<!ENTITY hdrViewToolbarShowIcons.label             "Kuvatakse ainult ikoone">
+<!ENTITY hdrViewToolbarShowIcons.accesskey         "u">
+<!ENTITY hdrViewToolbarShowText.label              "Kuvatakse ainult teksti">
+<!ENTITY hdrViewToolbarShowText.accesskey          "v">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label     "Alati kuvatakse saatjale vastamise nuppu">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-<!ENTITY hideDetailsButton.label           "peida üksikasjad">
-<!ENTITY showDetailsButton.label           "näita üksikasju">
+<!ENTITY otherActionsButton.label                  "muud tegevused">
+<!ENTITY otherActionsShowConversation.label        "kuva vestlusena">
+<!ENTITY otherActionsShowConversation.accesskey    "s">
+<!ENTITY otherActionsOpenInNewWindow.label         "ava uues aknas">
+<!ENTITY otherActionsOpenInNewWindow.accesskey     "v">
+<!ENTITY otherActionsOpenInNewTab.label            "ava uuel kaardil">
+<!ENTITY otherActionsOpenInNewTab.accesskey        "u">
+<!ENTITY markAsReadMenuItem.label                  "märgi loetuks">
+<!ENTITY markAsReadMenuItem.accesskey              "m">
+<!ENTITY markAsUnreadMenuItem.label                "märgi mitteloetuks">
+<!ENTITY markAsUnreadMenuItem.accesskey            "g">
+<!ENTITY saveAsMenuItem.label                      "salvesta kui...">
+<!ENTITY saveAsMenuItem.accesskey                  "s">
+<!ENTITY viewSourceMenuItem.label                  "vaata lähtekoodi...">
+<!ENTITY viewSourceMenuItem.accesskey              "v">
+<!ENTITY otherActionsPrint.label                   "prindi…">
+<!ENTITY otherActionsPrint.accesskey               "p">
 
-<!ENTITY openAttachmentCmd.label           "Ava">
-<!ENTITY openAttachmentCmd.accesskey       "A">
-<!ENTITY saveAsAttachmentCmd.label         "Salvesta kui...">
-<!ENTITY saveAsAttachmentCmd.accesskey     "k">
-<!ENTITY detachAttachmentCmd.label         "Eemalda...">
-<!ENTITY deleteAttachmentCmd.label         "Kustuta">
-<!ENTITY saveAllAttachmentsCmd.label       "Salvesta kõik...">
-<!ENTITY saveAllAttachmentsCmd.accesskey   "l">
-<!ENTITY detachAllAttachmentsCmd.label     "Eemalda kõik...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "E">
-<!ENTITY deleteAllAttachmentsCmd.label     "Kustuta kõik...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "U">
+<!ENTITY openAttachmentCmd.label                   "Ava">
+<!ENTITY openAttachmentCmd.accesskey               "A">
+<!ENTITY saveAsAttachmentCmd.label                 "Salvesta kui...">
+<!ENTITY saveAsAttachmentCmd.accesskey             "k">
+<!ENTITY detachAttachmentCmd.label                 "Eemalda...">
+<!ENTITY deleteAttachmentCmd.label                 "Kustuta">
+<!ENTITY saveAllAttachmentsCmd.label               "Salvesta kõik...">
+<!ENTITY saveAllAttachmentsCmd.accesskey           "l">
+<!ENTITY detachAllAttachmentsCmd.label             "Eemalda kõik...">
+<!ENTITY detachAllAttachmentsCmd.accesskey         "E">
+<!ENTITY deleteAllAttachmentsCmd.label             "Kustuta kõik...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey         "U">
 
-<!ENTITY copyLinkCmd.label                 "Kopeeri lingi asukoht">
-<!ENTITY copyLinkCmd.accesskey             "g">
+<!ENTITY copyLinkCmd.label                         "Kopeeri lingi asukoht">
+<!ENTITY copyLinkCmd.accesskey                     "g">
 
-<!ENTITY CopyMessageId.label               "Kopeeri kirja-ID">
-<!ENTITY OpenMessageForMsgId.label         "Ava kiri ID-ga">
-<!ENTITY OpenBrowserWithMsgId.label        "Ava brauser kirja ID-ga">
+<!ENTITY CopyMessageId.label                       "Kopeeri kirja-ID">
+<!ENTITY OpenMessageForMsgId.label                 "Ava kiri ID-ga">
+<!ENTITY OpenBrowserWithMsgId.label                "Ava brauser kirja ID-ga">

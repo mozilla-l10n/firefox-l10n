@@ -50,21 +50,25 @@
 <!ENTITY folderRebuildSummaryFileTip.label      "Loo kokkuvõtte fail uuesti">
 
 <!ENTITY retention.label                        "Säilitamise reeglid">
-<!ENTITY retentionUseDefault.label              "Kasutatakse serveri sätteid">
-<!ENTITY retentionUseDefault.accesskey          "s">
+<!ENTITY retentionUseAccount.label              "Kasutatakse minu konto sätteid">
+<!ENTITY retentionUseAccount.accesskey          "s">
 <!ENTITY daysOld.label                          "päeva">
 <!ENTITY message.label                          "kirja">
-<!ENTITY retentionCleanup.label                 "Kettaruumi vabastamiseks on võimalik kirju jäädavalt kustutada">
+<!ENTITY retentionCleanup.label                 "Kettaruumi vabastamiseks on võimalik vanad kirjad jäädavalt kustutada">
+<!ENTITY retentionCleanupImap.label             "Kettaruumi vabastamiseks on võimalik vanad kirjad jäädavalt kustutada; nii kohalikud koopiad kui ka originaalid kaugserverist.">
+<!ENTITY retentionCleanupPop.label              "Kettaruumi vabastamiseks on võimalik vanad kirjad jäädavalt kustutada; kaasa arvatud originaalid kaugserverist.">
 <!ENTITY retentionDeleteMsg.label               "Kustutatakse vanemad kirjad kui">
 <!ENTITY retentionDeleteMsg.accesskey           "m">
 <!ENTITY retentionKeepAll.label                 "Ühtegi kirja ei kustutata">
 <!ENTITY retentionKeepAll.accesskey             "E">
-<!ENTITY retentionKeepNew.label                 "Kustutatakse kõik peale viimase">
-<!ENTITY retentionKeepNew.accesskey             "m">
-<!ENTITY retentionKeepUnread.label              "Alati kustutatakse loetud kirjad">
-<!ENTITY retentionKeepUnread.accesskey          "t">
+<!ENTITY retentionKeepRecent.label              "Kustutatakse kõik peale hiljutiste">
+<!ENTITY retentionKeepRecent.accesskey          "j">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label        "Alati kustutatakse loetud kirjad (ei arvestata aja sätteid)">
+<!ENTITY retentionApplyToFlagged.label          "Alati säilitatakse tähistatud kirjad">
+<!ENTITY retentionApplyToFlagged.accesskey      "l">
 
-<!ENTITY folderOfflineTab.label                 "Võrguta režiim">
+<!ENTITY folderSynchronizationTab.label         "Sünkroniseerimine">
 <!ENTITY folderCheckForNewMessages.label        "Kontrollitakse uusi kirju selles kaustas">
 <!ENTITY folderCheckForNewMessages.accesskey    "K">
 

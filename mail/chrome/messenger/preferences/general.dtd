@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label           "Süsteemi vaikesätted">
-<!ENTITY alwaysCheckDefault.label       "Käivitumisel kontrollitakse alati, kas &brandShortName; on vaikimisi e-posti klient">
-<!ENTITY alwaysCheckDefault.accesskey   "a">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height      "3em">
-<!ENTITY checkNow.label                 "Kontrolli nüüd">
-<!ENTITY checkNow.accesskey             "n">
-
 <!ENTITY messengerStartPage.label       "&brandShortName;i avaleht">
 <!ENTITY enableStartPage.label          "&brandShortName;i käivitumisel näidatakse kirja alas avalehte">
 <!ENTITY enableStartPage.accesskey      "i">

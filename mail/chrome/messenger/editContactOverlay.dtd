@@ -1,11 +1,14 @@
-<!ENTITY editContactName.label            "Nimi:">
-<!ENTITY editContactName.accesskey        "N">
+<!ENTITY editContactPanelDeleteContact.label     "Kustuta">
+<!ENTITY editContactPanelDeleteContact.accesskey "K">
 
-<!ENTITY editContactEmail.label           "E-post:">
-<!ENTITY editContactEmail.accesskey       "E">
+<!ENTITY editContactName.label                   "Nimi:">
+<!ENTITY editContactName.accesskey               "N">
 
-<!ENTITY editContactPanelCancel.label     "Loobu">
-<!ENTITY editContactPanelCancel.accesskey "L">
+<!ENTITY editContactEmail.label                  "E-post:">
+<!ENTITY editContactEmail.accesskey              "E">
 
-<!ENTITY editContactPanelDone.label       "Valmis">
-<!ENTITY editContactPanelDone.accesskey   "V">
+<!ENTITY editContactPanelCancel.label            "Loobu">
+<!ENTITY editContactPanelCancel.accesskey        "L">
+
+<!ENTITY editContactPanelDone.label              "Valmis">
+<!ENTITY editContactPanelDone.accesskey          "V">

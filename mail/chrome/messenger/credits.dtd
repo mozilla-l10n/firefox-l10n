@@ -1,6 +1,5 @@
 <!ENTITY credit.title          "&brandFullName;i teave">
 <!ENTITY brandMotto            "Thunderbird on lahe!">
-<!ENTITY credit.leads          "Arendamise juhtimine">
 <!ENTITY credit.thanks         "Erilised tänud">
 <!-- localization credits look like this: -->
 <!--
@@ -9,8 +8,5 @@
 -->
 <!ENTITY credit.translation    "<h3>Lokaliseerimine</h3><ul><li>Sander Lepik</li><li>Marek Laane</li><li>Ain Vagula</li><li>Jaagup Irve 2005</li></ul>">
 
-<!ENTITY credit.theme          "Teema kujundus">
-<!ENTITY credit.qa             "Tarkvara kvaliteedikontroll">
-<!ENTITY credit.build          "Koostamine ja väljaandmine">
 <!ENTITY credit.memory         "Mälestades">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">
