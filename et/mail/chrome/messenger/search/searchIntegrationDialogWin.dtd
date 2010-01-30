@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windowsi otsing">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; - integreerimine">
-<!ENTITY searchIntegration.description "Kas soovid lubada otsingumootoril &searchIntegration.engineName; indekseerida ja otsida &brandShortName;ist kirju ja uudiseid?">
-
-<!ENTITY searchIntegration.accept "Luba &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Keela &searchIntegration.engineName;">

@@ -6,8 +6,25 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label                "Lubatakse kirjade indekseerija">
-<!ENTITY enableGloda.accesskey            "L">
+<!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
+<!ENTITY enableGlodaSearch.accesskey      "L">
+<!ENTITY systemIntegration.label          "Süsteemi integratsioon">
+<!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on vaikimisi e-posti klient">
+<!ENTITY alwaysCheckDefault.accesskey     "a">
+<!ENTITY searchIntegration.label          "Rakendusel &searchIntegration.engineName; on kirjade otsimine lubatud">
+<!ENTITY searchIntegration.accesskey      "R">
+<!ENTITY checkNow.label                   "Kontrolli nüüd">
+<!ENTITY checkNow.accesskey               "n">
+<!ENTITY configEditDesc.label             "Täpsem häälestamine">
+<!ENTITY configEdit.label                 "Konfiguratsiooni redaktor...">
+<!ENTITY configEdit.accesskey             "n">
+<!ENTITY returnReceiptsInfo.label         "Määra, kuidas &brandShortName; käsitleb kättesaamise kinnitusi">
+<!ENTITY showReturnReceipts.label         "Kättesaamise kinnitused...">
+<!ENTITY showReturnReceipts.accesskey     "M">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption                  "Lugemine">
+<!ENTITY display.caption                  "Kuvamine">
 <!ENTITY showCondensedAddresses.label     "Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime">
 <!ENTITY showCondensedAddresses.accesskey "k">
 
@@ -22,20 +39,14 @@
 <!ENTITY markAsReadDelay.accesskey        "m">
 <!ENTITY secondsLabel.label               "sekundit">
 <!ENTITY openMsgIn.label                  "Kirjad avatakse:">
+<!ENTITY openMsgInNewTab.label            "uuel kaardil">
+<!ENTITY openMsgInNewTab.accesskey        "u">
 <!ENTITY reuseExpRadio0.label             "uues aknas">
 <!ENTITY reuseExpRadio0.accesskey         "a">
 <!ENTITY reuseExpRadio1.label             "samas aknas">
 <!ENTITY reuseExpRadio1.accesskey         "s">
-<!ENTITY configEditDesc.label             "Täpsem häälestamine">
-<!ENTITY configEdit.label                 "Konfiguratsiooni redaktor...">
-<!ENTITY configEdit.accesskey             "n">
-<!ENTITY returnReceiptsInfo.label         "Määra, kuidas &brandShortName; käsitleb kättesaamise kinnitusi">
-<!ENTITY showReturnReceipts.label         "Kättesaamise kinnitused...">
-<!ENTITY showReturnReceipts.accesskey     "M">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                  "Lugemine">
-<!ENTITY display.caption                  "Kuvamine">
+<!ENTITY closeMsgWindowOnDelete.label     "Kustutamisel kirja aken suletakse">
+<!ENTITY closeMsgWindowOnDelete.accesskey "K">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                  "Järgmisi uuendusi kontrollitakse automaatselt:">
@@ -43,7 +54,6 @@
 <!ENTITY enableAppUpdate.accesskey        "h">
 <!ENTITY enableAddonsUpdate.label         "Paigaldatud lisad">
 <!ENTITY enableAddonsUpdate.accesskey     "t">
-<!ENTITY checkNow.label                   "Kontrolli nüüd...">
 <!ENTITY whenUpdatesFound.label           "Kui &brandShortName;ile leitakse uuendusi:">
 <!ENTITY modeAskMe.label                  "küsitakse, mida teha">
 <!ENTITY modeAskMe.accesskey              "k">
@@ -82,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey          "P">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description        "Kui server nõuab kasutaja personaalset sertifikaati:">
+<!ENTITY certs.auto                       "valitakse üks automaatselt">
+<!ENTITY certs.auto.accesskey             "v">
+<!ENTITY certs.ask                        "küsitakse iga kord">
+<!ENTITY certs.ask.accesskey              "k">
+
 <!ENTITY viewCertificates.label           "Kuva sertifikaate">
 <!ENTITY viewCertificates.accesskey       "f">
 <!ENTITY viewCRLs.label                   "Tühistusnimekirjad">

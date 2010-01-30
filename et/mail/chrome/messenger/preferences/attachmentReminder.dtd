@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Manuse meeldetuletuse võtmesõnad">
+<!ENTITY attachKeywordText.label          "&brandShortName; hoiatab sind puuduva manuse kohta kui sa oled saatmas kirja, mis sisaldab järgnevaid võtmesõnu.">
+<!ENTITY addKeywordButton.label           "Lisa">
+<!ENTITY addKeywordButton.accesskey       "L">
+<!ENTITY editKeywordButton.label          "Redigeeri">
+<!ENTITY editKeywordButton.accesskey      "R">
+<!ENTITY removeKeywordButton.label        "Kustuta">
+<!ENTITY removeKeywordButton.accesskey    "K">

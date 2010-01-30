@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Uudisvoogude tellimused">
+<!ENTITY feedSubscriptions.label     "Uudisvoogude tellimused">
 <!ENTITY subscriptionDesc.label      "Märkus: uudisvoo kausta eemaldamisel või muutmisel ei rakendu need muudatused varem tõmmatud uudistele.">
 <!ENTITY feedTitle.label             "Pealkiri:">
 <!ENTITY location.label              "Aadress:">

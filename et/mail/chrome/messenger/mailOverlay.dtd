@@ -2,7 +2,6 @@
 <!ENTITY newMessageCmd.key       "M">
 <!ENTITY newMessageCmd.label     "Kiri">
 <!ENTITY newMessageCmd.accesskey "K">
- 
-<!ENTITY newCardCmd.label        "Aadressiraamatu kaart...">
-<!ENTITY newCardCmd.accesskey    "d">
 
+<!ENTITY newContactCmd.label     "Aadressiraamatu kontakt...">
+<!ENTITY newContactCmd.accesskey "d">

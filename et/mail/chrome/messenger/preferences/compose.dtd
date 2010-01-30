@@ -1,54 +1,57 @@
-<!ENTITY itemGeneral.label               "Üldine">
-<!ENTITY itemAutoComplete.label          "Adresseerimine">
-<!ENTITY itemSpellCheck.label            "Õigekiri">
+<!ENTITY itemGeneral.label                   "Üldine">
+<!ENTITY itemAutoComplete.label              "Adresseerimine">
+<!ENTITY itemSpellCheck.label                "Õigekiri">
 
-<!ENTITY forwardMsg.label                "Kirjad edastatakse:">
-<!ENTITY forwardMsg.accesskey            "K">
-<!ENTITY inline.label                    "tekstina">
-<!ENTITY inline.accesskey                "t">
-<!ENTITY asAttachment.label              "manusena">
-<!ENTITY asAttachment.accesskey          "m">
-<!ENTITY addExtension.label              "failinimele lisatakse laiend">
-<!ENTITY addExtension.accesskey          "f">
+<!ENTITY forwardMsg.label                    "Kirjad edastatakse:">
+<!ENTITY forwardMsg.accesskey                "K">
+<!ENTITY inline.label                        "tekstina">
+<!ENTITY asAttachment.label                  "manusena">
+<!ENTITY addExtension.label                  "failinimele lisatakse laiend">
+<!ENTITY addExtension.accesskey              "f">
 
-<!ENTITY htmlComposeHeader.label         "HTML">
-<!ENTITY font.label                      "Font:">
-<!ENTITY font.accesskey                  "n">
-<!ENTITY size.label                      "Suurus:">
-<!ENTITY size.accesskey                  "r">
-<!ENTITY fontColor.label                 "Teksti värv:">
-<!ENTITY fontColor.accesskey             "k">
-<!ENTITY bgColor.label                   "Taustavärv:">
-<!ENTITY bgColor.accesskey               "v">
-<!ENTITY restoreHTMLDefaults.label       "Lähtesta">
-<!ENTITY restoreHTMLDefaults.accesskey   "a">
+<!ENTITY htmlComposeHeader.label             "HTML">
+<!ENTITY font.label                          "Font:">
+<!ENTITY font.accesskey                      "n">
+<!ENTITY size.label                          "Suurus:">
+<!ENTITY size.accesskey                      "r">
+<!ENTITY fontColor.label                     "Teksti värv:">
+<!ENTITY fontColor.accesskey                 "k">
+<!ENTITY bgColor.label                       "Taustavärv:">
+<!ENTITY bgColor.accesskey                   "v">
+<!ENTITY restoreHTMLDefaults.label           "Lähtesta">
+<!ENTITY restoreHTMLDefaults.accesskey       "a">
 
-<!ENTITY spellCheck.label                "Enne saatmist kontrollitakse õigekirja">
-<!ENTITY spellCheck.accesskey            "E">
-<!ENTITY spellCheckInline.label          "Kirjutamisel kontrollitakse õigekirja">
-<!ENTITY spellCheckInline1.accesskey     "K">
-<!ENTITY languagePopup.label             "Keel:">
-<!ENTITY languagePopup.accessKey         "K">
-<!ENTITY downloadDictionaries.label      "Hangi veel sõnaraamatuid">
+<!ENTITY spellCheck.label                    "Enne saatmist kontrollitakse õigekirja">
+<!ENTITY spellCheck.accesskey                "E">
+<!ENTITY spellCheckInline.label              "Kirjutamisel kontrollitakse õigekirja">
+<!ENTITY spellCheckInline1.accesskey         "K">
+<!ENTITY languagePopup.label                 "Keel:">
+<!ENTITY languagePopup.accessKey             "K">
+<!ENTITY downloadDictionaries.label          "Hangi veel sõnaraamatuid">
 
-<!ENTITY warnOnSendAccelKey.label        "Küsitakse kinnitust, kui kiri saadetakse klahvide kiirkombinatsiooni abil">
-<!ENTITY warnOnSendAccelKey.accesskey    "t">
-<!ENTITY autoSave.label                  "Salvestatakse automaatselt iga">
-<!ENTITY autoSave.accesskey              "o">
-<!ENTITY autoSaveEnd.label               "minuti järel">
+<!ENTITY warnOnSendAccelKey.label            "Küsitakse kinnitust, kui kiri saadetakse klahvide kiirkombinatsiooni abil">
+<!ENTITY warnOnSendAccelKey.accesskey        "t">
+<!ENTITY autoSave.label                      "Salvestatakse automaatselt iga">
+<!ENTITY autoSave.accesskey                  "o">
+<!ENTITY autoSaveEnd.label                   "minuti järel">
 
-<!ENTITY emailCollectionPicker.label     "Väljuvate kirjade adressaadid lisatakse automaatselt:">
-<!ENTITY emailCollectionPicker.accesskey "k">
-<!ENTITY addressingTitle.label           "Aadresside automaatne lõpetamine">
-<!ENTITY autocompleteText.label          "Kirjade adresseerimisel otsitakse sobivaid vasteid:">
-<!ENTITY addressingEnable.label          "kohalikest aadressiraamatutest">
-<!ENTITY addressingEnable.accesskey      "a">
-<!ENTITY directories.label               "kataloogiserverist:">
-<!ENTITY directories.accesskey           "k">
-<!ENTITY directoriesNone.label           "puudub">
-<!ENTITY editDirectories.label           "Redigeeri katalooge...">
-<!ENTITY editDirectories.accesskey       "R">
+<!ENTITY emailCollectionPicker.label         "Väljuvate kirjade adressaadid lisatakse automaatselt:">
+<!ENTITY emailCollectionPicker.accesskey     "k">
+<!ENTITY addressingTitle.label               "Aadresside automaatne lõpetamine">
+<!ENTITY autocompleteText.label              "Kirjade adresseerimisel otsitakse sobivaid vasteid:">
+<!ENTITY addressingEnable.label              "kohalikest aadressiraamatutest">
+<!ENTITY addressingEnable.accesskey          "a">
+<!ENTITY directories.label                   "kataloogiserverist:">
+<!ENTITY directories.accesskey               "k">
+<!ENTITY directoriesNone.label               "puudub">
+<!ENTITY editDirectories.label               "Redigeeri katalooge...">
+<!ENTITY editDirectories.accesskey           "R">
 
-<!ENTITY sendOptionsDescription.label    "Häälesta teksti formaadi käitumist">
-<!ENTITY sendOptions.label               "Saatmise valikud...">
-<!ENTITY sendOptions.accesskey           "S">
+<!ENTITY sendOptionsDescription.label        "Muuda saadetavate kirjade teksti vormingut">
+<!ENTITY sendOptions.label                   "Saatmise valikud...">
+<!ENTITY sendOptions.accesskey               "S">
+
+<!ENTITY attachmentReminder.label            "Kontrollitakse puuduvat manust">
+<!ENTITY attachmentReminder.accesskey        "K">
+<!ENTITY attachmentReminderOptions.label     "Võtmesõnad…">
+<!ENTITY attachmentReminderOptions.accesskey "V">

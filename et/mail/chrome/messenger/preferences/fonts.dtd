@@ -6,9 +6,9 @@
 <!ENTITY language.label                   "Fondid keelele:">
 <!ENTITY language.accesskey               "F">
 
-<!ENTITY sizes.label                      "Suurus (pikslites)">
-<!ENTITY proportionalSize.accesskey       "e">
-<!ENTITY monospaceSize.accesskey          "l">
+<!ENTITY size.label                       "Suurus:">
+<!ENTITY proportionalSize.accesskey       "u">
+<!ENTITY sizeMono.accesskey               "r">
 
 <!ENTITY proportional.label               "Standardne:">
 <!ENTITY proportional.accesskey           "S">
@@ -57,6 +57,10 @@
 <!ENTITY useDefaultFontSerif.label        "Seriifidega">
 <!ENTITY useDefaultFontSansSerif.label    "Seriifideta">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label               "Fontide haldus">
+<!ENTITY  useFixedWidthForPlainText.label "Lihttekstiga kirjade puhul kasutatakse kindla laiusega fonti">
+<!ENTITY  fixedWidth.accesskey            "h">
 <!ENTITY useDocumentFonts.label           "Kirjades lubatakse kasutada muid fonte">
 <!ENTITY useDocumentFonts.accesskey       "l">
 

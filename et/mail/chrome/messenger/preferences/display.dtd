@@ -15,20 +15,15 @@
 <!ENTITY color.label                       "Värv:">
 <!ENTITY color.accesskey                   "V">
 <!ENTITY displayWidth.label                "Lihttekstis kirjad">
-<!ENTITY plainText.label                   "Kasutatakse järgmist fonti:">
 <!ENTITY displayText.label                 "Tsiteeritud lihttekstiga kirjade kuvamine:">
-<!ENTITY fixedWidth.label                  "Kindla laiusega font">
-<!ENTITY fixedWidth.accesskey              "i">
-<!ENTITY variableWidth.label               "Muutliku laiusega font">
-<!ENTITY variableWidth.accesskey           "M">
 <!ENTITY colors.label                      "Värvid">
 <!ENTITY overrideColors.label              "Kirjade kuvamisel kasutatakse järgnevaid värve:">
 <!ENTITY textColor.label                   "Teksti värv:">
 <!ENTITY textColor.accesskey               "s">
 <!ENTITY backgroundColor.label             "Tausta värv:">
 <!ENTITY backgroundColor.accesskey         "u">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label            "Emotikonide graafiline esitamine">
 <!ENTITY convertEmoticons.accesskey        "m">
 
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey         "K">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label "Häälesta &brandShortName;i poolt kasutatavaid fonte ja kodeeringuid">
-<!ENTITY fontsAndEncodingsCaption.label    "Fondid ja kodeeringud">
+<!ENTITY fontsAndColors.label              "Fondid">
+<!ENTITY defaultFont.label                 "Vaikimisi font:">
+<!ENTITY defaultFont.accesskey             "V">
+<!ENTITY defaultSize.label                 "Suurus:">
+<!ENTITY defaultSize.accesskey             "S">
 <!ENTITY fontOptions.accesskey             "F">
 <!ENTITY fontOptions.label                 "Fondid...">

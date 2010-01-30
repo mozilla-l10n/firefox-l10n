@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey           "t">
 <!ENTITY pasteAsQuotationCmd.label           "Aseta tsitaadina">
 <!ENTITY pasteAsQuotationCmd.accesskey       "t">
+<!ENTITY pasteAsQuotationCmd.key             "o">
 <!ENTITY findCmd.label                       "Otsi ja asenda...">
 <!ENTITY findCmd.accesskey                   "e">
 <!ENTITY findCmd.key                         "f">
@@ -112,9 +113,9 @@
 <!ENTITY findPrevCmd.key2                    "VK_F3">
 <!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamise ajal">
 <!ENTITY enableInlineSpellChecker.accesskey  "j">
-<!ENTITY checkSpellingCmd.label              "Õigekirja kontroll">
-<!ENTITY checkSpellingCmd.accesskey          "o">
-<!ENTITY checkSpellingCmd.key                "k">
+<!ENTITY checkSpellingCmd2.label             "Kontrolli õigekirja">
+<!ENTITY checkSpellingCmd2.accesskey         "o">
+<!ENTITY checkSpellingCmd2.key               "k">
 <!ENTITY validateCmd.label                   "HTML-i kontroll">
 <!ENTITY validateCmd.accesskey               "n">
 

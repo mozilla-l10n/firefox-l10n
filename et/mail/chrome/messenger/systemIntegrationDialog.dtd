@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title     "Süsteemi integratsioon">
+<!ENTITY defaultClient.intro         "&brandShortName;i kasutatakse vaikimisi rakendusena:">
+
+<!ENTITY email.label                 "E-postile">
+<!ENTITY newsgroups.label            "Uudisgruppidele">
+<!ENTITY feeds.label                 "Uudisvoogudele">
+
+<!ENTITY checkOnStartup.label        "See kontroll sooritatakse igal &brandShortName;i käivitumisel">
+<!ENTITY checkOnStartup.accesskey    "S">
+
+<!ENTITY searchIntegration.label     "Rakendusel &searchIntegration.engineName; lubatakse kirju otsida">
+<!ENTITY searchIntegration.accesskey "R">

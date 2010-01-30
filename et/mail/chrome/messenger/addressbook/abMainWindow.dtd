@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                 "F">
 <!ENTITY newMenu.label                      "Uus">
 <!ENTITY newMenu.accesskey                  "U">
-<!ENTITY newCard.label                      "Aadressiraamatu kaart...">
-<!ENTITY newCard.accesskey                  "A">
-<!ENTITY newCard.key                        "N">
+<!ENTITY newContact.label                   "Aadressiraamatu kontakt...">
+<!ENTITY newContact.accesskey               "A">
+<!ENTITY newContact.key                     "N">
 <!ENTITY newListCmd.label                   "Meililist">
 <!ENTITY newListCmd.accesskey               "l">
 <!ENTITY newAddressBookCmd.label            "Aadressiraamat...">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey                 "S">
 <!ENTITY printSetupCmd.label                "Lehe sätted...">
 <!ENTITY printSetupCmd.accesskey            "l">
-<!ENTITY printPreviewCardViewCmd.label      "Kaardi printimise eelvaade">
-<!ENTITY printPreviewCardViewCmd.accesskey  "e">
+<!ENTITY printPreviewContactCmd.label       "Kontakti printimise eelvaade">
+<!ENTITY printPreviewContactCmd.accesskey   "e">
 <!ENTITY printPreviewAddressBook.label      "Aadressiraamatu printimise eelvaade">
 <!ENTITY printPreviewAddressBook.accesskey  "A">
-<!ENTITY printCardViewCmd.label             "Prindi kaart...">
-<!ENTITY printCardViewCmd.accesskey         "P">
-<!ENTITY printCardViewCmd.key               "P">
+<!ENTITY printContactCmd.label              "Prindi kontakt...">
+<!ENTITY printContactCmd.accesskey          "P">
+<!ENTITY printContactCmd.key                "P">
 <!ENTITY printAddressBook.label             "Prindi aadressiraamat...">
 <!ENTITY printAddressBook.accesskey         "n">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                    "Kustuta">
 <!ENTITY deleteCmd.accesskey                "u">
 <!ENTITY deleteAbCmd.label                  "Kustuta aadressiraamat">
-<!ENTITY deleteCardCmd.label                "Kustuta kaart">
-<!ENTITY deleteCardsCmd2.label              "Kustuta kaardid">
+<!ENTITY deleteContactCmd.label             "Kustuta kontakt">
+<!ENTITY deleteContactsCmd.label            "Kustuta kontaktid">
 <!ENTITY deleteListCmd.label                "Kustuta list">
 <!ENTITY deleteListsCmd.label               "Kustuta listid">
 <!ENTITY deleteItemsCmd.label               "Kustuta elemendid">
@@ -71,7 +71,6 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI                     "true">
 <!ENTITY propertiesCmd.label                "Omadused...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey            "O">
 <!ENTITY propertiesCmd.key                  "i">
 
@@ -86,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey           "l">
 <!ENTITY customizeToolbar.label             "Kohanda...">
 <!ENTITY customizeToolbar.accesskey         "K">
-<!ENTITY showCardPane.label                 "Kaardi kokkuvõtte paneel">
-<!ENTITY showCardPane.accesskey             "K">
+<!ENTITY showContactPane.label              "Kontakti kokkuvõtte paneel">
+<!ENTITY showContactPane.accesskey          "K">
 <!ENTITY menu_ShowNameAs.label              "Nime kuju">
 <!ENTITY menu_ShowNameAs.accesskey          "N">
 <!ENTITY firstLastCmd.label                 "Eesnimi, perekonnanimi">
@@ -96,7 +95,7 @@
 <!ENTITY lastFirstCmd.accesskey             "P">
 <!ENTITY displayNameCmd.label               "Kuvatav nimi">
 <!ENTITY displayNameCmd.accesskey           "K">
-<!ENTITY sortMenu.label                     "Sortimine">
+<!ENTITY sortMenu.label                     "Sorteerimine">
 <!ENTITY sortMenu.accesskey                 "S">
 
 <!-- Tools Menu -->
@@ -117,27 +116,26 @@
 <!ENTITY preferencesCmdUnix.accesskey       "E">
 
 <!-- Address Book Toolbar and Context Menus -->
-<!ENTITY newcardButton.label                "Uus kaart">
-<!ENTITY newcardButton.accesskey            "U">
+<!ENTITY newContactButton.label             "Uus kontakt">
+<!ENTITY newContactButton.accesskey         "U">
 <!ENTITY newlistButton.label                "Uus list">
 <!ENTITY newlistButton.accesskey            "l">
-<!ENTITY editButton.label                   "Omadused">
-<!ENTITY editButton.accesskey               "O">
+<!ENTITY editButton2.label                  "Omadused">
+<!ENTITY editButton2.accesskey              "O">
 <!ENTITY newmsgButton.label                 "Kirjuta">
 <!ENTITY newmsgButton.accesskey             "K">
 <!ENTITY newIM.label                        "Kiirsõnum">
 <!ENTITY newIM.accesskey                    "i">
-<!ENTITY deleteButton.label                 "Kustuta">
-<!ENTITY deleteButton.accesskey             "K">
-<!ENTITY throbberItem.title                 "Aktiivsuse indikaator">
+<!ENTITY deleteButton2.label                "Kustuta">
+<!ENTITY deleteButton2.accesskey            "K">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip              "Loo uus aadressiraamatu kaart">
+<!ENTITY newContactButton.tooltip           "Loo uus aadressiraamatu kontakt">
 <!ENTITY newlistButton.tooltip              "Loo uus meililist">
-<!ENTITY editButton.tooltip                 "Muuda valitud kaarti">
+<!ENTITY editButton2.tooltip                "Muuda valitud elementi">
 <!ENTITY newmsgButton.tooltip               "Koosta uus kiri">
 <!ENTITY newIM.tooltip                      "Saada kiirsõnum või vestle">
-<!ENTITY deleteButton.tooltip               "Kustuta valitud kaart või aadressiraamat">
+<!ENTITY deleteButton2.tooltip              "Kustuta valitud element">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                "Aadressiraamatud">

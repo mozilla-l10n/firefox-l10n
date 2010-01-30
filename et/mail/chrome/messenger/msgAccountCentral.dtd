@@ -16,5 +16,5 @@
 <!ENTITY junkSettings.label          "Rämpsposti sätted">
 <!ENTITY offlineLink.label           "Võrguta režiimi sätted">
 
-<!ENTITY rssSectionHdr.label         "RSS uudised ja blogid">
-<!ENTITY subscibeRSS.label           "Halda tellimusi">
+<!ENTITY feedsSectionHdr.label       "Uudisvood">
+<!ENTITY subscribeFeeds.label        "Halda tellimusi">

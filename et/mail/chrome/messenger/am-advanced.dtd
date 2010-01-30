@@ -18,5 +18,5 @@
 <!ENTITY serverName.label              "Server: ">
 <!ENTITY serverPort.label              "Port: ">
 <!ENTITY userName.label                "Kasutajanimi: ">
-<!ENTITY useSecureConnection.label     "Turvaline ühendus: ">
+<!ENTITY connectionSecurity.label      "Ühenduse turvalisus: ">
 <!ENTITY useSecureAuthentication.label "Turvaline autentimine: ">

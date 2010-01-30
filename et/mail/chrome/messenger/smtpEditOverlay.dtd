@@ -1,25 +1,22 @@
-<!ENTITY settings.caption            "Sätted">
-<!ENTITY security.caption            "Turvalisus ja autentimine">
-<!ENTITY serverName.label            "Server:">
-<!ENTITY serverName.accesskey        "S">
-<!ENTITY serverDescription.label     "Kirjeldus:">
-<!ENTITY serverDescription.accesskey "K">
-<!ENTITY serverPort.label            "Port:">
-<!ENTITY serverPort.accesskey        "P">
-<!ENTITY alwaysUseUsername.label     "Alati kasutatakse nime ja parooli">
-<!ENTITY alwaysUseUsername.accesskey "A">
-<!ENTITY userName.label              "Kasutajanimi:">
-<!ENTITY userName.accesskey          "m">
-<!ENTITY useSecAuth.label            "Kasutatakse turvalist autentimist">
-<!ENTITY useSecAuth.accesskey        "i">
-<!ENTITY isSecure.label              "Turvaline ühendus:">
-<!ENTITY neverSecure.label           "Ei">
-<!ENTITY neverSecure.accesskey       "E">
-<!ENTITY sometimesSTARTTLS.label     "STARTTLS, kui võimalik">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY alwaysSTARTTLS.label        "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey    "T">
-<!ENTITY alwaysSMTPOverSSL.label     "SMTP üle SSLi">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
-<!ENTITY smtpEditTitle.label         "SMTP server">
-<!ENTITY serverPortDefault.label     "Vaikimisi:">
+<!ENTITY settings.caption               "Sätted">
+<!ENTITY security.caption               "Turvalisus ja autentimine">
+<!ENTITY serverName.label               "Server:">
+<!ENTITY serverName.accesskey           "S">
+<!ENTITY serverDescription.label        "Kirjeldus:">
+<!ENTITY serverDescription.accesskey    "K">
+<!ENTITY serverPort.label               "Port:">
+<!ENTITY serverPort.accesskey           "P">
+<!ENTITY alwaysUseUsername.label        "Alati kasutatakse nime ja parooli">
+<!ENTITY alwaysUseUsername.accesskey    "A">
+<!ENTITY userName.label                 "Kasutajanimi:">
+<!ENTITY userName.accesskey             "m">
+<!ENTITY useSecAuth.label               "Kasutatakse turvalist autentimist">
+<!ENTITY useSecAuth.accesskey           "i">
+<!ENTITY connectionSecurity.label       "Ühenduse turvalisus:">
+<!ENTITY connectionSecurity.accesskey   "e">
+<!ENTITY connectionSecurityType-0.label "Puudub">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, kui võimalik">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY smtpEditTitle.label            "SMTP server">
+<!ENTITY serverPortDefault.label        "Vaikimisi:">

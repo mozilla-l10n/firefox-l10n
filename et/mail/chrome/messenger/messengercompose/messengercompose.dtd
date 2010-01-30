@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key                      "M">
 <!ENTITY newMessageCmd2.key                  "N">
 <!ENTITY newMessage.accesskey                "K">
-<!ENTITY newCard.label                       "Aadressiraamatu kaart...">
-<!ENTITY newCard.accesskey                   "d">
+<!ENTITY newContact.label                    "Aadressiraamatu kontakt...">
+<!ENTITY newContact.accesskey                "d">
 <!ENTITY attachMenu.label                    "Lisamine">
 <!ENTITY attachMenu.accesskey                "L">
 <!ENTITY attachFileCmd.label                 "Fail(id)...">
@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key                        "V">
 <!ENTITY pasteCmd.accesskey                  "A">
 <!ENTITY pasteNoFormattingCmd.key            "V">
+<!ENTITY pasteAsQuotationCmd.key             "o">
 <!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
 <!ENTITY editRewrapCmd.key                   "R">
 <!ENTITY editRewrapCmd.accesskey             "T">
@@ -92,6 +93,7 @@
 <!ENTITY viewToolbarsMenuNew.label           "Tööriistaribad">
 <!ENTITY viewToolbarsMenuNew.accesskey       "T">
 <!ENTITY showCompositionToolbarCmd.label     "Koostamise tööriistariba">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label          "Vorminguriba">
 <!ENTITY showFormattingBarCmd.accesskey      "V">
 <!ENTITY showTaskbarCmd.label                "Olekuriba">
@@ -109,10 +111,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label                   "Valikud">
 <!ENTITY optionsMenu.accesskey               "V">
-<!ENTITY checkSpellingCmd.label              "Õigekirja kontroll..">
-<!ENTITY checkSpellingCmd.key                "k">
-<!ENTITY checkSpellingCmd.key2               "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey          "j">
+<!ENTITY checkSpellingCmd2.label             "Õigekirja kontroll..">
+<!ENTITY checkSpellingCmd2.key               "k">
+<!ENTITY checkSpellingCmd2.key2              "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey         "j">
 <!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamisel">
 <!ENTITY enableInlineSpellChecker.accesskey  "g">
 <!ENTITY quoteCmd.label                      "Tsiteeri kirja">
@@ -161,7 +163,7 @@
 <!ENTITY messengerCmd.commandkey             "1">
 <!ENTITY addressBookCmd.label                "Aadressiraamat">
 <!ENTITY addressBookCmd.accesskey            "A">
-<!ENTITY addressBookCmd.commandkey           "2">
+<!ENTITY addressBookCmd.key                  "B">
 <!ENTITY accountManagerCmd.label             "Kontode sätted...">
 <!ENTITY accountManagerCmd.accesskey         "K">
 <!ENTITY accountManagerCmdUnix.accesskey     "S">
@@ -184,7 +186,6 @@
 <!ENTITY attachButton.label                  "Lisa">
 <!ENTITY spellingButton.label                "Õigekiri">
 <!ENTITY saveButton.label                    "Salvesta">
-<!ENTITY throbberItem.title                  "Aktiivsuse indikaator">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip                  "Saada kiri kohe">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey            "A">
 <!ENTITY delete.label                        "Kustuta">
 <!ENTITY delete.accesskey                    "u">
+<!ENTITY removeAttachment.label              "Eemalda manus">
+<!ENTITY removeAttachment.accesskey          "E">
 <!ENTITY renameAttachment.label              "Nimeta ümber...">
 <!ENTITY renameAttachment.accesskey          "N">
 <!ENTITY selectAll.label                     "Vali kõik">

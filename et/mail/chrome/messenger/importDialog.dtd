@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle      "Importimine">
-<!ENTITY importDialog.allTitle         "Kõige importimine">
-<!ENTITY importDialog.mailTitle        "E-post">
-<!ENTITY importDialog.addressbookTitle "Aadressiraamatud">
-<!ENTITY importDialog.settingsTitle    "Sätted">
-<!ENTITY importDialog.filtersTitle     "Filtrid">
+<!ENTITY importAll.label               "Kõige importimine">
+<!ENTITY importAll.accesskey           "K">
+<!ENTITY importMail.label              "E-post">
+<!ENTITY importMail.accesskey          "E">
+<!ENTITY importAddressbook.label       "Aadressiraamatud">
+<!ENTITY importAddressbook.accesskey   "A">
+<!ENTITY importSettings.label          "Sätted">
+<!ENTITY importSettings.accesskey      "S">
+<!ENTITY importFilters.label           "Filtrid">
+<!ENTITY importFilters.accesskey       "F">
 
 <!ENTITY window.width                  "40em">
 <!ENTITY window.macWidth               "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label      "Kui see on tehtud, võid neid kasutada otse &brandShortName;ist.">
 
 <!ENTITY selectDescription.label       "Palun vali rakendus, millest soovid importida:">
+<!ENTITY selectDescription.accesskey   "P">
 
 <!ENTITY back.label                    "&lt; Tagasi">
 <!ENTITY forward.label                 "Edasi &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label     "Netscape Communicator 4.x omab iga kaardi jaoks üht e-posti aadressi, samas kui &brandShortName;is on neid kaks (kodu ja töö).">
 <!ENTITY FieldDiscInputText2.label     "Vali kategooria, millesse soovid imporditud e-posti aadressid salvestada:">
 <!ENTITY FieldDiscWarning.label        "Seda kategooriat kasutatakse kõigi valitud aadressiraamatu kirjete puhul: ">
-<!ENTITY importDialog.homeTitle        "Kodu">
-<!ENTITY importDialog.workTitle        "Töö">
+<!ENTITY importHome.label              "Kodu">
+<!ENTITY importHome.accesskey          "K">
+<!ENTITY importWork.label              "Töö">
+<!ENTITY importWork.accesskey          "T">

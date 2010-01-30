@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title      "Vaikimisi klient">
-<!ENTITY defaultClient.intro      "&brandShortName; määratakse vaikimisi kliendiks:">
-
-<!ENTITY email.label              "E-postile">
-<!ENTITY newsgroups.label         "Uudistegruppidele">
-<!ENTITY rss.label                "RSS kanalitele">
-
-<!ENTITY checkOnStartup.label     "Kontrollitakse igal &brandShortName;i käivitumisel">
-<!ENTITY checkOnStartup.accesskey "o">

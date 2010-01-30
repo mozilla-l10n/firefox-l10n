@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab                  "Kontakt">
-<!ENTITY Contact.accesskey            "K">
-<!ENTITY Name.box                     "Nimi">
+<!ENTITY Contact.tab                   "Kontakt">
+<!ENTITY Contact.accesskey             "K">
+<!ENTITY Name.box                      "Nimi">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -48,109 +48,127 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                "FirstName">
+<!ENTITY NameField1.id                 "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                "LastName">
+<!ENTITY NameField2.id                 "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id            "PhoneticFirstName">
+<!ENTITY PhoneticField1.id             "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id            "PhoneticLastName">
+<!ENTITY PhoneticField2.id             "PhoneticLastName">
 
-<!ENTITY NameField1.label             "Eesnimi:">
-<!ENTITY NameField1.accesskey         "E">
-<!ENTITY NameField2.label             "Perekonnanimi:">
-<!ENTITY NameField2.accesskey         "P">
-<!ENTITY PhoneticField1.label         "Hääldus:">
-<!ENTITY PhoneticField2.label         "Hääldus">
-<!ENTITY DisplayName.label            "Kuvatav nimi:">
-<!ENTITY DisplayName.accesskey        "K">
-<!ENTITY NickName.label               "Hüüdnimi:">
-<!ENTITY NickName.accesskey           "H">
+<!ENTITY NameField1.label              "Eesnimi:">
+<!ENTITY NameField1.accesskey          "E">
+<!ENTITY NameField2.label              "Perekonnanimi:">
+<!ENTITY NameField2.accesskey          "P">
+<!ENTITY PhoneticField1.label          "Hääldus:">
+<!ENTITY PhoneticField2.label          "Hääldus">
+<!ENTITY DisplayName.label             "Kuvatav nimi:">
+<!ENTITY DisplayName.accesskey         "K">
+<!ENTITY NickName.label                "Hüüdnimi:">
+<!ENTITY NickName.accesskey            "H">
 
-<!ENTITY PrimaryEmail.label           "E-post:">
-<!ENTITY PrimaryEmail.accesskey       "E">
-<!ENTITY SecondEmail.label            "Muud e-postiaadressid:">
-<!ENTITY SecondEmail.accesskey        "o">
-<!ENTITY PreferMailFormat.label       "Kirjade eelistatud vorming:">
-<!ENTITY PreferMailFormat.accesskey   "s">
-<!ENTITY PlainText.label              "Lihttekst">
-<!ENTITY HTML.label                   "HTML">
-<!ENTITY Unknown.label                "Tundmatu">
-<!ENTITY ScreenName.label             "Kuvatav nimi:">
-<!ENTITY ScreenName.accesskey         "K">
+<!ENTITY PrimaryEmail.label            "E-post:">
+<!ENTITY PrimaryEmail.accesskey        "E">
+<!ENTITY SecondEmail.label             "Muud e-postiaadressid:">
+<!ENTITY SecondEmail.accesskey         "o">
+<!ENTITY PreferMailFormat.label        "Kirjade eelistatud vorming:">
+<!ENTITY PreferMailFormat.accesskey    "s">
+<!ENTITY PlainText.label               "Lihttekst">
+<!ENTITY HTML.label                    "HTML">
+<!ENTITY Unknown.label                 "Tundmatu">
+<!ENTITY ScreenName.label              "Kuvatav nimi:">
+<!ENTITY ScreenName.accesskey          "K">
 
-<!ENTITY allowRemoteContent.label     "HTML-kirjades lubatakse välised pildid">
-<!ENTITY allowRemoteContent.accesskey "p">
-<!ENTITY allowRemoteContent.tooltip   "HTML-kirjades on võimalik kasutada pilte,
-mis pärinevad välistest allikatest. Sellise kirja avamisel luuakse ühendus välise
+<!ENTITY allowRemoteContent1.label     "Lubatakse väline sisu.">
+<!ENTITY allowRemoteContent1.accesskey "b">
+<!ENTITY allowRemoteContent1.tooltip   "HTML-kirjades on võimalik kasutada sisu,
+mis pärineb välistest allikatest. Sellise kirja avamisel luuakse ühendus välise
 allikaga. See annab võimaluse jälgida, kas sa lugesid kirja. Linnukese märkmisel
-lubatakse sellised välised pildid selle kontakti HTML-kirjades.">
+lubatakse selline väline sisu selle kontakti HTML-kirjades.">
 
-<!ENTITY WorkPhone.label              "Tööl:">
-<!ENTITY WorkPhone.accesskey          "T">
-<!ENTITY HomePhone.label              "Kodus:">
-<!ENTITY HomePhone.accesskey          "K">
-<!ENTITY FaxNumber.label              "Faks:">
-<!ENTITY FaxNumber.accesskey          "a">
-<!ENTITY PagerNumber.label            "Peiler:">
-<!ENTITY PagerNumber.accesskey        "P">
-<!ENTITY CellularNumber.label         "Mobiil:">
-<!ENTITY CellularNumber.accesskey     "M">
+<!ENTITY WorkPhone.label               "Tööl:">
+<!ENTITY WorkPhone.accesskey           "T">
+<!ENTITY HomePhone.label               "Kodus:">
+<!ENTITY HomePhone.accesskey           "K">
+<!ENTITY FaxNumber.label               "Faks:">
+<!ENTITY FaxNumber.accesskey           "a">
+<!ENTITY PagerNumber.label             "Peiler:">
+<!ENTITY PagerNumber.accesskey         "P">
+<!ENTITY CellularNumber.label          "Mobiil:">
+<!ENTITY CellularNumber.accesskey      "M">
 
-<!ENTITY Home.tab                     "Kodu">
-<!ENTITY Home.accesskey               "K">
-<!ENTITY HomeAddress.label            "Aadress:">
-<!ENTITY HomeAddress.accesskey        "d">
-<!ENTITY HomeAddress2.label           "">
-<!ENTITY HomeAddress2.accesskey       "">
-<!ENTITY HomeCity.label               "Linn:">
-<!ENTITY HomeCity.accesskey           "L">
-<!ENTITY HomeState.label              "Maakond:">
-<!ENTITY HomeState.accesskey          "M">
-<!ENTITY HomeZipCode.label            "Postiindeks:">
-<!ENTITY HomeZipCode.accesskey        "P">
-<!ENTITY HomeCountry.label            "Riik:">
-<!ENTITY HomeCountry.accesskey        "R">
-<!ENTITY HomeWebPage.label            "Veebileht:">
-<!ENTITY HomeWebPage.accesskey        "V">
+<!ENTITY Home.tab                      "Kodu">
+<!ENTITY Home.accesskey                "K">
+<!ENTITY HomeAddress.label             "Aadress:">
+<!ENTITY HomeAddress.accesskey         "d">
+<!ENTITY HomeAddress2.label            "">
+<!ENTITY HomeAddress2.accesskey        "">
+<!ENTITY HomeCity.label                "Linn:">
+<!ENTITY HomeCity.accesskey            "L">
+<!ENTITY HomeState.label               "Maakond:">
+<!ENTITY HomeState.accesskey           "M">
+<!ENTITY HomeZipCode.label             "Postiindeks:">
+<!ENTITY HomeZipCode.accesskey         "P">
+<!ENTITY HomeCountry.label             "Riik:">
+<!ENTITY HomeCountry.accesskey         "R">
+<!ENTITY HomeWebPage.label             "Veebileht:">
+<!ENTITY HomeWebPage.accesskey         "V">
+<!ENTITY Birthday.label                "Sünnipäev:">
+<!ENTITY Birthday.accesskey            "n">
+<!ENTITY In.label                      "">
+<!ENTITY Year.emptytext                "Aasta">
+<!ENTITY Or.value                      "või">
+<!ENTITY Age.emptytext                 "Vanus">
+<!ENTITY YearsOld.label                "">
 
-<!ENTITY Work.tab                     "Töö">
-<!ENTITY Work.accesskey               "T">
-<!ENTITY JobTitle.label               "Amet:">
-<!ENTITY JobTitle.accesskey           "e">
-<!ENTITY Department.label             "Osakond:">
-<!ENTITY Department.accesskey         "O">
-<!ENTITY Company.label                "Organisatsioon:">
-<!ENTITY Company.accesskey            "O">
-<!ENTITY WorkAddress.label            "Aadress:">
-<!ENTITY WorkAddress.accesskey        "r">
-<!ENTITY WorkAddress2.label           "">
-<!ENTITY WorkAddress2.accesskey       "">
-<!ENTITY WorkCity.label               "Linn:">
-<!ENTITY WorkCity.accesskey           "i">
-<!ENTITY WorkState.label              "Maakond:">
-<!ENTITY WorkState.accesskey          "k">
-<!ENTITY WorkZipCode.label            "Postiindeks:">
-<!ENTITY WorkZipCode.accesskey        "P">
-<!ENTITY WorkCountry.label            "Riik:">
-<!ENTITY WorkCountry.accesskey        "R">
-<!ENTITY WorkWebPage.label            "Veebileht:">
-<!ENTITY WorkWebPage.accesskey        "b">
+<!ENTITY Work.tab                      "Töö">
+<!ENTITY Work.accesskey                "T">
+<!ENTITY JobTitle.label                "Amet:">
+<!ENTITY JobTitle.accesskey            "e">
+<!ENTITY Department.label              "Osakond:">
+<!ENTITY Department.accesskey          "O">
+<!ENTITY Company.label                 "Organisatsioon:">
+<!ENTITY Company.accesskey             "O">
+<!ENTITY WorkAddress.label             "Aadress:">
+<!ENTITY WorkAddress.accesskey         "r">
+<!ENTITY WorkAddress2.label            "">
+<!ENTITY WorkAddress2.accesskey        "">
+<!ENTITY WorkCity.label                "Linn:">
+<!ENTITY WorkCity.accesskey            "i">
+<!ENTITY WorkState.label               "Maakond:">
+<!ENTITY WorkState.accesskey           "k">
+<!ENTITY WorkZipCode.label             "Postiindeks:">
+<!ENTITY WorkZipCode.accesskey         "P">
+<!ENTITY WorkCountry.label             "Riik:">
+<!ENTITY WorkCountry.accesskey         "R">
+<!ENTITY WorkWebPage.label             "Veebileht:">
+<!ENTITY WorkWebPage.accesskey         "b">
 
-<!ENTITY Other.tab                    "Muu">
-<!ENTITY Other.accesskey              "M">
-<!ENTITY Birthday.label               "Sünnipäev:">
-<!ENTITY Birthday.accesskey           "n">
-<!ENTITY Year.emptytext               "Aasta">
-<!ENTITY Or.value                     "või">
-<!ENTITY Age.emptytext                "Vanus">
-<!ENTITY Custom1.label                "Kohandatud 1:">
-<!ENTITY Custom1.accesskey            "1">
-<!ENTITY Custom2.label                "Kohandatud 2:">
-<!ENTITY Custom2.accesskey            "2">
-<!ENTITY Custom3.label                "Kohandatud 3:">
-<!ENTITY Custom3.accesskey            "3">
-<!ENTITY Custom4.label                "Kohandatud 4:">
-<!ENTITY Custom4.accesskey            "4">
-<!ENTITY Notes.label                  "Märkused">
-<!ENTITY Notes.accesskey              "u">
+<!ENTITY Other.tab                     "Muu">
+<!ENTITY Other.accesskey               "M">
+<!ENTITY Custom1.label                 "Kohandatud 1:">
+<!ENTITY Custom1.accesskey             "1">
+<!ENTITY Custom2.label                 "Kohandatud 2:">
+<!ENTITY Custom2.accesskey             "2">
+<!ENTITY Custom3.label                 "Kohandatud 3:">
+<!ENTITY Custom3.accesskey             "3">
+<!ENTITY Custom4.label                 "Kohandatud 4:">
+<!ENTITY Custom4.accesskey             "4">
+<!ENTITY Notes.label                   "Märkused">
+<!ENTITY Notes.accesskey               "u">
+
+<!ENTITY Photo.tab                     "Pilt">
+<!ENTITY Photo.accesskey               "i">
+<!ENTITY PhotoDesc.label               "Valitakse üks järgnevatest:">
+<!ENTITY GenericPhoto.label            "Üldine pilt">
+<!ENTITY GenericPhoto.accesskey        "Ü">
+<!ENTITY DefaultPhoto.label            "Vaikimisi">
+<!ENTITY PhotoFile.label               "Sellest arvutist">
+<!ENTITY PhotoFile.accesskey           "l">
+<!ENTITY BrowsePhoto.label             "Lehitse">
+<!ENTITY BrowsePhoto.accesskey         "h">
+<!ENTITY PhotoURL.label                "Veebist">
+<!ENTITY PhotoURL.accesskey            "b">
+<!ENTITY PhotoURL.emptytext            "Kopeeri või sisesta pildi asukoht veebis">
+<!ENTITY UpdatePhoto.label             "Uuenda">
+<!ENTITY UpdatePhoto.accesskey         "u">
