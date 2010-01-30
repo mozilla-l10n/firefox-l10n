@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion             "versioon">
 <!ENTITY closeCmdGNOME.label      "Sulge">
 <!ENTITY closeCmdGNOME.accesskey  "S">
-<!ENTITY copyrightInfo1           "&#169;1998-2009 Autorid. Kõik õigused kaitstud. (">
-<!ENTITY licenseLink              "about:license">
 <!ENTITY licenseLinkText          "Litsentsist täpsemalt">
-<!ENTITY copyrightInfo2           ").">
+<!ENTITY licenseLinkSuffix        ".">

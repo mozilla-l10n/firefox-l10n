@@ -3,7 +3,8 @@
 <!ENTITY cookiesonsystem.label             "Arvutisse on salvestatud järgnevad küpsised:">
 <!ENTITY cookiename.label                  "Küpsise nimi">
 <!ENTITY cookiedomain.label                "Veebileht">
-<!ENTITY button.removecookie.label         "Kustuta küpsised">
+<!ENTITY button.removecookies.label        "Kustuta küpsised">
+<!ENTITY button.removecookie.label         "Kustuta küpsis">
 <!ENTITY button.removecookie.accesskey     "K">
 <!ENTITY button.removeallcookies.label     "Kustuta kõik küpsised">
 <!ENTITY button.removeallcookies.accesskey "a">
