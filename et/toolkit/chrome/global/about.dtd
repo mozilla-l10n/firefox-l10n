@@ -1,19 +1,21 @@
-<!ENTITY about.version                "version">
+<!ENTITY about.version                "versioon">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 by">
-<!ENTITY about.copy.linkTitle         "contributors">
-<!ENTITY about.copy.afterLink         "to the Mozilla Project.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Vaata nimekirja ">
+<!ENTITY about.credits.linkTitle      "kaasautoritest">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " Mozilla Projektile.">
 
-<!ENTITY about.license.beforeLink     "Read the">
-<!ENTITY about.license.linkTitle      "licensing information">
-<!ENTITY about.license.afterLink      "for this product.">
+<!ENTITY about.license.beforeLink     "Loe">
+<!ENTITY about.license.linkTitle      "litsentsi teavet">
+<!ENTITY about.license.afterLink      "selle toote kohta.">
 
-<!ENTITY about.relnotes.beforeLink    "Read the">
-<!ENTITY about.relnotes.linkTitle     "release notes">
-<!ENTITY about.relnotes.afterLink     "for this version.">
+<!ENTITY about.relnotes.beforeLink    "Loe">
+<!ENTITY about.relnotes.linkTitle     "väljalaske märkmeid">
+<!ENTITY about.relnotes.afterLink     "selle versiooni kohta.">
 
-<!ENTITY about.buildconfig.beforeLink "See the">
-<!ENTITY about.buildconfig.linkTitle  "build configuration">
-<!ENTITY about.buildconfig.afterLink  "used for this version.">
+<!ENTITY about.buildconfig.beforeLink "Vaata">
+<!ENTITY about.buildconfig.linkTitle  "kompileerimise konfiguratsiooni">
+<!ENTITY about.buildconfig.afterLink  ", mida kasutati selle versiooni jaoks.">
 
-<!ENTITY about.buildIdentifier        "Build identifier: ">
+<!ENTITY about.buildIdentifier        "Kompilatsiooni identifikaator: ">

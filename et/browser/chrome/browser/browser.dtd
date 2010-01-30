@@ -173,8 +173,8 @@
 <!ENTITY preferencesCmdUnix.label                "Eelistused">
 <!ENTITY preferencesCmdUnix.accesskey            "E">
 
-<!ENTITY clearRecentHistoryCmd.label             "Kustuta hiljutine ajalugu">
-<!ENTITY clearRecentHistoryCmd.accesskey         "t">
+<!ENTITY clearRecentHistory.label                "Kustuta hiljutine ajalugu…">
+<!ENTITY clearRecentHistory.accesskey            "t">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label          "Alusta privaatset veebilehitsemist">
@@ -310,8 +310,6 @@
 <!ENTITY sendAudioCmd.accesskey                  "u">
 <!ENTITY copyLinkCmd.label                       "Kopeeri lingi aadress">
 <!ENTITY copyLinkCmd.accesskey                   "o">
-<!ENTITY copyLinkTextCmd.label                   "Kopeeri lingi tekst">
-<!ENTITY copyLinkTextCmd.accesskey               "r">
 <!ENTITY copyImageCmd.label                      "Kopeeri pildi aadress">
 <!ENTITY copyImageCmd.accesskey                  "o">
 <!ENTITY copyImageContentsCmd.label              "Kopeeri pilt">

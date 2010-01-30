@@ -58,15 +58,8 @@
 <!ENTITY  privateBrowsingPermanent.label         "Pidev privaatse veebilehitsemise režiim">
 <!ENTITY  privateBrowsingPermanent.accesskey     "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label              "Lehitsemise ajalugu säilitatakse vähemalt">
-<!ENTITY  rememberHistory.pre.accesskey          "L">
-<!ENTITY  rememberHistory.post.label             "päeva">
+<!ENTITY  rememberHistory.label                  "Lehitsemise ajalugu säilitatakse">
+<!ENTITY  rememberHistory.accesskey              "L">
 
 <!ENTITY  rememberDownload.label                 "Allalaadimiste ajalugu säilitatakse">
 <!ENTITY  rememberDownload.accesskey             "d">
