@@ -475,6 +475,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "T">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "e">
+<!ENTITY savedFiles.label "Sparade filer">
+<!ENTITY savedFiles.accesskey "r">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filterregler…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Kör filter på mapp">
