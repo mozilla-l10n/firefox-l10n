@@ -13,12 +13,11 @@
 <!ENTITY productHelp.accesskey "B">
 <!ENTITY helpForIEUsers.label "Untuk Pengguna Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "E">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpReleaseNotes.label "Catatan Rilis">
 <!ENTITY helpReleaseNotes.accesskey "C">
-<!ENTITY helpTroubleshooting.label "Informasi Pemecahan Masalah…">
-<!ENTITY helpTroubleshooting.accesskey "M">
+<!ENTITY helpTroubleshootingInfo.label "Informasi Pemecahan Masalah…">
+<!ENTITY helpTroubleshootingInfo.accesskey "M">
 <!ENTITY updateCmd.label "Periksa Versi Baru…">
 <!ENTITY preferencesCmdMac.label "Pengaturan…">
 <!ENTITY preferencesCmdMac.commandkey ",">
