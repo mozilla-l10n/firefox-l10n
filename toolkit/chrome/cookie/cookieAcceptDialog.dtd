@@ -1,16 +1,18 @@
-<!ENTITY props.name.label "Nama:">
-<!ENTITY props.value.label "Isi:">
-<!ENTITY props.domain.label "Host:">
-<!ENTITY props.path.label "Path:">
-<!ENTITY props.secure.label "Kirim Untuk:">
-<!ENTITY props.expires.label "Kedaluwarsa:">
-<!ENTITY props.policy.label "Kebijakan:">
-<!ENTITY button.allow.label "Izinkan">
-<!ENTITY button.allow.accesskey "I">
-<!ENTITY button.session.label "Izinkan untuk Sesi ini">
-<!ENTITY button.session.accesskey "S">
-<!ENTITY button.deny.label "Tolak">
-<!ENTITY button.deny.accesskey "T">
-<!ENTITY dialog.title "Konfirmasi pengaturan cookie">
-<!ENTITY dialog.remember.label "Gunakan pilihan saya untuk semua cookie dari situs ini">
-<!ENTITY dialog.remember.accesskey "p">
+<!ENTITY     props.name.label               "Nama:">
+<!ENTITY     props.value.label              "Isi:">
+<!ENTITY     props.domain.label             "Host:">
+<!ENTITY     props.path.label               "Path:">
+<!ENTITY     props.secure.label             "Kirim Untuk:">
+<!ENTITY     props.expires.label            "Kedaluwarsa:">
+<!ENTITY     props.policy.label             "Kebijakan:"> 
+
+<!ENTITY     button.allow.label             "Izinkan">
+<!ENTITY     button.allow.accesskey         "I">
+<!ENTITY     button.session.label           "Izinkan untuk Sesi ini">
+<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.deny.label              "Tolak">
+<!ENTITY     button.deny.accesskey          "T">
+
+<!ENTITY     dialog.title                   "Konfirmasi pengaturan cookie">
+<!ENTITY     dialog.remember.label          "Gunakan pilihan saya untuk semua cookie dari situs ini">
+<!ENTITY     dialog.remember.accesskey      "p">

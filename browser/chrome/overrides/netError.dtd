@@ -1,11 +1,17 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
 <!ENTITY loadError.label "Memuat halaman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
+
+<!-- Specific error messages -->
+
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 <!ENTITY deniedPortAccess.title "Penggunaan alamat ini telah dibatasi">
 <!ENTITY deniedPortAccess.longDesc "">
+
 <!ENTITY dnsNotFound.title "Server tidak ditemukan">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
@@ -18,6 +24,7 @@
     bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
 </ul>
 ">
+
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -25,10 +32,13 @@
   <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li>
 </ul>
 ">
+
+
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
 <p>Untuk alasan tertentu &brandShortName; tidak dapat memuat halaman ini.</p>
 ">
+
 <!ENTITY malformedURI.title "Alamat berikut tidak sah">
 <!ENTITY malformedURI.longDesc "
 <ul>
@@ -38,36 +48,44 @@
     <strong>/</strong>).</li>
 </ul>
 ">
+
 <!ENTITY netInterrupt.title "Sambungan terputus">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
 <!ENTITY netOffline.title "Mode luring">
 <!ENTITY netOffline.longDesc "
 <ul>
   <li>Matikan &quot;Bekerja Luring&quot; pada menu Berkas lalu coba lagi.</li>
 </ul>
 ">
+
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Mohon hubungi pemilik situs web mengenai masalah ini.</li>
 </ul>
 ">
+
 <!ENTITY unsafeContentType.title "Jenis Berkas Tidak Aman">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Mohon hubungi pemilik situs web mengenai masalah ini.</li>
 </ul>
 ">
+
 <!ENTITY netReset.title "Sambungan diputus">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
+
 <!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
 <!ENTITY protocolNotFound.title "Alamat tidak dapat dipahami oleh program">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>Anda mungkin perlu memasang perangkat lunak lain untuk membuka alamat ini.</li>
 </ul>
 ">
+
 <!ENTITY proxyConnectFailure.title "Server proxy menolak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -75,6 +93,7 @@
   <li>Hubungi administrator jaringan Anda untuk memastikan server proxy sudah berjalan.</li>
 </ul>
 ">
+
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -83,12 +102,14 @@
   <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
 </ul>
 ">
+
 <!ENTITY redirectLoop.title "Halaman tidak teralihkan dengan benar">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima cookie.</li>
 </ul>
 ">
+
 <!ENTITY unknownSocketType.title "Jawaban yang tidak diharapkan dari server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -96,6 +117,7 @@
   <li>Hal ini mungkin disebabkan konfigurasi server yang tidak standar.</li>
 </ul>
 ">
+
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
 <!ENTITY nssFailure2.longDesc "
 <ul>
@@ -103,6 +125,7 @@
   <li>Mohon hubungi pemilik situs web mengenai masalah ini. Anda juga bisa menggunakan menu Bantuan untuk melaporkan situs web yang bermasalah ini.</li>
 </ul>
 ">
+
 <!ENTITY nssBadCert.title "Sambungan Aman Gagal">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
@@ -110,6 +133,7 @@
   <li>Jika Anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan Anda dapat mencoba lagi nanti.</li>
 </ul>
 ">
+
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li>
@@ -117,19 +141,28 @@
   <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
 </ul>
 ">
+
 <!ENTITY malwareBlocked.title "Tersangka Situs Penyerang!">
 <!ENTITY malwareBlocked.longDesc "
 <p>Situs penyerang mencoba memasang program yang dapat mencuri data pribadi, menggunakan komputer Anda untuk menyerang komputer lain, atau merusak sistem Anda.</p>
 <p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>
 ">
+
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
 <!ENTITY phishingBlocked.longDesc '
 <p>Dengan memasukkan informasi pribadi pada halaman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p>
 <p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru halaman web dan email yang mungkin Anda percayai.</p>
 '>
+
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
 <!ENTITY securityOverride.warningText "
 <p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika umumnya Anda tidak pernah melihat peringatan sejenis tentang server ini.</p>
 

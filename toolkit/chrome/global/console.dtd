@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,31 +34,35 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY errorConsole.title "Konsol Kesalahan">
-<!ENTITY errFile.label "Berkas Sumber:">
-<!ENTITY errLine.label "Baris:">
+
+<!ENTITY errFile.label   "Berkas Sumber:">
+<!ENTITY errLine.label   "Baris:">
 <!ENTITY errColumn.label "Kolom:">
-<!ENTITY all.label "Semua">
-<!ENTITY all.accesskey "a">
-<!ENTITY errors.label "Kesalahan">
-<!ENTITY errors.accesskey "K">
-<!ENTITY warnings.label "Peringatan">
+
+<!ENTITY all.label          "Semua">
+<!ENTITY all.accesskey      "a">
+<!ENTITY errors.label       "Kesalahan">
+<!ENTITY errors.accesskey   "K">
+<!ENTITY warnings.label     "Peringatan">
 <!ENTITY warnings.accesskey "P">
-<!ENTITY messages.label "Pesan">
+<!ENTITY messages.label     "Pesan">
 <!ENTITY messages.accesskey "e">
-<!ENTITY clear.label "Bersihkan">
-<!ENTITY clear.accesskey "B">
-<!ENTITY codeEval.label "Kode:">
+<!ENTITY clear.label        "Bersihkan">
+<!ENTITY clear.accesskey    "B">
+<!ENTITY codeEval.label     "Kode:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label "Evaluasi">
-<!ENTITY evaluate.accesskey "e">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "S">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Diurutkan Pertama > Terakhir">
+<!ENTITY evaluate.label     "Evaluasi">
+<!ENTITY evaluate.accesskey "E">
+
+<!ENTITY copyCmd.label       "Salin">  
+<!ENTITY copyCmd.accesskey   "S"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Diurutkan Pertama > Terakhir">
 <!ENTITY sortFirst.accesskey "P">
-<!ENTITY sortLast.label "Diurutkan Terakhir > Pertama">
-<!ENTITY sortLast.accesskey "T">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Diurutkan Terakhir > Pertama">
+<!ENTITY sortLast.accesskey  "t">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

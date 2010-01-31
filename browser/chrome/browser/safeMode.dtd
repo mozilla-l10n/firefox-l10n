@@ -35,19 +35,27 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY safeModeDialog.title "&brandShortName; Mode Aman">
-<!ENTITY window.width "37em">
-<!ENTITY safeModeDescription.label "&brandShortName; sedang berjalan dalam Mode Aman, yang akan mematikan sementara pengaturan kesukaan, tema, dan ekstensi.">
-<!ENTITY safeModeDescription2.label "Anda dapat membuat perubahan berikut menjadi permanen:">
-<!ENTITY disableAddons.label "Matikan semua Pengaya">
-<!ENTITY disableAddons.accesskey "M">
-<!ENTITY resetToolbars.label "Reset bilah alat dan kontrol">
-<!ENTITY resetToolbars.accesskey "R">
+
+<!ENTITY safeModeDialog.title         "&brandShortName; Mode Aman">
+<!ENTITY window.width                 "37em">
+
+<!ENTITY safeModeDescription.label    "&brandShortName; sedang berjalan dalam Mode Aman, yang akan mematikan sementara pengaturan kesukaan, tema, dan ekstensi.">
+<!ENTITY safeModeDescription2.label   "Anda dapat membuat perubahan berikut menjadi permanen:">
+
+<!ENTITY disableAddons.label          "Matikan semua Pengaya">
+<!ENTITY disableAddons.accesskey      "M">
+
+<!ENTITY resetToolbars.label          "Reset bilah alat dan kontrol">
+<!ENTITY resetToolbars.accesskey      "R">
+
 <!ENTITY deleteBookmarks.label        "Hapus semua bookmark kecuali untuk cadangan">
 <!ENTITY deleteBookmarks.accesskey    "b">
-<!ENTITY resetUserPrefs.label "Reset semua pengaturan pengguna menjadi default &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "p">
-<!ENTITY restoreSearch.label "Kembalikan daftar mesin pencari default">
-<!ENTITY restoreSearch.accesskey "c">
+
+<!ENTITY resetUserPrefs.label         "Reset semua pengaturan pengguna menjadi default &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "p">
+
+<!ENTITY restoreSearch.label          "Kembalikan daftar mesin pencari default">
+<!ENTITY restoreSearch.accesskey      "c">
+
 <!ENTITY changeAndRestartButton.label "Simpan Perubahan dan Restart">
-<!ENTITY continueButton.label "Lanjutkan dalam Mode Aman">
+<!ENTITY continueButton.label         "Lanjutkan dalam Mode Aman">

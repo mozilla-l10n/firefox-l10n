@@ -1,40 +1,58 @@
-<!ENTITY reportWizard.title "Laporkan Situs Web Bermasalah">
-<!ENTITY privacyNotice.label "Kebijakan Privasi">
-<!ENTITY reportWizardPrivacy.description "Fitur ini berfungsi untuk melaporkan Tim Pendukung mengenai situs web yang bermasalah jika dibuka oleh &brandShortName;, atau mematikan program &brandShortName; dengan tiba-tiba. Melalui cara ini kami dapat memastikan kenyamanan pengguna &brandShortName;. Silakan baca bacaan berikut untuk mempelajari cara kami untuk mengumpulkan informasi dari Anda jika Anda memutuskan untuk berpartisipasi.">
-<!ENTITY reportWizardMustAgree.description "Untuk melanjutkan, Anda harus menyetujui kebijakan privasi di atas.">
-<!ENTITY dontShowPrivacyStatement.label "Saya telah membaca dan menyetujui kebijakan privasi di atas.">
-<!ENTITY dontShowPrivacyStatement.accesskey "I">
-<!ENTITY reportForm.label "Pengisian Laporan">
-<!ENTITY reportForm.description "Ceritakan mengenai masalah yang dialami:">
-<!ENTITY reportForm.url.title "URL Situs Web:">
-<!ENTITY reportForm.url.accesskey "U">
-<!ENTITY reportForm.behind_login.title "Situs web dilindungi kata sandi">
-<!ENTITY reportForm.behind_login.accesskey "S">
-<!ENTITY reportForm.problem_type.title "Jenis Masalah:">
-<!ENTITY reportForm.problem_type.accesskey "M">
-<!ENTITY reportForm.problem_type.chooseOne.title "Pilih Salah Satu…">
-<!ENTITY reportForm.problem_type.item1.title "Program Peramban tidak didukung">
-<!ENTITY reportForm.problem_type.item2.title "Tidak bisa log-masuk">
-<!ENTITY reportForm.problem_type.item3.title "Plugin tidak dapat ditampilkan">
-<!ENTITY reportForm.problem_type.item4.title "Isi/tampilan hilang">
-<!ENTITY reportForm.problem_type.item5.title "Kesalahan perilaku perangkat lunak">
-<!ENTITY reportForm.problem_type.item6.title "Tampilan salah">
-<!ENTITY reportForm.problem_type.item7.title "Masalah lainnya">
-<!ENTITY reportForm.problem_type.item8.title "Akses untuk Pengguna Berkebutuhan Khusus">
-<!ENTITY reportForm.problem_type.item9.title "Hasil pencetakan salah">
-<!ENTITY reportForm.describe.title "Jelaskan Permasalahan:">
-<!ENTITY reportForm.describe.accesskey "J">
-<!ENTITY reportForm.platform.title "Platform:">
-<!ENTITY reportForm.product.title "Produk:">
-<!ENTITY reportForm.gecko.title "Gecko:">
-<!ENTITY reportForm.useragent.title "Useragent:">
-<!ENTITY reportForm.language.title "Bahasa:">
-<!ENTITY reportForm.email.title "Email (tidak wajib):">
-<!ENTITY reportForm.email.accesskey "E">
-<!ENTITY reportForm.privacyPolicy.title "Kebijakan Privasi">
-<!ENTITY reportForm.privacyPolicy.tooltip "Tampilkan Kebijakan Privasi">
-<!ENTITY reportResults.showDetail.title "Tampilkan Detail">
-<!ENTITY reportResults.showDetail.accesskey "D">
-<!ENTITY sendReport.label "Mengirim Laporan">
-<!ENTITY sendReport.description "Mengirim Laporan ke server…">
-<!ENTITY finish.label "Laporan Terkirim">
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Laporkan Situs Web Bermasalah">
+
+<!ENTITY privacyNotice.label                        "Kebijakan Privasi">
+<!ENTITY reportWizardPrivacy.description            "Fitur ini berfungsi untuk melaporkan Tim Pendukung mengenai situs web yang bermasalah jika dibuka oleh &brandShortName;, atau mematikan program &brandShortName; dengan tiba-tiba. Melalui cara ini kami dapat memastikan kenyamanan pengguna &brandShortName;. Silakan baca bacaan berikut untuk mempelajari cara kami untuk mengumpulkan informasi dari Anda jika Anda memutuskan untuk berpartisipasi.">
+<!ENTITY reportWizardMustAgree.description          "Untuk melanjutkan, Anda harus menyetujui kebijakan privasi di atas.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Saya telah membaca dan menyetujui kebijakan privasi di atas.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "i">
+
+<!ENTITY reportForm.label                           "Pengisian Laporan">
+
+<!ENTITY reportForm.description                     "Ceritakan mengenai masalah yang dialami:">
+<!ENTITY reportForm.url.title                       "URL Situs Web:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Situs web dilindungi kata sandi"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "S">
+
+<!ENTITY reportForm.problem_type.title              "Jenis Masalah:">
+<!ENTITY reportForm.problem_type.accesskey          "M">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Pilih Salah Satu…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Program Peramban tidak didukung">
+<!ENTITY reportForm.problem_type.item2.title        "Tidak bisa log-masuk">
+<!ENTITY reportForm.problem_type.item3.title        "Plugin tidak dapat ditampilkan">
+<!ENTITY reportForm.problem_type.item4.title        "Isi/tampilan hilang">
+<!ENTITY reportForm.problem_type.item5.title        "Kesalahan perilaku perangkat lunak">
+<!ENTITY reportForm.problem_type.item6.title        "Tampilan salah">
+<!ENTITY reportForm.problem_type.item7.title        "Masalah lainnya">
+<!ENTITY reportForm.problem_type.item8.title        "Akses untuk Pengguna Berkebutuhan Khusus">
+<!ENTITY reportForm.problem_type.item9.title        "Hasil pencetakan salah">
+
+<!ENTITY reportForm.describe.title                  "Jelaskan Permasalahan:">
+<!ENTITY reportForm.describe.accesskey              "J">
+
+<!ENTITY reportForm.platform.title                  "Platform:">
+<!ENTITY reportForm.product.title                   "Produk:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "Bahasa:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Email (tidak wajib):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Kebijakan Privasi">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Tampilkan Kebijakan Privasi">
+
+<!ENTITY reportResults.showDetail.title             "Tampilkan Detail">
+<!ENTITY reportResults.showDetail.accesskey         "D">
+
+<!ENTITY sendReport.label                           "Mengirim Laporan">
+<!ENTITY sendReport.description                     "Mengirim Laporan ke server…">
+
+<!ENTITY finish.label                               "Laporan Terkirim">

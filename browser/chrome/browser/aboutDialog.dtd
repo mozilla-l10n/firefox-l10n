@@ -1,11 +1,11 @@
-<!ENTITY aboutDialog.title "Tentang &brandFullName;">
-<!ENTITY copyright "Kredit">
-<!ENTITY copyright.accesskey "K">
-<!ENTITY copyrightGNOME.accesskey "K">
-<!ENTITY aboutLink "&lt; Tentang &brandFullName;">
-<!ENTITY aboutLink.accesskey "g">
-<!ENTITY aboutVersion "versi">
-<!ENTITY closeCmdGNOME.label "Tutup">
-<!ENTITY closeCmdGNOME.accesskey "T">
-<!ENTITY licenseLinkText "Informasi Lisensi">
-<!ENTITY licenseLinkSuffix ".">
+<!ENTITY aboutDialog.title          "Tentang &brandFullName;">
+<!ENTITY copyright                  "Kredit">
+<!ENTITY copyright.accesskey        "K">
+<!ENTITY copyrightGNOME.accesskey   "K">
+<!ENTITY aboutLink                  "&lt; Tentang &brandFullName;">
+<!ENTITY aboutLink.accesskey        "g">
+<!ENTITY aboutVersion               "versi">
+<!ENTITY closeCmdGNOME.label        "Tutup">  
+<!ENTITY closeCmdGNOME.accesskey    "T">
+<!ENTITY licenseLinkText            "Informasi Lisensi">
+<!ENTITY licenseLinkSuffix          ".">

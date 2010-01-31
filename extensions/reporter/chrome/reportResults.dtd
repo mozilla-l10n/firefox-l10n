@@ -1,15 +1,15 @@
-<!ENTITY reportSite "Situs">
-<!ENTITY reportProblemType "Jenis Masalah">
-<!ENTITY reportDecsription "Deskripsi">
-<!ENTITY reportPlatform "Platform">
-<!ENTITY reportProduct "Produk">
-<!ENTITY reportoscpu "Sistem Operasi">
-<!ENTITY reportGecko "Gecko">
-<!ENTITY reportBuildConfig "Konfigurasi Build">
-<!ENTITY reportUseragent "Useragent">
-<!ENTITY reportLanguage "Bahasa">
-<!ENTITY reportCharset "Set Karakter">
-<!ENTITY reportEmail "Email">
-<!ENTITY error "Detail Kesalahan">
-<!ENTITY faultCode "Kode Sumber">
-<!ENTITY faultMessage "Pesan">
+<!ENTITY reportSite                  "Situs">
+<!ENTITY reportProblemType           "Jenis Masalah">
+<!ENTITY reportDecsription           "Deskripsi">
+<!ENTITY reportPlatform              "Platform">
+<!ENTITY reportProduct               "Produk">
+<!ENTITY reportoscpu                 "Sistem Operasi">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Konfigurasi Build">
+<!ENTITY reportUseragent             "Useragent">
+<!ENTITY reportLanguage              "Bahasa">
+<!ENTITY reportCharset               "Set Karakter">
+<!ENTITY reportEmail                 "Email">
+<!ENTITY error                       "Detail Kesalahan">
+<!ENTITY faultCode                   "Kode Sumber">
+<!ENTITY faultMessage                "Pesan">

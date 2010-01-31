@@ -1,29 +1,40 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Kecilkan">
-<!ENTITY bringAllToFront.label "Tampilkan Semua ke Latar Depan">
-<!ENTITY zoomWindow.label "Perbesaran">
-<!ENTITY windowMenu.label "Jendela">
-<!ENTITY helpMenu.label "Bantuan">
-<!ENTITY helpMenu.accesskey "n">
-<!ENTITY helpMenuWin.label "Bantuan">
-<!ENTITY helpMenuWin.accesskey "n">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Kecilkan">
+<!ENTITY bringAllToFront.label    "Tampilkan Semua ke Latar Depan">
+<!ENTITY zoomWindow.label         "Perbesaran">
+<!ENTITY windowMenu.label         "Jendela">
+
+<!ENTITY helpMenu.label           "Bantuan"> 
+<!ENTITY helpMenu.accesskey       "n"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Bantuan"> 
+<!ENTITY helpMenuWin.accesskey    "n">
 <!ENTITY aboutProduct.label       "Tentang &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "T">
-<!ENTITY productHelp.label "Bantuan &brandShortName;">
-<!ENTITY productHelp.accesskey "B">
-<!ENTITY helpForIEUsers.label "Untuk Pengguna Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "E">
-<!ENTITY helpMac.commandkey "?">
-<!ENTITY helpReleaseNotes.label "Catatan Rilis">
-<!ENTITY helpReleaseNotes.accesskey "C">
-<!ENTITY helpTroubleshootingInfo.label "Informasi Pemecahan Masalah…">
-<!ENTITY helpTroubleshootingInfo.accesskey "M">
-<!ENTITY updateCmd.label "Periksa Versi Baru…">
-<!ENTITY preferencesCmdMac.label "Pengaturan…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY servicesMenuMac.label "Layanan">
-<!ENTITY hideThisAppCmdMac.label "Sembunyikan &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.label "Sembunyikan Lainnya">
+<!ENTITY productHelp.label        "Bantuan &brandShortName;">
+<!ENTITY productHelp.accesskey    "B">
+<!ENTITY helpForIEUsers.label     "Untuk Pengguna Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "e">
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpReleaseNotes.label         "Catatan Rilis">
+<!ENTITY helpReleaseNotes.accesskey     "C">
+
+<!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "m">
+
+<!ENTITY updateCmd.label                "Periksa Versi Baru…">
+
+<!ENTITY preferencesCmdMac.label        "Pengaturan…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Layanan">
+
+<!ENTITY hideThisAppCmdMac.label        "Sembunyikan &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Sembunyikan Lainnya">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY showAllAppsCmdMac.label "Tampilkan Semua">
+
+<!ENTITY showAllAppsCmdMac.label        "Tampilkan Semua">

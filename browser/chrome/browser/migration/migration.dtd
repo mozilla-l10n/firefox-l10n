@@ -1,42 +1,51 @@
-<!ENTITY migrationWizard.title "Penuntun Impor">
-<!ENTITY importFrom.label "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi, dan data lainnya dari:">
-<!ENTITY importFromUnix.label "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi, dan data lainnya dari:">
-<!ENTITY importFromBookmarks.label "Impor Bookmark dari:">
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird atau Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Jangan impor apa pun">
-<!ENTITY importFromNothing.accesskey "J">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 atau Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "Dari Berkas HTML">
-<!ENTITY importFromHTMLFile.accesskey "B">
-<!ENTITY noMigrationSources.label "Tidak ada program yang berisi bookmark, riwayat atau kata sandi yang bisa ditemukan.">
-<!ENTITY importSource.title "Impor Pengaturan dan Data">
-<!ENTITY importItems.title "Pilih yang akan diimpor">
-<!ENTITY importItems.label "Pilih yang akan diimpor:">
-<!ENTITY migrating.title "Mengimpor…">
-<!ENTITY migrating.label "Berikut ini yang sedang diimpor…">
-<!ENTITY selectProfile.title "Pilih Profil">
-<!ENTITY selectProfile.label "Profil berikut ini bisa diimpor dari:">
-<!ENTITY done.title "Proses Impor Selesai">
-<!ENTITY done.label "Item berikut sukses diimpor:">
+
+<!ENTITY migrationWizard.title          "Penuntun Impor">
+
+<!ENTITY importFrom.label               "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi, dan data lainnya dari:">
+<!ENTITY importFromUnix.label           "Impor Pengaturan, Bookmark, Riwayat, Kata Sandi, dan data lainnya dari:">
+<!ENTITY importFromBookmarks.label      "Impor Bookmark dari:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird atau Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Jangan impor apa pun">
+<!ENTITY importFromNothing.accesskey    "J">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 atau Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Dari Berkas HTML">
+<!ENTITY importFromHTMLFile.accesskey   "B">
+
+<!ENTITY noMigrationSources.label       "Tidak ada program yang berisi bookmark, riwayat atau kata sandi yang bisa ditemukan.">
+
+<!ENTITY importSource.title             "Impor Pengaturan dan Data">
+<!ENTITY importItems.title              "Pilih yang akan diimpor">
+<!ENTITY importItems.label              "Pilih yang akan diimpor:">
+
+<!ENTITY migrating.title                "Mengimpor…">
+<!ENTITY migrating.label                "Berikut ini yang sedang diimpor…">
+
+<!ENTITY selectProfile.title            "Pilih Profil">
+<!ENTITY selectProfile.label            "Profil berikut ini bisa diimpor dari:">
+
+<!ENTITY done.title                     "Proses Impor Selesai">
+<!ENTITY done.label                     "Item berikut sukses diimpor:">
+

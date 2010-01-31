@@ -1,4 +1,7 @@
-<!ENTITY startDescription.label "Sebuah situs web mencoba membuka jendela pop-up tanpa seizin Anda. &brandShortName; telah menutup jendela pop-up secara otomatis. Setiap &brandShortName; memblokir pop-up ini, Anda akan melihat sebuah ikon di bilah status.">
-<!ENTITY endDescription.label "Anda dapat mengklik ikon ini untuk melihat situs mana yang diblokir &brandShortName; dan mengizinkan situs tersebut untuk membuka pop-up apabila ternyata diharuskan supaya situs berfungsi dengan baik.">
-<!ENTITY caption.label "Tentang Blokir Pop-up">
+<!ENTITY startDescription.label            "Sebuah situs web mencoba membuka jendela pop-up tanpa seizin Anda. &brandShortName; telah menutup jendela pop-up secara otomatis. Setiap &brandShortName; memblokir pop-up ini, Anda akan melihat sebuah ikon di bilah status.">
+
+<!ENTITY endDescription.label              "Anda dapat mengklik ikon ini untuk melihat situs mana yang diblokir &brandShortName; dan mengizinkan situs tersebut untuk membuka pop-up apabila ternyata diharuskan supaya situs berfungsi dengan baik.">
+
+<!ENTITY caption.label                     "Tentang Blokir Pop-up">
+
 <!ENTITY done.label "Selesai">

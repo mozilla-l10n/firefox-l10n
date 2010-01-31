@@ -21,7 +21,6 @@
    - Contributor(s):
    -   Bill Law       <law@netscape.com>
    -   Aaron Kaluszka <ask@swva.net>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,30 +35,102 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY defaultTitle "Menyimpan">
-<!ENTITY savingTitle "#2&#037; dari #1 Tersimpan">
-<!ENTITY savingSource "Menyimpan Dari:">
-<!ENTITY savingTarget "Kepada:">
-<!ENTITY openingTitle "#2&#037; dari #1 Selesai">
-<!ENTITY openingSource "Membuka Dari:">
-<!ENTITY openingTarget "Dengan:">
-<!ENTITY unknownSavingTitle "Menyimpan #1">
+
+<!-- These strings are used on the download progress dialog.
+     See: http://lxr.mozilla.org/seamonkey/source/embedding/components/ui/progressDlg/nsProgressDialog.xul
+-->
+
+<!-- This is used prior to initializing with a proper title -->
+<!ENTITY defaultTitle     "Menyimpan">
+
+<!-- These are used when saving -->
+<!ENTITY savingTitle      "#2&#037; dari #1 Tersimpan"> 
+<!ENTITY savingSource     "Menyimpan Dari:"> 
+<!ENTITY savingTarget     "Kepada:"> 
+
+<!-- These are used when opening (with an application) -->
+<!ENTITY openingTitle      "#2&#037; dari #1 Selesai">
+<!ENTITY openingSource     "Membuka Dari:">
+<!ENTITY openingTarget     "Dengan:">
+
+<!-- This is used when the download percentage is unknown -->
+<!ENTITY unknownSavingTitle  "Menyimpan #1">
 <!ENTITY unknownOpeningTitle "Membuka #1">
-<!ENTITY status "Status:">
+
+<!-- Labels on other fields -->
+<!ENTITY status      "Status:"> 
 <!ENTITY timeElapsed "Waktu Terpakai:">
-<!ENTITY timeLeft "Waktu Sisa:">
-<!ENTITY progress "Kemajuan:">
+<!ENTITY timeLeft    "Waktu Sisa:">
+<!ENTITY progress    "Kemajuan:">
+
+<!-- Label for the "keep dialog" checkbox -->
 <!ENTITY keep "Biarkan jendela ini terbuka setelah pengunduhan selesai.">
-<!ENTITY cancel "Batal">
-<!ENTITY pause "Tunda">
+
+<!-- Button labels -->
+<!ENTITY cancel "Batal"> 
+<!ENTITY pause  "Tunda">
 <!ENTITY resume "Lanjutkan">
-<!ENTITY close "Tutup">
+<!ENTITY close  "Tutup">
 <!ENTITY reveal "Tampilkan Lokasi Berkas">
 <!ENTITY launch "Buka Berkas">
+
+<!-- Status/progress messages -->
+
+<!-- LOCALIZATION NOTE (pausedMsg):
+    This string is used to indicate that the download is paused -->
 <!ENTITY pausedMsg "Pengunduhan Dihentikan Sementara">
+
+<!-- LOCALIZATION NOTE (progressMsg):
+
+    This string is used to generate the status message used during
+    file download.
+
+    #1 will be replaced by the number of bytes downloaded thus far
+    #2 will be replaced by the total number of bytes to be downloaded
+    #3 will be replaced by the download rate (in KB per second) -->
 <!ENTITY progressMsg "#1KB dari #2KB (pada #3KB/detik)">
+
+<!-- LOCALIZATION NOTE (unknownTime):
+    
+    This string is used when the time remaining is unknown. -->
 <!ENTITY unknownTime "Tidak Diketahui">
+
+<!-- LOCALIZATION NOTE (longTimeFormat):
+
+    This string is used to format elapsed/remaining times when the
+    time exceeds 1 hour in length.
+
+    #1 will be replaced by the number of hours
+    #2 will be replaced by the number of minutes
+    #3 will be replaced by the number of seconds -->
 <!ENTITY longTimeFormat "#1:#2:#3">
+
+<!-- LOCALIZATION NOTE (shortTimeFormat):
+
+    This string is used to format elapsed/remaining times when the
+    time is less than 1 hour in length.  Note that you can leave
+    "#1" out of this string to omit the leading "00:" if you so choose.
+
+    #1 will be replaced by the number of hours
+    #2 will be replaced by the number of minutes
+    #3 will be replaced by the number of seconds -->
 <!ENTITY shortTimeFormat "#2:#3">
+
+<!-- LOCALIZATION NOTE (completeMsg):
+
+    This string is displayed when the download is complete.  The insert
+    "#1" is replaced by the elapsed time, formatted according to the
+    xxxTimeFormat strings defined above).  You can omit "#1" if you don't
+    want the elapsed time in the message.
+
+    #1 will be replaced by the elapsed time
+    #2 will be replaced by the size of the file in Kilobytes -->
 <!ENTITY completeMsg "Selesai, #2 KB diunduh (selama #1)">
+
+<!-- LOCALIZATION NOTE (percentMsg):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentMsg "#1&#037;">
