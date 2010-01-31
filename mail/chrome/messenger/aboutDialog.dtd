@@ -2,7 +2,7 @@
 <!ENTITY aboutButton.label      "&lt; Bakåt">
 <!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2009 Medarbetarna. Alla rättigheter förbehållna. Mozilla
+<!ENTITY copyrightText          "&#169;1998-2010 Medarbetarna. Alla rättigheter förbehållna. Mozilla
                                  Thunderbird och Thunderbird-logotyper är varumärken som tillhör Mozilla
                                  Foundation. Alla rättigheter förbehållna.">
 <!ENTITY aboutMenu.label        "Om">
