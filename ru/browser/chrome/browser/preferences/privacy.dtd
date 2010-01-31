@@ -1,6 +1,6 @@
 <!ENTITY history.label "История">
 <!ENTITY locationBar.label "Панель адреса">
-<!ENTITY locbar.pre.label "При использовании панели адреса, предлагать ссылки:">
+<!ENTITY locbar.pre.label "При использовании панели адреса предлагать ссылки:">
 <!ENTITY locbar.pre.accessKey "с">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "из журнала и закладок">

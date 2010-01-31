@@ -9,7 +9,7 @@
 <!ENTITY cmd.resume.accesskey "з">
 <!ENTITY cmd.cancel.label "Отменить">
 <!ENTITY cmd.cancel.accesskey "т">
-<!ENTITY cmd.show.label "Открыть папку содержащую файл">
+<!ENTITY cmd.show.label "Открыть папку с файлом">
 <!ENTITY cmd.show.accesskey "п">
 <!ENTITY cmd.showMac.label "Показать в Finder">
 <!ENTITY cmd.showMac.accesskey "к">
