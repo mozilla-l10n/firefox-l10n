@@ -1,18 +1,25 @@
-<!ENTITY pluginWizard.title "Layanan Pencari Plugin">
-<!ENTITY pluginWizard.firstPage.title "Selamat datang di &pluginWizard.title;">
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; sekarang memeriksa plugin yang tersedia…">
-<!ENTITY pluginWizard.availablePluginsPage.title "Unduhan Plugin yang Tersedia">
+<!ENTITY pluginWizard.title                                  "Layanan Pencari Plugin">
+<!ENTITY pluginWizard.firstPage.title                        "Selamat datang di &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; sekarang memeriksa plugin yang tersedia…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Unduhan Plugin yang Tersedia">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Plugin berikut ini tersedia:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Tekan Lanjut untuk memasang plugin ini.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Beberapa plugin mungkin membutuhkan informasi tambahan dari Anda selama pemasangan.">
-<!ENTITY pluginWizard.licensePage.title "Lisensi Plugin">
-<!ENTITY pluginWizard.licensePage.accept.label "Saya setuju.">
-<!ENTITY pluginWizard.licensePage.deny.label "Saya tidak setuju (plugin tidak akan dipasang).">
-<!ENTITY pluginWizard.installPluginsPage.title "Memasang Plugin">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; sedang memasang plugin…">
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; selesai memasang plugin yang belum tersedia:">
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Cari tahu tentang Plugin atau cari sendiri plugin-nya.">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; perlu direstart agar plugin bisa bekerja.">
-<!ENTITY missingPlugin.label "Klik di sini untuk mengunduh plugin.">
-<!ENTITY disabledPlugin.label "Plugin untuk isi berikut telah dimatikan. Klik di sini untuk mengelola plugin Anda.">
-<!ENTITY blockedPlugin.label "Plugin berikut telah diblokir untuk keamanan Anda.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Beberapa plugin mungkin membutuhkan informasi tambahan dari Anda selama pemasangan.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Lisensi Plugin">
+<!ENTITY pluginWizard.licensePage.accept.label               "Saya setuju.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Saya tidak setuju (plugin tidak akan dipasang).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Memasang Plugin">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; sedang memasang plugin…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; selesai memasang plugin yang belum tersedia:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Cari tahu tentang Plugin atau cari sendiri plugin-nya.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu direstart agar plugin bisa bekerja.">
+  
+<!ENTITY missingPlugin.label                                 "Klik di sini untuk mengunduh plugin.">
+<!ENTITY disabledPlugin.label                                "Plugin untuk isi berikut telah dimatikan. Klik di sini untuk mengelola plugin Anda.">
+<!ENTITY blockedPlugin.label                                 "Plugin berikut telah diblokir untuk keamanan Anda.">

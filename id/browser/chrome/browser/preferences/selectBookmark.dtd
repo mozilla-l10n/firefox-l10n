@@ -1,2 +1,5 @@
-<!ENTITY selectBookmark.title "Jadikan Beranda">
-<!ENTITY selectBookmark.label "Pilih sebuah Bookmark untuk menjadi Beranda. Jika Anda memilih folder, seluruh Bookmark dari folder tersebut akan dibuka dalam Tab.">
+<!ENTITY selectBookmark.title
+  "Jadikan Beranda">
+<!ENTITY selectBookmark.label
+  "Pilih sebuah Bookmark untuk menjadi Beranda. Jika Anda memilih folder, seluruh Bookmark dari folder tersebut akan dibuka dalam Tab.">
+

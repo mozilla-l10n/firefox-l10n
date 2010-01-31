@@ -1,33 +1,37 @@
-<!ENTITY startup.label "Memulai">
-<!ENTITY startupPage.label "Saat memulai &brandShortName;:">
-<!ENTITY startupPage.accesskey "m">
-<!ENTITY startupHomePage.label "Tampilkan beranda">
-<!ENTITY startupBlankPage.label "Tampilkan laman kosong">
-<!ENTITY startupLastSession.label "Tampilkan jendela dan tab dari sesi sebelumnya">
-<!ENTITY location.label "Beranda:">
-<!ENTITY location.accesskey "b">
-<!ENTITY useCurrentPage.label "Gunakan Laman Sekarang">
-<!ENTITY useCurrentPage.accesskey "h">
-<!ENTITY useMultiple.label "Gunakan Semua Laman Berikut">
-<!ENTITY useBookmark.label "Gunakan Bookmark">
-<!ENTITY useBookmark.accesskey "g">
-<!ENTITY restoreDefault.label "Kembalikan ke Default">
-<!ENTITY restoreDefault.accesskey "d">
-<!ENTITY downloads.label "Unduhan">
-<!ENTITY showWhenDownloading.label "Tampilkan jendela Unduhan ketika sedang mengunduh berkas">
+<!ENTITY startup.label             "Memulai">
+
+<!ENTITY startupPage.label         "Saat memulai &brandShortName;:">
+<!ENTITY startupPage.accesskey     "m">
+<!ENTITY startupHomePage.label     "Tampilkan beranda">
+<!ENTITY startupBlankPage.label    "Tampilkan laman kosong">
+<!ENTITY startupLastSession.label  "Tampilkan jendela dan tab dari sesi sebelumnya">
+<!ENTITY location.label            "Beranda:">
+<!ENTITY location.accesskey        "B">
+<!ENTITY useCurrentPage.label      "Gunakan Laman Sekarang">
+<!ENTITY useCurrentPage.accesskey  "G">
+<!ENTITY useMultiple.label         "Gunakan Semua Laman Berikut">
+<!ENTITY useBookmark.label         "Gunakan Bookmark">
+<!ENTITY useBookmark.accesskey     "G">
+<!ENTITY restoreDefault.label      "Kembalikan ke Default">
+<!ENTITY restoreDefault.accesskey  "D">
+
+<!ENTITY downloads.label     "Unduhan">
+
+<!ENTITY showWhenDownloading.label     "Tampilkan jendela Unduhan ketika sedang mengunduh berkas">
 <!ENTITY showWhenDownloading.accesskey "U">
 <!ENTITY closeWhenDone.label "Tutup setelah semua unduhan selesai">
-<!ENTITY closeWhenDone.accesskey "t">
+<!ENTITY closeWhenDone.accesskey "T">
 <!ENTITY saveTo.label "Simpan berkas di">
 <!ENTITY saveTo.accesskey "S">
-<!ENTITY chooseFolderWin.label "Telusuri…">
-<!ENTITY chooseFolderWin.accesskey "e">
-<!ENTITY chooseFolderMac.label "Pilih…">
-<!ENTITY chooseFolderMac.accesskey "P">
+<!ENTITY chooseFolderWin.label        "Telusuri…">
+<!ENTITY chooseFolderWin.accesskey    "e">
+<!ENTITY chooseFolderMac.label        "Pilih…">
+<!ENTITY chooseFolderMac.accesskey    "P">
 <!ENTITY alwaysAsk.label "Selalu tanyakan lokasi penyimpanan berkas">
 <!ENTITY alwaysAsk.accesskey "l">
-<!ENTITY addonsMgr.label "Pengaya">
-<!ENTITY manageAddonsDescWin.label "Ubah pengaturan Pengaya">
-<!ENTITY manageAddonsDescUnix2.label "Ubah pengaturan Pengaya">
-<!ENTITY manageAddons.label "Kelola Pengaya…">
-<!ENTITY manageAddons.accesskey "K">
+
+<!ENTITY addonsMgr.label               "Pengaya">
+<!ENTITY manageAddonsDescWin.label     "Ubah pengaturan Pengaya">
+<!ENTITY manageAddonsDescUnix2.label   "Ubah pengaturan Pengaya">
+<!ENTITY manageAddons.label            "Kelola Pengaya…">
+<!ENTITY manageAddons.accesskey        "K">

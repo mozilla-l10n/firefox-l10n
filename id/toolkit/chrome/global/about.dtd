@@ -1,14 +1,21 @@
-<!ENTITY about.version "versi">
-<!ENTITY about.credits.beforeLink "Tampilkan daftar ">
-<!ENTITY about.credits.linkTitle "kontributor">
-<!ENTITY about.credits.afterLink " kepada Proyek Mozilla.">
-<!ENTITY about.license.beforeLink "Baca">
-<!ENTITY about.license.linkTitle "informasi lisensi">
-<!ENTITY about.license.afterLink "produk ini.">
-<!ENTITY about.relnotes.beforeLink "Baca">
-<!ENTITY about.relnotes.linkTitle "catatan rilis">
-<!ENTITY about.relnotes.afterLink "versi ini.">
+<!ENTITY about.version                "versi">
+
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Tampilkan daftar ">
+<!ENTITY about.credits.linkTitle      "kontributor">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " kepada Proyek Mozilla.">
+
+<!ENTITY about.license.beforeLink     "Baca">
+<!ENTITY about.license.linkTitle      "informasi lisensi">
+<!ENTITY about.license.afterLink      "produk ini.">
+
+<!ENTITY about.relnotes.beforeLink    "Baca">
+<!ENTITY about.relnotes.linkTitle     "catatan rilis">
+<!ENTITY about.relnotes.afterLink     "versi ini.">
+
 <!ENTITY about.buildconfig.beforeLink "Tampilkan">
-<!ENTITY about.buildconfig.linkTitle "konfigurasi build">
-<!ENTITY about.buildconfig.afterLink "yang digunakan versi ini.">
-<!ENTITY about.buildIdentifier "Identifikasi build: ">
+<!ENTITY about.buildconfig.linkTitle  "konfigurasi build">
+<!ENTITY about.buildconfig.afterLink  "yang digunakan versi ini.">
+
+<!ENTITY about.buildIdentifier        "Identifikasi build: ">

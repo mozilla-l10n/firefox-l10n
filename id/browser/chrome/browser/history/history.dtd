@@ -1,21 +1,21 @@
-<!ENTITY find.label "Cari:">
-<!ENTITY find.accesskey "C">
-<!ENTITY expand.label "Bentangkan">
-<!ENTITY expand.accesskey "B">
-<!ENTITY collapse.label "Ciutkan">
-<!ENTITY collapse.accesskey "C">
+<!ENTITY find.label                "Cari:">
+<!ENTITY find.accesskey            "C">
+<!ENTITY expand.label              "Bentangkan">
+<!ENTITY expand.accesskey          "B">
+<!ENTITY collapse.label            "Ciutkan">
+<!ENTITY collapse.accesskey        "C">
 <!ENTITY byDate.label "Berdasarkan Tanggal">
 <!ENTITY byDate.accesskey "T">
 <!ENTITY bySite.label "Berdasarkan Situs">
-<!ENTITY bySite.accesskey "S">
+<!ENTITY bySite.accesskey "s">
 <!ENTITY view.label "Tampilkan">
-<!ENTITY view.accesskey "L">
+<!ENTITY view.accesskey "l">
 <!ENTITY byMostVisited.label "Berdasarkan Jumlah Kunjungan">
 <!ENTITY byMostVisited.accesskey "J">
 <!ENTITY byLastVisited.label "Berdasarkan Kunjungan Terakhir">
-<!ENTITY byLastVisited.accesskey "K">
+<!ENTITY byLastVisited.accesskey "k">
 <!ENTITY byDayAndSite.label "Berdasarkan Tanggal dan Situs">
-<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byDayAndSite.accesskey "T">
 <!ENTITY openLinkInWindow.label "Buka">
 <!ENTITY openLinkInWindow.accesskey "B">
 <!ENTITY openInNewTab.label "Buka di Tab Baru">

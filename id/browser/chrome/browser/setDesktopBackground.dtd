@@ -1,9 +1,9 @@
-<!ENTITY position.label "Posisi:">
-<!ENTITY tile.label "Berjejer">
-<!ENTITY center.label "Tengah">
-<!ENTITY stretch.label "Direntang">
-<!ENTITY preview.label "Pratinjau">
-<!ENTITY color.label "Warna:">
+<!ENTITY position.label             "Posisi:">
+<!ENTITY tile.label                 "Berjejer">
+<!ENTITY center.label               "Tengah">
+<!ENTITY stretch.label              "Direntang">
+<!ENTITY preview.label              "Pratinjau">
+<!ENTITY color.label                "Warna:">
 <!ENTITY setDesktopBackground.title "Jadikan sebagai Latar Belakang Desktop">
-<!ENTITY openDesktopPrefs.label "Buka Pengaturan Desktop">
-<!ENTITY closeWindow.key "w">
+<!ENTITY openDesktopPrefs.label     "Buka Pengaturan Desktop">
+<!ENTITY closeWindow.key            "w">

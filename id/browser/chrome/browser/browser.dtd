@@ -1,7 +1,16 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
+
 <!ENTITY tabCmd.label "Tab Baru">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -19,8 +28,10 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "Impor…">
 <!ENTITY import.accesskey "I">
+
 <!ENTITY goOfflineCmd.label "Bekerja Luring">
 <!ENTITY goOfflineCmd.accesskey "L">
+
 <!ENTITY menubarCmd.label "Bilah Menu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bilah Alat Navigasi">
@@ -30,6 +41,7 @@
 <!ENTITY bookmarksToolbarItem.label "Nama Bookmark">
 <!ENTITY taskbarCmd.label "Bilah Status">
 <!ENTITY taskbarCmd.accesskey "a">
+
 <!ENTITY pageSourceCmd.label "Kode Sumber Halaman">
 <!ENTITY pageSourceCmd.accesskey "S">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -39,6 +51,9 @@
 <!ENTITY fullScreenCmd.label "Layar Penuh">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Tampilkan Semua Tab">
+<!ENTITY showAllTabsCmd.accesskey "S">
+
 <!ENTITY fullScreenMinimize.tooltip "Kecilkan">
 <!ENTITY fullScreenRestore.tooltip "Kembalikan">
 <!ENTITY fullScreenClose.tooltip "Tutup">
@@ -46,8 +61,10 @@
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar dari Mode Layar Penuh">
 <!ENTITY fullScreenExit.accesskey "P">
+
 <!ENTITY closeWindow.label "Tutup Jendela">
 <!ENTITY closeWindow.accesskey "d">
+
 <!ENTITY bookmarksMenu.label "Bookmark">
 <!ENTITY bookmarksMenu.accesskey "m">
 <!ENTITY bookmarkThisPageCmd.label "Buat Bookmark Halaman ini">
@@ -58,291 +75,379 @@
 <!ENTITY organizeBookmarks.label "Kelola Bookmark…">
 <!ENTITY bookmarkAllCmd.label "Buat Bookmark Semua Tab…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan bookmark lainnya">
-<!ENTITY backCmd.label "Mundur">
-<!ENTITY backCmd.accesskey "d">
-<!ENTITY backButton.tooltip "Mundur satu halaman">
-<!ENTITY forwardCmd.label "Maju">
-<!ENTITY forwardCmd.accesskey "j">
-<!ENTITY forwardButton.tooltip "Maju satu halaman">
-<!ENTITY backForwardMenu.tooltip "Halaman-halaman terakhir">
-<!ENTITY reloadCmd.label "Muat ulang">
-<!ENTITY reloadCmd.accesskey "u">
-<!ENTITY reloadButton.tooltip "Muat ulang halaman ini">
-<!ENTITY stopCmd.label "Berhenti">
-<!ENTITY stopCmd.accesskey "i">
-<!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Berhenti memuat halaman ini">
-<!ENTITY goEndCap.tooltip "Pindah ke alamat di Bilah Lokasi">
-<!ENTITY feedButton.tooltip "Berlangganan halaman ini…">
-<!ENTITY printButton.label "Cetak">
-<!ENTITY printButton.tooltip "Cetak halaman ini">
-<!ENTITY locationItem.title "Lokasi">
-<!ENTITY searchItem.title "Cari">
-<!ENTITY throbberItem.title "Indikator Aktivitas">
-<!ENTITY bookmarksItem.title "Bookmark">
-<!ENTITY homeButton.label "Beranda">
-<!ENTITY bookmarksButton.label "Bookmark">
-<!ENTITY bookmarksButton.tooltip "Menampilkan bookmark Anda">
-<!ENTITY bookmarksButton.accesskey "B">
+
+<!ENTITY backCmd.label                "Mundur">
+<!ENTITY backCmd.accesskey            "d">
+<!ENTITY backButton.tooltip           "Mundur satu halaman">
+<!ENTITY forwardCmd.label             "Maju">
+<!ENTITY forwardCmd.accesskey         "j">
+<!ENTITY forwardButton.tooltip        "Maju satu halaman">
+<!ENTITY backForwardMenu.tooltip      "Halaman-halaman terakhir">
+<!ENTITY reloadCmd.label              "Muat ulang">
+<!ENTITY reloadCmd.accesskey          "u">
+<!ENTITY reloadButton.tooltip         "Muat ulang halaman ini">
+<!ENTITY stopCmd.label                "Berhenti">
+<!ENTITY stopCmd.accesskey            "i">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Berhenti memuat halaman ini">
+<!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
+<!ENTITY feedButton.tooltip           "Berlangganan halaman ini…">
+<!ENTITY printButton.label            "Cetak">
+<!ENTITY printButton.tooltip          "Cetak halaman ini">
+
+<!ENTITY locationItem.title           "Lokasi">
+<!ENTITY searchItem.title             "Cari">
+<!ENTITY throbberItem.title           "Indikator Aktivitas">
+<!ENTITY bookmarksItem.title          "Bookmark">
+
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "Beranda">
+
+<!ENTITY bookmarksButton.label          "Bookmark">
+<!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
+<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "h">
-<!ENTITY historyButton.label "Riwayat">
-<!ENTITY historyButton.tooltip "Menampilkan riwayat halaman yang baru saja dilihat">
-<!ENTITY historySidebarCmd.accesskey "R">
-<!ENTITY historySidebarCmd.commandKey "h">
-<!ENTITY toolsMenu.label "Alat">
-<!ENTITY toolsMenu.accesskey "A">
-<!ENTITY keywordfield.label "Tambahkan Kata Kunci untuk Pencarian ini…">
-<!ENTITY keywordfield.accesskey "K">
-<!ENTITY search.label "Cari di Web">
-<!ENTITY search.accesskey "C">
-<!ENTITY downloads.label "Unduhan">
-<!ENTITY downloads.tooltip "Tampilkan kemajuan proses unduhan yang sedang berjalan">
-<!ENTITY downloads.accesskey "U">
-<!ENTITY downloads.commandkey "j">
-<!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "Pengaya">
-<!ENTITY addons.tooltip "Tampilkan dan Kelola Pengaya yang terpasang">
-<!ENTITY addons.accesskey "P">
-<!ENTITY errorConsoleCmd.label "Konsol Kesalahan">
-<!ENTITY errorConsoleCmd.accesskey "K">
-<!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY fileMenu.label "Berkas">
-<!ENTITY fileMenu.accesskey "B">
-<!ENTITY newNavigatorCmd.label "Jendela Baru">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "J">
-<!ENTITY editMenu.label "Ubah">
-<!ENTITY editMenu.accesskey "U">
-<!ENTITY undoCmd.label "Batal">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "B">
-<!ENTITY redoCmd.label "Ulangi">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "U">
-<!ENTITY cutCmd.label "Potong">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "S">
-<!ENTITY pasteCmd.label "Tempel">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "H">
-<!ENTITY selectAllCmd.label "Pilih Semua">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Pengaturan…">
-<!ENTITY preferencesCmd.accesskey "g">
-<!ENTITY preferencesCmdUnix.label "Pengaturan">
-<!ENTITY preferencesCmdUnix.accesskey "g">
-<!ENTITY clearRecentHistory.label "Bersihkan Riwayat Terakhir">
-<!ENTITY clearRecentHistory.accesskey "B">
-<!ENTITY privateBrowsingCmd.start.label "Mulai Mode Penjelajahan Pribadi">
-<!ENTITY privateBrowsingCmd.start.accesskey "M">
-<!ENTITY privateBrowsingCmd.stop.label "Hentikan Mode Penjelajahan Pribadi">
-<!ENTITY privateBrowsingCmd.stop.accesskey "M">
-<!ENTITY privateBrowsingCmd.commandkey "P">
-<!ENTITY viewMenu.label "Tampilan">
-<!ENTITY viewMenu.accesskey "T">
-<!ENTITY viewToolbarsMenu.label "Bilah Alat">
-<!ENTITY viewToolbarsMenu.accesskey "T">
+
+<!ENTITY historyButton.label            "Riwayat">
+<!ENTITY historyButton.tooltip          "Menampilkan riwayat halaman yang baru saja dilihat">
+<!ENTITY historySidebarCmd.accesskey    "R">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Alat">
+<!ENTITY toolsMenu.accesskey          "A"> 
+
+<!ENTITY keywordfield.label           "Tambahkan Kata Kunci untuk Pencarian ini…">
+<!ENTITY keywordfield.accesskey       "k">
+<!ENTITY search.label                 "Cari di Web">
+<!ENTITY search.accesskey             "C">
+<!ENTITY downloads.label              "Unduhan">
+<!ENTITY downloads.tooltip            "Tampilkan kemajuan proses unduhan yang sedang berjalan">
+<!ENTITY downloads.accesskey          "U">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Pengaya">
+<!ENTITY addons.tooltip               "Tampilkan dan Kelola Pengaya yang terpasang">
+<!ENTITY addons.accesskey             "P">
+
+<!ENTITY errorConsoleCmd.label        "Konsol Kesalahan">
+<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY fileMenu.label         "Berkas"> 
+<!ENTITY fileMenu.accesskey       "B">
+<!ENTITY newNavigatorCmd.label        "Jendela Baru">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "J">
+
+<!ENTITY editMenu.label         "Ubah"> 
+<!ENTITY editMenu.accesskey       "U"> 
+<!ENTITY undoCmd.label            "Batal">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "B"> 
+<!ENTITY redoCmd.label            "Ulangi">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "U"> 
+<!ENTITY cutCmd.label           "Potong">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Salin">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "S"> 
+<!ENTITY pasteCmd.label           "Tempel">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "p"> 
+<!ENTITY deleteCmd.label          "Hapus">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "H"> 
+<!ENTITY selectAllCmd.label         "Pilih Semua">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY preferencesCmd.label       "Pengaturan…">
+<!ENTITY preferencesCmd.accesskey     "g"> 
+<!ENTITY preferencesCmdUnix.label       "Pengaturan">
+<!ENTITY preferencesCmdUnix.accesskey     "g"> 
+
+<!ENTITY clearRecentHistory.label               "Bersihkan Riwayat Terakhir">
+<!ENTITY clearRecentHistory.accesskey           "B">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Mulai Mode Penjelajahan Pribadi">
+<!ENTITY privateBrowsingCmd.start.accesskey     "M">
+<!ENTITY privateBrowsingCmd.stop.label          "Hentikan Mode Penjelajahan Pribadi">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "M">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Tampilan"> 
+<!ENTITY viewMenu.accesskey       "T"> 
+<!ENTITY viewToolbarsMenu.label       "Bilah Alat"> 
+<!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bilah Samping">
 <!ENTITY viewSidebarMenu.accesskey "m">
-<!ENTITY viewCustomizeToolbar.label "Suka-suka…">
-<!ENTITY viewCustomizeToolbar.accesskey "S">
+<!ENTITY viewCustomizeToolbar.label       "Suka-suka…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "S">
+
 <!ENTITY historyMenu.label "Riwayat">
 <!ENTITY historyMenu.accesskey "R">
 <!ENTITY historyUndoMenu.label "Tab yang Baru Saja Ditutup">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Jendela yang Baru Saja Ditutup">
+
 <!ENTITY historyHomeCmd.label "Beranda">
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY openCmd.commandkey "l">
+
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Cari di Daftar Bookmark dan Riwayat">
-<!ENTITY urlbar.bookmark.emptyText "Cari di Daftar Bookmark">
-<!ENTITY urlbar.history.emptyText "Cari di Daftar Riwayat">
-<!ENTITY urlbar.none.emptyText "Ketikkan alamat Web">
-<!ENTITY urlbar.accesskey "d">
-<!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
-<!ENTITY searchFocusUnix.commandkey "j">
-<!ENTITY openLinkCmd.label "Buka Tautan di Jendela Baru">
-<!ENTITY openLinkCmd.accesskey "J">
+<!ENTITY urlbar.bookmark.emptyText    "Cari di Daftar Bookmark">
+<!ENTITY urlbar.history.emptyText     "Cari di Daftar Riwayat">
+<!ENTITY urlbar.none.emptyText        "Ketikkan alamat Web">
+<!ENTITY urlbar.accesskey             "d">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmd.label            "Buka Tautan di Jendela Baru">
+<!ENTITY openLinkCmd.accesskey        "J">
 <!ENTITY openLinkCmdInCurrent.label     "Buka Tautan">
 <!ENTITY openLinkCmdInCurrent.accesskey "a">
-<!ENTITY openLinkCmdInTab.label "Buka Tautan di Tab Baru">
-<!ENTITY openLinkCmdInTab.accesskey "T">
-<!ENTITY openFrameCmd.label "Buka Bingkai di Jendela Baru">
-<!ENTITY openFrameCmd.accesskey "i">
-<!ENTITY openFrameCmdInTab.label "Buka Bingkai di Tab Baru">
-<!ENTITY openFrameCmdInTab.accesskey "g">
-<!ENTITY showOnlyThisFrameCmd.label "Hanya Tampilkan Bingkai yang Ini">
+<!ENTITY openLinkCmdInTab.label       "Buka Tautan di Tab Baru">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openFrameCmd.label           "Buka Bingkai di Jendela Baru">
+<!ENTITY openFrameCmd.accesskey       "i">
+<!ENTITY openFrameCmdInTab.label      "Buka Bingkai di Tab Baru">
+<!ENTITY openFrameCmdInTab.accesskey  "g">
+<!ENTITY showOnlyThisFrameCmd.label     "Hanya Tampilkan Bingkai yang Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "n">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY reloadFrameCmd.label "Muatkan Bingkai Lagi">
-<!ENTITY reloadFrameCmd.accesskey "t">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Muatkan Bingkai Lagi">
+<!ENTITY reloadFrameCmd.accesskey     "t">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Lihat Kode Sumber Teks yang Dipilih">
-<!ENTITY viewPartialSourceForMathMLCmd.label "Lihat Kode Sumber MathML">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Lihat Kode Sumber MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "l">
-<!ENTITY viewPageSourceCmd.label "Lihat Kode Sumber Halaman">
-<!ENTITY viewPageSourceCmd.accesskey "H">
-<!ENTITY viewFrameSourceCmd.label "Lihat Kode Sumber Bingkai">
-<!ENTITY viewFrameSourceCmd.accesskey "B">
-<!ENTITY viewPageInfoCmd.label "Lihat Informasi Halaman">
-<!ENTITY viewPageInfoCmd.accesskey "I">
-<!ENTITY viewFrameInfoCmd.label "Lihat Informasi Bingkai">
-<!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY reloadImageCmd.label "Muat Ulang Gambar">
-<!ENTITY reloadImageCmd.accesskey "U">
-<!ENTITY viewImageCmd.label "Lihat Gambar">
-<!ENTITY viewImageCmd.accesskey "G">
-<!ENTITY viewImageInfoCmd.label "Lihat Informasi Gambar">
-<!ENTITY viewImageInfoCmd.accesskey "m">
-<!ENTITY viewVideoCmd.label "Lihat Video">
-<!ENTITY viewVideoCmd.accesskey "V">
-<!ENTITY viewBGImageCmd.label "Lihat Gambar Latar Belakang">
-<!ENTITY viewBGImageCmd.accesskey "L">
-<!ENTITY setDesktopBackgroundCmd.label "Jadikan sebagai Latar Belakang Desktop…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "D">
-<!ENTITY bookmarkPageCmd2.label "Buat Bookmark untuk Halaman Ini">
-<!ENTITY bookmarkPageCmd2.accesskey "m">
-<!ENTITY bookmarkThisLinkCmd.label "Buat Bookmark untuk Tautan Ini">
-<!ENTITY bookmarkThisLinkCmd.accesskey "T">
-<!ENTITY bookmarkThisFrameCmd.label "Buat Bookmark untuk Bingkai Ini">
-<!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Kirim Tautan…">
-<!ENTITY sendPageCmd.accesskey "n">
-<!ENTITY savePageCmd.label "Simpan Halaman dengan Nama…">
-<!ENTITY savePageCmd.accesskey "S">
-<!ENTITY savePageCmd.accesskey2 "a">
-<!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "Simpan Bingkai dengan Nama…">
-<!ENTITY saveFrameCmd.accesskey "g">
-<!ENTITY printFrameCmd.label "Cetak Bingkai…">
-<!ENTITY printFrameCmd.accesskey "i">
-<!ENTITY saveLinkCmd.label "Simpan Tautan dengan Nama…">
-<!ENTITY saveLinkCmd.accesskey "T">
-<!ENTITY sendLinkCmd.label "Kirim Tautan…">
-<!ENTITY sendLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Simpan Gambar dengan Nama…">
-<!ENTITY saveImageCmd.accesskey "a">
-<!ENTITY saveVideoCmd.label "Simpan Video dengan Nama…">
-<!ENTITY saveVideoCmd.accesskey "s">
-<!ENTITY saveAudioCmd.label "Simpan Audio dengan Nama…">
-<!ENTITY saveAudioCmd.accesskey "s">
-<!ENTITY sendImageCmd.label "Kirim Gambar…">
-<!ENTITY sendImageCmd.accesskey "a">
-<!ENTITY sendVideoCmd.label "Kirim Video…">
-<!ENTITY sendVideoCmd.accesskey "k">
-<!ENTITY sendAudioCmd.label "Kirim Audio…">
-<!ENTITY sendAudioCmd.accesskey "k">
-<!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
-<!ENTITY copyLinkCmd.accesskey "S">
-<!ENTITY copyImageCmd.label "Salin Lokasi Gambar">
-<!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageContentsCmd.label "Salin Gambar">
-<!ENTITY copyImageContentsCmd.accesskey "G">
-<!ENTITY copyVideoURLCmd.label "Salin Lokasi Video">
-<!ENTITY copyVideoURLCmd.accesskey "o">
-<!ENTITY copyAudioURLCmd.label "Salin Lokasi Audio">
-<!ENTITY copyAudioURLCmd.accesskey "o">
-<!ENTITY blockImageCmd.accesskey "g">
-<!ENTITY copyEmailCmd.label "Salin Alamat Email">
-<!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY thisFrameMenu.label "Bingkai Ini">
-<!ENTITY thisFrameMenu.accesskey "B">
-<!ENTITY mediaPlay.label "Mainkan">
-<!ENTITY mediaPlay.accesskey "M">
-<!ENTITY mediaPause.label "Tunda">
-<!ENTITY mediaPause.accesskey "T">
-<!ENTITY mediaMute.label "Senyap">
-<!ENTITY mediaMute.accesskey "S">
-<!ENTITY mediaUnmute.label "Keraskan">
-<!ENTITY mediaUnmute.accesskey "k">
-<!ENTITY mediaShowControls.label "Tampilkan Kendali">
+<!ENTITY viewPageSourceCmd.label      "Lihat Kode Sumber Halaman">
+<!ENTITY viewPageSourceCmd.accesskey  "h">
+<!ENTITY viewFrameSourceCmd.label     "Lihat Kode Sumber Bingkai">
+<!ENTITY viewFrameSourceCmd.accesskey "b">
+<!ENTITY viewPageInfoCmd.label        "Lihat Informasi Halaman">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Lihat Informasi Bingkai">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Muat Ulang Gambar">
+<!ENTITY reloadImageCmd.accesskey     "u">
+<!ENTITY viewImageCmd.label           "Lihat Gambar">
+<!ENTITY viewImageCmd.accesskey       "G">
+<!ENTITY viewImageInfoCmd.label       "Lihat Informasi Gambar">
+<!ENTITY viewImageInfoCmd.accesskey   "m">
+<!ENTITY viewVideoCmd.label           "Lihat Video">
+<!ENTITY viewVideoCmd.accesskey       "V">
+<!ENTITY viewBGImageCmd.label         "Lihat Gambar Latar Belakang">
+<!ENTITY viewBGImageCmd.accesskey     "L">
+<!ENTITY setDesktopBackgroundCmd.label      "Jadikan sebagai Latar Belakang Desktop…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "d">
+<!ENTITY bookmarkPageCmd2.label       "Buat Bookmark untuk Halaman Ini">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Buat Bookmark untuk Tautan Ini">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "t">
+<!ENTITY bookmarkThisFrameCmd.label      "Buat Bookmark untuk Bingkai Ini">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY sendPageCmd.label            "Kirim Tautan…">
+<!ENTITY sendPageCmd.accesskey        "n">
+<!ENTITY savePageCmd.label            "Simpan Halaman dengan Nama…">
+<!ENTITY savePageCmd.accesskey        "S">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "a">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Simpan Bingkai dengan Nama…">
+<!ENTITY saveFrameCmd.accesskey       "g">
+<!ENTITY printFrameCmd.label          "Cetak Bingkai…">
+<!ENTITY printFrameCmd.accesskey      "i">
+<!ENTITY saveLinkCmd.label            "Simpan Tautan dengan Nama…">
+<!ENTITY saveLinkCmd.accesskey        "T">
+<!ENTITY sendLinkCmd.label            "Kirim Tautan…"> 
+<!ENTITY sendLinkCmd.accesskey        "r">
+<!ENTITY saveImageCmd.label           "Simpan Gambar dengan Nama…">
+<!ENTITY saveImageCmd.accesskey       "a">
+<!ENTITY saveVideoCmd.label           "Simpan Video dengan Nama…">
+<!ENTITY saveVideoCmd.accesskey       "S">
+<!ENTITY saveAudioCmd.label           "Simpan Audio dengan Nama…">
+<!ENTITY saveAudioCmd.accesskey       "S">
+<!ENTITY sendImageCmd.label           "Kirim Gambar…">
+<!ENTITY sendImageCmd.accesskey       "a">
+<!ENTITY sendVideoCmd.label           "Kirim Video…">
+<!ENTITY sendVideoCmd.accesskey       "K">
+<!ENTITY sendAudioCmd.label           "Kirim Audio…">
+<!ENTITY sendAudioCmd.accesskey       "K">
+<!ENTITY copyLinkCmd.label            "Salin Lokasi Tautan">
+<!ENTITY copyLinkCmd.accesskey        "S">
+<!ENTITY copyImageCmd.label           "Salin Lokasi Gambar">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Salin Gambar">
+<!ENTITY copyImageContentsCmd.accesskey  "G"> 
+<!ENTITY copyVideoURLCmd.label        "Salin Lokasi Video">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Salin Lokasi Audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "g">
+<!ENTITY copyEmailCmd.label           "Salin Alamat Email">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "Bingkai Ini">
+<!ENTITY thisFrameMenu.accesskey          "B">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Mainkan">
+<!ENTITY mediaPlay.accesskey         "M">
+<!ENTITY mediaPause.label            "Tunda">
+<!ENTITY mediaPause.accesskey        "T">
+<!ENTITY mediaMute.label             "Senyap">
+<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Keraskan">
+<!ENTITY mediaUnmute.accesskey       "K">
+<!ENTITY mediaShowControls.label     "Tampilkan Kendali">
 <!ENTITY mediaShowControls.accesskey "T">
-<!ENTITY mediaHideControls.label "Sembunyikan Kendali">
+<!ENTITY mediaHideControls.label     "Sembunyikan Kendali">
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Layar Penuh">
 <!ENTITY videoFullScreen.accesskey   "P">
-<!ENTITY fullZoomEnlargeCmd.label "Perbesar">
-<!ENTITY fullZoomEnlargeCmd.accesskey "b">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Perbesar">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "b">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Perkecil">
-<!ENTITY fullZoomReduceCmd.accesskey "k">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Normal">
-<!ENTITY fullZoomResetCmd.accesskey "N">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Perbesar Teks Saja">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "Perbesaran">
-<!ENTITY fullZoom.accesskey "b">
-<!ENTITY newTabButton.tooltip "Buka tab baru">
-<!ENTITY newWindowButton.tooltip "Buka jendela baru">
-<!ENTITY sidebarCloseButton.tooltip "Tutup bilah samping">
-<!ENTITY cutButton.tooltip "Potong">
-<!ENTITY copyButton.tooltip "Salin">
-<!ENTITY pasteButton.tooltip "Tempel">
-<!ENTITY fullScreenButton.tooltip "Tampilkan jendela dalam mode layar penuh">
-<!ENTITY quitApplicationCmdWin.label "Keluar">
-<!ENTITY quitApplicationCmdWin.accesskey "K">
+
+<!ENTITY fullZoomReduceCmd.label        "Perkecil">
+<!ENTITY fullZoomReduceCmd.accesskey    "k">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Normal">
+<!ENTITY fullZoomResetCmd.accesskey     "N">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Perbesar Teks Saja">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "Perbesaran">
+<!ENTITY fullZoom.accesskey             "b">
+
+<!ENTITY newTabButton.tooltip           "Buka tab baru">
+<!ENTITY newWindowButton.tooltip        "Buka jendela baru">
+<!ENTITY sidebarCloseButton.tooltip     "Tutup bilah samping">
+
+<!ENTITY cutButton.tooltip              "Potong">
+<!ENTITY copyButton.tooltip             "Salin">
+<!ENTITY pasteButton.tooltip            "Tempel">
+<!ENTITY fullScreenButton.tooltip       "Tampilkan jendela dalam mode layar penuh">
+
+<!ENTITY quitApplicationCmdWin.label       "Keluar"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "K">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label "Keluar">
-<!ENTITY quitApplicationCmd.accesskey "K">
-<!ENTITY quitApplicationCmdMac.label "Keluar dari &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key "Q">
-<!ENTITY closeCmd.label "Tutup">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "u">
+<!ENTITY quitApplicationCmd.label       "Keluar"> 
+<!ENTITY quitApplicationCmd.accesskey   "K">
+<!ENTITY quitApplicationCmdMac.label    "Keluar dari &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "Tutup">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "u">
+
 <!ENTITY pageStyleMenu.label "Gaya Halaman">
 <!ENTITY pageStyleMenu.accesskey "G">
 <!ENTITY pageStyleNoStyle.label "Tanpa Gaya">
 <!ENTITY pageStyleNoStyle.accesskey "T">
 <!ENTITY pageStylePersistentOnly.label "Gaya Standar Halaman">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
-<!ENTITY pageReportIcon.tooltip "Ubah pengaturan pemblokir pop-up untuk situs web ini">
+
+<!ENTITY pageReportIcon.tooltip            "Ubah pengaturan pemblokir pop-up untuk situs web ini">
+
 <!ENTITY allowPopups.accesskey "i">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Ubah Pengaturan Pemblokir Pop-up…">
 <!ENTITY editPopupSettings.label "Ubah Pengaturan Pemblokir Pop-up…">
-<!ENTITY editPopupSettings.accesskey "O">
+<!ENTITY editPopupSettings.accesskey "o">
 <!ENTITY dontShowMessage.accesskey "J">
-<!ENTITY bidiSwitchPageDirectionItem.label "Ubah Arah Halaman">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "A">
-<!ENTITY bidiSwitchTextDirectionItem.label "Ubah Arah Teks">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "T">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-<!ENTITY findOnCmd.label "Cari di Halaman Ini…">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Ubah Arah Halaman">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Ubah Arah Teks">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Cari di Halaman Ini…">
 <!ENTITY findOnCmd.accesskey "C">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Cari Lagi">
+<!ENTITY findAgainCmd.label  "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "i">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
 <!ENTITY spellAddDictionaries.label "Tambah kamus…">
 <!ENTITY spellAddDictionaries.accesskey "T">
-<!ENTITY editBookmark.done.label "Selesai">
-<!ENTITY editBookmark.cancel.label "Batal">
-<!ENTITY editBookmark.removeBookmark.accessKey "H">
-<!ENTITY editBookmark.undo.label "Batal">
-<!ENTITY editBookmark.undo.accessKey "B">
-<!ENTITY editBookmark.edit.label "Ubah…">
-<!ENTITY editBookmark.edit.accessKey "U">
+
+<!ENTITY editBookmark.done.label                     "Selesai">
+<!ENTITY editBookmark.cancel.label                   "Batal">
+<!ENTITY editBookmark.removeBookmark.accessKey       "H">
+<!ENTITY editBookmark.undo.label                     "Batal">
+<!ENTITY editBookmark.undo.accessKey                 "B">
+<!ENTITY editBookmark.edit.label                     "Ubah…">
+<!ENTITY editBookmark.edit.accessKey                 "U">
+
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
 <!ENTITY identity.connectedTo "Anda tersambung ke">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "yang dijalankan oleh">
+
 <!ENTITY identity.moreInfoLinkText "Informasi lebih lanjut…">
+
 <!ENTITY downloadMonitor2.tooltip "Klik untuk membuka jendela Unduhan">
+
 <!ENTITY allTabs.filter.emptyText "Cari Tab">
-<!ENTITY showAllTabsCmd.label "Tampilkan Semua Tab">
-<!ENTITY showAllTabsCmd.accesskey "S">

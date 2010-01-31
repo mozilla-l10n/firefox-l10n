@@ -1,3 +1,5 @@
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "Cari di Halaman Ini">
 <!ENTITY findField.label "Cari apa:">
 <!ENTITY findField.accesskey "C">

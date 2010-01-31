@@ -1,3 +1,4 @@
+<!-- -*- Mode: HTML -*- -->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -21,7 +22,6 @@
    - Contributor(s):
    -  Stephen Lamm <slamm@netscape.com>
    -  Pierre Chanial <p_ch@verizon.net>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,14 +36,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY title.label "Pengodean Karakter Suka-suka">
-<!ENTITY current.label "Pengodean Karakter Aktif:">
-<!ENTITY remove.label "Hapus">
-<!ENTITY remove.accessKey "H">
-<!ENTITY additional.label "Pengodean Karakter yang Tersedia:">
-<!ENTITY add.label "Tambah">
-<!ENTITY add.accessKey "T">
-<!ENTITY moveUp.label "Geser Atas">
-<!ENTITY moveUp.accessKey "A">
-<!ENTITY moveDown.label "Geser Bawah">
+
+<!ENTITY title.label        "Pengodean Karakter Suka-suka">
+<!ENTITY current.label      "Pengodean Karakter Aktif:">
+<!ENTITY remove.label       "Hapus">
+<!ENTITY remove.accessKey   "H">
+<!ENTITY additional.label   "Pengodean Karakter yang Tersedia:">
+<!ENTITY add.label          "Tambah">
+<!ENTITY add.accessKey      "T">
+<!ENTITY moveUp.label       "Geser Atas">
+<!ENTITY moveUp.accessKey   "A">
+<!ENTITY moveDown.label     "Geser Bawah">
 <!ENTITY moveDown.accessKey "B">

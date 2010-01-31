@@ -1,9 +1,13 @@
-<!ENTITY incompatible.title "Program Tidak Kompatibel">
-<!ENTITY incompatible.intro "Item berikut ini tidak kompatibel dengan pemutakhiran &brandShortName; dan
+
+<!ENTITY  incompatible.title        "Program Tidak Kompatibel">
+<!ENTITY  incompatible.intro        "Item berikut ini tidak kompatibel dengan pemutakhiran &brandShortName; dan
                                      akan dimatikan setelah pemutakhiran dipasang:">
-<!ENTITY incompatible.update "&brandShortName; akan secara periodik memeriksa versi barunya pada situasi ketika
+<!ENTITY  incompatible.update       "&brandShortName; akan secara periodik memeriksa versi barunya pada situasi ketika
                                      versi yang kompatibel telah tersedia.">
-<!ENTITY incompatible.suffix "Pemutakhiran &brandShortName; mengandung perbaikan keamanan yang penting. Untuk perlindungan Anda,
+<!ENTITY  incompatible.suffix       "Pemutakhiran &brandShortName; mengandung perbaikan keamanan yang penting. Untuk perlindungan Anda,
                                      sangat disarankan agar Anda memperbarui &brandShortName; walaupun
                                      sebagian Ekstensi dan Tema Anda tidak kompatibel.">
-<!ENTITY closebutton.label "Tutup">
+                                     
+<!ENTITY  closebutton.label         "Tutup">
+                                     
+                                     

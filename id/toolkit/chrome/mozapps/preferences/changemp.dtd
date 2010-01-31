@@ -1,9 +1,9 @@
-<!ENTITY setPassword.title "Ubah Kata Sandi Utama">
-<!ENTITY setPassword.tokenName.label "Perangkat Keamanan">
-<!ENTITY setPassword.oldPassword.label "Kata sandi lama:">
-<!ENTITY setPassword.newPassword.label "Kata sandi baru:">
+<!ENTITY setPassword.title                 "Ubah Kata Sandi Utama">
+<!ENTITY setPassword.tokenName.label       "Perangkat Keamanan">
+<!ENTITY setPassword.oldPassword.label     "Kata sandi lama:">
+<!ENTITY setPassword.newPassword.label     "Kata sandi baru:">
 <!ENTITY setPassword.reenterPassword.label "Konfirmasi kata sandi baru:">
-<!ENTITY setPassword.meter.label "Ukuran kualitas kata sandi">
-<!ENTITY setPassword.meter.loading "Memuat">
-<!ENTITY masterPasswordDescription.label "Kata Sandi Utama digunakan untuk melindungi informasi sensitif seperti kata sandi untuk log-masuk situs. Apabila Anda membuat Kata Sandi Utama, Anda akan diminta untuk memasukkannya satu kali per sesi ketika &brandShortName; mengambil informasi tersimpan yang dilindungi oleh password tersebut.">
-<!ENTITY masterPasswordWarning.label "Pastikan Anda mengingat Kata Sandi Utama yang telah ditentukan. Apabila Anda lupa Kata Sandi Utama Anda, Anda tidak akan bisa mengakses semua informasi yang dilindungi dengannya.">
+<!ENTITY setPassword.meter.label           "Ukuran kualitas kata sandi">
+<!ENTITY setPassword.meter.loading         "Memuat">
+<!ENTITY masterPasswordDescription.label   "Kata Sandi Utama digunakan untuk melindungi informasi sensitif seperti kata sandi untuk log-masuk situs. Apabila Anda membuat Kata Sandi Utama, Anda akan diminta untuk memasukkannya satu kali per sesi ketika &brandShortName; mengambil informasi tersimpan yang dilindungi oleh password tersebut.">
+<!ENTITY masterPasswordWarning.label       "Pastikan Anda mengingat Kata Sandi Utama yang telah ditentukan. Apabila Anda lupa Kata Sandi Utama Anda, Anda tidak akan bisa mengakses semua informasi yang dilindungi dengannya.">

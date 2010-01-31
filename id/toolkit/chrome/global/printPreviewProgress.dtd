@@ -1,4 +1,5 @@
-<!ENTITY printWindow.title "Pratinjau Cetak">
-<!ENTITY title "Judul:">
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Pratinjau Cetak"> 
+<!ENTITY title   "Judul:"> 
 <!ENTITY preparing "Menyiapkan…">
 <!ENTITY progress "Kemajuan:">

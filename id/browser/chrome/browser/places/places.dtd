@@ -1,128 +1,151 @@
-<!ENTITY places.library.title "Pustaka">
-<!ENTITY places.library.width "700">
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Pustaka">
+<!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label "Kelola">
-<!ENTITY organize.accesskey "K">
-<!ENTITY file.accesskey "B">
-<!ENTITY file.close.label "Tutup">
-<!ENTITY file.close.accesskey "T">
-<!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Ubah">
-<!ENTITY edit.accesskey "U">
-<!ENTITY views.label "Tampilan">
-<!ENTITY views.accesskey "T">
-<!ENTITY view.toolbar.label "Bilah Alat">
-<!ENTITY view.toolbar.accesskey "l">
-<!ENTITY view.columns.label "Tampilkan Kolom">
-<!ENTITY view.columns.accesskey "K">
-<!ENTITY view.sort.label "Urutan">
-<!ENTITY view.sort.accesskey "U">
-<!ENTITY view.unsorted.label "Tidak Diurut">
-<!ENTITY view.unsorted.accesskey "t">
-<!ENTITY view.sortAscending.label "Urutan A ke Z">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Urutan Z ke A">
-<!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY cmd.findInBookmarks.label "Cari di Daftar Bookmark…">
-<!ENTITY cmd.findInBookmarks.accesskey "C">
-<!ENTITY cmd.findCurrent.label "Cari di Kelompok Ini…">
-<!ENTITY cmd.findCurrent.accesskey "k">
-<!ENTITY cmd.exportHTML.label "Ekspor ke HTML…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Impor dari HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
-<!ENTITY cmd.backup.label "Buat Cadangan…">
-<!ENTITY cmd.backup.accesskey "C">
-<!ENTITY cmd.restore2.label "Kembalikan">
-<!ENTITY cmd.restore2.accesskey "K">
-<!ENTITY cmd.restoreFromFile.label "Pilih Berkas…">
-<!ENTITY cmd.restoreFromFile.accesskey "B">
+<!ENTITY organize.label        "Kelola">
+<!ENTITY organize.accesskey    "K">
+
+<!ENTITY file.accesskey                 "B">
+<!ENTITY file.close.label               "Tutup">
+<!ENTITY file.close.accesskey           "T">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Ubah">
+<!ENTITY edit.accesskey                 "U">
+<!ENTITY views.label                    "Tampilan">
+<!ENTITY views.accesskey                "T">
+<!ENTITY view.toolbar.label             "Bilah Alat">
+<!ENTITY view.toolbar.accesskey         "l">
+<!ENTITY view.columns.label             "Tampilkan Kolom">
+<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.sort.label                "Urutan">
+<!ENTITY view.sort.accesskey            "U">
+<!ENTITY view.unsorted.label            "Tidak Diurut">
+<!ENTITY view.unsorted.accesskey        "T">
+<!ENTITY view.sortAscending.label       "Urutan A ke Z">
+<!ENTITY view.sortAscending.accesskey   "a">
+<!ENTITY view.sortDescending.label      "Urutan Z ke A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY cmd.findInBookmarks.label      "Cari di Daftar Bookmark…">
+<!ENTITY cmd.findInBookmarks.accesskey  "C">
+<!ENTITY cmd.findCurrent.label          "Cari di Kelompok Ini…">
+<!ENTITY cmd.findCurrent.accesskey      "K">
+
+<!ENTITY cmd.exportHTML.label           "Ekspor ke HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Impor dari HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "Buat Cadangan…">
+<!ENTITY cmd.backup.accesskey           "C">
+<!ENTITY cmd.restore2.label             "Kembalikan">
+<!ENTITY cmd.restore2.accesskey         "K">
+<!ENTITY cmd.restoreFromFile.label      "Pilih Berkas…">
+<!ENTITY cmd.restoreFromFile.accesskey  "B">
+
 <!ENTITY cmd.select_all.label "Pilih Semua">
-<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.accesskey "a">
 <!ENTITY cmd.select_all.key "a">
-<!ENTITY cmd.edit_cut.label "Potong">
-<!ENTITY cmd.edit_cut.accesskey "P">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Salin">
-<!ENTITY cmd.edit_copy.accesskey "S">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Tempel">
-<!ENTITY cmd.edit_paste.accesskey "p">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Hapus">
-<!ENTITY cmd.edit_delete.accesskey "H">
-<!ENTITY cmd.edit_undo.label "Batal">
-<!ENTITY cmd.edit_undo.accesskey "B">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Ulangi">
-<!ENTITY cmd.edit_redo.accesskey "U">
-<!ENTITY cmd.edit_redo.key "y">
-<!ENTITY cmd.bookmarkLink.label "Buat Bookmark Halaman ini…">
-<!ENTITY cmd.bookmarkLink.accesskey "B">
-<!ENTITY cmd.delete.label "Hapus Halaman Ini">
-<!ENTITY cmd.delete.accesskey "H">
-<!ENTITY cmd.deleteDomainData.label "Lupakan Situs Ini">
+
+<!ENTITY cmd.edit_cut.label         "Potong">
+<!ENTITY cmd.edit_cut.accesskey     "P">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Salin">
+<!ENTITY cmd.edit_copy.accesskey    "S">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Tempel">
+<!ENTITY cmd.edit_paste.accesskey   "p">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Hapus">
+<!ENTITY cmd.edit_delete.accesskey  "H">
+<!ENTITY cmd.edit_undo.label        "Batal">
+<!ENTITY cmd.edit_undo.accesskey    "B">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Ulangi">
+<!ENTITY cmd.edit_redo.accesskey    "U">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.bookmarkLink.label         "Buat Bookmark Halaman ini…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.delete.label               "Hapus Halaman Ini">
+<!ENTITY cmd.delete.accesskey           "H">
+<!ENTITY cmd.deleteDomainData.label     "Lupakan Situs Ini">
 <!ENTITY cmd.deleteDomainData.accesskey "L">
-<!ENTITY cmd.open.label "Buka">
-<!ENTITY cmd.open.accesskey "B">
-<!ENTITY cmd.open_window.label "Buka di Jendela Baru">
-<!ENTITY cmd.open_window.accesskey "J">
-<!ENTITY cmd.open_tab.label "Buka di Tab Baru">
-<!ENTITY cmd.open_tab.accesskey "t">
-<!ENTITY cmd.open_all_in_tabs.label "Buka Semua di Tab">
-<!ENTITY cmd.open_all_in_tabs.accesskey "m">
-<!ENTITY cmd.properties.label "Properti">
-<!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.rename.label "Ganti nama">
-<!ENTITY cmd.rename.accesskey "g">
-<!ENTITY cmd.sortby_name.label "Urut Berdasar Nama">
-<!ENTITY cmd.sortby_name.accesskey "n">
-<!ENTITY cmd.context_sortby_name.accesskey "r">
-<!ENTITY cmd.new_bookmark.label "Bookmark Baru…">
-<!ENTITY cmd.new_bookmark.accesskey "B">
-<!ENTITY cmd.new_livemark.label "Bookmark Hidup Baru…">
-<!ENTITY cmd.new_livemark.accesskey "H">
-<!ENTITY cmd.new_folder.label "Folder Baru…">
-<!ENTITY cmd.new_folder.accesskey "F">
-<!ENTITY cmd.context_new_folder.accesskey "F">
-<!ENTITY cmd.new_separator.label "Garis Pemisah Baru">
-<!ENTITY cmd.new_separator.accesskey "G">
-<!ENTITY cmd.reloadLivebookmark.label "Muat Ulang Bookmark Hidup">
-<!ENTITY cmd.reloadLivebookmark.accesskey "H">
-<!ENTITY cmd.reloadMicrosummary.label "Muat Ulang Bookmark Hidup">
-<!ENTITY cmd.reloadMicrosummary.accesskey "H">
-<!ENTITY cmd.moveBookmarks.label "Pindah…">
-<!ENTITY cmd.moveBookmarks.accesskey "P">
-<!ENTITY col.name.label "Nama">
-<!ENTITY col.tags.label "Tag">
-<!ENTITY col.url.label "Lokasi">
-<!ENTITY col.lastvisit.label "Tanggal Kunjungan">
-<!ENTITY col.visitcount.label "Jumlah Kunjungan">
-<!ENTITY col.keyword.label "Kata Kunci">
-<!ENTITY col.description.label "Deskripsi">
-<!ENTITY col.dateadded.label "Ditambahkan pada">
-<!ENTITY col.lastmodified.label "Modifikasi Terakhir">
-<!ENTITY search.label "Cari:">
-<!ENTITY search.accesskey "C">
-<!ENTITY search.scopeFolder.label "Folder Terpilih">
-<!ENTITY search.scopeFolder.accesskey "T">
-<!ENTITY search.scopeBookmarks.label "Bookmark">
-<!ENTITY search.scopeBookmarks.accesskey "k">
-<!ENTITY search.scopeDownloads.label "Unduhan">
-<!ENTITY search.scopeDownloads.accesskey "U">
-<!ENTITY search.scopeHistory.label "Riwayat">
-<!ENTITY search.scopeHistory.accesskey "R">
-<!ENTITY saveSearch.label "Simpan">
-<!ENTITY saveSearch.accesskey "S">
-<!ENTITY cmd.find.key "f">
-<!ENTITY feed.subscribe.label "Feed">
-<!ENTITY feed.subscribe.tooltip "Berlangganan">
-<!ENTITY maintenance.label "Impor dan Cadangan">
-<!ENTITY maintenance.accesskey "I">
-<!ENTITY backCmd.label "Mundur">
-<!ENTITY backButton.tooltip "Mundur">
-<!ENTITY forwardCmd.label "Maju">
-<!ENTITY forwardButton.tooltip "Maju">
+
+<!ENTITY cmd.open.label                  "Buka">
+<!ENTITY cmd.open.accesskey              "B">
+<!ENTITY cmd.open_window.label           "Buka di Jendela Baru">
+<!ENTITY cmd.open_window.accesskey       "J">
+<!ENTITY cmd.open_tab.label              "Buka di Tab Baru">
+<!ENTITY cmd.open_tab.accesskey          "T">
+<!ENTITY cmd.open_all_in_tabs.label      "Buka Semua di Tab">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "m">
+
+<!ENTITY cmd.properties.label      "Properti">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.rename.label      "Ganti nama">
+<!ENTITY cmd.rename.accesskey  "G">
+
+<!ENTITY cmd.sortby_name.label              "Urut Berdasar Nama">
+<!ENTITY cmd.sortby_name.accesskey          "N">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Bookmark Baru…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_livemark.label            "Bookmark Hidup Baru…">
+<!ENTITY cmd.new_livemark.accesskey        "H">
+<!ENTITY cmd.new_folder.label              "Folder Baru…">
+<!ENTITY cmd.new_folder.accesskey          "F">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Garis Pemisah Baru">
+<!ENTITY cmd.new_separator.accesskey       "G">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Muat Ulang Bookmark Hidup">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "H">
+<!ENTITY cmd.reloadMicrosummary.label      "Muat Ulang Bookmark Hidup">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "H">
+
+<!ENTITY cmd.moveBookmarks.label                  "Pindah…">
+<!ENTITY cmd.moveBookmarks.accesskey              "P">
+
+<!ENTITY col.name.label          "Nama">
+<!ENTITY col.tags.label          "Tag">
+<!ENTITY col.url.label           "Lokasi">
+<!ENTITY col.lastvisit.label     "Tanggal Kunjungan">
+<!ENTITY col.visitcount.label    "Jumlah Kunjungan">
+<!ENTITY col.keyword.label       "Kata Kunci">
+<!ENTITY col.description.label   "Deskripsi">
+<!ENTITY col.dateadded.label     "Ditambahkan pada">
+<!ENTITY col.lastmodified.label  "Modifikasi Terakhir">
+
+<!ENTITY search.label                              "Cari:">
+<!ENTITY search.accesskey                          "C">
+<!ENTITY search.scopeFolder.label                  "Folder Terpilih">
+<!ENTITY search.scopeFolder.accesskey              "T">
+<!ENTITY search.scopeBookmarks.label               "Bookmark">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeDownloads.label               "Unduhan">
+<!ENTITY search.scopeDownloads.accesskey           "U">
+<!ENTITY search.scopeHistory.label                 "Riwayat">
+<!ENTITY search.scopeHistory.accesskey             "R">
+<!ENTITY saveSearch.label                          "Simpan">
+<!ENTITY saveSearch.accesskey                      "S">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Feed">
+<!ENTITY feed.subscribe.tooltip  "Berlangganan">
+
+<!ENTITY maintenance.label      "Impor dan Cadangan">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "Mundur">
+<!ENTITY backButton.tooltip  "Mundur">
+
+<!ENTITY forwardCmd.label       "Maju">
+<!ENTITY forwardButton.tooltip  "Maju">
+
 <!ENTITY detailsPane.more.label "Lanjut">
 <!ENTITY detailsPane.more.accesskey "L">
 <!ENTITY detailsPane.less.label "Lebih sedikit">
