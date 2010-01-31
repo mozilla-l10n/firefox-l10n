@@ -142,8 +142,8 @@
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
-<!ENTITY clearRecentHistoryCmd.label "Ачысціць нядаўнюю гісторыю">
-<!ENTITY clearRecentHistoryCmd.accesskey "г">
+<!ENTITY clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
+<!ENTITY clearRecentHistory.accesskey "г">
 <!ENTITY privateBrowsingCmd.start.label "Пачаць адасобленае азіранне">
 <!ENTITY privateBrowsingCmd.start.accesskey "А">
 <!ENTITY privateBrowsingCmd.stop.label "Спыніць адасобленае азіранне">
@@ -245,8 +245,6 @@
 <!ENTITY sendAudioCmd.accesskey "а">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
-<!ENTITY copyLinkTextCmd.label "Капіяваць тэкст спасылкі">
-<!ENTITY copyLinkTextCmd.accesskey "э">
 <!ENTITY copyImageCmd.label "Капіяваць месцазнаходжанне малюнка">
 <!ENTITY copyImageCmd.accesskey "х">
 <!ENTITY copyImageContentsCmd.label "Капіяваць малюнак">

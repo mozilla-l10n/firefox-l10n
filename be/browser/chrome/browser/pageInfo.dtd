@@ -66,7 +66,7 @@
 <!ENTITY securityView.identity.domain "Пляцоўка сеціва:">
 <!ENTITY securityView.identity.verifier "Пацверджана:">
 <!ENTITY securityView.privacy.header "Адасабленне і бяспека">
-<!ENTITY securityView.privacy.history "Наведваў я гэтую пляцоўку сеціва напярэдадні?">
+<!ENTITY securityView.privacy.history "Я наведваў гэтую пляцоўку Сеціва напярэдадні?">
 <!ENTITY securityView.privacy.cookies "Захоўвае гэтая пляцоўка сеціва звесткі (біркі) на маім кампутары?">
 <!ENTITY securityView.privacy.viewCookies "Прагледзець біркі">
 <!ENTITY securityView.privacy.viewCookies.accessKey "б">
