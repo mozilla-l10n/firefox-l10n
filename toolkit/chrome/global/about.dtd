@@ -1,7 +1,7 @@
 <!ENTITY about.version "версія">
-<!ENTITY about.copy.beforeLink "Аўтарскае права &copy; 1998-2010">
-<!ENTITY about.copy.linkTitle "укладчыкі">
-<!ENTITY about.copy.afterLink "праекту Mozilla.">
+<!ENTITY about.credits.beforeLink "Пабачыць спіс">
+<!ENTITY about.credits.linkTitle "укладнікаў">
+<!ENTITY about.credits.afterLink " у праект Mozilla.">
 <!ENTITY about.license.beforeLink "Прачытаць">
 <!ENTITY about.license.linkTitle "ліцэнзійныя звесткі">
 <!ENTITY about.license.afterLink "гэтага прадукту.">

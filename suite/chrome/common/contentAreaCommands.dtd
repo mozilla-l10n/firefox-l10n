@@ -113,6 +113,8 @@
 <!ENTITY mediaShowControls.accesskey "а">
 <!ENTITY mediaHideControls.label "Схаваць медыя-кіроўцы">
 <!ENTITY mediaHideControls.accesskey "а">
+<!ENTITY videoFullScreen.label "Увесь экран">
+<!ENTITY videoFullScreen.accesskey "У">
 <!ENTITY search.accesskey "ш">
 <!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "р">

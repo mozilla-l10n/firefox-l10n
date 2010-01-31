@@ -38,9 +38,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent.label "Заўсёдны рэжым адасобленага азірання">
 <!ENTITY privateBrowsingPermanent.accesskey "З">
-<!ENTITY rememberHistory.pre.label "Памятаць маю гісторыю азірання на працягу">
-<!ENTITY rememberHistory.pre.accesskey "г">
-<!ENTITY rememberHistory.post.label "дзён">
+<!ENTITY rememberHistory.label "Памятаць маю гісторыю азірання">
+<!ENTITY rememberHistory.accesskey "м">
 <!ENTITY rememberDownload.label "Памятаць гісторыю загрузак">
 <!ENTITY rememberDownload.accesskey "з">
 <!ENTITY rememberSearchForm.label "Памятаць гісторыю пошуку і запаўнення формаў">
