@@ -38,9 +38,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY  privateBrowsingPermanent.label "Mode Penjelajahan Pribadi Permanen">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
-<!ENTITY rememberHistory.pre.label "Simpan riwayat penjelajahan untuk">
-<!ENTITY rememberHistory.pre.accesskey "r">
-<!ENTITY rememberHistory.post.label "hari terakhir">
+<!ENTITY rememberHistory.label "Ingat riwayat penjelajahan saya">
+<!ENTITY rememberHistory.accesskey "r">
 <!ENTITY rememberDownload.label "Simpan riwayat unduhan">
 <!ENTITY rememberDownload.accesskey "u">
 <!ENTITY rememberSearchForm.label "Simpan riwayat pencarian dan isian form">

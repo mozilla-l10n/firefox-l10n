@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion "versi">
 <!ENTITY closeCmdGNOME.label "Tutup">
 <!ENTITY closeCmdGNOME.accesskey "T">
-<!ENTITY copyrightInfo1 "©1998-2008 Kontributor. Hak Cipta Dilindungi Undang-Undang. (">
-<!ENTITY licenseLink "about:license">
 <!ENTITY licenseLinkText "Informasi Lisensi">
-<!ENTITY copyrightInfo2 ")">
+<!ENTITY licenseLinkSuffix ".">

@@ -140,8 +140,8 @@
 <!ENTITY preferencesCmd.accesskey "g">
 <!ENTITY preferencesCmdUnix.label "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey "g">
-<!ENTITY clearRecentHistoryCmd.label "Bersihkan Riwayat Terakhir">
-<!ENTITY clearRecentHistoryCmd.accesskey "B">
+<!ENTITY clearRecentHistory.label "Bersihkan Riwayat Terakhir">
+<!ENTITY clearRecentHistory.accesskey "B">
 <!ENTITY privateBrowsingCmd.start.label "Mulai Mode Penjelajahan Pribadi">
 <!ENTITY privateBrowsingCmd.start.accesskey "M">
 <!ENTITY privateBrowsingCmd.stop.label "Hentikan Mode Penjelajahan Pribadi">
@@ -243,8 +243,6 @@
 <!ENTITY sendAudioCmd.accesskey "k">
 <!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
 <!ENTITY copyLinkCmd.accesskey "S">
-<!ENTITY copyLinkTextCmd.label "Salin Teks Tautan">
-<!ENTITY copyLinkTextCmd.accesskey "k">
 <!ENTITY copyImageCmd.label "Salin Lokasi Gambar">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Salin Gambar">

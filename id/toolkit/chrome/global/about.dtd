@@ -1,7 +1,7 @@
 <!ENTITY about.version "versi">
-<!ENTITY about.copy.beforeLink "Hak Cipta &copy; 1998-2008 oleh">
-<!ENTITY about.copy.linkTitle "kontributor">
-<!ENTITY about.copy.afterLink "kepada Proyek Mozilla.">
+<!ENTITY about.credits.beforeLink "Tampilkan daftar ">
+<!ENTITY about.credits.linkTitle "kontributor">
+<!ENTITY about.credits.afterLink " kepada Proyek Mozilla.">
 <!ENTITY about.license.beforeLink "Baca">
 <!ENTITY about.license.linkTitle "informasi lisensi">
 <!ENTITY about.license.afterLink "produk ini.">
