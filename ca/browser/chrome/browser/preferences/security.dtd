@@ -13,7 +13,7 @@
 <!ENTITY  blockAttackSites.accesskey "s">
 
 <!ENTITY  blockWebForgeries.label     "Bloca els llocs web que s'ha informat que són falsificacions">
-<!ENTITY  blockWebForgeries.accesskey "v">
+<!ENTITY  blockWebForgeries.accesskey "f">
 
 <!ENTITY  addonExceptions.label         "Excepcions…">
 <!ENTITY  addonExceptions.accesskey     "E">
