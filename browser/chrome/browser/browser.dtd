@@ -245,8 +245,6 @@
 <!ENTITY sendAudioCmd.accesskey "п">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
-<!ENTITY copyLinkText2Cmd.label "Копировать текст ссылки">
-<!ENTITY copyLinkText2Cmd.accesskey "е">
 <!ENTITY copyImageCmd.label "Копировать ссылку на изображение">
 <!ENTITY copyImageCmd.accesskey "и">
 <!ENTITY copyImageContentsCmd.label "Копировать изображение">
