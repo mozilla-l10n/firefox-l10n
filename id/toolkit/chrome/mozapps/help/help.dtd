@@ -6,10 +6,10 @@
 
 <!ENTITY backButton.label               "Mundur">
 <!ENTITY backButton.accesskey           "M">
-<!ENTITY backButton.tooltip             "Mundur satu halaman">
+<!ENTITY backButton.tooltip             "Mundur satu laman">
 <!ENTITY forwardButton.label            "Maju">
 <!ENTITY forwardButton.accesskey        "j">
-<!ENTITY forwardButton.tooltip          "Maju satu halaman">
+<!ENTITY forwardButton.tooltip          "Maju satu laman">
 <!ENTITY copyCmd.label                  "Salin">
 <!ENTITY copyCmd.accesskey              "S">
 <!ENTITY selectAllCmd.label             "Pilih Semua">
@@ -17,9 +17,9 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Beranda">
-<!ENTITY homeButton.tooltip             "Lompat ke Halaman Awal Bantuan">
+<!ENTITY homeButton.tooltip             "Lompat ke Laman Awal Bantuan">
 <!ENTITY printButton.label              "Cetak">
-<!ENTITY printButton.tooltip            "Cetak halaman ini">
+<!ENTITY printButton.tooltip            "Cetak laman ini">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Cari">

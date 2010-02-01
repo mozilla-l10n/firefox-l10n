@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "D">
 <!ENTITY cmd.retry.label                  "Coba Lagi">
 <!ENTITY cmd.retry.accesskey              "C">
-<!ENTITY cmd.goToDownloadPage.label       "Buka Halaman Unduhan">
+<!ENTITY cmd.goToDownloadPage.label       "Buka Laman Unduhan">
 <!ENTITY cmd.goToDownloadPage.accesskey   "u">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Tautan Unduhan">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">

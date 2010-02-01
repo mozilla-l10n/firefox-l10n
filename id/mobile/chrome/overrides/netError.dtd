@@ -1,6 +1,6 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
-<!ENTITY loadError.label "Memuat halaman bermasalah">
+<!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -12,7 +12,7 @@
   <li>Periksa kesalahan pengetikan pada alamat seperti
     <strong>ww</strong>.example.com yang seharusnya
     <strong>www</strong>.example.com</li>
-  <li>Bila Anda tidak dapat memuat halaman apapun, periksa sambungan jaringan komputer
+  <li>Bila Anda tidak dapat memuat laman apapun, periksa sambungan jaringan komputer
     Anda.</li>
   <li>Bila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan
     bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
@@ -27,7 +27,7 @@
 ">
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
-<p>Untuk alasan tertentu &brandShortName; tidak dapat memuat halaman ini.</p>
+<p>Untuk alasan tertentu &brandShortName; tidak dapat memuat laman ini.</p>
 ">
 <!ENTITY malformedURI.title "Alamat berikut tidak valid">
 <!ENTITY malformedURI.longDesc "
@@ -83,7 +83,7 @@
   <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
 </ul>
 ">
-<!ENTITY redirectLoop.title "Halaman tidak teralihkan dengan benar">
+<!ENTITY redirectLoop.title "Laman tidak teralihkan dengan benar">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima cookie.</li>
@@ -99,7 +99,7 @@
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>Halaman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang dikirimkan tidak bisa diverifikasi.</li>
+  <li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang dikirimkan tidak bisa diverifikasi.</li>
   <li>Mohon hubungi pemilik situs web mengenai masalah ini. Anda juga bisa menggunakan menu bantuan untuk melaporkan situs web yang bermasalah ini.</li>
 </ul>
 ">
@@ -113,7 +113,7 @@
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Situs mungkin sementara tidak menyala atau terlalu sibuk. Coba beberapa saat lagi.</li>
-  <li>Apabila Anda tidak dapat memuat halaman apapun, periksa sambungan jaringan komputer Anda.</li>
+  <li>Apabila Anda tidak dapat memuat laman apapun, periksa sambungan jaringan komputer Anda.</li>
   <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
 </ul>
 ">
@@ -124,8 +124,8 @@
 ">
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
 <!ENTITY phishingBlocked.longDesc '
-<p>Dengan memasukkan informasi pribadi pada halaman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p>
-<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru halaman web dan email yang mungkin Anda percayai.</p>
+<p>Dengan memasukkan informasi pribadi pada laman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p>
+<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>
 '>
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">

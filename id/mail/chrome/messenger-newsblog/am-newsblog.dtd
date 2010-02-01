@@ -7,7 +7,7 @@
 <!ENTITY loginAtStartup.label "Periksa artikel baru saat memulai aplikasi"> 
 <!ENTITY loginAtStartup.accesskey "P">
 
-<!ENTITY useQuickMode.label "Tampilkan ringkasan artikel tanpa memuat halaman web sebagai pengaturan default"> 
+<!ENTITY useQuickMode.label "Tampilkan ringkasan artikel tanpa memuat laman web sebagai pengaturan default"> 
 <!ENTITY useQuickMode.accesskey "T">
 
 <!ENTITY manageSubscriptions.label "Kelola Langganan…"> 

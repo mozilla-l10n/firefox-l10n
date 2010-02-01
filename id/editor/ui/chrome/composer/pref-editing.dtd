@@ -1,10 +1,10 @@
-<!ENTITY  pref.editing.title        "Pengaturan Halaman Baru">
+<!ENTITY  pref.editing.title        "Pengaturan Laman Baru">
 
 <!ENTITY  authorName.label          "Penyusun:">
 <!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Tampilan Halaman Default">
+<!ENTITY  pageColorHeader           "Tampilan Laman Default">
 
-<!ENTITY defaultColors.label        "Warna default pembaca (tidak menampilkan warna pada halaman)">
+<!ENTITY defaultColors.label        "Warna default pembaca (tidak menampilkan warna pada laman)">
 <!ENTITY defaultColors.accesskey    "d">
 <!ENTITY customColors.label         "Gunakan warna kesukaan:">
 <!ENTITY customColors.accesskey     "G">

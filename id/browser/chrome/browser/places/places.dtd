@@ -65,9 +65,9 @@
 <!ENTITY cmd.edit_redo.accesskey    "U">
 <!ENTITY cmd.edit_redo.key          "y">
 
-<!ENTITY cmd.bookmarkLink.label         "Buat Bookmark Halaman ini…">
+<!ENTITY cmd.bookmarkLink.label         "Buat Bookmark Laman ini…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Hapus Halaman Ini">
+<!ENTITY cmd.delete.label               "Hapus Laman Ini">
 <!ENTITY cmd.delete.accesskey           "H">
 <!ENTITY cmd.deleteDomainData.label     "Lupakan Situs Ini">
 <!ENTITY cmd.deleteDomainData.accesskey "L">

@@ -15,7 +15,7 @@ think it's important to preserve user choice. -->
 <!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
 that this page is active (the buttons change the UI), and that they can get
 back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Gunakan halaman Asisten Migrasi ini untuk mengkonfigurasi pengaturan fitur baru ini. Anda dapat selalu kembali ke halaman ini lewat menu Bantuan.">
+<!ENTITY featureConfigurator.para2 "Gunakan laman Asisten Migrasi ini untuk mengkonfigurasi pengaturan fitur baru ini. Anda dapat selalu kembali ke laman ini lewat menu Bantuan.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
 IMAP synchronization feature. The words should probably echo the word used

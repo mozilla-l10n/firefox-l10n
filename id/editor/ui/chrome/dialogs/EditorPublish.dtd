@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label            "Penerbitan Halaman">
+<!ENTITY windowTitle.label            "Penerbitan Laman">
 <!ENTITY windowTitleSettings.label    "Pengaturan Penerbitan">
 <!ENTITY publishTab.label             "Penerbitan">
 <!ENTITY settingsTab.label            "Pengaturan">
@@ -48,27 +48,27 @@
 <!ENTITY siteList.tooltip             "Pilih situs untuk tempat penerbitan">
 <!ENTITY newSiteButton.label          "Situs Baru">
 <!ENTITY newSiteButton.accesskey      "B">
-<!ENTITY docDirList.label             "Subdirektori pada situs untuk halaman ini:">
+<!ENTITY docDirList.label             "Subdirektori pada situs untuk laman ini:">
 <!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip           "Pilih atau masukkan nama subdirektori daring untuk halaman ini">
+<!ENTITY docDirList.tooltip           "Pilih atau masukkan nama subdirektori daring untuk laman ini">
 <!ENTITY publishImgCheckbox.label     "Sertakan gambar dan berkas lainnya">
 <!ENTITY publishImgCheckbox.accesskey "g">
-<!ENTITY publishImgCheckbox.tooltip   "Sertakan gambar dan berkas lainnya yang dirujuk halaman ini dalam penerbitan">
-<!ENTITY sameLocationRadio.label      "Gunakan lokasi yang sama dengan halaman ini">
+<!ENTITY publishImgCheckbox.tooltip   "Sertakan gambar dan berkas lainnya yang dirujuk laman ini dalam penerbitan">
+<!ENTITY sameLocationRadio.label      "Gunakan lokasi yang sama dengan laman ini">
 <!ENTITY sameLocationRadio.accesskey  "G">
-<!ENTITY sameLocationRadio.tooltip    "Terbitkan berkas pada lokasi yang sama dengan halaman">
+<!ENTITY sameLocationRadio.tooltip    "Terbitkan berkas pada lokasi yang sama dengan laman">
 <!ENTITY useSubdirRadio.label         "Gunakan subdirektori situs berikut:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Terbitkan berkas pada subdirektori daring yang terpilih">
 <!ENTITY otherDirList.tooltip         "Pilih atau masukkan nama subdirektori daring tempat berkas akan diterbitkan">
-<!ENTITY pageTitle.label              "Judul Halaman:">
+<!ENTITY pageTitle.label              "Judul Laman:">
 <!ENTITY pageTitle.accesskey          "J">
-<!ENTITY pageTitle.tooltip            "Masukkan sebuah judul untuk mengidentifikasikan halaman pada jendela dan bookmark">
-<!ENTITY pageTitleExample.label       "contoh: &quot;Halaman Webku&quot;">
+<!ENTITY pageTitle.tooltip            "Masukkan sebuah judul untuk mengidentifikasikan laman pada jendela dan bookmark">
+<!ENTITY pageTitleExample.label       "contoh: &quot;Laman Webku&quot;">
 <!ENTITY filename.label               "Nama berkas:">
 <!ENTITY filename.accesskey           "N">
-<!ENTITY filename.tooltip             "Masukkan nama untuk berkas ini, termasuk '.html' untuk halaman web">
-<!ENTITY filenameExample.label        "contoh,: &quot;halamanwebku.html&quot;">
+<!ENTITY filename.tooltip             "Masukkan nama untuk berkas ini, termasuk '.html' untuk laman web">
+<!ENTITY filenameExample.label        "contoh,: &quot;lamanwebku.html&quot;">
 <!ENTITY setDefaultButton.label       "Atur sebagai Default">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Hapus Situs">

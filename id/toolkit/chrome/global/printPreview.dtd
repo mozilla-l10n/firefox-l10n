@@ -37,9 +37,9 @@
 
 <!ENTITY print.label          "Cetak…">
 <!ENTITY print.accesskey      "C">
-<!ENTITY pageSetup.label      "Tata Halaman…">
-<!ENTITY pageSetup.accesskey  "H">
-<!ENTITY page.label           "Halaman:">
+<!ENTITY pageSetup.label      "Tata Laman…">
+<!ENTITY pageSetup.accesskey  "L">
+<!ENTITY page.label           "Laman:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "dari">
 <!ENTITY scale.label          "Skala:">
@@ -66,7 +66,7 @@
 <!ENTITY ShrinkToFit.label    "Kecilkan Supaya Muat">
 <!ENTITY customPrompt.title   "Skala Suka-suka…">
 
-<!ENTITY homearrow.tooltip    "Halaman pertama">
-<!ENTITY endarrow.tooltip     "Halaman terakhir">
-<!ENTITY nextarrow.tooltip    "Halaman berikutnya">
-<!ENTITY previousarrow.tooltip "Halaman sebelumnya">
+<!ENTITY homearrow.tooltip    "Laman pertama">
+<!ENTITY endarrow.tooltip     "Laman terakhir">
+<!ENTITY nextarrow.tooltip    "Laman berikutnya">
+<!ENTITY previousarrow.tooltip "Laman sebelumnya">

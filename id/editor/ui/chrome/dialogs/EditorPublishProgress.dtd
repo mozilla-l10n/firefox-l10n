@@ -38,7 +38,7 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "URL Situs:">
-<!ENTITY docSubdir.label       "Subdirektori halaman:">
+<!ENTITY docSubdir.label       "Subdirektori laman:">
 <!ENTITY otherSubdir.label     "Subdirektori untuk Gambar:">
 
 <!ENTITY status.label          "Menerbitkan…">

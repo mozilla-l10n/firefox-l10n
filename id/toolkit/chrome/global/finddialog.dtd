@@ -1,6 +1,6 @@
 <!-- extracted from finddialog.xul -->
 
-<!ENTITY findDialog.title "Cari di Halaman Ini">
+<!ENTITY findDialog.title "Cari di Laman Ini">
 <!ENTITY findField.label "Cari apa:">
 <!ENTITY findField.accesskey "C">
 <!ENTITY caseSensitiveCheckbox.label "Cocokkan BESAR/kecil">

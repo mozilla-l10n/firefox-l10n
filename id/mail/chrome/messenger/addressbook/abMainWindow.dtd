@@ -23,8 +23,8 @@
 <!ENTITY closeCmd.label                                 "Tutup">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "T">
-<!ENTITY printSetupCmd.label                            "Tata Halaman…">
-<!ENTITY printSetupCmd.accesskey                        "H">
+<!ENTITY printSetupCmd.label                            "Tata Laman…">
+<!ENTITY printSetupCmd.accesskey                        "L">
 <!ENTITY printPreviewContactCmd.label                   "Pratinjau Cetak Data Kenalan">
 <!ENTITY printPreviewContactCmd.accesskey               "C">
 <!ENTITY printPreviewAddressBook.label                  "Pratinjau Cetak Buku Alamat">

@@ -65,7 +65,7 @@
 <!ENTITY actualSizeRadio.tooltip "Kembalikan ukuran menjadi ukuran gambar asli">
 <!ENTITY customSizeRadio.label "Ukuran Suka-suka">
 <!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Ubah ukuran gambar untuk ditampilkan dalam halaman">
+<!ENTITY customSizeRadio.tooltip "Ubah ukuran gambar untuk ditampilkan dalam laman">
 <!ENTITY heightEditField.label "Tinggi:">
 <!ENTITY heightEditField.accessKey "T">
 <!ENTITY widthEditField.label "Lebar:">

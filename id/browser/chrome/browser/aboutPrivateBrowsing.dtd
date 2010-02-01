@@ -19,5 +19,5 @@ riwayat penjelajahan, pencarian, unduhan, pengisian form, cookie, dan berkas Int
 <!ENTITY privatebrowsingpage.howToStop                 "Untuk berhenti dari Mode Penjelajahan Pribadi, hapus centang pada menu &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; atau tutup &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Untuk memulai Mode Penjelajahan Pribadi, pilih menu &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Walaupun komputer ini tidak akan merekam riwayat penjelajahan Anda, Internet Service Provider atau pihak kantor Anda masih tetap dapat merekam jejak halaman yang Anda kunjungi.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Walaupun komputer ini tidak akan merekam riwayat penjelajahan Anda, Internet Service Provider atau pihak kantor Anda masih tetap dapat merekam jejak laman yang Anda kunjungi.">
 <!ENTITY privatebrowsingpage.learnMore                 "Pelajari Lebih Lanjut">

@@ -45,8 +45,8 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Berkas">
 <!ENTITY fileMenu.accesskey "B">
-<!ENTITY newBlankPageCmd.label "Halaman di Composer">
-<!ENTITY newBlankPageCmd.accesskey "H" >
+<!ENTITY newBlankPageCmd.label "Laman di Composer">
+<!ENTITY newBlankPageCmd.accesskey "n" >
 <!ENTITY newMenu.label "Baru">
 <!ENTITY openFileCmd.label "Buka Berkas…">
 <!ENTITY openFileCmd.accesskey "u">
@@ -54,7 +54,7 @@
 <!ENTITY openRemoteCmd.label "Buka Lokasi Web…">
 <!ENTITY openRemoteCmd.accesskey "L">
 <!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Halaman Terakhir">
+<!ENTITY fileRecentMenu.label "Laman Terakhir">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "Kembalikan">
 <!ENTITY fileRevert.accesskey "K">
@@ -73,11 +73,11 @@
 <!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Simpan dan Ubah Pengodean Karakter">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY previewCmd.label "Jelajahi Halaman">
+<!ENTITY previewCmd.label "Jelajahi Laman">
 <!ENTITY previewCmd.accesskey "J">
-<!ENTITY sendPageCmd.label "Kirim Halaman…">
+<!ENTITY sendPageCmd.label "Kirim Laman…">
 <!ENTITY sendPageCmd.accesskey "K">
-<!ENTITY printSetupCmd.label "Tata Halaman…">
+<!ENTITY printSetupCmd.label "Tata Laman…">
 <!ENTITY printSetupCmd.accesskey "T">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "C">
@@ -335,9 +335,9 @@
 <!ENTITY grid.label "Peletakan Grid">
 <!ENTITY grid.accesskey "G">
 
-<!ENTITY pageProperties.label "Judul dan Properti Halaman…">
+<!ENTITY pageProperties.label "Judul dan Properti Laman…">
 <!ENTITY pageProperties.accesskey "J">
-<!ENTITY colorsAndBackground.label "Warna dan Latar Belakang Halaman…">
+<!ENTITY colorsAndBackground.label "Warna dan Latar Belakang Laman…">
 <!ENTITY colorsAndBackground.accesskey "W">
 
 <!-- Table Menu -->
@@ -407,19 +407,19 @@
 <!ENTITY menuBar.tooltip "Bilah Menu">
 <!ENTITY compositionToolbar.tooltip "Bilah Alat Komposisi">
 <!ENTITY formatToolbar.tooltip "Bilah Format">
-<!ENTITY newToolbarCmd.tooltip "Buat Halaman Baru di Composer">
+<!ENTITY newToolbarCmd.tooltip "Buat Laman Baru di Composer">
 <!ENTITY openToolbarCmd.label "Buka">
 <!ENTITY openToolbarCmd.tooltip "Buka berkas lokal">
 <!ENTITY saveToolbarCmd.tooltip "Simpan berkas ke lokasi lokal">
 <!ENTITY publishToolbarCmd.tooltip "Unggah berkas ke lokasi daring">
 <!ENTITY previewToolbarCmd.label "Jelajahi">
-<!ENTITY previewToolbarCmd.tooltip "Muat Halaman di program peramban">
+<!ENTITY previewToolbarCmd.tooltip "Muat Laman di program peramban">
 <!ENTITY printToolbarCmd.label "Cetak">
-<!ENTITY printToolbarCmd.tooltip "Cetak Halaman Ini">
+<!ENTITY printToolbarCmd.tooltip "Cetak Laman Ini">
 <!ENTITY findToolbarCmd.label "Cari">
-<!ENTITY findToolbarCmd.tooltip "Cari teks di halaman">
+<!ENTITY findToolbarCmd.tooltip "Cari teks di laman">
 <!ENTITY spellToolbarCmd.label "Periksa Ejaan">
-<!ENTITY spellToolbarCmd.tooltip "Periksa Ejaan saat mengetik atau seluruh halaman">
+<!ENTITY spellToolbarCmd.tooltip "Periksa Ejaan saat mengetik atau seluruh laman">
 <!ENTITY imageToolbarCmd.label "Gambar">
 <!ENTITY imageToolbarCmd.tooltip "Sisipkan gambar baru atau sunting properti gambar yang dipilih">
 <!ENTITY hruleToolbarCmd.label "G.Mendatar">
@@ -432,7 +432,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Sisipkan penanda bernama baru atau sunting properti penanda bernama terpilih">
 <!ENTITY TextColorButton.tooltip "Pilih warna untuk teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna untuk latar belakang">
-<!ENTITY throbber.tooltip "Buka halaman untuk &vendorShortName;">
+<!ENTITY throbber.tooltip "Buka laman untuk &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
 
 <!-- Editor toolbar -->
