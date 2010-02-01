@@ -1,15 +1,18 @@
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Langganan Feed">
 <!ENTITY subscriptionDesc.label "Catatan: Menghapus atau mengubah folder untuk feed tidak akan berpengaruh pada artikel yang pernah diunduh sebelumnya.">
 <!ENTITY feedTitle.label "Judul:">
-<!ENTITY location.label "Lokasi:">
-<!ENTITY button.addFeed.label "Tambah">
-<!ENTITY button.addFeed.accesskey "T">
-<!ENTITY button.editFeed.label "Ubah">
-<!ENTITY button.editFeed.accesskey "U">
+<!ENTITY location.label  "Lokasi:">
+
+<!ENTITY button.addFeed.label       "Tambah">
+<!ENTITY button.addFeed.accesskey   "T">
+<!ENTITY button.editFeed.label      "Ubah">
+<!ENTITY button.editFeed.accesskey  "U">
 <!ENTITY button.removeFeed.label "Hapus">
-<!ENTITY button.removeFeed.accesskey "H">
+<!ENTITY button.removeFeed.accesskey   "H">
 <!ENTITY button.importOPML.label "Impor">
-<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Ekspor">
-<!ENTITY button.exportOPML.accesskey "E">
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.exportOPML.accesskey   "E">
+
+<!ENTITY cmd.close.commandKey             "w">

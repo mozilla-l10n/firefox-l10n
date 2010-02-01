@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Original author: Daniel Glazman (daniel@glazman.org)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,15 +34,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY Window.title "Daftar Isi">
-<!ENTITY buildToc.label "Buat daftar isi dari:">
-<!ENTITY tag.label "Tag:">
-<!ENTITY class.label "Kelas:">
-<!ENTITY header1.label "Tingkat 1">
-<!ENTITY header2.label "Tingkat 2">
-<!ENTITY header3.label "Tingkat 3">
-<!ENTITY header4.label "Tingkat 4">
-<!ENTITY header5.label "Tingkat 5">
-<!ENTITY header6.label "Tingkat 6">
-<!ENTITY makeReadOnly.label "Jadikan daftar isi menjadi baca-saja">
-<!ENTITY orderedList.label "Jumlah semua entri dalam daftar isi">
+
+<!ENTITY Window.title        "Daftar Isi">
+<!ENTITY buildToc.label      "Buat daftar isi dari:">
+<!ENTITY tag.label           "Tag:">
+<!ENTITY class.label         "Kelas:">
+<!ENTITY header1.label       "Tingkat 1">
+<!ENTITY header2.label       "Tingkat 2">
+<!ENTITY header3.label       "Tingkat 3">
+<!ENTITY header4.label       "Tingkat 4">
+<!ENTITY header5.label       "Tingkat 5">
+<!ENTITY header6.label       "Tingkat 6">
+<!ENTITY makeReadOnly.label  "Jadikan daftar isi menjadi baca-saja">
+<!ENTITY orderedList.label   "Jumlah semua entri dalam daftar isi">

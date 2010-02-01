@@ -1,11 +1,13 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY viewPicker.label "Tampilkan:">
 <!ENTITY viewPicker.accesskey "T">
 <!ENTITY viewAll.label "Semua">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "a">
 <!ENTITY viewUnread.label "Belum Dibaca">
 <!ENTITY viewUnread.accesskey "B">
 <!ENTITY viewNotDeleted.label "Tidak Dihapus">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewNotDeleted.accesskey "d">
 <!ENTITY viewTags.label "Tag">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Tampilan Kustom">

@@ -1,16 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Pengaturan Server Pengirim (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Walaupun Anda dapat menentukan lebih dari satu server pengirim (SMTP), pengaturan ini hanya disarankan untuk pengguna berpengalaman. Pengaturan dengan menggunakan lebih dari satu server SMTP dapat menyebabkan kesalahan saat mengirim pesan.">
-<!ENTITY smtpListAdd.label "Tambah…">
-<!ENTITY smtpListAdd.accesskey "T">
+
+<!ENTITY smtpListAdd.label  "Tambah…">
+<!ENTITY smtpListAdd.accesskey  "T">
 <!ENTITY smtpListEdit.label "Ubah…">
 <!ENTITY smtpListEdit.accesskey "U">
 <!ENTITY smtpListDelete.label "Hapus">
 <!ENTITY smtpListDelete.accesskey "H">
 <!ENTITY smtpListSetDefault.label "Atur menjadi Default">
-<!ENTITY smtpListSetDefault.accesskey "D">
+<!ENTITY smtpListSetDefault.accesskey "d">
+
 <!ENTITY serverDescription.label "Keterangan: ">
 <!ENTITY serverName.label "Nama Server: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label "Nama Pengguna: ">
+<!ENTITY userName.label   "Nama Pengguna: ">
 <!ENTITY connectionSecurity.label "Keamanan Sambungan: ">
-<!ENTITY useSecureAuthentication.label "Autentikasi Aman: ">
+<!ENTITY useSecureAuthentication.label   "Autentikasi Aman: ">

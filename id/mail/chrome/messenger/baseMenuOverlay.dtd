@@ -1,5 +1,8 @@
+<!-- Help Menu -->
 <!ENTITY helpMenu.label "Bantuan">
 <!ENTITY helpMenu.accesskey "n">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Bantuan">
 <!ENTITY helpMenuWin.accesskey "n">
 <!ENTITY releaseCmd.label "Catatan Rilis">
@@ -12,8 +15,9 @@
 <!ENTITY openHelp.accesskey "D">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Daftar Isi Bantuan &brandShortName;">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "accel">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
 <!ENTITY updateCmd.label "Periksa Versi Baru…">
 <!ENTITY aboutMenuCmd.label "Tentang &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "T">

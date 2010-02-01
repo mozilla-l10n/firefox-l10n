@@ -20,6 +20,7 @@
 <!ENTITY signMessage.label "Tandatangani pesan secara dijital secara default">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Gunakan sertifikat ini untuk menandatangani pesan yang Anda kirim secara dijital:">
+
 <!ENTITY certificates.label "Sertifikat">
 <!ENTITY manageCerts.label "Tampilkan Sertifikat">
 <!ENTITY manageCerts.accesskey "S">

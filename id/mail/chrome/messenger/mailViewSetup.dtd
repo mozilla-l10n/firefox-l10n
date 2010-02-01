@@ -1,4 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY mailViewSetupTitle.label "Pengaturan Tampilan Pesan">
 <!ENTITY mailViewHeading.label "Nama tampilan pesan:">
-<!ENTITY mailViewHeading.accesskey "n">
+<!ENTITY mailViewHeading.accesskey "N">
 <!ENTITY searchTermCaption.label "Saat tampilan ini dipilih, hanya tampilkan pesan yang:">
+

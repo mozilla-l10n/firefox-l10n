@@ -1,48 +1,59 @@
-<!ENTITY fileMenu.label "Berkas">
-<!ENTITY fileMenu.accesskey "B">
-<!ENTITY newMenu.label "Baru">
-<!ENTITY newMenu.accesskey "B">
-<!ENTITY editMenu.label "Ubah">
-<!ENTITY editMenu.accesskey "U">
-<!ENTITY undoCmd.label "Batal">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "B">
-<!ENTITY redoCmd.label "Ulangi">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "U">
-<!ENTITY cutCmd.label "Potong">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "S">
-<!ENTITY pasteCmd.label "Tempel">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "T">
-<!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.accesskey "H">
-<!ENTITY selectAllCmd.label "Pilih Semua">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Pengaturan…">
-<!ENTITY preferencesCmd.accesskey "P">
-<!ENTITY preferencesCmdUnix.label "Pengaturan">
-<!ENTITY preferencesCmdUnix.accesskey "P">
-<!ENTITY viewMenu.label "Tampilan">
-<!ENTITY viewMenu.accesskey "T">
-<!ENTITY viewToolbarsMenu.label "Bilah Alat">
-<!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY showTaskbarCmd.label "Bilah Status">
-<!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY proxy.label "Konfigurasi Proxy…">
-<!ENTITY proxy.accesskey "K">
-<!ENTITY closeCmd.label "Tutup">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "T">
-<!ENTITY quitApplicationCmd.label "Keluar">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "K">
-<!ENTITY quitApplicationCmdUnix.label "Keluar">
-<!ENTITY quitApplicationCmdUnix.accesskey "K">
-<!ENTITY quitApplicationCmdMac.label "Keluar dari &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "K">
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Berkas">
+<!ENTITY fileMenu.accesskey        "B">
+<!ENTITY newMenu.label            "Baru">
+<!ENTITY newMenu.accesskey          "B">
+
+<!ENTITY editMenu.label          "Ubah">
+<!ENTITY editMenu.accesskey        "U">
+<!ENTITY undoCmd.label            "Batal">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "B">
+<!ENTITY redoCmd.label            "Ulangi">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "U">
+<!ENTITY cutCmd.label            "Potong">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "P">
+<!ENTITY copyCmd.label            "Salin">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "S">
+<!ENTITY pasteCmd.label            "Tempel">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "T">
+<!ENTITY deleteCmd.label          "Hapus">
+<!ENTITY deleteCmd.accesskey        "H">
+<!ENTITY selectAllCmd.label          "Pilih Semua">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "a">
+<!ENTITY preferencesCmd.label        "Pengaturan…">
+<!ENTITY preferencesCmd.accesskey      "P">
+<!ENTITY preferencesCmdUnix.label       "Pengaturan">
+<!ENTITY preferencesCmdUnix.accesskey     "P">
+
+<!ENTITY viewMenu.label          "Tampilan">
+<!ENTITY viewMenu.accesskey        "T">
+<!ENTITY viewToolbarsMenu.label        "Bilah Alat">
+<!ENTITY viewToolbarsMenu.accesskey      "t">
+<!ENTITY showTaskbarCmd.label          "Bilah Status">
+<!ENTITY showTaskbarCmd.accesskey        "S">
+
+<!ENTITY proxy.label                                    "Konfigurasi Proxy…">
+<!ENTITY proxy.accesskey                                "K">
+
+<!ENTITY closeCmd.label      "Tutup">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "T">
+
+<!ENTITY quitApplicationCmd.label  "Keluar">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "K">
+
+<!ENTITY quitApplicationCmdUnix.label  "Keluar">
+<!ENTITY quitApplicationCmdUnix.accesskey  "K">
+
+<!ENTITY quitApplicationCmdMac.label  "Keluar dari &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "K">

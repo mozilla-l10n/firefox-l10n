@@ -6,7 +6,7 @@
 <!ENTITY button.removecookie.label         "Hapus Cookie">
 <!ENTITY button.removecookie.accesskey     "H">
 <!ENTITY button.removeallcookies.label     "Hapus Semua Cookie">
-<!ENTITY button.removeallcookies.accesskey "S">
+<!ENTITY button.removeallcookies.accesskey "s">
 
 <!ENTITY props.name.label                  "Nama:">
 <!ENTITY props.value.label                 "Isi:">

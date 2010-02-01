@@ -1,10 +1,48 @@
-<!--null-->
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY toField2.label "kepada ">
 <!ENTITY fromField2.label "dari ">
 <!ENTITY senderField2.label "pengirim ">
 <!ENTITY organizationField2.label "organisasi ">
 <!ENTITY replyToField2.label "balas-ke ">
+
 <!ENTITY subjectField2.label "subjek ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
 <!ENTITY newsgroupsField2.label "newsgroup ">
@@ -16,6 +54,7 @@
 <!ENTITY messageIdField2.label "id-pesan ">
 <!ENTITY inReplyToField2.label "sebagai-balasan-kepada ">
 <!ENTITY originalWebsite2.label "situs-web ">
+
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
 <!ENTITY editMessageButton.label "Sunting…">
 <!ENTITY hdrArchiveButton.label "arsipkan">
@@ -36,11 +75,11 @@
 <!ENTITY hdrViewToolbarShowFull.label "Tampilkan Ikon dan Teks">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Tampilkan Ikon Saja">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Tampilkan Teks Saja">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Selalu Tampilkan Balas ke Pengirim">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "P">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "p">
 
 <!ENTITY otherActionsButton.label "aksi lainnya">
 <!ENTITY otherActionsShowConversation.label "tampilkan percakapan">
@@ -54,25 +93,28 @@
 <!ENTITY markAsUnreadMenuItem.label "tandai belum dibaca">
 <!ENTITY markAsUnreadMenuItem.accesskey "b">
 <!ENTITY saveAsMenuItem.label "simpan sebagai…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "tampilkan kode sumber…">
 <!ENTITY viewSourceMenuItem.accesskey "s">
 <!ENTITY otherActionsPrint.label "cetak…">
 <!ENTITY otherActionsPrint.accesskey "c">
-<!ENTITY openAttachmentCmd.label "Buka">
-<!ENTITY openAttachmentCmd.accesskey "B">
-<!ENTITY saveAsAttachmentCmd.label "Simpan dengan Nama…">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "Pisahkan…">
-<!ENTITY deleteAttachmentCmd.label "Hapus">
-<!ENTITY saveAllAttachmentsCmd.label "Simpan Semua…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "Pisahkan Semua…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "s">
-<!ENTITY deleteAllAttachmentsCmd.label "Hapus Semua…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
-<!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
-<!ENTITY copyLinkCmd.accesskey "S">
+
+<!ENTITY openAttachmentCmd.label    "Buka">
+<!ENTITY openAttachmentCmd.accesskey    "B">
+<!ENTITY saveAsAttachmentCmd.label    "Simpan dengan Nama…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY detachAttachmentCmd.label    "Pisahkan…">
+<!ENTITY deleteAttachmentCmd.label    "Hapus">
+<!ENTITY saveAllAttachmentsCmd.label    "Simpan Semua…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Pisahkan Semua…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "s">
+<!ENTITY deleteAllAttachmentsCmd.label    "Hapus Semua…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!ENTITY copyLinkCmd.label        "Salin Lokasi Tautan">
+<!ENTITY copyLinkCmd.accesskey    "S">
+
 <!ENTITY CopyMessageId.label "Salin ID-Pesan">
 <!ENTITY OpenMessageForMsgId.label "Buka Pesan dengan ID">
 <!ENTITY OpenBrowserWithMsgId.label "Buka Program Peramban dengan ID-Pesan">

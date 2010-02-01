@@ -1,7 +1,7 @@
-<!ENTITY window.title "Tentang Email Junk">
-<!ENTITY window.width "450">
-<!ENTITY info1a.label "&brandShortName; secara otomatis mendeteksi email masuk yang tampak sebagai email junk (juga dikenal sebagai spam). Pesan yang &brandShortName; dianggap sebagai junk akan ditampilkan dengan ikon junk">
-<!ENTITY info1b.label ".">
-<!ENTITY info2.label "Pertama kali, Anda harus 'melatih' &brandShortName; untuk mengidentifikasi email junk dengan menggunakan tombol Junk pada bilah alat apakah email tersebut junk atau bukan.">
-<!ENTITY info3.label "Setelah &brandShortName; telah mengidentifikasi email junk dengan benar, Anda dapat menggunakan pengelola Email Junk untuk memindahkan email junk masuk ke folder Junk.">
-<!ENTITY info4.label "Untuk informasi lebih lanjut, klik menu Bantuan.">
+<!ENTITY window.title  "Tentang Email Junk">
+<!ENTITY window.width  "450">
+<!ENTITY info1a.label  "&brandShortName; secara otomatis mendeteksi email masuk yang tampak sebagai email junk (juga dikenal sebagai spam). Pesan yang &brandShortName; dianggap sebagai junk akan ditampilkan dengan ikon junk">
+<!ENTITY info1b.label  ".">
+<!ENTITY info2.label   "Pertama kali, Anda harus 'melatih' &brandShortName; untuk mengidentifikasi email junk dengan menggunakan tombol Junk pada bilah alat apakah email tersebut junk atau bukan.">
+<!ENTITY info3.label   "Setelah &brandShortName; telah mengidentifikasi email junk dengan benar, Anda dapat menggunakan pengelola Email Junk untuk memindahkan email junk masuk ke folder Junk.">
+<!ENTITY info4.label   "Untuk informasi lebih lanjut, klik menu Bantuan.">

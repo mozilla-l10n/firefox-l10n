@@ -1,13 +1,19 @@
 <!ENTITY accountTitle.label "Pengaturan Akun">
+
 <!ENTITY biffStart.label "Periksa artikel baru setiap ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "menit">
-<!ENTITY loginAtStartup.label "Periksa artikel baru saat memulai aplikasi">
+
+<!ENTITY loginAtStartup.label "Periksa artikel baru saat memulai aplikasi"> 
 <!ENTITY loginAtStartup.accesskey "P">
-<!ENTITY useQuickMode.label "Tampilkan ringkasan artikel tanpa memuat halaman web sebagai pengaturan default">
+
+<!ENTITY useQuickMode.label "Tampilkan ringkasan artikel tanpa memuat halaman web sebagai pengaturan default"> 
 <!ENTITY useQuickMode.accesskey "T">
-<!ENTITY manageSubscriptions.label "Kelola Langganan…">
+
+<!ENTITY manageSubscriptions.label "Kelola Langganan…"> 
 <!ENTITY manageSubscriptions.accesskey "K">
+
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Feed Blog &amp; Berita">
 <!ENTITY feeds.wizardShortName "Feed">
 <!ENTITY feeds.wizardLongName "Feed Blog &amp; Berita">

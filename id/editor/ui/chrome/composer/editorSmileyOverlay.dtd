@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -    Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,19 +34,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smiley">
 <!ENTITY insertSmiley.accesskey "S">
+
 <!ENTITY smiley1Cmd.label "Tersenyum">
 <!ENTITY smiley1Cmd.accesskey "y">
 <!ENTITY smiley1Cmd.tooltip "Sisipkan muka tersenyum">
 <!ENTITY smiley2Cmd.label "Kerut">
-<!ENTITY smiley2Cmd.accesskey "k">
+<!ENTITY smiley2Cmd.accesskey "K">
 <!ENTITY smiley2Cmd.tooltip "Sisipkan muka berkerut">
 <!ENTITY smiley3Cmd.label "Kedip">
 <!ENTITY smiley3Cmd.accesskey "p">
 <!ENTITY smiley3Cmd.tooltip "Masukkan muka berkedip">
 <!ENTITY smiley4Cmd.label "Lidah Menjulur">
-<!ENTITY smiley4Cmd.accesskey "l">
+<!ENTITY smiley4Cmd.accesskey "L">
 <!ENTITY smiley4Cmd.tooltip "Masukkan muka dengan lidah menjulur">
 <!ENTITY smiley5Cmd.label "Ketawa">
 <!ENTITY smiley5Cmd.accesskey "w">
@@ -83,6 +85,7 @@
 <!ENTITY smiley15Cmd.accesskey "g">
 <!ENTITY smiley15Cmd.tooltip "Masukkan muka sedang menangis">
 <!ENTITY smiley16Cmd.label "Tutup Mulut">
-<!ENTITY smiley16Cmd.accesskey "t">
+<!ENTITY smiley16Cmd.accesskey "T">
 <!ENTITY smiley16Cmd.tooltip "Masukkan muka tutup mulut">
 <!ENTITY SmileButton.tooltip "Masukkan smiley">
+

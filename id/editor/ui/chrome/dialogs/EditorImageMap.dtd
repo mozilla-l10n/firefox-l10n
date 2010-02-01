@@ -22,7 +22,6 @@
    - Contributor(s):
    -   Dan Haddix (dan6992@hotmail.com)
    -   Brian King (briano9@yahoo.com)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,13 +36,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image map dialog. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Penyunting Map Gambar">
+
+<!-- Menu Items -->
+<!-- File menu -->
 <!ENTITY mapfileMenu.label "Berkas">
 <!ENTITY mapfileMenu.accesskey "B">
 <!ENTITY clearCmd.label "Bersihkan">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Tutup">
 <!ENTITY closeCmd.accesskey "T">
+
+<!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Ubah">
 <!ENTITY mapeditMenu.accesskey "U">
 <!ENTITY cutCmd.label "Salin">
@@ -53,13 +61,16 @@
 <!ENTITY pasteCmd.label "Tempel">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectallCmd.label "Pilih Semua">
-<!ENTITY selectallCmd.accesskey "s">
+<!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Properti Hotspot">
-<!ENTITY propsCmd.accesskey "h">
+<!ENTITY propsCmd.accesskey "H">
+
+<!-- View menu -->
 <!ENTITY mapviewMenu.label "Tampilan">
 <!ENTITY mapviewMenu.accesskey "T">
 <!ENTITY showhideTbarCmd.label "Sembunyikan Bilah Alat">
 <!ENTITY showhideTbarCmd.accesskey "t">
+<!-- Scaling -->
 <!ENTITY mapviewScale.label "Skala">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
@@ -68,8 +79,11 @@
 <!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
+
 <!ENTITY zoominCmd.label "Perbesar">
 <!ENTITY zoomoutCmd.label "Perkecil">
+
+<!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "B">

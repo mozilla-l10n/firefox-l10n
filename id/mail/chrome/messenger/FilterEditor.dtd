@@ -1,13 +1,17 @@
 <!ENTITY window.title "Aturan Filter">
+
 <!ENTITY filterName.label "Nama filter:">
 <!ENTITY filterName.accesskey "i">
+
 <!ENTITY junk.label "Junk">
 <!ENTITY notJunk.label "Bukan Junk">
+
 <!ENTITY lowestPriorityCmd.label "Terendah">
 <!ENTITY lowPriorityCmd.label "Rendah">
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Tinggi">
 <!ENTITY highestPriorityCmd.label "Tertinggi">
+
 <!ENTITY contextDesc.label "Terapkan filter ketika:">
 <!ENTITY contextDesc.accesskey "p">
 <!ENTITY contextIncoming.label "Memeriksa Email">
@@ -17,6 +21,8 @@
 <!ENTITY contextPostPluginBoth.label "Memeriksa Email (setelah klasifikasi) atau Dijalankan Manual">
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
+
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Pindahkan Pesan ke">
 <!ENTITY copyMessage.label "Salin Pesan ke">
 <!ENTITY forwardTo.label "Teruskan Pesan ke">

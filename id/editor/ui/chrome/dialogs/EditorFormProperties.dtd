@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +33,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Properti Form">
+
 <!ENTITY Settings.label "Pengaturan">
+
 <!ENTITY FormName.label "Nama Form:">
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "URL Aksi:">
@@ -46,5 +48,6 @@
 <!ENTITY FormEncType.accesskey "P">
 <!ENTITY FormTarget.label "Bingkai Target:">
 <!ENTITY FormTarget.accesskey "B">
+
 <!ENTITY RemoveForm.label "Hapus Form">
 <!ENTITY RemoveForm.accesskey "H">

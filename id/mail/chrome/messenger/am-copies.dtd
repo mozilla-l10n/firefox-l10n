@@ -1,25 +1,32 @@
+<!-- extracted from am-copies.xul -->
+
 <!ENTITY copyAndFolderTitle.label "Salinan &amp; Folder">
 <!ENTITY sendingPrefix.label "Saat mengirim pesan, secara otomatis: ">
 <!ENTITY fccMailFolder.label "Masukkan sebuah salinan di:">
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Masukkan balasan pada folder yang sama dengan folder pesan yang dibalas">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Tambahkan Bcc ke alamat email ini:">
-<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddress.accesskey "b">
 <!ENTITY saveMessageDlg.label "Tampilkan dialog konfirmasi ketika pesan disimpan">
 <!ENTITY saveMessageDlg.accesskey "T">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Folder &quot;Terkirim&quot; di:">
 <!ENTITY sentFolderOn.accesskey "r">
 <!ENTITY sentInOtherFolder.label "Lainnya:">
 <!ENTITY sentInOtherFolder.accesskey "L">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Folder &quot;Konsep&quot; di:">
-<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftsFolderOn.accesskey "d">
 <!ENTITY draftInOtherFolder.label "Lainnya:">
 <!ENTITY draftInOtherFolder.accesskey "L">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "Folder &quot;Arsip&quot; di:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Lainnya:">
 <!ENTITY archiveInOtherFolder.accesskey "L">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Folder &quot;Templat&quot; di:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Lainnya:">

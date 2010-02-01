@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,59 +34,65 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Penerbitan Halaman">
-<!ENTITY windowTitleSettings.label "Pengaturan Penerbitan">
-<!ENTITY publishTab.label "Penerbitan">
-<!ENTITY settingsTab.label "Pengaturan">
-<!ENTITY publishButton.label "Terbitkan">
-<!ENTITY siteList.label "Nama Situs:">
-<!ENTITY siteList.accesskey "n">
-<!ENTITY siteList.tooltip "Pilih situs untuk tempat penerbitan">
-<!ENTITY newSiteButton.label "Situs Baru">
-<!ENTITY newSiteButton.accesskey "B">
-<!ENTITY docDirList.label "Subdirektori pada situs untuk halaman ini:">
-<!ENTITY docDirList.accesskey "S">
-<!ENTITY docDirList.tooltip "Pilih atau masukkan nama subdirektori daring untuk halaman ini">
-<!ENTITY publishImgCheckbox.label "Sertakan gambar dan berkas lainnya">
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Penerbitan Halaman">
+<!ENTITY windowTitleSettings.label    "Pengaturan Penerbitan">
+<!ENTITY publishTab.label             "Penerbitan">
+<!ENTITY settingsTab.label            "Pengaturan">
+<!ENTITY publishButton.label          "Terbitkan">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nama Situs:">
+<!ENTITY siteList.accesskey           "N">
+<!ENTITY siteList.tooltip             "Pilih situs untuk tempat penerbitan">
+<!ENTITY newSiteButton.label          "Situs Baru">
+<!ENTITY newSiteButton.accesskey      "B">
+<!ENTITY docDirList.label             "Subdirektori pada situs untuk halaman ini:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Pilih atau masukkan nama subdirektori daring untuk halaman ini">
+<!ENTITY publishImgCheckbox.label     "Sertakan gambar dan berkas lainnya">
 <!ENTITY publishImgCheckbox.accesskey "g">
-<!ENTITY publishImgCheckbox.tooltip "Sertakan gambar dan berkas lainnya yang dirujuk halaman ini dalam penerbitan">
-<!ENTITY sameLocationRadio.label "Gunakan lokasi yang sama dengan halaman ini">
-<!ENTITY sameLocationRadio.accesskey "G">
-<!ENTITY sameLocationRadio.tooltip "Terbitkan berkas pada lokasi yang sama dengan halaman">
-<!ENTITY useSubdirRadio.label "Gunakan subdirektori situs berikut:">
-<!ENTITY useSubdirRadio.accesskey "d">
-<!ENTITY useSubdirRadio.tooltip "Terbitkan berkas pada subdirektori daring yang terpilih">
-<!ENTITY otherDirList.tooltip "Pilih atau masukkan nama subdirektori daring tempat berkas akan diterbitkan">
-<!ENTITY pageTitle.label "Judul Halaman:">
-<!ENTITY pageTitle.accesskey "J">
-<!ENTITY pageTitle.tooltip "Masukkan sebuah judul untuk mengidentifikasikan halaman pada jendela dan bookmark">
-<!ENTITY pageTitleExample.label "contoh: &quot;Halaman Webku&quot;">
-<!ENTITY filename.label "Nama berkas:">
-<!ENTITY filename.accesskey "N">
-<!ENTITY filename.tooltip "Masukkan nama untuk berkas ini, termasuk '.html' untuk halaman web">
-<!ENTITY filenameExample.label "contoh,: &quot;halamanwebku.html&quot;">
-<!ENTITY setDefaultButton.label "Atur sebagai Default">
-<!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Hapus Situs">
-<!ENTITY removeButton.accesskey "H">
-<!ENTITY publishSites.label "Situs Penerbitan">
-<!ENTITY serverInfo.label "Informasi Server">
-<!ENTITY loginInfo.label "Informasi Log-masuk">
-<!ENTITY siteName.label "Nama Situs:">
-<!ENTITY siteName.accesskey "n">
-<!ENTITY siteName.tooltip "Nama alias (nick) untuk mengenali situs penerbitan ini (contoh: 'Situsku')">
-<!ENTITY siteUrl.label "Alamat penerbitan (contoh: 'ftp://ftp.myisp.com/namapengguna'):">
-<!ENTITY siteUrl.accesskey "a">
-<!ENTITY siteUrl.tooltip "Alamat FTP:// atau HTTP:// yang disediakan oleh ISP atau layanan hosting web Anda">
-<!ENTITY browseUrl.label "Alamat HTTP untuk beranda Anda (contoh: 'http://http.myisp.com/namapengguna'):">
-<!ENTITY browseUrl.accesskey "T">
-<!ENTITY browseUrl.tooltip "Alamat HTTP:// untuk direktori home Anda (jangan sertakan nama berkas)">
-<!ENTITY username.label "Nama pengguna:">
-<!ENTITY username.accesskey "N">
-<!ENTITY username.tooltip "Nama pengguna yang Anda gunakan untuk log-masuk ke ISP Anda atau layanan hosting web">
-<!ENTITY password.label "Kata Sandi:">
-<!ENTITY password.accesskey "K">
-<!ENTITY password.tooltip "Kata sandi yang bersesuaian dengan nama pengguna Anda">
-<!ENTITY savePassword.label "Simpan Kata Sandi">
-<!ENTITY savePassword.accesskey "S">
-<!ENTITY savePassword.tooltip "Aktifkan pilihan ini untuk menyimpan kata sandi Anda secara aman dengan Pengelola Kata Sandi">
+<!ENTITY publishImgCheckbox.tooltip   "Sertakan gambar dan berkas lainnya yang dirujuk halaman ini dalam penerbitan">
+<!ENTITY sameLocationRadio.label      "Gunakan lokasi yang sama dengan halaman ini">
+<!ENTITY sameLocationRadio.accesskey  "G">
+<!ENTITY sameLocationRadio.tooltip    "Terbitkan berkas pada lokasi yang sama dengan halaman">
+<!ENTITY useSubdirRadio.label         "Gunakan subdirektori situs berikut:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Terbitkan berkas pada subdirektori daring yang terpilih">
+<!ENTITY otherDirList.tooltip         "Pilih atau masukkan nama subdirektori daring tempat berkas akan diterbitkan">
+<!ENTITY pageTitle.label              "Judul Halaman:">
+<!ENTITY pageTitle.accesskey          "J">
+<!ENTITY pageTitle.tooltip            "Masukkan sebuah judul untuk mengidentifikasikan halaman pada jendela dan bookmark">
+<!ENTITY pageTitleExample.label       "contoh: &quot;Halaman Webku&quot;">
+<!ENTITY filename.label               "Nama berkas:">
+<!ENTITY filename.accesskey           "N">
+<!ENTITY filename.tooltip             "Masukkan nama untuk berkas ini, termasuk '.html' untuk halaman web">
+<!ENTITY filenameExample.label        "contoh,: &quot;halamanwebku.html&quot;">
+<!ENTITY setDefaultButton.label       "Atur sebagai Default">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY removeButton.label           "Hapus Situs">
+<!ENTITY removeButton.accesskey       "H">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Situs Penerbitan">
+<!ENTITY serverInfo.label             "Informasi Server">
+<!ENTITY loginInfo.label              "Informasi Log-masuk">
+<!ENTITY siteName.label               "Nama Situs:">
+<!ENTITY siteName.accesskey           "N">
+<!ENTITY siteName.tooltip             "Nama alias (nick) untuk mengenali situs penerbitan ini (contoh: 'Situsku')">
+<!ENTITY siteUrl.label                "Alamat penerbitan (contoh: 'ftp://ftp.myisp.com/namapengguna'):">
+<!ENTITY siteUrl.accesskey            "A">
+<!ENTITY siteUrl.tooltip              "Alamat FTP:// atau HTTP:// yang disediakan oleh ISP atau layanan hosting web Anda">
+<!ENTITY browseUrl.label              "Alamat HTTP untuk beranda Anda (contoh: 'http://http.myisp.com/namapengguna'):">
+<!ENTITY browseUrl.accesskey          "t">
+<!ENTITY browseUrl.tooltip            "Alamat HTTP:// untuk direktori home Anda (jangan sertakan nama berkas)">
+<!ENTITY username.label               "Nama pengguna:">
+<!ENTITY username.accesskey           "N">
+<!ENTITY username.tooltip             "Nama pengguna yang Anda gunakan untuk log-masuk ke ISP Anda atau layanan hosting web">
+<!ENTITY password.label               "Kata Sandi:">
+<!ENTITY password.accesskey           "K">
+<!ENTITY password.tooltip             "Kata sandi yang bersesuaian dengan nama pengguna Anda">
+<!ENTITY savePassword.label           "Simpan Kata Sandi">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Aktifkan pilihan ini untuk menyimpan kata sandi Anda secara aman dengan Pengelola Kata Sandi">

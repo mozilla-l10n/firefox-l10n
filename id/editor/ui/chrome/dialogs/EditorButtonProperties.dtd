@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,13 +33,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Properti Tombol">
+
 <!ENTITY Settings.label "Pengaturan">
+
 <!ENTITY ButtonType.label "Jenis">
 <!ENTITY ButtonType.accesskey "J">
 <!ENTITY submit.value "Kirim">
 <!ENTITY reset.value "Reset">
 <!ENTITY button.value "Tombol">
+
 <!ENTITY ButtonName.label "Nama:">
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "Nilai:">
@@ -51,5 +54,6 @@
 <!ENTITY ButtonDisabled.accesskey "N">
 <!ENTITY AccessKey.label "Kunci Akses:">
 <!ENTITY AccessKey.accesskey "K">
+
 <!ENTITY RemoveButton.label "Hapus Tombol">
 <!ENTITY RemoveButton.accesskey "H">

@@ -1,3 +1,5 @@
+<!-- extracted from am-server-top.xul -->
+
 <!ENTITY securitySettings.label "Pengaturan Keamanan">
 <!ENTITY serverSettings.label "Pengaturan Server">
 <!ENTITY serverType.label "Jenis Server:">
@@ -8,8 +10,13 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Default:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
 <!ENTITY biffStart.label "Periksa pesan baru setiap ">
-<!ENTITY biffStart.accesskey "p">
+<!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "menit">
 <!ENTITY connectionSecurity.label "Keamanan sambungan:">
 <!ENTITY connectionSecurity.accesskey "u">
@@ -27,7 +34,7 @@
 <!ENTITY deleteByAgeFromServer.accesskey "H">
 <!ENTITY daysEnd.label "hari">
 <!ENTITY deleteOnServer2.label "Hingga saya hapus">
-<!ENTITY deleteOnServer2.accesskey "h">
+<!ENTITY deleteOnServer2.accesskey "H">
 <!ENTITY downloadOnBiff.label "Otomatis mengunduh pesan baru">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Nama Log-Masuk Anda">
@@ -35,17 +42,23 @@
 <!ENTITY modelMoveToTrash.label "Pindahkan ke folder:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Hanya tandai dengan status dihapus">
-<!ENTITY modelMarkDeleted.accesskey "h">
+<!ENTITY modelMarkDeleted.accesskey "H">
 <!ENTITY modelDeleteImmediately.label "Langsung buang">
 <!ENTITY modelDeleteImmediately.accesskey "b">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Bersihkan (&quot;Hilangkan/Expunge&quot;) Kotak Masuk saat Keluar">
 <!ENTITY expungeOnExit.accesskey "B">
 <!ENTITY emptyTrashOnExit.label "Kosongkan Tong Sampah saat Keluar">
-<!ENTITY emptyTrashOnExit.accesskey "k">
+<!ENTITY emptyTrashOnExit.accesskey "K">
 <!ENTITY loginAtStartup.label "Periksa pesan baru saat memulai program">
 <!ENTITY loginAtStartup.accesskey "P">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
 <!ENTITY maxMessagesStart.label "Tanyakan sebelum mengunduh pesan lebih dari">
 <!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "pesan">
 <!ENTITY alwaysAuthenticate.label "Selalu kirimkan permintaan autentikasi ketika tersambung dengan server ini">
 <!ENTITY alwaysAuthenticate.accesskey "S">
@@ -62,4 +75,4 @@
 <!ENTITY browseFolder.accesskey "T">
 <!ENTITY newsrcPicker.label "Pilih Berkas newsrc">
 <!ENTITY browseNewsrc.label "Telusuri…">
-<!ENTITY browseNewsrc.accesskey "t">
+<!ENTITY browseNewsrc.accesskey "T">

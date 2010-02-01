@@ -1,23 +1,28 @@
-<!ENTITY pref.editing.title "Pengaturan Halaman Baru">
-<!ENTITY authorName.label "Penyusun:">
-<!ENTITY authorName.accesskey "u">
-<!ENTITY pageColorHeader "Tampilan Halaman Default">
-<!ENTITY defaultColors.label "Warna default pembaca (tidak menampilkan warna pada halaman)">
-<!ENTITY defaultColors.accesskey "d">
-<!ENTITY customColors.label "Gunakan warna kesukaan:">
-<!ENTITY customColors.accesskey "c">
-<!ENTITY normalText.label "Teks Normal">
-<!ENTITY normalText.accesskey "N">
-<!ENTITY linkText.label "Teks Tautan">
-<!ENTITY linkText.accesskey "a">
-<!ENTITY activeLinkText.label "Teks tautan aktif">
-<!ENTITY activeLinkText.accesskey "a">
-<!ENTITY visitedLinkText.label "Teks Tautan yang pernah Dikunjungi">
-<!ENTITY visitedLinkText.accesskey "U">
-<!ENTITY background.label "Latar Belakang:">
-<!ENTITY background.accesskey "L">
-<!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Gambar Latar Belakang:">
-<!ENTITY backgroundImage.accesskey "m">
-<!ENTITY chooseFile.label "Pilih Berkas…">
-<!ENTITY chooseFile.accesskey "B">
+<!ENTITY  pref.editing.title        "Pengaturan Halaman Baru">
+
+<!ENTITY  authorName.label          "Penyusun:">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "Tampilan Halaman Default">
+
+<!ENTITY defaultColors.label        "Warna default pembaca (tidak menampilkan warna pada halaman)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColors.label         "Gunakan warna kesukaan:">
+<!ENTITY customColors.accesskey     "G">
+
+<!ENTITY normalText.label           "Teks Normal">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "Teks Tautan">
+<!ENTITY linkText.accesskey         "a">
+<!ENTITY activeLinkText.label       "Teks tautan aktif">
+<!ENTITY activeLinkText.accesskey   "a">
+<!ENTITY visitedLinkText.label      "Teks Tautan yang pernah Dikunjungi">
+<!ENTITY visitedLinkText.accesskey  "u">
+<!ENTITY background.label           "Latar Belakang:">
+<!ENTITY background.accesskey       "L">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Gambar Latar Belakang:">
+<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY chooseFile.label           "Pilih Berkas…">
+<!ENTITY chooseFile.accesskey       "B">
+

@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +33,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Properti Kotak Area Teks">
+
 <!ENTITY Settings.label "Pengaturan">
+
 <!ENTITY TextAreaName.label "Nama Field:">
 <!ENTITY TextAreaName.accessKey "I">
 <!ENTITY TextAreaRows.label "Baris:">
@@ -52,6 +54,7 @@
 <!ENTITY TextAreaAccessKey.accessKey "K">
 <!ENTITY InitialText.label "Teks Awal:">
 <!ENTITY InitialText.accessKey "A">
+
 <!ENTITY TextAreaWrap.label "Mode Pemotongan:">
 <!ENTITY TextAreaWrap.accessKey "o">
 <!ENTITY WrapDefault.value "Default">

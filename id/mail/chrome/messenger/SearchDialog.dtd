@@ -1,33 +1,38 @@
-<!ENTITY searchHeading.label "Cari pesan dari:">
-<!ENTITY searchHeading.accesskey "p">
-<!ENTITY searchSubfolders.label "Cari subfolder">
-<!ENTITY searchSubfolders.accesskey "e">
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Cari pesan dari:">
+<!ENTITY searchHeading.accesskey     "p">
+<!ENTITY searchSubfolders.label      "Cari subfolder">
+<!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY searchOnServer.label        "Jalankan pencarian pada server">
 <!ENTITY searchOnServer.accesskey    "s">
-<!ENTITY resetButton.label "Bersihkan">
-<!ENTITY resetButton.accesskey "B">
-<!ENTITY openButton.label "Buka">
-<!ENTITY openButton.accesskey "b">
-<!ENTITY deleteButton.label "Hapus">
-<!ENTITY deleteButton.accesskey "H">
-<!ENTITY searchDialogTitle.label "Cari Pesan">
-<!ENTITY results.label "Hasil">
-<!ENTITY fileHereMenu.label "Berkas di Sini">
-<!ENTITY fileHereMenu.accesskey "S">
-<!ENTITY fileButton.label "Berkas">
-<!ENTITY fileButton.accesskey "B">
-<!ENTITY closeCmd.key "W">
+<!ENTITY resetButton.label           "Bersihkan">
+<!ENTITY resetButton.accesskey       "B">
+<!ENTITY openButton.label            "Buka">
+<!ENTITY openButton.accesskey        "B">
+<!ENTITY deleteButton.label          "Hapus">
+<!ENTITY deleteButton.accesskey      "H">
+<!ENTITY searchDialogTitle.label     "Cari Pesan">
+<!ENTITY results.label               "Hasil">
+<!ENTITY fileHereMenu.label          "Berkas di Sini">
+<!ENTITY fileHereMenu.accesskey      "s">
+<!ENTITY fileButton.label            "Berkas">
+<!ENTITY fileButton.accesskey        "B">
+<!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Buka dalam Folder">
 <!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label "Simpan sebagai Folder Pencarian">
-<!ENTITY saveAsVFButton.accesskey "F">
-<!ENTITY abSearchHeading.label "Cari di:">
-<!ENTITY abSearchHeading.accesskey "C">
-<!ENTITY propertiesButton.label "Properti">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Tulis">
-<!ENTITY composeButton.accesskey "T">
-<!ENTITY abSearchDialogTitle.label "Pencarian Canggih Daftar Alamat">
+<!ENTITY saveAsVFButton.label        "Simpan sebagai Folder Pencarian">
+<!ENTITY saveAsVFButton.accesskey    "F">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Cari di:">
+<!ENTITY abSearchHeading.accesskey   "C">
+<!ENTITY propertiesButton.label      "Properti">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Tulis">
+<!ENTITY composeButton.accesskey     "T">
+<!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
@@ -46,8 +51,10 @@
 <!ENTITY starredColumn.label "Berbintang">
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urut berdasarkan Diterima">
+
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klik untuk memilih kolom yang ingin ditampilkan">
-<!ENTITY threadColumn.tooltip "Klik untuk menampilkan utas pesan">
+<!ENTITY threadColumn.tooltip "Klik untuk menampilkan utas pesan"> 
 <!ENTITY fromColumn.tooltip "Klik untuk mengurut berdasarkan nama pengirim">
 <!ENTITY recipientColumn.tooltip "Klik untuk mengurut berdasarkan nama penerima">
 <!ENTITY subjectColumn.tooltip "Klik untuk mengurut berdasarkan subjek">

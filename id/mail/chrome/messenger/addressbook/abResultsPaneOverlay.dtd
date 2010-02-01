@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,35 +33,36 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY GeneratedName.label "Nama">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "Email">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Organisasi">
-<!ENTITY Company.accesskey "O">
-<!ENTITY _PhoneticName.label "Nama Fonetik">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "Nama alias">
-<!ENTITY NickName.accesskey "a">
-<!ENTITY SecondEmail.label "Email Lainnya">
-<!ENTITY SecondEmail.accesskey "L">
-<!ENTITY Department.label "Departemen">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "Pekerjaan">
-<!ENTITY JobTitle.accesskey "P">
-<!ENTITY CellularNumber.label "Handphone">
-<!ENTITY CellularNumber.accesskey "H">
-<!ENTITY PagerNumber.label "Pager">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY FaxNumber.label "Fax">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Telepon Rumah">
-<!ENTITY HomePhone.accesskey "R">
-<!ENTITY WorkPhone.label "Telepon Kantor">
-<!ENTITY WorkPhone.accesskey "K">
-<!ENTITY ScreenName.label "Nama Layar">
-<!ENTITY ScreenName.accesskey "L">
-<!ENTITY sortAscending.label "Naik">
-<!ENTITY sortAscending.accesskey "N">
-<!ENTITY sortDescending.label "Turun">
-<!ENTITY sortDescending.accesskey "T">
+
+<!ENTITY GeneratedName.label                   "Nama">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "Email">
+<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY Company.label                         "Organisasi">
+<!ENTITY Company.accesskey                     "O">
+<!ENTITY _PhoneticName.label                   "Nama Fonetik">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "Nama alias">
+<!ENTITY NickName.accesskey                    "a">
+<!ENTITY SecondEmail.label                     "Email Lainnya">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "Departemen">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "Pekerjaan">
+<!ENTITY JobTitle.accesskey                    "P">
+<!ENTITY CellularNumber.label                  "Handphone">
+<!ENTITY CellularNumber.accesskey              "H">
+<!ENTITY PagerNumber.label                     "Pager">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Telepon Rumah">
+<!ENTITY HomePhone.accesskey                   "R">
+<!ENTITY WorkPhone.label                       "Telepon Kantor">
+<!ENTITY WorkPhone.accesskey                   "K">
+<!ENTITY ScreenName.label                      "Nama Layar">
+<!ENTITY ScreenName.accesskey                  "L">
+<!ENTITY sortAscending.label                   "Naik">
+<!ENTITY sortAscending.accesskey               "N">
+<!ENTITY sortDescending.label                  "Turun">
+<!ENTITY sortDescending.accesskey              "T">

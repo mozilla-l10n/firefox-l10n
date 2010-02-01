@@ -22,7 +22,6 @@
    - Contributor(s):
    -   Dan Haddix (dan6992@hotmail.com)
    -   Brian King (briano9@yahoo.com)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,16 +36,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+
 <!ENTITY windowTitle.label "Properti Hotspot">
-<!ENTITY link.label "Tautan Hotspot">
-<!ENTITY urlFieldset.label "URL Hotspot:">
-<!ENTITY altFieldset.label "Teks Alternatif Hotspot:">
-<!ENTITY browseButton.label "Telusuri…">
-<!ENTITY targetFieldset.label "Pengaturan Target">
-<!ENTITY target.label "Target Hotspot">
-<!ENTITY commonFieldset.label "Target Umum:">
-<!ENTITY none.value "(tidak ada)">
-<!ENTITY same.value "Bingkai yang Sama">
-<!ENTITY whole.value "Keseluruhan Halaman">
-<!ENTITY new.value "Jendela Baru">
-<!ENTITY parent.value "Bingkai Induk">
+
+<!ENTITY link.label				"Tautan Hotspot">
+<!ENTITY urlFieldset.label		"URL Hotspot:">
+<!ENTITY altFieldset.label		"Teks Alternatif Hotspot:">
+<!ENTITY browseButton.label		"Telusuri…">
+<!ENTITY targetFieldset.label	"Pengaturan Target">
+<!ENTITY target.label			"Target Hotspot">
+
+<!-- Targets -->
+<!ENTITY commonFieldset.label	"Target Umum:">
+<!ENTITY none.value				"(tidak ada)">
+<!ENTITY same.value				"Bingkai yang Sama">
+<!ENTITY whole.value			"Keseluruhan Halaman">
+<!ENTITY new.value				"Jendela Baru">
+<!ENTITY parent.value			"Bingkai Induk">
+

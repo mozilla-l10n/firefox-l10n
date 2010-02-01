@@ -23,7 +23,6 @@
    -   Mohan Bhamidipati <mohanb@netscape.com>
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,16 +37,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY generalInfo.label "Informasi Umum">
-<!ENTITY folderCharsetTab.label "Pengodean Karakter Default:">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Terapkan nilai default pada semua pesan dalam folder (pengaturan pengodean karakter setiap pesan dan deteksi otomatis akan diabaikan)">
-<!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Buat Ulang Indeks">
-<!ENTITY folderRebuildSummaryFile.accesskey "U">
-<!ENTITY folderRebuildSummaryFileTip.label "Buat Ulang Berkas Ringkasan">
+
+<!ENTITY folderProps.windowtitle.label           "Keterangan:">
+
+<!ENTITY generalInfo.label                       "Informasi Umum">
+<!ENTITY folderCharsetTab.label                  "Pengodean Karakter Default:">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label             "Terapkan nilai default pada semua pesan dalam folder (pengaturan pengodean karakter setiap pesan dan deteksi otomatis akan diabaikan)">
+<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderRebuildSummaryFile.label          "Buat Ulang Indeks">
+<!ENTITY folderRebuildSummaryFile.accesskey      "u">
+<!ENTITY folderRebuildSummaryFileTip.label       "Buat Ulang Berkas Ringkasan"> 
+     
 <!ENTITY retention.label "Kebijakan Penyimpanan">
-<!ENTITY retentionUseAccount.label "Gunakan pengaturan akun saya">
+<!ENTITY retentionUseAccount.label  "Gunakan pengaturan akun saya">
 <!ENTITY retentionUseAccount.accesskey "a">
 <!ENTITY daysOld.label "hari">
 <!ENTITY message.label "pesan">
@@ -64,28 +67,33 @@
 <!ENTITY retentionKeepUnreadHidden.label "Selalu hapus pesan yang telah dibaca (menggantikan pengaturan umur pesan)">
 <!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY folderSynchronizationTab.label "Sinkronisasi">
-<!ENTITY folderCheckForNewMessages.label "Periksa pesan baru pada folder ini">
-<!ENTITY folderCheckForNewMessages.accesskey "P">
-<!ENTITY offlineFolder.check.label "Pilih folder ini untuk penggunaan luring">
-<!ENTITY offlineFolder.check.accesskey "o">
-<!ENTITY offlineFolder.button.label "Unduh Sekarang">
-<!ENTITY offlineFolder.button.accesskey "U">
-<!ENTITY selectofflineNewsgroup.check.label "Pilih newsgroup ini untuk penggunaan luring">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY offlineNewsgroup.button.label "Unduh Sekarang">
-<!ENTITY offlineNewsgroup.button.accesskey "U">
-<!ENTITY folderProps.windowtitle.label "Keterangan:">
-<!ENTITY folderProps.name.label "Nama:">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "Lokasi:">
-<!ENTITY folderProps.location.accesskey "L">
-<!ENTITY folderSharingTab.label "Berbagi-pakai">
-<!ENTITY privileges.button.label "Hak akses…">
-<!ENTITY privileges.button.accesskey "H">
-<!ENTITY permissionsDesc.label "Anda mempunyai hak akses berikut:">
-<!ENTITY folderType.label "Jenis Folder:">
-<!ENTITY folderQuotaTab.label "Kuota">
-<!ENTITY folderQuotaRoot.label "Kuota Dasar:">
-<!ENTITY folderQuotaUsage.label "Penggunaan:">
-<!ENTITY folderQuotaStatus.label "Status:">
+
+<!ENTITY folderSynchronizationTab.label          "Sinkronisasi">
+<!ENTITY folderCheckForNewMessages.label         "Periksa pesan baru pada folder ini">
+<!ENTITY folderCheckForNewMessages.accesskey     "P">
+
+<!ENTITY offlineFolder.check.label               "Pilih folder ini untuk penggunaan luring">
+<!ENTITY offlineFolder.check.accesskey           "o">
+<!ENTITY offlineFolder.button.label              "Unduh Sekarang">
+<!ENTITY offlineFolder.button.accesskey          "U">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Pilih newsgroup ini untuk penggunaan luring">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Unduh Sekarang">
+<!ENTITY offlineNewsgroup.button.accesskey       "U">
+
+<!ENTITY folderProps.name.label                  "Nama:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Lokasi:">
+<!ENTITY folderProps.location.accesskey          "L">
+
+<!ENTITY folderSharingTab.label                  "Berbagi-pakai">
+<!ENTITY privileges.button.label                 "Hak akses…">
+<!ENTITY privileges.button.accesskey             "H">
+<!ENTITY permissionsDesc.label                   "Anda mempunyai hak akses berikut:">
+<!ENTITY folderType.label                        "Jenis Folder:">
+
+<!ENTITY folderQuotaTab.label                    "Kuota">
+<!ENTITY folderQuotaRoot.label                   "Kuota Dasar:">
+<!ENTITY folderQuotaUsage.label                  "Penggunaan:">
+<!ENTITY folderQuotaStatus.label                 "Status:">

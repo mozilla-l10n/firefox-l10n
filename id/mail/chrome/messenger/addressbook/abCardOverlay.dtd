@@ -1,102 +1,159 @@
-<!--null-->
-<!ENTITY Contact.tab "Kenalan">
-<!ENTITY Contact.accesskey "K">
-<!ENTITY Name.box "Nama">
-<!ENTITY NameField1.id "FirstName">
-<!ENTITY NameField2.id "LastName">
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
-<!ENTITY PhoneticField2.id "PhoneticLastName">
-<!ENTITY NameField1.label "Nama Depan:">
-<!ENTITY NameField1.accesskey "D">
-<!ENTITY NameField2.label "Nama Belakang:">
-<!ENTITY NameField2.accesskey "B">
-<!ENTITY PhoneticField1.label "Fonetik:">
-<!ENTITY PhoneticField2.label "Fonetik:">
-<!ENTITY DisplayName.label "Tampilan:">
-<!ENTITY DisplayName.accesskey "T">
-<!ENTITY NickName.label "Nama alias:">
-<!ENTITY NickName.accesskey "a">
-<!ENTITY PrimaryEmail.label "Email:">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "Email Lainnya:">
-<!ENTITY SecondEmail.accesskey "L">
-<!ENTITY PreferMailFormat.label "Ingin menerima pesan dalam format:">
-<!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Teks Polos">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "Tidak Ditentukan">
-<!ENTITY ScreenName.label "Nama Layar:">
-<!ENTITY ScreenName.accesskey "L">
-<!ENTITY allowRemoteContent1.label "Izinkan kandungan daring:">
-<!ENTITY allowRemoteContent1.accesskey "I">
-<!ENTITY allowRemoteContent1.tooltip "Pesan dalam format HTML memungkinkan untuk menggabungkan kandungan isi dari sumber daring. Dengan membuka pesan sejenis akan membuka sambungan ke sumber eksternal. Hal ini dapat menyebabkan penjejakan pada saat pembacaan pesan. Menandai kotak ini akan mengizinkan kandungan isi eksternal dalam pesan berformat HTML dari kenalan ini.">
-<!ENTITY WorkPhone.label "Kantor:">
-<!ENTITY WorkPhone.accesskey "k">
-<!ENTITY HomePhone.label "Rumah:">
-<!ENTITY HomePhone.accesskey "r">
-<!ENTITY FaxNumber.label "Fax:">
-<!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "Pager:">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY CellularNumber.label "Handphone:">
-<!ENTITY CellularNumber.accesskey "H">
-<!ENTITY Home.tab "Rumah">
-<!ENTITY Home.accesskey "r">
-<!ENTITY HomeAddress.label "Alamat:">
-<!ENTITY HomeAddress.accesskey "A">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "Kota:">
-<!ENTITY HomeCity.accesskey "K">
-<!ENTITY HomeState.label "Propinsi/Negara Bagian:">
-<!ENTITY HomeState.accesskey "P">
-<!ENTITY HomeZipCode.label "Kode Pos/ZIP:">
-<!ENTITY HomeZipCode.accesskey "K">
-<!ENTITY HomeCountry.label "Negara:">
-<!ENTITY HomeCountry.accesskey "N">
-<!ENTITY HomeWebPage.label "URL Web:">
-<!ENTITY HomeWebPage.accesskey "U">
-<!ENTITY Work.tab "Kantor">
-<!ENTITY Work.accesskey "k">
-<!ENTITY JobTitle.label "Pekerjaan:">
-<!ENTITY JobTitle.accesskey "P">
-<!ENTITY Department.label "Departemen:">
-<!ENTITY Department.accesskey "D">
-<!ENTITY Company.label "Organisasi:">
-<!ENTITY Company.accesskey "O">
-<!ENTITY WorkAddress.label "Alamat:">
-<!ENTITY WorkAddress.accesskey "A">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "Kota:">
-<!ENTITY WorkCity.accesskey "K">
-<!ENTITY WorkState.label "Propinsi/Negara Bagian:">
-<!ENTITY WorkState.accesskey "N">
-<!ENTITY WorkZipCode.label "Kode Pos/ZIP:">
-<!ENTITY WorkZipCode.accesskey "K">
-<!ENTITY WorkCountry.label "Negara:">
-<!ENTITY WorkCountry.accesskey "N">
-<!ENTITY WorkWebPage.label "URL Web:">
-<!ENTITY WorkWebPage.accesskey "b">
-<!ENTITY Other.tab "Lainnya">
-<!ENTITY Other.accesskey "L">
-<!ENTITY Birthday.label "Ulang Tahun:">
-<!ENTITY Birthday.accesskey "U">
-<!ENTITY In.label "">
-<!ENTITY Year.emptytext "Tahun">
-<!ENTITY Or.value "atau">
-<!ENTITY Age.emptytext "Umur">
-<!ENTITY YearsOld.label "tahun">
-<!ENTITY Custom1.label "Lain-lain 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Lain-lain 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Lain-lain 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Lain-lain 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Catatan:">
-<!ENTITY Notes.accesskey "C">
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab                     "Kenalan">
+<!ENTITY Contact.accesskey               "K">
+<!ENTITY Name.box                        "Nama">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "Nama Depan:">
+<!ENTITY NameField1.accesskey           "D">
+<!ENTITY NameField2.label               "Nama Belakang:">
+<!ENTITY NameField2.accesskey           "B">
+<!ENTITY PhoneticField1.label           "Fonetik:">
+<!ENTITY PhoneticField2.label           "Fonetik:">
+<!ENTITY DisplayName.label              "Tampilan:">
+<!ENTITY DisplayName.accesskey          "T">
+<!ENTITY NickName.label                 "Nama alias:">
+<!ENTITY NickName.accesskey             "a">
+
+<!ENTITY PrimaryEmail.label             "Email:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Email Lainnya:">
+<!ENTITY SecondEmail.accesskey          "l">
+<!ENTITY PreferMailFormat.label         "Ingin menerima pesan dalam format:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Teks Polos">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Tidak Ditentukan">
+<!ENTITY ScreenName.label               "Nama Layar:">
+<!ENTITY ScreenName.accesskey           "L">
+
+<!ENTITY allowRemoteContent1.label      "Izinkan kandungan daring:">
+<!ENTITY allowRemoteContent1.accesskey  "I">
+<!ENTITY allowRemoteContent1.tooltip    "Pesan dalam format HTML memungkinkan untuk menggabungkan kandungan isi dari sumber daring. Dengan membuka pesan sejenis akan membuka sambungan ke sumber eksternal. Hal ini dapat menyebabkan penjejakan pada saat pembacaan pesan. Menandai kotak ini akan mengizinkan kandungan isi eksternal dalam pesan berformat HTML dari kenalan ini.">
+
+<!ENTITY WorkPhone.label                "Kantor:">
+<!ENTITY WorkPhone.accesskey            "K">
+<!ENTITY HomePhone.label                "Rumah:">
+<!ENTITY HomePhone.accesskey            "R">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "Handphone:">
+<!ENTITY CellularNumber.accesskey       "H">
+
+<!ENTITY Home.tab                       "Rumah">
+<!ENTITY Home.accesskey                 "r">
+<!ENTITY HomeAddress.label              "Alamat:">
+<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Kota:">
+<!ENTITY HomeCity.accesskey             "K">
+<!ENTITY HomeState.label                "Propinsi/Negara Bagian:">
+<!ENTITY HomeState.accesskey            "P">
+<!ENTITY HomeZipCode.label              "Kode Pos/ZIP:">
+<!ENTITY HomeZipCode.accesskey          "K">
+<!ENTITY HomeCountry.label              "Negara:">
+<!ENTITY HomeCountry.accesskey          "N">
+<!ENTITY HomeWebPage.label              "URL Web:">
+<!ENTITY HomeWebPage.accesskey          "U">
+<!ENTITY Birthday.label                 "Ulang Tahun:">
+<!ENTITY Birthday.accesskey             "U">
+<!ENTITY In.label                       "">
+<!ENTITY Year.emptytext                 "Tahun">
+<!ENTITY Or.value                       "atau">
+<!ENTITY Age.emptytext                  "Umur">
+<!ENTITY YearsOld.label                 "">
+
+<!ENTITY Work.tab                       "Kantor">
+<!ENTITY Work.accesskey                 "k">
+<!ENTITY JobTitle.label                 "Pekerjaan:">
+<!ENTITY JobTitle.accesskey             "P">
+<!ENTITY Department.label               "Departemen:">
+<!ENTITY Department.accesskey           "D">
+<!ENTITY Company.label                  "Organisasi:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "Alamat:">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Kota:">
+<!ENTITY WorkCity.accesskey             "K">
+<!ENTITY WorkState.label                "Propinsi/Negara Bagian:">
+<!ENTITY WorkState.accesskey            "n">
+<!ENTITY WorkZipCode.label              "Kode Pos/ZIP:">
+<!ENTITY WorkZipCode.accesskey          "K">
+<!ENTITY WorkCountry.label              "Negara:">
+<!ENTITY WorkCountry.accesskey          "N">
+<!ENTITY WorkWebPage.label              "URL Web:">
+<!ENTITY WorkWebPage.accesskey          "b">
+
+<!ENTITY Other.tab                      "Lainnya">
+<!ENTITY Other.accesskey                "L">
+<!ENTITY Custom1.label                  "Lain-lain 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Lain-lain 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Lain-lain 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Lain-lain 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Catatan:">
+<!ENTITY Notes.accesskey                "C">
+
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Silakan pilih salah satu:">

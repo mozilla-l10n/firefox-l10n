@@ -1,6 +1,7 @@
 <!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Pengaturan Identitas">
 <!ENTITY identityListDesc.label "Atur pengaturan untuk identitas ini:">
-<!ENTITY settingsTab.label "Pengaturan">
+
+<!ENTITY settingsTab.label       "Pengaturan">
 <!ENTITY copiesFoldersTab.label "Salinan &amp; Folder">
-<!ENTITY addressingTab.label "Susun &amp; Alamat">
+<!ENTITY addressingTab.label    "Susun &amp; Alamat">

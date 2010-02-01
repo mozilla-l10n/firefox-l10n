@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,6 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Warna dan Latar Belakang Halaman">
 <!ENTITY pageColors.label "Warna Halaman">
 <!ENTITY defaultColorsRadio.label "Warna default pemirsa/pembaca (tidak mengatur warna untuk halaman)">
@@ -43,6 +44,7 @@
 <!ENTITY customColorsRadio.label "Gunakan warna suka-suka:">
 <!ENTITY customColorsRadio.accessKey "S">
 <!ENTITY customColorsRadio.tooltip "Pengaturan warna ini akan mengganti pengaturan program peramban pemirsa">
+
 <!ENTITY normalText.label "Teks normal">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Teks bertaut">

@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY AdvancedEditButton.label "Penyuntingan Canggih…">
 <!ENTITY AdvancedEditButton.accessKey "P">
 <!ENTITY AdvancedEditButton.tooltip "Tambah atau ubah atribut HTML, gaya atribut, dan JavaScript">
@@ -45,5 +45,7 @@
 <!ENTITY makeUrlRelative.label "URL relatif terhadap lokasi halaman">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, Anda harus menyimpan halaman terlebih dahulu.">
+
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Masukkan lokasi halaman web, berkas lokal, atau pilih Penanda Bernama atau Penajuk dari daftar pada popup:">
 <!ENTITY LinkURLEditField.accessKey "D">
