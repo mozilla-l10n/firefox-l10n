@@ -56,8 +56,8 @@
 <!ENTITY event.delete.tasks                                "Hapus Tugas Terpilih">
 <!ENTITY event.delete.tasks.accesskey                      "H">
 
-<!ENTITY calendar.pagesetup.label                          "Tata Halaman…">
-<!ENTITY calendar.pagesetup.accesskey                      "H">
+<!ENTITY calendar.pagesetup.label                          "Tata Laman…">
+<!ENTITY calendar.pagesetup.accesskey                      "L">
 
 <!ENTITY calendar.subscribe.label                          "Berlangganan Kalender Daring…">
 <!ENTITY calendar.subscribe.accesskey                      "B">

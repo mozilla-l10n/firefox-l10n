@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Nampaknya hal ini cukup memalukan.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; mengalami masalah saat mencoba mengembalikan jendela dan tab dari sesi sebelumnya. Umumnya masalah ini disebabkan oleh halaman web terakhir yang dibuka.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; mengalami masalah saat mencoba mengembalikan jendela dan tab dari sesi sebelumnya. Umumnya masalah ini disebabkan oleh laman web terakhir yang dibuka.">
 <!ENTITY restorepage.tryThis        "Anda bisa mencoba untuk:">
 <!ENTITY restorepage.restoreSome    "Membuang satu atau beberapa tab yang mungkin menyebabkan masalah ini">
 <!ENTITY restorepage.startNew       "Memulai sesi penjelajahan baru">

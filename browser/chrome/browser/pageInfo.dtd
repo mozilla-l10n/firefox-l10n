@@ -101,7 +101,7 @@
 
 <!ENTITY  securityTab           "Keamanan">
 <!ENTITY  securityTab.accesskey "K">
-<!ENTITY  securityHeader        "Informasi keamanan untuk halaman ini">
+<!ENTITY  securityHeader        "Informasi keamanan untuk laman ini">
 <!ENTITY  securityView.certView "Tampilkan Sertifikat">
 <!ENTITY  securityView.accesskey "S">
 <!ENTITY  securityView.unknown   "Tidak Diketahui">

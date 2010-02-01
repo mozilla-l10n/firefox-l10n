@@ -67,7 +67,7 @@
 <!ENTITY tableCaptionLeft.label           "Di kiri Tabel">
 <!ENTITY tableCaptionRight.label          "Di kanan Tabel">
 <!ENTITY tableCaptionNone.label           "Tidak ada">
-<!ENTITY tableInheritColor.label           "(Warna latar halaman tembus pandang)">
+<!ENTITY tableInheritColor.label           "(Warna latar laman tembus pandang)">
 
 <!ENTITY cellSelection.label              "Pilihan">
 <!ENTITY cellSelectCell.label             "Sel">

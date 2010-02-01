@@ -36,9 +36,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Warna dan Latar Belakang Halaman">
-<!ENTITY pageColors.label "Warna Halaman">
-<!ENTITY defaultColorsRadio.label "Warna default pemirsa/pembaca (tidak mengatur warna untuk halaman)">
+<!ENTITY windowTitle.label "Warna dan Latar Belakang Laman">
+<!ENTITY pageColors.label "Warna Laman">
+<!ENTITY defaultColorsRadio.label "Warna default pemirsa/pembaca (tidak mengatur warna untuk laman)">
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "Gunakan pengaturan warna hanya dari program peramban pemirsa (pembaca)">
 <!ENTITY customColorsRadio.label "Gunakan warna suka-suka:">
@@ -58,4 +58,4 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Gambar Latar Belakang:">
 <!ENTITY backgroundImage.accessKey "G">
-<!ENTITY backgroundImage.tooltip "Gunakan berkas gambar untuk latar belakang halaman Anda">
+<!ENTITY backgroundImage.tooltip "Gunakan berkas gambar untuk latar belakang laman Anda">

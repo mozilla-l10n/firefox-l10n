@@ -37,7 +37,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Pilih Perubahan">
-<!ENTITY conflictWarning.label "Halaman ini telah diubah oleh program lainnya tapi juga terdapat perubahan yang dibuat dari Composer yang belum disimpan.">
+<!ENTITY conflictWarning.label "Laman ini telah diubah oleh program lainnya tapi juga terdapat perubahan yang dibuat dari Composer yang belum disimpan.">
 <!ENTITY conflictResolve.label "Pilih versi yang disisakan:">
 <!ENTITY keepCurrentPageButton.label "Gunakan perubahan yang ada sekarang">
-<!ENTITY useOtherPageButton.label "Ganti halaman berikut dengan perubahan dari yang lain">
+<!ENTITY useOtherPageButton.label "Ganti laman berikut dengan perubahan dari yang lain">

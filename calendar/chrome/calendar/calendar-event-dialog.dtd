@@ -83,8 +83,8 @@
 <!ENTITY  event.menu.file.save.accesskey                  "S">
 <!ENTITY  event.menu.item.delete.label                    "Hapus…">
 <!ENTITY  event.menu.item.delete.accesskey                "H">
-<!ENTITY  event.menu.file.page.setup.label                "Tata Halaman">
-<!ENTITY  event.menu.file.page.setup.accesskey            "H">
+<!ENTITY  event.menu.file.page.setup.label                "Tata Laman">
+<!ENTITY  event.menu.file.page.setup.accesskey            "L">
 <!ENTITY  event.menu.file.print.label                     "Cetak">
 <!ENTITY  event.menu.file.print.accesskey                 "C">
 
@@ -116,7 +116,7 @@
 
 <!ENTITY  event.menu.options.label                            "Pengaturan">
 <!ENTITY  event.menu.options.accesskey                        "P">
-<!ENTITY  event.menu.options.attachments.label                "Lampirkan Halaman Web…">
+<!ENTITY  event.menu.options.attachments.label                "Lampirkan Laman Web…">
 <!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label                  "Undang Peserta…">
 <!ENTITY  event.menu.options.attendees.accesskey              "U">
@@ -205,7 +205,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "B" >
 <!ENTITY event.attachments.popup.removeAll.label          "Hapus Semua" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Lampirkan Halaman Web…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Lampirkan Laman Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "Tautan Terkait:" >
 <!ENTITY event.priority2.label                            "Prioritas:">

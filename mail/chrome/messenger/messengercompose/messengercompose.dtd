@@ -16,7 +16,7 @@
 <!ENTITY attachMenu.accesskey "L">
 <!ENTITY attachFileCmd.label "Berkas…">
 <!ENTITY attachFileCmd.accesskey "B">
-<!ENTITY attachPageCmd.label "Halaman Web…">
+<!ENTITY attachPageCmd.label "Laman Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Kartu Pribadi (vCard)">
@@ -41,8 +41,8 @@
 <!ENTITY sendLaterCmd.label "Kirim Nanti">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "N">
-<!ENTITY printSetupCmd.label "Tata Halaman…">
-<!ENTITY printSetupCmd.accesskey "H">
+<!ENTITY printSetupCmd.label "Tata Laman…">
+<!ENTITY printSetupCmd.accesskey "L">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "C">
@@ -260,7 +260,7 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Lampirkan berkas…">
 <!ENTITY attachFile.accesskey "L">
-<!ENTITY attachPage.label "Lampirkan Halaman Web…">
+<!ENTITY attachPage.label "Lampirkan Laman Web…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Title for the address picker panel -->

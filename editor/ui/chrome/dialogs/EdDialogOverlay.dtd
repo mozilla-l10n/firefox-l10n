@@ -42,10 +42,10 @@
 <!ENTITY chooseFileButton.accessKey "B">
 <!ENTITY chooseFileLinkButton.label "Pilih Berkas…">
 <!ENTITY chooseFileLinkButton.accessKey "B">
-<!ENTITY makeUrlRelative.label "URL relatif terhadap lokasi halaman">
+<!ENTITY makeUrlRelative.label "URL relatif terhadap lokasi laman">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, Anda harus menyimpan halaman terlebih dahulu.">
+<!ENTITY makeUrlRelative.tooltip "Untuk merubah URL relatif menjadi absolut atau sebaliknya, Anda harus menyimpan laman terlebih dahulu.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Masukkan lokasi halaman web, berkas lokal, atau pilih Penanda Bernama atau Penajuk dari daftar pada popup:">
+<!ENTITY LinkURLEditField.label "Masukkan lokasi laman web, berkas lokal, atau pilih Penanda Bernama atau Penajuk dari daftar pada popup:">
 <!ENTITY LinkURLEditField.accessKey "D">

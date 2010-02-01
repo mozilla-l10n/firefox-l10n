@@ -10,11 +10,11 @@
 
 <!ENTITY fileMenu.label "Berkas">
 <!ENTITY fileMenu.accesskey "B">
-<!ENTITY savePageCmd.label "Simpan Halaman dengan Nama…">
+<!ENTITY savePageCmd.label "Simpan Laman dengan Nama…">
 <!ENTITY savePageCmd.accesskey "S">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tata Halaman…">
-<!ENTITY pageSetupCmd.accesskey "H">
+<!ENTITY pageSetupCmd.label "Tata Laman…">
+<!ENTITY pageSetupCmd.accesskey "L">
 <!ENTITY printPreviewCmd.label "Pratinjau Cetak">
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Cetak…">
@@ -60,8 +60,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Cari di Halaman Ini…">
-<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.label     "Cari di Laman Ini…">
+<!ENTITY findOnCmd.accesskey "L">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "i">

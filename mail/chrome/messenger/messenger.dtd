@@ -65,8 +65,8 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Pratinjau Cetak">
 <!ENTITY printPreviewCmd.accesskey "j">
-<!ENTITY printSetupCmd.label "Tata Halaman…">
-<!ENTITY printSetupCmd.accesskey "H">
+<!ENTITY printSetupCmd.label "Tata Laman…">
+<!ENTITY printSetupCmd.accesskey "L">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Hapus Pesan">
@@ -222,7 +222,7 @@
 
 <!ENTITY bodyMenuFeed.label "Isi Pesan Feed sebagai">
 <!ENTITY bodyMenuFeed.accesskey "I">
-<!ENTITY viewFeedWebPage.label "Halaman Web">
+<!ENTITY viewFeedWebPage.label "Laman Web">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Ringkasan">
 <!ENTITY viewFeedSummary.accesskey "R">
@@ -313,8 +313,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Pesan Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
-<!ENTITY startPageCmd.label "Halaman Beranda">
-<!ENTITY startPageCmd.accesskey "H">
+<!ENTITY startPageCmd.label "Laman Beranda">
+<!ENTITY startPageCmd.accesskey "L">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Pesan">
@@ -419,11 +419,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Buka Pesan Feed">
 <!ENTITY openFeedMessage.accesskey "F">
-<!ENTITY openFeedWebPageInWindow.label "Halaman Web pada Jendela Baru">
+<!ENTITY openFeedWebPageInWindow.label "Laman Web pada Jendela Baru">
 <!ENTITY openFeedWebPageInWindow.accesskey "J">
 <!ENTITY openFeedSummaryInWindow.label "Ringkasan pada Jendela Baru">
 <!ENTITY openFeedSummaryInWindow.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Ganti antara Halaman Web dan Ringkasan pada Panel Pesan">
+<!ENTITY openFeedWebPageInMP.label "Ganti antara Laman Web dan Ringkasan pada Panel Pesan">
 <!ENTITY openFeedWebPageInMP.accesskey "G">
 
 <!-- Windows Menu -->

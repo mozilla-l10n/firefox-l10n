@@ -61,7 +61,7 @@
 <!ENTITY addToUserDictionaryButton.accessKey "K">
 <!ENTITY editUserDictionaryButton.label "Sunting…">
 <!ENTITY editUserDictionaryButton.accessKey "U">
-<!ENTITY recheckButton.label "Periksa Ulang Halaman">
+<!ENTITY recheckButton.label "Periksa Ulang Laman">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "Tutup">
 <!ENTITY closeButton.accessKey "T">

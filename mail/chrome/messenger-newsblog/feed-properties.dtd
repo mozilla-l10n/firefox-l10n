@@ -9,7 +9,7 @@
 
 <!ENTITY choosethisfolder.label   "pilih folder ini">
 
-<!ENTITY quickMode.label          "Tampilkan ringkasan artikel tanpa memuat halaman web">
+<!ENTITY quickMode.label          "Tampilkan ringkasan artikel tanpa memuat laman web">
 <!ENTITY quickMode.accesskey      "T">
 
 <!ENTITY copyLinkCmd.label        "Salin Lokasi Tautan">

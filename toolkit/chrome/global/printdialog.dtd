@@ -16,10 +16,10 @@
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Jangkauan Cetak">
-<!ENTITY allpagesRadio.label "Semua Halaman">
+<!ENTITY allpagesRadio.label "Semua Laman">
 <!ENTITY allpagesRadio.accesskey "a">
-<!ENTITY rangeRadio.label  "Halaman">
-<!ENTITY rangeRadio.accesskey  "H">
+<!ENTITY rangeRadio.label  "Laman">
+<!ENTITY rangeRadio.accesskey  "L">
 <!ENTITY frompageInput.label  "dari">
 <!ENTITY frompageInput.accesskey  "d">
 <!ENTITY topageInput.label  "hingga">

@@ -54,7 +54,7 @@
 
 <!ENTITY downloadsHeader.label     "Unduhan">
 
-<!ENTITY downloadShowPage.label    "Buka Halaman">
+<!ENTITY downloadShowPage.label    "Buka Laman">
 <!ENTITY downloadShow2.label       "Cari">
 <!ENTITY downloadOpen2.label       "Buka">
 <!ENTITY downloadCancel.label      "Batal">
@@ -69,7 +69,7 @@
 
 <!ENTITY searchEngine.addSearch    "Tambah Mesin Pencarian:">
 
-<!ENTITY bookmarkPopup.label       "Bookmark halaman ini dibuat">
+<!ENTITY bookmarkPopup.label       "Bookmark laman ini dibuat">
 <!ENTITY bookmarkRemove.label      "Hapus">
 <!ENTITY bookmarkEdit.label        "Sunting">
 

@@ -4,16 +4,16 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Menu Halaman Terakhir">
-<!ENTITY  documentsInMenu.label         "Jumlah halaman terakhir yang tampil">
+<!ENTITY  recentFiles.title             "Menu Laman Terakhir">
+<!ENTITY  documentsInMenu.label         "Jumlah laman terakhir yang tampil">
 <!ENTITY  documentsInMenu.accesskey     "J">
-<!ENTITY  savingFiles.title             "Saat Menyimpan atau Menerbitkan Halaman">
+<!ENTITY  savingFiles.title             "Saat Menyimpan atau Menerbitkan Laman">
 <!ENTITY  preserveExisting.label        "Jangan ubah format kode sumber asli">
 <!ENTITY  preserveExisting.accesskey    "J">
-<!ENTITY  preserveExisting.tooltip      "Jaga pemotongan baris dan halaman sesuai dengan format aslinya">
-<!ENTITY  saveAssociatedFiles.label     "Simpan gambar dan berkas terkait lainnya saat menyimpan halaman">
+<!ENTITY  preserveExisting.tooltip      "Jaga pemotongan baris dan laman sesuai dengan format aslinya">
+<!ENTITY  saveAssociatedFiles.label     "Simpan gambar dan berkas terkait lainnya saat menyimpan laman">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Selalu tampilkan dialog Penerbitan saat menerbitkan halaman">
+<!ENTITY  showPublishDialog.label       "Selalu tampilkan dialog Penerbitan saat menerbitkan laman">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Penyuntingan">
 <!ENTITY  maintainStructure.label       "Jaga layout tabel saat menyisipkan atau menghapus sel">

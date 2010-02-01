@@ -41,7 +41,7 @@
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
 <!ENTITY windowTitle.label "Simpan dan Ganti Pengodean Karakter">
-<!ENTITY documentTitleTitle.label "Judul Halaman">
+<!ENTITY documentTitleTitle.label "Judul Laman">
 <!ENTITY documentCharsetTitle.label "Pengodean Karakter">
 <!ENTITY documentCharsetDesc.label "Pilih pengodean karakter yang akan digunakan saat menyimpan:">
 <!ENTITY documentExportToText.label "Ekspor Menjadi Teks">
