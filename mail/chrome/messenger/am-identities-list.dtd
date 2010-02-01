@@ -1,6 +1,6 @@
 <!ENTITY identitiesListDesc.label "Dukungan Multi-Identitas">
-<!ENTITY identitiesListAdd.label "Tambah…">
-<!ENTITY identitiesListAdd.accesskey "T">
+<!ENTITY identitiesListAdd.label  "Tambah…">
+<!ENTITY identitiesListAdd.accesskey  "T">
 <!ENTITY identitiesListEdit.label "Ubah…">
 <!ENTITY identitiesListEdit.accesskey "U">
 <!ENTITY identitiesListDelete.label "Hapus">

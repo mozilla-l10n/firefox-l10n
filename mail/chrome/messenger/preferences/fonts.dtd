@@ -1,65 +1,76 @@
-<!ENTITY fontsAndEncodingsDialog.title "Huruf &amp; Pengodean">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
-<!ENTITY language.label "Huruf untuk:">
-<!ENTITY language.accesskey "h">
-<!ENTITY size.label                              "Ukuran:">
-<!ENTITY proportionalSize.accesskey "e">
-<!ENTITY sizeMono.accesskey                      "i">
-<!ENTITY proportional.label "Proporsional:">
-<!ENTITY proportional.accesskey "p">
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "f">
-<!ENTITY sans-serif.label "Tanpa-serif:">
-<!ENTITY sans-serif.accesskey "t">
-<!ENTITY monospace.label "Spasi tetap:">
-<!ENTITY monospace.accesskey "s">
-<!ENTITY font.langGroup.latin1 "Barat">
-<!ENTITY font.langGroup.latin2 "Eropa Tengah">
-<!ENTITY font.langGroup.japanese "Jepang">
-<!ENTITY font.langGroup.trad-chinese "Cina Tradisional (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "Cina Sederhana">
-<!ENTITY font.langGroup.trad-chinese-hk "Cina Tradisional (Hong Kong)">
-<!ENTITY font.langGroup.korean "Korea">
-<!ENTITY font.langGroup.cyrillic "Cyrillic">
-<!ENTITY font.langGroup.baltic "Baltik">
-<!ENTITY font.langGroup.el "Yunani">
-<!ENTITY font.langGroup.turkish "Turki">
-<!ENTITY font.langGroup.unicode "Bahasa Lain">
-<!ENTITY font.langGroup.user-def "Kesukaan Pengguna">
-<!ENTITY font.langGroup.thai "Thailand">
-<!ENTITY font.langGroup.hebrew "Ibrani">
-<!ENTITY font.langGroup.arabic "Arab">
-<!ENTITY font.langGroup.devanagari "Devanagari">
-<!ENTITY font.langGroup.tamil "Tamil">
-<!ENTITY font.langGroup.armenian "Armenia">
-<!ENTITY font.langGroup.bengali "Bengal">
-<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
-<!ENTITY font.langGroup.ethiopic "Ethiopia">
-<!ENTITY font.langGroup.georgian "Georgia">
-<!ENTITY font.langGroup.gujarati "Gujarat">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
-<!ENTITY font.langGroup.khmer "Khmer">
-<!ENTITY font.langGroup.malayalam "Malayalam">
-<!ENTITY minSize.label "Ukuran huruf terkecil:">
-<!ENTITY minSize.accesskey "k">
-<!ENTITY minSize.none "Tidak Ada">
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Tanpa Serif">
-<!ENTITY useDocumentFonts.label "Izinkan pesan untuk menggunakan huruf lainnya">
-<!ENTITY useDocumentFonts.accesskey "o">
+<!ENTITY  fontsAndEncodingsDialog.title           "Huruf &amp; Pengodean">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Huruf untuk:">
+<!ENTITY  language.accesskey                      "H">
+
+<!ENTITY  size.label                              "Ukuran:">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  sizeMono.accesskey                      "i">
+
+<!ENTITY  proportional.label                      "Proporsional:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Tanpa-serif:">
+<!ENTITY  sans-serif.accesskey                    "T">
+<!ENTITY  monospace.label                         "Spasi tetap:">
+<!ENTITY  monospace.accesskey                     "S">
+
+<!ENTITY  font.langGroup.latin1                   "Barat">
+<!ENTITY  font.langGroup.latin2                   "Eropa Tengah">
+<!ENTITY  font.langGroup.japanese                 "Jepang">
+<!ENTITY  font.langGroup.trad-chinese             "Cina Tradisional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Cina Sederhana">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Cina Tradisional (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korea">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
+<!ENTITY  font.langGroup.baltic                   "Baltik">
+<!ENTITY  font.langGroup.el                       "Yunani">
+<!ENTITY  font.langGroup.turkish                  "Turki">
+<!ENTITY  font.langGroup.unicode                  "Bahasa Lain">
+<!ENTITY  font.langGroup.user-def                 "Kesukaan Pengguna">
+<!ENTITY  font.langGroup.thai                     "Thailand">
+<!ENTITY  font.langGroup.hebrew                   "Ibrani">
+<!ENTITY  font.langGroup.arabic                   "Arab">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armenia">
+<!ENTITY  font.langGroup.bengali                  "Bengal">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopia">
+<!ENTITY  font.langGroup.georgian                 "Georgia">
+<!ENTITY  font.langGroup.gujarati                 "Gujarat">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Ukuran huruf terkecil:">
+<!ENTITY minSize.accesskey                        "k">
+<!ENTITY minSize.none                             "Tidak Ada">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Tanpa Serif">
+
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Pengaturan Huruf">
 <!ENTITY  useFixedWidthForPlainText.label         "Gunakan huruf dengan lebar tetap untuk pesan dalam teks polos">
 <!ENTITY  fixedWidth.accesskey                    "s">
 <!ENTITY  useDocumentFonts.label                  "Izinkan pesan untuk menggunakan huruf lainnya">
 <!ENTITY  useDocumentFonts.accesskey              "I">
-<!ENTITY sendDefaultCharset.label "Email Keluar:">
-<!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle1.label "Pengodean Karakter">
-<!ENTITY composingDescription.label "Atur pengodean karakter default untuk mengirim dan menerima email">
-<!ENTITY viewDefaultCharsetList.label "Email Masuk:">
-<!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label "Jika memungkinkan, gunakan pengodean karakter default saat membalas">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Email Keluar:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label            "Pengodean Karakter">
+<!ENTITY composingDescription.label       "Atur pengodean karakter default untuk mengirim dan menerima email">
+
+<!ENTITY viewDefaultCharsetList.label     "Email Masuk:">
+<!ENTITY viewDefaultCharsetList.accesskey  "i">
+<!ENTITY replyInDefaultCharset2.label     "Jika memungkinkan, gunakan pengodean karakter default saat membalas">
 <!ENTITY replyInDefaultCharset2.accesskey "k">

@@ -32,7 +32,7 @@
 <!ENTITY offlineSelectNntp.label "Pilih newsgroup untuk penggunaan luring…">
 <!ENTITY offlineSelectNntp.accesskey "P">
 <!ENTITY offlineImapAdvancedOffline.label "Canggih…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "A">
+<!ENTITY offlineImapAdvancedOffline.accesskey "a">
 <!ENTITY syncGroupTitle.label "Proses Sinkronisasi Pesan">
 <!ENTITY diskspaceGroupTitle.label "Ruang Disk">
 

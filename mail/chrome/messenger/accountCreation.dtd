@@ -26,7 +26,7 @@
 <!ENTITY manualSetup.label               "Setup Manual…">
 <!ENTITY manualSetup.accesskey           "S">
 <!ENTITY cancel.label                    "Batal">
-<!ENTITY cancel.accesskey                "b">
+<!ENTITY cancel.accesskey                "B">
 <!ENTITY continue.label                  "Lanjutkan">
 <!ENTITY continue.accesskey              "L">
 <!ENTITY startOver.label                 "Ulangi dari Awal">

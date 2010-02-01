@@ -1,25 +1,72 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Michael Buettner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY event.title.label                  "Ubah Item" >
+
 
 <!ENTITY newevent.from.label                "Dari" >
 <!ENTITY newevent.to.label                  "Ke" >
 <!ENTITY newevent.attendees.notify.label    "Beritahu para undangan">
 
-<!ENTITY newevent.status.label              "Status" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Tidak Ditentukan" >
-<!ENTITY newevent.status.none.accesskey     "T" >
-<!ENTITY newevent.status.cancelled.label    "Dibatalkan" >
-<!ENTITY newevent.status.cancelled.accesskey "B" >
-<!ENTITY newevent.status.tentative.label    "Tentatif" >
-<!ENTITY newevent.status.tentative.accesskey "f" >
-<!ENTITY newevent.status.confirmed.label    "Telah Dikonfirmasi" >
-<!ENTITY newevent.status.confirmed.accesskey "k" >
-<!ENTITY newevent.status.needsaction.label  "Butuh Tindakan" >
-<!ENTITY newevent.status.inprogress.label   "Dalam Proses" >
-<!ENTITY newevent.status.completed.label    "Selesai pada" >
+<!ENTITY newevent.status.label                "Status" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "Tidak Ditentukan" >
+<!ENTITY newevent.status.none.accesskey       "T" >
+<!ENTITY newevent.status.cancelled.label      "Dibatalkan" >
+<!ENTITY newevent.status.cancelled.accesskey  "b" >
+<!ENTITY newevent.status.tentative.label      "Tentatif" >
+<!ENTITY newevent.status.tentative.accesskey  "f" >
+<!ENTITY newevent.status.confirmed.label      "Telah Dikonfirmasi" >
+<!ENTITY newevent.status.confirmed.accesskey  "k" >
+<!ENTITY newevent.status.needsaction.label    "Butuh Tindakan" >
+<!ENTITY newevent.status.inprogress.label     "Dalam Proses" >
+<!ENTITY newevent.status.completed.label      "Selesai pada" >
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; selesai">
 
+<!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "Berkas">
 <!ENTITY  event.menu.file.accesskey                       "B">
 <!ENTITY  event.menu.file.new.label                       "Baru">
@@ -37,7 +84,7 @@
 <!ENTITY  event.menu.item.delete.label                    "Hapus…">
 <!ENTITY  event.menu.item.delete.accesskey                "H">
 <!ENTITY  event.menu.file.page.setup.label                "Tata Halaman">
-<!ENTITY  event.menu.file.page.setup.accesskey            "h">
+<!ENTITY  event.menu.file.page.setup.accesskey            "H">
 <!ENTITY  event.menu.file.print.label                     "Cetak">
 <!ENTITY  event.menu.file.print.accesskey                 "C">
 
@@ -59,9 +106,9 @@
 <!ENTITY  event.menu.view.label                           "Tampilan">
 <!ENTITY  event.menu.view.accesskey                       "T">
 <!ENTITY  event.menu.view.toolbars.label                  "Bilah Alat">
-<!ENTITY  event.menu.view.toolbars.accesskey              "T">
+<!ENTITY  event.menu.view.toolbars.accesskey              "t">
 <!ENTITY  event.menu.view.toolbars.event.label            "Bilah Alat Acara">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "A">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "a">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Suka-suka…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "S">
 <!ENTITY  event.menu.view.showlink.label                  "Tampilkan Taut yang Berhubungan">
@@ -76,15 +123,15 @@
 <!ENTITY  event.menu.options.spellcheck.label                 "Periksa Ejaan…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "e">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Periksa Ejaan Saat Mengetik ">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Tambah Tautan…">
 <!ENTITY  event.menu.options.link.accesskey                   "T">
 <!ENTITY  event.menu.options.timezone.label                   "Zona Waktu">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone.accesskey               "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritas">
-<!ENTITY  event.menu.options.priority2.accesskey              "p">
+<!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Tidak Ditentukan">
-<!ENTITY  event.menu.options.priority.notspecified.accesskey  "t">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "T">
 <!ENTITY  event.menu.options.priority.low.label               "Rendah">
 <!ENTITY  event.menu.options.priority.low.accesskey           "R">
 <!ENTITY  event.menu.options.priority.normal.label            "Normal">
@@ -106,21 +153,12 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Bebas">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "B">
 
-<!ENTITY event.help.label                                 "Bantuan">
-<!ENTITY event.help.accesskey                             "B">
-<!ENTITY event.help.release.notes.label                   "Catatan Rilis">
-<!ENTITY event.help.release.notes.accesskey               "R">
-<!ENTITY event.help.help.label                            "Daftar Isi Bantuan untuk &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "D">
-<!ENTITY event.help.about.label                           "Tentang &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "t">
-
 <!ENTITY event.invite.attendees.label                     "Undang Peserta…">
 <!ENTITY event.invite.attendees.accesskey                 "U">
 <!ENTITY event.email.attendees.label                      "Buat Email untuk Semua Peserta…">
-<!ENTITY event.email.attendees.accesskey                  "A">
+<!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Buat Email untuk Semua Peserta yang Belum Pasti…">
-<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.email.tentative.attendees.accesskey        "u">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Simpan dan Tutup">
@@ -142,19 +180,19 @@
 <!ENTITY event.attendees.label                            "Undangan:" >
 <!ENTITY event.attendees.accesskey                        "U" >
 <!ENTITY event.alldayevent.label                          "Acara Seharian" >
-<!ENTITY event.alldayevent.accesskey                      "s">
+<!ENTITY event.alldayevent.accesskey                      "S">
 <!ENTITY event.from.label                                 "Mulai:" >
 <!ENTITY event.from.accesskey                             "M">
 <!ENTITY task.from.label                                  "Mulai:" >
 <!ENTITY task.from.accesskey                              "M">
 <!ENTITY event.to.label                                   "Selesai:" >
-<!ENTITY event.to.accesskey                               "s">
+<!ENTITY event.to.accesskey                               "S">
 <!ENTITY task.to.label                                    "Jatuh Tempo:" >
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Perulangan:" >
-<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.repeat.accesskey                           "r">
 <!ENTITY event.reminder.label                             "Alarm:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Deskripsi:" >
@@ -166,7 +204,7 @@
 <!ENTITY event.attachments.popup.open.label               "Buka" >
 <!ENTITY event.attachments.popup.open.accesskey           "B" >
 <!ENTITY event.attachments.popup.removeAll.label          "Hapus Semua" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Lampirkan Halaman Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "Tautan Terkait:" >
@@ -238,8 +276,14 @@
 <!ENTITY event.recurrence.every.label                        "Tiap:" >
 <!ENTITY repeat.units.years.both                             "Tahun" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Tiap" >
-<!ENTITY event.recurrence.yearly.every.label "Tiap" >
 
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januari" >
@@ -254,12 +298,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktober" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Desember" >
-<!ENTITY event.recurrence.yearly.first.label         "Pertama">
-<!ENTITY event.recurrence.yearly.second.label        "Kedua">
-<!ENTITY event.recurrence.yearly.third.label         "Ketiga">
-<!ENTITY event.recurrence.yearly.fourth.label        "Keempat">
-<!ENTITY event.recurrence.yearly.fifth.label	             "Kelima">
-<!ENTITY event.recurrence.yearly.last.label          "Terakhir">
+<!ENTITY event.recurrence.yearly.every.label                 "Tiap">
+<!ENTITY event.recurrence.yearly.first.label                 "Pertama">
+<!ENTITY event.recurrence.yearly.second.label                "Kedua">
+<!ENTITY event.recurrence.yearly.third.label                 "Ketiga">
+<!ENTITY event.recurrence.yearly.fourth.label                "Keempat">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Kelima">
+<!ENTITY event.recurrence.yearly.last.label                  "Terakhir">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Minggu" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Senin" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Selasa" >
@@ -267,7 +312,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Kamis" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Jumat" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sabtu" >
-<!ENTITY event.recurrence.of.label                           "" >
+<!ENTITY event.recurrence.of.label                           "of" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Januari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Februari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Maret" >
@@ -289,19 +334,19 @@
 <!ENTITY event.recurrence.preview.label                 "Pratinjau">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Undang Undangan">
-<!ENTITY event.organizer.label           "Organizer">
-<!ENTITY event.freebusy.suggest.slot     "Sarankan rentang waktu:">
-<!ENTITY event.freebusy.next.slot        "sesudah " >
-<!ENTITY event.freebusy.previous.slot    " sebelum" >
-<!ENTITY event.freebusy.zoom             "Perbesaran:">
-<!ENTITY event.freebusy.plus             "Jam berikutnya" >
-<!ENTITY event.freebusy.minus            "Jam selanjutnya" >
-<!ENTITY event.freebusy.legend.free      "Bebas" >
-<!ENTITY event.freebusy.legend.busy      "Sibuk" >
+<!ENTITY invite.title.label                     "Undang Undangan">
+<!ENTITY event.organizer.label                  "Organizer">
+<!ENTITY event.freebusy.suggest.slot            "Sarankan rentang waktu:">
+<!ENTITY event.freebusy.next.slot               "sesudah " >
+<!ENTITY event.freebusy.previous.slot           " sebelum" >
+<!ENTITY event.freebusy.zoom                    "Perbesaran:">
+<!ENTITY event.freebusy.plus                    "Jam berikutnya" >
+<!ENTITY event.freebusy.minus                   "Jam selanjutnya" >
+<!ENTITY event.freebusy.legend.free             "Bebas" >
+<!ENTITY event.freebusy.legend.busy             "Sibuk" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentatif" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Tidak di Kantor" >
-<!ENTITY event.freebusy.legend.unknown   "Tidak ada keterangan" >
+<!ENTITY event.freebusy.legend.unknown          "Tidak ada keterangan" >
 <!ENTITY event.attendee.role.required           "Undangan yang Wajib">
 <!ENTITY event.attendee.role.optional           "Undangan yang Opsional">
 <!ENTITY event.attendee.role.chair              "Pimpinan">

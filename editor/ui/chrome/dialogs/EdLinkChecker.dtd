@@ -20,8 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
-   -   
+   -   Charles Manske (cmanske@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,7 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Pemeriksa Lokasi Gambar dan Tautan">
-<!ENTITY succeeded.label "Sukses">
-<!ENTITY failed.label "Gagal">
-<!ENTITY closeButton.label "Tutup">
+
+<!-- Window title -->
+<!ENTITY windowTitle.label     "Pemeriksa Lokasi Gambar dan Tautan">
+<!ENTITY succeeded.label       "Sukses">
+<!ENTITY failed.label          "Gagal">
+<!ENTITY closeButton.label     "Tutup">

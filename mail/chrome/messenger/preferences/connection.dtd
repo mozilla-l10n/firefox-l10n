@@ -1,36 +1,37 @@
-<!ENTITY connectionsDialog.title "Pengaturan Sambungan">
-<!ENTITY window.width "42em">
-<!ENTITY proxyTitle.label "Atur Proxy untuk Mengakses Internet">
-<!ENTITY noProxyTypeRadio.label "Tanpa proxy">
-<!ENTITY noProxyTypeRadio.accesskey "x">
-<!ENTITY systemTypeRadio.label "Gunakan pengaturan proxy dari sistem">
-<!ENTITY systemTypeRadio.accesskey "i">
-<!ENTITY WPADTypeRadio.label "Otomatis mendeteksi pengaturan proxy untuk jaringan ini">
-<!ENTITY WPADTypeRadio.accesskey "o">
-<!ENTITY manualTypeRadio.label "Konfigurasi proxy secara manual:">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL untuk konfigurasi proxy otomatis:">
-<!ENTITY autoTypeRadio.accesskey "u">
-<!ENTITY reload.label "Muat ulang">
-<!ENTITY reload.accesskey "u">
-<!ENTITY http.label "Proxy untuk HTTP:">
-<!ENTITY http.accesskey "h">
-<!ENTITY ssl.label "Proxy untuk SSL:">
-<!ENTITY ssl.accesskey "s">
-<!ENTITY socks.label "Host SOCKS:">
-<!ENTITY socks.accesskey "c">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "k">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY HTTPport.label "Port:">
-<!ENTITY HTTPport.accesskey "p">
-<!ENTITY SSLport.label "Port:">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY SOCKSport.label "Port:">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Tidak Perlu Proxy untuk:">
-<!ENTITY noproxy.accesskey "x">
-<!ENTITY noproxyExplain.label "Contoh: .mozilla.org, .net.id, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Gunakan server proxy ini untuk semua protokol">
-<!ENTITY shareproxy.accesskey "y">
+<!ENTITY  connectionsDialog.title       "Pengaturan Sambungan">
+<!ENTITY  window.width                   "42em">
+
+<!ENTITY  proxyTitle.label              "Atur Proxy untuk Mengakses Internet">
+<!ENTITY  noProxyTypeRadio.label        "Tanpa proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "x">
+<!ENTITY  systemTypeRadio.label         "Gunakan pengaturan proxy dari sistem">
+<!ENTITY  systemTypeRadio.accesskey     "i">
+<!ENTITY  WPADTypeRadio.label           "Otomatis mendeteksi pengaturan proxy untuk jaringan ini">
+<!ENTITY  WPADTypeRadio.accesskey       "O">
+<!ENTITY  manualTypeRadio.label         "Konfigurasi proxy secara manual:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL untuk konfigurasi proxy otomatis:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  reload.label                  "Muat ulang">
+<!ENTITY  reload.accesskey              "u">
+<!ENTITY  http.label                    "Proxy untuk HTTP:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Proxy untuk SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "Host SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Tidak Perlu Proxy untuk:">
+<!ENTITY  noproxy.accesskey             "x">
+<!ENTITY  noproxyExplain.label          "Contoh: .mozilla.org, .net.id, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Gunakan server proxy ini untuk semua protokol">
+<!ENTITY  shareproxy.accesskey          "y">

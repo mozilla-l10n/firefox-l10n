@@ -1,6 +1,7 @@
-<!ENTITY newMessageCmd2.key "B">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Pesan">
-<!ENTITY newMessageCmd.accesskey "P">
-<!ENTITY newContactCmd.label "Kenalan dari Buku Alamat…">
-<!ENTITY newContactCmd.accesskey "K">
+<!ENTITY  newMessageCmd2.key              "B">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Pesan">
+<!ENTITY  newMessageCmd.accesskey         "P">
+ 
+<!ENTITY  newContactCmd.label             "Kenalan dari Buku Alamat…">
+<!ENTITY  newContactCmd.accesskey         "K">

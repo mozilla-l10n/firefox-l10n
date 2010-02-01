@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Daniel Glazman (glazman@netscape.com) (Original author)
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,9 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Letakkan sesuai Grid">
+
 <!ENTITY enableSnapToGrid.label "aktifkan Peletakan sesuai Grid">
 <!ENTITY enableSnapToGrid.accessKey "G">
+
 <!ENTITY sizeEditField.label "Ukuran:">
 <!ENTITY sizeEditField.accessKey "U">
+
 <!ENTITY pixelsLabel.value "piksel">

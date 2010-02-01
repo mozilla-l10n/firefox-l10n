@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,8 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY editorWindow.titlemodifier "Composer">
+
+<!-- Window title -->
+<!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
+<!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- View menu items -->
 <!ENTITY viewMenu.label "Tampilan">
 <!ENTITY viewMenu.accesskey "T">
 <!ENTITY compositionToolbarCmd.label "Bilah Alat Komposisi">
@@ -45,5 +51,7 @@
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Bilah Alat Mode Sunting">
 <!ENTITY editmodeToolbarCmd.accesskey "S">
+
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">

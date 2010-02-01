@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Frank Schoenheit <frank.schoenheit@gmx.de>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,8 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY messageMarkByDate.label "Tandai Sudah Dibaca untuk Pesan pada Tanggal Tertentu">
 <!ENTITY markByDateLower.label "Tandai Sudah Dibaca untuk Pesan dari:">
-<!ENTITY markByDateLower.accesskey "D">
+<!ENTITY markByDateLower.accesskey "d">
 <!ENTITY markByDateUpper.label "Kepada:">
 <!ENTITY markByDateUpper.accesskey "K">

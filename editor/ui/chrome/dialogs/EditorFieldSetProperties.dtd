@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,9 +33,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Properti Himpunan Field">
+
 <!ENTITY Legend.label "Legenda">
 <!ENTITY Legend.accesskey "L">
+
 <!ENTITY EditLegendText.label "Ubah Legenda:">
 <!ENTITY EditLegendText.accesskey "U">
 <!ENTITY LegendAlign.label "Ratakan Legenda">
@@ -45,5 +47,6 @@
 <!ENTITY AlignLeft.label "Kiri">
 <!ENTITY AlignCenter.label "Tengah">
 <!ENTITY AlignRight.label "Kanan">
+
 <!ENTITY RemoveFieldSet.label "Hapus Himpunan Field">
 <!ENTITY RemoveFieldSet.accesskey "H">

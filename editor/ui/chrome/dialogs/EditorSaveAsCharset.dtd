@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,8 +34,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are generic to all or most of the editor's dialogs. -->
+
+<!-- This button is for the progressive disclosure of additional editing functionality -->
+
+<!-- These strings are for use specifically in the editor's link dialog. -->
 <!ENTITY windowTitle.label "Simpan dan Ganti Pengodean Karakter">
 <!ENTITY documentTitleTitle.label "Judul Halaman">
 <!ENTITY documentCharsetTitle.label "Pengodean Karakter">
 <!ENTITY documentCharsetDesc.label "Pilih pengodean karakter yang akan digunakan saat menyimpan:">
 <!ENTITY documentExportToText.label "Ekspor Menjadi Teks">
+
+
+

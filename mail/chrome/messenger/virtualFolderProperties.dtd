@@ -1,11 +1,14 @@
 <!ENTITY virtualFolderProperties.title "Folder Pencarian Tersimpan Baru">
-<!ENTITY name.label "Nama:">
-<!ENTITY name.accesskey "N">
-<!ENTITY description.label "Buat sebagai subfolder dari:">
-<!ENTITY description.accesskey "B">
+<!ENTITY name.label                 "Nama:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Buat sebagai subfolder dari:">
+<!ENTITY description.accesskey      "B">
+
 <!ENTITY searchTermCaption.label "Atur kriteria pencarian untuk folder pencarian tersimpan ini: ">
+
 <!ENTITY folderSelectionCaption.label "Pilih folder untuk dicari: ">
 <!ENTITY chooseFoldersButton.label "Pilih…">
 <!ENTITY chooseFoldersButton.accesskey "P">
+
 <!ENTITY searchOnline.label "Pencarian Daring (untuk memberikan hasil terbaru pada folder IMAP dan news walaupun menjadikan waktu membuka folder lebih lama)">
 <!ENTITY searchOnline.accesskey "D">

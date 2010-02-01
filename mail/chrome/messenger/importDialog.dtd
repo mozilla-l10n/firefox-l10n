@@ -1,33 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Impor">
-<!ENTITY importAll.label "Import Semuanya">
-<!ENTITY importAll.accesskey "S">
-<!ENTITY importMail.label "Email">
-<!ENTITY importMail.accesskey "M">
-<!ENTITY importAddressbook.label "Buku Alamat">
+<!ENTITY importAll.label          "Import Semuanya">
+<!ENTITY importAll.accesskey      "S">
+<!ENTITY importMail.label         "Email">
+<!ENTITY importMail.accesskey     "m">
+<!ENTITY importAddressbook.label  "Buku Alamat">
 <!ENTITY importAddressbook.accesskey "B">
-<!ENTITY importSettings.label "Pengaturan">
+<!ENTITY importSettings.label     "Pengaturan">
 <!ENTITY importSettings.accesskey "P">
-<!ENTITY importFilters.label "Filter">
-<!ENTITY importFilters.accesskey "F">
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
-<!ENTITY importTitle.label "Penuntun Impor &brandShortName;">
-<!ENTITY importShortDesc.label "Impor Email, Buku Alamat, Pengaturan, dan Filter dari program lainnya">
+<!ENTITY importFilters.label      "Filter">
+<!ENTITY importFilters.accesskey  "F">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "Penuntun Impor &brandShortName;">
+<!ENTITY importShortDesc.label    "Impor Email, Buku Alamat, Pengaturan, dan Filter dari program lainnya">
+
 <!ENTITY importDescription1.label "Penuntun berikut akan mengimpor pesan email, item buku alamat, pengaturan, dan/atau filter dari program pembaca email lainnya dan buku alamat dalam format yang umum ke &brandShortName;.">
 <!ENTITY importDescription2.label "Setelah selesai diimpor, Anda akan dapat mengakses informasi tersebut dari &brandShortName;.">
-<!ENTITY selectDescription.label "Pilih jenis berkas yang ingin diimpor:">
+
+<!ENTITY selectDescription.label  "Pilih jenis berkas yang ingin diimpor:">
 <!ENTITY selectDescription.accesskey "P">
-<!ENTITY back.label "&lt; Mundur">
-<!ENTITY forward.label "Maju &gt;">
-<!ENTITY finish.label "Selesai">
-<!ENTITY cancel.label "Batal">
-<!ENTITY select.label "atau pilih yang ingin diimpor:">
-<!ENTITY title.label "Judul">
-<!ENTITY processing.label "Mengimpor…">
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x menggunakan satu alamat untuk setiap kartu nama sedangkan &brandShortName; menggunakan dua alamat untuk setiap kartu nama (Rumah dan Kantor).">
-<!ENTITY FieldDiscInputText2.label "Pilih kategori tempat menyimpan alamat email hasil proses impor:">
-<!ENTITY FieldDiscWarning.label "Kategori ini akan digunakan oleh item yang ada pada buku alamat terpilih: ">
-<!ENTITY importHome.label "Rumah">
-<!ENTITY importHome.accesskey "R">
-<!ENTITY importWork.label "Kantor">
-<!ENTITY importWork.accesskey "K">
+
+<!ENTITY back.label               "&lt; Mundur">
+<!ENTITY forward.label            "Maju &gt;">
+<!ENTITY finish.label             "Selesai">
+<!ENTITY cancel.label             "Batal">
+
+<!ENTITY select.label             "atau pilih yang ingin diimpor:">
+
+<!ENTITY title.label              "Judul">
+<!ENTITY processing.label         "Mengimpor…">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x menggunakan satu alamat untuk setiap kartu nama sedangkan &brandShortName; menggunakan dua alamat untuk setiap kartu nama (Rumah dan Kantor).">
+<!ENTITY FieldDiscInputText2.label  "Pilih kategori tempat menyimpan alamat email hasil proses impor:">
+<!ENTITY FieldDiscWarning.label  "Kategori ini akan digunakan oleh item yang ada pada buku alamat terpilih: ">
+<!ENTITY importHome.label        "Rumah">
+<!ENTITY importHome.accesskey    "R">
+<!ENTITY importWork.label        "Kantor">
+<!ENTITY importWork.accesskey    "K">

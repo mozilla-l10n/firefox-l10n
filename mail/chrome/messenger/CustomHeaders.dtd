@@ -4,4 +4,4 @@
 <!ENTITY removeButton.label "Hapus">
 <!ENTITY removeButton.accesskey "H">
 <!ENTITY newMsgHeader.label "Header pesan baru:">
-<!ENTITY newMsgHeader.accesskey "B">
+<!ENTITY newMsgHeader.accesskey "b">

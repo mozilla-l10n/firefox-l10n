@@ -1,4 +1,5 @@
-<!ENTITY attachImageSource.label "Lampirkan gambar ini pada pesan">
-<!ENTITY attachImageSource.accesskey "g">
-<!ENTITY attachLinkSource.label "Lampirkan isi tautan ini pada pesan">
-<!ENTITY attachLinkSource.accesskey "i">
+<!ENTITY attachImageSource.label         "Lampirkan gambar ini pada pesan">
+<!ENTITY attachImageSource.accesskey     "g">
+
+<!ENTITY attachLinkSource.label          "Lampirkan isi tautan ini pada pesan">
+<!ENTITY attachLinkSource.accesskey      "i">

@@ -1,9 +1,11 @@
-<!ENTITY notificationsDialog2.title "Atur Peringatan Email Baru">
-<!ENTITY window.width "30em">
-<!ENTITY alertCustomization.intro "Pilih field yang akan ditampilkan pada alarm peringatan:">
-<!ENTITY previewText.label "Teks Pratinjau Pesan">
-<!ENTITY previewText.accesskey "j">
-<!ENTITY subject.label "Subjek:">
-<!ENTITY subject.accesskey "S">
-<!ENTITY sender.label "Pengirim">
-<!ENTITY sender.accesskey "e">
+<!ENTITY notificationsDialog2.title       "Atur Peringatan Email Baru">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Pilih field yang akan ditampilkan pada alarm peringatan:">
+<!ENTITY previewText.label                "Teks Pratinjau Pesan">
+<!ENTITY previewText.accesskey            "j">
+<!ENTITY subject.label                    "Subjek:">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Pengirim">
+<!ENTITY sender.accesskey                 "e">
+

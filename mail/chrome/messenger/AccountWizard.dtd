@@ -1,5 +1,10 @@
+<!-- Entities for AccountWizard -->
+
 <!ENTITY windowTitle.label "Penuntun Pembuatan Akun">
 <!ENTITY accountWizard.size "width: 45em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
 <!ENTITY accountSetupInfo.label "Untuk menerima pesan, Anda diwajibkan membuat sebuah akun Email atau Newsgroup.">
 <!ENTITY accountTypeTitle.label "Membuat Akun Baru">
 <!ENTITY accountTypeDesc.label "Penuntun ini akan mengumpulkan informasi yang dibutuhkan untuk mengatur akun Email atau Newgroup. Jika Anda tidak mengetahui informasi yang diminta, silakan hubungi Administrator Sistem atau Internet Service Provider Anda.">
@@ -8,47 +13,89 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Akun newsgroup">
 <!ENTITY accountTypeNews.accesskey "w">
+
+<!-- Entities for Identity page -->
+
 <!ENTITY identityTitle.label "Identitas">
 <!ENTITY identityDesc.label "Setiap akun memiliki satu identitas. Identitas ini akan digunakan oleh orang lain untuk mengenali Anda saat mereka menerima pesan Anda.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Masukkan nama yang ingin ditampilkan pada kolom &quot;Dari&quot; pada setiap pesan keluar Anda">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
 <!ENTITY fullnameExample.label "(contohnya, &quot;Budi Putra&quot;).">
 <!ENTITY fullnameLabel.label "Nama Anda:">
 <!ENTITY fullnameLabel.accesskey "N">
+
 <!ENTITY emailLabel.label "Alamat Email:">
 <!ENTITY emailLabel.accesskey "E">
+
+<!-- Entities for Server page -->
+
 <!ENTITY serverTitle.label "Informasi Server">
 <!ENTITY incomingServerTypeDesc.label "Pilih jenis server penerima yang Anda gunakan.">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Masukkan nama server penerima Anda (contohnya, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Server Penerima:">
 <!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Masukkan nama server news (NNTP) Anda (contohnya, &quot;news.example.net&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Masukkan nama server pengirim (SMTP) Anda, (contohnya, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Server Pengirim:">
 <!ENTITY smtpServerLabel.accesskey "P">
 <!ENTITY newsServerLabel.label "Server Newsgroup:">
 <!ENTITY newsServerLabel.accesskey "N">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+-->
 <!ENTITY haveSmtp1.prefix "Server pengirim (SMTP) yang sudah ada, &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot; akan digunakan. Anda dapat mengubah server pengirim pada pengaturan akun.">
+
+<!-- Entities for Login page -->
+
 <!ENTITY loginTitle.label "Nama Pengguna">
 <!ENTITY usernameDesc.label "Masukkan nama pengguna server penerima yang diberikan oleh penyedia layanan email Anda ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(contohnya, &quot;budiputra&quot;).">
 <!ENTITY usernameLabel.label "Nama Pengguna Server Penerima:">
 <!ENTITY usernameLabel.accesskey "N">
 <!ENTITY usernameSmtpDesc.label "Masukkan nama pengguna untuk server pengirim yang diberikan oleh penyedia layanan email Anda (pada umumnya sama dengan nama pengguna untuk server penerima).">
 <!ENTITY usernameSmtpLabel.label "Nama Pengguna Server Pengirim:">
 <!ENTITY usernameSmtpLabel.accesskey "P">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+-->
 <!ENTITY haveSmtp2.prefix "Nama pengguna server pengirim (SMTP) yang sudah ada &quot;">
 <!ENTITY haveSmtp2.suffix2 "&quot; akan digunakan. Anda dapat mengubah server pengirim pada pengaturan akun.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+-->
 <!ENTITY haveSmtp3.prefix "Server pengirim (SMTP) Anda, &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot; sama dengan server penerima Anda, nama pengguna server penerima Anda akan digunakan untuk mengakses server ini. Anda dapat mengubah server pengirim pada pengaturan akun.">
+
+<!-- Entities for Account name page -->
+
 <!ENTITY accnameTitle.label "Nama Akun">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Masukkan nama yang ingin Anda jadikan sebagai referensi akun ini (contohnya, &quot;Akun Kantor&quot;, &quot;Akun Pribadi&quot;, atau &quot;Akun News&quot;).">
 <!ENTITY accnameLabel.label "Nama Akun:">
-<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY accnameLabel.accesskey "a">
+
+<!-- Entities for Done (Congratulations) page -->
+
 <!ENTITY completionTitle.label "Selamat!">
 <!ENTITY completionText.label "Periksa apakah informasi berikut telah sesuai.">
 <!ENTITY serverTypePrefix.label "Jenis Server Penerima:">

@@ -1,85 +1,108 @@
-<!ENTITY itemGeneral.label "Utama">
-<!ENTITY itemUpdate.label "Pemutakhiran">
-<!ENTITY itemNetworking.label "Jaringan &amp; Ruang Disk">
-<!ENTITY itemCertificates.label "Sertifikat">
-<!ENTITY showCondensedAddresses.label "Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.">
+<!ENTITY itemGeneral.label       "Utama">
+<!ENTITY itemDisplay.label       "Baca &amp; Tampilan">
+<!ENTITY itemUpdate.label        "Pemutakhiran">
+<!ENTITY itemNetworking.label    "Jaringan &amp; Ruang Disk">
+<!ENTITY itemCertificates.label  "Sertifikat">
+
+<!-- General Settings -->
+
+<!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
+<!ENTITY alwaysCheckDefault.label      "Periksa apakah &brandShortName; adalah pembaca email default ketika memulai">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
+<!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; untuk pencarian pesan">
+<!ENTITY searchIntegration.accesskey   "p">
+<!ENTITY checkNow.label                "Tetapkan Sekarang">
+<!ENTITY checkNow.accesskey            "n">
+<!ENTITY configEditDesc.label          "Konfigurasi Canggih">
+<!ENTITY configEdit.label              "Penyunting Konfigurasi…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Mengatur penanganan tanda konfirmasi diterima (return receipt) oleh &brandShortName;">
+<!ENTITY showReturnReceipts.label      "Tanda Konfirmasi Diterima…">
+<!ENTITY showReturnReceipts.accesskey  "r">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Baca">
+<!ENTITY display.caption               "Tampilan">
+<!ENTITY showCondensedAddresses.label  "Hanya tampilkan nama tampilan untuk orang yang ada pada buku alamat saya.">
 <!ENTITY showCondensedAddresses.accesskey "p">
-<!ENTITY autoMarkAsRead.label "Otomatis tandai pesan saya sudah dibaca">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Langsung saat ditampilkan">
-<!ENTITY markAsReadNoDelay.accesskey "d">
-<!ENTITY markAsReadDelay.label "Setelah ditampilkan ">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "detik">
-<!ENTITY openMsgIn.label "Buka pesan di:">
-<!ENTITY openMsgInNewTab.label "Tab baru">
-<!ENTITY openMsgInNewTab.accesskey "t">
-<!ENTITY reuseExpRadio0.label "Jendela pesan baru">
-<!ENTITY reuseExpRadio0.accesskey "J">
-<!ENTITY reuseExpRadio1.label "Jendela pesan yang sudah tampil">
-<!ENTITY reuseExpRadio1.accesskey "a">
+
+<!ENTITY autoMarkAsRead.label          "Otomatis tandai pesan saya sudah dibaca">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Langsung saat ditampilkan">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Setelah ditampilkan ">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "detik">
+<!ENTITY openMsgIn.label               "Buka pesan di:">
+<!ENTITY openMsgInNewTab.label         "Tab baru">
+<!ENTITY openMsgInNewTab.accesskey     "T">
+<!ENTITY reuseExpRadio0.label          "Jendela pesan baru">
+<!ENTITY reuseExpRadio0.accesskey      "J">
+<!ENTITY reuseExpRadio1.label          "Jendela pesan yang sudah tampil">
+<!ENTITY reuseExpRadio1.accesskey      "a">
 <!ENTITY closeMsgWindowOnDelete.label  "Tutup jendela pesan setelah menghapus">
 <!ENTITY closeMsgWindowOnDelete.accesskey "T">
-<!ENTITY configEditDesc.label "Konfigurasi Canggih">
-<!ENTITY configEdit.label "Penyunting Konfigurasi…">
-<!ENTITY configEdit.accesskey "g">
-<!ENTITY returnReceiptsInfo.label "Mengatur penanganan tanda konfirmasi diterima (return receipt) oleh &brandShortName;">
-<!ENTITY showReturnReceipts.label "Tanda Konfirmasi Diterima…">
-<!ENTITY showReturnReceipts.accesskey "R">
-<!ENTITY autoCheck.label "Otomatis periksa versi baru untuk:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "T">
-<!ENTITY enableAddonsUpdate.label "Pengaya Terpasang">
-<!ENTITY enableAddonsUpdate.accesskey "g">
-<!ENTITY whenUpdatesFound.label "Bila versi baru &brandShortName; ditemukan:">
-<!ENTITY modeAskMe.label "Tanya apa yang harus dilakukan">
-<!ENTITY modeAskMe.accesskey "s">
-<!ENTITY modeAutomatic.label "Otomatis diunduh dan dipasang">
-<!ENTITY modeAutomatic.accesskey "p">
-<!ENTITY modeAutoAddonWarn.label "Peringatkan jika Pengaya terpasang akan dimatikan">
-<!ENTITY modeAutoAddonWarn.accesskey "t">
-<!ENTITY showUpdates.label "Tampilkan Riwayat Pemutakhiran…">
-<!ENTITY showUpdates.accesskey "y">
-<!ENTITY connectionsInfo.caption "Sambungan">
-<!ENTITY offlineInfo.caption "Luring">
-<!ENTITY offlineInfo.label "Atur pengaturan luring">
-<!ENTITY showOffline.label "Luring…">
-<!ENTITY showOffline.accesskey "L">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Otomatis periksa versi baru untuk:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Pengaya Terpasang">
+<!ENTITY enableAddonsUpdate.accesskey   "g">
+<!ENTITY whenUpdatesFound.label         "Bila versi baru &brandShortName; ditemukan:">
+<!ENTITY modeAskMe.label                "Tanya apa yang harus dilakukan">
+<!ENTITY modeAskMe.accesskey            "s">
+<!ENTITY modeAutomatic.label            "Otomatis diunduh dan dipasang">
+<!ENTITY modeAutomatic.accesskey        "p">
+<!ENTITY modeAutoAddonWarn.label        "Peringatkan jika Pengaya terpasang akan dimatikan">
+<!ENTITY modeAutoAddonWarn.accesskey    "t">
+<!ENTITY showUpdates.label              "Tampilkan Riwayat Pemutakhiran…">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Pengaturan…">
+<!ENTITY showSettings.accesskey        "a">
+<!ENTITY proxiesConfigure.label        "Atur cara &brandShortName; tersambung ke Internet">
+<!ENTITY connectionsInfo.caption       "Sambungan">
+<!ENTITY offlineInfo.caption           "Luring">
+<!ENTITY offlineInfo.label             "Atur pengaturan luring">
+<!ENTITY showOffline.label             "Luring…">
+<!ENTITY showOffline.accesskey         "L">
+
 <!ENTITY Diskspace "Ruang Disk">
 <!ENTITY offlineCompact.label "Padatkan folder jika menghemat lebih dari">
 <!ENTITY offlineCompact.accesskey "P">
 <!ENTITY kb.label "KB">
-<!ENTITY useCacheBefore.label "Gunakan harddisk untuk tembolok hingga">
-<!ENTITY useCacheBefore.accesskey "h">
-<!ENTITY useCacheAfter.label "MB">
-<!ENTITY clearCacheNow.label "Bersihkan Sekarang">
-<!ENTITY clearCacheNow.accesskey "g">
-<!ENTITY display.caption "Tampilan">
-<!ENTITY itemDisplay.label "Baca &amp; Tampilan">
-<!ENTITY reading.caption "Baca">
-<!ENTITY showSettings.label "Pengaturan…">
-<!ENTITY showSettings.accesskey "a">
-<!ENTITY proxiesConfigure.label "Atur cara &brandShortName; tersambung ke Internet">
-<!ENTITY enableGlodaSearch.label "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
-<!ENTITY enableGlodaSearch.accesskey "i">
-<!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
-<!ENTITY alwaysCheckDefault.label "Periksa apakah &brandShortName; adalah pembaca email default ketika memulai">
-<!ENTITY alwaysCheckDefault.accesskey "l">
-<!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; untuk pencarian pesan">
-<!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkNow.label "Tetapkan Sekarang">
-<!ENTITY checkNow.accesskey "N">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Gunakan harddisk untuk tembolok hingga">
+<!ENTITY useCacheBefore.accesskey        "h">
+<!ENTITY useCacheAfter.label             "MB">
+<!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
+<!ENTITY clearCacheNow.accesskey         "g">
+
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Ketika server meminta sertifikat pribadi saya:">
 <!ENTITY certs.auto                      "Pilih satu secara otomatis">
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Tanyakan selalu">
 <!ENTITY certs.ask.accesskey             "T">
-<!ENTITY viewCertificates.label "Daftar Sertifikat">
-<!ENTITY viewCertificates.accesskey "a">
-<!ENTITY viewCRLs.label "Daftar Pencabutan">
-<!ENTITY viewCRLs.accesskey "c">
-<!ENTITY validation.label "Validasi">
-<!ENTITY validation.accesskey "d">
-<!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
-<!ENTITY viewSecurityDevices.accesskey "k">
+
+<!ENTITY viewCertificates.label         "Daftar Sertifikat">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Daftar Pencabutan">
+<!ENTITY viewCRLs.accesskey             "c">
+<!ENTITY validation.label               "Validasi">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Perangkat Keamanan">
+<!ENTITY viewSecurityDevices.accesskey  "k">

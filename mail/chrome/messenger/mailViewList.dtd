@@ -1,2 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY mailViewListTitle.label "Atur Tampilan Pesan">
 <!ENTITY viewName.label "Nama Tampilan">
+

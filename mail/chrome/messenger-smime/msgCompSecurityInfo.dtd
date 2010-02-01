@@ -1,3 +1,5 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
 <!ENTITY title.label "Keamanan Pesan">
 <!ENTITY subject.plaintextWarning "Catatan: Isian subjek pesan email tidak pernah dienkripsi.">
 <!ENTITY status.heading "Isi pesan yang akan dikirimkan adalah sebagai berikut:">

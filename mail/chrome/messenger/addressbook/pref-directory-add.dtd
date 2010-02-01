@@ -1,38 +1,79 @@
-<!--null--> 
-<!ENTITY newDirectoryTitle.label "Properti Server Direktori">
-<!ENTITY directoryName.label "Nama: ">
-<!ENTITY directoryName.accesskey "N">
-<!ENTITY directoryHostname.label "Nama host: ">
-<!ENTITY directoryHostname.accesskey "h">
-<!ENTITY directoryBaseDN.label "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY findButton.label "Cari">
-<!ENTITY findButton.accesskey "C">
-<!ENTITY directorySecure.label "Gunakan sambungan aman (SSL)">
-<!ENTITY directorySecure.accesskey "S">
-<!ENTITY directoryLogin.label "Bind DN: ">
-<!ENTITY directoryLogin.accesskey "i">
-<!ENTITY General.tab "Umum">
-<!ENTITY Offline.tab "Luring">
-<!ENTITY Advanced.tab "Canggih">
-<!ENTITY portNumber.label "Nomor port: ">
-<!ENTITY portNumber.accesskey "P">
-<!ENTITY searchFilter.label "Filter pencarian: ">
-<!ENTITY searchFilter.accesskey "f">
-<!ENTITY scope.label "Lingkup: ">
-<!ENTITY scope.accesskey "l">
-<!ENTITY scopeOneLevel.label "Satu Tingkat">
-<!ENTITY scopeOneLevel.accesskey "t">
-<!ENTITY scopeSubtree.label "Cabang">
-<!ENTITY scopeSubtree.accesskey "c">
-<!ENTITY return.label "Jangan kembalikan hasil lebih dari">
-<!ENTITY return.accesskey "J">
-<!ENTITY results.label "item">
-<!ENTITY offlineText.label "Anda dapat mengunduh salinan lokal direktori ini sehingga tersedia untuk digunakan saat dalam mode luring.">
-<!ENTITY saslMechanism.label "Metode log-masuk: ">
-<!ENTITY saslMechanism.accesskey "M">
-<!ENTITY saslOff.label "Sederhana">
-<!ENTITY saslOff.accesskey "s">
-<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey "K">
-<!ENTITY newDirectoryWidth "36em">
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-2002
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY newDirectoryTitle.label           "Properti Server Direktori">
+<!ENTITY directoryName.label               "Nama: ">
+<!ENTITY directoryName.accesskey           "N">
+<!ENTITY directoryHostname.label           "Nama host: ">
+<!ENTITY directoryHostname.accesskey       "h">
+<!ENTITY directoryBaseDN.label             "Base DN: ">
+<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY findButton.label                  "Cari">
+<!ENTITY findButton.accesskey              "C">
+<!ENTITY directorySecure.label             "Gunakan sambungan aman (SSL)">
+<!ENTITY directorySecure.accesskey         "s">
+<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY General.tab                       "Umum">
+<!ENTITY Offline.tab                       "Luring">
+<!ENTITY Advanced.tab                      "Canggih">
+<!ENTITY portNumber.label                  "Nomor port: ">
+<!ENTITY portNumber.accesskey              "p">
+<!ENTITY searchFilter.label                "Filter pencarian: ">
+<!ENTITY searchFilter.accesskey            "F">
+<!ENTITY scope.label                       "Lingkup: ">
+<!ENTITY scope.accesskey                   "L">
+<!ENTITY scopeOneLevel.label               "Satu Tingkat">
+<!ENTITY scopeOneLevel.accesskey           "t">
+<!ENTITY scopeSubtree.label                "Cabang">
+<!ENTITY scopeSubtree.accesskey            "C">
+<!ENTITY return.label                      "Jangan kembalikan hasil lebih dari">
+<!ENTITY return.accesskey                  "J">
+<!ENTITY results.label                     "item">
+<!ENTITY offlineText.label                 "Anda dapat mengunduh salinan lokal direktori ini sehingga tersedia untuk digunakan saat dalam mode luring.">
+<!ENTITY saslMechanism.label               "Metode log-masuk: ">
+<!ENTITY saslMechanism.accesskey           "M">
+<!ENTITY saslOff.label                     "Sederhana">
+<!ENTITY saslOff.accesskey                 "S">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->
+<!ENTITY newDirectoryWidth                 "36em">

@@ -1,11 +1,13 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label "Unduh dan Sinkronkan Pesan">
 <!ENTITY MsgSelect.label "Item untuk Penggunaan Luring">
 <!ENTITY MsgSyncDesc.label "Jika Anda telah memilih folder email atau newsgroup untuk penggunaan luring, Anda dapat mengunduh dan/atau mensinkronkannya sekarang. Jika tidak, gunakan tombol &quot;Pilih&quot; untuk memilih folder dan newsgroup untuk penggunaan luring.">
 <!ENTITY MsgSyncDirections.label "Unduh dan/atau sinkronkan item berikut:">
 <!ENTITY syncTypeMail.label "Pesan email">
-<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeMail.accesskey "m">
 <!ENTITY syncTypeNews.label "Pesan newsgroup">
-<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Kirim pesan yang belum terkirim">
 <!ENTITY sendMessage.accesskey "s">
 <!ENTITY workOffline.label "Aktifkan mode luring setelah proses mengunduh dan/atau sinkronisasi selesai.">

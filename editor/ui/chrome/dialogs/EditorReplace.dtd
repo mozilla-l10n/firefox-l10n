@@ -21,7 +21,6 @@
    -
    - Contributor(s):
    -   Akkana Peck
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,13 +35,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from EdReplace.xul -->
+
 <!ENTITY replaceDialog.title "Cari dan Ganti">
 <!ENTITY findField.label "Cari teks:">
-<!ENTITY findField.accesskey "c">
+<!ENTITY findField.accesskey "C">
 <!ENTITY replaceField.label "Ganti dengan:">
-<!ENTITY replaceField.accesskey "g">
+<!ENTITY replaceField.accesskey "G">
 <!ENTITY caseSensitiveCheckbox.label "Cocokan besar/kecil">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.accesskey "C">
 <!ENTITY wrapCheckbox.label "Potong di sekitar">
 <!ENTITY wrapCheckbox.accesskey "i">
 <!ENTITY backwardsCheckbox.label "Cari mundur">
@@ -52,7 +54,7 @@
 <!ENTITY replaceButton.label "Ganti">
 <!ENTITY replaceButton.accesskey "G">
 <!ENTITY replaceAndFindButton.label "Ganti dan Cari Lagi">
-<!ENTITY replaceAndFindButton.accesskey "g">
+<!ENTITY replaceAndFindButton.accesskey "G">
 <!ENTITY replaceAllButton.label "Ganti Semua">
 <!ENTITY replaceAllButton.accesskey "S">
 <!ENTITY closeButton.label "Tutup">

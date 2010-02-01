@@ -1,16 +1,70 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
 <!ENTITY lightning.taskLabel "Lightning">
-<!ENTITY lightning.menupopup.new.event.label "Acara…">
-<!ENTITY lightning.menupopup.new.event.accesskey "a">
-<!ENTITY lightning.menupopup.new.task.label "Tugas…">
-<!ENTITY lightning.menupopup.new.task.accesskey "t">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Acara…">
+<!ENTITY lightning.menupopup.new.event.accesskey "A">
+<!ENTITY lightning.menupopup.new.task.label     "Tugas…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-<!ENTITY lightning.menupopup.open.label "Buka">
-<!ENTITY lightning.menupopup.open.accesskey "B">
-<!ENTITY lightning.menupopup.open.message.label "Simpanan Pesan…">
-<!ENTITY lightning.menupopup.open.message.accesskey "S">
-<!ENTITY lightning.menupopup.open.calendar.label "Berkas Kalender…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey "K">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Buka">
+<!ENTITY lightning.menupopup.open.accesskey           "B">
+<!ENTITY lightning.menupopup.open.message.label       "Simpanan Pesan…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "S">
+<!ENTITY lightning.menupopup.open.calendar.label      "Berkas Kalender…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
+
+<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Kalender">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Tugas">
@@ -20,35 +74,50 @@
 <!ENTITY lightning.menu.eventtask.label                "Acara dan Tugas">
 <!ENTITY lightning.menu.eventtask.accesskey            "A">
 
-<!ENTITY lightning.toolbar.mail.label "Email">
-<!ENTITY lightning.toolbar.mail.accesskey "E">
-<!ENTITY lightning.toolbar.calendar.label "Kalender">
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Email">
+<!ENTITY lightning.toolbar.mail.accesskey     "E">
+<!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label "Tugas">
-<!ENTITY lightning.toolbar.task.accesskey "T">
-<!ENTITY lightning.toolbar.day.label "Hari">
-<!ENTITY lightning.toolbar.day.accesskey "H">
-<!ENTITY lightning.toolbar.week.label "Minggu">
-<!ENTITY lightning.toolbar.week.accesskey "M">
-<!ENTITY lightning.toolbar.multiweek.label "Multiminggu">
-<!ENTITY lightning.toolbar.multiweek.accesskey "u">
-<!ENTITY lightning.toolbar.month.label "Bulan">
-<!ENTITY lightning.toolbar.month.accesskey "B">
-<!ENTITY lightning.toolbar.newevent.label "Acara">
-<!ENTITY lightning.toolbar.newtask.label "Tugas">
+<!ENTITY lightning.toolbar.task.label         "Tugas">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Acara">
+<!ENTITY lightning.toolbar.newtask.label      "Tugas">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Hari">
+<!ENTITY lightning.toolbar.day.accesskey             "H">
+<!ENTITY lightning.toolbar.week.label                "Minggu">
+<!ENTITY lightning.toolbar.week.accesskey            "M">
+<!ENTITY lightning.toolbar.multiweek.label           "Multiminggu">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.month.label               "Bulan">
+<!ENTITY lightning.toolbar.month.accesskey           "B">
+
+<!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Tampilkan Acara pada Panel Hari Ini">
-<!ENTITY lightning.calendarproperties.showtasks.label "Tampilkan Tugas pada Panel Hari Ini dan Mode Tugas">
-<!ENTITY lightning.calendarproperties.email.label "Email:">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Tampilkan Tugas pada Panel Hari Ini dan Mode Tugas">
+<!ENTITY lightning.calendarproperties.email.label               "Email:">
+
+<!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "Pesan in berisi undangan sebuah acara.">
+
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.new "U">
 <!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Buat kalender baru">
+
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Tampilkan Bulan-Mini">
-<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Tampilkan Hari-Mini">
-<!ENTITY todaypane.showMiniday.accesskey "H">
+<!ENTITY todaypane.showMiniday.accesskey  "H">
 <!ENTITY todaypane.showNone.label "Tak Ada Tampilan">
-<!ENTITY todaypane.showNone.accesskey "A">
+<!ENTITY todaypane.showNone.accesskey "a">
 <!ENTITY todaypane.showTodayPane.label "Tampilkan Panel Hari Ini">
-<!ENTITY todaypane.showTodayPane.accesskey "I">
+<!ENTITY todaypane.showTodayPane.accesskey "i">
 <!ENTITY todaypane.statusButton.label "Panel Hari Ini">

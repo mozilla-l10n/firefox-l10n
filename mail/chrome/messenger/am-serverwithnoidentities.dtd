@@ -4,7 +4,7 @@
 <!ENTITY accountName.accesskey "N">
 <!ENTITY messageStorage.label "Penyimpanan Pesan">
 <!ENTITY emptyTrashOnExit.label "Hapus Kotak Sampah saat Keluar">
-<!ENTITY emptyTrashOnExit.accesskey "k">
+<!ENTITY emptyTrashOnExit.accesskey "K">
 <!ENTITY localPath.label "Direktori Lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Telusuri…">
