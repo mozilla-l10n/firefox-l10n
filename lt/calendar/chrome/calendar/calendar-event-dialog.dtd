@@ -153,15 +153,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "laisvą">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "l">
 
-<!ENTITY event.help.label                                 "Žinynas">
-<!ENTITY event.help.accesskey                             "Ž">
-<!ENTITY event.help.release.notes.label                   "Laidos apžvalga">
-<!ENTITY event.help.release.notes.accesskey               "L">
-<!ENTITY event.help.help.label                            "„&brandShortName;“ žinynas">
-<!ENTITY event.help.help.accesskey                        "ž">
-<!ENTITY event.help.about.label                           "Apie „&brandShortName;“">
-<!ENTITY event.help.about.accesskey                       "A">
-
 <!ENTITY event.invite.attendees.label                     "Pakviesti dalyvius…">
 <!ENTITY event.invite.attendees.accesskey                 "P">
 <!ENTITY event.email.attendees.label                      "Rašyti laišką visiems dalyviams…">
