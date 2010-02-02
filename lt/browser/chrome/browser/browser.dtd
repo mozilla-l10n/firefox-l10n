@@ -338,8 +338,6 @@
 <!ENTITY sendAudioCmd.accesskey       "s">
 <!ENTITY copyLinkCmd.label            "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkText2Cmd.label       "Kopijuoti saito tekstą">
-<!ENTITY copyLinkText2Cmd.accesskey   "p">
 <!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopijuoti paveikslą">

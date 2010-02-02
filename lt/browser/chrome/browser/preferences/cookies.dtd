@@ -35,6 +35,7 @@
 <!ENTITY cookiesonsystem.label              "Slapukai, įrašyti šiame kompiuteryje:">
 <!ENTITY cookiename.label                   "Slapuko vardas">
 <!ENTITY cookiedomain.label                 "Svetainė"> 
+<!ENTITY button.removecookies.label         "Pašalinti slapukus">
 <!ENTITY button.removecookie.label          "Pašalinti slapuką">
 <!ENTITY button.removecookie.accesskey      "š">
 <!ENTITY button.removeallcookies.label      "Pašalinti visus slapukus">
