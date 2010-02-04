@@ -20,9 +20,9 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "Fernijings sykje">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Syket fernijings foar jo útwreidings">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Syket fernijings foar jo tema's">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Syket fernijings foar jo ynstekkers">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Siket fernijings foar jo útwreidings">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Siket fernijings foar jo tema's">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Siket fernijings foar jo ynstekkers">
 <!ENTITY cmd.installLocalFile.label       "Ynstallearje...">
 <!ENTITY cmd.installLocalFile.accesskey   "Y">
 <!ENTITY cmd.installFileAddon.tooltip     "In útwreiding ynstallearje">
@@ -69,8 +69,8 @@
 <!ENTITY cmd.cancelUninstall.label        "De-ynstallaasje annulearje">
 <!ENTITY cmd.cancelUninstall.accesskey    "a">
 <!ENTITY cmd.cancelUninstall.tooltip      "De-ynstallaasje fan dizze tafoeging annulearje">
-<!ENTITY cmd.cancelInstall.label          "Installie annuleren">
-<!ENTITY cmd.cancelInstall.accesskey      "I">
+<!ENTITY cmd.cancelInstall.label          "Ynstallaasje annulearje">
+<!ENTITY cmd.cancelInstall.accesskey      "Y">
 <!ENTITY cmd.cancelInstall.tooltip        "De ynstallaasje fan dizze tafoeging annulearje">
 <!ENTITY cmd.cancelUpgrade.label          "Fernijing annulearje">
 <!ENTITY cmd.cancelUpgrade.accesskey      "F">
@@ -78,7 +78,7 @@
 <!ENTITY cmd.installUpdate.label          "Fernijing ynstallearje">
 <!ENTITY cmd.installUpdate.accesskey      "i">
 <!ENTITY cmd.installUpdate.tooltip        "In fernijing foar dizze tafoeging ynstallearje">
-<!ENTITY cmd.showUpdateInfo.label         "Informatie tonen">
+<!ENTITY cmd.showUpdateInfo.label         "Ynformaasje toane">
 <!ENTITY cmd.showUpdateInfo.accesskey     "t">
 <!ENTITY cmd.showUpdateInfo.tooltip       "Mear ynformaasje oer dizze fernijing toane">
 <!ENTITY cmd.hideUpdateInfo.label         "Ynformaasje ferbergje">
@@ -130,7 +130,7 @@
 <!ENTITY searchFailed.label               "&brandShortName; koe gjin tafoegings krije">
 <!ENTITY recommendedHeader.label          "Oanrikkemandearre">
 <!ENTITY recommendedThrobber.label        "Oanrikkemandearre tafoegings krije">
-<!ENTITY searchThrobber.label             "Sykt no tafoegings">
+<!ENTITY searchThrobber.label             "Siket no tafoegings">
 <!ENTITY resetSearch.label                "Resultaten wisse">
 <!ENTITY noSearchResults.label            "Alle resultaten binne al ynstallearre of net kompatibel.">
 <!ENTITY noRecommendedResults.label       "Alle oanrikkemandearre binne al ynstallearre of net kompatibel.">
