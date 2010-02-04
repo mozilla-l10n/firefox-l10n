@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion           	"ferzje">
 <!ENTITY closeCmdGNOME.label        "Slute">  
 <!ENTITY closeCmdGNOME.accesskey    "S">
-<!ENTITY copyrightInfo1          	"&#169;1998-2009 Meiwurkers. Alle rjochten foarbehâlden. (">
-<!ENTITY licenseLink                "oer:lisinsje">
 <!ENTITY licenseLinkText            "Lisinsje-ynformaasje">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">
