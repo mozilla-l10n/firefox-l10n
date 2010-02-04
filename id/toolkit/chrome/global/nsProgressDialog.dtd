@@ -103,7 +103,7 @@
     #1 will be replaced by the number of hours
     #2 will be replaced by the number of minutes
     #3 will be replaced by the number of seconds -->
-<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY longTimeFormat "#1.#2.#3">
 
 <!-- LOCALIZATION NOTE (shortTimeFormat):
 
@@ -114,7 +114,7 @@
     #1 will be replaced by the number of hours
     #2 will be replaced by the number of minutes
     #3 will be replaced by the number of seconds -->
-<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY shortTimeFormat "#2.#3">
 
 <!-- LOCALIZATION NOTE (completeMsg):
 
