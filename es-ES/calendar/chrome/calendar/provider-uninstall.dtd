@@ -13,11 +13,12 @@
    -
    - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
+   - Contributor(s):
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -32,15 +33,12 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
-<!ENTITY calendar.invitations.dialog.invitations.text "Invitaciones">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text "Actualizando lista de invitaciones.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text "No se han encontrado invitaciones sin confirmar.">
-<!ENTITY calendar.invitations.list.accept.button.label "Aceptar">
-<!ENTITY calendar.invitations.list.decline.button.label "Rechazar">
-<!ENTITY calendar.invitations.list.recurrentevent.text "Evento repetitivo">
-<!ENTITY calendar.invitations.list.alldayevent.text "Evento de día completo">
-<!ENTITY calendar.invitations.list.location.text "Lugar: ">
-<!ENTITY calendar.invitations.list.organizer.text "Organizador: ">
-<!ENTITY calendar.invitations.list.none.text "Ninguno">
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY providerUninstall.title "Desinstalar un proveedor">
+<!ENTITY providerUninstall.accept.label "Cancelar la suscripción de los seleccionados">
+<!ENTITY providerUninstall.accept.accesskey "U">
+<!ENTITY providerUninstall.cancel.label "Conservar complemento">
+<!ENTITY providerUninstall.cancel.accesskey "C">
+<!ENTITY providerUninstall.preName.label "Ha solicitado desinstalar o desactivar:">
+<!ENTITY providerUninstall.postName.label "Esto causará que se desactiven los calendarios siguientes.">
+<!ENTITY providerUninstall.reinstallNote.label "A menos que planee reinstalar este proveedor, puede elegir desuscribirse de los calendarios de este proveedor.">

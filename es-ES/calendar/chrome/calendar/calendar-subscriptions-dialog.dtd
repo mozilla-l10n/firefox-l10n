@@ -19,7 +19,7 @@
    -
    - Contributor(s):
    -   Thomas Benisch <thomas.benisch@sun.com>
-   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,6 +40,6 @@
 <!ENTITY calendar.subscriptions.dialog.search.button.label "Buscar">
 <!ENTITY calendar.subscriptions.dialog.select.label.value "Seleccionar calendarios para suscribirse:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label "Suscribirse">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Desuscribirse">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Cancelar suscripción">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label "Buscar…">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label "No se han encontrado coincidencias.">
