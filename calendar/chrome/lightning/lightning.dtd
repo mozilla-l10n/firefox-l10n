@@ -25,7 +25,7 @@
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Berend Cornelius <berend.cornelius@sun.com>
-   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,18 +42,23 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY lightning.taskLabel "Lightning">
 <!ENTITY lightning.menupopup.new.event.label "Evento…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label "Tarea…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendario…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "C">
 <!ENTITY lightning.menupopup.open.label "Abrir">
 <!ENTITY lightning.menupopup.open.accesskey "A">
 <!ENTITY lightning.menupopup.open.message.label "Mensaje guardado…">
 <!ENTITY lightning.menupopup.open.message.accesskey "M">
 <!ENTITY lightning.menupopup.open.calendar.label "Archivo de calendario…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "C">
-<!ENTITY lightning.calendar.label "Calendario">
-<!ENTITY lightning.calendar.accesskey "C">
-<!ENTITY lightning.tasks.label "Tareas">
-<!ENTITY lightning.tasks.accesskey "T">
+<!ENTITY lightning.menu.view.calendar.label "Calendario">
+<!ENTITY lightning.menu.view.calendar.accesskey "a">
+<!ENTITY lightning.menu.view.tasks.label "Tareas">
+<!ENTITY lightning.menu.view.tasks.accesskey "s">
+<!ENTITY lightning.menu.eventtask.label "Eventos y tareas">
+<!ENTITY lightning.menu.eventtask.accesskey "n">
 <!ENTITY lightning.toolbar.mail.label "Correo">
 <!ENTITY lightning.toolbar.mail.accesskey "C">
 <!ENTITY lightning.toolbar.calendar.label "Calendario">

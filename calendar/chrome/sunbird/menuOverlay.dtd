@@ -128,6 +128,8 @@
 <!ENTITY aboutCmd.accesskey "A">
 <!ENTITY updateCmd.label "Buscar actualizaciones…">
 <!ENTITY updateCmd.accesskey "o">
+<!ENTITY sunbird.export.calendar.label "Exportar calendario…">
+<!ENTITY sunbird.export.calendar.accesskey "E">
 <!ENTITY windowMenu.label "Ventana">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY zoomWindow.label "Tamaño">

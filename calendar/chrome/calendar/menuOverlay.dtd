@@ -26,7 +26,7 @@
    -                 Berend Cornelius <berend.cornelius@sun.com>
    -                 Philipp Kewisch <mozilla@kewis.ch>
    -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -56,12 +56,14 @@
 <!ENTITY calendar.import.label "Importar...">
 <!ENTITY calendar.import.key "I">
 <!ENTITY calendar.import.accesskey "I">
-<!ENTITY calendar.export.calendar.label "Exportar calendario...">
-<!ENTITY calendar.export.calendar.accesskey "E">
+<!ENTITY calendar.export.label "Exportar…">
+<!ENTITY calendar.export.accesskey "E">
 <!ENTITY calendar.export.selection.label "Exportar selección…">
 <!ENTITY calendar.export.selection.accesskey "S">
 <!ENTITY calendar.publish.label "Publicar…">
 <!ENTITY calendar.publish.accesskey "b">
+<!ENTITY calendar.deletecalendar.label "Eliminar calendario seleccionado…">
+<!ENTITY calendar.deletecalendar.accesskey "a">
 <!ENTITY calendar.menu.customize.label "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showUnifinderCmd.label "Buscar eventos">
@@ -84,9 +86,6 @@
 <!ENTITY goNextCmd.week.label "Semana siguiente">
 <!ENTITY goNextCmd.month.label "Mes siguiente">
 <!ENTITY goNextCmd.all.accesskey "e">
-<!ENTITY addressBookCmd.label "Libreta de direcciones">
-<!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY calendar.importcalendar.label "Importar calendario…">
 <!ENTITY showCurrentView.label "Vista actual">
 <!ENTITY showCurrentView.accesskey "V">
 <!ENTITY calendar.properties.label "Propiedades del calendario…">
