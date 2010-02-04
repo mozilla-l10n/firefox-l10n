@@ -55,22 +55,22 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Klik om te sortearjen">
-<!ENTITY columnChooser.tooltip "Klik om sjen te litte kolommen te selektearen">
+<!ENTITY columnChooser.tooltip "Klik om te toanen kolommen te selektearjen">
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "K">
 <!ENTITY copyPref.label "Kopiearje">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Namme kopiearje">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "a">
 <!ENTITY copyValue.label "Wearde kopiearje">
 <!ENTITY copyValue.accesskey "W">
 <!ENTITY modify.label "Oanpasse">
 <!ENTITY modify.accesskey "O">
-<!ENTITY toggle.label "Omskeakele">
+<!ENTITY toggle.label "Omskeakelje">
 <!ENTITY toggle.accesskey "s">
 <!ENTITY reset.label "Op 'e nij inisjalisearje">
-<!ENTITY reset.accesskey "H">
+<!ENTITY reset.accesskey "i">
 <!ENTITY new.label "Nij">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Tekenrige">
