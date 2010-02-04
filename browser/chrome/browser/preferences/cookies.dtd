@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "De folgjende cookies binne op jo kompjûter bewarre:">
 <!ENTITY     cookiename.label               "Cookienamme">
 <!ENTITY     cookiedomain.label             "Side"> 
+<!ENTITY     button.removecookies.label     "Cookies fuortsmite">
 <!ENTITY     button.removecookie.label      "Cookie fuortsmite">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "Alle cookies fuortsmite">
