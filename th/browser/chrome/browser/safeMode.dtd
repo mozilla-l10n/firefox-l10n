@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title "&brandShortName; โหมดปลอดภัย">
 <!ENTITY window.width "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; กำลังทำงานอยู่ในโหมดปปลอดภัย ซึ่งจะปิดการใช้งานค่าที่คุณตั้งเอง ธีมและส่วนขยายชั่วคราว">
+<!ENTITY safeModeDescription.label "&brandShortName; กำลังทำงานอยู่ในโหมดปปลอดภัย ซึ่งจะปิดการใช้งานค่าที่คุณตั้งเอง ชุดตกแต่งและส่วนขยายชั่วคราว">
 <!ENTITY safeModeDescription2.label "คุณสามารถเปลี่ยนแปลงสิ่งเหล่านี้อย่างถาวรทั้งหมดหรือบางส่วน :">
 
 <!ENTITY disableAddons.label "ปิดใช้ส่วนเสริมทั้งหมด">
@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "ตั้งค่าแถบเครื่องมือและตัวควบคุมไปยังค่าตั้งต้น">
 <!ENTITY resetToolbars.accesskey "ต">
 
-<!ENTITY resetBookmarks.label "ตั้งค่าที่คั่นหน้าเว็บไปที่ค่าปริยายของ &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "ค">
+<!ENTITY deleteBookmarks.label        "ลบที่คั่นหน้าเว็บทั้งหมดยกเว้นที่สำรองไว้">
+<!ENTITY deleteBookmarks.accesskey    "ส">
 
 <!ENTITY resetUserPrefs.label "ตั้งค่าการปรับแต่งของผู้ใช้ทั้งหมดไปยังค่าปริยายของ &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "ป">
