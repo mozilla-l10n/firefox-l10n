@@ -56,18 +56,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ล้างประวัติการท่องเว็บปัจจุบันของคุณ">
 <!ENTITY  dontrememberActions.post.label         " ">
 
-<!ENTITY  privateBrowsingAutoStart.label "เริ่มวาระการท่องเว็บแบบส่วนตัวอัตโนมัติเมื่อเริ่มใช้งาน &brandShortName;">
-<!ENTITY  privateBrowsingAutoStart.accesskey "อ">
+<!ENTITY  privateBrowsingPermanent.label "โหมดท่องเว็บส่วนแบบตัวแบบถาวร">
+<!ENTITY  privateBrowsingPermanent.accesskey "ถ">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "จำประวัติการท่องเว็บของฉันไว้อย่างน้อย">
-<!ENTITY  rememberHistory.pre.accesskey  "ป">
-<!ENTITY  rememberHistory.post.label     "วัน">
+<!ENTITY  rememberHistory.label      "จำประวัติการท่องเว็บของฉัน">
+<!ENTITY  rememberHistory.accesskey  "จ">
 
 <!ENTITY  rememberDownload.label         "จำประวัติการดาวน์โหลด">
 <!ENTITY  rememberDownload.accesskey     "ด">
