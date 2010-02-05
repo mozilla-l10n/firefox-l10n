@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion "รุ่น">
 <!ENTITY closeCmdGNOME.label "ปิด">
 <!ENTITY closeCmdGNOME.accesskey "ป">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Licensing information">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkText            "ข้อมูลสัญญาอนุญาต">
+<!ENTITY licenseLinkSuffix          "">
