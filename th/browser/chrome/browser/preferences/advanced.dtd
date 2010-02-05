@@ -54,8 +54,8 @@
 <!ENTITY autoCheck.label "ตรวจสอบการปรับปรุงอัตโนมัติกับ :">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "ส่วนเสริมที่ติดตั้งอยู่">
-<!ENTITY enableAddonsUpdate.accesskey "ต">
+<!ENTITY enableAddonsUpdate2.label       "ส่วนเสริม">
+<!ENTITY enableAddonsUpdate2.accesskey   "ส">
 <!ENTITY enableSearchUpdate.label "เครื่องมือค้นหา">
 <!ENTITY enableSearchUpdate.accesskey "ค">
 <!ENTITY whenUpdatesFound.label "เมื่อพบการปรับปรุงใด ๆ ของ &brandShortName; :">
