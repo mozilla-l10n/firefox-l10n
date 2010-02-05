@@ -13,22 +13,22 @@
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: Welcome
+#define bookmarks_welcome Firefox: Selamat Datang
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_about Firefox: About
+#define bookmarks_aboutBrowser Firefox: Tentang peramban Anda
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Synchronize using Weave
+#define bookmarks_weave Firefox: Sinkronisasi dengan Weave
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Ubahsuai dengan pengaya
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Layanan Dukungan
 
 #unfilter emptyLines
