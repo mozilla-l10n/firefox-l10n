@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're 
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "ส่วนเสริม">
+<!ENTITY aboutSupport.extensionName "ชื่อ">
+<!ENTITY aboutSupport.extensionEnabled "เปิดใช้งาน">
+<!ENTITY aboutSupport.extensionVersion "รุ่น">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "แอปพลิเคชั่นพื้นฐาน">
+<!ENTITY aboutSupport.appBasicsName "ชื่อ">
+<!ENTITY aboutSupport.appBasicsVersion "รุ่น">
+<!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรี่โพรไฟล์">
+<!ENTITY aboutSupport.appBasicsPlugins "ส่วนเสริมที่ถูกติดตั้งไว้">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+
+<!ENTITY aboutSupport.show.label "เปิดดูโฟลเดอร์">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "แสดงใน Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "การตั้งค่าที่ถูกแก้ไข">
+<!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
+<!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
+
+<!ENTITY aboutSupport.installationHistoryTitle "ประวัติการติดตั้ง">
+<!ENTITY aboutSupport.updateHistoryTitle "ประวัติการปรับรุ่น">
+
+<!ENTITY aboutSupport.copyToClipboard.label "คัดลอกทั้งหมดไปยังคลิปบอร์ด">
