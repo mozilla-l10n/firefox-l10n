@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey "ก">
 <!ENTITY view.sortDescending.label "เรียงลำดับ ฮ > ก">
 <!ENTITY view.sortDescending.accesskey "ฮ">
-<!ENTITY help.usingBookmarks.label "การใช้รายการที่คั่นหน้าเว็บ">
-<!ENTITY help.usingBookmarks.accesskey "ค">
-<!ENTITY help.usingHistory.label "ใช้ประวัติ">
-<!ENTITY help.usingHistory.accesskey "ช">
-<!ENTITY help.advancedTips.label "กลเม็ดเคล็ดลับชั้นสูง">
-<!ENTITY help.advancedTips.accesskey "ค">
 
 <!ENTITY cmd.findInBookmarks.label "หาในรายการที่คั่นหน้าเว็บ…">
 <!ENTITY cmd.findInBookmarks.accesskey "ห">
@@ -90,7 +84,6 @@
 <!ENTITY cmd.properties.label "คุณสมบัติ">
 <!ENTITY cmd.properties.accesskey "ส">
 
-<!ENTITY cmd.show_info.key "i">
 
 <!ENTITY cmd.rename.label "เปลี่ยนชื่อ">
 <!ENTITY cmd.rename.accesskey "ป">
@@ -114,14 +107,6 @@
 <!ENTITY cmd.reloadMicrosummary.label "เรียกไลฟ์ไตเติ้ลใหม่">
 <!ENTITY cmd.reloadMicrosummary.accesskey "ร">
 
-<!ENTITY cmd.groupby_site.label "จัดกลุ่มตามไซต์">
-<!ENTITY cmd.groupby_site.accesskey "ซ">
-<!ENTITY cmd.groupby_page.label "จัดกลุ่มตามหน้า">
-<!ENTITY cmd.groupby_page.accesskey "น">
-<!ENTITY cmd.groupby_feed.label "จัดกลุ่มตามการบอกรับ">
-<!ENTITY cmd.groupby_feed.accesskey "บ">
-<!ENTITY cmd.groupby_post.label "จัดกลุ่มตามโพสต์">
-<!ENTITY cmd.groupby_post.accesskey "พ">
 
 <!ENTITY cmd.moveBookmarks.label "ย้าย…">
 <!ENTITY cmd.moveBookmarks.accesskey "ย">
@@ -146,54 +131,14 @@
 <!ENTITY search.scopeDownloads.accesskey "ด">
 <!ENTITY search.scopeHistory.label "ประวัติ">
 <!ENTITY search.scopeHistory.accesskey "ป">
-<!ENTITY search.scopeBarExpanderDown.tooltip "แสดงเกณฑ์ค้นหาเพิ่มเติม">
-<!ENTITY search.scopeBarExpanderUp.tooltip "ซ่อนเกณฑ์ค้นหาเพิ่มเติม">
 <!ENTITY saveSearch.label "บันทึก">
 <!ENTITY saveSearch.accesskey "บ">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "ค้นเฉพาะในรายการที่คั่นหน้าเว็บ">
-<!ENTITY advancedSearch.match.label "ตรงกับ">
-<!ENTITY advancedSearch.all.label "ทุกกฎ">
-<!ENTITY advancedSearch.any.label "กฎไหนก็ได้">
-<!ENTITY advancedSearch.rules.label "ของกฎดังต่อไปนี้ :">
-<!ENTITY advancedSearch.subj_keyword.label "มีข้อความ">
-<!ENTITY advancedSearch.subj_visited.label "เข้าชม">
-<!ENTITY advancedSearch.subj_location.label "ที่ตั้ง">
-<!ENTITY advancedSearch.location_startswith.label "เริ่มด้วย">
-<!ENTITY advancedSearch.location_is.label "คือ">
-<!ENTITY advancedSearch.location_onsite.label "อยู่ในเว็บไซต์">
-<!ENTITY advancedSearch.time_is.label "เมื่อ">
-<!ENTITY advancedSearch.time_before.label "ก่อน">
-<!ENTITY advancedSearch.time_after.label "หลัง">
-<!ENTITY advancedSearch.time_inlast.label "ที่ผ่านสุด">
-<!ENTITY advancedSearch.last_days.label "วัน">
-<!ENTITY advancedSearch.last_weeks.label "สัปดาห์">
-<!ENTITY advancedSearch.last_months.label "เดือน">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "จัดกลุ่มตาม :">
-<!ENTITY advancedSearch.groupby_host.label "โฮสต์">
-<!ENTITY advancedSearch.groupby_domain.label "โดเมน">
-<!ENTITY advancedSearch.groupby_folder.label "โฟลเดอร์">
-<!ENTITY advancedSearch.sortby.label "เรียงตาม :">
-<!ENTITY advancedSearch.sortby_title.label "หัวเรื่อง">
-<!ENTITY advancedSearch.sortby_date.label "วันที่">
-<!ENTITY advancedSearch.sortby_visit.label "จำนวนเข้าชม">
-<!ENTITY advancedSearch.sortby_url.label "url">
-<!ENTITY advancedSearch.sortby_asc.label "จากน้อยไปมาก">
-<!ENTITY advancedSearch.sortby_desc.label "จากมากไปน้อย">
-<!ENTITY advancedSearch.max.label "จำนวนผลลัพธ์สูงสุด :">
 
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY feed.subscribe.label "ฟีด">
 <!ENTITY feed.subscribe.tooltip "บอกรับ">
 
-<!ENTITY view.detailsMacOSX.label "รายการ">
-<!ENTITY view.details.label "รายละเอียด">
-<!ENTITY view.details.accesskey "ล">
-
-<!ENTITY view.addons.label "ดึงส่วนเสริมมุมมอง">
 
 <!ENTITY maintenance.label "นำเข้าและสำรองข้อมูล">
 <!ENTITY maintenance.accesskey "น">
