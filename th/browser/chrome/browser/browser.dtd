@@ -32,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "ทำงานออฟไลน์">
 <!ENTITY goOfflineCmd.accesskey "ฟ">
 
+<!ENTITY menubarCmd.label "แถบเมนู">
+<!ENTITY menubarCmd.accesskey "ถ">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY navbarCmd.accesskey "น">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้าเว็บ">
@@ -48,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
 <!ENTITY fullScreenCmd.accesskey "จ">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
+<!ENTITY showAllTabsCmd.accesskey "ม">
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อหาย">
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
@@ -188,9 +193,9 @@
 
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
-<!ENTITY historyUndoMenu.label "แท็บที่ปิดล่าสุด">
+<!ENTITY historyUndoMenu.label "แท็บที่เพิ่งปิด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "หน้าต่างที่ปิดล่าสุด">
+<!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิด">
 
 <!ENTITY historyHomeCmd.label "หน้าแรก">
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
@@ -257,6 +262,8 @@
 <!ENTITY reloadImageCmd.label "เรียกดูภาพใหม่">
 <!ENTITY reloadImageCmd.accesskey "ร">
 <!ENTITY viewImageCmd.label "ดูภาพ">
+<!ENTITY viewImageInfoCmd.label       "ดูข้อมูลภาพ">
+<!ENTITY viewImageInfoCmd.accesskey   "พ">
 <!ENTITY viewVideoCmd.label           "ดูวีดิทัศน์">
 <!ENTITY viewVideoCmd.accesskey       "ว">
 <!ENTITY viewImageCmd.accesskey "ภ">
@@ -310,9 +317,7 @@
 <!ENTITY copyAudioURLCmd.label "คัดลอก URL ของเสียง">
 <!ENTITY copyAudioURLCmd.accesskey "ข">
 <!ENTITY blockImageCmd.accesskey "ก">
-<!ENTITY metadataCmd.label "คุณสมบัติ">
-<!ENTITY metadataCmd.accesskey "ค">
-<!ENTITY copyEmailCmd.label "คัดลอกที่อยู่อีเมล">
+<!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
 <!ENTITY copyEmailCmd.accesskey "อ">
 <!ENTITY thisFrameMenu.label "กรอบนี้">
 <!ENTITY thisFrameMenu.accesskey "ก">
@@ -366,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip "ตัด">
 <!ENTITY copyButton.tooltip "คัดลอก">
 <!ENTITY pasteButton.tooltip "แปะ">
+<!ENTITY fullScreenButton.tooltip       "แสดงหน้าต่างแบบเต็มหน้าจอ">
 
 <!ENTITY quitApplicationCmdWin.label "ออก">
 <!ENTITY quitApplicationCmdWin.accesskey "อ">
@@ -442,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "คลิกเพื่อเปิดหน้าต่างดาวน์โหลด">
 
-<!ENTITY ctrlTab.search.emptyText "ค้นแท็บ">
+<!ENTITY allTabs.filter.emptyText "ค้นแท็บ">
