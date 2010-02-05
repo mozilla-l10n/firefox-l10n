@@ -33,10 +33,3 @@
 <!ENTITY savedPasswords.label "รหัสผ่านที่บันทึกไว้…">
 <!ENTITY savedPasswords.accesskey "ร">
 
-
-<!ENTITY warnings.label "ข้อความเตือน">
-
-<!ENTITY chooseWarnings.label "เลือกข้อความเตือนที่ต้องการให้แสดงเมื่อเข้าชมเว็บ">
-
-<!ENTITY warningSettings.label "ตั้งค่า…">
-<!ENTITY warningSettings.accesskey "ต">
