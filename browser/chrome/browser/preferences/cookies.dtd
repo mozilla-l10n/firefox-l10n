@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label "คุกกี้ที่อยู่บนเครื่องคอมพิวเตอร์นี้ :">
 <!ENTITY cookiename.label "ชื่อคุกกี้">
 <!ENTITY cookiedomain.label "ไซต์">
+<!ENTITY     button.removecookies.label     "ลบคุกกี้">
 <!ENTITY button.removecookie.label "ลบคุกกี้">
 <!ENTITY button.removecookie.accesskey "ค">
 <!ENTITY button.removeallcookies.label "ลบคุกกี้ทั้งหมด">
