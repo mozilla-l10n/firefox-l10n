@@ -1,10 +1,14 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
 <!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
+
+<!-- Specific error messages -->
+
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-<!ENTITY deniedPortAccess.title "Alamat ini dibatasi pemakaiannya">
+<!ENTITY deniedPortAccess.title "Penggunaan alamat ini telah dibatasi">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Server tidak ditemukan">
 <!ENTITY dnsNotFound.longDesc "
@@ -29,10 +33,10 @@
 <!ENTITY generic.longDesc "
 <p>Untuk alasan tertentu &brandShortName; tidak dapat memuat laman ini.</p>
 ">
-<!ENTITY malformedURI.title "Alamat berikut tidak valid">
+<!ENTITY malformedURI.title "Alamat berikut tidak sah">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Alamat web biasanya ditulis seperti ini
+  <li>Umumnya alamat web ditulis seperti ini
     <strong>http://www.example.com/</strong></li>
   <li>Pastikan Anda menggunakan garis miring depan, yakni
     <strong>/</strong>).</li>
@@ -40,12 +44,18 @@
 ">
 <!ENTITY netInterrupt.title "Sambungan terputus">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
-<!ENTITY netOffline.title "Mode luring">
-<!ENTITY netOffline.longDesc "
+
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Matikan &quot;Bekerja Luring&quot; pada menu Berkas lalu coba lagi.</li>
+  <li>Coba lagi. &brandShortName; akan mencoba menyambung dan memuat ulang halaman.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Mode luring">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -60,7 +70,7 @@
 ">
 <!ENTITY netReset.title "Sambungan diputus">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
-<!ENTITY netTimeout.title "Sambungan time out">
+<!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 <!ENTITY protocolNotFound.title "Alamat tidak dapat dipahami oleh program">
 <!ENTITY protocolNotFound.longDesc "
@@ -100,19 +110,19 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang dikirimkan tidak bisa diverifikasi.</li>
-  <li>Mohon hubungi pemilik situs web mengenai masalah ini. Anda juga bisa menggunakan menu bantuan untuk melaporkan situs web yang bermasalah ini.</li>
+  <li>Mohon hubungi pemilik situs web mengenai masalah ini. Anda juga bisa menggunakan menu Bantuan untuk melaporkan situs web yang bermasalah ini.</li>
 </ul>
 ">
 <!ENTITY nssBadCert.title "Sambungan Aman Gagal">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Hal ini mungkin terjadi karena masalah pada konfigurasi server atau pihak tertentu mencoba menyamar menjadi server tersebut.</li>
+  <li>Hal ini mungkin terjadi karena masalah pada konfigurasi server atau pihak tertentu mencoba menyamar menjadi server pada alamat di atas.</li>
   <li>Jika Anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan Anda dapat mencoba lagi nanti.</li>
 </ul>
 ">
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Situs mungkin sementara tidak menyala atau terlalu sibuk. Coba beberapa saat lagi.</li>
+  <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li>
   <li>Apabila Anda tidak dapat memuat laman apapun, periksa sambungan jaringan komputer Anda.</li>
   <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
 </ul>
@@ -124,14 +134,14 @@
 ">
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
 <!ENTITY phishingBlocked.longDesc '
-<p>Dengan memasukkan informasi pribadi pada laman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p>
+<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p>
 <p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>
 '>
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!ENTITY securityOverride.warningText "
-<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika biasanya Anda tidak pernah melihat peringatan tentang server ini.</p>
+<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika umumnya Anda tidak pernah melihat peringatan sejenis tentang server ini.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>

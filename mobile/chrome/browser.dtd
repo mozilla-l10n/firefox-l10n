@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "Maju">
 <!ENTITY reload.label          "Muat Ulang">
 <!ENTITY stop.label            "Stop">
-<!ENTITY search.label          "Cari">
 <!ENTITY go.label              "Buka">
 <!ENTITY openLocation.label    "Buka lokasi">
 <!ENTITY star.label            "Bookmark">

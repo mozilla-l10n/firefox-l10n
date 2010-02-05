@@ -1,20 +1,14 @@
 <!ENTITY prefsHeader.label                         "Pengaturan">
 <!ENTITY about.title                               "Tentang &brandShortName;">
 <!ENTITY about.button                              "Buka">
-<!ENTITY about.description                         "Dapatkan bantuan dan informasi produk">
 <!ENTITY content.title                             "Isi">
 <!ENTITY showImages.title                          "Tampilkan gambar">
 <!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
-<!ENTITY enableJavaScript.description              "Umumnya situs web interaktif menggunakan JavaScript">
 <!ENTITY enablePlugins.title                       "Aktifkan Plugin">
-<!ENTITY enablePlugins.description                 "Plugins digunakan untuk isi tertentu, contohnya video">
 <!ENTITY privacy.title                             "Privasi &amp; Keamanan">
 <!ENTITY allowCookies.title                        "Izinkan cookie">
-<!ENTITY allowCookies.description                  "Situs menggunakan cookie untuk mengidentifikasi Anda serta mengingat pengaturan Anda">
-<!ENTITY clearPrivateData.title                    "Berishkan riwayar penjelajahan terakhir">
+<!ENTITY clearPrivateData2.title                   "Bersihkan data pribadi">
 <!ENTITY clearPrivateData.button                   "Bersihkan">
-<!ENTITY clearPrivateData.description              "Riwayat Anda membantu &brandShortName; untuk memberi saran alamat yang Anda buka">
 <!ENTITY rememberPasswords.title                   "Ingat keta sandi">
 <!ENTITY language.title                            "Bahasa">
-<!ENTITY language.description                      "Pilih bahasa yang ingin digunakan untuk &brandShortName;">
 <!ENTITY language.auto                             "Deteksi otomatis">
