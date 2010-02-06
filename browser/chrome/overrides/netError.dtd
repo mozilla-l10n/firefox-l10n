@@ -141,6 +141,8 @@
 <!ENTITY phishingBlocked.title "¡Posible sitio web fraudulento!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducir cualquier información personal en esta página puede resultar en un robo de identidad u otro fraude.</p>
 <p>Estos tipos de webs fraudulentas son usadas en ataques de phishing, en los cuales páginas y correos electrónicos fraudulentos se utilizan para imitar fuentes en las que confías.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; previno que esta página se cargara de esta manera porque ésta tiene una política de seguridad de contenido que lo previene.</p>">
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
