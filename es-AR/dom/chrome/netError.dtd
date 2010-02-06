@@ -79,6 +79,8 @@
 <p>Ingresar cualquier información personal en esta página puede resultar en un robo de identidad o algún otro fraude.</p>
 <p>Estos tipos de falsificaciones web son usados en estafas conocidas como ataques de <i>phishing</i>, en los que páginas web y correos electrónicos fraudulentos son usados para imitar páginas en las que puede confiar.</p>
 ">
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
