@@ -208,6 +208,9 @@
 <p>Den här typen av webbförfalskningar används i något som kallas nätfiske där falska webbsidor och e-postmeddelanden används för att imitera källor du kanske litar på.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Webbläsaren förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
