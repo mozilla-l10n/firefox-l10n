@@ -164,6 +164,9 @@
 <p>Den här typen av webbförfalskningar används i något som kallas nätfiske där falska webbsidor och e-postmeddelanden används för att imitera källor du kanske litar på.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
+
 <!ENTITY securityOverride.linkText "Eller så kan du lägga till ett undantag…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ta mig härifrån!">
 <!ENTITY securityOverride.exceptionButtonLabel "Lägg till undantag…">
