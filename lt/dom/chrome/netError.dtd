@@ -112,6 +112,9 @@
 <p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose apgaulingi tinklalapiai ir el. laiškai pasitelkiami, siekiant sudaryti patikimo šaltinio įvaizdį.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

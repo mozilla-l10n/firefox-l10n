@@ -156,6 +156,8 @@ bandykite prisijungti iš naujo.</li>
 <p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose, siekiant sudaryti patikimo šaltinio įvaizdį, pasitelkiami apgaulingi tinklalapiai ir elektroniniai laiškai.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
