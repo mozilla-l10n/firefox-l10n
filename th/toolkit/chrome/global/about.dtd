@@ -1,8 +1,10 @@
 <!ENTITY about.version "รุ่น">
 
-<!ENTITY about.copy.beforeLink "ลิขสิทธิ์ &copy; 1998-2008 โดย">
-<!ENTITY about.copy.linkTitle "ผู้ร่วมสมทบ">
-<!ENTITY about.copy.afterLink "ในโครงการ Mozilla Project">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "ดูรายชื่อ ">
+<!ENTITY about.credits.linkTitle      "ผู้ร่วมสมทบ">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      "ในโครงการ Mozilla">
 
 <!ENTITY about.license.beforeLink "อ่าน">
 <!ENTITY about.license.linkTitle "ข้อมูลเกี่ยวกับสัญญาอนุญาต">
