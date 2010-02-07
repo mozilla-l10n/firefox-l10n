@@ -130,6 +130,6 @@
 <!ENTITY protectedAuth.msg "โปรดพิสูจน์ว่าโทเค็นเป็นของจริง วิธีพิสูจน์จะขึ้นกับชนิดของโทเค็น">
 <!ENTITY protectedAuth.tokenName.label "โทเค็น :">
 
-<!ENTITY certErrorDlg.title "Secure Connection Failed">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
+<!ENTITY certErrorDlg.title "การเชื่อต่อนิรภัยล้มเหลว">
+<!ENTITY certErrorDlg.info1 "นี่อาจจะเป็นปัญหาจากการตั้งค่าเซิร์ฟเวอร์หรือบางคนกำลังพยายามลอกเลียนเซิร์ฟเวอร์นี้">
+<!ENTITY certErrorDlg.info2 "ถ้าคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์อย่างไม่มีปัญหามาก่อน นี่อาจจะเป็นปัญหาชั่วคราวและคุณสามารถลองเชื่อมต่อใหม่อีกครั้งคราวหน้า">
