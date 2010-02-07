@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "ช่วยเหลือ">
 <!ENTITY helpMenuWin.accesskey "ช">
-<!ENTITY aboutCmd.label "เกี่ยวกับ &brandFullName;">
-<!ENTITY aboutCmd.accesskey "ก">
+<!ENTITY aboutProduct.label "เกี่ยวกับ &brandFullName;">
+<!ENTITY aboutProduct.accesskey "ก">
 <!ENTITY productHelp.label        "การช่วยเหลือของ &brandShortName;">
 <!ENTITY productHelp.accesskey    "ช">
 <!ENTITY helpForIEUsers.label "สำหรับผู้ใช้ Internet Explorer">
@@ -22,8 +22,8 @@
 <!ENTITY helpReleaseNotes.label "บันทึกประจำรุ่น">
 <!ENTITY helpReleaseNotes.accesskey "บ">
 
-<!ENTITY helpTroubleshooting.label      "ข้อมูลการแก้ไขปัญหา…">
-<!ENTITY helpTroubleshooting.accesskey  "ป">
+<!ENTITY helpTroubleshootingInfo.label      "ข้อมูลการแก้ไขปัญหา">
+<!ENTITY helpTroubleshootingInfo.accesskey  "ป">
 
 <!ENTITY updateCmd.label "ตรวจหาการปรับปรุง…">
 
