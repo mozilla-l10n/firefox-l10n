@@ -1,7 +1,7 @@
-<!ENTITY playButton.playLabel "Play">
-<!ENTITY playButton.pauseLabel "Pause">
-<!ENTITY muteButton.muteLabel "Mute">
-<!ENTITY muteButton.unmuteLabel "Unmute">
+<!ENTITY playButton.playLabel "เล่น">
+<!ENTITY playButton.pauseLabel "หยุด">
+<!ENTITY muteButton.muteLabel "ปิดเสียง">
+<!ENTITY muteButton.unmuteLabel "เปิดเสียง">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
