@@ -177,7 +177,7 @@
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label                             "Layanan">
 <!ENTITY hideThisAppCmdMac.label                           "Sembunyikan &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey                      "S">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
 <!ENTITY hideOtherAppsCmdMac.label                         "Sembunyikan Lainnya">
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
