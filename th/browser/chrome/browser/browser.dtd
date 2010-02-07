@@ -172,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label "ปรับแต่ง">
 <!ENTITY preferencesCmdUnix.accesskey "ต">
 
-<!ENTITY clearRecentHistoryCmd.label            "ล้างประวัติเมื่อเร็ว ๆ นี้">
-<!ENTITY clearRecentHistoryCmd.accesskey        "ล">
+<!ENTITY clearRecentHistory.label            "ล้างประวัติเมื่อเร็ว ๆ นี้…">
+<!ENTITY clearRecentHistory.accesskey        "ล">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "เริ่มการดูเว็บแบบส่วนตัว">
@@ -235,6 +235,8 @@
 
 <!ENTITY openLinkCmd.label "เปิดลิงก์ในหน้าต่างใหม่">
 <!ENTITY openLinkCmd.accesskey "น">
+<!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
+<!ENTITY openLinkCmdInCurrent.accesskey "ล">
 <!ENTITY openLinkCmdInTab.label "เปิดลิงก์ในแท็บใหม่">
 <!ENTITY openLinkCmdInTab.accesskey "ท">
 <!ENTITY openFrameCmd.label "เปิดกรอบในหน้าต่างใหม่">
@@ -306,8 +308,6 @@
 <!ENTITY sendAudioCmd.accesskey "ส">
 <!ENTITY copyLinkCmd.label "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey "ต">
-<!ENTITY copyLinkTextCmd.label "คัดลอกข้อความลิงก์">
-<!ENTITY copyLinkTextCmd.accesskey "ข">
 <!ENTITY copyImageCmd.label "คัดลอกที่ตั้งภาพ">
 <!ENTITY copyImageCmd.accesskey "ค">
 <!ENTITY copyImageContentsCmd.label "คัดลอกภาพ">
@@ -335,6 +335,8 @@
 <!ENTITY mediaShowControls.accesskey "ส">
 <!ENTITY mediaHideControls.label "ซ่อนปุ่มควบคุม">
 <!ENTITY mediaHideControls.accesskey "น">
+<!ENTITY videoFullScreen.label       "เต็มจอ">
+<!ENTITY videoFullScreen.accesskey   "ต">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
