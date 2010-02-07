@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "ชื่อใบรับรอง">
 <!ENTITY certmgr.certserver "เซิร์ฟเวอร์">
-<!ENTITY certmgr.typesofoverrides "ยกเว้น">
 <!ENTITY certmgr.override_lifetime "อายุการใช้งาน">
 <!ENTITY certmgr.tokenname "กลไกความปลอดภัย">
-<!ENTITY certmgr.purpose "วัตถุประสงค์">
 <!ENTITY certmgr.issued "ออกเมื่อ">
 <!ENTITY certmgr.expires "หมดอายุเมื่อ">
 <!ENTITY certmgr.email "ที่อยู่อีเมล">
