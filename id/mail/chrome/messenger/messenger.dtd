@@ -760,9 +760,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Layanan">
 <!ENTITY hideThisAppCmdMac.label        "Sembunyikan &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "S">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Sembunyikan Lainnya">
-<!ENTITY hideOtherAppsCmdMac.commandkey "S">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Tampilkan Semua">
