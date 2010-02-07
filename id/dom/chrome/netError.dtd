@@ -86,6 +86,9 @@
 <p>Jenis pemalsuan web yang dikenal sebagai "phishing attacks", memalsukan laman web dan email yang Anda percaya.</p>
 '>
 
+<!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Peramban mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

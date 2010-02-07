@@ -154,6 +154,9 @@
 <p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>
 '>
 
+<!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
