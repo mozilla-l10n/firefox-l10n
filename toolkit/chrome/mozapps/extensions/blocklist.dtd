@@ -1,10 +1,10 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
+<!ENTITY blocklist.title             "ส่วนเสริมที่อาจจะสร้างปัญหา">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.summary           "&brandShortName; ได้ตรวจสอบแล้วว่าส่วนเสริมดังกล่าวอาจจะสร้างปัญหาด้านเสถียรภาพและความปลอดภัย:">
+<!ENTITY blocklist.softblocked       "เพื่อการป้องกันของคุณ เราแนะนำให้คุณปิดใช้งานส่วนเสริมเหล่านี้แล้วเริ่มเบราเซอร์ใหม่">
+<!ENTITY blocklist.hardblocked       "ส่วนเสริมเหล่านี้ถูกปิดกั้นเพราะมีความเสี่ยงสูงที่จะก่อให้เกิดปัญหาด้านเสถียรภาพและความปลอดภัย การเริ่มเบราเซอร์ใหม่จะเป็นการปิดการใช้งานส่วนเสริมเหล่านั้นอย่างถาวร">
+<!ENTITY blocklist.softandhard       "ส่วนเสริมเหล่านี้ถูกปิดกั้นเพราะมีความเสี่ยงสูงที่จะก่อให้เกิดปัญหาด้านเสถียรภาพและความปลอดภัย ส่วนเสริมอื่น ๆ นั้นมีความเสี่ยงต่ำกว่า แต่เราแนะนำให้คุณปิดใช้งานส่วนเสริมเหล่านั้นและเริ่มเบราเซอร์ใหม่">
+<!ENTITY blocklist.moreinfo          "ข้อมูลเพิ่มเติม">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.accept.label      "เริ่ม &brandShortName; ใหม่">
+<!ENTITY blocklist.accept.accesskey  "ร">
