@@ -35,21 +35,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "Print…">
-<!ENTITY print.accesskey "P">
-<!ENTITY pageSetup.label "Page Setup…">
-<!ENTITY pageSetup.accesskey "u">
-<!ENTITY page.label "Page:">
-<!ENTITY page.accesskey "a">
-<!ENTITY of.label "of">
-<!ENTITY scale.label "Scale:">
-<!ENTITY scale.accesskey "S">
-<!ENTITY portrait.label "Portrait">
-<!ENTITY portrait.accesskey "o">
-<!ENTITY landscape.label "Landscape">
-<!ENTITY landscape.accesskey "L">
-<!ENTITY close.label "Close">
-<!ENTITY close.accesskey "C">
+<!ENTITY print.label "พิมพ์…">
+<!ENTITY print.accesskey "ไ">
+<!ENTITY pageSetup.label "ตั้งค่าหน้า…">
+<!ENTITY pageSetup.accesskey "ต">
+<!ENTITY page.label "หน้า:">
+<!ENTITY page.accesskey "น">
+<!ENTITY of.label "จาก">
+<!ENTITY scale.label "อัตราส่วน:">
+<!ENTITY scale.accesskey "อ">
+<!ENTITY portrait.label "แนวตั้ง">
+<!ENTITY portrait.accesskey "ง">
+<!ENTITY landscape.label "แนวนอน">
+<!ENTITY landscape.accesskey "น">
+<!ENTITY close.label "ปิด">
+<!ENTITY close.accesskey "ป">
 <!ENTITY p30.label "30&#037;">
 <!ENTITY p40.label "40&#037;">
 <!ENTITY p50.label "50&#037;">
@@ -62,11 +62,11 @@
 <!ENTITY p150.label "150&#037;">
 <!ENTITY p175.label "175&#037;">
 <!ENTITY p200.label "200&#037;">
-<!ENTITY Custom.label "Custom…">
-<!ENTITY ShrinkToFit.label "Shrink To Fit">
-<!ENTITY customPrompt.title "Custom Scale…">
+<!ENTITY Custom.label "ปรับแต่ง…">
+<!ENTITY ShrinkToFit.label "ย่อให้พอดีกระดาษ">
+<!ENTITY customPrompt.title "ปรับแต่งอัตราส่วน…">
 
-<!ENTITY homearrow.tooltip "First page">
-<!ENTITY endarrow.tooltip "Last page">
-<!ENTITY rightarrow.tooltip "Next page">
-<!ENTITY leftarrow.tooltip "Previous page">
+<!ENTITY homearrow.tooltip "หน้าแรก">
+<!ENTITY endarrow.tooltip "หน้าสุดท้าย">
+<!ENTITY nextarrow.tooltip "หน้าถัดไป">
+<!ENTITY previousarrow.tooltip "หน้าก่อนหน้า">
