@@ -6,6 +6,10 @@
 <!ENTITY checking.title "ตรวจหาการปรับปรุง">
 <!ENTITY  updateCheck.label               "กำลังตรวจหา &brandShortName; รุ่นใหม่…">
 
+<!ENTITY  pluginupdatesfound.title        "พบการปรับรุ่นของส่วนเสริม">
+<!ENTITY  pluginupdatesfound.label        "พบการปรับรุ่นของส่วนเสริมส่วนหนึ่งของคุณ">
+<!ENTITY  pluginupdateslink.label         "ดูวิธีการปรับรุ่นของส่วนเสริของคุณ">
+
 <!ENTITY noupdatesfound.title "ไม่พบการปรับปรุง">
 <!ENTITY noupdatesautoenabled.intro "ไม่พบการปรับปรุงใหม่ &brandShortName; 
 จะตรวจหาการปรับปรุงเป็นระยะ">
