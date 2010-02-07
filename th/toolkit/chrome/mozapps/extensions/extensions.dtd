@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey "ต">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "ตรวจหาการปรับปรุงส่วนเสริม">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "ตรวจหาการปรับปรุงชุดตกแต่ง">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "ค้นหาส่วนเสริมที่มีการปรับรุ่น">
 <!ENTITY cmd.installLocalFile.label "ติดตั้ง…">
 <!ENTITY cmd.installLocalFile.accesskey "ต">
 <!ENTITY cmd.installFileAddon.tooltip "ติดตั้งส่วนเสริม">
 <!ENTITY cmd.installFileTheme.tooltip "ติดตั้งชุดตกแต่ง">
-<!ENTITY cmd.installUpdatesAll.label "ติดตั้งชุดปรับปรุง">
-<!ENTITY cmd.installUpdatesAll.accesskey "ต">
-<!ENTITY cmd.installUpdatesAll.tooltip "ติดตั้งชุดปรับปรุงที่เลือกไว้">
+<!ENTITY cmd.installUpdatesAll2.label     "ติดตั้งการปรับรุ่น">
+<!ENTITY cmd.installUpdatesAll2.accesskey "ร">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "ติดตั้งการปรับรุ่นที่เลือก">
 <!ENTITY cmd.restartApp2.label "เริ่ม &brandShortName; ใหม่">
 <!ENTITY cmd.restartApp2.accesskey "ร">
 <!ENTITY cmd.restartApp2.tooltip "เริ่ม &brandShortName; ใหม่ เพื่อให้การเปลี่ยนแปลงมีผล">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label "ต้องการรายการเพิ่มเติม">
 <!ENTITY blocklisted.label "ถูกปิดใช้งานเพื่อปกป้องคุณ">
 <!ENTITY softBlocklisted.label            "มีรายงานว่าก่อปัญหาความปลอดภัยหรือเสถียรภาพ">
+<!ENTITY outdated.label                   "รุ่นที่ใหม่กว่า ปลอดภัยกว่ามีให้ใช้งานแล้ว">
 <!ENTITY toBeDisabled.label "ส่วนเสริมนี้จะถูกปิดใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
 <!ENTITY toBeEnabled.label "ส่วนเสริมนี้จะถูกเปิดใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
 <!ENTITY toBeInstalled.label "ส่วนเสริมนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ใหม่">
