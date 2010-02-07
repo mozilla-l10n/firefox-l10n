@@ -22,6 +22,7 @@
    - Contributor(s):
    -    Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
    -    Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
+   -    Stefan Plewako <splewako@aviary.pl> (Polish translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -43,9 +44,9 @@
 <!ENTITY AddButton.label "Dodaj">
 <!ENTITY AddButton.accessKey "D">
 <!ENTITY DictionaryList.label "Słowa w słowniku:">
-<!ENTITY DictionaryList.accessKey "w">
+<!ENTITY DictionaryList.accessKey "S">
 <!ENTITY ReplaceButton.label "Zamień">
-<!ENTITY ReplaceButton.accessKey "Z">
+<!ENTITY ReplaceButton.accessKey "a">
 <!ENTITY RemoveButton.label "Usuń">
 <!ENTITY RemoveButton.accessKey "U">
 <!ENTITY CloseButton.label "Zamknij">
