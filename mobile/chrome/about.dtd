@@ -9,6 +9,6 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Kontributor. Hak cipta dilindungi undang-undang. (">
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2010 Kontributor. Hak cipta dilindungi undang-undang. (">
 <!ENTITY aboutPage.licenseLink                  "Informasi Lisensi">
 <!ENTITY aboutPage.copyrightInfo2               ").">
