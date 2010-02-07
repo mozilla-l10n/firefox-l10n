@@ -115,6 +115,8 @@
 <!ENTITY mediaHideControls.label      "Amaga els controls multimèdia">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY search.accesskey "r">
+<!ENTITY videoFullScreen.label        "Pantalla completa">
+<!ENTITY videoFullScreen.accesskey    "P">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Commuta la direcció de la pàgina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Commuta la direcció del text">
