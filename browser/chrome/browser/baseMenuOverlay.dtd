@@ -16,7 +16,6 @@
 <!ENTITY productHelp.accesskey    "ช">
 <!ENTITY helpForIEUsers.label "สำหรับผู้ใช้ Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY helpMac.commandkey "?">
 
 <!ENTITY helpReleaseNotes.label "บันทึกประจำรุ่น">
