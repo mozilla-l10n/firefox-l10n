@@ -72,6 +72,10 @@
 <!ENTITY phishingBlocked.title "ไซต์ต้องสงสัยว่าเป็นไซต์ปลอมแปลง !">
 <!ENTITY phishingBlocked.longDesc "<p>การป้อนข้อมูลส่วนบุคคลลงในหน้าเว็บนี้อาจนำไปสู่การขโมยข้อมูลส่วนบุคคลหรือการหลอกลวงชนิดอื่น ๆ ได้</p> 
 <p>การปลอมแปลงเว็บเช่นนี้จะพบในการหลอกลวงแบบที่เรียกว่าการโจมตีแบบตกเหยื่อ (phishing attack) ซึ่งคือการทำปลอมหน้าเว็บและอีเมลให้เหมือนกับแหล่งที่คุณเชื่อถือ</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>เบราว์เซอร์ทำการปิดกั้นหน้านี้เพราะว่าหน้านี้มีเนื้อหาที่นโยบายความปลอดภัยของเนื้อหาไม่อนุญาตให้แสดงผล</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
