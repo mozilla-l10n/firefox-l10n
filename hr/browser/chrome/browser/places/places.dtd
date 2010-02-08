@@ -37,7 +37,7 @@
 <!ENTITY cmd.findCurrent.label          "Potraži u trenutnoj kolekciji…">
 <!ENTITY cmd.findCurrent.accesskey      "k">
 
-<!ENTITY cmd.exportHTML.label           "Izbaci HTML…">
+<!ENTITY cmd.exportHTML.label           "Izvezi HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "I">
 <!ENTITY cmd.importHTML.label           "Uvezi HTML…">
 <!ENTITY cmd.importHTML.accesskey       "U">
