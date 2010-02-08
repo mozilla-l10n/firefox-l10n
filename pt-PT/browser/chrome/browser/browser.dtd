@@ -12,8 +12,8 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!ENTITY tabCmd.label "Novo separador">
-<!ENTITY tabCmd.accesskey "s">
-<!ENTITY tabCmd.commandkey "t">
+<!ENTITY tabCmd.accesskey "p">
+<!ENTITY tabCmd.commandkey "Q">
 <!ENTITY openLocationCmd.label "Abrir endereço...">
 <!ENTITY openLocationCmd.accesskey "B">
 <!ENTITY openFileCmd.label "Abrir ficheiro...">
@@ -166,7 +166,7 @@ shortcut keys on Linux. -->
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "P">
 <!ENTITY selectAllCmd.label "Seleccionar tudo">
-<!ENTITY selectAllCmd.key "t">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY preferencesCmd.label "Opções...">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -378,7 +378,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY quitApplicationCmdWin.label "Sair">
-<!ENTITY quitApplicationCmdWin.accesskey "S">
+<!ENTITY quitApplicationCmdWin.accesskey "Q">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Sair">
