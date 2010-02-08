@@ -71,6 +71,10 @@
 <!ENTITY phishingBlocked.title "Suspeita de Engodo!">
 <!ENTITY phishingBlocked.longDesc "<p>Introduzir qualquer informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p> 
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio electrónico são utilizadas para imitar fontes em que confia.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador preveniu esta página de carregar desta maneira porque a página tem uma política de segurança de conteúdos que a desactiva.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
