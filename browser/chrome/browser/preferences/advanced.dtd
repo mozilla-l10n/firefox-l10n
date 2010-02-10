@@ -18,6 +18,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "s">
 <!ENTITY checkNow.label "Comprobar ahora">
 <!ENTITY checkNow.accesskey "m">
+<!ENTITY submitCrashes.label "Enviar reportes de fallo">
+<!ENTITY submitCrashes.accesskey "S">
 <!ENTITY networkTab.label "Red">
 <!ENTITY connection.label "Conexión">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
