@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "o">
 <!ENTITY checkNow.label                  "Vérifier maintenant">
 <!ENTITY checkNow.accesskey              "m">
+<!ENTITY submitCrashes.label             "Soumettre les rapports de plantage">
+<!ENTITY submitCrashes.accesskey         "e">
 
 <!ENTITY networkTab.label                "Réseau">
 
