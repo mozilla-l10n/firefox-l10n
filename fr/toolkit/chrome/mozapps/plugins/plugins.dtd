@@ -22,3 +22,21 @@
 <!ENTITY missingPlugin.label                                 "Cliquez ici pour télécharger le plugin.">
 <!ENTITY disabledPlugin.label                                "Le plugin pour ce contenu a été désactivé. Cliquez ici pour gérer vos plugins.">
 <!ENTITY blockedPlugin.label                                 "Ce plugin a été bloqué pour votre protection.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    " ">
+<!ENTITY reloadPlugin.middle                                 "Actualiser la page">
+<!ENTITY reloadPlugin.post                                   " pour essayer à nouveau.">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            " Un ">
+<!ENTITY submittedCrashReport.middle                         "rapport de plantage">
+<!ENTITY submittedCrashReport.post                           " a été soumis.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         " Vous avez désactivé la soumission de ">
+<!ENTITY notSubmittedCrashReport.middle                      "rapport de plantage">
+<!ENTITY notSubmittedCrashReport.post                        ".">
