@@ -18,6 +18,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "р">
 <!ENTITY checkNow.label "Проверить сейчас">
 <!ENTITY checkNow.accesskey "в">
+<!ENTITY submitCrashes.label "Отправлять сообщения о падениях">
+<!ENTITY submitCrashes.accesskey "в">
 <!ENTITY networkTab.label "Сеть">
 <!ENTITY connection.label "Соединение">
 <!ENTITY connectionDesc.label "Настройте параметры соединения &brandShortName; с Интернет">
