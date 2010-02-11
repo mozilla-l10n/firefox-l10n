@@ -12,13 +12,13 @@
 <!ENTITY pluginWizard.installPluginsPage.description.label "Идёт установка плагинов в &brandShortName;…">
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; завершил установку недостающих плагинов:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Узнать о плагинах подробнее или найти недостающие плагины вручную.">
-<!ENTITY pluginWizard.finalPage.restart.label "Для работы плагина(ов) необходимо перезапустить &brandShortName;.">
+<!ENTITY pluginWizard.finalPage.restart.label "Для работы плагинов необходимо перезапустить &brandShortName;.">
 <!ENTITY missingPlugin.label "Нажмите здесь, чтобы загрузить плагин.">
 <!ENTITY disabledPlugin.label "Плагин для этого содержимого был отключён. Для управления вашими плагинами щёлкните здесь.">
 <!ENTITY blockedPlugin.label "Этот плагин был заблокирован в целях вашей безопасности.">
-<!ENTITY reloadPlugin.pre "">
-<!ENTITY reloadPlugin.middle "Перезагрузите страницу">
-<!ENTITY reloadPlugin.post " чтобы попробовать снова.">
+<!ENTITY reloadPlugin.pre "Вы можете попробовать ">
+<!ENTITY reloadPlugin.middle "перезагрузить эту страницу">
+<!ENTITY reloadPlugin.post ".">
 <!ENTITY submittedCrashReport.pre "Ваше ">
 <!ENTITY submittedCrashReport.middle "сообщение о падении">
 <!ENTITY submittedCrashReport.post " было успешно отправлено.">
