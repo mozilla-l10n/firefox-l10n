@@ -38,18 +38,18 @@
 <!ENTITY accessibility.label             "Valdymas">
 
 <!ENTITY useCursorNavigation.label       "Naršymui tinklalapyje naudoti rodyklių klavišus">
-<!ENTITY useCursorNavigation.accesskey   "N">
+<!ENTITY useCursorNavigation.accesskey   "r">
 <!ENTITY searchStartTyping.label         "Paiešką pradėti pradėjus rinkti tekstą">
 <!ENTITY searchStartTyping.accesskey     "P">
 <!ENTITY blockAutoRefresh.label          "Įspėti, jei svetainė bando nukreipti kitur arba atsiųsti tinklalapį iš naujo">
-<!ENTITY blockAutoRefresh.accesskey      "s">
+<!ENTITY blockAutoRefresh.accesskey      "n">
 
 <!ENTITY browsing.label                  "Naršymas">
 
 <!ENTITY useAutoScroll.label             "Automatiškai slinkti dokumentą">
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Slinkti tolygiai">
-<!ENTITY useSmoothScrolling.accesskey    "S">
+<!ENTITY useSmoothScrolling.accesskey    "t">
 <!ENTITY checkSpelling.label             "Tikrinti rašybą renkant tekstą">
 <!ENTITY checkSpelling.accesskey         "k">
 
@@ -58,6 +58,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "e">
 <!ENTITY checkNow.label                  "Tikrinti dabar">
 <!ENTITY checkNow.accesskey              "d">
+<!ENTITY submitCrashes.label             "Išsiųsti strigčių pranešimus">
+<!ENTITY submitCrashes.accesskey         "s">
 
 <!ENTITY networkTab.label                "Tinklas">
 
