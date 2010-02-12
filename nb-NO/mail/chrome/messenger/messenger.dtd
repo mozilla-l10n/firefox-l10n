@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "U">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "Lagrede filer">
+<!ENTITY savedFiles.accesskey "L">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Meldingsfiltre …">
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
@@ -729,8 +732,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Kopier bildeplassering">
-<!ENTITY copyImageCmd.accesskey "d">
+<!ENTITY copyImageAllCmd.label "Kopier bilde">
+<!ENTITY copyImageAllCmd.accesskey "d">
 <!ENTITY copyEmailCmd.label "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stopp">
