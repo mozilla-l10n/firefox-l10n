@@ -21,5 +21,23 @@
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; จำเป็นต้องเริ่มใหม่เพื่อให้โปรแกรมเสริมทำงาน">
   
 <!ENTITY missingPlugin.label "คลิกที่นี่เพื่อดาวน์โหลดโปรแกรมเสริม">
-<!ENTITY disabledPlugin.label "The plugin for this content has been disabled. Click here to manage your plugins.">
-<!ENTITY blockedPlugin.label "This plugin has been blocked for your protection.">
+<!ENTITY disabledPlugin.label "โปรแกรมเสริมที่จะถูกใช้งานกับเนื้อหานี้ถูกปิดใช้งาน คลิกเพื่อจัดการโปรแกรมเสริมของคุณ">
+<!ENTITY blockedPlugin.label "โปรแกรมเสริมนี้ถูกปิดกั้นเพื่อปกป้องคุณ">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "เรียกดูหน้าอีกครั้ง">
+<!ENTITY reloadPlugin.post                                   " หรือลองใหม่">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "รายงาน ">
+<!ENTITY submittedCrashReport.middle                         "ความขัดข้อง">
+<!ENTITY submittedCrashReport.post                           " ถูกส่งแล้ว">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "คุณปิดใช้งาน ">
+<!ENTITY notSubmittedCrashReport.middle                      "การจัดส่ง">
+<!ENTITY notSubmittedCrashReport.post                        "รายงานความขัดข้อง">

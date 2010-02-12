@@ -26,6 +26,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "ท">
 <!ENTITY checkNow.label "ตรวจเดี๋ยวนี้">
 <!ENTITY checkNow.accesskey "ด">
+<!ENTITY submitCrashes.label             "ส่งรายงานความขัดข้อง">
+<!ENTITY submitCrashes.accesskey         "ส">
 
 <!ENTITY networkTab.label "เครือข่าย">
 
