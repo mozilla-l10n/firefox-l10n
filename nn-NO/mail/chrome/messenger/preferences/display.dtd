@@ -24,7 +24,7 @@
 <!ENTITY backgroundColor.accesskey        "B">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Vis smilefjes som grafikk">
+<!ENTITY convertEmoticons.label        "Vis smilefjes som bilete">
 <!ENTITY convertEmoticons.accesskey    "V">
 
 <!-- labels -->

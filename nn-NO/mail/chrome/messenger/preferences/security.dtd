@@ -22,8 +22,8 @@
 <!ENTITY resetTrainingData.accesskey "S">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meldingar og sjå etter mogleg e-postsvindel ved å leite etter vanlege teknikkar brukt for å lure deg.">
-<!ENTITY enablePhishingDetector1.label    "Fortel meg om meldinga eg les er mistenkte e-postsvindel">
+<!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meldingar og oppdage mogleg e-postsvindel ved å sjå etter vanlege teknikkar brukt for å lure deg.">
+<!ENTITY enablePhishingDetector1.label    "Fortel meg om meldinga eg les er mistenkt e-postsvindel">
 <!ENTITY enablePhishingDetector1.accesskey  "F">
 <!ENTITY useDownloadedList.label "Bruk ei nedlasta liste over mistenkt e-postsvindel">
 <!ENTITY useDownloadedList.accesskey "B">
@@ -32,7 +32,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; kan hugse passordinformasjon for alle kontoane dine, slik at du ikkje treng å skrive inn innloggingsdetaljane fleire gonger.">
 <!ENTITY useMasterPassword.label        "Bruk eit hovudpassord">
 <!ENTITY useMasterPassword.accesskey    "B">
-<!ENTITY masterPassword.intro           "Eit hovudpassord vil verne alle passorda dine, men du må skrive det inn ein gong for kvar programøkt.">
+<!ENTITY masterPassword.intro           "Du kan bruke eit hovudpassord for å verne alle passorda dine, men du må skrive inn passordet ein gong for kvar programøkt.">
 <!ENTITY changeMasterPassword.label     "Endre hovudpassord …">
 <!ENTITY changeMasterPassword.accesskey "E">
 <!ENTITY savedPasswords.label           "Lagra passord …">

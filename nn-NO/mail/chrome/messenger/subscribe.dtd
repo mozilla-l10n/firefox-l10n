@@ -35,12 +35,12 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Abonner">
-<!ENTITY subscribeButton.label        "Abonner">
-<!ENTITY subscribeButton.accesskey    "A">
-<!ENTITY unsubscribeButton.label      "Stopp abonnement på">
-<!ENTITY unsubscribeButton.accesskey  "o">
-<!ENTITY newGroupsTab.label           "Nyhendegruppe">
+<!ENTITY subscribeDialog.title        "Meld inn">
+<!ENTITY subscribeButton.label        "Meld inn">
+<!ENTITY subscribeButton.accesskey    "M">
+<!ENTITY unsubscribeButton.label      "Meld ut">
+<!ENTITY unsubscribeButton.accesskey  "u">
+<!ENTITY newGroupsTab.label           "Nye grupper">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Oppdater">
 <!ENTITY refreshButton.accesskey      "O">
@@ -48,8 +48,8 @@
 <!ENTITY stopButton.accesskey         "S">
 <!ENTITY server.label                 "Konto:">
 <!ENTITY server.accesskey             "K">
-<!ENTITY subscribedHeader.label       "Abonner">
+<!ENTITY subscribedHeader.label       "Meld inn">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Meldingar"> -->
 <!ENTITY namefield.label              "Vis element som inneheld:">
-<!ENTITY namefield.accesskey          "n">
+<!ENTITY namefield.accesskey          "V">

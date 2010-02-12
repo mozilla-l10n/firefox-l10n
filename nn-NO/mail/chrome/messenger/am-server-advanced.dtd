@@ -27,5 +27,5 @@
 <!ENTITY accountDirectory.accesskey "n">
 <!ENTITY deferToServer.label "Innboksen i ein annan konto">
 <!ENTITY deferToServer.accesskey "b">
-<!ENTITY deferGetNewMail.label "Når det vert henta ny e-post; hent for denne kontoen òg">
+<!ENTITY deferGetNewMail.label "Når ny e-post vert henta; hent for denne kontoen òg">
 <!ENTITY deferGetNewMail.accesskey "r">

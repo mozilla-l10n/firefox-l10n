@@ -2,8 +2,8 @@
 <!ENTITY matchAll.accesskey "A">
 <!ENTITY matchAny.label     "Ein av reglane passar">
 <!ENTITY matchAny.accesskey "E">
-<!ENTITY matchAllMsgs.label     "Pass til alle meldingar">
-<!ENTITY matchAllMsgs.accesskey "P">
+<!ENTITY matchAllMsgs.label     "Alle meldingane passar">
+<!ENTITY matchAllMsgs.accesskey "m">
 
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.

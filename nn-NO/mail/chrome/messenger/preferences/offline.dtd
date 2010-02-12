@@ -1,11 +1,11 @@
 <!ENTITY offlineDialog.title "Fråkoplainnstillingar">
 
 <!ENTITY textStartUp "Ved oppstart:">
-<!ENTITY radioRememberPrevState.label "Hugs tidlegare påloggastatus">
+<!ENTITY radioRememberPrevState.label "Hugs førre tilkoplingstilstand">
 <!ENTITY radioRememberPrevState.accesskey "H">
 <!ENTITY radioAskMe.label "Spør meg om tilkoplingstilstand ved oppstart">
 <!ENTITY radioAskMe.accesskey "S">
-<!ENTITY radioAlwaysOnline.label "Alltid start i tilkopla modus">
+<!ENTITY radioAlwaysOnline.label "Alltid start tilkopla">
 <!ENTITY radioAlwaysOnline.accesskey "A">
 
 <!ENTITY textGoingOnline "Sende usende meldingar når eg koplar til?">

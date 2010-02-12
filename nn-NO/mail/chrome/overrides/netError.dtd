@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problem ved lasting av sida">
-<!ENTITY retry.label "Prøv på nytt">
+<!ENTITY retry.label "Prøv igjen">
 
 <!-- Specific error messages -->
 

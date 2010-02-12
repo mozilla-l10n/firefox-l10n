@@ -195,7 +195,7 @@
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nyleg attlatne faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Nyleg attletne vindauge">
+<!ENTITY historyUndoWindowMenu.label "Nyleg attlatne vindauge">
 
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
