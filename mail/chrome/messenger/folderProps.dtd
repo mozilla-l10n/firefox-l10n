@@ -50,7 +50,7 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt"> 
      
 <!ENTITY retention.label "Ivaretaking av meldingar">
-<!ENTITY retentionUseAccount.label  "Bruk kontoinnstillingane mine">
+<!ENTITY retentionUseAccount.label  "Bruk innstillingane for kontoen">
 <!ENTITY retentionUseAccount.accesskey "r">
 <!ENTITY daysOld.label "dagar gamle">
 <!ENTITY message.label "meldingar">

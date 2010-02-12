@@ -61,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "V">
 <!ENTITY pref.calendar.view.visiblehoursend.label "timar om gongen">
 
-<!ENTITY pref.numberofweeks.label "Standard tal veker (inkludert tidlegare veker):">
+<!ENTITY pref.numberofweeks.label "Standard tal på veker (inkludert tidlegare veker):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Tidlegare veker å vise:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "T">

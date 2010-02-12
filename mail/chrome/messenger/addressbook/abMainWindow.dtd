@@ -5,8 +5,8 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ny">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Adressekort …">
-<!ENTITY newContact.accesskey                           "A">
+<!ENTITY newContact.label                               "Kontakt …">
+<!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "E-postliste …">
 <!ENTITY newListCmd.accesskey                           "E">
@@ -116,7 +116,7 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                         "Nytt kort">
+<!ENTITY newContactButton.label                         "Nytt kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
 <!ENTITY newlistButton.accesskey                        "l">
@@ -175,7 +175,7 @@
 <!ENTITY WorkPhone.label                                "Arbeidstelefon">
 <!ENTITY WorkPhone.accesskey                            "A">
 <!ENTITY sortAscending.label                            "I stigande rekkjefølgje">
-<!ENTITY sortAscending.accesskey                        "S">
+<!ENTITY sortAscending.accesskey                        "s">
 <!ENTITY sortDescending.label                           "I minkande rekkefølgje">
 <!ENTITY sortDescending.accesskey                       "i">
 <!ENTITY _PhoneticName.label                            "Fonetisk namn">

@@ -2,7 +2,7 @@
 
 <!ENTITY MsgSynchronize.label "Last ned og synkroniser meldingar">
 <!ENTITY MsgSelect.label "Element for fråkopla bruk">
-<!ENTITY MsgSyncDesc.label "Viss du allereie har vald e-postmapper eller nyhendegrupper til fråkopla bruk, kan du laste ned og/eller synkronisere dei no. Elles kan du nytte «Vel»-knappen for å velje e-postmappene og nyhendegruppene du ønskjer å nytte fråkopla.">
+<!ENTITY MsgSyncDesc.label "Om du allereie har valt e-postmapper eller nyhendegrupper til fråkopla bruk, kan du laste ned og/eller synkronisere dei no. Elles kan du nytte «Vel»-knappen for å velje e-postmappene og nyhendegruppene du ønskjer å nytte fråkopla.">
 <!ENTITY MsgSyncDirections.label "Last ned og/eller synkroniser følgjande:">
 <!ENTITY syncTypeMail.label "E-postmeldingar">
 <!ENTITY syncTypeMail.accesskey "m">

@@ -44,7 +44,7 @@
 -->
 <!ENTITY allAutosync.label               "Synkroniser alle meldingar lokalt uansett alder">
 <!ENTITY allAutosync.accesskey           "n">
-<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
+<!ENTITY ageAutosyncBefore.label         "Synkroniser med dei nyaste">
 <!ENTITY ageAutosync.accesskey           "k">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Dagar">

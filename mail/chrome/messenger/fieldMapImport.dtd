@@ -48,6 +48,6 @@
 <!ENTITY fieldMapImport.down.label "Flytt ned">
 <!ENTITY fieldMapImport.down.accesskey "e">
 <!ENTITY fieldMapImport.fieldListTitle "Adressebokfelt">
-<!ENTITY fieldMapImport.dataTitle "Element å importera">
+<!ENTITY fieldMapImport.dataTitle "Element å importere">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Første oppføring inneheld feltnamn">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">

@@ -79,7 +79,7 @@
 <!ENTITY sunbird.find.key                                  "F">
 <!ENTITY sunbird.close.key                                 "W">
 
-<!ENTITY sunbird.menu.numberofweeks.label                  "Tal veker" >
+<!ENTITY sunbird.menu.numberofweeks.label                  "Tal på veker" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "T" >
 <!ENTITY sunbird.menu.numberofweeks.1                      "1 veke" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 veker" >

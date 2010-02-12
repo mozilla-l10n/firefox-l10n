@@ -1,6 +1,6 @@
-<!ENTITY messengerStartPage.label         "&brandShortName; startside">
-<!ENTITY enableStartPage.label            "Når &brandShortName; startar, vis startsida i meldingsområdet">
-<!ENTITY enableStartPage.accesskey        "N">
+<!ENTITY messengerStartPage.label         "&brandShortName;-startside">
+<!ENTITY enableStartPage.label            "Vis startsida i meldingsområdet når &brandShortName; startar ">
+<!ENTITY enableStartPage.accesskey        "V">
 <!ENTITY location.label                   "Adresse:">
 <!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Bruk standard">
