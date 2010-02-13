@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "K">
 <!ENTITY checkNow.label                  "Kontrollera nu">
 <!ENTITY checkNow.accesskey              "o">
+<!ENTITY submitCrashes.label             "Skicka kraschrapporter">
+<!ENTITY submitCrashes.accesskey         "S">
 
 <!ENTITY networkTab.label                "Nätverk">
 
