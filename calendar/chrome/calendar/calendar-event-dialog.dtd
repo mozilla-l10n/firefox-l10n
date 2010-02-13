@@ -153,15 +153,6 @@
 <!ENTITY  event.menu.options.show.time.free.label         "Voľný">
 <!ENTITY  event.menu.options.show.time.free.accesskey     "V">
 
-<!ENTITY event.help.label                                 "Pomocník">
-<!ENTITY event.help.accesskey                             "P">
-<!ENTITY event.help.release.notes.label                   "Poznámky k vydaniu">
-<!ENTITY event.help.release.notes.accesskey               "P">
-<!ENTITY event.help.help.label                            "Pomocník &brandShortName;u">
-<!ENTITY event.help.help.accesskey                        "P">
-<!ENTITY event.help.about.label                           "O programe &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "O">
-
 <!ENTITY event.invite.attendees.label                     "Pozvať účastníkov…">
 <!ENTITY event.invite.attendees.accesskey                 "P">
 <!ENTITY event.email.attendees.label                      "Napísať e-mail pre všetkých účastníkov…">

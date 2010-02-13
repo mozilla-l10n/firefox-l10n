@@ -24,7 +24,9 @@
 <!ENTITY alwaysCheckDefault.label        "Pri štarte kontrolovať, či je &brandShortName; predvoleným prehliadačom">
 <!ENTITY alwaysCheckDefault.accesskey    "r">
 <!ENTITY checkNow.label                  "Skontrolovať">
-<!ENTITY checkNow.accesskey              "t">
+<!ENTITY checkNow.accesskey              "S">
+<!ENTITY submitCrashes.label             "Odosielať správy o zlyhaní">
+<!ENTITY submitCrashes.accesskey         "d">
 
 <!ENTITY networkTab.label                "Sieť">
 

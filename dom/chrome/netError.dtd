@@ -80,6 +80,9 @@
 <p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožujú.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
