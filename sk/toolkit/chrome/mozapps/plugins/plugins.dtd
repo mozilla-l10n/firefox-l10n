@@ -23,3 +23,21 @@
 <!ENTITY missingPlugin.label                                 "Kliknutím sem prevezmete zásuvný modul.">
 <!ENTITY disabledPlugin.label                                "Zásuvný modul pre tento obsah je zakázaný. Kliknutím sem môžete spravovať svoje zásuvné moduly.">
 <!ENTITY blockedPlugin.label                                 "Tento zásuvný modul bol pre vašu ochranu zakázaný.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "Skúste to znova ">
+<!ENTITY reloadPlugin.middle                                 "opätovným načítaním stránky">
+<!ENTITY reloadPlugin.post                                   ".">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "">
+<!ENTITY submittedCrashReport.middle                         "Správa o zlyhaní">
+<!ENTITY submittedCrashReport.post                           " bola odoslaná.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "Odosielanie ">
+<!ENTITY notSubmittedCrashReport.middle                      "správ o zlyhaní">
+<!ENTITY notSubmittedCrashReport.post                        " nie je povolené.">

@@ -308,8 +308,6 @@
 <!ENTITY sendAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkText2Cmd.label       "Kopírovať text odkazu">
-<!ENTITY copyLinkText2Cmd.accesskey   "x">
 <!ENTITY copyImageCmd.label           "Kopírovať adresu obrázka">
 <!ENTITY copyImageCmd.accesskey       "e">
 <!ENTITY copyImageContentsCmd.label   "Kopírovať obrázok">
