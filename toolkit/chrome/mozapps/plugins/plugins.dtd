@@ -55,3 +55,21 @@
 <!ENTITY missingPlugin.label                                 "Klicka här för att hämta insticksmodulen.">
 <!ENTITY disabledPlugin.label                                "Insticksmodulen för den här typen av innehåll har inaktiverats. Klicka här för att hantera dina insticksmoduler.">
 <!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Uppdatera sidan">
+<!ENTITY reloadPlugin.post                                   " för att försöka igen.">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "En ">
+<!ENTITY submittedCrashReport.middle                         "kraschrapport">
+<!ENTITY submittedCrashReport.post                           " skickades.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "Du har inaktiverat inskickande av ">
+<!ENTITY notSubmittedCrashReport.middle                      "kraschrapporter">
+<!ENTITY notSubmittedCrashReport.post                        ".">
