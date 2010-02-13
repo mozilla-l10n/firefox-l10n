@@ -74,6 +74,9 @@ Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
 <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

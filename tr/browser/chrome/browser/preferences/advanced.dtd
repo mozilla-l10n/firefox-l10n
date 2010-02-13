@@ -26,6 +26,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "b">
 <!ENTITY checkNow.label "Şimdi bak">
 <!ENTITY checkNow.accesskey "m">
+<!ENTITY submitCrashes.label "Submit crash reports">
+<!ENTITY submitCrashes.accesskey "S">
 
 <!ENTITY networkTab.label "Ağ">
 
