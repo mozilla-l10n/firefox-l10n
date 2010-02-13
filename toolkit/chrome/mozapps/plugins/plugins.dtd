@@ -16,3 +16,12 @@
 <!ENTITY missingPlugin.label "Fare clic qui per scaricare il plugin.">
 <!ENTITY disabledPlugin.label "Il plugin richiesto per questo contenuto è stato disattivato. Fare clic qui per gestire i plugin disponibili.">
 <!ENTITY blockedPlugin.label "Questo plugin è stato bloccato per motivi di sicurezza.">
+<!ENTITY reloadPlugin.pre " ">
+<!ENTITY reloadPlugin.middle "Ricarica la pagina">
+<!ENTITY reloadPlugin.post " per riprovare.">
+<!ENTITY submittedCrashReport.pre "È stata inviata ">
+<!ENTITY submittedCrashReport.middle "una segnalazione dell'arresto anomalo">
+<!ENTITY submittedCrashReport.post ".">
+<!ENTITY notSubmittedCrashReport.pre "L'">
+<!ENTITY notSubmittedCrashReport.middle "invio delle segnalazioni ">
+<!ENTITY notSubmittedCrashReport.post "risulta disattivato.">

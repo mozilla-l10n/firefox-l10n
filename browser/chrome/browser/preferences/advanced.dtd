@@ -18,6 +18,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "t">
 <!ENTITY checkNow.label "Controlla ora">
 <!ENTITY checkNow.accesskey "o">
+<!ENTITY submitCrashes.label "Invia segnalazioni in caso di arresto anomalo">
+<!ENTITY submitCrashes.accesskey "n">
 <!ENTITY networkTab.label "Rete">
 <!ENTITY connection.label "Connessione">
 <!ENTITY connectionDesc.label "Determina come &brandShortName; si collega a internet">
