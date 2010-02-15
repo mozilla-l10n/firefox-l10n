@@ -23,3 +23,21 @@
 <!ENTITY missingPlugin.label                                 "Klik hier om de plug-in te downloaden.">
 <!ENTITY disabledPlugin.label                                "De plug-in voor deze inhoud is uitgeschakeld. Klik hier om uw plug-ins te beheren.">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "Laad de ">
+<!ENTITY reloadPlugin.middle                                 "pagina opnieuw">
+<!ENTITY reloadPlugin.post                                   " om het nogmaals te proberen.">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "Een ">
+<!ENTITY submittedCrashReport.middle                         "crashrapport">
+<!ENTITY submittedCrashReport.post                           " is verzonden.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "U heeft ">
+<!ENTITY notSubmittedCrashReport.middle                      "crashrapport">
+<!ENTITY notSubmittedCrashReport.post                        " verzenden uitgeschakeld.">
