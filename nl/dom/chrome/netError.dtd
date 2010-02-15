@@ -80,6 +80,9 @@
 <p>Dit soort webvervalsingen wordt gebruikt in e-mailscams die bekend staan als phishingaanvallen, waarbij frauduleuze webpagina’s en e-mails worden gebruikt om bronnen die u misschien vertrouwt na te bootsen.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Geblokkeerd door de inhoudbeveiligingsbeleid">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser voorkomt dat deze pagina op deze manier geladen wordt omdat de pagina een inhoudbeveiligingsbeleid heeft dat het niet toestaat.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
