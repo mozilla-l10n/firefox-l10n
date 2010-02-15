@@ -131,7 +131,7 @@
 <!ENTITY insertCharsCmd.accesskey "у">
 <!ENTITY insertBreakAllCmd.label "Разрыв под изображениями">
 <!ENTITY insertBreakAllCmd.accesskey "о">
-<!ENTITY spellCheckNoSuggestions.label "(Предположений не найдено)">
+<!ENTITY spellCheckNoSuggestions.label "(Вариантов не найдено)">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">

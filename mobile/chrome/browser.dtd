@@ -13,7 +13,7 @@
 <!ENTITY paste.label "Вставить">
 <!ENTITY delete.label "Удалить">
 <!ENTITY selectAll.label "Выделить всё">
-<!ENTITY noSuggestions.label "(нет предположений)">
+<!ENTITY noSuggestions.label "(нет предложений)">
 <!ENTITY addToDictionary.label "Добавить в словарь">
 <!ENTITY bookmarksHeader.label "Закладки">
 <!ENTITY bookmarksManage.label "Управлять">
