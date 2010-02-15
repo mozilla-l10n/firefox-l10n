@@ -126,7 +126,7 @@
 <!ENTITY spellIgnoreWord.accesskey "п">
 <!ENTITY spellCheckEnable.label "Проверка правописания">
 <!ENTITY spellCheckEnable.accesskey "р">
-<!ENTITY spellNoSuggestions.label "(предположений не найдено)">
+<!ENTITY spellNoSuggestions.label "(вариантов не найдено)">
 <!ENTITY spellDictionaries.label "Языки">
 <!ENTITY spellDictionaries.accesskey "Я">
 <!ENTITY spellAddDictionaries.label "Загрузить дополнительные словари…">

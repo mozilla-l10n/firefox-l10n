@@ -202,7 +202,7 @@
 <!ENTITY smiley14Cmd.label "Невинность">
 <!ENTITY smiley15Cmd.label "Плач">
 <!ENTITY smiley16Cmd.label "Рот на замке">
-<!ENTITY spellCheckNoSuggestions.label "Предположений не найдено">
+<!ENTITY spellCheckNoSuggestions.label "Вариантов не найдено">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">

@@ -13,7 +13,7 @@
 <!ENTITY edit.accesskey "з">
 <!ENTITY addEngine.label "Установить другие поисковые плагины…">
 <!ENTITY addEngine.accesskey "д">
-<!ENTITY enableSuggest.label "Показывать поисковые предположения">
+<!ENTITY enableSuggest.label "Показывать поисковые предложения">
 <!ENTITY enableSuggest.accesskey "п">
 <!ENTITY restoreDefaults.label "Восстановить набор по умолчанию">
 <!ENTITY restoreDefaults.accesskey "у">
