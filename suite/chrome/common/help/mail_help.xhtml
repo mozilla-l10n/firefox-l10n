@@ -64,6 +64,8 @@
       Programs</a></li>
     <li><a href="#getting_started_with_newsgroups">Getting Started with
       Newsgroups</a></li>
+    <li><a href="#getting_started_with_blogs_and_news_feeds">Getting Started
+      with Blogs and News Feeds</a></li>
     <li><a href="#working_offline">Working Offline</a></li>
     <li><a href="mail_sec_help.xhtml">Signing &amp; Encrypting
       Messages</a></li>
@@ -91,9 +93,10 @@
 <h2 id="using_the_mail_account_setup_wizard">Using the Mail Account Setup
   Wizard</h2>
 
-<p>To set up a mail or newsgroup account, first open the Window menu and choose
-  Mail &amp; Newsgroups. If you haven&apos;t already set up an account, the
-  Account Wizard appears automatically, enabling you to set up an account.</p>
+<p>To set up a mail, newsgroup or blogs and news feeds account, first open
+  the Window menu and choose Mail &amp; Newsgroups. If you haven&apos;t
+  already set up an account, the Account Wizard appears automatically, enabling
+  you to set up an account.</p>
 
 <p>The Account Wizard guides you through the process of creating a new account.
   If you don&apos;t know a setting, click Cancel and ask your Internet service
@@ -103,7 +106,7 @@
   automatically when the Mail window opens. Instead, after opening the Mail
   window, open the File menu and choose New, then Account. For more details,
   see <a href="#setting_up_additional_mail_and_news_accounts">Setting Up
-  Additional Mail &amp; News Accounts</a>.</p>
+  Additional Mail, News and Blogs and News Feeds Accounts</a>.</p>
 
 <h3 id="setting_up_mail_accounts_with_an_isp_or_email_provider">Setting Up Mail
   Accounts with an ISP or Email Provider</h3>
@@ -128,7 +131,8 @@
   <li>account name</li>
 </ul>
 
-<p>To set up a new mail or newsgroup account, begin from the Mail window:</p>
+<p>To set up a new mail, newsgroup or blogs and news feeds account, begin
+  from the Mail window:</p>
 
 <ol>
   <li>Open the Edit menu and choose Mail &amp; Newsgroups Account Settings. You
@@ -143,8 +147,10 @@
   <li><strong>New Account Setup</strong>: Choose the type of account you want
     to set up, then click the right arrow.</li>
   <li><strong>Identity</strong>: Enter the name and email address appropriate
-    for this account, then click the right arrow.</li>
-  <li><strong>Server Information</strong>:
+    for this account, then click the right arrow. This window is not available
+    for the Blogs and News Feeds account type.</li>
+  <li><strong>Server Information</strong>: This window is not available for
+    for the Blogs and News Feeds account type.
     <ul>
       <li>Indicate whether you want a POP account or an IMAP account. Not all
         service providers can support both options. For more information, see
@@ -169,7 +175,8 @@
     </ul>
   </li>
   <li><strong>User Names</strong>: Enter the incoming and outgoing user names
-    provided by your ISP or email provider, then click the right arrow.</li>
+    provided by your ISP or email provider, then click the right arrow. This
+    window is not available for the Blogs and News Feeds account type.</li>
   <li><strong>Account Name</strong>: Enter whatever name you want to use to
     refer to this account, then click the right arrow.</li>
   <li><strong>Congratulations!</strong> Verify that the information you entered
@@ -210,10 +217,10 @@
     see the Mail &amp; Newsgroups Account Settings dialogue box. You can perform
     these tasks:
     <ul>
-      <li><strong>Add Account</strong>: Click this button to set up a new mail
-        or news account. Be sure to type the account information exactly as it
-        is given to you. Move through the screens with the arrows, or click
-        Cancel to stop account creation.</li>
+      <li><strong>Add Account</strong>: Click this button to set up a new mail,
+        news or blogs and news feeds account. Be sure to type the account
+        information exactly as it is given to you. Move through the screens
+        with the arrows, or click Cancel to stop account creation.</li>
       <li><strong>Set as Default</strong>: Select an account, then click this
         button to make the selected account appear at the top of your list of
         accounts in the Mail Window. The change takes effect the next time you
@@ -223,6 +230,9 @@
           IMAP accounts only) automatically check for new messages when you
           start Mail &amp; Newsgroups. (For POP accounts, you must always click
           the Get Msg button to get new messages.)</p>
+        
+        <p><strong>Note:</strong> You can&apos;t set a blogs and news feeds
+          account as default.</p>
       </li>
       <li><strong>Remove Account</strong>: Select an account, then click this
         button to remove it completely from your Mail window.</li>
@@ -286,10 +296,12 @@
         &amp; Storage Settings (IMAP)</a> or
         <a href="#synchronization_and_storage_settings_nntp">Synchronisation
         &amp; Storage Settings (News)</a>.</li>
-      <li><strong>Disc Space (POP accounts only)</strong>: This setting
-        determines the maximum size of messages that you are willing to
-        download to your hard disc. For more information, see
-        <a href="#disk_space_settings">Disc Space Settings (POP)</a>.</li>
+      <li><strong>Disc Space (POP and vlogs and news feeds accounts
+        only)</strong>: This setting helps you manage the amount of disc
+        space that downloaded messages take up on your hard disc. For more
+        information, see <a href="#disk_space_settings_pop">Disc Space Settings
+        (POP)</a> or <a href="#disk_space_settings_blog">Disc Space Settings
+        (Blogs)</a>.</li>
       <li><strong>Security</strong>: These settings determine which
         <a href="glossary.xhtml#certificate">certificates</a> are used to
         digitally sign and encrypt mail messages that you send. Digital
@@ -335,6 +347,15 @@
   <a href="#pop_server_settings">change your POP server settings</a> to
   retrieve just the headers and/or store a copy of messages on the server in
   addition to downloading them to your computer.</p>
+  
+<p>For news accounts, expanding the account newsgroups list will automatically
+  check for new items, as it will by just selecting one of the newsgroups.
+  While reading a newsgroup, you can force checking for new items by clicking
+  Get Msgs.</p>
+
+<p>For blogs &amp; feeds accounts, the first time you expand the account, it
+  will be checked for new items. Besides that, you can force checking for new
+  items at any time by clicking Get Msgs.</p>
 
 <p>You can also set up Mail &amp; Newsgroups to get new messages at startup and
   to check for new messages at timed intervals.</p>
@@ -558,7 +579,7 @@
     no subcategories are visible, double-click Mail &amp; Newsgroups to
     expand the list.)</li>
   <li>Clear <q>Block images and other content from remote sources</q>.</li>
-  <li>Click OK to have your change take affect.</li>
+  <li>Click OK to have your change take effect.</li>
 </ol>
 
 <p><strong>Note</strong>: See <q>Allow remote images in HTML mail</q> in
@@ -566,8 +587,8 @@
   Card</a> for details of how to change which senders can show remote
   content.</p>
 
-<p>By default, JavaScript and plugins are not enabled for mail messages you
-  receive. To change these settings:</p>
+<p>By default, plugins are not enabled for mail messages you receive. To change
+  this setting:</p>
 
 <ol>
   <li>Open the <span class="mac">&brandShortName;</span>
@@ -576,13 +597,11 @@
     subcategories are visible, double-click Advanced to expand the
     list.)
     <ul>
-      <li>Under <q>Enable JavaScript for</q>, tick <q>Mail &amp;
-        Newsgroups</q> to enable JavaScript.</li>
       <li>Under <q>Enable Plugins for</q>, tick <q>Mail &amp; Newsgroups</q>
         to enable plugins.</li>
     </ul>
   </li>
-  <li>Click OK to have your changes take affect.</li>
+  <li>Click OK to have your changes take effect.</li>
 </ol>
 
 <p>[<a href="#reading_messages">Return to beginning of section</a>]</p>
@@ -631,6 +650,12 @@
   (You can specify a different editor for each of your accounts.) See
   <a href="#changing_the_settings_for_an_account">Changing the Settings for an
   Account</a> for more information.</p>
+
+<p><strong>Note</strong>: It is generally not possible to compose messages for
+  them to be published in blogs and news feeds accounts. If you want to
+  publish posts in a blog (and you have the appropiate rights to do it), you
+  will need to use the mechanisms provided by the specific blog system. In some
+  cases, this can even include sending a mail message to a specific address.</p>
 
 <p>Composing messages in HTML format allows you to use different fonts, text
   styles (such as bold or italic) and text colours, tables, numbered or bulleted
@@ -2260,7 +2285,7 @@
     can be up to 32 characters long.</li>
   <li>To change the tag colour, click the colour block next to that tag and
     select a new colour.</li>
-  <li>Click the the Move Up and Move Down buttons to reorder the tags. Tags at
+  <li>Click the Move Up and Move Down buttons to reorder the tags. Tags at
     the top will have higher priority when colouring messages.</li>
   <li>Click OK.</li>
 </ol>
@@ -2442,11 +2467,16 @@
   <li>If you have multiple mail accounts, choose the one to which you want to
     apply the filter.</li>
   <li>Click New. You use the Filter Rules dialogue box to specify the types of
-    messages to act on, and the action you want the filter to perform.</li>
+    messages to act on, and the actions you want the filter to perform.</li>
   <li>Type a name for the filter.</li>
+  <li>Select when you want the filter to be applied. This setting enables you
+    to define some filters to be applied in an automatic way (when checking
+    mail), on demand (manually run), or both. <q>After classification</q> means
+    that junk and phishing controls will be run before applying the
+    filter.</li>
   <li>Select the matching option you want Mail to use: <q><em>all</em> of the
-    following</q> conditions (criteria) you choose, or <q><em>any</em> of the
-    following</q> conditions.</li>
+    following</q> conditions (criteria) you choose, <q><em>any</em> of the
+    following</q> conditions you choose, or <q><em>all messages</em></q>.</li>
   <li>Use the drop-down lists to choose the search criteria (for example,
     <q>Subject</q>, <q>Sender</q>, <q>contains</q>, <q>doesn&apos;t
     contain</q>) and then type the text or phrase you want to match.
@@ -2462,17 +2492,38 @@
   </li>
   <li>Click <q>+</q> to add criteria and <q>-</q> to remove them.</li>
   <li>Use the list to choose the action you want the filter to perform on the
-    messages (for example, Move to Folder).
+    messages (for example, Move Message To). Use <q>+</q> and <q>-</q> to add
+    or remove additional actions.
 
     <p><strong>Tip</strong>: To automatically tag incoming messages, choose
-      <q>Tag the message</q> from the drop-down list.</p>
+      <q>Tag Message</q> from the drop-down list.</p>
+
+    <p><strong>Tip</strong>: Message filters are applied one after another. It
+      could be that you don&apos;t want all filters to be run if one or more
+      messages match some conditions. For instance, you may want to tag all
+      messages from your boss&apos;s email address as <q>Important</q>, and
+      you may want all messages containing the word <q>Memorandum</q> in their
+      subject to be moved to a folder named <q>Pending Reads</q>, but you
+      don&apos;t want any message from your boss to be moved to another folder,
+      even if it contains <q>Memorandum</q> in the subject. So the first
+      message filter you define should match your boss&apos;s email address,
+      and would contain two actions: <q>Tag Message</q> as <q>Important</q> and
+      <q>Stop Filter Execution</q>.</p>
   </li>
-  <li>Choose a destination folder in which to store the messages, or create a
+  <li>If you have chosen <q>Move</q> or <q>Copy</q> message to a folder, then
+    select a destination folder in which to store the messages, or create a
     new folder.</li>
   <li>Click OK to confirm your settings.</li>
+  <li>To run filters on existing messages in a folder, select the folder
+    in the bottom dropdown list and click the <q>Run Now</q> button.</li>
   <li>Click OK in the Message Filters dialogue box. The filter begins filtering
     incoming messages as soon as you click OK.</li>
 </ol>
+
+<p><strong>Note</strong>: You can also run message filters manually at any
+  time. In the Mail window, choose Tools, and then select Run Filters on Folder
+  to apply filters to the current folder, or Run Filters on Message to apply
+  filters to the selected message (if any).</p>
 
 <p>To manage your filters, begin from the Mail window:</p>
 
@@ -2529,12 +2580,18 @@
 
 <ol>
   <li>Select a message from a specific sender.</li>
-  <li>Open the Message menu, and choose Create Filter From Message. You see the
-    Filter Rules dialogue box. Using the sender&apos;s email address,
-    &brandShortName; prefills the filter name, the filter matching criteria,
-    and the filter action (Move to folder).</li>
+  <li>Open the Message menu and choose Create Filter From Message. Or, in the
+    message header pane, right click the sender name and choose Create Filter
+    From.</li>
+  <li>You see the Filter Rules dialogue box. Using the sender&apos;s email
+    address, &brandShortName; prefills the filter matching criteria and the
+    filter action (Move Message to). You can change or add new rules to the
+    matching criteria.</li>
   <li>Choose a destination folder in which to store the incoming messages from
-    the specified sender, or create a new folder.</li>
+    the specified sender, or create a new folder. You can also choose other
+    actions for this filter, or change the default one.</li>
+  <li>Note that, if you leave the filter name empty, &brandShortName; will
+    provide a name for it based on the first criterion.</li>
   <li>Click OK to confirm your settings. You see the
     <a href="#creating_message_filters">Message Filters</a> dialogue box, where
     you can create, delete, or edit message filters.</li>
@@ -2715,8 +2772,8 @@ to filter unwanted mail, and how phishing detection works.</p>
 <h2 id="junk_controls_options">Junk Mail Controls Options</h2>
 
 <p>To fine-tune how Junk Mail Controls work, use the 
-  <a href="#global_junk_settings">global Junk Mail preference panel</a> for
-  account-independent settings and the account manager's 
+  <a href="#junk_and_suspect_preferences">Junk &amp; Suspect Mail preference
+  panel</a> for account-independent settings and the account manager's
   <a href="#junk_settings">Junk Settings</a> for settings of a specific mail
   account.</p>
 
@@ -2724,11 +2781,13 @@ to filter unwanted mail, and how phishing detection works.</p>
 
 <h2 id="junk_controls_and_filters">Junk Mail Controls and Filters</h2>
 
-<p>Junk Mail Controls run after mail filters and apply only to the Inbox folder
-  and its sub-folders. Use this to your advantage, for example, you can filter
-  mail you are sure not to be Junk to a special folder outside of Inbox so that
-  the messages will not be classified as Junk (especially useful if you
-  subscribe to newsletters or if you are on a moderated mailing list).</p>
+<p>Junk Mail Controls run after mail filters (unless you set the filter to run
+  after classification, where <q>classification</q> includes junk and phishing
+  scanning) and apply only to the Inbox folder and its sub-folders. Use this to
+  your advantage, for example, you can filter mail you are sure not to be Junk
+  to a special folder outside of Inbox so that the messages will not be
+  classified as Junk (especially useful if you subscribe to newsletters or if
+  you are on a moderated mailing list).</p>
 
 <p>[<a href="#controlling_junk_mail">Return to beginning of section</a>]</p>
 
@@ -3006,6 +3065,373 @@ to filter unwanted mail, and how phishing detection works.</p>
 <p>[<a href="#getting_started_with_newsgroups">Return to beginning of
   section</a>]</p>
 
+<h1 id="getting_started_with_blogs_and_news_feeds">Getting
+  started with Blogs and News Feeds</h1>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#subscribing_to_blogs_and_news_feeds">Subscribing to blogs
+      and news feeds</a></li>
+    <li><a href="#subscribing_to_blogs_and_news_feeds_from_browser">Subscribing
+      to blogs and news feeds from a browser window</a></li>
+    <li><a href="#reading_blogs_and_news_feed_messages">Reading blogs and
+      news feeds messages</a></li>
+    <li><a href="#posting_blog_messages">Posting blog messages</a></li>
+    <li><a href="#adding_comments_to_a_blog_post">Adding comments to a blog
+      post</a></li>
+    <li><a href="#exporting_and_importing_feeds">Exporting and importing
+      feeds</a></li>
+    <li><a href="#editing_a_feed">Editing a feed</a></li>
+    <li><a href="#removing_a_feed">Removing a feed</a></li>
+    <li><a href="#using_different_blogs_and_news_feeds_accounts">Using
+      different blogs and news feeds accounts</a></li>
+    <li><a href="#organizing_your_feeds">Organising your feeds</a></li>
+  </ul>
+</div>
+
+<h2 id="subscribing_to_blogs_and_news_feeds">Subscribing to blogs and news
+  feeds</h2>
+
+<p>If you have set up a
+  <a href="#setting_up_additional_mail_and_news_accounts">Blogs and News
+  account</a>, you can subscribe to Blogs and News feeds.</p>
+
+<p>To subscribe to a feed, begin from the Mail window:</p>
+
+<ol>
+  <li id="getting_into_the_feed_subscriptions_dialog">Get into the Feed
+    Subscriptions dialogue. There are several ways to do this:
+    <ul>
+      <li>In the accounts pane, click your desired Blogs and News Feeds
+        account to manage, then click in the Manage Subscriptions in the right
+        pane.</li>
+      <li>In the accounts pane, click your desired Blogs and News Feeds
+        account to manage, or a feed inside it, then open the File menu and
+        choose Subscribe.</li>
+      <li>In the accounts pane, <strong>right click</strong> your desired Blogs
+        and News Feeds account to manage and choose Subscribe...</li>
+      <li>Open the Edit menu and select the Mail &amp; Newsgroups Account
+        Settings option. In the Mail &amp; Newsgroups Account Settings dialogue,
+        click on a Blogs and News Feeds account main section, and then
+        click the Manage Subscriptions... button.</li>
+    </ul>
+  </li>
+  <li>Once in the Feed Subscriptions dialogue, click the Add button. The Feed
+    properties dialogue will appear.</li>
+  <li>Type (or copy and paste) the feed URL into the Feed URL field.</li>
+  <li>Click <q>Store articles in</q> dropdown list to choose the item list
+    where you want the articles to be stored. This allows you to merge
+    multiple feeds in one list item.</li>
+  <li>Set <q>Show the article summary instead of loading the web page</q> to
+    display a brief summary that blog feeds usually include for each article.
+    
+    <p><strong>Tip:</strong> Showing the article summary reduces the bandwidth
+      traffic and is faster, since the summary is already downloaded when the
+      feed is checked for new items. However, if you usually are interested in
+      the full article, you will save time by unchecking this option.</p>
+  </li>
+  <li>Click OK to confirm the feed addition.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="subscribing_to_blogs_and_news_feeds_from_browser">Subscribing to blogs
+  and news feeds from a browser window</h2>
+
+<p>While browsing the web using &brandShortName;, you may find the Feed
+  discovery icon (<img src="chrome://communicator/skin/icons/feedIcon.png"
+  style="width: 16px; height: 16px;" />) while visiting a web page. You
+  can click on it to see a list of available feeds and choose one to get it
+  added to your first Blogs and News Feeds account.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="reading_blogs_and_news_feed_messages">Reading blogs and news feeds
+  messages</h2>
+
+<p>When you open your Blogs and News account, you see the list of feeds to
+  which you subscribed. &brandShortName; checks and downloads every feed for
+  new messages.</p>
+
+<p>To read blogs and news messages, begin from the Mail window:</p>
+
+<ol>
+  <li>Double-click a blogs and news account to see its feeds. (If there are
+    no feeds, you may need to subscribe to one.)</li>
+  <li>Click a feed name to see its messages.</li>
+  <li>Click a message to read it. The header will show the original URL of the
+    article, which you can click to open a browser window with the
+    corresponding webpage.</li>
+</ol>
+
+<p>Depending on your settings for the Blogs and News account and each
+  individual feed, the message will be shown in its summarised view or the
+  full view. You can change it by choosing the menu option View, and then Feed
+  Message Body As. You can then select one of these options:</p>
+
+<ul>
+  <li><strong>Web Page</strong>: Select this to show the full web page of this
+    message.</li>
+  <li><strong>Summary</strong>: Select this to show the summarised, short
+    version of this message.</li>
+  <li><strong>Default format</strong>: Select this to show the article in its
+    default format, as specified in the feed options or, otherwise, the Blogs
+    and News account.</li>
+</ul>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="posting_blog_messages">Posting blog messages</h2>
+
+<p>To post a blog message, you need an account in the corresponding blog. Also,
+  there is no standardised way to post blog messages, so you won&apos;t
+  normally be able to post messages from &brandShortName; Mail component.
+  Instead, you will need to open a browser window, log in to your blog account
+  and use the web interface.</p>
+ 
+<p>Some blog systems, however, allow posting blog messages by sending an email
+  message to a specific address. You will need to find out if your blog service
+  implements this feature, and the correct email address to use.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="adding_comments_to_a_blog_post">Adding comments to a blog post</h2>
+
+<p>Since there is no standardised way to add comments to a blog post, you will
+  usually need to open a browser window and use the web interface.</p>
+ 
+<p>Some blog systems, however, allow adding comments by sending an email
+  message to a specific address. You will need to find out if the blog service
+  implements this feature, and the correct email address to use.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="exporting_and_importing_feeds">Exporting and importing feeds</h2>
+
+<p>If you have set up a
+  <a href="#setting_up_additional_mail_and_news_accounts">Blogs and News
+  account</a>, you can export or import Blogs and News feed collections using
+  the OPML format (Outline Processor Markup Language).</p>
+
+<p>To export the feeds in your selected blogs and news account, begin from
+  the Mail window:</p>
+
+<ol>
+  <li>In the accounts pane, click your desired Blogs and News account to
+    manage, or a feed inside it.</li>
+  <li>Open the File menu and choose Subscribe (or use any other of the
+    <a href="#getting_into_the_feed_subscriptions_dialog">available methods</a>.
+    to access to the Feed Subscriptions dialogue box).</li>
+  <li>In the Feed Subscriptions dialogue, click the Export button. The Export
+    feeds as an OPML file dialogue will appear.</li>
+  <li>Select the directory and filename to save the OPML file, and click
+    Save.</li>
+</ol>
+
+<p>To import the feeds in your selected blogs and news account, begin from
+  the Mail window:</p>
+
+<ol>
+  <li>In the accounts pane, click your desired Blogs and News account to
+    manage, or a feed inside it.</li>
+  <li>Open the File menu and choose Subscribe (or use any other of the
+    <a href="#getting_into_the_feed_subscriptions_dialog">available methods</a>.
+    to access to the Feed Subscriptions dialogue box).</li>
+  <li>In the Feed Subscriptions dialogue, click the Import button. The Select
+    OPML file to import dialogue will appear.</li>
+  <li>Select the directory and filename to load the OPML file, and click
+    Save.</li>
+  <li>All the feeds defined in the OPML file will be added to your blogs and
+    feeds account.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="editing_a_feed">Editing a feed</h2>
+
+<p>If you want to change the properties of one of the feeds in your blogs and
+  news account, you can edit it.</p>
+
+<p>To edit a feed in your selected blogs and news account, begin from the
+  Mail window:</p>
+
+<ol>
+  <li>In the accounts pane, click your desired Blogs and News account to
+    manage, or a feed inside it.</li>
+  <li>Open the File menu and choose Subscribe (or use any other of the
+    <a href="#getting_into_the_feed_subscriptions_dialog">available methods</a>.
+    to access to the Feed Subscriptions dialogue box).</li>
+  <li>In the Feed Subscriptions dialogue, click on a feed in the feed list. You
+    may need to expand the folders in the feed list to see each individual
+    feed.</li>
+  <li>Click the Edit button. The Feed properties dialogue will appear.</li>
+  <li>You can change where you want the articles to be stored clicking the
+    <q>Store articles in</q> dropdown list.</li>
+  <li>You may mark <q>Show the article summary instead of loading the web
+    page</q> to display a brief summary that blog feeds usually include for
+    each article.
+    
+    <p><strong>Tip:</strong> Showing the article summary reduces the bandwidth
+      traffic and is faster, since the summary is already downloaded when the
+      feed is checked for new items. However, if you usually are interested in
+      the full article, you will save time by unchecking this option.</p>
+  </li>
+  <li>Click OK to confirm the changes.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="removing_a_feed">Removing a feed</h2>
+
+<p>If you no longer want to follow one of the feeds in your blogs and news
+  account, you can remove it.</p>
+
+<p>To remove a feed in your selected blogs and news account, begin from the
+  Mail window:</p>
+
+<ol>
+  <li>In the accounts pane, click your desired Blogs and News account to
+    manage, or a feed inside it.</li>
+  <li>Open the File menu and choose Subscribe (or use any other of the
+    <a href="#getting_into_the_feed_subscriptions_dialog">available methods</a>.
+    to access to the Feed Subscriptions dialogue box).</li>
+  <li>In the Feed Subscriptions dialogue, click on a feed in the feed list. You
+    may need to expand the folders in the feed list to see each individual
+    feed.</li>
+  <li>Click the Remove button. You will be asked to confirm the deletion of the
+    feed.</li>
+</ol>
+
+<p><strong>Note:</strong> don&apos;t confuse a feed with a folder in a Blogs
+  and News account. Removing a feed doesn&apos;t delete the folder in which
+  the feed articles are stored, and thus, such articles will stay in the folder
+  until you delete either the whole folder or the articles themselves. To get
+  a better understanding, see <a href="#organizing_your_feeds">Organising your
+  feeds</a> later in this section.</p>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="using_different_blogs_and_news_feeds_accounts">Using different blogs
+  and news feeds accounts</h2>
+
+<p>A single blogs and news feeds account can contain any number of feeds in
+  it, so you don&apos;t strictly need more than one blogs and news feeds
+  account. However, you may want to create several blogs and news feeds
+  accounts. Some reasons to do that are:</p>
+
+<ul>
+  <li>You can use different accounts to categorise your feeds. For example, you
+    can create an account named <q>Mozilla News</q> to put in it all your
+    feeds related to Mozilla, and another one named <q>Today Headlines</q> to
+    put in it all your feeds with general news.</li>
+  <li>If you have several accounts, each one can have different settings. This
+    way, you can choose, for example, different time intervals for each account
+    (and, therefore, their feeds.)</li>
+</ul>
+
+<p>[<a href="#getting_started_with_blogs_and_news_feeds">Return to beginning of
+  section</a>]</p>
+
+<h2 id="organizing_your_feeds">Organising your feeds</h2>
+
+<p>The default operation mode when adding a feed to a Blogs and News Feeds
+  account in &brandShortName; is to create a folder and a feed inside it.
+  However, &brandShortName; allows you a great deal of flexibility. This section
+  helps you to better organise your feeds:</p>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#feeds_vs_folders">Feeds versus folders</a></li>
+    <li><a href="#organizing_folders_in_blogs_and_news_feeds_accounts">Organising
+      folders in Blogs and News Feeds accounts</a></li>
+    <li><a href="#downloading_multiple_feeds_in_a_single_folder">Downloading
+      multiple feeds in a single folder</a></li>
+    <li><a href="#moving_a_feed_to_another_folder">Moving a feed to another
+      folder</a></li>
+  </ul>
+</div>
+
+<h3 id="feeds_vs_folders">Feeds versus folders</h3>
+
+<p>Blogs and News Feeds accounts are organised through two main concepts:
+  <strong>feeds</strong> and <strong>folders</strong>.</p>
+  
+<ul>
+  <li><strong>Feeds</strong> are sources for articles/posts. They provide
+    the means to get new articles from blogs. You subscribe to feeds.</li>
+  <li><strong>Folders</strong> in Blogs and News Feeds accounts work pretty
+    much like in any other account type. Folders store articles/posts you got
+    through the feeds.</li>
+</ul>
+
+<p>You use the Feed Subscriptions dialogue to tell &brandShortName; which feed
+  messages are downloaded in which folders. As feeds provide new articles and
+  folders provide the store to put such articles, you will want to have them
+  connected, usually linking a feed to a folder. However, keep in mind that
+  removing a feed will not automatically delete the associated folder, nor
+  will remove the articles/posts from the removed feed, since they are
+  stored into the folder.</p>
+
+<p>[<a href="#organizing_your_feeds">Return to beginning of section</a>]</p>
+
+<h3 id="organizing_folders_in_blogs_and_news_feeds_accounts">Organising folders
+  in Blogs and News Feeds accounts</h3>
+
+<p>You can create, rename, move or copy folders in Blogs and News Feeds
+  accounts just like with any other account type. See
+  <a href="#creating_a_folder">Creating a folder</a>,
+  <a href="#renaming_a_folder">Renaming a folder</a> and
+  <a href="#moving_or_copying_a_folder">Moving or copying a folder</a> for more
+  details.</p>
+
+<p>[<a href="#organizing_your_feeds">Return to beginning of section</a>]</p>
+
+<h3 id="downloading_multiple_feeds_in_a_single_folder">Downloading multiple
+  feeds in a single folder</h3>
+
+<p>You may want to use a single folder to store articles/items coming from
+  more than one feed. To do this, you just need to add additional feeds in
+  that folder. Begin from the Mail window:</p>
+
+<ol>
+  <li>In the accounts pane, click your desired Blogs and News Feeds account
+    to manage, or a feed inside it.</li>
+  <li>Open the File menu and choose Subscribe (or use any other of the
+    <a href="#getting_into_the_feed_subscriptions_dialog">available methods</a>.
+    to access to the Feed Subscriptions dialogue box).</li>
+  <li>In the Feed Subscriptions dialogue, click in the desired folder, then click
+    the Add button. The Feed properties dialogue will appear.</li>
+  <li>Type (or copy and paste) the feed URL in the Feed URL field.</li>
+  <li>Click OK to confirm the feed addition.</li>
+</ol>
+
+<p>[<a href="#organizing_your_feeds">Return to beginning of section</a>]</p>
+
+<h3 id="moving_a_feed_to_another_folder">Moving a feed to another folder</h3>
+
+<p>You can move a feed from a folder to another one using any of these
+  methods:</p>
+
+<ul>
+  <li>Drag &amp; drop a feed while inside the Feed Subscriptions window.</li>
+  <li><a href="#editing_a_feed">Edit the feed</a> to change in what folder it
+    downloads articles/items.</li>
+</ul>
+
+<p><strong>Note</strong>: Remember that moving the feed doesn&apos;t move
+  existing articles from the folder in which they have been
+  downloaded.</p>
+
+<p>[<a href="#organizing_your_feeds">Return to beginning of section</a>]</p>
+
 <h1 id="working_offline">Working Offline</h1>
 
 <div class="contentsBox">In this section:
@@ -3090,9 +3516,10 @@ to filter unwanted mail, and how phishing detection works.</p>
   <li>Tick the box labelled <q>Keep messages for this account on this
     computer</q>.</li>
   <li>Click OK.</li>
-  <li>Once downloading is complete, click the Online/Offline indicator
-    <img src="images/online.png" alt=""/> in the lower right corner of the
-    Mail window (to the left of the Cookie icon) to go offline.</li>
+  <li>Click the Online/Offline indicator <img src="images/online.png" alt=""/>
+    in the lower right corner of the Mail window (to the left of the Cookie
+    icon) to go offline. You will be asked to download messages for them to be
+    available while offline. Click on <q>Download</q> to proceed.</li>
 </ol>
 
 <p><strong>Note</strong>: This setting also applies to any new folders
@@ -3180,7 +3607,7 @@ to filter unwanted mail, and how phishing detection works.</p>
   Mail &amp; Newsgroups automatically send your unsent messages when you
   reconnect, use the Preferences command on the
   <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
-  menu to change your <a href="#offline_and_disk_space_preferences">offline
+  menu to change your <a href="#network_and_storage_preferences">offline
   preferences</a>.</p>
 
 <p>[<a href="#working_offline">Return to beginning of section</a>]</p>
@@ -3251,7 +3678,7 @@ to filter unwanted mail, and how phishing detection works.</p>
   Mail &amp; Newsgroups automatically send your unsent messages when you
   reconnect, use the Preferences command on the
   <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
-  menu to change your <a href="#offline_and_disk_space_preferences">offline
+  menu to change your <a href="#network_and_storage_preferences">offline
   preferences</a>.</p>
 
 <p>[<a href="#working_offline">Return to beginning of section</a>]</p>
@@ -3315,7 +3742,8 @@ to filter unwanted mail, and how phishing detection works.</p>
     <p>Once set, you don&apos;t need to change these settings. See the sections
       below for information on setting offline and disc space preferences for
       <a href="#synchronization_and_storage_settings_imap">IMAP</a>,
-      <a href="#disk_space_settings">POP</a>, and
+      <a href="#disk_space_settings_pop">POP</a>,
+      <a href="#disk_space_settings_blogs">Blogs</a>, and
       <a href="#synchronization_and_storage_settings_nntp">Newsgroup</a>
       accounts.</p>
 
@@ -3447,10 +3875,12 @@ to filter unwanted mail, and how phishing detection works.</p>
 <p><strong>Tip</strong>: To set &brandShortName; Mail &amp; Newsgroups&apos;
   download behaviour when going offline, open the
   <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
-  menu, choose Preferences, and then click the Synchronisation &amp; Storage
-  category. You can choose to have &brandShortName; Mail &amp; Newsgroups
-  prompt you to download messages when going offline, to automatically
-  download messages, or to not download any messages.</p>
+  menu, choose Preferences, and then under the Mail &amp; Newsgroups category,
+  select Network &amp; Storage (if no subcategories are visible, double-click
+  Mail &amp; Newsgroups to expand the list). You can choose to have
+  &brandShortName; Mail &amp; Newsgroups prompt you to download messages when
+  going offline, to automatically download messages, or to not download any
+  messages.</p>
 
 <p>To reconnect and synchronise your messages:</p>
 
@@ -3524,23 +3954,51 @@ to filter unwanted mail, and how phishing detection works.</p>
 
 <ul>
   <li><strong>Account Name</strong>: The name for this account.</li>
-  <li><strong>Identity</strong>: Stores your name, email address, reply-to
-    address (only if different from your email address), and organisation
-    (optional).</li>
-  <li><strong>Signature text</strong>: If you want to attach a signature to all
-    outgoing messages, type its text into this box. Tick <strong>Use HTML</strong>
-    to enable HTML code, e.g., &lt;b&gt;bold&lt;/b&gt; (optional).</li>
-  <li><strong>Attach the signature from a file instead</strong>: Lets you choose
-    to attach the signature from a file (in text, HTML, or image format) rather
-    than entering its text. Ticking this option overrides any text entered into
-    the signature box. Click Choose to locate the signature file (optional).
+  <li>For any type of account but Blogs and News Feeds:
+    <ul>
+      <li><strong>Identity</strong>: Stores your name, email address, reply-to
+        address (only if different from your email address), and organisation
+        (optional).</li>
+      <li><strong>Signature text</strong>: If you want to attach a signature to
+        all outgoing messages, type its text into this box. Tick <strong>Use
+        HTML</strong> to enable HTML code, e.g., &lt;b&gt;bold&lt;/b&gt;
+        (optional).</li>
+      <li><strong>Attach the signature from a file instead</strong>: Lets you
+        choose to attach the signature from a file (in text, HTML, or image
+        format) rather than entering its text. Ticking this option overrides
+        any text entered into the signature box. Click Choose to locate the
+        signature file (optional).
 
-    <p>More signature options are located in <a href="#addressing">Composition
-      &amp; Addressing</a>.</p>
+        <p>More signature options are located in
+          <a href="#addressing">Composition &amp; Addressing</a>.</p>
+      </li>
+      <li><strong>Attach my vCard to messages</strong>: Lets you choose if your
+        vCard should be attached to your outgoing messages. Click Edit Card to
+        edit the card information (optional).</li>
+    </ul>
   </li>
-  <li><strong>Attach my vCard to messages</strong>: Lets you choose if your
-    vCard should be attached to your outgoing messages. Click Edit Card to edit
-    the card information (optional).</li>
+  <li>For Blogs and News Feeds accounts:
+    <ul>
+      <li><strong>Check for new articles at startup</strong>: Tick this
+        tickbox if you want to check this account automatically for new blogs
+        &amp; news messages whenever you start Mail &amp; Newsgroups.</li>
+      <li><strong>Check for new articles every [__] minutes</strong>: Tick
+        this tickbox if you want to specify the number of minutes between feed
+        checks. You can also check for new blogs &amp; news messages at any time
+        by clicking Get Msgs in the Mail window.</li>
+      <li><strong>By default, show the article summary instead of loading the
+        web page</strong>: Tick this tickbox if you want &brandShortName;
+        to display a brief summary of the article (bundled inside the feed)
+        instead of loading the full web page. Showing the article summary is
+        slightly faster than the full web page, but you may miss part of the
+        article content.</li>
+      <li><strong>Empty Trash on Exit</strong>: Empties the Trash folder
+        whenever you quit Mail &amp; Newsgroups.</li>
+      <li><strong>Manage Subscriptions...</strong>: Shows the Feed Subscriptions
+        dialogue, that allows you to add, edit and remove feeds to this blogs
+        and news feeds account.</li>
+    </ul>
+  </li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Return to beginning of
@@ -3632,26 +4090,39 @@ to filter unwanted mail, and how phishing detection works.</p>
   <li><strong>Port</strong>: Unless otherwise instructed to do so by your
     service provider or system administrator, leave this setting
     unchanged.</li>
-  <li><strong>Use secure connection (SSL)</strong>: Choose this setting if your
-    mail server is configured to send and receive encrypted messages. If you
-    are unsure, contact your service provider or system administrator.</li>
+  <li><strong>Connection security</strong>: Choose one of the available options
+    to establish a <a href="glossary.xhtml#secure_connection">secure
+    connection</a> to your incoming IMAP server. You can choose one of these:
+    <ul>
+      <li><strong>None</strong>: &brandShortName; will use a plain connection,
+        without encryption at all. You should choose this <strong>only</strong>
+        if your incoming server doesn&apos;t support any type of security.</li>
+      <li><strong>STARTTLS</strong>: Require an encrypted connection, use the
+        <a href="glossary.xhtml#starttls">STARTTLS</a> method. This mechanism
+        will usually run on the standard IMAP port 143.</li>
+      <li><strong>SSL/TLS</strong>: Require an encrypted connection, use the
+        IMAP-over-SSL method. The default port for this is 993.
+      </li>
+    </ul>
+  </li>
   <li><strong>Use secure authentication</strong>: Choose this setting if you
     want to use secure mechanisms for logging in like CRAM-MD5. If you are
     unsure if your service supports this, contact your service provider or
     system administrator.</li>
-  <li><strong>Check for new mail at startup</strong>: Choose this setting if
-    you want Mail &amp; Newsgroups to automatically check this account for new
-    messages whenever you start Mail &amp; Newsgroups.</li>
+  <li><strong>Check for new messages at startup</strong>: Choose this setting
+    if you want Mail &amp; Newsgroups to automatically check this account for
+    new messages whenever you start Mail &amp; Newsgroups.</li>
   <li><strong>Check for new messages every [__] minutes</strong>: Choose this
     setting to automatically check for new messages, and then specify the
     number of minutes between mail checks. If you do not select this setting,
     you can check for new messages at any time by clicking Get Msgs in the Mail
     window.</li>
   <li id="when_i_delete_a_message"><strong>When I delete a message</strong>:
-    Choose the behaviour you want for deleted messages. <q>Move it to the Deleted
-    folder</q> is recommended unless you are instructed to use a different
-    setting by your system administrator or service provider. Messages marked
-    as deleted are removed only when you compact folders.</li>
+    Choose the behaviour you want for deleted messages. <q>Move it to this
+    folder</q>, where you can choose the specific folder to use, is recommended
+    unless you are instructed to use a different setting by your system
+    administrator or service provider. Messages marked as deleted are removed
+    only when you compact folders.</li>
   <li><strong>Clean up (Expunge) Inbox on Exit</strong>: Removes deleted
     messages from the Inbox when you exit Mail &amp; Newsgroups. Choose this
     if you chose to mark messages as deleted.</li>
@@ -3724,18 +4195,30 @@ to filter unwanted mail, and how phishing detection works.</p>
   <li><strong>Port</strong>: Unless otherwise instructed to do so by your
     service provider or system administrator, leave this setting
     unchanged.</li>
-  <li><strong>Use secure connection (SSL)</strong>: Choose this setting if your
-    mail server is configured to send and receive encrypted messages. If you
-    are unsure, contact your service provider or system administrator.</li>
+  <li><strong>Connection security</strong>: Choose one of the available options
+    to establish a <a href="glossary.xhtml#secure_connection">secure
+    connection</a> to your incoming POP server. You can choose one of these:
+    <ul>
+      <li><strong>None</strong>: &brandShortName; will use a plain connection,
+        without encryption at all. You should choose this <strong>only</strong>
+        if your incoming server doesn&apos;t support any type of security.</li>
+      <li><strong>STARTTLS</strong>: Require an encrypted connection, use the
+        <a href="glossary.xhtml#starttls">STARTTLS</a> method. This mechanism
+        will usually run on the standard POP port 110.</li>
+      <li><strong>SSL/TLS</strong>: Require an encrypted connection, use the
+        POP-over-SSL method. The default port for this is 995.
+      </li>
+    </ul>
+  </li>
   <li><strong>Use secure authentication</strong>: Choose this setting if you
     want to use secure mechanisms for logging in like CRAM-MD5 and APOP. If you
     are unsure if your server supports this, contact your service provider or
     system administrator.</li>
-  <li><strong>Check for new mail at startup</strong>: Choose this setting if
-    you want Mail &amp; Newsgroups to automatically check this account for new
-    messages whenever you start Mail &amp; Newsgroups. For POP accounts, Mail
-    &amp; Newsgroups doesn&apos;t download the new messages until you click Get
-    Msgs on the Mail toolbar.</li>
+  <li><strong>Check for new messages at startup</strong>: Choose this setting
+    if you want Mail &amp; Newsgroups to automatically check this account for
+    new messages whenever you start Mail &amp; Newsgroups. For POP accounts,
+    Mail &amp; Newsgroups doesn&apos;t download the new messages until you
+    click Get Msgs on the Mail toolbar.</li>
   <li><strong>Check for new messages every [__] minutes</strong>: Choose this
     setting to automatically check for new messages, and then specify the
     number of minutes between mail checks. If you do not select this setting,
@@ -3756,15 +4239,15 @@ to filter unwanted mail, and how phishing detection works.</p>
       <li><strong>For at most [__] days</strong>: Choose this setting to remove
         messages from the server automatically after the number of days you
         enter here.</li>
-      <li><strong>Until I delete or move them from Inbox</strong>: Choose this
-        setting to remove messages from the server once you delete them or move
-        them from your Inbox into another folder.</li>
+      <li><strong>Until I delete them</strong>: Choose this setting to remove
+        messages from the server once you delete them.</li>
     </ul>
   </li>
   <li><strong>Empty Deleted folder on Exit</strong>: Choose this setting to empty the
     Deleted folder whenever you quit Mail &amp; Newsgroups.</li>
-  <li><strong>Advanced</strong>: Lets you choose a different outgoing server
-    (SMTP) for outgoing messages from this account.</li>
+  <li><strong>Advanced</strong>: Lets you choose where new messages should be
+    put. You can also set the server to be queried when checking for new
+    messages.</li>
   <li><strong>Local directory</strong>: The location on your hard disc where
     mail for this account is stored.</li>
 </ul>
@@ -3795,9 +4278,13 @@ to filter unwanted mail, and how phishing detection works.</p>
   <li><strong>Port</strong>: Unless otherwise instructed to do so by your
     service provider or system administrator, leave this setting
     unchanged.</li>
-  <li><strong>Use secure connection (SSL)</strong>: Choose this setting if your
-    news server is configured to send and receive encrypted messages. If you
-    are unsure, contact your service provider or system administrator.</li>
+  <li><strong>Connection security</strong>: Choose &quot;SSL/TLS&quot; if your
+    news server is configured to send and receive encrypted messages, or
+    &quot;None&quot; if it doesn&apos;t support it. If you are unsure, contact
+    your service provider or system administrator.</li>
+  <li><strong>Check for new messages at startup</strong>: Choose this setting
+    to automatically check for new messages when you first open the Mail &amp;
+    Newsgroup component of &brandShortName;.</li>
   <li><strong>Check for new messages every [__] minutes</strong>: Choose this
     setting to automatically check for new messages, and then specify the
     number of minutes between mail checks. If you do not select this setting,
@@ -3812,14 +4299,18 @@ to filter unwanted mail, and how phishing detection works.</p>
     are logged in. Choose this setting to force &brandShortName; to
     authenticate each time it connects to this server even when the server
     doesn&apos;t ask (also called <q>Pushed Authentication</q>).</li>
-  <li><strong>Advanced</strong>: Lets you choose a different outgoing server
-    (SMTP) for outgoing messages from this account.</li>
   <li><strong>newsrc file</strong>: The path to the newsrc file is mostly
     displayed for your information. The newsrc file stores information about
     the newsgroups to which you are subscribed and the messages you have read
     in each newsgroup.</li>
   <li><strong>Local directory</strong>: The location on your hard disc where
     mail for this account is stored.</li>
+  <li><strong>Default Character Encoding</strong>: Click this drop-down list to
+    select the character encoding you want Mail &amp; Newsgroups to use as the
+    default for incoming newsgroup messages. This is recommended if it&apos;s
+    likely you might receive messages in which the character encoding (MIME
+    charset) is not indicated, such as when reading messages in international
+    newsgroups.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Return to beginning of
@@ -3982,7 +4473,9 @@ to filter unwanted mail, and how phishing detection works.</p>
   <ul>
     <li><a href="#synchronization_and_storage_settings_imap">Synchronisation
       &amp; Storage Settings (IMAP)</a></li>
-    <li><a href="#disk_space_settings">Disc Space Settings (POP)</a></li>
+    <li><a href="#disk_space_settings_pop">Disc Space Settings (POP)</a></li>
+    <li><a href="#disk_space_settings_blogs">Disc Space Settings
+      (Blogs)</a></li>
     <li><a href="#synchronization_and_storage_settings_nntp">Synchronisation
       &amp; Storage Settings (News)</a></li>
     <li><a href="#retention_policy">Common Retention Policy Settings</a></li>
@@ -4019,9 +4512,20 @@ to filter unwanted mail, and how phishing detection works.</p>
       an individual folder, those per-folder settings are <em>removed</em>
       whenever the <q>Keep messages for this account</q> box is toggled.</p>
   </li>
-  <li><strong>Messages larger than [__] KB</strong>: Select this option to
-    conserve disc space by preventing large messages from being downloaded.
-    Enter the maximum size for downloaded messages.</li>
+  <li><strong>Synchronize all messages locally regardless of age</strong>:
+    When synchronization is enabled for an account or a folder, <em>all</em>
+    messages are downloaded and local copies of them kept on disc, unless
+    a size limit is specified.</li>
+  <li><strong>Synchronize the most recent [__] [days]</strong>: Only copies of
+    messages younger than the specified number of days (weeks, months, years)
+    are kept locally for synchronization, after that they are removed from the
+    offline storage. This does <em>not</em> affect the originals on the server,
+    only the local copies are removed if the given age is reached.</li>
+  <li><strong>Don't download messages larger than [__] KB</strong>: Select this
+    option to conserve disk space by preventing large messages from being
+    downloaded. Enter the maximum size for downloaded messages. Changing
+    this option does <em>not</em> affect messages that have already been
+    downloaded.</li>
   <li>The <a href="#retention_policy">retention settings</a> can be used to
     free up space by deleting old messages. Note that these settings apply
     to <em>both</em> local copies and their originals on the server.</li>
@@ -4030,7 +4534,7 @@ to filter unwanted mail, and how phishing detection works.</p>
 <p>[<a href="#mail_and_newsgroups_account_settings">Return to beginning of
   section</a>]</p>
 
-<h3 id="disk_space_settings">Disc Space Settings (POP)</h3>
+<h3 id="disk_space_settings_pop">Disc Space Settings (POP)</h3>
 
 <p>Messages from POP accounts are fully downloaded to your local machine unless
   you have enabled the <q>Fetch headers only</q> setting. This section
@@ -4058,6 +4562,44 @@ to filter unwanted mail, and how phishing detection works.</p>
     <p><strong>Note</strong>: If your POP account is set up to use a Global
       Inbox, the retention period settings of the target Inbox apply.</p>
   </li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroups_account_settings">Return to beginning of
+  section</a>]</p>
+
+<h3 id="disk_space_settings_blogs">Disc Space Settings (Blogs)</h3>
+
+<p>Messages from blogs and news feeds accounts are only stored in your local
+  machine in their short form, ie. the article summary, regardless of whether
+  your settings are to show the full articles by default. Still, there are
+  options to control how much disc space is used by your blogs and news feeds
+  account. If you are not already viewing the Disc Space preferences for a
+  blogs and news feeds account, follow these steps:</p>
+
+<p>Begin from the Mail window.</p>
+
+<ol>
+  <li>Open the Edit menu, choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialogue box.</li>
+  <li>Click the Disc Space category for a blogs and news feeds account.</li>
+</ol>
+
+<p>There, you can specify which messages should be deleted to recover disc
+  space:</p>
+
+<ul>
+  <li><strong>Don&apos;t delete any messages</strong>: Select this option to
+    keep all messages forever. Keep in mind that, if you are subscribed to very
+    high-traffic blogs, this will increase the occupied disc space steadily and
+    could eventually fill up your hard disc.</li>
+  <li><strong>Delete all but the most recent [____] messages</strong>: Select this
+    option to keep in each feed only a maximum number of messages. Enter the
+    maximum number of messages (being 1,000 by default).</li>
+  <li><strong>Delete messages more than [__] days old</strong>: Select this
+    option to keep in each feed only messages that are not older than the number
+    of days you enter here (being 30 days by default).</li>
+  <li><strong>Always keep flagged messages</strong>: Check this option to
+    save (not delete) flagged messages, regardless of its age.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Return to beginning of
@@ -4153,8 +4695,8 @@ to filter unwanted mail, and how phishing detection works.</p>
 
 <p>You use the Junk Settings panel to define your account-specific settings
   for the adaptive mail filter. Global junk settings are changed under
-  <a href="#global_junk_settings">Mail &amp; Newsgroups Preferences -
-  Junk Mail</a>.</p>
+  <a href="#junk_and_suspect_preferences">Mail &amp; Newsgroups Preferences -
+  Junk and Suspect Mail</a>.</p>
   
 <ul>  
   <li><strong>Enable adaptive junk mail controls for this account</strong>:
@@ -4412,18 +4954,21 @@ to filter unwanted mail, and how phishing detection works.</p>
     unsure if your service supports this, contact your service provider or
     system administrator.</li>
   <li><strong>Use secure connection</strong>: There are two methods for
-    establishing a secure connection to your outgoing server. Pick the one your
-    server supports (if you make a choice for which your server is not configured,
-    you will get an error message when sending mail).
+    establishing a <a href="glossary.xhtml#secure_connection">secure
+    connection</a> to your outgoing server. Pick the one your server supports
+    (if you make a choice for which your server is not configured, you will
+    get an error message when sending mail).
     <ul>
       <li><strong>STARTTLS, if available</strong>: &brandShortName; will try to
-        negotiate encryption using the STARTTLS method. If the server doesn&apos;t
-        support it, an unencrypted connection is used.</li>
-      <li><strong>STARTTLS</strong>: Require an encrypted connection, use the STARTTLS
-        method. This mechanism will mostly run on the standard SMTP port 25.</li>
+        negotiate encryption using the
+        <a href="glossary.xhtml#starttls">STARTTLS</a> method. If the server
+        doesn&apos;t support it, an unencrypted connection is used.</li>
+      <li><strong>STARTTLS</strong>: Require an encrypted connection, use the
+        <a href="glossary.xhtml#starttls">STARTTLS</a> method. This mechanism
+        will usually run on the standard SMTP port 25.</li>
       <li><strong>SSL/TLS</strong>: Require an encrypted connection, use the
-        SMTP-over-SSL (also known as SMTPS) method. The default port for this is 465.
-     </li>
+        SMTP-over-SSL (also known as SMTPS) method. The default port for this
+        is 465.</li>
     </ul>
   </li>
 </ul>
@@ -4451,11 +4996,11 @@ to filter unwanted mail, and how phishing detection works.</p>
     <li><a href="#composition">Composition</a></li>
     <li><a href="#send_format">Send Format</a></li>
     <li><a href="#addressing_preferences">Addressing</a></li>
-    <li><a href="#global_junk_settings">Junk Mail</a></li>
+    <li><a href="#junk_and_suspect_preferences">Junk and Suspect Mail</a></li>
     <li><a href="#tags">Tags</a></li>
     <li><a href="#return_receipts_preferences">Return Receipts</a></li>
     <li><a href="#character_encoding">Character Encoding</a></li>
-    <li><a href="#offline_and_disk_space_preferences">Offline &amp; Disc Space
+    <li><a href="#network_and_storage_preferences">Network &amp; Storage
       Preferences</a></li>
   </ul>
 </div>
@@ -4845,22 +5390,23 @@ to filter unwanted mail, and how phishing detection works.</p>
 <p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
   section</a>]</p>
 
-<h2 id="global_junk_settings">Mail &amp; Newsgroups Preferences - 
-  Junk Mail</h2>
+<h2 id="junk_and_suspect_preferences">Mail &amp; Newsgroups Preferences -
+  Junk and Suspect Mail</h2>
 
-<p>This section describes how to use the Junk Mail preferences panel. If
-  you are not currently viewing the Junk Mail panel, follow these steps:</p>
+<p>This section describes how to use the Junk and Suspect Mail preferences
+  panel. If you are not currently viewing the Junk and Suspect Mail panel,
+  follow these steps:</p>
 
 <ol>
   <li>Open the <span class="mac">&brandShortName;</span>
     <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Mail &amp; Newsgroups category, select Junk Mail. (If no
-    subcategories are visible, double-click Mail &amp; Newsgroups to expand the
-    list.)</li>
+  <li>Under the Mail &amp; Newsgroups category, select Junk and Suspect Mail.
+    (If no subcategories are visible, double-click Mail &amp; Newsgroups to
+    expand the list.)</li>
 </ol>
 
 <ul>
-  <li><strong>When I manually mark messages as junk</strong>: Choose this to
+  <li><strong>When I mark messages as junk</strong>: Choose this to
     set what you want &brandShortName; to do when you manually mark messages
     as Junk.
     <ul>
@@ -4871,8 +5417,16 @@ to filter unwanted mail, and how phishing detection works.</p>
         Junk messages to the Deleted folder.</li>
     </ul>
   </li>
-  <li><strong>Mark messages determined to be junk as read</strong>: Select this
-    option to mark junk messages as read, so they will not show up as new.</li>
+  <li><strong>Mark messages as read</strong>:
+    <ul>
+      <li><strong>When &brandShortName; determines that they are junk</strong>:
+        Select this option to mark junk messages as read, so they will not show
+        up as new.</li>
+      <li><strong>When I manually mark them as junk</strong>: Select this
+        option to mark messages as read when you manually mark them as junk.
+      </li>
+    </ul>
+  </li>
   <li><strong>Enable junk filter logging</strong>: Select this option to allow
     logging the history of Junk mail detections. Click the <strong>Show log
     </strong> button to open a dialogue showing this log.</li>
@@ -4880,6 +5434,14 @@ to filter unwanted mail, and how phishing detection works.</p>
     training data of the adaptive junk filter. Since this will effectively
     destroy your personal junk profile, you will be asked for confirmation.
   </li>
+  <li><strong>Tell me if the message I'm reading is a suspected email
+    scam</strong>: Choose this to make &brandShortName; analyze messages for
+    suspected email scams by looking for common techniques used to deceive
+    people.</li>
+  <li><strong>Allow anti-virus clients to scan incoming messages more
+    easily</strong>: Choose this to let &brandShortName; make it easier for
+    anti-virus software to analyze incoming mail messages for viruses before
+    they are stored locally.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
@@ -5012,26 +5574,28 @@ to filter unwanted mail, and how phishing detection works.</p>
 <p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
   section</a>]</p>
 
-<h2 id="offline_and_disc_space_preferences">Mail &amp; Newsgroups Preferences -
-  Offline &amp; Disc Space</h2>
+<h2 id="network_and_storage_preferences">Mail &amp; Newsgroups Preferences -
+  Network &amp; Storage</h2>
 
-<p>This section describes how to use the Offline &amp; Disc Space preferences
+<p>This section describes how to use the Network &amp; Storage preferences
   panel. If you are not currently viewing the panel, follow these steps:</p>
 
 <ol>
   <li>Open the <span class="mac">&brandShortName;</span>
     <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Mail &amp; Newsgroups category, select Offline &amp; Disc
-    Space. (If no subcategories are visible, double-click Mail &amp;
-    Newsgroups to expand the list.).</li>
+  <li>Under the Mail &amp; Newsgroups category, select Network &amp; Storage.
+    (If no subcategories are visible, double-click Mail &amp; Newsgroups to
+    expand the list.)</li>
 </ol>
 
-<p>The Offline &amp; Disc Space preferences allow you to set preferences for
-  working offline, going online, and disc space.</p>
+<p>The Network &amp; Storage preferences allow you to set preferences for
+  working offline, going online, mail connections and disc space.</p>
 
 <ul>
   <li><strong>Offline</strong>: Select how you want Mail &amp; Newsgroups to
     handle messages when going online or offline.</li>
+  <li><strong>Mail Connections</strong>: Choose how long you want Mail &amp;
+    Newsgroups to keep trying to contact the server before timing out.</li>
   <li><strong>Disc Space</strong>: Select this to conserve disc space by 
     automatically compacting message folders when it will save the amount 
     of disc space you enter.</li>
