@@ -118,7 +118,6 @@
   <rdf:li><rdf:Description ID="nav-doc-cache" nc:name="Cache Einstellungen &#228;ndern" nc:link="nav_help.xhtml#changing_cache_settings"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-smartup" nc:name="Automatisches Software-Update" nc:link="nav_help.xhtml#getting_the_latest_software_automatically"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-mousewheel" nc:name="Benutzung eines Mausrads" nc:link="nav_help.xhtml#using_a_mouse_wheel"/></rdf:li>
-  <rdf:li><rdf:Description ID="nav-doc-quicklaunch" nc:name="Benutzung der Schnellstartfunktion" nc:link="nav_help.xhtml#using_quick_launch"/></rdf:li>
   </rdf:Seq>
  </nc:subheadings>
  </rdf:Description>
