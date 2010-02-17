@@ -2,7 +2,8 @@
 
 <!ENTITY     cookiesonsystem.label          "Na tym komputerze przechowywane są następujące ciasteczka:">
 <!ENTITY     cookiename.label               "Nazwa ciasteczka">
-<!ENTITY     cookiedomain.label             "Witryna"> 
+<!ENTITY     cookiedomain.label             "Witryna">
+<!ENTITY     button.removecookies.label     "Usuń ciasteczka">
 <!ENTITY     button.removecookie.label      "Usuń ciasteczko">
 <!ENTITY     button.removecookie.accesskey  "U">
 <!ENTITY     button.removeallcookies.label  "Usuń wszystkie ciasteczka">
@@ -25,4 +26,3 @@
 
 <!ENTITY     button.close.label             "Zamknij">
 <!ENTITY     button.close.accesskey         "Z">
-
