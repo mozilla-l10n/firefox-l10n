@@ -23,3 +23,22 @@
 <!ENTITY missingPlugin.label                                 "Kliknij tutaj, aby pobrać wtyczkę.">
 <!ENTITY disabledPlugin.label                                "Wtyczka obsługująca treść tego rodzaju została wyłączona. Kliknij, by zarządzać wtyczkami.">
 <!ENTITY blockedPlugin.label                                 "Wtyczka zablokowana z przyczyn bezpieczeństwa.">
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Odśwież stronę">
+<!ENTITY reloadPlugin.post                                   ", aby spróbować ponownie.">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "Przesłano ">
+<!ENTITY submittedCrashReport.middle                         "zgłoszenie awarii">
+<!ENTITY submittedCrashReport.post                           ".">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "Użytkownik wyłączył przesyłanie">
+<!ENTITY notSubmittedCrashReport.middle                      "zgłoszeń awarii">
+<!ENTITY notSubmittedCrashReport.post                        ".">
