@@ -3,7 +3,7 @@
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchInput.label                  "Suche nach:">
 <!ENTITY searchInput.accesskey              "S">
-<!ENTITY SearchNameOrEmail.label            "Name oder E-Mail">
+<!ENTITY SearchNameOrEmail.label            "Name oder E-Mail-Adresse">
 
 <!ENTITY deleteAddrBookCard.label           "Löschen">
 <!ENTITY addrBookCardProperties.label       "Eigenschaften">

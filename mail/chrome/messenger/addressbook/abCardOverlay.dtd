@@ -39,7 +39,7 @@
 <!ENTITY Contact.accesskey               "K">
 <!ENTITY Name.box                        "Name">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -67,9 +67,9 @@
 <!ENTITY NickName.label                 "Spitzname:">
 <!ENTITY NickName.accesskey             "i">
 
-<!ENTITY PrimaryEmail.label             "E-Mail:">
+<!ENTITY PrimaryEmail.label             "E-Mail-Adresse:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Zusätzliche E-Mail:">
+<!ENTITY SecondEmail.label              "Zusätzliche E-Mail-Adresse:">
 <!ENTITY SecondEmail.accesskey          "u">
 <!ENTITY PreferMailFormat.label         "Bevorzugt folgendes Nachrichten-Format:">
 <!ENTITY PreferMailFormat.accesskey     "B">

@@ -36,7 +36,7 @@
 
 <!ENTITY GeneratedName.label                   "Name">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "E-Mail">
+<!ENTITY PrimaryEmail.label                    "E-Mail-Adresse">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organisation">
 <!ENTITY Company.accesskey                     "O">
@@ -44,7 +44,7 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Spitzname">
 <!ENTITY NickName.accesskey                    "S">
-<!ENTITY SecondEmail.label                     "Zusätzliche E-Mail">
+<!ENTITY SecondEmail.label                     "Zusätzliche E-Mail-Adresse">
 <!ENTITY SecondEmail.accesskey                 "Z">
 <!ENTITY Department.label                      "Abteilung">
 <!ENTITY Department.accesskey                  "g">
