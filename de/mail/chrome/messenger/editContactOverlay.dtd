@@ -4,7 +4,7 @@
 <!ENTITY editContactName.label "Name:">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "E-Mail:">
+<!ENTITY editContactEmail.label "E-Mail-Adresse:">
 <!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactPanelCancel.label "Abbrechen">

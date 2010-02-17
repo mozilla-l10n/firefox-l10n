@@ -567,7 +567,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.accesskey "E">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Name oder E-Mail enthält:">
+<!ENTITY SearchNameOrEmail.label "Name oder E-Mail-Adresse enthält:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
