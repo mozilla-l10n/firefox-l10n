@@ -1,8 +1,10 @@
 <!ENTITY about.version                "wersja">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2009">
-<!ENTITY about.copy.linkTitle         "Współtwórcy">
-<!ENTITY about.copy.afterLink         "projektu Mozilla.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Zobacz listę ">
+<!ENTITY about.credits.linkTitle      "Współtwórców">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " projektu Mozilla.">
 
 <!ENTITY about.license.beforeLink     "Przeczytaj">
 <!ENTITY about.license.linkTitle      "informacje o licencji">
