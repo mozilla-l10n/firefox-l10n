@@ -181,8 +181,8 @@
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey   "r">
 
-<!ENTITY clearRecentHistoryCmd.label     "Wyczyść historię przeglądania">
-<!ENTITY clearRecentHistoryCmd.accesskey "W">
+<!ENTITY clearRecentHistory.label     "Wyczyść historię przeglądania…">
+<!ENTITY clearRecentHistory.accesskey "W">
 
 <!ENTITY privateBrowsingCmd.start.label         "Przejdź do trybu prywatnego">
 <!ENTITY privateBrowsingCmd.start.accesskey     "e">
@@ -313,8 +313,6 @@
 <!ENTITY sendAudioCmd.accesskey       "d">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika" >
 <!ENTITY copyLinkCmd.accesskey "K" >
-<!ENTITY copyLinkTextCmd.label        "Kopiuj tekst odnośnika">
-<!ENTITY copyLinkTextCmd.accesskey    "u">
 <!ENTITY copyImageCmd.label "Kopiuj adres obrazka" >
 <!ENTITY copyImageCmd.accesskey "b" >
 <!ENTITY copyImageContentsCmd.label	"Kopiuj obrazek">
