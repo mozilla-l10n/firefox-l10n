@@ -30,6 +30,9 @@
 <!ENTITY checkNow.label             	 "Sprawdź teraz">
 <!ENTITY checkNow.accesskey           	 "S">
 
+<!ENTITY submitCrashes.label             "Przesyłaj zgłoszenia awarii">
+<!ENTITY submitCrashes.accesskey         "P">
+
 <!ENTITY networkTab.label                "Sieć">
 
 <!ENTITY connection.label                "Połączenie">
