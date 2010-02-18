@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "Tetapkan Sekarang">
 <!ENTITY checkNow.accesskey              "T">
+<!ENTITY submitCrashes.label             "Kirim laporan crash">
+<!ENTITY submitCrashes.accesskey         "c">
 
 <!ENTITY networkTab.label                "Jaringan">
 
