@@ -23,3 +23,21 @@
 <!ENTITY missingPlugin.label                                 "Klik di sini untuk mengunduh plugin.">
 <!ENTITY disabledPlugin.label                                "Plugin untuk isi berikut telah dimatikan. Klik di sini untuk mengelola plugin Anda.">
 <!ENTITY blockedPlugin.label                                 "Plugin berikut telah diblokir untuk keamanan Anda.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "Silakan coba ">
+<!ENTITY reloadPlugin.middle                                 "memuat ulang laman">
+<!ENTITY reloadPlugin.post                                   ".">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "">
+<!ENTITY submittedCrashReport.middle                         "Laporan crash">
+<!ENTITY submittedCrashReport.post                           " telah dikirim.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "Anda telah menonaktifkan pengiriman ">
+<!ENTITY notSubmittedCrashReport.middle                      "laporan crash">
+<!ENTITY notSubmittedCrashReport.post                        ".">
