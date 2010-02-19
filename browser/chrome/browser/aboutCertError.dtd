@@ -25,7 +25,7 @@ imitirati stranicu, pa stoga ne biste trebali nastaviti.">
 <!ENTITY certerror.getMeOutOfHere.label "Makni me odavde!">
 
 <!ENTITY certerror.expert.heading "Razumijem rizik">
-<!ENTITY certerror.expert.content "Ako razumijete što se dešava,
+<!ENTITY certerror.expert.content "Ako razumijete što se događa,
 možete instruirati &brandShortName; da vjeruje identifikaciji ove stranice.
 <b>Čak i ako vjerujete ovoj stranici, ova greška može značiti da netko zadire u vašu vezu.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nemojte dodavati iznimku, osim ako znate
