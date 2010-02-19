@@ -17,4 +17,4 @@
 <!ENTITY migrating.title "Importando…">
 <!ENTITY migrating.label "Se están importando los siguientes elementos…">
 <!ENTITY done.title "Importación completa">
-<!ENTITY done.label "Se importaron con éxito los siguientes elementos:">
+<!ENTITY done.label "Los siguientes elementos se importaron correctamente:">

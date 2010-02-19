@@ -59,7 +59,7 @@
 <!ENTITY mediaSaveAs "Guardar como…">
 <!ENTITY mediaSaveAs.accesskey "u">
 <!ENTITY mediaSaveAs2.accesskey "a">
-<!ENTITY mediaPreview "Vista preliminar del elemento:">
+<!ENTITY mediaPreview "Vista preliminar del medio:">
 <!ENTITY feedTab "Canales">
 <!ENTITY feedTab.accesskey "C">
 <!ENTITY feedSubscribe "Suscribirse">
