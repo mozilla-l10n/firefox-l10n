@@ -12,10 +12,10 @@
 <!ENTITY generalTab.accesskey "G">
 <!ENTITY generalURL "Dirección:">
 <!ENTITY generalType "Tipo:">
-<!ENTITY generalMode "Modo de renderizado:">
+<!ENTITY generalMode "Modo de representación:">
 <!ENTITY generalSize "Tamaño:">
-<!ENTITY generalReferrer "URL de referencia:">
-<!ENTITY generalSource "Origen:">
+<!ENTITY generalReferrer "URL de procedencia:">
+<!ENTITY generalSource "Origen del caché:">
 <!ENTITY generalModified "Modificado:">
 <!ENTITY generalEncoding "Codificación:">
 <!ENTITY generalMetaName "Nombre">
@@ -45,7 +45,7 @@
 <!ENTITY permTab "Permisos">
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "Usar predeterminado">
-<!ENTITY permAskAlways "Siempre preguntar">
+<!ENTITY permAskAlways "Preguntar siempre">
 <!ENTITY permAllow "Permitir">
 <!ENTITY permAllowSession "Permitir en esta sesión">
 <!ENTITY permBlock "Bloquear">

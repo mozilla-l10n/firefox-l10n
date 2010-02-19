@@ -1,7 +1,7 @@
 <!ENTITY enter.label "Introduzca la dirección web (URL), o especifique el archivo local que quiere abrir:">
 <!ENTITY chooseFile.label "Elegir archivo…">
 <!ENTITY newWindow.label "Nueva ventana">
-<!ENTITY newTab.label "Nueva pestaña">
+<!ENTITY newTab.label "Pestaña nueva">
 <!ENTITY topTab.label "Pestaña actual">
 <!ENTITY caption.label "Abrir dirección web">
 <!ENTITY openWhere.label "Abrir en:">

@@ -31,11 +31,11 @@
 <!ENTITY importFromHTMLFile.label "Desde un archivo HTML">
 <!ENTITY importFromHTMLFile.accesskey "v">
 <!ENTITY noMigrationSources.label "No se pudieron encontrar programas que contuvieran marcadores, historial o datos de contraseñas.">
-<!ENTITY importSource.title "Importar configuraciones y datos">
+<!ENTITY importSource.title "Importar configuración y datos">
 <!ENTITY importItems.title "Elementos a importar">
-<!ENTITY importItems.label "Seleccionar qué elementos importar:">
+<!ENTITY importItems.label "Seleccione qué elementos importar:">
 <!ENTITY migrating.title "Importando…">
-<!ENTITY migrating.label "Los siguientes elementos se están importando en este momento…">
+<!ENTITY migrating.label "Se están importando los siguientes elementos…">
 <!ENTITY selectProfile.title "Seleccionar perfil">
 <!ENTITY selectProfile.label "Se pueden importar datos de los siguientes perfiles:">
 <!ENTITY done.title "Importación completa">

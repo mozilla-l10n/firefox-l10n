@@ -5,7 +5,7 @@
 <!ENTITY go.label "Ir">
 <!ENTITY openLocation.label "Abrir enlace">
 <!ENTITY star.label "Marcar">
-<!ENTITY newtab.label "Nueva pestaña">
+<!ENTITY newtab.label "Pestaña nueva">
 <!ENTITY closetab.label "Cerrar pestaña">
 <!ENTITY cut.label "Cortar">
 <!ENTITY copy.label "Copiar">
