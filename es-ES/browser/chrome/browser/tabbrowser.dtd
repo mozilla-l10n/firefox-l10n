@@ -1,5 +1,5 @@
 <!ENTITY untitledTab "(Vacía)">
-<!ENTITY newTab.label "Nueva pestaña">
+<!ENTITY newTab.label "Pestaña nueva">
 <!ENTITY newTab.accesskey "N">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "C">

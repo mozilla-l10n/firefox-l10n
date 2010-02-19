@@ -4,7 +4,7 @@
 <!ENTITY proxyTitle.label "Configurar proxies para el acceso a Internet">
 <!ENTITY noProxyTypeRadio.label "Sin proxy">
 <!ENTITY noProxyTypeRadio.accesskey "y">
-<!ENTITY systemTypeRadio.label "Usar los datos de proxy del sistema">
+<!ENTITY systemTypeRadio.label "Usar la configuración del proxy del sistema">
 <!ENTITY systemTypeRadio.accesskey "d">
 <!ENTITY WPADTypeRadio.label "Autodetectar configuración del proxy para esta red">
 <!ENTITY WPADTypeRadio.accesskey "e">
@@ -36,6 +36,6 @@
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "No usar proxy para:">
 <!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "Ejemplo: .mozilla.org, .net.nz">
+<!ENTITY noproxyExplain.label "Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "Usar el mismo proxy para todo">
 <!ENTITY shareproxy.accesskey "s">
