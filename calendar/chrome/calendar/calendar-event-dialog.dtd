@@ -224,6 +224,7 @@
 <!ENTITY event.priority2.label                            "Priorität:">
 
 <!ENTITY event.reminder.none.label                        "Keine Erinnerung ">
+<!ENTITY event.reminder.0minutes.before.label             "0 Minuten vorher" >
 <!ENTITY event.reminder.5minutes.before.label             "5 Minuten vorher">
 <!ENTITY event.reminder.10minutes.before.label            "10 Minuten vorher">
 <!ENTITY event.reminder.15minutes.before.label            "15 Minuten vorher">
