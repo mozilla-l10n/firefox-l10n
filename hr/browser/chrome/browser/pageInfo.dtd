@@ -114,11 +114,11 @@
 
 <!ENTITY  securityView.privacy.header                   "Privatnost &amp; Povijest">
 <!ENTITY  securityView.privacy.history                  "Jesam li posjetio ovu stranicu prije današnjeg dana?">
-<!ENTITY  securityView.privacy.cookies                  "Pohranjuje li ova stranica informacije (kolačiće) na moje računalo?">
+<!ENTITY  securityView.privacy.cookies                  "Sprema li ova stranica informacije (kolačiće) na moje računalo?">
 <!ENTITY  securityView.privacy.viewCookies              "Pregled kolačića">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Jesam li spremao zaporke za ovu web stranicu?">
-<!ENTITY  securityView.privacy.viewPasswords            "Pregled pohranjenih zaporki">
+<!ENTITY  securityView.privacy.viewPasswords            "Pregled spremljenih zaporki">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "z">
 
 <!ENTITY  securityView.technical.header                 "Tehnički detalji">
