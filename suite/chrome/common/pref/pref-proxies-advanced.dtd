@@ -24,6 +24,6 @@
 <!ENTITY socks4.accesskey "C">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "K">
-<!ENTITY socksRemoteDNS.label "Usarlo para resolver nombres de host (recomendado para SOCKS v5)">
+<!ENTITY socksRemoteDNS.label "Usarlo para resolver nombres de servidor (recomendado para SOCKS v5)">
 <!ENTITY socksRemoteDNS.accesskey "e">
 <!ENTITY SOCKSport.accesskey "t">

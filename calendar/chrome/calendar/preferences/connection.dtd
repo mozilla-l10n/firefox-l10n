@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -54,8 +55,8 @@
 <!ENTITY http.accesskey "y">
 <!ENTITY ssl.label "Proxy SSL:">
 <!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Host SOCKS:">
-<!ENTITY socks.accesskey "H">
+<!ENTITY socks.label "Servidor SOCKS:">
+<!ENTITY socks.accesskey "v">
 <!ENTITY socks4.label "SOCKS v4">
 <!ENTITY socks4.accesskey "K">
 <!ENTITY socks5.label "SOCKS v5">

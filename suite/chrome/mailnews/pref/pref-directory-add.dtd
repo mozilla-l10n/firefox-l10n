@@ -2,7 +2,7 @@
 <!ENTITY newDirectoryTitle.label "Propiedades del servidor de directorios">
 <!ENTITY directoryName.label "Nombre: ">
 <!ENTITY directoryName.accesskey "n">
-<!ENTITY directoryHostname.label "Hostname: ">
+<!ENTITY directoryHostname.label "Servidor: ">
 <!ENTITY directoryHostname.accesskey "o">
 <!ENTITY directoryBaseDN.label "DN base: ">
 <!ENTITY directoryBaseDN.accesskey "b">
