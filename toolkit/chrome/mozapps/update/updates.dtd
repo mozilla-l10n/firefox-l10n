@@ -26,13 +26,13 @@
 <!ENTITY  incompatibleCheck.title         "Provjera kompatibilnosti dodatka">
 <!ENTITY  incompatibleCheck.label         "Traženje novijih verzija vaših dodataka…">
 
-<!ENTITY  clickHere.label                 "Pogledaj više informacija o ovom ažuriranju">
+<!ENTITY  clickHere.label                 "Pogledajte više informacija o ovoj dopuni">
 
 <!ENTITY  evangelism.desc                 "Izričito vam preporučano da primjenite ovu dopunu 
                                            &brandShortName; što je prije moguće.">
 
 <!ENTITY  license.instructions            "Ako se slažete s uvjetima ovog sporazuma, kliknite na Slažem se 
-                                           niže kako biste nastavili instalaciju ovog ažuriranja.">
+                                           niže kako biste nastavili instalaciju ove dopune.">
 
 <!ENTITY  license.titleText               "Sporazum licence programa">
 <!ENTITY  license.introText               "Uvjeti korištenja ovog programa.">

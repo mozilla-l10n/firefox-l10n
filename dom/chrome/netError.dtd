@@ -24,8 +24,8 @@
 <!ENTITY netInterrupt.title "Prijenos podataka prekinut">
 <!ENTITY netInterrupt.longDesc "<p>Pretraživač se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Molim, pokušajte ponovo.</p><ul><li>Ne možete pretraživati niti druge stranice? Provjerite mrežnu povezanost računala.</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
 
-<!ENTITY netOffline.title "Neumreženi način rada">
-<!ENTITY netOffline.longDesc "<p>Pretraživač je u neumreženom načinu rada i ne može se spojiti na zatraženu adresu.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Isključite neumreženi način rada i pokušajte ponovo.</li></ul>">
+<!ENTITY netOffline.title "Izvanmreženi način rada">
+<!ENTITY netOffline.longDesc "<p>Pretraživač je u izvanmreženom načinu rada i ne može se spojiti na zatraženu adresu.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Isključite izvanmreženi način rada i pokušajte ponovo.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Greška dekodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "<p>Stranica koju pokušavate vidjeti ne može biti prikazana jer koristi neispravni ili nepodržani oblik sažimanja.</p><ul><li>Molim, kontaktiraje vlasnika stranice i obavijestite ga o ovom problemu.</li></ul>">

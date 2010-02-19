@@ -1,8 +1,8 @@
 <!ENTITY  updateWizard.title              "&brandShortName; Ažuriraj">
 
 <!ENTITY  offline.title                   "&brandShortName; radi izvanmrežno">
-<!ENTITY  offline.description             "&brandShortName; mora otići u mrežni način rada da bi provjerio ako su ažuriranja
-                                           dostupna za vaše dodatke, kako bi bila usklađena s ovom
+<!ENTITY  offline.description             "&brandShortName; mora otići u mrežni način rada da bi provjerio jesu li dopune
+                                           za vaše dodatke dostupne, kako bi bile usklađene s ovom
                                            inačicom.">
 <!ENTITY  offline.toggleOffline.label     "Poveži se odmah.">
 <!ENTITY  offline.toggleOffline.accesskey "o">
@@ -14,7 +14,7 @@
                                            ovih dodataka dostupne.">
 
 <!ENTITY  checking.wizard.title           "Provjeravam za usklađene dodatke">
-<!ENTITY  checking.top.label              "Provjeravam ažuriranja za vaše neusklađene dodatke...">
+<!ENTITY  checking.top.label              "Provjeravam dopune za vaše neusklađene dodatke...">
 <!ENTITY  checking.status                 "Ovo može potrajati nekoliko minuta...">
 
 <!ENTITY  found.wizard.title               "Pronađeni usklađeni dodaci">
@@ -25,24 +25,24 @@
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "Instaliram usklađene dodatke">
-<!ENTITY  installing.top.label            "Preuzimanje i instalacija ažuriranja vaših dodataka...">
+<!ENTITY  installing.top.label            "Preuzimanje i instalacija dopuna vaših dodataka...">
 
 <!ENTITY  noupdates.wizard.title          "Nije pronađen nijedan usklađeni dodatak">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; nije uspio pronaći ažuriranja za vaše
+<!ENTITY  noupdates.intro.desc            "&brandShortName; nije uspio pronaći dopune za vaše
                                            neusklađene dodatke.">
-<!ENTITY  noupdates.error.desc            "Došlo je do nekih problema pri potrazi za ažuriranjima.">
+<!ENTITY  noupdates.error.desc            "Došlo je do nekih problema pri potrazi za dopunama.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; će povremeno provjeravati i obavijestiti vas
-                                           kada su pronađena usklađena ažuriranja za ove dodatke.">
+                                           kada su pronađena usklađene dopune za ove dodatke.">
 
 <!ENTITY  finished.wizard.title           "Usklađeni dodaci su instalirani">
-<!ENTITY  finished.top.label              "&brandShortName; je instalirao ažuriranja za vaše dodatke.">
+<!ENTITY  finished.top.label              "&brandShortName; je instalirao dopune za vaše dodatke.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; može povremeno provjeravati i obavještavati vas
-                                           kada su ažuriranja za dodatke dostupna.">
+                                           kada su dopune za dodatke dostupne.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; će povremeno provjeravati i obavještavati vas
-                                           kada su pronađena ažuriranja za dodatke.">
+                                           kada su pronađene dopune za dodatke.">
 
-<!ENTITY  adminDisabled.wizard.title      "Provjera za ažuriranja nije moguća">
-<!ENTITY  adminDisabled.warning.label     "Nije moguće provjeriti za ažuriranja za neusklađene dodatke
+<!ENTITY  adminDisabled.wizard.title      "Provjera za dopunama nije moguća">
+<!ENTITY  adminDisabled.warning.label     "Nije moguće provjeriti dostupnost dopuna za neusklađene dodatke
                                            jer je instalacija programa za &brandShortName; onemogućena.
                                            Molim kontaktirajte administratora vašeg sustava za pomoć.">
 
@@ -51,13 +51,13 @@
                                            &brandShortName; inačice.">
 <!ENTITY  versioninfo.waiting             "Ovo može potrajati nekoliko minuta...">
 
-<!ENTITY  installerrors.wizard.title      "Problemi pri instalaciji ažuriranja">
+<!ENTITY  installerrors.wizard.title      "Problemi pri instalaciji dopuna">
 <!ENTITY  installerrors.intro.label       "&brandShortName; je naišao na probleme kod ažuriranja
                                            nekih vaših dodataka.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Kliknite na Završi da biste nastavili pokretanje &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Kliknite Završi za nastavak pokretanja &brandShortName;.">
-<!ENTITY  enableChecking.label            "Dopusti da &brandShortName; provjerava za ažuriranja.">
+<!ENTITY  enableChecking.label            "Dopusti da &brandShortName; provjerava dostupnost dopuna.">
 <!ENTITY  details.label                   "Detalji...">
 <!ENTITY  details.accesskey               "D">

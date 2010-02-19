@@ -37,7 +37,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey        "K">
 <!ENTITY itemCache.label                   "Međuspremnik">
 <!ENTITY itemCache.accesskey               "s">
-<!ENTITY itemOfflineApps.label        "Podaci neumreženih stranica">
+<!ENTITY itemOfflineApps.label        "Podaci izvanmreženih stranica">
 <!ENTITY itemOfflineApps.accesskey    "n">
 <!ENTITY itemDownloadHistory.label         "Povijest preuzimanja">
 <!ENTITY itemDownloadHistory.accesskey     "p">
