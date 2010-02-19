@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title                   "Ingat keta sandi">
 <!ENTITY language.title                            "Bahasa">
 <!ENTITY language.auto                             "Deteksi otomatis">
+<!ENTITY defaultBrowser.title                      "Peramban Default">
+<!ENTITY defaultBrowser.description                "Jadikan &brandShortName; sebagai peramban default">
