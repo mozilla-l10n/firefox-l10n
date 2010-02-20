@@ -27,7 +27,3 @@
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "May">
-
-<!-- Copy Image Location (regression fix for bug 469481) -->
-<!ENTITY copyImageURLCmd.label          "Copiar dirección de la imagen">
-<!ENTITY copyImageURLCmd.accesskey      "i">
