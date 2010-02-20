@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title "Ricorda password">
 <!ENTITY language.title "Lingua">
 <!ENTITY language.auto "Selezione automatica">
+<!ENTITY defaultBrowser.title "Browser predefinito">
+<!ENTITY defaultBrowser.description "Imposta &brandShortName; come browser predefinito">
