@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title "Запоминать пароли">
 <!ENTITY language.title "Язык">
 <!ENTITY language.auto "Автоопределение">
+<!ENTITY defaultBrowser.title "Браузер по умолчанию">
+<!ENTITY defaultBrowser.description "Установить &brandShortName; как ваш браузер по умолчанию">
