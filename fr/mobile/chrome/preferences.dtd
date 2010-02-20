@@ -13,3 +13,5 @@
 
 <!ENTITY language.title "Langue">
 <!ENTITY language.auto "Détection automatique">
+<!ENTITY defaultBrowser.title "Navigateur par défaut">
+<!ENTITY defaultBrowser.description "Faire de &brandShortName; votre navigateur par défaut">
