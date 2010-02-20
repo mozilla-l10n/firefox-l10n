@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Software-Update">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
+<!ENTITY  window.width                    "42em">
+<!ENTITY  window.macWidth                 "45em">
 
 <!ENTITY  checking.title                  "Überprüfe auf verfügbare Updates">
 <!ENTITY  updateCheck.label               "Suche nach neueren Versionen von &brandShortName;…">
