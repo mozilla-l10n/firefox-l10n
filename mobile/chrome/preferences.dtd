@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
 <!ENTITY language.title                            "Taal">
 <!ENTITY language.auto                             "Autodetectie">
+<!ENTITY defaultBrowser.title                      "Standaardbrowser">
+<!ENTITY defaultBrowser.description                "&brandShortName; instellen als uw standaardbrowser">
