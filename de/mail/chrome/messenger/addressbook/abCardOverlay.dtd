@@ -69,7 +69,7 @@
 
 <!ENTITY PrimaryEmail.label             "E-Mail-Adresse:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Zusätzliche E-Mail-Adresse:">
+<!ENTITY SecondEmail.label              "Weitere E-Mail-Adresse:">
 <!ENTITY SecondEmail.accesskey          "u">
 <!ENTITY PreferMailFormat.label         "Bevorzugt folgendes Nachrichten-Format:">
 <!ENTITY PreferMailFormat.accesskey     "B">
