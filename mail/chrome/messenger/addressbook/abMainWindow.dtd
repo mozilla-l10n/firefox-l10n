@@ -158,7 +158,7 @@
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Spitzname">
 <!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Zusätzliche E-Mail-Adresse">
+<!ENTITY SecondEmail.label                              "Weitere E-Mail-Adresse">
 <!ENTITY SecondEmail.accesskey                          "Z">
 <!ENTITY Department.label                               "Abteilung">
 <!ENTITY Department.accesskey                           "g">
