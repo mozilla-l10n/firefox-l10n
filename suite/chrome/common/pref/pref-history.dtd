@@ -2,15 +2,8 @@
 
 <!ENTITY  pref.history.caption "Navigation dans l'historique">
 <!ENTITY  historyPages.label "L'historique est la liste des pages que vous avez visitées précédemment.">
-<!ENTITY  expireDaysMin1.label "Toujours se souvenir des pages visitées pendant au moins">
-<!ENTITY  expireDaysMin1.accesskey "T">
-<!ENTITY  expireDaysMin2.label "jours">
-<!ENTITY  expireDays1.label "Se souvenir des pages visitées au plus">
-<!ENTITY  expireDays1.accesskey "S">
-<!ENTITY  expireDays2.label "jours">
-<!ENTITY  expireSites1.label "Se souvenir d'au plus">
-<!ENTITY  expireSites1.accesskey "o">
-<!ENTITY  expireSites2.label "pages visitées">
+<!ENTITY  enableHistory.label "Se souvenir des pages visitées">
+<!ENTITY  enableHistory.accesskey "S">
 <!ENTITY  clearHistory.label "Effacer l'historique">
 <!ENTITY  clearHistory.accesskey "E">
 
