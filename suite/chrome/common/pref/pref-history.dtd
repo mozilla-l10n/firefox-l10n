@@ -2,15 +2,8 @@
 
 <!ENTITY  pref.history.caption              "Bladergeschiedenis">
 <!ENTITY  historyPages.label                "Geschiedenis is een lijst van voorheen bezochte pagina's.">
-<!ENTITY  expireDaysMin1.label              "Altijd bezochte pagina's voor minstens">
-<!ENTITY  expireDaysMin1.accesskey          "A">
-<!ENTITY  expireDaysMin2.label              "dagen onthouden">
-<!ENTITY  expireDays1.label                 "Bezochte pagina's tot en met">
-<!ENTITY  expireDays1.accesskey             "B">
-<!ENTITY  expireDays2.label                 "dagen onthouden">
-<!ENTITY  expireSites1.label                "Onthoudt">
-<!ENTITY  expireSites1.accesskey            "O">
-<!ENTITY  expireSites2.label                "bezochte pagina's">
+<!ENTITY  enableHistory.label               "Bezochte pagina's onthouden">
+<!ENTITY  enableHistory.accesskey           "o">
 <!ENTITY  clearHistory.label                "Geschiedenis wissen">
 <!ENTITY  clearHistory.accesskey            "G">
 
