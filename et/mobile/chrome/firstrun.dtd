@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "Tere tulemast &brandShortName;i">
+<!ENTITY intro.description                  "Sünkrooni oma arvuti ja mobiil Weave Sync'iga. Kohanda lisadega. Surfa Awesome Bariga ja palju, palju, palju rohkemat.">
+<!ENTITY weave.title                        "Sünkrooni ja mine">
+<!ENTITY weave.description                  "Hangi Weave Sync, et murda oma Firefoxi. Jaga lehitsemise ajalugu, järjehoidjaid, salvestatud paroole ja kaarte oma arvuti ja mobiili vahel.">
+<!ENTITY weave.linkLabel                    "Hangi lisa Weave Sync">
+<!ENTITY getPersonal.title                  "Muuda koduseks">
+<!ENTITY getPersonal.description            "Muuda &brandShortName; endale sobivaks. Kohanda brauserit, mis pakub esimesena lisasid mobiilile.">
+<!ENTITY getPersonal.linkLabel              "Hangi lisasid oma mobiilile">
