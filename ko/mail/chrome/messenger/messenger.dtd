@@ -457,7 +457,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY archiveButton.tooltip "선택한 메시지 보관">
 <!ENTITY nextButton.tooltip "다음 읽지 않은 메일로 이동">
 <!ENTITY previousButton.tooltip "읽지 않은 이전 메시지로 이동">
-<!ENTITY goForwardButton.tooltip "한 메세지 않으로 가기">
+<!ENTITY goForwardButton.tooltip "한 메세지 앞으로 가기">
 <!ENTITY goBackButton.tooltip "한 메세지 뒤로 가기">
 <!ENTITY deleteButton.tooltip "선택한 메시지나 폴더 삭제">
 <!ENTITY undeleteButton.tooltip "선택한 메시지 삭제 복구">
