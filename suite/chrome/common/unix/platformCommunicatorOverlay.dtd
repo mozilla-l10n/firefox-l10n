@@ -59,7 +59,3 @@
 <!ENTITY ctrlKey.label                  "Vald">
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Lyg2">
-
-<!-- Copy Image Location (regression fix for bug 469481) -->
-<!ENTITY copyImageURLCmd.label          "Kopijuoti paveikslo adresą">
-<!ENTITY copyImageURLCmd.accesskey      "o">
