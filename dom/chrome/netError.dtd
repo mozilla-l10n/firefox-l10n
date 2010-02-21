@@ -82,6 +82,9 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 <p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokeeritud sisu turvalisuse reegliga">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brauser keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
