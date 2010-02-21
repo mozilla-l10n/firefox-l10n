@@ -42,3 +42,5 @@
 <!ENTITY rememberPasswords.title                       "Įsiminti slaptažodžius">
 <!ENTITY language.title                                "Kalba">
 <!ENTITY language.auto                                 "Parinkti automatiškai">
+<!ENTITY defaultBrowser.title                          "Numatytoji naršyklė">
+<!ENTITY defaultBrowser.description                    "Skirti „&brandShortName;“ numatytąja naršykle">
