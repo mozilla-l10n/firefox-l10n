@@ -45,7 +45,7 @@
 <!ENTITY NickName.label                        "Spitzname">
 <!ENTITY NickName.accesskey                    "S">
 <!ENTITY SecondEmail.label                     "Weitere E-Mail-Adresse">
-<!ENTITY SecondEmail.accesskey                 "Z">
+<!ENTITY SecondEmail.accesskey                 "W">
 <!ENTITY Department.label                      "Abteilung">
 <!ENTITY Department.accesskey                  "g">
 <!ENTITY JobTitle.label                        "Titel">
