@@ -39,9 +39,6 @@
 <!ENTITY editorCmd.accesskey                "R">
 <!ENTITY editorCmd.commandkey               "4">
 
-<!ENTITY javaConsoleCmd.label               "Javos pultas">
-<!ENTITY javaConsoleCmd.accesskey           "J">
-
 <!ENTITY errorConsoleCmd.label              "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey          "K">
 <!ENTITY errorConsoleCmd.commandkey         "j">

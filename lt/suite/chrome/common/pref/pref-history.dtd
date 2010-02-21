@@ -33,16 +33,8 @@
 
 <!ENTITY  pref.history.caption              "Naršymo žurnalas">
 <!ENTITY  historyPages.label                "Žurnalas – tai anksčiau aplankytų tinklalapių sąrašas.">
-<!ENTITY  expireDaysMin1.label              "Žurnale laikyti aplankytus tinklalapius bent">
-<!ENTITY  expireDaysMin1.accesskey          "Ž">
-<!ENTITY  expireDaysMin2.label              "d.">
-<!ENTITY  expireDays1.label                 "Aplankytus tinklalapius laikyti ne ilgiau nei">
-<!ENTITY  expireDays1.accesskey             "l">
-<!ENTITY  expireDays2.label                 "d.">
-<!ENTITY  expireSites1.label                "Įsiminti ne daugiau nei">
-<!ENTITY  expireSites1.accesskey            "m">
-<!ENTITY  expireSites2.label                "aplankytų tinklalapių">
-
+<!ENTITY  enableHistory.label               "Įsiminti aplankytus tinklalapius žurnale">
+<!ENTITY  enableHistory.accesskey           "m">
 <!ENTITY  clearHistory.label                "Išvalyti">
 <!ENTITY  clearHistory.accesskey            "v">
 
