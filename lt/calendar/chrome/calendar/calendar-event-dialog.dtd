@@ -66,6 +66,20 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label                    "&#37; užbaigta">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key               "E">
+<!ENTITY event.dialog.new.message.key             "M">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.delete.key                  "D">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "Failas">
 <!ENTITY  event.menu.file.accesskey                       "F">
@@ -211,6 +225,7 @@
 <!ENTITY event.priority2.label                            "Prioritetas:">
 
 <!ENTITY event.reminder.none.label                        "be priminimo" >
+<!ENTITY event.reminder.0minutes.before.label             "likus 0 minučių" >
 <!ENTITY event.reminder.5minutes.before.label             "likus 5 minutėms" >
 <!ENTITY event.reminder.10minutes.before.label            "likus 10 minučių" >
 <!ENTITY event.reminder.15minutes.before.label            "likus 15 minučių" >
