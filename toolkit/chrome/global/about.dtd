@@ -4,7 +4,7 @@
 <!ENTITY about.credits.beforeLink     "Tampilkan daftar ">
 <!ENTITY about.credits.linkTitle      "kontributor">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.credits.afterLink      " kepada Proyek Mozilla.">
+<!ENTITY about.credits.afterLink      " Proyek Mozilla.">
 
 <!ENTITY about.license.beforeLink     "Baca">
 <!ENTITY about.license.linkTitle      "informasi lisensi">
