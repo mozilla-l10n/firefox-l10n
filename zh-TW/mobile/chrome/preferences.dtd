@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title                   "記住密碼">
 <!ENTITY language.title                            "語言">
 <!ENTITY language.auto                             "自動偵測">
+<!ENTITY defaultBrowser.title                      "預設瀏覽器">
+<!ENTITY defaultBrowser.description                "設定 &brandShortName; 為預設瀏覽器">
