@@ -13,7 +13,8 @@
    -
    - The Original Code is calendar views.
    -
-   - The Initial Developer of the Original Code is Oracle Corporation
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
    - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
@@ -22,6 +23,8 @@
    -   Simon Paquet <bugzilla@babylonsounds.com>
    -   Matthew Willis <mattwillis@mac.com>
    -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -31,12 +34,11 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - and other provisions required by the LGPL or the GPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
+   - ***** END LICENSE BLOCK ***** -->
 
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
@@ -48,75 +50,74 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "事件…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "工作…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "行事曆…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "開啟(O)">
+<!ENTITY lightning.menupopup.open.label               "開啟">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "儲存的訊息(M)…">
+<!ENTITY lightning.menupopup.open.message.label       "儲存的訊息…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "行事曆檔案(C)…">
+<!ENTITY lightning.menupopup.open.calendar.label      "行事曆檔案…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
-<!-- Agenda Tree View -->
-<!ENTITY agenda.treeview.label           "檢視:">
-<!ENTITY agenda.treeview.all.label       "全部">
-<!ENTITY agenda.treeview.events.label    "事件">
-<!ENTITY agenda.treeview.tasks.label     "工作">
-<!ENTITY agenda.treeview.reminders.label "提醒">
-<!ENTITY agenda.treeview.customize.label "自訂…">
-<!ENTITY agenda.treeview.item.label      "項目">
-<!ENTITY agenda.treeview.description     "自訂檢視">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "行事曆">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "工作">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.agenda.label      "會議議程">
-<!ENTITY lightning.sidebar.todo.label        "待辦事項">
-<!ENTITY lightning.sidebar.calendars.label   "行事曆">
-<!ENTITY lightning.calendar.label            "行事曆(C)">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "工作(T)">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "事件與工作">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "郵件(M)">
+<!ENTITY lightning.toolbar.mail.label         "郵件">
 <!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "行事曆(C)">
+<!ENTITY lightning.toolbar.calendar.label     "行事曆">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "工作(T)">
+<!ENTITY lightning.toolbar.task.label         "工作">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "工具列:">
-<!ENTITY customize.toolbar.selector.mode     "模式工具列">
-<!ENTITY customize.toolbar.selector.mail     "郵件工具列">
-<!ENTITY customize.toolbar.selector.calendar "行事曆工具列">
-<!ENTITY customize.toolbar.selector.task     "工作工具列">
-<!ENTITY customize.toolbar.location.label    "地點:">
-<!ENTITY customize.toolbar.location.top      "頂端">
-<!ENTITY customize.toolbar.location.bottom   "底端">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "事件">
+<!ENTITY lightning.toolbar.newtask.label      "工作">
 
 <!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.edit.calendar.label       "編輯選取的行事曆(E)">
-<!ENTITY lightning.toolbar.edit.calendar.accesskey   "E">
-<!ENTITY lightning.toolbar.delete.calendar.label     "刪除選取的行事曆(t)">
-<!ENTITY lightning.toolbar.delete.calendar.accesskey "t">
-<!ENTITY lightning.toolbar.day.label                 "星期幾(D)">
+<!ENTITY lightning.toolbar.day.label                 "日">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "週(W)">
+<!ENTITY lightning.toolbar.week.label                "週">
 <!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "多週(u)">
+<!ENTITY lightning.toolbar.multiweek.label           "多週">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "月(M)">
+<!ENTITY lightning.toolbar.month.label               "月">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "在今日窗格中顯示事件">
 <!ENTITY lightning.calendarproperties.showtasks.label           "在今日窗格中顯示工作及工作模式">
-
-<!--Views' context menu-->
-<!-- This access key is in the same menu as 'Go to Next' which gets the 'N'-->
-<!ENTITY lightning.context.newevent.accesskey  "E">
+<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "此訊息包含事件的邀請。">
+<!ENTITY lightning.imipbar.description "此郵件包含事件的邀請。">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "建立新的行事曆">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "顯示迷你月曆">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "顯示迷你日曆">
+<!ENTITY todaypane.showMiniday.accesskey  "D">
+<!ENTITY todaypane.showNone.label "不顯示">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "顯示今日視窗">
+<!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "今日窗格">

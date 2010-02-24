@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,20 +34,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
-
-<!ENTITY pref.mainbox.label "一般設定" >
-<!ENTITY pref.dateformat.label "日期文字格式:" >
-<!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "長" >
-<!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "預設事件長度:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "重新整理設定" >
-<!ENTITY pref.autorefresh.label "重新整理行事曆間隔:" >
-<!ENTITY pref.autorefresh.accesskey "R" >
+<!ENTITY providerUninstall.title                           "移除行事曆提供者">
+<!ENTITY providerUninstall.accept.label                    "取消訂閱已選取的行事曆提供者">
+<!ENTITY providerUninstall.accept.accesskey                "U">
+<!ENTITY providerUninstall.cancel.label                    "保留附加元件">
+<!ENTITY providerUninstall.cancel.accesskey                "K">
+<!ENTITY providerUninstall.preName.label                   "你已要求移除或取消：">
+<!ENTITY providerUninstall.postName.label                  "這將導致下列行事曆無法被使用。">
+<!ENTITY providerUninstall.reinstallNote.label             "除非你打算重新安裝此行事曆提供者，否則建議你取消訂閱這個提供者的行事曆。">

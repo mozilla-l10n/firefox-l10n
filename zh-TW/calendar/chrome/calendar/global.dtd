@@ -35,29 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY time.midnight "午夜" >
-<!ENTITY time.1 "上午 1:00" >
-<!ENTITY time.2 "上午 2:00" >
-<!ENTITY time.3 "上午 3:00" >
-<!ENTITY time.4 "上午 4:00" >
-<!ENTITY time.5 "上午 5:00" >
-<!ENTITY time.6 "上午 6:00" >
-<!ENTITY time.7 "上午 7:00" >
-<!ENTITY time.8 "上午 8:00" >
-<!ENTITY time.9 "上午 9:00" >
-<!ENTITY time.10 "上午 10:00" >
-<!ENTITY time.11 "上午 11:00" >
 <!ENTITY time.noon "正午" >
-<!ENTITY time.13 "下午 1:00" >
-<!ENTITY time.14 "下午 2:00" >
-<!ENTITY time.15 "下午 3:00" >
-<!ENTITY time.16 "下午 4:00" >
-<!ENTITY time.17 "下午 5:00" >
-<!ENTITY time.18 "下午 6:00" >
-<!ENTITY time.19 "下午 7:00" >
-<!ENTITY time.20 "下午 8:00" >
-<!ENTITY time.21 "下午 9:00" >
-<!ENTITY time.22 "下午 10:00" >
-<!ENTITY time.23 "下午 11:00" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
@@ -77,14 +55,6 @@
 <!ENTITY day.7.Ddd "六" >
 <!ENTITY day.7.Ddd.accesskey "a">
 
-<!ENTITY day.1.DDD "日" >
-<!ENTITY day.2.DDD "一" >
-<!ENTITY day.3.DDD "二" >
-<!ENTITY day.4.DDD "三" >
-<!ENTITY day.5.DDD "四" >
-<!ENTITY day.6.DDD "五" >
-<!ENTITY day.7.DDD "六" >
-
 <!ENTITY day.1.name "星期日" >
 <!ENTITY day.2.name "星期一" >
 <!ENTITY day.3.name "星期二" >
@@ -93,35 +63,13 @@
 <!ENTITY day.6.name "星期五" >
 <!ENTITY day.7.name "星期六" >
 
-<!-- Month Names -->
-<!ENTITY month.1.MMM "一月" >
-<!ENTITY month.2.MMM "二月" >
-<!ENTITY month.3.MMM "三月" >
-<!ENTITY month.4.MMM "四月" >
-<!ENTITY month.5.MMM "五月" >
-<!ENTITY month.6.MMM "六月" >
-<!ENTITY month.7.MMM "七月" >
-<!ENTITY month.8.MMM "八月" >
-<!ENTITY month.9.MMM "九月" >
-<!ENTITY month.10.MMM "十月" >
-<!ENTITY month.11.MMM "十一月" >
-<!ENTITY month.12.MMM "十二月" >
-
 <!-- Units -->
-<!ENTITY calendar.global.units.second   "秒">
-<!ENTITY calendar.global.units.seconds  "秒">
 <!ENTITY calendar.global.units.minute   "分">
 <!ENTITY calendar.global.units.minutes  "分">
 <!ENTITY calendar.global.units.hour     "時">
 <!ENTITY calendar.global.units.hours    "時">
 <!ENTITY calendar.global.units.day      "日">
 <!ENTITY calendar.global.units.days     "日">
-<!ENTITY calendar.global.units.week     "週">
-<!ENTITY calendar.global.units.weeks    "週">
-<!ENTITY calendar.global.units.month    "月">
-<!ENTITY calendar.global.units.months   "月">
-<!ENTITY calendar.global.units.year     "年">
-<!ENTITY calendar.global.units.years    "年">
 
 <!ENTITY month.1.name "一月" >
 <!ENTITY month.2.name "二月" >
@@ -135,3 +83,10 @@
 <!ENTITY month.10.name "十月" >
 <!ENTITY month.11.name "十一月" >
 <!ENTITY month.12.name "十二月" >
+
+<!ENTITY onemonthbackward.tooltip "上個月" >
+<!ENTITY onemonthforward.tooltip "下個月" >
+<!ENTITY showToday.tooltip "前往今日">
+<!ENTITY onedayforward.tooltip "明天">
+<!ENTITY onedaybackward.tooltip "往後一天">
+<!ENTITY showselectedday.tooltip "顯示已選擇日期的事件">

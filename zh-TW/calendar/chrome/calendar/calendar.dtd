@@ -25,7 +25,7 @@
    -                 Eric Belhaire <belhaire@ief.u-psud.fr>
    -                 Matthew Willis <mattwillis@gmail.com>
    -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Stefan Sitter <ssitter@gmail.com>
    -                 Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -43,45 +43,23 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "我的行事曆" >
 <!ENTITY calendar.calendar.label     "行事曆">
 <!ENTITY calendar.calendar.accesskey "C">
 
+<!ENTITY calendar.dayView.key                  "1" >
+<!ENTITY calendar.weekView.key                 "2" >
+<!ENTITY calendar.multiweekView.key            "3" >
+<!ENTITY calendar.monthView.key                "4" >
 
-<!ENTITY calendar.confirm.deleteallevents "您確定要刪除所有選取的事件嗎？">
-<!ENTITY calendar.confirm.deleteevent "您確定要刪除下列事件嗎？">
-<!ENTITY calendar.confirm.deleteuntitledevent "您確定要刪除此無標題事件嗎？">
-
-<!ENTITY calendar.flat.topbar.choosedate 	"選擇日期">
-<!ENTITY calendar.flat.topbar.dayview 		"日檢視">
-<!ENTITY calendar.dayview.accesskey 		"D">
-<!ENTITY calendar.flat.topbar.weekview 		"週檢視">
-<!ENTITY calendar.weekview.accesskey 		"W">
-<!ENTITY calendar.flat.topbar.monthview 	"月檢視">
-<!ENTITY calendar.monthview.accesskey 		"M">
-<!ENTITY calendar.flat.topbar.multiweekview 	"多週檢視">
-<!ENTITY calendar.multiweekview.accesskey 	"u">
-<!ENTITY calendar.dayView.key 			"1">
-<!ENTITY calendar.weekView.key 			"2">
-<!ENTITY calendar.multiweekView.key 		"3">
-<!ENTITY calendar.monthView.key 		"4">
-
-<!ENTITY calendar.newtask.button.tooltip          "建立新工作" >
 <!ENTITY calendar.newevent.button.tooltip         "建立新事件" >
-<!ENTITY calendar.delete.button.tooltip           "刪除選取的事件" >
-<!ENTITY calendar.edit.button.tooltip             "編輯選取的事件" >
+<!ENTITY calendar.newtask.button.tooltip          "建立新工作" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "工作" >
-<!ENTITY calendar.unifinder.hidecompletedtodos.label "隱藏已完成的工作">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "顯示已完成的工作">
 
-<!ENTITY calendar.calendartab.label		"月曆">
-<!ENTITY calendar.listofcalendarstab.label 	"行事曆清單">
-<!ENTITY calendar.today.button.label		"今天">
-<!ENTITY calendar.tomorrow.button.label 	"明天">
-<!ENTITY calendar.nextweek.button.label 	"下週">
-<!ENTITY calendar.thisweek.button.label		"本週">
-<!ENTITY calendar.soon.button.label          	"馬上">
+<!ENTITY calendar.today.button.label       "今天">
+<!ENTITY calendar.tomorrow.button.label       "明天">
+<!ENTITY calendar.soon.button.label           "馬上">
 
 <!ENTITY calendar.events.filter.all.label "所有事件">
 <!ENTITY calendar.events.filter.today.label "本日事件">
@@ -92,161 +70,127 @@
 <!ENTITY calendar.events.filter.next31Days.label "31 天內的事件">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "本月事件">
 
-<!ENTITY calendar.unifinder.tree.done.label "完成">
-<!ENTITY calendar.unifinder.tree.priority.label "重要性">
-<!ENTITY calendar.unifinder.tree.title.label "標題">
+<!ENTITY calendar.unifinder.tree.done.label          "完成">
+<!ENTITY calendar.unifinder.tree.priority.label      "重要性">
+<!ENTITY calendar.unifinder.tree.title.label         "標題">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; 完成">
-<!ENTITY calendar.unifinder.tree.startdate.label "開始時間">
-<!ENTITY calendar.unifinder.tree.enddate.label "結束時間">
-<!ENTITY calendar.unifinder.tree.duedate.label "期限">
+<!ENTITY calendar.unifinder.tree.startdate.label     "開始時間">
+<!ENTITY calendar.unifinder.tree.enddate.label       "結束時間">
+<!ENTITY calendar.unifinder.tree.duedate.label       "期限">
 <!ENTITY calendar.unifinder.tree.completeddate.label "完成">
-<!ENTITY calendar.unifinder.tree.categories.label "類別">
-<!ENTITY calendar.unifinder.tree.location.label "地點">
-<!ENTITY calendar.unifinder.tree.status.label "狀態">
-<!ENTITY calendar.unifinder.tree.calendarname.label "行事曆名稱">
-<!ENTITY calendar.find.key "F">
+<!ENTITY calendar.unifinder.tree.categories.label    "類別">
+<!ENTITY calendar.unifinder.tree.location.label      "地點">
+<!ENTITY calendar.unifinder.tree.status.label        "狀態">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "行事曆名稱">
+<!ENTITY calendar.unifinder.tree.duration.label      "緣由">
+<!ENTITY calendar.unifinder.close.tooltip            "關閉搜尋事件與事件清單">
 
-<!ENTITY calendar.today.button.tooltip "前往今日">
-<!ENTITY calendar.todaypane.button.tooltip "前往今日窗格">
-<!ENTITY calendar.choosedate.button.tooltip "選擇欲檢視的日期">
-<!ENTITY calendar.unifinder.button.tooltip "尋找並列出事件">
+<!ENTITY calendar.today.button.tooltip            "前往今日" >
+<!ENTITY calendar.todaypane.button.tooltip        "前往今日窗格" >
 
-<!ENTITY calendar.day.button.tooltip "切換到日檢視">
-<!ENTITY calendar.week.button.tooltip "切換到週檢視">
-<!ENTITY calendar.month.button.tooltip "切換到月檢視">
-<!ENTITY calendar.multiweek.button.tooltip "切換到多週檢視">
+<!ENTITY calendar.day.button.tooltip            "切換到日檢視" >
+<!ENTITY calendar.week.button.tooltip           "切換到週檢視" >
+<!ENTITY calendar.month.button.tooltip          "切換到月檢視" >
+<!ENTITY calendar.multiweek.button.tooltip      "切換到多週檢視" >
 
-<!ENTITY calendar.nextday.button.tooltip "下一日">
-<!ENTITY calendar.prevday.button.tooltip "前一日">
-<!ENTITY calendar.nextweek.button.tooltip "下一週">
-<!ENTITY calendar.prevweek.button.tooltip "前一週">
-<!ENTITY calendar.nextmonth.button.tooltip "下一月">
-<!ENTITY calendar.prevmonth.button.tooltip "前一月">
+<!ENTITY calendar.nextday.button.tooltip        "下一日" >
+<!ENTITY calendar.prevday.button.tooltip        "前一日" >
+<!ENTITY calendar.nextweek.button.tooltip       "下一週" >
+<!ENTITY calendar.prevweek.button.tooltip       "前一週" >
+<!ENTITY calendar.nextmonth.button.tooltip      "下一月" >
+<!ENTITY calendar.prevmonth.button.tooltip      "前一月" >
 
-<!ENTITY calendar.newtask.button.label          "新增工作" >
+<!ENTITY calendar.navigation.nextday.tooltip    "明天" >
+<!ENTITY calendar.navigation.prevday.tooltip    "昨天" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "下一週" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "前一週" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "下個月" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "上個月" >
+
 <!ENTITY calendar.newevent.button.label         "新增事件" >
-<!ENTITY calendar.delete.button.label           "刪除" >
-<!ENTITY calendar.edit.button.label             "編輯" >
-
-<!ENTITY calendar.choosedate.button.label       "選擇日期" >
-
-<!ENTITY calendar.cut.button.tooltip            "剪下" >
-<!ENTITY calendar.copy.button.tooltip           "複製" >
-<!ENTITY calendar.paste.button.tooltip          "貼上" >
-<!ENTITY calendar.print.button.tooltip          "列印行事曆" >
-
-<!ENTITY calendar.cut.button.label              "剪下" >
-<!ENTITY calendar.copy.button.label             "複製" >
-<!ENTITY calendar.paste.button.label            "貼上" >
+<!ENTITY calendar.newtask.button.label          "新增工作" >
 <!ENTITY calendar.print.button.label            "列印" >
 
-<!ENTITY calendar.import.button.tooltip "自檔案中匯入行事曆項目">
-<!ENTITY calendar.export.button.tooltip "將行事曆項目匯出為檔案">
-<!ENTITY calendar.subscribe.button.tooltip "訂閱遠端主機 (網路) 上的行事曆檔案">
-<!ENTITY calendar.publish.button.tooltip "將行事曆項目發佈至遠端主機 (網路) 上供其他人訂閱">
-
-<!ENTITY calendar.import.calendar                "匯入…" >
 <!ENTITY calendar.export.calendar                "匯出行事曆…" >
 
-<!ENTITY calendar.import.button.label              "匯入" >
-<!ENTITY calendar.export.button.label              "匯出" >
-<!ENTITY calendar.subscribe.button.label           "訂閱" >
-<!ENTITY calendar.publish.button.label             "發佈" >
-<!ENTITY calendar.unifinder.button.label           "尋找事件" >
+<!ENTITY calendar.day.button.label              "日" >
+<!ENTITY calendar.week.button.label             "週" >
+<!ENTITY calendar.month.button.label            "月" >
+<!ENTITY calendar.multiweek.button.label        "多週" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "僅顯示工作日" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.displaytodos.checkbox.label   "在行事曆中顯示工作" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
+<!ENTITY calendar.completedtasks.checkbox.label     "顯示完成的工作" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
-<!ENTITY calendar.localreload.button.label "重新讀取本地行事曆">
-<!ENTITY calendar.localreload.button.tooltip "重新讀取所有本地行事曆">
-<!ENTITY calendar.remotereload.button.label "重新讀取遠端行事曆">
-<!ENTITY calendar.remotereload.button.tooltip "重新讀取所有遠端行事曆">
-
-<!ENTITY calendar.day.button.label "日">
-<!ENTITY calendar.week.button.label "週">
-<!ENTITY calendar.month.button.label "月">
-<!ENTITY calendar.multiweek.button.label "多週">
-<!ENTITY calendar.onlyworkday.checkbox.label "僅顯示工作日">
-<!ENTITY calendar.onlyworkday.checkbox.accesskey "r">
-<!ENTITY calendar.displaytodos.checkbox.label "在行事曆中顯示工作">
-<!ENTITY calendar.displaytodos.checkbox.accesskey "k">
-<!ENTITY calendar.completedtasks.checkbox.label "顯示完成的工作">
-<!ENTITY calendar.completedtasks.checkbox.accesskey "c">
-
-<!ENTITY calendar.orientation.label "旋轉視野">
-<!ENTITY calendar.orientation.accesskey "o">
-
-<!ENTITY calendar.menu.options.close.key        "W">
+<!ENTITY calendar.orientation.label "旋轉視野" >
+<!ENTITY calendar.orientation.accesskey "o" >
 
 <!ENTITY calendar.search.options.searchfor " 包含">
 
-<!ENTITY calendar.menu.numberofweeks.label     "週數" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "N" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 週" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 週" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 週" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 週" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 週" >
-
 <!ENTITY calendar.list.header.label                 "行事曆">
 
-<!ENTITY calendar.task.filter.title.label "顯示">
-<!ENTITY calendar.task.filter.all.label "全部">
-<!ENTITY calendar.task.filter.all.accesskey "A">
-<!ENTITY calendar.task.filter.today.label "今天">
-<!ENTITY calendar.task.filter.today.accesskey "T">
-<!ENTITY calendar.task.filter.next7days.label "往後七天">
-<!ENTITY calendar.task.filter.next7days.accesskey "N">
-<!ENTITY calendar.task.filter.notstarted.label "尚未開始的工作">
-<!ENTITY calendar.task.filter.notstarted.accesskey "a">
-<!ENTITY calendar.task.filter.overdue.label "逾期且尚未完成的工作">
-<!ENTITY calendar.task.filter.overdue.accesskey "O">
-<!ENTITY calendar.task.filter.completed.label "已完成的工作">
-<!ENTITY calendar.task.filter.completed.accesskey "C">
+<!ENTITY calendar.task.filter.title.label           "顯示">
+<!ENTITY calendar.task.filter.all.label             "全部">
+<!ENTITY calendar.task.filter.all.accesskey         "A">
+<!ENTITY calendar.task.filter.today.label           "今天">
+<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.next7days.label       "往後七天">
+<!ENTITY calendar.task.filter.next7days.accesskey   "N">
+<!ENTITY calendar.task.filter.notstarted.label      "尚未開始的工作">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "逾期且尚未完成的工作">
+<!ENTITY calendar.task.filter.overdue.accesskey     "O">
+<!ENTITY calendar.task.filter.completed.label       "已完成的工作">
+<!ENTITY calendar.task.filter.completed.accesskey   "C">
+<!ENTITY calendar.task.filter.open.label            "尚未完成的工作">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
 
-<!ENTITY calendar.task.edit.instructions.label "按這裡以新增工作">
-<!ENTITY calendar.task.details.title.label "標題:">
-<!ENTITY calendar.task.details.entrydate.label "開始日期:">
-<!ENTITY calendar.task.details.duedate.label "到期日期:">
-<!ENTITY calendar.task.details.organizer.label "從:">
-<!ENTITY calendar.task.details.priority.label "重要性:">
-<!ENTITY calendar.task.details.priority.low.label "低">
-<!ENTITY calendar.task.details.priority.normal.label "中">
-<!ENTITY calendar.task.details.priority.high.label "高">
-<!ENTITY calendar.task.details.status.label "狀態:">
-<!ENTITY calendar.task.details.category.label "類別:">
-<!ENTITY calendar.task.details.repeat.label "重複:">
+<!ENTITY calendar.task-details.title.label           "標題">
+<!ENTITY calendar.task-details.organizer.label       "從">
+<!ENTITY calendar.task-details.priority.label        "優先權">
+<!ENTITY calendar.task-details.priority.low.label    "低">
+<!ENTITY calendar.task-details.priority.normal.label "正常">
+<!ENTITY calendar.task-details.priority.high.label   "高">
+<!ENTITY calendar.task-details.status.label          "狀態">
+<!ENTITY calendar.task-details.category.label        "類別">
+<!ENTITY calendar.task-details.repeat.label          "重複">
 
-<!ENTITY calendar.task.category.button.tooltip "將工作分類">
-<!ENTITY calendar.task.complete.button.tooltip "將工作標示為已完成">
-<!ENTITY calendar.task.priority.button.tooltip "修改重要性">
-<!ENTITY calendar.task.delete.button.tooltip "刪除選取的工作">
+<!ENTITY calendar.task.category.button.tooltip  "將工作分類">
+<!ENTITY calendar.task.complete.button.tooltip  "將工作標示為已完成">
+<!ENTITY calendar.task.priority.button.tooltip  "修改重要性">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "文件: 完成">
 
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "自訂…">
-<!ENTITY calendar.context.customize.accesskey         "C">
-<!ENTITY calendar.menu.customize.label                "自訂工具列…">
-<!ENTITY calendar.menu.customize.accesskey            "C">
-<!ENTITY calendar.maintoolbar.name                    "主要工具列">
-<!ENTITY calendar.maintoolbar.accesskey               "M">
-
 <!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "開啟舊檔">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewtask.label      "開啟工作內容">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
 <!ENTITY calendar.context.newevent.label              "新增事件…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "新增工作…">
 <!ENTITY calendar.context.newtodo.accesskey           "k">
-<!ENTITY calendar.context.modifyevent.label           "編輯選取的事件…">
-<!ENTITY calendar.context.modifyevent.accesskey       "E">
 <!ENTITY calendar.context.modifytask.label            "編輯工作…">
 <!ENTITY calendar.context.modifytask.accesskey        "E">
 <!ENTITY calendar.context.modifyitem.label            "編輯項目">
 <!ENTITY calendar.context.modifyitem.accesskey        "E">
+<!ENTITY calendar.context.deletetask.label            "刪除工作">
+<!ENTITY calendar.context.deletetask.accesskey        "l">
+<!ENTITY calendar.context.deleteitem.label            "刪除項目">
+<!ENTITY calendar.context.deleteitem.accesskey        "l">
 <!ENTITY calendar.context.deleteevent.label           "刪除選取的事件">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
-<!ENTITY calendar.context.deletetask.label            "刪除工作">
-<!ENTITY calendar.context.deletetask.accesskey        "I">
-<!ENTITY calendar.context.deleteitem.label            "刪除項目">
-<!ENTITY calendar.context.deleteitem.accesskey        "I">
+<!ENTITY calendar.context.deletethisevent.label       "本事件">
+<!ENTITY calendar.context.deletethisevent.accesskey   "T">
+<!ENTITY calendar.context.deletecompleteseries.label  "已完成項目">
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "S">
+<!ENTITY calendar.context.deletefutureevents.label     "所有未來的事件">
+<!ENTITY calendar.context.deletefutureevents.accesskey "F">
+<!ENTITY calendar.context.deletefuturetasks.label     "所有未來的工作">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
 <!ENTITY calendar.context.cutevent.label              "剪下">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "複製">
@@ -255,27 +199,20 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
 <!ENTITY calendar.context.selectall.label             "全選">
 <!ENTITY calendar.context.selectall.accesskey         "A">
-<!ENTITY calendar.context.gototoday.label             "前往今日">
 <!ENTITY calendar.context.button.label                "今日窗格" >
-<!ENTITY calendar.context.gototoday.accesskey         "T">
-<!ENTITY calendar.context.emailevent.label	      "郵寄選取的事件…">
-<!ENTITY calendar.context.emailevent.accesskey        "i">
+<!ENTITY calendar.context.button.accesskey            "T" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "進度">
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "重要性">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.category.label              "新增類別…">
-<!ENTITY calendar.context.category.accesskey          "g">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "標示為已完成">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 
-<!ENTITY progress.notstarted           "尚未開始">
-<!ENTITY progress.notstarted.accesskey "N">
 <!ENTITY progress.level.0             "已完成 0&percnt;">
 <!ENTITY progress.level.0.accesskey   "0">
 <!ENTITY progress.level.25            "已完成 25&percnt;">
@@ -286,6 +223,15 @@
 <!ENTITY progress.level.75.accesskey  "7">
 <!ENTITY progress.level.100            "已完成 100&percnt;">
 <!ENTITY progress.level.100.accesskey  "1">
+
+<!ENTITY priority.level.none                "尚未指定">
+<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.low                 "低">
+<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.normal              "正常">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "高">
+<!ENTITY priority.level.high.accesskey      "H">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "開新行事曆…">
@@ -303,17 +249,15 @@
 <!ENTITY calendar.context.properties.label             "屬性">
 <!ENTITY calendar.context.properties.accesskey         "P">
 
-<!ENTITY calendar.context.convert.label                "轉換為">
-<!ENTITY calendar.context.convert.accesskey            "v">
-<!ENTITY calendar.context.converttoevent.label         "事件">
-<!ENTITY calendar.context.converttoevent.accesskey     "E">
-<!ENTITY calendar.context.converttomessage.label       "訊息">
-<!ENTITY calendar.context.converttomessage.accesskey   "M">
-
-<!ENTITY calendar.context.showeventsof.label           "顯示事件:">
-<!ENTITY calendar.context.showeventsof.accesskey       "S">
-<!ENTITY calendar.context.showtasksof.label            "顯示工作:">
-<!ENTITY calendar.context.showtasksof.accesskey        "S">
+<!ENTITY calendar.context.convertmenu.label              "轉換成">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label        "事件…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
+<!ENTITY calendar.context.convertmenu.message.label      "訊息…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "工作…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "迷您月">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
@@ -321,8 +265,8 @@
 <!ENTITY calendar.tasks.view.calendarlist.label        "行事曆清單">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
-<!ENTITY calendar.tasks.view.sorttasks.label           "排序工作">
-<!ENTITY calendar.tasks.view.sorttasks.accesskey       "S">
+<!ENTITY calendar.tasks.view.filtertasks.label           "過濾工作">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 
 <!-- Calendar Alarm Dialog -->
 
@@ -331,7 +275,6 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "稍後提醒" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "全部稍後提醒:" >
-<!ENTITY calendar.alarm.snoozeall.suffix.label      "">
 <!ENTITY calendar.alarm.title.label                 "行事曆鬧鈴" >
 <!ENTITY calendar.alarm.dismiss.label               "解除" >
 <!ENTITY calendar.alarm.dismissall.label            "全部解除" >
@@ -350,19 +293,20 @@
 <!ENTITY calendar.server.dialog.name.label          "行事曆名稱:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "色彩:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "格式:">
-<!ENTITY calendarproperties.location.label "地點:">
-<!ENTITY calendarproperties.name.label     "名稱:">
-<!ENTITY calendarproperties.readonly.label "唯讀">
-<!ENTITY calendarproperties.firealarms.label "顯示鬧鈴">
-<!ENTITY calendarproperties.cache.label    "快取 (實驗性，需要重新啟動)">
-
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "說明主題">
+<!ENTITY calendarproperties.color.label                    "色彩:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "格式:">
+<!ENTITY calendarproperties.location.label                 "地點:">
+<!ENTITY calendarproperties.name.label                     "名稱:">
+<!ENTITY calendarproperties.readonly.label                 "唯讀">
+<!ENTITY calendarproperties.firealarms.label               "顯示鬧鈴">
+<!ENTITY calendarproperties.cache.label                    "快取 (實驗性，需要重新啟動)">
+<!ENTITY calendarproperties.enabled.label                  "顯示此行事曆">
+<!ENTITY calendarproperties.forceDisabled.label            "無法找到此行事曆的提供者，此狀況通常發生於已關閉或已移除特定的套件。">
+<!ENTITY calendarproperties.unsubscribe.label              "取消訂閱">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "發佈行事曆">
@@ -374,28 +318,6 @@
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "選取行事曆">
-
-<!-- Calendar Import Outlook CSV Dialog -->
-<!-- TRANSLATORS: all outlook*.label -fields should be translated word to word (or if possible
-                  copied from outlook csv file headers -->
-<!ENTITY calendar.importoutlook.dialog.title "Outlook CSV 匯入" >
-<!ENTITY calendar.importoutlook.mapconcepts.label "請選取下列行事曆項目及所對應的 Outlook CSV 中的項目:" >
-<!ENTITY calendar.importoutlook.outlooksubject.label "主旨" >
-<!ENTITY calendar.importoutlook.outlookstartdate.label "開始日期" >
-<!ENTITY calendar.importoutlook.outlookstarttime.label "開始時間" >
-<!ENTITY calendar.importoutlook.outlookenddate.label "結束日期" >
-<!ENTITY calendar.importoutlook.outlookendtime.label "結束時間" >
-<!ENTITY calendar.importoutlook.outlooklocation.label "地點" >
-<!ENTITY calendar.importoutlook.outlookdescription.label "描述" >
-<!ENTITY calendar.importoutlook.outlookallday.label "全天" >
-<!ENTITY calendar.importoutlook.outlookprivate.label "私人" >
-<!ENTITY calendar.importoutlook.outlookalarm.label "提醒開啟/關閉" >
-<!ENTITY calendar.importoutlook.outlookalarmdate.label "提醒日期" >
-<!ENTITY calendar.importoutlook.outlookalarmtime.label "提醒時間" >
-<!ENTITY calendar.importoutlook.outlookcategories.label "類別" >
-<!ENTITY calendar.importoutlook.selectmeaning.label "請選擇對應下列意義的文字: ">
-<!ENTITY calendar.importoutlook.true.label "True" >
-<!ENTITY calendar.importoutlook.false.label "False" >
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "列印行事曆">
@@ -411,15 +333,6 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "詳細資訊…">
-<!ENTITY calendar.error.number "錯誤代碼:">
+<!ENTITY calendar.error.code "錯誤代碼：">
 <!ENTITY calendar.error.description "描述:">
 <!ENTITY calendar.error.title "發生錯誤">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-

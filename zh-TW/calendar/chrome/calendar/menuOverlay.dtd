@@ -42,9 +42,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.menu.label                       "事件">
-<!ENTITY event.menu.accesskey                   "E">
-
 <!ENTITY event.new.event                        "新增事件…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
@@ -57,33 +54,9 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.open.file.label               "開啟行事曆檔案…">
-<!ENTITY calendar.open.file.key                 "O">
-<!ENTITY calendar.open.file.accesskey           "O">
-
-<!ENTITY event.edit.event                       "編輯選取的事件…">
-<!ENTITY event.edit.event.key                   "E">
-<!ENTITY event.edit.event.accesskey             "E">
-
-<!ENTITY event.delete.event                     "刪除選取的事件">
-<!ENTITY event.delete.event.accesskey           "D">
-
-<!ENTITY event.delete.tasks                     "刪除選取的工作">
-<!ENTITY event.delete.tasks.accesskey           "T">
-
-<!ENTITY event.mail.event                       "郵寄選取的事件…">
-<!ENTITY event.mail.event.key                   "M">
-<!ENTITY event.mail.event.accesskey             "M">
-
 <!ENTITY calendar.print.label                   "列印…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "P">
-
-<!ENTITY calendar.printpreview.label            "列印預覽">
-<!ENTITY calendar.printpreview.accesskey        "v">
-
-<!ENTITY calendar.pagesetup.label               "頁面設定…">
-<!ENTITY calendar.pagesetup.accesskey           "u">
 
 <!ENTITY calendar.import.label                  "匯入…">
 <!ENTITY calendar.import.key                    "I">
@@ -91,87 +64,17 @@
 
 <!ENTITY calendar.export.label                  "匯出選取的項目…">
 <!ENTITY calendar.export.accesskey              "E">
-
-<!ENTITY calendar.export.calendar.label         "匯出行事曆…">
-<!ENTITY calendar.export.calendar.accesskey     "E">
-
 <!ENTITY calendar.export.selection.label        "匯出選取的項目…">
 <!ENTITY calendar.export.selection.accesskey    "S">
-
-<!ENTITY calendar.subscribe.label               "訂閱遠端行事曆…">
-<!ENTITY calendar.subscribe.accesskey           "R">
-
-<!ENTITY calendar.reloadserver.label            "重新讀取遠端行事曆">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "R">
 
 <!ENTITY calendar.publish.label                 "發佈…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.publish.calendar.label        "發佈行事曆…">
-<!ENTITY calendar.publish.calendar.accesskey    "b">
-
-<!ENTITY calendar.publish.selection.label       "發佈選取的行事曆…">
-<!ENTITY calendar.publish.selection.accesskey   "c">
-
-<!ENTITY calendar.quit.label                    "退出">
-<!ENTITY calendar.quit.accesskey                "Q">
-<!ENTITY calendar.quit.label.mac                "退出 &brandShortName;">
-<!ENTITY calendar.quit.key.mac                  "Q">
-<!ENTITY calendar.quit.modifiers.mac            "accel">
-
-<!ENTITY calendar.exit.label                    "結束">
-<!ENTITY calendar.exit.accesskey                "x">
-
-<!ENTITY calendar.about.label                   "關於行事曆">
-<!ENTITY calendar.about.accesskey               "C">
-
-<!ENTITY calendar.undo.label                    "復原">
-<!ENTITY calendar.undo.key                      "Z">
-<!ENTITY calendar.undo.accesskey                "u">
-
-<!ENTITY calendar.redo.label                    "取消復原">
-<!ENTITY calendar.redo.key                      "Y">
-<!ENTITY calendar.redo.accesskey                "r">
-
-<!ENTITY calendar.cut.label                     "剪下">
-<!ENTITY calendar.cut.key                       "X">
-<!ENTITY calendar.cut.accesskey                 "t">
-
-<!ENTITY calendar.copy.label                    "複製">
-<!ENTITY calendar.copy.key                      "C">
-<!ENTITY calendar.copy.accesskey                "C">
-
-<!ENTITY calendar.paste.label                   "貼上">
-<!ENTITY calendar.paste.key                     "V">
-<!ENTITY calendar.paste.accesskey               "P">
-
-<!ENTITY calendar.selectall.label               "全選">
-<!ENTITY calendar.selectall.key                 "A">
-<!ENTITY calendar.selectall.accesskey           "A">
-
-<!ENTITY toolbarsMenu.label                     "工具列">
-<!ENTITY toolbarsMenu.accesskey                 "T">
-
-<!ENTITY calendar.toolbar.label                 "行事曆工具列">
-<!ENTITY calendar.toolbar.accesskey             "T">
-<!ENTITY task.toolbar.label                     "工作工具列">
-<!ENTITY task.toolbar.accesskey                 "b">
-
-<!ENTITY mode.toolbar.label                     "模式工具列">
-<!ENTITY mode.toolbar.accesskey                 "M">
+<!ENTITY calendar.deletecalendar.label          "刪除所選的日曆…">
+<!ENTITY calendar.deletecalendar.accesskey      "D">
 
 <!ENTITY calendar.menu.customize.label          "自訂…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
-
-<!ENTITY calendar.preferences.label             "偏好設定…">
-<!ENTITY calendar.preferences.accesskey         "e">
-
-<!ENTITY showStatusBarCmd.label                 "狀態列">
-<!ENTITY showStatusBarCmd.accesskey             "B">
-
-<!ENTITY showTaskBoxCmd.label                   "工作清單">
-<!ENTITY showTaskBoxCmd.accesskey               "L">
 
 <!ENTITY showUnifinderCmd.label                 "尋找事件">
 <!ENTITY showUnifinderCmd.accesskey             "F">
@@ -186,20 +89,8 @@
 <!ENTITY calendar.menu.numberofweeks.5          "五週">
 <!ENTITY calendar.menu.numberofweeks.6          "六週">
 
-<!ENTITY calendar.fullscreen.label              "全螢幕">
-<!ENTITY calendar.fullscreen.accesskey          "F">
-
-<!ENTITY calendar.addons.label                  "附加元件">
-<!ENTITY calendar.addons.accesskey              "d">
-
-<!ENTITY goMenu.label                           "前往">
-<!ENTITY goMenu.accesskey                       "G">
-
 <!ENTITY goTodayCmd.label                       "今天">
 <!ENTITY goTodayCmd.accesskey                   "T">
-
-<!ENTITY goDateCmd.label                        "選取日期…">
-<!ENTITY goDateCmd.accesskey                    "D">
 
 <!ENTITY goPreviousCmd.day.label                "前一天">
 <!ENTITY goPreviousCmd.week.label               "上週">
@@ -209,127 +100,10 @@
 <!ENTITY goNextCmd.day.label                    "後一天">
 <!ENTITY goNextCmd.week.label                   "下週">
 <!ENTITY goNextCmd.month.label                  "下個月">
-<!ENTITY goNextCmd.accesskey                    "N">
-
-<!ENTITY taskMenu.label                         "工作">
-<!ENTITY taskMenu.accesskey                     "k">
-
-<!ENTITY toolsMenu.label                        "工具">
-<!ENTITY toolsMenu.accesskey                    "T">
-
-<!ENTITY errorConsoleCmd.label                  "錯誤主控台">
-<!ENTITY errorConsoleCmd.accesskey              "C">
-
-<!ENTITY navigatorCmd.label                     "瀏覽器">
-<!ENTITY navigatorCmd.accesskey                 "B">
-
-<!ENTITY messengerCmd.label                     "郵件">
-<!ENTITY messengerCmd.accesskey                 "M">
-
-<!ENTITY addressBookCmd.label                   "通訊錄">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY helpMenu.label                         "說明">
-<!ENTITY helpMenu.accesskey                     "H">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-           for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                      "說明"> 
-<!ENTITY helpMenuWin.accesskey                  "H">
-
-<!ENTITY walletPasswordManager.label            "密碼管理員">
-<!ENTITY walletPasswordManager.accesskey        "p">
-
-<!-- Toolbar items -->
-<!ENTITY fileMenu.label                         "檔案">
-<!ENTITY fileMenu.accesskey                     "F">
-
-<!ENTITY editMenu.label                         "編輯">
-<!ENTITY editMenu.accesskey                     "E">
-<!ENTITY optionsCmd.label                       "選項…">
-<!ENTITY optionsCmd.accesskey                   "O">
-<!ENTITY preferencesCmd.label                   "偏好設定">
-<!ENTITY preferencesCmd.accesskey               "n">
-<!ENTITY preferencesCmdMac.label                "偏好設定…">
-<!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
-
-<!ENTITY viewMenu.label                         "檢視(V)">
-<!ENTITY viewMenu.accesskey                     "V">
-
-<!ENTITY releaseCmd.label                       "版本資訊">
-<!ENTITY releaseCmd.accesskey                   "R">
-<!ENTITY aboutCmd.label                         "關於 &brandFullName;">
-<!ENTITY aboutCmd.accesskey                     "A">
-<!ENTITY updateCmd.label                        "檢查更新…">
-<!ENTITY updateCmd.accesskey                    "o">
-
-<!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                       "視窗">
-<!ENTITY minimizeWindow.label                   "縮到最小">
-<!ENTITY zoomWindow.label                       "縮放">
-<!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "將此程式所有視窗移至最前">
-
-<!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label          "服務">
-<!ENTITY hideThisAppCmdMac.label        "隱藏 &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "隱藏其他">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "顯示全部">
-
-<!ENTITY calendar.importcalendar.label          "匯入行事曆…">
-<!ENTITY calendar.importcalendar.accesskey      "I">
-
-<!ENTITY calendar.delete.label                  "刪除">
-<!ENTITY calendar.delete.accesskey              "D">
-
-<!ENTITY showCalendarlist.label                 "行事曆清單">
-<!ENTITY showCalendarlist.accesskey             "C">
+<!ENTITY goNextCmd.all.accesskey                "e">
 
 <!ENTITY showCurrentView.label                  "目前檢視">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY task.menu.label                        "工作">
-<!ENTITY task.menu.accesskey                    "T">
-
-<!ENTITY day.menu.label                         "日">
-<!ENTITY day.menu.accesskey                     "D">
-
-<!ENTITY week.menu.label                        "週">
-<!ENTITY week.menu.accesskey                    "W">
-
-<!ENTITY month.menu.label                       "月">
-<!ENTITY month.menu.accesskey                   "M">
-
-<!ENTITY next.menu.label                        "下一個">
-<!ENTITY next.menu.accesskey                    "N">
-
-<!ENTITY previous.menu.label                    "前一個">
-<!ENTITY previous.menu.accesskey                "P">
-
-<!ENTITY calendar.subscribeshort.label          "訂閱…">
-<!ENTITY calendar.subscribeshort.accesskey      "S">
-
-<!ENTITY calendar.unsubscribeshort.label        "取消訂閱…">
-<!ENTITY calendar.unsubscribeshort.accesskey    "U">
-
 <!ENTITY calendar.properties.label              "行事曆屬性…">
 <!ENTITY calendar.properties.accesskey          "C">
-
-<!ENTITY calendar.showtasks.label               "顯示工作…">
-<!ENTITY calendar.showtasks.accesskey           "T">
-
-<!ENTITY series.selectpastevents.label          "此系列過去的事件">
-<!ENTITY series.selectpastevents.accesskey      "P">
-
-<!ENTITY series.selectfutureevents.label        "此系列未來的事件">
-<!ENTITY series.selectfutureevents.accesskey    "F">
-
-<!ENTITY series.selectallevents.label           "此系列的所有事件">
-<!ENTITY series.selectallevents.accesskey       "S">
-
-<!ENTITY calendar.selectallevents.label         "此行事曆的所有事件">
-<!ENTITY calendar.selectallevents.accesskey     "A">
