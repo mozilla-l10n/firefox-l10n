@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,6 +44,7 @@
 <!ENTITY pref.calendar.advanced.generalTab.label "一般">
 <!ENTITY pref.calendar.advanced.passwordsTab.label "密碼">
 <!ENTITY pref.calendar.advanced.updateTab.label "更新">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "加密">
 
 <!-- General -->
 <!ENTITY pref.calendar.advanced.showConnections.label     "連線設定…">
@@ -77,3 +79,24 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "W">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "顯示更新記錄…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "通訊協定">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "使用 SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "使用 TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "憑證">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "當伺服器要求我的個人憑證時:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "自動選擇一組憑證">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "每次都詢問我">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "檢視憑證">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "廢止清冊">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "驗證">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "安全裝置">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">

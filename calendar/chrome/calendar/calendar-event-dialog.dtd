@@ -1,4 +1,4 @@
- <!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -20,6 +20,13 @@
    -
    - Contributor(s):
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Michael Buettner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,116 +42,347 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- LOCALIZATION NOTE This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
-
 <!ENTITY event.title.label                  "編輯項目" >
 
-<!ENTITY newevent.title.label               "標題" >
-<!ENTITY newevent.title.accesskey           "i" >
-<!ENTITY newevent.itemType.event.label      "事件" >
-<!ENTITY newevent.itemType.todo.label       "工作" >
-<!ENTITY newevent.location.label            "地點" >
-<!ENTITY newevent.location.accesskey        "L" >
 
-<!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
-   - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
-   - details  -->
-<!-- The following entities are for New Event dialog only -->
 <!ENTITY newevent.from.label                "從" >
-<!ENTITY newevent.from.accesskey            "F" >
 <!ENTITY newevent.to.label                  "到" >
-<!ENTITY newevent.to.accesskey              "T" >
-<!ENTITY newevent.alldayevent.label         "全天" >
-<!ENTITY newevent.alldayevent.accesskey     "A" >
+<!ENTITY newevent.attendees.notify.label    "通知參與者">
 
-<!-- The following entities are for New Task dialog only -->
-<!ENTITY newevent.date.label                "日期" >
-<!ENTITY newevent.date.accesskey            "a" >
-<!ENTITY newtodo.duedate.label              "期限">
-<!ENTITY newtodo.duedate.accesskey          "t">
-
-<!ENTITY newevent.repeat2.label             "重複" >
-<!ENTITY newevent.repeat2.accesskey         "R" >
-<!ENTITY newevent.set.label                 "設定模式…" >
-<!ENTITY newevent.set.accesskey             "n" >
-
-<!ENTITY newevent.server.label              "行事曆" >
-<!ENTITY newevent.server.accesskey          "C" >
-<!ENTITY newtodo.categories.label           "類別">
-<!ENTITY newtodo.categories.accesskey       "o">
-
-<!ENTITY newevent.description.label         "描述" >
-<!ENTITY newevent.description.accesskey     "D" >
-
-<!ENTITY newevent.attendees.label           "與會者" >
-<!ENTITY newevent.attendees.accesskey       "e" >
-<!ENTITY newevent.attendees.sendEmail.label "透過電子郵件傳送邀請函給與會者">
-
-<!ENTITY newevent.privacy.label             "隱私" >
-<!ENTITY newevent.privacy.accesskey         "P" >
-<!ENTITY newevent.public.label              "公開" >
-<!ENTITY newevent.private.label             "私人" >
-<!ENTITY newevent.confidential.label        "機密" >
-
-<!ENTITY newtodo.priority.label             "重要性">
-<!ENTITY newtodo.priority.accesskey         "y">
-<!ENTITY priority.level.none                "尚未指定">
-<!ENTITY priority.level.none.accesskey      "N">
-<!ENTITY priority.level.low                 "低">
-<!ENTITY priority.level.low.accesskey       "L">
-<!ENTITY priority.level.medium              "中">
-<!ENTITY priority.level.medium.accesskey    "M">
-<!ENTITY priority.level.high                "高">
-<!ENTITY priority.level.high.accesskey      "H">
-
-<!ENTITY newevent.status.label              "狀態" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "尚未指定" >
-<!ENTITY newevent.status.cancelled.label    "已取消" >
-
-<!-- The following entities are for New Event dialog only -->
-<!ENTITY newevent.status.tentative.label    "暫定" >
-<!ENTITY newevent.status.confirmed.label    "已確認" >
-
-<!-- The following entities are for New Task dialog only -->
-<!ENTITY newevent.status.needsaction.label  "待處理" >
-<!ENTITY newevent.status.inprogress.label   "進行中" >
-<!ENTITY newevent.status.completed.label    "完成日期" >
-
-<!ENTITY newevent.alarm.label               "鬧鈴" >
-<!ENTITY newevent.alarm.accesskey           "m" >
-<!ENTITY newevent.none.label                "無" >
-<!ENTITY newevent.15minutes.before.label    "15 分鐘前" >
-<!ENTITY newevent.30minutes.before.label    "30 分鐘前" >
-<!ENTITY newevent.custom.label              "自訂…" >
-
-<!ENTITY newevent.uri.label                 "相關網址" >
-<!ENTITY newevent.uri.accesskey             "U" >
-<!ENTITY newevent.uri.visit.label           "造訪網址" >
-<!ENTITY newevent.uri.visit.accesskey       "V" >
+<!ENTITY newevent.status.label                "狀態" >
+<!ENTITY newevent.status.accesskey            "S" >
+<!ENTITY newevent.status.none.label           "尚未指定" >
+<!ENTITY newevent.status.none.accesskey       "o" >
+<!ENTITY newevent.status.cancelled.label      "已取消" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.status.tentative.label      "暫定" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
+<!ENTITY newevent.status.confirmed.label      "已確認" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
+<!ENTITY newevent.status.needsaction.label    "待處理" >
+<!ENTITY newevent.status.inprogress.label     "進行中" >
+<!ENTITY newevent.status.completed.label      "完成日期" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 完成">
 
-<!ENTITY calendar.more.label                "詳盡">
-<!ENTITY calendar.less.label                "精簡">
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key               "E">
+<!ENTITY event.dialog.new.message.key             "M">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.delete.key                  "D">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 
-<!-- Alarm -->
-<!ENTITY alarm.units.minutes                "分鐘" >
-<!ENTITY alarm.units.hours                  "小時" >
-<!ENTITY alarm.units.days                   "天" >
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "檔案">
+<!ENTITY  event.menu.file.accesskey                       "F">
+<!ENTITY  event.menu.file.new.label                       "新增">
+<!ENTITY  event.menu.file.new.accesskey                   "N">
+<!ENTITY  event.menu.file.new.event.label                 "事件">
+<!ENTITY  event.menu.file.new.event.accesskey             "E">
+<!ENTITY  event.menu.file.new.message.label               "郵件">
+<!ENTITY  event.menu.file.new.message.accesskey           "M">
+<!ENTITY  event.menu.file.new.contact.label               "通訊錄連絡人">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
+<!ENTITY  event.menu.file.close.label                     "關閉">
+<!ENTITY  event.menu.file.close.accesskey                 "C">
+<!ENTITY  event.menu.file.save.label                      "儲存">
+<!ENTITY  event.menu.file.save.accesskey                  "S">
+<!ENTITY  event.menu.item.delete.label                    "刪除…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
+<!ENTITY  event.menu.file.page.setup.label                "頁面設定">
+<!ENTITY  event.menu.file.page.setup.accesskey            "u">
+<!ENTITY  event.menu.file.print.label                     "列印">
+<!ENTITY  event.menu.file.print.accesskey                 "P">
 
-<!ENTITY alarm.start.warning                "此鬧鈴需要設定開始日期" >
-<!ENTITY alarm.due.warning                  "此鬧鈴需要設定期限" >
+<!ENTITY  event.menu.edit.label                           "編輯">
+<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.undo.label                      "復原">
+<!ENTITY  event.menu.edit.undo.accesskey                  "U">
+<!ENTITY  event.menu.edit.redo.label                      "取消「復原」">
+<!ENTITY  event.menu.edit.redo.accesskey                  "R">
+<!ENTITY  event.menu.edit.cut.label                       "剪下">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
+<!ENTITY  event.menu.edit.copy.label                      "複製">
+<!ENTITY  event.menu.edit.copy.accesskey                  "C">
+<!ENTITY  event.menu.edit.paste.label                     "貼上">
+<!ENTITY  event.menu.edit.paste.accesskey                 "P">
+<!ENTITY  event.menu.edit.select.all.label                "全選">
+<!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
-<!ENTITY newevent.before.label              "前" >
-<!ENTITY newevent.after.label               "後" >
+<!ENTITY  event.menu.view.label                           "檢視">
+<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.toolbars.label                  "工具列">
+<!ENTITY  event.menu.view.toolbars.accesskey              "T">
+<!ENTITY  event.menu.view.toolbars.event.label            "事件工具列">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
+<!ENTITY  event.menu.view.toolbars.customize.label        "自訂…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
+<!ENTITY  event.menu.view.showlink.label                  "顯示相關鍊結">
+<!ENTITY  event.menu.view.showlink.accesskey              "R">
 
-<!-- Information messages -->
-<!ENTITY newevent.endtime.warning           "「開始時間」比「結束時間」還晚。">
-<!ENTITY newevent.readonly.item.warning     "此項目位於唯讀行事曆內，您無法編輯。">
-<!ENTITY newevent.readonly.cal.warning      "此行事曆為唯讀。">
-<!ENTITY newtodo.repeatstart.warning        "「週期性」項目需要開始日期">
+<!ENTITY  event.menu.options.label                            "選項">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attachments.label                "附加網頁">
+<!ENTITY  event.menu.options.attachments.accesskey            "W">
+<!ENTITY  event.menu.options.attendees.label                  "邀請參與者…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.spellcheck.label                 "檢查拼字…">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "即時拼字檢查">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
+<!ENTITY  event.menu.options.link.label                       "新增鍊結…">
+<!ENTITY  event.menu.options.link.accesskey                   "L">
+<!ENTITY  event.menu.options.timezone.label                   "時區">
+<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.priority2.label                  "重要性">
+<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority.notspecified.label      "未指定">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.low.label               "低">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "標準">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "高">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "個人隱私">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "公開事件">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "僅顯示日期與時間">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
+<!ENTITY  event.menu.options.privacy.private.label            "私人事件">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "顯示此時段為">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.busy.label             "忙碌">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.free.label             "空閒">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
+
+<!ENTITY event.invite.attendees.label                     "邀請參與者…">
+<!ENTITY event.invite.attendees.accesskey                 "I">
+<!ENTITY event.email.attendees.label                      "編寫電子郵件給所有與會者">
+<!ENTITY event.email.attendees.accesskey                  "a">
+<!ENTITY event.email.tentative.attendees.label            "編寫電子郵件給未確定的與會者…">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "儲存並關閉">
+<!ENTITY  event.toolbar.delete.label                      "刪除">
+<!ENTITY  event.toolbar.attendees.label                   "邀請參與者">
+<!ENTITY  event.toolbar.spellcheck.label                  "拼字檢查">
+<!ENTITY  event.toolbar.privacy.label                     "個人隱私">
+<!ENTITY  event.toolbar.attachments.label                 "附件">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "標題:" >
+<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.location.label                             "地點:" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "分類:">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.calendar.label                             "行事曆:" >
+<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.attendees.label                            "與會者:" >
+<!ENTITY event.attendees.accesskey                        "A" >
+<!ENTITY event.alldayevent.label                          "全天事件" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "開始:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "開始:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "結束:" >
+<!ENTITY event.to.accesskey                               "n">
+<!ENTITY task.to.label                                    "到期日:" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "狀態:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "重複:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.reminder.label                             "提醒:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "描述:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "附加檔案:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.popup.remove.label             "移除" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "開啟舊檔" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "全部移除" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "附加網頁" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+<!ENTITY event.url.label                                  "相關連結:" >
+<!ENTITY event.priority2.label                            "重要性:">
+
+<!ENTITY event.reminder.none.label                        "沒有提醒 " >
+<!ENTITY event.reminder.0minutes.before.label             "0分鐘前" >
+<!ENTITY event.reminder.5minutes.before.label             "在5分鐘之前" >
+<!ENTITY event.reminder.10minutes.before.label            "在10分鐘之前" >
+<!ENTITY event.reminder.15minutes.before.label            "在15分鐘之前" >
+<!ENTITY event.reminder.30minutes.before.label            "在30分鐘之前" >
+<!ENTITY event.reminder.45minutes.before.label            "在45分鐘之前" >
+<!ENTITY event.reminder.1hour.before.label                "在1小時之前" >
+<!ENTITY event.reminder.2hours.before.label               "在2小時之前" >
+<!ENTITY event.reminder.5hours.before.label               "在5小時之前" >
+<!ENTITY event.reminder.15hours.before.label              "在15小時之前" >
+<!ENTITY event.reminder.1day.before.label                 "在1天之前" >
+<!ENTITY event.reminder.2days.before.label                "在2天之前" >
+<!ENTITY event.reminder.1week.before.label                "在1星期之前" >
+<!ENTITY event.reminder.custom.label                      "自訂…" >
+
+<!ENTITY event.reminder.multiple.label                    "多次提醒…" >
+
+<!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "編輯循環事件">
+
+<!ENTITY event.repeat.does.not.repeat.label             "不要重複">
+<!ENTITY event.repeat.daily.label                       "每天">
+<!ENTITY event.repeat.weekly.label                      "每星期">
+<!ENTITY event.repeat.every.weekday.label               "每個工作天">
+<!ENTITY event.repeat.bi.weekly.label                   "雙週">
+<!ENTITY event.repeat.monthly.label                     "每個月">
+<!ENTITY event.repeat.yearly.label                      "每年">
+<!ENTITY event.repeat.custom.label                      "自訂…">
+
+<!ENTITY event.recurrence.pattern.label                 "循環模式">
+<!ENTITY event.recurrence.occurs.label                  "重複" >
+<!ENTITY event.recurrence.day.label                     "自訂…" >
+<!ENTITY event.recurrence.week.label                    "每週" >
+<!ENTITY event.recurrence.month.label                   "每個月" >
+<!ENTITY event.recurrence.year.label                    "每年一次" >
+
+<!ENTITY event.recurrence.pattern.every.label           "每" >
+<!ENTITY repeat.units.days.both                         "每個月" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "每個工作日" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "每" >
+<!ENTITY repeat.units.weeks.both                        "週" >
+<!ENTITY event.recurrence.on.label                      "在:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "每" >
+<!ENTITY repeat.units.months.both                       "月" >
+<!ENTITY event.recurrence.monthly.every.label           "每" >
+<!ENTITY event.recurrence.monthly.first.label           "第一">
+<!ENTITY event.recurrence.monthly.second.label          "第二">
+<!ENTITY event.recurrence.monthly.third.label           "第三">
+<!ENTITY event.recurrence.monthly.fourth.label          "第四">
+<!ENTITY event.recurrence.monthly.fifth.label           "第五">
+<!ENTITY event.recurrence.monthly.last.label            "最後">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "星期日" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "星期一" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "星期二" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "星期三" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "星期四" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "星期五" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "星期六" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "每個月的當天">
+<!ENTITY event.recurrence.repeat.recur.label            "重複日子">
+
+<!ENTITY event.recurrence.every.label                        "每:" >
+<!ENTITY repeat.units.years.both                             "年" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "每" >
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "一月" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "二月" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "三月" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "四月" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "五月" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "六月" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "七月" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "八月" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "九月" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "十月" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "十一月" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "十二月" >
+<!ENTITY event.recurrence.yearly.every.label                 "每">
+<!ENTITY event.recurrence.yearly.first.label                 "第一">
+<!ENTITY event.recurrence.yearly.second.label                "第二">
+<!ENTITY event.recurrence.yearly.third.label                 "第三">
+<!ENTITY event.recurrence.yearly.fourth.label                "第四">
+<!ENTITY event.recurrence.yearly.fifth.label                 "第五">
+<!ENTITY event.recurrence.yearly.last.label                  "最後">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "星期日" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "星期一" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "星期二" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "星期三" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "星期四" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "星期五" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "星期六" >
+<!ENTITY event.recurrence.of.label                           "／" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "一月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "二月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "三月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "四月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "五月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "六月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "七月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "八月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "九月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "十月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "十一月" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "十二月" >
+
+<!ENTITY event.recurrence.range.label                   "重複的範圍">
+<!ENTITY event.recurrence.forever.label                 "沒有結束的日期" >
+<!ENTITY event.recurrence.repeat.for.label              "建立" >
+<!ENTITY event.recurrence.appointments.label            "約會" >
+<!ENTITY event.repeat.until.label                       "重複直到" >
+<!ENTITY event.recurrence.preview.label                 "預覽">
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "邀請參與者">
+<!ENTITY event.organizer.label                  "組織">
+<!ENTITY event.freebusy.suggest.slot            "推薦時段:">
+<!ENTITY event.freebusy.next.slot               "下一個時段 " >
+<!ENTITY event.freebusy.previous.slot           " 上一個時段" >
+<!ENTITY event.freebusy.zoom                    "放大:">
+<!ENTITY event.freebusy.plus                    "下一個小時" >
+<!ENTITY event.freebusy.minus                   "上一個小時" >
+<!ENTITY event.freebusy.legend.free             "空閒" >
+<!ENTITY event.freebusy.legend.busy             "忙碌" >
+<!ENTITY event.freebusy.legend.busy_tentative   "暫訂" >
+<!ENTITY event.freebusy.legend.busy_unavailable "忙碌中" >
+<!ENTITY event.freebusy.legend.unknown          "不明" >
+<!ENTITY event.attendee.role.required           "必須有與會者">
+<!ENTITY event.attendee.role.optional           "可選擇與會者">
+<!ENTITY event.attendee.role.chair              "主席">
+
+<!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "請指定時區">
+
+<!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "一般">
+<!ENTITY read.only.title.label           "標題:">
+<!ENTITY read.only.repeat.label          "重複:">
+<!ENTITY read.only.location.label        "位置:">
+<!ENTITY read.only.category.label        "分類:">
+<!ENTITY read.only.organizer.label       "召集人:">
+<!ENTITY read.only.reply.label           "回覆:">
+<!ENTITY read.only.accept.label          "我會參加">
+<!ENTITY read.only.decline.label         "我不會參加">
+<!ENTITY read.only.tentative.label       "我可能會參加">
+<!ENTITY read.only.needs.action.label    "我晚點確認">
+<!ENTITY read.only.reminder.label        "提醒:">
+<!ENTITY read.only.attendees.label       "與會者">
+<!ENTITY read.only.description.label     "描述">
+<!ENTITY read.only.documents.label       "文件">
+<!ENTITY read.only.link.label            "相關連結">

@@ -11,15 +11,13 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is
-   - Matthew Willis
+   - The Initial Developer of the Original Code is Sun Microsystems.
    - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,22 +31,19 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK ***** -->
+   - ***** END LICENSE BLOCK *****
+-->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
+<!-- Calendar Invitations Dialog -->
+<!ENTITY calendar.invitations.dialog.invitations.text                   "邀請">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "更新邀請函清單。">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "沒有找到未確認的邀請.">
 
-<!ENTITY pref.mainbox.label "一般設定" >
-<!ENTITY pref.dateformat.label "日期文字格式:" >
-<!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "長" >
-<!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "預設事件長度:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "重新整理設定" >
-<!ENTITY pref.autorefresh.label "重新整理行事曆間隔:" >
-<!ENTITY pref.autorefresh.accesskey "R" >
+<!-- Calendar Invitations List -->
+<!ENTITY calendar.invitations.list.accept.button.label                  "接受">
+<!ENTITY calendar.invitations.list.decline.button.label                 "拒絕">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "重複事件">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "全日事件">
+<!ENTITY calendar.invitations.list.location.text                        "位置: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "邀請人: ">
+<!ENTITY calendar.invitations.list.none.text                            "無">

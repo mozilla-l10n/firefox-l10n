@@ -38,3 +38,11 @@
 
 <!ENTITY gdata.privacy.default.label "Google 預設值">
 <!ENTITY gdata.privacy.default.accesskey "D">
+
+<!ENTITY gdata.migration.title "轉移唯讀的行事曆">
+<!ENTITY gdata.migration.description "在 Google 行事曆上發現您現有的 Google 行事曆只能使用於唯讀模式.假如您想要升級行事曆,請選擇以下">
+<!ENTITY gdata.migration.upgrade.label "升級">
+<!ENTITY gdata.migration.upgrade.accesskey "U">
+<!ENTITY gdata.migration.showagain.label "總是檢查 ">
+
+<!ENTITY gdata.reminder.action.sms.label "送出純文字訊息">

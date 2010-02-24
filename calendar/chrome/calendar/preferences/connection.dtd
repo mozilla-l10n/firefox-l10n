@@ -43,23 +43,22 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY proxyTitle.label		 "設定存取網路的代理伺服器 (Proxy)">
-<!ENTITY directTypeRadio.label		 "直接連線到網際網路">
+<!ENTITY  proxyTitle.label              "設定存取網路的代理伺服器 (Proxy)">
+<!ENTITY  directTypeRadio.label         "直接連線到網際網路">
 <!ENTITY  directTypeRadio.accesskey     "d">
-<!ENTITY WPADTypeRadio.label		 "自動偵測此網路的 Proxy 設定">
+<!ENTITY  WPADTypeRadio.label           "自動偵測此網路的 Proxy 設定">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY manualTypeRadio.label 		"手動設定 Proxy:">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label		 "自動設定網址 (URL):(若造成無法連線請改用手動設定)"><!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio.label         "手動設定 Proxy:">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "自動設定網址 (URL):(若造成無法連線請改用手動設定)">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新載入">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP Proxy:">
+<!ENTITY  ftp.label                     "FTP2 代理伺服器：">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher Proxy:">
-<!ENTITY  gopher.accesskey              "G">
-<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.label                    "HTTP 代理伺服器：">
 <!ENTITY  http.accesskey                "y">
-<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.label                     "SSL 代理伺服器：">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS 主機:">
 <!ENTITY  socks.accesskey               "C">
@@ -71,11 +70,9 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY noproxy.label 			"直接連線:">
+<!ENTITY  noproxy.label                 "直接連線:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "範例: .mozilla.org, .net.tw, 192.168.1.0/24">
-<!ENTITY shareproxy.label 		"所有通訊協定都使用此 Proxy 代理伺服器">
+<!ENTITY  shareproxy.label              "所有通訊協定都使用此 Proxy 代理伺服器">
 <!ENTITY  shareproxy.accesskey          "x">

@@ -11,16 +11,14 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is OEone Calendar Code, released October 31st, 2001.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# OEone Corporation.
-# Portions created by OEone Corporation are Copyright (C) 2001
-# OEone Corporation. All Rights Reserved.
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
+# the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   Garth Smedley <garths@oeone.com>
-#   Martin Schroeder <mschroeder@mozilla.x-home.org>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,58 +34,22 @@
 #
 # ***** END LICENSE BLOCK *****
 
-month.1.Mmm=1 月
-month.2.Mmm=2 月
-month.3.Mmm=3 月
-month.4.Mmm=4 月
-month.5.Mmm=5 月
-month.6.Mmm=6 月
-month.7.Mmm=7 月
-month.8.Mmm=8 月
-month.9.Mmm=9 月
-month.10.Mmm=10 月
-month.11.Mmm=11 月
-month.12.Mmm=12 月
+#filter substitution
 
-month.1.name=一月
-month.2.name=二月
-month.3.name=三月
-month.4.name=四月
-month.5.name=五月
-month.6.name=六月
-month.7.name=七月
-month.8.name=八月
-month.9.name=九月
-month.10.name=十月
-month.11.name=十一月
-month.12.name=十二月
+# the default day to start the week on
+#0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
+pref("calendar.week.start", 0);
 
-day.1.name=星期日
-day.2.name=星期一
-day.3.name=星期二
-day.4.name=星期三
-day.5.name=星期四
-day.6.name=星期五
-day.7.name=星期六
+# default days off (not in work week)
+pref("calendar.week.d0sundaysoff", true);
+pref("calendar.week.d1mondaysoff", false);
+pref("calendar.week.d2tuesdaysoff", false);
+pref("calendar.week.d3wednesdaysoff", false);
+pref("calendar.week.d4thursdaysoff", false);
+pref("calendar.week.d5fridaysoff", false);
+pref("calendar.week.d6saturdaysoff", true);
 
-day.1.Mmm=日
-day.2.Mmm=一
-day.3.Mmm=二
-day.4.Mmm=三
-day.5.Mmm=四
-day.6.Mmm=五
-day.7.Mmm=六
+pref("general.useragent.locale", "@AB_CD@");
 
-# Can someone tell me why we're not counting from zero?
-day.1.short=日
-day.2.short=一
-day.3.short=二
-day.4.short=三
-day.5.short=四
-day.6.short=五
-day.7.short=六
-
-noon=正午
-midnight=午夜
-
-AllDay=全天
+# categories
+pref("calendar.categories.names", "週年紀念,生日,業務,電話,客戶,競爭,顧客,我的最愛,追蹤,禮物,假日,構想,爭議,雜項,個人,計劃,國定假日,狀態,供應商,旅遊,假期");
