@@ -72,5 +72,5 @@
 
 <!ENTITY viewDefaultCharsetList.label             "Indkommende meddelelser:">
 <!ENTITY viewDefaultCharsetList.accesskey         "I">
-<!ENTITY replyInDefaultCharset2.label             "Om muligt, anvend standardtegnkodning i svar">
+<!ENTITY replyInDefaultCharset2.label             "Anvend standardtegnkodning i svar, når det er muligt">
 <!ENTITY replyInDefaultCharset2.accesskey         "O">

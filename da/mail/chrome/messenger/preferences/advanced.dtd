@@ -1,7 +1,7 @@
 <!ENTITY itemGeneral.label "Generelt">
-<!ENTITY itemDisplay.label "Læsning &amp; Visning">
+<!ENTITY itemDisplay.label "Læsning &amp; visning">
 <!ENTITY itemUpdate.label "Opdater">
-<!ENTITY itemNetworking.label    "Netværk &amp; Diskplads">
+<!ENTITY itemNetworking.label    "Netværk &amp; diskplads">
 <!ENTITY itemCertificates.label  "Certifikater">
 
 <!-- General Settings -->
