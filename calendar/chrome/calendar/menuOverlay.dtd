@@ -48,7 +48,7 @@
 
 <!ENTITY event.new.todo "Ny opgave…">
 <!ENTITY event.new.todo.key "T">
-<!ENTITY event.new.todo.accesskey "o">
+<!ENTITY event.new.todo.accesskey "y">
 
 <!ENTITY calendar.new.server.label "Ny kalenderfil…">
 <!ENTITY calendar.new.server.key "L">
@@ -89,7 +89,7 @@
 <!ENTITY calendar.menu.numberofweeks.5 "Fem uger">
 <!ENTITY calendar.menu.numberofweeks.6 "Seks uger">
 
-<!ENTITY goTodayCmd.label "Gå til i dag">
+<!ENTITY goTodayCmd.label "I dag">
 <!ENTITY goTodayCmd.accesskey "d">
 
 <!ENTITY goPreviousCmd.day.label "Forrige dag">

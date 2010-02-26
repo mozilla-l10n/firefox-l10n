@@ -48,7 +48,7 @@
 <!ENTITY sendOptions.label "Afsendelsesindstillinger…">
 <!ENTITY sendOptions.accesskey "A">
 
-<!ENTITY attachmentReminder.label              "Kontroller for manglede vedhæftninger">
+<!ENTITY attachmentReminder.label              "Kontroller for manglende vedhæftninger">
 <!ENTITY attachmentReminder.accesskey          "K">
 <!ENTITY attachmentReminderOptions.label       "Stikord…">
 <!ENTITY attachmentReminderOptions.accesskey   "i">

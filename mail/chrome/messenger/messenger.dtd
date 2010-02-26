@@ -441,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "T">
 <!ENTITY activitymanager.label "Aktivitet">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "Gemte filer">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Meddelelsesfiltre…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Kør filtre på mappe">
@@ -487,7 +490,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookButton.label "Adressebog">
 <!ENTITY glodaSearch.title "Global søg">
 <!ENTITY searchItem.title "Hurtig søg">
-<!ENTITY mailViewsToolbarItem.title "Meddelelses kriterier">
+<!ENTITY mailViewsToolbarItem.title "Meddelelsesvisning">
 <!ENTITY folderLocationToolbarItem.title "Mappeplacering">
 <!ENTITY tagButton.label "Mærkat">
 <!ENTITY compactButton.label "Optimer">
@@ -684,7 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Denne meddelelse ser ikke ud til at være mailsvindel.">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mere">
+<!ENTITY more.label "flere">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
@@ -729,8 +732,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Kopier billedadresse">
-<!ENTITY copyImageCmd.accesskey "p">
+<!ENTITY copyImageAllCmd.label "Kopier billedadresse">
+<!ENTITY copyImageAllCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Kopier mailadresse">
 <!ENTITY copyEmailCmd.accesskey "m">
 <!ENTITY stopCmd.label "Stop">

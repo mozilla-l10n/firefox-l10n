@@ -1,7 +1,7 @@
 <!ENTITY window.title "Meddelelsesfiltre">
 <!ENTITY nameColumn.label "Filternavn">
 <!ENTITY activeColumn.label "Aktiveret">
-<!ENTITY newButton.label "Nyt…">
+<!ENTITY newButton.label "Ny…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Rediger…">
 <!ENTITY editButton.accesskey "R">
