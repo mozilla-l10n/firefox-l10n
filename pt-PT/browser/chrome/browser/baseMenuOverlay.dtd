@@ -25,7 +25,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre problemas…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
-<!ENTITY updateCmd.label "Procurar por actualizações...">
+<!ENTITY updateCmd.label "Procurar actualizações...">
 
 <!ENTITY preferencesCmdMac.label "Preferências...">
 <!ENTITY preferencesCmdMac.commandkey ",">
