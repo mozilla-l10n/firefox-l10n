@@ -67,13 +67,13 @@
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Adicionar aos Marcadores...">
+<!ENTITY bookmarkThisPageCmd.label "Adicionar marcador...">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Subscrever a esta página">
-<!ENTITY subscribeToPageMenuitem.label "Subscrever a esta página...">
-<!ENTITY addCurPagesCmd.label "Adicionar Separadores...">
-<!ENTITY organizeBookmarks.label "Organizar Marcadores...">
-<!ENTITY bookmarkAllCmd.label "Adicionar Todos os Separadores...">
+<!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
+<!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
+<!ENTITY addCurPagesCmd.label "Adicionar separadores...">
+<!ENTITY organizeBookmarks.label "Organizar marcadores...">
+<!ENTITY bookmarkAllCmd.label "Adicionar todos os separadores...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
 <!ENTITY backCmd.label "Retroceder">
@@ -90,7 +90,7 @@
 <!ENTITY stopCmd.accesskey "P">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "Pára de carregar esta página">
-<!ENTITY goEndCap.tooltip             "Ir para o endereço da Barra de Localização">
+<!ENTITY goEndCap.tooltip             "Ir para o endereço da barra de localização">
 <!ENTITY feedButton.tooltip           "Subscrever esta página…">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
@@ -199,8 +199,8 @@ shortcut keys on Linux. -->
 <!ENTITY historyUndoWindowMenu.label "Janelas recentemente fechadas">
 
 <!ENTITY historyHomeCmd.label "Início">
-<!ENTITY showAllHistoryCmd2.label "Mostrar todo o Histórico">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
+<!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Pesquisar marcadores e histórico">
@@ -346,13 +346,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Aumentar o tamanho do texto">
+<!ENTITY fullZoomEnlargeCmd.label       "Aumentar texto">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Diminuir o tamanho do texto">
+<!ENTITY fullZoomReduceCmd.label        "Diminuir texto">
 <!ENTITY fullZoomReduceCmd.accesskey    "D">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -362,7 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Aumentar Apenas Texto">
+<!ENTITY fullZoomToggleCmd.label        "Aumentar Apenas texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "Mudar tamanho">
 <!ENTITY fullZoom.accesskey             "t">
