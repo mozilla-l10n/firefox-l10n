@@ -48,17 +48,17 @@
 <!ENTITY compactFolders.accesskey "t">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixo">
 <!ENTITY emptyTrashCmd.accesskey "x">
-<!ENTITY offlineMenu.label "Modo Desligado">
+<!ENTITY offlineMenu.label "Modo desligado">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Trabalhar em Modo Desligado">
+<!ENTITY offlineGoOfflineCmd.label "Trabalhar em modo desligado">
 <!ENTITY offlineGoOfflineCmd.accesskey "t">
-<!ENTITY synchronizeOfflineCmd.label "Transferir/Sincronizar Agora...">
+<!ENTITY synchronizeOfflineCmd.label "Transferir/Sincronizar agora...">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Configurações de Modo Desligado...">
+<!ENTITY settingsOfflineCmd.label "Configurações do modo desligado...">
 <!ENTITY settingsOfflineCmd.accesskey "c">
-<!ENTITY downloadSelectedCmd.label "Transferir Mensagens Escolhidas">
+<!ENTITY downloadSelectedCmd.label "Transferir mensagens escolhidas">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadStarredCmd.label "Transferir Mensagens Marcadas">
+<!ENTITY downloadStarredCmd.label "Transferir mensagens marcadas">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.accesskey "I">
@@ -85,7 +85,7 @@
 <!ENTITY deleteFolderCmd.accesskey "I">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar inscrição">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
-<!ENTITY selectMenu.label "Seleccione">
+<!ENTITY selectMenu.label "Seleccionar">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Todos">
 <!ENTITY all.accesskey "T">
