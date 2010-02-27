@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Caută automat actualizări pentru:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Suplimente instalate">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate2.label       "Suplimente">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 <!ENTITY whenUpdatesFound.label          "Când sunt găsite actualizări pentru &brandShortName;:">

@@ -1,6 +1,4 @@
 <!ENTITY aboutDialog.title      "Despre &brandFullName;">
-<!ENTITY credits.label          "Merite">
-<!ENTITY credits.accesskey      "M">
 <!ENTITY aboutButton.label      "&lt; Înapoi">
 <!ENTITY aboutButton.accesskey  "n">
 <!ENTITY aboutVersion           "versiunea">
@@ -9,9 +7,13 @@
                                  reserved.">
 <!ENTITY aboutMenu.label        "Despre">
 <!ENTITY aboutMenu.accesskey    "D">
+<!ENTITY aboutCredits.label     "Merite">
+<!ENTITY aboutCredits.accesskey "M">
 <!ENTITY aboutRights.label      "Drepturile dumneavoastră">
 <!ENTITY aboutRights.accesskey  "r">
 <!ENTITY aboutContributors.label "Contribuitori">
 <!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "Licență">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

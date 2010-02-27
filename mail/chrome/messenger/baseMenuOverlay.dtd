@@ -9,6 +9,8 @@
 <!ENTITY releaseCmd.accesskey "r">
 <!ENTITY whatsNewCmd.label "Ce e nou">
 <!ENTITY whatsNewCmd.accesskey "C">
+<!ENTITY featureConfiguratorCmd.label "Asistent de migrare">
+<!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -17,5 +19,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "Caută actualizări…">
-<!ENTITY aboutCmd.label "Despre &brandFullName;">
-<!ENTITY aboutCmd.accesskey "D">
+<!ENTITY aboutMenuCmd.label "Despre &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "D">

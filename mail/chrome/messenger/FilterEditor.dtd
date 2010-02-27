@@ -3,8 +3,8 @@
 <!ENTITY filterName.label "Nume filtru:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Spam">
-<!ENTITY notJunk.label "Nu e spam">
+<!ENTITY junk.label "Nesolicitat">
+<!ENTITY notJunk.label "Nu e nesolicitat">
 
 <!ENTITY lowestPriorityCmd.label "Cea mai mică">
 <!ENTITY lowPriorityCmd.label "Mică">
@@ -31,7 +31,7 @@
 <!ENTITY markMessageStarred.label "Adaugă steluță">
 <!ENTITY setPriority.label "Schimbă prioritatea în">
 <!ENTITY addTag.label "Etichetează mesaj">
-<!ENTITY setJunkScore.label "Setează statutul de spam la">
+<!ENTITY setJunkScore.label "Setează starea de nesolicitare la">
 <!ENTITY deleteMessage.label "Șterge mesajul">
 <!ENTITY deleteFromPOP.label "Șterge de pe serverul POP">
 <!ENTITY fetchFromPOP.label "Adu de pe serverul POP">

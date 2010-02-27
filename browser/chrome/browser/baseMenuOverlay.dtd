@@ -12,9 +12,8 @@
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutCmd.label           "Despre &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "D">
-<!ENTITY helpContents.label       "Manual de utilizare">
-<!ENTITY helpContents.accesskey   "M">
-<!ENTITY helpContentsMac.label    "Manual &brandShortName;">
+<!ENTITY productHelp.label        "Manual &brandShortName;">
+<!ENTITY productHelp.accesskey    "M">
 <!ENTITY helpForIEUsers.label     "Pentru utilizatorii Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY openHelp.commandkey      "VK_F1">
@@ -22,6 +21,10 @@
 
 <!ENTITY helpReleaseNotes.label         "Note asupra ediției">
 <!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "Informații de depanare…">
+<!ENTITY helpTroubleshooting.accesskey  "I">
+
 <!ENTITY updateCmd.label                "Caută actualizări...">
 
 <!ENTITY preferencesCmdMac.label        "Preferințe...">

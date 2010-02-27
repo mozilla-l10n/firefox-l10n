@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "I">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "n">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "D">
 <!ENTITY delete.label "Șterge">
 <!ENTITY delete.accesskey "t">
+<!ENTITY removeAttachment.label "Elimină anexa">
+<!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">

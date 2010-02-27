@@ -2,8 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "Setările contului">
 
-<!ENTITY addAccountButton.label "Adaugă cont…">
-<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY accountActionsButton.label "Acțiuni legate de cont">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Adaugă un cont de corespondență…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Adaugă un alt cont…">
+<!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Marchează ca implicit">
 <!ENTITY setDefaultButton.accesskey "M">
 <!ENTITY removeButton.label "Șterge cont">

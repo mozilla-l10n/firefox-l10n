@@ -12,8 +12,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Ați cerut ca &brandShortName; să se conecteze în mod securizat 
-la <b>#1</b>, dar nu se poate confirma securitatea conexiunii dumneavoastră.">
+<!ENTITY certerror.introPara1 "Ați cerut ca &brandShortName; să se conecteze în mod securizat la <b>#1</b>, dar nu se poate confirma securitatea conexiunii dumneavoastră.">
 <!ENTITY certerror.introPara2 "În mod normal, când încercați să vă conectați în mod securizat, saiturile prezintă identități de încredere pentru a-și demonstra autenticitatea. Cu toate acestea, identitatea acestui sait nu poate fi verificat.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ce ar trebui să fac?">

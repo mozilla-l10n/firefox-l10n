@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Securitate">
-<!ENTITY securityMenu.accesskey "e">
-
 <!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
-
-<!ENTITY menu_securityNoEncryption.label "Nu cripta mesajul">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Semnează electronic mesajul">
 <!ENTITY menu_securitySign.accesskey "S">

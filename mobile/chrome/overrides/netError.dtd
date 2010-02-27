@@ -28,6 +28,14 @@
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "<ul>
+  <li>Încercați din nou. &brandShortName; va încerca să deschidă o conexiune și să reîncarce pagina.</li>
+</ul>
+">
+
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc "<ul> <li>Debifați „Lucrează offline” din meniul Fișier și încercați din nou.</li> </ul>">
 

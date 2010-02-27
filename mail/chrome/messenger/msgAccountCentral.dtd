@@ -13,7 +13,7 @@
 <!ENTITY advFeaturesSectionHdr.label  "Opțiuni avansate"> 
 <!ENTITY searchMsgsLink.label         "Caută mesaje"> 
 <!ENTITY filtersLink.label            "Gestionează filtrele de mesaje">
-<!ENTITY junkSettings.label           "Setări pentru mesaje spam">
+<!ENTITY junkSettings.label           "Setări pentru mesajele nesolicitate">
 <!ENTITY offlineLink.label            "Setări pentru lucru offline">
 
 <!ENTITY feedsSectionHdr.label        "Fluxuri">
