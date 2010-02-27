@@ -102,6 +102,7 @@
 
 <!ENTITY pasteAsQuotationCmd.label "Enganxa com a citació">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Cerca i reemplaça…">
 <!ENTITY findCmd.accesskey "r">
 <!ENTITY findCmd.key "F">
