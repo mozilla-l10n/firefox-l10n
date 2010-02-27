@@ -87,9 +87,9 @@ conexión a esa fuente externa. Ésto puede permitir el rastreo del
 mensaje que se está leyendo. Marcando esta caja permitirá ese contenido externo
 incrustado en mensajes HTML de este contacto.">
 
-<!ENTITY WorkPhone.label "Trabajo:">
+<!ENTITY WorkPhone.label "Teléfono del trabajo:">
 <!ENTITY WorkPhone.accesskey "j">
-<!ENTITY HomePhone.label "Casa:">
+<!ENTITY HomePhone.label "Teléfono particular:">
 <!ENTITY HomePhone.accesskey "C">
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
