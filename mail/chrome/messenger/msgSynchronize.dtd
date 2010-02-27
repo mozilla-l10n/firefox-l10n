@@ -10,8 +10,8 @@
 <!ENTITY sendMessage.label "Enviar mensajes pendientes">
 <!ENTITY sendMessage.accesskey "s">
 <!ENTITY workOffline.label "Trabajar sin conexión al acabar la descarga y/o sincronización">
-<!ENTITY workOffline.accesskey "W">
-<!ENTITY selectButton.label "Seleccionar...">
+<!ENTITY workOffline.accesskey "d">
+<!ENTITY selectButton.label "Seleccionar…">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Seleccionar las carpetas de correo y noticias para usar sin conexión.">
 <!ENTITY MsgSelectInd.label "Descargar">

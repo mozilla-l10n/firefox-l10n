@@ -33,5 +33,5 @@
 <!ENTITY aboveText.label "bajo mi respuesta (sobre el texto citado)">
 <!ENTITY includeSigOnReply.label              "Incluir firma para respuestas">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Incluir forma para reenvíos">
+<!ENTITY includeSigOnForward.label            "Incluir firma para reenvíos">
 <!ENTITY includeSigOnForward.accesskey        "v">
