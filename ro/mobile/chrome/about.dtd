@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Despre &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
+<!ENTITY aboutPage.support.label                "Asistență">
+<!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialite">
+<!ENTITY aboutPage.rights.label                 "Cunoaște-ți drepturile">
+<!ENTITY aboutPage.relNotes.label               "Note asupra ediției">
+<!ENTITY aboutPage.credits.label                "Merite">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Colaboratorii. Toate drepturile sunt rezervate. (">
+<!ENTITY aboutPage.licenseLink                  "Informații de licențiere">
+<!ENTITY aboutPage.copyrightInfo2               ").">

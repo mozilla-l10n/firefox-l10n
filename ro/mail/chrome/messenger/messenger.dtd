@@ -7,12 +7,14 @@
 <!ENTITY newFolderCmd.accesskey "D">
 <!ENTITY closeTabCmd.label "Închide fila">
 <!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeOtherTabsCmd.label "Închide celelalte file">
+<!ENTITY closeOtherTabsCmd.accesskey "l">
 <!ENTITY newVirtualFolderCmd.label "Dosar virtual din rezultatele unei căutări">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newAccountCmd.label "Cont…">
-<!ENTITY newAccountCmd.accesskey "C">
-<!ENTITY newMailAccountCmd.label "Cont de corespondență (setare rapidă)…">
-<!ENTITY newMailAccountCmd.accesskey "C">
+<!ENTITY newOtherAccountsCmd.label "Alte conturi…">
+<!ENTITY newOtherAccountsCmd.accesskey "o">
+<!ENTITY newEmailAccountCmd.label "Cont de email…">
+<!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Anexe">
@@ -130,6 +132,8 @@
 
 <!ENTITY folderView.label "Dosare">
 <!ENTITY folderView.accesskey "D">
+<!ENTITY smartFolders.label "Isteț">
+<!ENTITY smartFolders.accesskey "s">
 <!ENTITY allFolders.label "Toate">
 <!ENTITY allFolders.accesskey "a">
 <!ENTITY unreadFolders.label "Necitite">
@@ -158,8 +162,8 @@
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Etichete">
 <!ENTITY sortByTagsCmd.accesskey "h">
-<!ENTITY sortByJunkStatusCmd.label "Statutul de spam">
-<!ENTITY sortByJunkStatusCmd.accesskey "p">
+<!ENTITY sortByJunkStatusCmd.label "Este nesolicitat">
+<!ENTITY sortByJunkStatusCmd.accesskey "E">
 <!ENTITY sortBySubjectCmd.label "Subiect">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Expeditor">
@@ -402,13 +406,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.label "Cu o steluță">
 <!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Ca spam">
-<!ENTITY markAsJunkCmd.accesskey "s">
+<!ENTITY markAsJunkCmd.label "Ca nesolicitat">
+<!ENTITY markAsJunkCmd.accesskey "C">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ca nefiind spam">
+<!ENTITY markAsNotJunkCmd.label "Ca nefiind nesolicitat">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Rulează controlorii de mesaje spam">
+<!ENTITY recalculateJunkScoreCmd.label "Verifică de mesaje nesolicitate">
 <!ENTITY recalculateJunkScoreCmd.accesskey "c">
 <!ENTITY openMessageWindowCmd.label "Deschide mesajul">
 <!ENTITY openMessageWindowCmd.accesskey "D">
@@ -437,6 +441,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "S">
 <!ENTITY activitymanager.label "Gestionar de activitate">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "Fișiere salvate">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtre de mesaje…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Filtrează dosarul">
@@ -445,10 +452,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Rulează filtrele pe mesaj">
 <!ENTITY filtersApplyToMessage.accesskey "s">
-<!ENTITY runJunkControls.label "Controlează dosarul de mesaje spam">
-<!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Șterge mesajele spam din dosar">
-<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY runJunkControls.label "Verifică dosarul de mesaje nesolicitate">
+<!ENTITY runJunkControls.accesskey "c">
+<!ENTITY deleteJunk.label "Șterge mesajele marcate ca nesolicitate în dosar">
+<!ENTITY deleteJunk.accesskey "d">
 <!ENTITY importCmd.label "Importă…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
@@ -467,6 +474,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Răspunde listei">
 <!ENTITY forwardButton.label "Înaintează">
 <!ENTITY fileButton.label "Îndosariază">
+<!ENTITY archiveButton.label "Arhivează">
 <!ENTITY nextButton.label "Următorul">
 <!ENTITY previousButton.label "Precedentul">
 <!ENTITY backButton1.label "Înapoi">
@@ -477,8 +485,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Tipărește">
 <!ENTITY stopButton.label "Oprește">
 <!ENTITY throbberItem.title "Indicator de activitate">
-<!ENTITY junkButton.label "Spam">
-<!ENTITY notJunkButton.label "Nu e spam">
+<!ENTITY junkButton.label "Nesolicitat">
+<!ENTITY notJunkButton.label "Nu e nesolicitat">
 <!ENTITY addressBookButton.label "Contacte">
 <!ENTITY glodaSearch.title "Căutare globală">
 <!ENTITY searchItem.title "Căutare rapidă">
@@ -499,6 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
 <!ENTITY forwardButton.tooltip "Înaintează mesajul selectat">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
+<!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
 <!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
 <!ENTITY goForwardButton.tooltip "Mergi la mesajul următor">
@@ -508,8 +517,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.tooltip "Marchează mesajele">
 <!ENTITY printButton.tooltip "Tipărește acest mesaj">
 <!ENTITY stopButton.tooltip "Oprește transferul curent">
-<!ENTITY junkButton.tooltip "Marchează mesajul ca spam">
-<!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca spam">
+<!ENTITY junkButton.tooltip "Marchează mesajul ca nesolicitat">
+<!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca nefiind nesolicitate">
 <!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
@@ -539,7 +548,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextCompact.accesskey "m">
 <!ENTITY folderContextEmptyTrash.label "Golește coșul de gunoi">
 <!ENTITY folderContextEmptyTrash.accesskey "G">
-<!ENTITY folderContextEmptyJunk.label "Golește dosarul spam">
+<!ENTITY folderContextEmptyJunk.label "Golește dosarul cu nesolicitate">
 <!ENTITY folderContextEmptyJunk.accesskey "G">
 <!ENTITY folderContextSendUnsentMessages.label "Trimite mesajele netrimise">
 <!ENTITY folderContextSendUnsentMessages.accesskey "T">
@@ -566,28 +575,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Caută mesaje…">
-<!ENTITY glodaSearchBar.facet.label "Caută:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Tot">
-<!ENTITY glodaSearchFacet.subject.label "Subiect">
-<!ENTITY glodaSearchFacet.involves.label "Are legătură cu (de la, la, cc, bcc)">
-<!ENTITY glodaSearchFacet.to.label "Către, CC">
-<!ENTITY glodaSearchFacet.from.label "De la">
-<!ENTITY glodaSearchFacet.body.label "Textul mesajului">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Numele anexelor">
-
-<!ENTITY glodaSearchBar.location.label "Amplasare:">
-<!ENTITY glodaSearchFacet.everywhere.label "Toate dosarele">
-<!ENTITY glodaSearchFacet.folder.label "Într-un dosar anume…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subiect">
@@ -609,7 +596,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.label "Cont">
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Dimensiune">
-<!ENTITY junkStatusColumn.label "Statut de spam">
+<!ENTITY junkStatusColumn.label "Este nesolicitat">
 <!ENTITY unreadColumn.label "Necitit">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">
@@ -618,15 +605,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "Loc">
 <!ENTITY idColumn.label "Ordinea primirii">
 <!ENTITY attachmentColumn.label "Anexe">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "De ce">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Scor">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
@@ -640,7 +618,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.tooltip "Clic pentru a sorta după cont">
 <!ENTITY statusColumn.tooltip "Clic pentru a sorta după stare">
 <!ENTITY sizeColumn.tooltip "Clic pentru a sorta după mărime">
-<!ENTITY junkStatusColumn.tooltip "Clic pentru a sorta după statutul de spam">
+<!ENTITY junkStatusColumn.tooltip "Clic pentru a sorta după dacă e nesolicitat sau nu">
 <!ENTITY unreadColumn.tooltip "Numărul de mesaje necitite din conversație">
 <!ENTITY totalColumn.tooltip "Numărul total de mesaje din conversație">
 <!ENTITY readColumn.tooltip "Clic pentru a sorta după citire">
@@ -649,8 +627,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
 <!ENTITY attachmentColumn.tooltip "Clic pentru a sorta după anexe">
-<!ENTITY glodaWhyColumn.tooltip "Clic pentru a sorta după motivul pentru care mesajele sunt în rezultatele căutării">
-<!ENTITY glodaScoreColumn.tooltip "Clic pentru sortare după scorul potrivirii">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">
@@ -659,6 +635,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Editează ca mesaj nou…">
 <!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextArchive.label "Arhivează">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Răspunde grupului de news">
@@ -684,9 +662,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Previzualizare tipărire">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Redare">
+<!ENTITY contextPlay.accesskey "R">
+<!ENTITY contextPause.label "Pauză">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mut">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Activează sonorul">
+<!ENTITY contextUnmute.accesskey "A">
+
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Spam">
-<!ENTITY junkBarButton1.label "Nu e spam">
+<!ENTITY junkBarMessage1.label "Mesaje nesolicitate">
+<!ENTITY junkBarButton1.label "Nu e nesolicitat">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
@@ -703,6 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "K">
+<!ENTITY searchAllMessages.label "Caută în toate mesajele">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adaugă la contacte…">
@@ -713,10 +702,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Vizualizare contact">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Compune mesaj către">
-<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY SubscribeToNewsgroup.label "Abonare la grupul de discuții">
+<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SendMessageTo.label "Compune un mesaj către">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiază adresa de email">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "Copiază numele grupului de discuții">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copiază adresa grupului de discuții">
+<!ENTITY CopyNewsgroupURL.accesskey "u">
 <!ENTITY CreateFilterFrom.label "Creează filtru din…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raportează înșelătorie prin email">
@@ -727,16 +722,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Salvează imaginea ca…">
 <!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY cutCmd.label "Taie">
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiază">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Lipește">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Copiază adresa imaginii">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Copiază imaginea">
+<!ENTITY copyImageAllCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "Copiază adresa de email">
 <!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY stopCmd.label "Oprește">
+<!ENTITY stopCmd.accesskey "O">
+<!ENTITY reloadCmd.label "Reîncarcă">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "Deschide în navigator">
+<!ENTITY openInBrowser.accesskey "o">
+<!ENTITY openLinkInBrowser.label "Deschide legătura în navigator">
+<!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Gata">
@@ -758,4 +765,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.label      "Ascunde-le pe celelalte">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Arată toate">
+<!ENTITY showAllAppsCmdMac.label        "Arată-le pe toate">

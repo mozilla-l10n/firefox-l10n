@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "Bun venit la &brandShortName;">
+<!ENTITY intro.description                  "Sincronizează calculatorul și mobilul cu Weave Sync. Personalizează cu suplimente. Navighează cu bara inteligentă și multe, multe altele.">
+<!ENTITY weave.title                        "Treci la treabă">
+<!ENTITY weave.description                  "Luați-vă Weave Sync pentru a vă conecta la Firefox. Împărtășiți istoricul navigării, semnele de carte, parolele salvate și filele între calculator și mobil.">
+<!ENTITY weave.linkLabel                    "Ia suplimentul Weave Sync">
+<!ENTITY getPersonal.title                  "Personalizează">
+<!ENTITY getPersonal.description            "Fă un &brandShortName; al tău. Personalizează primul navigator care aduce suplimente pentru mobil.">
+<!ENTITY getPersonal.linkLabel              "Ia suplimente pentru mobilul tău">

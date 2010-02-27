@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "Merite pentru &brandFullName;">
 <!ENTITY brandMotto       "Păsările tunetului merg mai departe!">
-<!ENTITY credit.leads     "Conducerea inginerească">
 <!ENTITY credit.thanks    "Mulțumiri speciale">
 
 <!-- localization credits look like this: -->
@@ -10,8 +9,5 @@
 -->
 <!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li></ul>">
 
-<!ENTITY credit.theme          "Design temă">
-<!ENTITY credit.qa             "Asigurarea calității">
-<!ENTITY credit.build          "Construcție și lansare">
 <!ENTITY credit.memory         "In memoriam">
 <!ENTITY credit.poweredByGecko "Bazat pe Gecko&trade;">

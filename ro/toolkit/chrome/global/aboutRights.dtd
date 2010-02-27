@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "despre:drepturi">
+<!ENTITY rights.intro-header    "Despre drepturile dumneavoastră">
+<!ENTITY rights.intro "&brandFullName; este un program liber și cu sursa deschisă, construit de o comunitate formată din mii de persoane din întreaga lume. Iată câteva lucruri pe care ar trebui să le știți:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; vă este oferit în conformitate cu termenii ">
+<!ENTITY rights.intro-point1b "Licenței Publice Mozilla">
+<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că puteți folosi, copia și distribui &brandShortName; oricui doriți. Sunteți de asemenea invitați să modificați codul sursă al &brandShortName; după cum doriți. Licența publică Mozilla (Mozilla Public License) vă dă de asemenea dreptul de a distribui versiunile pe care le modificați.">
+
+<!ENTITY rights.intro-point2a "Mozilla nu vă dă niciun drept să folosiți mărcile și siglele Mozilla și Firefox. Mai multe informații despre mărcile înregistrate puteți găsi ">
+<!ENTITY rights.intro-point2b "aici">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Politica privind intimitatea dumneavoastră când folosiți produsele &vendorShortName; poate fi găsită ">
+<!ENTITY rights.intro-point3b "aici">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Orice politică aplicabilă privind intimitatea în timp ce folosiți acest produs ar trebui listată aici.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; vă oferă de asemenea servicii opționale de informare, cum ar fi serviciul SafeBrowsing; chiar și așa nu putem garanta că aceste servicii sunt 100&#37; perfecte. Mai multe detalii, inclusiv informații despre cum să dezactivați aceste servicii pot fi găsite în ">
+<!ENTITY rights.intro-point4b "termenii de furnizare a serviciului">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Dacă produsul acesta include servicii web, orice termeni aplicabili serviciilor ar trebui să fie accesibili în secțiunea ">
+<!ENTITY rights.intro-point4b-unbranded "„Servicii de informare asupra saiturilor”">
+<!ENTITY rights.intro-point4c-unbranded ".">
+
+<!ENTITY rights.webservices-header "Servicii &brandFullName; de informare asupra saiturilor">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; folosește servicii de informare asupra saiturilor cum ar fi SafeBrowsing, servicii ce sunt disponibile pentru a putea fi utilizate împreună cu versiunea compilată de &brandFullName; după cum se specifică mai jos. Dacă nu doriți să folosiți serviciile sau termenii de mai jos sunt inacceptabili, puteți să dezactivați serviciul SafeBrowsing accesând preferințele aplicației și selectând fila ">
+<!ENTITY rights.webservices-b "Securitate">
+<!ENTITY rights.webservices-c " și debifând opțiunile pentru „&blockAttackSites.label;” și „&blockWebForgeries.label;”">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Aici ar trebui inclusă o privire de ansamblu asupra serviciilor de informare asupra saiturilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Aici ar trebui listați orice termeni aplicabili serviciului pentru acest product.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; și colaboratorii săi, licențiatorii și partenerii lucrează pentru a vă oferi informații de actualitate și de o acuratețe sporită despre fraude și programe răufăcătoare. Cu toate acestea, nu pot garanta că aceste informații sunt complete și lipsite de erori: unele saituri riscante ar putea să nu fie identificate precum și unele saituri pot fi marcate greșit ca fiind riscante.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; poate întrerupe sau schimba serviciul în orice moment.">
+<!ENTITY rights.webservices-term3 "Sunteți binevenit și aveți toate drepturile să folosiți aceste servicii împreună cu această versiune de &brandShortName;. &vendorShortName; și licențiatorii săi își rezervă toate celelalte drepturi asupra serviciilor. Acești termeni nu sunt meniți să limiteze drepturile acordate de distribuția sub licențele open source aplicabile pentru &brandShortName; și codului sursă al versiunilor respective de &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Serviciile vă sunt furnizate „ca atare”. &vendorShortName;, colaboratorii săi, licențiatorii și distribuitorii nu oferă nicio garanție pentru aceste servicii. Vă asumați în totalitate riscurile selectând servicii pentru folosul dumneavoastră, precum și pentru problemele de calitate sau performanță pe care acestea le pot provoca. Unele jurisdicții nu permit excluderea sau limitarea unor garanții de la sine înțelese; în aceste cazuri respectivul text nu se aplică.">
+<!ENTITY rights.webservices-term5 "Cu excepția cazului în care este specificat de lege, &vendorShortName;, colaboratorii săi, licențiatorii și distribuitorii nu pot fi declarați răspunzători pentru orice pagube, directe sau indirecte ce rezultă din orice mod în care folosiți &brandShortName; și serviciile furnizate. Răspunderea colectivă sub acești termeni nu va depăși 500$ (cinci sute de dolari). Unele jurisdicții nu permit excluderea sau limitarea unor pagube; în acest caz, prevederea respectivă nu se aplică.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; ar putea actualiza acești termeni din când în când după cum este necesar. Acești termeni nu pot fi modificați sau anulați fără acordul scris dat de &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Termenii aceștia sunt sub incidența legilor statului California din SUA, cu excepția conflictelor cu prevederile legii. Dacă orice porțiune a acestor termeni este declarată invalidă sau neimpozabilă, celelalte porțiuni rămân în vigoare. În cazul unui conflict între o versiune tradusă a acestor termeni și versiunea în limba engleză, se aplică prevederile versiunii în engleză.">

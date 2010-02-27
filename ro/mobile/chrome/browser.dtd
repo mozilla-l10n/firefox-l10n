@@ -2,7 +2,6 @@
 <!ENTITY forward.label         "Înainte">
 <!ENTITY reload.label          "Reîncarcă">
 <!ENTITY stop.label            "Oprește">
-<!ENTITY search.label          "Caută">
 <!ENTITY go.label              "Du-te">
 <!ENTITY openLocation.label    "Deschide adresa">
 <!ENTITY star.label            "Steluță">
@@ -21,10 +20,8 @@
 
 <!ENTITY bookmarksHeader.label     "Semne de carte">
 <!ENTITY bookmarksManage.label     "Gestionează">
-<!ENTITY foldersHeader.label       "Dosare">
 
-<!ENTITY editBookmarkEdit.label    "Editează">
-<!ENTITY editBookmarkMove.label    "Mută">
+<!ENTITY editBookmarkRemove.label  "Elimină">
 <!ENTITY editBookmarkDone.label    "Gata">
 <!ENTITY editBookmarkTags.label    "Etichete:">
 
@@ -33,16 +30,13 @@
 <!ENTITY helperApp.save            "Salvează">
 <!ENTITY helperApp.nothing         "Nimic">
 
-<!ENTITY findOnCmd.label     "Caută în această pagină...">
-<!ENTITY findOnCmd.accesskey "C">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Caută din nou">
-<!ENTITY findAgainCmd.accesskey "C">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY formHelper.previous       "Înapoi">
+<!ENTITY formHelper.next           "Înainte">
+<!ENTITY formHelper.done           "Gata">
 
 <!ENTITY addonsHeader.label        "Suplimente">
 <!ENTITY addonsLocal.label         "Suplimentele tale">
+<!ENTITY addonsUpdate.label        "Actualizare">
 <!ENTITY addonsRepo.label          "Obțineți suplimente">
 <!ENTITY addonsRecommended.label   "Recomandate">
 <!ENTITY addonsSearch.label        "Caută">
@@ -58,11 +52,6 @@
 <!ENTITY addonShowPage.label       "Mergi la pagina">
 
 <!ENTITY downloadsHeader.label     "Descărcări">
-<!ENTITY downloadsSortDate.label   "Dată">
-<!ENTITY downloadsSortSite.label   "Sait">
-<!ENTITY downloadsSortName.label   "Nume">
-<!ENTITY downloadsSearch.label     "Caută">
-<!ENTITY downloadsSearch2.emptytext "Caută">
 
 <!ENTITY downloadShowPage.label    "Mergi la pagina">
 <!ENTITY downloadShow2.label       "Găsește">
@@ -71,11 +60,13 @@
 <!ENTITY downloadPause.label       "Pauză">
 <!ENTITY downloadResume.label      "Continuă">
 <!ENTITY downloadRetry.label       "Încearcă din nou">
+<!ENTITY downloadRemove.label      "Elimină">
+<!ENTITY downloadFailed.label      "Eșuat">
 
 <!ENTITY noResults.label           "Niciun rezultat">
 <!ENTITY allBookmarks.label        "Vezi toate semnele de carte">
 
-<!ENTITY searchEngine.addSearch     "Adaugă căutare:">
+<!ENTITY searchEngine.addSearch    "Adaugă căutare:">
 
 <!ENTITY bookmarkPopup.label       "S-a pus semn la pagină">
 <!ENTITY bookmarkRemove.label      "Elimină">
@@ -101,5 +92,3 @@
 <!ENTITY consoleErrFile.label      "Fișier sursă:">
 <!ENTITY consoleErrLine.label      "Rândul:">
 <!ENTITY consoleErrColumn.label    "Coloana:">
-
-<!ENTITY selectListDone.label      "Gata">

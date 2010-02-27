@@ -50,6 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Pe tot ecranul">
 <!ENTITY fullScreenCmd.accesskey "n">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
@@ -104,7 +105,7 @@
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
 <!ENTITY bookmarksButton.tooltip        "Afișează semnele dumneavoastră de carte">
-<!ENTITY bookmarksButton.accesskey  "B">
+<!ENTITY bookmarksButton.accesskey  "S">
 <!ENTITY bookmarksCmd.commandkey "r">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -262,6 +263,8 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Vezi imaginea">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageInfoCmd.label       "Vezi informații despre imagine">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Vezi clipul">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Vezi imaginea de fundal">
@@ -314,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "Copiază adresa fișierului audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY blockImageCmd.accesskey      "g">
-<!ENTITY metadataCmd.label            "Proprietăți">
-<!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Acest cadru">

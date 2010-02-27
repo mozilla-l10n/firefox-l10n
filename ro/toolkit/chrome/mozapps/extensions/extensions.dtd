@@ -22,6 +22,7 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "C">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Caută actualizări pentru suplimentele dumneavoastră.">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Caută actualizări pentru temele dumneavoastră.">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Găsește actualizări pentru plugin-urile instalate">
 <!ENTITY cmd.installLocalFile.label       "Instalează...">
 <!ENTITY cmd.installLocalFile.accesskey   "I">
 <!ENTITY cmd.installFileAddon.tooltip     "Instalează un supliment">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Necesită elemente suplimentare.">
 <!ENTITY blocklisted.label                "Dezactivat pentru protecția dumneavoastră.">
 <!ENTITY softBlocklisted.label            "Se știe că provoacă probleme de stabilitate și securitate.">
+<!ENTITY outdated.label                   "Este disponibilă o versiune mai nouă și mai sigură.">
 <!ENTITY toBeDisabled.label               "Suplimentul va fi dezactivat după repornirea &brandShortName;.">
 <!ENTITY toBeEnabled.label                "Suplimentul va fi activat după repornirea &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Suplimentul va fi instalat după repornirea &brandShortName;.">

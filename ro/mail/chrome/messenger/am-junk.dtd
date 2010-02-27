@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Setări pentru spam">
-<!ENTITY trainingWarning.label "Dacă e activat, trebuie să antrenați &brandShortName; pentru a identifica mesajele spam folosind butonul din bara de spam pentru a le marca că sunt  sau nu spam. Va trebuie să identificați atât mesajele spam cât și cele care nu sunt spam.">
-<!ENTITY level.label "Activați controalele adaptive pentru spam pentru acest cont">
+<!ENTITY junkSettings.label "Setări pentru mesaje nesolicitate">
+<!ENTITY trainingWarning.label "Dacă e activat, trebuie să antrenați &brandShortName; pentru a identifica mesajele nesolicitate folosind butonul din bara de mesaje nesolicitate pentru a le marca că sunt sau nu nesolicitate. Va trebuie să identificați atât mesajele nesolicitate cât și cele care nu sunt nesolicitate.">
+<!ENTITY level.label "Activați controalele adaptive de mesaje nesolicitate pentru acest cont">
 <!ENTITY level.accesskey "e">
 
-<!ENTITY move.label "Mută mesajele spam noi în:">
+<!ENTITY move.label "Mută mesajele nesolicitate noi în:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Dosarul „Spam” din:">
-<!ENTITY junkFolderOn.accesskey "D">
+<!ENTITY junkFolderOn.label "Dosarul cu mesaje nesolicitate din:">
+<!ENTITY junkFolderOn.accesskey "j">
 <!ENTITY otherFolder.label "Altul:">
 <!ENTITY otherFolder.accesskey "A">
-<!ENTITY purge1.label "Șterge automat mesajele spam mai vechi de">
+<!ENTITY purge1.label "Șterge automat mesajele nesolicitate mai vechi de">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "zile">
 
-<!ENTITY whitelist.label "Nu marcați ca spam dacă expeditorul este în: ">
+<!ENTITY whitelist.label "Nu marca ca nesolicitate dacă expeditorul este în: ">
 <!ENTITY whitelist.accesskey "d">
 
-<!ENTITY ispHeaders.label "Aveți încredere în marcările ca spam făcute de:">
+<!ENTITY ispHeaders.label "Aveți încredere în marcările de nesolicitare făcute de: ">
 <!ENTITY ispHeaders.accesskey "t">

@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Integrare cu sistemul">
+<!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
+
+<!ENTITY email.label "Email">
+<!ENTITY newsgroups.label "Grupuri de discuții">
+<!ENTITY feeds.label "Fluxuri">
+
+<!ENTITY checkOnStartup.label "Verifică întotdeauna la pornirea &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">
+
+<!ENTITY searchIntegration.label "Permite &searchIntegration.engineName; căutarea în mesaje">
+<!ENTITY searchIntegration.accesskey "P">
