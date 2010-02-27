@@ -7,9 +7,6 @@
 <!ENTITY editorCmd.accesskey "C">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY javaConsoleCmd.label	"Konzola Javy">
-<!ENTITY javaConsoleCmd.accesskey "J">
-
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "J">
