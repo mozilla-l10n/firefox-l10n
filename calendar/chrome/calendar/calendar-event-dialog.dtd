@@ -64,6 +64,19 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label "&#37; realitzat">
 
+<!ENTITY event.dialog.new.event.key               "E">
+<!ENTITY event.dialog.new.message.key             "M">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.delete.key                  "D">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "Fitxer">
 <!ENTITY  event.menu.file.accesskey                       "F">
@@ -151,14 +164,6 @@
 <!ENTITY  event.menu.options.show.time.free.label         "Lliure">
 <!ENTITY  event.menu.options.show.time.free.accesskey     "L">
 
-<!ENTITY event.help.label                                 "Ajuda">
-<!ENTITY event.help.accesskey                             "A">
-<!ENTITY event.help.release.notes.label                   "Notes de la versió">
-<!ENTITY event.help.release.notes.accesskey               "r">
-<!ENTITY event.help.help.label                            "Ajuda del &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "A">
-<!ENTITY event.help.about.label                           "Quant al &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "Q">
 
 <!ENTITY event.invite.attendees.label                     "Invita als assistents…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
@@ -218,6 +223,7 @@
 <!ENTITY event.priority2.label    "Prioritat:">
 
 <!ENTITY event.reminder.none.label                        "Cap recordatori " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minuts abans" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minuts abans" >
 <!ENTITY event.reminder.10minutes.before.label            "10 minuts abans" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minuts abans" >
