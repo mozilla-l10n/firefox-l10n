@@ -24,9 +24,9 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Llista de supressions">
-<!ENTITY cmd.clearList.tooltip            "Elements de la llista que s'han suprimit, cancel·lat o fallat">
-<!ENTITY cmd.clearList.accesskey          "S">
+<!ENTITY cmd.clearList.label              "Buida la llista">
+<!ENTITY cmd.clearList.tooltip            "Suprimeix de la llista els elements que han acabat, s'han cancel·lat o han fallat">
+<!ENTITY cmd.clearList.accesskey          "B">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 

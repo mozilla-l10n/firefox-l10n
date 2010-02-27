@@ -78,7 +78,7 @@
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Espai de disc">
-<!ENTITY offlineCompact.label "Compacta les carpetes quan s'hi desi">
+<!ENTITY offlineCompact.label "Compacta les carpetes quan l'estalvi sigui superior a">
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY kb.label "kB">
 
