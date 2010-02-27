@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Căutare Windows">
-<!ENTITY searchIntegration.title "Integrare cu &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "Doriți să permiteți motorului de căutare &searchIntegration.engineName; să indexeze și să caute în mesajele și discuțiile din &brandShortName;?">
-
-<!ENTITY searchIntegration.accept "Activează &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Nu activa &searchIntegration.engineName;">
