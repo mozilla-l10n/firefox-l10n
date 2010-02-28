@@ -18,16 +18,16 @@
 <!ENTITY install.label "Instalação">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label "Procurar Actualizações">
+<!ENTITY cmd.checkUpdatesAll.label "Procurar actualizações">
 <!ENTITY cmd.checkUpdatesAll.accesskey "P">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Procurar actualizações para os seus extras">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Procurar actualizações para os seus temas">
 <!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Procurar actualizações para os seus plugins">
 <!ENTITY cmd.installLocalFile.label "Instalar...">
 <!ENTITY cmd.installLocalFile.accesskey "i">
-<!ENTITY cmd.installFileAddon.tooltip "Instalar um Extra">
-<!ENTITY cmd.installFileTheme.tooltip "Instalar um Tema">
-<!ENTITY cmd.installUpdatesAll2.label "Instalar Actualizações">
+<!ENTITY cmd.installFileAddon.tooltip "Instalar um extra">
+<!ENTITY cmd.installFileTheme.tooltip "Instalar um tema">
+<!ENTITY cmd.installUpdatesAll2.label "Instalar actualizações">
 <!ENTITY cmd.installUpdatesAll2.accesskey "A">
 <!ENTITY cmd.installUpdatesAll2.tooltip "Instalar as actualizações escolhidas">
 <!ENTITY cmd.restartApp2.label "Reiniciar o &brandShortName;">
@@ -96,18 +96,18 @@
 <!ENTITY cancelUpgrade.accesskey "C">
 
 <!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label "Visitar a Página">
+<!ENTITY cmd.homepage.label "Visitar a página">
 <!ENTITY cmd.homepage.accesskey "N">
-<!ENTITY cmd.about2.label "Sobre este Extra">
+<!ENTITY cmd.about2.label "Sobre este extra">
 <!ENTITY cmd.about.accesskey "S">
 <!ENTITY cmd.checkUpdate.label "Procurar actualizações">
 <!ENTITY cmd.checkUpdate.accesskey "P">
 
-<!ENTITY cmd.includeUpdate.label "Incluir Actualização">
+<!ENTITY cmd.includeUpdate.label "Incluir actualização">
 <!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Incluir esta Actualização">
+<!ENTITY includeUpdate.label "Incluir esta actualização">
 <!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Incluir este Extra quando se instalar actualizações">
+<!ENTITY includeUpdate.tooltip "Incluir este extra quando se instalarem actualizações">
 
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label "Não permite actualizações seguras.">
@@ -125,8 +125,8 @@
 <!ENTITY getThemes.label "Obter mais temas">
 <!ENTITY getPlugins.label "Obter mais plugins">
 
-<!ENTITY searchAddons.label "Procurar Todos os Extras">
-<!ENTITY browseAddons.label "Navegar por Todos os Extras">
+<!ENTITY searchAddons.label "Procurar todos os extras">
+<!ENTITY browseAddons.label "Navegar por todos os extras">
 <!ENTITY searchFailed.label "O &brandShortName; não conseguiu obter extras">
 <!ENTITY recommendedHeader.label "Recomendado">
 <!ENTITY recommendedThrobber.label "A obter os extras recomendados">
@@ -141,10 +141,10 @@
 <!ENTITY searchResultHomepage.value "Saber Mais">
 <!ENTITY searchBox.label "Procurar Todos os Extras">
 <!ENTITY recommendedResults.label "Ver todos os Extras Recomendados">
-<!ENTITY searchResultConnecting.label "A Ligar…">
-<!ENTITY searchResultInstalling.label "A Instalar…">
-<!ENTITY searchResultFailed.label "A Instalação Falhou">
-<!ENTITY searchResultInstalled.label "Instalação completa">
+<!ENTITY searchResultConnecting.label "A ligar…">
+<!ENTITY searchResultInstalling.label "A instalar…">
+<!ENTITY searchResultFailed.label "A instalação falhou">
+<!ENTITY searchResultInstalled.label "Instalação terminada">
 <!ENTITY addonTypeExtension.label "Extensão">
 <!ENTITY addonTypeTheme.label "Tema">
 <!ENTITY missingThumbnail.label "Sem pré-visualização">
@@ -165,12 +165,12 @@
 <!ENTITY installFinishing.label "A instalar...">
 <!ENTITY installFailure.label "A instalação falhou.">
 
-<!ENTITY progressStatus.label "À Procura de Actualizações">
+<!ENTITY progressStatus.label "A procurar actualizações">
 
 <!ENTITY eula.title "Acordo de Licença de Utilizador Final">
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
-<!ENTITY eula.accept "Aceitar e Instalar…">
+<!ENTITY eula.accept "Aceitar e instalar…">
 
 <!ENTITY blocklist.blocked.label          "Bloqueado">
-<!ENTITY blocklist.checkbox.label         "Disactivado">
+<!ENTITY blocklist.checkbox.label         "Desactivado">
