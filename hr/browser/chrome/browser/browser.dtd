@@ -234,9 +234,9 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "Otvori link u novom prozoru">
+<!ENTITY openLinkCmd.label            "Otvori poveznicu u novom prozoru">
 <!ENTITY openLinkCmd.accesskey        "l">
-<!ENTITY openLinkCmdInTab.label       "Otvori link u novoj kartici">
+<!ENTITY openLinkCmdInTab.label       "Otvori poveznicu u novoj kartici">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
 <!ENTITY openFrameCmd.accesskey       "p">
@@ -274,11 +274,11 @@
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Zabilježi ovu stranicu">
 <!ENTITY bookmarkPageCmd2.accesskey   "s">
-<!ENTITY bookmarkThisLinkCmd.label      "Zabilježi ovaj link">
+<!ENTITY bookmarkThisLinkCmd.label      "Zabilježi ovu poveznicu">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
-<!ENTITY sendPageCmd.label            "Pošalji link...">
+<!ENTITY sendPageCmd.label            "Pošalji poveznicu...">
 <!ENTITY sendPageCmd.accesskey        "l">
 <!ENTITY savePageCmd.label            "Spremi stranicu kao...">
 <!ENTITY savePageCmd.accesskey        "A">
@@ -289,9 +289,9 @@
 <!ENTITY saveFrameCmd.accesskey       "o">
 <!ENTITY printFrameCmd.label          "Ispiši okvir…">
 <!ENTITY printFrameCmd.accesskey      "o">
-<!ENTITY saveLinkCmd.label            "Spremi link kao...">
+<!ENTITY saveLinkCmd.label            "Spremi poveznicu kao...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "Pošalji link..."> 
+<!ENTITY sendLinkCmd.label            "Pošalji poveznicu..."> 
 <!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Spremi sliku kao...">
 <!ENTITY saveImageCmd.accesskey       "p">
@@ -307,7 +307,7 @@
 <!ENTITY sendAudioCmd.accesskey       "z">
 <!ENTITY copyLinkCmd.label            "Kopiraj lokaciju poveznice">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "Kopiraj tekst linka">
+<!ENTITY copyLinkTextCmd.label        "Kopiraj tekst poveznice">
 <!ENTITY copyLinkTextCmd.accesskey    "k">
 <!ENTITY copyImageCmd.label           "Kopiraj lokaciju slike">
 <!ENTITY copyImageCmd.accesskey       "o">
