@@ -57,7 +57,7 @@
 <!ENTITY certmgr.issuerinfo.label "Кем выдано">
 <!ENTITY certmgr.validity.label "Действителен">
 <!ENTITY certmgr.fingerprints.label "Отпечатки">
-<!ENTITY certmgr.certdetail.title "Подробности сертификата">
+<!ENTITY certmgr.certdetail.title "Информация о сертификате">
 <!ENTITY certmgr.certdetail.cn "Общее имя (CN)">
 <!ENTITY certmgr.certdetail.o "Организация (O)">
 <!ENTITY certmgr.certdetail.ou "Подразделение (OU)">
