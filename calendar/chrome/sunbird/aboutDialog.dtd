@@ -55,7 +55,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>翻譯與在地化</h3><ul><li>Daniel Boelzle (Sun Microsystems)</li><li>Rafaella Braconi (Sun Microsystems)</li><li>Alan Cheng (Mozilla Taiwan Community)</li><li>Wei-Lun Sun 孫偉倫 (Mozilla Taiwan Community)</li><li>Peter Pin-Guang Chen 陳品光 (Mozilla Taiwan Community)</li></ul>">
+<!ENTITY credit.translation "<h3>翻譯與在地化：<br />Mozilla Taiwan Community (MozTW)</h3><ul><li>Bob Po-chiang Chao 趙柏強</li><li>Alan &quot;coolcd&quot; Cheng</li><li>Wei-Lun Sun 孫偉倫</li><li>Wu, Ru-kang 吳汝剛</li><li>Peter Pin-Guang Chen 陳品光</li></ul><h3>翻譯與在地化：<br />Sun Microsystems</h3><ul><li>Daniel Boelzle</li><li>Rafaella Braconi</li>">
 
 <!ENTITY credit.powered     "是由">
 <!ENTITY license.and        "與">
