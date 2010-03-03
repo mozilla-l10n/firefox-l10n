@@ -1,29 +1,29 @@
-<!ENTITY window.title "Filtri sporočil">
-<!ENTITY nameColumn.label "Ime filtra">
-<!ENTITY activeColumn.label "Omogočeni">
-<!ENTITY newButton.label "Novo ...">
+<!ENTITY window.title "Message Filters">
+<!ENTITY nameColumn.label "Filter Name">
+<!ENTITY activeColumn.label "Omogočeno">
+<!ENTITY newButton.label "New…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Uredi ...">
+<!ENTITY editButton.label "Urejaj ...">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Izbriši">
-<!ENTITY deleteButton.accesskey "b">
-<!ENTITY reorderUpButton.label "Premakni navzgor">
-<!ENTITY reorderUpButton.accesskey "g">
-<!ENTITY reorderDownButton.label "Premakni navzdol">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "Premakni gor">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Premakni dol">
 <!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY filterHeader.label "Omogočeni filtri se samodejno zaženejo v spodaj navedenem vrstnem redu.">
-<!ENTITY filtersForPrefix.label "Filtri za:">
+<!ENTITY filterHeader.label "Enabled filters are run automatically in the order shown below.">
+<!ENTITY filtersForPrefix.label "Filters for:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Zapisnik filtrov">
-<!ENTITY viewLogButton.accesskey "l">
-<!ENTITY runFilters.label "Poženi zdaj">
-<!ENTITY runFilters.accesskey "z">
-<!ENTITY stopFilters.label "Ustavi">
+<!ENTITY viewLogButton.accesskey "L ">
+<!ENTITY runFilters.label "Run Now">
+<!ENTITY runFilters.accesskey "D">
+<!ENTITY stopFilters.label "Stop ">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Poženi izbrane filtre na:">
-<!ENTITY folderPickerPrefix.accesskey "b">
-<!ENTITY choosethis.label "izberi ta imenik">
-<!ENTITY choosethisnewsserver.label "izberi ta novičarski strežnik">
+<!ENTITY folderPickerPrefix.label "Run selected filter(s) on:">
+<!ENTITY folderPickerPrefix.accesskey "u">
+<!ENTITY choosethis.label "izberi to mapo">
+<!ENTITY choosethisnewsserver.label "choose this news server">
 <!ENTITY helpButton.label "Pomoč">
-<!ENTITY helpButton.accesskey "P">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "t"> 

@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,36 +40,48 @@
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
 
-
 <!ENTITY importDialog.windowTitle "Uvozi">
-<!ENTITY importDialog.mailTitle   "Pošta">
-<!ENTITY importDialog.addressbookTitle "Adresarji">
-<!ENTITY importDialog.settingsTitle "Nastavitve">
+<!ENTITY importAll.label          "Uvozi vse">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "Pošta">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "Adresarji">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Nastavitve">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "Filtri">
+<!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY importTitle.label        "Čarovnik za uvoz pošte &brandShortName;">
-<!ENTITY importDesc.label         "Uvozi pošto, adresarje in nastavitve iz drugih programov">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importDescription.label  "Ta čarovnik bo uvozil poštna sporočila, vnose iz adresarja in/ali lastne nastavitve iz ostalih poštnih programov in pogostih oblik zapisa adresarja v &brandShortName; pošto.">
-<!ENTITY importDescription2.label "Ko bodo uvoženi, boste lahko dostopali do njih preko &brandShortName; pošte in/ali adresarja.">
+<!ENTITY importTitle.label        "Čarovnik za uvoz &brandShortName;">
+<!ENTITY importShortDesc.label    "Uvoz pošte, adresarjev, nastavitev in filtrov iz drugih programov">
 
-<!ENTITY selectDescription.label  "Izberite program, iz katerega želite uvoziti:">
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
 
-<!ENTITY back.label               "&lt; Nazaj">
-<!ENTITY forward.label            "Naprej &gt;">
-<!ENTITY finish.label             "Dokončaj">
+<!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
+<!ENTITY selectDescription.accesskey "p">
+
+<!ENTITY back.label               "&lt; nazaj">
+<!ENTITY forward.label            "Next &gt;">
+<!ENTITY finish.label             "Finish">
 <!ENTITY cancel.label             "Prekliči">
 
-<!ENTITY select.label             "Izberite vrsto materiala za uvoz:">
+<!ENTITY select.label             "or select the type of material to import:">
 
 <!ENTITY title.label              "Naslov">
-<!ENTITY processing.label         "Uvažanje ...">
+<!ENTITY processing.label         "Uvoz ...">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ima po en poštni naslov za vsako vizitko, &brandShortName; pa ima dva (Doma in Služba).">
-<!ENTITY FieldDiscInputText2.label  "Izberite kategorijo, v kateri želite shraniti uvožene e-poštne naslove:">
-<!ENTITY FieldDiscWarning.label  "Ta kategorija bo veljala za vse vnose v izbranem adresarju:">
-<!ENTITY importDialog.homeTitle  "Doma">
-<!ENTITY importDialog.workTitle  "Služba">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
+<!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
+<!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
+<!ENTITY importHome.label        "Domov">
+<!ENTITY importHome.accesskey    "H">
+<!ENTITY importWork.label        "Delo">
+<!ENTITY importWork.accesskey    "t">

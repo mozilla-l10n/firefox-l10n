@@ -35,5 +35,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Nastavitve povezave">
-<!ENTITY LinkURLBox.label "Naslov povezave">
+<!ENTITY windowTitle.label "Lastnosti povezave">
+<!ENTITY LinkURLBox.label "Mesto povezave">

@@ -1,13 +1,11 @@
-<!ENTITY notificationsDialog.title        "Zvok za novo pošto">
-<!ENTITY window.width                     "32em">
+<!ENTITY notificationsDialog2.title       "Prilagodi opozorilo o novi pošti">
+<!ENTITY window.width                     "30em">
 
-<!ENTITY soundNotification.caption        "Nastavitve zvoka za novo pošto">
-<!ENTITY preview.label                    "Zaigraj zvok">
-<!ENTITY preview.accesskey                "g">
-<!ENTITY systemsound.label                "Sistemski zvok za novo pošto">
-<!ENTITY systemsoundMac.label             "Sistemski zvok za opozorilo">
-<!ENTITY systemsound.accesskey            "m">
-<!ENTITY customsound.label                "Datoteka .wav po meri">
-<!ENTITY customsound.accesskey            "m">
-<!ENTITY browse.label                     "Prebrskaj ...">
-<!ENTITY browse.accesskey                 "B">
+<!ENTITY alertCustomization.intro         "Izberite, katera polja bodo vidna v obvestilu z opozorilom:">
+<!ENTITY previewText.label                "Besedilo predogleda sporočila">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Zadeva">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Pošiljatelj">
+<!ENTITY sender.accesskey                 "i">
+

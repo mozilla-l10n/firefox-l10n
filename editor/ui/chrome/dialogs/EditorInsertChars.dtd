@@ -40,13 +40,13 @@
 <!ENTITY windowTitle.label "Vstavi znak">
 <!ENTITY category.label "Kategorija">
 <!ENTITY letter.label "Črka:">
-<!ENTITY letter.accessKey "r">
+<!ENTITY letter.accessKey "L ">
 <!ENTITY character.label "Znak:">
-<!ENTITY character.accessKey "z">
-<!ENTITY accentUpper.label "Velike črke z naglasnimi znamenji">
-<!ENTITY accentLower.label "Male črke z naglasnimi znamenji">
-<!ENTITY otherUpper.label "Ostali veliki znaki">
-<!ENTITY otherLower.label "Ostali majhni znaki">
-<!ENTITY commonSymbols.label "Pogosti simboli:">
-<!ENTITY insertButton.label "Insert">
-<!ENTITY closeButton.label "Close">
+<!ENTITY character.accessKey "C">
+<!ENTITY accentUpper.label "Poudarek velike črke">
+<!ENTITY accentLower.label "Poudarek male črke">
+<!ENTITY otherUpper.label "Velike črke drugo">
+<!ENTITY otherLower.label "Male črke drugo">
+<!ENTITY commonSymbols.label "Skupni znaki">
+<!ENTITY insertButton.label "Vstavi">
+<!ENTITY closeButton.label "Zapri">

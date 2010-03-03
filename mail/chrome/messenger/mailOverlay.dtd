@@ -3,6 +3,5 @@
 <!ENTITY  newMessageCmd.label             "Sporočilo">
 <!ENTITY  newMessageCmd.accesskey         "s">
  
-<!ENTITY  newCardCmd.label                "Vizitka z naslovom ...">
-<!ENTITY  newCardCmd.accesskey            "v">
- 
+<!ENTITY  newContactCmd.label             "Vizitka z naslovom ...">
+<!ENTITY  newContactCmd.accesskey         "C">

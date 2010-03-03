@@ -44,549 +44,431 @@
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Datoteka">
-<!ENTITY filemenu.accesskey "D">
-<!ENTITY newBlankPageCmd.label "Stran v Composerju">
-<!ENTITY newBlankPage.accesskey "p" >
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newBlankPageCmd.label "Skladateljeva stran">
+<!ENTITY newBlankPageCmd.accesskey "p" >
 <!ENTITY newMenu.label "Novo">
 <!ENTITY openFileCmd.label "Odpri datoteko ...">
-<!ENTITY fileopen.accesskey "o">
-<!ENTITY fileopen.keybinding "o">
-<!ENTITY openremoteCmd.label "Odpri stran na spletu ...">
-<!ENTITY fileopenremote.accesskey "l">
-<!ENTITY fileopenremote.keybinding "l">
-<!ENTITY fileRecentMenu.label "Pred kratkim odprte strani">
-<!ENTITY filerecentmenu.accesskey "r">
-<!ENTITY fileRevert.label "Ponastavi na zadnje shranjeno">
-<!ENTITY filerevert.accesskey "v">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Odpri spletno mesto...">
+<!ENTITY openRemoteCmd.accesskey "L ">
+<!ENTITY openRemoteCmd.key "L ">
+<!ENTITY fileRecentMenu.label "Nedavne strani">
+<!ENTITY fileRecentMenu.accesskey "D">
+<!ENTITY fileRevert.label "Povrni se">
+<!ENTITY fileRevert.accesskey "p">
 <!ENTITY saveCmd.label "Shrani">
-<!ENTITY filesave.accesskey "s">
-<!ENTITY filesave.keybinding "s">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Shrani kot ...">
-<!ENTITY filesaveas.accesskey "k">
+<!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "Objavi">
-<!ENTITY publishcmd.accesskey "a">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Objavi kot ...">
-<!ENTITY publishas.accesskey "h">
-<!ENTITY exportToTextCmd.label "Izvozi k besedilu">
-<!ENTITY fileexporttotext.accesskey "b">
-<!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni kodiranje znakov">
-<!ENTITY filesaveandchangeencoding.accesskey "E">
-<!ENTITY previewCmd.label "Preglej stran">
-<!ENTITY filepreview.accesskey "p">
+<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY exportToTextCmd.label "Izvozi v besedilo…">
+<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY previewCmd.label "Brskaj po strani">
+<!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Pošlji stran ...">
-<!ENTITY sendPage.accesskey "j">
-<!ENTITY printSetupCmd.label "Nastavitve strani ...">
-<!ENTITY fileprintsetup.accesskey "u">
-<!ENTITY printPreviewCmd.label "Predogled tiskanja">
-<!ENTITY fileprintpreview.accesskey "v">
+<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY printSetupCmd.label "Priprava strani ...">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Natisni ...">
-<!ENTITY printButtonCmd.label "Natisni ...">
-<!ENTITY fileprint.accesskey "t">
-<!ENTITY fileprint.keybinding "p">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "p">
 <!ENTITY closeCmd.label "Zapri">
-<!ENTITY fileclose.accesskey "z">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY exitCmd.label "Izhod">
-<!ENTITY fileexit.accesskey "i">
-<!ENTITY fileexit.keybinding "q">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.key "t">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Urejanje">
-<!ENTITY editmenu.accesskey "e">
-<!ENTITY pasteNoFormatting.label "Prilepi brez urejanja">
-<!ENTITY pasteNoFormatting.accesskey "j">
+<!ENTITY editMenu.label "Urejaj">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY pasteNoFormatting.label "Prilepi brez oblikovanja">
+<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepi kot">
-<!ENTITY pasteAs.accesskey "t">
-<!ENTITY publishSettings.label "Nastavitve objavljanja strani ...">
+<!ENTITY pasteAs.accesskey "a">
+<!ENTITY publishSettings.label "Objavi nastavitve strani...">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!ENTITY pasteHTMLCmd.label "HTML">
-<!ENTITY pasteHTML.accesskey "h">
-<!ENTITY pasteTextCmd.label "Besedilo">
-<!ENTITY pasteText.accesskey "t">
-<!ENTITY pasteImageCmd.label "Slika">
-<!ENTITY pasteImage.accesskey "i">
-<!ENTITY pasteRowsCmd.label "Vrstice">
-<!ENTITY pasteRows.accesskey "r">
-<!ENTITY pasteColumnsCmd.label "Stolpci">
-<!ENTITY pasteColumns.accesskey "c">
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteTable.accesskey "a">
-<!ENTITY pasteLinkCmd.label "Povezava">
-<!ENTITY editpastelink.accesskey "p">
-<!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
-<!ENTITY editpastequotation.accesskey "n">
-<!ENTITY editpastequotation.keybinding "v">
-<!ENTITY editStripQuotesCmd.label "Odstrani navednice">
-<!ENTITY editRewrapCmd.label "Ponovno organiziraj v vrstice">
-<!ENTITY findCmd.label "Najdi in spremeni ...">
-<!ENTITY editfind.accesskey "n">
-<!ENTITY editfind.keybinding "f">
-<!ENTITY editfind.keybinding2 "VK_F19">
-<!ENTITY findAgainCmd.label "Ponovno najdi">
-<!ENTITY editfindnext.accesskey "n">
-<!ENTITY editfindnext.keybinding "g">
-<!ENTITY editfindnext.keybinding2 "VK_F3">
-<!ENTITY enableInlineSpellChecker.label "Preverjaj črkovanje med pisanjem">
-<!ENTITY enableInlineSpellChecker.accesskey "P">
+<!ENTITY pasteAsQuotationCmd.label "Prilepi kot citat">
+<!ENTITY pasteAsQuotationCmd.accesskey "Q">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findCmd.label "Poišči in zamenjaj...">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findAgainCmd.label "Ponovno poišči">
+<!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Najdi prejšnje">
-<!ENTITY editfindprev.accesskey "r">
-<!ENTITY editfindprev.keybinding "g">
-<!ENTITY editfindprev.keybinding2 "VK_F3">
-<!ENTITY checkSpellingCmd.label "Preglej črkovanje">
-<!ENTITY editcheckspelling.accesskey "g">
-<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY findPrevCmd.accesskey "p">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Preverjaj črkovanje, medtem ko pišem">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY checkSpellingCmd2.label "Preveri črkovanje">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "Preveri HTML">
-<!ENTITY validate.accesskey "v">
-<!ENTITY checkLinksCmd.label "Preveri povezave">
-
-
-<!-- View menu items -->
-<!ENTITY viewPageSource.label "Izvorna koda strani">
-<!ENTITY viewpagesource.accesskey "s">
-<!ENTITY viewParagraphMarks.label "Označbe odstavkov">
-<!ENTITY viewparagraphmarks.accesskey "o">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Vstavljanje">
-<!ENTITY insertmenu.accesskey "V">
-<!ENTITY insertLinkCmd.label "Povezava ...">
-<!ENTITY insertlink.accesskey "z">
-<!ENTITY insertlink.keybinding "l">
-<!ENTITY insertAnchorCmd.label "Poimenovano 'sidro' ...">
-<!ENTITY insertanchor.accesskey "a">
-<!ENTITY insertImageCmd.label "Slika ...">
-<!ENTITY insertimage.accesskey "i">
-<!ENTITY insertImageMapCmd.label "Zemljevid v sliki ...">
+<!ENTITY insertMenu.label "Vstavi">
+<!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertLinkCmd.label "Poveži…">
+<!ENTITY insertLinkCmd.accesskey "L ">
+<!ENTITY insertLinkCmd.key "L ">
+<!ENTITY insertAnchorCmd.label "Sidro z imenom…">
+<!ENTITY insertAnchorCmd.accesskey "A">
+<!ENTITY insertImageCmd.label "Slika…">
+<!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Vodoravna črta">
-<!ENTITY inserthline.accesskey "o">
-<!ENTITY insertTableCmd.label "Tabela ...">
-<!ENTITY inserttable.accesskey "t">
-<!ENTITY insertFormMenu.label "Obrazec">
-<!ENTITY insertformmenu.accesskey "b">
-<!ENTITY insertHTMLCmd.label "HTML ...">
-<!ENTITY insertHTMLCmd.accesskey "h">
-<!ENTITY insertCharsCmd.label "Znaki in simboli ...">
-<!ENTITY insertchars.accesskey "Z">
-<!ENTITY insertBreakCmd.label "Konec vrstice">
-<!ENTITY insertbreak.accesskey "n">
-<!ENTITY insertBreakAllCmd.label "Prekini pod sliko(-ami)">
-<!ENTITY insertbreakall.accesskey "k">
-
-<!-- Insert form menu items -->
-<!ENTITY insertFormCmd.label "Določi obrazec ...">
-<!ENTITY insertform.accesskey "D">
-<!ENTITY insertInputTagCmd.label "Polje obrazca ...">
-<!ENTITY insertinputtag.accesskey "e">
-<!ENTITY insertInputImageCmd.label "Slika obrazca ...">
-<!ENTITY insertinputimage.accesskey "l">
-<!ENTITY insertTextAreaCmd.label "Besedilno območje ...">
-<!ENTITY inserttextarea.accesskey "T">
-<!ENTITY insertSelectCmd.label "Izbirni seznam ...">
-<!ENTITY insertselect.accesskey "s">
-<!ENTITY insertButtonCmd.label "Definiraj gumb ...">
-<!ENTITY insertbutton.accesskey "b">
-<!ENTITY insertLabelCmd.label "Definiraj oznako">
-<!ENTITY insertlabel.accesskey "z">
-<!ENTITY insertFieldSetCmd.label "Določite set polj ...">
-<!ENTITY insertfieldset.accesskey "p">
-<!ENTITY insertIsIndexCmd.label "Iskanje indexa">
-<!ENTITY insertisindex.accesskey "x">
+<!ENTITY insertHLineCmd.accesskey "o">
+<!ENTITY insertTableCmd.label "Tabela...">
+<!ENTITY insertTableCmd.accesskey "T">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertCharsCmd.label "Znaki in simboli…">
+<!ENTITY insertCharsCmd.accesskey "C">
+<!ENTITY insertBreakAllCmd.label "Prelomi pod sliko/slikami">
+<!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(ni predlogov)">
+<!ENTITY spellCheckNoSuggestions.label "(Ni najti predlogov)">
 <!ENTITY spellCheckIgnoreWord.label "Prezri besedo">
-<!ENTITY spellCheckIgnoreWord.accesskey "P">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj v slovar">
-<!ENTITY spellCheckAddToDictionary.accesskey "D">
-<!ENTITY createLinkCmd.label "Ustvari povezavo ...">
-<!ENTITY createlink.accesskey "U">
-<!ENTITY editLinkCmd.label "Urejaj povezavo v novem Composerju">
-<!ENTITY editlink.accesskey "m">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY createLinkCmd.label "Ustravi povezavo ...">
+<!ENTITY createLinkCmd.accesskey "k">
+<!ENTITY editLinkCmd.label "Uredi povezavo v novem Skladatelju">
+<!ENTITY editLinkCmd.accesskey "L">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Prekliči akcijo">
-<!ENTITY undo.accesskey "p">
+<!ENTITY undoCmd.label "Prekliči">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "Ponovi">
-<!ENTITY redo.accesskey "o">
+<!ENTITY redoCmd.accesskey "D">
 <!ENTITY cutCmd.label "Izreži">
-<!ENTITY cut.accesskey "z">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopiraj">
-<!ENTITY copy.accesskey "K">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Prilepi">
-<!ENTITY paste.accesskey "p">
-<!ENTITY deleteCmd.label "Zbriši">
-<!ENTITY delete.accesskey "b">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "Izbriši">
+<!ENTITY deleteCmd.accesskey "D">
 <!ENTITY clearCmd.label "Pobriši">
-<!ENTITY clear.accesskey "b">
+<!ENTITY clearCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Izberi vse">
-<!ENTITY selectall.accesskey "v">
+<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Izberite pisavo">
+<!ENTITY FontFaceSelect.tooltip "izberi pisavo">
 <!ENTITY fontfaceMenu.label "Pisava">
-<!ENTITY formatfontmenu.accesskey "p">
+<!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Spremenljiva širina">
-<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontVarWidth.accesskey "V">
 <!ENTITY fontFixedWidth.label "Stalna širina">
-<!ENTITY fontfixedwidth.accesskey "d">
-<!ENTITY formatfontfixed.keybinding "t">
-<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
-<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontFixedWidth.accesskey "x">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontcourier.accesskey "c">
-<!ENTITY localfontfaceMenu.label "Lokalne pisave">
-<!ENTITY localfontmenu.accesskey "f">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Izberite velikost pisave">
-<!ENTITY decreaseFontSize.label "Manjše">
-<!ENTITY decreasefontsize.accesskey "j">
-<!ENTITY decreaseFontSize.keybinding "-">
-<!ENTITY increaseFontSize.label "Večje">
-<!ENTITY increasefontsize.accesskey "v">
-<!ENTITY increaseFontSize.keybinding "+">
-<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.tooltip "izberite velikost pisave">
+<!ENTITY decreaseFontSize.label "Manjša">
+<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.key "-">
+<!ENTITY increaseFontSize.label "Večja">
+<!ENTITY increaseFontSize.accesskey "v">
+<!ENTITY increaseFontSize.key "+">
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY fontsizeMenu.label "Velikost">
-<!ENTITY formatsizemenu.accesskey "k">
-<!ENTITY size-xx-smallCmd.label "xx-majhno">
-<!ENTITY size-xx-small.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-majhno">
-<!ENTITY size-x-small.accesskey "m">
-<!ENTITY size-smallCmd.label "majhno">
-<!ENTITY size-small.accesskey "m">
-<!ENTITY size-mediumCmd.label "srednje">
-<!ENTITY size-medium.accesskey "d">
-<!ENTITY size-largeCmd.label "veliko">
-<!ENTITY size-large.accesskey "l">
-<!ENTITY size-x-largeCmd.label "x-veliko">
-<!ENTITY size-x-large.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-veliko">
-<!ENTITY size-xx-large.accesskey "e">
+<!ENTITY fontSizeMenu.label "Velikost">
+<!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY size-xx-smallCmd.label "xx-majhna">
+<!ENTITY size-xx-smallCmd.accesskey "a">
+<!ENTITY size-x-smallCmd.label "x-majhna">
+<!ENTITY size-x-smallCmd.accesskey "s">
+<!ENTITY size-smallCmd.label "majhna">
+<!ENTITY size-smallCmd.accesskey "s">
+<!ENTITY size-mediumCmd.label "srednja">
+<!ENTITY size-mediumCmd.accesskey "d">
+<!ENTITY size-largeCmd.label "velika">
+<!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-x-largeCmd.label "x-velika">
+<!ENTITY size-x-largeCmd.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "xx-velika">
+<!ENTITY size-xx-largeCmd.accesskey "i">
 
 <!-- Font Style SubMenu -->
-<!ENTITY fontStyleMenu.label "Slog besedila">
-<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY fontStyleMenu.label "Slog pisave">
+<!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Krepko">
-<!ENTITY stylebold.accesskey "k">
-<!ENTITY stylebold.keybinding "b">
-<!ENTITY styleItalicCmd.label "Poševno">
-<!ENTITY styleitalic.accesskey "n">
-<!ENTITY styleitalic.keybinding "i">
-<!ENTITY styleUnderlineCmd.label "Podčrtaj">
-<!ENTITY styleunderline.accesskey "t">
-<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleBoldCmd.accesskey "B">
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "Ležeče">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Podčrtano">
+<!ENTITY styleUnderlineCmd.accesskey "U">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Prečrtano">
-<!ENTITY stylestrikethru.accesskey "r">
-<!ENTITY styleSuperscriptCmd.label "Piši višje">
-<!ENTITY stylesuperscript.accesskey "p">
-<!ENTITY styleSubscriptCmd.label "Piši nižje">
-<!ENTITY stylesubscript.accesskey "n">
-<!ENTITY styleNonbreakingCmd.label "Neprelomljivo">
-<!ENTITY stylenonbreaking.accesskey "N">
-<!ENTITY styleEm.label "Poudarjeno">
-<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleStrikeThruCmd.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "Nadpisano">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Podpisano">
+<!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Se ne sme deliti">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
+<!ENTITY styleEm.label "Poudarek">
+<!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Močnejši poudarek">
-<!ENTITY styleStrong.accesskey "k">
+<!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "Citat">
-<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleCite.accesskey "C">
 <!ENTITY styleAbbr.label "Okrajšava">
-<!ENTITY styleAbbr.accesskey "a">
+<!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Akronim">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Koda">
 <!ENTITY styleCode.accesskey "o">
-<!ENTITY styleSamp.label "Primer izhodnega besedila">
-<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleSamp.label "Vzorec izhoda">
+<!ENTITY styleSamp.accesskey "s">
 <!ENTITY styleVar.label "Spremenljivo">
-<!ENTITY styleVar.accesskey "v">
+<!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Barva besedila ...">
-<!ENTITY formatfontcolor.accesskey "r">
-<!ENTITY tableOrCellColor.label "Barva ozadja tabele ali celice ...">
+<!ENTITY formatFontColor.label "Barva pisave...">
+<!ENTITY formatFontColor.accesskey "C">
+<!ENTITY tableOrCellColor.label "Barva ozadja tabele ali celice…">
 <!ENTITY tableOrCellColor.accesskey "B">
 
-<!ENTITY formatremovestyles.keybinding "y">
-<!ENTITY formatremovelinks.keybinding "k">
-<!ENTITY formatRemoveNamedAnchors.label "Odstrani imenovana 'sidra'">
-<!ENTITY formatRemoveNamedAnchors.accesskey "s">
-<!ENTITY formatremovenamedanchors.keybinding "a">
+<!ENTITY formatRemoveStyles.key "D">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Odstrani sidra z imenom">
+<!ENTITY formatRemoveNamedAnchors.accesskey "D">
+<!ENTITY formatRemoveNamedAnchors.key "A">
 
-<!ENTITY formatindent.keybinding "]">
-<!ENTITY formatoutdent.keybinding "[">
 <!ENTITY paragraphMenu.label "Odstavek">
-<!ENTITY formatparagraphmenu.accesskey "O">
+<!ENTITY paragraphMenu.accesskey "p">
 <!ENTITY paragraphParagraphCmd.label "Odstavek">  
-<!ENTITY paragraphparagraph.accesskey "O">
-<!ENTITY heading1Cmd.label "Naslov 1">
-<!ENTITY heading1.accesskey "1">
-<!ENTITY heading2Cmd.label "Naslov 2">
-<!ENTITY heading2.accesskey "2">
-<!ENTITY heading3Cmd.label "Naslov 3">
-<!ENTITY heading3.accesskey "3">
-<!ENTITY heading4Cmd.label "Naslov 4">
-<!ENTITY heading4.accesskey "4">
-<!ENTITY heading5Cmd.label "Naslov 5">
-<!ENTITY heading5.accesskey "5">
-<!ENTITY heading6Cmd.label "Naslov 6">
-<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphParagraphCmd.accesskey "p">
+<!ENTITY heading1Cmd.label "Glava 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Glava 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Glava 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Glava 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Glava 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Glava 6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Naslov">
-<!ENTITY paragraphaddress.accesskey "a">
-<!ENTITY paragraphPreformatCmd.label "Vnaprej oblikovano">
-<!ENTITY paragraphpreformat.accesskey "n">
-<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
-<!ENTITY paragraphblockquote.accesskey "b">
+<!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Vnajprej formatirano">
+<!ENTITY paragraphPreformatCmd.accesskey "p">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Seznam">
-<!ENTITY formatlistmenu.accesskey "z">
+<!ENTITY formatlistMenu.accesskey "L ">
 <!ENTITY noneCmd.label "Nič">
-<!ENTITY none.accesskey "N">
-<!ENTITY listBulletCmd.label "Neurejen seznam">
-<!ENTITY listbullet.accesskey "u">
-<!ENTITY listNumberedCmd.label "Oštevičeno">
-<!ENTITY listnumbered.accesskey "n">
-<!ENTITY listTermCmd.label "Termin">
-<!ENTITY listterm.accesskey "t">
+<!ENTITY noneCmd.accesskey "N">
+<!ENTITY listBulletCmd.label "Z vidnimi gumbi">
+<!ENTITY listBulletCmd.accesskey "B">
+<!ENTITY listNumberedCmd.label "Oštevilčeno">
+<!ENTITY listNumberedCmd.accesskey "s">
+<!ENTITY listTermCmd.label "Izraz">
+<!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definicija">
-<!ENTITY listdefinition.accesskey "d">
-<!ENTITY listProps.label "Nastavitve seznama ...">
-<!ENTITY listprops.accesskey "s">
+<!ENTITY listDefinitionCmd.accesskey "D">
+<!ENTITY listPropsCmd.label "Nastavitve seznama">
+<!ENTITY listPropsCmd.accesskey "L ">
 
-<!ENTITY ParagraphSelect.tooltip "Izberite obliko odstavka">
+<!ENTITY ParagraphSelect.tooltip "izberite oblika odstavka">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Jedrno besedilo">
-<!ENTITY bodytext.accesskey "j">
+<!ENTITY bodyTextCmd.label "Telo besedila">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Napredne nastavitve">
-<!ENTITY advancedproperties.accesskey "v">
-
-<!ENTITY NormalAbbr.label "Besedilo">
-<!ENTITY ParagraphAbbr.label "P">  
-<!ENTITY Heading1Abbr.label "H1">
-<!ENTITY Heading2Abbr.label "H2">
-<!ENTITY Heading3Abbr.label "H3">
-<!ENTITY Heading4Abbr.label "H4">
-<!ENTITY Heading5Abbr.label "H5">
-<!ENTITY Heading6Abbr.label "H6">
-<!ENTITY BlockquoteAbbr.label "BQ">
-<!ENTITY AddressAbbr.label "Naslov">
-<!ENTITY PreformatAbbr.label "Pre.">
-
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-<!ENTITY stylesheetMenu.label "Nastavi Style Sheet">
-<!ENTITY formatstylesheetmenu.accesskey "y">
+<!ENTITY advancedPropertiesCmd.accesskey "p">
 
 <!-- Align menu items -->
-<!ENTITY alignMenu.label "Poravnava">
-<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignMenu.label "Poravnaj">
+<!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Levo">
-<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.accesskey "L ">
 <!ENTITY alignLeft.tooltip "Poravnaj levo">
-<!ENTITY alignCenter.label "Center">
-<!ENTITY aligncenter.accesskey "c">
-<!ENTITY alignCenter.tooltip "Poravnaj v sredino">
+<!ENTITY alignCenter.label "Sreda">
+<!ENTITY alignCenter.accesskey "C">
+<!ENTITY alignCenter.tooltip "Poravnaj na sredo">
 <!ENTITY alignRight.label "Desno">
-<!ENTITY alignright.accesskey "s">
+<!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Poravnaj desno">
-<!ENTITY alignJustify.label "Zapolni vrstico">
-<!ENTITY alignjustify.accesskey "o">
-<!ENTITY alignJustify.tooltip "Poravnaj sredinsko">
+<!ENTITY alignJustify.label "Justiraj">
+<!ENTITY alignJustify.accesskey "J">
+<!ENTITY alignJustify.tooltip "Poravnaj justirano">
 
 <!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Sloj">
-<!ENTITY layerSendToBack.tooltip "Pošlji v ozadje">
-<!ENTITY layerBringToFront.tooltip "Prinesi v ospredje">
+<!ENTITY layer.tooltip "Plast">
+<!ENTITY layerSendToBack.tooltip "Prestavi v ozadje">
+<!ENTITY layerBringToFront.tooltip "Prestavi v ospredje">
 
-<!ENTITY increaseIndent.label "Povečaj rob">
-<!ENTITY increaseindent.accesskey "P">
-<!ENTITY increaseindentkb "=">
-<!ENTITY decreaseIndent.label "Zmanjšaj rob">
-<!ENTITY decreaseindent.accesskey "Z">
-<!ENTITY decreaseindentkb "-">
+<!ENTITY increaseIndent.label "Povečaj zamik">
+<!ENTITY increaseIndent.accesskey "I">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Zmanjšaj zamik">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Namestitvena mreža">
+<!ENTITY grid.label "Nameščam mrežo">
 <!ENTITY grid.accesskey "t">
 
-<!ENTITY pageProperties.label "Naslov in lastnosti strani ...">
-<!ENTITY pageproperties.accesskey "a">
-<!ENTITY colorsAndBackground.label "Barve in ozadje strani ...">
-<!ENTITY colorsandbackground.accesskey "d">
+<!ENTITY pageProperties.label "Naslov strani in lastnosti...">
+<!ENTITY pageProperties.accesskey "v">
+<!ENTITY colorsAndBackground.label "Barve strani in ozadje...">
+<!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabela">
-<!ENTITY tablemenu.accesskey "b">
+<!ENTITY tableMenu.accesskey "b">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Izberi">
-<!ENTITY tableselectmenu.accesskey "z">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "Izberi tabelo">
-<!ENTITY tableInsertMenu2.label "Vstavljanje tabele">
-<!ENTITY tableDeleteMenu2.label "Izbriši tabelo">
+<!ENTITY tableSelectMenu2.accesskey "S">
+<!ENTITY tableInsertMenu2.label "Vstavi tabelo">
+<!ENTITY tableInsertMenu2.accesskey "I">
+<!ENTITY tableDeleteMenu2.label "Zbriši tabelo">
+<!ENTITY tableDeleteMenu2.accesskey "D">
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Vstavi">
-<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tabela">
-<!ENTITY tabletable.accesskey "t">
-<!ENTITY tableRow.label "Vrstica">
-<!ENTITY tableRows.label "Vrstica(-e)">
-<!ENTITY tablerow.accesskey "r">
-<!ENTITY tableRowAbove.label "Vrsta zgoraj">
-<!-- uses tablerow.accesskey -->
-<!ENTITY tableRowBelow.label "Vrstica prej">
-<!ENTITY tablerowbelow.accesskey "j">
+<!ENTITY tableTable.accesskey "T">
+<!ENTITY tableRow.label "Vrsta">
+<!ENTITY tableRows.label "Vrsta(e)">
+<!ENTITY tableRow.accesskey "D">
+<!ENTITY tableRowAbove.label "Vrsta nad">
+<!ENTITY tableRowAbove.accesskey "D">
+<!ENTITY tableRowBelow.label "Vrsta pod">
+<!ENTITY tableRowBelow.accesskey "B">
 <!ENTITY tableColumn.label "Stolpec">
-<!ENTITY tableColumns.label "Stolpec(-i)">
-<!ENTITY tablecolumn.accesskey "o">
-<!ENTITY tableColumnBefore.label "Stolpec prej">
-<!-- uses tablecolumn.accesskey -->
-<!ENTITY tableColumnAfter.label "Stolpec za tem">
-<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableColumns.label "Stolpec(i)">
+<!ENTITY tableColumn.accesskey "o">
+<!ENTITY tableColumnBefore.label "Stolpec pred">
+<!ENTITY tableColumnBefore.accesskey "o">
+<!ENTITY tableColumnAfter.label "Stolpec po">
+<!ENTITY tableColumnAfter.accesskey "A">
 <!ENTITY tableCell.label "Celica">
 <!ENTITY tableCells.label "Celica(e)">
-<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Vsebina celice">
-<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Vse celice">
-<!ENTITY tableCellBefore.label "Celica prej">
-<!ENTITY tableallcells.accesskey "c">
-<!-- uses tablecell.accesskey -->
-<!ENTITY tableCellAfter.label "Celica po tej">
-<!ENTITY tablecellafter.accesskey "p">
+<!ENTITY tableAllCells.accesskey "A">
+<!ENTITY tableCellBefore.label "Celica pred">
+<!ENTITY tableCellBefore.accesskey "C">
+<!ENTITY tableCellAfter.label "Celica po">
+<!ENTITY tableCellAfter.accesskey "p">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Zbriši">
-<!ENTITY tabledeletemenu.accesskey "b">
+<!ENTITY tableDeleteMenu.label "Izbriši">
+<!ENTITY tableDeleteMenu.accesskey "D">
 
-<!ENTITY tableFix.label "Popravi postavitev tabele">
-<!ENTITY tablefix.accesskey "s">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
 <!ENTITY tableJoinCells.label "j">
-<!ENTITY tablejoincells.accesskey "j">
-<!ENTITY tableSplitCell.label "Razdeli celico">
-<!ENTITY tablesplitcell.accesskey "c">
-<!ENTITY convertToTable.label "Ustvari tabelo iz izbranega">
-<!ENTITY converttotable.accesskey "r">
-<!ENTITY tableProperties.label "Lastnosti tabele ...">
+<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableSplitCell.label "Deli celico">
+<!ENTITY tableSplitCell.accesskey "C">
+<!ENTITY convertToTable.label "Ustvari tabelo iz izbire">
+<!ENTITY convertToTable.accesskey "r">
+<!ENTITY tableProperties.label "Nastavitve tabele...">
 <!ENTITY tableProperties.accesskey "o">
 
-<!-- Tools menu -->
-<!ENTITY toolsmenu.accesskey "l">
-<!ENTITY toolbrowser.accesskey "b">
-<!ENTITY toolplaineditor.accesskey "p">
-<!ENTITY toolsetfocus.accesskey "f">
-
-<!-- Debug menu items -->
-<!ENTITY debugMenu.label "Debug">
-<!ENTITY newEditorTestPage.label "Composer s testno stranjo">
-<!ENTITY textEditorCmd.label "Besedilni urejevalnik">
-<!ENTITY outputTextCmd.label "Izhodno besedilo">
-<!ENTITY outputHTMLCmd.label "Izhodni HTML">
-<!ENTITY insertTextCmd.label "Vstavi besedilo">
-<!ENTITY testSelectionCmd.label "Testiraj izbrano">
-<!ENTITY testTableLayoutCmd.label "Testiraj obliko tabele">
-<!ENTITY testDocumentCmd.label "Testiraj dokument">
-<!ENTITY showEmbeddedCmd.label "Pokaži vtkane predmete">
-<!ENTITY dumpContentCmd.label "Izpiši vsebinsko drevo">
-<!ENTITY runUnitTestsCmd.label "Poženi teste enot">
-<!ENTITY dumpUndoStack.label "Izpiši 'Undo Stack'">
-<!ENTITY dumpRedoStack.label "Izpiši 'Redo Stack'">
-<!ENTITY executeJSTransactionViaTxmgr.label "Izvrši JS transakcijo prek upravitelja transakcij">
-<!ENTITY executeJSTransactionViaEditor.label "Izvrši JS transakcijo prek urejevalnika">
-<!ENTITY startLogCmd.label "Začni dnevnik">
-<!ENTITY stopLogCmd.label "Končaj dnevnik">
-<!ENTITY runLogCmd.label "Zaženi dnevnik">
-<!ENTITY setFocusCmd.label "Nastavi fokus">
-
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Vrstica menijev">
-<!ENTITY compositionToolbar.tooltip "Kompozicijski nabor ukazov">
+<!ENTITY menuBar.tooltip "Vrstica z menijem">
+<!ENTITY compositionToolbar.tooltip "Orodna vrstica za sestavke">
 <!ENTITY formatToolbar.tooltip "Orodna vrstica za oblikovanje">
-<!ENTITY newToolbarCmd.tooltip "Ustvari novo Composer stran">
+<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Skladatelju">
 <!ENTITY openToolbarCmd.label "Odpri">
 <!ENTITY openToolbarCmd.tooltip "Odpri lokalno datoteko">
-<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na lokalni sistem">
-<!ENTITY publishToolbarCmd.tooltip "Naloži datoteko na oddaljen naslov">
-<!ENTITY previewToolbarCmd.label "Predogled">
-<!ENTITY previewToolbarCmd.tooltip "Naloži stran v Navigatorju">
-<!ENTITY printToolbarCmd.label "Natisni">
+<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na lokalno mesto">
+<!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
+<!ENTITY previewToolbarCmd.label "Brskaj">
+<!ENTITY previewToolbarCmd.tooltip "Naloži to stran v brskalnik">
+<!ENTITY printToolbarCmd.label "Natisni ">
 <!ENTITY printToolbarCmd.tooltip "Natisni to stran">
-<!ENTITY findToolbarCmd.label "Najdi">
-<!ENTITY findToolbarCmd.tooltip "Najdi besedilo na strani">
+<!ENTITY findToolbarCmd.label "Poišči">
+<!ENTITY findToolbarCmd.tooltip "Poišči besedilo v strani">
 <!ENTITY spellToolbarCmd.label "Črkuj">
-<!ENTITY spellToolbarCmd.tooltip "Preglej črkovanje izbranega oziroma celotne strani">
+<!ENTITY spellToolbarCmd.tooltip "Preveri črkovanje besedila v izbiri ali na celotni strani">
 <!ENTITY imageToolbarCmd.label "Slika">
-<!ENTITY imageToolbarCmd.tooltip "Vstavi novo sliko oziroma spremeni nastavitve izbrane">
-<!ENTITY hruleToolbarCmd.label "V. črta">
-<!ENTITY hruleToolbarCmd.tooltip "Vstavi vodoravno črto oziroma spremeni nastavitve izbrane">
+<!ENTITY imageToolbarCmd.tooltip "Vstavi novo sliko ali uredi lastnosti izbrane slike">
+<!ENTITY hruleToolbarCmd.label "Vod.črta">
+<!ENTITY hruleToolbarCmd.tooltip "Vstavi vodoravno črto ali uredi lastnosti izbrane črte">
 <!ENTITY tableToolbarCmd.label "Tabela">
-<!ENTITY tableToolbarCmd.tooltip "Vstavi novo tabelo oziroma spremeni nastavitve izbrane">
+<!ENTITY tableToolbarCmd.tooltip "Vstavi novo tabelo ali uredi lastnosti izbrane tabele">
 <!ENTITY linkToolbarCmd.label "Povezava">
-<!ENTITY linkToolbarCmd.tooltip "Vstavi novo povezavo oziroma spremeni nastavitve izbrane">
-<!ENTITY anchorToolbarCmd.label "'Sidro'">
-<!ENTITY anchorToolbarCmd.tooltip "Vstavi novo imenovano 'sidro' oziroma spremeni nastavitve izbranega">
-<!ENTITY textColorCaption.label "Barva besedila">
-<!ENTITY TextColorButton.tooltip "Izberite barvo za besedilo">
-<!ENTITY BackgroundColorButton.tooltip "Izberite barvo za ozadje">
+<!ENTITY linkToolbarCmd.tooltip "Vstavi novo povezavo ali uredi lastnosti izbrane povezave">
+<!ENTITY anchorToolbarCmd.label "Sidro">
+<!ENTITY anchorToolbarCmd.tooltip "Vstavi novo sidro ali uredi lastnosti izbranega sidra">
+<!ENTITY TextColorButton.tooltip "izberite barvo za besedilo">
+<!ENTITY BackgroundColorButton.tooltip "izberite barvo za ozadje">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Izberite označevalno barvo za besedilo">
+<!ENTITY HighlightColorButton.tooltip "izberite barvo za poudarjeno besedilo">
 
 <!-- Editor toolbar -->
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost znakov">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Večja velikost znakov">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Večja velikost pisave">
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
-<!ENTITY italicToolbarCmd.tooltip "Poševni tisk">
-<!ENTITY underlineToolbarCmd.tooltip "Podčrtaj">
-<!ENTITY bulletListToolbarCmd.tooltip "Dodaj oziroma odstrani neurejen seznam">
-<!ENTITY numberListToolbarCmd.tooltip "Dodaj oziroma odstrani oštevilčen seznam">
-<!ENTITY outdentToolbarCmd.tooltip "Premakni besedilo v levo">
-<!ENTITY indentToolbarCmd.tooltip "Premakni besedilo v desno">
-<!ENTITY AlignPopupButton.tooltip "Izberite poravnavo besedila">
-<!ENTITY InsertPopupButton.tooltip "Vstavi povezavo, 'sidro', sliko, vodoravno črto ali tabelo">
-<!ENTITY alignLeftButton.tooltip "Poravnaj besedilo k levemu robu">
-<!ENTITY alignCenterButton.tooltip "Sredinsko poravnaj besedilo">
-<!ENTITY alignRightButton.tooltip "Poravnaj besedilo k desnemu robu">
-<!ENTITY alignjustifyButton.tooltip "Poravnaj besedilo z levim in desnim robom">
-
-<!-- Formatting toolbar not used, but may be in future -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "d">
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-<!ENTITY colorPicker.default.label "Vnaprej nastavljene barve">
-<!ENTITY colorPicker.default.accesskey "r">
-<!ENTITY colorLabel.label "Barva:">
-<!ENTITY ok.label "V redu">
+<!ENTITY italicToolbarCmd.tooltip "Ležeče">
+<!ENTITY underlineToolbarCmd.tooltip "Podčrtano">
+<!ENTITY bulletListToolbarCmd.tooltip "Uporabi ali odstrani seznam z vidnimi gumbi">
+<!ENTITY numberListToolbarCmd.tooltip "Uporabi ali odstrani oštevilčen seznam">
+<!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
+<!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
+<!ENTITY AlignPopupButton.tooltip "izberite zamik besedila">
+<!ENTITY InsertPopupButton.tooltip "Vstavi povezavo, sidro, sliko vodoravno črto ali tabelo">
+<!ENTITY alignLeftButton.tooltip "Poravnaj besedilo na levi rob">
+<!ENTITY alignCenterButton.tooltip "Poravnaj besedilo na sredo">
+<!ENTITY alignRightButton.tooltip "Poravnaj besedilo na desni rob">
+<!ENTITY alignjustifyButton.tooltip "Poravnaj besedilo na levi in desni rob">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Navadno">
-<!ENTITY NormalMode.label "Navaden način urejanja">
+<!ENTITY NormalModeTab.label "Normalo">
+<!ENTITY NormalMode.label "Normalni urejevalni način">
 <!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Prikaži obrobe tabel in poimenovana 'sidra'">
-<!ENTITY AllTagsMode.label "Pokaži vse tage">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Nariši ikone za vse tage HTML">
+<!ENTITY NormalMode.tooltip "Pokaži robove tabel in sidra z imenom">
+<!ENTITY AllTagsMode.label "Oznake HTML">
+<!ENTITY AllTagsMode.accesskey "A">
+<!ENTITY AllTagsMode.tooltip "Prikaži ikone za oznake HTML">
 
-<!ENTITY HTMLSourceMode.label "Izvorna koda HTML">
+<!ENTITY HTMLSourceMode.label "Izvor HTML">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Izvorna koda">
+<!ENTITY SourceMode.label "Izvor">
 <!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Spremeni izvorno kodo HTML">
+<!ENTITY HTMLSourceMode.tooltip "Uredi izvor HTML">
 <!ENTITY PreviewMode.label "Predogled">
 <!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "Prikaži kot WYSIWYG (kot v Navigatorju)">
+<!ENTITY PreviewMode.tooltip "Prikaži kot WYSIWYG (kot v brskalniku)">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
      Use latin "ltr" if you want the <html> image to left of the 
@@ -598,18 +480,18 @@
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Izberi">
-<!ENTITY structSelect.accesskey     "b">
-<!ENTITY structRemoveTag.label      "Odstrani tag">
-<!ENTITY structRemoveTag.accesskey  "s">
-<!ENTITY structChangeTag.label      "Spremeni tag">
-<!ENTITY structChangeTag.accesskey  "p">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "Odstrani oznako">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Spremeni oznako">
+<!ENTITY structChangeTag.accesskey  "u">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Vstavi">
-<!ENTITY insertTOC.accesskey      "i">
-<!ENTITY updateTOC.label          "Posodobitev">
-<!ENTITY updateTOC.accesskey      "d">
+<!ENTITY insertTOC.accesskey      "L">
+<!ENTITY updateTOC.label          "Obnovi">
+<!ENTITY updateTOC.accesskey      "u">
 <!ENTITY removeTOC.label          "Odstrani">
 <!ENTITY removeTOC.accesskey      "r">
-<!ENTITY tocMenu.label            "Vsebina ...">
+<!ENTITY tocMenu.label            "Kazalo vsebine">
 <!ENTITY tocMenu.accesskey        "b">

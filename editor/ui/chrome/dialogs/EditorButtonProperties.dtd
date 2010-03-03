@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Button Properties">
+<!ENTITY windowTitle.label "Lastnosti gumbov">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Nastavitve">
 
-<!ENTITY ButtonType.label "Type">
+<!ENTITY ButtonType.label "Vrsta">
 <!ENTITY ButtonType.accesskey "T">
-<!ENTITY submit.value "Submit">
+<!ENTITY submit.value "Predloži">
 <!ENTITY reset.value "Reset">
-<!ENTITY button.value "Button">
+<!ENTITY button.value "Gumb">
 
-<!ENTITY ButtonName.label "Name:">
+<!ENTITY ButtonName.label "Ime:">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Value:">
+<!ENTITY ButtonValue.label "Vrednost:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "Tab Index:">
+<!ENTITY tabIndex.label "Indeks oznake:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Disabled">
+<!ENTITY ButtonDisabled.label "Onemogočeno">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveButton.label "Remove Button">
-<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.label "Odstrani gumb">
+<!ENTITY RemoveButton.accesskey "D">

@@ -38,13 +38,14 @@
 <!ENTITY AdvancedEditButton.label "Napredno spreminjanje ...">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
-<!ENTITY chooseButton.label "Izberite datoteko ...">
-<!ENTITY chooseFile.accessKey "d">
-<!ENTITY chooseFileLink.accessKey "o">
-<!ENTITY makeUrlRelative.label "URL je relativen glede na naslov strani">
+<!ENTITY chooseFileButton.label "Izberite datoteko ...">
+<!ENTITY chooseFileButton.accessKey "F">
+<!ENTITY chooseFileLinkButton.label "Izberite datoteko ...">
+<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY makeUrlRelative.label "URI je relativen glede na lokacijo strani">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "URLs se spreminja med relativnim in absolutnim. Pred izvrševanjem te možnosti morate stran shraniti.">
+<!ENTITY makeUrlRelative.tooltip "Menjaj iz relativnega URL. v absolutni in obratno, Stran morate najprej shraniti, potem šele lahko to spremenite. ">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Vnesite naslov spletne strani, lokalne datoteke, ali pa izberite poimenovano 'sidro' oziroma naslov iz spiska:">
-<!ENTITY LinkURLEditField.accessKey "I">
+<!ENTITY LinkURLEditField.label "Vnesite lokacijo spletne strani, lokalne datoteke, ali pa izberite sidro z imenom oziroma naslov iz pojavnega seznama:">
+<!ENTITY LinkURLEditField.accessKey "L ">

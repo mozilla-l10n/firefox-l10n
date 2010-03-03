@@ -34,38 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title "Orodne vrstice">
+<!ENTITY pref.toolbars.title    "Orodne vrstice">
 
-<!ENTITY composition.caption "Pokaži te gumbe v orodni vrstici sestavljanja:">
+<!ENTITY composition.caption    "Pokaži te gumbe v orodni vrstici za sestavke">
 
-<!ENTITY new.label "Novo">
-<!ENTITY open.label "Odpri">
-<!ENTITY save.label "Shrani">
-<!ENTITY publish.label "Objavi">
-<!ENTITY preview.label "Predogled">
-<!ENTITY cut.label "Izreži">
-<!ENTITY copy.label "Kopiraj">
-<!ENTITY paste.label "Prilepi">
-<!ENTITY print.label "Natisni">
-<!ENTITY find.label "Najdi">
-<!ENTITY image.label "Slika">
-<!ENTITY hline.label "Črta">
-<!ENTITY table.label "Tabela">
-<!ENTITY link.label "Povezava">
-<!ENTITY anchor.label "Sidro">
+<!ENTITY new.label              "Novo">
+<!ENTITY open.label             "Odpri">
+<!ENTITY save.label             "Shrani">
+<!ENTITY publish.label          "Objavi">
+<!ENTITY preview.label          "Brskaj">
+<!ENTITY cut.label              "Izreži">
+<!ENTITY copy.label             "Kopiraj">
+<!ENTITY paste.label            "Prilepi">
+<!ENTITY print.label            "Natisni ">
+<!ENTITY find.label             "Poišči">
+<!ENTITY image.label            "Slika">
+<!ENTITY hline.label            "H. Črta">
+<!ENTITY table.label            "Tabela">
+<!ENTITY link.label             "Povezava">
+<!ENTITY anchor.label           "Sidro">
 
-<!ENTITY formatting.caption "Pokaži te gumbe v vrstici urejanja:">
+<!ENTITY formatting.caption     "Pokaži te gumbe v orodni vrstici za oblikovanje">
 
-<!ENTITY smaller.label "Večje">
-<!ENTITY larger.label "Manjše">
-<!ENTITY bold.label "Krepko">
-<!ENTITY bullets.label "Alinee">
-<!ENTITY numbers.label "Številke">
-<!ENTITY italic.label "Poševno">
-<!ENTITY outdent.label "Na levo">
-<!ENTITY indent.label "Na desno">
-<!ENTITY underline.label "Podčrtaj">
+<!ENTITY smaller.label          "Manjša">
+<!ENTITY larger.label           "Večja">
+<!ENTITY bold.label             "Krepko">
+<!ENTITY bullets.label          "Vidni gumbi">
+<!ENTITY numbers.label          "Številke">
+<!ENTITY italic.label           "Ležeče">
+<!ENTITY outdent.label          "Zamik levo">
+<!ENTITY indent.label           "Zamik desno">
+<!ENTITY underline.label        "Podčrtano">
 
-<!ENTITY absolutePosition.label "Absolutno pozicioniranje">
-<!ENTITY decreaseZIndex.label "Pošlji nazaj">
-<!ENTITY increaseZIndex.label "V ospredje">
+<!ENTITY absolutePosition.label "Absolutno nameščanje">
+<!ENTITY decreaseZIndex.label   "Prestavi v ozadje">
+<!ENTITY increaseZIndex.label   "Prestavi v ospredje">

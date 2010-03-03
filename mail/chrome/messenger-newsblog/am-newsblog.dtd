@@ -1,20 +1,20 @@
-<!ENTITY newsblogTitle.label "Nastavitve računa RSS">
+<!ENTITY accountTitle.label "Nastavitve računa">
 
-<!ENTITY biffStart.label "Preveri, ali obstajajo novi članki vsakih ">
-<!ENTITY biffStart.accesskey "n">
-<!ENTITY biffEnd.label "min">
+<!ENTITY biffStart.label "Preveri, ali obstajajo novi članki vsakih  ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "minut">
 
 <!ENTITY loginAtStartup.label "Ob zagonu preveri, ali obstajajo novi članki"> 
-<!ENTITY loginAtStartup.accesskey "g">
+<!ENTITY loginAtStartup.accesskey "C">
 
 <!ENTITY useQuickMode.label "Privzemi prikaz povzetka članka in ne nalagaj spletne strani"> 
-<!ENTITY useQuickMode.accesskey "P">
+<!ENTITY useQuickMode.accesskey "B">
 
 <!ENTITY manageSubscriptions.label "Upravljanje naročnin ..."> 
-<!ENTITY manageSubscriptions.accesskey "U">
+<!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName "Novice in spletni dnevniki">
-<!ENTITY rss.wizardShortName "RSS">
-<!ENTITY rss.wizardLongName "Novice in spletni dnevniki RSS">
-<!ENTITY rss.hostName "Novice in spletni dnevniki">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Novice in spletni dnevniki RSS">
+<!ENTITY feeds.wizardShortName "Viri">
+<!ENTITY feeds.wizardLongName "Novice in spletni dnevniki RSS">
+<!ENTITY feeds.wizardLongName.accesskey "F">

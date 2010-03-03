@@ -2,24 +2,25 @@
 
 <!ENTITY accountManagerTitle.label "Nastavitve računa">
 
-<!ENTITY addAccountButton.label "Dodaj račun ...">
-<!ENTITY addAccountButton.accesskey "A">
-<!ENTITY setDefaultButton.label "Nastavi kot privzeto">
-<!ENTITY setDefaultButton.accesskey "p">
-<!ENTITY duplicateButton.label "Podvojitev">
+<!ENTITY accountActionsButton.label "Dodaj račun ...">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Nastavi kot privzeto">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "Podvojitev">
+<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY setDefaultButton.label "R">
+<!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Odstrani račun">
-<!ENTITY removeButton.accesskey "R">
-
-<!ENTITY nameCol.label "Ime">
-<!ENTITY duplicate.label "Dvojno">
+<!ENTITY removeButton.accesskey "D">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
-     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 55em; height: 50em;"> 
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
-<!ENTITY accountTree.width   "width: 17em;">
+<!ENTITY accountManager.size "širina: 105ch; višina: 49em;">
+<!ENTITY accountTree.width "širina: 31ch;">

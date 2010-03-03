@@ -1,16 +1,19 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title             "Nastavitve prenosa">
+<!ENTITY window.title             "Nastavitve RSS">
 
-<!ENTITY feedFolder.label         "Shrani članke v: ">
+<!ENTITY feedFolder.label         "Shrani članke v:  ">
 <!ENTITY feedFolder.accesskey     "S">
 
-<!ENTITY feedLocation.label       "Prenesi URL: ">
-<!ENTITY feedLocation.accesskey   "U">
+<!ENTITY feedLocation.label       "URL spletnega vira: ">
+<!ENTITY feedLocation.accesskey   "F">
 
-<!ENTITY choosethisfolder.label   "izberi ta imenik">
+<!ENTITY choosethisfolder.label   "izberi to mapo">
 
 <!ENTITY quickMode.label          "Prikaži povzetek članka in ne nalagaj spletne strani">
-<!ENTITY quickMode.accesskey      "P">
+<!ENTITY quickMode.accesskey      "h">
 
-<!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave"> 
-<!ENTITY copyLinkCmd.accesskey    "K"> 
+<!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY pasteLinkCmd.label       "Prilepi">
+<!ENTITY pasteLinkCmd.accesskey   "p">

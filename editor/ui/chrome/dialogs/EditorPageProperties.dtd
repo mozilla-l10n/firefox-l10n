@@ -36,15 +36,15 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Page Properties">
-<!ENTITY location.label "Location:">
-<!ENTITY lastModified.label "Last Modified:">
-<!ENTITY titleInput.label "Title:">
+<!ENTITY windowTitle.label "Lastnosti strani">
+<!ENTITY location.label "Kje:">
+<!ENTITY lastModified.label "Zadnja sprememba:">
+<!ENTITY titleInput.label "Naslov:">
 <!ENTITY titleInput.accessKey "T">
-<!ENTITY authorInput.label "Author:">
+<!ENTITY authorInput.label "Avtor:">
 <!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "Description:">
+<!ENTITY descriptionInput.label "Opis:">
 <!ENTITY descriptionInput.accessKey "D">
-<!ENTITY locationNewPage.label "[New page, not saved yet]">
-<!ENTITY EditHEADSource1.label "Advanced users:">
-<!ENTITY EditHEADSource2.label "To edit other contents of the &lt;head&gt; region, use &quot;HTML Source&quot; in the View Menu or Edit Mode Toolbar.">
+<!ENTITY locationNewPage.label "[Nova stran, še ni shranjena]">
+<!ENTITY EditHEADSource1.label "Napredni uporabniki:">
+<!ENTITY EditHEADSource2.label "Če želite urediti drugo vsebino &lt;glavo&gt; področje, uporabite &quot;izvorno besedilo HTML &quot; v meniju Pogled ali v orodni vrstici za urejevalni način.">

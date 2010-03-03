@@ -1,6 +1,4 @@
-<!ENTITY server.label "Račun: ">
-<!ENTITY server.accesskey "A">
 <!ENTITY virtualFolderListTitle.title        "Izberi imenik(e)">
-<!ENTITY virtualFolderDesc.label       "Izberite imenike za iskanje:">
+<!ENTITY virtualFolderDesc.label       "Izberite mape za iskanje:">
 
 

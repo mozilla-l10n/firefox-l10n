@@ -34,32 +34,32 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Text Area Properties">
+<!ENTITY windowTitle.label "Lastnosti področja za besedilo">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Nastavitve">
 
-<!ENTITY TextAreaName.label "Field Name:">
+<!ENTITY TextAreaName.label "Ime polja:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Rows:">
-<!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Columns:">
+<!ENTITY TextAreaRows.label "Vrstice:">
+<!ENTITY TextAreaRows.accessKey "D">
+<!ENTITY TextAreaCols.label "Stolpci:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Read Only">
+<!ENTITY TextAreaReadOnly.label "Samo za branje">
 <!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Disabled">
+<!ENTITY TextAreaDisabled.label "Onemogočeno">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
+<!ENTITY TextAreaTabIndex.label "Indeks oznake:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Access Key:">
+<!ENTITY TextAreaAccessKey.label "Ključ za dostop:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
 <!ENTITY InitialText.label "Initial Text:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "Default">
-<!ENTITY WrapOff.value "Off">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Soft">
-<!ENTITY WrapPhysical.value "Physical">
-<!ENTITY WrapVirtual.value "Virtual">
+<!ENTITY TextAreaWrap.label "Z lomom besedila:">
+<!ENTITY TextAreaWrap.accessKey "t">
+<!ENTITY WrapDefault.value "Privzeto">
+<!ENTITY WrapOff.value "Izklopljeno">
+<!ENTITY WrapHard.value "Trdo">
+<!ENTITY WrapSoft.value "Mehko">
+<!ENTITY WrapPhysical.value "Fizično">
+<!ENTITY WrapVirtual.value "Virtualno">

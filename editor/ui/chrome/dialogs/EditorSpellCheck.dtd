@@ -40,32 +40,32 @@
 
 <!ENTITY misspelledWord.label "Nepravilno napisana beseda:">
 <!ENTITY wordEditField.label "Zamenjaj s/z:">
-<!ENTITY wordEditField.accessKey "e">
+<!ENTITY wordEditField.accessKey "w">
 <!ENTITY checkwordButton.label "Preglej besedo">
-<!ENTITY checkwordButton.accessKey "l">
+<!ENTITY checkwordButton.accessKey "k">
 <!ENTITY suggestions.label "Predlogi:">
-<!ENTITY suggestions.accessKey "d">
+<!ENTITY suggestions.accessKey "u">
 <!ENTITY ignoreButton.label "Spreglej">
-<!ENTITY ignoreButton.accessKey "g">
+<!ENTITY ignoreButton.accessKey "I">
 <!ENTITY ignoreAllButton.label "Spreglej vse">
-<!ENTITY ignoreAllButton.accessKey "r">
+<!ENTITY ignoreAllButton.accessKey "n">
 <!ENTITY replaceButton.label "Zamenjaj">
-<!ENTITY replaceButton.accessKey "z">
+<!ENTITY replaceButton.accessKey "D">
 <!ENTITY replaceAllButton.label "Zamenjaj vse">
 <!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Ustavi">
+<!ENTITY stopButton.label "Stop ">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Osebni slovar:">
 <!ENTITY moreDictionaries.label "Naloži dodatne slovarje ...">
 <!ENTITY addToUserDictionaryButton.label "Dodaj besedo">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Spremeni ...">
+<!ENTITY editUserDictionaryButton.label "Urejaj ...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Ponovno preglej stran">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton.accessKey "p">
 <!ENTITY closeButton.label "Zapri">
-<!ENTITY closeButton.accessKey "z">
+<!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "Pošlji">
-<!ENTITY sendButton.accessKey "p">
+<!ENTITY sendButton.accessKey "S">
 <!ENTITY languagePopup.label "Jezik:">
-<!ENTITY languagePopup.accessKey "z">
+<!ENTITY languagePopup.accessKey "L ">

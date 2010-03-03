@@ -36,14 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label			"izberi ta novičarski strežnik">
-<!ENTITY subscribeclickhere.label			"kliknite tukaj in izberite novičarski strežnik">
-<!ENTITY newfolderchoosethis.label			"izberi kot nadrejeno">
-<!ENTITY newfolderclickhere.label			"Kliknite tukaj za izbor">
-<!ENTITY renamefolderchoosethis.label			"izberi ta imenik">
-<!ENTITY renamefolderclickhere.label			"kliknite tukaj in izberite imenik">
-<!ENTITY filemessageschoosethis.label			"izberi ta imenik">
-<!ENTITY filemessagesclickhere.label			"kliknite tukaj in izberite imenik">
-<!ENTITY chooseaccountclickhere.label			"Kliknite tukaj in izberite račun">
-<!ENTITY choosefolderclickhere.label			"Kliknite tukaj in izberite imenik">
-<!ENTITY chooseserverToDeferTo.label      "kliknite sem za izbiro računa za shranjevanje sporočil">
+<!ENTITY newfolderchoosethis.label      "izberi tu za starša">
+<!ENTITY filemessageschoosethis.label   "izberi to mapo">

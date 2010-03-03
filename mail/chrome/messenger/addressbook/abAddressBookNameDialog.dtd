@@ -36,4 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY name.label			"Ime adresarja">
+<!ENTITY name.label      "Ime adresarja:">
+<!ENTITY name.accesskey  "A">

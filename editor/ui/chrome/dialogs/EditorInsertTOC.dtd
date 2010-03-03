@@ -37,14 +37,13 @@
 
 <!ENTITY Window.title        "Vsebina">
 <!ENTITY buildToc.label      "Izgradi vsebino iz:">
-<!ENTITY style.label         "Slog:">
-<!ENTITY tag.label           "Tag:">
+<!ENTITY tag.label           "Oznaka:">
 <!ENTITY class.label         "Razred:">
-<!ENTITY header1.label       "Nivo 1">
-<!ENTITY header2.label       "Nivo 2">
-<!ENTITY header3.label       "Nivo 3">
-<!ENTITY header4.label       "Nivo 4">
-<!ENTITY header5.label       "Nivo 5">
-<!ENTITY header6.label       "Nivo 6">
-<!ENTITY makeReadOnly.label  "Nastavi vsebino le za branje">
-<!ENTITY orderedList.label   "OštevilčI vse elemente vsebine">
+<!ENTITY header1.label       "Raven 1">
+<!ENTITY header2.label       "Raven 2">
+<!ENTITY header3.label       "Raven 3">
+<!ENTITY header4.label       "Raven 4">
+<!ENTITY header5.label       "Raven 5">
+<!ENTITY header6.label       "Raven 6">
+<!ENTITY makeReadOnly.label  "Nastavi kazalo na samo za branje">
+<!ENTITY orderedList.label   "Oštevilči vse postavke v kazalu">

@@ -37,22 +37,21 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Poštni seznam">
+<!ENTITY mailListWindow.title           "Seznam prejemnikov">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Dodaj v:">
+<!ENTITY addToAddressBook.label         "Dodaj v: ">
 
-<!ENTITY ListName.label                 "Ime seznama:">
-<!ENTITY ListNickName.label             "Vzdevek za seznam:">
-<!ENTITY ListDescription.label          "Opis:">
+<!ENTITY ListName.label                 "Ime seznama: ">
+<!ENTITY ListNickName.label             "Vzdevek za seznam: ">
+<!ENTITY ListDescription.label          "Opis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Vnesite e-poštne naslove, da jih dodate v poštni seznam:">
-<!ENTITY RemoveButton.label             "Odstrani">
-<!ENTITY UpButton.label                 "Premakni navzgor">
-<!ENTITY DownButton.label               "Premakni navzdol">
+<!ENTITY UpButton.label                 "Premakni gor">
+<!ENTITY DownButton.label               "Premakni dol">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "s">
+<!ENTITY ListName.accesskey             "L ">
 <!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "O">
+<!ENTITY ListDescription.accesskey      "i">
 

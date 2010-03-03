@@ -42,20 +42,19 @@
 <!ENTITY findField.label "Iskano besedilo:">
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Zamenjaj s/z:">
-<!ENTITY replaceField.accesskey "e">
+<!ENTITY replaceField.accesskey "i">
 <!ENTITY caseSensitiveCheckbox.label "Ujemanje malih in velikih črk">
-<!ENTITY caseSensitiveCheckbox.accesskey "j">
+<!ENTITY caseSensitiveCheckbox.accesskey "u">
 <!ENTITY wrapCheckbox.label "Znotraj besed">
 <!ENTITY wrapCheckbox.accesskey "t">
 <!ENTITY backwardsCheckbox.label "Išči nazaj">
-<!ENTITY backwardsCheckbox.accesskey "z">
+<!ENTITY backwardsCheckbox.accesskey "b">
 <!ENTITY findNextButton.label "Najdi naslednje">
-<!ENTITY findNextButton.accesskey "j">
+<!ENTITY findNextButton.accesskey "F">
 <!ENTITY replaceButton.label "Zamenjaj">
-<!ENTITY replaceButton.accesskey "n">
+<!ENTITY replaceButton.accesskey "D">
 <!ENTITY replaceAndFindButton.label "Zamenjaj in najdi">
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "Zamenjaj vse">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Zapri">
-<!ENTITY notFoundWarning.label "Vnešenega besedila ni moč najti.">

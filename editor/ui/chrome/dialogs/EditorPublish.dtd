@@ -35,54 +35,64 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!-- Window title -->
-<!ENTITY windowTitle.label         "Publish Page">
-<!ENTITY windowTitleSettings.label "Publish Settings">
-
-<!ENTITY publishTab.label         "Publish">
-<!ENTITY settingsTab.label        "Settings">
-
-<!ENTITY publishButton.label      "Publish">
+<!ENTITY windowTitle.label            "Objavi stran">
+<!ENTITY windowTitleSettings.label    "Nastavitve za objavo">
+<!ENTITY publishTab.label             "Objavi">
+<!ENTITY settingsTab.label            "Nastavitve">
+<!ENTITY publishButton.label          "Objavi">
 
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label           "Site Name:">
-<!ENTITY siteList.tooltip         "Choose the site that you want to publish to">
-<!ENTITY newSiteButton.label      "New Site">
-<!ENTITY siteDirList.label        "Select or type a directory name in your publishing site:">
-<!ENTITY siteDirList.tooltip      "Choose or enter the name of the remote subdirectory to publish to">
-<!ENTITY docDirList.label         "Site subdirectory for this page:">
-<!ENTITY publishImgCheckbox.label "Include images and other files">
-<!ENTITY publishImgCheckbox.tooltip "Publish images and other files referenced by this page">
-<!ENTITY sameLocationRadio.label  "Use same location as page">
-<!ENTITY sameLocationRadio.tooltip "Publish files to the same location as the page">
-<!ENTITY useSubdirRadio.label     "Use this site subdirectory:">
-<!ENTITY useSubdir.tooltip        "Choose or enter name of remote subdirectory where files will be published">
-<!ENTITY chooseDirButton.label    "Choose...">
-<!ENTITY pageTitle.label          "Page Title:">
-<!ENTITY pageTitle.tooltip        "Enter a title to identify the page in the window and in bookmarks">
-<!ENTITY pageTitleExample.label   "e.g.: &quot;My Web Page&quot;">
-<!ENTITY filename.label           "Filename:">
-<!ENTITY filename.tooltip         "Enter a name for this file, including '.html' for a web page">
-<!ENTITY filenameExample.label    "e.g,: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label        "Other files to publish">
-<!ENTITY setDefaultButton.label   "Set as Default">
-<!ENTITY setDefSiteAndDir.label   "Set as Default Site and Directory">
-<!ENTITY removeButton.label       "Remove Site">
+<!ENTITY siteList.label               "Ime spletišča:">
+<!ENTITY siteList.accesskey           "i">
+<!ENTITY siteList.tooltip             "Izberite spletišče, kjer želite objaviti">
+<!ENTITY newSiteButton.label          "New Site">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Podimenik na spletišču za to stran:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Izberite ali vnesite ime oddaljenega podimenika za to stran">
+<!ENTITY publishImgCheckbox.label     "Vključi slike in druge datoteke">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip   "Objavi slike in druge pridružene datoteke, na katere se ta stran sklicuje">
+<!ENTITY sameLocationRadio.label      "Uporabi isto mesto kot za stran">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.tooltip    "Objavi datoteko na isto mesto kot stran">
+<!ENTITY useSubdirRadio.label         "Uporabi ta podimenik spletišča:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Objavi datoteke na izbrani oddaljeni podimenik">
+<!ENTITY otherDirList.tooltip         "Izberite ali vnesite ime oddaljenega podimenika, kamor naj se datoteke za objavo premese">
+<!ENTITY pageTitle.label              "Naslov strani">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Vnesite naslov, ki bo označeval stran v oknu in v zaznamkih">
+<!ENTITY pageTitleExample.label       "npr.: &quot;Moja spletna stran&quot;">
+<!ENTITY filename.label               "Ime datoteke">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY filename.tooltip             "Vnesite ime za to datoteko, vključno s '.html' za spletno stran ">
+<!ENTITY filenameExample.label        "npr.: &quot;mojastran.html&quot;">
+<!ENTITY setDefaultButton.label       "R">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY removeButton.label           "Odstrani stran">
+<!ENTITY removeButton.accesskey       "D">
 
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label   "Publishing Sites">
-<!ENTITY serverInfo.label     "Server Information">
-<!ENTITY loginInfo.label      "Login Information">
-<!ENTITY siteName.label       "Site Name:">
-<!ENTITY siteName.tooltip     "A nickname that identifies this publishing site (e.g.: 'MySite')">
-<!ENTITY siteUrl.label        "Publishing address (e.g.: 'ftp://ftp.myisp.com/myusername'):">
-<!ENTITY siteUrl.tooltip      "The FTP:// or HTTP:// address provided by your ISP or web hosting service">
-<!ENTITY browseUrl.label      "HTTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):">
-<!ENTITY browseUrl.tooltip    "The HTTP:// address of your home directory (don't include filename)">
-<!ENTITY username.label       "User name:">
-<!ENTITY username.tooltip     "The user name you use to log in to your ISP or web hosting service">
-<!ENTITY password.label       "Password:">
-<!ENTITY password.tooltip     "The password associated with your user name">
-<!ENTITY savePassword.label   "Save Password">
-<!ENTITY savePassword.tooltip "Select this to save your password securely using Password Manager">
+<!ENTITY publishSites.label           "Spletišča za objavo">
+<!ENTITY serverInfo.label             "Podatki o strežniku">
+<!ENTITY loginInfo.label              "Podatki za login">
+<!ENTITY siteName.label               "Ime spletišča:">
+<!ENTITY siteName.accesskey           "i">
+<!ENTITY siteName.tooltip             "Vzdevek za to mesto za objavo (npr.: 'MojSplet')">
+<!ENTITY siteUrl.label                "Naslov za objavo(e.g.: 'ftp://ftp.myisp.com/mojeime'):">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "Naslov FTP:// ali HTTP://, ki ste ga dobili od svojega ISP ali ponudnika spletnih storitev">
+<!ENTITY browseUrl.label              "HTTP naslov vaše spletne strani(npr.: 'http://www.myisp.com/mojeime'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "Naslov HTTP:// vašega domačega imenika (ne vključujte imena datoteke)">
+<!ENTITY username.label               "Uporabniško ime:">
+<!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip             "Uporabniško ime, s katerim se prijavljate pri svojem ISP ali ponudniku spletnih storitev">
+<!ENTITY password.label               "Geslo:">
+<!ENTITY password.accesskey           "w">
+<!ENTITY password.tooltip             "Geslo, ki je povezano z vašim uporabniškim imenom">
+<!ENTITY savePassword.label           "Shrani geslo">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Izberite to, da svoje geslo varno shranite s pomočjo Skrbnika za gesla">

@@ -35,46 +35,34 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY GeneratedName.label                   "Ime">
-<!ENTITY GeneratedName.accesskey               "I">
-<!ENTITY PrimaryEmail.label                    "E-poštni naslov">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "E-pošta">
 <!ENTITY PrimaryEmail.accesskey                "E">
-<!ENTITY Company.label                         "Podjetje">
-<!ENTITY Company.accesskey                     "p">
-<!ENTITY _PhoneticName.label                   "Fonetsko ime">
+<!ENTITY Company.label                         "Organizacija">
+<!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "Fonetično ime">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Vzdevek">
-<!ENTITY NickName.accesskey                    "V">
-<!ENTITY SecondEmail.label                     "Dodatni E-poštni naslov">
+<!ENTITY NickName.accesskey                    "L">
+<!ENTITY SecondEmail.label                     "Dodatna e-pošta">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Oddelek">
-<!ENTITY Department.accesskey                  "O">
-<!ENTITY JobTitle.label                        "Naziv">
-<!ENTITY JobTitle.accesskey                    "N">
-<!ENTITY CellularNumber.label                  "Mobilni telefon">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "Naslov">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Mobi ">
 <!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Pozivnik">
-<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY PagerNumber.accesskey                 "p">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Telefon (doma)">
-<!ENTITY HomePhone.accesskey                   "d">
-<!ENTITY WorkPhone.label                       "Telefon (služba)">
-<!ENTITY WorkPhone.accesskey                   "s">
-<!ENTITY ScreenName.label                      "Vzdevek">
-<!ENTITY ScreenName.accesskey                  "v">
+<!ENTITY HomePhone.label                       "Telefon doma">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "Telefon v službi">
+<!ENTITY WorkPhone.accesskey                   "t">
+<!ENTITY ScreenName.label                      "Ime zaslona">
+<!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY sortAscending.label                   "Naraščajoče">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Padajoče">
 <!ENTITY sortDescending.accesskey              "D">
-
-<!-- context menu -->
-<!ENTITY composeEmail.label                    "Sestavi e-poštno sporočilo za">
-<!ENTITY composeEmail.accesskey                "s">
-<!ENTITY deleteAddrBookCard.label              "Izbriši">
-<!ENTITY deleteAddrBookCard.accesskey          "b">
-<!ENTITY newAddrBookCard.label                 "Nova vizitka ...">
-<!ENTITY newAddrBookCard.accesskey             "N">
-<!ENTITY newAddrBookMailingList.label          "Nov poštni seznam ...">
-<!ENTITY newAddrBookMailingList.accesskey      "M">
-<!ENTITY addrBookCardProperties.label          "Lastnosti">
-<!ENTITY addrBookCardProperties.accesskey      "l">

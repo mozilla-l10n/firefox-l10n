@@ -1,74 +1,76 @@
-<!ENTITY  fontsDialog.title                       "Pisave">
+<!ENTITY  fontsAndEncodingsDialog.title           "Pisave in kodiranja">
 <!ENTITY  window.width                            "45em">
 <!ENTITY  window.macWidth                         "47em">
 <!ENTITY  window.unixWidth                        "45em">
 
 <!ENTITY  language.label                          "Pisave za:">
-<!ENTITY  language.accesskey                      "v">
+<!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Pisava">
-<!ENTITY  sizes.label                             "Velikost">
+<!ENTITY  size.label                              "Velikost:">
+<!ENTITY  proportionalSize.accesskey              "i">
+<!ENTITY  sizeMono.accesskey                      "L">
 
-<!ENTITY  proportional.label                      "Spremenljivokoračna pisava:">
-<!ENTITY  proportional.accesskey                  "s">
+<!ENTITY  proportional.label                      "Spremenljiva pisava:">
+<!ENTITY  proportional.accesskey                  "p">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "n">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Enokoračna pisava:">
-<!ENTITY  monospace.accesskey                     "e">
-
-<!ENTITY  fontsize.units                          "pike">
+<!ENTITY  monospace.label                         "Enoširinska pisava:">
+<!ENTITY  monospace.accesskey                     "s">
 
 <!ENTITY  font.langGroup.latin1                   "zahodno">
 <!ENTITY  font.langGroup.latin2                   "srednjeevropsko">
-<!ENTITY  font.langGroup.japanese                 "japonsko">
+<!ENTITY  font.langGroup.japanese                 "Japonščina">
 <!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajsko (Tajvan)">
-<!ENTITY  font.langGroup.simpl-chinese            "poenostavljeno kitajsko">
+<!ENTITY  font.langGroup.simpl-chinese            "Poenostavljeno kitajsko">
 <!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajsko (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "korejsko">
+<!ENTITY  font.langGroup.korean                   "Korejščina">
 <!ENTITY  font.langGroup.cyrillic                 "cirilica">
 <!ENTITY  font.langGroup.baltic                   "baltsko">
-<!ENTITY  font.langGroup.el                       "grško">
-<!ENTITY  font.langGroup.turkish                  "turško">
+<!ENTITY  font.langGroup.el                       "Grščina">
+<!ENTITY  font.langGroup.turkish                  "Turščina">
 <!ENTITY  font.langGroup.unicode                  "Unicode">
-<!ENTITY  font.langGroup.user-def                 "uporabniško določeno">
-<!ENTITY  font.langGroup.thai                     "tajsko">
-<!ENTITY  font.langGroup.hebrew                   "hebrejsko">
-<!ENTITY  font.langGroup.arabic                   "arabsko">
+<!ENTITY  font.langGroup.user-def                 "Uporabniško določeno">
+<!ENTITY  font.langGroup.thai                     "Tajščina">
+<!ENTITY  font.langGroup.hebrew                   "Hebrejščina">
+<!ENTITY  font.langGroup.arabic                   "Arabščina">
 <!ENTITY  font.langGroup.devanagari               "devanagari">
-<!ENTITY  font.langGroup.tamil                    "tamilsko">
-<!ENTITY  font.langGroup.armenian                 "armensko">
-<!ENTITY  font.langGroup.bengali                  "bengalsko">
+<!ENTITY  font.langGroup.tamil                    "Tamilščina">
+<!ENTITY  font.langGroup.armenian                 "Armenščina">
+<!ENTITY  font.langGroup.bengali                  "Bengalščina">
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "etiopsko">
-<!ENTITY  font.langGroup.georgian                 "gruzijsko">
-<!ENTITY  font.langGroup.gujarati                 "gujarati">
+<!ENTITY  font.langGroup.georgian                 "Gruzinščina">
+<!ENTITY  font.langGroup.gujarati                 "Gudžarati">
 <!ENTITY  font.langGroup.gurmukhi                 "gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "kmersko">
-<!ENTITY  font.langGroup.malayalam                "malajalamsko">
+<!ENTITY  font.langGroup.khmer                    "Kamboščina">
+<!ENTITY  font.langGroup.malayalam                "Malajalamščina">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Najmanjša velikost pisav:">
-<!ENTITY minSize.accesskey                        "m">
-<!ENTITY minSize.none                             "je ni">
+<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.none                             "Nič">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  newLanguages.label                      "Druge jezike lahko določite z nastavitvami jezikov.">
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Nadzor pisav">
+<!ENTITY  useFixedWidthForPlainText.label         "Za sporočila v golem besedilu uporabi pisavo s fiksno širino">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Dovoli, da sporočila uporabljajo  druge pisave">
+<!ENTITY  useDocumentFonts.accesskey              "o">
 
-<!ENTITY  useDocumentFonts.label                   "Dovoli sporočilom, da uporabljajo lastne pisave namesto mojih izborov">
-<!ENTITY  useDocumentFonts.accesskey               "h">
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Odhajajoča pošta:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label            "Nabori znakov">
+<!ENTITY composingDescription.label       "Nastavi privzete nabore znakov za pošiljanje in prejemanje pošte">
 
-<!-- font scaling -->
-<!ENTITY  resolution.label                        "Prikazovalna ločljivost:">
-<!ENTITY  resolution.accesskey                    "r">
-<!-- LOCALIZATION NOTE (resolution.dpi): dpi stands for "dots per inch" -->
-<!ENTITY  resolution.dpi                          "dpi">
-<!-- LOCALIZATION NOTE (resolution.dpi): $val will be replaced by a numeric dpi value. -->
-<!ENTITY  resolution.dpival                       "$val &resolution.dpi;">
-<!ENTITY  resolution.system.label                 "Sistemska nastavitev">
-<!ENTITY  resolution.other                        "Drugo ...">
+<!ENTITY viewDefaultCharsetList.label     "Prihajajoča pošta:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset2.label     "Po možnosti za odgovore uporabi privzeti nabor znakov">
+<!ENTITY replyInDefaultCharset2.accesskey "h">

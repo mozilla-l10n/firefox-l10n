@@ -1,8 +1,5 @@
-<!ENTITY credit.title     "O &brandFullName;u">
+<!ENTITY credit.title     "&brandFullName; Credits">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
-<!ENTITY credit.leads     "Vodji tehnologije">
-<!ENTITY credit.core      "Nadzor temeljnega razvoja">
-<!ENTITY credit.gecko     "Upodobitvena tehnologija Gecko">
 <!ENTITY credit.thanks    "Posebne zahvale">
 
 <!-- localization credits look like this: -->
@@ -10,21 +7,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation '<h3>Prevod</h3><ul><li>Aleks Reinhardt</li><li>glej <a href="http://mozilla.lugos.si/" target="_blank">Mozilla.Lugos.Si</a></li></ul>'>
+<!ENTITY credit.translation "">
 
-<!ENTITY credit.visuals     "Koordinator vizualnega designa">
-<!ENTITY credit.theme       "Design teme">
-<!ENTITY credit.brand       "Identiteta znamke">
-<!ENTITY credit.web         "Spletna stran">
-<!ENTITY credit.update      "Posodobitveni program">
-<!ENTITY credit.qalead      "Vodja zagotavljanja kakovosti">
-<!ENTITY credit.qa          "Zagotavljanje kakovosti">
-<!ENTITY credit.build       "Gradnja in izdaja">
-<!ENTITY credit.infra       "Infrastrukturna podpora">
-<!ENTITY credit.support     "Podpora">
-<!ENTITY credit.manage      "Vodenje projekta">
-<!ENTITY credit.marketleads "Vodje trženja">
-<!ENTITY credit.market      "Trženje">
-<!ENTITY credit.creators    "Avtorji">
-<!ENTITY credit.memory      "V spomin na">
-<!ENTITY credit.poweredByGecko     "Upodobitev s tehnologijo Gecko&trade;">
+<!ENTITY credit.memory         "V spomin na">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

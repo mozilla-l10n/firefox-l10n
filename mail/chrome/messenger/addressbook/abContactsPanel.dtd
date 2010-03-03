@@ -1,16 +1,18 @@
-
 <!ENTITY addressbookPicker.label            "Adresar:">
-<!ENTITY searchInput.label                  "Išči po:">
-<!ENTITY SearchNameOrEmail.label            "Ime ali e-pošta">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "Poišči:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "Ime ali E-pošta">
 
+<!ENTITY deleteAddrBookCard.label           "Izbriši">
+<!ENTITY addrBookCardProperties.label       "Lastnosti">
 <!ENTITY addtoToFieldMenu.label             "Dodaj v polje Za">
-<!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Cc">
-<!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Bcc">
+<!ENTITY addtoCcFieldMenu.label             "Dodaj v polje Kp">
+<!ENTITY addtoBccFieldMenu.label            "Dodaj v polje Skp">
 
 <!ENTITY toButton.label                     "Dodaj v Za:">
-<!ENTITY ccButton.label                     "Dodaj v Cc:">
-
-
-
-
-
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Dodaj v Kp:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Dodaj v Skp:">
+<!ENTITY bccButton.accesskey                "B">

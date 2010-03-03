@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Nastavitve identitete">
 <!ENTITY identityListDesc.label "Spremenite nastavitve te identitete:">
 

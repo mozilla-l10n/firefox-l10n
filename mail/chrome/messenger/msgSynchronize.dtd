@@ -1,19 +1,19 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Prenesi in sinhroniziraj sporočila">
-<!ENTITY MsgSelect.label "Elementi za rabo v nepovezanem načinu">
-<!ENTITY MsgSyncDesc.label "Če ste že izbrali poštne imenike in novičarske skupine za rabo v nepovezanem načinu, jih lahko sedaj prenesete in/ali sinhronizirate. V nasprotnem primeru uporabite gumb &quot;Izberi&quot; in jih izberite.">
-<!ENTITY MsgSyncDirections.label "Prenesi in/ali sinhroniziraj naslednje:">
+<!ENTITY MsgSynchronize.label "Download and Sync Messages">
+<!ENTITY MsgSelect.label "Elementi za rabo v načinu brez povezave">
+<!ENTITY MsgSyncDesc.label "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use.">
+<!ENTITY MsgSyncDirections.label "Download and/or sync the following:">
 <!ENTITY syncTypeMail.label "Poštna sporočila">
-<!ENTITY syncTypeMail.accesskey "s">
+<!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Sporočila novičarskih skupin">
 <!ENTITY syncTypeNews.accesskey "N">
 <!ENTITY sendMessage.label "Pošlji neodposlana sporočila">
 <!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Vključi nepovezan način, ko se konča prenos ali sinhronizacija">
-<!ENTITY workOffline.accesskey "n">
+<!ENTITY workOffline.label "Work offline once download and/or sync is complete">
+<!ENTITY workOffline.accesskey "t">
 <!ENTITY selectButton.label "Izberi ...">
 <!ENTITY selectButton.accesskey "E">
-<!ENTITY MsgSelectDesc.label "Izberite poštne imenike in novičarske skupine za rabo v nepovezanem načinu.">
+<!ENTITY MsgSelectDesc.label "Izberite poštne imenike in novičarske skupine za rabo v načinu brez povezave.">
 <!ENTITY MsgSelectInd.label "Prenesi">
 <!ENTITY MsgSelectItems.label "Imeniki in novičarske skupine">

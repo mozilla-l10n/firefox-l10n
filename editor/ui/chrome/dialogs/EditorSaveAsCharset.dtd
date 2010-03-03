@@ -40,11 +40,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Shranjevanje s spremembo nabora znakov">
-<!ENTITY documentTitleTitle.label "Ime strani">
+<!ENTITY windowTitle.label "Shrani in spremeni nabor znakov">
+<!ENTITY documentTitleTitle.label "Naslov strani">
 <!ENTITY documentCharsetTitle.label "Nabor znakov">
-<!ENTITY documentCharsetDesc.label "Izberite želeni nabor znakov:">
-<!ENTITY documentExportToText.label "Izvoz v besedilo">
+<!ENTITY documentCharsetDesc.label "Izberite nabor znakov, s katerim želite shraniti dokument:">
+<!ENTITY documentExportToText.label "Izvozi v besedilo">
 
 
 
