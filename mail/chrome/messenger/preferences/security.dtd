@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "Smeti">
+<!ENTITY itemPhishing.label      "E-poštne prevare">
+<!ENTITY itemPasswords.label     "Gesla">
+<!ENTITY itemAntiVirus.label     "Protivirusni">
+<!ENTITY itemCookies.label       "Spletna vsebina">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Za račun tipične nastavitve za neželeno pošto se lahko priredi v nastavitvah računa. ">
+<!ENTITY manualMark.label "Ko označim sporočila kot neželena:">
+<!ENTITY manualMark.accesskey "t">
+<!ENTITY manualMarkModeMove.label "Jih prestavi v mapo &quot;Neželeno&quot;">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Jih izbriši">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Označi nezaželena sporočila kot prebrana">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Aktiviraj dnevnik filtra neželenih sporočil">
+<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "Pokaži dnevnik">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Ponastavi podatke za učenje">
+<!ENTITY resetTrainingData.accesskey "D">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; lahko preveri, ali je sum e-poštne prevare utemeljen tako, da v sporočilu išče pogosto uporabljene metode za zavajanje.">
+<!ENTITY enablePhishingDetector1.label    "Povej mi, če sumiš, da je sporočilo, ki ga berem,  e-poštna prevara">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY useDownloadedList.label "Uporabi prenesen spisek sumov na e-poštno prevaro">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; si lahko zapomni gesla za vse vaše račune.">
+<!ENTITY useMasterPassword.label        "Uporabi glavno geslo">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.">
+<!ENTITY changeMasterPassword.label     "Nastavi glavno geslo ...">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Shranjena gesla...">
+<!ENTITY savedPasswords.accesskey       "S">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira,  preden se jih shrani lokalno.">
+<!ENTITY antiVirus.label      "Dovoli protivirusnim odjemalcem, da posamezna prejeta sporočila spravijo v karanteno">
+<!ENTITY antiVirus.accesskey  "A">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; vam omogoča, da navedete,  katerim blogom, novičarskim virom, in ostalim spletnim stranem bo dovoljeno ustvarjati piškotke.">
+<!ENTITY acceptCookies.label            "Dovoli stranem, da ustvarijo piškote.">
+<!ENTITY acceptCookies.accesskey        "u">
+<!ENTITY keepUntil.label                "Obdrži jih:">
+<!ENTITY keepUntil.accesskey            "K">
+<!ENTITY expire.label                   "Dokler ne pretečejo">
+<!ENTITY close.label                    "Dokler ne zaprem &brandShortName;a">
+<!ENTITY askEachTime.label              "Vsakokrat me vprašaj">
+<!ENTITY cookieExceptions.label         "Izjeme ...">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Pokaži piškote ...">
+<!ENTITY showCookies.accesskey          "S">
+

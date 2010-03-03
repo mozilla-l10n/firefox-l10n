@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Nastavitve za smeti ">
+<!ENTITY trainingWarning.label "Če se odločite za to izbiro, morate najprej s pomočjo gumba za za nezaželeno pošto v orodni vrstici sporočila označevati kot nezaželena ali zaželena, tako da se &brandShortName; lahko nauči, kako nezaželeno pošto razpoznati. Označiti morate tako zaželena kot tudi zaželena poročila. ">
+<!ENTITY level.label "Omogoči za ta račun prilagodljiv nadzor nad nezaželeno pošto">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "Nova nezaželena sporočila prestavi v:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "Mapa &quot;Nezaželeno&quot; na:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "Drugo:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Samodejno zbriši nezaželeno pošto, ki je starejša od:">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "dni">
+
+<!ENTITY whitelist.label "Ne označi kot neželeno pošto, če je pošiljatelj v: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "Zaupaj glavam nezaželene pošte, kot je nastavil: ">
+<!ENTITY ispHeaders.accesskey "T">
