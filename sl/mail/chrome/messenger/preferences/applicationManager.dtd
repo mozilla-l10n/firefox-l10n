@@ -1,0 +1,4 @@
+<!ENTITY appManager.title     "Podrobnosti programa">
+<!ENTITY appManager.style     "širina: 30em; min-višina: 20em;">
+<!ENTITY remove.label         "Odstrani">
+<!ENTITY remove.accesskey     "D">

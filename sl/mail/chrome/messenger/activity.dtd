@@ -1,0 +1,33 @@
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more activities in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300">
+
+<!ENTITY activity.title                  "Upravitelj dejavnosti ">
+
+<!ENTITY cmd.pause.label                  "Premor">
+<!ENTITY cmd.pause.accesskey              "p">
+<!ENTITY cmd.resume.label                 "Nadaljuj">
+<!ENTITY cmd.resume.accesskey             "D">
+<!ENTITY cmd.cancel.label                 "Prekliči">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.undo.label                   "Prekliči">
+<!ENTITY cmd.undo.accesskey               "U">
+<!ENTITY cmd.recover.label                "Obnovi">
+<!ENTITY cmd.recover.accesskey            "p">
+<!ENTITY cmd.retry.label                  "Poizkusi znova">
+<!ENTITY cmd.retry.accesskey              "D">
+<!ENTITY cmd.removeFromList.label         "Odstrani s seznama">
+<!ENTITY cmd.removeFromList.accesskey     "i">
+
+<!ENTITY cmd.close.commandkey             "w">
+<!ENTITY cmd.close2.commandkey            "j">
+<!ENTITY cmd.close2Unix.commandkey        "y">
+<!ENTITY cmd.clearList.label              "Počisti seznam">
+<!ENTITY cmd.clearList.tooltip            "Odstrani zaključene, preklicane in neuspele postavke iz seznama">
+<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.find.commandkey              "p">
+<!ENTITY cmd.search.commandkey            "k">
+
+<!ENTITY searchBox.label                  "Išči …">

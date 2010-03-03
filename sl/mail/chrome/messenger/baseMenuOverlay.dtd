@@ -1,0 +1,23 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Pomoč">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Pomoč">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY releaseCmd.label "Opombe ob izdaji">
+<!ENTITY releaseCmd.accesskey "D">
+<!ENTITY whatsNewCmd.label "What's New">
+<!ENTITY whatsNewCmd.accesskey "t">
+<!ENTITY featureConfiguratorCmd.label "Migration Assistant">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
+<!ENTITY openHelp.label "Vsebina pomoči">
+<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "Pomoč &brandShortName;">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label "Preverjam za posodobitve...">
+<!ENTITY aboutMenuCmd.label "About &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "A">
