@@ -1,8 +1,0 @@
-<!ENTITY junkLog.title "Zapisnik neželene pošte">
-<!ENTITY junkLogInfo.text "Zapisnik filtrov je datoteka, v katero se zapisuje aktivnosti nadzora neželene pošte. Izberite spodnjo možnost, da omogočite ta zapisnik.">
-<!ENTITY clearLog.label "Počisti zapisnik">
-<!ENTITY clearLog.accesskey "o">
-<!ENTITY enableLog.label "Omogoči zapisnik neželene pošte">
-<!ENTITY enableLog.accesskey "E">
-<!ENTITY closeLog.label "Zapri">
-<!ENTITY closeLog.accesskey "z">
