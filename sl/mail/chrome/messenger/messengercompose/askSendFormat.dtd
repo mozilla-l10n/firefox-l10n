@@ -3,23 +3,14 @@
 
 <!ENTITY recipient.label "Nekateri prejemniki niso na seznamu tistih, ki lahko prejemajo pošto HTML.">
 
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleYes.label "Sporočilo je mogoče pretvoriti v navadno besedilo brez izgube informacij.">
-<!ENTITY convertibleAltering.label "Sporočilo je mogoče pretvoriti v navadno besedilo brez izgube pomembnih informacij. Možno pa je, da bo nova različica videti drugače, kot je v oknu za sestavljanje sporočil.">
-<!ENTITY convertibleNo.label "Uporabili pa ste oblikovanje (npr. barve), ki ne bo pretvorjeno v navadno besedilo.">
-
 <!ENTITY question.label "Želite pretvoriti sporočilo v navadno besedilo, ali ga poslati kot HTML?">
 
 <!ENTITY plainTextAndHtml.label "Pošlji kot navadno besedilo in HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
 <!ENTITY plainTextOnly.label "Pošlji samo kot navadno besedilo">
+<!ENTITY plainTextOnly.accesskey "p">
 <!ENTITY htmlOnly.label "Pošlji samo kot HTML">
-
-<!ENTITY plainTextAndHtmlRecommended.label "Pošlji kot navadno besedilo in HTML (priporočeno)">
-<!ENTITY plainTextOnlyRecommended.label "Pošlji samo kot navadno besedilo (priporočeno)">
-<!ENTITY htmlOnlyRecommended.label "Pošlji samo kot HTML (priporočeno)">
-<!ENTITY recommended.label "(priporočeno)">
+<!ENTITY htmlOnly.accesskey "H">
 
 <!ENTITY send.label "Pošlji">
-<!ENTITY cancel.label "Prekliči">
-<!ENTITY recipients.label "Prejemniki ...">
-<!ENTITY help.label "Pomoč">
+<!ENTITY send.accesskey "S">

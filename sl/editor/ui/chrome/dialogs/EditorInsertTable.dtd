@@ -39,12 +39,12 @@
 <!ENTITY windowTitle.label "Vstavi tabelo">
 
 <!ENTITY size.label "Velikost">
-<!ENTITY numRowsEditField.label "Vrstic:">
-<!ENTITY numRowsEditField.accessKey "R">
-<!ENTITY numColumnsEditField.label "Stolpcev:">
+<!ENTITY numRowsEditField.label "Vrstice:">
+<!ENTITY numRowsEditField.accessKey "D">
+<!ENTITY numColumnsEditField.label "Stolpci:">
 <!ENTITY numColumnsEditField.accessKey "C">
 <!ENTITY widthEditField.label "Dolžina:">
-<!ENTITY widthEditField.accessKey "d">
+<!ENTITY widthEditField.accessKey "t">
 <!ENTITY borderEditField.label "Rob:">
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Vpišite število za velikost roba, oziroma nič (0) za brez roba">

@@ -1,33 +1,54 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Zaradi varčevanja s prostorom na disku ne prenesi:">
-<!ENTITY doNotDownload.label "Zaradi varčevanja s prostorom na disku ne prenesi za uporabo brez povezave:">
-<!ENTITY offlineNewFolder.label "Novoustvarjeni imeniki naj bodo nastavljeni za uporabo v stanju brez povezave">
-<!ENTITY offlineNewFolder.accesskey "u">
-<!ENTITY offlineNotDownload.label "sporočil, večjih od">
-<!ENTITY offlineNotDownload.accesskey "S">
+<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
+<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
+<!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, je mogoče prenos in lokalno hranjenje sporočil za delo brez povezave omejiti glede da njih starost ali velikost.">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY offlineNotDownload.label "Messages larger than">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
+<!ENTITY autosyncNotDownload.accesskey "s">
 <!ENTITY kb.label "kB">
-<!ENTITY days.label "dneh">
-<!ENTITY daysOld.label "dni">
-<!ENTITY message.label "sporočil">
-<!ENTITY nntpNotDownloadRead.label "Prebrana sporočila">
-<!ENTITY nntpNotDownloadRead.accesskey "R">
-<!ENTITY nntpDownloadMsg.label "Sporočila, starejša od">
-<!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Ohrani:">
-<!ENTITY retentionKeepMsg.label "sporočila, prejeta v zadnjih">
-<!ENTITY retentionKeepMsg.accesskey "z">
-<!ENTITY retentionKeepAll.label "vsa sporočila">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "najnovejših">
-<!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "samo neprebrana sporočila">
-<!ENTITY retentionKeepUnread.accesskey "s">
-<!ENTITY nntpRemoveBody.label "samo sporočila, stara manj kot">
-<!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Izberi novičarske skupine za uporabo brez povezave ...">
-<!ENTITY offlineSelectImap.label "Izberi imenike za uporabo brez povezave ...">
-<!ENTITY offlineSelect.accesskey "z">
-<!ENTITY offlineDesc.label "Sporočila lahko prenesete tudi na lokalno mesto, tako da so vam na voljo tudi, ko niste povezani s strežnikom.">
-<!ENTITY makeInboxMsgsAvailable.label "Sporočila v imeniku Prejeto naj bodo na voljo v stanju brez povezave">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Brez povezave">
+<!ENTITY daysOld.label "days old">
+<!ENTITY message.label "messages">
+<!ENTITY nntpNotDownloadRead.label "Beri sporočila">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "Messages more than">
+<!ENTITY nntpDownloadMsg.accesskey "i">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionKeepMsg.label "Delete messages more than">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Don't delete any messages">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "b">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Napredno ...">
+<!ENTITY offlineImapAdvancedOffline.accesskey "p">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Synchronize all messages locally regardless of age">
+<!ENTITY allAutosync.accesskey           "u">
+<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Days">
+<!ENTITY weekAgeInterval.label           "Weeks">
+<!ENTITY monthAgeInterval.label          "Months">
+<!ENTITY yearAgeInterval.label           "Years">
+<!ENTITY ageAutosyncAfter.label          "">

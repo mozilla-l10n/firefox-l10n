@@ -37,12 +37,12 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "Pritrdi na mrežo">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "omogoči Pritrdi na mrežo">
+<!ENTITY enableSnapToGrid.accessKey "i">
 
-<!ENTITY sizeEditField.label "Size:">
+<!ENTITY sizeEditField.label "Velikost:">
 <!ENTITY sizeEditField.accessKey "S">
 
-<!ENTITY pixelsLabel.value "pixels">
+<!ENTITY pixelsLabel.value "pik">

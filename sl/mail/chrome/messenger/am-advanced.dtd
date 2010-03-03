@@ -4,19 +4,20 @@
 <!ENTITY smtpServer.label "Nastavitve strežnika za odhodno pošto (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Določiti je potrebno samo en strežnik za odhodno pošto (SMTP), tudi če imate več poštnih računov. Vnesite ime strežnika za odhodna sporočila.">
+<!ENTITY smtpDesc.label "Lahko navedete več koz samo eden izhodni strežnik (SMTP), to priporočamo samo naprednim uporabnikom. Če nastavite več strežnikov SMTP,  lahko zaradi tega med pošiljanjem sporočil pride do napak.">
 
-<!ENTITY smtpListAdd.label  "Dodaj ...">
+<!ENTITY smtpListAdd.label  "Dodaj...">
 <!ENTITY smtpListAdd.accesskey  "d">
 <!ENTITY smtpListEdit.label "Urejaj ...">
-<!ENTITY smtpListEdit.accesskey "e">
+<!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Odstrani">
-<!ENTITY smtpListDelete.accesskey "O">
+<!ENTITY smtpListDelete.accesskey "s">
 <!ENTITY smtpListSetDefault.label "Nastavi za privzeto">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
 <!ENTITY serverDescription.label "Opis: ">
-<!ENTITY serverName.label "Ime strežnika: ">
+<!ENTITY serverName.label "Ime strežnika:  ">
 <!ENTITY serverPort.label "Vrata: ">
 <!ENTITY userName.label   "Uporabniško ime: ">
-<!ENTITY useSecureConnection.label   "Varna povezava: ">
+<!ENTITY connectionSecurity.label "Varnost povezave:  ">
+<!ENTITY useSecureAuthentication.label   "Varno overovljanje: ">

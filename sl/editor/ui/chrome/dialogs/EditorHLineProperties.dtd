@@ -41,20 +41,20 @@
 
 <!ENTITY dimensionsBox.label "Dimenzije">
 <!ENTITY heightEditField.label "Višina:">
-<!ENTITY heightEditField.accessKey "v">
+<!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "Dolžina:">
-<!ENTITY widthEditField.accessKey "d">
+<!ENTITY widthEditField.accessKey "t">
 <!ENTITY pixelsPopup.value "pik">
 <!ENTITY alignmentBox.label "Poravnava">
-<!ENTITY leftRadio.value "Levo">
-<!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Center">
+<!ENTITY leftRadio.label "Levo">
+<!ENTITY leftRadio.accessKey "L ">
+<!ENTITY centerRadio.label "Sreda">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Desno">
-<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.label "Desno">
+<!ENTITY rightRadio.accessKey "D">
 
 <!ENTITY threeDShading.label "3-D senčenje">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Uporabi za privzeto">
-<!ENTITY saveSettings.accessKey "p">
+<!ENTITY saveSettings.accessKey "D">
 <!ENTITY saveSettings.tooltip "Shrani te nastavitve za uporabo pri vstavljanju nadaljnih vodoravnih črt">

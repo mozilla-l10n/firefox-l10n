@@ -1,285 +1,268 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Sestavljanje: (ni zadeve)">
+<!ENTITY msgComposeWindow.title "Write: (no subject)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Datoteka"> 
-<!ENTITY fileMenu.accesskey "d">
+<!ENTITY fileMenu.accesskey "p">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Sporočilo">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "s">
-<!ENTITY newCard.label "Vizitka v adresarju ...">
-<!ENTITY newCard.accesskey "v">
-<!ENTITY attachMenu.label "Priloži">
-<!ENTITY attachMenu.accesskey "p">
-<!ENTITY attachFileCmd.label "Datoteko ...">
-<!ENTITY attachFileCmd.accesskey "d">
-<!ENTITY attachPageCmd.label "Spletno stran ...">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newContact.label "Vizitka z naslovom ...">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY attachMenu.label "Attach">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "File(s)…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Web Page…">
 <!ENTITY attachPageCmd.accesskey "t">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Osebno vizitko (vCard)">
-<!ENTITY attachVCardCmd.accesskey "C">
+<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
+<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY closeCmd.label "Zapri">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "z">
+<!ENTITY closeCmd.key "t">
+<!ENTITY closeCmd.accesskey "u">
 <!ENTITY saveCmd.label "Shrani">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Shrani kot">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "Shrani kot datoteko ...">
-<!ENTITY saveAsFileCmd.accesskey "d">
+<!ENTITY saveAsFileCmd.label "Datoteka...">
+<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Osnutek">
-<!ENTITY saveAsDraftCmd.accesskey "n">
+<!ENTITY saveAsDraftCmd.accesskey "D">
 <!ENTITY saveAsTemplateCmd.label "Predloga">
-<!ENTITY saveAsTemplateCmd.accesskey "g">
-<!ENTITY offlineGoOfflineCmd.label "Nepovezan način">
-<!ENTITY offlineGoOfflineCmd.accesskey "N">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY sendNowCmd.label "Pošlji zdaj">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "Pošlji pozneje">
+<!ENTITY sendLaterCmd.label "Send Later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "L ">
 <!ENTITY printSetupCmd.label "Priprava strani ...">
-<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Natisni ...">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY quitApplicationCmdWin.label                    "Izhod"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "I">
-<!ENTITY quitApplicationCmd.label                       "Izhod"> 
-<!ENTITY quitApplicationCmd.accesskey                   "i">
-<!ENTITY quitApplicationCmd.key "Q"> 
+<!ENTITY printCmd.key "p">
+<!ENTITY printCmd.accesskey "p">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Urejanje"> 
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.label "Urejaj"> 
+<!ENTITY editMenu.accesskey "i">
 <!ENTITY undoCmd.label "Prekliči">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "k"> 
+<!ENTITY undoCmd.key "Ž">
+<!ENTITY undoCmd.accesskey "u"> 
 <!ENTITY redoCmd.label "Ponovi">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "v"> 
+<!ENTITY redoCmd.key "D">
+<!ENTITY redoCmd.accesskey "r"> 
 <!ENTITY cutCmd.label "Izreži">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "z"> 
+<!ENTITY cutCmd.accesskey "t"> 
 <!ENTITY copyCmd.label "Kopiraj">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k"> 
+<!ENTITY copyCmd.accesskey "u"> 
 <!ENTITY pasteCmd.label "Prilepi">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY editRewrapCmd.label "Ponovno prilagodi oknu">
-<!ENTITY editRewrapCmd.accesskey "v">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Ponovno zavij">
+<!ENTITY editRewrapCmd.key "D">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Izbriši">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "b">
+<!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "v"> 
-<!ENTITY findCmd.label "Najdi in zamenjaj ...">
+<!ENTITY selectAllCmd.accesskey "a"> 
+<!ENTITY findCmd.label "Poišči in zamenjaj...">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "n">
-<!ENTITY findAgainCmd.label "Ponovno najdi">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Ponovno poišči">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Najdi prejšnje">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "j"> 
+<!ENTITY findPrevCmd.accesskey "p"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Pogled"> 
-<!ENTITY viewMenu.accesskey "P">
+<!ENTITY viewMenu.label "Pokaži"> 
+<!ENTITY viewMenu.accesskey "p">
 <!ENTITY viewToolbarsMenuNew.label "Orodne vrstice"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
-<!ENTITY showComposeToolbarCmd.label "Orodna vrstica za pošto">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "Orodna vrstica za oblikovanje">
-<!ENTITY showFormatToolbarCmd.accesskey "b">
+<!ENTITY showCompositionToolbarCmd.label "Orodna vrstica za sestavke">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Formatting Bar">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Vrstica stanja">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Po meri ...">
-<!ENTITY customizeToolbar.accesskey "m">
+<!ENTITY customizeToolbar.label "Prilagodi...">
+<!ENTITY customizeToolbar.accesskey "C">
 
-<!ENTITY addressSidebar.label "Stranska vrstica s kontakti"> 
+<!ENTITY addressSidebar.label "Contacts Sidebar"> 
 <!ENTITY addressSidebar.accesskey "o"> 
 
 <!-- Format Menu -->
-<!ENTITY formatMenu.label "Oblika">
+<!ENTITY formatMenu.label "Oblikovanje">
 <!ENTITY formatMenu.accesskey "o">
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Možnosti">
-<!ENTITY optionsMenu.accesskey "m">
-<!ENTITY checkSpellingCmd.label "Preveri črkovanje ...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "r">
-<!ENTITY enableInlineSpellChecker.label "Preverjaj črkovanje med tipkanjem">
-<!ENTITY enableInlineSpellChecker.accesskey "t">
-<!ENTITY quoteCmd.label "Citiraj sporočilo">
-<!ENTITY quoteCmd.accesskey "c">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd2.label "Check Spelling…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "Quote Message">
+<!ENTITY quoteCmd.accesskey "Q">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Priloži osebno vizitko (vCard)">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.label "Attach Personal Card (vCard)">
+<!ENTITY attachVCard.accesskey "p">
 
-<!ENTITY returnReceiptMenu.label "Potrdilo o prejemu">
+<!ENTITY returnReceiptMenu.label "Povratnica">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY outputFormatMenu.label "Oblika">
-<!ENTITY outputFormatMenu.accesskey "o">
-<!ENTITY autoFormatCmd.label "Samozaznavanje">
+<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY outputFormatMenu.label "Oblikovanje">
+<!ENTITY outputFormatMenu.accesskey "p">
+<!ENTITY autoFormatCmd.label "Auto-Detect">
 <!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Samo navadno besedilo">
-<!ENTITY plainTextFormatCmd.accesskey "n">
-<!ENTITY htmlFormatCmd.label "Samo obogateno besedilo (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "b">
-<!ENTITY bothFormatCmd.label "Navadno in obogateno (HTML) besedilo">
+<!ENTITY plainTextFormatCmd.label "Plain Text Only">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
 <!ENTITY bothFormatCmd.accesskey "l">
-<!ENTITY priorityMenu.label "Prednost">
+<!ENTITY priorityMenu.label "Prioriteta">
 <!ENTITY priorityMenu.accesskey "p">
-<!ENTITY priorityButton.label "Prednost:">
-<!ENTITY lowestPriorityCmd.label "Najnižja">
-<!ENTITY lowestPriorityCmd.accesskey "j">
-<!ENTITY lowPriorityCmd.label "Nizka">
-<!ENTITY lowPriorityCmd.accesskey "n">
-<!ENTITY normalPriorityCmd.label "Navadna">
+<!ENTITY priorityButton.label "Prioriteta:">
+<!ENTITY lowestPriorityCmd.label "Najnižje">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "Nizko">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "Normalo">
 <!ENTITY normalPriorityCmd.accesskey "n">
-<!ENTITY highPriorityCmd.label "Visoka">
-<!ENTITY highPriorityCmd.accesskey "i">
-<!ENTITY highestPriorityCmd.label "Najvišja">
-<!ENTITY highestPriorityCmd.accesskey "j">
-<!ENTITY fileCarbonCopyCmd.label "Pošlji kopijo v">
-<!ENTITY fileCarbonCopyCmd.accesskey "k">
-<!ENTITY fileHereMenu.label "Vloži sem">
+<!ENTITY highPriorityCmd.label "Visoko">
+<!ENTITY highPriorityCmd.accesskey "L">
+<!ENTITY highestPriorityCmd.label "Najvišje">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "Send a Copy To">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "File Here">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Orodja">
-<!ENTITY tasksMenu.accesskey "r">
-<!ENTITY messengerCmd.label "Pošta in novičarske skupine">
-<!ENTITY messengerCmd.accesskey "p">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "Pošta in Novičarske skupine">
+<!ENTITY messengerCmd.accesskey "s">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adresar">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Nastavitve računa ...">
-<!ENTITY accountManagerCmd.accesskey "r">
-<!ENTITY accountManagerCmdUnix.accesskey "r">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd.label "Account Settings…">
+<!ENTITY accountManagerCmd.accesskey "u">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Možnosti ...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Skrči okno">
-<!ENTITY bringAllToFront.label "Prinesi vse v ospredje">
-<!ENTITY zoomWindow.label "Približaj okno"> 
-<!ENTITY windowMenu.label "Okno"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Pomoč">
-<!ENTITY helpMenu.accesskey "p"> 
-<!ENTITY releaseCmd.label "Opombe ob izdaji">
-<!ENTITY releaseCmd.accesskey "z"> 
-<!ENTITY hintsAndTips.label "Pomoč &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "P"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "O &brandShortName;u">
-<!ENTITY aboutCmd.accesskey "O">
+<!ENTITY minimizeWindow.key "s">
+<!ENTITY minimizeWindow.label "Minimiraj">
+<!ENTITY bringAllToFront.label "Vse v ospredje">
+<!ENTITY zoomWindow.label "Povečevanje"> 
+<!ENTITY windowMenu.label "Okno">
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Pošlji">
-<!ENTITY quoteButton.label "Citiraj">
-<!ENTITY addressButton.label "Naslov">
-<!ENTITY attachButton.label "Priloži">
+<!ENTITY quoteButton.label "Quote">
+<!ENTITY addressButton.label "Contacts">
+<!ENTITY attachButton.label "Attach">
 <!ENTITY spellingButton.label "Črkovanje">
 <!ENTITY saveButton.label "Shrani">
-<!ENTITY throbberItem.title "Pokazatelj aktivnosti">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Pošlji sporočilo zdaj"> 
-<!ENTITY sendlaterButton.tooltip "Pošlji sporočilo pozneje"> 
-<!ENTITY quoteButton.tooltip "Citiraj prejšnje sporočilo"> 
-<!ENTITY addressButton.tooltip "Izberi prejemnika iz adresarja"> 
-<!ENTITY attachButton.tooltip "Sporočilu priloži datoteko"> 
-<!ENTITY saveButton.tooltip "Shrani to sporočilo"> 
-<!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
+<!ENTITY sendButton.tooltip "Send this message now"> 
+<!ENTITY sendlaterButton.tooltip "Send this message later"> 
+<!ENTITY quoteButton.tooltip "Quote the previous message"> 
+<!ENTITY addressButton.tooltip "Select a recipient from an Address Book"> 
+<!ENTITY attachButton.tooltip "Include an attachment"> 
+<!ENTITY saveButton.tooltip "Save this message"> 
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
 <!ENTITY pasteButton.tooltip            "Prilepi">
 
 <!-- Headers -->
-<!ENTITY fromAddr.label "Od:">
-<!ENTITY fromAddr.accesskey "O">
+<!ENTITY fromAddr.label "From:">
+<!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Za:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Reply-To:"> 
+<!ENTITY ccAddr.label "Kp:"> 
+<!ENTITY bccAddr.label "Skp:"> 
+<!ENTITY replyAddr.label "Odgovor-Za: "> 
 <!ENTITY newsgroupsAddr.label "Novičarska skupina:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
-<!ENTITY subject.label "Zadeva:">
-<!ENTITY subject.accesskey "z">
-<!ENTITY attachments.label "Priloge:">
-<!ENTITY attachments.accesskey "p">
+<!ENTITY followupAddr.label "Odgovor??? - Za:"> 
+<!ENTITY subject.label "Subject:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "Attachments:">
+<!ENTITY attachments.accesskey "u">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
-<!ENTITY SmileButton.tooltip "Vstavite smeška">
-<!ENTITY smiley1Cmd.label "Nasmešek">
+<!ENTITY SmileButton.tooltip "Vstavi smeška">
+<!ENTITY smiley1Cmd.label "Nasmeh">
 <!ENTITY smiley2Cmd.label "Grd pogled">
 <!ENTITY smiley3Cmd.label "Pomežik">
 <!ENTITY smiley4Cmd.label "Kazanje jezika">
 <!ENTITY smiley5Cmd.label "Smeh">
-<!ENTITY smiley6Cmd.label "Osramočenje">
-<!ENTITY smiley7Cmd.label "Neodločenost">
+<!ENTITY smiley6Cmd.label "Osramočen">
+<!ENTITY smiley7Cmd.label "Neodločen">
 <!ENTITY smiley8Cmd.label "Presenečenje">
 <!ENTITY smiley9Cmd.label "Poljub">
-<!ENTITY smiley10Cmd.label "Kričanje">
+<!ENTITY smiley10Cmd.label "Krik">
 <!ENTITY smiley11Cmd.label "Kul">
-<!ENTITY smiley12Cmd.label "Usta-denar">
+<!ENTITY smiley12Cmd.label "Usta denarja">
 <!ENTITY smiley13Cmd.label "Noga v ustih">
 <!ENTITY smiley14Cmd.label "Nedolžnost">
 <!ENTITY smiley15Cmd.label "Jok">
-<!ENTITY smiley16Cmd.label "Zapečatena usta">
+<!ENTITY smiley16Cmd.label "Zapečatene ustnice">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Ni predlogov">
+<!ENTITY spellCheckNoSuggestions.label "No Suggestions Found">
 <!ENTITY spellCheckIgnoreWord.label "Prezri besedo">
-<!ENTITY spellCheckIgnoreWord.accesskey "P">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj v slovar">
-<!ENTITY spellCheckAddToDictionary.accesskey "s">
-<!ENTITY undo.label "Razveljavi">
-<!ENTITY undo.accesskey "z">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Prekliči">
+<!ENTITY undo.accesskey "U">
 <!ENTITY cut.label "Izreži">
-<!ENTITY cut.accesskey "I">
+<!ENTITY cut.accesskey "t">
 <!ENTITY copy.label "Kopiraj">
-<!ENTITY copy.accesskey "K">
+<!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Prilepi">
-<!ENTITY paste.accesskey "P">
-<!ENTITY pasteQuote.label "Prilepi kot citirano besedilo">
-<!ENTITY pasteQuote.accesskey "n">
+<!ENTITY paste.accesskey "p">
+<!ENTITY pasteQuote.label "Prilepi kot citat">
+<!ENTITY pasteQuote.accesskey "Q">
 
 <!ENTITY openAttachment.label "Odpri">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Izbriši">
-<!ENTITY delete.accesskey "b">
+<!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "Remove Attachment">
+<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.accesskey "D">
 <!ENTITY selectAll.label "Izberi vse">
-<!ENTITY selectAll.accesskey "v">
-<!ENTITY attachFile.label "Priloži datoteke ...">
-<!ENTITY attachFile.accesskey "d">
-<!ENTITY attachPage.label "Priloži spletno stran ...">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "Attach File(s)…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "Attach Web Page…">
 <!ENTITY attachPage.accesskey "t">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Kontakti">
+<!ENTITY addressesSidebarTitle.label "Contacts">
 

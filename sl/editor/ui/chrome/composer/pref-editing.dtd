@@ -1,28 +1,28 @@
-<!ENTITY  pref.editing.title        "New Page Settings">
+<!ENTITY  pref.editing.title        "Nastavitve nove strani">
 
-<!ENTITY  authorName.label          "Author:">
+<!ENTITY  authorName.label          "Avtor:">
 <!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Default Page Appearance">
+<!ENTITY  pageColorHeader           "Privzeti videz strani">
 
-<!ENTITY defaultColorsRadio.label   "Reader's default colors (Don't set colors in page)">
+<!ENTITY defaultColors.label        "Privzete barve bralca (ne nastavlja barv za stran)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "Use custom colors:">
-<!ENTITY customColors.accesskey     "c">
+<!ENTITY customColors.label         "Uporabi posebne barve:">
+<!ENTITY customColors.accesskey     "u">
 
-<!ENTITY normalText.label           "Normal text">
+<!ENTITY normalText.label           "Običajno besedilo">
 <!ENTITY normalText.accesskey       "N">
-<!ENTITY linkText.label             "Link text">
-<!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "Active link text">
+<!ENTITY linkText.label             "Besedilo povezave">
+<!ENTITY linkText.accesskey         "L ">
+<!ENTITY activeLinkText.label       "Besedilo aktivne povezave">
 <!ENTITY activeLinkText.accesskey   "A">
-<!ENTITY visitedLinkText.label      "Visited link text">
+<!ENTITY visitedLinkText.label      "Besedilo obiskane povezave">
 <!ENTITY visitedLinkText.accesskey  "V">
-<!ENTITY background.label           "Background:">
+<!ENTITY background.label           "Ozadje:">
 <!ENTITY background.accesskey       "B">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Background image:">
-<!ENTITY backgroundImage.accesskey  "m">
-<!ENTITY chooseFile.label           "Choose File...">
+<!ENTITY backgroundImage.label      "Slika za ozadje">
+<!ENTITY backgroundImage.accesskey  "s">
+<!ENTITY chooseFile.label           "Izberite datoteko ...">
 <!ENTITY chooseFile.accesskey       "o">
 

@@ -36,15 +36,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label              "Napreden urejevalnik atributov:">
-<!ENTITY AttName.label                  "Atribut:">
-<!ENTITY AttValue.label                 "Vrednost:">
-<!ENTITY PropertyName.label             "Atribut:">
-<!ENTITY currentattributesfor.label     "Trenutni atributi za:">
-<!ENTITY tree.attributeHeader.label     "Atribut:">
-<!ENTITY tree.propertyHeader.label      "Atribut">
-<!ENTITY tree.valueHeader.label         "Vrednost:">
-<!ENTITY tabHTML.label                  "Atributi HTML">
+<!ENTITY WindowTitle.label              "Napreden urejevalnik lastnosti">
+<!ENTITY AttName.label                  "Prilastek: ">
+<!ENTITY AttValue.label                 "Vrednost: ">
+<!ENTITY PropertyName.label             "Lastnost: ">
+<!ENTITY currentattributesfor.label     "Trenutni prilastki za: ">
+<!ENTITY tree.attributeHeader.label     "Prilastek:">
+<!ENTITY tree.propertyHeader.label      "Lastnost">
+<!ENTITY tree.valueHeader.label         "Vrednost">
+<!ENTITY tabHTML.label                  "Prilastki HTML">
 <!ENTITY tabCSS.label                   "Notranji (Inline) slog">
 <!ENTITY tabJSE.label                   "JavaScript dogodki">
 

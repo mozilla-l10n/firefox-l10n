@@ -1,17 +1,14 @@
-<!ENTITY virtualFolderProperties.title "Novi shranjeni imenik za preiskovanje">
+<!ENTITY virtualFolderProperties.title "Nova mapa za shranjeno iskanje">
 <!ENTITY name.label                 "Ime:">
-<!ENTITY name.accesskey             "I">
-<!ENTITY description.label          "Ustvari kot podimenik od:">
-<!ENTITY description.accesskey      "U">
-<!ENTITY searchCriteriaText.label   "Spremenite iskalne pogoje za to shranjeno iskanje:">
-<!ENTITY searchCriteriaButton.label "Iskalni pogoji ...">
-<!ENTITY searchCriteriaButton.accesskey "K">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Ustvari kot podmapo v:">
+<!ENTITY description.accesskey      "C">
 
-<!ENTITY searchTermCaption.label "Določite iskalne pogoje za ta shranjeni imenik za preiskovanje: ">
+<!ENTITY searchTermCaption.label "Priredite pogoje za iskanje, ki se jih rabi v tej mapi za shranjena iskanja: ">
 
-<!ENTITY folderSelectionCaption.label "Izberite imenike za preiskovanje: ">
-<!ENTITY chooseFoldersButton.label "Izberite ...">
-<!ENTITY chooseFoldersButton.accesskey "b">
+<!ENTITY folderSelectionCaption.label "Izberite mape za iskanje: ">
+<!ENTITY chooseFoldersButton.label "Izberi ...">
+<!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Iskanje z vzpostavljeno povezavo  (Vrne najnovejše rezultate za IMAP in novičarske imenike, vendar odpiranje imenikov traja dlje)">
-<!ENTITY searchOnline.accesskey "p">
+<!ENTITY searchOnline.label "Išči na spletu (daje najnovejše rezultate za mape za IMAP in novice, podaljša pa čas, potreben za to, da mapo odprete)">
+<!ENTITY searchOnline.accesskey "S">

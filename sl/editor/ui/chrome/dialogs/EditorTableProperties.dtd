@@ -35,76 +35,68 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tableWindow.title                "Nastavitve tabele">
-<!ENTITY applyButton.label                "Apply">
+<!ENTITY tableWindow.title                "Lastnosti tabele">
+<!ENTITY applyButton.label                "Uveljavi">
 <!ENTITY applyButton.accesskey            "A">
-<!ENTITY closeButton.label                "Close">
+<!ENTITY closeButton.label                "Zapri">
 <!ENTITY tableTab.label                   "Tabela">
 <!ENTITY cellTab.label                    "Celice">
 <!ENTITY tableRows.label                  "Vrstice:">
-<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableRows.accessKey              "D">
 <!ENTITY tableColumns.label               "Stolpci:">
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "Višina:">
-<!ENTITY tableHeight.accessKey            "v">
+<!ENTITY tableHeight.accessKey            "G">
 <!ENTITY tableWidth.label                 "Dolžina:">
-<!ENTITY tableWidth.accessKey             "d">
-<!ENTITY tableBorderSpacing.label         "Robovi in presledki">
+<!ENTITY tableWidth.accessKey             "t">
+<!ENTITY tableBorderSpacing.label         "Robovi in razmik">
 <!ENTITY tableBorderWidth.label           "Rob:">
 <!ENTITY tableBorderWidth.accessKey       "B">
-<!ENTITY tableSpacing.label               "Presledek:">
+<!ENTITY tableSpacing.label               "Razmik:">
 <!ENTITY tableSpacing.accessKey           "S">
-<!ENTITY tablePadding.label               "Prostor med robom in vsebino celice:">
-<!ENTITY tablePadding.accessKey           "P">
-<!ENTITY tablePxBetwCells.label           "pik med celicami">
-<!ENTITY tablePxBetwBrdrCellContent.label "pike med robom in besedilom celice">
+<!ENTITY tablePadding.label               "Obroba:">
+<!ENTITY tablePadding.accessKey           "p">
+<!ENTITY tablePxBetwCells.label           "piksli med celicami">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksli med robom celice in vsebino">
 <!ENTITY tableAlignment.label             "Poravnava tabele:">
 <!ENTITY tableAlignment.accessKey         "T">
-<!ENTITY tableCaption.label               "Kratek opis:">
+<!ENTITY tableCaption.label               "Naslov:">
 <!ENTITY tableCaption.accessKey           "N">
 <!ENTITY tableCaptionAbove.label          "Nad tabelo">
 <!ENTITY tableCaptionBelow.label          "Pod tabelo">
 <!ENTITY tableCaptionLeft.label           "Levo od tabele">
 <!ENTITY tableCaptionRight.label          "Desno od tabele">
 <!ENTITY tableCaptionNone.label           "Nič">
-<!ENTITY tableInheritColor.label           "(Barva strani 'pronica' skozi)">
+<!ENTITY tableInheritColor.label           "(Naj bo prozorna za barvo strani)">
 
-<!ENTITY cellPercent.label                "procentov tabele:">
-<!ENTITY cellSelection.label              "Selekcija">
+<!ENTITY cellSelection.label              "Izbira">
 <!ENTITY cellSelectCell.label             "Celica">
-<!ENTITY cellSelectRow.label              "Vrstica:">
+<!ENTITY cellSelectRow.label              "Vrsta">
 <!ENTITY cellSelectColumn.label           "Stolpec">
-<!ENTITY cellSelectNext.label             "Naslednje">
+<!ENTITY cellSelectNext.label             "Naslednji">
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "Prejšnje">
-<!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "Nastavi spremembe pred spremembo selekcije">
-<!ENTITY cellKeepCurrentData.label        "Obdrži sedanje nastavitve">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Trenutne spremembe bodo nastavljene">
-<!ENTITY applyBeforeChange2.label         "preden bo selekcija spremenjena.">
-<!ENTITY cellRowSpan.label                "Spanning vrstic:">
-<!ENTITY cellColSpan.label                "Spanning stolpcev:">
+<!ENTITY cellSelectPrevious.accessKey     "p">
+<!ENTITY applyBeforeChange.label          "Trenutne spremembe se bo izvedlo, preden se spremeni izbiro..">
 <!ENTITY cellContentAlignment.label       "Poravnava vsebine">
 <!ENTITY cellHorizontal.label             "Vodoravno:">
-<!ENTITY cellHorizontal.accessKey         "v">
+<!ENTITY cellHorizontal.accessKey         "Ž">
 <!ENTITY cellVertical.label               "Navpično:">
 <!ENTITY cellVertical.accessKey           "V">
-<!ENTITY cellStyle.label                  "Slog celic:">
+<!ENTITY cellStyle.label                  "Slog za celico:">
 <!ENTITY cellStyle.accessKey              "C">
-<!ENTITY cellNormal.label                 "Navadno">
-<!ENTITY cellHeader.label                 "Naslov">
-<!ENTITY cellTextWrap.label               "Prelom besedila">
-<!ENTITY cellTextWrap.accessKey           "r">
-<!ENTITY cellWrap.label                   "Prelom">
-<!ENTITY cellNoWrap.label                 "Ne prelamljaj">
-<!ENTITY cellAlignTop.label               "Zgoraj">
-<!ENTITY cellAlignMiddle.label            "Sredina">
+<!ENTITY cellNormal.label                 "Normalo">
+<!ENTITY cellHeader.label                 "Glava">
+<!ENTITY cellTextWrap.label               "Lomi besedilo:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "Lomi">
+<!ENTITY cellNoWrap.label                 "Ne lomi">
+<!ENTITY cellAlignTop.label               "Vrh">
+<!ENTITY cellAlignMiddle.label            "Sreda">
 <!ENTITY cellAlignBottom.label            "Dno">
-<!ENTITY cellAlignJustify.label           "Napolni">
-<!ENTITY cellAlignAtChar.label            "Ob znaku:">
-<!ENTITY cellInheritColor.label           "(Barva tabele 'pronica' skozi)">
-<!ENTITY cellUseCheckboxHelp.label        "Uporabi da/ne gumbe za določitev lastnosti, ki se nanašajo na vse izbrane celice">
+<!ENTITY cellAlignJustify.label           "Justiraj">
+<!ENTITY cellInheritColor.label           "(Naj bo prozorna za barvo tabele)">
+<!ENTITY cellUseCheckboxHelp.label        "S pomočjo izbirnih polj določite, katere od lastnosti naj se uporabi za vse izbrane celice">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Velikost">
@@ -112,5 +104,5 @@
 <!ENTITY backgroundColor.label            "Barva ozadja:">
 <!ENTITY backgroundColor.accessKey        "B">
 <!ENTITY AlignLeft.label                  "Levo">
-<!ENTITY AlignCenter.label                "Center">
+<!ENTITY AlignCenter.label                "Sreda">
 <!ENTITY AlignRight.label                 "Desno">

@@ -36,40 +36,42 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY newDirectoryTitle.label           "Lastnosti imeniškega strežnika">
-<!ENTITY directoryName.label               "Ime:">
-<!ENTITY directoryName.accesskey           "i">
-<!ENTITY directoryHostname.label           "Ime gostitelja:">
-<!ENTITY directoryHostname.accesskey       "g">
-<!ENTITY directoryBaseDN.label             "Osnovni DN:">
-<!ENTITY directoryBaseDN.accesskey         "o">
-<!ENTITY findButton.label                  "Najdi">
-<!ENTITY findButton.accesskey              "n">
-<!ENTITY directorySecure.label             "Uporabi varno povezavo (SSL)">
+<!ENTITY directoryName.label               "Ime: ">
+<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryHostname.label           "Ime gostitelja: ">
+<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.label             "Osnovni DN: ">
+<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY findButton.label                  "Poišči">
+<!ENTITY findButton.accesskey              "p">
+<!ENTITY directorySecure.label             "Uporabljaj varno povezavo (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Veži DN:">
-<!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "Napredne možnosti">
-<!ENTITY advancedOptionsButton.accesskey   "a">
+<!ENTITY directoryLogin.label              "DN veze (Bind DN): ">
+<!ENTITY directoryLogin.accesskey          "L">
 <!ENTITY General.tab                       "Splošno">
 <!ENTITY Offline.tab                       "Brez povezave">
 <!ENTITY Advanced.tab                      "Napredno">
-<!ENTITY advancedOptionsTitle.label        "Napredne možnosti">
-<!ENTITY portNumber.label                  "Številka vrat:">
-<!ENTITY portNumber.accesskey              "v">
-<!ENTITY searchFilter.label                "Filter za iskanje:">
-<!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Področje:">
-<!ENTITY scope.accesskey                   "o">
+<!ENTITY portNumber.label                  "Številka vrat: ">
+<!ENTITY portNumber.accesskey              "p">
+<!ENTITY searchFilter.label                "Iskalni filter: ">
+<!ENTITY searchFilter.accesskey            "p">
+<!ENTITY scope.label                       "Obseg: ">
+<!ENTITY scope.accesskey                   "u">
 <!ENTITY scopeOneLevel.label               "Ena raven">
-<!ENTITY scopeOneLevel.accesskey           "r">
+<!ENTITY scopeOneLevel.accesskey           "L ">
 <!ENTITY scopeSubtree.label                "Poddrevo">
-<!ENTITY scopeSubtree.accesskey            "d">
-<!ENTITY return.label                      "Ne vrni več kot">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "Ne vračaj več kot">
 <!ENTITY return.accesskey                  "r">
-<!ENTITY results.label                     "rezultati">
-<!ENTITY offlineText.label                 "Lahko si prenesete lokalno kopijo tega imenika, da vam bo na voljo za uporabo v stanju brez povezave.">
-<!ENTITY downloadNowButton.label           "Prenesi zdaj">
-<!ENTITY downloadNowButton.accesskey       "D">
+<!ENTITY results.label                     "rezultatov">
+<!ENTITY offlineText.label                 "Lahko si prenesete lokalno kopijo tega imenika, da vam bo na voljo tudi takrat, kadar boste delali brez povezave.">
+<!ENTITY saslMechanism.label               "Način prijave: ">
+<!ENTITY saslMechanism.accesskey           "s">
+<!ENTITY saslOff.label                     "Enostavna">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

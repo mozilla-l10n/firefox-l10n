@@ -37,10 +37,10 @@
    - ***** END LICENSE BLOCK ***** -->
    
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "Nov imenik">
+<!ENTITY newFolderDialog.title      "Nova mapa">
 <!ENTITY name.label                 "Ime:">
-<!ENTITY name.accesskey             "i">
-<!ENTITY description.label          "Ustvari kot podimenik imenika:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Ustvari kot podmapo v:">
 <!ENTITY description.accesskey      "u">
 <!ENTITY folderRestriction1.label   "Ta strežnik razdeli imenike na dve posebni vrsti.">
 <!ENTITY folderRestriction2.label   "Nov imenik lahko vsebuje:">

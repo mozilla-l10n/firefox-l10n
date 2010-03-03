@@ -40,15 +40,14 @@
 <!ENTITY windowTitle.label "Nastavitve seznama">
 
 <!ENTITY ListType.label "Tip seznama">
-<!ENTITY bulletStyle.label "Slog alinej:">
+<!ENTITY bulletStyle.label "Slog vidnih gumbov:">
 <!ENTITY startingNumber.label "Začni pri:">
-<!ENTITY startingNumber.accessKey "z">
+<!ENTITY startingNumber.accessKey "S">
 <!ENTITY none.value "Nič">
-<!ENTITY bulletList.value "Neurejen (neoštevilčen) seznam">
-<!ENTITY numberList.value "Oštevilčen (urejen) seznam">
-<!ENTITY definitionList.value "Definicijski seznam">
-<!ENTITY changeListMsg.label "Ko spreminjate tip seznama:">
+<!ENTITY bulletList.value "Seznam (neoštevilčen) z gumbi">
+<!ENTITY numberList.value "Oštevilčen seznam">
+<!ENTITY definitionList.value "Seznam definicij">
 <!ENTITY changeEntireListRadio.label "Spremeni celoten seznam">
 <!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "Spremeni le izbrane predmete">
+<!ENTITY changeSelectedRadio.label "Spremeni le izbrane postavke">
 <!ENTITY changeSelectedRadio.accessKey "I">

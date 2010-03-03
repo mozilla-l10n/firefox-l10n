@@ -34,47 +34,47 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Selection List Properties">
+<!ENTITY windowTitle.label "Nastavitve za izbirni seznam">
 
-<!ENTITY Select.label "Selection List">
-<!ENTITY SelectName.label "List Name:">
+<!ENTITY Select.label "Izbirni seznam">
+<!ENTITY SelectName.label "Ime seznama:">
 <!ENTITY SelectName.accesskey "N">
-<!ENTITY SelectSize.label "Height:">
+<!ENTITY SelectSize.label "Višina:">
 <!ENTITY SelectSize.accesskey "H">
-<!ENTITY SelectMultiple.label "Multiple Selection">
+<!ENTITY SelectMultiple.label "Večkratna izbira">
 <!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "Disabled">
+<!ENTITY SelectDisabled.label "Onemogočeno">
 <!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "Tab Index:">
+<!ENTITY SelectTabIndex.label "Indeks oznake:">
 <!ENTITY SelectTabIndex.accesskey "I">
 
-<!ENTITY OptGroup.label "Option Group">
-<!ENTITY OptGroupLabel.label "Label:">
-<!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "Disabled">
+<!ENTITY OptGroup.label "Izbirna skupina">
+<!ENTITY OptGroupLabel.label "Nalepka:">
+<!ENTITY OptGroupLabel.accesskey "L ">
+<!ENTITY OptGroupDisabled.label "Onemogočeno">
 <!ENTITY OptGroupDisabled.accesskey "D">
 
-<!ENTITY Option.label "Option">
-<!ENTITY OptionText.label "Text:">
+<!ENTITY Option.label "Izbira">
+<!ENTITY OptionText.label "Besedilo:">
 <!ENTITY OptionText.accesskey "T">
-<!ENTITY OptionValue.label "Value:">
+<!ENTITY OptionValue.label "Vrednost:">
 <!ENTITY OptionValue.accesskey "V">
-<!ENTITY OptionSelected.label "Initially Selected">
+<!ENTITY OptionSelected.label "Ob začetku izbrano">
 <!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Disabled">
+<!ENTITY OptionDisabled.label "Onemogočeno">
 <!ENTITY OptionDisabled.accesskey "D">
 
-<!ENTITY TextHeader.label "Text">
-<!ENTITY ValueHeader.label "Value">
-<!ENTITY SelectedHeader.label "Selected">
+<!ENTITY TextHeader.label "Besedilo">
+<!ENTITY ValueHeader.label "Vrednost">
+<!ENTITY SelectedHeader.label "Izbrano">
 
-<!ENTITY AddOption.label "Add Option">
+<!ENTITY AddOption.label "Dodaj izbiro">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Add Group">
+<!ENTITY AddOptGroup.label "Dodaj skupino">
 <!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "Remove">
-<!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "Move Up">
+<!ENTITY RemoveElement.label "Odstrani">
+<!ENTITY RemoveElement.accesskey "D">
+<!ENTITY MoveElementUp.label "Premakni gor">
 <!ENTITY MoveElementUp.accesskey "U">
-<!ENTITY MoveElementDown.label "Move Down">
+<!ENTITY MoveElementDown.label "Premakni dol">
 <!ENTITY MoveElementDown.accesskey "D">

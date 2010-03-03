@@ -1,17 +1,4 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Pošiljanje sporočil"> 
-<!ENTITY titlePrefixSave "Shranjevanje sporočil -"> 
-<!ENTITY titlePrefixSend "Pošiljanje sporočil -"> 
-<!ENTITY status   "Stanje:"> 
-<!ENTITY progress "Potek:">
-
-<!-- LOCALIZATION NOTE (percentMsg):
-
-    This string is used to format the text to the right of the progress
-    meter.
-
-    #1 will be replaced by the percentage of the file that has been saved -->
-<!ENTITY percentMsg "#1 &#037;">
-
-<!ENTITY messageSent "Sporočilo je poslano">
-<!ENTITY messageSaved "Sporočilo je shranjeno">
+<!ENTITY sendWindow.title "Pošiljam sporočila"> 
+<!ENTITY status.label "Stanje:">
+<!ENTITY progress.label "Napredek:">

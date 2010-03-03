@@ -38,11 +38,11 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Vstavi HTML">
 <!ENTITY sourceEditField.label "Vpišite tage HTML in besedilo:">
-<!ENTITY example.label "Primer:">
+<!ENTITY example.label "Primer: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
-<!ENTITY exampleText.label "Pozdravljen, svet!">
-<!ENTITY insertButton.label "Insert">
+<!ENTITY exampleText.label "Živijo, svet!">
+<!ENTITY insertButton.label "Vstavi">
 <!ENTITY insertButton.accesskey "I">

@@ -1,42 +1,37 @@
 <!ENTITY  connectionsDialog.title       "Nastavitve povezave">
-<!ENTITY  window.width                   "37em">
+<!ENTITY  window.width                   "39em">
 
-<!ENTITY  proxyTitle.label              "Nastavitve posrednika">
-<!ENTITY  directTypeRadio.label         "Neposredna povezava do interneta">
-<!ENTITY  directTypeRadio.accesskey     "d">
-<!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve posrednika za to mrežo">
-<!ENTITY  WPADTypeRadio.accesskey       "m">
-<!ENTITY  manualTypeRadio.label         "Ročna nastavitev posrednika">
-<!ENTITY  manualTypeRadio.accesskey     "r">
-<!ENTITY  autoTypeRadio.label           "URL samodejne nastavitve posrednika:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  configAutoconfigText.label    "Mesto nastavitev (URL):">
-<!ENTITY  configAutoconfigText.accesskey "u">
+<!ENTITY  proxyTitle.label              "Nastavitve strežnika proxy">
+<!ENTITY  noProxyTypeRadio.label        "Brez proxyja">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za proxy">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve proxyja za to mrežo">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
+<!ENTITY  manualTypeRadio.accesskey     "s">
+<!ENTITY  autoTypeRadio.label           "URI samodejne nastavitve za proxy:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Ponovno naloži">
-<!ENTITY  reload.accesskey              "i">
-<!ENTITY  ftp.label                     "Posrednik FTP:">
-<!ENTITY  ftp.accesskey                 "f">
-<!ENTITY  gopher.label                  "Posrednik Gopher:">
-<!ENTITY  gopher.accesskey              "g">
-<!ENTITY  http.label                    "Posrednik HTTP:">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "h">
-<!ENTITY  ssl.label                     "Posrednik SSL:">
+<!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "s">
 <!ENTITY  socks.label                   "Gostitelj SOCKS:">
-<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks.accesskey               "u">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "Vrata:">
-<!ENTITY  HTTPport.accesskey            "v">
-<!ENTITY  SSLport.accesskey             "a">
-<!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  socks5.accesskey              "p">
+<!ENTITY  HTTPport.label                "Vrata:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Vrata:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Vrata:">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ni posrednika za:">
+<!ENTITY  noproxy.label                 "Ni proxyja za:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz">
-<!ENTITY  shareproxy.label              "Uporabi istega posrednika za vse protokole">
+<!ENTITY  shareproxy.label              "Uporabi isti proxy za vse protokole">
 <!ENTITY  shareproxy.accesskey          "x">

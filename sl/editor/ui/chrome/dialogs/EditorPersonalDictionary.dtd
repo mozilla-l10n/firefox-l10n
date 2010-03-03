@@ -43,11 +43,11 @@
 <!ENTITY AddButton.label "Dodaj">
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "Besede v slovarju:">
-<!ENTITY DictionaryList.accessKey "s">
+<!ENTITY DictionaryList.accessKey "t">
 <!ENTITY ReplaceButton.label "Zamenjaj">
-<!ENTITY ReplaceButton.accessKey "z">
+<!ENTITY ReplaceButton.accessKey "D">
 <!ENTITY RemoveButton.label "Odstrani">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "i">
 
 <!ENTITY CloseButton.label "Zapri">
-<!ENTITY CloseButton.accessKey "z">
+<!ENTITY CloseButton.accessKey "C">

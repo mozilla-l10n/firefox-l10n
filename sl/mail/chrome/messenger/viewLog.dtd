@@ -1,8 +1,8 @@
 <!ENTITY viewLog.title "Zapisnik filtrov">
-<!ENTITY viewLogInfo.text "Zapisnik filtrov je datoteka, v katero se zapisuje, kateri filtri so vplivali na sporočila. Izberite spodnjo možnost, da omogočite ta zapisnik.">
+<!ENTITY viewLogInfo.text "Zapisnik filtrov vsebuje seznam filtrov, s katerimi se je obdelalo sporočila.  Da aktivirate vodenje dnevnika, odkljukajte spodnje izbirno polje.">
 <!ENTITY clearLog.label "Počisti zapisnik">
-<!ENTITY clearLog.accesskey "o">
+<!ENTITY clearLog.accesskey "C">
 <!ENTITY enableLog.label "Omogoči zapisnik filtrov">
-<!ENTITY enableLog.accesskey "f">
+<!ENTITY enableLog.accesskey "E">
 <!ENTITY closeLog.label "Zapri">
-<!ENTITY closeLog.accesskey "Z">
+<!ENTITY closeLog.accesskey "o">

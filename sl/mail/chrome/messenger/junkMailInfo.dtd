@@ -1,6 +1,6 @@
 <!ENTITY window.title  "O neželeni pošti">
 <!ENTITY window.width  "450">
-<!ENTITY info1a.label  "Poštni program samodejno zazna prihajajoča sporočila, ki imajo značilnosti odpadne pošte (spam, junk mail). Tako zaznana sporočila bodo prikazovala ikono neželene pošte.">
+<!ENTITY info1a.label  "&brandShortName; automatically detects incoming messages that appear to be junk mail (also known as spam). Messages that &brandShortName; thinks are junk will display a junk icon">
 <!ENTITY info1b.label  ".">
 <!ENTITY info2.label   "&brandShortName; se lahko priuči boljše analize prihajajočih sporočil, če sami označujete, katera sporočila so resnično neželena, a tudi, katera od označenih niso.">
 <!ENTITY info3.label   "Ko poštni program enkrat pravilno označuje vaša sporočila, lahko neželeno pošto samodejno premakne v ustrezen imenik.">

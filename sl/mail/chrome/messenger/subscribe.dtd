@@ -35,18 +35,20 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Naročanje">
-<!ENTITY subscribeButton.label        "Naroči">
-<!ENTITY subscribeButton.accesskey    "r">
+<!ENTITY subscribeDialog.title        "Naroči se">
+<!ENTITY subscribeButton.label        "Naroči se">
+<!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "Odjavi naročnino">
-<!ENTITY unsubscribeButton.accesskey  "j">
+<!ENTITY unsubscribeButton.accesskey  "U">
+<!ENTITY newGroupsTab.label           "Nove supine">
+<!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Osveži">
-<!ENTITY refreshButton.accesskey      "s">
-<!ENTITY stopButton.label             "Ustavi">
+<!ENTITY refreshButton.accesskey      "D">
+<!ENTITY stopButton.label             "Stop ">
 <!ENTITY stopButton.accesskey         "T">
 <!ENTITY server.label                 "Račun:">
 <!ENTITY server.accesskey             "A">
-<!ENTITY subscribedHeader.label       "Naročnina">
+<!ENTITY subscribedHeader.label       "Naroči se">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Pokaži elemente, ki vsebujejo:">

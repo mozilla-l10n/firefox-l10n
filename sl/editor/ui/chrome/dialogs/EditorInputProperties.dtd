@@ -35,46 +35,48 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Form Field Properties">
-<!ENTITY windowTitleImage.label "Form Image Properties">
+<!ENTITY windowTitleImage.label "Nastavitve za slike obrazca">
 
-<!ENTITY InputType.label "Field Type">
+<!ENTITY InputType.label "Vrsta polja">
 <!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "Text">
-<!ENTITY password.value "Password">
-<!ENTITY checkbox.value "Check Box">
-<!ENTITY radio.value "Radio Button">
-<!ENTITY submit.value "Submit Button">
-<!ENTITY reset.value "Reset Button">
-<!ENTITY file.value "File">
-<!ENTITY hidden.value "Hidden">
-<!ENTITY image.value "Image">
-<!ENTITY button.value "Button">
+<!ENTITY text.value "Besedilo">
+<!ENTITY password.value "Geslo">
+<!ENTITY checkbox.value "Potrditveno polje">
+<!ENTITY radio.value "Izbirni gumb">
+<!ENTITY submit.value "Gumb Predloži">
+<!ENTITY reset.value "Gumb Ponastavi">
+<!ENTITY file.value "Datoteka">
+<!ENTITY hidden.value "Skrito">
+<!ENTITY image.value "Slika">
+<!ENTITY button.value "Gumb">
 
-<!ENTITY InputSettings.label "Field Settings">
-<!ENTITY InputName.label "Field Name:">
-<!ENTITY GroupName.label "Group Name:">
-<!ENTITY Name.accesskey "N">
-<!ENTITY InputValue.label "Field Value:">
-<!ENTITY InitialValue.label "Initial Value:">
-<!ENTITY Value.accesskey "V">
-<!ENTITY InputChecked.label "Initially Checked">
+<!ENTITY InputSettings.label "Nastavitve polja">
+<!ENTITY InputName.label "Ime polja:">
+<!ENTITY InputName.accesskey "N">
+<!ENTITY GroupName.label "Ime skupine:">
+<!ENTITY GroupName.accesskey "N">
+<!ENTITY InputValue.label "Vrednost polja:">
+<!ENTITY InputValue.accesskey "V">
+<!ENTITY InitialValue.label "Začetna vrednost:">
+<!ENTITY InitialValue.accesskey "V">
+<!ENTITY InputChecked.label "Ob začetku potrjeno">
 <!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "Initially Selected">
+<!ENTITY InputSelected.label "Ob začetku izbrano">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Read Only">
-<!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "Disabled">
+<!ENTITY InputReadOnly.label "Samo za branje">
+<!ENTITY InputReadOnly.accesskey "D">
+<!ENTITY InputDisabled.label "Onemogočeno">
 <!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "Tab Index:">
+<!ENTITY tabIndex.label "Indeks oznake:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "Field Size:">
+<!ENTITY TextSize.label "Velikost polja:">
 <!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Maximum Length:">
-<!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY TextLength.label "Največja dolžina:">
+<!ENTITY TextLength.accesskey "L ">
+<!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "Accept Types:">
+<!ENTITY Accept.label "Sprejmi vrste:">
 <!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Image Properties...">
+<!ENTITY ImageProperties.label "Lastnosti slike...">
 <!ENTITY ImageProperties.accesskey "E">
