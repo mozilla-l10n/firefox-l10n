@@ -20,3 +20,13 @@
 <!ENTITY extensionsWeekly.accesskey           "m">
 <!ENTITY addonManagerButton.label             "Gestor de extras">
 <!ENTITY addonManagerButton.accesskey         "G">
+
+<!ENTITY whenUpdatesFound.label               "Quando actualizações para o &brandShortName; forem encontradas">
+<!ENTITY askMe.label                          "Perguntar-me o que fazer">
+<!ENTITY askMe.accesskey                      "n">
+<!ENTITY modeAutomatic.label                  "Transferir automaticamente e instalar a actualização">
+<!ENTITY modeAutomatic.accesskey              "c">
+<!ENTITY modeAutoAddonWarn.label              "Avisar-me caso desactive algum dos meus extras">
+<!ENTITY modeAutoAddonWarn.accesskey          "v">
+<!ENTITY updateHistory.label                  "Mostrar histórico de actualizações">
+<!ENTITY updateHistory.accesskey              "u">
