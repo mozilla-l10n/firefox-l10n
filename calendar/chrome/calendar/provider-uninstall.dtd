@@ -11,10 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Code.
+   - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is Simon Paquet.
-   - Portions created by the Initial Developer are Copyright (C) 2005
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -33,21 +34,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title			"新しいカレンダー" >
-<!ENTITY wizard.label			"新しいカレンダーを作成します" >
-<!ENTITY wizard.description		"カレンダーの保存先" >
-
-<!ENTITY initialpage.description	"カレンダーをこのコンピュータに保存するか、サーバに保存することができます。サーバに保存したカレンダーは、リモートからアクセスしたり友人や同僚と共有したりできます。">
-<!ENTITY initialpage.computer.label	"このコンピュータに保存する">
-<!ENTITY initialpage.network.label	"ネットワークのサーバに保存する">
-
-<!ENTITY locationpage.description	"リモートのカレンダーへの接続に必要な情報を入力してください。" >
-<!ENTITY locationpage.login.description	"オプション: ユーザ名とパスワードを入力" >
-<!ENTITY locationpage.username.label	"ユーザ名:" >
-<!ENTITY locationpage.password.label	"パスワード:" >
-
-<!ENTITY custompage.shortdescription	"カレンダーのカスタマイズ" >
-<!ENTITY custompage.longdescription	"カレンダー名と、このカレンダーの予定に付ける色を指定してください。" >
-
-<!ENTITY finishpage.shortdescription	"カレンダーの作成完了" >
-<!ENTITY finishpage.longdescription	"カレンダーが作成されました。" >
+<!ENTITY providerUninstall.title			"プロバイダアドオンのアンインストール">
+<!ENTITY providerUninstall.accept.label			"カレンダーを登録解除"> <!-- en-US: "Unsubscribe Selected" -->
+<!ENTITY providerUninstall.accept.accesskey		"U">
+<!ENTITY providerUninstall.cancel.label			"アドオンを無効化"><!-- en-US: "Keep Addon" -->
+<!ENTITY providerUninstall.cancel.accesskey		"K">
+<!ENTITY providerUninstall.preName.label		"次のアドオンをアンインストールまたは無効にします:">
+<!ENTITY providerUninstall.postName.label		"以下のカレンダーが無効になります。">
+<!ENTITY providerUninstall.reinstallNote.label		"このプロバイダアドオンを再インストールするのでなければ、このプロバイダのカレンダーを登録解除してください。">
