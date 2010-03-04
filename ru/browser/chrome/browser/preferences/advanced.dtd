@@ -41,7 +41,7 @@
 <!ENTITY enableSearchUpdate.accesskey "п">
 <!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
 <!ENTITY askMe.label "Предоставлять выбор действия пользователю">
-<!ENTITY askMe.accesskey "в">
+<!ENTITY askMe.accesskey "п">
 <!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
 <!ENTITY modeAutomatic.accesskey "в">
 <!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
