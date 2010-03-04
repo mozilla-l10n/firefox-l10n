@@ -1,115 +1,117 @@
-<!ENTITY messengerWindow.title		"メールとニュースグループ">
-<!ENTITY titledefault.label		"&brandFullName;">
-<!ENTITY titleSeparator.label		" - ">
+<!ENTITY messengerWindow.title			"メールとニュースグループ">
+<!ENTITY titledefault.label			"&brandFullName;">
+<!ENTITY titleSeparator.label			" - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label		"フォルダ...">
-<!ENTITY newFolderCmd.accesskey		"F">
-<!ENTITY closeTabCmd.label		"タブを閉じる">
-<!ENTITY closeTabCmd.accesskey		"e">
-<!ENTITY newVirtualFolderCmd.label	"検索フォルダ...">
-<!ENTITY newVirtualFolderCmd.accesskey	"S">
-<!ENTITY newAccountCmd.label		"アカウント...">
-<!ENTITY newAccountCmd.accesskey	"A">
-<!ENTITY newMailAccountCmd.label	"メールアカウント (クイック設定)...">
-<!ENTITY newMailAccountCmd.accesskey	"Q">
-<!ENTITY openMessageFileCmd.label	"メッセージファイルを開く...">
-<!ENTITY openMessageFileCmd.accesskey	"O">
-<!ENTITY openAttachmentCmd.label	"添付">
-<!ENTITY openAttachmentCmd.accesskey	"A">
-<!ENTITY saveAsMenu.label		"名前を付けて保存">
-<!ENTITY saveAsMenu.accesskey		"S">
-<!ENTITY saveAsFileCmd.label		"ファイル">
-<!ENTITY saveAsFileCmd.accesskey	"F">
-<!ENTITY saveAsFileCmd.key		"s">
-<!ENTITY saveAsTemplateCmd.label	"テンプレート">
-<!ENTITY saveAsTemplateCmd.accesskey	"T">
-<!ENTITY getNewMsgCmd.key		"t">
-<!ENTITY getNewMsgForCmd.label		"新着メッセージを受信">
-<!ENTITY getNewMsgForCmd.accesskey	"w">
+<!ENTITY newFolderCmd.label			"フォルダ...">
+<!ENTITY newFolderCmd.accesskey			"F">
+<!ENTITY closeTabCmd.label			"タブを閉じる">
+<!ENTITY closeTabCmd.accesskey			"e">
+<!ENTITY closeOtherTabsCmd.label		"他のタブを閉じる">
+<!ENTITY closeOtherTabsCmd.accesskey		"L">
+<!ENTITY newVirtualFolderCmd.label		"検索フォルダ...">
+<!ENTITY newVirtualFolderCmd.accesskey		"S">
+<!ENTITY newOtherAccountsCmd.label		"他のサービスのアカウント...">
+<!ENTITY newOtherAccountsCmd.accesskey		"O">
+<!ENTITY newEmailAccountCmd.label		"メールアカウント...">
+<!ENTITY newEmailAccountCmd.accesskey		"A">
+<!ENTITY openMessageFileCmd.label		"メッセージファイルを開く...">
+<!ENTITY openMessageFileCmd.accesskey		"O">
+<!ENTITY openAttachmentCmd.label		"添付">
+<!ENTITY openAttachmentCmd.accesskey		"A">
+<!ENTITY saveAsMenu.label			"名前を付けて保存">
+<!ENTITY saveAsMenu.accesskey			"S">
+<!ENTITY saveAsFileCmd.label			"ファイル">
+<!ENTITY saveAsFileCmd.accesskey		"F">
+<!ENTITY saveAsFileCmd.key			"s">
+<!ENTITY saveAsTemplateCmd.label		"テンプレート">
+<!ENTITY saveAsTemplateCmd.accesskey		"T">
+<!ENTITY getNewMsgCmd.key			"t">
+<!ENTITY getNewMsgForCmd.label			"新着メッセージを受信">
+<!ENTITY getNewMsgForCmd.accesskey		"w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label		"すべてのアカウント">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey	"A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label	"現在のアカウント">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey	"C">
-<!ENTITY getNextNMsgCmd.label		"次の 500 本の記事を受信">
-<!ENTITY getNextNMsgCmd.accesskey	"t">
-<!ENTITY sendUnsentCmd.label		"未送信メッセージを送信">
-<!ENTITY sendUnsentCmd.accesskey	"d">
-<!ENTITY subscribeCmd.label		"購読...">
-<!ENTITY subscribeCmd.accesskey		"b">
-<!ENTITY deleteFolder.label		"フォルダを削除">
-<!ENTITY deleteFolder.accesskey		"e">
-<!ENTITY renameFolder.label		"フォルダ名を変更...">
-<!ENTITY renameFolder.accesskey		"R">
-<!ENTITY renameFolder.key		"VK_F2">
-<!ENTITY compactFolders.label		"フォルダを最適化">
-<!ENTITY compactFolders.accesskey	"F">
-<!ENTITY emptyTrashCmd.label		"ごみ箱を空にする">
-<!ENTITY emptyTrashCmd.accesskey	"y">
-<!ENTITY offlineMenu.label		"オフライン">
-<!ENTITY offlineMenu.accesskey		"l">
-<!ENTITY offlineGoOfflineCmd.label	"オフライン作業">
-<!ENTITY offlineGoOfflineCmd.accesskey	"w">
-<!ENTITY synchronizeOfflineCmd.label	"今すぐダウンロードと同期...">
+<!ENTITY getNextNMsgCmd.label			"次の 500 本の記事を受信">
+<!ENTITY getNextNMsgCmd.accesskey		"t">
+<!ENTITY sendUnsentCmd.label			"未送信メッセージを送信">
+<!ENTITY sendUnsentCmd.accesskey		"d">
+<!ENTITY subscribeCmd.label			"購読...">
+<!ENTITY subscribeCmd.accesskey			"b">
+<!ENTITY deleteFolder.label			"フォルダを削除">
+<!ENTITY deleteFolder.accesskey			"e">
+<!ENTITY renameFolder.label			"フォルダ名を変更...">
+<!ENTITY renameFolder.accesskey			"R">
+<!ENTITY renameFolder.key			"VK_F2">
+<!ENTITY compactFolders.label			"フォルダを最適化">
+<!ENTITY compactFolders.accesskey		"F">
+<!ENTITY emptyTrashCmd.label			"ごみ箱を空にする">
+<!ENTITY emptyTrashCmd.accesskey		"y">
+<!ENTITY offlineMenu.label			"オフライン">
+<!ENTITY offlineMenu.accesskey			"l">
+<!ENTITY offlineGoOfflineCmd.label		"オフライン作業">
+<!ENTITY offlineGoOfflineCmd.accesskey		"w">
+<!ENTITY synchronizeOfflineCmd.label		"今すぐダウンロードして同期...">
 <!ENTITY synchronizeOfflineCmd.accesskey	"S">
-<!ENTITY settingsOfflineCmd.label	"オフライン設定...">
-<!ENTITY settingsOfflineCmd.accesskey	"e">
-<!ENTITY downloadSelectedCmd.label	"選択したメッセージを受信">
-<!ENTITY downloadSelectedCmd.accesskey	"l">
-<!ENTITY downloadStarredCmd.label	"スターを付けたメッセージを受信">
-<!ENTITY downloadStarredCmd.accesskey	"a">
-<!ENTITY printCmd.label			"印刷...">
-<!ENTITY printCmd.accesskey		"P">
-<!ENTITY printCmd.key			"p">
-<!ENTITY printPreviewCmd.label		"印刷プレビュー">
-<!ENTITY printPreviewCmd.accesskey	"v">
-<!ENTITY printSetupCmd.label		"ページ設定...">
-<!ENTITY printSetupCmd.accesskey	"u">
+<!ENTITY settingsOfflineCmd.label		"オフライン設定...">
+<!ENTITY settingsOfflineCmd.accesskey		"e">
+<!ENTITY downloadSelectedCmd.label		"選択したメッセージを受信">
+<!ENTITY downloadSelectedCmd.accesskey		"l">
+<!ENTITY downloadStarredCmd.label		"スターを付けたメッセージを受信">
+<!ENTITY downloadStarredCmd.accesskey		"a">
+<!ENTITY printCmd.label				"印刷...">
+<!ENTITY printCmd.accesskey			"P">
+<!ENTITY printCmd.key				"p">
+<!ENTITY printPreviewCmd.label			"印刷プレビュー">
+<!ENTITY printPreviewCmd.accesskey		"v">
+<!ENTITY printSetupCmd.label			"ページ設定...">
+<!ENTITY printSetupCmd.accesskey		"u">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label		"メッセージを削除">
-<!ENTITY deleteMsgCmd.accesskey		"D">
-<!ENTITY undeleteMsgCmd.label		"メッセージを削除しない">
-<!ENTITY undeleteMsgCmd.accesskey	"d">
-<!ENTITY cancelNewsMsgCmd.label		"メッセージをキャンセル">
-<!ENTITY cancelNewsMsgCmd.accesskey	"M">
-<!ENTITY deleteMsgsCmd.label		"選択したメッセージを削除">
-<!ENTITY deleteMsgsCmd.accesskey	"D">
-<!ENTITY undeleteMsgsCmd.label		"選択したメッセージを削除しない">
-<!ENTITY undeleteMsgsCmd.accesskey	"d">
-<!ENTITY cancelNewsMsgsCmd.label	"選択したメッセージをキャンセル">
-<!ENTITY cancelNewsMsgsCmd.accesskey	"n">
-<!ENTITY deleteFolderCmd.label		"フォルダを削除">
-<!ENTITY deleteFolderCmd.accesskey	"D">
-<!ENTITY unsubscribeNewsgroupCmd.label	"購読を解除">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
-<!ENTITY selectMenu.label		"選択">
-<!ENTITY selectMenu.accesskey		"S">
-<!ENTITY all.label			"すべて">
-<!ENTITY all.accesskey			"A">
-<!ENTITY selectThreadCmd.label		"スレッド">
-<!ENTITY selectThreadCmd.accesskey	"T">
-<!ENTITY selectThreadCmd.key		"a">
-<!ENTITY selectFlaggedCmd.label		"スター付きメッセージ">
-<!ENTITY selectFlaggedCmd.accesskey	"S">
-<!ENTITY menuFavoriteFolder.label	"お気に入り">
-<!ENTITY menuFavoriteFolder.accesskey	"v">
-<!ENTITY folderPropsCmd.label		"プロパティ...">
-<!ENTITY folderPropsFolderCmd.label	"フォルダのプロパティ...">
-<!ENTITY folderPropsNewsgroupCmd.label	"ニュースグループのプロパティ...">
-<!ENTITY folderPropsCmd.accesskey	"o">
-<!ENTITY undoDeleteMsgCmd.label		"元に戻す - メッセージの削除">
-<!ENTITY redoDeleteMsgCmd.label		"やり直し - メッセージの削除">
-<!ENTITY undoMoveMsgCmd.label		"元に戻す - メッセージの移動">
-<!ENTITY redoMoveMsgCmd.label		"やり直し - メッセージの移動">
-<!ENTITY undoCopyMsgCmd.label		"元に戻す - メッセージのコピー">
-<!ENTITY redoCopyMsgCmd.label		"やり直し - メッセージのコピー">
-<!ENTITY undoMarkAllCmd.label		"元に戻す - すべてを既読にする">
-<!ENTITY redoMarkAllCmd.label		"やり直し - すべてを既読にする">
-<!ENTITY undoDefaultCmd.label		"元に戻す">
-<!ENTITY undoDefaultCmd.accesskey	"U">
-<!ENTITY redoDefaultCmd.label		"やり直し">
-<!ENTITY redoDefaultCmd.accesskey	"R">
+<!ENTITY deleteMsgCmd.label			"メッセージを削除">
+<!ENTITY deleteMsgCmd.accesskey			"D">
+<!ENTITY undeleteMsgCmd.label			"メッセージを削除しない">
+<!ENTITY undeleteMsgCmd.accesskey		"d">
+<!ENTITY cancelNewsMsgCmd.label			"メッセージをキャンセル">
+<!ENTITY cancelNewsMsgCmd.accesskey		"M">
+<!ENTITY deleteMsgsCmd.label			"選択したメッセージを削除">
+<!ENTITY deleteMsgsCmd.accesskey		"D">
+<!ENTITY undeleteMsgsCmd.label			"選択したメッセージを削除しない">
+<!ENTITY undeleteMsgsCmd.accesskey		"d">
+<!ENTITY cancelNewsMsgsCmd.label		"選択したメッセージをキャンセル">
+<!ENTITY cancelNewsMsgsCmd.accesskey		"n">
+<!ENTITY deleteFolderCmd.label			"フォルダを削除">
+<!ENTITY deleteFolderCmd.accesskey		"D">
+<!ENTITY unsubscribeNewsgroupCmd.label		"購読を解除">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey	"n">
+<!ENTITY selectMenu.label			"選択">
+<!ENTITY selectMenu.accesskey			"S">
+<!ENTITY all.label				"すべて">
+<!ENTITY all.accesskey				"A">
+<!ENTITY selectThreadCmd.label			"スレッド">
+<!ENTITY selectThreadCmd.accesskey		"T">
+<!ENTITY selectThreadCmd.key			"a">
+<!ENTITY selectFlaggedCmd.label			"スター付きメッセージ">
+<!ENTITY selectFlaggedCmd.accesskey		"S">
+<!ENTITY menuFavoriteFolder.label		"お気に入り">
+<!ENTITY menuFavoriteFolder.accesskey		"v">
+<!ENTITY folderPropsCmd.label			"プロパティ...">
+<!ENTITY folderPropsFolderCmd.label		"フォルダのプロパティ...">
+<!ENTITY folderPropsNewsgroupCmd.label		"ニュースグループのプロパティ...">
+<!ENTITY folderPropsCmd.accesskey		"o">
+<!ENTITY undoDeleteMsgCmd.label			"元に戻す - メッセージの削除">
+<!ENTITY redoDeleteMsgCmd.label			"やり直し - メッセージの削除">
+<!ENTITY undoMoveMsgCmd.label			"元に戻す - メッセージの移動">
+<!ENTITY redoMoveMsgCmd.label			"やり直し - メッセージの移動">
+<!ENTITY undoCopyMsgCmd.label			"元に戻す - メッセージのコピー">
+<!ENTITY redoCopyMsgCmd.label			"やり直し - メッセージのコピー">
+<!ENTITY undoMarkAllCmd.label			"元に戻す - すべてを既読にする">
+<!ENTITY redoMarkAllCmd.label			"やり直し - すべてを既読にする">
+<!ENTITY undoDefaultCmd.label			"元に戻す">
+<!ENTITY undoDefaultCmd.accesskey		"U">
+<!ENTITY redoDefaultCmd.label			"やり直し">
+<!ENTITY redoDefaultCmd.accesskey		"R">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"メールツールバー">
@@ -130,6 +132,8 @@
 
 <!ENTITY folderView.label			"フォルダ">
 <!ENTITY folderView.accesskey			"F">
+<!ENTITY smartFolders.label			"スマートフォルダ">
+<!ENTITY smartFolders.accesskey			"S">
 <!ENTITY allFolders.label			"すべてのフォルダ">
 <!ENTITY allFolders.accesskey			"A">
 <!ENTITY unreadFolders.label			"未読フォルダ">
@@ -189,14 +193,14 @@
 <!ENTITY expandAllThreadsCmd.label		"すべてのスレッドを広げる">
 <!ENTITY expandAllThreadsCmd.accesskey		"E">
 <!ENTITY expandAllThreadsCmd.key		"*">
-<!ENTITY collapseAllThreadsCmd.label		"すべてのスレッドをたたむ">
+<!ENTITY collapseAllThreadsCmd.label		"すべてのスレッドを折りたたむ">
 <!ENTITY collapseAllThreadsCmd.accesskey	"C">
 <!ENTITY collapseAllThreadsCmd.key		"\">
 <!ENTITY unreadMsgsCmd.label			"未読">
 <!ENTITY unreadMsgsCmd.accesskey		"U">
-<!ENTITY threadsWithUnreadCmd.label		"未読のあるスレッド">
+<!ENTITY threadsWithUnreadCmd.label		"未読を含むスレッド">
 <!ENTITY threadsWithUnreadCmd.accesskey		"T">
-<!ENTITY watchedThreadsWithUnreadCmd.label	"未読のある注目スレッド">
+<!ENTITY watchedThreadsWithUnreadCmd.label	"未読を含む注目スレッド">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey	"W">
 <!ENTITY ignoredThreadsCmd.label		"無視スレッド">
 <!ENTITY ignoredThreadsCmd.accesskey		"i">
@@ -332,6 +336,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label		"全員に返信">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key		"r">
+<!ENTITY replyToListMsgCmd.label	"メーリングリストに返信">
+<!ENTITY replyToListMsgCmd.accesskey	"L">
+<!ENTITY replyToListMsgCmd.key		"l">
 <!ENTITY forwardMsgCmd.label		"転送">
 <!ENTITY forwardMsgCmd.accesskey	"F">
 <!ENTITY forwardMsgCmd.key		"l">
@@ -433,6 +440,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey		"A">
 <!ENTITY activitymanager.label		"イベントログの管理"><!-- (^^; en-US: Activity Manager -->
 <!ENTITY activitymanager.accesskey	"v">
+<!ENTITY savedFiles.label		"保存したファイル">
+<!ENTITY savedFiles.accesskey		"l">
+<!ENTITY savedFiles.key			"j">
 <!ENTITY filtersCmd.label		"メッセージフィルタ...">
 <!ENTITY filtersCmd.accesskey		"F">
 <!ENTITY filtersApply.label		"フォルダにフィルタを適用">
@@ -460,8 +470,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label		"作成">
 <!ENTITY replyButton.label		"返信">
 <!ENTITY replyAllButton.label		"全員に返信">
+<!ENTITY replyListButton.label		"リストに返信">
 <!ENTITY forwardButton.label		"転送">
 <!ENTITY fileButton.label		"移動"><!-- (^^; en-US: File -->
+<!ENTITY archiveButton.label		"アーカイブ">
 <!ENTITY nextButton.label		"次へ">
 <!ENTITY previousButton.label		"前へ">
 <!ENTITY backButton1.label		"戻る">
@@ -485,14 +497,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY advancedButton.tooltip		"メッセージを詳細に検索します">
 <!ENTITY getMsgButton.tooltip		"メッセージを受信します">
-<!ENTITY getAllNewMsgCmd.label		"新しいメッセージをすべて受信">
+<!ENTITY getAllNewMsgCmd.label		"新着メッセージをすべて受信">
 <!ENTITY getAllNewMsgCmd.accesskey	"G">
 <!ENTITY getAllNewMsgCmd.key		"t">
 <!ENTITY newMsgButton.tooltip		"新しいメッセージを作成します">
 <!ENTITY replyButton.tooltip		"メッセージに返信します">
 <!ENTITY replyAllButton.tooltip		"送受信者全員に返信します">
+<!ENTITY replyListButton.tooltip	"メーリングリストに返信します">
 <!ENTITY forwardButton.tooltip		"メッセージを転送します">
 <!ENTITY fileButton.tooltip		"メッセージを別のフォルダに移します">
+<!ENTITY archiveButton.tooltip		"選択したメッセージをアーカイブに移動します">
 <!ENTITY nextButton.tooltip		"次の未読メッセージに移動します">
 <!ENTITY previousButton.tooltip		"前の未読メッセージに移動します">
 <!ENTITY goForwardButton.tooltip	"メッセージ表示履歴を次に進みます"><!-- 一つ次以外も -->
@@ -519,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label			"メッセージを取得する">
 <!ENTITY folderContextGetMessages.accesskey		"G">
-<!ENTITY folderContextOpenNewWindow.label		"開く">
+<!ENTITY folderContextOpenNewWindow.label		"新しいウィンドウで開く">
 <!ENTITY folderContextOpenNewWindow.accesskey		"O">
 <!ENTITY folderContextOpenNewTab.label			"新しいタブで開く">
 <!ENTITY folderContextOpenNewTab.accesskey		"T">
@@ -560,28 +574,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText		"メッセージ検索...">
-<!ENTITY glodaSearchBar.facet.label		"検索:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label	"すべて">
-<!ENTITY glodaSearchFacet.subject.label		"件名">
-<!ENTITY glodaSearchFacet.involves.label	"送信者および受信者 (from,to,cc,bcc)"><!--  (^^; en-US: Involves -->
-<!ENTITY glodaSearchFacet.to.label		"受信者 (To, CC)">
-<!ENTITY glodaSearchFacet.from.label		"送信者">
-<!ENTITY glodaSearchFacet.body.label		"メッセージ本文">
-<!ENTITY glodaSearchFacet.attachmentNames.label	"添付ファイル名">
-
-<!ENTITY glodaSearchBar.location.label		"場所:">
-<!ENTITY glodaSearchFacet.everywhere.label	"すべてのフォルダ">
-<!ENTITY glodaSearchFacet.folder.label		"指定したフォルダ...">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label		"件名">
@@ -608,15 +600,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.label		"合計">
 <!ENTITY readColumn.label		"既読">
 <!ENTITY receivedColumn.label		"受信日時">
-<!ENTITY starredColumn.label		"スターあり">
+<!ENTITY starredColumn.label		"スター">
 <!ENTITY locationColumn.label		"フォルダ">
 <!ENTITY idColumn.label			"受信順">
 <!ENTITY attachmentColumn.label		"添付">
-
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label		"該当項目"><!-- (^^; en-US: Why -->
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip		"クリックすると表示する列を選択できます">
@@ -639,7 +626,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip		"クリックするとフォルダで並べ替えます">
 <!ENTITY idColumn.tooltip		"クリックすると受信した順で並べ替えます">
 <!ENTITY attachmentColumn.tooltip	"クリックすると添付の有無で並べ替えます">
-<!ENTITY glodaWhyColumn.tooltip		"クリックすると検索結果を該当項目で並べ替えます">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label		"新しいウィンドウでメッセージを開く">
@@ -648,12 +634,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey		"T">
 <!ENTITY contextEditAsNew.label			"新しく編集...">
 <!ENTITY contextEditAsNew.accesskey		"E">
+<!ENTITY contextArchive.label			"アーカイブ">
+<!ENTITY contextArchive.accesskey		"h">
 <!ENTITY contextReplySender.label		"送信者だけに返信">
 <!ENTITY contextReplySender.accesskey		"R">
 <!ENTITY contextReplyNewsgroup.label		"ニュースグループに返信">
 <!ENTITY contextReplyNewsgroup.accesskey	"y">
 <!ENTITY contextReplyAll.label			"全員に返信">
 <!ENTITY contextReplyAll.accesskey		"A">
+<!ENTITY contextReplyList.label			"メーリングリストに返信">
+<!ENTITY contextReplyList.accesskey		"L">
 <!ENTITY contextForward.label			"転送">
 <!ENTITY contextForward.accesskey		"F">
 <!ENTITY contextForwardAsAttachment.label	"添付として転送">
@@ -670,6 +660,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey			"P">
 <!ENTITY contextPrintPreview.label		"印刷プレビュー">
 <!ENTITY contextPrintPreview.accesskey		"v">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label		"再生">
+<!ENTITY contextPlay.accesskey		"P">
+<!ENTITY contextPause.label		"一時停止">
+<!ENTITY contextPause.accesskey		"P">
+<!ENTITY contextMute.label		"ミュート">
+<!ENTITY contextMute.accesskey		"M">
+<!ENTITY contextUnmute.label		"ミュート解除">
+<!ENTITY contextUnmute.accesskey	"m">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label		"迷惑メール">
@@ -690,6 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key		"k">
+<!ENTITY searchAllMessages.label	"すべてのメッセージを検索">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label		"アドレス帳に追加...">
@@ -700,10 +701,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey		"E">
 <!ENTITY ViewContact.label		"連絡先を表示">
 <!ENTITY ViewContact.accesskey		"V">
-<!ENTITY SendMailTo.label		"メールを作成">
-<!ENTITY SendMailTo.accesskey		"s">
+<!ENTITY SubscribeToNewsgroup.label	"ニュースグループを購読">
+<!ENTITY SubscribeToNewsgroup.accesskey	"N">
+<!ENTITY SendMessageTo.label		"メッセージを作成">
+<!ENTITY SendMessageTo.accesskey	"s">
 <!ENTITY CopyEmailAddress.label		"メールアドレスをコピー">
 <!ENTITY CopyEmailAddress.accesskey	"C">
+<!ENTITY CopyNewsgroupName.label	"ニュースグループ名をコピー">
+<!ENTITY CopyNewsgroupName.accesskey	"C">
+<!ENTITY CopyNewsgroupURL.label		"ニュースグループの URL をコピー">
+<!ENTITY CopyNewsgroupURL.accesskey	"U">
 <!ENTITY CreateFilterFrom.label		"フィルタを作成...">
 <!ENTITY CreateFilterFrom.accesskey	"F">
 <!ENTITY reportPhishingURL.label	"偽装サイトの URL を報告"><!-- en-US: Report E-mail Scam -->
@@ -714,16 +721,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey	"k">
 <!ENTITY saveImageAsCmd.label		"名前を付けて画像を保存...">
 <!ENTITY saveImageAsCmd.accesskey	"v">
+<!ENTITY cutCmd.label			"切り取り">
+<!ENTITY cutCmd.accesskey		"u">
 <!ENTITY copyCmd.label			"コピー">
 <!ENTITY copyCmd.accesskey		"C">
+<!ENTITY pasteCmd.label			"貼り付け">
+<!ENTITY pasteCmd.accesskey		"P">
 <!ENTITY selectAllCmd.label		"すべて選択">
 <!ENTITY selectAllCmd.accesskey		"A">
 <!ENTITY copyLinkCmd.label		"リンク URL をコピー">
 <!ENTITY copyLinkCmd.accesskey		"C">
-<!ENTITY copyImageCmd.label		"画像の URL をコピー">
-<!ENTITY copyImageCmd.accesskey		"o">
+<!ENTITY copyImageAllCmd.label		"画像をコピー">
+<!ENTITY copyImageAllCmd.accesskey	"I">
 <!ENTITY copyEmailCmd.label		"メールアドレスをコピー">
 <!ENTITY copyEmailCmd.accesskey		"E">
+<!ENTITY stopCmd.label			"中止">
+<!ENTITY stopCmd.accesskey		"S">
+<!ENTITY reloadCmd.label		"更新">
+<!ENTITY reloadCmd.accesskey		"R">
+<!ENTITY openInBrowser.label		"ブラウザで開く">
+<!ENTITY openInBrowser.accesskey	"O">
+<!ENTITY openLinkInBrowser.label	"リンクをブラウザで開く">
+<!ENTITY openLinkInBrowser.accesskey	"O">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label		"完了">

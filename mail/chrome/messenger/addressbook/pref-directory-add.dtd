@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label	"LDAP ディレクトリサーバのプロパティ">
+<!ENTITY newDirectoryTitle.label	"LDAP サーバのプロパティ">
 <!ENTITY directoryName.label		"名前:">
 <!ENTITY directoryName.accesskey	"n">
 <!ENTITY directoryHostname.label	"ホスト名:">
