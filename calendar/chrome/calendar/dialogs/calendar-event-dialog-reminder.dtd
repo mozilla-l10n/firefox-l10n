@@ -11,10 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Code.
+   - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is Simon Paquet.
-   - Portions created by the Initial Developer are Copyright (C) 2005
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -33,21 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title			"新規カレンダー" >
-<!ENTITY wizard.label			"新規カレンダーを作成します" >
-<!ENTITY wizard.description		"カレンダーの保存先" >
+<!ENTITY reminderdialog.title			"アラームの設定">
+<!ENTITY reminder.add.label			"追加">
+<!ENTITY reminder.add.accesskey			"A">
+<!ENTITY reminder.remove.label			"削除">
+<!ENTITY reminder.remove.accesskey		"R">
 
-<!ENTITY initialpage.description	"カレンダーをこのコンピュータに保存するか、サーバに保存することができます。サーバに保存したカレンダーは、リモートからアクセスしたり友人や同僚と共有したりできます。">
-<!ENTITY initialpage.computer.label	"このコンピュータに保存する">
-<!ENTITY initialpage.network.label	"ネットワークのサーバに保存する">
+<!ENTITY reminder.reminderDetails.label		"アラームの詳細">
+<!ENTITY reminder.action.label			"アラーム動作の選択">
 
-<!ENTITY locationpage.description	"リモートのカレンダーへの接続に必要な情報を入力してください。" >
-<!ENTITY locationpage.login.description	"オプション: ユーザ名とパスワードを入力" >
-<!ENTITY locationpage.username.label	"ユーザ名:" >
-<!ENTITY locationpage.password.label	"パスワード:" >
+<!ENTITY reminder.relation.before.label		"前" >
+<!ENTITY reminder.relation.after.label		"後" >
 
-<!ENTITY custompage.shortdescription	"カレンダーのカスタマイズ" >
-<!ENTITY custompage.longdescription	"カレンダー名と、このカレンダーの予定に付けるカラーを指定してください。" >
+<!ENTITY reminder.action.alert.label		"アラームを表示する">
+<!ENTITY reminder.action.email.label		"メールを送信する">
 
-<!ENTITY finishpage.shortdescription	"カレンダーの作成完了" >
-<!ENTITY finishpage.longdescription	"カレンダーが作成されました。" >
+<!ENTITY alarm.units.minutes			"分" >
+<!ENTITY alarm.units.hours			"時間" >
+<!ENTITY alarm.units.days			"日" >
