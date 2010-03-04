@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey	"h">
 <!ENTITY searchSubfolders.label		"サブフォルダも検索する">
 <!ENTITY searchSubfolders.accesskey	"e">
+<!ENTITY searchOnServer.label		"サーバ上のメッセージを検索する">
+<!ENTITY searchOnServer.accesskey	"u">
 <!ENTITY resetButton.label		"リセット">
 <!ENTITY resetButton.accesskey		"C">
 <!ENTITY openButton.label		"開く">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label		"移動">
 <!ENTITY fileButton.accesskey		"i">
 <!ENTITY closeCmd.key			"W"> 
-<!ENTITY goToFolderButton.label		"メッセージフォルダを開く">
-<!ENTITY goToFolderButton.accesskey	"r">
+<!ENTITY openInFolder.label		"フォルダを開く">
+<!ENTITY openInFolder.accesskey		"r">
 <!ENTITY saveAsVFButton.label		"検索フォルダとして保存"><!-- (^^; Save as Search Folder -->
 <!ENTITY saveAsVFButton.accesskey	"v">
 
@@ -45,7 +47,7 @@
 <!ENTITY unreadColumn.label		"未読">
 <!ENTITY totalColumn.label		"合計">
 <!ENTITY readColumn.label		"既読">
-<!ENTITY starredColumn.label		"スターあり">
+<!ENTITY starredColumn.label		"スター">
 <!ENTITY receivedColumn.label		"受信日時">
 <!ENTITY locationColumn.label		"フォルダ">
 <!ENTITY idColumn.label			"受信順">

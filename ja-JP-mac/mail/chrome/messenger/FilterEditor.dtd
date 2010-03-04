@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label		"メールチェック時">
 <!ENTITY contextManual.label		"手動で実行">
 <!ENTITY contextBoth.label		"メールチェック時と手動実行">
+<!ENTITY contextPostPlugin.label	"メールチェック時 (迷惑メール分類後)">
+<!ENTITY contextPostPluginBoth.label	"メールチェック時 (迷惑メール分類後) または手動実行">
 <!ENTITY filterActionDesc.label		"以下の動作を実行する:">
 <!ENTITY filterActionDesc.accesskey	"P">
 
@@ -24,7 +26,7 @@
 <!ENTITY moveMessage.label		"メッセージを移動する">
 <!ENTITY copyMessage.label		"メッセージをコピーする">
 <!ENTITY forwardTo.label		"メッセージを転送する">
-<!ENTITY replyWithTemplate.label	"テンプレートを使って返信">
+<!ENTITY replyWithTemplate.label	"テンプレートを使用して返信する">
 <!ENTITY markMessageRead.label		"メッセージを既読にする">
 <!ENTITY markMessageStarred.label	"メッセージにスターを付ける">
 <!ENTITY setPriority.label		"重要度を設定する">
