@@ -1,9 +1,9 @@
 <!ENTITY pref.smartUpdate.title "Instalación de software">
 <!ENTITY smartTitle.label "Administrar instalaciones de software y actualizaciones">
 <!ENTITY enableSU.label "Permitir a los sitios web instalar extensiones y actualizaciones">
-<!ENTITY enableSU.accesskey "e">
+<!ENTITY enableSU.accesskey "P">
 <!ENTITY allowedSites.label "Sitios permitidos">
-<!ENTITY allowedSites.accesskey "t">
+<!ENTITY allowedSites.accesskey "e">
 <!ENTITY verifyUpdates.caption "Actualizaciones">
 <!ENTITY autoUpdates.label "Buscar actualizaciones automáticamente para:">
 <!ENTITY appUpdates.label "&brandShortName;">
@@ -13,8 +13,17 @@
 <!ENTITY weekly.label "semanalmente">
 <!ENTITY appWeekly.accesskey "n">
 <!ENTITY extensionsUpdates.label "Complementos instalados">
-<!ENTITY extensionsUpdates.accesskey "n">
-<!ENTITY extensionsDaily.accesskey "i">
+<!ENTITY extensionsUpdates.accesskey "C">
+<!ENTITY extensionsDaily.accesskey "">
 <!ENTITY extensionsWeekly.accesskey "n">
 <!ENTITY addonManagerButton.label "Administrador de complementos">
 <!ENTITY addonManagerButton.accesskey "m">
+<!ENTITY whenUpdatesFound.label "Cuando se encuentren actualizaciones para &brandShortName;">
+<!ENTITY askMe.label "Preguntarme qué quiero hacer">
+<!ENTITY askMe.accesskey "h">
+<!ENTITY modeAutomatic.label "Descargar e instalar automáticamente la actualización">
+<!ENTITY modeAutomatic.accesskey "o">
+<!ENTITY modeAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos">
+<!ENTITY modeAutoAddonWarn.accesskey "A">
+<!ENTITY updateHistory.label "Mostrar el historial de actualizaciones">
+<!ENTITY updateHistory.accesskey "u">
