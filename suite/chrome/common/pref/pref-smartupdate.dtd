@@ -36,7 +36,7 @@
 <!ENTITY enableSU.label                       "Leisti svetainėms įdiegti plėtinius ir naujinimus">
 <!ENTITY enableSU.accesskey                   "L">
 <!ENTITY allowedSites.label                   "Leistinos svetainės">
-<!ENTITY allowedSites.accesskey               "s">
+<!ENTITY allowedSites.accesskey               "v">
 
 <!ENTITY verifyUpdates.caption                "Atnaujinimas">
 <!ENTITY autoUpdates.label                    "Automatiškai tikrinti, ar yra naujinimų:">
@@ -52,3 +52,13 @@
 <!ENTITY extensionsWeekly.accesskey           "a">
 <!ENTITY addonManagerButton.label             "Priedų tvarkytuvė">
 <!ENTITY addonManagerButton.accesskey         "t">
+
+<!ENTITY whenUpdatesFound.label               "Radus programos „&brandShortName;“ naujinimų:">
+<!ENTITY askMe.label                          "pranešti ir paklausti, ką daryti">
+<!ENTITY askMe.accesskey                      "e">
+<!ENTITY modeAutomatic.label                  "naujinimus atsiųsti ir įdiegti automatiškai">
+<!ENTITY modeAutomatic.accesskey              "n">
+<!ENTITY modeAutoAddonWarn.label              "įspėti, jeigu naujinimas gali būti nesuderinamas su įdiegtais priedais">
+<!ENTITY modeAutoAddonWarn.accesskey          "s">
+<!ENTITY updateHistory.label                  "Rodyti atnaujinimo žurnalą">
+<!ENTITY updateHistory.accesskey              "ž">
