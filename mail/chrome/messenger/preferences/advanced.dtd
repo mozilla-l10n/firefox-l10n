@@ -43,8 +43,8 @@
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Установленных дополнений">
 <!ENTITY enableAddonsUpdate.accesskey "о">
-<!ENTITY whenUpdatesFound.label "Если для &brandShortName; найдены обновления:">
-<!ENTITY modeAskMe.label "Спросить меня что делать">
+<!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
+<!ENTITY modeAskMe.label "Предоставлять выбор действия пользователю">
 <!ENTITY modeAskMe.accesskey "п">
 <!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
 <!ENTITY modeAutomatic.accesskey "в">
