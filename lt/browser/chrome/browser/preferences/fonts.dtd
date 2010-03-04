@@ -83,6 +83,7 @@
 <!ENTITY  font.langGroup.telugu                   "Telugų">
 <!ENTITY  font.langGroup.kannada                  "Kanadų">
 <!ENTITY  font.langGroup.sinhala                  "Singalų">
+<!ENTITY  font.langGroup.tibetan                  "Tibetiečių">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalus šrifto dydis:">
 <!ENTITY minSize.accesskey                        "M">
