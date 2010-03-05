@@ -51,7 +51,7 @@
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Anular">
-<!ENTITY undoCmd.key "u">
+<!ENTITY undoCmd.key "z">
 <!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Refazer">
 <!ENTITY redoCmd.key "y">
