@@ -46,6 +46,7 @@
 <!ENTITY font.langGroup.telugu "Telugu">
 <!ENTITY font.langGroup.kannada "Kannada">
 <!ENTITY font.langGroup.sinhala "Singalese">
+<!ENTITY font.langGroup.tibetan "Tibetano">
 <!ENTITY minSize.label "Dimensione min. carattere:">
 <!ENTITY minSize.accesskey "n">
 <!ENTITY minSize.none "Nessuna">
