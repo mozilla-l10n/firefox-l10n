@@ -45,3 +45,6 @@
 <!ENTITY folderRestriction2.label   "Permitir que a sua pasta contenha:">
 <!ENTITY foldersOnly.label          "Apenas Pastas">
 <!ENTITY messagesOnly.label         "Apenas mensagens">
+<!ENTITY accept.label               "Criar pasta">
+<!ENTITY accept.accesskey           "r">
+
