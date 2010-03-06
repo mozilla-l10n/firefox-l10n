@@ -36,12 +36,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "New Folder">
-<!ENTITY name.label                 "Name:">
-<!ENTITY name.accesskey             "n">
-<!ENTITY description.label          "Create as a subfolder of:">
-<!ENTITY description.accesskey      "c">
-<!ENTITY folderRestriction1.label   "This server restricts folders to two special kinds.">
-<!ENTITY folderRestriction2.label   "Allow your new folder to contain:">
-<!ENTITY foldersOnly.label          "Folders Only">
-<!ENTITY messagesOnly.label         "Messages Only">
+<!ENTITY newFolderDialog.title "Nueva carpeta">
+<!ENTITY name.label "Nombre:">
+<!ENTITY name.accesskey "N">
+<!ENTITY description.label "Crear como subcarpeta de:">
+<!ENTITY description.accesskey "C">
+<!ENTITY folderRestriction1.label "Este servidor restringe las carpetas a dos tipos especiales.">
+<!ENTITY folderRestriction2.label "Permitir que su nueva carpeta contenga:">
+<!ENTITY foldersOnly.label "Sólo carpetas">
+<!ENTITY messagesOnly.label "Sólo mensajes">
+<!ENTITY accept.label               "Crear carpeta">
+<!ENTITY accept.accesskey           "r">

@@ -1,22 +1,33 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
-<!ENTITY pref.smartUpdate.title               "Software Installation">
-<!ENTITY smartTitle.label                     "Manage Software Installations and Updates">
-<!ENTITY enableSU.label                       "Allow web sites to install extensions and updates">
+<!ENTITY pref.smartUpdate.title               "Instalación de software">
+<!ENTITY smartTitle.label                     "Aministrar instalaciones y actualizaciones de software">
+<!ENTITY enableSU.label                       "Permitir a los sitios web que instalen extensiones y actualizaciones">
 <!ENTITY enableSU.accesskey                   "e">
-<!ENTITY allowedSites.label                   "Allowed Sites">
-<!ENTITY allowedSites.accesskey               "A">
+<!ENTITY allowedSites.label                   "Sitios permitidos">
+<!ENTITY allowedSites.accesskey               "p">
 
-<!ENTITY verifyUpdates.caption                "Updates">
-<!ENTITY autoUpdates.label                    "Automatically check for updates to:">
+<!ENTITY verifyUpdates.caption                "Actualizaciones">
+<!ENTITY autoUpdates.label                    "Verificar automáticamente si hay actualizaciones para:">
 <!ENTITY appUpdates.label                     "&brandShortName;">
 <!ENTITY appUpdates.accesskey                 "S">
-<!ENTITY daily.label                          "daily">
+<!ENTITY daily.label                          "diariamente">
 <!ENTITY appDaily.accesskey                   "d">
-<!ENTITY weekly.label                         "weekly">
-<!ENTITY appWeekly.accesskey                  "w">
-<!ENTITY extensionsUpdates.label              "Installed Add-ons">
+<!ENTITY weekly.label                         "semanalmente">
+<!ENTITY appWeekly.accesskey                  "m">
+<!ENTITY extensionsUpdates.label              "Agregados instalados">
 <!ENTITY extensionsUpdates.accesskey          "n">
 <!ENTITY extensionsDaily.accesskey            "i">
-<!ENTITY extensionsWeekly.accesskey           "k">
-<!ENTITY addonManagerButton.label             "Add-on Manager">
+<!ENTITY extensionsWeekly.accesskey           "l">
+<!ENTITY addonManagerButton.label             "Administrador de agregados">
 <!ENTITY addonManagerButton.accesskey         "M">
+
+<!ENTITY whenUpdatesFound.label               "Cuando se encuentren actualizaciones para &brandShortName;">
+<!ENTITY askMe.label                          "Preguntarme qué hacer">
+<!ENTITY askMe.accesskey                      "n">
+<!ENTITY modeAutomatic.label                  "Descargar e instalar la actualización automáticamente">
+<!ENTITY modeAutomatic.accesskey              "c">
+<!ENTITY modeAutoAddonWarn.label              "Avisarme si ésto deshabilitará algunos de mis agregados">
+<!ENTITY modeAutoAddonWarn.accesskey          "b">
+<!ENTITY updateHistory.label                  "Mostrar historial de actualizaciones">
+<!ENTITY updateHistory.accesskey              "u">
+

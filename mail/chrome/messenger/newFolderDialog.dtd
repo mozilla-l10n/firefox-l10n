@@ -30,3 +30,5 @@
 <!ENTITY folderRestriction2.label "Permitir que su nueva carpeta contenga:">
 <!ENTITY foldersOnly.label "Sólo carpetas">
 <!ENTITY messagesOnly.label "Sólo mensajes">
+<!ENTITY accept.label               "Crear carpeta">
+<!ENTITY accept.accesskey           "r">
