@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Neuer Ordner">
 <!ENTITY name.label                 "Name des Ordners:">
@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "Der neue Ordner darf Folgendes enthalten:">
 <!ENTITY foldersOnly.label          "Nur Ordner">
 <!ENTITY messagesOnly.label         "Nur Nachrichten">
+<!ENTITY accept.label               "Ordner erstellen">
+<!ENTITY accept.accesskey           "O">
