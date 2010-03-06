@@ -37,12 +37,15 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
    
-<!ENTITY newFolderDialog.title "Nova pasta">
-<!ENTITY name.label "Nome:">
-<!ENTITY name.accesskey "n">
-<!ENTITY description.label "Criar como sub-pasta de:">
-<!ENTITY description.accesskey "c">
-<!ENTITY folderRestriction1.label "Este servidor restringe pastas de dois modos especiais.">
-<!ENTITY folderRestriction2.label "Permitir que a sua pasta contenha:">
-<!ENTITY foldersOnly.label "Apenas Pastas">
-<!ENTITY messagesOnly.label "Apenas mensagens">
+<!ENTITY newFolderDialog.title      "Nova pasta">
+<!ENTITY name.label                 "Nome:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Criar como sub-pasta de:">
+<!ENTITY description.accesskey      "c">
+<!ENTITY folderRestriction1.label   "Este servidor restringe pastas de dois modos especiais.">
+<!ENTITY folderRestriction2.label   "Permitir que a sua pasta contenha:">
+<!ENTITY foldersOnly.label          "Apenas Pastas">
+<!ENTITY messagesOnly.label         "Apenas mensagens">
+<!ENTITY accept.label               "Criar pasta">
+<!ENTITY accept.accesskey           "r">
+ 
