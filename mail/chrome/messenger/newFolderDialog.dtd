@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label "Разрешить новой папке содержать:">
 <!ENTITY foldersOnly.label "Папки">
 <!ENTITY messagesOnly.label "Сообщения">
+<!ENTITY accept.label "Создать папку">
+<!ENTITY accept.accesskey "з">
