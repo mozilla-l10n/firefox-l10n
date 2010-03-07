@@ -80,26 +80,24 @@
 <!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Datei">
-<!ENTITY  event.menu.file.accesskey                       "D">
-<!ENTITY  event.menu.file.new.label                       "Neu">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Termin">
-<!ENTITY  event.menu.file.new.event.accesskey             "T">
-<!ENTITY  event.menu.file.new.message.label               "Nachricht">
-<!ENTITY  event.menu.file.new.message.accesskey           "a">
-<!ENTITY  event.menu.file.new.contact.label               "Kontakt">
-<!ENTITY  event.menu.file.new.contact.accesskey           "K">
-<!ENTITY  event.menu.file.close.label                     "Schließen">
-<!ENTITY  event.menu.file.close.accesskey                 "S">
-<!ENTITY  event.menu.file.save.label                      "Speichern">
-<!ENTITY  event.menu.file.save.accesskey                  "p">
+<!ENTITY  event.menu.item.new.label                       "Neu">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Termin">
+<!ENTITY  event.menu.item.new.event.accesskey             "T">
+<!ENTITY  event.menu.item.new.message.label               "Nachricht">
+<!ENTITY  event.menu.item.new.message.accesskey           "a">
+<!ENTITY  event.menu.item.new.contact.label               "Kontakt">
+<!ENTITY  event.menu.item.new.contact.accesskey           "K">
+<!ENTITY  event.menu.item.close.label                     "Schließen">
+<!ENTITY  event.menu.item.close.accesskey                 "S">
+<!ENTITY  event.menu.item.save.label                      "Speichern">
+<!ENTITY  event.menu.item.save.accesskey                  "p">
 <!ENTITY  event.menu.item.delete.label                    "Löschen…">
 <!ENTITY  event.menu.item.delete.accesskey                "L">
-<!ENTITY  event.menu.file.page.setup.label                "Seite einrichten">
-<!ENTITY  event.menu.file.page.setup.accesskey            "e">
-<!ENTITY  event.menu.file.print.label                     "Drucken">
-<!ENTITY  event.menu.file.print.accesskey                 "D">
+<!ENTITY  event.menu.item.page.setup.label                "Seite einrichten">
+<!ENTITY  event.menu.item.page.setup.accesskey            "e">
+<!ENTITY  event.menu.item.print.label                     "Drucken">
+<!ENTITY  event.menu.item.print.accesskey                 "D">
 
 <!ENTITY  event.menu.edit.label                           "Bearbeiten">
 <!ENTITY  event.menu.edit.accesskey                       "B">
