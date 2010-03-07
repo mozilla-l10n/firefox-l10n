@@ -20,3 +20,13 @@
 <!ENTITY extensionsWeekly.accesskey "n">
 <!ENTITY addonManagerButton.label "Gérer les modules complémentaires">
 <!ENTITY addonManagerButton.accesskey "G">
+
+<!ENTITY whenUpdatesFound.label "Quand des mises à jour pour &brandShortName; sont disponibles">
+<!ENTITY askMe.label "Demander ce qu'il faut faire">
+<!ENTITY askMe.accesskey "c">
+<!ENTITY modeAutomatic.label "Télécharger et installer automatiquement les mises à jour">
+<!ENTITY modeAutomatic.accesskey "T">
+<!ENTITY modeAutoAddonWarn.label "Avertir si cela désactive des modules complémentaires">
+<!ENTITY modeAutoAddonWarn.accesskey "v">
+<!ENTITY updateHistory.label "Afficher l'historique des mises à jour">
+<!ENTITY updateHistory.accesskey "h">
