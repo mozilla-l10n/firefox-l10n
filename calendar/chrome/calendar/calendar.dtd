@@ -46,11 +46,6 @@
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.dayView.key                  "1">
-<!ENTITY calendar.weekView.key                 "2">
-<!ENTITY calendar.multiweekView.key            "3">
-<!ENTITY calendar.monthView.key                "4">
-
 <!ENTITY calendar.newevent.button.tooltip         "Neuen Termin erstellen">
 <!ENTITY calendar.newtask.button.tooltip          "Neue Aufgabe erstellen">
 
