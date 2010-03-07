@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "Buat nama folder baru Anda yang mengandung:">
 <!ENTITY foldersOnly.label          "Hanya Folder">
 <!ENTITY messagesOnly.label         "Pesan Saja">
+<!ENTITY accept.label               "Buat Folder">
+<!ENTITY accept.accesskey           "r">
