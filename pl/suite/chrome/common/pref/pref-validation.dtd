@@ -51,7 +51,7 @@
 <!ENTITY proxyOCSP2.accesskey "a">
 <!ENTITY serviceURL.label "Adres URL Usługi:">
 <!ENTITY serviceURL.accesskey "A">
-<!ENTITY signingCA.label "Urząd weryfikujący:">
+<!ENTITY signingCA.label "Organ certyfikacji:">
 <!ENTITY signingCA.accesskey "r">
 <!ENTITY validation.requireOCSP.description "Jeśli nie uda się połączyć z serwerem OCSP, traktuj certyfikat jako niewiarygodny">
 <!ENTITY validation.requireOCSP.accesskey "O">
