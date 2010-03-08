@@ -1,15 +1,8 @@
 <!ENTITY pref.history.title "Гісторыя">
 <!ENTITY pref.history.caption "Гісторыя азірання">
 <!ENTITY historyPages.label "Гісторыя – гэта спіс напярэдадні наведаных старонак.">
-<!ENTITY expireDaysMin1.label "Заўсёды памятаць наведаныя старонкі на працягу">
-<!ENTITY expireDaysMin1.accesskey "З">
-<!ENTITY expireDaysMin2.label "дзён">
-<!ENTITY expireDays1.label "Памятаць наведаныя старонкі на працягу">
-<!ENTITY expireDays1.accesskey "П">
-<!ENTITY expireDays2.label "дзён">
-<!ENTITY expireSites1.label "Памятаць да">
-<!ENTITY expireSites1.accesskey "м">
-<!ENTITY expireSites2.label "наведаных старонак">
+<!ENTITY enableHistory.label "Памятаць наведаныя старонкі">
+<!ENTITY enableHistory.accesskey "П">
 <!ENTITY clearHistory.label "Знішчыць гісторыю">
 <!ENTITY clearHistory.accesskey "н">
 <!ENTITY locationBarHistory.caption "Гісторыя паліцы месцазнаходжання">

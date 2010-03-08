@@ -35,7 +35,7 @@
 <!ENTITY addonsSearch.label "Пошук">
 <!ENTITY addonsSearch2.emptytext "Пошук у каталогу">
 <!ENTITY addonsSearch.recommended "Раіцца">
-<!ENTITY addonOptions.label "Наладкі">
+<!ENTITY addonOptions.label "Наладжванні">
 <!ENTITY addonEnable.label "Дазволіць">
 <!ENTITY addonDisable.label "Забараніць">
 <!ENTITY addonInstall2.label "Дадаць да &brandShortName;">

@@ -1,5 +1,5 @@
 <!ENTITY printSetup.title "Уладкаванне старонкі">
-<!ENTITY basic.tab "Фармат і наладкі">
+<!ENTITY basic.tab "Фармат і наладжванні">
 <!ENTITY formatGroup.label "Фармат">
 <!ENTITY orientation.label "Арыентацыя:">
 <!ENTITY portrait.label "Кніжная">
@@ -11,7 +11,7 @@
 <!ENTITY scalePercent "&#037;">
 <!ENTITY shrinkToFit.label "Сціснуць да шырыні старонкі">
 <!ENTITY shrinkToFit.accesskey "ш">
-<!ENTITY optionsGroup.label "Наладкі">
+<!ENTITY optionsGroup.label "Наладжванні">
 <!ENTITY printBG.label "Друкаваць фон (колеры і малюнкі)">
 <!ENTITY printBG.accesskey "ф">
 <!ENTITY advanced.tab "Прымежкі і калантытулы">

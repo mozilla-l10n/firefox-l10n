@@ -4,8 +4,6 @@
 <!ENTITY editorCmd.label "Укладальнік">
 <!ENTITY editorCmd.accesskey "У">
 <!ENTITY editorCmd.commandkey "4">
-<!ENTITY javaConsoleCmd.label "Кансоль Java">
-<!ENTITY javaConsoleCmd.accesskey "J">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">

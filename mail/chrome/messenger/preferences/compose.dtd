@@ -41,8 +41,8 @@
 <!ENTITY directoriesNone.label "Няма">
 <!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
 <!ENTITY editDirectories.accesskey "Р">
-<!ENTITY sendOptionsDescription.label "Наладкі паводзінаў пры фарматаванні тэксту">
-<!ENTITY sendOptions.label "Наладкі дасылання…">
+<!ENTITY sendOptionsDescription.label "Наладжванне паводзінаў пры фарматаванні тэксту">
+<!ENTITY sendOptions.label "Наладжванні дасылання…">
 <!ENTITY sendOptions.accesskey "с">
 <!ENTITY attachmentReminder.label "Правяраць, ці адсутнічаюць далучэнні">
 <!ENTITY attachmentReminder.accesskey "д">

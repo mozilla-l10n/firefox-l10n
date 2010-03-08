@@ -1,6 +1,6 @@
 <!ENTITY migrationWizard.title "Чараўнік імпарту">
-<!ENTITY importFromWin.label "Імпартаваць наладкі, наладкі рахункаў, адрасную кнігу, сіты і іншыя даныя з:">
-<!ENTITY importFromNonWin.label "Імпартаваць перавагі, наладкі рахункаў, адрасную кнігу, сіты і іншыя даныя з:">
+<!ENTITY importFromWin.label "Імпартаваць наладжванні, наладжванні рахункаў, адрасную кнігу, сіты і іншыя здаткі з:">
+<!ENTITY importFromNonWin.label "Імпартаваць перавагі, наладжванні рахункаў, адрасную кнігу, сіты і іншыя здаткі з:">
 <!ENTITY importFromNothing.label "Не імпартаваць нічога">
 <!ENTITY importFromNothing.accesskey "н">
 <!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x або SeaMonkey">
@@ -13,7 +13,7 @@
 <!ENTITY importFromOutlook.accesskey "O">
 <!ENTITY importFromEudora.label "Eudora">
 <!ENTITY importFromEudora.accesskey "E">
-<!ENTITY importSource.title "Імпарт наладак і паштовых папак">
+<!ENTITY importSource.title "Імпарт наладжванняў і паштовых папак">
 <!ENTITY importItems.title "Адзінкі для імпарту">
 <!ENTITY importItems.label "Выберыце адзінкі для імпарту:">
 <!ENTITY migrating.title "Імпарт…">

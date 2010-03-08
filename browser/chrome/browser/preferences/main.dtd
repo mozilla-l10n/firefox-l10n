@@ -27,7 +27,7 @@
 <!ENTITY alwaysAsk.label "Заўсёды пытацца мяне, дзе захоўваць файлы">
 <!ENTITY alwaysAsk.accesskey "З">
 <!ENTITY addonsMgr.label "Дадаткі">
-<!ENTITY manageAddonsDescWin.label "Змяніць наладкі вашых дадаткаў">
+<!ENTITY manageAddonsDescWin.label "Змяніць наладжванні вашых дадаткаў">
 <!ENTITY manageAddonsDescUnix2.label "Змяніць перавагі вашых дадаткаў">
 <!ENTITY manageAddons.label "Кіраваць дадаткамі…">
 <!ENTITY manageAddons.accesskey "К">

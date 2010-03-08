@@ -1,5 +1,5 @@
 <!ENTITY migrationWizard.title "Чараўнік Імпарту">
-<!ENTITY importFrom.label "Імпарт наладак, закладак, гісторыі, пароляў і іншых даных з:">
+<!ENTITY importFrom.label "Імпарт наладжванняў, закладак, гісторыі, пароляў і іншых даных з:">
 <!ENTITY importFromUnix.label "Імпарт Перавагаў, Закладак, Гісторыі, Пароляў ці іншых даных з:">
 <!ENTITY importFromBookmarks.label "Імпарт Закладак з:">
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">

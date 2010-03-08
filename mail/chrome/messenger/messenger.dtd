@@ -52,7 +52,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "П">
 <!ENTITY synchronizeOfflineCmd.label "Загрузіць і сінхранізаваць зараз…">
 <!ENTITY synchronizeOfflineCmd.accesskey "с">
-<!ENTITY settingsOfflineCmd.label "Наладкі працы па-за сеткаю…">
+<!ENTITY settingsOfflineCmd.label "Наладжванні працы па-за сеткаю…">
 <!ENTITY settingsOfflineCmd.accesskey "Н">
 <!ENTITY downloadSelectedCmd.label "Атрымаць вылучаныя лісты">
 <!ENTITY downloadSelectedCmd.accesskey "л">

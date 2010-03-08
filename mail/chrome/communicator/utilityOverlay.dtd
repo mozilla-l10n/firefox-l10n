@@ -24,7 +24,7 @@
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "л">
-<!ENTITY preferencesCmd.label "Наладкі…">
+<!ENTITY preferencesCmd.label "Наладжванні…">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">

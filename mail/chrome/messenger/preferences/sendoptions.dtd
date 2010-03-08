@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Наладкі дасылання">
+<!ENTITY dialog.title "Наладжванні дасылання">
 <!ENTITY sendMail.title "Фармат тэксту">
 <!ENTITY sendMaildesc.label "Калі дасылаюцца лісты ў фармаце HTML і адзін ці больш атрымальнікаў не пералічаны як здольныя атрымліваць HTML:">
 <!ENTITY askMe.label "Спытаць мяне, што зрабіць">

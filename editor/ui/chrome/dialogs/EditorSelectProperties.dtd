@@ -46,12 +46,12 @@
 <!ENTITY SelectDisabled.accesskey "З">
 <!ENTITY SelectTabIndex.label "Паказальнік зруху:">
 <!ENTITY SelectTabIndex.accesskey "р">
-<!ENTITY OptGroup.label "Група наладак">
+<!ENTITY OptGroup.label "Група наладжванняў">
 <!ENTITY OptGroupLabel.label "Метка:">
 <!ENTITY OptGroupLabel.accesskey "М">
 <!ENTITY OptGroupDisabled.label "Забаронена">
 <!ENTITY OptGroupDisabled.accesskey "З">
-<!ENTITY Option.label "Наладка">
+<!ENTITY Option.label "Наладжванне">
 <!ENTITY OptionText.label "Тэкст:">
 <!ENTITY OptionText.accesskey "Т">
 <!ENTITY OptionValue.label "Значэнне:">
@@ -63,7 +63,7 @@
 <!ENTITY TextHeader.label "Тэкст">
 <!ENTITY ValueHeader.label "Значэнне">
 <!ENTITY SelectedHeader.label "Вылучаны">
-<!ENTITY AddOption.label "Дадаць наладку">
+<!ENTITY AddOption.label "Дадаць наладжванне">
 <!ENTITY AddOption.accesskey "н">
 <!ENTITY AddOptGroup.label "Дадаць групу">
 <!ENTITY AddOptGroup.accesskey "Г">

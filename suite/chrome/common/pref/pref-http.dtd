@@ -1,6 +1,6 @@
 <!ENTITY pref.http.title "Праца сеткі HTTP">
-<!ENTITY prefDirect.label "Наладкі прамога злучэння">
-<!ENTITY prefProxy.label "Наладкі злучэння праз пасярэднік">
+<!ENTITY prefDirect.label "Наладжванні прамога злучэння">
+<!ENTITY prefProxy.label "Наладжванні злучэння праз пасярэднік">
 <!ENTITY prefEnableHTTP10.label "Карыстацца HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey "К">
 <!ENTITY prefEnableHTTP10Proxy.accesskey "а">
