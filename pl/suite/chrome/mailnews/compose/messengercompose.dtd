@@ -84,7 +84,7 @@
 <!ENTITY checkSpellingCmd2.label "Sprawdź pisownię…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "r">
-<!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
+<!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!ENTITY priorityMenu.label "Priorytet">
