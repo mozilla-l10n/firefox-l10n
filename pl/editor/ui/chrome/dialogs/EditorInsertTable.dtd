@@ -39,7 +39,7 @@
 
 <!ENTITY windowTitle.label "Wstaw tabelę">
 <!ENTITY size.label "Rozmiar">
-<!ENTITY numRowsEditField.label "Liczba wierszy:">
+<!ENTITY numRowsEditField.label "Wiersze:">
 <!ENTITY numRowsEditField.accessKey "W">
 <!ENTITY numColumnsEditField.label "Kolumny:">
 <!ENTITY numColumnsEditField.accessKey "K">
