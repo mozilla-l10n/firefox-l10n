@@ -60,7 +60,7 @@
 <!ENTITY generalModified "Zmodyfikowany:">
 <!ENTITY generalEncoding "Kodowanie:">
 <!ENTITY generalMetaName "Nazwa">
-<!ENTITY generalMetaContent "Treści">
+<!ENTITY generalMetaContent "Treść">
 <!ENTITY generalSecurityDetails "Szczegóły">
 <!ENTITY generalSecurityDetails.accesskey "S">
 
@@ -119,7 +119,7 @@
 <!ENTITY permBlock "Blokuj">
 <!ENTITY permissionsFor "Uprawnienia dla:">
 <!ENTITY permImage "Wczytywanie obrazków">
-<!ENTITY permPopup "Otwórz wskakujące okna">
+<!ENTITY permPopup "Otwórz wyskakujące okna">
 <!ENTITY permCookie "Zapisywanie ciasteczek">
 <!ENTITY permInstall "Instalacja rozszerzeń i motywów">
 <!ENTITY permGeo "Udostępnij położenie">
