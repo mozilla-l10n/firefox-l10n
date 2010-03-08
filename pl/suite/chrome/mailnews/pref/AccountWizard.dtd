@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Kreator kont">
-<!ENTITY accountWizard.size "width: 63em; height: 44em;">
+<!ENTITY accountWizard.size "width: 70em; height: 44em;">
 
 <!-- Entities for Account Type page -->
 
