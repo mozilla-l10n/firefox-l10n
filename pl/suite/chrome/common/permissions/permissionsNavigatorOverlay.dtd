@@ -3,7 +3,7 @@
 <!ENTITY cookieMessageTitle.label "Uprawnienia witryny zostały zmienione">
 <!ENTITY cookieDisplayCookiesCmd.label "Menedżer ciasteczek">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "M">
-<!ENTITY cookieAllowCookiesCmd.label "Zezwalaj na ustawianie ciasteczek przez tę witrynę">
+<!ENTITY cookieAllowCookiesCmd.label "Zezwalaj na ustawianie ich przez tę witrynę">
 <!ENTITY cookieAllowCookiesCmd.accesskey "A">
 <!ENTITY cookieAllowCookiesMsg.label "Ciasteczka pochodzące z tej witryny zawsze będą akceptowane.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Zezwalaj na ciasteczka sesji dla tej witryny">
@@ -12,24 +12,24 @@
 <!ENTITY cookieCookiesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Ciasteczka pochodzące z tej witryny będą akceptowane lub odrzucane w zależności od ustawień domyślnych.">
-<!ENTITY cookieBlockCookiesCmd.label "Zablokuj ciasteczka pochodzące z tej witryny">
+<!ENTITY cookieBlockCookiesCmd.label "Zablokuj pochodzące z tej witryny">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Ciasteczka pochodzące z tej witryny będą odrzucane.">
 
 <!ENTITY cookieImageMessageTitle.label "Uprawnienia witryny zostały zmienione">
 <!ENTITY cookieDisplayImagesCmd.label "Menedżer obrazków">
 <!ENTITY cookieDisplayImagesCmd.accesskey "M">
-<!ENTITY cookieAllowImagesCmd.label "Zezwalaj na pobieranie obrazków z tej witryny">
+<!ENTITY cookieAllowImagesCmd.label "Zezwalaj na pobieranie ich z tej witryny">
 <!ENTITY cookieAllowImagesCmd.accesskey "A">
 <!ENTITY cookieAllowImagesMsg.label "Obrazki pochodzące z tej witryny będą zawsze pobierane.">
 <!ENTITY cookieImagesDefaultCmd.label "Użyj domyślnych uprawnień">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
 <!ENTITY cookieImagesDefaultMsg.label "Obrazki pochodzące z tej witryny będą pobierane w zależności od ustawień domyślnych.">
-<!ENTITY cookieBlockImagesCmd.label "Zablokuj obrazki pochodzące z tej witryny">
+<!ENTITY cookieBlockImagesCmd.label "Zablokuj pochodzące z tej witryny">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Obrazki pochodzące z tej witryny nigdy nie będą pobierane.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę">
+<!ENTITY cookieAllowPopupsCmd.label "Zezwalaj na wyświetlanie ich przez tę witrynę">
 <!ENTITY cookieAllowPopupsCmd.accesskey "A">
 <!ENTITY cookieManagePopups.label "Menedżer wyskakujących okien">
 <!ENTITY cookieManagePopups.accesskey "M">
