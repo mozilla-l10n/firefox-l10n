@@ -1,7 +1,7 @@
 <!ENTITY tab.cookiesonsystem.label "Zachowane ciasteczka">
 <!ENTITY tab.bannedservers.label "Ustawienia akceptacji ciasteczek">
 <!ENTITY div.bannedservers.label "Zarządzaj polityką akceptacji ciasteczek.">
-<!ENTITY div.cookiesonsystem.label "Lista ciasteczek przechowywanych na komputerze użytkownika.">
+<!ENTITY div.cookiesonsystem.label "Lista ciasteczek przechowywanych w komputerze użytkownika.">
 <!ENTITY treehead.cookiename.label "Nazwa ciasteczka">
 <!ENTITY treehead.cookiedomain.label "Witryna">
 <!ENTITY treehead.cookieexpires.label "Wygasa">
