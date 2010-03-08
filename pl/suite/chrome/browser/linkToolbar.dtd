@@ -43,7 +43,7 @@
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Zawsze pokazuj">
 <!ENTITY linkToolbarAlways.accesskey "p">
-<!ENTITY linkToolbarAsNeeded.label "Pokaż tylko wtedy, gdy potrzebny">
+<!ENTITY linkToolbarAsNeeded.label "Pokazuj tylko wtedy, gdy jest potrzebny">
 <!ENTITY linkToolbarAsNeeded.accesskey "t">
 <!ENTITY linkToolbarNever.label "Zawsze ukrywaj">
 <!ENTITY linkToolbarNever.accesskey "u">
