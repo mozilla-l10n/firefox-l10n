@@ -3,7 +3,7 @@
 
 <!ENTITY itemHistory.label "historię przeglądanych stron">
 <!ENTITY itemHistory.accesskey "s">
-<!ENTITY itemUrlBar.label "Historia paska adresu">
+<!ENTITY itemUrlBar.label "historię paska adresu">
 <!ENTITY itemUrlBar.accesskey "a">
 <!ENTITY itemDownloads.label "historię pobieranych plików">
 <!ENTITY itemDownloads.accesskey "h">
