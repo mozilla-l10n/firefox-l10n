@@ -47,7 +47,7 @@
 <!ENTITY col.title.accesskey "T">
 <!ENTITY col.url.label "Adres">
 <!ENTITY col.url.accesskey "A">
-<!ENTITY col.lastvisit.label "Ostatnia data odwiedzin">
+<!ENTITY col.lastvisit.label "Data ostatnich odwiedzin">
 <!ENTITY col.lastvisit.accesskey "z">
 <!ENTITY col.visitcount.label "Liczba wizyt">
 <!ENTITY col.visitcount.accesskey "L">
