@@ -16,8 +16,8 @@
 <!ENTITY link-target.label "Zostanie otworzony w:">
 <!ENTITY link-type.label "Typ celu:">
 <!ENTITY link-lang.label "Docelowy język:">
-<!ENTITY link-rel.label "Związek:">
-<!ENTITY link-rev.label "Odwrotne powiązanie:">
+<!ENTITY link-rel.label "Relacja:">
+<!ENTITY link-rev.label "Odwrotna relacja:">
 <!ENTITY misc-sec.label "Różne właściwości">
 <!ENTITY misc-lang.label "Język tekstu:">
 <!ENTITY misc-title.label "Tytuł:">
