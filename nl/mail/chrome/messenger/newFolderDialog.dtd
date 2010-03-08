@@ -46,3 +46,6 @@
 <!ENTITY folderRestriction2.label   "Toestaan dat de nieuwe map bevat:">
 <!ENTITY foldersOnly.label          "Alleen mappen">
 <!ENTITY messagesOnly.label         "Alleen berichten">
+<!ENTITY accept.label               "Map aanmaken">
+<!ENTITY accept.accesskey           "a">
+
