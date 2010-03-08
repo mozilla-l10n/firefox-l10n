@@ -18,3 +18,12 @@
 <!ENTITY extensionsWeekly.accesskey "ы">
 <!ENTITY addonManagerButton.label "Кіраўнік дадаткаў">
 <!ENTITY addonManagerButton.accesskey "К">
+<!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
+<!ENTITY askMe.label "Спытаць мяне, што я буду рабіць">
+<!ENTITY askMe.accesskey "п">
+<!ENTITY modeAutomatic.label "Самастойна загрузіць і ўсталяваць абнаўленне">
+<!ENTITY modeAutomatic.accesskey "С">
+<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку будуць забаронены мае дадаткі">
+<!ENTITY modeAutoAddonWarn.accesskey "я">
+<!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
+<!ENTITY updateHistory.accesskey "г">

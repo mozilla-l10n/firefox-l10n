@@ -1,5 +1,5 @@
 <!ENTITY window.title "Размеркаванне папкі">
-<!ENTITY sortOptions.label "Наладкі размеркавання">
+<!ENTITY sortOptions.label "Наладжванні размеркавання">
 <!ENTITY description.label "&brandShortName; можа размяркоўваць асобныя папкі. Скарыстайце гэтыя параметры, каб наладзіць размеркаванне гэтай папкі.">
 <!ENTITY sortBy.label "Размеркаваць па:">
 <!ENTITY sortBy.accesskey "Р">

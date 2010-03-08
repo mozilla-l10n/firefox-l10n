@@ -16,3 +16,12 @@
 <!ENTITY missingPlugin.label "Пстрыкніце тут, каб загрузіць убудову.">
 <!ENTITY disabledPlugin.label "Убудова для гэтага змесціва забаронена. Пстрыкніце тут, каб кіраваць вашымі ўбудовамі.">
 <!ENTITY blockedPlugin.label "Гэтая ўбудова заблакавана для вашай абароны.">
+<!ENTITY reloadPlugin.pre "">
+<!ENTITY reloadPlugin.middle "Абнавіць старонку">
+<!ENTITY reloadPlugin.post " , каб паспрабаваць зноў.">
+<!ENTITY submittedCrashReport.pre "A ">
+<!ENTITY submittedCrashReport.middle "Справаздача пра крах">
+<!ENTITY submittedCrashReport.post " пададзена.">
+<!ENTITY notSubmittedCrashReport.pre "Вы забаранілі">
+<!ENTITY notSubmittedCrashReport.middle " падачу">
+<!ENTITY notSubmittedCrashReport.post " справаздачаў пра крах.">

@@ -41,7 +41,7 @@
 <!ENTITY cmd.useTheme.label "Ужыць тэму">
 <!ENTITY cmd.useTheme.accesskey "ж">
 <!ENTITY cmd.useTheme.tooltip "Змяняе тэму &brandShortName;.">
-<!ENTITY cmd.options.label "Наладкі">
+<!ENTITY cmd.options.label "Наладжванні">
 <!ENTITY cmd.options.accesskey "Н">
 <!ENTITY cmd.options.tooltip "Наладзіць вылучанае пашырэнне">
 <!ENTITY cmd.optionsUnix.label "Перавагі">

@@ -19,7 +19,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Службы пляцовак Сеціва">
 <!ENTITY rights.intro-point4c-unbranded " .">
 <!ENTITY rights.webservices-header "Службы пляцовак Сеціва &brandFullName;">
-<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service in the application preferences.">
+<!ENTITY rights.webservices-a "&brandFullName; карыстаецца службамі звестак пра пляцоўкі Сеціва (&quot;Службы&quot;), такімі як служба Бяспечнага Азірання, якія даступныя для вашага ўжывання разам з гэтай двайковай версіяй &brandShortName; так, як апісана ніжэй. Калі вы не хочаце карыстацца гэтымі службамі ці ўмовы ніжэй непрымальныя, вы можаце забараніць службы Бяспечнага Азірання ў перавагах прыстасавання.">
 <!ENTITY rights.webservices-b "">
 <!ENTITY rights.webservices-c "">
 <!ENTITY rights.webservices-unbranded "Агляд службаў пляцовак Сеціва, якія ўключаны ў прадукт, разам з прадпісаннямі, якія дазваляюць забараніць гэтыя службы, калі гэта магчыма, павінны быць пералічаны тут.">

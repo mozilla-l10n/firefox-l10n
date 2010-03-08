@@ -99,7 +99,7 @@
 <!ENTITY importCmd.accesskey "І">
 <!ENTITY exportCmd.label "Экспарт…">
 <!ENTITY exportCmd.accesskey "Э">
-<!ENTITY preferencesCmd.label "Наладкі…">
+<!ENTITY preferencesCmd.label "Наладжванні…">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">

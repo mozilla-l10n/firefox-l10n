@@ -1,6 +1,6 @@
 <!ENTITY identityDialog.style "width: 85ch;">
 <!ENTITY identityTitle.label "Наладжванні адметы">
-<!ENTITY identityListDesc.label "Наладкі гэтай адметы:">
+<!ENTITY identityListDesc.label "Наладжванні гэтай адметы:">
 <!ENTITY settingsTab.label "Наладжванні">
 <!ENTITY copiesFoldersTab.label "Копіі і папкі">
 <!ENTITY addressingTab.label "Укладанне і адрасаванне">

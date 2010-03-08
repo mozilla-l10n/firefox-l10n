@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title "Памятаць паролі">
 <!ENTITY language.title "Мова">
 <!ENTITY language.auto "Сама-вызначэнне">
+<!ENTITY defaultBrowser.title "Змоўчны азіральнік">
+<!ENTITY defaultBrowser.description "Прызначыць &brandShortName; вашым змоўчным азіральнікам">

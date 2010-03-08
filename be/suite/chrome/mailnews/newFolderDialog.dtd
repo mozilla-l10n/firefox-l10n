@@ -44,3 +44,5 @@
 <!ENTITY folderRestriction2.label "Дазволіць вашай новай папцы змяшчаць:">
 <!ENTITY foldersOnly.label "Толькі папкі">
 <!ENTITY messagesOnly.label "Толькі лісты">
+<!ENTITY accept.label "Стварыць папку">
+<!ENTITY accept.accesskey "т">

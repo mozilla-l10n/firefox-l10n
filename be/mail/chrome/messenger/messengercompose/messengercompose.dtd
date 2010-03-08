@@ -96,7 +96,7 @@
 <!ENTITY addressSidebar.accesskey "с">
 <!ENTITY formatMenu.label "Фармат">
 <!ENTITY formatMenu.accesskey "р">
-<!ENTITY optionsMenu.label "Наладкі">
+<!ENTITY optionsMenu.label "Наладжванні">
 <!ENTITY optionsMenu.accesskey "Н">
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
 <!ENTITY checkSpellingCmd2.key "p">
@@ -149,7 +149,7 @@
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
 <!ENTITY accountManagerCmd.accesskey "р">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
-<!ENTITY preferencesCmd.label "Наладкі…">
+<!ENTITY preferencesCmd.label "Наладжванні…">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
