@@ -68,7 +68,7 @@
 <!ENTITY NickName.accesskey "u">
 
 <!ENTITY PrimaryEmail.label "E-mail:">
-<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY PrimaryEmail.accesskey "m">
 <!ENTITY SecondEmail.label "Dodatkowy e-mail:">
 <!ENTITY SecondEmail.accesskey "w">
 <!ENTITY PreferMailFormat.label "Preferowany format otrzymywanych wiadomości:">
@@ -84,7 +84,7 @@
 <!ENTITY allowRemoteContent1.tooltip "W wiadomościach HTML możliwe jest wstawianie zdalnej zawartości. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem co może umożliwić wysyłającemu śledzić, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli automatycznie wczytywać treści tego rodzaju w wiadomościach od tego kontaktu.">
 
 <!ENTITY WorkPhone.label "Praca:">
-<!ENTITY WorkPhone.accesskey "c">
+<!ENTITY WorkPhone.accesskey "o">
 <!ENTITY HomePhone.label "Dom:">
 <!ENTITY HomePhone.accesskey "d">
 <!ENTITY FaxNumber.label "Faks:">
@@ -105,7 +105,7 @@
 <!ENTITY HomeState.label "Województwo:">
 <!ENTITY HomeState.accesskey "W">
 <!ENTITY HomeZipCode.label "Kod pocztowy:">
-<!ENTITY HomeZipCode.accesskey "Z">
+<!ENTITY HomeZipCode.accesskey "c">
 <!ENTITY HomeCountry.label "Państwo:">
 <!ENTITY HomeCountry.accesskey "o">
 <!ENTITY HomeWebPage.label "Strona WWW:">
