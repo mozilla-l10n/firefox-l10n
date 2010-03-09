@@ -39,7 +39,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY prefWindow.titleWin "Indstillinger">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; Indstillinger">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Præferencer">
 <!ENTITY prefWindow.styleWin "width: 47em; height: 37em;">
 <!ENTITY prefWindow.styleMac "width: 47em;">
 <!ENTITY prefWindow.styleGNOME "width: 47em; height: 34.5em;">

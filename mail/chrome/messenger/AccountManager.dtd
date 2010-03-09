@@ -9,5 +9,5 @@
 <!ENTITY setDefaultButton.accesskey "s">
 <!ENTITY removeButton.label "Fjern konto">
 <!ENTITY removeButton.accesskey "R">
-<!ENTITY accountManager.size "width: 60em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountManager.size "width: 64em; height: 50em;">
+<!ENTITY accountTree.width "width: 19em;">
