@@ -29,7 +29,7 @@
 <!ENTITY leaveOnServer.label "Dejar los mensajes en el servidor.">
 <!ENTITY leaveOnServer.accesskey "a">
 <!ENTITY headersOnly.label "Descargar sólo los encabezados">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "z">
 <!ENTITY deleteByAgeFromServer.label "Borrar mensajes del servidor tras">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "días">
