@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "f">
 <!ENTITY saveTo.label "Guardar archivos a">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "Examinar...">
+<!ENTITY chooseFolderWin.label        "Examinar…">
 <!ENTITY chooseFolderWin.accesskey    "x">
-<!ENTITY chooseFolderMac.label        "Seleccionar...">
+<!ENTITY chooseFolderMac.label        "Seleccionar…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Siempre preguntarme dónde guardar archivos">
 <!ENTITY alwaysAsk.accesskey "a">
@@ -33,7 +33,7 @@
 <!ENTITY addonsMgr.label            "Agregados">
 <!ENTITY manageAddonsDescWin.label     "Cambiar opciones de sus agregados">
 <!ENTITY manageAddonsDescUnix2.label "Cambiar preferencias de sus agregados">
-<!ENTITY manageAddons.label         "Administrar agregados...">
+<!ENTITY manageAddons.label         "Administrar agregados…">
 <!ENTITY manageAddons.accesskey     "g">
 
 
