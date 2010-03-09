@@ -49,3 +49,5 @@
 <!ENTITY folderRestriction2.label "Permet que la carpeta nova contingui:">
 <!ENTITY foldersOnly.label "Només carpetes">
 <!ENTITY messagesOnly.label "Només missatges">
+<!ENTITY accept.label               "Crea la carpeta">
+<!ENTITY accept.accesskey           "r">

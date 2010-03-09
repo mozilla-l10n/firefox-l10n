@@ -80,24 +80,24 @@
 <!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "Fitxer">
 <!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "Nou">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Cita">
-<!ENTITY  event.menu.file.new.event.accesskey             "C">
-<!ENTITY  event.menu.file.new.message.label               "Missatge">
-<!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.contact.label               "Contacte de la llibreta d'adreces">
-<!ENTITY  event.menu.file.new.contact.accesskey           "C">
-<!ENTITY  event.menu.file.close.label                     "Tanca">
-<!ENTITY  event.menu.file.close.accesskey                 "T">
-<!ENTITY  event.menu.file.save.label                      "Desa">
-<!ENTITY  event.menu.file.save.accesskey                  "D">
+<!ENTITY  event.menu.item.new.label                       "Nou">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Cita">
+<!ENTITY  event.menu.item.new.event.accesskey             "C">
+<!ENTITY  event.menu.item.new.message.label               "Missatge">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Contacte de la llibreta d'adreces">
+<!ENTITY  event.menu.item.new.contact.accesskey           "C">
+<!ENTITY  event.menu.item.close.label                     "Tanca">
+<!ENTITY  event.menu.item.close.accesskey                 "T">
+<!ENTITY  event.menu.item.save.label                      "Desa">
+<!ENTITY  event.menu.item.save.accesskey                  "D">
 <!ENTITY  event.menu.item.delete.label                    "Suprimeix…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
-<!ENTITY  event.menu.file.page.setup.label                "Configuració de la pàgina">
-<!ENTITY  event.menu.file.page.setup.accesskey            "u">
-<!ENTITY  event.menu.file.print.label                     "Imprimeix">
-<!ENTITY  event.menu.file.print.accesskey                 "I">
+<!ENTITY  event.menu.item.page.setup.label                "Configuració de la pàgina">
+<!ENTITY  event.menu.item.page.setup.accesskey            "u">
+<!ENTITY  event.menu.item.print.label                     "Imprimeix">
+<!ENTITY  event.menu.item.print.accesskey                 "I">
 
 <!ENTITY  event.menu.edit.label                           "Edita">
 <!ENTITY  event.menu.edit.accesskey                       "E">
