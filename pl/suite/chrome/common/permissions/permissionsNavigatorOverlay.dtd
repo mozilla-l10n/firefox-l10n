@@ -29,7 +29,7 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Obrazki pochodzące z tej witryny nigdy nie będą pobierane.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Zezwalaj na wyświetlanie ich przez tę witrynę">
+<!ENTITY cookieAllowPopupsCmd.label "Zezwalaj na otwieranie ich przez tę witrynę">
 <!ENTITY cookieAllowPopupsCmd.accesskey "A">
 <!ENTITY cookieManagePopups.label "Menedżer wyskakujących okien">
 <!ENTITY cookieManagePopups.accesskey "M">
