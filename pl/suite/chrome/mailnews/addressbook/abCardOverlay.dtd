@@ -81,7 +81,7 @@
 
 <!ENTITY allowRemoteContent1.label "Zezwól na wyświetlanie zdalnej zawartości w wiadomościach">
 <!ENTITY allowRemoteContent1.accesskey "Z">
-<!ENTITY allowRemoteContent1.tooltip "W wiadomościach HTML możliwe jest wstawianie zdalnej zawartości. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem co może umożliwić wysyłającemu śledzić, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli automatycznie wczytywać treści tego rodzaju w wiadomościach od tego kontaktu.">
+<!ENTITY allowRemoteContent1.tooltip "W wiadomościach HTML możliwe jest wstawianie zdalnej zawartości. Otwarcie takiej wiadomości otworzy połączenie ze zdalnym zasobem, co może umożliwić wysyłającemu śledzenie, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli na automatyczne wczytywanie zdalnej zawartości w wiadomościach od tego kontaktu.">
 
 <!ENTITY WorkPhone.label "Praca:">
 <!ENTITY WorkPhone.accesskey "o">
