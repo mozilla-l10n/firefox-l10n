@@ -1,6 +1,6 @@
 <!ENTITY pref.proxies.advanced.title "Zaawansowane ustawienia proxy">
 <!ENTITY protocols.caption "Proxy charakterystyczne dla (danego) protokołu">
-<!ENTITY protocols.description "W normalnym przypadku ten sam proxy jest w stanie obsłużyć wszystkie tu wymienione protokoły.">
+<!ENTITY protocols.description "W normalnym przypadku ten sam proxy jest w stanie obsłużyć wszystkie wymienione protokoły.">
 <!ENTITY http.label "Serwer proxy HTTP:">
 <!ENTITY http.accesskey "T">
 <!ENTITY ssl.label "Serwer proxy SSL:">
