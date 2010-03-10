@@ -25,7 +25,7 @@
 <!ENTITY languages.customize.moveDown.accesskey "P">
 
 <!ENTITY spelling.label "Pisownia">
-<!ENTITY checkSpelling.label "Sprawdź pisownię podczas wprowadzania tekstu:">
+<!ENTITY checkSpelling.label "Sprawdzaj pisownię podczas wprowadzania tekstu:">
 <!ENTITY checkSpelling.accesskey "w">
 <!ENTITY dontCheckSpelling.label "Nigdy">
 <!ENTITY multilineCheckSpelling.label "W polach wieloliniowych">
