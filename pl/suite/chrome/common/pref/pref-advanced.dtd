@@ -6,9 +6,9 @@
 <!ENTITY enbJavaCheck.accesskey "j">
 
 <!ENTITY systemPref.caption "Preferencje systemowe">
-<!ENTITY systemPrefCheck.label "Pobierz ustawienia z systemu">
+<!ENTITY systemPrefCheck.label "Pobieraj preferencje z systemu">
 <!ENTITY systemPrefCheck.accesskey "s">
-<!ENTITY systemPref.desc "Po włączeniu tej opcji program &brandShortName; pobiera preferencje z systemu. Preferencje te nadpiszą preferencje &brandShortName;.">
+<!ENTITY systemPref.desc "Po włączeniu tej opcji program &brandShortName; pobiera z systemu preferencje, które zastępują dotychczasowe ustawienia.">
 
 <!ENTITY prefCheckDefault.caption "Integracja z systemem">
 <!ENTITY prefCheckDefaultClient.label "Sprawdzaj ustawienia domyślnych aplikacji podczas uruchamiania">
