@@ -1,20 +1,20 @@
 <!ENTITY tabHeader.label "Przeglądanie przy użyciu kart">
 <!ENTITY tabDisplay.label "Wyświetlanie kart">
-<!ENTITY autoHide.label "Ukryj pasek kart, jeżeli otwarta jest tylko jedna karta">
+<!ENTITY autoHide.label "Ukrywaj pasek kart, jeżeli otwarta jest tylko jedna karta">
 <!ENTITY autoHide.accesskey "d">
-<!ENTITY background.label "Przejdź do nowych kart otwartych poprzez odnośniki">
+<!ENTITY background.label "Przechodź do nowych kart otwartych za pomocą odnośników">
 <!ENTITY background.accesskey "P">
 <!ENTITY warnOnClose.label "Ostrzegaj przed zamknięciem okna z wieloma kartami">
 <!ENTITY warnOnClose.accesskey "s">
 <!ENTITY loadGroup.label "Podczas otwierania grupy zakładek">
-<!ENTITY loadGroupAppend.label "Otwórz wszystkie jako nowe karty">
+<!ENTITY loadGroupAppend.label "Otwieraj wszystkie jako nowe karty">
 <!ENTITY loadGroupAppend.accesskey "O">
-<!ENTITY loadGroupReplace.label "Otwórz w bieżących kartach">
+<!ENTITY loadGroupReplace.label "Otwiraj w bieżących kartach">
 <!ENTITY loadGroupReplace.accesskey "k">
-<!ENTITY openTabs.label "Otwórz strony w nowej karcie zamiast w nowym oknie, jeżeli:">
+<!ENTITY openTabs.label "Otwieraj strony w nowej karcie zamiast w nowym oknie, jeżeli:">
 
 <!ENTITY newWindow.label "Otwieranie odnośników">
-<!ENTITY newWindowDescription.label "Otwarcie odnośnika spowoduje otwarcie nowego okna w:">
+<!ENTITY newWindowDescription.label "Otwieraj odnośniki chcące otworzyć nowe okna w:">
 <!ENTITY external.label "Odnośniki otwierane z innych aplikacji">
 <!ENTITY externalDescription.label "Otwieraj odnośniki z innych aplikacji w:">
 <!ENTITY openCurrent.label "ostatnio aktywnej karcie lub oknie">
