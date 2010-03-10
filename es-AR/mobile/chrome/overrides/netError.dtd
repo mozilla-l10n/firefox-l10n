@@ -148,6 +148,10 @@ alguien tratando de hacerse pasar por el servidor.</li>
 <p>Estos métodos de falsificación web son usados en estafas conocidas como ataques de <i>phishing</i>. En dichos ataques, las páginas web y los correos electrónicos fraudulentos se emplean para imitar sitios en los que podés confiar.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
+
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
+
 <!ENTITY securityOverride.linkText "O podés agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
