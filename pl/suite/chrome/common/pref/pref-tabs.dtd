@@ -9,7 +9,7 @@
 <!ENTITY loadGroup.label "Podczas otwierania grupy zakładek">
 <!ENTITY loadGroupAppend.label "Otwieraj wszystkie jako nowe karty">
 <!ENTITY loadGroupAppend.accesskey "O">
-<!ENTITY loadGroupReplace.label "Otwiraj w bieżących kartach">
+<!ENTITY loadGroupReplace.label "Otwieraj w bieżących kartach">
 <!ENTITY loadGroupReplace.accesskey "k">
 <!ENTITY openTabs.label "Otwieraj strony w nowej karcie zamiast w nowym oknie, jeżeli:">
 
