@@ -9,7 +9,7 @@
 <!ENTITY picsOnlyRadio.accesskey "o">
 <!ENTITY textonlyRadio.label "Tylko tekst">
 <!ENTITY textonlyRadio.accesskey "t">
-<!ENTITY showHideTooltips.label "Pokazuj etykietki narzędzi">
+<!ENTITY showHideTooltips.label "Pokazuj etykiety narzędzi">
 <!ENTITY showHideTooltips.accesskey "t">
 
 <!ENTITY pref.locales.title "Język interfejsu użytkownika">
