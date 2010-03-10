@@ -62,11 +62,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 ">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Des-seleccione &quot;Trabalhar desligado&quot; no menu Ficheiro e tente de novo.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
 <!ENTITY contentEncodingError.longDesc "
@@ -171,6 +167,9 @@ ser temporário, voltando a tentar mais tarde.</li>
 <p>Introduzir informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo fraude.</p>
 <p>Estes tipos de fraudes web são utilizadas en engodos conhecidos como ataques de phishing, nos quais páginas web e correio electrónico fraudulentos tentam fazer-se passar por sítios em que confia.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdos">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; preveniu o carregamento desta página desta maneira porque a página tem uma política de segurança de conteúdos que a desactivou.</p>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar excepção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
