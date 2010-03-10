@@ -78,8 +78,6 @@
 <!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Fitxer">
-<!ENTITY  event.menu.file.accesskey                       "F">
 <!ENTITY  event.menu.item.new.label                       "Nou">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Cita">

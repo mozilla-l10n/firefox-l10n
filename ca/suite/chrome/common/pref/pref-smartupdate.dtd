@@ -21,3 +21,12 @@
 <!ENTITY addonManagerButton.label             "Gestor de complements">
 <!ENTITY addonManagerButton.accesskey         "G">
 
+<!ENTITY whenUpdatesFound.label               "Quan es trobin actualitzacions del &brandShortName;">
+<!ENTITY askMe.label                          "Pregunta'm què vull fer">
+<!ENTITY askMe.accesskey                      "P">
+<!ENTITY modeAutomatic.label                  "Baixa i instal·la l'actualització automàticament">
+<!ENTITY modeAutomatic.accesskey              "B">
+<!ENTITY modeAutoAddonWarn.label              "Avisa'm si s'inhabilitarà cap dels meus complements">
+<!ENTITY modeAutoAddonWarn.accesskey          "A">
+<!ENTITY updateHistory.label                  "Mostra l'historial d'actualitzacions">
+<!ENTITY updateHistory.accesskey              "h">
