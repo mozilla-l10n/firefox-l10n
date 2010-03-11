@@ -3,4 +3,4 @@
 <!ENTITY typeColumn.accesskey "о">
 <!ENTITY actionColumn2.label "Действие">
 <!ENTITY actionColumn2.accesskey "е">
-<!ENTITY search.emptytext "Поиск типов и действий">
+<!ENTITY search.placeholder "Поиск типов и действий">
