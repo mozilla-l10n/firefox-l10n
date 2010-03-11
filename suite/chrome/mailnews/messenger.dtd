@@ -269,9 +269,6 @@
 <!ENTITY newMsgCmd.accesskey "з">
 <!ENTITY newNewMsgCmd.label "Сообщение">
 <!ENTITY newNewMsgCmd.accesskey "б">
-<!ENTITY archiveMsgCmd.label "Архивировать">
-<!ENTITY archiveMsgCmd.accesskey "х">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Ответить">
 <!ENTITY replyMsgCmd.accesskey "О">
 <!ENTITY replyMsgCmd.key "r">
@@ -300,6 +297,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "ф">
+<!ENTITY archiveMsgCmd.label "Архивировать">
+<!ENTITY archiveMsgCmd.accesskey "х">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Переместить в папку">
 <!ENTITY moveMsgToMenu.accesskey "е">
 <!ENTITY copyMessageLocation.label "Копировать адрес сообщения">
@@ -448,8 +448,6 @@
 <!ENTITY contextOpenNewTab.accesskey "н">
 <!ENTITY contextEditAsNew.label "Редактировать как новое…">
 <!ENTITY contextEditAsNew.accesskey "Р">
-<!ENTITY contextArchive.label "Архивировать">
-<!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Ответить отправителю">
 <!ENTITY contextReplySender.accesskey "О">
 <!ENTITY contextReplyNewsgroup.label "Ответить в группу новостей">
@@ -462,6 +460,8 @@
 <!ENTITY contextForward.accesskey "П">
 <!ENTITY contextForwardAsAttachment.label "Переслать как вложения">
 <!ENTITY contextForwardAsAttachment.accesskey "к">
+<!ENTITY contextArchive.label "Архивировать">
+<!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextMoveMsgMenu.label "Переместить в папку">
 <!ENTITY contextMoveMsgMenu.accesskey "е">
 <!ENTITY contextCopyMsgMenu.label "Копировать в папку">
@@ -509,7 +509,7 @@
 <!ENTITY folderContextSettings.label "Параметры…">
 <!ENTITY folderContextSettings.accesskey "а">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Поиск темы или адреса">
+<!ENTITY searchSubjectOrAddress.placeholder "Поиск темы или адреса">
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY all.label "Все сообщения">

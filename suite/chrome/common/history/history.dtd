@@ -1,7 +1,7 @@
 <!ENTITY historyWindowTitle.label "Журнал посещений">
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY searchBar.tooltip "Панель поиска">
-<!ENTITY search.emptytext "Поиск в журнале">
+<!ENTITY search.placeholder "Поиск в журнале">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Вид">
 <!ENTITY view.columns.label "Показать колонки">

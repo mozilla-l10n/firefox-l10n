@@ -1,7 +1,7 @@
 <!ENTITY downloadManager.title "Менеджер загрузок">
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY searchBar.tooltip "Панель поиска">
-<!ENTITY search.emptytext "Поиск загрузок">
+<!ENTITY search.placeholder "Поиск загрузок">
 <!ENTITY search.label "Поиск загрузок">
 <!ENTITY search.accesskey "с">
 <!ENTITY search.key "f">
