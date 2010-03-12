@@ -11,7 +11,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "Program &brandShortName; został poproszony o nawiązanie bezpiecznego połączenia z serwerem <b>#1</b>, ale nie można potwierdzić bezpieczeństwa tego połączenia.">
 <!ENTITY certerror.introPara2 "Zwykle podczas nawiązywania bezpiecznych połączeń witryny dostarczają zaufanych informacji o tożsamości, dowodząc w ten sposób, że użytkownik łączy się z właściwym serwerem. W przypadku tej strony tożsamość nie może być jednak zweryfikowana.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Co teraz zrobić??">
+<!ENTITY certerror.whatShouldIDo.heading "Co teraz zrobić?">
 <!ENTITY certerror.whatShouldIDo.content "Jeśli zwykle połączenie z tą witryną przebiega bez takich problemów, błąd ten może oznaczać, że ktoś próbuje się podszyć pod tę witrynę. W tej sytuacji nie należy kontynuować.">
 <!ENTITY certerror.getMeOutOfHere.label "To brzmi nieciekawie. Zabierz mnie stąd!">
 
