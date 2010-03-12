@@ -1,6 +1,4 @@
 <!ENTITY updateWizard.title "Aggiornamento software">
-<!ENTITY window.width "38em">
-<!ENTITY window.macWidth "42em">
 <!ENTITY checking.title "Controllo aggiornamenti">
 <!ENTITY updateCheck.label "Ricerca in corso di nuove versioni di &brandShortName;…">
 <!ENTITY pluginupdatesfound.title "Rilevati aggiornamenti per i plugin">
@@ -25,7 +23,7 @@
 <!ENTITY license.decline "Non accetto i termini del contratto di licenza">
 <!ENTITY license.decline.accesskey "N">
 <!ENTITY incompatibleList.title "Rilevati componenti aggiuntivi non compatibili">
-<!ENTITY downloading.title "Download degli aggiornamenti">
+<!ENTITY downloadPage.title "Download in corso di &brandShortName;">
 <!ENTITY downloading.intro "Download degli aggiornamenti…">
 <!ENTITY connecting.label "Connessione al server degli aggiornamenti…">
 <!ENTITY verificationFailedText.label "&brandShortName; non può verificare l'integrità dell'aggiornamento 
