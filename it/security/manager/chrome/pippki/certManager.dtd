@@ -43,11 +43,21 @@
 <!ENTITY certmgr.tab.orphan2 "Altro">
 <!ENTITY certmgr.ca.builtins "CA predefinite">
 <!ENTITY certmgr.ca.mycas "CA gestite personalmente">
-<!ENTITY certmgr.mine "Sono presenti certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
-<!ENTITY certmgr.others "Sono presenti certificati che identificano le seguenti persone:">
-<!ENTITY certmgr.websites2 "Sono presenti certificati su file che identificano questi server:">
-<!ENTITY certmgr.cas "Sono presenti certificati che identificano le seguenti Autorità di Certificazione:">
-<!ENTITY certmgr.orphans "Sono presenti certificati su file che non rientrano in nessuna delle altre categorie:">
+<!ENTITY certmgr.mine.search "Cerca:">
+<!ENTITY certmgr.others.search "Cerca:">
+<!ENTITY certmgr.websites.search "Cerca:">
+<!ENTITY certmgr.cas.search "Cerca:">
+<!ENTITY certmgr.orphans.search "Cerca:">
+<!ENTITY certmgr.mine.description "Sono presenti certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
+<!ENTITY certmgr.others.description "Sono presenti certificati che identificano le seguenti persone:">
+<!ENTITY certmgr.websites.description "Sono presenti certificati su file che identificano i seguenti server:">
+<!ENTITY certmgr.cas.description "Sono presenti certificati su file che identificano le seguenti autorità di certificazione:">
+<!ENTITY certmgr.orphans.description "Sono presenti certificati su file che non rientrano in nessuna delle altre categorie:">
+<!ENTITY certmgr.mine.filtered "Corrispondenze tra i certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
+<!ENTITY certmgr.others.filtered "Corrispondenze tra i certificati che identificano le seguenti persone:">
+<!ENTITY certmgr.websites.filtered "Corrispondenze tra i certificati su file che identificano i seguenti server:">
+<!ENTITY certmgr.cas.filtered "Corrispondenze tra i certificati su file che identificano le seguenti autorità di certificazione:">
+<!ENTITY certmgr.orphans.filtered "Corrispondenze tra i certificati su file che non rientrano in nessuna delle altre categorie:">
 <!ENTITY certmgr.detail.general_tab.title "Generale">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Dettagli">
