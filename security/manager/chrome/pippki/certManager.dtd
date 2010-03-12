@@ -59,7 +59,7 @@
 <!ENTITY certmgr.orphans.description "Certificats correspondants enregistrés qui ne correspondent à aucune autre catégorie :">
 
 <!ENTITY certmgr.mine.filtered "Vous possédez des certificats de ces organisations qui vous identifient :">
-<!ENTITY certmgr.others.filtered "Vous possédez des certificats enregistrés identifiant ces personnes :>
+<!ENTITY certmgr.others.filtered "Vous possédez des certificats enregistrés identifiant ces personnes :">
 <!ENTITY certmgr.websites.filtered "Vous possédez des certificats enregistrés identifiant ces serveurs :">
 <!ENTITY certmgr.cas.filtered "Vous possédez des certificats enregistrés identifiant ces autorités de certification :">
 <!ENTITY certmgr.orphans.filtered "Vous possédez des certificats enregistrés qui ne correspondent à aucune autre catégorie :">
