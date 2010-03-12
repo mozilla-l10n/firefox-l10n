@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins "Certificats embarqués">
 <!ENTITY certmgr.ca.mycas "Certificats que vous gérez">
 
-<!ENTITY certmgr.mine "Vous possédez des certificats de ces organisations qui vous identifient :">
-<!ENTITY certmgr.others "Vous possédez des certificats enregistrés identifiant ces personnes :">
-<!ENTITY certmgr.websites2 "Vous possédez des certificats enregistrés identifiant ces serveurs :">
-<!ENTITY certmgr.cas "Vous possédez des certificats enregistrés identifiant ces autorités de certification :">
-<!ENTITY certmgr.orphans "Vous possédez des certificats enregistrés qui ne correspondent à aucune autre catégorie :">
+<!ENTITY certmgr.mine.search "Rechercher :">
+<!ENTITY certmgr.others.search "Rechercher :">
+<!ENTITY certmgr.websites.search "Rechercher :">
+<!ENTITY certmgr.cas.search "Rechercher :">
+<!ENTITY certmgr.orphans.search "Rechercher :">
+
+<!ENTITY certmgr.mine.description "Certificats correspondants de ces organisations qui vous identifient :">
+<!ENTITY certmgr.others.description "Certificats correspondants enregistrés identifiant ces personnes :">
+<!ENTITY certmgr.websites.description "Certificats correspondants enregistrés identifiant ces serveurs :">
+<!ENTITY certmgr.cas.description "Certificats correspondants enregistrés identifiant ces autorités de certification :">
+<!ENTITY certmgr.orphans.description "Certificats correspondants enregistrés qui ne correspondent à aucune autre catégorie :">
+
+<!ENTITY certmgr.mine.filtered "Vous possédez des certificats de ces organisations qui vous identifient :">
+<!ENTITY certmgr.others.filtered "Vous possédez des certificats enregistrés identifiant ces personnes :>
+<!ENTITY certmgr.websites.filtered "Vous possédez des certificats enregistrés identifiant ces serveurs :">
+<!ENTITY certmgr.cas.filtered "Vous possédez des certificats enregistrés identifiant ces autorités de certification :">
+<!ENTITY certmgr.orphans.filtered "Vous possédez des certificats enregistrés qui ne correspondent à aucune autre catégorie :">
 
 <!ENTITY certmgr.detail.general_tab.title "Général">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
