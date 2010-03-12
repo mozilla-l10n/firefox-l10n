@@ -79,5 +79,5 @@
 <!ENTITY disableContent.accesskey "B">
 <!ENTITY showCondensedAddresses.label "Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej">
 <!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY closeMsgWindowOnDelete.label "Zamykaj okno komponowania wiadomości. w przypadku usunięcia tej wiadomości">
+<!ENTITY closeMsgWindowOnDelete.label "Zamykaj okno komponowania wiadomości w przypadku usunięcia tej wiadomości">
 <!ENTITY closeMsgWindowOnDelete.accesskey "Z">
