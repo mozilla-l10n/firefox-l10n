@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins                  "CA Built-in">
 <!ENTITY certmgr.ca.mycas                     "CA Dikelola Anda">
 
-<!ENTITY certmgr.mine                         "Anda memiliki sertifikat dari organisasi berikut ini yang mengidentifikasikan Anda:">
-<!ENTITY certmgr.others                       "Anda memiliki sertifikat di berkas yang mengidentifikasikan orang ini:">
-<!ENTITY certmgr.websites2                    "Anda mempunyai sertifikat pada berkas yang bisa mengidentifikasi server berikut:">
-<!ENTITY certmgr.cas                          "Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini:">
-<!ENTITY certmgr.orphans                      "Anda mempunyai sertifikat pada berkas yang tidak cocok di kategori manapun:">
+<!ENTITY certmgr.mine.search                  "Cari:">
+<!ENTITY certmgr.others.search                "Cari:">
+<!ENTITY certmgr.websites.search              "Cari:">
+<!ENTITY certmgr.cas.search                   "Cari:">
+<!ENTITY certmgr.orphans.search               "Cari:">
+
+<!ENTITY certmgr.mine.description             "Anda memiliki sertifikat dari organisasi berikut ini yang mengidentifikasikan Anda:">
+<!ENTITY certmgr.others.description           "Anda memiliki sertifikat di berkas yang mengidentifikasikan orang ini:">
+<!ENTITY certmgr.websites.description         "Anda memiliki sertifikat pada berkas yang bisa mengidentifikasi server berikut:">
+<!ENTITY certmgr.cas.description              "Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini:">
+<!ENTITY certmgr.orphans.description          "Anda memiliki sertifikat pada berkas yang tidak cocok di kategori manapun:">
+
+<!ENTITY certmgr.mine.filtered                "Sertifikat yang cocok dari organisasi berikut ini yang mengidentifikasikan Anda:">
+<!ENTITY certmgr.others.filtered              "Sertifikat yang cocok di berkas yang mengidentifikasikan orang ini:">
+<!ENTITY certmgr.websites.filtered            "Sertifikat yang cocok pada berkas yang bisa mengidentifikasi server berikut:">
+<!ENTITY certmgr.cas.filtered                 "Sertifikat yang cocok pada berkas yang mengidentifikasi otoritas sertifikat ini:">
+<!ENTITY certmgr.orphans.filtered             "Sertifikat yang cocok pada berkas yang tidak cocok di kategori manapun:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "U">

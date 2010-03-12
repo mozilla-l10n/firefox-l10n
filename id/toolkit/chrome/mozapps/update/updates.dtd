@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Pemutakhiran Perangkat Lunak">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Memeriksa Versi Baru">
 <!ENTITY  updateCheck.label               "Memeriksa versi baru &brandShortName;…">
 
@@ -40,7 +37,7 @@
 
 <!ENTITY  incompatibleList.title          "Pengaya yang Tidak Kompatibel Ditemukan">
 
-<!ENTITY  downloading.title               "Mengunduh Versi Baru">
+<!ENTITY  downloadPage.title              "Mengunduh &brandShortName;">
 <!ENTITY  downloading.intro               "Mengunduh versi baru…">
 <!ENTITY  connecting.label                "Menghubungi server pemutakhiran…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; tidak dapat memverifikasi integritas dari
