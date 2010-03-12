@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Mise à jour du logiciel">
 
-<!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "47em">
-
 <!ENTITY  checking.title                  "Recherche de mises à jour">
 <!ENTITY  updateCheck.label               "Recherche de nouvelles versions de &brandShortName;…">
 
@@ -38,7 +35,7 @@
 
 <!ENTITY  incompatibleList.title          "Des modules incompatibles ont été trouvés">
 
-<!ENTITY  downloading.title               "Téléchargement de mise à jour">
+<!ENTITY  downloadPage.title              "Téléchargement de &brandShortName;">
 <!ENTITY  downloading.intro               "Téléchargement de la mise à jour…">
 <!ENTITY  connecting.label                "Connexion au serveur de mise à jour…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; n'a pas pu vérifier l'intégrité de la mise à jour partielle téléchargée, une mise à jour intégrale est en cours de téléchargement.">
