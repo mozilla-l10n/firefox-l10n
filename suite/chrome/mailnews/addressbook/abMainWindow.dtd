@@ -117,7 +117,7 @@
 <!ENTITY deleteItemButton.accesskey                     "B">
 <!ENTITY newimButton.label                              "IM">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY searchNameAndEmail.emptytext                   "Buscar nombre y correo">
+<!ENTITY searchNameAndEmail.placeholder                 "Buscar nombre y correo">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de herramientas de la libreta de direcciones">

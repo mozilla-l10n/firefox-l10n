@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Barra de menú">
 <!ENTITY searchBar.tooltip               "Barra de búsquedas">
 
-<!ENTITY search.emptytext                "Buscar descargas">
+<!ENTITY search.placeholder              "Buscar descargas">
 <!ENTITY search.label                    "Buscar descargas">
 <!ENTITY search.accesskey                "s">
 <!ENTITY search.key                      "f">
