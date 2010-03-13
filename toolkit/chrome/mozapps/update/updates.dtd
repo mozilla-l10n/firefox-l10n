@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Programuppdateringar">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Söker efter uppdateringar">
 <!ENTITY  updateCheck.label               "Söker efter nyare versioner av &brandShortName;…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Inkompatibla tillägg hittades">
 
-<!ENTITY  downloading.title               "Hämta uppdatering">
+<!ENTITY  downloadPage.title              "Hämtar &brandShortName;">
 <!ENTITY  downloading.intro               "Hämtar uppdateringen…">
 <!ENTITY  connecting.label                "Ansluter till uppdateringsservern…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; kunde inte verifiera integriteten hos den 
