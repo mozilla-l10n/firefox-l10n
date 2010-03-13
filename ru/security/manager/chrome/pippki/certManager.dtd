@@ -43,11 +43,21 @@
 <!ENTITY certmgr.tab.orphan2 "Другие">
 <!ENTITY certmgr.ca.builtins "Встроенные центры сертификации">
 <!ENTITY certmgr.ca.mycas "Управляемые вами центры">
-<!ENTITY certmgr.mine "У вас хранятся сертификаты от следующих организаций, служащие для вашей идентификации:">
-<!ENTITY certmgr.others "У вас хранятся сертификаты, служащие для идентификации следующих лиц:">
-<!ENTITY certmgr.websites2 "У вас хранятся сертификаты, служащие для идентификации следующих серверов:">
-<!ENTITY certmgr.cas "У вас хранятся сертификаты, служащие для идентификации следующих центров сертификации:">
-<!ENTITY certmgr.orphans "У вас хранятся сертификаты, не подходящие под какие-либо другие категории:">
+<!ENTITY certmgr.mine.search "Поиск:">
+<!ENTITY certmgr.others.search "Поиск:">
+<!ENTITY certmgr.websites.search "Поиск:">
+<!ENTITY certmgr.cas.search "Поиск:">
+<!ENTITY certmgr.orphans.search "Поиск:">
+<!ENTITY certmgr.mine.description "У вас хранятся сертификаты от следующих организаций, служащие для вашей идентификации:">
+<!ENTITY certmgr.others.description "У вас хранятся сертификаты, служащие для идентификации следующих лиц:">
+<!ENTITY certmgr.websites.description "У вас хранятся сертификаты, служащие для идентификации следующих серверов:">
+<!ENTITY certmgr.cas.description "У вас хранятся сертификаты, служащие для идентификации следующих центров сертификации:">
+<!ENTITY certmgr.orphans.description "У вас хранятся сертификаты, не подошедшие под какие-либо другие категории:">
+<!ENTITY certmgr.mine.filtered "Подходящие сертификаты от следующих организаций, служащие для вашей идентификации:">
+<!ENTITY certmgr.others.filtered "Подходящие сертификаты, служащие для идентификации следующих лиц:">
+<!ENTITY certmgr.websites.filtered "Подходящие сертификаты, служащие для идентификации следующих серверов:">
+<!ENTITY certmgr.cas.filtered "Подходящие сертификаты, служащие для идентификации следующих центров сертификации:">
+<!ENTITY certmgr.orphans.filtered "Подходящие сертификаты, не подошедшие под какие-либо другие категории:">
 <!ENTITY certmgr.detail.general_tab.title "Основное">
 <!ENTITY certmgr.detail.general_tab.accesskey "О">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Подробности">
