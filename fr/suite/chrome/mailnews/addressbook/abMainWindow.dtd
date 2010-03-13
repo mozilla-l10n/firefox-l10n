@@ -116,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey "r">
 <!ENTITY newimButton.label "Message instantané">
 <!ENTITY newimButton.accesskey "s">
-<!ENTITY searchNameAndEmail.emptytext "Rechercher dans le nom et l'adresse électronique">
+<!ENTITY searchNameAndEmail.placeholder "Rechercher dans le nom et l'adresse électronique">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip "Barre d'outils du carnet d'adresses">
