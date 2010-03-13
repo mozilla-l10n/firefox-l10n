@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Administrador de marcadores">
 
-<!ENTITY search.emptytext               "Buscar marcadores">
+<!ENTITY search.placeholder             "Buscar marcadores">
 <!ENTITY search.key                     "B">

@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "Actualización de software">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "41em">
-
 <!ENTITY checking.title "Buscando actualizaciones">
 <!ENTITY  updateCheck.label               "Buscando nuevas versiones de &brandShortName;…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Se encontraron agregados no compatibles">
 
-<!ENTITY downloading.title "Descargando actualizaciones">
+<!ENTITY downloadPage.title "Descargando &brandShortName;">
 <!ENTITY downloading.intro "Descargando la actualización…">
 <!ENTITY connecting.label "Conectando al servidor de actualizaciones…">
 <!ENTITY verificationFailedText.label "&brandShortName; no pudo verificar la integridad de la

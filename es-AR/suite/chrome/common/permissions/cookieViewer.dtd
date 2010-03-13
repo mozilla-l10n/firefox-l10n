@@ -11,7 +11,7 @@
 <!ENTITY     button.removeallcookies.label  "Eliminar todas las cookies">
 <!ENTITY     button.removeallcookies.accesskey "E">
 
-<!ENTITY     search.emptytext               "Buscar cookies">
+<!ENTITY     search.placeholder             "Buscar cookies">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 
