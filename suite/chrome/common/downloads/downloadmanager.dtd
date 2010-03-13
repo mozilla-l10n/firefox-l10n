@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Barre de menu">
 <!ENTITY searchBar.tooltip               "Barre de recherche">
 
-<!ENTITY search.emptytext                "Rechercher dans les téléchargements">
+<!ENTITY search.placeholder              "Rechercher dans les téléchargements">
 <!ENTITY search.label                    "Rechercher dans les téléchargements">
 <!ENTITY search.accesskey                "R">
 <!ENTITY search.key                      "f">

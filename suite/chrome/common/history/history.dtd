@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY searchBar.tooltip "Barre de recherche">
 
-<!ENTITY search.emptytext "Rechercher dans l'historique">
+<!ENTITY search.placeholder "Rechercher dans l'historique">
 <!ENTITY search.key "R">
 <!ENTITY view.label "Trier">
 
