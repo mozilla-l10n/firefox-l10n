@@ -58,7 +58,7 @@
 <!ENTITY certmgr.cas.description              "Usted tiene certificados en archivo que identifican a las siguientes autoridades de certificación:">
 <!ENTITY certmgr.orphans.description          "Usted tiene certificados en archivo que no entran en las otras categorías:">
 
-certmgr.mine.filtered                "Hay certificados coincidentes de estas organizaciones que lo identifican:">
+<!ENTITY certmgr.mine.filtered                "Hay certificados coincidentes de estas organizaciones que lo identifican:">
 <!ENTITY certmgr.others.filtered              "Hay certificados coincidentes en archivo que identifican a las siguientes personas:">
 <!ENTITY certmgr.websites.filtered            "Hay certificados coincidentes en archivo que identifican estos servidores:">
 <!ENTITY certmgr.cas.filtered                 "Hay certificados coincidentes en archivo que identifican a las siguientes autoridades de certificación:">
