@@ -48,3 +48,5 @@
 <!ENTITY folderRestriction2.label   "Tillåt din nya mapp att innehålla:">
 <!ENTITY foldersOnly.label          "Endast mappar">
 <!ENTITY messagesOnly.label         "Endast meddelanden">
+<!ENTITY accept.label               "Skapa mapp">
+<!ENTITY accept.accesskey           "m">
