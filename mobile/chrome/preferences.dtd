@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title                   "Recorda les contrasenyes">
 <!ENTITY language.title                            "Llengua">
 <!ENTITY language.auto                             "Detecta automàticament">
+<!ENTITY defaultBrowser.title                      "Navegador per defecte">
+<!ENTITY defaultBrowser.description                "Fes el &brandShortName; navegador per defecte">

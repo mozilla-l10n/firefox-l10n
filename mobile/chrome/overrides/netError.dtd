@@ -167,6 +167,9 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 <p>Introduir informació personal en aquesta pàgina podria resultar en una suplantació d'indentitat o algun altre tipus de frau.</p>
 <p>Aquest tipus de falsificacions web s'utilitzen en enganys coneguts com a pesca electrònica (phishing), amb què webs i adreces electròniques fraudulentes s'utilitzen per a imitar fonts en què podeu confiar-hi.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "S'ha blocat el contingut per política de seguretat">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha evitat que la pàgina es pugui carregar així perquè té un contingut que la política de seguretat no permet.</p>">
+
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'ací!">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
