@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins "CAs integrados">
 <!ENTITY certmgr.ca.mycas "CAs administrados por usted">
 
-<!ENTITY certmgr.mine "Usted tiene certificados de estas organizaciones que lo identifican">
-<!ENTITY certmgr.others "Usted tiene certificados que identifican a las siguientes personas:">
-<!ENTITY certmgr.websites2                    "Usted tiene certificados en archivo que identifican estos servidores:">
-<!ENTITY certmgr.cas "Usted tiene certificados que identifican a las siguientes autoridades:">
-<!ENTITY certmgr.orphans                      "Tiene certificados en archivo que no entran en las otras categorías:">
+<!ENTITY certmgr.mine.search                  "Buscar:">
+<!ENTITY certmgr.others.search                "Buscar:">
+<!ENTITY certmgr.websites.search              "Buscar:">
+<!ENTITY certmgr.cas.search                   "Buscar:">
+<!ENTITY certmgr.orphans.search               "Buscar:">
+
+<!ENTITY certmgr.mine.description             "Usted tiene certificados de estas organizaciones que lo identifican">
+<!ENTITY certmgr.others.description           "Usted tiene certificados en archivo que identifican a las siguientes personas:">
+<!ENTITY certmgr.websites.description         "Usted tiene certificados en archivo que identifican estos servidores:">
+<!ENTITY certmgr.cas.description              "Usted tiene certificados en archivo que identifican a las siguientes autoridades de certificación:">
+<!ENTITY certmgr.orphans.description          "Usted tiene certificados en archivo que no entran en las otras categorías:">
+
+certmgr.mine.filtered                "Hay certificados coincidentes de estas organizaciones que lo identifican:">
+<!ENTITY certmgr.others.filtered              "Hay certificados coincidentes en archivo que identifican a las siguientes personas:">
+<!ENTITY certmgr.websites.filtered            "Hay certificados coincidentes en archivo que identifican estos servidores:">
+<!ENTITY certmgr.cas.filtered                 "Hay certificados coincidentes en archivo que identifican a las siguientes autoridades de certificación:">
+<!ENTITY certmgr.orphans.filtered             "Hay certificados coincientes en archivo que no entran en las otras categorías:">
 
 <!ENTITY certmgr.detail.general_tab.title "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
