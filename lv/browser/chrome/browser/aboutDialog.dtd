@@ -7,7 +7,5 @@
 <!ENTITY closeCmdGNOME.label        "Aizvēt">  
 <!ENTITY closeCmdGNOME.accesskey    "A">
 <!ENTITY copyrightGNOME.accesskey   "i">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Veidotāji. Visas tiesības aizsargātas. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Licencēšanas informācija">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">
