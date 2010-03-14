@@ -22,7 +22,6 @@
    - Contributor(s): Matthew Willis <mattwillis@gmail.com>
    -                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
    -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,7 +42,7 @@
 <!ENTITY aboutLink.label "&lt; Acerca de &brandFullName;">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "versión">
-<!ENTITY copyrightText "©1998-2008 Colaboradores. Todos los derechos
+<!ENTITY copyrightText "©1998-2010 Colaboradores. Todos los derechos
                                  reservados. Mozilla Sunbird, Sunbird, y los
                                  logos de Sunbird son marcas comerciales de
                                  Mozilla Foundation. Todos los derechos reservados.">
