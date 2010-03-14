@@ -509,7 +509,7 @@
 <!ENTITY folderContextSettings.label "Configuración…">
 <!ENTITY folderContextSettings.accesskey "C">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Buscar en asunto o dirección">
+<!ENTITY searchSubjectOrAddress.placeholder "Buscar en el asunto o dirección">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "z">
 <!ENTITY all.label "Todos">
