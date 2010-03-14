@@ -162,9 +162,8 @@
 <!ENTITY preferencesCmdUnix.label "Iestatījumi">
 <!ENTITY preferencesCmdUnix.accesskey "m">
 
-<!ENTITY clearRecentHistoryCmd.label            "Dzēst pārlūkošanas vēsturi">
-<!ENTITY clearRecentHistoryCmd.accesskey        "D">
-
+<!ENTITY clearRecentHistory.label               "Dzēst neseno vēsturi…">
+<!ENTITY clearRecentHistory.accesskey           "D">
 
 <!ENTITY viewMenu.label "Skats">
 <!ENTITY viewMenu.accesskey "S">
@@ -286,8 +285,6 @@
 <!ENTITY sendImageCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Kopēt saiti">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyLinkTextCmd.label "Kopēt saites tekstu">
-<!ENTITY copyLinkTextCmd.accesskey "k">
 <!ENTITY copyImageCmd.label "Kopēt attēla adresi">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopēt attēlu">
