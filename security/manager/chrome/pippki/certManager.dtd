@@ -43,11 +43,21 @@
 <!ENTITY certmgr.tab.orphan2 "Otros">
 <!ENTITY certmgr.ca.builtins "CAs integradas">
 <!ENTITY certmgr.ca.mycas "CAs gestionadas por usted">
-<!ENTITY certmgr.mine "Tiene certificados de estas organizaciones que le identifican a usted:">
-<!ENTITY certmgr.others "Tiene certificados archivados que identifican a estas personas:">
-<!ENTITY certmgr.websites2 "Tiene certificados en el archivo que identifican estos servidores:">
-<!ENTITY certmgr.cas "Tiene certificados archivados que identifican a estas autoridades certificadoras:">
-<!ENTITY certmgr.orphans "Tiene certificados en el archivo que no encajan en ninguna de las otras categorías:">
+<!ENTITY certmgr.mine.search "Buscar:">
+<!ENTITY certmgr.others.search "Buscar:">
+<!ENTITY certmgr.websites.search "Buscar:">
+<!ENTITY certmgr.cas.search "Buscar:">
+<!ENTITY certmgr.orphans.search "Buscar:">
+<!ENTITY certmgr.mine.description "Tiene certificados de estas organizaciones que le identifican:">
+<!ENTITY certmgr.others.description "Tiene certificados en el archivo que identifican estas personas:">
+<!ENTITY certmgr.websites.description "Tiene certificados en el archivo que identifican estos servidores:">
+<!ENTITY certmgr.cas.description "Tiene certificados en el archivo que identifican estas autoridades certificadoras:">
+<!ENTITY certmgr.orphans.description "Tiene certificados en el archivo que no encajan en ninguna de las demás categorías:">
+<!ENTITY certmgr.mine.filtered "Certificados coincidentes de estas organizaciones que le identifican:">
+<!ENTITY certmgr.others.filtered "Certificados coincidentes en el archivo que identifican estas personas:">
+<!ENTITY certmgr.websites.filtered "Certificados coincidentes en el archivo que identifican estos servidores:">
+<!ENTITY certmgr.cas.filtered "Certificados coincidentes en el archivo que identifican estas autoridades certificadoras:">
+<!ENTITY certmgr.orphans.filtered "Certificados coincidentes en el archivo que no encajan en ninguna de las demás categorías:">
 <!ENTITY certmgr.detail.general_tab.title "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalles">

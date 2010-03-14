@@ -1,6 +1,4 @@
 <!ENTITY updateWizard.title "Actualización de software">
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "Comprobando actualizaciones">
 <!ENTITY updateCheck.label "Buscando nuevas versiones de &brandShortName;…">
 <!ENTITY pluginupdatesfound.title "Encontradas actualizaciones de sus plugins">
@@ -30,7 +28,7 @@ cuenta que tenga permisos para instalar software en este ordenador.">
 <!ENTITY license.decline "NO acepto los términos del Acuerdo de licencia">
 <!ENTITY license.decline.accesskey "T">
 <!ENTITY incompatibleList.title "Encontrados complementos no compatibles">
-<!ENTITY downloading.title "Descargando la actualización">
+<!ENTITY downloadPage.title "Descargando &brandShortName;">
 <!ENTITY downloading.intro "Descargando la actualización…">
 <!ENTITY connecting.label "Conectando al servidor de actualización…">
 <!ENTITY verificationFailedText.label "&brandShortName; no pudo verificar la integridad de la
