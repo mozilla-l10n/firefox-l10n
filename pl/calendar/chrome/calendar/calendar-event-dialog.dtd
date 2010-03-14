@@ -155,15 +155,6 @@
 <!ENTITY  event.menu.options.show.time.free.label              "Wolny">
 <!ENTITY  event.menu.options.show.time.free.accesskey          "W">
 
-<!ENTITY event.help.label                                 "Pomoc">
-<!ENTITY event.help.accesskey                             "c">
-<!ENTITY event.help.release.notes.label                   "Informacje o wydaniu">
-<!ENTITY event.help.release.notes.accesskey               "w">
-<!ENTITY event.help.help.label                            "Pomoc programu &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "P">
-<!ENTITY event.help.about.label                           "O programie &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "O">
-
 <!ENTITY event.invite.attendees.label                     "Zaproś uczestników…">
 <!ENTITY event.invite.attendees.accesskey                 "Z">
 <!ENTITY event.email.attendees.label                      "Napisz e-mail do wszystkich uczestników…">
