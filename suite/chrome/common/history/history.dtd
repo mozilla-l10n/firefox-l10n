@@ -1,7 +1,7 @@
 <!ENTITY historyWindowTitle.label "Гісторыя">
 <!ENTITY menuBar.tooltip "Паліца з меню">
 <!ENTITY searchBar.tooltip "Паліца пошуку">
-<!ENTITY search.emptytext "Шукаць у гісторыі">
+<!ENTITY search.placeholder "Пошук у гісторыі">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Прагляд">
 <!ENTITY view.columns.label "Пказваць слупкі">

@@ -1,9 +1,0 @@
-<!ENTITY incompatible.title "Несумяшчальныя адзінкі">
-<!ENTITY incompatible.intro "Наступныя адзінкі несумяшчальны з гэтым абнаўленнем &brandShortName; і
-                                     будуць забаронены, калі яно ўсталюецца:">
-<!ENTITY incompatible.update "&brandShortName; будзе час ад часу правяраць, ці не з'явіліся
-                                     сумяшчальныя абнаўленні гэтых адзінак.">
-<!ENTITY incompatible.suffix "Абнаўленні &brandShortName; утрымліваюць важныя ўдасканаленні бяспекі. Дзеля вашай
-                                     засцярогі вам настойліва раіцца абнавіць &brandShortName;, нават 
-                                     калі нейкія з вашых пашырэнняў і тэмаў стануць несумяшчальнымі.">
-<!ENTITY closebutton.label "Зачыніць">

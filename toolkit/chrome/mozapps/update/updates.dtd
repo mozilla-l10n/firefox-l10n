@@ -1,6 +1,4 @@
 <!ENTITY updateWizard.title "Абнаўленне праграмнага забеспячэння">
-<!ENTITY window.width "41em">
-<!ENTITY window.macWidth "44em">
 <!ENTITY checking.title "Праверка абнаўленняў">
 <!ENTITY updateCheck.label "Шукаюцца навейшыя версіі &brandShortName;…">
 <!ENTITY pluginupdatesfound.title "Знойдзены абнаўленні ўбудоваў">
@@ -32,7 +30,7 @@
 <!ENTITY license.decline "Я НЕ згодны з умовамі Ліцэнзійнага Пагаднення">
 <!ENTITY license.decline.accesskey "Н">
 <!ENTITY incompatibleList.title "Знойдзены несумяшчальныя дадаткі">
-<!ENTITY downloading.title "Загрузка абнаўлення">
+<!ENTITY downloadPage.title "Сцягванне &brandShortName;">
 <!ENTITY downloading.intro "Загрузка абнаўлення…">
 <!ENTITY connecting.label "Злучэнне з паслугачом абнаўленняў…">
 <!ENTITY verificationFailedText.label "&brandShortName; не здолеў праверыць цэласнасць загружанага

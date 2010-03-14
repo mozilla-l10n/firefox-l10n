@@ -43,11 +43,21 @@
 <!ENTITY certmgr.tab.orphan2 "Іншыя">
 <!ENTITY certmgr.ca.builtins "Убудаваныя КП">
 <!ENTITY certmgr.ca.mycas "КП, якія кіруюцца вамі">
-<!ENTITY certmgr.mine "У вас ёсць пасведчанні наступных установаў, якія вызначаюць вас:">
-<!ENTITY certmgr.others "У вас ёсць пасведчанні ў файле, якія вызначаюць наступныя асобы:">
-<!ENTITY certmgr.websites2 "Вы маеце пасведчанні ў файле, якія вызначаюць гэтыя паслугачы:">
-<!ENTITY certmgr.cas "У вас ёсць пасведчанні ў файле, якія вызначаюць наступныя крыніцы пасведчанняў:">
-<!ENTITY certmgr.orphans "У вас ёсць пасведчанні ў файле, якія не падыходзяць ні да ніводнай з наступных катэгорыяў:">
+<!ENTITY certmgr.mine.search "Пошук:">
+<!ENTITY certmgr.others.search "Пошук:">
+<!ENTITY certmgr.websites.search "Пошук:">
+<!ENTITY certmgr.cas.search "Пошук:">
+<!ENTITY certmgr.orphans.search "Пошук:">
+<!ENTITY certmgr.mine.description "Вы маеце пасведчанні наступных установаў, якія вызначаюць вас:">
+<!ENTITY certmgr.others.description "Вы маеце пасведчанні, якія вызначаюць наступных асобаў:">
+<!ENTITY certmgr.websites.description "Вы маеце пасведчанні, якія вызначаюць наступныя паслугачы:">
+<!ENTITY certmgr.cas.description "Вы маеце пасведчанні, якія вызначаюць наступныя крыніцы пасведчанняў:">
+<!ENTITY certmgr.orphans.description "Вы маеце пасведчанні, якія не пападаюць ні ў адну з іншых катэгорыяў:">
+<!ENTITY certmgr.mine.filtered "Адпаведныя пасведчанні, якія вызначаюць вас, ад наступных установаў:">
+<!ENTITY certmgr.others.filtered "Адпаведныя пасведчанні, якія вызначаюць наступных асобаў:">
+<!ENTITY certmgr.websites.filtered "Адпаведныя пасведчанні, якія вызначаюць наступныя паслугачы:">
+<!ENTITY certmgr.cas.filtered "Адпаведныя пасведчанні, якія вызначаюць наступныя крыніцы пасведчанняў:">
+<!ENTITY certmgr.orphans.filtered "Адпаведныя пасведчанні, якія не пападаюць ні ў адну з іншых катэгорыяў:">
 <!ENTITY certmgr.detail.general_tab.title "Асноўныя">
 <!ENTITY certmgr.detail.general_tab.accesskey "А">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Падрабязнасці">

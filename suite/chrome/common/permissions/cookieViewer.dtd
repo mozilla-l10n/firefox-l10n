@@ -10,7 +10,7 @@
 <!ENTITY button.removecookie.accesskey "В">
 <!ENTITY button.removeallcookies.label "Выдаліць усе біркі">
 <!ENTITY button.removeallcookies.accesskey "у">
-<!ENTITY search.emptytext "Пошук бірак">
+<!ENTITY search.placeholder "Пошук бірак">
 <!ENTITY focusSearch.key "f">
 <!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">
