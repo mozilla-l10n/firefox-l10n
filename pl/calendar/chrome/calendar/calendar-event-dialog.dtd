@@ -213,6 +213,7 @@
 <!ENTITY event.priority2.label                            "Priorytet:">
 
 <!ENTITY event.reminder.none.label                        "Bez przypomnienia " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minut przed" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minut przed" >
 <!ENTITY event.reminder.10minutes.before.label            "10 minut przed" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minut przed" >
