@@ -509,7 +509,7 @@
 <!ENTITY folderContextSettings.label "Наладжванні…">
 <!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Пошук тэмы або адрасу">
+<!ENTITY searchSubjectOrAddress.placeholder "Пошук тэмы або адрасу">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "П">
 <!ENTITY all.label "Усе">

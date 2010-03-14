@@ -111,5 +111,5 @@
 <!ENTITY treecol.lastvisit.accesskey "е">
 <!ENTITY treecol.lastvisit.tooltip "Пстрыкніце, каб размеркаваць па апошняму наведванню">
 <!ENTITY bookmarksWindowTitle.label "Кіраўнік закладак">
-<!ENTITY search.emptytext "Шукаць закладкі">
+<!ENTITY search.placeholder "Пошук закладак">
 <!ENTITY search.key "f">

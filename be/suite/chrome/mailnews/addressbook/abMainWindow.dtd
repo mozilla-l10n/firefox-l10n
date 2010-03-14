@@ -61,7 +61,7 @@
 <!ENTITY deleteItemButton.accesskey "д">
 <!ENTITY newimButton.label "Вокамгненнае паведамленне">
 <!ENTITY newimButton.accesskey "м">
-<!ENTITY searchNameAndEmail.emptytext "Шукаць імя і э-пошту">
+<!ENTITY searchNameAndEmail.placeholder "Пошук імяў і э-адрасоў">
 <!ENTITY addressbookToolbar.tooltip "Паліца прыладаў адраснай кнігі">
 <!ENTITY newContactButton.tooltip "Стварыць новую сувязь у адраснай кнізе">
 <!ENTITY newlistButton.tooltip "Стварыць новы спіс">

@@ -1,7 +1,7 @@
 <!ENTITY downloadManager.title "Кіраўнік загрузак">
 <!ENTITY menuBar.tooltip "Паліца меню">
 <!ENTITY searchBar.tooltip "Паліца пошуку">
-<!ENTITY search.emptytext "Пошук загрузак">
+<!ENTITY search.placeholder "Пошук загрузак">
 <!ENTITY search.label "Пошук загрузак">
 <!ENTITY search.accesskey "ш">
 <!ENTITY search.key "f">
