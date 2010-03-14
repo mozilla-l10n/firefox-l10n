@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Barra de Menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
-<!ENTITY search.emptytext                "Pesquisar transferências">
+<!ENTITY search.placeholder              "Pesquisar transferências">
 <!ENTITY search.label                    "Pesquisar transferências">
 <!ENTITY search.accesskey                "P">
 <!ENTITY search.key                      "f">
