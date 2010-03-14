@@ -82,26 +82,24 @@
 <!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Plik">
-<!ENTITY  event.menu.file.accesskey                       "P">
-<!ENTITY  event.menu.file.new.label                       "Nowy">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Wydarzenie">
-<!ENTITY  event.menu.file.new.event.accesskey             "W">
-<!ENTITY  event.menu.file.new.message.label               "Wiadomość">
-<!ENTITY  event.menu.file.new.message.accesskey           "m">
-<!ENTITY  event.menu.file.new.contact.label               "Wizytówka">
-<!ENTITY  event.menu.file.new.contact.accesskey           "t">
-<!ENTITY  event.menu.file.close.label                     "Zamknij">
-<!ENTITY  event.menu.file.close.accesskey                 "Z">
-<!ENTITY  event.menu.file.save.label                      "Zapisz">
-<!ENTITY  event.menu.file.save.accesskey                  "s">
+<!ENTITY  event.menu.item.new.label                       "Nowy">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Wydarzenie">
+<!ENTITY  event.menu.item.new.event.accesskey             "W">
+<!ENTITY  event.menu.item.new.message.label               "Wiadomość">
+<!ENTITY  event.menu.item.new.message.accesskey           "m">
+<!ENTITY  event.menu.item.new.contact.label               "Wizytówka">
+<!ENTITY  event.menu.item.new.contact.accesskey           "t">
+<!ENTITY  event.menu.item.close.label                     "Zamknij">
+<!ENTITY  event.menu.item.close.accesskey                 "Z">
+<!ENTITY  event.menu.item.save.label                      "Zapisz">
+<!ENTITY  event.menu.item.save.accesskey                  "s">
 <!ENTITY  event.menu.item.delete.label                    "Usuń…">
 <!ENTITY  event.menu.item.delete.accesskey                "U">
-<!ENTITY  event.menu.file.page.setup.label                "Ustawienia strony">
-<!ENTITY  event.menu.file.page.setup.accesskey            "a">
-<!ENTITY  event.menu.file.print.label                     "Drukuj">
-<!ENTITY  event.menu.file.print.accesskey                 "D">
+<!ENTITY  event.menu.item.page.setup.label                "Ustawienia strony">
+<!ENTITY  event.menu.item.page.setup.accesskey            "a">
+<!ENTITY  event.menu.item.print.label                     "Drukuj">
+<!ENTITY  event.menu.item.print.accesskey                 "D">
 
 <!ENTITY  event.menu.edit.label                           "Edycja">
 <!ENTITY  event.menu.edit.accesskey                       "a">
