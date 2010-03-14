@@ -1,7 +1,7 @@
 <!ENTITY historyWindowTitle.label "Historial">
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY searchBar.tooltip "Barra de búsqueda">
-<!ENTITY search.emptytext "Buscar en historial">
+<!ENTITY search.placeholder "Buscar en el historial">
 <!ENTITY search.key "b">
 <!ENTITY view.label "Ver">
 <!ENTITY view.columns.label "Mostrar columnas">

@@ -10,7 +10,7 @@
 <!ENTITY button.removecookie.accesskey "R">
 <!ENTITY button.removeallcookies.label "Eliminar todas las cookies">
 <!ENTITY button.removeallcookies.accesskey "E">
-<!ENTITY search.emptytext "Buscar cookies">
+<!ENTITY search.placeholder "Buscar en las cookies">
 <!ENTITY focusSearch.key "f">
 <!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">

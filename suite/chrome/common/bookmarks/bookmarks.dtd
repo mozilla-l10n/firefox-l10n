@@ -111,5 +111,5 @@
 <!ENTITY treecol.lastvisit.accesskey "V">
 <!ENTITY treecol.lastvisit.tooltip "Pulse para ordenar por última visita">
 <!ENTITY bookmarksWindowTitle.label "Administrador de marcadores">
-<!ENTITY search.emptytext "Buscar en marcadores">
+<!ENTITY search.placeholder "Buscar en los marcadores">
 <!ENTITY search.key "f">
