@@ -57,7 +57,6 @@
 <!ENTITY printContactViewCmd.accesskey                  "I">
 <!ENTITY printPreviewContactViewCmd.label               "Pré-Visualizar Contacto">
 <!ENTITY printPreviewContactViewCmd.accesskey           "z">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Imprimir livro de endereços..."> 
 <!ENTITY printAddressBook.accesskey                     "l"> 
@@ -117,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey                     "a">  
 <!ENTITY newimButton.label                              "Mensagem Instantânea">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY searchNameAndEmail.emptytext                   "Procurar nome e correio">
+<!ENTITY searchNameAndEmail.placeholder                 "Procurar nome e correio">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do Livro de Endereços">

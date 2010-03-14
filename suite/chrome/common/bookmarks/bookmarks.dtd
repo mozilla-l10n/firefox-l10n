@@ -77,7 +77,7 @@
 <!ENTITY command.manageBookmarks.label "Gerir">
 <!ENTITY command.sortFolder.label      "Ordenar pasta…">
 <!ENTITY command.sortFolder.accesskey  "O">
-<!ENTITY command.sortFolder.key    "O">
+<!ENTITY command.sortFolder.key        "S">
 <!ENTITY command.sortFolderByName.label "Ordenar pasta por nome">
 <!ENTITY command.sortFolderByName.accesskey "n">
 
@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Gestor de marcadores">
 
-<!ENTITY search.emptytext               "Pesquisar Marcadores">
+<!ENTITY search.placeholder             "Pesquisar Marcadores">
 <!ENTITY search.key                     "s">
