@@ -119,5 +119,5 @@
 
 <!ENTITY bookmarksWindowTitle.label "Gestor d'adreces d'interès">
 
-<!ENTITY search.emptytext               "Cerca adreces d'interès">
+<!ENTITY search.placeholder               "Cerca adreces d'interès">
 <!ENTITY search.key                     "C">

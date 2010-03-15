@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Barra de menú">
 <!ENTITY searchBar.tooltip               "Barra de cerca">
 
-<!ENTITY search.emptytext                "Cerca les baixades">
+<!ENTITY search.placeholder              "Cerca les baixades">
 <!ENTITY search.label                    "Cerca les baixades">
 <!ENTITY search.accesskey                "C">
 <!ENTITY search.key                      "f">

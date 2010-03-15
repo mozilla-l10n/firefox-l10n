@@ -11,7 +11,7 @@
 <!ENTITY button.removeallcookies.label "Suprimeix totes les galetes">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.emptytext               "Cerca galetes">
+<!ENTITY     search.placeholder               "Cerca galetes">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
