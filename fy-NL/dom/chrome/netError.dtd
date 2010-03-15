@@ -77,6 +77,9 @@
 <p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
