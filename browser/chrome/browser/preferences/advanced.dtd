@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "T">
 <!ENTITY checkNow.label                  "No kontrolearje">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "Ungelokrapport yntsjinje">
+<!ENTITY submitCrashes.accesskey         "U">
 
 <!ENTITY networkTab.label                "Netwurk">
 
