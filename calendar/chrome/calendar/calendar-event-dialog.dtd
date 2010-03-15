@@ -362,6 +362,7 @@
 <!ENTITY event.attendee.role.required           "Benötigter Teilnehmer">
 <!ENTITY event.attendee.role.optional           "Optionaler Teilnehmer">
 <!ENTITY event.attendee.role.chair              "Leitung">
+<!ENTITY event.attendee.role.nonparticipant     "Kein Teilnehmer">
 
 <!-- Timezone dialog -->
 
