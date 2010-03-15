@@ -586,7 +586,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Cerca l'assumpte o l'adreça">
+<!ENTITY searchSubjectOrAddress.placeholder "Cerca l'assumpte o l'adreça">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "A">
 

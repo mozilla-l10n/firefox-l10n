@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip                "Barra del menú">
 <!ENTITY searchBar.tooltip              "Barra de cerca">
 
-<!ENTITY search.emptytext               "Cerca l'historial">
+<!ENTITY search.placeholder               "Cerca l'historial">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Visualitza">
 

@@ -361,6 +361,7 @@
 <!ENTITY event.attendee.role.required           "Assistent necessari">
 <!ENTITY event.attendee.role.optional           "Assistent opcional">
 <!ENTITY event.attendee.role.chair              "Cap de la reunió">
+<!ENTITY event.attendee.role.nonparticipant     "No participa">
 
 <!-- Timezone dialog -->
 
