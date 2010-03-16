@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Programma-fernijing">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Kontrolearje op fernijings">
 <!ENTITY  updateCheck.label               "Kontrolearret no op fernijings fan &brandShortName;...">
 
@@ -39,16 +36,16 @@
 <!ENTITY  license.instructionText         "Lês asjobleaft de folgjende lisinsje-oerienkomst troch. Brûk de skowbalke om de rest fan dizze oerienkomst te besjen.">
 <!ENTITY  license.accept                  "Ik akseptear de betingsten fan de lisinsje-oerienkomst">
 <!ENTITY  license.accept.accesskey        "k">
-<!ENTITY  license.decline                 "Ik akseptear de betingsten fan de lisinsje-oerienkomst NET">
+<!ENTITY  license.decline                 "Ik akseptearje de betingsten fan de lisinsje-oerienkomst NET">
 <!ENTITY  license.decline.accesskey       "N">
 
-<!ENTITY  incompatibleList.title          "Inkompatibele tafoegings fûn">
+<!ENTITY  incompatibleList.title          "Ynkompatibele tafoegings fûn">
 
-<!ENTITY  downloading.title               "Fernijing ynlade">
+<!ENTITY  downloadPage.title              "&brandShortName; wurdt ynladen">
 <!ENTITY  downloading.intro               "Fernijing ynlade...">
 <!ENTITY  connecting.label                "Ferbine mei de fernijingstsjinner...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; wie net yn steat om de yntegriteit fan de
-                                           ynkrementele fernijing dy't ynladen is te kontrolearjen en laad
+                                           ynkrementele fernijing dy't ynladen is te kontrolearjen en laadt
                                            derom no it folsleine fernijingspakket yn.">
 
 <!ENTITY  viewDetails.tooltip             "Toan details foar dizze fernijing">
