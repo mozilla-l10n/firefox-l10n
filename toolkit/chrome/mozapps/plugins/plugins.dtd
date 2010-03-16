@@ -23,3 +23,21 @@
 <!ENTITY missingPlugin.label                                 "Klik hjir om de ynstekker yn te laden.">
 <!ENTITY disabledPlugin.label                                "De ynstekker foar dizze ynhâld is útskeakele. Klik hjir om jo ynstekkers te behearjen.">
 <!ENTITY blockedPlugin.label                                 "Dizze ynstekker is blokkearre foar jo beskerming.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "Laad de ">
+<!ENTITY reloadPlugin.middle                                 "side op 'e nij">
+<!ENTITY reloadPlugin.post                                   " om it nochris te probearjen.">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "In ">
+<!ENTITY submittedCrashReport.middle                         "ûngelokrapport">
+<!ENTITY submittedCrashReport.post                           " is ferstjoerd.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "Jo hawwe ">
+<!ENTITY notSubmittedCrashReport.middle                      "ûngelokrapport">
+<!ENTITY notSubmittedCrashReport.post                        " ferstjoere útskeakele.">
