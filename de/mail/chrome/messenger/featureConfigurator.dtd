@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "Neue Symbolauswahl">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Gruppierte Ordner">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Gruppierte Ordner">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Die Konten-/Ordnerliste wird als &quot;Gruppierte Ordner&quot; angezeigt.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Die Konten-/Ordnerliste wird als &quot;Gruppierte Ordner&quot; angezeigt.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Die Konten-/Ordnerliste wird nicht mit gruppierten Ordnern angezeigt.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Die Konten-/Ordnerliste wird nicht mit gruppierten Ordnern angezeigt.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Bei Anwendern mit mehreren Konten gruppiert diese Ansicht die speziellen Ordner (Posteingang, etc.) zusammen. Dadurch bekommen Sie einen schnelleren Überblick über Ihre Nachrichten.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Wenn Sie die kontengetrennte Anzeige der Ordner und Nachrichten möchten, wählen Sie die Ansicht &quot;Alle Ordner&quot;.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Bei Anwendern mit mehreren Konten gruppiert diese Ansicht die speziellen Ordner (Posteingang, etc.) zusammen. Dadurch bekommen Sie einen schnelleren Überblick über Ihre Nachrichten.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Wenn Sie die kontengetrennte Anzeige der Ordner und Nachrichten möchten, wählen Sie die Ansicht &quot;Alle Ordner&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "&quot;Gruppierte Ordner&quot; verwenden">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "&quot;Gruppierte Ordner&quot; verwenden">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
@@ -112,4 +112,3 @@ the link to the AMO search page.-->
 the paragraph after the link to the AMO search page.-->
 <!ENTITY featureConfigurator.headerParaAfterLink ".">
 
- 
