@@ -135,8 +135,8 @@
 
 <!ENTITY folderView.label "Ordner">
 <!ENTITY folderView.accesskey "d">
-<!ENTITY smartFolders.label "Gruppiert">
-<!ENTITY smartFolders.accesskey "G">
+<!ENTITY unifiedFolders.label "Gruppiert">
+<!ENTITY unifiedFolders.accesskey "G">
 <!ENTITY allFolders.label "Alle">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ungelesene">
