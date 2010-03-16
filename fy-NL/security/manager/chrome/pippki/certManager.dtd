@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins                  "Ynboude CA’s">
 <!ENTITY certmgr.ca.mycas                     "CA’s beheard troch jo">
 
-<!ENTITY certmgr.mine                         "Jo ha sertifikaten fan dizze organisaasjes dy't jo identifisearje:">
-<!ENTITY certmgr.others                       "Jo ha sertifikaten archifearre dy't dizze persoanen identifisearje:">
-<!ENTITY certmgr.websites2                    "Jo ha sertifikaten archifearre dy't dizze tsjinners identifisearje:">
-<!ENTITY certmgr.cas                          "Jo ha sertifikaten archifearre dy't dizze sertifikaasje-autoriteiten identifisearje:">
-<!ENTITY certmgr.orphans                      "Jo hawwe sertifikaten archifearre dy't net passe yn ien fan de oare kategoriën:">
+<!ENTITY certmgr.mine.search                  "Sykje:">
+<!ENTITY certmgr.others.search                "Sykje:">
+<!ENTITY certmgr.websites.search              "Sykje:">
+<!ENTITY certmgr.cas.search                   "Sykje:">
+<!ENTITY certmgr.orphans.search               "Sykje:">
+
+<!ENTITY certmgr.mine.description             "Jo hawwe sertifikaten fan dizze organisaasjes dy't jo identifisearje:">
+<!ENTITY certmgr.others.description           "Jo hawwe sertifikaten fan dizze organisaasjes dy't dizze minsken identifisearje:">
+<!ENTITY certmgr.websites.description         "Jo hawwe sertifikate as bestân dy't dizze tsjinners identifisearje:">
+<!ENTITY certmgr.cas.description              "Jo hawwe sertifikate as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
+<!ENTITY certmgr.orphans.description          "Jo hawwe sertifikate as bestân dy't net passe yn ien fan de oare kategoriën:">
+
+<!ENTITY certmgr.mine.filtered                "Oerienkommende sertifikaten fan dizze organisaasjes dy't jo identifisearje:">
+<!ENTITY certmgr.others.filtered              "Oerienkommende sertifikatens as bestân dy't dizze minsken identifisearje:">
+<!ENTITY certmgr.websites.filtered            "Oerienkommende sertifikaten as bestân dy't dizze tsjinners identifisearjes:">
+<!ENTITY certmgr.cas.filtered                 "Oerienkommende sertifikaten as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
+<!ENTITY certmgr.orphans.filtered             "Oerienkommende sertifikaten as bestân dy't net passe yn ien fan de oare kategoriën:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemien">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
