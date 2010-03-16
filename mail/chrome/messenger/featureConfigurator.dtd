@@ -86,7 +86,7 @@ shows that the current mode in the folder pane is not the Unified Folders mode.-
 <!ENTITY featureConfigurator.unifiedFolders.all.status "Die Konten-/Ordnerliste wird nicht mit gruppierten Ordnern angezeigt.">
 
 <!ENTITY featureConfigurator.unifiedFolderBenefits.para "Bei Anwendern mit mehreren Konten gruppiert diese Ansicht die speziellen Ordner (Posteingang, etc.) zusammen. Dadurch bekommen Sie einen schnelleren Überblick über Ihre Nachrichten.">
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Wenn Sie die kontengetrennte Anzeige der Ordner und Nachrichten möchten, wählen Sie die Ansicht &quot;Alle Ordner&quot;.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Wenn Sie die kontengetrennte Anzeige der Ordner und Nachrichten möchten, wählen Sie die Ansicht &quot;Alle Ordner&quot;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
