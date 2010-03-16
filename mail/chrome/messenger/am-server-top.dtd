@@ -33,12 +33,12 @@
 <!ENTITY deleteByAgeFromServer.label "Foar maksimaal">
 <!ENTITY deleteByAgeFromServer.accesskey "k">
 <!ENTITY daysEnd.label "dagen">
-<!ENTITY deleteOnServer2.label "Oant ik se fuortsmit">
+<!ENTITY deleteOnServer2.label "Oant ik se fuortsmyt">
 <!ENTITY deleteOnServer2.accesskey "i">
 <!ENTITY downloadOnBiff.label "Nije berjochten automatysk ynlade">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Jo ynlochnamme">
-<!ENTITY deleteMessagePrefix.label "As ik in berjocht fuortsmit:">
+<!ENTITY deleteMessagePrefix.label "As ik in berjocht fuortsmyt:">
 <!ENTITY modelMoveToTrash.label "It nei it jiskefet ferpleatse">
 <!ENTITY modelMoveToTrash.accesskey "j">
 <!ENTITY modelMarkDeleted.label "It as fuortsmiten markearje">
@@ -66,7 +66,7 @@
 <!ENTITY localPath.label "Lokale map">
 <!ENTITY abbreviate.label "Nijsgroepnammen yn it berjochtemapfinster toane as:">
 <!ENTITY abbreviateOn.label "Folsleine nammen (bygelyks ‘netscape.public.mozilla.mail-news’)">
-<!ENTITY abbreviateOff.label "Afgekorte namen (bygelyks ‘n.p.m.mail-news’)">
+<!ENTITY abbreviateOff.label "Ofkoarte nammen (bygelyks ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Avansearre…">
 <!ENTITY serverDefaultCharset.label "Standert tekenset:">
 <!ENTITY advancedButton.accesskey "A">
