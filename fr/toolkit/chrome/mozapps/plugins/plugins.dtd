@@ -28,15 +28,10 @@
 <!ENTITY reloadPlugin.pre                                    " ">
 <!ENTITY reloadPlugin.middle                                 "Actualiser la page">
 <!ENTITY reloadPlugin.post                                   " pour essayer à nouveau.">
-<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
-<!ENTITY submittedCrashReport.pre                            " Un ">
-<!ENTITY submittedCrashReport.middle                         "rapport de plantage">
-<!ENTITY submittedCrashReport.post                           " a été soumis.">
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
-<!ENTITY notSubmittedCrashReport.pre                         " Vous avez désactivé la soumission de ">
-<!ENTITY notSubmittedCrashReport.middle                      "rapport de plantage">
-<!ENTITY notSubmittedCrashReport.post                        ".">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Envoyer un rapport de plantage">
+<!ENTITY report.submitting                                   "Envoi du rapport…">
+<!ENTITY report.submitted                                    "Rapport de plantage envoyé.">
+<!ENTITY report.disabled                                     "Rapport de plantage désactivé.">
+<!ENTITY report.failed                                       "Échec de l'envoi.">
+<!ENTITY report.unavailable                                  "Pas de rapport disponible.">
