@@ -36,7 +36,6 @@
 
 <!ENTITY addonsHeader.label        "Agregados">
 <!ENTITY addonsLocal.label         "Tus agregados">
-<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRepo.label          "Obtener agregados">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Buscar">
