@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "utiliser une nouvelle barre d'outils">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "mode Dossiers intelligents">
+<!ENTITY featureConfigurator.unifiedFolders.heading "mode Dossiers unifiés">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Utiliser les «&nbsp;dossiers intelligents&nbsp;».">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Utiliser les «&nbsp;dossiers unifiés&nbsp;».">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Ne pas utiliser les «&nbsp;dossiers intelligents&nbsp;».">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Ne pas utiliser les «&nbsp;dossiers unifiés&nbsp;».">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Si vous possédez plusieurs comptes, ce mode regroupe leurs dossiers tels que la boîte de réception, ainsi vous avez une vue d'ensemble de votre courrier.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Si vous aimez avoir des comptes distincts alors vous préférerez le mode «&nbsp;Tous les dossiers&nbsp;».">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Si vous possédez plusieurs comptes, ce mode regroupe leurs dossiers tels que la boîte de réception, ainsi vous avez une vue d'ensemble de votre courrier.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Si vous aimez avoir des comptes distincts alors vous préférerez le mode «&nbsp;Tous les dossiers&nbsp;».">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "utiliser les «&nbsp;dossiers intelligents&nbsp;»">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "utiliser les «&nbsp;dossiers unifiés&nbsp;»">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
