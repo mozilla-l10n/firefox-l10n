@@ -75,23 +75,23 @@ sense because of a specific language context.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Smarte mapper-tilstand">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Samlede mapper-tilstand">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Bruger &quot;smarte mapper&quot;-tilstanden.">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Bruger &quot;samlede mapper&quot;-tilstanden.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
 shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Bruger ikke &quot;smarte mapper&quot;-tilstanden.">
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Bruger ikke &quot;samlede mapper&quot;-tilstanden.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Hvis du bruger flere konti, kan du med dette layout gruppere mapper som Indbakke og Sendt sammen, så du får et samlet overblik over dine meddelelser.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Hvis du foretrækker information opdelt over flere konti, vil du nok foretrække &quot;Alle mapper&quot;-tilstanden.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Hvis du bruger flere konti, kan du med dette layout gruppere mapper som Indbakke og Sendt sammen, så du får et samlet overblik over dine meddelelser.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Hvis du foretrækker information opdelt over flere konti, vil du nok foretrække &quot;Alle mapper&quot;-tilstanden.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "brug &quot;smarte mapper&quot;-tilstand">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "brug &quot;samlede mapper&quot;-tilstand">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make

@@ -18,7 +18,7 @@
 <!ENTITY draftInOtherFolder.accesskey "d">
 
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Mappen Arkiver på:">
+<!ENTITY archivesFolderOn.label "Mappen Arkiv på:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Andet:">
 <!ENTITY archiveInOtherFolder.accesskey "n">
@@ -28,5 +28,5 @@
 <!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Kladder og skabeloner">
 <!ENTITY keepDrafts.label "Gem meddelelseskladder i:">
-<!ENTITY keepArchives.label "Gem meddelelsesarkiver i:">
+<!ENTITY keepArchives.label "Arkiver meddelelser i:">
 <!ENTITY keepTempltes.label "Gem meddelelsesskabeloner i:">

@@ -132,8 +132,8 @@
 
 <!ENTITY folderView.label "Mapper">
 <!ENTITY folderView.accesskey "M">
-<!ENTITY smartFolders.label "Smart">
-<!ENTITY smartFolders.accesskey "S">
+<!ENTITY unifiedFolders.label "Samlede">
+<!ENTITY unifiedFolders.accesskey "S">
 <!ENTITY allFolders.label "Alle">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ulæste">
