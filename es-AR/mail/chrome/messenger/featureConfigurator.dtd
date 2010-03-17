@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "usar nueva barra de herramientas">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Modo de carpetas inteligentes">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Modo de carpetas unificadas">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Usar el modo de &quot;carpetas inteligentes&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Usar el modo de &quot;carpetas unificadas&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "No usar el modo de &quot;carpetas inteligentes&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "No usar el modo de &quot;carpetas unificadas&quot;.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Para usuarios con varias cuentas, esta vista agrupa carpetas como la bandeja de entrada, para obtener una vista consolidada de todo su correo.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Si prefiere mantener separada la información de cada cuenta, entonces preferirá el modo &quot;todas las carpetas&quot;.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Para usuarios con varias cuentas, esta vista agrupa carpetas como la bandeja de entrada, para obtener una vista consolidada de todo su correo.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Si prefiere mantener separada la información de cada cuenta, entonces preferirá el modo &quot;todas las carpetas&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "usar el modo &quot;carpetas inteligentes&quot;">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "usar el modo &quot;carpetas unificadas&quot;">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
