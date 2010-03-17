@@ -30,7 +30,6 @@
    - Hasse Wallanger <jasajudeju@telia.com>
   -->
 
-<!ENTITY  untitledTab              "(Namnlös)">
 <!ENTITY  newTab.label             "Ny flik">
 <!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "Stäng flik">
