@@ -7,3 +7,5 @@
 <!ENTITY folderRestriction2.label "Tillad at den nye mappe indeholder:">
 <!ENTITY foldersOnly.label "Kun mapper">
 <!ENTITY messagesOnly.label "Kun meddelelser">
+<!ENTITY accept.label               "Opret mappe">
+<!ENTITY accept.accesskey           "O">
