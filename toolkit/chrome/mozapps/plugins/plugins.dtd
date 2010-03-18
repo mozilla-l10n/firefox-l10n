@@ -19,9 +19,9 @@
 <!ENTITY reloadPlugin.pre "Вы можете попробовать ">
 <!ENTITY reloadPlugin.middle "перезагрузить эту страницу">
 <!ENTITY reloadPlugin.post ".">
-<!ENTITY submittedCrashReport.pre "Ваше ">
-<!ENTITY submittedCrashReport.middle "сообщение о падении">
-<!ENTITY submittedCrashReport.post " было успешно отправлено.">
-<!ENTITY notSubmittedCrashReport.pre "Вы отключили отправку ">
-<!ENTITY notSubmittedCrashReport.middle "сообщений о падении">
-<!ENTITY notSubmittedCrashReport.post ".">
+<!ENTITY report.please "Отправить сообщение о падении">
+<!ENTITY report.submitting "Идёт отправка сообщения…">
+<!ENTITY report.submitted "Сообщение о падении отправлено.">
+<!ENTITY report.disabled "Отправка сообщений о падении отключена.">
+<!ENTITY report.failed "Отправка не удалась.">
+<!ENTITY report.unavailable "Нет доступных сообщений.">

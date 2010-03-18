@@ -3,9 +3,9 @@
 <!ENTITY featureConfigurator.para1 "Thunderbird 3 включает в себя новые возможности, которыми мы гордимся, и которые, как мы думаем, понравятся большинству людей. Тем не менее, у каждого свои вкусы и потребности, поэтому мы облегчили для вас настройку Thunderbird.">
 <!ENTITY featureConfigurator.para2 "Для конфигурации новых параметров используйте эту страницу. Вы всегда можете вызвать Помощника в миграции из меню Справка.">
 <!ENTITY featureConfigurator.imap.heading "Синхронизация IMAP сообщений">
-<!ENTITY featureConfigurator.imap.status.all "Все ваши папки IMAP настроены на &quot;синхронизацию&quot;.">
-<!ENTITY featureConfigurator.imap.status.none "Ни одна из ваших папок IMAP не настроена на &quot;синхронизацию&quot;.">
-<!ENTITY featureConfigurator.imap.status.some "Некоторые из ваших папок IMAP настроены на &quot;синхронизацию&quot;.">
+<!ENTITY featureConfigurator.imap.status.all "Все ваши папки IMAP настроены на «синхронизацию».">
+<!ENTITY featureConfigurator.imap.status.none "Ни одна из ваших папок IMAP не настроена на «синхронизацию».">
+<!ENTITY featureConfigurator.imap.status.some "Некоторые из ваших папок IMAP настроены на «синхронизацию».">
 <!ENTITY featureConfigurator.benefits.label "Преимущества">
 <!ENTITY featureConfigurator.alternative.label "Альтернатива">
 <!ENTITY featureConfigurator.syncBenefits.para "Позволяет вам читать вашу почту, когда вы не подсоединены к Интернету и позволяет вам искать сообщения по содержащимся в них словам, а не только по темам и именам.">
@@ -21,13 +21,13 @@
 <!ENTITY featureConfigurator.toolbarAlternative.para "Если вам больше нравится вид старой панели инструментов, вы не хотите настраивать её заново или вы не используете в раскладке панель сообщения.">
 <!ENTITY featureConfigurator.useOriginalToolbar.button "использовать оригинальную панель инструментов">
 <!ENTITY featureConfigurator.useNewToolbar.button "использовать новую панель инструментов">
-<!ENTITY featureConfigurator.smartFolders.heading "Режим умных папок">
-<!ENTITY featureConfigurator.smartFolders.smart.status "Используется режим &quot;умных папок&quot;.">
-<!ENTITY featureConfigurator.smartFolders.all.status "Не используется режим &quot;умных папок&quot;.">
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Для пользователей с несколькими учётными записями, этот вид группирует папки, вроде Входящих, вместе, так что вы видите сразу всю вашу почту.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Если вам нравится разделять информацию по учётным записям, то вам следует использовать режим &quot;Все папки&quot;.">
-<!ENTITY featureConfigurator.useSmartFolders.button "использовать режим &quot;умных папок&quot;">
-<!ENTITY featureConfigurator.useAllFolders.button "использовать режим &quot;все папки&quot;">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Режим объединённых папок">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Используется режим «объединённых папок».">
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Не используется режим «объединённых папок».">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Для пользователей с несколькими учётными записями, этот вид группирует папки, вроде Входящих, вместе, так что вы видите сразу всю вашу почту.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Если вам нравится разделять информацию по учётным записям, то вам следует использовать режим «Все папки».">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "использовать режим «объединённых папок»">
+<!ENTITY featureConfigurator.useAllFolders.button "использовать режим «все папки»">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Свёрнутые заголовки">
 <!ENTITY featureConfigurator.headerParaBeforeLink "В Thunderbird 3 был улучшен дизайн подробного заголовка сообщения, а также добавлены кнопки для обработки сообщения. Альтернативные дизайны доступны в виде ">
 <!ENTITY featureConfigurator.headerParaLinkName "дополнений">
