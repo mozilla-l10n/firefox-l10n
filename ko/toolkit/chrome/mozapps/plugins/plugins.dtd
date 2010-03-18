@@ -22,16 +22,11 @@
 <!ENTITY reloadPlugin.pre "재시도를 위하여 ">
 <!ENTITY reloadPlugin.middle "페이지 새로 고침">
 <!ENTITY reloadPlugin.post "">
-<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
-<!ENTITY submittedCrashReport.pre                            "">
-<!ENTITY submittedCrashReport.middle                         "충돌 보고서를">
-<!ENTITY submittedCrashReport.post                           " 제출 했습니다.">
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
-<!ENTITY notSubmittedCrashReport.pre                         "">
-<!ENTITY notSubmittedCrashReport.middle                      "장애 리포트 제출을">
-<!ENTITY notSubmittedCrashReport.post                        " 비활성화 했습니다.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "충돌 보고서 제출">
+<!ENTITY report.submitting                                   "리포트 전송 중…">
+<!ENTITY report.submitted                                    "출돌 보고서를 제출 합니다.">
+<!ENTITY report.disabled                                     "출돌 보고가 비활성화 되었습니다.">
+<!ENTITY report.failed                                       "제출에 실패했습니다.">
+<!ENTITY report.unavailable                                  "제출할 리포트가 없습니다.">
 
