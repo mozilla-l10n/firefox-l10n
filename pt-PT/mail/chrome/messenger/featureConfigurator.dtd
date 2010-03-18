@@ -77,9 +77,9 @@ sense because of a specific language context.-->
 words here should echo the name of the mode shown in the folder pane.-->
 <!ENTITY featureConfigurator.unifiedFolders.heading "Modo de pastas unificadas">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "A usar o modo &quot;pastas unificadas&quot;.">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "A usar o modo &quot;pastas unificadas&quot;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
 shows that the current mode in the folder pane is not the Unified Folders mode.-->
