@@ -26,7 +26,7 @@
 <!ENTITY deleteByAgeFromServer.label "모든">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "일">
-<!ENTITY deleteOnServer2.label "메세지를 삭제할 때">
+<!ENTITY deleteOnServer2.label "메시지를 삭제할 때">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "새 메시지를 자동으로 받아오기">
 <!ENTITY downloadOnBiff.accesskey "m">
