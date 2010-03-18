@@ -38,8 +38,8 @@
 
 <!ENTITY title.label "Personalizar codificación de caracteres">
 <!ENTITY current.label "Codificaciones de caracter activas:">
-<!ENTITY remove.label "Remover">
-<!ENTITY remove.accessKey "R">
+<!ENTITY remove.label "Eliminar">
+<!ENTITY remove.accessKey "r">
 <!ENTITY additional.label "Codificaciones de caracter disponibles:">
 <!ENTITY add.label "Agregar">
 <!ENTITY add.accessKey "A">
