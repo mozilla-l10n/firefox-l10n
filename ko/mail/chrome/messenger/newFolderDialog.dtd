@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label   "새 폴더 허용:">
 <!ENTITY foldersOnly.label          "폴더만">
 <!ENTITY messagesOnly.label         "메시지만">
+<!ENTITY accept.label               "폴더 생성">
+<!ENTITY accept.accesskey           "r">
