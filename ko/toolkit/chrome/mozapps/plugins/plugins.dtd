@@ -16,3 +16,22 @@
 <!ENTITY missingPlugin.label "플러그인을 다운로드 하려면 여기를 선택하십시오.">
 <!ENTITY disabledPlugin.label "현재 컨텐츠에 대해 플러그인을 이용 할 수 없습니다. 플러그인 관리를 위해 여기를 누르세요.">
 <!ENTITY blockedPlugin.label  "현재 플러그인 사용은 설정에 따라 차단되었습니다.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre "재시도를 위하여 ">
+<!ENTITY reloadPlugin.middle "페이지 새로 고침">
+<!ENTITY reloadPlugin.post "">
+<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
+<!ENTITY submittedCrashReport.pre                            "">
+<!ENTITY submittedCrashReport.middle                         "충돌 보고서를">
+<!ENTITY submittedCrashReport.post                           " 제출 했습니다.">
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
+<!ENTITY notSubmittedCrashReport.pre                         "">
+<!ENTITY notSubmittedCrashReport.middle                      "장애 리포트 제출을">
+<!ENTITY notSubmittedCrashReport.post                        " 비활성화 했습니다.">
+
