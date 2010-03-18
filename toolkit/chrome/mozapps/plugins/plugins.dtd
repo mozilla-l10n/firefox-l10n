@@ -1,43 +1,38 @@
-<!ENTITY pluginWizard.title "Serviço de pesquisa de Plugin">
-<!ENTITY pluginWizard.firstPage.title "Bem-vindo ao &pluginWizard.title;">
+<!ENTITY pluginWizard.title                                  "Serviço de pesquisa de Plugin">
+<!ENTITY pluginWizard.firstPage.title                        "Bem-vindo ao &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "O &brandShortName; está a procurar por plugins disponíveis...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "O &brandShortName; está a procurar por plugins disponíveis...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Transferência de plugin">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Transferência de plugin">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Estão disponíveis os seguintes plugins:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Pressione Seguinte para instalar estes plugins.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Alguns plugins poderão precisar da sua intervenção durante a instalação.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Alguns plugins poderão precisar da sua intervenção durante a instalação.">
 
-<!ENTITY pluginWizard.licensePage.title "Licenças do plugin">
-<!ENTITY pluginWizard.licensePage.accept.label "Concordo.">
-<!ENTITY pluginWizard.licensePage.deny.label "Não concordo (o plugin não será instalado).">
+<!ENTITY pluginWizard.licensePage.title                      "Licenças do plugin">
+<!ENTITY pluginWizard.licensePage.accept.label               "Concordo.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Não concordo (o plugin não será instalado).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "A instalar os plugins">
-<!ENTITY pluginWizard.installPluginsPage.description.label "O &brandShortName; está a instalar os plugins...">
+<!ENTITY pluginWizard.installPluginsPage.title               "A instalar os plugins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "O &brandShortName; está a instalar os plugins...">
 
-<!ENTITY pluginWizard.finalPage.description.label "O &brandShortName; terminou de instalar os plugins em falta:">
+<!ENTITY pluginWizard.finalPage.description.label             "O &brandShortName; terminou de instalar os plugins em falta:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Procure saber mais sobre os plugins ou encontre manualmente os plugins em falta.">
-<!ENTITY pluginWizard.finalPage.restart.label "O &brandShortName; necessita de ser reiniciado para que o(s) plugin(s) funcione(m).">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Procure saber mais sobre os plugins ou encontre manualmente os plugins em falta.">
+<!ENTITY pluginWizard.finalPage.restart.label                "O &brandShortName; necessita de ser reiniciado para que o(s) plugin(s) funcione(m).">
   
-<!ENTITY missingPlugin.label "Clique aqui para transferir o plugin.">
-<!ENTITY disabledPlugin.label "O plugin para este conteúdo foi desactivado. Clique aqui para gerir os seus plugins.">
-<!ENTITY blockedPlugin.label "Este plugin foi bloqueado para sua protecção.">
+<!ENTITY missingPlugin.label                                 "Clique aqui para transferir o plugin.">
+<!ENTITY disabledPlugin.label                                "O plugin para este conteúdo foi desactivado. Clique aqui para gerir os seus plugins.">
+<!ENTITY blockedPlugin.label                                 "Este plugin foi bloqueado para sua protecção.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recarregue a página">
 <!ENTITY reloadPlugin.post                                   " para tentar de novo.">
-<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
-<!ENTITY submittedCrashReport.pre                            "Foi enviado ">
-<!ENTITY submittedCrashReport.middle                         "um relatório">
-<!ENTITY submittedCrashReport.post                           " de erro.">
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
-<!ENTITY notSubmittedCrashReport.pre                         "Desactivou a ">
-<!ENTITY notSubmittedCrashReport.middle                      "o envio de">
-<!ENTITY notSubmittedCrashReport.post                        " relatórios de erro.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Enviar relatório de erro">
+<!ENTITY report.submitting                                   "A enviar relatório…">
+<!ENTITY report.submitted                                    "Relatório de erro enviado.">
+<!ENTITY report.disabled                                     "Relatório de erro desactivado.">
+<!ENTITY report.failed                                       "O envio falhou.">
+<!ENTITY report.unavailable                                  "Nenhum relatório disponível.">
