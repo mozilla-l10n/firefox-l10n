@@ -8,8 +8,8 @@
 <!ENTITY button.addFeed.accesskey   "A">
 <!ENTITY button.editFeed.label      "Editar">
 <!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Remover">
-<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.removeFeed.label "Eliminar">
+<!ENTITY button.removeFeed.accesskey   "r">
 <!ENTITY button.importOPML.label "Importar">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Exportar">

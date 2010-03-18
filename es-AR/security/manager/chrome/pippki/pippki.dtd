@@ -45,9 +45,9 @@
 <!ENTITY setPassword.meter.loading "Cargando">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Remover">
-<!ENTITY resetPassword.title  "Remover contraseña maestra">
-<!ENTITY resetPassword.text  "Si remueve su contraseña maestra, todas sus contraseñas de webs y correo electrónico, datos de formularios, certificados personales y claves privadas se olvidarán. ¿Está seguro de remover su contraseña maestra?">
+<!ENTITY resetPasswordButtonLabel "Eliminar">
+<!ENTITY resetPassword.title  "Eliminar contraseña maestra">
+<!ENTITY resetPassword.text  "Si elimina su contraseña maestra, todas sus contraseñas de webs y correo electrónico, datos de formularios, certificados personales y claves privadas se olvidarán. ¿Está seguro de eliminar su contraseña maestra?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Ingrese contraseña maestra">
