@@ -617,8 +617,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY folderView.label "폴더">
 <!ENTITY folderView.accesskey "F">
 <!ENTITY allFolders.label "모든 폴더">
-<!ENTITY smartFolders.label "스마트">
-<!ENTITY smartFolders.accesskey "S">
+<!ENTITY unifiedFolders.label "통합">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "읽지 않은 폴더">
 <!ENTITY unreadFolders.accesskey "U">
