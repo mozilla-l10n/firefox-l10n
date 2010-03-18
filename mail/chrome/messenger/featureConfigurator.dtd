@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "usar nova barra de ferramentas">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Modo de pastas inteligentes">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Modo de pastas unificadas">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
 shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "A usar o modo &quot;pastas inteligentes&quot;.">
+<!ENTITY featureConfigurator.smartFolders.smart.status "A usar o modo &quot;pastas unificadas&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "A não usar o modo &quot;pastas inteligentes&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "A não usar o modo &quot;pastas unificadas&quot;.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Para utilizadores com diversas contas, esta vista agrupa pastas para que possa visualizar todo o seu correio.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Se deseja separar a informação pelas contas, então vai preferir o modo the &quot;Todas as pastas&quot;.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Para utilizadores com diversas contas, esta vista agrupa pastas para que possa visualizar todo o seu correio.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Se deseja separar a informação pelas contas, então vai preferir o modo the &quot;Todas as pastas&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "usar modo &quot;pastas inteligentes&quot;">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "usar modo &quot;pastas unificadas&quot;">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make

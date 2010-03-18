@@ -132,8 +132,8 @@
 
 <!ENTITY folderView.label "Pastas">
 <!ENTITY folderView.accesskey "A">
-<!ENTITY smartFolders.label "Inteligentes">
-<!ENTITY smartFolders.accesskey "I">
+<!ENTITY unifiedFolders.label "Unificado">
+<!ENTITY unifiedFolders.accesskey "i">
 <!ENTITY allFolders.label "Todas">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Não Lidas">
