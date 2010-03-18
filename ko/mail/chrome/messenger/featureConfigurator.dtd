@@ -85,8 +85,8 @@ shows that the current mode in the folder pane is the Unified Folders mode.-->
 shows that the current mode in the folder pane is not the Unified Folders mode.-->
 <!ENTITY featureConfigurator.unifiedFolders.all.status "&quot;통합 폴더&quot; 모드를 사용하지 않습니다.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "다수의 계정을 사용하는 사용자를 위하여, 받은 편지함과 같은 폴더들을 그룹으로 묶어서 같이 보여 주므로, 모든 메일을 통합해서 볼 수 있습니다.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "계정 별로 정보를 분리해서 보고 싶다면, &quot;모든 폴더&quot; 모드를 선택 하십시오.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "다수의 계정을 사용하는 사용자를 위하여, 받은 편지함과 같은 폴더들을 그룹으로 묶어서 같이 보여 주므로, 모든 메일을 통합해서 볼 수 있습니다.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "계정 별로 정보를 분리해서 보고 싶다면, &quot;모든 폴더&quot; 모드를 선택 하십시오.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
