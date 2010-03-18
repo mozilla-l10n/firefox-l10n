@@ -124,8 +124,8 @@
 <!ENTITY showMessageCmd.accesskey "О">
 <!ENTITY folderView.label "Папки">
 <!ENTITY folderView.accesskey "П">
-<!ENTITY smartFolders.label "Умные">
-<!ENTITY smartFolders.accesskey "м">
+<!ENTITY unifiedFolders.label "Объединённые">
+<!ENTITY unifiedFolders.accesskey "б">
 <!ENTITY allFolders.label "Все">
 <!ENTITY allFolders.accesskey "В">
 <!ENTITY unreadFolders.label "Непрочитанные">
