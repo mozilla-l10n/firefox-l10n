@@ -63,8 +63,8 @@
 <!ENTITY spellCheck.accesskey "S">
 <!ENTITY spellCheckInline.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
 <!ENTITY spellCheckInline.accesskey "e">
-<!ENTITY languagePopup.label "Język:">
-<!ENTITY languagePopup.accessKey "J">
+<!ENTITY languagePopup.label "Słownik:">
+<!ENTITY languagePopup.accessKey "S">
 <!ENTITY moreDictionaries.label "Pobierz więcej słowników…">
 
 <!ENTITY defaultMessagesHeader.label "Domyślne ustawienia wiadomości HTML">
