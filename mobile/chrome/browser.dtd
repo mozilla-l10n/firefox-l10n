@@ -36,7 +36,6 @@
 
 <!ENTITY addonsHeader.label        "Complements">
 <!ENTITY addonsLocal.label         "Els vostres complements">
-<!ENTITY addonsUpdate.label        "Actualitza">
 <!ENTITY addonsRepo.label          "Aconsegueix complements">
 <!ENTITY addonsRecommended.label   "Vegeu els recomanats">
 <!ENTITY addonsSearch.label        "Cerca">
