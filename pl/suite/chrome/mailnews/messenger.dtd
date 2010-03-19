@@ -317,7 +317,7 @@
 <!ENTITY goBackCmd.label "Wstecz">
 <!ENTITY goBackCmd.accesskey "W">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.label "Do przodu">
+<!ENTITY goForwardCmd.label "Dalej">
 <!ENTITY goForwardCmd.accesskey "D">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Oznaczona wiadomość">
@@ -503,7 +503,7 @@
 <!ENTITY fileButton.tooltip "Przenieś zaznaczoną wiadomość">
 <!ENTITY nextButton.tooltip "Przejdź do następnej nieprzeczytanej wiadomości">
 <!ENTITY goBackButton.tooltip "Przejdź o jedną wiadomość wstecz">
-<!ENTITY goForwardButton.tooltip "Przejdź o jedną wiadomość do przodu">
+<!ENTITY goForwardButton.tooltip "Przejdź o jedną wiadomość dalej">
 <!ENTITY deleteButton.tooltip "Usuń wybraną wiadomość albo folder">
 <!ENTITY undeleteButton.tooltip "Przywróć usuniętą wiadomość">
 <!ENTITY markButton.tooltip "Oznacz wiadomości">

@@ -17,7 +17,7 @@
 <!ENTITY showOnlyThisFrameCmd.accesskey "r">
 <!ENTITY goBackCmd.label "Wstecz">
 <!ENTITY goBackCmd.accesskey "W">
-<!ENTITY goForwardCmd.label "Do przodu">
+<!ENTITY goForwardCmd.label "Dalej">
 <!ENTITY goForwardCmd.accesskey "p">
 <!ENTITY goUpCmd.label "W górę">
 <!ENTITY goUpCmd.accesskey "g">
