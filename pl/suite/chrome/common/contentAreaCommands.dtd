@@ -120,13 +120,13 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Przełącz kierunek tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
 <!ENTITY spellAddToDictionary.label "Dodaj do słownika">
-<!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellAddToDictionary.accesskey "D">
 <!ENTITY spellIgnoreWord.label "Ignoruj słowo">
 <!ENTITY spellIgnoreWord.accesskey "w">
 <!ENTITY spellCheckEnable.label "Sprawdź pisownię">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckEnable.accesskey "p">
 <!ENTITY spellNoSuggestions.label "(Brak sugestii pisowni)">
-<!ENTITY spellDictionaries.label "Języki">
-<!ENTITY spellDictionaries.accesskey "J">
+<!ENTITY spellDictionaries.label "Słowniki">
+<!ENTITY spellDictionaries.accesskey "S">
 <!ENTITY spellAddDictionaries.label "Pobierz więcej słowników…">
 <!ENTITY spellAddDictionaries.accesskey "P">
