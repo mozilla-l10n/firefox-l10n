@@ -29,7 +29,6 @@
 <!ENTITY formHelper.done "Terminado">
 <!ENTITY addonsHeader.label "Complementos">
 <!ENTITY addonsLocal.label "Sus complementos">
-<!ENTITY addonsUpdate.label "Actualizar">
 <!ENTITY addonsRepo.label "Conseguir complementos">
 <!ENTITY addonsRecommended.label "Recomendado">
 <!ENTITY addonsSearch.label "Buscar">
