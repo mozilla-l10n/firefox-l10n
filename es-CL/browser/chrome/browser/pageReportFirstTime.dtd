@@ -1,4 +1,4 @@
-<!ENTITY startDescription.label            "Un sitio web ha querido abrir una ventana emergente sin su permiso, que ha sido cerrada automáticamente por &brandShortName. Cada vez que &brandShortName; bloquee una de estas ventanas emergentes, se mostrará un icono en la barra de estado.">
+<!ENTITY startDescription.label            "Un sitio web ha querido abrir una ventana emergente sin su permiso, que ha sido cerrada automáticamente por &brandShortName;. Cada vez que &brandShortName; bloquee una de estas ventanas emergentes, se mostrará un icono en la barra de estado.">
 
 <!ENTITY endDescription.label              "Puede hacer click en este icono para ver que sitios están bloqueados por &brandShortName; y permitir que estos sitios abran ventanas emergentes en caso de ser necesarias para que funcione correctamente.">
 
