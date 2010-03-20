@@ -1,11 +1,11 @@
 ﻿<!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Configurações de Segurança">
-<!ENTITY serverSettings.label "Configurações do Servidor">
-<!ENTITY serverType.label "Tipo Servidor:">
-<!ENTITY serverName.label "Nome do Servidor:">
+<!ENTITY securitySettings.label "Configurações de segurança">
+<!ENTITY serverSettings.label "Configurações do servidor">
+<!ENTITY serverType.label "Tipo servidor:">
+<!ENTITY serverName.label "Nome do servidor:">
 <!ENTITY serverName.accesskey "S">
-<!ENTITY userName.label "Nome de Utilizador:">
+<!ENTITY userName.label "Nome de utilizador:">
 <!ENTITY userName.accesskey "e">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
@@ -24,20 +24,20 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Usar autenticação segura">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "Método de autenticação">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Deixar mensagens no servidor">
-<!ENTITY leaveOnServer.accesskey "g">
-<!ENTITY headersOnly.label "Apenas Cabeçalhos Fetch">
-<!ENTITY headersOnly.accesskey "F">
+<!ENTITY leaveOnServer.accesskey "v">
+<!ENTITY headersOnly.label "Apenas cabeçalhos fetch">
+<!ENTITY headersOnly.accesskey "h">
 <!ENTITY deleteByAgeFromServer.label "Pelo menos">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dias">
 <!ENTITY deleteOnServer2.label "Até eu apagá-los">
-<!ENTITY deleteOnServer2.accesskey "l">
+<!ENTITY deleteOnServer2.accesskey "g">
 <!ENTITY downloadOnBiff.label "Transferir automaticamente novas mensagens">
-<!ENTITY downloadOnBiff.accesskey "v">
-<!ENTITY username.label "O seu nome de início de sessão">
+<!ENTITY downloadOnBiff.accesskey "r">
+<!ENTITY username.label "O seu nome de entrada">
 <!ENTITY deleteMessagePrefix.label "Quando eu apagar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -48,31 +48,31 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar a (&quot;Expunge&quot;) Caixa de Entrada ao Sair">
 <!ENTITY expungeOnExit.accesskey "E">
-<!ENTITY emptyTrashOnExit.label "Esvaziar Lixo ao Sair">
+<!ENTITY emptyTrashOnExit.label "Esvaziar lixo ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Verificar por novas mensagens ao Arranque"> 
-<!ENTITY loginAtStartup.accesskey "q">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!ENTITY loginAtStartup.label "Verificar por novas mensagens no arranque">
+<!ENTITY loginAtStartup.accesskey "Q">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Perguntar-me antes de transferir mais do que">
-<!ENTITY maxMessagesStart.accesskey "P">
+<!ENTITY maxMessagesStart.accesskey "p">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
 <!ENTITY alwaysAuthenticate.label "Pedir sempre autenticação ao ligar a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "ç">
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
-<!ENTITY localPath.label "Pasta Local:">
-<!ENTITY abbreviate.label "Mostrar nomes do newsgroup na pasta de correio pane como:">
-<!ENTITY abbreviateOn.label "Nomes Completos (Por exemplo, 'netscape.public.mozilla.mail-news')">
+<!ENTITY localPath.label "Pasta local:">
+<!ENTITY abbreviate.label "Mostrar nomes do grupo de discussão no painel da pasta de correio como:">
+<!ENTITY abbreviateOn.label "Nomes completos (Por exemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abrevie nomes (Por exemplo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avançadas...">
-<!ENTITY serverDefaultCharset.label "Codificação Pré-definida:">
+<!ENTITY serverDefaultCharset.label "Codificação pré-definida:">
 <!ENTITY advancedButton.accesskey "ç">
-<!ENTITY localFolderPicker.label "Seleccionar Pasta Local">
+<!ENTITY localFolderPicker.label "Seleccionar pasta local">
 <!ENTITY browseFolder.label "Explorar...">
 <!ENTITY browseFolder.accesskey "l">
-<!ENTITY newsrcPicker.label "Seleccionar Ficheiro newsrc">
+<!ENTITY newsrcPicker.label "Seleccionar ficheiro newsrc">
 <!ENTITY browseNewsrc.label "Explorar...">
 <!ENTITY browseNewsrc.accesskey "E">
