@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "brûk nije arkbalke">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Tûke mappen moadus">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Sammele mappen-moadus">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Gebrûk fan de &quot;tûke mappen&quot; moadus.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Gebrûk fan de &quot;sammele mappen&quot; moadus.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Sûnder gebrûk fan de &quot;tûke mappen&quot; moadus.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Sûnder gebrûk fan de &quot;sammele mappen&quot; moadus.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Foar brûkers mei ferskate accounts, dit byld groepearret mappen as Postfek Yn tegaar, dus jo krije in gearfetten byld mei al jo e-mail.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "As jo leaver ynformaasje skieden hawwe oer accounts dan wolle jo leaver de &quot;Alle mappen&quot; moadus.">
+<!ENTITY featureConfigurator.unifiedFolders.para "Foar brûkers mei ferskate accounts, dit byld groepearret mappen as Postfek Yn tegaar, dus jo krije in gearfetten byld mei al jo e-mail.">
+<!ENTITY featureConfigurator.unifiedFolders.para "As jo leaver ynformaasje skieden hawwe oer accounts dan wolle jo leaver de &quot;Alle mappen&quot; moadus.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "brûk &quot;tûke mappen&quot; moadus">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "brûk &quot;sammele mappen&quot; moadus">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make

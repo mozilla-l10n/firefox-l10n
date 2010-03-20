@@ -4,11 +4,11 @@
 <!ENTITY smtpServer.label "Utgeande tsjinner (SMTP-)ynstellings">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Hoewol jo mear as ien útgeande tsjinner (SMTP) opjaan kinne, wurdt dit allinnich oanret foar betûfte brûkers. It ynstellen fan mear SMTP-tsjinners kin flaters feroarsaakje by it ferstjoeren fan berjochten.">
+<!ENTITY smtpDesc.label "Hoewol't jo mear as ien útgeande tsjinner (SMTP) opjaan kinne, wurdt dit allinnich oanret foar betûfte brûkers. It ynstellen fan mear SMTP-tsjinners kin flaters feroarsaakje by it ferstjoeren fan berjochten.">
 
-<!ENTITY smtpListAdd.label "Tafoegje...">
+<!ENTITY smtpListAdd.label "Tafoegje…">
 <!ENTITY smtpListAdd.accesskey "T">
-<!ENTITY smtpListEdit.label "Bewurkje...">
+<!ENTITY smtpListEdit.label "Bewurkje…">
 <!ENTITY smtpListEdit.accesskey "B">
 <!ENTITY smtpListDelete.label "Fuortsmite">
 <!ENTITY smtpListDelete.accesskey "F">
@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "Poarte: ">
 <!ENTITY userName.label "Brûkersnamme: ">
 <!ENTITY connectionSecurity.label "Ferbiningsfeilichheid: ">
-<!ENTITY useSecureAuthentication.label   "Befeilge ferifikaasje: ">
+<!ENTITY authMethod.label   "Autentikaasjemetoade: ">

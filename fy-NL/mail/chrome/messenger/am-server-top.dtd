@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, as beskikber">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Befeilige autentikaasje brûke">
-<!ENTITY useSecAuth.accesskey "a">
+<!ENTITY authMethod.label "Autentikaasjemetoade:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Berjochten op de tsjinner stean litte">
 <!ENTITY leaveOnServer.accesskey "h">
 <!ENTITY headersOnly.label "Allinnich berjochtkoppen ophelje">

@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "Tastean dat de nije map befettet:">
 <!ENTITY foldersOnly.label          "Allinnich mappen">
 <!ENTITY messagesOnly.label         "Allinnich berjochten">
+<!ENTITY accept.label               "Map meitsje">
+<!ENTITY accept.accesskey           "a">
