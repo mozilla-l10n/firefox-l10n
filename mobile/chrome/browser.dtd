@@ -35,10 +35,9 @@
 <!ENTITY formHelper.done           "Dien">
 
 <!ENTITY addonsHeader.label        "Tafoegings">
-<!ENTITY addonsLocal.label         "Jo Tafoegings">
-<!ENTITY addonsUpdate.label        "Fernij">
-<!ENTITY addonsRepo.label          "Krij Tafoegings">
-<!ENTITY addonsRecommended.label   "Sjoch oanrêt">
+<!ENTITY addonsLocal.label         "Jo tafoegings">
+<!ENTITY addonsRepo.label          "Krij tafoegings">
+<!ENTITY addonsRecommended.label   "Sjoch oanrikkemandearre">
 <!ENTITY addonsSearch.label        "Sykje katalogus">
 <!ENTITY addonsSearch2.emptytext   "Sykje yn katalogus">
 <!ENTITY addonsSearch.recommended  "Oanrikkemandearre">
