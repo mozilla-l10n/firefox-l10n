@@ -25,6 +25,9 @@
 <!ENTITY alwaysCheckDefault.accesskey      "v">
 <!ENTITY checkNow.label                    "Kontrolli nüüd">
 <!ENTITY checkNow.accesskey                "K">
+<!ENTITY submitCrashes.label               "Saada vearaportid">
+<!ENTITY submitCrashes.accesskey           "S">
+
 
 <!ENTITY networkTab.label                  "Võrk">
 
