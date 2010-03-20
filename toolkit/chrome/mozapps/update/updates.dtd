@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title              "Tarkvara uuendamine">
 
-<!ENTITY window.width                    "36em">
-<!ENTITY window.macWidth                 "40em">
-
 <!ENTITY checking.title                  "Uuenduste kontrollimine">
 <!ENTITY updateCheck.label               "Uuritakse, kas leidub uut versiooni &brandShortName;ist...">
 
@@ -42,7 +39,7 @@
 
 <!ENTITY  incompatibleList.title         "Leiti lisasid, mis ei ühildu">
 
-<!ENTITY downloading.title               "Uuenduse allalaadimine">
+<!ENTITY downloadPage.title              "&brandShortName;i allalaadimine">
 <!ENTITY downloading.intro               "Uuenduse allalaadimine...">
 <!ENTITY connecting.label                "Ühendumine uuenduste serveriga...">
 <!ENTITY verificationFailedText.label    "&brandShortName; ei suutnud tuvastada allalaaditud paiga  terviklikkust, 

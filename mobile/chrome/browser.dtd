@@ -36,7 +36,6 @@
 
 <!ENTITY addonsHeader.label        "Lisad">
 <!ENTITY addonsLocal.label         "Paigaldatud lisad">
-<!ENTITY addonsUpdate.label        "Uuenda">
 <!ENTITY addonsRepo.label          "Hangi laiendusi">
 <!ENTITY addonsRecommended.label   "Soovitatud">
 <!ENTITY addonsSearch.label        "Otsi">

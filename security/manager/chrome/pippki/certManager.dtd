@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins                 "Sissehitatud SK-d">
 <!ENTITY certmgr.ca.mycas                    "Sinu hallatavad SK-d">
 
-<!ENTITY certmgr.mine                        "Sul on sind identifitseerivaid sertifikaate järgnevatelt asutustelt:">
-<!ENTITY certmgr.others                      "Sul on järgnevaid inimesi identifitseerivad sertifikaadid:">
-<!ENTITY certmgr.websites2                   "Sul on järgnevaid servereid identifitseerivad sertifikaadid:">
-<!ENTITY certmgr.cas                         "Sul on järgnevaid sertifitseerimiskeskusi identifitseerivad sertifikaadid:">
-<!ENTITY certmgr.orphans                     "Sul on järgnevad sertifikaadid, mis ei sobitu teistesse kategooriatesse:">
+<!ENTITY certmgr.mine.search                 "Otsi:">
+<!ENTITY certmgr.others.search               "Otsi:">
+<!ENTITY certmgr.websites.search             "Otsi:">
+<!ENTITY certmgr.cas.search                  "Otsi:">
+<!ENTITY certmgr.orphans.search              "Otsi:">
+
+<!ENTITY certmgr.mine.description            "Sul on sind identifitseerivaid sertifikaate järgnevatelt asutustelt:">
+<!ENTITY certmgr.others.description          "Sul on sertifikaate failis, mis identifitseerib järgnevaid inimesi:">
+<!ENTITY certmgr.websites.description        "Sul on sertifikaate failis, mis identifitseerib järgnevaid servereid:">
+<!ENTITY certmgr.cas.description             "Sul on sertifikaate failis, mis identifitseerib järgnevaid sertifitseerimiskeskusi:">
+<!ENTITY certmgr.orphans.description         "Sul on sertifikaate failis, mis ei sobitu teistesse kategooriatesse:">
+
+<!ENTITY certmgr.mine.filtered               "Sobivad sertifikaadid sind identifitseerivatelt asutustelt:">
+<!ENTITY certmgr.others.filtered             "Sobivad sertifikaadid failist, mis identifitseerib järgnevaid inimesi:">
+<!ENTITY certmgr.websites.filtered           "Sobivad sertifikaadid failist, mis identifitseerib järgnevaid servereid:">
+<!ENTITY certmgr.cas.filtered                "Sobivad sertifikaadid failist, mis identifitseerib järgnevaid sertifitseerimiskeskusi:">
+<!ENTITY certmgr.orphans.filtered            "Sobivad sertifikaadid failist, mis ei kuulu teistesse kategooriatesse:">
 
 <!ENTITY certmgr.detail.general_tab.title    "Üldine">
 <!ENTITY certmgr.detail.general_tab.accesskey "l">

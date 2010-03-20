@@ -1,8 +1,0 @@
-
-<!ENTITY incompatible.title "Ühildumatud lisad">
-<!ENTITY incompatible.intro "Järgnevad lisad ei ole ühilduvad selle &brandShortName;i uuendusega ning pärast paigaldamist need keelatakse:">
-<!ENTITY incompatible.update "&brandShortName; kontrollib perioodiliselt uuendusi, juhuks kui ilmub ühilduv versioon.">
-<!ENTITY incompatible.suffix "&brandShortName;i uuendused sisaldavad tähtsaid turvalisuse arendusi. Sinu kaitseks on soovitatav &brandShortName;i uuendada, isegi kui mõned sinu laiendused või teemad muutuvad ühildumatuks.">
-                                     
-<!ENTITY closebutton.label "Sulge">
-
