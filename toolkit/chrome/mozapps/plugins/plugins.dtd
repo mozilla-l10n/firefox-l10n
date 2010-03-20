@@ -17,7 +17,7 @@
 
 <!ENTITY pluginWizard.finalPage.description.label 			 "&brandShortName; hat de ynstallaasje fan de missende ynstekkers beëinige:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label 				 "Lês mear oer ynstekkers of syk hânmjittich de missende ynstekkers.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label 				 "Lês mear oer ynstekkers of sykje hânmjittich de missende ynstekkers.">
 <!ENTITY pluginWizard.finalPage.restart.label				 "&brandShortName; moat op 'e nij starten wurde om de ynstekker(s) wurkje te litten.">
 
 <!ENTITY missingPlugin.label                                 "Klik hjir om de ynstekker yn te laden.">
@@ -29,15 +29,10 @@
 <!ENTITY reloadPlugin.pre                                    "Laad de ">
 <!ENTITY reloadPlugin.middle                                 "side op 'e nij">
 <!ENTITY reloadPlugin.post                                   " om it nochris te probearjen.">
-<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
-<!ENTITY submittedCrashReport.pre                            "In ">
-<!ENTITY submittedCrashReport.middle                         "ûngelokrapport">
-<!ENTITY submittedCrashReport.post                           " is ferstjoerd.">
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
-<!ENTITY notSubmittedCrashReport.pre                         "Jo hawwe ">
-<!ENTITY notSubmittedCrashReport.middle                      "ûngelokrapport">
-<!ENTITY notSubmittedCrashReport.post                        " ferstjoere útskeakele.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Stjoer ûngelokrapport">
+<!ENTITY report.submitting                                   "Rapport ferstjoere…">
+<!ENTITY report.submitted                                    "Ungelokrapport ferstjoerd.">
+<!ENTITY report.disabled                                     "Ungelokrapportearring útskeakele.">
+<!ENTITY report.failed                                       "Ynstjoeren mislearre.">
+<!ENTITY report.unavailable                                  "Gjin rapport beskikber.">
