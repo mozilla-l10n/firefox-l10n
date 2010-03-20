@@ -132,8 +132,8 @@
 
 <!ENTITY folderView.label "Mappen">
 <!ENTITY folderView.accesskey "M">
-<!ENTITY smartFolders.label "Tûk">
-<!ENTITY smartFolders.accesskey "T">
+<!ENTITY unifiedFolders.label "Sammele">
+<!ENTITY unifiedFolders.accesskey "S">
 <!ENTITY allFolders.label "Alles">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Net lêzen">
