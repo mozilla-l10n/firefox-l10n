@@ -165,6 +165,9 @@ Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje
 <p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Foech Utsûndering ta">

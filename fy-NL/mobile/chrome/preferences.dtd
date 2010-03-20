@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title					"Wachtwurden bewarje">
 <!ENTITY language.title                            	"Taal">
 <!ENTITY language.auto                             	"Auto-detektearje">
+<!ENTITY defaultBrowser.title                     	"Standert browser">
+<!ENTITY defaultBrowser.description             	"Meitsje &brandShortName; jo standert browser">
