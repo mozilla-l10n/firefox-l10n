@@ -85,8 +85,8 @@ shows that the current mode in the folder pane is the Unified Folders mode.-->
 shows that the current mode in the folder pane is not the Unified Folders mode.-->
 <!ENTITY featureConfigurator.unifiedFolders.all.status "Sûnder gebrûk fan de &quot;sammele mappen&quot; moadus.">
 
-<!ENTITY featureConfigurator.unifiedFolders.para "Foar brûkers mei ferskate accounts, dit byld groepearret mappen as Postfek Yn tegaar, dus jo krije in gearfetten byld mei al jo e-mail.">
-<!ENTITY featureConfigurator.unifiedFolders.para "As jo leaver ynformaasje skieden hawwe oer accounts dan wolle jo leaver de &quot;Alle mappen&quot; moadus.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Foar brûkers mei ferskate accounts, dit byld groepearret mappen as Postfek Yn tegaar, dus jo krije in gearfetten byld mei al jo e-mail.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "As jo leaver ynformaasje skieden hawwe oer accounts dan wolle jo leaver de &quot;Alle mappen&quot; moadus.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
