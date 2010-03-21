@@ -17,8 +17,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, если доступно">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Использовать защищённую аутентификацию">
-<!ENTITY useSecAuth.accesskey "с">
+<!ENTITY authMethod.label "Метод аутентификации:">
+<!ENTITY authMethod.accesskey "е">
 <!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
 <!ENTITY leaveOnServer.accesskey "т">
 <!ENTITY headersOnly.label "Загружать только заголовки сообщений">
