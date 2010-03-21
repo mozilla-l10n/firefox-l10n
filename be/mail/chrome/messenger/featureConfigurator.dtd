@@ -21,12 +21,12 @@
 <!ENTITY featureConfigurator.toolbarAlternative.para "Калі даўняя прыладапаліца вам падабаецца больш, вы не хочаце пераўладкоўваць яе або не хочаце выкарыстоўваць шыбу лістоў у вашай раскладцы. ">
 <!ENTITY featureConfigurator.useOriginalToolbar.button "ужываць даўнюю прыладапаліцу">
 <!ENTITY featureConfigurator.useNewToolbar.button "ужываць новую прыладапаліцу">
-<!ENTITY featureConfigurator.smartFolders.heading "Рэжым зграбных папак">
-<!ENTITY featureConfigurator.smartFolders.smart.status "Ужываць рэжым &quot;зграбных папак&quot;.">
-<!ENTITY featureConfigurator.smartFolders.all.status "Не ўжываць рэжым &quot;зграбных папак&quot;.">
-<!ENTITY featureConfigurator.smartFolderBenefits.para 'Для карыстальнікаў, якія маюць некалькі рахункаў, гэтая праява купуе папкі (напрыклад: "Уваходныя") разам і вы маеце сукупную праяву вашай пошты.'>
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Калі вы хочаце бачыць рахункі асобна, тады выберыце рэжым &quot;Усе папкі&quot;.">
-<!ENTITY featureConfigurator.useSmartFolders.button "Ужываць рэжым &quot;зграбных папак&quot;.">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Рэжым аб'яднаных папак">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Ужываецца рэжым &quot;аб'яднаных папак&quot;.">
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Рэжым &quot;аб'яднаных папак&quot; не ўжываецца.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Калі карыстальнік мае некалькі рахункаў, гэтая праява купуе падобныя папкі ў адну, і вы можаце атрымаць агульнае бачанне ўсей вашай пошты.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Калі вы хочаце бачыць пошту асобна ў кожным рахунку, тады вам будзе больш даспадобы рэжым &quot;Усе папкі&quot;.">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "ужываць рэжым &quot;аб'яднаных папак&quot;">
 <!ENTITY featureConfigurator.useAllFolders.button "Ужываць рэжым &quot;усе папкі&quot;.">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Згорнутыя загалоўкі">
 <!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 мае палепшаную праяву падрабязнага загалоўка ліста, уключаючы кнопкі для датычных дзеянняў. Гэтае дадатковае размяшчэнне даступна як">

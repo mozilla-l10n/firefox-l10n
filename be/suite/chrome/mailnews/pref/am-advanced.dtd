@@ -13,4 +13,4 @@
 <!ENTITY serverPort.label "Порт:">
 <!ENTITY userName.label "Імя карыстальніка:">
 <!ENTITY connectionSecurity.label "Бяспека злучэння:">
-<!ENTITY useSecureAuthentication.label "Бяспечнае апазнаванне:">
+<!ENTITY authMethod.label "Метад апазнавання:">

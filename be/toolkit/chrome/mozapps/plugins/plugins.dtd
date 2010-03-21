@@ -19,9 +19,9 @@
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Абнавіць старонку">
 <!ENTITY reloadPlugin.post " , каб паспрабаваць зноў.">
-<!ENTITY submittedCrashReport.pre "A ">
-<!ENTITY submittedCrashReport.middle "Справаздача пра крах">
-<!ENTITY submittedCrashReport.post " пададзена.">
-<!ENTITY notSubmittedCrashReport.pre "Вы забаранілі">
-<!ENTITY notSubmittedCrashReport.middle " падачу">
-<!ENTITY notSubmittedCrashReport.post " справаздачаў пра крах.">
+<!ENTITY report.please "Даслаць справаздачу пра крах">
+<!ENTITY report.submitting "Дасыланне справаздачы…">
+<!ENTITY report.submitted "Справаздача пра крах дасланая.">
+<!ENTITY report.disabled "Падача справаздачаў пра крах забаронена.">
+<!ENTITY report.failed "Няшдача падачы.">
+<!ENTITY report.unavailable "Няма даступных справаздачаў.">
