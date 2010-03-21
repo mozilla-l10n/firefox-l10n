@@ -13,4 +13,4 @@
 <!ENTITY serverPort.label "Порт:">
 <!ENTITY userName.label "Имя пользователя:">
 <!ENTITY connectionSecurity.label "Защита соединения: ">
-<!ENTITY useSecureAuthentication.label "Защищённая аутентификация:">
+<!ENTITY authMethod.label "Метод аутентификации:">

@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "О">
 <!ENTITY serverPort.label "Порт:">
 <!ENTITY serverPort.accesskey "П">
-<!ENTITY alwaysUseUsername.label "Использовать имя и пароль">
-<!ENTITY alwaysUseUsername.accesskey "И">
 <!ENTITY userName.label "Имя пользователя:">
 <!ENTITY userName.accesskey "м">
-<!ENTITY useSecAuth.label "Использовать защищённую аутентификацию">
-<!ENTITY useSecAuth.accesskey "щ">
 <!ENTITY connectionSecurity.label "Защита соединения:">
 <!ENTITY connectionSecurity.accesskey "щ">
 <!ENTITY connectionSecurityType-0.label "Нет">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP сервер">
 <!ENTITY serverPortDefault.label "По умолчанию:">
+<!ENTITY authMethod.label "Метод аутентификации:">
+<!ENTITY authMethod.accesskey "е">
