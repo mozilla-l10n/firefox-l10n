@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "А">
 <!ENTITY serverPort.label "Порт:">
 <!ENTITY serverPort.accesskey "П">
-<!ENTITY alwaysUseUsername.label "Ужываць імя і пароль">
-<!ENTITY alwaysUseUsername.accesskey "У">
 <!ENTITY userName.label "Імя карыстальніка:">
 <!ENTITY userName.accesskey "К">
-<!ENTITY useSecAuth.label "Ужываць бяспечнае апазнаванне">
-<!ENTITY useSecAuth.accesskey "б">
 <!ENTITY connectionSecurity.label "Бяспека злучэння:">
 <!ENTITY connectionSecurity.accesskey "Б">
 <!ENTITY connectionSecurityType-0.label "Няма">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Паслугач SMTP">
 <!ENTITY serverPortDefault.label "Змоўчны:">
+<!ENTITY authMethod.label "Метад апазнавання:">
+<!ENTITY authMethod.accesskey "з">
