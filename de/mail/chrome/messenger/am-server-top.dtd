@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, wenn möglich">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Sichere Authentifizierung verwenden">
-<!ENTITY useSecAuth.accesskey "u">
+<!ENTITY authMethod.label "Authentifizierungsmethode:">
+<!ENTITY authMethod.accesskey "u">
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
 <!ENTITY leaveOnServer.accesskey "i">
 <!ENTITY headersOnly.label "Nur die Kopfzeilen herunterladen">
@@ -52,7 +52,7 @@
 <!ENTITY emptyTrashOnExit.accesskey "V">
 <!ENTITY loginAtStartup.label "Beim Starten auf neue Nachrichten prüfen">
 <!ENTITY loginAtStartup.accesskey "C">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
