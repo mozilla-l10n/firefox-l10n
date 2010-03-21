@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Utilitza el nom i la contrasenya">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "Nom d'usuari:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "Utilitza autenticació segura">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "Connexió segura:">
 <!ENTITY connectionSecurity.accesskey "C">
 <!ENTITY connectionSecurityType-0.label "Cap">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "TLS sobre SSL">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Per defecte:">
+<!ENTITY authMethod.label "Mètode d'autenticació:">
+<!ENTITY authMethod.accesskey "i">

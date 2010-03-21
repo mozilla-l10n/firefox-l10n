@@ -137,8 +137,8 @@
 
 <!ENTITY folderView.label "Carpetes">
 <!ENTITY folderView.accesskey "p">
-<!ENTITY smartFolders.label "Inteŀligent">
-<!ENTITY smartFolders.accesskey "I">
+<!ENTITY unifiedFolders.label "Unificades">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Totes">
 <!ENTITY allFolders.accesskey "o">
 <!ENTITY unreadFolders.label "Per llegir">

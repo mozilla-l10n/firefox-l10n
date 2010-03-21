@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, si està disponible">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "TLS sobre SSL">
-<!ENTITY useSecAuth.label "Utilitza l'autenticació segura">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "Mètode d'autenticació:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Deixa els missatges al servidor">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Recull només les capçaleres">
@@ -39,12 +39,12 @@
 <!ENTITY downloadOnBiff.accesskey "a">
 <!ENTITY username.label "El vostre nom d'entrada:">
 <!ENTITY deleteMessagePrefix.label "Quan suprimeixi un missatge:">
-<!ENTITY modelMoveToTrash.label "Mou-lo a la carpeta:">
+<!ENTITY modelMoveToTrash.label "Mou-lo a aquesta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marca'l com a suprimit">
-<!ENTITY modelMarkDeleted.accesskey "M">
+<!ENTITY modelMarkDeleted.accesskey "c">
 <!ENTITY modelDeleteImmediately.label "Suprimeix-lo immediatament">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "S">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d'entrada en sortir">
 <!ENTITY expungeOnExit.accesskey "E">
@@ -60,19 +60,19 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "missatges">
-<!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
+<!ENTITY alwaysAuthenticate.label "Soŀlicita sempre autenticació en connectar amb aquest servidor">
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Fitxer newsrc:">
 <!ENTITY localPath.label "Directori local:">
 <!ENTITY abbreviate.label "Mostra els noms dels grups de discussió a la subfinestra de la carpeta de la Missatgeria com a:">
 <!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
-<!ENTITY advancedButton.label "Avançat...">
+<!ENTITY advancedButton.label "Avançat…">
 <!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
-<!ENTITY browseFolder.label "Navega...">
+<!ENTITY browseFolder.label "Navega…">
 <!ENTITY browseFolder.accesskey "N">
 <!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
-<!ENTITY browseNewsrc.label "Navega...">
+<!ENTITY browseNewsrc.label "Navega…">
 <!ENTITY browseNewsrc.accesskey "e">
