@@ -9,12 +9,12 @@
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Eliminar">
 <!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "Configurar predeterminado">
+<!ENTITY smtpListSetDefault.label "Predeterminado">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
 <!ENTITY serverDescription.label "Descripción: ">
-<!ENTITY serverName.label "Nombre del servidor: ">
+<!ENTITY serverName.label "Servidor: ">
 <!ENTITY serverPort.label "Puerto: ">
-<!ENTITY userName.label   "Nombre de usuario: ">
-<!ENTITY connectionSecurity.label "Conexión segura: ">
-<!ENTITY useSecureAuthentication.label   "Autenticación segura: ">
+<!ENTITY userName.label   "Usuario: ">
+<!ENTITY connectionSecurity.label "Seguridad de la conexión: ">
+<!ENTITY authMethod.label   "Método de autenticación: ">
