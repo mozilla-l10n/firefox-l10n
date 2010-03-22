@@ -152,6 +152,8 @@
 <!ENTITY calendar.task-details.status.label          "estat">
 <!ENTITY calendar.task-details.category.label        "categoria">
 <!ENTITY calendar.task-details.repeat.label          "repetició">
+<!ENTITY calendar.task-details.attachments.label     "adjuncions">
+
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorització de tasques">
 <!ENTITY calendar.task.complete.button.tooltip  "Marca les tasques seleccionades com a acabades">
