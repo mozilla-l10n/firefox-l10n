@@ -65,28 +65,43 @@
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label "Tamamlanma &#37;">
+<!-- Keyboard Shortcuts -->
+
+<!ENTITY event.dialog.new.event.key "E">
+<!ENTITY event.dialog.new.message.key "M">
+<!ENTITY event.dialog.close.key "W">
+<!ENTITY event.dialog.save.key "S">
+<!ENTITY event.dialog.saveandclose.key "L">
+<!ENTITY event.dialog.delete.key "D">
+<!ENTITY event.dialog.print.key "P">
+<!ENTITY event.dialog.undo.key "Z">
+<!ENTITY event.dialog.redo.key "Y">
+<!ENTITY event.dialog.cut.key "X">
+<!ENTITY event.dialog.copy.key "C">
+<!ENTITY event.dialog.paste.key "V">
+<!ENTITY event.dialog.select.all.key "A">
 <!-- Menubar -->
 
-<!ENTITY event.menu.file.label "Dosya">
-<!ENTITY event.menu.file.accesskey "D">
-<!ENTITY event.menu.file.new.label "Yeni">
-<!ENTITY event.menu.file.new.accesskey "Y">
-<!ENTITY event.menu.file.new.event.label "Etkinlik">
-<!ENTITY event.menu.file.new.event.accesskey "E">
-<!ENTITY event.menu.file.new.message.label "İleti">
-<!ENTITY event.menu.file.new.message.accesskey "İ">
-<!ENTITY event.menu.file.new.contact.label "Adres defteri girdisi">
-<!ENTITY event.menu.file.new.contact.accesskey "g">
-<!ENTITY event.menu.file.close.label "Kapat">
-<!ENTITY event.menu.file.close.accesskey "t">
-<!ENTITY event.menu.file.save.label "Kaydet">
-<!ENTITY event.menu.file.save.accesskey "K">
+<!ENTITY event.menu.item.new.label "Yeni">
+<!ENTITY event.menu.item.new.accesskey "Y">
+<!ENTITY event.menu.item.new.event.label "Etkinlik">
+<!ENTITY event.menu.item.new.event.accesskey "E">
+<!ENTITY event.menu.item.new.message.label "İleti">
+<!ENTITY event.menu.item.new.message.accesskey "İ">
+<!ENTITY event.menu.item.new.contact.label "Adres defteri girdisi">
+<!ENTITY event.menu.item.new.contact.accesskey "g">
+<!ENTITY event.menu.item.close.label "Kapat">
+<!ENTITY event.menu.item.close.accesskey "t">
+<!ENTITY event.menu.item.save.label "Kaydet">
+<!ENTITY event.menu.item.save.accesskey "K">
+<!ENTITY event.menu.item.saveandclose.label "Save and Close">
+<!ENTITY event.menu.item.saveandclose.accesskey "l">
 <!ENTITY event.menu.item.delete.label "Sil…">
 <!ENTITY event.menu.item.delete.accesskey "S">
-<!ENTITY event.menu.file.page.setup.label "Sayfa düzeni">
-<!ENTITY event.menu.file.page.setup.accesskey "z">
-<!ENTITY event.menu.file.print.label "Yazdır">
-<!ENTITY event.menu.file.print.accesskey "r">
+<!ENTITY event.menu.item.page.setup.label "Sayfa düzeni">
+<!ENTITY event.menu.item.page.setup.accesskey "z">
+<!ENTITY event.menu.item.print.label "Yazdır">
+<!ENTITY event.menu.item.print.accesskey "r">
 
 <!ENTITY event.menu.edit.label "Düzenle">
 <!ENTITY event.menu.edit.accesskey "e">
@@ -211,6 +226,7 @@
 <!ENTITY event.priority2.label "Önemlilik:">
 
 <!ENTITY event.reminder.none.label "Uyarısız">
+<!ENTITY event.reminder.0minutes.before.label "0 minutes before">
 <!ENTITY event.reminder.5minutes.before.label "5 dakika önce">
 <!ENTITY event.reminder.10minutes.before.label "10 dakika önce">
 <!ENTITY event.reminder.15minutes.before.label "15 dakika önce">
@@ -350,6 +366,7 @@
 <!ENTITY event.attendee.role.required "Gerekli katılımcı">
 <!ENTITY event.attendee.role.optional "İsteğe bağlı katılımcı">
 <!ENTITY event.attendee.role.chair "Başkan">
+<!ENTITY event.attendee.role.nonparticipant "Non Participant">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label "Zaman dilimi belirleyin">

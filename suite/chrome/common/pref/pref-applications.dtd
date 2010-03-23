@@ -7,4 +7,4 @@
 <!ENTITY actionColumn2.label "Eylem">
 <!ENTITY actionColumn2.accesskey "E">
 
-<!ENTITY search.emptytext "Search Types and Actions">
+<!ENTITY search.placeholder "Search Types and Actions">

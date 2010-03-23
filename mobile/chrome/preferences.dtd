@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title "Parolaları hatırla">
 <!ENTITY language.title "Dil">
 <!ENTITY language.auto "Otomatik algıla">
+<!ENTITY defaultBrowser.title "Varsayılan Tarayıcı">
+<!ENTITY defaultBrowser.description "Make &brandShortName; your default browser">

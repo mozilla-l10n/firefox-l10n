@@ -36,6 +36,6 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY styleLocation.label "Stil sayfası">
-<!ENTITY styleRules.label "Rules">
+<!ENTITY sheetLocation.label "Style Sheet">
+<!ENTITY sheetRules.label "Rules">
 

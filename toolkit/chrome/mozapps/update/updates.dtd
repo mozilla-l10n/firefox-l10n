@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "Uygulama Güncelleme">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "48em">
-
 <!ENTITY checking.title "Güncelleme Denetimi">
 <!ENTITY updateCheck.label "&brandShortName; uygulamasının yeni sürümü aranıyor">
 
@@ -37,7 +34,7 @@
 
 <!ENTITY incompatibleList.title "Uyumsuz eklentiler bulundu">
 
-<!ENTITY downloading.title "Güncelleme indiriliyor">
+<!ENTITY downloadPage.title "Downloading &brandShortName;">
 <!ENTITY downloading.intro "Aşağıdaki güncellemeler kuruldu:">
 <!ENTITY connecting.label "Güncelleme sunucusuna bağlanıyor…">
 <!ENTITY verificationFailedText.label "&brandShortName; indirilen güncelleme dosyalarının bütünlüğünü kontrol edemiyor. Şimdi paketler tekrardan indirilecek.">

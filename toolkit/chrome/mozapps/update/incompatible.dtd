@@ -1,8 +1,0 @@
-
-<!ENTITY incompatible.title "Uyumsuz Öğeler">
-<!ENTITY incompatible.intro "Aşağıdaki öğeler &brandShortName; güncellemesi ile uyumsuz olduğu için güncellemesi yapılmayacaktır:">
-<!ENTITY incompatible.update "&brandShortName; düzenli aralıklarda bu güncellemeyi kontrol edecek uygun güncellemeyi bulduğunda güncellemeyi yapacaktır.">
-<!ENTITY incompatible.suffix "&brandShortName; güncellemeleri önemli güvenlik düzeltmeleri içerir. Bu yüzden şiddetle &brandShortName; güncellemesi yapmanız şiddetle tavsiye edilir. Eklentiler ve Temalarda dahi bu güncellemeleri yaparak, web üzerinden gelebilecek zararlara karşı kendinize bir güvenlik kazandırmış olursunuz">
-                                     
-<!ENTITY closebutton.label "Kapat">
-

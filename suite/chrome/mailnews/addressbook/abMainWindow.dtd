@@ -116,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey "S">
 <!ENTITY newimButton.label "IM">
 <!ENTITY newimButton.accesskey "M">
-<!ENTITY searchNameAndEmail.emptytext "İsim veya e-postayı ara">
+<!ENTITY searchNameAndEmail.placeholder "İsim veya e-postayı ara">
 <!-- Tooltips -->
 
 <!ENTITY addressbookToolbar.tooltip "Adres defteri araç çubuğu">

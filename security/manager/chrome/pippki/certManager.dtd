@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins "Yerleşik CA">
 <!ENTITY certmgr.ca.mycas "Tarafınızdan yönetilen CA">
 
-<!ENTITY certmgr.mine "Bu kurum tarafından onaylanan kimlikler:">
-<!ENTITY certmgr.others "Bu dosyada şu insanlar onaylandı:">
-<!ENTITY certmgr.websites2 "Dosyada bu sunucuları tanımlayan onay belgeleriniz var:">
-<!ENTITY certmgr.cas "Elinizdeki onay belgeleri aşağıda belirtilen onay belgesi sağlayıcılarınınkilerle özdeş:">
-<!ENTITY certmgr.orphans "Dosyada diğer hiçbir kategoride olmayan onay belgeleriniz var:">
+<!ENTITY certmgr.mine.search "Search:">
+<!ENTITY certmgr.others.search "Search:">
+<!ENTITY certmgr.websites.search "Search:">
+<!ENTITY certmgr.cas.search "Search:">
+<!ENTITY certmgr.orphans.search "Search:">
+
+<!ENTITY certmgr.mine.description "Bu kurum tarafından onaylanan kimlikler:">
+<!ENTITY certmgr.others.description "Bu dosyada şu insanlar onaylandı:">
+<!ENTITY certmgr.websites.description "Dosyada bu sunucuları tanımlayan onay belgeleriniz var:">
+<!ENTITY certmgr.cas.description "Elinizdeki onay belgeleri aşağıda belirtilen onay belgesi sağlayıcılarınınkilerle özdeş:">
+<!ENTITY certmgr.orphans.description "Dosyada diğer hiçbir kategoride olmayan onay belgeleriniz var:">
+
+<!ENTITY certmgr.mine.filtered "Matching certificates from these organizations that identify you:">
+<!ENTITY certmgr.others.filtered "Matching certificates on file that identify these people:">
+<!ENTITY certmgr.websites.filtered "Matching certificates on file that identify these servers:">
+<!ENTITY certmgr.cas.filtered "Matching certificates on file that identify these certificate authorities:">
+<!ENTITY certmgr.orphans.filtered "Matching certificates on file that do not fit in any of the other categories:">
 
 <!ENTITY certmgr.detail.general_tab.title "Genel">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

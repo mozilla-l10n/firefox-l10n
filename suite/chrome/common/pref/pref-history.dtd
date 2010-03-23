@@ -2,15 +2,8 @@
 
 <!ENTITY pref.history.caption "Tarayıcı geçmişi">
 <!ENTITY historyPages.label "Geçmiş, daha önce ziyaret edilen sayfaların listesidir.">
-<!ENTITY expireDaysMin1.label "En az">
-<!ENTITY expireDaysMin1.accesskey "z">
-<!ENTITY expireDaysMin2.label "günlük ziyaret geçmişimi hatırla">
-<!ENTITY expireDays1.label "En fazla">
-<!ENTITY expireDays1.accesskey "f">
-<!ENTITY expireDays2.label "günlük ziyaret geçmişimi hatırla">
-<!ENTITY expireSites1.label "En fazla">
-<!ENTITY expireSites1.accesskey "l">
-<!ENTITY expireSites2.label "sayfayı hatırla">
+<!ENTITY enableHistory.label "Remember visited pages">
+<!ENTITY enableHistory.accesskey "R">
 <!ENTITY clearHistory.label "Geçmişi sil">
 <!ENTITY clearHistory.accesskey "e">
 
@@ -23,4 +16,4 @@
 <!ENTITY enableFormfill.accesskey "t">
 <!ENTITY formfillExpire.label "En fazla">
 <!ENTITY formfillExpire.accesskey "n">
-<!ENTITY formfillDays.label "günlük form ve arama geçmişimi hatırla">
+<!ENTITY formfillDays.label "days">

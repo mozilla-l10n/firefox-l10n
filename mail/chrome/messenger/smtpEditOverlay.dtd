@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "m">
 <!ENTITY serverPort.label "İletişim noktası:">
 <!ENTITY serverPort.accesskey "o">
-<!ENTITY alwaysUseUsername.label "Kullanıcı adı ve parola kullan">
-<!ENTITY alwaysUseUsername.accesskey "u">
 <!ENTITY userName.label "Kullanıcı adı:">
 <!ENTITY userName.accesskey "d">
-<!ENTITY useSecAuth.label "Güvenli kimlik doğrulama kullan">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Hiçbiri">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP sunucusu">
 <!ENTITY serverPortDefault.label "Öntanımlı:">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">

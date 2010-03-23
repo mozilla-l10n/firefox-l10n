@@ -46,11 +46,6 @@
 <!ENTITY calendar.calendar.label "Takvim">
 <!ENTITY calendar.calendar.accesskey "T">
 
-<!ENTITY calendar.dayView.key "1">
-<!ENTITY calendar.weekView.key "2">
-<!ENTITY calendar.multiweekView.key "3">
-<!ENTITY calendar.monthView.key "4">
-
 <!ENTITY calendar.newevent.button.tooltip "Yeni etkinlik oluştur">
 <!ENTITY calendar.newtask.button.tooltip "Yeni görev oluştur">
 
@@ -156,6 +151,7 @@
 <!ENTITY calendar.task-details.status.label "durum">
 <!ENTITY calendar.task-details.category.label "kategori">
 <!ENTITY calendar.task-details.repeat.label "tekrarla">
+<!ENTITY calendar.task-details.attachments.label "attachments">
 
 <!ENTITY calendar.task.category.button.tooltip "Görevleri kategorileştir">
 <!ENTITY calendar.task.complete.button.tooltip "Seçili görevleri tamamlanmış olarak işaretle">

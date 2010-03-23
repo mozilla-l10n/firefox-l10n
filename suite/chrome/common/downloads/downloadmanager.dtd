@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip "Menü çubuğu">
 <!ENTITY searchBar.tooltip "Arama çubuğu">
 
-<!ENTITY search.emptytext "İndirilenlerde ara">
+<!ENTITY search.placeholder "İndirilenlerde ara">
 <!ENTITY search.label "İndirilenlerde ara">
 <!ENTITY search.accesskey "a">
 <!ENTITY search.key "f">

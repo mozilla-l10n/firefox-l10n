@@ -11,7 +11,7 @@
 <!ENTITY button.removeallcookies.label "Tüm çerezleri sil">
 <!ENTITY button.removeallcookies.accesskey "T">
 
-<!ENTITY search.emptytext "Çerezlerde ara">
+<!ENTITY search.placeholder "Çerezlerde ara">
 <!ENTITY focusSearch.key "f">
 <!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">
