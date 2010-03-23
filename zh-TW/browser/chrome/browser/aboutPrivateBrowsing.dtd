@@ -16,7 +16,7 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!ENTITY privatebrowsingpage.howToStop                 "欲停止私密瀏覽，選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;或結束 &brandShortName;。">
-<!ENTITY privatebrowsingpage.howToStart                "您也可以選擇&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;來開始私密瀏覽。">
+<!ENTITY privatebrowsingpage.howToStart                "您也可以選擇&toolsMenu.label; &gt; &privateBrowsingCmd.start.label;來開始私密瀏覽。">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "雖然這台電腦不會留下任何歷史記錄，您的網路服務提供商或雇主還是能追蹤您瀏覽的頁面。">
 <!ENTITY privatebrowsingpage.learnMore                 "更多資訊">
