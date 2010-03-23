@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "ه">
 <!ENTITY checkNow.label                  "هم‌اکنون بررسی شود">
 <!ENTITY checkNow.accesskey              "ه">
+<!ENTITY submitCrashes.label             "ارسال گزارش‌های فروپاشی">
+<!ENTITY submitCrashes.accesskey         "گ">
 
 <!ENTITY networkTab.label                "شبکه">
 

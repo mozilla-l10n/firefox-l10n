@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "برای بارگیری متصل شونده اینجا کلیک کنید.">
 <!ENTITY disabledPlugin.label                                "متصل‌شوندهٔ مربوط به این محتوا از کار انداخته شده است. برای مدیریت متصل‌شونده‌های خود اینجا کلیک کنید.">
 <!ENTITY blockedPlugin.label                                 "این متصل‌شونده به منظور محافظت از شما باز داشته شده است.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "برای تلاش مجدد، ">
+<!ENTITY reloadPlugin.middle                                 "صفحه را دوباره بارگزاری کنید">
+<!ENTITY reloadPlugin.post                                   ".">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "ارسال گزارش فروپاشی">
+<!ENTITY report.submitting                                   "در حال ارسال گزارش…">
+<!ENTITY report.submitted                                    "گزارش ارسال شد.">
+<!ENTITY report.disabled                                     "ارسال گزارش غیرفعال است.">
+<!ENTITY report.failed                                       "ارسال به مشکل برخورد.">
+<!ENTITY report.unavailable                                  "گزارشی وجود ندارد.">
