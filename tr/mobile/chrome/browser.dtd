@@ -36,7 +36,6 @@
 
 <!ENTITY addonsHeader.label "Eklentiler">
 <!ENTITY addonsLocal.label "Eklentilerim">
-<!ENTITY addonsUpdate.label "Güncelle">
 <!ENTITY addonsRepo.label "Eklenti edin">
 <!ENTITY addonsRecommended.label "Tavsiye edilen">
 <!ENTITY addonsSearch.label "Ara">

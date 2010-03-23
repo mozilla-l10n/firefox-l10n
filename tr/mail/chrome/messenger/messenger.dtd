@@ -132,8 +132,8 @@
 
 <!ENTITY folderView.label "Dizinler">
 <!ENTITY folderView.accesskey "D">
-<!ENTITY smartFolders.label "Akıllı">
-<!ENTITY smartFolders.accesskey "A">
+<!ENTITY unifiedFolders.label "Unified">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Tümü">
 <!ENTITY allFolders.accesskey "m">
 <!ENTITY unreadFolders.label "Okunmayanlar">

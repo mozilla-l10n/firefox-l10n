@@ -589,7 +589,7 @@
 <!-- focusSearchInput.key also used by addressbook -->
 
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Konu ve adreslerde ara">
+<!ENTITY searchSubjectOrAddress.placeholder "Konu ve adreslerde ara">
 <!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "e">
 

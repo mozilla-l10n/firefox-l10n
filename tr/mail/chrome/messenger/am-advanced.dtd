@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label "Kullanıcı ismi: ">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
-<!ENTITY useSecureAuthentication.label "Güvenli kimlik doğrulama: ">
+<!ENTITY authMethod.label "Authentication method: ">

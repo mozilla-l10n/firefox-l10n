@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label "Yer imi yöneticisi">
 
-<!ENTITY search.emptytext "Yer imlerinde ara">
+<!ENTITY search.placeholder "Yer imlerinde ara">
 <!ENTITY search.key "f">

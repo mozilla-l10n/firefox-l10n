@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label "Yeni dizin aşağıdakileri içerebilir:">
 <!ENTITY foldersOnly.label "Sadece dizinler">
 <!ENTITY messagesOnly.label "Sadece postalar">
+<!ENTITY accept.label "Create Folder">
+<!ENTITY accept.accesskey "r">

@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip "Menü çubuğu">
 <!ENTITY searchBar.tooltip "Arama çubuğu">
 
-<!ENTITY search.emptytext "Geçmişte ara">
+<!ENTITY search.placeholder "Geçmişte ara">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Görünüm">
 
