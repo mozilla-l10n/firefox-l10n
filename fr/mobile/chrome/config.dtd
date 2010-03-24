@@ -1,0 +1,10 @@
+<!ENTITY empty.label            "Rechercher">
+<!ENTITY newpref.label          "Ajouter une nouvelle préférence">
+
+<!ENTITY cancel.label           "Annuler">
+<!ENTITY reset.label            "Réinitialiser">
+<!ENTITY done.label             "Terminé">
+
+<!ENTITY integer.label          "Entier">
+<!ENTITY string.label           "Chaîne">
+<!ENTITY boolean.label          "Booléen">
