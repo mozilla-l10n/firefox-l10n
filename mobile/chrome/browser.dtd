@@ -91,3 +91,6 @@
 <!ENTITY consoleErrFile.label "Fichier source :">
 <!ENTITY consoleErrLine.label "Ligne :">
 <!ENTITY consoleErrColumn.label "Colonne :">
+
+<!ENTITY contextOpenInNewTab.label "Ouvrir le lien dans un nouvel onglet">
+<!ENTITY contextSaveImage.label "Enregistrer l'image">
