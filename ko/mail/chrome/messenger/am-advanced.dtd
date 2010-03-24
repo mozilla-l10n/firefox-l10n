@@ -13,4 +13,4 @@
 <!ENTITY serverPort.label "포트: ">
 <!ENTITY userName.label "사용자 이름: ">
 <!ENTITY connectionSecurity.label "보안 연결: ">
-<!ENTITY useSecureAuthentication.label "보안 인증: ">
+<!ENTITY authMethod.label   "인증 방식: ">
