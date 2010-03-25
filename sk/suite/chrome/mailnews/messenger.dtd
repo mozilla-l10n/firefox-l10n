@@ -589,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Hľadať predmet alebo Od">
+<!ENTITY searchSubjectOrAddress.placeholder "Hľadať predmet alebo Od">
 <!ENTITY advancedButton.label "Rozšírené…">
 <!ENTITY advancedButton.accesskey "o">
 

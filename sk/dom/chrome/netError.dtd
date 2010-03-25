@@ -22,7 +22,7 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa (URL) nie je platná a nemožno ju načítať. Prosím, skontrolujte text v paneli s adresou a skúste to znova.</p>">
 
 <!ENTITY netInterrupt.title "Chyba: Prenos dát prerušený">
-<!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no pripojenie počas prenosu informácií zlyhalo.</p><ul><li>Môže to byť zlyhanie siete medzi vašim počítačom a serverom</li><li>Prosím skúste to neskôr. Ak problémy pretrvávajú, kontaktujte prosím svojho sieťového administrátora alebo poskytovateľa Internetu.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no spojenie počas prenosu informácií zlyhalo.</p><ul><li>Môže to byť zlyhanie siete medzi vašim počítačom a serverom</li><li>Prosím skúste to neskôr. Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
 <!ENTITY netOffline.title "Chyba: Režim offline">
 <!ENTITY netOffline.longDesc "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server. Prepnite prehliadač do režimu online a skúste to znova.</p>">
@@ -41,16 +41,16 @@
 <!ENTITY netReset.longDesc "<p>Spojenie bolo nečakane prerušené počas pripájania alebo počas prenosu údajov. Dôvodom môže byť chyba siete niekde na ceste medzi počítačom a serverom. Ak problém pretrváva, preštudujte dokumentáciu alebo sa poraďte so svojím správcom siete alebo poskytovateľom internetu (ISP).</p>">
 
 <!ENTITY netTimeout.title "Chyba: Čas vypršal">
-<!ENTITY netTimeout.longDesc "<p>Vypršal čas pri pokuse o pripojenie na zadaný server. Server môže byť preťažený, alebo preťaženie siete spôsobuje prílišné omeškanie dát. Ak sa dá predpokladať, že server je preťažený, skúste pred ďalším pokusom o pripojenie chvíľu počkať. Pokiaľ budú problémy pretrvávať kontaktujte vášho administrátora, alebo poskytovateľa pripojenia.</p>">
+<!ENTITY netTimeout.longDesc "<p>Vypršal čas pri pokuse o pripojenie na zadaný server. Server môže byť preťažený, alebo preťaženie siete spôsobuje prílišné omeškanie dát. Ak sa dá predpokladať, že server je preťažený, skúste pred ďalším pokusom o pripojenie chvíľu počkať. Pokiaľ budú problémy pretrvávať, kontaktujte svojho správcu siete alebo poskytovateľa pripojenia.</p>">
 
 <!ENTITY protocolNotFound.title "Chyba: Neznámy protokol">
 <!ENTITY protocolNotFound.longDesc "<p>Adresa (URL) sa začína protokolom, ktorý prehliadač nepozná. Protokol je reťazec na začiatku adresy, ako napríklad http: alebo ftp:, ktorý hovorí prehliadaču, ako sa má pripojiť ku serveru. V tomto prípade je protokol neznámy, takže pripojenie nie je možné. Skontrolujte, či je URL v poriadku a skúste to znovu.</p>">
 
 <!ENTITY proxyConnectFailure.title "Chyba: Proxy server odmietol spojenie">
-<!ENTITY proxyConnectFailure.longDesc "<p>Prehliadač je nakonfigurovaný na používanie proxy servera, ale tento odmietol pripojenie.</p><ul><li>Skontrolujte nastavenia proxy servera v prehliadači a skúste to znova.</li><li>Proxy nemohol vytvoriť pripojenie k počítačovej sieti.</li><li>Ak problémy pretrvávajú, kontaktujte prosím svojho sieťového administrátora alebo poskytovateľa Internetu.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Prehliadač je nakonfigurovaný na používanie proxy servera, ale tento odmietol pripojenie.</p><ul><li>Skontrolujte nastavenia proxy servera v prehliadači a skúste to znova.</li><li>Proxy nemohol vytvoriť pripojenie k počítačovej sieti.</li><li>Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Chyba: Proxy server nenájdený">
-<!ENTITY proxyResolveFailure.longDesc "<p>Prehliadač je nakonfigurovaný na používanie proxy servera, ale tento nebol na sieti nájdený.</p><ul><li>Skontrolujte nastavenia proxy servera v prehliadači a skúste to znovu.</li><li>Ak problémy pretrvávajú, kontaktujte prosím svojho sieťového administrátora alebo poskytovateľa Internetu.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Prehliadač je nakonfigurovaný na používanie proxy servera, ale tento nebol na sieti nájdený.</p><ul><li>Skontrolujte nastavenia proxy servera v prehliadači a skúste to znovu.</li><li>Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Chyba: Slučka pri presmerovaní">
 <!ENTITY redirectLoop.longDesc "<p>Prehliadač prerušil spojenie, pretože server smeruje požiadavku sám na seba v nekonečnej slučke.</p><ul><li>Toto nastáva, ak stránka vyžaduje cookies a vy ste cookies nepovolili alebo sú pre túto stránku blokované.</li><li>Toto je častý problém s nastavením servera a <em>NIE</em> vášho počítača.</li></ul>">
@@ -81,7 +81,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožujú.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

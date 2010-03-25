@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ak je dostupné">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Použiť bezpečnú autentifikáciu">
-<!ENTITY useSecAuth.accesskey "f">
+<!ENTITY authMethod.label "Metóda overenia:">
+<!ENTITY authMethod.accesskey "t">
 <!ENTITY leaveOnServer.label "Nechávať správy na serveri">
 <!ENTITY leaveOnServer.accesskey "r">
 <!ENTITY headersOnly.label "Prevziať len hlavičky správ">
@@ -60,7 +60,7 @@
 <!ENTITY maxMessagesStart.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "správ">
-<!ENTITY alwaysAuthenticate.label "Vždy vyžadovať autentifikáciu pri pripájaní na tento server">
+<!ENTITY alwaysAuthenticate.label "Pri pripájaní sa na tento server vždy vyžadovať overenie">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Súbor newsrc:">
 <!ENTITY localPath.label "Lokálny priečinok:">

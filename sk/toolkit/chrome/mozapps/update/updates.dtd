@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Aktualizácia softvéru">
 
-<!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Zisťujú sa aktualizácie">
 <!ENTITY  updateCheck.label               "Vyhľadáva sa novšia verzia programu &brandShortName;…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Nájdené nekompatibilné doplnky">
 
-<!ENTITY downloading.title                "Prevzatie aktualizácie">
+<!ENTITY  downloadPage.title              "Preberá sa &brandShortName;">
 <!ENTITY downloading.intro                "Preberá sa aktualizácia…">
 <!ENTITY connecting.label                 "Pripája sa k aktualizačnému serveru…">
 <!ENTITY verificationFailedText.label     "&brandShortName; nedokázal overiť integritu

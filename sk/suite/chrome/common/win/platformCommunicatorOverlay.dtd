@@ -27,7 +27,7 @@
 <!ENTITY helpForIEUsers.accesskey       "E">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->
-<!ENTITY helpMenu.label                 "Pomocník"> 
+<!ENTITY helpMenu.label                 "Pomocník">
 <!ENTITY helpMenu.accesskey             "P">
 
 

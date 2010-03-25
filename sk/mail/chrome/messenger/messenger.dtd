@@ -132,8 +132,8 @@
 
 <!ENTITY folderView.label "Priečinky">
 <!ENTITY folderView.accesskey "e">
-<!ENTITY smartFolders.label "Zoskupené">
-<!ENTITY smartFolders.accesskey "Z">
+<!ENTITY unifiedFolders.label "Zoskupené">
+<!ENTITY unifiedFolders.accesskey "Z">
 <!ENTITY allFolders.label "Všetky">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Neprečítané">

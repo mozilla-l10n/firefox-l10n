@@ -36,7 +36,6 @@
 
 <!ENTITY addonsHeader.label        "Doplnky">
 <!ENTITY addonsLocal.label         "Vaše doplnky">
-<!ENTITY addonsUpdate.label        "Aktualizovať">
 <!ENTITY addonsRepo.label          "Získať doplnky">
 <!ENTITY addonsRecommended.label   "Odporúčané">
 <!ENTITY addonsSearch.label        "Hľadať">
@@ -66,8 +65,6 @@
 <!ENTITY noResults.label           "Žiadne výsledky">
 <!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
 
-<!ENTITY searchEngine.addSearch    "Pridať vyhľadávanie:">
-
 <!ENTITY bookmarkPopup.label       "Stránka pridaná medzi záložky">
 <!ENTITY bookmarkRemove.label      "Odstrániť">
 <!ENTITY bookmarkEdit.label        "Upraviť">
@@ -92,3 +89,6 @@
 <!ENTITY consoleErrFile.label      "Zdroj:">
 <!ENTITY consoleErrLine.label      "Riadok:">
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
+
+<!ENTITY contextOpenInNewTab.label "Otvoriť odkaz na novej karte">
+<!ENTITY contextSaveImage.label    "Uložiť obrázok">

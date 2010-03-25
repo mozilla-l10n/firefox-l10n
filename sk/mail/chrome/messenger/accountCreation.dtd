@@ -1,10 +1,10 @@
 <!ENTITY autoconfigWizard.title          "Nastavenie poštového účtu">
 <!ENTITY name.label                      "Vaše meno:">
-<!ENTITY name.accesskey                  "n">
+<!ENTITY name.accesskey                  "V">
 <!ENTITY name.emptytext                  "Meno priezvisko">
 <!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
 <!ENTITY email.label                     "E-mailová adresa:">
-<!ENTITY email.accesskey                 "d">
+<!ENTITY email.accesskey                 "E">
 <!ENTITY email.emptytext                 "email@priklad.sk">
 <!ENTITY password.label                  "Heslo:">
 <!ENTITY password.accesskey              "H">
@@ -24,7 +24,7 @@
 <!ENTITY smtp.label                      "SMTP">
 
 <!ENTITY manualSetup.label               "Manuálne nastavenie…">
-<!ENTITY manualSetup.accesskey           "u">
+<!ENTITY manualSetup.accesskey           "n">
 <!ENTITY cancel.label                    "Zrušiť">
 <!ENTITY cancel.accesskey                "Z">
 <!ENTITY continue.label                  "Pokračovať">

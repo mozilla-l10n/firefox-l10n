@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip                "Panel Ponuka">
 <!ENTITY searchBar.tooltip              "Panel Vyhľadávanie">
 
-<!ENTITY search.emptytext               "Hľadať v histórii">
+<!ENTITY search.placeholder             "Hľadať v histórii">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Zobraziť">
 

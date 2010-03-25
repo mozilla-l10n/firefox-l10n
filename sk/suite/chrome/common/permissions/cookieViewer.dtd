@@ -11,7 +11,7 @@
 <!ENTITY     button.removeallcookies.label  "Odstrániť všetky cookies">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.emptytext               "Hľadať cookies">
+<!ENTITY     search.placeholder             "Hľadať cookies">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">

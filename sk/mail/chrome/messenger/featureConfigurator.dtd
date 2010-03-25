@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "použiť nový panel nástrojov">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Režim Zoskupené priečinky">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Režim Zoskupené priečinky">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Používa sa režim &quot;Zoskupené priečinky&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Používa sa režim &quot;Zoskupené priečinky&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Nepoužíva sa režim &quot;Zoskupené priečinky&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Nepoužíva sa režim &quot;Zoskupené priečinky&quot;.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Ak používate viacero účtov, toto zobrazenie zoskupí priečinky ako napr. Doručená pošta do jedného, takže naraz vidíte všetky správy.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Ak preferuje oddelené priečinky, použite režim &quot;Všetky priečinky&quot;.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Ak používate viacero účtov, toto zobrazenie zoskupí priečinky ako napr. Doručená pošta do jedného, takže naraz vidíte všetky správy.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Ak preferuje oddelené priečinky, použite režim &quot;Všetky priečinky&quot;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "použiť režim &quot;Zoskupené priečinky&quot;">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "použiť režim &quot;Zoskupené priečinky&quot;">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
