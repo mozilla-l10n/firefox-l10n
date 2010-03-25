@@ -65,8 +65,6 @@
 <!ENTITY noResults.label           "Gjin resultaten">
 <!ENTITY allBookmarks.label        "Besjoch alle blêdwizers">
 
-<!ENTITY searchEngine.addSearch    "Sykmasine tafoegje:">
-
 <!ENTITY bookmarkPopup.label       "Blêdwizer bewarre">
 <!ENTITY bookmarkRemove.label      "Fuortsmite">
 <!ENTITY bookmarkEdit.label        "Bewurkje">
@@ -91,3 +89,6 @@
 <!ENTITY consoleErrFile.label      "Boarnebestân:">
 <!ENTITY consoleErrLine.label      "Rige:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
+
+<!ENTITY contextOpenInNewTab.label "Iepenje keppeling yn nij ljepblêd">
+<!ENTITY contextSaveImage.label    "Bewarje ôfbylding">
