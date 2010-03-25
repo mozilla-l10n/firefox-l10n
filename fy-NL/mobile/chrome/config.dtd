@@ -1,0 +1,10 @@
+<!ENTITY empty.label            "Sykje">
+<!ENTITY newpref.label          "Foegje nij foarkar ta">
+
+<!ENTITY cancel.label           "Annulearje">
+<!ENTITY reset.label            "Tebeksette">
+<!ENTITY done.label             "Dien">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">
