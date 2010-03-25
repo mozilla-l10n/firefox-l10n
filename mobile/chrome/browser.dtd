@@ -65,8 +65,6 @@
 <!ENTITY noResults.label "Pas de résultat">
 <!ENTITY allBookmarks.label "Tous les marque-pages">
 
-<!ENTITY searchEngine.addSearch "Ajouter une recherche :">
-
 <!ENTITY bookmarkPopup.label "Page marquée">
 <!ENTITY bookmarkRemove.label "Supprimer">
 <!ENTITY bookmarkEdit.label "Modifier">
