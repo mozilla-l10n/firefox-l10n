@@ -18,4 +18,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label "Používateľské meno: ">
 <!ENTITY connectionSecurity.label "Zabezpečenie pripojenia: ">
-<!ENTITY useSecureAuthentication.label   "Bezpečná autentifikácia: ">
+<!ENTITY authMethod.label   "Metóda overenia: ">

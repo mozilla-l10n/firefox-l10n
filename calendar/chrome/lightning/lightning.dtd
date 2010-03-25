@@ -104,6 +104,8 @@
 <!ENTITY lightning.imipbar.description "Táto správa obsahuje pozvánku na udalosť.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "U">
 <!ENTITY lightning.keys.todo.new "h">
 

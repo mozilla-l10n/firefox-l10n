@@ -156,6 +156,9 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
+
 <!ENTITY securityOverride.linkText "Alebo môžete pridať výnimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rýchlo odtiaľto preč!">
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">

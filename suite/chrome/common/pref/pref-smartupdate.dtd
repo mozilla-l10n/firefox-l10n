@@ -19,4 +19,14 @@
 <!ENTITY extensionsDaily.accesskey            "e">
 <!ENTITY extensionsWeekly.accesskey           "n">
 <!ENTITY addonManagerButton.label             "Správca doplnkov">
-<!ENTITY addonManagerButton.accesskey         "v">
+<!ENTITY addonManagerButton.accesskey         "c">
+
+<!ENTITY whenUpdatesFound.label               "Ak sú dostupné aktualizácie pre &brandShortName;:">
+<!ENTITY askMe.label                          "Vždy sa opýtať, čo urobiť">
+<!ENTITY askMe.accesskey                      "V">
+<!ENTITY modeAutomatic.label                  "Automaticky aktualizácie prevziať a nainštalovať">
+<!ENTITY modeAutomatic.accesskey              "m">
+<!ENTITY modeAutoAddonWarn.label              "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY modeAutoAddonWarn.accesskey          "U">
+<!ENTITY updateHistory.label                  "Zobraziť históriu aktualizácií">
+<!ENTITY updateHistory.accesskey              "h">

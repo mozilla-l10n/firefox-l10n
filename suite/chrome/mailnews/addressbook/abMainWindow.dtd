@@ -116,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey                     "d">
 <!ENTITY newimButton.label                              "Rýchla správa">
 <!ENTITY newimButton.accesskey                          "R">
-<!ENTITY searchNameAndEmail.emptytext                   "Hľadať meno alebo e-mail">
+<!ENTITY searchNameAndEmail.placeholder                 "Hľadať meno alebo e-mail">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Panel Adresár">

@@ -46,11 +46,6 @@
 <!ENTITY calendar.calendar.label          "Kalendár">
 <!ENTITY calendar.calendar.accesskey      "K">
 
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
-
 <!ENTITY calendar.newevent.button.tooltip            "Vytvorí novú udalosť" >
 <!ENTITY calendar.newtask.button.tooltip             "Vytvorí novú úlohu" >
 
@@ -156,6 +151,7 @@
 <!ENTITY calendar.task-details.status.label          "stav">
 <!ENTITY calendar.task-details.category.label        "kategória">
 <!ENTITY calendar.task-details.repeat.label          "opakovať">
+<!ENTITY calendar.task-details.attachments.label     "prílohy">
 
 <!ENTITY calendar.task.category.button.tooltip  "Pridať úlohu do kategórie">
 <!ENTITY calendar.task.complete.button.tooltip  "Označiť vybrané úlohy ako dokončené">

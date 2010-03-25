@@ -1,17 +1,13 @@
 <!ENTITY settings.caption "Nastavenie">
-<!ENTITY security.caption "Zabezpečenie a autentifikácia">
+<!ENTITY security.caption "Zabezpečenie a overenie">
 <!ENTITY serverName.label "Názov servera:">
 <!ENTITY serverName.accesskey "N">
 <!ENTITY serverDescription.label "Popis:">
 <!ENTITY serverDescription.accesskey "P">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "o">
-<!ENTITY alwaysUseUsername.label "Používať meno a heslo">
-<!ENTITY alwaysUseUsername.accesskey "u">
 <!ENTITY userName.label "Používateľské meno:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "Použiť zabezpečenú autentifikáciu">
-<!ENTITY useSecAuth.accesskey "z">
 <!ENTITY connectionSecurity.label "Zabezpečenie pripojenia:">
 <!ENTITY connectionSecurity.accesskey "a">
 <!ENTITY connectionSecurityType-0.label "žiadne">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Štandardný:">
+<!ENTITY authMethod.label "Metóda overenia:">
+<!ENTITY authMethod.accesskey "e">
