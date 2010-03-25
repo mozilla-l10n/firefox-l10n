@@ -65,8 +65,6 @@
 <!ENTITY noResults.label           "Sin resultados">
 <!ENTITY allBookmarks.label        "Ver todos los marcadores">
 
-<!ENTITY searchEngine.addSearch    "Agregar buscador:">
-
 <!ENTITY bookmarkPopup.label       "Página marcada">
 <!ENTITY bookmarkRemove.label      "Eliminar">
 <!ENTITY bookmarkEdit.label        "Editar">
@@ -91,3 +89,6 @@
 <!ENTITY consoleErrFile.label      "Archivo Fuente:">
 <!ENTITY consoleErrLine.label      "Línea:">
 <!ENTITY consoleErrColumn.label    "Columna:">
+
+<!ENTITY contextOpenInNewTab.label "Abrir enlace en nueva pestaña">
+<!ENTITY contextSaveImage.label    "Guardar imagen">
