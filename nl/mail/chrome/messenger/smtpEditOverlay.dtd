@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "O">
 <!ENTITY serverPort.label "Poort:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Gebruikersnaam en wachtwoord">
-<!ENTITY alwaysUseUsername.accesskey "G">
 <!ENTITY userName.label "Gebruikersnaam:">
 <!ENTITY userName.accesskey "e">
-<!ENTITY useSecAuth.label "Beveiligde authenticatie gebruiken">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Geen">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standaard:">
+<!ENTITY authMethod.label "Authenticatiemethode:">
+<!ENTITY authMethod.accesskey "d">

@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "Poort: ">
 <!ENTITY userName.label "Gebruikersnaam: ">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging: ">
-<!ENTITY useSecureAuthentication.label "Beveiligde authenticatie: ">
+<!ENTITY authMethod.label   "Authenticatiemethode: ">
