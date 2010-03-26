@@ -17,7 +17,7 @@
 <!ENTITY disabledPlugin.label "Il plugin richiesto per questo contenuto è stato disattivato. Fare clic qui per gestire i plugin disponibili.">
 <!ENTITY blockedPlugin.label "Questo plugin è stato bloccato per motivi di sicurezza.">
 <!ENTITY reloadPlugin.pre " ">
-<!ENTITY reloadPlugin.middle "Ricarica la pagina">
+<!ENTITY reloadPlugin.middle "Ricaricare la pagina">
 <!ENTITY reloadPlugin.post " per riprovare.">
 <!ENTITY report.please "Invia segnalazione">
 <!ENTITY report.submitting "Invio in corso…">
