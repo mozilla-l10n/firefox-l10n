@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Saisir une recherche ou une adresse">
+
 <!ENTITY back.label            "Précédente">
 <!ENTITY forward.label         "Suivante">
 <!ENTITY reload.label          "Actualiser">
