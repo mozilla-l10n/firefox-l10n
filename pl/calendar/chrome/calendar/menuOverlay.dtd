@@ -94,16 +94,6 @@
 <!ENTITY goTodayCmd.label                       "Dzisiaj">
 <!ENTITY goTodayCmd.accesskey                   "z">
 
-<!ENTITY goPreviousCmd.day.label                "Poprzedni dzień">
-<!ENTITY goPreviousCmd.week.label               "Poprzedni tydzień">
-<!ENTITY goPreviousCmd.month.label              "Poprzedni miesiąc">
-<!ENTITY goPreviousCmd.accesskey                "P">
-
-<!ENTITY goNextCmd.day.label                    "Następny dzień">
-<!ENTITY goNextCmd.week.label                   "Następny tydzień">
-<!ENTITY goNextCmd.month.label                  "Następny miesiąc">
-<!ENTITY goNextCmd.all.accesskey                "N">
-
 <!ENTITY showCurrentView.label                  "Bieżący widok">
 <!ENTITY showCurrentView.accesskey              "B">
 <!ENTITY calendar.properties.label              "Właściwości kalendarza…">
