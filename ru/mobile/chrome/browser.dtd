@@ -1,3 +1,4 @@
+<!ENTITY urlbar.emptytext "Введите поисковый запрос или адрес">
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Вперёд">
 <!ENTITY reload.label "Обновить">
@@ -53,7 +54,6 @@
 <!ENTITY downloadFailed.label "Неудача">
 <!ENTITY noResults.label "Нет результатов">
 <!ENTITY allBookmarks.label "Показать все закладки">
-<!ENTITY searchEngine.addSearch "Добавить поиск:">
 <!ENTITY bookmarkPopup.label "Добавлена в закладки">
 <!ENTITY bookmarkRemove.label "Удалить">
 <!ENTITY bookmarkEdit.label "Изменить">
@@ -71,3 +71,5 @@
 <!ENTITY consoleErrFile.label "Источник:">
 <!ENTITY consoleErrLine.label "Строка:">
 <!ENTITY consoleErrColumn.label "Символ:">
+<!ENTITY contextOpenInNewTab.label "Открыть ссылку в новой вкладке">
+<!ENTITY contextSaveImage.label "Сохранить изображение">
