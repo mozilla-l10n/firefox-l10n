@@ -154,6 +154,7 @@
 <!ENTITY calendar.task-details.status.label          "Stan:">
 <!ENTITY calendar.task-details.category.label        "Kategoria:">
 <!ENTITY calendar.task-details.repeat.label          "Powtarzaj:">
+<!ENTITY calendar.task-details.attachments.label     "Załączniki:">
 
 <!ENTITY calendar.task.category.button.tooltip  "Przyporządkuj zadaniom kategorie">
 <!ENTITY calendar.task.complete.button.tooltip  "Oznacz wybrane zadania jako ukończone">
