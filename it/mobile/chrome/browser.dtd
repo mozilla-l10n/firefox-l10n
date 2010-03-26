@@ -1,3 +1,4 @@
+<!ENTITY urlbar.emptytext "Inserire una ricerca o un indirizzo">
 <!ENTITY back.label "Indietro">
 <!ENTITY forward.label "Avanti">
 <!ENTITY reload.label "Ricarica">
@@ -53,7 +54,6 @@
 <!ENTITY downloadFailed.label "Non riuscito">
 <!ENTITY noResults.label "Nessun risultato">
 <!ENTITY allBookmarks.label "Visualizza tutti i segnalibri">
-<!ENTITY searchEngine.addSearch "Aggiungi ricerca:">
 <!ENTITY bookmarkPopup.label "Segnalibro salvato">
 <!ENTITY bookmarkRemove.label "Elimina">
 <!ENTITY bookmarkEdit.label "Modifica">
@@ -71,3 +71,5 @@
 <!ENTITY consoleErrFile.label "File sorgente:">
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
+<!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
+<!ENTITY contextSaveImage.label "Salva immagine">
