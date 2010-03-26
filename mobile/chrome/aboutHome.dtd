@@ -1,0 +1,6 @@
+<!ENTITY aboutHome.start "Accueil">
+<!ENTITY aboutHome.recentTabs "Les onglets de la session précédente">
+<!ENTITY aboutHome.remoteTabs "Les onglets de vos autres ordinateurs">
+<!ENTITY aboutHome.recommendedAddons "Modules pour Firefox">
+<!ENTITY aboutHome.aboutMozilla "À propos de Mozilla">
+<!ENTITY aboutHome.openAllTabs "Tout ouvrir dans des onglets">

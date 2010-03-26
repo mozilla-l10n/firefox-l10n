@@ -1,17 +1,22 @@
-<!ENTITY prefsHeader.label                         "Préférences">
-<!ENTITY about.title                               "À propos de &brandShortName;">
-<!ENTITY about.button                              "Aller à la page">
-<!ENTITY content.title                             "Contenu">
-<!ENTITY showImages.title                          "Afficher les images">
-<!ENTITY enableJavaScript.title                    "Activer JavaScript">
-<!ENTITY enablePlugins.title                       "Activer les plugins">
-<!ENTITY privacy.title                             "Vie privée et confidentialité">
-<!ENTITY allowCookies.title                        "Autoriser les cookies">
-<!ENTITY clearPrivateData2.title                   "Effacer les données personnelles">
-<!ENTITY clearPrivateData.button                   "Effacer">
-<!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
+<!ENTITY prefsHeader.label "Préférences">
+<!ENTITY about.title "À propos de &brandShortName;">
+<!ENTITY about.button "Aller à la page">
+<!ENTITY content.title "Contenu">
+<!ENTITY showImages.title "Afficher les images">
+<!ENTITY enableJavaScript.title "Activer JavaScript">
+<!ENTITY enablePlugins.title "Activer les plugins">
+<!ENTITY privacy.title "Vie privée et confidentialité">
+<!ENTITY allowCookies.title "Autoriser les cookies">
+<!ENTITY clearPrivateData2.title "Effacer les données personnelles">
+<!ENTITY clearPrivateData.button "Effacer">
+<!ENTITY rememberPasswords.title "Enregistrer les mots de passe">
 
 <!ENTITY language.title "Langue">
 <!ENTITY language.auto "Détection automatique">
 <!ENTITY defaultBrowser.title "Navigateur par défaut">
 <!ENTITY defaultBrowser.description "Faire de &brandShortName; votre navigateur par défaut">
+<!ENTITY homepage.title "Page d'accueil">
+<!ENTITY homepage.none "Page vide">
+<!ENTITY homepage.default "Accueil de &brandShortName;">
+<!ENTITY homepage.currentpage "Page courante">
+<!ENTITY homepage.custom "Page personnalisée">
