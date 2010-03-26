@@ -45,9 +45,9 @@
 <!ENTITY folderCharsetTab.accesskey              "Z">
 <!ENTITY folderCharsetOverride.label             "Standard allen Nachrichten im Ordner zuweisen (individuelle Zeichenkodierung und autom. Bestimmung werden ignoriert)">
 <!ENTITY folderCharsetOverride.accesskey         "S">
-<!ENTITY folderRebuildSummaryFile.label          "Indexdatei neu erstellen">
+<!ENTITY folderRebuildSummaryFile.label          "Index neu erstellen">
 <!ENTITY folderRebuildSummaryFile.accesskey      "W">
-<!ENTITY folderRebuildSummaryFileTip.label       "Indexdatei neu erstellen">
+<!ENTITY folderRebuildSummaryFileTip.label       "Indexdatei (*.msf) neu erstellen">
 
 <!ENTITY retention.label "Speicherplatz">
 <!ENTITY retentionUseAccount.label "Einstellungen des Kontos verwenden">
