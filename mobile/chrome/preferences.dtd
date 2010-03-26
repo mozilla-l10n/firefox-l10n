@@ -14,3 +14,8 @@
 <!ENTITY language.auto "Автоопределение">
 <!ENTITY defaultBrowser.title "Браузер по умолчанию">
 <!ENTITY defaultBrowser.description "Установить &brandShortName; как ваш браузер по умолчанию">
+<!ENTITY homepage.title "Начальная страница">
+<!ENTITY homepage.none "Пустая">
+<!ENTITY homepage.default "Запуск &brandShortName;">
+<!ENTITY homepage.currentpage "Использовать текущую страницу">
+<!ENTITY homepage.custom "Другая страница">
