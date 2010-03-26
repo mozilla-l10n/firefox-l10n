@@ -68,8 +68,9 @@
 <!ENTITY newtodo.percentcomplete.label      "&#37; wykonania">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key               "E">
-<!ENTITY event.dialog.new.message.key             "M">
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
@@ -87,6 +88,8 @@
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Wydarzenie">
 <!ENTITY  event.menu.item.new.event.accesskey             "W">
+<!ENTITY  event.menu.item.new.task.label                  "Zadanie">
+<!ENTITY  event.menu.item.new.task.accesskey              "Z">
 <!ENTITY  event.menu.item.new.message.label               "Wiadomość">
 <!ENTITY  event.menu.item.new.message.accesskey           "m">
 <!ENTITY  event.menu.item.new.contact.label               "Wizytówka">
