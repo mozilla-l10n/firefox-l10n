@@ -366,6 +366,7 @@
 <!ENTITY event.attendee.role.required           "Uczestnik wymagany">
 <!ENTITY event.attendee.role.optional           "Uczestnik opcjonalny">
 <!ENTITY event.attendee.role.chair              "Przewodniczący">
+<!ENTITY event.attendee.role.nonparticipant     "Do wiadomości">
 
 <!-- Timezone dialog -->
 
