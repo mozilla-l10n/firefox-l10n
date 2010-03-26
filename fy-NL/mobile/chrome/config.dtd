@@ -1,5 +1,7 @@
 <!ENTITY empty.label            "Sykje">
-<!ENTITY newpref.label          "Foegje nij foarkar ta">
+<!ENTITY newpref.label          "Foegje nije foarkar ta">
+<!ENTITY addpref.name           "Namme">
+<!ENTITY addpref.value          "Wearde">
 
 <!ENTITY cancel.label           "Annulearje">
 <!ENTITY reset.label            "Tebeksette">
