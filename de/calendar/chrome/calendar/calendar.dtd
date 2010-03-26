@@ -88,12 +88,18 @@
 <!ENTITY calendar.month.button.tooltip        "Zur Monatsansicht wechseln">
 <!ENTITY calendar.multiweek.button.tooltip    "Zur mehrwöchigen Ansicht wechseln">
 
-<!ENTITY calendar.nextday.button.tooltip        "Nächster Tag">
-<!ENTITY calendar.prevday.button.tooltip        "Vorheriger Tag">
-<!ENTITY calendar.nextweek.button.tooltip       "Nächste Woche">
-<!ENTITY calendar.prevweek.button.tooltip       "Vorherige Woche">
-<!ENTITY calendar.nextmonth.button.tooltip      "Nächster Monat">
-<!ENTITY calendar.prevmonth.button.tooltip      "Vorheriger Monat">
+<!ENTITY calendar.nextday.label                 "Nächster Tag">
+<!ENTITY calendar.prevday.label                 "Vorheriger Tag">
+<!ENTITY calendar.nextday.accesskey             "N" >
+<!ENTITY calendar.prevday.accesskey             "V" >
+<!ENTITY calendar.nextweek.label                "Nächste Woche">
+<!ENTITY calendar.prevweek.label                "Vorherige Woche">
+<!ENTITY calendar.nextweek.accesskey            "N" >
+<!ENTITY calendar.prevweek.accesskey            "V" >
+<!ENTITY calendar.nextmonth.label               "Nächster Monat">
+<!ENTITY calendar.prevmonth.label               "Vorheriger Monat">
+<!ENTITY calendar.nextmonth.accesskey           "N" >
+<!ENTITY calendar.prevmonth.accesskey           "V" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Einen Tag vor">
 <!ENTITY calendar.navigation.prevday.tooltip    "Einen Tag zurück">
