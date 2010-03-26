@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, mits beschikbaar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Beveiligde authenticatie gebruiken">
-<!ENTITY useSecAuth.accesskey "d">
+<!ENTITY authMethod.label "Authenticatiemethode:">
+<!ENTITY authMethod.accesskey "d">
 <!ENTITY leaveOnServer.label "Berichten op de server laten">
 <!ENTITY leaveOnServer.accesskey "r">
 <!ENTITY headersOnly.label "Alleen berichtkoppen ophalen">
