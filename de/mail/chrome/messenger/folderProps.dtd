@@ -45,10 +45,10 @@
 <!ENTITY folderCharsetTab.accesskey              "Z">
 <!ENTITY folderCharsetOverride.label             "Standard allen Nachrichten im Ordner zuweisen (individuelle Zeichenkodierung und autom. Bestimmung werden ignoriert)">
 <!ENTITY folderCharsetOverride.accesskey         "S">
-<!ENTITY folderRebuildSummaryFile.label          "Index wiederherstellen">
+<!ENTITY folderRebuildSummaryFile.label          "Indexdatei neu erstellen">
 <!ENTITY folderRebuildSummaryFile.accesskey      "W">
-<!ENTITY folderRebuildSummaryFileTip.label       "Index-Datei wiederherstellen">
-     
+<!ENTITY folderRebuildSummaryFileTip.label       "Indexdatei neu erstellen">
+
 <!ENTITY retention.label "Speicherplatz">
 <!ENTITY retentionUseAccount.label "Einstellungen des Kontos verwenden">
 <!ENTITY retentionUseAccount.accesskey "E">
