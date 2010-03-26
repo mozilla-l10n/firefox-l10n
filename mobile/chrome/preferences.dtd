@@ -14,3 +14,8 @@
 <!ENTITY language.auto                             "Detectar automáticamente">
 <!ENTITY defaultBrowser.title                      "Navegador predeterminado">
 <!ENTITY defaultBrowser.description                "Hacer a  &brandShortName; su navegador predeterminado">
+<!ENTITY homepage.title                            "Página de inicio">
+<!ENTITY homepage.none                             "En blanco">
+<!ENTITY homepage.default                          "Inicio de &brandShortName;">
+<!ENTITY homepage.currentpage                      "Usar página actual">
+<!ENTITY homepage.custom                           "Página personalizada">
