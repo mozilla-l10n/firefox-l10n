@@ -209,6 +209,7 @@
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
      this is the ALT+D shortcut from IE -->
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Se rendre sur l'onglet :">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
