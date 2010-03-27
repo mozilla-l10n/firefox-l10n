@@ -102,8 +102,8 @@
 <!ENTITY redoCmd.accesskey            "W">
 <!ENTITY thisFrameMenu.label          "Aktueller Frame">
 <!ENTITY thisFrameMenu.accesskey      "A">
-<!ENTITY mediaPlay.label              "W">
-<!ENTITY mediaPlay.accesskey          "Wiedergabe">
+<!ENTITY mediaPlay.label              "Wiedergabe">
+<!ENTITY mediaPlay.accesskey          "W">
 <!ENTITY mediaPause.label             "Pause">
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Stumm schalten">
