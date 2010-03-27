@@ -46,11 +46,6 @@
 <!ENTITY calendar.calendar.label     "Agendas">
 <!ENTITY calendar.calendar.accesskey "A">
 
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
-
 <!ENTITY calendar.newevent.button.tooltip         "Créer un nouvel événement" >
 <!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 
@@ -93,12 +88,18 @@
 <!ENTITY calendar.month.button.tooltip        "Afficher le mois" >
 <!ENTITY calendar.multiweek.button.tooltip    "Afficher plusieurs semaines" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Jour suivant" >
-<!ENTITY calendar.prevday.button.tooltip        "Jour précédent" >
-<!ENTITY calendar.nextweek.button.tooltip       "Semaine suivante" >
-<!ENTITY calendar.prevweek.button.tooltip       "Semaine précédente" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Mois suivant" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Mois précédent" >
+<!ENTITY calendar.nextday.label                 "Jour suivant" >
+<!ENTITY calendar.prevday.label                 "Jour précédent" >
+<!ENTITY calendar.nextday.accesskey             "J" >
+<!ENTITY calendar.prevday.accesskey             "o" >
+<!ENTITY calendar.nextweek.label                "Semaine suivante" >
+<!ENTITY calendar.prevweek.label                "Semaine précédente" >
+<!ENTITY calendar.nextweek.accesskey            "S" >
+<!ENTITY calendar.prevweek.accesskey            "e" >
+<!ENTITY calendar.nextmonth.label               "Mois suivant" >
+<!ENTITY calendar.prevmonth.label               "Mois précédent" >
+<!ENTITY calendar.nextmonth.accesskey           "M" >
+<!ENTITY calendar.prevmonth.accesskey           "r" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Jour suivant" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Jour précédent" >
