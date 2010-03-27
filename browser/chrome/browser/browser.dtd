@@ -238,6 +238,7 @@
 <!ENTITY urlbar.history.emptyText     "Sök i historiken">
 <!ENTITY urlbar.none.emptyText        "Skriv in en webbadress">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Växla till fliken:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
