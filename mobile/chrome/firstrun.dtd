@@ -1,8 +1,13 @@
-<!ENTITY welcome.title "Bienvenue dans &brandShortName;">
-<!ENTITY intro.description "Synchronisez votre PC et votre téléphone portable avec Weave Sync. Personnalisez-le avec des modules complémentaires. Naviguez avec la barre intelligente, et bien plus encore.">
-<!ENTITY weave.title "Lancez-vous">
-<!ENTITY weave.description "Obtenez Weave Sync pour vous aider à transformer votre &brandShortName;. Partagez vos préférences, marque-pages, historique de navigation et bien plus encore entre votre ordinateur et votre téléphone portable.">
-<!ENTITY weave.linkLabel "Obtenir le module complémentaire Weave Sync">
-<!ENTITY getPersonal.title "Personnaliser">
-<!ENTITY getPersonal.description "&brandShortName; à votre image. Personnalisez le premier navigateur à offrir des modules complémentaires pour téléphone portable.">
-<!ENTITY getPersonal.linkLabel "Obtenir des modules complémentaires pour votre téléphone portable.">
+<!ENTITY firstrun.title "Bienvenue dans &brandShortName;">
+<!ENTITY firstrun.heading "Pour vous aider à démarrer, voici quelques-uns des modules complémentaires et fonctionnalités les plus populaires pour vous aider à tirer le maximum de &brandShortName;.">
+<!ENTITY firstrun.recommended "Recommandés :">
+<!ENTITY firstrun.weave.title "Obtenir Weave Sync">
+<!ENTITY firstrun.weave.description "Partagez votre historique de navigation, vos mots de passe, vos marque-pages, et vos onglets entre votre ordinateur et votre téléphone portable">
+<!ENTITY firstrun.starter.title "Obtenir la collection « kit de démarrage »">
+<!ENTITY firstrun.starter.description "Installez ces modules complémentaires recommandés pour améliorer votre expérience de &brandShortName;">
+<!ENTITY firstrun.tour.title "Visite guidée">
+<!ENTITY firstrun.tour.description "Regardez ce clip pour vous familiariser avec &brandShortName; et pour localiser les fonctionnalités utiles">
+<!ENTITY firstrun.features "Voir plus de fonctionnalités">
+<!ENTITY firstrun.faq "FAQ">
+<!ENTITY firstrun.privacy "Politique de confidentialité">
+<!ENTITY firstrun.follow "Suivez-nous sur :">
