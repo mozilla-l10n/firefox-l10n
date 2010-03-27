@@ -117,6 +117,7 @@
 <!ENTITY historyButton.tooltip "Mostrar páginas que se visitaron recientemente">
 <!ENTITY historySidebarCmd.accesskey "s">
 <!ENTITY historySidebarCmd.commandKey "h">
+<!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
 
 <!ENTITY toolsMenu.label "Herramientas">
 <!ENTITY toolsMenu.accesskey "t">
