@@ -1,6 +1,6 @@
 <!ENTITY aboutHome.start "Запуск">
 <!ENTITY aboutHome.recentTabs "Ваши вкладки открытые в прошлый раз">
 <!ENTITY aboutHome.remoteTabs "Вкладки с других ваших компьютеров">
-<!ENTITY aboutHome.recommendedAddons "Дополнения для вашего Firefox">
+<!ENTITY aboutHome.recommendedAddons2 "Дополнения для вашего &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla "О Mozilla">
 <!ENTITY aboutHome.openAllTabs "Открыть всё во вкладках">

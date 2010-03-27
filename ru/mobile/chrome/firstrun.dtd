@@ -1,8 +1,13 @@
-<!ENTITY welcome.title "Добро пожаловать в &brandShortName;">
-<!ENTITY intro.description "Синхронизируйте свой персональный и мобильный компьютеры при помощи Weave Sync. Настройте работу с помощью дополнений. Сёрфите, используя умную адресную строку, и многое, многое другое.">
-<!ENTITY weave.title "Встань и иди">
-<!ENTITY weave.description "Загрузите Weave Sync, чтобы достучаться до своего Firefox. Просматривайте и используйте свой журнал посещений, закладки, сохранённые пароли и вкладки, как с персонального, так и с мобильного компьютера.">
-<!ENTITY weave.linkLabel "Загрузить дополнение Weave Sync">
-<!ENTITY getPersonal.title "Найди свой стиль">
-<!ENTITY getPersonal.description "Сделайте &brandShortName; своим браузером. Настройте под себя первый браузер для мобильных устройств, предлагающий дополнения.">
-<!ENTITY getPersonal.linkLabel "Загрузить дополнения для своего мобильного">
+<!ENTITY firstrun.title "Добро пожаловать в &brandShortName;">
+<!ENTITY firstrun.heading "Чтобы помочь вам начать работу, здесь приведены некоторые из наиболее популярных возможностей и дополнений, которые помогут вам использовать &brandShortName; по максимуму.">
+<!ENTITY firstrun.recommended "Рекомендованные:">
+<!ENTITY firstrun.weave.title "Загрузите Weave Sync">
+<!ENTITY firstrun.weave.description "Используйте журнал посещений, пароли, закладки и вкладки вашего &brandShortName; как с настольного, так и с мобильного компьютера.">
+<!ENTITY firstrun.starter.title "Загрузите набор для начинающих">
+<!ENTITY firstrun.starter.description "Установите эти рекомендованные дополнения, чтобы улучшить вашу работу в &brandShortName;">
+<!ENTITY firstrun.tour.title "Совершите экскурсию">
+<!ENTITY firstrun.tour.description "Просмотрите этот клип, чтобы ознакомиться с тем, как всё работает, и найти интересные для вас возможности">
+<!ENTITY firstrun.features "Больше возможностей">
+<!ENTITY firstrun.faq "FAQ">
+<!ENTITY firstrun.privacy "Политика приватности">
+<!ENTITY firstrun.follow "Следуйте за нами на:">
