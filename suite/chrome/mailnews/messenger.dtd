@@ -130,9 +130,9 @@
 <!ENTITY deleteFolderCmd.label "Ordner löschen">
 <!ENTITY deleteFolderCmd.accesskey "O">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abbestellen">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "Auswählen">
-<!ENTITY selectMenu.accesskey "A">
+<!ENTITY selectMenu.accesskey "u">
 <!ENTITY selectThreadCmd.label "Thread">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
@@ -444,7 +444,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Nachrichten suchen…">
-<!ENTITY searchMailCmd.accesskey "N">
+<!ENTITY searchMailCmd.accesskey "s">
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "Adressen suchen…">
 <!ENTITY searchAddressesCmd.accesskey "A">
@@ -571,9 +571,9 @@
 <!ENTITY folderContextSendUnsentMessages.label "Ungesendete Nachrichten absenden">
 <!ENTITY folderContextSendUnsentMessages.accesskey "U">
 <!ENTITY folderContextUnsubscribe.label "Abbestellen">
-<!ENTITY folderContextUnsubscribe.accesskey "A">
+<!ENTITY folderContextUnsubscribe.accesskey "b">
 <!ENTITY folderContextMarkNewsgroupRead.label "Newsgroup als gelesen markieren">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "N">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "w">
 <!ENTITY folderContextMarkMailFolderRead.label "Ordner als gelesen markieren">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "O">
 <!ENTITY folderContextNew.label "Neuer Unterordner…">
@@ -581,7 +581,7 @@
 <!ENTITY folderContextSubscribe.label "Abonnieren…">
 <!ENTITY folderContextSubscribe.accesskey "A">
 <!ENTITY folderContextSearchMessages.label "Nachrichten suchen…">
-<!ENTITY folderContextSearchMessages.accesskey "N">
+<!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Eigenschaften…">
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextSettings.label "Einstellungen…">
@@ -589,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Betreff oder Adresse suchen">
+<!ENTITY searchSubjectOrAddress.placeholder "Search Subject or Address">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
 
