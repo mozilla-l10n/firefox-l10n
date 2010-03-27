@@ -165,6 +165,7 @@
 <!ENTITY urlbar.history.emptyText     "방문 기록 검색">
 <!ENTITY urlbar.none.emptyText        "웹 주소 입력">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "탭 전환:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
