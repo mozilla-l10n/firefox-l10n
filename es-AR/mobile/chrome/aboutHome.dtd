@@ -1,6 +1,6 @@
 <!ENTITY aboutHome.start                        "Inicio">
 <!ENTITY aboutHome.recentTabs                   "Las pestañas de la última vez">
 <!ENTITY aboutHome.remoteTabs                   "Pestañas de las otras computadoras">
-<!ENTITY aboutHome.recommendedAddons            "Agregados de Firefox">
+<!ENTITY aboutHome.recommendedAddons2           "Agregados de &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "Acerca de Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Abrir todos en pestañas">
