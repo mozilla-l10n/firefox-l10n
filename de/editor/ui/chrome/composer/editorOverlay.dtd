@@ -90,7 +90,7 @@
 <!ENTITY editMenu.label "Bearbeiten">
 <!ENTITY editMenu.accesskey "B">
 <!ENTITY pasteNoFormatting.label "Einfügen ohne Formatierung">
-<!ENTITY pasteNoFormatting.accesskey "m">
+<!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Einfügen als">
 <!ENTITY pasteAs.accesskey "a">
