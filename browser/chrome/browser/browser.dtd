@@ -208,6 +208,7 @@ shortcut keys on Linux. -->
 <!ENTITY urlbar.history.emptyText     "pesquisar histórico">
 <!ENTITY urlbar.none.emptyText        "Escreva um endereço web">
 <!ENTITY urlbar.accesskey "A">
+<!ENTITY urlbar.switchToTab.label     "Mudar para separador:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
