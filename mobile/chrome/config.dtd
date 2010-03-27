@@ -4,7 +4,7 @@
 <!ENTITY addpref.value "Valore">
 <!ENTITY cancel.label "Annulla">
 <!ENTITY reset.label "Reimposta">
-<!ENTITY done.label "Fatto">
+<!ENTITY done.label "Completato">
 <!ENTITY integer.label "Intero">
 <!ENTITY string.label "Stringa">
 <!ENTITY boolean.label "Booleano">
