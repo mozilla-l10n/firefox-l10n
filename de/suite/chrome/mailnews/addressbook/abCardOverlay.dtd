@@ -152,7 +152,7 @@
 <!ENTITY Custom4.label                  "Benutzerdef. 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Anmerkungen:">
-<!ENTITY Notes.accesskey                "o">
+<!ENTITY Notes.accesskey                "m">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
