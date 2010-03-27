@@ -170,6 +170,7 @@
 <!ENTITY urlbar.history.emptyText "Cerca nella cronologia">
 <!ENTITY urlbar.none.emptyText "Digitare un indirizzo web">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "Passa alla scheda:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
