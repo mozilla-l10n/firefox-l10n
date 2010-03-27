@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "nieuwe werkbalk gebruiken">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Modus Slimme mappen">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Modus samengevoegde mappen">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "De modus “slimme mappen” wordt gebruikt.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "De modus “samengevoegde mappen” wordt gebruikt">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "De modus “slimme mappen” wordt niet gebruikt.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "De modus “samengevoegde mappen” wordt niet gebruikt.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Voor gebruikers met meerdere accounts groepeert deze weergave mappen zoals het Postvak IN, zodat u een beter overzicht krijgt van al uw e-mail.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Als u liever informatie over meerdere accounts verdeelt, zal de modus “Alle mappen” u beter bevallen.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Voor gebruikers met meerdere accounts groepeert deze weergave mappen zoals het Postvak IN, zodat u een beter overzicht krijgt van al uw e-mail.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Als u liever informatie over meerdere accounts verdeelt, zal de modus “Alle mappen” u beter bevallen.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "modus “slimme mappen” gebruiken">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "modus “samengevoegde mappen” gebruiken">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
