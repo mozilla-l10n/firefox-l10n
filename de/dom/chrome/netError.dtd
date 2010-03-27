@@ -80,6 +80,9 @@
 <p>Diese Arten von Web-Fälschungen werden in Betrugsversuchen verwendet, die als &quot;Phishing-Attacken&quot; bekannt sind. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blockiert durch Inhaltsicherheitsrichtlinie (Content Security Policy)">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Laden dieser Seite in dieser Weise wurde vom Browser verhindert, weil sie eine Sicherheitsrichtlinie hat, die das nicht erlaubt.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
