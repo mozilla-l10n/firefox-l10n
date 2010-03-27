@@ -49,4 +49,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Användarnamn: ">
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet: ">
-<!ENTITY useSecureAuthentication.label   "Säker autentisering: ">
+<!ENTITY authMethod.label   "Autentiseringsmetod: ">

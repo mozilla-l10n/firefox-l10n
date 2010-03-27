@@ -11,12 +11,8 @@ $HOPCOPYRIGHT
 <!ENTITY serverDescription.accesskey "B">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Använd namn och lösenord">
-<!ENTITY alwaysUseUsername.accesskey "v">
 <!ENTITY userName.label "Användarnamn:">
 <!ENTITY userName.accesskey "A">
-<!ENTITY useSecAuth.label "Använd säker autentisering">
-<!ENTITY useSecAuth.accesskey "ä">
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Ingen">
@@ -25,3 +21,5 @@ $HOPCOPYRIGHT
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server för utgående e-post (SMTP)">
 <!ENTITY serverPortDefault.label "Standard:">
+<!ENTITY authMethod.label "Autentiseringmetod:">
+<!ENTITY authMethod.accesskey "i">
