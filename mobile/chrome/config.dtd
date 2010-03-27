@@ -1,0 +1,10 @@
+<!ENTITY empty.label "Buscador">
+<!ENTITY newpref.label "Añadir una nueva Preferencia">
+<!ENTITY addpref.name "Nombre">
+<!ENTITY addpref.value "Valor">
+<!ENTITY cancel.label "Cancelar">
+<!ENTITY reset.label "Restablecer">
+<!ENTITY done.label "Terminado">
+<!ENTITY integer.label "Entero">
+<!ENTITY string.label "Cadena">
+<!ENTITY boolean.label "Booleano">
