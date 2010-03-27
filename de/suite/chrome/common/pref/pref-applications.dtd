@@ -7,4 +7,4 @@
 <!ENTITY actionColumn2.label     "Aktion">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY search.emptytext        "Typen und Aktionen durchsuchen">
+<!ENTITY search.placeholder      "Typen und Aktionen durchsuchen">

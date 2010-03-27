@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, wenn verfügbar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Sichere Authentifikation verwenden">
-<!ENTITY useSecAuth.accesskey "S">
+<!ENTITY authMethod.label "Authentifizierungsmethode:">
+<!ENTITY authMethod.accesskey "u">
 <!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
 <!ENTITY leaveOnServer.accesskey "N">
 <!ENTITY headersOnly.label "Nur Kopfzeilen holen">

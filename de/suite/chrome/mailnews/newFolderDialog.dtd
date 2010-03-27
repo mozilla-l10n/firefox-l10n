@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label   "Der neue Ordner darf Folgendes enthalten:">
 <!ENTITY foldersOnly.label          "Nur Ordner">
 <!ENTITY messagesOnly.label         "Nur Nachrichten">
+<!ENTITY accept.label               "Ordner erstellen">
+<!ENTITY accept.accesskey           "O">

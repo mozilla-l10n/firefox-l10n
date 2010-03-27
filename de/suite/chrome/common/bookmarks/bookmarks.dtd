@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Lesezeichen-Manager">
 
-<!ENTITY search.emptytext               "Lesezeichen durchsuchen">
+<!ENTITY search.placeholder             "Lesezeichen durchsuchen">
 <!ENTITY search.key                     "f">

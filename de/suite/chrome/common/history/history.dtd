@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip                "Menüleiste">
 <!ENTITY searchBar.tooltip              "Suchleiste">
 
-<!ENTITY search.emptytext               "History durchsuchen">
+<!ENTITY search.placeholder             "History durchsuchen">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Ansicht">
 

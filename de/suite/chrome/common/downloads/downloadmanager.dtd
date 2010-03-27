@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Menüleiste">
 <!ENTITY searchBar.tooltip               "Suchleiste">
 
-<!ENTITY search.emptytext                "Downloads durchsuchen">
+<!ENTITY search.placeholder              "Downloads durchsuchen">
 <!ENTITY search.label                    "Downloads durchsuchen">
 <!ENTITY search.accesskey                "D">
 <!ENTITY search.key                      "f">
