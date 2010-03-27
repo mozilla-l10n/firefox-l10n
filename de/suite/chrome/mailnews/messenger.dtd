@@ -105,12 +105,12 @@
 <!ENTITY downloadSelectedCmd.label "Gewählte Nachrichten abrufen">
 <!ENTITY downloadSelectedCmd.accesskey "G">
 <!ENTITY downloadFlaggedCmd.label "Gekennzeichnete Nachrichten abrufen">
-<!ENTITY downloadFlaggedCmd.accesskey "G">
+<!ENTITY downloadFlaggedCmd.accesskey "z">
 <!ENTITY printCmd.label "Drucken…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Druckvorschau">
-<!ENTITY printPreviewCmd.accesskey "D">
+<!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printSetupCmd.label "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey "S">
 
@@ -120,7 +120,7 @@
 <!ENTITY undeleteMsgCmd.label "Löschen der Nachricht aufheben">
 <!ENTITY undeleteMsgCmd.accesskey "L">
 <!ENTITY cancelNewsMsgCmd.label "Nachricht annullieren">
-<!ENTITY cancelNewsMsgCmd.accesskey "N">
+<!ENTITY cancelNewsMsgCmd.accesskey "h">
 <!ENTITY deleteMsgsCmd.label "ausgewählte Nachrichten löschen">
 <!ENTITY deleteMsgsCmd.accesskey "a">
 <!ENTITY undeleteMsgsCmd.label "Löschen der gewählten Nachrichten aufheben">
@@ -339,14 +339,14 @@
 <!ENTITY replySenderCmd.label "Antwort nur an Absender">
 <!ENTITY replySenderCmd.accesskey "A">
 <!ENTITY replyNewsgroupCmd.label "Antwort an Newsgroup">
-<!ENTITY replyNewsgroupCmd.accesskey	"A">
+<!ENTITY replyNewsgroupCmd.accesskey	"n">
 <!ENTITY replyToAllMsgCmd.label "Antwort an alle">
-<!ENTITY replyToAllMsgCmd.accesskey	"A">
+<!ENTITY replyToAllMsgCmd.accesskey	"o">
 <!ENTITY replyToAllMsgCmd.key	"r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Antwort an Absender und Newsgroup">
-<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "A">
-<!ENTITY replyToAllRecipientsCmd.label "Antwort an alle Absender">
-<!ENTITY replyToAllRecipientsCmd.accesskey "A">
+<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "o">
+<!ENTITY replyToAllRecipientsCmd.label "Antwort an alle Empfänger">
+<!ENTITY replyToAllRecipientsCmd.accesskey "E">
 <!ENTITY forwardMsgCmd.label "Weiterleiten">
 <!ENTITY forwardMsgCmd.accesskey "W">
 <!ENTITY forwardMsgCmd.key	"l">
@@ -362,7 +362,7 @@
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY archiveMsgCmd.label "Archivieren">
-<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.accesskey "c">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Verschieben in">
 <!ENTITY moveMsgToMenu.accesskey "V">
@@ -386,7 +386,7 @@
 <!ENTITY copyHereMenu.label "hierher kopieren">
 <!ENTITY copyHereMenu.accesskey "h">
 <!ENTITY tagMenu.label "Tag">
-<!ENTITY tagMenu.accesskey "T">
+<!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCustomize.label "Anpassen…">
 <!ENTITY tagCustomize.accesskey "A">
 <!ENTITY tagCmd0.key "0">
@@ -519,19 +519,19 @@
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "In neuem Fenster öffnen">
-<!ENTITY contextOpenNewWindow.accesskey "I">
+<!ENTITY contextOpenNewWindow.accesskey "F">
 <!ENTITY contextOpenNewTab.label "Nachricht in neuem Tab öffnen">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten…">
-<!ENTITY contextEditAsNew.accesskey "A">
+<!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextReplySender.label "Antwort nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyNewsgroup.label "Antwort an Newsgroup">
-<!ENTITY contextReplyNewsgroup.accesskey "A">
+<!ENTITY contextReplyNewsgroup.accesskey "N">
 <!ENTITY contextReplyAll.label "Antwort an alle">
-<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyAll.accesskey "o">
 <!ENTITY contextReplySenderAndNewsgroup.label "Antwort an Absender und Newsgroup">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "A">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "b">
 <!ENTITY contextForward.label "Weiterleiten">
 <!ENTITY contextForward.accesskey "W">
 <!ENTITY contextForwardAsAttachment.label "Als Attachment weiterleiten">
@@ -555,7 +555,7 @@
 <!ENTITY folderContextGetMessages.label "Nachrichten für Account abrufen">
 <!ENTITY folderContextGetMessages.accesskey "N">
 <!ENTITY folderContextOpenNewWindow.label "In neuem Mail-Fenster öffnen">
-<!ENTITY folderContextOpenNewWindow.accesskey "I">
+<!ENTITY folderContextOpenNewWindow.accesskey "F">
 <!ENTITY folderContextOpenNewTab.label "In neuem Tab öffnen">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "Umbenennen">
