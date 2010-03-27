@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins                  "Eingebaute CAs">
 <!ENTITY certmgr.ca.mycas                     "Von Ihnen verwaltete CAs">
 
-<!ENTITY certmgr.mine                         "Sie haben Zertifikate dieser Organisationen, die Sie identifizieren:">
-<!ENTITY certmgr.others                       "Sie haben gespeicherte Zertifikate, die diese Personen identifizieren:">
-<!ENTITY certmgr.websites2                    "Sie haben gespeicherte Zertifikate, die diese Server identifizieren:">
-<!ENTITY certmgr.cas                          "Sie haben gespeicherte Zertifikate, die diese Zertifizierungsstellen identifizieren:">
-<!ENTITY certmgr.orphans                      "Sie haben Zertifikate gespeichert, die in keine der übrigen Kategorien passen:">
+<!ENTITY certmgr.mine.search                  "Suchen:">
+<!ENTITY certmgr.others.search                "Suchen:">
+<!ENTITY certmgr.websites.search              "Suchen:">
+<!ENTITY certmgr.cas.search                   "Suchen:">
+<!ENTITY certmgr.orphans.search               "Suchen:">
+
+<!ENTITY certmgr.mine.description             "Sie haben Zertifikate dieser Organisationen, die Sie identifizieren:">
+<!ENTITY certmgr.others.description           "Sie haben gespeicherte Zertifikate, die diese Personen identifizieren:">
+<!ENTITY certmgr.websites.description         "Sie haben gespeicherte Zertifikate, die diese Server identifizieren:">
+<!ENTITY certmgr.cas.description              "Sie haben gespeicherte Zertifikate, die diese Zertifizierungsstellen identifizieren:">
+<!ENTITY certmgr.orphans.description          "Sie haben Zertifikate gespeichert, die in keine der übrigen Kategorien passen:">
+
+<!ENTITY certmgr.mine.filtered                "Übereinstimmende Zertifikate dieser Organisationen, die Sie identifizieren:">
+<!ENTITY certmgr.others.filtered              "Übereinstimmende gespeicherte Zertifikate, die diese Personen identifizieren:">
+<!ENTITY certmgr.websites.filtered            "Übereinstimmende gespeicherte Zertifikate, die diese Server identifizieren:">
+<!ENTITY certmgr.cas.filtered                 "Übereinstimmende gespeicherte Zertifikate, die diese Zertifizierungsstellen identifizieren:">
+<!ENTITY certmgr.orphans.filtered             "Übereinstimmende gespeicherte Zertifikate, die in keine der übrigen Kategorien passen:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Allgemein">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
