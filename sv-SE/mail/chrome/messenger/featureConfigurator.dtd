@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "använd det nya verktygsfältet">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Läget ”smarta mappar”">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Läget ”sammanförda mappar”">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Använder läget ”smarta mappar”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Använder läget ”sammanförda mappar”.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Använder inte läget ”smarta mappar”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Använder inte läget ”sammanförda mappar”.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "För användare med många konton kan den här vyn gruppera mappar som inkorgar tillsammans så att du får en samlad bild av din e-post.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Om du hellre vill dela upp information mellan konton föredrar du nog läget ”Alla mappar”.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "För användare med många konton kan den här vyn gruppera mappar som inkorgar tillsammans så att du får en samlad bild av din e-post.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Om du hellre vill dela upp information mellan konton föredrar du nog läget ”Alla mappar”.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "använd läget ”smarta mappar”">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "använd läget ”sammanförda mappar”">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
