@@ -2,15 +2,8 @@
 
 <!ENTITY  pref.history.caption              "Browse-History">
 <!ENTITY  historyPages.label                "History ist eine Liste von zuvor besuchten Seiten.">
-<!ENTITY  expireDaysMin1.label              "Besuchte Seiten immer für zumindest">
-<!ENTITY  expireDaysMin1.accesskey          "B">
-<!ENTITY  expireDaysMin2.label              "Tage speichern">
-<!ENTITY  expireDays1.label                 "Besuchte Seiten für bis zu">
-<!ENTITY  expireDays1.accesskey             "e">
-<!ENTITY  expireDays2.label                 "Tage speichern">
-<!ENTITY  expireSites1.label                "Bis zu">
-<!ENTITY  expireSites1.accesskey            "s">
-<!ENTITY  expireSites2.label                "besuchte Seiten speichern">
+<!ENTITY  enableHistory.label               "Besuchte Seiten speichern">
+<!ENTITY  enableHistory.accesskey           "B">
 <!ENTITY  clearHistory.label                "History löschen">
 <!ENTITY  clearHistory.accesskey            "o">
 

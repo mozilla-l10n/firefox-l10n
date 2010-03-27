@@ -11,7 +11,7 @@
 <!ENTITY     button.removeallcookies.label  "Alle Cookies löschen">
 <!ENTITY     button.removeallcookies.accesskey "o">
 
-<!ENTITY     search.emptytext               "Cookies durchsuchen">
+<!ENTITY     search.placeholder             "Cookies durchsuchen">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">

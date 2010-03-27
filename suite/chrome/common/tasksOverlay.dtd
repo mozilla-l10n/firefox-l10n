@@ -7,9 +7,6 @@
 <!ENTITY editorCmd.accesskey				"C">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY javaConsoleCmd.label					"Java-Konsole">
-<!ENTITY javaConsoleCmd.accesskey				"J">
-
 <!ENTITY errorConsoleCmd.label                                  "Fehler-Konsole">
 <!ENTITY errorConsoleCmd.accesskey				"K">
 <!ENTITY errorConsoleCmd.commandkey				"j">

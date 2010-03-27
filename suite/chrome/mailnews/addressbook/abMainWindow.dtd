@@ -116,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey                     "L">
 <!ENTITY newimButton.label                              "Instant-Nachricht">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY searchNameAndEmail.emptytext                   "Name und E-Mail durchsuchen">
+<!ENTITY searchNameAndEmail.placeholder                 "Name und E-Mail durchsuchen">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressbuch-Symbolleiste">

@@ -4,7 +4,7 @@
 <!ENTITY enableSU.label                       "Installation von Erweiterungen und Updates von Webseiten erlauben">
 <!ENTITY enableSU.accesskey                   "I">
 <!ENTITY allowedSites.label                   "Erlaubte Websites">
-<!ENTITY allowedSites.accesskey               "E">
+<!ENTITY allowedSites.accesskey               "b">
 
 <!ENTITY verifyUpdates.caption                "Updates">
 <!ENTITY autoUpdates.label                    "Automatisch auf Updates überprüfen für:">
@@ -20,3 +20,13 @@
 <!ENTITY extensionsWeekly.accesskey           "h">
 <!ENTITY addonManagerButton.label             "Add-on-Manager">
 <!ENTITY addonManagerButton.accesskey         "A">
+
+<!ENTITY whenUpdatesFound.label               "Wenn Updates für &brandShortName; gefunden werden">
+<!ENTITY askMe.label                          "Fragen, was getan werden soll">
+<!ENTITY askMe.accesskey                      "F">
+<!ENTITY modeAutomatic.label                  "Das Update automatisch herunterladen und installieren">
+<!ENTITY modeAutomatic.accesskey              "U">
+<!ENTITY modeAutoAddonWarn.label              "Warnen, wenn dies installiere Add-ons deaktiviert">
+<!ENTITY modeAutoAddonWarn.accesskey          "w">
+<!ENTITY updateHistory.label                  "Update-Chronik anzeigen">
+<!ENTITY updateHistory.accesskey              "d">
