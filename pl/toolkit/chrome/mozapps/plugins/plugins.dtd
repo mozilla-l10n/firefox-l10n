@@ -30,15 +30,11 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Odśwież stronę">
 <!ENTITY reloadPlugin.post                                   ", aby spróbować ponownie.">
-<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
-<!ENTITY submittedCrashReport.pre                            "Przesłano ">
-<!ENTITY submittedCrashReport.middle                         "zgłoszenie awarii">
-<!ENTITY submittedCrashReport.post                           ".">
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
-<!ENTITY notSubmittedCrashReport.pre                         "Użytkownik wyłączył przesyłanie">
-<!ENTITY notSubmittedCrashReport.middle                      "zgłoszeń awarii">
-<!ENTITY notSubmittedCrashReport.post                        ".">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Wyślij zgłoszenie awarii">
+<!ENTITY report.submitting                                   "Wysyłanie zgłoszenia…">
+<!ENTITY report.submitted                                    "Wysłano zgłoszenie awarii.">
+<!ENTITY report.disabled                                     "Zgłaszanie awarii wyłączone.">
+<!ENTITY report.failed                                       "Przesłanie się nie powiodło.">
+<!ENTITY report.unavailable                                  "Brak dostępnych zgłoszeń.">
+
