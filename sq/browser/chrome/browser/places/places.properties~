@@ -24,7 +24,8 @@ deleteDomainNoSelection=Fshi përkatësinë
 load-js-data-url-error=Për arsye sigurie, javascript apo url-ë të dhënash nuk mund të ngarkohen prej dritares apo anështyllës së historikut.
 noTitle=(pa titull)
 
-
+bookmarksMenuName=Menu Faqerojtësish
+bookmarksToolbarName=Panel Faqerojtësish
 bookmarksMenuEmptyFolder=(Bosh)
 
 # LOCALIZATION NOTE (bookmarksBackupFilename) :
@@ -43,7 +44,20 @@ headerTextPrefix1=Po shfaqet
 headerTextPrefix2=Kërko në Përfundime për
 headerTextPrefix3=Kërkim i Mëtejshëm
 
+lessCriteria.label=-
+moreCriteria.label=+
+
 menuOpenLivemarkOrigin.label=Hap "%S"
+
+defaultGroupOnLabel=Grupoji sipas "Site"-esh
+defaultGroupOnAccesskey=S
+defaultGroupOffLabel=Pa Grupim
+defaultGroupOffAccesskey=P
+
+livemarkGroupOnLabel=Grupoji Sipas Prurjesh
+livemarkGroupOnAccesskey=U
+livemarkGroupOffLabel=Pa Grupim
+livemarkGroupOffAccesskey=P
 
 livemarkReload=Ringarko
 livemarkReloadAll=Ringarko Tërë Faqerojtësit e Gjallë

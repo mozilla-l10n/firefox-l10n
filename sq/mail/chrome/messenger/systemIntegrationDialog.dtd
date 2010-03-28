@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Integrim me Sistemin">
+<!ENTITY defaultClient.intro  "Përdor &brandShortName;-in si klient parazgjedhje për:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Grupe Lajmesh">
+<!ENTITY feeds.label "Prurje">
+
+<!ENTITY checkOnStartup.label "Kryeje përherë këtë kontroll kur niset &brandShortName;-i">
+<!ENTITY checkOnStartup.accesskey "K">
+
+<!ENTITY searchIntegration.label "Lejo &searchIntegration.engineName;-in të kërkojë në mesazhe">
+<!ENTITY searchIntegration.accesskey "L">
