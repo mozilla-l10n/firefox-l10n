@@ -50,12 +50,24 @@
 <!ENTITY certmgr.ca.builtins 				"Wbudowane organy">
 <!ENTITY certmgr.ca.mycas 				"Organy zarządzane przez użytkownika">
 
-<!ENTITY certmgr.mine 					"Posiadasz certyfikaty z następujących organizacji, które identyfikują użytkownika:">
-<!ENTITY certmgr.others 				"Posiadasz certyfikaty, które identyfikują następujące osoby:">
-<!ENTITY certmgr.websites2 				"Posiadasz certyfikaty, które identyfikują następujące serwery:">
-<!ENTITY certmgr.cas 					"Posiadasz certyfikaty, które identyfikują następujące organy certyfikacji:">
+<!ENTITY certmgr.mine.search                  "Szukaj:">
+<!ENTITY certmgr.others.search                "Szukaj:">
+<!ENTITY certmgr.websites.search              "Szukaj:">
+<!ENTITY certmgr.cas.search                   "Szukaj:">
+<!ENTITY certmgr.orphans.search               "Szukaj:">
 
-<!ENTITY certmgr.orphans                      		"Posiadasz certyfikaty, które nie pasują do innych kategorii:">
+<!ENTITY certmgr.mine.description			"Posiadasz certyfikaty z tych organizacji, identyfikujące użytkownika:">
+<!ENTITY certmgr.others.description 			"Posiadasz certyfikaty, identyfikujące następujące osoby:">
+<!ENTITY certmgr.websites2.description 			"Posiadasz certyfikaty, identyfikujące następujące serwery:">
+<!ENTITY certmgr.cas.description 			"Posiadasz certyfikaty, identyfikujące następujące organy certyfikacji:">
+<!ENTITY certmgr.orphans.description           		"Posiadasz certyfikaty, nieprzystające do innych kategorii:">
+
+<!ENTITY certmgr.mine.filtered		  	        "Odnalezione certyfikaty z tych organizacji, identyfikujące użytkownika:">
+<!ENTITY certmgr.others.filtered 		        "Odnalezione certyfikaty identyfikujące następujące osoby:">
+<!ENTITY certmgr.websites2.filtered 		        "Odnalezione certyfikaty identyfikujące następujące serwery:">
+<!ENTITY certmgr.cas.filtered 			        "Odnalezione certyfikaty identyfikujące następujące organy certyfikacji:">
+<!ENTITY certmgr.orphans.filtered          	        "Odnalezione certyfikaty nieprzystające do innych kategorii:">
+
 
 <!ENTITY certmgr.detail.general_tab.title 		"Ogólne">
 <!ENTITY certmgr.detail.general_tab.accesskey 		"O">
