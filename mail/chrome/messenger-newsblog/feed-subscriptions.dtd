@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Regjistrime RSS">
+<!ENTITY feedSubscriptions.label "Pajtime Në Prurje">
 <!ENTITY subscriptionDesc.label "Shënim: Heqja apo ndryshimi i dosjes për prurjet nuk do të prekë artikuj të shkarkuar më parë.">
 <!ENTITY feedTitle.label "Titull:">
 <!ENTITY location.label  "Vendndodhje:">

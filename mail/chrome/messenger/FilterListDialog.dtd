@@ -2,15 +2,15 @@
 <!ENTITY nameColumn.label "Emër Filtri">
 <!ENTITY activeColumn.label "Veprues">
 <!ENTITY newButton.label "I ri…">
-<!ENTITY newButton.accesskey "r">
-<!ENTITY editButton.label "Përpunoni…">
+<!ENTITY newButton.accesskey "i">
+<!ENTITY editButton.label "Përpunojeni…">
 <!ENTITY editButton.accesskey "P">
 <!ENTITY deleteButton.label "Fshije">
-<!ENTITY deleteButton.accesskey "f">
-<!ENTITY reorderUpButton.label "Ngjitu">
-<!ENTITY reorderUpButton.accesskey "n">
-<!ENTITY reorderDownButton.label "Zbrit">
-<!ENTITY reorderDownButton.accesskey "z">
+<!ENTITY deleteButton.accesskey "j">
+<!ENTITY reorderUpButton.label "Sipër">
+<!ENTITY reorderUpButton.accesskey "S">
+<!ENTITY reorderDownButton.label "Poshtë">
+<!ENTITY reorderDownButton.accesskey "o">
 <!ENTITY filterHeader.label "Filtrat veprues punojnë vetvetiu në radhën e treguar më poshtë.">
 <!ENTITY filtersForPrefix.label "Filtra për:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -20,10 +20,10 @@
 <!ENTITY runFilters.accesskey "V">
 <!ENTITY stopFilters.label "Ndale">
 <!ENTITY stopFilters.accesskey "N">
-<!ENTITY folderPickerPrefix.label "Vër në punë filtrin(at) e përzgjedhur në:">
+<!ENTITY folderPickerPrefix.label "Filtrin(at) e përzgjedhur vëre në punë mbi:">
 <!ENTITY folderPickerPrefix.accesskey "u">
 <!ENTITY choosethis.label "zgjidhni këtë dosje">
 <!ENTITY choosethisnewsserver.label "zgjidhni këtë shërbyes lajmesh">
 <!ENTITY helpButton.label "Ndihmë">
-<!ENTITY helpButton.accesskey "N">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY helpButton.accesskey "d">
+<!ENTITY closeCmd.key "W">

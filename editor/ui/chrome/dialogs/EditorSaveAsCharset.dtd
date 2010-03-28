@@ -40,11 +40,8 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Ruaj Dhe Ndrysho Kodim Gërmash">
+<!ENTITY windowTitle.label "Ruaje dhe Ndryshoji Kodimin e Shkronjave">
 <!ENTITY documentTitleTitle.label "Titull Faqeje">
-<!ENTITY documentCharsetTitle.label "Kodim Gërmash">
-<!ENTITY documentCharsetDesc.label "Përzgjidhni kodim gërmash nën të cilin doni të ruhet një dokument:">
-<!ENTITY documentExportToText.label "Eksporto si Tekst">
-
-
-
+<!ENTITY documentCharsetTitle.label "Kodim Shkronjash">
+<!ENTITY documentCharsetDesc.label "Përzgjidhni kodim shkronjash nën të cilin doni të ruhet një dokument:">
+<!ENTITY documentExportToText.label "Eksportoje si Tekst">

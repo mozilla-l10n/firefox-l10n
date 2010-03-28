@@ -34,9 +34,9 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinale">
 
 <!ENTITY language.accesskey "g">
-<!ENTITY language.label "Gërma për:">
+<!ENTITY language.label "Shkronja për:">
 <!ENTITY minSize.accesskey "v">
-<!ENTITY minSize.label "Madhësi gërmash më e vogël: ">
+<!ENTITY minSize.label "Madhësi shkronjash më e vogël: ">
 <!ENTITY minSize.none "Asnjë">
 <!ENTITY monospace.accesskey "m">
 <!ENTITY monospace.label "Monospace:">
@@ -52,12 +52,12 @@
 <!ENTITY serif.label "Serif:">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 <!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY languages.customize.Charset.grouplabel         "Kodim Gërmash">
-<!ENTITY languages.customize.DefaultCharset.label       "Kodim Parazgjedhje Gërmash:">
+<!ENTITY languages.customize.Charset.grouplabel         "Kodim Shkronjash">
+<!ENTITY languages.customize.DefaultCharset.label       "Kodim Parazgjedhje Shkronjash:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "K">
-<!ENTITY  fontsDialog.title                       "Gërma">
+<!ENTITY  fontsDialog.title                       "Shkronja">
 <!ENTITY  window.width                            "47em">
 <!ENTITY  window.macWidth                         "47em">
 <!ENTITY  window.unixWidth                        "47em">
-<!ENTITY  allowPagesToUse.label                   "Lejo faqe të përdorin gërma të vetat, në vend të përzgjedhjeve të mia më sipër">
+<!ENTITY  allowPagesToUse.label                   "Lejo faqe të përdorin shkronja të vetat, në vend të përzgjedhjeve të mia më sipër">
 <!ENTITY  allowPagesToUse.accesskey               "L">

@@ -2,10 +2,12 @@
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Dosje e Re">
 <!ENTITY name.label                 "Emër:">
-<!ENTITY name.accesskey             "e">
+<!ENTITY name.accesskey             "E">
 <!ENTITY description.label          "Krijoje si nëndosje të:">
-<!ENTITY description.accesskey      "n">
+<!ENTITY description.accesskey      "K">
 <!ENTITY folderRestriction1.label   "Ky shërbyes i kufizon dosjet në dy lloje të veçantë.">
 <!ENTITY folderRestriction2.label   "Lejoni dosjen tuaj të re të përmbajë:">
 <!ENTITY foldersOnly.label          "Vetëm Dosje">
 <!ENTITY messagesOnly.label         "Vetëm Mesazhe">
+<!ENTITY accept.label               "Krijo Dosje">
+<!ENTITY accept.accesskey           "D">

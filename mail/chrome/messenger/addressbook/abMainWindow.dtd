@@ -1,17 +1,10 @@
-
-
-
-
-
-
-
 <!ENTITY addressbookWindow.title                        "Libër Vendndodhjesh">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Kartelë">
 <!ENTITY fileMenu.accesskey                             "k">
 <!ENTITY newMenu.label                                  "E re">
-<!ENTITY newMenu.accesskey                              "r">
+<!ENTITY newMenu.accesskey                              "E">
 <!ENTITY newListCmd.label                               "Listë Postimesh…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "P">
@@ -22,7 +15,7 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Mesazh">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "m">
+<!ENTITY newMessageCmd.accesskey                        "s">
 <!ENTITY closeCmd.label                                 "Mbylle">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "M">
@@ -35,75 +28,75 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Përpunim">
-<!ENTITY editMenu.accesskey                             "p">
+<!ENTITY editMenu.accesskey                             "P">
 <!ENTITY undoCmd.label                                  "Zhbëje">
-<!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
+<!ENTITY undoCmd.key                                    "u">
+<!ENTITY undoCmd.accesskey                              "Z">
 <!ENTITY redoCmd.label                                  "Ribëje">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
+<!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Prije">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "p">
+<!ENTITY cutCmd.accesskey                               "P">
 <!ENTITY copyCmd.label                                  "Kopjoje">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "k">
+<!ENTITY copyCmd.accesskey                              "K">
 <!ENTITY pasteCmd.label                                 "Ngjite">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "n">
+<!ENTITY pasteCmd.accesskey                             "N">
 <!ENTITY deleteCmd.label                                "Fshije">
-<!ENTITY deleteCmd.accesskey                            "f">
+<!ENTITY deleteCmd.accesskey                            "F">
 <!ENTITY deleteAbCmd.label                              "Fshi Libër Vendndodhjesh">
-<!ENTITY selectAllCmd.label                             "Përzgjidhi të Tëra">
-<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY selectAllCmd.label                             "Përzgjidhe Krejt">
+<!ENTITY selectAllCmd.key                               "j">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "t">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Këmbe Emër/Mbiemër">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "k">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label                            "Veti…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.accesskey                        "V">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "Shihni">
+<!ENTITY viewMenu.label                                 "Shfaqje">
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Panele">
 <!ENTITY viewToolbarsMenu.accesskey                     "P"> 
 <!ENTITY showAbToolbarCmd.label                         "Panel Libri Vendndodhjesh">
-<!ENTITY showAbToolbarCmd.accesskey                     "l">
+<!ENTITY showAbToolbarCmd.accesskey                     "L">
 
 <!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje e Kontaktit">
-<!ENTITY printPreviewContactCmd.accesskey               "p">
+<!ENTITY printPreviewContactCmd.accesskey               "a">
 <!ENTITY showContactPane.label                          "Kuadrat Përmbledhjeje Kontakti">
 <!ENTITY showContactPane.accesskey                      "K">
 
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
-<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY showTaskbarCmd.accesskey                       "G">
 <!ENTITY customizeToolbar.label                         "Përshtasni…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY menu_ShowNameAs.label                          "Shfaq Emër Si">
 <!ENTITY menu_ShowNameAs.accesskey                      "f"> 
 <!ENTITY firstLastCmd.label                             "Emër, Mbiemër">
-<!ENTITY firstLastCmd.accesskey                         "e"> 
+<!ENTITY firstLastCmd.accesskey                         "E"> 
 <!ENTITY lastFirstCmd.label                             "Mbiemër, Emër">
-<!ENTITY lastFirstCmd.accesskey                         "m">
+<!ENTITY lastFirstCmd.accesskey                         "M">
 <!ENTITY displayNameCmd.label                           "Emër i Shfaqur">
 <!ENTITY displayNameCmd.accesskey                       "a">
 <!ENTITY sortMenu.label                                 "Renditi sipas">
-<!ENTITY sortMenu.accesskey                             "S">
+<!ENTITY sortMenu.accesskey                             "R">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Mjete">
 <!ENTITY tasksMenu.accesskey                            "M">
 <!ENTITY messengerCmd.label                             "Postë &amp; Grupe Lajmesh">
-<!ENTITY messengerCmd.accesskey                         "p">
+<!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Kërko te Vendndodhjet…">
-<!ENTITY searchAddressesCmd.accesskey                   "k">
+<!ENTITY searchAddressesCmd.accesskey                   "K">
 <!ENTITY importCmd.label                                "Importo…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksporto…">
@@ -117,18 +110,18 @@
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newlistButton.label                            "Listë e Re">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY newmsgButton.label                             "Shkruaj">
+<!ENTITY newmsgButton.label                             "Shkruani">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Mesazh i Atypëratyshëm">
 <!ENTITY newIM.accesskey                                "y">
-<!ENTITY deleteButton2.label                             "Fshije">
-<!ENTITY deleteButton2.accesskey                         "F">
+<!ENTITY deleteButton2.label                            "Fshije">
+<!ENTITY deleteButton2.accesskey                        "F">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newlistButton.tooltip                          "Krijoni një listë të re">
-<!ENTITY newmsgButton.tooltip                           "Dërgo një mesazh poste">
-<!ENTITY newIM.tooltip                                  "Dërgo një mesazh të atypëratyshëm ose fjalosu">
-<!ENTITY deleteButton2.tooltip                           "Fshije objektin e përzgjedhur">
+<!ENTITY newmsgButton.tooltip                           "Dërgojini një mesazh poste">
+<!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
+<!ENTITY deleteButton2.tooltip                          "Fshije objektin e përzgjedhur">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Libra Vendndodhjesh">
@@ -145,38 +138,38 @@
 <!ENTITY quickSearchCmd.key                             "k">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label                            "Emër">
+<!ENTITY GeneratedName.label                            "Emrash">
 <!ENTITY GeneratedName.accesskey                        "E">
-<!ENTITY PrimaryEmail.label                             "Email">
+<!ENTITY PrimaryEmail.label                             "Email-esh">
 <!ENTITY PrimaryEmail.accesskey                         "m">
-<!ENTITY ScreenName.label                               "Emër në Ekran">
-<!ENTITY ScreenName.accesskey                           "k">
-<!ENTITY Company.label                                  "Organizëm">
-<!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Nofkë">
-<!ENTITY NickName.accesskey                             "n">
-<!ENTITY SecondEmail.label                              "Email Shtesë">
-<!ENTITY SecondEmail.accesskey                          "s">
-<!ENTITY Department.label                               "Degë">
-<!ENTITY Department.accesskey                           "d">
-<!ENTITY JobTitle.label                                 "Titull">
+<!ENTITY ScreenName.label                               "Emrash në Ekran">
+<!ENTITY ScreenName.accesskey                           "a">
+<!ENTITY Company.label                                  "Organizmash">
+<!ENTITY Company.accesskey                              "O">
+<!ENTITY NickName.label                                 "Nofkash">
+<!ENTITY NickName.accesskey                             "N">
+<!ENTITY SecondEmail.label                              "Email-esh Shtesë">
+<!ENTITY SecondEmail.accesskey                          "S">
+<!ENTITY Department.label                               "Degësh">
+<!ENTITY Department.accesskey                           "D">
+<!ENTITY JobTitle.label                                 "Titujsh">
 <!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "Celular">
-<!ENTITY CellularNumber.accesskey                       "c">
-<!ENTITY PagerNumber.label                              "Faques">
+<!ENTITY CellularNumber.label                           "Celularësh">
+<!ENTITY CellularNumber.accesskey                       "C">
+<!ENTITY PagerNumber.label                              "Faquesish">
 <!ENTITY PagerNumber.accesskey                          "q">
-<!ENTITY FaxNumber.label                                "Faks">
+<!ENTITY FaxNumber.label                                "Faksesh">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Telefon Shtëpie">
-<!ENTITY HomePhone.accesskey                            "s">
-<!ENTITY WorkPhone.label                                "Telefon Pune">
-<!ENTITY WorkPhone.accesskey                            "p">
+<!ENTITY HomePhone.label                                "Telefonash Shtëpie">
+<!ENTITY HomePhone.accesskey                            "i">
+<!ENTITY WorkPhone.label                                "Telefonash Pune">
+<!ENTITY WorkPhone.accesskey                            "P">
 <!ENTITY sortAscending.label                            "Rritës">
-<!ENTITY sortAscending.accesskey                        "r">
+<!ENTITY sortAscending.accesskey                        "R">
 <!ENTITY sortDescending.label                           "Zbritës">
-<!ENTITY sortDescending.accesskey                       "z">
-<!ENTITY _PhoneticName.label                            "Emër Fonetik">
-<!ENTITY _PhoneticName.accesskey                        "o">
+<!ENTITY sortDescending.accesskey                       "Z">
+<!ENTITY _PhoneticName.label                            "Emrash Fonetikë">
+<!ENTITY _PhoneticName.accesskey                        "k">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
@@ -189,7 +182,7 @@
 <!ENTITY description.heading                            "Përshkrim">
 <!ENTITY addresses.heading                              "Vendndodhje">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Ki Hartë">
+<!ENTITY mapItButton.label                              "Merr Hartë">
 <!ENTITY mapIt.tooltip                                  "Shfaq prej Web-it një hartë të kësaj vendndodhjeje">
 
 <!-- Status Bar -->

@@ -37,11 +37,11 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Fut Gërmë">
+<!ENTITY windowTitle.label "Futni Shkronjë">
 <!ENTITY category.label "Kategori">
-<!ENTITY letter.label "Gërmë:">
-<!ENTITY letter.accessKey "G">
-<!ENTITY character.label "Gërmë me shenjë:">
+<!ENTITY letter.label "Shkronjë:">
+<!ENTITY letter.accessKey "S">
+<!ENTITY character.label "Shkronjë me shenjë:">
 <!ENTITY character.accessKey "s">
 <!ENTITY accentUpper.label "Të mëdhaja me Theks">
 <!ENTITY accentLower.label "Të vogla me Theks">

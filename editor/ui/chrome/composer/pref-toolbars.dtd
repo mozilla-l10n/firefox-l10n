@@ -12,7 +12,7 @@
 <!ENTITY paste.label            "Ngjite">
 <!ENTITY print.label            "Shtype">
 <!ENTITY find.label             "Gjej">
-<!ENTITY image.label            "Pamje">
+<!ENTITY image.label            "Figurë">
 <!ENTITY hline.label            "Rresht H.">
 <!ENTITY table.label            "Tabelë">
 <!ENTITY link.label             "Lidhje">
@@ -32,4 +32,4 @@
 
 <!ENTITY absolutePosition.label "Vendosje absolute">
 <!ENTITY decreaseZIndex.label   "Shpjere mbrapsht">
-<!ENTITY increaseZIndex.label   "Shpjere përpara">
+<!ENTITY increaseZIndex.label   "Bjere përpara">

@@ -33,7 +33,7 @@
 <!ENTITY textReduce.commandkey "-">
 <!ENTITY textReset.commandkey "0">
 <!ENTITY viewMenu.accesskey "S">
-<!ENTITY viewMenu.label "Shihni">
+<!ENTITY viewMenu.label "Shfaqje">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.label  "Gjej Sërish">
 <!ENTITY findOnCmd.label     "Gjej në Këtë Faqe…">

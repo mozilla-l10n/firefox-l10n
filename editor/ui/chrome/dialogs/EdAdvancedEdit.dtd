@@ -40,7 +40,7 @@
 <!ENTITY AttName.label                  "Atribut: ">
 <!ENTITY AttValue.label                 "Vlerë: ">
 <!ENTITY PropertyName.label             "Veti: ">
-<!ENTITY currentattributesfor.label     "Atribute të çastit për: ">
+<!ENTITY currentattributesfor.label     "Atribute të tanishme për: ">
 <!ENTITY tree.attributeHeader.label     "Atribut">
 <!ENTITY tree.propertyHeader.label      "Veti">
 <!ENTITY tree.valueHeader.label         "Vlerë">

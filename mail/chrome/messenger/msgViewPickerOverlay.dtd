@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY viewPicker.label "Parje:">
-<!ENTITY viewPicker.accesskey "p">
-<!ENTITY viewAll.label "Tërë">
-<!ENTITY viewAll.accesskey "T">
+<!ENTITY viewPicker.label "Shfaqje:">
+<!ENTITY viewPicker.accesskey "q">
+<!ENTITY viewAll.label "Krejt">
+<!ENTITY viewAll.accesskey "K">
 <!ENTITY viewUnread.label "Të palexuarat">
 <!ENTITY viewUnread.accesskey "a">
 <!ENTITY viewTags.label "Etiketa">
 <!ENTITY viewTags.accesskey "E">
-<!ENTITY viewCustomViews.label "Parje Vetjake">
+<!ENTITY viewCustomViews.label "Shfaqje Vetjake">
 <!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Ruaj Parje si Dosje…">
+<!ENTITY viewVirtualFolder.label "Ruaje Shfaqjen si Dosje…">
 <!ENTITY viewVirtualFolder.accesskey "D">
 <!ENTITY viewCustomizeView.label "Përshtateni…">
 <!ENTITY viewCustomizeView.accesskey "r">

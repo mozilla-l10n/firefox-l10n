@@ -5,11 +5,11 @@
 <!ENTITY Company.label                         "Organizëm">
 <!ENTITY Company.accesskey                     "O">
 <!ENTITY _PhoneticName.label                   "Emër Fonetik">
-<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY _PhoneticName.accesskey               "i">
 <!ENTITY NickName.label                        "Nofkë">
 <!ENTITY NickName.accesskey                    "n">
 <!ENTITY SecondEmail.label                     "Email Shtesë">
-<!ENTITY SecondEmail.accesskey                 "s">
+<!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Degë">
 <!ENTITY Department.accesskey                  "d">
 <!ENTITY JobTitle.label                        "Titull">
@@ -20,14 +20,13 @@
 <!ENTITY PagerNumber.accesskey                 "q">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Telefon Shtëpie">
+<!ENTITY HomePhone.label                       "Telefon Banese">
 <!ENTITY HomePhone.accesskey                   "s">
 <!ENTITY WorkPhone.label                       "Telefon Pune">
 <!ENTITY WorkPhone.accesskey                   "p">
 <!ENTITY ScreenName.label                      "Emër në Ekran">
-<!ENTITY ScreenName.accesskey                  "e">
+<!ENTITY ScreenName.accesskey                  "k">
 <!ENTITY sortAscending.label                   "Rritës">
 <!ENTITY sortAscending.accesskey               "r">
 <!ENTITY sortDescending.label                  "Zbritës">
 <!ENTITY sortDescending.accesskey              "z">
-

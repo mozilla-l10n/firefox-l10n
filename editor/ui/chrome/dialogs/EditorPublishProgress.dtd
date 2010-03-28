@@ -1,7 +1,7 @@
 <!-- Window title -->
 <!ENTITY siteUrl.label         "URL &quot;Site&quot;-i:">
 <!ENTITY docSubdir.label       "Nëndrejtori faqeje:">
-<!ENTITY otherSubdir.label     "Nëndrejtori pamjesh:">
+<!ENTITY otherSubdir.label     "Nëndrejtori figurash:">
 
 <!ENTITY status.label          "Po botohet…">
 <!ENTITY fileList.label        "Gjendje Botimi">

@@ -1,12 +1,12 @@
 <!ENTITY devmgr.button.changepw.label "Ndryshoni Fjalëkalimin">
 <!ENTITY devmgr.button.changeslotname.label "Ndrysho Emër &quot;Slot&quot;-i">
 <!ENTITY devmgr.button.load.label "Ngarko">
-<!ENTITY devmgr.button.login.label "Hyni">
+<!ENTITY devmgr.button.login.label "Hyr">
 <!ENTITY devmgr.button.logout.label "Dil">
 <!ENTITY devmgr.button.unload.label "Fshije">
 <!ENTITY devmgr.details.title "Hollësi">
 <!ENTITY devmgr.details.title2 "Vlerë">
-<!ENTITY devmgr.devlist.label "Pajisje dhe Modulë Sigurie">
+<!ENTITY devmgr.devlist.label "Pajisje dhe Module Sigurie">
 <!ENTITY devmgr.status.label "Gjendje">
 <!ENTITY devmgr.title "Administrues Pajisjesh">
 <!ENTITY devmgr.version.label "Version">
@@ -19,9 +19,9 @@
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
 <!ENTITY devmgr.button.login.accesskey          "H">
 <!ENTITY devmgr.button.logout.accesskey         "D">
-<!ENTITY devmgr.button.changepw.accesskey       "F">
+<!ENTITY devmgr.button.changepw.accesskey       "y">
 <!ENTITY devmgr.button.load.accesskey           "N">
-<!ENTITY devmgr.button.unload.accesskey         "j">
+<!ENTITY devmgr.button.unload.accesskey         "F">
 <!ENTITY devmgr.button.fips.accesskey           "A">
 <!ENTITY loaddevice.modname.accesskey           "E">
 <!ENTITY loaddevice.filename.accesskey          "k">

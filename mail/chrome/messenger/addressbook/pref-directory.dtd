@@ -7,9 +7,9 @@
 <!ENTITY directoriesText.label     "Përzgjidhni një Shërbyes LDAP Drejtorish:">
 <!ENTITY directoriesText.accesskey "z">
 
-<!ENTITY addDirectory.label        "Shtoje">
+<!ENTITY addDirectory.label        "Shtoni">
 <!ENTITY addDirectory.accesskey    "S">
 <!ENTITY editDirectory.label       "Përpunojeni">
-<!ENTITY editDirectory.accesskey   "p">
+<!ENTITY editDirectory.accesskey   "P">
 <!ENTITY deleteDirectory.label     "Fshije">
 <!ENTITY deleteDirectory.accesskey "f">    

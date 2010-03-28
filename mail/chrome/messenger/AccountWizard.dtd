@@ -48,7 +48,7 @@
 <!ENTITY smtpServerLabel.label "Shërbyes Dërgues:">
 <!ENTITY smtpServerLabel.accesskey "D">
 <!ENTITY newsServerLabel.label "Shërbyes Grupi Lajmesh:">
-<!ENTITY newsServerLabel.accesskey "G">
+<!ENTITY newsServerLabel.accesskey "L">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,12 +60,12 @@
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
 	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
 -->
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Do të përdoret shërbyesi juaj dërgues (SMTP) ekzistues, &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;. Mund të ndryshoni rregullime shërbyesi dërgues duke zgjedhur Rregullime Llogarie prej menusë Përpunim.">
+<!ENTITY haveSmtp1.suffix2 "&quot;. Te rregullimet për llogarinë, mund të ndërroni shërbyesa dërgues.">
 
 <!-- Entities for Login page -->
 
@@ -78,18 +78,19 @@
 <!ENTITY usernameSmtpDesc.label "Jepni emër përdoruesi dërgues dhënë për ju nga mundësuesi email (ky është zakonisht i njëjtë me emrin tuaj marrës të përdoruesit).">
 <!ENTITY usernameSmtpLabel.label "Emër Përdoruesi Dërgues:">
 <!ENTITY usernameSmtpLabel.accesskey "D">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Do të përdoret emri juaj i përdoruesit ekzistues për dërguesin (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;. Mund të ndryshoni rregullime shërbyesi dërgues duke zgjedhur Rregullime Llogarie prej menusë Përpunim.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.prefix "Do të përdoret emri juaj ekzistues i përdoruesit për dërguesin (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;. Te rregullimet e llogarisë mund të ndërroni shërbyesa dërgues.">
+
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Shërbyesi juaj dërgues (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, është identik me shërbyesin tuaj marrës, për hyrje në të do të përdoret emri juaj i përdoruesit për marrësin. Mund të ndryshoni rregullimet për shërbyes dërgues duke zgjedhur Rregullime Llogarie prej menusë Mjete.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, është identik me shërbyesin tuaj marrës, për hyrje në të do të përdoret emri juaj i përdoruesit për marrësin. Shërbyesat dërgues mund t'i ndryshoni te rregullimet e llogarisë.">
 
 <!-- Entities for Account name page -->
 
@@ -113,4 +114,4 @@
 <!ENTITY deferStorage.accesskey "P">
 <!ENTITY clickFinish.label "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
 <!ENTITY clickFinish.labelMac "Klikoni Përfundoje për të ruajtur këto rregullime dhe për të dalë nga Krijues Llogarie.">
-<!ENTITY downloadOnLogin.accesskey "S">
+<!ENTITY downloadOnLogin.accesskey "K">

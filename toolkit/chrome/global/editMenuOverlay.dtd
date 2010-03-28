@@ -2,7 +2,7 @@
 <!ENTITY editMenu.accesskey        "P">
 <!ENTITY undoCmd.label             "Zhbëje">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY undoCmd.accesskey         "Z">
 <!ENTITY redoCmd.label             "Ribëje">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "R">
@@ -17,8 +17,8 @@
 <!ENTITY pasteCmd.accesskey        "N">
 <!ENTITY deleteCmd.label           "Fshije">
 <!ENTITY deleteCmd.accesskey       "F">
-<!ENTITY selectAllCmd.label        "Përzgjidhi Të tëra">
-<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.label        "Përzgjidhi Krejt">
+<!ENTITY selectAllCmd.key          "j">
 <!ENTITY selectAllCmd.accesskey    "T">
 <!ENTITY findCmd.label             "Gjej">
 <!ENTITY findCmd.key               "F">

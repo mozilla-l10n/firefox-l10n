@@ -1,11 +1,11 @@
 <!ENTITY about.version                "version">
 
-<!ENTITY about.copy.beforeLink        "Të drejta Kopjimi &copy; 1998-2008 by">
-<!ENTITY about.copy.linkTitle         "ndihmuan">
+<!ENTITY about.copy.beforeLink        "Të drejta Kopjimi &copy; 1998-2009 nga">
+<!ENTITY about.copy.linkTitle         "kontribuesit">
 <!ENTITY about.copy.afterLink         "te Projekti Mozilla.">
 
 <!ENTITY about.license.beforeLink     "Lexoni">
-<!ENTITY about.license.linkTitle      "të dhëna licencimi">
+<!ENTITY about.license.linkTitle      "të dhëna lejimi">
 <!ENTITY about.license.afterLink      "për këtë produkt.">
 
 <!ENTITY about.relnotes.beforeLink    "Lexoni">

@@ -4,10 +4,9 @@
 <!ENTITY  prefWindow.styleMac     "width: 60em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title       "Të përgjithshëm">
+<!ENTITY paneGeneral.title       "Të përgjithshme">
 <!ENTITY paneDisplay.title        "Paraqitje">
 <!ENTITY paneComposition.title    "Hartim">
 <!ENTITY paneAttachments.title    "Bashkangjitje">
-<!ENTITY panePrivacy.title       "Vetësi">
-<!ENTITY paneAdvanced.title       "Të mëtejshëm">
-<!ENTITY cmdCloseMac.commandKey   "w">
+<!ENTITY paneAdvanced.title       "Të mëtejshme">
+<!ENTITY paneSecurity.title       "Siguri">

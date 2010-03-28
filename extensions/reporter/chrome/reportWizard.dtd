@@ -1,13 +1,13 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title                         "Raportoni një &quot;Website&quot; të Dëmtuar">
+<!ENTITY reportWizard.title                         "Njoftoni për një &quot;Website&quot; të Dëmtuar">
 
 <!ENTITY privacyNotice.label                        "Rregulla Vetësie">
-<!ENTITY reportWizardPrivacy.description            "Ky mjet ju lejon t&apos;i tregoni Ekipit të Ungjillëzimit për &quot;site&quot;-e web që nuk punojnë si duhet në &brandShortName;, ose që e bllokojnë &brandShortName;-in. Kjo është rruga me të cilën na ndihmoni të bëjmë të mundur përvojën më të mirë të mundshme për përdoruesit e &brandShortName;-it. Ju lutem ndaluni një çast e lexoni më poshtë, për të ditur se si i përdorim të dhënat që grumbullojmë në rast se zgjidhni të merrni pjesë.">
+<!ENTITY reportWizardPrivacy.description            "Ky mjet ju lejon t&apos;i tregoni Ekipit të Ungjillëzimit për &quot;site&quot;-e web që nuk punojnë si duhet në &brandShortName;, ose që e bllokojnë &brandShortName;-in. Kjo është rruga me të cilën na ndihmoni të bëjmë të mundur përvojën më të mirë të mundshme për përdoruesit e &brandShortName;-it. Ju lutem, ndaluni një çast e lexoni më poshtë, për të ditur se si i përdorim të dhënat që grumbullojmë, në rast se zgjidhni të merrni pjesë.">
 <!ENTITY reportWizardMustAgree.description          "Për të vazhduar, lypset të pajtoheni me rregullat e vetësisë më sipër.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Mos e Trego Sërish Deklarimin mbi Vetësinë">
 
-<!ENTITY reportForm.label                           "Plotësoni Raportimin">
+<!ENTITY reportForm.label                           "Plotësoni Njoftimin">
 
 <!ENTITY reportForm.description                     "Tregonani pakëz rreth problemit që hasët:">
 <!ENTITY reportForm.url.title                       "URL &quot;site&quot;-i Web:">
@@ -38,10 +38,10 @@
 
 <!ENTITY reportResults.showDetail.title             "Shfaqni Hollësi">
 
-<!ENTITY sendReport.label                           "Dërgim Raportimi">
-<!ENTITY sendReport.description                     "Dërgim Raportimi te shërbyesi…">
+<!ENTITY sendReport.label                           "Dërgim Njoftimi">
+<!ENTITY sendReport.description                     "Dërgim Njoftimi te shërbyesi…">
 
-<!ENTITY finish.label                               "Raportimi u Dërgua">
+<!ENTITY finish.label                               "Njoftimi u Dërgua">
 <!ENTITY dontShowPrivacyStatement.accesskey         "M">
 <!ENTITY reportForm.behind_login.accesskey          "S">
 <!ENTITY reportForm.problem_type.accesskey          "L">

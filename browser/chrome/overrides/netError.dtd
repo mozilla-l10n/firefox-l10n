@@ -60,14 +60,14 @@
 <!ENTITY contentEncodingError.title "Gabim Kodimi Përmbajtjeje">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "LLoj i Pasigurt Kartelash">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 
@@ -121,7 +121,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Faqja që po provoni të shihni nuk shihet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
-  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem. Rrugë tjetër: përdorni urdhrin që gjendet te menuja e ndihmës për të raportuar këtë &quot;site&quot; të dëmtuar.</li>
+  <li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem. Rrugë tjetër: përdorni urdhrin që gjendet te menuja e ndihmës, për të njoftuar këtë &quot;site&quot; të dëmtuar.</li>
 </ul>
 ">
 

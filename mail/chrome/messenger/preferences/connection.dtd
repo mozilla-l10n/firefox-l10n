@@ -7,35 +7,32 @@
 <!ENTITY  manualTypeRadio.label         "Formësim ndërmjetë dorazi:">
 <!ENTITY  manualTypeRadio.accesskey     "f">
 <!ENTITY  autoTypeRadio.label           "URL formësimi automatik për ndërmjetësin:">
-<!ENTITY  autoTypeRadio.accesskey       "u">
+<!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Ringarkoje">
-<!ENTITY  reload.accesskey              "r">
+<!ENTITY  reload.accesskey              "R">
 <!ENTITY  http.label                    "Ndërmjetës HTTP:">
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "Ndërmjetës SSL:">
-<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Strehë SOCKS:">
-<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
-<!ENTITY  HTTPport.accesskey            "h">
-<!ENTITY  SSLport.accesskey             "s">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  SOCKSport.accesskey           "k">
 <!ENTITY  noproxy.label                 "Pa Ndërmjetës për:">
-<!ENTITY  noproxy.accesskey             "p">
+<!ENTITY  noproxy.accesskey             "a">
 <!ENTITY  noproxyExplain.label          "Shembull: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
 <!ENTITY  shareproxy.accesskey          "d">
 <!ENTITY  systemTypeRadio.label         "Për ndërmjetësin përdor rregullime sistemi">
-<!ENTITY  systemTypeRadio.accesskey     "s">
+<!ENTITY  systemTypeRadio.accesskey     "n">
 <!ENTITY  noProxyTypeRadio.label        "Pa ndërmjetës">
-<!ENTITY  noProxyTypeRadio.accesskey    "p">
+<!ENTITY  noProxyTypeRadio.accesskey    "P">
 <!ENTITY  SSLport.label                 "Portë:">
+<!ENTITY  SSLport.accesskey             "r">
 <!ENTITY  SOCKSport.label               "Portë:">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  HTTPport.label                "Portë:">
-
-
-
+<!ENTITY  HTTPport.accesskey            "o">

@@ -39,5 +39,5 @@
 <!ENTITY windowTitle.label "Përzgjidhni Përpunoni Ndryshime">
 <!ENTITY conflictWarning.label "Kjo faqe është ndryshuar nga një tjetër program, por ju gjithashtu keni të paruajtur ndryshime në Hartues.">
 <!ENTITY conflictResolve.label "Përzgjidhni cili version të ruhet:">
-<!ENTITY keepCurrentPageButton.label "Mbaj ndryshimet e çastit për faqen">
-<!ENTITY useOtherPageButton.label "Zëvendëso faqen e çastit me ndryshimet e tjerë">
+<!ENTITY keepCurrentPageButton.label "Mbaj ndryshimet e tanishme për faqen">
+<!ENTITY useOtherPageButton.label "Zëvendëso faqen e tanishme me ndryshimet e tjera">

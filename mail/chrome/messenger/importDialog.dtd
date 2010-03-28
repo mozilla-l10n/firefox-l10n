@@ -11,7 +11,7 @@
 <!ENTITY importDialog.windowTitle "Importo">
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
-<!ENTITY importHome.label        "Shtëpie">
+<!ENTITY importHome.label        "Banese">
 <!ENTITY importHome.accesskey    "t">
 <!ENTITY importWork.label        "Pune">
 <!ENTITY importWork.accesskey    "N">
@@ -22,7 +22,7 @@
 <!ENTITY importDescription1.label "Ky ndihmës do të importojë te  &brandShortName;-i mesazhe poste, hyrje librash vendndodhjesh, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash vendndodhjesh.">
 <!ENTITY importDescription2.label "Pasi të jenë importuar, do të jeni në gjendje t'i përdorni që nga &brandShortName;-i.">
 
-<!ENTITY selectDescription.label  "Ju lutem përzgjidhni programin prej të cilit doni të importohet:">
+<!ENTITY selectDescription.label  "Ju lutem, përzgjidhni programin prej të cilit doni të importohet:">
 
 <!ENTITY back.label               "&lt; Mbrapsht">
 <!ENTITY forward.label            "Pasuesi &gt;">
@@ -34,6 +34,6 @@
 <!ENTITY title.label              "Titull">
 <!ENTITY processing.label         "Po importohet…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një vendndodhje postimi për secilën kartë, kurse &brandShortName; ka dy (Shtëpie dhe Pune).">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ka një vendndodhje postimi për secilën kartë, kurse &brandShortName;-i ka dy (Banese dhe Pune).">
 <!ENTITY FieldDiscInputText2.label  "Përzgjidhni kategorinë në të cilën doni të ruhen vendndodhjet e importuara të postës:">
 <!ENTITY FieldDiscWarning.label  "Kjo kategori do të përdoret për tërë hyrjet e librit të përzgjedhur të vendndodhjeve: ">

@@ -1,10 +1,10 @@
 <!ENTITY offlineDialog.title "Rregullime për I palidhur">
 
 <!ENTITY textStartUp "Kur bëhet nisja:">
-<!ENTITY radioRememberPrevState.label "Kujto gjendjen &quot;i lidhur&quot; të mëparshme">
+<!ENTITY radioRememberPrevState.label "Kujto gjendjen e mëparshme për &quot;i lidhur&quot; ">
 <!ENTITY radioRememberPrevState.accesskey "K">
 <!ENTITY radioAskMe.label "Pyetmë gjatë nisjes për gjendjen &quot;i lidhur&quot;">
-<!ENTITY radioAskMe.accesskey "P">
+<!ENTITY radioAskMe.accesskey "g">
 <!ENTITY radioAlwaysOnline.label "Nisu përherë &quot;i lidhur&quot;">
 <!ENTITY radioAlwaysOnline.accesskey "N">
 
@@ -17,7 +17,7 @@
 <!ENTITY radioAskUnsent.accesskey "y">
 <!ENTITY textGoingOffline "Të shkarkohen mesazhet për përdorim të palidhur kur kalohet &quot;i palidhur&quot;?">
 <!ENTITY radioAutoDownload.label "Po">
-<!ENTITY radioAutoDownload.accesskey "p">
+<!ENTITY radioAutoDownload.accesskey "P">
 <!ENTITY radioNotDownload.label "Jo">
 <!ENTITY radioNotDownload.accesskey "j">
 <!ENTITY radioAskDownload.label "Pyetmë">

@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Composer">
 <!ENTITY editorCheck.accesskey "c">
-<!ENTITY compose.label "Hartues">
+<!ENTITY compose.label "Harto">
 <!ENTITY editing.label "Rregullime Faqeje të Re">
 <!ENTITY toolbars.label "Panele">
-<!ENTITY publish.label "Po botohet">
+<!ENTITY publish.label "Botim">

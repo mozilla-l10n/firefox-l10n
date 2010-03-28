@@ -64,8 +64,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "P">
 <!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
 <!ENTITY checkSpelling.accesskey         "o">
-<!ENTITY enableAddonsUpdate.label        "Shtojca të Instaluara">
-<!ENTITY enableAddonsUpdate.accesskey    "S">
+<!ENTITY enableAddonsUpdate2.label       "Shtojca">
+<!ENTITY enableAddonsUpdate2.accesskey   "S">
 <!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
 <!ENTITY modeAutoAddonWarn.accesskey     "Z">
 <!ENTITY certSelection.description       "Kur një shërbyes kërkon dëshminë time vetjake:">
@@ -79,3 +79,6 @@
 <!ENTITY offlineNotify.accesskey         "B">
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "p">
+<!ENTITY submitCrashes.label             "Parashtro njoftime vithisjesh">
+<!ENTITY submitCrashes.accesskey         "P">
+

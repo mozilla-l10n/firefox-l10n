@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.label					"Kartelë"> 
 <!ENTITY fileMenu.accesskey				"K">
 <!ENTITY newMenu.label						"E re">
-<!ENTITY newMenu.accesskey					"R">
+<!ENTITY newMenu.accesskey					"E">
 <!ENTITY editMenu.label					"Përpunim"> 
 <!ENTITY editMenu.accesskey				"P"> 
 <!ENTITY undoCmd.label						"Zhbëje">  
@@ -25,27 +25,27 @@
 <!ENTITY pasteCmd.accesskey					"N"> 
 <!ENTITY deleteCmd.label					"Fshije">  
 <!ENTITY deleteCmd.accesskey				"F"> 
-<!ENTITY selectAllCmd.label					"Përzgjidhe të Tërën">  
-<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.label					"Përzgjidhe Krejt">  
+<!ENTITY selectAllCmd.key					"j">  
 <!ENTITY selectAllCmd.accesskey				"T"> 
 <!ENTITY preferencesCmd.label				"Mundësi…">
 <!ENTITY preferencesCmd.accesskey			"M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "M"> 
+<!ENTITY preferencesCmdUnix.accesskey     "q"> 
 
-<!ENTITY viewMenu.label					"Parje"> 
-<!ENTITY viewMenu.accesskey				"P"> 
+<!ENTITY viewMenu.label					"Shfaqje"> 
+<!ENTITY viewMenu.accesskey				"S"> 
 <!ENTITY viewToolbarsMenu.label				"Panele"> 
 <!ENTITY viewToolbarsMenu.accesskey			"P"> 
 <!ENTITY showTaskbarCmd.label					"Shtyllë Gjendjeje">  
-<!ENTITY showTaskbarCmd.accesskey				"S"> 
+<!ENTITY showTaskbarCmd.accesskey				"G"> 
 
 <!ENTITY proxy.label                                    "Formësim ndërmjetësi…">
 <!ENTITY proxy.accesskey                                "F">
 
 <!ENTITY closeCmd.label			"Mbylle">  
 <!ENTITY closeCmd.key			"W">  
-<!ENTITY closeCmd.accesskey		"m">
+<!ENTITY closeCmd.accesskey		"M">
 
 <!ENTITY quitApplicationCmd.label	"Dil"> 
 <!ENTITY quitApplicationCmd.key		"D"> 
@@ -55,4 +55,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey	"d">
 
 <!ENTITY quitApplicationCmdMac.label  "Dil nga &brandShortName;-i">
-<!ENTITY quitApplicationCmdMac.accesskey  "d">
+<!ENTITY quitApplicationCmdMac.accesskey  "D">

@@ -47,14 +47,14 @@
 <!ENTITY  permTab               "Leje">
 <!ENTITY  permTab.accesskey     "L">
 <!ENTITY  permUseDefault        "Përdor Parazgjedhjen">
-<!ENTITY  permAskAlways         "Pyet përherë">
+<!ENTITY  permAskAlways         "Pyetmë përherë">
 <!ENTITY  permAllow             "Lejoje">
 <!ENTITY  permAllowSession      "Lejoje për Sesionin">
 <!ENTITY  permBlock             "Bllokoje">
 <!ENTITY  permissionsFor        "Leje për:">
-<!ENTITY  permImage             "Ngarkim Pamjesh">
-<!ENTITY  permPopup             "Hapje Dritaresh Fllucka">
-<!ENTITY  permCookie            "Rregullim për &quot;Cookie&quot;-t">
+<!ENTITY  permImage             "Ngarkim Figurash">
+<!ENTITY  permPopup             "Hapje Dritaresh Flluska">
+<!ENTITY  permCookie            "Rregullime për &quot;Cookie&quot;-t">
 <!ENTITY  permInstall           "Instalim Zgjerimesh ose Temash">
 <!ENTITY  permGeo               "Lejo Tregim Vendi">
 

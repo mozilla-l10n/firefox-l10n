@@ -1,5 +1,5 @@
-<!ENTITY messageMarkByDate.label "Shenjo mesazhe si të Lexuar më Datë">
-<!ENTITY markByDateLower.label "Shenjo mesazhe si të lexuar prej:">
+<!ENTITY messageMarkByDate.label "Shënoji mesazhet si të Lexuar më Datë">
+<!ENTITY markByDateLower.label "Shënoji mesazhet si të lexuar prej:">
 <!ENTITY markByDateLower.accesskey "R">
 <!ENTITY markByDateUpper.accesskey "P">
 <!ENTITY markByDateUpper.label "Për:">

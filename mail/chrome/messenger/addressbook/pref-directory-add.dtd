@@ -5,30 +5,36 @@
 <!ENTITY directoryHostname.label           "Emërstrehë: ">
 <!ENTITY directoryHostname.accesskey       "s">
 <!ENTITY directoryBaseDN.label             "DN Bazë: ">
-<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY directoryBaseDN.accesskey         "D">
 <!ENTITY findButton.label                  "Gjej">
 <!ENTITY findButton.accesskey              "g">
 <!ENTITY directorySecure.label             "Përdor lidhje të sigurt (SSL)">
 <!ENTITY directorySecure.accesskey         "p">
 <!ENTITY directoryLogin.label              "DN Lidhme: ">
-<!ENTITY directoryLogin.accesskey          "d">
+<!ENTITY directoryLogin.accesskey          "L">
 <!ENTITY General.tab                       "Të përgjithshme">
-<!ENTITY Offline.tab                       "I palidhur">
-<!ENTITY Advanced.tab                      "Të mëtejshëm">
+<!ENTITY Offline.tab                       "Offline">
+<!ENTITY Advanced.tab                      "Të mëtejshme">
 <!ENTITY portNumber.label                  "Numër porte: ">
-<!ENTITY portNumber.accesskey              "n">
+<!ENTITY portNumber.accesskey              "N">
 <!ENTITY searchFilter.label                "Filtër kërkimi: ">
-<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Objektiv: ">
 <!ENTITY scope.accesskey                   "o">
 <!ENTITY scopeOneLevel.label               "Një Nivel">
 <!ENTITY scopeOneLevel.accesskey           "v">
 <!ENTITY scopeSubtree.label                "Nënpemë">
-<!ENTITY scopeSubtree.accesskey            "n">
+<!ENTITY scopeSubtree.accesskey            "N">
 <!ENTITY return.label                      "Mos kthe më shumë se">
-<!ENTITY return.accesskey                  "m">
+<!ENTITY return.accesskey                  "M">
 <!ENTITY results.label                     "përfundime">
-<!ENTITY offlineText.label                 "Mund të shkarkoni një kopje vendore të kësaj drejtorie që mund ta përdorni kur jeni të palidhur.">
+<!ENTITY offlineText.label                 "Mund të shkarkoni një kopje vendore të kësaj drejtorie që mund ta përdorni kur jeni offline.">
+<!ENTITY saslMechanism.label               "Metodë hyrjeje: ">
+<!ENTITY saslMechanism.accesskey           "h">
+<!ENTITY saslOff.label                     "E thjeshtë">
+<!ENTITY saslOff.accesskey                 "E">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely

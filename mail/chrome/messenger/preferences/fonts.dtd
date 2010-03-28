@@ -1,23 +1,20 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Gërma &amp; Kodime">
+<!ENTITY  fontsAndEncodingsDialog.title           "Shkronja &amp; Kodime">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "Gërma për:">
-<!ENTITY  language.accesskey                      "g">
-
-
-<!ENTITY  sizes.label                             "Madhësi (piksela)">
+<!ENTITY  language.label                          "Shkronja për:">
+<!ENTITY  language.accesskey                      "S">
 
 <!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  serif.accesskey                         "e">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.accesskey                     "o">
 <!ENTITY  font.langGroup.latin1                   "Perëndimore">
 <!ENTITY  font.langGroup.latin2                   "Europiane Qendrore">
 <!ENTITY  font.langGroup.japanese                 "Japoneze">
@@ -47,26 +44,33 @@
 <!ENTITY  font.langGroup.malayalam                "Malajalameze">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Madhësi gërmash më e vogël:">
+<!ENTITY minSize.label                            "Madhësi më e vogël shkronjash:">
 <!ENTITY minSize.accesskey                        "v">
 <!ENTITY minSize.none                             "Asnjë">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-<!ENTITY  useDocumentFonts.label                  "Lejoju mesazheve të përdorin gërma të tjera">
-<!ENTITY  useDocumentFonts.accesskey              "l">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  useDocumentFonts.label                  "Lejoju mesazheve të përdorin shkronja të tjera">
+<!ENTITY  useDocumentFonts.accesskey              "L">
+<!ENTITY  proportionalSize.accesskey              "d">
+
  
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Postë Ikëse:">
 <!ENTITY sendDefaultCharset.accesskey     "i">
-<!ENTITY languagesTitle1.label				    "Kodim Gërmash">
-<!ENTITY composingDescription.label       "Caktoni kodim parazgjedhje gërmash për dërgim dhe marrje poste">
+<!ENTITY languagesTitle1.label		"Kodim Shkronjash">
+<!ENTITY composingDescription.label       "Caktoni kodim parazgjedhje shkronjash për dërgim dhe marrje poste">
 
 <!ENTITY viewDefaultCharsetList.label     "Postë Ardhëse:">
 <!ENTITY viewDefaultCharsetList.accesskey	"a">
 
-<!ENTITY replyInDefaultCharset2.label     "Kur mundet, përdor në përgjigje kodim parazgjedhje gërmash">
-<!ENTITY replyInDefaultCharset2.accesskey "k">
+<!ENTITY replyInDefaultCharset2.label     "Kur mundet, përdor në përgjigje kodim parazgjedhje shkronjash">
+<!ENTITY replyInDefaultCharset2.accesskey "K">
+
+<!ENTITY  fixedWidth.accesskey                    "f">
+<!ENTITY  fontControl.label                       "Kontroll Shkronjash">
+<!ENTITY  sizeMono.accesskey                      "h">
+<!ENTITY  size.label                              "Madhësi:">
+<!ENTITY  useFixedWidthForPlainText.label         "Përdor shkronja me gjerësi fikse për mesazhe tekst të thjeshtë">
+

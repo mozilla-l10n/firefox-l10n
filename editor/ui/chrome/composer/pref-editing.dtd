@@ -5,15 +5,15 @@
 <!ENTITY  pageColorHeader           "Dukje Parazgjedhje e Faqes">
 
 <!ENTITY defaultColors.label        "Ngjyrë parazgjedhje e lexuesit (Mos cakto ngjyra në faqe)">
-<!ENTITY defaultColors.accesskey    "n">
+<!ENTITY defaultColors.accesskey    "N">
 <!ENTITY customColors.label         "Përdor ngjyra vetjake:">
-<!ENTITY customColors.accesskey     "p">
+<!ENTITY customColors.accesskey     "P">
 
 
 <!ENTITY normalText.label           "Tekst normal">
-<!ENTITY normalText.accesskey       "N">
+<!ENTITY normalText.accesskey       "n">
 <!ENTITY linkText.label             "Tekst lidhjeje">
-<!ENTITY linkText.accesskey         "L">
+<!ENTITY linkText.accesskey         "l">
 <!ENTITY activeLinkText.label       "Tekst lidhjeje vepruese">
 <!ENTITY activeLinkText.accesskey   "v">
 <!ENTITY visitedLinkText.label      "Tekst lidhjeje të vizituar">
@@ -22,7 +22,7 @@
 <!ENTITY background.accesskey       "S">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Pamje sfondi:">
+<!ENTITY backgroundImage.label      "Figurë sfondi:">
 <!ENTITY backgroundImage.accesskey  "P">
 <!ENTITY chooseFile.label           "Zgjidhni Kartelë…">
 <!ENTITY chooseFile.accesskey       "Z">

@@ -1,10 +1,20 @@
 <!ENTITY aboutDialog.title      "Rreth &brandShortName;-it">
-<!ENTITY credits.label          "Pjesëmarrësa:">
-<!ENTITY credits.accesskey      "P">
-<!ENTITY aboutLink.label        "&lt; Rreth &brandShortName;-it">
-<!ENTITY aboutLink.accesskey    "R">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2007 Pjesëmarrësit. Tërë të Drejtat të Ruajtura. Mozilla Thunderbird-i dhe 
+<!ENTITY copyrightText          "&#169;1998-2010 Pjesëmarrësit. Tërë të Drejtat të Ruajtura. Mozilla Thunderbird-i dhe 
                                  logot e Thunderbird-it janë shenja tregtare të Fondacionit Mozilla.  Tërë të Drejtat 
                                  të Ruajtura.">
 <!ENTITY cmdCloseMac.commandKey "w">
+
+<!ENTITY aboutButton.label      "&lt; Mbrapsht">
+<!ENTITY aboutButton.accesskey  "M">
+<!ENTITY aboutMenu.label        "Rreth">
+<!ENTITY aboutMenu.accesskey    "R">
+<!ENTITY aboutRights.label      "Të Drejtat Tuaja">
+<!ENTITY aboutRights.accesskey  "D">
+<!ENTITY aboutContributors.label "Pjesëmarrës">
+<!ENTITY aboutContributors.accesskey "P">
+<!ENTITY aboutCredits.label     "Falënderime">
+<!ENTITY aboutCredits.accesskey "F">
+<!ENTITY aboutLicense.label      "Leje">
+<!ENTITY aboutLicense.accesskey  "L">
+

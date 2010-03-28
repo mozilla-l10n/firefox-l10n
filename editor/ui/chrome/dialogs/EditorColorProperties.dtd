@@ -39,10 +39,10 @@
 <!ENTITY windowTitle.label "Ngjyra dhe Sfond Faqeje">
 <!ENTITY pageColors.label "Ngjyra Faqeje">
 <!ENTITY defaultColorsRadio.label "Ngjyrat parazgjedhje të lexuesit (Mos vendos ngjyra në faqe)">
-<!ENTITY defaultColorsRadio.accessKey "P">
+<!ENTITY defaultColorsRadio.accessKey "y">
 <!ENTITY defaultColorsRadio.tooltip "Përdor rregullime ngjyrash vetëm prej shfletuesit të lexuesit">
 <!ENTITY customColorsRadio.label "Përdor ngjyra vetjake:">
-<!ENTITY customColorsRadio.accessKey "V">
+<!ENTITY customColorsRadio.accessKey "P">
 <!ENTITY customColorsRadio.tooltip "Këto ngjyra veprojnë tej rregullimeve të lexuesit për shfletuesin">
 
 <!ENTITY normalText.label "Tekst normal">
@@ -56,6 +56,6 @@
 <!ENTITY background.label "Sfond:">
 <!ENTITY background.accessKey "S">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Pamje Sfond:">
+<!ENTITY backgroundImage.label "Figurë Sfondi:">
 <!ENTITY backgroundImage.accessKey "a">
-<!ENTITY backgroundImage.tooltip "Përdor një kartelë pamje si sfond për faqen tuaj">
+<!ENTITY backgroundImage.tooltip "Përdorni kartelë figure si sfond për faqen tuaj">

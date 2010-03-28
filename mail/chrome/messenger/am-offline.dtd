@@ -1,38 +1,58 @@
 <!ENTITY syncGroupTitle.label "Njëkohësim Mesazhesh">
 <!ENTITY offlineSelectNntp.accesskey "N">
-<!ENTITY offlineImapAdvancedOffline.label "Të Mëtejshme…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "M">
+<!ENTITY offlineImapAdvancedOffline.label "Të mëtejshme…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "T">
 <!ENTITY allFoldersOffline.label "Mesazhet e kësaj llogarie mbaji në këtë kompjuter">
 <!ENTITY allFoldersOffline.accesskey "e">
 
 <!ENTITY doNotDownloadPop3Movemail.label "Për të kursyer hapësirë disku, mos shkarko:">
-<!ENTITY doNotDownload.label "Për të kursyer hapësirë disku, mos shkarko për përdorim si i palidhur:">
 <!ENTITY offlineNotDownload.label "Mesazhe më të mëdhenj se">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "ditë i vjetër">
-<!ENTITY message.label "mesazhe">
+<!ENTITY daysOld.label "ditë">
+<!ENTITY message.label "mesazheve të fundit">
 <!ENTITY nntpNotDownloadRead.label "Lexoni mesazhe">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Mesazhe më tepër se">
-<!ENTITY nntpDownloadMsg.accesskey "t">
+<!ENTITY nntpDownloadMsg.accesskey "s">
 <!ENTITY retentionCleanup.label "Për të ripasur hapësirë disku, mesazhet e vjetër mund të fshihen përfundimisht">
 <!ENTITY retentionKeepMsg.label "Fshi mesazhe më të vjetër se">
 <!ENTITY retentionKeepMsg.accesskey "f">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
 <!ENTITY retentionKeepAll.accesskey "o">
-<!ENTITY retentionKeepNew.label "Fshiji të tërë, përveç të fundit">
-<!ENTITY retentionKeepNew.accesskey "t">
-<!ENTITY retentionKeepUnread.label "Fshi përherë mesazhet e lexuar">
-<!ENTITY retentionKeepUnread.accesskey "l">
-<!ENTITY nntpRemoveBody.label "Vetëm përmbajtje mesazhesh më të vjetër se">
-<!ENTITY nntpRemoveBody.accesskey "V">
+<!ENTITY retentionKeepRecent.label "Fshiji të tërë, përveç ">
+<!ENTITY retentionKeepRecent.accesskey "t">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Fshi përherë mesazhet e lexuar (anashkalon rregullimet kohore)">
+<!ENTITY nntpRemoveMsgBody.label "Hiqe përmbajtjen prej mesazhesh më të vjetër se">
+<!ENTITY nntpRemoveMsgBody.accesskey "H">
 <!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i palidhur…">
 <!ENTITY diskspaceGroupTitle.label "Vend në Disk">
-
 <!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
-<!ENTITY retentionApplyToFlagged.accesskey "m">
+<!ENTITY retentionApplyToFlagged.accesskey "y">
 
 <!ENTITY retentionCleanupImap.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, si kopjet vendore, ashtu edhe origjinalet në shërbyesin e largët.">
 <!ENTITY retentionCleanupPop.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, përfshi origjinalet në shërbyesin e largët.">
 
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Njëkohëso lokalisht tërë mesazhet, pavarësisht nga mosha">
+<!ENTITY allAutosync.accesskey           "N">
+<!ENTITY ageAutosyncBefore.label         "Njëkohëso më të freskëtit">
+<!ENTITY ageAutosync.accesskey           "f">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Ditë">
+<!ENTITY weekAgeInterval.label           "Javë">
+<!ENTITY monthAgeInterval.label          "Muaj">
+<!ENTITY yearAgeInterval.label           "Vite">
+<!ENTITY ageAutosyncAfter.label          "">
+
+<!ENTITY autosyncNotDownload.label "Mos shkarko mesazhe më të mëdhenj se">
+<!ENTITY autosyncNotDownload.accesskey "M">
+<!ENTITY doNotDownloadImap.label "Për të kursyer vend në disk, shkarkimi i mesazheve prej shërbyesit dhe mbajtja e kopjeve vendore për përdorim &quot;offline&quot; mund të kufizohet sipas moshës ose madhësisë.">
+<!ENTITY doNotDownloadNntp.label "Për të kursyer vend në disk, mos i shkarko për përdorim &quot;offline&quot;:">

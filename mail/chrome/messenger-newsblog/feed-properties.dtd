@@ -10,7 +10,7 @@
 <!ENTITY choosethisfolder.label   "zgjidhni këtë dosje">
 
 <!ENTITY quickMode.label          "Shfaq përmbledhje artikulli në vend të ngarkimit të faqes web">
-<!ENTITY quickMode.accesskey      "s">
+<!ENTITY quickMode.accesskey      "S">
 
 <!ENTITY copyLinkCmd.label        "Kopjo Vendndodhje Lidhjeje"> 
 <!ENTITY copyLinkCmd.accesskey    "K"> 

@@ -28,12 +28,12 @@
 <!ENTITY certmgr.editcert.trustemail "Kjo dëshmi mund të identifikojë përdorues poste.">
 <!ENTITY certmgr.editcert.trustobjsign "Kjo dëshmi mund të identifikojë prodhues programesh.">
 <!ENTITY certmgr.editcert.trustssl "Kjo dëshmi mund të identifikojë &quot;site&quot;-e web.">
-<!ENTITY certmgr.editemailcert.donttrust "Mos beso në mirëfilltësinë e kësaj dëshmie.">
-<!ENTITY certmgr.editemailcert.dotrust "Beso mirëfilltësinë e kësaj dëshmie.">
+<!ENTITY certmgr.editemailcert.donttrust "Mos e beso mirëfilltësinë e kësaj dëshmie.">
+<!ENTITY certmgr.editemailcert.dotrust "Besoje mirëfilltësinë e kësaj dëshmie.">
 <!ENTITY certmgr.editemailcert.edittrust "Përpunoni rregullime besimi dëshmie:">
 <!ENTITY certmgr.editemailcert.title "Përpunoni rregullime besueshmërie dëshmish email-esh">
-<!ENTITY certmgr.editsslcert.donttrust "Mos beso në mirëfilltësinë e kësaj dëshmie.">
-<!ENTITY certmgr.editsslcert.dotrust "Beso mirëfilltësinë e kësaj dëshmie.">
+<!ENTITY certmgr.editsslcert.donttrust "Mos e beso mirëfilltësinë e kësaj dëshmie.">
+<!ENTITY certmgr.editsslcert.dotrust "Besoje mirëfilltësinë e kësaj dëshmie.">
 <!ENTITY certmgr.editsslcert.edittrust "Përpunoni rregullime besimi dëshmie:">
 <!ENTITY certmgr.editsslcert.title "Përpunoni rregullime besueshmërie dëshmish &quot;site&quot;-esh web">
 <!ENTITY certmgr.email "Vendndodhje E-mail">
@@ -73,7 +73,7 @@
 <!ENTITY certmgr.backupall2.label              "Kopjeruaji të Tëra…">
 <!ENTITY certmgr.restore2.label                "Importo…">    
 <!ENTITY certmgr.addException.label           "Shtoni Përjashtim…">
-<!ENTITY certmgr.addException.accesskey       "j">
+<!ENTITY certmgr.addException.accesskey       "o">
 <!ENTITY exceptionMgr.title                   "Shtoni Përjashtime Sigurie">
 <!ENTITY exceptionMgr.exceptionButton         "Ripohoni Përjashtime Sigurie">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "R">

@@ -7,17 +7,21 @@
 
 <!ENTITY  noupdatesfound.title            "Nuk u Gjetën Përditësime">
 <!ENTITY  noupdatesautoenabled.intro      "Nuk ka përditësime të passhëm. &brandShortName;-i do të kontrollojë periodikisht për përditësime.">
-<!ENTITY  noupdatesautodisabled.intro     "Nuk ka përditësime të passhëm. Ju lutem kontrolloni më vonë ose aktivizoni te &brandShortName;-i  kontrollin e vetvetishëm për përditësime.">
+<!ENTITY  noupdatesautodisabled.intro     "Nuk ka përditësime të passhëm. Ju lutem, kontrolloni më vonë ose aktivizoni te &brandShortName;-i  kontrollin e vetvetishëm për përditësime.">
+
+<!ENTITY  pluginupdatesfound.title        "U gjetën Përditësime për Shtojcat">
+<!ENTITY  pluginupdatesfound.label        "U gjetën versione të rinj për një ose më tepër nga shtojcat tuaja.">
+<!ENTITY  pluginupdateslink.label         "Shihni se si të përmirësoni shtojcat tuaja.">
 
 <!ENTITY  clickHere.label                 "Shihni më tepër të dhëna rreth këtij përditësimi">
 <!ENTITY  license.instructions            "Nëse pajtoheni me termat e kësaj marrëveshjeje, klikoni Pranoj 
                                            më poshtë për të vazhduar instalimin e këtij përditësimi.">
-<!ENTITY  license.titleText               "Marrëveshje Licence &quot;Software&quot;-i">
+<!ENTITY  license.titleText               "Marrëveshje Lejeje &quot;Software&quot;-i">
 <!ENTITY  license.introText               "Terma dhe kushte për përdorimin e këtij &quot;software&quot;-i.">
-<!ENTITY  license.instructionText         "Ju lutem lexoni marrëveshje vijuese për licencën. Përdorni rrëshqitësat për të parë pjesën e mbetur të kësaj licence.">
-<!ENTITY  license.accept                  "I pranoj kushtet e Marrëveshjes së Licencës">
+<!ENTITY  license.instructionText         "Ju lutem, lexoni marrëveshje vijuese për lejen. Përdorni rrëshqitësat për të parë pjesën e mbetur të kësaj lejeje.">
+<!ENTITY  license.accept                  "I pranoj kushtet e Marrëveshjes së Lejes">
 <!ENTITY  license.accept.accesskey        "i">
-<!ENTITY  license.decline                 "NUK i pranoj kushtet e Marrëveshjes së Licencës">
+<!ENTITY  license.decline                 "NUK i pranoj kushtet e Marrëveshjes së Lejes">
 <!ENTITY  license.decline.accesskey       "N">
 
 <!ENTITY  downloading.title               "Shkarkim Përditësimi">
@@ -62,6 +66,6 @@
 <!ENTITY  finishedPage.text               "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">
 
 <!ENTITY  manualUpdate.title              "I pazoti për Përditësim">
-<!ENTITY  manualUpdate.desc               "Mund të kihet një përditësim sigurie dhe qëndrueshmërie, por nuk keni lejet e domosdoshme në sistem për instalimin. Ju lutem lidhuni me përgjegjësin e sistemit, ose riprovoni prej një llogarie e cila ka leje për instalim programesh në këtë kompjuter.">
+<!ENTITY  manualUpdate.desc               "Mund të kihet një përditësim sigurie dhe qëndrueshmërie, por nuk keni lejet e domosdoshme në sistem për instalimin. Ju lutem, lidhuni me përgjegjësin e sistemit, ose riprovoni prej një llogarie e cila ka leje për instalim programesh në këtë kompjuter.">
 <!ENTITY  manualUpdateGetMsg.label        "Mund të merrni, kur të doni, versionin më të fundit të &brandShortName;-it nga:">
 

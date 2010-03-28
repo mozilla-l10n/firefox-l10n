@@ -1,7 +1,7 @@
 <!ENTITY addressbookPicker.label            "Libër Vendndodhjesh:">
-<!ENTITY addressbookPicker.accesskey        "l">
+<!ENTITY addressbookPicker.accesskey        "L">
 <!ENTITY searchInput.label                  "Kërko Për:">
-<!ENTITY searchInput.accesskey              "k">
+<!ENTITY searchInput.accesskey              "K">
 <!ENTITY SearchNameOrEmail.label            "Emër ose Email">
 
 <!ENTITY deleteAddrBookCard.label           "Fshije">

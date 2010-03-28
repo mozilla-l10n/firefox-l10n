@@ -6,16 +6,16 @@
 <!ENTITY neverEncrypt.label "Kurrë (mos përdor kodim)">
 <!ENTITY neverEncrypt.accesskey "K">
 <!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
-<!ENTITY alwaysEncryptMessage.accesskey "e">
+<!ENTITY alwaysEncryptMessage.accesskey "E">
 <!ENTITY encryptionCert.message "Përdor këtë dëshmi për të koduar &amp; çkoduar mesazhe të dërguar te ju:">
 <!ENTITY digitalSign.certificate.button "Përzgjidhni…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Pastroje">
-<!ENTITY digitalSign.certificate_clear.accesskey "P">
+<!ENTITY digitalSign.certificate_clear.accesskey "o">
 <!ENTITY encryption.certificate.button "Përzgjidhni…">
 <!ENTITY encryption.certificate.accesskey "z">
 <!ENTITY encryption.certificate_clear.button "Pastroje">
-<!ENTITY encryption.certificate_clear.accesskey "p">
+<!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
 <!ENTITY signMessage.label "Nënshkruaj në mënyrë shifrore (si parazgjedhje) mesazhe">
 <!ENTITY signMessage.accesskey "N">
@@ -23,6 +23,6 @@
 
 <!ENTITY certificates.label     "Dëshmi">
 <!ENTITY manageCerts.label "Shihni Dëshmitë">
-<!ENTITY manageCerts.accesskey "S">
+<!ENTITY manageCerts.accesskey "D">
 <!ENTITY manageDevices.label "Pajisje Sigurie">
-<!ENTITY manageDevices.accesskey "P">
+<!ENTITY manageDevices.accesskey "S">

@@ -6,7 +6,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Shihni">
+<!ENTITY viewMenu.label "Shfaqje">
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY compositionToolbarCmd.label "Panel Hartimi">
 <!ENTITY compositionToolbarCmd.accesskey "H">

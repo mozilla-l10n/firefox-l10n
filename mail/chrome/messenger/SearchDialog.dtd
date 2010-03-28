@@ -1,10 +1,11 @@
 <!ENTITY fromColumn.label "Nga">
-<!ENTITY fromColumn.tooltip "Klikoni për t&apos;i renditur sipas nga">
+<!ENTITY fromColumn.tooltip "Klikoni për t&apos;i renditur sipas Nga">
 <!ENTITY receivedColumn.label "Marrë më">
-<!ENTITY receivedColumn.tooltip "Klikoni për t&apos;i renditur sipas datës së marrjes">
+<!ENTITY receivedColumn.tooltip "Klikoni për t&apos;i renditur sipas Marrë më">
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Kërko për mesazhe në:">
-<!ENTITY searchHeading.accesskey     "K">
+<!ENTITY searchHeading.accesskey     "o">
 <!ENTITY searchSubfolders.label      "Kërko në nëndosje">
 <!ENTITY searchSubfolders.accesskey  "n">
 <!ENTITY resetButton.label           "Pastroje">
@@ -20,14 +21,14 @@
 <!ENTITY fileButton.label            "Kartelë">
 <!ENTITY fileButton.accesskey        "K">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Hap Dosje Mesazhesh">
-<!ENTITY goToFolderButton.accesskey  "H">
 <!ENTITY saveAsVFButton.label        "Ruaje si Dosje Kërkimi">
 <!ENTITY saveAsVFButton.accesskey    "R">
+<!ENTITY searchOnServer.label        "Xhiroje kërkimin në shërbyes">
+<!ENTITY searchOnServer.accesskey    "x">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Kërko në:">
-<!ENTITY abSearchHeading.accesskey   "k">
+<!ENTITY abSearchHeading.accesskey   "o">
 <!ENTITY propertiesButton.label      "Veti">
 <!ENTITY propertiesButton.accesskey  "V">
 <!ENTITY composeButton.label         "Shkruaj">
@@ -40,11 +41,11 @@
 <!ENTITY subjectColumn.label "Subjekt">
 <!ENTITY dateColumn.label "Datë">
 <!ENTITY priorityColumn.label "Përparësi">
-<!ENTITY tagsColumn.label "Shenja">
+<!ENTITY tagsColumn.label "Etiketa">
 <!ENTITY accountColumn.label "Llogari">
 <!ENTITY statusColumn.label "Gjendje">
 <!ENTITY sizeColumn.label "Madhësi">
-<!ENTITY junkStatusColumn.label "Gjendje Hedhurinë">
+<!ENTITY junkStatusColumn.label "Gjendje e Pavlerë">
 <!ENTITY unreadColumn.label "Të palexuar">
 <!ENTITY totalColumn.label "Gjithsej">
 <!ENTITY readColumn.label "Lexuar">
@@ -62,13 +63,15 @@
 <!ENTITY accountColumn.tooltip "Klikoni për t&apos;i renditur sipas llogarish">
 <!ENTITY statusColumn.tooltip "Klikoni për t&apos;i renditur sipas gjendjesh">
 <!ENTITY sizeColumn.tooltip "Klikoni për t&apos;i renditur sipas madhësish">
-<!ENTITY junkStatusColumn.tooltip "Klikoni për t&apos;i renditur sipas gjendjesh hedhurinë">
+<!ENTITY junkStatusColumn.tooltip "Klikoni për t&apos;i renditur sipas gjendjesh të pavlere">
 <!ENTITY unreadColumn.tooltip "Numër mesazhesh të palexuar në rrjedhë">
 <!ENTITY totalColumn.tooltip "Numër gjithsej mesazhesh në rrjedhë">
 <!ENTITY readColumn.tooltip "Klikoni për t&apos;i renditur sipas të lexuarve">
 <!ENTITY locationColumn.tooltip "Klikoni për t&apos;i renditur sipas vendesh">
 <!ENTITY idColumn.tooltip "Klikoni për t&apos;i renditur sipas rendit të mbërritjes">
 
-<!ENTITY tagsColumn.label "Shenja">
 <!ENTITY starredColumn.label "Me yllkë">
 <!ENTITY starredColumn.tooltip "Klikoni për t&apos;i renditur sipas yllkash">
+
+<!ENTITY openInFolder.label          "Hape në Dosje">
+<!ENTITY openInFolder.accesskey      "H">

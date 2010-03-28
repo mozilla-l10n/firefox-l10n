@@ -1,5 +1,5 @@
-<!ENTITY attachImageSource.label         "Bashkangjitini mesazhit këtë pamje">
-<!ENTITY attachImageSource.accesskey     "b">
+<!ENTITY attachImageSource.label         "Bashkangjitini mesazhit këtë figurë">
+<!ENTITY attachImageSource.accesskey     "B">
 
 <!ENTITY attachLinkSource.label          "Bashkangjitini mesazhit burimin e kësaj lidhje">
-<!ENTITY attachLinkSource.accesskey      "b">
+<!ENTITY attachLinkSource.accesskey      "B">

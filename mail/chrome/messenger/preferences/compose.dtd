@@ -1,35 +1,32 @@
-
 <!ENTITY addExtension.label                   "shto prapashtesë te emri i kartelës">
 <!ENTITY addExtension.accesskey               "s">
-<!ENTITY directoriesNone.label                 "Anjë">
+<!ENTITY directoriesNone.label                 "Asnjë">
 
 <!ENTITY itemGeneral.label                   "Të përgjithshme">
 <!ENTITY itemAutoComplete.label              "Adresim">
 <!ENTITY itemSpellCheck.label                "Drejtshkrim">
-<!ENTITY forwardMsg.label                     "Përcill mesazhe:">
-<!ENTITY forwardMsg.accesskey                 "p">
-<!ENTITY inline.label                         "Brendaz">
-<!ENTITY inline.accesskey                     "B">
+<!ENTITY forwardMsg.label                     "Mesazhet përcilli:">
+<!ENTITY forwardMsg.accesskey                 "M">
+<!ENTITY inline.label                         "Brendazi">
 <!ENTITY asAttachment.label                   "Si Bashkangjitje">
-<!ENTITY asAttachment.accesskey               "S">
 <!ENTITY spellCheck.label                     "Kontrolloji drejtshkrimin para se ta dërgosh">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontrollo drejtshkrimin në shkrim e sipër">
-<!ENTITY spellCheckInline1.accesskey           "i">
+<!ENTITY spellCheckInline1.accesskey          "d">
 <!ENTITY languagePopup.label                  "Gjuhë:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "G">
 <!ENTITY downloadDictionaries.label           "Shkarko Më tepër Fjalorë">
 
-<!ENTITY warnOnSendAccelKey.label             "Ripoho kur përdoren shkurtore për dërgim mesazhi">
-<!ENTITY warnOnSendAccelKey.accesskey         "r">
-<!ENTITY autoSave.label                       "Vetëruaj çdo">
-<!ENTITY autoSave.accesskey                   "v">
+<!ENTITY warnOnSendAccelKey.label             "Ripohoni përdorimin e shkurtoreve për dërgim mesazhi">
+<!ENTITY warnOnSendAccelKey.accesskey         "R">
+<!ENTITY autoSave.label                       "Vetëruaje çdo">
+<!ENTITY autoSave.accesskey                   "V">
 <!ENTITY autoSaveEnd.label                    "minuta">
 
 
 
 <!ENTITY emailCollectionPicker.label           "Shto vetvetiu vendndodhje dërgimi e-mail te:">
-<!ENTITY emailCollectionPicker.accesskey       "s">
+<!ENTITY emailCollectionPicker.accesskey       "v">
 <!ENTITY addressingTitle.label                 "Vetëplotësim Vendndodhje">
 <!ENTITY autocompleteText.label                "Kur adresohen mesazhe, shih për zëra përputhjesh te:">
 <!ENTITY addressingEnable.label                "Libra Vendorë Vendndodhjesh">
@@ -38,18 +35,23 @@
 <!ENTITY directories.accesskey                 "S">
 <!ENTITY editDirectories.label                 "Përpunoni Drejtori…">
 <!ENTITY editDirectories.accesskey             "P">
-<!ENTITY sendOptionsDescription.label          "Formësoni sjellje të lidhur me formate tekstesh">
+<!ENTITY sendOptionsDescription.label          "Formësoni sjelljen lidhur me formate tekstesh">
 <!ENTITY sendOptions.label                     "Mundësi Dërgimi…">
-<!ENTITY sendOptions.accesskey                 "M">
+<!ENTITY sendOptions.accesskey                 "u">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Gërma:">
-<!ENTITY font.accesskey                       "n">
+<!ENTITY font.label                           "Shkronja:">
+<!ENTITY font.accesskey                       "S">
 <!ENTITY size.label                           "Madhësi:">
-<!ENTITY size.accesskey                       "z">
+<!ENTITY size.accesskey                       "a">
 <!ENTITY fontColor.label                      "Ngjyrë Teksti:">
-<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Ngjyrë Sfondi:">
-<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY bgColor.accesskey                    "S">
 <!ENTITY restoreHTMLDefaults.label            "Rimerr Parazgjedhjet">
-<!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY restoreHTMLDefaults.accesskey        "i">
+
+<!ENTITY attachmentReminder.label              "Kontrollo për bashkangjitje që mungojnë">
+<!ENTITY attachmentReminder.accesskey          "K">
+<!ENTITY attachmentReminderOptions.label       "Fjalëkyça…">
+<!ENTITY attachmentReminderOptions.accesskey   "F">

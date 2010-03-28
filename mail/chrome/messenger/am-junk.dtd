@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Rregullime për Hedhurina">
-<!ENTITY trainingWarning.label "Në u aktivizoftë, duhet së pari ta stërvitni &brandShortName;-in të identifikojë postë hedhurinë duke përdorur butoni për Hedhurinë për shenjim mesazhesh si hedhurinë ose jo. Lypset të identifikoni qoftë mesazhet hedhurinë, qoftë edhe ata jo hedhurinë.">
-<!ENTITY level.label "Aktivizo kontrolle përshtatës poste hedhurinë për këtë llogari">
+<!ENTITY junkSettings.label "Rregullime për të Pavlerat">
+<!ENTITY trainingWarning.label "Në u aktivizoftë, duhet së pari ta stërvitni &brandShortName;-in të identifikojë postë të pavlerë, duke përdorur butonin për të Pavlerat për shënim mesazhesh si të pavlerë ose jo. Lypset të identifikoni qoftë mesazhet e pavlerë, qoftë ata jo të pavlerë.">
+<!ENTITY level.label "Aktivizo kontrolle përshtatës poste të pavlerë për këtë llogari">
 <!ENTITY level.accesskey "A">
 
-<!ENTITY move.label "Mesazhet e rinj hedhurinë kaloji tek:">
+<!ENTITY move.label "Mesazhet e rinj të pavlerë kaloji tek:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Dosja &quot;Hedhurinë&quot; te:">
+<!ENTITY junkFolderOn.label "Dosja &quot;Të pavlerë&quot; te:">
 <!ENTITY junkFolderOn.accesskey "D">
 <!ENTITY otherFolder.label "Tjetër:">
 <!ENTITY otherFolder.accesskey "T">
-<!ENTITY purge1.label "Fshi vetvetiu postë hedhurinë më të vjetër se">
+<!ENTITY purge1.label "Fshi vetvetiu postë të pavlerë më të vjetër se">
 <!ENTITY purge1.accesskey "F">
 <!ENTITY purge2.label "ditë">
 
-<!ENTITY whitelist.label "Mos shëno postë si hedhurinë nëse dërguesi është në: ">
+<!ENTITY whitelist.label "Mos shëno postë si të pavlerë, nëse dërguesi është në: ">
 <!ENTITY whitelist.accesskey "M">
 
-<!ENTITY ispHeaders.label "Zëru besë titujve për postë hedhurinë të treguar si të tillë prej: ">
+<!ENTITY ispHeaders.label "Zëru besë titujve për postë të pavlerë treguar si të tillë prej: ">
 <!ENTITY ispHeaders.accesskey "Z">

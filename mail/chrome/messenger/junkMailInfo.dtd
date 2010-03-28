@@ -1,7 +1,7 @@
-<!ENTITY window.title  "Rreth Poste Hedhurinë">
+<!ENTITY window.title  "Rreth Postës së Pavlerë">
 <!ENTITY window.width  "450">
-<!ENTITY info1a.label  "&brandShortName;-i zbulon automatikisht mesazhe ardhës që duket të jenë postë hedhurinë (njohur edhe si spam). Për mesazhe që &brandShortName;-i mendon se janë hedhurinë do të shfaqet një ikonë hedhurinash">
+<!ENTITY info1a.label  "&brandShortName;-i zbulon automatikisht mesazhe ardhës që duket të jenë postë e pavlerë (njohur edhe si spam). Për mesazhe që &brandShortName;-i mendon se janë të pavlerë do të shfaqet një ikonë hedhurinash">
 <!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "Së pari, duhet të stërvisni &brandShortName;-in të identifikojë postë përmes përdorimit të butonave të panelit Hedhurinë për të shënuar mesazhe si hedhurinë ose jo hedhurinë.">
-<!ENTITY info3.label   "Pasi &brandShortName;-i të identifikojë saktë postë hedhurinë, mund të përdorni Kontrolle Poste Hedhurinë për të shpënë postë hedhurinë ardhëse automatikisht te dosja Hedhurina.">
+<!ENTITY info2.label   "Së pari, përmes përdorimit të butonave për shënim mesazhesh si të pavlerë ose si jo të pavlerë te paneli për të Pavlerat, duhet ta stërvisni &brandShortName;-in të identifikojë postë.">
+<!ENTITY info3.label   "Pasi &brandShortName;-i të identifikojë saktë postë të pavlerë, mund të përdorni Kontrolle Poste të Pavlerë për ta shpënë postën e pavlerë ardhëse automatikisht te dosja të Pavlera.">
 <!ENTITY info4.label   "Për më tepër të dhëna, klikoni Ndihmë.">

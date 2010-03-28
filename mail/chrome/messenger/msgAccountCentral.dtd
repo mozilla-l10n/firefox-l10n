@@ -13,9 +13,8 @@
 <!ENTITY advFeaturesSectionHdr.label  "Veçori të Mëtejshme"> 
 <!ENTITY searchMsgsLink.label         "Kërkoni në mesazhe"> 
 <!ENTITY filtersLink.label            "Administroni filtra mesazhesh">
-<!ENTITY junkSettings.label           "Rregullime për postë hedhurinë">
+<!ENTITY junkSettings.label           "Rregullime për postë të pavlerë">
 <!ENTITY offlineLink.label            "Rregullime për I palidhur">
 
-
-<!ENTITY rssSectionHdr.label          "RSS Lajmesh &amp; Blogjesh"> 
-<!ENTITY subscibeRSS.label            "Administroni pajtime">
+<!ENTITY feedsSectionHdr.label        "Prurje">
+<!ENTITY subscribeFeeds.label         "Administroni pajtime">
