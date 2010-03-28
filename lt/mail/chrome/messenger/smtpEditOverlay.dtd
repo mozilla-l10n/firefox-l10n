@@ -37,12 +37,8 @@
 <!ENTITY serverDescription.accesskey "b">
 <!ENTITY serverPort.label "Prievadas:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Nurodyti serveriui, kad jis patikrintų abonento vardą ir slaptažodį">
-<!ENTITY alwaysUseUsername.accesskey "N">
 <!ENTITY userName.label "Abonento vardas:">
 <!ENTITY userName.accesskey "b">
-<!ENTITY useSecAuth.label "Saugus tapatumo tikrinimas">
-<!ENTITY useSecAuth.accesskey "u">
 <!ENTITY connectionSecurity.label "Saugusis ryšys:">
 <!ENTITY connectionSecurity.accesskey "S">
 <!ENTITY connectionSecurityType-0.label "nenaudoti">
@@ -51,3 +47,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP serveris">
 <!ENTITY serverPortDefault.label "Numatytasis:">
+<!ENTITY authMethod.label "Tapatumo tikrinimo metodas:">
+<!ENTITY authMethod.accesskey "T">
