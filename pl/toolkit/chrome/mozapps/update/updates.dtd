@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Aktualizacja aplikacji">
 
-<!ENTITY  window.width                    "43em"><!-- en-US: 36 -->
-<!ENTITY  window.macWidth                 "45em"><!-- en-US: 39 -->
-
 <!ENTITY  checking.title                  "Sprawdzanie aktualizacji">
 <!ENTITY  updateCheck.label               "Sprawdzanie dostępności aktualizacji dla programu &brandShortName;…">
 
@@ -37,7 +34,7 @@
 
 <!ENTITY  incompatibleList.title          "Znaleziono niekompatybilne dodatki">
 
-<!ENTITY  downloading.title               "Pobieranie aktualizacji">
+<!ENTITY  downloadPage.title              "Pobieranie programu &brandShortName;">
 
 <!ENTITY  downloading.intro               "Trwa pobieranie aktualizacji…">
 <!ENTITY  connecting.label                "Łączenie z serwerem aktualizacji…">
