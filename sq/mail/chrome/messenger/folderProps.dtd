@@ -1,25 +1,25 @@
 <!ENTITY folderProps.windowtitle.label           "Veti">
-
 <!ENTITY generalInfo.label                       "Të dhëna Të përgjithshme">
-<!ENTITY folderCharsetTab.label                  "Kodim Gërmash Parazgjedhje:">
+<!ENTITY folderCharsetTab.label                  "Kodim Shkronjash Parazgjedhje:">
 <!ENTITY folderCharsetTab.accesskey              "K">
-<!ENTITY folderCharsetOverride.label             "Zbato parazgjedhjen mbi tërë mesazhet e dosjes (rregullimet vetjakë për kodim gërmash mesazhesh dhe vetëzbulimi do të shpërfillen)">
+<!ENTITY folderCharsetOverride.label             "Zbato parazgjedhjen mbi tërë mesazhet e dosjes (rregullimet vetjake për kodim shkronjash mesazhesh dhe vetëzbulimi do të shpërfillen)">
 <!ENTITY folderCharsetOverride.accesskey         "Z">
 
 <!ENTITY retention.label "Rregulla Mbajtjeje">
-<!ENTITY retentionUseDefault.label  "Përdor parazgjedhje shërbyesi">
-<!ENTITY retentionUseDefault.accesskey "P">
+<!ENTITY retentionUseAccount.label  "Përdor rregullimet e llogarisë sime">
+<!ENTITY retentionUseAccount.accesskey "P">
 <!ENTITY daysOld.label "ditë të vjetër">
 <!ENTITY message.label "mesazhe">
 <!ENTITY retentionCleanup.label "Për të ripasur hapësirë në disk, mesazhet e vjetër mund të fshihen përgjithnjë">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
 <!ENTITY retentionKeepAll.accesskey "M">
-<!ENTITY retentionKeepNew.label "Fshiji të tërë hiq të fundit">
-<!ENTITY retentionKeepNew.accesskey "F">
-<!ENTITY retentionKeepUnread.label "Fshi përherë mesazhe të lexuar">
-<!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY retentionKeepRecent.label "Fshiji të tërë, përveç më të fundit">
+<!ENTITY retentionKeepRecent.accesskey "F">
 
-<!ENTITY folderOfflineTab.label                  "I palidhur">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Fshiji përherë mesazhet e lexuara (anashkalon rregullimet kohore)">
+
+<!ENTITY folderSynchronizationTab.label          "Njëkohësim">
 <!ENTITY folderCheckForNewMessages.label         "Kontrollo këtë dosje për mesazhe të rinj">
 <!ENTITY folderCheckForNewMessages.accesskey     "K">
 
@@ -55,7 +55,7 @@
 <!ENTITY folderProps.location.label              "Vend:">
 <!ENTITY folderProps.location.accesskey          "V">
 <!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
-<!ENTITY retentionApplyToFlagged.accesskey "m">
+<!ENTITY retentionApplyToFlagged.accesskey "M">
 
 <!ENTITY retentionCleanupImap.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, si kopjet vendore, ashtu edhe origjinalet në shërbyesin e largët.">
 <!ENTITY retentionCleanupPop.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, përfshi origjinalet në shërbyesin e largët.">

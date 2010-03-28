@@ -3,27 +3,27 @@
 <!ENTITY copyAndFolderTitle.label "Kopje &amp; Dosje">
 <!ENTITY sendingPrefix.label "Kur dërgohen mesazhe, automatikisht: ">
 <!ENTITY fccMailFolder.label "Vendos një kopje në:">
-<!ENTITY fccMailFolder.accesskey "V">
+<!ENTITY fccMailFolder.accesskey "k">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc për këto vendndodhje email:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY saveMessageDlg.accesskey "q">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dosje &quot;Të dërguar&quot; në:">
 <!ENTITY sentFolderOn.accesskey "d">
 <!ENTITY sentInOtherFolder.label "Tjetër:">
-<!ENTITY sentInOtherFolder.accesskey "t">
+<!ENTITY sentInOtherFolder.accesskey "T">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Dosje &quot;Skicash&quot; në:">
-<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftsFolderOn.accesskey "S">
 <!ENTITY draftInOtherFolder.label "Tjetër:">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY draftInOtherFolder.accesskey "j">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Dosje &quot;Gjedhesh&quot; në:">
-<!ENTITY templatesFolderOn.accesskey "d">
+<!ENTITY templatesFolderOn.accesskey "G">
 <!ENTITY templateInOtherFolder.label "Tjetër:">
-<!ENTITY templateInOtherFolder.accesskey "t">
+<!ENTITY templateInOtherFolder.accesskey "e">
 <!ENTITY specialFoldersTitle.label "Skica dhe Gjedhe">
 <!ENTITY keepDrafts.label "Mbaj skica mesazhesh në:">
 <!ENTITY keepTempltes.label "Mbaj gjedhe mesazhesh në:">
@@ -32,9 +32,9 @@
 
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "Dosje &quot;Arkivash&quot; te:">
-<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Tjetër:">
-<!ENTITY archiveInOtherFolder.accesskey "T">
+<!ENTITY archiveInOtherFolder.accesskey "r">
 
 <!ENTITY keepArchives.label "Arkivat e mesazheve mbaji te:">
 

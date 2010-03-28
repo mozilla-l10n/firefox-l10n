@@ -3,7 +3,7 @@
 <!ENTITY  popupExceptions.label       "Përjashtime…">
 <!ENTITY  popupExceptions.accesskey   "P">
 
-<!ENTITY  loadImages.label            "Ngarkoji pamjet vetvetiu">
+<!ENTITY  loadImages.label            "Ngarkoji figurat vetvetiu">
 <!ENTITY  loadImages.accesskey        "V">
 <!ENTITY  exceptions.label            "Përjashtime…">
 <!ENTITY  exceptions.accesskey        "r">
@@ -17,9 +17,9 @@
 <!ENTITY  enableJava.accesskey        "j">
 
 
-<!ENTITY  fontsAndColors.label        "Gërma &amp; Ngjyra">
+<!ENTITY  fontsAndColors.label        "Shkronja &amp; Ngjyra">
 
-<!ENTITY  defaultFont.label                       "Gërma parazgjedhje:">
+<!ENTITY  defaultFont.label                       "Shkronja parazgjedhje:">
 <!ENTITY  defaultFont.accesskey                   "g">
 <!ENTITY  defaultSize.label                       "Madhësi:">
 <!ENTITY  defaultSize.accesskey                   "m">

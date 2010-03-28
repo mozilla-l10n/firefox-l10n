@@ -1,25 +1,25 @@
 <!ENTITY dialog.title                 "Mundësi Dërgimi">
 <!ENTITY sendMail.title               "Format Teksti">
-<!ENTITY sendMaildesc.label           "Kur dërgohen mesazhe në format HTML dhe një a më shumë nga marrësit nuk janë të listuar te ata që munden të marrin HTML:">
+<!ENTITY sendMaildesc.label           "Kur dërgohen mesazhe në format HTML, dhe një a më shumë nga marrësit nuk janë te lista e atyre që munden të marrin HTML:">
 <!ENTITY askMe.label                  "Pyetmë ç&apos;të bëj">
 <!ENTITY askMe.accesskey              "p">
-<!ENTITY convertPlain.label           "Shndërro mesazhin në tekst të thjeshtë">
-<!ENTITY convertPlain.accesskey       "s">
-<!ENTITY sendHTML.label               "Dërgo mesazhin në HTML sido qoftë">
-<!ENTITY sendHTML.accesskey           "d">
-<!ENTITY sendBoth.label               "Dërgo mesazhin si tekst të thjeshtë dhe si HTML">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Shënim: Përdorni Librin e Vendndodhjeve për të treguar formate të parapëlqyer teksti për marrësa.">
+<!ENTITY convertPlain.label           "Shndërroje mesazhin në tekst të thjeshtë">
+<!ENTITY convertPlain.accesskey       "S">
+<!ENTITY sendHTML.label               "Dërgoje mesazhin si HTML, sido qoftë">
+<!ENTITY sendHTML.accesskey           "D">
+<!ENTITY sendBoth.label               "Dërgoje mesazhin si tekst të thjeshtë dhe si HTML">
+<!ENTITY sendBoth.accesskey           "m">
+<!ENTITY override.label               "Shënim: Përdorni Librin e Vendndodhjeve për të treguar formate teksti të parapëlqyer nga marrësat.">
 
-<!ENTITY domaindesc.label             "Kur dërgoni mesazh te një vendndodhje me një emrat e përkatësisë të listuar më poshtë, &brandShortName;-i vetvetiu e dërgon mesazhin në formatin e duhur.">
+<!ENTITY domaindesc.label             "Kur dërgoni mesazh te një vendndodhje me një emrat e përkatësisë te lista më poshtë, &brandShortName;-i vetvetiu e dërgon mesazhin në formatin e duhur.">
 <!ENTITY HTMLTab.label                "Përkatësi HTML">
 <!ENTITY HTMLTab.accesskey            "h">
 <!ENTITY PlainTextTab.label           "Përkatësi Tekst i Thjeshtë">
-<!ENTITY PlainTextTab.accesskey       "t">
+<!ENTITY PlainTextTab.accesskey       "T">
 <!ENTITY AddHtmlDomain.label          "Shto…">
 <!ENTITY AddHtmlDomain.accesskey      "s">
 <!ENTITY AddPlainText.label           "Shto…">
-<!ENTITY AddPlainText.accesskey       "t">
+<!ENTITY AddPlainText.accesskey       "S">
 <!ENTITY DeleteHtmlDomain.label       "Fshije">
 <!ENTITY DeleteHtmlDomain.accesskey   "f">
 <!ENTITY DeletePlainText.accesskey    "f">
@@ -29,7 +29,3 @@
 <!ENTITY add.htmldomain               "Emër Përkatësie HTML:">
 <!ENTITY add.plaintexttitle           "Shto Emër Përkatësie Tekst i Thjeshtë">
 <!ENTITY add.plaintextdomain          "Emër Përkatësie Tekst i Thjeshtë:">
-
-
-
-

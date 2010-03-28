@@ -1,3 +1,4 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Rregullime Identiteti">
 <!ENTITY identityListDesc.label "Formësoni rregullimet për këtë identitet:">
 

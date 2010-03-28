@@ -1,47 +1,45 @@
 <!ENTITY itemFormatting.label             "Formatim">
-<!ENTITY itemTags.label                   "Shenja">
+<!ENTITY itemTags.label                   "Etiketa">
 <!ENTITY style.label                      "Stil:">
-<!ENTITY style.accesskey                  "s">
+<!ENTITY style.accesskey                  "i">
 <!ENTITY regularStyle.label               "I rregullt">
 <!ENTITY bold.label                       "Të trasha">
 <!ENTITY italic.label                     "Të pjerrëta">
 <!ENTITY boldItalic.label                 "Të trasha të pjerrëta">
 <!ENTITY size.label                       "Madhësi:">
-<!ENTITY size.accesskey                   "m">
+<!ENTITY size.accesskey                   "a">
 <!ENTITY regularSize.label                "Të rregullta">
 <!ENTITY bigger.label                     "Më të mëdhaja">
 <!ENTITY smaller.label                    "Më të vogla">
 <!ENTITY color.label                      "Ngjyrë:">
-<!ENTITY color.accesskey                  "n">
+<!ENTITY color.accesskey                  "N">
 <!ENTITY displayWidth.label               "Mesazhe Tekst i Thjeshtë">
-<!ENTITY plainText.label	          "Përdor gërmat vijuese:">
 <!ENTITY displayText.label	          "Kur shfaqen mesazhe teksti të thjeshtë të cituar:">
-<!ENTITY fixedWidth.label                 "Gërma me gjerësi të fiksuar">
-<!ENTITY fixedWidth.accesskey             "f">
-<!ENTITY variableWidth.label              "Gërma me gjerësi të ndryshueshme">
-<!ENTITY variableWidth.accesskey          "y">
 <!ENTITY colors.label                     "Ngjyra">
 <!ENTITY overrideColors.label             "Kur shfaqen mesazhe, përdor ngjyrat vijuese:">
 <!ENTITY textColor.label                  "Ngjyrë Teksti:">
 <!ENTITY textColor.accesskey              "T">
 <!ENTITY backgroundColor.label            "Ngjyrë Sfondi:">
-<!ENTITY backgroundColor.accesskey        "s">
+<!ENTITY backgroundColor.accesskey        "f">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Emotikonet shfaqi si grafikë">
-<!ENTITY convertEmoticons.accesskey    "e">
+<!ENTITY convertEmoticons.accesskey    "E">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Shenjat mund të përdoren për të kategorizuar dhe treguar përparësi për mesazhet tuaj.">
+<!ENTITY displayTagsText.label    "Etiketat mund të përdoren për të kategorizuar dhe treguar përparësi për mesazhet tuaj.">
 <!ENTITY addTagButton.label       "Shtoni">
 <!ENTITY addTagButton.accesskey   "S">
 <!ENTITY editTagButton.label      "Përpunoni">
-<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY editTagButton.accesskey  "P">
 <!ENTITY removeTagButton.label    "Fshije">
 <!ENTITY removeTagButton.accesskey "F">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label       "Formësoni gërmat dhe kodimet e përdorura nga &brandShortName;-i">
-<!ENTITY fontsAndEncodingsCaption.label      "Gërma &amp; Kodime">
-<!ENTITY fontOptions.accesskey   "G">
-<!ENTITY fontOptions.label       "Gërma…">
+<!ENTITY fontsAndColors.label    "Shkronja">
+<!ENTITY defaultFont.label       "Shkronja parazgjedhje:">
+<!ENTITY defaultFont.accesskey   "p">
+<!ENTITY defaultSize.label       "Madhësi:">
+<!ENTITY defaultSize.accesskey   "M">
+<!ENTITY fontOptions.accesskey   "S">
+<!ENTITY fontOptions.label       "Shkronja…">

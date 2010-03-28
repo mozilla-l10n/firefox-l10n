@@ -1,8 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.title            "Mbi Të Drejtat Tuaja">
 <!ENTITY rights.intro-header    "Mbi Të Drejtat Tuaja">
-<!ENTITY rights.intro "&brandFullName;-i është &quot;software&quot; falas dhe me burim të hapur, i ndërtuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të ishte mirë t&apos;i dini:">
+<!ENTITY rights.intro "&brandFullName;-i është &quot;software&quot; i lirë dhe me burim të hapur, i ndërtuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të ishte mirë t&apos;i dini:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -35,7 +35,7 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Nëse ky produkt përmban shërbime web, çfarëdo kushti i zbatueshëm për shërbimin(et) do të duhej të lidhej me ">
-<!ENTITY rights.intro-point4b-unbranded "ndarja Shërbime &quot;Site&quot;-i Web">
+<!ENTITY rights.intro-point4b-unbranded "ndarjen Shërbime &quot;Site&quot;-i Web">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights.webservices-header "Shërbime &quot;Site&quot;-i Web &brandFullName;">

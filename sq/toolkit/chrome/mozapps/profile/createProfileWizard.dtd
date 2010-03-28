@@ -3,7 +3,7 @@
 <!ENTITY button.usedefault.accesskey "P">
 <!ENTITY button.usedefault.label "Përdor Dosje Parazgjedhje">
 <!ENTITY newprofile.title "Pjesa e Krijimit të Profileve">
-<!ENTITY profileCreationExplanation_1.text "&brandShortName; ruan të dhëna rreth rregullimeve dhe parapëlqimeve tuaj te profili juaj vetjak.">
+<!ENTITY profileCreationExplanation_1.text "&brandShortName;-i ruan të dhëna rreth rregullimeve dhe parapëlqimeve tuaj te profili juaj vetjak.">
 <!ENTITY profileCreationExplanation_2.text "Nëse e ndani këtë kopje të &brandShortName;-it me përdorues të tjerë, mund të përdorni profile për të mbajtur ndaras të dhëna të çdo përdoruesi. Për këtë, çdo përdorues do të duhej të krijonte profilin e tij ose të saj.">
 <!ENTITY profileCreationExplanation_3.text "Nëse jeni personi i vetëm që përdor këtë kopje të &brandShortName;-it, duhet të keni të paktën një profil. Nëse doni, mund të krijoni për veten profile të shumëfishtë, për të ruajtur grupe të ndryshëm rregullimesh dhe parapëlqimesh. Për shembull, mund të doni të keni profile të veçantë për në punë dhe përdorim vetjak.">
 <!ENTITY profileCreationExplanation_4.text "Për të filluar krijimin e profilit tuaj, klikoni Pasues">

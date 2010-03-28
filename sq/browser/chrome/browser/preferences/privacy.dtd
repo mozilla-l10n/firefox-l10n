@@ -3,11 +3,11 @@
 <!ENTITY  acceptCookies.label           "Prano &quot;cookies&quot; prej &quot;site&quot;-esh">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  keepUntil.label               "Mbaji derisa:">
+<!ENTITY  keepUntil.label               "Mbaji:">
 <!ENTITY  keepUntil.accesskey           "M">
 
-<!ENTITY  expire.label                  "të skadojnë">
-<!ENTITY  close.label                   "të mbyll &brandShortName;-in">
+<!ENTITY  expire.label                  " deri sa të skadojnë">
+<!ENTITY  close.label                   " deri sa të mbyll &brandShortName;-in">
 <!ENTITY  askEachTime.label             "pyetmë çdo herë">
 
 <!ENTITY  cookieExceptions.label        "Përjashtime…">
@@ -34,7 +34,7 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Mba mend historikun tim të shfletimit për të paktën">
+<!ENTITY  rememberHistory.pre.label      "Mba mend historikun e shfletimeve të mia për të paktën">
 <!ENTITY  rememberHistory.pre.accesskey  "h">
 <!ENTITY  rememberHistory.post.label     "ditë">
 
@@ -45,7 +45,7 @@
 <!ENTITY  rememberDownload.accesskey     "s">
 
 <!ENTITY  clearOnCloseSettings.label     "Rregullime…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.accesskey "R">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -61,7 +61,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Mund të doni po ashtu të ">
-<!ENTITY  dontrememberActions.clearHistory.label "pastroni tërë historikun tuja të tanishëm">
+<!ENTITY  dontrememberActions.clearHistory.label "pastroni tërë historikun tuaj të tanishëm">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingAutoStart.label "Nise vetvetiu &brandShortName;-in në sesion shfletimi vetjak">
@@ -70,7 +70,7 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;-i:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "Do të mbajë mend historikun">
+<!ENTITY  historyHeader.remember.label     "Do ta mbajë mend historikun">
 <!ENTITY  historyHeader.dontremember.label "Nuk do ta mbajë mend historikun">
 <!ENTITY  historyHeader.custom.label       "Do të përdorë rregullime vetjake për historikun">
 <!ENTITY  historyHeader.post.label         "">

@@ -2,19 +2,19 @@
 <!ENTITY windowTitle.label         "Boto Faqe">
 <!ENTITY windowTitleSettings.label "Rregullime Botimi">
 
-<!ENTITY publishTab.label         "Boto">
+<!ENTITY publishTab.label         "Botim">
 <!ENTITY settingsTab.label        "Rregullime">
 
 <!ENTITY publishButton.label      "Boto">
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label           "Emër &quot;Site&quot;-i:">
-<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.accesskey       "E">
 <!ENTITY siteList.tooltip         "Zgjidhni &quot;site&quot;-in te i cili doni të botohet">
 <!ENTITY newSiteButton.label      "&quot;Site&quot; i Ri">
 <!ENTITY docDirList.label         "Nëndrejtori &quot;site&quot;-i për këtë faqe:">
-<!ENTITY publishImgCheckbox.label "Përfshi pamje dhe kartela të tjera">
-<!ENTITY publishImgCheckbox.tooltip "Boto pamje dhe kartela të tjera të cilave u referohet kjo faqe">
+<!ENTITY publishImgCheckbox.label "Përfshi figura dhe kartela të tjera">
+<!ENTITY publishImgCheckbox.tooltip "Boto figura dhe kartela të tjera të cilave u referohet kjo faqe">
 <!ENTITY sameLocationRadio.label  "Përdor të njëjtën vendndodhje si faqja">
 <!ENTITY sameLocationRadio.tooltip "Botoji kartelat te e njëjta vendndodhje si faqja">
 <!ENTITY useSubdirRadio.label     "Përdor këtë nëndrejtori &quot;site&quot;-i:">
@@ -38,10 +38,10 @@
 <!ENTITY browseUrl.label      "Vendndodhja HTTP e faqes tuaj (p.sh.: 'http://www.ispjaim.com/emriimipërdoruesit'):">
 <!ENTITY browseUrl.tooltip    "Vendndodhja HTTP:// e drejtorisë suaj hyrëse (mos përfshini emër kartele)">
 <!ENTITY username.label       "Emër përdoruesi:">
-<!ENTITY username.tooltip     "Emri i përdoruesit që përdorni për t&apos;u futur te ISP-ja juaj apo shërbimi i strehimever web">
+<!ENTITY username.tooltip     "Emri i përdoruesit që përdorni për t&apos;u futur te ISP-ja juaj apo shërbimi i strehimeve web">
 <!ENTITY password.label       "Fjalëkalim:">
 <!ENTITY password.tooltip     "Fjalëkalimi i shoqëruar emrit tuaj të përdoruesit">
-<!ENTITY savePassword.label   "Ruaj Fjalëkalim">
+<!ENTITY savePassword.label   "Ruaje Fjalëkalim">
 <!ENTITY savePassword.tooltip "Përzgjidheni këtë për të ruajtur në mënyrë të sigurt fjalëkalimin tuaj duke përdorur Përgjegjësin e Fjalëkalimeve">
 <!ENTITY newSiteButton.accesskey      "R">
 <!ENTITY removeButton.accesskey       "H">

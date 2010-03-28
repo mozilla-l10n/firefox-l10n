@@ -18,9 +18,8 @@
 <!ENTITY biffStart.label "Kontrollo për mesazhe të rinj çdo ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuta">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Përdor mirëfilltësim të sigurt">
-<!ENTITY useSecAuth.accesskey "m">
+<!ENTITY authMethod.label "Metodë mirëfilltësimi:">
+<!ENTITY authMethod.accesskey "m">
 <!ENTITY leaveOnServer.label "Lëri mesazhet në shërbyes">
 <!ENTITY leaveOnServer.accesskey "n">
 <!ENTITY headersOnly.label "Sill vetëm titujt">
@@ -31,7 +30,7 @@
 <!ENTITY deleteOnServer2.label "Derisa t'i fshij ata">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Shkarko mesazhe të rinj vetvetiu">
-<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY downloadOnBiff.accesskey "k">
 
 <!ENTITY username.label "Emri Juaj për Hyrje">
 <!ENTITY deleteMessagePrefix.label "Kur fshij një mesazh:">
@@ -43,7 +42,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Gjatë daljes Pastro (&quot;Fshij&quot;) Të Marrët">
 <!ENTITY expungeOnExit.accesskey "P">
-<!ENTITY emptyTrashOnExit.label "Gjatë daljes Zbraz Hedhurinat">
+<!ENTITY emptyTrashOnExit.label "Zbrazi Hedhurinat Gjatë Daljes">
 <!ENTITY emptyTrashOnExit.accesskey "Z">
 <!ENTITY loginAtStartup.label "Shih për mesazhe të rinj gjatë nisjes"> 
 <!ENTITY loginAtStartup.accesskey "S">
@@ -63,8 +62,8 @@
 <!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Të mëtejshëm…">
-<!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Gërmash:">
-<!ENTITY advancedButton.accesskey "k">
+<!ENTITY advancedButton.accesskey "m">
+<!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Shkronjash:">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">
 <!ENTITY browseFolder.accesskey "S">
@@ -74,11 +73,8 @@
 <!ENTITY modelDeleteImmediately.accesskey "f">
 
 <!ENTITY connectionSecurity.label "Siguri lidhjeje:">
-<!ENTITY connectionSecurity.accesskey "s">
+<!ENTITY connectionSecurity.accesskey "S">
 <!ENTITY connectionSecurityType-0.label "Asnjë">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, në pastë">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-
-
-

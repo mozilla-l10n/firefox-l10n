@@ -2,11 +2,11 @@
 <!ENTITY AdvancedEditButton.accessKey "P">
 <!ENTITY AdvancedEditButton.tooltip "Shtoni ose ndryshoni atribute HTML, stili dhe JavaScript">
 <!ENTITY chooseFileButton.label "Zgjidhni Kartelë…">
-<!ENTITY chooseFileButton.accessKey "K">
+<!ENTITY chooseFileButton.accessKey "Z">
 <!ENTITY chooseFileLinkButton.label "Zgjidhni Kartelë…">
 <!ENTITY chooseFileLinkButton.accessKey "K">
 <!ENTITY makeUrlRelative.label "URL-ja është e lidhur me vendndodhjen e faqes">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Ndryshim midis URL-je relative dhe URL-je absolute. Për të ndryshuar këtë, duhet fillimisht ta ruani faqen.">
 
 <!-- Shared by Link and Image dialogs -->

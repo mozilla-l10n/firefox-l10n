@@ -56,7 +56,7 @@
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
-<!ENTITY addCurPagesCmd.label "Faqeruaj Tërë Skedat…">
+<!ENTITY addCurPagesCmd.label "Faqeruaji Tërë Skedat…">
 <!ENTITY showAllTabsCmd.label "Shfaqi Tërë Skedat">
 <!ENTITY showAllTabsCmd.accesskey "T">
 
@@ -69,7 +69,7 @@
 <!ENTITY forwardButton.tooltip        "Shko para një faqe">
 <!ENTITY reloadCmd.label              "Ringarko">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY reloadButton.tooltip         "Ringarkoni faqen e çastit">
+<!ENTITY reloadButton.tooltip         "Ringarko faqen e tanishme">
 <!ENTITY stopCmd.label                "Ndal">
 <!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -148,15 +148,15 @@
 <!ENTITY deleteCmd.label          "Fshije">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Përzgjidhe të Tërën">  
-<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">  
+<!ENTITY selectAllCmd.key         "j">  
 <!ENTITY selectAllCmd.accesskey       "P"> 
 <!ENTITY preferencesCmd.label       "Mundësi…">
 <!ENTITY preferencesCmd.accesskey     "M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "l"> 
+<!ENTITY preferencesCmdUnix.accesskey     "q"> 
 
-<!ENTITY viewMenu.label         "Shihni"> 
+<!ENTITY viewMenu.label         "Shfaqje"> 
 <!ENTITY viewMenu.accesskey       "S"> 
 <!ENTITY viewToolbarsMenu.label       "Panele"> 
 <!ENTITY viewToolbarsMenu.accesskey     "P"> 
@@ -221,13 +221,13 @@
 <!ENTITY viewPageInfoCmd.accesskey    "D">
 <!ENTITY viewFrameInfoCmd.label       "Shihni të Dhëna Kornize">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY viewImageCmd.label           "Shihni Pamje">
+<!ENTITY viewImageCmd.label           "Shihni Figurë">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "Shihni Pamje Sfondi">
+<!ENTITY viewBGImageCmd.label         "Shihni Figurë Sfondi">
 <!ENTITY viewBGImageCmd.accesskey     "F">
 <!ENTITY setDesktopBackgroundCmd.label      "Vëre Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY sendPageCmd.label            "Dërgo Lidhjen…">
+<!ENTITY sendPageCmd.label            "Dërgoni Lidhjen…">
 <!ENTITY sendPageCmd.accesskey        "g">
 <!ENTITY savePageCmd.label            "Ruaje Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
@@ -238,21 +238,19 @@
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY saveLinkCmd.label            "Ruaje Lidhjen Si…">
 <!ENTITY saveLinkCmd.accesskey        "R">
-<!ENTITY sendLinkCmd.label            "Dërgo Lidhjen…"> 
+<!ENTITY sendLinkCmd.label            "Dërgoni Lidhjen…"> 
 <!ENTITY sendLinkCmd.accesskey        "L">
-<!ENTITY saveImageCmd.label           "Ruaje Pamjen Si…">
+<!ENTITY saveImageCmd.label           "Ruaje Figurën Si…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Dërgo Pamjen…">
+<!ENTITY sendImageCmd.label           "Dërgoni Figurën…">
 <!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Pamjeje">
+<!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Figure">
 <!ENTITY copyImageCmd.accesskey       "P">
-<!ENTITY copyImageContentsCmd.label   "Kopjo Pamjen">
+<!ENTITY copyImageContentsCmd.label   "Kopjo Figurën">
 <!ENTITY copyImageContentsCmd.accesskey  "K"> 
 <!ENTITY blockImageCmd.accesskey       "g">
-<!ENTITY metadataCmd.label            "Veti">
-<!ENTITY metadataCmd.accesskey        "V">
 <!ENTITY copyEmailCmd.label           "Kopjo Vendndodhje Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Këtë Kornizë">
@@ -374,15 +372,15 @@
 <!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
 <!ENTITY mediaHideControls.accesskey "K">
 
-<!ENTITY reloadImageCmd.label         "Ringarko Pamjen">
+<!ENTITY reloadImageCmd.label         "Ringarko Figurën">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY saveVideoCmd.label           "Ruaje Videon Si…">
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Ruaje Audion Si…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY sendVideoCmd.label           "Dërgoje Videon…">
+<!ENTITY sendVideoCmd.label           "Dërgoni Videon…">
 <!ENTITY sendVideoCmd.accesskey       "d">
-<!ENTITY sendAudioCmd.label           "Dërgoje Audion…">
+<!ENTITY sendAudioCmd.label           "Dërgoni Audion…">
 <!ENTITY sendAudioCmd.accesskey       "d">
 
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
@@ -390,7 +388,7 @@
 
 <!ENTITY clearRecentHistoryCmd.label            "Pastro Historikun Së fundmi">
 <!ENTITY clearRecentHistoryCmd.accesskey        "H">
-<!ENTITY allTabs.filter.emptyText "Kërko në Skeda">
+<!ENTITY allTabs.filter.emptyText "Kërkoni te Skeda">
 
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
@@ -409,7 +407,14 @@
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundmi">
 <!ENTITY newTabButton.tooltip           "Hap skedë të re">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Kërko në Faqerojtësa dhe Historik">
-<!ENTITY urlbar.bookmark.emptyText    "Kërko në Faqerojtësa">
-<!ENTITY urlbar.history.emptyText     "Kërko në Historik">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Kërkoni te Faqerojtësat dhe Historiku">
+<!ENTITY urlbar.bookmark.emptyText    "Kërkoni te Faqerojtësat">
+<!ENTITY urlbar.history.emptyText     "Kërkoni te Historiku">
 <!ENTITY urlbar.none.emptyText        "Shtypni një vendndodhje Web">
+
+
+<!ENTITY fullScreenButton.tooltip       "Shfaqe dritaren sa tërë ekrani">
+<!ENTITY fullScreenCmd.macCommandKey "d">
+
+<!ENTITY viewImageInfoCmd.label       "Shfaq të Dhëna Figure">
+<!ENTITY viewImageInfoCmd.accesskey   "p">

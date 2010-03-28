@@ -5,7 +5,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY edit.label                     "Përpunim">
 <!ENTITY edit.accesskey                 "P">
-<!ENTITY views.label                    "Shihni">
+<!ENTITY views.label                    "Shfaqje">
 <!ENTITY view.toolbar.label             "Panel">
 <!ENTITY view.toolbar.accesskey         "N">
 <!ENTITY view.columns.label             "Shfaq Shtylla">

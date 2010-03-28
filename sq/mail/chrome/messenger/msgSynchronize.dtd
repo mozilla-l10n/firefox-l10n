@@ -6,7 +6,7 @@
 <!ENTITY MsgSyncDesc.label "Nëse keni përzgjedhur tashmë dosje poste ose grupe lajmesh për përdorim të palidhur, mund t&apos;i shkarkoni dhe/ose njëkohësoni tani. Përndryshe, përdorni butonin &quot;Përzgjidhni&quot; për të zgjedhur dosje poste dhe grupe lajmesh për përdorim të palidhur.">
 <!ENTITY MsgSyncDirections.label "Shkarko dhe/ose njëkohëso vijuesen:">
 <!ENTITY syncTypeMail.label "Mesazhe poste">
-<!ENTITY syncTypeMail.accesskey "P">
+<!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Mesazhe Grupi Lajmesh">
 <!ENTITY syncTypeNews.accesskey "G">
 <!ENTITY sendMessage.label "Dërgo mesazhe të Padërguar">
@@ -14,7 +14,7 @@
 <!ENTITY workOffline.label "Puno i palidhur pasi të jetë përfunduar shkarkimi dhe/ose njëkohësimi">
 <!ENTITY workOffline.accesskey "u">
 <!ENTITY selectButton.label "Përzgjidhni…">
-<!ENTITY selectButton.accesskey "Z">
+<!ENTITY selectButton.accesskey "P">
 <!ENTITY MsgSelectDesc.label "Zgjidhni dosje poste dhe grupe lajmesh për përdorim të palidhur.">
-<!ENTITY MsgSelectInd.label "Shkarko">
+<!ENTITY MsgSelectInd.label "Shkarkoje">
 <!ENTITY MsgSelectItems.label "Dosje dhe Grupe Lajmesh">

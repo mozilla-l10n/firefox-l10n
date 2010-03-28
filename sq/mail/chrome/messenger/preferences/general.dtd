@@ -1,32 +1,32 @@
 <!ENTITY messengerStartPage.label         "Faqe Fillimi për &brandShortName;-in">
-<!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, shfaq te zona e mesazheve Faqe Fillimi">
-<!ENTITY enableStartPage.accesskey        "F">
+<!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, te zona e mesazheve shfaq Faqen e Fillimit">
+<!ENTITY enableStartPage.accesskey        "K">
 <!ENTITY location.label                   "Vend:">
-<!ENTITY location1.accesskey               "v">
+<!ENTITY location1.accesskey               "V">
 <!ENTITY useDefault.label                 "Rimerr Parazgjedhjet">
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY bounceSystemDockIcon.label       "Zgjo ikonën përkatëse">
-<!ENTITY bounceSystemDockIcon.accesskey   "z">
+<!ENTITY bounceSystemDockIcon.accesskey   "Z">
 
 <!ENTITY newMessagesArrive.label          "Kur mbërrijnë mesazhe të rinj:">
 <!ENTITY playSound.label                  "Luaj një tingull">
-<!ENTITY playSound1.accesskey              "l">
+<!ENTITY playSound1.accesskey             "L">
 <!ENTITY showAnimatedAlert.label          "Shfaq një sinjalizim">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY customizeMailAlert.label         "Përshtasni…">
+<!ENTITY customizeMailAlert.label         "Përshtateni…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
 <!ENTITY play.label                       "Luaje">
-<!ENTITY play.accesskey                   "L">
+<!ENTITY play.accesskey                   "u">
 <!ENTITY systemsound.label                "Tingull parazgjedhje sistemi për postë të re">
 <!ENTITY systemsoundMac.label             "Tingull Sinjalizimi Sistemi">
-<!ENTITY systemsoundMac.accesskey         "s">
-<!ENTITY systemsound.accesskey            "s">
+<!ENTITY systemsoundMac.accesskey         "i">
+<!ENTITY systemsound.accesskey            "T">
 <!ENTITY customsound.label                "Përdor kartelën zanore vijuese">
-<!ENTITY customsound.accesskey            "P">
+<!ENTITY customsound.accesskey            "o">
 <!ENTITY browse.label                     "Shfletoni…">
-<!ENTITY browse.accesskey                 "h">
+<!ENTITY browse.accesskey                 "f">
 
 <!ENTITY addonsMgr.label                  "Shtesa">
 <!ENTITY manageAddonsDescWin.label        "Ndryshoni mundësitë për shtesat tuaja">

@@ -1,8 +1,8 @@
-<!ENTITY matchAll.label     "Kanë përputhje me tërë sa vijon">
-<!ENTITY matchAll.accesskey "p">
+<!ENTITY matchAll.label     "Kanë përputhje me krejt sa vijon">
+<!ENTITY matchAll.accesskey "r">
 <!ENTITY matchAny.label     "Kanë përputhje me ndonjë nga sa vijon">
-<!ENTITY matchAny.accesskey "n">
-<!ENTITY matchAllMsgs.label     "Kanë përputhje me tërë mesazhet">
+<!ENTITY matchAny.accesskey "d">
+<!ENTITY matchAllMsgs.label     "Kanë përputhje me krejt mesazhet">
 <!ENTITY matchAllMsgs.accesskey "m">
 
 <!-- LOCALIZATION NOTE  
@@ -13,4 +13,4 @@
 <!ENTITY searchTermListAttributesFlexValue "5">
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">
-<!ENTITY searchTermListButtonsFlexValue "2">
+<!ENTITY searchTermListButtonsFlexValue "5">

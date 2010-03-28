@@ -1,11 +1,10 @@
-<!ENTITY newsblogTitle.label "Rregullime Llogarie RSS">
-
+<!ENTITY accountTitle.label "Rregullime Llogarie">
 <!ENTITY biffStart.label "Kontrollo për artikuj të rinj çdo ">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.accesskey "K">
 <!ENTITY biffEnd.label "minuta">
 
 <!ENTITY loginAtStartup.label "Kontrollo për artikuj të rinj gjatë nisjes"> 
-<!ENTITY loginAtStartup.accesskey "K">
+<!ENTITY loginAtStartup.accesskey "o">
 
 <!ENTITY useQuickMode.label "Si parazgjedhje, shfaq përmbledhje artikulli në vend të ngarkimit të faqes web"> 
 <!ENTITY useQuickMode.accesskey "S">
@@ -13,8 +12,8 @@
 <!ENTITY manageSubscriptions.label "Administroni Regjistrime…"> 
 <!ENTITY manageSubscriptions.accesskey "A">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Lajme &amp; Blogje">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Lajme &amp; Blogje RSS">
-<!ENTITY rss.wizardLongName.accesskey "L">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Prurje Blogjesh &amp; Lajmesh">
+<!ENTITY feeds.wizardShortName "Prurje">
+<!ENTITY feeds.wizardLongName "Prurje Blogjesh &amp; Lajmesh">
+<!ENTITY feeds.wizardLongName.accesskey "P">

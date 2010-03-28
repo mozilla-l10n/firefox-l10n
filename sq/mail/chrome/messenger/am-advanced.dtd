@@ -7,17 +7,17 @@
 <!ENTITY smtpDesc.label "Edhe pse mund të jepni më tepër se një shërbyes (SMTP) dërgues, kjo këshillohet vetëm për përdorues të përparuar. Rregullimi me shërbyesa të shumëfishtë SMTP mund të shkaktojë probleme gjatë dërgimit të mesazheve.">
 
 <!ENTITY smtpListAdd.label  "Shtoni…">
-<!ENTITY smtpListAdd.accesskey  "s">
+<!ENTITY smtpListAdd.accesskey  "S">
 <!ENTITY smtpListEdit.label "Përpunoni…">
-<!ENTITY smtpListEdit.accesskey "p">
+<!ENTITY smtpListEdit.accesskey "P">
 <!ENTITY smtpListDelete.label "Hiqe">
-<!ENTITY smtpListDelete.accesskey "h">
+<!ENTITY smtpListDelete.accesskey "H">
 <!ENTITY smtpListSetDefault.label "Vëre si Parazgjedhje">
-<!ENTITY smtpListSetDefault.accesskey "v">
+<!ENTITY smtpListSetDefault.accesskey "V">
 
 <!ENTITY serverDescription.label "Përshkrim: ">
 <!ENTITY serverName.label "Emër Shërbyesi: ">
 <!ENTITY serverPort.label "Portë: ">
 <!ENTITY userName.label   "Emër Përdoruesi: ">
 <!ENTITY connectionSecurity.label "Siguri Lidhjeje: ">
-<!ENTITY useSecureAuthentication.label   "Mirëfilltësim i Sigurt: ">
+<!ENTITY authMethod.label   "Metodë Mirëfilltësimi: ">

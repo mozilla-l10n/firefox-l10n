@@ -1,10 +1,10 @@
 <!ENTITY window.title "Rregulla Filtrash">
 
 <!ENTITY filterName.label "Emër filtri:">
-<!ENTITY filterName.accesskey "e">
+<!ENTITY filterName.accesskey "E">
 
-<!ENTITY junk.label "Hedhurinë">
-<!ENTITY notJunk.label "Jo Hedhurinë">
+<!ENTITY junk.label "E pavlerë">
+<!ENTITY notJunk.label "Jo e Pavlerë">
 
 <!ENTITY lowestPriorityCmd.label "Më e vogël">
 <!ENTITY lowPriorityCmd.label "E vogël">
@@ -13,7 +13,7 @@
 <!ENTITY highestPriorityCmd.label "Më e madhe">
 
 <!ENTITY contextDesc.label "Zbatoje filtrin kur:">
-<!ENTITY contextDesc.accesskey "z">
+<!ENTITY contextDesc.accesskey "Z">
 <!ENTITY contextIncoming.label "Kontrollohet për Postë">
 <!ENTITY contextManual.label "Xhirohet Dorazi">
 <!ENTITY contextBoth.label "Kontrollohet për Postë ose Xhirohet Dorazi">
@@ -29,7 +29,7 @@
 <!ENTITY markMessageStarred.label "Shto Yllkë">
 <!ENTITY setPriority.label "Vërja Përparësinë">
 <!ENTITY addTag.label "Etiketoje Mesazhin Si">
-<!ENTITY setJunkScore.label "Vërja Gjendjen Hedhurinë Si">
+<!ENTITY setJunkScore.label "Vërja Gjendjen Për të Pavlerën Si">
 <!ENTITY deleteMessage.label "Fshije Mesazhin">
 <!ENTITY deleteFromPOP.label "Fshije Prej Shërbyesi POP">
 <!ENTITY fetchFromPOP.label "Sille Prej Shërbyesi POP">
@@ -37,3 +37,6 @@
 <!ENTITY ignoreSubthread.label "Shpërfille Nënrrjedhën">
 <!ENTITY watchThread.label "Vëzhgoje Rrjedhën">
 <!ENTITY stopExecution.label "Ndale Përmbushjen e Filtrit">
+
+<!ENTITY contextPostPlugin.label "Kontrollim Poste (pas klasifikimi)">
+<!ENTITY contextPostPluginBoth.label "Kontrollim Poste (pas klasifikimi) ose Xhirim Dorazi">

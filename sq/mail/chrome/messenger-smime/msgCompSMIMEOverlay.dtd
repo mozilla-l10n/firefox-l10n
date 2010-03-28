@@ -1,22 +1,17 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Siguri">
-<!ENTITY securityMenu.accesskey "S">
 
 <!ENTITY menu_securityEncryptRequire.label "Kodoje Këtë Mesazh">
 <!ENTITY menu_securityEncryptRequire.accesskey "K">
-
-<!ENTITY menu_securityNoEncryption.label "Mos e Kodo Këtë Mesazh">
-<!ENTITY menu_securityNoEncryption.accesskey "M">
 
 <!ENTITY menu_securitySign.label "Nënshkruaje Numerikisht Këtë Mesazh">
 <!ENTITY menu_securitySign.accesskey "N">
 
 <!ENTITY menu_securityStatus.label "Shihni të Dhëna Sigurie">
-<!ENTITY menu_securityStatus.accesskey "h">
+<!ENTITY menu_securityStatus.accesskey "S">
 
 <!ENTITY securityButton.label "Siguri">
 <!ENTITY securityButton.tooltip "Shihni ose ndryshoni rregullime sigurie">
 
 <!ENTITY menu_viewSecurityStatus.label "Të dhëna Sigurie Mesazhi">
-<!ENTITY menu_viewSecurityStatus.accesskey "d">
+<!ENTITY menu_viewSecurityStatus.accesskey "T">

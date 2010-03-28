@@ -8,13 +8,15 @@
 <!ENTITY releaseCmd.label "Shënime Versioni">
 <!ENTITY releaseCmd.accesskey "S">
 <!ENTITY openHelp.label "Përmbajtje Ndihme">
-<!ENTITY openHelp.accesskey "P">
+<!ENTITY openHelp.accesskey "N">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ndihmë për &brandShortName;-in">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
-
+<!ENTITY whatsNewCmd.label "Ç'ka të Re">
+<!ENTITY whatsNewCmd.accesskey "R">
+<!ENTITY featureConfiguratorCmd.label "Ndihmës Migrimi">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY updateCmd.label "Kontrollo për Përditësime…">
-<!ENTITY updateCmd.accesskey "k">
-<!ENTITY aboutCmd.label "Rreth &brandFullName;-it">
-<!ENTITY aboutCmd.accesskey "R">
+<!ENTITY aboutMenuCmd.label "Rreth &brandShortName;-it">
+<!ENTITY aboutMenuCmd.accesskey "R">

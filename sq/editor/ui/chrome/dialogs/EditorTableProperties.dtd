@@ -16,9 +16,9 @@
 <!ENTITY tableBorderWidth.label           "Anë:">
 <!ENTITY tableBorderWidth.accessKey       "A">
 <!ENTITY tableSpacing.label               "Hapësirë:">
-<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tableSpacing.accessKey           "H">
 <!ENTITY tablePadding.label               "Zbutje:">
-<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePadding.accessKey           "b">
 <!ENTITY tablePxBetwCells.label           "piksela ndërmjet kutish">
 <!ENTITY tablePxBetwBrdrCellContent.label "piksela ndërmjet ane kutie dhe përmbajtjeje">
 <!ENTITY tableAlignment.label             "Drejtim Tabele:">
@@ -30,7 +30,7 @@
 <!ENTITY tableCaptionLeft.label           "Majtas Tabelës">
 <!ENTITY tableCaptionRight.label          "Djathtas Tabelës">
 <!ENTITY tableCaptionNone.label           "Asnjë">
-<!ENTITY tableInheritColor.label          "(Ler ngjyrë faqeje të duket nëpër të)">
+<!ENTITY tableInheritColor.label          "(Lejo ngjyrë faqeje të duket nëpër të)">
 
 <!ENTITY cellSelection.label              "Përzgjedhje">
 <!ENTITY cellSelectCell.label             "Kuti">

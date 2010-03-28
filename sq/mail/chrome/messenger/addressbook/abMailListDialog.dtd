@@ -2,7 +2,7 @@
 <!-- Title -->
 <!ENTITY mailListWindow.title           "Listë Postimesh">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Shto te: ">
+<!ENTITY addToAddressBook.label         "Shtoje te: ">
 
 <!ENTITY ListName.label                 "Emër Liste: ">
 <!ENTITY ListNickName.label             "Nofkë Liste: ">
@@ -16,4 +16,4 @@
 <!ENTITY addToAddressBook.accesskey     "S">
 <!ENTITY ListName.accesskey             "E">
 <!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "p">
+<!ENTITY ListDescription.accesskey      "P">

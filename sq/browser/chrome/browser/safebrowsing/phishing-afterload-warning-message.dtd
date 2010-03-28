@@ -10,7 +10,7 @@
 <!ENTITY safeb.palm.message.p2.linkText "se si ju mbron &brandShortName;-i ">
 <!ENTITY safeb.palm.message.p2.end " prej sulmesh &quot;phishing&quot;.">
 <!ENTITY safeb.palm.notforgery.label2 "Kjo s&apos;është sajesë web">
-<!ENTITY safeb.palm.reportPage.label "Pse u bllokua kjo faqe??">
+<!ENTITY safeb.palm.reportPage.label "Pse u bllokua kjo faqe?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Faqe e Raportuar për Sulme!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

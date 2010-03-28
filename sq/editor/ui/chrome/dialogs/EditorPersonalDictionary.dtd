@@ -44,9 +44,9 @@
 <!ENTITY AddButton.accessKey "S">
 <!ENTITY DictionaryList.label "Fjalë në fjalor:">
 <!ENTITY DictionaryList.accessKey "J">
-<!ENTITY ReplaceButton.label "Zëvendëso">
+<!ENTITY ReplaceButton.label "Zëvendësoje">
 <!ENTITY ReplaceButton.accessKey "Z">
-<!ENTITY RemoveButton.label "Hiq">
+<!ENTITY RemoveButton.label "Hiqe">
 <!ENTITY RemoveButton.accessKey "H">
 
 <!ENTITY CloseButton.label "Mbylle">

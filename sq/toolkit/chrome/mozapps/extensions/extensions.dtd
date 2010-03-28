@@ -86,7 +86,7 @@
 <!ENTITY needsDependencies.label          "Lyp gjëra shtesë.">
 <!ENTITY blocklisted.label                "Çaktivizuar për t&apos;ju mbrojtur.">
 <!ENTITY previewNoThemeSelected.label     "Pa Tema të Përzgjedhura">
-<!ENTITY previewNoPreviewImage.label      "Kjo Temë nuk ka një Pamje Paraparje">
+<!ENTITY previewNoPreviewImage.label      "Kjo Temë nuk ka Figurë Paraparje">
 <!ENTITY moreInfo.label                   "Më Tepër Të dhëna">
 <!ENTITY updateSuccess.label              "Përditësimi u plotësua me sukses.">
 <!ENTITY installSuccess.label             "Instalimi u plotësua me sukses.">
@@ -151,8 +151,8 @@
 <!ENTITY searchResultHomepage.value       "Mësoni Më Tepër">
 <!ENTITY searchResultInstalled.label      "Instalimi u Plotësua">
 <!ENTITY searchResultInstalling.label     "Po instalohet…">
-<!ENTITY noRecommendedResults.label       "Tërë këshillimet janë ose të instaluara tashmë ose të papërputhshme.">
-<!ENTITY noSearchResults.label            "Tërë përfundimet janë ose të instaluara tashmë ose të papërputhshme.">
+<!ENTITY noRecommendedResults.label       "Tërë këshillimet janë ose të instaluara tashmë, ose të papërputhshme.">
+<!ENTITY noSearchResults.label            "Tërë përfundimet janë ose të instaluara tashmë, ose të papërputhshme.">
 <!ENTITY recommendedResults.label         "Shihni Tërë Shtesat e Këshilluara">
 <!ENTITY searchFailed.label               "&brandShortName;-i nuk mundi të merrte dot shtesa">
 <!ENTITY recommendedHeader.label          "Të këshilluara">
@@ -164,3 +164,7 @@
 <!ENTITY blocklist.blocked.label          "Bllokuar">
 <!ENTITY blocklist.checkbox.label         "Çaktivizoje">
 <!ENTITY softBlocklisted.label            "E njohur si shkak problemesh qëndrueshmërie ose sigurie.">
+
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Gjen Përditësime për Shtojcat tuaja">
+<!ENTITY outdated.label                   "Është i passhëm një version më i ri, më i sigurt.">
+

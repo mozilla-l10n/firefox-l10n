@@ -1,6 +1,6 @@
 
-<!ENTITY all.label          "Shkarko tërë titujt">
-<!ENTITY all.accesskey      "S">
+<!ENTITY all.label          "Shkarko krejt titujt">
+<!ENTITY all.accesskey      "k">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
 	 with the number of headers to be downloaded inserted between them:
@@ -13,5 +13,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "tituj">
 <!ENTITY headers.accesskey  "t">
-<!ENTITY mark.label         "Shenjo titujt e mbetur si të lexuar">
+<!ENTITY mark.label         "Shënoji titujt e mbetur si të lexuar">
 <!ENTITY mark.accesskey     "n">

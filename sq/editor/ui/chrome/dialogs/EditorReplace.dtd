@@ -6,11 +6,11 @@
 <!ENTITY replaceField.label "Zëvendësoje me:">
 <!ENTITY replaceField.accesskey "m">
 <!ENTITY caseSensitiveCheckbox.label "Saktësisht siç është shkruajtur">
-<!ENTITY caseSensitiveCheckbox.accesskey "s">
+<!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Mbështille përreth">
-<!ENTITY wrapCheckbox.accesskey "m">
+<!ENTITY wrapCheckbox.accesskey "b">
 <!ENTITY backwardsCheckbox.label "Kërko mbrapsht">
-<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY backwardsCheckbox.accesskey "K">
 <!ENTITY findNextButton.label "Gjej Pasuesen">
 <!ENTITY findNextButton.accesskey "p">
 <!ENTITY replaceButton.label "Zëvendësoje">

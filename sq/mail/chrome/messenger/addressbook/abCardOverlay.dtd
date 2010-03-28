@@ -27,33 +27,33 @@
 <!ENTITY PhoneticField1.label           "Fonetike:">
 <!ENTITY PhoneticField2.label           "Fonetike:">
 <!ENTITY DisplayName.label              "Shfaqje:">
-<!ENTITY DisplayName.accesskey          "S">
+<!ENTITY DisplayName.accesskey          "j">
 <!ENTITY NickName.label                 "Nofkë:">
 <!ENTITY NickName.accesskey             "N">
 
 
 <!ENTITY PrimaryEmail.label             "Email:">
-<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY PrimaryEmail.accesskey         "i">
 <!ENTITY SecondEmail.label              "Email Shtesë:">
-<!ENTITY SecondEmail.accesskey          "s">
+<!ENTITY SecondEmail.accesskey          "h">
 <!ENTITY PreferMailFormat.label         "Parapëlqen të marrë mesazhe të formatuar si:">
-<!ENTITY PreferMailFormat.accesskey     "p">
-<!ENTITY PlainText.label                "Thjesht Tekst">
+<!ENTITY PreferMailFormat.accesskey     "z">
+<!ENTITY PlainText.label                "Tekst të Thjeshtë">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "I panjohur">
+<!ENTITY Unknown.label                  "Nuk dihet">
 <!ENTITY ScreenName.label               "Emër në Ekran:">
-<!ENTITY ScreenName.accesskey           "m">
+<!ENTITY ScreenName.accesskey           "r">
 
-<!ENTITY allowRemoteContent.label       "Lejo pamje të largëta.">
-<!ENTITY allowRemoteContent.accesskey   "l">
-<!ENTITY allowRemoteContent.tooltip     "Në mesazhet HTML është e mundur të trupëzohen pamje nga burime të largëta. Hapja e mesazheve të tillë do të hapë një lidhje me burimin e jashtëm. Kjo mund të lejojë gjurmimin e mesazhit që lexohet. Duke i vënë shenjë kësaj kutize, do të lejoni për mesazhe HTML prej këtij kontakti mesazhe të tillë të jashtëm të trupëzuar.">
+<!ENTITY allowRemoteContent1.label       "Lejo lëndë të largët.">
+<!ENTITY allowRemoteContent1.accesskey   "L">
+<!ENTITY allowRemoteContent1.tooltip     "Në mesazhet HTML është e mundur të trupëzohet lëndë nga burime të largëta. Hapja e mesazheve të tillë do të hapë një lidhje me këtë burim të jashtëm. Kjo mund të lejojë gjurmimin e mesazhit që lexohet. Duke i vënë shenjë kësaj kutize, do të lejoni për mesazhe HTML prej këtij kontakti lëndë të tillë të jashtme të trupëzuar.">
 
 <!ENTITY WorkPhone.label                "Pune:">
-<!ENTITY WorkPhone.accesskey            "P">
-<!ENTITY HomePhone.label                "Shtëpi:">
-<!ENTITY HomePhone.accesskey            "S">
+<!ENTITY WorkPhone.accesskey            "u">
+<!ENTITY HomePhone.label                "Banese:">
+<!ENTITY HomePhone.accesskey            "B">
 <!ENTITY FaxNumber.label                "Faks:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "s">
 <!ENTITY PagerNumber.label              "Faques:">
 <!ENTITY PagerNumber.accesskey          "q">
 <!ENTITY CellularNumber.label           "Celular:">
@@ -62,21 +62,21 @@
 <!ENTITY Home.tab                       "Vetjake">
 <!ENTITY Home.accesskey                 "V">
 <!ENTITY HomeAddress.label              "Vendndodhje:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "e">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Qytet:">
 <!ENTITY HomeCity.accesskey             "q">
 <!ENTITY HomeState.label                "Shtet/Provincë:">
-<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeState.accesskey            "h">
 <!ENTITY HomeZipCode.label              "ZIP/Kod Postal:">
 <!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Vend:">
-<!ENTITY HomeCountry.accesskey          "e">
-<!ENTITY HomeWebPage.label              "Faq Web:">
-<!ENTITY HomeWebPage.accesskey          "f">
-<!ENTITY Birthday.label                 "Ditëlindje:">
-<!ENTITY Birthday.accesskey             "L">
+<!ENTITY HomeCountry.accesskey          "n">
+<!ENTITY HomeWebPage.label              "Faqe Web:">
+<!ENTITY HomeWebPage.accesskey          "a">
+<!ENTITY Birthday.label                 "Datëlindje:">
+<!ENTITY Birthday.accesskey             "D">
 <!ENTITY Year.emptytext                 "Vit">
 <!ENTITY Or.value                       "ose">
 <!ENTITY Age.emptytext                  "Moshë">
@@ -84,7 +84,7 @@
 <!ENTITY Work.tab                       "Punë">
 <!ENTITY Work.accesskey                 "P">
 <!ENTITY JobTitle.label                 "Titull:">
-<!ENTITY JobTitle.accesskey             "t">
+<!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "Degë:">
 <!ENTITY Department.accesskey           "d">
 <!ENTITY Company.label                  "Organizëm:">
@@ -105,7 +105,7 @@
 <!ENTITY WorkWebPage.accesskey          "f">
 
 <!ENTITY Other.tab                      "Tjetër">
-<!ENTITY Other.accesskey                "t">
+<!ENTITY Other.accesskey                "T">
 <!ENTITY Custom1.label                  "Vetjake 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Vetjake 2:">
@@ -115,6 +115,21 @@
 <!ENTITY Custom4.label                  "Vetjake 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Shënime:">
-<!ENTITY Notes.accesskey                "S">
+<!ENTITY Notes.accesskey                "h">
 <!ENTITY In.label                       "">
 <!ENTITY YearsOld.label                 "">
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "f">
+<!ENTITY PhotoDesc.label                "Zgjidhni një nga vijueset:">
+<!ENTITY GenericPhoto.label             "Foto e Thjeshtë">
+<!ENTITY GenericPhoto.accesskey         "o">
+<!ENTITY DefaultPhoto.label             "Parazgjedhje">
+<!ENTITY PhotoFile.label                "Në këtë Kompjuter">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Shfletoni">
+<!ENTITY BrowsePhoto.accesskey          "h">
+<!ENTITY PhotoURL.label                 "Në Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.emptytext             "Hidhni ose shtypeni dorazi vendndodhjen web të një fotoje">
+<!ENTITY UpdatePhoto.label              "Përditësojeni">
+<!ENTITY UpdatePhoto.accesskey          "d">

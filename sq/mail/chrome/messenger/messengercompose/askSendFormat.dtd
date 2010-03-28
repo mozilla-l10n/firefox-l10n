@@ -8,7 +8,7 @@
 <!ENTITY plainTextAndHtml.label "Dërgoje si Tekst të Thjeshtë dhe si HTML">
 <!ENTITY plainTextAndHtml.accesskey "e">
 <!ENTITY plainTextOnly.label "Dërgoje Vetëm si Tekst të Thjeshtë">
-<!ENTITY plainTextOnly.accesskey "t">
+<!ENTITY plainTextOnly.accesskey "T">
 <!ENTITY htmlOnly.label "Dërgoje Vetëm si HTML">
 <!ENTITY htmlOnly.accesskey "H">
 

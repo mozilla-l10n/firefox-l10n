@@ -38,31 +38,31 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Kontroll Drejtshkrimi">
 
-<!ENTITY misspelledWord.label "Fjalë e keqshkruajtuara:">
-<!ENTITY wordEditField.label "Zëvendëso me:">
-<!ENTITY wordEditField.accessKey "m">
-<!ENTITY checkwordButton.label "Kontrollo Fjalë">
-<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY misspelledWord.label "Fjalë e keqshkruajtur:">
+<!ENTITY wordEditField.label "Zëvendësoje me:">
+<!ENTITY wordEditField.accessKey "e">
+<!ENTITY checkwordButton.label "Kontrollo Fjalët">
+<!ENTITY checkwordButton.accessKey "K">
 <!ENTITY suggestions.label "Këshillime:">
 <!ENTITY suggestions.accessKey "i">
 <!ENTITY ignoreButton.label "Shpërfille">
 <!ENTITY ignoreButton.accessKey "S">
 <!ENTITY ignoreAllButton.label "Shpërfilli të Tëra">
-<!ENTITY ignoreAllButton.accessKey "t">
+<!ENTITY ignoreAllButton.accessKey "T">
 <!ENTITY replaceButton.label "Zëvendësoje">
 <!ENTITY replaceButton.accessKey "Z">
 <!ENTITY replaceAllButton.label "Zëvendësoji të Tëra">
-<!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Ndal">
-<!ENTITY stopButton.accessKey "n">
+<!ENTITY replaceAllButton.accessKey "v">
+<!ENTITY stopButton.label "Ndale">
+<!ENTITY stopButton.accessKey "N">
 <!ENTITY userDictionary.label "Fjalor Vetjak:">
 <!ENTITY moreDictionaries.label "Shkarko Më Tepër">
-<!ENTITY addToUserDictionaryButton.label "Shto Fjalë">
-<!ENTITY addToUserDictionaryButton.accessKey "f">
+<!ENTITY addToUserDictionaryButton.label "Shtojeni Fjalën">
+<!ENTITY addToUserDictionaryButton.accessKey "F">
 <!ENTITY editUserDictionaryButton.label "Përpunoni…">
-<!ENTITY editUserDictionaryButton.accessKey "p">
-<!ENTITY recheckButton.label "Rikontrollo Faqe">
-<!ENTITY recheckButton.accessKey "r">
+<!ENTITY editUserDictionaryButton.accessKey "P">
+<!ENTITY recheckButton.label "Rikontrollo Faqen">
+<!ENTITY recheckButton.accessKey "R">
 <!ENTITY closeButton.label "Mbylle">
 <!ENTITY closeButton.accessKey "M">
 <!ENTITY sendButton.label "Dërgoje">

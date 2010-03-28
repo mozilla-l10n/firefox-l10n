@@ -48,8 +48,9 @@
 <!ENTITY resetToolbars.label          "Rikthe panele dhe kontrolle në gjendjen fillestare">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "Rikthe faqerojtësit te parazgjedhjet e &brandShortName;-it">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "Fshiji krejt faqerojtësit, veç atyre për kopjeruajtje">
+<!ENTITY deleteBookmarks.accesskey    "F">
+
 
 <!ENTITY resetUserPrefs.label         "Rikthe tërë parapëlqimet e përdoruesit te parazgjedhjet e &brandShortName;-it">
 <!ENTITY resetUserPrefs.accesskey     "p">

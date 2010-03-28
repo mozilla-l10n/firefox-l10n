@@ -72,7 +72,7 @@
 <!ENTITY AddOption.accesskey "M">
 <!ENTITY AddOptGroup.label "Shto Grup">
 <!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "Hiq">
+<!ENTITY RemoveElement.label "Hiqe">
 <!ENTITY RemoveElement.accesskey "H">
 <!ENTITY MoveElementUp.label "Ngrije">
 <!ENTITY MoveElementUp.accesskey "N">

@@ -43,7 +43,7 @@
 <!ENTITY commaRadio.label      "Presje">
 <!ENTITY spaceRadio.label      "Hapësirë">
 <!ENTITY otherRadio.label      "Shenjë Tjetër:">
-<!ENTITY deleteCharCheck.label "Fshij shenjën ndarëse">
+<!ENTITY deleteCharCheck.label "Fshi shenjën ndarëse">
 <!ENTITY collapseSpaces.label  "Shpërfill hapësira ekstra">
-<!ENTITY collapseSpaces.tooltip "Shndërro në një ndarës hapësira ngjitur">
+<!ENTITY collapseSpaces.tooltip "Shndërro në një ndarës hapësirat ngjitur">
 

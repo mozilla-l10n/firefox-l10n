@@ -4,30 +4,34 @@
 <!ENTITY accountName.label "Emër Llogarie:">
 <!ENTITY accountName.accesskey "L">
 <!ENTITY identityTitle.label "Identitet Parazgjedhje">
-<!ENTITY identityDesc.label "Çdo llogari ka identitetin e vet, i cili përbëhet nga të dhënat që persona të tjerë shohin kur lexojnë mesazhet tuaj.">
+<!ENTITY identityDesc.label "Çdo llogari ka identitetin e vet, i cili përbëhet nga të dhënat që shohin persona të tjerë kur lexojnë mesazhet tuaj.">
 <!ENTITY name.label "Emri Juaj:">
 <!ENTITY name.accesskey "J">
 <!ENTITY email.label "Vendndodhje Email:">
-<!ENTITY email.accesskey "V">
+<!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Vendndodhje për Përgjigju:">
-<!ENTITY replyTo.accesskey "n">
+<!ENTITY replyTo.accesskey "u">
 <!ENTITY organization.label "Organizëm:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Bashkangjiti këtë nënshkrim:">
-<!ENTITY signature.accesskey "B">
+<!ENTITY signatureText.label "Tekst nënshkrimi:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Përdor HTML (p.sh., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "H">
+<!ENTITY signatureFile.label "Bashkangjite nënshkrimin prej një kartele, më mirë (tekst, HTML, ose figurë):">
+<!ENTITY signatureFile.accesskey "B">
 <!ENTITY edit.label "Përpunoni…">
 <!ENTITY choose.label "Zgjidhni…">
 <!ENTITY choose.accesskey "Z">
 <!ENTITY editVCard.label "Përpunoni Kartë…">
-<!ENTITY editVCard.accesskey "p">
+<!ENTITY editVCard.accesskey "P">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Bashkangjitu mesazheve vCard-in tim">
-<!ENTITY attachVCard.accesskey "b">
+<!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Administroni Identitete…">
 <!ENTITY manageIdentities.accesskey "A">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Shërbyesi Dërgues (SMTP):">
-<!ENTITY smtpName.accesskey "s">
+<!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Përdor Shërbyesin Parazgjedhje">

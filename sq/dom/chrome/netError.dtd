@@ -19,19 +19,19 @@
 <!ENTITY generic.longDesc "<p>Hëpërhë nuk ka të passhme të dhëna shtesë rreth këtij problemi apo gabimi.</p>">
 
 <!ENTITY malformedURI.title "Vendndodhje e Pavlefshme">
-<!ENTITY malformedURI.longDesc "<p>Vendndodhja e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutem kontrolloni te shtylla e vendndodhjeve për gabime dhe riprovoni.</p>">
+<!ENTITY malformedURI.longDesc "<p>Vendndodhja e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutem, kontrolloni te shtylla e vendndodhjeve për gabime dhe riprovoni.</p>">
 
 <!ENTITY netInterrupt.title "Shpërngulja e Të dhënave u Ndërpre">
-<!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre.  Ju lutem riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre.  Ju lutem, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyrë &quot;Offline&quot;">
 <!ENTITY netOffline.longDesc "<p>Shfletuesi po punon në mënyrën &quot;offline&quot; dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet veprues?</li><li>Kalojeni shfletuesin në mënyrën &quot;online&quot; dhe riprovoni.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi i Përmbajtjes">
-<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY netReset.title "Lidhje e Ndërprerë">
-<!ENTITY netReset.longDesc "<p>Lidhja te rrjeti u ndërpre ndërkohë që bëheshin përpjekje për lidhje. Ju lutem riprovoni.</p>">
+<!ENTITY netReset.longDesc "<p>Lidhja te rrjeti u ndërpre ndërkohë që bëheshin përpjekje për lidhje. Ju lutem, riprovoni.</p>">
 
 <!ENTITY netTimeout.title "Mbarim Kohe për Rrjetin">
 <!ENTITY netTimeout.longDesc "<p>&quot;Site&quot;-i i kërkuar nuk iu përgjigj kërkesës për lidhje dhe shfletuesi reshti së prituri për përgjigje.</p><ul><li>Mundet që shërbyesi është duke u përballur me kërkesë të madhe ose mundet të jetë përkohësisht jashtë loje?  Riprovoni më vonë.</li><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>A është kompjuteri juaj i mbrojtur nga një &quot;firewall&quot; apo ndërmjetës?  Rregullime të pasaktë mund të ndërhyjnë te shfletimi Web.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
@@ -68,7 +68,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
-<!ENTITY nssFailure2.longDesc "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY phishingBlocked.title "Dyshim për Sajesë Web!">
 <!ENTITY phishingBlocked.longDesc "
@@ -79,7 +79,7 @@
 <!ENTITY unsafeContentType.title "Lloj i Pasigurt Kartele">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
+  <li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
 </ul>
 ">
 

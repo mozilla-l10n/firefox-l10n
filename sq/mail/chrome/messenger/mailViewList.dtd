@@ -1,4 +1,4 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "Përshtatni Parje Mesazhesh">
-<!ENTITY viewName.label "Emër Parjeje">
+<!ENTITY mailViewListTitle.label "Përshtatni Shfaqje Mesazhesh">
+<!ENTITY viewName.label "Emër Shfaqjeje">

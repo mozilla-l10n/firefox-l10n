@@ -1,27 +1,27 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Përpunues Skeme Pamjeje">
+<!ENTITY windowTitle.label "Përpunues Skeme Figure">
 
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Kartelë">
 <!ENTITY mapfileMenu.accesskey "k">
 <!ENTITY clearCmd.label "Pastroje">
-<!ENTITY clearCmd.accesskey "p">
+<!ENTITY clearCmd.accesskey "P">
 <!ENTITY closeCmd.label "Mbylle">
-<!ENTITY closeCmd.accesskey "m">
+<!ENTITY closeCmd.accesskey "M">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Përpunim">
-<!ENTITY mapeditMenu.accesskey "p">
+<!ENTITY mapeditMenu.accesskey "P">
 <!ENTITY cutCmd.label "Prije">
 <!ENTITY cutCmd.accesskey "j">
 <!ENTITY copyCmd.label "Kopjoje">
 <!ENTITY copyCmd.accesskey "k">
 <!ENTITY pasteCmd.label "Ngjite">
 <!ENTITY pasteCmd.accesskey "n">
-<!ENTITY selectallCmd.label "Përzgjidhe të tërën">
+<!ENTITY selectallCmd.label "Përzgjidhe krejt">
 <!ENTITY selectallCmd.accesskey "t">
 <!ENTITY propsCmd.label "Veti Pikeje të Nxehtë">
 <!ENTITY propsCmd.accesskey "x">

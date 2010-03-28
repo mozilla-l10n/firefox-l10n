@@ -1,5 +1,5 @@
 <!ENTITY windowTitle.label "Veti Fushe Formulari">
-<!ENTITY windowTitleImage.label "Veti Pamjeje Formulari">
+<!ENTITY windowTitleImage.label "Veti Figure Formulari">
 
 <!ENTITY InputType.label "Lloj Fushe">
 <!ENTITY InputType.accesskey "L">
@@ -11,7 +11,7 @@
 <!ENTITY reset.value "Buton Rimarrjeje">
 <!ENTITY file.value "Kartelë">
 <!ENTITY hidden.value "E fshehur">
-<!ENTITY image.value "Pamje">
+<!ENTITY image.value "Figurë">
 <!ENTITY button.value "Buton">
 
 <!ENTITY InputSettings.label "Rregullime Fushe">
@@ -42,5 +42,5 @@
 <!ENTITY Accept.label "Lloje Pranimi:">
 <!ENTITY Accept.accesskey "P">
 
-<!ENTITY ImageProperties.label "Veti Pamjeje…">
+<!ENTITY ImageProperties.label "Veti Figure…">
 <!ENTITY ImageProperties.accesskey "V">

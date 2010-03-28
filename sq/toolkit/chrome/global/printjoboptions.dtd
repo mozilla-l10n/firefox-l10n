@@ -26,8 +26,8 @@
 <!ENTITY colorspaceInput.label "Hapësirë Ngjyrash:">
 <!ENTITY colorspaceInput.accesskey "H">
 
-<!ENTITY fontsGroup.label "Gërma:">
-<!ENTITY downloadFonts.label "Shkarko gërma te shtypësi">
+<!ENTITY fontsGroup.label "Shkronja:">
+<!ENTITY downloadFonts.label "Shkarko shkronja te shtypësi">
 <!ENTITY downloadFonts.accesskey "S">
 
 <!ENTITY edgeMarginInput.label "Hapësirë nga buza e letrës te Mënjana">

@@ -1,28 +1,28 @@
-<!ENTITY all.accesskey "T">
 <!ENTITY all.label "Tërë">
-<!ENTITY clear.accesskey "p">
-<!ENTITY clear.label "Pastro">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY errorConsole.title "Konsol Gabimesh">
+<!ENTITY all.accesskey "T">
+<!ENTITY clear.label "Pastroje">
+<!ENTITY clear.accesskey "P">
+<!ENTITY copyCmd.label "Kopjoje">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY copyCmd.commandkey "C">
-<!ENTITY copyCmd.label "Kopjo">
+<!ENTITY errors.label "Gabime">
+<!ENTITY errors.accesskey "G">
+<!ENTITY messages.label "Mesazhe">
+<!ENTITY messages.accesskey "M">
+<!ENTITY sortFirst.label "Kah Renditjeje i Pari > i Fundit ">
+<!ENTITY sortFirst.accesskey "i">
+<!ENTITY sortLast.label "Kah Renditjeje i Fundit > i Pari">
+<!ENTITY sortLast.accesskey "u">
+<!ENTITY warnings.label "Sinjalizime">
+<!ENTITY warnings.accesskey "S">
+<!ENTITY evaluate.label "Çmo">
+<!ENTITY evaluate.accesskey "Ç">
+<!ENTITY codeEval.label     "Kod:">
+<!ENTITY codeEval.accesskey "d">
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY errorConsole.title "Konsol Gabimesh">
 <!ENTITY errColumn.label "Shtyllë:">
 <!ENTITY errFile.label "Kartelë Burim:">
 <!ENTITY errLine.label "Rresht:">
-<!ENTITY errors.accesskey "g">
-<!ENTITY errors.label "Gabime">
-<!ENTITY evaluate.label "Çmo">
 <!ENTITY focus1.commandkey "l">
 <!ENTITY focus2.commandkey "d">
-<!ENTITY messages.accesskey "M">
-<!ENTITY messages.label "Mesazhe">
-<!ENTITY sortFirst.accesskey "p">
-<!ENTITY sortFirst.label "Kah Renditje i Pari > i Fundit ">
-<!ENTITY sortLast.accesskey "u">
-<!ENTITY sortLast.label "Kah Renditjeje i Fundit > i Pari">
-<!ENTITY warnings.accesskey "S">
-<!ENTITY warnings.label "Sinjalizime">
-<!ENTITY evaluate.accesskey "Ç">
-<!ENTITY codeEval.label     "Kod:">
-<!ENTITY codeEval.accesskey "K">
