@@ -215,6 +215,7 @@
 <!ENTITY urlbar.history.emptyText     "Szukaj w historii">
 <!ENTITY urlbar.none.emptyText        "Wprowadź adres strony WWW">
 <!ENTITY urlbar.accesskey "d" >
+<!ENTITY urlbar.switchToTab.label     "Przełącz na kartę:">
 
 <!-- 
    Comment duplicated from browser-sets.inc:
