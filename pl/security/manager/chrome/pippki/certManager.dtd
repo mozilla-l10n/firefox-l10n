@@ -58,13 +58,13 @@
 
 <!ENTITY certmgr.mine.description			"Posiadasz certyfikaty z tych organizacji, identyfikujące użytkownika:">
 <!ENTITY certmgr.others.description 			"Posiadasz certyfikaty, identyfikujące następujące osoby:">
-<!ENTITY certmgr.websites2.description 			"Posiadasz certyfikaty, identyfikujące następujące serwery:">
+<!ENTITY certmgr.websites.description 			"Posiadasz certyfikaty, identyfikujące następujące serwery:">
 <!ENTITY certmgr.cas.description 			"Posiadasz certyfikaty, identyfikujące następujące organy certyfikacji:">
 <!ENTITY certmgr.orphans.description           		"Posiadasz certyfikaty, nieprzystające do innych kategorii:">
 
 <!ENTITY certmgr.mine.filtered		  	        "Odnalezione certyfikaty z tych organizacji, identyfikujące użytkownika:">
 <!ENTITY certmgr.others.filtered 		        "Odnalezione certyfikaty identyfikujące następujące osoby:">
-<!ENTITY certmgr.websites2.filtered 		        "Odnalezione certyfikaty identyfikujące następujące serwery:">
+<!ENTITY certmgr.websites.filtered 		        "Odnalezione certyfikaty identyfikujące następujące serwery:">
 <!ENTITY certmgr.cas.filtered 			        "Odnalezione certyfikaty identyfikujące następujące organy certyfikacji:">
 <!ENTITY certmgr.orphans.filtered          	        "Odnalezione certyfikaty nieprzystające do innych kategorii:">
 
