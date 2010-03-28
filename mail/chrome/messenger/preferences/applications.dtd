@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Lloj Lënde">
+<!ENTITY  typeColumn.accesskey        "L">
+
+<!ENTITY  actionColumn2.label         "Veprim">
+<!ENTITY  actionColumn2.accesskey     "V">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Kërko">
+
+<!ENTITY saveTo.label                 "Kartelat ruaji te">
+<!ENTITY saveTo.accesskey             "K">
+<!ENTITY alwaysAsk.label              "Pyetmë përherë ku të ruhen kartelat">
+<!ENTITY alwaysAsk.accesskey          "P">
+<!ENTITY chooseFolderWin.label        "Shfletoni…">
+<!ENTITY chooseFolderWin.accesskey    "S">
+<!ENTITY chooseFolderMac.label        "Zgjidhni…">
+<!ENTITY chooseFolderMac.accesskey    "Z">
