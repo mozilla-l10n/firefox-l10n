@@ -49,4 +49,4 @@
 <!ENTITY serverPort.label "Prievadas: ">
 <!ENTITY userName.label   "Abonento vardas: ">
 <!ENTITY connectionSecurity.label   "Saugusis ryšys: ">
-<!ENTITY useSecureAuthentication.label   "Saugusis tapatumo tikrinimas: ">
+<!ENTITY authMethod.label   "Tapatumo tikrinimo metodas: ">

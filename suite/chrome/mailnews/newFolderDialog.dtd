@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label   "Naujame aplanke bus laikomi:">
 <!ENTITY foldersOnly.label          "Tik aplankai">
 <!ENTITY messagesOnly.label         "Tik laiškai">
+<!ENTITY accept.label               "Sukurti aplanką">
+<!ENTITY accept.accesskey           "k">

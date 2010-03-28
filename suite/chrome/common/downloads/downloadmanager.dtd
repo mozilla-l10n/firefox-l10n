@@ -33,7 +33,7 @@
 <!ENTITY menuBar.tooltip                 "Meniu juosta">
 <!ENTITY searchBar.tooltip               "Paieškos laukas">
 
-<!ENTITY search.emptytext                "Ieškoti atsiuntimo">
+<!ENTITY search.placeholder              "Ieškoti atsiuntimo">
 <!ENTITY search.label                    "Atsiuntimo paieška">
 <!ENTITY search.accesskey                "p">
 <!ENTITY search.key                      "f">

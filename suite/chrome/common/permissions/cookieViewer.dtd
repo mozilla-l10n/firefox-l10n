@@ -43,7 +43,7 @@
 <!ENTITY     button.removeallcookies.label  "Pašalinti visus slapukus">
 <!ENTITY     button.removeallcookies.accesskey "v">
 
-<!ENTITY     search.emptytext               "Ieškoti slapukų">
+<!ENTITY     search.placeholder             "Ieškoti slapukų">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
