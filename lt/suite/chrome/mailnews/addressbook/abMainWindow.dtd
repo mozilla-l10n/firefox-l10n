@@ -119,7 +119,7 @@
 <!ENTITY deleteItemButton.accesskey                     "š">
 <!ENTITY newimButton.label                              "Žinutė">
 <!ENTITY newimButton.accesskey                          "i">
-<!ENTITY searchNameAndEmail.emptytext                   "Ieškoti asmenvardžio ar el. pašto">
+<!ENTITY searchNameAndEmail.placeholder                 "Ieškoti asmenvardžio ar el. pašto">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adresų knygos mygtukų juosta">

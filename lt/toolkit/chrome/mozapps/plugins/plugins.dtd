@@ -61,16 +61,10 @@
 <!ENTITY reloadPlugin.pre                                    "Pabandykite ">
 <!ENTITY reloadPlugin.middle                                 "įkelti tinklalapį iš naujo">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE (submittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (submittedCrashReport.post): include a starting space as needed -->
-<!ENTITY submittedCrashReport.pre                            "">
-<!ENTITY submittedCrashReport.middle                         "Strigties pranešimas">
-<!ENTITY submittedCrashReport.post                           " išsiųstas.">
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.pre): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.middle): avoid leading/trailing spaces, this text is a link -->
-<!-- LOCALIZATION NOTE (notSubmittedCrashReport.post): include a starting space as needed -->
-<!ENTITY notSubmittedCrashReport.pre                         "">
-<!ENTITY notSubmittedCrashReport.middle                      "Strigčių pranešimo">
-<!ENTITY notSubmittedCrashReport.post                        " funkcija yra Jūsų išjungta.">
-
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Išsiųsti strigties pranešimą">
+<!ENTITY report.submitting                                   "Pranešimas siunčiamas…">
+<!ENTITY report.submitted                                    "Strigties pranešimas išsiųstas.">
+<!ENTITY report.disabled                                     "Strigčių pranešimai išjungti.">
+<!ENTITY report.failed                                       "Išsiųsti nepavyko.">
+<!ENTITY report.unavailable                                  "Strigties pranešimo nėra.">

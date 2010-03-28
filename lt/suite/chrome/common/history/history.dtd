@@ -35,7 +35,7 @@
 <!ENTITY menuBar.tooltip                      "Meniu juosta">
 <!ENTITY searchBar.tooltip                    "Paieškos juosta">
 
-<!ENTITY search.emptytext                     "Ieškoti žurnale">
+<!ENTITY search.placeholder                   "Ieškoti žurnale">
 <!ENTITY search.key                           "f">
 <!ENTITY view.label                           "Rodymas">
 

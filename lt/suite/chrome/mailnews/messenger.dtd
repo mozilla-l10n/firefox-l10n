@@ -584,7 +584,7 @@
 <!-- SearchBar -->
 <!-- also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Ieškoti temos ar adreso">
+<!ENTITY searchSubjectOrAddress.placeholder "Ieškoti temos ar adreso">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "a">
 

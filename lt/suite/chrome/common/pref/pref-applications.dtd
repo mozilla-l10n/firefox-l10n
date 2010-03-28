@@ -37,4 +37,4 @@
 <!ENTITY actionColumn2.label       "Veiksmas">
 <!ENTITY actionColumn2.accesskey   "V">
 
-<!ENTITY search.emptytext          "Failų tipų ir veiksmų paieška">
+<!ENTITY search.placeholder        "Failų tipų ir veiksmų paieška">
