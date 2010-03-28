@@ -169,8 +169,8 @@
 
 <!ENTITY folderView.label "Aplankai">
 <!ENTITY folderView.accesskey "A">
-<!ENTITY smartFolders.label "Suvestiniai">
-<!ENTITY smartFolders.accesskey "S">
+<!ENTITY unifiedFolders.label "Suvestiniai">
+<!ENTITY unifiedFolders.accesskey "S">
 <!ENTITY allFolders.label "Visi">
 <!ENTITY allFolders.accesskey "V">
 <!ENTITY unreadFolders.label "Turintys neskaitytų laiškų">
