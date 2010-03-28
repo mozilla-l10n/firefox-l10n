@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Syngaleskie">
+<!ENTITY  font.langGroup.tibetan                  "Tybetańskie">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label 		"Minimalny rozmiar czcionki:" >
