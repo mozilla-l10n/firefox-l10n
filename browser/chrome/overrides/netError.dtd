@@ -154,6 +154,10 @@
 <p>Këto lloje sajesash web përdoren në mashtrime të njohura edhe si sulme &quot;phishing&quot;, gjatë të cilëve faqe web dhe email-e të gënjeshtërt përdoren për të imituar burime që u besoni.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga një Rregull mbi Sigurinë e Lëndës">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin prej kësaj faqeje në këtë mënyrë ngaqë faqja përmban një rregull sigurie që nuk e lejon.</p>">
+
+
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
 <!ENTITY securityOverride.exceptionButtonLabel "Shto Përjashtim…">
