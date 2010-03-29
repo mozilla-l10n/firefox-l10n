@@ -4,6 +4,7 @@
 <!ENTITY     cookiename.label               "Emër &quot;Cookie&quot;">
 <!ENTITY     cookiedomain.label             "&quot;Site&quot;"> 
 <!ENTITY     button.removecookie.label      "Hiq &quot;Cookie&quot;">
+<!ENTITY     button.removecookies.label     "Hiq &quot;Cookies&quot;">
 <!ENTITY     button.removecookie.accesskey  "H">
 <!ENTITY     button.removeallcookies.label  "Hiq Tërë &quot;Cookie&quot;-t">
 <!ENTITY     button.removeallcookies.accesskey "T">

@@ -32,6 +32,7 @@
 <!ENTITY  font.langGroup.telugu                   "Teluge">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinale">
+<!ENTITY  font.langGroup.tibetan                  "Tibetane">
 
 <!ENTITY language.accesskey "g">
 <!ENTITY language.label "Shkronja për:">

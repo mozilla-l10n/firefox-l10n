@@ -330,8 +330,7 @@
 <!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">            
 <!ENTITY bookmarkThisLinkCmd.label      "Faqeruaje Këtë Lidhje">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "F">
-<!ENTITY copyLinkTextCmd.accesskey    "t">            
-<!ENTITY copyLinkTextCmd.label        "Kopjo Tekst Lidhjeje">
+
 <!ENTITY downloadMonitor2.tooltip "Klikoni për hapjen e dritares së shkarkimeve">
 <!ENTITY identity.unverifiedsite2 "Ky &quot;site&quot; web nuk furnizon të dhëna identiteti.">
 
@@ -386,8 +385,10 @@
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
 <!ENTITY viewVideoCmd.accesskey       "S">
 
-<!ENTITY clearRecentHistoryCmd.label            "Pastro Historikun Së fundmi">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY clearRecentHistory.label               "Pastro Historikun Së fundmi…">
+<!ENTITY clearRecentHistory.accesskey           "H">
+
+
 <!ENTITY allTabs.filter.emptyText "Kërkoni te Skeda">
 
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
@@ -418,3 +419,9 @@
 
 <!ENTITY viewImageInfoCmd.label       "Shfaq të Dhëna Figure">
 <!ENTITY viewImageInfoCmd.accesskey   "p">
+
+<!ENTITY openLinkCmdInCurrent.label     "Hape Lidhjen">
+<!ENTITY openLinkCmdInCurrent.accesskey "H">
+<!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
+<!ENTITY videoFullScreen.label       "Sa Krejt Ekrani">
+<!ENTITY videoFullScreen.accesskey   "K">

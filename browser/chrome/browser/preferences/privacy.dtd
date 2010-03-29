@@ -28,16 +28,6 @@
 <!ENTITY  locbar.nothing.label          "Asgjë">
 
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Mba mend historikun e shfletimeve të mia për të paktën">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "ditë">
-
 <!ENTITY  rememberSearchForm.label       "Mba mend historik shfletimesh dhe formularësh">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
@@ -64,10 +54,6 @@
 <!ENTITY  dontrememberActions.clearHistory.label "pastroni tërë historikun tuaj të tanishëm">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Nise vetvetiu &brandShortName;-in në sesion shfletimi vetjak">
-<!ENTITY  privateBrowsingAutoStart.accesskey "N">
-
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName;-i:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Do ta mbajë mend historikun">
@@ -81,3 +67,9 @@
 <!ENTITY  clearOnClose.accesskey         "p">
 
 <!ENTITY  rememberDescription.label      "&brandShortName;-i do të mbajë mend historikun e shfletimeve tuaja, shkarkimeve, kërkimeve dhe formularëve, dhe do të depozitojë &quot;cookies&quot; prej &quot;site&quot;-eve Web që vizitoni.">
+
+<!ENTITY  privateBrowsingPermanent.label "Mënyrë Shfletim Vetjak i Përhershëm">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
+
+<!ENTITY  rememberHistory.label      "Mba mend historikun tim të shfletimit">
+<!ENTITY  rememberHistory.accesskey  "M">

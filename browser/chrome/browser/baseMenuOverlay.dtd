@@ -10,11 +10,11 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ndihmë"> 
 <!ENTITY helpMenuWin.accesskey    "N">
-<!ENTITY aboutCmd.label           "Rreth &brandFullName;-it">
-<!ENTITY aboutCmd.accesskey       "R">
+<!ENTITY aboutProduct.label       "Rreth &brandFullName;-it">
+<!ENTITY aboutProduct.accesskey   "R">
 <!ENTITY helpForIEUsers.label     "Për Përdorues të Internet Explorer-it">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
+
 
 <!ENTITY helpReleaseNotes.label         "Shënime Versioni">
 <!ENTITY helpReleaseNotes.accesskey     "V">
@@ -34,9 +34,10 @@
 <!ENTITY showAllAppsCmdMac.label        "Shfaqi Të tëra">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpTroubleshootingInfo.label      "Të dhëna Diagnostikimi">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpTroubleshooting.label      "Të dhëna Diagnostikimi…">
-<!ENTITY helpTroubleshooting.accesskey  "T">
+
 
 <!ENTITY productHelp.label        "Ndihmë e &brandShortName;-it">
 <!ENTITY productHelp.accesskey    "N">
