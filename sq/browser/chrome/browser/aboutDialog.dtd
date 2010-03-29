@@ -7,7 +7,5 @@
 <!ENTITY copyright.accesskey    "P">
 <!ENTITY closeCmdGNOME.label        "Mbylle">  
 <!ENTITY closeCmdGNOME.accesskey    "M">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Pjesëmarrësit. Tërë të Drejtat të Rezervuara. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Të dhëna lejimi">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">
