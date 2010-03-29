@@ -1,8 +1,8 @@
 <!ENTITY about.version                "版本">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 by">
-<!ENTITY about.copy.linkTitle         "contributors">
-<!ENTITY about.copy.afterLink         "to the Mozilla Project.">
+<!ENTITY about.copy.beforeLink        "&copy; 1998-2010 Mozilla 專案的">
+<!ENTITY about.copy.linkTitle         "貢獻者">
+<!ENTITY about.copy.afterLink         "。">
 
 <!ENTITY about.license.beforeLink     "閱讀此程式的">
 <!ENTITY about.license.linkTitle      "授權資訊">
