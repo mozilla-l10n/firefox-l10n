@@ -36,7 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY renameFolderDialog.title "Renombrar carpeta">
-<!ENTITY rename.label "Introduzca el nuevo nombre de la carpeta:">
-<!ENTITY rename.accesskey "e">
-
+<!ENTITY renameFolderDialog.title          "Renombrar carpeta">
+<!ENTITY rename.label                      "Introduzca el nuevo nombre de la carpeta:">
+<!ENTITY rename.accesskey                  "e">
+<!ENTITY accept.label                      "Renombrar">
+<!ENTITY accept.accesskey                  "R">

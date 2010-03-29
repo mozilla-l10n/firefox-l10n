@@ -2,9 +2,6 @@
 <!ENTITY aboutButton.label      "&lt; Atrás">
 <!ENTITY aboutButton.accesskey  "t">
 <!ENTITY aboutVersion "versión">
-<!ENTITY copyrightText "&#169;1998-2009 Contribuyentes. Todos los derechos reservados. Mozilla Thunderbird y los logos
-                                 de Thunderbird son marcas comerciales de Mozilla Foundation.  Todos
-                                 los derechos reservados.">
 <!ENTITY aboutMenu.label        "Acerca">
 <!ENTITY aboutMenu.accesskey    "A">
 <!ENTITY aboutCredits.label     "Créditos">
