@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion               "版本">
 <!ENTITY closeCmdGNOME.label        "關閉">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 專案貢獻者；保留所有著作權利。(">
+<!ENTITY copyrightInfo1             "&#169;1998-2010 專案貢獻者；保留所有著作權利。(">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "授權資訊">
 <!ENTITY copyrightInfo2             ")。">
