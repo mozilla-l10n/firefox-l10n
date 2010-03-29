@@ -1,3 +1,5 @@
-<!ENTITY renameFolderDialog.title          "Rename Folder">
-<!ENTITY rename.label                      "Enter the new name for your folder:">
-<!ENTITY rename.accesskey                  "E">
+<!ENTITY renameFolderDialog.title          "Renombrar carpeta">
+<!ENTITY rename.label                      "Introduzca el nuevo nombre de la carpeta:">
+<!ENTITY rename.accesskey                  "e">
+<!ENTITY accept.label                      "Renombrar">
+<!ENTITY accept.accesskey                  "R">
