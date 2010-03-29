@@ -1,4 +1,6 @@
 <!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "Mozilla Firefox">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoCopyright         "Firefox-i dhe logot e Firefox-it janë shenja tregtare të Mozilla Foundation-it. Tërë të drejtat të rezervuara.">
+<!-- LOCALIZATION NOTE (logoTrademark): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
+<!ENTITY  logoTrademark         " Firefox-i dhe stemat e Firefox-it janë shenja tregtare të Mozilla Foundation-it.">
+

@@ -88,3 +88,6 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+<!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga njw Rregull Sigurie Lënde">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Shfletuesi pengoi ngarkimin e kësaj faqeje në këtë mënyrë ngaqë faqja përmban një rregull sigurie lënde që e pengon.</p>">
