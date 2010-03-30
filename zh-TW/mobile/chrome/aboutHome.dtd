@@ -1,0 +1,6 @@
+<!ENTITY aboutHome.start                        "開始時間">
+<!ENTITY aboutHome.recentTabs                   "上一次打開的分頁">
+<!ENTITY aboutHome.remoteTabs                   "從您其他電腦同步過來的分頁">
+<!ENTITY aboutHome.recommendedAddons2           "給您的 &brandShortName; 用的附加元件">
+<!ENTITY aboutHome.aboutMozilla                 "關於 Mozilla">
+<!ENTITY aboutHome.openAllTabs                  "全部用分頁開啟">
