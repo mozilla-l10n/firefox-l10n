@@ -20,8 +20,8 @@
 #define bookmarks_aboutBrowser Firefox: 關於您的瀏覽器
 
 # LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: 使用 Weave 同步
+# link title for https://www.mozilla.com/en-US/mobile/sync
+#define bookmarks_sync Firefox: 使用 Weave Sync 同步
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile

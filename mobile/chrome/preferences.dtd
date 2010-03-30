@@ -14,3 +14,7 @@
 <!ENTITY language.auto                             "自動偵測">
 <!ENTITY defaultBrowser.title                      "預設瀏覽器">
 <!ENTITY defaultBrowser.description                "設定 &brandShortName; 為預設瀏覽器">
+<!ENTITY homepage.title                            "首頁">
+<!ENTITY homepage.none                             "空白頁面">
+<!ENTITY homepage.default                          "&brandShortName; 首頁">
+<!ENTITY homepage.currentpage                      "使用目前頁面">

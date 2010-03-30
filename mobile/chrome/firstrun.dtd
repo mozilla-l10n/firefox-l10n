@@ -1,8 +1,13 @@
-<!ENTITY welcome.title                      "歡迎使用 &brandShortName;">
-<!ENTITY intro.description                  "使用 Weave Sync 將您的行動裝置與 PC 同步。用附加元件自訂。使用 Awesome Bar 等更多功能遨遊網路。">
-<!ENTITY weave.title                        "起而行！">
-<!ENTITY weave.description                  "下載 Weave Sync 幫助您和 Firefox 整合。在行動裝置與 PC 之間共用您的瀏覽記錄、書籤、已存密碼與分頁。">
-<!ENTITY weave.linkLabel                    "下載 Weave Sync 附加元件">
-<!ENTITY getPersonal.title                  "個人化">
-<!ENTITY getPersonal.description            "讓 &brandShortName; 真正屬於您。使用附加元件自訂第一個在手機上提供擴充能力的瀏覽器。">
-<!ENTITY getPersonal.linkLabel              "取得用於行動裝置的附加元件">
+<!ENTITY firstrun.title                "歡迎使用 &brandShortName;">
+<!ENTITY firstrun.heading              "為了幫助您開始使用，這裡是一些有名的功能與擴充套件，讓您可以最快最完整的熟悉 &brandShortName;。">
+<!ENTITY firstrun.recommended          "建議的:">
+<!ENTITY firstrun.weave.title          "取得 Weave Sync">
+<!ENTITY firstrun.weave.description    "在行動裝置與電腦之間分享您的 &brandShortName; 瀏覽歷史記錄、已存密碼、書籤與分頁">
+<!ENTITY firstrun.starter.title        "取得新手上路包">
+<!ENTITY firstrun.starter.description  "安裝這些建議的附加元件讓您的 &brandShortName; 使用體驗變得更好">
+<!ENTITY firstrun.tour.title           "使用導覽">
+<!ENTITY firstrun.tour.description     "透過這個影片讓您熟悉這套軟體，並且瞭解這些酷功能">
+<!ENTITY firstrun.features             "看看更多功能">
+<!ENTITY firstrun.faq                  "常見問題集">
+<!ENTITY firstrun.privacy              "隱私權保護政策">
+<!ENTITY firstrun.follow               "追蹤我們:">
