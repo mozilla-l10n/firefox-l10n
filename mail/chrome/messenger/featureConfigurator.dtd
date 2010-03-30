@@ -79,11 +79,11 @@ words here should echo the name of the mode shown in the folder pane.-->
 
 <!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
 shows that the current mode in the folder pane is the Unified Folders mode.-->
-<!ENTITY featureConfigurator.unifiedFolders.smart.status "使用&quot;整合資料夾&quot;模式。">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "使用「整合資料夾」模式。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
 shows that the current mode in the folder pane is not the Unified Folders mode.-->
-<!ENTITY featureConfigurator.unifiedFolders.all.status "不使用&quot;整合資料夾&quot;模式。">
+<!ENTITY featureConfigurator.unifiedFolders.all.status "不使用「整合資料夾」模式。">
 
 <!ENTITY featureConfigurator.unifiedFolderBenefits.para "對於擁有多個帳號的使用者，此檢視模式將同類型資料夾（例如郵件匣）集中，讓您使用一個統一的檢視畫面。">
 <!ENTITY featureConfigurator.unifiedFolderAlternative.para "如果您想要將來自不同帳號的資訊分開您會比較喜歡「顯示所有資料夾」模式。">
@@ -91,7 +91,7 @@ shows that the current mode in the folder pane is not the Unified Folders mode.-
 <!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useUnifiedFolders.button "使用&quot;整合資料夾&quot;模式">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "使用「整合資料夾」模式">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make

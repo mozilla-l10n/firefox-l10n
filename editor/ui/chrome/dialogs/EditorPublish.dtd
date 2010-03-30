@@ -64,11 +64,11 @@
 <!ENTITY pageTitle.label              "頁面標題:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "請輸入此頁的標題 (會顯示為視窗標題或書籤名稱) ">
-<!ENTITY pageTitleExample.label       "如: &quot;My Web Page&quot;">
+<!ENTITY pageTitleExample.label       "如:「我的網頁」">
 <!ENTITY filename.label               "檔名:">
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "輸入檔名，若為網頁請加上「.html」。">
-<!ENTITY filenameExample.label        "如: &quot;mypage.html&quot;">
+<!ENTITY filenameExample.label        "如:「mypage.html」">
 <!ENTITY setDefaultButton.label       "設為預設帳號">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "移除網站">
