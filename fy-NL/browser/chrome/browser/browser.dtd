@@ -207,6 +207,7 @@
 <!ENTITY urlbar.history.emptyText     "Skiednis trochsykje">
 <!ENTITY urlbar.none.emptyText        "Typ in webadres">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Skeakel nei ljepblêd:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
