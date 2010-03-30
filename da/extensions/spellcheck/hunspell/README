@@ -1,7 +1,5 @@
-English:
-========
 Stavekontrolden - Danish dictionary files for Hunspell
-Version 1.4 - 2009-11-14
+Version 1.5 - 2010-03-27
 da.dic, da.aff: © 2009 Foreningen for frit tilgængelige sprogværktøjer
 http://www.stavekontrolden.dk
 These files are published under the following open source licenses:
@@ -12,26 +10,4 @@ Mozilla MPL version 1.1
 
 This dictionary is based on data from Det Danske Sprog- og Litteraturselskab
 (The Danish Society for Language and Literature), http://www.dsl.dk.
-
-Maintainer of this application (Mozilla): 
-  Søren Munk Skrøder, MozillaDanmark
-  kontakt@mozilladanmark.dk
-
-Danish:
-=======
-Stavekontrolden - Danske ordbogsfiler til brug med Hunspell
-Version 1.4 - 2009-11-14
-da.dic, da.aff: © 2009 Foreningen for frit tilgængelige sprogværktøjer
-http://www.stavekontrolden.dk
-Disse filer er udgivet under de følgende licenser:
-
-GNU GPL version 2.0
-GNU LGPL version 2.1
-Mozilla MPL version 1.1
-
-Ordbogen er baseret på data fra Det Danske Sprog- og Litteraturselskab, http://www.dsl.dk.
-
-Vedligeholder af denne anvendelse (Mozilla): 
-  Søren Munk Skrøder, MozillaDanmark
-  kontakt@mozilladanmark.dk
 
