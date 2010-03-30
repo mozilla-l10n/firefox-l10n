@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "嘗試使用STARTTLS">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "使用安全驗證">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "認證方式:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "不刪除伺服器上的郵件">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "只讀取標頭資訊">

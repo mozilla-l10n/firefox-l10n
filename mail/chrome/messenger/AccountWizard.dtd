@@ -60,7 +60,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "將會使用您已有的寄件伺服器 (SMTP):「">
-<!ENTITY haveSmtp1.suffix2 "&quot; 將會被採用。 您可以在帳號設定裡更改寄件所使用的伺服器。">
+<!ENTITY haveSmtp1.suffix2 "&quot; 將會被採用。你可以在帳戶設定裡更改寄件所使用的伺服器。">
 
 <!-- Entities for Login page -->
 
@@ -78,13 +78,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "將會使用您已有的寄件 (SMTP) 使用者名稱「">
-<!ENTITY haveSmtp2.suffix2 "&quot; 將會被採用。 您可以在帳號設定裡更改寄件所使用的伺服器。">
+<!ENTITY haveSmtp2.suffix2 "&quot; 將會被採用。你可以在帳戶設定裡更改寄件所使用的伺服器。">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "您的寄件伺服器「">
-<!ENTITY haveSmtp3.suffix2 "&quot; 與您的收件伺服器相同，您的收件伺服器使用者名稱將用來存取它。 您可以在帳號設定裡更改寄件伺服器設定。">
+<!ENTITY haveSmtp3.suffix2 "&quot; 與您的收件伺服器相同，您的收件伺服器使用者名稱將用來存取它。您可以在帳戶設定裡更改寄件伺服器設定。">
 
 <!-- Entities for Account name page -->
 

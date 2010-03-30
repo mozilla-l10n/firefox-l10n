@@ -164,7 +164,7 @@
 <!ENTITY addressBookCmd.label "通訊錄">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "帳號設定…">
+<!ENTITY accountManagerCmd.label "帳戶設定…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "選項…">
