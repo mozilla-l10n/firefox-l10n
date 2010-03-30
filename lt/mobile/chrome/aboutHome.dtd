@@ -28,16 +28,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY firstrun.title                     "Sveiki! Čia „&brandShortName;“">
-<!ENTITY firstrun.heading                   "Žemiau pateikiame keletą pagrindinių „&brandShortName;“ savybių ir populiariausių priedų, padėsiančių pilnavertiškai naudotis šia programa.">
-<!ENTITY firstrun.recommended               "Rekomenduojame:">
-<!ENTITY firstrun.weave.title               "Parsisiųskite „Weave Sync“">
-<!ENTITY firstrun.weave.description         "Sinchronizuokite „&brandShortName;“ naršymo žurnalą, įrašytus slaptažodžius, adresyną ir korteles su naršykle Jūsų kompiuteryje.">
-<!ENTITY firstrun.starter.title             "Parsisiųskite „Starter Kit“ rinkinį">
-<!ENTITY firstrun.starter.description       "Įdiekite šiuos rekomenduojamus priedus ir mėgaukitės naujais potyriais su „&brandShortName;“">
-<!ENTITY firstrun.tour.title                "Pažiūrėkite pristatymą">
-<!ENTITY firstrun.tour.description          "Susipažinkite su nuostabiomis šios programos savybėmis – pažiūrėkite jos vaizdinį pristaymą">
-<!ENTITY firstrun.features                  "Daugiau savybių">
-<!ENTITY firstrun.faq                       "Klausimai ir atsakymai">
-<!ENTITY firstrun.privacy                   "Privatumo politika">
-<!ENTITY firstrun.follow                    "Sekite mus:">
+<!ENTITY aboutHome.start                        "Pradžia">
+<!ENTITY aboutHome.recentTabs                   "Pastarojo naršymo seanso kortelės">
+<!ENTITY aboutHome.remoteTabs                   "Kortelės, atvertos kituose kompiuteriuose">
+<!ENTITY aboutHome.recommendedAddons2           "Priedai „&brandShortName;“ naršyklei">
+<!ENTITY aboutHome.aboutMozilla                 "Apie „Mozillą“">
+<!ENTITY aboutHome.openAllTabs                  "Atverti visas kortelėse">

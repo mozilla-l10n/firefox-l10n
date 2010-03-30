@@ -44,3 +44,7 @@
 <!ENTITY language.auto                                 "Parinkti automatiškai">
 <!ENTITY defaultBrowser.title                          "Numatytoji naršyklė">
 <!ENTITY defaultBrowser.description                    "Skirti „&brandShortName;“ numatytąja naršykle">
+<!ENTITY homepage.title                                "Pradžios tinklalapis">
+<!ENTITY homepage.none                                 "Tuščias puslapis">
+<!ENTITY homepage.default                              "„&brandShortName;“ numatytasis">
+<!ENTITY homepage.currentpage                          "Naudoti šiuo metu atvertą tinklalapį">
