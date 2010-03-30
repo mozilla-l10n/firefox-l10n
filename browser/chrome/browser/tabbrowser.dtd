@@ -29,7 +29,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  untitledTab                 "Bevardė">
 <!ENTITY  newTab.label                "Nauja kortelė">
 <!ENTITY  newTab.accesskey            "N">
 <!ENTITY  closeTab.label              "Užverti kortelę">
