@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Typ sykwurd of adres">
+
 <!ENTITY back.label            "Tebek">
 <!ENTITY forward.label         "Foarút">
 <!ENTITY reload.label          "Werlade">
@@ -35,9 +37,9 @@
 <!ENTITY formHelper.done           "Dien">
 
 <!ENTITY addonsHeader.label        "Tafoegings">
-<!ENTITY addonsLocal.label         "Jo tafoegings">
-<!ENTITY addonsRepo.label          "Krij tafoegings">
-<!ENTITY addonsRecommended.label   "Sjoch oanrikkemandearre">
+<!ENTITY addonsLocal.label         "Jo Tafoegings">
+<!ENTITY addonsRepo.label          "Krij Tafoegings">
+<!ENTITY addonsRecommended.label   "Sjoch oanrêt">
 <!ENTITY addonsSearch.label        "Sykje katalogus">
 <!ENTITY addonsSearch2.emptytext   "Sykje yn katalogus">
 <!ENTITY addonsSearch.recommended  "Oanrikkemandearre">
