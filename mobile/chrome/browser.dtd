@@ -30,6 +30,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY urlbar.emptytext                 "Įveskite ieškomą frazę arba adresą">
+
 <!ENTITY back.label                       "Atgal">
 <!ENTITY forward.label                    "Pirmyn">
 <!ENTITY reload.label                     "Naujinti">
@@ -68,7 +70,6 @@
 
 <!ENTITY addonsHeader.label               "Priedai">
 <!ENTITY addonsLocal.label                "Įdiegti priedai">
-<!ENTITY addonsUpdate.label               "Atnaujinti">
 <!ENTITY addonsRepo.label                 "Siųstis priedų">
 <!ENTITY addonsRecommended.label          "Rekomendacijos">
 <!ENTITY addonsSearch.label               "Ieškoti">
@@ -98,8 +99,6 @@
 <!ENTITY noResults.label                  "Rezultatų nėra">
 <!ENTITY allBookmarks.label               "Visi adresyno įrašai">
 
-<!ENTITY searchEngine.addSearch           "Įtraukti ieškyklę:">
-
 <!ENTITY bookmarkPopup.label              "Tinklalapis įrašytas į adresyną">
 <!ENTITY bookmarkRemove.label             "Pašalinti">
 <!ENTITY bookmarkEdit.label               "Taisyti">
@@ -124,3 +123,6 @@
 <!ENTITY consoleErrFile.label             "Failas:">
 <!ENTITY consoleErrLine.label             "Eilutė:">
 <!ENTITY consoleErrColumn.label           "Stulpelis:">
+
+<!ENTITY contextOpenInNewTab.label        "Atverti saitą naujoje kortelėje">
+<!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
