@@ -67,11 +67,12 @@
 <!ENTITY newtodo.percentcomplete.label                    "&#37; užbaigta">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key               "E">
-<!ENTITY event.dialog.new.message.key             "M">
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
-<!ENTITY event.dialog.delete.key                  "D">
+<!ENTITY event.dialog.saveandclose.key            "L">
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
@@ -81,26 +82,28 @@
 <!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Failas">
-<!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "Naujas">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Įvykis">
-<!ENTITY  event.menu.file.new.event.accesskey             "v">
-<!ENTITY  event.menu.file.new.message.label               "Laiškas">
-<!ENTITY  event.menu.file.new.message.accesskey           "L">
-<!ENTITY  event.menu.file.new.contact.label               "Adresatas">
-<!ENTITY  event.menu.file.new.contact.accesskey           "A">
-<!ENTITY  event.menu.file.close.label                     "Užverti">
-<!ENTITY  event.menu.file.close.accesskey                 "U">
-<!ENTITY  event.menu.file.save.label                      "Įrašyti">
-<!ENTITY  event.menu.file.save.accesskey                  "r">
+<!ENTITY  event.menu.item.new.label                       "Naujas">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Įvykis">
+<!ENTITY  event.menu.item.new.event.accesskey             "v">
+<!ENTITY  event.menu.item.new.task.label                  "Darbas">
+<!ENTITY  event.menu.item.new.task.accesskey              "D">
+<!ENTITY  event.menu.item.new.message.label               "Laiškas">
+<!ENTITY  event.menu.item.new.message.accesskey           "L">
+<!ENTITY  event.menu.item.new.contact.label               "Adresatas">
+<!ENTITY  event.menu.item.new.contact.accesskey           "A">
+<!ENTITY  event.menu.item.close.label                     "Užverti">
+<!ENTITY  event.menu.item.close.accesskey                 "U">
+<!ENTITY  event.menu.item.save.label                      "Įrašyti">
+<!ENTITY  event.menu.item.save.accesskey                  "r">
+<!ENTITY  event.menu.item.saveandclose.label              "Įrašyti ir užverti">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "v">
 <!ENTITY  event.menu.item.delete.label                    "Pašalinti…">
 <!ENTITY  event.menu.item.delete.accesskey                "š">
-<!ENTITY  event.menu.file.page.setup.label                "Puslapio nuostatos">
-<!ENTITY  event.menu.file.page.setup.accesskey            "P">
-<!ENTITY  event.menu.file.print.label                     "Spausdinti">
-<!ENTITY  event.menu.file.print.accesskey                 "S">
+<!ENTITY  event.menu.item.page.setup.label                "Puslapio nuostatos">
+<!ENTITY  event.menu.item.page.setup.accesskey            "P">
+<!ENTITY  event.menu.item.print.label                     "Spausdinti">
+<!ENTITY  event.menu.item.print.accesskey                 "S">
 
 <!ENTITY  event.menu.edit.label                           "Taisa">
 <!ENTITY  event.menu.edit.accesskey                       "T">
@@ -365,6 +368,7 @@
 <!ENTITY event.attendee.role.required             "Būtinas dalyvis">
 <!ENTITY event.attendee.role.optional             "Nebūtinas dalyvis">
 <!ENTITY event.attendee.role.chair                "Pirmininkas">
+<!ENTITY event.attendee.role.nonparticipant       "Nedalyvauja">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Prašom parinkti laiko juostą">

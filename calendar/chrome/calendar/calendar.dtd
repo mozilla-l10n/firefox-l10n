@@ -48,11 +48,6 @@
 <!ENTITY calendar.calendar.label     "Kalendorius">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
-
 <!ENTITY calendar.newtask.button.tooltip          "Aprašyti naują darbą" >
 <!ENTITY calendar.newevent.button.tooltip         "Aprašyti naują įvykį" >
 
@@ -95,12 +90,18 @@
 <!ENTITY calendar.month.button.tooltip        "Rodyti mėnesio kalendorių" >
 <!ENTITY calendar.multiweek.button.tooltip    "Rodyti kelių savaičių kalendorių" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Tolesnė diena" >
-<!ENTITY calendar.prevday.button.tooltip        "Ankstesnė diena" >
-<!ENTITY calendar.nextweek.button.tooltip       "Tolesnė savaitė" >
-<!ENTITY calendar.prevweek.button.tooltip       "Ankstesnė savaitė" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Tolesnis mėnuo" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Ankstesnis mėnuo" >
+<!ENTITY calendar.nextday.label                 "Tolesnė diena" >
+<!ENTITY calendar.prevday.label                 "Ankstesnė diena" >
+<!ENTITY calendar.nextday.accesskey             "T" >
+<!ENTITY calendar.prevday.accesskey             "A" >
+<!ENTITY calendar.nextweek.label                "Tolesnė savaitė" >
+<!ENTITY calendar.prevweek.label                "Ankstesnė savaitė" >
+<!ENTITY calendar.nextweek.accesskey            "T" >
+<!ENTITY calendar.prevweek.accesskey            "A" >
+<!ENTITY calendar.nextmonth.label               "Tolesnis mėnuo" >
+<!ENTITY calendar.prevmonth.label               "Ankstesnis mėnuo" >
+<!ENTITY calendar.nextmonth.accesskey           "T" >
+<!ENTITY calendar.prevmonth.accesskey           "A" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Viena diena pirmyn" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Viena diena atgal" >
@@ -159,6 +160,7 @@
 <!ENTITY calendar.task-details.status.label          "būsena">
 <!ENTITY calendar.task-details.category.label        "tipas">
 <!ENTITY calendar.task-details.repeat.label          "pasikartojimas">
+<!ENTITY calendar.task-details.attachments.label     "priedai">
 
 <!ENTITY calendar.task.category.button.tooltip  "Priskirti darbams tipus">
 <!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">

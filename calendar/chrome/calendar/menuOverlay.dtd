@@ -94,16 +94,6 @@
 <!ENTITY goTodayCmd.label                       "Į šiandieną">
 <!ENTITY goTodayCmd.accesskey                   "š">
 
-<!ENTITY goPreviousCmd.day.label                "Į ankstesnę dieną">
-<!ENTITY goPreviousCmd.week.label               "Į ankstesnę savaitę">
-<!ENTITY goPreviousCmd.month.label              "Į ankstesnį mėnesį">
-<!ENTITY goPreviousCmd.accesskey                "a">
-
-<!ENTITY goNextCmd.day.label                    "Į tolesnę dieną">
-<!ENTITY goNextCmd.week.label                   "Į tolesnę savaitę">
-<!ENTITY goNextCmd.month.label                  "Į tolesnį mėnesį">
-<!ENTITY goNextCmd.all.accesskey                "t">
-
 <!ENTITY showCurrentView.label                  "Dabartinis vaizdas">
 <!ENTITY showCurrentView.accesskey              "D">
 
