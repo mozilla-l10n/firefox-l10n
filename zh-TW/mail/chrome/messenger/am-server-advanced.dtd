@@ -1,4 +1,4 @@
-<!ENTITY serverAdvanced.label "進階帳號設定">
+<!ENTITY serverAdvanced.label "進階帳戶設定">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP 伺服器目錄:">
 <!ENTITY serverDirectory.accesskey "d">

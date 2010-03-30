@@ -50,7 +50,7 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "重建摘要檔案"> 
      
 <!ENTITY retention.label "保存方式">
-<!ENTITY retentionUseAccount.label  "使用我的帳號設定">
+<!ENTITY retentionUseAccount.label  "使用我的帳戶設定">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "天前">
 <!ENTITY message.label "封">
