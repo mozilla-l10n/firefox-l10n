@@ -2,9 +2,6 @@
 <!ENTITY aboutButton.label      	"&lt; Tebek">
 <!ENTITY aboutButton.accesskey  	"T">
 <!ENTITY aboutVersion           	"ferzje">
-<!ENTITY copyrightText          	"&#169;1998-2009 Meiwurkers. Alle rjochten foarbehâlden. Mozilla Thunderbird en de 
-                                 	Thunderbird-logo’s binne hannelsmerken fan de Mozilla Foundation.  Alle rjochten 
-                                 	foarbehâlden.">
 <!ENTITY aboutMenu.label        	"Oer">
 <!ENTITY aboutMenu.accesskey    	"O">
 <!ENTITY aboutCredits.label     	"Credits">
