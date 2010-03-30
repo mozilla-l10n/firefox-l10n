@@ -32,9 +32,6 @@
 
 <!ENTITY  updateWizard.title              "Programinės įrangos atnaujinimas">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Ieškoma naujinimų">
 <!ENTITY  updateCheck.label               "Ieškoma „&brandShortName;“ naujinimų…">
 
@@ -76,7 +73,7 @@
 
 <!ENTITY  incompatibleList.title          "Rasta nesuderinamų priedų">
 
-<!ENTITY  downloading.title               "Naujinimo atsiuntimas">
+<!ENTITY  downloadPage.title              "Atsiunčiama programa „&brandShortName;“">
 <!ENTITY  downloading.intro               "Atsiunčiamas naujinimas…">
 <!ENTITY  connecting.label                "Jungiamasi prie naujinimų serverio…">
 <!ENTITY  verificationFailedText.label    "„&brandShortName;“ nepavyko patikrinti atsiųsto 

@@ -238,6 +238,7 @@
 <!ENTITY urlbar.history.emptyText           "Paieška žurnale">
 <!ENTITY urlbar.none.emptyText              "Įveskite tinklalapio adresą">
 <!ENTITY urlbar.accesskey                   "d">
+<!ENTITY urlbar.switchToTab.label           "Pereiti į kortelę:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:

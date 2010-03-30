@@ -58,8 +58,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "e">
 <!ENTITY checkNow.label                  "Tikrinti dabar">
 <!ENTITY checkNow.accesskey              "d">
-<!ENTITY submitCrashes.label             "Išsiųsti strigčių pranešimus">
-<!ENTITY submitCrashes.accesskey         "s">
+<!ENTITY submitCrashes.label             "Siųsti strigčių pranešimus">
+<!ENTITY submitCrashes.accesskey         "S">
 
 <!ENTITY networkTab.label                "Tinklas">
 

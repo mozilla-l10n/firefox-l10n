@@ -48,11 +48,23 @@
 <!ENTITY certmgr.ca.builtins "Numatytosios liudijimų įstaigos">
 <!ENTITY certmgr.ca.mycas "Jūsų tvarkomos liudijimų įstaigos">
 
-<!ENTITY certmgr.mine "Turite liudijimus, išduotus šių Jus identifikuojančių įstaigų:">
-<!ENTITY certmgr.others "Turite liudijimus, identifikuojančius šiuos asmenis:">
-<!ENTITY certmgr.websites2 "Turite liudijimus, identifikuojančius šiuos serverius:">
-<!ENTITY certmgr.cas "Turite liudijimus, identifikuojančius šias liudijimų įstaigas:">
-<!ENTITY certmgr.orphans "Turite liudijimus, nepatenkančius į kitas kategorijas:">
+<!ENTITY certmgr.mine.search                  "Ieškoti:">
+<!ENTITY certmgr.others.search                "Ieškoti:">
+<!ENTITY certmgr.websites.search              "Ieškoti:">
+<!ENTITY certmgr.cas.search                   "Ieškoti:">
+<!ENTITY certmgr.orphans.search               "Ieškoti:">
+
+<!ENTITY certmgr.mine.description             "Turite liudijimus, išduotus šių Jus identifikuojančių įstaigų:">
+<!ENTITY certmgr.others.description           "Turite liudijimus, identifikuojančius šiuos asmenis:">
+<!ENTITY certmgr.websites.description         "Turite liudijimus, identifikuojančius šiuos serverius:">
+<!ENTITY certmgr.cas.description              "Turite liudijimus, identifikuojančius šias liudijimų įstaigas:">
+<!ENTITY certmgr.orphans.description          "Turite liudijimus, nepatenkančius į kitas kategorijas:">
+
+<!ENTITY certmgr.mine.filtered                "Paiešką atitinkantys liudijimai, išduoti šių Jus identifikuojančių įstaigų:">
+<!ENTITY certmgr.others.filtered              "Paiešką atitinkantys liudijimai, identifikuojantys šiuos asmenis:">
+<!ENTITY certmgr.websites.filtered            "Paiešką atitinkantys liudijimai, identifikuojantys šiuos serverius:">
+<!ENTITY certmgr.cas.filtered                 "Paiešką atitinkantys liudijimai, identifikuojantys šias liudijimų įstaigas:">
+<!ENTITY certmgr.orphans.filtered             "Paiešką atitinkantys liudijimai, nepatenkantys į kitas kategorijas:">
 
 <!ENTITY certmgr.detail.general_tab.title "Bendroji">
 <!ENTITY certmgr.detail.general_tab.accesskey "B">
