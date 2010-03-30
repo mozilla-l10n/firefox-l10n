@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "輸入要搜尋的資料或是網址">
+
 <!ENTITY back.label            "上一頁">
 <!ENTITY forward.label         "下一頁">
 <!ENTITY reload.label          "重新載入">
@@ -36,7 +38,6 @@
 
 <!ENTITY addonsHeader.label        "附加元件">
 <!ENTITY addonsLocal.label         "您的附加元件">
-<!ENTITY addonsUpdate.label        "更新">
 <!ENTITY addonsRepo.label          "取得元件">
 <!ENTITY addonsRecommended.label   "推薦元件">
 <!ENTITY addonsSearch.label        "搜尋">
@@ -66,8 +67,6 @@
 <!ENTITY noResults.label           "沒有結果">
 <!ENTITY allBookmarks.label        "顯示所有書籤">
 
-<!ENTITY searchEngine.addSearch    "新增搜尋:">
-
 <!ENTITY bookmarkPopup.label       "此頁已加入書籤">
 <!ENTITY bookmarkRemove.label      "移除">
 <!ENTITY bookmarkEdit.label        "編輯">
@@ -92,3 +91,6 @@
 <!ENTITY consoleErrFile.label      "原始檔:">
 <!ENTITY consoleErrLine.label      "行號:">
 <!ENTITY consoleErrColumn.label    "欄數:">
+
+<!ENTITY contextOpenInNewTab.label "用新分頁開啟鏈結">
+<!ENTITY contextSaveImage.label    "儲存圖片">
