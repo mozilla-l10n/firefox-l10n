@@ -14,3 +14,7 @@
 <!ENTITY language.auto                             	"Auto-detektearje">
 <!ENTITY defaultBrowser.title                     	"Standert browser">
 <!ENTITY defaultBrowser.description             	"Meitsje &brandShortName; jo standert browser">
+<!ENTITY homepage.title                            	"Begjinside">
+<!ENTITY homepage.none                             	"Lege side">
+<!ENTITY homepage.default                          	"&brandShortName; begjin">
+<!ENTITY homepage.currentpage                      	"Brûk aktuele side">
