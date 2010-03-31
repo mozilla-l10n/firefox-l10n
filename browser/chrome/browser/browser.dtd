@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privee sneupe)">
 
+<!-- Tab context menu -->
+<!ENTITY newTab.label           		"Nij ljepblêd">
+<!ENTITY newTab.accesskey       		"N">
+<!ENTITY reloadTab.label        		"Ljepblêd op 'e nij lade">
+<!ENTITY reloadTab.accesskey       		"n">
+<!ENTITY reloadAllTabs.label    		"Alle ljepblêden op 'e nij lade">
+<!ENTITY reloadAllTabs.accesskey   		"A">
+<!ENTITY closeOtherTabs.accesskey  		"S">
+<!ENTITY closeOtherTabs.label   		"Slút oare ljepblêden">
+<!ENTITY openTabInNewWindow.label		"Iepenje yn in nij skerm">
+<!ENTITY openTabInNewWindow.accesskey	"s">
+<!ENTITY bookmarkThisTab.label        	"Blêdwizer meitsje fan dit ljepblêd">
+<!ENTITY bookmarkThisTab.accesskey    	"D">
+<!ENTITY bookmarkAllTabs.label       	"Blêdwizer meitsje fan alle ljepblêden">
+<!ENTITY bookmarkAllTabs.accesskey   	"B">
+<!ENTITY undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
+<!ENTITY undoCloseTab.accesskey      	"m">
+<!ENTITY closeTab.label         		"Ljepblêd slute">
+<!ENTITY closeTab.accesskey        		"L">
+
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
 <!ENTITY tabCmd.commandkey "t">
