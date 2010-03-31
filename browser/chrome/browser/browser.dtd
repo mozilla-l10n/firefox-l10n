@@ -97,6 +97,8 @@
 <!ENTITY bookmarksItem.title "Grāmatzīmes">
 <!-- Toolbar items --> 
 
+<!ENTITY urlbar.switchToTab.label     "Pārslēgties uz cilni:">
+
 <!ENTITY homeButton.label "Sākumlapa">
 
 <!ENTITY bookmarksButton.label "Grāmatzīmes">

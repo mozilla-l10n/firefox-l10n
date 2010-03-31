@@ -50,6 +50,8 @@
 <!ENTITY clearCacheNow.accesskey "I">
 
 <!ENTITY updateTab.label "Atjaunināt">
+<!ENTITY submitCrashes.label             "Nosūtīt avārijas ziņojumus">
+<!ENTITY submitCrashes.accesskey         "S">
 
 <!ENTITY autoCheck.label "Automātiski pārbaudīt atjauninājumus:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">

@@ -60,6 +60,9 @@ ka &brandShortName; ir atļauts piekļūt tīmeklim.</li>
 <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> 
 </ul>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloķē satura drošības politika">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; liedza šai lapai ielādēties šādā veidā, jo to neatļauj lapas drošības politika.</p>">
+
 <!ENTITY netReset.title "Savienojums tika pārrauts">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 

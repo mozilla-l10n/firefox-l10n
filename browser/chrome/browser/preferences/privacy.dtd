@@ -12,9 +12,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 
-<!ENTITY  rememberHistory.pre.label      "Atcerēties manu pārlūkošanas vēsturi vismaz">
-<!ENTITY  rememberHistory.pre.accesskey  "v">
-<!ENTITY  rememberHistory.post.label     "dienas">
+<!ENTITY  rememberHistory.label      "Atcerēties manu pārlūkošanas vēsturi">
+<!ENTITY  rememberHistory.accesskey  "p">
+
 
 <!ENTITY  rememberDownload.label         "Atcerēties lejupielāžu vēsturi">
 <!ENTITY  rememberDownload.accesskey     "l">
