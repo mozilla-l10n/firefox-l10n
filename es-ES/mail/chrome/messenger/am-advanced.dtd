@@ -1,5 +1,5 @@
-<!ENTITY smtpServer.label "Configuración del servidor saliente (SMTP)">
-<!ENTITY smtpDesc.label "Sólo es necesario especificar un servidor de correo saliente (SMTP), incluso si tiene varias cuentas de correo. Introduzca el nombre del servidor saliente que use más frecuentemente para acceder al correo.">
+<!ENTITY smtpServer.label "Configuración del servidor de salida (SMTP)">
+<!ENTITY smtpDesc.label "Aunque puede especificar más de un servidor de salida (SMTP), esto sólo se recomienda para usuarios avanzados. Configurar múltiples servidores SMTP puede causar errores al enviar mensajes.">
 <!ENTITY smtpListAdd.label "Añadir…">
 <!ENTITY smtpListAdd.accesskey "d">
 <!ENTITY smtpListEdit.label "Editar…">
@@ -13,4 +13,4 @@
 <!ENTITY serverPort.label "Puerto: ">
 <!ENTITY userName.label "Nombre de usuario: ">
 <!ENTITY connectionSecurity.label "Seguridad de la conexión: ">
-<!ENTITY useSecureAuthentication.label "Identificación segura: ">
+<!ENTITY authMethod.label "Metodo de identificación:">
