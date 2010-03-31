@@ -1,6 +1,0 @@
-<!--null-->
-<!ENTITY caption.label "Attach Web Page">
-<!ENTITY enter.label "Enter the web location (URL), or specify the local file you would like to attach:">
-<!ENTITY enter.accesskey "E">
-<!ENTITY chooseFile.label "Вибрати файл…">
-<!ENTITY chooseFile.accesskey "В">
