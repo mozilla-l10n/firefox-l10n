@@ -26,7 +26,7 @@
 <!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensajes leídos (prevalece sobre la configuración de antigüedad)">
 <!ENTITY retentionApplyToFlagged.label "Mantener siempre los mensajes estrellados">
 <!ENTITY retentionApplyToFlagged.accesskey "i">
-<!ENTITY nntpRemoveMsgBody.label "Eliminar los mensajes de más de">
+<!ENTITY nntpRemoveMsgBody.label "Eliminar el cuerpo de los mensajes de más de">
 <!ENTITY nntpRemoveMsgBody.accesskey "d">
 <!ENTITY offlineSelectNntp.label "Seleccionar grupos de noticias para su uso sin conexión…">
 <!ENTITY offlineSelectNntp.accesskey "S">

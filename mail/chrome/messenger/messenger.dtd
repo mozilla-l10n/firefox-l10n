@@ -124,8 +124,8 @@
 <!ENTITY showMessageCmd.accesskey "e">
 <!ENTITY folderView.label "Carpetas">
 <!ENTITY folderView.accesskey "p">
-<!ENTITY smartFolders.label "Inteligentes">
-<!ENTITY smartFolders.accesskey "I">
+<!ENTITY unifiedFolders.label "Unificado">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Todas">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Con no leídos">
