@@ -1,9 +1,0 @@
-<!--null-->
-<!ENTITY all.label "Завантажити всі заголовки">
-<!ENTITY all.accesskey "З">
-<!ENTITY download.label "Завантажити">
-<!ENTITY download.accesskey "З">
-<!ENTITY headers.label "заголовків">
-<!ENTITY headers.accesskey "з">
-<!ENTITY mark.label "Позначити решту прочитаними">
-<!ENTITY mark.accesskey "П">

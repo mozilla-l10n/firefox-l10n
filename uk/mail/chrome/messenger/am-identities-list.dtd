@@ -1,7 +1,0 @@
-<!ENTITY identitiesListDesc.label "Підтримка декількох ідентифікаторів">
-<!ENTITY identitiesListAdd.label  "Додати…">
-<!ENTITY identitiesListAdd.accesskey  "Д">
-<!ENTITY identitiesListEdit.label "Змінити…">
-<!ENTITY identitiesListEdit.accesskey "З">
-<!ENTITY identitiesListDelete.label "Вилучити">
-<!ENTITY identitiesListDelete.accesskey "В">

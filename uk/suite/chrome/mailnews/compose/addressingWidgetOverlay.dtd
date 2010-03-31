@@ -1,6 +1,0 @@
-<!ENTITY toAddr.label "До:">
-<!ENTITY ccAddr.label "Копія:">
-<!ENTITY bccAddr.label "Прих. копія:">
-<!ENTITY replyAddr.label "Зворотна адреса:">
-<!ENTITY newsgroupsAddr.label "Конференція:">
-<!ENTITY followupAddr.label "Відповідь в конференцію:">

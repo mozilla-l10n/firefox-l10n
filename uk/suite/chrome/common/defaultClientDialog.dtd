@@ -1,8 +1,0 @@
-<!ENTITY defaultClient.title "Типовий поштар">
-<!ENTITY defaultClient.intro "Використовувати &brandShortName; як стандартний клієнт для:">
-<!ENTITY browser.label "Browser">
-<!ENTITY email.label "Електронної пошти">
-<!ENTITY newsgroups.label "Конференції">
-<!ENTITY feeds.label "Стрічки">
-<!ENTITY checkOnStartup.label "Завжди проводити таку перевірку при запуску &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "З">
