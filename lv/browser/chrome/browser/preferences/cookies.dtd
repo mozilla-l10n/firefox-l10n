@@ -5,6 +5,7 @@
 <!ENTITY cookiedomain.label "Vietne">
 <!ENTITY button.removecookie.label "Aizvākt sīkdatni">
 <!ENTITY button.removecookie.accesskey "I">
+<!ENTITY     button.removecookies.label     "Aizvākt sīkdatnes">
 <!ENTITY button.removeallcookies.label "Aizvākt visas sīkdatnes">
 <!ENTITY button.removeallcookies.accesskey "A">
 
