@@ -1,0 +1,154 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "Bibliotēka">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Organizēt">
+<!ENTITY organize.accesskey "O">
+
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "Aizvērt">
+<!ENTITY file.close.accesskey "Z">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Rediģēt">
+<!ENTITY edit.accesskey "E">
+<!ENTITY views.label "Skati">
+<!ENTITY views.accesskey "S">
+<!ENTITY view.toolbar.label "Rīkjosla">
+<!ENTITY view.toolbar.accesskey "o">
+<!ENTITY view.columns.label "Rādīt kolonas">
+<!ENTITY view.columns.accesskey "K">
+<!ENTITY view.sort.label "Kārtot">
+<!ENTITY view.sort.accesskey "K">
+<!ENTITY view.unsorted.label "Nekārtots">
+<!ENTITY view.unsorted.accesskey "N">
+<!ENTITY view.sortAscending.label "A > Z kārtība">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Z > A kārtība">
+<!ENTITY view.sortDescending.accesskey "Z">
+
+<!ENTITY cmd.bookmarkLink.label         "Saglabāt šo lapu grāmatzīmēs…">
+<!ENTITY cmd.bookmarkLink.accesskey     "S">
+<!ENTITY cmd.findInBookmarks.label "Meklēt grāmatzīmēs...">
+<!ENTITY cmd.findInBookmarks.accesskey "M">
+<!ENTITY cmd.findCurrent.label "Meklēt izvēlētajā kolekcijā...">
+<!ENTITY cmd.findCurrent.accesskey "i">
+
+<!ENTITY cmd.exportHTML.label "Eksportēt kā HTML...">
+<!ENTITY cmd.exportHTML.accesskey "E">
+<!ENTITY cmd.importHTML.label "Importēt HTML...">
+<!ENTITY cmd.importHTML.accesskey "I">
+
+<!ENTITY cmd.backup.label "Izveidot rezerves kopiju...">
+<!ENTITY cmd.backup.accesskey "I">
+<!ENTITY cmd.restore2.label "Atjaunot">
+<!ENTITY cmd.restore2.accesskey "A">
+<!ENTITY cmd.restoreFromFile.label "Izvēlēties failu...">
+<!ENTITY cmd.restoreFromFile.accesskey "I">
+
+<!ENTITY cmd.select_all.label "Iezīmēt visas">
+<!ENTITY cmd.select_all.accesskey "V">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "Izgriezt">
+<!ENTITY cmd.edit_cut.accesskey "t">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Kopēt">
+<!ENTITY cmd.edit_copy.accesskey "K">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Ielīmēt">
+<!ENTITY cmd.edit_paste.accesskey "I">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Dzēst">
+<!ENTITY cmd.edit_delete.accesskey "D">
+<!ENTITY cmd.edit_undo.label "Atsaukt">
+<!ENTITY cmd.edit_undo.accesskey "U">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Pārdarīt">
+<!ENTITY cmd.edit_redo.accesskey "R">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.open.label "Atvērt">
+<!ENTITY cmd.open.accesskey "A">
+<!ENTITY cmd.open_window.label "Atvērt jaunā logā">
+<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_tab.label "Atvērt jaunā cilnē">
+<!ENTITY cmd.open_tab.accesskey "u">
+<!ENTITY cmd.open_all_in_tabs.label "Atvērt visas cilnēs">
+<!ENTITY cmd.open_all_in_tabs.accesskey "A">
+
+<!ENTITY cmd.properties.label "Īpašības">
+<!ENTITY cmd.properties.accesskey "p">
+
+<!ENTITY cmd.rename.label "Pārsaukt">
+<!ENTITY cmd.rename.accesskey "R">
+
+<!ENTITY cmd.sortby_name.label "Kārtot pēc nosaukuma">
+<!ENTITY cmd.sortby_name.accesskey "K">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
+
+<!ENTITY cmd.new_bookmark.label "Jauna grāmatzīme...">
+<!ENTITY cmd.new_bookmark.accesskey "G">
+<!ENTITY cmd.new_livemark.label "Jauna dzīvā grāmatzīme...">
+<!ENTITY cmd.new_livemark.accesskey "G">
+<!ENTITY cmd.new_folder.label "Jauna mape...">
+<!ENTITY cmd.new_folder.accesskey "m">
+<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.new_separator.label "Jauns atdalītājs">
+<!ENTITY cmd.new_separator.accesskey "S">
+
+<!ENTITY cmd.reloadLivebookmark.label "Pārlādēt dzīvās grāmatzīmes">
+<!ENTITY cmd.reloadLivebookmark.accesskey "R">
+<!ENTITY cmd.reloadMicrosummary.label "Pārlādēt dzīvos virsrakstus">
+<!ENTITY cmd.reloadMicrosummary.accesskey "R">
+
+<!ENTITY cmd.moveBookmarks.label "Pārvietot...">
+<!ENTITY cmd.moveBookmarks.accesskey "P">
+
+<!ENTITY col.name.label "Nosaukums">
+<!ENTITY col.tags.label "Birkas">
+<!ENTITY col.url.label "Adrese">
+<!ENTITY col.lastvisit.label "Apmeklējuma datums">
+<!ENTITY col.visitcount.label "Apmeklējumu skaits">
+<!ENTITY col.keyword.label "Atslēgas vārdi">
+<!ENTITY col.description.label "Apraksts">
+<!ENTITY col.dateadded.label "Pievienota">
+<!ENTITY col.lastmodified.label "Pēdējo reizi labota">
+
+<!ENTITY search.label "Meklēt:">
+<!ENTITY search.accesskey "M">
+<!ENTITY search.scopeFolder.label "Izvēlētajā mapē">
+<!ENTITY search.scopeFolder.accesskey "M">
+<!ENTITY search.scopeBookmarks.label               "Grāmatzīmes">
+<!ENTITY search.scopeBookmarks.accesskey           "G">
+<!ENTITY search.scopeDownloads.label "Lejupielādēs">
+<!ENTITY search.scopeDownloads.accesskey "D">
+<!ENTITY search.scopeHistory.label "Vēsturē">
+<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY saveSearch.label "Saglabāt">
+<!ENTITY saveSearch.accesskey "S">
+
+<!ENTITY cmd.find.key "f">
+
+<!ENTITY feed.subscribe.label "Barotne">
+<!ENTITY feed.subscribe.tooltip "Pierakstīties">
+
+<!ENTITY maintenance.label "Importēšana un rezerves kopēšana">
+<!ENTITY maintenance.accesskey "I">
+
+<!ENTITY backCmd.label "Atpakaļ">
+<!ENTITY backButton.tooltip "Iet atpakaļ">
+
+<!ENTITY forwardCmd.label "Uz priekšu">
+<!ENTITY forwardButton.tooltip "Iet uz priekšu">
+
+<!ENTITY detailsPane.more.label "Vairāk">
+<!ENTITY detailsPane.more.accesskey "k">
+<!ENTITY detailsPane.less.label "Mazāk">
+<!ENTITY detailsPane.less.accesskey "z">
+<!ENTITY detailsPane.noPreviewAvailable.label "Priekšskatījums">
+<!ENTITY detailsPane.selectAnItemText.description "Izvēlieties elementu, ko aplūkot vai rediģēt">
+
+<!ENTITY cmd.delete.label               "Dzēst šo lapu">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Aizmirst par šo lapu">
+<!ENTITY cmd.deleteDomainData.accesskey "A">
