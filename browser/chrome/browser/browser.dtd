@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Nueva pestaña">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "Recargar pestaña">
+<!ENTITY  reloadTab.accesskey                "r">
+<!ENTITY  reloadAllTabs.label                "Recargar todas las pestañas">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "Cerrar las otras pestañas">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "Abrir en nueva ventana">
+<!ENTITY  openTabInNewWindow.accesskey       "v">
+<!ENTITY  bookmarkThisTab.label              "Marcar esta pestaña">
+<!ENTITY  bookmarkThisTab.accesskey          "M">
+<!ENTITY  bookmarkAllTabs.label              "Marcar todas las pestañas…">
+<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  undoCloseTab.label                 "Deshacer cerrar pestaña">
+<!ENTITY  undoCloseTab.accesskey             "h">
+<!ENTITY  closeTab.label                     "Cerrar pestaña">
+<!ENTITY  closeTab.accesskey                 "c">
+
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
