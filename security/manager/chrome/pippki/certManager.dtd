@@ -46,11 +46,24 @@
 <!ENTITY certmgr.ca.builtins "Iebūvētās CA">
 <!ENTITY certmgr.ca.mycas "Jūsu pārvaldītās CA">
 
-<!ENTITY certmgr.mine "Jums ir jūs identificējoši sertifikāti no šīm organizācijām:">
-<!ENTITY certmgr.others "Jums failā ir šos cilvēkus identificējoši sertifikāti:">
-<!ENTITY certmgr.websites2 "Jums failā ir šos serverus idenficējoši sertifikāti:">
-<!ENTITY certmgr.cas "Jums failā ir šīs sertificēšanas autoritātes idenficiējoši sertifikāti:">
-<!ENTITY certmgr.orphans "Jums failā ir šādi sertifikāti, kas neiederas nevienā citā kategorijā:">
+<!ENTITY certmgr.mine.search                  "Meklēt:">
+<!ENTITY certmgr.others.search                "Meklēt:">
+<!ENTITY certmgr.websites.search              "Meklēt:">
+<!ENTITY certmgr.cas.search                   "Meklēt:">
+<!ENTITY certmgr.orphans.search               "Meklēt:">
+
+<!ENTITY certmgr.mine.description             "Jums ir jūs identificējoši sertifikāti no šīm organizācijām:">
+<!ENTITY certmgr.others.description           "Jums failā ir šos cilvēkus identificējoši sertifikāti:">
+<!ENTITY certmgr.websites.description         "Jums failā ir šos serverus idenficējoši sertifikāti:">
+<!ENTITY certmgr.cas.description              "Jums failā ir šīs sertificēšanas autoritātes idenficiējoši sertifikāti:">
+<!ENTITY certmgr.orphans.description          "Jums failā ir šādi sertifikāti, kas neiederas nevienā citā kategorijā:">
+
+<!ENTITY certmgr.mine.filtered                "Atbilst jūs identificējošiem sertifikātiem no šīm organizācijām:">
+<!ENTITY certmgr.others.filtered              "Atbilst sertifikātiem failā, kas identificē šos cilvēkus:">
+<!ENTITY certmgr.websites.filtered            "Atbilst sertifikātiem failā, kas identificē šos serverus:">
+<!ENTITY certmgr.cas.filtered                 "Atbilst sertifikātiem failā, kas identificē šīs sertificēšanas autoritātes:">
+<!ENTITY certmgr.orphans.filtered             "Atbilst sertifikātiem failā, kas neiederas nevienā citā kategorijā:">
+
 
 <!ENTITY certmgr.detail.general_tab.title "Vispārīgi">
 <!ENTITY certmgr.detail.general_tab.accesskey "V">

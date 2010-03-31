@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "Programmatūras atjaunināšana">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "39em">
-
 <!ENTITY checking.title "Pārbauda atjauninājumus">
 
 <!ENTITY noupdatesfound.title "Nav atrasti atjauninājumi">
@@ -24,7 +21,8 @@ un varēsiet turpināt atjauninājuma instalēšanu.">
 <!ENTITY license.decline "Es NEpiekrītu licences līguma noteikumiem">
 <!ENTITY license.decline.accesskey "T">
 
-<!ENTITY downloading.title "Lejupielādē atjauninājumu">
+<!ENTITY  downloadPage.title              "Lejupielādē &brandShortName;">
+
 <!ENTITY downloading.intro "Lejupielādē atjauninājumu...">
 <!ENTITY connecting.label "Pieslēdzas atjaunināšanas serverim...">
 <!ENTITY verificationFailedText.label "&brandShortName; neizdevās pārbaudīt lejupielādētā  

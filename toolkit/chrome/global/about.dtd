@@ -1,8 +1,8 @@
 <!ENTITY about.version "versija">
 
-<!ENTITY about.copy.beforeLink "Autortiesības 1998-2008 Mozilla projekta">
-<!ENTITY about.copy.linkTitle "dalībnieki">
-<!ENTITY about.copy.afterLink ".">
+<!ENTITY about.credits.beforeLink "Mozilla projekta ">
+<!ENTITY about.credits.linkTitle "dalībnieku">
+<!ENTITY about.credits.afterLink " saraksts.">
 
 <!ENTITY about.license.beforeLink "Lasiet šī produkta">
 <!ENTITY about.license.linkTitle "licences informāciju">
