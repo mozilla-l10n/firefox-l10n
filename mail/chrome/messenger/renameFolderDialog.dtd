@@ -35,7 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY renameFolderDialog.title          "Ordner umbenennen">
 <!ENTITY rename.label                      "Neuen Namen für den Ordner eingeben:">
 <!ENTITY rename.accesskey                  "N">
+<!ENTITY accept.label                      "Umbenennen">
+<!ENTITY accept.accesskey                  "U">
