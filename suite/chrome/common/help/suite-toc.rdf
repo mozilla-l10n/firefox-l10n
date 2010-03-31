@@ -458,7 +458,7 @@
         <rdf:li> <rdf:Description ID="mail-account-junk" nc:name="Configuración de correo basura - (cuentas de  correo basura)" nc:link="mail_help.xhtml#junk_settings"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_security_settings" nc:name="Configuración de seguridad - (cuentas de correo y noticias)" nc:link="mail_help.xhtml#security"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail_local_folders_settings" nc:name="Configuración de carpetas locales - (cuentas de correo y noticias)" nc:link="mail_help.xhtml#local_folders"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Configuración de servidor saliente  (SMTP) - (cuentas de correo y noticias)" nc:link="mail_help.xhtml#outgoing_server"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_smtp" nc:name="Configuración de servidor de salida  (SMTP) - (cuentas de correo y noticias)" nc:link="mail_help.xhtml#outgoing_server"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>

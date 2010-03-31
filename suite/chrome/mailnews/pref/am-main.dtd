@@ -25,6 +25,6 @@
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY manageIdentities.label "Administrar identidades…">
 <!ENTITY manageIdentities.accesskey "A">
-<!ENTITY smtpName.label "Servidor saliente (SMTP):">
+<!ENTITY smtpName.label "Servidor de salida (SMTP):">
 <!ENTITY smtpName.accesskey "M">
 <!ENTITY smtpDefaultServer.label "Usar servidor predet.">
