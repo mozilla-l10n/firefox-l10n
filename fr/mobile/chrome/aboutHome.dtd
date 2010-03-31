@@ -1,4 +1,4 @@
-<!ENTITY aboutHome.start "Accueil">
+<!ENTITY aboutHome.header "<span id='header-suffix'>Accueil</span> de <span>&brandShortName;</span>">
 <!ENTITY aboutHome.recentTabs "Les onglets de la session précédente">
 <!ENTITY aboutHome.remoteTabs "Les onglets de vos autres ordinateurs">
 <!ENTITY aboutHome.recommendedAddons2 "Modules pour &brandShortName;">
