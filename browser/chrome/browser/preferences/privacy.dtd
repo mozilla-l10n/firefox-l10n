@@ -60,15 +60,8 @@
 <!ENTITY  privateBrowsingPermanent.label "永久私密瀏覽模式">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "保留我的瀏覽記錄最少">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "天">
+<!ENTITY  rememberHistory.label      "記住我的瀏覽歷史">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "保留我的下載記錄">
 <!ENTITY  rememberDownload.accesskey     "d">

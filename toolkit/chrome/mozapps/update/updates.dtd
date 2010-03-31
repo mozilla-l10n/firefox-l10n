@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "軟體更新">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "正在檢查是否有更新檔">
 <!ENTITY  updateCheck.label               "正在尋找更新版的 &brandShortName;…">
 
@@ -37,7 +34,7 @@
 
 <!ENTITY  incompatibleList.title          "找到不相容附加元件">
 
-<!ENTITY  downloading.title               "正在下載更新檔">
+<!ENTITY  downloadPage.title              "正在下載 &brandShortName;">
 <!ENTITY  downloading.intro               "正在下載下列更新檔…">
 <!ENTITY  connecting.label                "連線至更新伺服器…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; 無法確認下載更新的完整性，所以現在會重新下載完整的更新套件。">
