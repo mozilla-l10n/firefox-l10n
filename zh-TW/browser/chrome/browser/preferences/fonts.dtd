@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "德拉威語">
 <!ENTITY  font.langGroup.kannada                  "康納達語">
 <!ENTITY  font.langGroup.sinhala                  "僧加羅語">
+<!ENTITY  font.langGroup.tibetan                  "藏語">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字型大小:">
 <!ENTITY minSize.accesskey                        "o">

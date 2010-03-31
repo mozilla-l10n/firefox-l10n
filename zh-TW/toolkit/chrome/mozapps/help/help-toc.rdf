@@ -5,7 +5,7 @@
   <rdf:Description about="urn:root">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="use-help" nc:name="線上說明使用方法"
+        <rdf:li> <rdf:Description ID="use-help" nc:name="如何找到您想找的主題"
                   nc:link="chrome://help/locale/welcome.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>

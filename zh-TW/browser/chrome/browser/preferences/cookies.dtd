@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "您的電腦中已儲存下列的 Cookie:">
 <!ENTITY     cookiename.label               "Cookie 名稱">
 <!ENTITY     cookiedomain.label             "網站"> 
+<!ENTITY     button.removecookies.label     "刪除 Cookie">
 <!ENTITY     button.removecookie.label      "刪除 Cookie">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "刪除全部 Cookie">

@@ -3,5 +3,5 @@
  *   font, layout, and geometry
  */
 window { 
-  font-size: 3mm;
+  font: 3mm tahoma,arial,helvetica,sans-serif;
 }
