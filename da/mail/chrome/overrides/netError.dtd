@@ -53,8 +53,9 @@
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc "
 <ul>
-  <li>Afmarker &quot;Arbejd offline&quot; i 'Filer' menupunktet, og forsøg igen.</li>
-</ul>
+  <li>Åbn menuen 'Filer', klik på 'Offline' og afmarker 'Arbejd offline'</li>
+<li>Forsøg igen</li>
+  </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">

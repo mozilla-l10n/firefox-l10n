@@ -1,3 +1,5 @@
 <!ENTITY renameFolderDialog.title "Omdøb mappen">
 <!ENTITY rename.label "Indtast det nye navn på mappen:">
 <!ENTITY rename.accesskey "I">
+<!ENTITY accept.label                      "Omdøb">
+<!ENTITY accept.accesskey                  "O">
