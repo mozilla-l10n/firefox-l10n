@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "Servernavn:">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY userName.label "Brugernavn:">
-<!ENTITY useSecureAuthentication.label   "Sikker godkendelse: ">
 <!ENTITY connectionSecurity.label "Forbindelsessikkerhed: ">
+<!ENTITY authMethod.label   "Godkendelsesmetode: ">

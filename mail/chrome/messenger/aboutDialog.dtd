@@ -2,7 +2,6 @@
 <!ENTITY aboutButton.label      "&lt; Om &brandShortName;">
 <!ENTITY aboutButton.accesskey  "T">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText "&#169;1998-2009 Bidragydere. Alle rettigheder forbeholdes. Mozilla Thunderbird og Thunderbird-logoer er varemærker tilhørende Mozilla Foundation. Alle rettigheder forbeholdes.">
 <!ENTITY aboutMenu.label        "Om">
 <!ENTITY aboutMenu.accesskey    "O">
 <!ENTITY aboutCredits.label     "Bidragydere">

@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "k">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Benyt brugernavn og adgangskode">
-<!ENTITY alwaysUseUsername.accesskey "e">
 <!ENTITY userName.label "Brugernavn:">
 <!ENTITY userName.accesskey "B">
-<!ENTITY useSecAuth.label "Brug sikker godkendelse">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "Forbindelsessikkerhed:">
 <!ENTITY connectionSecurity.accesskey "F">
 <!ENTITY connectionSecurityType-0.label "Ingen">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standard:">
+<!ENTITY authMethod.label "Godkendelsesmetode:">
+<!ENTITY authMethod.accesskey "i">
