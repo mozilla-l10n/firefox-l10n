@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation privée)">
 
+<!-- Tab context menu -->
+<!ENTITY newTab.label "Nouvel onglet">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY reloadTab.label "Actualiser l'onglet">
+<!ENTITY reloadTab.accesskey "A">
+<!ENTITY reloadAllTabs.label "Actualiser tous les onglets">
+<!ENTITY reloadAllTabs.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY closeOtherTabs.label "Fermer les autres onglets">
+<!ENTITY openTabInNewWindow.label "Ouvrir dans une nouvelle fenêtre">
+<!ENTITY openTabInNewWindow.accesskey "O">
+<!ENTITY bookmarkAllTabs.label "Marquer tous les onglets…">
+<!ENTITY bookmarkAllTabs.accesskey "u">
+<!ENTITY bookmarkThisTab.label "Marquer cet onglet">
+<!ENTITY bookmarkThisTab.accesskey "M">
+<!ENTITY undoCloseTab.label "Annuler la fermeture de l'onglet">
+<!ENTITY undoCloseTab.accesskey "e">
+<!ENTITY closeTab.label "Fermer l'onglet">
+<!ENTITY closeTab.accesskey "F">
+
 <!ENTITY tabCmd.label "Nouvel onglet">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
