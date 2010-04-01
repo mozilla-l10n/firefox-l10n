@@ -29,23 +29,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  newTab.label                "Nauja kortelė">
-<!ENTITY  newTab.accesskey            "N">
 <!ENTITY  closeTab.label              "Užverti kortelę">
-<!ENTITY  closeTab.accesskey          "U">
-<!ENTITY  closeOtherTabs.label        "Užverti kitas korteles">
-<!ENTITY  closeOtherTabs.accesskey    "k">
-<!ENTITY  reloadAllTabs.label         "Atsiųsti visų kortelių tinklalapius iš naujo">
-<!ENTITY  reloadAllTabs.accesskey     "v">
-<!ENTITY  reloadTab.label             "Atsiųsti kortelės tinklalapį iš naujo">
-<!ENTITY  reloadTab.accesskey         "A">
-<!ENTITY  openTabInNewWindow.label    "Atverti naujame lange">
-<!ENTITY  openTabInNewWindow.accesskey "l">
 <!ENTITY  listAllTabs.label           "Pateikti visas korteles">
-<!ENTITY  bookmarkAllTabs.label       "Įrašyti į adresyną visas korteles…">
-<!ENTITY  bookmarkAllTabs.accesskey   "v">
-<!ENTITY  bookmarkThisTab.label       "Įrašyti į adresyną šią kortelę">
-<!ENTITY  bookmarkThisTab.accesskey   "r">
-<!ENTITY  undoCloseTab.label          "Atšaukti kortelės užvėrimą">
-<!ENTITY  undoCloseTab.accesskey      "ž">
 <!ENTITY  newTabButton.tooltip        "Atverti naują kortelę">

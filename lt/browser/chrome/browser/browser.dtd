@@ -42,6 +42,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privatusis naršymas)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                "Nauja kortelė">
+<!ENTITY  newTab.accesskey            "N">
+<!ENTITY  reloadTab.label             "Atsiųsti kortelės tinklalapį iš naujo">
+<!ENTITY  reloadTab.accesskey         "A">
+<!ENTITY  reloadAllTabs.label         "Atsiųsti visų kortelių tinklalapius iš naujo">
+<!ENTITY  reloadAllTabs.accesskey     "v">
+<!ENTITY  closeOtherTabs.label        "Užverti kitas korteles">
+<!ENTITY  closeOtherTabs.accesskey    "k">
+<!ENTITY  openTabInNewWindow.label    "Atverti naujame lange">
+<!ENTITY  openTabInNewWindow.accesskey "l">
+<!ENTITY  bookmarkThisTab.label       "Įrašyti į adresyną šią kortelę">
+<!ENTITY  bookmarkThisTab.accesskey   "r">
+<!ENTITY  bookmarkAllTabs.label       "Įrašyti į adresyną visas korteles…">
+<!ENTITY  bookmarkAllTabs.accesskey   "v">
+<!ENTITY  undoCloseTab.label          "Atšaukti kortelės užvėrimą">
+<!ENTITY  undoCloseTab.accesskey      "ž">
+<!ENTITY  closeTab.label              "Užverti kortelę">
+<!ENTITY  closeTab.accesskey          "U">
+
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
 <!ENTITY tabCmd.commandkey "t">
