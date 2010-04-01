@@ -2,6 +2,24 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим приватного просмотра)">
+<!ENTITY newTab.label "Новая вкладка">
+<!ENTITY newTab.accesskey "о">
+<!ENTITY reloadTab.label "Обновить вкладку">
+<!ENTITY reloadTab.accesskey "и">
+<!ENTITY reloadAllTabs.label "Обновить все вкладки">
+<!ENTITY reloadAllTabs.accesskey "н">
+<!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
+<!ENTITY closeOtherTabs.accesskey "д">
+<!ENTITY openTabInNewWindow.label "Открыть в новом окне">
+<!ENTITY openTabInNewWindow.accesskey "т">
+<!ENTITY bookmarkThisTab.label "Добавить эту вкладку в закладки">
+<!ENTITY bookmarkThisTab.accesskey "б">
+<!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
+<!ENTITY bookmarkAllTabs.accesskey "в">
+<!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
+<!ENTITY undoCloseTab.accesskey "с">
+<!ENTITY closeTab.label "Закрыть вкладку">
+<!ENTITY closeTab.accesskey "к">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
 <!ENTITY tabCmd.commandkey "t">
