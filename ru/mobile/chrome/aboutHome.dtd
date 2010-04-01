@@ -1,4 +1,4 @@
-<!ENTITY aboutHome.start "Запуск">
+<!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Начало</span>">
 <!ENTITY aboutHome.recentTabs "Ваши вкладки открытые в прошлый раз">
 <!ENTITY aboutHome.remoteTabs "Вкладки с других ваших компьютеров">
 <!ENTITY aboutHome.recommendedAddons2 "Дополнения для вашего &brandShortName;">
