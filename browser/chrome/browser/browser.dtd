@@ -42,6 +42,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privat surfning)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label             "Ny flik">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  reloadTab.label          "Uppdatera flik">
+<!ENTITY  reloadTab.accesskey      "U">
+<!ENTITY  reloadAllTabs.label      "Uppdatera alla flikar">
+<!ENTITY  reloadAllTabs.accesskey  "a">
+<!ENTITY  closeOtherTabs.label     "Stäng alla andra flikar">
+<!ENTITY  closeOtherTabs.accesskey "ä">
+<!ENTITY  openTabInNewWindow.label    "Öppna i ett nytt fönster">
+<!ENTITY  openTabInNewWindow.accesskey "Ö">
+<!ENTITY  bookmarkThisTab.label       "Bokmärke för denna flik">
+<!ENTITY  bookmarkThisTab.accesskey   "B">
+<!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
+<!ENTITY  bookmarkAllTabs.accesskey   "m">
+<!ENTITY  undoCloseTab.label          "Ångra Stäng flik">
+<!ENTITY  undoCloseTab.accesskey      "Å">
+<!ENTITY  closeTab.label           "Stäng flik">
+<!ENTITY  closeTab.accesskey       "S">
+
 <!ENTITY tabCmd.label "Ny flik">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
