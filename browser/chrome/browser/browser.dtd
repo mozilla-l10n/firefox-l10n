@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label           "Novo Separador">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  reloadTab.label        "Recarregar Separador">
+<!ENTITY  reloadTab.accesskey         "R">
+<!ENTITY  reloadAllTabs.label    "Recarregar Todos os Separadores">
+<!ENTITY  reloadAllTabs.accesskey         "T">
+<!ENTITY  closeOtherTabs.label   "Fechar Outros Separadores">
+<!ENTITY  closeOtherTabs.accesskey  "O">
+<!ENTITY  openTabInNewWindow.label "Abrir numa nova janela">
+<!ENTITY  openTabInNewWindow.accesskey "n">
+<!ENTITY  bookmarkThisTab.label        "Adicionar Separador aos Marcadores">
+<!ENTITY  bookmarkThisTab.accesskey    "d">
+<!ENTITY  bookmarkAllTabs.label       "Guardar Separadores como Marcadores...">
+<!ENTITY  bookmarkAllTabs.accesskey   "S">
+<!ENTITY  undoCloseTab.label          "Reabrir Separador Fechado">
+<!ENTITY  undoCloseTab.accesskey      "a">
+<!ENTITY  closeTab.label         "Fechar Separador">
+<!ENTITY  closeTab.accesskey         "F">
+
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "p">
 <!ENTITY tabCmd.commandkey "Q">
@@ -112,7 +132,6 @@ key should not contain the letters A-F, since these are reserved
 shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
-
 
 <!ENTITY historyButton.label "Histórico">
 <!ENTITY historyButton.tooltip "Mostra as páginas que visitou recentemente">
@@ -377,7 +396,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip "Colar">
 <!ENTITY fullScreenButton.tooltip       "Mostrar janela em todo o ecrã">
 
-
 <!ENTITY quitApplicationCmdWin.label "Sair">
 <!ENTITY quitApplicationCmdWin.accesskey "Q">
 <!ENTITY goBackCmd.commandKey "[">
@@ -455,23 +473,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY allTabs.filter.emptyText "Procurar Separadores">
 
-<!ENTITY  newTab.label           "Novo Separador">
-<!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "Fechar Separador">
-<!ENTITY  closeTab.accesskey         "F">
-<!ENTITY  closeOtherTabs.accesskey  "O">
-<!ENTITY  closeOtherTabs.label   "Fechar Outros Separadores">
-<!ENTITY  reloadAllTabs.label    "Recarregar Todos os Separadores">
-<!ENTITY  reloadAllTabs.accesskey         "T">
-<!ENTITY  reloadTab.label        "Recarregar Separador">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  openTabInNewWindow.label "Abrir numa nova janela">
-<!ENTITY  openTabInNewWindow.accesskey "n">
-<!ENTITY  listAllTabs.label      "Listar Todos os Separadores">
-<!ENTITY  bookmarkAllTabs.label       "Guardar Separadores como Marcadores...">
-<!ENTITY  bookmarkAllTabs.accesskey   "S">
-<!ENTITY  bookmarkThisTab.label        "Adicionar Separador aos Marcadores">
-<!ENTITY  bookmarkThisTab.accesskey    "d">
-<!ENTITY  undoCloseTab.label          "Reabrir Separador Fechado">
-<!ENTITY  undoCloseTab.accesskey      "a">
-<!ENTITY  newTabButton.tooltip        "Abrir novo separador">
