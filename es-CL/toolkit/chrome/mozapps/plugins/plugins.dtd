@@ -22,4 +22,20 @@
   
 <!ENTITY missingPlugin.label                                 "Haga click aquí para bajar de nuevo el plugin.">
 <!ENTITY disabledPlugin.label                                "El plugin para este contenido ha sido deshabilitado. Haga clic aquí para administrar sus plugins.">
-<!ENTITY blockedPlugin.label                                 "Este plugin ha sudo bloqueado para su protección.">
+<!ENTITY blockedPlugin.label                                 "Este plugin ha sido bloqueado para su protección.">
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Recargue la página">
+<!ENTITY reloadPlugin.post                                   " para intentar de nuevo.">
+
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Enviar informe de errores">
+<!ENTITY report.submitting                                   "Enviando informe…">
+<!ENTITY report.submitted                                    "Informe de errores enviado.">
+<!ENTITY report.disabled                                     "Informes de errores deshabilitados.">
+<!ENTITY report.failed                                       "El envío ha fallado.">
+<!ENTITY report.unavailable                                  "No hay informe disponible.">
+
