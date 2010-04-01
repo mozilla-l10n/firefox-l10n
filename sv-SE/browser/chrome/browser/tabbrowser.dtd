@@ -30,23 +30,6 @@
    - Hasse Wallanger <jasajudeju@telia.com>
   -->
 
-<!ENTITY  newTab.label             "Ny flik">
-<!ENTITY  newTab.accesskey         "N">
 <!ENTITY  closeTab.label           "Stäng flik">
-<!ENTITY  closeTab.accesskey       "S">
-<!ENTITY  closeOtherTabs.label     "Stäng alla andra flikar">
-<!ENTITY  closeOtherTabs.accesskey "ä">
-<!ENTITY  reloadAllTabs.label      "Uppdatera alla flikar">
-<!ENTITY  reloadAllTabs.accesskey  "a">
-<!ENTITY  reloadTab.label          "Uppdatera flik">
-<!ENTITY  reloadTab.accesskey      "U">
-<!ENTITY  openTabInNewWindow.label    "Öppna i ett nytt fönster">
-<!ENTITY  openTabInNewWindow.accesskey "Ö">
 <!ENTITY  listAllTabs.label        "Visa upp alla flikar">
-<!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
-<!ENTITY  bookmarkAllTabs.accesskey   "m">
-<!ENTITY  bookmarkThisTab.label       "Bokmärke för denna flik">
-<!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "Ångra Stäng flik">
-<!ENTITY  undoCloseTab.accesskey      "Å">
 <!ENTITY  newTabButton.tooltip        "Öppna en ny flik">
