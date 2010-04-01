@@ -36,6 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title "Mudar nome da Pasta">
-<!ENTITY rename.label "Introduza o novo nome:">
-<!ENTITY rename.accesskey "I">
+<!ENTITY renameFolderDialog.title          "Mudar nome da Pasta">
+<!ENTITY rename.label                      "Introduza o novo nome:">
+<!ENTITY rename.accesskey                  "I">
+<!ENTITY accept.label                      "Renomear">
+<!ENTITY accept.accesskey                  "R">
