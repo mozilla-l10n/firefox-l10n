@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "s">
 <!ENTITY checkNow.label                  "Controllar ussa">
 <!ENTITY checkNow.accesskey              "C">
+<!ENTITY submitCrashes.label             "Trametter annunzias da collaps">
+<!ENTITY submitCrashes.accesskey         "T">
 
 <!ENTITY networkTab.label                "Rait">
 

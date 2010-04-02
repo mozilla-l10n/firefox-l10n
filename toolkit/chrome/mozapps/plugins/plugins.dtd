@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Clicca qua per telechargiar il plug-in.">
 <!ENTITY disabledPlugin.label                                "Il plug-in per quest cuntegn è vegnì deactivà. Clicca qua per administrar tes plug-ins.">
 <!ENTITY blockedPlugin.label                                 "Quest plug-in è vegnì bloccà per ta proteger.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Rechargiar la pagina">
+<!ENTITY reloadPlugin.post                                   " per emprivar anc ina giada.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Trametter annunzia da collaps">
+<!ENTITY report.submitting                                   "Trametter annunzia…">
+<!ENTITY report.submitted                                    "Tramess annunzia.">
+<!ENTITY report.disabled                                     "Annunzias da collaps èn deactivadas.">
+<!ENTITY report.failed                                       "Errur cun trametter.">
+<!ENTITY report.unavailable                                  "Nagina annunzia disponibla.">
