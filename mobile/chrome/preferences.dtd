@@ -14,3 +14,7 @@
 <!ENTITY language.auto                             "Detecta automàticament">
 <!ENTITY defaultBrowser.title                      "Navegador per defecte">
 <!ENTITY defaultBrowser.description                "Fes el &brandShortName; navegador per defecte">
+<!ENTITY homepage.title                            "Pàgina d'inici">
+<!ENTITY homepage.none                             "Pàgina en blanc">
+<!ENTITY homepage.default                          "Inici del &brandShortName;">
+<!ENTITY homepage.currentpage                      "Utilitza la pàgina actual">
