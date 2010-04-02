@@ -14,3 +14,7 @@
 <!ENTITY language.auto                             "Automaticky detekovať">
 <!ENTITY defaultBrowser.title                      "Predvolený prehliadač">
 <!ENTITY defaultBrowser.description                "Nastaviť &brandShortName; ako predvolený prehliadač">
+<!ENTITY homepage.title                            "Úvodná stránka">
+<!ENTITY homepage.none                             "Prázdna stránka">
+<!ENTITY homepage.default                          "Úvodná stránka prehliadača &brandShortName;">
+<!ENTITY homepage.currentpage                      "Použiť aktuálnu stránku">

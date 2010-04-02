@@ -36,6 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY renameFolderDialog.title "Premenovanie priečinka">
-<!ENTITY rename.label "Zadajte nový názov priečinka:">
-<!ENTITY rename.accesskey "Z">
+<!ENTITY renameFolderDialog.title          "Premenovanie priečinka">
+<!ENTITY rename.label                      "Zadajte nový názov priečinka:">
+<!ENTITY rename.accesskey                  "Z">
+<!ENTITY accept.label                      "Premenovať">
+<!ENTITY accept.accesskey                  "P">

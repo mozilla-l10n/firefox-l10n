@@ -67,12 +67,12 @@
 <!ENTITY newtodo.percentcomplete.label      "&#37; hotovo">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key               "E">
-<!ENTITY event.dialog.new.message.key             "M">
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.delete.key                  "D">
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
@@ -86,6 +86,8 @@
 <!ENTITY  event.menu.item.new.accesskey                   "o">
 <!ENTITY  event.menu.item.new.event.label                 "Udalosť">
 <!ENTITY  event.menu.item.new.event.accesskey             "U">
+<!ENTITY  event.menu.item.new.task.label                  "Úloha">
+<!ENTITY  event.menu.item.new.task.accesskey              "h">
 <!ENTITY  event.menu.item.new.message.label               "Správa">
 <!ENTITY  event.menu.item.new.message.accesskey           "S">
 <!ENTITY  event.menu.item.new.contact.label               "Kontakt adresára">

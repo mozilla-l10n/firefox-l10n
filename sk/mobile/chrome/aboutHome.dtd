@@ -1,0 +1,6 @@
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>Úvodná stránka </span><span>&brandShortName;u</span>">
+<!ENTITY aboutHome.recentTabs                   "Vaše karty z posledného spustenia">
+<!ENTITY aboutHome.remoteTabs                   "Karty z vašich ostatných počítačov">
+<!ENTITY aboutHome.recommendedAddons2           "Doplnky pre váš &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla                 "O Mozille">
+<!ENTITY aboutHome.openAllTabs                  "Otvoriť všetko na kartách">

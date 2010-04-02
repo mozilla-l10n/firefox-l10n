@@ -1,8 +1,13 @@
-<!ENTITY welcome.title                      "Víta vás &brandShortName;">
-<!ENTITY intro.description                  "Synchronizujte svoj počítač a mobilné zariadenie pomocou Weave Sync. Prispôsobte si ho pomocou doplnkov. Surfujte s inteligentným panelom s adresou a oveľa, oveľa viac.">
-<!ENTITY weave.title                        "Postavte sa a choďte">
-<!ENTITY weave.description                  "Nainštalujte si Weave Sync a využite &brandShortName; naplno. Zdieľajte svoju históriu prehliadania, záložky, uložené heslá a karty medzi svojim počítačom a mobilným zariadením.">
-<!ENTITY weave.linkLabel                    "Získať doplnok Weave Sync">
-<!ENTITY getPersonal.title                  "Buďte jedineční">
-<!ENTITY getPersonal.description            "Upravte si &brandShortName; podľa svojich predstáv. Prispôsobte si prvý prehliadač pre mobilné zariadenia v histórii, ktorý podporuje doplnky.">
-<!ENTITY getPersonal.linkLabel              "Získať doplnky pre vaše mobilné zariadenie">
+<!ENTITY firstrun.title                "Víta vás &brandShortName;">
+<!ENTITY firstrun.heading              "Na začiatok tu máme niekoľko populárnych funkcií a doplnkov, ktoré vám pomôžu dostať z prehliadača &brandShortName; čo najviac.">
+<!ENTITY firstrun.recommended          "Odporúčané:">
+<!ENTITY firstrun.weave.title          "Získať doplnok Weave Sync">
+<!ENTITY firstrun.weave.description    "Zdieľajte históriu prehliadania &brandShortName;u, záložky, uložené heslá a karty medzi svojim počítačom a mobilným zariadením">
+<!ENTITY firstrun.starter.title        "Získať kolekciu Starter Kit">
+<!ENTITY firstrun.starter.description  "Nainštalujte si tieto odporúčané doplnky a vylepšite si zážitok z prehliadača &brandShortName;">
+<!ENTITY firstrun.tour.title           "Absolvujte prehliadku">
+<!ENTITY firstrun.tour.description     "Pozrite si tento klip a zoznámte sa s prostredím a novými skvelými funkciami">
+<!ENTITY firstrun.features             "Pozrite si ďalšie funkcie">
+<!ENTITY firstrun.faq                  "Často kladené otázky">
+<!ENTITY firstrun.privacy              "Zásady ochrany súkromia">
+<!ENTITY firstrun.follow               "Sledujte nás:">
