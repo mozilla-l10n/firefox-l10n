@@ -1,5 +1,5 @@
 <!ENTITY firstrun.title                "歡迎使用 &brandShortName;">
-<!ENTITY firstrun.heading              "為了幫助您開始使用，這裡是一些有名的功能與擴充套件，讓您可以最快最完整的熟悉 &brandShortName;。">
+<!ENTITY firstrun.heading              "為了讓您快速上手，這裡是一些受歡迎的功能與擴充套件，讓您可以最快、最完整的熟悉 &brandShortName;。">
 <!ENTITY firstrun.recommended          "建議的:">
 <!ENTITY firstrun.weave.title          "取得 Weave Sync">
 <!ENTITY firstrun.weave.description    "在行動裝置與電腦之間分享您的 &brandShortName; 瀏覽歷史記錄、已存密碼、書籤與分頁">
