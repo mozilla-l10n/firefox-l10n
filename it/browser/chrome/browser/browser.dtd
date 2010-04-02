@@ -2,6 +2,24 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
+<!ENTITY newTab.label "Nuova scheda">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY reloadTab.label "Ricarica scheda">
+<!ENTITY reloadTab.accesskey "R">
+<!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
+<!ENTITY reloadAllTabs.accesskey "t">
+<!ENTITY closeOtherTabs.label "Chiudi le altre schede">
+<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY openTabInNewWindow.label "Apri in una nuova finestra">
+<!ENTITY openTabInNewWindow.accesskey "f">
+<!ENTITY bookmarkThisTab.label "Questa scheda nei segnalibri">
+<!ENTITY bookmarkThisTab.accesskey "Q">
+<!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY undoCloseTab.label "Riapri scheda chiusa">
+<!ENTITY undoCloseTab.accesskey "s">
+<!ENTITY closeTab.label "Chiudi scheda">
+<!ENTITY closeTab.accesskey "C">
 <!ENTITY tabCmd.label "Nuova scheda">
 <!ENTITY tabCmd.accesskey "h">
 <!ENTITY tabCmd.commandkey "t">
