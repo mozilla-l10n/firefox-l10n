@@ -2,19 +2,19 @@
 <!ENTITY about.title "Informazioni su &brandShortName;">
 <!ENTITY about.button "Apri la pagina">
 <!ENTITY content.title "Contenuto">
-<!ENTITY showImages.title "Mostra immagini">
+<!ENTITY showImages.title "Mostra le immagini">
 <!ENTITY enableJavaScript.title "Attiva JavaScript">
-<!ENTITY enablePlugins.title "Attiva plugin">
+<!ENTITY enablePlugins.title "Attiva i plugin">
 <!ENTITY privacy.title "Privacy e sicurezza">
-<!ENTITY allowCookies.title "Permetti cookie">
-<!ENTITY clearPrivateData2.title "Elimina dati personali">
+<!ENTITY allowCookies.title "Permetti i cookie">
+<!ENTITY clearPrivateData2.title "Elimina i dati personali">
 <!ENTITY clearPrivateData.button "Elimina">
-<!ENTITY rememberPasswords.title "Ricorda password">
+<!ENTITY rememberPasswords.title "Ricorda le password">
 <!ENTITY language.title "Lingua">
 <!ENTITY language.auto "Selezione automatica">
 <!ENTITY defaultBrowser.title "Browser predefinito">
 <!ENTITY defaultBrowser.description "Imposta &brandShortName; come browser predefinito">
 <!ENTITY homepage.title "Pagina iniziale">
 <!ENTITY homepage.none "Pagina vuota">
-<!ENTITY homepage.default "&brandShortName; Per iniziare">
+<!ENTITY homepage.default "&brandShortName; Start">
 <!ENTITY homepage.currentpage "Usa la pagina corrente">

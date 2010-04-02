@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext "Inserire una ricerca o un indirizzo">
+<!ENTITY urlbar.emptytext "Cerca o inserisci un indirizzo">
 <!ENTITY back.label "Indietro">
 <!ENTITY forward.label "Avanti">
 <!ENTITY reload.label "Ricarica">
@@ -17,7 +17,7 @@
 <!ENTITY noSuggestions.label "(nessun suggerimento)">
 <!ENTITY addToDictionary.label "Aggiungi al dizionario">
 <!ENTITY bookmarksHeader.label "Segnalibri">
-<!ENTITY bookmarksManage.label "Gestisci">
+<!ENTITY bookmarksManage.label "Modifica">
 <!ENTITY editBookmarkRemove.label "Elimina">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
@@ -29,7 +29,7 @@
 <!ENTITY formHelper.next "Successivo">
 <!ENTITY formHelper.done "Fatto">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
-<!ENTITY addonsLocal.label "Componenti installati">
+<!ENTITY addonsLocal.label "Componenti aggiuntivi installati">
 <!ENTITY addonsRepo.label "Esplora">
 <!ENTITY addonsRecommended.label "Consigliati">
 <!ENTITY addonsSearch.label "Cerca">
@@ -59,7 +59,7 @@
 <!ENTITY bookmarkEdit.label "Modifica">
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
 <!ENTITY identity.connectedTo2 "Connesso con">
-<!ENTITY identity.runBy2 "gestito da">
+<!ENTITY identity.runBy2 "Gestito da">
 <!ENTITY consoleHeader.label "Console degli errori">
 <!ENTITY consoleAll.label "Tutti">
 <!ENTITY consoleErrors.label "Errori">
