@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Zadajte adresu alebo text vyhľadávania">
+
 <!ENTITY back.label            "Naspäť">
 <!ENTITY forward.label         "Dopredu">
 <!ENTITY reload.label          "Obnoviť">

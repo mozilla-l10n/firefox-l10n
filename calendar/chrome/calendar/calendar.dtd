@@ -88,12 +88,18 @@
 <!ENTITY calendar.month.button.tooltip          "Zmení pohľad na mesačný" >
 <!ENTITY calendar.multiweek.button.tooltip      "Zmení pohľad na viactýždenný" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Nasledujúci deň" >
-<!ENTITY calendar.prevday.button.tooltip        "Predchádzajúci deň" >
-<!ENTITY calendar.nextweek.button.tooltip       "Nasledujúci týždeň" >
-<!ENTITY calendar.prevweek.button.tooltip       "Predchádzajúci týždeň" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Nasledujúci mesiac" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Predchádzajúci mesiac" >
+<!ENTITY calendar.nextday.label                 "Nasledujúci deň" >
+<!ENTITY calendar.prevday.label                 "Predchádzajúci deň" >
+<!ENTITY calendar.nextday.accesskey             "a" >
+<!ENTITY calendar.prevday.accesskey             "e" >
+<!ENTITY calendar.nextweek.label                "Nasledujúci týždeň" >
+<!ENTITY calendar.prevweek.label                "Predchádzajúci týždeň" >
+<!ENTITY calendar.nextweek.accesskey            "a" >
+<!ENTITY calendar.prevweek.accesskey            "e" >
+<!ENTITY calendar.nextmonth.label               "Nasledujúci mesiac" >
+<!ENTITY calendar.prevmonth.label               "Predchádzajúci mesiac" >
+<!ENTITY calendar.nextmonth.accesskey           "a" >
+<!ENTITY calendar.prevmonth.accesskey           "e" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Jeden deň dopredu" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Jeden deň naspäť" >

@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "Dnešný deň">
 <!ENTITY goTodayCmd.accesskey                   "e">
 
-<!ENTITY goPreviousCmd.day.label                "Predchádzajúci deň">
-<!ENTITY goPreviousCmd.week.label               "Predchádzajúci týždeň">
-<!ENTITY goPreviousCmd.month.label              "Predchádzajúci mesiac">
-<!ENTITY goPreviousCmd.accesskey                "r">
-
-<!ENTITY goNextCmd.day.label                    "Nasledujúci deň">
-<!ENTITY goNextCmd.week.label                   "Nasledujúci týždeň">
-<!ENTITY goNextCmd.month.label                  "Nasledujúci mesiac">
-<!ENTITY goNextCmd.all.accesskey                "a">
-
 <!ENTITY showCurrentView.label                  "Aktuálny pohľad">
 <!ENTITY showCurrentView.accesskey              "A">
 

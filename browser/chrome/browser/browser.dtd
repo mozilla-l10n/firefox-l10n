@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Režim Súkromné prehliadanie)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Nová karta">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "Obnoviť kartu">
+<!ENTITY  reloadTab.accesskey                "O">
+<!ENTITY  reloadAllTabs.label                "Obnoviť všetky karty">
+<!ENTITY  reloadAllTabs.accesskey            "b">
+<!ENTITY  closeOtherTabs.label               "Zavrieť ostatné karty">
+<!ENTITY  closeOtherTabs.accesskey           "a">
+<!ENTITY  openTabInNewWindow.label           "Otvoriť v novom okne">
+<!ENTITY  openTabInNewWindow.accesskey       "k">
+<!ENTITY  bookmarkThisTab.label              "Pridať túto kartu medzi záložky">
+<!ENTITY  bookmarkThisTab.accesskey          "P">
+<!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
+<!ENTITY  bookmarkAllTabs.accesskey          "v">
+<!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
+<!ENTITY  undoCloseTab.accesskey             "r">
+<!ENTITY  closeTab.label                     "Zavrieť kartu">
+<!ENTITY  closeTab.accesskey                 "Z">
+
 <!ENTITY tabCmd.label "Nová karta">
 <!ENTITY tabCmd.accesskey "a">
 <!ENTITY tabCmd.commandkey "t">
@@ -207,6 +227,7 @@
 <!ENTITY urlbar.history.emptyText     "Hľadať v histórií">
 <!ENTITY urlbar.none.emptyText        "Zadajte webovú adresu">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Prejsť na kartu:">
 
 <!--
   Comment duplicated from browser-sets.inc:
