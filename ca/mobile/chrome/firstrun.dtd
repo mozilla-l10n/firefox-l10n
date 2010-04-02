@@ -1,8 +1,13 @@
-<!ENTITY welcome.title                      "Us donem la benvinguda al &brandShortName;">
-<!ENTITY intro.description		    "Sincronitzeu el vostre PC i el vostre mòbil amb el Weave Sync. Personalitzeu-lo amb complements. Navegueu amb la barra fantàstica i molt, i molt més.">
-<!ENTITY weave.title                        "Activació">
-<!ENTITY weave.description                  "Aconseguiu el Weave Sync per a aprofitar al màxim el &brandShortName;. Compartiu les vostres preferències, adreces d'interès, historial de navegació i molt més entre el vostre PC i el vostre mòbil.">
-<!ENTITY weave.linkLabel                    "Aconseguiu el complement del Weave Sync">
-<!ENTITY getPersonal.title                  "Feu-vos-el vostre">
-<!ENTITY getPersonal.description            "Feu-vos vostre el &brandShortName;. Personalitzeu el primer navegador que ofereix complements per al vostre mòbil.">
-<!ENTITY getPersonal.linkLabel              "Aconseguiu complements per al vostre mòbil.">
+<!ENTITY firstrun.title                      "Us donem la benvinguda al &brandShortName;">
+<!ENTITY firstrun.heading              "Per a ajudar-vos a començar, a continuació presentem algunes de les característiques i extensions més populars perquè pugueu obtenir el major profit del &brandShortName;.">
+<!ENTITY firstrun.recommended          "Recomanat:">
+<!ENTITY firstrun.weave.title                        "Aconseguiu el Weave Sync">
+<!ENTITY firstrun.weave.description                  "Compartiu l'historial, contrasenyes, adreces d'interès i pestanyes del &brandShortName; tant a l'ordinador de sobretaula com al dispositiu mòbil">
+<!ENTITY firstrun.starter.title        "Aconseguiu la col·lecció Starter Kit">
+<!ENTITY firstrun.starter.description  "Instal·leu aquests complements recomanats per a millorar la vostra experiència amb el &brandShortName;">
+<!ENTITY firstrun.tour.title           "Feu-ne un recorregut">
+<!ENTITY firstrun.tour.description     "Mireu aquest vídeo per a familiaritzar-vos amb les noves característiques i com accedir-hi">
+<!ENTITY firstrun.features             "Vegeu més característiques">
+<!ENTITY firstrun.faq                  "PMF">
+<!ENTITY firstrun.privacy              "Política de privadesa">
+<!ENTITY firstrun.follow               "Seguiu-nos a:">
