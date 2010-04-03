@@ -1,9 +1,9 @@
 <!-- LOCALIZATION NOTE This file is very similar to the one in Firefox from browser/locales/en-US/chrome/browser/aboutRights.dtd so you can use that file as a starting point -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Over uw rechten">
-<!ENTITY rights.intro "&brandFullName; is gratis en opensource software, gebouwd door een gemeenschap van duizenden mensen over de hele wereld. Er zijn een paar zaken die u moet weten:">
+<!ENTITY rights.pagetitle        "about:rights">
+<!ENTITY rights.intro-header     "Over uw rechten">
+<!ENTITY rights.intro "&brandFullName; is gratis en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld. Er zijn een paar zaken die u moet weten:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -22,13 +22,13 @@
 <!ENTITY rights.intro-point2c " te vinden.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Het privacybeleid voor producten van &vendorShortName; is ">
+<!ENTITY rights.intro-point3a "Privacybeleiden voor producten van &vendorShortName; zijn ">
 <!ENTITY rights.intro-point3b "hier">
 <!ENTITY rights.intro-point3c " te vinden.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on-updateservice; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, is te vinden in de ">
-<!ENTITY rights.intro-point4b "service terms">
+<!ENTITY rights.intro-point4b "servicevoorwaarden">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName;-websitediensten">
@@ -38,15 +38,15 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (&quot;Diensten&quot;) aan, zoals de add-on update-service, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on update-service uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
+<!ENTITY rights.webservices-a "&brandFullName; biedt optionele diensten (“Diensten”) aan, zoals de add-on-updateservice, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Als u de Diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de add-on-updateservice uitschakelen door de voorkeuren van de toepassing te openen, de sectie ">
 <!ENTITY rights.webservices-b "Geavanceerd">
-<!ENTITY rights.webservices-c " te selecteren, gevolgd door het ">
+<!ENTITY rights.webservices-c " te selecteren, gevolgd door het tabblad ">
 <!ENTITY rights.webservices-d "Update">
-<!ENTITY rights.webservices-e " tabblad en de opties voor &quot;Automatisch controleren op updates voor:&quot; uit te vinken.">
+<!ENTITY rights.webservices-e ", en de opties voor “Automatisch controleren op updates voor:” uit te vinken.">
 
 <!-- points 1-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan de Diensten naar eigen goeddunken discontinueren of wijzigen.">
-<!ENTITY rights.webservices-term2 "U kunt deze Diensten gebruiken met de bijgeleverde versie van &brandShortName;, en u hebt alle benodigde rechten om dit te doen. &vendorShortName; en zijn licentiegevers behouden alle overige rechten op de Diensten. Deze voorwaarden zijn niet bedoeld om enige rechten die zijn verleend onder opensourcelicenties welke van toepassing zijn op &brandShortName; en overeenkomende broncodeversies van &brandShortName; te beperken.">
+<!ENTITY rights.webservices-term2 "U kunt deze Diensten gebruiken met de bijgeleverde versie van &brandShortName;, en hebt alle benodigde rechten om dit te doen. &vendorShortName; en zijn licentiegevers behouden alle overige rechten in de Diensten. Deze voorwaarden zijn niet bedoeld om enige rechten die zijn verleend onder opensourcelicenties welke van toepassing zijn op &brandShortName; en overeenkomende broncodeversies van &brandShortName; te beperken.">
 <!ENTITY rights.webservices-term3 "De Diensten worden aangeboden zonder enige garantie. &vendorShortName;, zijn medewerkers, licentiegevers en distributeurs wijzen alle uitdrukkelijke of impliciete garanties af, met inbegrip van, maar niet beperkt tot garanties van verhandelbaarheid en geschiktheid van de Diensten voor een bepaald doel. U draagt de volledige verantwoordelijkheid wat betreft het selecteren van de Diensten voor uw doeleinden en wat betreft de kwaliteit en prestaties van de Diensten. Sommige wetgevingen staan uitsluitingen of beperkingen van impliciete garanties niet toe, dus deze disclaimer is op u misschien niet van toepassing.">
 <!ENTITY rights.webservices-term4 "Behoudens zoals vereist bij de wet zijn &vendorShortName;, zijn medewerkers, licentiegevers en distributeurs niet aansprakelijk voor enige indirecte, speciale, incidentele, straffende of gevolgschade voortvloeiend uit of op enige manier verband houdend met het gebruik van &brandShortName; en de Diensten. De collectieve aansprakelijkheid onder deze voorwaarden zal het bedrag van $500 (vijfhonderd dollar) niet overschrijden. Sommige wetgevingen staan uitsluitingen of beperkingen van bepaalde garanties niet toe, dus deze uitsluiting en beperking is op u misschien niet van toepassing.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; is te allen tijde gerechtigd deze voorwaarden te wijzigen. Deze voorwaarden mogen niet worden gewijzigd of geannuleerd zonder schriftelijke toestemming van &vendorShortName;.">

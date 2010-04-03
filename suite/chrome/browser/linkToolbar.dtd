@@ -47,7 +47,7 @@
 <!ENTITY linkToolbarAsNeeded.label "Alleen weergeven indien nodig">
 <!ENTITY linkToolbarAsNeeded.accesskey "w">
 <!ENTITY linkToolbarNever.label "Altijd verbergen">
-<!ENTITY linkToolbarNever.accesskey "n">
+<!ENTITY linkToolbarNever.accesskey "v">
 
 <!-- Toolbar buttons, menus, and menuitems -->
 <!ENTITY topButton.label "Bovenkant">
