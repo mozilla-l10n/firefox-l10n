@@ -50,7 +50,7 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Maletg entir">
 <!ENTITY fullScreenCmd.accesskey "M">
-<!ENTITY fullScreenCmd.macCommandKey "m">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mussar tut ils tabs">
 <!ENTITY showAllTabsCmd.accesskey "t">
 
