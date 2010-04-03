@@ -11,7 +11,7 @@
 <!ENTITY autoCompleteMatchOnlyTyped.label "Rechercher les correspondances seulement dans les adresses saisies précédemment.">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "R">
 <!ENTITY autoCompleteMatchOnlyURLs.label "Rechercher les correspondances seulement dans les adresses, pas dans les titres de pages">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "en">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "e">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
    part of the menulist items listed below, mainly to make the control available
    via the accesskey
