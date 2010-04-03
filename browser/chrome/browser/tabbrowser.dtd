@@ -1,20 +1,3 @@
-<!ENTITY newTab.label "Pestaña nueva">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY closeTab.label "Cerrar pestaña">
-<!ENTITY closeTab.accesskey "C">
-<!ENTITY closeOtherTabs.accesskey "p">
-<!ENTITY closeOtherTabs.label "Cerrar las demás pestañas">
-<!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
-<!ENTITY reloadAllTabs.accesskey "a">
-<!ENTITY reloadTab.label "Recargar pestaña">
-<!ENTITY reloadTab.accesskey "r">
-<!ENTITY openTabInNewWindow.label "Abrir en una ventana nueva">
-<!ENTITY openTabInNewWindow.accesskey "a">
 <!ENTITY listAllTabs.label "Mostrar todas las pestañas">
-<!ENTITY bookmarkAllTabs.label "Añadir todas las pestañas abiertas a marcadores…">
-<!ENTITY bookmarkAllTabs.accesskey "t">
-<!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
-<!ENTITY bookmarkThisTab.accesskey "m">
-<!ENTITY undoCloseTab.label "Deshacer el cierre de la última pestaña">
-<!ENTITY undoCloseTab.accesskey "D">
 <!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
