@@ -1,4 +1,4 @@
-<!ENTITY minimizeWindow.key       "d">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Deponer en il dock">
 <!ENTITY bringAllToFront.label    "Prender tuts enavant">
 <!ENTITY zoomWindow.label         "Zoom">
@@ -33,9 +33,9 @@
 <!ENTITY servicesMenuMac.label          "Servetschs">
 
 <!ENTITY hideThisAppCmdMac.label        "Zuppentar &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "Z">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Zuppentar auters">
-<!ENTITY hideOtherAppsCmdMac.commandkey "Z">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mussar tuts">
