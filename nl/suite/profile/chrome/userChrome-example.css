@@ -10,7 +10,7 @@
  */
 
 /*
- * De lijn met @namespace niet verwijderen -- deze is nodig voor correct functioneren
+ * De regel met @namespace niet verwijderen -- deze is nodig voor correct functioneren
  */
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* zet de standaard namespace op XUL */
 
@@ -19,21 +19,21 @@
  * Enkele mogelijke toegankelijkheidsverbeteringen:
  */
 /*
- * Zet alle standaard lettertypegroottes op 20 pt:
+ * Alle standaard lettertypegroottes op 20 pt zetten:
  *
  * * {
  *   font-size: 20pt !important
  * }
  */
 /*
- * Maak menu-items afzonderlijk 15 pt in plaats van de standaardgrootte:
+ * Menu-items afzonderlijk op 15 pt zetten in plaats van de standaardgrootte:
  *
  * menupopup > * {
  *   font-size: 15pt !important
  * }
  */
 /*
- * Gebruik voor de locatiebalk (URL) een lettertype met vaste breedte
+ * Voor de locatiebalk (URL) een lettertype met vaste breedte gebruiken
  *
  * #urlbar {
  *    font-family: monospace !important;
@@ -41,7 +41,7 @@
  */
 
 /*
- * Verwijder de throbber en zijn vervelende bewegen:
+ * De throbber en zijn vervelende bewegen verwijderen:
  *
  * #throbber-box {
  *   display: none !important;
@@ -51,3 +51,4 @@
 /*
  * Voor meer voorbeelden, zie http://www.mozilla.org/unix/customizing.html
  */
+

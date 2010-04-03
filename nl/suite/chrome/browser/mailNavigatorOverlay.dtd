@@ -8,9 +8,9 @@
 <!ENTITY sendPage.label                  "Pagina verzenden…">
 <!ENTITY sendPage.accesskey              "z">
 
-<!ENTITY contextSendThisPage.label       "Deze pagina verzendenSend This Page…">
+<!ENTITY contextSendThisPage.label       "Deze pagina verzenden…">
 <!ENTITY contextSendThisPage.accesskey   "d">
-<!ENTITY contextSendThisLink.label       "Deze koppeling verzendenSend This Link…">
+<!ENTITY contextSendThisLink.label       "Deze koppeling verzenden…">
 <!ENTITY contextSendThisLink.accesskey   "k">
 <!ENTITY contextSendImage.label          "Afbeelding verzenden…">
 <!ENTITY contextSendImage.accesskey      "n">

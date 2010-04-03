@@ -15,7 +15,7 @@
 # The Original Code is Mozilla Communicator client code.
 #
 # The Initial Developer of the Original Code is Daniel Brooks.
-# Portions created by the Initial Developer are Copyright (C) 2001
+# Portions created by the Initial Developer are Copyright (C) 2001-2007
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): Daniel Brooks <db48x@yahoo.com>
@@ -51,7 +51,7 @@
 
 <!ENTITY  generalTab            "Algemeen">
 <!ENTITY  generalTab.accesskey  "A">
-<!ENTITY  generalURL            "URL:">
+<!ENTITY  generalURL            "Adres:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Rendermodus:">
 <!ENTITY  generalSize           "Grootte:">
@@ -99,7 +99,7 @@
 <!ENTITY  mediaPhysDimensions   "Werkelijke afmetingen:">
 <!ENTITY  mediaTitle            "Titel:">
 <!ENTITY  mediaLongdesc         "Lange beschrijving:">
-<!ENTITY  mediaBlockImage.accesskey "b">
+<!ENTITY  mediaBlockImage.accesskey "e">
 <!ENTITY  mediaSaveAs           "Opslaan als…">
 <!ENTITY  mediaSaveAs.accesskey "l">
 <!ENTITY  mediaSaveAs2.accesskey "p">
@@ -126,16 +126,16 @@
 
 <!ENTITY  securityTab           "Beveiliging">
 <!ENTITY  securityTab.accesskey "B">
-<!ENTITY  securityHeader        "Beveiligingsinformatie voor deze pagina">
+<!ENTITY  securityHeader        "Beveiligingsinformatie over deze pagina">
 <!ENTITY  securityView.certView "Certificaat bekijken">
 <!ENTITY  securityView.accesskey "C">
 <!ENTITY  securityView.unknown   "Onbekend">
 
 
 <!ENTITY  securityView.identity.header   "Website-identiteit">
-<!ENTITY  securityView.identity.owner    "Eigenaar: ">
-<!ENTITY  securityView.identity.domain   "Website: ">
-<!ENTITY  securityView.identity.verifier "Bevestigd door: ">
+<!ENTITY  securityView.identity.owner    "Eigenaar:">
+<!ENTITY  securityView.identity.domain   "Website:">
+<!ENTITY  securityView.identity.verifier "Geverifieerd door:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; geschiedenis">
 <!ENTITY  securityView.privacy.history                  "Heb ik deze website eerder dan vandaag bezocht?">

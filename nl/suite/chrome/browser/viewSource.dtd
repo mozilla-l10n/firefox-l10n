@@ -6,22 +6,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Bron voor: ">
+<!ENTITY mainWindow.preface "Bron van: ">
 
-<!ENTITY viewPartialSourceWindow.title "DOM bron">
+<!ENTITY viewPartialSourceWindow.title "DOM-bron">
 
-<!ENTITY menu_wrapLongLines.title "Lange regels terug laten lopen">
-<!ENTITY menu_wrapLongLines.accesskey "L">
+<!ENTITY menu_wrapLongLines.title "Automatische terugloop">
+<!ENTITY menu_wrapLongLines.accesskey "A">
 
-<!ENTITY menu_highlightSyntax.label "Syntaxis kleuren">
+<!ENTITY menu_highlightSyntax.label "Syntaxis-kleurcodes">
 <!ENTITY menu_highlightSyntax.accesskey "S">
 
 <!ENTITY findNextCmd.label "Volgende zoeken">
-<!ENTITY findNextCmd.accesskey "N">
+<!ENTITY findNextCmd.accesskey "e">
 
-<!ENTITY goToLineCmd.label "Naar regel gaan…">
-<!ENTITY goToLineCmd.accesskey "L">
+<!ENTITY goToLineCmd.label "Ga naar regel…">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey "I">
+<!ENTITY printSetupCmd.accesskey "i">

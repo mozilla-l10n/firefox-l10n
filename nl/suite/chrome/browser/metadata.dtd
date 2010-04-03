@@ -1,4 +1,4 @@
-<!ENTITY no-properties.label   "Geen voorkeuren ingesteld.">
+<!ENTITY no-properties.label   "Geen eigenschappen ingesteld.">
 
 <!ENTITY caption.label         "Elementeigenschappen">
 <!ENTITY image-sec.label       "Afbeeldingseigenschappen">
@@ -8,13 +8,13 @@
 <!ENTITY image-width.label     "Breedte:">
 <!ENTITY image-height.label    "Hoogte:">
 <!ENTITY image-filesize.label  "Bestandsgrootte:">
-<!ENTITY insdel-sec.label      "Eigenschappen Invoegen/verwijderen">
+<!ENTITY insdel-sec.label      "Eigenschappen invoegen/verwijderen">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Datum:">
 <!ENTITY link-sec.label        "Koppelingseigenschappen">
 <!ENTITY link-url.label        "Adres:">
 <!ENTITY link-target.label     "Zal openen in:">
-<!ENTITY link-type.label       "Doelsoort:">
+<!ENTITY link-type.label       "Doeltype:">
 <!ENTITY link-lang.label       "Doeltaal:">
 <!ENTITY link-rel.label        "Relatie:">
 <!ENTITY link-rev.label        "Omgekeerde relatie:">
