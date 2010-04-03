@@ -15,7 +15,7 @@
 <!ENTITY picsOnlyRadio.accesskey "s">
 <!ENTITY textonlyRadio.label "Le texte seulement">
 <!ENTITY textonlyRadio.accesskey "x">
-<!ENTITY showHideTooltips.label "Afficher les info-bulles">
+<!ENTITY showHideTooltips.label "Afficher les infobulles">
 <!ENTITY showHideTooltips.accesskey "b">
 
 <!ENTITY pref.locales.title "Langue de l'interface utilisateur">
