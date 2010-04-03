@@ -6,7 +6,7 @@
 <!ENTITY  policies.label "Méthodes :">
 <!ENTITY  default.label "Méthode par défaut">
 <!ENTITY  allWebsites.label "Tous les sites Web">
-<!ENTITY  trusted.label "Sites honnêtes">
+<!ENTITY  trusted.label "Sites certifiés">
 <!ENTITY  annoyances.label "Inconvénients courants">
 <!ENTITY  restricted.label "Sites à surveiller">
 
