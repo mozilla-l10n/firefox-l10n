@@ -1,4 +1,4 @@
-<!ENTITY aboutHome.start "Inicio">
+<!ENTITY aboutHome.header "<span id='header-suffix'>Inicio</span> <span>&brandShortName;</span>">
 <!ENTITY aboutHome.recentTabs "Sus pestañas de la última navegación">
 <!ENTITY aboutHome.remoteTabs "Pestañas de tus otros equipos">
 <!ENTITY aboutHome.recommendedAddons2 "Complementos para tu &brandShortName;">
