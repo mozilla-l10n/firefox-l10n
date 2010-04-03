@@ -95,4 +95,4 @@
 <!ENTITY password.tooltip     "Le mot de passe associé à votre nom d'utilisateur">
 <!ENTITY savePassword.label   "Enregistrer le mot de passe">
 <!ENTITY savePassword.accesskey "E">
-<!ENTITY savePassword.tooltip "Cocher cette option pour enregistrer votre mot de passe de façon sécuritaire à l'aide du gestionnaire de mots de passe">
+<!ENTITY savePassword.tooltip "Cocher cette option pour enregistrer votre mot de passe de façon sécurisée à l'aide du gestionnaire de mots de passe">
