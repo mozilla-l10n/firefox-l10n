@@ -65,8 +65,6 @@
 <!ENTITY noResults.label           "Geen resultaten">
 <!ENTITY allBookmarks.label        "Alle bladwijzers tonen">
 
-<!ENTITY searchEngine.addSearch    "Zoekmachine toevoegen:">
-
 <!ENTITY bookmarkPopup.label       "Bladwijzer gemaakt">
 <!ENTITY bookmarkRemove.label      "Verwijderen">
 <!ENTITY bookmarkEdit.label        "Bewerken">
