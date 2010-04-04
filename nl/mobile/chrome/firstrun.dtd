@@ -1,8 +1,13 @@
-<!ENTITY welcome.title                      "Welkom bij &brandShortName;">
-<!ENTITY intro.description                  "Synchroniseer uw PC en mobiel met Weave Sync. Pas ze aan met add-ons. Blader met de Awesome Bar en veel, veel, veel meer.">
-<!ENTITY weave.title                        "Opstaan en gaan">
-<!ENTITY weave.description                  "Gebruik Weave Sync om in te breken in uw Firefox. Deel de navigatiegeschiedenis, bladwijzers, opgeslagen wachtwoorden en tabbladen van uw PC en mobiel met elkaar.">
-<!ENTITY weave.linkLabel                    "De Weave Sync-add-on ophalen">
-<!ENTITY getPersonal.title                  "Personaliseren">
-<!ENTITY getPersonal.description            "Maak &brandShortName; persoonlijk. Pas de allereerste browser die add-ons voor mobiel aanbiedt aan.">
-<!ENTITY getPersonal.linkLabel              "Add-ons voor uw mobiel ophalen">
+<!ENTITY firstrun.title                "Welkom bij &brandShortName;">
+<!ENTITY firstrun.heading              "Om u op weg te helpen zijn hier een aantal meest populaire eigenschappen en add-ons zodat u het meeste uit &brandShortName; kan halen.">
+<!ENTITY firstrun.recommended          "Aanbevolen:">
+<!ENTITY firstrun.weave.title          "Weave Sync verkrijgen">
+<!ENTITY firstrun.weave.description    "Deel uw &brandShortName; navigatiegeschiedenis, wachtwoorden, bladwijzers &amp; tabbladen van uw desktop &amp; mobiel met elkaar">
+<!ENTITY firstrun.starter.title        "De Starter Kit Collection verkrijgen">
+<!ENTITY firstrun.starter.description  "Installeer deze aanbevolen add-ons om uw &brandShortName; ervaring te vergroten">
+<!ENTITY firstrun.tour.title           "Neem een rondleiding">
+<!ENTITY firstrun.tour.description     "Om u alles eigen te maken en de prachtige eigenschappen te ontdekken, bekijk deze clip">
+<!ENTITY firstrun.features             "Meer Eigenschappen bekijken">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Privacybeleid">
+<!ENTITY firstrun.follow               "Volg ons op:">
