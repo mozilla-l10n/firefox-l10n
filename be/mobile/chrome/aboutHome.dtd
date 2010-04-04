@@ -1,0 +1,6 @@
+<!ENTITY aboutHome.header "<span>&brandShortName;: </span><span id='header-suffix'>У пачатку</span>">
+<!ENTITY aboutHome.recentTabs "Вашы апошнія ўстаўкі">
+<!ENTITY aboutHome.remoteTabs "Устаўкі з вашых іншых кампутараў">
+<!ENTITY aboutHome.recommendedAddons2 "Дадаткі для вашага &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla "Пра Mozilla">
+<!ENTITY aboutHome.openAllTabs "Адкрыць усе ў устаўках">

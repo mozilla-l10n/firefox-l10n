@@ -1,3 +1,4 @@
+<!ENTITY urlbar.emptytext "Увод тэрмінаў для пошуку або адраса">
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Наперад">
 <!ENTITY reload.label "Абнавіць">
@@ -53,7 +54,6 @@
 <!ENTITY downloadFailed.label "Няўдача">
 <!ENTITY noResults.label "Няма вынікаў">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
-<!ENTITY searchEngine.addSearch "Дадаць пошук:">
 <!ENTITY bookmarkPopup.label "Закладзеная старонка">
 <!ENTITY bookmarkRemove.label "Выдаліць">
 <!ENTITY bookmarkEdit.label "Праўка">
@@ -71,3 +71,5 @@
 <!ENTITY consoleErrFile.label "Зыходны файл:">
 <!ENTITY consoleErrLine.label "Радок:">
 <!ENTITY consoleErrColumn.label "Слупок:">
+<!ENTITY contextOpenInNewTab.label "Адкрыць спасылку ў новай устаўцы">
+<!ENTITY contextSaveImage.label "Захаванне малюнка">

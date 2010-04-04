@@ -2,6 +2,24 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
+<!ENTITY newTab.label "Новая ўстаўка">
+<!ENTITY newTab.accesskey "Н">
+<!ENTITY reloadTab.label "Абнавіць устаўку">
+<!ENTITY reloadTab.accesskey "А">
+<!ENTITY reloadAllTabs.label "Абнавіць усе ўстаўкі">
+<!ENTITY reloadAllTabs.accesskey "А">
+<!ENTITY closeOtherTabs.label "Зачыніць іншыя ўстаўкі">
+<!ENTITY closeOtherTabs.accesskey "З">
+<!ENTITY openTabInNewWindow.label "Адчыніць у новым акне">
+<!ENTITY openTabInNewWindow.accesskey "А">
+<!ENTITY bookmarkThisTab.label "Закласці гэтую ўстаўку">
+<!ENTITY bookmarkThisTab.accesskey "ў">
+<!ENTITY bookmarkAllTabs.label "Дадаць закладкі да ўсіх уставак…">
+<!ENTITY bookmarkAllTabs.accesskey "Д">
+<!ENTITY undoCloseTab.label "Адмяніць закрыццё ўстаўкі">
+<!ENTITY undoCloseTab.accesskey "А">
+<!ENTITY closeTab.label "Зачыніць устаўку">
+<!ENTITY closeTab.accesskey "З">
 <!ENTITY tabCmd.label "Новая ўстаўка">
 <!ENTITY tabCmd.accesskey "т">
 <!ENTITY tabCmd.commandkey "t">
@@ -170,6 +188,7 @@
 <!ENTITY urlbar.history.emptyText "Пошук у гісорыі">
 <!ENTITY urlbar.none.emptyText "Набярыце адрас Сеціва">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "Пераключыцца ў устаўку:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">

@@ -14,3 +14,7 @@
 <!ENTITY language.auto "Сама-вызначэнне">
 <!ENTITY defaultBrowser.title "Змоўчны азіральнік">
 <!ENTITY defaultBrowser.description "Прызначыць &brandShortName; вашым змоўчным азіральнікам">
+<!ENTITY homepage.title "Пачатковая старонка">
+<!ENTITY homepage.none "Пустая старонка">
+<!ENTITY homepage.default "&brandShortName;: У пачатку">
+<!ENTITY homepage.currentpage "Цяперашняя старонка">
