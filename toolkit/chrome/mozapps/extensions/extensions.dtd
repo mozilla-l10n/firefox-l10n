@@ -161,7 +161,7 @@
 <!ENTITY installSuccessRestart.label      "Za dovršetak instalacije ponovno pokrenite.">
 <!ENTITY updateSuccessRestart.label       "Ponovo pokrenite za dovršetak nadogradnje.">
 <!ENTITY installWaiting.label             "Čekanje...">
-<!ENTITY installIncompatibleUpdate.label  "Provjera usklađenosti...">
+<!ENTITY installIncompatibleUpdate.label  "Provjera kompatibilnosti...">
 <!ENTITY installFinishing.label           "Instalacija...">
 <!ENTITY installFailure.label             "Instalacija nije uspjela.">
 
