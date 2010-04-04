@@ -1,12 +1,12 @@
 
-<!ENTITY  incompatible.title        "Neusklađene stavke">
-<!ENTITY  incompatible.intro        "Sljedeće stavke nisu usklađene s ovom dopunom &brandShortName;a, te
+<!ENTITY  incompatible.title        "Nekompatibilne stavke">
+<!ENTITY  incompatible.intro        "Sljedeće stavke nisu kompatibilne s ovom dopunom &brandShortName;a, te
                                      će biti onemogućene nakon instalacije:">
 <!ENTITY  incompatible.update       "&brandShortName; će povremeno provjeravati za njihove dopune u slučaju da 
-                                     usklađena inačica postane dostupna.">
+                                     kompatibilna inačica postane dostupna.">
 <!ENTITY  incompatible.suffix       "Dopune &brandShortName;a mogu sadržati važna sigurnosna poboljšanja. Radi vaše
                                      zaštite, preporučeno vam je da ažurirate &brandShortName; čak 
-                                     i ako neka proširenja ili teme postanu neusklađene.">
+                                     i ako neka proširenja ili teme postanu nekompatibilnima.">
                                      
 <!ENTITY  closebutton.label         "Zatvori">
                                      

@@ -7,34 +7,34 @@
 <!ENTITY  offline.toggleOffline.label     "Poveži se odmah.">
 <!ENTITY  offline.toggleOffline.accesskey "o">
 
-<!ENTITY  mismatch.win.title              "Neusklađeni dodaci">
+<!ENTITY  mismatch.win.title              "Nekompatibilni dodaci">
 <!ENTITY  mismatch.top.label              "Sljedeći dodaci nisu kompatibilni s ovom inačicom
                                            &brandShortName; stoga su onemogućeni:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; može provjeriti jesu li usklađene inačice
-                                           ovih dodataka dostupne.">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; može provjeriti jesu li dostupne kompatibilne
+                                           inačice ovih dodataka.">
 
-<!ENTITY  checking.wizard.title           "Provjeravam za usklađene dodatke">
-<!ENTITY  checking.top.label              "Provjeravam dopune za vaše neusklađene dodatke...">
+<!ENTITY  checking.wizard.title           "Provjera kompatibilnih dodataka">
+<!ENTITY  checking.top.label              "Provjera dopune za vaše nekompatibilne dodatke...">
 <!ENTITY  checking.status                 "Ovo može potrajati nekoliko minuta...">
 
-<!ENTITY  found.wizard.title               "Pronađeni usklađeni dodaci">
+<!ENTITY  found.wizard.title              "Pronađeni nekompatibilni dodaci">
 <!ENTITY  found.top.label                 "Odaberite dodatke koje biste htjeli instalirati:">
 <!ENTITY  found.disabledXPinstall.label   "Ove dodatke nije moguće instalirati jer je instalacija programa trenutno
                                            onemogućena. Ovu postavku možete promijeniti niže.">
 <!ENTITY  found.enableXPInstall.label     "Dopusti web stranicama da instaliraju programe">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
-<!ENTITY  installing.wizard.title         "Instaliram usklađene dodatke">
+<!ENTITY  installing.wizard.title         "Instalacija kompatibilnih dodataka">
 <!ENTITY  installing.top.label            "Preuzimanje i instalacija dopuna vaših dodataka...">
 
-<!ENTITY  noupdates.wizard.title          "Nije pronađen nijedan usklađeni dodatak">
+<!ENTITY  noupdates.wizard.title          "Nije pronađen nijedan kompatibilni dodatak">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; nije uspio pronaći dopune za vaše
-                                           neusklađene dodatke.">
+                                           nekompatibilne dodatke.">
 <!ENTITY  noupdates.error.desc            "Došlo je do nekih problema pri potrazi za dopunama.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; će povremeno provjeravati i obavijestiti vas
-                                           kada su pronađena usklađene dopune za ove dodatke.">
+                                           kada budu pronađene kompatibilne dopune za ove dodatke.">
 
-<!ENTITY  finished.wizard.title           "Usklađeni dodaci su instalirani">
+<!ENTITY  finished.wizard.title           "Kompatibilni dodaci su instalirani">
 <!ENTITY  finished.top.label              "&brandShortName; je instalirao dopune za vaše dodatke.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; može povremeno provjeravati i obavještavati vas
                                            kada su dopune za dodatke dostupne.">
@@ -42,12 +42,12 @@
                                            kada su pronađene dopune za dodatke.">
 
 <!ENTITY  adminDisabled.wizard.title      "Provjera za dopunama nije moguća">
-<!ENTITY  adminDisabled.warning.label     "Nije moguće provjeriti dostupnost dopuna za neusklađene dodatke
+<!ENTITY  adminDisabled.warning.label     "Nije moguće provjeriti dostupnost dopuna za kompatibilne dodatke
                                            jer je instalacija programa za &brandShortName; onemogućena.
                                            Molim kontaktirajte administratora vašeg sustava za pomoć.">
 
-<!ENTITY  versioninfo.wizard.title        "Provjera usklađenosti dodataka">
-<!ENTITY  versioninfo.top.label           "Provjeravam usklađenost vaših dodataka i ove
+<!ENTITY  versioninfo.wizard.title        "Provjera kompatibilnosti dodataka">
+<!ENTITY  versioninfo.top.label           "Provjera kompatibilnosti vaših dodataka i ove
                                            &brandShortName; inačice.">
 <!ENTITY  versioninfo.waiting             "Ovo može potrajati nekoliko minuta...">
 
