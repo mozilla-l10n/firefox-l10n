@@ -14,3 +14,8 @@
 <!ENTITY language.auto                             "Autodetectie">
 <!ENTITY defaultBrowser.title                      "Standaardbrowser">
 <!ENTITY defaultBrowser.description                "&brandShortName; instellen als uw standaardbrowser">
+<!ENTITY homepage.title                            "Startpagina">
+<!ENTITY homepage.none                             "Lege pagina">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Huidige pagina gebruiken">
+<!ENTITY homepage.custom                           "Aangepaste pagina">
