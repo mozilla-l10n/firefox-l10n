@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Voer een zoekopdracht of adres in">
+
 <!ENTITY back.label            "Terug">
 <!ENTITY forward.label         "Vooruit">
 <!ENTITY reload.label          "Vernieuwen">
