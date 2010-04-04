@@ -1,3 +1,5 @@
 <!ENTITY renameFolderDialog.title "Перайменаваць папку">
 <!ENTITY rename.label "Увядзіце новую назву для вашай папкі:">
 <!ENTITY rename.accesskey "у">
+<!ENTITY accept.label "Перайменаваць">
+<!ENTITY accept.accesskey "П">
