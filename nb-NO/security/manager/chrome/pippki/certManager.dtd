@@ -99,7 +99,7 @@
 <!ENTITY certmgr.tokenname                    "Sikkerhetsenhet">
 <!ENTITY certmgr.purpose                      "Formål">
 <!ENTITY certmgr.issued                       "Utstedt">
-<!ENTITY certmgr.expires                      "Utgår">
+<!ENTITY certmgr.expires                      "Utløper">
 <!ENTITY certmgr.email                        "E-postadresse">
 <!ENTITY certmgr.serial                       "Serienummer">
 

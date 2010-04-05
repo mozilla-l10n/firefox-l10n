@@ -11,4 +11,4 @@
 <!ENTITY tree.recipient "Mottaker">
 <!ENTITY tree.status "Status">
 <!ENTITY tree.issuedDate "Utstedt">
-<!ENTITY tree.expiresDate "Utgår på dato">
+<!ENTITY tree.expiresDate "Utløper på dato">

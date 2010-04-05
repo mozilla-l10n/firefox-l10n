@@ -47,9 +47,9 @@
 <!ENTITY cookies.intro                  "&brandShortName; lar deg angi hvilke blogger, nyhetskilder og andre nettsteder som har lov til å sette infokapsler.">
 <!ENTITY acceptCookies.label            "Tillat infokapsler fra nettsteder">
 <!ENTITY acceptCookies.accesskey        "T">
-<!ENTITY keepUntil.label                "Behold inntil:">
+<!ENTITY keepUntil.label                "Behold de inntil:">
 <!ENTITY keepUntil.accesskey            "B">
-<!ENTITY expire.label                   "de utgår på dato">
+<!ENTITY expire.label                   "de utløper på dato">
 <!ENTITY close.label                    "jeg lukker &brandShortName;">
 <!ENTITY askEachTime.label              "spør meg hver gang">
 <!ENTITY cookieExceptions.label         "Unntak …">

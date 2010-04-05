@@ -20,7 +20,7 @@
 <!ENTITY  keepUntil.label               "Behold de inntil:">
 <!ENTITY  keepUntil.accesskey           "e">
 
-<!ENTITY  expire.label                  "de utgår på dato">
+<!ENTITY  expire.label                  "de utløper på dato">
 <!ENTITY  close.label                   "jeg lukker &brandShortName;">
 <!ENTITY  askEachTime.label             "spør meg hver gang">
 
