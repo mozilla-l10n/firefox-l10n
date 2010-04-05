@@ -14,3 +14,7 @@
 <!ENTITY language.auto                             "Oppdag automatisk">
 <!ENTITY defaultBrowser.title                      "Standard nettleser">
 <!ENTITY defaultBrowser.description                "Gjør &brandShortName; til standard nettleser">
+<!ENTITY homepage.title                            "Startside">
+<!ENTITY homepage.none                             "Tom side">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Bruk denne siden">
