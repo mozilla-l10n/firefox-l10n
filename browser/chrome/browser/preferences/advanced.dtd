@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "o">
 <!ENTITY checkNow.label                  "Verificar agora">
 <!ENTITY checkNow.accesskey              "V">
+<!ENTITY submitCrashes.label             "Enviar relatórios de travamento">
+<!ENTITY submitCrashes.accesskey         "n">
 
 <!ENTITY networkTab.label                "Rede">
 
