@@ -1,13 +1,13 @@
 <!ENTITY firstrun.title                "Welkom bij &brandShortName;">
-<!ENTITY firstrun.heading              "Om u op weg te helpen zijn hier een aantal meest populaire eigenschappen en add-ons zodat u het meeste uit &brandShortName; kan halen.">
+<!ENTITY firstrun.heading              "Om u op weg te helpen volgen hier een aantal van de meest populaire functies en add-ons, zodat u het meeste uit &brandShortName; kunt halen.">
 <!ENTITY firstrun.recommended          "Aanbevolen:">
 <!ENTITY firstrun.weave.title          "Weave Sync verkrijgen">
-<!ENTITY firstrun.weave.description    "Deel uw &brandShortName; navigatiegeschiedenis, wachtwoorden, bladwijzers &amp; tabbladen van uw desktop &amp; mobiel met elkaar">
+<!ENTITY firstrun.weave.description    "Deel uw navigatiegeschiedenis, wachtwoorden, bladwijzers en tabbladen van &brandShortName; op uw desktop en mobiel met elkaar">
 <!ENTITY firstrun.starter.title        "De Starter Kit Collection verkrijgen">
-<!ENTITY firstrun.starter.description  "Installeer deze aanbevolen add-ons om uw &brandShortName; ervaring te vergroten">
+<!ENTITY firstrun.starter.description  "Installeer deze aanbevolen add-ons om uw &brandShortName;-ervaring te verbeteren">
 <!ENTITY firstrun.tour.title           "Neem een rondleiding">
-<!ENTITY firstrun.tour.description     "Om u alles eigen te maken en de prachtige eigenschappen te ontdekken, bekijk deze clip">
-<!ENTITY firstrun.features             "Meer Eigenschappen bekijken">
+<!ENTITY firstrun.tour.description     "Bekijk deze clip om handige functies te ontdekken en hiermee vertrouwd te raken">
+<!ENTITY firstrun.features             "Meer functies bekijken">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "Privacybeleid">
 <!ENTITY firstrun.follow               "Volg ons op:">
