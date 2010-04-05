@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Endre mappenavn">
 <!ENTITY rename.label                      "Skriv inn det nye navnet:">
 <!ENTITY rename.accesskey                  "S">
+<!ENTITY accept.label                      "Endre navn">
+<!ENTITY accept.accesskey                  "E">
