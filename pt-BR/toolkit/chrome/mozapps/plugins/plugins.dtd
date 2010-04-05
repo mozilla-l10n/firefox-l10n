@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Clique aqui para instalar o plugin">
 <!ENTITY disabledPlugin.label                                "O plugin deste conteúdo foi desativado. Clique aqui para gerenciar seus plugins.">
 <!ENTITY blockedPlugin.label                                 "Este plugin foi bloqueado para sua proteção.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Recarregue a página">
+<!ENTITY reloadPlugin.post                                   " para tentar de novo.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Enviar relatório do travamento">
+<!ENTITY report.submitting                                   "Enviando relatório…">
+<!ENTITY report.submitted                                    "Relatório do travamento enviado">
+<!ENTITY report.disabled                                     "Relatórios de travamento desativados">
+<!ENTITY report.failed                                       "Envio malsucedido">
+<!ENTITY report.unavailable                                  "Nenhum relatório disponível">
