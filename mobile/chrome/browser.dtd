@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Skriv inn søk eller adresse">
+
 <!ENTITY back.label            "Tilbake">
 <!ENTITY forward.label         "Frem">
 <!ENTITY reload.label          "Last på nytt">
@@ -36,7 +38,6 @@
 
 <!ENTITY addonsHeader.label        "Utvidelser">
 <!ENTITY addonsLocal.label         "Installerte utvidelser">
-<!ENTITY addonsUpdate.label        "Oppdater">
 <!ENTITY addonsRepo.label          "Hent utvidelser">
 <!ENTITY addonsRecommended.label   "Anbefalt">
 <!ENTITY addonsSearch.label        "Søk">
@@ -66,8 +67,6 @@
 <!ENTITY noResults.label           "Ingen resultater">
 <!ENTITY allBookmarks.label        "Se alle bokmerker">
 
-<!ENTITY searchEngine.addSearch    "Legg til søk:">
-
 <!ENTITY bookmarkPopup.label       "Siden er lagt til i bokmerker">
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
@@ -92,3 +91,6 @@
 <!ENTITY consoleErrFile.label      "Kildefil:">
 <!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
+
+<!ENTITY contextOpenInNewTab.label "Åpne lenke i ny fane">
+<!ENTITY contextSaveImage.label    "Lagre bilde">
