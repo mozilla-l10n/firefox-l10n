@@ -1,6 +1,6 @@
 <!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
 <!ENTITY aboutHome.recentTabs "Schede dall'ultima esecuzione">
 <!ENTITY aboutHome.remoteTabs "Schede dagli altri computer">
-<!ENTITY aboutHome.recommendedAddons2 "Componenti aggiuntivi per il tuo &brandShortName;">
+<!ENTITY aboutHome.recommendedAddons2 "Componenti aggiuntivi per &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla "Informazioni su Mozilla">
 <!ENTITY aboutHome.openAllTabs "Apri tutti in schede">
