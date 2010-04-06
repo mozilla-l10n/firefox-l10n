@@ -210,6 +210,9 @@ shortcut keys on Linux. -->
 <!ENTITY viewSidebarMenu.accesskey "l">
 <!ENTITY viewCustomizeToolbar.label "Personalizar...">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY viewTabsOnTop.label            "Separadores no topo">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+
 
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyMenu.accesskey "i">
