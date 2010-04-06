@@ -241,6 +241,8 @@
 <!ENTITY viewSidebarMenu.accesskey "o">
 <!ENTITY viewCustomizeToolbar.label       "Anpassa…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
+<!ENTITY viewTabsOnTop.label            "Flikar högst upp">
+<!ENTITY viewTabsOnTop.accesskey        "F">
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "o">
