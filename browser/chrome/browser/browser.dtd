@@ -210,6 +210,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personnaliser…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY viewTabsOnTop.label "Barre des onglets au-dessus">
+<!ENTITY viewTabsOnTop.accesskey "a">
 
 <!ENTITY historyMenu.label "Historique">
 <!ENTITY historyMenu.accesskey "H">
