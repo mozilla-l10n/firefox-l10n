@@ -175,6 +175,8 @@
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label "Настроить…">
 <!ENTITY viewCustomizeToolbar.accesskey "Н">
+<!ENTITY viewTabsOnTop.label "Вкладки сверху">
+<!ENTITY viewTabsOnTop.accesskey "к">
 <!ENTITY historyMenu.label "Журнал">
 <!ENTITY historyMenu.accesskey "Ж">
 <!ENTITY historyUndoMenu.label "Недавно закрытые вкладки">
