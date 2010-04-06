@@ -210,6 +210,8 @@
 <!ENTITY viewSidebarMenu.accesskey    "S">
 <!ENTITY viewCustomizeToolbar.label   "Oanpasse..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "O"> 
+<!ENTITY viewTabsOnTop.label            "Ljepblêden boppe-op">
+<!ENTITY viewTabsOnTop.accesskey        "b">
 
 <!ENTITY historyMenu.label "Skiednis">
 <!ENTITY historyMenu.accesskey "S">
