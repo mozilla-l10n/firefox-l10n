@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Forneça ou localize um endereço">
+
 <!ENTITY back.label            "Voltar">
 <!ENTITY forward.label         "Avançar">
 <!ENTITY reload.label          "Recarregar">
@@ -36,7 +38,6 @@
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Seus complementos">
-<!ENTITY addonsUpdate.label        "Atualizar">
 <!ENTITY addonsRepo.label          "Adicionar">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Pesquisar">
@@ -66,8 +67,6 @@
 <!ENTITY noResults.label           "Nenhum resultado">
 <!ENTITY allBookmarks.label        "Exibir todos os favoritos">
 
-<!ENTITY searchEngine.addSearch    "Adicionar pesquisa">
-
 <!ENTITY bookmarkPopup.label       "Novo favorito">
 <!ENTITY bookmarkRemove.label      "Excluir">
 <!ENTITY bookmarkEdit.label        "Editar">
@@ -92,3 +91,6 @@
 <!ENTITY consoleErrFile.label      "Arquivo-fonte:">
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
+
+<!ENTITY contextOpenInNewTab.label "Abrir em nova aba">
+<!ENTITY contextSaveImage.label    "Salvar imagem">
