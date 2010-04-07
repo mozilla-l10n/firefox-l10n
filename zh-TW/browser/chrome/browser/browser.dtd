@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(私密瀏覽)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "新增分頁">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "重新載入分頁">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "重新載入所有分頁">
+<!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  closeOtherTabs.label               "關閉其他分頁">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "用新視窗開啟">
+<!ENTITY  openTabInNewWindow.accesskey       "w">
+<!ENTITY  bookmarkThisTab.label              "將此分頁加入書籤">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "復原已關閉分頁">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "關閉分頁">
+<!ENTITY  closeTab.accesskey                 "C">
+
 <!ENTITY tabCmd.label "開新分頁">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -190,6 +210,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "自訂…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewTabsOnTop.label            "把分頁標籤移到網址列之上">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "歷史">
 <!ENTITY historyMenu.accesskey "s">
