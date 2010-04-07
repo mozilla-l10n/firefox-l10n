@@ -30,7 +30,7 @@
 <!ENTITY featureConfigurator.unifiedFolderBenefits.para    "W przypadku, gdy zostało skonfigurowanych kilka kont, foldery takie jak Odebrane mogą zostać pogrupowane, aby można było wyświetlać wszystkie zawarte w nich wiadomości na jednej liście.">
 <!ENTITY featureConfigurator.unifiedFolderAlternative.para "Użytkownicy rozdzielający informacje na osobne konta będą zapewne woleli układ wyświetlający wszystkie foldery osobno.">
 <!ENTITY featureConfigurator.useUnifiedFolders.button      "Domyślnie wyświetlaj układ Pogrupowane foldery">
-<!ENTITY featureConfigurator.useAllFolders.button        "Domyślnie wyświetlaj układ Wszystkie foldery">
+<!ENTITY featureConfigurator.useAllFolders.button          "Domyślnie wyświetlaj układ Wszystkie foldery">
 
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Nagłówki wiadomości">
 <!ENTITY featureConfigurator.headerParaBeforeLink     "Thunderbird 3 zmienia sposób wyświetlania nagłówków wiadomości. Alternatywne sposoby ich wyświetlania dostępne są jako ">
