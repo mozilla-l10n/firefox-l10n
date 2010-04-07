@@ -41,7 +41,7 @@
 <!ENTITY addonsRepo.label          "取得元件">
 <!ENTITY addonsRecommended.label   "推薦元件">
 <!ENTITY addonsSearch.label        "搜尋">
-<!ENTITY addonsSearch2.emptytext   "搜尋分類">
+<!ENTITY addonsSearch2.emptytext   "搜尋">
 <!ENTITY addonsSearch.recommended  "推薦元件">
 
 <!ENTITY addonOptions.label        "選項">
@@ -50,7 +50,7 @@
 <!ENTITY addonInstall2.label       "安裝到 &brandShortName;">
 <!ENTITY addonUninstall.label      "移除">
 <!ENTITY addonCancel.label         "取消">
-<!ENTITY addonShowPage.label       "連到首頁">
+<!ENTITY addonShowPage.label       "連到附加元件頁面">
 
 <!ENTITY downloadsHeader.label     "下載">
 

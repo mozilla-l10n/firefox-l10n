@@ -1,6 +1,6 @@
 <!ENTITY prefsHeader.label                         "偏好設定">
 <!ENTITY about.title                               "關於 &brandShortName;">
-<!ENTITY about.button                              "連到首頁">
+<!ENTITY about.button                              "更多資訊">
 <!ENTITY content.title                             "內容">
 <!ENTITY showImages.title                          "顯示圖片">
 <!ENTITY enableJavaScript.title                    "啟用 JavaScript">
