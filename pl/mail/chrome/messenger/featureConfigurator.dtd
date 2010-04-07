@@ -24,12 +24,12 @@
 <!ENTITY featureConfigurator.useOriginalToolbar.button "Używaj paska w stylu Thunderbirda 2">
 <!ENTITY featureConfigurator.useNewToolbar.button      "Używaj nowego paska">
 
-<!ENTITY featureConfigurator.smartFolders.heading        "Pogrupowane foldery">
-<!ENTITY featureConfigurator.smartFolders.smart.status   "Kolumna folderów z układem Pogrupowane.">
-<!ENTITY featureConfigurator.smartFolders.all.status     "Kolumna folderów z układem Wszystkie.">
-<!ENTITY featureConfigurator.smartFolderBenefits.para    "W przypadku, gdy zostało skonfigurowanych kilka kont, foldery takie jak Odebrane mogą zostać pogrupowane, aby można było wyświetlać wszystkie zawarte w nich wiadomości na jednej liście.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Użytkownicy rozdzielający informacje na osobne konta będą zapewne woleli układ wyświetlający wszystkie foldery osobno.">
-<!ENTITY featureConfigurator.useSmartFolders.button      "Domyślnie wyświetlaj układ Pogrupowane foldery">
+<!ENTITY featureConfigurator.unifiedFolders.heading        "Pogrupowane foldery">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status   "Kolumna folderów z układem Pogrupowane.">
+<!ENTITY featureConfigurator.unifiedFolders.all.status     "Kolumna folderów z układem Wszystkie.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para    "W przypadku, gdy zostało skonfigurowanych kilka kont, foldery takie jak Odebrane mogą zostać pogrupowane, aby można było wyświetlać wszystkie zawarte w nich wiadomości na jednej liście.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Użytkownicy rozdzielający informacje na osobne konta będą zapewne woleli układ wyświetlający wszystkie foldery osobno.">
+<!ENTITY featureConfigurator.useUnifiedFolders.button      "Domyślnie wyświetlaj układ Pogrupowane foldery">
 <!ENTITY featureConfigurator.useAllFolders.button        "Domyślnie wyświetlaj układ Wszystkie foldery">
 
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Nagłówki wiadomości">

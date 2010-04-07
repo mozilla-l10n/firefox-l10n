@@ -141,8 +141,8 @@
 
 <!ENTITY folderView.label          "Foldery">
 <!ENTITY folderView.accesskey      "F">
-<!ENTITY smartFolders.label        "Pogrupowane">
-<!ENTITY smartFolders.accesskey    "P">
+<!ENTITY unifiedFolders.label      "Pogrupowane">
+<!ENTITY unifiedFolders.accesskey  "P">
 <!ENTITY allFolders.label          "Wszystkie">
 <!ENTITY allFolders.accesskey      "W">
 <!ENTITY unreadFolders.label       "Nieprzeczytane">
