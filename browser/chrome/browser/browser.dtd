@@ -211,6 +211,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY viewTabsOnTop.label            "Pestañas por encima">
+<!ENTITY viewTabsOnTop.accesskey        "s">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "H">
