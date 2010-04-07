@@ -42,8 +42,10 @@
 <!ENTITY name.label               "Nazwa:">
 <!ENTITY name.accesskey           "n">
 <!ENTITY description.label        "Utwórz nowy folder w:">
-<!ENTITY description.accesskey    "u">
+<!ENTITY description.accesskey    "U">
 <!ENTITY folderRestriction1.label "Ten serwer ogranicza foldery do dwóch specjalnych rodzajów.">
 <!ENTITY folderRestriction2.label "Nowy folder może zawierać:">
 <!ENTITY foldersOnly.label        "Tylko foldery">
 <!ENTITY messagesOnly.label       "Tylko wiadomości">
+<!ENTITY accept.label             "Utwórz folder">
+<!ENTITY accept.accesskey         "f">
