@@ -1,4 +1,4 @@
-<!ENTITY aboutHome.header                       "<span id='header-suffix'>Inici</span> del <span>&brandShortName;</span>">
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>Inici del</span> <span>&brandShortName;</span>">
 <!ENTITY aboutHome.recentTabs                   "Pestanyes de la darrera vegada">
 <!ENTITY aboutHome.remoteTabs                   "Pestanyes d'altres ordinadors">
 <!ENTITY aboutHome.recommendedAddons2           "Complements del &brandShortName;">
