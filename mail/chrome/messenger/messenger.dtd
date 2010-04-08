@@ -619,6 +619,9 @@
 <!ENTITY phishingBarMessage2.label "Это сообщение может быть мошенническим.">
 <!ENTITY removePhishingBarButton1.label "Игнорировать предупреждение">
 <!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
+<!ENTITY mdnBarMessage.label "Отправитель этого сообщения запросил уведомление о прочтении вами этого сообщения. Вы хотите уведомить отправителя?">
+<!ENTITY mdnBarIgnoreButton.label "Игнорировать запрос">
+<!ENTITY mdnBarSendButton.label "Отправить уведомление">
 <!ENTITY more.label "ещё">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Поиск во всех сообщениях">
