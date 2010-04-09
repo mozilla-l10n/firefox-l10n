@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "Aktualizace aplikace">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
-
 <!ENTITY checking.title "Kontrola aktualizací">
 <!ENTITY updateCheck.label "Zjišťování dostupnosti nové verze aplikace &brandShortName;…">
 
@@ -42,9 +39,9 @@
 <!ENTITY license.decline "Nesouhlasím s podmínkami tohoto licenčního ujednání">
 <!ENTITY license.decline.accesskey "N">
 
-<!ENTITY  incompatibleList.title "Nalezeny nekompatibilní doplňky">
+<!ENTITY incompatibleList.title "Nalezeny nekompatibilní doplňky">
 
-<!ENTITY downloading.title "Stahování aktualizací">
+<!ENTITY downloadPage.title "Stahování aplikace &brandShortName;">
 <!ENTITY downloading.intro "Stahování aktualizací…">
 <!ENTITY connecting.label "Připojování k aktualizačnímu serveru…">
 <!ENTITY verificationFailedText.label "Aplikaci &brandShortName; se nepodařilo ověřit integritu stažené přírůstkové aktualizace, proto nyní stahuje celý aktualizační balíček.">

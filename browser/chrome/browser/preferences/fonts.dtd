@@ -1,6 +1,6 @@
 <!ENTITY fontsDialog.title "Písma">
 <!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em"> 
+<!ENTITY window.macWidth "43em">
 <!ENTITY  window.unixWidth "41em">
 
 <!ENTITY language.label "Znaková sada:">
@@ -46,11 +46,12 @@
 <!ENTITY font.langGroup.gujarati "Gujarati">
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
 <!ENTITY font.langGroup.khmer "Khmerština">
-<!ENTITY font.langGroup.malayalam "Malajština"> 
+<!ENTITY font.langGroup.malayalam "Malajština">
 <!ENTITY font.langGroup.oriya "Oriyaština">
 <!ENTITY font.langGroup.telugu "Telugština">
 <!ENTITY font.langGroup.kannada "Kannadština">
 <!ENTITY font.langGroup.sinhala "Sinhalština">
+<!ENTITY  font.langGroup.tibetan "Tibetština">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimální velikost fontů:">
 <!ENTITY minSize.accesskey "M">

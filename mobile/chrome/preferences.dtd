@@ -12,4 +12,5 @@
 <!ENTITY rememberPasswords.title "Pamatovat si hesla">
 <!ENTITY language.title "Jazyk">
 <!ENTITY language.auto "Autodetekce">
-
+<!ENTITY defaultBrowser.title "Výchozí prohlížeč">
+<!ENTITY defaultBrowser.description "Nastavit &brandShortName; jako výchozí prohlížeč">
