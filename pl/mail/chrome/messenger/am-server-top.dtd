@@ -17,8 +17,8 @@
 <!ENTITY connectionSecurityType-1.label   "STARTTLS, jeśli dostępne">
 <!ENTITY connectionSecurityType-2.label   "STARTTLS">
 <!ENTITY connectionSecurityType-3.label   "SSL/TLS">
-<!ENTITY useSecAuth.label                 "Używaj bezpiecznego uwierzytelniania">
-<!ENTITY useSecAuth.accesskey             "w">
+<!ENTITY authMethod.label                 "Metoda uwierzytelniania:">
+<!ENTITY authMethod.accesskey             "w">
 <!ENTITY leaveOnServer.label              "Pozostaw kopię wiadomości na serwerze">
 <!ENTITY leaveOnServer.accesskey          "k">
 <!ENTITY headersOnly.label                "Pobieraj tylko nagłówki wiadomości">
