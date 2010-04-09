@@ -417,6 +417,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "O">
+<!ENTITY openConversationCmd.label "Abrir conversação">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Abrir mensagem da fonte">
 <!ENTITY openFeedMessage.accesskey "o">
 <!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
@@ -685,6 +688,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Esta mensagem pode ser um engodo.">
 <!ENTITY removePhishingBarButton1.label "Ignorar aviso">
 <!ENTITY reportPhishingError1.label "Esta mensagem não parece ser engodo.">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "O remetente desta mensagem pediu para ser notificado quando lê-se a mensagem. Deseja notificar o remetente?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
+<!ENTITY mdnBarSendButton.label "Enviar recibo">
+
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "mais">
