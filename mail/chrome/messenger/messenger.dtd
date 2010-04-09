@@ -686,6 +686,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Warskôging negearje">
 <!ENTITY reportPhishingError1.label "Dit berjocht liket gjin e-mailscam.">
 
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "De ôfstjoerder fan dit berjocht hat om in notifikaasje frege as jo dit berjocht lêze. Wolle jo dit de ôfstjoerder witte litte?">
+<!ENTITY mdnBarIgnoreButton.label "Fersyk negearje">
+<!ENTITY mdnBarSendButton.label "Untfangst ferstjoere">
+
+
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "mear">
 
