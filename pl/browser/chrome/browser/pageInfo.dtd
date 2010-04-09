@@ -104,7 +104,7 @@
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Informacje dotyczące bezpieczeństwa tej strony">
 <!ENTITY  securityView.certView  "Wyświetl certyfikat">
-<!ENTITY  securityView.accesskey "W">
+<!ENTITY  securityView.accesskey "c">
 <!ENTITY  securityView.unknown   "Nieznany">
 
 <!ENTITY  securityView.identity.header   "Tożsamość witryny">
@@ -116,9 +116,9 @@
 <!ENTITY  securityView.privacy.history                  "Czy ta witryna była wcześniej odwiedzana?">
 <!ENTITY  securityView.privacy.cookies                  "Czy ta witryna przechowuje informacje na tym komputerze (ciasteczka)?">
 <!ENTITY  securityView.privacy.viewCookies              "Wyświetl ciasteczka">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "a">
 <!ENTITY  securityView.privacy.passwords                "Czy hasła użyte na tej witrynie zostały zapisane?">
 <!ENTITY  securityView.privacy.viewPasswords            "Wyświetl zapisane hasła">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "h">
 
 <!ENTITY  securityView.technical.header                 "Szczegóły techniczne">
