@@ -130,7 +130,7 @@
 <!ENTITY certmgr.add.label 						"Dodaj">
 <!ENTITY certmgr.add.accesskey                	"D">
 <!ENTITY certmgr.export.label                 "Eksportuj…">
-<!ENTITY certmgr.export.accesskey             "o">
+<!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label 					"Usuń…">
 <!ENTITY certmgr.delete2.accesskey               "U">
 <!ENTITY certmgr.backup2.label 					"Kopia zapasowa…">
