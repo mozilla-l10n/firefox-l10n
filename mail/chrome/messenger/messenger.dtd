@@ -417,6 +417,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Öffnen">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "In Themenbaum anzeigen">
+<!ENTITY openConversationCmd.accesskey "b">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Feed-Artikel öffnen als">
 <!ENTITY openFeedMessage.accesskey "ö">
 <!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">
@@ -630,6 +633,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "F">
 <!ENTITY contextOpenNewTab.label "In neuem Tab öffnen">
 <!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextOpenConversation.label "In Themenbaum anzeigen">
+<!ENTITY contextOpenConversation.accesskey "b">
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten">
 <!ENTITY contextEditAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Archivieren">
