@@ -364,13 +364,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY moveToFolderAgain.label "Op 'e nij ferpleatse">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Konversaasje negearje">
+<!ENTITY killThreadMenu.label "Petear negearje">
 <!ENTITY killThreadMenu.accesskey "n">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Subkonversaasje negearje">
+<!ENTITY killSubthreadMenu.label "Subpetear negearje">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Konversaasje folgje">
+<!ENTITY watchThreadMenu.label "Petear folgje">
 <!ENTITY watchThreadMenu.accesskey "f">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Hjir bewarje">
@@ -394,7 +394,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "As lêzen">
 <!ENTITY markAsReadCmd.accesskey "z">
 <!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "Konversaasje as lêzen">
+<!ENTITY markThreadAsReadCmd.label "Petear as lêzen">
 <!ENTITY markThreadAsReadCmd.accesskey "K">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "As lêzen op datum…">
@@ -417,6 +417,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Berjocht iepenje">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Iepenje yn Petear">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Iepen feedberjocht">
 <!ENTITY openFeedMessage.accesskey "I">
 <!ENTITY openFeedWebPageInWindow.label "Webside yn nij skerm">
@@ -608,7 +611,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klik om te toanen kolommen te selektearjen">
-<!ENTITY threadColumn.tooltip "Klik om berjochtkonversaasjes te toanen">
+<!ENTITY threadColumn.tooltip "Klik om berjochtpetearen te toanen">
 <!ENTITY fromColumn.tooltip "Klik om te sortearjen op fan">
 <!ENTITY recipientColumn.tooltip "Klik om te sortearjen op ûntfanger">
 <!ENTITY subjectColumn.tooltip "Klik om te sortearjen op ûnderwerp">
@@ -619,8 +622,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusColumn.tooltip "Klik om te sortearjen op steat">
 <!ENTITY sizeColumn.tooltip "Klik om te sortearjen op grutte">
 <!ENTITY junkStatusColumn.tooltip "Klik om te sortearjen op net-winske-berjochtsteat">
-<!ENTITY unreadColumn.tooltip "Oantal net lêzen berjochten yn konversaasje">
-<!ENTITY totalColumn.tooltip "Totaal oantal berjochten yn konversaasje">
+<!ENTITY unreadColumn.tooltip "Oantal net lêzen berjochten yn petear">
+<!ENTITY totalColumn.tooltip "Totaal oantal berjochten yn petear">
 <!ENTITY readColumn.tooltip "Klik om te sortearjen op lêzen">
 <!ENTITY receivedColumn.tooltip "Klik om te sortearjen op ûntfangstdatum">
 <!ENTITY starredColumn.tooltip "Klik om te sortearjen op stjer">
@@ -633,6 +636,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!ENTITY contextOpenNewTab.label "Berjocht iepenje yn nij ljepblêd">
 <!ENTITY contextOpenNewTab.accesskey "l">
+<!ENTITY contextOpenConversation.label "Berjocht iepenje yn Petear">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "As nij bewurkje…">
 <!ENTITY contextEditAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Argivearje">
