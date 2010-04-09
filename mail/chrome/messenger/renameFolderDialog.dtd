@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title "Dizini yeniden İsimlendir">
 <!ENTITY rename.label "Dizininiz için yeni isim girin:">
 <!ENTITY rename.accesskey "i">
+<!ENTITY accept.label "Rename">
+<!ENTITY accept.accesskey "R">

@@ -14,3 +14,7 @@
 <!ENTITY language.auto "Otomatik algıla">
 <!ENTITY defaultBrowser.title "Varsayılan Tarayıcı">
 <!ENTITY defaultBrowser.description "Make &brandShortName; your default browser">
+<!ENTITY homepage.title "Start page">
+<!ENTITY homepage.none "Blank Page">
+<!ENTITY homepage.default "&brandShortName; Start">
+<!ENTITY homepage.currentpage "Use Current Page">

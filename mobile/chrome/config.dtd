@@ -1,0 +1,12 @@
+<!ENTITY empty.label "Ara">
+<!ENTITY newpref.label "Add a New Preference">
+<!ENTITY addpref.name "Adı">
+<!ENTITY addpref.value "Değer">
+
+<!ENTITY cancel.label "Vazgeç">
+<!ENTITY reset.label "Reset">
+<!ENTITY done.label "Tamamlandı">
+
+<!ENTITY integer.label "Integer">
+<!ENTITY string.label "String">
+<!ENTITY boolean.label "Boolean">

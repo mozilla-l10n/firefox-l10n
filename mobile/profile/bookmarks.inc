@@ -41,10 +41,10 @@
 # LOCALIZATION NOTE (bookmarks_weave):
 
 
-# link title for https://www.mozilla.com/en-US/mobile/weave
+# link title for https://www.mozilla.com/en-US/mobile/sync
 
 
-#define bookmarks_weave Firefox: Weave ile eşzamanla
+#define bookmarks_sync Firefox: Synchronize using Weave Sync
 
 
 
@@ -65,6 +65,16 @@
 
 
 #define bookmarks_support Firefox: Destek
+
+
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+
+
+# link title for about:home
+
+
+#define bookmarks_aboutHome Firefox Start
 
 
 

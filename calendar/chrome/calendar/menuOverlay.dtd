@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label "Bugün">
 <!ENTITY goTodayCmd.accesskey "g">
 
-<!ENTITY goPreviousCmd.day.label "Önceki gün">
-<!ENTITY goPreviousCmd.week.label "Önceki hafta">
-<!ENTITY goPreviousCmd.month.label "Önceki ay">
-<!ENTITY goPreviousCmd.accesskey "n">
-
-<!ENTITY goNextCmd.day.label "Sonraki gün">
-<!ENTITY goNextCmd.week.label "Sonraki hafta">
-<!ENTITY goNextCmd.month.label "Sonraki ay">
-<!ENTITY goNextCmd.all.accesskey "a">
-
 <!ENTITY showCurrentView.label "Güncel görünüm">
 <!ENTITY showCurrentView.accesskey "G">
 
