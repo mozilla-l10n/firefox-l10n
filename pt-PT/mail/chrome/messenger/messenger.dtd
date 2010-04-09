@@ -636,6 +636,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Abrir Mensagem num novo separador">
 <!ENTITY contextOpenNewTab.accesskey "S">
+<!ENTITY contextOpenConversation.label "Abrir mensagem de conversação">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "D">
 <!ENTITY contextArchive.label "Arquivo">
