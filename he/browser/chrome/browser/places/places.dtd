@@ -106,6 +106,8 @@
 <!ENTITY cmd.edit_redo.key
   "y">
 
+<!ENTITY cmd.bookmarkLink.label         "צור סימנייה לדף זה…">
+<!ENTITY cmd.bookmarkLink.accesskey     "ס">
 <!ENTITY cmd.delete.label               "מחק דף זה">
 <!ENTITY cmd.delete.accesskey           "מ">
 <!ENTITY cmd.deleteDomainData.label     "שכח מאתר זה">
@@ -305,11 +307,11 @@
 <!ENTITY maintenance.accesskey  "י">
 
 <!ENTITY backCmd.label       "אחורה">
-<!ENTITY backCmd.accesskey   "א">
+
 <!ENTITY backButton.tooltip  "חזור אחורה">
 
 <!ENTITY forwardCmd.label       "קדימה">
-<!ENTITY forwardCmd.accesskey   "ק">
+
 <!ENTITY forwardButton.tooltip  "המשך קדימה">
 
 <!ENTITY detailsPane.more.label "יותר">

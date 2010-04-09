@@ -13,14 +13,17 @@
 <!ENTITY cmd.checkUpdatesAll.label "מצא עדכונים">
 <!ENTITY cmd.checkUpdatesAll.accesskey "ע">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "מצא עדכונים לתוספות שלך">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "מצא עדכונים לערכות הנושא">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "מצא עדכונים לערכות הנושא שלך">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "מצא עדכונים לתוספים שלך">
 <!ENTITY cmd.installLocalFile.label "התקן…">
 <!ENTITY cmd.installLocalFile.accesskey   "ה">
 <!ENTITY cmd.installFileAddon.tooltip "התקן תוספת">
 <!ENTITY cmd.installFileTheme.tooltip "התקן ערכת נושא">
-<!ENTITY cmd.installUpdatesAll.label "התקן עדכון">
-<!ENTITY cmd.installUpdatesAll.accesskey "ע">
-<!ENTITY cmd.installUpdatesAll.tooltip "התקן את העדכונים הנבחרים">
+
+<!ENTITY cmd.installUpdatesAll2.label     "התקן עדכונים">
+<!ENTITY cmd.installUpdatesAll2.accesskey "ה">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "התקן עדכונים נבחרים">
+
 <!ENTITY cmd.skip.label "דלג">
 <!ENTITY cmd.skip.accesskey "ד">
 <!ENTITY cmd.skip.tooltip "דלג על עדכונים אלו">
@@ -112,6 +115,7 @@
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "לא מספק עדכונים מאובטחים.">
 <!ENTITY softBlocklisted.label            "ידועה בגרימת בעיות יציבות או אבטחה.">
+<!ENTITY outdated.label                   "זמינה גירסה חדשה ובטוחה יותר.">
 <!ENTITY toBeUpdated.label                "תוספת זו תעודכן כאשר &brandShortName; יופעל מחדש.">
 <!ENTITY getPlugins.label                 "קבל תוספים">
 <!ENTITY infoNoAddonSelected.label        "לא נבחרו עדכונים">

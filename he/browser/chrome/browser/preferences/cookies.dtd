@@ -1,22 +1,27 @@
-<!ENTITY button.close.accesskey "ס">
-<!ENTITY button.close.label "סגור">
-<!ENTITY button.removeallcookies.accesskey "כ">
-<!ENTITY button.removeallcookies.label "הסר את כל העוגיות">
-<!ENTITY button.removecookie.accesskey "ע">
-<!ENTITY button.removecookie.label "הסר עוגיה">
-<!ENTITY cookiedomain.label "אתר">
-<!ENTITY cookiename.label "שם עוגיה">
-<!ENTITY cookiesonsystem.label "העוגיות הבאות מאוחסנות על המחשב שלך.">
-<!ENTITY filter.accesskey "ח">
-<!ENTITY filter.label "חפש:">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
-<!ENTITY props.domain.label "מחשב מארח:">
-<!ENTITY props.expires.label "פג תוקף:">
-<!ENTITY props.name.label "שם:">
-<!ENTITY props.path.label "נתיב:">
-<!ENTITY props.secure.label "שלח עבור:">
-<!ENTITY props.value.label "מידע:">
-<!ENTITY window.title "עוגיות">
-<!ENTITY window.width "36em">
-<!ENTITY windowClose.key "w">
+<!ENTITY window.width                       "36em">
+
+<!ENTITY     cookiesonsystem.label          "העוגיות הבאות מאוחסנות על המחשב שלך:">
+<!ENTITY     cookiename.label               "שם עוגיה">
+<!ENTITY     cookiedomain.label             "אתר">
+<!ENTITY     button.removecookie.label      "הסר עוגיה">
+<!ENTITY     button.removecookie.accesskey  "ע">
+<!ENTITY     button.removeallcookies.label  "הסר את כל העוגיות">
+<!ENTITY     button.removeallcookies.accesskey "כ">
+
+<!ENTITY     props.name.label               "שם:">
+<!ENTITY     props.value.label              "מידע:">
+<!ENTITY     props.domain.label             "מחשב מארח:">
+<!ENTITY     props.path.label               "נתיב:">
+<!ENTITY     props.secure.label             "שלח עבור:">
+<!ENTITY     props.expires.label            "תוקף:">
+
+<!ENTITY     window.title                   "עוגיות">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
+
+<!ENTITY     filter.label                   "חפש:">
+<!ENTITY     filter.accesskey               "ח">
+
+<!ENTITY     button.close.label             "סגור">
+<!ENTITY     button.close.accesskey         "ס">
