@@ -11,25 +11,6 @@
 <!ENTITY  locbar.bookmarks.label        "סימניות">
 <!ENTITY  locbar.nothing.label          "שום דבר">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "שמור את ההיסטוריה שלי לפחות ">
-<!ENTITY  rememberDaysBefore.accesskey  "ה">
-<!ENTITY  rememberDaysAfter2.label      "ימים">
-
-<!ENTITY  rememberForms.label           "זכור את מה שאני מכניס בטפסים ותיבת החיפוש">
-<!ENTITY  rememberForms.accesskey       "ט">
-
-<!ENTITY  rememberDownloads.label       "זכור את מה שהורדתי">
-<!ENTITY  rememberDownloads.accesskey   "ז">
-
-
-<!ENTITY  cookies.label                 "עוגיות">
-
 <!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
 <!ENTITY  acceptCookies.accesskey       "ע">
 
@@ -43,19 +24,11 @@
 <!ENTITY  close.label                   "אני סוגר את &brandShortName;">
 <!ENTITY  askEachTime.label             "שאל אותי בכל פעם">
 
-<!ENTITY  cookieExceptions.label        "חריגות...">
+<!ENTITY  cookieExceptions.label        "חריגות…">
 <!ENTITY  cookieExceptions.accesskey    "ח">
 
-<!ENTITY  showCookies.label             "הצג עוגיות...">
+<!ENTITY  showCookies.label             "הצג עוגיות…">
 <!ENTITY  showCookies.accesskey         "צ">
-
-<!ENTITY  privateData.label             "נתונים אישיים">
-
-<!ENTITY  alwaysClear.label             "תמיד נקה את הנתונים האישיים שלי כאשר אני סוגר את &brandShortName;">
-<!ENTITY  alwaysClear.accesskey         "נ">
-
-<!ENTITY  clearDataSettings.label       "הגדרות...">
-<!ENTITY  clearDataSettings.accesskey   "ה">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -107,6 +80,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "הגדרות…">
 <!ENTITY  clearOnCloseSettings.accesskey "ה">
-
-<!ENTITY  clearDataNow.label             "נקה כעת...">
-<!ENTITY  clearDataNow.accesskey         "כ">

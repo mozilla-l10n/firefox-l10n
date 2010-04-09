@@ -1,42 +1,42 @@
 <!ENTITY aboutCmd.accesskey "א">
 <!ENTITY aboutCmd.label "אודות &brandFullName;">
 <!ENTITY bringAllToFront.label "הבא הכל לקידמה">
-<!ENTITY helpContents.accesskey "ת">
-<!ENTITY helpContents.label "תוכן עזרה">
-<!ENTITY helpContentsMac.label "עזרה של &brandShortName;">
+<!ENTITY productHelp.label        "עזרה של &brandShortName;">
+<!ENTITY productHelp.accesskey    "ע">
+
 <!ENTITY helpForIEUsers.accesskey "מ">
 <!ENTITY helpForIEUsers.label "למשתמשי Internet Explorer">
 <!ENTITY helpMenu.accesskey "ז">
 <!ENTITY helpMenu.label "עזרה">
 <!ENTITY helpMenuWin.accesskey "ז">
 <!ENTITY helpMenuWin.label "עזרה">
-<!ENTITY helpReleaseNotes.accesskey "ה">
-<!ENTITY helpReleaseNotes.label "הערות שחרור">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.label "הסתר אחרים">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,shift">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.label "הסתר את &brandShortName;">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
+
+
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "מזער חלון">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.label "העדפות...">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "שירותים">
-<!ENTITY showAllAppsCmdMac.label "הראה הכל">
-<!ENTITY updateCmd.accesskey "כ">
-<!ENTITY updateCmd.label "בדוק אם ישנם עדכונים...">
+<!ENTITY helpMac.commandkey       "?">
+
 <!ENTITY windowMenu.label "חלון">
 <!ENTITY zoomWindow.label "הגדל חלון">
 
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY hideOtherAppsCmdMac.label "הסתר אחרים">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpReleaseNotes.accesskey "ה">
+<!ENTITY helpReleaseNotes.label "הערות שחרור">
 
+<!ENTITY helpTroubleshooting.label      "מידע לפתרון בעיות…">
+<!ENTITY helpTroubleshooting.accesskey  "פ">
+
+<!ENTITY updateCmd.label "בדוק אם ישנם עדכונים…">
+
+<!ENTITY preferencesCmdMac.label "העדפות…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+
+<!ENTITY servicesMenuMac.label "שירותים">
+
+<!ENTITY hideThisAppCmdMac.label "הסתר את &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label "הראה הכל">

@@ -16,3 +16,19 @@
 <!ENTITY pluginWizard.title "שירות חיפוש תוספים">
 <!ENTITY disabledPlugin.label                                "התוסף לתוכן זה מנוטרל. לחץ כאן כדי לנהל את התוספים שלך.">
 <!ENTITY blockedPlugin.label                                "תוסף זה נחסם כדי להגן עליך.">
+
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "כדי לנסות שוב, ">
+<!ENTITY reloadPlugin.middle                                 "טען מחדש את הדף">
+<!ENTITY reloadPlugin.post                                   ".">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "שלח דיווח קריסה">
+<!ENTITY report.submitting                                   "שולח דיווח…">
+<!ENTITY report.submitted                                    "דיווח קריסה נשלח.">
+<!ENTITY report.disabled                                     "דיווח קריסות מנוטרל.">
+<!ENTITY report.failed                                       "השליחה נכשלה.">
+<!ENTITY report.unavailable                                  "אין דיווח זמין.">
+

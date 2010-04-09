@@ -10,9 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
-
 
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
@@ -33,6 +30,9 @@
 <!ENTITY import.accesskey "י">
 <!ENTITY goOfflineCmd.label "עבוד לא־מקוון">
 <!ENTITY goOfflineCmd.accesskey "ע">
+
+<!ENTITY menubarCmd.label "שורת תפריט">
+<!ENTITY menubarCmd.accesskey "פ">
 <!ENTITY navbarCmd.label "סרגל כלים ניווט">
 <!ENTITY navbarCmd.accesskey "נ">
 <!ENTITY personalbarCmd.label "סרגל כלים סימניות">
@@ -48,6 +48,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "מסך מלא">
 <!ENTITY fullScreenCmd.accesskey "ס">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "הצג את כל הלשוניות">
+<!ENTITY showAllTabsCmd.accesskey "כ">
 
 <!ENTITY fullScreenMinimize.tooltip "מזער">
 <!ENTITY fullScreenRestore.tooltip "שחזר">
@@ -85,24 +88,28 @@
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
 <!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
-
+<!ENTITY feedButton.tooltip           "הירשם לדף זה…">
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY printButton.tooltip "הדפס דף זה">
 <!ENTITY locationItem.title "מיקום">
 <!ENTITY searchItem.title "חפש">
 <!ENTITY throbberItem.title "מחוון פעילות">
 <!ENTITY bookmarksItem.title "סימניות">
+
+<!-- Toolbar items --> 
 <!ENTITY homeButton.label "דף הבית">
-<!ENTITY bookmarksButton.label "סימניות">
-<!ENTITY bookmarksButton.tooltip "מציג את הסימניות שלך">
-<!ENTITY bookmarksSidebarCmd.accesskey "ס">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+
+<!ENTITY bookmarksButton.label          "סימניות">
+<!ENTITY bookmarksButton.tooltip        "מציג את הסימניות שלך">
+<!ENTITY bookmarksButton.accesskey  "ס">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
 <!ENTITY historyButton.label "היסטוריה">
 <!ENTITY historyButton.tooltip "מציג דפים שראית לאחרונה">
 <!ENTITY historySidebarCmd.accesskey "ה">
@@ -221,6 +228,8 @@
 
 <!ENTITY viewImageCmd.label "הצג תמונה">
 <!ENTITY viewImageCmd.accesskey "צ">
+<!ENTITY viewImageInfoCmd.label       "הצג מידע תמונה">
+<!ENTITY viewImageInfoCmd.accesskey   "מ">
 <!ENTITY viewBGImageCmd.label "הצג תמונת רקע">
 <!ENTITY viewBGImageCmd.accesskey "ת">
 
@@ -270,8 +279,6 @@
 <!ENTITY copyAudioURLCmd.accesskey    "ה">
 
 <!ENTITY blockImageCmd.accesskey "ס">
-<!ENTITY metadataCmd.label "מאפיינים">
-<!ENTITY metadataCmd.accesskey "א">
 <!ENTITY copyEmailCmd.label "העתק כתובת דוא״ל">
 <!ENTITY copyEmailCmd.accesskey "כ">
 <!ENTITY thisFrameMenu.label "מסגרת זו">
@@ -283,6 +290,7 @@
 <!ENTITY cutButton.tooltip "גזור">
 <!ENTITY copyButton.tooltip "העתק">
 <!ENTITY pasteButton.tooltip "הדבק">
+<!ENTITY fullScreenButton.tooltip       "מציג את החלון במסך מלא">
 <!ENTITY quitApplicationCmdWin.label "יציאה">
 <!ENTITY quitApplicationCmdWin.accesskey "צ">
 <!ENTITY goBackCmd.commandKey "[">
@@ -404,10 +412,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "לחץ לפתיחת חלון ההורדות">
 
-<!ENTITY urlbar.emptyText             "חיפוש בסימניות ובהיסטוריה">
 <!ENTITY urlbar.bookmarkhistory.emptyText "חיפוש בסימניות והיסטוריה">
 <!ENTITY urlbar.bookmark.emptyText    "חיפוש בסימניות">
 <!ENTITY urlbar.history.emptyText     "חיפוש בהיסטוריה">
 <!ENTITY urlbar.none.emptyText        "הכנס כתובת">
 
-<!ENTITY ctrlTab.search.emptyText "חיפוש לשוניות">
+<!ENTITY allTabs.filter.emptyText "חיפוש לשוניות">

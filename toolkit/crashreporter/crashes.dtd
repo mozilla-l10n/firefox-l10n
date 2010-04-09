@@ -3,5 +3,4 @@
 <!ENTITY date.heading               "הנתונים נשלחו">
 <!ENTITY noReports.label            "לא נשלחו דיווחי קריסה.">
 <!ENTITY noConfig.label             "ישום זה לא מוגדר להציג דיווחי קריסות. המאפיין <code>breakpad.reportURL</code> חייב להיות מוגדר.">
-<!-- ### ENTITY clearAllReports.label      "הסר את כל הדיווחים" -->
-<!ENTITY clearReports.label         "הסר דיווחים">
+<!ENTITY clearAllReports.label      "הסר את כל הדיווחים">

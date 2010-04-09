@@ -1,19 +1,17 @@
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "j", "q", "z" -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "כללי">
+<!ENTITY generalTab.label                "כללי">
 
-<!ENTITY accessibility.label "נגישות">
+<!ENTITY accessibility.label             "נגישות">
 
-<!ENTITY useCursorNavigation.label "השתמש תמיד במקשי הסמן לניווט בתוך דפים">
-<!ENTITY useCursorNavigation.accesskey "ס">
-<!ENTITY searchStartTyping.label "חפש טקסט כאשר אני מתחיל להקליד">
-<!ENTITY searchStartTyping.accesskey "ט">
-
+<!ENTITY useCursorNavigation.label       "השתמש תמיד במקשי הסמן לניווט בתוך דפים">
+<!ENTITY useCursorNavigation.accesskey   "ס">
+<!ENTITY searchStartTyping.label         "חפש טקסט כאשר אני מתחיל להקליד">
+<!ENTITY searchStartTyping.accesskey     "ט">
 <!ENTITY blockAutoRefresh.label          "הזהר אותי כאשר אתרים מנסים לטעון מחדש את הדף או להעביר אותי לדף אחר">
 <!ENTITY blockAutoRefresh.accesskey      "ה">
 
-<!ENTITY browsing.label "דפדוף">
+<!ENTITY browsing.label                  "דפדוף">
 
 <!ENTITY useAutoScroll.label "השתמש בגלילה אוטומטית">
 <!ENTITY useAutoScroll.accesskey "ב">
@@ -22,6 +20,10 @@
 
 <!ENTITY checkSpelling.label "בדוק איות בזמן שאני מקליד">
 <!ENTITY checkSpelling.accesskey "א">
+
+<!ENTITY submitCrashes.label             "שלח דיווחי קריסה">
+<!ENTITY submitCrashes.accesskey         "ש">
+
 
 <!ENTITY networkTab.label "רשת">
 
@@ -49,8 +51,8 @@
 <!ENTITY autoCheck.label "בדוק אוטומטית אם ישנם עדכונים עבור:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "תוספות מותקנות">
-<!ENTITY enableAddonsUpdate.accesskey "ת">
+<!ENTITY enableAddonsUpdate2.label       "תוספות">
+<!ENTITY enableAddonsUpdate2.accesskey   "ת">
 <!ENTITY enableSearchUpdate.label "מנועי חיפוש">
 <!ENTITY enableSearchUpdate.accesskey "מ">
 <!ENTITY whenUpdatesFound.label "כאשר נמצאים עדכונים עבור &brandShortName;:">
