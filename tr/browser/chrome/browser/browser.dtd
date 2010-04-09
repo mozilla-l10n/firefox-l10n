@@ -10,6 +10,26 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli tarama)">
+<!-- Tab context menu -->
+
+<!ENTITY newTab.label "New Tab">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY reloadTab.label "Sekmeyi tazele">
+<!ENTITY reloadTab.accesskey "z">
+<!ENTITY reloadAllTabs.label "Tüm sekmeleri tazele">
+<!ENTITY reloadAllTabs.accesskey "T">
+<!ENTITY closeOtherTabs.label "Diğer sekmeleri kapat">
+<!ENTITY closeOtherTabs.accesskey "D">
+<!ENTITY openTabInNewWindow.label "Open in a New Window">
+<!ENTITY openTabInNewWindow.accesskey "W">
+<!ENTITY bookmarkThisTab.label "Bookmark This Tab">
+<!ENTITY bookmarkThisTab.accesskey "B">
+<!ENTITY bookmarkAllTabs.label "Bookmark All Tabs…">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY undoCloseTab.label "Kapatılan sekmeyi aç">
+<!ENTITY undoCloseTab.accesskey "K">
+<!ENTITY closeTab.label "Sekmeyi kapat">
+<!ENTITY closeTab.accesskey "k">
 
 <!ENTITY tabCmd.label "Yeni sekme">
 <!ENTITY tabCmd.accesskey "s">
@@ -190,6 +210,8 @@
 <!ENTITY viewSidebarMenu.accesskey "K">
 <!ENTITY viewCustomizeToolbar.label "Özelleştir…">
 <!ENTITY viewCustomizeToolbar.accesskey "l">
+<!ENTITY viewTabsOnTop.label "Tabs on top">
+<!ENTITY viewTabsOnTop.accesskey "T">
 
 <!ENTITY historyMenu.label "Geçmiş">
 <!ENTITY historyMenu.accesskey "G">
@@ -207,6 +229,7 @@
 <!ENTITY urlbar.history.emptyText "Geçmişte ara">
 <!ENTITY urlbar.none.emptyText "Adresi yazın">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "Switch to tab:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 

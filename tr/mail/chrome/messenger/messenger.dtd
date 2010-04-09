@@ -686,7 +686,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "İleti, sahtekârlık girişimi olabilir.">
 <!ENTITY removePhishingBarButton1.label "Uyarıyı görmezden gel">
 <!ENTITY reportPhishingError1.label "İleti, sahtekârlık girişimine benzemiyor.">
+<!-- MDN Bar -->
+
+<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
+<!ENTITY mdnBarIgnoreButton.label "İsteği görmezden gel">
+<!ENTITY mdnBarSendButton.label "Alındı onayı gönder">
 <!-- Message Header Button Box (to show hidden email addresses) -->
+
 
 <!ENTITY more.label "Daha fazla">
 <!-- Quick Search Bar -->

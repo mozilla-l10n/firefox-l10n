@@ -1,20 +1,3 @@
-<!ENTITY newTab.label "Yeni sekme">
-<!ENTITY newTab.accesskey "s">
-<!ENTITY closeTab.label "Sekmeyi kapat">
-<!ENTITY closeTab.accesskey "k">
-<!ENTITY closeOtherTabs.accesskey "D">
-<!ENTITY closeOtherTabs.label "Diğer sekmeleri kapat">
-<!ENTITY reloadAllTabs.label "Tüm sekmeleri tazele">
-<!ENTITY reloadAllTabs.accesskey "T">
-<!ENTITY reloadTab.label "Sekmeyi tazele">
-<!ENTITY reloadTab.accesskey "z">
-<!ENTITY openTabInNewWindow.label "Yeni pencerede aç">
-<!ENTITY openTabInNewWindow.accesskey "p">
+<!ENTITY closeTab.label "Close Tab">
 <!ENTITY listAllTabs.label "Tüm sekmeleri diz">
-<!ENTITY bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle…">
-<!ENTITY bookmarkAllTabs.accesskey "T">
-<!ENTITY bookmarkThisTab.label "Bu sekmeyi yer imlerine ekle">
-<!ENTITY bookmarkThisTab.accesskey "B">
-<!ENTITY undoCloseTab.label "Kapatılan sekmeyi aç">
-<!ENTITY undoCloseTab.accesskey "K">
 <!ENTITY newTabButton.tooltip "Yeni sekme aç">

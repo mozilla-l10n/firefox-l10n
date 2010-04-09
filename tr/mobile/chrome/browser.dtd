@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext "Enter Search or Address">
+
 <!ENTITY back.label "Geri">
 <!ENTITY forward.label "İleri">
 <!ENTITY reload.label "Tazele">
@@ -65,8 +67,6 @@
 <!ENTITY noResults.label "Sonuç yok">
 <!ENTITY allBookmarks.label "Tüm yer imlerini göster">
 
-<!ENTITY searchEngine.addSearch "Arama ekle:">
-
 <!ENTITY bookmarkPopup.label "Sayfa imlendi">
 <!ENTITY bookmarkRemove.label "Kaldır">
 <!ENTITY bookmarkEdit.label "Düzenle">
@@ -91,3 +91,6 @@
 <!ENTITY consoleErrFile.label "Kaynak dosya:">
 <!ENTITY consoleErrLine.label "Satır:">
 <!ENTITY consoleErrColumn.label "Sütun:">
+
+<!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
+<!ENTITY contextSaveImage.label "Resmi kaydet">

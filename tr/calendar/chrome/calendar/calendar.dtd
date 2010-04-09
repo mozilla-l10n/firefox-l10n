@@ -88,12 +88,18 @@
 <!ENTITY calendar.month.button.tooltip "Aylık gösterime geç">
 <!ENTITY calendar.multiweek.button.tooltip "Çok haftalı gösterime geç">
 
-<!ENTITY calendar.nextday.button.tooltip "Sonraki gün">
-<!ENTITY calendar.prevday.button.tooltip "Önceki gün">
-<!ENTITY calendar.nextweek.button.tooltip "Sonraki hafta">
-<!ENTITY calendar.prevweek.button.tooltip "Önceki hafta">
-<!ENTITY calendar.nextmonth.button.tooltip "Sonraki ay">
-<!ENTITY calendar.prevmonth.button.tooltip "Önceki ay">
+<!ENTITY calendar.nextday.label "Next Day">
+<!ENTITY calendar.prevday.label "Previous Day">
+<!ENTITY calendar.nextday.accesskey "x">
+<!ENTITY calendar.prevday.accesskey "s">
+<!ENTITY calendar.nextweek.label "Next Week">
+<!ENTITY calendar.prevweek.label "Previous Week">
+<!ENTITY calendar.nextweek.accesskey "x">
+<!ENTITY calendar.prevweek.accesskey "s">
+<!ENTITY calendar.nextmonth.label "Next Month">
+<!ENTITY calendar.prevmonth.label "Previous Month">
+<!ENTITY calendar.nextmonth.accesskey "x">
+<!ENTITY calendar.prevmonth.accesskey "s">
 
 <!ENTITY calendar.navigation.nextday.tooltip "Bir gün ileri">
 <!ENTITY calendar.navigation.prevday.tooltip "Bir gün geri">
