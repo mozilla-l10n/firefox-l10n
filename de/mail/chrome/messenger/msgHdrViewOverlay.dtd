@@ -83,8 +83,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label "Andere Aktionen">
-<!ENTITY otherActionsShowConversation.label "In Themenbaum anzeigen">
-<!ENTITY otherActionsShowConversation.accesskey "b">
+<!ENTITY otherActionsOpenConversation.label "In Themenbaum anzeigen">
+<!ENTITY otherActionsOpenConversation.accesskey "b">
 <!ENTITY otherActionsOpenInNewWindow.label "In neuem Fenster öffnen">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "F">
 <!ENTITY otherActionsOpenInNewTab.label "In neuem Tab öffnen">
