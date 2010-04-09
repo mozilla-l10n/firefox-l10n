@@ -73,25 +73,25 @@ choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "bruk ny verktøylinje">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
 words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Smarte mapper-modus">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Samlemappe-modus">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Bruker «smarte mapper».">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
+shows that the current mode in the folder pane is the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Bruker «samlemapper»-modusen.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Bruker ikke «smarte mapper».">
+<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
+shows that the current mode in the folder pane is not the Unified Folders mode.-->
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Bruker ikke «samlemapper»-modusen.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "For brukere som har flere kontoer, vil denne visningen gruppere like mapper sammen (f.eks. Innboks), slik at du får en sammenslått visning av all e-post.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Dersom du foretrekker å splitte informasjon på tvers av kontoer, vil du trolig ønske å bruke «alle mapper»-modusen.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "For brukere som har flere kontoer vil denne visningen gruppere like mapper sammen (f.eks. Innboks), slik at du får en sammenslått visning av all e-post.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Dersom du foretrekker å splitte informasjon på tvers av kontoer, vil du trolig ønske å bruke «alle mapper»-modusen.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
+<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "bruk «smarte mapper»-modus">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "bruk «samlemapper»-modus">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make

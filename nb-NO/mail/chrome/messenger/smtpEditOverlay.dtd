@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "B">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Brukernavn og passord">
-<!ENTITY alwaysUseUsername.accesskey "B">
 <!ENTITY userName.label "Brukernavn:">
 <!ENTITY userName.accesskey "v">
-<!ENTITY useSecAuth.label "Bruk sikker autentisering">
-<!ENTITY useSecAuth.accesskey "u">
 <!ENTITY connectionSecurity.label "Tilkoblingssikkerhet:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Ingen">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Utgående tjener">
 <!ENTITY serverPortDefault.label "Standard:">
+<!ENTITY authMethod.label "Autentiseringsmetode:">
+<!ENTITY authMethod.accesskey "A">
