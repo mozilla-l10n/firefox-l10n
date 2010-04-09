@@ -387,6 +387,9 @@
 <!ENTITY openMessageWindowCmd.label "Открыть">
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Открыть в разговоре">
+<!ENTITY openConversationCmd.accesskey "т">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Открыть сообщение ленты новостей">
 <!ENTITY openFeedMessage.accesskey "т">
 <!ENTITY openFeedWebPageInWindow.label "Веб-страницу в новом окне">
@@ -575,6 +578,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "н">
 <!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
 <!ENTITY contextOpenNewTab.accesskey "н">
+<!ENTITY contextOpenConversation.label "Открыть в разговоре">
+<!ENTITY contextOpenConversation.accesskey "т">
 <!ENTITY contextEditAsNew.label "Редактировать как новое…">
 <!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextArchive.label "Архивировать">

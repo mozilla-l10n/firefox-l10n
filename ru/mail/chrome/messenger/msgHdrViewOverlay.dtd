@@ -41,8 +41,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Всегда показывать ответ отправителю">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "т">
 <!ENTITY otherActionsButton.label "другие действия">
-<!ENTITY otherActionsShowConversation.label "показать в разговоре">
-<!ENTITY otherActionsShowConversation.accesskey "р">
+<!ENTITY otherActionsOpenConversation.label "открыть в разговоре">
+<!ENTITY otherActionsOpenConversation.accesskey "р">
 <!ENTITY otherActionsOpenInNewWindow.label "открыть в новом окне">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "н">
 <!ENTITY otherActionsOpenInNewTab.label "открыть в новой вкладке">
