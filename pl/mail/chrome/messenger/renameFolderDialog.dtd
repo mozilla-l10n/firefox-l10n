@@ -24,6 +24,7 @@
    -    Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
    -    Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
    -    Piotr Komoda <gorky@civ.pl> (Polish translation)
+   -    Stefan Plewako <splewako@aviary.pl> (Polish translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,3 +43,5 @@
 <!ENTITY renameFolderDialog.title "Zmień nazwę folderu">
 <!ENTITY rename.label             "Wprowadź nową nazwę dla folderu:">
 <!ENTITY rename.accesskey         "e">
+<!ENTITY accept.label             "Zmień nazwę">
+<!ENTITY accept.accesskey         "Z">

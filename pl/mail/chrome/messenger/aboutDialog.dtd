@@ -3,7 +3,6 @@
 <!ENTITY aboutButton.accesskey "W">
 
 <!ENTITY aboutVersion          "wersja">
-<!ENTITY copyrightText         "&#169;1998-2010 Współtwórcy. Wszelkie prawa zastrzeżone. Mozilla Thunderbird oraz logo Thunderbird są znakami towarowymi Mozilla Foundation. Wszelkie prawa zastrzeżone.">
 
 <!ENTITY aboutMenu.label             "O programie">
 <!ENTITY aboutMenu.accesskey         "O">
