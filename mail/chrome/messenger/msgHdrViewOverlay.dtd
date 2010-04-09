@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label "oare aksjes">
-<!ENTITY otherActionsShowConversation.label "toan yn petear">
-<!ENTITY otherActionsShowConversation.accesskey "p">
+<!ENTITY otherActionsOpenConversation.label "iepenje yn petear">
+<!ENTITY otherActionsOpenConversation.accesskey "p">
 <!ENTITY otherActionsOpenInNewWindow.label "Iepenje yn nij finster">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "f">
 <!ENTITY otherActionsOpenInNewTab.label "Iepenje yn nij ljepblêd">
