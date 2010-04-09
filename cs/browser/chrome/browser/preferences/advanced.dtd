@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "t">
 <!ENTITY checkNow.label "Zkontrolovat">
 <!ENTITY checkNow.accesskey "n">
+<!ENTITY submitCrashes.label "Odeslat hlášení o pádu">
+<!ENTITY submitCrashes.accesskey "O">
 
 <!ENTITY networkTab.label "Síť">
 

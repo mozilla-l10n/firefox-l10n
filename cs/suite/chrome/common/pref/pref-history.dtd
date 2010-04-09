@@ -2,15 +2,8 @@
 
 <!ENTITY pref.history.caption "Historie prohlížení">
 <!ENTITY historyPages.label "Historie je seznam navštívených stránek.">
-<!ENTITY expireDaysMin1.label "Vždy si pamatovat navštívené stránky nejméně">
-<!ENTITY expireDaysMin1.accesskey "V">
-<!ENTITY expireDaysMin2.label "dnů">
-<!ENTITY expireDays1.label "Pamatovat si navštívené stránky až">
-<!ENTITY expireDays1.accesskey "P">
-<!ENTITY expireDays2.label "dnů">
-<!ENTITY expireSites1.label "Pamatovat si až">
-<!ENTITY expireSites1.accesskey "a">
-<!ENTITY expireSites2.label "navštívených stránek">
+<!ENTITY enableHistory.label "Pamatovat si navštívené stránky">
+<!ENTITY enableHistory.accesskey "P">
 <!ENTITY clearHistory.label "Smazat historii">
 <!ENTITY clearHistory.accesskey "h">
 

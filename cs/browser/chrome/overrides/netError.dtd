@@ -18,9 +18,9 @@
   <li>Zkontrolujte, zda je adresa napsána správně a neobsahuje chyby jako
     <strong>ww</strong>.server.cz místo
     <strong>www</strong>.server.cz</li>
-  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého 
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -100,7 +100,7 @@
 <ul>
   <li>Zkontrolujte, zda je nastavení proxy serveru správné.</li>
   <li>Zkontrolujte, síťové připojení svého počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -116,7 +116,7 @@
 <!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Zkontrolujte, zda má váš systém nainstalován 
+  <li>Zkontrolujte, zda má váš systém nainstalován
 Personal Security Manager.</li>
   <li>Tato chyba může být rovněž způsobena nestandardní konfigurací serveru.</li>
 </ul>
@@ -133,7 +133,7 @@ Personal Security Manager.</li>
 <!ENTITY nssBadCert.title "Chyba zabezpečeného spojení">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-<li>Tato chyba může být způsobena chybnou konfigurací serveru nebo někým, 
+<li>Tato chyba může být způsobena chybnou konfigurací serveru nebo někým,
 kdo se snaží vydávat za server.</li>
 <li>Pokud jste se k tomuto serveru  připojili úspěšně již v minulosti, je možná
  chyba jenom dočasná, a můžete to zkusit znovu později.</li>
@@ -142,11 +142,11 @@ kdo se snaží vydávat za server.</li>
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Server je dočasně nedostupný. Zkuste to prosím znovu 
+  <li>Server je dočasně nedostupný. Zkuste to prosím znovu
 za chvíli.</li>
-  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého 
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má 
+  <li>Pokud je váš počítač chráněn firewallem a nebo proxy serverem, zkontrolujte, zda má
     &brandShortName; přístup na Internet.</li>
 </ul>
 ">
@@ -162,6 +162,9 @@ za chvíli.</li>
 <p>Vložení osobních informací na takovéto stránce může skočit krádeží identity a nebo jiným podvodem.</p>
 <p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky a nebo e-maily ze zdrojů, kterým věříte.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel stránky">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace &brandShortName; zabránila této stránce v nahrání, neboť tato stránka má bezpečnostní pravidla, která tento způsob užití zakazují.</p>">
 
 <!ENTITY securityOverride.linkText "A nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">

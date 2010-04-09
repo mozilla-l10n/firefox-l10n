@@ -13,10 +13,20 @@
 <!ENTITY daily.label "denně">
 <!ENTITY appDaily.accesskey "d">
 <!ENTITY weekly.label "týdně">
-<!ENTITY appWeekly.accesskey "t"> 
+<!ENTITY appWeekly.accesskey "t">
 <!ENTITY extensionsUpdates.label "Nainstalované doplňky">
 <!ENTITY extensionsUpdates.accesskey "s">
 <!ENTITY extensionsDaily.accesskey "e">
 <!ENTITY extensionsWeekly.accesskey "n">
 <!ENTITY addonManagerButton.label "Správce doplňků">
 <!ENTITY addonManagerButton.accesskey "S">
+
+<!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
+<!ENTITY askMe.label "Vždy se dotázat na další postup">
+<!ENTITY askMe.accesskey "l">
+<!ENTITY modeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
+<!ENTITY modeAutomatic.accesskey "t">
+<!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY modeAutoAddonWarn.accesskey "u">
+<!ENTITY updateHistory.label "Zobrazit historii aktualizací…">
+<!ENTITY updateHistory.accesskey "h">
