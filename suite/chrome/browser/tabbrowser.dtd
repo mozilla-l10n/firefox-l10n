@@ -11,7 +11,7 @@
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY bookmarkGroup.label "Crea segnalibro con tutte le schede">
 <!ENTITY bookmarkGroup.accesskey "s">
-<!ENTITY closeTabButton.tooltip "Chiudi scheda corrente">
+<!ENTITY closeTabButton.tooltip "Close current tab">
 <!ENTITY newTabButton.tooltip "Apre una nuova scheda">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
-<!ENTITY undoCloseTab.accesskey "h">
+<!ENTITY undoCloseTab.accesskey "U">

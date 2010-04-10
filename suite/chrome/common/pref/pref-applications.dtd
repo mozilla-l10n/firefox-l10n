@@ -1,6 +1,9 @@
 <!ENTITY pref.applications.title "Applicazioni esterne">
-<!ENTITY typeColumn.label "Tipo file">
+
+<!ENTITY typeColumn.label "Content Type">
 <!ENTITY typeColumn.accesskey "T">
-<!ENTITY actionColumn2.label "Azione">
+
+<!ENTITY actionColumn2.label "Action">
 <!ENTITY actionColumn2.accesskey "A">
-<!ENTITY search.emptytext "Cerca tra i tipi file e le azioni">
+
+<!ENTITY search.emptytext "Search Types and Actions">

@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Posta indesiderata">
-<!ENTITY trainingWarning.label "Se si attiva questo filtro si dovrà insegnare a &brandShortName; ad identificare la posta indesiderata usando il pulsante apposito per marcare i messaggi indesiderati o no. L'utente dovrà identificare sia i messaggi indesiderati che quelli non indesiderati.">
+<!ENTITY trainingWarning.label "Se si attiva questo filtro si dovrà insegnare a &brandShortName; ad identificare la posta indesiderata utilizzando il pulsante apposito per marcare i messaggi indesiderati o no. L'utente dovrà identificare sia i messaggi indesiderati che quelli non indesiderati.">
 <!ENTITY level.label "Attiva i controlli incrementali di posta indesiderata per questo account">
 <!ENTITY level.accesskey "v">
 <!ENTITY move.label "Sposta i nuovi messaggi di posta indesiderata in:">

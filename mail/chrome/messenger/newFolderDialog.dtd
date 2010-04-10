@@ -22,7 +22,6 @@
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
    -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,10 +38,12 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY newFolderDialog.title "Nuova cartella">
 <!ENTITY name.label "Nome:">
-<!ENTITY name.accesskey "N">
+<!ENTITY name.accesskey "n">
 <!ENTITY description.label "Crea come sottocartella di:">
-<!ENTITY description.accesskey "C">
+<!ENTITY description.accesskey "c">
 <!ENTITY folderRestriction1.label "Questo server restringe i tipi di cartelle a due tipi speciali.">
 <!ENTITY folderRestriction2.label "Consenti alla nuova cartella di contenere:">
 <!ENTITY foldersOnly.label "Solo cartelle">
 <!ENTITY messagesOnly.label "Solo messaggi">
+<!ENTITY accept.label "Crea la cartella">
+<!ENTITY accept.accesskey "r">

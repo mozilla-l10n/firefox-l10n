@@ -124,8 +124,8 @@
 <!ENTITY showMessageCmd.accesskey "A">
 <!ENTITY folderView.label "Cartelle">
 <!ENTITY folderView.accesskey "a">
-<!ENTITY smartFolders.label "Smart">
-<!ENTITY smartFolders.accesskey "S">
+<!ENTITY unifiedFolders.label "Unificate">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Tutte">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Con messaggi non letti">
@@ -407,6 +407,9 @@
 <!ENTITY addons.accesskey "c">
 <!ENTITY activitymanager.label "Registro attività">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY savedFiles.label "File salvati">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filtri…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Esegui filtri nella cartella selezionata">
@@ -465,7 +468,7 @@
 <!ENTITY forwardButton.tooltip "Inoltra il messaggio selezionato">
 <!ENTITY fileButton.tooltip "Sposta il messaggio selezionato">
 <!ENTITY archiveButton.tooltip "Archivia i messaggi selezionati">
-<!ENTITY nextButton.tooltip "Vai al prossimo messaggio non letto">
+<!ENTITY nextButton.tooltip "Vai al messaggio successivo non letto">
 <!ENTITY previousButton.tooltip "Vai al precedente messaggio non letto ">
 <!ENTITY goForwardButton.tooltip "Avanti di un messaggio">
 <!ENTITY goBackButton.tooltip "Indietro di un messaggio">
@@ -590,7 +593,7 @@
 <!ENTITY contextForwardAsAttachment.accesskey "I">
 <!ENTITY contextMoveMsgMenu.label "Sposta in">
 <!ENTITY contextMoveMsgMenu.accesskey "S">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Cartelle recenti">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recenti">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
 <!ENTITY contextCopyMsgMenu.label "Copia in">
 <!ENTITY contextCopyMsgMenu.accesskey "n">
@@ -614,7 +617,7 @@
 <!ENTITY remoteContentMessage2.label "Per proteggere la tua privacy &brandShortName; ha bloccato i contenuti remoti.">
 <!ENTITY loadRemoteContentButton3.label "Mostra contenuti remoti">
 <!ENTITY phishingBarMessage2.label "Questo messaggio potrebbe essere una frode.">
-<!ENTITY removePhishingBarButton1.label "Ignorare gli avvisi">
+<!ENTITY removePhishingBarButton1.label "Ignorare l'avviso">
 <!ENTITY reportPhishingError1.label "Questo messaggio non sembra essere una frode.">
 <!ENTITY more.label "altri">
 <!ENTITY quickSearchCmd.key "k">
@@ -655,8 +658,8 @@
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Copia indirizzo immagine">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageAllCmd.label "Copia immagine">
+<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
 <!ENTITY copyEmailCmd.accesskey "i">
 <!ENTITY stopCmd.label "Interrompi">
@@ -671,15 +674,15 @@
 <!ENTITY minimizeWindow.label "Contrai">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY zoomWindow.label "Ridimensiona">
 <!ENTITY preferencesCmdMac.label "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Servizi">
 <!ENTITY hideThisAppCmdMac.label "Nascondi &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "N">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
 <!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Nascondi gli altri">
-<!ENTITY hideOtherAppsCmdMac.commandkey "s">
+<!ENTITY hideOtherAppsCmdMac.label "Nascondi altre">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Mostra tutto">

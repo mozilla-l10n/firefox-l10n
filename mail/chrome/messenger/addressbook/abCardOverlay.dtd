@@ -9,19 +9,19 @@
 <!ENTITY NameField1.label "Nome:">
 <!ENTITY NameField1.accesskey "N">
 <!ENTITY NameField2.label "Cognome:">
-<!ENTITY NameField2.accesskey "o">
+<!ENTITY NameField2.accesskey "g">
 <!ENTITY PhoneticField1.label "Ultimo nome fonetico:">
 <!ENTITY PhoneticField2.label "Fonetica:">
 <!ENTITY DisplayName.label "Nome visualizzato:">
-<!ENTITY DisplayName.accesskey "v">
+<!ENTITY DisplayName.accesskey "z">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "p">
 <!ENTITY PrimaryEmail.label "E-mail:">
 <!ENTITY PrimaryEmail.accesskey "-">
 <!ENTITY SecondEmail.label "E-mail aggiuntiva:">
-<!ENTITY SecondEmail.accesskey "g">
+<!ENTITY SecondEmail.accesskey "a">
 <!ENTITY PreferMailFormat.label "Formato preferito per i messaggi di posta:">
-<!ENTITY PreferMailFormat.accesskey "F">
+<!ENTITY PreferMailFormat.accesskey "o">
 <!ENTITY PlainText.label "Testo semplice">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
@@ -31,7 +31,7 @@
 <!ENTITY allowRemoteContent1.accesskey "t">
 <!ENTITY allowRemoteContent1.tooltip "Nei messaggi in HTML è possibile includere elementi ospitati da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di elementi esterni contenuti nei messaggi HTML provenienti da questo contatto.">
 <!ENTITY WorkPhone.label "Lavoro:">
-<!ENTITY WorkPhone.accesskey "L">
+<!ENTITY WorkPhone.accesskey "v">
 <!ENTITY HomePhone.label "Casa:">
 <!ENTITY HomePhone.accesskey "s">
 <!ENTITY FaxNumber.label "Fax:">
@@ -39,7 +39,7 @@
 <!ENTITY PagerNumber.label "Cerca persone:">
 <!ENTITY PagerNumber.accesskey "e">
 <!ENTITY CellularNumber.label "Cellulare:">
-<!ENTITY CellularNumber.accesskey "l">
+<!ENTITY CellularNumber.accesskey "u">
 <!ENTITY Home.tab "Privato">
 <!ENTITY Home.accesskey "I">
 <!ENTITY HomeAddress.label "Indirizzo:">
@@ -47,7 +47,7 @@
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Città:">
-<!ENTITY HomeCity.accesskey "t">
+<!ENTITY HomeCity.accesskey "à">
 <!ENTITY HomeState.label "Provincia:">
 <!ENTITY HomeState.accesskey "o">
 <!ENTITY HomeZipCode.label "CAP:">
@@ -70,7 +70,7 @@
 <!ENTITY Department.label "Reparto:">
 <!ENTITY Department.accesskey "e">
 <!ENTITY Company.label "Organizzazione:">
-<!ENTITY Company.accesskey "n">
+<!ENTITY Company.accesskey "O">
 <!ENTITY WorkAddress.label "Indirizzo:">
 <!ENTITY WorkAddress.accesskey "d">
 <!ENTITY WorkAddress2.label "">
@@ -98,7 +98,7 @@
 <!ENTITY Notes.label "Note:">
 <!ENTITY Notes.accesskey "N">
 <!ENTITY Photo.tab "Fotografia">
-<!ENTITY Photo.accesskey "o">
+<!ENTITY Photo.accesskey "F">
 <!ENTITY PhotoDesc.label "Scegliere fra le seguenti opzioni:">
 <!ENTITY GenericPhoto.label "fotografia generica">
 <!ENTITY GenericPhoto.accesskey "e">
@@ -108,7 +108,7 @@
 <!ENTITY BrowsePhoto.label "Sfoglia">
 <!ENTITY BrowsePhoto.accesskey "S">
 <!ENTITY PhotoURL.label "sul web">
-<!ENTITY PhotoURL.accesskey "b">
+<!ENTITY PhotoURL.accesskey "w">
 <!ENTITY PhotoURL.emptytext "Inserire l'indirizzo web di una foto">
 <!ENTITY UpdatePhoto.label "Aggiorna">
 <!ENTITY UpdatePhoto.accesskey "A">

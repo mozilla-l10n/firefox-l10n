@@ -5,12 +5,12 @@
 <!ENTITY askMe.accesskey "c">
 <!ENTITY convertPlain.label "Converti il messaggio in testo semplice">
 <!ENTITY convertPlain.accesskey "C">
-<!ENTITY sendHTML.label "Manda comunque il messaggio in HTML">
+<!ENTITY sendHTML.label "Invia comunque il messaggio in HTML">
 <!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Invia il messaggio sia in testo semplice sia in HTML">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Nota: utilizza la rubrica per specificare il formato testo preferito per ogni singolo destinatario.">
-<!ENTITY domaindesc.label "Quando si invia un messaggio ad un indirizzo appartenente ad uno dei domini presenti nel seguente elenco &brandShortName; manda automaticamente il messaggio nel formato corretto.">
+<!ENTITY domaindesc.label "Quando si invia un messaggio ad un indirizzo appartenente ad uno dei domini presenti nel seguente elenco &brandShortName; invia automaticamente il messaggio nel formato corretto.">
 <!ENTITY HTMLTab.label "Domini HTML">
 <!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Domini testo semplice">

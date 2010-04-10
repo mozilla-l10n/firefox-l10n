@@ -4,7 +4,7 @@
 <!ENTITY rights.intro "&brandFullName; è un software libero e aperto, realizzato da una comunità di migliaia di persone provenienti da tutto il mondo. Ci sono alcuni aspetti che è utile conoscere:">
 <!ENTITY rights.intro-point1a "&brandShortName; è disponibile nei termini della ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Questo significa che è possibile usare, copiare e distribuire &brandShortName; ad altre persone. Le modifiche al codice sorgente di &brandShortName; per adattarlo alle proprie esigenze sono benaccette. Inoltre, la Mozilla Public License garantisce il diritto di distribuire tali versioni modificate.">
+<!ENTITY rights.intro-point1c ". Questo significa che è possibile utilizzare, copiare e distribuire &brandShortName; ad altre persone. Le modifiche al codice sorgente di &brandShortName; per adattarlo alle proprie esigenze sono benaccette. Inoltre, la Mozilla Public License garantisce il diritto di distribuire tali versioni modificate.">
 <!ENTITY rights.intro-point2a "Mozilla non garantisce all'Utente alcun diritto per quanto riguarda l'utilizzo dei marchi registrati o dei logo Mozilla e Firefox. Ulteriori informazioni su questo argomento sono disponibili ">
 <!ENTITY rights.intro-point2b "in questa pagina">
 <!ENTITY rights.intro-point2c ".">

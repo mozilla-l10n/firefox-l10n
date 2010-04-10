@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Robert John Churchill <rjc@netscape.com>
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY search.button.label "Cerca">
 <!ENTITY allengines.label "Tutti i motori">
 <!ENTITY within.label "all'interno di">
@@ -47,3 +47,4 @@
 <!ENTITY previous.button.label "Precedenti">
 <!ENTITY next.button.tooltip "Visualizza i risultati seguenti">
 <!ENTITY previous.button.tooltip "Visualizza i risultati precedenti">
+

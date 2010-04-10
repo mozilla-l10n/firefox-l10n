@@ -17,17 +17,17 @@
 <!ENTITY featureConfigurator.toolbar.heading "Nuova barra degli strumenti">
 <!ENTITY featureConfigurator.toolbar.new.status "Si sta utilizzando la nuova barra degli strumenti.">
 <!ENTITY featureConfigurator.toolbar.original.status "Si sta utilizzando la versione precedente della barra degli strumenti.">
-<!ENTITY featureConfigurator.toolbarBenefits.para "Un'interfaccia più semplice rispetto al passato, che lascia più spazio al campo di ricerca interrattivo e ad eventuali componenti aggiuntivi.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Un'interfaccia più semplice rispetto al passato, che lascia più spazio al campo di ricerca interattivo e ad eventuali componenti aggiuntivi.">
 <!ENTITY featureConfigurator.toolbarAlternative.para "Se si preferisce utilizzare la versione precedente della barra degli strumenti, non si vuole ripetere la personalizzazione o si utilizza una visualizzazione in cui il pannello dei messaggi è nascosto.">
 <!ENTITY featureConfigurator.useOriginalToolbar.button "Attiva la vecchia versione della barra degli strumenti">
 <!ENTITY featureConfigurator.useNewToolbar.button "Attiva la nuova barra degli strumenti">
-<!ENTITY featureConfigurator.smartFolders.heading "Visualizzazione Cartelle smart">
-<!ENTITY featureConfigurator.smartFolders.smart.status "Si sta utilizzando la visualizzazione &quot;Cartelle smart&quot;.">
-<!ENTITY featureConfigurator.smartFolders.all.status "Non si sta utilizzando la visualizzazione &quot;Cartelle smart&quot;.">
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Progettata per utenti con molti account di posta, questa visualizzazione consente di raggruppare cartelle come la Posta in arrivo, ottenendo una visualizzazione complessiva e immediata dei messaggi.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Se si preferisce mantenere separati le informazioni nei diversi account, è consigliabile utilizzare la modalità di visualizzazione &quot;Tutte le cartelle&quot;.">
-<!ENTITY featureConfigurator.useSmartFolders.button "Attiva la visualizzazione &quot;Cartelle smart&quot;">
-<!ENTITY featureConfigurator.useAllFolders.button "Attiva la visualizzazione &quot;Tutte le cartelle&quot;">
+<!ENTITY featureConfigurator.unifiedFolders.heading "Modalità cartelle unificate">
+<!ENTITY featureConfigurator.unifiedFolders.smart.status "Si sta utilizzando la modalità &quot;cartelle unificate&quot;.">
+<!ENTITY featureConfigurator.unifiedFolders.all.status "Non si sta utilizzando la modalità &quot;cartelle unificate&quot;.">
+<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Questa modalità di visualizzazione permette agli utenti con diversi account di raggruppare le cartelle, come ad esempio la Posta in arrivo, in modo da avere una vista consolidata di tutta la posta.">
+<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Se si preferisce distribuire le informazioni fra più account, è consigliabile utilizzare la modalità &quot;Tutte le cartelle&quot;.">
+<!ENTITY featureConfigurator.useUnifiedFolders.button "attiva la modalità &quot;Cartelle unificate&quot;">
+<!ENTITY featureConfigurator.useAllFolders.button "attiva la visualizzazione &quot;Tutte le cartelle&quot;">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Intestazioni raggruppate">
 <!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 migliora la modalità di visualizzazione delle intestazioni, fornendo pulsanti per effettuare le operazioni più comuni sui messaggi. Sono comunque disponibili delle soluzioni alternative attraverso i ">
 <!ENTITY featureConfigurator.headerParaLinkName "componenti aggiuntivi">

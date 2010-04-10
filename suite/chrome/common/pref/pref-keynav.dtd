@@ -13,8 +13,9 @@
 <!ENTITY findAsYouTypeSound.label "Riproduci un suono quando non è possibile trovare il testo inserito">
 <!ENTITY findAsYouTypeSound.accesskey "R">
 <!ENTITY findAsYouTypeEnableAuto.label "Cerca il testo digitato all'interno della pagina:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "d">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "C">
 <!ENTITY findAsYouTypeAutoText.label "In tutto il testo della pagina">
-<!ENTITY findAsYouTypeAutoText.accesskey "I">
+<!ENTITY findAsYouTypeAutoText.accesskey "u">
 <!ENTITY findAsYouTypeAutoLinks.label "Solo nei collegamenti">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "S">
+

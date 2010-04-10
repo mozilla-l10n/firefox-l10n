@@ -1,128 +1,118 @@
-  = = = = = = = = = = = = = = SeaMonkey Leggimi = = = = = = = = = = = = = = =
+  = = = = = = = = = = = = = = SeaMonkey Read Me = = = = = = = = = = = = = = =
 
-  Grazie per aver scaricato SeaMonkey. Questo file contiene informazioni sui
-  seguenti argomenti:
+  Thank you for downloading SeaMonkey. This file contains information on the
+  following topics:
   
-  - Requisiti di sistema e hardware
-  - Installazione
-  - Dove sono memorizzate le informazioni
-  - Disinstallazione
-  - Come ottenere SeaMonkey
-  - Altre informazioni e impressioni d'uso
-  - Licenza
+  - System & Hardware Requirements
+  - Installation
+  - Where Information is Stored
+  - Uninstallation
+  - Getting SeaMonkey
+  - More Information & Feedback
+  - License
 
-  Per informazioni sui problemi noti e i problemi d'installazione, leggere le
-  note di versione. Possono essere trovate insieme alle versioni su
+  For information on known problems and installation issues, please read the
+  release notes. They can be found along with the releases at
   
   http://www.seamonkey-project.org/releases/.
 
 
-  Requisiti di sistema e hardware
-  -------------------------------
+  System & Hardware Requirements
+  ------------------------------
 
-  Requisiti di sistema:
+  System Requirements:
 
-  - Mac OS X 10.4 e successivi
+  - Mac OS X 10.4 and later
 
 
-  Requisiti hardware:
+  Hardware Requirements:
 
-  - computer Macintosh con processore Intel x86 o PowerPC G3/G4/G5
+  - Macintosh computer with an Intel x86 or PowerPC G3/G4/G5 processor
   - 256 MB RAM
-  - 200 MB di spazio libero su hard disk
+  - 200 MB of free hard disk space
 
 
-  Installazione
-  -------------
+  Installation
+  ------------
 
-  Per installare SeaMonkey, compiere i seguenti passi:
+  To install SeaMonkey, follow these steps:
 
-  1. Trascinare l'icona dell'applicazione SeaMonkey nella cartella Applicazioni
+  1. Drag the SeaMonkey application icon to the Applications folder
 
-  2. Smontare l'immagine disco
+  2. Eject the disk image
 
-  3. Se si vuole che SeaMonkey sia accessibile da Dock, trascinare l'icona
-     SeaMonkey dalla cartella Applicazioni al Dock
+  3. If you want SeaMonkey to be accessible from the Dock, drag the SeaMonkey
+     icon from the Applications folder to the Dock
 
 
-  Dove sono memorizzate le informazioni
-  -------------------------------------
+  Where Information is Stored
+  ---------------------------
 
-  Quando avvii SeaMonkey per la prima volta, viene creata una cartella
-  "SeaMonkey" in
+  When you run SeaMonkey for the first time, a "SeaMonkey" folder is created in
 
-  ~/Library/Application Support/ (dove ~ è la tua cartella home).
+  ~/Library/Application Support/ (where ~ is your home directory).
 
-  Le tue impostazioni, segnalibri, e-mail, password, ecc. sono memorizzate in
-  una cartella profilo dentro la cartella SeaMonkey. La cartella profilo è
-  situata in
+  Your personal settings, bookmarks, e-mail, passwords etc. are stored in a
+  profile folder inside the SeaMonkey folder. The profile folder is located at
 
-  ~/Library/Application Support/SeaMonkey/Profiles/[stringaCasuale.nomeProfilo].
+  ~/Library/Application Support/SeaMonkey/Profiles/[randomString.profileName].
 
-  SeaMonkey memorizza la sua cache in ~/Library/Cache/SeaMonkey. Certe
-  impostazioni (tipo l'ultima cartella usata per un salvataggio) sono
-  memorizzate in
+  SeaMonkey stores its cache in ~/Library/Cache/SeaMonkey. Certain settings
+  (like the last root folder used by the Save dialog) are stored in
 
   ~/Library/Preferences/org.mozilla.seamonkey.plist.
 
 
-  Disinstallazione
-  ----------------
+  Uninstallation
+  --------------
 
-  Per disinstallare SeaMonkey (mantenendo però le tue impostazioni, segnaibri,
-  ecc.), trascinare semplicemente l'icona SeaMonkey dalla tua cartella
-  Applicazioni al Cestino.
+  To uninstall SeaMonkey (but keep your personal settings, bookmarks etc.),
+  simply drag the SeaMonkey icon from your Applications folder to the Trash.
 
-  Per eliminare completamente tutte le tracce di SeaMonkey dal tuo computer
-  (incluse le tue impostazioni, segnalibri, e-mail, password, ecc.),
-  eseguire questi passi:
+  To completely remove all traces of SeaMonkey from your computer
+  (including your personal settings, bookmarks, e-mail, passwords etc.),
+  follow these steps:
 
-  1. Trascinare l'icona SeaMonkey dalla tua cartella Applicazioni al Cestino
+  1. Drag the SeaMonkey icon from your Applications folder to the Trash
 
-  2. Trascinare la cartella ~/Library/Application Support/SeaMonkey nel Cestino
+  2. Drag the ~/Library/Application Support/SeaMonkey folder to the Trash
 
-  3. Trascinare la cartella ~/Library/Cache/SeaMonkey nel Cestino
+  3. Drag the ~/Library/Cache/SeaMonkey folder to the Trash
 
-  4. Trascinare il file ~/Library/Preferences/org.mozilla.seamonkey.plist nel
-     Cestino
+  4. Drag the ~/Library/Preferences/org.mozilla.seamonkey.plist file to the
+     trash
 
 
-  Come ottenere SeaMonkey
-  -----------------------
+  Getting SeaMonkey
+  -----------------
 
-  Per poter eseguire delle prove, vengono fornite build notturne di SeaMonkey
-  regolarmente.
-  Esse rispecchiano lo stato di sviluppo corrente e possono contenere difetti.
+  For testing purposes, nightly builds of SeaMonkey are provided regularly.
+  They reflect the current development and may be buggy.
 
-  Le build notturne di date diverse sono disponibile sul sito FTP di
-  mozilla.org FTP presso
-  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/.
+  Nightly builds from various dates are available on the mozilla.org FTP site
+  at http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/.
 
-  Per le ultimissime build, vedere
+  For the very latest builds, see
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/.
 
-  Se stai cercando una versione più rifinita di SeaMonkey, puoi scaricare
-  le versioni ufficiali da
+  If you are looking for a more polished version of SeaMonkey, you can download
+  official releases from
   
   http://www.seamonkey-project.org/releases/.
 
+  More Information & Feedback
+  ---------------------------
 
-  Altre informazioni e impressioni d'uso
-  --------------------------------------
-
-  Per ulteriori informazioni su SeaMonkey, visita
-  http://www.seamonkey-project.org/.
-  Per segnalare errori o fornire impressioni d'uso, visita
-  http://www.seamonkey-project.org/dev/get-involved
-  e controlla Bugzilla presso https://bugzilla.mozilla.org/ per problemi noti,
-  linee guida su come segnalare i problemi, ed altro. Puoi ricevere aiuto per
-  Bugzilla andando col tuo client IRC nel canale #mozillazine su
-  irc.mozilla.org.
+  For more info on SeaMonkey, see http://www.seamonkey-project.org/. To submit
+  bugs or other feedback, see http://www.seamonkey-project.org/dev/get-involved
+  and check out Bugzilla at https://bugzilla.mozilla.org/ for known bugs,
+  bug-writing guidelines, and more. You can also get help with Bugzilla by
+  pointing your IRC client to #mozillazine at irc.mozilla.org.
 
 
-  Licenza
+  License
   -------
 
-  SeaMonkey è soggetto ai termini descritti nell'accordo di licenza
-  disponibile presso http://www.mozilla.org/legal/eula/seamonkey-en.html.
+  SeaMonkey is subject to the terms detailed in the license agreement
+  available at http://www.mozilla.org/legal/eula/seamonkey-en.html.

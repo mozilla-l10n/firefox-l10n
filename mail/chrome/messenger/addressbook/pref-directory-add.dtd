@@ -4,7 +4,7 @@
 <!ENTITY directoryName.accesskey "o">
 <!ENTITY directoryHostname.label "Nome host: ">
 <!ENTITY directoryHostname.accesskey "h">
-<!ENTITY directoryBaseDN.label "Dominio base: ">
+<!ENTITY directoryBaseDN.label "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey "b">
 <!ENTITY findButton.label "Trova">
 <!ENTITY findButton.accesskey "v">

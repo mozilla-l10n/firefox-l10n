@@ -1,11 +1,15 @@
 <!ENTITY pref.advanced.title "Avanzate">
+
 <!ENTITY prefEnableJava.caption "Funzioni che aiutano nell'interpretazione delle pagine web">
+
 <!ENTITY enbJavaCheck.label "Attiva Java">
 <!ENTITY enbJavaCheck.accesskey "A">
+
 <!ENTITY systemPref.caption "Preferenze di sistema">
 <!ENTITY systemPrefCheck.label "Utilizza preferenze del sistema">
 <!ENTITY systemPrefCheck.accesskey "U">
-<!ENTITY systemPref.desc "Spunta questo elemento per ereditare le preferenze dal sistema. Le impostazioni del sistema avranno la precedenza sulle preferenze di &brandShortName;">
-<!ENTITY prefCheckDefault.caption "Integrazione con il sistema">
-<!ENTITY prefCheckDefaultClient.label "Controlla le impostazioni predefinite dell'applicazione all'avvio">
+<!ENTITY systemPref.desc "Spuntare questo elemento per ereditare le preferenze dal sistema. Le impostazioni del sistema avranno la precedenza sulle preferenze di &brandShortName;">
+
+<!ENTITY prefCheckDefault.caption "System Integration">
+<!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">
 <!ENTITY prefCheckDefaultClient.accesskey "C">

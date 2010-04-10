@@ -1,3 +1,5 @@
+<!-- extracted from content/pref-cache.xul -->
+
 <!ENTITY pref.cache.title "Cache">
 <!ENTITY pref.cache.caption "Imposta opzioni cache">
 <!ENTITY cachePara "La cache mantiene copie di pagine web visitate di frequente sul proprio hard disk. (Facendo clic su Ricarica viene sempre caricata la versione più aggiornata della pagina)">
@@ -9,7 +11,7 @@
 <!ENTITY clearDiskCache.accesskey "c">
 <!ENTITY chooseDiskCacheFolder.label "Scegli cartella…">
 <!ENTITY chooseDiskCacheFolder.accesskey "S">
-<!ENTITY diskCacheFolderExplanation "I file della cache verranno memorizzati in una cartella chiamata &quot;Cache&quot; all'interno della cartella specificata. Riavvia &brandShortName; affinché le modifiche abbiano effetto.">
+<!ENTITY diskCacheFolderExplanation "I file della cache verranno memorizzati in una cartella chiamata &quot;Cache&quot; all'interno della cartella specificata. Riavviare &brandShortName; affinché le modifiche abbiano effetto.">
 <!ENTITY docCache "Confronta il documento nella cache con quello in rete:">
 <!ENTITY oncePsessionRadio.label "Una volta per sessione">
 <!ENTITY oncePsessionRadio.accesskey "U">
@@ -19,6 +21,7 @@
 <!ENTITY neverRadio.accesskey "M">
 <!ENTITY autoRadio.label "Quando la pagina è scaduta">
 <!ENTITY autoRadio.accesskey "Q">
+
 <!ENTITY prefetchTitle.label "Caricamento preventivo collegamenti">
 <!ENTITY enablePrefetch.label "Carica le pagine web collegate durante i tempi morti, in modo che le pagine progettate per la navigazione sequenziale possano essere caricate più agevolmente">
 <!ENTITY enablePrefetch.accesskey "w">
