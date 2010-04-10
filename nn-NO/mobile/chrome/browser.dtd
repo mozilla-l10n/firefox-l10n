@@ -35,7 +35,7 @@
 <!ENTITY formHelper.done           "Fullført">
 
 <!ENTITY addonsHeader.label        "Utvidingar">
-<!ENTITY addonsLocal.label         "Dine utvidingar">
+<!ENTITY addonsLocal.label         "Installerte utvidingar">
 <!ENTITY addonsUpdate.label        "Oppdater">
 <!ENTITY addonsRepo.label          "Hent tvidingar">
 <!ENTITY addonsRecommended.label   "Tilrådd">

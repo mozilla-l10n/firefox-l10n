@@ -9,7 +9,7 @@
 <!ENTITY  exceptions.accesskey        "n">
 
 <!ENTITY  enableJavaScript.label      "Tillat JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "c">
+<!ENTITY  enableJavaScript.accesskey  "T">
 <!ENTITY  advancedJS.label            "Avansert …">
 <!ENTITY  advancedJS.accesskey        "A">
 
