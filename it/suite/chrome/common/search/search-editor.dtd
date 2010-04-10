@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -34,19 +33,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY window.title.label "Personalizza ricerca">
 <!ENTITY allengines.label "Tutti i motori">
 <!ENTITY engine.column.label "Motori di ricerca">
 <!ENTITY category.label "Categoria:">
 <!ENTITY category.accesskey "C">
 <!ENTITY done.label "Fatto">
+
 <!ENTITY add.label "Aggiungi">
 <!ENTITY add.accesskey "A">
 <!ENTITY remove.label "Rimuovi">
 <!ENTITY remove.accesskey "R">
+
 <!ENTITY new.category.label "Nuovo…">
 <!ENTITY new.category.accesskey "N">
 <!ENTITY rename.category.label "Rinomina…">
 <!ENTITY rename.category.accesskey "n">
 <!ENTITY remove.category.label "Elimina">
-<!ENTITY remove.category.accesskey "E">
+<!ENTITY remove.category.accesskey "e">

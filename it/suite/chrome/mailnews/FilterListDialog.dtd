@@ -1,4 +1,4 @@
-<!ENTITY filterListDialog.title "Filtri per i messaggi">
+<!ENTITY filterListDialog.title "Message Filters">
 <!ENTITY nameColumn.label "Nome filtro">
 <!ENTITY activeColumn.label "Attivato">
 <!ENTITY newButton.label "Nuovo…">

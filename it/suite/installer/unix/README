@@ -1,140 +1,137 @@
 ==========================================================================
 
-= = = = = = = = = = = = =  SeaMonkey Leggimi   = = = = = = = = = = = = = =
+= = = = = = = = = = = = =  SeaMonkey Read Me   = = = = = = = = = = = = = =
 
 ==========================================================================
 
-SeaMonkey è soggetto ai termini dell'accordo di licenza con cui viene
-distribuito.
+SeaMonkey is subject to the terms detailed in the license agreement
+accompanying it.
 
-Questo file Leggimi contiene informazioni sui requisiti di sistema e
-le istruzioni di installazione per le versioni Linux di SeaMonkey.
+This Read Me file contains information about system requirements and
+installation instructions for the Linux builds of SeaMonkey.
 
-Per ulteriori informazioni su SeaMonkey, visita
-http://www.seamonkey-project.org/
-Per segnalare bug o fornire impressioni d'uso, visita
-http://www.seamonkey-project.org/dev/get-involved e controlla Bugzilla
-presso https://bugzilla.mozilla.org/ per link ai bug noti, linee guida per
-la scrittura dei bug, ed altro. Puoi anche ricevere aiuto su Bugzilla andando
-con il tuo client IRC sul canale #mozillazine su irc.mozilla.org.
+For more info on SeaMonkey, see http://www.seamonkey-project.org/
+To submit bugs or other feedback, see
+http://www.seamonkey-project.org/dev/get-involved and check out Bugzilla
+at https://bugzilla.mozilla.org/ for links to known bugs, bug-writing
+guidelines, and more. You can also get help with Bugzilla by pointing your
+IRC client to #mozillazine at irc.mozilla.org.
 
-
-==========================================================================
-
-                        Come procurarsi SeaMonkey
 
 ==========================================================================
 
-Puoi scaricare le versioni notturne di SeaMonkey dal sito FTP di mozilla.org
+                          Getting SeaMonkey
+
+==========================================================================
+
+You can download nightly builds of SeaMonkey from the mozilla.org FTP site
+at
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
 
-Per le versioni più recenti, visita
+For the very latest builds, see
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
 
-Tieni presente che le versioni notturne sono usate dagli sviluppatori di
-mozilla.org per eseguire test e possono essere difettose. Se stai cercando una
-versione più rifinita di SeaMonkey, il progetto SeaMonkey offre versioni
-ufficiali di SeaMonkey a intervalli regolari che puoi scaricare da
+Keep in mind that nightly builds, which are used by mozilla.org developers
+for testing, may be buggy. If you are looking for a more polished version
+of SeaMonkey, the SeaMonkey project releases builds of SeaMonkey regularly
+that you can download from
 
   http://www.seamonkey-project.org/releases/
 
-Assicurati di leggere le note di versione di SeaMonkey per informazioni sui
-problemi noti e i problemi d'installazione di SeaMonkey. Le note di versione
-si trovano all'URL precedente insieme agli eseguibili stessi.
+Be sure to read the SeaMonkey release notes for information on known
+problems and installation issues with SeaMonkey.  The release notes can be
+found at the preceding URL along with the releases themselves.
 
 
 ==========================================================================
 
-                         Requisiti di sistema
+                         System Requirements
 
 ==========================================================================
 
 * Linux
 
-   - Sono necessarie le seguenti versioni di librerie (o compatibili):
+   - The following library versions (or compatible) are required:
      glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
-     Le installazioni Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10
-     ("Edgy"), Debian "Lenny" (testing), e openSUSE 10.2 (o successivi)
-     dovrebbero funzionare.
-   - Processore di classe Intel Pentium (consigliato a 500 MHz o più veloce)
+     Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10 ("Edgy"),
+     Debian "Lenny" (testing), and openSUSE 10.2 (or later) installations
+     should work.
+   - Intel Pentium class processor (500 MHz or faster recommended)
    - 128 MB RAM
-   - 50 MB di spazio libero su hard disk
+   - 50 MB free hard disk space
 
 
 ==========================================================================
 
-                      Istruzioni d'installazione
+                      Installation Instructions
 
 ==========================================================================
 
-Le istruzioni di installazione fanno riferimento alla shell bash shell. Se
-non utilizzi bash, devi modificare i comandi di conseguenza.
+Note that the installation instructions use the bash shell. If you're not
+using bash, adjust the commands accordingly.
 
-Installa in una cartella pulita (nuova).
-Installare sopra una versione precedente potrebbe causare problemi.
+Install into a clean (new) directory.
+Installing on top of previously released builds may cause problems.
 
-Nota: Queste istruzioni non spiegano come compilare SeaMonkey.
-Per informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org,
-visita
+Note: These instructions do not tell you how to build SeaMonkey.
+For info on building SeaMonkey from the mozilla.org source code, see
 
   http://developer.mozilla.org/en/docs/Build_Documentation
 
 
-Istruzioni d'installazione
+Installation Instructions
 -------------------------------
 
-  Nota: Non c'è alcun installer disponibile, ma la sola estrazione del tar.bz2
-  nella cartella predefinita (di solito /usr/local/seamonkey) ottiene lo
-  stesso risultato.
+  Note: There is no installer available, but just extracting the tar.bz2
+  to the default directory (usually /usr/local/seamonkey) achieves the
+  same result as an installer would.
 
-  Per installare SeaMonkey scaricando il file tar.bz2:
+  To install SeaMonkey by downloading the tar.bz2 file:
 
-  1. Crea una cartella con nome "seamonkey" (mkdir seamonkey) e poniti
-     dentro di essa (cd seamonkey).
+  1. Create a directory named "seamonkey" (mkdir seamonkey) and change
+     to that directory (cd seamonkey).
 
-  2. Fai clic sul link sul sito da cui stai scaricando SeaMonkey per
-     eseguire il download del pacchetto (seamonkey*.tar.bz2) nella cartella
-     seamonkey.
+  2. Click the link on the site you're downloading SeaMonkey from to
+     download the package (seamonkey*.tar.bz2) file into the seamonkey
+     directory.
 
-  3. Passa nella cartella seamonkey (cd seamonkey) e decomprimi il
-     file con il comando seguente:
+  3. Change to the seamonkey directory (cd seamonkey) and decompress the
+     file with the following command:
 
        tar jxvf sea*.tar.bz2
 
-     Ciò creerà una cartella "seamonkey" all'interno della cartella seamonkey.
+     This creates a "seamonkey" directory under your seamonkey directory.
 
-  4. Passa nella cartella seamonkey (cd seamonkey).
+  4. Change to the seamonkey directory (cd seamonkey).
 
-  5. Fai partire SeaMonkey con il seguente script di avvio:
+  5. Run SeaMonkey with the following run script:
 
     ./seamonkey
 
 
-  Per collegare SeaMonkey e la sua icona nel Pannello GNOME,
-  eseguire questa procedura:
+  To hook up SeaMonkey complete with icon to the GNOME Panel,
+  follow these steps:
 
-  1. Fai clic sul pulsante menu principale di GNOME, apri il menu Panello, e
-     poi apri il sotto menu Aggiungi al Panello e scegli Lanchiatore.
+  1. Click the GNOME Main Menu button, open the Panel menu, and then open
+     the Add to Panel submenu and choose Launcher.
 
-  2. Fai clic col tasto destr sull'icona di SeaMonkey sul Panello e inserisci
-     il comando seguente:
+  2. Right-click the icon for SeaMonkey on the Panel and enter the
+     following command:
 
-       nome_cartella./seamonkey
+       directory_name./seamonkey
 
-     dove nome_cartella è il nome della cartella in cui hasi scaricato
-     SeaMonkey. Ad esempio, la cartella predefinita che SeaMonkey
-     suggerisce è /usr/local/seamonkey.
+     where directory_name is the name of the directory you downloaded
+     SeaMonkey to. For example, the default directory that SeaMonkey
+     suggests is /usr/local/seamonkey.
 
-  3. Inserisci un nome per l'icona, e inserisci un commento se lo ritieni
-     opportuno.
+  3. Type in a name for the icon, and type in a comment if you wish.
 
-  4. Fai clic sul pulsante icona e scrivi ciò che segue come indirizzo
-     dell'icona:
+  4. Click the icon button and type in the following as the icon's location:
 
-       nome_cartella/chrome/icons/default/default.png
+       directory_name/chrome/icons/default/default.png
 
-     dove nome_cartella è la cartella in cui hai installato SeaMonkey.
-     Ad esempio, se si usa la cartella predefinita, si ha
+     where directory_name is the directory where you installed SeaMonkey.
+     For example, the default directory is
      /usr/local/seamonkey/chrome/icons/default/default.png.

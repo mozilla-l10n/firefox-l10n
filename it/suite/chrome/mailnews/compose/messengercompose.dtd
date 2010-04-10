@@ -1,10 +1,15 @@
 <!ENTITY msgComposeWindow.title "Composizione di: (nessun oggetto)">
+
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY subject.label "Oggetto:">
-<!ENTITY subject.accesskey "t">
+<!ENTITY subject.accesskey "O">
 <!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "A">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
 <!ENTITY newMessage.label "Messaggio">
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY saveCmd.label "Salva">
@@ -37,6 +42,8 @@
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "m">
+
+<!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Riformatta">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "f">
@@ -53,24 +60,33 @@
 <!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY accountManagerCmd.label "Configurazione account posta…">
 <!ENTITY accountManagerCmd.accesskey "n">
+
+<!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "Barra degli strumenti">
 <!ENTITY showComposeToolbarCmd.accesskey "m">
 <!ENTITY showFormatToolbarCmd.label "Barra di formattazione">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
+
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "r">
+
+<!-- Options menu items -->
 <!ENTITY optionsMenu.label "Opzioni">
 <!ENTITY optionsMenu.accesskey "O">
+
 <!ENTITY quoteCmd.label "Cita messaggio">
 <!ENTITY quoteCmd.accesskey "C">
 <!ENTITY selectAddressCmd.label "Selezione indirizzi…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "i">
+
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
 <!ENTITY enableInlineSpellChecker.accesskey "C">
+
 <!ENTITY priorityMenu.label "Priorità">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY lowestPriorityCmd.label "Minima">
@@ -83,6 +99,7 @@
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Massima">
 <!ENTITY highestPriorityCmd.accesskey "s">
+
 <!ENTITY returnReceiptMenu.label "Ricevuta di ritorno">
 <!ENTITY returnReceiptMenu.accesskey "R">
 <!ENTITY outputFormatMenu.label "Formato">
@@ -95,15 +112,18 @@
 <!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Testo semplice e HTML">
 <!ENTITY bothFormatCmd.accesskey "T">
+
 <!ENTITY fileCarbonCopyCmd.label "Salva copia in">
 <!ENTITY fileCarbonCopyCmd.accesskey "c">
 <!ENTITY fileHereMenu.label "Archivia qua">
+
 <!ENTITY sendButton.label "Spedisci">
 <!ENTITY addressButton.label "Destinatari">
 <!ENTITY attachButton.label "Allega">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salva">
-<!ENTITY stopButton.label "Interrompi">
+<!ENTITY stopButton.label "Stop">
+
 <!ENTITY addressBar.tooltip "Barra degli indirizzi">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
 <!ENTITY sendButton.tooltip "Spedisce ora questo messaggio">
@@ -112,6 +132,8 @@
 <!ENTITY attachButton.tooltip "Aggiungi un allegato">
 <!ENTITY saveButton.tooltip "Salva questo messaggio come bozza">
 <!ENTITY stopButton.tooltip "Interrompe il trasferimento in corso">
+
+<!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "(Nessun suggerimento trovato)">
 <!ENTITY spellCheckIgnoreWord.label "Ignora parola">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -127,6 +149,7 @@
 <!ENTITY paste.accesskey "I">
 <!ENTITY pasteQuote.label "Incolla come citazione">
 <!ENTITY pasteQuote.accesskey "z">
+
 <!ENTITY openAttachment.label "Apri">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Elimina">

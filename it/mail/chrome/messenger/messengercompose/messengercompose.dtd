@@ -155,8 +155,8 @@
 <!ENTITY preferencesCmdUnix.accesskey "p">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizza">
-<!ENTITY bringAllToFront.label "Portare tutto in primo piano">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "Porta tutto in primo piano">
+<!ENTITY zoomWindow.label "Ridimensiona">
 <!ENTITY windowMenu.label "Finestra">
 <!ENTITY sendButton.label "Invia">
 <!ENTITY quoteButton.label "Cita">

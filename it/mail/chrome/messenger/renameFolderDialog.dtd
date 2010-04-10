@@ -22,7 +22,6 @@
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
    -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,3 +39,5 @@
 <!ENTITY renameFolderDialog.title "Rinomina cartella">
 <!ENTITY rename.label "Inserire un nome per la cartella:">
 <!ENTITY rename.accesskey "I">
+<!ENTITY accept.label "Rinomina">
+<!ENTITY accept.accesskey "R">

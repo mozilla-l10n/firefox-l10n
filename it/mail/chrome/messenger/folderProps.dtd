@@ -24,7 +24,6 @@
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
    -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -47,7 +46,7 @@
 <!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFile.label "Ricostruisci gli indici">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci il file sommario">
+<!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci il file degli indici">
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseAccount.label "Usa le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">

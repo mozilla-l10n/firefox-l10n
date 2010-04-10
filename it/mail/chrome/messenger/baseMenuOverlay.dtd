@@ -2,7 +2,7 @@
 <!ENTITY helpMenu.accesskey "u">
 <!ENTITY helpMenuWin.label "Aiuto">
 <!ENTITY helpMenuWin.accesskey "u">
-<!ENTITY releaseCmd.label "Note di rilascio">
+<!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novità">
 <!ENTITY whatsNewCmd.accesskey "o">

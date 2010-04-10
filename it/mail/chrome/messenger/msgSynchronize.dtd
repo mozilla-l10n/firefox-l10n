@@ -1,6 +1,6 @@
 <!ENTITY MsgSynchronize.label "Ricezione e sincronizzazione messaggi">
 <!ENTITY MsgSelect.label "Elementi per uso non in linea">
-<!ENTITY MsgSyncDesc.label "Se sono già state scelte le cartelle da utilizzare una volta non in linea, è possibile scaricare il loro contenuto o sincronizzarle. Altrimenti usare il pulsante &quot;Seleziona&quot; per aggiungere o rimuovere cartelle da usare non in linea.">
+<!ENTITY MsgSyncDesc.label "Se sono già state scelte le cartelle da utilizzare una volta non in linea, è possibile scaricare il loro contenuto o sincronizzarle. Altrimenti utilizzare il pulsante &quot;Seleziona&quot; per aggiungere o rimuovere le cartelle da utilizzare non in linea.">
 <!ENTITY MsgSyncDirections.label "Scarica e/o sincronizza i seguenti:">
 <!ENTITY syncTypeMail.label "Messaggi di posta">
 <!ENTITY syncTypeMail.accesskey "M">
@@ -12,6 +12,6 @@
 <!ENTITY workOffline.accesskey "c">
 <!ENTITY selectButton.label "Seleziona…">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desidera usare quando si è non in linea.">
+<!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desidera utilizzare quando si è non in linea.">
 <!ENTITY MsgSelectInd.label "Da scaricare">
 <!ENTITY MsgSelectItems.label "Cartelle e gruppi di discussione">

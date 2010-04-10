@@ -1,124 +1,122 @@
 ==========================================================================
 
-= = = = = = = = = = = = =  SeaMonkey Leggimi   = = = = = = = = = = = = = =
+= = = = = = = = = = = = =  SeaMonkey Read Me   = = = = = = = = = = = = = =
 
 ==========================================================================
 
-SeaMonkey è soggetto ai termini dell'accordo di licenza con cui viene
-distribuito.
+SeaMonkey is subject to the terms detailed in the license agreement
+accompanying it.
 
-Questo file Leggimi contiene informazioni sui requisiti di sistema e
-le istruzioni di installazione per le versioni Windows di SeaMonkey.
+This Read Me file contains information about system requirements and
+installation instructions for the Windows builds of SeaMonkey.
 
-Per ulteriori informazioni su SeaMonkey, visita
-http://www.seamonkey-project.org/
-Per segnalare bug o fornire impressioni d'uso, visita
-http://www.seamonkey-project.org/dev/get-involved e controlla Bugzilla
-presso https://bugzilla.mozilla.org/ per link ai bug noti, linee guida per
-la scrittura dei bug, ed altro. Puoi anche ricevere aiuto su Bugzilla andando
-con il tuo client IRC sul canale #mozillazine su irc.mozilla.org.
+For more info on SeaMonkey, see http://www.seamonkey-project.org/
+To submit bugs or other feedback, see
+http://www.seamonkey-project.org/dev/get-involved and check out Bugzilla
+at https://bugzilla.mozilla.org/ for links to known bugs, bug-writing
+guidelines, and more. You can also get help with Bugzilla by pointing your
+IRC client to #mozillazine at irc.mozilla.org.
 
-
-==========================================================================
-
-                        Come procurarsi SeaMonkey
 
 ==========================================================================
 
-Puoi scaricare le versioni notturne di SeaMonkey dal sito FTP di mozilla.org
+                          Getting SeaMonkey
+
+==========================================================================
+
+You can download nightly builds of SeaMonkey from the mozilla.org FTP site
+at
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
 
-Per le versioni più recenti, visita
+For the very latest builds, see
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
 
-Tieni presente che le versioni notturne sono usate dagli sviluppatori di
-mozilla.org per eseguire test e possono essere difettose. Se stai cercando una
-versione più rifinita di SeaMonkey, il progetto SeaMonkey offre versioni
-ufficiali di SeaMonkey a intervalli regolari che puoi scaricare da
+Keep in mind that nightly builds, which are used by mozilla.org developers
+for testing, may be buggy. If you are looking for a more polished version
+of SeaMonkey, the SeaMonkey project releases builds of SeaMonkey regularly
+that you can download from
 
   http://www.seamonkey-project.org/releases/
 
-Assicurati di leggere le note di versione di SeaMonkey per informazioni sui
-problemi noti e i problemi d'installazione di SeaMonkey. Le note di versione
-si trovano all'URL precedente insieme agli eseguibili stessi.
+Be sure to read the SeaMonkey release notes for information on known
+problems and installation issues with SeaMonkey.  The release notes can be
+found at the preceding URL along with the releases themselves.
 
 
 ==========================================================================
 
-                         Requisiti di sistema
+                         System Requirements
 
 ==========================================================================
 
 *Windows
 
-   - Windows 2000, XP o Vista
-   - Processore di classe Intel Pentium (consigliato a 500 MHz o più veloce)
+   - Windows 2000, XP or Vista
+   - Intel Pentium class processor (500 MHz or faster recommended)
    - 128 MB RAM
-   - 50 MB di spazio libero su hard disk
+   - 50 MB free hard disk space
 
 
 ==========================================================================
 
-                      Istruzioni d'installazione
+                      Installation Instructions
 
 ==========================================================================
 
-Si consiglia caldamente di uscire da tutti i programmi prima di avviare
-l'installazione. Inoltre, sarebbe meglio disattivare temporaneamene il
-antivirus.
+It is strongly recommended that you exit all programs before running the
+setup program. Also, you should temporarily disable virus-detection
+software.
 
-Installa in una cartella pulita (nuova).
-Installare sopra una versione precedente potrebbe causare problemi.
+Install into a clean (new) directory. Installing on top of previously
+released builds may cause problems.
 
-Nota: Queste istruzioni non spiegano come compilare SeaMonkey.
-Per informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org,
-visita
+Note: These instructions do not tell you how to build SeaMonkey.
+For info on building SeaMonkey from the mozilla.org source code, see
 
   http://developer.mozilla.org/en/docs/Build_Documentation
 
 
-Istruzioni d'installazione Windows
-----------------------------------
+Windows Installation Instructions
+---------------------------------
 
-Nota: Per i sistemi con Windows 2000/XP, devi possedere i privilegi di
-Amministratore per installare SeaMonkey. Se vedi un messaggio "Errore 5"
-durante l'installazione, assicurati di aver avviato l'installazione con
-i privilegi di Amministratore.
-
-
-   Per installare SeaMonkey scaricandone l'installer, eseguire questa
-   procedura:
-
-   1. Fai clic sul link a seamonkey-x.xx.it.win32.installer.exe (o
-      sul file con nome simile) sul sito da cui stai scaricando SeaMonkey
-      per eseguire il download del file d'installazione sul tuo computer.
-
-   2. Naviga fino a dove hai scaricato il file e fai doppio clic sull'icona
-      del file d'installazione per avviarla.
-
-   3. Segui le istruzioni a video del programma. Il programma partirà
-      automaticamente la prima volta.
+Note: For Windows 2000/XP systems, you need Administrator privileges to
+install SeaMonkey. If you see an "Error 5" message during installation,
+make sure you're running the installation with Administrator privileges.
 
 
-   Per installare SeaMonkey scaricando il file .zip ed installando
-   manualmente, esegui questa procedura:
+   To install SeaMonkey by downloading the SeaMonkey installer,
+   follow these steps:
 
-   1. Fai clic sul link a seamonkey-x.xx.it.win32.zip (o sul file con nome
-      simile) sul sito da cui stai scaricando SeaMonkey per eseguire il
-      download del file .zip sul tuo computer.
+   1. Click the link to seamonkey-x.xx.en-US.win32.installer.exe (or
+      similar file name) on the site you're downloading SeaMonkey from to
+      download the installer file to your machine.
 
-   2. Naviga fino a dove hai scaricato il file e fai doppio clic sul
-      file compresso.
+   2. Navigate to where you downloaded the file and double-click the
+      installer file icon on your machine to begin the Setup program.
 
-      Nota: Questo passo presume che hai già installata una versione recente
-      di WinZip (ouno strumento zip paragonabile), e che sai come usarlo.
-      Se così non fosse, puoi scaricare WinZip e avere informazioni su di esso
-      presso www.winzip.com.
+   3. Follow the on-screen instructions in the setup program. The program
+      starts automatically the first time.
 
-   3. Estrai il file .zip in una cartella tipo
-        C:\Programmi\mozilla.org\SeaMonkey.
 
-   4. Per avviare SeaMonkey, naviga fino alla cartella in cui hai estratto
-      SeaMonkey e fai doppio clic sull'icona seamonkey.exe.
+   To install SeaMonkey by downloading the .zip file and installing
+   manually, follow these steps:
+
+   1. Click the link to seamonkey-x.xx.en-US.win32.zip (or similar file
+      name) on the site you're downloading SeaMonkey from to download the
+      .zip file to your machine.
+
+   2. Navigate to where you downloaded the file and double-click the
+      compressed file.
+
+      Note: This step assumes you already have a recent version of WinZip
+      (or a similar zip tool) installed, and that you know how to use it.
+      If not, you can get WinZip and information about the program at
+      www.winzip.com.
+
+   3. Extract the .zip file to a directory such as
+        C:\Program Files\mozilla.org\SeaMonkey.
+
+   4. To start SeaMonkey, navigate to the directory you extracted
+      SeaMonkey to and double-click the seamonkey.exe icon.

@@ -1,3 +1,4 @@
+<!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label "Respingi pop-up di questo sito">
 <!ENTITY popupWindowRejectCmd.accesskey "">
 <!ENTITY popupWindowAllowCmd.label "Consenti pop-up di questo sito">
@@ -7,7 +8,7 @@
 <!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "h">
 <!ENTITY openLinkInWindowCmd.label "Apri">
-<!ENTITY openLinkInWindowCmd.accesskey "r">
+<!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
 <!ENTITY openFrameCmd.accesskey "A">
 <!ENTITY openFrameCmdInTab.label "Apri riquadro in nuova scheda">
@@ -23,37 +24,37 @@
 <!ENTITY reloadCmd.label "Ricarica">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY stopCmd.label "Interrompi">
-<!ENTITY stopCmd.accesskey "n">
+<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadFrameCmd.label "Ricarica riquadro">
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Mostra sorgente selezione">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Mostra sorgente MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "n">
+<!ENTITY viewPartialSourceCmd.accesskey "g">
 <!ENTITY viewPageSourceCmd.label "Visualizza sorgente pagina">
-<!ENTITY viewPageSourceCmd.accesskey "z">
+<!ENTITY viewPageSourceCmd.accesskey "g">
 <!ENTITY viewFrameSourceCmd.label "Visualizza sorgente riquadro">
 <!ENTITY viewFrameSourceCmd.accesskey "u">
 <!ENTITY viewPageInfoCmd.label "Visualizza info pagina">
-<!ENTITY viewPageInfoCmd.accesskey "f">
+<!ENTITY viewPageInfoCmd.accesskey "V">
 <!ENTITY viewFrameInfoCmd.label "Visualizza informazioni sul riquadro">
 <!ENTITY viewFrameInfoCmd.accesskey "n">
 <!ENTITY fitImageCmd.label "Adatta dimensioni alla finestra">
 <!ENTITY fitImageCmd.accesskey "A">
-<!ENTITY reloadImageCmd.label "Ricarica immagine">
-<!ENTITY reloadImageCmd.accesskey "a">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "e">
 <!ENTITY viewImageCmd.label "Visualizza immagine">
 <!ENTITY viewImageCmd.accesskey "m">
-<!ENTITY viewVideoCmd.label "Mostra video">
+<!ENTITY viewVideoCmd.label "View Video">
 <!ENTITY viewVideoCmd.accesskey "i">
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
-<!ENTITY viewBGImageCmd.accesskey "d">
+<!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setWallpaperCmd.label "Imposta come sfondo">
 <!ENTITY setWallpaperCmd.accesskey "f">
 <!ENTITY bookmarkPageCmd.label "Aggiungi pagina nei segnalibri">
 <!ENTITY bookmarkPageCmd.accesskey "b">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi collegamento nei segnalibri…">
-<!ENTITY bookmarkLinkCmd.accesskey "t">
+<!ENTITY bookmarkLinkCmd.accesskey "g">
 <!ENTITY bookmarkFrameCmd.label "Aggiungi questo riquadro nei segnalibri">
 <!ENTITY bookmarkFrameCmd.accesskey "b">
 <!ENTITY savePageAsCmd.label "Salva pagina con nome…">
@@ -65,13 +66,13 @@
 <!ENTITY saveFrameCmd.accesskey "S">
 <!ENTITY saveLinkAsCmd.label "Salva destinazione con nome…">
 <!ENTITY saveLinkCmd.label "Salva destinazione">
-<!ENTITY saveLinkCmd.accesskey "z">
+<!ENTITY saveLinkCmd.accesskey "v">
 <!ENTITY saveImageAsCmd.label "Salva immagine con nome…">
 <!ENTITY saveImageCmd.label "Salva immagine">
 <!ENTITY saveImageCmd.accesskey "l">
-<!ENTITY saveVideoCmd.label "Salva video come…">
+<!ENTITY saveVideoCmd.label "Save Video As…">
 <!ENTITY saveVideoCmd.accesskey "v">
-<!ENTITY saveAudioCmd.label "Salva audio come…">
+<!ENTITY saveAudioCmd.label "Save Audio As…">
 <!ENTITY saveAudioCmd.accesskey "v">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.accesskey "C">
@@ -81,9 +82,9 @@
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia immagine">
 <!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyVideoURLCmd.label "Copia indirizzo video">
+<!ENTITY copyVideoURLCmd.label "Copy Video Location">
 <!ENTITY copyVideoURLCmd.accesskey "o">
-<!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
+<!ENTITY copyAudioURLCmd.label "Copy Audio Location">
 <!ENTITY copyAudioURLCmd.accesskey "o">
 <!ENTITY metadataCmd.label "Proprietà">
 <!ENTITY metadataCmd.accesskey "P">
@@ -101,31 +102,29 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Questo riquadro">
 <!ENTITY thisFrameMenu.accesskey "Q">
-<!ENTITY mediaPlay.label "Riproduci">
-<!ENTITY mediaPlay.accesskey "R">
-<!ENTITY mediaPause.label "Pausa">
+<!ENTITY mediaPlay.label "Play">
+<!ENTITY mediaPlay.accesskey "P">
+<!ENTITY mediaPause.label "Pause">
 <!ENTITY mediaPause.accesskey "P">
-<!ENTITY mediaMute.label "Disattiva audio">
-<!ENTITY mediaMute.accesskey "D">
-<!ENTITY mediaUnmute.label "Attiva audio">
-<!ENTITY mediaUnmute.accesskey "A">
-<!ENTITY mediaShowControls.label "Mostra controlli multimediali">
+<!ENTITY mediaMute.label "Mute">
+<!ENTITY mediaMute.accesskey "M">
+<!ENTITY mediaUnmute.label "Unmute">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Show Media Controls">
 <!ENTITY mediaShowControls.accesskey "a">
-<!ENTITY mediaHideControls.label "Nascondi controlli multimediali">
+<!ENTITY mediaHideControls.label "Hide Media Controls">
 <!ENTITY mediaHideControls.accesskey "a">
-<!ENTITY videoFullScreen.label "A tutto schermo">
-<!ENTITY videoFullScreen.accesskey "u">
-<!ENTITY search.accesskey "w">
+<!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambia direzione testo">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
 <!ENTITY spellAddToDictionary.label "Aggiungi al dizionario">
-<!ENTITY spellAddToDictionary.accesskey "z">
-<!ENTITY spellIgnoreWord.label "Ignora parola">
-<!ENTITY spellIgnoreWord.accesskey "I">
-<!ENTITY spellCheckEnable.label "Controlla ortografia">
-<!ENTITY spellCheckEnable.accesskey "C">
+<!ENTITY spellAddToDictionary.accesskey "d">
+<!ENTITY spellIgnoreWord.label "Ignore Word">
+<!ENTITY spellIgnoreWord.accesskey "W">
+<!ENTITY spellCheckEnable.label "Check Spelling">
+<!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Nessun suggerimento ortografico)">
 <!ENTITY spellDictionaries.label "Lingue">
 <!ENTITY spellDictionaries.accesskey "L">

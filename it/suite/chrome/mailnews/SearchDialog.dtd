@@ -1,3 +1,5 @@
+
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "Cerca tra i messaggi in:">
 <!ENTITY searchHeading.accesskey "n">
 <!ENTITY searchSubfolders.label "Cerca nelle sottocartelle">
@@ -6,6 +8,8 @@
 <!ENTITY searchLocalSystem.accesskey "u">
 <!ENTITY resetButton.label "Cancella">
 <!ENTITY resetButton.accesskey "a">
+<!ENTITY helpButton.label "Guida">
+<!ENTITY helpButton.accesskey "G">
 <!ENTITY openButton.label "Apri">
 <!ENTITY openButton.accesskey "p">
 <!ENTITY deleteButton.label "Elimina">
@@ -20,6 +24,8 @@
 <!ENTITY goToFolderButton.accesskey "l">
 <!ENTITY saveAsVFButton.label "Salva come cartella di ricerca">
 <!ENTITY saveAsVFButton.accesskey "v">
+
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Cerca in:">
 <!ENTITY abSearchHeading.accesskey "n">
 <!ENTITY propertiesButton.label "Proprietà">
@@ -27,3 +33,4 @@
 <!ENTITY composeButton.label "Componi">
 <!ENTITY composeButton.accesskey "o">
 <!ENTITY abSearchDialogTitle.label "Ricerca avanzata Rubrica">
+

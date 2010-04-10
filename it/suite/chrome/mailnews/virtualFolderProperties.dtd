@@ -3,9 +3,12 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Crea come sottocartella di:">
 <!ENTITY description.accesskey "C">
+
 <!ENTITY searchTermCaption.label "Configura i criteri di ricerca utilizzati per questa cartella virtuale salvata:">
+
 <!ENTITY folderSelectionCaption.label "Selezionare le cartelle per la ricerca: ">
 <!ENTITY chooseFoldersButton.label "Scegli…">
 <!ENTITY chooseFoldersButton.accesskey "c">
+
 <!ENTITY searchOnline.label "Ricerca in linea (restituisce risultati aggiornati per le cartelle IMAP e Gruppi di discussione, ma accresce il tempo necessario all'apertura della cartella)">
 <!ENTITY searchOnline.accesskey "R">
