@@ -2,9 +2,6 @@
 <!ENTITY aboutButton.label      "&lt; Tilbake">
 <!ENTITY aboutButton.accesskey  "T">
 <!ENTITY aboutVersion           "versjon">
-<!ENTITY copyrightText          "&#169;1998-2009 Bidragsytere. Alle rettigheter forbeholdt. Mozilla Thunderbird og
-                                 Thunderbird-logoene er varemerker som tilhører Mozilla Foundation.  Alle
-                                 rettigheter forbeholdt.">
 <!ENTITY aboutMenu.label        "Om">
 <!ENTITY aboutMenu.accesskey    "O">
 <!ENTITY aboutCredits.label     "Bidragsytere">

@@ -6,9 +6,15 @@
 <!ENTITY enableJavaScript.title                    "Slå på JavaScript">
 <!ENTITY enablePlugins.title                       "Slå på programtillegg">
 <!ENTITY privacy.title                             "Personvern og sikkerhet">
-<!ENTITY allowCookies.title                        "Tillat informasjonskapsler">
+<!ENTITY allowCookies.title                        "Tillat infokapsler">
 <!ENTITY clearPrivateData2.title                   "Slett privat data">
 <!ENTITY clearPrivateData.button                   "Slett">
 <!ENTITY rememberPasswords.title                   "Husk passord">
 <!ENTITY language.title                            "Språk">
 <!ENTITY language.auto                             "Oppdag automatisk">
+<!ENTITY defaultBrowser.title                      "Standard nettleser">
+<!ENTITY defaultBrowser.description                "Gjør &brandShortName; til standard nettleser">
+<!ENTITY homepage.title                            "Startside">
+<!ENTITY homepage.none                             "Tom side">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Bruk aktiv side">
