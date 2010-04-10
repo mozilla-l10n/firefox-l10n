@@ -12,3 +12,5 @@
 <!ENTITY rememberPasswords.title                   "Hugs passord">
 <!ENTITY language.title                            "Språk">
 <!ENTITY language.auto                             "Oppdag automatisk">
+<!ENTITY defaultBrowser.title                      "Standard nettlesar">
+<!ENTITY defaultBrowser.description                "Bruk &brandShortName; som standard nettlesar">

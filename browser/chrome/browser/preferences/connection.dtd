@@ -1,12 +1,12 @@
 
-<!ENTITY  connectionsDialog.title       "Tilkoblingsinnstillingar">
+<!ENTITY  connectionsDialog.title       "Tilkoplingsinnstillingar">
 <!ENTITY  window.width                  "38em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
-<!ENTITY  systemTypeRadio.label         "Bruk systemet sine mellomtenarinnstiillingar">
+<!ENTITY  systemTypeRadio.label         "Bruk systemet sine mellomtenar-innstiillingar">
 <!ENTITY  systemTypeRadio.accesskey     "y">
 <!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtenar-innstillingar">
 <!ENTITY  WPADTypeRadio.accesskey       "A">

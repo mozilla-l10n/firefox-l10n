@@ -21,7 +21,7 @@ vil sider presentere ei tiltrudd identifisering for å vise at du går til rett 
 <!ENTITY certerror.whatShouldIDo.content "Om du vanlegvis koplar til
 denne sida utan problem, kan denne feilen tyde på at nokon
 prøver å etterlikne sida, og du bør ikkje halde fram.">
-<!ENTITY certerror.getMeOutOfHere.label "Få meg ut herifrå!">
+<!ENTITY certerror.getMeOutOfHere.label "Få meg vekk herifrå!">
 
 <!ENTITY certerror.expert.heading "Eg forstår risikoen">
 <!ENTITY certerror.expert.content "Om du skjønar kva som skjer, kan du

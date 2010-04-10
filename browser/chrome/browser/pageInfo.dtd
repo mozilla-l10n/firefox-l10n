@@ -53,11 +53,11 @@
 <!ENTITY  generalURL            "URL:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Oppteikningsmodus:">
-<!ENTITY  generalSize           "Storleik">
+<!ENTITY  generalSize           "Storleik:">
 <!ENTITY  generalReferrer       "Tilvisande URL:">
 <!ENTITY  generalSource         "Kjelde:">
-<!ENTITY  generalModified       "Endra:">
-<!ENTITY  generalEncoding       "Koding:">
+<!ENTITY  generalModified       "Sist endra:">
+<!ENTITY  generalEncoding       "Teiknkoding:">
 <!ENTITY  generalMetaName       "Namn">
 <!ENTITY  generalMetaContent    "Innhald">
 <!ENTITY  generalSecurityDetails   "Detaljar">
@@ -65,7 +65,7 @@
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Plassering:">
+<!ENTITY  mediaLocation         "Adresse:">
 <!ENTITY  mediaText             "Tilhøyrande tekst:">
 <!ENTITY  mediaAltHeader        "Alternativ tekst">
 <!ENTITY  mediaAddress          "Adresse">
@@ -78,7 +78,7 @@
 <!ENTITY  mediaSaveAs           "Lagre som …">
 <!ENTITY  mediaSaveAs.accesskey "s">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Førehandsvising av media:">
+<!ENTITY  mediaPreview          "Førehandsvising:">
 
 <!ENTITY  feedTab               "Nyhendekjelder">
 <!ENTITY  feedTab.accesskey     "N">
@@ -90,7 +90,7 @@
 <!ENTITY  permUseDefault        "Bruk standard">
 <!ENTITY  permAskAlways         "Spør alltid">
 <!ENTITY  permAllow             "Tillat">
-<!ENTITY  permAllowSession      "Tillat i økta">
+<!ENTITY  permAllowSession      "Tillat for programøkta">
 <!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permImage             "Last bilete">
