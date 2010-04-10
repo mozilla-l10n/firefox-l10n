@@ -86,8 +86,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label     'Zawsze wyświetlaj przycisk "odpowiedz"'>
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "Z">
 
-<!ENTITY otherActionsShowConversation.label     "Wyświetl wątek w karcie">
-<!ENTITY otherActionsShowConversation.accesskey "k">
+<!ENTITY otherActionsOpenConversation.label     "Otwórz wątek w karcie">
+<!ENTITY otherActionsOpenConversation.accesskey "k">
 <!ENTITY otherActionsOpenInNewWindow.label      "Otwórz w nowym oknie">
 <!ENTITY otherActionsOpenInNewWindow.accesskey  "e">
 <!ENTITY otherActionsOpenInNewTab.label         "Otwórz w nowej karcie">

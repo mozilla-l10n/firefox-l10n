@@ -418,6 +418,9 @@
 <!ENTITY openMessageWindowCmd.label        "Otwórz wiadomość">
 <!ENTITY openMessageWindowCmd.accesskey    "z">
 <!ENTITY openMessageWindowCmd.key          "o">
+<!ENTITY openConversationCmd.label         "Otwórz wątek w karcie">
+<!ENTITY openConversationCmd.accesskey     "k">
+<!ENTITY openConversationCmd.key           "o">
 <!ENTITY openFeedMessage.label             "Otwórz artykuł">
 <!ENTITY openFeedMessage.accesskey         "z">
 <!ENTITY openFeedWebPageInWindow.label     "Strona w nowym oknie">
@@ -532,6 +535,8 @@
 <!ENTITY folderContextOpenNewWindow.accesskey   "O">
 <!ENTITY folderContextOpenNewTab.label          "Otwórz w nowej karcie">
 <!ENTITY folderContextOpenNewTab.accesskey      "w">
+<!ENTITY contextOpenConversation.label          "Otwórz wiadomość w karcie">
+<!ENTITY contextOpenConversation.accesskey      "O">
 <!ENTITY folderContextNew.label                 "Nowy podfolder…">
 <!ENTITY folderContextNew.accesskey             "N">
 <!ENTITY folderContextRename.label              "Zmień nazwę">
