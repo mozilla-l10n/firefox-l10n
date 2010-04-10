@@ -679,6 +679,11 @@
 <!ENTITY removePhishingBarButton1.label "Zignoruj ostrzeżenie" >
 <!ENTITY reportPhishingError1.label     "Ta wiadomość nie wygląda na próbę oszustwa.">
 
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label      "Nadawca tej wiadomości poprosił o potwierdzenie doręczenia wiadomości. Czy wysłać potwierdzenie doręczenia wiadomości?">
+<!ENTITY mdnBarIgnoreButton.label "Zignoruj prośbę">
+<!ENTITY mdnBarSendButton.label   "Prześlij potwierdzenie">
+
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Wyszukiwanie we wszystkich wiadomościach">
