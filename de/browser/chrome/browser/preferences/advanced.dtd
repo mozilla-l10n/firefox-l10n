@@ -27,6 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "B">
 <!ENTITY checkNow.label                  "Jetzt überprüfen">
 <!ENTITY checkNow.accesskey              "J">
+<!ENTITY submitCrashes.label             "Absturzmeldungen senden">
+<!ENTITY submitCrashes.accesskey         "A">
 
 <!ENTITY networkTab.label                "Netzwerk">
 
