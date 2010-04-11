@@ -19,6 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -33,9 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY results.title.label "Risultati:">
-
 <!ENTITY name.column.label "Nome">
 <!ENTITY relevance.column.label "Rilevanza">
 <!ENTITY pagerank.column.label "Posizione pagina">

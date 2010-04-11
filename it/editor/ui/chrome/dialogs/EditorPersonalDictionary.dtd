@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -44,7 +44,7 @@
 <!ENTITY DictionaryList.accessKey "V">
 <!ENTITY ReplaceButton.label "Sostituisci">
 <!ENTITY ReplaceButton.accessKey "S">
-<!ENTITY RemoveButton.label "Rimuovi">
-<!ENTITY RemoveButton.accessKey "R">
+<!ENTITY RemoveButton.label "Elimina">
+<!ENTITY RemoveButton.accessKey "E">
 <!ENTITY CloseButton.label "Chiudi">
 <!ENTITY CloseButton.accessKey "C">

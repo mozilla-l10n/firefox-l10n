@@ -1,452 +1,452 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" [
+  <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
   %brandDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Signing &amp; Encrypting Messages</title>
+<title>Firmare e cifrare i messaggi</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<h1 id="signing_and_encrypting_messages">Signing &amp; Encrypting Messages</h1>
+<h1 id="signing_and_encrypting_messages">Firmare e cifrare i messaggi</h1>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">In questa sezione:
   <ul>
-    <li><a href="#about_digital_signatures_and_encryption">About Digital
-      Signatures &amp; Encryption</a></li>
-    <li><a href="#getting_other_peoples_certificates">Getting Other
-      People&apos;s Certificates</a></li>
-    <li><a href="#configuring_security_settings">Configuring Security
-      Settings</a></li>
-    <li><a href="#signing_and_encrypting_a_new_message">Signing &amp;
-      Encrypting a New Message</a></li>
-    <li><a href="#reading_signed_and_encrypted_messages">Reading Signed &amp;
-      Encrypted Messages</a></li>
-    <li><a href="#message_security_compose_window">Message Security -
-      Compose Window</a></li>
-    <li><a href="#message_security_received_message">Message Security -
-      Received Message</a></li>
+    <li><a href="#about_digital_signatures_and_encryption">Le firme digitali e la 
+      cifratura</a></li>
+    <li><a href="#getting_other_peoples_certificates">Ottenere i certificati di 
+      altre persone</a></li>
+    <li><a href="#configuring_security_settings">Impostare le opzioni di 
+      sicurezza</a></li>
+    <li><a href="#signing_and_encrypting_a_new_message">Firmare e cifrare un nuovo 
+      messaggio</a></li>
+    <li><a href="#reading_signed_and_encrypted_messages">Leggere messaggi firmati e 
+      cifrati</a></li>
+    <li><a href="#message_security_compose_window">Sicurezza dei messaggi - La finestra 
+      di Composizione</a></li>
+    <li><a href="#message_security_received_message">Sicurezza dei messaggi - Messaggi 
+      ricevuti</a></li>
   </ul>
 </div>
 
-<h2 id="about_digital_signatures_and_encryption">About Digital Signatures &amp;
-  Encryption </h2>
+<h2 id="about_digital_signatures_and_encryption">Le firme digitali e la 
+  cifratura</h2>
 
-<p>When you compose a mail message, you can choose to attach your digital
-  signature to it. A <a href="glossary.xhtml#digital_signature">digital
-  signature</a> allows recipients of the message to verify that the message
-  really comes from you and hasn&apos;t been tampered with since you sent
-  it.</p>
+<p>Quando si scrive un messaggio e-mail, si pu&ograve; scegliere di allegarvi la propria
+  firma digitale. Una <a href="glossary.xhtml#digital_signature">firma digitale</a>
+  consente ai destinatari del messaggio  di verificare che il messaggio provenga 
+  effettivamente dal mittente indicato e che non sia stato cambiato durante il processo
+  di trasmissione.</p>
 
-<p>When you compose a mail message, you can also choose to encrypt it.
-  <a href="glossary.xhtml#encryption">Encryption</a> makes it very difficult
-  for anyone other than the intended recipient to read the message while it is
-  in transit over the Internet.</p>
+<p>Quando si compone un messaggio e-mail, si pu&ograve; anche scegliere di cifrarlo. La 
+  <a href="glossary.xhtml#encryption">cifratura</a> rende molto difficile leggere il 
+  contenuto del messaggio mentre viene trasmesso attraverso Internet per chiunque escluso 
+  il legittimo destinatario.</p>
 
-<p>Signing and encryption are not available for newsgroup messages.</p>
+<p>Le opzioni di Firma e cifratura non sono disponibili nei messaggi dei gruppi di discussione.</p>
 
-<p>Before you can sign or encrypt a message, you must take these preliminary
-  steps:</p>
+<p>Prima che si possa firmare o cifrare un messaggio, &egrave; necessario effettuare le seguenti 
+  operazioni preliminari:</p>
 
 <ol>
-  <li>Obtain one or more <a href="glossary.xhtml#certificate">certificates</a>
-    (the digital equivalents of ID cards). For details, see
-    <a href="using_certs_help.xhtml#getting_your_own_certificate">Getting Your
-    Own Certificate</a>.</li>
-  <li>Configure the security settings for your email account. For details, see
-    <a href="mail_help.xhtml#security">Configuring Your Security Settings</a>.
+  <li>Ottenere uno o pi&ugrave; <a href="glossary.xhtml#certificate">certificati</a>
+    (il corrispondente digitale delle carte d&apos;identit&agrave; Per maggiori dettagli, 
+    consultare <a href="using_certs_help.xhtml#getting_your_own_certificate">Ottenere 
+    il proprio certificato</a>.</li>
+  <li>Impostare le opzioni di sicurezza per il proprio account di Posta. Per maggiori dettagli, 
+    consultare <a href="mail_help.xhtml#security">Impostare le Opzioni di Sicurezza</a>.
   </li>
 </ol>
 
-<p>Once you have completed these steps, you can complete the instructions in
-  <a href="#signing_and_encrypting_a_new_message">Signing &amp; Encrypting a 
-  New Message</a>.</p>
+<p>Una volta effettuate tali operazioni, si pu&ograve; procedere con le istruzioni 
+  specificate in <a href="#signing_and_encrypting_a_new_message">Firmare e cifrare 
+  un nuovo messaggio</a>.</p>
 
-<p>The sections that follow provide a brief overview of how digital signatures
-  and encryption work. For more technical details on this subject, see the
-  online document
-  <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction
-  to Public-Key Cryptography</a>.</p>
+<p>Le sezioni che seguono forniscono una breve panoramica di come funzionano le firme 
+  digitali e la cifratura. Per maggiori dettagli su questo argomento, consultare il 
+  documento on line 
+  <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">
+  Introduction to Public-Key Cryptography</a> (in inglese).</p>
 
-<h3 id="how_digital_signatures_work">How Digital Signatures Work</h3>
+<h3 id="how_digital_signatures_work">Come funziona la firma digitale</h3>
 
-<p>A digital signature is a special code, unique to each message, created by
-  means of <a href="glossary.xhtml#public-key_cryptography">public-key
-  cryptography</a>.</p>
+<p>Una firma digitale &egrave; un codice speciale, unico per ogni messaggio, creata 
+  attraverso l&apos;uso della <a href="glossary.xhtml#public-key_cryptography">cifratura a 
+  chiave pubblica</a>.</p>
 
-<p>A digital signature is completely different from a handwritten signature,
-  although it can sometimes be used for similar legal purposes, such as signing
-  a contract.</p>
+<p>Una firma digitale &egrave; completamente diversa da una firma scritta a mano, 
+  nonostante in alcuni casi entrambe possano essere utilizzate per gli stessi scopi 
+  legali, come la firma di un contratto.</p>
 
-<p>To create a digital signature for an email message that you are sending, you
-  need two things:</p>
+<p>Per creare una firma digitale per una e-mail che si sta inviando, sono necessarie 
+  due cose:</p>
 
 <ul>
-  <li>A <a href="glossary.xhtml#signing_certificate">signing certificate</a>
-    that identifies you for this purpose. Every time you sign a message, your
-    signing certificate is included with the message. The certificate includes
-    a <a href="glossary.xhtml#public_key">public key</a>. The presence of the
-    certificate in the message permits the recipient to verify your digital
-    signature.
+  <li>Un <a href="glossary.xhtml#signing_certificate">certificato di firma</a> che 
+    vi identifica a questo proposito. Ogni volta che si firma un messaggio, il vostro 
+    certificato di firma viene inserito all&apos;interno del messaggio. Il certificato 
+    include una <a href="glossary.xhtml#public_key">chiave pubblica</a>. La presenza 
+    del certificato nel messaggio consente al destinatario di verificare la firma 
+    digitale del mittente.
 
-    <p>Your certificate is a bit like your name and phone number in the
-      phonebook&mdash;it is public information that helps other people
-      communicate with you.</p>
+    <p>Il proprio certificato &egrave; qualcosa di simile al proprio nome e numero 
+      telefonico nell&apos;elenco telefonico&mdash;&egrave; un&apos;informazione pubblica che 
+      aiuta gli altri a comunicare con voi.</p>
   </li>
-  <li>A <a href="glossary.xhtml#private_key">private key</a>, which is created
-    and stored on your computer when you first obtain a certificate.
+  <li>Una <a href="glossary.xhtml#private_key">chiave privata</a>, che viene creata e 
+    memorizzata nel proprio computer appena si ottiene un certificato.
 
-    <p>Your private key for a signing certificate is protected by your
-      <a href="glossary.xhtml#master_password">Master Password</a>, and the
-      &brandShortName; program does not disclose it to anyone else. The Mail
-      &amp; Newsgroup software uses your private key to create a unique,
-      verifiable digital signature for every message you choose to sign.</p>
+    <p>La propria chiave privata per un certificato di firma &egrave; protetta dalla propria 
+      <a href="glossary.xhtml#master_password">Password principale</a>, e Mozilla non la 
+      mette a disposizione di nessun altro. Posta e gruppi di discussione utilizza la 
+      vostra chiave privata per creare una firma digitale unica e verificabile per ogni 
+      messaggio che si sceglie di firmare.</p>
   </li>
 </ul>
 
-<h3 id="how_encryption_works">How Encryption Works</h3>
+<h3 id="how_encryption_works">Come funziona la cifratura</h3>
 
-<p>To encrypt an email message, you must have an
-  <a href="glossary.xhtml#encryption_certificate">encryption certificate</a>
-  for each of the message&apos;s recipients. The public key in each certificate
-  is used to encrypt the message for that recipient.</p>
+<p>Per cifrare un messaggio e-mail, si deve avere un 
+  <a href="glossary.xhtml#encryption_certificate">certificato di cifratura</a> per ognuno dei 
+  destinatari del messaggio. La chiave pubblica in ogni certificato viene utilizzata per 
+  cifrare il messaggio per quel destinatario.</p>
 
-<p>If you don&apos;t have a certificate for even a single recipient, the
-  message cannot be encrypted.</p>
+<p>Se non si possiede un certificato anche per uno solo dei destinatari, il messaggio non 
+  pu&ograve; essere cifrato.</p>
 
-<p>The recipient&apos;s software uses the recipient&apos;s private key, which
-  remains on that person&apos;s computer, to decrypt the message.</p>
-  
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<p>Il software del destinatario utilizza la chiave privata del destinatario, che viene 
+  conservata nel suo computer, per decifrare il messaggio.</p>
 
-<h2 id="getting_other_peoples_certificates">Getting Other People&apos;s
-  Certificates</h2>
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
-<p>Every time you send a digitally signed message, your encryption certificate
-  is automatically included with the message. Therefore, one of the easiest
-  ways to obtain someone else&apos;s certificate is for that person to send you
-  a digitally signed message.</p>
+<h2 id="getting_other_peoples_certificates">Ottenere i certificati di altre 
+  persone</h2>
 
-<p>When you receive such a message, the person&apos;s certificate is
-  automatically stored by the <a href="certs_help.xhtml">Certificate
-  Manager</a>, which is the part of the browser that keeps track of
-  certificates. This is useful because you need to have a certificate for each
-  recipient of any email message that you want to send in encrypted form.</p>
+<p>Ogni volta che si invia un messaggio firmato digitalmente, il proprio certificato di cifratura 
+  viene inserito automaticamente all&apos;interno del messaggio. Di conseguenza, uno dei modi
+  pi&ugrave; semplici di ottenere il certificato di qualcun altro &egrave; che questa persona
+  invii un messaggio che sia firmato digitalmente.</p>
 
-<p>Another way to obtain certificates is to look them up in a public directory,
-  such as the <q>phonebook</q> directories maintained by many companies.</p>
+<p>Quando si riceve uno di questi messaggi, il certificato del mittente viene memorizzato 
+  automaticamente in <a href="certs_help.xhtml">Gestione certificati</a>, che &egrave; la componente 
+  del browser che tiene traccia dei certificati. Ci&ograve; &egrave; utile in quanto &egrave; 
+  necessario avere un certificato per ogni destinatario della e-mail che si voglia mandare in 
+  formato cifrato.</p>
 
-<p>It&apos;s also possible to look up certificates automatically.  This feature
-  is controlled by <a href="mail_help.xhtml#addressing_preferences">Mail &amp;
-  Newsgroups Preferences - Addressing</a> or
-  <a href="mail_help.xhtml#addressing">Mail &amp; Newsgroups Account Settings -
-  Addressing</a>, which can be configured to look up recipients&apos; email
-  addresses in a directory.</p>
+<p>Un altro modo di ottenere i certificati &egrave; quello di cercarli in una directory pubblica,
+  quali gli appositi <q>elenchi telefonici</q> gestiti da diverse societ&agrave;.</p>
 
-<p>When you are using any account that is configured to look up addresses in a
-  directory, the same directory will be searched for matching certificates when
-  you attempt to send an encrypted message to one or more recipients for whom
-  you don&apos;t have certificates on file.</p>
+<p>&Egrave; possibile anche cercare automaticamente i certificati. Questa caratteristica 
+  &egrave; controllata da <a href="mail_help.xhtml#addressing_preferences">Preferenze Posta 
+  e gruppi di discussione - Indirizzi</a> o <a href="mail_help.xhtml#addressing">Posta e 
+  gruppi di discussione - Visualizza le impostazioni per questo account - Composizione ed 
+  indirizzi</a>, che possono essere impostati per cercare gli indirizzi e-mail dei 
+  destinatari in appositi elenchi.</p>
 
-<p>The directory will also be searched for missing certificates when you open
-  the drop-down menu below the Security icon in the Compose window and choose
-  View Security Info.</p>
+<p>Quando si utilizza un qualsiasi account che &egrave; configurato per cercare gli indirizzi 
+  in un elenco, lo stesso elenco verr&agrave; utilizzato per effettuare le ricerche dei 
+  certificati corrispondenti quando si cerca di inviare un messaggio cifrato a uno o pi&ugrave; 
+  destinatari per i quali non si hanno ancora i file dei loro certificati.</p>
 
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<p>L&apos;elenco verr&agrave; altres&igrave; utilizzato per le ricerche dei certificati mancanti 
+  quando si aprir&agrave; il menu a scomparsa sotto l&apos;icona Sicurezza nella finestra di 
+  Composizione e si sceglie Visualizza o modifica le impostazioni di sicurezza.</p>
 
-<h2 id="configuring_security_settings">Configuring Security Settings</h2>
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
-<p>Once you have obtained an email certificate (or certificates), you must
-  specify the certificates you want to use for signing and encrypting
-  messages.</p> 
+<h2 id="configuring_security_settings">Impostare le opzioni di sicurezza</h2>
 
-<p>For information about obtaining email certificates, see
-  <a href="using_certs_help.xhtml#getting_your_own_certificate">Getting Your
-  Own Certificate</a>.</p>
+<p>Una volta che si sono ottenuti uno o pi&ugrave; certificati per le e-mail, 
+  si devono specificare i certificati che si vogliono usare per firmare e criptare 
+  i messaggi.</p>
 
-<p>To specify which signing and encryption certificates to use with a
-  particular account, begin from the Mail window:</p>
+<p>Per informazioni su come ottenere certificati e-mail, consultare 
+  <a href="using_certs_help.xhtml#getting_your_own_certificate">Ottenere il proprio 
+  certificato</a>.</p>
+
+<p>Per specificare quali certificati di firma e di cigratura utilizzare 
+  con un particolare account, partendo dalla finestra della Posta:</p>
 
 <ol>
-  <li>Open the Edit menu and choose Mail &amp; Newsgroups Account Settings.</li>
-  <li>Click Security under the name of the mail account whose security settings
-    you want to configure.</li>
-  <li>Under Digital Signing, click Select. (You may be asked to provide your
-    <a href="glossary.xhtml#master_password">Master Password</a> before you can
-    proceed further.)
+  <li>Aprire il menu Modifica e scegliere Configurazione account posta.</li>
+  <li>Fare clic su Sicurezza sotto il nome di un account di posta per il quale si vuole 
+    impostare le opzioni di sicurezza.</li>
+  <li>Nella zona Firma digitale, fare clic su Scegli. (Potrebbe essere richiesto di 
+    specificare la propria <a href="glossary.xhtml#master_password">password principale</a> 
+    prima di poter procedere.)
 
-    <p>A dialog box appears that allows you to select from among your available
-      signing certificates.</p>
+    <p>Compare una finestra che consente di scegliere tra i propri certificati di firma 
+      digitale disponibili.</p>
   </li>
-  <li>Choose the signing certificate you want to use, then click OK.</li>
-  <li>Follow the same steps under Encryption: click the Select button, select
-    the encryption certificate you want to use, and click OK.</li>
+  <li>Scegliere quale certificato si vuole utilizzare, e fare clic su OK.</li>
+  <li>Effettuare le stesse operazioni nella finestra Cifratura: fare clic sul pulsante 
+    Scegli, scegliere il certificato di cifratura da utilizzare, e fare clic su OK.
 
-  <p>In some cases you may be able to specify the same certificate under
-    Encryption that you specified under Digital Signing; check with your system
-    administrator to find out for sure.</p>
+    <p>In alcuni casi in Cifratura potrebbe essere possibile poter specificare lo stesso 
+      certificato scelto per Firma digitale; verificare con il proprio amministratore di 
+      sistema per essere sicuri.</p></li>
 </ol>
 
-<p>Optionally, you can also indicate that you normally want to sign or encrypt
-  all messages sent from a particular account. These account-specific settings
-  are for convenience only; you can override the default settings for
-  individual messages.</p>
+<p>Opzionalmente, si pu&ograve; anche indicare che si vuole di norma firmare o cifrare tutti 
+  i messaggi inviati da uno specifico account. Queste impostazioni specifiche per ogni account 
+  sono disponibili solo per comodit&agrave;; per ogni singolo messaggio si possono effettuare 
+  delle impostazioni specifiche sostituendo le impostazioni generali.</p>
 
-<p>To configure your default signing and encryption settings, start from the
-  Security panel for the account (described above) and select your settings as
-  follows:</p>
+<p>Per impostare le proprie opzioni generali per la firma e la cifratura, partendo dal 
+  pannello Sicurezza dell&apos;account (descritto precedentemente), selezionare le proprie 
+  opzioni come segue:</p>
 
 <ul>
-  <li>Under Digital Signing:
+  <li>Nella zona Firma digitale:
     <ul>
-      <li><strong>Digitally sign messages</strong>: When this checkbox is
-        selected, all the messages you send from this account will be digitally
-        signed unless you indicate otherwise before you send the message. To
-        turn off this default setting, deselect the checkbox.</li>
+      <li><strong>Apponi una firma digitale ai messaggi</strong>: Quando questa casella &egrave; spuntata,
+        tutti i messaggi che verranno inviati da questo account verranno firmati digitalmente salvo che non 
+        si specifichi diversamente prima che il messaggio venga inviato. Per disattivare questa
+        caratteristica, togliere la spunta da questa casella.</li>
     </ul>
   </li>
-  <li>Under Encryption (choose one):
+  <li>Nella zona Cifratura (scegliere una opzione):
     <ul>
-      <li><strong>Never</strong>: When this option is selected, messages you
-        send from this account will be not be encrypted unless you indicate
-        otherwise before you send them.</li>
-      <li><strong>Required</strong>: When this option is selected, all the
-        messages you send from this account will be encrypted&mdash;but only if
-        you have valid certificates for each of the message&apos;s recipients.
-        If you don&apos;t have all the necessary certificates, the message
-        can&apos;t be sent unless you turn off encryption for that message.</li>
+      <li><strong>Mai (non cifrare)</strong>: Se &egrave; selezionata questa opzione, i messaggi 
+        inviati da questo account non saranno cifrati a meno che non venga diversamente specificato 
+        prima dell&apos;invio dell&apos;e-mail.</li>
+      <li><strong>Sempre (impedisce l&apos;invio se non tutti i destinatari hanno un certificato)</strong>: 
+        Se &egrave; selezionata questa opzione, tutti i messaggi che si inviano da questi account verranno 
+        cifrati&mdash;ma solo se si hanno dei certificati validi per ognuno dei destinatari del messaggio. 
+        Se non si hanno tutti i certificati necessari, il messaggio non pu&ograve; essere inviato a meno 
+        che non si disattivi la cifratura per quel messaggio.</li>
     </ul>
   </li>
 </ul>
 
-<p>When you have finished configuring your mail security settings, click OK to
-  confirm them.</p>
+<p>Quando si &egrave; finito di impostare le opzioni di sicurezza per l&apos;e-mail, fare clic su 
+  OK per confermare.</p>
  
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
-<h2 id="signing_and_encrypting_a_new_message">Signing &amp; Encrypting a New
-  Message</h2>
+<h2 id="signing_and_encrypting_a_new_message">Firmare e cifrare un nuovo 
+  messaggio</h2>
 
-<p>Before you can digitally sign or encrypt any message, you must obtain at
-  least one email certificate and configure your mail security settings
-  correctly. For background information on these tasks, see
-  <a href="#about_digital_signatures_and_encryption">About Digital Signatures
-  &amp; Encryption</a>.</p>
+<p>Prima che si possa firmare digitalmente o cifrare un qualunque messaggio, bisogna 
+  ottenere almeno un certificato e-mail e impostare correttamente le proprie opzioni di 
+  sicurezza dell&apos;e-mail. Per informazioni generali su queste funzioni, consultare 
+  <a href="#about_digital_signatures_and_encryption">Le firme digitali e la cifratura</a>.
+</p>
 
-<p>The settings specified in <a href="mail_help.xhtml#security">Mail &amp;
-  Newsgroups Account Settings - Security</a> determine the default settings for
-  each new Compose window you open when you set out to write an email.</p>
+<p>Le impostazioni effettuate su <a href="mail_help.xhtml#security">Preferenze Posta e gruppi 
+  di discussione - Sicurezza</a> determinano le opzioni predefinite quando si apre la finestra 
+  di Composizione per scrivere una nuova e-mail.</p>
 
-<p>To open a Compose window, start from the Mail window and click Compose. You
-  can immediately identify the default security settings from the presence or
-  absence of these icons near the lower-right corner of the window:</p>
+<p>Per aprire una nuova finestra di Composizione, andare nella finestra di Posta e fare clic 
+  su Componi. Si possono identificare immediatamente le impostazioni di sicurezza dalla presenza 
+  o meno delle seguenti icone vicino all&apos;angolo in basso a destra della finestra:</p>
 
 <table>
   <tr>
-    <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif"
-      alt="digital signature icon"/></td><td>The message will be digitally
-      signed (assuming you have a valid email certificate that
-      identifies you).</td>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt="Icona 
+      firma digitale"/></td><td>Il messaggio verr&agrave; firmato digitalmente 
+      (sempre che si sia in possesso di un certificato e-mail valido che vi identifica).
+    </td>
   </tr>
   <tr>
-    <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif"
-      alt="encryption icon"/></td><td>The message will be encrypted
-      (assuming you have valid certificates for all recipients).</td>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt="Icona 
+      cifratura"/></td><td>Il messaggio verr&agrave; cifrato (sempre che si abbiano 
+      certificati validi per tutti i destinatari).</td>
   </tr>
 </table>
 
-<p>To turn these settings off or on, click the arrow just below the Security
-  icon in the Mail toolbar near the top of the window. Then select the item you
-  want from the drop-down list:</p>
+<p>Per attivare o disattivare queste impostazioni, fare clic nella freccia vicino all&apos;icona 
+  Sicurezza nella barra vicino alla parte pi&ugrave; alta della finestra. Selezionare quindi 
+  la voce voluta dal menu a tendina:</p>
 
 <ul>
-  <li><strong>Do Not Encrypt This Message</strong>: Choose this to turn off
-    encryption for this message. The message will not be encrypted when it is
-    sent over the Internet.</li>
-  <li><strong>Encrypt This Message</strong>: Choose this to turn on encryption
-    for this message. The message will be sent in encrypted form. However, it
-    can&apos;t be sent unless you have valid certificates for all
-    recipients.</li>
-  <li><strong>Digitally Sign This Message</strong>: Choose this to turn digital
-    signing on or off for this message. A checkmark indicates the message will
-    be signed.</li> 
-  <li><strong>View Security Info</strong>: Choose this to view detailed
-    information about the security status of this message&mdash;to help you
-    determine, for example, whether you need to obtain a certificate for one of
-    the recipients.</li>
+  <li><strong>Non cifrare</strong>: Scegliere questa opzione se si vuole disattivare 
+    la cifratura per questo messaggio. Il messaggio non verr&agrave; cifrato quando 
+    verr&agrave; trasmesso su Internet.</li>
+  <li><strong>Richiede cifratura</strong>: Scegliere questa opzione per attivare la
+    cifratura per questo messaggio. Il messaggio verr&agrave; inviato in formato cifrato.
+    Comunque, non potr&agrave; essere inviato se non si posseggono certificati validi
+    per tutti i destinatari.</li>
+  <li><strong>Apponi firma digitale</strong>: Scegliere questa opzione per attivare e 
+    disattivare la firma digitale per questo messaggio. Un segno di spunta indica che il 
+    messaggio verr&agrave; firmato.</li> 
+  <li><strong>Visualizza informazioni sicurezza</strong>: Scegliere questa opzione per consultare 
+    informazioni dettagliate sullo stato di sicurezza di questo messaggio&mdash;per 
+    poter stabilire, ad esempio, se sia necessario ottenere un certificato per uno 
+    dei destinatari.</li>
 </ul>
 
-<p>To view detailed information about the message&apos;s security status, you
-  can also click the key or lock icon as described in
-  <a href="#message_security_compose_window">Message Security - Compose
-  Window</a>.</p>
+<p>Per poter vedere informazioni dettagliate sullo stato di sicurezza del messaggio, si 
+  pu&ograve; anche fare clic sulle icone della chiave o del lucchetto come descritto in 
+  <a href="#message_security_compose_window">Sicurezza dei messaggi - La finestra di 
+  Composizione</a>.</p>
 
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
-<h2 id="reading_signed_and_encrypted_messages">Reading Signed &amp; Encrypted
-  Messages</h2>
+<h2 id="reading_signed_and_encrypted_messages">Leggere messaggi firmati e 
+  cifrati</h2>
 
-<p>When you view a signed or encrypted message in the Mail window, these icons
-  near the upper-right corner of the message header indicate the security
-  status of the message:</p>
-  
+<p>Quando si visualizza un messaggio firmato o cifrato nella finestra della Posta, 
+  queste icone nell&apos;angolo superiore destro dell&apos;intestazione del messaggio indicano 
+  lo stato di sicurezza del messaggio:</p>
+
 <table>
   <tr>
-    <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif"
-      alt="digital signature icon"/></td><td>The message is digitally
-      signed and has been validated. If there is a problem with the signature,
-      the pen is broken.</td>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt="Icona firma 
+      digitale"/></td><td>Il messaggio &egrave; firmato digitalmente ed &egrave; 
+      stato verificato. Se c&apos;&egrave; un problema con la firma, la penna &egrave; 
+      spezzata.</td>
   </tr>
   <tr>
-    <td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif"
-      alt="unknown icon"/></td><td>The message is signed, but it has a
-      large attachment that has not yet been downloaded from the IMAP server.
-      As a result, the signature cannot be validated. Click the icon to
-      download the attachment and validate the signature.</td>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif" alt="Icona 
+      penna con punto interrogativo"/></td><td>Il messaggio &egrave; firmato, ma ha 
+      un grande allegato che non &egrave; stato ancora scaricato dal server di posta IMAP. 
+      Di conseguenza, la firma non pu&ograve; essere verificata. Fare clic sull&apos;icona per 
+      scaricare l&apos;allegato e verificarne la firma.</td>
   </tr>
   <tr>
-    <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif"
-      alt="encryption icon"/></td><td>The message is encrypted. If there
-      is a problem with the encryption, the key is broken.</td>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt="Icona chiave 
+      di cifratura"/></td><td>Il messaggio &egrave; cifrato. Se c&apos;&egrave; qualche 
+      problema con la cifratura, la chiave &egrave; spezzata.</td>
   </tr>
 </table>
 
-<p>For information about certificate validation, see
-  <a href="using_certs_help.xhtml#controlling_validation">Controlling
-  Validation</a>.</p>
+<p>Per informazioni sulla verifica dei certificati, consultare 
+  <a href="using_certs_help.xhtml#controlling_validation">Controllare la 
+  validazione</a>.</p>
 
-<p>To see more detailed information about the message&apos;s security, click
-  the key or lock icon, or follow the instructions in
-  <a href="#message_security_received_message">Message Security - Received
-  Message</a>.</p>
+<p>Per avere informazioni pi&ugrave; dettagliate sulla sicurezza dei messaggi, 
+  fare clic sull&apos;icona a forma di chiave o di lucchetto o seguire le istruzioni 
+  in <a href="#message_security_received_message">Sicurezza dei messaggi - 
+  Messaggi ricevuti</a>.</p>
+ 
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<h2 id="message_security_compose_window">Sicurezza dei messaggi - La finestra di Composizione</h2>
 
-<h2 id="message_security_compose_window">Message Security - Compose Window</h2>
+<p>Questa sezione descrive la finestra Sicurezza messaggio che si pu&ograve; aprire per ogni messaggio
+  che si sta scrivendo. Se non si sta gi&agrave; visualizzando la finestra Sicurezza messaggio, fare
+  clic sull&apos;icona Sicurezza nella barra degli strumenti della finestra di Composizione.</p>
 
-<p>This section describes the Message Security window that you can open for any
-  message you are composing. If you&apos;re not already viewing Message
-  Security, click the Security icon in the toolbar of the Compose window.</p>
-
-<p>The Message Security window describes how your message will be sent:</p>
+<p>La finestra Sicurezza messaggio descrive come il messaggio verr&agrave; inviato:</p>
 
 <ul>
-  <li><strong>Digitally Signed</strong>: This line describes whether your
-    message will be signed. There are three possibilities:
+  <li><strong>Firma digitale</strong>: Questa linea descrive se il messaggio verr&agrave; firmato. 
+    Ci sono tre possibilit&agrave;:
     <ul>
-      <li><strong>Yes</strong>: Digital signing has been enabled for this
-        message, you have a valid certificate identifying you, and the message
-        can be signed.</li>
-      <li><strong>No</strong>: Digital signing has been disabled for this
-        message.</li>
-      <li><strong>Not possible</strong>: Digital signing has been enabled for
-        this message. However, a valid
-        <a href="glossary.xhtml#certificate">certificate</a> identifying you
-        for this purpose is not available, or there is some other problem that
-        makes signing impossible.</li>
+      <li><strong>S&igrave;</strong>: La firma digitale &egrave; stata attivata per questo 
+        messaggio, si ha un certificato valido che vi identifica, e il messaggio pu&ograve; 
+        essere firmato.</li>
+      <li><strong>No</strong>: La firma digitale &egrave; stata disattivata per questo 
+        messaggio.</li>
+      <li><strong>Non possibile</strong>: La firma digitale &egrave; stata attivata 
+        per questo messaggio, per&ograve; non &egrave; disponibile a questo proposito 
+        un <a href="glossary.xhtml#certificate">certificato</a> valido che vi 
+        identifica, o c&apos;&egrave; qualche altro problema che rende impossibile la firma 
+        digitale.</li>
     </ul>
   </li>
-  <li><strong>Encrypted</strong>: This line describes whether your message will
-    be encrypted. There are three possibilities:
+  <li><strong>Cifrato</strong>: Questa linea descrive se il messaggio verr&agrave; cifrato. 
+    Ci sono tre possibilit&agrave;:
     <ul>
-      <li><strong>Yes</strong>: Encryption has been enabled for this message,
-        valid certificates for all listed recipients are available, and the
-        message can be encrypted.</li>
-      <li><strong>No</strong>: Encryption has been disabled or is not possible
-        for this message.</li>
-      <li><strong>Not possible</strong>: Encryption has been enabled for this
-        message. However, a valid certificate for at least one of the listed
-        recipients is not available, or no recipients are listed, or there is
-        some other problem that makes encryption impossible.</li>
+      <li><strong>S&igrave;</strong>: La cifratura &egrave; stata attivata per questo 
+        messaggio, sono disponibili certificati validi per tutti i destinatari, e il 
+        messaggio pu&ograve; essere cifrato.</li>
+      <li><strong>No</strong>: La cifratura &egrave; stata disattivata o non &egrave; 
+        possibile per questo messaggio.</li>
+      <li><strong>Non possibile</strong>: La cifratura &egrave; stata attivata per questo 
+        messaggio, per&ograve; per uno o pi&ugrave; destinatari tra quelli indicati nell&apos;e-mail 
+        non &egrave; disponibile un certificato valido, o non sono ancora stati specificati i 
+        destinatari, o c&apos;&egrave; qualche altro problema che rende impossibile la cifratura.</li>
     </ul>
   </li>
 </ul>
 
-<p>The Message Security window also lists the certificates available for the
-  recipients of your message:</p>
+<p>La finestra Sicurezza messaggio elenca anche i certificati disponibili per i destinatari 
+  del messaggio:</p>
 
 <ul>
-  <li><strong>View</strong>: To view the details for any certificate in the
-    list, select its name, then click View.</li>
+  <li><strong>Visualizza</strong>: Per visualizzare i dettagli di uno qualunque dei certificati
+    visualizzati nell&apos;elenco, selezionarne il nome e fare clic sul pulsante Visualizza.</li>
 </ul>
 
-<p>For more information about obtaining certificates and configuring message
-  security settings, see <a href="#signing_and_encrypting_messages">Signing
-  &amp; Encrypting Messages</a>.</p>
+<p>Per maggiori informazioni su come ottenere i certificati e come impostare le opzioni di 
+  sicurezza dei messaggi, consultare <a href="#signing_and_encrypting_messages">Firmare e 
+  cifrare i messaggi</a>.</p>
 
-<p>To indicate your signing or encryption choices for an individual message,
-  click the arrow beside the Security button in the Compose window, then select
-  the options you want.</p>
+<p>Per specificare le proprie preferenze di cifratura o di firma di un singolo messaggio, fare 
+  clic nella freccia vicino al pulsante Sicurezza nella finestra di Composizione, e poi 
+  selezionare l&apos;opzione voluta.</p>
 
-<p>To indicate your default signing and encryption preferences for all
-  messages, see <a href="mail_help.xhtml#security">Mail &amp; Newsgroups
-  Account Settings - Security</a></p>
+<p>Per indicare le proprie preferenze di cifratura o di firma per tutti i 
+  messaggi, consultare <a href="mail_help.xhtml#security">Impostazioni 
+  account - Sicurezza</a>.</p>
 
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
-<h2 id="message_security_received_message">Message Security - Received
-  Message</h2>
+<h2 id="message_security_received_message">Sicurezza dei messaggi - Messaggi 
+  ricevuti</h2>
 
-<p>This section describes the Message Security window that you can open for any
-  message you have received. If you&apos;re not already viewing Message
-  Security for a received message, follow these steps:</p>
+<p>Questa sezione descrive la finestra Sicurezza messaggio che si pu&ograve; consultare per 
+  ogni messaggio che si &egrave; ricevuto. Se non si sta gi&agrave; visualizzando la finestra 
+  Sicurezza messaggio per un messaggio ricevuto, eseguire questa procedura:</p>
 
 <ol>
-  <li>In the Mail window, select the message for which you want to view
-    security information.</li>
-  <li>Open the View menu and choose Message Security Info.</li>
+  <li>Nella finestra della Posta, selezionare il messaggio per il quale si vogliono 
+    visualizzare le informazioni di sicurezza.</li>
+  <li>Aprire il menu Visualizza e scegliere Informazioni sicurezza messaggio.</li>
 </ol>
 
-<p>The Message Security window displays the following information:</p>
+<p>La finestra Sicurezza messaggio visualizza le seguenti informazioni:</p>
 
 <ul>
-  <li><strong>Digital Signature</strong>: The top section describes whether the
-    message is digitally signed and if so, whether the signature is valid.</li>
-  
-  <p>If validation failed while OCSP was enabled, check the OCSP settings in
-    <a href="validation_help.xhtml#privacy_and_security_preferences_validation">Privacy
-    &amp; Security Preferences - Validation</a>. If you are not familiar with
-    OCSP, confirm the settings with your system administrator. If your settings
-    are correct, there may be a problem with the OCSP service or the
-    certificate used to create the signature is no longer valid.</p>
-  
-  <p>If the signature is invalid because of a problem with a certificate&apos;s
-    trust settings, you can use the <a href="certs_help.xhtml">Certificate
-    Manager</a> to view or edit those settings.</p>
+  <li><strong>Firma digitale</strong>: La parte alta della finestra descrive se il messaggio 
+    sia firmato digitalmente e in tal caso, se la firma sia valida.
 
-  <li><strong>View Signature Certificate</strong>: If the message is signed,
-    click this button to view the certificate that was used to sign it.</li>
-  <li><strong>Encryption</strong>: The bottom section reports whether the
-    message is encrypted and any decrypting problems.
+    <p>Se la verifica non &egrave; riuscita mentre l&apos;OCSP era attivato, controllare le impostazioni 
+      OCSP in <a href="validation_help.xhtml#privacy_and_security_preferences_validation">Preferenze
+      Privacy e sicurezza - Convalida</a>. Se non si &egrave; familiari con OCSP, verificare le
+      impostazioni con il proprio amministratore di sistema. Se le impostazioni sono corrette, ci
+      potrebbe essere un problema con il servizio OCSP o non &egrave; pi&ugrave; valido il
+      certificato utilizzato per creare la firma.</p>
+
+    <p>Se la firma non &egrave; valida a causa di un problema con le impostazioni di verifica 
+      del certificato, si pu&ograve; utilizzare <a href="certs_help.xhtml">Gestione Certificati</a> 
+      per visualizzare o modificare queste impostazioni.</p>
+  </li>
+  <li><strong>Visualizzare il certificato di firma</strong>: Se il messaggio &egrave; firmato, 
+    fare clic su questo pulsante per visualizzare il certificato utilizzato per firmarlo.</li>
+  <li><strong>Cifratura</strong>: La parte inferiore visualizza se il messaggio &egrave; stato 
+    cifrato e se ci sono stati problemi di decifratura.
     <ul>
-      <li>If the message&apos;s contents have been altered during transit, you
-        should ask the sender to resend it. The changes may have been caused by
-        network problems.</li>
-      <li>If a copy of your own certificate (used by the sender to encrypt the
-        message) is not available on your computer, the private key required to
-        decrypt the message cannot be retrieved. The only solution is to import
-        a backup copy of your certificate and its private key (see
-        <a href="certs_help.xhtml#your_certificates">Your Certificates</a> for
-        details.) If you don&apos;t have access to a backup certificate, you
-        will not be able to decrypt the message.</li>
+      <li>Se il contenuto del messaggio &egrave; stato modificato durante il trasferimento, si 
+        dovrebbe chiedere di farselo rimandare. I cambiamenti potrebbero essere stati causati da 
+        problemi di rete.</li>
+      <li>Se una copia del proprio certificato (usato dal mittente per cifrare il messaggio) 
+        non &egrave; disponibile sul proprio computer, la chiave privata richiesta per decifrare 
+        il messaggio non pu&ograve; essere ottenuta. L&apos;unica soluzione &egrave; importare una 
+        copia di sicurezza e la sua chiave privata (consultare
+        <a href="certs_help.xhtml#your_certificates">I propri certificati</a> per maggiori dettagli.) 
+        Se non si ha a disposizione una copia di sicurezza del certificato, non si potr&agrave; 
+        decifrare il messaggio.</li>
     </ul>
   </li>
 </ul>
 
-<p>[<a href="#signing_and_encrypting_messages">Return to beginning of
-  section</a>]</p>
+<p>[<a href="#signing_and_encrypting_messages">Torna all&apos;inizio della 
+  sezione</a>]</p>
 
 <p>&copyright.string;</p>
 

@@ -1,4 +1,4 @@
-<!ENTITY filterListDialog.title "Message Filters">
+<!ENTITY filterListDialog.title "Filtri per i messaggi">
 <!ENTITY nameColumn.label "Nome filtro">
 <!ENTITY activeColumn.label "Attivato">
 <!ENTITY newButton.label "Nuovo…">
@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "s">
 <!ENTITY reorderDownButton.label "Muovi giù">
 <!ENTITY reorderDownButton.accesskey "u">
-<!ENTITY filterHeader.label "I filtri attivati verranno applicati automaticamente nell'ordine seguente:">
+<!ENTITY filterHeader.label "I filtri attivati verranno applicati automaticamente nell'ordine seguente.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Rapporto filtri">

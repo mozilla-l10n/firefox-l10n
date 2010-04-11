@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -54,7 +54,7 @@
 <!ENTITY actualSizeRadio.accessKey "D">
 <!ENTITY actualSizeRadio.tooltip "Torna alle dimensioni reali dell'immagine">
 <!ENTITY customSizeRadio.label "Dimensioni personalizzate">
-<!ENTITY customSizeRadio.accessKey "p">
+<!ENTITY customSizeRadio.accessKey "z">
 <!ENTITY customSizeRadio.tooltip "Modifica le dimensioni di visualizzazione dell'immagine">
 <!ENTITY heightEditField.label "Altezza:">
 <!ENTITY heightEditField.accessKey "A">
@@ -82,7 +82,7 @@
 <!ENTITY borderEditField.label "Bordo pieno:">
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "Visualizza un bordo attorno all'immagine per indicare la presenza del collegamento">
-<!ENTITY showImageLinkBorder.accessKey "b">
+<!ENTITY showImageLinkBorder.accessKey "V">
 <!ENTITY imageInputTab.label "Modulo">
 <!ENTITY imageLocationTab.label "Indirizzo">
 <!ENTITY imageDimensionsTab.label "Dimensioni">

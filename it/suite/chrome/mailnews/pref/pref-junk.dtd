@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.junk.title "Posta indesiderata">
 <!ENTITY junkSettings.caption "Impostazioni globali posta spam">
-<!ENTITY junkMail.intro "Utilizza Configurazione account posta per configurare le impostazioni di posta spam specifiche per ogni account.">
+<!ENTITY junkMail.intro "Utilizza Configurazione account per configurare le impostazioni di posta spam specifiche per ogni account.">
 <!ENTITY manualMark.label "Quando marco i messaggi come indesiderati:">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Spostali nella cartella &quot;Spam&quot; dell'account">

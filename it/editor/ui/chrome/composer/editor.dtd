@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -44,6 +44,6 @@
 <!ENTITY formattingToolbarCmd.label "Barra di formattazione">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Barra in modalità modifica">
-<!ENTITY editmodeToolbarCmd.accesskey "B">
+<!ENTITY editmodeToolbarCmd.accesskey "m">
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">

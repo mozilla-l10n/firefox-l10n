@@ -21,6 +21,7 @@
    - Contributor(s):
    -   Justin Wood <Callek@gmail.com>
    -  Robert Kaiser <kairo@kairo.at>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,20 +36,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY progress.title "Download in Progress…">
-<!ENTITY closeWindow.key "w">
-<!ENTITY cmd.pause.tooltip "Pause">
-<!ENTITY cmd.resume.tooltip "Resume">
-<!ENTITY cmd.retry.tooltip "Retry">
-<!ENTITY cmd.cancel.tooltip "Cancel">
-<!ENTITY cmd.open.label "Open">
-<!ENTITY cmd.open.accesskey "O">
-<!ENTITY cmd.show.label "Open Containing Folder">
-<!ENTITY cmd.show.accesskey "F">
-<!ENTITY cmd.goToDownloadPage.label "Go to Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
-<!ENTITY cmd.copyDownloadLink.label "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey "L">
-<!ENTITY closeWhenDone.label "Close this window when the download is complete.">
+<!ENTITY progress.title "Download in corso…">
+<!ENTITY closeWindow.key "f">
+<!ENTITY cmd.pause.tooltip "Pausa">
+<!ENTITY cmd.resume.tooltip "Riprendi">
+<!ENTITY cmd.retry.tooltip "Riprova">
+<!ENTITY cmd.cancel.tooltip "Annulla">
+<!ENTITY cmd.open.label "Apri">
+<!ENTITY cmd.open.accesskey "A">
+<!ENTITY cmd.show.label "Apri cartella destinazione">
+<!ENTITY cmd.show.accesskey "c">
+<!ENTITY cmd.goToDownloadPage.label "Vai alla pagina di download">
+<!ENTITY cmd.goToDownloadPage.accesskey "V">
+<!ENTITY cmd.copyDownloadLink.label "Copia indirizzo di origine">
+<!ENTITY cmd.copyDownloadLink.accesskey "o">
+<!ENTITY closeWhenDone.label "Chiudi questa finestra al termine del download.">
 <!ENTITY closeWhenDone.accesskey "w">

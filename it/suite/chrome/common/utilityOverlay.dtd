@@ -1,24 +1,19 @@
-<!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY offlineGoOfflineCmd.label "Lavora fuori linea">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
-
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
-
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nuovo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Composizione pagina">
-<!ENTITY newBlankPageCmd.accesskey "C">
+<!ENTITY newBlankPageCmd.accesskey "o">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Pagina da modello">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label "Pagina da bozza">
 <!ENTITY newPageFromDraftCmd.accesskey "b">
-<!ENTITY newNavigatorCmd.label "Finestra di Navigator">
+<!ENTITY newNavigatorCmd.label "Finestra browser">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "F">
-
+<!ENTITY newNavigatorCmd.accesskey "b">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
@@ -45,29 +40,25 @@
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY findTypeTextCmd.label "Trova testo digitato">
-<!ENTITY findTypeTextCmd.accesskey "g">
+<!ENTITY findTypeTextCmd.accesskey "e">
 <!ENTITY findTypeLinksCmd.label "Trova testo digitato nei collegamenti">
-<!ENTITY findTypeLinksCmd.accesskey "l">
-
+<!ENTITY findTypeLinksCmd.accesskey "m">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Mostra/Nascondi">
 <!ENTITY viewToolbarsMenu.accesskey "M">
 <!ENTITY showTaskbarCmd.label "Barra di stato">
 <!ENTITY showTaskbarCmd.accesskey "s">
-
 <!ENTITY helpMenu.label "Guida">
 <!ENTITY helpMenu.accesskey "G">
-
 <!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
-<!ENTITY updateCmd.label "Check for Updates…">
-<!ENTITY updateCmd.accesskey "C">
+<!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
+<!ENTITY updateCmd.accesskey "a">
 <!ENTITY aboutCmd.label "Informazioni su &brandShortName;">
 <!ENTITY aboutCmd.accesskey "I">
 <!ENTITY aboutCommPluginsCmd.label "Informazioni sui plugin">
 <!ENTITY aboutCommPluginsCmd.accesskey "u">
-
 <!ENTITY direct.label "In linea (proxy: nessuno)">
 <!ENTITY direct.accesskey "n">
 <!ENTITY manual.label "In linea (proxy: manuale)">
@@ -76,37 +67,31 @@
 <!ENTITY pac.accesskey "a">
 <!ENTITY wpad.label "In linea (proxy: ricerca automatica)">
 <!ENTITY wpad.accesskey "r">
-<!ENTITY system.label "Online (Proxy: System Proxy)">
+<!ENTITY system.label "In linea (proxy: proxy di sistema)">
 <!ENTITY system.accesskey "d">
-
 <!ENTITY proxy.label "Configurazione proxy…">
 <!ENTITY proxy.accesskey "C">
-
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambia direzione testo">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-
-<!ENTITY customizeToolbarContext.label "Customize…">
-<!ENTITY customizeToolbarContext.accesskey "C">
-
-<!ENTITY customizeToolbar.toolbarmode.label "Settings for this toolbar">
-<!ENTITY customizeToolbar.toolbarmode.accesskey "e">
-<!ENTITY customizeToolbar.iconsAndText.label "Icons and Text">
-<!ENTITY customizeToolbar.iconsAndText.accesskey "a">
-<!ENTITY customizeToolbar.icons.label "Icons">
+<!ENTITY customizeToolbarContext.label "Personalizza…">
+<!ENTITY customizeToolbarContext.accesskey "P">
+<!ENTITY customizeToolbar.toolbarmode.label "Impostazioni per questa barra degli strumenti">
+<!ENTITY customizeToolbar.toolbarmode.accesskey "z">
+<!ENTITY customizeToolbar.iconsAndText.label "Icone e testo">
+<!ENTITY customizeToolbar.iconsAndText.accesskey "I">
+<!ENTITY customizeToolbar.icons.label "Icone">
 <!ENTITY customizeToolbar.icons.accesskey "o">
-<!ENTITY customizeToolbar.text.label "Text">
+<!ENTITY customizeToolbar.text.label "Testo">
 <!ENTITY customizeToolbar.text.accesskey "T">
-<!ENTITY customizeToolbar.useSmallIcons.label "Use small icons">
-<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
-<!ENTITY customizeToolbar.labelAlignEnd.label "Show text beside icon">
-<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
-<!ENTITY customizeToolbar.useDefault.label "Use default settings">
+<!ENTITY customizeToolbar.useSmallIcons.label "Utilizza icone piccole">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "z">
+<!ENTITY customizeToolbar.labelAlignEnd.label "Mostra testo accanto icone">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "o">
+<!ENTITY customizeToolbar.useDefault.label "Utilizza impostazioni predefinite">
 <!ENTITY customizeToolbar.useDefault.accesskey "U">
-
-<!-- Popup Blocked notification menu -->
-<!ENTITY allowPopups.accesskey "p">
-<!ENTITY showPopupManager.label "Manage Popups">
-<!ENTITY showPopupManager.accesskey "M">
-<!ENTITY dontShowMessage.label "Don't show this message when popups are blocked">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY allowPopups.accesskey "u">
+<!ENTITY showPopupManager.label "Gestione pop-up">
+<!ENTITY showPopupManager.accesskey "G">
+<!ENTITY dontShowMessage.label "Non mostrare questo messaggio quando i pop-up sono bloccati">
+<!ENTITY dontShowMessage.accesskey "N">

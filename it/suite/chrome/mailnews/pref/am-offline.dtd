@@ -14,7 +14,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "M">
 <!ENTITY nntpDownloadMsg.label "Messaggi anteriori a">
 <!ENTITY nntpDownloadMsg.accesskey "a">
-<!ENTITY retentionCleanup.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente">
+<!ENTITY retentionCleanup.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente.">
 <!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, sia in locale sia sul server.">
 <!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, inclusi gli originali sul server.">
 <!ENTITY retentionKeepMsg.label "Cancella i messaggi più vecchi di">

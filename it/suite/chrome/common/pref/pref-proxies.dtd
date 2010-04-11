@@ -1,11 +1,9 @@
-<!-- extracted from content/pref-proxies.xul -->
-
 <!ENTITY pref.proxies.title "Proxy">
 <!ENTITY pref.proxies.desc "Un proxy è un servizio di rete che può filtrare e velocizzare la connessione ad Internet.">
 <!ENTITY proxyTitle.label "Configurazione dei proxy per l'accesso ad Internet">
 <!ENTITY directTypeRadio.label "Connessione diretta ad Internet">
 <!ENTITY directTypeRadio.accesskey "d">
-<!ENTITY systemTypeRadio.label "Use system proxy settings">
+<!ENTITY systemTypeRadio.label "Utilizza le impostazioni proxy di sistema">
 <!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY manualTypeRadio.label "Configurazione manuale del proxy:">
 <!ENTITY manualTypeRadio.accesskey "m">

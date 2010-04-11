@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Inserimento HTML">
-<!ENTITY sourceEditField.label "Inserire testo e tag HTML:">
+<!ENTITY sourceEditField.label "Inserisci testo e tag HTML:">
 <!ENTITY example.label "Esempio: ">
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">

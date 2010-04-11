@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -61,7 +61,7 @@
 <!ENTITY tableAlignment.label "Allineamento tabella:">
 <!ENTITY tableAlignment.accessKey "n">
 <!ENTITY tableCaption.label "Legenda:">
-<!ENTITY tableCaption.accessKey "e">
+<!ENTITY tableCaption.accessKey "L">
 <!ENTITY tableCaptionAbove.label "Sopra la tabella">
 <!ENTITY tableCaptionBelow.label "Sotto la tabella">
 <!ENTITY tableCaptionLeft.label "Prima della tabella">

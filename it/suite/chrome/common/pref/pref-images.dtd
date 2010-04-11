@@ -1,9 +1,6 @@
 <!ENTITY pref.images.title "Immagini">
-
 <!ENTITY imageBlocking.label "Politica di accettazione immagini">
-
 <!ENTITY imageDetails "Specifica come &brandShortName; debba gestire le immagini.">
-
 <!ENTITY accAllImagesRadio.label "Accetta tutte le immagini">
 <!ENTITY accAllImagesRadio.accesskey "A">
 <!ENTITY accOrgImagesRadio.label "Accetta solo le immagini che vengono dal server di origine">
@@ -11,7 +8,7 @@
 <!ENTITY disableImages.label "Non caricare immagini">
 <!ENTITY disableImages.accesskey "N">
 <!ENTITY viewImages.label "Gestione permessi immagini">
-<!ENTITY viewImages.accesskey "e">
+<!ENTITY viewImages.accesskey "G">
 <!ENTITY animLoopingTitle.label "Le immagini animate possono essere visualizzate">
 <!ENTITY animLoopAsSpecified.label "Tante volte quante specificate dall'immagine">
 <!ENTITY animLoopAsSpecified.accesskey "T">

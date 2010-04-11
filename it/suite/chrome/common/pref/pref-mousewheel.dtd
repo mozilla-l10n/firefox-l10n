@@ -1,5 +1,3 @@
-<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
-
 <!ENTITY pref.mouseWheel.title "Rotellina mouse">
 <!ENTITY mouseWheelPanel.label "Specificare il comportamento della rotellina del mouse se usata in combinazione con il seguente tasto: ">
 <!ENTITY usingJustTheWheel.label "Nessun tasto">
@@ -11,8 +9,8 @@
 <!ENTITY scroll.label "Scorri il documento di">
 <!ENTITY scroll.accesskey "S">
 <!ENTITY scrollHoriz.accesskey "c">
-<!ENTITY scrollLines.label " linee">
-<!ENTITY scrollChars.label " caratteri">
+<!ENTITY scrollLines.label "linee">
+<!ENTITY scrollChars.label "caratteri">
 <!ENTITY useSystemDefault.label "Utilizza le impostazioni predefinite">
 <!ENTITY useSystemDefault.accesskey "U">
 <!ENTITY useSystemDefaultHoriz.accesskey "z">
@@ -23,6 +21,6 @@
 <!ENTITY history.label "Muovi avanti/indietro nella cronologia">
 <!ENTITY history.accesskey "M">
 <!ENTITY historyHoriz.accesskey "v">
-<!ENTITY zoom.label "Zoom the page in or out">
-<!ENTITY zoom.accesskey "Z">
+<!ENTITY zoom.label "Fai zoom dentro o fuori la pagina">
+<!ENTITY zoom.accesskey "F">
 <!ENTITY zoomHoriz.accesskey "e">

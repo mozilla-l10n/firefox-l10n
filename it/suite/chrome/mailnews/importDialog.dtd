@@ -1,41 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 2001
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-     Jeff Beckley <beckley@qualcomm.com>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
+<!--null-->
 <!ENTITY importDialog.windowTitle "Importa">
 <!ENTITY importAll.label "Importa tutto">
 <!ENTITY importAll.accesskey "t">
@@ -47,29 +10,21 @@
 <!ENTITY importSettings.accesskey "I">
 <!ENTITY importFilters.label "Filtri">
 <!ENTITY importFilters.accesskey "F">
-
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "50em">
-
 <!ENTITY importTitle.label "Importazione guidata di &brandShortName;">
 <!ENTITY importShortDesc.label "Importa posta, impostazioni, rubrica e filtri da altri programmi">
-
 <!ENTITY importDescription1.label "Questo processo importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
-
 <!ENTITY selectDescription.label "Selezionare il programma dal quale eseguire l'importazione:">
-<!ENTITY selectDescription.accesskey "P">
-
+<!ENTITY selectDescription.accesskey "S">
 <!ENTITY back.label "&lt; Indietro">
 <!ENTITY forward.label "Avanti &gt;">
 <!ENTITY finish.label "Finito">
 <!ENTITY cancel.label "Annulla">
-
 <!ENTITY select.label "o seleziona il tipo di materiale da importare:">
-
 <!ENTITY title.label "Titolo">
 <!ENTITY processing.label "Importazione in corso…">
-
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x ha un indirizzo di posta per ogni scheda, mentre &brandShortName; ne ha due (Casa e Ufficio).">
 <!ENTITY FieldDiscInputText2.label "Selezionare la categoria nella quale immagazzinare gli indirizzi di posta importati:">
 <!ENTITY FieldDiscWarning.label "Questa sezione sarà utilizzata per tutte le voci della rubrica selezionata: ">

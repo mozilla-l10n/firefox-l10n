@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Peter Annema <disttsc@bart.nl> (Original Author)
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -34,6 +35,5 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY askViewZoom.title "Zoom testo">
 <!ENTITY selectZoom.label "Selezionare zoom testo (&#037;):">
