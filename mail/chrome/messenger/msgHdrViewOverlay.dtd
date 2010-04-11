@@ -41,8 +41,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Mostrar siempre Responder al remitente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 <!ENTITY otherActionsButton.label "otras acciones">
-<!ENTITY otherActionsShowConversation.label "mostrar en la conversación">
-<!ENTITY otherActionsShowConversation.accesskey "m">
+<!ENTITY otherActionsOpenConversation.label "abrir en la conversación">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "abrir en ventana nueva">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "a">
 <!ENTITY otherActionsOpenInNewTab.label "abrir en pestaña nueva">

@@ -387,6 +387,9 @@
 <!ENTITY openMessageWindowCmd.label "Abrir mensaje">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Abrir en la conversación">
+<!ENTITY openConversationCmd.accesskey "b">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Abrir mensaje del canal">
 <!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Página web en ventana nueva">
@@ -575,6 +578,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Abrir el mensaje en pestaña nueva">
 <!ENTITY contextOpenNewTab.accesskey "b">
+<!ENTITY contextOpenConversation.label "Abrir mensaje en la conversación">
+<!ENTITY contextOpenConversation.accesskey "c">
 <!ENTITY contextEditAsNew.label "Editar como nuevo…">
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archivar">
@@ -619,6 +624,9 @@
 <!ENTITY phishingBarMessage2.label "Este mensaje puede ser fraudulento.">
 <!ENTITY removePhishingBarButton1.label "Ignorar advertencia">
 <!ENTITY reportPhishingError1.label "Este mensaje no parece ser fraudulento.">
+<!ENTITY mdnBarMessage.label "El remitente de este mensaje ha solicitado ser notificado cuando se lea este mensaje. ¿Desea notificar al remitente?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorar solicitud">
+<!ENTITY mdnBarSendButton.label "Enviar acuse de recibo">
 <!ENTITY more.label "más">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Buscar todos los mensajes">
