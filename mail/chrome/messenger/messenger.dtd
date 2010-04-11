@@ -387,6 +387,9 @@
 <!ENTITY openMessageWindowCmd.label "Apri messaggio">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Apri nella conversazione">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "A">
 <!ENTITY openFeedMessage.label "Apri il messaggio">
 <!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Pagina web in una nuova finestra">
@@ -575,6 +578,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!ENTITY contextOpenNewTab.label "Apri il messaggio in una nuova scheda">
 <!ENTITY contextOpenNewTab.accesskey "u">
+<!ENTITY contextOpenConversation.label "Apri il messaggio nella conversazione">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Modifica come nuovo…">
 <!ENTITY contextEditAsNew.accesskey "o">
 <!ENTITY contextArchive.label "Archivia">
@@ -619,6 +624,9 @@
 <!ENTITY phishingBarMessage2.label "Questo messaggio potrebbe essere una frode.">
 <!ENTITY removePhishingBarButton1.label "Ignorare l'avviso">
 <!ENTITY reportPhishingError1.label "Questo messaggio non sembra essere una frode.">
+<!ENTITY mdnBarMessage.label "Il mittente chiede una conferma di lettura, inviare la ricevuta?">
+<!ENTITY mdnBarIgnoreButton.label "Ignora la richiesta">
+<!ENTITY mdnBarSendButton.label "Invia la ricevuta">
 <!ENTITY more.label "altri">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Ricerca globale">
