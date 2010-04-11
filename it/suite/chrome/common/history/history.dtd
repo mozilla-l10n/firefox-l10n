@@ -1,7 +1,7 @@
 <!ENTITY historyWindowTitle.label "Cronologia">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY searchBar.tooltip "Barra di ricerca">
-<!ENTITY search.emptytext "Cerca nella cronologia">
+<!ENTITY search.placeholder "Cerca nella cronologia">
 <!ENTITY search.key "r">
 <!ENTITY view.label "Visualizza">
 <!ENTITY view.columns.label "Mostra colonne">

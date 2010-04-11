@@ -39,6 +39,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY bookmarkToolbar.tooltip "Barra dei Segnalibri">
+<!ENTITY search.placeholder "Cerca nei segnalibri">
 <!ENTITY menuitem.newBookmark.label "Segnalibro">
 <!ENTITY menuitem.newBookmark.accesskey "b">
 <!ENTITY menuitem.newFolder.label "Cartella">
