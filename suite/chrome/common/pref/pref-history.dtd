@@ -1,15 +1,6 @@
 <!ENTITY pref.history.title "Cronologia">
 <!ENTITY pref.history.caption "Cronologia di navigazione">
 <!ENTITY historyPages.label "La cronologia è un elenco di pagine visitate.">
-<!ENTITY expireDaysMin1.label "Ricorda sempre le pagine visitate per almeno">
-<!ENTITY expireDaysMin1.accesskey "R">
-<!ENTITY expireDaysMin2.label "giorni">
-<!ENTITY expireDays1.label "Ricorda la pagine visitate per">
-<!ENTITY expireDays1.accesskey "v">
-<!ENTITY expireDays2.label "giorni">
-<!ENTITY expireSites1.label "Ricorda fino a">
-<!ENTITY expireSites1.accesskey "f">
-<!ENTITY expireSites2.label "pagine visitate">
 <!ENTITY clearHistory.label "Svuota cronologia">
 <!ENTITY clearHistory.accesskey "S">
 <!ENTITY locationBarHistory.caption "Cronologia barra degli indirizzi">

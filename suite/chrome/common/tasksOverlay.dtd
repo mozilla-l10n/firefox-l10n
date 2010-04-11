@@ -4,8 +4,6 @@
 <!ENTITY editorCmd.label "Composer">
 <!ENTITY editorCmd.accesskey "C">
 <!ENTITY editorCmd.commandkey "4">
-<!ENTITY javaConsoleCmd.label "Console Java">
-<!ENTITY javaConsoleCmd.accesskey "J">
 <!ENTITY errorConsoleCmd.label "Console di errore">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">

@@ -6,8 +6,6 @@
 <!ENTITY searchLocalSystem.accesskey "u">
 <!ENTITY resetButton.label "Cancella">
 <!ENTITY resetButton.accesskey "a">
-<!ENTITY helpButton.label "Guida">
-<!ENTITY helpButton.accesskey "G">
 <!ENTITY openButton.label "Apri">
 <!ENTITY openButton.accesskey "p">
 <!ENTITY deleteButton.label "Elimina">

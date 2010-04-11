@@ -1,7 +1,7 @@
 <!ENTITY downloadManager.title "Gestione download">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY searchBar.tooltip "Barra di ricerca">
-<!ENTITY search.emptytext "Cerca nei download">
+<!ENTITY search.placeholder "Cerca nei download">
 <!ENTITY search.label "Cerca nei download">
 <!ENTITY search.accesskey "C">
 <!ENTITY search.key "e">

@@ -3,4 +3,4 @@
 <!ENTITY typeColumn.accesskey "T">
 <!ENTITY actionColumn2.label "Azione">
 <!ENTITY actionColumn2.accesskey "A">
-<!ENTITY search.emptytext "Cerca tra i tipi file e le azioni">
+<!ENTITY search.placeholder "Cerca tra i tipi file e le azioni">
