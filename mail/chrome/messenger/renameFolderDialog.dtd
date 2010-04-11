@@ -39,3 +39,6 @@
 <!ENTITY renameFolderDialog.title          "Mapnaam wijzigen">
 <!ENTITY rename.label                      "Voer een nieuwe naam in voor de map:">
 <!ENTITY rename.accesskey                  "V">
+<!ENTITY accept.label                      "Hernoemen">
+<!ENTITY accept.accesskey                  "H">
+
