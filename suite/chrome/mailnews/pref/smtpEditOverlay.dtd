@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Porta:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Utilizza nome utente e password">
-<!ENTITY alwaysUseUsername.accesskey "z">
 <!ENTITY userName.label "Nome utente:">
 <!ENTITY userName.accesskey "u">
-<!ENTITY useSecAuth.label "Utilizza autenticazione sicura">
-<!ENTITY useSecAuth.accesskey "e">
 <!ENTITY connectionSecurity.label "Sicurezza della connessione:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "nessuna">
