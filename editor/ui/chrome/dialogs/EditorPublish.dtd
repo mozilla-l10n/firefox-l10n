@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -46,7 +46,7 @@
 <!ENTITY newSiteButton.label "Nuovo sito">
 <!ENTITY newSiteButton.accesskey "N">
 <!ENTITY docDirList.label "Percorso nel sito per la pagina:">
-<!ENTITY docDirList.accesskey "S">
+<!ENTITY docDirList.accesskey "P">
 <!ENTITY docDirList.tooltip "Scegli o digita il nome della sottocartella remota per questa pagina">
 <!ENTITY publishImgCheckbox.label "Includi immagini e altri file">
 <!ENTITY publishImgCheckbox.accesskey "I">
@@ -63,11 +63,11 @@
 <!ENTITY pageTitle.tooltip "Inserisci un titolo per identificare la pagina nella finestra e nei segnalibri">
 <!ENTITY pageTitleExample.label "es.: &quot;La mia pagina web&quot;">
 <!ENTITY filename.label "Nome file:">
-<!ENTITY filename.accesskey "F">
+<!ENTITY filename.accesskey "f">
 <!ENTITY filename.tooltip "Inserisci un nome per questo file, incluso '.html' per pagine web">
 <!ENTITY filenameExample.label "es.: &quot;lamiapagina.html&quot;">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
-<!ENTITY setDefaultButton.accesskey "p">
+<!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Rimuovi sito">
 <!ENTITY removeButton.accesskey "R">
 <!ENTITY publishSites.label "Siti di pubblicazione">
@@ -77,13 +77,13 @@
 <!ENTITY siteName.accesskey "e">
 <!ENTITY siteName.tooltip "Un nome che identifica questo sito di pubblicazione (ad es. 'mioSito')">
 <!ENTITY siteUrl.label "Percorso di pubblicazione (ad es.: 'ftp://ftp.isp.com/nomeutente'):">
-<!ENTITY siteUrl.accesskey "a">
+<!ENTITY siteUrl.accesskey "P">
 <!ENTITY siteUrl.tooltip "L'indirizzo ftp:// o http:// fornito dal proprio ISP o servizio di hosting web">
 <!ENTITY browseUrl.label "Indirizzo HTTP della pagina home (ad es.: 'http://www.isp.com/nomeutente'):">
-<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.accesskey "H">
 <!ENTITY browseUrl.tooltip "L'indirizzo http:// della cartella home (senza il nome del file)">
 <!ENTITY username.label "Nome utente:">
-<!ENTITY username.accesskey "U">
+<!ENTITY username.accesskey "u">
 <!ENTITY username.tooltip "Il nome utente usato per accedere all'ISP od al servizio di hosting web">
 <!ENTITY password.label "Password:">
 <!ENTITY password.accesskey "w">

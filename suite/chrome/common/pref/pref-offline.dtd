@@ -1,7 +1,5 @@
-<!-- extracted from content/pref-offline.xul -->
-
 <!ENTITY window.title "Fuori linea">
-<!ENTITY boxHeader "Scollegamento e collegamento alla rete">
+<!ENTITY boxHeader "Fuori linea">
 <!ENTITY rHeader "Fuori linea">
 <!ENTITY textStart "All'avvio di &brandShortName;:">
 <!ENTITY radioAskMode "Chiedi se si desidera la modalità in linea o fuori linea">

@@ -3,6 +3,6 @@
 <!ENTITY clearLog.label "Pulisci registro attività">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY enableLog.label "Attiva registro attività per i filtri">
-<!ENTITY enableLog.accesskey "E">
+<!ENTITY enableLog.accesskey "v">
 <!ENTITY closeLog.label "Chiudi">
 <!ENTITY closeLog.accesskey "C">

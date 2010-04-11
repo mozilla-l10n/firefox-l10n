@@ -3,13 +3,13 @@
 <!ENTITY authorName.accesskey "A">
 <!ENTITY pageColorHeader "Aspetto predefinito della pagina">
 <!ENTITY defaultColors.label "Colori predefiniti utente (non modificare i colori nella pagina)">
-<!ENTITY defaultColors.accesskey "n">
+<!ENTITY defaultColors.accesskey "d">
 <!ENTITY customColors.label "Utilizza colori personalizzati:">
 <!ENTITY customColors.accesskey "U">
 <!ENTITY normalText.label "Testo semplice">
 <!ENTITY normalText.accesskey "T">
 <!ENTITY linkText.label "Testo collegamento">
-<!ENTITY linkText.accesskey "o">
+<!ENTITY linkText.accesskey "c">
 <!ENTITY activeLinkText.label "Testo collegamento attivo">
 <!ENTITY activeLinkText.accesskey "v">
 <!ENTITY visitedLinkText.label "Testo collegamento visitato">

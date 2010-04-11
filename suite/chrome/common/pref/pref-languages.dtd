@@ -1,29 +1,25 @@
-<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
-
 <!ENTITY languages.customize.prefLangDescript "Le pagine web sono a volte disponibili in più lingue. Scegliere le lingue con cui mostrare le pagine web, in ordine di preferenza.">
-<!ENTITY languages.customize.title "Languages">
+<!ENTITY languages.customize.title "Lingue">
 <!ENTITY langtitle.label "Lingue per le pagine web">
-<!ENTITY languages.customize.prefAddLangDescript "Selezionare una o più lingue da aggiungere.">
+<!ENTITY languages.customize.prefAddLangDescript "Seleziona una o più lingue da aggiungere.">
 <!ENTITY languages.customize.addButton.label "Aggiungi…">
 <!ENTITY languages.customize.addButton.accesskey "A">
 <!ENTITY languages.customize.deleteButton.label "Rimuovi">
 <!ENTITY languages.customize.deleteButton.accesskey "R">
-<!ENTITY languages.customize.add.title.label "Inserimento lingua">
+<!ENTITY languages.customize.add.title.label "Aggiungi lingua">
 <!ENTITY languages.customize.available.label "Lingue:">
 <!ENTITY languages.customize.active.label "Lingue in ordine di preferenza:">
 <!ENTITY languages.customize.active.accesskey "L">
-<!ENTITY languages.customize.others.label "Altri:">
+<!ENTITY languages.customize.others.label "Altro:">
 <!ENTITY languages.customize.others.accesskey "A">
-<!ENTITY languages.customize.Charset.grouplabel "Codifica caratteri">
+<!ENTITY languages.customize.Charset.grouplabel "Codifica caratteri predefinita">
 <!ENTITY languages.customize.DefaultCharset.label "Codifica caratteri predefinita:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">
-<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "es.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label "Muovi in alto">
 <!ENTITY languages.customize.moveUp.accesskey "M">
 <!ENTITY languages.customize.moveDown.label "Muovi in basso">
 <!ENTITY languages.customize.moveDown.accesskey "b">
-
 <!ENTITY spelling.label "Controllo ortografico">
 <!ENTITY checkSpelling.label "Controllo ortografico durante la scrittura:">
 <!ENTITY checkSpelling.accesskey "o">

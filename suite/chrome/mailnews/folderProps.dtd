@@ -23,6 +23,7 @@
    -   Mohan Bhamidipati <mohanb@netscape.com>
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,9 +38,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY folderProps.windowtitle.label "Proprietà">
-
 <!ENTITY generalInfo.label "Informazioni generali">
 <!ENTITY folderCharsetTab.label "Codifica caratteri predefinita:">
 <!ENTITY folderCharsetTab.accesskey "e">
@@ -48,51 +47,43 @@
 <!ENTITY folderRebuildSummaryFile.label "Ricostruisci l'indice">
 <!ENTITY folderRebuildSummaryFile.accesskey "R">
 <!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci il file sommario">
-
 <!ENTITY retention.label "Politica di conservazione">
-<!ENTITY retentionUseAccount.label "Usa le impostazioni dell'account">
+<!ENTITY retentionUseAccount.label "Utilizza le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "giorni">
 <!ENTITY message.label "messaggi più recenti">
 <!ENTITY retentionCleanup.label "Conserva i messaggi:">
-<!ENTITY retentionCleanupImap.label "Keep messages, both the local copies and their originals on the server:">
-<!ENTITY retentionCleanupPop.label "Keep messages, including their originals on the server:">
+<!ENTITY retentionCleanupImap.label "Conserva i messaggi, sia le copie locali sia gli originali sul server:">
+<!ENTITY retentionCleanupPop.label "Conserva i messaggi, compresi gli originali sul server:">
 <!ENTITY retentionDeleteMsg.label "Elimina i messaggi più vecchi di">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Tutti i messaggi">
 <!ENTITY retentionKeepAll.accesskey "T">
-<!ENTITY retentionKeepRecent.label "The newest">
+<!ENTITY retentionKeepRecent.label "Il più recente">
 <!ENTITY retentionKeepRecent.accesskey "n">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Elimina sempre i messaggi già letti (senza considerare le impostazioni di età)">
-<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
+<!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi segnati">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-
 <!ENTITY folderSynchronizationTab.label "Sincronizzazione">
 <!ENTITY folderCheckForNewMessages.label "Controlla l'arrivo di nuovi messaggi in questa cartella">
 <!ENTITY folderCheckForNewMessages.accesskey "C">
-
 <!ENTITY offlineFolder.check.label "Seleziona questa cartella per l'uso non in linea">
 <!ENTITY offlineFolder.check.accesskey "S">
 <!ENTITY offlineFolder.button.label "Scarica ora">
 <!ENTITY offlineFolder.button.accesskey "S">
-
 <!ENTITY selectofflineNewsgroup.check.label "Seleziona questo gruppo di discussione per l'uso non in linea">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
 <!ENTITY offlineNewsgroup.button.label "Scarica ora">
 <!ENTITY offlineNewsgroup.button.accesskey "S">
-
 <!ENTITY folderProps.name.label "Nome:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Posizione:">
 <!ENTITY folderProps.location.accesskey "P">
-
 <!ENTITY folderSharingTab.label "Condivisione">
 <!ENTITY privileges.button.label "Privilegi…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Si possiedono i seguenti privilegi:">
 <!ENTITY folderType.label "Tipo cartella:">
-
 <!ENTITY folderQuotaTab.label "Quota">
 <!ENTITY folderQuotaRoot.label "Quota radice:">
 <!ENTITY folderQuotaUsage.label "Utilizzo:">

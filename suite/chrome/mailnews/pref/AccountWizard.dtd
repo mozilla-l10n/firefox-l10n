@@ -32,7 +32,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "L'attuale server di uscita (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account posta dal menu Modifica.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
 <!ENTITY loginTitle.label "Nomi utente">
 <!ENTITY usernameDesc.label "Inserire il nome utente in ingresso comunicato dal proprio fornitore di e-mail">
 <!ENTITY usernameExample.label "(ad esempio, &quot;mrossi&quot;)">
@@ -42,9 +42,9 @@
 <!ENTITY usernameSmtpLabel.label "Nome utente in uscita:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
 <!ENTITY haveSmtp2.prefix "L'attuale nome utente per il server in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account posta dal menu Modifica.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
 <!ENTITY haveSmtp3.prefix "Il server in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, è lo stesso della posta in arrivo, verrà usato il tuo nome utente della posta in arrivo per accedervi. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account posta dal menu Modifica.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, è lo stesso della posta in arrivo, verrà usato il tuo nome utente della posta in arrivo per accedervi. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
 <!ENTITY accnameTitle.label "Nome account">
 <!ENTITY accnameDesc.label "Inserire un nome per questo account (ad esempio, &quot;Lavoro&quot;, &quot;Casa&quot;, oppure &quot;Account gruppi discussione&quot;).">
 <!ENTITY accnameLabel.label "Nome account:">

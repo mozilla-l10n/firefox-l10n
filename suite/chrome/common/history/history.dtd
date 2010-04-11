@@ -1,53 +1,44 @@
-<!-- history.xul, history-panel.xul, placesOverlay.xul -->
-
 <!ENTITY historyWindowTitle.label "Cronologia">
 <!ENTITY menuBar.tooltip "Barra del menu">
-<!ENTITY searchBar.tooltip "Search Bar">
-
-<!ENTITY search.emptytext "Search History">
-<!ENTITY search.key "f">
+<!ENTITY searchBar.tooltip "Barra di ricerca">
+<!ENTITY search.emptytext "Cerca nella cronologia">
+<!ENTITY search.key "r">
 <!ENTITY view.label "Visualizza">
-
-<!ENTITY view.columns.label "Show Columns">
-<!ENTITY view.columns.accesskey "C">
-<!ENTITY view.sortBy.label "Sort by">
-<!ENTITY view.sortBy.accesskey "S">
-<!ENTITY view.groupBy.label "Group by">
-<!ENTITY view.groupBy.accesskey "G">
-
-<!ENTITY view.unsorted.label "Unsorted">
-<!ENTITY view.unsorted.accesskey "U">
-<!ENTITY view.sortAscending.label "A > Z Sort Order">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Z > A Sort Order">
-<!ENTITY view.sortDescending.accesskey "Z">
-
-<!ENTITY view.groupNone.label "None">
+<!ENTITY view.columns.label "Mostra colonne">
+<!ENTITY view.columns.accesskey "M">
+<!ENTITY view.sortBy.label "Ordina per">
+<!ENTITY view.sortBy.accesskey "O">
+<!ENTITY view.groupBy.label "Raggruppa per">
+<!ENTITY view.groupBy.accesskey "R">
+<!ENTITY view.unsorted.label "Nessuno">
+<!ENTITY view.unsorted.accesskey "N">
+<!ENTITY view.sortAscending.label "Ordine alfabetico">
+<!ENTITY view.sortAscending.accesskey "O">
+<!ENTITY view.sortDescending.label "Ordine alfabetico inverso">
+<!ENTITY view.sortDescending.accesskey "v">
+<!ENTITY view.groupNone.label "Nessuno">
 <!ENTITY view.groupNone.accesskey "N">
-<!ENTITY view.groupDay.label "Day">
-<!ENTITY view.groupDay.accesskey "D">
-<!ENTITY view.groupSite.label "Site">
+<!ENTITY view.groupDay.label "Giorno">
+<!ENTITY view.groupDay.accesskey "G">
+<!ENTITY view.groupSite.label "Sito">
 <!ENTITY view.groupSite.accesskey "S">
-<!ENTITY view.groupDayAndSite.label "Day and Site">
-<!ENTITY view.groupDayAndSite.accesskey "a">
-
-<!ENTITY cmd.open.label "Open">
-<!ENTITY cmd.open.accesskey "O">
-<!ENTITY cmd.open_window.label "Open Link in New Window">
-<!ENTITY cmd.open_window.accesskey "W">
-<!ENTITY cmd.open_tab.label "Open Link in New Tab">
-<!ENTITY cmd.open_tab.accesskey "T">
-
-<!ENTITY bookmarkLinkCmd.label "Bookmark This Link…">
-<!ENTITY bookmarkLinkCmd.accesskey "B">
-<!ENTITY bookmarkLinksCmd.label "Bookmark These Links">
-<!ENTITY bookmarkLinksCmd.accesskey "B">
-
-<!ENTITY col.title.label "Title">
-<!ENTITY col.title.accesskey "T">
-<!ENTITY col.url.label "Location">
-<!ENTITY col.url.accesskey "L">
-<!ENTITY col.lastvisit.label "Last Visited">
-<!ENTITY col.lastvisit.accesskey "V">
-<!ENTITY col.visitcount.label "Visit Count">
-<!ENTITY col.visitcount.accesskey "C">
+<!ENTITY view.groupDayAndSite.label "Giorno e sito">
+<!ENTITY view.groupDayAndSite.accesskey "e">
+<!ENTITY cmd.open.label "Apri">
+<!ENTITY cmd.open.accesskey "A">
+<!ENTITY cmd.open_window.label "Apri collegamento in nuova finestra">
+<!ENTITY cmd.open_window.accesskey "f">
+<!ENTITY cmd.open_tab.label "Apri collegamento in nuova scheda">
+<!ENTITY cmd.open_tab.accesskey "s">
+<!ENTITY bookmarkLinkCmd.label "Aggiungi link come segnalibro…">
+<!ENTITY bookmarkLinkCmd.accesskey "b">
+<!ENTITY bookmarkLinksCmd.label "Aggiungi link come segnalibri">
+<!ENTITY bookmarkLinksCmd.accesskey "b">
+<!ENTITY col.title.label "Qualifica">
+<!ENTITY col.title.accesskey "Q">
+<!ENTITY col.url.label "Tipo">
+<!ENTITY col.url.accesskey "T">
+<!ENTITY col.lastvisit.label "Ultima visita">
+<!ENTITY col.lastvisit.accesskey "U">
+<!ENTITY col.visitcount.label "Numero visite">
+<!ENTITY col.visitcount.accesskey "N">

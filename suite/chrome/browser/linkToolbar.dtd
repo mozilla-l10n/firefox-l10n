@@ -21,6 +21,7 @@
    - Contributor(s):
    -      Eric Hodel <drbrain@segment7.net>
    -      Stuart Ballard <sballard@netreach.net>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,29 +36,21 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Barra navigazione sito">
 <!ENTITY linkToolbar.accesskey "t">
-
-<!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
 <!ENTITY linkToolbarAlways.accesskey "M">
 <!ENTITY linkToolbarAsNeeded.label "Mostra solo se necessario">
-<!ENTITY linkToolbarAsNeeded.accesskey "c">
+<!ENTITY linkToolbarAsNeeded.accesskey "s">
 <!ENTITY linkToolbarNever.label "Nascondi sempre">
 <!ENTITY linkToolbarNever.accesskey "N">
-
-<!-- Toolbar buttons, menus, and menuitems -->
 <!ENTITY topButton.label "Inizio">
 <!ENTITY upButton.label "Sali">
 <!ENTITY firstButton.label "Primo">
 <!ENTITY prevButton.label "Precedente">
 <!ENTITY nextButton.label "Prossimo">
 <!ENTITY lastButton.label "Ultimo">
-
 <!ENTITY documentButton.label "Documento">
-
 <!ENTITY tocButton.label "Indice argomenti">
 <!ENTITY chapterButton.label "Capitoli">
 <!ENTITY sectionButton.label "Sezioni">
@@ -65,17 +58,11 @@
 <!ENTITY appendixButton.label "Appendici">
 <!ENTITY glossaryButton.label "Glossario">
 <!ENTITY indexButton.label "Indice">
-
 <!ENTITY moreButton.label "Altro">
-
 <!ENTITY helpButton.label "Guida">
 <!ENTITY searchButton.label "Ricerca">
-
 <!ENTITY authorButton.label "Autori">
 <!ENTITY copyrightButton.label "Copyright">
-
 <!ENTITY bookmarkButton.label "Segnalibri">
-
 <!ENTITY alternateButton.label "Altre versioni">
-
-<!ENTITY feedButton.label "Subscribe">
+<!ENTITY feedButton.label "Abbonati">

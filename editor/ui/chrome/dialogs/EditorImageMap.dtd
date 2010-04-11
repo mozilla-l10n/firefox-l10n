@@ -22,7 +22,7 @@
    - Contributor(s):
    -   Dan Haddix (dan6992@hotmail.com)
    -   Brian King (briano9@yahoo.com)
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -39,29 +39,29 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Editor mappa dell'immagine">
 <!ENTITY mapfileMenu.label "File">
-<!ENTITY mapfileMenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "Pulisci">
 <!ENTITY clearCmd.accesskey "P">
 <!ENTITY closeCmd.label "Chiudi">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "h">
 <!ENTITY mapeditMenu.label "Modifica">
-<!ENTITY mapeditMenu.accesskey "o">
+<!ENTITY mapeditMenu.accesskey "M">
 <!ENTITY cutCmd.label "Taglia">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Incolla">
-<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY pasteCmd.accesskey "I">
 <!ENTITY selectallCmd.label "Seleziona tutto">
-<!ENTITY selectallCmd.accesskey "s">
+<!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Proprietà area collegamento">
 <!ENTITY propsCmd.accesskey "a">
 <!ENTITY mapviewMenu.label "Visualizza">
-<!ENTITY mapviewMenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Nascondi barra strumenti">
-<!ENTITY showhideTbarCmd.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "b">
 <!ENTITY mapviewScale.label "Ridimensiona">
-<!ENTITY mapviewScale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "R">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">

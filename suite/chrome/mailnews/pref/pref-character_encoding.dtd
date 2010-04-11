@@ -2,7 +2,7 @@
 <!ENTITY pref.character.encoding.title "Codifica caratteri">
 <!ENTITY messageDisplay.caption "Visualizzazione messaggi">
 <!ENTITY viewDefaultCharset.label "Codifica caratteri predefinita:">
-<!ENTITY viewDefaultCharset.accesskey "C">
+<!ENTITY viewDefaultCharset.accesskey "d">
 <!ENTITY composingMessages.caption "Composizione messaggi">
 <!ENTITY useMIME.label "Per i messaggi che contengono caratteri a 8 bit, utilizza la codifica MIME 'quoted printable'. Lasciarlo non selezionato per inviare il messaggio senza modifiche.">
 <!ENTITY useMIME.accesskey "P">

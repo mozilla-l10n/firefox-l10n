@@ -1,19 +1,13 @@
-
-<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
 <!ENTITY messengerCmd.label "Posta e gruppi di discussione">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Rubrica">
 <!ENTITY addressBookCmd.accesskey "R">
 <!ENTITY addressBookCmd.commandkey "5">
-
-<!ENTITY taskMessenger.tooltip "Posta e Gruppi di discussione">
+<!ENTITY taskMessenger.tooltip "Posta e gruppi di discussione">
 <!ENTITY taskAddressBook.tooltip "Rubrica">
-
-<!-- searchAddressesCmd is also used by addressbook -->
 <!ENTITY searchAddressesCmd.label "Cerca indirizzi…">
 <!ENTITY searchAddressesCmd.accesskey "i">
-
 <!ENTITY searchMailCmd.label "Cerca messaggi…">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">

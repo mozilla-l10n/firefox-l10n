@@ -1,33 +1,20 @@
-<!-- win -->
-<!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
-                         You may want to translate the Cmd.key and accesskey --> 
-
-<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
-
-<!ENTITY quitApplicationCmd.label "Exit">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY quitApplicationCmd.label "Esci">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "x">
-
-<!ENTITY redoCmd.label "Redo">
+<!ENTITY quitApplicationCmd.accesskey "E">
+<!ENTITY redoCmd.label "Ripeti">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
-
 <!ENTITY accel.emacs_conflict "accel">
-
-<!-- Help viewer -->
-<!ENTITY openHelpCmd.label "Help Contents">
-<!ENTITY openHelpCmd.accesskey "H">
+<!ENTITY openHelpCmd.label "Contenuti della guida">
+<!ENTITY openHelpCmd.accesskey "C">
 <!ENTITY openHelpCmd.key "VK_F1">
-<!ENTITY helpForIEUsers.label "For Internet Explorer Users">
+<!ENTITY helpForIEUsers.label "Per utenti di Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-
-<!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
-<!ENTITY shiftKey.label "Shift">
-
+<!ENTITY shiftKey.label "Maiusc">

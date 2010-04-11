@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -47,4 +47,4 @@
 <!ENTITY changeEntireListRadio.label "Cambia l'intero elenco">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Cambia solo gli elementi selezionati">
-<!ENTITY changeSelectedRadio.accessKey "e">
+<!ENTITY changeSelectedRadio.accessKey "s">

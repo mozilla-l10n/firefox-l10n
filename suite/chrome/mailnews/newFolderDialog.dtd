@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
+   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,8 +35,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Labels -->
 <!ENTITY newFolderDialog.title "Nuova cartella">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
