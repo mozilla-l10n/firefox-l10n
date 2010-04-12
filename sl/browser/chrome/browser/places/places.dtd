@@ -105,7 +105,7 @@
 <!ENTITY cmd.new_livemark.accesskey "ž">
 <!ENTITY cmd.new_folder.label "Nova mapa…">
 <!ENTITY cmd.new_folder.accesskey "i">
-<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.context_new_folder.accesskey "M">
 <!ENTITY cmd.new_separator.label "Nova ločilna črta">
 <!ENTITY cmd.new_separator.accesskey "l">
 
