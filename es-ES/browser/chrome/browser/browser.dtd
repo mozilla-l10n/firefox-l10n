@@ -175,6 +175,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY viewTabsOnTop.label "Pestañas en la parte superior">
+<!ENTITY viewTabsOnTop.accesskey "T">
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
