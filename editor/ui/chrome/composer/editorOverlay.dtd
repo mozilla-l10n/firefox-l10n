@@ -298,7 +298,7 @@
 
 <!ENTITY ParagraphSelect.tooltip             "Vali lõigu formaat">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label                   "Sisu tekst">
+<!ENTITY bodyTextCmd.label                   "Sisutekst">
 <!ENTITY bodyTextCmd.accesskey               "S">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label         "Täpsemad omadused">
