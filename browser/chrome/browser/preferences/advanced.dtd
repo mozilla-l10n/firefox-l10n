@@ -26,7 +26,7 @@
 <!ENTITY alwaysCheckDefault.accesskey "v">
 <!ENTITY checkNow.label "Preveri zdaj">
 <!ENTITY checkNow.accesskey "E">
-<!ENTITY submitCrashes.label             "Submit crash reports">
+<!ENTITY submitCrashes.label             "Pošlji poročila o sesutju">
 <!ENTITY submitCrashes.accesskey         "S">
 
 <!ENTITY networkTab.label "Mreža">
