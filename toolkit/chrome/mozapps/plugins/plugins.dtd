@@ -28,7 +28,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Seite neu laden,">
-<!ENTITY reloadPlugin.post                                   " um es erneut zu versuchen">
+<!ENTITY reloadPlugin.post                                   " um es erneut zu versuchen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Absturzmeldung senden">
 <!ENTITY report.submitting                                   "Meldung wird gesendet…">
