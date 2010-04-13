@@ -4,8 +4,12 @@
 <!ENTITY fccMailFolder.accesskey         "i">
 <!ENTITY fccReplyFollowsParent.label     "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
 <!ENTITY fccReplyFollowsParent.accesskey "o">
+<!ENTITY ccAddress.label                 "wysyłaj kopię do:">
+<!ENTITY ccAddress.accesskey             "k">
+<!ENTITY ccAddressList.emptytext         "adresy e-mail rozdzielone przecinkami">
 <!ENTITY bccAddress.label                "wysyłaj ukrytą kopię do:">
-<!ENTITY bccAddress.accesskey            "k">
+<!ENTITY bccAddress.accesskey            "u">
+<!ENTITY bccAddressList.emptytext        "adresy e-mail rozdzielone przecinkami">
 <!ENTITY saveMessageDlg.label            "Wyświetlaj okno dialogowe potwierdzające zapisywanie wiadomości">
 <!ENTITY saveMessageDlg.accesskey        "W">
 <!ENTITY sentFolderOn.label              "folderze Wysłane konta:">
