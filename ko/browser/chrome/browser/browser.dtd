@@ -65,6 +65,25 @@
 <!ENTITY bookmarkAllCmd.label "모든 탭을 북마크에 추가…">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 
+<!--tabbrowsing -->
+<!ENTITY bookmarkAllTabs.label "전체 탭 북마크 하기…">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
+<!ENTITY bookmarkThisTab.accesskey "B">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "다른 탭 모두 닫기">
+<!ENTITY newTab.label "새 탭">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY openTabInNewWindow.label     "새 창에 열기">
+<!ENTITY openTabInNewWindow.accesskey "W">
+<!ENTITY reloadAllTabs.label "전체 탭 새로 고침">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "현재 탭 새로 고침">
+<!ENTITY reloadTab.accesskey "R">
+<!ENTITY undoCloseTab.label "닫은 탭 다시 열기">
+<!ENTITY undoCloseTab.accesskey "U">
+
 <!ENTITY backCmd.label "뒤로">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "한 페이지 뒤로 가기">
