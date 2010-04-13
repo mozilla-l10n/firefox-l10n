@@ -70,6 +70,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
 <!ENTITY bookmarkThisTab.accesskey "B">
+<!ENTITY closeTab.label  "탭 닫기">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY closeOtherTabs.label "다른 탭 모두 닫기">
@@ -178,6 +179,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey "C">
+<!ENTITY viewTabsOnTop.label            "탭 항상 위로">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "북마크 및 방문 기록 검색">
 <!ENTITY urlbar.bookmark.emptyText    "북마크 검색">
