@@ -1,15 +1,19 @@
 <!ENTITY copyAndFolderTitle.label "Копии и папки">
 <!ENTITY sendingPrefix.label "При отправлении сообщений автоматически:">
-<!ENTITY fccMailFolder.label "Поместить копию сообщения в:">
-<!ENTITY fccMailFolder.accesskey "П">
+<!ENTITY fccMailFolder.label "Помещать копию сообщения в:">
+<!ENTITY fccMailFolder.accesskey "м">
 <!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
 <!ENTITY fccReplyFollowsParent.accesskey "х">
-<!ENTITY bccAddress.label "Отправлять скрытые копии по адресам:">
+<!ENTITY ccAddress.label "Отправлять копии (Cc) по адресам:">
+<!ENTITY ccAddress.accesskey "т">
+<!ENTITY ccAddressList.emptytext "Разделяйте адреса запятыми">
+<!ENTITY bccAddress.label "Отправлять скрытые копии (Bcc) по адресам:">
 <!ENTITY bccAddress.accesskey "к">
+<!ENTITY bccAddressList.emptytext "Разделяйте адреса запятыми">
 <!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
 <!ENTITY saveMessageDlg.accesskey "п">
 <!ENTITY sentFolderOn.label "папку «Отправленные» в:">
-<!ENTITY sentFolderOn.accesskey "О">
+<!ENTITY sentFolderOn.accesskey "а">
 <!ENTITY sentInOtherFolder.label "Другую папку:">
 <!ENTITY sentInOtherFolder.accesskey "у">
 <!ENTITY draftsFolderOn.label "папке «Черновики» в:">

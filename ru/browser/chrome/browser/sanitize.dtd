@@ -32,8 +32,8 @@
 <!ENTITY itemOfflineApps.accesskey "н">
 <!ENTITY itemDownloadHistory.label "Журнал загрузок">
 <!ENTITY itemDownloadHistory.accesskey "з">
-<!ENTITY itemActiveLogins.label "Регистрационные данные">
-<!ENTITY itemActiveLogins.accesskey "г">
+<!ENTITY itemActiveLogins.label "Активные сеансы">
+<!ENTITY itemActiveLogins.accesskey "с">
 <!ENTITY itemSitePreferences.label "Настройки сайта">
 <!ENTITY itemSitePreferences.accesskey "о">
 <!ENTITY sanitizeEverythingUndoWarning "Это действие не может быть отменено.">
