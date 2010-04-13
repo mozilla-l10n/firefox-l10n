@@ -175,6 +175,8 @@
 <!ENTITY viewSidebarMenu.accesskey "П">
 <!ENTITY viewCustomizeToolbar.label "Наладзіць…">
 <!ENTITY viewCustomizeToolbar.accesskey "л">
+<!ENTITY viewTabsOnTop.label "Устаўкі ўгары">
+<!ENTITY viewTabsOnTop.accesskey "У">
 <!ENTITY historyMenu.label "Гісторыя">
 <!ENTITY historyMenu.accesskey "Г">
 <!ENTITY historyUndoMenu.label "Нядаўна зачыненыя ўстаўкі">
