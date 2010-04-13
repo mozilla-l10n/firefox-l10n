@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Diese Nachricht ist scheinbar kein Betrugsversuch">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Der Absender dieser Nachricht hat eine Empfangsbestätigung angefordert.\n\nSoll der Absender darüber informiert werden, dass Sie die Nachricht nun lesen?">
+<!ENTITY mdnBarMessage.label "Der Absender dieser Nachricht hat eine Empfangsbestätigung angefordert. Soll der Absender informiert werden, dass Sie die Nachricht jetzt lesen?">
 <!ENTITY mdnBarIgnoreButton.label "Anforderung ignorieren">
 <!ENTITY mdnBarSendButton.label "Bestätigung senden">
 
