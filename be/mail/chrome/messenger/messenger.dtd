@@ -387,6 +387,9 @@
 <!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
 <!ENTITY openMessageWindowCmd.accesskey "А">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Адкрыць у гутарцы">
+<!ENTITY openConversationCmd.accesskey "т">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Адкрыць ліст з жывільніка">
 <!ENTITY openFeedMessage.accesskey "ж">
 <!ENTITY openFeedWebPageInWindow.label "Старонку Сеціва ў новым акне">
@@ -575,6 +578,8 @@
 <!ENTITY contextOpenNewWindow.accesskey "А">
 <!ENTITY contextOpenNewTab.label "Адчыніць ліст у новай устаўцы">
 <!ENTITY contextOpenNewTab.accesskey "у">
+<!ENTITY contextOpenConversation.label "Адкрыць ліст у гутарцы">
+<!ENTITY contextOpenConversation.accesskey "г">
 <!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
 <!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextArchive.label "Архіў">
@@ -619,6 +624,9 @@
 <!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
 <!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
 <!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
+<!ENTITY mdnBarMessage.label "Дасылальнік гэтага ліста просіць паведаміць яму пра тое, што вы прачыталі ліст. Вы хочаце даслаць такое паведамленне?">
+<!ENTITY mdnBarIgnoreButton.label "Ігнараваць запыт">
+<!ENTITY mdnBarSendButton.label "Даслаць квіток">
 <!ENTITY more.label "больш">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Пошук усіх лістоў">
