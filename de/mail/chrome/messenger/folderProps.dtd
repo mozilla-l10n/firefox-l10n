@@ -47,7 +47,7 @@
 <!ENTITY folderCharsetOverride.accesskey         "S">
 <!ENTITY folderRebuildSummaryFile.label          "Index neu erstellen">
 <!ENTITY folderRebuildSummaryFile.accesskey      "x">
-<!ENTITY folderRebuildSummaryFileTip.label       "Indexdatei (*.msf) neu erstellen">
+<!ENTITY folderRebuildSummaryFileTip.label       "Zusammenfassungsdatei (*.msf) neu erstellen">
 
 <!ENTITY retention.label "Speicherplatz">
 <!ENTITY retentionUseAccount.label "Einstellungen des Kontos verwenden">
