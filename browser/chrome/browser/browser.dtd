@@ -152,7 +152,6 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Agregados">
-<!ENTITY addons.tooltip "Mostrar y administrar los agregados instalados">
 <!ENTITY addons.accesskey "A">
 
 <!ENTITY errorConsoleCmd.label "Consola de errores">
