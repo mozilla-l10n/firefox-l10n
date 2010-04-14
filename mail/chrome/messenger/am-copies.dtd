@@ -4,8 +4,13 @@
 <!ENTITY fccMailFolder.accesskey "b">
 <!ENTITY fccReplyFollowsParent.label "Anbring svar i samme mappe som den besvarede meddelelse">
 <!ENTITY fccReplyFollowsParent.accesskey "m">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc disse mailadresser:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Adskil adresser med komma">
 <!ENTITY bccAddress.label "Skjult kopi til andre adresser:">
 <!ENTITY bccAddress.accesskey "u">
+<!ENTITY bccAddressList.emptytext "Adskil adresser med komma">
 <!ENTITY saveMessageDlg.label "Vis godkendelsesdialog, når meddelelser gemmes">
 <!ENTITY saveMessageDlg.accesskey "g">
 <!ENTITY sentFolderOn.label "Mappen Sendt på:">

@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "a">
 
 <!ENTITY otherActionsButton.label "Flere funktioner">
-<!ENTITY otherActionsShowConversation.label "Vis korrespondance i tråd">
-<!ENTITY otherActionsShowConversation.accesskey "t">
+<!ENTITY otherActionsOpenConversation.label "Vis korrespondance i tråd">
+<!ENTITY otherActionsOpenConversation.accesskey "t">
 <!ENTITY otherActionsOpenInNewWindow.label "Åbn i nyt vindue">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "v">
 <!ENTITY otherActionsOpenInNewTab.label "Åbn i nyt faneblad">
