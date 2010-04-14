@@ -151,7 +151,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label 	              "Tafoegings">
-<!ENTITY addons.tooltip               "Besjoch en behear ynstallearre tafoegings">
 <!ENTITY addons.accesskey             "E">
 
 <!ENTITY errorConsoleCmd.label        "Flaterkonsole">
