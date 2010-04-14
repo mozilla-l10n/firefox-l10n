@@ -123,7 +123,6 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Дополнения">
-<!ENTITY addons.tooltip "Отображение и управление установленными дополнениями">
 <!ENTITY addons.accesskey "Д">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
