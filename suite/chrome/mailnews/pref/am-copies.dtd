@@ -38,9 +38,14 @@
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "atsakymus dėti į aplanką, kuriame yra originalus laiškas">
 <!ENTITY fccReplyFollowsParent.accesskey "o">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Siųsti kopiją šiais adresais:">
+<!ENTITY ccAddress.accesskey "k">
+<!ENTITY ccAddressList.emptytext "Adresus atskirkite kableliais">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Nematomoji kopija:">
+<!ENTITY bccAddress.label "Siųsti nematomąją kopiją šiais adresais:">
 <!ENTITY bccAddress.accesskey "m">
+<!ENTITY bccAddressList.emptytext "Adresus atskirkite kableliais">
 <!ENTITY saveMessageDlg.label "Informuoti, kad laiškas įrašytas">
 <!ENTITY saveMessageDlg.accesskey "r">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

@@ -84,8 +84,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "s">
 
 <!ENTITY otherActionsButton.label "kiti veiksmai">
-<!ENTITY otherActionsShowConversation.label "rodyti diskusijoje">
-<!ENTITY otherActionsShowConversation.accesskey "d">
+<!ENTITY otherActionsOpenConversation.label "atverti diskusijoje">
+<!ENTITY otherActionsOpenConversation.accesskey "d">
 <!ENTITY otherActionsOpenInNewWindow.label "atverti naujame lange">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "l">
 <!ENTITY otherActionsOpenInNewTab.label "atverti naujoje kortelėje">

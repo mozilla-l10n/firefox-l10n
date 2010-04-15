@@ -450,7 +450,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Atverti laišką">
 <!ENTITY openMessageWindowCmd.accesskey "l">
 <!ENTITY openMessageWindowCmd.key "o">
-
+<!ENTITY openConversationCmd.label "Atverti laišką diskusijoje">
+<!ENTITY openConversationCmd.accesskey "d">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Atverti pranešimą">
 <!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Tinklalapis naujame lange">
@@ -660,6 +662,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextOpenNewTab.label "Atverti laišką naujoje kortelėje">
 <!ENTITY contextOpenNewTab.accesskey "t">
+<!ENTITY contextOpenConversation.label "Atverti laišką diskusijoje">
+<!ENTITY contextOpenConversation.accesskey "d">
 <!ENTITY contextEditAsNew.label "Paruošti siuntimui…">
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextArchive.label "Archyvuoti">
@@ -713,6 +717,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Šis laiškas gali būti apgaulingas.">
 <!ENTITY removePhishingBarButton1.label "Nepaisyti įspėjimo">
 <!ENTITY reportPhishingError1.label "Nepanašu, kad šiame laiške slypėtų apgaulė.">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Šio laiško siuntėjas pageidavo pažymos, kad perskaitėte jo laišką. Ar išsiųsti tokią pažymą?">
+<!ENTITY mdnBarIgnoreButton.label "Nepaisyti prašymo">
+<!ENTITY mdnBarSendButton.label "Išsiųsti pažymą">
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "kiti">
