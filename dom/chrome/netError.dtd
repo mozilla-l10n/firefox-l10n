@@ -80,6 +80,9 @@
 <p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nettleseren forhindret denne siden fra å lastes inn på denne måten, fordi nettsiden har en sikkerhetsregel som forbyr det.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
