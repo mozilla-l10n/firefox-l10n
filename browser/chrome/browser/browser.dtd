@@ -151,7 +151,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Modules complémentaires">
-<!ENTITY addons.tooltip               "Afficher et gérer les modules installés">
 <!ENTITY addons.accesskey             "e">
 
 <!ENTITY errorConsoleCmd.label        "Console d'erreurs">
