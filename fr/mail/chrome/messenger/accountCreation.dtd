@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Accès aux dossiers et messages à partir de plusieurs ordinateurs">
+<!ENTITY pop.description                 "POP - Téléchargement de tous les messages sur cet ordinateur ; les dossiers sont locaux seulement">
+<!ENTITY recommended-appendix.label      "(recommandé)">
 
 <!ENTITY manualSetup.label               "Création manuelle…">
 <!ENTITY manualSetup.accesskey           "m">
