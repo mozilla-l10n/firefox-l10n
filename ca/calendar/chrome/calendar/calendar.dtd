@@ -88,13 +88,26 @@
 <!ENTITY calendar.month.button.tooltip          "Canvia a vista mensual" >
 <!ENTITY calendar.multiweek.button.tooltip      "Canvia a vista multisetmanal" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Dia següent" >
-<!ENTITY calendar.prevday.button.tooltip        "Dia anterior" >
-<!ENTITY calendar.nextweek.button.tooltip       "Setmana següent" >
-<!ENTITY calendar.prevweek.button.tooltip       "Setmana anterior" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Mes següent" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Mes anterior" >
-
+<!ENTITY calendar.nextday.label                 "Dia següent" >
+<!ENTITY calendar.prevday.label                 "Dia anterior" >
+<!ENTITY calendar.nextday.accesskey             "s" >
+<!ENTITY calendar.prevday.accesskey             "a" >
+<!ENTITY calendar.nextweek.label                "Setmana següent" >
+<!ENTITY calendar.prevweek.label                "Setmana anterior" >
+<!ENTITY calendar.nextweek.accesskey            "s" >
+<!ENTITY calendar.prevweek.accesskey            "a" >
+<!ENTITY calendar.nextmonth.label               "Mes següent" >
+<!ENTITY calendar.prevmonth.label               "Mes anterior" >
+<!ENTITY calendar.nextmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.accesskey           "a" >
+<!--
+  <!ENTITY calendar.nextday.button.tooltip        "Dia següent" >
+  <!ENTITY calendar.prevday.button.tooltip        "Dia anterior" >
+  <!ENTITY calendar.nextweek.button.tooltip       "Setmana següent" >
+  <!ENTITY calendar.prevweek.button.tooltip       "Setmana anterior" >
+  <!ENTITY calendar.nextmonth.button.tooltip      "Mes següent" >
+  <!ENTITY calendar.prevmonth.button.tooltip      "Mes anterior" >
+-->
 <!ENTITY calendar.navigation.nextday.tooltip    "Un dia després" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Un dia abans" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Una setmana després" >

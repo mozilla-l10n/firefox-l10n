@@ -419,6 +419,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Obre el missatge">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Obre'l en la conversa">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Obre el missatge del canal">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "Pàgina web en una nova finestra">
@@ -630,6 +633,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!ENTITY contextOpenNewTab.label "Obre el missatge en una pestanya nova">
 <!ENTITY contextOpenNewTab.accesskey "t">
+<!ENTITY contextOpenConversation.label "Obre el missatge en la conversa">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arxiva">
@@ -682,6 +687,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Aquest missatge podria ser fradulent.">
 <!ENTITY removePhishingBarButton1.label "Ignora l'avís">
 <!ENTITY reportPhishingError1.label "Aquest missatge no sembla ser fraudulent">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "El remitent d'aquest missatge ha soŀlicitat ser notificat quan llegiu aquest missatge. Voleu notificar el remitent?"> 
+<!ENTITY mdnBarIgnoreButton.label "Ignora la soŀlicitud">
+<!ENTITY mdnBarSendButton.label "Envia la notificació">
+
 
 <!-- Message Header Button Box (to show hidden email addresses) -->
 <!ENTITY more.label "més">
