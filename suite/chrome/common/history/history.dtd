@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip                "Menylinje">
 <!ENTITY searchBar.tooltip              "Søkelinje">
 
-<!ENTITY search.emptytext               "Søk i historikk">
+<!ENTITY search.placeholder             "Søk i historikk">
 <!ENTITY search.key                     "S">
 <!ENTITY view.label                     "Vis">
 

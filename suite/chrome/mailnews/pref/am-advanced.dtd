@@ -17,4 +17,4 @@
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Brukernavn: ">
 <!ENTITY connectionSecurity.label "Tilkoblingssikkerhet: ">
-<!ENTITY useSecureAuthentication.label   "Sikker autentisering: ">
+<!ENTITY authMethod.label   "Autentiseringsmetode: ">
