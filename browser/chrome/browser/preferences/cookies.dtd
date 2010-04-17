@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "Følgende infokapsler er lagret på datamaskinen din:">
 <!ENTITY     cookiename.label               "Navn">
 <!ENTITY     cookiedomain.label             "Nettsted"> 
+<!ENTITY     button.removecookies.label     "Slett infokapsler">
 <!ENTITY     button.removecookie.label      "Slett infokapsel">
 <!ENTITY     button.removecookie.accesskey  "S">
 <!ENTITY     button.removeallcookies.label  "Slett alle infokapsler">
