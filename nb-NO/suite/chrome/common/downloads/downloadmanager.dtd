@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Menylinje">
 <!ENTITY searchBar.tooltip               "Søkelinje">
 
-<!ENTITY search.emptytext                "Søk i nedlastinger">
+<!ENTITY search.placeholder              "Søk i nedlastinger">
 <!ENTITY search.label                    "Søk i nedlastinger">
 <!ENTITY search.accesskey                "S">
 <!ENTITY search.key                      "f">

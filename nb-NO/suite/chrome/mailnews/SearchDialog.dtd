@@ -1,4 +1,3 @@
-
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Søk etter meldinger i:">
 <!ENTITY searchHeading.accesskey     "ø">
@@ -8,8 +7,6 @@
 <!ENTITY searchLocalSystem.accesskey "k">
 <!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">
-<!ENTITY helpButton.label            "Hjelp">
-<!ENTITY helpButton.accesskey        "H">
 <!ENTITY openButton.label            "Åpne">
 <!ENTITY openButton.accesskey        "Å">
 <!ENTITY deleteButton.label          "Slett">
@@ -33,4 +30,3 @@
 <!ENTITY composeButton.label         "Skriv ny e-post til">
 <!ENTITY composeButton.accesskey     "n">
 <!ENTITY abSearchDialogTitle.label   "Avansert adresseboksøk">
-

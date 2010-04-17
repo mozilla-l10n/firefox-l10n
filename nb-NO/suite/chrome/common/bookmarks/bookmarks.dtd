@@ -116,5 +116,5 @@
 
 <!ENTITY bookmarksWindowTitle.label     "Bokmerkebehandling">
 
-<!ENTITY search.emptytext               "Søk i bokmerker">
+<!ENTITY search.placeholder             "Søk i bokmerker">
 <!ENTITY search.key                     "f">
