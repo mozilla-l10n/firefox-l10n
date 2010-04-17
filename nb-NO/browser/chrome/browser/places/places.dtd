@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "S">
 <!ENTITY view.sortDescending.label      "Synkende sorteringsrekkefølge">
 <!ENTITY view.sortDescending.accesskey  "y">
-<!ENTITY help.usingBookmarks.label      "Bokmerker">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "Historikk">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "Avanserte tips">
-<!ENTITY help.advancedTips.accesskey    "v">
 
 <!ENTITY cmd.findInBookmarks.label      "Finn i bokmerker …">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label      "Egenskaper">
 <!ENTITY cmd.properties.accesskey  "E">
 
-<!ENTITY cmd.show_info.key  "i">
-
 <!ENTITY cmd.rename.label      "Endre navn">
 <!ENTITY cmd.rename.accesskey  "E">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "O">
 <!ENTITY cmd.reloadMicrosummary.label      "Oppdater levende tittel">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "O">
-
-<!ENTITY cmd.groupby_site.label      "Grupper etter nettsted">
-<!ENTITY cmd.groupby_site.accesskey  "G">
-<!ENTITY cmd.groupby_page.label      "Grupper etter side">
-<!ENTITY cmd.groupby_page.accesskey  "r">
-<!ENTITY cmd.groupby_feed.label      "Grupper etter medlemskap">
-<!ENTITY cmd.groupby_feed.accesskey  "u">
-<!ENTITY cmd.groupby_post.label      "Grupper etter post">
-<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytt …">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "N">
 <!ENTITY search.scopeHistory.label                 "Historikk">
 <!ENTITY search.scopeHistory.accesskey             "s">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Vis søkebygger">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Skjul søkebygger">
 <!ENTITY saveSearch.label                          "Lagre">
 <!ENTITY saveSearch.accesskey                      "L">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Søk bare i bokmerker">
-<!ENTITY advancedSearch.match.label                "Søk med ">
-<!ENTITY advancedSearch.all.label                  "alle">
-<!ENTITY advancedSearch.any.label                  "en av">
-<!ENTITY advancedSearch.rules.label                " følgende kriterier:">
-<!ENTITY advancedSearch.subj_keyword.label         "Inneholder teksten">
-<!ENTITY advancedSearch.subj_visited.label         "Besøkt dato">
-<!ENTITY advancedSearch.subj_location.label        "Adresse">
-<!ENTITY advancedSearch.location_startswith.label  "starter med">
-<!ENTITY advancedSearch.location_is.label          "er">
-<!ENTITY advancedSearch.location_onsite.label      "er på nettstedet">
-<!ENTITY advancedSearch.time_is.label              "på">
-<!ENTITY advancedSearch.time_before.label          "før">
-<!ENTITY advancedSearch.time_after.label           "etter">
-<!ENTITY advancedSearch.time_inlast.label          "i de siste">
-<!ENTITY advancedSearch.last_days.label            "dagene">
-<!ENTITY advancedSearch.last_weeks.label           "ukene">
-<!ENTITY advancedSearch.last_months.label          "månedene">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Grupper etter: ">
-<!ENTITY advancedSearch.groupby_host.label         "tjener">
-<!ENTITY advancedSearch.groupby_domain.label       "domene">
-<!ENTITY advancedSearch.groupby_folder.label       "mappe">
-<!ENTITY advancedSearch.sortby.label               "Sorter etter: ">
-<!ENTITY advancedSearch.sortby_title.label         "tittel">
-<!ENTITY advancedSearch.sortby_date.label          "dato">
-<!ENTITY advancedSearch.sortby_visit.label         "antall besøk">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "stigende">
-<!ENTITY advancedSearch.sortby_desc.label          "synkende">
-<!ENTITY advancedSearch.max.label                  "Maks antall resultater: ">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "Nyhetskilde">
 <!ENTITY feed.subscribe.tooltip  "Abonner">
-
-<!ENTITY view.detailsMacOSX.label  "Liste">
-<!ENTITY view.details.label        "Detaljer">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Hent visning av programtillegg">
 
 <!ENTITY maintenance.label      "Importer og sikkerhetskopier">
 <!ENTITY maintenance.accesskey  "I">

@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Ny fane">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "Oppdater fane">
+<!ENTITY  reloadTab.accesskey                "O">
+<!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
+<!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  closeOtherTabs.label               "Lukk andre faner">
+<!ENTITY  closeOtherTabs.accesskey           "a">
+<!ENTITY  openTabInNewWindow.label           "Åpne i et nytt vindu">
+<!ENTITY  openTabInNewWindow.accesskey       "n">
+<!ENTITY  bookmarkThisTab.label              "Bokmerk denne fanen">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
+<!ENTITY  bookmarkAllTabs.accesskey          "o">
+<!ENTITY  undoCloseTab.label                 "Angre lukking av fane">
+<!ENTITY  undoCloseTab.accesskey             "A">
+<!ENTITY  closeTab.label                     "Lukk fane">
+<!ENTITY  closeTab.accesskey                 "k">
+
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
@@ -131,7 +151,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Utvidelser">
-<!ENTITY addons.tooltip               "Behandle installerte utvidelser">
 <!ENTITY addons.accesskey             "U">
 
 <!ENTITY errorConsoleCmd.label        "Feilmeldinger">
@@ -172,8 +191,8 @@
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
-<!ENTITY clearRecentHistoryCmd.label            "Slett nylig historikk">
-<!ENTITY clearRecentHistoryCmd.accesskey        "e">
+<!ENTITY clearRecentHistory.label               "Slett nylig historikk …">
+<!ENTITY clearRecentHistory.accesskey           "e">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Start privat nettlesing">
@@ -190,6 +209,8 @@
 <!ENTITY viewSidebarMenu.accesskey "d">
 <!ENTITY viewCustomizeToolbar.label       "Tilpass …">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
+<!ENTITY viewTabsOnTop.label            "Faner øverst">
+<!ENTITY viewTabsOnTop.accesskey        "F">
 
 <!ENTITY historyMenu.label "Historikk">
 <!ENTITY historyMenu.accesskey "s">
@@ -207,6 +228,7 @@
 <!ENTITY urlbar.history.emptyText     "Søk i historikk">
 <!ENTITY urlbar.none.emptyText        "Skriv inn nettadresse">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Bytt til fane:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -235,6 +257,8 @@
 
 <!ENTITY openLinkCmd.label            "Åpne lenke i nytt vindu">
 <!ENTITY openLinkCmd.accesskey        "Å">
+<!ENTITY openLinkCmdInCurrent.label     "Åpne lenke">
+<!ENTITY openLinkCmdInCurrent.accesskey "l">
 <!ENTITY openLinkCmdInTab.label       "Åpne lenke i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openFrameCmd.label           "Åpne ramme i nytt vindu">
@@ -306,8 +330,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyLinkTextCmd.label        "Kopier lenketekst">
-<!ENTITY copyLinkTextCmd.accesskey    "r">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilde">
@@ -335,6 +357,8 @@
 <!ENTITY mediaShowControls.accesskey "V">
 <!ENTITY mediaHideControls.label     "Skjul kontroller">
 <!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY videoFullScreen.label       "Fullskjerm">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 
 <!-- LOCALIZATION NOTE :
