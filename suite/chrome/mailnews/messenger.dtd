@@ -333,9 +333,6 @@
 <!ENTITY newMsgCmd.accesskey "m">
 <!ENTITY newNewMsgCmd.label "Melding">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arkiver">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key	"r">
@@ -364,6 +361,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Opprett filter fra melding">
 <!ENTITY createFilter.accesskey "O">
+<!ENTITY archiveMsgCmd.label "Arkiver">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Flytt til">
 <!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY copyMessageLocation.label "Kopier meldingsplassering">
@@ -524,8 +524,6 @@
 <!ENTITY contextOpenNewTab.accesskey "Å">
 <!ENTITY contextEditAsNew.label "Rediger som ny …">
 <!ENTITY contextEditAsNew.accesskey "R">
-<!ENTITY contextArchive.label "Arkiver">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsender">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Svar til nyhetsgruppe">
@@ -538,6 +536,8 @@
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsAttachment.label "Videresend som vedlegg">
 <!ENTITY contextForwardAsAttachment.accesskey "d">
+<!ENTITY contextArchive.label "Arkiver">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Flytt til">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopier til">

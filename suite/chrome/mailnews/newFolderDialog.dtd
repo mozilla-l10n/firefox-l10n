@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label   "La den nye mappen inneholde:">
 <!ENTITY foldersOnly.label          "Bare mapper">
 <!ENTITY messagesOnly.label         "Bare meldinger">
+<!ENTITY accept.label               "Opprett mappe">
+<!ENTITY accept.accesskey           "O">
