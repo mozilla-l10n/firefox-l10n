@@ -11,7 +11,7 @@
 <!ENTITY     button.removeallcookies.label  "Slett alle infokapsler">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.emptytext               "Søk i infokapsler">
+<!ENTITY     search.placeholder             "Søk i infokapsler">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">

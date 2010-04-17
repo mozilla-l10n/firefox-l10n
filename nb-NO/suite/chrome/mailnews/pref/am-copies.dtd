@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Plasser svarmelding i mappen til meldingen som ble svart på">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Send CC til disse e-postadressene:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Atskill adresser med kommaer">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Send blind kopi (BCC) til disse e-postadressene">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.emptytext "Atskill adresser med kommaer">
 <!ENTITY saveMessageDlg.label "Vis bekreftelsesdialog når meldinger lagres">
 <!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

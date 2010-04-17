@@ -20,3 +20,13 @@
 <!ENTITY extensionsWeekly.accesskey           "k">
 <!ENTITY addonManagerButton.label             "Utvidelsesbehandling">
 <!ENTITY addonManagerButton.accesskey         "U">
+
+<!ENTITY whenUpdatesFound.label               "Når oppdateringer til &brandShortName; blir funnet">
+<!ENTITY askMe.label                          "Spør meg hva jeg vil gjøre">
+<!ENTITY askMe.accesskey                      "S">
+<!ENTITY modeAutomatic.label                  "Automatisk last ned og installer oppdateringen">
+<!ENTITY modeAutomatic.accesskey              "A">
+<!ENTITY modeAutoAddonWarn.label              "Advar meg dersom dette vil slå av noen av utvidelsene mine">
+<!ENTITY modeAutoAddonWarn.accesskey          "d">
+<!ENTITY updateHistory.label                  "Vis oppdateringshistorikk">
+<!ENTITY updateHistory.accesskey              "V">
