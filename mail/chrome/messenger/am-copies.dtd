@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "D">
 <!ENTITY fccReplyFollowsParent.label "Deixa les respostes en la carpeta del missatge que es respon">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc aquestes adreces de correu:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Separeu les adreces amb comes">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Cco una altra adreça:">
-<!ENTITY bccAddress.accesskey "C">
+<!ENTITY bccAddress.label "Bcc aquestes adreces de correu:">
+<!ENTITY bccAddress.accesskey "t">
+<!ENTITY bccAddressList.emptytext "Separeu les adreces amb comtes">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

@@ -85,8 +85,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "altres accions">
-<!ENTITY otherActionsShowConversation.label "obre la conversa">
-<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenConversation.label "obre la conversa">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "obre en una altra finestra">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "f">
 <!ENTITY otherActionsOpenInNewTab.label "obre en una altra pestanya">
