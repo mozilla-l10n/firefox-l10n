@@ -1,6 +1,6 @@
 google
+mailru
 priceru
-rambler
 torgmailru
 wikipedia-ru
 yandex-slovari
