@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Lagrede passord …">
 <!ENTITY  savedPasswords.accesskey        "L">
-
-
-<!ENTITY  warnings.label                "Advarsler">
-
-<!ENTITY  chooseWarnings.label          "Velg hvilke sikkerhetsadvarsler du ønsker å se">
-
-<!ENTITY  warningSettings.label         "Innstillinger …">
-<!ENTITY  warningSettings.accesskey     "I">
