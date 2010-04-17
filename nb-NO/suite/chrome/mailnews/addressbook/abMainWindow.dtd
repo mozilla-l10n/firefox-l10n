@@ -57,7 +57,6 @@
 <!ENTITY printContactViewCmd.accesskey                  "k">
 <!ENTITY printPreviewContactViewCmd.label               "Forhåndsvisning av kontakt">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressebok …"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
@@ -117,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey                     "S">  
 <!ENTITY newimButton.label                              "Lynmelding">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY searchNameAndEmail.emptytext                   "Søk i navn og e-postadresse">
+<!ENTITY searchNameAndEmail.placeholder                 "Søk i navn og e-postadresse">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
