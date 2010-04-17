@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Programvareoppdatering">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Ser etter oppdateringer">
 <!ENTITY  updateCheck.label               "Søker etter nyere versjoner av &brandShortName; …">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Fant inkompatible utvidelser/temaer">
 
-<!ENTITY  downloading.title               "Laster ned oppdatering">
+<!ENTITY  downloadPage.title              "Laster ned &brandShortName;">
 <!ENTITY  downloading.intro               "Laster ned oppdateringen …">
 <!ENTITY  connecting.label                "Kobler til oppdateringstjeneren …">
 <!ENTITY  verificationFailedText.label    "&brandShortName; klarte ikke å kontrollere integriteten til
