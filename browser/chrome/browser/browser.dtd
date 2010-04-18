@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Нова вкладка">
+<!ENTITY  newTab.accesskey                   "Н">
+<!ENTITY  reloadTab.label                    "Оновити вкладку">
+<!ENTITY  reloadTab.accesskey                "О">
+<!ENTITY  reloadAllTabs.label                "Оновити всі вкладки">
+<!ENTITY  reloadAllTabs.accesskey            "с">
+<!ENTITY  closeOtherTabs.label               "Закрити інші вкладки">
+<!ENTITY  closeOtherTabs.accesskey           "З">
+<!ENTITY  openTabInNewWindow.label           "Відкрити у новому вікні">
+<!ENTITY  openTabInNewWindow.accesskey       "в">
+<!ENTITY  bookmarkThisTab.label              "Закласти цю вкладку">
+<!ENTITY  bookmarkThisTab.accesskey          "З">
+<!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
+<!ENTITY  bookmarkAllTabs.accesskey          "к">
+<!ENTITY  undoCloseTab.label                 "Повернути закриту вкладку">
+<!ENTITY  undoCloseTab.accesskey             "П">
+<!ENTITY  closeTab.label                     "Закрити вкладку">
+<!ENTITY  closeTab.accesskey                 "к">
+
 <!ENTITY tabCmd.label "Нова вкладка">
 <!ENTITY tabCmd.accesskey "Н">
 <!ENTITY tabCmd.commandkey "t">
@@ -131,7 +151,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Додатки">
-<!ENTITY addons.tooltip               "Відображення і управління встановленими додатками">
 <!ENTITY addons.accesskey             "Д">
 
 <!ENTITY errorConsoleCmd.label        "Консоль помилок">
@@ -172,8 +191,8 @@
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey     "Н"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Вичистити недавню історію">
-<!ENTITY clearRecentHistoryCmd.accesskey        "В">
+<!ENTITY clearRecentHistory.label               "Вичистити недавню історію…">
+<!ENTITY clearRecentHistory.accesskey           "ч">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Увімкнути потайливий режим">
@@ -190,6 +209,8 @@
 <!ENTITY viewSidebarMenu.accesskey "ч">
 <!ENTITY viewCustomizeToolbar.label       "Налаштувати панелі інструментів"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ш">
+<!ENTITY viewTabsOnTop.label            "Вкладки зверху">
+<!ENTITY viewTabsOnTop.accesskey        "в">
 
 <!ENTITY historyMenu.label "Історія">
 <!ENTITY historyMenu.accesskey "І">
@@ -207,6 +228,7 @@
 <!ENTITY urlbar.history.emptyText     "Шукати в історії">
 <!ENTITY urlbar.none.emptyText        "Наберіть веб-адресу">
 <!ENTITY urlbar.accesskey             "а">
+<!ENTITY urlbar.switchToTab.label     "Перемкнутись на вкладку:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -235,6 +257,8 @@
 
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "к">
+<!ENTITY openLinkCmdInCurrent.label     "Відкрити посилання">
+<!ENTITY openLinkCmdInCurrent.accesskey "В">
 <!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
 <!ENTITY openLinkCmdInTab.accesskey   "л">
 <!ENTITY openFrameCmd.label           "Відкрити фрейм в новому вікні">
@@ -306,8 +330,6 @@
 <!ENTITY sendAudioCmd.accesskey       "с">
 <!ENTITY copyLinkCmd.label            "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey        "п">
-<!ENTITY copyLinkTextCmd.label        "Копіювати текст посилання">
-<!ENTITY copyLinkTextCmd.accesskey    "т">
 <!ENTITY copyImageCmd.label           "Копіювати посилання на зображення">
 <!ENTITY copyImageCmd.accesskey       "р">
 <!ENTITY copyImageContentsCmd.label   "Копіювати зображення">
@@ -332,9 +354,11 @@
 <!ENTITY mediaUnmute.label           "Увімкнути звук">
 <!ENTITY mediaUnmute.accesskey       "і">
 <!ENTITY mediaShowControls.label     "Показати керувальники">
-<!ENTITY mediaShowControls.accesskey "Показати ">
+<!ENTITY mediaShowControls.accesskey "к">
 <!ENTITY mediaHideControls.label     "Приховати керувальники">
 <!ENTITY mediaHideControls.accesskey "х">
+<!ENTITY videoFullScreen.label       "Повний екран">
+<!ENTITY videoFullScreen.accesskey   "е">
 
 
 <!-- LOCALIZATION NOTE :
