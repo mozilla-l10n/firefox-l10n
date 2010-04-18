@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "На вашому комп’ютері збережено наступні куки:">
 <!ENTITY     cookiename.label               "Ім’я куки">
 <!ENTITY     cookiedomain.label             "Сайт"> 
+<!ENTITY     button.removecookies.label     "Вилучити куки">
 <!ENTITY     button.removecookie.label      "Вилучити куку">
 <!ENTITY     button.removecookie.accesskey  "и">
 <!ENTITY     button.removeallcookies.label  "Вилучити всі куки">
