@@ -20,6 +20,9 @@
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label "POP">
 <!ENTITY smtp.label "SMTP">
+<!ENTITY imap.description "IMAP - Доступ к папкам и сообщениям с разных компьютеров">
+<!ENTITY pop.description "POP - Загрузка всех сообщений на этот компьютер, все папки являются локальными">
+<!ENTITY recommended-appendix.label "(рекомендуется)">
 <!ENTITY manualSetup.label "Настройка вручную…">
 <!ENTITY manualSetup.accesskey "ч">
 <!ENTITY cancel.label "Отмена">
