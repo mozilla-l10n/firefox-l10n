@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "п">
 <!ENTITY view.sortDescending.label      "Низхідний порядок">
 <!ENTITY view.sortDescending.accesskey  "з">
-<!ENTITY help.usingBookmarks.label      "Використання закладок">
-<!ENTITY help.usingBookmarks.accesskey  "В">
-<!ENTITY help.usingHistory.label        "Використання історії">
-<!ENTITY help.usingHistory.accesskey    "і">
-<!ENTITY help.advancedTips.label        "Додаткові підказки">
-<!ENTITY help.advancedTips.accesskey    "Д">
 
 <!ENTITY cmd.findInBookmarks.label      "Знайти в закладках…">
 <!ENTITY cmd.findInBookmarks.accesskey  "З">
@@ -90,8 +84,6 @@
 <!ENTITY cmd.properties.label      "Властивості">
 <!ENTITY cmd.properties.accesskey  "і">
 
-<!ENTITY cmd.show_info.key  "i">
-
 <!ENTITY cmd.rename.label      "Перейменувати">
 <!ENTITY cmd.rename.accesskey  "й">
 
@@ -113,15 +105,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "О">
 <!ENTITY cmd.reloadMicrosummary.label      "Перечитати зведення ">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "з">
-
-<!ENTITY cmd.groupby_site.label      "Згрупувати за сайтом">
-<!ENTITY cmd.groupby_site.accesskey  "с">
-<!ENTITY cmd.groupby_page.label      "Згрупувати за сторінкою">
-<!ENTITY cmd.groupby_page.accesskey  "т">
-<!ENTITY cmd.groupby_feed.label      "Згрупувати за джерелом">
-<!ENTITY cmd.groupby_feed.accesskey  "ж">
-<!ENTITY cmd.groupby_post.label      "Згрупувати за дописами">
-<!ENTITY cmd.groupby_post.accesskey  "м">
 
 <!ENTITY cmd.moveBookmarks.label                  "Перенести…">
 <!ENTITY cmd.moveBookmarks.accesskey              "П">
@@ -146,54 +129,13 @@
 <!ENTITY search.scopeDownloads.accesskey           "З">
 <!ENTITY search.scopeHistory.label                 "В Історії">
 <!ENTITY search.scopeHistory.accesskey             "І">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Показати налаштування пошуку">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Приховати налаштування пошуку">
 <!ENTITY saveSearch.label                          "Зберегти">
 <!ENTITY saveSearch.accesskey                      "З">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Шукати лише в закладках">
-<!ENTITY advancedSearch.match.label                "Співпадає ">
-<!ENTITY advancedSearch.all.label                  "все">
-<!ENTITY advancedSearch.any.label                  "будь-що">
-<!ENTITY advancedSearch.rules.label                " з наведених правил:">
-<!ENTITY advancedSearch.subj_keyword.label         "Містить текст">
-<!ENTITY advancedSearch.subj_visited.label         "Відвідано">
-<!ENTITY advancedSearch.subj_location.label        "Адреса">
-<!ENTITY advancedSearch.location_startswith.label  "починається з">
-<!ENTITY advancedSearch.location_is.label          "є">
-<!ENTITY advancedSearch.location_onsite.label      "є на сайті">
-<!ENTITY advancedSearch.time_is.label              "є">
-<!ENTITY advancedSearch.time_before.label          "до">
-<!ENTITY advancedSearch.time_after.label           "після">
-<!ENTITY advancedSearch.time_inlast.label          "в останні">
-<!ENTITY advancedSearch.last_days.label            "днів">
-<!ENTITY advancedSearch.last_weeks.label           "тижнів">
-<!ENTITY advancedSearch.last_months.label          "місяців">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Згрупувати по: ">
-<!ENTITY advancedSearch.groupby_host.label         "хосту">
-<!ENTITY advancedSearch.groupby_domain.label       "домену">
-<!ENTITY advancedSearch.groupby_folder.label       "теці">
-<!ENTITY advancedSearch.sortby.label               "Сортувати за: ">
-<!ENTITY advancedSearch.sortby_title.label         "заголовком">
-<!ENTITY advancedSearch.sortby_date.label          "датою">
-<!ENTITY advancedSearch.sortby_visit.label         "відвідуваннями">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "висхідний">
-<!ENTITY advancedSearch.sortby_desc.label          "низхідний">
-<!ENTITY advancedSearch.max.label                  "Максимальна кількість результатів: ">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY feed.subscribe.label    "Канал RSS">
 <!ENTITY feed.subscribe.tooltip  "Підписатись">
-
-<!ENTITY view.detailsMacOSX.label  "Список">
-<!ENTITY view.details.label        "Подробиці">
-<!ENTITY view.details.accesskey    "П">
-
-<!ENTITY view.addons.label   "Отримати додатків перегляду">
 
 <!ENTITY maintenance.label      "Імпорт та резервні копії">
 <!ENTITY maintenance.accesskey  "І">

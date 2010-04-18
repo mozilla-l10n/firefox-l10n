@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "Телуґу">
 <!ENTITY  font.langGroup.kannada                  "Каннада">
 <!ENTITY  font.langGroup.sinhala                  "Сінгала">
+<!ENTITY  font.langGroup.tibetan                  "Тибетська">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Найменший розмір шрифту:">
 <!ENTITY minSize.accesskey                        "м">
