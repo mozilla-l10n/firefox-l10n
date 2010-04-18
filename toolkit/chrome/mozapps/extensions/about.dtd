@@ -1,5 +1,5 @@
-<!ENTITY creator.label "Автор:">
-<!ENTITY developers.label "Розробники:">
-<!ENTITY translators.label "Перекладачі:">
-<!ENTITY contributors.label "Помічники:">
-<!ENTITY homepage.label "Відвідати домашню сторінку">
+<!ENTITY  creator.label               "Автор:">
+<!ENTITY  developers.label            "Розробники:">
+<!ENTITY  translators.label           "Перекладачі:">
+<!ENTITY  contributors.label          "Помічники:">
+<!ENTITY  homepage.label              "Відвідати домашню сторінку">

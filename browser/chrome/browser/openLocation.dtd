@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Вибрати файл…">
 <!ENTITY newWindow.label "У новому вікні">
 <!ENTITY newTab.label "У новій вкладці">
-<!ENTITY topWindow.label "У цьому вікні">
+<!ENTITY topTab.label "У поточній вкладці">
 <!ENTITY caption.label "Відкрити веб-адреси">
 <!ENTITY openWhere.label "Відкрити в:">
 <!ENTITY openBtn.label "Відкрити">

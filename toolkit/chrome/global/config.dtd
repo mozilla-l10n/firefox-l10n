@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "Консоль налаштувань (about:config)">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Обережніше, цією сторінкою можна порізатись!">
 <!ENTITY aboutWarningText.label "Зміна цих додаткових настройок може зашкодити стабільності, безпеці та швидкодії цієї програми. Продовжуйте, лише якщо певні в тому, що робите.">
 <!ENTITY aboutWarningButton.label "Я буду обережним, обіцяю!">
@@ -45,18 +45,19 @@
 
 <!ENTITY filterPrefs.label "Фільтр:">
 <!ENTITY filterPrefs.accesskey "і">
-<!-- Columns -->
+<!ENTITY focusFilter.key "f">
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Ім’я налаштування">
 <!ENTITY lockColumn.label "Стан">
 <!ENTITY typeColumn.label "Тип">
 <!ENTITY valueColumn.label "Значення">
+
 <!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Натисніть для сортування"> 
+<!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати колонки для відображення"> 
 
-<!ENTITY prefColumnHeader.tooltip "Натисніть для сортування">
-<!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати колонки для відображення">
 <!-- Context Menu -->
-
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Копіювати">
 <!ENTITY copyPref.accesskey "К">
@@ -78,5 +79,3 @@
 <!ENTITY integer.accesskey "і">
 <!ENTITY boolean.label "Логічне">
 <!ENTITY boolean.accesskey "о">
-
-<!ENTITY focusFilter.key "f">

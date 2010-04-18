@@ -60,7 +60,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Із зарубками">
 <!ENTITY  useDefaultFontSansSerif.label           "Без зарубок">
 
-<!ENTITY  allowPagesToUse.label                   "Дозволити веб-сайтам використовувати свої шрифти замість встановлених">
+<!ENTITY  allowPagesToUse.label                   "Дозволити сайтам використовувати свої шрифти замість встановлених">
 <!ENTITY  allowPagesToUse.accesskey               "о">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Кодування">

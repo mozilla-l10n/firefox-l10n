@@ -2,7 +2,7 @@
 <!ENTITY  window.width                    "40em">
 <!ENTITY  window.macWidth                 "57em">
 
-<!ENTITY  allowPagesToUse.label           "Дозволити веб-сайтам використовувати свої кольори замість встановлених">
+<!ENTITY  allowPagesToUse.label           "Дозволити сайтам використовувати свої кольори замість встановлених">
 <!ENTITY  allowPagesToUse.accesskey       "о">
 
 <!ENTITY  color                           "Текст та тло">

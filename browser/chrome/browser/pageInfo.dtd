@@ -107,9 +107,9 @@
 <!ENTITY  securityView.unknown   "Невідомий">
 
 
-<!ENTITY  securityView.identity.header   "Справжність веб-сайту">
+<!ENTITY  securityView.identity.header   "Справжність сайту">
 <!ENTITY  securityView.identity.owner    "Власник: ">
-<!ENTITY  securityView.identity.domain   "Веб-сайт: ">
+<!ENTITY  securityView.identity.domain   "Сайт: ">
 <!ENTITY  securityView.identity.verifier "Засвідчено: ">
 
 <!ENTITY  securityView.privacy.header                   "Конфіденційність та історія">

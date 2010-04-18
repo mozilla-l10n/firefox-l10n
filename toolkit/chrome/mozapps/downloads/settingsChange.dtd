@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Вподобання можуть бути змінені в Налаштуваннях &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "Вподобання можуть бути змінені в Налаштуваннях &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Вподобання можуть бути змінені в Налаштуваннях &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Вподобання можуть бути змінені в Налаштуваннях &brandShortName;.">

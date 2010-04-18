@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "Майстер імпорту">
 
-<!ENTITY importFrom.label               "Імпортувати налаштування, закладки, журнал, паролі та інші дані з:">
-<!ENTITY importFromUnix.label           "Імпортувати налаштування, закладки, журнал, паролі та інші дані з:">
+<!ENTITY importFrom.label               "Імпортувати налаштування, закладки, історію, паролі та інші дані з:">
+<!ENTITY importFromUnix.label           "Імпортувати налаштування, закладки, історію, паролі та інші дані з:">
 <!ENTITY importFromBookmarks.label      "Імпортувати закладки з:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -34,7 +34,7 @@
 <!ENTITY importFromHTMLFile.label       "З файлу HTML">
 <!ENTITY importFromHTMLFile.accesskey   "а">
 
-<!ENTITY noMigrationSources.label       "Не знайдено жодної програми із закладками, журналом або паролями.">
+<!ENTITY noMigrationSources.label       "Не знайдено жодної програми із закладками, історією чи паролями.">
 
 <!ENTITY importSource.title             "Імпорт налаштувань і даних">
 <!ENTITY importItems.title              "Об’єкти для імпорту">

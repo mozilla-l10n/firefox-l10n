@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "а">
 <!ENTITY searchStartTyping.label         "Шукати текст на сторінці у міру його набору">
 <!ENTITY searchStartTyping.accesskey     "у">
-<!ENTITY blockAutoRefresh.label          "Попереджати мене коли веб-сайти намагаються переадресувати чи перезавантажити сторінку">
+<!ENTITY blockAutoRefresh.label          "Попереджати мене коли сайти намагаються переадресувати чи перезавантажити сторінку">
 <!ENTITY blockAutoRefresh.accesskey      "ю">
 
 <!ENTITY browsing.label                  "Перегляд сайтів">
@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "Щ">
 <!ENTITY checkNow.label                  "Перевірити зараз">
 <!ENTITY checkNow.accesskey              "з">
+<!ENTITY submitCrashes.label             "Відсилати звіти про аварії">
+<!ENTITY submitCrashes.accesskey         "а">
 
 <!ENTITY networkTab.label                "Мережа">
 
@@ -53,8 +55,8 @@
 <!ENTITY autoCheck.label                 "Автоматично перевіряти наявність оновлень для:">
 <!ENTITY enableAppUpdate.label           "Браузера &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Встановлених додатків">
-<!ENTITY enableAddonsUpdate.accesskey    "а">
+<!ENTITY enableAddonsUpdate2.label       "Додатків">
+<!ENTITY enableAddonsUpdate2.accesskey   "Д">
 <!ENTITY enableSearchUpdate.label        "Засобів пошуку">
 <!ENTITY enableSearchUpdate.accesskey    "о">
 <!ENTITY whenUpdatesFound.label          "При виявленні оновлень для &brandShortName;:">
@@ -93,7 +95,7 @@
 <!ENTITY certs.ask.accesskey             "к">
 <!ENTITY viewCerts.label                 "Перегляд сертифікатів">
 <!ENTITY viewCerts.accesskey             "с">
-<!ENTITY viewCRLs.label                  "Управління CRL">
+<!ENTITY viewCRLs.label                  "Керування CRL">
 <!ENTITY viewCRLs.accesskey              "У">
 <!ENTITY verify2.label                   "Перевірка">
 <!ENTITY verify2.accesskey               "р">

@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; — вибір профілю користувача">
+<!ENTITY            windowtitle.label      "&brandShortName; — вибір профілю користувача">
 
-<!ENTITY profilename.label "Ім’я профілю:">
+<!ENTITY            profilename.label      "Ім’я профілю:">
 
-<!ENTITY start.label "Запуск &brandShortName;">
-<!ENTITY exit.label "Вийти">
+<!ENTITY            start.label            "Запуск &brandShortName;">
+<!ENTITY            exit.label             "Вийти">
 
-<!ENTITY availprofiles.label "Доступні профілі">
+<!ENTITY            availprofiles.label    "Доступні профілі">
 
-<!ENTITY newButton.label "Створити…">
-<!ENTITY newButton.accesskey "С">
-<!ENTITY renameButton.label "Перейменувати…">
-<!ENTITY renameButton.accesskey "П">
-<!ENTITY deleteButton.label "Вилучити…">
-<!ENTITY deleteButton.accesskey "В">
+<!ENTITY            newButton.label        "Створити…">
+<!ENTITY            newButton.accesskey    "С">
+<!ENTITY            renameButton.label     "Перейменувати…">
+<!ENTITY            renameButton.accesskey "П">
+<!ENTITY            deleteButton.label     "Вилучити…">
+<!ENTITY            deleteButton.accesskey "В">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; зберігає інформацію про ваші налаштування, закладки і т.д. в особистому профілі.">
 
-<!ENTITY pmDescription.label "&brandShortName; зберігає інформацію про ваші налаштування, закладки і т.д. в особистому профілі.">
+<!ENTITY            offlineState.label    "Працювати автономно">
+<!ENTITY            offlineState.accesskey "т">
 
-<!ENTITY offlineState.label "Працювати автономно">
-<!ENTITY offlineState.accesskey "т">
-
-<!ENTITY autoSelect.label "Не питати при запуску">
-<!ENTITY autoSelect.accesskey "Н">
+<!ENTITY            autoSelect.label       "Не питати при запуску">
+<!ENTITY            autoSelect.accesskey   "Н">

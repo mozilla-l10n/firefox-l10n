@@ -1,27 +1,38 @@
-<!ENTITY pluginWizard.title "Служба пошуку модулів">
-<!ENTITY pluginWizard.firstPage.title "Вас вітає &pluginWizard.title;">
+<!ENTITY pluginWizard.title                                  "Служба пошуку модулів">
+<!ENTITY pluginWizard.firstPage.title                        "Вас вітає &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; перевіряє наявність доступних модулів…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; перевіряє наявність доступних модулів…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Модулі доступні для завантаження">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Модулі доступні для завантаження">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Доступні наступні модулі:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Для установки цих модулів натисніть кнопку Далі.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Деякі модулі під час встановлення можуть зажадати від вас додаткової інформації.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Деякі модулі під час встановлення можуть зажадати від вас додаткової інформації.">
 
-<!ENTITY pluginWizard.licensePage.title "Ліцензійна угода для модуля">
-<!ENTITY pluginWizard.licensePage.accept.label "Я приймаю умови.">
-<!ENTITY pluginWizard.licensePage.deny.label "Я не приймаю умови (модуль не буде встановлено).">
+<!ENTITY pluginWizard.licensePage.title                      "Ліцензійна угода для модуля">
+<!ENTITY pluginWizard.licensePage.accept.label               "Я приймаю умови.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Я не приймаю умови (модуль не буде встановлено).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "Встановлення модулів">
-<!ENTITY pluginWizard.installPluginsPage.description.label "Триває встановлення модулів у &brandShortName;…">
+<!ENTITY pluginWizard.installPluginsPage.title               "Встановлення модулів">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "Триває встановлення модулів у &brandShortName;…">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; закінчив встановлення відсутніх модулів:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; закінчив встановлення відсутніх модулів:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Дізнатися про модулі докладніше або знайти відсутні модулі вручну.">
-<!ENTITY pluginWizard.finalPage.restart.label "Для роботи модуля(ів) потрібно перезапустити &brandShortName;. ">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Дізнатися про модулі докладніше або знайти відсутні модулі вручну.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Для роботи модуля(ів) потрібно перезапустити &brandShortName;. ">
   
-<!ENTITY missingPlugin.label "Клацніть тут щоб завантажити модуль.">
-
-<!-- FIXME: localize -->
-<!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">
-<!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
+<!ENTITY missingPlugin.label                                 "Клацніть тут щоб завантажити модуль.">
+<!ENTITY disabledPlugin.label                                "Моділь для цього типу вмісту вимкниний. Клацніть тут щоб керувати вашими модулями.">
+<!ENTITY blockedPlugin.label                                 "Цей модуль був блокований задля вашого захисту.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Перезавантажити сторінку">
+<!ENTITY reloadPlugin.post                                   " щоб спробувати ще раз.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Надіслати звіт">
+<!ENTITY report.submitting                                   "Шлю звіт…">
+<!ENTITY report.submitted                                    "Звіт відіслано.">
+<!ENTITY report.disabled                                     "Звітування вимкнене.">
+<!ENTITY report.failed                                       "Відіслати не вдалось.">
+<!ENTITY report.unavailable                                  "Звіт недоступний.">

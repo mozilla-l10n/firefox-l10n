@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "і">
 <!ENTITY openInNewWindow.label "Відкрити у новому вікні">
 <!ENTITY openInNewWindow.accesskey "і">
-<!ENTITY bookmarkLink.label "Додати посилання до закладок…">
-<!ENTITY bookmarkLink.accesskey "о">
 <!ENTITY copyLink.label "Копіювати посилання">
 <!ENTITY copyLink.accesskey "о">

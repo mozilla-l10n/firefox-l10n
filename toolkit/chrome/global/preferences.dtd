@@ -1,5 +1,5 @@
-<!ENTITY windowClose.key "w">
-<!ENTITY preferencesDefaultTitleMac.title "Налаштування">
-<!ENTITY preferencesDefaultTitleWin.title "Налаштування">
-<!ENTITY preferencesCloseButton.label "Закрити">
-<!ENTITY preferencesCloseButton.accesskey "а">
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "Налаштування">
+<!ENTITY  preferencesDefaultTitleWin.title        "Налаштування">
+<!ENTITY  preferencesCloseButton.label            "Закрити">
+<!ENTITY  preferencesCloseButton.accesskey        "а">
