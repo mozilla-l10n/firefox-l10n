@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Збережені паролі…">
 <!ENTITY  savedPasswords.accesskey        "п">
-
-
-<!ENTITY  warnings.label                "Попередження">
-
-<!ENTITY  chooseWarnings.label          "Виберіть попередження, які можуть бути показані при роботі з сайтами">
-
-<!ENTITY  warningSettings.label         "Настроїти…">
-<!ENTITY  warningSettings.accesskey     "а">
