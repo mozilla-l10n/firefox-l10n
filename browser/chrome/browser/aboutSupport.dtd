@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Вирішення проблем">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Ця сторінка містить технічну інформацію, що може стати у нагоді під час вирішення проблем.
+  Якщо ж вам потрібні відповіді на загальні питання щодо 
+  &brandShortName; — відвідайте наш <a id='supportLink'>сайт підтримки</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Розширення">
+<!ENTITY aboutSupport.extensionName "Назва">
+<!ENTITY aboutSupport.extensionEnabled "Увімкнено">
+<!ENTITY aboutSupport.extensionVersion "Версія">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Інформація про програму">
+<!ENTITY aboutSupport.appBasicsName "Назва">
+<!ENTITY aboutSupport.appBasicsVersion "Версія">
+<!ENTITY aboutSupport.appBasicsProfileDir "Тека профілю">
+<!ENTITY aboutSupport.appBasicsPlugins "Встановлені модулі">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Конфігурація збірки">
+
+<!ENTITY aboutSupport.show.label "Відкрити відповідну теку">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Відкрити відповідну теку">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Змінені налаштування">
+<!ENTITY aboutSupport.modifiedPrefsName "Назва">
+<!ENTITY aboutSupport.modifiedPrefsValue "Значення">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Історія встановлень">
+<!ENTITY aboutSupport.updateHistoryTitle "Історія оновлень">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Копіювати все в буфер обміну">
