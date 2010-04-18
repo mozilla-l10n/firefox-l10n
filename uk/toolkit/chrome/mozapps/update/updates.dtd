@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Оновлення програмного забезпечення">
 
-<!ENTITY  window.width                    "46em">
-<!ENTITY  window.macWidth                 "49em">
-
 <!ENTITY  checking.title                  "Перевіряється наявність оновлень…">
 <!ENTITY  updateCheck.label               "Пошук нових версій &brandShortName;…">
 
@@ -41,7 +38,7 @@
 
 <!ENTITY  incompatibleList.title          "Знайдено несумісні додатки">
 
-<!ENTITY  downloading.title               "Звантаження оновлення">
+<!ENTITY  downloadPage.title              "Завантаження &brandShortName;">
 <!ENTITY  downloading.intro               "Триває завантаження оновлення…">
 <!ENTITY  connecting.label                "З’єднання з сервером оновлень…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; не зміг перевірити цілісність частково завантаженого оновлення, тому він завантажує повне оновлення.">
