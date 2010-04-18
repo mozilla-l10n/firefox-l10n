@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Zugriff auf Ordner und Nachrichten von mehreren Computern möglich">
+<!ENTITY pop.description                 "POP - Herunterladen der Nachrichten auf diesen Computer, Ordner sind nur lokal vorhanden">
+<!ENTITY recommended-appendix.label      "(empfohlen)">
 
 <!ENTITY manualSetup.label               "Benutzerdefinierte Einstellungen…">
 <!ENTITY manualSetup.accesskey           "B">
