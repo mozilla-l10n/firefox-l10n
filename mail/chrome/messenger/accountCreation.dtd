@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Toegang tot mappen en berichten vanaf meerdere computers">
+<!ENTITY pop.description                 "POP - Alle berichten downloaden naar deze computer, mappen zijn alleen lokaal">
+<!ENTITY recommended-appendix.label      "(aanbevolen)">
 
 <!ENTITY manualSetup.label               "Handmatige configuratie…">
 <!ENTITY manualSetup.accesskey           "H">
