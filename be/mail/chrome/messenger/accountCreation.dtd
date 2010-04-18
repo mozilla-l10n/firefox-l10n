@@ -20,6 +20,9 @@
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label "POP">
 <!ENTITY smtp.label "SMTP">
+<!ENTITY imap.description "IMAP - Доступ да папак і лістоў з розных кампутараў">
+<!ENTITY pop.description "POP - Сцягванне ўсіх лістоў толькі на гэты кампутар, папкі толькі мясцовыя">
+<!ENTITY recommended-appendix.label "(раіцца)">
 <!ENTITY manualSetup.label "Ручная наладка…">
 <!ENTITY manualSetup.accesskey "Р">
 <!ENTITY cancel.label "Скасаваць">

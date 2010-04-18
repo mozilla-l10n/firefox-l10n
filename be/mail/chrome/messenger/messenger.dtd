@@ -624,7 +624,7 @@
 <!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
 <!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
 <!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
-<!ENTITY mdnBarMessage.label "Дасылальнік гэтага ліста просіць паведаміць яму пра тое, што вы прачыталі ліст. Вы хочаце даслаць такое паведамленне?">
+<!ENTITY mdnBarMessage.label "Адпраўнік гэтага ліста просіць паведаміць яму, калі вы прачыталі гэты ліст. Вы хочаце паведаміць адпраўніку аб прачытанні?">
 <!ENTITY mdnBarIgnoreButton.label "Ігнараваць запыт">
 <!ENTITY mdnBarSendButton.label "Даслаць квіток">
 <!ENTITY more.label "больш">
