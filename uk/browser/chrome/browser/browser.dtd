@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Нова вкладка">
 <!ENTITY tabCmd.accesskey "Н">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Працювати автономно">
 <!ENTITY goOfflineCmd.accesskey "ю">
 
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY navbarCmd.label "Панель навігації">
 <!ENTITY navbarCmd.accesskey "в">
 <!ENTITY personalbarCmd.label "Панель закладок">
@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Повноекранний режим">
 <!ENTITY fullScreenCmd.accesskey "е">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Показати всі вкладки">
+<!ENTITY showAllTabsCmd.accesskey "в">
 
 <!ENTITY fullScreenMinimize.tooltip "Згорнути">
 <!ENTITY fullScreenRestore.tooltip "Відновити">
@@ -88,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Зупинити завантаження поточної сторінки">
 <!ENTITY goEndCap.tooltip             "Перейти за адресою з панелі адреси">
+<!ENTITY feedButton.tooltip           "Підписатись на цю сторінку…">
 <!ENTITY printButton.label            "Друкувати">
 <!ENTITY printButton.tooltip          "Надрукувати поточну сторінку">
 
@@ -101,21 +105,21 @@
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
-<!ENTITY bookmarksSidebarCmd.accesskey  "З">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "З">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Журнал">
+<!ENTITY historyButton.label            "Історія">
 <!ENTITY historyButton.tooltip          "Показати список недавно переглянутих сторінок">
-<!ENTITY historySidebarCmd.accesskey    "Ж">
+<!ENTITY historySidebarCmd.accesskey    "с">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Інструменти">
-<!ENTITY toolsMenu.accesskey          "І"> 
+<!ENTITY toolsMenu.accesskey          "с"> 
 
 <!ENTITY keywordfield.label           "Створити скорочення для цього пошуку…">
 <!ENTITY keywordfield.accesskey       "д">
@@ -168,8 +172,8 @@
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey     "Н"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Очистити недавню історію">
-<!ENTITY clearRecentHistoryCmd.accesskey        "О">
+<!ENTITY clearRecentHistoryCmd.label            "Вичистити недавню історію">
+<!ENTITY clearRecentHistoryCmd.accesskey        "В">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Увімкнути потайливий режим">
@@ -187,8 +191,8 @@
 <!ENTITY viewCustomizeToolbar.label       "Налаштувати панелі інструментів"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ш">
 
-<!ENTITY historyMenu.label "Журнал">
-<!ENTITY historyMenu.accesskey "Ж">
+<!ENTITY historyMenu.label "Історія">
+<!ENTITY historyMenu.accesskey "І">
 <!ENTITY historyUndoMenu.label "Недавно закриті вкладки">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно закриті вікна">
@@ -198,12 +202,11 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Шукати в закладках та історії">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Шукати в закладках та історії">
 <!ENTITY urlbar.bookmark.emptyText    "Шукати в закладках">
 <!ENTITY urlbar.history.emptyText     "Шукати в історії">
 <!ENTITY urlbar.none.emptyText        "Наберіть веб-адресу">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.accesskey             "а">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -260,6 +263,8 @@
 <!ENTITY reloadImageCmd.accesskey     "з">
 <!ENTITY viewImageCmd.label           "Переглянути зображення">
 <!ENTITY viewImageCmd.accesskey       "г">
+<!ENTITY viewImageInfoCmd.label       "Інформація про зображення">
+<!ENTITY viewImageInfoCmd.accesskey   "І">
 <!ENTITY viewVideoCmd.label           "Переглянути відео">
 <!ENTITY viewVideoCmd.accesskey       "г">
 <!ENTITY viewBGImageCmd.label         "Переглянути зображення тла">
@@ -312,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "Копіювати адресу аудіо">
 <!ENTITY copyAudioURLCmd.accesskey    "у">
 <!ENTITY blockImageCmd.accesskey      "о">
-<!ENTITY metadataCmd.label            "Властивості">
-<!ENTITY metadataCmd.accesskey        "с">
 <!ENTITY copyEmailCmd.label           "Копіювати адресу електронної пошти">
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "У цьому фреймі">
@@ -368,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
 <!ENTITY pasteButton.tooltip            "Вставити">
+<!ENTITY fullScreenButton.tooltip       "Показати вікно на повний екран">
 
 <!ENTITY quitApplicationCmdWin.label       "Вийти"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "й">
@@ -444,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Клацніть щоб відкрити вікно завантажень">
 
-<!ENTITY ctrlTab.search.emptyText "Шукати вкладку">
+<!ENTITY allTabs.filter.emptyText "Шукати вкладки">

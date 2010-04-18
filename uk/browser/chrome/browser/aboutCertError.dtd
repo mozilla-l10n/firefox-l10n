@@ -14,8 +14,8 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Ви наказали &brandShortName; встановити безпечний
 зв’язок з <b>#1</b>, проте ми не можемо підтвердити що цей зв’язок дійсно безпечний.">
-<!ENTITY certerror.introPara2 "Зазвичай, коли встановлютьється безпечний зв’язок,
-сайти надають гідну довіри інформацію про себе. Щоб довести ви попали дійсно за адресою.
+<!ENTITY certerror.introPara2 "Зазвичай, коли встановлюється безпечний зв’язок,
+сайти надають гідну довіри інформацію про себе. Щоб підтвердити, що ви попали дійсно за адресою.
 Однак, належність цього сайта перевірити неможливо.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Що робити?">

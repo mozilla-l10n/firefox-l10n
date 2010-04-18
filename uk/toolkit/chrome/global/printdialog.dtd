@@ -18,11 +18,11 @@
 <!ENTITY printrangeGroup.label "Діапазон друку">
 <!ENTITY allpagesRadio.label "Всі сторінки">
 <!ENTITY allpagesRadio.accesskey "В">
-<!ENTITY rangeRadio.label "Сторінки">
+<!ENTITY rangeRadio.label  "Сторінки">
 <!ENTITY rangeRadio.accesskey  "С">
-<!ENTITY frompageInput.label "з">
+<!ENTITY frompageInput.label  "з">
 <!ENTITY frompageInput.accesskey  "з">
-<!ENTITY topageInput.label "по">
+<!ENTITY topageInput.label  "по">
 <!ENTITY topageInput.accesskey  "о">
 <!ENTITY selectionRadio.label "Виділений фрагмент">
 <!ENTITY selectionRadio.accesskey "ф">
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Друк фреймів">
 <!ENTITY aslaidoutRadio.label "Що показані на екрані">
 <!ENTITY aslaidoutRadio.accesskey "Щ">
-<!ENTITY selectedframeRadio.label "Виділеного фрейма">
+<!ENTITY selectedframeRadio.label  "Виділеного фрейма">
 <!ENTITY selectedframeRadio.accesskey  "д">
-<!ENTITY eachframesepRadio.label "Всіх фреймів окремо">
+<!ENTITY eachframesepRadio.label  "Всіх фреймів окремо">
 <!ENTITY eachframesepRadio.accesskey  "х">

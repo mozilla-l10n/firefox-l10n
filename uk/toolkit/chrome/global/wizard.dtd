@@ -1,20 +1,20 @@
-<!ENTITY button-back-mac.label "Назад">
-<!ENTITY button-back-mac.accesskey "а">
-<!ENTITY button-next-mac.label "Далі">
-<!ENTITY button-next-mac.accesskey "а">
-<!ENTITY button-finish-mac.label "Гаразд">
-<!ENTITY button-cancel-mac.label "Скасувати">
+<!ENTITY  button-back-mac.label        "Назад">
+<!ENTITY  button-back-mac.accesskey    "а">
+<!ENTITY  button-next-mac.label        "Далі">
+<!ENTITY  button-next-mac.accesskey    "а">
+<!ENTITY  button-finish-mac.label      "Гаразд">
+<!ENTITY  button-cancel-mac.label      "Скасувати">
 
-<!ENTITY button-back-unix.label "Назад">
-<!ENTITY button-back-unix.accesskey "а">
-<!ENTITY button-next-unix.label "Далі">
-<!ENTITY button-next-unix.accesskey "а">
-<!ENTITY button-finish-unix.label "Гаразд">
-<!ENTITY button-cancel-unix.label "Скасувати">
+<!ENTITY  button-back-unix.label       "Назад">
+<!ENTITY  button-back-unix.accesskey   "а">
+<!ENTITY  button-next-unix.label       "Далі">
+<!ENTITY  button-next-unix.accesskey   "а">
+<!ENTITY  button-finish-unix.label     "Гаразд">
+<!ENTITY  button-cancel-unix.label     "Скасувати">
 
-<!ENTITY button-back-win.label "&lt; Назад">
-<!ENTITY button-back-win.accesskey "а">
-<!ENTITY button-next-win.label "Далі &gt;">
-<!ENTITY button-next-win.accesskey "а">
-<!ENTITY button-finish-win.label "Гаразд">
-<!ENTITY button-cancel-win.label "Скасувати">
+<!ENTITY  button-back-win.label        "&lt; Назад">
+<!ENTITY  button-back-win.accesskey    "а">
+<!ENTITY  button-next-win.label        "Далі &gt;">
+<!ENTITY  button-next-win.accesskey    "а">
+<!ENTITY  button-finish-win.label      "Гаразд">
+<!ENTITY  button-cancel-win.label      "Скасувати">

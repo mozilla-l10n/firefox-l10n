@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "т">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Закласти цю сторінку…">
+<!ENTITY cmd.bookmarkLink.accesskey     "З">
 <!ENTITY cmd.delete.label               "Усунути цю сторінку">
 <!ENTITY cmd.delete.accesskey           "У">
 <!ENTITY cmd.deleteDomainData.label     "Забути про цей сайт">
@@ -125,7 +127,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "П">
 
 <!ENTITY col.name.label          "Ім’я">
-<!ENTITY col.tags.label          "Позначки">
+<!ENTITY col.tags.label          "Мітки">
 <!ENTITY col.url.label           "Адреса">
 <!ENTITY col.lastvisit.label     "Дата відвідування">
 <!ENTITY col.visitcount.label    "Відвідувань">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "І">
 
 <!ENTITY backCmd.label       "Назад">
-<!ENTITY backCmd.accesskey   "Н">
 <!ENTITY backButton.tooltip  "Повернутись назад">
 
 <!ENTITY forwardCmd.label       "Вперед">
-<!ENTITY forwardCmd.accesskey   "В">
 <!ENTITY forwardButton.tooltip  "Перейти вперед">
 
 <!ENTITY detailsPane.more.label "Більше">

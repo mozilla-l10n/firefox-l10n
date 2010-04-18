@@ -10,7 +10,7 @@
 
 <!ENTITY     props.name.label               "Ім’я:">
 <!ENTITY     props.value.label              "Зміст:">
-<!ENTITY     props.domain.label             "Вузол:">
+<!ENTITY     props.domain.label             "Хост:">
 <!ENTITY     props.path.label               "Шлях:">
 <!ENTITY     props.secure.label             "Посилати при:">
 <!ENTITY     props.expires.label            "Термін дії закінчується:">

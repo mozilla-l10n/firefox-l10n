@@ -1,19 +1,19 @@
-<!ENTITY about.version "версія">
+<!ENTITY about.version                "версія">
 
-<!ENTITY about.copy.beforeLink "Авторські права © 1998-2008 ">
-<!ENTITY about.copy.linkTitle "учасники">
-<!ENTITY about.copy.afterLink "Проекту Mozilla.">
+<!ENTITY about.copy.beforeLink        "Авторські права © 1998-2008 ">
+<!ENTITY about.copy.linkTitle         "учасники">
+<!ENTITY about.copy.afterLink         "Проекту Mozilla.">
 
-<!ENTITY about.license.beforeLink "Читати">
-<!ENTITY about.license.linkTitle "інформацію про ліцензію">
-<!ENTITY about.license.afterLink "цього продукту.">
+<!ENTITY about.license.beforeLink     "Читати">
+<!ENTITY about.license.linkTitle      "інформацію про ліцензію">
+<!ENTITY about.license.afterLink      "цього продукту.">
 
-<!ENTITY about.relnotes.beforeLink "Читати">
-<!ENTITY about.relnotes.linkTitle "примітки до випуску">
-<!ENTITY about.relnotes.afterLink "цієї версії.">
+<!ENTITY about.relnotes.beforeLink    "Читати">
+<!ENTITY about.relnotes.linkTitle     "примітки до випуску">
+<!ENTITY about.relnotes.afterLink     "цієї версії.">
 
 <!ENTITY about.buildconfig.beforeLink "Подивитись">
-<!ENTITY about.buildconfig.linkTitle "конфігурацію збірки">
-<!ENTITY about.buildconfig.afterLink "використану в цій версії.">
+<!ENTITY about.buildconfig.linkTitle  "конфігурацію збірки">
+<!ENTITY about.buildconfig.afterLink  "використану в цій версії.">
 
-<!ENTITY about.buildIdentifier "Ідентифікатор збірки: ">
+<!ENTITY about.buildIdentifier        "Ідентифікатор збірки: ">

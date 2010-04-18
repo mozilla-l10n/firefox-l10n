@@ -12,37 +12,30 @@
 <!ENTITY helpMenuWin.accesskey    "Д">
 <!ENTITY aboutCmd.label           "Про &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "о">
-<!ENTITY helpContents.label       "Зміст">
-<!ENTITY helpContents.accesskey   "і">
-<!ENTITY helpContentsMac.label    "Довідка &brandShortName;">
+<!ENTITY productHelp.label        "Довідка &brandShortName;">
+<!ENTITY productHelp.accesskey    "Д">
 <!ENTITY helpForIEUsers.label     "Для користувачів Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "я">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Інформація про випуск">
 <!ENTITY helpReleaseNotes.accesskey     "ф">
+
+<!ENTITY helpTroubleshooting.label      "Вирішення проблем…">
+<!ENTITY helpTroubleshooting.accesskey  "В">
+
 <!ENTITY updateCmd.label                "Перевірити наявність оновлень…">
-<!ENTITY updateCmd.accesskey            "е">
 
 <!ENTITY preferencesCmdMac.label        "Налаштування…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Служби">
 
 <!ENTITY hideThisAppCmdMac.label        "Приховати &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Приховати інші">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Показати все">

@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Видавати попередження при спробі веб-сайтів встановити додаток">
+<!ENTITY  warnAddonInstall.label        "Видавати попередження при спробі сайтів встановити додаток">
 <!ENTITY  warnAddonInstall.accesskey    "В">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -36,7 +36,7 @@
 
 <!ENTITY  warnings.label                "Попередження">
 
-<!ENTITY  chooseWarnings.label          "Виберіть попередження, які можуть бути показані при роботі з веб-сайтами">
+<!ENTITY  chooseWarnings.label          "Виберіть попередження, які можуть бути показані при роботі з сайтами">
 
 <!ENTITY  warningSettings.label         "Настроїти…">
 <!ENTITY  warningSettings.accesskey     "а">

@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
+<!-- entities split out from browser.dtd -->
 <!ENTITY next.label "Наступне">
 <!ENTITY next.accesskey "а">
 <!ENTITY next.tooltip "Знайти наступне входження фрази в текст">

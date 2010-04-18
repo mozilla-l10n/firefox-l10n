@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Скинути налаштування панелей інструментів і елементів управління">
 <!ENTITY resetToolbars.accesskey      "и">
 
-<!ENTITY resetBookmarks.label         "Замінити ваші закладки на типові для &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "а">
+<!ENTITY deleteBookmarks.label        "Вилучити всі закладки крім резервних копій">
+<!ENTITY deleteBookmarks.accesskey    "В">
 
 <!ENTITY resetUserPrefs.label         "Скинути всі налаштування на типові для &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "и">

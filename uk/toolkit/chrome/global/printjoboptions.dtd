@@ -18,10 +18,10 @@
 <!ENTITY jobTitleInput.accesskey "Н">
 
 <!ENTITY colorGroup.label "Колір:">
-<!ENTITY colorRadio.accesskey "л">
 <!ENTITY grayRadio.label "Відтінки сірого">
 <!ENTITY grayRadio.accesskey "с">
 <!ENTITY colorRadio.label "Колір">
+<!ENTITY colorRadio.accesskey "л">
 
 <!ENTITY colorspaceInput.label "Кольори:">
 <!ENTITY colorspaceInput.accesskey "ь">
