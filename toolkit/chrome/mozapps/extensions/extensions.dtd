@@ -12,7 +12,7 @@
 <!ENTITY search.label                     "Додати ще">
 <!ENTITY extensions.label                 "Розширення">
 <!ENTITY themes.label                     "Теми">
-<!ENTITY locales.label                    "Локалізації">
+<!ENTITY locales.label                    "Мови">
 <!ENTITY plugins.label                    "Модулі">
 <!ENTITY update.label                     "Оновлення">
 <!ENTITY install.label                    "Встановлення">
