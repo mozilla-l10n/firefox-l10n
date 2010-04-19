@@ -22,6 +22,9 @@
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label  "POP">
 <!ENTITY smtp.label "SMTP">
+<!ENTITY imap.description           "Protokół IMAP - dostęp do wiadomości i folderów z wielu komputerów">
+<!ENTITY pop.description            "Protokół POP  - pobieranie wszystkich wiadomości na ten komputer, foldery przechowywane wyłącznie lokalnie">
+<!ENTITY recommended-appendix.label "(polecana metoda dostępu do poczty)">
 
 <!ENTITY manualSetup.label     "Utwórz konto i edytuj jego ustawienia…">
 <!ENTITY manualSetup.accesskey "k">
