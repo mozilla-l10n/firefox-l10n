@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Tagong ta mappen en berjochten fanôf mear kompjûters">
+<!ENTITY pop.description                 "POP - Laad alle berjochten nei dizze kompjûter, mappen binne allinnich lokaal">
+<!ENTITY recommended-appendix.label      "(oanrikkemandearre)">
 
 <!ENTITY manualSetup.label               "Hânmjittich ynstelle…">
 <!ENTITY manualSetup.accesskey           "H">
