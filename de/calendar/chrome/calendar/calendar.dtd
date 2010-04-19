@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -322,16 +326,22 @@
 <!ENTITY calendar.select.dialog.title    "Kalender auswählen">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title        "Einen Kalender drucken">
-<!ENTITY calendar.print.title.label         "Titel:">
-<!ENTITY calendar.print.layout.label        "Layout:">
-<!ENTITY calendar.print.range.label         "Druckauswahl">
-<!ENTITY calendar.print.currentview.label   "Termine in der aktuellen Ansicht">
-<!ENTITY calendar.print.selected.label      "Markierte Termine">
-<!ENTITY calendar.print.custom.label        "Benutzerdefinierter Zeitraum:">
-<!ENTITY calendar.print.from.label          "Beginn:">
-<!ENTITY calendar.print.to.label            "Ende:">
-<!ENTITY calendar.print.settingsGroup.label "Druckeinstellungen">
+<!ENTITY calendar.print.window.title          "Einen Kalender drucken">
+<!ENTITY calendar.print.title.label           "Titel:">
+<!ENTITY calendar.print.layout.label          "Layout:">
+<!ENTITY calendar.print.range.label           "Druckauswahl">
+<!ENTITY calendar.print.currentView2.label    "Aktuelle Ansicht">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Markierte Termin/Aufgaben">
+<!ENTITY calendar.print.tasks.label           "Aufgaben">
+<!ENTITY calendar.print.events.label          "Termine">
+<!ENTITY calendar.print.selected.label        "Markierte Termine">
+<!ENTITY calendar.print.custom.label          "Benutzerdefinierter Zeitraum:">
+<!ENTITY calendar.print.from.label            "Beginn:">
+<!ENTITY calendar.print.to.label              "Ende:">
+<!ENTITY calendar.print.settingsGroup.label   "Druckeinstellungen">
+<!ENTITY calendar.print.optionsGroup.label    "Einstellungen">
+<!ENTITY calendar.print.taskswithnoduedate.label "Aufgaben ohne Fälligkeitsdatum">
+<!ENTITY calendar.print.completedtasks.label  "Abgeschlossene Aufgaben">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail      "Details…">
