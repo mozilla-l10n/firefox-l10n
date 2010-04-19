@@ -114,6 +114,9 @@
 <!ENTITY phishingBlocked.longDesc "<p>Надання будь-якої особистої інформації цій сторінці може призвести до крадіжки ваших особистих даних чи інших афер.</p> 
 <p>Ошуканство за допомогою підробленого сайту чи емейлу також називають фішингом. Шахраї намагаються видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
 <!ENTITY securityOverride.exceptionButtonLabel "Зробити виняток">
