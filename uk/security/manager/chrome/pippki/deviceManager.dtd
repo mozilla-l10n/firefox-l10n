@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Менеджер пристроїв">
+<!ENTITY devmgr.title                           "Менеджер пристроїв">
 
-<!ENTITY devmgr.devlist.label "Модулі і пристрої захисту">
-<!ENTITY devmgr.details.title "Подробиці">
-<!ENTITY devmgr.details.title2 "Значення">
-<!ENTITY devmgr.status.label "Стан">
-<!ENTITY devmgr.version.label "Версія">
+<!ENTITY devmgr.devlist.label                   "Модулі і пристрої захисту">
+<!ENTITY devmgr.details.title                   "Подробиці">
+<!ENTITY devmgr.details.title2                  "Значення">
+<!ENTITY devmgr.status.label                    "Стан">
+<!ENTITY devmgr.version.label                   "Версія">
 
-<!ENTITY devmgr.button.changeslotname.label "Змінити ім’я роз’єму">
+<!ENTITY devmgr.button.changeslotname.label     "Змінити ім’я роз’єму">
 <!ENTITY devmgr.button.changeslotname.accesskey "і">
-<!ENTITY devmgr.button.login.label "Почати сеанс">
-<!ENTITY devmgr.button.login.accesskey "о">
-<!ENTITY devmgr.button.logout.label "Закінчити сеанс">
-<!ENTITY devmgr.button.logout.accesskey "а">
-<!ENTITY devmgr.button.changepw.label "Змінити пароль">
-<!ENTITY devmgr.button.changepw.accesskey "і">
-<!ENTITY devmgr.button.load.label "Завантажити">
-<!ENTITY devmgr.button.load.accesskey "З">
-<!ENTITY devmgr.button.unload.label "Вивантажити">
-<!ENTITY devmgr.button.unload.accesskey "и">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "Почати сеанс">
+<!ENTITY devmgr.button.login.accesskey          "о">
+<!ENTITY devmgr.button.logout.label             "Закінчити сеанс">
+<!ENTITY devmgr.button.logout.accesskey         "а">
+<!ENTITY devmgr.button.changepw.label           "Змінити пароль">
+<!ENTITY devmgr.button.changepw.accesskey       "і">
+<!ENTITY devmgr.button.load.label               "Завантажити">
+<!ENTITY devmgr.button.load.accesskey           "З">
+<!ENTITY devmgr.button.unload.label             "Вивантажити">
+<!ENTITY devmgr.button.unload.accesskey         "и">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Введіть інформацію про модуль, який хочете додати.">
-<!ENTITY loaddevice.modname "Ім’я модуля:">
-<!ENTITY loaddevice.modname.accesskey "о">
-<!ENTITY loaddevice.modname.default "Новий модуль PKCS#11">
-<!ENTITY loaddevice.filename "Ім’я файлу:">
-<!ENTITY loaddevice.filename.accesskey "у">
-<!ENTITY loaddevice.browse "Перегляд…">
-<!ENTITY loaddevice.browse.accesskey "я">
+<!ENTITY loaddevice.info                        "Введіть інформацію про модуль, який хочете додати.">
+<!ENTITY loaddevice.modname                     "Ім’я модуля:">
+<!ENTITY loaddevice.modname.accesskey           "о">
+<!ENTITY loaddevice.modname.default             "Новий модуль PKCS#11">
+<!ENTITY loaddevice.filename                    "Ім’я файлу:">
+<!ENTITY loaddevice.filename.accesskey          "у">
+<!ENTITY loaddevice.browse                      "Перегляд…">
+<!ENTITY loaddevice.browse.accesskey            "я">
 
-<!ENTITY loaddevice.title "Завантаження пристрою PKCS#11">
+<!ENTITY loaddevice.title                       "Завантаження пристрою PKCS#11">
