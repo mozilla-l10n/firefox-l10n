@@ -57,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "вичистити всю поточну історію">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Автоматично запускати &brandShortName; у потайливому режимі">
-<!ENTITY  privateBrowsingAutoStart.accesskey "А">
+<!ENTITY  privateBrowsingPermanent.label "Завжди використовувати потайливий режим">
+<!ENTITY  privateBrowsingPermanent.accesskey "З">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Пам’ятати мою історію переглядів щонайменше">
-<!ENTITY  rememberHistory.pre.accesskey  "п">
-<!ENTITY  rememberHistory.post.label     "днів">
+<!ENTITY  rememberHistory.label      "Пам’ятати мою історію переглядів">
+<!ENTITY  rememberHistory.accesskey  "п">
 
 <!ENTITY  rememberDownload.label         "Пам’ятати історію завантажень">
 <!ENTITY  rememberDownload.accesskey     "з">
