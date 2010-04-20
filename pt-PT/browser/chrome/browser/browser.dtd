@@ -151,7 +151,6 @@ shortcut keys on Linux. -->
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Extras">
-<!ENTITY addons.tooltip "Permite visualizar e gerir os extras instalados">
 <!ENTITY addons.accesskey "E">
 
 <!ENTITY errorConsoleCmd.label "Consola de erros">
