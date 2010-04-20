@@ -35,113 +35,132 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title "Менеджер сертифікатів">
+<!ENTITY certmgr.title                       "Менеджер сертифікатів">
 
-<!ENTITY certmgr.tab.mine "Ваші сертифікати">
-<!ENTITY certmgr.tab.others2 "Люди">
-<!ENTITY certmgr.tab.websites3 "Сервери">
-<!ENTITY certmgr.tab.ca "Центри сертифікації">
-<!ENTITY certmgr.tab.orphan2 "Інше">
+<!ENTITY certmgr.tab.mine                     "Ваші сертифікати">
+<!ENTITY certmgr.tab.others2                  "Люди">
+<!ENTITY certmgr.tab.websites3                "Сервери">
+<!ENTITY certmgr.tab.ca                       "Центри сертифікації">
+<!ENTITY certmgr.tab.orphan2                  "Інше">
 
-<!ENTITY certmgr.ca.builtins "Вбудовані центри авторизації">
-<!ENTITY certmgr.ca.mycas "Центри авторизації, керовані вами">
+<!ENTITY certmgr.ca.builtins                  "Вбудовані центри авторизації">
+<!ENTITY certmgr.ca.mycas                     "Центри авторизації, керовані вами">
 
+<!ENTITY certmgr.mine.search                  "Search:">
+<!ENTITY certmgr.others.search                "Search:">
+<!ENTITY certmgr.websites.search              "Search:">
+<!ENTITY certmgr.cas.search                   "Search:">
+<!ENTITY certmgr.orphans.search               "Search:">
+
+<!--
+FIXME
 <!ENTITY certmgr.mine "У вас зберігаються сертифікати від організацій, які ідентифікують вас:">
 <!ENTITY certmgr.others "У вас зберігаються сертифікати, які ідентифікують цих людей:">
 <!ENTITY certmgr.websites2 "Ви маєте записані сертифікати що ідентифікують ці сервери:">
 <!ENTITY certmgr.cas "У вас зберігаються сертифікати, які ідентифікують ці центри:">
 <!ENTITY certmgr.orphans "Ви маєте записані сертифікати що не підпадають під жодну іншу категорію:">
+-->
 
-<!ENTITY certmgr.detail.general_tab.title "Основне">
+<!ENTITY certmgr.mine.description             "You have certificates from these organizations that identify you:">
+<!ENTITY certmgr.others.description           "You have certificates on file that identify these people:">
+<!ENTITY certmgr.websites.description         "You have certificates on file that identify these servers:">
+<!ENTITY certmgr.cas.description              "You have certificates on file that identify these certificate authorities:">
+<!ENTITY certmgr.orphans.description          "You have certificates on file that do not fit in any of the other categories:">
+
+<!ENTITY certmgr.mine.filtered                "Matching certificates from these organizations that identify you:">
+<!ENTITY certmgr.others.filtered              "Matching certificates on file that identify these people:">
+<!ENTITY certmgr.websites.filtered            "Matching certificates on file that identify these servers:">
+<!ENTITY certmgr.cas.filtered                 "Matching certificates on file that identify these certificate authorities:">
+<!ENTITY certmgr.orphans.filtered             "Matching certificates on file that do not fit in any of the other categories:">
+
+<!ENTITY certmgr.detail.general_tab.title     "Основне">
 <!ENTITY certmgr.detail.general_tab.accesskey "в">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Подробиці">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "П">
 
-<!ENTITY certmgr.pending.label "Наразі перевіряється сертифікат…">
-<!ENTITY certmgr.subjectinfo.label "Кому видано">
-<!ENTITY certmgr.issuerinfo.label "Ким видано">
-<!ENTITY certmgr.validity.label "Дійсний">
-<!ENTITY certmgr.fingerprints.label "Відбитки">
-<!ENTITY certmgr.certdetail.title "Подробиці сертифікату">
-<!ENTITY certmgr.certdetail.cn "Загальне ім’я (CN)">
-<!ENTITY certmgr.certdetail.o "Організація (O)">
-<!ENTITY certmgr.certdetail.ou "Організаційний підрозділ (OU)">
-<!ENTITY certmgr.certdetail.serialnumber "Серійний номер">
-<!ENTITY certmgr.certdetail.sha1fingerprint "Відбиток SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint "Відбиток MD5">
+<!ENTITY certmgr.pending.label                "Наразі перевіряється сертифікат…">
+<!ENTITY certmgr.subjectinfo.label            "Кому видано">
+<!ENTITY certmgr.issuerinfo.label             "Ким видано">
+<!ENTITY certmgr.validity.label               "Дійсний" >
+<!ENTITY certmgr.fingerprints.label           "Відбитки">
+<!ENTITY certmgr.certdetail.title             "Подробиці сертифікату">
+<!ENTITY certmgr.certdetail.cn                "Загальне ім’я (CN)">
+<!ENTITY certmgr.certdetail.o                 "Організація (O)">
+<!ENTITY certmgr.certdetail.ou                "Організаційний підрозділ (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Серійний номер">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Відбиток SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint    "Відбиток MD5">
 
-<!ENTITY certmgr.editcert.title "Зміна параметрів сертифікату">
-<!ENTITY certmgr.editcacert.title "Зміна ступеню довіри сертифікату CA">
-<!ENTITY certmgr.editsslcert.title "Зміна ступеню довіри сертифікату сайта">
-<!ENTITY certmgr.editcert.edittrust "Змінити ступінь довіри:">
-<!ENTITY certmgr.editcert.trustssl "Цей сертифікат може ідентифікувати сайти.">
-<!ENTITY certmgr.editcert.trustemail "Цей сертифікат може ідентифікувати користувачів ел. пошти.">
-<!ENTITY certmgr.editcert.trustobjsign "Цей сертифікат може ідентифікувати програмне забезпечення.">
-<!ENTITY certmgr.editsslcert.edittrust "Змінити довіру сертифікату:">
-<!ENTITY certmgr.editsslcert.dotrust "Довіряти цьому сертифікату.">
-<!ENTITY certmgr.editsslcert.donttrust "Не довіряти цьому сертифікату.">
-<!ENTITY certmgr.editemailcert.title "Зміна довіри сертифікатам електронної пошти">
-<!ENTITY certmgr.editemailcert.edittrust "Вкажіть ступінь довіри сертифікату:">
-<!ENTITY certmgr.editemailcert.dotrust "Довіряти достовірності сертифікату.">
-<!ENTITY certmgr.editemailcert.donttrust "Не довіряти достовірності сертифікату.">
+<!ENTITY certmgr.editcert.title               "Зміна параметрів сертифікату">
+<!ENTITY certmgr.editcacert.title             "Зміна ступеню довіри сертифікату CA">
+<!ENTITY certmgr.editsslcert.title            "Зміна ступеню довіри сертифікату сайта">
+<!ENTITY certmgr.editcert.edittrust           "Змінити ступінь довіри:">
+<!ENTITY certmgr.editcert.trustssl            "Цей сертифікат може ідентифікувати сайти.">
+<!ENTITY certmgr.editcert.trustemail          "Цей сертифікат може ідентифікувати користувачів ел. пошти.">
+<!ENTITY certmgr.editcert.trustobjsign        "Цей сертифікат може ідентифікувати програмне забезпечення.">
+<!ENTITY certmgr.editsslcert.edittrust        "Змінити довіру сертифікату:">
+<!ENTITY certmgr.editsslcert.dotrust          "Довіряти цьому сертифікату.">
+<!ENTITY certmgr.editsslcert.donttrust        "Не довіряти цьому сертифікату.">
+<!ENTITY certmgr.editemailcert.title          "Зміна довіри сертифікатам електронної пошти">
+<!ENTITY certmgr.editemailcert.edittrust      "Вкажіть ступінь довіри сертифікату:">
+<!ENTITY certmgr.editemailcert.dotrust        "Довіряти достовірності сертифікату.">
+<!ENTITY certmgr.editemailcert.donttrust      "Не довіряти достовірності сертифікату.">
 
-<!ENTITY certmgr.deletecert.title "Вилучення сертифікату">
-<!ENTITY certmgr.deletecert.beforename "Ви збираєтеся вилучити цей сертифікат:">
-<!ENTITY certmgr.deletecert.aftername "Ви дійсно хочете вилучити його?">
-<!ENTITY certmgr.deleteusercert.title "Вилучення власного сертифікату">
-<!ENTITY certmgr.deleteusercert.beforename "Ви збираєтеся вилучити сертифікат:">
-<!ENTITY certmgr.deleteusercert.aftername "Вилучивши цей сертифікат, ви не зможете читати пошту, зашифровану з його допомогою.">
+<!ENTITY certmgr.deletecert.title             "Вилучення сертифікату">
+<!ENTITY certmgr.deletecert.beforename        "Ви збираєтеся вилучити цей сертифікат:">
+<!ENTITY certmgr.deletecert.aftername         "Ви дійсно хочете вилучити його?">
+<!ENTITY certmgr.deleteusercert.title         "Вилучення власного сертифікату">
+<!ENTITY certmgr.deleteusercert.beforename    "Ви збираєтеся вилучити сертифікат:">
+<!ENTITY certmgr.deleteusercert.aftername     "Вилучивши цей сертифікат, ви не зможете читати пошту, зашифровану з його допомогою.">
 
-<!ENTITY certmgr.certname "Ім’я сертифікату">
-<!ENTITY certmgr.certserver "Сервер">
-<!ENTITY certmgr.typesofoverrides "Винятки">
-<!ENTITY certmgr.override_lifetime "Час життя">
-<!ENTITY certmgr.tokenname "Пристрій захисту">
-<!ENTITY certmgr.purpose "Цілі">
-<!ENTITY certmgr.issued "Виданий">
-<!ENTITY certmgr.expires "Дійсний до">
-<!ENTITY certmgr.email "Адреса електронної пошти">
-<!ENTITY certmgr.serial "Серійний номер">
+<!ENTITY certmgr.certname                     "Ім’я сертифікату">
+<!ENTITY certmgr.certserver                   "Сервер">
+<!ENTITY certmgr.override_lifetime            "Час життя">
+<!ENTITY certmgr.tokenname                    "Пристрій захисту">
+<!ENTITY certmgr.issued                       "Виданий">
+<!ENTITY certmgr.expires                      "Дійсний до">
+<!ENTITY certmgr.email                        "Адреса електронної пошти">
+<!ENTITY certmgr.serial                       "Серійний номер">
 
-<!ENTITY certmgr.close.label "Закрити">
-<!ENTITY certmgr.close.accesskey "а">
-<!ENTITY certmgr.view2.label "Переглянути…">
-<!ENTITY certmgr.view2.accesskey "П">
-<!ENTITY certmgr.edit2.label "Редагувати…">
-<!ENTITY certmgr.edit2.accesskey "Р">
-<!ENTITY certmgr.editca.label "Змінити довіру центру">
-<!ENTITY certmgr.editca.accesskey "і">
-<!ENTITY certmgr.add.label "Додати">
-<!ENTITY certmgr.add.accesskey "о">
-<!ENTITY certmgr.export.label "Експорт…">
-<!ENTITY certmgr.export.accesskey "Е">
-<!ENTITY certmgr.delete2.label "Стерти…">
-<!ENTITY certmgr.delete2.accesskey "С">
-<!ENTITY certmgr.backup2.label "Створити резервну копію…">
-<!ENTITY certmgr.backup2.accesskey "т">
-<!ENTITY certmgr.backupall2.label "Створити резервні копії всіх…">
-<!ENTITY certmgr.backupall2.accesskey "х">
-<!ENTITY certmgr.restore2.label "Імпорт…">
-<!ENTITY certmgr.restore2.accesskey "І">
-<!ENTITY certmgr.details.label "Поля сертифікатів">
-<!ENTITY certmgr.details.accesskey "о">
-<!ENTITY certmgr.fields.label "Значення поля">
-<!ENTITY certmgr.fields.accesskey "а">
-<!ENTITY certmgr.hierarchy.label "Ієрархія сертифікатів">
-<!ENTITY certmgr.hierarchy.accesskey "є">
-<!ENTITY certmgr.addException.label "Додати виняток…">
-<!ENTITY certmgr.addException.accesskey "к">
+<!ENTITY certmgr.close.label                  "Закрити">
+<!ENTITY certmgr.close.accesskey              "а">
+<!ENTITY certmgr.view2.label                  "Переглянути…">
+<!ENTITY certmgr.view2.accesskey              "П">
+<!ENTITY certmgr.edit2.label                  "Редагувати…">
+<!ENTITY certmgr.edit2.accesskey              "Р">
+<!ENTITY certmgr.editca.label                 "Змінити довіру центру">
+<!ENTITY certmgr.editca.accesskey             "і">
+<!ENTITY certmgr.add.label                    "Додати">
+<!ENTITY certmgr.add.accesskey                "о">
+<!ENTITY certmgr.export.label                 "Експорт…">
+<!ENTITY certmgr.export.accesskey             "Е">
+<!ENTITY certmgr.delete2.label                "Стерти…">
+<!ENTITY certmgr.delete2.accesskey            "С">
+<!ENTITY certmgr.backup2.label                "Створити резервну копію…">
+<!ENTITY certmgr.backup2.accesskey            "т">
+<!ENTITY certmgr.backupall2.label             "Створити резервні копії всіх…">
+<!ENTITY certmgr.backupall2.accesskey         "х">
+<!ENTITY certmgr.restore2.label               "Імпорт…">
+<!ENTITY certmgr.restore2.accesskey           "І">
+<!ENTITY certmgr.details.label                "Поля сертифікатів">
+<!ENTITY certmgr.details.accesskey            "о">
+<!ENTITY certmgr.fields.label                 "Значення поля">
+<!ENTITY certmgr.fields.accesskey             "а">
+<!ENTITY certmgr.hierarchy.label              "Ієрархія сертифікатів">
+<!ENTITY certmgr.hierarchy.accesskey          "є">
+<!ENTITY certmgr.addException.label           "Додати виняток…">
+<!ENTITY certmgr.addException.accesskey       "к">
 
-<!ENTITY exceptionMgr.title "Додати виняток безпеки">
-<!ENTITY exceptionMgr.exceptionButton "Затвердити виняток безпеки">
-<!ENTITY exceptionMgr.exceptionButtonAccess "З">
-<!ENTITY exceptionMgr.supplementalWarning "Законні банки, крамниці та інші публічні сайти не попросять це зробити.">
-<!ENTITY exceptionMgr.certlocation.caption2 "Сервер">
-<!ENTITY exceptionMgr.certlocation.url "Адреса:">
-<!ENTITY exceptionMgr.certlocation.download "Отримати сертифікат">
-<!ENTITY exceptionMgr.certlocation.accesskey "С">
-<!ENTITY exceptionMgr.certstatus.caption "Стан сертифікату">
-<!ENTITY exceptionMgr.certstatus.viewCert "Переглянути…">
-<!ENTITY exceptionMgr.certstatus.accesskey "н">
-<!ENTITY exceptionMgr.permanent.label "Зробити цей виняток постійним">
-<!ENTITY exceptionMgr.permanent.accesskey "п">
+<!ENTITY exceptionMgr.title                   "Додати виняток безпеки">
+<!ENTITY exceptionMgr.exceptionButton         "Затвердити виняток безпеки">
+<!ENTITY exceptionMgr.exceptionButtonAccess   "З">
+<!ENTITY exceptionMgr.supplementalWarning     "Законні банки, крамниці та інші публічні сайти не попросять це зробити.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
+<!ENTITY exceptionMgr.certlocation.url        "Адреса:">
+<!ENTITY exceptionMgr.certlocation.download   "Отримати сертифікат">
+<!ENTITY exceptionMgr.certlocation.accesskey  "С">
+<!ENTITY exceptionMgr.certstatus.caption      "Стан сертифікату">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Переглянути…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "н">
+<!ENTITY exceptionMgr.permanent.label         "Зробити цей виняток постійним">
+<!ENTITY exceptionMgr.permanent.accesskey     "п">
