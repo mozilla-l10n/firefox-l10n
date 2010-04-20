@@ -133,7 +133,7 @@
 <p>Ошуканство за допомогою підробленого сайту чи емейлу також називають фішингом. Шахраї намагаються видурити у вас інформацію імітуючи джерела, яким ви, можливо, довіряєте.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
