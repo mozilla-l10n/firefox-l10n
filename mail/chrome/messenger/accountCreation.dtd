@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Se accede a carpetas y mensajes desde múltiples computadoras">
+<!ENTITY pop.description                 "POP - Se descargan todos los mensajes a esta computadora, las carpetas solamente son locales">
+<!ENTITY recommended-appendix.label      "(recomendado)">
 
 <!ENTITY manualSetup.label               "Configuración manual…">
 <!ENTITY manualSetup.accesskey           "n">
