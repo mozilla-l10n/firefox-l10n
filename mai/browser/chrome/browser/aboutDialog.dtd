@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "&brandFullName; क  संबंध  में">
+<!ENTITY copyright "श्रेयसूची">
+<!ENTITY aboutLink "&lt; &brandFullName; क  संबंध  में">
+<!ENTITY aboutVersion "संस्करण">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY closeCmdGNOME.accesskey    "C">
+<!ENTITY closeCmdGNOME.label        "बन्न  करू ">
+<!ENTITY copyrightInfo1             "&#169;1998-2009 योगदानकर्ता. सर्वाधिकार सुरक्षित. (">
+<!ENTITY licenseLink                "about:license">
+<!ENTITY licenseLinkText            "लाइसेंसिंग सूचना">
+<!ENTITY copyrightInfo2             ").">

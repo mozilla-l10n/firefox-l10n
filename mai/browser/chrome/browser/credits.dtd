@@ -1,0 +1,14 @@
+<!ENTITY brandMotto       "वेब क पुनर्खोज  करू ">
+<!ENTITY credit.thanks    "ईलोकनिसभक विशेष शुक्रिया">
+
+<!ENTITY credit.thanks2       "बहुत-बहुत शुक्रिया हमर">
+<!ENTITY credit.contributors2 "योगदानकर्तासभक">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>"> -->
+<!ENTITY credit.translation "<h3>मैथिली फायरफाक्स</h3><ul><li>Rajesh Ranjan, Coordinator</li><li>Sangeeta Kumari, Translation Coordinator</li><li>Rakesh Roshan, FUEL Coordinator</li><li>Fuel Project (fedorahosted.org/fuel)</li></ul>">
+
+<!ENTITY credit.memory      "ईलोकनिसभक यादमे">
+<!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">

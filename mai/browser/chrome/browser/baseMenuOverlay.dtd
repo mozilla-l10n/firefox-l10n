@@ -1,0 +1,52 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "न्यूनतम  करू ">
+<!ENTITY bringAllToFront.label    "सभक सामने लाएँ">
+<!ENTITY zoomWindow.label         "जूम">
+<!ENTITY windowMenu.label         "विंडो">
+
+<!ENTITY helpMenu.label           " मदति "> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        " मदति "> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutCmd.label           "&brandFullName; क  संबंध  में">
+<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY helpForIEUsers.label     "Internet Explorer प्रयोक्ता क लेल">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+
+<!ENTITY helpReleaseNotes.label         "रिलीज नोट्स">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+<!ENTITY updateCmd.label                "अद्यतन  कलेल  जाँचू...">
+
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY helpTroubleshooting.label      "सूचना विघ्ननिवारण…">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY productHelp.label        "&brandShortName;  मदति ">
+
+
+<!ENTITY preferencesCmdMac.label        "वरीयता...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+
+<!ENTITY servicesMenuMac.label          "सेवा">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; नुकाउ">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+
+<!ENTITY hideOtherAppsCmdMac.label      " आन  नुकाउ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+
+<!ENTITY showAllAppsCmdMac.label        "सभटा देखाओलँ">
+
+
+
+
