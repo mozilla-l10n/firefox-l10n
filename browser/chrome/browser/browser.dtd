@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label           "Tab Baru">
+<!ENTITY  newTab.accesskey       "T">
+<!ENTITY  reloadTab.label        "Muat Ulang Tab">
+<!ENTITY  reloadTab.accesskey         "l">
+<!ENTITY  reloadAllTabs.label    "Muat Ulang Semua Tab">
+<!ENTITY  reloadAllTabs.accesskey         "M">
+<!ENTITY  closeOtherTabs.label   "Tutup Tab Lainnya">
+<!ENTITY  closeOtherTabs.accesskey  "L">
+<!ENTITY  openTabInNewWindow.label    "Buka di Jendela Baru">
+<!ENTITY  openTabInNewWindow.accesskey "J">
+<!ENTITY  bookmarkThisTab.label       "Buat Bookmark untuk Tab Ini">
+<!ENTITY  bookmarkThisTab.accesskey   "k">
+<!ENTITY  bookmarkAllTabs.label       "Buat Bookmark Semua Tab…">
+<!ENTITY  bookmarkAllTabs.accesskey   "S">
+<!ENTITY  undoCloseTab.label          "Batalkan Menutup Tab">
+<!ENTITY  undoCloseTab.accesskey      "B">
+<!ENTITY  closeTab.label         "Tutup Tab">
+<!ENTITY  closeTab.accesskey         "u">
+
 <!ENTITY tabCmd.label "Tab Baru">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -131,7 +151,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Pengaya">
-<!ENTITY addons.tooltip               "Tampilkan dan Kelola Pengaya yang terpasang">
 <!ENTITY addons.accesskey             "P">
 
 <!ENTITY errorConsoleCmd.label        "Konsol Kesalahan">
@@ -190,6 +209,8 @@
 <!ENTITY viewSidebarMenu.accesskey "m">
 <!ENTITY viewCustomizeToolbar.label       "Suka-suka…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
+<!ENTITY viewTabsOnTop.label            "Tab di bagian atas">
+<!ENTITY viewTabsOnTop.accesskey        "a">
 
 <!ENTITY historyMenu.label "Riwayat">
 <!ENTITY historyMenu.accesskey "R">
@@ -207,6 +228,7 @@
 <!ENTITY urlbar.history.emptyText     "Cari di Daftar Riwayat">
 <!ENTITY urlbar.none.emptyText        "Ketikkan alamat Web">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
