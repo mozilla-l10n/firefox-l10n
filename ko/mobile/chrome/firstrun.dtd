@@ -1,9 +1,13 @@
-<!ENTITY welcome.title                      "&brandShortName;사용을 환영합니다">
-<!ENTITY weave.title                        "바로 가기">
-<!ENTITY intro.description                  "Weave를 통해 PC와 모바일 기기를 동기화 합니다. 주소창 검색으로 바로 이동할 수 있습니다.">
-<!ENTITY weave.description                  "Weave는 Firefox 이용을 도와 줍니다. PC의 방문 기록, 북마크, 암호 및 탭 기록을 공유하세요.">
-<!ENTITY weave.linkLabel                    "Weave 부가 기능">
-
-<!ENTITY getPersonal.title                  "Persona 받기">
-<!ENTITY getPersonal.description            "나만의 &brandShortName;만들기. 최초 모바일용 확장 기능을 제공 합니다.">
-<!ENTITY getPersonal.linkLabel              "Persona 기능 받기">
+<!ENTITY firstrun..title               "&brandShortName;사용을 환영합니다">
+<!ENTITY firstrun.heading              "여러분의 시작을 돕기 위해,  &brandShortName;의 최대한 모든 것을 사용할 수 있도록 가장 인기있는  특징과  확장 기능을 제공합니다. ">
+<!ENTITY firstrun.recommended          "추천:">
+<!ENTITY firstrun.weave.title          "바로 가기">
+<!ENTITY firstrun.weave.description    "여러분의 &brandShortName;을 공유합니다; 히스토리, 암호, 즐겨찾기 &amp; 데스크 &amp;모바일간의 탭">
+<!ENTITY firstrun.starter.title        "시작 도구 모음 얻기">
+<!ENTITY firstrun.starter.description  "여러분의 &brandShortName; 사용자 경험을 향상시키기 위해 추천하는 확장 기능을 설치하세요.">
+<!ENTITY firstrun.tour.title           "여행하기">
+<!ENTITY firstrun.tour.description     "새로운 특징이 무엇이고 어디에 위치하는지 익숙해지려면 비디오를 시청하세요"">
+<!ENTITY firstrun.features             "더 많은 특징 보기">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "개인 정보 정책">
+<!ENTITY firstrun.follow               "따라가기:">
