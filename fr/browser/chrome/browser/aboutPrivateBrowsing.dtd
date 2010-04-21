@@ -1,8 +1,3 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
-<!ENTITY % browserDTD SYSTEM "chrome://browser/locale/browser.dtd">
-  %browserDTD;
-
 <!ENTITY privatebrowsingpage.title "Navigation privée">
 
 <!ENTITY privatebrowsingpage.title.normal "Voulez-vous commencer une session de navigation privée ?">
