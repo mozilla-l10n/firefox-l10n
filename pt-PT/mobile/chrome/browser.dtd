@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Extras">
 <!ENTITY addonsLocal.label         "Os seus extras">
+<!ENTITY addonsUpdate.label        "Actualizar">
 <!ENTITY addonsRepo.label          "Obter extras">
 <!ENTITY addonsRecommended.label   "Ver recomendados">
 <!ENTITY addonsSearch.label        "Pesquisar">
