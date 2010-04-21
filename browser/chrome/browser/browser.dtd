@@ -123,7 +123,6 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Componenti aggiuntivi">
-<!ENTITY addons.tooltip "Mostra e gestisci i Componenti aggiuntivi installati">
 <!ENTITY addons.accesskey "a">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "C">
