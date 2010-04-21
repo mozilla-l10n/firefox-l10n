@@ -696,10 +696,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
 <!ENTITY mdnBarSendButton.label "Enviar recibo">
 
-
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mais">
-
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Procurar todas as mensagens">
