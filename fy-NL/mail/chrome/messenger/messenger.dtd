@@ -697,9 +697,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mdnBarSendButton.label "Untfangst ferstjoere">
 
 
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mear">
-
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Sykje alle berjochten">
