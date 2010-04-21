@@ -51,6 +51,7 @@
 <!ENTITY font.langGroup.telugu "เตลูกู">
 <!ENTITY font.langGroup.kannada "กัณณาท">
 <!ENTITY font.langGroup.sinhala "สิงหล">
+<!ENTITY  font.langGroup.tibetan                  "ทิเบต">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "ขนาดอักษรเล็กสุด :">
 <!ENTITY minSize.accesskey "ล">
