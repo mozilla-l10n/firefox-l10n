@@ -1,114 +1,86 @@
-<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the
-Migration Assistant page. It should match featureConfiguratorCmd.label in
-baseMenuOverlay.dtd -->
+<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.title "Asistente de migración">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.heading): Heading for the page -->
-<!ENTITY featureConfigurator.heading "Características de Thunderbird 3 que merecen conocerse">
+<!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
+<!ENTITY featureConfigurator.heading1 "Nuevas características de &brandShortName; que merecen conocerse">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.para1): The tone of this paragraph
-is important: we tried for a tone that promotes the new features (which we
-believe are good and worth users learning about), but also emphasizing that we
-think it's important to preserve user choice. -->
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 incluye nuevas características poderosas de las que estamos orgullos y pensamos que muchos amarán. Los gustos y necesidades de las personas varían, así que hicimos fácil el control y la personalización de Thunderbird.">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.1): The tone of this paragraph is important: we tried for a tone that promotes the new features (which we believe are good and worth users learning about), but also emphasizing that we think it's important to preserve user choice. -->
+<!ENTITY featureConfigurator.para1 "Esta nueva versión de &brandShortName; incluye nuevas características poderosas de las que estamos orgullos y pensamos que muchos amarán. Los gustos y necesidades de las personas varían, así que hicimos fácil el control y la personalización de &brandShortName;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
-that this page is active (the buttons change the UI), and that they can get
-back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Use esta página para configurar estas nuevas características. Siempre puede volver al Asistente de migración desde el menú Ayuda.">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
+<!ENTITY featureConfigurator.para.2 "Use esta página para configurar estas nuevas características. Siempre puede volver al Asistente de migración desde el menú Ayuda.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
-IMAP synchronization feature. The words should probably echo the word used
-in the per-account dialog.-->
-<!ENTITY featureConfigurator.imap.heading "Sincronizar mensajes IMAP">
+<!ENTITY featureConfigurator.toolbar.heading "Nueva barra de mensajes">
+<!ENTITY featureConfigurator.toolbar.new.status "Nueva barra de botones de mensaje">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Una barra de herramientas sencilla con todos los botones de mensajería en la punta de sus dedos.">
 
-<!ENTITY featureConfigurator.imap.status.all "Todas tus carpetas IMAP están configuradas para &quot;sincronizar&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original.status "Mantener los botones originales de la barra de herramientas">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantener los botones personalizados de la barra de herramientas en adición a los nuevos botones de mensaje.">
 
-<!ENTITY featureConfigurator.imap.status.none "Ninguna de sus carpetas IMAP está configurada para &quot;sincronizar&quot;.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Las acciones de mensaje como responder y reenviar se movieron de la barra de herramientas al encabezado mismo del mensaje. Esto ata los botones de acción directamente al mensaje, lo que deja más lugar en la barra de herramientas para la caja de búsquedas, com también para agregados.">
 
-<!ENTITY featureConfigurator.imap.status.some "Algunas de sus carpetas IMAP están configuradas para &quot;sincronizar&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
+<!ENTITY featureConfigurator.addOn.installing "Instalando…">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
-is intended to explain why we've implemented this and picked it as a default.-->
-<!ENTITY featureConfigurator.benefits.label "Beneficios">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
+<!ENTITY featureConfigurator.addOn.installed "Instalado">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.alternative.label): The heading here
-is intended to explain why it might not be the right default for some users.-->
-<!ENTITY featureConfigurator.alternative.label "Alternativa">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Esta extensión ya está instalada.">
 
-<!ENTITY featureConfigurator.syncBenefits.para "Permite leer su correo cuando no esté conectado a Internet y le permite buscar mensajes basado en las palabras que contienen, no solamente los asuntos y nombres.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird descargará todo su correo en esta computadora. Desactívelo si tiene poco espacio en disco o si paga por tráfico de red.">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Encabezado compacto">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
-lower case is intentional, but may be overriden if that doesn't make sense
-because of a specific language context.-->
-<!ENTITY featureConfigurator.syncAll.button "sincronizar todo">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "La vista de mensaje compacto ha sido movida a su propia extensión donde ahora tiene mucha más atención y opciones.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.syncNone.button): The choice of
-lower case is intentional, but may be overriden if that doesn't make sense
-because of a specific language context.-->
-<!ENTITY featureConfigurator.syncNone.button "no sincronizar nada">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Notamos que está usando el encabezado de mensaje compacto.  Esta función ha sido movida a su propia extensión y recomendamos instalarla aquí si desea continuar usándola.">
 
-<!ENTITY featureConfigurator.advancedUsers.label "Usuarios avanzados:">
-<!ENTITY featureConfigurator.advancedUsers.para "También puede personalizarlo por cuenta y por carpeta:">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
+<!ENTITY featureConfigurator.collapsedHeaders.install "Instalar encabezados compactos…">
 
-<!ENTITY featureConfigurator.toolbar.heading "Nueva barra de herramientas">
-<!ENTITY featureConfigurator.toolbar.new.status "Usar la nueva barra de herramientas.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
+<!ENTITY featureConfigurator.folderColumns.heading "Columnas avanzadas de carpeta">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
-word 'original' is chosen deliberately to be neutral, vs. 'old' which in
-English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Usar la barra de herramientas original.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.weak "La extensión Extra Folder Columns reemplaza lo que originalmente era una preferencia avanzada.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Una interfaz más clara que la previa, que deja más espacio tanto para búsquedas maś ricas como para agregados.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Si prefiere la configuración vieja de la barra de herramientas, no quiere volver a personalizarla o no usa la vista de mensaje en su disposición.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.strong "Notamos que está usando las columnas avanzadas de carpeta.  Esta característica ha sido movida a su propia extensión, así que recomendamos instalarla aquí.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useOriginalToolbar.button "usar barra de herramientas original">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
+<!ENTITY featureConfigurator.folderColumns.install "Instalar Extra Columns…">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useNewToolbar.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useNewToolbar.button "usar nueva barra de herramientas">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
+<!ENTITY featureConfigurator.autoSync.para "Esta nueva versión de &brandShortName; viene con una nueva y mejor funcionalidad de búsqueda.  Para experimentar esta nueva búsqueda necesitará sincronizar sus mensajes de correo electrónico.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
-words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.unifiedFolders.heading "Modo de carpetas unificadas">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
+<!ENTITY featureConfigurator.autoSync.on "Sincronizar">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Verá una carga de mensajes más rápida y mejores resultados de búsqueda.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
-shows that the current mode in the folder pane is the Unified Folders mode.-->
-<!ENTITY featureConfigurator.unifiedFolders.smart.status "Usar el modo de &quot;carpetas unificadas&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
+<!ENTITY featureConfigurator.autoSync.off "No sincronizar">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Estor significará una carga de mensajes más lenta y resultados de búsqueda incompletos.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
-shows that the current mode in the folder pane is not the Unified Folders mode.-->
-<!ENTITY featureConfigurator.unifiedFolders.all.status "No usar el modo de &quot;carpetas unificadas&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
+<!ENTITY featureConfigurator.autoSync.some "Sincronización por cuenta">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Personalice sus necesidades de sincronización por cuenta y carpetas.">
 
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Para usuarios con varias cuentas, esta vista agrupa carpetas como la bandeja de entrada, para obtener una vista consolidada de todo su correo.">
-<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Si prefiere mantener separada la información de cada cuenta, entonces preferirá el modo &quot;todas las carpetas&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
+<!ENTITY featureConfigurator.diskSpace.currentSize "Su uso total de correo electrónico actual:">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useUnifiedFolders.button "usar el modo &quot;carpetas unificadas&quot;">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Espacio libre:">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useAllFolders.button "usar el modo &quot;todas las carpetas&quot;">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Requerido:">
 
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Encabezados colapsados">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
+<!ENTITY featureConfigurator.diskSpace.warning "¡Se está quedando sin espacio!">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
-of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 ha mejorado la vista de detalle de encabezados, incluyendo botones para acciones relacionadas con el mensaje. Hay diseños alternativos disponibles en ">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
-the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaLinkName "agregados">
-
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaAfterLink): The part of
-the paragraph after the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaAfterLink ".">
-
+<!ENTITY featureConfigurator.previousButton "Anterior">
+<!ENTITY featureConfigurator.nextButton "Siguiente">
+<!ENTITY featureConfigurator.closeButton "Cerrar">
