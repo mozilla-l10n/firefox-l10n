@@ -627,7 +627,6 @@
 <!ENTITY mdnBarMessage.label "El remitente de este mensaje ha solicitado ser notificado cuando se lea este mensaje. ¿Desea notificar al remitente?">
 <!ENTITY mdnBarIgnoreButton.label "Ignorar solicitud">
 <!ENTITY mdnBarSendButton.label "Enviar acuse de recibo">
-<!ENTITY more.label "más">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "Buscar todos los mensajes">
 <!ENTITY AddToAddressBook.label "Añadir a la libreta de direcciones…">
