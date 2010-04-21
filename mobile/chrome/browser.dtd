@@ -30,6 +30,7 @@
 <!ENTITY formHelper.done "Fatto">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
 <!ENTITY addonsLocal.label "Componenti aggiuntivi installati">
+<!ENTITY addonsUpdate.label "Aggiorna">
 <!ENTITY addonsRepo.label "Esplora">
 <!ENTITY addonsRecommended.label "Consigliati">
 <!ENTITY addonsSearch.label "Cerca">
