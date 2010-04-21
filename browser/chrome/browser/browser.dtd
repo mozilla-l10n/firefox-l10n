@@ -11,6 +11,26 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ดูเว็บแบบส่วนตัว)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "แท็บใหม่">
+<!ENTITY  newTab.accesskey                   "ม">
+<!ENTITY  reloadTab.label                    "เรียกแท็บนี้ใหม่">
+<!ENTITY  reloadTab.accesskey                "ร">
+<!ENTITY  reloadAllTabs.label                "เรียกทุกแท็บใหม่">
+<!ENTITY  reloadAllTabs.accesskey            "ท">
+<!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น">
+<!ENTITY  closeOtherTabs.accesskey           "อ">
+<!ENTITY  openTabInNewWindow.label           "เปิดในหน้าต่างใหม่">
+<!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  bookmarkThisTab.label              "คั่นหน้าเว็บนี้">
+<!ENTITY  bookmarkThisTab.accesskey          "น">
+<!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
+<!ENTITY  bookmarkAllTabs.accesskey          "บ">
+<!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
+<!ENTITY  undoCloseTab.accesskey             "ด">
+<!ENTITY  closeTab.label                     "ปิดแท็บนี้">
+<!ENTITY  closeTab.accesskey                 "ป">
+
 <!ENTITY tabCmd.label "แท็บใหม่">
 <!ENTITY tabCmd.accesskey "ท">
 <!ENTITY tabCmd.commandkey "t">
@@ -131,7 +151,6 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "ส่วนเสริม">
-<!ENTITY addons.tooltip "แสดงและจัดการติดตั้งส่วนเสริม">
 <!ENTITY addons.accesskey "ส">
 
 <!ENTITY errorConsoleCmd.label "หน้าจอข้อผิดพลาด">
@@ -190,6 +209,8 @@
 <!ENTITY viewSidebarMenu.accesskey "ง">
 <!ENTITY viewCustomizeToolbar.label "กำหนดเอง…">
 <!ENTITY viewCustomizeToolbar.accesskey "ก">
+<!ENTITY viewTabsOnTop.label            "แท็บอยู่ด้านบน">
+<!ENTITY viewTabsOnTop.accesskey        "บ">
 
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
@@ -207,6 +228,8 @@
 <!ENTITY urlbar.history.emptyText     "ค้นหาประวัติ">
 <!ENTITY urlbar.none.emptyText        "พิมพ์ที่อยู่เว็บ">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
+
 
 <!--
   Comment duplicated from browser-sets.inc:
