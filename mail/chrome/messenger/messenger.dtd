@@ -693,9 +693,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mdnBarIgnoreButton.label "Anforderung ignorieren">
 <!ENTITY mdnBarSendButton.label "Bestätigung senden">
 
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mehr">
-
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label "In allen Konten suchen">
