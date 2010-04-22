@@ -70,6 +70,7 @@
 
 <!ENTITY addonsHeader.label               "Priedai">
 <!ENTITY addonsLocal.label                "Įdiegti priedai">
+<!ENTITY addonsUpdate.label               "Naujinti">
 <!ENTITY addonsRepo.label                 "Siųstis priedų">
 <!ENTITY addonsRecommended.label          "Rekomendacijos">
 <!ENTITY addonsSearch.label               "Ieškoti">
