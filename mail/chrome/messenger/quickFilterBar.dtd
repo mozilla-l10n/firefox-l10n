@@ -85,14 +85,14 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Schlagwörter">
+         "SchlagwÃ¶rter">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Nur Nachrichten mit Schlagwörtern auflisten">
+         "Nur Nachrichten mit SchlagwÃ¶rtern auflisten">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Diese Nachrichten filtern… #1">
+         "Diese Nachrichten filternâ€¦ #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
@@ -196,7 +196,7 @@
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Empfänger">
+         "EmpfÃ¤nger">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
@@ -217,11 +217,11 @@
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Diese Suche über alle Konten fortsetzen">
+         "Diese Suche Ã¼ber alle Konten fortsetzen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Eingabetaste erneut drücken, um nach Folgendem weiter zu suchen: #1">
+         "Eingabetaste erneut drÃ¼cken, um nach Folgendem weiter zu suchen: #1">
