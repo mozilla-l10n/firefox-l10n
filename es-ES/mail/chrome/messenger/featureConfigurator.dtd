@@ -19,6 +19,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.weak "La extensión Extra Folder Columns reemplaza lo que inicialmente era una preferencia avanzada. Para mantener las pestañas en el número exacto de mensajes y espacio en disco que cada carpeta está usando querrá instalar esta extensión.">
 <!ENTITY featureConfigurator.folderColumns.para.strong "Hemos observado que estaba usando las columnas de carpeta avanzadas. Esta característica se ha trasladado a su propia extensión y le recomendamos que la instale aquí.">
 <!ENTITY featureConfigurator.folderColumns.install "Instalar columnas extras…">
+<!ENTITY featureConfigurator.autoSync.heading "Espacio en disco">
 <!ENTITY featureConfigurator.autoSync.para "Esta nueva versión de &brandShortName; trae una funcionalidad de búsqueda nueva y mejorada. Para experimentar esta nueva búsqueda necesitará sincronizar sus mensajes de correo.">
 <!ENTITY featureConfigurator.autoSync.on "Sincronizar">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Experimentará una carga más rápida de mensajes y mejores resultados de búsqueda.">

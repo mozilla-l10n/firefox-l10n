@@ -43,7 +43,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Leído">
 <!ENTITY receivedColumn.label "Recibido">
-<!ENTITY starredColumn.label "Estrellado">
+<!ENTITY starredColumn.label "Con estrella">
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
 <!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
