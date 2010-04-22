@@ -45,10 +45,10 @@
 <!ENTITY featureConfigurator.folderColumns.heading "Erweiterte Ordnerspalten">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "The Extra Folder Columns extension replaces what was initially an advanced preference.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Das Add-on Extra Folder Columns ersetzt die frühere erweiterte Option zur Anzeige von Info-Spalten im Konten-/Ordnerbereich. Wenn Sie die Anzahl der Nachrichten in den Ordnern und deren Speicherplatzbedarf anzeigen lassen wollen, können Sie das Add-on jetzt hier installieren.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "Sie haben die erweiterten Ordnerspalten bisher verwendet. Diese Möglichkeit wurde in ein Add-on ausgelagert. We noticed that you were using the Advanced Folder columns. Sie können das Add-on jetzt hier installieren.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Sie haben die Anzeige von Info-Spalten im Konten-/Ordnerbereich bisher verwendet. Diese Möglichkeit wurde in ein Add-on ausgelagert. Sie können das Add-on jetzt hier installieren, um die Spalten weiterhin anzeigen zu lassen.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
 <!ENTITY featureConfigurator.folderColumns.install "Extra Columns installieren…">
