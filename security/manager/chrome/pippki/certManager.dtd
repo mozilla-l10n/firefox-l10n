@@ -54,7 +54,7 @@
 
 <!ENTITY certmgr.mine.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของคุณจากหน่วยงานเหล่านี้:">
 <!ENTITY certmgr.others.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของกลุ่มบุคคลเหล่านี้บนแฟ้ม:">
-<!ENTITY certmgr.websites2.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของเซิร์ฟเวอร์เหล่านี้บนแฟ้ม:">
+<!ENTITY certmgr.websites.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของเซิร์ฟเวอร์เหล่านี้บนแฟ้ม:">
 <!ENTITY certmgr.cas.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของหน่วยงานเหล่านี้บนแฟ้ม:">
 <!ENTITY certmgr.orphans.description "คุณมีใบรับรองที่ไม่เข้ากับประเภทใดๆ:">
 
