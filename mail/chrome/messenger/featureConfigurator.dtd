@@ -5,7 +5,7 @@
 <!ENTITY featureConfigurator.toolbar.heading "Новая панель инструментов сообщения">
 <!ENTITY featureConfigurator.toolbar.new.status "Панель с Кнопками Сообщения">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Простая панель, в которой все ваши кнопки для работы с сообщением расположены под рукой.">
-<!ENTITY featureConfigurator.toolbar.original.status "Сохраняет ваши исходные кнопки на панели инструментов">
+<!ENTITY featureConfigurator.toolbar.original.status "Сохранить ваши исходные кнопки панели инструментов">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Сохраняет на панели все настроенные вами кнопки в дополнение к новым Кнопкам Сообщения.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "Действия для сообщений, такие как ответ и пересылка, были перемещены из панели инструментов в заголовок самого сообщения. Это связывает кнопки действий напрямую с сообщением, и оставляет больше места на панели инструментов для гибкого поля поиска, а также для дополнений.">
 <!ENTITY featureConfigurator.addOn.installing "Устанавливается…">
@@ -15,8 +15,8 @@
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "Компактный режим чтения сообщения теперь реализован в виде отдельного расширения, где он получает теперь гораздо больше внимания и настроек.">
 <!ENTITY featureConfigurator.collapsedHeaders.para.strong "Мы заметили, что вы использовали при чтении сообщений компактный заголовок. Эта функция теперь реализована в виде отдельного расширения, и мы рекомендуем вам установить его, если вы хотите продолжать его использование.">
 <!ENTITY featureConfigurator.collapsedHeaders.install "Установить компактный заголовок…">
-<!ENTITY featureConfigurator.folderColumns.heading "Дополнительные Колонки Папки">
-<!ENTITY featureConfigurator.folderColumns.para.weak "Расширение Дополнительные Колонки Папки заменяет то, что изначально было дополнительной настройкой. Если вы хотите знать точное количество сообщений в папке и размер, который занимает каждая папка, вам следует установить это расширение.">
+<!ENTITY featureConfigurator.folderColumns.heading "Дополнительные Колонки для Папок">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Расширение Дополнительные Колонки для Папок заменяет то, что изначально было дополнительной настройкой. Если вы хотите знать точное количество сообщений в папке и размер, который занимает каждая папка, вам следует установить это расширение.">
 <!ENTITY featureConfigurator.folderColumns.para.strong "Мы заметили, что вы использовали для папок Дополнительные колонки. Эта функция теперь реализована в виде отдельного расширения, и мы рекомендуем вам установить его отсюда.">
 <!ENTITY featureConfigurator.folderColumns.install "Установить дополнительные колонки…">
 <!ENTITY featureConfigurator.autoSync.para "В эту новую версию &brandShortName; включён новый улучшенный механизм поиска. Чтобы задействовать этот новый поиск, вам необходимо синхронизировать ваши почтовые сообщения.">
