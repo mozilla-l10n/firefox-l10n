@@ -1,7 +1,7 @@
 <!ENTITY popupWindowRejectCmd.label "Rechazar ventanas emergentes de este sitio">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "R">
 <!ENTITY popupWindowAllowCmd.label "Permitir ventanas emergentes de este sitio">
-<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.accesskey "P">
 <!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey "v">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
@@ -29,7 +29,7 @@
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver el código fuente de la selección">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ver el código fuente MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label "Ver código fuente de la página">
 <!ENTITY viewPageSourceCmd.accesskey "V">
 <!ENTITY viewFrameSourceCmd.label "Ver código fuente del marco">
@@ -41,19 +41,19 @@
 <!ENTITY fitImageCmd.label "Ajustar la imagen a la ventana">
 <!ENTITY fitImageCmd.accesskey "v">
 <!ENTITY reloadImageCmd.label "Recargar imagen">
-<!ENTITY reloadImageCmd.accesskey "e">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Ver imagen">
-<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewVideoCmd.label "Ver vídeo">
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setWallpaperCmd.label "Poner como fondo de escritorio">
-<!ENTITY setWallpaperCmd.accesskey "S">
+<!ENTITY setWallpaperCmd.accesskey "e">
 <!ENTITY bookmarkPageCmd.label "Añadir esta página a marcadores">
 <!ENTITY bookmarkPageCmd.accesskey "m">
 <!ENTITY bookmarkLinkCmd.label "Añadir enlace a marcadores">
-<!ENTITY bookmarkLinkCmd.accesskey "L">
+<!ENTITY bookmarkLinkCmd.accesskey "A">
 <!ENTITY bookmarkFrameCmd.label "Añadir este marco a marcadores">
 <!ENTITY bookmarkFrameCmd.accesskey "m">
 <!ENTITY savePageAsCmd.label "Guardar página como…">
@@ -62,10 +62,10 @@
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameAsCmd.label "Guardar marco como…">
 <!ENTITY saveFrameCmd.label "Guardar marco como">
-<!ENTITY saveFrameCmd.accesskey "g">
+<!ENTITY saveFrameCmd.accesskey "m">
 <!ENTITY saveLinkAsCmd.label "Guardar destino del enlace como…">
-<!ENTITY saveLinkCmd.label "Guardar destino del enlace como">
-<!ENTITY saveLinkCmd.accesskey "r">
+<!ENTITY saveLinkCmd.label "Guardar destino del enlace">
+<!ENTITY saveLinkCmd.accesskey "G">
 <!ENTITY saveImageAsCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.label "Guardar imagen">
 <!ENTITY saveImageCmd.accesskey "u">
@@ -78,17 +78,17 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "e">
 <!ENTITY copyImageCmd.label "Copiar imagen">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageCmd.accesskey "I">
 <!ENTITY copyVideoURLCmd.label "Copiar dirección del vídeo">
-<!ENTITY copyVideoURLCmd.accesskey "o">
+<!ENTITY copyVideoURLCmd.accesskey "e">
 <!ENTITY copyAudioURLCmd.label "Copiar dirección del audio">
-<!ENTITY copyAudioURLCmd.accesskey "o">
+<!ENTITY copyAudioURLCmd.accesskey "d">
 <!ENTITY metadataCmd.label "Propiedades">
 <!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copiar dirección de correo elec.">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "d">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY cutCmd.label "Cortar">
@@ -119,7 +119,7 @@
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambiar dirección de la página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "x">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "C">
 <!ENTITY spellAddToDictionary.label "Añadir al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "c">
 <!ENTITY spellIgnoreWord.label "Ignorar palabra">
