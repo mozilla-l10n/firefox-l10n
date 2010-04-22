@@ -46,11 +46,23 @@
 <!ENTITY certmgr.ca.builtins "CA ที่มีอยู่ภายใน">
 <!ENTITY certmgr.ca.mycas "CA ที่ถูกจัดการโดยคุณ">
 
-<!ENTITY certmgr.mine "คุณมีใบรับรองที่ใช้ระบุตัวตนของคุณจากหน่วยงานเหล่านี้ :">
-<!ENTITY certmgr.others "คุณมีใบรับรองที่ใช้ระบุตัวตนของกลุ่มบุคคลเหล่านี้บนแฟ้ม :">
-<!ENTITY certmgr.websites2 "คุณมีใบรับรองที่ใช้ระบุตัวตนของเซิร์ฟเหล่านี้บนแฟ้ม :">
-<!ENTITY certmgr.cas "คุณมีใบรับรองที่ใช้ระบุตัวตนของหน่วยงานเหล่านี้บนแฟ้ม :">
-<!ENTITY certmgr.orphans "คุณมีใบรับรองที่ไม่เข้ากับประเภทใด ๆ :">
+<!ENTITY certmgr.mine.search                  "ค้นหา:">
+<!ENTITY certmgr.others.search                "ค้นหา:">
+<!ENTITY certmgr.websites.search              "ค้นหา:">
+<!ENTITY certmgr.cas.search                   "ค้นหา:">
+<!ENTITY certmgr.orphans.search               "ค้นหา:">
+
+<!ENTITY certmgr.mine.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของคุณจากหน่วยงานเหล่านี้:">
+<!ENTITY certmgr.others.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของกลุ่มบุคคลเหล่านี้บนแฟ้ม:">
+<!ENTITY certmgr.websites2.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของเซิร์ฟเวอร์เหล่านี้บนแฟ้ม:">
+<!ENTITY certmgr.cas.description "คุณมีใบรับรองที่ใช้ระบุตัวตนของหน่วยงานเหล่านี้บนแฟ้ม:">
+<!ENTITY certmgr.orphans.description "คุณมีใบรับรองที่ไม่เข้ากับประเภทใดๆ:">
+
+<!ENTITY certmgr.mine.filtered                "ตรวจค้นใบรับรองจากหน่วยงานเหล่านี้ที่ระบุถึงคุณ:">
+<!ENTITY certmgr.others.filtered              "ตรวจค้นใบรับรองจากแฟ้มที่ระบุถึงคนเหล่านี้:">
+<!ENTITY certmgr.websites.filtered            "ตรวจค้นใบรับรองบนแฟ้มที่ระบุถึงเซิร์ฟเวอร์เหล่านี้:">
+<!ENTITY certmgr.cas.filtered                 "ตรวจค้นใบรับรองบนแฟ้มที่ระบุถึงหน่วยงานเหล่านี้:">
+<!ENTITY certmgr.orphans.filtered             "ตรวจค้นใบรับรองบนแฟ้มที่ไม่เข้ากับประเภทใดๆ:">
 
 <!ENTITY certmgr.detail.general_tab.title "ทั่วไป">
 <!ENTITY certmgr.detail.general_tab.accesskey "ท">
