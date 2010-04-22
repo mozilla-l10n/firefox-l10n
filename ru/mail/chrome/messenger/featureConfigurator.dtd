@@ -19,6 +19,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.weak "Расширение Дополнительные Колонки для Папок заменяет то, что изначально было дополнительной настройкой. Если вы хотите знать точное количество сообщений в папке и размер, который занимает каждая папка, вам следует установить это расширение.">
 <!ENTITY featureConfigurator.folderColumns.para.strong "Мы заметили, что вы использовали для папок Дополнительные колонки. Эта функция теперь реализована в виде отдельного расширения, и мы рекомендуем вам установить его отсюда.">
 <!ENTITY featureConfigurator.folderColumns.install "Установить дополнительные колонки…">
+<!ENTITY featureConfigurator.autoSync.heading "Место на диске">
 <!ENTITY featureConfigurator.autoSync.para "В эту новую версию &brandShortName; включён новый улучшенный механизм поиска. Чтобы задействовать этот новый поиск, вам необходимо синхронизировать ваши почтовые сообщения.">
 <!ENTITY featureConfigurator.autoSync.on "Синхронизировать">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Вы получите более быструю загрузку сообщений и более полные результаты поиска.">
