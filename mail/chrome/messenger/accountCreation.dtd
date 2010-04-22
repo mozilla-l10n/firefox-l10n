@@ -52,6 +52,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP: savo aplankus ir laiškus galėsite pasiekti iš keleto kompiuterių">
+<!ENTITY pop.description                 "POP: visi laiškai bus parsiunčiami į šį kompiuterį; aplankai – vietiniai">
+<!ENTITY recommended-appendix.label      "(rekomenduojama)">
 
 <!ENTITY manualSetup.label               "Rankinis paskyros kūrimas…">
 <!ENTITY manualSetup.accesskey           "R">

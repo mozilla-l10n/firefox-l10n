@@ -1,0 +1,257 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
+     The label to display for the "View... Toolbars..." menu item that controls
+     whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label
+         "Sparčiojo filtro juosta">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
+     The access key for the "View... Toolbars..." menu item label that controls
+     whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
+         "S">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
+     The tooltip to display when hovering over the button on the tab bar that
+     toggles the visibility of the quick filter bar.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
+         "Rodyti/slėpti sparčiojo filtro juostą.">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
+     The tooltip to display when the user hovers over the sticky button
+     (currently displayed as a push-pin).  When active, the sticky button
+     causes the current filter settings to be retained when the user changes
+     folders or opens new tabs.  (When inactive, only the state of the text
+     filters are propagated between folder changes and when opening new tabs.)
+     -->
+<!ENTITY quickFilterBar.sticky.tooltip
+         "Išlaikyti filtrą, pereinant į kitą aplanką?">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
+     The text to display on the quick filter bar, labeling it.  This should
+     ideally be as short as possible.
+     -->
+<!ENTITY quickFilterBar.barLabel.label
+         "Spartusis filtras:">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
+     The label for the filter button that causes us to filter results to only
+     include unread messages.
+     -->
+<!ENTITY quickFilterBar.unread.label
+         "Neskaityti">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
+     The tooltip for the filter button that causes us to filter results to only
+     include unread messages.
+     -->
+<!ENTITY quickFilterBar.unread.tooltip
+         "Rodyti tik neskaitytus laiškus.">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
+     The label for the filter button that causes us to filter results to only
+     include messages that have been starred/flagged.
+     -->
+<!ENTITY quickFilterBar.starred.label
+         "Pažymėti žvaigždute">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
+     The tooltip for the filter button that causes us to filter results to only
+     include messages that have been starred/flagged.
+     -->
+<!ENTITY quickFilterBar.starred.tooltip
+         "Rodyti tik pažymėtus žvaigždute laiškus.">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
+     The label for the filter button that causes us to filter results to only
+     include messages from contacts in one of the user's non-remote address
+     books.
+     -->
+<!ENTITY quickFilterBar.inaddrbook.label
+         "Adresų knygoje">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
+     The tooltip for the filter button that causes us to filter results to only
+     include messages from contacts in one of the user's non-remote address
+     books.
+     -->
+<!ENTITY quickFilterBar.inaddrbook.tooltip
+         "Rodyti tik iš adresų knygoje esančių asmenų gautus laiškus.">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
+     The label for the filter button that causes us to filter results to only
+     include messages with at least one tag on them.
+     -->
+<!ENTITY quickFilterBar.tags.label
+         "Gairės">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
+     The tooltip for the filter button that causes us to filter results to only
+     include messages with at least one tag on them.
+     -->
+<!ENTITY quickFilterBar.tags.tooltip
+         "Rodyti tik tuos laiškus, kuriems suteiktos gairės.">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
+     The label for the filter button that causes us to filter results to only
+     include messages with attachments.
+     -->
+<!ENTITY quickFilterBar.attachment.label
+         "Priedai">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
+     The tooltip for the filter button that causes us to filter results to only
+     include messages with attachments.
+     -->
+<!ENTITY quickFilterBar.attachment.tooltip
+         "Rodyti tik laiškus su priedais.">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
+     This is used to populate the results box; it either displays the
+     number of messages found using this string, that there are no messages
+     (using quickFilterBar.resultsLabel.none), or the box is hidden.
+     This is a pluralizable string used to express the number of messages in
+     the results.  We replace the '#1' with the number of messages, otherwise
+     see the following URL For more information:
+     https://developer.mozilla.org/En/Localization_and_Plurals
+     -->
+<!ENTITY quickFilterBar.resultsLabel.some.formatString
+         "#1 laiškas;#1 laiškų;#1 laiškai">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
+     The contents of the results box when there is a filter active but there
+     are no messages matching the filter.
+     -->
+<!ENTITY quickFilterBar.resultsLabel.none
+         "Rezultatų nėra">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
+     The minimum width, in pixels, of the results label.  Please size this
+     so that a 3 or 4 digit number of messages in the results can be displayed
+     without growing the size of the box.  You can tell this has been
+     accomplished if adding a filter constraint that changes the displayed
+     string to your "no results" string does not result in any changes to the
+     size of the text box to the label's right.  (If your string for
+     "no results" is longer than the "#### messages" case, then size for that.
+     -->
+<!ENTITY quickFilterBar.resultsLabel.minWidth
+         "100">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
+     This is the base of the empty text for the text search box.  We replace
+     #1 with the contents of the appropriate
+     quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
+     The goal is to convey to the user that typing in the box will filter
+     the messages and that there is a hotkey they can press to get to the
+     box faster.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.base
+         "Filtruoti šiuos laiškus… #1">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
+     The description of the key-binding to get into the box on windows and
+     linux (which use the control key).  We use the keybinding for cmd_find
+     used by the find-in-message mechanism, so that's the letter to indicate
+     if you don't use 'f' for your localization.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac
+         "&lt;Vald+F&gt;">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
+     The description of the key-binding to get into the box on mac systems.
+     We use the keybinding for cmd_find used by the find-in-message mechanism,
+     so that's the letter to indicate  if you don't use 'f' for your
+     localization.
+     -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac
+         "&lt;&#x2318;F&gt;">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
+     The number of pixels for the ideal width of the quick filter box textbox.
+     Choose this value so that the emptyText fits nicely with a little bit of
+     extra whitespace.
+     -->
+<!ENTITY quickFilterBar.textbox.idealWidth
+         "320">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
+     The minimum width of the quick filter textbox in pixels.  This is the size
+     which we should refuse to flex below.  When we hit this size, the buttons
+     with labels will have their labels collapsed.
+     -->
+<!ENTITY quickFilterBar.textbox.minWidth
+         "280">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
+     The button label that toggles whether the text filter searches the message
+     sender for the string.
+     -->
+<!ENTITY quickFilterBar.textFilter.sender.label
+         "Siuntėjas">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
+     The button label that toggles whether the text filter searches the message
+     recipients (to, cc) for the string.
+     -->
+<!ENTITY quickFilterBar.textFilter.recipients.label
+         "Gavėjai">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
+     The button label that toggles whether the text filter searches the message
+     subject for the string.
+     -->
+<!ENTITY quickFilterBar.textFilter.subject.label
+         "Tema">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
+     The button label that toggles whether the text filter searches the message
+     body for the string.
+     -->
+<!ENTITY quickFilterBar.textFilter.body.label
+         "Laiško tekstas">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
+     The first line of the panel popup that tells the user we found no matches
+     but we can convert to a global search for them.
+     -->
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch
+         "Vykdyti paiešką visuose aplankuose">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
+     The second line of the panel popup that tells the user we found no matches.
+     This line will have #1 replaced with what the user has typed so far.
+     -->
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
+         "Spauskite „Įvesti“, kad būtų pratęsta paieška: #1">
