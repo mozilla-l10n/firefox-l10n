@@ -328,12 +328,18 @@
 <!ENTITY calendar.print.title.label "Pavadinimas:">
 <!ENTITY calendar.print.layout.label "Išdėstymas:">
 <!ENTITY calendar.print.range.label "Ką spausdinti">
-<!ENTITY calendar.print.currentview.label "Dabar rodomus įvykius">
+<!ENTITY calendar.print.currentView2.label "Dabartinį rodinį">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Pažymėtus įvykius/darbus">
+<!ENTITY calendar.print.tasks.label "Darbus">
+<!ENTITY calendar.print.events.label "Įvykius">
 <!ENTITY calendar.print.selected.label "Pažymėtus įvykius">
 <!ENTITY calendar.print.custom.label "Parinktą laiko tarpą:">
 <!ENTITY calendar.print.from.label "Nuo:">
 <!ENTITY calendar.print.to.label "Iki:">
-<!ENTITY calendar.print.settingsGroup.label "Spaudinys">
+<!ENTITY calendar.print.settingsGroup.label "Parinktys">
+<!ENTITY calendar.print.optionsGroup.label "Parinktys">
+<!ENTITY calendar.print.taskswithnoduedate.label "Spausdinti neterminuotus darbus">
+<!ENTITY calendar.print.completedtasks.label "Spausdinti užbaigtus darbus">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaliau…">
