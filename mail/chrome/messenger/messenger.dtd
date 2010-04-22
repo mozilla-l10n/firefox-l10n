@@ -56,7 +56,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Descargar mensajes seleccionados">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Descargar mensajes estrellados">
+<!ENTITY downloadStarredCmd.label "Descargar mensajes con estrella">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
@@ -264,7 +264,7 @@
 <!ENTITY nextUnreadMsgCmd.label "Mensaje no leído">
 <!ENTITY nextUnreadMsgCmd.accesskey "n">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Mensaje estrellado">
+<!ENTITY nextStarredMsgCmd.label "Mensaje con estrella">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Conversación no leída">
 <!ENTITY nextUnreadThread.accesskey "v">
@@ -283,7 +283,7 @@
 <!ENTITY goBackCmd.label "Atrás">
 <!ENTITY goBackCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Mensaje estrellado">
+<!ENTITY prevStarredMsgCmd.label "Mensaje con estrella">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
 <!ENTITY startPageCmd.accesskey "P">
@@ -550,7 +550,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Leído">
 <!ENTITY receivedColumn.label "Recibido">
-<!ENTITY starredColumn.label "Estrellado">
+<!ENTITY starredColumn.label "Con estrella">
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
 <!ENTITY attachmentColumn.label "Adjuntos">
@@ -628,7 +628,9 @@
 <!ENTITY mdnBarIgnoreButton.label "Ignorar solicitud">
 <!ENTITY mdnBarSendButton.label "Enviar acuse de recibo">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "Buscar todos los mensajes">
+<!ENTITY searchAllMessages.label.base "Buscar en todos los mensajes… #1">
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Añadir a la libreta de direcciones…">
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Añadir a la libreta de direcciones">
