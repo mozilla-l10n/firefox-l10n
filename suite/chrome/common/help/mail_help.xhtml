@@ -2753,15 +2753,20 @@ Mail-Fenster):</p>
 
   <li>Klicken Sie auf <q>Neu</q>. Im Dialogfeld <q>Filter definieren</q>
       k&#246;nnen Sie festlegen, auf welche Art von Nachrichten der Filter
-	  angewendet werden soll und welche Aktion der Filter ausf&#252;hren
+	  angewendet werden soll und welche Aktionen der Filter ausf&#252;hren
 	  soll.</li>
 
   <li>Geben Sie einen Namen f&#252;r den Filter ein.</li>
 
-  <li>W&#228;hlen Sie die ensprechende Option die Sie benutzen wollen:
-      <q><em>Alle</em> folgenden</q> oder
-      <q><em>Mindestens eine der</em> folgenden</q> Bedingungen (Kriterien)
-	  erf&#252;llen.</li>
+  <li>W&#228;hlen Sie wann der Filter angewendet werden soll. Mit dieser Einstellung
+    k&#246;nnen Sie entscheiden, ob ein Filter automatisch (w&#228;hrend der Pr&#252;fung von Mails),
+    bei Bedarf (manuell), oder beide Male angewendet werden soll.
+    <q>Nach Klassifizierung</q> bedeutet, da&#223; Junk und Pishing-Pr&#252;fung vor dem Filter
+    durchgef&#252;hrt werden.</li>
+
+   <li>W&#228;hlen Sie die Vergleichs-Option welche verwendet werden soll: <q><em>alle</em> der 
+    folgenden</q> Bedingungen, <q><em>Mindestens eine</em> der folgenden</q> Bedingungen,
+    oder <q><em>Mit allen Nachrichten &#252;bereinstimmen</em></q>.</li>
   
   <li>W&#228;hlen Sie die Drop-down Listen um die entsprechenden Kriterien zu
       definieren. Zum Beispiel <q>Betreff</q>, <q>Absender</q>,
@@ -2778,21 +2783,40 @@ Mail-Fenster):</p>
 
   <li>Klicken Sie auf OK um diese Einstellungen zu best&#228;tigen.</li>
 
-  <li>Verwenden Sie das Dropdown-Listenfeld, um die Aktion auszuw&#228;hlen,
-      die der Filter ausf&#252;hren soll (z.&nbsp;B. <q>In Ordner
-	  verschieben</q>).
-	  <p><strong>Tipp</strong>: Um eingehende Nachrichten automatisch zu
-	  markieren, klicken Sie auf <q>Nachricht markieren</q> in der
-	  Dropdown-Liste.</p></li>
+   <li>Benutzen Sie die Liste um die gew&#252;nschte Aktion die der Filter an den Nachrichten 
+    durchf&#252;hren soll an (zum Beispiel, In Ordner verschieben). Benutzen Sie <q>+</q> und 
+    <q>-</q> um zus&#228;tzliche Aktionen hinzuzuf&#252;gen oder diese zu entfernen.
 
-  <li>W&#228;hlen Sie den Zielordner, in dem Sie die Nachrichten speichern
-      m&#246;chten, oder legen Sie einen neuen Ordner an.</li>
+    <p><strong>Tipp</strong>: Um eingehende Nachrichten automatisch zu
+      markieren, klicken Sie auf <q>Nachricht markieren</q> in der
+      Dropdown-Liste.</p>
 
+    <p><strong>Tipp</strong>: Nachrichten-Filter werden nacheinander angewendet. Es
+      k&#246;nnte sein, dass Sie nicht alle Filter durchf&#252;hren wollen, wenn eine oder mehrere
+      Nachrichten bestimmte Bedingungen erf&#252;llen. Zum Beispiel wollen Sie Nachrichten
+      Ihres Chefs als <q>Wichtig</q> markieren und wollen alle Nachrichten welche
+      im Email-Betreff das Word <q>Memorandum</q> enthalten in einen eigenen Ordner 
+      verschieben. Nachrichten Ihres Chefs sollen jedoch nie in einen eigenen Ordner
+      verschoben werden, auch wenn diese im Betreff das Wort <q>Memorandum</q> enhalten.
+      Um dies zu erreichen muss der erste Nachrichten-Filter jener sein, welcher die Bedingung
+      definiert hat, dass die Nachricht von Ihrem Chef ist. Dieser Filter enth&#228;lt 2 Aktionen:
+      <q>Nachricht mit Tag versehen</q> mit dem Wert <q>Wichtig</q> und
+      <q>Filter-Ausf&#252;hrung anhalten</q>.</p>
+  </li>
+
+  <li>Wenn Sie die Nachricht in einen Ordner <q>Verschieben</q> oder <q>Kopieren</q>, w&#228;hlen Sie den
+    Ziel-Ordner wo die Nachricht gespeichert werden soll, oder erstellen einen neuen Ordner.</li>
   <li>Klicken Sie auf <q>OK</q>, um die Einstellungen zu best&#228;tigen.</li>
-
+  <li>Um Filter auf bestehende Nachrichten in einem Ordner anzuwenden, w&#228;hlen Sie den Ordner
+    in der Auswahl-Box am unterne Rand des Fenster und klicken im Anschluss auf die Schaltfl&#228;che 
+    <q>Jetzt ausf&#252;hren</q>.</li>
   <li>Klicken Sie auf <q>OK</q> im Dialogfeld <q>Nachrichtenfilter</q>.
       Der neue Filter tritt in Kraft sobald Sie auf OK geklickt haben.</li>
 </ol>
+<p><strong>Hinweis</strong>: Sie k&#246;nnen Nachrichten-Filter jederzeit manuell ausf&#252;hren.
+  Im Mail-Fenster w&#228;hlen Sie Extras und im Anschluss <q>Filter auf Ordner anwenden</q> um Filter
+  auf den aktuellen Ordner anzuwenden, oder <q>Filter auf Nachricht anwenden</q> um Filter auf die aktuell
+  ausgew&#228;hlte Nachricht anzuwenden.</p>
 
 <p>So verwalten Sie Ihre Filter (ausgehend vom Mail-Fenster):</p>
 
@@ -2867,15 +2891,20 @@ filtert (ausgehend vom Mail-Fenster):</p>
 <ol>
   <li>W&#228;hlen Sie eine Nachrichten von dem gew&#252;nschten Absender.</li>
 
-  <li>Klicken Sie im Men&#252; <q>Nachricht</q> auf <q>Filter aus Nachricht
-      erstellen</q>. Es erscheint das Fenster Nachrichtenfilter erstellen.
-	  &brandShortName; f&#252;llt automatisch die Felder Filtername, die
-	  Filterkriterien und die Filteraktion (In Ordner verschieben) aus.</li>
-
-  <li>Geben Sie einen Ordner an, in dem die eingehenden Nachrichten des
-      gew&#252;nschten Absenders gespeichert werden sollen oder erstellen Sie
-	  einen neuen Ordner.</li>
-
+  <li>&#214;ffnen Sie das Men&#252; Nachrichten und w&#228;hlen Sie dort <q>Filter 
+    aus Nachricht erstellen</q>. Oder klicken Sie mit der rechten Maustaste auf 
+    den Absender im Kopfzeilen-Bereich der Nachricht und w&#228;hlen Sie dort 
+    <q>Filter erstellen aus</q>.</li>
+  <li>Es erscheint das Filter-Regel Dialog-Fenster. &brandShortName; generiert ein
+    Filterkriterium mit der Email-Adresse des Absenders und gibt die Filter-Aktion
+    Nachricht in Ordner verschieben vor. Sie k&#246;nnen dies &#228;ndern oder 
+    zus&#228;tzliche Regeln f&#252;r den Filter hinzuf&#252;gen.</li>
+  <li>W&#228;hlen Sie den Ziel-Ordner wo die eingehende Nachricht des Absenders gespeichert
+    werden soll, oder erzeugen Sie einen neuen Ordner. Sie k&#246;nnen auch andere 
+    Aktionen f&#252;r diesen Filter definieren, oder die bereits vorkonfigurierte 
+    Aktion &#228;ndern.</li>
+  <li>Beachten Sie, da&#223; wenn sie den Filter-Name nicht ausf&#252;llen, 
+    &brandShortName; einen Namen anhand des ersten Filter-Kriteriums erzeugt.</li>
   <li>Klicken Sie auf OK um Ihre Einstellungen zu best&#228;tigen. Es erscheint
       das Fenster <a href="#creating_message_filters">Nachrichtenfilter</a> in
 	  dem Sie Filter erstellen, l&#246;schen und bearbeiten k&#246;nnen.</li>
@@ -3094,12 +3123,13 @@ f&#252;r einen Account spezielle Regeln zu definieren.</p>
 
 <h2 id="junk_controls_and_filters">Junk-Mail-Filter und Kontrollen</h2>
 
-<p>Der Junk-Mail-Filter laufen nach den normalen Nachrichten-Filtern und
-betreffen nur den Posteingang und dessen Unterordner. Dieses Vorgehen
-k&#246;nnen Sie zu Ihrem Vorteil nutzen. Zum Beispiel k&#246;nnen Sie so schon
-vorher E-Mails in spezielle Ordner verschieben, die dann eben nicht durch
-den Junk-Mail-Filter klassifiziert werden und so eventuell versehentlich als
-Junk markiert werden (speziell f&#252;r Newsletter und Mailinglisten)</p>
+<p>Junk-Mail-Filter werden nach den Mail-Filtern ausgef&#252;hrt (auser Sie definieren einen
+  Filter so, dass dieser nach der Klassifizierung ausgef&#252;hrt wird, wobei <q>Klassifizierung</q>
+  Junk und Pishing-Pr&#252;fung beinhaltet) und pr&#252;fen nur den Posteingang und dessen Unter-Ordner.
+  Nutzen Sie dies zu Ihrem Vorteil, Sie k&#246;nnen zum Beispiel bestimmte Mails wo Sie sicher sind,
+  dass diese kein Junk sind in einen speziellen Ordner auserhalb des Posteingangs verschieben,
+  sodass diese Nachrichten nicht als Junk eingestuft werden (dies ist z.B. hilfreich, wenn Sie
+  einen Newsletter aboniert haben oder in einer moderierten Mailing-Liste sind).</p>
 
 <p>[<a href="#controlling_junk_mail">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
 
@@ -6102,8 +6132,6 @@ ver&#228;ndern.</p>
 <p>Weitere Informationen zur Offline-Arbeit finden Sie unter <a href="#working_offline">Offline arbeiten</a>.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
-
-<p>&copyright.string;</p>
 
 </body>
 </html>
