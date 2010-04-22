@@ -1,34 +1,35 @@
 <!ENTITY featureConfigurator.title "Помощник в миграции">
-<!ENTITY featureConfigurator.heading "Функции Thunderbird 3, о которых стоит знать">
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 включает в себя новые возможности, которыми мы гордимся, и которые, как мы думаем, понравятся большинству людей. Тем не менее, у каждого свои вкусы и потребности, поэтому мы облегчили для вас настройку Thunderbird.">
-<!ENTITY featureConfigurator.para2 "Для конфигурации новых параметров используйте эту страницу. Вы всегда можете вызвать Помощника в миграции из меню Справка.">
-<!ENTITY featureConfigurator.imap.heading "Синхронизация IMAP сообщений">
-<!ENTITY featureConfigurator.imap.status.all "Все ваши папки IMAP настроены на «синхронизацию».">
-<!ENTITY featureConfigurator.imap.status.none "Ни одна из ваших папок IMAP не настроена на «синхронизацию».">
-<!ENTITY featureConfigurator.imap.status.some "Некоторые из ваших папок IMAP настроены на «синхронизацию».">
-<!ENTITY featureConfigurator.benefits.label "Преимущества">
-<!ENTITY featureConfigurator.alternative.label "Альтернатива">
-<!ENTITY featureConfigurator.syncBenefits.para "Позволяет вам читать вашу почту, когда вы не подсоединены к Интернету и позволяет вам искать сообщения по содержащимся в них словам, а не только по темам и именам.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird будет загружать всю вашу почту на этот компьютер. Отключите это, если у вас мало места на диске или помегабайтная оплата трафика.">
-<!ENTITY featureConfigurator.syncAll.button "синхронизировать всё">
-<!ENTITY featureConfigurator.syncNone.button "не синхронизировать ничего">
-<!ENTITY featureConfigurator.advancedUsers.label "Продвинутые пользователи:">
-<!ENTITY featureConfigurator.advancedUsers.para "Вы можете настроить это для каждой учётной записи и для каждой папки:">
-<!ENTITY featureConfigurator.toolbar.heading "Новая панель инструментов">
-<!ENTITY featureConfigurator.toolbar.new.status "Используется новая панель инструментов.">
-<!ENTITY featureConfigurator.toolbar.original.status "Используется оригинальная панель инструментов.">
-<!ENTITY featureConfigurator.toolbarBenefits.para "Менее загруженный интерфейс, оставляющий больше места для панели гибкого поиска, а также дополнений.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Если вам больше нравится вид старой панели инструментов, вы не хотите настраивать её заново или вы не используете в раскладке панель сообщения.">
-<!ENTITY featureConfigurator.useOriginalToolbar.button "использовать оригинальную панель инструментов">
-<!ENTITY featureConfigurator.useNewToolbar.button "использовать новую панель инструментов">
-<!ENTITY featureConfigurator.unifiedFolders.heading "Режим объединённых папок">
-<!ENTITY featureConfigurator.unifiedFolders.smart.status "Используется режим «объединённых папок».">
-<!ENTITY featureConfigurator.unifiedFolders.all.status "Не используется режим «объединённых папок».">
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Для пользователей с несколькими учётными записями, этот вид группирует папки, вроде Входящих, вместе, так что вы видите сразу всю вашу почту.">
-<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Если вам нравится разделять информацию по учётным записям, то вам следует использовать режим «Все папки».">
-<!ENTITY featureConfigurator.useUnifiedFolders.button "использовать режим «объединённых папок»">
-<!ENTITY featureConfigurator.useAllFolders.button "использовать режим «все папки»">
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Свёрнутые заголовки">
-<!ENTITY featureConfigurator.headerParaBeforeLink "В Thunderbird 3 был улучшен дизайн подробного заголовка сообщения, а также добавлены кнопки для обработки сообщения. Альтернативные дизайны доступны в виде ">
-<!ENTITY featureConfigurator.headerParaLinkName "дополнений">
-<!ENTITY featureConfigurator.headerParaAfterLink ".">
+<!ENTITY featureConfigurator.heading1 "Новые возможности &brandShortName;, о которых стоит знать">
+<!ENTITY featureConfigurator.para.1 "Эта новая версия &brandShortName; включает в себя новые возможности, которыми мы гордимся, и которые, как мы думаем, понравятся большинству людей. Тем не менее, у каждого свои вкусы и потребности, поэтому мы облегчили для вас контроль за работой и настройку &brandShortName;.">
+<!ENTITY featureConfigurator.para.2 "Используйте эту страницу для конфигурации этих новых настроек. Вы всегда можете вернуться в Помощник в миграции из меню Справка.">
+<!ENTITY featureConfigurator.toolbar.heading "Новая панель инструментов сообщения">
+<!ENTITY featureConfigurator.toolbar.new.status "Панель с Кнопками Сообщения">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Простая панель, в которой все ваши кнопки для работы с сообщением расположены под рукой.">
+<!ENTITY featureConfigurator.toolbar.original.status "Сохраняет ваши исходные кнопки на панели инструментов">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Сохраняет на панели все настроенные вами кнопки в дополнение к новым Кнопкам Сообщения.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Действия для сообщений, такие как ответ и пересылка, были перемещены из панели инструментов в заголовок самого сообщения. Это связывает кнопки действий напрямую с сообщением, и оставляет больше места на панели инструментов для гибкого поля поиска, а также для дополнений.">
+<!ENTITY featureConfigurator.addOn.installing "Устанавливается…">
+<!ENTITY featureConfigurator.addOn.installed "Установлено">
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Это расширение уже установлено.">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Компактный заголовок">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Компактный режим чтения сообщения теперь реализован в виде отдельного расширения, где он получает теперь гораздо больше внимания и настроек.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Мы заметили, что вы использовали при чтении сообщений компактный заголовок. Эта функция теперь реализована в виде отдельного расширения, и мы рекомендуем вам установить его, если вы хотите продолжать его использование.">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Установить компактный заголовок…">
+<!ENTITY featureConfigurator.folderColumns.heading "Дополнительные Колонки Папки">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Расширение Дополнительные Колонки Папки заменяет то, что изначально было дополнительной настройкой. Если вы хотите знать точное количество сообщений в папке и размер, который занимает каждая папка, вам следует установить это расширение.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Мы заметили, что вы использовали для папок Дополнительные колонки. Эта функция теперь реализована в виде отдельного расширения, и мы рекомендуем вам установить его отсюда.">
+<!ENTITY featureConfigurator.folderColumns.install "Установить дополнительные колонки…">
+<!ENTITY featureConfigurator.autoSync.para "В эту новую версию &brandShortName; включён новый улучшенный механизм поиска. Чтобы задействовать этот новый поиск, вам необходимо синхронизировать ваши почтовые сообщения.">
+<!ENTITY featureConfigurator.autoSync.on "Синхронизировать">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Вы получите более быструю загрузку сообщений и более полные результаты поиска.">
+<!ENTITY featureConfigurator.autoSync.off "Не синхронизировать ">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Это будет означать более медленную загрузку сообщений и неполные результаты поиска.">
+<!ENTITY featureConfigurator.autoSync.some "Синхронизация для каждой учётной записи">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Настройте свои потребности в синхронизации для каждой папки и учётной записи.">
+<!ENTITY featureConfigurator.diskSpace.currentSize "В данный момент ваша почта занимает:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Свободное место:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Требуется:">
+<!ENTITY featureConfigurator.diskSpace.warning "У вас заканчивается свободное место!">
+<!ENTITY featureConfigurator.previousButton "Предыдущее">
+<!ENTITY featureConfigurator.nextButton "Следующее">
+<!ENTITY featureConfigurator.closeButton "Закрыть">

@@ -627,9 +627,10 @@
 <!ENTITY mdnBarMessage.label "Отправитель этого сообщения запросил уведомление о прочтении вами этого сообщения. Вы хотите уведомить отправителя?">
 <!ENTITY mdnBarIgnoreButton.label "Игнорировать запрос">
 <!ENTITY mdnBarSendButton.label "Отправить уведомление">
-<!ENTITY more.label "ещё">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "Поиск во всех сообщениях">
+<!ENTITY searchAllMessages.label.base "Поиск во всех сообщениях… #1">
+<!ENTITY searchAllMessages.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY searchAllMessages.keyLabel.mac "&lt;ऎ+F&gt;">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddToAddressBook.accesskey "Д">
 <!ENTITY AddDirectlyToAddressBook.label "Добавить в адресную книгу…">
