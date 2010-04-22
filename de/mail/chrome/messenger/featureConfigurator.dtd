@@ -53,6 +53,9 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
 <!ENTITY featureConfigurator.folderColumns.install "Extra Columns installieren…">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
+<!ENTITY featureConfigurator.autoSync.heading "Speicherplatz">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
 <!ENTITY featureConfigurator.autoSync.para "&brandShortName; hat neue und bessere Suchmöglichkeiten. Es ist notwendig Nachrichten zu synchronisieren, um von den neuen Möglichkeiten zu profitieren.">
 
