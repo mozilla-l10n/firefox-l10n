@@ -2,13 +2,19 @@
 <!ENTITY about.title                               "&brandShortName; 관하여">
 <!ENTITY about.button                              "페이지로 가기">
 <!ENTITY content.title                             "내용">
-<!ENTITY showImages.title                          "그림 보기">
+<!ENTITY showImages.title                          "그림 보이기">
 <!ENTITY enableJavaScript.title                    "자바스크립트 사용">
 <!ENTITY enablePlugins.title                       "플러그인 사용">
 <!ENTITY privacy.title                             "개인 정보 &amp; 보안">
 <!ENTITY allowCookies.title                        "쿠기 허용">
-<!ENTITY clearPrivateData2.title                    "최근 방문 기록 삭제	">
+<!ENTITY clearPrivateData2.title                   "최근 방문 기록 삭제	">
 <!ENTITY clearPrivateData.button                   "삭제">
 <!ENTITY rememberPasswords.title                   "암호 저장하기">
 <!ENTITY language.title                            "언어">
 <!ENTITY language.auto                             "자동인식">
+<!ENTITY defaultBrowser.title                      "기본 브라우저">
+<!ENTITY defaultBrowser.description                "&brandShortName;을 기본 브라우저 설정하기">
+<!ENTITY homepage.title                            "시작 페이지">
+<!ENTITY homepage.none                             "빈 페이지">
+<!ENTITY homepage.default                          "&brandShortName; 시작">
+<!ENTITY homepage.currentpage                      "현재 페이지 사용">
