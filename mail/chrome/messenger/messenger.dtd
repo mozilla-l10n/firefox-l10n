@@ -117,7 +117,7 @@
 <!ENTITY redoDefaultCmd.accesskey "W">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Nachrichten-Symbolleiste">
+<!ENTITY showMessengerToolbarCmd.label "Hauptsymbolleiste">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Anpassen…">
 <!ENTITY customizeToolbar.accesskey "A">
