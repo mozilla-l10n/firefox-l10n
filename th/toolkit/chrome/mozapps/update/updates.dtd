@@ -1,8 +1,5 @@
 <!ENTITY updateWizard.title "ปรับปรุงโปรแกรม">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
-
 <!ENTITY checking.title "ตรวจหาการปรับปรุง">
 <!ENTITY  updateCheck.label               "กำลังตรวจหา &brandShortName; รุ่นใหม่…">
 
@@ -43,7 +40,7 @@
 
 <!ENTITY  incompatibleList.title          "พบส่วนเสริมที่เข้ากันไม่ได้">
 
-<!ENTITY downloading.title "ดาวน์โหลดชุดปรับปรุง">
+<!ENTITY  downloadPage.title              "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY downloading.intro "กำลังดาวน์โหลดชุดปรับปรุง…">
 <!ENTITY connecting.label "เชื่อมต่อกับเซิร์ฟเวอร์การปรับปรุง…">
 <!ENTITY verificationFailedText.label "&brandShortName; ไม่สามารถพิสูจน์ความสมบูรณ์ของชุดปรับปรุงแบบทบเพิ่มได้ 
