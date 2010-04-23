@@ -5,9 +5,14 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "답을 보내는 메시지 폴더에 회신 저장하기">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "다음 메일 주소를 Cc에 추가:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "쉼표로 주소 구분">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "다음 메일 주소를 Bcc에 추가:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.emptytext "쉼표로 주소 구분">
 <!ENTITY saveMessageDlg.label "메시지 저장 시 대화 상자 보이기">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
