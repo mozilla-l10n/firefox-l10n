@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Masukkan balasan pada folder yang sama dengan folder pesan yang dibalas">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Tambahkan Cc ke alamat email ini:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Pisahkan alamat email dengan tanda koma">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Tambahkan Bcc ke alamat email ini:">
 <!ENTITY bccAddress.accesskey "b">
+<!ENTITY bccAddressList.emptytext "Pisahkan alamat email dengan tanda koma">
 <!ENTITY saveMessageDlg.label "Tampilkan dialog konfirmasi ketika pesan disimpan">
 <!ENTITY saveMessageDlg.accesskey "T">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
