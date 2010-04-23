@@ -1,5 +1,5 @@
 <!ENTITY window.width "36em">
-<!ENTITY cookiesonsystem.label "Las cookies siguientes están guardadas en su ordenador:">
+<!ENTITY cookiesonsystem.label "Las cookies siguientes están guardadas en su equipo:">
 <!ENTITY cookiename.label "Nombre de la cookie">
 <!ENTITY cookiedomain.label "Sitio">
 <!ENTITY button.removecookies.label "Eliminar cookies">
