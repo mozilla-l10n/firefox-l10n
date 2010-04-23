@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Akses pesan dan folder dari berbagai komputer">
+<!ENTITY pop.description                 "POP - Unduh semua pesan ke komputer ini. Folder hanya bersifat lokal">
+<!ENTITY recommended-appendix.label      "(direkomendasikan)">
 
 <!ENTITY manualSetup.label               "Setup Manual…">
 <!ENTITY manualSetup.accesskey           "S">

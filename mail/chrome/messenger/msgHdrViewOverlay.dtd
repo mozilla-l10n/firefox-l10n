@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "p">
 
 <!ENTITY otherActionsButton.label "aksi lainnya">
-<!ENTITY otherActionsShowConversation.label "tampilkan percakapan">
-<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenConversation.label "tampilkan dalam mode percakapan">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "buka di jendela baru">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "j">
 <!ENTITY otherActionsOpenInNewTab.label "buka di tab baru">

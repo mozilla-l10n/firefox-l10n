@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "K">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Gunakan nama pengguna dan kata sandi">
-<!ENTITY alwaysUseUsername.accesskey "n">
 <!ENTITY userName.label "Nama Pengguna:">
 <!ENTITY userName.accesskey "N">
-<!ENTITY useSecAuth.label "Gunakan autentikasi aman">
-<!ENTITY useSecAuth.accesskey "a">
 <!ENTITY connectionSecurity.label "Keamanan sambugan:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Tidak ada">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Default:">
+<!ENTITY authMethod.label "Metode autentikasi:">
+<!ENTITY authMethod.accesskey "i">
