@@ -24,6 +24,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.strong "Zaawansowane kolumny były wcześniej wyświetlane a obecnie ta opcja została przeniesiona do zewnętrznego rozszerzenia, które polecamy zainstalować.">
 <!ENTITY featureConfigurator.folderColumns.install     "Zainstaluj rozszerzenie Extra Folder Columns…">
 
+<!ENTITY featureConfigurator.autoSync.heading          "Przestrzeń dyskowa">
 <!ENTITY featureConfigurator.autoSync.para             "Program &brandShortName; w tej nowej wersji posiada nowe i ulepszone narzędzia wyszukiwania. Konieczne będzie pobranie poczty na dysk komputera, aby z nich skorzystać.">
 <!ENTITY featureConfigurator.autoSync.on               "Synchronizuj">
 <!ENTITY featureConfigurator.autoSync.on.explanation   "Synchronizacja pozwala na szybsze wczytywanie wiadomości i lepsze wyszukiwania.">
@@ -32,7 +33,7 @@
 <!ENTITY featureConfigurator.autoSync.some             "Zaawansowana konfiguracja synchronizacji">
 <!ENTITY featureConfigurator.autoSync.some.explanation "Zaawansowana konfiguracja pozwala włączyć synchronizację dla każdego konta i folderu z osobna.">
 <!ENTITY featureConfigurator.diskSpace.currentSize     "Obecna objętość poczty na dysku twardym:">
-<!ENTITY featureConfigurator.diskSpace.freeSpace       "Wolna przestrzeń:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace       "Wolne miejsce:">
 <!ENTITY featureConfigurator.diskSpace.requireSpace    "Wymagane:">
 <!ENTITY featureConfigurator.diskSpace.warning         "Zaczyna brakować wolnej przestrzeni na dysku twardym!">
 
