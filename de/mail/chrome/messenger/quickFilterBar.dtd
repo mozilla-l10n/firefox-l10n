@@ -27,7 +27,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Beim Wechseln der Ordner die Filter aktiviert lassen?">
+         "Beim Wechseln des Ordners die Filterkriterien aktiviert lassen?">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
@@ -137,7 +137,7 @@
      "no results" is longer than the "#### messages" case, then size for that.
      -->
 <!ENTITY quickFilterBar.resultsLabel.minWidth
-         "100">
+         "160">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
      This is the base of the empty text for the text search box.  We replace
@@ -174,7 +174,7 @@
      extra whitespace.
      -->
 <!ENTITY quickFilterBar.textbox.idealWidth
-         "320">
+         "270">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
@@ -182,7 +182,18 @@
      with labels will have their labels collapsed.
      -->
 <!ENTITY quickFilterBar.textbox.minWidth
-         "280">
+         "200">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
+     This label explains what the sender/recipients/subject/body buttons do.
+     This string should ideally be kept short because the label and the text
+     filter buttons share their bar (that appears when there is text in the text
+     filter box) with the list of tags when the tag filter is active, and the
+     tag sub-bar wants as much space as possible.  (Overflow is handled by an
+     arrow scroll box.)
+     -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filtern nach:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
@@ -217,11 +228,11 @@
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Diese Suche über alle Konten fortsetzen">
+         "Als Volltextsuche in allen Konten fortsetzen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Eingabetaste erneut drücken, um nach Folgendem weiter zu suchen: #1">
+         "Eingabetaste erneut drücken für Volltextsuche nach: #1">
