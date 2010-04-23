@@ -123,7 +123,6 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Complementos">
-<!ENTITY addons.tooltip "Listado y gestión de los complementos instalados">
 <!ENTITY addons.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">

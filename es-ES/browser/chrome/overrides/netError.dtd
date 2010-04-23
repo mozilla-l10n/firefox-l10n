@@ -13,8 +13,8 @@
     del tipo <strong>ww</strong>.ejemplo.com en lugar de
     <strong>www</strong>.ejemplo.com</li>
   <li>Si no puede cargar ninguna página, compruebe la conexión
-    de red de su ordenador.</li>
-  <li>Si su ordenador o red están protegidos por un cortafuegos
+    de red de su equipo.</li>
+  <li>Si su equipo o red están protegidos por un cortafuegos
     o proxy, asegúrese de que &brandShortName; tiene permiso
     para acceder a la web.</li>
 </ul>
@@ -86,9 +86,9 @@
 <ul>
   <li>Compruebe la configuración de proxy para asegurarse de
     que es correcta.</li>
-  <li>Compruebe que su ordenador tiene una conexión de red
+  <li>Compruebe que su equipo tiene una conexión de red
     operativa.</li>
-  <li>Si su ordenador o red está protegida por un cortafuegos
+  <li>Si su equipo o red está protegida por un cortafuegos
     o proxy, asegúrese de que &brandShortName; tiene permiso
     para acceder a la web.</li>
 </ul>
@@ -128,14 +128,14 @@
   <li>El sitio podría estar no disponible temporalmente o
    demasiado ocupado. Vuelva a intentarlo en unos momentos.</li>
   <li>Si no puede cargar ninguna página, compruebe la conexión
-   de red de su ordenador.</li>
-  <li>Si su ordenador o red están protegidos por un cortafuegos
+   de red de su equipo.</li>
+  <li>Si su equipo o red están protegidos por un cortafuegos
    o proxy, asegúrese de que &brandShortName; tiene permiso para
    acceder a la web.</li>
 </ul>
 ">
 <!ENTITY malwareBlocked.title "¡Posible sitio atacante!">
-<!ENTITY malwareBlocked.longDesc "<p>Los sitios atacantes intentan instalar programas que pueden robar información privada, usar su ordenador para atacar otros o dañar su sistema.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Los sitios atacantes intentan instalar programas que pueden robar información privada, usar su equipo para atacar otros o dañar su sistema.</p>
 <p>Los propietarios de sitios web que crean que han sido reportados como un sitio atacante pueden <a href='http://www.stopbadware.org/home/reviewinfo' >pedir una revisión</a>.</p>
 ">
 <!ENTITY phishingBlocked.title "¡Posible sitio web fraudulento!">

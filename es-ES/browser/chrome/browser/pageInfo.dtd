@@ -67,7 +67,7 @@
 <!ENTITY securityView.identity.verifier "Verificado por:">
 <!ENTITY securityView.privacy.header "Privacidad e historial">
 <!ENTITY securityView.privacy.history "¿Se ha visitado este sitio web anteriormente?">
-<!ENTITY securityView.privacy.cookies "¿Este sitio está almacenando información (cookies) en este ordenador?">
+<!ENTITY securityView.privacy.cookies "¿Este sitio está almacenando información (cookies) en este equipo?">
 <!ENTITY securityView.privacy.viewCookies "Ver cookies">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
 <!ENTITY securityView.privacy.passwords "¿Se han guardado contraseñas de este sitio web?">
