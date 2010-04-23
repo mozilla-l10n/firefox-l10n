@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Få tilgang til mapper og meldinger fra flere datamaskiner">
+<!ENTITY pop.description                 "POP - Last ned alle meldinger til denne datamaskinen, slik at mapper lagres bare lokalt">
+<!ENTITY recommended-appendix.label      "(anbefalt)">
 
 <!ENTITY manualSetup.label               "Manuelle innstillinger …">
 <!ENTITY manualSetup.accesskey           "M">
