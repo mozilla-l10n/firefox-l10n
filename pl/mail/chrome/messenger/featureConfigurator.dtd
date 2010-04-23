@@ -1,38 +1,41 @@
-<!ENTITY featureConfigurator.title   "Asystent migracji">
-<!ENTITY featureConfigurator.heading "Najważniejsze zmiany w programie Thunderbird 3">
-<!ENTITY featureConfigurator.para1   "Program Thunderbird 3 zawiera ciekawe nowe funkcjonalności, z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta bywają jednak różne, dodajemy więc łatwą metodę kontroli nad nowymi możliwościami.">
-<!ENTITY featureConfigurator.para2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe funkcje. W dowolnej chwili można też otworzyć tę stronę z poziomu menu Pomoc.">
+<!ENTITY featureConfigurator.title    "Asystent migracji">
+<!ENTITY featureConfigurator.heading1 "Najważniejsze zmiany w programie &brandShortName;">
+<!ENTITY featureConfigurator.para.1   "Program &brandShortName; zawiera ciekawe nowe funkcjonalności, z których jesteśmy dumni i jesteśmy przekonani, że większość użytkowników będzie z nich zadowolona. Gusta bywają jednak różne, dodajemy więc łatwą metodę kontroli nad nowymi możliwościami.">
+<!ENTITY featureConfigurator.para.2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe funkcje. W dowolnej chwili można też otworzyć tę stronę z poziomu menu Pomoc.">
 
-<!ENTITY featureConfigurator.imap.heading         "Synchronizacja kont IMAP">
-<!ENTITY featureConfigurator.imap.status.all      "Automatycznie synchronizowane są wszystkie foldery IMAP.">
-<!ENTITY featureConfigurator.imap.status.none     "Żaden z folderów IMAP nie jest automatycznie synchronizowany.">
-<!ENTITY featureConfigurator.imap.status.some     "Automatycznie synchronizowane są tylko wybrane foldery IMAP.">
-<!ENTITY featureConfigurator.benefits.label       "Korzyści">
-<!ENTITY featureConfigurator.alternative.label    "Alternatywa">
-<!ENTITY featureConfigurator.syncBenefits.para    "Synchronizacja poczty umożliwia czytanie wiadomości, nawet gdy nie ma połączenia z siecią i pozwala na przeszukiwanie treści wiadomości, a nie tylko tematów i nadawców.">
-<!ENTITY featureConfigurator.syncAlternative.para "Rezygnacja z pobierania całej poczty na dysk twardy komputera pozwala zaoszczędzić miejsce oraz zmniejszyć ilość przesyłanych danych.">
-<!ENTITY featureConfigurator.syncAll.button       "Automatycznie synchronizuj wszystko">
-<!ENTITY featureConfigurator.syncNone.button      "Niczego automatycznie nie synchronizuj">
-<!ENTITY featureConfigurator.advancedUsers.label  "Zaawansowana konfiguracja:">
-<!ENTITY featureConfigurator.advancedUsers.para   "Istnieje również możliwość konfiguracji synchronizacji dla każdego konta i folderu z osobna:">
+<!ENTITY featureConfigurator.toolbar.heading                     "Nowy pasek narzędzi">
+<!ENTITY featureConfigurator.toolbar.new.status                  "Pasek narzędzi wiadomości">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation      "Nowy pasek narzędzi zarządzania wiadomościami ze wszystkimi niezbędnymi przyciskami pod ręką.">
+<!ENTITY featureConfigurator.toolbar.original.status             "Dotychczasowy pasek narzędzi">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Zachowaj dotychczas dodane przyciski paska narzędzi poczty obok nowego paska narzędzi wiadomości.">
+<!ENTITY featureConfigurator.toolbarBenefits.para                "Przyciski czynności dotyczących wiadomości, takich jak odpowiadanie i przekazywanie, mogą zostać przeniesione z paska narzędzi poczty do nagłówka wiadomości. Wybór tej możliwości pozostawi więcej miejsca na pasku narzędzi poczty na większe pole wyszukiwania i dodatkowe przyciski.">
 
-<!ENTITY featureConfigurator.toolbar.heading           "Nowy pasek narzędzi">
-<!ENTITY featureConfigurator.toolbar.new.status        "Nowy układ paska.">
-<!ENTITY featureConfigurator.toolbar.original.status   "Pasek w stylu Thunderbirda 2.">
-<!ENTITY featureConfigurator.toolbarBenefits.para      "Bardziej przejrzysty interfejs niż w poprzedniej wersji – więcej miejsca na nowy pasek wyszukiwania i przyciski dodawane przez rozszerzenia.">
-<!ENTITY featureConfigurator.toolbarAlternative.para   "Niektórzy użytkownicy, zapewne ci, którzy nie używają podglądu wiadomości, uznają stary układ za lepszy.">
-<!ENTITY featureConfigurator.useOriginalToolbar.button "Używaj paska w stylu Thunderbirda 2">
-<!ENTITY featureConfigurator.useNewToolbar.button      "Używaj nowego paska">
+<!ENTITY featureConfigurator.addOn.installing       "Instalowanie…">
+<!ENTITY featureConfigurator.addOn.installed        "Zainstalowano">
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Wybrane rozszerzenie jest już zainstalowane.">
 
-<!ENTITY featureConfigurator.unifiedFolders.heading        "Pogrupowane foldery">
-<!ENTITY featureConfigurator.unifiedFolders.smart.status   "Kolumna folderów z układem Pogrupowane.">
-<!ENTITY featureConfigurator.unifiedFolders.all.status     "Kolumna folderów z układem Wszystkie.">
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para    "W przypadku, gdy zostało skonfigurowanych kilka kont, foldery takie jak Odebrane mogą zostać pogrupowane, aby można było wyświetlać wszystkie zawarte w nich wiadomości na jednej liście.">
-<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Użytkownicy rozdzielający informacje na osobne konta będą zapewne woleli układ wyświetlający wszystkie foldery osobno.">
-<!ENTITY featureConfigurator.useUnifiedFolders.button      "Domyślnie wyświetlaj układ Pogrupowane foldery">
-<!ENTITY featureConfigurator.useAllFolders.button          "Domyślnie wyświetlaj układ Wszystkie foldery">
+<!ENTITY featureConfigurator.collapsedHeaders.heading     "Kompaktowe nagłówki">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak   "Rozszerzenie Compact Header dodaje kompaktowy widok nagłówków wiadomości z nowymi opcjami i możliwościami.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Widok kompaktowe nagłówki był wcześniej używany a obecnie ta opcja została przeniesiona do zewnętrznego rozszerzenia, które polecamy zainstalować.">
+<!ENTITY featureConfigurator.collapsedHeaders.install     "Zainstaluj rozszerzenie Compact Header…">
 
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Nagłówki wiadomości">
-<!ENTITY featureConfigurator.headerParaBeforeLink     "Thunderbird 3 zmienia sposób wyświetlania nagłówków wiadomości. Alternatywne sposoby ich wyświetlania dostępne są jako ">
-<!ENTITY featureConfigurator.headerParaLinkName       "dodatki">
-<!ENTITY featureConfigurator.headerParaAfterLink      ".">
+<!ENTITY featureConfigurator.folderColumns.heading     "Zaawansowane kolumny panelu folderów">
+<!ENTITY featureConfigurator.folderColumns.para.weak   "Rozszerzenie Extra Folder Columns dodaje możliwość wyświetlania dokładną informacji o liczbie wiadomości i przestrzeni dyskowej zajmowanej przez każdy folder w panelu folderów.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Zaawansowane kolumny były wcześniej wyświetlane a obecnie ta opcja została przeniesiona do zewnętrznego rozszerzenia, które polecamy zainstalować.">
+<!ENTITY featureConfigurator.folderColumns.install     "Zainstaluj rozszerzenie Extra Folder Columns…">
+
+<!ENTITY featureConfigurator.autoSync.para             "Program &brandShortName; w tej nowej wersji posiada nowe i ulepszone narzędzia wyszukiwania. Konieczne będzie pobranie poczty na dysk komputera, aby z nich skorzystać.">
+<!ENTITY featureConfigurator.autoSync.on               "Synchronizuj">
+<!ENTITY featureConfigurator.autoSync.on.explanation   "Synchronizacja pozwala na szybsze wczytywanie wiadomości i lepsze wyszukiwania.">
+<!ENTITY featureConfigurator.autoSync.off              "Nie synchronizuj">
+<!ENTITY featureConfigurator.autoSync.off.explanation  "Brak synchronizacji oznacza wolniejsze wczytywanie wiadomości i niepełne wyniki wyszukiwania.">
+<!ENTITY featureConfigurator.autoSync.some             "Zaawansowana konfiguracja synchronizacji">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Zaawansowana konfiguracja pozwala włączyć synchronizację dla każdego konta i folderu z osobna.">
+<!ENTITY featureConfigurator.diskSpace.currentSize     "Obecna objętość poczty na dysku twardym:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace       "Wolna przestrzeń:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace    "Wymagane:">
+<!ENTITY featureConfigurator.diskSpace.warning         "Zaczyna brakować wolnej przestrzeni na dysku twardym!">
+
+<!ENTITY featureConfigurator.previousButton "Wstecz">
+<!ENTITY featureConfigurator.nextButton     "Dalej">
+<!ENTITY featureConfigurator.closeButton    "Zamknij">
