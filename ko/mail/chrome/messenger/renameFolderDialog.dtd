@@ -35,6 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY renameFolderDialog.title          "폴더 이름 바꾸기">
+<!ENTITY renameFolderDialog.title          "폴더 이름 변경">
 <!ENTITY rename.label                      "새 폴더 이름:">
 <!ENTITY rename.accesskey                  "E">
+<!ENTITY accept.label                      "이름 변경">
+<!ENTITY accept.accesskey                  "R">
+
