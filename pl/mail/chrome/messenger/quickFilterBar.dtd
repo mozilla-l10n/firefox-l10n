@@ -23,7 +23,7 @@
 
 <!ENTITY quickFilterBar.textbox.emptyText.base            "Filtrowanie wiadomości... #1">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac "&lt;Ctrl+F&gt;">
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.mac    "&lt;&#2318;+F&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac   "&lt;&#x2318;F&gt;">
 
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth   "280">
