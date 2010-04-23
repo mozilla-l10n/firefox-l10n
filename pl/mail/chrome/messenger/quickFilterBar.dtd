@@ -1,0 +1,38 @@
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label     "Pasek szybkiego filtrowania">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "f">
+
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Wyświetla lub ukrywa pasek szybkiego filtrowania">
+<!ENTITY quickFilterBar.sticky.tooltip                     "Określa, czy automatycznie filtrować nowo otwierane foldery">
+
+<!ENTITY quickFilterBar.barLabel.label     "Szybkie filtrowanie:">
+<!ENTITY quickFilterBar.unread.label       "Nieprzeczytane">
+<!ENTITY quickFilterBar.unread.tooltip     "Wyświetl wyłącznie wiadomości oznaczone jako nieprzeczytane">
+<!ENTITY quickFilterBar.starred.label      "Z gwiazdką">
+<!ENTITY quickFilterBar.starred.tooltip    "Wyświetl wyłącznie wiadomości oznaczone gwiazdką">
+<!ENTITY quickFilterBar.inaddrbook.label   "Od znajomych">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Wyświetl wiadomości pochodzące wyłącznie od kontaktów z książki adresowej">
+<!ENTITY quickFilterBar.tags.label         "Z etykietą">
+<!ENTITY quickFilterBar.tags.tooltip       "Wyświetl wyłącznie wiadomości posiadające etykiety">
+<!ENTITY quickFilterBar.attachment.label   "Z załącznikiem">
+<!ENTITY quickFilterBar.attachment.tooltip "Wyświetl wyłącznie wiadomości posiadające załączniki">
+
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 wiadomość;#1 wiadomości;#1 wiadomości">
+<!ENTITY quickFilterBar.resultsLabel.none              "Nie znaleziono"><!-- FIXME: sprawdzić czy pasuje -->
+
+<!ENTITY quickFilterBar.resultsLabel.minWidth "100"><!-- FIXME: Please size this so that a 3 or 4 digit number of messages in the results can be displayed without growing the size of the box.  You can tell this has been accomplished if adding a filter constraint that changes the displayed string to your "no results" string does not result in any changes to the size of the text box to the label's right.  (If your string for "no results" is longer than the "#### messages" case, then size for that. -->
+
+<!ENTITY quickFilterBar.textbox.emptyText.base            "Filtrowanie wiadomości... #1">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac "&lt;Ctrl+F&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.mac    "&lt;&#2318;+F&gt;">
+
+<!ENTITY quickFilterBar.textbox.idealWidth "320">
+<!ENTITY quickFilterBar.textbox.minWidth   "280">
+
+<!ENTITY quickFilterBar.textFilter.sender.label     "Nadawca">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Adresaci">
+<!ENTITY quickFilterBar.textFilter.subject.label    "Temat">
+<!ENTITY quickFilterBar.textFilter.body.label       "Treść">
+
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch  "Kontynuuj wyszukiwanie w pozostałych folderach">
+
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent 'Aby kontynuować wyszukiwanie dla: "#1" należy ponownie wcisnąć Enter'>

@@ -689,9 +689,11 @@
 <!ENTITY mdnBarIgnoreButton.label "Zignoruj prośbę">
 <!ENTITY mdnBarSendButton.label   "Prześlij potwierdzenie">
 
-<!-- Search Bar -->
-<!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "Wyszukiwanie we wszystkich wiadomościach">
+<!-- Quick Search Bar -->
+<!ENTITY quickSearchCmd.key                "k">
+<!ENTITY searchAllMessages.label.base      "Wyszukiwanie wiadomości… #1">
+<!ENTITY searchAllMessages.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY searchAllMessages.keyLabel.mac    "&lt;&#2318;+F&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label             "Dodaj adres do książki adresowej">
