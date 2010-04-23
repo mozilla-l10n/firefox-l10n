@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - 여러 컴퓨터에서 폴더와 메시지에 접근">
+<!ENTITY pop.description                 "POP - 이 컴푸터에 모든 메시지 다운로드하고 폴더는 로컬에만 유지">
+<!ENTITY recommended-appendix.label      "(권장)">
 
 <!ENTITY manualSetup.label               "수동 설정…">
 <!ENTITY manualSetup.accesskey           "S">
