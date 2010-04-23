@@ -119,6 +119,6 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Hai jau memorisà pleds-clav per questa website?">
 <!ENTITY  securityView.privacy.viewPasswords            "Mussar ils pleds-clav memorisads">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "m">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
 
 <!ENTITY  securityView.technical.header                 "Detagls tecnics">
