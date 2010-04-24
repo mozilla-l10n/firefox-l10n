@@ -1,5 +1,5 @@
 <!ENTITY playButton.playLabel "Reproducir">
-<!ENTITY playButton.pauseLabel "Pausa">
+<!ENTITY playButton.pauseLabel "Pausar">
 <!ENTITY muteButton.muteLabel "Silenciar">
 <!ENTITY muteButton.unmuteLabel "Restaurar sonido">
-<!ENTITY scrubberScale.nameFormat "#1 de #2 transcurridos">
+<!ENTITY scrubberScale.nameFormat "Transcurridos #1 de #2">

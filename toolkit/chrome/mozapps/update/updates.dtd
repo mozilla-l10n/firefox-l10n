@@ -11,7 +11,7 @@
 <!ENTITY manualUpdate.desc "Hay disponible una actualización recomendada de seguridad y estabilidad, pero
 usted no tiene los permisos de sistema necesarios para instalarla. Por favor,
 contacte con su administrador del sistema, o vuelva a intentarlo desde una
-cuenta que tenga permisos para instalar software en este ordenador.">
+cuenta que tenga permisos para instalar software en este equipo.">
 <!ENTITY manualUpdateGetMsg.label "Siempre puede conseguir la última versión de &brandShortName; en:">
 <!ENTITY incompatibleCheck.title "Comprobando compatibilidad de los complementos">
 <!ENTITY incompatibleCheck.label "Buscando nuevas versiones de sus complementos…">
