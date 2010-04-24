@@ -28,10 +28,11 @@
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth   "280">
 
-<!ENTITY quickFilterBar.textFilter.sender.label     "Nadawca">
-<!ENTITY quickFilterBar.textFilter.recipients.label "Adresaci">
-<!ENTITY quickFilterBar.textFilter.subject.label    "Temat">
-<!ENTITY quickFilterBar.textFilter.body.label       "Treść">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Kryteria filtrowania:"><!-- FIXME en było "Filter messages by:" -->
+<!ENTITY quickFilterBar.textFilter.sender.label      "Nadawca">
+<!ENTITY quickFilterBar.textFilter.recipients.label  "Adresaci">
+<!ENTITY quickFilterBar.textFilter.subject.label     "Temat">
+<!ENTITY quickFilterBar.textFilter.body.label        "Treść">
 
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch  "Kontynuuj wyszukiwanie w pozostałych folderach">
 
