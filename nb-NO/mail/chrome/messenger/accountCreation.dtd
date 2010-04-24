@@ -2,7 +2,7 @@
 <!ENTITY name.label                      "Navnet ditt:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.emptytext                  "Fornavn Etternavn">
-<!ENTITY name.text                       "Navnet ditt, som det vises for andre">
+<!ENTITY name.text                       "Navnet ditt, slik andre skal se det">
 <!ENTITY email.label                     "E-postadresse:">
 <!ENTITY email.accesskey                 "E">
 <!ENTITY email.emptytext                 "epost@eksempel.no">
@@ -73,6 +73,6 @@
 <!ENTITY insecureServer.tooltip.title    "Advarsel! Dette er en usikker tjener.">
 <!ENTITY insecureServer.tooltip.details  "Trykk på sirkelen for mer informasjon.">
 
-<!ENTITY insecureUnencrypted.description "E-posten og autentiseringen sendes i klartekst, slik at passordet (og meldingen) kan enkelt leses av andre. &brandShortName; lar deg bruke e-posten, men du bør virkelig spørre e-posttilbyderen om å konfigurere tjeneren med sikker tilkobling.">
-<!ENTITY insecureSelfSigned.description  "Tjeneren bruker et sertifikat som vi ikke kan stole på, og vi kan derfor ikke være sikre på at noen fanger opp trafikken mellom &brandShortName; og tjeneren. &brandShortName; lar deg bruke e-posten likevel, men du bør virkelig få e-posttilbyderen til å konfigurere tjeneren med et tiltrodd sertifikat.">
+<!ENTITY insecureUnencrypted.description "E-posten og autentiseringen sendes i klartekst, slik at passordet (og meldingen) kan enkelt leses av andre. &brandShortName; lar deg bruke e-posten, men du bør be e-posttilbyderen om å konfigurere tjeneren med sikker tilkobling.">
+<!ENTITY insecureSelfSigned.description  "Tjeneren bruker et sertifikat som vi ikke kan stole på, og vi kan derfor ikke være sikre på at noen fanger opp trafikken mellom &brandShortName; og tjeneren. &brandShortName; lar deg bruke e-posten likevel, men du bør be e-posttilbyderen om å konfigurere tjeneren med et tiltrodd sertifikat.">
 <!ENTITY secureServer.description        "Gratulerer! Dette er en sikker tjener.">
