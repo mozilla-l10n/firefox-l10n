@@ -22,7 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
-
+<!ENTITY imap.description                "IMAP - Adgang til mapper og meddelelser fra flere computere">
+<!ENTITY pop.description                 "POP - Hent alle meddelelser til denne computer, mapper findes kun lokalt">
+<!ENTITY recommended-appendix.label      "(anbefalet)">
 <!ENTITY manualSetup.label               "Manuel opsætning…">
 <!ENTITY manualSetup.accesskey           "M">
 <!ENTITY cancel.label                    "Annuller">
