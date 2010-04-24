@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "S">
 <!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ikke bli berørt)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
-<!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
-<!ENTITY folderRebuildSummaryFile.accesskey      "o">
-<!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Noen ganger kan indeksfilen (.msf) til mapper bli skadet, og meldinger kan se ut til å forsvinne, eller slettede meldinger kan bli vist. Å reparere mappen kan rette opp disse problemene.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inkluder meldinger i denne mappen i globalt søkeresultat">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
      
 <!ENTITY retention.label "Automatisk sletting">
 <!ENTITY retentionUseAccount.label  "Bruk innstillingene for kontoen">
