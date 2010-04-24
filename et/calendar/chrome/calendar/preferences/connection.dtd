@@ -56,8 +56,6 @@
 <!ENTITY  reload.accesskey              "d">
 <!ENTITY  ftp.label                     "FTP puhverserver:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher puhverserver:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP puhverserver:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL puhverserver:">
@@ -73,7 +71,6 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Puhverserverit ei kasutata:">
 <!ENTITY  noproxy.accesskey             "e">

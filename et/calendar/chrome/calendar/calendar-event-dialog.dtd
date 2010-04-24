@@ -43,45 +43,65 @@
 
 <!ENTITY event.title.label                  "Muuda elementi" >
 
-<!ENTITY newevent.before.label              "enne" >
-<!ENTITY newevent.after.label               "pärast" >
-
 <!ENTITY newevent.from.label                "Alates" >
 <!ENTITY newevent.to.label                  "Kuni" >
 <!ENTITY newevent.attendees.notify.label    "Teavita osalejaid">
 
-<!ENTITY newevent.status.label              "Seisund" >
-<!ENTITY newevent.status.accesskey          "i" >
-<!ENTITY newevent.status.none.label         "Määramata" >
-<!ENTITY newevent.status.cancelled.label    "Tühistatud" >
-<!ENTITY newevent.status.tentative.label    "Kahtlev" >
-<!ENTITY newevent.status.confirmed.label    "Aktsepteeritud" >
-<!ENTITY newevent.status.needsaction.label  "Vajab tähelepanu" >
-<!ENTITY newevent.status.inprogress.label   "Pooleli" >
-<!ENTITY newevent.status.completed.label    "Lõpetatud" >
+<!ENTITY newevent.status.label               "Seisund" >
+<!ENTITY newevent.status.accesskey           "i" >
+<!ENTITY newevent.status.none.label          "Määramata" >
+<!ENTITY newevent.status.none.accesskey      "M" >
+<!ENTITY newevent.status.cancelled.label     "Tühistatud" >
+<!ENTITY newevent.status.cancelled.accesskey "T" >
+<!ENTITY newevent.status.tentative.label     "Kahtlev" >
+<!ENTITY newevent.status.tentative.accesskey "K" >
+<!ENTITY newevent.status.confirmed.label     "Aktsepteeritud" >
+<!ENTITY newevent.status.confirmed.accesskey "A" >
+<!ENTITY newevent.status.needsaction.label   "Vajab tähelepanu" >
+<!ENTITY newevent.status.inprogress.label    "Pooleli" >
+<!ENTITY newevent.status.completed.label     "Lõpetatud" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; tehtud">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "S">
+<!ENTITY event.dialog.new.task.key2               "Ü">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Fail">
-<!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "Uus">
-<!ENTITY  event.menu.file.new.accesskey                   "U">
-<!ENTITY  event.menu.file.new.event.label                 "Sündmus">
-<!ENTITY  event.menu.file.new.event.accesskey             "S">
-<!ENTITY  event.menu.file.new.message.label               "Kiri">
-<!ENTITY  event.menu.file.new.message.accesskey           "K">
-<!ENTITY  event.menu.file.new.address.label               "Aadressiraamatu kirje">
-<!ENTITY  event.menu.file.new.address.accesskey           "A">
-<!ENTITY  event.menu.file.close.label                     "Sulge">
-<!ENTITY  event.menu.file.close.accesskey                 "l">
-<!ENTITY  event.menu.file.save.label                      "Salvesta">
-<!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.file.page.setup.label                "Lehekülje häälestus">
-<!ENTITY  event.menu.file.page.setup.accesskey            "h">
-<!ENTITY  event.menu.file.print.label                     "Trüki">
-<!ENTITY  event.menu.file.print.accesskey                 "T">
+<!ENTITY  event.menu.item.new.label                       "Uus">
+<!ENTITY  event.menu.item.new.accesskey                   "U">
+<!ENTITY  event.menu.item.new.event.label                 "Sündmus">
+<!ENTITY  event.menu.item.new.event.accesskey             "S">
+<!ENTITY  event.menu.item.new.task.label                  "Ülesanne">
+<!ENTITY  event.menu.item.new.task.accesskey              "Ü">
+<!ENTITY  event.menu.item.new.message.label               "Kiri">
+<!ENTITY  event.menu.item.new.message.accesskey           "K">
+<!ENTITY  event.menu.item.new.contact.label               "Aadressiraamatu kirje">
+<!ENTITY  event.menu.item.new.contact.accesskey           "A">
+<!ENTITY  event.menu.item.close.label                     "Sulge">
+<!ENTITY  event.menu.item.close.accesskey                 "l">
+<!ENTITY  event.menu.item.save.label                      "Salvesta">
+<!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.saveandclose.label              "Salvesta ja sulge">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "g">
+<!ENTITY  event.menu.item.delete.label                    "Kustuta…">
+<!ENTITY  event.menu.item.delete.accesskey                "m">
+<!ENTITY  event.menu.item.page.setup.label                "Lehekülje häälestus">
+<!ENTITY  event.menu.item.page.setup.accesskey            "h">
+<!ENTITY  event.menu.item.print.label                     "Prindi">
+<!ENTITY  event.menu.item.print.accesskey                 "P">
 
 <!ENTITY  event.menu.edit.label                           "Redigeerimine">
 <!ENTITY  event.menu.edit.accesskey                       "R">
@@ -148,15 +168,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Vaba">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "V">
 
-<!ENTITY event.help.label                                 "Abi">
-<!ENTITY event.help.accesskey                             "b">
-<!ENTITY event.help.release.notes.label                   "Väljalasketeade">
-<!ENTITY event.help.release.notes.accesskey               "V">
-<!ENTITY event.help.help.label                            "&brandShortName;i abi">
-<!ENTITY event.help.help.accesskey                        "b">
-<!ENTITY event.help.about.label                           "&brandShortName;i teave">
-<!ENTITY event.help.about.accesskey                       "t">
-
 <!ENTITY event.invite.attendees.label                     "Kutsu osalejad…">
 <!ENTITY event.invite.attendees.accesskey                 "o">
 <!ENTITY event.email.attendees.label                      "Koosta kiri kõigile osalejatele…">
@@ -166,6 +177,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvesta ja sulge">
+<!ENTITY  event.toolbar.delete.label                      "Kustuta">
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osalejad">
 <!ENTITY  event.toolbar.spellcheck.label                  "Õigekirjakontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Privaatsus">
@@ -214,6 +226,7 @@
 <!ENTITY event.priority2.label                            "Prioriteet:">
 
 <!ENTITY event.reminder.none.label                        "puudub " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutit enne" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minutit enne" >
 <!ENTITY event.reminder.10minutes.before.label            "10 minutit enne" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minutit enne" >
@@ -238,7 +251,7 @@
 <!ENTITY event.repeat.daily.label                       "iga päev">
 <!ENTITY event.repeat.weekly.label                      "igal nädalal">
 <!ENTITY event.repeat.every.weekday.label               "igal tööpäeval">
-<!ENTITY event.repeat.bi.weekly.label                   "kaks korda nädalas">
+<!ENTITY event.repeat.bi.weekly.label                   "üle nädala">
 <!ENTITY event.repeat.monthly.label                     "igal kuul">
 <!ENTITY event.repeat.yearly.label                      "igal aastal">
 <!ENTITY event.repeat.custom.label                      "kohandatud…">
@@ -260,13 +273,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "iga" >
 <!ENTITY repeat.units.months.both                       "kuu järel" >
-<!ENTITY event.recurrence.the.label                     "" >
-<!ENTITY event.recurrence.repeat.first.label            "esimesel">
-<!ENTITY event.recurrence.repeat.second.label           "teisel">
-<!ENTITY event.recurrence.repeat.third.label            "kolmandal">
-<!ENTITY event.recurrence.repeat.fourth.label           "neljandal">
-<!ENTITY event.recurrence.repeat.fifth.label            "viiendal">
-<!ENTITY event.recurrence.repeat.last.label             "viimasel">
+<!ENTITY event.recurrence.monthly.every.label           "igal" >
+<!ENTITY event.recurrence.monthly.first.label           "esimesel">
+<!ENTITY event.recurrence.monthly.second.label          "teisel">
+<!ENTITY event.recurrence.monthly.third.label           "kolmandal">
+<!ENTITY event.recurrence.monthly.fourth.label          "neljandal">
+<!ENTITY event.recurrence.monthly.fifth.label           "viiendal">
+<!ENTITY event.recurrence.monthly.last.label            "viimasel">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "pühapäeval" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "esmaspäeval" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "teisipäeval" >
@@ -280,7 +293,6 @@
 <!ENTITY event.recurrence.every.label                        "iga" >
 <!ENTITY repeat.units.years.both                             "aasta järel" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   " " >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label " " >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +314,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "oktoobril" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "novembril" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "detsembril" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "esimesel">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "teisel">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "kolmandal">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "neljandal">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "viiendal">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "viimasel">
+<!ENTITY event.recurrence.yearly.every.label                 "igal">
+<!ENTITY event.recurrence.yearly.first.label                 "esimesel">
+<!ENTITY event.recurrence.yearly.second.label                "teisel">
+<!ENTITY event.recurrence.yearly.third.label                 "kolmandal">
+<!ENTITY event.recurrence.yearly.fourth.label                "neljandal">
+<!ENTITY event.recurrence.yearly.fifth.label                 "viiendal">
+<!ENTITY event.recurrence.yearly.last.label                  "viimasel">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "pühapäeval" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "esmaspäeval" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "teisipäeval" >
@@ -336,38 +349,24 @@
 <!ENTITY event.repeat.until.label                       "Korda kuni" >
 <!ENTITY event.recurrence.preview.label                 "Eelvaade">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "minutit" >
-<!ENTITY alarm.units.hours                  "tundi" >
-<!ENTITY alarm.units.days                   "päeva" >
-
-<!ENTITY reminder.title.label                           "Kohandatud meeldetuletus">
-<!ENTITY reminder.dialogtitle.label                     "Häälesta meeldetuletusi">
-<!ENTITY reminder.reminderDetails.label                 "Meeldetuletuse üksikasjad">
-<!ENTITY reminder.action.label                          "Vali meeldetuletuse tegevus">
-<!ENTITY reminder.action.alert.label                    "Näita teadet">
-<!ENTITY reminder.action.email.label                    "Saada kiri">
-<!ENTITY reminder.new.label                             "Uus">
-<!ENTITY reminder.delete.label                          "Kustuta">
-<!ENTITY reminder.relation.start.label                  "sündmuse algust">
-<!ENTITY reminder.relation.end.label                    "sündmuse lõppu">
-<!ENTITY reminder.add.label                             "Lisa">
-<!ENTITY reminder.add.accesskey                         "L">
-<!ENTITY reminder.remove.label                          "Eemalda">
-<!ENTITY reminder.remove.accesskey                      "E">
-
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Osalejate kutsumine">
-<!ENTITY event.organizer.label           "Organiseerija">
-<!ENTITY event.freebusy.suggest.slot     "Paku aeg:">
-<!ENTITY event.freebusy.next.slot        "Järgmine aeg " >
-<!ENTITY event.freebusy.previous.slot    " Eelmine aeg" >
-<!ENTITY event.freebusy.zoom             "Suurendamine/Vähendamine:">
-<!ENTITY event.freebusy.plus             "Järgmine tund" >
-<!ENTITY event.freebusy.minus            "Eelmine tund" >
-<!ENTITY event.freebusy.legend.free      "Vaba" >
-<!ENTITY event.freebusy.legend.busy      "Kinni" >
-<!ENTITY event.freebusy.legend.unknown   "Informatsioon puudub" >
+<!ENTITY invite.title.label                     "Osalejate kutsumine">
+<!ENTITY event.organizer.label                  "Organiseerija">
+<!ENTITY event.freebusy.suggest.slot            "Paku aeg:">
+<!ENTITY event.freebusy.next.slot               "Järgmine aeg " >
+<!ENTITY event.freebusy.previous.slot           " Eelmine aeg" >
+<!ENTITY event.freebusy.zoom                    "Suurendamine/Vähendamine:">
+<!ENTITY event.freebusy.plus                    "Järgmine tund" >
+<!ENTITY event.freebusy.minus                   "Eelmine tund" >
+<!ENTITY event.freebusy.legend.free             "Vaba" >
+<!ENTITY event.freebusy.legend.busy             "Hõivatud" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Pole kindel" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Kontorist väljas" >
+<!ENTITY event.freebusy.legend.unknown          "Informatsioon puudub" >
+<!ENTITY event.attendee.role.required           "Kohustuslik osaleja">
+<!ENTITY event.attendee.role.optional           "Vabatahtlik osaleja">
+<!ENTITY event.attendee.role.chair              "Koosoleku juhataja">
+<!ENTITY event.attendee.role.nonparticipant     "Vaatleja">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Palun määra ajavöönd">
