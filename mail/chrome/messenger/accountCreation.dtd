@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Få tillgång till mappar och meddelanden från flera datorer">
+<!ENTITY pop.description                 "POP - Spara alla meddelanden på den här datorn, alla mappar är endast lokala">
+<!ENTITY recommended-appendix.label      "(rekommenderas)">
 
 <!ENTITY manualSetup.label               "Manuell inställning…">
 <!ENTITY manualSetup.accesskey           "M">
