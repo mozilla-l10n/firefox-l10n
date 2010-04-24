@@ -55,10 +55,6 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Įtraukti šiame aplanke esančius laiškus į globaliosios paieškos rezultatus">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
-<!ENTITY folderRebuildSummaryFile.label          "Perindeksuoti">
-<!ENTITY folderRebuildSummaryFile.accesskey      "i">
-<!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
-
 <!ENTITY retention.label                         "Laiškų šalinimas">
 <!ENTITY retentionUseAccount.label               "Laikytis paskyros nuostatų">
 <!ENTITY retentionUseAccount.accesskey           "p">
