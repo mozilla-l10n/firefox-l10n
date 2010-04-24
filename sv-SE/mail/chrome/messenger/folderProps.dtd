@@ -49,9 +49,12 @@
 <!ENTITY folderCharsetTab.accesskey              "S">
 <!ENTITY folderCharsetOverride.label             "Använd standardkodningen för alla meddelanden i mappen (all automatisk igenkänning, och inställningar gjorda i meddelandena sätts ur spel).">
 <!ENTITY folderCharsetOverride.accesskey         "ö">
-<!ENTITY folderRebuildSummaryFile.label          "Återskapa index">
-<!ENTITY folderRebuildSummaryFile.accesskey      "Å">
-<!ENTITY folderRebuildSummaryFileTip.label       "Återskapa sammanfattningsfil">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Återskapa index för sammanfattningsfil">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparera mapp">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Ibland kan filen (.msf) för mappindexet skadas och göra att meddelanden saknas eller att borttagna meddelanden finns kvar; en reparation av mappen kan lösa dessa problem.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inkludera meddelanden i den här mappen i globala sökresultat">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label                         "Behåll meddelanden">
 <!ENTITY retentionUseAccount.label               "Använd kontoinställningarna">
@@ -73,8 +76,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey       "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
-<!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
-<!ENTITY folderCheckForNewMessages.accesskey     "K">
+<!ENTITY folderCheckForNewMessages2.label         "Vid hämtning av nya meddelanden från kontot, kontrollera alltid den här mappen">
+<!ENTITY folderCheckForNewMessages2.accesskey     "k">
 
 <!ENTITY offlineFolder.check.label               "Den här mappen ska kunna användas när jag arbetar nedkopplad">
 <!ENTITY offlineFolder.check.accesskey           "m">
