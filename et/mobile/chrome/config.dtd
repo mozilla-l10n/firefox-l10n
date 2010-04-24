@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Otsi">
+<!ENTITY newpref.label          "Lisa uus eelistus">
+<!ENTITY addpref.name           "Nimi">
+<!ENTITY addpref.value          "Väärtus">
+
+<!ENTITY cancel.label           "Loobu">
+<!ENTITY reset.label            "Lähtesta">
+<!ENTITY done.label             "Valmis">
+
+<!ENTITY integer.label          "Täisarv">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Tõeväärtus">

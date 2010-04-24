@@ -20,8 +20,8 @@
 #define bookmarks_aboutBrowser Firefox: Sinu brauserist
 
 # LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Sünkrooni Weave'iga
+# link title for https://www.mozilla.com/en-US/mobile/sync
+#define bookmarks_sync Firefox: Sünkrooni kasutades Weave Sync'i
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
@@ -30,5 +30,9 @@
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox: Tugi
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+# link title for about:home
+#define bookmarks_aboutHome Firefox Start
 
 #unfilter emptyLines
