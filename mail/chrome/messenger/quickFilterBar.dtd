@@ -27,7 +27,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Behold filtre på ved bytte av mapper?">
+         "Behold filtrene ved bytte av mappe">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
@@ -48,7 +48,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Vis bare uleste meldinger.">
+         "Vis bare uleste meldinger">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -62,7 +62,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Vis bare meldinger med stjerne.">
+         "Vis bare meldinger med stjerne">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -78,7 +78,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Vis bare meldinger fra personer i adresseboken din.">
+         "Vis bare meldinger fra personer i adresseboken din">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -92,7 +92,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Vis bare meldinger som er tilordnet etiketter.">
+         "Vis bare meldinger som er tilordnet etiketter">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -106,7 +106,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Vis bare meldinger med vedlegg.">
+         "Vis bare meldinger med vedlegg">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the

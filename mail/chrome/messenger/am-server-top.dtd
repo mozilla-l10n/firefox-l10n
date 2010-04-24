@@ -39,12 +39,12 @@
 <!ENTITY downloadOnBiff.accesskey "d">
 <!ENTITY username.label "Innloggingsnavn">
 <!ENTITY deleteMessagePrefix.label "Når jeg sletter en melding:">
-<!ENTITY modelMoveToTrash.label "Flytt den til Søppelkasse-mappen">
+<!ENTITY modelMoveToTrash.label "Flytt den til søppelmappen">
 <!ENTITY modelMoveToTrash.accesskey "d">
 <!ENTITY modelMarkDeleted.label "Merk som slettet">
 <!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelDeleteImmediately.label "Fjern umiddelbart">
-<!ENTITY modelDeleteImmediately.accesskey "n">
+<!ENTITY modelDeleteImmediately.label "Slett umiddelbart">
+<!ENTITY modelDeleteImmediately.accesskey "u">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Tøm (slett) Innboks ved avslutning">
 <!ENTITY expungeOnExit.accesskey "a">
@@ -64,7 +64,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "A">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
 <!ENTITY localPath.label "Lokal mappe:">
-<!ENTITY abbreviate.label "Vis navn i mappelista med">
+<!ENTITY abbreviate.label "Vis navn i mappelisten med">
 <!ENTITY abbreviateOn.label "fulle navn (for eksempel «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "forkortede navn (for eksempel «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">

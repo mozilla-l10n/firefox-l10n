@@ -48,7 +48,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Noen ganger kan indeksfilen (.msf) til mapper bli skadet, og meldinger kan se ut til å forsvinne, eller slettede meldinger kan bli vist. Å reparere mappen kan rette opp disse problemene.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Noen ganger kan oppsummeringsfilen (.msf) bli skadet, og meldinger kan se ut til å forsvinne, eller slettede meldinger kan bli vist. Å reparere mappen kan rette opp disse problemene.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Inkluder meldinger i denne mappen i globalt søkeresultat">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
      
