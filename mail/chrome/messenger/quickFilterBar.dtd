@@ -1,18 +1,18 @@
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Панель быстрого фильтра">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "а">
-<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Включить/выключить панель быстрого фильтра.">
-<!ENTITY quickFilterBar.sticky.tooltip "Держать фильтры применёнными при переключении папок?">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Включить/выключить панель быстрого фильтра">
+<!ENTITY quickFilterBar.sticky.tooltip "Держать фильтры применёнными при переключении папок">
 <!ENTITY quickFilterBar.barLabel.label "Быстрый фильтр:">
 <!ENTITY quickFilterBar.unread.label "Непрочитанные">
-<!ENTITY quickFilterBar.unread.tooltip "Показывать только непрочитанные сообщения.">
+<!ENTITY quickFilterBar.unread.tooltip "Показывать только непрочитанные сообщения">
 <!ENTITY quickFilterBar.starred.label "Звёздочка">
-<!ENTITY quickFilterBar.starred.tooltip "Показывать только сообщения отмеченные звёздочкой.">
+<!ENTITY quickFilterBar.starred.tooltip "Показывать только сообщения отмеченные звёздочкой">
 <!ENTITY quickFilterBar.inaddrbook.label "Контакт">
-<!ENTITY quickFilterBar.inaddrbook.tooltip "Показывать только сообщения от людей в вашей адресной книге.">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Показывать только сообщения от людей в вашей адресной книге">
 <!ENTITY quickFilterBar.tags.label "Метки">
-<!ENTITY quickFilterBar.tags.tooltip "Показывать только сообщения с метками.">
+<!ENTITY quickFilterBar.tags.tooltip "Показывать только сообщения с метками">
 <!ENTITY quickFilterBar.attachment.label "Вложения">
-<!ENTITY quickFilterBar.attachment.tooltip "Показывать только сообщения со вложениями.">
+<!ENTITY quickFilterBar.attachment.tooltip "Показывать только сообщения со вложениями">
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 сообщение;#1 сообщения;#1 сообщений">
 <!ENTITY quickFilterBar.resultsLabel.none "Нет результатов">
 <!ENTITY quickFilterBar.resultsLabel.minWidth "100">
@@ -21,6 +21,7 @@
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac "&lt;⌘F&gt;">
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth "280">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Фильтр сообщений по:">
 <!ENTITY quickFilterBar.textFilter.sender.label "Отправитель">
 <!ENTITY quickFilterBar.textFilter.recipients.label "Получатели">
 <!ENTITY quickFilterBar.textFilter.subject.label "Тема">
