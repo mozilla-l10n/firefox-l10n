@@ -47,7 +47,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Rodyti/slėpti sparčiojo filtro juostą.">
+         "Rodyti/slėpti sparčiojo filtro juostą">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -57,7 +57,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Išlaikyti filtrą, pereinant į kitą aplanką?">
+         "Išlaikyti filtrą, pereinant į kitą aplanką">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
@@ -78,7 +78,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Rodyti tik neskaitytus laiškus.">
+         "Rodyti tik neskaitytus laiškus">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -92,7 +92,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Rodyti tik pažymėtus žvaigždute laiškus.">
+         "Rodyti tik pažymėtus žvaigždute laiškus">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -108,7 +108,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Rodyti tik iš adresų knygoje esančių asmenų gautus laiškus.">
+         "Rodyti tik iš adresų knygoje esančių asmenų gautus laiškus">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -122,7 +122,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Rodyti tik tuos laiškus, kuriems suteiktos gairės.">
+         "Rodyti tik tuos laiškus, kuriems suteiktos gairės">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -136,7 +136,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Rodyti tik laiškus su priedais.">
+         "Rodyti tik laiškus su priedais">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
