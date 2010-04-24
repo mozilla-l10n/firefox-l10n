@@ -54,26 +54,24 @@
 <!ENTITY calendar.new.server.key                "k">
 <!ENTITY calendar.new.server.accesskey          "k">
 
-<!ENTITY calendar.print.label                   "Trüki…">
+<!ENTITY calendar.print.label                   "Prindi…">
 <!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "T">
+<!ENTITY calendar.print.accesskey               "P">
 
 <!ENTITY calendar.import.label                  "Import…">
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "Kalendri eksport…">
-<!ENTITY calendar.export.calendar.accesskey     "e">
+<!ENTITY calendar.export.label                  "Kalendri eksport…">
+<!ENTITY calendar.export.accesskey              "e">
 <!ENTITY calendar.export.selection.label        "Valiku eksport…">
 <!ENTITY calendar.export.selection.accesskey    "u">
 
 <!ENTITY calendar.publish.label                 "Avaldamine…">
 <!ENTITY calendar.publish.accesskey             "A">
 
-<!ENTITY calendar.toolbar.label                 "Kalendri tööriistariba">
-<!ENTITY calendar.toolbar.accesskey             "i">
-<!ENTITY task.toolbar.label                     "Ülesande tööriistariba">
-<!ENTITY task.toolbar.accesskey                 "n">
+<!ENTITY calendar.deletecalendar.label          "Kustuta valitud kalender…">
+<!ENTITY calendar.deletecalendar.accesskey      "K">
 
 <!ENTITY calendar.menu.customize.label          "Kohandamine…">
 <!ENTITY calendar.menu.customize.accesskey      "h">
@@ -93,21 +91,6 @@
 
 <!ENTITY goTodayCmd.label                       "Täna">
 <!ENTITY goTodayCmd.accesskey                   "T">
-
-<!ENTITY goPreviousCmd.day.label                "Eelmine päev">
-<!ENTITY goPreviousCmd.week.label               "Eelmine nädal">
-<!ENTITY goPreviousCmd.month.label              "Eelmine kuu">
-<!ENTITY goPreviousCmd.accesskey                "E">
-
-<!ENTITY goNextCmd.day.label                    "Järgmine päev">
-<!ENTITY goNextCmd.week.label                   "Järgmine nädal">
-<!ENTITY goNextCmd.month.label                  "Järgmine kuu">
-<!ENTITY goNextCmd.all.accesskey                "g">
-
-<!ENTITY addressBookCmd.label                   "Aadressiraamat">
-<!ENTITY addressBookCmd.accesskey               "A">
-
-<!ENTITY calendar.importcalendar.label          "Kalendri importimine…">
 
 <!ENTITY showCurrentView.label                  "Aktiivne vaade">
 <!ENTITY showCurrentView.accesskey              "A">

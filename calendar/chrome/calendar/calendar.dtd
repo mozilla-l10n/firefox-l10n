@@ -46,14 +46,8 @@
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
-
 <!ENTITY calendar.newtask.button.tooltip          "Uus ülesanne" >
 <!ENTITY calendar.newevent.button.tooltip         "Uus sündmus" >
-<!ENTITY calendar.edit.button.tooltip             "Muuda valitud sündmust või ülesannet" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Ülesanded" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Näita täidetud ülesandeid">
@@ -88,39 +82,37 @@
 
 <!ENTITY calendar.today.button.tooltip            "Tänase päeva juurde" >
 <!ENTITY calendar.todaypane.button.tooltip        "Näita tänaste tegemiste paneeli" >
-<!ENTITY calendar.unifinder.button.tooltip        "Otsi sündmusi ja näita sündmuste nimekirja" >
 
 <!ENTITY calendar.day.button.tooltip            "Lülitu päeva vaatele" >
 <!ENTITY calendar.week.button.tooltip           "Lülitu nädala vaatele" >
 <!ENTITY calendar.month.button.tooltip          "Lülitu kuu vaatele" >
 <!ENTITY calendar.multiweek.button.tooltip      "Lülitu mitme nädala vaatele" >
 
-<!-- Would be nice to have aceesskeys here -->
-<!ENTITY calendar.nextday.button.tooltip        "Järgmine päev" >
-<!ENTITY calendar.prevday.button.tooltip        "Eelmine päev" >
-<!ENTITY calendar.nextweek.button.tooltip       "Järgmine nädal" >
-<!ENTITY calendar.prevweek.button.tooltip       "Eelmine nädal" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Järgmine kuu" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Eelmine kuu" >
+<!ENTITY calendar.nextday.label                 "Järgmine päev" >
+<!ENTITY calendar.prevday.label                 "Eelmine päev" >
+<!ENTITY calendar.nextday.accesskey             "j" >
+<!ENTITY calendar.prevday.accesskey             "e" >
+<!ENTITY calendar.nextweek.label                "Järgmine nädal" >
+<!ENTITY calendar.prevweek.label                "Eelmine nädal" >
+<!ENTITY calendar.nextweek.accesskey            "j" >
+<!ENTITY calendar.prevweek.accesskey            "e" >
+<!ENTITY calendar.nextmonth.label               "Järgmine kuu" >
+<!ENTITY calendar.prevmonth.label               "Eelmine kuu" >
+<!ENTITY calendar.nextmonth.accesskey           "j" >
+<!ENTITY calendar.prevmonth.accesskey           "l" >
+
+<!ENTITY calendar.navigation.nextday.tooltip    "Päev edasi" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Päev tagasi" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Nädal edasi" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Nädal tagasi" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Kuu edasi" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Kuu tagasi" >
 
 <!ENTITY calendar.newtask.button.label          "Uus ülesanne" >
 <!ENTITY calendar.newevent.button.label         "Uus sündmus" >
-<!ENTITY calendar.edit.button.label             "Muuda" >
-
-<!ENTITY calendar.print.button.label            "Trüki" >
-
-<!ENTITY calendar.import.button.tooltip            "Impordi sündmused kohalikust failist" >
-<!ENTITY calendar.export.button.tooltip            "Ekspordi sündmused kohalikku faili" >
-<!ENTITY calendar.subscribe.button.tooltip         "Telli võrgukalender" >
-<!ENTITY calendar.publish.button.tooltip           "Avalda sündmused võrgukalendrisse" >
+<!ENTITY calendar.print.button.label            "Prindi" >
 
 <!ENTITY calendar.export.calendar                "Ekspordi kalender…" >
-
-<!ENTITY calendar.import.button.label              "Impordi" >
-<!ENTITY calendar.export.button.label              "Ekspordi" >
-<!ENTITY calendar.subscribe.button.label           "Telli" >
-<!ENTITY calendar.publish.button.label             "Avalda" >
-<!ENTITY calendar.unifinder.button.label           "Otsi sündmusi" >
 
 <!ENTITY calendar.day.button.label              "Päev" >
 <!ENTITY calendar.week.button.label             "Nädal" >
@@ -153,19 +145,19 @@
 <!ENTITY calendar.task.filter.overdue.accesskey     "ä">
 <!ENTITY calendar.task.filter.completed.label       "Täidetud ülesanded">
 <!ENTITY calendar.task.filter.completed.accesskey   "d">
-
 <!ENTITY calendar.task.filter.open.label            "Pooleliolevad ülesanded">
 <!ENTITY calendar.task.filter.open.accesskey        "o">
 
-<!ENTITY calendar.task.details.title.label           "Pealkiri:">
-<!ENTITY calendar.task.details.organizer.label       "Alates:">
-<!ENTITY calendar.task.details.priority2.label       "Prioriteet:">
-<!ENTITY calendar.task.details.priority.low.label    "Madal">
-<!ENTITY calendar.task.details.priority.normal.label "Tavaline">
-<!ENTITY calendar.task.details.priority.high.label   "Kõrge">
-<!ENTITY calendar.task.details.status.label          "Seisund:">
-<!ENTITY calendar.task.details.category.label        "Kategooria:">
-<!ENTITY calendar.task.details.repeat.label          "Kordumine:">
+<!ENTITY calendar.task-details.title.label           "Pealkiri:">
+<!ENTITY calendar.task-details.organizer.label       "Alates:">
+<!ENTITY calendar.task-details.priority.label        "Prioriteet:">
+<!ENTITY calendar.task-details.priority.low.label    "Madal">
+<!ENTITY calendar.task-details.priority.normal.label "Tavaline">
+<!ENTITY calendar.task-details.priority.high.label   "Kõrge">
+<!ENTITY calendar.task-details.status.label          "Seisund:">
+<!ENTITY calendar.task-details.category.label        "Kategooria:">
+<!ENTITY calendar.task-details.repeat.label          "Kordumine:">
+<!ENTITY calendar.task-details.attachments.label     "Kaasatud failid:">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriseeri ülesandeid">
 <!ENTITY calendar.task.complete.button.tooltip  "Märgi valitud ülesanded tehtuks">
@@ -179,7 +171,6 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
 <!ENTITY calendar.context.modifyorviewtask.label      "Ülesande omadused…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "o">
-
 <!ENTITY calendar.context.newevent.label              "Uus sündmus…">
 <!ENTITY calendar.context.newevent.accesskey          "s">
 <!ENTITY calendar.context.newtodo.label               "Uus ülesanne…">
@@ -191,7 +182,7 @@
 <!ENTITY calendar.context.deletetask.label            "Kustuta ülesanne">
 <!ENTITY calendar.context.deletetask.accesskey        "K">
 <!ENTITY calendar.context.deleteitem.label            "Kustuta">
-
+<!ENTITY calendar.context.deleteitem.accesskey        "K">
 <!ENTITY calendar.context.deleteevent.label           "Kustuta sündmus">
 <!ENTITY calendar.context.deleteevent.accesskey       "u">
 <!ENTITY calendar.context.deletethisevent.label       "See sündmus">
@@ -202,8 +193,6 @@
 <!ENTITY calendar.context.deletefutureevents.accesskey "t">
 <!ENTITY calendar.context.deletefuturetasks.label     "Kõik tulevased ülesanded">
 <!ENTITY calendar.context.deletefuturetasks.accesskey "n">
-
-<!ENTITY calendar.context.deleteitem.accesskey        "K">
 <!ENTITY calendar.context.cutevent.label              "Lõika">
 <!ENTITY calendar.context.cutevent.accesskey          "L">
 <!ENTITY calendar.context.copyevent.label             "Kopeeri">
@@ -306,17 +295,20 @@
 <!ENTITY calendar.server.dialog.name.label          "Kalendri nimi:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Värv:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Vorming:">
-<!ENTITY calendarproperties.location.label "Asukoht:">
-<!ENTITY calendarproperties.name.label     "Nimi:">
-<!ENTITY calendarproperties.readonly.label "Kirjutuskaitstud">
-<!ENTITY calendarproperties.firealarms.label "Näita meeldetuletusi">
-<!ENTITY calendarproperties.cache.label    "Puhver (EKSPERIMENTAALNE, vajab taaskäivitust)">
-<!ENTITY calendarproperties.enabled.label "Lülita kalender sisse">
+<!ENTITY calendarproperties.color.label           "Värv:">
+<!ENTITY calendarproperties.webdav.label          "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label          "CalDAV">
+<!ENTITY calendarproperties.wcap.label            "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label          "Vorming:">
+<!ENTITY calendarproperties.location.label        "Asukoht:">
+<!ENTITY calendarproperties.name.label            "Nimi:">
+<!ENTITY calendarproperties.readonly.label        "Kirjutuskaitstud">
+<!ENTITY calendarproperties.firealarms.label      "Näita meeldetuletusi">
+<!ENTITY calendarproperties.cache.label           "Puhver (EKSPERIMENTAALNE, vajab taaskäivitust)">
+<!ENTITY calendarproperties.enabled.label         "Lülita kalender sisse">
+<!ENTITY calendarproperties.forceDisabled.label   "Sellele kalendrile ei leitud teenusepakkujat. Sageli põhjustab seda mõne lisa keelamine või eemaldamine.">
+<!ENTITY calendarproperties.unsubscribe.label     "Lõpeta tellimine">
+<!ENTITY calendarproperties.unsubscribe.accesskey "L">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Kalendri avaldamine">
@@ -330,19 +322,25 @@
 <!ENTITY calendar.select.dialog.title    "Vali kalender">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Trüki kalender">
-<!ENTITY calendar.print.title.label "Pealkiri:">
-<!ENTITY calendar.print.layout.label "Paigutus:">
-<!ENTITY calendar.print.range.label "Trükitakse">
-<!ENTITY calendar.print.currentview.label "Sündmused aktiivses vaates">
-<!ENTITY calendar.print.selected.label "Valitud sündmused">
-<!ENTITY calendar.print.custom.label "Kohandatud ajavahemik:">
-<!ENTITY calendar.print.from.label "Alates:">
-<!ENTITY calendar.print.to.label "Kuni:">
-<!ENTITY calendar.print.settingsGroup.label "Trükkimise sätted">
+<!ENTITY calendar.print.window.title                 "Prindi kalender">
+<!ENTITY calendar.print.title.label                  "Pealkiri:">
+<!ENTITY calendar.print.layout.label                 "Paigutus:">
+<!ENTITY calendar.print.range.label                  "Prinditakse">
+<!ENTITY calendar.print.currentView2.label           "Sündmused aktiivses vaates">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valitud sündmused ja ülesanded">
+<!ENTITY calendar.print.tasks.label                  "Ülesanded">
+<!ENTITY calendar.print.events.label                 "Sündmused">
+<!ENTITY calendar.print.selected.label               "Valitud sündmused">
+<!ENTITY calendar.print.custom.label                 "Kohandatud ajavahemik:">
+<!ENTITY calendar.print.from.label                   "Alates:">
+<!ENTITY calendar.print.to.label                     "Kuni:">
+<!ENTITY calendar.print.settingsGroup.label          "Printimise sätted">
+<!ENTITY calendar.print.optionsGroup.label           "Valikud">
+<!ENTITY calendar.print.taskswithnoduedate.label     "Tähtajata ülesanded">
+<!ENTITY calendar.print.completedtasks.label         "Lõpetatud ülesanded">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Üksikasjad…">
-<!ENTITY calendar.error.number "Vea number:">
+<!ENTITY calendar.error.code "Veakood:">
 <!ENTITY calendar.error.description "Kirjeldus:">
 <!ENTITY calendar.error.title "Tekkis viga">

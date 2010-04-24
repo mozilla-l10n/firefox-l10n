@@ -42,7 +42,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Event Menu -->
 <!ENTITY calendar.open.file.label               "Ava kalender…">
 <!ENTITY calendar.open.file.key                 "O">
 <!ENTITY calendar.open.file.accesskey           "a">
@@ -138,14 +137,15 @@
 <!ENTITY helpMenuWin.label                      "Abi"> 
 <!ENTITY helpMenuWin.accesskey                  "b">
 
-<!-- Toolbar items -->
 <!ENTITY fileMenu.label                         "Fail">
 <!ENTITY fileMenu.accesskey                     "F">
 
 <!ENTITY editMenu.label                         "Redigeerimine">
 <!ENTITY editMenu.accesskey                     "R">
+
 <!ENTITY optionsCmd.label                       "Valikud…">
 <!ENTITY optionsCmd.accesskey                   "V">
+
 <!ENTITY preferencesCmd.label                   "Eelistused…">
 <!ENTITY preferencesCmd.accesskey               "E">
 <!ENTITY preferencesCmdMac.label                "Eelistused…">
@@ -161,6 +161,9 @@
 <!ENTITY aboutCmd.accesskey                     "t">
 <!ENTITY updateCmd.label                        "Kontrolli uuendusi…">
 <!ENTITY updateCmd.accesskey                    "K">
+
+<!ENTITY sunbird.export.calendar.label          "Kalendri eksportimine…">
+<!ENTITY sunbird.export.calendar.accesskey      "E">
 
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "Aken">

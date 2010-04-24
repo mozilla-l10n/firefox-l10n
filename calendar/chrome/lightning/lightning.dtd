@@ -49,9 +49,12 @@
 <!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Sündmus…">
-<!ENTITY lightning.menupopup.new.task.label     "Ülesanne…">
-<!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
+<!ENTITY lightning.menupopup.new.event.label        "Sündmus…">
+<!ENTITY lightning.menupopup.new.event.accesskey    "S">
+<!ENTITY lightning.menupopup.new.task.label         "Ülesanne…">
+<!ENTITY lightning.menupopup.new.task.accesskey     "Ü">
+<!ENTITY lightning.menupopup.new.calendar.label     "Kalender…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Ava">
@@ -61,15 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalender…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Kalender">
-<!ENTITY lightning.calendar.accesskey        "K">
-<!ENTITY lightning.tasks.label               "Ülesanded">
-<!ENTITY lightning.tasks.accesskey           "Ü">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalender">
+<!ENTITY lightning.menu.view.calendar.accesskey        "K">
+<!ENTITY lightning.menu.view.tasks.label               "Ülesanded">
+<!ENTITY lightning.menu.view.tasks.accesskey           "Ü">
 
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Sündmus">
-<!ENTITY lightning.toolbar.newtask.label      "Ülesanne">
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Sündmused ja ülesanded">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "E-post">
@@ -78,6 +81,10 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Ülesanded">
 <!ENTITY lightning.toolbar.task.accesskey     "Ü">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Sündmus">
+<!ENTITY lightning.toolbar.newtask.label      "Ülesanne">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Päev">
@@ -98,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "See kiri sisaldab kutset sündmusele.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "S">
 <!ENTITY lightning.keys.todo.new "Ü">
 

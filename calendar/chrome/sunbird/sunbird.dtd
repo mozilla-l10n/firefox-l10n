@@ -38,9 +38,15 @@
 <!ENTITY sunbird.cut.button.tooltip                        "Lõika" >
 <!ENTITY sunbird.copy.button.tooltip                       "Kopeeri" >
 <!ENTITY sunbird.paste.button.tooltip                      "Aseta" >
-<!ENTITY sunbird.print.button.tooltip                      "Trüki kalender" >
+<!ENTITY sunbird.print.button.tooltip                      "Prindi kalender" >
 <!ENTITY sunbird.delete.button.tooltip                     "Kustuta valitud sündmus või ülesanne" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Värskenda kõiki võrgukalendreid" >
+<!ENTITY sunbird.import.button.tooltip                     "Impordi sündmused kohalikust failist" >
+<!ENTITY sunbird.export.button.tooltip                     "Ekspordi sündmused kohalikku faili" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Telli võrgukalender" >
+<!ENTITY sunbird.publish.button.tooltip                    "Avalda sündmused võrgukalendrisse" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Otsi sündmusi ja vaata nende nimekirja" >
+<!ENTITY sunbird.edit.button.tooltip                       "Muuda valitud sündmust" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Vali päev" >
 <!ENTITY sunbird.cut.button.label                          "Lõika" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Aseta" >
 <!ENTITY sunbird.delete.button.label                       "Kustuta" >
 <!ENTITY sunbird.remotereload.button.label                 "Värskenda" >
+<!ENTITY sunbird.import.button.label                       "Impordi" >
+<!ENTITY sunbird.export.button.label                       "Ekspordi" >
+<!ENTITY sunbird.subscribe.button.label                    "Telli" >
+<!ENTITY sunbird.publish.button.label                      "Avalda" >
+<!ENTITY sunbird.unifinder.button.label                    "Otsi sündmusi" >
+<!ENTITY sunbird.edit.button.label                         "Muuda" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Mine päeva juurde" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Päeva vaade" >
