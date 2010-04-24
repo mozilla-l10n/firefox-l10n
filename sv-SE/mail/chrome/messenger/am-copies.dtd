@@ -33,11 +33,15 @@
 <!ENTITY copyAndFolderTitle.label "Kopior och mappar">
 <!ENTITY sendingPrefix.label "När meddelanden skickas: ">
 <!ENTITY fccMailFolder.label "Lägg en kopia i:">
-<!ENTITY fccMailFolder.accesskey "k">
+<!ENTITY fccMailFolder.accesskey "L">
 <!ENTITY fccReplyFollowsParent.label "Lägg svaret i samma mapp som det besvarade meddelandet">
 <!ENTITY fccReplyFollowsParent.accesskey "b">
+<!ENTITY ccAddress.label "Kopia till dessa adresser:">
+<!ENTITY ccAddress.accesskey "K">
+<!ENTITY ccAddressList.emptytext "Separera adresserna med komman">
 <!ENTITY bccAddress.label "Dold kopia till dessa adresser:">
 <!ENTITY bccAddress.accesskey "D">
+<!ENTITY bccAddressList.emptytext "Separera adresserna med komman">
 <!ENTITY saveMessageDlg.label "Visa bekräftelse när meddelanden sparas">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!ENTITY sentFolderOn.label "Mappen ”Skickat” i:">
