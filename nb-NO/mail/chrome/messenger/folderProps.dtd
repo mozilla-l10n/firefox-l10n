@@ -72,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
-<!ENTITY folderCheckForNewMessages.label         "Se etter nye meldinger for denne mappen">
-<!ENTITY folderCheckForNewMessages.accesskey     "S">
+<!ENTITY folderCheckForNewMessages2.label         "Ved nedlasting av nye meldinger for denne kontoen, kontroller alltid denne mappen">
+<!ENTITY folderCheckForNewMessages2.accesskey     "d">
 
 <!ENTITY offlineFolder.check.label               "Velg denne mappen for frakoblet bruk">
 <!ENTITY offlineFolder.check.accesskey           "V">
