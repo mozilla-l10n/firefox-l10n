@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext          "Sisesta otsing või aadress">
+
 <!ENTITY back.label                "Tagasi">
 <!ENTITY forward.label             "Edasi">
 <!ENTITY reload.label              "Laadi uuesti">
@@ -36,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Lisad">
 <!ENTITY addonsLocal.label         "Paigaldatud lisad">
+<!ENTITY addonsUpdate.label        "Uuenda">
 <!ENTITY addonsRepo.label          "Hangi laiendusi">
 <!ENTITY addonsRecommended.label   "Soovitatud">
 <!ENTITY addonsSearch.label        "Otsi">
@@ -65,8 +68,6 @@
 <!ENTITY noResults.label           "Tulemused puuduvad">
 <!ENTITY allBookmarks.label        "Vaata kõiki järjehoidjaid">
 
-<!ENTITY searchEngine.addSearch    "Lisa otsing:">
-
 <!ENTITY bookmarkPopup.label       "Leht järjehoidjatesse lisatud">
 <!ENTITY bookmarkRemove.label      "Eemalda">
 <!ENTITY bookmarkEdit.label        "Redigeeri">
@@ -91,3 +92,6 @@
 <!ENTITY consoleErrFile.label      "Fail:">
 <!ENTITY consoleErrLine.label      "Rida:">
 <!ENTITY consoleErrColumn.label    "Veerg:">
+
+<!ENTITY contextOpenInNewTab.label "Ava link uuel kaardil">
+<!ENTITY contextSaveImage.label    "Salvesta pilt">
