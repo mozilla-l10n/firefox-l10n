@@ -20,7 +20,7 @@
 <!ENTITY aboutSupport.appBasicsPlugins         "Paigaldatud pluginad">
 <!ENTITY aboutSupport.appBasicsBuildConfig     "Kompileerimise konfiguratsioon">
 
-<!ENTITY aboutSupport.show.label               "Ava rakendust sisaldav kaust">
+<!ENTITY aboutSupport.show.label               "Ava profiili sisaldav kaust">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
