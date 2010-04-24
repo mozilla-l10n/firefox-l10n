@@ -35,8 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
 
+<!-- Labels -->
 <!ENTITY newFolderDialog.title    "Uus kaust">
 <!ENTITY name.label               "Nimi:">
 <!ENTITY name.accesskey           "N">
@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label "Uus kaust võib sisaldada:">
 <!ENTITY foldersOnly.label        "Vaid kaustu">
 <!ENTITY messagesOnly.label       "Vaid kirju">
+<!ENTITY accept.label             "Loo kaust">
+<!ENTITY accept.accesskey         "o">

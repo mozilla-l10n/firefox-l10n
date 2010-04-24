@@ -19,4 +19,4 @@
 <!ENTITY serverPort.label              "Port: ">
 <!ENTITY userName.label                "Kasutajanimi: ">
 <!ENTITY connectionSecurity.label      "Ühenduse turvalisus: ">
-<!ENTITY useSecureAuthentication.label "Turvaline autentimine: ">
+<!ENTITY authMethod.label              "Autentimise viis: ">

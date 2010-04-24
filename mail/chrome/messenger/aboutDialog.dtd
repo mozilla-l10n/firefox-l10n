@@ -2,9 +2,6 @@
 <!ENTITY aboutButton.label           "&lt; Tagasi">
 <!ENTITY aboutButton.accesskey       "T">
 <!ENTITY aboutVersion                "versioon">
-<!ENTITY copyrightText               "&#169;1998-2009 autorid. Kõik õigused kaitstud. Mozilla Thunderbird ja 
-                                      Thunderbirdi logod on Mozilla Foundationi kaubamärgid.  Kõik õigused 
-                                      kaitstud.">
 <!ENTITY aboutMenu.label             "Teave">
 <!ENTITY aboutMenu.accesskey         "T">
 <!ENTITY aboutCredits.label          "Autorid">
