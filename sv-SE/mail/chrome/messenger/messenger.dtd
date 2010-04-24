@@ -772,8 +772,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Ignorera varningen">
 <!ENTITY reportPhishingError1.label "Det här meddelandet verkar inte vara en bluff.">
 
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mer">
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Avsändaren av meddelandet har begärt att få bli underrättad om när du läser det här meddelandet. Vill du underrätta avsändaren?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorera begäran">
+<!ENTITY mdnBarSendButton.label "Skicka kvitto">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
