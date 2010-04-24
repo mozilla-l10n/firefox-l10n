@@ -660,6 +660,13 @@
 <!ENTITY contextPrintPreview.label     "Podgląd wydruku">
 <!ENTITY contextPrintPreview.accesskey "g">
 
+<!-- Thread Pane Column Picker -->
+<!ENTITY columnPicker.resetToInbox.label             "Przywróć domyślne">
+<!ENTITY columnPicker.applyTo.label                  "Zastosuj ustawienia do…">
+<!ENTITY columnPicker.applyToFolder.label            "Folderu…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Folderu i wszystkich folderów w nim zawartych…">
+<!ENTITY columnPicker.thisFolder.label               "Tego folderu">
+
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label       "Odtwórz">
 <!ENTITY contextPlay.accesskey   "O">
