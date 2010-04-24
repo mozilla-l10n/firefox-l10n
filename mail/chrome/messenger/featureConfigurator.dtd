@@ -1,114 +1,91 @@
-<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the
-Migration Assistant page. It should match featureConfiguratorCmd.label in
-baseMenuOverlay.dtd -->
+<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.title "Migrationsassistenten">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.heading): Heading for the page -->
-<!ENTITY featureConfigurator.heading "Funktioner i Thunderbird 3 som kan vara bra att känna till">
+<!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
+<!ENTITY featureConfigurator.heading1 "Nya funktioner i &brandShortName; som kan vara bra att känna till">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.para1): The tone of this paragraph
-is important: we tried for a tone that promotes the new features (which we
-believe are good and worth users learning about), but also emphasizing that we
-think it's important to preserve user choice. -->
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 har en del nya funktioner som vi tror att många kommer att gilla. Eftersom smaken och behoven är olika har vi gjort det lätt för dig att anpassa Thunderbird.">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.1): The tone of this paragraph is important: we tried for a tone that promotes the new features (which we believe are good and worth users learning about), but also emphasizing that we think it's important to preserve user choice. -->
+<!ENTITY featureConfigurator.para.1 "Den här nya versionen av &brandShortName; har en del nya funktioner som vi tror att många kommer att gilla. Eftersom smaken och behoven är olika har vi gjort det lätt för dig att anpassa &brandShortName;.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
-that this page is active (the buttons change the UI), and that they can get
-back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Använd den här sidan för att välja bland dessa nya inställningar. Du kan alltid gå tillbaka till Migrationsassistenten via Hjälpmenyn.">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
+<!ENTITY featureConfigurator.para.2 "Använd den här sidan för att välja bland dessa nya inställningar. Du kan alltid gå tillbaka till Migrationsassistenten via Hjälpmenyn.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
-IMAP synchronization feature. The words should probably echo the word used
-in the per-account dialog.-->
-<!ENTITY featureConfigurator.imap.heading "Synkronisera IMAP-meddelanden">
+<!ENTITY featureConfigurator.toolbar.heading "Verktygsfältet Nytt meddelande">
+<!ENTITY featureConfigurator.toolbar.new.status "Verktygsfält för meddelandeknappar">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Ett verktygsfält med knappar att använda när du skapar nya meddelanden.">
 
-<!ENTITY featureConfigurator.imap.status.all "Alla dina IMAP-mappar kommer att ”synkroniseras”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original.status "Använd originalverktygsfältet">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Behåll egna verktygsfältsknappar i tillägg till de nya meddelandeknapparna.">
 
-<!ENTITY featureConfigurator.imap.status.none "Inga IMAP-mappar kommer att ”synkroniseras”.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Meddelandeåtgärder som svara och vidarebefordra har flyttats från verktygsfältet till fältet med meddelanderubrikerna. På så sätt knyts knapparna direkt till meddelandet samtidigt som mer plats lämnas fri i verktygsfältet för sökrutan och eventuella tillägg.">
 
-<!ENTITY featureConfigurator.imap.status.some "Vissa IMAP-mappar kommer att ”synkroniseras”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
+<!ENTITY featureConfigurator.addOn.installing "Installerar…">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
-is intended to explain why we've implemented this and picked it as a default.-->
-<!ENTITY featureConfigurator.benefits.label "Fördelar">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
+<!ENTITY featureConfigurator.addOn.installed "Installerade">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.alternative.label): The heading here
-is intended to explain why it might not be the right default for some users.-->
-<!ENTITY featureConfigurator.alternative.label "Alternativet">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Det här tillägget är redan installerat.">
 
-<!ENTITY featureConfigurator.syncBenefits.para "Gör att du kan läsa din e-post även när du inte är uppkopplad till internet, samt gör det lätt att hitta meddelanden som innehåller vissa ord i stället för ett visst ämne och namn.">
-<!ENTITY featureConfigurator.syncAlternative.para "Eftersom Thunderbird kommer att hämta hem all e-post till datorn kan du välja att stänga av denna inställning om du har litet diskutrymme eller om du måste betala för internettrafiken.">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Kompakta rubriker">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
-lower case is intentional, but may be overriden if that doesn't make sense
-because of a specific language context.-->
-<!ENTITY featureConfigurator.syncAll.button "synkronisera alla">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Den kompakta vyn för meddelandevisning har flyttats till ett tillägg med ytterligare alternativ.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.syncNone.button): The choice of
-lower case is intentional, but may be overriden if that doesn't make sense
-because of a specific language context.-->
-<!ENTITY featureConfigurator.syncNone.button "synkronisera ingenting">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Du har använt den kompakta vyn för meddelandevisning. Den här funktionen har nu flyttats till ett eget tillägg och vi rekommenderar dig att installera det om du vill fortsätta använda den kompakta vyn.">
 
-<!ENTITY featureConfigurator.advancedUsers.label "Avancerade användare:">
-<!ENTITY featureConfigurator.advancedUsers.para "Du kan även anpassa inställningen för varje konto och mapp:">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
+<!ENTITY featureConfigurator.collapsedHeaders.install "Installera Compact Header…">
 
-<!ENTITY featureConfigurator.toolbar.heading "Nytt verktygsfält">
-<!ENTITY featureConfigurator.toolbar.new.status "Ett nytt verktygsfält kommer att användas.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
+<!ENTITY featureConfigurator.folderColumns.heading "Avancerade mappkolumner">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
-word 'original' is chosen deliberately to be neutral, vs. 'old' which in
-English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Använder originalverktygsfältet.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.weak "Tillägget Extra Folder Columns ersätter vad som tidigare var en avancerad inställning. Vill du hålla reda på antalet meddelanden och vilket utrymme på disken som varje mapp har kan du installera detta tillägg.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Ett renare gränssnitt än det tidigare och som lämnar mer utrymme för det förbättrade sökfältet och för tillägg.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Om du föredrar originalverktygsfältet, om du inte vill anpassa det igen eller om du inte använder layouten med meddelandefältet.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.strong "Du har tidigare använt avancerade mappkolumner. Den här funktionen har nu flyttats till ett eget tillägg och vi rekommenderar dig att installera det här.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useOriginalToolbar.button "använd originalverktygsfältet">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
+<!ENTITY featureConfigurator.folderColumns.install "Installera Extra Columns…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.useNewToolbar.button): The
 choice of lower case is intentional, but may be overriden if that doesn't make
 sense because of a specific language context.-->
 <!ENTITY featureConfigurator.useNewToolbar.button "använd det nya verktygsfältet">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.heading): The
-words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.unifiedFolders.heading "Läget ”sammanförda mappar”">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
+<!ENTITY featureConfigurator.autoSync.para "Den här nya versionen av &brandShortName; har en ny och bättre sökfunktion. Vill du använda denna nya sökfunktion behöver du synkronisera dina meddelanden.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.smart.status): This
-shows that the current mode in the folder pane is the Unified Folders mode.-->
-<!ENTITY featureConfigurator.unifiedFolders.smart.status "Använder läget ”sammanförda mappar”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
+<!ENTITY featureConfigurator.autoSync.on "Synkronisera">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Du får snabbare meddelandevisning och bättre sökresultat.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.unifiedFolders.all.status): This
-shows that the current mode in the folder pane is not the Unified Folders mode.-->
-<!ENTITY featureConfigurator.unifiedFolders.all.status "Använder inte läget ”sammanförda mappar”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
+<!ENTITY featureConfigurator.autoSync.off "Synkronisera inte">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Du får en långsammare meddelandevisning och ofullständiga sökresultat.">
 
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para "För användare med många konton kan den här vyn gruppera mappar som inkorgar tillsammans så att du får en samlad bild av din e-post.">
-<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Om du hellre vill dela upp information mellan konton föredrar du nog läget ”Alla mappar”.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
+<!ENTITY featureConfigurator.autoSync.some "Synkronisering per konto">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Anpassa synkroniseringsbehoven per konto och mapp.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useUnifiedFolders.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useUnifiedFolders.button "använd läget ”sammanförda mappar”">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
+<!ENTITY featureConfigurator.diskSpace.currentSize "Det totala meddelandeutrymmet:">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useAllFolders.button "använd läget ”alla mappar”">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Ledigt utrymme:">
 
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Hopfällda rubriker">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Krävs:">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
-of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 har förbättrat den detaljerade vyn för meddelanderubriker med bland annat knappar för meddelanderelaterade åtgärder. Det finns också ">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
+<!ENTITY featureConfigurator.diskSpace.warning "Du har väldigt lite ledigt utrymme!">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
-the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaLinkName "tillägg">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaAfterLink): The part of
-the paragraph after the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaAfterLink " som ger fler alternativ.">
-
+<!ENTITY featureConfigurator.previousButton "Föregående">
+<!ENTITY featureConfigurator.nextButton "Nästa">
+<!ENTITY featureConfigurator.closeButton "Stäng">
