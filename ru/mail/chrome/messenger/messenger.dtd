@@ -608,6 +608,11 @@
 <!ENTITY contextPrint.accesskey "П">
 <!ENTITY contextPrintPreview.label "Предварительный просмотр">
 <!ENTITY contextPrintPreview.accesskey "р">
+<!ENTITY columnPicker.resetToInbox.label "Установить настройки колонок по умолчанию">
+<!ENTITY columnPicker.applyTo.label "Применить колонки к…">
+<!ENTITY columnPicker.applyToFolder.label "Папке…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Папке и вложенным папкам…">
+<!ENTITY columnPicker.thisFolder.label "Этой папке">
 <!ENTITY contextPlay.label "Воспроизвести">
 <!ENTITY contextPlay.accesskey "с">
 <!ENTITY contextPause.label "Приостановить">
