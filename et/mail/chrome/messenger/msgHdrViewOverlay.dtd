@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label                  "muud tegevused">
-<!ENTITY otherActionsShowConversation.label        "kuva vestlusena">
-<!ENTITY otherActionsShowConversation.accesskey    "s">
+<!ENTITY otherActionsOpenConversation.label        "ava vestlusena">
+<!ENTITY otherActionsOpenConversation.accesskey    "s">
 <!ENTITY otherActionsOpenInNewWindow.label         "ava uues aknas">
 <!ENTITY otherActionsOpenInNewWindow.accesskey     "v">
 <!ENTITY otherActionsOpenInNewTab.label            "ava uuel kaardil">

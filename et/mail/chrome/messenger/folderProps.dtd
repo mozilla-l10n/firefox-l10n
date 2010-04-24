@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey             "a">
 <!ENTITY folderCharsetOverride.label            "Rakendatakse vaikimisi kõigile kaustas olevatele kirjadele (üksikute kirjade kodeeringut ja automaatselt tuvastatud sätteid ignoreeritakse)">
 <!ENTITY folderCharsetOverride.accesskey        "R">
-<!ENTITY folderRebuildSummaryFile.label         "Loo indeks uuesti">
-<!ENTITY folderRebuildSummaryFile.accesskey     "o">
-<!ENTITY folderRebuildSummaryFileTip.label      "Loo kokkuvõtte fail uuesti">
+<!ENTITY folderRebuildSummaryFileTip2.label     "Loo kokkuvõtte fail uuesti">
+<!ENTITY folderRebuildSummaryFile2.label        "Paranda kaust">
+<!ENTITY folderRebuildSummaryFile2.accesskey    "P">
+<!ENTITY folderRebuildSummaryFile.explanation   "Mõnikord saab kausta kokkuvõtte fail (.msf) kahjustada ja kirjad võivad näida kadununa või kustutatud kirjad jääda endiselt nähtavaks; kausta parandamine võib need probleemid lahendada.">
+<!ENTITY folderIncludeInGlobalSearch.label      "Kirjad selles kaustas kaasatakse üldotsingu tulemustesse">
+<!ENTITY folderIncludeInGlobalSearch.accesskey  "K">
 
 <!ENTITY retention.label                        "Säilitamise reeglid">
 <!ENTITY retentionUseAccount.label              "Kasutatakse minu konto sätteid">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey      "l">
 
 <!ENTITY folderSynchronizationTab.label         "Sünkroniseerimine">
-<!ENTITY folderCheckForNewMessages.label        "Kontrollitakse uusi kirju selles kaustas">
-<!ENTITY folderCheckForNewMessages.accesskey    "K">
+<!ENTITY folderCheckForNewMessages2.label       "Uute kirjade hankimisel kontrollitakse alati seda kausta">
+<!ENTITY folderCheckForNewMessages2.accesskey   "U">
 
 <!ENTITY offlineFolder.check.label              "See kaust märgitakse kasutamiseks võrguta režiimis">
 <!ENTITY offlineFolder.check.accesskey          "S">

@@ -22,6 +22,9 @@
 <!ENTITY imap.label                       "IMAP">
 <!ENTITY pop.label                        "POP">
 <!ENTITY smtp.label                       "SMTP">
+<!ENTITY imap.description                 "IMAP - kaustade avamiseks ja kirjade lugemiseks mitmest arvutist">
+<!ENTITY pop.description                  "POP - kirjad tõmmatakse sellesse arvutisse, kaustad on ainult kohalikuks kasutamiseks">
+<!ENTITY recommended-appendix.label       "(soovitatav)">
 
 <!ENTITY manualSetup.label                "Käsitsi seadistamine…">
 <!ENTITY manualSetup.accesskey            "K">

@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title "Kausta ümbernimetamine">
 <!ENTITY rename.label             "Sisesta kausta uus nimi:">
 <!ENTITY rename.accesskey         "S">
+<!ENTITY accept.label             "Nimeta ümber">
+<!ENTITY accept.accesskey         "N">

@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey         "P">
 <!ENTITY fccReplyFollowsParent.label     "Paigutatakse vastused vastatava kirjaga samasse kausta">
 <!ENTITY fccReplyFollowsParent.accesskey "s">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label                 "Koopia saadetakse:">
+<!ENTITY ccAddress.accesskey             "K">
+<!ENTITY ccAddressList.emptytext         "eralda aadressid komadega">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label                "Pimekoopia saadetakse aadressile:">
+<!ENTITY bccAddress.label                "Pimekoopia saadetakse:">
 <!ENTITY bccAddress.accesskey            "P">
+<!ENTITY bccAddressList.emptytext        "eralda aadressid komadega">
 <!ENTITY saveMessageDlg.label            "Kirjade salvestamisel küsitakse kinnitust">
 <!ENTITY saveMessageDlg.accesskey        "j">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
