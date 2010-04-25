@@ -4,7 +4,7 @@
 <!ENTITY proxyTitle.label           "Puhverserverite häälestamine internetti pääsemiseks">
 <!ENTITY noProxyTypeRadio.label     "Puhverserver puudub">
 <!ENTITY noProxyTypeRadio.accesskey "P">
-<!ENTITY  systemTypeRadio.label     "Kasutatakse süsteemseid puverserveri sätteid">
+<!ENTITY  systemTypeRadio.label     "Kasutatakse süsteemseid puhverserveri sätteid">
 <!ENTITY  systemTypeRadio.accesskey "u">
 <!ENTITY WPADTypeRadio.label        "Puhverserveri sätted tuvastatakse automaatselt">
 <!ENTITY WPADTypeRadio.accesskey    "h">
