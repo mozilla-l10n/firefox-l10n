@@ -180,11 +180,11 @@
 <!ENTITY collapseAllThreadsCmd.label "Contraer todas las conversaciones">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "No leídos">
+<!ENTITY unreadMsgsCmd.label "Mensajes no leídos">
 <!ENTITY unreadMsgsCmd.accesskey "N">
-<!ENTITY threadsWithUnreadCmd.label "Conversaciones con no leídos">
+<!ENTITY threadsWithUnreadCmd.label "Conversaciones con m. no leídos">
 <!ENTITY threadsWithUnreadCmd.accesskey "a">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Conversaciones observadas con no leídos">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Conversaciones observadas con m. no leídos">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "b">
 <!ENTITY ignoredThreadsCmd.label "Conversaciones ignoradas">
 <!ENTITY ignoredThreadsCmd.accesskey "d">
