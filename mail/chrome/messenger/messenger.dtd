@@ -403,6 +403,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY openMessageWindowCmd.label "메시지 열기">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label	"새 탭으로 대화 열기">
+<!ENTITY openConversationCmd.accesskey	"s">
+<!ENTITY openConversationCmd.key	"o">
 <!ENTITY openFeedMessage.label "피드 열기">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "새 창에서 웹 문서 보기">
@@ -549,6 +552,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY contextOpenNewWindow.label "새 창에 메시지 열기">
 <!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextOpenConversation.label		"새 탭으로 대화 열기"><!--  en-US: "Open Message in Conversation"  -->
+<!ENTITY contextOpenConversation.accesskey	"n">
 <!ENTITY contextOpenNewTab.label "새 탭으로 메시지 열기">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "새로 편집…">
@@ -579,11 +584,24 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "인쇄 미리 보기">
 <!ENTITY contextPrintPreview.accesskey "v">
+
+<!ENTITY columnPicker.applyTo.label "항목에 적용…">
+<!ENTITY columnPicker.applyToFolder.label "폴더…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "폴더안 전체…">
+<!ENTITY columnPicker.thisFolder.label "현재 폴더">
+<!ENTITY columnPicker.resetToInbox.label "기본값으로 재설정">
+
 <!ENTITY junkInfoButton.label "?">
 
-<!ENTITY more.label			"모두 표시">
+<!--  MDN Bar  -->
+<!ENTITY mdnBarMessage.label		"보낸 사람이  이 메세지 열람 확인을 받기를 원하고 있습니다. 송신자에게 당신이 읽었다는 확인 정보를 보내시겠습니까?">
+<!ENTITY mdnBarIgnoreButton.label	"무시">
+<!ENTITY mdnBarSendButton.label		"보내기">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "전체 검색">
+
+<!ENTITY searchAllMessages.label.base	"모든 메세지 검색... #1">
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
 
 <!ENTITY AddToAddressBook.label "주소록에 추가…">
 <!ENTITY AddToAddressBook.accesskey "B">

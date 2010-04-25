@@ -43,8 +43,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton.label "기타 기능">
-<!ENTITY otherActionsShowConversation.label "대화로 보기">
-<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenConversation.label "대화로 열기">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "새 창으로 열기">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "w">
 <!ENTITY otherActionsOpenInNewTab.label "새 탭으로 열기">
