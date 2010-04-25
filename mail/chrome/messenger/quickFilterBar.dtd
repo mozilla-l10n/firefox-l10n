@@ -157,7 +157,7 @@
      if you don't use 'f' for your localization.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac
-         "&lt;Ctrl+F&gt;">
+         "(Ctrl+F)">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
@@ -166,7 +166,7 @@
      localization.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac
-         "&lt;&#x2318;F&gt;">
+         "(&#x2318;F)">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
@@ -183,6 +183,17 @@
      -->
 <!ENTITY quickFilterBar.textbox.minWidth
          "280">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
+     This label explains what the sender/recipients/subject/body buttons do.
+     This string should ideally be kept short because the label and the text
+     filter buttons share their bar (that appears when there is text in the text
+     filter box) with the list of tags when the tag filter is active, and the
+     tag sub-bar wants as much space as possible.  (Overflow is handled by an
+     arrow scroll box.)
+     -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filter pesan berdasarkan:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
