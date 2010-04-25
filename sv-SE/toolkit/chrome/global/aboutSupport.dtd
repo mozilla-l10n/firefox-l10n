@@ -2,7 +2,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Den här sidan innehåller teknisk information som kan vara till hjälp när du 
+  Den här sidan innehåller teknisk information som kan vara till hjälp när du
   försöker lösa ett problem. Vill du se svaren på några av de vanligaste frågorna
   om &brandShortName; kan du besöka vår <a id='supportLink'>supportwebbplats</a>.
 ">
