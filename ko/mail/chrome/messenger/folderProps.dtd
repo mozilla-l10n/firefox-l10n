@@ -5,9 +5,13 @@
 <!ENTITY folderCharsetTab.accesskey "E">
 <!ENTITY folderCharsetOverride.label "폴더 내의 모든 메시지에 기본 적용 (개별 메시지 문자 및 자동 코딩 무시)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "인덱스 재생성">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "요약 파일 재생성">
+
+<!ENTITY folderRebuildSummaryFileTip2.label	"요약 파일 색인을 재생성 합니다.">
+<!ENTITY folderRebuildSummaryFile2.label	"폴더 복구">
+<!ENTITY folderRebuildSummaryFile2.accesskey	"R">
+<!ENTITY folderRebuildSummaryFile.explanation	"폴더 색인 파일 (.msf) 손상되어 삭제한 메세지가 표시되는 경우가 있습니다. 이러한 문제가 일어났을 때 폴더를 복구 해 주시기 바랍니다.">
+<!ENTITY folderIncludeInGlobalSearch.label	"이 폴더 메세지를 검색 대상으로 포함">
+<!ENTITY folderIncludeInGlobalSearch.accesskey	"G">
 
 <!ENTITY retention.label "메시지 보관 정책">
 <!ENTITY retentionUseAccount.label  "내 계정 설정으로 사용">
@@ -31,8 +35,8 @@
 
 
 <!ENTITY folderSynchronizationTab.label          "동기화">
-<!ENTITY folderCheckForNewMessages.label "새 메시지를 이 폴더로 확인">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
+<!ENTITY folderCheckForNewMessages2.label "폴더에 새 메시지 도착 여부 확인">
+<!ENTITY folderCheckForNewMessages2.accesskey "C">
 
 <!ENTITY offlineFolder.check.label "오프라인 사용을 위한 폴더 선택">
 <!ENTITY offlineFolder.check.accesskey "S">
