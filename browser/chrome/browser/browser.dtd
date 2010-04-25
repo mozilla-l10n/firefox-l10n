@@ -338,7 +338,6 @@
 <!ENTITY organizeBookmarks.label "북마크 관리…">
 
 <!ENTITY addons.label "부가 기능">
-<!ENTITY addons.tooltip "설치된 부가 기능 관리하기">
 <!ENTITY addons.accesskey "A">
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "C">
@@ -405,4 +404,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "자세히 보기…">
 <!ENTITY downloadMonitor2.tooltip "다운로드 창 열기 선택">
 <!ENTITY allTabs.filter.emptyText		"탭 검색">
-
