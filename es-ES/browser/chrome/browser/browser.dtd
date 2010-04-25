@@ -11,7 +11,7 @@
 <!ENTITY closeOtherTabs.label "Cerrar las demás pestañas">
 <!ENTITY closeOtherTabs.accesskey "C">
 <!ENTITY openTabInNewWindow.label "Abrir en una ventana nueva">
-<!ENTITY openTabInNewWindow.accesskey "s">
+<!ENTITY openTabInNewWindow.accesskey "n">
 <!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
 <!ENTITY bookmarkThisTab.accesskey "ñ">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
