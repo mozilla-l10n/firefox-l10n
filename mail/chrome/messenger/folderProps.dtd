@@ -46,10 +46,10 @@
 <!ENTITY folderCharsetOverride.label             "Standard allen Nachrichten im Ordner zuweisen (individuelle Zeichenkodierung und autom. Bestimmung werden ignoriert)">
 <!ENTITY folderCharsetOverride.accesskey         "S">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Zusammenfassungsdatei (*.msf) neu erstellen">
-<!ENTITY folderRebuildSummaryFile2.label         "Ordner reparieren">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "O">
-<!ENTITY folderRebuildSummaryFile.explanation    "Die Zusammenfassungsdatei (*.msf) wird manchmal beschädigt, dann fehlen scheinbar Nachrichten oder gelöschte Nachrichten werden weiterhin aufgelistet. Reparieren des Ordners kann die Probleme meist beheben.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Nachrichten dieses Ordners bei der globalen Suche in allen Konten einschließen">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparieren">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Die Zusammenfassungsdatei (*.msf) wird manchmal beschädigt, dadurch fehlen scheinbar Nachrichten oder gelöschte Nachrichten werden weiterhin aufgelistet. Reparieren der Zusammenfassungsdatei kann die Probleme meist beheben.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Nachrichten dieses Ordners für die globale Suche indizieren">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "N">
 
 <!ENTITY retention.label "Speicherplatz">
