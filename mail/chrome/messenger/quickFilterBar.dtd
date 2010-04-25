@@ -1,0 +1,30 @@
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Паліца хуткага пошуку">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "х">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Пераключыць паліцу хуткага пошуку">
+<!ENTITY quickFilterBar.sticky.tooltip "Захоўваць ужытыя сіты пры змяненні папак">
+<!ENTITY quickFilterBar.barLabel.label "Хуткі пошук:">
+<!ENTITY quickFilterBar.unread.label "Непрачытаныя">
+<!ENTITY quickFilterBar.unread.tooltip "Паказваць толькі непрачытаныя лісты">
+<!ENTITY quickFilterBar.starred.label "З зоркамі">
+<!ENTITY quickFilterBar.starred.tooltip "Паказваць толькі лісты з зоркамі">
+<!ENTITY quickFilterBar.inaddrbook.label "Сувязь">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Паказваць толькі лісты ад людзей, адрасы якіх у вашай адраснай кнізе ">
+<!ENTITY quickFilterBar.tags.label "Тэгі">
+<!ENTITY quickFilterBar.tags.tooltip "Паказваць толькі лісты з тэгамі">
+<!ENTITY quickFilterBar.attachment.label "Далучэнне">
+<!ENTITY quickFilterBar.attachment.tooltip "Паказваць толькі лісты з далучэннямі">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ліст;#1 лісты;#1 лістоў">
+<!ENTITY quickFilterBar.resultsLabel.none "Няма вынікаў">
+<!ENTITY quickFilterBar.resultsLabel.minWidth "110">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Сітаванне гэтых лістоў... #1">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac "&lt;Ctrl+F&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac "&lt;⌘F&gt;">
+<!ENTITY quickFilterBar.textbox.idealWidth "340">
+<!ENTITY quickFilterBar.textbox.minWidth "300">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Сітаваць лісты па:">
+<!ENTITY quickFilterBar.textFilter.sender.label "Адпраўнік">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Атрымальнікі">
+<!ENTITY quickFilterBar.textFilter.subject.label "Тэма">
+<!ENTITY quickFilterBar.textFilter.body.label "Цела">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Працягнуць гэты пошук ва ўсіх папках">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Націсніце 'Enter' зноў, каб працягнуць пошук у: #1">

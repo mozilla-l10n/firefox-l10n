@@ -30,6 +30,7 @@
 <!ENTITY formHelper.done "Гатова">
 <!ENTITY addonsHeader.label "Дадаткі">
 <!ENTITY addonsLocal.label "Вашы дадаткі">
+<!ENTITY addonsUpdate.label "Абнавіць">
 <!ENTITY addonsRepo.label "Атрымаць дадаткі">
 <!ENTITY addonsRecommended.label "Раіцца">
 <!ENTITY addonsSearch.label "Пошук">
