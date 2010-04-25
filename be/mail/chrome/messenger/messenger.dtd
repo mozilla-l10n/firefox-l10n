@@ -608,6 +608,11 @@
 <!ENTITY contextPrint.accesskey "Д">
 <!ENTITY contextPrintPreview.label "Папярэдні прагляд друку">
 <!ENTITY contextPrintPreview.accesskey "п">
+<!ENTITY columnPicker.resetToInbox.label "Узнавіць змоўчныя слупкі">
+<!ENTITY columnPicker.applyTo.label "Ужыць слупкі…">
+<!ENTITY columnPicker.applyToFolder.label "Папка…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Папка і яе нашчадкі…">
+<!ENTITY columnPicker.thisFolder.label "Гэтая папка">
 <!ENTITY contextPlay.label "Граць">
 <!ENTITY contextPlay.accesskey "Г">
 <!ENTITY contextPause.label "Прыпыніць">
@@ -627,9 +632,10 @@
 <!ENTITY mdnBarMessage.label "Адпраўнік гэтага ліста просіць паведаміць яму, калі вы прачыталі гэты ліст. Вы хочаце паведаміць адпраўніку аб прачытанні?">
 <!ENTITY mdnBarIgnoreButton.label "Ігнараваць запыт">
 <!ENTITY mdnBarSendButton.label "Даслаць квіток">
-<!ENTITY more.label "больш">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "Пошук усіх лістоў">
+<!ENTITY searchAllMessages.label.base "Шукаць усе лісты… #1">
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
 <!ENTITY AddDirectlyToAddressBook.label "Дадаць у адрасную кнігу">

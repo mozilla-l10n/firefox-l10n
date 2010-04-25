@@ -1,7 +1,7 @@
 <!ENTITY popupWindowRejectCmd.label "Адхіляць вокны-вынырцы з гэтай пляцоўкі">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай пляцоўкі">
-<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey "п">
 <!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">

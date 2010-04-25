@@ -1,34 +1,36 @@
 <!ENTITY featureConfigurator.title "Памочнік міграцыі">
-<!ENTITY featureConfigurator.heading "Асаблівасці Thunderbird 3, якія каштуюць таго, каб ведаць пра іх">
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 уключае магутныя новыя асаблівасці, якімі мы моцна ганарымся і лічым, што яны спадабаюцца людзям. Людзі маюць розныя смак і патрэбы, для іх задавальнення мы прапанукм лёгкі да кіравання і ўладкавання Thunderbird.">
-<!ENTITY featureConfigurator.para2 "Скарыстайце гэтуб старонку, каб зрабіць гэтыя новыя наладжванні. Вы заўсёды можаце звярнуцца да Памочніка Міграцыі ў меню Даведка.">
-<!ENTITY featureConfigurator.imap.heading "Сінхранізацыя лістоў IMAP">
-<!ENTITY featureConfigurator.imap.status.all "Усе вашы папкі IMAP будуць &quot;сінхранізавацца&quot;.">
-<!ENTITY featureConfigurator.imap.status.none "Ніводная з вашых папак IMAP не будзе &quot;сінхранізавацца&quot;.">
-<!ENTITY featureConfigurator.imap.status.some "Асобныя з вашых папак IMAP будуць &quot;сінхранізавацца&quot;.">
-<!ENTITY featureConfigurator.benefits.label "Карысць">
-<!ENTITY featureConfigurator.alternative.label "Дадатковыя">
-<!ENTITY featureConfigurator.syncBenefits.para "Дазваляе вам чытаць вашу пошту, калі вы не злучаны з Інтэрнетам, і дазваляе вам шукаць лісты па словам, якія яны змяшчаюць, не толькі па тэме і імям.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird сцягне ўсю вашу пошту на ваш кампутар. Выключце гэтую ўласцівасць, калі ў вас мала месца на дыску або дарагі сеткавы трафік.">
-<!ENTITY featureConfigurator.syncAll.button "сінхранізаваць усё">
-<!ENTITY featureConfigurator.syncNone.button "не сінхранізаваць нічога">
-<!ENTITY featureConfigurator.advancedUsers.label "Дасведчаным карыстальнікам:">
-<!ENTITY featureConfigurator.advancedUsers.para "Вы таксама можаце зрабіць уладкаванні для асобных рахункаў або папак:">
-<!ENTITY featureConfigurator.toolbar.heading "Новая прыладапаліца">
-<!ENTITY featureConfigurator.toolbar.new.status "Ужываць новуя прыладапаліцу.">
-<!ENTITY featureConfigurator.toolbar.original.status "Ужываць даўнюю прыладапаліцу.">
-<!ENTITY featureConfigurator.toolbarBenefits.para "Лягчэйшы чым папярэдні інтэрфейс, які пакідае больш месца для больш багатай скрынкі пошуку і для дадаткаў.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Калі даўняя прыладапаліца вам падабаецца больш, вы не хочаце пераўладкоўваць яе або не хочаце выкарыстоўваць шыбу лістоў у вашай раскладцы. ">
-<!ENTITY featureConfigurator.useOriginalToolbar.button "ужываць даўнюю прыладапаліцу">
-<!ENTITY featureConfigurator.useNewToolbar.button "ужываць новую прыладапаліцу">
-<!ENTITY featureConfigurator.unifiedFolders.heading "Рэжым аб'яднаных папак">
-<!ENTITY featureConfigurator.unifiedFolders.smart.status "Ужываецца рэжым &quot;аб'яднаных папак&quot;.">
-<!ENTITY featureConfigurator.unifiedFolders.all.status "Рэжым &quot;аб'яднаных папак&quot; не ўжываецца.">
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Калі карыстальнік мае некалькі рахункаў, гэтая праява купуе падобныя папкі ў адну, і вы можаце атрымаць агульнае бачанне ўсей вашай пошты.">
-<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Калі вы хочаце бачыць пошту асобна ў кожным рахунку, тады вам будзе больш даспадобы рэжым &quot;Усе папкі&quot;.">
-<!ENTITY featureConfigurator.useUnifiedFolders.button "ужываць рэжым &quot;аб'яднаных папак&quot;">
-<!ENTITY featureConfigurator.useAllFolders.button "Ужываць рэжым &quot;усе папкі&quot;.">
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Згорнутыя загалоўкі">
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 мае палепшаную праяву падрабязнага загалоўка ліста, уключаючы кнопкі для датычных дзеянняў. Гэтае дадатковае размяшчэнне даступна як">
-<!ENTITY featureConfigurator.headerParaLinkName "дадаткі">
-<!ENTITY featureConfigurator.headerParaAfterLink ".">
+<!ENTITY featureConfigurator.heading1 "Новыя асаблівасці &brandShortName;, пра якія варта ведаць">
+<!ENTITY featureConfigurator.para.1 "Новая версія &brandShortName; уключае новыя магутныя асаблівасці, якія мы вельмі ганарымся і спадзяёмся, што большасць карыстальнікаў палюбіць іх. Людзі маюць розныя схільнасці, таму мы зрабілі лёгкім кіраванне і ўладкаванне &brandShortName;.">
+<!ENTITY featureConfigurator.para.2 "Карыстайцеся гэтай старонкай, каб змяняць гэтыя новыя наладжванні. Вы заўсёды можаце адкрыць Памочнік міграцыі ізноў у меню Даведка.">
+<!ENTITY featureConfigurator.toolbar.heading "Новая прыладапаліца лістоў">
+<!ENTITY featureConfigurator.toolbar.new.status "Новая прыладапаліца кнопак для лістоў">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Лёгкая прыладапаліца з усімі кнопкамі кіравання лістамі пад рукамі.">
+<!ENTITY featureConfigurator.toolbar.original.status "Захаваць вашы даўнія кнопкі на прыладапаліцы.">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Захаваць усе змененыя кнопкі прыладапаліцы ў дадатак да новых кнопак кіравання лістамі.">
+<!ENTITY featureConfigurator.toolbarBenefits.para 'Кнопкі кіравання лістамі, такія як "Адказаць", "Накіраваць" перанесеныя з прыладапаліцы ў загаловак ліста. Гэта прывязвае дзеянні кнопак наўпрост да ліста і пакідае больш месца на прыладапаліцы для больш багатай скрынкі пошуку і для дадаткаў.'>
+<!ENTITY featureConfigurator.addOn.installing "Усталяванне…">
+<!ENTITY featureConfigurator.addOn.installed "Усталявана">
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Гэтае пашырэнне ўжо ўсталяванае.">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Шчыльны загаловак">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Шчыльная праява чытання лістоў перамешчана ў яе асабістае пашырэнне, дзе за ім будуць лепш даглядаць.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Мы заўважылі, што вы карысталіся шчыльнай праявай чытання лістоў. Яна перамешчана ў яе асабістае пашырэнне і мы раім вам усталяваць яго, калі вы і надалей хочаце ўжываць яе.">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Усталяваць шчыльны загаловак…">
+<!ENTITY featureConfigurator.folderColumns.heading "Пашыраныя слупкі папак">
+<!ENTITY featureConfigurator.folderColumns.para.weak 'Пашырэнне "Extra Folder Columns" (дадатковыя слупкі папак) замяняе папярэднія датаковыя пашыраныя перавагі. Вы можаце ўсталяваць гэтае пашырэнне, каб трымаць устаўкі для пэўнай колькасці лістоў.'>
+<!ENTITY featureConfigurator.folderColumns.para.strong "Мы заўважылі, што вы карысталіся шчыльнай пашыранымі слупкамі папак. Яны перамешчаны ў іх асабістае пашырэнне і мы раім вам усталяваць яго, калі вы і надалей хочаце ўжываць іх.">
+<!ENTITY featureConfigurator.folderColumns.install "Усталяваць Extra Columns…">
+<!ENTITY featureConfigurator.autoSync.heading "Дыскавая прастора">
+<!ENTITY featureConfigurator.autoSync.para "Гэтае версія &brandShortName; мае новую і лепшую пашуковую функцыянальнасць.  Каб скарыстаць гэты новую асаблівасць, вы павінны сінхранізаваць усе вашы лісты э-пошты.">
+<!ENTITY featureConfigurator.autoSync.on "Сінхранізаваць">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Вы будзеце мець хутчэйшую загрузку лістоў і лепшыя вынікі пошуку.">
+<!ENTITY featureConfigurator.autoSync.off "Не сінхранізаваць">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Вы будзеце мець маруднейшую загрузку і няпоўныя вынікі пошуку.">
+<!ENTITY featureConfigurator.autoSync.some "Асобная сінхранізацыя для кожнага рахунку">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Уладкаваць сінхранізацыю асобна для кожнага рахунку і папкі.">
+<!ENTITY featureConfigurator.diskSpace.currentSize "Ваша агульнае карыстанне э-поштай:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Свабодная прастора:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Патрабуецца:">
+<!ENTITY featureConfigurator.diskSpace.warning "У вас мала свабоднага месца!">
+<!ENTITY featureConfigurator.previousButton "Назад">
+<!ENTITY featureConfigurator.nextButton "Наперад">
+<!ENTITY featureConfigurator.closeButton "Закрыць">
