@@ -36,7 +36,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Desmarque &quot;Trabajar sin conexión&quot; en el menú Archivo y vuelva a intentarlo.</li>
+  <li>Pruebe de nuevo. &brandShortName; intentará abrir una conexión y recargar la página.</li>
 </ul>
 ">
 <!ENTITY netOffline.title "Modo sin conexión">
