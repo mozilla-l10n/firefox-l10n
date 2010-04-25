@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label "Aplicar la configuración predeterminada a todos los mensajes de la carpeta (ignorando la autodetección y la configuración de codificación de caracteres de cada mensaje)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstruir índice">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir archivo resumen"> 
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir índice de archivo resumen">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar carpeta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "A veces el archivo de índice de carpetas (.msf) se daña y pueden desaparecer mensajes o pueden seguir mostrándose mensajes borrados; reparar la carpeta puede corregir estos problemas.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Incluir mensajes en esta carpeta en los resultados de búsqueda global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label "Política de retención">
 <!ENTITY retentionUseAccount.label  "Usar configuración de mi cuenta">
@@ -69,8 +72,9 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronización">
-<!ENTITY folderCheckForNewMessages.label "Comprobar esta carpeta en busca de nuevos mensajes">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderCheckForNewMessages2.label         "Al buscar nuevos mensajes para esta cuenta, siempre comprobar esta carpeta">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+
 
 <!ENTITY offlineFolder.check.label "Seleccionar esta carpeta para usar sin conexión">
 <!ENTITY offlineFolder.check.accesskey           "S">
