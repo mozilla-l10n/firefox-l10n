@@ -10,7 +10,7 @@
 <!ENTITY acceptCookies.label "Aceptar cookies">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "Incluso las de terceros">
-<!ENTITY acceptThirdParty.accesskey "r">
+<!ENTITY acceptThirdParty.accesskey "t">
 <!ENTITY keepUntil.label "Mantener hasta que:">
 <!ENTITY keepUntil.accesskey "M">
 <!ENTITY expire.label "caduquen">
@@ -43,7 +43,7 @@
 <!ENTITY rememberDownload.label "Recordar el historial de descargas">
 <!ENTITY rememberDownload.accesskey "R">
 <!ENTITY rememberSearchForm.label "Recordar el historial de formularios y búsquedas">
-<!ENTITY rememberSearchForm.accesskey "R">
+<!ENTITY rememberSearchForm.accesskey "f">
 <!ENTITY clearOnClose.label "Limpiar el historial cuando &brandShortName; se cierre">
 <!ENTITY clearOnClose.accesskey "h">
 <!ENTITY clearOnCloseSettings.label "Configuración…">
