@@ -5,9 +5,10 @@
 <!ENTITY folderCharsetTab.accesskey "S">
 <!ENTITY folderCharsetOverride.label "Anvend som standard på alle meddelelser i denne mappe (individuelle tegnkodningsindstillinger og auto-opdagelse vil blive ignoreret)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label          "Genopbyg indeks">
-<!ENTITY folderRebuildSummaryFile.accesskey      "G">
-<!ENTITY folderRebuildSummaryFileTip.label       "Genopbyg sammendragsfil"> 
+<!ENTITY folderRebuildSummaryFileTip2.label      "Genopbyg indeksfil">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "I nogle tilfælde kan mappens indeksfil blive beskadiget, hvilket kan forårsage, at nogle mails ikke kan ses, eller at slettede mails atter dukker op. Reparering af mappen kan muligvis rette op på problemet.">
 
 <!ENTITY retention.label "Retningslinjer for opbevaring">
 <!ENTITY retentionUseAccount.label  "Brug mine kontoindstillinger">
@@ -29,8 +30,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
-<!ENTITY folderCheckForNewMessages.label "Kontroller denne mappe for nye meddelelser">
-<!ENTITY folderCheckForNewMessages.accesskey "K">
+<!ENTITY folderCheckForNewMessages2.label "Kontroller denne mappe for nye meddelelser">
+<!ENTITY folderCheckForNewMessages2.accesskey "K">
 
 <!ENTITY offlineFolder.check.label "Vælg denne mappe til offline-brug">
 <!ENTITY offlineFolder.check.accesskey "æ">
@@ -57,3 +58,6 @@
 <!ENTITY folderQuotaRoot.label "Kvote-rod:">
 <!ENTITY folderQuotaUsage.label "Forbrug:">
 <!ENTITY folderQuotaStatus.label "Status:">
+
+<!ENTITY folderIncludeInGlobalSearch.label       "Medtag meddelelser i denne mappe i globale søgeresultater">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "M">
