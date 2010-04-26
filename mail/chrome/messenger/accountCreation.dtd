@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Accediu a les carpetes i als missatges des de diversos ordinadors">
+<!ENTITY pop.description                 "POP - Baixeu-vos tots els missatges a aquest ordinador, les carpetes només són locals">
+<!ENTITY recommended-appendix.label      "(recomanat)">
 
 <!ENTITY manualSetup.label               "Configuració manual…">
 <!ENTITY manualSetup.accesskey           "m">
