@@ -337,12 +337,18 @@
 <!ENTITY calendar.print.title.label "Títol:">
 <!ENTITY calendar.print.layout.label "Format:">
 <!ENTITY calendar.print.range.label "Què imprimir:">
-<!ENTITY calendar.print.currentview.label "Cites en la vista actual">
+<!ENTITY calendar.print.currentView2.label "Vista actual">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Cites i tasques seleccionades">
+<!ENTITY calendar.print.tasks.label "Tasques">
+<!ENTITY calendar.print.events.label "Cites">
 <!ENTITY calendar.print.selected.label "Cites seleccionades">
 <!ENTITY calendar.print.custom.label "Abast de dades personalitzat:">
 <!ENTITY calendar.print.from.label "De:">
 <!ENTITY calendar.print.to.label "Fins:">
 <!ENTITY calendar.print.settingsGroup.label "Paràmetres d'impressió">
+<!ENTITY calendar.print.optionsGroup.label "Opcions">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tasques sense data de venciment">
+<!ENTITY calendar.print.completedtasks.label "Tasques acabades">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalls…">
