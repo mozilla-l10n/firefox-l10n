@@ -73,7 +73,7 @@
 
 <!ENTITY folderSynchronizationTab.label          "Syngronisaasje">
 <!ENTITY folderCheckForNewMessages2.label        "By it krijen fan nije berjochten foar dit account, kontrolearje altyd dizze map">
-<!ENTITY folderCheckForNewMessages.accesskey     "k">
+<!ENTITY folderCheckForNewMessages2.accesskey    "k">
 
 <!ENTITY offlineFolder.check.label               "Dizze map foar gebrûk sûnder ferbining selektearje">
 <!ENTITY offlineFolder.check.accesskey           "s">
