@@ -72,7 +72,7 @@
 <!ENTITY toggle.accesskey "I">
 <!ENTITY reset.label "Restaurar o padrão">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "Nova opção">
+<!ENTITY new.label "Nova preferência">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "String…">
 <!ENTITY string.accesskey "S">
