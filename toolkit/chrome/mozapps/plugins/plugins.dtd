@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Klik her for at hente plug-in.">
 <!ENTITY disabledPlugin.label                                "Plug-in'et for dette indhold er blevet deaktiveret. Klik her for at administrere plug-ins.">
 <!ENTITY blockedPlugin.label                                 "Plug-in'et er blevet blokeret for din sikkerhed.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Genindlæs siden">
+<!ENTITY reloadPlugin.post                                   " for at forsøge igen.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Send nedbrudsrapport">
+<!ENTITY report.submitting                                   "Sender nedbrudsrapport…">
+<!ENTITY report.submitted                                    "Nedbrudsrapport blev sendt.">
+<!ENTITY report.disabled                                     "Nedbrudsrapportering deaktiveret.">
+<!ENTITY report.failed                                       "Afsendelse mislykkedes.">
+<!ENTITY report.unavailable                                  "Ingen rapport tilgængelig.">
