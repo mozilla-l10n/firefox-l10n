@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -326,12 +330,18 @@
 <!ENTITY calendar.print.title.label "Názov">
 <!ENTITY calendar.print.layout.label "Rozmiestnenie">
 <!ENTITY calendar.print.range.label "Rozsah tlače">
-<!ENTITY calendar.print.currentview.label "Udalosti aktuálneho zobrazenia">
+<!ENTITY calendar.print.currentView2.label "Aktuálne zobrazenie">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Označené udalosti/úlohy">
+<!ENTITY calendar.print.tasks.label "Úlohy">
+<!ENTITY calendar.print.events.label "Udalosti">
 <!ENTITY calendar.print.selected.label "Označené udalosti">
 <!ENTITY calendar.print.custom.label "Vlastné:">
 <!ENTITY calendar.print.from.label "Od:">
 <!ENTITY calendar.print.to.label "Do:">
 <!ENTITY calendar.print.settingsGroup.label "Nastavenia tlače">
+<!ENTITY calendar.print.optionsGroup.label "Možnosti">
+<!ENTITY calendar.print.taskswithnoduedate.label "Úlohy bez termínu ukončenia">
+<!ENTITY calendar.print.completedtasks.label "Dokončené úlohy">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail                  "Podrobnosti…">

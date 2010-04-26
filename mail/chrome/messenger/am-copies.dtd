@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "U">
 <!ENTITY fccReplyFollowsParent.label "Umiestniť odpovede v priečinku, v ktorom sa nachádza pôvodná správa">
 <!ENTITY fccReplyFollowsParent.accesskey "m">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Odoslať kópiu (CC) na tieto adresy:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Adresy oddelené čiarkami">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label 'Odoslať Skrytú kópiu (BCC) na tieto adresy:'>
 <!ENTITY bccAddress.accesskey "S">
+<!ENTITY bccAddressList.emptytext "Adresy oddelené čiarkami">
 <!ENTITY saveMessageDlg.label "Pri ukladaní správ zobraziť dialógové okno s potvrdením">
 <!ENTITY saveMessageDlg.accesskey "b">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
