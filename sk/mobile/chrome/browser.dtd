@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Doplnky">
 <!ENTITY addonsLocal.label         "Vaše doplnky">
+<!ENTITY addonsUpdate.label        "Aktualizovať">
 <!ENTITY addonsRepo.label          "Získať doplnky">
 <!ENTITY addonsRecommended.label   "Odporúčané">
 <!ENTITY addonsSearch.label        "Hľadať">

@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - prístup k priečinkom a správam z viacerých počítačov">
+<!ENTITY pop.description                 "POP - správy budú prevzaté do tohto počítača, priečinky sú lokálne">
+<!ENTITY recommended-appendix.label      "(odporúčané)">
 
 <!ENTITY manualSetup.label               "Manuálne nastavenie…">
 <!ENTITY manualSetup.accesskey           "n">

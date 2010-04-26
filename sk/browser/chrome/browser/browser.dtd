@@ -151,7 +151,6 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label                 "Doplnky">
-<!ENTITY addons.tooltip               "Zobrazí a umožní spravovať nainštalované doplnky">
 <!ENTITY addons.accesskey             "D">
 
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
@@ -210,6 +209,8 @@
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label "Prispôsobiť…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY viewTabsOnTop.label            "Karty navrchu">
+<!ENTITY viewTabsOnTop.accesskey        "K">
 
 <!ENTITY historyMenu.label "História">
 <!ENTITY historyMenu.accesskey "H">
