@@ -48,6 +48,16 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label "Aplica el valor per defecte a tots els missatges (ignora el joc de caràcters indicat a la capçalera MIME)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
+
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix l'índex del fitxer resum">
+<!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "De vegades el fitxer de l'índex de la carpeta (.msf) s'espatlla i els missatges sembla que es perdin o bé els missatges esborrats tornen a aparèixer; si es repara la carpeta potser que s'arreglin aquests problemes.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inclou els missatges d'aquesta carpeta als resultats de la Cerca global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
+
+
+<!--
 <!ENTITY folderRebuildSummaryFile.label          "Reconstrueix l'índex">
 <!ENTITY folderRebuildSummaryFile.accesskey      "R">
 <!ENTITY folderRebuildSummaryFileTip.label       "Reconstrueix el fitxer de resum"> 
@@ -55,6 +65,7 @@
 <!ENTITY folderSynchronizationTab.label          "Sincronització">
 <!ENTITY folderCheckForNewMessages.label "Cerca missatges nous a aquesta carpeta">
 <!ENTITY folderCheckForNewMessages.accesskey     "C">
+-->
 
 <!ENTITY retention.label "Política de retenció">
 <!ENTITY retentionUseAccount.label  "Utilitza les meves opcions del compte">
@@ -75,6 +86,10 @@
 
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges senyalats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Sincronització">
+<!ENTITY folderCheckForNewMessages2.label         "Quan miris si hi ha missatges nous per aquest compte, comprova sempre aquesta carpeta">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label "Selecciona aquesta carpeta per al seu ús fora de línia">
 <!ENTITY offlineFolder.check.accesskey           "S">
