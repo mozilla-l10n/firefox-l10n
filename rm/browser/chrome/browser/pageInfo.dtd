@@ -103,7 +103,7 @@
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Infurmaziuns da segirezza per questa pagina">
 <!ENTITY  securityView.certView "Mussar il certificat">
-<!ENTITY  securityView.accesskey "Z">
+<!ENTITY  securityView.accesskey "c">
 <!ENTITY  securityView.unknown   "Betg enconuschent">
 
 
