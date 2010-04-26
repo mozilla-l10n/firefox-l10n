@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Standert tapasse op alle berjochten yn de map (de yn berjochten opjûne tekenset en autodeteksje wurde negearre)">
 <!ENTITY folderCharsetOverride.accesskey         "t">
-<!ENTITY folderRebuildSummaryFile.label          "Yndeks fernije">
-<!ENTITY folderRebuildSummaryFile.accesskey      "f">
-<!ENTITY folderRebuildSummaryFileTip.label       "Gearfettingsbestân fernije">      
+<!ENTITY folderRebuildSummaryFileTip2.label      "Gearfettingsbestân op 'e nij meitsje">      
+<!ENTITY folderRebuildSummaryFile2.label         "Map reparearje">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
+<!ENTITY folderRebuildSummaryFile.explanation    "Somtiden wurdt it mapyndeksbestân (.msf) skansearre en liket it oft berjochten misse of fuortsmiten berjochten weromkomme; de map reparearje kin dit oplosse.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Berjochten yn dizze map meinimme yn globale sykresultaten">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
 <!ENTITY retention.label "Behâldbelied">
 <!ENTITY retentionUseAccount.label  "Brûk myn accountynstellings">
@@ -69,7 +72,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Syngronisaasje">
-<!ENTITY folderCheckForNewMessages.label         "Dizze map op nije berjochten kontrolearje">
+<!ENTITY folderCheckForNewMessages2.label        "By it krijen fan nije berjochten foar dit account, kontrolearje altyd dizze map">
 <!ENTITY folderCheckForNewMessages.accesskey     "k">
 
 <!ENTITY offlineFolder.check.label               "Dizze map foar gebrûk sûnder ferbining selektearje">
