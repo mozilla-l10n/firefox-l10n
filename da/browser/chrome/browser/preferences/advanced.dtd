@@ -25,7 +25,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "U">
 <!ENTITY checkNow.label                  "Undersøg nu">
 <!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "Send nedbrudsrapporter">
+<!ENTITY submitCrashes.label             "Send fejlrapporter">
 <!ENTITY submitCrashes.accesskey         "S">
 
 <!ENTITY networkTab.label                "Netværk">

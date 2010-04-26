@@ -30,9 +30,9 @@
 <!ENTITY reloadPlugin.middle                                 "Genindlæs siden">
 <!ENTITY reloadPlugin.post                                   " for at forsøge igen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Send nedbrudsrapport">
-<!ENTITY report.submitting                                   "Sender nedbrudsrapport…">
-<!ENTITY report.submitted                                    "Nedbrudsrapport blev sendt.">
-<!ENTITY report.disabled                                     "Nedbrudsrapportering deaktiveret.">
+<!ENTITY report.please                                       "Send fejlrapport">
+<!ENTITY report.submitting                                   "Sender fejlrapport…">
+<!ENTITY report.submitted                                    "Fejlrapport blev sendt.">
+<!ENTITY report.disabled                                     "Fejlrapportering deaktiveret.">
 <!ENTITY report.failed                                       "Afsendelse mislykkedes.">
 <!ENTITY report.unavailable                                  "Ingen rapport tilgængelig.">
