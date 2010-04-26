@@ -84,7 +84,7 @@
 <!ENTITY quickFilterBar.textFilter.body.label "Meddelelsestekst">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch): The first line of the panel popup that tells the user we found no matches but we can convert to a global search for them.  -->
-	 <!ENTITY quickFilterBar.glodaUpsell.continueSearch "Fortsæt denne søgning i alle mapper".>
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Fortsæt denne søgning i alle mapper.">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent): The second line of the panel popup that tells the user we found no matches. This line will have #1 replaced with what the user has typed so far.   -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Tryk på tasten 'Enter' for at fortsætte din søgning efter: #1">
