@@ -79,14 +79,14 @@
 <!ENTITY bookmarkAllCmd.label "Añadir todas las pestañas abiertas a marcadores…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
-<!ENTITY backCmd.accesskey "t">
+<!ENTITY backCmd.accesskey "n">
 <!ENTITY backButton.tooltip "Ir a la página anterior">
 <!ENTITY forwardCmd.label "Siguiente">
 <!ENTITY forwardCmd.accesskey "g">
 <!ENTITY forwardButton.tooltip "Ir a la página siguiente">
 <!ENTITY backForwardMenu.tooltip "Páginas recientes">
 <!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "a">
 <!ENTITY reloadButton.tooltip "Recargar esta página">
 <!ENTITY stopCmd.label "Detener">
 <!ENTITY stopCmd.accesskey "t">
@@ -250,7 +250,7 @@
 <!ENTITY saveLinkCmd.label "Guardar enlace como…">
 <!ENTITY saveLinkCmd.accesskey "n">
 <!ENTITY sendLinkCmd.label "Enviar enlace…">
-<!ENTITY sendLinkCmd.accesskey "l">
+<!ENTITY sendLinkCmd.accesskey "c">
 <!ENTITY saveImageCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.accesskey "u">
 <!ENTITY saveVideoCmd.label "Guardar vídeo como…">
@@ -258,7 +258,7 @@
 <!ENTITY saveAudioCmd.label "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey "a">
 <!ENTITY sendImageCmd.label "Enviar imagen…">
-<!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY sendImageCmd.accesskey "g">
 <!ENTITY sendVideoCmd.label "Enviar vídeo…">
 <!ENTITY sendVideoCmd.accesskey "n">
 <!ENTITY sendAudioCmd.label "Enviar audio…">
