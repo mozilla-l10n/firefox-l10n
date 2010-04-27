@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Complementos">
 <!ENTITY addonsLocal.label         "Seus complementos">
+<!ENTITY addonsUpdate.label        "Atualizar">
 <!ENTITY addonsRepo.label          "Adicionar">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Pesquisar">
