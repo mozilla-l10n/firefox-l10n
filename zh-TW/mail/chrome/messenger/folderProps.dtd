@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "對此資料夾內所有郵件或文章套用預設值 (忽略 MIME 指定的字元集與自動偵測結果)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "重建索引">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "重建摘要檔案"> 
+<!ENTITY folderRebuildSummaryFileTip2.label      "重建摘要檔索引">
+<!ENTITY folderRebuildSummaryFile2.label         "修復資料夾">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "有時資料夾索引（.msf）檔可能會毀損，有些郵件可能會突然消失；已經被刪除的郵件也可能持續存在。重建資料夾可能可以修正這些問題。">
+<!ENTITY folderIncludeInGlobalSearch.label       "將這個資料夾內的訊息包含於全域搜尋結果">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "保存方式">
 <!ENTITY retentionUseAccount.label  "使用我的帳戶設定">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "同步">
-<!ENTITY folderCheckForNewMessages.label         "檢查新郵件時包含此郵件匣">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderCheckForNewMessages2.label         "當取得這個帳號的新訊息時，永遠檢查這個資料夾">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "離線閱讀此郵件匣">
 <!ENTITY offlineFolder.check.accesskey           "S">
