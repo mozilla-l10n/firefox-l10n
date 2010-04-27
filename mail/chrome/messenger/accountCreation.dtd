@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - 從不同的電腦存取郵件資料夾與訊息">
+<!ENTITY pop.description                 "POP - 下載所有的訊息到這台電腦，資料夾將只存在於本地端">
+<!ENTITY recommended-appendix.label      "(建議)">
 
 <!ENTITY manualSetup.label               "手動設定…">
 <!ENTITY manualSetup.accesskey           "S">
