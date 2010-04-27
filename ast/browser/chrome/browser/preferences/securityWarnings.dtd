@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Alvertencies de seguridá">
+
+<!ENTITY security.warn_when                       "Amosar un diálogu d'avisu cuando:">
+<!ENTITY security.warn_entering_secure.label      "Vaya a visualizar una páxina cifrada.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "Vaya a visualizar una páxina qu'usa cifráu de baxu nivel.">
+<!ENTITY security.warn_entering_weak.accesskey    "x">
+<!ENTITY security.warn_leaving_secure.label       "Salga d'una páxina cifrada pa entrar nuna non cifrada.">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "Introduza información ensin cifrar.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "Vaya a visualizar una páxina cifrada que contenga cierta información non cifrada.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

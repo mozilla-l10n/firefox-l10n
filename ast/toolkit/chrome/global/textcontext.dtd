@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.accesskey "r">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY undoCmd.label "Esfacer">
+<!ENTITY undoCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Seleicionar tou">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Desaniciar">
+<!ENTITY deleteCmd.accesskey "e">
+
+<!ENTITY spellAddToDictionary.label "Amestar al diccionariu">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "Revisar ortografía">
+<!ENTITY spellCheckEnable.accesskey "s">
+<!ENTITY spellNoSuggestions.label "(Nun hai soxerencies d'ortografía)">
+<!ENTITY spellDictionaries.label "Llingües">
+<!ENTITY spellDictionaries.accesskey "g">

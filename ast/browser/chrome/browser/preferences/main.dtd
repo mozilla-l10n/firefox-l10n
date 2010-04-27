@@ -1,0 +1,37 @@
+<!ENTITY startup.label             "Entamu">
+
+<!ENTITY startupPage.label         "Cuando s'anicie &brandShortName;:">
+<!ENTITY startupPage.accesskey     "i">
+<!ENTITY startupHomePage.label     "Amosar la mio páxina d'entamu">
+<!ENTITY startupBlankPage.label    "Amosar una páxina en blanco">
+<!ENTITY startupLastSession.label  "Amosar les mios ventanes y llingüetes de la cabera sesión">
+<!ENTITY location.label            "Páxina d'entamu:">
+<!ENTITY location.accesskey        "P">
+<!ENTITY useCurrentPage.label      "Usar páxina actual">
+<!ENTITY useCurrentPage.accesskey  "U">
+<!ENTITY useMultiple.label         "Usar páxines actuales">
+<!ENTITY useBookmark.label         "Usar marcador">
+<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY restoreDefault.label      "Restaurar al valor por omisión">
+<!ENTITY restoreDefault.accesskey  "v">
+
+<!ENTITY downloads.label     "Descargues">
+
+<!ENTITY showWhenDownloading.label     "Amosar la ventana de descargues cuando se descargue un archivu">
+<!ENTITY showWhenDownloading.accesskey "d">
+<!ENTITY closeWhenDone.label "Zarrar cuando se completen les descargues">
+<!ENTITY closeWhenDone.accesskey "u">
+<!ENTITY saveTo.label "Guardar archivos en">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "Desaminar…">
+<!ENTITY chooseFolderWin.accesskey    "s">
+<!ENTITY chooseFolderMac.label        "Elexir…">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAsk.label "Entrugame siempres aú guardar los archivos">
+<!ENTITY alwaysAsk.accesskey "a">
+
+<!ENTITY addonsMgr.label               "Complementos">
+<!ENTITY manageAddonsDescWin.label     "Camudar les opciones de los complementos">
+<!ENTITY manageAddonsDescUnix2.label   "Camudar les preferencies de los complementos">
+<!ENTITY manageAddons.label            "Alministrar complementos…">
+<!ENTITY manageAddons.accesskey        "s">

@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Informar d'un sitiu web incompatible">
+
+<!ENTITY privacyNotice.label                        "Política de Privacidá">
+<!ENTITY reportWizardPrivacy.description            "Esta ferramienta permíte-y informar al equipu d'Evanxelismu ('evangelism team') sobro los sitios web que nun furrulen correcho en &brandShortName;, o qu'espulsen a &brandShortName;. D'esta miente puedes aidanos a asegurar la meyor esperiencia dable a los usuarios de &brandShortName;. Por favor, tómate un intrín pa lleer lo siguiente y deprender cómo usamos la información que recoyeremos si escueyes participar.">
+<!ENTITY reportWizardMustAgree.description          "Pa siguir, tienes d'aceutar la política de privacidá anterior.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Lleí y aceuto la política de privacidá anterior.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "i">
+
+<!ENTITY reportForm.label                           "Cumplimentar informe">
+
+<!ENTITY reportForm.description                     "Cúntanos equí daqué tocante al fallu qu'alcontraste:">
+<!ENTITY reportForm.url.title                       "URL del sitiu web:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "El sitiu web ta protexíu con contraseña"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "p">
+
+<!ENTITY reportForm.problem_type.title              "Tipu de problema:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Esbilla una…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Restolador non sofitáu téunicamente">
+<!ENTITY reportForm.problem_type.item2.title        "Nun puede aniciase sesión">
+<!ENTITY reportForm.problem_type.item3.title        "Plugin non amosáu">
+<!ENTITY reportForm.problem_type.item4.title        "Otru conteníu non amosáu">
+<!ENTITY reportForm.problem_type.item5.title        "Comportamientu erróneu">
+<!ENTITY reportForm.problem_type.item6.title        "Aspeutu erróneu">
+<!ENTITY reportForm.problem_type.item7.title        "Otru problema">
+<!ENTITY reportForm.problem_type.item8.title        "Accesu a discapacitaos">
+<!ENTITY reportForm.problem_type.item9.title        "Salida impresa ye incorreuta">
+
+<!ENTITY reportForm.describe.title                  "Describi'l problema:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "Plataforma:">
+<!ENTITY reportForm.product.title                   "Productu:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Axente d'usuariu:">
+<!ENTITY reportForm.language.title                  "Llingua:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Corréu-e (opcional):">
+<!ENTITY reportForm.email.accesskey                 "e">
+
+<!ENTITY reportForm.privacyPolicy.title             "Política de Privacidá">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Ver política de privacidá">
+
+<!ENTITY reportResults.showDetail.title             "Amosar detalles">
+<!ENTITY reportResults.showDetail.accesskey         "s">
+
+<!ENTITY sendReport.label                           "Unviando informe">
+<!ENTITY sendReport.description                     "Unviando informe al sirvidor…">
+
+<!ENTITY finish.label                               "Informe unviáu">

@@ -1,0 +1,12 @@
+<!ENTITY dialog.title             "Personalizar barra de ferramientes">
+<!ENTITY dialog.style             "anchu: 635px; altu: 400px;">
+<!ENTITY instructions.description "Puen amestase o desaniciase elementos arrastrándolos a la barra de ferramientes.">
+<!ENTITY show.label               "Amosar:">
+<!ENTITY iconsAndText.label       "Iconos y testu">
+<!ENTITY icons.label              "Iconos">
+<!ENTITY text.label               "Testu">
+<!ENTITY useSmallIcons.label      "Usar iconos pequeños">
+<!ENTITY restoreDefaultSet.label  "Restaurar valores predeterminaos">
+<!ENTITY addNewToolbar.label      "Amestar nueva barra de ferramientes">
+<!ENTITY saveChanges.label        "Fecho">
+<!ENTITY undoChanges.label        "Desfacer cambeos">

@@ -1,0 +1,212 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Llibrería">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Axeitar">
+<!ENTITY organize.accesskey    "A">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Pesllar">
+<!ENTITY file.close.accesskey           "r">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Editar">
+<!ENTITY edit.accesskey                 "E">
+<!ENTITY views.label                    "Vistes">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "Barres de ferramientes">
+<!ENTITY view.toolbar.accesskey         "B">
+<!ENTITY view.columns.label             "Amosar columnes">
+<!ENTITY view.columns.accesskey         "m">
+<!ENTITY view.sort.label                "Llistar">
+<!ENTITY view.sort.accesskey            "s">
+<!ENTITY view.unsorted.label            "Ensin ordenar">
+<!ENTITY view.unsorted.accesskey        "E">
+<!ENTITY view.sortAscending.label       "Ordenar A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ordenar Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "Usar los marcadores">
+<!ENTITY help.usingBookmarks.accesskey  "m">
+<!ENTITY help.usingHistory.label        "Usar l'hestorial">
+<!ENTITY help.usingHistory.accesskey    "h">
+<!ENTITY help.advancedTips.label        "Conseyos y trucos avanzaos">
+<!ENTITY help.advancedTips.accesskey    "t">
+
+<!ENTITY cmd.findInBookmarks.label      "Alcontrar en marcadores…">
+<!ENTITY cmd.findInBookmarks.accesskey  "m">
+<!ENTITY cmd.findCurrent.label          "Buscar na colleición autual…">
+<!ENTITY cmd.findCurrent.accesskey      "u">
+
+<!ENTITY cmd.exportHTML.label           "Esportar HTML">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importar HTML">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "Copia…">
+<!ENTITY cmd.backup.accesskey           "C">
+<!ENTITY cmd.restore2.label             "Restaurar">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Elexir ficheru…">
+<!ENTITY cmd.restoreFromFile.accesskey  "E">
+
+<!ENTITY cmd.select_all.label "Seleicionar tou">
+<!ENTITY cmd.select_all.accesskey "S">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "Cortar">
+<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Copiar">
+<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Pegar">
+<!ENTITY cmd.edit_paste.accesskey   "P">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Esaniciar">
+<!ENTITY cmd.edit_delete.accesskey  "E">
+<!ENTITY cmd.edit_undo.label        "Desfacer">
+<!ENTITY cmd.edit_undo.accesskey    "s">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Refacer">
+<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.bookmarkLink.label         "Amestar a marcadores esta páxina…">
+<!ENTITY cmd.bookmarkLink.accesskey     "A">
+<!ENTITY cmd.delete.label               "Desaniciar esta páxina">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Escaecer esti sitiu web">
+<!ENTITY cmd.deleteDomainData.accesskey "E">
+
+<!ENTITY cmd.open.label                  "Abrir">
+<!ENTITY cmd.open.accesskey              "A">
+<!ENTITY cmd.open_window.label           "Abrir nuna nueva ventana">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_tab.label              "Abrir nuna nueva llingüeta">
+<!ENTITY cmd.open_tab.accesskey          "t">
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir tou en llingüetes">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
+
+<!ENTITY cmd.properties.label      "Propiedaes">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "Renomar">
+<!ENTITY cmd.rename.accesskey  "e">
+
+<!ENTITY cmd.sortby_name.label              "Tresnar por nome">
+<!ENTITY cmd.sortby_name.accesskey          "n">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Nuevu marcador…">
+<!ENTITY cmd.new_bookmark.accesskey        "N">
+<!ENTITY cmd.new_livemark.label            "Nuevu marcador dinámicu…">
+<!ENTITY cmd.new_livemark.accesskey        "d">
+<!ENTITY cmd.new_folder.label              "Nueva carpeta…">
+<!ENTITY cmd.new_folder.accesskey          "u">
+<!ENTITY cmd.context_new_folder.accesskey  "c">
+<!ENTITY cmd.new_separator.label           "Nuevu separtador">
+<!ENTITY cmd.new_separator.accesskey       "v">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Recargar marcadores dinámicos">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.label      "Recargar títulu dinámicu">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+<!ENTITY cmd.groupby_site.label      "Agrupar por sitiu">
+<!ENTITY cmd.groupby_site.accesskey  "s">
+<!ENTITY cmd.groupby_page.label      "Agrupar por páxina">
+<!ENTITY cmd.groupby_page.accesskey  "p">
+<!ENTITY cmd.groupby_feed.label      "Agrupar por soscrición">
+<!ENTITY cmd.groupby_feed.accesskey  "s">
+<!ENTITY cmd.groupby_post.label      "Agrupar por postéu">
+<!ENTITY cmd.groupby_post.accesskey  "o">
+
+<!ENTITY cmd.moveBookmarks.label                  "Mover…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "Nome">
+<!ENTITY col.tags.label          "Etiquetes">
+<!ENTITY col.url.label           "Direición">
+<!ENTITY col.lastvisit.label     "Data de visita">
+<!ENTITY col.visitcount.label    "Contador de visites">
+<!ENTITY col.keyword.label       "Pallabra clave">
+<!ENTITY col.description.label   "Descrición">
+<!ENTITY col.dateadded.label     "Amestáu">
+<!ENTITY col.lastmodified.label  "Cabera modificación">
+
+<!ENTITY search.label                              "Búsqueda">
+<!ENTITY search.accesskey                          "B">
+<!ENTITY search.scopeFolder.label                  "Carpeta seleicionada">
+<!ENTITY search.scopeFolder.accesskey              "C">
+<!ENTITY search.scopeBookmarks.label               "Marcadores">
+<!ENTITY search.scopeBookmarks.accesskey           "M">
+<!ENTITY search.scopeDownloads.label               "Descargues">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "Hestorial">
+<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Amosar constructor de búsqueda">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Soverar constructor de búsqueda">
+<!ENTITY saveSearch.label                          "Guardar">
+<!ENTITY saveSearch.accesskey                      "G">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Buscar namái marcadores">
+<!ENTITY advancedSearch.match.label                "Coincide con">
+<!ENTITY advancedSearch.all.label                  "tou">
+<!ENTITY advancedSearch.any.label                  "cualesquier">
+<!ENTITY advancedSearch.rules.label                "de les siguientes regles:">
+<!ENTITY advancedSearch.subj_keyword.label         "Que contenga'l testu">
+<!ENTITY advancedSearch.subj_visited.label         "Visitáu">
+<!ENTITY advancedSearch.subj_location.label        "Direición">
+<!ENTITY advancedSearch.location_startswith.label  "entama por">
+<!ENTITY advancedSearch.location_is.label          "ye">
+<!ENTITY advancedSearch.location_onsite.label      "ta nel sitiu">
+<!ENTITY advancedSearch.time_is.label              "en">
+<!ENTITY advancedSearch.time_before.label          "enantes de">
+<!ENTITY advancedSearch.time_after.label           "dempués de">
+<!ENTITY advancedSearch.time_inlast.label          "nos caberos">
+<!ENTITY advancedSearch.last_days.label            "díes">
+<!ENTITY advancedSearch.last_weeks.label           "selmanes">
+<!ENTITY advancedSearch.last_months.label          "meses">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Agrupar/axuntar por:">
+<!ENTITY advancedSearch.groupby_host.label         "host">
+<!ENTITY advancedSearch.groupby_domain.label       "dominiu">
+<!ENTITY advancedSearch.groupby_folder.label       "carpeta">
+<!ENTITY advancedSearch.sortby.label               "Ordenar por:">
+<!ENTITY advancedSearch.sortby_title.label         "títulu">
+<!ENTITY advancedSearch.sortby_date.label          "data">
+<!ENTITY advancedSearch.sortby_visit.label         "contador de visites">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "ascendente">
+<!ENTITY advancedSearch.sortby_desc.label          "descendente">
+<!ENTITY advancedSearch.max.label                  "Númberu máximu de resultaos:">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Canal">
+<!ENTITY feed.subscribe.tooltip  "Soscribise">
+
+<!ENTITY view.detailsMacOSX.label  "Llistar">
+<!ENTITY view.details.label        "Detáis">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "Get View Add-ons">
+
+<!ENTITY maintenance.label      "Importar y respaldar">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "Atrás">
+<!ENTITY backButton.tooltip  "Dir atrás">
+
+<!ENTITY forwardCmd.label       "Alantre">
+<!ENTITY forwardButton.tooltip  "Dir alantre">
+
+<!ENTITY detailsPane.more.label "Más">
+<!ENTITY detailsPane.more.accesskey "s">
+<!ENTITY detailsPane.less.label "Menos">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
+<!ENTITY detailsPane.selectAnItemText.description "Seleicione un elementu p'adicar ya editar les sos propiedaes">

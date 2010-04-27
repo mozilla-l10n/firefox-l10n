@@ -1,0 +1,64 @@
+<!ENTITY  updateWizard.title              "Autualización de software">
+
+<!ENTITY  offline.title                   "&brandShortName; ta en mou ensin conexón">
+<!ENTITY  offline.description             "&brandShortName; necesita pasar a mou con conexón p'adicar
+                                           si hai autualizaciones disponibles pa facer sos sos complementos
+                                           compatibles con esta versión.">
+<!ENTITY  offline.toggleOffline.label     "Pasar a mou con conexón agora.">
+<!ENTITY  offline.toggleOffline.accesskey "P">
+
+<!ENTITY  mismatch.win.title              "Complementos incompatibles">
+<!ENTITY  mismatch.top.label              "Los siguientes complementos nun son compatibles con esta versión de
+                                           &brandShortName; y foren desactivaos:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; pue comprebar si hai versiones compatibles
+                                           disponibles d'estos complementos.">
+
+<!ENTITY  checking.wizard.title           "Guetando complementos compatibles">
+<!ENTITY  checking.top.label              "Guetando autualizaciones pa los sos complementos incompatibles…">
+<!ENTITY  checking.status                 "Esto pue llevar unos minutos…">
+
+<!ENTITY  found.wizard.title               "Complementos compatibles alcontraos">
+<!ENTITY  found.top.label                 "Seleicione los complementos que quier instalar:">
+<!ENTITY  found.disabledXPinstall.label   "Estes autualizaciones nun puen aplicase porque la instalación de software
+                                           ta desactivada nesti intre. Pue camudar esta
+                                           configuración debaxo.">
+<!ENTITY  found.enableXPInstall.label     "Permitir que los sitios web instalen software">
+<!ENTITY  found.enableXPInstall.accesskey "P">
+
+<!ENTITY  installing.wizard.title         "Instalando complementos compatibles">
+<!ENTITY  installing.top.label            "Descargando ya instalando autualizaciones a los sos complementos…">
+
+<!ENTITY  noupdates.wizard.title          "Nun s'alcontraron complementos compatibles">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; nun pudo alcontrar autualizaciones de los sos
+                                           complementos incompatibles.">
+<!ENTITY  noupdates.error.desc            "Alcontráronse dalgunos problemes al tentar alcontrar autualizaciones.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; guetará davezu ya informará-y cuandu
+                                           alcuentre autualizaciones compatibles pa estos complementos.">
+
+<!ENTITY  finished.wizard.title           "Complementos compatibles instalaos">
+<!ENTITY  finished.top.label              "&brandShortName; instaló les autualizaciones a los sos complementos.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; pue guetar davezu ya informalu
+                                           cuandu alcuentre autualizaciones pa los complementos.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; guetará periódicamente ya informarálu
+                                           cuandu alcuentre autualizaciones pa los complementos.">
+
+<!ENTITY  adminDisabled.wizard.title      "Nun se puen guetar autualizaciones">
+<!ENTITY  adminDisabled.warning.label     "Nun ye dable guetar autualizaciones de los complementos incompatibles
+                                           porque la instalación de software en &brandShortName; foi desactivada.
+                                           Por favor, contaute col alministrador del sistema pa obtener aida.">
+
+<!ENTITY  versioninfo.wizard.title        "Comprebando compatibilidá de complementos">
+<!ENTITY  versioninfo.top.label           "Comprebando la compatiblidá de los sos complementos con esta
+                                           versión de &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "Esto pue llevar unos minutos…">
+
+<!ENTITY  installerrors.wizard.title      "Problemes instalando autualizaciones">
+<!ENTITY  installerrors.intro.label       "&brandShortName; alcontró problemes al autualizar
+                                           dalgunos de los sos complementos.">
+
+<!-- general strings used by several of the finish pages -->
+<!ENTITY  clickFinish.label               "Calque Finar pa siguir aniciando &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Calque Fináu pa siguir aniciando &brandShortName;.">
+<!ENTITY  enableChecking.label            "Permitir a &brandShortName; guetar autualizaciones.">
+<!ENTITY  details.label                   "Detáis…">
+<!ENTITY  details.accesskey               "D">

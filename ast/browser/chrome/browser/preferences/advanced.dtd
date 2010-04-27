@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Xeneral">
+
+<!ENTITY accessibility.label             "Accesibilidá">
+
+<!ENTITY useCursorNavigation.label       "Usar siempres les tecles del cursor pa restolar dientro de les páxines">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Buscar testu mientres s'escribe">
+<!ENTITY searchStartTyping.accesskey     "s">
+<!ENTITY blockAutoRefresh.label          "Avisame de les páxines web qu'intenten redireicionar o recargar la páxina">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Ñavegación">
+
+<!ENTITY useAutoScroll.label             "Usar desplazamientu automáticu">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Usar desplazamientu sele">
+<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY checkSpelling.label             "Comprobar la ortografía mientres s'escribe">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Por defeutu">
+<!ENTITY alwaysCheckDefault.label        "Comprobar siempres si &brandShortName; ye'l restolador por defeutu al arrancar"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "s">
+<!ENTITY checkNow.label                  "Comprobar agora">
+<!ENTITY checkNow.accesskey              "p">
+
+<!ENTITY networkTab.label                "Rede">
+
+<!ENTITY connection.label                "Conexón">
+
+<!ENTITY connectionDesc.label            "Configurar cómo &brandShortName; se coneuta a Internet">
+<!ENTITY connectionSettings.label        "Configuración…">
+<!ENTITY connectionSettings.accesskey    "o">
+
+<!ENTITY offlineStorage.label            "Archiváu de mou ensin conexón">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Usar hasta">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB d'espaciu pa la caché">
+<!ENTITY clearCacheNow.label             "Llimpiar agora">
+<!ENTITY clearCacheNow.accesskey         "g">
+
+<!ENTITY updateTab.label                 "Autualizar">
+
+<!ENTITY autoCheck.label                 "Guetar automáticamente actualizaciones pa:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Complementos">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Buscadores">
+<!ENTITY enableSearchUpdate.accesskey    "B">
+<!ENTITY whenUpdatesFound.label          "Cuando s'alcuentren actualizaciones pa &brandShortName;:">
+<!ENTITY askMe.label                     "Entrugar qué facer">
+<!ENTITY askMe.accesskey                 "q">
+<!ENTITY modeAutomatic.label             "Descargar ya instalar l'autualización automáticamente">
+<!ENTITY modeAutomatic.accesskey         "D">
+<!ENTITY modeAutoAddonWarn.label         "Avisame si esto desactivará dalgún de los complementos">
+<!ENTITY modeAutoAddonWarn.accesskey     "v">
+<!ENTITY updateHistory.label             "Amosar hestorial d'actualizaciones">
+<!ENTITY updateHistory.accesskey         "c">
+
+<!ENTITY offlineNotify.label             "Avisame cuanto un sitiu entrugue pa guardar datos pal usu en mou desconexón">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Esceiciones...">
+<!ENTITY offlineNotifyExceptions.accesskey "s">
+
+<!ENTITY offlineAppsList.label           "Los siguientes sitios web tienen datos guardaos pal usu en mou ensin conexón:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Esaniciar...">
+<!ENTITY offlineAppsListRemove.accesskey "i">
+<!ENTITY offlineAppRemove.confirm        "Esaniciar conteníu en mou desconeutáu">
+
+<!ENTITY encryptionTab.label             "Cifráu">
+
+<!ENTITY protocols.label                 "Protocolos">
+<!ENTITY useSSL3.label                   "Usar SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Usar TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificaos">
+<!ENTITY certSelection.description       "Cuando un sirvidor requiera el mio certificáu personal:">
+<!ENTITY certs.auto                      "Seleicionar ún automáticamente">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Entrugar siempres">
+<!ENTITY certs.ask.accesskey             "g">
+<!ENTITY viewCerts.label                 "Ver certificaos">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "Llistes de revocación">
+<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY verify2.label                   "Validación">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Dispositivos de seguridá">
+<!ENTITY viewSecurityDevices.accesskey   "o">

@@ -1,0 +1,12 @@
+
+<!ENTITY  history.title             "Hestorial d'autualizaciones">
+<!ENTITY  history.intro             "Instaláronse les siguientes autualizaciones:">
+<!ENTITY  closebutton.label         "Zarrar">
+                                     
+<!ENTITY  noupdates.label           "Entá nun hai autualizaciones instalaes">
+
+<!ENTITY  name.header               "Nome de l'autualización">
+<!ENTITY  date.header               "Data de instalación">
+<!ENTITY  type.header               "Tipu">
+<!ENTITY  state.header              "Estáu">
+

@@ -1,0 +1,6 @@
+<!ENTITY removePassword.title              "Desaniciar contraseña mayestra">
+<!ENTITY removeInfo.label                  "Tien d'introducir la contraseña autual pa proceder:">
+<!ENTITY removeWarning1.label              "La contraseña mayestra úsase pa protexer información importante, como contraseñes de sitios.">
+<!ENTITY removeWarning2.label              "Si desanicia la contraseña mayestra, la información nun tará protexía en casu que'l so equipu quede comprometíu.">
+<!ENTITY setPassword.oldPassword.label     "Contraseña autual:">
+

@@ -1,0 +1,451 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator "-">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+
+<!ENTITY tabCmd.label "Nueva llingüeta">
+<!ENTITY tabCmd.accesskey "t">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Abrir direición…">
+<!ENTITY openLocationCmd.accesskey "A">
+<!ENTITY openFileCmd.label "Abrir ficheru…">
+<!ENTITY openFileCmd.accesskey "b">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Configurar páxina…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Prever imprentación">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Imprentar…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Importar…">
+<!ENTITY import.accesskey "I">
+
+<!ENTITY goOfflineCmd.label "Trabayar ensin conexón">
+<!ENTITY goOfflineCmd.accesskey "T">
+
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "m">
+<!ENTITY navbarCmd.label "Barra de ferramientes de navegación">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Barra de ferramientes de marcadores">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "Elementos de la barra de ferramientes de marcadores">
+<!ENTITY taskbarCmd.label "Barra d'estáu">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "Códigu fonte de la páxina">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Información de la páxina">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Pantalla completa">
+<!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Amosar toles llingüetes">
+<!ENTITY showAllTabsCmd.accesskey "A">
+
+<!ENTITY fullScreenMinimize.tooltip "Amenorgar">
+<!ENTITY fullScreenRestore.tooltip "Restaurar">
+<!ENTITY fullScreenClose.tooltip "Zarrar">
+<!ENTITY fullScreenAutohide.label "Anubrir les barres de ferramientes">
+<!ENTITY fullScreenAutohide.accesskey "f">
+<!ENTITY fullScreenExit.label "Salir del mou pantalla completa">
+<!ENTITY fullScreenExit.accesskey "m">
+
+<!ENTITY closeWindow.label "Zarrar ventana">
+<!ENTITY closeWindow.accesskey "Z">
+
+<!ENTITY bookmarksMenu.label "Marcadores">
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY bookmarkThisPageCmd.label "Amestar a marcadores esta páxina">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Soscribise a esta páxina">
+<!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
+<!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
+<!ENTITY organizeBookmarks.label "Organizar marcadores">
+<!ENTITY bookmarkAllCmd.label "Amestar a marcadores toles llingüetes…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
+
+<!ENTITY backCmd.label                "Atrás">
+<!ENTITY backCmd.accesskey            "A">
+<!ENTITY backButton.tooltip           "Dir atrás">
+<!ENTITY forwardCmd.label             "Alantre">
+<!ENTITY forwardCmd.accesskey         "A">
+<!ENTITY forwardButton.tooltip        "Dir alantre">
+<!ENTITY backForwardMenu.tooltip      "Páxines recientes">
+<!ENTITY reloadCmd.label              "Recargar">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadButton.tooltip         "Recargar esta páxina">
+<!ENTITY stopCmd.label                "Parar">
+<!ENTITY stopCmd.accesskey            "P">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Parar la carga d'esta páxina">
+<!ENTITY goEndCap.tooltip             "Dir a la URL de la barra de direiciones">
+<!ENTITY feedButton.tooltip           "Soscribise a esta páxina…">
+<!ENTITY printButton.label            "Imprentar">
+<!ENTITY printButton.tooltip          "Imprentar esta páxina">
+
+<!ENTITY locationItem.title           "Direición">
+<!ENTITY searchItem.title             "Guetar">
+<!ENTITY throbberItem.title           "Progresu">
+<!ENTITY bookmarksItem.title          "Marcadores">
+
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "Entamu">
+
+<!ENTITY bookmarksButton.label          "Marcadores">
+<!ENTITY bookmarksButton.tooltip        "Amosar los sos marcadores">
+<!ENTITY bookmarksButton.accesskey  "M">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "Hestorial">
+<!ENTITY historyButton.tooltip          "Amosar páxines que viste hai pocu.">
+<!ENTITY historySidebarCmd.accesskey    "s">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Ferramientes">
+<!ENTITY toolsMenu.accesskey          "F"> 
+
+<!ENTITY keywordfield.label           "Amestar una pallabra clave pa esta gueta...">
+<!ENTITY keywordfield.accesskey       "p">
+<!ENTITY search.label                 "Búsqueda na web">
+<!ENTITY search.accesskey             "B">
+<!ENTITY downloads.label              "Descargues">
+<!ENTITY downloads.tooltip            "Amuesa'l progresu de les descargues en cursu">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Complementos">
+<!ENTITY addons.tooltip               "Llistáu y xestión de los complementos instalaos.">
+<!ENTITY addons.accesskey             "p">
+
+<!ENTITY errorConsoleCmd.label        "Consola d'errores">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY fileMenu.label         "Ficheru"> 
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newNavigatorCmd.label        "Nueva ventana">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+
+<!ENTITY editMenu.label         "Editar"> 
+<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY undoCmd.label            "Esfacer">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "f"> 
+<!ENTITY redoCmd.label            "Refacer">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "Cortar">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Copiar">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "Pegar">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY deleteCmd.label          "Desaniciar">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY selectAllCmd.label         "Seleicionar tou">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY preferencesCmd.label       "Opciones…">
+<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmdUnix.label       "Preferencies">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY clearRecentHistoryCmd.label            "Llimpiar l'hestorial reciente">
+<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Aniciar la navegación privao">
+<!ENTITY privateBrowsingCmd.start.accesskey     "p">
+<!ENTITY privateBrowsingCmd.stop.label          "Detener la Navegación Privao">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Ver"> 
+<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewToolbarsMenu.label       "Barres de ferramientes"> 
+<!ENTITY viewToolbarsMenu.accesskey     "t"> 
+<!ENTITY viewSidebarMenu.label "Panel llateral">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "P">
+
+<!ENTITY historyMenu.label "Hestorial">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Llingüetes zarraes recién">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Ventanes recién zarraes">
+
+<!ENTITY historyHomeCmd.label "Entamu">
+<!ENTITY showAllHistoryCmd2.label "Amosar tol hestorial">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar en marcadores ya hestorial">
+<!ENTITY urlbar.bookmark.emptyText    "Guetar marcadores">
+<!ENTITY urlbar.history.emptyText     "Hestorial de búsquedes">
+<!ENTITY urlbar.none.emptyText        "Introduz una direición Web">
+<!ENTITY urlbar.accesskey             "d">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmd.label            "Abrir enllaz nuna ventana nueva">
+<!ENTITY openLinkCmd.accesskey        "A">
+<!ENTITY openLinkCmdInTab.label       "Abrir vínculu nuna nueva llingüeta">
+<!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openFrameCmd.label           "Abrir el marcu nuna nueva ventana">
+<!ENTITY openFrameCmd.accesskey       "m">
+<!ENTITY openFrameCmdInTab.label      "Abrir marcu nuna nueva llingüeta">
+<!ENTITY openFrameCmdInTab.accesskey  "t">
+<!ENTITY showOnlyThisFrameCmd.label     "Amosar namái esti marcu">
+<!ENTITY showOnlyThisFrameCmd.accesskey "s">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Recargar marcu">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ver códigu fonte seleicionáu">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Ver el códigu fonte MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Ver códigu fonte de la páxina">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "Ver códigu fonte del marcu">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Ver información de la páxina">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Ver información del marcu">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Recargar imaxe">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY viewImageCmd.label           "Ver imaxe">
+<!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageInfoCmd.label       "Ver información d'imaxe">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewVideoCmd.label           "Ver video">
+<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewBGImageCmd.label         "Ver imaxe de fondu">
+<!ENTITY viewBGImageCmd.accesskey     "x">
+<!ENTITY setDesktopBackgroundCmd.label      "Afitar como fondu d'escritoriu">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
+<!ENTITY bookmarkPageCmd2.label       "Amestar esta páxina a marcadores">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Amestar esti enllaz a marcadores">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
+<!ENTITY bookmarkThisFrameCmd.label      "Amestar esti cuadru a marcadores">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY sendPageCmd.label            "Unviar páxina…">
+<!ENTITY sendPageCmd.accesskey        "U">
+<!ENTITY savePageCmd.label            "Guardar páxina como…">
+<!ENTITY savePageCmd.accesskey        "x">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "p">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Guardar marcu como…">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY printFrameCmd.label          "Imprentar marcu…">
+<!ENTITY printFrameCmd.accesskey      "p">
+<!ENTITY saveLinkCmd.label            "Guardar enllaz como…">
+<!ENTITY saveLinkCmd.accesskey        "n">
+<!ENTITY sendLinkCmd.label            "Unviar enllaz…"> 
+<!ENTITY sendLinkCmd.accesskey        "U">
+<!ENTITY saveImageCmd.label           "Guardar imaxe como…">
+<!ENTITY saveImageCmd.accesskey       "d">
+<!ENTITY saveVideoCmd.label           "Guardar Vídeo como…">
+<!ENTITY saveVideoCmd.accesskey       "V">
+<!ENTITY saveAudioCmd.label           "Guardar Audio como…">
+<!ENTITY saveAudioCmd.accesskey       "G">
+<!ENTITY sendImageCmd.label           "Unviar imaxe…">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Unviar Vídeo…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Unviar Audio…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY copyLinkCmd.label            "Copiar la ruta del enllaz">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkTextCmd.label        "Copiar enllaz de testu">
+<!ENTITY copyLinkTextCmd.accesskey    "s">
+<!ENTITY copyImageCmd.label           "Copiar la ruta de l'imaxe">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Copiar imaxe">
+<!ENTITY copyImageContentsCmd.accesskey  "C"> 
+<!ENTITY copyVideoURLCmd.label        "Copiar direición del vídeo">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar direición del audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY blockImageCmd.accesskey      "B">
+<!ENTITY copyEmailCmd.label           "Copiar direición de corréu lletrónicu">
+<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY thisFrameMenu.label              "Esti marcu">
+<!ENTITY thisFrameMenu.accesskey          "m">
+
+<!-- Media (video/audio) controls -->
+<!ENTITY mediaPlay.label             "Reproducir">
+<!ENTITY mediaPlay.accesskey         "p">
+<!ENTITY mediaPause.label            "Pausar">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Silenciar">
+<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Restaurar soníu">
+<!ENTITY mediaUnmute.accesskey       "R">
+<!ENTITY mediaShowControls.label     "Amosar Controles">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Anubrir Controles">
+<!ENTITY mediaHideControls.accesskey "C">
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "Aumentar">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Amenorgar zoom">
+<!ENTITY fullZoomReduceCmd.accesskey    "g">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Resetéu">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Namái ampliar testu">
+<!ENTITY fullZoomToggleCmd.accesskey    "t">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
+
+<!ENTITY newTabButton.tooltip           "Abrir una nueva llingüeta">
+<!ENTITY newWindowButton.tooltip        "Abrir una nueva ventana">
+<!ENTITY sidebarCloseButton.tooltip     "Zarrar panel llateral">
+
+<!ENTITY cutButton.tooltip              "Cortar">
+<!ENTITY copyButton.tooltip             "Copiar">
+<!ENTITY pasteButton.tooltip            "Pegar">
+<!ENTITY fullScreenButton.tooltip       "Amosar la ventana en pantalla completa">
+
+<!ENTITY quitApplicationCmdWin.label       "Salir"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "S">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Salir"> 
+<!ENTITY quitApplicationCmd.accesskey   "S">
+<!ENTITY quitApplicationCmdMac.label    "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key      "S">
+
+<!ENTITY closeCmd.label                 "Zarrar">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "Z">
+
+<!ENTITY pageStyleMenu.label "Estilu de páxina">
+<!ENTITY pageStyleMenu.accesskey "i">
+<!ENTITY pageStyleNoStyle.label "Ensin estilu">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Estilu de páxina básicu">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageReportIcon.tooltip            "Camudar configuración de bloquéu de ventanes emerxentes pa esti sitiu web">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Editar preferencies de bloquéu de ventanes emerxentes…">
+<!ENTITY editPopupSettings.label "Editar opciones de bloquéu de ventanes emerxentes…">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Camudar direición de la páxina">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Camudar direición del testu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Buscar nesta páxina">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Repetir la gueta">
+<!ENTITY findAgainCmd.accesskey "R">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Amestar diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
+<!ENTITY editBookmark.done.label                     "Fecho">
+<!ENTITY editBookmark.cancel.label                   "Encaboxar">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.undo.label                     "Desfacer">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.edit.label                     "Editar…">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+
+<!ENTITY identity.unverifiedsite2 "Esti sitiu web nun proporciona información d'identidá.">
+<!ENTITY identity.connectedTo "Tas coneutáu a">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "que pertenez a">
+
+<!ENTITY identity.moreInfoLinkText "Más información…">
+
+<!ENTITY downloadMonitor2.tooltip "Clicar p'abrir la ventana de descargues">
+
+<!ENTITY allTabs.filter.emptyText "Guetar llingüetes">

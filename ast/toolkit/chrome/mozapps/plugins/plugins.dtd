@@ -1,0 +1,25 @@
+<!ENTITY pluginWizard.title                                  "Serviciu de busca de plugins">
+<!ENTITY pluginWizard.firstPage.title                        "Bienaportáu al &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ta comprebando agora los plugins disponibles…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Descargues de plugins disponibles">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Los siguientes plugins tán disponibles:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Calque Siguiente pa instalar estos plugins.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dalgunos plugins puen solicita-y información adicional durante la instalación.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Llicencies de los Plugins">
+<!ENTITY pluginWizard.licensePage.accept.label               "Toi d'alcuerdu.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Nun toi d'alcuerdu (el plugin nun s'instalará).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Instalando plugins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ta instalando plugins…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; finó d'instalar los plugins que faltaben:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Más al rodiu de Plugins o guetar manualmente los plugins que falten.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Necesítase reaniciar &brandShortName; pa que furrulen los plugins.">
+  
+<!ENTITY missingPlugin.label                                 "Calcar equí pa descargar el plugin.">
+<!ENTITY disabledPlugin.label                                "Desactivóse'l plugin pa esti conteníu. Calque equí p'alministrar los sos plugins.">
+<!ENTITY blockedPlugin.label                                 "Bloquióse esti plugin pa la so proteición.">

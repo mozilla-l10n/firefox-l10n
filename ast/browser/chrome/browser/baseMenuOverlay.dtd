@@ -1,0 +1,41 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Amenorgar">
+<!ENTITY bringAllToFront.label    "Traer tou delantre">
+<!ENTITY zoomWindow.label         "Tamañu">
+<!ENTITY windowMenu.label         "Ventana">
+
+<!ENTITY helpMenu.label           "Aida"> 
+<!ENTITY helpMenu.accesskey       "A"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Aida"> 
+<!ENTITY helpMenuWin.accesskey    "A">
+<!ENTITY aboutCmd.label           "Tocante a &brandFullName;">
+<!ENTITY aboutCmd.accesskey       "T">
+<!ENTITY productHelp.label        "Aida de &brandShortName;">
+<!ENTITY productHelp.accesskey    "A">
+<!ENTITY helpForIEUsers.label     "Pa usuarios d'Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpReleaseNotes.label         "Notes de la versión">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+
+<!ENTITY helpTroubleshooting.label      "Información pa iguar problemes…">
+<!ENTITY helpTroubleshooting.accesskey  "I">
+
+<!ENTITY updateCmd.label                "Guetar actualizaciones…">
+
+<!ENTITY preferencesCmdMac.label        "Preferencies…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Servicios">
+
+<!ENTITY hideThisAppCmdMac.label        "Anubrir &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Anubrir otros">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Amosar tou">

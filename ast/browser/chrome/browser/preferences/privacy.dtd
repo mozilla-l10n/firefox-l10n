@@ -1,0 +1,83 @@
+<!ENTITY  history.label                 "Hestorial">
+
+<!ENTITY  locationBar.label             "Barra de direiciones">
+
+<!ENTITY  locbar.pre.label              "Cuando s'use la barra de direiciones, suxerir:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historial y Marcadores">
+<!ENTITY  locbar.history.label          "Hestorial">
+<!ENTITY  locbar.bookmarks.label        "Marcadores">
+<!ENTITY  locbar.nothing.label          "Res">
+
+
+<!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "Aceutar cookies de terceros">
+<!ENTITY  acceptThirdParty.accesskey    "u">
+
+<!ENTITY  keepUntil.label               "Caltener hasta que:">
+<!ENTITY  keepUntil.accesskey           "C">
+
+<!ENTITY  expire.label                  "caduquen">
+<!ENTITY  close.label                   "zarro &brandShortName;">
+<!ENTITY  askEachTime.label             "entrugar siempres">
+
+<!ENTITY  cookieExceptions.label        "Esceiciones…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Amosar cookies…">
+<!ENTITY  showCookies.accesskey         "s">
+
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; fadrá:">
+<!ENTITY  historyHeader.pre.accesskey      "f">
+<!ENTITY  historyHeader.remember.label     "Remembrar l'historial">
+<!ENTITY  historyHeader.dontremember.label "Nun remembrar hestorial">
+<!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal hestorial">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; remembrará'l so hestorial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visite.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "También podrí­a ">
+<!ENTITY  rememberActions.clearHistory.label  "llimpiar el so hestorial reciente">
+<!ENTITY  rememberActions.middle.label        ", o ">
+<!ENTITY  rememberActions.removeCookies.label "desaniciar cookies de mou individual">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que na navegación privao, y nun remembrará dengún datu del so hestorial mientres que restole pela Web.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Tamién podría interesa-y ">
+<!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol hestorial">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingAutoStart.label "Abrir automáticamente &brandShortName; nuna sesión de navegación privao">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
+  line in preferences as follows:
+
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "Remembrar l'hestorial de gueta a lo menos">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
+<!ENTITY  rememberHistory.post.label     "díes">
+
+<!ENTITY  rememberDownload.label         "Remembrar l'hestorial de descargues">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Remembrar l'hestorial de formularios y guetes">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Llimpiar l'hestorial cuando &brandShortName; se zarre">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "Configuración…">
+<!ENTITY  clearOnCloseSettings.accesskey "C">

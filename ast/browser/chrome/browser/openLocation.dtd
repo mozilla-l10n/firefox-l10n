@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Introduza la direición web (URL), o especifique l'archivo llocal que quier abrir:">  
+<!ENTITY chooseFile.label "Elexir archivu…">
+<!ENTITY newWindow.label "Nueva ventana">
+<!ENTITY newTab.label "Nueva llingüeta">
+<!ENTITY topTab.label "Llingüeta actual">
+<!ENTITY caption.label "Propiedaes del elementu">
+<!ENTITY openWhere.label "Abrir en:">
+<!ENTITY openBtn.label "Abrir">

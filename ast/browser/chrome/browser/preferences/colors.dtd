@@ -1,0 +1,22 @@
+<!ENTITY  colorsDialog.title              "Colores">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Permitir a les páxines elexir los sos propios colores, n'arróu de la mio seleición anterior.">
+<!ENTITY  allowPagesToUse.accesskey       "P">
+
+<!ENTITY  color                           "Testu y fondu">
+<!ENTITY  textColor.label                 "Testu:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Fondu:">
+<!ENTITY  backgroundColor.accesskey       "F">
+<!ENTITY  useSystemColors.label           "Utilizar los colores del sistema">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Sorrayar enllaces">
+<!ENTITY  underlineLinks.accesskey        "S">
+<!ENTITY  links                           "Color de los enllaces">
+<!ENTITY  linkColor.label                 "Enllaces non visitaos:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Enllaces visitaos:">
+<!ENTITY  visitedLinkColor.accesskey      "v">

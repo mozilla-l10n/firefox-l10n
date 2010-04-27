@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Asistente d'importación">
+
+<!ENTITY importFrom.label               "Importar opciones, marcadores, hestorial, contraseñes y otros datos de:">
+<!ENTITY importFromUnix.label           "Importar preferencies, marcadores, hestorial, contraseñes y otros datos de:">
+<!ENTITY importFromBookmarks.label      "Importar marcadores de:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird o Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Nun importar un ren">
+<!ENTITY importFromNothing.accesskey    "p">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 o Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camín">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Dende un archivu HTML">
+<!ENTITY importFromHTMLFile.accesskey   "D">
+
+<!ENTITY noMigrationSources.label       "Nun se pudieron atopar programes que contuvieran marcadores, hestorial o datos de contraseñes.">
+
+<!ENTITY importSource.title             "Importar configuraciones y datos">
+<!ENTITY importItems.title              "Elementos a importar">
+<!ENTITY importItems.label              "Seleicionar qué elementos importar:">
+
+<!ENTITY migrating.title                "Importando…">
+<!ENTITY migrating.label                "Los siguientes elementos tan importándose nesti intre…">
+
+<!ENTITY selectProfile.title            "Seleicionar perfil">
+<!ENTITY selectProfile.label            "Los siguientes perfiles tan disponibles pa importar dende:">
+
+<!ENTITY done.title                     "Importación fecha ensembre">
+<!ENTITY done.label                     "Los siguientes elementos importáronse correchamente:">
+

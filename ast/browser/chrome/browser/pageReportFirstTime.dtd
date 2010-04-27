@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Un sitiu web quixo abrir una ventana emerxente ensin el so permisu, que foi pesllada automáticamente por &brandShortName;. Cada vegada que &brandShortName; bloquie una d'estes ventanes, amosaráse un iconu na barra d'estáu.">
+
+<!ENTITY endDescription.label              "Pue calcar nesti iconu pa ver los sitios que bloquió &brandShortName; y dexar qu'esos sitios abran ventanes emerxentes si se requieren pa qu'el sitiu funcione correchamente.">
+
+<!ENTITY caption.label                     "Tocante al bloquéu de ventanes emerxentes">
+
+<!ENTITY done.label "Fecho">
