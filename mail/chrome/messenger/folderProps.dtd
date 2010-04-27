@@ -86,7 +86,7 @@
 <!ENTITY offlineNewsgroup.button.accesskey       "h">
 
 <!ENTITY folderProps.name.label                  "Name des Ordners:">
-<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.name.accesskey              "O">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
