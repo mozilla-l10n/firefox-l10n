@@ -16,8 +16,8 @@
 <!ENTITY quickFilterBar.attachment.label   "Z załącznikiem">
 <!ENTITY quickFilterBar.attachment.tooltip "Wyświetl wyłącznie wiadomości posiadające załączniki">
 
-<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 wiadomość;#1 wiadomości;#1 wiadomości">
-<!ENTITY quickFilterBar.resultsLabel.none              "Nie znaleziono"><!-- FIXME: sprawdzić czy pasuje -->
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "Znaleziono #1 wiadomość;Znaleziono #1 wiadomości;Znaleziono #1 wiadomości">
+<!ENTITY quickFilterBar.resultsLabel.none              "Nie znaleziono żadnych wiadomości">
 
 <!ENTITY quickFilterBar.resultsLabel.minWidth "100"><!-- FIXME: Please size this so that a 3 or 4 digit number of messages in the results can be displayed without growing the size of the box.  You can tell this has been accomplished if adding a filter constraint that changes the displayed string to your "no results" string does not result in any changes to the size of the text box to the label's right.  (If your string for "no results" is longer than the "#### messages" case, then size for that. -->
 
