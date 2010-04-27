@@ -20,6 +20,7 @@
 <!ENTITY undoCloseTab.accesskey "с">
 <!ENTITY closeTab.label "Закрыть вкладку">
 <!ENTITY closeTab.accesskey "к">
+<!ENTITY listAllTabs.label "Список всех вкладок">
 <!ENTITY tabCmd.label "Новая вкладка">
 <!ENTITY tabCmd.accesskey "в">
 <!ENTITY tabCmd.commandkey "t">
