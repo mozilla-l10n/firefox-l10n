@@ -1,0 +1,10 @@
+<!ENTITY header.label "Ainm goirid">
+<!ENTITY message.label "Ball-sampaill de theacs an-seo.">
+<!ENTITY editfield0.label "Ainm a' chleachdaiche:">
+<!ENTITY editfield1.label "Facal-faire:">
+<!ENTITY editfield2.label "Dearbhaich am facal-faire:">
+<!ENTITY checkbox.label "cuir cromag">
+<!ENTITY copyCmd.label "Dèan leth-bhreac">
+<!ENTITY copyCmd.accesskey "L">
+<!ENTITY selectAllCmd.label "Tagh na h-uile">
+<!ENTITY selectAllCmd.accesskey "T">

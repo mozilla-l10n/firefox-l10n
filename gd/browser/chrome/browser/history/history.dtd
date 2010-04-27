@@ -1,0 +1,26 @@
+<!ENTITY find.label "Lorg:">
+<!ENTITY find.accesskey "G">
+<!ENTITY expand.label "Leudaich">
+<!ENTITY expand.accesskey "L">
+<!ENTITY collapse.label "Dùmhlaich">
+<!ENTITY collapse.accesskey "D">
+<!ENTITY byDate.label "A-rèir cinn-latha">
+<!ENTITY byDate.accesskey "T">
+<!ENTITY bySite.label "A-rèir làraich">
+<!ENTITY bySite.accesskey "R">
+<!ENTITY view.label "Seall">
+<!ENTITY view.accesskey "a">
+<!ENTITY byMostVisited.label "A-rèir uiread nan tadhal">
+<!ENTITY byMostVisited.accesskey "U">
+<!ENTITY byLastVisited.label "A-rèir an tadhail mu dheireadh">
+<!ENTITY byLastVisited.accesskey "M">
+<!ENTITY byDayAndSite.label "A-rèir cinn-latha is làraich">
+<!ENTITY byDayAndSite.accesskey "n">
+<!ENTITY openLinkInWindow.label "Fosgail">
+<!ENTITY openLinkInWindow.accesskey "F">
+<!ENTITY openInNewTab.label "Fosgail ann an taba ùr">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "Fosgail ann an uinneag ùr">
+<!ENTITY openInNewWindow.accesskey "U">
+<!ENTITY copyLink.label "Dèan leth-bhreac de sheòladh a' cheangail">
+<!ENTITY copyLink.accesskey "L">

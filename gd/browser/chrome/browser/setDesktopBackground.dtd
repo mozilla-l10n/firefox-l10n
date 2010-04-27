@@ -1,0 +1,9 @@
+<!ENTITY position.label "Seòladh:">
+<!ENTITY tile.label "Leacaich">
+<!ENTITY center.label "Cuir sa mheadhan">
+<!ENTITY stretch.label "Sìn">
+<!ENTITY preview.label "Ro-sheall">
+<!ENTITY color.label "Dath:">
+<!ENTITY setDesktopBackground.title "Suidhich cùlaibh an deasg">
+<!ENTITY openDesktopPrefs.label "Fosgail roghainnean an deasg">
+<!ENTITY closeWindow.key "w">

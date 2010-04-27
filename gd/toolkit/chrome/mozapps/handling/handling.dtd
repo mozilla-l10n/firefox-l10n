@@ -1,0 +1,5 @@
+<!ENTITY window.emWidth "30em">
+<!ENTITY window.emHeight "30em">
+<!ENTITY ChooseApp.description "Tagh prògram">
+<!ENTITY ChooseApp.label "Tagh…">
+<!ENTITY ChooseApp.accessKey "T">

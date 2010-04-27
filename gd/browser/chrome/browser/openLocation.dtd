@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Cuir a-steach an seòladh-lìn (URL) no sònraich am faidhle ionadail a bu toigh leat fosgladh:">
+<!ENTITY chooseFile.label "Tagh faidhle…">
+<!ENTITY newWindow.label "Uinneag ùr">
+<!ENTITY newTab.label "Taba ùr">
+<!ENTITY topTab.label "An taba làithreach">
+<!ENTITY caption.label "Fosgail seòladh-lìn">
+<!ENTITY openWhere.label "Fosgail ann an:">
+<!ENTITY openBtn.label "Fosgail">

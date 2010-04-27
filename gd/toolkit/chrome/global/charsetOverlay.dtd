@@ -1,0 +1,21 @@
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label "Còdachadh charactairean">
+<!ENTITY charsetMenu.accesskey "C">
+<!ENTITY charsetMenuAutodet.label "Mothachadh leis fhèin">
+<!ENTITY charsetMenuAutodet.accesskey "m">
+<!ENTITY charsetMenuMore.label "Barrachd còdachaidhean">
+<!ENTITY charsetMenuMore.accesskey "b">
+<!ENTITY charsetMenuMore1.label "Taobh an Iar na Roinn Eòrpa">
+<!ENTITY charsetMenuMore1.accesskey "i">
+<!ENTITY charsetMenuMore2.label "Taobh an Ear na Roinn Eòrpa">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "Taobh an Ear Àisea">
+<!ENTITY charsetMenuMore3.accesskey "A">
+<!ENTITY charsetMenuMore4.label "Taobh an Ear-dheas ┐ Iar-dheas Àisea">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "An t-Ear-mheadhan">
+<!ENTITY charsetMenuMore5.accesskey "M">
+<!ENTITY charsetMenuUnicode.label "Unicode">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "Gnàthaich an liosta…">
+<!ENTITY charsetCustomize.accesskey "g">

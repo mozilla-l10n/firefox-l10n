@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Ro-shealladh clò-bhualaidh">
+<!ENTITY title "Tiotal:">
+<!ENTITY preparing "Ag ullachadh…">
+<!ENTITY progress "Adhartas:">

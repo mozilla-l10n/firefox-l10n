@@ -1,0 +1,22 @@
+<!ENTITY privatebrowsingpage.title "Rannsachadh prìobhaideach">
+<!ENTITY privatebrowsingpage.title.normal "A bheil thu airson tòiseachadh air rannsachadh prìobhaideach?">
+
+<!ENTITY privatebrowsingpage.issueDesc "Cha chum &brandShortName; eachdraidh an t-seisein seo na chuimhne.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Chan eil &brandShortName; ann am modh rannsachaidh prìobhaidich an-dràsta.">
+
+<!ENTITY privatebrowsingpage.description "Cha chum &brandShortName; eachdraidh a' bhrabhsair, eachdraidh luirg, eachdraidh luchdaidh, eachdraidh fhoirmean-lìn, briosgaidean no faidhlichean-lìn sealach na chuimhne nuair a bhios tu ann am modh rannsachaidh prìobhaidich. Ge-tà, thèid faidhlichean a luchdaicheas tu a-nuas agus comharraidhean-lìn a nì thu a chumail.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "'S dòcha gum b' fheairrde dhut tòiseachadh le">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "glanadh na h-eachdraidh faisg ort">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Tòisich air rannsachadh prìobhaideach">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop "Gus casg a chur air rannsachadh prìobhaideach, tagh &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; no dùin &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "Gus tòiseachadh air rannsachadh prìobhaideach, 's urrainn dhut &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; a thaghadh cuideachd.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Fhad 's nach bi clàr d' eachdraidh rannsachaidh air a' choimpiutair seo, 's urrainn dhan t-solaraiche-lìn agad no dhan fhastaiche agad fios fhaighinn air na duilleagan a thadhail thu air.">
+<!ENTITY privatebrowsingpage.learnMore "Faigh tuilleadh eòlais">

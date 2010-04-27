@@ -1,0 +1,18 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Lorg air an duilleag seo">
+<!ENTITY findField.label "Lorg an rud seo:">
+<!ENTITY findField.accesskey "s">
+<!ENTITY caseSensitiveCheckbox.label "Aire do litrichean mòra is beaga">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY wrapCheckbox.label "Paisg">
+<!ENTITY wrapCheckbox.accesskey "P">
+<!ENTITY findButton.label "An ath-fhear">
+<!ENTITY findButton.accesskey "F">
+<!ENTITY cancelButton.label "Sguir dheth">
+<!ENTITY closeButton.label "Dùin">
+<!ENTITY up.label "Suas">
+<!ENTITY up.accesskey "U">
+<!ENTITY down.label "Sìos">
+<!ENTITY down.accesskey "S">
+<!ENTITY direction.label "Taobh">

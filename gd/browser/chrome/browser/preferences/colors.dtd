@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "Dathan">
+<!ENTITY window.width "46em">
+<!ENTITY window.macWidth "49em">
+
+<!ENTITY allowPagesToUse.label "Leig le duilleagan na dathan aca fhèin a thaghadh seach mo thaghadh-sa gu h-àrd">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY color "Teacs is cùlaibh">
+<!ENTITY textColor.label "Teacs:">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "Cùlaibh:">
+<!ENTITY backgroundColor.accesskey "c">
+<!ENTITY useSystemColors.label "Cleachd dathan an t-siostaim">
+<!ENTITY useSystemColors.accesskey "s">
+
+<!ENTITY underlineLinks.label "Cuir loidhne fo cheanglaichean">
+<!ENTITY underlineLinks.accesskey "u">
+<!ENTITY links "Dathan nan ceangal">
+<!ENTITY linkColor.label "Ceanglaichean gun tadhal orra:">
+<!ENTITY linkColor.accesskey "l">
+<!ENTITY visitedLinkColor.label "Ceanglaichean a thadhladh orra:">
+<!ENTITY visitedLinkColor.accesskey "o">

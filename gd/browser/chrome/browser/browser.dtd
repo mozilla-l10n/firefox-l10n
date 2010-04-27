@@ -1,0 +1,455 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Rannsachadh prìobhaideach)">
+
+<!ENTITY tabCmd.label "Taba ùr">
+<!ENTITY tabCmd.accesskey "B">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Fosgail seòladh-lìn…">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "Fosgail faidhle…">
+<!ENTITY openFileCmd.accesskey "F">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Roghainnean na duilleige…">
+<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
+<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printCmd.label "Clò-bhuail…">
+<!ENTITY printCmd.accesskey "C">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Iompaich a-steach…">
+<!ENTITY import.accesskey "E">
+
+<!ENTITY goOfflineCmd.label "Obraich far loidhne">
+<!ENTITY goOfflineCmd.accesskey "o">
+
+<!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
+<!ENTITY menubarCmd.accesskey "B">
+<!ENTITY navbarCmd.label "Bàr an t-seòlaidh">
+<!ENTITY navbarCmd.accesskey "S">
+<!ENTITY personalbarCmd.label "Bàr nan comharra-lìn">
+<!ENTITY personalbarCmd.accesskey "C">
+<!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharra-lìn">
+<!ENTITY taskbarCmd.label "Bàr 'na staide">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "Tobar na duilleige">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Fiosrachadh na duilleige">
+<!ENTITY pageInfoCmd.accesskey "F">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Làn-sgàilean">
+<!ENTITY fullScreenCmd.accesskey "L">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Seall gach taba">
+<!ENTITY showAllTabsCmd.accesskey "A">
+
+<!ENTITY fullScreenMinimize.tooltip "Lughdaich">
+<!ENTITY fullScreenRestore.tooltip "Aisig">
+<!ENTITY fullScreenClose.tooltip "Dùin">
+<!ENTITY fullScreenAutohide.label "Cuir bàraichean-inneil am falach">
+<!ENTITY fullScreenAutohide.accesskey "C">
+<!ENTITY fullScreenExit.label "Fàg modh an làn-sgàilein">
+<!ENTITY fullScreenExit.accesskey "L">
+
+<!ENTITY closeWindow.label "Dùin an uinneag">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "Comharraidhean-lìn">
+<!ENTITY bookmarksMenu.accesskey "C">
+<!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn airson an duilleag seo">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Fo-sgrìobh gun duilleag seo">
+<!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
+<!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
+<!ENTITY organizeBookmarks.label "Cuir air dòigh na comharraidhean-lìn…">
+<!ENTITY bookmarkAllCmd.label "Dèan comharra-lìn de gach taba…">
+<!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharraidhean-lìn">
+
+<!ENTITY backCmd.label "Air ais">
+<!ENTITY backCmd.accesskey "I">
+<!ENTITY backButton.tooltip "Rach duilleag air ais">
+<!ENTITY forwardCmd.label "Air adhart">
+<!ENTITY forwardCmd.accesskey "D">
+<!ENTITY forwardButton.tooltip "Rach duilleag air adhart">
+<!ENTITY backForwardMenu.tooltip "Duilleagan mu dheireadh">
+<!ENTITY reloadCmd.label "Ath-luchdaich">
+<!ENTITY reloadCmd.accesskey "A">
+<!ENTITY reloadButton.tooltip "Ath-luchdaich an duilleag làithreach">
+<!ENTITY stopCmd.label "Sguir dheth">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Sguir de luchdadh na duilleige seo">
+<!ENTITY goEndCap.tooltip "Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh">
+<!ENTITY feedButton.tooltip "Fo-sgrìobh gun duilleag seo…">
+<!ENTITY printButton.label "Clò-bhuail">
+<!ENTITY printButton.tooltip "Clò-bhuail an duilleag seo">
+
+<!ENTITY locationItem.title "Àite">
+<!ENTITY searchItem.title "Lorg">
+<!ENTITY throbberItem.title "Tosgair gnìomhachd">
+<!ENTITY bookmarksItem.title "Comharraidhean-lìn">
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label "Dhachaigh">
+
+<!ENTITY bookmarksButton.label "Comharraidhean-lìn">
+<!ENTITY bookmarksButton.tooltip "Seall na comharraidhean-lìn agad">
+<!ENTITY bookmarksButton.accesskey "C">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "Eachdraidh">
+<!ENTITY historyButton.tooltip "Seall na duilleagan a choimhead thu air o chionn ghoirid">
+<!ENTITY historySidebarCmd.accesskey "s">
+<!ENTITY historySidebarCmd.commandKey "h">
+
+<!ENTITY toolsMenu.label "Innealan">
+<!ENTITY toolsMenu.accesskey "I">
+
+<!ENTITY keywordfield.label "Cuir facal-luirg ris an lorg seo…">
+<!ENTITY keywordfield.accesskey "L">
+<!ENTITY search.label "Lorg air an lìon">
+<!ENTITY search.accesskey "L">
+<!ENTITY downloads.label "Na chaidh a luchdadh a-nuas">
+<!ENTITY downloads.tooltip "Seall adhartas na thathar a' luchdadh a-nuas">
+<!ENTITY downloads.accesskey "U">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "Tuilleadan">
+<!ENTITY addons.tooltip "Seall is rianaich na tuilleadan a tha air an stàladh">
+<!ENTITY addons.accesskey "T">
+
+<!ENTITY errorConsoleCmd.label "Consol nam mearachd">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY fileMenu.label "Faidhle">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newNavigatorCmd.label "Uinneag ùr">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "U">
+
+<!ENTITY editMenu.label "Deasaich">
+<!ENTITY editMenu.accesskey "D">
+<!ENTITY undoCmd.label "Neo dhèan">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "N">
+<!ENTITY redoCmd.label "Ath-dhèan">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "A">
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "g">
+<!ENTITY copyCmd.label "Dèan leth-bhreac">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "L">
+<!ENTITY pasteCmd.label "Cuir ann">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "C">
+<!ENTITY deleteCmd.label "Sguaib às">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY selectAllCmd.label "Tagh na h-uile">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY preferencesCmd.label "Roghainnean…">
+<!ENTITY preferencesCmd.accesskey "R">
+<!ENTITY preferencesCmdUnix.label "Roghainnean">
+<!ENTITY preferencesCmdUnix.accesskey "r">
+
+<!ENTITY clearRecentHistoryCmd.label "Glan an eachdraidh faisg ort">
+<!ENTITY clearRecentHistoryCmd.accesskey "E">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label "Tòisich air rannsachadh prìobhaideach">
+<!ENTITY privateBrowsingCmd.start.accesskey "P">
+<!ENTITY privateBrowsingCmd.stop.label "Sguir dhen rannsachadh phrìobhaideach">
+<!ENTITY privateBrowsingCmd.stop.accesskey "P">
+<!ENTITY privateBrowsingCmd.commandkey "P">
+
+<!ENTITY viewMenu.label "Sealladh">
+<!ENTITY viewMenu.accesskey "S">
+<!ENTITY viewToolbarsMenu.label "Na bàraichean-inneil">
+<!ENTITY viewToolbarsMenu.accesskey "I">
+<!ENTITY viewSidebarMenu.label "An crann-taoibh">
+<!ENTITY viewSidebarMenu.accesskey "t">
+<!ENTITY viewCustomizeToolbar.label "Gnàthaich…">
+<!ENTITY viewCustomizeToolbar.accesskey "G">
+
+<!ENTITY historyMenu.label "Eachdraidh">
+<!ENTITY historyMenu.accesskey "i">
+<!ENTITY historyUndoMenu.label "Tabaichean a chaidh a dhùnadh o chionn ghoirid">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Uinneagan a chaidh a dhùnadh o chionn ghoirid">
+
+<!ENTITY historyHomeCmd.label "Dhachaigh">
+<!ENTITY showAllHistoryCmd2.label "Seall an eachdraidh gu lèir">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Lorg anns na comharraidhean-lìn is san eachdraidh">
+<!ENTITY urlbar.bookmark.emptyText "Lorg anns na comharraidhean-lìn">
+<!ENTITY urlbar.history.emptyText "Eachdraidh nan lorg">
+<!ENTITY urlbar.none.emptyText "Cuir a-steach seòladh-lìn">
+<!ENTITY urlbar.accesskey "d">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "Fosgail an ceangal ann an uinneag ùr">
+<!ENTITY openLinkCmd.accesskey "F">
+<!ENTITY openLinkCmdInTab.label "Fosgail an ceangal ann an taba ùr">
+<!ENTITY openLinkCmdInTab.accesskey "T">
+<!ENTITY openFrameCmd.label "Fosgail am frèam ann an uinneag ùr">
+<!ENTITY openFrameCmd.accesskey "F">
+<!ENTITY openFrameCmdInTab.label "Fosgail am frèam ann an taba ùr">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "Na seall ach am frèam seo">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "Ath-luchdaich am frèam">
+<!ENTITY reloadFrameCmd.accesskey "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Seall tobar na thagh thu">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Seall tobar MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "Seall tobar na duilleige">
+<!ENTITY viewPageSourceCmd.accesskey "S">
+<!ENTITY viewFrameSourceCmd.label "Seall tobar an fhrèama">
+<!ENTITY viewFrameSourceCmd.accesskey "S">
+<!ENTITY viewPageInfoCmd.label "Seall fiosrachadh na duilleige">
+<!ENTITY viewPageInfoCmd.accesskey "F">
+<!ENTITY viewFrameInfoCmd.label "Seall fiosrachadh an fhrèama">
+<!ENTITY viewFrameInfoCmd.accesskey "M">
+<!ENTITY reloadImageCmd.label "Ath-luchdaich an dealbh">
+<!ENTITY reloadImageCmd.accesskey "A">
+<!ENTITY viewImageCmd.label "Seall an dealbh leis fhèin">
+<!ENTITY viewImageCmd.accesskey "F">
+<!ENTITY viewImageInfoCmd.label "Seall fiosrachadh an deilbh">
+<!ENTITY viewImageInfoCmd.accesskey "f">
+<!ENTITY viewVideoCmd.label "Coimhead air video">
+<!ENTITY viewVideoCmd.accesskey "V">
+<!ENTITY viewBGImageCmd.label "Seall dealbh a' chùlaibh">
+<!ENTITY viewBGImageCmd.accesskey "c">
+<!ENTITY setDesktopBackgroundCmd.label "Suidhich mar chùlaibh an deasga…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "G">
+<!ENTITY bookmarkPageCmd2.label "Cruthaich comharra-lìn dhan duilleag seo">
+<!ENTITY bookmarkPageCmd2.accesskey "m">
+<!ENTITY bookmarkThisLinkCmd.label "Cruthaich comharra-lìn dhan cheangal seo">
+<!ENTITY bookmarkThisLinkCmd.accesskey "M">
+<!ENTITY bookmarkThisFrameCmd.label "Cruthaich comharra-lìn dhan fhrèam seo">
+<!ENTITY bookmarkThisFrameCmd.accesskey "m">
+<!ENTITY sendPageCmd.label "Seòl an ceangal…">
+<!ENTITY sendPageCmd.accesskey "c">
+<!ENTITY savePageCmd.label "Sàbhail an duilleag mar…">
+<!ENTITY savePageCmd.accesskey "S">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2 "P">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "Sàbhail am frèam mar…">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY printFrameCmd.label "Clò-bhuail am frèam…">
+<!ENTITY printFrameCmd.accesskey "C">
+<!ENTITY saveLinkCmd.label "Sàbhail an ceangal mar…">
+<!ENTITY saveLinkCmd.accesskey "n">
+<!ENTITY sendLinkCmd.label "Seòl an ceangal…">
+<!ENTITY sendLinkCmd.accesskey "c">
+<!ENTITY saveImageCmd.label "Sàbhail an dealbh mar…">
+<!ENTITY saveImageCmd.accesskey "b">
+<!ENTITY saveVideoCmd.label "Sàbhail a' video mar…">
+<!ENTITY saveVideoCmd.accesskey "v">
+<!ENTITY saveAudioCmd.label "Sàbhail an fhuaim mar…">
+<!ENTITY saveAudioCmd.accesskey "b">
+<!ENTITY sendImageCmd.label "Seòl an dealbh…">
+<!ENTITY sendImageCmd.accesskey "e">
+<!ENTITY sendVideoCmd.label "Seòl a' video…">
+<!ENTITY sendVideoCmd.accesskey "e">
+<!ENTITY sendAudioCmd.label "Seòl an fhuaim…">
+<!ENTITY sendAudioCmd.accesskey "l">
+<!ENTITY copyLinkCmd.label "Dèan leth-bhreac de sheòladh a' cheangail">
+<!ENTITY copyLinkCmd.accesskey "s">
+<!ENTITY copyLinkTextCmd.label "Dèan leth-bhreac de theacs a' cheangail">
+<!ENTITY copyLinkTextCmd.accesskey "i">
+<!ENTITY copyImageCmd.label "Dèan leth-bhreac de sheòladh an deilbh">
+<!ENTITY copyImageCmd.accesskey "h">
+<!ENTITY copyImageContentsCmd.label "Dèan leth-bhreac dhen dealbh">
+<!ENTITY copyImageContentsCmd.accesskey "d">
+<!ENTITY copyVideoURLCmd.label "Dèan leth-bhreac de sheòladh a' video">
+<!ENTITY copyVideoURLCmd.accesskey "d">
+<!ENTITY copyAudioURLCmd.label "Dèan leth-bhreac de sheòladh na fuaime">
+<!ENTITY copyAudioURLCmd.accesskey "d">
+<!ENTITY blockImageCmd.accesskey "B">
+<!ENTITY copyEmailCmd.label "Dèan leth-bhreac dhen t-seòladh phuist-d">
+<!ENTITY copyEmailCmd.accesskey "P">
+<!ENTITY thisFrameMenu.label "Am frèam seo">
+<!ENTITY thisFrameMenu.accesskey "r">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label "Cluich">
+<!ENTITY mediaPlay.accesskey "C">
+<!ENTITY mediaPause.label "Fuirich">
+<!ENTITY mediaPause.accesskey "F">
+<!ENTITY mediaMute.label "Tostaich">
+<!ENTITY mediaMute.accesskey "T">
+<!ENTITY mediaUnmute.label "Till an fhuaim">
+<!ENTITY mediaUnmute.accesskey "m">
+<!ENTITY mediaShowControls.label "Seall na h-innealan-smachd">
+<!ENTITY mediaShowControls.accesskey "I">
+<!ENTITY mediaHideControls.label "Cuir na h-innealan-smachd am falach">
+<!ENTITY mediaHideControls.accesskey "I">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+<!ENTITY fullZoomEnlargeCmd.label "Sùm a-steach">
+<!ENTITY fullZoomEnlargeCmd.accesskey "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "_: fullZoomEnlargeCmd.commandkey3
+">
+
+<!ENTITY fullZoomReduceCmd.label "Sùm a-mach">
+<!ENTITY fullZoomReduceCmd.accesskey "M">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "_: fullZoomReduceCmd.commandkey2
+">
+
+<!ENTITY fullZoomResetCmd.label "Ath-shuidhich">
+<!ENTITY fullZoomResetCmd.accesskey "H">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "_: fullZoomResetCmd.commandkey2
+">
+
+<!ENTITY fullZoomToggleCmd.label "Na sùm ach an teacs">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Sùm">
+<!ENTITY fullZoom.accesskey "S">
+
+<!ENTITY newTabButton.tooltip "Fosgail taba ùr">
+<!ENTITY newWindowButton.tooltip "Fosgail uinneag ùr">
+<!ENTITY sidebarCloseButton.tooltip "Dùin an crann-taoibh">
+
+<!ENTITY cutButton.tooltip "Gearr às">
+<!ENTITY copyButton.tooltip "Dèan leth-bhreac">
+<!ENTITY pasteButton.tooltip "Cuir ann">
+<!ENTITY fullScreenButton.tooltip "Seall an uinneag san sgàilean iomlan">
+
+<!ENTITY quitApplicationCmdWin.label "Cuir crìoch air">
+<!ENTITY quitApplicationCmdWin.accesskey "u">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Cuir crìoch air">
+<!ENTITY quitApplicationCmd.accesskey "U">
+<!ENTITY quitApplicationCmdMac.label "Cuir crìoch air &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "Q">
+
+<!ENTITY closeCmd.label "Dùin">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "D">
+
+<!ENTITY pageStyleMenu.label "Stoidhle na duilleige">
+<!ENTITY pageStyleMenu.accesskey "d">
+<!ENTITY pageStyleNoStyle.label "Gun stoidhle">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Stoidhle bhunaiteach na duilleige">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageReportIcon.tooltip "Atharraich roghainnean bacadh nam priob-uinneagan air an làrach seo">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Deasaich roghainnean bacadh nam priob-uinneagan…">
+<!ENTITY editPopupSettings.label "Deasaich roghainnean bacadh nam priob-uinneagan…">
+<!ENTITY editPopupSettings.accesskey "D">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Atharraich taobhadh na duilleige">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "Atharraich taobhadh an teacs">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY findOnCmd.label "Lorg san duilleag seo…">
+<!ENTITY findOnCmd.accesskey "L">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Lorg a-rithist">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "C">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
+<!ENTITY spellAddDictionaries.accesskey "C">
+
+<!ENTITY editBookmark.done.label "Dèanta">
+<!ENTITY editBookmark.cancel.label "Sguir dheth">
+<!ENTITY editBookmark.removeBookmark.accessKey "R">
+<!ENTITY editBookmark.undo.label "Neo dhèan">
+<!ENTITY editBookmark.undo.accessKey "N">
+<!ENTITY editBookmark.edit.label "Deasaich…">
+<!ENTITY editBookmark.edit.accessKey "D">
+
+<!ENTITY identity.unverifiedsite2 "Chan eil an làrach seo a' nochdadh fiosrachadh dearbh-aithne.">
+<!ENTITY identity.connectedTo "Tha thu co-cheangailte ri">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "a tha 'ga ruith le">
+
+<!ENTITY identity.moreInfoLinkText "Barrachd fiosrachaidh…">
+
+<!ENTITY downloadMonitor2.tooltip "Briog gus uinneag nan luchdadh a-nuas fhosgail">
+
+<!ENTITY allTabs.filter.emptyText "Lorg anns na tabaichean">

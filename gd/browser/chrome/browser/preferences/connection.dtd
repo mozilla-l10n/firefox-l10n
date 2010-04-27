@@ -1,0 +1,45 @@
+
+<!ENTITY connectionsDialog.title "Roghainnean ceangail">
+<!ENTITY window.width "37em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY proxyTitle.label "Co-dhealbh progsaidhean a chum inntrigeadh dhan lìon">
+<!ENTITY noProxyTypeRadio.label "Gun phrogsaidh">
+<!ENTITY noProxyTypeRadio.accesskey "p">
+<!ENTITY systemTypeRadio.label "Cleachd roghainnean progsaidh an t-siostaim">
+<!ENTITY systemTypeRadio.accesskey "s">
+<!ENTITY WPADTypeRadio.label "Mothaich do roghainnean progsaidh leis fhèin air an lìonra seo">
+<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY manualTypeRadio.label "Co-dhealbhachd-làimhe nam progsaidh:">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "URL co-dhealbhachd nam progsaidh leis fhèin:">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY reload.label "Ath-luchdaich">
+<!ENTITY reload.accesskey "a">
+<!ENTITY ftp.label "Progsaidh FTP:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Progsaidh Gopher:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "Progsaidh HTTP:">
+<!ENTITY http.accesskey "s">
+<!ENTITY ssl.label "Progsaidh SSL:">
+<!ENTITY ssl.accesskey "L">
+<!ENTITY socks.label "Òstair SOCKS:">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "K">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "Port:">
+<!ENTITY HTTPport.accesskey "P">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "_: gopherPort.accesskey
+">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Gun phrogsaidh airson:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "Ball-sampaill: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Cleachd am progsaidh seo airson gach pròtocal">
+<!ENTITY shareproxy.accesskey "s">

@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Deasaich">
+<!ENTITY editMenu.accesskey "d">
+<!ENTITY undoCmd.label "Neo dhèan">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "n">
+<!ENTITY redoCmd.label "Ath-dhèan">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "a">
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "g">
+<!ENTITY copyCmd.label "Dèan leth-bhreac">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "l">
+<!ENTITY pasteCmd.label "Cuir ann">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "c">
+<!ENTITY deleteCmd.label "Sguaib às">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Tagh na h-uile">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY findCmd.label "Lorg">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "L">
+<!ENTITY findAgainCmd.label "Lorg a-rithist">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findPreviousCmd.label "Fear roimhe seo">
+<!ENTITY findPreviousCmd.accesskey "f">

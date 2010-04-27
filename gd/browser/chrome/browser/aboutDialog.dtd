@@ -1,0 +1,13 @@
+<!ENTITY aboutDialog.title "Mu &brandFullName;">
+<!ENTITY copyright "Creideisean">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY copyrightGNOME.accesskey "r">
+<!ENTITY aboutLink "&lt; Mu &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "tionndadh">
+<!ENTITY closeCmdGNOME.label "Dùin">
+<!ENTITY closeCmdGNOME.accesskey "D">
+<!ENTITY copyrightInfo1 "&#169;1998-2010 Contributors. All rights reserved. (">
+<!ENTITY licenseLink "about:license">
+<!ENTITY licenseLinkText "Fiosrachadh ceadachais">
+<!ENTITY copyrightInfo2 ").">

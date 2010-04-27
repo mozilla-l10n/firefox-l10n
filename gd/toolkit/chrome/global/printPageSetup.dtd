@@ -1,0 +1,62 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Roghainnean na duilleige">
+
+<!ENTITY basic.tab "Fòrmat ┐rogainnean">
+
+<!ENTITY formatGroup.label "Fòrmat">
+
+<!ENTITY orientation.label "Taobhachadh na duilleige:">
+<!ENTITY portrait.label "Portraid">
+<!ENTITY portrait.accesskey "P">
+<!ENTITY landscape.label "Dreach-tìre">
+<!ENTITY landscape.accesskey "D">
+
+<!ENTITY scale.label "Sgèile:">
+<!ENTITY scale.accesskey "S">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Crùb gu leud na duilleige">
+<!ENTITY shrinkToFit.accesskey "L">
+
+<!ENTITY optionsGroup.label "Roghainnean">
+
+<!ENTITY printBG.label "Clò-bhuail an cùlaibh (dathan ┐ dealbhan)">
+<!ENTITY printBG.accesskey "B">
+
+<!ENTITY advanced.tab "Marghain ┐ bann-cinn/bann-coise">
+
+<!ENTITY marginGroup.label "Marghain (#1)">
+<!ENTITY marginUnits.inches "òirlich">
+<!ENTITY marginUnits.metric "milemeatairean">
+<!ENTITY marginTop.label "Barr:">
+<!ENTITY marginTop.accesskey "B">
+<!ENTITY marginBottom.label "Bun:">
+<!ENTITY marginBottom.accesskey "U">
+<!ENTITY marginLeft.label "Clì:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label "Deis:">
+<!ENTITY marginRight.accesskey "E">
+
+<!ENTITY headerFooter.label "Bannan-cinn ┐ coise">
+
+<!ENTITY hfLeft.label "Clì:">
+<!ENTITY hfCenter.label "Meadhan:">
+<!ENTITY hfRight.label "Deis:">
+<!ENTITY headerLeft.tip "Bann-cinn clì">
+<!ENTITY headerCenter.tip "Bann-cinn meadhanach">
+<!ENTITY headerRight.tip "Bann-cinn deis">
+<!ENTITY footerLeft.tip "Bann-coise clì">
+<!ENTITY footerCenter.tip "Bann-coise meadhanach">
+<!ENTITY footerRight.tip "Bann-coise deis">
+
+<!ENTITY hfTitle "Tiotal">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Ceann-là/Àm">
+<!ENTITY hfPage "Duilleag a #">
+<!ENTITY hfPageAndTotal "Duilleag a # à #">
+<!ENTITY hfBlank "--bàn--">
+<!ENTITY hfCustom "Gnàthaichte…">
+
+<!ENTITY customPrompt.title "Gnàthaichte…">
+<!ENTITY customPrompt.prompt "Cuir a-steach teacs a' bhanna-chinn/choise ghnàthaichte agad">
