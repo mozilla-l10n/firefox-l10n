@@ -31,6 +31,8 @@
 <!ENTITY closeTab.label         		"Ljepblêd slute">
 <!ENTITY closeTab.accesskey        		"L">
 
+<!ENTITY listAllTabs.label				"Alle ljepblêdtitels werjaan">
+
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
 <!ENTITY tabCmd.commandkey "t">
