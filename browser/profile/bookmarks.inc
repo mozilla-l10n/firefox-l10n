@@ -7,10 +7,6 @@
 #define bookmarks_title Закладки
 #define bookmarks_heading Закладки
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://ru.add-ons.mozilla.com/ru/firefox/bookmarks/
-#define bookmarks_addons Расширения для работы с закладками
-
 #define bookmarks_toolbarfolder Папка панели закладок
 #define bookmarks_toolbarfolder_description Добавьте закладки в эту папку чтобы увидеть их на панели закладок
 
