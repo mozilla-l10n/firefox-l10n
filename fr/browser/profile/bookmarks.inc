@@ -7,10 +7,6 @@
 #define bookmarks_title Marque-pages
 #define bookmarks_heading Marque-pages
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Obtenir des modules complémentaires
-
 #define bookmarks_toolbarfolder Barre personnelle
 #define bookmarks_toolbarfolder_description Ajoutez des marque-pages dans ce dossier pour les voir apparaître sur votre barre personnelle
 
