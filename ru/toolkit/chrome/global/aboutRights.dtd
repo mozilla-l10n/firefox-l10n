@@ -5,9 +5,9 @@
 <!ENTITY rights.intro-point1a "&brandShortName; предоставляется вам на условиях ">
 <!ENTITY rights.intro-point1b "Публичной лицензии Mozilla">
 <!ENTITY rights.intro-point1c ". Это значит, что вы можете использовать, копировать и распространять &brandShortName;.  Вы также можете модифицировать исходный код &brandShortName; в соответствии со своими нуждами. Публичная лицензия Mozilla также даёт вам право распространять изменённые вами сборки.">
-<!ENTITY rights.intro-point2a "Mozilla не предоставляет вам никаких прав на товарные знаки или логотипы Mozilla и Firefox. Дополнительная информация о товарных знаках приведена по ">
-<!ENTITY rights.intro-point2b "следующему адресу">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Вам не предоставляются никакие права или лицензии на товарные знаки Mozilla Foundation или любой другой стороны, в том числе на название или логотип Firefox. Дополнительная информация о товарных знаках приведена по ">
+<!ENTITY rights.intro-point2-b "следующему адресу">
+<!ENTITY rights.intro-point2-c ".">
 <!ENTITY rights.intro-point3a "Политики приватности продуктов &vendorShortName; можно найти по ">
 <!ENTITY rights.intro-point3b "следующему адресу">
 <!ENTITY rights.intro-point3c ".">
