@@ -20,6 +20,7 @@
 <!ENTITY undoCloseTab.accesskey "s">
 <!ENTITY closeTab.label "Chiudi scheda">
 <!ENTITY closeTab.accesskey "C">
+<!ENTITY listAllTabs.label "Elenco di tutte le schede">
 <!ENTITY tabCmd.label "Nuova scheda">
 <!ENTITY tabCmd.accesskey "h">
 <!ENTITY tabCmd.commandkey "t">
