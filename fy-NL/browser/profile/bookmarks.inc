@@ -7,10 +7,6 @@
 #define bookmarks_title Blêdwizers
 #define bookmarks_heading Blêdwizers
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Krij blêdwizertafoegings
-
 #define bookmarks_toolbarfolder Blêdwizersarkbalkemap
 #define bookmarks_toolbarfolder_description Foech blêdwizers ta oan dizze map om se te sjen op de blêdwizersarkbalke
 
