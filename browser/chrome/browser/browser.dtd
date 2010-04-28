@@ -31,6 +31,8 @@
 <!ENTITY closeTab.label "Fermer l'onglet">
 <!ENTITY closeTab.accesskey "F">
 
+<!ENTITY  listAllTabs.label "Lister tous les onglets">
+
 <!ENTITY tabCmd.label "Nouvel onglet">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
