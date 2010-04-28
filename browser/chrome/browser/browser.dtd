@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label         "Fechar Separador">
 <!ENTITY  closeTab.accesskey         "F">
 
+<!ENTITY  listAllTabs.label      "Listar todos os separadores">
+
 <!ENTITY tabCmd.label "Novo separador">
 <!ENTITY tabCmd.accesskey "p">
 <!ENTITY tabCmd.commandkey "Q">
@@ -212,7 +214,6 @@ shortcut keys on Linux. -->
 <!ENTITY viewTabsOnTop.label            "Separadores no topo">
 <!ENTITY viewTabsOnTop.accesskey        "T">
 
-
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyMenu.accesskey "i">
 <!ENTITY historyUndoMenu.label "Separadores fechados recentemente">
@@ -228,7 +229,7 @@ shortcut keys on Linux. -->
 <!ENTITY urlbar.bookmark.emptyText    "Pesquisar marcadores">
 <!ENTITY urlbar.history.emptyText     "pesquisar histórico">
 <!ENTITY urlbar.none.emptyText        "Escreva um endereço web">
-<!ENTITY urlbar.accesskey "A">
+<!ENTITY urlbar.accesskey 			  "A">
 <!ENTITY urlbar.switchToTab.label     "Mudar para separador:">
 
 <!-- 
@@ -281,13 +282,13 @@ shortcut keys on Linux. -->
 <!ENTITY viewFrameSourceCmd.label "Ver código fonte da frame">
 <!ENTITY viewFrameSourceCmd.accesskey "O">
 <!ENTITY viewPageInfoCmd.label "Ver informação da página">
-<!ENTITY viewPageInfoCmd.accesskey "I">
-<!ENTITY viewFrameInfoCmd.label "Ver informação da frame">
-<!ENTITY viewFrameInfoCmd.accesskey "i">
-<!ENTITY reloadImageCmd.label           "Recarregar Imagem">
-<!ENTITY reloadImageCmd.accesskey       "R">
-<!ENTITY viewImageCmd.label "Ver imagem">
-<!ENTITY viewImageCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Ver informação da frame">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Recarregar Imagem">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY viewImageCmd.label 		  "Ver imagem">
+<!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Ver info da imagem">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Ver Vídeo">
@@ -393,9 +394,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip "Abrir uma nova janela">
 <!ENTITY sidebarCloseButton.tooltip "Fechar barra lateral">
 
-<!ENTITY cutButton.tooltip "Cortar">
-<!ENTITY copyButton.tooltip "Copiar">
-<!ENTITY pasteButton.tooltip "Colar">
+<!ENTITY cutButton.tooltip              "Cortar">
+<!ENTITY copyButton.tooltip             "Copiar">
+<!ENTITY pasteButton.tooltip            "Colar">
 <!ENTITY fullScreenButton.tooltip       "Mostrar janela em todo o ecrã">
 
 <!ENTITY quitApplicationCmdWin.label "Sair">
@@ -418,7 +419,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip "Alterar as definições de bloqueio de janelas para este sítio">
+<!ENTITY pageReportIcon.tooltip            "Alterar as definições de bloqueio de janelas para este sítio">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -469,9 +470,8 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que é operado por">
 
-<!ENTITY identity.moreInfoLinkText "Diga-me mais sobre este sítio web">
+<!ENTITY identity.moreInfoLinkText "Mais informação...">
 
 <!ENTITY downloadMonitor2.tooltip "Carregue para abrir a janela de transferências">
 
 <!ENTITY allTabs.filter.emptyText "Procurar Separadores">
-

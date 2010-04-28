@@ -7,22 +7,18 @@
 #define bookmarks_title Marcadores
 #define bookmarks_heading Marcadores
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Obtenha Extras para os Marcadores
-
-#define bookmarks_toolbarfolder Pasta da Barra de Ferramentas de Marcadores
+#define bookmarks_toolbarfolder Pasta da barra de ferramentas de marcadores
 #define bookmarks_toolbarfolder_description Ponha os marcadores nesta pasta se os quiser ver na Barra de Ferramentas de Marcadores
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://www.mozilla.com/en-US/firefox/central/
-#define getting_started Começar Aqui
+#define getting_started Começar aqui
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
 # http://fxfeeds.mozilla.com/en-US/firefox/headlines.xml
 # Changing the redirect is subject to approval of l10n-drivers.
-#define latest_headlines Últimas Novidades
+#define latest_headlines Últimas novidades
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -30,7 +26,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://www.mozilla.com/en-US/firefox/help/
-#define firefox_help Ajuda e Tutoriais
+#define firefox_help Ajuda e tutoriais
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://www.mozilla.com/en-US/firefox/customize/
