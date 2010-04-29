@@ -20,6 +20,7 @@
 <!ENTITY undoCloseTab.accesskey "D">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "t">
+<!ENTITY listAllTabs.label "Mostrar todas las pestañas">
 <!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
