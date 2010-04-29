@@ -55,8 +55,8 @@
 <!ENTITY dict_intro.label "Wörterbücher werden zur Rechtschreibprüfung Ihrer Nachrichten verwendet.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label
-'Viele zusätzliche Sprachen können über den <a id="dictURL" href="">&quot;dictionaries&quot;</a>-Bereich auf <a href="http://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a> installiert werden.'>
+'Viele zusätzliche Sprachen können über den <a id="dictURL" href="">&quot;Wörterbücher&quot;</a>-Bereich auf <a href="http://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a> installiert werden.'>
 <!ENTITY info.title "Weitere Informationen">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">Wir</a> nehmen Bug-Meldungen und Funktionswünsche gerne auf, aber zuvor lesen Sie bitte die <a id="releaseNotesURL" href="">Release Notes</a> und durchsuchen Sie <a href="http://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+'<a href="http://www.seamonkey.at/">Wir</a> nehmen Bug-Meldungen und Funktionswünsche gerne auf, aber zuvor lesen Sie bitte die <a id="releaseNotesURL" href="">Release Notes</a> und durchsuchen Sie <a href="http://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
