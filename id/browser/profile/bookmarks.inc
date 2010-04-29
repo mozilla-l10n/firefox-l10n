@@ -7,10 +7,6 @@
 #define bookmarks_title Daftar Bookmark
 #define bookmarks_heading Daftar Bookmark
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Unduh Pengaya Bookmark
-
 #define bookmarks_toolbarfolder Folder Toolbar Bookmark
 #define bookmarks_toolbarfolder_description Tambahkan bookmark pada folder ini agar bisa tampil di Toolbar Bookmark
 

@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label         "Tutup Tab">
 <!ENTITY  closeTab.accesskey         "u">
 
+<!ENTITY  listAllTabs.label      "Daftar tab">
+
 <!ENTITY tabCmd.label "Tab Baru">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
