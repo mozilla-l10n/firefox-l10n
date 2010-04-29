@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Ini berarti Anda dapat menggunakan, menyalin, dan mendistribusikan &brandShortName; kepada pihak lain. Anda juga dapat memodifikasi kode sumber program &brandShortName; sesuai dengan kebutuhan Anda. Lisensi Mozilla Public License memberi hak kepada Anda untuk mendistribusikan versi yang telah Anda modifikasi.">
 
-<!ENTITY rights.intro-point2a "Mozilla tidak memberi Anda hak atas merek dagang atau logo Mozilla dan Firefox. Informasi lebih lanjut mengenai Merek Dagang dapat Anda temukan ">
-<!ENTITY rights.intro-point2b "di sini">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Anda tidak diberi hak atau lisensi apa pun atas merek dagang Mozilla Foundation atau pihak lainnya, termasuk tanpa batas, nama atau logo Firefox. Informasi lebih lanjut mengenai Merek Dagang dapat Anda temukan ">
+<!ENTITY rights.intro-point2-b "di sini">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Kebijakan privasi pada produk &vendorShortName; dapat Anda temukan ">
