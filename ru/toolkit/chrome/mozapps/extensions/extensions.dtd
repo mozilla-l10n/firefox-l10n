@@ -62,10 +62,10 @@
 <!ENTITY sort.dateUpdated.tooltip "Сортировать по дате обновления">
 <!ENTITY sort.rating.label "Рейтинг">
 <!ENTITY sort.rating.tooltip "Сортировать по среднему рейтингу">
-<!ENTITY showMore.label "Показать больше">
+<!ENTITY showMore.label "Более подробно">
 <!ENTITY showMore.accesskey "л">
 <!ENTITY showMore.tooltip "Показать больше подробностей">
-<!ENTITY showLess.label "Показать меньше">
+<!ENTITY showLess.label "Менее подробно">
 <!ENTITY showLess.accesskey "н">
 <!ENTITY showLess.tooltip "Показать меньше подробностей">
 <!ENTITY search.filter.label "Показать:">
