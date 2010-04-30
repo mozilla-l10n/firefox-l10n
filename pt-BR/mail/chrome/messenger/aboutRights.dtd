@@ -29,14 +29,14 @@
 <!ENTITY rights.intro-point3-unbranded "Quaisquer políticas de privacidade aplicáveis a este produto devem ser listadas aqui.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional services, such as the add-on update service; however we cannot guarantee they are 100&#037; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
+<!ENTITY rights.intro-point4a "O &brandShortName; também oferece serviços opcionais, tais como a atualização de complementos; no entanto, não podemos garantir que sejam 100&#037; precisos ou livres de erro. Mais informações, incluindo sobre como desativar os serviços, podem ser encontradas nos ">
 <!ENTITY rights.intro-point4b "termos de serviço">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos do serviço aplicáveis ao(s) serviço(s) devem possuir um link para ">
+<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos do serviço aplicáveis ao(s) serviço(s) devem possuir um link para a seção ">
 <!ENTITY rights.intro-point4b-unbranded "serviços web">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "Serviços web do &brandFullName;">
 
@@ -45,11 +45,11 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; offers optional services (&quot;Services&quot;), such as the add-on update service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the add-on update service by opening the application preferences, selecting the ">
+<!ENTITY rights.webservices-a "O &brandFullName; oferece serviços opcionais (“Serviços”), tais como a atualização de complementos, que estão disponíveis para seu uso com esta versão binária do &brandShortName;, como descrito abaixo. Se você não quiser usar os Serviços ou não aceitar os termos a seguir, você pode desativar o serviço de atualização de complemento: abra as preferências do aplicativo, selecione o painel ">
 <!ENTITY rights.webservices-b "Avançado">
-<!ENTITY rights.webservices-c " section, followed by the ">
-<!ENTITY rights.webservices-d "Update">
-<!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
+<!ENTITY rights.webservices-c ", clique na aba ">
+<!ENTITY rights.webservices-d "Atualizações">
+<!ENTITY rights.webservices-e " e desmarque os itens referentes a “Verificar automaticamente se há atualizações para”.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar, se aplicável, devem ser colocados aqui.">

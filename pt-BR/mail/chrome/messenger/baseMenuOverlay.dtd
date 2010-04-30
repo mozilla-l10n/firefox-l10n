@@ -9,13 +9,15 @@
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novidades">
 <!ENTITY whatsNewCmd.accesskey "o">
+<!ENTITY featureConfiguratorCmd.label "Assistente de migração">
+<!ENTITY featureConfiguratorCmd.accesskey "A">
 <!ENTITY openHelp.label "Conteúdo da ajuda">
-<!ENTITY openHelp.accesskey "C">
+<!ENTITY openHelp.accesskey "u">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ajuda do &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "Verificar atualizações…">
-<!ENTITY aboutCmd.label "Sobre o &brandFullName;">
-<!ENTITY aboutCmd.accesskey "S">
+<!ENTITY aboutMenuCmd.label "Sobre o &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "S">

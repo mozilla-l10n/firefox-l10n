@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "Créditos do &brandFullName;">
 <!ENTITY brandMotto       "Thunderbirds Are Go!">
-<!ENTITY credit.leads     "Engineering Leads">
 <!ENTITY credit.thanks    "Agradecimentos especiais">
 
 <!-- localization credits look like this: -->
@@ -10,8 +9,5 @@
 -->
 <!ENTITY credit.translation "<h3>Versão brasileira</h3><ul><li>http://br.mozdev.org</li></ul>">
 
-<!ENTITY credit.theme          "Design do tema">
-<!ENTITY credit.qa             "Qualidade assegurada">
-<!ENTITY credit.build          "Build e release">
 <!ENTITY credit.memory         "In memoriam">
 <!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

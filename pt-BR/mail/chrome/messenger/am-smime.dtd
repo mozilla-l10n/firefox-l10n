@@ -6,23 +6,23 @@
 <!ENTITY neverEncrypt.label "Nunca (não usar criptografia)">
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Sempre criptografar (todos os destinatários devem ter certificados)">
-<!ENTITY alwaysEncryptMessage.accesskey "S">
+<!ENTITY alwaysEncryptMessage.accesskey "c">
 <!ENTITY encryptionCert.message "Certificado usado para (des)criptografar mensagens enviadas a você:">
 <!ENTITY digitalSign.certificate.button "Selecionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
-<!ENTITY digitalSign.certificate_clear.button "Clear">
-<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY digitalSign.certificate_clear.button "Limpar">
+<!ENTITY digitalSign.certificate_clear.accesskey "L">
 <!ENTITY encryption.certificate.button "Selecionar…">
 <!ENTITY encryption.certificate.accesskey "e">
-<!ENTITY encryption.certificate_clear.button "Clear">
-<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY encryption.certificate_clear.button "Limpar">
+<!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
 <!ENTITY signMessage.label "Assinar mensagens digitalmente (por padrão)">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "A">
 <!ENTITY signingCert.message "Certificado usado para assinar digitalmente as mensagens enviadas:">
 
 <!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts.label "View Certificates">
-<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageCerts.label "Exibir certificados">
+<!ENTITY manageCerts.accesskey "x">
 <!ENTITY manageDevices.label "Dispositivos de segurança">
 <!ENTITY manageDevices.accesskey "D">

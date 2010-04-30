@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para economizar espaço em disco, não receber:">
-<!ENTITY doNotDownload.label "Para economizar espaço em disco, não receber para leitura offline:">
+<!ENTITY doNotDownloadNntp.label "Para economizar espaço em disco, não receber para uso offline:">
+<!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, o recebimento de mensagens do servidor e a  manutenção das cópias locais para uso offline podem ser restringidas pela data ou tamanho.">
 <!ENTITY allFoldersOffline.label "Preservar as mensagens desta conta neste computador">
 <!ENTITY allFoldersOffline.accesskey "P">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "s">
+<!ENTITY autosyncNotDownload.label "Não receber mensagens maiores que">
+<!ENTITY autosyncNotDownload.accesskey "N">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dias">
 <!ENTITY message.label "mensagens">
@@ -21,7 +24,7 @@
 <!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
 <!ENTITY retentionKeepRecent.accesskey "E">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Sempre excluir as mensagens lidas (ignora a opção de tempo)">
+<!ENTITY retentionKeepUnreadHidden.label "Sempre excluir as mensagens lidas (ignora a opção de data)">
 <!ENTITY retentionApplyToFlagged.label "Sempre preservar as mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
@@ -33,17 +36,19 @@
 <!ENTITY syncGroupTitle.label "Sincronizar mensagens">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY useAutosyncBefore.label         "Armazenar">
-<!ENTITY useAutosyncMiddle.label         "">
-<!ENTITY allInterval.label               "todas as">
-<!ENTITY dayInterval.label               "dias de">
-<!ENTITY weekInterval.label              "semanas de">
-<!ENTITY monthInterval.label             "meses de">
-<!ENTITY yearInterval.label              "anos de">
-<!ENTITY useAutosyncAfter.label          "mensagens">
+<!ENTITY allAutosync.label               "Sincronizar localmente todas as mensagens independentemente da data">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Sincronizar os mais recentes">
+<!ENTITY ageAutosync.accesskey           "r">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "dias">
+<!ENTITY weekAgeInterval.label           "semanas">
+<!ENTITY monthAgeInterval.label          "meses">
+<!ENTITY yearAgeInterval.label           "anos">
+<!ENTITY ageAutosyncAfter.label          "">

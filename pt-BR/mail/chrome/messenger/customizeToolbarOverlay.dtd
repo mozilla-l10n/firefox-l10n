@@ -11,16 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
+   - The Original Code is Thunderbird Toolbar Customization Overlay.
    -
    - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - Mozilla Messaging, Inc.
+   - Portions created by the Initial Developer are Copyright (C) 2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Fabian Guisset <hidday@geocities.com>
+   -   Blake Winton <bwinton@latte.ca>
    -   Jeferson Hultmann <hultmann@gmail.com> (pt-BR l10n)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -36,9 +35,5 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
-<!ENTITY renameFolderDialog.title          "Renomear pasta">
-<!ENTITY rename.label                      "Novo nome:">
-<!ENTITY rename.accesskey                  "N">
-<!ENTITY accept.label                      "Renomear">
-<!ENTITY accept.accesskey                  "R">
+
+<!ENTITY iconsBesideText.label "Ícones ao lado do texto">
