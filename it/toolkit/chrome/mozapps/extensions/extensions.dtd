@@ -1,11 +1,11 @@
 <!ENTITY addons.title "Componenti aggiuntivi">
-<!ENTITY search.placeholder "Cerca in tutti i componenti aggiuntivi">
+<!ENTITY search.placeholder "Cerca tra i componenti aggiuntivi">
 <!ENTITY loading.label "Caricamento in corso…">
-<!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questa tipologia">
+<!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questo tipo">
 <!ENTITY listEmpty.search.label "Non è stato trovato alcun componente aggiuntivo corrispondente">
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
 <!ENTITY view.search.label "Cerca">
-<!ENTITY view.discover.label "Scopri nuovi componenti aggiuntivi">
+<!ENTITY view.discover.label "Esplora">
 <!ENTITY view.languages.label "Lingue">
 <!ENTITY view.searchengines.label "Motori di ricerca">
 <!ENTITY view.features.label "Estensioni">
@@ -14,7 +14,7 @@
 <!ENTITY updates.updateNow.label "Aggiorna i componenti aggiuntivi">
 <!ENTITY updates.updating.label "Aggiornamento in corso dei componenti aggiuntivi">
 <!ENTITY updates.installed.label "I componenti aggiuntivi sono stati aggiornati.">
-<!ENTITY updates.downloaded.label "Gli aggiornamenti per i componenti aggiuntivi installati sono stati scaricati.">
+<!ENTITY updates.downloaded.label "Gli aggiornamenti sono stati scaricati.">
 <!ENTITY updates.restart.label "Riavvia adesso per completare l'installazione">
 <!ENTITY updates.noneFound.label "Nessun aggiornamento disponibile">
 <!ENTITY cmd.showDetails.label "Visualizza ulteriori informazioni">
