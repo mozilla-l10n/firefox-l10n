@@ -7,10 +7,6 @@
 #define bookmarks_title Segnalibri
 #define bookmarks_heading Segnalibri
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Scarica estensioni per i segnalibri
-
 #define bookmarks_toolbarfolder Cartella della Barra dei segnalibri
 #define bookmarks_toolbarfolder_description Aggiungere un segnalibro a questa cartella per vederlo nella barra dei segnalibri
 
