@@ -87,6 +87,10 @@
 <!ENTITY showLess.accesskey               "M">
 <!ENTITY showLess.tooltip                 "Afficher moins de détails">
 
+<!ENTITY search.filter.label              "Afficher :">
+<!ENTITY search.filter.installed.label    "Vos modules installés">
+<!ENTITY search.filter.available.label    "Modules disponibles">
+
 <!ENTITY addon.homepage                   "Page d'accueil">
 <!ENTITY addon.unknownDate                "Inconnue">
 <!ENTITY addon.disabled.postfix           "(désactivé)">
