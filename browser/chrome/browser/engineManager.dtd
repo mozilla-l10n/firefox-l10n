@@ -11,8 +11,8 @@
 <!ENTITY remove.accesskey "У">
 <!ENTITY edit.label "Изменить…">
 <!ENTITY edit.accesskey "з">
-<!ENTITY addEngine.label "Больше плагинов для поисковых систем…">
-<!ENTITY addEngine.accesskey "д">
+<!ENTITY addEngine.label "Плагины для других поисковых систем…">
+<!ENTITY addEngine.accesskey "л">
 <!ENTITY enableSuggest.label "Показывать поисковые предложения">
 <!ENTITY enableSuggest.accesskey "п">
 <!ENTITY restoreDefaults.label "Восстановить набор по умолчанию">
