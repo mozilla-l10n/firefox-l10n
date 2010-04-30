@@ -1,4 +1,4 @@
-<!ENTITY addons.title "Менеджер дополнений">
+<!ENTITY addons.windowTitle "Менеджер дополнений">
 <!ENTITY search.placeholder "Поиск среди дополнений">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения данного типа">
@@ -25,15 +25,15 @@
 <!ENTITY cmd.preferences.accesskey "с">
 <!ENTITY cmd.about.label "О дополнении">
 <!ENTITY cmd.about.accesskey "О">
-<!ENTITY cmd.enable.label "Включить">
-<!ENTITY cmd.enable.accesskey "ч">
-<!ENTITY cmd.enable.tooltip "Включить это дополнение">
-<!ENTITY cmd.disable.label "Отключить">
-<!ENTITY cmd.disable.accesskey "т">
-<!ENTITY cmd.disable.tooltip "Отключить это дополнение">
-<!ENTITY cmd.uninstall.label "Удалить">
-<!ENTITY cmd.uninstall.accesskey "д">
-<!ENTITY cmd.uninstall.tooltip "Удалить это дополнение">
+<!ENTITY cmd.enableAddon.label "Включить">
+<!ENTITY cmd.enableAddon.accesskey "ч">
+<!ENTITY cmd.enableAddon.tooltip "Включить это дополнение">
+<!ENTITY cmd.disableAddon.label "Отключить">
+<!ENTITY cmd.disableAddon.accesskey "т">
+<!ENTITY cmd.disableAddon.tooltip "Отключить это дополнение">
+<!ENTITY cmd.uninstallAddon.label "Удалить">
+<!ENTITY cmd.uninstallAddon.accesskey "д">
+<!ENTITY cmd.uninstallAddon.tooltip "Удалить это дополнение">
 <!ENTITY cmd.contribute.label "Внести вклад">
 <!ENTITY cmd.contribute.accesskey "т">
 <!ENTITY cmd.contribute.tooltip "Внести вклад в развитие этого дополнения">
