@@ -1,11 +1,11 @@
 <!ENTITY addons.title "Менеджер дополнений">
-<!ENTITY search.placeholder "Поиск в дополнениях">
+<!ENTITY search.placeholder "Поиск среди дополнений">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения данного типа">
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY view.search.label "Поиск">
-<!ENTITY view.discover.label "Найти дополнения">
+<!ENTITY view.discover.label "Получить дополнения">
 <!ENTITY view.languages.label "Языки">
 <!ENTITY view.searchengines.label "Поисковые системы">
 <!ENTITY view.features.label "Расширения">
