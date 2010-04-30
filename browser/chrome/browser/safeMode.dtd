@@ -48,7 +48,7 @@
 <!ENTITY deleteBookmarks.accesskey "з">
 <!ENTITY resetUserPrefs.label "Сбросить все настройки на настройки &brandShortName; по умолчанию">
 <!ENTITY resetUserPrefs.accesskey "н">
-<!ENTITY restoreSearch.label "Восстановить набор поисковых плагинов по умолчанию">
+<!ENTITY restoreSearch.label "Восстановить набор поисковых систем по умолчанию">
 <!ENTITY restoreSearch.accesskey "п">
 <!ENTITY changeAndRestartButton.label "Произвести изменения и перезапустить">
 <!ENTITY continueButton.label "Продолжить в безопасном режиме">

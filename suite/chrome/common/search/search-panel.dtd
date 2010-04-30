@@ -39,9 +39,9 @@
 <!ENTITY allengines.label "Всех машин">
 <!ENTITY within.label "в">
 <!ENTITY using.label "используя">
-<!ENTITY choose.label "Выберите поисковые машины, затем нажмите «Поиск»">
+<!ENTITY choose.label "Выберите поисковые системы, затем нажмите «Поиск»">
 <!ENTITY results.label "Результаты поиска">
-<!ENTITY engine.column.label "Поисковые машины">
+<!ENTITY engine.column.label "Поисковые системы">
 <!ENTITY customize.menuitem.label "Изменить категории…">
 <!ENTITY next.button.label "Следующие">
 <!ENTITY previous.button.label "Предыдущие">
