@@ -40,5 +40,5 @@
 <!ENTITY windowTitle.label "Selecionar alterações">
 <!ENTITY conflictWarning.label "Esta página foi modificada por outro programa, mas também tem alterações não salvas pelo Composer.">
 <!ENTITY conflictResolve.label "Selecione qual versão manter:">
-<!ENTITY keepCurrentPageButton.label "Manter as alterações atuais da página">
+<!ENTITY keepCurrentPageButton.label "Preservar as alterações atuais da página">
 <!ENTITY useOtherPageButton.label "Substituir pelas outras alterações">

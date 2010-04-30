@@ -99,6 +99,7 @@
 <!ENTITY publishSettings.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.label "Colar como citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
+<!ENTITY pasteAsQuotationCmd.key "O">
 <!ENTITY findCmd.label "Localizar e substituir…">
 <!ENTITY findCmd.accesskey "z">
 <!ENTITY findCmd.key "f">
