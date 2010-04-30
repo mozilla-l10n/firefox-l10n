@@ -62,6 +62,8 @@
 <!ENTITY  closeTab.label           "Stäng flik">
 <!ENTITY  closeTab.accesskey       "S">
 
+<!ENTITY  listAllTabs.label      "Visa upp alla flikar">
+
 <!ENTITY tabCmd.label "Ny flik">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
