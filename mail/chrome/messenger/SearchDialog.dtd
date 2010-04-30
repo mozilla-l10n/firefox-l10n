@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label            "Mover para">
 <!ENTITY fileButton.accesskey        "M">
 <!ENTITY closeCmd.key                "w"> 
-<!ENTITY goToFolderButton.label      "Abrir pasta da mensagem">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "Abrir pasta da mensagem">
+<!ENTITY openInFolder.accesskey      "b">
 <!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa…">
 <!ENTITY saveAsVFButton.accesskey    "S">
 
@@ -47,7 +47,7 @@
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
-<!ENTITY receivedColumn.label "Data de recebimento">
+<!ENTITY receivedColumn.label "Recebimento">
 <!ENTITY starredColumn.label "Com estrela">
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">
@@ -55,7 +55,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar">
 <!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico"> 
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
 <!ENTITY recipientColumn.tooltip "Clique para ordenar pelo destinatário">
 <!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
 <!ENTITY dateColumn.tooltip "Clique para ordenar pela data">

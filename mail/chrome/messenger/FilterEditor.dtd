@@ -36,6 +36,6 @@
 <!ENTITY deleteFromPOP.label "Excluir do servidor POP">
 <!ENTITY fetchFromPOP.label "Carregar do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY ignoreSubthread.label "Ignorar subtópico">
 <!ENTITY watchThread.label "Monitorar tópico">
 <!ENTITY stopExecution.label "Interromper a aplicação do filtro">

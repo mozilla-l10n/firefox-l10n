@@ -40,7 +40,7 @@
 <!ENTITY subscribeButton.accesskey    "v">
 <!ENTITY unsubscribeButton.label      "Cancelar inscrição">
 <!ENTITY unsubscribeButton.accesskey  "C">
-<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY newGroupsTab.label           "Novos grupos">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Atualizar">
 <!ENTITY refreshButton.accesskey      "A">

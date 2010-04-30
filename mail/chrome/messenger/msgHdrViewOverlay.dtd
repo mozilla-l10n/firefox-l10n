@@ -50,26 +50,48 @@
 <!ENTITY tagsHdr2.label "tags ">
 <!ENTITY dateField2.label "data ">
 <!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY referencesField2.label "referências ">
+<!ENTITY messageIdField2.label "identificador de mensagem ">
 <!ENTITY inReplyToField2.label "in-reply-to ">
 <!ENTITY originalWebsite2.label "site ">
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar">
-<!ENTITY archiveButton.label "arquivar">
+<!ENTITY hdrArchiveButton.label "arquivar">
+<!ENTITY hdrArchiveButton.tooltip "arquivar a mensagem">
 <!ENTITY hdrReplyButton.label "responder">
+<!ENTITY hdrReplyButton.tooltip "responder mensagem">
 <!ENTITY hdrReplyAllButton.label "responder a todos">
+<!ENTITY hdrReplyAllButton.tooltip "responder ao remetente com cópia a todos os destinatários">
 <!ENTITY hdrReplyListButton.label "responder à lista">
+<!ENTITY hdrReplyListButton.tooltip "responder à lista de emails">
 <!ENTITY hdrForwardButton.label "encaminhar">
+<!ENTITY hdrForwardButton.tooltip "encaminhar a mensagem">
 <!ENTITY hdrJunkButton.label "spam">
-<!ENTITY trashButton.tooltiptext "excluir">
+<!ENTITY hdrJunkButton.tooltip "marcar mensagem como spam">
+<!ENTITY hdrTrashButton.label "excluir">
+<!ENTITY hdrTrashButton.tooltip "excluir mensagem">
+
+<!ENTITY hdrViewToolbarShowFull.label "Exibir ícones e texto">
+<!ENTITY hdrViewToolbarShowFull.accesskey "x">
+<!ENTITY hdrViewToolbarShowIcons.label "Exibir somente ícones">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "E">
+<!ENTITY hdrViewToolbarShowText.label "Exibir somente texto">
+<!ENTITY hdrViewToolbarShowText.accesskey "b">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre exibir o “Responder a”">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "S">
 
 <!ENTITY otherActionsButton.label "outras ações">
+<!ENTITY otherActionsOpenConversation.label "abrir na conversação">
+<!ENTITY otherActionsOpenConversation.accesskey "r">
 <!ENTITY otherActionsOpenInNewWindow.label "abrir em nova janela">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "a">
 <!ENTITY otherActionsOpenInNewTab.label "abrir em nova aba">
 <!ENTITY otherActionsOpenInNewTab.accesskey "b">
+<!ENTITY markAsReadMenuItem.label "marcar como lida">
+<!ENTITY markAsReadMenuItem.accesskey "m">
+<!ENTITY markAsUnreadMenuItem.label "marcar como não lida">
+<!ENTITY markAsUnreadMenuItem.accesskey "m">
 <!ENTITY saveAsMenuItem.label "salvar como…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "exibir código-fonte">
@@ -93,6 +115,6 @@
 <!ENTITY copyLinkCmd.label        "Copiar link">
 <!ENTITY copyLinkCmd.accesskey    "o">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY CopyMessageId.label "Copiar identificador de mensagem">
+<!ENTITY OpenMessageForMsgId.label "Abrir mensagem do identificador">
+<!ENTITY OpenBrowserWithMsgId.label "Abrir navegador com identificador de mensagem">

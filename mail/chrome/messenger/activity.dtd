@@ -4,7 +4,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                  "Gerenciador de atividades">
+<!ENTITY activity.title                  "Gerenciador de atividade">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">

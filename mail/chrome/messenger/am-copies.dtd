@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "F">
 <!ENTITY fccReplyFollowsParent.label "Colocar respostas na pasta da mensagem que foi respondida">
 <!ENTITY fccReplyFollowsParent.accesskey "C">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Separate addresses with commas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Cco para estes endereços:">
 <!ENTITY bccAddress.accesskey "C">
+<!ENTITY bccAddressList.emptytext "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
 <!ENTITY saveMessageDlg.accesskey "N">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

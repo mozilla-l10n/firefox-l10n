@@ -65,10 +65,10 @@
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Você pode fazer uma cópia local deste diretório para usá-lo quando estiver offline.">
-<!ENTITY saslMechanism.label               "Login method: ">
-<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslMechanism.label               "Método de login: ">
+<!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslOff.accesskey                 "i">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 

@@ -28,7 +28,7 @@
 <!ENTITY saveCmd.key "s">
 <!ENTITY saveCmd.accesskey "v">
 <!ENTITY saveAsCmd.label "Salvar como">
-<!ENTITY saveAsCmd.accesskey "l">
+<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Arquivo…">
 <!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsDraftCmd.label "Rascunho">
@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY pasteNoFormattingCmd.key "v">
+<!ENTITY pasteAsQuotationCmd.key "O">
 <!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
 <!ENTITY editRewrapCmd.key "r">
 <!ENTITY editRewrapCmd.accesskey "b">
@@ -92,7 +93,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
 <!ENTITY showCompositionToolbarCmd.label "Padrão">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showCompositionToolbarCmd.accesskey "a">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Barra de status">
@@ -224,7 +225,7 @@
 <!ENTITY smiley9Cmd.label "Beijos">
 <!ENTITY smiley10Cmd.label "Berro">
 <!ENTITY smiley11Cmd.label "Legal">
-<!ENTITY smiley12Cmd.label "Money-Mouth">
+<!ENTITY smiley12Cmd.label "Tudo por dinheiro">
 <!ENTITY smiley13Cmd.label "Gafe">
 <!ENTITY smiley14Cmd.label "Ingênuo">
 <!ENTITY smiley15Cmd.label "Choro">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Excluir">
 <!ENTITY delete.accesskey "x">
+<!ENTITY removeAttachment.label "Excluir anexo">
+<!ENTITY removeAttachment.accesskey "x">
 <!ENTITY renameAttachment.label "Renomear…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selecionar tudo">

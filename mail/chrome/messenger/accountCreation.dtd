@@ -2,14 +2,14 @@
 <!ENTITY name.label                      "Seu nome:">
 <!ENTITY name.accesskey                  "S">
 <!ENTITY name.emptytext                  "Primeiro Último">
-<!ENTITY name.text                       "Nome que será mostrado aos outros">
+<!ENTITY name.text                       "Seu nome da forma que será exibido aos outros">
 <!ENTITY email.label                     "Endereço de email:">
 <!ENTITY email.accesskey                 "E">
 <!ENTITY email.emptytext                 "email@exemplo.com.br">
 <!ENTITY password.label                  "Senha:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.emptytext              "Senha">
-<!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY password.text                   "Opcional, será usada somente para validar o nome de usuário">
 
 <!ENTITY accountInformation.label        "Informações da conta">
 <!ENTITY username2.label                 "Nome de usuário:">
@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Access folders and messages from multiple computers">
+<!ENTITY pop.description                 "POP - Download all messages onto this computer, folders are local only">
+<!ENTITY recommended-appendix.label      "(recommended)">
 
 <!ENTITY manualSetup.label               "Configuração manual…">
 <!ENTITY manualSetup.accesskey           "O">
@@ -45,14 +48,14 @@
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY warning.label                   "Alerta!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!ENTITY technicaldetails.label          "Technical Details">
+<!ENTITY incomingSettings.label          "Configuração de recebimento:">
+<!ENTITY outgoingSettings.label          "Configuração de envio:">
+<!ENTITY technicaldetails.label          "Detalhes técnicos">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "I understand the risks.">
-<!ENTITY confirmWarning.accesskey        "u">
+<!ENTITY confirmWarning.label            "Entendo os riscos">
+<!ENTITY confirmWarning.accesskey        "E">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -62,14 +65,14 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
-<!ENTITY changeSettings.accesskey        "S">
+<!ENTITY changeSettings.label            "Modificar configurações">
+<!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
+<!ENTITY contactYourProvider.description "O &brandShortName; possibilitará o uso do seu email usando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de email a respeito da não conveniência destas conexões. Consulte o FAQ do Thunderbird para mais informações.">
 
-<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.title    "Alerta! Este é um servidor inseguro.">
+<!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes">
 
-<!ENTITY insecureCleartext.description   "Email is sent in clear-text, so your email could be read by other people on the internet. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
-<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY insecureUnencrypted.description "Seu email e autenticação são enviados sem criptografia. Sua senha (e sua mensagem) poderia ser lida facilmente por outras pessoas. O &brandShortName; possibilitará o uso do seu email, mas você deve contatar seu provedor de email para que configurem o servidor com um certificado válido.">
+<!ENTITY insecureSelfSigned.description  "O servidor usa um certificado que não é considerado confiável. Assim, não podemos ter certeza de que alguém não esteja interceptando o tráfego entre o &brandShortName; e o servidor. O &brandShortName; possibilitará o uso do seu email, mas você deve realmente contatar seu provedor de email para que configurem o servidor com um certificado válido.">
+<!ENTITY secureServer.description        "Parabéns! Este é um servidor seguro.">

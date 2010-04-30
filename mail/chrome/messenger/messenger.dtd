@@ -7,6 +7,8 @@
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd.label "Fechar aba">
 <!ENTITY closeTabCmd.accesskey "F">
+<!ENTITY closeOtherTabsCmd.label "Fechar as outras abas">
+<!ENTITY closeOtherTabsCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa…">
 <!ENTITY newVirtualFolderCmd.accesskey "a">
 <!ENTITY newOtherAccountsCmd.label "Outras contas…">
@@ -14,11 +16,11 @@
 <!ENTITY newEmailAccountCmd.label "Conta de email…">
 <!ENTITY newEmailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
-<!ENTITY openMessageFileCmd.accesskey "A">
+<!ENTITY openMessageFileCmd.accesskey "b">
 <!ENTITY openAttachmentCmd.label "Anexos">
 <!ENTITY openAttachmentCmd.accesskey "x">
 <!ENTITY saveAsMenu.label "Salvar como">
-<!ENTITY saveAsMenu.accesskey "l">
+<!ENTITY saveAsMenu.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Arquivo…">
 <!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.key "S">
@@ -34,11 +36,11 @@
 <!ENTITY getNextNMsgCmd.label "Receber próximas 500 mensagens">
 <!ENTITY getNextNMsgCmd.accesskey "R">
 <!ENTITY sendUnsentCmd.label "Enviar mensagens da pasta “Saída”">
-<!ENTITY sendUnsentCmd.accesskey "E">
+<!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Inscrever…">
 <!ENTITY subscribeCmd.accesskey "v">
 <!ENTITY deleteFolder.label "Excluir pasta">
-<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY deleteFolder.accesskey "t">
 <!ENTITY renameFolder.label "Renomear pasta…">
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY renameFolder.key "VK_F2">
@@ -73,7 +75,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "R">
 <!ENTITY cancelNewsMsgCmd.label "Cancelar mensagem">
 <!ENTITY cancelNewsMsgCmd.accesskey "m">
-<!ENTITY deleteMsgsCmd.label "Excluir mensagens">
+<!ENTITY deleteMsgsCmd.label "Excluir mensagens selecionadas">
 <!ENTITY deleteMsgsCmd.accesskey "x">
 <!ENTITY undeleteMsgsCmd.label "Restaurar mensagens selecionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
@@ -129,9 +131,9 @@
 <!ENTITY showMessageCmd.accesskey "P">
 
 <!ENTITY folderView.label "Pastas">
-<!ENTITY folderView.accesskey "P">
-<!ENTITY smartFolders.label "Inteligentes">
-<!ENTITY smartFolders.accesskey "I">
+<!ENTITY folderView.accesskey "a">
+<!ENTITY unifiedFolders.label "Unificadas">
+<!ENTITY unifiedFolders.accesskey "U">
 <!ENTITY allFolders.label "Todas">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Não lidas">
@@ -146,7 +148,7 @@
 <!ENTITY sortMenu.accesskey "d">
 <!ENTITY sortByDateCmd.label "Data">
 <!ENTITY sortByDateCmd.accesskey "a">
-<!ENTITY sortByReceivedCmd.label "Data de recebimento">
+<!ENTITY sortByReceivedCmd.label "Recebimento">
 <!ENTITY sortByReceivedCmd.accesskey "b">
 <!ENTITY sortByStarCmd.label "Estrela">
 <!ENTITY sortByStarCmd.accesskey "E">
@@ -209,7 +211,7 @@
 <!ENTITY headersAllCmd.accesskey "T">
 <!ENTITY headersNormalCmd.label "Mais usados">
 <!ENTITY headersNormalCmd.accesskey "M">
-<!ENTITY bodyMenu.label "Formatação como">
+<!ENTITY bodyMenu.label "Formatação da mensagem como">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Formato original HTML">
 <!ENTITY bodyAllowHTML.accesskey "F">
@@ -218,17 +220,17 @@
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "S">
 
-<!ENTITY bodyMenuFeed.label "Feed Message Body As">
-<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY bodyMenuFeed.label "Formatação do RSS como">
+<!ENTITY bodyMenuFeed.accesskey "o">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "P">
 <!ENTITY viewFeedSummary.label "Resumo">
 <!ENTITY viewFeedSummary.accesskey "R">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Formato padrão">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "o">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Exibir anexos na mensagem">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "x">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -322,7 +324,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.label "Mensagem">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arquivar">
-<!ENTITY archiveMsgCmd.accesskey "u">
+<!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "A">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
@@ -358,7 +360,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMessageLocation.label "Copiar endereço da mensagem">
 <!ENTITY copyMessageLocation.accesskey "m">
 <!ENTITY copyMsgToMenu.label "Copiar para">
-<!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.accesskey "p">
 <!ENTITY moveToFolderAgain.label "Mover de novo">
 <!ENTITY moveToFolderAgain.accesskey "M">
 <!ENTITY moveToFolderAgainCmd.key "M">
@@ -374,9 +376,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileHereMenu.label "Mover para cá">
 <!ENTITY fileHereMenu.accesskey "M">
 <!ENTITY copyHereMenu.label "Copiar para cá">
-<!ENTITY copyHereMenu.accesskey "c">
+<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Aplicar tag">
-<!ENTITY tagMenu.accesskey "A">
+<!ENTITY tagMenu.accesskey "l">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -413,16 +415,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY recalculateJunkScoreCmd.label "Aplicar anti-spam">
 <!ENTITY recalculateJunkScoreCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
-<!ENTITY openMessageWindowCmd.accesskey "A">
+<!ENTITY openMessageWindowCmd.accesskey "b">
 <!ENTITY openMessageWindowCmd.key "O">
-<!ENTITY openFeedMessage.label "Open Feed Message">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY openConversationCmd.label "Abrir na conversação">
+<!ENTITY openConversationCmd.accesskey "r">
+<!ENTITY openConversationCmd.key "o">
+<!ENTITY openFeedMessage.label "Abrir mensagem RSS">
+<!ENTITY openFeedMessage.accesskey "b">
+<!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
+<!ENTITY openFeedWebPageInWindow.accesskey "P">
+<!ENTITY openFeedSummaryInWindow.label "Resumo em nova janela">
+<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Alternar entre página web e resumo no painel de mensagens">
+<!ENTITY openFeedWebPageInMP.accesskey "A">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Janela">
@@ -437,8 +442,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "C">
-<!ENTITY activitymanager.label "Gerenciador de atividades">
+<!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
+<!ENTITY savedFiles.label "Arquivos salvos">
+<!ENTITY savedFiles.accesskey "u">
+<!ENTITY savedFiles.key "J">
 <!ENTITY filtersCmd.label "Filtros de mensagens">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Aplicar filtros na pasta">
@@ -469,6 +477,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Re: Lista">
 <!ENTITY forwardButton.label "Encaminhar">
 <!ENTITY fileButton.label "Mover">
+<!ENTITY archiveButton.label "Arquivar">
 <!ENTITY nextButton.label "Próxima">
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Voltar">
@@ -496,25 +505,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.accesskey "T">
 <!ENTITY getAllNewMsgCmd.key "T">
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
-<!ENTITY replyButton.tooltip "Responder somente ao remetente">
+<!ENTITY replyButton.tooltip "Responder mensagem">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente com cópia a todos os destinatários">
-<!ENTITY replyListButton.tooltip "Responder para a lista de emails">
-<!ENTITY forwardButton.tooltip "Repassar a mensagem selecionada">
-<!ENTITY fileButton.tooltip "Mover para outra pasta">
+<!ENTITY replyListButton.tooltip "Responder à lista de emails">
+<!ENTITY forwardButton.tooltip "Encaminhar mensagem selecionada">
+<!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
+<!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
 <!ENTITY nextButton.tooltip "Próxima mensagem não lida">
 <!ENTITY previousButton.tooltip "Mensagem anterior não lida">
 <!ENTITY goForwardButton.tooltip "Próxima mensagem">
 <!ENTITY goBackButton.tooltip "Mensagem anterior">
-<!ENTITY deleteButton.tooltip "Excluir os itens selecionados">
+<!ENTITY deleteButton.tooltip "Excluir mensagens/pastas selecionadas">
 <!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir a mensagem">
 <!ENTITY stopButton.tooltip "Interromper a transferência atual">
-<!ENTITY junkButton.tooltip "Marcar como spam as mensagens selecionadas">
-<!ENTITY notJunkButton.tooltip "Marcar como não spam as mensagens selecionadas">
+<!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como spam">
+<!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não spam">
 <!ENTITY addressBookButton.tooltip "Catálogo de endereços">
 <!ENTITY tagButton.tooltip "Aplicar tag em mensagens">
-<!ENTITY compactButton.tooltip "Remover as mensagens excluídas na pasta selecionada">
+<!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova tag…">
@@ -541,8 +551,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Esvaziar lixeira">
 <!ENTITY folderContextEmptyTrash.accesskey "x">
-<!ENTITY folderContextEmptyJunk.label "Empty Junk">
-<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextEmptyJunk.label "Excluir spans">
+<!ENTITY folderContextEmptyJunk.accesskey "x">
 <!ENTITY folderContextSendUnsentMessages.label "Enviar mensagens">
 <!ENTITY folderContextSendUnsentMessages.accesskey "E">
 <!ENTITY folderContextUnsubscribe.label "Cancelar inscrição">
@@ -593,7 +603,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY unreadColumn.label "Não lidas">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
-<!ENTITY receivedColumn.label "Data de recebimento">
+<!ENTITY receivedColumn.label "Recebimento">
 <!ENTITY starredColumn.label "Com estrela">
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">
@@ -626,8 +636,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY contextOpenNewTab.accesskey "b">
+<!ENTITY contextOpenConversation.label "Abrir mensagem na conversação">
+<!ENTITY contextOpenConversation.accesskey "r">
 <!ENTITY contextEditAsNew.label "Editar como nova">
 <!ENTITY contextEditAsNew.accesskey "d">
+<!ENTITY contextArchive.label "Arquivar">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
@@ -653,6 +667,53 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Visualizar impressão">
 <!ENTITY contextPrintPreview.accesskey "V">
 
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+<!ENTITY columnPicker.resetToInbox.label "Restaurar colunas padrão">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Aplicar colunas na">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Pasta">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Pasta e suas filhas">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "Esta pasta">
+
+
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Executar">
 <!ENTITY contextPlay.accesskey "x">
@@ -677,12 +738,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Ignorar alerta">
 <!ENTITY reportPhishingError1.label "Esta mensagem não aparenta ser um golpe.">
 
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mais">
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
+<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
+<!ENTITY mdnBarSendButton.label "Send Receipt">
 
 <!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 <!ENTITY quickSearchCmd.key "K">
-<!ENTITY searchEverywhere.label "Pesquisar em tudo">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "Pesquisar todas as mensagens… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adicionar ao catálogo de endereços…">
@@ -691,32 +779,50 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddDirectlyToAddressBook.accesskey "A">
 <!ENTITY EditContact.label "Propriedades do contato">
 <!ENTITY EditContact.accesskey "P">
-<!ENTITY ViewContact.label "View Contact">
-<!ENTITY ViewContact.accesskey "V">
-<!ENTITY SendMailTo.label "Nova mensagem">
-<!ENTITY SendMailTo.accesskey "N">
+<!ENTITY ViewContact.label "Exibir contato">
+<!ENTITY ViewContact.accesskey "x">
+<!ENTITY SubscribeToNewsgroup.label "Inscrever o newsgroup">
+<!ENTITY SubscribeToNewsgroup.accesskey "I">
+<!ENTITY SendMessageTo.label "Nova mensagem para">
+<!ENTITY SendMessageTo.accesskey "N">
 <!ENTITY CopyEmailAddress.label "Copiar email">
 <!ENTITY CopyEmailAddress.accesskey "o">
+<!ENTITY CopyNewsgroupName.label "Copiar o nome do newsgroup">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copiar o endereço do newsgroup">
+<!ENTITY CopyNewsgroupURL.accesskey "o">
 <!ENTITY CreateFilterFrom.label "Criar filtro para este email…">
 <!ENTITY CreateFilterFrom.accesskey "r">
 <!ENTITY reportPhishingURL.label "Denunciar email como fraudulento">
-<!ENTITY reportPhishingURL.accesskey "D">
+<!ENTITY reportPhishingURL.accesskey "e">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Salvar link como…">
 <!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Salvar imagem como…">
 <!ENTITY saveImageAsCmd.accesskey "i">
+<!ENTITY cutCmd.label "Recortar">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Colar">
+<!ENTITY pasteCmd.accesskey "o">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copiar link">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Copiar endereço da imagem">
-<!ENTITY copyImageCmd.accesskey "r">
+<!ENTITY copyImageAllCmd.label "Copiar imagem">
+<!ENTITY copyImageAllCmd.accesskey "m">
 <!ENTITY copyEmailCmd.label "Copiar email">
 <!ENTITY copyEmailCmd.accesskey "o">
+<!ENTITY stopCmd.label "Parar">
+<!ENTITY stopCmd.accesskey "P">
+<!ENTITY reloadCmd.label "Recarregar">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "Abrir no navegador">
+<!ENTITY openInBrowser.accesskey "A">
+<!ENTITY openLinkInBrowser.label "Abrir link no navegador">
+<!ENTITY openLinkInBrowser.accesskey "A">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Concluído">
