@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Software-Update">
 
-<!ENTITY  window.width                    "42em">
-<!ENTITY  window.macWidth                 "45em">
-
 <!ENTITY  checking.title                  "Überprüfe auf verfügbare Updates">
 <!ENTITY  updateCheck.label               "Suche nach neueren Versionen von &brandShortName;…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Inkompatible Add-ons gefunden">
 
-<!ENTITY  downloading.title               "Update herunterladen">
+<!ENTITY  downloadPage.title              "&brandShortName; herunterladen">
 <!ENTITY  downloading.intro               "Das Update wird heruntergeladen…">
 <!ENTITY  connecting.label                "Mit dem Update-Server verbinden…">
 <!ENTITY  verificationFailedText.label    "Die Integrität des heruntergeladenen, inkrementellen Updates für
