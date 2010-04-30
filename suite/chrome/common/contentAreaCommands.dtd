@@ -35,7 +35,7 @@
 <!ENTITY viewFrameSourceCmd.label "Исходный код фрейма">
 <!ENTITY viewFrameSourceCmd.accesskey "х">
 <!ENTITY viewPageInfoCmd.label "Информация о странице">
-<!ENTITY viewPageInfoCmd.accesskey "ц">
+<!ENTITY viewPageInfoCmd.accesskey "р">
 <!ENTITY viewFrameInfoCmd.label "Информация о фрейме">
 <!ENTITY viewFrameInfoCmd.accesskey "ц">
 <!ENTITY fitImageCmd.label "Растянуть изображение до размеров окна">
@@ -43,13 +43,13 @@
 <!ENTITY reloadImageCmd.label "Перезагрузить изображение">
 <!ENTITY reloadImageCmd.accesskey "р">
 <!ENTITY viewImageCmd.label "Открыть изображение">
-<!ENTITY viewImageCmd.accesskey "т">
+<!ENTITY viewImageCmd.accesskey "р">
 <!ENTITY viewVideoCmd.label "Открыть видео">
 <!ENTITY viewVideoCmd.accesskey "к">
 <!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
 <!ENTITY viewBGImageCmd.accesskey "р">
 <!ENTITY setWallpaperCmd.label "Поместить на Рабочий стол">
-<!ENTITY setWallpaperCmd.accesskey "с">
+<!ENTITY setWallpaperCmd.accesskey "е">
 <!ENTITY bookmarkPageCmd.label "Добавить страницу в закладки">
 <!ENTITY bookmarkPageCmd.accesskey "б">
 <!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки">
@@ -74,11 +74,11 @@
 <!ENTITY saveAudioCmd.label "Сохранить аудио как…">
 <!ENTITY saveAudioCmd.accesskey "х">
 <!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.accesskey "о">
 <!ENTITY selectAllCmd.label "Выделить всё">
-<!ENTITY selectAllCmd.accesskey "ы">
+<!ENTITY selectAllCmd.accesskey "е">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
-<!ENTITY copyLinkCmd.accesskey "ы">
+<!ENTITY copyLinkCmd.accesskey "п">
 <!ENTITY copyImageCmd.label "Копировать изображение">
 <!ENTITY copyImageCmd.accesskey "и">
 <!ENTITY copyVideoURLCmd.label "Копировать ссылку на видео">
@@ -88,7 +88,7 @@
 <!ENTITY metadataCmd.label "Свойства">
 <!ENTITY metadataCmd.accesskey "й">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
-<!ENTITY copyEmailCmd.accesskey "э">
+<!ENTITY copyEmailCmd.accesskey "р">
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.accesskey "с">
 <!ENTITY cutCmd.label "Вырезать">
