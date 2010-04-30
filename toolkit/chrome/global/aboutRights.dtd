@@ -5,9 +5,9 @@
 <!ENTITY rights.intro-point1a "&brandShortName; è disponibile nei termini della ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Questo significa che è possibile usare, copiare e distribuire &brandShortName; ad altre persone. Le modifiche al codice sorgente di &brandShortName; per adattarlo alle proprie esigenze sono benaccette. Inoltre, la Mozilla Public License garantisce il diritto di distribuire tali versioni modificate.">
-<!ENTITY rights.intro-point2a "Mozilla non attribuisce all'Utente alcun diritto relativamente all'utilizzo dei marchi registrati o dei logo Mozilla e Firefox. Ulteriori informazioni su questo argomento sono disponibili ">
-<!ENTITY rights.intro-point2b "in questa pagina">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Mozilla non attribuisce all'Utente alcun diritto o licenza relativamente all'utilizzo dei marchi registrati da Mozilla Foundation o da altri soggetti, inclusi senza alcun limitazione il nome Firefox e i logo associati. Ulteriori informazioni su questo argomento sono disponibili ">
+<!ENTITY rights.intro-point2-b "in questa pagina">
+<!ENTITY rights.intro-point2-c ".">
 <!ENTITY rights.intro-point3a "L'informativa sulla privacy di &vendorShortName; è disponibile ">
 <!ENTITY rights.intro-point3b "a questo indirizzo">
 <!ENTITY rights.intro-point3c ".">
