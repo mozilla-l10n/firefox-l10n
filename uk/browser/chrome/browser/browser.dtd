@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label                     "Закрити вкладку">
 <!ENTITY  closeTab.accesskey                 "к">
 
+<!ENTITY  listAllTabs.label      "Список усіх вкладок">
+
 <!ENTITY tabCmd.label "Нова вкладка">
 <!ENTITY tabCmd.accesskey "Н">
 <!ENTITY tabCmd.commandkey "t">
@@ -270,14 +272,14 @@
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Оновити фрейм">
 <!ENTITY reloadFrameCmd.accesskey     "в">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Перегляд початкового коду виділеного фрагмента">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Перегляд початкового коду MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Початковий код вибірки">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Початковий код MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "е">
-<!ENTITY viewPageSourceCmd.label      "Перегляд початкового коду сторінки">
+<!ENTITY viewPartialSourceCmd.accesskey "к">
+<!ENTITY viewPageSourceCmd.label      "Початковий код сторінки">
 <!ENTITY viewPageSourceCmd.accesskey  "р">
-<!ENTITY viewFrameSourceCmd.label     "Перегляд початкового коду фрейма">
+<!ENTITY viewFrameSourceCmd.label     "Початковий код фрейма">
 <!ENTITY viewFrameSourceCmd.accesskey "й">
 <!ENTITY viewPageInfoCmd.label        "Інформація про сторінку">
 <!ENTITY viewPageInfoCmd.accesskey    "І">
