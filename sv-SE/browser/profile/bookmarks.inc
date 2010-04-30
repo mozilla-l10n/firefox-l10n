@@ -7,10 +7,6 @@
 #define bookmarks_title Bokmärken
 #define bookmarks_heading Bokmärken
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://sv-se.add-ons.mozilla.com/sv-SE/firefox/bookmarks/
-#define bookmarks_addons Hämta bokmärkestillägg
-
 #define bookmarks_toolbarfolder Bokmärkesfältsmapp
 #define bookmarks_toolbarfolder_description Lägg bokmärken i denna mapp för att visa dem i Bokmärkesfältet
 
