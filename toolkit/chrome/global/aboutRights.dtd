@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Det betyder att du får använda, kopiera och distribuera &brandShortName; till andra. Du får också modifiera källkoden i &brandShortName; för att bättre passa dina behov. Mozilla Public License ger dig även rätt att distribuera de modifierade versionerna.">
 
-<!ENTITY rights.intro-point2a "Mozilla ger dig ingen rätt till varumärkena Mozilla och Firefox eller dess logotyper. Ytterligare information om varumärkena hittar du ">
-<!ENTITY rights.intro-point2b "här">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Du ges ingen rätt till varumärken eller licenser till varumärken tillhörande Mozilla Foundation eller annan part, detta inkluderar utan undantag namnet Firefox eller dess logotyp. Ytterligare information om varumärkena hittar du ">
+<!ENTITY rights.intro-point2-b "här">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Sekretesspolicyer för &vendorShortName;s produkter kan du hitta ">
