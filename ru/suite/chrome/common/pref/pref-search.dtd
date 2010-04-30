@@ -1,5 +1,5 @@
 <!ENTITY pref.search.title "Поиск в Интернете">
-<!ENTITY legendHeader "Поисковая машина по умолчанию">
+<!ENTITY legendHeader "Поисковая система по умолчанию">
 <!ENTITY defaultSearchEngine.label "Искать с помощью:">
 <!ENTITY defaultSearchEngine.accesskey "И">
 <!ENTITY openSidebarSearchPanel.label "Когда доступны результаты поиска, открывать соответствующий раздел боковой панели">

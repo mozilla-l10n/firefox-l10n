@@ -37,7 +37,7 @@
 <!ENTITY enableAppUpdate.accesskey "у">
 <!ENTITY enableAddonsUpdate2.label "Дополнений">
 <!ENTITY enableAddonsUpdate2.accesskey "о">
-<!ENTITY enableSearchUpdate.label "Поисковых плагинов">
+<!ENTITY enableSearchUpdate.label "Плагинов для поисковых систем">
 <!ENTITY enableSearchUpdate.accesskey "п">
 <!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
 <!ENTITY askMe.label "Предоставлять выбор действия пользователю">

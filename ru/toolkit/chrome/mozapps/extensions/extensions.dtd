@@ -1,13 +1,13 @@
 <!ENTITY addons.title "Менеджер дополнений">
-<!ENTITY search.placeholder "Поиск во всех дополнениях">
+<!ENTITY search.placeholder "Поиск в дополнениях">
 <!ENTITY loading.label "Загрузка…">
-<!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения этого типа">
+<!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения данного типа">
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY view.search.label "Поиск">
-<!ENTITY view.discover.label "Получить дополнения">
+<!ENTITY view.discover.label "Найти дополнения">
 <!ENTITY view.languages.label "Языки">
-<!ENTITY view.searchengines.label "Поисковые машины">
+<!ENTITY view.searchengines.label "Поисковые системы">
 <!ENTITY view.features.label "Расширения">
 <!ENTITY view.appearance.label "Темы">
 <!ENTITY view.plugins.label "Плагины">
@@ -41,13 +41,13 @@
 <!ENTITY detail.updated.label "Обновлено">
 <!ENTITY detail.creator.label "Разработчик">
 <!ENTITY detail.homepage.label "Домашняя страница">
-<!ENTITY detail.numberOfDownloads.label "Загрузки">
+<!ENTITY detail.numberOfDownloads.label "Загрузок">
 <!ENTITY detail.updateAutomatically.label "Обновлять автоматически">
 <!ENTITY detail.updateAutomatically.accesskey "б">
 <!ENTITY detail.updateAutomatically.tooltip "Обновлять это дополнение автоматически при появлении доступного обновления">
-<!ENTITY detail.checkForUpdates.label "Проверка наличия обновлений">
+<!ENTITY detail.checkForUpdates.label "Проверить наличие обновлений">
 <!ENTITY detail.checkForUpdates.accesskey "в">
-<!ENTITY detail.checkForUpdates.tooltip "Проверка наличия обновлений для этого дополнения">
+<!ENTITY detail.checkForUpdates.tooltip "Проверить наличие обновлений для этого дополнения">
 <!ENTITY detail.showPreferences.label "Настройки">
 <!ENTITY detail.showPreferences.accesskey "с">
 <!ENTITY detail.showPreferences.tooltip "Изменить настройки этого дополнения">
@@ -62,10 +62,10 @@
 <!ENTITY sort.dateUpdated.tooltip "Сортировать по дате обновления">
 <!ENTITY sort.rating.label "Рейтинг">
 <!ENTITY sort.rating.tooltip "Сортировать по среднему рейтингу">
-<!ENTITY showMore.label "Более подробно">
+<!ENTITY showMore.label "Показать больше">
 <!ENTITY showMore.accesskey "л">
 <!ENTITY showMore.tooltip "Показать больше подробностей">
-<!ENTITY showLess.label "Менее подробно">
+<!ENTITY showLess.label "Показать меньше">
 <!ENTITY showLess.accesskey "н">
 <!ENTITY showLess.tooltip "Показать меньше подробностей">
 <!ENTITY search.filter.label "Показать:">

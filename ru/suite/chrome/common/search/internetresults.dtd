@@ -43,7 +43,7 @@
 <!ENTITY date.column.label "Дата">
 <!ENTITY site.column.label "Сайт">
 <!ENTITY results.header.label "Результаты поиска">
-<!ENTITY engine.column.label "Поисковая машина">
-<!ENTITY viewbyprovider.label "Просмотр по поисковым машинам:">
+<!ENTITY engine.column.label "Поисковая система">
+<!ENTITY viewbyprovider.label "Просмотр по поисковым системам:">
 <!ENTITY allresults.title.label "Все результаты вместе">
 <!ENTITY internetresults.title "Результаты поиска">
