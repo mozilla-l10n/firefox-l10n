@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Публічної ліцензії Mozilla">
 <!ENTITY rights.intro-point1c ".Тобто, ви можете використовувати, копіювати та розповсюджувати &brandShortName;. Ви також можете змінювати джерельний код &brandShortName; як хочете та як вважаєте за потрібне. Публічна ліцензія Mozilla дає вам також право розповсюджувати змінені вами версії програми.">
 
-<!ENTITY rights.intro-point2a "Mozilla не дає вам жодних прав на торгові марки чи логотипи Mozilla та Firefox. Додаткову інформацію про торгові марки ви знайдете  ">
-<!ENTITY rights.intro-point2b "тут">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Вам не надається жодних прав чи лицензій на торгові марки що належать фундації Mozilla або будь-якій іншій компанії. Це стосується назви та логотипу Firefox, але не обмежується ними. Додаткову інформацію щодо торгових марок ви можете отримати ">
+<!ENTITY rights.intro-point2-b "тут">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Угода конфіденційності для продуктів &vendorShortName; знаходиться ">
