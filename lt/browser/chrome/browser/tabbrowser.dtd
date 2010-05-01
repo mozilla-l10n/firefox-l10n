@@ -30,5 +30,4 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  closeTab.label              "Užverti kortelę">
-<!ENTITY  listAllTabs.label           "Pateikti visas korteles">
 <!ENTITY  newTabButton.tooltip        "Atverti naują kortelę">

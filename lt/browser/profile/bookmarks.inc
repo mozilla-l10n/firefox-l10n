@@ -41,10 +41,6 @@
 #define bookmarks_title Adresynas
 #define bookmarks_heading Adresynas
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://lt.add-ons.mozilla.com/lt/firefox/bookmarks/
-#define bookmarks_addons Adresyno priedai
-
 #define bookmarks_toolbarfolder Adresyno juosta
 #define bookmarks_toolbarfolder_description Čia įdėti adresai rodomi naršyklės adresyno juostoje
 

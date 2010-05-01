@@ -62,6 +62,8 @@
 <!ENTITY  closeTab.label              "Užverti kortelę">
 <!ENTITY  closeTab.accesskey          "U">
 
+<!ENTITY  listAllTabs.label           "Pateikti visas korteles">
+
 <!ENTITY tabCmd.label "Nauja kortelė">
 <!ENTITY tabCmd.accesskey "k">
 <!ENTITY tabCmd.commandkey "t">
