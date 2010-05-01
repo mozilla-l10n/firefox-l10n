@@ -1,4 +1,4 @@
-<!ENTITY addons.title                         "Gestor de Extras">
+<!ENTITY addons.windowTitle                   "Gestor de Extras">
 <!ENTITY search.placeholder                   "Procurar todos os extras">
 <!ENTITY loading.label                        "A carregar…">
 <!ENTITY listEmpty.installed.label            "Não tem instalado nenhum extra deste tipo">
@@ -34,15 +34,15 @@
 <!ENTITY cmd.about.label                      "Sobre">
 <!ENTITY cmd.about.accesskey                  "S">
 
-<!ENTITY cmd.enable.label                     "Activar">
-<!ENTITY cmd.enable.accesskey                 "A">
-<!ENTITY cmd.enable.tooltip                   "Activar este extra">
-<!ENTITY cmd.disable.label                    "Desactivar">
-<!ENTITY cmd.disable.accesskey                "D">
-<!ENTITY cmd.disable.tooltip                  "Desactivar este extra">
-<!ENTITY cmd.uninstall.label                  "Remover">
-<!ENTITY cmd.uninstall.accesskey              "R">
-<!ENTITY cmd.uninstall.tooltip                "Desinstalar este extra">
+<!ENTITY cmd.enableAddon.label                "Activar">
+<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.enableAddon.tooltip              "Activar este extra">
+<!ENTITY cmd.disableAddon.label               "Desactivar">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.tooltip             "Desactivar este extra">
+<!ENTITY cmd.uninstallAddon.label             "Desinstalar">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.tooltip           "Desinstalar este extra">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir no desenvolvimento deste extra">
