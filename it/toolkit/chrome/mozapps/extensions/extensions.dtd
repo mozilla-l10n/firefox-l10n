@@ -1,4 +1,4 @@
-<!ENTITY addons.title "Componenti aggiuntivi">
+<!ENTITY addons.windowTitle "Gestione componenti aggiuntivi">
 <!ENTITY search.placeholder "Cerca tra i componenti aggiuntivi">
 <!ENTITY loading.label "Caricamento in corso…">
 <!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questo tipo">
@@ -25,15 +25,15 @@
 <!ENTITY cmd.preferences.accesskey "P">
 <!ENTITY cmd.about.label "Informazioni su">
 <!ENTITY cmd.about.accesskey "I">
-<!ENTITY cmd.enable.label "Attiva">
-<!ENTITY cmd.enable.accesskey "t">
-<!ENTITY cmd.enable.tooltip "Attiva questo componente aggiuntivo al prossimo avvio di &brandShortName;">
-<!ENTITY cmd.disable.label "Disattiva">
-<!ENTITY cmd.disable.accesskey "D">
-<!ENTITY cmd.disable.tooltip "Disattiva questo componente aggiuntivo al prossimo avvio di &brandShortName;">
-<!ENTITY cmd.uninstall.label "Disinstalla">
-<!ENTITY cmd.uninstall.accesskey "D">
-<!ENTITY cmd.uninstall.tooltip "Disinstalla questo componente aggiuntivo">
+<!ENTITY cmd.enableAddon.label "Attiva">
+<!ENTITY cmd.enableAddon.accesskey "A">
+<!ENTITY cmd.enableAddon.tooltip "Attiva questo componente aggiuntivo">
+<!ENTITY cmd.disableAddon.label "Disattiva">
+<!ENTITY cmd.disableAddon.accesskey "D">
+<!ENTITY cmd.disableAddon.tooltip "Disattiva questo componente aggiuntivo">
+<!ENTITY cmd.uninstallAddon.label "Rimuovi">
+<!ENTITY cmd.uninstallAddon.accesskey "R">
+<!ENTITY cmd.uninstallAddon.tooltip "Disinstalla questo componente aggiuntivo">
 <!ENTITY cmd.contribute.label "Fai una donazione">
 <!ENTITY cmd.contribute.accesskey "F">
 <!ENTITY cmd.contribute.tooltip "Contribuisci allo sviluppo di questo componente aggiuntivo">
