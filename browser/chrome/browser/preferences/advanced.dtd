@@ -37,7 +37,7 @@
 <!ENTITY enableAppUpdate.accesskey "F">
 <!ENTITY enableAddonsUpdate2.label "Дадаткі">
 <!ENTITY enableAddonsUpdate2.accesskey "Д">
-<!ENTITY enableSearchUpdate.label "Машынаў пошуку">
+<!ENTITY enableSearchUpdate.label "Машыны пошуку">
 <!ENTITY enableSearchUpdate.accesskey "ш">
 <!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
 <!ENTITY askMe.label "Пытацца мяне, што я буду рабіць">

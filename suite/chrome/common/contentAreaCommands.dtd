@@ -47,9 +47,9 @@
 <!ENTITY viewVideoCmd.label "Пабачыць відэя">
 <!ENTITY viewVideoCmd.accesskey "в">
 <!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
-<!ENTITY viewBGImageCmd.accesskey "Ф">
+<!ENTITY viewBGImageCmd.accesskey "ф">
 <!ENTITY setWallpaperCmd.label "Усталяваць як шпалеры">
-<!ENTITY setWallpaperCmd.accesskey "Ш">
+<!ENTITY setWallpaperCmd.accesskey "ш">
 <!ENTITY bookmarkPageCmd.label "Дадаць закладку да гэтай старонкі">
 <!ENTITY bookmarkPageCmd.accesskey "С">
 <!ENTITY bookmarkLinkCmd.label "Дадаць закладку да гэтай спасылкі">
@@ -88,7 +88,7 @@
 <!ENTITY metadataCmd.label "Уласцівасці">
 <!ENTITY metadataCmd.accesskey "У">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
-<!ENTITY copyEmailCmd.accesskey "Э">
+<!ENTITY copyEmailCmd.accesskey "э">
 <!ENTITY pasteCmd.label "Уставіць">
 <!ENTITY pasteCmd.accesskey "У">
 <!ENTITY cutCmd.label "Выразаць">

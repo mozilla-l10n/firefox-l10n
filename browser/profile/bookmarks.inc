@@ -7,10 +7,6 @@
 #define bookmarks_title Закладкі
 #define bookmarks_heading Закладкі
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Атрымаць дадаткі для закладак
-
 #define bookmarks_toolbarfolder Папка прыладапаліца закладак
 #define bookmarks_toolbarfolder_description Дадавайце закладкі ў гэтую папку, каб пабачыць іх на прыладапаліцы закладак.
 
