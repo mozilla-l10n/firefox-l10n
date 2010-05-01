@@ -1,4 +1,4 @@
-<!ENTITY addons.title                     "Gestionnaire de modules complémentaires">
+<!ENTITY addons.windowTitle               "Gestionnaire de modules complémentaires">
 <!ENTITY search.placeholder               "Rechercher dans tous les modules">
 <!ENTITY loading.label                    "Chargement…">
 <!ENTITY listEmpty.installed.label        "Vous n'avez aucun module de ce type installé">
@@ -33,15 +33,15 @@
 <!ENTITY cmd.about.label                  "À propos de">
 <!ENTITY cmd.about.accesskey              "o">
 
-<!ENTITY cmd.enable.label                 "Activer">
-<!ENTITY cmd.enable.accesskey             "A">
-<!ENTITY cmd.enable.tooltip               "Activer ce module complémentaire">
-<!ENTITY cmd.disable.label                "Désactiver">
-<!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "Désactiver ce module complémentaire">
-<!ENTITY cmd.uninstall.label              "Supprimer">
-<!ENTITY cmd.uninstall.accesskey          "S">
-<!ENTITY cmd.uninstall.tooltip            "Désinstaller ce module complémentaire">
+<!ENTITY cmd.enableAddon.label            "Activer">
+<!ENTITY cmd.enableAddon.accesskey        "A">
+<!ENTITY cmd.enableAddon.tooltip          "Activer ce module complémentaire">
+<!ENTITY cmd.disableAddon.label           "Désactiver">
+<!ENTITY cmd.disableAddon.accesskey       "D">
+<!ENTITY cmd.disableAddon.tooltip         "Désactiver ce module complémentaire">
+<!ENTITY cmd.uninstallAddon.label         "Supprimer">
+<!ENTITY cmd.uninstallAddon.accesskey     "S">
+<!ENTITY cmd.uninstallAddon.tooltip       "Désinstaller ce module complémentaire">
 <!ENTITY cmd.contribute.label             "Contribuer">
 <!ENTITY cmd.contribute.accesskey         "C">
 <!ENTITY cmd.contribute.tooltip           "Contribuer au développement de ce module complémentaire">
