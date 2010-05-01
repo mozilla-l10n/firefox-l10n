@@ -43,14 +43,14 @@
 <!ENTITY detail.homepage.label "Sito web">
 <!ENTITY detail.numberOfDownloads.label "Download">
 <!ENTITY detail.updateAutomatically.label "Aggiorna automaticamente">
-<!ENTITY detail.updateAutomatically.accesskey "A">
+<!ENTITY detail.updateAutomatically.accesskey "u">
 <!ENTITY detail.updateAutomatically.tooltip "Aggiorna automaticamente questo componente aggiuntivo quando è disponibile un aggiornamento">
 <!ENTITY detail.checkForUpdates.label "Cerca aggiornamenti">
 <!ENTITY detail.checkForUpdates.accesskey "e">
 <!ENTITY detail.checkForUpdates.tooltip "Cerca aggiornamenti per questo componente aggiuntivo">
 <!ENTITY detail.showPreferences.label "Preferenze">
-<!ENTITY detail.showPreferences.accesskey "P">
-<!ENTITY detail.showPreferences.tooltip "Cambia le preferenze di questo componente aggiuntivo">
+<!ENTITY detail.showPreferences.accesskey "z">
+<!ENTITY detail.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
 <!ENTITY rating.yourRating.label "Assegna un voto:">
 <!ENTITY progress.pause.tooltip "Pausa">
 <!ENTITY progress.cancel.tooltip "Annulla">
@@ -66,7 +66,7 @@
 <!ENTITY showMore.accesskey "N">
 <!ENTITY showMore.tooltip "Visualizza ulteriori dettagli">
 <!ENTITY showLess.label "Altri dettagli">
-<!ENTITY showLess.accesskey "d">
+<!ENTITY showLess.accesskey "t">
 <!ENTITY showLess.tooltip "Visualizza meno dettagli">
 <!ENTITY search.filter.label "Visualizza:">
 <!ENTITY search.filter.installed.label "Componenti aggiuntivi installati">
