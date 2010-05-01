@@ -1,4 +1,4 @@
-<!ENTITY addons.title                         "Hantera tillägg">
+<!ENTITY addons.windowTitle                   "Hantera tillägg">
 <!ENTITY search.placeholder                   "Sök bland alla tillägg">
 <!ENTITY loading.label                        "Hämtar…">
 <!ENTITY listEmpty.installed.label            "Du har inga tillägg av den här typen installerade">
@@ -34,15 +34,15 @@
 <!ENTITY cmd.about.label                      "Om">
 <!ENTITY cmd.about.accesskey                  "O">
 
-<!ENTITY cmd.enable.label                     "Aktivera">
-<!ENTITY cmd.enable.accesskey                 "A">
-<!ENTITY cmd.enable.tooltip                   "Aktiverar tillägget">
-<!ENTITY cmd.disable.label                    "Inaktivera">
-<!ENTITY cmd.disable.accesskey                "k">
-<!ENTITY cmd.disable.tooltip                  "Inaktiverar tillägget">
-<!ENTITY cmd.uninstall.label                  "Ta bort">
-<!ENTITY cmd.uninstall.accesskey              "T">
-<!ENTITY cmd.uninstall.tooltip                "Avinstallerar tillägget">
+<!ENTITY cmd.enableAddon.label                "Aktivera">
+<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.enableAddon.tooltip              "Aktiverar tillägget">
+<!ENTITY cmd.disableAddon.label               "Inaktivera">
+<!ENTITY cmd.disableAddon.accesskey           "k">
+<!ENTITY cmd.disableAddon.tooltip             "Inaktiverar tillägget">
+<!ENTITY cmd.uninstallAddon.label             "Ta bort">
+<!ENTITY cmd.uninstallAddon.accesskey         "T">
+<!ENTITY cmd.uninstallAddon.tooltip           "Avinstallerar tillägget">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Ge ett bidrag till utvecklingen av detta tillägg">
