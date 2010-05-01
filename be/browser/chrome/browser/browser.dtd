@@ -20,6 +20,7 @@
 <!ENTITY undoCloseTab.accesskey "А">
 <!ENTITY closeTab.label "Зачыніць устаўку">
 <!ENTITY closeTab.accesskey "З">
+<!ENTITY listAllTabs.label "Пералічыць усе ўстаўкі">
 <!ENTITY tabCmd.label "Новая ўстаўка">
 <!ENTITY tabCmd.accesskey "т">
 <!ENTITY tabCmd.commandkey "t">
