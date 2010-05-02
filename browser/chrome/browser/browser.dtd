@@ -151,7 +151,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "附加元件">
-<!ENTITY addons.tooltip               "顯示並管理已安裝的附加元件">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "錯誤主控台">
