@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Trykk her for å laste ned programtillegget.">
 <!ENTITY disabledPlugin.label                                "Programtillegget for dette innhaldet er slått av. Trykk her for å handsame programtillegga dine.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Last sida på nytt">
+<!ENTITY reloadPlugin.post                                   " for å prøve igjen.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Send krasjrapport">
+<!ENTITY report.submitting                                   "Sender krasjrapport …">
+<!ENTITY report.submitted                                    "Krasjrapporten er sendt.">
+<!ENTITY report.disabled                                     "Krasjrapportering er slått av.">
+<!ENTITY report.failed                                       "Mislykka sending.">
+<!ENTITY report.unavailable                                  "Ingen rapport er tilgjengeleg.">

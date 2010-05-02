@@ -1,8 +1,13 @@
-<!ENTITY welcome.title                      "Velkomen til &brandShortName;">
-<!ENTITY intro.description                  "Synkronise PC-en og mobileininga di med Weave Sync. Tilpass med utvidingar. Surf smartare med den nye adresselinja og mykje, mykje meir.">
-<!ENTITY weave.title                        "Kom i gang">
-<!ENTITY weave.description                  "Hent Weave Sync for å verkeleg ta i bruk Firefox. Del innstillingane dine, bokmerke, historikk og meir mellom PC-en din og mobile eining.">
-<!ENTITY weave.linkLabel                    "Hent Weave Sync-utvidinga">
-<!ENTITY getPersonal.title                  "Personleggjer eininga di">
-<!ENTITY getPersonal.description            "Gjer &brandShortName; til din eigen. Tilpass den første nettlesaren som tilbyr utvidingar for mobil.">
-<!ENTITY getPersonal.linkLabel              "Hent &brandShortName;-utvidingar">
+<!ENTITY firstrun.title                "Velkomen til &brandShortName;">
+<!ENTITY firstrun.heading              "For å hjelpe deg å kome i gang, her er dei mest populære funksjonane og utvidingane som vil hjelpe deg å få mest mogleg ut av &brandShortName;.">
+<!ENTITY firstrun.recommended          "Tilrådd:">
+<!ENTITY firstrun.weave.title          "Last ned Weave Sync">
+<!ENTITY firstrun.weave.description    "Del &brandShortName;-historikken din, passord, bokmerke og faner mellom datamaskina di og mobilen">
+<!ENTITY firstrun.starter.title        "Last ned Starter Kit Collection">
+<!ENTITY firstrun.starter.description  "Installer desse tilrådde utvidingane for å forbetre &brandShortName;-opplevinga">
+<!ENTITY firstrun.tour.title           "Ver med på ei omvising">
+<!ENTITY firstrun.tour.description     "Dette videoklippet viser deg korleis du brukar programmet og nyttige funksjonar">
+<!ENTITY firstrun.features             "Vis fleie funksjonar">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Personvern">
+<!ENTITY firstrun.follow               "Følg oss på:">
