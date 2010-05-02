@@ -67,7 +67,7 @@
 
 <!ENTITY contactYourProvider.description "&brandShortName; kan la deg laste ned e-post med dei gitte konfigurasjonane. Men du bør kontakte systemansvarleg eller e-posttilbydaren om desse feilaktige tilkoplingane. Sjå Thunderbird FAQ for meir informasjon.">
 
-<!ENTITY insecureServer.tooltip.title    "Åtvaring! Dette er ein usikker tenar.">
+<!ENTITY insecureServer.tooltip.title    "Åtvaring! Dette er ein utrygg tenar.">
 <!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
 
 <!ENTITY insecureUnencrypted.description "Autentisering av e-posten din er sendt utan kryptering, slik at passord (og meldingar) lett kan lesast av andre personar. &brandShortName; vil la deg hente e-posten din, men du burde kontakte e-posttilbydaren din om oppsett av tenaren for sikkert samband.">

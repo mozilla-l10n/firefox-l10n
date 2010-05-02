@@ -80,8 +80,8 @@
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
 
-<!ENTITY zoominCmd.label "Forstørr">
-<!ENTITY zoomoutCmd.label "Forminsk">
+<!ENTITY zoominCmd.label "Større">
+<!ENTITY zoomoutCmd.label "Mindre">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">

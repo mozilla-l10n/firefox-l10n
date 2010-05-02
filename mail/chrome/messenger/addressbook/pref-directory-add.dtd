@@ -44,7 +44,7 @@
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Søk">
 <!ENTITY findButton.accesskey              "S">
-<!ENTITY directorySecure.label             "Bruk sikker oppkopling (SSL)">
+<!ENTITY directorySecure.label             "Bruk trygg oppkopling (SSL)">
 <!ENTITY directorySecure.accesskey         "B">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">

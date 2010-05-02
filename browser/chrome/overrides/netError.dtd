@@ -108,14 +108,14 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sikkert samband feila">
+<!ENTITY nssFailure2.title "Trygt samband feila">
 <!ENTITY nssFailure2.longDesc "<ul>
   <li>Sida du prøver å opne kan ikkje visast fordi autentiseringa av mottekne data ikkje kunne verifiserast.</li>
   <li>Kontakt eigarane av nettsida for å informere dei om problemet. Eller du kan bruke kommandoen i Hjelp-menyen for å rapportere om feilen på sida.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Sikkert samband feila">
+<!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul>
   <li>Dette kan vere eit problem med tenarinnstillingane, eller det kan vere at nokon prøver å 
 gje seg ut for å vere tenaren.</li>
