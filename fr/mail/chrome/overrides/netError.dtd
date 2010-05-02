@@ -89,7 +89,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&nbsp;;</li>
-  <li>Contactez votre administrateur réseau pour vous assurez que le serveur proxy
+  <li>Contactez votre administrateur réseau pour vous assurer que le serveur proxy
     fonctionne.</li>
 </ul>
 ">
