@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Dit betekent dat u &brandShortName; mag gebruiken, kopiëren en naar anderen mag distribueren. Ook mag u de broncode van &brandShortName; modificeren naar een vorm die aan uw eisen voldoet. De Mozilla Public License geeft u tevens het recht uw aangepaste versies te distribueren.">
 
-<!ENTITY rights.intro-point2a "Mozilla verleent u geen rechten tot de Mozilla- en Firefox-handelsmerken of -logo’s. Aanvullende informatie over handelsmerken is ">
-<!ENTITY rights.intro-point2b "hier">
-<!ENTITY rights.intro-point2c " te vinden.">
+<!ENTITY rights.intro-point2-a "Er worden u geen rechten of licenties verleend op de handelsmerken van de Mozilla Foundation of enige andere partij, met inbegrip en zonder beperking van de naam of het logo van Firefox. Aanvullende informatie over handelsmerken is ">
+<!ENTITY rights.intro-point2-b "hier">
+<!ENTITY rights.intro-point2-c " te vinden.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Privacybeleiden voor producten van &vendorShortName; zijn ">
