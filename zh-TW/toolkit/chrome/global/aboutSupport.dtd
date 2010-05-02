@@ -1,10 +1,9 @@
 <!ENTITY aboutSupport.pageTitle "疑難排解資訊">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "   此頁面包含當您試圖解決某個問題時需要的技術資訊。如果您想要尋找關於 &brandShortName; 
-  常見問題的解答，您可以瀏覽我們的 <a id='supportLink'>技術支援網站</a>。
-      
-">
+<!ENTITY aboutSupport.pageSubtitle "  此頁面包含技術資訊，可能可以幫您解決一些問題。
+  如果您正在尋找關於 &brandShortName; 的一些常見問題，
+  請看看我們的 <a id='supportLink'>支援網站</a>。">
 
 <!ENTITY aboutSupport.extensionsTitle "擴充套件">
 <!ENTITY aboutSupport.extensionName "名稱">
