@@ -6,8 +6,8 @@
 <!ENTITY aboutCredits.label "Crédits">
 <!ENTITY aboutCredits.accesskey "d">
 <!ENTITY aboutMenu.accesskey "r">
-<!ENTITY aboutRights.label "vos droits">
-<!ENTITY aboutRights.accesskey "v">
+<!ENTITY aboutRights.label "Vos droits">
+<!ENTITY aboutRights.accesskey "V">
 <!ENTITY aboutContributors.label "Contributeurs">
 <!ENTITY aboutContributors.accesskey "C">
 <!ENTITY aboutLicense.label "Licence">
