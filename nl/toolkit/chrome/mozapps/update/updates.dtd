@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Software-update">
 
-<!ENTITY  window.width                    "39em">
-<!ENTITY  window.macWidth                 "42em">
-
 <!ENTITY  checking.title                  "Controleren op updates">
 <!ENTITY  updateCheck.label               "Controleren op nieuwere versies van &brandShortName;…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Incompatibele add-ons gevonden">
 
-<!ENTITY  downloading.title               "Update downloaden">
+<!ENTITY  downloadPage.title              "&brandShortName; downloaden">
 <!ENTITY  downloading.intro               "De update aan het downloaden…">
 <!ENTITY  connecting.label                "Verbinden met de updateserver…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; was niet in staat de integriteit van de
