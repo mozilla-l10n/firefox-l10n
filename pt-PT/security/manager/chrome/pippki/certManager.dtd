@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "CAs embutidos">
 <!ENTITY certmgr.ca.mycas                     "CAs geridos por si">
 
-<!ENTITY certmgr.mine.search                  "Procurar:">
-<!ENTITY certmgr.others.search                "Procurar:">
-<!ENTITY certmgr.websites.search              "Procurar:">
-<!ENTITY certmgr.cas.search                   "Procurar:">
-<!ENTITY certmgr.orphans.search               "Procurar:">
-
-<!ENTITY certmgr.mine.description             "Tem certificados destas organizações que o identificam:">
-<!ENTITY certmgr.others.description           "Tem certificados num ficheiro que identificam estas pessoas:">
-<!ENTITY certmgr.websites.description         "Tem certificados guardados que identificam estes servidores:">
-<!ENTITY certmgr.cas.description              "Tem certificados num ficheiro que identificam estas autoridades de certificação:">
-<!ENTITY certmgr.orphans.description          "Tem certificados guardados que não encaixam em nenhuma das outras categorias:">
-
-<!ENTITY certmgr.mine.filtered                "Correspondência de certificados destas organizações que o identificam:">
-<!ENTITY certmgr.others.filtered              "Correspondência de certificados num ficheiro que identificam estas pessoas:">
-<!ENTITY certmgr.websites.filtered            "Correspondência de certificados guardados que identificam estes servidores:">
-<!ENTITY certmgr.cas.filtered                 "Correspondência de certificados num ficheiro que identificam estas autoridades de certificação:">
-<!ENTITY certmgr.orphans.filtered             "Correspondência de certificados guardados que não encaixam em nenhuma das outras categorias:">
+<!ENTITY certmgr.mine                         "Tem certificados destas organizações que o identificam:">
+<!ENTITY certmgr.others                       "Tem certificados num ficheiro que identificam estas pessoas:">
+<!ENTITY certmgr.websites2                    "Tem certificados num ficheiro que identificam estes servidores:">
+<!ENTITY certmgr.cas                          "Tem certificados num ficheiro que identificam estas autoridades certificadas:">
+<!ENTITY certmgr.orphans                      "Tem certificados num ficheiro que identificam que não se enquadram em nenhuma das outras categorias:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Geral">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "E">
 <!ENTITY certmgr.view2.label "Ver...">
 <!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit2.label "Editar...">
-<!ENTITY certmgr.edit2.accesskey "E">
+<!ENTITY certmgr.edit3.label "Editar confiança...">
+<!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "Editar confiança na CA">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "Adicionar">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Apagar...">
 <!ENTITY certmgr.delete2.accesskey "p">
+<!ENTITY certmgr.delete_builtin.label         "Eliminar sem confiança…">
+<!ENTITY certmgr.delete_builtin.accesskey     "ç">
 <!ENTITY certmgr.backup2.label "Cópia de Segurança...">
 <!ENTITY certmgr.backup2.accesskey "C">
 <!ENTITY certmgr.backupall2.label "Copiar todos...">
