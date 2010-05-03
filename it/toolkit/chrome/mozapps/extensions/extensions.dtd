@@ -1,4 +1,4 @@
-<!ENTITY addons.windowTitle "Gestione componenti aggiuntivi">
+<!ENTITY addons.title "Componenti aggiuntivi">
 <!ENTITY search.placeholder "Cerca tra i componenti aggiuntivi">
 <!ENTITY loading.label "Caricamento in corso…">
 <!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questo tipo">
@@ -25,15 +25,15 @@
 <!ENTITY cmd.preferences.accesskey "P">
 <!ENTITY cmd.about.label "Informazioni su">
 <!ENTITY cmd.about.accesskey "I">
-<!ENTITY cmd.enableAddon.label "Attiva">
-<!ENTITY cmd.enableAddon.accesskey "A">
-<!ENTITY cmd.enableAddon.tooltip "Attiva questo componente aggiuntivo">
-<!ENTITY cmd.disableAddon.label "Disattiva">
-<!ENTITY cmd.disableAddon.accesskey "D">
-<!ENTITY cmd.disableAddon.tooltip "Disattiva questo componente aggiuntivo">
-<!ENTITY cmd.uninstallAddon.label "Rimuovi">
-<!ENTITY cmd.uninstallAddon.accesskey "R">
-<!ENTITY cmd.uninstallAddon.tooltip "Disinstalla questo componente aggiuntivo">
+<!ENTITY cmd.enable.label "Attiva">
+<!ENTITY cmd.enable.accesskey "t">
+<!ENTITY cmd.enable.tooltip "Attiva questo componente aggiuntivo al prossimo avvio di &brandShortName;">
+<!ENTITY cmd.disable.label "Disattiva">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "Disattiva questo componente aggiuntivo al prossimo avvio di &brandShortName;">
+<!ENTITY cmd.uninstall.label "Disinstalla">
+<!ENTITY cmd.uninstall.accesskey "D">
+<!ENTITY cmd.uninstall.tooltip "Disinstalla questo componente aggiuntivo">
 <!ENTITY cmd.contribute.label "Fai una donazione">
 <!ENTITY cmd.contribute.accesskey "F">
 <!ENTITY cmd.contribute.tooltip "Contribuisci allo sviluppo di questo componente aggiuntivo">
@@ -43,14 +43,14 @@
 <!ENTITY detail.homepage.label "Sito web">
 <!ENTITY detail.numberOfDownloads.label "Download">
 <!ENTITY detail.updateAutomatically.label "Aggiorna automaticamente">
-<!ENTITY detail.updateAutomatically.accesskey "u">
+<!ENTITY detail.updateAutomatically.accesskey "A">
 <!ENTITY detail.updateAutomatically.tooltip "Aggiorna automaticamente questo componente aggiuntivo quando è disponibile un aggiornamento">
 <!ENTITY detail.checkForUpdates.label "Cerca aggiornamenti">
 <!ENTITY detail.checkForUpdates.accesskey "e">
 <!ENTITY detail.checkForUpdates.tooltip "Cerca aggiornamenti per questo componente aggiuntivo">
 <!ENTITY detail.showPreferences.label "Preferenze">
-<!ENTITY detail.showPreferences.accesskey "z">
-<!ENTITY detail.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
+<!ENTITY detail.showPreferences.accesskey "P">
+<!ENTITY detail.showPreferences.tooltip "Cambia le preferenze di questo componente aggiuntivo">
 <!ENTITY rating.yourRating.label "Assegna un voto:">
 <!ENTITY progress.pause.tooltip "Pausa">
 <!ENTITY progress.cancel.tooltip "Annulla">
@@ -62,12 +62,12 @@
 <!ENTITY sort.dateUpdated.tooltip "Ordina per data di aggiornamento">
 <!ENTITY sort.rating.label "Voto">
 <!ENTITY sort.rating.tooltip "Ordina per voto medio">
-<!ENTITY showMore.label "Mostra dettagli">
-<!ENTITY showMore.accesskey "M">
-<!ENTITY showMore.tooltip "Visualizza informazioni dettagliate">
-<!ENTITY showLess.label "Nascondi dettagli">
-<!ENTITY showLess.accesskey "t">
-<!ENTITY showLess.tooltip "Nascondi informazioni dettagliate">
+<!ENTITY showMore.label "Nascondi dettagli">
+<!ENTITY showMore.accesskey "N">
+<!ENTITY showMore.tooltip "Visualizza ulteriori dettagli">
+<!ENTITY showLess.label "Altri dettagli">
+<!ENTITY showLess.accesskey "d">
+<!ENTITY showLess.tooltip "Visualizza meno dettagli">
 <!ENTITY search.filter.label "Visualizza:">
 <!ENTITY search.filter.installed.label "Componenti aggiuntivi installati">
 <!ENTITY search.filter.available.label "Componenti aggiuntivi disponibili">
@@ -83,4 +83,4 @@
 <!ENTITY addon.install.label "Installa">
 <!ENTITY addon.install.tooltip "Installa questo componente aggiuntivo">
 <!ENTITY addon.checkingForUpdates.label "Ricerca aggiornamenti…">
-<!ENTITY addon.createdBy.label "di ">
+<!ENTITY addon.createdBy.label "di">
