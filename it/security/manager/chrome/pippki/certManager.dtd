@@ -43,21 +43,11 @@
 <!ENTITY certmgr.tab.orphan2 "Altro">
 <!ENTITY certmgr.ca.builtins "CA predefinite">
 <!ENTITY certmgr.ca.mycas "CA gestite personalmente">
-<!ENTITY certmgr.mine.search "Cerca:">
-<!ENTITY certmgr.others.search "Cerca:">
-<!ENTITY certmgr.websites.search "Cerca:">
-<!ENTITY certmgr.cas.search "Cerca:">
-<!ENTITY certmgr.orphans.search "Cerca:">
-<!ENTITY certmgr.mine.description "Sono presenti certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
-<!ENTITY certmgr.others.description "Sono presenti certificati che identificano le seguenti persone:">
-<!ENTITY certmgr.websites.description "Sono presenti certificati su file che identificano i seguenti server:">
-<!ENTITY certmgr.cas.description "Sono presenti certificati su file che identificano le seguenti autorità di certificazione:">
-<!ENTITY certmgr.orphans.description "Sono presenti certificati su file che non rientrano in nessuna delle altre categorie:">
-<!ENTITY certmgr.mine.filtered "Corrispondenze tra i certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
-<!ENTITY certmgr.others.filtered "Corrispondenze tra i certificati che identificano le seguenti persone:">
-<!ENTITY certmgr.websites.filtered "Corrispondenze tra i certificati su file che identificano i seguenti server:">
-<!ENTITY certmgr.cas.filtered "Corrispondenze tra i certificati su file che identificano le seguenti autorità di certificazione:">
-<!ENTITY certmgr.orphans.filtered "Corrispondenze tra i certificati su file che non rientrano in nessuna delle altre categorie:">
+<!ENTITY certmgr.mine "Sono presenti certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità:">
+<!ENTITY certmgr.others "Sono presenti certificati che identificano le seguenti persone:">
+<!ENTITY certmgr.websites2 "Sono presenti certificati su file che identificano i seguenti server:">
+<!ENTITY certmgr.cas "Sono presenti certificati su file che identificano le seguenti autorità di certificazione:">
+<!ENTITY certmgr.orphans "Sono presenti certificati su file che non rientrano in nessuna delle altre categorie:">
 <!ENTITY certmgr.detail.general_tab.title "Generale">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Dettagli">
@@ -81,11 +71,11 @@
 <!ENTITY certmgr.editcert.trustssl "Questo certificato può identificare siti web.">
 <!ENTITY certmgr.editcert.trustemail "Questo certificato può identificare utenti di posta.">
 <!ENTITY certmgr.editcert.trustobjsign "Questo certificato può identificare produttori software.">
-<!ENTITY certmgr.editsslcert.edittrust "Modifica impostazioni affidabilità certificati:">
+<!ENTITY certmgr.editsslcert.edittrust "Modifica impostazioni attendibilità certificati:">
 <!ENTITY certmgr.editsslcert.dotrust "Dai fiducia all'autenticità di questo certificato.">
 <!ENTITY certmgr.editsslcert.donttrust "Non dare fiducia sull'autenticità di questo certificato.">
-<!ENTITY certmgr.editemailcert.title "Modifica affidabilità certificati di posta">
-<!ENTITY certmgr.editemailcert.edittrust "Modifica impostazioni affidabilità certificati:">
+<!ENTITY certmgr.editemailcert.title "Modifica attendibilità certificati di posta">
+<!ENTITY certmgr.editemailcert.edittrust "Modifica impostazioni attendibilità certificati:">
 <!ENTITY certmgr.editemailcert.dotrust "Dai fiducia all'autenticità di questo certificato.">
 <!ENTITY certmgr.editemailcert.donttrust "Non dare fiducia sull'autenticità di questo certificato.">
 <!ENTITY certmgr.deletecert.title "Elimina certificato">
@@ -106,9 +96,9 @@
 <!ENTITY certmgr.close.accesskey "C">
 <!ENTITY certmgr.view2.label "Visualizza…">
 <!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit2.label "Modifica…">
-<!ENTITY certmgr.edit2.accesskey "M">
-<!ENTITY certmgr.editca.label "Modifica affidabilità CA">
+<!ENTITY certmgr.edit3.label "Modifica attendibilità…">
+<!ENTITY certmgr.edit3.accesskey "M">
+<!ENTITY certmgr.editca.label "Modifica attendibilità CA">
 <!ENTITY certmgr.editca.accesskey "b">
 <!ENTITY certmgr.add.label "Aggiungi">
 <!ENTITY certmgr.add.accesskey "A">
@@ -116,6 +106,8 @@
 <!ENTITY certmgr.export.accesskey "o">
 <!ENTITY certmgr.delete2.label "Elimina…">
 <!ENTITY certmgr.delete2.accesskey "E">
+<!ENTITY certmgr.delete_builtin.label "Elimina o considera inattendibile…">
+<!ENTITY certmgr.delete_builtin.accesskey "E">
 <!ENTITY certmgr.backup2.label "Salva…">
 <!ENTITY certmgr.backup2.accesskey "S">
 <!ENTITY certmgr.backupall2.label "Salva tutto…">
