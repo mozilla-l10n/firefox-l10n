@@ -119,8 +119,8 @@
 <!ENTITY certmgr.close.accesskey              "U">
 <!ENTITY certmgr.view2.label                  "Peržiūrėti…">
 <!ENTITY certmgr.view2.accesskey              "P">
-<!ENTITY certmgr.edit2.label                  "Taisyti…">
-<!ENTITY certmgr.edit2.accesskey              "T">
+<!ENTITY certmgr.edit3.label                  "Taisyti pasitikėjimą…">
+<!ENTITY certmgr.edit3.accesskey              "T">
 <!ENTITY certmgr.editca.label                 "Pasitikėjimo LĮ nuostatos">
 <!ENTITY certmgr.editca.accesskey             "L">
 <!ENTITY certmgr.add.label                    "Pridėti">
@@ -129,6 +129,8 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Pašalinti…">
 <!ENTITY certmgr.delete2.accesskey            "š">
+<!ENTITY certmgr.delete_builtin.label         "Pašalinti arba nepasitikėti…">
+<!ENTITY certmgr.delete_builtin.accesskey     "š">
 <!ENTITY certmgr.backup2.label                "Archyvuoti…">
 <!ENTITY certmgr.backup2.accesskey            "A">
 <!ENTITY certmgr.backupall2.label             "Archyvuoti viską…">
