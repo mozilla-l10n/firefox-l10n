@@ -1,112 +1,176 @@
-<!ENTITY addons.title                         "Pengelola Pengaya">
-<!ENTITY search.placeholder                   "Cari semua pengaya">
-<!ENTITY loading.label                        "Memuat…">
-<!ENTITY listEmpty.installed.label            "Anda tidak punya pengaya apapun yang terpasang untuk jenis ini">
-<!ENTITY listEmpty.search.label               "Tidak ada pengaya yang cocok ditemukan">
-<!ENTITY listEmpty.button.label               "Pelajari lebih lanjut tentang pengaya">
+<!ENTITY addons.title                     "Pengaya">
 
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
 
-<!-- categories / views -->
-<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
-<!ENTITY view.search.label                    "Cari">
-<!ENTITY view.discover.label                  "Unduh Pengaya">
-<!ENTITY view.languages.label                 "Bahasa">
-<!ENTITY view.searchengines.label             "Mesin Pencari">
-<!ENTITY view.features.label                  "Ekstensi">
-<!ENTITY view.appearance.label                "Tema">
-<!ENTITY view.plugins.label                   "Plugin">
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
 
-<!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Perbarui pengaya">
-<!ENTITY updates.updating.label               "Memperbarui pengaya">
-<!ENTITY updates.installed.label              "Pengaya Anda telah diperbarui.">
-<!ENTITY updates.downloaded.label             "Versi baru pengaya Anda telah diunduh.">
-<!ENTITY updates.restart.label                "Restart sekarang untuk menyelesaikan pemasangan">
-<!ENTITY updates.noneFound.label              "Tidak ada versi baru ditemukan">
+<!-- View labels -->
+<!ENTITY search.label                     "Unduh Pengaya">
+<!ENTITY extensions.label                 "Ekstensi">
+<!ENTITY themes.label                     "Tema">
+<!ENTITY locales.label                    "Bahasa">
+<!ENTITY plugins.label                    "Plugin">
+<!ENTITY update.label                     "Versi Baru">
+<!ENTITY install.label                    "Pemasangan">
 
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Tampilkan informasi lebih lanjut">
-<!ENTITY cmd.showDetails.accesskey            "i">
-<!ENTITY cmd.findUpdates.label                "Temukan versi baru">
-<!ENTITY cmd.findUpdates.accesskey            "v">
-<!ENTITY cmd.preferences.label                "Pengaturan">
-<!ENTITY cmd.preferences.accesskey            "P">
-<!ENTITY cmd.about.label                      "Tentang">
-<!ENTITY cmd.about.accesskey                  "T">
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Temukan Pemutakhiran">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "T">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Temukan Pemutakhiran Pengaya Anda">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Temukan Pemutakhiran Tema Anda">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Temukan Pemutakhiran Plugin Anda">
+<!ENTITY cmd.installLocalFile.label       "Pasang…">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installFileAddon.tooltip     "Pasang Pengaya">
+<!ENTITY cmd.installFileTheme.tooltip     "Pasang Tema">
+<!ENTITY cmd.installUpdatesAll2.label     "Pasang Versi Baru">
+<!ENTITY cmd.installUpdatesAll2.accesskey "i">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Pasang pemutakhiran yang dipilih">
+<!ENTITY cmd.restartApp2.label            "Restart &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "Restart &brandShortName; untuk menerapkan perubahan">
+<!ENTITY cmd.skip.label                   "Lewati">
+<!ENTITY cmd.skip.accesskey               "L">
+<!ENTITY cmd.skip.tooltip                 "Lewati pemutakhiran ini">
+<!ENTITY cmd.continue.label               "Lanjutkan">
+<!ENTITY cmd.continue.accesskey           "L">
+<!ENTITY cmd.continue.tooltip             "Lanjutkan membuka &brandShortName;">
 
-<!ENTITY cmd.enable.label                     "Aktifkan">
-<!ENTITY cmd.enable.accesskey                 "A">
-<!ENTITY cmd.enable.tooltip                   "Aktifkan pengaya ini">
-<!ENTITY cmd.disable.label                    "Matikan">
-<!ENTITY cmd.disable.accesskey                "M">
-<!ENTITY cmd.disable.tooltip                  "Matikan pengaya ini">
-<!ENTITY cmd.uninstall.label                  "Hapus">
-<!ENTITY cmd.uninstall.accesskey              "H">
-<!ENTITY cmd.uninstall.tooltip                "Hapus pengaya ini">
-<!ENTITY cmd.contribute.label                 "Kontribusi">
-<!ENTITY cmd.contribute.accesskey             "K">
-<!ENTITY cmd.contribute.tooltip               "Berkontribusi untuk pengembangan pengaya ini">
+<!ENTITY cmd.enableAll.label              "Aktifkan Semua">
+<!ENTITY cmd.enableAll.accesskey          "A">
+<!ENTITY cmd.enableAll.tooltip            "Aktifkan semua Pengaya yang tampil">
+<!ENTITY cmd.disableAll.label             "Matikan Semuanya">
+<!ENTITY cmd.disableAll.accesskey         "S">
+<!ENTITY cmd.disableAll.tooltip           "Matikan semua Pengaya yang tampil">
 
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Gunakan Tema">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "Ubah Tema &brandShortName;">
+<!ENTITY cmd.options.label                "Pengaturan">
+<!ENTITY cmd.options.accesskey            "P">
+<!ENTITY cmd.options.tooltip              "Pengaturan Ekstensi yang Dipilih">
+<!ENTITY cmd.optionsUnix.label            "Pengaturan">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "Ubah Pengaturan Ekstensi yang dipilih">
+<!ENTITY cmd.enable.label                 "Aktifkan">
+<!ENTITY cmd.enable.accesskey             "A">
+<!ENTITY cmd.enable.tooltip               "Aktifkan Pengaya berikut setelah &brandShortName; direstart">
+<!ENTITY cmd.disable.label                "Matikan">
+<!ENTITY cmd.disable.accesskey            "M">
+<!ENTITY cmd.disable.tooltip              "Matikan Pengaya setelah &brandShortName; direstart">
+<!ENTITY cmd.uninstall.label              "Hapus">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "Hapus Pengaya berikut setelah &brandShortName; direstart.">
+<!ENTITY cmd.cancelUninstall.label        "Batalkan Penghapusan">
+<!ENTITY cmd.cancelUninstall.accesskey    "B">
+<!ENTITY cmd.cancelUninstall.tooltip      "Batalkan penghapusan Pengaya ini">
+<!ENTITY cmd.cancelInstall.label          "Batalkan Pemasangan">
+<!ENTITY cmd.cancelInstall.accesskey      "B">
+<!ENTITY cmd.cancelInstall.tooltip        "Batalkan Pemasangan Pengaya ini">
+<!ENTITY cmd.cancelUpgrade.label          "Batalkan Upgrade">
+<!ENTITY cmd.cancelUpgrade.accesskey      "U">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Batalkan Upgrade Pengaya ini">
+<!ENTITY cmd.installUpdate.label          "Pasang Versi Baru">
+<!ENTITY cmd.installUpdate.accesskey      "i">
+<!ENTITY cmd.installUpdate.tooltip        "Pasang versi baru Pengaya ini">
+<!ENTITY cmd.showUpdateInfo.label         "Tampilkan Informasi">
+<!ENTITY cmd.showUpdateInfo.accesskey     "s">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Tampilkan informasi lanjut tentang versi baru berikut">
+<!ENTITY cmd.hideUpdateInfo.label         "Sembunyikan Informasi">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "y">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Sembunyikan informasi lanjut tentang versi baru berikut">
+<!ENTITY cmd.installSearchResult.label     "Pasang ke &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "a">
+<!ENTITY cmd.installSearchResult.tooltip   "Unduh dan pasang pengaya ini">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Batal">
+<!ENTITY cancel.accesskey                 "B">
+<!ENTITY cancelInstall.label              "Batal">
+<!ENTITY cancelInstall.accesskey          "B">
+<!ENTITY cancelUpgrade.label              "Batal">
+<!ENTITY cancelUpgrade.accesskey          "B">
 
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Versi">
-<!ENTITY detail.updated.label                 "Diperbarui">
-<!ENTITY detail.creator.label                 "Pengembang">
-<!ENTITY detail.homepage.label                "Beranda">
-<!ENTITY detail.numberOfDownloads.label       "Unduhan">
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Kunjungi Beranda">
+<!ENTITY cmd.homepage.accesskey           "B">
+<!ENTITY cmd.about2.label                 "Tentang Pengaya ini">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "Temukan Pemutakhiran">
+<!ENTITY cmd.checkUpdate.accesskey        "T">
 
-<!ENTITY detail.updateAutomatically.label     "Perbarui otomatis">
-<!ENTITY detail.updateAutomatically.accesskey "P">
-<!ENTITY detail.updateAutomatically.tooltip   "Perbarui pengaya ini secara otomatis ketika versi baru tersedia">
-<!ENTITY detail.checkForUpdates.label         "Periksa versi baru">
-<!ENTITY detail.checkForUpdates.accesskey     "v">
-<!ENTITY detail.checkForUpdates.tooltip       "Periksa versi baru pengaya ini">
-<!ENTITY detail.showPreferences.label         "Pengaturan">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Ubah pengaturan pengaya ini">
+<!ENTITY cmd.includeUpdate.label          "Termasuk Pemutakhiran">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "Sertakan pemutakhiran ini">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "Sertakan Pengaya saat memasang versi baru">
 
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Tidak menyediakan versi baru yang aman.">
+<!ENTITY needsDependencies.label          "Membutuhkan item tambahan.">
+<!ENTITY blocklisted.label                "Dimatikan untuk perlindungan Anda.">
+<!ENTITY softBlocklisted.label            "Telah diketahui dapat menimbulkan masalah stabilitas atau keamanan.">
+<!ENTITY outdated.label                   "Versi baru yang lebih aman tersedia.">
+<!ENTITY toBeDisabled.label               "Pengaya berikut akan dimatikan setelah &brandShortName; direstart.">
+<!ENTITY toBeEnabled.label                "Pengaya berikut akan diaktifkan setelah &brandShortName; direstart.">
+<!ENTITY toBeInstalled.label              "Pengaya berikut akan dipasang setelah &brandShortName; direstart.">
+<!ENTITY toBeUninstalled.label            "Pengaya berikut akan dihapus setelah &brandShortName; direstart.">
+<!ENTITY toBeUpdated.label                "Pengaya ini akan dimutakhirkan ketika &brandShortName; direstart.">
 
-<!-- ratings -->
-<!ENTITY rating.yourRating.label              "Peringkat Anda:">
+<!ENTITY getExtensions.label              "Unduh Ekstensi">
+<!ENTITY getThemes.label                  "Unduh Tema">
+<!ENTITY getPlugins.label                 "Unduh Plugin">
 
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Tunda">
-<!ENTITY progress.cancel.tooltip              "Batal">
+<!ENTITY searchAddons.label               "Cari Pengaya">
+<!ENTITY browseAddons.label               "Jelajahi Semua Pengaya">
+<!ENTITY searchFailed.label               "&brandShortName; tidak dapat mengunduh daftar pengaya">
+<!ENTITY recommendedHeader.label          "Rekomendasi">
+<!ENTITY recommendedThrobber.label        "Mengunduh rekomendasi pengaya">
+<!ENTITY searchThrobber.label             "Mencari pengaya">
+<!ENTITY resetSearch.label                "Bersihkan Hasil Pencarian">
+<!ENTITY noSearchResults.label            "Semua hasil pencarian Pengaya telah terpasang atau tidak ada yang kompatibel.">
+<!ENTITY noRecommendedResults.label       "Semua rekomendasi pengaya telah terpasang atau masih ada yang tidak kompatibel.">
+<!ENTITY emptySearch.label                "Tidak ada Pengaya yang cocok">
+<!ENTITY emptySearch.button               "OK">
+<!ENTITY cancelSearch.button              "Batal">
+<!ENTITY searchFailed.button              "OK">
+<!ENTITY searchResultHomepage.value       "Informasi lebih lanjut">
+<!ENTITY searchBox.label                  "Cari Pengaya">
+<!ENTITY recommendedResults.label         "Tampilkan Semua Rekomendasi Pengaya">
+<!ENTITY searchResultConnecting.label     "Menghubungi…">
+<!ENTITY searchResultInstalling.label     "Memasang…">
+<!ENTITY searchResultFailed.label         "Pemasangan gagal">
+<!ENTITY searchResultInstalled.label      "Pemasangan Selesai">
+<!ENTITY addonTypeExtension.label         "Ekstensi">
+<!ENTITY addonTypeTheme.label             "Tema">
+<!ENTITY missingThumbnail.label           "Tidak ada Pratinjau">
 
+<!ENTITY previewNoThemeSelected.label     "Tak Ada Tema yang Dipilih">
+<!ENTITY previewNoPreviewImage.label      "Tema ini tidak memiliki Gambar Pratinjau">
+<!ENTITY moreInfo.label                   "Informasi Lebih Lanjut">
+<!ENTITY infoNoAddonSelected.label        "Tidak Ada Versi Baru yang Dipilih">
+<!ENTITY infoNoUpdateInfo.label           "Versi baru ini tidak menyediakan informasi lebih lanjut">
+<!ENTITY infoUpdateInfoError.label        "Terjadi kesalahan saat memuat informasi tentang versi baru">
 
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nama">
-<!ENTITY sort.name.tooltip                    "Urut berdasarkan nama">
-<!ENTITY sort.size.label                      "Ukuran">
-<!ENTITY sort.size.tooltip                    "Urut berdasarkan ukuran">
-<!ENTITY sort.dateUpdated.label               "Terakhir Diperbarui">
-<!ENTITY sort.dateUpdated.tooltip             "Urut berdasarkan tanggal diperbarui">
-<!ENTITY sort.rating.label                    "Peringkat">
-<!ENTITY sort.rating.tooltip                  "Urut berdasarkan peringkat rata-rata">
+<!ENTITY updateSuccess.label              "Pemutakhiran sukses.">
+<!ENTITY installSuccess.label             "Pemasangan sukses.">
+<!ENTITY installSuccessRestart.label      "Restart untuk menyelesaikan pemasangan.">
+<!ENTITY updateSuccessRestart.label       "Restart untuk menyelesaikan pemutakhiran.">
+<!ENTITY installWaiting.label             "Tunggu sebentar…">
+<!ENTITY installIncompatibleUpdate.label  "Memeriksa kompatibilitas…">
+<!ENTITY installFinishing.label           "Memasang…">
+<!ENTITY installFailure.label             "Pemasangan gagal.">
 
+<!ENTITY progressStatus.label             "Memeriksa Versi Baru">
 
-<!ENTITY showMore.label                       "Lebih banyak">
-<!ENTITY showMore.accesskey                   "b">
-<!ENTITY showMore.tooltip                     "Tampilkan lebih banyak detail">
-<!ENTITY showLess.label                       "Lebih sedikit">
-<!ENTITY showLess.accesskey                   "s">
-<!ENTITY showLess.tooltip                     "Tampilkan lebih sedikit detail">
+<!ENTITY eula.title                       "Perjanjian Lisensi End-User">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Setuju dan Pasang…">
 
-<!ENTITY search.filter.label                  "Tampilkan:">
-<!ENTITY search.filter.installed.label        "Pengaya terpasang">
-<!ENTITY search.filter.available.label        "Pengaya tersedia">
-
-<!ENTITY addon.homepage                       "Beranda">
-<!ENTITY addon.unknownDate                    "Tidak diketahui">
-<!ENTITY addon.disabled.postfix               "(mati)">
-<!ENTITY addon.undo.label                     "Batalkan?">
-<!ENTITY addon.undo.tooltip                   "Batalkan aksi ini">
-<!ENTITY addon.undoUninstall.label            "Batalkan?">
-<!ENTITY addon.undoUninstall.tooltip          "Biarkan pengaya ini terpasang">
-<!ENTITY addon.restartNow.label               "Restart sekarang">
-<!ENTITY addon.restartNow.tooltip             "Restart sekarang untuk menyelesaikan perubahan">
-<!ENTITY addon.install.label                  "Pasang">
-<!ENTITY addon.install.tooltip                "Pasang pengaya ini">
-<!ENTITY addon.checkingForUpdates.label       "Memeriksa versi baru…">
-
-<!ENTITY addon.createdBy.label                "Oleh ">
+<!ENTITY blocklist.blocked.label          "Diblokir">
+<!ENTITY blocklist.checkbox.label         "Matikan">

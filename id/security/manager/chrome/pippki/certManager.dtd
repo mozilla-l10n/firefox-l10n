@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "CA Built-in">
 <!ENTITY certmgr.ca.mycas                     "CA Dikelola Anda">
 
-<!ENTITY certmgr.mine.search                  "Cari:">
-<!ENTITY certmgr.others.search                "Cari:">
-<!ENTITY certmgr.websites.search              "Cari:">
-<!ENTITY certmgr.cas.search                   "Cari:">
-<!ENTITY certmgr.orphans.search               "Cari:">
-
-<!ENTITY certmgr.mine.description             "Anda memiliki sertifikat dari organisasi berikut ini yang mengidentifikasikan Anda:">
-<!ENTITY certmgr.others.description           "Anda memiliki sertifikat di berkas yang mengidentifikasikan orang ini:">
-<!ENTITY certmgr.websites.description         "Anda memiliki sertifikat pada berkas yang bisa mengidentifikasi server berikut:">
-<!ENTITY certmgr.cas.description              "Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini:">
-<!ENTITY certmgr.orphans.description          "Anda memiliki sertifikat pada berkas yang tidak cocok di kategori manapun:">
-
-<!ENTITY certmgr.mine.filtered                "Sertifikat yang cocok dari organisasi berikut ini yang mengidentifikasikan Anda:">
-<!ENTITY certmgr.others.filtered              "Sertifikat yang cocok di berkas yang mengidentifikasikan orang ini:">
-<!ENTITY certmgr.websites.filtered            "Sertifikat yang cocok pada berkas yang bisa mengidentifikasi server berikut:">
-<!ENTITY certmgr.cas.filtered                 "Sertifikat yang cocok pada berkas yang mengidentifikasi otoritas sertifikat ini:">
-<!ENTITY certmgr.orphans.filtered             "Sertifikat yang cocok pada berkas yang tidak cocok di kategori manapun:">
+<!ENTITY certmgr.mine                         "Anda memiliki sertifikat dari organisasi berikut ini yang mengidentifikasikan Anda:">
+<!ENTITY certmgr.others                       "Anda memiliki sertifikat di berkas yang mengidentifikasikan orang ini:">
+<!ENTITY certmgr.websites2                    "Anda memiliki sertifikat pada berkas yang bisa mengidentifikasi server berikut:">
+<!ENTITY certmgr.cas                          "Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini:">
+<!ENTITY certmgr.orphans                      "Anda memiliki sertifikat pada berkas yang tidak cocok di kategori manapun:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "U">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "T">
 <!ENTITY certmgr.view2.label                  "Tampilkan…">
 <!ENTITY certmgr.view2.accesskey              "T">
-<!ENTITY certmgr.edit2.label                  "Ubah…">
-<!ENTITY certmgr.edit2.accesskey              "U">
+<!ENTITY certmgr.edit3.label                  "Ubah Kepercayaan…">
+<!ENTITY certmgr.edit3.accesskey              "K">
 <!ENTITY certmgr.editca.label                 "Ubah Kepercayaan CA">
 <!ENTITY certmgr.editca.accesskey             "U">
 <!ENTITY certmgr.add.label                    "Tambah">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Hapus…">
 <!ENTITY certmgr.delete2.accesskey            "H">
+<!ENTITY certmgr.delete_builtin.label         "Hapus atau Tidak Lagi Percayai…">
+<!ENTITY certmgr.delete_builtin.accesskey     "L">
 <!ENTITY certmgr.backup2.label                "Buat Cadangan…">
 <!ENTITY certmgr.backup2.accesskey            "C">
 <!ENTITY certmgr.backupall2.label             "Buat Cadangan Keseluruhan…">
