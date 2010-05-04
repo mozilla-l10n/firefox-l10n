@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,11 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Calendário">
 <!ENTITY calendar.calendar.accesskey "C">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip         "Criar um novo evento" >
 <!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
@@ -93,12 +92,18 @@
 <!ENTITY calendar.month.button.tooltip          "Mudar para vista do mês" >
 <!ENTITY calendar.multiweek.button.tooltip      "Mudar para vista multi-semanal" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Dia Seguinte" >
-<!ENTITY calendar.prevday.button.tooltip        "Dia Anterior" >
-<!ENTITY calendar.nextweek.button.tooltip       "Semana Seguinte" >
-<!ENTITY calendar.prevweek.button.tooltip       "Semana Anterior" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Mês Seguinte" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Mês Anterior" >
+<!ENTITY calendar.nextday.label       "Dia Seguinte" >
+<!ENTITY calendar.prevday.label        "Dia Anterior" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label       "Semana Seguinte" >
+<!ENTITY calendar.prevweek.label       "Semana Anterior" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label      "Mês Seguinte" >
+<!ENTITY calendar.prevmonth.label      "Mês Anterior" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Avançar um dia" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Retroceder um dia" >
@@ -156,6 +161,7 @@
 <!ENTITY calendar.task-details.status.label          "Estado:">
 <!ENTITY calendar.task-details.category.label        "Categoria:">
 <!ENTITY calendar.task-details.repeat.label          "Repetir:">
+<!ENTITY calendar.task-details.attachments.label     "anexos">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tarefas">
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas seleccionadas como efectuadas">
@@ -324,12 +330,18 @@
 <!ENTITY calendar.print.title.label "Título:">
 <!ENTITY calendar.print.layout.label "Esquema:">
 <!ENTITY calendar.print.range.label "O que imprimir">
-<!ENTITY calendar.print.currentview.label "Eventos na vista actual">
+<!ENTITY calendar.print.currentView2.label "Vista actual">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/Tarefas seleccionados">
+<!ENTITY calendar.print.tasks.label "Tarefas">
+<!ENTITY calendar.print.events.label "Eventos">
 <!ENTITY calendar.print.selected.label "Eventos seleccionados">
 <!ENTITY calendar.print.custom.label "Intervalo Personalizado:">
 <!ENTITY calendar.print.from.label "De:">
 <!ENTITY calendar.print.to.label "Para:">
 <!ENTITY calendar.print.settingsGroup.label "Definições de Impressão">
+<!ENTITY calendar.print.optionsGroup.label "Opções">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tarefas sem data de fim">
+<!ENTITY calendar.print.completedtasks.label "Tarefas terminadas">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalhes…">
