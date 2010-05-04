@@ -232,14 +232,11 @@
 <!ENTITY event.reminder.none.label                        "Bez przypomnienia " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minut przed" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minut przed" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minut przed" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minut przed" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minut przed" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minut przed" >
 <!ENTITY event.reminder.1hour.before.label                "1 godzinę przed" >
 <!ENTITY event.reminder.2hours.before.label               "2 godziny przed" >
-<!ENTITY event.reminder.5hours.before.label               "5 godzin przed" >
-<!ENTITY event.reminder.15hours.before.label              "15 godzin przed" >
+<!ENTITY event.reminder.12hours.before.label              "12 godzin przed" >
 <!ENTITY event.reminder.1day.before.label                 "1 dzień przed" >
 <!ENTITY event.reminder.2days.before.label                "2 dni przed" >
 <!ENTITY event.reminder.1week.before.label                "1 tydzień przed" >
