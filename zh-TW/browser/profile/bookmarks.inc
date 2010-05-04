@@ -7,10 +7,6 @@
 #define bookmarks_title Bookmarks
 #define bookmarks_heading Bookmarks
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons 取得書籤類附加元件
-
 #define bookmarks_toolbarfolder 個人書籤列
 #define bookmarks_toolbarfolder_description 此處的書籤會出現於書籤工具列上
 

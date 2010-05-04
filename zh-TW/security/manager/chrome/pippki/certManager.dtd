@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "內建憑證機構">
 <!ENTITY certmgr.ca.mycas                     "由您管理的憑證機構">
 
-<!ENTITY certmgr.mine.search                  "搜尋:">
-<!ENTITY certmgr.others.search                "搜尋:">
-<!ENTITY certmgr.websites.search              "搜尋:">
-<!ENTITY certmgr.cas.search                   "搜尋:">
-<!ENTITY certmgr.orphans.search               "搜尋:">
-
-<!ENTITY certmgr.mine.description             "您有來自下列組織的憑證可以用來識別您自己:">
-<!ENTITY certmgr.others.description           "您的憑證可以用來識別下列人員:">
-<!ENTITY certmgr.websites.description         "您的憑證可以用來識別下列伺服器:">
-<!ENTITY certmgr.cas.description              "您的憑證可以用來識別下列憑證機構:">
-<!ENTITY certmgr.orphans.description          "您的憑證可以用來識別下列不屬於任何分類的物件:">
-
-<!ENTITY certmgr.mine.filtered                "您有來自下列組織的憑證可以用來識別您:">
-<!ENTITY certmgr.others.filtered              "您的憑證可以用來識別下列人員:">
-<!ENTITY certmgr.websites.filtered            "您的憑證可以用來識別下列伺服器:">
-<!ENTITY certmgr.cas.filtered                 "您的憑證可以用來識別下列憑證機構:">
-<!ENTITY certmgr.orphans.filtered             "您的憑證可以用來識別下列不屬於其他分類的物件:">
+<!ENTITY certmgr.mine                         "您有來自下列組織的憑證可以識別您自己:">
+<!ENTITY certmgr.others                       "您的憑證可識別下列人員:">
+<!ENTITY certmgr.websites2                    "您的憑證可識別下列伺服器:">
+<!ENTITY certmgr.cas                          "您的憑證可識別下列憑證機構:">
+<!ENTITY certmgr.orphans                      "您的憑證可識別下列不屬於任何分類的物件:">
 
 <!ENTITY certmgr.detail.general_tab.title     "一般">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "檢視…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "編輯…">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "編輯信任…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "編輯憑證機構信任關係">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "新增">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "刪除…">
 <!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.label         "刪除或取消信任…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "備份…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "全部備份…">
