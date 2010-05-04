@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label                     "關閉分頁">
 <!ENTITY  closeTab.accesskey                 "C">
 
+<!ENTITY  listAllTabs.label      "列出所有分頁">
+
 <!ENTITY tabCmd.label "開新分頁">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
