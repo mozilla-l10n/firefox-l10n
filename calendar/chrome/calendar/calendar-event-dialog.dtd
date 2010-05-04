@@ -230,14 +230,11 @@
 <!ENTITY event.reminder.none.label                        "Nenhuma " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minutos antes" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minutos antes" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minutos antes" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minutos antes" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minutos antes" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minutos antes" >
 <!ENTITY event.reminder.1hour.before.label                "1 hora antes" >
 <!ENTITY event.reminder.2hours.before.label               "2 horas antes" >
-<!ENTITY event.reminder.5hours.before.label               "5 horas antes" >
-<!ENTITY event.reminder.15hours.before.label              "15 horas antes" >
+<!ENTITY event.reminder.12hours.before.label              "12 horas antes" >
 <!ENTITY event.reminder.1day.before.label                 "1 dia antes" >
 <!ENTITY event.reminder.2days.before.label                "2 dias antes" >
 <!ENTITY event.reminder.1week.before.label                "1 semana antes" >
