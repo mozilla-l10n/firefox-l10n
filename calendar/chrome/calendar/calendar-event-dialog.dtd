@@ -66,27 +66,44 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Файл">
-<!ENTITY  event.menu.file.accesskey                       "Ф">
-<!ENTITY  event.menu.file.new.label                       "Создать">
-<!ENTITY  event.menu.file.new.accesskey                   "С">
-<!ENTITY  event.menu.file.new.event.label                 "Событие">
-<!ENTITY  event.menu.file.new.event.accesskey             "о">
-<!ENTITY  event.menu.file.new.message.label               "Сообщение">
-<!ENTITY  event.menu.file.new.message.accesskey           "б">
-<!ENTITY  event.menu.file.new.contact.label               "Карточку адресной книги">
-<!ENTITY  event.menu.file.new.contact.accesskey           "К">
-<!ENTITY  event.menu.file.close.label                     "Закрыть">
-<!ENTITY  event.menu.file.close.accesskey                 "З">
-<!ENTITY  event.menu.file.save.label                      "Сохранить">
-<!ENTITY  event.menu.file.save.accesskey                  "х">
+<!ENTITY  event.menu.item.new.label                       "Создать">
+<!ENTITY  event.menu.item.new.accesskey                   "С">
+<!ENTITY  event.menu.item.new.event.label                 "Событие">
+<!ENTITY  event.menu.item.new.event.accesskey             "о">
+<!ENTITY  event.menu.item.new.task.label                  "Задача">
+<!ENTITY  event.menu.item.new.task.accesskey              "д">
+<!ENTITY  event.menu.item.new.message.label               "Сообщение">
+<!ENTITY  event.menu.item.new.message.accesskey           "б">
+<!ENTITY  event.menu.item.new.contact.label               "Карточку адресной книги">
+<!ENTITY  event.menu.item.new.contact.accesskey           "К">
+<!ENTITY  event.menu.item.close.label                     "Закрыть">
+<!ENTITY  event.menu.item.close.accesskey                 "З">
+<!ENTITY  event.menu.item.save.label                      "Сохранить">
+<!ENTITY  event.menu.item.save.accesskey                  "х">
+<!ENTITY  event.menu.item.saveandclose.label              "Сохранить и закрыть">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "р">
 <!ENTITY  event.menu.item.delete.label                    "Удалить…">
 <!ENTITY  event.menu.item.delete.accesskey                "У">
-<!ENTITY  event.menu.file.page.setup.label                "Параметры страницы">
-<!ENTITY  event.menu.file.page.setup.accesskey            "а">
-<!ENTITY  event.menu.file.print.label                     "Печать">
-<!ENTITY  event.menu.file.print.accesskey                 "П">
+<!ENTITY  event.menu.item.page.setup.label                "Параметры страницы">
+<!ENTITY  event.menu.item.page.setup.accesskey            "а">
+<!ENTITY  event.menu.item.print.label                     "Печать">
+<!ENTITY  event.menu.item.print.accesskey                 "П">
 
 <!ENTITY  event.menu.edit.label                           "Правка">
 <!ENTITY  event.menu.edit.accesskey                       "П">
@@ -153,15 +170,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Свободно">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "в">
 
-<!ENTITY event.help.label                                 "Справка">
-<!ENTITY event.help.accesskey                             "С">
-<!ENTITY event.help.release.notes.label                   "Примечания к релизу">
-<!ENTITY event.help.release.notes.accesskey               "П">
-<!ENTITY event.help.help.label                            "Справка &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "р">
-<!ENTITY event.help.about.label                           "О &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "О">
-
 <!ENTITY event.invite.attendees.label                     "Пригласить участников…">
 <!ENTITY event.invite.attendees.accesskey                 "П">
 <!ENTITY event.email.attendees.label                      "Создать сообщение для всех участников…">
@@ -220,6 +228,7 @@
 <!ENTITY event.priority2.label                            "Приоритет:">
 
 <!ENTITY event.reminder.none.label                        "Не напоминать " >
+<!ENTITY event.reminder.0minutes.before.label             "за 0 минут до" >
 <!ENTITY event.reminder.5minutes.before.label             "за 5 минут до" >
 <!ENTITY event.reminder.10minutes.before.label            "за 10 минут до" >
 <!ENTITY event.reminder.15minutes.before.label            "за 15 минут до" >
@@ -356,9 +365,10 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Неопределено" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Нет на месте" >
 <!ENTITY event.freebusy.legend.unknown          "Нет информации" >
-<!ENTITY event.attendee.role.required           "Необходимый участник">
-<!ENTITY event.attendee.role.optional           "Рядовой участник">
+<!ENTITY event.attendee.role.required           "Обязательный участник">
+<!ENTITY event.attendee.role.optional           "Необязательный уастник">
 <!ENTITY event.attendee.role.chair              "Организатор">
+<!ENTITY event.attendee.role.nonparticipant     "Не участник">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Укажите часовой пояс">
