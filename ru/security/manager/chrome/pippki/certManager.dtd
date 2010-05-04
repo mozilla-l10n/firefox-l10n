@@ -43,21 +43,11 @@
 <!ENTITY certmgr.tab.orphan2 "Другие">
 <!ENTITY certmgr.ca.builtins "Встроенные центры сертификации">
 <!ENTITY certmgr.ca.mycas "Управляемые вами центры">
-<!ENTITY certmgr.mine.search "Поиск:">
-<!ENTITY certmgr.others.search "Поиск:">
-<!ENTITY certmgr.websites.search "Поиск:">
-<!ENTITY certmgr.cas.search "Поиск:">
-<!ENTITY certmgr.orphans.search "Поиск:">
-<!ENTITY certmgr.mine.description "У вас хранятся сертификаты от следующих организаций, служащие для вашей идентификации:">
-<!ENTITY certmgr.others.description "У вас хранятся сертификаты, служащие для идентификации следующих лиц:">
-<!ENTITY certmgr.websites.description "У вас хранятся сертификаты, служащие для идентификации следующих серверов:">
-<!ENTITY certmgr.cas.description "У вас хранятся сертификаты, служащие для идентификации следующих центров сертификации:">
-<!ENTITY certmgr.orphans.description "У вас хранятся сертификаты, не подошедшие под какие-либо другие категории:">
-<!ENTITY certmgr.mine.filtered "Подходящие сертификаты от следующих организаций, служащие для вашей идентификации:">
-<!ENTITY certmgr.others.filtered "Подходящие сертификаты, служащие для идентификации следующих лиц:">
-<!ENTITY certmgr.websites.filtered "Подходящие сертификаты, служащие для идентификации следующих серверов:">
-<!ENTITY certmgr.cas.filtered "Подходящие сертификаты, служащие для идентификации следующих центров сертификации:">
-<!ENTITY certmgr.orphans.filtered "Подходящие сертификаты, не подошедшие под какие-либо другие категории:">
+<!ENTITY certmgr.mine "У вас хранятся сертификаты от следующих организаций, служащие для вашей идентификации:">
+<!ENTITY certmgr.others "У вас хранятся сертификаты, служащие для идентификации следующих лиц:">
+<!ENTITY certmgr.websites2 "У вас хранятся сертификаты, служащие для идентификации следующих серверов:">
+<!ENTITY certmgr.cas "У вас хранятся сертификаты, служащие для идентификации следующих центров сертификации:">
+<!ENTITY certmgr.orphans "У вас хранятся сертификаты, не подошедшие под какие-либо другие категории:">
 <!ENTITY certmgr.detail.general_tab.title "Основное">
 <!ENTITY certmgr.detail.general_tab.accesskey "О">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Подробности">
@@ -105,17 +95,19 @@
 <!ENTITY certmgr.close.label "Закрыть">
 <!ENTITY certmgr.close.accesskey "а">
 <!ENTITY certmgr.view2.label "Просмотреть…">
-<!ENTITY certmgr.view2.accesskey "с">
-<!ENTITY certmgr.edit2.label "Изменить…">
-<!ENTITY certmgr.edit2.accesskey "з">
+<!ENTITY certmgr.view2.accesskey "о">
+<!ENTITY certmgr.edit3.label "Изменить доверие…">
+<!ENTITY certmgr.edit3.accesskey "е">
 <!ENTITY certmgr.editca.label "Изменить доверие центру сертификации">
-<!ENTITY certmgr.editca.accesskey "д">
+<!ENTITY certmgr.editca.accesskey "з">
 <!ENTITY certmgr.add.label "Добавить">
-<!ENTITY certmgr.add.accesskey "о">
+<!ENTITY certmgr.add.accesskey "б">
 <!ENTITY certmgr.export.label "Экспортировать…">
-<!ENTITY certmgr.export.accesskey "с">
+<!ENTITY certmgr.export.accesskey "п">
 <!ENTITY certmgr.delete2.label "Удалить…">
 <!ENTITY certmgr.delete2.accesskey "д">
+<!ENTITY certmgr.delete_builtin.label "Удалить или не доверять…">
+<!ENTITY certmgr.delete_builtin.accesskey "л">
 <!ENTITY certmgr.backup2.label "Сохранить копию…">
 <!ENTITY certmgr.backup2.accesskey "х">
 <!ENTITY certmgr.backupall2.label "Сохранить все…">
@@ -129,7 +121,7 @@
 <!ENTITY certmgr.hierarchy.label "Иерархия сертификатов">
 <!ENTITY certmgr.hierarchy.accesskey "к">
 <!ENTITY certmgr.addException.label "Добавить исключение…">
-<!ENTITY certmgr.addException.accesskey "с">
+<!ENTITY certmgr.addException.accesskey "ю">
 <!ENTITY exceptionMgr.title "Добавить исключение безопасности">
 <!ENTITY exceptionMgr.exceptionButton "Подтвердить исключение безопасности">
 <!ENTITY exceptionMgr.exceptionButtonAccess "т">
