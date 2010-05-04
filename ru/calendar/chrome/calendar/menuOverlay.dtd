@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "Сегодня">
 <!ENTITY goTodayCmd.accesskey                   "С">
 
-<!ENTITY goPreviousCmd.day.label                "Предыдущий день">
-<!ENTITY goPreviousCmd.week.label               "Предыдущая неделя">
-<!ENTITY goPreviousCmd.month.label              "Предыдущий месяц">
-<!ENTITY goPreviousCmd.accesskey                "П">
-
-<!ENTITY goNextCmd.day.label                    "Следующий день">
-<!ENTITY goNextCmd.week.label                   "Следующая неделя">
-<!ENTITY goNextCmd.month.label                  "Следующий месяц">
-<!ENTITY goNextCmd.all.accesskey                "л">
-
 <!ENTITY showCurrentView.label                  "Текущий обзор">
 <!ENTITY showCurrentView.accesskey              "Т">
 

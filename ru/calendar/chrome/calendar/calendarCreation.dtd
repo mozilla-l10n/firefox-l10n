@@ -37,12 +37,12 @@
 <!ENTITY wizard.label             "Создать новый календарь" >
 <!ENTITY wizard.description       "Расположение вашего календаря" >
 
-<!ENTITY initialpage.description    "Ваш календарь может быть сохранен на вашем компьютере или на удаленном сервере, для того, чтобы вы могли обратиться к нему из любого места или использовать его совместно с вашими друзьями или коллегами." >
-<!ENTITY initialpage.computer.label  "На моем компьютере">
+<!ENTITY initialpage.description    "Ваш календарь может быть сохранен на вашем компьютере или на удалённом сервере, для того, чтобы вы могли обратиться к нему из любого места или использовать его совместно с вашими друзьями или коллегами." >
+<!ENTITY initialpage.computer.label  "На моём компьютере">
 <!ENTITY initialpage.network.label  "В сети">
 
-<!ENTITY locationpage.description         "Введите информацию, необходимую для получения доступа к вашему удаленному календарю." >
-<!ENTITY locationpage.login.description   "Опционально: введите имя пользователя и пароль" >
+<!ENTITY locationpage.description         "Введите информацию, необходимую для получения доступа к вашему удалённому календарю." >
+<!ENTITY locationpage.login.description   "Не обязательно: введите имя пользователя и пароль" >
 <!ENTITY locationpage.username.label      "Имя пользователя:" >
 <!ENTITY locationpage.password.label      "Пароль:" >
 
