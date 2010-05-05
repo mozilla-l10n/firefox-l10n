@@ -85,7 +85,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Etiquetass">
+         "Etiquetas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
