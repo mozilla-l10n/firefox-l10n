@@ -140,7 +140,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label		"Dodatki">
-<!ENTITY addons.tooltip		"Przeglądaj i zarządzaj dodatkami">
 <!ENTITY addons.accesskey		"D">
 
 <!ENTITY errorConsoleCmd.label "Konsola błędów" >
