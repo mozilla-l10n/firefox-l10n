@@ -10,7 +10,6 @@
 <!ENTITY reloadTab.accesskey "d" >
 <!ENTITY  openTabInNewWindow.label    "Otwórz w nowym oknie">
 <!ENTITY  openTabInNewWindow.accesskey "O">
-<!ENTITY  listAllTabs.label      "Pokaż wszystkie karty">
 <!ENTITY  bookmarkAllTabs.label       "Dodaj zakładki do wszystkich kart…">
 <!ENTITY  bookmarkAllTabs.accesskey   "k">
 <!ENTITY  bookmarkThisTab.label        "Dodaj zakładkę do tej karty">

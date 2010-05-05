@@ -12,6 +12,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
+<!ENTITY  listAllTabs.label      "Pokaż wszystkie karty">
+
 <!ENTITY tabCmd.label "Nowa karta" >
 <!ENTITY tabCmd.accesskey "t" >
 <!ENTITY tabCmd.commandkey "t" >
