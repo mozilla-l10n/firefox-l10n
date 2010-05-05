@@ -123,8 +123,8 @@
 <!ENTITY certmgr.close.accesskey              	"Z">
 <!ENTITY certmgr.view2.label 					"Wyświetl…">
 <!ENTITY certmgr.view2.accesskey              	"W">
-<!ENTITY certmgr.edit2.label 					"Edytuj…">
-<!ENTITY certmgr.edit2.accesskey               	"E">
+<!ENTITY certmgr.edit3.label 					"Edytuj ustawienia zaufania…">
+<!ENTITY certmgr.edit3.accesskey               	"E">
 <!ENTITY certmgr.editca.label 					"Edytuj ustawienia zaufania CA">
 <!ENTITY certmgr.editca.accesskey             	"y">
 <!ENTITY certmgr.add.label 						"Dodaj">
@@ -133,6 +133,8 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label 					"Usuń…">
 <!ENTITY certmgr.delete2.accesskey               "U">
+<!ENTITY certmgr.delete_builtin.label            "Usuń lub przestań ufać…">
+<!ENTITY certmgr.delete_builtin.accesskey        "U">
 <!ENTITY certmgr.backup2.label 					"Kopia zapasowa…">
 <!ENTITY certmgr.backup2.accesskey               "K">
 <!ENTITY certmgr.backupall2.label 				"Kopia zapasowa wszystkich…">
