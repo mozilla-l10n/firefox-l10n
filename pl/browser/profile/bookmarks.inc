@@ -7,10 +7,6 @@
 #define bookmarks_title Zakładki
 #define bookmarks_heading Zakładki
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Dodatki związane z zakładkami
-
 #define bookmarks_toolbarfolder Folder zakładek osobistych
 #define bookmarks_toolbarfolder_description Zakładki umieszczone w tym folderze będą widoczne na pasku zakładek.
 
