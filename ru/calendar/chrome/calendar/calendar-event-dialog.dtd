@@ -230,14 +230,11 @@
 <!ENTITY event.reminder.none.label                        "Не напоминать " >
 <!ENTITY event.reminder.0minutes.before.label             "за 0 минут до" >
 <!ENTITY event.reminder.5minutes.before.label             "за 5 минут до" >
-<!ENTITY event.reminder.10minutes.before.label            "за 10 минут до" >
 <!ENTITY event.reminder.15minutes.before.label            "за 15 минут до" >
 <!ENTITY event.reminder.30minutes.before.label            "за 30 минут до" >
-<!ENTITY event.reminder.45minutes.before.label            "за 45 минут до" >
 <!ENTITY event.reminder.1hour.before.label                "за 1 час до" >
 <!ENTITY event.reminder.2hours.before.label               "за 2 час до" >
-<!ENTITY event.reminder.5hours.before.label               "за 5 час до" >
-<!ENTITY event.reminder.15hours.before.label              "за 15 час до" >
+<!ENTITY event.reminder.12hours.before.label              "за 12 час до" >
 <!ENTITY event.reminder.1day.before.label                 "за 1 день до" >
 <!ENTITY event.reminder.2days.before.label                "за 2 дня до" >
 <!ENTITY event.reminder.1week.before.label                "за 1 неделю до" >
