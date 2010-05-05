@@ -323,7 +323,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensagem">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arquivo">
+<!ENTITY archiveMsgCmd.label "Arquivar">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Responder">
@@ -477,7 +477,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Responder à lista">
 <!ENTITY forwardButton.label "Reencaminhar">
 <!ENTITY fileButton.label "Ficheiro">
-<!ENTITY archiveButton.label "Arquivo">
+<!ENTITY archiveButton.label "Arquivar">
 <!ENTITY nextButton.label "Seguinte">
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Anterior">
@@ -640,7 +640,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "D">
-<!ENTITY contextArchive.label "Arquivo">
+<!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
 <!ENTITY contextReplySender.accesskey "R">

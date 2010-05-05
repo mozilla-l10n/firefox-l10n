@@ -35,11 +35,11 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "para ">
-<!ENTITY fromField2.label "de ">
-<!ENTITY senderField2.label "remetente ">
-<!ENTITY organizationField2.label "organização ">
-<!ENTITY replyToField2.label "responder para ">
+<!ENTITY toField2.label "Para ">
+<!ENTITY fromField2.label "De ">
+<!ENTITY senderField2.label "Remetente ">
+<!ENTITY organizationField2.label "Organização ">
+<!ENTITY replyToField2.label "Responder para ">
 
 <!ENTITY subjectField2.label "assunto ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
@@ -57,7 +57,7 @@
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar…">
-<!ENTITY hdrArchiveButton.label "arquivo">
+<!ENTITY hdrArchiveButton.label "arquivar">
 <!ENTITY hdrArchiveButton.tooltip "arquivar esta mensagem">
 <!ENTITY hdrReplyButton.label "responder">
 <!ENTITY hdrReplyButton.tooltip "responder a esta mensagem">
@@ -81,22 +81,22 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Mostra sempre responder ao remetente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton.label "outras acções">
-<!ENTITY otherActionsOpenConversation.label "abrir uma conversa">
+<!ENTITY otherActionsButton.label "Outras acções">
+<!ENTITY otherActionsOpenConversation.label "Abrir uma conversa">
 <!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "abrir em nova janela">
+<!ENTITY otherActionsOpenInNewWindow.label "Abrir em nova janela">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "j">
-<!ENTITY otherActionsOpenInNewTab.label "abrir em novo separador">
+<!ENTITY otherActionsOpenInNewTab.label "Abrir em novo separador">
 <!ENTITY otherActionsOpenInNewTab.accesskey "b">
-<!ENTITY markAsReadMenuItem.label "marcar como lida">
+<!ENTITY markAsReadMenuItem.label "Marcar como lida">
 <!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "marcar como não lida">
+<!ENTITY markAsUnreadMenuItem.label "Marcar como não lida">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "guardar como…">
+<!ENTITY saveAsMenuItem.label "Guardar como…">
 <!ENTITY saveAsMenuItem.accesskey "u">
-<!ENTITY viewSourceMenuItem.label "ver fonte…">
+<!ENTITY viewSourceMenuItem.label "Ver fonte…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-<!ENTITY otherActionsPrint.label "imprimir…">
+<!ENTITY otherActionsPrint.label "Imprimir…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "Abrir">
