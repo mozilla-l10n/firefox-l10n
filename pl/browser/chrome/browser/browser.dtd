@@ -198,6 +198,8 @@
 <!ENTITY viewSidebarMenu.accesskey "b" >
 <!ENTITY viewCustomizeToolbar.label "Dostosuj…" >
 <!ENTITY viewCustomizeToolbar.accesskey "t" >
+<!ENTITY viewTabsOnTop.label            "Karty na górze">
+<!ENTITY viewTabsOnTop.accesskey        "K">
 
 <!ENTITY historyMenu.label "Historia">
 <!ENTITY historyMenu.accesskey "h">
