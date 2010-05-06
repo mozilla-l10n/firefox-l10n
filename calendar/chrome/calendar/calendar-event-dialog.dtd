@@ -231,14 +231,11 @@
 
 <!ENTITY event.reminder.none.label "Aucun " >
 <!ENTITY event.reminder.5minutes.before.label "5 minutes avant" >
-<!ENTITY event.reminder.10minutes.before.label "10 minutes avant" >
 <!ENTITY event.reminder.15minutes.before.label "15 minutes avant" >
 <!ENTITY event.reminder.30minutes.before.label "30 minutes avant" >
-<!ENTITY event.reminder.45minutes.before.label "45 minutes avant" >
 <!ENTITY event.reminder.1hour.before.label "1 heure avant" >
 <!ENTITY event.reminder.2hours.before.label "2 heures avant" >
-<!ENTITY event.reminder.5hours.before.label "5 heures avant" >
-<!ENTITY event.reminder.15hours.before.label "15 heures avant" >
+<!ENTITY event.reminder.12hours.before.label              "12 heures avant" >
 <!ENTITY event.reminder.1day.before.label "1 jour avant" >
 <!ENTITY event.reminder.2days.before.label "2 jours avant" >
 <!ENTITY event.reminder.1week.before.label "1 semaine avant" >
