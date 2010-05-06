@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label                     "ปิดแท็บนี้">
 <!ENTITY  closeTab.accesskey                 "ป">
 
+<!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
+
 <!ENTITY tabCmd.label "แท็บใหม่">
 <!ENTITY tabCmd.accesskey "ท">
 <!ENTITY tabCmd.commandkey "t">
