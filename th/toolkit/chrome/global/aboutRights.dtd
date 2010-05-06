@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c " นั่นหมายความว่าคุณสามารถใช้งาน ทำซ้ำ และเผยแพร่ &brandShortName; แก่ผู้อื่นได้ อีกทั้งคุณยังสามารถที่จะแก้ไขต้นรหัสโปรแกรมของ &brandShortName; เพื่อให้ตรงตามความต้องการของคุณได้ นอกจากนี้ Mozilla Public License ยังให้สิทธิ์แก่คุณที่จะเผยแพร่โปรแกรมรุ่นที่คุณแก้ไขไปแล้วได้เช่นกัน">
 
-<!ENTITY rights.intro-point2a "Mozilla มิได้มอบสิทธิ์ใด ๆ ในเครื่องหมายการค้าและสัญลักษณ์ Mozilla และ Firefox แก่คุณ ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าสามารถอ่านได้">
-<!ENTITY rights.intro-point2b "ที่นี่">
-<!ENTITY rights.intro-point2c "">
+<!ENTITY rights.intro-point2-a "Mozilla มิได้มอบสิทธิ์ใด ๆ ในเครื่องหมายการค้าและสัญลักษณ์ Mozilla และ Firefox แก่คุณ ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าสามารถอ่านได้">
+<!ENTITY rights.intro-point2-b "ที่นี่">
+<!ENTITY rights.intro-point2-c "">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "นโยบายความเป็นส่วนตัวของผลิตภัณฑ์ &vendorShortName; สามารถอ่านได้">
