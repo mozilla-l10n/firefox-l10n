@@ -92,11 +92,11 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Preguntarme cada vez">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "c">
-<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Ver Certificados">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Ver certificados">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Lista de Revocados">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Lista de revocados">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Validación">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Dispositivos de Seguridad">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Dispositivos de seguridad">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "D">

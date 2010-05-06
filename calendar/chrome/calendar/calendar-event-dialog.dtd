@@ -26,6 +26,7 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>  
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,8 +44,6 @@
 
 <!ENTITY event.title.label                  "Editar Ítem" >
 
-<!ENTITY newevent.before.label              "antes" >
-<!ENTITY newevent.after.label               "después" >
 
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "Para" >
@@ -53,9 +52,13 @@
 <!ENTITY newevent.status.label              "Estado" >
 <!ENTITY newevent.status.accesskey          "S" >
 <!ENTITY newevent.status.none.label         "No especificado" >
+<!ENTITY newevent.status.none.accesskey       "o" >
 <!ENTITY newevent.status.cancelled.label    "Cancelado" >
+<!ENTITY newevent.status.cancelled.accesskey  "n" >
 <!ENTITY newevent.status.tentative.label    "Tentativo" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
 <!ENTITY newevent.status.confirmed.label    "Confirmado" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
 <!ENTITY newevent.status.needsaction.label  "Necesita atención" >
 <!ENTITY newevent.status.inprogress.label   "En progreso" >
 <!ENTITY newevent.status.completed.label    "Completado" >
@@ -72,12 +75,14 @@
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
 <!ENTITY  event.menu.file.new.message.label               "Mensaje">
 <!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "Tarjeta de libreta de direcciones">
-<!ENTITY  event.menu.file.new.address.accesskey           "C">
+<!ENTITY  event.menu.file.new.contact.label               "Contacto de la libreta de direcciones">
+<!ENTITY  event.menu.file.new.contact.accesskey           "C">
 <!ENTITY  event.menu.file.close.label                     "Cerrar">
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "Guardar">
 <!ENTITY  event.menu.file.save.accesskey                  "G">
+<!ENTITY  event.menu.item.delete.label                    "Borrar…">
+<!ENTITY  event.menu.item.delete.accesskey                "B">
 <!ENTITY  event.menu.file.page.setup.label                "Configuración de página">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
 <!ENTITY  event.menu.file.print.label                     "Imprimir">
@@ -166,6 +171,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Guardar y cerrar">
+<!ENTITY  event.toolbar.delete.label                      "Borrar">
 <!ENTITY  event.toolbar.attendees.label                   "Invitar participantes">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ortografía">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidad">
@@ -259,13 +265,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Cada" >
 <!ENTITY repeat.units.months.both                       "Mes(es)" >
-<!ENTITY event.recurrence.the.label "El">
-<!ENTITY event.recurrence.repeat.first.label "Primer">
-<!ENTITY event.recurrence.repeat.second.label "Segundo">
-<!ENTITY event.recurrence.repeat.third.label "Tercer">
-<!ENTITY event.recurrence.repeat.fourth.label "Cuarto">
-<!ENTITY event.recurrence.repeat.fifth.label            "Quinto">
-<!ENTITY event.recurrence.repeat.last.label "Último">
+<!ENTITY event.recurrence.monthly.every.label           "Cada">
+<!ENTITY event.recurrence.monthly.first.label           "Primer">
+<!ENTITY event.recurrence.monthly.second.label          "Segundo">
+<!ENTITY event.recurrence.monthly.third.label           "Tercer">
+<!ENTITY event.recurrence.monthly.fourth.label          "Cuarto">
+<!ENTITY event.recurrence.monthly.fifth.label           "Quinto">
+<!ENTITY event.recurrence.monthly.last.label            "Último">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "Domingo" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Lunes" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Martes" >
@@ -274,12 +280,11 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Viernes" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sábado" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Día del mes">
-<!ENTITY event.recurrence.repeat.recur.label "Repetir día(s)">
+<!ENTITY event.recurrence.repeat.recur.label            "Repetir día(s)">
 
-<!ENTITY event.recurrence.every.label "Cada:">
+<!ENTITY event.recurrence.every.label                        "Cada:">
 <!ENTITY repeat.units.years.both                             "Año(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Cada" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Cada" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +307,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Octubre" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "Noviembre" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Diciembre" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "Primero">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "Segundo">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "Tercero">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Cuarto">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Quinto">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "Último">
+<!ENTITY event.recurrence.yearly.every.label                 "Cada">
+<!ENTITY event.recurrence.yearly.first.label                 "Primero">
+<!ENTITY event.recurrence.yearly.second.label                "Segundo">
+<!ENTITY event.recurrence.yearly.third.label                 "Tercero">
+<!ENTITY event.recurrence.yearly.fourth.label                "Cuarto">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Quinto">
+<!ENTITY event.recurrence.yearly.last.label                  "Último">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "Domingo" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Lunes" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Martes" >
@@ -336,27 +342,6 @@
 <!ENTITY event.repeat.until.label "Repetir hasta">
 <!ENTITY event.recurrence.preview.label "Vista previa">
 
-<!-- Reminder dialog -->
-
-<!ENTITY alarm.units.minutes                "minutos" >
-<!ENTITY alarm.units.hours                  "horas" >
-<!ENTITY alarm.units.days                   "días" >
-
-<!ENTITY reminder.title.label                           "Recordatorio personalizado">
-<!ENTITY reminder.dialogtitle.label                     "Establecer recordatorios">
-<!ENTITY reminder.reminderDetails.label                 "Detalles de recordatorios">
-<!ENTITY reminder.action.label                          "Seleccionar una acción recordatoria">
-<!ENTITY reminder.action.alert.label                    "Mostrar una alerta">
-<!ENTITY reminder.action.email.label                    "Enviar un correo electrónico">
-<!ENTITY reminder.new.label                             "Nuevo">
-<!ENTITY reminder.delete.label                          "Borrar">
-<!ENTITY reminder.relation.start.label                  "el evento se inicie">
-<!ENTITY reminder.relation.end.label                    "el evento finalice">
-<!ENTITY reminder.add.label                             "Agregar">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "Eliminar">
-<!ENTITY reminder.remove.accesskey                      "r">
-
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "Invitar participantes">
 <!ENTITY event.organizer.label "Organizador">   
@@ -368,7 +353,12 @@
 <!ENTITY event.freebusy.minus "Hora previa">
 <!ENTITY event.freebusy.legend.free      "Libre" >
 <!ENTITY event.freebusy.legend.busy      "Ocupado" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Tentativo" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Fuera de la oficina" >
 <!ENTITY event.freebusy.legend.unknown   "Sin información" >
+<!ENTITY event.attendee.role.required           "Asistencia obligatoria">
+<!ENTITY event.attendee.role.optional           "Asistencia opcional">
+<!ENTITY event.attendee.role.chair              "Coordinador">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Especifique el huso horario">
