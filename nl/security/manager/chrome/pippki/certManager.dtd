@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "Ingebouwde CA’s">
 <!ENTITY certmgr.ca.mycas                     "CA’s beheerd door u">
 
-<!ENTITY certmgr.mine.search                  "Zoeken:">
-<!ENTITY certmgr.others.search                "Zoeken:">
-<!ENTITY certmgr.websites.search              "Zoeken:">
-<!ENTITY certmgr.cas.search                   "Zoeken:">
-<!ENTITY certmgr.orphans.search               "Zoeken:">
-
-<!ENTITY certmgr.mine.description             "U hebt certificaten van deze organisaties, die u identificeren:">
-<!ENTITY certmgr.others.description           "U hebt certificaten gearchiveerd die deze personen identificeren:">
-<!ENTITY certmgr.websites.description         "U hebt certificaten gearchiveerd die deze servers identificeren:">
-<!ENTITY certmgr.cas.description              "U hebt certificaten gearchiveerd die deze certificatieautoriteiten identificeren:">
-<!ENTITY certmgr.orphans.description          "U hebt certificaten gearchiveerd die niet passen in één van de andere categorieën:">
-
-<!ENTITY certmgr.mine.filtered                "Overeenkomende certificaten van deze organisaties, die u identificeren:">
-<!ENTITY certmgr.others.filtered              "Overeenkomende gearchiveerde certificaten die deze personen identificeren:">
-<!ENTITY certmgr.websites.filtered            "Overeenkomende gearchiveerde certificaten die deze servers identificeren:">
-<!ENTITY certmgr.cas.filtered                 "Overeenkomende gearchiveerde certificaten die deze certificatieautoriteiten identificeren:">
-<!ENTITY certmgr.orphans.filtered             "Overeenkomende gearchiveerde certificaten die niet passen in één van de andere categorieën:">
+<!ENTITY certmgr.mine                         "U hebt certificaten van deze organisaties, die u identificeren:">
+<!ENTITY certmgr.others                       "U hebt certificaten gearchiveerd die deze personen identificeren:">
+<!ENTITY certmgr.websites2                    "U hebt certificaten gearchiveerd die deze servers identificeren:">
+<!ENTITY certmgr.cas                          "U hebt certificaten gearchiveerd die deze certificatieautoriteiten identificeren:">
+<!ENTITY certmgr.orphans                      "U hebt certificaten gearchiveerd die niet passen in één van de andere categorieën:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemeen">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
