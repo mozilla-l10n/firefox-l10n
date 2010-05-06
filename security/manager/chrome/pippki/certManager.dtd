@@ -117,8 +117,8 @@
 <!ENTITY certmgr.close.accesskey "F">
 <!ENTITY certmgr.view2.label "Voir…">
 <!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit2.label "Modifier…">
-<!ENTITY certmgr.edit2.accesskey "M">
+<!ENTITY certmgr.edit3.label                  "Modifier la confiance…">
+<!ENTITY certmgr.edit3.accesskey              "M">
 <!ENTITY certmgr.editca.label "Modifier le niveau de confiance de l'AC">
 <!ENTITY certmgr.editca.accesskey "o">
 <!ENTITY certmgr.add.label "Ajouter">
@@ -127,6 +127,8 @@
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Supprimer…">
 <!ENTITY certmgr.delete2.accesskey "S">
+<!ENTITY certmgr.delete_builtin.label         "Supprimer ou ne plus faire confiance…">
+<!ENTITY certmgr.delete_builtin.accesskey     "S">
 <!ENTITY certmgr.backup2.label "Sauvegarder…">
 <!ENTITY certmgr.backup2.accesskey "e">
 <!ENTITY certmgr.backupall2.label "Tout sauvegarder…">
