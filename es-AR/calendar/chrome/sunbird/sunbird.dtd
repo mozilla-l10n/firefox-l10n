@@ -11,11 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip          "Imprimir calendario" >
 <!ENTITY sunbird.delete.button.tooltip           "Borrar evento seleccionado" >
 <!ENTITY sunbird.remotereload.button.tooltip   "Recargar todos los calendarios remotos" >
+<!ENTITY sunbird.import.button.tooltip                     "Importar eventos de un archivo local" >
+<!ENTITY sunbird.export.button.tooltip                     "Exportar eventos a un archivo local" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Suscribirse a un archivo de calendario en una máquina remota" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publicar eventos a una máquina remota" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Buscar y listar eventos" >
+<!ENTITY sunbird.edit.button.tooltip                       "Editar evento seleccionado" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Seleccionar día" >
 <!ENTITY sunbird.cut.button.label                          "Cortar" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Pegar" >
 <!ENTITY sunbird.delete.button.label           "Borrar" >
 <!ENTITY sunbird.remotereload.button.label     "Recargar" >
+<!ENTITY sunbird.import.button.label                       "Importar" >
+<!ENTITY sunbird.export.button.label                       "Exportar" >
+<!ENTITY sunbird.subscribe.button.label                    "Suscribirse" >
+<!ENTITY sunbird.publish.button.label                      "Publicar" >
+<!ENTITY sunbird.unifinder.button.label                    "Buscar eventos" >
+<!ENTITY sunbird.edit.button.label                         "Editar" >
 
 <!ENTITY sunbird.flat.topbar.choosedate       "Ir a fecha" >
 <!ENTITY sunbird.flat.topbar.dayview          "Vista por día" >
@@ -69,6 +81,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label     "Número de semanas" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey "N" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 semana" >
 <!ENTITY sunbird.menu.numberofweeks.2      "2 semanas" >
 <!ENTITY sunbird.menu.numberofweeks.3      "3 semanas" >
 <!ENTITY sunbird.menu.numberofweeks.4      "4 semanas" >
@@ -89,3 +102,4 @@
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
+ 
