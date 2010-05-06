@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "S">
 <!ENTITY certmgr.view2.label                  "Weergeven…">
 <!ENTITY certmgr.view2.accesskey              "W">
-<!ENTITY certmgr.edit2.label                  "Bewerken…">
-<!ENTITY certmgr.edit2.accesskey              "B">
+<!ENTITY certmgr.edit3.label                  "Vertrouwen bewerken…">
+<!ENTITY certmgr.edit3.accesskey              "b">
 <!ENTITY certmgr.editca.label                 "CA-vertrouwen bewerken">
 <!ENTITY certmgr.editca.accesskey             "A">
 <!ENTITY certmgr.add.label                    "Toevoegen">
@@ -115,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Verwijderen…">
 <!ENTITY certmgr.delete2.accesskey            "V">
+<!ENTITY certmgr.delete_builtin.label         "Verwijderen of wantrouwen…">
+<!ENTITY certmgr.delete_builtin.accesskey     "V">
 <!ENTITY certmgr.backup2.label                "Reservekopie maken…">
 <!ENTITY certmgr.backup2.accesskey            "R">
 <!ENTITY certmgr.backupall2.label             "Reservekopie van alle maken…">
