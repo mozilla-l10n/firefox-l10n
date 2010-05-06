@@ -49,16 +49,18 @@
 <!ENTITY newevent.to.label                  "Do:" >
 <!ENTITY newevent.attendees.notify.label    "Powiadom uczestników">
 
-<!ENTITY newevent.status.label               "Stan:" >
-<!ENTITY newevent.status.accesskey           "a" >
-<!ENTITY newevent.status.none.label          "Nieokreślony" >
-<!ENTITY newevent.status.none.accesskey      "N" >
-<!ENTITY newevent.status.cancelled.label     "Anulowane" >
-<!ENTITY newevent.status.cancelled.accesskey "A" >
-<!ENTITY newevent.status.tentative.label     "Wstępnie zaakceptowane" >
-<!ENTITY newevent.status.tentative.accesskey "W" >
-<!ENTITY newevent.status.confirmed.label     "Potwierdzone" >
-<!ENTITY newevent.status.confirmed.accesskey "P" >
+<!ENTITY newevent.status.label                    "Stan:" >
+<!ENTITY newevent.status.accesskey                "a" >
+<!ENTITY newevent.eventStatus.none.label          "Nieokreślony" >
+<!ENTITY newevent.eventStatus.none.accesskey      "N" >
+<!ENTITY newevent.todoStatus.none.label           "Nieokreślony" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Anulowane" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "A" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Anulowane" >
+<!ENTITY newevent.status.tentative.label          "Wstępnie zaakceptowane" >
+<!ENTITY newevent.status.tentative.accesskey      "W" >
+<!ENTITY newevent.status.confirmed.label          "Potwierdzone" >
+<!ENTITY newevent.status.confirmed.accesskey      "P" >
 
 <!ENTITY newevent.status.needsaction.label  "Wymaga działania" >
 <!ENTITY newevent.status.inprogress.label   "Trwa" >
