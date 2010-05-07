@@ -161,6 +161,7 @@
 <!ENTITY calendar.task-details.status.label "statut">
 <!ENTITY calendar.task-details.category.label "catégorie">
 <!ENTITY calendar.task-details.repeat.label "répétition :">
+<!ENTITY calendar.task-details.attachments.label     "pièces jointes">
 
 <!ENTITY calendar.task.category.button.tooltip "Catégoriser les tâches">
 <!ENTITY calendar.task.complete.button.tooltip "Marquer les tâches sélectionnées comme terminées">
