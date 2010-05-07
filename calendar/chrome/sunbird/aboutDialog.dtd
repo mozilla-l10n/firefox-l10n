@@ -42,10 +42,10 @@
 <!ENTITY aboutLink.label        "&lt; 關於 &brandFullName;">
 <!ENTITY aboutLink.accesskey    "a">
 <!ENTITY aboutVersion           "版本">
-<!ENTITY copyrightText          "&#169;1998-2009 Contributors. All rights
-                                 reserved. Mozilla Sunbird, Sunbird, and the
-                                 Sunbird logos are trademarks of the Mozilla
-                                 Foundation. All rights reserved.">
+<!ENTITY copyrightText          "&#169;1998-2010 專案貢獻者。保留所有著作權利。
+                                 Mozilla Sunbird、Sunbird，與 Sunbird 圖示
+                                 皆為 Mozilla 基金會的註冊商標。
+                                 保留所有權利。">
 
 <!ENTITY brandMotto       "這是有關於時間">
 <!ENTITY credit.thanks    "特別感謝">
