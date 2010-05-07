@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label "Modules">
 <!ENTITY addonsLocal.label "Vos modules">
+<!ENTITY addonsUpdate.label        "Mise à jour">
 <!ENTITY addonsRepo.label "Obtenir des modules">
 <!ENTITY addonsRecommended.label "Recommandés">
 <!ENTITY addonsSearch.label "Catalogue">
