@@ -171,9 +171,6 @@
 <!ENTITY event.menu.options.show.time.free.label "Disponible">
 <!ENTITY event.menu.options.show.time.free.accesskey "s">
 
-<!ENTITY event.help.label "Aide">
-<!ENTITY event.help.accesskey "e">
-
 <!ENTITY event.invite.attendees.label "Inviter des participants…">
 <!ENTITY event.invite.attendees.accesskey "I">
 <!ENTITY event.email.attendees.label "Écrire un courriel à tous les participants…">
@@ -232,6 +229,7 @@
 <!ENTITY event.priority2.label "Priorité :">
 
 <!ENTITY event.reminder.none.label "Aucun " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutes avant" >
 <!ENTITY event.reminder.5minutes.before.label "5 minutes avant" >
 <!ENTITY event.reminder.15minutes.before.label "15 minutes avant" >
 <!ENTITY event.reminder.30minutes.before.label "30 minutes avant" >
@@ -368,6 +366,7 @@
 <!ENTITY event.attendee.role.required "Participation obligatoire">
 <!ENTITY event.attendee.role.optional "Participation facultative">
 <!ENTITY event.attendee.role.chair "Organisateur">
+<!ENTITY event.attendee.role.nonparticipant     "Non participant">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Veuillez indiquer le fuseau horaire">
