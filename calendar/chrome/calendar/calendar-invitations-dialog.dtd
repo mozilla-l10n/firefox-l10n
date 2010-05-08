@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Événement sur toute la journée">
 <!ENTITY calendar.invitations.list.location.text                        "Lieu : ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organisateur : ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Participant : ">
 <!ENTITY calendar.invitations.list.none.text                            "Aucune">
