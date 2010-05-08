@@ -20,7 +20,3 @@
 <!ENTITY changeMasterPassword.accesskey "M">
 <!ENTITY savedPasswords.label "암호 저장 목록…">
 <!ENTITY savedPasswords.accesskey "P">
-<!ENTITY warnings.label "경고 메시지 표시">
-<!ENTITY chooseWarnings.label "웹 사이트 이동 시 확인하고 싶은 경고 내용을 선택하십시오.">
-<!ENTITY warningSettings.label "설정…">
-<!ENTITY warningSettings.accesskey "S">

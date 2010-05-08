@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c "본 라이센스는 &brandShortName;를 다른 사람에게 사용, 복사, 배포할 수 있습니다. 또한, &brandShortName;의 소스 코드를 원하는 요구에 맞추어 고칠 수 있습니다. Mozilla Public License는 또한 고친 버전을 재배포할 수도 있습니다. ">
 
-<!ENTITY rights.intro-point2a "Mozilla는 Mozilla와 Firefox 상표 및 로고에 대한 사용 권한은 허가하지 않습니다. 자세한 사항은 상표권 부분을 참고하십시오.">
-<!ENTITY rights.intro-point2b "자세히">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Mozilla는 Mozilla와 Firefox 상표 및 로고에 대한 사용 권한은 허가하지 않습니다. 자세한 사항은 상표권 부분을 참고하십시오.">
+<!ENTITY rights.intro-point2-b "자세히">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName;의 개인 정보 보호 정책에 대해서는 아래를 참고하십시오. ">

@@ -1,6 +1,4 @@
 <!ENTITY updateWizard.title "소프트웨어 업데이트">
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
 <!ENTITY checking.title "새 업데이트 확인">
 <!ENTITY noupdatesfound.title "새 업데이트 없음">
 <!ENTITY  noupdatesautoenabled.intro  "현재 업데이트가 없습니다. &brandShortName;는 주기적으로 업데이트를 확인하고 있습니다.">
@@ -17,7 +15,7 @@
 <!ENTITY license.accept.accesskey "c">
 <!ENTITY license.decline "이 계약조건에 대하여 동의하지 않습니다.">
 <!ENTITY license.decline.accesskey "T">
-<!ENTITY downloading.title "업데이트 다운로드">
+<!ENTITY downloadPage.title "&brandShortName; 다운로드 중…">
 <!ENTITY downloading.intro "업데이트 다운로드 중…">
 <!ENTITY connecting.label "업데이트 서버에 접속하는 중…">
 <!ENTITY verificationFailedText.label "&brandShortName;가 다운로드 된 업데이트의 통합성 여부를 확인할 수 없습니다. 전체 소프트웨어를 다운로드 하십시오.">
@@ -25,7 +23,7 @@
 <!ENTITY  updateCheck.label               "&brandShortName; 새 버전 찾기…">
 
 <!ENTITY  pluginupdatesfound.title	"신규 플러그인 업데이트">
-<!ENTITY  pluginupdatesfound.label	"설치 플러그인의 업데이트 버젼이 있습니다.">
+<!ENTITY  pluginupdatesfound.label	"설치 플러그인의 업데이트 버전이 있습니다.">
 <!ENTITY  pluginupdateslink.label	"플러그인의 업데이트 순서 확인">
 
 <!ENTITY details.link "상세 정보">
