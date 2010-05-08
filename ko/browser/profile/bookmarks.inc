@@ -7,10 +7,6 @@
 #define bookmarks_title 북마크
 #define bookmarks_heading 북마크
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons 북마크 부가 기능
-
 #define bookmarks_toolbarfolder 북마크 도구 모음
 #define bookmarks_toolbarfolder_description 북마크 도구 모음에 표시할 북마크를 이 폴더에 추가하십시오.
 

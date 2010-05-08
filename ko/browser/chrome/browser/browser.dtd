@@ -142,8 +142,28 @@
 <!ENTITY preferencesCmdUnix.label "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!ENTITY clearRecentHistoryCmd.label            "최근 기록 삭제">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!--tabbrowsing -->
+<!ENTITY bookmarkAllTabs.label "전체 탭 북마크 하기…">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
+<!ENTITY bookmarkThisTab.accesskey "B">
+<!ENTITY closeTab.label  "탭 닫기">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "다른 탭 모두 닫기">
+<!ENTITY newTab.label "새 탭">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY openTabInNewWindow.label     "새 창에 열기">
+<!ENTITY openTabInNewWindow.accesskey "W">
+<!ENTITY listAllTabs.label "탭 전체 목록">
+<!ENTITY reloadAllTabs.label "전체 탭 새로 고침">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "현재 탭 새로 고침">
+<!ENTITY reloadTab.accesskey "R">
+<!ENTITY undoCloseTab.label "닫은 탭 다시 열기">
+<!ENTITY undoCloseTab.accesskey "U">
+<!ENTITY clearRecentHistory.label            "최근 기록 삭제">
+<!ENTITY clearRecentHistory.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "사생활 보호 모드 시작">
@@ -159,6 +179,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey "C">
+<!ENTITY viewTabsOnTop.label            "탭 항상 위로">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "북마크 및 방문 기록 검색">
 <!ENTITY urlbar.bookmark.emptyText    "북마크 검색">
@@ -264,6 +286,8 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "버튼 숨기기">
 <!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "전체 화면">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 <!ENTITY newTabButton.tooltip  "새 탭 열기">
 <!ENTITY newWindowButton.tooltip "새 창 열기">
@@ -312,7 +336,6 @@
 <!ENTITY organizeBookmarks.label "북마크 관리…">
 
 <!ENTITY addons.label "부가 기능">
-<!ENTITY addons.tooltip "설치된 부가 기능 관리하기">
 <!ENTITY addons.accesskey "A">
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "C">
