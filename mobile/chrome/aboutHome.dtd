@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "Agregados de &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "Acerca de Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Abrir todos en pestañas">
+<!ENTITY aboutHome.noTabs                       "Sin pestañas de la última vez">
+<!ENTITY aboutHome.noAddons                     "Sin agregados recomendados">
