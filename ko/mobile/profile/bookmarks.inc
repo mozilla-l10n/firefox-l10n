@@ -21,7 +21,7 @@
 
 # LOCALIZATION NOTE (bookmarks_weave):
 # link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Weave 이용한 데이터 동기화
+#define bookmarks_sync Firefox: Weave 이용한 데이터 동기화
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile

@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "폼 필드 설정">
-<!ENTITY windowTitleImage.label "폼 이미지 설정">
+<!ENTITY windowTitleImage.label "폼 그림 설정">
 <!ENTITY InputType.label "필드 형식">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "글자">
@@ -62,7 +62,7 @@
 <!ENTITY InputSelected.accesskey "S">
 <!ENTITY InputReadOnly.label "읽기 전용">
 <!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "선택하지않음">
+<!ENTITY InputDisabled.label "선택하지 않음">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "탭 목록:">
 <!ENTITY tabIndex.accesskey "I">

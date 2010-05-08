@@ -13,7 +13,7 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "사생활 보호 모드 시작">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey	"P">
 
-<!ENTITY privatebrowsingpage.howToStop             	"사생활 보호 모드를 해제하려면 [&toolsMenu.label;] &gt; [&privateBrowsingCmd.stop.label;] 체크를 해제 하세요.">
-<!ENTITY privatebrowsingpage.howToStart				"사생활 보호 모드를 시작하려면 [&toolsMenu.label;] &gt; [&privateBrowsingCmd.start.label;]를 선택하세요.">
-<!ENTITY privatebrowsingpage.moreInfo                  "컴퓨터에 웹 브라우징 기록이 남지 않지만, 인터넷 제공 업체나 회사에서 여러분이 사용하는 페이지를 기록하고 있을 가능성은 있습니다.">
+<!ENTITY privatebrowsingpage.howToStop             	"사생활 보호 모드를 해제하려면 [&toolsMenu.label;] &gt; [&privateBrowsingCmd.stop.label;] 체크를 해제 하십시오.">
+<!ENTITY privatebrowsingpage.howToStart				"사생활 보호 모드를 시작하려면 [&toolsMenu.label;] &gt; [&privateBrowsingCmd.start.label;]를 선택하십시오.">
+<!ENTITY privatebrowsingpage.moreInfo                  "컴퓨터에 웹 브라우징 기록이 남지 않지만, 인터넷 제공업체나 회사에서 여러분이 사용하는 페이지를 기록하고 있을 가능성은 있습니다.">
 <!ENTITY privatebrowsingpage.learnMore                 "자세히 보기">

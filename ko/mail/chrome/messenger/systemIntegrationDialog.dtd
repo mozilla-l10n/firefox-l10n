@@ -5,7 +5,7 @@
 <!ENTITY newsgroups.label "뉴스 그룹">
 <!ENTITY feeds.label "피드">
 
-<!ENTITY checkOnStartup.label "&brandShortName; 시작 시 항상 확인">
+<!ENTITY checkOnStartup.label "&brandShortName; 시작할 때 항상 확인">
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "검색시 &searchIntegration.engineName; 엔진 사용 허가">

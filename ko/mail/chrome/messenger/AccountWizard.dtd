@@ -61,4 +61,4 @@
 <!ENTITY deferStorage.accesskey		"G">
 <!ENTITY deferStorage.label "전체 메일함 사용 (로컬 폴더에 메일 저장)">
 <!ENTITY clickFinish.label "이 설정을 저장하려면 완료를 눌러 계정 마법사를 종료하십시오.">
-<!ENTITY clickFinish.labelMac "현재 설정을 저장하고 계정 마법사를 종료 하려면 완료를 선택하십시오.">
+<!ENTITY clickFinish.labelMac "현재 설정을 저장하고 계정 마법사를 종료하려면 완료를 선택하십시오.">

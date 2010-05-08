@@ -2,10 +2,12 @@
 <!ENTITY copyright "공헌자">
 <!ENTITY aboutLink "&lt; &brandFullName; 정보">
 <!ENTITY aboutVersion "버전">
+<!ENTITY copyrightInfo1 "&#169;1998-2009 모든 저작권은 공헌자에게 있습니다. (">
+<!ENTITY copyrightInfo2			").">
+<!ENTITY licenseLink			"about:license">
 <!ENTITY licenseLinkText		"라이선스 정보">
 <!ENTITY copyright.accesskey "C">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY closeCmdGNOME.label        "닫기">
 <!ENTITY copyrightGNOME.accesskey   "r">
-<!ENTITY licenseLinkSuffix          ".">

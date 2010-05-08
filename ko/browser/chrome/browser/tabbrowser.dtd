@@ -1,3 +1,21 @@
+<!ENTITY untitledTab "(제목 없음)">
+<!ENTITY newTab.label "새 탭">
+<!ENTITY newTab.accesskey "N">
 <!ENTITY closeTab.label "현재 탭 닫기">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "다른 탭 모두 닫기">
+<!ENTITY reloadAllTabs.label "전체 탭 새로 고침">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "현재 탭 새로 고침">
+<!ENTITY reloadTab.accesskey "R">
+<!ENTITY openTabInNewWindow.label     "새 창에 열기">
+<!ENTITY openTabInNewWindow.accesskey "W">
 <!ENTITY listAllTabs.label "탭 전체 목록">
+<!ENTITY bookmarkAllTabs.label "전체 탭 북마크 하기…">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
+<!ENTITY bookmarkThisTab.accesskey "B">
+<!ENTITY undoCloseTab.label "닫은 탭 다시 열기">
+<!ENTITY undoCloseTab.accesskey "U">
 <!ENTITY newTabButton.tooltip   "새 탭 열기">

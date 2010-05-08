@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "보안 경고">
+<!ENTITY security.warn_when "아래의 경우 보안 경고창 보이기:">
+<!ENTITY security.warn_entering_secure.label "암호화된 웹 페이지를 볼 때">
+<!ENTITY security.warn_entering_secure.accesskey "v">
+<!ENTITY security.warn_entering_weak.label "낮은 수준으로 암호화된 웹 페이지를 볼 때">
+<!ENTITY security.warn_entering_weak.accesskey "g">
+<!ENTITY security.warn_leaving_secure.label "암호화된 웹 사이트에서 일반 웹 사이트로 이동할 때">
+<!ENTITY security.warn_leaving_secure.accesskey "l">
+<!ENTITY security.warn_submit_insecure.label "폼 정보를 암호화 되지 않은 상태로 보낼 때">
+<!ENTITY security.warn_submit_insecure.accesskey "s">
+<!ENTITY security.warn_viewing_mixed.label "암호화된 웹 페이지에 암호화 되지 않은 항목이 포함되어 있을 때">
+<!ENTITY security.warn_viewing_mixed.accesskey "u">

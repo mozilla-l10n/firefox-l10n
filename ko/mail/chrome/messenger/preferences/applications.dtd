@@ -1,4 +1,4 @@
-<!ENTITY  typeColumn.label            "컨텐츠 형식">
+<!ENTITY  typeColumn.label            "콘텐츠 형식">
 <!ENTITY  typeColumn.accesskey        "T">
 
 <!ENTITY  actionColumn2.label         "실행 방식">

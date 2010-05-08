@@ -2,7 +2,7 @@
 <!ENTITY itemPhishing.label      "사기 메일">
 <!ENTITY itemPasswords.label     "암호">
 <!ENTITY itemAntiVirus.label     "안티 바이러스">
-<!ENTITY itemCookies.label       "웹 컨텐츠">
+<!ENTITY itemCookies.label       "웹 콘텐츠">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "기본 스팸 메일 설정을 하시기 바랍니다. 각 계정마다 스팸 메일 설정을 별도로 하실 수 있습니다.">
@@ -32,7 +32,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName;는 계정 암호를 저장할 수 있습니다.">
 <!ENTITY useMasterPassword.label        "기본 암호 사용">
 <!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "기본 암호는 모든 일반 암호를 보호합니다. 프로그램 재시작 시 다시 입력해야 합니다.">
+<!ENTITY masterPassword.intro           "기본 암호는 모든 일반 암호를 보호합니다. 프로그램 다시 시작할 때 다시 입력해야 합니다.">
 <!ENTITY changeMasterPassword.label     "기본 암호 변경…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "저장된 암호 목록…">

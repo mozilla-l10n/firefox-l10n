@@ -3,7 +3,7 @@
 
 <!ENTITY warnCloseMultipleTabs.label "여러 탭을 가진 창을 닫을 때 알려주기">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
-<!ENTITY warnOpenManyTabs.label "여러 탭을 열어서 &brandShortName;이 느려질 때 알려주기">
+<!ENTITY warnOpenManyTabs.label "여러 탭을 열어 &brandShortName;가 느려질 때 알려주기">
 <!ENTITY warnOpenManyTabs.accesskey "o">
 
 <!ENTITY showTabBar.label "탭 도구 모음 항상 보이기">

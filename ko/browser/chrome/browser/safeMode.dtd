@@ -11,7 +11,7 @@
 <!ENTITY resetUserPrefs.accesskey "p">
 <!ENTITY restoreSearch.label          "기본 검색 사이트 재설정">
 <!ENTITY restoreSearch.accesskey      "s">
-<!ENTITY changeAndRestartButton.label "변경 사항 저장 후 재시작">
+<!ENTITY changeAndRestartButton.label "변경 사항 저장 후 다시 시작">
 <!ENTITY continueButton.label "안전 모드 계속">
 <!ENTITY disableAddons.label "모든 부가 기능 사용 중지">
 <!ENTITY disableAddons.accesskey "D">

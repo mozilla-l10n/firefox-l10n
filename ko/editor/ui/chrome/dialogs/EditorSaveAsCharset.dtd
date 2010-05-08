@@ -40,5 +40,5 @@
 <!ENTITY windowTitle.label "다른 문자 인코딩으로 변환 후 저장">
 <!ENTITY documentTitleTitle.label "페이지 제목">
 <!ENTITY documentCharsetTitle.label "문자 인코딩">
-<!ENTITY documentCharsetDesc.label "저장 시 사용할 문자 인코딩 선택">
+<!ENTITY documentCharsetDesc.label "저장할 때 사용할 문자 인코딩 선택">
 <!ENTITY documentExportToText.label "텍스트 파일로 내보내기">

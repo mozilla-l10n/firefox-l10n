@@ -13,7 +13,7 @@
 <!ENTITY bccAddress.label "다음 메일 주소를 Bcc에 추가:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.emptytext "쉼표로 주소 구분">
-<!ENTITY saveMessageDlg.label "메시지 저장 시 대화 상자 보이기">
+<!ENTITY saveMessageDlg.label "메시지 저장할 때 대화 상자 보이기">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;보낸 편지함&quot;으로:">

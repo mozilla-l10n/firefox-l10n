@@ -28,7 +28,7 @@
 <!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY addonsMgr.label "부가 기능">
-<!ENTITY manageAddonsDescWin.label "부가 기능 설정을 변경 합니다.">
+<!ENTITY manageAddonsDescWin.label "부가 기능 설정을 변경합니다.">
 <!ENTITY manageAddonsDescUnix2.label "부가 기능의 환경 설정 변경">
 <!ENTITY manageAddons.label "부가 기능 관리…">
 <!ENTITY manageAddons.accesskey "M">

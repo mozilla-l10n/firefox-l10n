@@ -1,0 +1,28 @@
+<!ENTITY aboutSupport.pageTitle			"문제 해결 정보">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle		"이 페이지에는 문제 발생시에 유용하게 쓸 수 있는 각종 정보가 표시됩니다.&brandShortName;에 관한 일반적인 질문에 대해서는 <a id='supportLink'>고객 지원</a>사이트를 보시기 바랍니다.">
+
+<!ENTITY aboutSupport.extensionsTitle		"확장 기능">
+<!ENTITY aboutSupport.extensionName			"이름">
+<!ENTITY aboutSupport.extensionEnabled		"유효">
+<!ENTITY aboutSupport.extensionVersion		"버젼">
+<!ENTITY aboutSupport.extensionId			"ID">
+
+<!ENTITY aboutSupport.appBasicsTitle		"애플리케이션 기본 정보">
+<!ENTITY aboutSupport.appBasicsName			"이름">
+<!ENTITY aboutSupport.appBasicsVersion		"버젼">
+<!ENTITY aboutSupport.appBasicsProfileDir	"프로필 폴더">
+<!ENTITY aboutSupport.appBasicsPlugins		"설치 플러그인 목록">
+<!ENTITY aboutSupport.appBasicsBuildConfig	"빌드 설정">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle	"변경 설정 내역">
+<!ENTITY aboutSupport.modifiedPrefsName		"이름">
+<!ENTITY aboutSupport.modifiedPrefsValue	"값">
+
+<!ENTITY aboutSupport.installationHistoryTitle	"설치 기록">
+<!ENTITY aboutSupport.updateHistoryTitle	"변경 기록">
+
+<!ENTITY aboutSupport.copyToClipboard.label	"클립 보드에 복사">
+<!ENTITY aboutSupport.show.label "포함 폴더 열기">
+<!ENTITY aboutSupport.showMac.label "Finder에서 찾기">
+

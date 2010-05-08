@@ -9,7 +9,7 @@
 <!ENTITY  locbar.bookmarks.label	"북마크만">
 <!ENTITY  locbar.nothing.label		"추천 항목 표시 안 함">
 
-<!ENTITY acceptCookies.label "웹 사이트에서 제공 하는 쿠키 허용">
+<!ENTITY acceptCookies.label "웹 사이트에서 제공하는 쿠키 허용">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.label "제 3자 쿠키 허용">
 <!ENTITY acceptThirdParty.accesskey "p">
@@ -29,7 +29,7 @@
 <!ENTITY  historyHeader.custom.label       "사용자 정의 설정">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName;는 웹 사이트 방문, 다운로드, 입력 및 검색 기록, 방문한 웹사이트가 제공한 쿠키 등을 저장 합니다.">
+<!ENTITY  rememberDescription.label      "&brandShortName;는 웹 사이트 방문, 다운로드, 입력 및 검색 기록, 방문한 웹사이트가 제공한 쿠키 등을 저장합니다.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -48,12 +48,16 @@
 <!ENTITY  dontrememberActions.clearHistory.label "모든 방문 기록 삭제">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "항상 사생활 보호 모드로만 이용">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingAutoStart.label "사생활 보호 모드에서 &brandShortName; 자동 다시 시작">
+<!ENTITY  privateBrowsingAutoStart.accesskey "A">
 
-
-<!ENTITY  rememberHistory.label      "방문 기록 저장">
-<!ENTITY  rememberHistory.accesskey  "h">
+<!-- LOCALIZATION NOTE:
+  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single line in preferences as follows:
+  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
+-->
+<!ENTITY  rememberHistory.pre.label      "방문 기록 저장 기간">
+<!ENTITY  rememberHistory.pre.accesskey  "h">
+<!ENTITY  rememberHistory.post.label     "일">
 
 <!ENTITY  rememberDownload.label         "다운로드 기록 저장">
 <!ENTITY  rememberDownload.accesskey     "d">

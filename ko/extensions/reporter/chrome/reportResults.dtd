@@ -10,6 +10,6 @@
 <!ENTITY reportLanguage              "언어">
 <!ENTITY reportCharset               "문자 인코딩">
 <!ENTITY reportEmail                 "메일">
-<!ENTITY error                       "에러">
+<!ENTITY error                       "오류">
 <!ENTITY faultCode                   "코드">
 <!ENTITY faultMessage                "코드 메시지">

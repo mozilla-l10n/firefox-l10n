@@ -4,16 +4,16 @@
 <!ENTITY advancedJSDialog.title         "고급 자바스크립트 실행 설정">
 <!ENTITY window.width                   "39em">
 
-<!ENTITY allowScripts.label             "웹 페이지 내 자바스크립트 실행 허가 항목 선택:">
+<!ENTITY allowScripts.label             "웹 페이지 내 자바스크립트 실행 가능 항목을 선택하십시오.">
 
 <!ENTITY moveResizeWindows.label        "창의 이동 및 크기 조정">
 <!ENTITY moveResizeWindows.accesskey    "M">
 
 <!ENTITY raiseLowerWindows.label        "창을 올리거나 내리기">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "우클릭 메뉴 사용하지 않거나 바꾸기">
+<!ENTITY disableContextMenus.label      "우클릭메뉴 사용을 막거나 바꾸기">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "상태 표시줄 감추기">
+<!ENTITY hideStatusBar.label            "상태 표시줄 숨기기">
 <!ENTITY hideStatusBar.accesskey        "H">
 <!ENTITY changeStatusBar.label          "상태 표시줄 텍스트 바꾸기">
 <!ENTITY changeStatusBar.accesskey      "C">

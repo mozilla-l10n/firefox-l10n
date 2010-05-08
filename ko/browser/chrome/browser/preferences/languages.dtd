@@ -1,6 +1,6 @@
 <!ENTITY window.width "30em">
 <!ENTITY languages.customize.Header "언어">
-<!ENTITY languages.customize.prefLangDescript "일부 웹 사이트의 내용에 여러가지 언어가 함께 포함되어 있는 경우가 있습니다. 이 경우 웹 페이지를 표시할 언어를 선호도순으로 선택 하십시오.">
+<!ENTITY languages.customize.prefLangDescript "일부 웹 사이트 내용에 여러 가지 언어가 함께 포함 있는 경우가 있습니다. 이 때 웹 페이지를 표시할 언어를 선호도순으로 선택하십시오.">
 <!ENTITY languages.customize.active.label "사용자 지정 언어:">
 <!ENTITY languages.customize.moveUp.label "위로 이동">
 <!ENTITY languages.customize.moveUp.accesskey "U">

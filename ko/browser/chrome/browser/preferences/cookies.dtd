@@ -3,7 +3,6 @@
 <!ENTITY     cookiesonsystem.label          "다음의 쿠키가 사용자 컴퓨터에 저장되어 있습니다:">
 <!ENTITY     cookiename.label               "쿠키 이름">
 <!ENTITY     cookiedomain.label             "사이트">
-<!ENTITY     button.removecookies.label     "삭제">
 <!ENTITY     button.removecookie.label      "삭제">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "모두 삭제">

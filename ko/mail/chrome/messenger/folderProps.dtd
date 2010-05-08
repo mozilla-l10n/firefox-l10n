@@ -9,7 +9,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label	"요약 파일 색인을 재생성 합니다.">
 <!ENTITY folderRebuildSummaryFile2.label	"폴더 복구">
 <!ENTITY folderRebuildSummaryFile2.accesskey	"R">
-<!ENTITY folderRebuildSummaryFile.explanation	"폴더 색인 파일 (.msf) 손상되어 삭제한 메세지가 표시되는 경우가 있습니다. 이러한 문제가 일어났을 때 폴더를 복구 해 주시기 바랍니다.">
+<!ENTITY folderRebuildSummaryFile.explanation	"폴더 색인 파일 (.msf) 손상되어 삭제한 메세지가 표시되는 경우가 있습니다. 이러한 문제가 일어났을 때 폴더를 복구해 주시기 바랍니다.">
 <!ENTITY folderIncludeInGlobalSearch.label	"이 폴더 메세지를 검색 대상으로 포함">
 <!ENTITY folderIncludeInGlobalSearch.accesskey	"G">
 

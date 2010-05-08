@@ -3,7 +3,7 @@
 <!ENTITY errColumn.label "열:">
 <!ENTITY all.label "모두">
 <!ENTITY all.accesskey "A">
-<!ENTITY errors.label "에러">
+<!ENTITY errors.label "오류">
 <!ENTITY errors.accesskey "E">
 <!ENTITY warnings.label "경고">
 <!ENTITY warnings.accesskey "W">

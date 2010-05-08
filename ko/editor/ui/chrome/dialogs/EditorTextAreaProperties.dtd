@@ -43,7 +43,7 @@
 <!ENTITY TextAreaCols.accessKey "C">
 <!ENTITY TextAreaReadOnly.label "읽기 전용">
 <!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "선택 하지않음">
+<!ENTITY TextAreaDisabled.label "선택하지 않음">
 <!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "탭 목록:">
 <!ENTITY TextAreaTabIndex.accessKey "I">

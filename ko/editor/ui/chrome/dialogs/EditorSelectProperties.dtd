@@ -41,7 +41,7 @@
 <!ENTITY SelectSize.accesskey "H">
 <!ENTITY SelectMultiple.label "다중 선택">
 <!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "선택 하지않음">
+<!ENTITY SelectDisabled.label "선택하지 않음">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "탭 목록:">
 <!ENTITY SelectTabIndex.accesskey "I">
@@ -57,7 +57,7 @@
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "기본적으로 선택함">
 <!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "선택 하지않음">
+<!ENTITY OptionDisabled.label "선택하지 않음">
 <!ENTITY OptionDisabled.accesskey "D">
 <!ENTITY TextHeader.label "글자">
 <!ENTITY ValueHeader.label "값">
