@@ -7,7 +7,7 @@
 <!ENTITY checking.top.label "호환 되지 않는 부가 기능의 업데이트 검사 중…">
 <!ENTITY checking.status "이 작업은 몇 분 정도 소요될 수 있습니다…">
 <!ENTITY found.wizard.title "호환 가능한 부가 기능을 찾음">
-<!ENTITY found.top.label "설치할 부가 기능을 선택 하십시오:">
+<!ENTITY found.top.label "설치할 부가 기능을 선택하십시오:">
 <!ENTITY installing.wizard.title "호환 가능한 부가 기능 설치">
 <!ENTITY installing.top.label "부가 기능의 업데이트를 설치하고 있습니다…">
 <!ENTITY noupdates.wizard.title "호환 가능한 부가 기능 없음">

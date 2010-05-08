@@ -1,12 +1,12 @@
-<!ENTITY firstrun..title               "&brandShortName;사용을 환영합니다">
+<!ENTITY firstrun.title               "&brandShortName;사용을 환영합니다.">
 <!ENTITY firstrun.heading              "여러분의 시작을 돕기 위해,  &brandShortName;의 최대한 모든 것을 사용할 수 있도록 가장 인기있는  특징과  확장 기능을 제공합니다. ">
 <!ENTITY firstrun.recommended          "추천:">
 <!ENTITY firstrun.weave.title          "바로 가기">
 <!ENTITY firstrun.weave.description    "여러분의 &brandShortName;을 공유합니다; 히스토리, 암호, 즐겨찾기 &amp; 데스크 &amp;모바일간의 탭">
 <!ENTITY firstrun.starter.title        "시작 도구 모음 얻기">
-<!ENTITY firstrun.starter.description  "여러분의 &brandShortName; 사용자 경험을 향상시키기 위해 추천하는 확장 기능을 설치하세요.">
+<!ENTITY firstrun.starter.description  "여러분의 &brandShortName; 사용자 경험을 향상시키기 위해 추천하는 확장 기능을 설치하십시오.">
 <!ENTITY firstrun.tour.title           "여행하기">
-<!ENTITY firstrun.tour.description     "새로운 특징이 무엇이고 어디에 위치하는지 익숙해지려면 비디오를 시청하세요"">
+<!ENTITY firstrun.tour.description     "새로운 기능에 대해 자세히 익히시려면 동영상을 시청하십시오.">
 <!ENTITY firstrun.features             "더 많은 특징 보기">
 <!ENTITY firstrun.faq                  "FAQ">
 <!ENTITY firstrun.privacy              "개인 정보 정책">

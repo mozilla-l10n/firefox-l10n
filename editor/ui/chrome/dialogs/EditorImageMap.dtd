@@ -38,7 +38,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 <!-- Window title -->
-<!ENTITY windowTitle.label "이미지맵 편집">
+<!ENTITY windowTitle.label "그림맵 편집">
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "파일">

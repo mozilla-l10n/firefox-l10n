@@ -68,7 +68,7 @@
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "가로*세로 비율을 유지합니다.">
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "이미지맵">
+<!ENTITY imagemapBox.label "그림맵">
 <!ENTITY removeImageMapButton.label "제거">
 <!ENTITY removeImageMapButton.accessKey "R">
 <!ENTITY editImageMapButton.label "편집...">

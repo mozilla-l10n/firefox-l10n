@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "모든 적용 가능한 개인 정보 보호 정책은 아래에 기술되어 있습니다.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName;는 안전 탐색 모드 같은 몇 가지 웹 사이트 서비스를 제공 합니다. 하지만, 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 조건을 참고하세요.">
+<!ENTITY rights.intro-point4a "&brandShortName;는 안전 탐색 모드 같은 몇 가지 웹 사이트 서비스를 제공합니다. 하지만, 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 조건을 참고하십시오.">
 <!ENTITY rights.intro-point4b "자세히">
 <!ENTITY rights.intro-point4c ".">
 
@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName;는 안전 탐색 모드 같은 웹 사이트 정보 서비스를 제공 합니다. (&quot;서비스&quot;) 본 서비스는 &brandShortName;의 바이너리 제품을 사용할 때 이용 가능하며 서비스 사용을 원치 않거나 서비스 조건에 동의하지 않으시면 안전 탐색 모드를 정지할 수 있습니다. 설정 위치: ">
+<!ENTITY rights.webservices-a "&brandFullName;는 안전 탐색 모드 같은 웹 사이트 정보 서비스를 제공합니다. (&quot;서비스&quot;) 본 서비스는 &brandShortName;의 바이너리 제품을 사용할 때 이용 가능하며 서비스 사용을 원치 않거나 서비스 조건에 동의하지 않으시면 안전 탐색 모드를 정지할 수 있습니다. 설정 위치: ">
 <!ENTITY rights.webservices-b "보안">
 <!ENTITY rights.webservices-c "- &quot;&blockAttackSites.label;&quot;와 &quot;&blockWebForgeries.label;&quot; 체크 해제">
 
@@ -56,7 +56,7 @@
 <!ENTITY rights.webservices-term1-unbranded "모든 적용 가능한 서비스 조건을 아래에 게시합니다.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName;와 개발 공헌자, 라이센스 제공자 및 파트너사는 매우 정확하고 최신의 피싱 및 스파이웨어 정보를 제공합니다. 그러나, 모든 제공 정보가 오류가 없음을 보장하지는 않습니다. 보안 위험이 있는 사이트인데도 보안 사이트로 표시될 수도 있습니다.">
+<!ENTITY rights.webservices-term1 "&vendorShortName;와 개발 공헌자, 라이센스 제공자 및 파트너사는 매우 정확하고 최신의 피싱 및 스파이웨어 정보를 제공합니다. 그러나, 모든 제공정보가 오류가 없음을 보장하지는 않습니다. 보안 위험이 있는 사이트인데도 보안 사이트로 표시될 수도 있습니다.">
 <!ENTITY rights.webservices-term2 "&vendorShortName;는 서비스를 중단하거나 변경할 수도 있습니다.">
 <!ENTITY rights.webservices-term3 "&brandShortName;와 함께 제공한 서비스를 이욯해 주셔서 감사합니다. 여러분의 권한을 통해 &vendorShortName;와 라이센스 제공자는 서비스 내 다른 권한들도 보장합니다. 이들 조건들은 &brandShortName;와 소스 코드 버전에 대응하는 오픈 소스 라이센스 하에서 보장된 조건을 제한하기 위한 것이 아닙니다.">
 

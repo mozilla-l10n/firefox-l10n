@@ -1,5 +1,5 @@
 <!ENTITY validation.crlmanager.label "인증서 폐기 목록(CRL) 관리자">
-<!ENTITY validation.crlmanager.description "인증서 저장소에 저장되어 있는 인증서 폐기 목록(CRL):">
+<!ENTITY validation.crlmanager.description "인증서 저장소에 저장하고 있는 인증서 폐기 목록(CRL):">
 <!ENTITY validation.crlname.label "이름">
 <!ENTITY validation.crllastupdate.label "최종 갱신">
 <!ENTITY validation.crlnextupdate.label "다음 갱신">

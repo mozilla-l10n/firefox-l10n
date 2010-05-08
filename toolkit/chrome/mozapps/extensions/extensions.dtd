@@ -1,7 +1,7 @@
 <!ENTITY cmd.info.commandKey "i">
 <!ENTITY cmd.options.commandKey ",">
 <!ENTITY cmd.close.commandKey "w">
-<!ENTITY cmd.uninstall.label "설치 제거">
+<!ENTITY cmd.uninstall.label "제거">
 <!ENTITY cmd.useTheme.label "적용">
 <!ENTITY cmd.useTheme.accesskey "T">
 <!ENTITY cmd.useTheme.tooltip "&brandShortName; 테마 변경">
@@ -34,9 +34,9 @@
 <!ENTITY install.label "설치">
 <!ENTITY cmd.checkUpdatesAll.label "업데이트 찾기">
 <!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "설치된 부가 기능 변경 사항 찾기">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "설치된 테마 변경 사항 찾기">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "설치된 플러그인 변경 사항 찾기">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "설치된 부가 기능의 변경 사항 찾기">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "설치된 테마의 변경 사항 찾기">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip	"설치된 플러그인 변경 사항 찾기">
 <!ENTITY cmd.installLocalFile.label "설치…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY cmd.installFileAddon.tooltip "부가 기능 설치">
@@ -45,7 +45,7 @@
 <!ENTITY cmd.installUpdatesAll2.accesskey "I">
 <!ENTITY cmd.installUpdatesAll2.tooltip "선택한 업데이트 설치">
 <!ENTITY cmd.skip.label "나중에 하기">
-<!ENTITY cmd.skip.accesskey "S">
+<!ENTITY cmd.skip.accesskey "k">
 <!ENTITY cmd.skip.tooltip "업데이트를 나중에 설치합니다.">
 <!ENTITY cmd.continue.label "계속">
 <!ENTITY cmd.continue.accesskey "C">
@@ -78,8 +78,9 @@
 <!ENTITY includeUpdate.tooltip "업데이트 설치 시 이 부가 기능을 포함합니다.">
 <!ENTITY needsDependencies.label "부가 항목 필요">
 <!ENTITY blocklisted.label "보안상 사용할 수 없음">
-<!ENTITY softBlocklisted.label "보안 및 안정성을 야기할 수 있는 문제">
-<!ENTITY outdated.label "새롭고 안전한 버전을 이용할 수 있습니다.">
+<!ENTITY softBlocklisted.label            "보안 및 안정성을 야기할 수 있는 문제">
+<!ENTITY outdated.label			"보다 안전한 신규 버전으로 업그레이드 가능합니다.">
+
 <!ENTITY toBeDisabled.label "이 부가 기능을 사용하지 않으려면 &brandShortName;를 다시 시작해야 합니다.">
 <!ENTITY toBeEnabled.label "이 부가 기능을 사용하려면 &brandShortName;를 다시 시작해야 합니다.">
 <!ENTITY toBeInstalled.label "이 부가 기능을 설치하려면 &brandShortName;를 다시 시작해야 합니다.">
@@ -89,14 +90,14 @@
 <!ENTITY moreInfo.label "자세한 정보">
 <!ENTITY updateSuccess.label "업데이트가 성공적으로 완료되었습니다.">
 <!ENTITY installSuccess.label "설치가 성공적으로 완료되었습니다.">
-<!ENTITY installSuccessRestart.label "설치 완료를 위해 다시 시작 합니다.">
+<!ENTITY installSuccessRestart.label "설치 완료를 위해 다시 시작합니다.">
 <!ENTITY installWaiting.label "잠시만 기다려 주십시오…">
 <!ENTITY installIncompatibleUpdate.label "호환성 확인 중…">
 <!ENTITY installFinishing.label "설치 중…">
 <!ENTITY installFailure.label "설치에 실패했습니다.">
-<!ENTITY cmd.restartApp2.label "&brandShortName; 재시작">
+<!ENTITY cmd.restartApp2.label "&brandShortName; 다시 시작">
 <!ENTITY cmd.restartApp2.accesskey "R">
-<!ENTITY cmd.restartApp2.tooltip "설정 적용을 위해 &brandShortName; 재시작">
+<!ENTITY cmd.restartApp2.tooltip "설정 적용을 위해 &brandShortName; 다시 시작">
 <!ENTITY cmd.cancelInstall.label "설치 취소">
 <!ENTITY cmd.cancelInstall.accesskey "C">
 <!ENTITY cmd.cancelInstall.tooltip "부가 기능 설치 취소">
@@ -106,9 +107,9 @@
 <!ENTITY cmd.showUpdateInfo.label "정보 보기">
 <!ENTITY cmd.showUpdateInfo.accesskey "S">
 <!ENTITY cmd.showUpdateInfo.tooltip "업데이트에 대한 상세 정보 보기">
-<!ENTITY cmd.hideUpdateInfo.label "정보 감추기">
+<!ENTITY cmd.hideUpdateInfo.label "정보 숨기기">
 <!ENTITY cmd.hideUpdateInfo.accesskey "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip "업데이트 정보 감추기">
+<!ENTITY cmd.hideUpdateInfo.tooltip "업데이트 정보 숨기기">
 
 <!ENTITY cmd.installSearchResult.label     "&brandShortName;에 추가…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
@@ -119,12 +120,12 @@
 <!ENTITY cancelUpgrade.label "취소">
 <!ENTITY cancelUpgrade.accesskey "C">
 <!ENTITY insecureUpdate.label "보안 업데이트를 제공하지 않습니다.">
-<!ENTITY toBeUpdated.label "&brandShortName; 재시작 후 부가 기능을 업데이트 합니다.">
+<!ENTITY toBeUpdated.label "&brandShortName; 다시 시작 후 부가 기능을 업데이트 합니다.">
 <!ENTITY getPlugins.label "플러그인 찾기">
 <!ENTITY infoNoAddonSelected.label "선택한 업데이트가 없음">
 <!ENTITY infoNoUpdateInfo.label "현재 업데이트는 부가 정보를 제공하지 않습니다.">
 <!ENTITY infoUpdateInfoError.label "현재 업데이트 정보를 가져오는 데 오류가 있습니다.">
-<!ENTITY updateSuccessRestart.label "업데이트 완료를 위해 재시작 합니다.">
+<!ENTITY updateSuccessRestart.label "업데이트 완료를 위해 다시 시작합니다.">
 <!ENTITY progressStatus.label "업데이트 확인">
 
 <!ENTITY searchAddons.label               "부가 기능 검색">                 

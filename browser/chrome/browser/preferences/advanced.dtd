@@ -7,7 +7,7 @@
 <!ENTITY autoCheck.label "자동으로 업데이트할 항목:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "설치한 부가 기능">
+<!ENTITY enableAddonsUpdate2.label "부가 기능">
 <!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "검색 사이트">
 <!ENTITY enableSearchUpdate.accesskey "h">
@@ -74,14 +74,14 @@
 <!ENTITY checkSpelling.accesskey "t">
 
 <!ENTITY systemDefaults.label            "기본 브라우저 설정">
-<!ENTITY alwaysCheckDefault.label        "시작 시 &brandShortName;가 기본 브라우저인지 매번 확인하기">
+<!ENTITY alwaysCheckDefault.label        "시작할 때마다 &brandShortName;가 기본 브라우저인지 확인">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "지금 확인">
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "오류 보고서 전송">
 <!ENTITY submitCrashes.accesskey         "S">
 
-<!ENTITY blockAutoRefresh.label "웹 사이트 새로 고침이나 리다이렉트할 경우 경고하기">
+<!ENTITY blockAutoRefresh.label "웹 사이트를 새로 고치거나 리다이렉트할 때 경고 표시">
 <!ENTITY blockAutoRefresh.accesskey "b">
 <!ENTITY verify2.label "유효성 확인">
 <!ENTITY verify2.accesskey "V">

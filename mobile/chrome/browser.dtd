@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "검색어 및 주소 입력">
+
 <!ENTITY back.label            "뒤로">
 <!ENTITY forward.label         "앞으로">
 <!ENTITY reload.label          "새로 고침">
@@ -47,7 +49,7 @@
 <!ENTITY addonEnable.label         "사용">
 <!ENTITY addonDisable.label        "사용 안 함">
 <!ENTITY addonInstall2.label       "&brandShortName;에 추가">
-<!ENTITY addonUninstall.label      "설치 제거">
+<!ENTITY addonUninstall.label      "제거">
 <!ENTITY addonCancel.label         "취소">
 <!ENTITY addonShowPage.label       "웹페이지 보기">
 
@@ -65,8 +67,6 @@
 
 <!ENTITY noResults.label           "결과 없음">
 <!ENTITY allBookmarks.label        "모든 북마크 보기">
-
-<!ENTITY searchEngine.addSearch    "검색엔진 추가:">
 
 <!ENTITY bookmarkPopup.label       "문서 북마크">
 <!ENTITY bookmarkRemove.label      "제거">
@@ -92,3 +92,7 @@
 <!ENTITY consoleErrFile.label      "소스 파일:">
 <!ENTITY consoleErrLine.label      "행:">
 <!ENTITY consoleErrColumn.label    "열:">
+
+<!ENTITY contextOpenInNewTab.label "새 탭에 링크 열기">
+<!ENTITY contextSaveImage.label    "그림 저장">
+

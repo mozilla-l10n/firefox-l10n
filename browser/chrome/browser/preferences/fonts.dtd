@@ -44,7 +44,6 @@
 <!ENTITY font.langGroup.telugu    "텔루그 문자">
 <!ENTITY font.langGroup.kannada   "카나다 문자">
 <!ENTITY font.langGroup.sinhala   "신하라 문자">
-<!ENTITY font.langGroup.tibetan   "티베트어">
 
 <!ENTITY minSize.label "최소 글꼴 크기:">
 <!ENTITY minSize.accesskey "o">

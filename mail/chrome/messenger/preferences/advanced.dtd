@@ -74,7 +74,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "디스크 용량">
-<!ENTITY offlineCompact.label "지정된 용량 이상 저장 시 폴더 압축">
+<!ENTITY offlineCompact.label "지정된 용량 이상 저장할 때 폴더 압축">
 <!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "KB">
 
@@ -84,9 +84,9 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "페이지 캐쉬">
+<!ENTITY useCacheBefore.label            "페이지 캐시">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "MB 까지 캐쉬 사용">
+<!ENTITY useCacheAfter.label             "MB 까지 캐시 사용">
 <!ENTITY clearCacheNow.label             "지금 삭제">
 <!ENTITY clearCacheNow.accesskey         "C">
 

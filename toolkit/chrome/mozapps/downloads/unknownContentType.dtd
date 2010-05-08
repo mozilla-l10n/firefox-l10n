@@ -11,6 +11,6 @@
 <!ENTITY chooseHandlerMac.accesskey "C">
 <!ENTITY chooseHandler.label "찾아보기…">
 <!ENTITY chooseHandler.accesskey "B">
-<!ENTITY unknownPromptText.label "이 파일을 저장 하시겠습니까?">
+<!ENTITY unknownPromptText.label "이 파일을 저장하시겠습니까?">
 <!ENTITY saveFile.label "파일 저장">
 <!ENTITY saveFile.accesskey "s">

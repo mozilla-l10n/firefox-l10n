@@ -49,7 +49,7 @@
 <!ENTITY publishSettings.label "공개할 사이트 설정…">
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "인용 형식으로 붙여넣기">
-<!ENTITY pasteAsQuotationCmd.accesskey "Q">
+<!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "찾아서 바꾸기…">
 <!ENTITY findCmd.accesskey "f">
@@ -67,7 +67,7 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "맞춤법 검사">
 <!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY checkSpellingCmd2.key "k">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "HTML 검사">
 <!ENTITY validateCmd.accesskey "v">
 <!ENTITY insertMenu.label "삽입">
@@ -301,6 +301,7 @@
 <!ENTITY tableAllCells.accesskey "A">
 <!ENTITY tableCellBefore.label "앞쪽 셀">
 <!ENTITY tableCellBefore.accesskey "C">
+<!ENTITY tableAllCells.accesskey "a">
 <!ENTITY tableCellAfter.label "뒤쪽 셀">
 <!ENTITY tableCellAfter.accesskey "f">
 <!ENTITY tableDeleteMenu.label "삭제">

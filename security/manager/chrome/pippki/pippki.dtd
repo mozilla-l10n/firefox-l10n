@@ -46,7 +46,7 @@
 <!ENTITY pkcs12.setpassword.reminder "중요: 만약 인증서 백업 암호를 분실하면 백업한 인증서를 다시 가져올 수 없습니다.">
 <!ENTITY pkcs12.getpassword.title "암호 입력 하기">
 <!ENTITY pkcs12.getpassword.message "인증서 백업을 암호화 할 암호 입력:">
-<!ENTITY chooseToken.title "토큰 선택 하기">
+<!ENTITY chooseToken.title "토큰 선택하기">
 <!ENTITY chooseToken.message1 "토큰을 선택하십시오.">
 <!ENTITY escrowWarn.title "암호용 키 복사">
 <!ENTITY escrowWarn.message1 "중요: 인증 기관이 사용자 개인키에 대한 백업본을 만들어 둘 것을 요청하고 있습니다.">
@@ -68,5 +68,5 @@
 
 <!ENTITY certErrorDlg.title "보안 연결 실패">
 <!ENTITY certErrorDlg.info1 "연결하려는 보안 서버의 설정이 잘못되어 있거나 서버 연결 도중 오류가 났을 수 있습니다.">
-<!ENTITY certErrorDlg.info2 "만약 여러분이 이전에 연결에 문제가 없었다면 일시적인 문제일 수 있으므로 잠시 기다린 후에 재시도 하시기 바랍니다.">
+<!ENTITY certErrorDlg.info2 "만약 여러분이 이전에 연결에 문제가 없었다면 일시적인 문제일 수 있으므로 잠시 기다린 후에 재시도하시기 바랍니다.">
 

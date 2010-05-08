@@ -8,7 +8,7 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY cmd.pause.label                  "중단">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "재시작">
+<!ENTITY cmd.resume.label                 "다시 시작">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "취소">
 <!ENTITY cmd.cancel.accesskey             "C">
