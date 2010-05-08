@@ -1,32 +1,32 @@
-<!ENTITY tab.cookiesonsystem.label      "Opgeslagen cookies">
-<!ENTITY tab.bannedservers.label        "cookie webpagina">
-<!ENTITY div.bannedservers.label        "Beheer webpagina’s die geen cookies kunnen opslaan op uw computer.">
-<!ENTITY div.cookiesonsystem.label      "Op uw computer opgeslagen cookies bekijken en verwijderen.">
-<!ENTITY treehead.cookiename.label      "Cookienaam">
-<!ENTITY treehead.cookiedomain.label    "Website">
-<!ENTITY treehead.cookieexpires.label   "Verloopt">
-<!ENTITY treehead.infoselected.label    "Informatie over de geselecteerde cookie">
-<!ENTITY button.removecookie.label      "Cookie verwijderen">
+<!ENTITY     tab.cookiesonsystem.label      "Opgeslagen cookies">
+<!ENTITY     tab.bannedservers.label        "cookie webpagina">
+<!ENTITY     div.bannedservers.label        "Beheer webpagina’s die geen cookies kunnen opslaan op uw computer.">
+<!ENTITY     div.cookiesonsystem.label      "Op uw computer opgeslagen cookies bekijken en verwijderen.">
+<!ENTITY     treehead.cookiename.label      "Cookienaam">
+<!ENTITY     treehead.cookiedomain.label    "Website">
+<!ENTITY     treehead.cookieexpires.label   "Verloopt">
+<!ENTITY     treehead.infoselected.label    "Informatie over de geselecteerde cookie">
+<!ENTITY     button.removecookie.label      "Cookie verwijderen">
 <!ENTITY     button.removecookie.accesskey  "v">
-<!ENTITY button.removeallcookies.label  "Alle cookies verwijderen">
+<!ENTITY     button.removeallcookies.label  "Alle cookies verwijderen">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
-<!ENTITY     search.emptytext               "Cookies zoeken">
+<!ENTITY     search.placeholder             "Cookies zoeken">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
-<!ENTITY props.name.label               "Naam:">
-<!ENTITY props.value.label              "Inhoud:">
-<!ENTITY props.domain.label             "Host:">
-<!ENTITY props.path.label               "Pad:">
-<!ENTITY props.secure.label             "Verzonden aan:">
-<!ENTITY props.expires.label            "Verloopt:">
+<!ENTITY     props.name.label               "Naam:">
+<!ENTITY     props.value.label              "Inhoud:">
+<!ENTITY     props.domain.label             "Host:">
+<!ENTITY     props.path.label               "Pad:">
+<!ENTITY     props.secure.label             "Verzonden aan:">
+<!ENTITY     props.expires.label            "Verloopt:">
 
-<!ENTITY treehead.sitename.label        "Webpagina">
-<!ENTITY treehead.status.label          "Status">
-<!ENTITY windowtitle.label              "Cookiebeheerder">
-<!ENTITY buttonaccept.label             "Sluiten">
+<!ENTITY     treehead.sitename.label        "Webpagina">
+<!ENTITY     treehead.status.label          "Status">
+<!ENTITY     windowtitle.label              "Cookiebeheerder">
+<!ENTITY     buttonaccept.label             "Sluiten">
 <!ENTITY     buttonaccept.accesskey         "S">
 
 <!ENTITY     blockSite.label                "Blokkeren">

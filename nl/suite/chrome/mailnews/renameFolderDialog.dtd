@@ -36,6 +36,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY renameFolderDialog.title "Mapnaam wijzigen">
-<!ENTITY rename.label "Voer een nieuwe naam in voor de map:">
-<!ENTITY rename.accesskey "V">
+<!ENTITY renameFolderDialog.title 			"Mapnaam wijzigen">
+<!ENTITY rename.label 						"Voer een nieuwe naam in voor de map:">
+<!ENTITY rename.accesskey 					"V">
+<!ENTITY accept.label                      "Naam wijzigen">
+<!ENTITY accept.accesskey                  "N">

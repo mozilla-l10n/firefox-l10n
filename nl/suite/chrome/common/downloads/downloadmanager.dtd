@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "Menubalk">
 <!ENTITY searchBar.tooltip               "Zoekbalk">
 
-<!ENTITY search.emptytext                "Zoeken in downloads">
+<!ENTITY search.placeholder              "Zoeken in downloads">
 <!ENTITY search.label                    "Zoeken in downloads">
 <!ENTITY search.accesskey                "Z">
 <!ENTITY search.key                      "z">

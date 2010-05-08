@@ -20,3 +20,13 @@
 <!ENTITY extensionsWeekly.accesskey           "k">
 <!ENTITY addonManagerButton.label             "Add-onbeheerder">
 <!ENTITY addonManagerButton.accesskey         "b">
+
+<!ENTITY whenUpdatesFound.label               "Als er updates voor &brandShortName; zijn gevonden">
+<!ENTITY askMe.label                          "Vragen wat te doen">
+<!ENTITY askMe.accesskey                      "a">
+<!ENTITY modeAutomatic.label                  "De update automatisch downloaden en installeren">
+<!ENTITY modeAutomatic.accesskey              "u">
+<!ENTITY modeAutoAddonWarn.label              "Waarschuwen als hierdoor Add-ons worden uitgeschakeld">
+<!ENTITY modeAutoAddonWarn.accesskey          "r">
+<!ENTITY updateHistory.label                  "Geschiedenis van updates tonen">
+<!ENTITY updateHistory.accesskey              "G">

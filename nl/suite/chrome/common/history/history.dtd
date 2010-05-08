@@ -2,9 +2,9 @@
 
 <!ENTITY historyWindowTitle.label       "Geschiedenis">
 <!ENTITY menuBar.tooltip                "Menubalk">
-<!ENTITY searchBar.tooltip              "Search Bar">
+<!ENTITY searchBar.tooltip              "Zoekbalk">
 
-<!ENTITY search.emptytext               "Zoekgeschiedenis">
+<!ENTITY search.placeholder             "Zoeken in geschiedenis">
 <!ENTITY search.key                     "z">
 <!ENTITY view.label                     "Weergeven">
 

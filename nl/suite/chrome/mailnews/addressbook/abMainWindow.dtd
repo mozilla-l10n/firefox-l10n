@@ -117,7 +117,7 @@
 <!ENTITY deleteItemButton.accesskey                     "V">
 <!ENTITY newimButton.label                              "Instant bericht">
 <!ENTITY newimButton.accesskey                          "I">
-<!ENTITY searchNameAndEmail.emptytext                   "Naam en e-mail doorzoeken">
+<!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mail doorzoeken">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adresboekwerkbalk">
