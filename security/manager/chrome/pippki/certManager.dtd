@@ -108,8 +108,8 @@
 <!ENTITY certmgr.close.accesskey              "ä">
 <!ENTITY certmgr.view2.label                  "Visa…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Redigera…">
-<!ENTITY certmgr.edit2.accesskey              "R">
+<!ENTITY certmgr.edit3.label                  "Redigera tillit…">
+<!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Redigera CA-tillit">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Lägg till">
@@ -118,6 +118,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Ta bort…">
 <!ENTITY certmgr.delete2.accesskey            "T">
+<!ENTITY certmgr.delete_builtin.label         "Ta bort eller misstro…">
+<!ENTITY certmgr.delete_builtin.accesskey     "T">
 <!ENTITY certmgr.backup2.label                "Säkerhetskopiera…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Säkerhetskopiera alla…">
