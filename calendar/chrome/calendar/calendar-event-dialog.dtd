@@ -52,7 +52,7 @@
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Aucun" >
 <!ENTITY newevent.eventStatus.none.accesskey      "A" >
-<!ENTITY newevent.todoStatus.none.label           "Not specified" >
+<!ENTITY newevent.todoStatus.none.label           "Non spécifié" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Annulé" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Annulé" >
