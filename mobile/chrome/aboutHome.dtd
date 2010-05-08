@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2 "Дополнения для вашего &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla "О Mozilla">
 <!ENTITY aboutHome.openAllTabs "Открыть всё во вкладках">
+<!ENTITY aboutHome.noTabs "Нет вкладок с прошлого раза">
+<!ENTITY aboutHome.noAddons "Нет рекомендуемых дополнений">
