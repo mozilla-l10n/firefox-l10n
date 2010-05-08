@@ -8,3 +8,4 @@
 <!ENTITY closeCmdGNOME.accesskey    "C">
 <!ENTITY closeCmdGNOME.label        "닫기">
 <!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY licenseLinkSuffix          ".">

@@ -7,6 +7,8 @@
 <!ENTITY helpMenu.accesskey "H">
 <!ENTITY helpMenuWin.label "도움말">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct.label "&brandFullName; 정보">
+<!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label		"&brandShortName; 도움말">
 <!ENTITY productHelp.accesskey		"H">
 <!ENTITY helpForIEUsers.label "Internet Explorer 사용자">

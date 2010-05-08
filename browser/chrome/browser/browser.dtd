@@ -187,11 +187,14 @@
 <!ENTITY urlbar.history.emptyText     "방문 기록 검색">
 <!ENTITY urlbar.none.emptyText        "웹 주소 입력">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "탭 전환:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY openLinkCmd.label "새 창에 링크 열기">
 <!ENTITY openLinkCmd.accesskey "W">
+<!ENTITY openLinkCmdInCurrent.label     "링크 열기">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "새 탭에 링크 열기">
 <!ENTITY openLinkCmdInTab.accesskey "T">
 <!ENTITY openFrameCmd.label "새 창에 프레임 열기">
@@ -257,8 +260,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyLinkTextCmd.label "링크 텍스트 복사">
-<!ENTITY copyLinkTextCmd.accesskey "x">
 <!ENTITY copyImageCmd.label "그림 주소 복사">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "그림 복사">
