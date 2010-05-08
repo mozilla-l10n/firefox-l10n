@@ -49,23 +49,11 @@
 <!ENTITY certmgr.ca.builtins                  "Inbyggda CA">
 <!ENTITY certmgr.ca.mycas                     "CA som du hanterar">
 
-<!ENTITY certmgr.mine.search                  "Sök:">
-<!ENTITY certmgr.others.search                "Sök:">
-<!ENTITY certmgr.websites.search              "Sök:">
-<!ENTITY certmgr.cas.search                   "Sök:">
-<!ENTITY certmgr.orphans.search               "Sök:">
-
-<!ENTITY certmgr.mine.description             "Du har certifikat från dessa organisationer som identifierar dig:">
-<!ENTITY certmgr.others.description           "Du har certifikat lagrade som identifierar dessa personer:">
-<!ENTITY certmgr.websites.description         "Du har certifikat lagrade som identifierar dessa servrar:">
-<!ENTITY certmgr.cas.description              "Du har certifikat lagrade som identifierar dessa certifikatutfärdare:">
-<!ENTITY certmgr.orphans.description          "Du har certifikat lagrade som inte passar i någon av de andra kategorierna:">
-
-<!ENTITY certmgr.mine.filtered                "Matchar certifikat från dessa organisationer som identifierar dig:">
-<!ENTITY certmgr.others.filtered              "Matchar sparade certifikat som identifierar dessa personer:">
-<!ENTITY certmgr.websites.filtered            "Matchar sparade certifikat som identifierar dessa servrar:">
-<!ENTITY certmgr.cas.filtered                 "Matchar sparade certifikat som identifierar dessa certifikatutfärdare:">
-<!ENTITY certmgr.orphans.filtered             "Matchar sparade certifikat som inte passar i någon av de andra kategorierna:">
+<!ENTITY certmgr.mine                         "Du har certifikat från dessa organisationer som identifierar dig:">
+<!ENTITY certmgr.others                       "Du har certifikat lagrade som identifierar dessa personer:">
+<!ENTITY certmgr.websites2                    "Du har certifikat lagrade som identifierar dessa servrar:">
+<!ENTITY certmgr.cas                          "Du har certifikat lagrade som identifierar dessa certifikatutfärdare:">
+<!ENTITY certmgr.orphans                      "Du har certifikat lagrade som inte passar i någon av de andra kategorierna:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Allmänt">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
