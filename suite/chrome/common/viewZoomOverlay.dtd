@@ -11,4 +11,4 @@
 
 <!-- see zoomOtherLabel in viewZoomOverlay.properties -->
 <!ENTITY zoomMenu.accesskey         "z">
-<!ENTITY zoomOtherCmd.accesskey     "o">
+<!ENTITY zoomOtherCmd.accesskey     "A">

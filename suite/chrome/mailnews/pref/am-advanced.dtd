@@ -1,8 +1,7 @@
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Instellingen voor uitgaande server (SMTP)">
-
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Hoewel u meer dan één uitgaande server (SMTP) kunt opgeven, wordt dit alleen aangeraden voor ervaren gebruikers. Instellen van meerdere SMTP-servers kan fouten veroorzaken bij het verzenden van berichten.">
+<!ENTITY smtpDesc.label "Hoewel u meer dan één uitgaande server (SMTP) kunt opgeven, wordt dit alleen aangeraden aan ervaren gebruikers. Instellen van meerdere SMTP-servers kan fouten veroorzaken bij het verzenden van berichten.">
 
 <!ENTITY smtpListAdd.label "Toevoegen…">
 <!ENTITY smtpListAdd.accesskey "T">
@@ -18,4 +17,4 @@
 <!ENTITY serverPort.label "Poort: ">
 <!ENTITY userName.label "Gebruikersnaam: ">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging: ">
-<!ENTITY useSecureAuthentication.label "Beveiligde authenticatie: ">
+<!ENTITY authMethod.label   "Authenticatiemethode: ">

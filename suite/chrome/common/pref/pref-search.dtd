@@ -4,7 +4,7 @@
 <!ENTITY defaultSearchEngine.accesskey "Z">
 <!ENTITY openSidebarSearchPanel.label "Het tabblad Zoeken openen in Mijn Zijbalk wanneer zoekresultaten beschikbaar zijn">
 <!ENTITY openSidebarSearchPanel.accesskey "T">
-<!ENTITY openContextSearchTab.label "Open ene tabblad inplaats van een venster voor het contextmenu">
+<!ENTITY openContextSearchTab.label "Een tabblad in plaats van een venster openen bij zoeken vanuit het contextmenu">
 <!ENTITY openContextSearchTab.accesskey "t">
 <!ENTITY searchResults.label "Zoekresultaten">
 <!ENTITY sidebarSearchTabPref.label "Zijbalkzoektabbladvoorkeur">
