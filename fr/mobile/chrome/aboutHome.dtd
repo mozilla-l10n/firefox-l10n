@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2 "Modules pour &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla "À propos de Mozilla">
 <!ENTITY aboutHome.openAllTabs "Tout ouvrir dans des onglets">
+<!ENTITY aboutHome.noTabs                       "Aucun onglet à restaurer">
+<!ENTITY aboutHome.noAddons                     "Aucun module recommandé">
