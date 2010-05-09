@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,11 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Agenda">
 <!ENTITY calendar.calendar.accesskey "A">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip         "Een nieuwe gebeurtenis creëren" >
 <!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak creëren" >
@@ -85,20 +84,26 @@
 <!ENTITY calendar.unifinder.tree.duration.label      "Einddatum over">
 <!ENTITY calendar.unifinder.close.tooltip            "Gebeurtenissen zoeken en gebeurtenissenlijst sluiten">
 
-<!ENTITY calendar.today.button.tooltip            "Naar vandaag gaan" >
-<!ENTITY calendar.todaypane.button.tooltip        "Venster Vandaag tonen" >
+<!ENTITY calendar.today.button.tooltip          "Naar Vandaag gaan" >
+<!ENTITY calendar.todaypane.button.tooltip      "Venster Vandaag tonen" >
 
 <!ENTITY calendar.day.button.tooltip            "Naar dagoverzicht overschakelen" >
 <!ENTITY calendar.week.button.tooltip           "Naar weekoverzicht overschakelen" >
 <!ENTITY calendar.month.button.tooltip          "Naar maandoverzicht overschakelen" >
 <!ENTITY calendar.multiweek.button.tooltip      "Naar overzicht voor meerdere weken overschakelen" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Volgende dag" >
-<!ENTITY calendar.prevday.button.tooltip        "Vorige dag" >
-<!ENTITY calendar.nextweek.button.tooltip       "Volgende week" >
-<!ENTITY calendar.prevweek.button.tooltip       "Vorige week" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Volgende maand" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Vorige maand" >
+<!ENTITY calendar.nextday.label                 "Volgende dag" >
+<!ENTITY calendar.prevday.label                 "Vorige dag" >
+<!ENTITY calendar.nextday.accesskey             "V" >
+<!ENTITY calendar.prevday.accesskey             "o" >
+<!ENTITY calendar.nextweek.label                "Volgende week" >
+<!ENTITY calendar.prevweek.label                "Vorige week" >
+<!ENTITY calendar.nextweek.accesskey            "V" >
+<!ENTITY calendar.prevweek.accesskey            "o" >
+<!ENTITY calendar.nextmonth.label               "Volgende maand" >
+<!ENTITY calendar.prevmonth.label               "Vorige maand" >
+<!ENTITY calendar.nextmonth.accesskey           "V" >
+<!ENTITY calendar.prevmonth.accesskey           "o" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Eén dag vooruit" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Eén dag terug" >
@@ -156,6 +161,7 @@
 <!ENTITY calendar.task-details.status.label          "status">
 <!ENTITY calendar.task-details.category.label        "categorie">
 <!ENTITY calendar.task-details.repeat.label          "herhalen">
+<!ENTITY calendar.task-details.attachments.label     "bijlagen">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken categoriseren">
 <!ENTITY calendar.task.complete.button.tooltip  "Geselecteerde taken als voltooid markeren">
@@ -324,12 +330,18 @@
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Lay-out:">
 <!ENTITY calendar.print.range.label "Af te drukken">
-<!ENTITY calendar.print.currentview.label "Gebeurtenissen in huidige overzicht">
+<!ENTITY calendar.print.currentView2.label "Huidige overzicht">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Geselecteerde gebeurtenissen/taken">
+<!ENTITY calendar.print.tasks.label "Taken">
+<!ENTITY calendar.print.events.label "Gebeurtenissen">
 <!ENTITY calendar.print.selected.label "Geselecteerde gebeurtenissen">
 <!ENTITY calendar.print.custom.label "Aangepast datumbereik:">
 <!ENTITY calendar.print.from.label "Van:">
 <!ENTITY calendar.print.to.label "Tot:">
 <!ENTITY calendar.print.settingsGroup.label "Afdrukinstellingen">
+<!ENTITY calendar.print.optionsGroup.label "Opties">
+<!ENTITY calendar.print.taskswithnoduedate.label "Taken zonder einddatum">
+<!ENTITY calendar.print.completedtasks.label "Voltooide taken">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Details…">

@@ -90,17 +90,7 @@
 <!ENTITY calendar.menu.numberofweeks.6          "Zes weken">
 
 <!ENTITY goTodayCmd.label                       "Vandaag">
-<!ENTITY goTodayCmd.accesskey                   "V">
-
-<!ENTITY goPreviousCmd.day.label                "Vorige dag">
-<!ENTITY goPreviousCmd.week.label               "Vorige week">
-<!ENTITY goPreviousCmd.month.label              "Vorige maand">
-<!ENTITY goPreviousCmd.accesskey                "V">
-
-<!ENTITY goNextCmd.day.label                    "Volgende dag">
-<!ENTITY goNextCmd.week.label                   "Volgende week">
-<!ENTITY goNextCmd.month.label                  "Volgende maand">
-<!ENTITY goNextCmd.all.accesskey                "o">
+<!ENTITY goTodayCmd.accesskey                   "a">
 
 <!ENTITY showCurrentView.label                  "Huidig venster">
 <!ENTITY showCurrentView.accesskey              "H">
