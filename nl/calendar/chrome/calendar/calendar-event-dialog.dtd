@@ -20,13 +20,13 @@
    -
    - Contributor(s):
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
-   -   Michael Büttner <michael.buettner@sun.com>
+   -   Michael Buettner <michael.buettner@sun.com>
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Stefan Sitter <ssitter@gmail.com>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -49,44 +49,63 @@
 <!ENTITY newevent.to.label                  "Tot" >
 <!ENTITY newevent.attendees.notify.label    "Genodigden uitnodigen">
 
-<!ENTITY newevent.status.label                "Status" >
-<!ENTITY newevent.status.accesskey            "S" >
-<!ENTITY newevent.status.none.label           "Niet gespecificeerd" >
-<!ENTITY newevent.status.none.accesskey       "e" >
-<!ENTITY newevent.status.cancelled.label      "Geannuleerd" >
-<!ENTITY newevent.status.cancelled.accesskey  "G" >
-<!ENTITY newevent.status.tentative.label      "Voorlopig" >
-<!ENTITY newevent.status.tentative.accesskey  "V" >
-<!ENTITY newevent.status.confirmed.label      "Bevestigd" >
-<!ENTITY newevent.status.confirmed.accesskey  "B" >
-<!ENTITY newevent.status.needsaction.label    "Handeling vereist" >
-<!ENTITY newevent.status.inprogress.label     "Bezig" >
-<!ENTITY newevent.status.completed.label      "Voltooid op" >
+<!ENTITY newevent.status.label                    "Status" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "Niet gespecificeerd" >
+<!ENTITY newevent.eventStatus.none.accesskey      "e" >
+<!ENTITY newevent.todoStatus.none.label           "Niet gespecificeerd" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Geannuleerd" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "G" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Geannuleerd" >
+<!ENTITY newevent.status.tentative.label          "Voorlopig" >
+<!ENTITY newevent.status.tentative.accesskey      "V" >
+<!ENTITY newevent.status.confirmed.label          "Bevestigd" >
+<!ENTITY newevent.status.confirmed.accesskey      "B" >
+<!ENTITY newevent.status.needsaction.label        "Handeling vereist" >
+<!ENTITY newevent.status.inprogress.label         "Bezig" >
+<!ENTITY newevent.status.completed.label          "Voltooid op" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; voltooid">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Bestand">
-<!ENTITY  event.menu.file.accesskey                       "B">
-<!ENTITY  event.menu.file.new.label                       "Nieuw">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Gebeurtenis">
-<!ENTITY  event.menu.file.new.event.accesskey             "G">
-<!ENTITY  event.menu.file.new.message.label               "Bericht">
-<!ENTITY  event.menu.file.new.message.accesskey           "B">
-<!ENTITY  event.menu.file.new.contact.label               "Adresboekcontact">
-<!ENTITY  event.menu.file.new.contact.accesskey           "c">
-<!ENTITY  event.menu.file.close.label                     "Sluiten">
-<!ENTITY  event.menu.file.close.accesskey                 "S">
-<!ENTITY  event.menu.file.save.label                      "Opslaan">
-<!ENTITY  event.menu.file.save.accesskey                  "O">
+<!ENTITY  event.menu.item.new.label                       "Nieuw">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Gebeurtenis">
+<!ENTITY  event.menu.item.new.event.accesskey             "G">
+<!ENTITY  event.menu.item.new.task.label                  "Taak">
+<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.message.label               "Bericht">
+<!ENTITY  event.menu.item.new.message.accesskey           "B">
+<!ENTITY  event.menu.item.new.contact.label               "Adresboekcontact">
+<!ENTITY  event.menu.item.new.contact.accesskey           "c">
+<!ENTITY  event.menu.item.close.label                     "Sluiten">
+<!ENTITY  event.menu.item.close.accesskey                 "S">
+<!ENTITY  event.menu.item.save.label                      "Opslaan">
+<!ENTITY  event.menu.item.save.accesskey                  "O">
+<!ENTITY  event.menu.item.saveandclose.label              "Opslaan en sluiten">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "l">
 <!ENTITY  event.menu.item.delete.label                    "Verwijderen…">
 <!ENTITY  event.menu.item.delete.accesskey                "V">
-<!ENTITY  event.menu.file.page.setup.label                "Pagina-instellingen">
-<!ENTITY  event.menu.file.page.setup.accesskey            "i">
-<!ENTITY  event.menu.file.print.label                     "Afdrukken">
-<!ENTITY  event.menu.file.print.accesskey                 "d">
+<!ENTITY  event.menu.item.page.setup.label                "Pagina-instellingen">
+<!ENTITY  event.menu.item.page.setup.accesskey            "i">
+<!ENTITY  event.menu.item.print.label                     "Afdrukken">
+<!ENTITY  event.menu.item.print.accesskey                 "d">
 
 <!ENTITY  event.menu.edit.label                           "Bewerken">
 <!ENTITY  event.menu.edit.accesskey                       "w">
@@ -153,15 +172,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Beschikbaar">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "s">
 
-<!ENTITY event.help.label                                 "Help">
-<!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "Uitgaveopmerkingen">
-<!ENTITY event.help.release.notes.accesskey               "U">
-<!ENTITY event.help.help.label                            "&brandShortName; Help">
-<!ENTITY event.help.help.accesskey                        "H">
-<!ENTITY event.help.about.label                           "Over &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "O">
-
 <!ENTITY event.invite.attendees.label                     "Genodigden uitnodigen…">
 <!ENTITY event.invite.attendees.accesskey                 "G">
 <!ENTITY event.email.attendees.label                      "E-mail opstellen aan alle genodigden…">
@@ -179,17 +189,17 @@
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
-<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "Locatie:" >
-<!ENTITY event.location.accesskey                         "i">
+<!ENTITY event.location.accesskey                         "a">
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
 <!ENTITY event.calendar.label                             "Agenda:" >
-<!ENTITY event.calendar.accesskey                         "A">
+<!ENTITY event.calendar.accesskey                         "d">
 <!ENTITY event.attendees.label                            "Genodigden:" >
 <!ENTITY event.attendees.accesskey                        "G" >
 <!ENTITY event.alldayevent.label                          "De hele dag" >
-<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.alldayevent.accesskey                      "h">
 <!ENTITY event.from.label                                 "Begin:" >
 <!ENTITY event.from.accesskey                             "">
 <!ENTITY task.from.label                                  "Begin:" >
@@ -220,15 +230,13 @@
 <!ENTITY event.priority2.label                            "Prioriteit:">
 
 <!ENTITY event.reminder.none.label                        "Geen herinnering " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minuten van tevoren" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minuten van tevoren" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minuten van tevoren" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minuten van tevoren" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minuten van tevoren" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minuten van tevoren" >
 <!ENTITY event.reminder.1hour.before.label                "1 uur van tevoren" >
 <!ENTITY event.reminder.2hours.before.label               "2 uur van tevoren" >
-<!ENTITY event.reminder.5hours.before.label               "5 uur van tevoren" >
-<!ENTITY event.reminder.15hours.before.label              "15 uur van tevoren" >
+<!ENTITY event.reminder.12hours.before.label              "12 uur van tevoren" >
 <!ENTITY event.reminder.1day.before.label                 "1 dag van tevoren" >
 <!ENTITY event.reminder.2days.before.label                "2 dagen van tevoren" >
 <!ENTITY event.reminder.1week.before.label                "1 week van tevoren" >
@@ -338,7 +346,7 @@
 <!ENTITY event.recurrence.range.label                   "Herhalingsbereik">
 <!ENTITY event.recurrence.forever.label                 "Geen einddatum" >
 <!ENTITY event.recurrence.repeat.for.label              "" >
-<!ENTITY event.recurrence.appointments.label            "afspra(a)k(en) maken" >
+<!ENTITY event.recurrence.appointments.label            "afspraken maken" >
 <!ENTITY event.repeat.until.label                       "Herhalen tot" >
 <!ENTITY event.recurrence.preview.label                 "Voorbeeld">
 
@@ -359,6 +367,7 @@
 <!ENTITY event.attendee.role.required           "Vereiste genodigde">
 <!ENTITY event.attendee.role.optional           "Optionele genodigde">
 <!ENTITY event.attendee.role.chair              "Voorzitter">
+<!ENTITY event.attendee.role.nonparticipant     "Niet deelnemend">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Specificeer de tijdzone">
