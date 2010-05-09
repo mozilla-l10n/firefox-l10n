@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "給您 &brandShortName; 使用的附加元件">
 <!ENTITY aboutHome.aboutMozilla                 "關於 Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "全部用分頁開啟">
+<!ENTITY aboutHome.noTabs                       "沒有上一次開啟的分頁">
+<!ENTITY aboutHome.noAddons                     "沒有推薦的附加元件">
