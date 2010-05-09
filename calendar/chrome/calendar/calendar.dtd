@@ -46,11 +46,6 @@
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
-
 <!ENTITY calendar.newevent.button.tooltip         "Buat acara baru" >
 <!ENTITY calendar.newtask.button.tooltip          "Buat tugas baru" >
 
@@ -93,12 +88,18 @@
 <!ENTITY calendar.month.button.tooltip          "Pindah ke tampilan bulan" >
 <!ENTITY calendar.multiweek.button.tooltip      "Pindah ke tampilan multiminggu" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Hari Selanjutnya" >
-<!ENTITY calendar.prevday.button.tooltip        "Hari Sebelumnya" >
-<!ENTITY calendar.nextweek.button.tooltip       "Minggu Depan" >
-<!ENTITY calendar.prevweek.button.tooltip       "Minggu Sebelumnya" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Bulan Depan" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Bulan Sebelumnya" >
+<!ENTITY calendar.nextday.label                 "Hari Selanjutnya" >
+<!ENTITY calendar.prevday.label                 "Hari Sebelumnya" >
+<!ENTITY calendar.nextday.accesskey             "t" >
+<!ENTITY calendar.prevday.accesskey             "m" >
+<!ENTITY calendar.nextweek.label                "Minggu Depan" >
+<!ENTITY calendar.prevweek.label                "Minggu Sebelumnya" >
+<!ENTITY calendar.nextweek.accesskey            "t" >
+<!ENTITY calendar.prevweek.accesskey            "m" >
+<!ENTITY calendar.nextmonth.label               "Bulan Depan" >
+<!ENTITY calendar.prevmonth.label               "Bulan Sebelumnya" >
+<!ENTITY calendar.nextmonth.accesskey           "t" >
+<!ENTITY calendar.prevmonth.accesskey           "m" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Maju Satu Hari" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Mundur Satu Hari" >
@@ -156,6 +157,7 @@
 <!ENTITY calendar.task-details.status.label          "Status:">
 <!ENTITY calendar.task-details.category.label        "Kategori:">
 <!ENTITY calendar.task-details.repeat.label          "Diulang:">
+<!ENTITY calendar.task-details.attachments.label     "Lampiran">
 
 <!ENTITY calendar.task.category.button.tooltip  "Masukkan tugas ke kategori">
 <!ENTITY calendar.task.complete.button.tooltip  "Tandar selesai pada tugas terpilih ">
@@ -323,13 +325,20 @@
 <!ENTITY calendar.print.window.title "Cetak Kalender">
 <!ENTITY calendar.print.title.label "Judul:">
 <!ENTITY calendar.print.layout.label "Layout:">
-<!ENTITY calendar.print.range.label "Yang akan Dicetak">
-<!ENTITY calendar.print.currentview.label "Acara pada tampilan sekarang">
-<!ENTITY calendar.print.selected.label "Acara yang dipilih">
-<!ENTITY calendar.print.custom.label "Jangkauan Tanggal Khusus">
-<!ENTITY calendar.print.from.label "Dari:">
-<!ENTITY calendar.print.to.label "Kepada:">
+<!ENTITY calendar.print.range.label "Yang akan DicetakWhat to Print">
+<!ENTITY calendar.print.currentView2.label "Tampilan Sekarang">
+<!ENTITY calendar.print.completedtasks.label "Tugas yang selesai">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Acara/tugas terpilih">
+<!ENTITY calendar.print.tasks.label "Tugas">
+<!ENTITY calendar.print.events.label "Acara">
+<!ENTITY calendar.print.selected.label "Acara terpilih">
+<!ENTITY calendar.print.custom.label "Rentang waktu tertentu:">
+<!ENTITY calendar.print.from.label "Sejak:">
+<!ENTITY calendar.print.to.label "Hingga:">
 <!ENTITY calendar.print.settingsGroup.label "Pengaturan Cetak">
+<!ENTITY calendar.print.optionsGroup.label "Pilihan">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tugas tanpa tenggat waktu">
+<!ENTITY calendar.print.completedtasks.label "Tugas yang selesai">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detail…">

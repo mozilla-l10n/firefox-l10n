@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "Hari Ini">
 <!ENTITY goTodayCmd.accesskey                   "H">
 
-<!ENTITY goPreviousCmd.day.label                "Hari Sebelumnya">
-<!ENTITY goPreviousCmd.week.label               "Hari Selanjutnya">
-<!ENTITY goPreviousCmd.month.label              "Bulan Sebelumnya">
-<!ENTITY goPreviousCmd.accesskey                "S">
-
-<!ENTITY goNextCmd.day.label                    "Hari Selanjutnya">
-<!ENTITY goNextCmd.week.label                   "Minggu Selanjutnya">
-<!ENTITY goNextCmd.month.label                  "Bulan Selanjutnya">
-<!ENTITY goNextCmd.all.accesskey                "e">
-
 <!ENTITY showCurrentView.label                  "Tampilan Sekarang">
 <!ENTITY showCurrentView.accesskey              "T">
 
