@@ -60,15 +60,8 @@
 <!ENTITY  privateBrowsingPermanent.label "Gør Private browsing-tilstand permanent">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Husk min browsinghistorik i mindst">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberHistory.post.label     "dage">
+<!ENTITY  rememberHistory.label      "Husk min browsinghistorik">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Husk filhentningshistorik">
 <!ENTITY  rememberDownload.accesskey     "H">

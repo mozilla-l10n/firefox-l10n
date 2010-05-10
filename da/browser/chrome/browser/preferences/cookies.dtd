@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label          "Følgende cookies er gemt på din computer:">
 <!ENTITY cookiename.label               "Cookie navn">
 <!ENTITY cookiedomain.label             "Side">
+<!ENTITY button.removecookies.label     "Fjern cookies">
 <!ENTITY button.removecookie.label      "Fjern cookie">
 <!ENTITY button.removecookie.accesskey  "F">
 <!ENTITY button.removeallcookies.label  "Fjern alle cookies">

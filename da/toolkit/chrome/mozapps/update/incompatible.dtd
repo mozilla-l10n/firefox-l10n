@@ -1,8 +1,0 @@
-<!ENTITY incompatible.title        "Inkompatible elementer">
-<!ENTITY incompatible.intro        "Følgende elementer er ikke kompatible med denne opdatering til &brandShortName; og vil blive frakoblet efter installation af opdatering:">
-<!ENTITY incompatible.update       "&brandShortName; vil periodisk søge efter opdateringer til dem, i tilfælde af at en kompatibel version bliver tilgængelig.">
-<!ENTITY incompatible.suffix       "&brandShortName; opdateringer indeholder vigtige sikkerhedsforbedringer. Det anbefales kraftigt at du opdaterer &brandShortName; selv om nogle af dine udvidelser og temaer er inkompatible, for sikre maksimal beskyttelse når du browser på nettet.">
-
-<!ENTITY closebutton.label         "Luk">
-                                     
-                                     
