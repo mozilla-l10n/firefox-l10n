@@ -1,19 +1,27 @@
 <!ENTITY about.version                "version">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2009">
-<!ENTITY about.copy.linkTitle         "Mozilla projektets bidragydere">
-<!ENTITY about.copy.afterLink         ".">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "Se en oversigt over Mozilla-projektets ">
+<!ENTITY about.credits.linkTitle      "bidragydere">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      ".">
 
-<!ENTITY about.license.beforeLink     "Læs dette produkts">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.license.beforeTheLink  "Læs dette produkts ">
 <!ENTITY about.license.linkTitle      "licensinformation">
-<!ENTITY about.license.afterLink      ".">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   ".">
 
-<!ENTITY about.relnotes.beforeLink    "Læs">
-<!ENTITY about.relnotes.linkTitle     "udgivelsesnoterne">
-<!ENTITY about.relnotes.afterLink     "for denne version.">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.relnotes.beforeTheLink "Læs ">
+<!ENTITY about.relnotes.linkTitle     "udgivelsesnoter">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  " for denne version.">
 
-<!ENTITY about.buildconfig.beforeLink "Se">
-<!ENTITY about.buildconfig.linkTitle  "build-konfigurationen">
-<!ENTITY about.buildconfig.afterLink  "for denne version.">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "Se ">
+<!ENTITY about.buildconfig.linkTitle     "build-konfigurationen">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " for denne version.">
 
 <!ENTITY about.buildIdentifier        "Build-identifikation: ">

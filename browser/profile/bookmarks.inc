@@ -7,10 +7,6 @@
 #define bookmarks_title Bogmærker
 #define bookmarks_heading Bogmærker
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Hent bogmærketilføjelser
-
 #define bookmarks_toolbarfolder Bogmærkelinjen
 #define bookmarks_toolbarfolder_description Tilføj bogmærker til denne mappe for at se dem i Bogmærkelinjen
 

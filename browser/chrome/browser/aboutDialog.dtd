@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion               "version">
 <!ENTITY closeCmdGNOME.label        "Luk">  
 <!ENTITY closeCmdGNOME.accesskey    "L">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Bidragydere. Alle rettigheder forbeholdes. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Licensinformation">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">

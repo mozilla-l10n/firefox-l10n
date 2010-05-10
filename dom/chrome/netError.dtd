@@ -80,6 +80,9 @@
 <p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokkeret grundet indholdssikkerhedshedspolitik">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst på denne måde da da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "L">
 <!ENTITY certmgr.view2.label                  "Vis…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Rediger…">
-<!ENTITY certmgr.edit2.accesskey              "R">
+<!ENTITY certmgr.edit3.label                  "Rediger Tillid…">
+<!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Rediger CA-tillid">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Tilføj">
@@ -115,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Slet…">
 <!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete_builtin.label         "Slet eller fjern tillid…">
+<!ENTITY certmgr.delete_builtin.accesskey     "S">
 <!ENTITY certmgr.backup2.label                "Lav sikkerhedskopi…">
 <!ENTITY certmgr.backup2.accesskey            "k">
 <!ENTITY certmgr.backupall2.label             "Lav sikkerhedskopi af alle…">

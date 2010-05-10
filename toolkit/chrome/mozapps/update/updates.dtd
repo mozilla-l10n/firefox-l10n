@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Softwareopdatering">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Tjekker for opdateringer">
 <!ENTITY  updateCheck.label               "Søger efter nyere versioner af &brandShortName;…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Inkompatible tilføjelser fundet">
 
-<!ENTITY  downloading.title               "Henter opdatering">
+<!ENTITY  downloadPage.title              "Henter &brandShortName;">
 <!ENTITY  downloading.intro               "Henter opdateringen…">
 <!ENTITY  connecting.label                "Forbinder til opdateringsserveren…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; kunne ikke bekræfte integriteten af den

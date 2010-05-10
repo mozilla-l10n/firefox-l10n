@@ -1,4 +1,4 @@
- <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -10,6 +10,28 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
+
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Nyt faneblad">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "Genindlæs faneblad">
+<!ENTITY  reloadTab.accesskey                "G">
+<!ENTITY  reloadAllTabs.label                "Genindlæs alle faneblade">
+<!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  closeOtherTabs.label               "Luk øvrige faneblade">
+<!ENTITY  closeOtherTabs.accesskey           "ø">
+<!ENTITY  openTabInNewWindow.label           "Åbn i et nyt vindue">
+<!ENTITY  openTabInNewWindow.accesskey       "v">
+<!ENTITY  bookmarkThisTab.label              "Bogmærk dette faneblad">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
+<!ENTITY  bookmarkAllTabs.accesskey          "o">
+<!ENTITY  undoCloseTab.label                 "Fortryd lukning af faneblad">
+<!ENTITY  undoCloseTab.accesskey             "F">
+<!ENTITY  closeTab.label                     "Luk faneblad">
+<!ENTITY  closeTab.accesskey                 "L">
+
+<!ENTITY  listAllTabs.label      "List alle faneblade">
 
 <!ENTITY tabCmd.label "Nyt faneblad">
 <!ENTITY tabCmd.accesskey "f">
@@ -131,7 +153,6 @@
 <!ENTITY downloads.commandkey         "y">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tilføjelser">
-<!ENTITY addons.tooltip               "Vis og håndter installerede tilføjelser">
 <!ENTITY addons.accesskey             "t">
 
 <!ENTITY errorConsoleCmd.label        "Fejlkonsol">
@@ -172,8 +193,8 @@
 <!ENTITY preferencesCmdUnix.label       "Præferencer">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Ryd historik">
-<!ENTITY clearRecentHistoryCmd.accesskey        "h">
+<!ENTITY clearRecentHistory.label               "Ryd nylig historik…">
+<!ENTITY clearRecentHistory.accesskey           "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Start Privat browsing">
@@ -190,6 +211,8 @@
 <!ENTITY viewSidebarMenu.accesskey "b">
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
+<!ENTITY viewTabsOnTop.label            "Faneblade øverst">
+<!ENTITY viewTabsOnTop.accesskey        "ø">
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "i">
@@ -207,6 +230,7 @@
 <!ENTITY urlbar.history.emptyText     "Søg i historik">
 <!ENTITY urlbar.none.emptyText        "Indtast en webadresse">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Skift til faneblad:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -308,8 +332,6 @@
 <!ENTITY sendAudioCmd.accesskey       "S">
 <!ENTITY copyLinkCmd.label            "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyLinkTextCmd.label        "Kopier linktekst">
-<!ENTITY copyLinkTextCmd.accesskey    "t">
 <!ENTITY copyImageCmd.label           "Kopier billedadresse">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyImageContentsCmd.label   "Kopier billede">
