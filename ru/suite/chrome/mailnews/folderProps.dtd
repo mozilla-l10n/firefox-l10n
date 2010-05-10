@@ -44,9 +44,12 @@
 <!ENTITY folderCharsetTab.accesskey "К">
 <!ENTITY folderCharsetOverride.label "Использовать как кодировку по умолчанию для всех сообщений в папке (игнорировать кодировки, определённые для отдельных сообщений, и автоопределение).">
 <!ENTITY folderCharsetOverride.accesskey "у">
-<!ENTITY folderRebuildSummaryFile.label "Перестроить индексный файл">
-<!ENTITY folderRebuildSummaryFile.accesskey "П">
-<!ENTITY folderRebuildSummaryFileTip.label "Перестроить индексный файл">
+<!ENTITY folderRebuildSummaryFileTip2.label "Перестроить файл индекса">
+<!ENTITY folderRebuildSummaryFile2.label "Починить папку">
+<!ENTITY folderRebuildSummaryFile2.accesskey "ч">
+<!ENTITY folderRebuildSummaryFile.explanation "Иногда файл с индексом папки (.msf) становится повреждённым, и сообщения могут казаться пропавшими, либо могут появляться удалённые сообщения; починка папки может решить эти проблемы.">
+<!ENTITY folderIncludeInGlobalSearch.label "Включать сообщения в этой папке в результаты Глобального Поиска">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "к">
 <!ENTITY retention.label "Настройки хранения сообщений">
 <!ENTITY retentionUseAccount.label "Использовать параметры моей учётной записи">
 <!ENTITY retentionUseAccount.accesskey "п">
@@ -65,8 +68,8 @@
 <!ENTITY retentionApplyToFlagged.label "Всегда сохранять сообщения, отмеченные флагом">
 <!ENTITY retentionApplyToFlagged.accesskey "р">
 <!ENTITY folderSynchronizationTab.label "Синхронизация">
-<!ENTITY folderCheckForNewMessages.label "Проверять эту папку на наличие новых сообщений">
-<!ENTITY folderCheckForNewMessages.accesskey "П">
+<!ENTITY folderCheckForNewMessages2.label "При получении новых сообщений для этой учётной записи всегда проверять эту папку">
+<!ENTITY folderCheckForNewMessages2.accesskey "л">
 <!ENTITY offlineFolder.check.label "Выбрать эту папку для автономной работы">
 <!ENTITY offlineFolder.check.accesskey "В">
 <!ENTITY offlineFolder.button.label "Загрузить">
