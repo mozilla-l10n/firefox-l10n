@@ -28,6 +28,7 @@
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Simon Paquet <bugzilla@babylonsounds.com>
    -   Iacopo Benesperi
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -128,9 +129,11 @@
 <!ENTITY aboutCmd.accesskey "o">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
 <!ENTITY updateCmd.accesskey "a">
+<!ENTITY sunbird.export.calendar.label "Esporta calendario…">
+<!ENTITY sunbird.export.calendar.accesskey "E">
 <!ENTITY windowMenu.label "Finestra">
 <!ENTITY minimizeWindow.label "Contrai">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY zoomWindow.label "Ridimensiona">
 <!ENTITY minimizeWindow.key "C">
 <!ENTITY bringAllToFront.label "Porta tutto in primo piano">
 <!ENTITY servicesMenuMac.label "Servizi">

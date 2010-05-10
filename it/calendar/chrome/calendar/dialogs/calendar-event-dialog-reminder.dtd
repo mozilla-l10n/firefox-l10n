@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -   Iacopo Benesperi
    -   
    -
@@ -36,15 +35,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.mainbox.label "Impostazioni generali">
-<!ENTITY pref.dateformat.label "Formato testo data:">
-<!ENTITY pref.dateformat.accesskey "F">
-<!ENTITY pref.dateformat.long "Lungo">
-<!ENTITY pref.dateformat.short "Corto">
-<!ENTITY pref.defaultlength.label "Durata predefinita evento:">
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label "Durata predefinita snooze:">
-<!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Impostazioni ricarica">
-<!ENTITY pref.autorefresh.label "Ricarica calendari ogni">
-<!ENTITY pref.autorefresh.accesskey "R">
+<!ENTITY reminderdialog.title "Imposta promemoria">
+<!ENTITY reminder.add.label "Aggiungi">
+<!ENTITY reminder.add.accesskey "A">
+<!ENTITY reminder.remove.label "Rimuovi">
+<!ENTITY reminder.remove.accesskey "R">
+<!ENTITY reminder.reminderDetails.label "Dettagli promemoria">
+<!ENTITY reminder.action.label "Scegliere un'azione per il promemoria">
+<!ENTITY reminder.relation.before.label "prima">
+<!ENTITY reminder.relation.after.label "dopo">
+<!ENTITY reminder.action.alert.label "Mostra un avviso">
+<!ENTITY reminder.action.email.label "Invia una e-mail">
+<!ENTITY alarm.units.minutes "minuti">
+<!ENTITY alarm.units.hours "ore">
+<!ENTITY alarm.units.days "giorni">
