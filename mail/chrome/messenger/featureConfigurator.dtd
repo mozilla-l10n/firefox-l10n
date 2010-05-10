@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "使用此頁面以設定這些新功能。您可以從說明選單回到此升級助手頁面。">
 
 <!ENTITY featureConfigurator.toolbar.heading "新工具列">
-<!ENTITY featureConfigurator.toolbar.new.status "使用新工具列。">
+<!ENTITY featureConfigurator.toolbar.new "使用新工具列。">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "簡潔的工具列，讓您可以快速點擊工具列上的按鈕">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "使用原本的工具列。">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "使用原本的工具列。">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "保留任何自訂的工具列按鈕到新的訊息按鈕之中。">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "一些功能像是回覆和轉寄已經從工具列被移動到每封訊息自己的的檔頭。這樣可以提供您工具列更多的空間給搜尋框與附加元件。">
