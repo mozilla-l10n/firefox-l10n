@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Brûk dizze side om dizze nije ynstellings te konfigurearjen. Jo kinne altyd weromkomme nei de Migraasje-assistint fanút it Helpmenu.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nije berjochte-arkbalke">
-<!ENTITY featureConfigurator.toolbar.new.status "Gebrûk fan de nije arkbalke.">
+<!ENTITY featureConfigurator.toolbar.new "Berjochtknoppenarkbalke.">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "In skjinnere arkbalke mei al jo berjochtknoppen binnen hânberyk.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Brûk de orizjinele arkbalke.">
+<!ENTITY featureConfigurator.toolbar.original "Hâld de orizjinele arkbalkknoppen.">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Hâld de eigen arkbalkeknoppen neist de nije berjochtknoppen.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Berjochtaksjes lykas antwurdzje en trochstjoere binne ferpleatst fan de arkbalke nei de kop it berjocht sels. Dit bynt de aksjes daliks oan it berjocht, wat mear romte oerlit yn de arkbalke foar it sykfek, as ek foar tafoegings.">
