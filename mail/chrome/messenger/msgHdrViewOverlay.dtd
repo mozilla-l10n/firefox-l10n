@@ -51,26 +51,26 @@
 <!ENTITY dateField2.label "data ">
 <!ENTITY userAgentField2.label "user-agent ">
 <!ENTITY referencesField2.label "referências ">
-<!ENTITY messageIdField2.label "id da mensagem ">
+<!ENTITY messageIdField2.label "ID da mensagem ">
 <!ENTITY inReplyToField2.label "em resposta a ">
 <!ENTITY originalWebsite2.label "sítio web ">
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar…">
-<!ENTITY hdrArchiveButton.label "arquivar">
-<!ENTITY hdrArchiveButton.tooltip "arquivar esta mensagem">
-<!ENTITY hdrReplyButton.label "responder">
-<!ENTITY hdrReplyButton.tooltip "responder a esta mensagem">
-<!ENTITY hdrReplyAllButton.label "responder a todos">
-<!ENTITY hdrReplyAllButton.tooltip "responder ao remetente e a todos os destinatários">
-<!ENTITY hdrReplyListButton.label "responder à lista">
-<!ENTITY hdrReplyListButton.tooltip "responder a lista de correio">
-<!ENTITY hdrForwardButton.label "reencaminhar">
-<!ENTITY hdrForwardButton.tooltip "reencaminhar esta mensagem">
-<!ENTITY hdrJunkButton.label "lixo">
-<!ENTITY hdrJunkButton.tooltip "marcar esta mensagem como lixo">
-<!ENTITY hdrTrashButton.label "eliminar">
-<!ENTITY hdrTrashButton.tooltip "eliminar esta mensagem">
+<!ENTITY hdrArchiveButton.label "Arquivar">
+<!ENTITY hdrArchiveButton.tooltip "Arquiva esta mensagem">
+<!ENTITY hdrReplyButton.label "Responder">
+<!ENTITY hdrReplyButton.tooltip "Responder a esta mensagem">
+<!ENTITY hdrReplyAllButton.label "Responder a todos">
+<!ENTITY hdrReplyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
+<!ENTITY hdrReplyListButton.label "Responder à lista">
+<!ENTITY hdrReplyListButton.tooltip "Responder a lista de correio">
+<!ENTITY hdrForwardButton.label "Reencaminhar">
+<!ENTITY hdrForwardButton.tooltip "Reencaminhar esta mensagem">
+<!ENTITY hdrJunkButton.label "Lixo">
+<!ENTITY hdrJunkButton.tooltip "Marcar esta mensagem como lixo">
+<!ENTITY hdrTrashButton.label "Eliminar">
+<!ENTITY hdrTrashButton.tooltip "Eliminar esta mensagem">
 
 <!ENTITY hdrViewToolbarShowFull.label "Mostrar ícones e texto">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
