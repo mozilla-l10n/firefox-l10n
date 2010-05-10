@@ -27,6 +27,7 @@
    -                 Philipp Kewisch <mozilla@kewis.ch>
    -                 Simon Paquet <bugzilla@babylonsounds.com>
    -   Iacopo Benesperi
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -56,16 +57,14 @@
 <!ENTITY calendar.import.label "Importa…">
 <!ENTITY calendar.import.key "m">
 <!ENTITY calendar.import.accesskey "m">
-<!ENTITY calendar.export.calendar.label "Esporta calendario…">
-<!ENTITY calendar.export.calendar.accesskey "c">
+<!ENTITY calendar.export.label "Esporta…">
+<!ENTITY calendar.export.accesskey "E">
 <!ENTITY calendar.export.selection.label "Esporta selezione…">
 <!ENTITY calendar.export.selection.accesskey "n">
 <!ENTITY calendar.publish.label "Pubblica…">
 <!ENTITY calendar.publish.accesskey "b">
-<!ENTITY calendar.toolbar.label "Barra degli strumenti calendario">
-<!ENTITY calendar.toolbar.accesskey "B">
-<!ENTITY task.toolbar.label "Barra strumenti attività">
-<!ENTITY task.toolbar.accesskey "v">
+<!ENTITY calendar.deletecalendar.label "Elimina il calendario selezionato…">
+<!ENTITY calendar.deletecalendar.accesskey "m">
 <!ENTITY calendar.menu.customize.label "Personalizza…">
 <!ENTITY calendar.menu.customize.accesskey "P">
 <!ENTITY showUnifinderCmd.label "Trova eventi">
@@ -80,17 +79,6 @@
 <!ENTITY calendar.menu.numberofweeks.6 "Sei settimane">
 <!ENTITY goTodayCmd.label "Vai a oggi">
 <!ENTITY goTodayCmd.accesskey "o">
-<!ENTITY goPreviousCmd.day.label "Giorno precedente">
-<!ENTITY goPreviousCmd.week.label "Settimana precedente">
-<!ENTITY goPreviousCmd.month.label "Mese precedente">
-<!ENTITY goPreviousCmd.accesskey "e">
-<!ENTITY goNextCmd.day.label "Giorno successivo">
-<!ENTITY goNextCmd.week.label "Settimana successiva">
-<!ENTITY goNextCmd.month.label "Mese successivo">
-<!ENTITY goNextCmd.all.accesskey "u">
-<!ENTITY addressBookCmd.label "Rubrica">
-<!ENTITY addressBookCmd.accesskey "R">
-<!ENTITY calendar.importcalendar.label "Importa calendario…">
 <!ENTITY showCurrentView.label "Vista corrente">
 <!ENTITY showCurrentView.accesskey "V">
 <!ENTITY calendar.properties.label "Proprietà calendario…">

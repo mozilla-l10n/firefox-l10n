@@ -22,6 +22,7 @@
    - Contributor(s): Matthew Willis <mattwillis@gmail.com>
    -                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
    -   Iacopo Benesperi
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,13 +37,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
-<!ENTITY copyright.label "Crediti">
-<!ENTITY copyright.accesskey "C">
-<!ENTITY aboutLink.label "&lt; Crediti">
-<!ENTITY aboutLink.accesskey "C">
+<!ENTITY aboutDialog.title "&brandFullName;">
+<!ENTITY copyright.label "Riconoscimenti">
+<!ENTITY copyright.accesskey "R">
+<!ENTITY aboutLink.label "&lt; Informazioni">
+<!ENTITY aboutLink.accesskey "n">
 <!ENTITY aboutVersion "versione">
-<!ENTITY copyrightText "©1998-2008 Collaboratori. Tutti i diritti
+<!ENTITY copyrightText "©1998-2010 Collaboratori. Tutti i diritti
                                  riservati. Mozilla Sunbird, Sunbird, e il
                                  logo Sunbird sono marchi registrati della
                                  Mozilla Foundation. Tutti i diritti riservati.">

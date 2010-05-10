@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Iacopo Benesperi
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -41,12 +42,24 @@
 <!ENTITY sunbird.print.button.tooltip "Stampa calendario">
 <!ENTITY sunbird.delete.button.tooltip "Elimina l'evento selezionato">
 <!ENTITY sunbird.remotereload.button.tooltip "Ricarica tutti i calendari remoti">
+<!ENTITY sunbird.import.button.tooltip "Importa gli eventi da un file locale">
+<!ENTITY sunbird.export.button.tooltip "Esporta gli eventi in un file locale">
+<!ENTITY sunbird.subscribe.button.tooltip "Sottoscrive il calendario di una macchina remota">
+<!ENTITY sunbird.publish.button.tooltip "Pubblica gli eventi su una macchina remota">
+<!ENTITY sunbird.unifinder.button.tooltip "Trova ed elenca gli eventi">
+<!ENTITY sunbird.edit.button.tooltip "Modifica l'evento selezionato">
 <!ENTITY sunbird.choosedate.button.label "Vai alla data">
 <!ENTITY sunbird.cut.button.label "Taglia">
 <!ENTITY sunbird.copy.button.label "Copia">
 <!ENTITY sunbird.paste.button.label "Incolla">
 <!ENTITY sunbird.delete.button.label "Elimina">
 <!ENTITY sunbird.remotereload.button.label "Ricarica">
+<!ENTITY sunbird.import.button.label "Importa">
+<!ENTITY sunbird.export.button.label "Esporta">
+<!ENTITY sunbird.subscribe.button.label "Sottoscrivi">
+<!ENTITY sunbird.publish.button.label "Pubblica">
+<!ENTITY sunbird.unifinder.button.label "Trova eventi">
+<!ENTITY sunbird.edit.button.label "Modifica">
 <!ENTITY sunbird.flat.topbar.choosedate "Vai alla data">
 <!ENTITY sunbird.flat.topbar.dayview "Vista giorno">
 <!ENTITY sunbird.flat.topbar.weekview "Vista settimana">
