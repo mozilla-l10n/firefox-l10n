@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Весь день">
 <!ENTITY calendar.invitations.list.location.text                        "Место: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Организатор: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Участник: ">
 <!ENTITY calendar.invitations.list.none.text                            "нет">

@@ -49,19 +49,21 @@
 <!ENTITY newevent.to.label                  "По" >
 <!ENTITY newevent.attendees.notify.label    "Уведомить участников">
 
-<!ENTITY newevent.status.label                "Состояние" >
-<!ENTITY newevent.status.accesskey            "я" >
-<!ENTITY newevent.status.none.label           "Не указано" >
-<!ENTITY newevent.status.none.accesskey       "Н" >
-<!ENTITY newevent.status.cancelled.label      "Отменено" >
-<!ENTITY newevent.status.cancelled.accesskey  "О" >
-<!ENTITY newevent.status.tentative.label      "Уточняется" >
-<!ENTITY newevent.status.tentative.accesskey  "У" >
-<!ENTITY newevent.status.confirmed.label      "Подтверждено" >
-<!ENTITY newevent.status.confirmed.accesskey  "П" >
-<!ENTITY newevent.status.needsaction.label    "В ожидании" >
-<!ENTITY newevent.status.inprogress.label     "Выполняется" >
-<!ENTITY newevent.status.completed.label      "Выполнено" >
+<!ENTITY newevent.status.label                    "Состояние" >
+<!ENTITY newevent.status.accesskey                "я" >
+<!ENTITY newevent.eventStatus.none.label          "Не указано" >
+<!ENTITY newevent.eventStatus.none.accesskey      "Н" >
+<!ENTITY newevent.todoStatus.none.label           "Не указано" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Отменено" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "О" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Отменено" >
+<!ENTITY newevent.status.tentative.label          "Уточняется" >
+<!ENTITY newevent.status.tentative.accesskey      "У" >
+<!ENTITY newevent.status.confirmed.label          "Подтверждено" >
+<!ENTITY newevent.status.confirmed.accesskey      "П" >
+<!ENTITY newevent.status.needsaction.label        "В ожидании" >
+<!ENTITY newevent.status.inprogress.label         "Выполняется" >
+<!ENTITY newevent.status.completed.label          "Выполнено" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
