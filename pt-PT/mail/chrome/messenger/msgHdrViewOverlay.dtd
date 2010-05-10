@@ -60,17 +60,17 @@
 <!ENTITY hdrArchiveButton.label "Arquivar">
 <!ENTITY hdrArchiveButton.tooltip "Arquiva esta mensagem">
 <!ENTITY hdrReplyButton.label "Responder">
-<!ENTITY hdrReplyButton.tooltip "Responder a esta mensagem">
+<!ENTITY hdrReplyButton.tooltip "Responde a esta mensagem">
 <!ENTITY hdrReplyAllButton.label "Responder a todos">
-<!ENTITY hdrReplyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
+<!ENTITY hdrReplyAllButton.tooltip "Responde ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton.label "Responder à lista">
 <!ENTITY hdrReplyListButton.tooltip "Responder a lista de correio">
 <!ENTITY hdrForwardButton.label "Reencaminhar">
-<!ENTITY hdrForwardButton.tooltip "Reencaminhar esta mensagem">
+<!ENTITY hdrForwardButton.tooltip "Reencaminha esta mensagem">
 <!ENTITY hdrJunkButton.label "Lixo">
-<!ENTITY hdrJunkButton.tooltip "Marcar esta mensagem como lixo">
+<!ENTITY hdrJunkButton.tooltip "Marca esta mensagem como lixo">
 <!ENTITY hdrTrashButton.label "Eliminar">
-<!ENTITY hdrTrashButton.tooltip "Eliminar esta mensagem">
+<!ENTITY hdrTrashButton.tooltip "Elimina esta mensagem">
 
 <!ENTITY hdrViewToolbarShowFull.label "Mostrar ícones e texto">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
