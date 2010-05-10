@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Sie können die neuen Einstellungen mit diesem Assistenten anpassen und auch nachträglich den Migrationsassistenten jederzeit erneut über das Hilfe-Menü aufrufen.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Neue Nachrichten-Symbolleiste">
-<!ENTITY featureConfigurator.toolbar.new.status "Schaltflächen im Kopfzeilenbereich">
+<!ENTITY featureConfigurator.toolbar.new "Schaltflächen im Kopfzeilenbereich">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Relevante Funktionen ohne Umweg nur in der Nachrichten-Symbolleiste anzeigen.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Die Hauptsymbolleiste unverändert lassen">
+<!ENTITY featureConfigurator.toolbar.original "Die Hauptsymbolleiste unverändert lassen">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Die bisherige Auswahl der Schaltlfächen in der Hauptsymbolleiste bleibt unverändert.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Funktionen wie &quot;Antworten&quot; und &quot;Weiterleiten&quot; wurden aus der Hauptsymbolleiste in den Anzeigebereich der Kopfzeilen verschoben. In der Hauptsymbolleiste kann so mehr Platz für das Sucheingabefeld und Add-ons bleiben.">
