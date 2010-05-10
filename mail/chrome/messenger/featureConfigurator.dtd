@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Use esta página para configurar estas nuevas características. Siempre puede volver al Asistente de migración desde el menú Ayuda.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nueva barra de mensajes">
-<!ENTITY featureConfigurator.toolbar.new.status "Nueva barra de botones de mensaje">
+<!ENTITY featureConfigurator.toolbar.new "Barra de botones de mensaje">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Una barra de herramientas sencilla con todos los botones de mensajería en la punta de sus dedos.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Mantener los botones originales de la barra de herramientas">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Mantener los botones originales de la barra de herramientas">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantener los botones personalizados de la barra de herramientas en adición a los nuevos botones de mensaje.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Las acciones de mensaje como responder y reenviar se movieron de la barra de herramientas al encabezado mismo del mensaje. Esto ata los botones de acción directamente al mensaje, lo que deja más lugar en la barra de herramientas para la caja de búsquedas, com también para agregados.">
