@@ -49,44 +49,63 @@
 <!ENTITY newevent.to.label                  "Til" >
 <!ENTITY newevent.attendees.notify.label    "Varsle deltakere">
 
-<!ENTITY newevent.status.label              "Status" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Ikke oppgitt" >
-<!ENTITY newevent.status.none.accesskey       "k" >
-<!ENTITY newevent.status.cancelled.label    "Avlyst" >
-<!ENTITY newevent.status.cancelled.accesskey  "A" >
-<!ENTITY newevent.status.tentative.label    "Tentativ" >
-<!ENTITY newevent.status.tentative.accesskey  "T" >
-<!ENTITY newevent.status.confirmed.label    "Bekreftet" >
-<!ENTITY newevent.status.confirmed.accesskey  "B" >
-<!ENTITY newevent.status.needsaction.label  "Trenger handling" >
-<!ENTITY newevent.status.inprogress.label   "Under arbeid" >
-<!ENTITY newevent.status.completed.label    "Fullført" >
+<!ENTITY newevent.status.label                    "Status" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "Ikke oppgitt" >
+<!ENTITY newevent.eventStatus.none.accesskey      "k" >
+<!ENTITY newevent.todoStatus.none.label           "Ikke oppgitt" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Avlyst" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "A" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Avlyst" >
+<!ENTITY newevent.status.tentative.label          "Tentativ" >
+<!ENTITY newevent.status.tentative.accesskey      "T" >
+<!ENTITY newevent.status.confirmed.label          "Bekreftet" >
+<!ENTITY newevent.status.confirmed.accesskey      "B" >
+<!ENTITY newevent.status.needsaction.label        "Trenger handling" >
+<!ENTITY newevent.status.inprogress.label         "Under arbeid" >
+<!ENTITY newevent.status.completed.label          "Fullført" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; fullført">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Fil">
-<!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "Ny">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Hendelse">
-<!ENTITY  event.menu.file.new.event.accesskey             "H">
-<!ENTITY  event.menu.file.new.message.label               "Melding">
-<!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.contact.label               "Adressekontakt">
-<!ENTITY  event.menu.file.new.contact.accesskey           "A">
-<!ENTITY  event.menu.file.close.label                     "Lukk">
-<!ENTITY  event.menu.file.close.accesskey                 "L">
-<!ENTITY  event.menu.file.save.label                      "Lagre">
-<!ENTITY  event.menu.file.save.accesskey                  "a">
+<!ENTITY  event.menu.item.new.label                       "Ny">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Hendelse">
+<!ENTITY  event.menu.item.new.event.accesskey             "H">
+<!ENTITY  event.menu.item.new.task.label                  "Oppgave">
+<!ENTITY  event.menu.item.new.task.accesskey              "O">
+<!ENTITY  event.menu.item.new.message.label               "Melding">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Adressekontakt">
+<!ENTITY  event.menu.item.new.contact.accesskey           "A">
+<!ENTITY  event.menu.item.close.label                     "Lukk">
+<!ENTITY  event.menu.item.close.accesskey                 "L">
+<!ENTITY  event.menu.item.save.label                      "Lagre">
+<!ENTITY  event.menu.item.save.accesskey                  "a">
+<!ENTITY  event.menu.item.saveandclose.label              "Lagre og lukk">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "r">
 <!ENTITY  event.menu.item.delete.label                    "Slett …">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
-<!ENTITY  event.menu.file.page.setup.label                "Utskriftsformat">
-<!ENTITY  event.menu.file.page.setup.accesskey            "k">
-<!ENTITY  event.menu.file.print.label                     "Skriv ut">
-<!ENTITY  event.menu.file.print.accesskey                 "k">
+<!ENTITY  event.menu.item.page.setup.label                "Utskriftsformat">
+<!ENTITY  event.menu.item.page.setup.accesskey            "k">
+<!ENTITY  event.menu.item.print.label                     "Skriv ut">
+<!ENTITY  event.menu.item.print.accesskey                 "k">
 
 <!ENTITY  event.menu.edit.label                           "Rediger">
 <!ENTITY  event.menu.edit.accesskey                       "R">
@@ -153,15 +172,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Ledig">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.help.label                                 "Hjelp">
-<!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "Utgivelsesmerknader">
-<!ENTITY event.help.release.notes.accesskey               "U">
-<!ENTITY event.help.help.label                            "&brandShortName; hjelp">
-<!ENTITY event.help.help.accesskey                        "h">
-<!ENTITY event.help.about.label                           "Om &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "O">
-
 <!ENTITY event.invite.attendees.label                     "Inviter deltakere …">
 <!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakere …">
@@ -220,15 +230,13 @@
 <!ENTITY event.priority2.label                            "Prioritet:">
 
 <!ENTITY event.reminder.none.label                        "Ingen påminnelse " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutter før" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minutter før" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minutter før" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minutter før" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minutter før" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minutter før" >
 <!ENTITY event.reminder.1hour.before.label                "1 time før" >
 <!ENTITY event.reminder.2hours.before.label               "2 timer før" >
-<!ENTITY event.reminder.5hours.before.label               "5 timer før" >
-<!ENTITY event.reminder.15hours.before.label              "15 timer før" >
+<!ENTITY event.reminder.12hours.before.label              "12 timer før" >
 <!ENTITY event.reminder.1day.before.label                 "1 dag før" >
 <!ENTITY event.reminder.2days.before.label                "2 dager før" >
 <!ENTITY event.reminder.1week.before.label                "1 uker før" >
@@ -359,6 +367,7 @@
 <!ENTITY event.attendee.role.required           "Deltakelse obligatorisk">
 <!ENTITY event.attendee.role.optional           "Deltakelse valgfritt">
 <!ENTITY event.attendee.role.chair              "Leder">
+<!ENTITY event.attendee.role.nonparticipant     "Deltar ikke">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Oppgi tidssone">

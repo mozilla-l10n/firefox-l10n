@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Utvidelser">
 <!ENTITY addonsLocal.label         "Installerte utvidelser">
+<!ENTITY addonsUpdate.label        "Oppdater">
 <!ENTITY addonsRepo.label          "Hent utvidelser">
 <!ENTITY addonsRecommended.label   "Anbefalt">
 <!ENTITY addonsSearch.label        "Søk">
