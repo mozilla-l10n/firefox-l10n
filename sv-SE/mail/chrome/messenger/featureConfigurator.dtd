@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Använd den här sidan för att välja bland dessa nya inställningar. Du kan alltid gå tillbaka till Migrationsassistenten via Hjälpmenyn.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Verktygsfältet Nytt meddelande">
-<!ENTITY featureConfigurator.toolbar.new.status "Verktygsfält för meddelandeknappar">
+<!ENTITY featureConfigurator.toolbar.new "Verktygsfält för meddelandeknappar">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Ett verktygsfält med knappar att använda när du skapar nya meddelanden.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Använd originalverktygsfältet">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Använd originalverktygsfältet">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Behåll egna verktygsfältsknappar i tillägg till de nya meddelandeknapparna.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Meddelandeåtgärder som svara och vidarebefordra har flyttats från verktygsfältet till fältet med meddelanderubrikerna. På så sätt knyts knapparna direkt till meddelandet samtidigt som mer plats lämnas fri i verktygsfältet för sökrutan och eventuella tillägg.">
