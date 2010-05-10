@@ -515,7 +515,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.tooltip "Passar para a mensagem anterior não lida">
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goBackButton.tooltip "Recuar uma mensagem">
-<!ENTITY deleteButton.tooltip "Apagar mensagem ou pasta seleccionada">
+<!ENTITY deleteButton.tooltip "Apaga a mensagem ou pasta seleccionada">
 <!ENTITY undeleteButton.tooltip "Não apagar a mensagem seleccionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
@@ -523,7 +523,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "As mensagens seleccionadas são lixo">
 <!ENTITY notJunkButton.tooltip "As mensagens seleccionadas não são lixo">
 <!ENTITY addressBookButton.tooltip "Ir para o livro de endereços">
-<!ENTITY tagButton.tooltip "Etiqueta nas mensagens">
+<!ENTITY tagButton.tooltip "Etiqueta as mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens eliminadas da pasta seleccionadas">
 
 <!-- Tags Menu Popup -->
@@ -634,7 +634,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-<!ENTITY contextOpenNewTab.label "Abrir Mensagem num novo separador">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem num novo separador">
 <!ENTITY contextOpenNewTab.accesskey "S">
 <!ENTITY contextOpenConversation.label "Abrir mensagem de conversação">
 <!ENTITY contextOpenConversation.accesskey "n">
