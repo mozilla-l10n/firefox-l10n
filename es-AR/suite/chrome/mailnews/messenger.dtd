@@ -608,3 +608,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; piensa que este mensaje puede ser un intento de fraude.">
 <!ENTITY removePhishingBarButton.label "No es fraude">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "El emisor de este mensaje ha solicitado ser notificado cuando sea leído. ¿Desea notificar al emisor?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
+<!ENTITY mdnBarSendButton.label "Enviar acuse">
