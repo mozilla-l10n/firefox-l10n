@@ -71,7 +71,7 @@
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Barren en Taken">
+<!ENTITY lightning.menu.eventtask.label                "Barrens en taken">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
