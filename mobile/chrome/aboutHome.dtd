@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "Extras para o seu Firefox">
 <!ENTITY aboutHome.aboutMozilla                 "Sobre a Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Abrir tudo em separdores">
+<!ENTITY aboutHome.noTabs                       "Nenhum separador desde a última vez">
+<!ENTITY aboutHome.noAddons                     "Sem extras recomendados">
