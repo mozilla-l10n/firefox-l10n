@@ -52,4 +52,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Anniversary,Birthday,Business,Calls,Clients,Competition,Customer,Favorites,Follow up,Gifts,Holidays,Ideas,Issues,Meeting,Miscellaneous,Personal,Projects,Public Holiday,Status,Suppliers,Travel,Vacation");
+pref("calendar.categories.names", "Perayaan,Ultah,Bisnis,Telepon,Klien,Kompetitor,Pelanggan,Favorit,Tindak Lanjut,Hadiah,Liburan,Ide,Masalah,Pertemuan,Lain-lain,Personal,Projek,Hari Libur Nasional,Status,Supplier,Travel,Cuti");
