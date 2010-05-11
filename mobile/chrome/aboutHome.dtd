@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "Utvidelser til &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "Om Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Åpne alle i faner">
+<!ENTITY aboutHome.noTabs                       "Ingen faner fra forrige gang">
+<!ENTITY aboutHome.noAddons                     "Ingen anbefalte utvidelser">
