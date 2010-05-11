@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey "E">
 <!ENTITY folderCharsetOverride.label "Appliquer par défaut à tous les messages du dossier (ignorer l'auto-détection ainsi que l'encodage de car. spécifié par l'en-tête MIME)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Reconstruire l'index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Reconstruit le résumé du fichier">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruire l'index du fichier de résumé">
+<!ENTITY folderRebuildSummaryFile2.label         "Réparer le dossier">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Il arrive que le fichier d'index du dossier (.msf) soit endommagé et que des messages semblent manquants alors que d'autres messages supprimés sont visibles ; la réparation du dossier peut résoudre ces problèmes.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inclure les messages de ce dossiers dans les résultats d'une recherche globale">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
 <!ENTITY retention.label "Politique de conservation">
 <!ENTITY retentionUseAccount.label               "Utiliser mes paramètres de compte">
@@ -71,8 +74,8 @@
 <!ENTITY retentionKeepRecent.accesskey "L">
 
 <!ENTITY folderSynchronizationTab.label "Synchronisation">
-<!ENTITY folderCheckForNewMessages.label "Surveiller les nouveaux messages dans ce dossier">
-<!ENTITY folderCheckForNewMessages.accesskey "S">
+<!ENTITY folderCheckForNewMessages2.label        "Lors de la réception de nouveaux messages pour ce compte, toujours vérifier ce dossier">
+<!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
 <!ENTITY offlineFolder.check.label "Sélectionner ce dossier pour une utilisation hors connexion">
 <!ENTITY offlineFolder.check.accesskey "l">
