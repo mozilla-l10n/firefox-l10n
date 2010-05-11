@@ -7,3 +7,5 @@
 <!ENTITY blocklist.moreinfo "Подробная информация">
 <!ENTITY blocklist.accept.label "Перезапустить &brandShortName;">
 <!ENTITY blocklist.accept.accesskey "р">
+<!ENTITY blocklist.blocked.label "Заблокировано">
+<!ENTITY blocklist.checkbox.label "Отключить">
