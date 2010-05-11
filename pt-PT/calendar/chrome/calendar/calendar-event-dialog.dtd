@@ -53,7 +53,7 @@
 <!ENTITY newevent.status.accesskey          "E" >
 <!ENTITY newevent.eventStatus.none.label         "Não especificado" >
 <!ENTITY newevent.eventStatus.none.accesskey     "o" >
-<!ENTITY newevent.todoStatus.none.label           "Não especificado"
+<!ENTITY newevent.todoStatus.none.label           "Não especificado" >
 <!ENTITY newevent.eventStatus.cancelled.label    "Cancelado" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey  "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Cancelado" >
