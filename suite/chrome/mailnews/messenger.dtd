@@ -333,9 +333,6 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensagem">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arquivo">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
@@ -364,6 +361,9 @@
 <!ENTITY editMsgAsNewCmd.key "E">
 <!ENTITY createFilter.label "Criar filtro para o remetente...">
 <!ENTITY createFilter.accesskey "f">
+<!ENTITY archiveMsgCmd.label "Arquivo">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Mover para">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Copiar localização da mensagem">
@@ -524,8 +524,6 @@
 <!ENTITY contextOpenNewTab.accesskey "s">
 <!ENTITY contextEditAsNew.label "Editar como novo...">
 <!ENTITY contextEditAsNew.accesskey "d">
-<!ENTITY contextArchive.label "Arquivo">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao grupo de discussão">
@@ -538,6 +536,8 @@
 <!ENTITY contextForward.accesskey "e">
 <!ENTITY contextForwardAsAttachment.label "Reenviar como anexos">
 <!ENTITY contextForwardAsAttachment.accesskey "R">
+<!ENTITY contextArchive.label "Arquivo">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Mover para">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
@@ -608,3 +608,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "O &brandShortName; pensa que esta mensagem é uma mensagem de scam.">
 <!ENTITY removePhishingBarButton.label "Não é Scam">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "O remetente desta mensagem pediu para ser avisado quando lê-se esta mensagem. Deseja informar o remetente?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
+<!ENTITY mdnBarSendButton.label "Enviar recibo">
