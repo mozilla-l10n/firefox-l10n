@@ -13,11 +13,11 @@ baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.para.2 "Utilisez cette page pour configurer ces nouvelles fonctionnalités. Vous pouvez toujours revenir à l'assistant à la migration depuis le menu «&nbsp;Aide&nbsp;».">
 
 <!ENTITY featureConfigurator.toolbar.heading "Barre d'outils de nouveau message">
-<!ENTITY featureConfigurator.toolbar.new.status "Barre d'outils des boutons de message">
+<!ENTITY featureConfigurator.toolbar.new "Barre d'outils des boutons de message">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Une barre d'outils vierge où vous pourrez ajouter tous les boutons que vous préférez à portée de main.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Conserver les boutons de votre barre d'outils d'origine">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Conserver les boutons de votre barre d'outils d'origine">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Conserver toutes les barres d'outils personnalisées en plus des nouveaux boutons de message.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Les boutons de message tels que répondre et transférer ont été déplacés de la barre d'outils vers l'en-tête du message lui-même. Ceci lie directement les boutons d'action au message, laissant plus de place dans la barre d'outils pour une boîte de recherche enrichie et pour les modules complémentaires.">
