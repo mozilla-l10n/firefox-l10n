@@ -62,9 +62,9 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "Y">
 
-<!ENTITY calendar.export.label        			"Eksportearje…">
+<!ENTITY calendar.export.label         			"Eksportearje…">
 <!ENTITY calendar.export.accesskey     			"E">
-<!ENTITY calendar.export.selection.label        "Seleksje eksportearje…">
+<!ENTITY calendar.export.selection.label        "Eksportearje…">
 <!ENTITY calendar.export.selection.accesskey    "e">
 
 <!ENTITY calendar.publish.label                 "Publisearje…">
@@ -91,16 +91,6 @@
 
 <!ENTITY goTodayCmd.label                       "Hjoed">
 <!ENTITY goTodayCmd.accesskey                   "H">
-
-<!ENTITY goPreviousCmd.day.label                "Foarige dei">
-<!ENTITY goPreviousCmd.week.label               "Foarige wike">
-<!ENTITY goPreviousCmd.month.label              "Foarige moanne">
-<!ENTITY goPreviousCmd.accesskey                "F">
-
-<!ENTITY goNextCmd.day.label                    "Folgjende dei">
-<!ENTITY goNextCmd.week.label                   "Folgjende wike">
-<!ENTITY goNextCmd.month.label                  "Folgjende moanne">
-<!ENTITY goNextCmd.all.accesskey                "o">
 
 <!ENTITY showCurrentView.label                  "Aktueel finster">
 <!ENTITY showCurrentView.accesskey              "A">

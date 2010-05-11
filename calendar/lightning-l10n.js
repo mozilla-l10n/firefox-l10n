@@ -11,16 +11,14 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is OEone Calendar Code, released October 31st, 2001.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# OEone Corporation.
-# Portions created by OEone Corporation are Copyright (C) 2001
-# OEone Corporation. All Rights Reserved.
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
+# the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   Garth Smedley <garths@oeone.com>
-#   Martin Schroeder <mschroeder@mozilla.x-home.org>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,58 +34,22 @@
 #
 # ***** END LICENSE BLOCK *****
 
-month.1.Mmm=jan
-month.2.Mmm=feb
-month.3.Mmm=mrt
-month.4.Mmm=apr
-month.5.Mmm=maa
-month.6.Mmm=jun
-month.7.Mmm=jul
-month.8.Mmm=aug
-month.9.Mmm=sep
-month.10.Mmm=okt
-month.11.Mmm=nov
-month.12.Mmm=des
+#filter substitution
 
-month.1.name=jannewaris
-month.2.name=febrewaris
-month.3.name=maart
-month.4.name=april
-month.5.name=maaie
-month.6.name=juny
-month.7.name=july
-month.8.name=augustus
-month.9.name=septimber
-month.10.name=oktober
-month.11.name=novimber
-month.12.name=desimber
+# the default day to start the week on
+#0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
+pref("calendar.week.start", 0);
 
-day.1.name=snein
-day.2.name=moandei
-day.3.name=tiisdei
-day.4.name=woansdei
-day.5.name=tongersdei
-day.6.name=freed
-day.7.name=sneon
+# default days off (not in work week)
+pref("calendar.week.d0sundaysoff", true);
+pref("calendar.week.d1mondaysoff", false);
+pref("calendar.week.d2tuesdaysoff", false);
+pref("calendar.week.d3wednesdaysoff", false);
+pref("calendar.week.d4thursdaysoff", false);
+pref("calendar.week.d5fridaysoff", false);
+pref("calendar.week.d6saturdaysoff", true);
 
-day.1.Mmm=sni
-day.2.Mmm=moa
-day.3.Mmm=tii
-day.4.Mmm=woa
-day.5.Mmm=ton
-day.6.Mmm=fre
-day.7.Mmm=sno
+pref("general.useragent.locale", "@AB_CD@");
 
-# Can someone tell me why were not counting from zero?
-day.1.short=Si
-day.2.short=Mo
-day.3.short=Ti
-day.4.short=Wo
-day.5.short=To
-day.6.short=Fr
-day.7.short=So
-
-noon=Middei
-midnight=Middernacht
-
-AllDay=De hiele dei
+# categories
+pref("calendar.categories.names", "Klanten,Konkurinsje,Diversen,Favoriten,Giften,Ideeën,Klant,Kwestjes,Leveransiers,Nasjonale feestdei,Persoanlik,Projekten,Reizen,Steat,Telefoongesprekken,Troudei,Fakânsje,Jierdei,Ferfolchgesprek,Frije dagen,Saken");
