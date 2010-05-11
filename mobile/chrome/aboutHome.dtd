@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "Tafoegings foar jo &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "Oer Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Iepenje alles yn ljepblêden">
+<!ENTITY aboutHome.noTabs                       "Gjin ljepblêden fan de lêste kear">
+<!ENTITY aboutHome.noAddons                     "Gjin oanrikkemandearre tafoegings">

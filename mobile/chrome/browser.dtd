@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Tafoegings">
 <!ENTITY addonsLocal.label         "Jo Tafoegings">
+<!ENTITY addonsUpdate.label        "Fernij">
 <!ENTITY addonsRepo.label          "Krij Tafoegings">
 <!ENTITY addonsRecommended.label   "Sjoch oanrêt">
 <!ENTITY addonsSearch.label        "Sykje katalogus">
