@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Bruk denne siden for å konfigurere disse nye innstillingene. Du kan også senere hente fram denne migreringsassistenten igjen fra Hjelp-menyen.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Ny verktøylinje på meldinger">
-<!ENTITY featureConfigurator.toolbar.new.status "Verktøylinje med meldingsknapper">
+<!ENTITY featureConfigurator.toolbar.new "Verktøylinje for meldingsknapper">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "En ren verktøylinje med alle meldingsknapper enkelt tilgjengelig.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Behold opprinnelig verktøylinje">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Behold opprinnelige verktøylinjeknapper">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Behold egendefinerte knapper i tillegg til nye meldingsknapper.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Meldingshandlinger som svar og videresend er flyttet fra verktøylinjen til selve meldingshodet. Dette knytter handlingsknappene direkte til meldingen, og gjør plass til tekstboks for avansert søk i verktøylinjen, samt utvidelser.">
