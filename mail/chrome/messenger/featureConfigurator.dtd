@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Gunakan laman Asisten Migrasi ini untuk mengkonfigurasi pengaturan fitur baru ini. Anda dapat selalu kembali ke laman ini lewat menu Bantuan.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Bilah Alat Pesan Baru">
-<!ENTITY featureConfigurator.toolbar.new.status "Bilah Alat Tombol Pesan">
+<!ENTITY featureConfigurator.toolbar.new "Bilah Alat Tombol Pesan">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Bilah alat yang rapi untuk tempat tombol yang terkait dengan pesan dalam jangkauan jemari Anda.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Gunakan tombol Bilah Alat Anda seperti sebelumnya">
+<!ENTITY featureConfigurator.toolbar.original "Gunakan tombol Bilah Alat Anda seperti sebelumnya">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Tambahkan Tombol Pesan Baru pada tombol bilah alat sekarang.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Aksi untuk pesan seperti misalnya balas dan teruskan telah dipindahkan dari bilah alat ke bagian atas pesan itu sendiri. Pemindahan ini berguna untuk menyesuaikan tempat tombol aksi kepada tempat yang lebih cocok serta melebarkan tempat pada bilah alat untuk kotak pencarian yang lebih canggih, serta mungkin tombol untuk pengaya.">
