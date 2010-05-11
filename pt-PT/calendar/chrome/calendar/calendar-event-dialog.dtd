@@ -51,10 +51,12 @@
 
 <!ENTITY newevent.status.label              "Estado" >
 <!ENTITY newevent.status.accesskey          "E" >
-<!ENTITY newevent.status.none.label         "Não especificado" >
-<!ENTITY newevent.status.none.accesskey       "o" >
-<!ENTITY newevent.status.cancelled.label    "Cancelado" >
-<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.eventStatus.none.label         "Não especificado" >
+<!ENTITY newevent.eventStatus.none.accesskey     "o" >
+<!ENTITY newevent.todoStatus.none.label           "Não especificado"
+<!ENTITY newevent.eventStatus.cancelled.label    "Cancelado" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey  "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Cancelado" >
 <!ENTITY newevent.status.tentative.label    "Tentativa" >
 <!ENTITY newevent.status.tentative.accesskey  "T" >
 <!ENTITY newevent.status.confirmed.label    "Confirmado" >
