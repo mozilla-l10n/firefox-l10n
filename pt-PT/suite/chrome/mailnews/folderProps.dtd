@@ -45,10 +45,13 @@
 <!ENTITY folderCharsetTab.accesskey "E">
 <!ENTITY folderCharsetOverride.label "Aplicar pré-definições a todas as mensagens na pasta (as configurações de codificação de caracteres de mensagens e auto-detecção será ignorada)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Reconstruir Índice">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Reconstruir Sumário do Ficheiro">
-     
+<!ENTITY folderRebuildSummaryFileTip2.label "Reconstruir Sumário do Ficheiro">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Ás vezes o índice da pasta (.msf) fica danificado e as mensagens podem ou não aparecer ou as que foram eliminadas continuar a aparecer; reparar a pasta pode corrigir estes problemas.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Incluir as mensagens da pasta nos resultados de pesquisa globais">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+
 <!ENTITY retention.label "Política de Retenção">
 <!ENTITY retentionUseAccount.label "Usar definições da minha conta">
 <!ENTITY retentionUseAccount.accesskey "d">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label "Sincronização">
-<!ENTITY folderCheckForNewMessages.label "Procurar novas mensagens nesta pasta">
-<!ENTITY folderCheckForNewMessages.accesskey "N">
+<!ENTITY folderCheckForNewMessages2.label "Ao obter novas mensagens, verificar sempre esta pasta">
+<!ENTITY folderCheckForNewMessages2.accesskey "A">
 
 <!ENTITY offlineFolder.check.label "Seleccionar esta pasta para uso em modo desligado">
 <!ENTITY offlineFolder.check.accesskey "S">
