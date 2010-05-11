@@ -7,3 +7,5 @@
 <!ENTITY blocklist.moreinfo "Ulteriori informazioni">
 <!ENTITY blocklist.accept.label "Riavvia &brandShortName;">
 <!ENTITY blocklist.accept.accesskey "R">
+<!ENTITY blocklist.blocked.label "Bloccato">
+<!ENTITY blocklist.checkbox.label "Disattiva">
