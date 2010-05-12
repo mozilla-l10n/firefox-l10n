@@ -123,7 +123,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Signering av tekst">
 <!ENTITY formSigning.cert "Signerende sertifikat">
-<!ENTITY formSigning.confirmPassword "For å bekrefte at du ønsker å signere denne meldingen med det valgte sertifikatet, skriv inn hovedpassordet.">
+<!ENTITY formSigning.confirmPassword "For å bekrefte at du ønsker å signere denne meldingen med det valgte sertifikatet, skriv inn hovedpassordet:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autentisering med beskyttet tegn">

@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Start &brandShortName; på nytt">
 <!ENTITY blocklist.accept.accesskey  "S">
+
+<!ENTITY blocklist.blocked.label     "Blokkert">
+<!ENTITY blocklist.checkbox.label    "Slå av">

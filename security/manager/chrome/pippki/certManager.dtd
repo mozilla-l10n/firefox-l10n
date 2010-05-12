@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "Innebygde utstedere">
 <!ENTITY certmgr.ca.mycas                     "Utstedere administrert av deg">
 
-<!ENTITY certmgr.mine.search                  "Søk:">
-<!ENTITY certmgr.others.search                "Søk:">
-<!ENTITY certmgr.websites.search              "Søk:">
-<!ENTITY certmgr.cas.search                   "Søk:">
-<!ENTITY certmgr.orphans.search               "Søk:">
-
-<!ENTITY certmgr.mine.description             "Du har sertifikater fra disse organisasjonene som identifiserer deg:">
-<!ENTITY certmgr.others.description           "Du har lagrede sertifikater som identifiserer disse personene:">
-<!ENTITY certmgr.websites.description         "Du har lagrede sertifikater som identifiserer disse tjenerne:">
-<!ENTITY certmgr.cas.description              "Du har lagrede sertifikater som identifiserer disse sertifikatutstederne:">
-<!ENTITY certmgr.orphans.description          "Du har lagrede sertifikater som ikke passer i de andre kategoriene:">
-
-<!ENTITY certmgr.mine.filtered                "Fant sertifikater fra disse organisasjonene som identifiserer deg:">
-<!ENTITY certmgr.others.filtered              "Fant lagrede sertifikater som identifiserer disse personene:">
-<!ENTITY certmgr.websites.filtered            "Fant lagrede sertifikater som identifiserer disse tjenerne:">
-<!ENTITY certmgr.cas.filtered                 "Fant lagrede sertifikater som identifiserer disse sertifikatutstederne:">
-<!ENTITY certmgr.orphans.filtered             "Fant lagrede sertifikater som ikke passer i de andre kategoriene:">
+<!ENTITY certmgr.mine                         "Du har sertifikater fra disse organisasjonene som identifiserer deg:">
+<!ENTITY certmgr.others                       "Du har lagrede sertifikater som identifiserer disse personene:">
+<!ENTITY certmgr.websites2                    "Du har lagrede sertifikater som identifiserer disse tjenerne:">
+<!ENTITY certmgr.cas                          "Du har lagrede sertifikater som identifiserer disse sertifikatutstederne:">
+<!ENTITY certmgr.orphans                      "Du har lagrede sertifikater som ikke passer i de andre kategoriene:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "L">
 <!ENTITY certmgr.view2.label                  "Vis …">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Rediger …">
-<!ENTITY certmgr.edit2.accesskey              "R">
+<!ENTITY certmgr.edit3.label                  "Rediger tiltro …">
+<!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Rediger CA tiltro">
 <!ENTITY certmgr.editca.accesskey             "e">
 <!ENTITY certmgr.add.label                    "Legg til">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Slett …">
 <!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete_builtin.label         "Slett eller opphev tiltro …">
+<!ENTITY certmgr.delete_builtin.accesskey     "e">
 <!ENTITY certmgr.backup2.label                "Sikkerhetskopier …">
 <!ENTITY certmgr.backup2.accesskey            "k">
 <!ENTITY certmgr.backupall2.label             "Sikkerhetskopier alle …">

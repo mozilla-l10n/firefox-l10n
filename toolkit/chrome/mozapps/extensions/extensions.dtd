@@ -1,176 +1,112 @@
-<!ENTITY addons.title                     "Utvidelser">
+<!ENTITY addons.windowTitle                   "Utvidelser">
+<!ENTITY search.placeholder                   "Søk i alle utvidelser">
+<!ENTITY loading.label                        "Laster …">
+<!ENTITY listEmpty.installed.label            "Du har ikke installert noen utvidelser av denne typen">
+<!ENTITY listEmpty.search.label               "Klarte ikke finne noen passende utvidelser">
+<!ENTITY listEmpty.button.label               "Les mer om utvidelser">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Søk">
+<!ENTITY view.discover.label                  "Last ned utvidelser">
+<!ENTITY view.languages.label                 "Språk">
+<!ENTITY view.searchengines.label             "Søkemotorer">
+<!ENTITY view.features.label                  "Utvidelser">
+<!ENTITY view.appearance.label                "Temaer">
+<!ENTITY view.plugins.label                   "Programtillegg">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Hent utvidelser">
-<!ENTITY extensions.label                 "Utvidelser">
-<!ENTITY themes.label                     "Temaer">
-<!ENTITY locales.label                    "Språk">
-<!ENTITY plugins.label                    "Programtillegg">
-<!ENTITY update.label                     "Oppdateringer">
-<!ENTITY install.label                    "Installering">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Oppdater utvidelser">
+<!ENTITY updates.updating.label               "Oppdaterer utvidelser">
+<!ENTITY updates.installed.label              "Utvidelsene er oppdatert.">
+<!ENTITY updates.downloaded.label             "Oppdateringer til utvidelsene er lastet ned.">
+<!ENTITY updates.restart.label                "Start på nytt nå for å fullføre installeringen">
+<!ENTITY updates.noneFound.label              "Fant ingen oppdateringer">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Søk etter oppdateringer">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "ø">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Søker etter oppdateringer til utvidelser">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Søker etter oppdateringer til temaer">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Søker etter oppdateringer for programtillegg">
-<!ENTITY cmd.installLocalFile.label       "Installer …">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
-<!ENTITY cmd.installFileAddon.tooltip     "Installer en utvidelse">
-<!ENTITY cmd.installFileTheme.tooltip     "Installer et tema">
-<!ENTITY cmd.installUpdatesAll2.label     "Installer oppdateringer">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Installer valgte oppdateringer">
-<!ENTITY cmd.restartApp2.label            "Start &brandShortName; på nytt">
-<!ENTITY cmd.restartApp2.accesskey        "S">
-<!ENTITY cmd.restartApp2.tooltip          "Starter &brandShortName; på nytt for å fullføre installeringen">
-<!ENTITY cmd.skip.label                   "Hopp over">
-<!ENTITY cmd.skip.accesskey               "H">
-<!ENTITY cmd.skip.tooltip                 "Hopp over disse oppdateringene">
-<!ENTITY cmd.continue.label               "Fortsett">
-<!ENTITY cmd.continue.accesskey           "F">
-<!ENTITY cmd.continue.tooltip             "Fortsett med lasting av &brandShortName;">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Vis mer informasjon">
+<!ENTITY cmd.showDetails.accesskey            "V">
+<!ENTITY cmd.findUpdates.label                "Finn oppdateringer">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferences.label                "Innstillinger">
+<!ENTITY cmd.preferences.accesskey            "I">
+<!ENTITY cmd.about.label                      "Om">
+<!ENTITY cmd.about.accesskey                  "O">
 
-<!ENTITY cmd.enableAll.label              "Slå på alle">
-<!ENTITY cmd.enableAll.accesskey          "S">
-<!ENTITY cmd.enableAll.tooltip            "Slå på alle viste utvidelser">
-<!ENTITY cmd.disableAll.label             "Slå av">
-<!ENTITY cmd.disableAll.accesskey         "a">
-<!ENTITY cmd.disableAll.tooltip           "Slå av alle viste utvidelser">
+<!ENTITY cmd.enableAddon.label                "Slå på">
+<!ENTITY cmd.enableAddon.accesskey            "S">
+<!ENTITY cmd.enableAddon.tooltip              "Slå på denne utvidelsen">
+<!ENTITY cmd.disableAddon.label               "Slå av">
+<!ENTITY cmd.disableAddon.accesskey           "a">
+<!ENTITY cmd.disableAddon.tooltip             "Slå av denne utvidelsen">
+<!ENTITY cmd.uninstallAddon.label             "Slett">
+<!ENTITY cmd.uninstallAddon.accesskey         "e">
+<!ENTITY cmd.uninstallAddon.tooltip           "Avinstaller denne utvidelsen">
+<!ENTITY cmd.contribute.label                 "Bidra">
+<!ENTITY cmd.contribute.accesskey             "B">
+<!ENTITY cmd.contribute.tooltip               "Bidra til utviklingen av denne utvidelsen">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Bruk tema">
-<!ENTITY cmd.useTheme.accesskey           "B">
-<!ENTITY cmd.useTheme.tooltip             "Endre tema for &brandShortName;">
-<!ENTITY cmd.options.label                "Innstillinger">
-<!ENTITY cmd.options.accesskey            "I">
-<!ENTITY cmd.options.tooltip              "Sett innstillinger for den valgte utvidelsen">
-<!ENTITY cmd.optionsUnix.label            "Innstillinger">
-<!ENTITY cmd.optionsUnix.accesskey        "n">
-<!ENTITY cmd.optionsUnix.tooltip          "Endre innstillinger for valgt utvidelser">
-<!ENTITY cmd.enable.label                 "Slå på">
-<!ENTITY cmd.enable.accesskey             "S">
-<!ENTITY cmd.enable.tooltip               "Slå på denne utvidelsen når &brandShortName; starter på nytt">
-<!ENTITY cmd.disable.label                "Slå av">
-<!ENTITY cmd.disable.accesskey            "S">
-<!ENTITY cmd.disable.tooltip              "Slå av denne utvidelsen når &brandShortName; starter på nytt">
-<!ENTITY cmd.uninstall.label              "Avinstaller">
-<!ENTITY cmd.uninstall2.accesskey         "A">
-<!ENTITY cmd.uninstall2.tooltip           "Avinstaller denne utvidelsen når &brandShortName; starter på nytt">
-<!ENTITY cmd.cancelUninstall.label        "Avbryt avinstallering">
-<!ENTITY cmd.cancelUninstall.accesskey    "v">
-<!ENTITY cmd.cancelUninstall.tooltip      "Avbryter avinstalleringen av denne utvidelsen">
-<!ENTITY cmd.cancelInstall.label          "Avbryt installering">
-<!ENTITY cmd.cancelInstall.accesskey      "b">
-<!ENTITY cmd.cancelInstall.tooltip        "Avbryt installeringen av denne utvidelsen">
-<!ENTITY cmd.cancelUpgrade.label          "Avbryt oppgradering">
-<!ENTITY cmd.cancelUpgrade.accesskey      "r">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Avbryt oppgraderingen av denne utvidelsen">
-<!ENTITY cmd.installUpdate.label          "Installer oppdatering">
-<!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "Installerer en oppdatering for denne utvidelsen">
-<!ENTITY cmd.showUpdateInfo.label         "Vis informasjon">
-<!ENTITY cmd.showUpdateInfo.accesskey     "V">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Vis mer informasjon om disse oppdateringene">
-<!ENTITY cmd.hideUpdateInfo.label         "Skjul informasjon">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "S">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Skjul informasjon om disse oppdateringene">
-<!ENTITY cmd.installSearchResult.label     "Legg til i &brandShortName; …">
-<!ENTITY cmd.installSearchResult.accesskey "L">
-<!ENTITY cmd.installSearchResult.tooltip   "Last ned og installer denne utvidelsen">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Avbryt">
-<!ENTITY cancel.accesskey                 "A">
-<!ENTITY cancelInstall.label              "Avbryt">
-<!ENTITY cancelInstall.accesskey          "A">
-<!ENTITY cancelUpgrade.label              "Avbryt">
-<!ENTITY cancelUpgrade.accesskey          "A">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Gå til hjemmeside">
-<!ENTITY cmd.homepage.accesskey           "h">
-<!ENTITY cmd.about2.label                 "Om denne utvidelsen">
-<!ENTITY cmd.about.accesskey              "O">
-<!ENTITY cmd.checkUpdate.label            "Søk etter oppdatering">
-<!ENTITY cmd.checkUpdate.accesskey        "ø">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versjon">
+<!ENTITY detail.updated.label                 "Oppdatert">
+<!ENTITY detail.creator.label                 "Utvikler">
+<!ENTITY detail.homepage.label                "Hjemmeside">
+<!ENTITY detail.numberOfDownloads.label       "Nedlastinger">
 
-<!ENTITY cmd.includeUpdate.label          "Inkluder oppdatering">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "Inkluder denne utvidelsen">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Inkluder denne utvidelsen ved installering av oppdateringene">
+<!ENTITY detail.updateAutomatically.label     "Oppdater automatisk">
+<!ENTITY detail.updateAutomatically.accesskey "O">
+<!ENTITY detail.updateAutomatically.tooltip   "Oppdater denne utvidelsen automatisk når en oppdatering er tilgjengelig">
+<!ENTITY detail.checkForUpdates.label         "Søk etter oppdateringer">
+<!ENTITY detail.checkForUpdates.accesskey     "S">
+<!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringer for denne utvidelsen">
+<!ENTITY detail.showPreferences.label         "Innstillinger">
+<!ENTITY detail.showPreferences.accesskey     "I">
+<!ENTITY detail.showPreferences.tooltip       "Endre denne utvidelsens innstillinger">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Tilbyr ikke sikre oppdateringer.">
-<!ENTITY needsDependencies.label          "Krever flere elementer.">
-<!ENTITY blocklisted.label                "Avslått av sikkerhetsårsaker.">
-<!ENTITY softBlocklisted.label            "Er kjent for å skape sikkerhets- eller stabilitetsproblemer.">
-<!ENTITY outdated.label                   "En nyere, tryggere versjon er tilgjengelig.">
-<!ENTITY toBeDisabled.label               "Denne utvidelsen vil bli avslått når du starter &brandShortName; på nytt.">
-<!ENTITY toBeEnabled.label                "Denne utvidelsen vil bli påslått når du starter &brandShortName; på nytt.">
-<!ENTITY toBeInstalled.label              "Denne utvidelsen vil bli installert når du starter &brandShortName; på nytt.">
-<!ENTITY toBeUninstalled.label            "Denne utvidelsen vil bli avinstallert når du starter &brandShortName; på nytt.">
-<!ENTITY toBeUpdated.label                "Denne utvidelsen vil bli oppdatert når du starter &brandShortName; på nytt.">
 
-<!ENTITY getExtensions.label              "Hent utvidelser">
-<!ENTITY getThemes.label                  "Hent temaer">
-<!ENTITY getPlugins.label                 "Hent programtillegg">
+<!-- ratings -->
+<!ENTITY rating.yourRating.label              "Din vurdering:">
 
-<!ENTITY searchAddons.label               "Søk i alle utvidelser">
-<!ENTITY browseAddons.label               "Bla gjennom alle utvidelser">
-<!ENTITY searchFailed.label               "&brandShortName; klarte ikke hente utvidelser">
-<!ENTITY recommendedHeader.label          "Anbefalinger">
-<!ENTITY recommendedThrobber.label        "Henter anbefalte utvidelser">
-<!ENTITY searchThrobber.label             "Søker i utvidelser">
-<!ENTITY resetSearch.label                "Avslutt søk">
-<!ENTITY noSearchResults.label            "Alle resultatene er allerede installert eller inkompatible.">
-<!ENTITY noRecommendedResults.label       "Alle anbefalingene er allerede installert eller inkompatible.">
-<!ENTITY emptySearch.label                "Ingen passende utvidelser">
-<!ENTITY emptySearch.button               "OK">
-<!ENTITY cancelSearch.button              "Avbryt">
-<!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Lær mer">
-<!ENTITY searchBox.label                  "Søk i alle utvidelser">
-<!ENTITY recommendedResults.label         "Se alle anbefalte utvidelser">
-<!ENTITY searchResultConnecting.label     "Kobler til …">
-<!ENTITY searchResultInstalling.label     "Installerer …">
-<!ENTITY searchResultFailed.label         "Installering feilet">
-<!ENTITY searchResultInstalled.label      "Installering fullført">
-<!ENTITY addonTypeExtension.label         "Utvidelse">
-<!ENTITY addonTypeTheme.label             "Tema">
-<!ENTITY missingThumbnail.label           "Ingen forhåndsvisning">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Avbryt">
 
-<!ENTITY previewNoThemeSelected.label     "Ingen tema valgt">
-<!ENTITY previewNoPreviewImage.label      "Dette temaet har ingen forhåndsvisning">
-<!ENTITY moreInfo.label                   "Mer informasjon">
-<!ENTITY infoNoAddonSelected.label        "Ingen oppdateringer valgt">
-<!ENTITY infoNoUpdateInfo.label           "Denne oppdateringen har ingen tilleggsinformasjon">
-<!ENTITY infoUpdateInfoError.label        "En feil oppstod under innlasting av informasjonen om denne oppdateringen">
 
-<!ENTITY updateSuccess.label              "Oppdatering er ferdig.">
-<!ENTITY installSuccess.label             "Installering er ferdig.">
-<!ENTITY installSuccessRestart.label      "Start på nytt for å fullføre installeringen.">
-<!ENTITY updateSuccessRestart.label       "Start på nytt for å fullføre oppdateringen.">
-<!ENTITY installWaiting.label             "Venter …">
-<!ENTITY installIncompatibleUpdate.label  "Kontrollerer kompatibilitet …">
-<!ENTITY installFinishing.label           "Installerer …">
-<!ENTITY installFailure.label             "Installering feilet.">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Navn">
+<!ENTITY sort.name.tooltip                    "Sorter etter navn">
+<!ENTITY sort.size.label                      "Størrelse">
+<!ENTITY sort.size.tooltip                    "Sorter etter størrelse">
+<!ENTITY sort.dateUpdated.label               "Sist oppdatert">
+<!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
+<!ENTITY sort.rating.label                    "Karakter">
+<!ENTITY sort.rating.tooltip                  "Sorter etter gjennomsnittlig vurdering">
 
-<!ENTITY progressStatus.label             "Søker etter oppdateringer">
 
-<!ENTITY eula.title                       "Sluttbrukeravtale">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Godta avtalen og installer …">
+<!ENTITY showMore.label                       "Vis mer">
+<!ENTITY showMore.accesskey                   "V">
+<!ENTITY showMore.tooltip                     "Vis flere detaljer">
+<!ENTITY showLess.label                       "Vis mindre">
+<!ENTITY showLess.accesskey                   "s">
+<!ENTITY showLess.tooltip                     "Vis mindre detaljer">
 
-<!ENTITY blocklist.blocked.label          "Blokkert">
-<!ENTITY blocklist.checkbox.label         "Slå av">
+<!ENTITY search.filter.label                  "Vis:">
+<!ENTITY search.filter.installed.label        "Dine installerte utvidelser">
+<!ENTITY search.filter.available.label        "Tilgjengelige utvidelser">
+
+<!ENTITY addon.homepage                       "Hjemmeside">
+<!ENTITY addon.unknownDate                    "Ukjent">
+<!ENTITY addon.disabled.postfix               "(avslått)">
+<!ENTITY addon.undo.label                     "Angre?">
+<!ENTITY addon.undo.tooltip                   "Angre denne handlingen">
+<!ENTITY addon.undoUninstall.label            "Angre?">
+<!ENTITY addon.undoUninstall.tooltip          "Behold denne utvidelsen installert">
+<!ENTITY addon.restartNow.label               "Start på nytt nå">
+<!ENTITY addon.restartNow.tooltip             "Start på nytt for å fullføre installeringen">
+<!ENTITY addon.install.label                  "Installer">
+<!ENTITY addon.install.tooltip                "Installer denne utvidelsen">
+<!ENTITY addon.checkingForUpdates.label       "Søker etter oppdateringer …">
+
+<!ENTITY addon.createdBy.label                "Av ">
