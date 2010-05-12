@@ -11,8 +11,6 @@
 <!ENTITY edit.accesskey "П">
 <!ENTITY views.label "Вид">
 <!ENTITY views.accesskey "и">
-<!ENTITY view.toolbar.label "Панель инструментов">
-<!ENTITY view.toolbar.accesskey "н">
 <!ENTITY view.columns.label "Показать колонки">
 <!ENTITY view.columns.accesskey "к">
 <!ENTITY view.sort.label "Сортировка">
@@ -37,26 +35,6 @@
 <!ENTITY cmd.restore2.accesskey "с">
 <!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "б">
-<!ENTITY cmd.select_all.label "Выделить всё">
-<!ENTITY cmd.select_all.accesskey "ы">
-<!ENTITY cmd.select_all.key "a">
-<!ENTITY cmd.edit_cut.label "Вырезать">
-<!ENTITY cmd.edit_cut.accesskey "В">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Копировать">
-<!ENTITY cmd.edit_copy.accesskey "К">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Вставить">
-<!ENTITY cmd.edit_paste.accesskey "с">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Удалить">
-<!ENTITY cmd.edit_delete.accesskey "У">
-<!ENTITY cmd.edit_undo.label "Отменить">
-<!ENTITY cmd.edit_undo.accesskey "О">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Повторить">
-<!ENTITY cmd.edit_redo.accesskey "П">
-<!ENTITY cmd.edit_redo.key "y">
 <!ENTITY cmd.bookmarkLink.label "Добавить страницу в закладки…">
 <!ENTITY cmd.bookmarkLink.accesskey "б">
 <!ENTITY cmd.delete.label "Удалить эту страницу">
@@ -73,15 +51,11 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "в">
 <!ENTITY cmd.properties.label "Свойства">
 <!ENTITY cmd.properties.accesskey "в">
-<!ENTITY cmd.rename.label "Переименовать">
-<!ENTITY cmd.rename.accesskey "П">
 <!ENTITY cmd.sortby_name.label "Сортировать по имени">
 <!ENTITY cmd.sortby_name.accesskey "С">
 <!ENTITY cmd.context_sortby_name.accesskey "р">
 <!ENTITY cmd.new_bookmark.label "Новая закладка…">
 <!ENTITY cmd.new_bookmark.accesskey "з">
-<!ENTITY cmd.new_livemark.label "Новая закладка на ленту новостей…">
-<!ENTITY cmd.new_livemark.accesskey "л">
 <!ENTITY cmd.new_folder.label "Новая папка…">
 <!ENTITY cmd.new_folder.accesskey "а">
 <!ENTITY cmd.context_new_folder.accesskey "П">
@@ -115,8 +89,6 @@
 <!ENTITY saveSearch.label "Сохранить">
 <!ENTITY saveSearch.accesskey "С">
 <!ENTITY cmd.find.key "f">
-<!ENTITY feed.subscribe.label "Лента новостей">
-<!ENTITY feed.subscribe.tooltip "Подписаться">
 <!ENTITY maintenance.label "Импорт и резервирование">
 <!ENTITY maintenance.accesskey "м">
 <!ENTITY backCmd.label "Назад">

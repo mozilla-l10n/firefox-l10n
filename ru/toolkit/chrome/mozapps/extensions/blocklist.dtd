@@ -1,4 +1,4 @@
-<!ENTITY blocklist.title "Дополнения могут вызывать проблемы">
+<!ENTITY blocklist.title "Дополнения которые могут вызывать проблемы">
 <!ENTITY blocklist.style "width: 55em; height: 30em">
 <!ENTITY blocklist.summary "&brandShortName; определил, что следующие дополнения вызывают проблемы со стабильностью или безопасностью:">
 <!ENTITY blocklist.softblocked "В целях безопасности, мы настоятельно рекомендуем перезапустить программу, оставив эти дополнения отключёнными.">

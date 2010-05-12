@@ -367,3 +367,4 @@
 <!ENTITY identity.moreInfoLinkText "Подробнее…">
 <!ENTITY downloadMonitor2.tooltip "Щёлкните, чтобы открыть окно загрузок">
 <!ENTITY allTabs.filter.emptyText "Поиск вкладок">
+<!ENTITY tabsToolbar.label "Вкладки браузера">
