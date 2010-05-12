@@ -48,19 +48,21 @@
 <!ENTITY newevent.to.label                  "Ende">
 <!ENTITY newevent.attendees.notify.label    "Teilnehmer benachrichtigen">
 
-<!ENTITY newevent.status.label                "Status">
-<!ENTITY newevent.status.accesskey            "S">
-<!ENTITY newevent.status.none.label           "Nicht angegeben">
-<!ENTITY newevent.status.none.accesskey       "N" >
-<!ENTITY newevent.status.cancelled.label      "Abgebrochen">
-<!ENTITY newevent.status.cancelled.accesskey  "A" >
-<!ENTITY newevent.status.tentative.label      "Vorläufig">
-<!ENTITY newevent.status.tentative.accesskey  "V" >
-<!ENTITY newevent.status.confirmed.label      "Bestätigt">
-<!ENTITY newevent.status.confirmed.accesskey  "B" >
-<!ENTITY newevent.status.needsaction.label    "Benötigt Eingriff">
-<!ENTITY newevent.status.inprogress.label     "In Arbeit">
-<!ENTITY newevent.status.completed.label      "Abgeschlossen am">
+<!ENTITY newevent.status.label                     "Status">
+<!ENTITY newevent.status.accesskey                 "S">
+<!ENTITY newevent.eventStatus.none.label           "Nicht angegeben">
+<!ENTITY newevent.eventStatus.none.accesskey       "N" >
+<!ENTITY newevent.todoStatus.none.label            "Nicht angegeben">
+<!ENTITY newevent.eventStatus.cancelled.label      "Abgebrochen">
+<!ENTITY newevent.eventStatus.cancelled.accesskey  "A" >
+<!ENTITY newevent.todoStatus.cancelled.label       "Abgebrochen">
+<!ENTITY newevent.status.tentative.label           "Vorläufig">
+<!ENTITY newevent.status.tentative.accesskey       "V" >
+<!ENTITY newevent.status.confirmed.label           "Bestätigt">
+<!ENTITY newevent.status.confirmed.accesskey       "B" >
+<!ENTITY newevent.status.needsaction.label         "Benötigt Eingriff">
+<!ENTITY newevent.status.inprogress.label          "In Arbeit">
+<!ENTITY newevent.status.completed.label           "Abgeschlossen am">
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; fertig">
