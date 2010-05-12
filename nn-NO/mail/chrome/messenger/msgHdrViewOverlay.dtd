@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
 <!ENTITY otherActionsButton.label "andre handlingar">
-<!ENTITY otherActionsShowConversation.label "vis i samtale">
-<!ENTITY otherActionsShowConversation.accesskey "v">
+<!ENTITY otherActionsOpenConversation.label "Opne i samtale">
+<!ENTITY otherActionsOpenConversation.accesskey "n">
 <!ENTITY otherActionsOpenInNewWindow.label "opne i nytt vindauge">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "o">
 <!ENTITY otherActionsOpenInNewTab.label "opne i ny fane">

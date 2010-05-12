@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "S">
 <!ENTITY folderCharsetOverride.label             "Bruk standard for alle meldingar i mappa (dette vil ikkje verke inn på teiknkoding til enkeltmeldingar og auto-detekterte teiknkodingar)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
-<!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
-<!ENTITY folderRebuildSummaryFile.accesskey      "o">
-<!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt"> 
+<!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Av og til kan oppsummeringsfila (.msf) verte skada, og meldingar kan sjå ut til å forsvinne, eller sletta meldingar kan bli vist. Å reparere mappa kan rette opp desse problema.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inkluder meldingar i denne mappa i globalt søkjeresultat">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
      
 <!ENTITY retention.label "Ivaretaking av meldingar">
 <!ENTITY retentionUseAccount.label  "Bruk innstillingane for kontoen">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
-<!ENTITY folderCheckForNewMessages.label         "Sjå etter nye meldingar for denne mappa">
-<!ENTITY folderCheckForNewMessages.accesskey     "S">
+<!ENTITY folderCheckForNewMessages2.label         "Ved nedlasting av nye meldingar for denne kontoen, kontroller alltid denne mappa">
+<!ENTITY folderCheckForNewMessages2.accesskey     "d">
 
 <!ENTITY offlineFolder.check.label               "Vel denne mappa for fråkopla bruk">
 <!ENTITY offlineFolder.check.accesskey           "V">
