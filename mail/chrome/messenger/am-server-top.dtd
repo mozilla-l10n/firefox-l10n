@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, om tilgjengeleg">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Bruk trygg autentisering">
-<!ENTITY useSecAuth.accesskey "B">
+<!ENTITY authMethod.label "Autentiseringsmetode:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Lat meldingar liggje på tenaren">
 <!ENTITY leaveOnServer.accesskey "m">
 <!ENTITY headersOnly.label "Hent berre meldingshovuda">

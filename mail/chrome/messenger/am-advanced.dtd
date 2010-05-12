@@ -15,9 +15,9 @@
 <!ENTITY smtpListSetDefault.label "Vel standard">
 <!ENTITY smtpListSetDefault.accesskey "e">
 
-<!ENTITY serverDescription.label "Forklaring: ">
+<!ENTITY serverDescription.label "Skildring: ">
 <!ENTITY serverName.label "Tenarnamn: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Brukarnamn: ">
 <!ENTITY connectionSecurity.label "Tilkoplingssikkerheit: ">
-<!ENTITY useSecureAuthentication.label   "Trygg autentisering: ">
+<!ENTITY authMethod.label   "Autentiseringsmetode:">

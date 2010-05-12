@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "Lat den nye mappa innehalde:">
 <!ENTITY foldersOnly.label          "Berre mapper">
 <!ENTITY messagesOnly.label         "Berre meldingar">
+<!ENTITY accept.label               "Opprett mappe">
+<!ENTITY accept.accesskey           "O">
