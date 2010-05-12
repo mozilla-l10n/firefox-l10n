@@ -1,10 +1,11 @@
 <!ENTITY aboutDialog.title "&brandShortName;-ஐ பற்றி">
-<!ENTITY credits.label          "Credits">
-<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutCredits.label     "Credits">
+<!ENTITY aboutCredits.accesskey "C">
+<!ENTITY aboutLicense.label      "License">
+<!ENTITY aboutLicense.accesskey  "L">
 <!ENTITY aboutButton.label      "&lt; Back">
 <!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText "&#169;1998-2005 Contributors. All Rights Reserved. Mozilla Thunderbird and the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights reserved.">
 <!ENTITY aboutMenu.label        "About">
 <!ENTITY aboutMenu.accesskey    "A">
 <!ENTITY aboutRights.label      "Your Rights">
