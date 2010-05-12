@@ -48,9 +48,12 @@
 <!ENTITY folderCharsetTab.accesskey              "N">
 <!ENTITY folderCharsetOverride.label             "Laikyti numatytąja visiems aplanko laiškams (individualios laiškų koduotės ir kitos nuostatos bus ignoruojamos)">
 <!ENTITY folderCharsetOverride.accesskey         "L">
-<!ENTITY folderRebuildSummaryFile.label          "Perindeksuoti">
-<!ENTITY folderRebuildSummaryFile.accesskey      "r">
-<!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Perindeksuoti aplanke esančius laiškus">
+<!ENTITY folderRebuildSummaryFile2.label         "Perindeksuoti aplanką">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
+<!ENTITY folderRebuildSummaryFile.explanation    "Kartais aplanko laiškų indeksas (.msf failas) sugenda, ir gali atrodyti, kad iš aplanko dingo kai kurie laiškai (arba rodomi laiškai, kuriuos pašalinote). Galite pabandyti pašalinti šias problemas, perindeksuodami aplanką.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Į globalios paieškos rezultatus įtraukti šiame aplanke esančius laiškus">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label                         "Laiškų šalinimas">
 <!ENTITY retentionUseAccount.label               "Laikytis paskyros nuostatų">
@@ -72,8 +75,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey       "ž">
 
 <!ENTITY folderSynchronizationTab.label          "Sinchronizavimas">
-<!ENTITY folderCheckForNewMessages.label         "Patikrinti, ar šiame aplanke nėra naujų laiškų">
-<!ENTITY folderCheckForNewMessages.accesskey     "P">
+<!ENTITY folderCheckForNewMessages2.label        "Tikrinant, ar šioje paskyroje yra naujų laiškų, visuomet patikrinti ir šį aplanką">
+<!ENTITY folderCheckForNewMessages2.accesskey    "T">
 
 <!ENTITY offlineFolder.check.label               "Šio aplanko laiškus skaityti atsijungus nuo tinklo">
 <!ENTITY offlineFolder.check.accesskey           "i">

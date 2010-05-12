@@ -612,3 +612,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "„&brandShortName;“ laiko, kad šiame laiške slypi apgaulė.">
 <!ENTITY removePhishingBarButton.label "Nėra apgaulės">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Šio laiško siuntėjas pageidavo pažymos, kad perskaitėte jo laišką. Ar išsiųsti tokią pažymą?">
+<!ENTITY mdnBarIgnoreButton.label "Nepaisyti prašymo">
+<!ENTITY mdnBarSendButton.label "Išsiųsti pažymą">

@@ -50,7 +50,7 @@
 <!ENTITY folderCharsetOverride.accesskey         "L">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Perindeksuoti aplanke esančius laiškus">
 <!ENTITY folderRebuildSummaryFile2.label         "Perindeksuoti aplanką">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "t">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
 <!ENTITY folderRebuildSummaryFile.explanation    "Kartais aplanko laiškų indeksas (.msf failas) sugenda, ir gali atrodyti, kad iš aplanko dingo kai kurie laiškai (arba rodomi laiškai, kuriuos pašalinote). Galite pabandyti pašalinti šias problemas, perindeksuodami aplanką.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Įtraukti šiame aplanke esančius laiškus į globaliosios paieškos rezultatus">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
