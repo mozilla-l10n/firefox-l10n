@@ -1,6 +1,6 @@
 <!-- extracted from content/viewSource.xul -->
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -14,7 +14,7 @@
 <!ENTITY savePageCmd.accesskey "S">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Roghainnean na duilleige…">
-<!ENTITY pageSetupCmd.accesskey "r">
+<!ENTITY pageSetupCmd.accesskey "R">
 <!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
 <!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Clò-bhuail…">
@@ -23,57 +23,54 @@
 <!ENTITY closeCmd.label "Dùin">
 <!ENTITY closeCmd.accesskey "D">
 <!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
-<!ENTITY textEnlarge.commandkey3 "_: textEnlarge.commandkey3
-">
+<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
-<!ENTITY textReduce.commandkey2 "_: textReduce.commandkey2
-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
-<!ENTITY textReset.commandkey2 "_: textReset.commandkey2
-">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Rach gu loidhne…">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.accesskey "g">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "Sealladh">
-<!ENTITY viewMenu.accesskey "S">
+<!ENTITY viewMenu.label           "Sealladh">
+<!ENTITY viewMenu.accesskey       "S">
 <!ENTITY reloadCmd.label "Ath-luchdaich">
 <!ENTITY reloadCmd.accesskey "A">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Paisg loidhnichean fada">
+<!ENTITY menu_wrapLongLines.title "Paisg loidhnichean fada"> 
 <!ENTITY menu_wrapLongLines.accesskey "P">
 <!ENTITY menu_highlightSyntax.label "Comharrachadh co-chàraidh">
-<!ENTITY menu_highlightSyntax.accesskey "M">
+<!ENTITY menu_highlightSyntax.accesskey "m">
 <!ENTITY menu_textSize.label "Meud an teacs">
-<!ENTITY menu_textSize.accesskey "S">
+<!ENTITY menu_textSize.accesskey "s">
 <!ENTITY menu_textEnlarge.label "Clò nas motha">
-<!ENTITY menu_textEnlarge.accesskey "M">
+<!ENTITY menu_textEnlarge.accesskey "m">
 <!ENTITY menu_textReduce.label "Clò nas lugha">
-<!ENTITY menu_textReduce.accesskey "L">
+<!ENTITY menu_textReduce.accesskey "l">
 <!ENTITY menu_textReset.label "Meud àbhaisteach">
-<!ENTITY menu_textReset.accesskey "B">
+<!ENTITY menu_textReset.accesskey "b">
 
-<!ENTITY findOnCmd.label "Lorg san duilleag seo…">
+<!ENTITY findOnCmd.label     "Lorg san duilleag seo…">
 <!ENTITY findOnCmd.accesskey "L">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Lorg a-rithist">
+<!ENTITY findAgainCmd.label  "Lorg a-rithist">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "C">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Air ais">
-<!ENTITY backCmd.accesskey "I">
+<!ENTITY backCmd.accesskey "i">
 <!ENTITY forwardCmd.label "Air adhart">
-<!ENTITY forwardCmd.accesskey "D">
+<!ENTITY forwardCmd.accesskey "d">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

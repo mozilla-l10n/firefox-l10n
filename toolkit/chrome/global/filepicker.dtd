@@ -1,17 +1,17 @@
-<!ENTITY lookInMenuList.label "Lorg an-seo:">
-<!ENTITY lookInMenuList.accesskey "L">
-<!ENTITY textInput.label "Ainm an fhaidhle:">
-<!ENTITY textInput.accesskey "n">
-<!ENTITY filterMenuList.label "Seòrsa an fhaidhle:">
-<!ENTITY filterMenuList.accesskey "s">
-<!ENTITY name.label "Ainm">
-<!ENTITY size.label "Meud">
-<!ENTITY lastModified.label "Atharrachadh mu dheireadh">
-<!ENTITY showHiddenFiles.label "Seall na faidhlichean is pasgain fhalaichte">
-<!ENTITY showHiddenFiles.accesskey "P">
+<!ENTITY lookInMenuList.label   "Lorg an-seo:">
+<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY textInput.label        "Ainm an fhaidhle:">
+<!ENTITY textInput.accesskey        "n">
+<!ENTITY filterMenuList.label   "Seòrsa an fhaidhle:">
+<!ENTITY filterMenuList.accesskey   "s">
+<!ENTITY name.label             "Ainm">
+<!ENTITY size.label             "Meud">
+<!ENTITY lastModified.label     "Atharrachadh mu dheireadh">
+<!ENTITY showHiddenFiles.label  "Seall na faidhlichean is pasgain fhalaichte">
+<!ENTITY showHiddenFiles.accesskey  "p">
 
 <!ENTITY noPermissionError.label "Chan eil cead iomchaidh agad gus am pasgan seo fhaicinn.">
 
-<!ENTITY folderUp.tooltiptext "Rach suas leibheil">
+<!ENTITY folderUp.tooltiptext   "Rach suas leibheil">
 <!ENTITY folderHome.tooltiptext "Rach dhachaigh">
-<!ENTITY folderNew.tooltiptext "Cruthaich pasgan ùr">
+<!ENTITY folderNew.tooltiptext  "Cruthaich pasgan ùr">

@@ -1,85 +1,83 @@
-<!ENTITY history.label "Eachdraidh">
+<!ENTITY  history.label                 "Eachdraidh">
 
-<!ENTITY locationBar.label "Bàr an t-seòlaidh">
+<!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
 
-<!ENTITY locbar.pre.label "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh:">
-<!ENTITY locbar.pre.accessKey "u">
-<!ENTITY locbar.post.label "_: locbar.post.label
-">
-<!ENTITY locbar.both.label "Eachdraidh is comharraidhean-lìn">
-<!ENTITY locbar.history.label "Eachdraidh">
-<!ENTITY locbar.bookmarks.label "Comharraidhean-lìn">
-<!ENTITY locbar.nothing.label "Na mol càil">
-
-
-<!ENTITY acceptCookies.label "Gabh ri briosgaidean o làraichean">
-<!ENTITY acceptCookies.accesskey "c">
-
-<!ENTITY acceptThirdParty.label "Gabh ri briosgaidean treas pàrtaidh">
-<!ENTITY acceptThirdParty.accesskey "p">
-
-<!ENTITY keepUntil.label "Cum gus:">
-<!ENTITY keepUntil.accesskey "C">
-
-<!ENTITY expire.label "am falbh an ùine orra">
-<!ENTITY close.label "an dùin mi &brandShortName;">
-<!ENTITY askEachTime.label "faighnich dhìom gach turas">
-
-<!ENTITY cookieExceptions.label "Eisgeachdan…">
-<!ENTITY cookieExceptions.accesskey "E">
-
-<!ENTITY showCookies.label "Seall na briosgaidean…">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY  locbar.pre.label              "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Eachdraidh is comharraidhean-lìn">
+<!ENTITY  locbar.history.label          "Eachdraidh">
+<!ENTITY  locbar.bookmarks.label        "Comharraidhean-lìn">
+<!ENTITY  locbar.nothing.label          "Na mol càil">
 
 
-<!ENTITY historyHeader.pre.label "Dè nì &brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "d">
-<!ENTITY historyHeader.remember.label "Cuimhnich an eachdraidh">
-<!ENTITY historyHeader.dontremember.label "Na cuimhnich an eachdraidh gu bràth">
-<!ENTITY historyHeader.custom.label "Cleachd roghainnean gnàthaichte airson an eachdraidh">
-<!ENTITY historyHeader.post.label "_: historyHeader.post.label
-">
+<!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
+<!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY rememberDescription.label "Cuimhnichidh &brandShortName; eachdraidh an rannsachaidh, nan luchdaidhean a-nuas agus nan lorg agad is cumaidh e briosgaidean o na làraichean air a thadhlas tu.">
+<!ENTITY  acceptThirdParty.label        "Gabh ri briosgaidean treas pàrtaidh">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "Cum gus:">
+<!ENTITY  keepUntil.accesskey           "C">
+
+<!ENTITY  expire.label                  "am falbh an ùine orra">
+<!ENTITY  close.label                   "an dùin mi &brandShortName;">
+<!ENTITY  askEachTime.label             "faighnich dhìom gach turas">
+
+<!ENTITY  cookieExceptions.label        "Eisgeachdan…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Seall na briosgaidean…">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  historyHeader.pre.label          "Dè nì &brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "D">
+<!ENTITY  historyHeader.remember.label     "Cuimhnich an eachdraidh">
+<!ENTITY  historyHeader.dontremember.label "Na cuimhnich an eachdraidh gu bràth">
+<!ENTITY  historyHeader.custom.label       "Cleachd roghainnean gnàthaichte airson na h-eachdraidh">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "Cuimhnichidh &brandShortName; eachdraidh an rannsachaidh, nan luchdaidhean a-nuas agus nan lorg agad is cumaidh e briosgaidean o na làraichean air a thadhlas tu.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "'S dòcha gum b' fheairrde dhut ">
+<!ENTITY  rememberActions.clearHistory.label  "an eachdraidh faisg ort a ghlanadh">
+<!ENTITY  rememberActions.middle.label        ", no ">
+<!ENTITY  rememberActions.removeCookies.label "briosgaidean fa leth a thoirt air falbh">
+<!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY rememberActions.pre.label "'S dòcha gum b' fheairrde dhut ">
-<!ENTITY rememberActions.clearHistory.label "an eachdraidh faisg ort a ghlanadh">
-<!ENTITY rememberActions.middle.label ", no ">
-<!ENTITY rememberActions.removeCookies.label "briosgaidean fa leth a thoirt às">
-<!ENTITY rememberActions.post.label ".">
+<!ENTITY  dontrememberDescription.label  "Cleachdaidh &brandShortName; na dearbh roghainnean 's a tha agad ann an rannsachadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' rannsachadh an lìn.">
 
-<!ENTITY dontrememberDescription.label "Cleachdaidh &brandShortName; na dearbh roghainnean 's a tha agad ann an rannsachadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' rannsachadh an lìn.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "'S dòcha gum b' fheairrde dhut cuideachd ">
+<!ENTITY  dontrememberActions.clearHistory.label "an eachdraidh làithreach gu lèir a ghlanadh">
+<!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY dontrememberActions.pre.label "'S dòcha gum b' fheairrde dhut cuideachd ">
-<!ENTITY dontrememberActions.clearHistory.label "an eachdraidh làithreach gu lèir a ghlanadh">
-<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY  privateBrowsingAutoStart.label "Tòisich &brandShortName; ann an seisean rannsachaidh phrìobhaidich leis fhèin">
+<!ENTITY  privateBrowsingAutoStart.accesskey "a">
 
-<!ENTITY privateBrowsingAutoStart.label "Tòisich &brandShortName; ann an seisean rannsachaidh phrìobhaidich leis fhèin">
-<!ENTITY privateBrowsingAutoStart.accesskey "A">
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
   line in preferences as follows:
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
+<!ENTITY  rememberHistory.pre.label      "Cuimhnich m' eachdraidh rannsachaidh air a' char as lugha fad">
+<!ENTITY  rememberHistory.pre.accesskey  "m">
+<!ENTITY  rememberHistory.post.label     "latha">
 
-<!ENTITY rememberHistory.pre.label "Cuimhnich m' eachdraidh rannsachaidh fad">
-<!ENTITY rememberHistory.pre.accesskey "m">
-<!ENTITY rememberHistory.post.label "làithean seo chaidh">
+<!ENTITY  rememberDownload.label         "Cuimhnich eachdraidh nan luchdaidhean a-nuas">
+<!ENTITY  rememberDownload.accesskey     "d">
 
-<!ENTITY rememberDownload.label "Cuimhnich eachdraidh nan luchdaidhean a-nuas">
-<!ENTITY rememberDownload.accesskey "d">
+<!ENTITY  rememberSearchForm.label       "Cuimhnich eachdraidh nan lorg is nam foirmichean">
+<!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY rememberSearchForm.label "Cuimhnich eachdraidh nan lorg is nam foirmichean">
-<!ENTITY rememberSearchForm.accesskey "f">
+<!ENTITY  clearOnClose.label             "Glan an eachdraidh nuair a dhùineas &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY clearOnClose.label "Glan an eachdraidh nuair a dhùineas &brandShortName;">
-<!ENTITY clearOnClose.accesskey "r">
-
-<!ENTITY clearOnCloseSettings.label "Roghainnean…">
-<!ENTITY clearOnCloseSettings.accesskey "g">
+<!ENTITY  clearOnCloseSettings.label     "Roghainnean…">
+<!ENTITY  clearOnCloseSettings.accesskey "g">

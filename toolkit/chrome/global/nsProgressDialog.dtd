@@ -35,51 +35,52 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are used on the download progress dialog.
      See: http://lxr.mozilla.org/seamonkey/source/embedding/components/ui/progressDlg/nsProgressDialog.xul
 -->
+
 <!-- This is used prior to initializing with a proper title -->
+<!ENTITY defaultTitle     "A' sàbhaladh">
 
-
-<!ENTITY defaultTitle "A' sàbhaladh">
 <!-- These are used when saving -->
+<!ENTITY savingTitle      "#2&#037; de #1 air an sàbhaladh"> 
+<!ENTITY savingSource     "A' sàbhaladh o:"> 
+<!ENTITY savingTarget     "Gu:"> 
 
-<!ENTITY savingTitle "#2&#037; de #1 air an sàbhaladh">
-<!ENTITY savingSource "A' sàbhaladh o:">
-<!ENTITY savingTarget "Gu:">
 <!-- These are used when opening (with an application) -->
+<!ENTITY openingTitle      "#2&#037; de #1 deiseil">
+<!ENTITY openingSource     "A' fosgladh o:">
+<!ENTITY openingTarget     "Le:">
 
-<!ENTITY openingTitle "#2&#037; de #1 deiseil">
-<!ENTITY openingSource "A' fosgladh o:">
-<!ENTITY openingTarget "Le:">
 <!-- This is used when the download percentage is unknown -->
-
-<!ENTITY unknownSavingTitle "#1 'ga shàbhaladh">
+<!ENTITY unknownSavingTitle  "#1 'ga shàbhaladh">
 <!ENTITY unknownOpeningTitle "A' fosgladh #1">
+
 <!-- Labels on other fields -->
-
-<!ENTITY status "Cor:">
+<!ENTITY status      "Cor:"> 
 <!ENTITY timeElapsed "An tìde a thug e:">
-<!ENTITY timeLeft "An tìde a bheir e fhathast:">
-<!ENTITY progress "Adhartas:">
+<!ENTITY timeLeft    "An tìde a bheir e fhathast:">
+<!ENTITY progress    "Adhartas:">
+
 <!-- Label for the "keep dialog" checkbox -->
-
 <!ENTITY keep "Cum an uinneag seo fosgailte as dèidh dhan luchdadh a-nuas a bhith deiseil.">
-<!-- Button labels -->
 
-<!ENTITY cancel "Sguir dheth">
-<!ENTITY pause "Cuir 'na stad">
+<!-- Button labels -->
+<!ENTITY cancel "Sguir dheth"> 
+<!ENTITY pause  "Cuir 'na stad">
 <!ENTITY resume "Lean air">
-<!ENTITY close "Dùin">
+<!ENTITY close  "Dùin">
 <!ENTITY reveal "Seall làthair an fhaidhle">
-<!ENTITY launch "Toisich am faidhle">
+<!ENTITY launch "Tòisich am faidhle">
+
 <!-- Status/progress messages -->
+
 <!-- LOCALIZATION NOTE (pausedMsg):
     This string is used to indicate that the download is paused -->
-
-
 <!ENTITY pausedMsg "_: 
 Luchdadh a-nuas 'na stad">
+
 <!-- LOCALIZATION NOTE (progressMsg):
 
     This string is used to generate the status message used during
@@ -88,15 +89,15 @@ Luchdadh a-nuas 'na stad">
     #1 will be replaced by the number of bytes downloaded thus far
     #2 will be replaced by the total number of bytes to be downloaded
     #3 will be replaced by the download rate (in KB per second) -->
-
 <!ENTITY progressMsg "_: 
 #1kB de #2kB (aig #3kB/diog)">
+
 <!-- LOCALIZATION NOTE (unknownTime):
     
     This string is used when the time remaining is unknown. -->
-
 <!ENTITY unknownTime "_: 
 Neo-aithnichte">
+
 <!-- LOCALIZATION NOTE (longTimeFormat):
 
     This string is used to format elapsed/remaining times when the
@@ -105,9 +106,9 @@ Neo-aithnichte">
     #1 will be replaced by the number of hours
     #2 will be replaced by the number of minutes
     #3 will be replaced by the number of seconds -->
-
 <!ENTITY longTimeFormat "_: 
 #1:#2:#3">
+
 <!-- LOCALIZATION NOTE (shortTimeFormat):
 
     This string is used to format elapsed/remaining times when the
@@ -117,9 +118,9 @@ Neo-aithnichte">
     #1 will be replaced by the number of hours
     #2 will be replaced by the number of minutes
     #3 will be replaced by the number of seconds -->
-
 <!ENTITY shortTimeFormat "_: 
 #2:#3">
+
 <!-- LOCALIZATION NOTE (completeMsg):
 
     This string is displayed when the download is complete.  The insert
@@ -129,15 +130,14 @@ Neo-aithnichte">
 
     #1 will be replaced by the elapsed time
     #2 will be replaced by the size of the file in Kilobytes -->
-
 <!ENTITY completeMsg "_: 
 Deiseil, #2 kB air a luchdadh a-nuas (thug e: #1)">
+
 <!-- LOCALIZATION NOTE (percentMsg):
 
     This string is used to format the text to the right of the progress
     meter.
 
     #1 will be replaced by the percentage of the file that has been saved -->
-
 <!ENTITY percentMsg "_: 
 #1&#037;">

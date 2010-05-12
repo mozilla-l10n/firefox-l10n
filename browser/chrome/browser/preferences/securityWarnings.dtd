@@ -1,13 +1,13 @@
-<!ENTITY securityWarnings.title "Rabhaidhean tèarainteachd">
+<!ENTITY securityWarnings.title                   "Rabhaidhean tèarainteachd">
 
-<!ENTITY security.warn_when "Seall teachdaireachd rabhaidh dhomh nuair a bhios mi:">
-<!ENTITY security.warn_entering_secure.label "a' coimhead air duilleag rùnaichte.">
-<!ENTITY security.warn_entering_secure.accesskey "r">
-<!ENTITY security.warn_entering_weak.label "a' coimhead air duilleag a chleachdas rùnachadh de dh'ìre ìseal.">
-<!ENTITY security.warn_entering_weak.accesskey "g">
-<!ENTITY security.warn_leaving_secure.label "a' dol o dhuilleag rùnaichte gu duilleag nach eil rùnaichte.">
-<!ENTITY security.warn_leaving_secure.accesskey "l">
-<!ENTITY security.warn_submit_insecure.label "a' toirt seachad fiosrachadh nach eil rùnaichte.">
-<!ENTITY security.warn_submit_insecure.accesskey "s">
-<!ENTITY security.warn_viewing_mixed.label "a' coimhead air duilleag rùnaichte air a bheil cuid de dh'fhiosrachadh nach eil rùnaichte.">
-<!ENTITY security.warn_viewing_mixed.accesskey "u">
+<!ENTITY security.warn_when                       "Seall teachdaireachd rabhaidh dhomh nuair a bhios mi:">
+<!ENTITY security.warn_entering_secure.label      "a' coimhead air duilleag a chaidh a dhubh-cheileadh.">
+<!ENTITY security.warn_entering_secure.accesskey  "d">
+<!ENTITY security.warn_entering_weak.label        "a' coimhead air duilleag a chleachdas dubh-cheileadh de dh'ìre ìseal.">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "a' dol o dhuilleag a chaidh a dhubh-cheileadh gu duilleag nach deach a dhubh-cheileadh.">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "a' toirt seachad fiosrachadh nach eil air a dhubh-cheileadh.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "a' coimhead air duilleag a chaidh a dhubh-cheileadh air a bheil cuid de dh'fhiosrachadh nach eil air a dhubh-cheileadh.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

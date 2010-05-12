@@ -3,10 +3,10 @@
 <!ENTITY printJobOptions.title "Roghainnean a' chlò-bhualadair">
 
 <!ENTITY paperInput.label "Meud a' phàipeir">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.accesskey "p">
 
 <!ENTITY plexInput.label "Modh plex:">
-<!ENTITY plexInput.accesskey "m">
+<!ENTITY plexInput.accesskey "M">
 
 <!ENTITY resolutionInput.label "Dùmhlachd-bhreacaidh/Càileachd:">
 <!ENTITY resolutionInput.accesskey "e">
@@ -15,11 +15,11 @@
 <!ENTITY cmdInput.accesskey "u">
 
 <!ENTITY jobTitleInput.label "Ainm na saothrach:">
-<!ENTITY jobTitleInput.accesskey "T">
+<!ENTITY jobTitleInput.accesskey "t">
 
 <!ENTITY colorGroup.label "Dath:">
 <!ENTITY grayRadio.label "Sgèile liath">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.accesskey "g">
 <!ENTITY colorRadio.label "Dath">
 <!ENTITY colorRadio.accesskey "D">
 
@@ -28,14 +28,14 @@
 
 <!ENTITY fontsGroup.label "Cruthan-clò:">
 <!ENTITY downloadFonts.label "Luchdaich cruthan-clò a-nuas dhan chlò-bhualadair">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Beàrn eadar oir a' phàipeir is am marghan">
 <!ENTITY topInput.label "Barr:">
 <!ENTITY topInput.accesskey "B">
 <!ENTITY bottomInput.label "Bun:">
-<!ENTITY bottomInput.accesskey "U">
+<!ENTITY bottomInput.accesskey "u">
 <!ENTITY leftInput.label "Clì:">
-<!ENTITY leftInput.accesskey "L">
+<!ENTITY leftInput.accesskey "l">
 <!ENTITY rightInput.label "Deis:">
-<!ENTITY rightInput.accesskey "E">
+<!ENTITY rightInput.accesskey "e">

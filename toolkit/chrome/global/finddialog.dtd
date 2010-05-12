@@ -8,11 +8,11 @@
 <!ENTITY wrapCheckbox.label "Paisg">
 <!ENTITY wrapCheckbox.accesskey "P">
 <!ENTITY findButton.label "An ath-fhear">
-<!ENTITY findButton.accesskey "F">
+<!ENTITY findButton.accesskey "f">
 <!ENTITY cancelButton.label "Sguir dheth">
 <!ENTITY closeButton.label "Dùin">
 <!ENTITY up.label "Suas">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "u">
 <!ENTITY down.label "Sìos">
 <!ENTITY down.accesskey "S">
 <!ENTITY direction.label "Taobh">

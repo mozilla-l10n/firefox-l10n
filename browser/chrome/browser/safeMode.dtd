@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "Modh tèarainte &brandShortName;">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title         "Modh tèarainte &brandShortName;">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is cha bhi na roghainnean, coltasan is leasachain ghnàthaichte agad comasach rè seal.">
-<!ENTITY safeModeDescription2.label "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">
+<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, coltasan is leasachain ghnàthaichte agad à comas rè seal.">
+<!ENTITY safeModeDescription2.label   "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">
 
-<!ENTITY disableAddons.label "Dèan gach tuillead neo chomasach">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY disableAddons.label          "Dèan gach tuillead neo chomasach">
+<!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label "Aisig gach bàr-inneil is inneal-smachd">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.label          "Aisig gach bàr-inneil is inneal-smachd">
+<!ENTITY resetToolbars.accesskey      "r">
 
-<!ENTITY deleteBookmarks.label "Sguaib às gach comharra-lìn ach a-mhàin na lethbhric-ghlèidhidh">
-<!ENTITY deleteBookmarks.accesskey "m">
+<!ENTITY deleteBookmarks.label        "Sguab às gach comharra-lìn ach a-mhàin na lethbhric-ghlèidhidh">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY resetUserPrefs.label "Aisig gach roghainn a' chleachdaiche gu roghainnean bunaiteach &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "g">
+<!ENTITY resetUserPrefs.label         "Aisig gach roghainn a' chleachdaiche gu roghainnean bunaiteach &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "g">
 
-<!ENTITY restoreSearch.label "Aisig na h-innealan-luirg bunaiteach">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label          "Aisig na h-innealan-luirg bunaiteach">
+<!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Cuir na h-atharrachaidhean an gnìomh is ath-thòisich">
-<!ENTITY continueButton.label "Lean air adhart sa mhodh tèarainte">
+<!ENTITY continueButton.label         "Lean air adhart sa mhodh tèarainte">

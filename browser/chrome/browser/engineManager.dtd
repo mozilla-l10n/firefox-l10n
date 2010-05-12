@@ -1,25 +1,25 @@
-<!ENTITY engineManager.title "Rianaich liosta nan innealan-luirg">
-<!ENTITY engineManager.style "min-width: 39em;">
-<!ENTITY engineManager.intro "Tha na h-innealan-luirg a leanas air an suidheachadh agad:">
+<!ENTITY  engineManager.title       "Rianaich liosta nan innealan-luirg">
+<!ENTITY  engineManager.style       "min-width: 39em;">
+<!ENTITY  engineManager.intro       "Tha na h-innealan-luirg a leanas air an suidheachadh agad:">
 
-<!ENTITY columnLabel.name "Ainm">
-<!ENTITY columnLabel.keyword "Facal-luirg">
+<!ENTITY  columnLabel.name          "Ainm">
+<!ENTITY  columnLabel.keyword       "Facal-luirg">
+
 <!-- Buttons -->
+<!ENTITY  up.label                  "Gluais suas">
+<!ENTITY  up.accesskey              "u">
+<!ENTITY  dn.label                  "Gluais sìos">
+<!ENTITY  dn.accesskey              "o">
+<!ENTITY  remove.label              "Thoir air falbh">
+<!ENTITY  remove.accesskey          "r">
+<!ENTITY  edit.label                "Deasaich am facal-luirg…">
+<!ENTITY  edit.accesskey            "e">
 
-<!ENTITY up.label "Gluais suas">
-<!ENTITY up.accesskey "U">
-<!ENTITY dn.label "Gluais sìos">
-<!ENTITY dn.accesskey "O">
-<!ENTITY remove.label "Thoir às">
-<!ENTITY remove.accesskey "T">
-<!ENTITY edit.label "Deasaich am facal-luirg…">
-<!ENTITY edit.accesskey "e">
+<!ENTITY  addEngine.label           "Faigh tuilleadh innealan-luirg…">
+<!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY addEngine.label "Faigh tuilleadh innealan-luirg…">
-<!ENTITY addEngine.accesskey "A">
+<!ENTITY  enableSuggest.label       "Seall molaidhean-luirg">
+<!ENTITY  enableSuggest.accesskey   "S">
 
-<!ENTITY enableSuggest.label "Seall molaidhean-luirg">
-<!ENTITY enableSuggest.accesskey "S">
-
-<!ENTITY restoreDefaults.label "Aisig na roghainnean bunaiteach">
-<!ENTITY restoreDefaults.accesskey "e">
+<!ENTITY  restoreDefaults.label     "Aisig na roghainnean bunaiteach">
+<!ENTITY  restoreDefaults.accesskey "e">

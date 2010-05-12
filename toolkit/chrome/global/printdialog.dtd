@@ -7,23 +7,23 @@
 <!ENTITY fpDialog.title "Sàbhail am faidhle">
 
 <!ENTITY fileCheck.label "Clò-bhuail gu faidhle">
-<!ENTITY fileCheck.accesskey "F">
+<!ENTITY fileCheck.accesskey "f">
 <!ENTITY propertiesButton.label "Roghainnean…">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Tuairisgeul a' chlò-bhualadair:">
 <!ENTITY printer.label "Clò-bhualadair">
 <!ENTITY printerInput.label "Ainm a' chlò-bhualadair:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "Raon a' chlò-bhualaidh">
 <!ENTITY allpagesRadio.label "A h-uile duilleag">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label "Duilleagan">
-<!ENTITY rangeRadio.accesskey "D">
-<!ENTITY frompageInput.label "o">
-<!ENTITY frompageInput.accesskey "o">
-<!ENTITY topageInput.label "gu">
-<!ENTITY topageInput.accesskey "g">
+<!ENTITY rangeRadio.label  "Duilleagan">
+<!ENTITY rangeRadio.accesskey  "D">
+<!ENTITY frompageInput.label  "o">
+<!ENTITY frompageInput.accesskey  "o">
+<!ENTITY topageInput.label  "gu">
+<!ENTITY topageInput.accesskey  "g">
 <!ENTITY selectionRadio.label "Na chaidh a thaghadh">
 <!ENTITY selectionRadio.accesskey "N">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Clò-bhuail frèamaichean">
 <!ENTITY aslaidoutRadio.label "Mar a chithear air an sgrìn">
 <!ENTITY aslaidoutRadio.accesskey "s">
-<!ENTITY selectedframeRadio.label "Am frèam a chaidh a thaghadh">
-<!ENTITY selectedframeRadio.accesskey "m">
-<!ENTITY eachframesepRadio.label "Gach frèam na aonar">
-<!ENTITY eachframesepRadio.accesskey "G">
+<!ENTITY selectedframeRadio.label  "Am frèam a chaidh a thaghadh">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Gach frèam na aonar">
+<!ENTITY eachframesepRadio.accesskey  "G">

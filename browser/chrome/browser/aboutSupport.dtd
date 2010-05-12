@@ -1,11 +1,11 @@
 <!ENTITY aboutSupport.pageTitle "Taic le duilgheadasan">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut 's tu a' feuchainn ri duilgheadas a rèiteachadh. Ma tha thu a' sireadh freagairtean air ceistean coitcheann mu &brandShortName;, feuch ris <a id='supportLink'>an làrach taice</a> againn.">
 
 <!ENTITY aboutSupport.extensionsTitle "Leasachain">
 <!ENTITY aboutSupport.extensionName "Ainm">
-<!ENTITY aboutSupport.extensionEnabled "Comasach">
+<!ENTITY aboutSupport.extensionEnabled "Air a chur an comas">
 <!ENTITY aboutSupport.extensionVersion "Tionndadh">
 <!ENTITY aboutSupport.extensionId "DA">
 
@@ -17,10 +17,10 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Co-dhealbhachd na togalach">
 
 <!ENTITY aboutSupport.show.label "Fosgail am pasgan far a bheil e">
+
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Seall san lorgair">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Roghainnean air an atharrachadh">

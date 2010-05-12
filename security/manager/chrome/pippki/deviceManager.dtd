@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Manaidsear nan innealan">
+<!ENTITY devmgr.title                           "Manaidsear nan innealan">
 
-<!ENTITY devmgr.devlist.label "Mòidealan is innealan tèarainteachd">
-<!ENTITY devmgr.details.title "Mion-fhiosrachadh">
-<!ENTITY devmgr.details.title2 "Luach">
-<!ENTITY devmgr.status.label "Cor">
-<!ENTITY devmgr.version.label "Tionndadh">
+<!ENTITY devmgr.devlist.label                   "Mòidealan is innealan tèarainteachd">
+<!ENTITY devmgr.details.title                   "Mion-fhiosrachadh">
+<!ENTITY devmgr.details.title2                  "Luach">
+<!ENTITY devmgr.status.label                    "Cor">
+<!ENTITY devmgr.version.label                   "Tionndadh">
 
-<!ENTITY devmgr.button.changeslotname.label "Atharraich ainm an t-sliotain">
+<!ENTITY devmgr.button.changeslotname.label     "Atharraich ainm an t-sliotain">
 <!ENTITY devmgr.button.changeslotname.accesskey "A">
-<!ENTITY devmgr.button.login.label "Log a-steach">
-<!ENTITY devmgr.button.login.accesskey "g">
-<!ENTITY devmgr.button.logout.label "Log a-mach">
-<!ENTITY devmgr.button.logout.accesskey "-">
-<!ENTITY devmgr.button.changepw.label "Atharraich am facal-faire">
-<!ENTITY devmgr.button.changepw.accesskey "F">
-<!ENTITY devmgr.button.load.label "Luchdaich">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Dì-luchdaich">
-<!ENTITY devmgr.button.unload.accesskey "D">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "Log a-steach">
+<!ENTITY devmgr.button.login.accesskey          "g">
+<!ENTITY devmgr.button.logout.label             "Log a-mach">
+<!ENTITY devmgr.button.logout.accesskey         "-">
+<!ENTITY devmgr.button.changepw.label           "Atharraich am facal-faire">
+<!ENTITY devmgr.button.changepw.accesskey       "f">
+<!ENTITY devmgr.button.load.label               "Luchdaich">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Dì-luchdaich">
+<!ENTITY devmgr.button.unload.accesskey         "D">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Cuir a-steach fiosrachadh mun mhòideal a bu toigh leat a chur ris.">
-<!ENTITY loaddevice.modname "Ainm a' mhòideil:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Mòideal PKCS#11 ùr">
-<!ENTITY loaddevice.filename "Ainm faidhle a' mhòideil:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Rùraich…">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "Cuir a-steach fiosrachadh mun mhòideal a bu toigh leat a chur ris.">
+<!ENTITY loaddevice.modname                     "Ainm a' mhòideil:">
+<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname.default             "Mòideal PKCS#11 ùr">
+<!ENTITY loaddevice.filename                    "Ainm faidhle a' mhòideil:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "Rùraich…">
+<!ENTITY loaddevice.browse.accesskey            "R">
 
-<!ENTITY loaddevice.title "Luchdaich inneal PKCS#11">
+<!ENTITY loaddevice.title                       "Luchdaich inneal PKCS#11">
