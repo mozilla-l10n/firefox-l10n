@@ -38,3 +38,6 @@
 
 <!ENTITY blocklist.accept.label      "Paleisti „&brandShortName;“ iš naujo">
 <!ENTITY blocklist.accept.accesskey  "l">
+
+<!ENTITY blocklist.blocked.label     "Užblokuotas">
+<!ENTITY blocklist.checkbox.label    "Išjungti">

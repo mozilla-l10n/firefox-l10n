@@ -45,8 +45,6 @@
 <!ENTITY edit.accesskey                 "T">
 <!ENTITY views.label                    "Rodymas">
 <!ENTITY views.accesskey                "R">
-<!ENTITY view.toolbar.label             "Priemonių juosta">
-<!ENTITY view.toolbar.accesskey         "e">
 <!ENTITY view.columns.label             "Rodyti stulpelius">
 <!ENTITY view.columns.accesskey         "s">
 <!ENTITY view.sort.label                "Rikiavimas">
@@ -75,28 +73,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pasirinkite failą…">
 <!ENTITY cmd.restoreFromFile.accesskey  "f">
 
-<!ENTITY cmd.select_all.label           "Pažymėti viską">
-<!ENTITY cmd.select_all.accesskey       "v">
-<!ENTITY cmd.select_all.key             "a">
-
-<!ENTITY cmd.edit_cut.label             "Iškirpti">
-<!ENTITY cmd.edit_cut.accesskey         "r">
-<!ENTITY cmd.edit_cut.key               "x">
-<!ENTITY cmd.edit_copy.label            "Kopijuoti">
-<!ENTITY cmd.edit_copy.accesskey        "K">
-<!ENTITY cmd.edit_copy.key              "c">
-<!ENTITY cmd.edit_paste.label           "Įdėti">
-<!ENTITY cmd.edit_paste.accesskey       "d">
-<!ENTITY cmd.edit_paste.key             "v">
-<!ENTITY cmd.edit_delete.label          "Pašalinti">
-<!ENTITY cmd.edit_delete.accesskey      "š">
-<!ENTITY cmd.edit_undo.label            "Atšaukti">
-<!ENTITY cmd.edit_undo.accesskey        "A">
-<!ENTITY cmd.edit_undo.key              "z">
-<!ENTITY cmd.edit_redo.label            "Atstatyti">
-<!ENTITY cmd.edit_redo.accesskey        "t">
-<!ENTITY cmd.edit_redo.key              "y">
-
 <!ENTITY cmd.bookmarkLink.label          "Įrašyti šį tinklalapį…">
 <!ENTITY cmd.bookmarkLink.accesskey      "r">
 <!ENTITY cmd.delete.label                "Pašalinti šį tinklalapį">
@@ -116,17 +92,12 @@
 <!ENTITY cmd.properties.label            "Savybės">
 <!ENTITY cmd.properties.accesskey        "S">
 
-<!ENTITY cmd.rename.label                "Pervardyti">
-<!ENTITY cmd.rename.accesskey            "P">
-
 <!ENTITY cmd.sortby_name.label              "Rikiuoti pagal pavadinimą">
 <!ENTITY cmd.sortby_name.accesskey          "R">
 <!ENTITY cmd.context_sortby_name.accesskey  "R">
 
 <!ENTITY cmd.new_bookmark.label            "Naujas adresas…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_livemark.label            "Naujas kanalo adresas…">
-<!ENTITY cmd.new_livemark.accesskey        "k">
 <!ENTITY cmd.new_folder.label              "Naujas aplankas…">
 <!ENTITY cmd.new_folder.accesskey          "l">
 <!ENTITY cmd.context_new_folder.accesskey  "a">
@@ -165,9 +136,6 @@
 <!ENTITY saveSearch.accesskey                      "r">
 
 <!ENTITY cmd.find.key  "f">
-
-<!ENTITY feed.subscribe.label    "Kanalas">
-<!ENTITY feed.subscribe.tooltip  "Prenumeruoti">
 
 <!ENTITY maintenance.label   "Importas ir atsarginės kopijos">
 <!ENTITY maintenance.accesskey  "I">
