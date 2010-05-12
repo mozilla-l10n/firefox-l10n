@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "Ynboude CA’s">
 <!ENTITY certmgr.ca.mycas                     "CA’s beheard troch jo">
 
-<!ENTITY certmgr.mine.search                  "Sykje:">
-<!ENTITY certmgr.others.search                "Sykje:">
-<!ENTITY certmgr.websites.search              "Sykje:">
-<!ENTITY certmgr.cas.search                   "Sykje:">
-<!ENTITY certmgr.orphans.search               "Sykje:">
-
-<!ENTITY certmgr.mine.description             "Jo hawwe sertifikaten fan dizze organisaasjes dy't jo identifisearje:">
-<!ENTITY certmgr.others.description           "Jo hawwe sertifikaten fan dizze organisaasjes dy't dizze minsken identifisearje:">
-<!ENTITY certmgr.websites.description         "Jo hawwe sertifikate as bestân dy't dizze tsjinners identifisearje:">
-<!ENTITY certmgr.cas.description              "Jo hawwe sertifikate as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
-<!ENTITY certmgr.orphans.description          "Jo hawwe sertifikate as bestân dy't net passe yn ien fan de oare kategoriën:">
-
-<!ENTITY certmgr.mine.filtered                "Oerienkommende sertifikaten fan dizze organisaasjes dy't jo identifisearje:">
-<!ENTITY certmgr.others.filtered              "Oerienkommende sertifikatens as bestân dy't dizze minsken identifisearje:">
-<!ENTITY certmgr.websites.filtered            "Oerienkommende sertifikaten as bestân dy't dizze tsjinners identifisearjes:">
-<!ENTITY certmgr.cas.filtered                 "Oerienkommende sertifikaten as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
-<!ENTITY certmgr.orphans.filtered             "Oerienkommende sertifikaten as bestân dy't net passe yn ien fan de oare kategoriën:">
+<!ENTITY certmgr.mine                         "Jo hawwe sertifikaten fan dizze organisaasje dy't jo identifisearje:">
+<!ENTITY certmgr.others                       "Jo hawwe sertifikaten as bestân dy't dizze minsken identifisearje:">
+<!ENTITY certmgr.websites2                    "Jo hawwe sertifikaten as bestân dy't dizze tsjinners identifisearje:">
+<!ENTITY certmgr.cas                          "Jo hawwe sertifikaten as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
+<!ENTITY certmgr.orphans                      "Jo hawwe sertifikaten as bestân dy't net passe yn ien fan de oare kategoryën:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemien">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
@@ -117,21 +105,23 @@
 <!ENTITY certmgr.close.accesskey              "S">
 <!ENTITY certmgr.view2.label 				  "Toane...">
 <!ENTITY certmgr.view2.accesskey              "T">
-<!ENTITY certmgr.edit2.label 				  "Bewurkje...">
-<!ENTITY certmgr.edit2.accesskey              "B">
+<!ENTITY certmgr.edit3.label 				  "Fertrouen bewurkje…">
+<!ENTITY certmgr.edit3.accesskey              "B">
 <!ENTITY certmgr.editca.label 				  "CA-fertrouwen bewurkje">
 <!ENTITY certmgr.editca.accesskey             "A">
 <!ENTITY certmgr.add.label 					  "Tafoegje">
 <!ENTITY certmgr.add.accesskey                "T">
 <!ENTITY certmgr.export.label                 "Eksportearje…">
 <!ENTITY certmgr.export.accesskey             "k">
-<!ENTITY certmgr.delete2.label 				  "Fuorsmite...">
+<!ENTITY certmgr.delete2.label 				  "Fuorsmite…">
 <!ENTITY certmgr.delete2.accesskey            "F">
-<!ENTITY certmgr.backup2.label 				  "Reservekopy meitsje...">
+<!ENTITY certmgr.delete_builtin.label         "Fuorsmite of net fertroue…">
+<!ENTITY certmgr.delete_builtin.accesskey     "u">
+<!ENTITY certmgr.backup2.label 				  "Reservekopy meitsje…">
 <!ENTITY certmgr.backup2.accesskey            "R">
-<!ENTITY certmgr.backupall2.label 			  "Reservekopy fan alles meitsje...">
+<!ENTITY certmgr.backupall2.label 			  "Reservekopy fan alles meitsje…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label				  "Ymportearje....">
+<!ENTITY certmgr.restore2.label				  "Ymportearje…">
 <!ENTITY certmgr.restore2.accesskey           "Y">
 <!ENTITY certmgr.details.label 				  "Sertifikaatfjilden">
 <!ENTITY certmgr.details.accesskey            "e">
