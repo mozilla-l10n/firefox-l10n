@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label "கோப்பு">
 <!ENTITY fileButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "அஞ்சல் கோப்புறையை திற">
-<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY openInFolder.label "அஞ்சல் கோப்புறையை திற">
+<!ENTITY openInFolder.accesskey "r">
 <!ENTITY saveAsVFButton.label "தேடல் கோப்புறையாக சேமி">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!-- for ABSearchDialog.xul -->
