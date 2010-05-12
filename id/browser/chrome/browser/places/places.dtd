@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "U">
 <!ENTITY views.label                    "Tampilan">
 <!ENTITY views.accesskey                "T">
-<!ENTITY view.toolbar.label             "Bilah Alat">
-<!ENTITY view.toolbar.accesskey         "l">
 <!ENTITY view.columns.label             "Tampilkan Kolom">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Urutan">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Pilih Berkas…">
 <!ENTITY cmd.restoreFromFile.accesskey  "B">
 
-<!ENTITY cmd.select_all.label "Pilih Semua">
-<!ENTITY cmd.select_all.accesskey "a">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Potong">
-<!ENTITY cmd.edit_cut.accesskey     "P">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Salin">
-<!ENTITY cmd.edit_copy.accesskey    "S">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Tempel">
-<!ENTITY cmd.edit_paste.accesskey   "p">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Hapus">
-<!ENTITY cmd.edit_delete.accesskey  "H">
-<!ENTITY cmd.edit_undo.label        "Batal">
-<!ENTITY cmd.edit_undo.accesskey    "B">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Ulangi">
-<!ENTITY cmd.edit_redo.accesskey    "U">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Buat Bookmark Laman ini…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Hapus Laman Ini">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label      "Properti">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.rename.label      "Ganti nama">
-<!ENTITY cmd.rename.accesskey  "G">
-
 <!ENTITY cmd.sortby_name.label              "Urut Berdasar Nama">
 <!ENTITY cmd.sortby_name.accesskey          "N">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Bookmark Baru…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_livemark.label            "Bookmark Hidup Baru…">
-<!ENTITY cmd.new_livemark.accesskey        "H">
 <!ENTITY cmd.new_folder.label              "Folder Baru…">
 <!ENTITY cmd.new_folder.accesskey          "F">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">
-
-<!ENTITY feed.subscribe.label    "Feed">
-<!ENTITY feed.subscribe.tooltip  "Berlangganan">
 
 <!ENTITY maintenance.label      "Impor dan Cadangan">
 <!ENTITY maintenance.accesskey  "I">
