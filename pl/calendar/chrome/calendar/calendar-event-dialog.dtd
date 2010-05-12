@@ -377,7 +377,6 @@
 <!ENTITY timezone.title.label            "Wybór strefy czasowej">
 
 <!-- Read-Only dialog -->
-<!-- FIXME -->
 <!ENTITY read.only.general.label         "Główne">
 <!ENTITY read.only.title.label           "Nazwa:">
 <!ENTITY read.only.repeat.label          "Powtarzaj:">

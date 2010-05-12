@@ -95,7 +95,6 @@
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Wyświetlaj wydarzenia w panelu bieżących spraw">
-<!-- FIXME Task Mode - tryb widoku zadań (hubert) -->
 <!ENTITY lightning.calendarproperties.showtasks.label           "Wyświetlaj zadania w panelu bieżących spraw i w trybie widoku zadań">
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
@@ -111,7 +110,7 @@
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Utwórz nowy kalendarz">
 
-<!-- today-pane-specific --><!-- FIXME - mini-day, mini-month  (hubert) -->
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label      "Pokaż kalendarz podręczny">
 <!ENTITY todaypane.showMinimonth.accesskey  "k">
 <!ENTITY todaypane.showMiniday.label        "Pokaż podgląd dnia">
