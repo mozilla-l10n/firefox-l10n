@@ -1,13 +1,13 @@
-<!ENTITY firstrun.title "Fàilte gu &brandShortName;">
-<!ENTITY firstrun.heading "To help get you started, here are some of the most popular features and add-ons to help you get the most out of &brandShortName;.">
-<!ENTITY firstrun.recommended "Recommended:">
-<!ENTITY firstrun.weave.title "Get Weave Sync">
-<!ENTITY firstrun.weave.description "Share your &brandShortName; history, passwords, bookmarks &amp; tabs between your desktop &amp; mobile">
-<!ENTITY firstrun.starter.title "Get the Starter Kit Collection">
-<!ENTITY firstrun.starter.description "Install these recommended add-ons to enhance your &brandShortName; experience">
-<!ENTITY firstrun.tour.title "Take a Tour">
-<!ENTITY firstrun.tour.description "Watch this clip to familiarize yourself with how to get around and locate cool features">
-<!ENTITY firstrun.features "See More Features">
-<!ENTITY firstrun.faq "CÀBHA">
-<!ENTITY firstrun.privacy "Poileasaidh prìobhaideachd">
-<!ENTITY firstrun.follow "Follow us on:">
+<!ENTITY firstrun.title                "Fàilte gu &brandShortName;">
+<!ENTITY firstrun.heading              "Mar chuideachadh dhut aig an toiseach, seo cuid dhe na feartan is tuilleadain air a bheil fèill mhòr is leis an cuir thu gu feum &brandShortName; o bhun gu barr.">
+<!ENTITY firstrun.recommended          "Air a mholadh:">
+<!ENTITY firstrun.weave.title          "Faigh Weave Sync">
+<!ENTITY firstrun.weave.description    "Co-roinn eachdraidh, faclan-faire, comharraidhean-lìn ┐ tabaicheach &brandShortName; eadar an deasg ┐ am fòn-làimhe agad">
+<!ENTITY firstrun.starter.title        "Faigh an cruinneachadh tòiseachaidh">
+<!ENTITY firstrun.starter.description  "Stàlaich na tuilleadan seo a tha air a mholadh 's iad a' dèanamh &brandShortName; nas fheumaile dhut">
+<!ENTITY firstrun.tour.title           "Gabh cuairt">
+<!ENTITY firstrun.tour.description     "Coimhead air a chliop seo gus eòlas fhaighinn air na h-àitichean as fhearr far am faigh thu feartan snoga">
+<!ENTITY firstrun.features             "Seall barrachd fheartan">
+<!ENTITY firstrun.faq                  "CÀBHA">
+<!ENTITY firstrun.privacy              "Poileasaidh prìobhaideachd">
+<!ENTITY firstrun.follow               "Lean rinn air:">
