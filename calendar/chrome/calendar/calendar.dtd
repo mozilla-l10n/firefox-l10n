@@ -330,7 +330,7 @@
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Lay-out:">
 <!ENTITY calendar.print.range.label "Of te drukken">
-<!ENTITY calendar.print.currentview2.label "Aktuele oersjoch">
+<!ENTITY calendar.print.currentView2.label "Aktuele oersjoch">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Selektearre barrens/taken">
 <!ENTITY calendar.print.tasks.label "Taken">
 <!ENTITY calendar.print.events.label "Barrens">
