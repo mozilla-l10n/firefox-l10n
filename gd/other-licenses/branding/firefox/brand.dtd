@@ -1,4 +1,4 @@
-<!ENTITY brandShortName "Firefox">
-<!ENTITY brandFullName "Mozilla Firefox">
-<!ENTITY vendorShortName "Mozilla">
-<!ENTITY logoCopyright "'S e comharraidhean-malairt aig Fonndas Mozilla a tha ann am Firefox agus sna suaichteantasan Firefox. Gach còir air a ghlèidheadh.">
+<!ENTITY  brandShortName        "Firefox">
+<!ENTITY  brandFullName         "Mozilla Firefox">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  logoCopyright         "'S e comharraidhean-malairt aig Fonndas Mozilla a tha ann am Firefox agus sna suaicheantasan Firefox. Gach còir air a ghlèidheadh.">

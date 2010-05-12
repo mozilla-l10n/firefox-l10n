@@ -35,34 +35,34 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Mearachd na consoil">
+<!ENTITY errorConsole.title "Consol nam mearachd">
 
-<!ENTITY errFile.label "Am faidhle tùsail:">
-<!ENTITY errLine.label "Loidhne:">
+<!ENTITY errFile.label   "Am faidhle tùsail:">
+<!ENTITY errLine.label   "Loidhne:">
 <!ENTITY errColumn.label "Colbh:">
 
-<!ENTITY all.label "A h-uile">
-<!ENTITY all.accesskey "A">
-<!ENTITY errors.label "Mearachdan">
-<!ENTITY errors.accesskey "E">
-<!ENTITY warnings.label "Rabhaidhean">
+<!ENTITY all.label          "A h-uile">
+<!ENTITY all.accesskey      "A">
+<!ENTITY errors.label       "Mearachdan">
+<!ENTITY errors.accesskey   "e">
+<!ENTITY warnings.label     "Rabhaidhean">
 <!ENTITY warnings.accesskey "R">
-<!ENTITY messages.label "Teachdaireachdan">
+<!ENTITY messages.label     "Teachdaireachdan">
 <!ENTITY messages.accesskey "T">
-<!ENTITY clear.label "Falamhaich">
-<!ENTITY clear.accesskey "F">
-<!ENTITY codeEval.label "Còd:">
-<!ENTITY codeEval.accesskey "c">
-<!ENTITY evaluate.label "Luachaich">
-<!ENTITY evaluate.accesskey "l">
+<!ENTITY clear.label        "Falamhaich">
+<!ENTITY clear.accesskey    "F">
+<!ENTITY codeEval.label     "Còd:">
+<!ENTITY codeEval.accesskey "C">
+<!ENTITY evaluate.label     "Luachaich">
+<!ENTITY evaluate.accesskey "L">
 
-<!ENTITY copyCmd.label "Dèan leth-bhreac">
-<!ENTITY copyCmd.accesskey "L">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Òrdugh seòrsachaidh Toiseach > Crìoch">
-<!ENTITY sortFirst.accesskey "t">
-<!ENTITY sortLast.label "Òrdugh seòrsachaidh Crìoch > Toiseach">
-<!ENTITY sortLast.accesskey "c">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY copyCmd.label       "Dèan leth-bhreac">  
+<!ENTITY copyCmd.accesskey   "l"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Òrdugh seòrsachaidh Toiseach > Crìoch">
+<!ENTITY sortFirst.accesskey "T">
+<!ENTITY sortLast.label      "Òrdugh seòrsachaidh Crìoch > Toiseach">
+<!ENTITY sortLast.accesskey  "c">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

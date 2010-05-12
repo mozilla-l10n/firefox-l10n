@@ -1,104 +1,103 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "Coitcheann">
+<!ENTITY generalTab.label                "Coitcheann">
 
-<!ENTITY accessibility.label "Inntrigeachd">
+<!ENTITY accessibility.label             "Inntrigeachd">
 
-<!ENTITY useCursorNavigation.label "Cleachd iuchraichean a' chùrsair gus gluasad am broinn nan duilleagan an-còmhnaidh">
-<!ENTITY useCursorNavigation.accesskey "c">
-<!ENTITY searchStartTyping.label "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
-<!ENTITY searchStartTyping.accesskey "t">
-<!ENTITY blockAutoRefresh.label "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
-<!ENTITY blockAutoRefresh.accesskey "b">
+<!ENTITY useCursorNavigation.label       "Cleachd iuchraichean a' chùrsair gus gluasad am broinn nan duilleagan an-còmhnaidh">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY browsing.label "A' rannsachadh">
+<!ENTITY browsing.label                  "A' rannsachadh">
 
-<!ENTITY useAutoScroll.label "Cleachd sgròladh leis fhèin">
-<!ENTITY useAutoScroll.accesskey "f">
-<!ENTITY useSmoothScrolling.label "Cleachd sgròladh caoin">
-<!ENTITY useSmoothScrolling.accesskey "c">
-<!ENTITY checkSpelling.label "Ceartachadh litreachaidh beò">
-<!ENTITY checkSpelling.accesskey "l">
+<!ENTITY useAutoScroll.label             "Cleachd sgròladh leis fhèin">
+<!ENTITY useAutoScroll.accesskey         "f">
+<!ENTITY useSmoothScrolling.label        "Cleachd sgròladh caoin">
+<!ENTITY useSmoothScrolling.accesskey    "c">
+<!ENTITY checkSpelling.label             "Ceartachadh litreachaidh beò">
+<!ENTITY checkSpelling.accesskey         "l">
 
-<!ENTITY systemDefaults.label "Roghainnean bunaiteach an t-siostaim">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label "Thoir sùil an e &brandShortName; am brabhsair bunaiteach agad gach turas a thòiseachas tu e">
-<!ENTITY alwaysCheckDefault.accesskey "w">
-<!ENTITY checkNow.label "Thoir sùil an-dràsta">
-<!ENTITY checkNow.accesskey "N">
-<!ENTITY submitCrashes.label "Submit crash reports">
-<!ENTITY submitCrashes.accesskey "S">
+<!ENTITY systemDefaults.label            "Roghainnean bunaiteach an t-siostaim">
+<!ENTITY alwaysCheckDefault.label        "Thoir sùil an e &brandShortName; am brabhsair bunaiteach agad gach turas a thòiseachas tu e"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "n">
+<!ENTITY checkNow.label                  "Thoir sùil an-dràsta">
+<!ENTITY checkNow.accesskey              "n">
+<!ENTITY submitCrashes.label             "A' cur a-steach aithisgean tuislidh">
+<!ENTITY submitCrashes.accesskey         "s">
 
-<!ENTITY networkTab.label "Lìonra">
+<!ENTITY networkTab.label                "Lìonra">
 
-<!ENTITY connection.label "Ceangal">
+<!ENTITY connection.label                "Ceangal">
 
-<!ENTITY connectionDesc.label "Co-dhealbh mar a cheanglas &brandShortName; ris an lìon">
-<!ENTITY connectionSettings.label "Roghainnean…">
-<!ENTITY connectionSettings.accesskey "e">
+<!ENTITY connectionDesc.label            "Co-dhealbh mar a cheanglas &brandShortName; ris an lìon">
+<!ENTITY connectionSettings.label        "Roghainnean…">
+<!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label "Stòras far loidhne">
+<!ENTITY offlineStorage.label            "Stòras far loidhne">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY useCacheBefore.label            "Cleachd suas gu">
+<!ENTITY useCacheBefore.accesskey        "u">
+<!ENTITY useCacheAfter.label             "MB a dh'àite airson an tasgadan">
+<!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
+<!ENTITY clearCacheNow.accesskey         "F">
 
-<!ENTITY useCacheBefore.label "Cleachd suas gu">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MB a dh'àite airson an tasgadan">
-<!ENTITY clearCacheNow.label "Falmhaich e an-dràsta">
-<!ENTITY clearCacheNow.accesskey "F">
+<!ENTITY updateTab.label                 "Ùrachadh">
 
-<!ENTITY updateTab.label "Ùrachadh">
+<!ENTITY autoCheck.label                 "Lorgar ùrachaidhean airson na leanas leis fhèin:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "f">
+<!ENTITY enableAddonsUpdate2.label       "Tuilleadain">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Innealan-luirg">
+<!ENTITY enableSearchUpdate.accesskey    "g">
+<!ENTITY whenUpdatesFound.label          "Nuair a thèid ùrachadh a lorg airson &brandShortName;:">
+<!ENTITY askMe.label                     "Faighnich dhìom na tha mi airson dèanamh">
+<!ENTITY askMe.accesskey                 "m">
+<!ENTITY modeAutomatic.label             "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas na chois">
+<!ENTITY modeAutoAddonWarn.accesskey     "T">
+<!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
+<!ENTITY updateHistory.accesskey         "e">
 
-<!ENTITY autoCheck.label "Lorgar ùrachaidhean airson na leanas leis fhèin:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Tuilleadan">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
-<!ENTITY enableSearchUpdate.label "Innealan-luirg">
-<!ENTITY enableSearchUpdate.accesskey "g">
-<!ENTITY whenUpdatesFound.label "Nuair a thèid ùrachadh a lorg airson &brandShortName;:">
-<!ENTITY askMe.label "Faighnich dhìom na tha mi airson dèanamh">
-<!ENTITY askMe.accesskey "m">
-<!ENTITY modeAutomatic.label "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas na chois">
-<!ENTITY modeAutoAddonWarn.accesskey "T">
-<!ENTITY updateHistory.label "Seall eachdraidh nan ùrachaidhean">
-<!ENTITY updateHistory.accesskey "e">
-
-<!ENTITY offlineNotify.label "Innis dhomh ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
-<!ENTITY offlineNotify.accesskey "T">
-<!ENTITY offlineNotifyExceptions.label "Eisgeachdan…">
+<!ENTITY offlineNotify.label             "Innis dhomh ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Eisgeachdan…">
 <!ENTITY offlineNotifyExceptions.accesskey "g">
 
-<!ENTITY offlineAppsList.label "Stòir na làraichean-lìn a leanas dàta a chum cleachdaidh far loidhne:">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Thoir às…">
-<!ENTITY offlineAppsListRemove.accesskey "T">
-<!ENTITY offlineAppRemove.confirm "Thoir air falbh an dàta far loidhne">
+<!ENTITY offlineAppsList.label           "Stòir na làraichean-lìn a leanas dàta a chum cleachdaidh far loidhne:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Thoir air falbh…">
+<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
-<!ENTITY encryptionTab.label "Rùnachadh">
+<!ENTITY encryptionTab.label             "Dubh-cheileadh">
 
-<!ENTITY protocols.label "Pròtacalan">
-<!ENTITY useSSL3.label "Cleachd SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Cleachd TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Teaisteanasan">
-<!ENTITY certSelection.description "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
-<!ENTITY certs.auto "Taghar fear leis fhèin">
-<!ENTITY certs.auto.accesskey "l">
-<!ENTITY certs.ask "Faighnich dhìom a h-uile turas">
-<!ENTITY certs.ask.accesskey "i">
-<!ENTITY viewCerts.label "Seall na teisteanasan">
-<!ENTITY viewCerts.accesskey "s">
-<!ENTITY viewCRLs.label "Liosta nan cùl-ghairmean">
-<!ENTITY viewCRLs.accesskey "R">
-<!ENTITY verify2.label "Dearbhadh">
-<!ENTITY verify2.accesskey "B">
-<!ENTITY viewSecurityDevices.label "Innealan tèarainteachd">
-<!ENTITY viewSecurityDevices.accesskey "i">
+<!ENTITY protocols.label                 "Pròtacalan">
+<!ENTITY useSSL3.label                   "Cleachd SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Cleachd TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Teaisteanasan">
+<!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
+<!ENTITY certs.auto                      "Taghar fear leis fhèin">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Faighnich dhìom a h-uile turas">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Seall na teisteanasan">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "Liosta nan cùl-ghairmean">
+<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY verify2.label                   "Dearbhadh">
+<!ENTITY verify2.accesskey               "b">
+<!ENTITY viewSecurityDevices.label       "Innealan tèarainteachd">
+<!ENTITY viewSecurityDevices.accesskey   "i">

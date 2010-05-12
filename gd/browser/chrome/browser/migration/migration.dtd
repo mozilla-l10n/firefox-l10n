@@ -1,51 +1,51 @@
 
-<!ENTITY migrationWizard.title "Draoidh an iompachaidh a-steach">
+<!ENTITY migrationWizard.title          "Draoidh an iompachaidh a-steach">
 
-<!ENTITY importFrom.label "Iompaich a-steach roghainnean, comharraidhean-lìn, eachdraidh, faclan-faire agus dàta eile o:">
-<!ENTITY importFromUnix.label "Iompaich a-steach roghainnean, comharraidhean-lìn, eachdraidh, faclan-faire agus dàta eile o:">
-<!ENTITY importFromBookmarks.label "Iompaich a-steach comharraidhean-lìn o:">
+<!ENTITY importFrom.label               "Ion-phortaich roghainnean, comharraidhean-lìn, eachdraidh, faclan-faire agus dàta eile o:">
+<!ENTITY importFromUnix.label           "Ion-phortaich roghainnean, comharraidhean-lìn, eachdraidh, faclan-faire agus dàta eile o:">
+<!ENTITY importFromBookmarks.label      "Ion-phortaich comharraidhean-lìn o:">
 
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird no Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Na iompaich a-steach rud sam bith">
-<!ENTITY importFromNothing.accesskey "N">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 no Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "O fhaidhle HTML">
-<!ENTITY importFromHTMLFile.accesskey "F">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird no Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Na ion-phortaich rud sam bith">
+<!ENTITY importFromNothing.accesskey    "d">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 no Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "O fhaidhle HTML">
+<!ENTITY importFromHTMLFile.accesskey   "f">
 
-<!ENTITY noMigrationSources.label "Cha deach prògram a lorg sa bheil comharraidhean-lìn, eachdraidh no faclan-faire.">
+<!ENTITY noMigrationSources.label       "Cha deach prògram a lorg sa bheil comharraidhean-lìn, eachdraidh no faclan-faire.">
 
-<!ENTITY importSource.title "Iompaich a-steach roghainnean agus dàta">
-<!ENTITY importItems.title "Rudan ri an iompachadh a-steach">
-<!ENTITY importItems.label "Tagh na rudan ri iompachadh a-steach:">
+<!ENTITY importSource.title             "Ion-phortaich roghainnean is dàta">
+<!ENTITY importItems.title              "Rudan ri an ion-phortadh">
+<!ENTITY importItems.label              "Tagh na rudan a thèid ion-phortadh:">
 
-<!ENTITY migrating.title "Ag iompachadh a-steach…">
-<!ENTITY migrating.label "Tha na rudan a leanas 'gan iompachadh a-steach an-dràsta…">
+<!ENTITY migrating.title                "Ag ion-phortadh…">
+<!ENTITY migrating.label                "Tha na rudan a leanas 'gan ion-phortadh an-dràsta…">
 
-<!ENTITY selectProfile.title "Tagh clàr-aithne">
-<!ENTITY selectProfile.label "Gabhaidh na clàir-aithne a leanas an iompachadh a-steach:">
+<!ENTITY selectProfile.title            "Tagh clàr-aithne">
+<!ENTITY selectProfile.label            "'S urrainn dhut ion-phortadh o na clàir-aithne a leanas:">
 
-<!ENTITY done.title "Iompachadh a-steach deiseil">
-<!ENTITY done.label "Chaidh na rudan a leanas iompachadh a-steach gu soirbheachail:">
+<!ENTITY done.title                     "Ion-phortadh deiseil">
+<!ENTITY done.label                     "Chaidh na rudan a leanas ion-phortadh gu soirbheachail:">
 

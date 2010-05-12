@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Roghainnean JavaScript adhartach">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "Roghainnean JavaScript adhartach">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Leig le sgriobtaichean:">
+<!ENTITY allowScripts.label             "Leig le sgriobtaichean:">
 
-<!ENTITY moveResizeWindows.label "Uinneagan làithreach a ghluasad no am meud atharrachadh">
-<!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "Uinneagan àrdachadh no ìsleachadh">
-<!ENTITY raiseLowerWindows.accesskey "R">
-<!ENTITY disableContextMenus.label "Clàir-thaice co-theacs a chur à comas no rud a chur nan àite">
-<!ENTITY disableContextMenus.accesskey "D">
-<!ENTITY hideStatusBar.label "Bàr na staide a chur am falach">
-<!ENTITY hideStatusBar.accesskey "H">
-<!ENTITY changeStatusBar.label "Teacs air bàr na staide atharrachadh">
-<!ENTITY changeStatusBar.accesskey "C">
+<!ENTITY moveResizeWindows.label        "Uinneagan làithreach a ghluasad no am meud atharrachadh">
+<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY raiseLowerWindows.label        "Uinneagan àrdachadh no ìsleachadh">
+<!ENTITY raiseLowerWindows.accesskey    "r">
+<!ENTITY disableContextMenus.label      "Clàir-thaice co-theacs a chur à comas no rud a chur nan àite">
+<!ENTITY disableContextMenus.accesskey  "d">
+<!ENTITY hideStatusBar.label            "Bàr na staide a chur am falach">
+<!ENTITY hideStatusBar.accesskey        "h">
+<!ENTITY changeStatusBar.label          "Teacs air bàr na staide atharrachadh">
+<!ENTITY changeStatusBar.accesskey      "c">

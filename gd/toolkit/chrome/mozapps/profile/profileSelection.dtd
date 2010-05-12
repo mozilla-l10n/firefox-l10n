@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Tagh pròifil cleachdaiche">
+<!ENTITY            windowtitle.label      "&brandShortName; - Tagh pròifil cleachdaiche">
 
-<!ENTITY profilename.label "Ainm cunntais">
+<!ENTITY            profilename.label      "Ainm cunntais">
 
-<!ENTITY start.label "Thoisich &brandShortName;">
-<!ENTITY exit.label "Fàg seo">
+<!ENTITY            start.label            "Thòisich &brandShortName;">
+<!ENTITY            exit.label             "Fàg seo">
 
-<!ENTITY availprofiles.label "Pròifilean ri am faighinn">
+<!ENTITY            availprofiles.label    "Pròifilean ri am faighinn">
 
-<!ENTITY newButton.label "Cruthaich pròifil…">
-<!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "Cuir ainm ùr air pròifil…">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Sguaib às pròifil…">
-<!ENTITY deleteButton.accesskey "S">
+<!ENTITY            newButton.label        "Cruthaich pròifil…">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Cuir ainm ùr air pròifil…">
+<!ENTITY            renameButton.accesskey "r">
+<!ENTITY            deleteButton.label     "Sguab às pròifil…">
+<!ENTITY            deleteButton.accesskey "p">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "Sàbhalaidh &brandShortName; fiosrachadh mu na roghainnean agad is adhbharan cleachdaiche eile sa phròifil agad.">
 
-<!ENTITY pmDescription.label "Sàbhalaidh &brandShortName; fiosrachadh mu na roghainnean agad is adhbharan cleachdaiche eile sa phròifil agad.">
+<!ENTITY            offlineState.label    "Dèan obair far loidhne">
+<!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY offlineState.label "Dèan obair far loidhne">
-<!ENTITY offlineState.accesskey "o">
-
-<!ENTITY autoSelect.label "Na faighnich dhìom aig àm tòiseachaidh">
-<!ENTITY autoSelect.accesskey "s">
+<!ENTITY            autoSelect.label       "Na faighnich dhìom aig àm tòiseachaidh">
+<!ENTITY            autoSelect.accesskey   "s">

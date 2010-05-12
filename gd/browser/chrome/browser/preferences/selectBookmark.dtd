@@ -1,3 +1,5 @@
-<!ENTITY selectBookmark.title "Suidhich an duilleag dhachaigh">
-<!ENTITY selectBookmark.label "Tagh comharra-lìn mar dhuilleag-dhachaigh dhut fhèin. Ma thaghas tu pasgan, thèid na comharraidhean-lìn sa phasgan sin fhosgladh ann an tabaichean.">
+<!ENTITY selectBookmark.title
+  "Suidhich an duilleag-dhachaigh">
+<!ENTITY selectBookmark.label
+  "Tagh comharra-lìn mar dhuilleag-dhachaigh dhut fhèin. Ma thaghas tu pasgan, thèid na comharraidhean-lìn sa phasgan sin fhosgladh ann an tabaichean.">
 
