@@ -47,4 +47,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Įvykis, trunkantis visą dieną">
 <!ENTITY calendar.invitations.list.location.text                        "Vieta: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organizuoja: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Dalyvauja: ">
 <!ENTITY calendar.invitations.list.none.text                            "Niekas">

@@ -51,10 +51,12 @@
 
 <!ENTITY newevent.status.label                            "Būsena" >
 <!ENTITY newevent.status.accesskey                        "B" >
-<!ENTITY newevent.status.none.label                       "Neapibrėžta" >
-<!ENTITY newevent.status.none.accesskey                   "N" >
-<!ENTITY newevent.status.cancelled.label                  "Atšauktas" >
-<!ENTITY newevent.status.cancelled.accesskey              "A" >
+<!ENTITY newevent.eventStatus.none.label                  "Neapibrėžta" >
+<!ENTITY newevent.eventStatus.none.accesskey              "N" >
+<!ENTITY newevent.todoStatus.none.label                   "Neapibrėžta" >
+<!ENTITY newevent.eventStatus.cancelled.label             "Atšauktas" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey         "A" >
+<!ENTITY newevent.todoStatus.cancelled.label              "Atšauktas" >
 <!ENTITY newevent.status.tentative.label                  "Preliminarus" >
 <!ENTITY newevent.status.tentative.accesskey              "P" >
 <!ENTITY newevent.status.confirmed.label                  "Patvirtintas" >
@@ -230,14 +232,11 @@
 <!ENTITY event.reminder.none.label                        "be priminimo" >
 <!ENTITY event.reminder.0minutes.before.label             "likus 0 minučių" >
 <!ENTITY event.reminder.5minutes.before.label             "likus 5 minutėms" >
-<!ENTITY event.reminder.10minutes.before.label            "likus 10 minučių" >
 <!ENTITY event.reminder.15minutes.before.label            "likus 15 minučių" >
 <!ENTITY event.reminder.30minutes.before.label            "likus 30 minučių" >
-<!ENTITY event.reminder.45minutes.before.label            "likus 45 minutėms" >
 <!ENTITY event.reminder.1hour.before.label                "likus 1 valandai" >
 <!ENTITY event.reminder.2hours.before.label               "likus 2 valandoms" >
-<!ENTITY event.reminder.5hours.before.label               "likus 5 valandoms" >
-<!ENTITY event.reminder.15hours.before.label              "likus 15 valandų" >
+<!ENTITY event.reminder.12hours.before.label              "likus 12 valandų" >
 <!ENTITY event.reminder.1day.before.label                 "likus 1 dienai" >
 <!ENTITY event.reminder.2days.before.label                "likus 2 dienoms" >
 <!ENTITY event.reminder.1week.before.label                "likus 1 savaitei" >
