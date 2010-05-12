@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "De hiele dei">
 <!ENTITY calendar.invitations.list.location.text                        "Lokaasje: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organisator: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Dielnimmer: ">
 <!ENTITY calendar.invitations.list.none.text                            "Gjin">

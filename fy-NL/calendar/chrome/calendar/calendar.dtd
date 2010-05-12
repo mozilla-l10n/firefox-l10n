@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,11 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Aginda">
 <!ENTITY calendar.calendar.accesskey "A">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip         "In nij barren meitsje" >
 <!ENTITY calendar.newtask.button.tooltip          "In nije taak meitsje" >
@@ -93,12 +92,18 @@
 <!ENTITY calendar.month.button.tooltip          "Nei moanne-oersjoch oerskeakelje" >
 <!ENTITY calendar.multiweek.button.tooltip      "Nei oersjoch foar mear wiken skeakelje" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Folgjende dei" >
-<!ENTITY calendar.prevday.button.tooltip        "Foarige dei" >
-<!ENTITY calendar.nextweek.button.tooltip       "Folgjende wike" >
-<!ENTITY calendar.prevweek.button.tooltip       "Foarige wike" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Folgjende moanne" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Foarige moanne" >
+<!ENTITY calendar.nextday.label        			"Folgjende dei" >
+<!ENTITY calendar.prevday.label        			"Foarige dei" >
+<!ENTITY calendar.nextday.accesskey             "l" >
+<!ENTITY calendar.prevday.accesskey             "a" >
+<!ENTITY calendar.nextweek.label       			"Folgjende wike" >
+<!ENTITY calendar.prevweek.label       			"Foarige wike" >
+<!ENTITY calendar.nextweek.accesskey            "l" >
+<!ENTITY calendar.prevweek.accesskey            "a" >
+<!ENTITY calendar.nextmonth.label      			"Folgjende moanne" >
+<!ENTITY calendar.prevmonth.label      			"Foarige moanne" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "a" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Ien dei foarút" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Ien dei tebek" >
@@ -156,6 +161,7 @@
 <!ENTITY calendar.task-details.status.label          "steat:">
 <!ENTITY calendar.task-details.category.label        "kategory:">
 <!ENTITY calendar.task-details.repeat.label          "werhelje:">
+<!ENTITY calendar.task-details.attachments.label     "bylagen">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken kategorisearje">
 <!ENTITY calendar.task.complete.button.tooltip  "Selektearre taken as foltôge markearje">
@@ -324,12 +330,18 @@
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Lay-out:">
 <!ENTITY calendar.print.range.label "Of te drukken">
-<!ENTITY calendar.print.currentview.label "Barrens yn aktuele oersjoch">
+<!ENTITY calendar.print.currentview2.label "Aktuele oersjoch">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Selektearre barrens/taken">
+<!ENTITY calendar.print.tasks.label "Taken">
+<!ENTITY calendar.print.events.label "Barrens">
 <!ENTITY calendar.print.selected.label "Selektearre barrens">
 <!ENTITY calendar.print.custom.label "Oanpast datumberyk:">
 <!ENTITY calendar.print.from.label "Fan:">
 <!ENTITY calendar.print.to.label "Oant:">
 <!ENTITY calendar.print.settingsGroup.label "Ofdrukynstellings">
+<!ENTITY calendar.print.optionsGroup.label "Opsjes">
+<!ENTITY calendar.print.taskswithnoduedate.label "Taken sûnder eindatum">
+<!ENTITY calendar.print.completedtasks.label "Foltôge taken">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Details…">
