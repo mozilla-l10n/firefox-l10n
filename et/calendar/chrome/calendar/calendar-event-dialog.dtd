@@ -47,19 +47,21 @@
 <!ENTITY newevent.to.label                  "Kuni" >
 <!ENTITY newevent.attendees.notify.label    "Teavita osalejaid">
 
-<!ENTITY newevent.status.label               "Seisund" >
-<!ENTITY newevent.status.accesskey           "i" >
-<!ENTITY newevent.status.none.label          "Määramata" >
-<!ENTITY newevent.status.none.accesskey      "M" >
-<!ENTITY newevent.status.cancelled.label     "Tühistatud" >
-<!ENTITY newevent.status.cancelled.accesskey "T" >
-<!ENTITY newevent.status.tentative.label     "Kahtlev" >
-<!ENTITY newevent.status.tentative.accesskey "K" >
-<!ENTITY newevent.status.confirmed.label     "Aktsepteeritud" >
-<!ENTITY newevent.status.confirmed.accesskey "A" >
-<!ENTITY newevent.status.needsaction.label   "Vajab tähelepanu" >
-<!ENTITY newevent.status.inprogress.label    "Pooleli" >
-<!ENTITY newevent.status.completed.label     "Lõpetatud" >
+<!ENTITY newevent.status.label                    "Seisund" >
+<!ENTITY newevent.status.accesskey                "i" >
+<!ENTITY newevent.eventStatus.none.label          "Määramata" >
+<!ENTITY newevent.eventStatus.none.accesskey      "M" >
+<!ENTITY newevent.todoStatus.none.label           "Määramata" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Tühistatud" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "T" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Tühistatud" >
+<!ENTITY newevent.status.tentative.label          "Kahtlev" >
+<!ENTITY newevent.status.tentative.accesskey      "K" >
+<!ENTITY newevent.status.confirmed.label          "Aktsepteeritud" >
+<!ENTITY newevent.status.confirmed.accesskey      "A" >
+<!ENTITY newevent.status.needsaction.label        "Vajab tähelepanu" >
+<!ENTITY newevent.status.inprogress.label         "Pooleli" >
+<!ENTITY newevent.status.completed.label          "Lõpetatud" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; tehtud">
@@ -97,7 +99,7 @@
 <!ENTITY  event.menu.item.saveandclose.label              "Salvesta ja sulge">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "g">
 <!ENTITY  event.menu.item.delete.label                    "Kustuta…">
-<!ENTITY  event.menu.item.delete.accesskey                "m">
+<!ENTITY  event.menu.item.delete.accesskey                "K">
 <!ENTITY  event.menu.item.page.setup.label                "Lehekülje häälestus">
 <!ENTITY  event.menu.item.page.setup.accesskey            "h">
 <!ENTITY  event.menu.item.print.label                     "Prindi">
@@ -228,14 +230,11 @@
 <!ENTITY event.reminder.none.label                        "puudub " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minutit enne" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minutit enne" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minutit enne" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minutit enne" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minutit enne" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minutit enne" >
 <!ENTITY event.reminder.1hour.before.label                "1 tund enne" >
 <!ENTITY event.reminder.2hours.before.label               "2 tundi enne" >
-<!ENTITY event.reminder.5hours.before.label               "5 tundi enne" >
-<!ENTITY event.reminder.15hours.before.label              "15 tundi enne" >
+<!ENTITY event.reminder.12hours.before.label              "12 tundi enne" >
 <!ENTITY event.reminder.1day.before.label                 "1 päev enne" >
 <!ENTITY event.reminder.2days.before.label                "2 päeva enne" >
 <!ENTITY event.reminder.1week.before.label                "1 nädal enne" >
@@ -244,7 +243,6 @@
 <!ENTITY event.reminder.multiple.label                    "Mitu meeldetuletust…" >
 
 <!-- Recurrence dialog -->
-
 <!ENTITY recurrence.title.label                         "Kordumise muutmine">
 
 <!ENTITY event.repeat.does.not.repeat.label             "mitte kunagi">
