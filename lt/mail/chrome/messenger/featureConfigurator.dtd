@@ -41,11 +41,11 @@
 <!ENTITY featureConfigurator.para.2 "Migravimo pagelbiklyje galite konfigūruoti nuostatas, susijusias su naujosiomis savybėmis. Jį bet kuriuo metu galite atverti vėl, pasinaudodami atitinkamu meniu „Žinynas“ punktu.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Atnaujinta laiško įrankių juosta">
-<!ENTITY featureConfigurator.toolbar.new.status "Laiško mygtukų juosta">
+<!ENTITY featureConfigurator.toolbar.new "Naudoti naująją laiško mygtukų juostą">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Neperkrauta įrankių juosta, kurioje pasieksite visus su atvertu laišku susijusius mygtukus.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Išlaikyti ankstesnę įrankių juostos sąranką">
+<!ENTITY featureConfigurator.toolbar.original "Išlaikyti ankstesnę įrankių juostos sąranką">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Greta naujųjų laiškų mygtukų palikti ir bet kokius kitus tinkintus mygtukus.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Su laišku susijusius veiksmus – atsakymą, persiuntimą ir kitus – iškviečiantys mygtukai dabar perkelti arčiau laiško – į jo antraštę. Taip įrankių juostoje palikta daugiau vietos paieškos laukui ir programos priedų mygtukams.">
