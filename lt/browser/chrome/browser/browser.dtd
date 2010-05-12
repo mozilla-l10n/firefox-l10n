@@ -504,3 +504,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Spustelėkite, jei norite atverti atsiuntimų langą">
 
 <!ENTITY allTabs.filter.emptyText "Paieška kortelėse">
+
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Kortelių juosta">
