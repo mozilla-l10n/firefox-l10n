@@ -82,11 +82,11 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "b">
 
 <!ENTITY otherActionsButton.label "andere acties">
-<!ENTITY otherActionsOpenConversation.label "In conversatie openen">
+<!ENTITY otherActionsOpenConversation.label "openen in conversatie">
 <!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "Openen in nieuw venster">
+<!ENTITY otherActionsOpenInNewWindow.label "openen in nieuw venster">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "v">
-<!ENTITY otherActionsOpenInNewTab.label "Openen in nieuw tabblad">
+<!ENTITY otherActionsOpenInNewTab.label "openen in nieuw tabblad">
 <!ENTITY otherActionsOpenInNewTab.accesskey "t">
 <!ENTITY markAsReadMenuItem.label "als gelezen markeren">
 <!ENTITY markAsReadMenuItem.accesskey "r">

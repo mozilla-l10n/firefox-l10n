@@ -45,10 +45,13 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Standaard toepassen op alle berichten in de map (de in berichten opgegeven tekenset en autodetectie worden genegeerd)">
 <!ENTITY folderCharsetOverride.accesskey         "t">
-<!ENTITY folderRebuildSummaryFile.label          "Index vernieuwen">
-<!ENTITY folderRebuildSummaryFile.accesskey      "v">
-<!ENTITY folderRebuildSummaryFileTip.label       "Samenvattingsbestand vernieuwen">      
-
+<!ENTITY folderRebuildSummaryFileTip2.label      "Samenvattingsbestand opnieuw opbouwen">      
+<!ENTITY folderRebuildSummaryFile2.label         "Map repareren">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
+<!ENTITY folderRebuildSummaryFile.explanation    "Soms raakt het mapindexbestand (.msf) beschadigd en kunnen berichten lijken te ontbreken of verwijderde berichten zichtbaar blijven; repareren van de map kan deze problemen oplossen.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Berichten in deze map meenemen in globale zoekresultaten">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "o">
+     
 <!ENTITY retention.label "Behoudbeleid">
 <!ENTITY retentionUseAccount.label  "Mijn accountinstellingen gebruiken">
 <!ENTITY retentionUseAccount.accesskey "M">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisatie">
-<!ENTITY folderCheckForNewMessages.label         "Deze map op nieuwe berichten controleren">
-<!ENTITY folderCheckForNewMessages.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.label         "Bij het ophalen van nieuwe berichten voor deze account, altijd deze map controleren">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Deze map voor offlinegebruik selecteren">
 <!ENTITY offlineFolder.check.accesskey           "s">
