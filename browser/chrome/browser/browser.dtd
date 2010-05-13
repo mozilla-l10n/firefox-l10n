@@ -475,3 +475,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Carregue para abrir a janela de transferências">
 
 <!ENTITY allTabs.filter.emptyText "Procurar Separadores">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Separadores do navegador">
