@@ -131,7 +131,7 @@
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "Mapper">
-<!ENTITY folderView.accesskey "M">
+<!ENTITY folderView.accesskey "p">
 <!ENTITY unifiedFolders.label "Samlede">
 <!ENTITY unifiedFolders.accesskey "S">
 <!ENTITY allFolders.label "Alle">
@@ -418,7 +418,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.accesskey "Å">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Vis korrespondance i tråd">
-<!ENTITY openConversationCmd.accesskey "V">
+<!ENTITY openConversationCmd.accesskey "o">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Åbn feed-meddelelse">
 <!ENTITY openFeedMessage.accesskey "b">
@@ -426,7 +426,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openFeedWebPageInWindow.accesskey "h">
 <!ENTITY openFeedSummaryInWindow.label "Som sammendrag i et nyt vindue">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Skift mellem hjemmeside og sammendrag i meddelelsesruden.">
+<!ENTITY openFeedWebPageInMP.label "Skift mellem hjemmeside og sammendrag i meddelelsesruden">
 <!ENTITY openFeedWebPageInMP.accesskey "k">
 
 <!-- Windows Menu -->

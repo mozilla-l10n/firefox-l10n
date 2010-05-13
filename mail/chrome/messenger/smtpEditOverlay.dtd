@@ -17,4 +17,5 @@
 <!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standard:">
 <!ENTITY authMethod.label "Godkendelsesmetode:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.accesskey "G">
+
