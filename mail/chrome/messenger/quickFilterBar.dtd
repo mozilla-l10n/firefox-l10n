@@ -17,7 +17,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Schakel de snelfilterbalk.">
+         "De snelfilterbalk in-/uitschakelen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -27,7 +27,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Houd filters in stand als gewisseld wordt van mappen?">
+         "Filters in stand houden bij het wisselen van mappen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
@@ -48,7 +48,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Toon alleen ongelezen berichten.">
+         "Alleen ongelezen berichten tonen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -62,7 +62,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Toon alleen berichten met ster.">
+         "Alleen berichten met ster tonen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -78,7 +78,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Toon alleen berichten van mensen in uw adresboek.">
+         "Alleen berichten van mensen in uw adresboek tonen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -92,7 +92,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Toon alleen berichten met labels.">
+         "Alleen berichten met labels tonen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -106,7 +106,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Toon alleen berichten met bijlagen.">
+         "Alleen berichten met bijlagen tonen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filter deze berichten... #1">
+         "Deze berichten filteren… #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
@@ -193,21 +193,21 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Filter berichten per:">
+         "Berichten filteren op:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Van">
+         "Afzender">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Ontvanger">
+         "Ontvangers">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
@@ -228,11 +228,11 @@
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Zoek verder door alle mappen">
+         "Verder zoeken in alle mappen">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Druk nogmaals op 'Enter' om verder te zoeken naar: #1">
+         "Druk nogmaals op ‘Enter’ om verder te zoeken naar: #1">
