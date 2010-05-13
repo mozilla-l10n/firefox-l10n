@@ -29,7 +29,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Am modh far loidhne">
-<!ENTITY netOffline.longDesc "<ul> <li>Thoir an cromag o &quot;Obraich far loidhne&quot; sa chlàr-taice "Faidhle" agus feuch ris a-rithist an uairsin.</li></ul>">
+<!ENTITY netOffline.longDesc "<ul>
+  <li>Thoir an cromag o &quot;Obraich far loidhne&quot; sa chlàr-taice "Faidhle" agus feuch ris a-rithist an uairsin.</li>
+</ul>
+ ">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
@@ -70,7 +73,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>Feuchaidh làraichean ionnsaighe ri prògraman a stàladh a ghoideas fiosrachadh prìobhaideach ort, a chleachdas an coimpiutair agad gus ionnsaigh a thoirt air feadhainn eile no gus cron a chur air an inneal agad.</p> <p>Ma tha cuideigin sa bheachd gun deach aithris a dhèanamh air an làrach aca mar làrach ionnsaighe air mhearachd, 's urrainn dhaibh <a href='http://www.stopbadware.org/home/reviewinfo' >ath-bhreitheanas iarraidh</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Amharas gur e fallsaicheachd-lìn a tha seo!">
-<!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p> <p>Thèid an seòrsa seo de dh&apos;fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil "fiasgach" far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>">
+<!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p><p>Thèid an seòrsa seo de dh'fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil &quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>
+ ">
 
 <!ENTITY securityOverride.linkText "No 's urrainn dhut eisgeachd a chur ris…">
 <!ENTITY securityOverride.getMeOutOfHereButton "A-mach às an àite seo leam!">
