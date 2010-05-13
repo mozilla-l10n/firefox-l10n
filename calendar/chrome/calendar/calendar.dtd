@@ -46,11 +46,6 @@
 <!ENTITY calendar.calendar.label "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.dayView.key "1">
-<!ENTITY calendar.weekView.key "2">
-<!ENTITY calendar.multiweekView.key "3">
-<!ENTITY calendar.monthView.key "4">
-
 <!ENTITY calendar.newevent.button.tooltip "Opret en ny begivenhed">
 <!ENTITY calendar.newtask.button.tooltip "Opret en ny opgave">
 
@@ -93,12 +88,19 @@
 <!ENTITY calendar.month.button.tooltip "Skift til månedoversigt">
 <!ENTITY calendar.multiweek.button.tooltip "Skift til multiugeoversigt">
 
-<!ENTITY calendar.nextday.button.tooltip "Næste dag">
-<!ENTITY calendar.prevday.button.tooltip "Forrige dag">
-<!ENTITY calendar.nextweek.button.tooltip "Næste uge">
-<!ENTITY calendar.prevweek.button.tooltip "Forrige uge">
-<!ENTITY calendar.nextmonth.button.tooltip "Næste måned">
-<!ENTITY calendar.prevmonth.button.tooltip "Forrige måned">
+<!ENTITY calendar.nextday.label                 "Næste dag" >
+<!ENTITY calendar.prevday.label                 "Forrige dag" >
+<!ENTITY calendar.nextday.accesskey             "N" >
+<!ENTITY calendar.prevday.accesskey             "F" >
+<!ENTITY calendar.nextweek.label                "Næste uge" >
+<!ENTITY calendar.prevweek.label                "Forrige uge" >
+<!ENTITY calendar.nextweek.accesskey            "N" >
+<!ENTITY calendar.prevweek.accesskey            "F" >
+<!ENTITY calendar.nextmonth.label               "Næste måned" >
+<!ENTITY calendar.prevmonth.label               "Forrige måned" >
+<!ENTITY calendar.nextmonth.accesskey           "N" >
+<!ENTITY calendar.prevmonth.accesskey           "F" >
+
 
 <!ENTITY calendar.navigation.nextday.tooltip "En dag frem">
 <!ENTITY calendar.navigation.prevday.tooltip "En dag tilbage">
@@ -156,6 +158,7 @@
 <!ENTITY calendar.task-details.status.label "Status">
 <!ENTITY calendar.task-details.category.label "Kategori">
 <!ENTITY calendar.task-details.repeat.label "Gentag">
+<!ENTITY calendar.task-details.attachments.label "vedhæftede filer">
 
 <!ENTITY calendar.task.category.button.tooltip "Kategoriser opgaver">
 <!ENTITY calendar.task.complete.button.tooltip "Marker valgte opgaver som fuldførte">
@@ -324,12 +327,18 @@
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Layout:">
 <!ENTITY calendar.print.range.label "Hvad der skal printes">
-<!ENTITY calendar.print.currentview.label "Begivenheder i den aktuelle oversigt">
+<!ENTITY calendar.print.currentView2.label "Aktuel visning">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valgte begivenheder/opgaver">
+<!ENTITY calendar.print.tasks.label "Opgaver">
+<!ENTITY calendar.print.events.label "Begivenheder">
 <!ENTITY calendar.print.selected.label "Valgte begivenheder">
 <!ENTITY calendar.print.custom.label "Valgfrit tidsrum">
 <!ENTITY calendar.print.from.label "Fra:">
 <!ENTITY calendar.print.to.label "Til:">
+<!ENTITY calendar.print.optionsGroup.label "Indstillinger">
+<!ENTITY calendar.print.taskswithnoduedate.label "Opgaver uden sluttid">
 <!ENTITY calendar.print.settingsGroup.label "Sideopsætning">
+<!ENTITY calendar.print.completedtasks.label "Afsluttede opgaver">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljer…">
