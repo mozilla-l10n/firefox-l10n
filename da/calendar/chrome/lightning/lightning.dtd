@@ -107,6 +107,8 @@
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.new "B">
 <!ENTITY lightning.keys.todo.new "O">
+<!ENTITY lightning.keys.event.showCalendar.key "K">
+<!ENTITY lightning.keys.event.showTasks.key "O">
 
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Opret en ny kalender">

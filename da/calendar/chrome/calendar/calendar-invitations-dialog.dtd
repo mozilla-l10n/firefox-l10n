@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Heldagsbegivenhed">
 <!ENTITY calendar.invitations.list.location.text                        "Placering: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Arrangør: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Deltager: ">
 <!ENTITY calendar.invitations.list.none.text                            "Ingen">
