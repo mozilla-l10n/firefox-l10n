@@ -6,11 +6,11 @@
 <!ENTITY question.label "Želite pretvoriti sporočilo v navadno besedilo, ali ga poslati kot HTML?">
 
 <!ENTITY plainTextAndHtml.label "Pošlji kot navadno besedilo in HTML">
-<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextAndHtml.accesskey "i">
 <!ENTITY plainTextOnly.label "Pošlji samo kot navadno besedilo">
-<!ENTITY plainTextOnly.accesskey "p">
+<!ENTITY plainTextOnly.accesskey "n">
 <!ENTITY htmlOnly.label "Pošlji samo kot HTML">
-<!ENTITY htmlOnly.accesskey "H">
+<!ENTITY htmlOnly.accesskey "h">
 
 <!ENTITY send.label "Pošlji">
-<!ENTITY send.accesskey "S">
+<!ENTITY send.accesskey "P">

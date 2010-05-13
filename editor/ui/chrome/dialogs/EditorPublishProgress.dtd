@@ -38,8 +38,8 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "URL spletišča:">
-<!ENTITY docSubdir.label       "Podimenik strani">
-<!ENTITY otherSubdir.label     "Podimenik za slike">
+<!ENTITY docSubdir.label       "Podimenik strani:">
+<!ENTITY otherSubdir.label     "Podimenik za slike:">
 
 <!ENTITY status.label          "Objavljam…">
 <!ENTITY fileList.label        "Stanje objave">

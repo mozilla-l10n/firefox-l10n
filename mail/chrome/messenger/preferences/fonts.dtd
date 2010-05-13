@@ -4,31 +4,31 @@
 <!ENTITY  window.unixWidth                        "45em">
 
 <!ENTITY  language.label                          "Pisave za:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.accesskey                      "n">
 
 <!ENTITY  size.label                              "Velikost:">
-<!ENTITY  proportionalSize.accesskey              "i">
+<!ENTITY  proportionalSize.accesskey              "s">
 <!ENTITY  sizeMono.accesskey                      "L">
 
 <!ENTITY  proportional.label                      "Spremenljiva pisava:">
-<!ENTITY  proportional.accesskey                  "p">
+<!ENTITY  proportional.accesskey                  "Z">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "n">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "o">
 <!ENTITY  monospace.label                         "Enoširinska pisava:">
 <!ENTITY  monospace.accesskey                     "s">
 
-<!ENTITY  font.langGroup.latin1                   "zahodno">
-<!ENTITY  font.langGroup.latin2                   "srednjeevropsko">
+<!ENTITY  font.langGroup.latin1                   "Zahodno">
+<!ENTITY  font.langGroup.latin2                   "Srednjeevropsko">
 <!ENTITY  font.langGroup.japanese                 "Japonščina">
 <!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajsko (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Poenostavljeno kitajsko">
-<!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajsko (Hong Kong)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tradicionalno kitajsko (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korejščina">
-<!ENTITY  font.langGroup.cyrillic                 "cirilica">
-<!ENTITY  font.langGroup.baltic                   "baltsko">
+<!ENTITY  font.langGroup.cyrillic                 "Cirilica">
+<!ENTITY  font.langGroup.baltic                   "Baltsko">
 <!ENTITY  font.langGroup.el                       "Grščina">
 <!ENTITY  font.langGroup.turkish                  "Turščina">
 <!ENTITY  font.langGroup.unicode                  "Unicode">
@@ -36,15 +36,15 @@
 <!ENTITY  font.langGroup.thai                     "Tajščina">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejščina">
 <!ENTITY  font.langGroup.arabic                   "Arabščina">
-<!ENTITY  font.langGroup.devanagari               "devanagari">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamilščina">
 <!ENTITY  font.langGroup.armenian                 "Armenščina">
 <!ENTITY  font.langGroup.bengali                  "Bengalščina">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "etiopsko">
+<!ENTITY  font.langGroup.canadian                 "Poenoten kanadski Silabari">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopsko">
 <!ENTITY  font.langGroup.georgian                 "Gruzinščina">
 <!ENTITY  font.langGroup.gujarati                 "Gudžarati">
-<!ENTITY  font.langGroup.gurmukhi                 "gurmukhi">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Kamboščina">
 <!ENTITY  font.langGroup.malayalam                "Malajalamščina">
 
@@ -61,16 +61,16 @@
 <!ENTITY  fontControl.label                       "Nadzor pisav">
 <!ENTITY  useFixedWidthForPlainText.label         "Za sporočila v golem besedilu uporabi pisavo s fiksno širino">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Dovoli, da sporočila uporabljajo  druge pisave">
-<!ENTITY  useDocumentFonts.accesskey              "o">
+<!ENTITY  useDocumentFonts.label                  "Dovoli, da sporočila uporabljajo druge pisave">
+<!ENTITY  useDocumentFonts.accesskey              "O">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Odhajajoča pošta:">
-<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY sendDefaultCharset.accesskey     "o">
 <!ENTITY languagesTitle1.label            "Nabori znakov">
 <!ENTITY composingDescription.label       "Nastavi privzete nabore znakov za pošiljanje in prejemanje pošte">
 
 <!ENTITY viewDefaultCharsetList.label     "Prihajajoča pošta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
 <!ENTITY replyInDefaultCharset2.label     "Po možnosti za odgovore uporabi privzeti nabor znakov">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset2.accesskey "d">

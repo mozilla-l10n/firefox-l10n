@@ -1,4 +1,4 @@
-<!ENTITY notificationsDialog2.title       "Prilagodi opozorilo o novi pošti">
+<!ENTITY notificationsDialog2.title       "Prilagodi opozorilo za novo pošto">
 <!ENTITY window.width                     "30em">
 
 <!ENTITY alertCustomization.intro         "Izberite, katera polja bodo vidna v obvestilu z opozorilom:">
@@ -7,5 +7,5 @@
 <!ENTITY subject.label                    "Zadeva">
 <!ENTITY subject.accesskey                "S">
 <!ENTITY sender.label                     "Pošiljatelj">
-<!ENTITY sender.accesskey                 "i">
+<!ENTITY sender.accesskey                 "s">
 

@@ -40,21 +40,21 @@
 
 <!ENTITY replaceDialog.title "Iskanje in zamenjava">
 <!ENTITY findField.label "Iskano besedilo:">
-<!ENTITY findField.accesskey "n">
+<!ENTITY findField.accesskey "I">
 <!ENTITY replaceField.label "Zamenjaj s/z:">
-<!ENTITY replaceField.accesskey "i">
+<!ENTITY replaceField.accesskey "Z">
 <!ENTITY caseSensitiveCheckbox.label "Ujemanje malih in velikih črk">
-<!ENTITY caseSensitiveCheckbox.accesskey "u">
+<!ENTITY caseSensitiveCheckbox.accesskey "U">
 <!ENTITY wrapCheckbox.label "Znotraj besed">
-<!ENTITY wrapCheckbox.accesskey "t">
+<!ENTITY wrapCheckbox.accesskey "Z">
 <!ENTITY backwardsCheckbox.label "Išči nazaj">
-<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY backwardsCheckbox.accesskey "n">
 <!ENTITY findNextButton.label "Najdi naslednje">
-<!ENTITY findNextButton.accesskey "F">
+<!ENTITY findNextButton.accesskey "N">
 <!ENTITY replaceButton.label "Zamenjaj">
-<!ENTITY replaceButton.accesskey "D">
+<!ENTITY replaceButton.accesskey "Z">
 <!ENTITY replaceAndFindButton.label "Zamenjaj in najdi">
-<!ENTITY replaceAndFindButton.accesskey "d">
+<!ENTITY replaceAndFindButton.accesskey "N">
 <!ENTITY replaceAllButton.label "Zamenjaj vse">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "v">
 <!ENTITY closeButton.label "Zapri">

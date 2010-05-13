@@ -42,12 +42,12 @@
 <!ENTITY ListType.label "Tip seznama">
 <!ENTITY bulletStyle.label "Slog vidnih gumbov:">
 <!ENTITY startingNumber.label "Začni pri:">
-<!ENTITY startingNumber.accessKey "S">
+<!ENTITY startingNumber.accessKey "Z">
 <!ENTITY none.value "Nič">
 <!ENTITY bulletList.value "Seznam (neoštevilčen) z gumbi">
 <!ENTITY numberList.value "Oštevilčen seznam">
 <!ENTITY definitionList.value "Seznam definicij">
 <!ENTITY changeEntireListRadio.label "Spremeni celoten seznam">
-<!ENTITY changeEntireListRadio.accessKey "C">
+<!ENTITY changeEntireListRadio.accessKey "z">
 <!ENTITY changeSelectedRadio.label "Spremeni le izbrane postavke">
 <!ENTITY changeSelectedRadio.accessKey "I">

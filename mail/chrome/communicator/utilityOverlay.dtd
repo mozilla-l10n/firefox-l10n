@@ -3,57 +3,57 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "Datoteka">
-<!ENTITY fileMenu.accesskey        "p">
+<!ENTITY fileMenu.accesskey        "D">
 <!ENTITY newMenu.label            "Novo">
 <!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY editMenu.label          "Urejaj">
-<!ENTITY editMenu.accesskey        "i">
-<!ENTITY undoCmd.label            "Prekliči">
-<!ENTITY undoCmd.key            "Ž">
-<!ENTITY undoCmd.accesskey          "u">
-<!ENTITY redoCmd.label            "Ponovi">
-<!ENTITY redoCmd.key            "D">
-<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY editMenu.label          "Urejanje">
+<!ENTITY editMenu.accesskey        "U">
+<!ENTITY undoCmd.label            "Razveljavi">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "r">
+<!ENTITY redoCmd.label            "Uveljavi">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "u">
 <!ENTITY cutCmd.label            "Izreži">
 <!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY cutCmd.accesskey          "i">
 <!ENTITY copyCmd.label            "Kopiraj">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "u">
+<!ENTITY copyCmd.accesskey          "k">
 <!ENTITY pasteCmd.label            "Prilepi">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "p">
-<!ENTITY deleteCmd.label          "Izbriši">
-<!ENTITY deleteCmd.accesskey        "d">
+<!ENTITY deleteCmd.label          "Zbriši">
+<!ENTITY deleteCmd.accesskey        "b">
 <!ENTITY selectAllCmd.label          "Izberi vse">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "Možnosti ...">
-<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY selectAllCmd.accesskey        "v">
+<!ENTITY preferencesCmd.label        "Možnosti…">
+<!ENTITY preferencesCmd.accesskey      "M">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "N">
 
-<!ENTITY viewMenu.label          "Pokaži">
+<!ENTITY viewMenu.label          "Pogled">
 <!ENTITY viewMenu.accesskey        "p">
 <!ENTITY viewToolbarsMenu.label        "Orodne vrstice">
-<!ENTITY viewToolbarsMenu.accesskey      "T">
+<!ENTITY viewToolbarsMenu.accesskey      "O">
 <!ENTITY showTaskbarCmd.label          "Vrstica stanja">
-<!ENTITY showTaskbarCmd.accesskey        "u">
+<!ENTITY showTaskbarCmd.accesskey        "S">
 
-<!ENTITY proxy.label                                    "Proxy figuracija…">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY proxy.label                                    "Konfiguracija za proxy…">
+<!ENTITY proxy.accesskey                                "X">
 
 <!ENTITY closeCmd.label      "Zapri">
-<!ENTITY closeCmd.key      "t">
-<!ENTITY closeCmd.accesskey    "u">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "z">
 
-<!ENTITY quitApplicationCmd.label  "Izhod ">
+<!ENTITY quitApplicationCmd.label  "Izhod">
 <!ENTITY quitApplicationCmd.key    "Q">
-<!ENTITY quitApplicationCmd.accesskey  "x">
+<!ENTITY quitApplicationCmd.accesskey  "h">
 
 <!ENTITY quitApplicationCmdUnix.label  "Izhod">
-<!ENTITY quitApplicationCmdUnix.accesskey  "q">
+<!ENTITY quitApplicationCmdUnix.accesskey  "h">
 
 <!ENTITY quitApplicationCmdMac.label  "Zapusti &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "q">
+<!ENTITY quitApplicationCmdMac.accesskey  "h">

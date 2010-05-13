@@ -1,28 +1,28 @@
 <!ENTITY  pref.editing.title        "Nastavitve nove strani">
 
 <!ENTITY  authorName.label          "Avtor:">
-<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Privzeti videz strani">
 
 <!ENTITY defaultColors.label        "Privzete barve bralca (ne nastavlja barv za stran)">
-<!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Uporabi posebne barve:">
+<!ENTITY defaultColors.accesskey    "p">
+<!ENTITY customColors.label         "Uporabi barve po meri:">
 <!ENTITY customColors.accesskey     "u">
 
 <!ENTITY normalText.label           "Običajno besedilo">
-<!ENTITY normalText.accesskey       "N">
+<!ENTITY normalText.accesskey       "B">
 <!ENTITY linkText.label             "Besedilo povezave">
-<!ENTITY linkText.accesskey         "L ">
+<!ENTITY linkText.accesskey         "p">
 <!ENTITY activeLinkText.label       "Besedilo aktivne povezave">
-<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY activeLinkText.accesskey   "a">
 <!ENTITY visitedLinkText.label      "Besedilo obiskane povezave">
-<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY visitedLinkText.accesskey  "o">
 <!ENTITY background.label           "Ozadje:">
-<!ENTITY background.accesskey       "B">
+<!ENTITY background.accesskey       "O">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Slika za ozadje">
-<!ENTITY backgroundImage.accesskey  "s">
-<!ENTITY chooseFile.label           "Izberite datoteko ...">
-<!ENTITY chooseFile.accesskey       "o">
+<!ENTITY backgroundImage.label      "Slika za ozadje:">
+<!ENTITY backgroundImage.accesskey  "z">
+<!ENTITY chooseFile.label           "Izberite datoteko…">
+<!ENTITY chooseFile.accesskey       "I">
 

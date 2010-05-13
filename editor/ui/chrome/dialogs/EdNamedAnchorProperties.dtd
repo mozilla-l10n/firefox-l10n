@@ -36,8 +36,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Lastnosti sidra z imenom">
-<!ENTITY anchorNameEditField.label "Ime 'sidra':">
-<!ENTITY anchorNameEditField.accessKey "N">
+<!ENTITY anchorNameEditField.label "Ime sidra:">
+<!ENTITY anchorNameEditField.accessKey "I">
 <!ENTITY nameInput.tooltip "Vnesite edinstveno ime za to sidro (tarčo)">
 
 

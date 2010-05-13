@@ -1,7 +1,7 @@
-<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd2.key              "b">
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "Sporočilo">
 <!ENTITY  newMessageCmd.accesskey         "s">
  
-<!ENTITY  newContactCmd.label             "Vizitka z naslovom ...">
-<!ENTITY  newContactCmd.accesskey         "C">
+<!ENTITY  newContactCmd.label             "Vizitka z naslovom…">
+<!ENTITY  newContactCmd.accesskey         "z">

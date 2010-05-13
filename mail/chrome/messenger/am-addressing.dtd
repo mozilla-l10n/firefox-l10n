@@ -4,13 +4,13 @@
 <!ENTITY addressingGroupTitle.label "Naslavljanje">
 <!ENTITY addressingText.label      "Ko iščeš naslove:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "uporabi splošne nastavitve strežnika LDAP za ta račun">
+<!ENTITY useGlobal.label           "Uporabi splošne nastavitve strežnika LDAP za ta račun">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "Uredi imenike ...">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY editDirectories.label     "Uredi imenike…">
+<!ENTITY editDirectories.accesskey "e">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "uporabi drug strežnik LDAP:">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.label         "Uporabi drug strežnik LDAP:">
+<!ENTITY directories.accesskey     "p">
 <!ENTITY directoriesNone.label     "Nič">
 
 <!-- am-addressing.xul -->
@@ -18,20 +18,20 @@
 <!ENTITY compositionGroupTitle.label "Sestavljanje">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Sporočila sestavljaj v obliki HTML">
-<!ENTITY useHtml.accesskey                    "C">
-<!ENTITY autoQuote.label                      "Samodejno citiraj izvirno sporočilo ob odgovarjanju">
-<!ENTITY autoQuote.accesskey                  "s">
+<!ENTITY useHtml.accesskey                    "S">
+<!ENTITY autoQuote.label                      "V odgovoru samodejno citiraj izvirno sporočilo">
+<!ENTITY autoQuote.accesskey                  "V">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Potem">
-<!ENTITY then.accesskey                       "T">
+<!ENTITY then.accesskey                       "P">
 <!ENTITY aboveQuote.label                     "začni moj odgovor nad citiranim besedilom">
 <!ENTITY belowQuote.label                     "začni moj odgovor pod citiranim besedilom">
 <!ENTITY selectAndQuote.label                 "izberi citirano besedilo">
 <!ENTITY place.label                          "in postavi moj podpis">
-<!ENTITY place.accesskey                      "s">
-<!ENTITY belowText.label                      "pod citirano besedilo (priporočeno)">
+<!ENTITY place.accesskey                      "I">
+<!ENTITY belowText.label                      "pod citirano besedilo (se priporoča)">
 <!ENTITY aboveText.label                      "pod moj odgovor, a nad citirano besedilo">
-<!ENTITY includeSigOnReply.label              "dodaj podpis za odgovore">
-<!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "dodaj podpisa za posredovanja">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY includeSigOnReply.label              "Dodaj podpis odgovorom">
+<!ENTITY includeSigOnReply.accesskey          "D">
+<!ENTITY includeSigOnForward.label            "Dodaj podpis posredovanim sporočilom">
+<!ENTITY includeSigOnForward.accesskey        "O">

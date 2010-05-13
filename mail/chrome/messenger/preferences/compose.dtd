@@ -3,55 +3,55 @@
 <!ENTITY itemSpellCheck.label                "Črkovanje">
 
 <!ENTITY forwardMsg.label                     "Posreduj sporočila:">
-<!ENTITY forwardMsg.accesskey                 "F">
+<!ENTITY forwardMsg.accesskey                 "s">
 <!ENTITY inline.label                         "Notranji (Inline) slog">
-<!ENTITY asAttachment.label                   "Kot priloga">
+<!ENTITY asAttachment.label                   "Kot priponka">
 <!ENTITY addExtension.label                   "dodaj končnico imenu datoteke">
-<!ENTITY addExtension.accesskey               "i">
+<!ENTITY addExtension.accesskey               "k">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Pisava:">
-<!ENTITY font.accesskey                       "n">
+<!ENTITY font.accesskey                       "p">
 <!ENTITY size.label                           "Velikost:">
-<!ENTITY size.accesskey                       "z">
+<!ENTITY size.accesskey                       "v">
 <!ENTITY fontColor.label                      "Barva besedila:">
-<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY fontColor.accesskey                  "R">
 <!ENTITY bgColor.label                        "Barva ozadja:">
-<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY bgColor.accesskey                    "o">
 <!ENTITY restoreHTMLDefaults.label            "Ponastavi privzeto">
-<!ENTITY restoreHTMLDefaults.accesskey        "D">
+<!ENTITY restoreHTMLDefaults.accesskey        "e">
 
 <!ENTITY spellCheck.label                     "Preden pošlješ,  preveri črkovanje">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Aktiviraj  črkovanje med vnosom">
-<!ENTITY spellCheckInline1.accesskey          "E">
+<!ENTITY spellCheck.accesskey                 "p">
+<!ENTITY spellCheckInline.label               "Aktiviraj črkovanje med vnosom">
+<!ENTITY spellCheckInline1.accesskey          "a">
 <!ENTITY languagePopup.label                  "Jezik:">
-<!ENTITY languagePopup.accessKey              "L ">
+<!ENTITY languagePopup.accessKey              "j">
 <!ENTITY downloadDictionaries.label           "Prenesi dodatne slovarje">
 
 <!ENTITY warnOnSendAccelKey.label             "Potrdi, kadar za pošiljanje sporočil uporabljate bližnjice">
-<!ENTITY warnOnSendAccelKey.accesskey         "C">
+<!ENTITY warnOnSendAccelKey.accesskey         "p">
 <!ENTITY autoSave.label                       "Samodejno shrani vsakih">
-<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSave.accesskey                   "s">
 <!ENTITY autoSaveEnd.label                    "minut">
 
 <!ENTITY emailCollectionPicker.label           "Samodejno dodaj odhodne e-poštne naslove v moj:">
-<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY emailCollectionPicker.accesskey       "s">
 <!ENTITY addressingTitle.label                 "Samodokončanje naslova">
 <!ENTITY autocompleteText.label                "Pri naslavljanju sporočil išči ustrezne vnose v:">
 <!ENTITY addressingEnable.label                "lokalnih adresarjih">
-<!ENTITY addressingEnable.accesskey            "L ">
+<!ENTITY addressingEnable.accesskey            "l">
 <!ENTITY directories.label                     "Imeniškem strežniku:">
-<!ENTITY directories.accesskey                 "D">
+<!ENTITY directories.accesskey                 "i">
 <!ENTITY directoriesNone.label                 "Nič">
-<!ENTITY editDirectories.label                 "Uredi imenike ...">
-<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY editDirectories.label                 "Uredi imenike…">
+<!ENTITY editDirectories.accesskey             "u">
 
-<!ENTITY sendOptionsDescription.label          "Nastavi obnašanje oblike besedila">
-<!ENTITY sendOptions.label                     "Možnosti pošiljanja...">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptionsDescription.label          "Obnašanje pri oblikovanju besedila">
+<!ENTITY sendOptions.label                     "Možnosti pošiljanja…">
+<!ENTITY sendOptions.accesskey                 "m">
 
 <!ENTITY attachmentReminder.label              "Kontrola, da priponke ne manjkajo">
-<!ENTITY attachmentReminder.accesskey          "s">
-<!ENTITY attachmentReminderOptions.label       "Ključne besede...">
+<!ENTITY attachmentReminder.accesskey          "k">
+<!ENTITY attachmentReminderOptions.label       "Ključne besede…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

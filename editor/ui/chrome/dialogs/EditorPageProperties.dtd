@@ -40,11 +40,11 @@
 <!ENTITY location.label "Kje:">
 <!ENTITY lastModified.label "Zadnja sprememba:">
 <!ENTITY titleInput.label "Naslov:">
-<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.accessKey "R">
 <!ENTITY authorInput.label "Avtor:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Opis:">
-<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY descriptionInput.accessKey "O">
 <!ENTITY locationNewPage.label "[Nova stran, še ni shranjena]">
 <!ENTITY EditHEADSource1.label "Napredni uporabniki:">
-<!ENTITY EditHEADSource2.label "Če želite urediti drugo vsebino &lt;glavo&gt; področje, uporabite &quot;izvorno besedilo HTML &quot; v meniju Pogled ali v orodni vrstici za urejevalni način.">
+<!ENTITY EditHEADSource2.label " Če želite urediti drugo vsebino področja za &lt;glavo&gt;, uporabite &quot;izvorno besedilo HTML &quot; v meniju Pogled ali v orodni vrstici za urejevalni način.">

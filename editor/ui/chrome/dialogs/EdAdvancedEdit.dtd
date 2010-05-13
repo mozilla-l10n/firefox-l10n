@@ -41,7 +41,7 @@
 <!ENTITY AttValue.label                 "Vrednost: ">
 <!ENTITY PropertyName.label             "Lastnost: ">
 <!ENTITY currentattributesfor.label     "Trenutni prilastki za: ">
-<!ENTITY tree.attributeHeader.label     "Prilastek:">
+<!ENTITY tree.attributeHeader.label     "Prilastek">
 <!ENTITY tree.propertyHeader.label      "Lastnost">
 <!ENTITY tree.valueHeader.label         "Vrednost">
 <!ENTITY tabHTML.label                  "Prilastki HTML">

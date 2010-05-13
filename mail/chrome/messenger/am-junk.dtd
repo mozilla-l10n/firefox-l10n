@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Nastavitve za smeti ">
-<!ENTITY trainingWarning.label "Če se odločite za to izbiro, morate najprej s pomočjo gumba za za nezaželeno pošto v orodni vrstici sporočila označevati kot nezaželena ali zaželena, tako da se &brandShortName; lahko nauči, kako nezaželeno pošto razpoznati. Označiti morate tako zaželena kot tudi zaželena poročila. ">
-<!ENTITY level.label "Omogoči za ta račun prilagodljiv nadzor nad nezaželeno pošto">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Nastavitve neželene pošte">
+<!ENTITY trainingWarning.label "Če se odločite za to izbiro, morate najprej s pomočjo gumba za neželeno pošto v orodni vrstici sporočila označevati kot neželena ali želena, tako da se &brandShortName; lahko nauči, kako neželeno pošto prepoznati. Označiti morate tako neželena kot tudi želena sporočila.">
+<!ENTITY level.label "Omogoči za ta račun prilagodljiv nadzor nad neželeno pošto">
+<!ENTITY level.accesskey "e">
 
-<!ENTITY move.label "Nova nezaželena sporočila prestavi v:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Mapa &quot;Nezaželeno&quot; na:">
-<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY move.label "Nova neželena sporočila prestavi v:">
+<!ENTITY move.accesskey "O">
+<!ENTITY junkFolderOn.label "Mapa &quot;Neželeno&quot; na:">
+<!ENTITY junkFolderOn.accesskey "N">
 <!ENTITY otherFolder.label "Drugo:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Samodejno zbriši nezaželeno pošto, ki je starejša od:">
-<!ENTITY purge1.accesskey "u">
+<!ENTITY otherFolder.accesskey "D">
+<!ENTITY purge1.label "Samodejno zbriši neželeno pošto, ki je starejša od:">
+<!ENTITY purge1.accesskey "S">
 <!ENTITY purge2.label "dni">
 
 <!ENTITY whitelist.label "Ne označi kot neželeno pošto, če je pošiljatelj v: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.accesskey "E">
 
-<!ENTITY ispHeaders.label "Zaupaj glavam nezaželene pošte, kot je nastavil: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.label "Zaupaj glavam neželene pošte, kot je nastavil: ">
+<!ENTITY ispHeaders.accesskey "Z">

@@ -43,24 +43,22 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Nastavi posrednike za dostop do spleta">
+<!ENTITY  proxyTitle.label              "Prilagodi prehode za dostop do spleta">
 <!ENTITY  directTypeRadio.label         "Neposredna povezava v splet">
 <!ENTITY  directTypeRadio.accesskey     "N">
-<!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve posrednika za to omrežje">
+<!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve prehoda za to omrežje">
 <!ENTITY  WPADTypeRadio.accesskey       "S">
-<!ENTITY  manualTypeRadio.label         "Ročna nastavitev posrednika:">
+<!ENTITY  manualTypeRadio.label         "Ročna nastavitev prehoda:">
 <!ENTITY  manualTypeRadio.accesskey     "R">
-<!ENTITY  autoTypeRadio.label           "URL samodejne nastavitve posrednika:">
+<!ENTITY  autoTypeRadio.label           "Samodejna nastavitev URL prehoda:">
 <!ENTITY  autoTypeRadio.accesskey       "p">
 <!ENTITY  reload.label                  "Ponovno naloži">
 <!ENTITY  reload.accesskey              "ž">
-<!ENTITY  ftp.label                     "Posrednik FTP:">
+<!ENTITY  ftp.label                     "Prehod FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Posrednik Gopher:">
-<!ENTITY  gopher.accesskey              "G">
-<!ENTITY  http.label                    "Posrednik HTTP:">
+<!ENTITY  http.label                    "Prehod HTTP:">
 <!ENTITY  http.accesskey                "d">
-<!ENTITY  ssl.label                     "Posrednik SSL:">
+<!ENTITY  ssl.label                     "Prehod SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Gostitelj SOCKS:">
 <!ENTITY  socks.accesskey               "C">
@@ -72,11 +70,9 @@
 <!ENTITY  HTTPport.accesskey            "V">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ni posrednika za:">
+<!ENTITY  noproxy.label                 "Ni prehoda za:">
 <!ENTITY  noproxy.accesskey             "z">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Uporabite ta posrednik za vse protokole">
+<!ENTITY  shareproxy.label              "Uporabite ta strežnik prehoda za vse protokole">
 <!ENTITY  shareproxy.accesskey          "a">

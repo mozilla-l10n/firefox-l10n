@@ -1,4 +1,4 @@
-<!ENTITY window.title             "Message Summary">
-<!ENTITY selectedmessages.label   "Selected Messages">
-<!ENTITY archive.label            "archive">
-<!ENTITY delete.label             "delete">
+<!ENTITY window.title             "Povzetek sporočila">
+<!ENTITY selectedmessages.label   "Izbrana sporočila">
+<!ENTITY archive.label            "arhiviraj">
+<!ENTITY delete.label             "zbriši">

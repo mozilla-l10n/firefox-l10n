@@ -40,9 +40,9 @@
 <!ENTITY windowTitle.label "Pritrdi na mrežo">
 
 <!ENTITY enableSnapToGrid.label "omogoči Pritrdi na mrežo">
-<!ENTITY enableSnapToGrid.accessKey "i">
+<!ENTITY enableSnapToGrid.accessKey "P">
 
 <!ENTITY sizeEditField.label "Velikost:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.accessKey "V">
 
 <!ENTITY pixelsLabel.value "pik">

@@ -34,11 +34,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Form Field Properties">
+<!ENTITY windowTitle.label "Nastavitve za polja obrazca">
 <!ENTITY windowTitleImage.label "Nastavitve za slike obrazca">
 
 <!ENTITY InputType.label "Vrsta polja">
-<!ENTITY InputType.accesskey "T">
+<!ENTITY InputType.accesskey "V">
 <!ENTITY text.value "Besedilo">
 <!ENTITY password.value "Geslo">
 <!ENTITY checkbox.value "Potrditveno polje">
@@ -52,31 +52,31 @@
 
 <!ENTITY InputSettings.label "Nastavitve polja">
 <!ENTITY InputName.label "Ime polja:">
-<!ENTITY InputName.accesskey "N">
+<!ENTITY InputName.accesskey "I">
 <!ENTITY GroupName.label "Ime skupine:">
-<!ENTITY GroupName.accesskey "N">
+<!ENTITY GroupName.accesskey "I">
 <!ENTITY InputValue.label "Vrednost polja:">
 <!ENTITY InputValue.accesskey "V">
 <!ENTITY InitialValue.label "Začetna vrednost:">
-<!ENTITY InitialValue.accesskey "V">
+<!ENTITY InitialValue.accesskey "Z">
 <!ENTITY InputChecked.label "Ob začetku potrjeno">
-<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InputChecked.accesskey "O">
 <!ENTITY InputSelected.label "Ob začetku izbrano">
-<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputSelected.accesskey "O">
 <!ENTITY InputReadOnly.label "Samo za branje">
-<!ENTITY InputReadOnly.accesskey "D">
+<!ENTITY InputReadOnly.accesskey "S">
 <!ENTITY InputDisabled.label "Onemogočeno">
-<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY InputDisabled.accesskey "O">
 <!ENTITY tabIndex.label "Indeks oznake:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Velikost polja:">
-<!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Največja dolžina:">
-<!ENTITY TextLength.accesskey "L ">
+<!ENTITY TextSize.accesskey "V">
+<!ENTITY TextLength.label "Dolžina največ:">
+<!ENTITY TextLength.accesskey "D">
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 <!ENTITY Accept.label "Sprejmi vrste:">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY Accept.accesskey "S">
 
-<!ENTITY ImageProperties.label "Lastnosti slike...">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.label "Lastnosti slike…">
+<!ENTITY ImageProperties.accesskey "e">

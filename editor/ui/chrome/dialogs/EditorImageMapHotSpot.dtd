@@ -43,7 +43,7 @@
 
 <!ENTITY link.label				"Povezava vroče točke">
 <!ENTITY urlFieldset.label		"URL vroče točke:">
-<!ENTITY altFieldset.label		"Nadomestno besedilo za vročo točko;">
+<!ENTITY altFieldset.label		"Nadomestno besedilo za vročo točko:">
 <!ENTITY browseButton.label		"Brskaj…">
 <!ENTITY targetFieldset.label	"Nastavitev cilja">
 <!ENTITY target.label			"Cilj vroče točke">

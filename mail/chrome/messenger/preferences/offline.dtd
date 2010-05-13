@@ -2,23 +2,23 @@
 
 <!ENTITY textStartUp "Ob zagonu:">
 <!ENTITY radioRememberPrevState.label "Zapomni si prejšnje stanje povezave">
-<!ENTITY radioRememberPrevState.accesskey "D">
+<!ENTITY radioRememberPrevState.accesskey "e">
 <!ENTITY radioAskMe.label "Ob zagonu me vprašaj za stanje povezave">
-<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAskMe.accesskey "o">
 <!ENTITY radioAlwaysOnline.label "Vedno začni s povezavo">
-<!ENTITY radioAlwaysOnline.accesskey "l">
+<!ENTITY radioAlwaysOnline.accesskey "s">
 
 <!ENTITY textGoingOnline "Naj pošljem neodposlana sporočila ob začetku povezave?">
 <!ENTITY radioAutoSend.label "Da">
 <!ENTITY radioAutoSend.accesskey "D">
 <!ENTITY radioNotSend.label "Ne">
-<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioNotSend.accesskey "b">
 <!ENTITY radioAskUnsent.label "Vprašaj me">
 <!ENTITY radioAskUnsent.accesskey "s">
 <!ENTITY textGoingOffline "Naj prenesem sporočila za delo brez povezave, preden se povezavo prekine?">
 <!ENTITY radioAutoDownload.label "Da">
-<!ENTITY radioAutoDownload.accesskey "i">
+<!ENTITY radioAutoDownload.accesskey "s">
 <!ENTITY radioNotDownload.label "Ne">
-<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioNotDownload.accesskey "O">
 <!ENTITY radioAskDownload.label "Vprašaj me">
 <!ENTITY radioAskDownload.accesskey "a">

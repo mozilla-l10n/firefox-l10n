@@ -39,26 +39,26 @@
 <!ENTITY Settings.label "Nastavitve">
 
 <!ENTITY TextAreaName.label "Ime polja:">
-<!ENTITY TextAreaName.accessKey "N">
+<!ENTITY TextAreaName.accessKey "I">
 <!ENTITY TextAreaRows.label "Vrstice:">
-<!ENTITY TextAreaRows.accessKey "D">
+<!ENTITY TextAreaRows.accessKey "V">
 <!ENTITY TextAreaCols.label "Stolpci:">
-<!ENTITY TextAreaCols.accessKey "C">
+<!ENTITY TextAreaCols.accessKey "S">
 <!ENTITY TextAreaReadOnly.label "Samo za branje">
-<!ENTITY TextAreaReadOnly.accessKey "O">
+<!ENTITY TextAreaReadOnly.accessKey "S">
 <!ENTITY TextAreaDisabled.label "Onemogočeno">
-<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaDisabled.accessKey "O">
 <!ENTITY TextAreaTabIndex.label "Indeks oznake:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Ključ za dostop:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Initial Text:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY InitialText.label "Začetno besedilo:">
+<!ENTITY InitialText.accessKey "Z">
 
 <!ENTITY TextAreaWrap.label "Z lomom besedila:">
-<!ENTITY TextAreaWrap.accessKey "t">
+<!ENTITY TextAreaWrap.accessKey "L">
 <!ENTITY WrapDefault.value "Privzeto">
-<!ENTITY WrapOff.value "Izklopljeno">
+<!ENTITY WrapOff.value "Izkl">
 <!ENTITY WrapHard.value "Trdo">
 <!ENTITY WrapSoft.value "Mehko">
 <!ENTITY WrapPhysical.value "Fizično">

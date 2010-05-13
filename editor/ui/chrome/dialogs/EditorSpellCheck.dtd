@@ -40,32 +40,32 @@
 
 <!ENTITY misspelledWord.label "Nepravilno napisana beseda:">
 <!ENTITY wordEditField.label "Zamenjaj s/z:">
-<!ENTITY wordEditField.accessKey "w">
-<!ENTITY checkwordButton.label "Preglej besedo">
-<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY wordEditField.accessKey "Z">
+<!ENTITY checkwordButton.label "Preveri besedo">
+<!ENTITY checkwordButton.accessKey "V">
 <!ENTITY suggestions.label "Predlogi:">
-<!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "Spreglej">
+<!ENTITY suggestions.accessKey "P">
+<!ENTITY ignoreButton.label "Prezri">
 <!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Spreglej vse">
-<!ENTITY ignoreAllButton.accessKey "n">
+<!ENTITY ignoreAllButton.label "Prezri vse">
+<!ENTITY ignoreAllButton.accessKey "v">
 <!ENTITY replaceButton.label "Zamenjaj">
-<!ENTITY replaceButton.accessKey "D">
+<!ENTITY replaceButton.accessKey "Z">
 <!ENTITY replaceAllButton.label "Zamenjaj vse">
-<!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Stop ">
-<!ENTITY stopButton.accessKey "t">
+<!ENTITY replaceAllButton.accessKey "a">
+<!ENTITY stopButton.label "Ustavi">
+<!ENTITY stopButton.accessKey "s">
 <!ENTITY userDictionary.label "Osebni slovar:">
-<!ENTITY moreDictionaries.label "Naloži dodatne slovarje ...">
+<!ENTITY moreDictionaries.label "Naloži dodatne slovarje…">
 <!ENTITY addToUserDictionaryButton.label "Dodaj besedo">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Urejaj ...">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY addToUserDictionaryButton.accessKey "p">
+<!ENTITY editUserDictionaryButton.label "Urejaj…">
+<!ENTITY editUserDictionaryButton.accessKey "e">
 <!ENTITY recheckButton.label "Ponovno preglej stran">
-<!ENTITY recheckButton.accessKey "p">
+<!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "Zapri">
-<!ENTITY closeButton.accessKey "C">
+<!ENTITY closeButton.accessKey "z">
 <!ENTITY sendButton.label "Pošlji">
-<!ENTITY sendButton.accessKey "S">
+<!ENTITY sendButton.accessKey "P">
 <!ENTITY languagePopup.label "Jezik:">
-<!ENTITY languagePopup.accessKey "L ">
+<!ENTITY languagePopup.accessKey "J">

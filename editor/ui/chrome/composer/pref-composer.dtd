@@ -3,23 +3,23 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY  pref.composer.title           "Skladatelj">
+<!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "Meni nedavne strani">
 <!ENTITY  documentsInMenu.label         "Strani v seznamu največ:">
-<!ENTITY  documentsInMenu.accesskey     "n">
+<!ENTITY  documentsInMenu.accesskey     "s">
 <!ENTITY  savingFiles.title             "Ko se strani shranjuje ali objavlja">
-<!ENTITY  preserveExisting.label        "Ohraniti prvotno oblikovanje izvora">
-<!ENTITY  preserveExisting.accesskey    "p">
+<!ENTITY  preserveExisting.label        "Ohrani prvotno oblikovanje izvora">
+<!ENTITY  preserveExisting.accesskey    "O">
 <!ENTITY  preserveExisting.tooltip      "Ohrani prelom vrstic in prvotno oblikovanje strani">
 <!ENTITY  saveAssociatedFiles.label     "Shrani slike in druge pridružene datoteke, kadar se shranjuje strani">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Kadar se objavlja strani, vedno pokaži dvogovor Objava">
-<!ENTITY  showPublishDialog.accesskey   "A">
-<!ENTITY  composerEditing.label         "Objava">
+<!ENTITY  showPublishDialog.accesskey   "K">
+<!ENTITY  composerEditing.label         "Urejanje">
 <!ENTITY  maintainStructure.label       "Med vstavljanjem ali brisanjem celic obdrži obliko tabele">
 <!ENTITY  maintainStructure.tooltip     "Med vstavljanjem ali brisanjem celic ohranjuje pravokotno obliko tabele">
 <!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "Uporabi sloge CSS  namesto elementov in prilastkov HTML">
+<!ENTITY  useCSS.label                  "Uporabi sloge CSS namesto elementov in prilastkov HTML">
 <!ENTITY  useCSS.accesskey              "U">
 <!ENTITY  crInPCreatesNewP.label        "Nova vrsta v odstavku vedno ustvari nov odstavek.">
-<!ENTITY  crInPCreatesNewP.accesskey    "D">
+<!ENTITY  crInPCreatesNewP.accesskey    "e">

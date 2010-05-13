@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY Contact.tab                     "Stik">
-<!ENTITY Contact.accesskey               "C">
+<!ENTITY Contact.accesskey               "S">
 <!ENTITY Name.box                        "Ime">
 
 <!-- LOCALIZATION NOTE:
@@ -57,119 +57,119 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Ime:">
-<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField1.accesskey           "I">
 <!ENTITY NameField2.label               "Priimek:">
-<!ENTITY NameField2.accesskey           "L ">
+<!ENTITY NameField2.accesskey           "P">
 <!ENTITY PhoneticField1.label           "Fonetično:">
 <!ENTITY PhoneticField2.label           "Fonetično:">
-<!ENTITY DisplayName.label              "Prikaži:">
-<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY DisplayName.label              "Pokaži:">
+<!ENTITY DisplayName.accesskey          "P">
 <!ENTITY NickName.label                 "Vzdevek:">
-<!ENTITY NickName.accesskey             "N">
+<!ENTITY NickName.accesskey             "V">
 
 <!ENTITY PrimaryEmail.label             "E-pošta:">
-<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY PrimaryEmail.accesskey         "e">
 <!ENTITY SecondEmail.label              "Dodatna E-pošta:">
-<!ENTITY SecondEmail.accesskey          "L">
+<!ENTITY SecondEmail.accesskey          "O">
 <!ENTITY PreferMailFormat.label         "Raje prejema sporočila oblike:">
-<!ENTITY PreferMailFormat.accesskey     "p">
+<!ENTITY PreferMailFormat.accesskey     "R">
 <!ENTITY PlainText.label                "Golo besedilo">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznano">
-<!ENTITY ScreenName.label               "Ime zaslona:">
+<!ENTITY ScreenName.label               "Ime strani:">
 <!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY allowRemoteContent1.label      "Dovoli oddaljeno vsebino.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.accesskey  "b">
 <!ENTITY allowRemoteContent1.tooltip    "In HTML messages it is possible to
 embed content from remote sources. Opening such a message will open a
 connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
+message being read. Ticking this box will allow such external embedded
 content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label                "Služba:">
-<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY WorkPhone.accesskey            "S">
 <!ENTITY HomePhone.label                "Doma:">
-<!ENTITY HomePhone.accesskey            "s">
+<!ENTITY HomePhone.accesskey            "D">
 <!ENTITY FaxNumber.label                "Faks:">
-<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Pozivnik:">
-<!ENTITY PagerNumber.accesskey          "v">
-<!ENTITY CellularNumber.label           "Mobi:">
-<!ENTITY CellularNumber.accesskey       "b">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "Mobilnik:">
+<!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Home.tab                       "Zasebno">
-<!ENTITY Home.accesskey                 "p">
+<!ENTITY Home.accesskey                 "Z">
 <!ENTITY HomeAddress.label              "Spletni naslov:">
-<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress.accesskey          "S">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Kraj:">
-<!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "Zv. država/provinca:">
-<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeCity.accesskey             "K">
+<!ENTITY HomeState.label                "Okraj:">
+<!ENTITY HomeState.accesskey            "O">
 <!ENTITY HomeZipCode.label              "Poštna številka:">
-<!ENTITY HomeZipCode.accesskey          "Ž">
+<!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Država:">
-<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeCountry.accesskey          "D">
 <!ENTITY HomeWebPage.label              "Spletna stran:">
-<!ENTITY HomeWebPage.accesskey          "i">
+<!ENTITY HomeWebPage.accesskey          "s">
 <!ENTITY Birthday.label                 "Rojstni datum:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.accesskey             "R">
 <!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "Leto">
 <!ENTITY Or.value                       "ali">
 <!ENTITY Age.emptytext                  "Starost">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "Delo">
-<!ENTITY Work.accesskey                 "t">
+<!ENTITY Work.tab                       "Služba">
+<!ENTITY Work.accesskey                 "S">
 <!ENTITY JobTitle.label                 "Naslov:">
-<!ENTITY JobTitle.accesskey             "L">
+<!ENTITY JobTitle.accesskey             "N">
 <!ENTITY Department.label               "Oddelek:">
-<!ENTITY Department.accesskey           "s">
+<!ENTITY Department.accesskey           "O">
 <!ENTITY Company.label                  "Organizacija:">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Spletni naslov:">
-<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress.accesskey          "S">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Kraj:">
-<!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "Zv. država/provinca:">
-<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkCity.accesskey             "K">
+<!ENTITY WorkState.label                "Okraj:">
+<!ENTITY WorkState.accesskey            "O">
 <!ENTITY WorkZipCode.label              "Poštna številka:">
-<!ENTITY WorkZipCode.accesskey          "Ž">
+<!ENTITY WorkZipCode.accesskey          "P">
 <!ENTITY WorkCountry.label              "Država:">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "D">
 <!ENTITY WorkWebPage.label              "Spletna stran:">
-<!ENTITY WorkWebPage.accesskey          "i">
+<!ENTITY WorkWebPage.accesskey          "S">
 
 <!ENTITY Other.tab                      "Drugo">
-<!ENTITY Other.accesskey                "h">
-<!ENTITY Custom1.label                  "Custom 1:">
+<!ENTITY Other.accesskey                "d">
+<!ENTITY Custom1.label                  "Po meri 1:">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Custom 2:">
+<!ENTITY Custom2.label                  "Po meri 2">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Custom 3:">
+<!ENTITY Custom3.label                  "Po meri 3">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "Custom 4:">
+<!ENTITY Custom4.label                  "Po meri 4">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notes:">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.label                    "Beležke:">
+<!ENTITY Notes.accesskey                "b">
 
-<!ENTITY Photo.tab                      "Photo">
-<!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Pick one of the following:">
-<!ENTITY GenericPhoto.label             "Generic Photo">
-<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY Photo.tab                      "Slika">
+<!ENTITY Photo.accesskey                "S">
+<!ENTITY PhotoDesc.label                "Izberite:">
+<!ENTITY GenericPhoto.label             "navadno fotografijo">
+<!ENTITY GenericPhoto.accesskey         "n">
 <!ENTITY DefaultPhoto.label             "Privzeto">
-<!ENTITY PhotoFile.label                "On this Computer">
-<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY PhotoFile.label                "Na tem računalniku">
+<!ENTITY PhotoFile.accesskey            "t">
 <!ENTITY BrowsePhoto.label              "Brskaj">
-<!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "On the Web">
-<!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Paste or type the web address of a photo">
+<!ENTITY BrowsePhoto.accesskey          "b">
+<!ENTITY PhotoURL.label                 "Na mreži">
+<!ENTITY PhotoURL.accesskey             "m">
+<!ENTITY PhotoURL.emptytext             "Prilepite sliko ali vtipkajte njen naslov na mreži">
 <!ENTITY UpdatePhoto.label              "Obnovi">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.accesskey          "o">

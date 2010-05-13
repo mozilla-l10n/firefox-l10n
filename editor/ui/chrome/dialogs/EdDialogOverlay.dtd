@@ -35,17 +35,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY AdvancedEditButton.label "Napredno spreminjanje ...">
-<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.label "Napredno spreminjanje…">
+<!ENTITY AdvancedEditButton.accessKey "N">
 <!ENTITY AdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
-<!ENTITY chooseFileButton.label "Izberite datoteko ...">
-<!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Izberite datoteko ...">
-<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY chooseFileButton.label "Izberite datoteko…">
+<!ENTITY chooseFileButton.accessKey "I">
+<!ENTITY chooseFileLinkButton.label "Izberite datoteko…">
+<!ENTITY chooseFileLinkButton.accessKey "I">
 <!ENTITY makeUrlRelative.label "URI je relativen glede na lokacijo strani">
-<!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Menjaj iz relativnega URL. v absolutni in obratno, Stran morate najprej shraniti, potem šele lahko to spremenite. ">
+<!ENTITY makeUrlRelative.accessKey "R">
+<!ENTITY makeUrlRelative.tooltip "Menjaj iz relativnega v absolutni URL in obratno. Stran morate najprej shraniti, potem šele lahko to spremenite.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Vnesite lokacijo spletne strani, lokalne datoteke, ali pa izberite sidro z imenom oziroma naslov iz pojavnega seznama:">
-<!ENTITY LinkURLEditField.accessKey "L ">
+<!ENTITY LinkURLEditField.accessKey "V">

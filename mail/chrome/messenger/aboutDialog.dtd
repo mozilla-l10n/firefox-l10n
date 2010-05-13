@@ -2,18 +2,18 @@
 <!ENTITY aboutButton.label      "&lt; nazaj">
 <!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "različica">
-<!ENTITY copyrightText          "&#169;1998-2010 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
+<!ENTITY copyrightText          "&#169;1998-2009 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
                                  Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
                                  reserved.">
 <!ENTITY aboutMenu.label        "Vizitka">
-<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutMenu.accesskey    "v">
 <!ENTITY aboutCredits.label     "O sodelavcih">
-<!ENTITY aboutCredits.accesskey "C">
-<!ENTITY aboutRights.label      "O vaših pravicah">
-<!ENTITY aboutRights.accesskey  "D">
+<!ENTITY aboutCredits.accesskey "z">
+<!ENTITY aboutRights.label      "Vaše pravice">
+<!ENTITY aboutRights.accesskey  "e">
 <!ENTITY aboutContributors.label "Sodelavci">
-<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutContributors.accesskey "O">
 <!ENTITY aboutLicense.label      "Licenca">
-<!ENTITY aboutLicense.accesskey  "L ">
+<!ENTITY aboutLicense.accesskey  "m">
 
 <!ENTITY cmdCloseMac.commandKey "w">

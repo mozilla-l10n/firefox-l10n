@@ -40,14 +40,14 @@
 <!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "Odjavi naročnino">
 <!ENTITY unsubscribeButton.accesskey  "U">
-<!ENTITY newGroupsTab.label           "Nove supine">
-<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY newGroupsTab.label           "Nove skupine">
+<!ENTITY newGroupsTab.accesskey       "b">
 <!ENTITY refreshButton.label          "Osveži">
-<!ENTITY refreshButton.accesskey      "D">
-<!ENTITY stopButton.label             "Stop ">
-<!ENTITY stopButton.accesskey         "T">
+<!ENTITY refreshButton.accesskey      "e">
+<!ENTITY stopButton.label             "Ustavi">
+<!ENTITY stopButton.accesskey         "R">
 <!ENTITY server.label                 "Račun:">
-<!ENTITY server.accesskey             "A">
+<!ENTITY server.accesskey             "v">
 <!ENTITY subscribedHeader.label       "Naroči se">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->

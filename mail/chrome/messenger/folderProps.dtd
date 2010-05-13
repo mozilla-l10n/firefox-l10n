@@ -40,60 +40,61 @@
 
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
-<!ENTITY generalInfo.label                       "General Information">
+<!ENTITY generalInfo.label                       "Splošne informacije">
 <!ENTITY folderCharsetTab.label                  "Privzeti nabor znakov:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey      "D">
-<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File"> 
-     
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseAccount.label  "Use my account settings">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label             "Uveljavi privzeto za vsa sporočila v mapi (posamezne nastavitve za nabore znakov in samodejno zaznavanje ne bodo upoštevane)">
+<!ENTITY folderCharsetOverride.accesskey         "v">
+<!ENTITY folderRebuildSummaryFile.label          "Ponovno grajenje indeksa">
+<!ENTITY folderRebuildSummaryFile.accesskey      "e">
+<!ENTITY folderRebuildSummaryFileTip.label       "Ponovno zgradi datoteko s povzetki"> 
+
+<!ENTITY retention.label "Pravila zadrževanja">
+<!ENTITY retentionUseAccount.label  "Uporabi moje nastavitve računa">
 <!ENTITY retentionUseAccount.accesskey "U">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY daysOld.label "dni">
+<!ENTITY message.label "sporočil">
+<!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če dokončno izbrišete stara sporočila.">
+<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če dokončno izbrišete stara sporočila, lokalna in sporočila na oddaljenem strežniku.">
+<!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če dokončno izbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
+<!ENTITY retentionDeleteMsg.label "Zbriši sporočila starejša kot">
 <!ENTITY retentionDeleteMsg.accesskey "s">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepAll.label "Ne zbriši nobenih sporočil">
+<!ENTITY retentionKeepAll.accesskey "v">
+<!ENTITY retentionKeepRecent.label "Zbriši vse, razen najnovejših">
+<!ENTITY retentionKeepRecent.accesskey "s">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "i">
+<!ENTITY retentionKeepUnreadHidden.label "Vedno z
+		briši prebrana sporočila (razveljavi nastavitve o starosti)">
+<!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
-<!ENTITY folderCheckForNewMessages.label         "Check this folder for new messages">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderSynchronizationTab.label          "Sinhronizacija">
+<!ENTITY folderCheckForNewMessages.label         "Preveri to mapo za nova sporočila">
+<!ENTITY folderCheckForNewMessages.accesskey     "z">
 
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
+<!ENTITY offlineFolder.check.label               "Za delo brez povezave, izberite to mapo">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Prenesi zdaj">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY selectofflineNewsgroup.check.label      "Izberi to novičarsko skupino za delo brez povezave">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "O">
 <!ENTITY offlineNewsgroup.button.label           "Prenesi zdaj">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
 <!ENTITY folderProps.name.label                  "Ime:">
-<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.name.accesskey              "b">
 <!ENTITY folderProps.location.label              "Kje:">
-<!ENTITY folderProps.location.accesskey          "L ">
+<!ENTITY folderProps.location.accesskey          "m">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privileges.button.label                 "Privileges…">
-<!ENTITY privileges.button.accesskey             "p">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY folderSharingTab.label                  "Skupna raba">
+<!ENTITY privileges.button.label                 "Privilegiji…">
+<!ENTITY privileges.button.accesskey             "Z">
+<!ENTITY permissionsDesc.label                   "Imate ta dovoljenja:">
+<!ENTITY folderType.label                        "Vrsta mape:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
+<!ENTITY folderQuotaTab.label                    "Količinska omejitev">
+<!ENTITY folderQuotaRoot.label                   "Količinska omejitev Root:">
+<!ENTITY folderQuotaUsage.label                  "Uporaba:">
 <!ENTITY folderQuotaStatus.label                 "Stanje:">

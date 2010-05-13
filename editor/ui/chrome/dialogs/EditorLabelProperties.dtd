@@ -37,14 +37,14 @@
 <!ENTITY windowTitle.label "Lastnosti nalepk">
 
 <!ENTITY Settings.label "Nastavitve">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.accesskey "N">
 
 <!ENTITY EditLabelText.label "Uredi besedilo:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "U">
 <!ENTITY LabelFor.label "Za kontrolo:">
-<!ENTITY LabelFor.accesskey "F">
+<!ENTITY LabelFor.accesskey "Z">
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveLabel.label "Odstrani nalepko">
-<!ENTITY RemoveLabel.accesskey "D">
+<!ENTITY RemoveLabel.accesskey "O">

@@ -38,16 +38,16 @@
 
 <!ENTITY Settings.label "Nastavitve">
 
-<!ENTITY FormName.label "Ime nastavitve">
-<!ENTITY FormName.accesskey "N">
+<!ENTITY FormName.label "Ime obrazca:">
+<!ENTITY FormName.accesskey "I">
 <!ENTITY FormAction.label "URL za ukrep:">
-<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormAction.accesskey "U">
 <!ENTITY FormMethod.label "Metoda:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Kodiranje:">
-<!ENTITY FormEncType.accesskey "u">
+<!ENTITY FormEncType.accesskey "K">
 <!ENTITY FormTarget.label "Ciljni okvir:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.accesskey "C">
 
 <!ENTITY RemoveForm.label "Odstrani obrazec">
-<!ENTITY RemoveForm.accesskey "D">
+<!ENTITY RemoveForm.accesskey "O">

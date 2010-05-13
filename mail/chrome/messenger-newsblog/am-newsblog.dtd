@@ -1,20 +1,20 @@
 <!ENTITY accountTitle.label "Nastavitve računa">
 
-<!ENTITY biffStart.label "Preveri, ali obstajajo novi članki vsakih  ">
+<!ENTITY biffStart.label "Preveri, ali obstajajo novi članki vsakih ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minut">
 
 <!ENTITY loginAtStartup.label "Ob zagonu preveri, ali obstajajo novi članki"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "O">
 
 <!ENTITY useQuickMode.label "Privzemi prikaz povzetka članka in ne nalagaj spletne strani"> 
-<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY useQuickMode.accesskey "P">
 
-<!ENTITY manageSubscriptions.label "Upravljanje naročnin ..."> 
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.label "Upravljanje naročnin…"> 
+<!ENTITY manageSubscriptions.accesskey "U">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Novice in spletni dnevniki RSS">
 <!ENTITY feeds.wizardShortName "Viri">
 <!ENTITY feeds.wizardLongName "Novice in spletni dnevniki RSS">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feeds.wizardLongName.accesskey "D">

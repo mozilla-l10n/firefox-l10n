@@ -1,16 +1,16 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Šifriraj to sporočilo">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securityEncryptRequire.accesskey "Š">
 
 <!ENTITY menu_securitySign.label "Digitalno podpiši">
-<!ENTITY menu_securitySign.accesskey "M">
+<!ENTITY menu_securitySign.accesskey "P">
 
-<!ENTITY menu_securityStatus.label "Varnost sporočila">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.label "Pokaži podatke o varnosti">
+<!ENTITY menu_securityStatus.accesskey "P">
 
 <!ENTITY securityButton.label "Varnost">
-<!ENTITY securityButton.tooltip "Preglej ali spreminjaj varnostne nastavitve">
+<!ENTITY securityButton.tooltip "Pokaži ali spremeni varnostne nastavitve">
 
 <!ENTITY menu_viewSecurityStatus.label "Informacije o varnosti sporočila">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">

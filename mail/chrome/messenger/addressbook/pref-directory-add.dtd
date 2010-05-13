@@ -37,38 +37,38 @@
 
 <!ENTITY newDirectoryTitle.label           "Lastnosti imeniškega strežnika">
 <!ENTITY directoryName.label               "Ime: ">
-<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryName.accesskey           "i">
 <!ENTITY directoryHostname.label           "Ime gostitelja: ">
-<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryHostname.accesskey       "g">
 <!ENTITY directoryBaseDN.label             "Osnovni DN: ">
-<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY directoryBaseDN.accesskey         "d">
 <!ENTITY findButton.label                  "Poišči">
 <!ENTITY findButton.accesskey              "p">
 <!ENTITY directorySecure.label             "Uporabljaj varno povezavo (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "DN veze (Bind DN): ">
-<!ENTITY directoryLogin.accesskey          "L">
+<!ENTITY directoryLogin.accesskey          "B">
 <!ENTITY General.tab                       "Splošno">
 <!ENTITY Offline.tab                       "Brez povezave">
 <!ENTITY Advanced.tab                      "Napredno">
 <!ENTITY portNumber.label                  "Številka vrat: ">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "V">
 <!ENTITY searchFilter.label                "Iskalni filter: ">
-<!ENTITY searchFilter.accesskey            "p">
+<!ENTITY searchFilter.accesskey            "I">
 <!ENTITY scope.label                       "Obseg: ">
-<!ENTITY scope.accesskey                   "u">
+<!ENTITY scope.accesskey                   "O">
 <!ENTITY scopeOneLevel.label               "Ena raven">
-<!ENTITY scopeOneLevel.accesskey           "L ">
+<!ENTITY scopeOneLevel.accesskey           "E">
 <!ENTITY scopeSubtree.label                "Poddrevo">
-<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY scopeSubtree.accesskey            "P">
 <!ENTITY return.label                      "Ne vračaj več kot">
-<!ENTITY return.accesskey                  "r">
+<!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "rezultatov">
 <!ENTITY offlineText.label                 "Lahko si prenesete lokalno kopijo tega imenika, da vam bo na voljo tudi takrat, kadar boste delali brez povezave.">
 <!ENTITY saslMechanism.label               "Način prijave: ">
-<!ENTITY saslMechanism.accesskey           "s">
+<!ENTITY saslMechanism.accesskey           "N">
 <!ENTITY saslOff.label                     "Enostavna">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslOff.accesskey                 "E">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 

@@ -1,39 +1,40 @@
-<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
-<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
-<!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, je mogoče prenos in lokalno hranjenje sporočil za delo brez povezave omejiti glede da njih starost ali velikost.">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
-<!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Messages larger than">
-<!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
-<!ENTITY autosyncNotDownload.accesskey "s">
+<!ENTITY doNotDownloadPop3Movemail.label "Zaradi prihranka prostora na disku, ne prenesi:">
+<!ENTITY doNotDownloadNntp.label "Zaradi prihranka prostora na disku, ne prenesi, kadar delaš brez povezave:">
+<!ENTITY doNotDownloadImap.label "Da se prihrani prostor na disku, je mogoče prenos in lokalno hranjenje sporočil za delo brez povezave omejiti glede da njihovo starost ali velikost.">
+<!ENTITY allFoldersOffline.label "Ohrani sporočila za ta račun na tem računalniku">
+<!ENTITY allFoldersOffline.accesskey "O">
+<!ENTITY offlineNotDownload.label "Sporočila večja kot">
+<!ENTITY offlineNotDownload.accesskey "V">
+<!ENTITY autosyncNotDownload.label "Ne prenašaj sporočil, večjih od">
+<!ENTITY autosyncNotDownload.accesskey "N">
 <!ENTITY kb.label "kB">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
+<!ENTITY daysOld.label "dni">
+<!ENTITY message.label "sporočil">
 <!ENTITY nntpNotDownloadRead.label "Beri sporočila">
-<!ENTITY nntpNotDownloadRead.accesskey "d">
-<!ENTITY nntpDownloadMsg.label "Messages more than">
-<!ENTITY nntpDownloadMsg.accesskey "i">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "t">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY nntpNotDownloadRead.accesskey "B">
+<!ENTITY nntpDownloadMsg.label "Sporočila večja kot">
+<!ENTITY nntpDownloadMsg.accesskey "s">
+<!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če dokončno izbrišete stara sporočila.">
+<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če dokončno izbrišete stara sporočila, lokalna in sporočila na oddaljenem strežniku.">
+<!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če dokončno izbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
+<!ENTITY retentionKeepMsg.label "Zbriši sporočila starejša kot">
+<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionKeepAll.label "Ne zbriši nobenih sporočil">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Zbriši vse, razen najnovejših">
+<!ENTITY retentionKeepRecent.accesskey "Z">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
-<!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Napredno ...">
-<!ENTITY offlineImapAdvancedOffline.accesskey "p">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
+<!ENTITY retentionKeepUnreadHidden.label "Vedno z
+		briši prebrana sporočila (razveljavi nastavitve o starosti)">
+<!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
+<!ENTITY retentionApplyToFlagged.accesskey "V">
+<!ENTITY nntpRemoveMsgBody.label "Iz sporočil odstrani telesa večja kot">
+<!ENTITY nntpRemoveMsgBody.accesskey "I">
+<!ENTITY offlineSelectNntp.label "Izberi novičarske skupine za delo brez povezave…">
+<!ENTITY offlineSelectNntp.accesskey "z">
+<!ENTITY offlineImapAdvancedOffline.label "Napredno…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "N">
+<!ENTITY syncGroupTitle.label "Sinhroniziranje sporočil">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
@@ -42,13 +43,13 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Synchronize all messages locally regardless of age">
-<!ENTITY allAutosync.accesskey           "u">
-<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
-<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY allAutosync.label               "Sinhroniziraj vsa sporočila lokalno, ne glede na starost">
+<!ENTITY allAutosync.accesskey           "S">
+<!ENTITY ageAutosyncBefore.label         "Sinhroniziraj najnovejša">
+<!ENTITY ageAutosync.accesskey           "n">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "Days">
-<!ENTITY weekAgeInterval.label           "Weeks">
-<!ENTITY monthAgeInterval.label          "Months">
-<!ENTITY yearAgeInterval.label           "Years">
+<!ENTITY dayAgeInterval.label            "Dnevi">
+<!ENTITY weekAgeInterval.label           "Tedni">
+<!ENTITY monthAgeInterval.label          "Meseci">
+<!ENTITY yearAgeInterval.label           "Leta">
 <!ENTITY ageAutosyncAfter.label          "">
