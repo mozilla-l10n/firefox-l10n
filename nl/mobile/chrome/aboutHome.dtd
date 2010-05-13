@@ -4,5 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "Add-ons voor &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "Over Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Alle openen in tabbladen">
-<!ENTITY aboutHome.noTabs                       "Geen tabbladen van de laatste keer">
+<!ENTITY aboutHome.noTabs                       "Geen tabbladen van de vorige keer">
 <!ENTITY aboutHome.noAddons                     "Geen aanbevolen add-ons">
