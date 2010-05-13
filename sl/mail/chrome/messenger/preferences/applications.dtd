@@ -1,8 +1,8 @@
 <!ENTITY  typeColumn.label            "Vrsta vsebine">
-<!ENTITY  typeColumn.accesskey        "T">
+<!ENTITY  typeColumn.accesskey        "V">
 
 <!ENTITY  actionColumn2.label         "Dejanje">
-<!ENTITY  actionColumn2.accesskey     "A">
+<!ENTITY  actionColumn2.accesskey     "D">
 
 <!ENTITY  focusSearch1.key            "p">
 <!ENTITY  focusSearch2.key            "k">
@@ -12,8 +12,8 @@
 <!ENTITY saveTo.label                 "Shrani datoteke v">
 <!ENTITY saveTo.accesskey             "S">
 <!ENTITY alwaysAsk.label              "Vsakokrat me vprašaj, kam shraniti posamezno datoteko">
-<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY alwaysAsk.accesskey          "V">
 <!ENTITY chooseFolderWin.label        "Brskaj…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Izberi ...">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY chooseFolderMac.label        "Izberi…">
+<!ENTITY chooseFolderMac.accesskey    "I">

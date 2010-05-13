@@ -38,43 +38,43 @@
 
 <!ENTITY Select.label "Izbirni seznam">
 <!ENTITY SelectName.label "Ime seznama:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "I">
 <!ENTITY SelectSize.label "Višina:">
-<!ENTITY SelectSize.accesskey "H">
+<!ENTITY SelectSize.accesskey "V">
 <!ENTITY SelectMultiple.label "Večkratna izbira">
-<!ENTITY SelectMultiple.accesskey "M">
+<!ENTITY SelectMultiple.accesskey "E">
 <!ENTITY SelectDisabled.label "Onemogočeno">
-<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectDisabled.accesskey "O">
 <!ENTITY SelectTabIndex.label "Indeks oznake:">
 <!ENTITY SelectTabIndex.accesskey "I">
 
 <!ENTITY OptGroup.label "Izbirna skupina">
 <!ENTITY OptGroupLabel.label "Nalepka:">
-<!ENTITY OptGroupLabel.accesskey "L ">
+<!ENTITY OptGroupLabel.accesskey "N">
 <!ENTITY OptGroupDisabled.label "Onemogočeno">
-<!ENTITY OptGroupDisabled.accesskey "D">
+<!ENTITY OptGroupDisabled.accesskey "O">
 
 <!ENTITY Option.label "Izbira">
 <!ENTITY OptionText.label "Besedilo:">
-<!ENTITY OptionText.accesskey "T">
+<!ENTITY OptionText.accesskey "B">
 <!ENTITY OptionValue.label "Vrednost:">
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Ob začetku izbrano">
-<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionSelected.accesskey "I">
 <!ENTITY OptionDisabled.label "Onemogočeno">
-<!ENTITY OptionDisabled.accesskey "D">
+<!ENTITY OptionDisabled.accesskey "O">
 
 <!ENTITY TextHeader.label "Besedilo">
 <!ENTITY ValueHeader.label "Vrednost">
 <!ENTITY SelectedHeader.label "Izbrano">
 
 <!ENTITY AddOption.label "Dodaj izbiro">
-<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOption.accesskey "I">
 <!ENTITY AddOptGroup.label "Dodaj skupino">
-<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY AddOptGroup.accesskey "S">
 <!ENTITY RemoveElement.label "Odstrani">
-<!ENTITY RemoveElement.accesskey "D">
+<!ENTITY RemoveElement.accesskey "O">
 <!ENTITY MoveElementUp.label "Premakni gor">
-<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementUp.accesskey "G">
 <!ENTITY MoveElementDown.label "Premakni dol">
 <!ENTITY MoveElementDown.accesskey "D">

@@ -36,25 +36,25 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Barve strani in ozadje">
+<!ENTITY windowTitle.label "Barve strani in ozadja">
 <!ENTITY pageColors.label "Barve strani">
 <!ENTITY defaultColorsRadio.label "Privzete barve bralca (ne nastavlja barv za stran)">
-<!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Uporabljaj samo barve, ki jih gledalec (bralec) uporablja v brskalniku ">
-<!ENTITY customColorsRadio.label "Uporabi posebne barve:">
-<!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "Te barvne nastavitve nadomestijo vrednosti iz gledalčevega brskalnika ">
+<!ENTITY defaultColorsRadio.accessKey "P">
+<!ENTITY defaultColorsRadio.tooltip "Uporabljaj samo barve, ki jih gledalec (bralec) uporablja v brskalniku">
+<!ENTITY customColorsRadio.label "Uporabi barve po meri:">
+<!ENTITY customColorsRadio.accessKey "M">
+<!ENTITY customColorsRadio.tooltip "Te barvne nastavitve nadomestijo vrednosti iz gledalčevega brskalnika">
 
 <!ENTITY normalText.label "Običajno besedilo">
-<!ENTITY normalText.accessKey "N">
+<!ENTITY normalText.accessKey "O">
 <!ENTITY linkText.label "Besedilo povezave">
-<!ENTITY linkText.accessKey "L ">
+<!ENTITY linkText.accessKey "B">
 <!ENTITY activeLinkText.label "Besedilo aktivne povezave">
 <!ENTITY activeLinkText.accessKey "A">
 <!ENTITY visitedLinkText.label "Besedilo obiskane povezave">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY visitedLinkText.accessKey "O">
 <!ENTITY background.label "Ozadje:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "Z">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Slika za ozadje:">
 <!ENTITY backgroundImage.accessKey "s">

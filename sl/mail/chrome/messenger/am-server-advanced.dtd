@@ -1,31 +1,31 @@
-<!ENTITY serverAdvanced.label "Advanced Account Settings">
+<!ENTITY serverAdvanced.label "Napredne nastavitve računa">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "Show only subscribed folders">
+<!ENTITY serverDirectory.label "Imenik strežnika IMAP:">
+<!ENTITY serverDirectory.accesskey "p">
+<!ENTITY usingSubscription.label "Pokaži le naročene mape">
 <!ENTITY usingSubscription.accesskey "w">
-<!ENTITY dualUseFolders.label "Server supports folders that contain sub-folders and messages">
+<!ENTITY dualUseFolders.label "Strežnik podpira mape, ki vsebujejo podmape in sporočila">
 <!ENTITY dualUseFolders.accesskey "p">
-<!ENTITY useIdle.label "Use IDLE command if the server supports it">
+<!ENTITY useIdle.label "Uporabi ukaz IDLE, če ga strežnik podpira">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Maximum number of server connections to cache">
+<!ENTITY maximumConnectionsNumber.label "Največje število strežnikovih povezav v predpomnilniku">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
-<!ENTITY personalNamespace.label "Personal namespace:">
-<!ENTITY personalNamespace.accesskey "p">
-<!ENTITY publicNamespace.label "Public (shared):">
-<!ENTITY publicNamespace.accesskey "u">
-<!ENTITY otherUsersNamespace.label "Other Users:">
+<!ENTITY namespaceDesc.label "Te lastnosti določajo imenski prostor na vašem strežniku IMAP">
+<!ENTITY personalNamespace.label "Osebni imenski prostor:">
+<!ENTITY personalNamespace.accesskey "Z">
+<!ENTITY publicNamespace.label "Javno (v skupni rabi):">
+<!ENTITY publicNamespace.accesskey "o">
+<!ENTITY otherUsersNamespace.label "Ostali uporabniki:">
 <!ENTITY otherUsersNamespace.accesskey "O">
-<!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
-<!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "When downloading pop mail for this server, use the following folder for new mail:" >
-<!ENTITY globalInbox.label "Global Inbox (Local Folders Account)">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Inbox for this server's account">
+<!ENTITY overrideNamespaces.label "Omogoči strežniku, da razveljavi ta imenski prostor">
+<!ENTITY overrideNamespaces.accesskey "v">
+<!ENTITY pop3Desc.label "Pri prenosu pošte POP3 s tega strežnika za novo pošto uporabljaj naslednjo mapo:" >
+<!ENTITY globalInbox.label "Globalno Prejeto (račun Lokalne mape)">
+<!ENTITY globalInbox.accesskey "o">
+<!ENTITY accountDirectory.label "Prejeto za strežnikov račun">
 <!ENTITY accountDirectory.accesskey "S">
-<!ENTITY deferToServer.label "Inbox for different account">
+<!ENTITY deferToServer.label "Prejeto za drug račun">
 <!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "Include this server when getting new mail">
+<!ENTITY deferGetNewMail.label "Vključi ta strežnik pri prejemanju novih sporočil">
 <!ENTITY deferGetNewMail.accesskey "I">

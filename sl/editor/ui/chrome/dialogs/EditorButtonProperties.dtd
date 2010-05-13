@@ -39,21 +39,21 @@
 <!ENTITY Settings.label "Nastavitve">
 
 <!ENTITY ButtonType.label "Vrsta">
-<!ENTITY ButtonType.accesskey "T">
+<!ENTITY ButtonType.accesskey "V">
 <!ENTITY submit.value "Predloži">
-<!ENTITY reset.value "Reset">
+<!ENTITY reset.value "Ponastavi">
 <!ENTITY button.value "Gumb">
 
 <!ENTITY ButtonName.label "Ime:">
-<!ENTITY ButtonName.accesskey "N">
+<!ENTITY ButtonName.accesskey "I">
 <!ENTITY ButtonValue.label "Vrednost:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Indeks oznake:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "N">
 <!ENTITY ButtonDisabled.label "Onemogočeno">
-<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY ButtonDisabled.accesskey "M">
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveButton.label "Odstrani gumb">
-<!ENTITY RemoveButton.accesskey "D">
+<!ENTITY RemoveButton.accesskey "O">

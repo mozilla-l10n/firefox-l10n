@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!ENTITY renameFolderDialog.title          "Preimenovanje imenika">
 <!ENTITY rename.label                      "Vnesite novo ime za imenik:">
-<!ENTITY rename.accesskey                  "E">
+<!ENTITY rename.accesskey                  "e">

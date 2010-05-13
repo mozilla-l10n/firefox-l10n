@@ -36,18 +36,18 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY fieldMapImport.title "Uvoz adresarja">
-<!ENTITY fieldMapImport.size "širina: 40em; višina: 30em;">
+<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Uvoženi podatki za zapis: ">
-<!ENTITY fieldMapImport.next.label "Naslednji">
-<!ENTITY fieldMapImport.next.accesskey "N">
+<!ENTITY fieldMapImport.next.label "Naslednje">
+<!ENTITY fieldMapImport.next.accesskey "b">
 <!ENTITY fieldMapImport.previous.label "Prejšnje">
-<!ENTITY fieldMapImport.previous.accesskey "p">
-<!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import.">
+<!ENTITY fieldMapImport.previous.accesskey "Z">
+<!ENTITY fieldMapImport.text "Uporabite Premakni navzgor / navzdol in povežite polja adresarja na levi z ustreznimi podatki za uvoz na desni. Zbrišite kljuke pred elementi, ki jih ne želite uvoziti.">
 <!ENTITY fieldMapImport.up.label "Premakni gor">
 <!ENTITY fieldMapImport.up.accesskey "U">
 <!ENTITY fieldMapImport.down.label "Premakni dol">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Polja adresarja">
 <!ENTITY fieldMapImport.dataTitle "Zapis podatkov za uvoz">
-<!ENTITY fieldMapImport.skipFirstRecord.label "Prvi vnos vsebuje imena polj">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Prvi zapis vsebuje imena polj">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "D">

@@ -37,7 +37,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Izberite spremembe zaradi urejanja">
-<!ENTITY conflictWarning.label "To stran je nek drugi program spremenil, poleg tega pa spremembe v Skladatelju tudi še niso shranjene.. .">
-<!ENTITY conflictResolve.label "Odločite se, katero od inačic želite zadržati.">
+<!ENTITY conflictWarning.label "To stran je nek drugi program spremenil, poleg tega pa sprememb v Composerju še niste shranili.">
+<!ENTITY conflictResolve.label "Odločite se, katero od inačic želite zadržati:">
 <!ENTITY keepCurrentPageButton.label "Ohrani spremembe trenutne strani">
 <!ENTITY useOtherPageButton.label "Zamenjaj trenutno stran z drugimi spremembami">

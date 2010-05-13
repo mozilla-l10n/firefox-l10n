@@ -28,12 +28,12 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
+  <li>Check the file name for capitalisation or other typing errors.</li>
   <li>Check to see if the file was moved, renamed or deleted.</li>
 </ul>
 ">
 
-<!ENTITY generic.title "Ups.">
+<!ENTITY generic.title "Opla.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; can't load this page for some reason.</p>
 ">
@@ -162,9 +162,9 @@ be temporary, and you can try again later.</li>
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
 ">
 
-<!ENTITY securityOverride.linkText "Lahko pa dodate izjemo...">
-<!ENTITY securityOverride.getMeOutOfHereButton "Hočem proč od tod!">
-<!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">
+<!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
+<!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

@@ -14,7 +14,7 @@
    - The Original Code is calendar views.
    -
    - The Initial Developer of the Original Code is
-   - Oracle Corporation
+   - Oracle Corporation.
    - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
@@ -34,7 +34,7 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - and other provisions required by the LGPL or the GPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Dogodek …">
+<!ENTITY lightning.menupopup.new.event.accesskey "D">
 <!ENTITY lightning.menupopup.new.task.label     "Opravek …">
+<!ENTITY lightning.menupopup.new.task.accesskey "O">
 <!ENTITY lightning.menupopup.new.calendar.label "Koledar …">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Odpri">
@@ -61,13 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteka koledarja …">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "D">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Povabila">
-<!ENTITY lightning.sidebar.invitations.accesskey   "P">
-<!ENTITY lightning.calendar.label            "Koledar">
-<!ENTITY lightning.calendar.accesskey        "K">
-<!ENTITY lightning.tasks.label               "Opravki">
-<!ENTITY lightning.tasks.accesskey           "O">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Koledar">
+<!ENTITY lightning.menu.view.calendar.accesskey        "K">
+<!ENTITY lightning.menu.view.tasks.label               "Opravki">
+<!ENTITY lightning.menu.view.tasks.accesskey           "O">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Dogodki in opravki">
+<!ENTITY lightning.menu.eventtask.accesskey            "D">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Pošta">
@@ -77,15 +82,9 @@
 <!ENTITY lightning.toolbar.task.label         "Opravki">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Orodna vrstica:">
-<!ENTITY customize.toolbar.selector.mode     "Način">
-<!ENTITY customize.toolbar.selector.mail     "Pošta">
-<!ENTITY customize.toolbar.selector.calendar "Koledar">
-<!ENTITY customize.toolbar.selector.task     "Opravek">
-<!ENTITY customize.toolbar.location.label    "Položaj:">
-<!ENTITY customize.toolbar.location.top      "na vrhu">
-<!ENTITY customize.toolbar.location.bottom   "na dnu">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Dogodek">
+<!ENTITY lightning.toolbar.newtask.label      "Opravek">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dan">
@@ -121,3 +120,4 @@
 <!ENTITY todaypane.showNone.accesskey "n">
 <!ENTITY todaypane.showTodayPane.label "Pokaži današnji dan">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Današnji dan">

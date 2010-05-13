@@ -41,13 +41,13 @@
 <!ENTITY wordEditField.label "Nova beseda:">
 <!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "Dodaj">
-<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.accessKey "D">
 <!ENTITY DictionaryList.label "Besede v slovarju:">
-<!ENTITY DictionaryList.accessKey "t">
+<!ENTITY DictionaryList.accessKey "B">
 <!ENTITY ReplaceButton.label "Zamenjaj">
-<!ENTITY ReplaceButton.accessKey "D">
+<!ENTITY ReplaceButton.accessKey "Z">
 <!ENTITY RemoveButton.label "Odstrani">
-<!ENTITY RemoveButton.accessKey "i">
+<!ENTITY RemoveButton.accessKey "O">
 
 <!ENTITY CloseButton.label "Zapri">
-<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.accessKey "z">

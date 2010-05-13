@@ -45,34 +45,34 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Datoteka">
-<!ENTITY mapfileMenu.accesskey "p">
+<!ENTITY mapfileMenu.accesskey "D">
 <!ENTITY clearCmd.label "Pobriši">
-<!ENTITY clearCmd.accesskey "a">
+<!ENTITY clearCmd.accesskey "P">
 <!ENTITY closeCmd.label "Zapri">
-<!ENTITY closeCmd.accesskey "u">
+<!ENTITY closeCmd.accesskey "Z">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Urejaj">
-<!ENTITY mapeditMenu.accesskey "i">
+<!ENTITY mapeditMenu.label "Urejanje">
+<!ENTITY mapeditMenu.accesskey "U">
 <!ENTITY cutCmd.label "Izreži">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "I">
 <!ENTITY copyCmd.label "Kopiraj">
-<!ENTITY copyCmd.accesskey "u">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Prilepi">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectallCmd.label "Izberi vse">
-<!ENTITY selectallCmd.accesskey "s">
+<!ENTITY selectallCmd.accesskey "V">
 <!ENTITY propsCmd.label "Lastnosti vroče točke">
-<!ENTITY propsCmd.accesskey "h">
+<!ENTITY propsCmd.accesskey "L">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "Pokaži">
+<!ENTITY mapviewMenu.label "Pogled">
 <!ENTITY mapviewMenu.accesskey "p">
 <!ENTITY showhideTbarCmd.label "Skrij orodno vrstico">
-<!ENTITY showhideTbarCmd.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "S">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Merilo">
-<!ENTITY mapviewScale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "M">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
@@ -84,11 +84,11 @@
 <!ENTITY zoomoutCmd.label "Pomanjšaj">
 
 <!-- Keys -->
-<!ENTITY clear.key "d">
+<!ENTITY clear.key "p">
 <!ENTITY selectall.key "a">
-<!ENTITY close.key "l">
+<!ENTITY close.key "s">
 <!ENTITY cut.key "x">
 <!ENTITY copy.key "u">
 <!ENTITY paste.key "p">
-<!ENTITY props.key "p">
-<!ENTITY tbar.key "t">
+<!ENTITY props.key "V">
+<!ENTITY tbar.key "n">

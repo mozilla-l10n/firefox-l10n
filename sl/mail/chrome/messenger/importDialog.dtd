@@ -37,51 +37,51 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
--->
+--> 
 
 <!ENTITY importDialog.windowTitle "Uvozi">
 <!ENTITY importAll.label          "Uvozi vse">
-<!ENTITY importAll.accesskey      "E">
+<!ENTITY importAll.accesskey      "U">
 <!ENTITY importMail.label         "Pošta">
-<!ENTITY importMail.accesskey     "M">
+<!ENTITY importMail.accesskey     "P">
 <!ENTITY importAddressbook.label  "Adresarji">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Nastavitve">
-<!ENTITY importSettings.accesskey "S">
+<!ENTITY importSettings.accesskey "N">
 <!ENTITY importFilters.label      "Filtri">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "Čarovnik za uvoz &brandShortName;">
+<!ENTITY importTitle.label        "&brandShortName; Čarovnik za uvoz">
 <!ENTITY importShortDesc.label    "Uvoz pošte, adresarjev, nastavitev in filtrov iz drugih programov">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "S tem čarovnikom boste uvozili poštna sporočila, stike v adresarju, nastavitve in/ali filtre iz drugih programov in pogostih formatov adresarjev v &brandShortName;.">
+<!ENTITY importDescription2.label "Ko jih boste enkrat uvozili, jih boste lahko uporabljali kar v &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
-<!ENTITY selectDescription.accesskey "p">
+<!ENTITY selectDescription.label  "Izberite vrsto datoteke, ki jo želite uvoziti:">
+<!ENTITY selectDescription.accesskey "Z">
 
 <!ENTITY back.label               "&lt; nazaj">
-<!ENTITY forward.label            "Next &gt;">
-<!ENTITY finish.label             "Finish">
+<!ENTITY forward.label            "Naprej &gt;">
+<!ENTITY finish.label             "Dokončaj">
 <!ENTITY cancel.label             "Prekliči">
 
-<!ENTITY select.label             "or select the type of material to import:">
+<!ENTITY select.label             "ali izberite vrsto podatkov, ki jih želite uvoziti:">
 
 <!ENTITY title.label              "Naslov">
-<!ENTITY processing.label         "Uvoz ...">
+<!ENTITY processing.label         "Uvažanje…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x has one mailing address for each card, while &brandShortName; has two (Home and Work).">
-<!ENTITY FieldDiscInputText2.label  "Select the category in which you want to store the imported mailing addresses:">
-<!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
-<!ENTITY importHome.label        "Domov">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Delo">
-<!ENTITY importWork.accesskey    "t">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ima en e-poštni naslov za vsako vizitko, medtem ko ima &brandShortName; dva (domači ni službeni).">
+<!ENTITY FieldDiscInputText2.label  "Izberite kategorijo v katero želite shraniti uvožene e-poštne naslove:">
+<!ENTITY FieldDiscWarning.label  "Ta kategorija bo uporabljena za vse vnose v izbranem adresarju: ">
+<!ENTITY importHome.label        "Doma">
+<!ENTITY importHome.accesskey    "D">
+<!ENTITY importWork.label        "Služba">
+<!ENTITY importWork.accesskey    "S">

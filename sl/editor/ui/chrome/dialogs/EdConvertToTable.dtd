@@ -38,11 +38,11 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Spremeni v tabelo">
-<!ENTITY instructions1.label   "Skladatelj ustvari novo vrsto v tabeli za vsak odstavek v izboru.">
+<!ENTITY instructions1.label   "Composer ustvari novo vrsto v tabeli za vsak odstavek v izboru.">
 <!ENTITY instructions2.label   "Izberite znak, ki je bil uporabljen za razmejitev selekcije v stolpce:">
 <!ENTITY commaRadio.label      "Vejica">
 <!ENTITY spaceRadio.label      "Razmik">
 <!ENTITY otherRadio.label      "Drug znak:">
 <!ENTITY deleteCharCheck.label "Zbriši razmejitveni znak">
-<!ENTITY collapseSpaces.label  "Spreglej dodatne presledke">
-<!ENTITY collapseSpaces.tooltip "Spremeni stikajoče se presledke v en separator">
+<!ENTITY collapseSpaces.label  "Prezri dodatne presledke">
+<!ENTITY collapseSpaces.tooltip "Pretvori sosednje presledke v eno samo ločilo">

@@ -44,16 +44,16 @@
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Mesto slike:">
-<!ENTITY locationEditField.accessKey "L ">
+<!ENTITY locationEditField.accessKey "m">
 <!ENTITY locationEditField.tooltip "Vnesite ime datoteke ali lokacijo za sliko">
 <!ENTITY title.label "Nasvet:">
-<!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "Prilastek html 'title', ki se ga prikazje kot nasvet">
+<!ENTITY title.accessKey "N">
+<!ENTITY title.tooltip "Prilastek html 'title', ki se ga prikazuje kot nasvet">
 <!ENTITY altText.label "Nadomestno besedilo:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.accessKey "N">
 <!ENTITY altTextEditField.tooltip "Vnesite besedilo, ki se ga bo kazalo namesto slike">
 <!ENTITY noAltText.label "Ne uporabljaj nadomestnega besedila">
-<!ENTITY noAltText.accessKey "D">
+<!ENTITY noAltText.accessKey "N">
 
 <!ENTITY previewBox.label "Predogled slike">
 
@@ -61,46 +61,46 @@
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Dejanska velikost:">
 <!ENTITY actualSizeRadio.label "Dejanska velikost">
-<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.accessKey "D">
 <!ENTITY actualSizeRadio.tooltip "Povrni na dejansko velikost slike">
-<!ENTITY customSizeRadio.label "Posebna velikost">
-<!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Spremeni velikost slike, kot se jo kaže na strani">
+<!ENTITY customSizeRadio.label "Velikost po meri">
+<!ENTITY customSizeRadio.accessKey "M">
+<!ENTITY customSizeRadio.tooltip "Spremeni velikost slike na velikost prikaza na strani">
 <!ENTITY heightEditField.label "Višina:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "V">
 <!ENTITY widthEditField.label "Dolžina:">
-<!ENTITY widthEditField.accessKey "t">
+<!ENTITY widthEditField.accessKey "D">
 <!ENTITY constrainCheckbox.label "Stisni">
-<!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.tooltip "Ohrani razmerje koordinat slike">
+<!ENTITY constrainCheckbox.accessKey "S">
+<!ENTITY constrainCheckbox.tooltip "> Ohrani razmerje med dimenzijami slike">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Zemljevid slik">
 <!ENTITY removeImageMapButton.label "Odstrani">
-<!ENTITY removeImageMapButton.accessKey "D">
-<!ENTITY editImageMapButton.label "Urejaj ...">
+<!ENTITY removeImageMapButton.accessKey "O">
+<!ENTITY editImageMapButton.label "Urejaj…">
 <!ENTITY editImageMapButton.tooltip "Ustvari v tej sliki vroče točke za klikanje">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Poravnaj besedilo na sliko">
 <!ENTITY bottomPopup.value "Na dnu">
 <!ENTITY topPopup.value "Na vrhu">
-<!ENTITY centerPopup.value "Na sredi">
+<!ENTITY centerPopup.value "Na sredini">
 <!ENTITY wrapRightPopup.value "Oblij na desno">
 <!ENTITY wrapLeftPopup.value "Oblij na levo">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Razmik">
 <!ENTITY leftRightEditField.label "Levo in desno:">
-<!ENTITY leftRightEditField.accessKey "L ">
+<!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Zgoraj in spodaj:">
-<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY topBottomEditField.accessKey "Z">
 <!ENTITY borderEditField.label "Neprekinjen rob:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.accessKey "N">
 
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Pokaži rob okoli povezane strani">
-<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY showImageLinkBorder.accessKey "P">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Obrazec">

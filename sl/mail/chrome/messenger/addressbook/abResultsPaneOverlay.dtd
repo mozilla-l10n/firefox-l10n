@@ -35,34 +35,34 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY GeneratedName.label                   "Ime">
-<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY GeneratedName.accesskey               "I">
 <!ENTITY PrimaryEmail.label                    "E-pošta">
-<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY PrimaryEmail.accesskey                "e">
 <!ENTITY Company.label                         "Organizacija">
-<!ENTITY Company.accesskey                     "z">
+<!ENTITY Company.accesskey                     "O">
 <!ENTITY _PhoneticName.label                   "Fonetično ime">
-<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY _PhoneticName.accesskey               "F">
 <!ENTITY NickName.label                        "Vzdevek">
-<!ENTITY NickName.accesskey                    "L">
+<!ENTITY NickName.accesskey                    "V">
 <!ENTITY SecondEmail.label                     "Dodatna e-pošta">
-<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY SecondEmail.accesskey                 "D">
 <!ENTITY Department.label                      "Oddelek">
-<!ENTITY Department.accesskey                  "r">
+<!ENTITY Department.accesskey                  "O">
 <!ENTITY JobTitle.label                        "Naslov">
-<!ENTITY JobTitle.accesskey                    "T">
-<!ENTITY CellularNumber.label                  "Mobi ">
+<!ENTITY JobTitle.accesskey                    "N">
+<!ENTITY CellularNumber.label                  "Mobilnik">
 <!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Pozivnik">
-<!ENTITY PagerNumber.accesskey                 "p">
+<!ENTITY PagerNumber.accesskey                 "Z">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Telefon doma">
-<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY HomePhone.accesskey                   "D">
 <!ENTITY WorkPhone.label                       "Telefon v službi">
-<!ENTITY WorkPhone.accesskey                   "t">
-<!ENTITY ScreenName.label                      "Ime zaslona">
+<!ENTITY WorkPhone.accesskey                   "S">
+<!ENTITY ScreenName.label                      "Ime strani">
 <!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY sortAscending.label                   "Naraščajoče">
-<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Padajoče">
-<!ENTITY sortDescending.accesskey              "D">
+<!ENTITY sortDescending.accesskey              "P">

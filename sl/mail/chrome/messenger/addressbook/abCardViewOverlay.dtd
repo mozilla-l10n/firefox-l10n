@@ -40,7 +40,7 @@
 <!ENTITY home.heading                "Domov">
 <!ENTITY other.heading               "Drugo">
 <!ENTITY phone.heading               "Telefon">
-<!ENTITY work.heading                "Delo">
+<!ENTITY work.heading                "Služba">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading         "Opis">
 <!ENTITY addresses.heading           "Naslovi">

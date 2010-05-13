@@ -1,6 +1,6 @@
 <!ENTITY junkLog.title "Dnevnik neželene pošte">
 <!ENTITY junkLogInfo.label "Dnevnik zaznavanja neželene pošte.">
-<!ENTITY clearLog.label "Počisti zapisnik">
-<!ENTITY clearLog.accesskey "C">
+<!ENTITY clearLog.label "Počisti dnevnik">
+<!ENTITY clearLog.accesskey "z">
 <!ENTITY closeLog.label "Zapri">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY closeLog.accesskey "O">

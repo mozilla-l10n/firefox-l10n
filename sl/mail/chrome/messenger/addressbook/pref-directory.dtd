@@ -41,10 +41,10 @@
 <!ENTITY directories.label         "Imeniški strežnik LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "Izberi imeniški strežnik LDAP:">
-<!ENTITY directoriesText.accesskey "S">
+<!ENTITY directoriesText.accesskey "I">
 <!ENTITY addDirectory.label        "Dodaj">
-<!ENTITY addDirectory.accesskey    "a">
-<!ENTITY editDirectory.label       "Urejaj">
-<!ENTITY editDirectory.accesskey   "i">
-<!ENTITY deleteDirectory.label     "Izbriši">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY addDirectory.accesskey    "U">
+<!ENTITY editDirectory.label       "Urejanje">
+<!ENTITY editDirectory.accesskey   "U">
+<!ENTITY deleteDirectory.label     "Zbriši">
+<!ENTITY deleteDirectory.accesskey "Z">

@@ -36,7 +36,7 @@
 
 <!ENTITY pref.toolbars.title    "Orodne vrstice">
 
-<!ENTITY composition.caption    "Pokaži te gumbe v orodni vrstici za sestavke">
+<!ENTITY composition.caption    "Pokaži te gumbe v orodni vrstici za sestavke:">
 
 <!ENTITY new.label              "Novo">
 <!ENTITY open.label             "Odpri">
@@ -46,7 +46,7 @@
 <!ENTITY cut.label              "Izreži">
 <!ENTITY copy.label             "Kopiraj">
 <!ENTITY paste.label            "Prilepi">
-<!ENTITY print.label            "Natisni ">
+<!ENTITY print.label            "Natisni">
 <!ENTITY find.label             "Poišči">
 <!ENTITY image.label            "Slika">
 <!ENTITY hline.label            "H. Črta">
@@ -54,7 +54,7 @@
 <!ENTITY link.label             "Povezava">
 <!ENTITY anchor.label           "Sidro">
 
-<!ENTITY formatting.caption     "Pokaži te gumbe v orodni vrstici za oblikovanje">
+<!ENTITY formatting.caption     "Pokaži te gumbe v orodni vrstici za oblikovanje:">
 
 <!ENTITY smaller.label          "Manjša">
 <!ENTITY larger.label           "Večja">

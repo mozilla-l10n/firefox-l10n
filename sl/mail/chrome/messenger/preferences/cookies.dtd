@@ -1,12 +1,12 @@
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "Naslednji piškoti so shranjeni na vašem računalniku:">
-<!ENTITY cookiename.label                  "Ime">
+<!ENTITY cookiesonsystem.label             "Naslednji piškotki so shranjeni na vašem računalniku:">
+<!ENTITY cookiename.label                  "Ime piškotka">
 <!ENTITY cookiedomain.label                "Stran">
-<!ENTITY button.removecookie.label         "Odstrani piškot">
-<!ENTITY button.removecookie.accesskey     "D">
-<!ENTITY button.removeallcookies.label     "Odstrani vse piškote">
-<!ENTITY button.removeallcookies.accesskey "A">
+<!ENTITY button.removecookie.label         "Odstrani piškotek">
+<!ENTITY button.removecookie.accesskey     "e">
+<!ENTITY button.removeallcookies.label     "Odstrani vse piškotke">
+<!ENTITY button.removeallcookies.accesskey "v">
 
 <!ENTITY props.name.label                  "Ime:">
 <!ENTITY props.value.label                 "Vsebina:">
@@ -15,7 +15,7 @@
 <!ENTITY props.secure.label                "Pošlji za:">
 <!ENTITY props.expires.label               "Preteče:">
 
-<!ENTITY window.title                      "Piškoti">
+<!ENTITY window.title                      "Piškotki">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "p">
 <!ENTITY focusSearch2.key                  "k">
@@ -24,5 +24,4 @@
 <!ENTITY filter.accesskey                  "S">
 
 <!ENTITY button.close.label                "Zapri">
-<!ENTITY button.close.accesskey            "C">
-
+<!ENTITY button.close.accesskey            "z">

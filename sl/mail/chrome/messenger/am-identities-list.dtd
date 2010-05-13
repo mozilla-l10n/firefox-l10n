@@ -1,7 +1,7 @@
 <!ENTITY identitiesListDesc.label "Podpora za večkratne identitete">
-<!ENTITY identitiesListAdd.label  "Dodaj...">
-<!ENTITY identitiesListAdd.accesskey  "A">
-<!ENTITY identitiesListEdit.label "Urejaj ...">
-<!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDelete.label "Izbriši">
+<!ENTITY identitiesListAdd.label  "Dodaj…">
+<!ENTITY identitiesListAdd.accesskey  "v">
+<!ENTITY identitiesListEdit.label "Urejaj…">
+<!ENTITY identitiesListEdit.accesskey "e">
+<!ENTITY identitiesListDelete.label "Zbriši">
 <!ENTITY identitiesListDelete.accesskey "D">

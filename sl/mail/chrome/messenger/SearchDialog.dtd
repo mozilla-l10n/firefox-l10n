@@ -1,39 +1,39 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Search for messages in:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "Search subfolders">
-<!ENTITY searchSubfolders.accesskey  "i">
-<!ENTITY searchOnServer.label        "Run search on server">
-<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY searchHeading.label         "Išči po sporočilih v:">
+<!ENTITY searchHeading.accesskey     "d">
+<!ENTITY searchSubfolders.label      "Išči po podmapah">
+<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY searchOnServer.label        "Sproži iskanje na strežniku">
+<!ENTITY searchOnServer.accesskey    "o">
 <!ENTITY resetButton.label           "Pobriši">
-<!ENTITY resetButton.accesskey       "C">
+<!ENTITY resetButton.accesskey       "z">
 <!ENTITY openButton.label            "Odpri">
-<!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "Izbriši">
+<!ENTITY openButton.accesskey        "o">
+<!ENTITY deleteButton.label          "Zbriši">
 <!ENTITY deleteButton.accesskey      "D">
-<!ENTITY searchDialogTitle.label     "Search Messages">
-<!ENTITY results.label               "Results">
-<!ENTITY fileHereMenu.label          "File Here">
-<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY searchDialogTitle.label     "Išči po sporočilih">
+<!ENTITY results.label               "Rezultati">
+<!ENTITY fileHereMenu.label          "Uvrsti sem">
+<!ENTITY fileHereMenu.accesskey      "D">
 <!ENTITY fileButton.label            "Datoteka">
 <!ENTITY fileButton.accesskey        "L">
-<!ENTITY closeCmd.key                "t"> 
-<!ENTITY openInFolder.label          "Open in Folder">
-<!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label        "Save as Search Folder">
-<!ENTITY saveAsVFButton.accesskey    "p">
+<!ENTITY closeCmd.key                "L"> 
+<!ENTITY openInFolder.label          "Odpri v mapi">
+<!ENTITY openInFolder.accesskey      "b">
+<!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">
+<!ENTITY saveAsVFButton.accesskey    "a">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Search in:">
-<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY abSearchHeading.label       "Išči po:">
+<!ENTITY abSearchHeading.accesskey   "d">
 <!ENTITY propertiesButton.label      "Lastnosti">
-<!ENTITY propertiesButton.accesskey  "p">
-<!ENTITY composeButton.label         "Piši">
-<!ENTITY composeButton.accesskey     "t">
-<!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
+<!ENTITY propertiesButton.accesskey  "Z">
+<!ENTITY composeButton.label         "Sestavi">
+<!ENTITY composeButton.accesskey     "L">
+<!ENTITY abSearchDialogTitle.label   "Napredno iskanje v adresarju">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Thread">
+<!ENTITY threadColumn.label "Nit">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Prejemnik">
 <!ENTITY subjectColumn.label "Zadeva">
@@ -43,32 +43,32 @@
 <!ENTITY accountColumn.label "Račun">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Velikost">
-<!ENTITY junkStatusColumn.label "Status za neresno">
+<!ENTITY junkStatusColumn.label "Status za neželeno">
 <!ENTITY unreadColumn.label "Neprebrano">
 <!ENTITY totalColumn.label "Skupaj">
 <!ENTITY readColumn.label "Prebrano">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.label "Prejeto">
 <!ENTITY starredColumn.label "Označeno z zvezdico">
 <!ENTITY locationColumn.label "Kraj">
-<!ENTITY idColumn.label "Order Received">
+<!ENTITY idColumn.label "Čas prejema">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Click to select columns to display">
-<!ENTITY threadColumn.tooltip "Click to display message threads"> 
-<!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY recipientColumn.tooltip "Click to sort by recipient">
-<!ENTITY subjectColumn.tooltip "Click to sort by subject">
-<!ENTITY dateColumn.tooltip "Click to sort by date">
-<!ENTITY priorityColumn.tooltip "Click to sort by priority">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
-<!ENTITY accountColumn.tooltip "Click to sort by account">
-<!ENTITY statusColumn.tooltip "Click to sort by status">
-<!ENTITY sizeColumn.tooltip "Kliknite za razvrstitev po velikosti ">
-<!ENTITY junkStatusColumn.tooltip "Click to sort by junk status">
-<!ENTITY unreadColumn.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn.tooltip "Total number of messages in thread">
-<!ENTITY readColumn.tooltip "Click to sort by read">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
-<!ENTITY locationColumn.tooltip "Click to sort by location">
-<!ENTITY idColumn.tooltip "Click to sort by order received">
+<!ENTITY columnChooser.tooltip "S klikom izberite stolpce, ki jih želite prikazati">
+<!ENTITY threadColumn.tooltip "Kliknite za prikaz niti sporočil"> 
+<!ENTITY fromColumn.tooltip "Kliknite za razvrščanje po Od">
+<!ENTITY recipientColumn.tooltip "Kliknite za razvrščanje po prejemniku">
+<!ENTITY subjectColumn.tooltip "Kliknite za razvrščanje po zadevi">
+<!ENTITY dateColumn.tooltip "Kliknite za razvrščanje po datumu">
+<!ENTITY priorityColumn.tooltip "Kliknite za razvrščanje po prioriteti">
+<!ENTITY tagsColumn.tooltip "Kliknite za razvrščanje po oznakah">
+<!ENTITY accountColumn.tooltip "Kliknite za razvrščanje po računu">
+<!ENTITY statusColumn.tooltip "Kliknite za razvrščanje po statusu">
+<!ENTITY sizeColumn.tooltip "Kliknite za razvrstitev po velikosti">
+<!ENTITY junkStatusColumn.tooltip "Kliknite za razvrščanje glede na želeno/neželeno">
+<!ENTITY unreadColumn.tooltip "Število neprebranih sporočil v niti">
+<!ENTITY totalColumn.tooltip "Skupno število sporočil v niti">
+<!ENTITY readColumn.tooltip "Kliknite za razvrščanje po prebrano/neprebrano">
+<!ENTITY receivedColumn.tooltip "Kliknite za razvrstitev po datumu prejema">
+<!ENTITY starredColumn.tooltip "Kliknite za razvrščanje glede na zvezdico">
+<!ENTITY locationColumn.tooltip "Kliknite za razvrščanje po mestu">
+<!ENTITY idColumn.tooltip "Kliknite za razvrščanje po času prejema">

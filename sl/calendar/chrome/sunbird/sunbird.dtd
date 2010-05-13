@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip                 "Izberite datum, na katerega želite skočiti" >
+<!ENTITY sunbird.cut.button.tooltip                        "Izreži" >
+<!ENTITY sunbird.copy.button.tooltip                       "Kopiraj" >
+<!ENTITY sunbird.paste.button.tooltip                      "Prilepi" >
+<!ENTITY sunbird.print.button.tooltip                      "Natisni koledar" >
+<!ENTITY sunbird.delete.button.tooltip                     "Izbriši izbrani dogodek" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Ponovno naloži vse oddaljene koledarje" >
+<!ENTITY sunbird.import.button.tooltip                     "Uvozi dogodke iz krajevne datoteke" >
+<!ENTITY sunbird.export.button.tooltip                     "Izvozi dogodke v krajevno datoteko" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Naroči se na koledar na oddaljenem računalniku" >
+<!ENTITY sunbird.publish.button.tooltip                    "Objavi dogodke na oddaljenem računalniku" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Najdi in pokaži dogodke" >
+<!ENTITY sunbird.edit.button.tooltip                       "Uredi izbrani dogodek" >
+
+<!ENTITY sunbird.choosedate.button.label                   "Izberite datum" >
+<!ENTITY sunbird.cut.button.label                          "Izreži" >
+<!ENTITY sunbird.copy.button.label                         "Kopiraj" >
+<!ENTITY sunbird.paste.button.label                        "Prilepi" >
+<!ENTITY sunbird.delete.button.label                       "Izbriši" >
+<!ENTITY sunbird.remotereload.button.label                 "Ponovno naloži" >
+<!ENTITY sunbird.import.button.label                       "Uvozi" >
+<!ENTITY sunbird.export.button.label                       "Izvozi" >
+<!ENTITY sunbird.subscribe.button.label                    "Naroči" >
+<!ENTITY sunbird.publish.button.label                      "Objavi" >
+<!ENTITY sunbird.unifinder.button.label                    "Najdi dogodke" >
+<!ENTITY sunbird.edit.button.label                         "Uredi" >
+
+<!ENTITY sunbird.flat.topbar.choosedate                    "Pojdi na datum" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Dnevni pogled" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Tedenski pogled" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Mesečni pogled" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Večtedenski pogled" >
+
+<!ENTITY sunbird.dayview.accesskey                         "D" >
+<!ENTITY sunbird.weekview.accesskey                        "T" >
+<!ENTITY sunbird.monthview.accesskey                       "M" >
+<!ENTITY sunbird.multiweekview.accesskey                   "č" >
+
+
+<!ENTITY sunbird.calendartab.label                         "Datum">
+<!ENTITY sunbird.listofcalendarstab.label                  "Koledarji">
+
+<!ENTITY sunbird.find.key                                  "F">
+<!ENTITY sunbird.close.key                                 "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label                  "Število tednov" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "Š" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 teden" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 tedna" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 tedni" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 tedni" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 tednov" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 tednov" >
+
+<!-- customizable toolbars -->
+<!ENTITY sunbird.context.customize.label                   "Prilagodi …">
+<!ENTITY sunbird.context.customize.accesskey               "P">
+<!ENTITY sunbird.menu.customize.label                      "Prilagodi orodno vrstico …">
+<!ENTITY sunbird.menu.customize.accesskey                  "P">
+<!ENTITY sunbird.maintoolbar.name                          "Glavna orodna vrstica">
+<!ENTITY sunbird.maintoolbar.accesskey                     "G">
+
+<!-- Sunbird Help -->
+<!ENTITY sunbird.help.label                                "Vsebina pomoči">
+<!ENTITY sunbird.help.accesskey                            "s">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title                                  "&brandFullName;">

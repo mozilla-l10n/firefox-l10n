@@ -2,6 +2,6 @@
 
 <!ENTITY mailViewSetupTitle.label "Nastavitve pogledov sporočil">
 <!ENTITY mailViewHeading.label "Ime pogleda sporočil:">
-<!ENTITY mailViewHeading.accesskey "i">
+<!ENTITY mailViewHeading.accesskey "s">
 <!ENTITY searchTermCaption.label "Ko je izbran ta pogled, prikaži le sporočila, ki:">
 

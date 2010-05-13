@@ -35,11 +35,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-   
+
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Nova mapa">
 <!ENTITY name.label                 "Ime:">
-<!ENTITY name.accesskey             "n">
+<!ENTITY name.accesskey             "o">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
 <!ENTITY description.accesskey      "u">
 <!ENTITY folderRestriction1.label   "Ta strežnik razdeli imenike na dve posebni vrsti.">

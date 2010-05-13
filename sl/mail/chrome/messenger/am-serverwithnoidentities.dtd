@@ -1,11 +1,11 @@
 <!ENTITY accountTitle.label "Nastavitve računa">
-<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
+<!ENTITY accountSettingsDesc.label "Naslednji račun je posebne vrste.  Z njim ni povezana nobena identiteta.">
 <!ENTITY accountName.label "Ime računa:">
-<!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Message Storage">
-<!ENTITY emptyTrashOnExit.label "Empty Trash on Exit">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "Local directory:">
-<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY accountName.accesskey "I">
+<!ENTITY messageStorage.label "Hranjenje sporočil">
+<!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni Koš">
+<!ENTITY emptyTrashOnExit.accesskey "O">
+<!ENTITY localPath.label "Lokalni imenik:">
+<!ENTITY localFolderPicker.label "Izberi lokalni imenik">
 <!ENTITY browseFolder.label "Brskaj…">
 <!ENTITY browseFolder.accesskey "B">

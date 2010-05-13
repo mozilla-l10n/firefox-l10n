@@ -1,29 +1,29 @@
-<!ENTITY window.title "Message Filters">
-<!ENTITY nameColumn.label "Filter Name">
+<!ENTITY window.title "Filtri sporočil">
+<!ENTITY nameColumn.label "Ime filtra">
 <!ENTITY activeColumn.label "Omogočeno">
-<!ENTITY newButton.label "New…">
-<!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Urejaj ...">
-<!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "Izbriši">
-<!ENTITY deleteButton.accesskey "t">
+<!ENTITY newButton.label "Nov…">
+<!ENTITY newButton.accesskey "b">
+<!ENTITY editButton.label "Urejaj…">
+<!ENTITY editButton.accesskey "e">
+<!ENTITY deleteButton.label "Zbriši">
+<!ENTITY deleteButton.accesskey "n">
 <!ENTITY reorderUpButton.label "Premakni gor">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "Premakni dol">
 <!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY filterHeader.label "Enabled filters are run automatically in the order shown below.">
-<!ENTITY filtersForPrefix.label "Filters for:">
-<!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Zapisnik filtrov">
-<!ENTITY viewLogButton.accesskey "L ">
-<!ENTITY runFilters.label "Run Now">
-<!ENTITY runFilters.accesskey "D">
-<!ENTITY stopFilters.label "Stop ">
+<!ENTITY filterHeader.label "Omogočeni filtri se samodejno zaženejo po spodnjem vrstnem redu.">
+<!ENTITY filtersForPrefix.label "Filtri za:">
+<!ENTITY filtersForPrefix.accesskey "D">
+<!ENTITY viewLogButton.label "Dnevnik filtrov">
+<!ENTITY viewLogButton.accesskey "m">
+<!ENTITY runFilters.label "Zaženi zdaj">
+<!ENTITY runFilters.accesskey "e">
+<!ENTITY stopFilters.label "Ustavi">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Run selected filter(s) on:">
+<!ENTITY folderPickerPrefix.label "Zaženi izbrane filtre na:">
 <!ENTITY folderPickerPrefix.accesskey "u">
 <!ENTITY choosethis.label "izberi to mapo">
-<!ENTITY choosethisnewsserver.label "choose this news server">
+<!ENTITY choosethisnewsserver.label "izberi ta strežnik za novice">
 <!ENTITY helpButton.label "Pomoč">
-<!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "t"> 
+<!ENTITY helpButton.accesskey "D">
+<!ENTITY closeCmd.key "L"> 

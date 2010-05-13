@@ -1,18 +1,18 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Naročnine na spletne vire">
-<!ENTITY subscriptionDesc.label "Opomba: če mapo za spletne vire odstranite ali spremenite,  na  že prenesle članke ne bo imelo nobenega vpliva.">
+<!ENTITY subscriptionDesc.label "Opomba: če mapo za spletne vire odstranite ali spremenite, na že prenesle članke ne bo imelo nobenega vpliva.">
 <!ENTITY feedTitle.label "Naslov:">
 <!ENTITY location.label  "Kje:">
 
 <!ENTITY button.addFeed.label       "Dodaj">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Urejaj">
-<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.addFeed.accesskey   "D">
+<!ENTITY button.editFeed.label      "Urejanje">
+<!ENTITY button.editFeed.accesskey  "U">
 <!ENTITY button.removeFeed.label "Odstrani">
 <!ENTITY button.removeFeed.accesskey   "D">
 <!ENTITY button.importOPML.label "Uvozi">
-<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.importOPML.accesskey   "V">
 <!ENTITY button.exportOPML.label "Izvozi">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.exportOPML.accesskey   "Z">
 
 <!ENTITY cmd.close.commandKey             "w">

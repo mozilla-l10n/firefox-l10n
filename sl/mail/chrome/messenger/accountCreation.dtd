@@ -1,15 +1,15 @@
 <!ENTITY autoconfigWizard.title          "Nastavitev poštnega računa">
 <!ENTITY name.label                      "Vaše ime:">
-<!ENTITY name.accesskey                  "n">
+<!ENTITY name.accesskey                  "o">
 <!ENTITY name.emptytext                  "Ime Priimek">
 <!ENTITY name.text                       "Vaše ime, kot ga uporabljate za druge">
 <!ENTITY email.label                     "E-poštni naslov:">
-<!ENTITY email.accesskey                 "l">
+<!ENTITY email.accesskey                 "s">
 <!ENTITY email.emptytext                 "email@naprimer.com">
 <!ENTITY password.label                  "Geslo:">
-<!ENTITY password.accesskey              "p">
+<!ENTITY password.accesskey              "Z">
 <!ENTITY password.emptytext              "Geslo">
-<!ENTITY password.text                   "Po želji, se bo rabilo samo za potrditev vašega uporabniškega imena">
+<!ENTITY password.text                   "Po želji, rabilo se bo samo za potrditev vašega uporabniškega imena">
 
 <!ENTITY accountInformation.label        "Podatki za račun">
 <!ENTITY username2.label                 "Uporabniško ime:">
@@ -28,18 +28,18 @@
 <!ENTITY cancel.label                    "Prekliči">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Nadaljuj">
-<!ENTITY continue.accesskey              "C">
+<!ENTITY continue.accesskey              "z">
 <!ENTITY startOver.label                 "Začni znova">
-<!ENTITY startOver.accesskey             "o">
-<!ENTITY stop.label                      "Stop ">
+<!ENTITY startOver.accesskey             "O">
+<!ENTITY stop.label                      "Ustavi">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
 <!ENTITY retest.label                    "Ponovno preveri konfiguracijo">
-<!ENTITY retest.accesskey                "D">
-<!ENTITY edit.label                      "Urejaj">
-<!ENTITY edit.accesskey                  "E">
+<!ENTITY retest.accesskey                "e">
+<!ENTITY edit.label                      "Urejanje">
+<!ENTITY edit.accesskey                  "e">
 
 <!ENTITY rememberPassword.label          "Zapomni si geslo">
 <!ENTITY rememberPassword.accesskey      "s">
@@ -52,12 +52,12 @@
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Razumem tveganja.">
-<!ENTITY confirmWarning.accesskey        "u">
+<!ENTITY confirmWarning.accesskey        "o">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY createAccount.label             "Ustvari račun">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY createAccount.accesskey         "z">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
@@ -65,11 +65,11 @@
 <!ENTITY changeSettings.label            "Spremeni nastavitve">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Glejte pogostna vprašanja o Thunderbirdu, če potrebujete še več informacij. ">
+<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Oglejte si pogostna vprašanja o Thunderbirdu, če potrebujete dodatne informacije.">
 
 <!ENTITY insecureServer.tooltip.title    "Opozorilo! Ta strežnik ni varen.">
 <!ENTITY insecureServer.tooltip.details  "Kliknite na krog za podrobnosti.">
 
-<!ENTITY insecureUnencrypted.description "Svojo e-pošto in overovljanje pa pošiljate nešifrirano, tako da vaše geslo (in vaše sporočilo) zlahka berejo tudi drugi. & brandShortName; vam bo dovolil priti do vaše pošte, vendar se boste morali obrniti na svojega ponudnika e-pošte, kar se nastavitve strežnika z varno povezavo tiče.">
-<!ENTITY insecureSelfSigned.description  "Strežnik uporablja potrdilo, ki mu ne moremo zaupati, tako da ne moremo biti  gotovi, da nekdo prometa med & brandShortName in strežnikom ne prestreza. & brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se res morali obrniti na svojega ponudnika e-pošte glede nastavitve strežnika z zaupanja vrednim potrdilom.">
+<!ENTITY insecureUnencrypted.description "Svojo e-pošto in overovljanje pa pošiljate nešifrirano, tako da vaše geslo (in vaše sporočilo) zlahka berejo tudi drugi. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se morali obrniti na svojega ponudnika e-pošte, kar se nastavitve strežnika z varno povezavo tiče.">
+<!ENTITY insecureSelfSigned.description  "Strežnik uporablja potrdilo, ki mu ne moremo zaupati, tako da ne moremo biti prepričani, da nekdo prometa med &brandShortName; in strežnikom ne prestreza. &brandShortName; vam bo dovolil priti do vaše pošte, vendar pa bi se res morali obrniti na svojega ponudnika e-pošte glede nastavitve strežnika z zaupanja vrednim potrdilom.">
 <!ENTITY secureServer.description        "Čestitamo! Ta strežnik je varen.">

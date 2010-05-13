@@ -3,35 +3,35 @@
 
 <!ENTITY  proxyTitle.label              "Nastavitve strežnika proxy">
 <!ENTITY  noProxyTypeRadio.label        "Brez proxyja">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za proxy">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve proxyja za to mrežo">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  WPADTypeRadio.accesskey       "S">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
-<!ENTITY  manualTypeRadio.accesskey     "s">
+<!ENTITY  manualTypeRadio.accesskey     "R">
 <!ENTITY  autoTypeRadio.label           "URI samodejne nastavitve za proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Ponovno naloži">
-<!ENTITY  reload.accesskey              "l">
+<!ENTITY  reload.accesskey              "P">
 <!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "h">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Gostitelj SOCKS:">
-<!ENTITY  socks.accesskey               "u">
+<!ENTITY  socks.accesskey               "O">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "p">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  HTTPport.label                "Vrata:">
-<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.accesskey            "V">
 <!ENTITY  SSLport.label                 "Vrata:">
-<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SSLport.accesskey             "V">
 <!ENTITY  SOCKSport.label               "Vrata:">
-<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  SOCKSport.accesskey           "V">
 <!ENTITY  noproxy.label                 "Ni proxyja za:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "o">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz">
 <!ENTITY  shareproxy.label              "Uporabi isti proxy za vse protokole">
 <!ENTITY  shareproxy.accesskey          "x">

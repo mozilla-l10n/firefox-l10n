@@ -35,19 +35,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label          "Download all headers">
+<!ENTITY all.label          "Prenesi vse glave">
 <!ENTITY all.accesskey      "D">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
-   with the number of headers to be downloaded inserted between them:
-   EXAMPLE: "Download" <some number> "headers"
-   Either label could be set to null ("") if required grammatically.
+    with the number of headers to be downloaded inserted between them:
+    EXAMPLE: "Download" <some number> "headers"
+    Either label could be set to null ("") if required grammatically.
 -->
 
 <!ENTITY download.label     "Prenesi">
-<!ENTITY download.accesskey "o">
+<!ENTITY download.accesskey "O">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "headers">
-<!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "Mark remaining headers as read">
+<!ENTITY headers.label      "glave">
+<!ENTITY headers.accesskey  "d">
+<!ENTITY mark.label         "Označi preostale glave kot prebrane">
 <!ENTITY mark.accesskey     "M">

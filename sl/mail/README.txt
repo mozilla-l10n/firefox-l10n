@@ -1,6 +1,3 @@
-Za več podatkov o namestitvi, uporabi in nastavitvah Thunderbirda,
-vključno s seznamom znanih napak in z nasveti za reševanje
-problemov, si oglejte http://getthunderbird.com/releases/
+Za informacije o tem, kako se Thunderbird namesti, uporablja in prilagaja, vklju?no s seznamom poznanih problemov in re�itev zanje, glejte: 
+http://getthunderbird.com/releases/
 
-Podatke o podpori slovenskemu jeziku najdete na 
-http://mozilla.lugos.si/

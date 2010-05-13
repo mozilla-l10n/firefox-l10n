@@ -44,48 +44,48 @@
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Ime spletišča:">
-<!ENTITY siteList.accesskey           "i">
+<!ENTITY siteList.accesskey           "s">
 <!ENTITY siteList.tooltip             "Izberite spletišče, kjer želite objaviti">
-<!ENTITY newSiteButton.label          "New Site">
-<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY newSiteButton.label          "Novo spletišče">
+<!ENTITY newSiteButton.accesskey      "b">
 <!ENTITY docDirList.label             "Podimenik na spletišču za to stran:">
 <!ENTITY docDirList.accesskey         "S">
 <!ENTITY docDirList.tooltip           "Izberite ali vnesite ime oddaljenega podimenika za to stran">
 <!ENTITY publishImgCheckbox.label     "Vključi slike in druge datoteke">
-<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.accesskey "O">
 <!ENTITY publishImgCheckbox.tooltip   "Objavi slike in druge pridružene datoteke, na katere se ta stran sklicuje">
 <!ENTITY sameLocationRadio.label      "Uporabi isto mesto kot za stran">
 <!ENTITY sameLocationRadio.accesskey  "U">
-<!ENTITY sameLocationRadio.tooltip    "Objavi datoteko na isto mesto kot stran">
+<!ENTITY sameLocationRadio.tooltip    "Objavi datoteke na istem mestu kot stran">
 <!ENTITY useSubdirRadio.label         "Uporabi ta podimenik spletišča:">
-<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.accesskey     "p">
 <!ENTITY useSubdirRadio.tooltip       "Objavi datoteke na izbrani oddaljeni podimenik">
-<!ENTITY otherDirList.tooltip         "Izberite ali vnesite ime oddaljenega podimenika, kamor naj se datoteke za objavo premese">
-<!ENTITY pageTitle.label              "Naslov strani">
-<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY otherDirList.tooltip         "Izberite ali vnesite ime oddaljenega podimenika, kamor naj se datoteke za objavo prenese">
+<!ENTITY pageTitle.label              "Naslov strani:">
+<!ENTITY pageTitle.accesskey          "R">
 <!ENTITY pageTitle.tooltip            "Vnesite naslov, ki bo označeval stran v oknu in v zaznamkih">
 <!ENTITY pageTitleExample.label       "npr.: &quot;Moja spletna stran&quot;">
-<!ENTITY filename.label               "Ime datoteke">
-<!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip             "Vnesite ime za to datoteko, vključno s '.html' za spletno stran ">
-<!ENTITY filenameExample.label        "npr.: &quot;mojastran.html&quot;">
+<!ENTITY filename.label               "Ime datoteke:">
+<!ENTITY filename.accesskey           "D">
+<!ENTITY filename.tooltip             "Vnesite ime za to datoteko, vključno s '.html' za spletno stran">
+<!ENTITY filenameExample.label        "npr,: &quot;mojastran.html&quot;">
 <!ENTITY setDefaultButton.label       "R">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Odstrani stran">
-<!ENTITY removeButton.accesskey       "D">
+<!ENTITY removeButton.accesskey       "e">
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Spletišča za objavo">
 <!ENTITY serverInfo.label             "Podatki o strežniku">
 <!ENTITY loginInfo.label              "Podatki za login">
 <!ENTITY siteName.label               "Ime spletišča:">
-<!ENTITY siteName.accesskey           "i">
+<!ENTITY siteName.accesskey           "s">
 <!ENTITY siteName.tooltip             "Vzdevek za to mesto za objavo (npr.: 'MojSplet')">
 <!ENTITY siteUrl.label                "Naslov za objavo(e.g.: 'ftp://ftp.myisp.com/mojeime'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Naslov FTP:// ali HTTP://, ki ste ga dobili od svojega ISP ali ponudnika spletnih storitev">
 <!ENTITY browseUrl.label              "HTTP naslov vaše spletne strani(npr.: 'http://www.myisp.com/mojeime'):">
-<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.accesskey          "R">
 <!ENTITY browseUrl.tooltip            "Naslov HTTP:// vašega domačega imenika (ne vključujte imena datoteke)">
 <!ENTITY username.label               "Uporabniško ime:">
 <!ENTITY username.accesskey           "U">
@@ -95,4 +95,4 @@
 <!ENTITY password.tooltip             "Geslo, ki je povezano z vašim uporabniškim imenom">
 <!ENTITY savePassword.label           "Shrani geslo">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Izberite to, da svoje geslo varno shranite s pomočjo Skrbnika za gesla">
+<!ENTITY savePassword.tooltip         "Izberite, da svoje geslo varno shranite s pomočjo Skrbnika za gesla">

@@ -1,41 +1,41 @@
-<!ENTITY window.title "Filter Rules">
+<!ENTITY window.title "Pravila za filtriranje">
 
-<!ENTITY filterName.label "Filter name:">
+<!ENTITY filterName.label "Ime filtra">
 <!ENTITY filterName.accesskey "L">
 
-<!ENTITY junk.label "Smeti">
+<!ENTITY junk.label "Neželeno">
 <!ENTITY notJunk.label "Niso smeti">
 
 <!ENTITY lowestPriorityCmd.label "Najnižje">
 <!ENTITY lowPriorityCmd.label "Nizko">
-<!ENTITY normalPriorityCmd.label "Normalo">
+<!ENTITY normalPriorityCmd.label "Normalno">
 <!ENTITY highPriorityCmd.label "Visoko">
 <!ENTITY highestPriorityCmd.label "Najvišje">
 
-<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.label "Uporabi filter:">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
-<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
-<!ENTITY filterActionDesc.label "Perform these actions:">
-<!ENTITY filterActionDesc.accesskey "p">
+<!ENTITY contextIncoming.label "Preverjanje pošte">
+<!ENTITY contextManual.label "Ročen zagon">
+<!ENTITY contextBoth.label "Preverjanje pošte ali Ročen zagon">
+<!ENTITY contextPostPlugin.label "Preverjanje pošte (po razvrščanju)">
+<!ENTITY contextPostPluginBoth.label "Preverjanje pošte (po razvrščanju) ali Ročen zagon">
+<!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
+<!ENTITY filterActionDesc.accesskey "Z">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY moveMessage.label "Prestavi sporočilo v">
+<!ENTITY copyMessage.label "Kopiraj sporočilo v">
+<!ENTITY forwardTo.label "Posreduj sporočilo v">
+<!ENTITY replyWithTemplate.label "Odgovori s predlogo">
+<!ENTITY markMessageRead.label "Označi kot prebrano">
+<!ENTITY markMessageStarred.label "Dodaj zvezdico">
+<!ENTITY setPriority.label "Nastavi prioriteto na">
+<!ENTITY addTag.label "Označi sporočilo">
+<!ENTITY setJunkScore.label "Nastavi stanje Neželeno na">
+<!ENTITY deleteMessage.label "Zbriši sporočilo">
+<!ENTITY deleteFromPOP.label "Zbriši s strežnika POP3">
+<!ENTITY fetchFromPOP.label "Prenesi s POP strežnika">
+<!ENTITY ignoreThread.label "Prezri nit">
+<!ENTITY ignoreSubthread.label "Prezri podnit">
+<!ENTITY watchThread.label "Opazuj nit">
+<!ENTITY stopExecution.label "Ustavi izvajanje filtra">

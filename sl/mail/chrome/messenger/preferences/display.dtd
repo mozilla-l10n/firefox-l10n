@@ -2,45 +2,45 @@
 <!ENTITY itemTags.label                   "Oznake">
 
 <!ENTITY style.label                      "Slog:">
-<!ENTITY style.accesskey                  "y">
+<!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Običajno">
 <!ENTITY bold.label                       "Krepko">
 <!ENTITY italic.label                     "Ležeče">
-<!ENTITY boldItalic.label                 "Krepko Ležeče">
+<!ENTITY boldItalic.label                 "Krepko ležeče">
 <!ENTITY size.label                       "Velikost:">
-<!ENTITY size.accesskey                   "s">
-<!ENTITY regularSize.label                "Običajno">
+<!ENTITY size.accesskey                   "V">
+<!ENTITY regularSize.label                "Običajna">
 <!ENTITY bigger.label                     "Večja">
 <!ENTITY smaller.label                    "Manjša">
 <!ENTITY color.label                      "Barva:">
-<!ENTITY color.accesskey                  "u">
+<!ENTITY color.accesskey                  "B">
 <!ENTITY displayWidth.label               "Sporočila v golem besedilu">
 <!ENTITY displayText.label                "Pri prikazu citiranih sporočil v golem besedilu:">
 <!ENTITY colors.label                     "Barve">
-<!ENTITY overrideColors.label             "Pri prikazu sporočil uporabi naslednje barve:">
+<!ENTITY overrideColors.label             "Za prikaz sporočil uporabi naslednje barve:">
 <!ENTITY textColor.label                  "Barva besedila:">
-<!ENTITY textColor.accesskey              "T">
+<!ENTITY textColor.accesskey              "B">
 <!ENTITY backgroundColor.label            "Barva ozadja:">
-<!ENTITY backgroundColor.accesskey        "b">
+<!ENTITY backgroundColor.accesskey        "O">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Prikaži smeške kot grafiko">
-<!ENTITY convertEmoticons.accesskey    "D">
+<!ENTITY convertEmoticons.label        "Pokaži smeške kot grafiko">
+<!ENTITY convertEmoticons.accesskey    "G">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Oznake lahko uporabite za označevanje prioritet in kategorij svojih sporočil.">
 <!ENTITY addTagButton.label        "Dodaj">
-<!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Urejaj">
-<!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label     "Izbriši">
-<!ENTITY removeTagButton.accesskey "D">
+<!ENTITY addTagButton.accesskey    "D">
+<!ENTITY editTagButton.label       "Uredi">
+<!ENTITY editTagButton.accesskey   "U">
+<!ENTITY removeTagButton.label     "Zbriši">
+<!ENTITY removeTagButton.accesskey "Z">
 
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Pisave">
 <!ENTITY defaultFont.label       "Privzeta pisava:">
-<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultFont.accesskey   "P">
 <!ENTITY defaultSize.label       "Velikost:">
-<!ENTITY defaultSize.accesskey   "S">
-<!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "Napredno ...">
+<!ENTITY defaultSize.accesskey   "V">
+<!ENTITY fontOptions.accesskey   "N">
+<!ENTITY fontOptions.label       "Napredno…">
