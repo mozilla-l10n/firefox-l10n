@@ -5,7 +5,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Luchdaidhean a-nuas de phlugain a tha ri am faighinn">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Tha na plugain a leanas ri am faighinn:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Briog air "Air adhart" gus na plugain seo a stàladh.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Briog air &quot;Air adhart&quot; gus na plugain seo a stàladh.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dh'fhaodadh gum bi feum aig cuid dhe na plugain air fiosrachadh a bharrachd uat rè an stàlaidh.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Ceadachasan nam Plugan">
