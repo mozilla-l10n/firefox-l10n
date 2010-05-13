@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "R">
 <!ENTITY views.label                    "Vyer">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "Verktygsfält">
-<!ENTITY view.toolbar.accesskey         "V">
 <!ENTITY view.columns.label             "Visa kolumner">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Sortera">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Välj fil…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.select_all.label      "Markera allt">
-<!ENTITY cmd.select_all.accesskey  "M">
-<!ENTITY cmd.select_all.key        "a">
-
-<!ENTITY cmd.edit_cut.label         "Klipp ut">
-<!ENTITY cmd.edit_cut.accesskey     "K">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopiera">
-<!ENTITY cmd.edit_copy.accesskey    "o">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Klistra in">
-<!ENTITY cmd.edit_paste.accesskey   "l">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Ta bort">
-<!ENTITY cmd.edit_delete.accesskey  "T">
-<!ENTITY cmd.edit_undo.label        "Ångra">
-<!ENTITY cmd.edit_undo.accesskey    "Å">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Gör om">
-<!ENTITY cmd.edit_redo.accesskey    "G">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Lägg till bokmärke för den här sidan…">
 <!ENTITY cmd.bookmarkLink.accesskey     "L">
 <!ENTITY cmd.delete.label               "Ta bort den här sidan">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label      "Egenskaper">
 <!ENTITY cmd.properties.accesskey  "E">
 
-<!ENTITY cmd.rename.label      "Byt namn">
-<!ENTITY cmd.rename.accesskey  "B">
-
 <!ENTITY cmd.sortby_name.label              "Ordna efter namn">
 <!ENTITY cmd.sortby_name.accesskey          "d">
 <!ENTITY cmd.context_sortby_name.accesskey  "d">
 
 <!ENTITY cmd.new_bookmark.label            "Nytt bokmärke…">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_livemark.label            "Nytt aktivt bokmärke…">
-<!ENTITY cmd.new_livemark.accesskey        "k">
 <!ENTITY cmd.new_folder.label              "Ny mapp…">
 <!ENTITY cmd.new_folder.accesskey          "N">
 <!ENTITY cmd.context_new_folder.accesskey  "a">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">
-
-<!ENTITY feed.subscribe.label    "Kanal">
-<!ENTITY feed.subscribe.tooltip  "Prenumerera">
 
 <!ENTITY maintenance.label      "Importera och säkerhetskopiera">
 <!ENTITY maintenance.accesskey  "I">
