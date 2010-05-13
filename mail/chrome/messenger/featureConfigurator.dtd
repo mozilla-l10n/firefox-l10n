@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Gebruik deze pagina om deze nieuwe instellingen te configureren. U kunt altijd naar de migratieassistent terugkeren via het menu Help.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nieuwe berichtenwerkbalk">
-<!ENTITY featureConfigurator.toolbar.new.status "Berichtknoppenwerkbalk">
+<!ENTITY featureConfigurator.toolbar.new "Berichtknoppenwerkbalk">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Een opgeruimde werkbalk met al uw berichtknoppen binnen handbereik.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Uw originele werkbalkknoppen behouden">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Uw originele werkbalkknoppen behouden">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Behoud aangepaste werkbalkknoppen naast de nieuwe berichtknoppen.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Berichtacties zoals beantwoorden en doorsturen zijn van de werkbalk naar de kop van het bericht zelf verplaatst. Dit verbindt de actieknoppen direct met het bericht, waardoor meer ruimte in de werkbalk overblijft voor het uitgebreidere zoektekstveld en add-ons.">
