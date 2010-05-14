@@ -12,3 +12,9 @@
 <!ENTITY rememberPasswords.title                   "Husk adgangskoder">
 <!ENTITY language.title                            "Sprog">
 <!ENTITY language.auto                             "Autodetekter">
+<!ENTITY defaultBrowser.title                      "Standardbrowser">
+<!ENTITY defaultBrowser.description                "Gør &brandShortName; til din standardbrowser">
+<!ENTITY homepage.title                            "Startside">
+<!ENTITY homepage.none                             "Blank side">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Brug nuværende side">
