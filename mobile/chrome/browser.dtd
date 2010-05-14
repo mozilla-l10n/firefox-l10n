@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Indtast søgeord eller adresse">
+
 <!ENTITY back.label            "Tilbage">
 <!ENTITY forward.label         "Fremad">
 <!ENTITY reload.label          "Genindlæs">
@@ -38,7 +40,7 @@
 <!ENTITY addonsLocal.label         "Dine tilføjelser">
 <!ENTITY addonsUpdate.label        "Opdater">
 <!ENTITY addonsRepo.label          "Find tilføjelser">
-<!ENTITY addonsRecommended.label   "Anbefalede">
+<!ENTITY addonsRecommended.label   "Anbefalet">
 <!ENTITY addonsSearch.label        "Søg">
 <!ENTITY addonsSearch2.emptytext   "Søg i alle tilføjelser">
 <!ENTITY addonsSearch.recommended  "Anbefalede">
@@ -66,8 +68,6 @@
 <!ENTITY noResults.label           "Ingen resultater">
 <!ENTITY allBookmarks.label        "Se alle bogmærker">
 
-<!ENTITY searchEngine.addSearch    "Tilføj søgetjeneste:">
-
 <!ENTITY bookmarkPopup.label       "Side bogmærket">
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
@@ -92,3 +92,6 @@
 <!ENTITY consoleErrFile.label      "Kildefil:">
 <!ENTITY consoleErrLine.label      "Linje:">
 <!ENTITY consoleErrColumn.label    "Kolonne:">
+
+<!ENTITY contextOpenInNewTab.label "Åbn link i nyt faneblad">
+<!ENTITY contextSaveImage.label    "Gem billede">

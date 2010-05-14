@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
+<!ENTITY aboutHome.recentTabs                   "Dine faneblade fra sidst">
+<!ENTITY aboutHome.remoteTabs                   "Faneblade fra dine andre computere">
+<!ENTITY aboutHome.recommendedAddons2           "Tilføjelser til din &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla                 "Om Mozilla">
+<!ENTITY aboutHome.openAllTabs                  "Åbn alle i faneblade">
+<!ENTITY aboutHome.noTabs                       "Ingen faneblade fra sidste gang">
+<!ENTITY aboutHome.noAddons                     "Ingen anbefalede tilføjelser">
