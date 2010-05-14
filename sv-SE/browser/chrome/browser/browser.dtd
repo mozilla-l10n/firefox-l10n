@@ -190,6 +190,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Inspektera">
+<!ENTITY inspectMenu.accesskey        "n">
+<!ENTITY inspectMenu.commandkey       "I">
+
 <!ENTITY fileMenu.label         "Arkiv"> 
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newNavigatorCmd.label        "Nytt fönster">
