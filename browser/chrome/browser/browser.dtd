@@ -159,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey "จ">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
+<!ENTITY inspectMenu.label            "ตรวจดู">
+<!ENTITY inspectMenu.accesskey        "ต">
+<!ENTITY inspectMenu.commandkey       "ต">
+
 <!ENTITY fileMenu.label "แฟ้ม">
 <!ENTITY fileMenu.accesskey "ฟ">
 <!ENTITY newNavigatorCmd.label "หน้าต่างใหม่">
