@@ -159,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Inspeksi">
+<!ENTITY inspectMenu.accesskey        "I">
+<!ENTITY inspectMenu.commandkey       "I">
+
 <!ENTITY fileMenu.label         "Berkas"> 
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
