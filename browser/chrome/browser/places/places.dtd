@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey "ก">
 <!ENTITY views.label "มุมมอง">
 <!ENTITY views.accesskey "ม">
-<!ENTITY view.toolbar.label "แถบเครื่องมือ">
-<!ENTITY view.toolbar.accesskey "ค">
 <!ENTITY view.columns.label "แสดงคอลัมน์">
 <!ENTITY view.columns.accesskey "ค">
 <!ENTITY view.sort.label "เรียง">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label "เลือกแฟ้ม…">
 <!ENTITY cmd.restoreFromFile.accesskey "ล">
 
-<!ENTITY cmd.select_all.label "เลือกทั้งหมด">
-<!ENTITY cmd.select_all.accesskey "ท">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "ตัด">
-<!ENTITY cmd.edit_cut.accesskey "ต">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "คัดลอก">
-<!ENTITY cmd.edit_copy.accesskey "ค">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "แปะ">
-<!ENTITY cmd.edit_paste.accesskey "แ">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "ลบ">
-<!ENTITY cmd.edit_delete.accesskey "ล">
-<!ENTITY cmd.edit_undo.label "เรียกคืน">
-<!ENTITY cmd.edit_undo.accesskey "ร">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "ทำซ้ำ">
-<!ENTITY cmd.edit_redo.accesskey "ซ">
-<!ENTITY cmd.edit_redo.key "y">
-
 <!ENTITY cmd.bookmarkLink.label         "คั่นหน้าเว็บนี้…">
 <!ENTITY cmd.bookmarkLink.accesskey     "ค">
 <!ENTITY cmd.delete.label               "ลบหน้าเว็บนี้">
@@ -84,18 +60,12 @@
 <!ENTITY cmd.properties.label "คุณสมบัติ">
 <!ENTITY cmd.properties.accesskey "ส">
 
-
-<!ENTITY cmd.rename.label "เปลี่ยนชื่อ">
-<!ENTITY cmd.rename.accesskey "ป">
-
 <!ENTITY cmd.sortby_name.label "เรียงตามชื่อ">
 <!ENTITY cmd.sortby_name.accesskey "ช">
 <!ENTITY cmd.context_sortby_name.accesskey "ช">
 
 <!ENTITY cmd.new_bookmark.label "ที่คั่นหน้าเว็บใหม่…">
 <!ENTITY cmd.new_bookmark.accesskey "ค">
-<!ENTITY cmd.new_livemark.label "ไลฟ์บุ๊กมาร์กใหม่…">
-<!ENTITY cmd.new_livemark.accesskey "ล">
 <!ENTITY cmd.new_folder.label "โฟลเดอร์ใหม่…">
 <!ENTITY cmd.new_folder.accesskey "ฟ">
 <!ENTITY cmd.context_new_folder.accesskey "ฟ">
@@ -135,10 +105,6 @@
 <!ENTITY saveSearch.accesskey "บ">
 
 <!ENTITY cmd.find.key "f">
-
-<!ENTITY feed.subscribe.label "ฟีด">
-<!ENTITY feed.subscribe.tooltip "บอกรับ">
-
 
 <!ENTITY maintenance.label "นำเข้าและสำรองข้อมูล">
 <!ENTITY maintenance.accesskey "น">
