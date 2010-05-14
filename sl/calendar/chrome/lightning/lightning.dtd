@@ -68,7 +68,7 @@
 <!ENTITY lightning.menu.view.calendar.label            "Koledar">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Opravki">
-<!ENTITY lightning.nenu.view.tasks.accesskey           "O">
+<!ENTITY lightning.menu.view.tasks.accesskey           "O">
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Dogodki in opravki">
