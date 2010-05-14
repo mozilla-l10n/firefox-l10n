@@ -107,8 +107,6 @@
 <!ENTITY certmgr.view2.accesskey "ด">
 <!ENTITY certmgr.edit3.label                  "แก้ไขการเชื่อถือ…">
 <!ENTITY certmgr.edit3.accesskey              "ก">
-<!ENTITY certmgr.edit2.label "แก้ไข">
-<!ENTITY certmgr.edit2.accesskey "ก">
 <!ENTITY certmgr.editca.label "แก้ไขความน่าเชื่อถือของ CA">
 <!ENTITY certmgr.editca.accesskey "แ">
 <!ENTITY certmgr.add.label "เพิ่ม">
