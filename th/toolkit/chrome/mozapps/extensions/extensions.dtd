@@ -1,176 +1,112 @@
-<!ENTITY addons.title "ส่วนเสริม">
+<!ENTITY addons.windowTitle                   "ตัดจัดการส่วนเสริม">
+<!ENTITY search.placeholder                   "ค้นหาส่วนเสริมทั้งหมด">
+<!ENTITY loading.label                        "กำลังโหลด…">
+<!ENTITY listEmpty.installed.label            "คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้">
+<!ENTITY listEmpty.search.label               "ไม่พบส่วนเสริมที่ตรงกัน">
+<!ENTITY listEmpty.button.label               "เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "ค้นหา">
+<!ENTITY view.discover.label                  "ติดตั้งส่วนเสริม">
+<!ENTITY view.languages.label                 "ภาษา">
+<!ENTITY view.searchengines.label             "ตัวค้นหา">
+<!ENTITY view.features.label                  "ส่วนขยาย">
+<!ENTITY view.appearance.label                "ชุดตกแต่ง">
+<!ENTITY view.plugins.label                   "โปรแกรมเสริม">
 
-<!-- View labels -->
-<!ENTITY search.label "โหลดส่วนเสริม">
-<!ENTITY extensions.label "ส่วนขยาย">
-<!ENTITY themes.label "ชุดตกแต่ง">
-<!ENTITY locales.label "ภาษา">
-<!ENTITY plugins.label "โปรแกรมเสริม">
-<!ENTITY update.label "ชุดปรับปรุง">
-<!ENTITY install.label "การติดตั้ง">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "ปรับรุ่นส่วนเสริม">
+<!ENTITY updates.updating.label               "กำลังปรับรุ่นส่วนเสริม">
+<!ENTITY updates.installed.label              "ปรับรุ่นส่วนเสริมของคุณแล้ว">
+<!ENTITY updates.downloaded.label             "ดาวน์โหลดส่วนเสริมของคุณแล้ว">
+<!ENTITY updates.restart.label                "เริ่มใหม่เพื่อให้การติดตั้งสมบูรณ์">
+<!ENTITY updates.noneFound.label              "ไม่พบการปรับรุ่น">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label "ตรวจหาการปรับปรุง">
-<!ENTITY cmd.checkUpdatesAll.accesskey "ต">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "ตรวจหาการปรับปรุงส่วนเสริม">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "ตรวจหาการปรับปรุงชุดตกแต่ง">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "ค้นหาส่วนเสริมที่มีการปรับรุ่น">
-<!ENTITY cmd.installLocalFile.label "ติดตั้ง…">
-<!ENTITY cmd.installLocalFile.accesskey "ต">
-<!ENTITY cmd.installFileAddon.tooltip "ติดตั้งส่วนเสริม">
-<!ENTITY cmd.installFileTheme.tooltip "ติดตั้งชุดตกแต่ง">
-<!ENTITY cmd.installUpdatesAll2.label     "ติดตั้งการปรับรุ่น">
-<!ENTITY cmd.installUpdatesAll2.accesskey "ร">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "ติดตั้งการปรับรุ่นที่เลือก">
-<!ENTITY cmd.restartApp2.label "เริ่ม &brandShortName; ใหม่">
-<!ENTITY cmd.restartApp2.accesskey "ร">
-<!ENTITY cmd.restartApp2.tooltip "เริ่ม &brandShortName; ใหม่ เพื่อให้การเปลี่ยนแปลงมีผล">
-<!ENTITY cmd.skip.label "ข้าม">
-<!ENTITY cmd.skip.accesskey "ข">
-<!ENTITY cmd.skip.tooltip "ข้ามการปรับปรุงเหล่านี้">
-<!ENTITY cmd.continue.label "ทำต่อ">
-<!ENTITY cmd.continue.accesskey "ท">
-<!ENTITY cmd.continue.tooltip "โหลด &brandShortName; ต่อ">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "แสดงข้อมูเพิ่มเติม">
+<!ENTITY cmd.showDetails.accesskey            "ส">
+<!ENTITY cmd.findUpdates.label                "ค้นหาการปรับรุ่น">
+<!ENTITY cmd.findUpdates.accesskey            "ห">
+<!ENTITY cmd.preferences.label                "ปรับแต่ง">
+<!ENTITY cmd.preferences.accesskey            "ป">
+<!ENTITY cmd.about.label                      "เกี่ยวกับ">
+<!ENTITY cmd.about.accesskey                  "ก">
 
-<!ENTITY cmd.enableAll.label "เปิดใช้งานทั้งหมด">
-<!ENTITY cmd.enableAll.accesskey "ช">
-<!ENTITY cmd.enableAll.tooltip "เปิดใช้งานส่วนเสริมที่แสดงทั้งหมด">
-<!ENTITY cmd.disableAll.label "ปิดใช้งานทั้งหมด">
-<!ENTITY cmd.disableAll.accesskey "ป">
-<!ENTITY cmd.disableAll.tooltip "ปิดใช้งานส่วนเสริมที่แสดงทั้งหมด">
+<!ENTITY cmd.enableAddon.label                "เปิดใช้งาน">
+<!ENTITY cmd.enableAddon.accesskey            "ช">
+<!ENTITY cmd.enableAddon.tooltip              "เปิดใช้งานส่วนเสริมนี้">
+<!ENTITY cmd.disableAddon.label               "ปิดใช้งาน">
+<!ENTITY cmd.disableAddon.accesskey           "ด">
+<!ENTITY cmd.disableAddon.tooltip             "ปิดใช้งานส่วนเสริมนี้">
+<!ENTITY cmd.uninstallAddon.label             "เอาออก">
+<!ENTITY cmd.uninstallAddon.accesskey         "อ">
+<!ENTITY cmd.uninstallAddon.tooltip           "ถอนการติดตั้งส่วนเสริมนี้">
+<!ENTITY cmd.contribute.label                 "มีส่วนร่วม">
+<!ENTITY cmd.contribute.accesskey             "ม">
+<!ENTITY cmd.contribute.tooltip               "มีส่วนร่วมในการพัฒนาส่วนเสริมนี้">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label "ใช้ชุดตกแต่งนี้">
-<!ENTITY cmd.useTheme.accesskey "ต">
-<!ENTITY cmd.useTheme.tooltip "เปลี่ยนชุดตกแต่งของ &brandShortName;">
-<!ENTITY cmd.options.label "ตัวเลือก">
-<!ENTITY cmd.options.accesskey "ต">
-<!ENTITY cmd.options.tooltip "ตั้งตัวเลือกส่วนขยายที่เลือกไว้">
-<!ENTITY cmd.optionsUnix.label "ปรับแต่ง">
-<!ENTITY cmd.optionsUnix.accesskey "ป">
-<!ENTITY cmd.optionsUnix.tooltip "ปรับแต่งส่วนขยายที่เลือกไว้">
-<!ENTITY cmd.enable.label "เปิดใช้งาน">
-<!ENTITY cmd.enable.accesskey "ช">
-<!ENTITY cmd.enable.tooltip "เปิดใช้งานส่วนเสริมนี้หลังเริ่ม &brandShortName; ใหม่">
-<!ENTITY cmd.disable.label "ปิดใช้งาน">
-<!ENTITY cmd.disable.accesskey "ป">
-<!ENTITY cmd.disable.tooltip "ปิดใช้งานส่วนเสริมนี้หลังเริ่ม &brandShortName; ใหม่">
-<!ENTITY cmd.uninstall.label "ถอนการติดตั้ง">
-<!ENTITY cmd.uninstall2.accesskey "ถ">
-<!ENTITY cmd.uninstall2.tooltip "ถอนการติดตั้งส่วนเสริมนี้หลังเริ่ม &brandShortName; ใหม่">
-<!ENTITY cmd.cancelUninstall.label "ยกเลิกการถอนการติดตั้ง">
-<!ENTITY cmd.cancelUninstall.accesskey "ย">
-<!ENTITY cmd.cancelUninstall.tooltip "ยกเลิกการถอนการติดตั้งส่วนเสริมนี้">
-<!ENTITY cmd.cancelInstall.label "ยกเลิกการติดตั้ง">
-<!ENTITY cmd.cancelInstall.accesskey "ย">
-<!ENTITY cmd.cancelInstall.tooltip "ยกเลิกการติดตั้งส่วนเสริมนี้">
-<!ENTITY cmd.cancelUpgrade.label "ยกเลิกการปรับรุ่น">
-<!ENTITY cmd.cancelUpgrade.accesskey "ย">
-<!ENTITY cmd.cancelUpgrade.tooltip "ยกเลิกการปรับรุ่นส่วนเสริมนี้">
-<!ENTITY cmd.installUpdate.label "ติดตั้งชุดปรับปรุง">
-<!ENTITY cmd.installUpdate.accesskey "ต">
-<!ENTITY cmd.installUpdate.tooltip "ติดตั้งชุดปรับปรุงส่วนเสริมนี้">
-<!ENTITY cmd.showUpdateInfo.label "แสดงข้อมูล">
-<!ENTITY cmd.showUpdateInfo.accesskey "ส">
-<!ENTITY cmd.showUpdateInfo.tooltip "แสดงข้อมูลเกี่ยวกับการปรับปรุงเหล่านี้">
-<!ENTITY cmd.hideUpdateInfo.label "ซ่อนข้อมูล">
-<!ENTITY cmd.hideUpdateInfo.accesskey "ซ">
-<!ENTITY cmd.hideUpdateInfo.tooltip "ซ่อนข้อมูลเกี่ยวกับการปรับปรุงเหล่านี้">
-<!ENTITY cmd.installSearchResult.label "เพิ่มลง &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "พ">
-<!ENTITY cmd.installSearchResult.tooltip "ดาวน์โหลดและติดตั้งส่วนเสริมนี้">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "ยกเลิก">
-<!ENTITY cancel.accesskey "ย">
-<!ENTITY cancelInstall.label "ยกเลิก">
-<!ENTITY cancelInstall.accesskey "ย">
-<!ENTITY cancelUpgrade.label "ยกเลิก">
-<!ENTITY cancelUpgrade.accesskey "ย">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label "ชมหน้าตั้งต้น">
-<!ENTITY cmd.homepage.accesskey "ต">
-<!ENTITY cmd.about2.label "เกี่ยวกับส่วนเสริมนี้">
-<!ENTITY cmd.about.accesskey "ก">
-<!ENTITY cmd.checkUpdate.label "ตรวจหาการปรับปรุง">
-<!ENTITY cmd.checkUpdate.accesskey "ป">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "รุ่น">
+<!ENTITY detail.updated.label                 "ปรับรุ่นแล้ว">
+<!ENTITY detail.creator.label                 "ผู้พัฒนา">
+<!ENTITY detail.homepage.label                "โฮมเพจ">
+<!ENTITY detail.numberOfDownloads.label       "จำนวนดาวน์โหลด">
 
-<!ENTITY cmd.includeUpdate.label "รวมการปรับปรุง">
-<!ENTITY cmd.includeUpdate.accesskey "ร">
-<!ENTITY includeUpdate.label "รวมการปรับปรุงนี้ด้วย">
-<!ENTITY includeUpdate.accesskey "ร">
-<!ENTITY includeUpdate.tooltip "รวมส่วนเสริมนี้ด้วยเมื่อติดตั้งชุดปรับปรุง">
+<!ENTITY detail.updateAutomatically.label     "ปรับรุ่นอัตโนมัติ">
+<!ENTITY detail.updateAutomatically.accesskey "ร">
+<!ENTITY detail.updateAutomatically.tooltip   "ปรับรุ่นส่วนเสริมนี้เมื่อมีรุ่นใหม่โดยอัตโนมัติ">
+<!ENTITY detail.checkForUpdates.label         "ตรวจสอบการปรับรุ่น">
+<!ENTITY detail.checkForUpdates.accesskey     "ต">
+<!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการปรับรุ่นของส่วนเสริมนี้">
+<!ENTITY detail.showPreferences.label         "ปรับแต่ง">
+<!ENTITY detail.showPreferences.accesskey     "ป">
+<!ENTITY detail.showPreferences.tooltip       "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label "ไม่ต้องเสนอการปรับปรุงด้านความปลอดภัย">
-<!ENTITY needsDependencies.label "ต้องการรายการเพิ่มเติม">
-<!ENTITY blocklisted.label "ถูกปิดใช้งานเพื่อปกป้องคุณ">
-<!ENTITY softBlocklisted.label            "มีรายงานว่าก่อปัญหาความปลอดภัยหรือเสถียรภาพ">
-<!ENTITY outdated.label                   "รุ่นที่ใหม่กว่า ปลอดภัยกว่ามีให้ใช้งานแล้ว">
-<!ENTITY toBeDisabled.label "ส่วนเสริมนี้จะถูกปิดใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
-<!ENTITY toBeEnabled.label "ส่วนเสริมนี้จะถูกเปิดใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
-<!ENTITY toBeInstalled.label "ส่วนเสริมนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ใหม่">
-<!ENTITY toBeUninstalled.label "ส่วนเสริมนี้จะถูกถอนการติดตั้งใช้งานเมื่อเริ่ม &brandShortName; ใหม่">
-<!ENTITY toBeUpdated.label "ส่วนเสริมนี้จะถูกปรับปรุงเมื่อเริ่ม &brandShortName; ใหม่">
 
-<!ENTITY getExtensions.label "โหลดส่วนขยาย">
-<!ENTITY getThemes.label "โหลดชุดตกแต่ง">
-<!ENTITY getPlugins.label "โหลดโปรแกรมเสริม">
+<!-- ratings -->
+<!ENTITY rating.yourRating.label              "ความนิยมของคุณ:">
 
-<!ENTITY searchAddons.label "ค้นส่วนเสริมทั้งหมด">
-<!ENTITY browseAddons.label "ดูส่วนเสริมทั้งหมด">
-<!ENTITY searchFailed.label "&brandShortName; ไม่สามารถดึงส่วนเสริมได้">
-<!ENTITY recommendedHeader.label "แนะนำ">
-<!ENTITY recommendedThrobber.label "ดึงส่วนเสริมแนะนำ">
-<!ENTITY searchThrobber.label "ค้นหาส่วนเสริม">
-<!ENTITY resetSearch.label "ล้างผลลัพธ์">
-<!ENTITY noSearchResults.label "ผลลัพธ์ที่ได้ทั้งหมด มีติดตั้งอยู่แล้ว หรือใช้กับ &brandShortName; รุ่นนี้ไม่ได้">
-<!ENTITY noRecommendedResults.label "ส่วนเสริมที่แนะนำทั้งหมด มีติดตั้งอยู่แล้ว หรือใช้กับ &brandShortName; รุ่นนี้ไม่ได้">
-<!ENTITY emptySearch.label "ไม่พบส่วนเสริมที่ตรงตามต้องการ">
-<!ENTITY emptySearch.button "ตกลง">
-<!ENTITY cancelSearch.button "ยกเลิก">
-<!ENTITY searchFailed.button "ตกลง">
-<!ENTITY searchResultHomepage.value "เรียนรู้เพิ่ม">
-<!ENTITY searchBox.label "ค้นส่วนเสริมทั้งหมด">
-<!ENTITY recommendedResults.label "ดูส่วนเสริมแนะนำทั้งหมด">
-<!ENTITY searchResultConnecting.label "กำลังเชื่อมต่อ…">
-<!ENTITY searchResultInstalling.label "กำลังติดตั้ง…">
-<!ENTITY searchResultFailed.label "ติดตั้งไม่สำเร็จ">
-<!ENTITY searchResultInstalled.label "ติดตั้งสำเร็จ">
-<!ENTITY addonTypeExtension.label "ส่วนขยาย">
-<!ENTITY addonTypeTheme.label "ชุดตกแต่ง">
-<!ENTITY missingThumbnail.label "ไม่มีตัวอย่าง">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "หยุดชั่วคราว">
+<!ENTITY progress.cancel.tooltip              "ยกเลิก">
 
-<!ENTITY previewNoThemeSelected.label "ไม่มีชุดตกแต่งที่เลือกไว้">
-<!ENTITY previewNoPreviewImage.label "ชุดตกแต่งนี้ไม่มีรูปตัวอย่าง">
-<!ENTITY moreInfo.label "ข้อมูลเพิ่มเติม">
-<!ENTITY infoNoAddonSelected.label "ยังไม่ได้เลือกปรับปรุง">
-<!ENTITY infoNoUpdateInfo.label "การปรับปรุงนี้ไม่มีข้อมูลเพิ่มเติม">
-<!ENTITY infoUpdateInfoError.label "มีความผิดพลาดระหว่างดึงข้อมูลเกี่ยวกับการปรับปรุงนี้">
 
-<!ENTITY updateSuccess.label "ปรับปรุงสำเร็จ">
-<!ENTITY installSuccess.label "ติดตั้งสำเร็จ">
-<!ENTITY installSuccessRestart.label "เริ่มใหม่เพื่อให้การติดตั้งแล้วเสร็จ">
-<!ENTITY updateSuccessRestart.label "เริ่มใหม่เพื่อให้การปรับปรุงแล้วเสร็จ">
-<!ENTITY installWaiting.label "รอ…">
-<!ENTITY installIncompatibleUpdate.label "ตรวจสอบความเข้ากันได้…">
-<!ENTITY installFinishing.label "กำลังติดตั้ง…">
-<!ENTITY installFailure.label "ติดตั้งไม่สำเร็จ">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "ชื่อ">
+<!ENTITY sort.name.tooltip                    "เรียงตามชื่อ">
+<!ENTITY sort.size.label                      "ขนาด">
+<!ENTITY sort.size.tooltip                    "เรียงตามขนาด">
+<!ENTITY sort.dateUpdated.label               "ปรับรุ่นล่าสุด">
+<!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันปรับรุ่น">
+<!ENTITY sort.rating.label                    "ความนิยม">
+<!ENTITY sort.rating.tooltip                  "เรียงตามความนิยมเฉลี่ย">
 
-<!ENTITY progressStatus.label "ตรวจหาการปรับปรุง">
 
-<!ENTITY eula.title "ข้อตกลงอนุญาตใช้งาน (EULA)">
-<!ENTITY eula.width "560px">
-<!ENTITY eula.height "400px">
-<!ENTITY eula.accept "ยอมรับและติดตั้ง…">
+<!ENTITY showMore.label                       "แสดงเพิ่ม">
+<!ENTITY showMore.accesskey                   "พ">
+<!ENTITY showMore.tooltip                     "แสดงรายละเอียดเพิ่มเติม">
+<!ENTITY showLess.label                       "แสดงน้อยกว่านี้">
+<!ENTITY showLess.accesskey                   "น">
+<!ENTITY showLess.tooltip                     "แสดงข้อมูลน้อยกว่านี้">
 
-<!ENTITY blocklist.blocked.label          "ถูกปิดกั้น">
-<!ENTITY blocklist.checkbox.label         "ปิดการใช้งาน">
+<!ENTITY search.filter.label                  "แสดง:">
+<!ENTITY search.filter.installed.label        "ส่วนเสริมที่คุณจติดตั้งไว้">
+<!ENTITY search.filter.available.label        "ส่วนเสริมที่มีอยู่">
+
+<!ENTITY addon.homepage                       "โฮมเพจ">
+<!ENTITY addon.unknownDate                    "ไม่ทราบ">
+<!ENTITY addon.disabled.postfix               "(ปิดใช้งาน)">
+<!ENTITY addon.undo.label                     "เลิกทำ?">
+<!ENTITY addon.undo.tooltip                   "เลิกทำการกระทำนี้">
+<!ENTITY addon.undoUninstall.label            "เลิกทำ?">
+<!ENTITY addon.undoUninstall.tooltip          "เก็บส่วนเสริมนี้ไว้">
+<!ENTITY addon.restartNow.label               "เริ่มใหม่ทันที">
+<!ENTITY addon.restartNow.tooltip             "เริ่มใหม่ทันทีเพื่อให้การติดตั้งสมบูรณ์">
+<!ENTITY addon.install.label                  "ติดตั้ง">
+<!ENTITY addon.install.tooltip                "ติดตั้งส่วนเสริมนี้">
+<!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการปรับรุ่น…">
+
+<!ENTITY addon.createdBy.label                "โดย ">
