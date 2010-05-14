@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,11 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Koledar">
 <!ENTITY calendar.calendar.accesskey "K">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip "Ustvari nov dogodek">
 <!ENTITY calendar.newtask.button.tooltip "Ustvari nov opravek">
@@ -93,12 +92,18 @@
 <!ENTITY calendar.month.button.tooltip          "Preklopi na mesečni pogled.">
 <!ENTITY calendar.multiweek.button.tooltip      "Preklopi na večtedenski pogled.">
 
-<!ENTITY calendar.nextday.button.tooltip        "Naslednji dan">
-<!ENTITY calendar.prevday.button.tooltip        "Prejšnji dan">
-<!ENTITY calendar.nextweek.button.tooltip       "Naslednji teden">
-<!ENTITY calendar.prevweek.button.tooltip       "Prejšnji teden">
-<!ENTITY calendar.nextmonth.button.tooltip      "Naslednji mesec">
-<!ENTITY calendar.prevmonth.button.tooltip      "Prejšnji mesec">
+<!ENTITY calendar.nextday.label                 "Naslednji dan" >
+<!ENTITY calendar.prevday.label                 "Prejšnji dan" >
+<!ENTITY calendar.nextday.accesskey             "s" >
+<!ENTITY calendar.prevday.accesskey             "š" >
+<!ENTITY calendar.nextweek.label                "Naslednji teden" >
+<!ENTITY calendar.prevweek.label                "Prejšnji teden" >
+<!ENTITY calendar.nextweek.accesskey            "s" >
+<!ENTITY calendar.prevweek.accesskey            "š" >
+<!ENTITY calendar.nextmonth.label               "Naslednji mesec" >
+<!ENTITY calendar.prevmonth.label               "Prejšnji mesec" >
+<!ENTITY calendar.nextmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.accesskey           "š" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "En dan naprej" >
 <!ENTITY calendar.navigation.prevday.tooltip    "En dan nazaj" >
@@ -147,15 +152,16 @@
 <!ENTITY calendar.task.filter.open.label            "Neizvršene opravke">
 <!ENTITY calendar.task.filter.open.accesskey        "o">
 
-<!ENTITY calendar.task-details.title.label           "Naslov:">
-<!ENTITY calendar.task-details.organizer.label       "Organizator:">
-<!ENTITY calendar.task-details.priority.label        "Pomembnost:">
+<!ENTITY calendar.task-details.title.label           "Naslov">
+<!ENTITY calendar.task-details.organizer.label       "Organizator">
+<!ENTITY calendar.task-details.priority.label        "Pomembnost">
 <!ENTITY calendar.task-details.priority.low.label    "nizka">
 <!ENTITY calendar.task-details.priority.normal.label "navadna">
 <!ENTITY calendar.task-details.priority.high.label   "visoka">
-<!ENTITY calendar.task-details.status.label          "Stanje:">
-<!ENTITY calendar.task-details.category.label        "Kategorija:">
-<!ENTITY calendar.task-details.repeat.label          "Ponovi:">
+<!ENTITY calendar.task-details.status.label          "Stanje">
+<!ENTITY calendar.task-details.category.label        "Kategorija">
+<!ENTITY calendar.task-details.repeat.label          "Ponovi">
+<!ENTITY calendar.task-details.attachments.label     "Priponke">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriziraj opravke">
 <!ENTITY calendar.task.complete.button.tooltip  "Označi izbrane opravke kot izvršene">
@@ -324,12 +330,18 @@
 <!ENTITY calendar.print.title.label "Naslov">
 <!ENTITY calendar.print.layout.label "Postavitev">
 <!ENTITY calendar.print.range.label "Območje tiskanja">
-<!ENTITY calendar.print.currentview.label "Dogodki v trenutnem pogledu">
+<!ENTITY calendar.print.currentView2.label "Trenutni pogled">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Izbrani dogodki/opravki">
+<!ENTITY calendar.print.tasks.label "Opravki">
+<!ENTITY calendar.print.events.label "Dogodki">
 <!ENTITY calendar.print.selected.label "Izbrani dogodki">
 <!ENTITY calendar.print.custom.label "Po meri:">
 <!ENTITY calendar.print.from.label "Od:">
 <!ENTITY calendar.print.to.label "Do:">
 <!ENTITY calendar.print.settingsGroup.label "Nastavitve tiskanja">
+<!ENTITY calendar.print.optionsGroup.label "Možnosti">
+<!ENTITY calendar.print.taskswithnoduedate.label "Opravki brez datuma dovršitve">
+<!ENTITY calendar.print.completedtasks.label "Dokončani opravki">
 
 <!-- Poročanje o napakah -->
 <!ENTITY calendar.error.detail "Podrobnosti …">
