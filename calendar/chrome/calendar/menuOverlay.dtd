@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "Danes">
 <!ENTITY goTodayCmd.accesskey                   "s">
 
-<!ENTITY goPreviousCmd.day.label                "Prejšnji dan">
-<!ENTITY goPreviousCmd.week.label               "Prejšnji teden">
-<!ENTITY goPreviousCmd.month.label              "Prejšnji mesec">
-<!ENTITY goPreviousCmd.accesskey                "r">
-
-<!ENTITY goNextCmd.day.label                    "Naslednji dan">
-<!ENTITY goNextCmd.week.label                   "Naslednji teden">
-<!ENTITY goNextCmd.month.label                  "Naslednji mesec">
-<!ENTITY goNextCmd.all.accesskey                "s">
-
 <!ENTITY showCurrentView.label                  "Trenutni pogled">
 <!ENTITY showCurrentView.accesskey              "T">
 
