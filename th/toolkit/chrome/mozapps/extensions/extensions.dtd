@@ -11,7 +11,7 @@
 <!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "ติดตั้งส่วนเสริม">
 <!ENTITY view.languages.label                 "ภาษา">
-<!ENTITY view.searchengines.label             "ตัวค้นหา">
+<!ENTITY view.searchengines.label             "เครื่องมือค้นหา">
 <!ENTITY view.features.label                  "ส่วนขยาย">
 <!ENTITY view.appearance.label                "ชุดตกแต่ง">
 <!ENTITY view.plugins.label                   "โปรแกรมเสริม">
