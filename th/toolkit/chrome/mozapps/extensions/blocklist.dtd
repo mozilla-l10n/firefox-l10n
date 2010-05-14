@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "เริ่ม &brandShortName; ใหม่">
 <!ENTITY blocklist.accept.accesskey  "ร">
+
+<!ENTITY blocklist.blocked.label     "ถูกปิดกั้น">
+<!ENTITY blocklist.checkbox.label    "ปิดใช้งาน">
