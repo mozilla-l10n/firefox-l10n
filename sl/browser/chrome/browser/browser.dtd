@@ -374,7 +374,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullScreenButton.tooltip       "Prikaži okno v celozaslonskem načinu">
 
 <!ENTITY quitApplicationCmdWin.label "Izhod">
-<!ENTITY quitApplicationCmdWin.accesskey "i">
+<!ENTITY quitApplicationCmdWin.accesskey "h">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label "Izhod">
