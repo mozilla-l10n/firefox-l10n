@@ -44,9 +44,12 @@
 <!ENTITY folderCharsetTab.accesskey "C">
 <!ENTITY folderCharsetOverride.label "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
 <!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Ricostruisci gli indici">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Ricostruisci il file degli indici">
+<!ENTITY folderRebuildSummaryFileTip2.label "Ricostruisci il file indice">
+<!ENTITY folderRebuildSummaryFile2.label "Ripara la cartella">
+<!ENTITY folderRebuildSummaryFile2.accesskey "R">
+<!ENTITY folderRebuildSummaryFile.explanation "Può succedere che il file indice delle cartelle risulti danneggiato e qualche messaggio non venga visualizzato o messaggi già cancellati vengano comunque visualizzati; riparare la cartella può risolvere questo tipo di problema.">
+<!ENTITY folderIncludeInGlobalSearch.label "Includere i messaggi in questa cartella nei risultati di Ricerca globale">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseAccount.label "Usa le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
@@ -65,8 +68,8 @@
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi speciali">
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY folderSynchronizationTab.label "Sincronizzazione">
-<!ENTITY folderCheckForNewMessages.label "Controlla l'arrivo di nuovi messaggi in questa cartella">
-<!ENTITY folderCheckForNewMessages.accesskey "C">
+<!ENTITY folderCheckForNewMessages2.label "Durante lo scaricamento dei nuovi messaggi per questo account controllare sempre questa cartella">
+<!ENTITY folderCheckForNewMessages2.accesskey "c">
 <!ENTITY offlineFolder.check.label "Seleziona questa cartella per l'uso non in linea">
 <!ENTITY offlineFolder.check.accesskey "S">
 <!ENTITY offlineFolder.button.label "Scarica ora">

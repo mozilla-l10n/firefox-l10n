@@ -1,34 +1,36 @@
 <!ENTITY featureConfigurator.title "Migrazione guidata">
-<!ENTITY featureConfigurator.heading "Le caratteristiche di Thunderbird 3 da conoscere">
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 introduce nuove potenti funzioni di cui andiamo particolarmente fieri e siamo convinti che molte persone sapranno apprezzarle. Dal momento che ogni utente ha le proprie necessità e le proprie preferenze, abbiamo comunque reso Thunderbird semplice da controllare e personalizzare.">
-<!ENTITY featureConfigurator.para2 "È possibile utilizzare questa pagina per configurare le nuove impostazioni. La Migrazione guidata può essere richiamata in qualunque istante utilizzando il menu Aiuto.">
-<!ENTITY featureConfigurator.imap.heading "Sincronizzazione messaggi IMAP">
-<!ENTITY featureConfigurator.imap.status.all "Tutte le cartelle IMAP sono impostate per la &quot;sincronizzazione&quot;.">
-<!ENTITY featureConfigurator.imap.status.none "Nessuna cartella IMAP è impostata per la &quot;sincronizzazione&quot;.">
-<!ENTITY featureConfigurator.imap.status.some "Alcune cartelle IMAP sono impostate per la &quot;sincronizzazione&quot;.">
-<!ENTITY featureConfigurator.benefits.label "Vantaggi">
-<!ENTITY featureConfigurator.alternative.label "Alternative">
-<!ENTITY featureConfigurator.syncBenefits.para "Consente di leggere i messaggi in assenza di una connessione a Internet e permette di cercare all'interno del messaggio completo, non solo nell'oggetto o nei contatti.">
-<!ENTITY featureConfigurator.syncAlternative.para "Thunderbird scaricherà tutta la posta sul computer in uso. È possibile disattivare questa funzione per risparmiare spazio su disco o ridurre il consumo di banda.">
-<!ENTITY featureConfigurator.syncAll.button "Sincronizza tutto">
-<!ENTITY featureConfigurator.syncNone.button "Non sincronizzare nulla">
-<!ENTITY featureConfigurator.advancedUsers.label "Utenti esperti:">
-<!ENTITY featureConfigurator.advancedUsers.para "è possibile personalizzare la sincronizzazione per account e per cartella:">
-<!ENTITY featureConfigurator.toolbar.heading "Nuova barra degli strumenti">
-<!ENTITY featureConfigurator.toolbar.new.status "Si sta utilizzando la nuova barra degli strumenti.">
-<!ENTITY featureConfigurator.toolbar.original.status "Si sta utilizzando la versione precedente della barra degli strumenti.">
-<!ENTITY featureConfigurator.toolbarBenefits.para "Un'interfaccia più semplice rispetto al passato, che lascia più spazio al campo di ricerca interattivo e ad eventuali componenti aggiuntivi.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Se si preferisce utilizzare la versione precedente della barra degli strumenti, non si vuole ripetere la personalizzazione o si utilizza una visualizzazione in cui il pannello dei messaggi è nascosto.">
-<!ENTITY featureConfigurator.useOriginalToolbar.button "Attiva la vecchia versione della barra degli strumenti">
-<!ENTITY featureConfigurator.useNewToolbar.button "Attiva la nuova barra degli strumenti">
-<!ENTITY featureConfigurator.unifiedFolders.heading "Modalità cartelle unificate">
-<!ENTITY featureConfigurator.unifiedFolders.smart.status "Si sta utilizzando la modalità &quot;cartelle unificate&quot;.">
-<!ENTITY featureConfigurator.unifiedFolders.all.status "Non si sta utilizzando la modalità &quot;cartelle unificate&quot;.">
-<!ENTITY featureConfigurator.unifiedFolderBenefits.para "Questa modalità di visualizzazione permette agli utenti con diversi account di raggruppare le cartelle, come ad esempio la Posta in arrivo, in modo da avere una vista consolidata di tutta la posta.">
-<!ENTITY featureConfigurator.unifiedFolderAlternative.para "Se si preferisce distribuire le informazioni fra più account, è consigliabile utilizzare la modalità &quot;Tutte le cartelle&quot;.">
-<!ENTITY featureConfigurator.useUnifiedFolders.button "attiva la modalità &quot;Cartelle unificate&quot;">
-<!ENTITY featureConfigurator.useAllFolders.button "attiva la visualizzazione &quot;Tutte le cartelle&quot;">
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Intestazioni raggruppate">
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 migliora la modalità di visualizzazione delle intestazioni, fornendo pulsanti per effettuare le operazioni più comuni sui messaggi. Sono comunque disponibili delle soluzioni alternative attraverso i ">
-<!ENTITY featureConfigurator.headerParaLinkName "componenti aggiuntivi">
-<!ENTITY featureConfigurator.headerParaAfterLink ".">
+<!ENTITY featureConfigurator.heading1 "Le nuove caratteristiche di &brandShortName; da conoscere">
+<!ENTITY featureConfigurator.para.1 "Questa nuova versione di &brandShortName; include nuove caratteristiche di cui siamo molto orgogliosi. Le necessità degli utenti sono molto varie per cui abbiamo reso &brandShortName; facile da configurare.">
+<!ENTITY featureConfigurator.para.2 "Questa pagina serve a configurare le nuove caratteristiche. È possibile in ogni momento usare la Migrazione guidata dal menu Aiuto.">
+<!ENTITY featureConfigurator.toolbar.heading "Nuova barra dei messaggi">
+<!ENTITY featureConfigurator.toolbar.new "Barra dei pulsanti nel messaggio.">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Una barra degli strumenti semplice con tutti i pulsanti relativi ai messaggi a portata di mano.">
+<!ENTITY featureConfigurator.toolbar.original "Mantieni la Barra strumenti originale.">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantieni tutte le barre strumenti personalizzate in aggiunta ai nuovi bottoni per i messaggi.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Le azioni relative al messaggio (come Rispondi o Inoltra) sono state spostate dalla barra degli strumenti allo spazio dedicato all'intestazione del messaggio. Spostare i pulsanti di azione direttamente nel messaggio  lascia più spazio al campo di ricerca avanzato e ad eventuali componenti aggiuntivi.">
+<!ENTITY featureConfigurator.addOn.installing "Installazione in corso…">
+<!ENTITY featureConfigurator.addOn.installed "Installata">
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Estensione già installata.">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Compact Header">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "La modalità di visualizzazione con intestazioni raggruppate è stata integrata in un'estensione con molte più opzioni e possibilità di sviluppo rispetto al passato.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "La modalità di visualizzazione con intestazioni raggruppate precedentemente in uso è stata rimossa ed è ora integrata in un'estensione. Per continuare a utilizzare questa funzione si consiglia di installare l'estensione.">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Installa Compact Header…">
+<!ENTITY featureConfigurator.folderColumns.heading "Colonne aggiuntive nel pannello cartelle">
+<!ENTITY featureConfigurator.folderColumns.para.weak "L'estensione 'Extra Folder Columns' sostituisce un'impostazione avanzata. Per tenere sotto controllo il numero di messaggi e lo spazio usato per ciascuna cartella è indispensabile installare questa estensione.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "La possibilità di visualizzare colonne aggiuntive nel pannello cartelle precedentemente in uso è stata rimossa ed è ora integrata in un'estensione. Per continuare a utilizzare questa funzione si consiglia di installare l'estensione.">
+<!ENTITY featureConfigurator.folderColumns.install "Installare Extra Columns…">
+<!ENTITY featureConfigurator.autoSync.heading "Spazio su disco">
+<!ENTITY featureConfigurator.autoSync.para "Questa versione di &brandShortName; integra un sistema di ricerca più aggiornato ed efficiente. Per utilizzarlo sarà necessario sincronizzare i messaggi di posta.">
+<!ENTITY featureConfigurator.autoSync.on "Sincronizza">
+<!ENTITY featureConfigurator.autoSync.on.explanation "I messaggi saranno caricati più rapidamente e i risultati delle ricerche saranno migliori.">
+<!ENTITY featureConfigurator.autoSync.off "Non sincronizzare">
+<!ENTITY featureConfigurator.autoSync.off.explanation "I messaggi saranno caricati più lentamente e risultati delle ricerche saranno incompleti.">
+<!ENTITY featureConfigurator.autoSync.some "Sincronizzazione per account">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Personalizzare la modalità di sincronizzazione per ogni account e cartella.">
+<!ENTITY featureConfigurator.diskSpace.currentSize "Spazio su disco totale occupato per la posta:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Spazio libero:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Richiesto:">
+<!ENTITY featureConfigurator.diskSpace.warning "Spazio su disco in esaurimento!">
+<!ENTITY featureConfigurator.previousButton "Precedente">
+<!ENTITY featureConfigurator.nextButton "Successivo">
+<!ENTITY featureConfigurator.closeButton "Chiudi">
