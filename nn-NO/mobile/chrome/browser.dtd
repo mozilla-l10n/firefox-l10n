@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Utvidingar">
 <!ENTITY addonsLocal.label         "Installerte utvidingar">
+<!ENTITY addonsUpdate.label        "Oppdater">
 <!ENTITY addonsRepo.label          "Hent tvidingar">
 <!ENTITY addonsRecommended.label   "Tilrådd">
 <!ENTITY addonsSearch.label        "Søk">
