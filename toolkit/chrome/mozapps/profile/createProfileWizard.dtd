@@ -6,7 +6,7 @@
 <!ENTITY profileCreationExplanation_2.text  "Wenn Sie diese Kopie von &brandShortName; mit anderen Anwendern gemeinsam verwenden, können Sie verschiedene Profile nutzen, um die persönlichen Daten jedes Benutzers getrennt zu verwalten. Dazu sollte jeder Anwender sein eigenes Profil erstellen.">
 <!ENTITY profileCreationExplanation_3.text  "Auch wenn Sie der einzige Anwender sind, der diese Kopie von &brandShortName; verwendet, müssen Sie zumindest ein Profil erstellen. Wenn Sie möchten, können Sie mehrere Profile für sich selbst erstellen, um Ihre Daten getrennt zu verwalten (z. B.: privat und beruflich).">
 <!ENTITY profileCreationExplanation_4.text  "Um nun ein Profil zu erstellen, klicken Sie auf &quot;Weiter&quot;.">
-<!ENTITY profileCreationExplanation_4Mac.text  "Um nun ein Profil zu erstellen, klicken Sie auf &quot;Weiter&quot;.">
+<!ENTITY profileCreationExplanation_4Mac.text  "Um nun ein Profil zu erstellen, klicken Sie auf &quot;Fortsetzen&quot;.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Um nun ein Profil zu erstellen, klicken Sie auf &quot;Weiter&quot;.">
 
 <!-- Second wizard page -->
