@@ -71,11 +71,11 @@
 <!ENTITY closeWindow.accesskey "к">
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "З">
-<!ENTITY bookmarkThisPageCmd.label "Добавить страницу в закладки">
+<!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
-<!ENTITY addCurPagesCmd.label "Добавить все вкладки в закладки…">
+<!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
 <!ENTITY organizeBookmarks.label "Управление закладками…">
 <!ENTITY bookmarkAllCmd.label "Добавить все вкладки в закладки…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
