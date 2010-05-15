@@ -1,4 +1,4 @@
-<!ENTITY glodaFacetView.filters.label "Filtra per:">
+<!ENTITY glodaFacetView.filters.label "Visualizza:">
 <!ENTITY glodaFacetView.loading.label "Ricerca in corso…">
 <!ENTITY glodaFacetView.empty.label "Nessun risultato disponibile">
 <!ENTITY glodaFacetView.pageMore.label "Altro »">
