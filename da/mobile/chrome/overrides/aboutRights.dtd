@@ -6,7 +6,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Om dine rettigheder">
-<!ENTITY rights.intro "&brandFullName; er fri og åben kildekode software, skabt af en sammenslutning af tusindvis af mennesker over hele kloden. Der er et par ting, som du bør vide:">
+<!ENTITY rights.intro "&brandFullName; er software med fri og åben kildekode, skabt af en sammenslutning af tusindvis af mennesker over hele kloden. Der er et par ting, som du bør vide:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -30,15 +30,15 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Alle vedkommende policer vedrørende privatlivssikring for dette produkt bør optegnes her.">
+<!ENTITY rights.intro-point3-unbranded "Alle vedkommende politikker vedrørende privatlivssikring for dette produkt bør optegnes her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfri. Yderligere detaljer, inklusiv information om at frakoble disse tjenester, kan findes under punktet ">
+<!ENTITY rights.intro-point4a "&brandShortName; tilbyder også valgfrie webbaserede informationstjenester om websteder, såsom tjenesten SafeBrowsing; Vi kan dog ikke garantere at de er 100&#37; korrekte eller fejlfrie. Yderligere detaljer, inklusiv information om at deaktivere disse tjenester, kan findes under punktet ">
 <!ENTITY rights.intro-point4b "tjenstevilkår">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Hvis dette produkt indlejrer webtjenester skal alle vedkommende vilkår for tjenesterne linkes til under afsnittet ">
+<!ENTITY rights.intro-point4a-unbranded "Hvis dette produkt bruger webbaserede tjenester skal alle vedkommende vilkår for tjenesterne linkes til under afsnittet ">
 <!ENTITY rights.intro-point4b-unbranded "Webbaserede tjenester">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
@@ -46,18 +46,18 @@
 
 <!-- intro paragraph for branded builds -->
 <!-- XXX Edited this section to remove the specific reference to Firefox UI (see bug 514817) -->
-<!ENTITY rights.webservices-a "&brandFullName; bruger informationstjenester om websteder (&quot;Tjenester&quot;), såsom tjenesten SafeBrowsing, som gøres tilgængelig for dig ved brug af denne binære version af &brandShortName; som beskrevet nedenfor. Hvis du ikke ønsker at bruge tjenesten eller vil acceptere de nedenstående vilkår kan du frakoble tjenesten SafeBrowsing i programmets indstillinger.">
+<!ENTITY rights.webservices-a "&brandFullName; bruger informationstjenester om websteder (&quot;Tjenester&quot;), såsom tjenesten SafeBrowsing, som gøres tilgængelig for dig ved brug af denne binære version af &brandShortName; som beskrevet nedenfor. Hvis du ikke ønsker at bruge tjenesten eller vil acceptere de nedenstående vilkår, kan du deaktivere tjenesten SafeBrowsing i programmets indstillinger.">
 <!ENTITY rights.webservices-b "">
 <!ENTITY rights.webservices-c "">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Et overblik over de webbaserede tjenester, produktet indkorporerer, samt instruktioner om, hvordan de fravælges (hvis muligt), skal indkluderes her.">
+<!ENTITY rights.webservices-unbranded "Et overblik over de webbaserede tjenester, produktet bruger, samt instruktioner om, hvordan de deaktiveres (hvis muligt), skal inkluderes her.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Alle vedkommende tjenestevilkår for dette produkt bør optegnes her.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; og dets bidragydere, licensholdere og forretningsparntere arbejder på at yde den mest korrekte og ajourførte phishing og malware information. Vi kan dog ikke garantere at denne information er fydestgørende eller fejlfri: nogle risikofyldte websteder kan være uidentificeret og nogle sikre sider kan være optegnet ved en fejl.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; og dets bidragydere, licensholdere og forretningspartnere arbejder på at yde den mest korrekte og ajourførte phishing- og malware-information. Vi kan dog ikke garantere at denne information er fydestgørende eller fejlfri: nogle risikofyldte websteder kan være uidentificeret og nogle sikre sider kan være optegnet ved en fejl.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; kan afslutte eller ændre tjenesten når de ønsker dette.">
 <!ENTITY rights.webservices-term3 "Du er frit stillet til at bruge tjenesten med den forhåndværende version af &brandShortName;, og du har alle rettigheder til dette. &vendorShortName; og dets licensholdere forbeholder sig alle andre rettigheder vedrørende disse tjenester. Disse vilkår er ikke ment til at begrænse rettigheder som er tildelt under åben kildekode licenser vedrørende &brandShortName; og de tilhørende kildekode versioner af &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Tjensten leveres &quot;som den fremstår.&quot; &vendorShortName;, dets bidragydere, licensholdere og distributører fraskriver sig alle garantier, udtrykt eller indforstået, inklusive garantier om hvorvidt tjenesten er handelsgyldig eller passer til dit formål. Du bærer den fulde risiko ved at bruge tjenesten til dine formål samt kvaliteten og ydelsen, som tjenesten leverer. Nogle retskredse tillader ikke ekskusion eller begrænsning af indforståede garantier, så denne fraskrivelse af garanti kan i visse tilfælde ikke berøre dig.">

@@ -43,7 +43,7 @@
 <!ENTITY addonsRecommended.label   "Anbefalet">
 <!ENTITY addonsSearch.label        "Søg">
 <!ENTITY addonsSearch2.emptytext   "Søg i alle tilføjelser">
-<!ENTITY addonsSearch.recommended  "Anbefalede">
+<!ENTITY addonsSearch.recommended  "Anbefalet">
 
 <!ENTITY addonOptions.label        "Indstillinger">
 <!ENTITY addonEnable.label         "Aktiver">
