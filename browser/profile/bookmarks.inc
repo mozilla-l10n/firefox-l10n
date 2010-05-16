@@ -7,10 +7,6 @@
 #define bookmarks_title Záložky
 #define bookmarks_heading Záložky
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Získať doplnky na správu záložiek
-
 #define bookmarks_toolbarfolder Priečinok panela Záložky
 #define bookmarks_toolbarfolder_description Pridaním položiek do tohto priečinka dôjde k ich zobrazeniu v paneli Záložky
 

@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Túto stránku môžete využiť na konfiguráciu nových nastavení. Neskôr sa sem môžete kedykoľvek vrátiť kliknutím na položku Asistent pri prechode na novú verziu v hlavnej ponuke Pomocník.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Nový panel s hlavičkou správy">
-<!ENTITY featureConfigurator.toolbar.new.status "Ovládacie tlačidlá v hlavičke správy">
+<!ENTITY featureConfigurator.toolbar.new "Ovládacie tlačidlá v hlavičke správy">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Čistý panel nástrojov so všetkými tlačidlami pre ovládanie správy na dosah.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Ponechať tlačidlá na pôvodnom paneli nástrojov">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Ponechať tlačidlá na pôvodnom paneli nástrojov">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Ponechá vlastné tlačidlá pridané na panel spolu so všetkými tlačidlami pre ovládanie správy.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Tlačidlá slúžiace na vykonanie akcií so správami, ako napr. Odpovedať alebo Odoslať ďalej, boli presunuté z panela nástrojov na panel hlavičky správy. Týmto sú tlačidlá priamo prepojené so správou, vďaka čomu ostáva na paneli nástrojov viac miesta pre vyhľadávanie či doplnky.">

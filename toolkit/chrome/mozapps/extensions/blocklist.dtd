@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Reštartovať &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "Zablokované">
+<!ENTITY blocklist.checkbox.label    "Zakázať">

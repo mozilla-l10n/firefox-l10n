@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2           "Doplnky pre váš &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "O Mozille">
 <!ENTITY aboutHome.openAllTabs                  "Otvoriť všetko na kartách">
+<!ENTITY aboutHome.noTabs                       "Žiadne karty z posledného spustenia">
+<!ENTITY aboutHome.noAddons                     "Žiadne odporúčané doplnky">

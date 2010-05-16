@@ -48,20 +48,21 @@
 <!ENTITY newevent.to.label                  "Do" >
 <!ENTITY newevent.attendees.notify.label    "Upozorniť účastníkov">
 
-<!ENTITY newevent.status.label                "Stav" >
-<!ENTITY newevent.status.accesskey            "S" >
-<!ENTITY newevent.status.accesskey            "v" >
-<!ENTITY newevent.status.none.label           "Nešpecifikovaný" >
-<!ENTITY newevent.status.none.accesskey       "e" >
-<!ENTITY newevent.status.cancelled.label      "Zrušená" >
-<!ENTITY newevent.status.cancelled.accesskey  "Z" >
-<!ENTITY newevent.status.tentative.label      "Nepotvrdená" >
-<!ENTITY newevent.status.tentative.accesskey  "N" >
-<!ENTITY newevent.status.confirmed.label      "Potvrdená" >
-<!ENTITY newevent.status.confirmed.accesskey  "P" >
-<!ENTITY newevent.status.needsaction.label    "Vyžaduje akciu" >
-<!ENTITY newevent.status.inprogress.label     "Prebieha" >
-<!ENTITY newevent.status.completed.label      "Dokončená" >
+<!ENTITY newevent.status.label                    "Stav" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "Nešpecifikovaný" >
+<!ENTITY newevent.eventStatus.none.accesskey      "e" >
+<!ENTITY newevent.todoStatus.none.label           "Nešpecifikovaný" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Zrušená" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "Z" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Zrušená" >
+<!ENTITY newevent.status.tentative.label          "Predbežná" >
+<!ENTITY newevent.status.tentative.accesskey      "n" >
+<!ENTITY newevent.status.confirmed.label          "Potvrdená" >
+<!ENTITY newevent.status.confirmed.accesskey      "P" >
+<!ENTITY newevent.status.needsaction.label        "Vyžaduje akciu" >
+<!ENTITY newevent.status.inprogress.label         "Prebieha" >
+<!ENTITY newevent.status.completed.label          "Dokončená" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; hotovo">
@@ -230,14 +231,11 @@
 <!ENTITY event.reminder.none.label                        "Nepripomínať " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minút pred" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minút pred" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minút pred" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minút pred" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minút pred" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minút pred" >
 <!ENTITY event.reminder.1hour.before.label                "1 hodinu pred" >
 <!ENTITY event.reminder.2hours.before.label               "2 hodiny pred" >
-<!ENTITY event.reminder.5hours.before.label               "5 hodín pred" >
-<!ENTITY event.reminder.15hours.before.label              "15 hodín pred" >
+<!ENTITY event.reminder.12hours.before.label              "12 hodín pred" >
 <!ENTITY event.reminder.1day.before.label                 "1 deň pred" >
 <!ENTITY event.reminder.2days.before.label                "2 dni pred" >
 <!ENTITY event.reminder.1week.before.label                "1 týždeň pred" >

@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label                     "Zavrieť kartu">
 <!ENTITY  closeTab.accesskey                 "Z">
 
+<!ENTITY  listAllTabs.label      "Zoznam všetkých kariet">
+
 <!ENTITY tabCmd.label "Nová karta">
 <!ENTITY tabCmd.accesskey "a">
 <!ENTITY tabCmd.commandkey "t">
@@ -156,6 +158,10 @@
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY inspectMenu.label            "Preskúmať">
+<!ENTITY inspectMenu.accesskey        "e">
+<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY fileMenu.label "Súbor">
 <!ENTITY fileMenu.accesskey "S">
@@ -468,8 +474,11 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "Spravuje ju">
 
-<!ENTITY identity.moreInfoLinkText "Viac informácií…">
+<!ENTITY identity.moreInfoLinkText "Ďalšie informácie…">
 
 <!ENTITY downloadMonitor2.tooltip "Kliknutím otvoríte Správcu preberania súborov">
 
 <!ENTITY allTabs.filter.emptyText "Hľadať v kartách">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Karty prehliača">
