@@ -8,3 +8,7 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; herstarten">
 <!ENTITY blocklist.accept.accesskey  "h">
+
+<!ENTITY blocklist.blocked.label     "Geblokkeerd">
+<!ENTITY blocklist.checkbox.label    "Uitschakelen">
+
