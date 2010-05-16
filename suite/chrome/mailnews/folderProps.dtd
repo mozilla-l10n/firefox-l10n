@@ -48,13 +48,12 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label "Aplica el valor per defecte a tots els missatges (ignora el joc de caràcters indicat a la capçalera MIME)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstrueix l'índex">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstrueix el fitxer de resum"> 
-
-<!ENTITY folderSynchronizationTab.label          "Sincronització">
-<!ENTITY folderCheckForNewMessages.label "Cerca missatges nous a aquesta carpeta">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix el fitxer de resum">
+<!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "De vegades s'espatlla el fitxer que fa d'índex de la carpeta (.msf) i alguns missatges que haurien de ser-hi sembla que hagin desaparegut o d'altres que s'havien esborrat tornen a aparèixer; tots aquests problemes es solucionaran si es repara la carpeta.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inclou els missatges d'aquesta carpeta als resultats de la cerca global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label "Política de retenció">
 <!ENTITY retentionUseAccount.label  "Utilitza les meves opcions del compte">
@@ -72,9 +71,12 @@
 <!ENTITY retentionKeepRecent.accesskey "x">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu les opcions d'antiguitat)">
-
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges senyalats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Sincronització">
+<!ENTITY folderCheckForNewMessages2.label        "Quan es cerquin missatges nous per aquest compte, comprova sempre aquesta carpeta">
+<!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
 <!ENTITY offlineFolder.check.label "Selecciona aquesta carpeta per al seu ús fora de línia">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -99,6 +101,6 @@
 <!ENTITY folderType.label "Tipus de carpeta:">
 
 <!ENTITY folderQuotaTab.label "Quota">
-<!ENTITY folderQuotaRoot.label "Quota Root:">
+<!ENTITY folderQuotaRoot.label "Arrel de la quota:">
 <!ENTITY folderQuotaUsage.label "Utilització:">
 <!ENTITY folderQuotaStatus.label "Estat">
