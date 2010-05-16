@@ -1,6 +1,6 @@
 <!ENTITY itemGeneral.label "General">
 <!ENTITY itemDisplay.label "Lectura y visualización">
-<!ENTITY itemUpdate.label "Actualizar">
+<!ENTITY itemUpdate.label "Actualización">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
 <!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">

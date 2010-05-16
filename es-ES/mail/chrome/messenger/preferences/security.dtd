@@ -37,7 +37,7 @@
 <!ENTITY cookies.intro "&brandShortName; le permite especificar qué blogs, canales de noticias, y otros sitios web tienen permitido enviar cookies.">
 <!ENTITY acceptCookies.label "Aceptar cookies de sitios">
 <!ENTITY acceptCookies.accesskey "k">
-<!ENTITY keepUntil.label "Conservar hasta:">
+<!ENTITY keepUntil.label "Conservar hasta que:">
 <!ENTITY keepUntil.accesskey "h">
 <!ENTITY expire.label "caduquen">
 <!ENTITY close.label "yo cierre &brandShortName;">

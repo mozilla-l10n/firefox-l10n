@@ -3,9 +3,9 @@
 <!ENTITY featureConfigurator.para.1 "Esta nueva versión de &brandShortName; incluye potentes nuevas características de las que estamos orgullosos y pensamos que la mayoría de la gente apreciará. Los gustos y necesidades de la gente varían, así que hemos hecho fácil controlar y personalizar &brandShortName;.">
 <!ENTITY featureConfigurator.para.2 "Use esta página para configurar estas nuevas opciones. Siempre puede volver al asistente de migración desde el menú Ayuda.">
 <!ENTITY featureConfigurator.toolbar.heading "Nueva barra de herramientas de mensaje">
-<!ENTITY featureConfigurator.toolbar.new.status "Barra de herramientas de botones de mensaje.">
+<!ENTITY featureConfigurator.toolbar.new "Barra de botones de mensajes">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Una barra de herramientas más limpia con todos sus botones de mensajería al alcance de su mano.">
-<!ENTITY featureConfigurator.toolbar.original.status "Mantener sus botones originales en la barra de herramientas.">
+<!ENTITY featureConfigurator.toolbar.original "Conservar sus botones en la barra de herramientas original">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantener cualquier botón personalizado de la barra de herramientas además de los nuevos botones de mensajes.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "Las acciones con mensajes tales como responder y re-enviar se han trasladado desde la barra de herramientas a la cabecera del propio mensaje. Esto asocia los botones de acción directamente al mensaje, lo que deja más espacio en la barra de herramientas para la caja de texto de búsqueda mejorada, así como para los complementos.">
 <!ENTITY featureConfigurator.addOn.installing "Instalando…">
@@ -14,11 +14,11 @@
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Cabecera compacta">
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "La vista compacta al leer mensajes se ha trasladado a su propia extensión donde ahora obtiene mucha más atención y opciones.">
 <!ENTITY featureConfigurator.collapsedHeaders.para.strong "Hemos observado que estaba usando la cabecera compacta al leer mensajes. Esta función se ha trasladado a su propia extensión y le recomendamos que la instale aquí si quiere seguir usándola.">
-<!ENTITY featureConfigurator.collapsedHeaders.install "Instalar cabecera compacta…">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Instalar CompactHeader…">
 <!ENTITY featureConfigurator.folderColumns.heading "Columnas de carpeta avanzadas">
-<!ENTITY featureConfigurator.folderColumns.para.weak "La extensión Extra Folder Columns reemplaza lo que inicialmente era una preferencia avanzada. Para mantener las pestañas en el número exacto de mensajes y espacio en disco que cada carpeta está usando querrá instalar esta extensión.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "La extensión Extra Folder Columns reemplaza lo que inicialmente era una preferencia avanzada. Para mantener a la vista el número exacto de mensajes y espacio en disco que cada carpeta está usando querrá instalar esta extensión.">
 <!ENTITY featureConfigurator.folderColumns.para.strong "Hemos observado que estaba usando las columnas de carpeta avanzadas. Esta característica se ha trasladado a su propia extensión y le recomendamos que la instale aquí.">
-<!ENTITY featureConfigurator.folderColumns.install "Instalar columnas extras…">
+<!ENTITY featureConfigurator.folderColumns.install "Instalar Extra Folder Columns…">
 <!ENTITY featureConfigurator.autoSync.heading "Espacio en disco">
 <!ENTITY featureConfigurator.autoSync.para "Esta nueva versión de &brandShortName; trae una funcionalidad de búsqueda nueva y mejorada. Para experimentar esta nueva búsqueda necesitará sincronizar sus mensajes de correo.">
 <!ENTITY featureConfigurator.autoSync.on "Sincronizar">
