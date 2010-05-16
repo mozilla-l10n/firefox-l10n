@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,11 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip         "Lag ny hending" >
 <!ENTITY calendar.newtask.button.tooltip          "Lag ny oppgåve" >
@@ -83,22 +82,28 @@
 <!ENTITY calendar.unifinder.tree.status.label        "Status">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendernamn">
 <!ENTITY calendar.unifinder.tree.duration.label      "Forfell om">
-<!ENTITY calendar.unifinder.close.tooltip            "Avslutt søket etter hendingar og lista over hendingar">
+<!ENTITY calendar.unifinder.close.tooltip            "Lèt att hendingssøk og hendingsliste">
 
-<!ENTITY calendar.today.button.tooltip            "Vis dagen i dag" >
-<!ENTITY calendar.todaypane.button.tooltip        "Vis i dag-visinga" >
+<!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
+<!ENTITY calendar.todaypane.button.tooltip      "Vis i dag-ruta" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
 <!ENTITY calendar.month.button.tooltip          "Byt til månadvising" >
-<!ENTITY calendar.multiweek.button.tooltip      "Byt til vising av fleire veker" >
+<!ENTITY calendar.multiweek.button.tooltip      "Byt til fleirvekevising" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Neste dag" >
-<!ENTITY calendar.prevday.button.tooltip        "Førre dag" >
-<!ENTITY calendar.nextweek.button.tooltip       "Neste veke" >
-<!ENTITY calendar.prevweek.button.tooltip       "Førre veke" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Neste månad" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Førre månad" >
+<!ENTITY calendar.nextday.label                 "Neste dag" >
+<!ENTITY calendar.prevday.label                 "Førre dag" >
+<!ENTITY calendar.nextday.accesskey             "N" >
+<!ENTITY calendar.prevday.accesskey             "F" >
+<!ENTITY calendar.nextweek.label                "Neste veke" >
+<!ENTITY calendar.prevweek.label                "Førre veke" >
+<!ENTITY calendar.nextweek.accesskey            "e" >
+<!ENTITY calendar.prevweek.accesskey            "ø" >
+<!ENTITY calendar.nextmonth.label               "Neste månad" >
+<!ENTITY calendar.prevmonth.label               "Førre månad" >
+<!ENTITY calendar.nextmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.accesskey           "r" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Ein dag fram" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Ein dag tilbake" >
@@ -117,7 +122,7 @@
 <!ENTITY calendar.week.button.label             "Veke" >
 <!ENTITY calendar.month.button.label            "Månad" >
 <!ENTITY calendar.multiweek.button.label        "Fleire veker" >
-<!ENTITY calendar.onlyworkday.checkbox.label    "Berre arbeidsdagar" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Berre arbeidsveke" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "B" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Oppgåver i visinga" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "p" >
@@ -127,7 +132,7 @@
 <!ENTITY calendar.orientation.label "Roter vising" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.search.options.searchfor "inneheld">
+<!ENTITY calendar.search.options.searchfor " inneheld">
 
 <!ENTITY calendar.list.header.label                 "Kalender">
 
@@ -145,7 +150,7 @@
 <!ENTITY calendar.task.filter.completed.label       "Fullførte oppgåver">
 <!ENTITY calendar.task.filter.completed.accesskey   "u">
 <!ENTITY calendar.task.filter.open.label            "Uferdige oppgåver">
-<!ENTITY calendar.task.filter.open.accesskey        "m">
+<!ENTITY calendar.task.filter.open.accesskey        "U">
 
 <!ENTITY calendar.task-details.title.label           "tittel">
 <!ENTITY calendar.task-details.organizer.label       "frå">
@@ -156,6 +161,7 @@
 <!ENTITY calendar.task-details.status.label          "status">
 <!ENTITY calendar.task-details.category.label        "kategori">
 <!ENTITY calendar.task-details.repeat.label          "repeter">
+<!ENTITY calendar.task-details.attachments.label     "vedlegg">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgåver">
 <!ENTITY calendar.task.complete.button.tooltip  "Merk dei valde oppgåvene som fullførte">
@@ -168,13 +174,13 @@
 <!ENTITY calendar.context.modifyorviewitem.label      "Opne">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Opne oppgåve …">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "o">
 <!ENTITY calendar.context.newevent.label              "Ny hending …">
-<!ENTITY calendar.context.newevent.accesskey          "h">
+<!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Ny oppgåve …">
-<!ENTITY calendar.context.newtodo.accesskey           "o">
+<!ENTITY calendar.context.newtodo.accesskey           "y">
 <!ENTITY calendar.context.modifytask.label            "Endre oppgåve …">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
+<!ENTITY calendar.context.modifytask.accesskey        "n">
 <!ENTITY calendar.context.modifyitem.label            "Endre aktivitet">
 <!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Slett oppgåve">
@@ -190,7 +196,7 @@
 <!ENTITY calendar.context.deletefutureevents.label     "Alle framtidige hendingar">
 <!ENTITY calendar.context.deletefutureevents.accesskey "f">
 <!ENTITY calendar.context.deletefuturetasks.label     "Alle framtidige oppgåver">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "f">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "A">
 <!ENTITY calendar.context.cutevent.label              "Klipp ut">
 <!ENTITY calendar.context.cutevent.accesskey          "u">
 <!ENTITY calendar.context.copyevent.label             "Kopier">
@@ -213,19 +219,19 @@
 <!ENTITY calendar.context.markcompleted.label     "Merk som fullført">
 <!ENTITY calendar.context.markcompleted.accesskey "M">
 
-<!ENTITY progress.level.0             "0 &percnt;">
+<!ENTITY progress.level.0             "0 &percnt; fullført">
 <!ENTITY progress.level.0.accesskey   "0">
-<!ENTITY progress.level.25            "25 &percnt;">
+<!ENTITY progress.level.25            "25 &percnt; fullført">
 <!ENTITY progress.level.25.accesskey  "2">
-<!ENTITY progress.level.50            "50 &percnt;">
+<!ENTITY progress.level.50            "50 &percnt; fullført">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "75 &percnt;">
+<!ENTITY progress.level.75            "75 &percnt; fullført">
 <!ENTITY progress.level.75.accesskey  "7">
-<!ENTITY progress.level.100            "100 &percnt;">
+<!ENTITY progress.level.100            "100 &percnt; fullført">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "Ikkje spesifisert">
-<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.none                "Ikkje oppgjeve">
+<!ENTITY priority.level.none.accesskey      "I">
 <!ENTITY priority.level.low                 "Låg">
 <!ENTITY priority.level.low.accesskey       "L">
 <!ENTITY priority.level.normal              "Normal">
@@ -324,15 +330,21 @@
 <!ENTITY calendar.print.title.label "Tittel:">
 <!ENTITY calendar.print.layout.label "Utsjånad:">
 <!ENTITY calendar.print.range.label "Utskriftsområde">
-<!ENTITY calendar.print.currentview.label "Skjermvising">
+<!ENTITY calendar.print.currentView2.label "Aktiv vising">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valde hendingar/oppvgåver">
+<!ENTITY calendar.print.tasks.label "Oppgåver">
+<!ENTITY calendar.print.events.label "Hendingar">
 <!ENTITY calendar.print.selected.label "Valde hendingar">
 <!ENTITY calendar.print.custom.label "Hendingar mellom:">
 <!ENTITY calendar.print.from.label "Frå:">
 <!ENTITY calendar.print.to.label "Til:">
 <!ENTITY calendar.print.settingsGroup.label "Utskriftsoppsett">
+<!ENTITY calendar.print.optionsGroup.label "Innstillingar">
+<!ENTITY calendar.print.taskswithnoduedate.label "Oppgåver utan forfallsdato">
+<!ENTITY calendar.print.completedtasks.label "Fullførde oppgåver">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljar …">
 <!ENTITY calendar.error.code "Feilkode:">
 <!ENTITY calendar.error.description "Skildring:">
-<!ENTITY calendar.error.title "Det har oppstått ein feil">
+<!ENTITY calendar.error.title "Det oppstod ein feil">

@@ -11,11 +11,11 @@
 <!ENTITY featureConfigurator.para.2 "Bruk denne sida for å konfigurere desse nye innstillingene. Du kan også seinare hente fram denne overflyttingsassistenten igjen frå Hjelp-menyen.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Ny verktøylinje">
-<!ENTITY featureConfigurator.toolbar.new.status "Brukar den nye verktøylina.">
+<!ENTITY featureConfigurator.toolbar.new "Verktøylinje for meldingsknappar">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Ei rein verktøylinje med alle meldingsknappane enkelt tilgjengelieg.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Behald opphavleg verktøylinja.">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Behald opphavlege verktøylinjeknappar">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Behald eigendefinerte knappar i tillegg til nye meldingsknappar.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Meldingshandlingar som svar og vidaresend er flytta frå verktøylinja til sjølve meldingshovudet. Dette knyter handlingsknappane direkte til meldinga, og lagar plass til tekstboks for avansert søk i verktøylinja, samt utvidingar.">

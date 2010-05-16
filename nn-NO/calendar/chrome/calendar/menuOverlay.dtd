@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "I dag">
 <!ENTITY goTodayCmd.accesskey                   "I">
 
-<!ENTITY goPreviousCmd.day.label                "Førre dag">
-<!ENTITY goPreviousCmd.week.label               "Førre veke">
-<!ENTITY goPreviousCmd.month.label              "Førre månad">
-<!ENTITY goPreviousCmd.accesskey                "F">
-
-<!ENTITY goNextCmd.day.label                    "Neste dag">
-<!ENTITY goNextCmd.week.label                   "Neste veke">
-<!ENTITY goNextCmd.month.label                  "Neste månad">
-<!ENTITY goNextCmd.all.accesskey                "N">
-
 <!ENTITY showCurrentView.label                  "Aktiv vising">
 <!ENTITY showCurrentView.accesskey              "v">
 

@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Heildagshending">
 <!ENTITY calendar.invitations.list.location.text                        "Stad: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organisert av:">
+<!ENTITY calendar.invitations.list.attendee.text                        "Deltakar: ">
 <!ENTITY calendar.invitations.list.none.text                            "Ingen">
