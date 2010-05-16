@@ -58,7 +58,7 @@
 'Slovníky nájdete v sekcii
 <a id="dictURL" href="">Slovníky</a> na serveri
 <a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
-<!ENTITY info.title "Viac informácií">
+<!ENTITY info.title "Ďalšie informácie">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
 '<a href="http://www.mozilla.org/mailnews/">Radi uvítame vaše hlásenia chýb a žiadosti o nové funkcie</a>, ale predtým si prečítajte <a id="releaseNotesURL" href="">poznámky k vydaniu</a> a zadajte požiadavku do systému

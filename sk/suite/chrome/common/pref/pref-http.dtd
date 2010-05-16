@@ -15,5 +15,5 @@
 <!ENTITY prefEnablePipelining.label          "Povoliť Pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "v">
 <!ENTITY prefEnablePipeliningProxy.accesskey "e">
-<!ENTITY prefPara                            "Nastavenia spojení HTTP môžu byť zmenené pomocou týchto volieb a tým môže byť zvýšená rýchlosť alebo kompatibilita. Napríklad niektoré servery proxy vyžadujú HTTP/1.0 (viac informácií v poznámkach k vydaniu).">
+<!ENTITY prefPara                            "Nastavenia spojení HTTP môžu byť zmenené pomocou týchto volieb a tým môže byť zvýšená rýchlosť alebo kompatibilita. Napríklad niektoré servery proxy vyžadujú HTTP/1.0 (ďalšie informácie nájdete v poznámkach k vydaniu).">
 <!ENTITY prefPipeWarning                     "UPOZORNENIE: pipelining je experimentálna funkcia navrhnutá na zlepšenie výkonu pri načítavaní stránok, nanešťastie nie je podporovaná niektorými webovými servermi a servermi proxy.">

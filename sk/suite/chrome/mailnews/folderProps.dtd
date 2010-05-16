@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey "a">
 <!ENTITY folderCharsetOverride.label "Použiť pre všetky správy v priečinku (ignorovať kódovanie definované v správe)">
 <!ENTITY folderCharsetOverride.accesskey "P">
-<!ENTITY folderRebuildSummaryFile.label          "Preindexovať">
-<!ENTITY folderRebuildSummaryFile.accesskey      "x">
-<!ENTITY folderRebuildSummaryFileTip.label       "Vytvorí nový indexový súbor">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Vytvorí nový indexový súbor">
+<!ENTITY folderRebuildSummaryFile2.label         "Opraviť priečinok">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "O">
+<!ENTITY folderRebuildSummaryFile.explanation    "Indexový súbor priečinka (.msf) sa môže poškodiť, čo spôsobí, že niektoré správy sa nezobrazujú alebo už odstránené správy sú stále zobrazované. Opravením indexu priečinka tieto problémy odstránite.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Správy v tomto priečinku zahrnúť do výsledkov globálneho vyhľadávania">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "z">
 
 <!ENTITY retention.label "Pravidlá manipulácie so správami">
 <!ENTITY retentionUseAccount.label "Použiť nastavenia účtu">
@@ -64,13 +67,13 @@
 <!ENTITY retentionKeepRecent.label "Najnovšie">
 <!ENTITY retentionKeepRecent.accesskey "N">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Vždy odstrániť prečítané správy (nezávislo na dobe od prijatia správy)">
+<!ENTITY retentionKeepUnreadHidden.label "Vždy odstrániť prečítané správy (nezávisle na dobe od prijatia správy)">
 <!ENTITY retentionApplyToFlagged.label "Vždy ponechať správy označené vlajkou">
 <!ENTITY retentionApplyToFlagged.accesskey "a">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronizácia">
-<!ENTITY folderCheckForNewMessages.label "Kontrolovať, či tento priečinok neobsahuje nové správy">
-<!ENTITY folderCheckForNewMessages.accesskey "K">
+<!ENTITY folderCheckForNewMessages2.label       "Pri získavaní nových správ pre tento účet vždy kontrolovať aj tento priečinok">
+<!ENTITY folderCheckForNewMessages2.accesskey   "k">
 
 <!ENTITY offlineFolder.check.label "Používať tento priečinok offline">
 <!ENTITY offlineFolder.check.accesskey "u">

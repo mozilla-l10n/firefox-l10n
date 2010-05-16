@@ -608,3 +608,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; si myslí, že táto správa je podozrivá.">
 <!ENTITY removePhishingBarButton.label "Dôveryhodná">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Odosielateľ žiada potvrdenie o prečítaní tejto správy. Chcete toto potvrdenie odoslať?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorovať žiadosť">
+<!ENTITY mdnBarSendButton.label "Odoslať potvrdenie">

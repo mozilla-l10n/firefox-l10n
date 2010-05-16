@@ -23,7 +23,7 @@
 <!ENTITY  incompatibleCheck.title         "Kontrola kompatibility doplnkov">
 <!ENTITY  incompatibleCheck.label         "Vyhľadávajú sa nové verzie vašich doplnkov…">
 
-<!ENTITY  clickHere.label                 "Zobraziť viac informácií o tejto aktualizácii">
+<!ENTITY  clickHere.label                 "Zobraziť ďalšie informácie o tejto aktualizácii">
 
 <!ENTITY  evangelism.desc                 "Dôrazne odporúčame čo najskôr použiť túto aktualizáciu
                                            aplikácie &brandShortName;.">

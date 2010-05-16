@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins "Vstavané bezp. autority">
 <!ENTITY certmgr.ca.mycas "Bezp. autority spravované vami">
 
-<!ENTITY certmgr.mine.search                  "Hľadať:">
-<!ENTITY certmgr.others.search                "Hľadať:">
-<!ENTITY certmgr.websites.search              "Hľadať:">
-<!ENTITY certmgr.cas.search                   "Hľadať:">
-<!ENTITY certmgr.orphans.search               "Hľadať:">
-
-<!ENTITY certmgr.mine.description             "Na svoju identifikáciu máte uložené certifikáty od týchto organizácií:">
-<!ENTITY certmgr.others.description           "Máte uložené certifikáty, ktoré identifikujú týchto ľudí:">
-<!ENTITY certmgr.websites.description         "Máte uložené certifikáty, ktoré identifikujú tieto servery:">
-<!ENTITY certmgr.cas.description              "Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority:">
-<!ENTITY certmgr.orphans.description          "Máte uložené certifikáty, ktoré nepatria do žiadnej z ďalších kategórií:">
-
-<!ENTITY certmgr.mine.filtered                "Nájdené certifikáty pre vašu identifikáciu:">
-<!ENTITY certmgr.others.filtered              "Nájdené uložené certifikáty, ktoré identifikujú týchto ľudí:">
-<!ENTITY certmgr.websites.filtered            "Nájdené uložené certifikáty, ktoré identifikujú tieto servery:">
-<!ENTITY certmgr.cas.filtered                 "Nájdené uložené certifikáty, ktoré identifikujú tieto certifikačné autority:">
-<!ENTITY certmgr.orphans.filtered             "Nájdené uložené certifikáty, ktoré nepatria do žiadnej z ďalších kategórií:">
+<!ENTITY certmgr.mine "Máte certifikáty od týchto organizácií, ktoré vás identifikujú:">
+<!ENTITY certmgr.others "Máte uložené certifikáty, ktoré identifikujú týchto ľudí:">
+<!ENTITY certmgr.websites2 "Máte uložené certifikáty, ktoré identifikujú tieto servery:">
+<!ENTITY certmgr.cas "Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority:">
+<!ENTITY certmgr.orphans  "Máte uložené certifikáty, ktoré nepatria do žiadnej z ďalších kategórií:">
 
 <!ENTITY certmgr.detail.general_tab.title "Všeobecné">
 <!ENTITY certmgr.detail.general_tab.accesskey "V">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label "Zobraziť…">
 <!ENTITY certmgr.view2.accesskey               "o">
-<!ENTITY certmgr.edit2.label "Upraviť…">
-<!ENTITY certmgr.edit2.accesskey               "U">
+<!ENTITY certmgr.edit3.label                  "Upraviť dôveryhodnosť…">
+<!ENTITY certmgr.edit3.accesskey              "U">
 <!ENTITY certmgr.editca.label "Upraviť dôveryhodnosť CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label "Pridať">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label "Odstrániť…">
 <!ENTITY certmgr.delete2.accesskey             "d">
+<!ENTITY certmgr.delete_builtin.label         "Odstrániť alebo prestať dôverovať…">
+<!ENTITY certmgr.delete_builtin.accesskey     "d">
 <!ENTITY certmgr.backup2.label "Zálohovať…">
 <!ENTITY certmgr.backup2.accesskey             "a">
 <!ENTITY certmgr.backupall2.label "Zálohovať všetky…">

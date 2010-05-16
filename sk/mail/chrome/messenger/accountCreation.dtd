@@ -69,10 +69,10 @@
 <!ENTITY changeSettings.label            "Zmeniť nastavenia">
 <!ENTITY changeSettings.accesskey        "e">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vám môže umožniť získať vaše e-mailové správy použitím poskytnutej konfigurácie. Avšak mali by ste kontaktovať vášho poskytovateľa e-mailovej schránky alebo správcu systému a požiadať ho o údaje k neplatným pripojeniam. Viac informácii nájdete na stránke Thunderbird - Často kladené otázky.">
+<!ENTITY contactYourProvider.description "&brandShortName; vám môže umožniť získať vaše e-mailové správy použitím poskytnutej konfigurácie. Avšak mali by ste kontaktovať vášho poskytovateľa e-mailovej schránky alebo správcu systému a požiadať ho o údaje k neplatným pripojeniam. Ďalšie informácie nájdete na stránke Thunderbird - Často kladené otázky.">
 
 <!ENTITY insecureServer.tooltip.title    "Upozornenie! Toto je nezabezpečený server.">
-<!ENTITY insecureServer.tooltip.details  "Viac informácií získate po kliknutí na krúžok.">
+<!ENTITY insecureServer.tooltip.details  "Ďalšie informácie získate po kliknutí na krúžok.">
 
 <!ENTITY insecureUnencrypted.description "Vaša e-mailová adresa a prihlasovacie údaje sú odosielané nezašifrované, takže heslo (a vaša správa) môžu byť jednoducho prečítané inými ľuďmi. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia k poštovému serveru.">
 <!ENTITY insecureSelfSigned.description  "Server používa certifikát, ktorému nemôžeme dôverovať, takže nemôžeme zaručiť, že niekto nesleduje údaje posielané medzi &brandShortName;om a serverom. &brandShortName; vám umožní získať vaše e-mailové správy, ale mali by ste vášho poskytovateľa požiadať o zriadenie zabezpečeného pripojenia s platným certifikátom poštového servera.">

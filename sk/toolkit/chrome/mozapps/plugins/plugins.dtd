@@ -17,7 +17,7 @@
 
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; dokončil inštaláciu chýbajúcich zásuvných modulov:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Získať viac informácií o zásuvných moduloch alebo ich nainštalovať ručne.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Získať ďalšie informácie o zásuvných moduloch alebo ich nainštalovať ručne.">
 <!ENTITY pluginWizard.finalPage.restart.label "Na dokončenie inštalácie zásuvného modulu je potrebné &brandShortName; reštartovať.">
 
 <!ENTITY missingPlugin.label                                 "Kliknutím sem prevezmete zásuvný modul.">

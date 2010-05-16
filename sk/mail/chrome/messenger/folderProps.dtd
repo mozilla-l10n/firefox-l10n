@@ -67,7 +67,7 @@
 <!ENTITY retentionKeepRecent.label              "Odstrániť všetky okrem najnovších">
 <!ENTITY retentionKeepRecent.accesskey          "d">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label        "Vždy odstrániť prečítané správy (nezávislo na dobe od prijatia správy)">
+<!ENTITY retentionKeepUnreadHidden.label        "Vždy odstrániť prečítané správy (nezávisle na dobe od prijatia správy)">
 <!ENTITY retentionApplyToFlagged.label          "Vždy ponechať správy označené hviezdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey      "h">
 

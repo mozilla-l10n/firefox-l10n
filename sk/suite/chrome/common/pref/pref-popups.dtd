@@ -29,5 +29,5 @@
 <!ENTITY displayNotification.label      "Zobraziť notifikačný panel nad horným okrajom stránky">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Poznámka: Blokovanie všetkých vyskakovacích okien môže zabrániť správnej funkčnosti niektorých webových stránok, ako napr. prihlasovacie obrazovky bánk alebo obchodných centier. Viac informácií o spôsobe, ako povoliť zobrazovanie vyskakovacích okien pre určité stránky a zároveň blokovať okná z ostatných stránok, sa dozviete po kliknutí na tlačidlo Pomocník. Aj po zablokovaní však môžu stránky použiť iné metódy na zobrazovanie vyskakovacích okien.">
+<!ENTITY popupNote.description          "Poznámka: Blokovanie všetkých vyskakovacích okien môže zabrániť správnej funkčnosti niektorých webových stránok, ako napr. prihlasovacie obrazovky bánk alebo obchodných centier. Ďalšie informácie o spôsobe, ako povoliť zobrazovanie vyskakovacích okien pre určité stránky a zároveň blokovať okná z ostatných stránok, sa dozviete po kliknutí na tlačidlo Pomocník. Aj po zablokovaní však môžu stránky použiť iné metódy na zobrazovanie vyskakovacích okien.">
 
