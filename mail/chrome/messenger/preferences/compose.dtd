@@ -20,7 +20,7 @@
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 <!ENTITY spellCheck.label "Comprobar la ortografía antes de enviar">
 <!ENTITY spellCheck.accesskey "C">
-<!ENTITY spellCheckInline.label "Activar corrección ortogr. al escribir">
+<!ENTITY spellCheckInline.label "Activar corrección ortográfica al escribir">
 <!ENTITY spellCheckInline1.accesskey "v">
 <!ENTITY languagePopup.label "Idioma:">
 <!ENTITY languagePopup.accessKey "I">
