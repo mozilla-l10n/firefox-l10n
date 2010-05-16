@@ -1,4 +1,4 @@
-<!ENTITY addons.title                         "Add-onbeheerder">
+<!ENTITY addons.windowTitle                   "Add-onbeheerder">
 <!ENTITY search.placeholder                   "Alle add-ons doorzoeken">
 <!ENTITY loading.label                        "Laden…">
 <!ENTITY listEmpty.installed.label            "U heeft geen add-ons van dit type geïnstalleerd">
@@ -33,15 +33,15 @@
 <!ENTITY cmd.about.label                      "Over">
 <!ENTITY cmd.about.accesskey                  "O">
 
-<!ENTITY cmd.enable.label                     "Inschakelen">
-<!ENTITY cmd.enable.accesskey                 "I">
-<!ENTITY cmd.enable.tooltip                   "Deze add-on inschakelen">
-<!ENTITY cmd.disable.label                    "Uitschakelen">
-<!ENTITY cmd.disable.accesskey                "U">
-<!ENTITY cmd.disable.tooltip                  "Deze add-on uitschakelen">
-<!ENTITY cmd.uninstall.label                  "Verwijderen">
-<!ENTITY cmd.uninstall.accesskey              "V">
-<!ENTITY cmd.uninstall.tooltip                "Deze add-on de-installeren">
+<!ENTITY cmd.enableAddon.label                "Inschakelen">
+<!ENTITY cmd.enableAddon.accesskey            "I">
+<!ENTITY cmd.enableAddon.tooltip              "Deze add-on inschakelen">
+<!ENTITY cmd.disableAddon.label               "Uitschakelen">
+<!ENTITY cmd.disableAddon.accesskey           "U">
+<!ENTITY cmd.disableAddon.tooltip             "Deze add-on uitschakelen">
+<!ENTITY cmd.uninstallAddon.label             "Verwijderen">
+<!ENTITY cmd.uninstallAddon.accesskey         "V">
+<!ENTITY cmd.uninstallAddon.tooltip           "Deze add-on de-installeren">
 <!ENTITY cmd.contribute.label                 "Bijdragen">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Draag bij aan de ontwikkeling van deze add-on">
