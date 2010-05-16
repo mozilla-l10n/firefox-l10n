@@ -49,7 +49,7 @@
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setWallpaperCmd.label "Poner como fondo de escritorio">
-<!ENTITY setWallpaperCmd.accesskey "e">
+<!ENTITY setWallpaperCmd.accesskey "P">
 <!ENTITY bookmarkPageCmd.label "Añadir esta página a marcadores">
 <!ENTITY bookmarkPageCmd.accesskey "m">
 <!ENTITY bookmarkLinkCmd.label "Añadir enlace a marcadores">
@@ -80,7 +80,7 @@
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "e">
 <!ENTITY copyImageCmd.label "Copiar imagen">
-<!ENTITY copyImageCmd.accesskey "I">
+<!ENTITY copyImageCmd.accesskey "a">
 <!ENTITY copyVideoURLCmd.label "Copiar dirección del vídeo">
 <!ENTITY copyVideoURLCmd.accesskey "e">
 <!ENTITY copyAudioURLCmd.label "Copiar dirección del audio">
