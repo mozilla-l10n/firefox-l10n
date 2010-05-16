@@ -27,7 +27,6 @@
    -                 Philipp Kewisch <mozilla@kewis.ch>
    -                 Simon Paquet <bugzilla@babylonsounds.com>
    -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -79,14 +78,6 @@
 <!ENTITY calendar.menu.numberofweeks.6 "Seis semanas">
 <!ENTITY goTodayCmd.label "Ir a hoy">
 <!ENTITY goTodayCmd.accesskey "h">
-<!ENTITY goPreviousCmd.day.label "Día anterior">
-<!ENTITY goPreviousCmd.week.label "Semana anterior">
-<!ENTITY goPreviousCmd.month.label "Mes anterior">
-<!ENTITY goPreviousCmd.accesskey "A">
-<!ENTITY goNextCmd.day.label "Día siguiente">
-<!ENTITY goNextCmd.week.label "Semana siguiente">
-<!ENTITY goNextCmd.month.label "Mes siguiente">
-<!ENTITY goNextCmd.all.accesskey "e">
 <!ENTITY showCurrentView.label "Vista actual">
 <!ENTITY showCurrentView.accesskey "V">
 <!ENTITY calendar.properties.label "Propiedades del calendario…">

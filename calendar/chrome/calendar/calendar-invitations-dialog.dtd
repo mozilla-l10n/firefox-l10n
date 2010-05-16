@@ -19,7 +19,6 @@
    -
    - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
    -   
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,4 +43,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text "Evento de día completo">
 <!ENTITY calendar.invitations.list.location.text "Lugar: ">
 <!ENTITY calendar.invitations.list.organizer.text "Organizador: ">
+<!ENTITY calendar.invitations.list.attendee.text "Asistente:">
 <!ENTITY calendar.invitations.list.none.text "Ninguno">
