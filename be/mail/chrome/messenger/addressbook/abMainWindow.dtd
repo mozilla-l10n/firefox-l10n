@@ -62,7 +62,7 @@
 <!ENTITY selectAllCmd.accesskey "у">
 <!ENTITY swapFirstNameLastNameCmd.label "Абменяць імя/прозвішча">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "м">
-<!ENTITY hideSwapFnLnUI "сапраўдны">
+<!ENTITY hideSwapFnLnUI "false">
 <!ENTITY propertiesCmd.label "Уласцівасці…">
 <!ENTITY propertiesCmd.accesskey "і">
 <!ENTITY propertiesCmd.key "i">
