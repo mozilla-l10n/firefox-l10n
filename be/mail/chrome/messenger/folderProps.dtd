@@ -48,7 +48,7 @@
 <!ENTITY folderRebuildSummaryFile2.label "Выправіць папку">
 <!ENTITY folderRebuildSummaryFile2.accesskey "В">
 <!ENTITY folderRebuildSummaryFile.explanation "Часам паказальнік папкі (.msf) псуецца і адсутныя або выдаленыя лісты працягваюцца паказвацца; выпраўленне папкі можа пазбавіцца такіх заганаў.">
-<!ENTITY folderIncludeInGlobalSearch.label "Уключыць лісты з гэтай папкі ў вынікі ўсеагульнага пошуку.">
+<!ENTITY folderIncludeInGlobalSearch.label "Уключыць лісты з гэтай папкі ў вынікі ўсеагульнага пошуку">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "ў">
 <!ENTITY retention.label "Палітыка ўтрымання">
 <!ENTITY retentionUseAccount.label "Ужываць наладжванні майго рахунку">
@@ -68,7 +68,7 @@
 <!ENTITY retentionApplyToFlagged.label "Заўсёды захоўваць лісты з зоркамі">
 <!ENTITY retentionApplyToFlagged.accesskey "ў">
 <!ENTITY folderSynchronizationTab.label "Сінхранізацыя">
-<!ENTITY folderCheckForNewMessages2.label "Калі атрымліваюцца лісты для гэтга рахунку, заўсёды правяраць гэтую папку.">
+<!ENTITY folderCheckForNewMessages2.label "Калі атрымліваюцца лісты для гэтага рахунку, заўсёды правяраць гэтую папку">
 <!ENTITY folderCheckForNewMessages2.accesskey "п">
 <!ENTITY offlineFolder.check.label "Вылучыць гэтую папку для карыстання па-за сеткай">
 <!ENTITY offlineFolder.check.accesskey "в">
