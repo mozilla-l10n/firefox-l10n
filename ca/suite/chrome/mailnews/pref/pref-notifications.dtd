@@ -49,7 +49,7 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Anima la icona acoblada">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label "Visualització prèvia">
+<!ENTITY preview.label "Previsualització">
 <!ENTITY preview.accesskey "a">
 <!ENTITY systemsound.label                "So «correu nou» del sistema">
 <!ENTITY systemsound.accesskey "S">
