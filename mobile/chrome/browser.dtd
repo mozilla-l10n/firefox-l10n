@@ -38,7 +38,7 @@
 <!ENTITY addonsSearch.recommended "Раіцца">
 <!ENTITY addonOptions.label "Наладжванні">
 <!ENTITY addonEnable.label "Дазволіць">
-<!ENTITY addonDisable.label "Забараніць">
+<!ENTITY addonDisable.label "Забаронены">
 <!ENTITY addonInstall2.label "Дадаць да &brandShortName;">
 <!ENTITY addonUninstall.label "Высталяваць">
 <!ENTITY addonCancel.label "Скасаваць">

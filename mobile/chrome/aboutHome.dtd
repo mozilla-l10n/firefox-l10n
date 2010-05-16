@@ -4,3 +4,5 @@
 <!ENTITY aboutHome.recommendedAddons2 "Дадаткі для вашага &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla "Пра Mozilla">
 <!ENTITY aboutHome.openAllTabs "Адкрыць усе ў устаўках">
+<!ENTITY aboutHome.noTabs "Няма адчыненых раней уставак">
+<!ENTITY aboutHome.noAddons "Няма параеных дадаткаў">

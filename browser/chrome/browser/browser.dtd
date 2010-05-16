@@ -128,6 +128,9 @@
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY inspectMenu.label "Даследаваць">
+<!ENTITY inspectMenu.accesskey "Д">
+<!ENTITY inspectMenu.commandkey "I">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newNavigatorCmd.label "Новае акно">
@@ -367,3 +370,4 @@
 <!ENTITY identity.moreInfoLinkText "Падрабязнасці…">
 <!ENTITY downloadMonitor2.tooltip "Пстрыкніце, каб адкрыць акно загрузак">
 <!ENTITY allTabs.filter.emptyText "Пошук уставак">
+<!ENTITY tabsToolbar.label "Устаўкі азіральніка">

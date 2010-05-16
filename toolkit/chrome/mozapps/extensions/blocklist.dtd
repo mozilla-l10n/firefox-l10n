@@ -7,3 +7,5 @@
 <!ENTITY blocklist.moreinfo "Падрабязней">
 <!ENTITY blocklist.accept.label "Перазапусціць &brandShortName;">
 <!ENTITY blocklist.accept.accesskey "з">
+<!ENTITY blocklist.blocked.label "Заблакаваны">
+<!ENTITY blocklist.checkbox.label "Забаронены">

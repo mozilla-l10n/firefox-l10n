@@ -3,9 +3,9 @@
 <!ENTITY featureConfigurator.para.1 "Новая версія &brandShortName; уключае новыя магутныя асаблівасці, якія мы вельмі ганарымся і спадзяёмся, што большасць карыстальнікаў палюбіць іх. Людзі маюць розныя схільнасці, таму мы зрабілі лёгкім кіраванне і ўладкаванне &brandShortName;.">
 <!ENTITY featureConfigurator.para.2 "Карыстайцеся гэтай старонкай, каб змяняць гэтыя новыя наладжванні. Вы заўсёды можаце адкрыць Памочнік міграцыі ізноў у меню Даведка.">
 <!ENTITY featureConfigurator.toolbar.heading "Новая прыладапаліца лістоў">
-<!ENTITY featureConfigurator.toolbar.new.status "Новая прыладапаліца кнопак для лістоў">
+<!ENTITY featureConfigurator.toolbar.new "Прыладапаліца кнопак ліста">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Лёгкая прыладапаліца з усімі кнопкамі кіравання лістамі пад рукамі.">
-<!ENTITY featureConfigurator.toolbar.original.status "Захаваць вашы даўнія кнопкі на прыладапаліцы.">
+<!ENTITY featureConfigurator.toolbar.original "Захаваць вашы існыя кнопкі на прыладапаліцы">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Захаваць усе змененыя кнопкі прыладапаліцы ў дадатак да новых кнопак кіравання лістамі.">
 <!ENTITY featureConfigurator.toolbarBenefits.para 'Кнопкі кіравання лістамі, такія як "Адказаць", "Накіраваць" перанесеныя з прыладапаліцы ў загаловак ліста. Гэта прывязвае дзеянні кнопак наўпрост да ліста і пакідае больш месца на прыладапаліцы для больш багатай скрынкі пошуку і для дадаткаў.'>
 <!ENTITY featureConfigurator.addOn.installing "Усталяванне…">

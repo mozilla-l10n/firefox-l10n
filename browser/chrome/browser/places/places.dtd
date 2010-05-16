@@ -11,8 +11,6 @@
 <!ENTITY edit.accesskey "П">
 <!ENTITY views.label "Выгляд">
 <!ENTITY views.accesskey "В">
-<!ENTITY view.toolbar.label "Прыладапаліца">
-<!ENTITY view.toolbar.accesskey "р">
 <!ENTITY view.columns.label "Паказаць слупкі">
 <!ENTITY view.columns.accesskey "с">
 <!ENTITY view.sort.label "Размеркаваць">
@@ -37,26 +35,6 @@
 <!ENTITY cmd.restore2.accesskey "н">
 <!ENTITY cmd.restoreFromFile.label "Выбраць файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "В">
-<!ENTITY cmd.select_all.label "Вылучыць усё">
-<!ENTITY cmd.select_all.accesskey "у">
-<!ENTITY cmd.select_all.key "a">
-<!ENTITY cmd.edit_cut.label "Выразаць">
-<!ENTITY cmd.edit_cut.accesskey "В">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Капіяваць">
-<!ENTITY cmd.edit_copy.accesskey "К">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Уставіць">
-<!ENTITY cmd.edit_paste.accesskey "У">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Выдаліць">
-<!ENTITY cmd.edit_delete.accesskey "В">
-<!ENTITY cmd.edit_undo.label "Адмяніць">
-<!ENTITY cmd.edit_undo.accesskey "А">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Вярнуць">
-<!ENTITY cmd.edit_redo.accesskey "В">
-<!ENTITY cmd.edit_redo.key "y">
 <!ENTITY cmd.bookmarkLink.label "Закласці гэтую старонку…">
 <!ENTITY cmd.bookmarkLink.accesskey "З">
 <!ENTITY cmd.delete.label "Выдаліць гэтую старонку">
@@ -73,15 +51,11 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey "у">
 <!ENTITY cmd.properties.label "Уласцівасці">
 <!ENTITY cmd.properties.accesskey "У">
-<!ENTITY cmd.rename.label "Перайменаваць">
-<!ENTITY cmd.rename.accesskey "П">
 <!ENTITY cmd.sortby_name.label "Размеркаваць па назве">
 <!ENTITY cmd.sortby_name.accesskey "н">
 <!ENTITY cmd.context_sortby_name.accesskey "н">
 <!ENTITY cmd.new_bookmark.label "Новая закладка…">
 <!ENTITY cmd.new_bookmark.accesskey "Н">
-<!ENTITY cmd.new_livemark.label "Новая жывая закладка…">
-<!ENTITY cmd.new_livemark.accesskey "ж">
 <!ENTITY cmd.new_folder.label "Новая папка…">
 <!ENTITY cmd.new_folder.accesskey "Н">
 <!ENTITY cmd.context_new_folder.accesskey "п">
@@ -115,8 +89,6 @@
 <!ENTITY saveSearch.label "Захаваць">
 <!ENTITY saveSearch.accesskey "З">
 <!ENTITY cmd.find.key "f">
-<!ENTITY feed.subscribe.label "Жывільнік">
-<!ENTITY feed.subscribe.tooltip "Падпісацца">
 <!ENTITY maintenance.label "Імпарт і адноўка">
 <!ENTITY maintenance.accesskey "І">
 <!ENTITY backCmd.label "Назад">
