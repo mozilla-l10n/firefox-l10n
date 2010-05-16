@@ -18,17 +18,15 @@
   <li>Undersøg adressen for tastefejl, såsom
     <strong>ww</strong>.eksempel.dk i stedet for
     <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da 
-     din computers netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da for 
-     at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
+  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "Fil ikke fundet">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Undersøg filnavnet for store/små bogstaver eller andre stavefejl.</li>
+  <li>Undersøg filnavnet for store bogstaver eller andre tastefejl.</li>
   <li>Undersøg om filen er blevet flyttet, omdøbt eller slettet</li>
 </ul>
 ">
@@ -36,7 +34,7 @@
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kunne, af en eller anden grund, ikke indlæse denne side.</p>
+<p>&brandShortName; kan ikke indlæse denne side, af en eller anden grund.</p>
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
@@ -64,7 +62,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
-<!ENTITY contentEncodingError.title "Tegnkodningsfejl">
+<!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
@@ -119,16 +117,16 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Undersøg om dit system har den personlige sikkerhedsmanager installeret.</li>
-  <li>Dette kan skyldes en ikke-standardiseret indstilling af serveren.</li>
+  <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagene data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt venligst ejeren af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Dette kan være et problem med serverens konfiguration eller det kunne betyde at nogen forsøger at give sig ud for at være serveren.</li>
+<li>Dette kan være et problem med serverens konfiguration eller det kan betyde at nogen forsøger at give sig ud for at være serveren.</li>
 <li>Hvis du har kunne tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
 </ul>
 ">
@@ -150,11 +148,11 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>
-<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
+<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkeret grundet indholdssikkerhedshedspolitik">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">

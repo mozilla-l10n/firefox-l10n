@@ -1,12 +1,12 @@
 <!ENTITY firstrun.title                "Velkommen til &brandShortName;">
-<!ENTITY firstrun.heading              "For at hjælpe dig med at komme i gang er her nogle af de mest populære funktioner og tilføjelser som hjælper dig til at få det meste ud af  &brandShortName;.">
+<!ENTITY firstrun.heading              "For at hjælpe dig med at komme i gang, er her nogle af de mest populære funktioner og tilføjelser, som hjælper dig til at få det meste ud af &brandShortName;.">
 <!ENTITY firstrun.recommended          "Anbefalet:">
-<!ENTITY firstrun.weave.title          "Hent Weave Sync tilføjelsen">
+<!ENTITY firstrun.weave.title          "Hent tilføjelsen Weave Sync">
 <!ENTITY firstrun.weave.description    "Synkroniser &brandShortName; historik, adgangskoder, bogmærker &amp; faneblade mellem din hjemmecomputer &amp; mobil">
-<!ENTITY firstrun.starter.title        "Hent Starter Kit samlingen">
-<!ENTITY firstrun.starter.description  "Installer disse tilføjelser for at forbedre din &brandShortName; oplevelse">
+<!ENTITY firstrun.starter.title        "Hent Starter Kit-samlingen">
+<!ENTITY firstrun.starter.description  "Installer disse tilføjelser for at forbedre din oplevelse med &brandShortName;">
 <!ENTITY firstrun.tour.title           "Tag en rundvisning">
-<!ENTITY firstrun.tour.description     "Med dette klip kan du lære, hvordan du navigerer rundt og kan finde smarte funktioner">
+<!ENTITY firstrun.tour.description     "Med dette klip kan du lære, hvordan du navigerer rundt og finder smarte funktioner">
 <!ENTITY firstrun.features             "Se flere funktioner">
 <!ENTITY firstrun.faq                  "Ofte stillede spørgsmål">
 <!ENTITY firstrun.privacy              "Privatlivspolitik">
