@@ -46,7 +46,7 @@
 
 <!-- intro paragraph for branded builds -->
 <!-- XXX Edited this section to remove the specific reference to Firefox UI (see bug 514817) -->
-<!ENTITY rights.webservices-a "&brandFullName; brukar nettsideinformasjonstenester (&quot;Services&quot;), slik som tenesta SafeBrowsing, som er tilgjengeleg for bruk saman med denne binære versjonen av &brandShortName; som skildra nedanfor. Om du ikkje ønskjer å bruke tenestene eller vilkåra nedanfor ikkje høver, kan du slå av tenesta SafeBrowsing i Instillingar.">
+<!ENTITY rights.webservices-a "&brandFullName; brukar nettsideinformasjonstenester (&quot;Services&quot;), slik som tenesta SafeBrowsing, som er tilgjengeleg for bruk saman med denne binære versjonen av &brandShortName; som skildra nedanfor. Om du ikkje ønskjer å bruke tenestene eller vilkåra nedanfor ikkje høver, kan du slå av tenesta SafeBrowsing i Innstillingar.">
 <!ENTITY rights.webservices-b "">
 <!ENTITY rights.webservices-c "">
 

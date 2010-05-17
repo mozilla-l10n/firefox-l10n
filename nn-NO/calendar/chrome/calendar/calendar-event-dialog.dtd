@@ -364,7 +364,7 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Avventande" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Ikkje på kontoret" >
 <!ENTITY event.freebusy.legend.unknown          "Ingen informasjon" >
-<!ENTITY event.attendee.role.required           "Deltaking oblegatorisk">
+<!ENTITY event.attendee.role.required           "Deltaking obligatorisk">
 <!ENTITY event.attendee.role.optional           "Deltaking valfritt">
 <!ENTITY event.attendee.role.chair              "Leiar">
 <!ENTITY event.attendee.role.nonparticipant     "Deltek ikkje">
