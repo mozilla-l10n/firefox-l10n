@@ -35,7 +35,7 @@
 <!ENTITY startOver.label       "Od początku">
 <!ENTITY startOver.accesskey   "O">
 <!ENTITY stop.label            "Zatrzymaj">
-<!ENTITY stop.accesskey        "Z">
+<!ENTITY stop.accesskey        "m">
 
 <!ENTITY retest.label     "Testuj konfigurację ponownie">
 <!ENTITY retest.accesskey "T">

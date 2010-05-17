@@ -24,7 +24,7 @@
 <!ENTITY headersOnly.label                "Pobieraj tylko nagłówki wiadomości">
 <!ENTITY headersOnly.accesskey            "e">
 <!ENTITY deleteByAgeFromServer.label      "Przez">
-<!ENTITY deleteByAgeFromServer.accesskey  "z">
+<!ENTITY deleteByAgeFromServer.accesskey  "r">
 <!ENTITY daysEnd.label                    "dni">
 <!ENTITY deleteOnServer2.label            "Dopóki wiadomość nie zostanie usunięta">
 <!ENTITY deleteOnServer2.accesskey        "D">
