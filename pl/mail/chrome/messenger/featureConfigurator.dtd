@@ -4,9 +4,9 @@
 <!ENTITY featureConfigurator.para.2   "Dzięki tej stronie można w łatwy sposób skonfigurować nowe funkcje. W dowolnej chwili można też otworzyć tę stronę z poziomu menu Pomoc.">
 
 <!ENTITY featureConfigurator.toolbar.heading                     "Nowy pasek narzędzi">
-<!ENTITY featureConfigurator.toolbar.new.status                  "Pasek narzędzi wiadomości">
+<!ENTITY featureConfigurator.toolbar.new                         "Pasek narzędzi wiadomości">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation      "Nowy pasek narzędzi zarządzania wiadomościami ze wszystkimi niezbędnymi przyciskami pod ręką.">
-<!ENTITY featureConfigurator.toolbar.original.status             "Dotychczasowy pasek narzędzi">
+<!ENTITY featureConfigurator.toolbar.original                    "Dotychczasowy pasek narzędzi">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Zachowaj dotychczasowe przyciski paska narzędzi poczty obok nowego paska narzędzi wiadomości.">
 <!ENTITY featureConfigurator.toolbarBenefits.para                "Przyciski czynności dotyczących wiadomości, takich jak odpowiadanie i przekazywanie, mogą zostać przeniesione z paska narzędzi poczty do nagłówka wiadomości. Wybór tej możliwości pozostawi więcej miejsca na pasku narzędzi poczty na większe pole wyszukiwania i dodatkowe przyciski.">
 
