@@ -8,7 +8,7 @@
 <!ENTITY featureConfigurator.toolbar.new.status.explanation      "Nowy pasek narzędzi zarządzania wiadomościami ze wszystkimi niezbędnymi przyciskami pod ręką.">
 <!ENTITY featureConfigurator.toolbar.original                    "Dotychczasowy pasek narzędzi">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Zachowaj dotychczasowe przyciski paska narzędzi poczty obok nowego paska narzędzi wiadomości.">
-<!ENTITY featureConfigurator.toolbarBenefits.para                "Przyciski czynności dotyczących wiadomości, takich jak odpowiadanie i przekazywanie, mogą zostać przeniesione z paska narzędzi poczty do nagłówka wiadomości. Wybór tej możliwości pozostawi więcej miejsca na pasku narzędzi poczty na większe pole wyszukiwania i dodatkowe przyciski.">
+<!ENTITY featureConfigurator.toolbarBenefits.para                "Przyciski czynności dotyczących wiadomości, takich jak odpowiadanie i przekazywanie, mogą zostać przeniesione z paska narzędzi poczty do nagłówka wiadomości. Wybór tej opcji pozostawi więcej miejsca na większe pole wyszukiwania i dodatkowe przyciski.">
 
 <!ENTITY featureConfigurator.addOn.installing       "Instalowanie…">
 <!ENTITY featureConfigurator.addOn.installed        "Zainstalowano">
