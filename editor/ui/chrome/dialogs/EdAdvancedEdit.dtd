@@ -48,5 +48,5 @@
 <!ENTITY tabCSS.label                   "Innebygt stil">
 <!ENTITY tabJSE.label                   "JavaScript-hendingar">
 
-<!ENTITY editAttribute.label    "Vel eit element ovanfor for å redigere verdien">
+<!ENTITY editAttribute.label    "Vel eit element ovanfor for å endre verdien">
 <!ENTITY removeAttribute.label  "Fjern">

@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
+<!ENTITY aboutHome.recentTabs                   "Faner frå førre gong">
+<!ENTITY aboutHome.remoteTabs                   "Faner frå ei anna datamaskin">
+<!ENTITY aboutHome.recommendedAddons2           "Utvidingar til &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla                 "Om Mozilla">
+<!ENTITY aboutHome.openAllTabs                  "Opne alle i faner">
+<!ENTITY aboutHome.noTabs                       "Ingen faner frå førre gong">
+<!ENTITY aboutHome.noAddons                     "Ingen tilrådde utvidingar">

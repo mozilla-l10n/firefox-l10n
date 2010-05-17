@@ -70,7 +70,7 @@
 
 <!ENTITY bookmarkPopup.label       "Sida er bokmerka">
 <!ENTITY bookmarkRemove.label      "Fjern">
-<!ENTITY bookmarkEdit.label        "Rediger">
+<!ENTITY bookmarkEdit.label        "Endre">
 
 <!ENTITY identity.unverifiedsite2 "Denne sida har ingen identitetsinformasjon.">
 <!ENTITY identity.connectedTo2 "Du er tilkopla">

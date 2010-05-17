@@ -348,8 +348,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Vedlegg">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Rediger som ny">
-<!ENTITY editMsgAsNewCmd.accesskey "R">
+<!ENTITY editMsgAsNewCmd.label "Endre melding som ny">
+<!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Lag filter frå melding">
 <!ENTITY createFilter.accesskey "L">
@@ -638,8 +638,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Opne melding i samtale">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Rediger som ny …">
-<!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextEditAsNew.label "Endre som ny …">
+<!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
@@ -777,8 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Legg til i adresseboka">
 <!ENTITY AddDirectlyToAddressBook.accesskey "L">
-<!ENTITY EditContact.label "Rediger kontakt …">
-<!ENTITY EditContact.accesskey "R">
+<!ENTITY EditContact.label "Endre kontakt …">
+<!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Abonner på nyhendegruppe">

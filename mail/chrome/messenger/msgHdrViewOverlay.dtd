@@ -56,7 +56,7 @@
 <!ENTITY originalWebsite2.label "nettstad">
 
 <!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
-<!ENTITY editMessageButton.label "Rediger …">
+<!ENTITY editMessageButton.label "Endre …">
 <!ENTITY hdrArchiveButton.label "arkiver">
 <!ENTITY hdrArchiveButton.tooltip "arkiver denne meldinga">
 <!ENTITY hdrReplyButton.label "svar">

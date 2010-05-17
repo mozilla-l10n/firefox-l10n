@@ -8,9 +8,9 @@
 <!ENTITY featureConfigurator.para.1 "Denne versjonen av &brandShortName; har fleire nye funksjonar som vi er ganske stolte av, og som vi trur dei fleste vil like. Folk sine ønskjer og behov er ulike, difor har vi gjort det enkelt å tilpasse &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Bruk denne sida for å konfigurere desse nye innstillingene. Du kan også seinare hente fram denne overflyttingsassistenten igjen frå Hjelp-menyen.">
+<!ENTITY featureConfigurator.para.2 "Bruk denne sida for å konfigurere desse nye innstillingane. Du kan også seinare hente fram denne overflyttingsassistenten igjen frå Hjelp-menyen.">
 
-<!ENTITY featureConfigurator.toolbar.heading "Ny verktøylinje">
+<!ENTITY featureConfigurator.toolbar.heading "Ny verktøylinje i meldingar">
 <!ENTITY featureConfigurator.toolbar.new "Verktøylinje for meldingsknappar">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Ei rein verktøylinje med alle meldingsknappane enkelt tilgjengelieg.">
 
@@ -48,7 +48,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.weak "Utvidinga Extra Folder Columns erstattar det som tidlegere var ei avansert innstilling. For å halde orden på det eksakte talet på meldingar og diskplass kvar mappe brukar, vil du ønskje å installere denne utvidinga.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "Vi oppdaga at du brukte Avansert Mappe-kolonner. Denne funksjonen er flytta til ei eiga utviding, og vi tilrår at du installerer henne her.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Vi oppdaga at du brukte Avansert Mappe-kolonner. Denne funksjonen er flytta til ei eiga utviding, og vi tilrår at du installerer han her.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
 <!ENTITY featureConfigurator.folderColumns.install "Installer ekstra kolonner …">
@@ -62,11 +62,11 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "Synkroniser">
-<!ENTITY featureConfigurator.autoSync.on.explanation "Du vil få raskare meldingslasting og betre søkjeresultat.">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Du vil få raskare innlasting av meldingar, og betre søkjeresultat.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
 <!ENTITY featureConfigurator.autoSync.off "Ikkje synkroniser">
-<!ENTITY featureConfigurator.autoSync.off.explanation "Dette fører til saktare lasting av meldingar og ufullstendige søkjeresultat.">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Dette fører til saktare innlasting av meldingar, og ufullstendige søkjeresultat.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
 <!ENTITY featureConfigurator.autoSync.some "Pr. konto synkronisering">

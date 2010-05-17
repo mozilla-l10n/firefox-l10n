@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Vel redigeringsendringar">
+<!ENTITY windowTitle.label "Vel endringsforandringar">
 <!ENTITY conflictWarning.label "Denne sida har vorte endra av eit anna program, men du har òg ulagra endringar i nettsideutviklaren.">
 <!ENTITY conflictResolve.label "Vel kva for ein versjon du vil halde på:">
 <!ENTITY keepCurrentPageButton.label "Hald på gjeldande sideendringar">

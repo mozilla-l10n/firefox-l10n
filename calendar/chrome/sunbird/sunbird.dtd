@@ -46,7 +46,7 @@
 <!ENTITY sunbird.subscribe.button.tooltip                  "Subscribe to a calendar file on a remote machine" >
 <!ENTITY sunbird.publish.button.tooltip                    "Publish events to a remote machine" >
 <!ENTITY sunbird.unifinder.button.tooltip                  "Find and list events" >
-<!ENTITY sunbird.edit.button.tooltip                       "Rediger vald hending" >
+<!ENTITY sunbird.edit.button.tooltip                       "Endre vald hending" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Vel dato" >
 <!ENTITY sunbird.cut.button.label                          "Klipp ut" >
@@ -59,7 +59,7 @@
 <!ENTITY sunbird.subscribe.button.label                    "Abonner" >
 <!ENTITY sunbird.publish.button.label                      "Publiser" >
 <!ENTITY sunbird.unifinder.button.label                    "Funn hendingar" >
-<!ENTITY sunbird.edit.button.label                         "Rediger" >
+<!ENTITY sunbird.edit.button.label                         "Endre" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Gå til dato" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Dag" >

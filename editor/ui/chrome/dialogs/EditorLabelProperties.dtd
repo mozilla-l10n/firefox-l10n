@@ -39,7 +39,7 @@
 <!ENTITY Settings.label "Innstillingar">
 <!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "Rediger tekst:">
+<!ENTITY EditLabelText.label "Endre tekst:">
 <!ENTITY EditLabelText.accesskey "T">
 <!ENTITY LabelFor.label "For kontroll:">
 <!ENTITY LabelFor.accesskey "F">

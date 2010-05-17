@@ -41,8 +41,8 @@
      taking into account the settings the user has changed. -->
 <!ENTITY retest.label                    "Test konfigurasjonen">
 <!ENTITY retest.accesskey                "T">
-<!ENTITY edit.label                      "Rediger">
-<!ENTITY edit.accesskey                  "R">
+<!ENTITY edit.label                      "Endre">
+<!ENTITY edit.accesskey                  "E">
 
 <!ENTITY rememberPassword.label          "Hugs passord">
 <!ENTITY rememberPassword.accesskey      "H">

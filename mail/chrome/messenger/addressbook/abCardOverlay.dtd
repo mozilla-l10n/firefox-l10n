@@ -63,7 +63,7 @@
 <!ENTITY PhoneticField1.label           "Fonetisk:">
 <!ENTITY PhoneticField2.label           "Fonetisk:">
 <!ENTITY DisplayName.label              "Fullt namn:">
-<!ENTITY DisplayName.accesskey          "F">
+<!ENTITY DisplayName.accesskey          "u">
 <!ENTITY NickName.label                 "Kallenamn:">
 <!ENTITY NickName.accesskey             "K">
 

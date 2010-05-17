@@ -18,7 +18,7 @@
 <!ENTITY fileButton.label            "Fil">
 <!ENTITY fileButton.accesskey        "F">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "Opne i mappe">
+<!ENTITY openInFolder.label          "Opne i mappa">
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Lagre som søkjemappe">
 <!ENTITY saveAsVFButton.accesskey    "L">
@@ -55,7 +55,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Trykk her for å velje kolonner som skal visast">
 <!ENTITY threadColumn.tooltip "Trykk her for å vise meldingstrådar"> 
-<!ENTITY fromColumn.tooltip "Klikk her får å sortere etter frå">
+<!ENTITY fromColumn.tooltip "Trykk her får å sortere etter frå">
 <!ENTITY recipientColumn.tooltip "Trykk her for å sortere etter mottakar">
 <!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
 <!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
@@ -71,4 +71,4 @@
 <!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
 <!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
 <!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
-<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottaksrekkjefølgje">
+<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottatt-rekkjefølgje">

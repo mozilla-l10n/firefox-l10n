@@ -78,7 +78,7 @@
 <!ENTITY imagemapBox.label "Biletkart">
 <!ENTITY removeImageMapButton.label "Fjern">
 <!ENTITY removeImageMapButton.accessKey "F">
-<!ENTITY editImageMapButton.label "Rediger …">
+<!ENTITY editImageMapButton.label "Endre …">
 <!ENTITY editImageMapButton.tooltip "Lag aktive område i dette biletet">
 
 <!-- These are the options for image alignment -->
