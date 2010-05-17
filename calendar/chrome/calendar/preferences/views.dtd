@@ -59,7 +59,7 @@
 <!ENTITY pref.calendar.view.dayend.accesskey "l">
 <!ENTITY pref.calendar.view.visiblehours.label "Vis">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "V">
-<!ENTITY pref.calendar.view.visiblehoursend.label "timer af gangen">
+<!ENTITY pref.calendar.view.visiblehoursend.label "timer ad gangen">
 
 <!ENTITY pref.numberofweeks.label "Forvalgt antal uger (inklusive tidligere uger):">
 <!ENTITY pref.numberofweeks.accesskey "e">

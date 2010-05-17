@@ -260,7 +260,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Kildekode">
-<!ENTITY pageSourceCmd.accesskey "K">
+<!ENTITY pageSourceCmd.accesskey "e">
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
@@ -290,7 +290,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Ulæste meddelelse">
-<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.accesskey "l">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Stjernemarkerede meddelelse">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
