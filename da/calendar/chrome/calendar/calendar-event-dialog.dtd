@@ -103,7 +103,7 @@
 <!ENTITY  event.menu.item.delete.label                    "Slet…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Sideopsætning">
-<!ENTITY  event.menu.item.page.setup.accesskey            "S">
+<!ENTITY  event.menu.item.page.setup.accesskey            "o">
 <!ENTITY  event.menu.item.print.label                     "Udskriv">
 <!ENTITY  event.menu.item.print.accesskey                 "U">
 
@@ -150,7 +150,7 @@
 <!ENTITY event.menu.options.priority2.label "Prioritet">
 <!ENTITY event.menu.options.priority2.accesskey "P">
 <!ENTITY event.menu.options.priority.notspecified.label "Ikke angivet">
-<!ENTITY event.menu.options.priority.notspecified.accesskey "i">
+<!ENTITY event.menu.options.priority.notspecified.accesskey "I">
 <!ENTITY event.menu.options.priority.low.label "Lav">
 <!ENTITY event.menu.options.priority.low.accesskey "L">
 <!ENTITY event.menu.options.priority.normal.label "Normal">
@@ -166,7 +166,7 @@
 <!ENTITY event.menu.options.privacy.private.label "Privat begivenhed">
 <!ENTITY event.menu.options.privacy.private.accesskey "i">
 <!ENTITY event.menu.options.show.time.label "Vis tid som">
-<!ENTITY event.menu.options.show.time.accesskey "s">
+<!ENTITY event.menu.options.show.time.accesskey "o">
 <!ENTITY event.menu.options.show.time.busy.label "Optaget">
 <!ENTITY event.menu.options.show.time.busy.accesskey "O">
 <!ENTITY event.menu.options.show.time.free.label "Ledig">
@@ -258,13 +258,13 @@
 
 <!ENTITY event.recurrence.pattern.label "Gentagelsesmønster">
 <!ENTITY event.recurrence.occurs.label "Gentag">
-<!ENTITY event.recurrence.day.label "daglig">
+<!ENTITY event.recurrence.day.label "dagligt">
 <!ENTITY event.recurrence.week.label "ugentlig">
 <!ENTITY event.recurrence.month.label "månedligt">
 <!ENTITY event.recurrence.year.label "årligt">
 
 <!ENTITY event.recurrence.pattern.every.label "Hver">
-<!ENTITY repeat.units.days.both "Dag(e)">
+<!ENTITY repeat.units.days.both "Dag">
 <!ENTITY event.recurrence.pattern.every.weekday.label "Hver ugedag">
 
 <!ENTITY event.recurrence.pattern.weekly.every.label "Hver">
@@ -352,7 +352,7 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label "Inviter deltagere">
-<!ENTITY event.organizer.label "Organizer">
+<!ENTITY event.organizer.label "Arrangør">
 <!ENTITY event.freebusy.suggest.slot "Foreslå tidsperiode:">
 <!ENTITY event.freebusy.next.slot "Næste  mulighed">
 <!ENTITY event.freebusy.previous.slot "Forrige mulighed">

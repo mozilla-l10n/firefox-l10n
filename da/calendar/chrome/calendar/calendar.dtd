@@ -129,7 +129,7 @@
 <!ENTITY calendar.orientation.label "Roter visning">
 <!ENTITY calendar.orientation.accesskey "R">
 
-<!ENTITY calendar.search.options.searchfor "indeholder">
+<!ENTITY calendar.search.options.searchfor "som indeholder">
 
 <!ENTITY calendar.list.header.label "Kalender">
 
@@ -326,7 +326,7 @@
 <!ENTITY calendar.print.window.title "Udskriv en kalender">
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Layout:">
-<!ENTITY calendar.print.range.label "Hvad der skal printes">
+<!ENTITY calendar.print.range.label "Hvad der skal udskrives">
 <!ENTITY calendar.print.currentView2.label "Aktuel visning">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Valgte begivenheder/opgaver">
 <!ENTITY calendar.print.tasks.label "Opgaver">
