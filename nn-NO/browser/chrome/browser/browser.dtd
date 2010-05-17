@@ -144,8 +144,8 @@
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Rediger"> 
-<!ENTITY editMenu.accesskey       "R"> 
+<!ENTITY editMenu.label         "Endre"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Angre">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "A"> 
@@ -426,8 +426,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 <!ENTITY editBookmark.undo.label                     "Angre">
 <!ENTITY editBookmark.undo.accessKey                 "A">
-<!ENTITY editBookmark.edit.label                     "Rediger …">
-<!ENTITY editBookmark.edit.accessKey                 "R">
+<!ENTITY editBookmark.edit.label                     "Endre …">
+<!ENTITY editBookmark.edit.accessKey                 "E">
 
 <!ENTITY identity.unverifiedsite2 "Denne nettsida har ingen opplysningar om identitet.">
 <!ENTITY identity.connectedTo "Du er kopla til">

@@ -4,13 +4,13 @@
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
-<!ENTITY  systemTypeRadio.label         "Bruk systeminnstillingar for mellomtenar">
+<!ENTITY  systemTypeRadio.label         "Bruk systeminnstillingar">
 <!ENTITY  systemTypeRadio.accesskey     "B">
 <!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtenar-innstillingar:">
 <!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtenar-innstillingar:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjons-adresse for mellomtenar:">
+<!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjonsadresse:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Oppdater">
 <!ENTITY  reload.accesskey              "O">

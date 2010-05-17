@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo.label "For å ta i mot meldingar må du først setje opp ein konto.">
 <!ENTITY accountTypeTitle.label "Innstillingar for ny konto">
-<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjonen som trengst for å setje opp ein ny konto. Dersom du ikkje har denne informasjonen må du kontakte systemansvarleg eller internett-leverandøren din.">
+<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjonen som trengst for å lage opp ein ny konto. Dersom du ikkje har denne informasjonen må du kontakte systemansvarleg eller Internett-tilbydaren din.">
 <!ENTITY accountTypeDirections.label "Vel kontotype">
 <!ENTITY accountTypeMail.label "E-post">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -60,17 +60,17 @@
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Den noverande utgåande tenaren din (SMTP), «">
-<!ENTITY haveSmtp1.suffix2 "&quot;, vil bli brukt. Du kan endre utgåande tenarar i kontoinnstillingane.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, vil bli brukt. Du kan endre innstillingar for utgåande tenar i kontoinnstillingane.">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Brukarnamn">
-<!ENTITY usernameDesc.label "Skriv inn brukarnamnet du har fått frå e-postleverandøren din for å hente e-post">
+<!ENTITY usernameDesc.label "Skriv inn brukarnamnet du har fått frå e-posttilbydaren din for å hente e-post">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(til dømes «onordmann»)">
 <!ENTITY usernameLabel.label "Innkomande brukarnamn:">
 <!ENTITY usernameLabel.accesskey "k">
-<!ENTITY usernameSmtpDesc.label "Skriv inn brukarnamnet du har fått frå e-postleverandøren din for å sende e-post (dette er vanlegvis det same som innkomande brukarnamn).">
+<!ENTITY usernameSmtpDesc.label "Skriv inn brukarnamnet du har fått frå e-posttilbydaren din for å sende e-post (dette er vanlegvis det same som innkomande brukarnamn).">
 <!ENTITY usernameSmtpLabel.label "Utgåande brukarnamn">
 <!ENTITY usernameSmtpLabel.accesskey "U">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
@@ -78,13 +78,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Det valde utgåande (SMTP-) brukarnamnet ditt, «">
-<!ENTITY haveSmtp2.suffix2 "&quot;, vil bli brukt. Du kan endre utgåande tenarar i kontoinnstillingane.">
+<!ENTITY haveSmtp2.suffix2 "&quot;, vil bli brukt. Du kan endre innstillingar for utgåande tenar i kontoinnstillingane.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Den utgåande (SMTP-) tenaren din, «">
-<!ENTITY haveSmtp3.suffix2 "&quot;, er identisk med innkomande tenar. Inngåande brukarnamn vil bli brukt for tilgang. Du kan endre utgåande tenarar i kontoinnstillingane.">
+<!ENTITY haveSmtp3.prefix "Den utgåande (SMTP)-tenaren din, «">
+<!ENTITY haveSmtp3.suffix2 "&quot;, er identisk med innkomande tenar. Innkomande brukarnamn vil bli brukt for tilgang. Du kan endre utgåande tenar i kontoinnstillingane.">
 
 <!-- Entities for Account name page -->
 
@@ -101,7 +101,7 @@
 <!ENTITY serverTypePrefix.label "Type:">
 <!ENTITY serverNamePrefix.label "Innkomande tenar:">
 <!ENTITY smtpServerNamePrefix.label "Utgåande tenar (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Nyhendetenar (NNTP):">
+<!ENTITY newsServerNamePrefix.label "Nyhendegruppetenar (NNTP):">
 <!ENTITY downloadOnLogin.label "Last ned meldingar no">
 <!ENTITY downloadOnLogin.accesskey "L">
 <!ENTITY deferStorageDesc.label "Fjern krysset frå denne boksen for å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista. Dersom det er kryssa av vil kontoen verte ein del av «Lokale mapper».">

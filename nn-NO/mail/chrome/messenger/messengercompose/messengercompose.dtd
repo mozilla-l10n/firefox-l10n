@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Adressekort …">
-<!ENTITY newContact.accesskey "k">
+<!ENTITY newContact.label "Kontakt …">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Filer …">
@@ -19,7 +19,7 @@
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personleg kort (vCard)">
+<!ENTITY attachVCardCmd.label "Personleg adressekort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "Lat att">
 <!ENTITY closeCmd.key "W">
@@ -48,8 +48,8 @@
 <!ENTITY printCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Rediger"> 
-<!ENTITY editMenu.accesskey "R">
+<!ENTITY editMenu.label "Endre"> 
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Angre">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "A"> 

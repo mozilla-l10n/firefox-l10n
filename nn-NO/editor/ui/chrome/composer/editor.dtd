@@ -49,7 +49,7 @@
 <!ENTITY compositionToolbarCmd.accesskey "F">
 <!ENTITY formattingToolbarCmd.label "Formateringslinje">
 <!ENTITY formattingToolbarCmd.accesskey "o">
-<!ENTITY editmodeToolbarCmd.label "Redigeringslinje">
+<!ENTITY editmodeToolbarCmd.label "Endringslinje">
 <!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->

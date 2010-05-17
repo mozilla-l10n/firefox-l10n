@@ -64,7 +64,7 @@
 <!ENTITY return.label                      "Ikkje returner meir enn">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultat">
-<!ENTITY offlineText.label                 "Du kan laste ned ein lokal kopi av katalogen slik at han er tilgjengeleg når du arbeider frakopla.">
+<!ENTITY offlineText.label                 "Du kan laste ned ein lokal kopi av katalogen slik at han er tilgjengeleg når du arbeider fråkopla.">
 <!ENTITY saslMechanism.label               "Innloggingsmetode: ">
 <!ENTITY saslMechanism.accesskey           "n">
 <!ENTITY saslOff.label                     "Enkel">

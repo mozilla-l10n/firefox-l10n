@@ -9,8 +9,8 @@
 <!ENTITY file.close.label               "Lat att">
 <!ENTITY file.close.accesskey           "L">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Rediger">
-<!ENTITY edit.accesskey                 "R">
+<!ENTITY edit.label                     "Endre">
+<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vis">
 <!ENTITY views.accesskey                "V">
 <!ENTITY view.toolbar.label             "Verktøylinje">
@@ -209,4 +209,4 @@
 <!ENTITY detailsPane.less.label "Mindre">
 <!ENTITY detailsPane.less.accesskey "i">
 <!ENTITY detailsPane.noPreviewAvailable.label "Førehandsvising">
-<!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og redigere">
+<!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og endre">

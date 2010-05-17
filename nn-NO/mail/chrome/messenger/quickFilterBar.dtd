@@ -41,14 +41,14 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Uleste">
+         "Ulesne">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Vis berre uleste eldingar">
+         "Vis berre ulesne eldingar">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only

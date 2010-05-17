@@ -5,8 +5,8 @@
 <!ENTITY addressingText.label      "Ved adresseoppslag:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bruk globale LDAP-tenarinnstillingar for denne kontoen.">
-<!ENTITY useGlobal.accesskey       "o">
-<!ENTITY editDirectories.label     "Rediger katalogar …">
+<!ENTITY useGlobal.accesskey       "u">
+<!ENTITY editDirectories.label     "Endre katalogar …">
 <!ENTITY editDirectories.accesskey "k">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Bruk ein annan LDAP-tenar:">
@@ -31,7 +31,7 @@
 <!ENTITY place.accesskey                      "P">
 <!ENTITY belowText.label                      "Under sitert tekst (tilrådd)">
 <!ENTITY aboveText.label                      "Under svaret mitt (over sitert tekst)">
-<!ENTITY includeSigOnReply.label              "Inkluder signaturen min i svar">
-<!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Inkluder signaturen min i vidaresende meldingar">
-<!ENTITY includeSigOnForward.accesskey        "k">
+<!ENTITY includeSigOnReply.label              "Legg ved signaturen min i svar på meldingar">
+<!ENTITY includeSigOnReply.accesskey          "e">
+<!ENTITY includeSigOnForward.label            "Legg ved signaturen min i vidaresende meldingar">
+<!ENTITY includeSigOnForward.accesskey        "s">

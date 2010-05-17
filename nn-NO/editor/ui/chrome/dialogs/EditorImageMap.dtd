@@ -40,7 +40,7 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Redigering av biletkart">
+<!ENTITY windowTitle.label "Endring av biletkart">
 
 <!-- Menu Items -->
 <!-- File menu -->
@@ -52,8 +52,8 @@
 <!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Rediger">
-<!ENTITY mapeditMenu.accesskey "e">
+<!ENTITY mapeditMenu.label "Endre">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopier">

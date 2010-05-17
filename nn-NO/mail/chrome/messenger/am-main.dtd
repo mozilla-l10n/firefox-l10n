@@ -16,14 +16,14 @@
 <!ENTITY signatureText.label "Signaturtekst:">
 <!ENTITY signatureText.accesskey "S">
 <!ENTITY signatureHtml.label "Bruk HTML (t.d., &lt;b&gt;bold&lt;/b&gt;)">
-<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureHtml.accesskey "T">
 <!ENTITY signatureFile.label "Legg ved signaturen frå ei fil i staden (tekst, HTML, eller bilete):">
 <!ENTITY signatureFile.accesskey "L">
 <!ENTITY edit.label "Endre …">
 <!ENTITY choose.label "Vel …">
 <!ENTITY choose.accesskey "V">
-<!ENTITY editVCard.label "Rediger adressekort …">
-<!ENTITY editVCard.accesskey "R">
+<!ENTITY editVCard.label "Endre adressekort …">
+<!ENTITY editVCard.accesskey "E">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Legg ved adressekortet mitt (vCard)">
 <!ENTITY attachVCard.accesskey "m">

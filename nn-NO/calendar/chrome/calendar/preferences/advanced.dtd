@@ -51,8 +51,8 @@
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
 <!ENTITY pref.calendar.advanced.proxiesInfo.label         "Avgjer korleis &brandShortName; koplar til Internett">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Avansert oppsett">
-<!ENTITY pref.calendar.advanced.configEdit.button "Oppsettsredigering …">
-<!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
+<!ENTITY pref.calendar.advanced.configEdit.button "Konfigurasjonseditor …">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "K">
 
 <!-- Passwords -->
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; kan hugse passordinformasjon til alle kalendrane dine, slik at du slepp å skrive inn innloggingsdetaljane ein gong til.">

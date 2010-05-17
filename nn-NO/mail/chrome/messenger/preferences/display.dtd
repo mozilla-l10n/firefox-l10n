@@ -31,8 +31,8 @@
 <!ENTITY displayTagsText.label     "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
 <!ENTITY addTagButton.label        "Legg til">
 <!ENTITY addTagButton.accesskey    "L">
-<!ENTITY editTagButton.label       "Rediger">
-<!ENTITY editTagButton.accesskey   "R">
+<!ENTITY editTagButton.label       "Endre">
+<!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Slett">
 <!ENTITY removeTagButton.accesskey "S">
 

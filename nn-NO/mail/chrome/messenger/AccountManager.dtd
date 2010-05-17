@@ -5,9 +5,9 @@
 <!ENTITY accountActionsButton.label "Kontohandlingar">
 <!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "Legg til e-postkonto …">
-<!ENTITY addMailAccountButton.accesskey "L">
+<!ENTITY addMailAccountButton.accesskey "e">
 <!ENTITY addOtherAccountButton.label "Legg til annan konto …">
-<!ENTITY addOtherAccountButton.accesskey "e">
+<!ENTITY addOtherAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Vel som standard">
 <!ENTITY setDefaultButton.accesskey "V">
 <!ENTITY removeButton.label "Slett konto">

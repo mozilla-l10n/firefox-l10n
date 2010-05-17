@@ -8,8 +8,8 @@
 
 <!ENTITY smtpListAdd.label  "Legg til …">
 <!ENTITY smtpListAdd.accesskey  "L">
-<!ENTITY smtpListEdit.label "Rediger …">
-<!ENTITY smtpListEdit.accesskey "R">
+<!ENTITY smtpListEdit.label "Endre …">
+<!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Slett">
 <!ENTITY smtpListDelete.accesskey "S">
 <!ENTITY smtpListSetDefault.label "Vel standard">
