@@ -3,7 +3,7 @@
 <!ENTITY fccMailFolder.label             "umieszczaj ich kopie w:">
 <!ENTITY fccMailFolder.accesskey         "i">
 <!ENTITY fccReplyFollowsParent.label     "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
-<!ENTITY fccReplyFollowsParent.accesskey "o">
+<!ENTITY fccReplyFollowsParent.accesskey "m">
 <!ENTITY ccAddress.label                 "wysyłaj kopię do:">
 <!ENTITY ccAddress.accesskey             "k">
 <!ENTITY ccAddressList.emptytext         "adresy e-mail rozdzielone przecinkami">
@@ -11,15 +11,15 @@
 <!ENTITY bccAddress.accesskey            "u">
 <!ENTITY bccAddressList.emptytext        "adresy e-mail rozdzielone przecinkami">
 <!ENTITY saveMessageDlg.label            "Wyświetlaj okno dialogowe potwierdzające zapisywanie wiadomości">
-<!ENTITY saveMessageDlg.accesskey        "W">
+<!ENTITY saveMessageDlg.accesskey        "e">
 <!ENTITY sentFolderOn.label              "folderze Wysłane konta:">
-<!ENTITY sentFolderOn.accesskey          "y">
+<!ENTITY sentFolderOn.accesskey          "W">
 <!ENTITY sentInOtherFolder.label         "folderze:">
-<!ENTITY sentInOtherFolder.accesskey     "l">
+<!ENTITY sentInOtherFolder.accesskey     "f">
 <!ENTITY draftsFolderOn.label            "folderze Szkice konta:">
 <!ENTITY draftsFolderOn.accesskey        "S">
 <!ENTITY draftInOtherFolder.label        "folderze:">
-<!ENTITY draftInOtherFolder.accesskey    "f">
+<!ENTITY draftInOtherFolder.accesskey    "l">
 <!ENTITY archivesFolderOn.label          "folderze Archiwum konta:">
 <!ENTITY archivesFolderOn.accesskey      "A">
 <!ENTITY archiveInOtherFolder.label      "folderze:">

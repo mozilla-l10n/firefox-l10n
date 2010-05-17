@@ -26,7 +26,7 @@
 <!ENTITY customsound.label         "użyj pliku">
 <!ENTITY customsound.accesskey     "u">
 <!ENTITY browse.label              "Przeglądaj…">
-<!ENTITY browse.accesskey          "g">
+<!ENTITY browse.accesskey          "e">
 
 <!ENTITY addonsMgr.label             "Dodatki">
 <!ENTITY manageAddonsDescWin.label   "Zmień opcje zainstalowanych dodatków">

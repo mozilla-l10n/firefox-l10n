@@ -107,7 +107,7 @@
 <!ENTITY folderPropsNewsgroupCmd.label     "Właściwości grupy dyskusyjnej…">
 <!ENTITY folderPropsCmd.accesskey          "i">
 <!ENTITY accountManagerCmd.label           "Konfiguracja kont…">
-<!ENTITY accountManagerCmd.accesskey       "g">
+<!ENTITY accountManagerCmd.accesskey       "n">
 <!ENTITY accountManagerCmdUnix.accesskey   "g">
 <!ENTITY undoDeleteMsgCmd.label            "Cofnij usunięcie wiadomości">
 <!ENTITY redoDeleteMsgCmd.label            "Ponownie usuń wiadomość">
@@ -453,7 +453,7 @@
 <!ENTITY deleteJunk.label                  "Usuń niechciane wiadomości z folderu">
 <!ENTITY deleteJunk.accesskey              "e">
 <!ENTITY errorConsoleCmd.label             "Konsola błędów">
-<!ENTITY errorConsoleCmd.accesskey         "n">
+<!ENTITY errorConsoleCmd.accesskey         "s">
 <!ENTITY filtersCmd.label                  "Filtrowanie wiadomości…">
 <!ENTITY filtersCmd.accesskey              "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">

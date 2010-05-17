@@ -19,7 +19,7 @@
 <!ENTITY bgColor.label                 "Kolor tła:">
 <!ENTITY bgColor.accesskey             "t">
 <!ENTITY restoreHTMLDefaults.label     "Przywróć domyślne">
-<!ENTITY restoreHTMLDefaults.accesskey "y">
+<!ENTITY restoreHTMLDefaults.accesskey "e">
 
 <!ENTITY spellCheck.label              "Sprawdzaj pisownię przed wysłaniem wiadomości">
 <!ENTITY spellCheck.accesskey          "a">

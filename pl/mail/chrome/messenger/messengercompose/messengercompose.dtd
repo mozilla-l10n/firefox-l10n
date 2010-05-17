@@ -163,8 +163,8 @@
 <!ENTITY addressBookCmd.accesskey        "a">
 <!ENTITY addressBookCmd.key              "B">
 <!ENTITY accountManagerCmd.label         "Konfiguracja kont…">
-<!ENTITY accountManagerCmd.accesskey     "g">
-<!ENTITY accountManagerCmdUnix.accesskey "g">
+<!ENTITY accountManagerCmd.accesskey     "n">
+<!ENTITY accountManagerCmdUnix.accesskey "n">
 <!ENTITY preferencesCmd.label            "Opcje…">
 <!ENTITY preferencesCmd.accesskey        "O">
 <!ENTITY preferencesCmdUnix.label        "Preferencje">

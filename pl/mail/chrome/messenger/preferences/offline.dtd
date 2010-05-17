@@ -14,11 +14,11 @@
 <!ENTITY radioNotSend.label               "Nie">
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent.label             "Zapytaj">
-<!ENTITY radioAskUnsent.accesskey         "j">
+<!ENTITY radioAskUnsent.accesskey         "a">
 <!ENTITY textGoingOffline                 "Czy pobierać wiadomości do wykorzystania w trybie offline przed przchodzeniem do niego?">
 <!ENTITY radioAutoDownload.label          "Tak">
 <!ENTITY radioAutoDownload.accesskey      "k">
 <!ENTITY radioNotDownload.label           "Nie">
 <!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload.label           "Zapytaj">
-<!ENTITY radioAskDownload.accesskey       "y">
+<!ENTITY radioAskDownload.accesskey       "j">

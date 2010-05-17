@@ -17,7 +17,7 @@
 <!ENTITY enableJunkLogging.label        "Włącz dziennik niechcianej poczty">
 <!ENTITY enableJunkLogging.accesskey    "d">
 <!ENTITY openJunkLog.label              "Wyświetl dziennik">
-<!ENTITY openJunkLog.accesskey          "y">
+<!ENTITY openJunkLog.accesskey          "k">
 <!ENTITY resetTrainingData.label        "Zresetuj dane treningowe">
 <!ENTITY resetTrainingData.accesskey    "r">
 
