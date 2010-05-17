@@ -128,8 +128,8 @@
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY inspectMenu.label "Исследовать">
-<!ENTITY inspectMenu.accesskey "л">
+<!ENTITY inspectMenu.label "Инспектор">
+<!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
