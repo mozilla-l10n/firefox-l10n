@@ -159,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "s">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Examiner">
+<!ENTITY inspectMenu.accesskey        "E">
+<!ENTITY inspectMenu.commandkey       "I">
+
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
