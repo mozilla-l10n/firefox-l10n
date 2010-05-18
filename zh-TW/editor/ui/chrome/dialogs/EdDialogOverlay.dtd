@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY AdvancedEditButton.label "進階編輯…">
-<!ENTITY AdvancedEditButton.accessKey "k">
+<!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "編輯這個物件的特有屬性">
 <!ENTITY chooseFileButton.label "選擇檔案…">
 <!ENTITY chooseFileButton.accessKey "F">

@@ -53,7 +53,7 @@
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "開啟網址…">
 <!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "g">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "最近開啟頁面">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "反向">
@@ -124,7 +124,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "鏈結…">
 <!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "g">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "插入鏈結目標…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "圖片…">
