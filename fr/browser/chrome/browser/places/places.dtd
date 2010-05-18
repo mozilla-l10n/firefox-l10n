@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey "M">
 <!ENTITY views.label "Affichage">
 <!ENTITY views.accesskey "A">
-<!ENTITY view.toolbar.label "Barre d'outils">
-<!ENTITY view.toolbar.accesskey "B">
 <!ENTITY view.columns.label "Afficher les colonnes">
 <!ENTITY view.columns.accesskey "c">
 <!ENTITY view.sort.label "Trier par">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label "Choisir un fichier…">
 <!ENTITY cmd.restoreFromFile.accesskey "C">
 
-<!ENTITY cmd.select_all.label "Tout sélectionner">
-<!ENTITY cmd.select_all.accesskey "T">
-<!ENTITY cmd.select_all.key "A">
-
-<!ENTITY cmd.edit_cut.label "Couper">
-<!ENTITY cmd.edit_cut.accesskey "C">
-<!ENTITY cmd.edit_cut.key "X">
-<!ENTITY cmd.edit_copy.label "Copier">
-<!ENTITY cmd.edit_copy.accesskey "p">
-<!ENTITY cmd.edit_copy.key "C">
-<!ENTITY cmd.edit_paste.label "Coller">
-<!ENTITY cmd.edit_paste.accesskey "o">
-<!ENTITY cmd.edit_paste.key "V">
-<!ENTITY cmd.edit_delete.label "Supprimer">
-<!ENTITY cmd.edit_delete.accesskey "S">
-<!ENTITY cmd.edit_undo.label "Annuler">
-<!ENTITY cmd.edit_undo.accesskey "A">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Rétablir">
-<!ENTITY cmd.edit_redo.accesskey "R">
-<!ENTITY cmd.edit_redo.key "y">
-
 <!ENTITY cmd.bookmarkLink.label "Marquer cette page">
 <!ENTITY cmd.bookmarkLink.accesskey "M">
 <!ENTITY cmd.delete.label "Supprimer cette page">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label "Propriétés">
 <!ENTITY cmd.properties.accesskey "i">
 
-<!ENTITY cmd.rename.label "Renommer">
-<!ENTITY cmd.rename.accesskey "R">
-
 <!ENTITY cmd.sortby_name.label "Trier par nom">
 <!ENTITY cmd.sortby_name.accesskey "m">
 <!ENTITY cmd.context_sortby_name.accesskey "m">
 
 <!ENTITY cmd.new_bookmark.label "Nouveau marque-page…">
 <!ENTITY cmd.new_bookmark.accesskey "g">
-<!ENTITY cmd.new_livemark.label "Nouveau marque-page dynamique…">
-<!ENTITY cmd.new_livemark.accesskey "N">
 <!ENTITY cmd.new_folder.label "Nouveau dossier…">
 <!ENTITY cmd.new_folder.accesskey "d">
 <!ENTITY cmd.context_new_folder.accesskey "d">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey "E">
 
 <!ENTITY cmd.find.key "F">
-
-<!ENTITY feed.subscribe.label "Flux">
-<!ENTITY feed.subscribe.tooltip "S'abonner">
 
 <!ENTITY maintenance.label "Importation et sauvegarde">
 <!ENTITY maintenance.accesskey "I">
