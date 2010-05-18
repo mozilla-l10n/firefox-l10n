@@ -46,12 +46,12 @@
 <!ENTITY folderCharsetTab.accesskey              "C">
 <!ENTITY folderCharsetOverride.label             "Usar em todas as mensagens da pasta (ignorar codificação de cada mensagem e seleção automática)">
 <!ENTITY folderCharsetOverride.accesskey         "U">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
-<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Recriar arquivo de índice">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderRebuildSummaryFile.explanation    "O arquivo de índice da pasta (.msf) pode ocasionalmente ser danificado e fazer com que mensagens aparentem estar perdidas ou mensagens excluídas continuem a ser exibidas; reparando a pasta estes problemas podem ser corrigidos.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Incluir as mensagens desta pasta nos resultados da pesquisa global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
      
 <!ENTITY retention.label "Exclusão">
 <!ENTITY retentionUseAccount.label  "Usar minhas configurações da conta">
@@ -73,8 +73,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronização">
-<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.label         "Ao receber novas mensagens desta conta, sempre verificar esta pasta">
+<!ENTITY folderCheckForNewMessages2.accesskey     "A">
 
 <!ENTITY offlineFolder.check.label               "Selecionar a pasta para leitura offline">
 <!ENTITY offlineFolder.check.accesskey           "S">

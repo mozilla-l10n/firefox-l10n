@@ -7,13 +7,13 @@
 <!ENTITY fccReplyFollowsParent.label "Colocar respostas na pasta da mensagem que foi respondida">
 <!ENTITY fccReplyFollowsParent.accesskey "C">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
-<!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Separate addresses with commas">
+<!ENTITY ccAddress.label "Cc para estes endereços:">
+<!ENTITY ccAddress.accesskey "d">
+<!ENTITY ccAddressList.emptytext "Separe endereços com vírgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Cco para estes endereços:">
 <!ENTITY bccAddress.accesskey "C">
-<!ENTITY bccAddressList.emptytext "Separate addresses with commas">
+<!ENTITY bccAddressList.emptytext "Separe endereços com vírgulas">
 <!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
 <!ENTITY saveMessageDlg.accesskey "N">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
