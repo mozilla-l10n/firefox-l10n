@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "檢視">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "工具列">
-<!ENTITY view.toolbar.accesskey         "o">
 <!ENTITY view.columns.label             "顯示欄位">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "排序">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "選擇檔案…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.select_all.label "全選">
-<!ENTITY cmd.select_all.accesskey "A">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "剪下">
-<!ENTITY cmd.edit_cut.accesskey     "t">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "複製">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "貼上">
-<!ENTITY cmd.edit_paste.accesskey   "P">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "刪除">
-<!ENTITY cmd.edit_delete.accesskey  "D">
-<!ENTITY cmd.edit_undo.label        "復原">
-<!ENTITY cmd.edit_undo.accesskey    "U">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "取消「復原」">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "此頁加入書籤…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "刪除此頁面">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label      "屬性">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.rename.label      "重新命名">
-<!ENTITY cmd.rename.accesskey  "R">
-
 <!ENTITY cmd.sortby_name.label              "依名稱排序">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "新增書籤…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_livemark.label            "新增即時書籤…">
-<!ENTITY cmd.new_livemark.accesskey        "L">
 <!ENTITY cmd.new_folder.label              "新增資料夾…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">
-
-<!ENTITY feed.subscribe.label    "消息來源">
-<!ENTITY feed.subscribe.tooltip  "訂閱">
 
 <!ENTITY maintenance.label      "匯入及備份">
 <!ENTITY maintenance.accesskey  "I">
