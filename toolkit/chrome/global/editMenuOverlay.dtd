@@ -8,7 +8,7 @@
 <!ENTITY redoCmd.accesskey         "a">
 <!ENTITY cutCmd.label              "Gearr às">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "s">
+<!ENTITY cutCmd.accesskey          "r">
 <!ENTITY copyCmd.label             "Dèan leth-bhreac">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "l">

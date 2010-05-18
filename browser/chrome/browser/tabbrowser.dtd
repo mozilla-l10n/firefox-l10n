@@ -2,7 +2,7 @@
 <!ENTITY  newTab.label           "Taba ùr">
 <!ENTITY  newTab.accesskey       "T">
 <!ENTITY  closeTab.label         "Dùin an taba">
-<!ENTITY  closeTab.accesskey         "D">
+<!ENTITY  closeTab.accesskey         "n">
 <!ENTITY  closeOtherTabs.accesskey  "a">
 <!ENTITY  closeOtherTabs.label   "Dùin na tabaichean eile">
 <!ENTITY  reloadAllTabs.label    "Ath-luchdaich gach taba">
