@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Chan urrainn dhut an gnìomh seo a neo-dhèanamh.">
 
-<!ENTITY dialog.width                 "31em">
-<!ENTITY column.width                 "16em">
+<!ENTITY dialog.width                 "35em">
+<!ENTITY column.width                 "25em">

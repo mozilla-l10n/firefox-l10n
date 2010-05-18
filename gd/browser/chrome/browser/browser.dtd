@@ -17,7 +17,7 @@
 <!ENTITY openLocationCmd.label "Fosgail seòladh-lìn…">
 <!ENTITY openLocationCmd.accesskey "l">
 <!ENTITY openFileCmd.label "Fosgail faidhle…">
-<!ENTITY openFileCmd.accesskey "F">
+<!ENTITY openFileCmd.accesskey "a">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Roghainnean na duilleige…">
 <!ENTITY printSetupCmd.accesskey "R">
@@ -87,7 +87,7 @@
 <!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY reloadButton.tooltip         "Ath-luchdaich an duilleag làithreach">
 <!ENTITY stopCmd.label                "Sguir dheth">
-<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.accesskey            "h">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Sguir de luchdadh na duilleige seo">
 <!ENTITY goEndCap.tooltip             "Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh">
@@ -185,14 +185,14 @@
 <!ENTITY viewMenu.label         "Sealladh"> 
 <!ENTITY viewMenu.accesskey       "S"> 
 <!ENTITY viewToolbarsMenu.label       "Na bàraichean-inneil"> 
-<!ENTITY viewToolbarsMenu.accesskey     "i"> 
+<!ENTITY viewToolbarsMenu.accesskey     "N"> 
 <!ENTITY viewSidebarMenu.label "An crann-taoibh">
 <!ENTITY viewSidebarMenu.accesskey "t">
 <!ENTITY viewCustomizeToolbar.label       "Gnàthaich…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "G">
 
 <!ENTITY historyMenu.label "Eachdraidh">
-<!ENTITY historyMenu.accesskey "i">
+<!ENTITY historyMenu.accesskey "E">
 <!ENTITY historyUndoMenu.label "Tabaichean a chaidh a dhùnadh o chionn ghoirid">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Uinneagan a chaidh a dhùnadh o chionn ghoirid">
@@ -401,7 +401,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Deasaich roghainnean bacadh nam priob-uinneagan…">
 <!ENTITY editPopupSettings.label "Deasaich roghainnean bacadh nam priob-uinneagan…">
-<!ENTITY editPopupSettings.accesskey "D">
+<!ENTITY editPopupSettings.accesskey "n">
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Atharraich taobhadh na duilleige">
