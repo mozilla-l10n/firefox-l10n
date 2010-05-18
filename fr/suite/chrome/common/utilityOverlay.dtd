@@ -60,6 +60,8 @@
 <!ENTITY helpMenu.label "Aide">
 <!ENTITY helpMenu.accesskey "e">
 
+<!ENTITY helpTroubleshootingInfo.label "Informations de dépannage">
+<!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY releaseCmd.label "Notes de version">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY updateCmd.label "Rechercher des mises à jour…">
