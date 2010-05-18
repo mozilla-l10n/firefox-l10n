@@ -36,7 +36,6 @@
 
 <!ENTITY addonsHeader.label        "Add-ons">
 <!ENTITY addonsLocal.label         "Ihre Add-ons">
-<!ENTITY addonsUpdate.label        "Aktualisieren">
 <!ENTITY addonsRepo.label          "Add-ons herunterladen">
 <!ENTITY addonsRecommended.label   "Empfohlen">
 <!ENTITY addonsSearch.label        "Suchen">
