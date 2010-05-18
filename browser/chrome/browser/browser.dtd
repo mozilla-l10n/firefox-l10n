@@ -159,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "檢測">
+<!ENTITY inspectMenu.accesskey        "I">
+<!ENTITY inspectMenu.commandkey       "I">
+
 <!ENTITY fileMenu.label         "檔案"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "開新視窗">
@@ -475,3 +479,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "按一下開啟下載視窗">
 
 <!ENTITY allTabs.filter.emptyText "搜尋分頁">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "瀏覽器分頁">
