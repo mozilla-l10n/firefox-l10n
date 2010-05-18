@@ -1,4 +1,4 @@
-<!ENTITY addons.windowTitle                   "附加套件管理員">
+<!ENTITY addons.windowTitle                   "附加元件管理員">
 <!ENTITY search.placeholder                   "搜尋所有附加元件">
 <!ENTITY loading.label                        "載入中…">
 <!ENTITY listEmpty.installed.label            "您並未安裝任何此類型的附加元件">
@@ -12,7 +12,7 @@
 <!ENTITY view.discover.label                  "取得元件">
 <!ENTITY view.languages.label                 "語言套件">
 <!ENTITY view.searchengines.label             "搜尋引擎">
-<!ENTITY view.features.label                  "延伸資訊">
+<!ENTITY view.features.label                  "擴充套件">
 <!ENTITY view.appearance.label                "佈景主題">
 <!ENTITY view.plugins.label                   "外掛程式">
 
@@ -106,7 +106,7 @@
 <!ENTITY addon.restartNow.label               "立刻重新啟動">
 <!ENTITY addon.restartNow.tooltip             "立刻重新啟動以完成安裝">
 <!ENTITY addon.install.label                  "立刻重新啟動以完成安裝">
-<!ENTITY addon.install.tooltip                "安裝這個附加套件">
+<!ENTITY addon.install.tooltip                "安裝此附加元件">
 <!ENTITY addon.checkingForUpdates.label       "檢查是否有更新…">
 
 <!ENTITY addon.createdBy.label                "作者：">
