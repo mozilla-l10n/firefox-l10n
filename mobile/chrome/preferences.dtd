@@ -12,4 +12,7 @@
 <!ENTITY rememberPasswords.title                   "Passwörter merken">
 <!ENTITY language.title                            "Sprache">
 <!ENTITY language.auto                             "Automatisch erkennen">
-
+<!ENTITY homepage.title                            "Startseite">
+<!ENTITY homepage.none                             "Leere Seite">
+<!ENTITY homepage.default                          "&brandShortName;-Start">
+<!ENTITY homepage.currentpage                      "Aktuelle Seite verwenden">

@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Suchbegriff oder Adresse eingeben">
+
 <!ENTITY back.label            "Zurück">
 <!ENTITY forward.label         "Vor">
 <!ENTITY reload.label          "Neu laden">
