@@ -114,7 +114,7 @@
 <!ENTITY certmgr.add.label                    "Cuir ris">
 <!ENTITY certmgr.add.accesskey                "r">
 <!ENTITY certmgr.export.label                 "Às-phortaich…">
-<!ENTITY certmgr.export.accesskey             "s">
+<!ENTITY certmgr.export.accesskey             "o">
 <!ENTITY certmgr.delete2.label                "Sguab às…">
 <!ENTITY certmgr.delete2.accesskey            "b">
 <!ENTITY certmgr.backup2.label                "Dèan leth-bhreac glèidhidh…">

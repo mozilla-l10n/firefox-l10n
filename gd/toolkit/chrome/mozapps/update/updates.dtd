@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Ùrachadh bathar-bog">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
+<!ENTITY  window.width                    "42em">
+<!ENTITY  window.macWidth                 "45em">
 
 <!ENTITY  checking.title                  "A' lorg ùrachaidhean">
 <!ENTITY  updateCheck.label               "A' lorg tionndaidhean nas ùire de &brandShortName;…">

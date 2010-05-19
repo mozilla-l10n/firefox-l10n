@@ -18,5 +18,5 @@
 <!ENTITY privatebrowsingpage.howToStop                 "Gus casg a chur air rannsachadh prìobhaideach, tagh &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; no dùin &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Gus tòiseachadh air rannsachadh prìobhaideach, 's urrainn dhut &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; a thaghadh cuideachd.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Fhad 's nach bi clàr d' eachdraidh rannsachaidh air a' choimpiutair seo, 's urrainn dhan t-solaraiche-lìn agad no dhan fhastaiche agad fios fhaighinn air na duilleagan a thadhail thu air.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Fhad 's nach bi clàr d' eachdraidh brabhsachaidh air a' choimpiutair seo, 's urrainn dhan t-solaraiche-lìn agad no dhan fhastaiche agad fios fhaighinn air na duilleagan a thadhail thu air.">
 <!ENTITY privatebrowsingpage.learnMore                 "Faigh tuilleadh eòlais">

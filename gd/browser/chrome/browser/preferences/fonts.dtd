@@ -1,5 +1,5 @@
 <!ENTITY  fontsDialog.title                       "Cruthan-clò">
-<!ENTITY  window.width                            "39em">
+<!ENTITY  window.width                            "45em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "49em">
 
@@ -18,7 +18,7 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Clò aon-leud:">
-<!ENTITY  monospace.accesskey                     "a">
+<!ENTITY  monospace.accesskey                     "d">
 
 <!ENTITY  font.langGroup.latin1                   "Siarach">
 <!ENTITY  font.langGroup.latin2                   "Meadhan-Eòrpach">

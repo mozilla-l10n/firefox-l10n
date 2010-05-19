@@ -1,7 +1,7 @@
 
 <!ENTITY  connectionsDialog.title       "Roghainnean ceangail">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
+<!ENTITY  window.width                  "45em">
+<!ENTITY  window.macWidth               "45em">
 
 <!ENTITY  proxyTitle.label              "Co-dhealbh progsaidhean a chum inntrigeadh dhan lìon">
 <!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">

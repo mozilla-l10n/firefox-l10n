@@ -21,7 +21,7 @@
 <!ENTITY  passwords.label               "Faclan-faire">
 
 <!ENTITY  rememberPasswords.label       "Cuimhnich faclan-faire nan làraichean-lìn">
-<!ENTITY  rememberPasswords.accesskey   "r">
+<!ENTITY  rememberPasswords.accesskey   "u">
 <!ENTITY  passwordExceptions.label      "Eisgeachdan…">
 <!ENTITY  passwordExceptions.accesskey  "g">
 

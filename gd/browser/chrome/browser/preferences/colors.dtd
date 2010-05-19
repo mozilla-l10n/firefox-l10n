@@ -17,6 +17,6 @@
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Dathan nan ceangal">
 <!ENTITY  linkColor.label                 "Ceanglaichean gun tadhal orra:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "e">
 <!ENTITY  visitedLinkColor.label          "Ceanglaichean a thadhladh orra:">
 <!ENTITY  visitedLinkColor.accesskey      "o">

@@ -34,10 +34,10 @@ that require it.  -->
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Eachdraidh an rannsachaidh ┐  nan luchdaidhean">
 <!ENTITY itemHistoryAndDownloads.accesskey "E">
-<!ENTITY itemBrowsingHistory.label         "Eachdraidh nan rannsachaidhean">
+<!ENTITY itemBrowsingHistory.label         "An eachdraidh brabhsachaidh">
 <!ENTITY itemBrowsingHistory.accesskey     "r">
 <!ENTITY itemFormSearchHistory.label       "Eachdraidh nam foirmean ┐ nan lorg">
-<!ENTITY itemFormSearchHistory.accesskey   "f">
+<!ENTITY itemFormSearchHistory.accesskey   "d">
 <!ENTITY itemPasswords.label               "Faclan-faire air an sàbhaladh">
 <!ENTITY itemPasswords.accesskey           "F">
 <!ENTITY itemCookies.label                 "Briosgaidean">

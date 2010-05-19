@@ -1,5 +1,5 @@
 <!ENTITY window.title                 "Eisgeachdan">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "42em">
 
 <!ENTITY treehead.sitename.label      "Seòladh">
 <!ENTITY treehead.status.label        "Cor">
@@ -14,7 +14,7 @@
 <!ENTITY session.label                "Ceadaich fad an t-seisein">
 <!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Ceadaich">
-<!ENTITY allow.accesskey              "C">
+<!ENTITY allow.accesskey              "a">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Dùin">

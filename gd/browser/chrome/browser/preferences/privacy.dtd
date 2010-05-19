@@ -12,7 +12,7 @@
 
 
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "b">
 
 <!ENTITY  acceptThirdParty.label        "Gabh ri briosgaidean treas pàrtaidh">
 <!ENTITY  acceptThirdParty.accesskey    "p">
@@ -34,7 +34,7 @@
 <!ENTITY  historyHeader.pre.label          "Dè nì &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "D">
 <!ENTITY  historyHeader.remember.label     "Cuimhnich an eachdraidh">
-<!ENTITY  historyHeader.dontremember.label "Na cuimhnich an eachdraidh gu bràth">
+<!ENTITY  historyHeader.dontremember.label "Na cuimhnich an eachdraidh idir">
 <!ENTITY  historyHeader.custom.label       "Cleachd roghainnean gnàthaichte airson na h-eachdraidh">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -66,12 +66,12 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.pre.label      "Cuimhnich m' eachdraidh rannsachaidh air a' char as lugha fad">
-<!ENTITY  rememberHistory.pre.accesskey  "m">
+<!ENTITY  rememberHistory.pre.label      "Cuimhnich m' eachdraidh brabhsachaidh air a' char as lugha fad">
+<!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "latha">
 
 <!ENTITY  rememberDownload.label         "Cuimhnich eachdraidh nan luchdaidhean a-nuas">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberDownload.accesskey     "n">
 
 <!ENTITY  rememberSearchForm.label       "Cuimhnich eachdraidh nan lorg is nam foirmichean">
 <!ENTITY  rememberSearchForm.accesskey   "f">

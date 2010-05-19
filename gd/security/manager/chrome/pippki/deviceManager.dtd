@@ -48,9 +48,9 @@
 <!ENTITY devmgr.button.login.label              "Log a-steach">
 <!ENTITY devmgr.button.login.accesskey          "g">
 <!ENTITY devmgr.button.logout.label             "Log a-mach">
-<!ENTITY devmgr.button.logout.accesskey         "-">
+<!ENTITY devmgr.button.logout.accesskey         "o">
 <!ENTITY devmgr.button.changepw.label           "Atharraich am facal-faire">
-<!ENTITY devmgr.button.changepw.accesskey       "f">
+<!ENTITY devmgr.button.changepw.accesskey       "m">
 <!ENTITY devmgr.button.load.label               "Luchdaich">
 <!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Dì-luchdaich">

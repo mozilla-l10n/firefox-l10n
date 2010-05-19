@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.width  "700">
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
@@ -87,17 +87,17 @@
 
 <!ENTITY  permTab               "Ceadachasan">
 <!ENTITY  permTab.accesskey     "C">
-<!ENTITY  permUseDefault        "Cleachd an fheadhainn bhunaiteach">
+<!ENTITY  permUseDefault        "Cleachd an roghainn bhunaiteach">
 <!ENTITY  permAskAlways         "Faighnich dhìom gach turas">
 <!ENTITY  permAllow             "Ceadaich">
 <!ENTITY  permAllowSession      "Ceadaich fad an t-seisein">
 <!ENTITY  permBlock             "Cuir bacadh air">
 <!ENTITY  permissionsFor        "Ceadachasan airson:">
-<!ENTITY  permImage             "Luchdaich dealbhan">
-<!ENTITY  permPopup             "Fosgail priob-uinneagan">
-<!ENTITY  permCookie            "Suidhich briosgaidean">
-<!ENTITY  permInstall           "Stàlaich leasachain no coltasan">
-<!ENTITY  permGeo               "Leig fios mun àite">
+<!ENTITY  permImage             "Luchdadh de dhealbhan">
+<!ENTITY  permPopup             "Fosgladh de phriob-uinneagan">
+<!ENTITY  permCookie            "Suidheachadh de bhriosgaidean">
+<!ENTITY  permInstall           "Stàladh de leasachan no coltasan">
+<!ENTITY  permGeo               "Leigeil fios mun àite">
 
 <!ENTITY  securityTab           "Tèarainteachd">
 <!ENTITY  securityTab.accesskey "T">
@@ -118,7 +118,7 @@
 <!ENTITY  securityView.privacy.viewCookies              "Seall na briosgaidean">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "A bheil mi air facal-faire a shàbhaladh airson na làraich-lìn seo?">
-<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire a tha air an sàbhaladh">
+<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire a tha air a shàbhaladh">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Mion-fhiosrachadh teicnigeach">
