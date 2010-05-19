@@ -1,0 +1,11 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>m.Ceneje.si</ShortName>
+<Description>Mobilni iskalnik Ceneje.si</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image height="16" width="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqklEQVQ4EYWSARKAIAgEtU%2F2xXplcSjCIKAzxXiwJ1L9o9VO6%2B17xT2wa884JYJRMvXaIILnyXwM5XODCjYmsYGFTbG0vSK1sRt4GPvIhO%2FgDTLYm0wYQTs4wZEJOsN%2F8D0U5JF9Fm0d1bQFIpFBojsYcsfLTpUHJu3aKPe2AyVtGCBZzSCBIasBdpEJdCx38hC9AVRrIlUJjLR%2Bxqy4gBnBEMMlXyVMqvgDcpfxNJ7fDpQAAAAASUVORK5CYII%3D</Image>
+<Url type="text/html" method="GET" template="http://m.ceneje.si/mobileceneje.aspx">
+  <Param name="q" value="{searchTerms}" />
+  <Param name="FF-SearchBox" value="1" />
+</Url>
+<SearchForm>http://m.ceneje.si</SearchForm>
+</SearchPlugin>
