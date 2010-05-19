@@ -159,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Ynspeksje">
+<!ENTITY inspectMenu.accesskey        "Y">
+<!ENTITY inspectMenu.commandkey       "Y">
+
 <!ENTITY fileMenu.label               "Bestân"> 
 <!ENTITY fileMenu.accesskey           "B">
 <!ENTITY newNavigatorCmd.label        "Nij finster">
