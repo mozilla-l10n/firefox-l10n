@@ -34,7 +34,7 @@
 <!ENTITY cmd.restartApp2.accesskey         "G">
 <!ENTITY cmd.restartApp2.tooltip           "Genstart &brandShortName; for at tage ændringerne i brug">
 <!ENTITY cmd.skip.label                   "Spring over">
-<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.accesskey               "o">
 <!ENTITY cmd.skip.tooltip                 "Spring disse opdateringer over">
 <!ENTITY cmd.continue.label               "Fortsæt">
 <!ENTITY cmd.continue.accesskey           "F">
