@@ -1,9 +1,13 @@
-<!ENTITY welcome.title                      "Wíllkommen bei &brandShortName;">
-<!ENTITY intro.description                  "Synchronisieren Sie Ihren PC und Ihr Handy mit Weave Sync. Passen Sie den Browser an, über Add-ons. Surfen Sie mit der intelligenten Adressleiste und vieles, vieles mehr.">
-<!ENTITY weave.title                        "Auf und Los">
-<!ENTITY weave.description                  "Mit Weave Sync bleibt Firefox aktuell. Synchronisieren Sie Ihre Einstellungen, Lesezeichen, Browser-Chronik und mehr zwischen Ihren PC und Ihrem Handy.">
-<!ENTITY weave.linkLabel                    "Holen Sie sich das Weave Sync Add-on">
-<!ENTITY getPersonal.title                  "Persönlich werden">
-<!ENTITY getPersonal.description            "Machen Sie &brandShortName; zu Ihrem persönlichen Browser. Das erste Mal können Sie Add-ons in einem mobilen Browser verwenden.">
-<!ENTITY getPersonal.linkLabel              "Holen Sie sich Add-ons für Ihr Handy">
-
+<!ENTITY firstrun.title                "Wíllkommen bei &brandShortName;">
+<!ENTITY firstrun.heading              "Hier sind einige der beliebtesten Funktionen und Add-ons, damit Sie das meiste aus &brandShortName; machen können">
+<!ENTITY firstrun.recommended          "Empfohlen:">
+<!ENTITY firstrun.weave.title          "Holen Sie sich Weave-Sync">
+<!ENTITY firstrun.weave.description    "Synchronisieren Sie Ihre &brandShortName;-Chronik, -Lesezeichen, -Tabs und mehr zwischen Ihrem Computer und Ihrem Mobilgerät.">
+<!ENTITY firstrun.starter.title        "Holen Sie sich die Startpaket-Kollektion">
+<!ENTITY firstrun.starter.description  "Installieren Sie diese empfohlenen Add-ons, um &brandShortName; genau so anzupassen, wie Sie Ihn mögen">
+<!ENTITY firstrun.tour.title           "Video-Rundgang ansehen"> 
+<!ENTITY firstrun.tour.description     "Schauen Sie sich dieses Video an, um mehr über die Bedienung und coole Features zu erfahren">
+<!ENTITY firstrun.features             "Sehen Sie sich weitere Funktionen an">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Datenschutzrichtlinie">
+<!ENTITY firstrun.follow               "Folgen Sie uns auf:">
