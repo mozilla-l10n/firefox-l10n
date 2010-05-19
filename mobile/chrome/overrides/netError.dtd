@@ -168,6 +168,10 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <p>Diese Art von Internet-Betrug ist auch bekannt als Phishing. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blockiert von der Content-Security-Policy (CSP)">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat diese Webseite daran gehindert, auf diese Weise geladen zu werden, weil die Webseite eine Content-Security-Policy (CSP) hat, die dies nicht erlaubt./p>">
+
+
 <!ENTITY securityOverride.linkText "Oder Sie können eine Ausnahme hinzufügen…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Website verlassen!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ausnahme hinzufügen…">
