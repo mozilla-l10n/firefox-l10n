@@ -2,10 +2,10 @@
 <!ENTITY dialog.style             "width: 680px; height: 480px;">
 <!ENTITY instructions.description "'S urrainn dhut rudan a chur ris no a thoirt air falbh le bhith 'gan slaodadh air a' chrann-inneal no air falbh uaithe.">
 <!ENTITY show.label               "Seall:">
-<!ENTITY iconsAndText.label       "Ìomhaighean is teacs">
-<!ENTITY icons.label              "Ìomhaighean">
+<!ENTITY iconsAndText.label       "Ìomhaigheagan is teacs">
+<!ENTITY icons.label              "Ìomhaigheagan">
 <!ENTITY text.label               "Teacs">
-<!ENTITY useSmallIcons.label      "Cleachd ìomhaighean beaga">
+<!ENTITY useSmallIcons.label      "Cleachd ìomhaigheagan beaga">
 <!ENTITY restoreDefaultSet.label  "Aisig an seata bunaiteach">
 <!ENTITY addNewToolbar.label      "Cuir crann-inneal ùr ris">
 <!ENTITY saveChanges.label        "Dèanta">
