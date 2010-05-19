@@ -12,6 +12,8 @@
 <!ENTITY rememberPasswords.title                   "Passwörter merken">
 <!ENTITY language.title                            "Sprache">
 <!ENTITY language.auto                             "Automatisch erkennen">
+<!ENTITY defaultBrowser.title                      "Standard-Browser">
+<!ENTITY defaultBrowser.description                "&brandShortName; als Standard-Browser festlegen">
 <!ENTITY homepage.title                            "Startseite">
 <!ENTITY homepage.none                             "Leere Seite">
 <!ENTITY homepage.default                          "&brandShortName;-Start">
