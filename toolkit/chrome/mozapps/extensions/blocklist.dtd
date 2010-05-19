@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; op 'e nij starte">
 <!ENTITY blocklist.accept.accesskey  "n">
+
+<!ENTITY blocklist.blocked.label     "Blokkearre">
+<!ENTITY blocklist.checkbox.label    "Utskeakelje">
