@@ -1,176 +1,107 @@
-<!ENTITY addons.title    				  "Tafoegings">
+<!ENTITY addons.windowTitle                   "Tafoegingsbehearder">
+<!ENTITY search.placeholder                   "Alle tafoegings trochsykje">
+<!ENTITY loading.label                        "Lade…">
+<!ENTITY listEmpty.installed.label            "Jo hawwe gjin tafoegings fan dit type ynstallearre">
+<!ENTITY listEmpty.search.label               "Gjin oerienkommende tafoegings fûn">
+<!ENTITY listEmpty.button.label               "Mear ynfo oer tafoegings">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Trochsykje">
+<!ENTITY view.discover.label                  "Tafoegings krije">
+<!ENTITY view.languages.label                 "Talen">
+<!ENTITY view.searchengines.label             "Sykmasines">
+<!ENTITY view.features.label                  "Utwreidings">
+<!ENTITY view.appearance.label                "Tema’s">
+<!ENTITY view.plugins.label                   "Ynstekkers">
 
-<!ENTITY cmd.info.commandKey			  "i">
-<!ENTITY cmd.options.commandKey			  ",">
-<!ENTITY cmd.close.commandKey			  "w">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Tafoegings bywurkje">
+<!ENTITY updates.updating.label               "Tafoegings oan it bywurkjen">
+<!ENTITY updates.installed.label              "Jo tafoegings binne bywurke.">
+<!ENTITY updates.downloaded.label             "Jo tafoegingsfernijings binne ynladen.">
+<!ENTITY updates.restart.label                "Werstart no om de ynstallaasje te foltôgjen.">
+<!ENTITY updates.noneFound.label              "Gjin fernijings fûn">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Krij tafoegings">
-<!ENTITY extensions.label                 "Utwreidings">
-<!ENTITY themes.label                     "Tema's">
-<!ENTITY locales.label                    "Talen">
-<!ENTITY plugins.label                    "Ynstekkers">
-<!ENTITY update.label                     "Fernijings">
-<!ENTITY install.label                    "Ynstallaasje">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Mear ynformaasje toane">
+<!ENTITY cmd.showDetails.accesskey            "M">
+<!ENTITY cmd.findUpdates.label                "Fernijings sykje">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferences.label                "Foarkarren">
+<!ENTITY cmd.preferences.accesskey            "k">
+<!ENTITY cmd.about.label                      "Oer">
+<!ENTITY cmd.about.accesskey                  "O">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Fernijings sykje">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Siket fernijings foar jo útwreidings">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Siket fernijings foar jo tema's">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Siket fernijings foar jo ynstekkers">
-<!ENTITY cmd.installLocalFile.label       "Ynstallearje...">
-<!ENTITY cmd.installLocalFile.accesskey   "Y">
-<!ENTITY cmd.installFileAddon.tooltip     "In útwreiding ynstallearje">
-<!ENTITY cmd.installFileTheme.tooltip     "In tema ynstallearje">
-<!ENTITY cmd.installUpdatesAll2.label      "Fernijings ynstallearje">
-<!ENTITY cmd.installUpdatesAll2.accesskey  "y">
-<!ENTITY cmd.installUpdatesAll2.tooltip    "Ynstallearje de selektearre fernijings">
-<!ENTITY cmd.restartApp2.label            "&brandShortName; op 'e nij starte">
-<!ENTITY cmd.restartApp2.accesskey        "n">
-<!ENTITY cmd.restartApp2.tooltip          "Start &brandShortName; op 'e nij om de ynstallaasje te foltôgjen">
-<!ENTITY cmd.skip.label                   "Oerslaan">
-<!ENTITY cmd.skip.accesskey               "O">
-<!ENTITY cmd.skip.tooltip                 "Dizze fernijings oerslaan">
-<!ENTITY cmd.continue.label               "Trochgean">
-<!ENTITY cmd.continue.accesskey           "T">
-<!ENTITY cmd.continue.tooltip             "Trochgean mei it laden fan &brandShortName;">
+<!ENTITY cmd.enableAddon.label                "Ynskeakelje">
+<!ENTITY cmd.enableAddon.accesskey            "Y">
+<!ENTITY cmd.enableAddon.tooltip              "Dizzze tafoeging ynskeakelje">
+<!ENTITY cmd.disableAddon.label               "Utskeakelje">
+<!ENTITY cmd.disableAddon.accesskey           "U">
+<!ENTITY cmd.disableAddon.tooltip             "Dizze tafoeging útskeakelje">
+<!ENTITY cmd.uninstallAddon.label             "Fuortsmite">
+<!ENTITY cmd.uninstallAddon.accesskey         "F">
+<!ENTITY cmd.uninstallAddon.tooltip           "Dizze tafoeging de-ynstallearje">
+<!ENTITY cmd.contribute.label                 "Bydrage">
+<!ENTITY cmd.contribute.accesskey             "B">
+<!ENTITY cmd.contribute.tooltip               "Draach by oan de ûntwikkeling fan dizze tafoeging">
+  
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Ferzje">
+<!ENTITY detail.updated.label                 "Bywurke">
+<!ENTITY detail.creator.label                 "Untwikkelaar">
+<!ENTITY detail.homepage.label                "Thússide">
+<!ENTITY detail.numberOfDownloads.label       "Oantal kear ynladen">
 
-<!ENTITY cmd.enableAll.label              "Alle ynskeakelje">
-<!ENTITY cmd.enableAll.accesskey          "A">
-<!ENTITY cmd.enableAll.tooltip            "Alle toande tafoegings ynskeakelje">
-<!ENTITY cmd.disableAll.label             "Alle útskeakelje">
-<!ENTITY cmd.disableAll.accesskey         "t">
-<!ENTITY cmd.disableAll.tooltip           "Alle toande tafoegings útskeakelje">
+<!ENTITY detail.updateAutomatically.label     "Automatysk bywurkje">
+<!ENTITY detail.updateAutomatically.accesskey "A">
+<!ENTITY detail.updateAutomatically.tooltip   "Dizze tafoeging automatysk bywurkjen as der in fernijing beskikber is">
+<!ENTITY detail.checkForUpdates.label         "Kontrolearje op fernijings">
+<!ENTITY detail.checkForUpdates.accesskey     "K">
+<!ENTITY detail.checkForUpdates.tooltip       "Kontrolearje op fernijings foar dizze tafoeging">
+<!ENTITY detail.showPreferences.label         "Foarkarren">
+<!ENTITY detail.showPreferences.accesskey     "F">
+<!ENTITY detail.showPreferences.tooltip       "Foarkarren fan dizze tafoegings oanpasse">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Tema brûke">
-<!ENTITY cmd.useTheme.accesskey           "T">
-<!ENTITY cmd.useTheme.tooltip             "Feroaret it tema fan &brandShortName;">
-<!ENTITY cmd.options.label                "Opsjes">
-<!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "Opsjes fan de selektearre útwreiding ynstelle">
-<!ENTITY cmd.optionsUnix.label            "Foarkarren">
-<!ENTITY cmd.optionsUnix.accesskey        "F">
-<!ENTITY cmd.optionsUnix.tooltip          "Foarkarren fan de selektearre útwreiding bewurkje">
-<!ENTITY cmd.enable.label                 "Ynskeakelje">
-<!ENTITY cmd.enable.accesskey             "a">
-<!ENTITY cmd.enable.tooltip               "Dizze tafoeging ynskeakelje as &brandShortName; op 'e nij start">
-<!ENTITY cmd.disable.label                "Utskeakelje">
-<!ENTITY cmd.disable.accesskey            "U">
-<!ENTITY cmd.disable.tooltip              "Dizze tafoeging útskeakelje as &brandShortName; op 'e nij start">
-<!ENTITY cmd.uninstall.label              "De-ynstallearje">
-<!ENTITY cmd.uninstall2.accesskey         "D">
-<!ENTITY cmd.uninstall2.tooltip           "Dizze tafoeging de-ynstallearje as &brandShortName; op 'e nij start">
-<!ENTITY cmd.cancelUninstall.label        "De-ynstallaasje annulearje">
-<!ENTITY cmd.cancelUninstall.accesskey    "a">
-<!ENTITY cmd.cancelUninstall.tooltip      "De-ynstallaasje fan dizze tafoeging annulearje">
-<!ENTITY cmd.cancelInstall.label          "Ynstallaasje annulearje">
-<!ENTITY cmd.cancelInstall.accesskey      "Y">
-<!ENTITY cmd.cancelInstall.tooltip        "De ynstallaasje fan dizze tafoeging annulearje">
-<!ENTITY cmd.cancelUpgrade.label          "Fernijing annulearje">
-<!ENTITY cmd.cancelUpgrade.accesskey      "F">
-<!ENTITY cmd.cancelUpgrade.tooltip        "De fernijing fan dizze tafoeging annulearje">
-<!ENTITY cmd.installUpdate.label          "Fernijing ynstallearje">
-<!ENTITY cmd.installUpdate.accesskey      "i">
-<!ENTITY cmd.installUpdate.tooltip        "In fernijing foar dizze tafoeging ynstallearje">
-<!ENTITY cmd.showUpdateInfo.label         "Ynformaasje toane">
-<!ENTITY cmd.showUpdateInfo.accesskey     "t">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Mear ynformaasje oer dizze fernijing toane">
-<!ENTITY cmd.hideUpdateInfo.label         "Ynformaasje ferbergje">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "f">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Ynformaasje oer dizze fernijings ferbergje">
-<!ENTITY cmd.installSearchResult.label     "Tafoegje oan &brandShortName;...">
-<!ENTITY cmd.installSearchResult.accesskey "T">
-<!ENTITY cmd.installSearchResult.tooltip   "Dizze tafoeging ynlade en ynstallearje">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Annulearje">
-<!ENTITY cancel.accesskey                 "A">
-<!ENTITY cancelInstall.label              "Annulearje">
-<!ENTITY cancelInstall.accesskey          "A">
-<!ENTITY cancelUpgrade.label              "Annulearje">
-<!ENTITY cancelUpgrade.accesskey          "A">
+<!-- ratings -->
+<!ENTITY rating.yourRating.label              "Jo beoardieling:">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Thússide besykje">
-<!ENTITY cmd.homepage.accesskey           "T">
-<!ENTITY cmd.about2.label                 "Oer dizze tafoeging">
-<!ENTITY cmd.about.accesskey              "e">
-<!ENTITY cmd.checkUpdate.label            "Fernijing sykje">
-<!ENTITY cmd.checkUpdate.accesskey        "s">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Annulearje">
 
-<!ENTITY cmd.includeUpdate.label          "Fernijing opnimme">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "Dizze fernijing opnimme">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Dizze tafoeging opnimme by it ynstallearje fan de fernijings">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Namme">
+<!ENTITY sort.name.tooltip                    "Sortearje op namme">
+<!ENTITY sort.size.label                      "Grutte">
+<!ENTITY sort.size.tooltip                    "Sortearje op grutte">
+<!ENTITY sort.dateUpdated.label               "Lêste fernijing">
+<!ENTITY sort.dateUpdated.tooltip             "Sortearje op fernijingsdatum">
+<!ENTITY sort.rating.label                    "Beoardieling">
+<!ENTITY sort.rating.tooltip                  "Sortearje op trochsnee beoardieling">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Fersoarget gjin befeilige fernijngs.">
-<!ENTITY needsDependencies.label          "Hat ekstra ûnderdielen nedich.">
-<!ENTITY blocklisted.label                "Utskeakele foar jo beskerming.">
-<!ENTITY softBlocklisted.label            "Bekend fan it feroarsaakjen fan feilichheids- of stabiliteitsproblemen.">
-<!ENTITY outdated.label                   "In nijere, feiligere ferzje is beskikber.">
-<!ENTITY toBeDisabled.label               "Dizze tafoeging sil útskeakele wurde as &brandShortName; op 'e nij start.">
-<!ENTITY toBeEnabled.label                "Dizze tafoeging sil ynskeakele wurde as &brandShortName; op 'e nij start.">
-<!ENTITY toBeInstalled.label              "Dizze tafoeging sil ynstallearre wurde as &brandShortName; op 'e nij start.">
-<!ENTITY toBeUninstalled.label            "Dizze tafoeging sil de-ynstallearre wurde as &brandShortName; op 'e nij start.">
-<!ENTITY toBeUpdated.label                "Dizze tafoeging sil fernijt wurde as &brandShortName; op 'e nij start.">
+<!ENTITY showMore.label                       "Mear toane">
+<!ENTITY showMore.accesskey                   "m">
+<!ENTITY showMore.tooltip                     "Mear details toane">
+<!ENTITY showLess.label                       "Minder toane">
+<!ENTITY showLess.accesskey                   "t">
+<!ENTITY showLess.tooltip                     "Minder details toane">
 
-<!ENTITY getExtensions.label              "Utwreidings krije">
-<!ENTITY getThemes.label                  "Tema's krije">
-<!ENTITY getPlugins.label                 "Ynstekkers krije">
+<!ENTITY search.filter.label                  "Toane:">
+<!ENTITY search.filter.installed.label        "Jo ynstallearre tafoegings">
+<!ENTITY search.filter.available.label        "Beskikbere tafoegings">
 
-<!ENTITY searchAddons.label               "Sykje yn alle tafoegings">
-<!ENTITY browseAddons.label               "Blêdzje troch alle tafoegings">
-<!ENTITY searchFailed.label               "&brandShortName; koe gjin tafoegings krije">
-<!ENTITY recommendedHeader.label          "Oanrikkemandearre">
-<!ENTITY recommendedThrobber.label        "Oanrikkemandearre tafoegings krije">
-<!ENTITY searchThrobber.label             "Siket no tafoegings">
-<!ENTITY resetSearch.label                "Resultaten wisse">
-<!ENTITY noSearchResults.label            "Alle resultaten binne al ynstallearre of net kompatibel.">
-<!ENTITY noRecommendedResults.label       "Alle oanrikkemandearre binne al ynstallearre of net kompatibel.">
-<!ENTITY emptySearch.label                "Gjin oerienkommende tafoegings">
-<!ENTITY emptySearch.button               "Ok">
-<!ENTITY cancelSearch.button              "Annulearje">
-<!ENTITY searchFailed.button              "Ok">
-<!ENTITY searchResultHomepage.value       "Lear mear">
-<!ENTITY searchBox.label                  "Sykje yn alle tafoegings">
-<!ENTITY recommendedResults.label         "Besjoch alle oanrikkemandearre tafoegings">
-<!ENTITY searchResultConnecting.label     "Dwaande mei ferbining">
-<!ENTITY searchResultInstalling.label     "Dwaande mei ynstallaasje">
-<!ENTITY searchResultFailed.label         "Ynstallaasje mislearre">
-<!ENTITY searchResultInstalled.label      "Ynstallaasje dien">
-<!ENTITY addonTypeExtension.label         "Utwreiding">
-<!ENTITY addonTypeTheme.label             "Tema">
-<!ENTITY missingThumbnail.label           "Gjin foarbyld">
+<!ENTITY addon.homepage                       "Thússide">
+<!ENTITY addon.unknownDate                    "Unbekend">
+<!ENTITY addon.disabled.postfix               "(útskeakele)">
+<!ENTITY addon.undo.label                     "Ungedien meitsje?">
+<!ENTITY addon.undo.tooltip                   "Dizze aksje ûngedien meitsje">
+<!ENTITY addon.undoUninstall.label            "Ungedien meitsje?">
+<!ENTITY addon.undoUninstall.tooltip          "Dizze tafoeging ynstallearre litte">
+<!ENTITY addon.restartNow.label               "No werstarte">
+<!ENTITY addon.restartNow.tooltip             "Werstart no om de ynstallaasje te foltôgjen">
+<!ENTITY addon.install.label                  "Ynstallearje">
+<!ENTITY addon.install.tooltip                "Dizze tafoeging ynstallearje">
+<!ENTITY addon.checkingForUpdates.label       "Kontrolearje op fernijings…">
 
-<!ENTITY previewNoThemeSelected.label     "Gjin tema selektearre">
-<!ENTITY previewNoPreviewImage.label      "Dit tema hat gjin foarbyldôfbylding">
-<!ENTITY moreInfo.label                   "Mear ynformaasje">
-<!ENTITY infoNoAddonSelected.label        "Gjin fernijing selektearre">
-<!ENTITY infoNoUpdateInfo.label           "Dizze fernijing hat gjin oanfoljende ynformaasje">
-<!ENTITY infoUpdateInfoError.label        "Flater by it laden fan de ynformaasje oer dizze fernijing">
-
-<!ENTITY updateSuccess.label              "Fernijing súksesfol foltôge.">
-<!ENTITY installSuccess.label             "Ynstallaasje súksesfol foltôge.">
-<!ENTITY installSuccessRestart.label      "Start op 'e nij op om de ynstallaasje te foltôgjen.">
-<!ENTITY updateSuccessRestart.label       "Start op 'e nij op om de fernijing te foltôgjen.">
-<!ENTITY installWaiting.label             "Wachtsje...">
-<!ENTITY installIncompatibleUpdate.label  "Kompatibiliteit kontrolearje...">
-<!ENTITY installFinishing.label           "Dwaande mei ynstallearjen...">
-<!ENTITY installFailure.label             "Ynstallaasje mislearre.">
-
-<!ENTITY progressStatus.label             "Kontroleart op fernijings">               
-
-<!ENTITY eula.title                       "Ein-Brûker Lisinsje Oerienkomst">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Akseptearje en ynstallearje...">
-
-<!ENTITY blocklist.blocked.label          "Blokkearre">
-<!ENTITY blocklist.checkbox.label         "Utskeakele">
+<!ENTITY addon.createdBy.label                "Troch ">
