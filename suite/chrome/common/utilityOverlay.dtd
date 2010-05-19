@@ -92,6 +92,8 @@
 <!ENTITY helpMenu.label                             "Žinynas"> 
 <!ENTITY helpMenu.accesskey                         "Ž"> 
 
+<!ENTITY helpTroubleshootingInfo.label              "Informacija problemų sprendimui">
+<!ENTITY helpTroubleshootingInfo.accesskey          "s">
 <!ENTITY releaseCmd.label                           "Laidos apžvalga">
 <!ENTITY releaseCmd.accesskey                       "L">
 <!ENTITY updateCmd.label                            "Tikrinti ar yra naujinimų…">
