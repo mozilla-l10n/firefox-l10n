@@ -42,7 +42,7 @@
 <!ENTITY  actionQuestion.label        "Dè nì &brandShortName; leis an fhaidhle seo?">
 
 <!ENTITY  openWith.label              "Fosgail le">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.accesskey          "F">
 <!ENTITY  other.label                 "Eile…">
 
 <!ENTITY  saveFile.label              "Sàbhail am faidhle">
