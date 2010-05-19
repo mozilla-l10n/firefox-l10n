@@ -1,5 +1,5 @@
 <!ENTITY  blockPopups.label           "Cuir bacadh air priob-uinneagan">
-<!ENTITY  blockPopups.accesskey       "b">
+<!ENTITY  blockPopups.accesskey       "C">
 <!ENTITY  popupExceptions.label       "Eisgeachdan…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -34,4 +34,4 @@
 <!ENTITY languages.label              "Cànain">
 <!ENTITY chooseLanguage.label         "Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan">
 <!ENTITY chooseButton.label           "Tagh…">
-<!ENTITY chooseButton.accesskey       "g">
+<!ENTITY chooseButton.accesskey       "T">

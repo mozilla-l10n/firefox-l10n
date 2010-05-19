@@ -36,17 +36,17 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY advancedJSDialog.title         "Roghainnean JavaScript adhartach">
-<!ENTITY window.width                   "37em">
+<!ENTITY window.width                   "45em">
 
 <!ENTITY allowScripts.label             "Leig le sgriobtaichean:">
 
 <!ENTITY moveResizeWindows.label        "Uinneagan làithreach a ghluasad no am meud atharrachadh">
-<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY moveResizeWindows.accesskey    "n">
 <!ENTITY raiseLowerWindows.label        "Uinneagan àrdachadh no ìsleachadh">
-<!ENTITY raiseLowerWindows.accesskey    "r">
+<!ENTITY raiseLowerWindows.accesskey    "U">
 <!ENTITY disableContextMenus.label      "Clàir-thaice co-theacs a chur à comas no rud a chur nan àite">
-<!ENTITY disableContextMenus.accesskey  "d">
+<!ENTITY disableContextMenus.accesskey  "C">
 <!ENTITY hideStatusBar.label            "Bàr na staide a chur am falach">
-<!ENTITY hideStatusBar.accesskey        "h">
+<!ENTITY hideStatusBar.accesskey        "B">
 <!ENTITY changeStatusBar.label          "Teacs air bàr na staide atharrachadh">
-<!ENTITY changeStatusBar.accesskey      "c">
+<!ENTITY changeStatusBar.accesskey      "T">

@@ -4,8 +4,8 @@
 
 <!ENTITY accessibility.label             "Inntrigeachd">
 
-<!ENTITY useCursorNavigation.label       "Cleachd iuchraichean a' chùrsair gus gluasad am broinn nan duilleagan an-còmhnaidh">
-<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY useCursorNavigation.label       "Cleachd na putanan-saigheid gus gluasad am broinn nan duilleagan an-còmhnaidh">
+<!ENTITY useCursorNavigation.accesskey   "u">
 <!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
 <!ENTITY searchStartTyping.accesskey     "t">
 <!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
@@ -18,13 +18,13 @@
 <!ENTITY useSmoothScrolling.label        "Cleachd sgròladh caoin">
 <!ENTITY useSmoothScrolling.accesskey    "c">
 <!ENTITY checkSpelling.label             "Ceartachadh litreachaidh beò">
-<!ENTITY checkSpelling.accesskey         "l">
+<!ENTITY checkSpelling.accesskey         "a">
 
 <!ENTITY systemDefaults.label            "Roghainnean bunaiteach an t-siostaim">
-<!ENTITY alwaysCheckDefault.label        "Thoir sùil an e &brandShortName; am brabhsair bunaiteach agad gach turas a thòiseachas tu e"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "n">
+<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòiseachas e"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "B">
 <!ENTITY checkNow.label                  "Thoir sùil an-dràsta">
-<!ENTITY checkNow.accesskey              "n">
+<!ENTITY checkNow.accesskey              "o">
 <!ENTITY submitCrashes.label             "A' cur a-steach aithisgean tuislidh">
 <!ENTITY submitCrashes.accesskey         "s">
 
@@ -90,14 +90,14 @@
 <!ENTITY certificates.label              "Teaisteanasan">
 <!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
 <!ENTITY certs.auto                      "Taghar fear leis fhèin">
-<!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "Faighnich dhìom a h-uile turas">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certs.auto.accesskey            "T">
+<!ENTITY certs.ask                       "Faighnich dhìom gach turas">
+<!ENTITY certs.ask.accesskey             "F">
 <!ENTITY viewCerts.label                 "Seall na teisteanasan">
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewCRLs.label                  "Liosta nan cùl-ghairmean">
-<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Dearbhadh">
 <!ENTITY verify2.accesskey               "b">
 <!ENTITY viewSecurityDevices.label       "Innealan tèarainteachd">
-<!ENTITY viewSecurityDevices.accesskey   "i">
+<!ENTITY viewSecurityDevices.accesskey   "I">

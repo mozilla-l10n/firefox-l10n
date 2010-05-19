@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title         "Modh tèarainte &brandShortName;">
-<!ENTITY window.width                 "37em">
+<!ENTITY window.width                 "45em">
 
 <!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, coltasan is leasachain ghnàthaichte agad à comas rè seal.">
 <!ENTITY safeModeDescription2.label   "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">

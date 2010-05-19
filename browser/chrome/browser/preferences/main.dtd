@@ -1,24 +1,24 @@
 <!ENTITY startup.label             "Aig an toiseach">
 
 <!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage.accesskey     "N">
 <!ENTITY startupHomePage.label     "Seall an duilleag-dhachaigh agam">
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
 <!ENTITY startupLastSession.label  "Seall na h-uinneagan is tabaichean a bha agam san t-seisean mu dheireadh">
 <!ENTITY location.label            "An duilleag-dhachaigh:">
-<!ENTITY location.accesskey        "h">
+<!ENTITY location.accesskey        "g">
 <!ENTITY useCurrentPage.label      "Cleachd an duilleag làithreach">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Cleachd na duilleagan làithreach">
 <!ENTITY useBookmark.label         "Cleachd comharra-lìn">
 <!ENTITY useBookmark.accesskey     "m">
 <!ENTITY restoreDefault.label      "Aisig na roghainnean bunaiteach">
-<!ENTITY restoreDefault.accesskey  "r">
+<!ENTITY restoreDefault.accesskey  "A">
 
 <!ENTITY downloads.label     "Luchdaidhean a-nuas">
 
 <!ENTITY showWhenDownloading.label     "Seall uinneag an luchdaidh a-nuas nuair a bhios faidhle 'ga luchdadh a-nuas">
-<!ENTITY showWhenDownloading.accesskey "d">
+<!ENTITY showWhenDownloading.accesskey "S">
 <!ENTITY closeWhenDone.label "Dùin an uinneag nuair a bhios a h-uile luchdadh a-nuas deiseil">
 <!ENTITY closeWhenDone.accesskey "d">
 <!ENTITY saveTo.label "Sàbhail faidhlichean ann an">

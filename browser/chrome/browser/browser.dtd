@@ -63,11 +63,11 @@
 <!ENTITY fullScreenExit.accesskey "l">
 
 <!ENTITY closeWindow.label "Dùin an uinneag">
-<!ENTITY closeWindow.accesskey "D">
+<!ENTITY closeWindow.accesskey "n">
 
 <!ENTITY bookmarksMenu.label "Comharraidhean-lìn">
 <!ENTITY bookmarksMenu.accesskey "C">
-<!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn airson an duilleag seo">
+<!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn dhan duilleag seo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Fo-sgrìobh gun duilleag seo">
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
@@ -373,11 +373,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip            "Cuir ann">
 <!ENTITY fullScreenButton.tooltip       "Seall an uinneag san sgàilean iomlan">
 
-<!ENTITY quitApplicationCmdWin.label       "Fàg seo"> 
+<!ENTITY quitApplicationCmdWin.label       "Fàg an-seo"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Fàg seo"> 
+<!ENTITY quitApplicationCmd.label       "Fàg an-seo"> 
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac.label    "Fàg &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
