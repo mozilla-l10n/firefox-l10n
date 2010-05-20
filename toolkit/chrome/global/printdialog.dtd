@@ -1,40 +1,40 @@
 <!-- extracted from printdialog.xul -->
 
-<!ENTITY printButton.label "Clò-bhuail">
+<!ENTITY printButton.label "Print">
 
-<!ENTITY printDialog.title "Clò-bhuail">
+<!ENTITY printDialog.title "Print">
 
-<!ENTITY fpDialog.title "Sàbhail am faidhle">
+<!ENTITY fpDialog.title "Save File">
 
-<!ENTITY fileCheck.label "Clò-bhuail gu faidhle">
-<!ENTITY fileCheck.accesskey "f">
-<!ENTITY propertiesButton.label "Roghainnean…">
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Properties…">
 <!ENTITY propertiesButton.accesskey "o">
-<!ENTITY descText.label "Tuairisgeul a' chlò-bhualadair:">
-<!ENTITY printer.label "Clò-bhualadair">
-<!ENTITY printerInput.label "Ainm a' chlò-bhualadair:">
-<!ENTITY printerInput.accesskey "n">
+<!ENTITY descText.label "Printer Description:">
+<!ENTITY printer.label "Printer">
+<!ENTITY printerInput.label "Printer Name:">
+<!ENTITY printerInput.accesskey "N">
 
-<!ENTITY printrangeGroup.label "Raon a' chlò-bhualaidh">
-<!ENTITY allpagesRadio.label "A h-uile duilleag">
+<!ENTITY printrangeGroup.label "Print Range">
+<!ENTITY allpagesRadio.label "All Pages">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label  "Duilleagan">
-<!ENTITY rangeRadio.accesskey  "D">
-<!ENTITY frompageInput.label  "o">
-<!ENTITY frompageInput.accesskey  "o">
-<!ENTITY topageInput.label  "gu">
-<!ENTITY topageInput.accesskey  "g">
-<!ENTITY selectionRadio.label "Na chaidh a thaghadh">
-<!ENTITY selectionRadio.accesskey "N">
+<!ENTITY rangeRadio.label  "Pages">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "to">
+<!ENTITY topageInput.accesskey  "t">
+<!ENTITY selectionRadio.label "Selection">
+<!ENTITY selectionRadio.accesskey "S">
 
-<!ENTITY copies.label "Leth-bhric">
-<!ENTITY numCopies.label "Àireamh de lethbhric:">
+<!ENTITY copies.label "Copies">
+<!ENTITY numCopies.label "Number of copies:">
 <!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "Clò-bhuail frèamaichean">
-<!ENTITY aslaidoutRadio.label "Mar a chithear air an sgrìn">
-<!ENTITY aslaidoutRadio.accesskey "s">
-<!ENTITY selectedframeRadio.label  "Am frèam a chaidh a thaghadh">
+<!ENTITY printframeGroup.label "Print Frames">
+<!ENTITY aslaidoutRadio.label "As laid out on the screen">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "The selected frame">
 <!ENTITY selectedframeRadio.accesskey  "m">
-<!ENTITY eachframesepRadio.label  "Gach frèam na aonar">
-<!ENTITY eachframesepRadio.accesskey  "G">
+<!ENTITY eachframesepRadio.label  "Each frame separately">
+<!ENTITY eachframesepRadio.accesskey  "E">

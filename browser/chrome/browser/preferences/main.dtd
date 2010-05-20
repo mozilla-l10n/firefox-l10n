@@ -1,37 +1,37 @@
-<!ENTITY startup.label             "Aig an toiseach">
+<!ENTITY startup.label             "Startup">
 
-<!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
-<!ENTITY startupPage.accesskey     "N">
-<!ENTITY startupHomePage.label     "Seall an duilleag-dhachaigh agam">
-<!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
-<!ENTITY startupLastSession.label  "Seall na h-uinneagan is tabaichean a bha agam san t-seisean mu dheireadh">
-<!ENTITY location.label            "An duilleag-dhachaigh:">
-<!ENTITY location.accesskey        "g">
-<!ENTITY useCurrentPage.label      "Cleachd an duilleag làithreach">
+<!ENTITY startupPage.label         "When &brandShortName; starts:">
+<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupHomePage.label     "Show my home page">
+<!ENTITY startupBlankPage.label    "Show a blank page">
+<!ENTITY startupLastSession.label  "Show my windows and tabs from last time">
+<!ENTITY location.label            "Home Page:">
+<!ENTITY location.accesskey        "H">
+<!ENTITY useCurrentPage.label      "Use Current Page">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "Cleachd na duilleagan làithreach">
-<!ENTITY useBookmark.label         "Cleachd comharra-lìn">
-<!ENTITY useBookmark.accesskey     "m">
-<!ENTITY restoreDefault.label      "Aisig na roghainnean bunaiteach">
-<!ENTITY restoreDefault.accesskey  "A">
+<!ENTITY useMultiple.label         "Use Current Pages">
+<!ENTITY useBookmark.label         "Use Bookmark">
+<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY restoreDefault.label      "Restore to Default">
+<!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     "Luchdaidhean a-nuas">
+<!ENTITY downloads.label     "Downloads">
 
-<!ENTITY showWhenDownloading.label     "Seall uinneag an luchdaidh a-nuas nuair a bhios faidhle 'ga luchdadh a-nuas">
-<!ENTITY showWhenDownloading.accesskey "S">
-<!ENTITY closeWhenDone.label "Dùin an uinneag nuair a bhios a h-uile luchdadh a-nuas deiseil">
-<!ENTITY closeWhenDone.accesskey "d">
-<!ENTITY saveTo.label "Sàbhail faidhlichean ann an">
-<!ENTITY saveTo.accesskey "b">
-<!ENTITY chooseFolderWin.label        "Rannsaich…">
-<!ENTITY chooseFolderWin.accesskey    "n">
-<!ENTITY chooseFolderMac.label        "Tagh…">
-<!ENTITY chooseFolderMac.accesskey    "g">
-<!ENTITY alwaysAsk.label "Faighnich dhìom càit an dèid faidhlichean a shàbhaladh an-còmhnaidh">
-<!ENTITY alwaysAsk.accesskey "F">
+<!ENTITY showWhenDownloading.label     "Show the Downloads window when downloading a file">
+<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY closeWhenDone.label "Close it when all downloads are finished">
+<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY saveTo.label "Save files to">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "Browse…">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "Choose…">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAsk.label "Always ask me where to save files">
+<!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY addonsMgr.label               "Tuilleadain">
-<!ENTITY manageAddonsDescWin.label     "Atharraich roghainnean nan tuilleadan agad">
-<!ENTITY manageAddonsDescUnix2.label   "Atharraich roghainnean nan tuilleadan agad">
-<!ENTITY manageAddons.label            "Rianaich tuilleadan…">
-<!ENTITY manageAddons.accesskey        "R">
+<!ENTITY addonsMgr.label               "Add-ons">
+<!ENTITY manageAddonsDescWin.label     "Change options for your add-ons">
+<!ENTITY manageAddonsDescUnix2.label   "Change preferences for your add-ons">
+<!ENTITY manageAddons.label            "Manage Add-ons…">
+<!ENTITY manageAddons.accesskey        "M">

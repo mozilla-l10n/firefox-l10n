@@ -1,62 +1,62 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Roghainnean na duilleige">
+<!ENTITY printSetup.title    "Page Setup">
 
-<!ENTITY basic.tab           "Fòrmat ┐ rogainnean">
+<!ENTITY basic.tab           "Format &amp; Options">
 
-<!ENTITY formatGroup.label   "Fòrmat">
+<!ENTITY formatGroup.label   "Format">
 
-<!ENTITY orientation.label   "Taobhachadh na duilleige:">
-<!ENTITY portrait.label      "Portraid">
+<!ENTITY orientation.label   "Orientation:">
+<!ENTITY portrait.label      "Portrait">
 <!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Dreach-tìre">
-<!ENTITY landscape.accesskey "D">
+<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "Sgèile:">
+<!ENTITY scale.label         "Scale:">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Crùb gu leud na duilleige">
-<!ENTITY shrinkToFit.accesskey "l">
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Roghainnean">
+<!ENTITY optionsGroup.label  "Options">
 
-<!ENTITY printBG.label       "Clò-bhuail an cùlaibh (dathan ┐ dealbhan)">
-<!ENTITY printBG.accesskey   "b">
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Marghain ┐ bann-cinn/bann-coise">
+<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
 
-<!ENTITY marginGroup.label   "Marghain (#1)">
-<!ENTITY marginUnits.inches  "òirlich">
-<!ENTITY marginUnits.metric  "milemeatairean">
-<!ENTITY marginTop.label     "Barr:">
-<!ENTITY marginTop.accesskey "B">
-<!ENTITY marginBottom.label  "Bun:">
-<!ENTITY marginBottom.accesskey "u">
-<!ENTITY marginLeft.label    "Clì:">
-<!ENTITY marginLeft.accesskey "l">
-<!ENTITY marginRight.label   "Deis:">
-<!ENTITY marginRight.accesskey "e">
+<!ENTITY marginGroup.label   "Margins (#1)">
+<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.metric  "millimeters">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Bannan-cinn ┐ coise">
+<!ENTITY headerFooter.label  "Headers &amp; Footers">
 
-<!ENTITY hfLeft.label        "Clì:">
-<!ENTITY hfCenter.label      "Meadhan:">
-<!ENTITY hfRight.label       "Deis:">
-<!ENTITY headerLeft.tip      "Bann-cinn clì">
-<!ENTITY headerCenter.tip    "Bann-cinn meadhanach">
-<!ENTITY headerRight.tip     "Bann-cinn deis">
-<!ENTITY footerLeft.tip      "Bann-coise clì">
-<!ENTITY footerCenter.tip    "Bann-coise meadhanach">
-<!ENTITY footerRight.tip     "Bann-coise deis">
+<!ENTITY hfLeft.label        "Left:">
+<!ENTITY hfCenter.label      "Center:">
+<!ENTITY hfRight.label       "Right:">
+<!ENTITY headerLeft.tip      "Left header">
+<!ENTITY headerCenter.tip    "Center header">
+<!ENTITY headerRight.tip     "Right header">
+<!ENTITY footerLeft.tip      "Left footer">
+<!ENTITY footerCenter.tip    "Center footer">
+<!ENTITY footerRight.tip     "Right footer">
 
-<!ENTITY hfTitle             "Tiotal">
+<!ENTITY hfTitle             "Title">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Ceann-là/Àm">
-<!ENTITY hfPage              "Duilleag a #">
-<!ENTITY hfPageAndTotal      "Duilleag a # à #">
-<!ENTITY hfBlank             "--bàn--">
-<!ENTITY hfCustom            "Gnàthaichte…">
+<!ENTITY hfDateAndTime       "Date/Time">
+<!ENTITY hfPage              "Page #">
+<!ENTITY hfPageAndTotal      "Page # of #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Custom…">
 
-<!ENTITY customPrompt.title  "Gnàthaichte…">
-<!ENTITY customPrompt.prompt "Cuir a-steach teacs a' bhanna-chinn/-choise ghnàthaichte agad">
+<!ENTITY customPrompt.title  "Custom…">
+<!ENTITY customPrompt.prompt "Enter your custom header/footer text">

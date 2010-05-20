@@ -1,31 +1,31 @@
-<!ENTITY editMenu.label            "Deasaich">
-<!ENTITY editMenu.accesskey        "D">
-<!ENTITY undoCmd.label             "Neo-dhèan">
+<!ENTITY editMenu.label            "Edit">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label             "Undo">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "n">
-<!ENTITY redoCmd.label             "Ath-dhèan">
+<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY redoCmd.label             "Redo">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "a">
-<!ENTITY cutCmd.label              "Gearr às">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY cutCmd.label              "Cut">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "r">
-<!ENTITY copyCmd.label             "Dèan leth-bhreac">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Copy">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "l">
-<!ENTITY pasteCmd.label            "Cuir ann">
+<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "Paste">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "C">
-<!ENTITY deleteCmd.label           "Sguab às">
-<!ENTITY deleteCmd.accesskey       "S">
-<!ENTITY selectAllCmd.label        "Tagh na h-uile">
+<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "Delete">
+<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY selectAllCmd.label        "Select All">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "T">
-<!ENTITY findCmd.label             "Lorg">
+<!ENTITY selectAllCmd.accesskey    "A">
+<!ENTITY findCmd.label             "Find">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "L">
-<!ENTITY findAgainCmd.label        "Lorg a-rithist">
+<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findAgainCmd.label        "Find Again">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "Lorg fear roimhe seo">
-<!ENTITY findPreviousCmd.accesskey "m">
+<!ENTITY findPreviousCmd.label     "Find Previous">
+<!ENTITY findPreviousCmd.accesskey "v">

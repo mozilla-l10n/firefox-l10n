@@ -1,37 +1,37 @@
-<!ENTITY  blockPopups.label           "Cuir bacadh air priob-uinneagan">
-<!ENTITY  blockPopups.accesskey       "C">
-<!ENTITY  popupExceptions.label       "Eisgeachdan…">
+<!ENTITY  blockPopups.label           "Block pop-up windows">
+<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  popupExceptions.label       "Exceptions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "Luchdaichear dealbhan leis fhèin">
-<!ENTITY  loadImages.accesskey        "L">
-<!ENTITY  exceptions.label            "Eisgeachdan…">
-<!ENTITY  exceptions.accesskey        "g">
+<!ENTITY  loadImages.label            "Load images automatically">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "Exceptions…">
+<!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY  enableJavaScript.label      "Cuir JavaScript an comas">
+<!ENTITY  enableJavaScript.label      "Enable JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Adhartach…">
-<!ENTITY  advancedJS.accesskey        "r">
+<!ENTITY  advancedJS.label            "Advanced…">
+<!ENTITY  advancedJS.accesskey        "v">
 
-<!ENTITY  enableJava.label            "Cuir Java an comas">
+<!ENTITY  enableJava.label            "Enable Java">
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "Cruthan-clò ┐ dathan">
+<!ENTITY  fontsAndColors.label        "Fonts &amp; Colors">
 
-<!ENTITY  defaultFont.label           "An cruth-clò bunaiteach:">
-<!ENTITY  defaultFont.accesskey       "b">
-<!ENTITY  defaultSize.label           "Meud:">
-<!ENTITY  defaultSize.accesskey       "M">
+<!ENTITY  defaultFont.label           "Default font:">
+<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultSize.label           "Size:">
+<!ENTITY  defaultSize.accesskey       "S">
 
-<!ENTITY  advancedFonts.label         "Adhartach…">
+<!ENTITY  advancedFonts.label         "Advanced…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
-<!ENTITY  colors.label                "Dathan…">
-<!ENTITY  colors.accesskey            "D">
+<!ENTITY  colors.label                "Colors…">
+<!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "Cànain">
-<!ENTITY chooseLanguage.label         "Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan">
-<!ENTITY chooseButton.label           "Tagh…">
-<!ENTITY chooseButton.accesskey       "T">
+<!ENTITY languages.label              "Languages">
+<!ENTITY chooseLanguage.label         "Choose your preferred language for displaying pages">
+<!ENTITY chooseButton.label           "Choose…">
+<!ENTITY chooseButton.accesskey       "o">

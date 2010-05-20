@@ -1,41 +1,40 @@
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Lughdaich">
-<!ENTITY bringAllToFront.label    "Gluais a h-uile gun a' bheulaibh">
-<!ENTITY zoomWindow.label         "Sùm">
-<!ENTITY windowMenu.label         "Uinneag">
+<!ENTITY minimizeWindow.label     "Minimize">
+<!ENTITY bringAllToFront.label    "Bring All to Front">
+<!ENTITY zoomWindow.label         "Zoom">
+<!ENTITY windowMenu.label         "Window">
 
-<!ENTITY helpMenu.label           "Cobhair"> 
-<!ENTITY helpMenu.accesskey       "b"> 
+<!ENTITY helpMenu.label           "Help"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Cobhair"> 
-<!ENTITY helpMenuWin.accesskey    "b">
-<!ENTITY aboutCmd.label           "Mu &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "M">
-<!ENTITY productHelp.label        "Cobhair &brandShortName;">
-<!ENTITY productHelp.accesskey    "o">
-<!ENTITY helpForIEUsers.label     "Do chleachdaichean Internet Explorer">
+<!ENTITY helpMenuWin.label        "Help"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpForIEUsers.label     "For Internet Explorer Users">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label         "Notaichean sgaoilidh">
+<!ENTITY helpReleaseNotes.label         "Release Notes">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshooting.label      "Taic le duilgheadasan...">
-<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY updateCmd.label                "Lorg ùrachaidhean…">
+<!ENTITY updateCmd.label                "Check for Updates…">
 
-<!ENTITY preferencesCmdMac.label        "Roghainnean…">
+<!ENTITY preferencesCmdMac.label        "Preferences…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Seirbheisean">
+<!ENTITY servicesMenuMac.label          "Services">
 
-<!ENTITY hideThisAppCmdMac.label        "Cuir &brandShortName; am falach">
+<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Cuir càch am falach">
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Seall na h-uile">
+<!ENTITY showAllAppsCmdMac.label        "Show All">

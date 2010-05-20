@@ -4,28 +4,28 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Air ais">
-<!ENTITY backButton.accesskey           "i">
-<!ENTITY backButton.tooltip             "Rach duilleag air ais">
-<!ENTITY forwardButton.label            "Air adhart">
-<!ENTITY forwardButton.accesskey        "d">
-<!ENTITY forwardButton.tooltip          "Rach duilleag air adhart">
-<!ENTITY copyCmd.label                  "Dèan leth-bhreac">
-<!ENTITY copyCmd.accesskey              "l">
-<!ENTITY selectAllCmd.label             "Tagh na h-uile">
-<!ENTITY selectAllCmd.accesskey         "T">
+<!ENTITY backButton.label               "Back">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "Go back one page">
+<!ENTITY forwardButton.label            "Forward">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "Go forward one page">
+<!ENTITY copyCmd.label                  "Copy">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "Select All">
+<!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Dhachaigh">
-<!ENTITY homeButton.tooltip             "Rach gu duilleag mhòr a' chuideachaidh">
-<!ENTITY printButton.label              "Clò-bhuail">
-<!ENTITY printButton.tooltip            "Clò-bhuail an duilleag seo">
+<!ENTITY homeButton.label               "Home">
+<!ENTITY homeButton.tooltip             "Go to the Help Start Page">
+<!ENTITY printButton.label              "Print">
+<!ENTITY printButton.tooltip            "Print this page">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Lorg">
-<!ENTITY searchHeader.label             "Toraidhean luirg">
-<!ENTITY toctab.label                   "Susbaint">
-<!ENTITY toctab.accesskey               "b">
+<!ENTITY search.emptytext               "Search">
+<!ENTITY searchHeader.label             "Search results">
+<!ENTITY toctab.label                   "Contents">
+<!ENTITY toctab.accesskey               "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -43,10 +43,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Air uachdar an-còmhnaidh">
-<!ENTITY zLevel.accesskey               "u">
+<!ENTITY zLevel.label                   "Always on Top">
+<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "Sùm a-mach">
-<!ENTITY fullZoomReduceBtn.accesskey    "m">
-<!ENTITY fullZoomEnlargeBtn.label       "Sùm a-steach">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "a">
+<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

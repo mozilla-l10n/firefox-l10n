@@ -6,22 +6,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Tùs: ">
+<!ENTITY mainWindow.preface "Source of: ">
 
-<!ENTITY fileMenu.label "Faidhle">
+<!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Sàbhail an duilleag mar…">
-<!ENTITY savePageCmd.accesskey "S">
+<!ENTITY savePageCmd.label "Save Page As…">
+<!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Roghainnean na duilleige…">
-<!ENTITY pageSetupCmd.accesskey "R">
-<!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
-<!ENTITY printPreviewCmd.accesskey "h">
-<!ENTITY printCmd.label "Clò-bhuail…">
-<!ENTITY printCmd.accesskey "C">
+<!ENTITY pageSetupCmd.label "Page Setup…">
+<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Dùin">
-<!ENTITY closeCmd.accesskey "D">
+<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
@@ -38,39 +38,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Rach gu loidhne…">
-<!ENTITY goToLineCmd.accesskey "g">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "Sealladh">
-<!ENTITY viewMenu.accesskey       "S">
-<!ENTITY reloadCmd.label "Ath-luchdaich">
-<!ENTITY reloadCmd.accesskey "A">
+<!ENTITY viewMenu.label           "View">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY reloadCmd.label "Reload">
+<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Paisg loidhnichean fada"> 
-<!ENTITY menu_wrapLongLines.accesskey "P">
-<!ENTITY menu_highlightSyntax.label "Comharrachadh co-chàraidh">
-<!ENTITY menu_highlightSyntax.accesskey "m">
-<!ENTITY menu_textSize.label "Meud an teacs">
-<!ENTITY menu_textSize.accesskey "s">
-<!ENTITY menu_textEnlarge.label "Clò nas motha">
-<!ENTITY menu_textEnlarge.accesskey "m">
-<!ENTITY menu_textReduce.label "Clò nas lugha">
-<!ENTITY menu_textReduce.accesskey "l">
-<!ENTITY menu_textReset.label "Meud àbhaisteach">
-<!ENTITY menu_textReset.accesskey "b">
+<!ENTITY menu_wrapLongLines.title "Wrap Long Lines"> 
+<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
+<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_textSize.label "Text Size">
+<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textEnlarge.label "Increase">
+<!ENTITY menu_textEnlarge.accesskey "I">
+<!ENTITY menu_textReduce.label "Decrease">
+<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textReset.label "Normal">
+<!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Lorg san duilleag seo…">
-<!ENTITY findOnCmd.accesskey "L">
+<!ENTITY findOnCmd.label     "Find in This Page…">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Lorg a-rithist">
+<!ENTITY findAgainCmd.label  "Find Again">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "C">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY backCmd.label "Air ais">
-<!ENTITY backCmd.accesskey "i">
-<!ENTITY forwardCmd.label "Air adhart">
-<!ENTITY forwardCmd.accesskey "d">
+<!ENTITY backCmd.label "Back">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "Forward">
+<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

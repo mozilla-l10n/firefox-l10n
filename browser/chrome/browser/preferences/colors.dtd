@@ -1,22 +1,22 @@
-<!ENTITY  colorsDialog.title              "Dathan">
-<!ENTITY  window.width                    "46em">
-<!ENTITY  window.macWidth                 "49em">
+<!ENTITY  colorsDialog.title              "Colors">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Leig le duilleagan na dathan aca fhèin a thaghadh seach mo thaghadh-sa gu h-àrd">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+<!ENTITY  allowPagesToUse.label           "Allow pages to choose their own colors, instead of my selections above">
+<!ENTITY  allowPagesToUse.accesskey       "A">
 
-<!ENTITY  color                           "Teacs is cùlaibh">
-<!ENTITY  textColor.label                 "Teacs:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Cùlaibh:">
-<!ENTITY  backgroundColor.accesskey       "C">
-<!ENTITY  useSystemColors.label           "Cleachd dathan an t-siostaim">
+<!ENTITY  color                           "Text and Background">
+<!ENTITY  textColor.label                 "Text:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Background:">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "Use system colors">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Cuir loidhne fo cheanglaichean">
-<!ENTITY  underlineLinks.accesskey        "u">
-<!ENTITY  links                           "Dathan nan ceangal">
-<!ENTITY  linkColor.label                 "Ceanglaichean gun tadhal orra:">
-<!ENTITY  linkColor.accesskey             "e">
-<!ENTITY  visitedLinkColor.label          "Ceanglaichean a thadhladh orra:">
-<!ENTITY  visitedLinkColor.accesskey      "o">
+<!ENTITY  underlineLinks.label            "Underline links">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "Link Colors">
+<!ENTITY  linkColor.label                 "Unvisited Links:">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "Visited Links:">
+<!ENTITY  visitedLinkColor.accesskey      "V">

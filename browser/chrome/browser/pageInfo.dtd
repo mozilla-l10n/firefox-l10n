@@ -37,88 +37,88 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  pageInfoWindow.width  "700">
+<!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Dèan leth-bhreac">
-<!ENTITY  copy.accesskey        "l">
+<!ENTITY  copy.label            "Copy">
+<!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Tagh na h-uile">
-<!ENTITY  selectall.accesskey   "T">
+<!ENTITY  selectall.label       "Select All">
+<!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "Coitcheann">
-<!ENTITY  generalTab.accesskey  "C">
-<!ENTITY  generalURL            "Seòladh:">
-<!ENTITY  generalType           "Seòrsa:">
-<!ENTITY  generalMode           "Modh reandaraidh:">
-<!ENTITY  generalSize           "Meud:">
-<!ENTITY  generalReferrer       "An t-URL on dàinigear:">
-<!ENTITY  generalSource         "Tobar an tasgadain:">
-<!ENTITY  generalModified       "Air atharrachadh:">
-<!ENTITY  generalEncoding       "Còdachadh:">
-<!ENTITY  generalMetaName       "Ainm">
-<!ENTITY  generalMetaContent    "Susbaint">
-<!ENTITY  generalSecurityDetails   "Mion-fhiosrachadh">
-<!ENTITY  generalSecurityDetails.accesskey "d">
+<!ENTITY  generalTab            "General">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Address:">
+<!ENTITY  generalType           "Type:">
+<!ENTITY  generalMode           "Render Mode:">
+<!ENTITY  generalSize           "Size:">
+<!ENTITY  generalReferrer       "Referring URL:">
+<!ENTITY  generalSource         "Cache Source:">
+<!ENTITY  generalModified       "Modified:">
+<!ENTITY  generalEncoding       "Encoding:">
+<!ENTITY  generalMetaName       "Name">
+<!ENTITY  generalMetaContent    "Content">
+<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  mediaTab              "Meadhanan">
+<!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Àite:">
-<!ENTITY  mediaText             "Teacs co-cheangailte:">
-<!ENTITY  mediaAltHeader        "Roghainn teacs eile">
-<!ENTITY  mediaAddress          "Seòladh">
-<!ENTITY  mediaType             "Seòrsa">
-<!ENTITY  mediaSize             "Meud">
-<!ENTITY  mediaCount            "Cunntas">
-<!ENTITY  mediaDimension        "Meudachd:">
-<!ENTITY  mediaLongdesc         "An tuairisgeul fada:">
+<!ENTITY  mediaLocation         "Location:">
+<!ENTITY  mediaText             "Associated Text:">
+<!ENTITY  mediaAltHeader        "Alternate Text">
+<!ENTITY  mediaAddress          "Address">
+<!ENTITY  mediaType             "Type">
+<!ENTITY  mediaSize             "Size">
+<!ENTITY  mediaCount            "Count">
+<!ENTITY  mediaDimension        "Dimensions:">
+<!ENTITY  mediaLongdesc         "Long Description:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Sàbhail mar…">
-<!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "l">
-<!ENTITY  mediaPreview          "Ro-shealladh mheadhanan:">
+<!ENTITY  mediaSaveAs           "Save As…">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Media Preview:">
 
-<!ENTITY  feedTab               "Inbhirean">
-<!ENTITY  feedTab.accesskey     "I">
-<!ENTITY  feedSubscribe         "Fo-sgrìobh">
-<!ENTITY  feedSubscribe.accesskey "F">
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Subscribe">
+<!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "Ceadachasan">
-<!ENTITY  permTab.accesskey     "C">
-<!ENTITY  permUseDefault        "Cleachd an roghainn bhunaiteach">
-<!ENTITY  permAskAlways         "Faighnich dhìom gach turas">
-<!ENTITY  permAllow             "Ceadaich">
-<!ENTITY  permAllowSession      "Ceadaich fad an t-seisein">
-<!ENTITY  permBlock             "Cuir bacadh air">
-<!ENTITY  permissionsFor        "Ceadachasan airson:">
-<!ENTITY  permImage             "Luchdadh de dhealbhan">
-<!ENTITY  permPopup             "Fosgladh de phriob-uinneagan">
-<!ENTITY  permCookie            "Suidheachadh de bhriosgaidean">
-<!ENTITY  permInstall           "Stàladh de leasachan no coltasan">
-<!ENTITY  permGeo               "Leigeil fios mun àite">
+<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Use Default">
+<!ENTITY  permAskAlways         "Always ask">
+<!ENTITY  permAllow             "Allow">
+<!ENTITY  permAllowSession      "Allow for Session">
+<!ENTITY  permBlock             "Block">
+<!ENTITY  permissionsFor        "Permissions for:">
+<!ENTITY  permImage             "Load Images">
+<!ENTITY  permPopup             "Open Pop-up Windows">
+<!ENTITY  permCookie            "Set Cookies">
+<!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permGeo               "Share Location">
 
-<!ENTITY  securityTab           "Tèarainteachd">
-<!ENTITY  securityTab.accesskey "T">
-<!ENTITY  securityHeader        "Fiosrachadh tèarainteachd na duilleige seo">
-<!ENTITY  securityView.certView "Seall an teisteanas">
+<!ENTITY  securityTab           "Security">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Security information for this page">
+<!ENTITY  securityView.certView "View Certificate">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Neo-aithnichte">
+<!ENTITY  securityView.unknown   "Unknown">
 
 
-<!ENTITY  securityView.identity.header   "Dearbh-aithne na làraich-lìn">
-<!ENTITY  securityView.identity.owner    "Sealbhadair:">
-<!ENTITY  securityView.identity.domain   "Làrach-lìn:">
-<!ENTITY  securityView.identity.verifier "Air a dhearbhadh le:">
+<!ENTITY  securityView.identity.header   "Web Site Identity">
+<!ENTITY  securityView.identity.owner    "Owner:">
+<!ENTITY  securityView.identity.domain   "Web site:">
+<!ENTITY  securityView.identity.verifier "Verified by:">
 
-<!ENTITY  securityView.privacy.header                   "Prìobhaideachd ┐ eachdraidh">
-<!ENTITY  securityView.privacy.history                  "A bheil mi air tadhal air an làrach-lìn seo mu thràth an-diugh?">
-<!ENTITY  securityView.privacy.cookies                  "A bheil an làrach-lìn seo a' stòradh fiosrachadh (briosgaidean) air a' choimpiutair agam?">
-<!ENTITY  securityView.privacy.viewCookies              "Seall na briosgaidean">
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
+<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "A bheil mi air facal-faire a shàbhaladh airson na làraich-lìn seo?">
-<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire a tha air a shàbhaladh">
+<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
+<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "Mion-fhiosrachadh teicnigeach">
+<!ENTITY  securityView.technical.header                 "Technical Details">

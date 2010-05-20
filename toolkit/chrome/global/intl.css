@@ -5,9 +5,3 @@
 window { 
   font: 3mm tahoma,arial,helvetica,sans-serif;
 }
-#extensionsManager {
- width: 55em !important;
-}
-#advancedScripts {
-  min-width: 30em !important;
-}
