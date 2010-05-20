@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label        "Gnàthaich còdachadh charactairean">
-<!ENTITY current.label      "Còdachaidhean charactairean beòtha:">
-<!ENTITY remove.label       "Thoir air falbh">
-<!ENTITY remove.accessKey   "T">
-<!ENTITY additional.label   "Còdachaidhean charactairean ri am faighinn:">
-<!ENTITY add.label          "Cuir ris">
-<!ENTITY add.accessKey      "R">
-<!ENTITY moveUp.label       "Gluais suas">
+<!ENTITY title.label        "Customize Character Encoding">
+<!ENTITY current.label      "Active Character Encodings:">
+<!ENTITY remove.label       "Remove">
+<!ENTITY remove.accessKey   "R">
+<!ENTITY additional.label   "Available Character Encodings:">
+<!ENTITY add.label          "Add">
+<!ENTITY add.accessKey      "A">
+<!ENTITY moveUp.label       "Move Up">
 <!ENTITY moveUp.accessKey   "U">
-<!ENTITY moveDown.label     "Gluais sìos">
-<!ENTITY moveDown.accessKey "O">
+<!ENTITY moveDown.label     "Move Down">
+<!ENTITY moveDown.accessKey "D">

@@ -1,5 +1,5 @@
 <!ENTITY  windowClose.key                         "w">
-<!ENTITY  preferencesDefaultTitleMac.title        "Roghainnean">
-<!ENTITY  preferencesDefaultTitleWin.title        "Roghainnean">
-<!ENTITY  preferencesCloseButton.label            "Dùin">
-<!ENTITY  preferencesCloseButton.accesskey        "D">
+<!ENTITY  preferencesDefaultTitleMac.title        "Preferences">
+<!ENTITY  preferencesDefaultTitleWin.title        "Options">
+<!ENTITY  preferencesCloseButton.label            "Close">
+<!ENTITY  preferencesCloseButton.accesskey        "C">

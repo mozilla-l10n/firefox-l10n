@@ -35,34 +35,34 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Consol nam mearachd">
+<!ENTITY errorConsole.title "Error Console">
 
-<!ENTITY errFile.label   "Am faidhle tùsail:">
-<!ENTITY errLine.label   "Loidhne:">
-<!ENTITY errColumn.label "Colbh:">
+<!ENTITY errFile.label   "Source File:">
+<!ENTITY errLine.label   "Line:">
+<!ENTITY errColumn.label "Column:">
 
-<!ENTITY all.label          "A h-uile">
+<!ENTITY all.label          "All">
 <!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "Mearachdan">
-<!ENTITY errors.accesskey   "e">
-<!ENTITY warnings.label     "Rabhaidhean">
-<!ENTITY warnings.accesskey "R">
-<!ENTITY messages.label     "Teachdaireachdan">
-<!ENTITY messages.accesskey "T">
-<!ENTITY clear.label        "Falamhaich">
-<!ENTITY clear.accesskey    "F">
-<!ENTITY codeEval.label     "Còd:">
-<!ENTITY codeEval.accesskey "C">
-<!ENTITY evaluate.label     "Luachaich">
-<!ENTITY evaluate.accesskey "L">
+<!ENTITY errors.label       "Errors">
+<!ENTITY errors.accesskey   "E">
+<!ENTITY warnings.label     "Warnings">
+<!ENTITY warnings.accesskey "W">
+<!ENTITY messages.label     "Messages">
+<!ENTITY messages.accesskey "M">
+<!ENTITY clear.label        "Clear">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.label     "Code:">
+<!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.label     "Evaluate">
+<!ENTITY evaluate.accesskey "v">
 
-<!ENTITY copyCmd.label       "Dèan leth-bhreac">  
-<!ENTITY copyCmd.accesskey   "l"> 
+<!ENTITY copyCmd.label       "Copy">  
+<!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "Òrdugh seòrsachaidh Toiseach > Crìoch">
-<!ENTITY sortFirst.accesskey "T">
-<!ENTITY sortLast.label      "Òrdugh seòrsachaidh Crìoch > Toiseach">
-<!ENTITY sortLast.accesskey  "c">
+<!ENTITY sortFirst.label     "First > Last Sort Order">
+<!ENTITY sortFirst.accesskey "F">
+<!ENTITY sortLast.label      "Last > First Sort Order">
+<!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

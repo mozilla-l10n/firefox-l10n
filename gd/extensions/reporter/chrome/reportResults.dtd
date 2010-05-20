@@ -1,15 +1,15 @@
-<!ENTITY reportSite                  "Seòladh">
-<!ENTITY reportProblemType           "Seòrsa an duilgheadais">
-<!ENTITY reportDecsription           "Tuairisgeul">
-<!ENTITY reportPlatform              "Ùrlar">
-<!ENTITY reportProduct               "Bathar">
-<!ENTITY reportoscpu                 "SO">
+<!ENTITY reportSite                  "Site">
+<!ENTITY reportProblemType           "Problem Type">
+<!ENTITY reportDecsription           "Description">
+<!ENTITY reportPlatform              "Platform">
+<!ENTITY reportProduct               "Product">
+<!ENTITY reportoscpu                 "OS">
 <!ENTITY reportGecko                 "Gecko">
-<!ENTITY reportBuildConfig           "Co-dhealbhachd an togalaich">
+<!ENTITY reportBuildConfig           "Build Config">
 <!ENTITY reportUseragent             "Useragent">
-<!ENTITY reportLanguage              "Cànan">
-<!ENTITY reportCharset               "Seata charactairean">
-<!ENTITY reportEmail                 "Post-dealain">
-<!ENTITY error                       "Mion-fhiosrachadh air a' mhearachd">
-<!ENTITY faultCode                   "Còd">
-<!ENTITY faultMessage                "Teachdaireachd">
+<!ENTITY reportLanguage              "Language">
+<!ENTITY reportCharset               "Charset">
+<!ENTITY reportEmail                 "Email">
+<!ENTITY error                       "Error Details">
+<!ENTITY faultCode                   "Code">
+<!ENTITY faultMessage                "Message">

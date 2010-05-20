@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "'S urrainn dhut na roghainnean atharrachadh ann an roghainnean &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "'S urrainn dhut na roghainnean atharrachadh ann an roghainnean &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Settings can be changed in &brandShortName;'s Preferences.">
+<!ENTITY  settingsChangeOptions.label      "Settings can be changed in &brandShortName;'s Options.">
