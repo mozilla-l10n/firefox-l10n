@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label                "Toujours demander où enregistrer les fichiers">
 <!ENTITY alwaysAsk.accesskey            "T">
 
-<!ENTITY downloadRetention.label        "Conservation des téléchargements">
-<!ENTITY removeDownloads.label          "Suppprimer les téléchargements">
-<!ENTITY removeDownloads.accesskey      "S">
+<!ENTITY downloadHistory.label          "Historique des téléchargements">
+<!ENTITY removeEntries.label            "Retirer les entrées de téléchargements">
+<!ENTITY removeEntries.accesskey        "R">
 <!ENTITY whenCompleted.label            "lorsqu'ils sont terminés">
 <!ENTITY whenQuittingApp.label          "en quittant &brandShortName;">
 <!ENTITY neverRemove.label              "jamais">
