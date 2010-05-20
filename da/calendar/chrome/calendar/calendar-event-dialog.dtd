@@ -162,9 +162,9 @@
 <!ENTITY event.menu.options.privacy.public.label "Offentlig begivenhed">
 <!ENTITY event.menu.options.privacy.public.accesskey "O">
 <!ENTITY event.menu.options.privacy.confidential.label "Vis kun tid og dato">
-<!ENTITY event.menu.options.privacy.confidential.accesskey "t">
+<!ENTITY event.menu.options.privacy.confidential.accesskey "V">
 <!ENTITY event.menu.options.privacy.private.label "Privat begivenhed">
-<!ENTITY event.menu.options.privacy.private.accesskey "i">
+<!ENTITY event.menu.options.privacy.private.accesskey "P">
 <!ENTITY event.menu.options.show.time.label "Vis tid som">
 <!ENTITY event.menu.options.show.time.accesskey "o">
 <!ENTITY event.menu.options.show.time.busy.label "Optaget">
@@ -264,15 +264,15 @@
 <!ENTITY event.recurrence.year.label "årligt">
 
 <!ENTITY event.recurrence.pattern.every.label "Hver">
-<!ENTITY repeat.units.days.both "Dag">
+<!ENTITY repeat.units.days.both "dag">
 <!ENTITY event.recurrence.pattern.every.weekday.label "Hver ugedag">
 
 <!ENTITY event.recurrence.pattern.weekly.every.label "Hver">
-<!ENTITY repeat.units.weeks.both "Uge(r)">
+<!ENTITY repeat.units.weeks.both "uge">
 <!ENTITY event.recurrence.on.label "På:">
 
 <!ENTITY event.recurrence.pattern.monthly.every.label "Hver">
-<!ENTITY repeat.units.months.both "Måned(er)">
+<!ENTITY repeat.units.months.both "måned">
 <!ENTITY event.recurrence.monthly.every.label "Hver">
 <!ENTITY event.recurrence.monthly.first.label "Den første">
 <!ENTITY event.recurrence.monthly.second.label "Den anden">
@@ -291,7 +291,7 @@
 <!ENTITY event.recurrence.repeat.recur.label "Gentag på dag(e)">
 
 <!ENTITY event.recurrence.every.label "Hver:">
-<!ENTITY repeat.units.years.both "År">
+<!ENTITY repeat.units.years.both "år">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Hver">
 
 <!-- LOCALIZATON NOTE
@@ -346,7 +346,7 @@
 <!ENTITY event.recurrence.range.label "Gentagelsesperiode">
 <!ENTITY event.recurrence.forever.label "Ingen slutdato">
 <!ENTITY event.recurrence.repeat.for.label "Opret">
-<!ENTITY event.recurrence.appointments.label "Aftale(r)">
+<!ENTITY event.recurrence.appointments.label "aftale(r)">
 <!ENTITY event.repeat.until.label "Gentag indtil">
 <!ENTITY event.recurrence.preview.label "Vis">
 
