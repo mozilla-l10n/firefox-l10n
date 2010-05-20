@@ -1,21 +1,21 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Character Encoding">
+<!ENTITY charsetMenu.label             "Còdachadh charactairean">
 <!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "Auto-Detect">
-<!ENTITY charsetMenuAutodet.accesskey  "A">
-<!ENTITY charsetMenuMore.label         "More Encodings">
-<!ENTITY charsetMenuMore.accesskey     "M">
-<!ENTITY charsetMenuMore1.label        "West European">
-<!ENTITY charsetMenuMore1.accesskey    "W">
-<!ENTITY charsetMenuMore2.label        "East European">
+<!ENTITY charsetMenuAutodet.label      "Mothachadh leis fhèin">
+<!ENTITY charsetMenuAutodet.accesskey  "M">
+<!ENTITY charsetMenuMore.label         "Barrachd còdachaidhean">
+<!ENTITY charsetMenuMore.accesskey     "B">
+<!ENTITY charsetMenuMore1.label        "Taobh an Iar na Roinn Eòrpa">
+<!ENTITY charsetMenuMore1.accesskey    "i">
+<!ENTITY charsetMenuMore2.label        "Taobh an Ear na Roinn Eòrpa">
 <!ENTITY charsetMenuMore2.accesskey    "E">
-<!ENTITY charsetMenuMore3.label        "East Asian">
-<!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SE &amp; SW Asian">
-<!ENTITY charsetMenuMore4.accesskey    "S">
-<!ENTITY charsetMenuMore5.label        "Middle Eastern">
-<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuMore3.label        "Taobh an Ear Àisea">
+<!ENTITY charsetMenuMore3.accesskey    "a">
+<!ENTITY charsetMenuMore4.label        "Taobh an Ear-dheas ┐ Iar-dheas Àisea">
+<!ENTITY charsetMenuMore4.accesskey    "s">
+<!ENTITY charsetMenuMore5.label        "An t-Ear-mheadhan">
+<!ENTITY charsetMenuMore5.accesskey    "m">
 <!ENTITY charsetMenuUnicode.label      "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
-<!ENTITY charsetCustomize.label        "Customize List…">
-<!ENTITY charsetCustomize.accesskey    "C">
+<!ENTITY charsetCustomize.label        "Gnàthaich an liosta…">
+<!ENTITY charsetCustomize.accesskey    "G">

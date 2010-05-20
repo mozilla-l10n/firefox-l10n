@@ -1,41 +1,41 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "Roghainnean a' chlò-bhualadair">
 
-<!ENTITY paperInput.label "Paper Size:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.label "Meud a' phàipeir">
+<!ENTITY paperInput.accesskey "p">
 
-<!ENTITY plexInput.label "Plex mode:">
-<!ENTITY plexInput.accesskey "m">
+<!ENTITY plexInput.label "Modh plex:">
+<!ENTITY plexInput.accesskey "M">
 
-<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.label "Dùmhlachd-bhreacaidh/Càileachd:">
 <!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Print Command:">
-<!ENTITY cmdInput.accesskey "o">
+<!ENTITY cmdInput.label "Òrdugh clò-bhualaidh:">
+<!ENTITY cmdInput.accesskey "u">
 
-<!ENTITY jobTitleInput.label "Job Title:">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY jobTitleInput.label "Ainm na saothrach:">
+<!ENTITY jobTitleInput.accesskey "t">
 
-<!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "Grayscale">
-<!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorGroup.label "Dath:">
+<!ENTITY grayRadio.label "Sgèile liath">
+<!ENTITY grayRadio.accesskey "g">
+<!ENTITY colorRadio.label "Dath">
+<!ENTITY colorRadio.accesskey "D">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.label "Spàs datha:">
 <!ENTITY colorspaceInput.accesskey "s">
 
-<!ENTITY fontsGroup.label "Fonts:">
-<!ENTITY downloadFonts.label "Download fonts to printer">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY fontsGroup.label "Cruthan-clò:">
+<!ENTITY downloadFonts.label "Luchdaich cruthan-clò a-nuas dhan chlò-bhualadair">
+<!ENTITY downloadFonts.accesskey "d">
 
-<!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
-<!ENTITY topInput.label "Top:">
-<!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bottom:">
-<!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Left:">
-<!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Right:">
-<!ENTITY rightInput.accesskey "R">
+<!ENTITY edgeMarginInput.label "Beàrn eadar oir a' phàipeir is am marghan">
+<!ENTITY topInput.label "Barr:">
+<!ENTITY topInput.accesskey "B">
+<!ENTITY bottomInput.label "Bun:">
+<!ENTITY bottomInput.accesskey "u">
+<!ENTITY leftInput.label "Clì:">
+<!ENTITY leftInput.accesskey "l">
+<!ENTITY rightInput.label "Deis:">
+<!ENTITY rightInput.accesskey "e">

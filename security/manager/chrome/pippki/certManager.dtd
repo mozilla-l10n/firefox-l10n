@@ -35,113 +35,113 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title                       "Certificate Manager">
+<!ENTITY certmgr.title                       "Manaidsear nan teisteanasan">
 
-<!ENTITY certmgr.tab.mine                     "Your Certificates">
-<!ENTITY certmgr.tab.others2                  "People">
-<!ENTITY certmgr.tab.websites3                "Servers">
-<!ENTITY certmgr.tab.ca                       "Authorities">
-<!ENTITY certmgr.tab.orphan2                  "Others">
+<!ENTITY certmgr.tab.mine                     "Na teisteanasan agad">
+<!ENTITY certmgr.tab.others2                  "Daoine">
+<!ENTITY certmgr.tab.websites3                "Frithealaichean">
+<!ENTITY certmgr.tab.ca                       "Ùghdarrasan">
+<!ENTITY certmgr.tab.orphan2                  "Feadhainn eile">
 
-<!ENTITY certmgr.ca.builtins                  "Built-in CAs">
-<!ENTITY certmgr.ca.mycas                     "CAs Managed By You">
+<!ENTITY certmgr.ca.builtins                  "Ùghdarrasan teisteanachaidh 'na bhroinn">
+<!ENTITY certmgr.ca.mycas                     "Ùghdarrasan teisteanachaidh fo do rian fhèin">
 
-<!ENTITY certmgr.mine                         "You have certificates from these organizations that identify you:">
-<!ENTITY certmgr.others                       "You have certificates on file that identify these people:">
-<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
-<!ENTITY certmgr.cas                          "You have certificates on file that identify these certificate authorities:">
-<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
+<!ENTITY certmgr.mine                         "Tha teisteanasan agad a bheir aithne ort fhèin o na buidhnean seo:">
+<!ENTITY certmgr.others                       "Tha teisteanasan agad a bheir aithne air na daoine a leanas:">
+<!ENTITY certmgr.websites2                    "Tha teisteanasan agad a bheir aithne air na frithealaichean a leanas:">
+<!ENTITY certmgr.cas                          "Tha teisteanasan agad a bheir aithne air na h-ùghdarrasan teisteanachaidh a leanas:">
+<!ENTITY certmgr.orphans                      "Tha teisteanasan agad nach eil a' freagairt ris na roinnean eile:">
 
-<!ENTITY certmgr.detail.general_tab.title     "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Details">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.general_tab.title     "Coitcheann">
+<!ENTITY certmgr.detail.general_tab.accesskey "C">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Mion-fhiosrachadh">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "d">
 
-<!ENTITY certmgr.pending.label                "Currently verifying certificate…">
-<!ENTITY certmgr.subjectinfo.label            "Issued To">
-<!ENTITY certmgr.issuerinfo.label             "Issued By">
-<!ENTITY certmgr.validity.label               "Validity" >
-<!ENTITY certmgr.fingerprints.label           "Fingerprints">
-<!ENTITY certmgr.certdetail.title             "Certificate Detail">
-<!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
-<!ENTITY certmgr.certdetail.o                 "Organization (O)">
-<!ENTITY certmgr.certdetail.ou                "Organizational Unit (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "Serial Number">
-<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Fingerprint">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Fingerprint">
+<!ENTITY certmgr.pending.label                "A' dearbhadh an teisteanas an-dràsta fhèin…">
+<!ENTITY certmgr.subjectinfo.label            "Air fhoillseachadh do">
+<!ENTITY certmgr.issuerinfo.label             "Air fhoillseachadh le">
+<!ENTITY certmgr.validity.label               "Dligheachd" >
+<!ENTITY certmgr.fingerprints.label           "Lorgan-meur">
+<!ENTITY certmgr.certdetail.title             "Mion-fhiosrachadh an teisteanais">
+<!ENTITY certmgr.certdetail.cn                "Ainm Coitcheann (Common Name, CN)">
+<!ENTITY certmgr.certdetail.o                 "Buidheann (Organisation, O)">
+<!ENTITY certmgr.certdetail.ou                "Aonad na buidhne (Organisational Unit, OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Àireamh shreathach">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Lorg-meur SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint    "Lorg-meur MD5">
 
-<!ENTITY certmgr.editcert.title               "Edit Security Certificate Settings">
-<!ENTITY certmgr.editcacert.title             "Edit CA certificate trust settings">
-<!ENTITY certmgr.editsslcert.title            "Edit web site certificate trust settings">
-<!ENTITY certmgr.editcert.edittrust           "Edit trust settings:">
-<!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
-<!ENTITY certmgr.editcert.trustemail          "This certificate can identify mail users.">
-<!ENTITY certmgr.editcert.trustobjsign        "This certificate can identify software makers.">
-<!ENTITY certmgr.editsslcert.edittrust        "Edit certificate trust settings:">
-<!ENTITY certmgr.editsslcert.dotrust          "Trust the authenticity of this certificate.">
-<!ENTITY certmgr.editsslcert.donttrust        "Do not trust the authenticity of this certificate.">
-<!ENTITY certmgr.editemailcert.title          "Edit email certificate trust settings">
-<!ENTITY certmgr.editemailcert.edittrust      "Edit certificate trust settings:">
-<!ENTITY certmgr.editemailcert.dotrust        "Trust the authenticity of this certificate.">
-<!ENTITY certmgr.editemailcert.donttrust      "Do not trust the authenticity of this certificate.">
+<!ENTITY certmgr.editcert.title               "Deasaich roghainnean nan teisteanasan tèarainteachd">
+<!ENTITY certmgr.editcacert.title             "Deasaich roghainnean earbsa de theisteanasan nan ùghdarrasan teisteanachaidh">
+<!ENTITY certmgr.editsslcert.title            "Deasaich roghainnean earbsa ann an teisteanasan de làraichean-lìn">
+<!ENTITY certmgr.editcert.edittrust           "Deasaich na roghainnean earbsa:">
+<!ENTITY certmgr.editcert.trustssl            "'S urrainn dhan teisteanas seo làraichean-lìn aithneachadh.">
+<!ENTITY certmgr.editcert.trustemail          "'S urrainn dhan teisteanas seo cleachdaichean puist-dhealain aithneachadh.">
+<!ENTITY certmgr.editcert.trustobjsign        "'S urrainn dhan teisteanas luchd-saothrachaidh bathar-bog aithneachadh.">
+<!ENTITY certmgr.editsslcert.edittrust        "Deasaich roghainnean earbsa nan teisteanasan:">
+<!ENTITY certmgr.editsslcert.dotrust          "Cuir earbsa ann an dearbhachd an teisteanais seo.">
+<!ENTITY certmgr.editsslcert.donttrust        "Na cuir earbsa ann an dearbhachd an teisteanais seo.">
+<!ENTITY certmgr.editemailcert.title          "Deasaich roghainnean earbsa nan teisteanasan puist-dhealain">
+<!ENTITY certmgr.editemailcert.edittrust      "Deasaich roghainnean earbsa nan teisteanasan:">
+<!ENTITY certmgr.editemailcert.dotrust        "Cuir earbsa ann an dearbhachd an teisteanais seo.">
+<!ENTITY certmgr.editemailcert.donttrust      "Na cuir earbsa ann an dearbhachd an teisteanais seo.">
 
-<!ENTITY certmgr.deletecert.title             "Delete Certificate">
-<!ENTITY certmgr.deletecert.beforename        "You have requested to delete this certificate:">
-<!ENTITY certmgr.deletecert.aftername         "Are you sure you want to delete this certificate?">
-<!ENTITY certmgr.deleteusercert.title         "Delete Your Certificate">
-<!ENTITY certmgr.deleteusercert.beforename    "You have requested to delete the certificate:">
-<!ENTITY certmgr.deleteusercert.aftername     "Once you have deleted this certificate, you will not be able to read mail that has been encrypted with it.">
+<!ENTITY certmgr.deletecert.title             "Sguab às teisteanas">
+<!ENTITY certmgr.deletecert.beforename        "Dh'iarr thu an teisteanas seo a sguabadh às:">
+<!ENTITY certmgr.deletecert.aftername         "A' bheil thu cinnteach gu bheil thu airson an teisteanas seo a sguabadh às?">
+<!ENTITY certmgr.deleteusercert.title         "Sguab às an teisteanas agad">
+<!ENTITY certmgr.deleteusercert.beforename    "Dh'iarr thu an teisteanas a leanas a sguabadh às:">
+<!ENTITY certmgr.deleteusercert.aftername     "Chan urrainn dhut post-dealain a leughadh a chaidh a dhubh-cheileadh leis ma sguabas tu às an teisteanas seo.">
 
-<!ENTITY certmgr.certname                     "Certificate Name">
-<!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.override_lifetime            "Lifetime">
-<!ENTITY certmgr.tokenname                    "Security Device">
-<!ENTITY certmgr.issued                       "Issued On">
-<!ENTITY certmgr.expires                      "Expires On">
-<!ENTITY certmgr.email                        "E-Mail Address">
-<!ENTITY certmgr.serial                       "Serial Number">
+<!ENTITY certmgr.certname                     "Ainm an teisteanais">
+<!ENTITY certmgr.certserver                   "Frithealaiche">
+<!ENTITY certmgr.typesofoverrides             "Eisgeachdan">
+<!ENTITY certmgr.override_lifetime            "Saoghal">
+<!ENTITY certmgr.tokenname                    "Inneal tèarainteachd">
+<!ENTITY certmgr.purpose                      "Feuman">
+<!ENTITY certmgr.issued                       "Air fhoillseachadh">
+<!ENTITY certmgr.expires                      "Falbhaidh an ùine air">
+<!ENTITY certmgr.email                        "Seòladh puist-dhealain">
+<!ENTITY certmgr.serial                       "Àireamh shreathach">
 
-<!ENTITY certmgr.close.label                  "Close">
-<!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "View…">
-<!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
-<!ENTITY certmgr.editca.label                 "Edit CA Trust">
+<!ENTITY certmgr.close.label                  "Dùin">
+<!ENTITY certmgr.close.accesskey              "D">
+<!ENTITY certmgr.view2.label                  "Seall…">
+<!ENTITY certmgr.view2.accesskey              "S">
+<!ENTITY certmgr.edit2.label                  "Deasaich…">
+<!ENTITY certmgr.edit2.accesskey              "D">
+<!ENTITY certmgr.editca.label                 "Deasaich earbsa sna h-ùghdarrasan teisteanachaidh">
 <!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "Add">
-<!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "Backup All…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.details.label                "Certificate Fields">
-<!ENTITY certmgr.details.accesskey            "F">
-<!ENTITY certmgr.fields.label                 "Field Value">
-<!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.add.label                    "Cuir ris">
+<!ENTITY certmgr.add.accesskey                "r">
+<!ENTITY certmgr.export.label                 "Às-phortaich…">
+<!ENTITY certmgr.export.accesskey             "o">
+<!ENTITY certmgr.delete2.label                "Sguab às…">
+<!ENTITY certmgr.delete2.accesskey            "b">
+<!ENTITY certmgr.backup2.label                "Dèan leth-bhreac glèidhidh…">
+<!ENTITY certmgr.backup2.accesskey            "l">
+<!ENTITY certmgr.backupall2.label             "Dèan lethbhreac-glèidhidh dhen a h-uile…">
+<!ENTITY certmgr.backupall2.accesskey         "c">
+<!ENTITY certmgr.restore2.label               "Ion-phortaich…">
+<!ENTITY certmgr.restore2.accesskey           "p">
+<!ENTITY certmgr.details.label                "Raointean teisteanais">
+<!ENTITY certmgr.details.accesskey            "R">
+<!ENTITY certmgr.fields.label                 "Luach raoin">
+<!ENTITY certmgr.fields.accesskey             "L">
+<!ENTITY certmgr.hierarchy.label              "Rangachd teisteanais">
+<!ENTITY certmgr.hierarchy.accesskey          "c">
+<!ENTITY certmgr.addException.label           "Cuir eisgeachd ris…">
+<!ENTITY certmgr.addException.accesskey       "g">
 
-<!ENTITY exceptionMgr.title                   "Add Security Exception">
-<!ENTITY exceptionMgr.exceptionButton         "Confirm Security Exception">
+<!ENTITY exceptionMgr.title                   "Cuir eisgeachd tèarainteachd ris">
+<!ENTITY exceptionMgr.exceptionButton         "Dearbhaich eisgeachd tèarainteachd">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Server">
-<!ENTITY exceptionMgr.certlocation.url        "Location:">
-<!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
+<!ENTITY exceptionMgr.supplementalWarning     "Chan iarr bancaichean, bùithtean is làraichean poblach is dligheach eile ort seo a dhèanamh.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Frithealaiche">
+<!ENTITY exceptionMgr.certlocation.url        "Àite:">
+<!ENTITY exceptionMgr.certlocation.download   "Faigh teisteanas">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
-<!ENTITY exceptionMgr.certstatus.viewCert     "View…">
+<!ENTITY exceptionMgr.certstatus.caption      "Cor an teisteanais">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Seall…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">
-<!ENTITY exceptionMgr.permanent.accesskey     "P">
+<!ENTITY exceptionMgr.permanent.label         "Stòir an eisgeachd seo gu buan">
+<!ENTITY exceptionMgr.permanent.accesskey     "S">

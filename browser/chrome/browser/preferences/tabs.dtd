@@ -1,14 +1,14 @@
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.label       "Fosgail uinneagan ùra ann an taba ùr 'na àite">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
+<!ENTITY warnCloseMultipleTabs.label  "Thoir rabhadh dhomh mus dùin mi iomadh taba còmhla">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Warn me when opening multiple tabs might slow down &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Ma tha cunnart gun cuir cus thabaichean maille air &brandShortName;, thoir rabhadh dhomh">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "Always show the tab bar">
+<!ENTITY showTabBar.label             "Seall bàr nan taba an-còmhnaidh">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "When I open a link in a new tab, switch to it immediately">
+<!ENTITY switchToNewTabs.label        "Nuair a dh'fhosglas mi ceangal ann an taba ùr, thoir leum ann sa bhad">
 <!ENTITY switchToNewTabs.accesskey    "s">

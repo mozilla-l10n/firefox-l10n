@@ -1,58 +1,58 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title                         "Report A Broken Web Site">
+<!ENTITY reportWizard.title                         "Dèan aithris air làrach-lìn bhriste">
 
-<!ENTITY privacyNotice.label                        "Privacy Policy">
-<!ENTITY reportWizardPrivacy.description            "This tool allows you to tell the Evangelism Team about web sites that do not work properly in &brandShortName;, or shut &brandShortName; out. This is your way to help us ensure the best possible experience for &brandShortName; users. Please take a moment to read the following to learn how we use the information we collect should you choose to participate.">
-<!ENTITY reportWizardMustAgree.description          "To continue you need to agree to the privacy policy above.">
+<!ENTITY privacyNotice.label                        "Poileasaidh prìobhaideachd">
+<!ENTITY reportWizardPrivacy.description            "'S urrainn dhut innse dhan sgioba sanasachd gu bheil làrach-lìn ann nach eil ag obair gu ceart ann an &brandShortName; no bacadh a chur air &brandShortName;. Seo mar a nì sinn cinnteach gum bi an luchd-cleachdaidh toilichte &brandShortName; a chleachdadh. Nach gabh thu mionaid 's cuir sùil air na leanas a dh'innseas dhut mar a chleachdas sinn am fiosrachadh a chruinnicheas sinn, ma dh'aontaicheas tu ri pàirt a ghabhail ann.">
+<!ENTITY reportWizardMustAgree.description          "Feumaidh tu aontachadh leis a' phoileasaidh phrìobhaideachd gu h-àrd mus urrainn dhut leantainn air adhart.">
 
-<!ENTITY dontShowPrivacyStatement.label             "I have read and accept the above privacy policy.">
-<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+<!ENTITY dontShowPrivacyStatement.label             "Leugh mi am poileasaidh prìobhaideachd gu h-àrd is tha mi ag aontachadh leis.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "i">
 
-<!ENTITY reportForm.label                           "Fill out Report">
+<!ENTITY reportForm.label                           "Thoir cunntas">
 
-<!ENTITY reportForm.description                     "Tell us a little about the problem you encountered:">
-<!ENTITY reportForm.url.title                       "Web site URL:">
+<!ENTITY reportForm.description                     "Innis dhuinn beagan mun duilgheadas a bha agad:">
+<!ENTITY reportForm.url.title                       "URL na làraich-lìn:">
 <!ENTITY reportForm.url.accesskey                   "U">
 
-<!ENTITY reportForm.behind_login.title              "Web site is password-protected"><!-- No ":" at the end -->
-<!ENTITY reportForm.behind_login.accesskey          "p">
+<!ENTITY reportForm.behind_login.title              "Tha an làrach-lìn 'ga dhìon le facal-faire"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "f">
 
-<!ENTITY reportForm.problem_type.title              "Problem Type:">
-<!ENTITY reportForm.problem_type.accesskey          "T">
+<!ENTITY reportForm.problem_type.title              "Seòrsa an duilgheadais:">
+<!ENTITY reportForm.problem_type.accesskey          "d">
 
-<!ENTITY reportForm.problem_type.chooseOne.title    "Choose One…">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Tagh fear...">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
-<!ENTITY reportForm.problem_type.item1.title        "Browser not supported">
-<!ENTITY reportForm.problem_type.item2.title        "Can't log in">
-<!ENTITY reportForm.problem_type.item3.title        "Plugin not shown">
-<!ENTITY reportForm.problem_type.item4.title        "Other content missing">
-<!ENTITY reportForm.problem_type.item5.title        "Behavior wrong">
-<!ENTITY reportForm.problem_type.item6.title        "Appearance wrong">
-<!ENTITY reportForm.problem_type.item7.title        "Other problem">
-<!ENTITY reportForm.problem_type.item8.title        "Disability access">
-<!ENTITY reportForm.problem_type.item9.title        "Printed output is wrong">
+<!ENTITY reportForm.problem_type.item1.title        "Chan eil taic ann ris a' bhrabhsair seo">
+<!ENTITY reportForm.problem_type.item2.title        "Chan urrainn dhomh logadh a-steach">
+<!ENTITY reportForm.problem_type.item3.title        "Chan eil am plugan ri fhaicinn">
+<!ENTITY reportForm.problem_type.item4.title        "Tha susbaint eile a dhìth">
+<!ENTITY reportForm.problem_type.item5.title        "Tha an giùlan mì-cheart">
+<!ENTITY reportForm.problem_type.item6.title        "Tha dreach mì-cheart air">
+<!ENTITY reportForm.problem_type.item7.title        "Duilgheadas eile">
+<!ENTITY reportForm.problem_type.item8.title        "Inntrigeadh chiorramach">
+<!ENTITY reportForm.problem_type.item9.title        "Tha mach-chur a' chlò-bhualaidh mì-cheart">
 
-<!ENTITY reportForm.describe.title                  "Describe Problem:">
-<!ENTITY reportForm.describe.accesskey              "D">
+<!ENTITY reportForm.describe.title                  "Thoir cunntas air an duilgheadas:">
+<!ENTITY reportForm.describe.accesskey              "d">
 
-<!ENTITY reportForm.platform.title                  "Platform:">
-<!ENTITY reportForm.product.title                   "Product:">
+<!ENTITY reportForm.platform.title                  "Ùrlar:">
+<!ENTITY reportForm.product.title                   "Bathar:">
 <!ENTITY reportForm.gecko.title                     "Gecko:">
 <!ENTITY reportForm.useragent.title                 "Useragent:">
-<!ENTITY reportForm.language.title                  "Language:">
+<!ENTITY reportForm.language.title                  "Cànan:">
 
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
-<!ENTITY reportForm.email.title                     "Email (Optional):">
-<!ENTITY reportForm.email.accesskey                 "E">
+<!ENTITY reportForm.email.title                     "Seòladh puist-dhealain (roghainneil):">
+<!ENTITY reportForm.email.accesskey                 "e">
 
-<!ENTITY reportForm.privacyPolicy.title             "Privacy Policy">
-<!ENTITY reportForm.privacyPolicy.tooltip           "View Privacy Policy">
+<!ENTITY reportForm.privacyPolicy.title             "Poileasaidh prìobhaideachd">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Faic am poileasaidh prìobhaideachd">
 
-<!ENTITY reportResults.showDetail.title             "Show Details">
+<!ENTITY reportResults.showDetail.title             "Seall am mion-fhiosrachadh">
 <!ENTITY reportResults.showDetail.accesskey         "S">
 
-<!ENTITY sendReport.label                           "Sending Report">
-<!ENTITY sendReport.description                     "Sending Report to server…">
+<!ENTITY sendReport.label                           "A' cur a' chunntais agad">
+<!ENTITY sendReport.description                     "A' cur a' chunntais agad dhan fhrithealaiche…">
 
-<!ENTITY finish.label                               "Report Sent">
+<!ENTITY finish.label                               "Cunntas air a chur">

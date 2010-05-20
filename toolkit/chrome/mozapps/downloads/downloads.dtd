@@ -1,48 +1,48 @@
 <!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
-<!ENTITY window.width2                    "485">
+<!ENTITY window.width2                    "500">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Starting…">
-<!ENTITY scanning.label                   "Scanning for viruses…">
+<!ENTITY starting.label                   "A' tòiseachadh…">
+<!ENTITY scanning.label                   "A' sganadh airson bhìorasan...">
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "Luchdaidhean a-nuas">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "Open Containing Folder">
+<!ENTITY cmd.pause.label                  "Fuirich">
+<!ENTITY cmd.pause.accesskey              "F">
+<!ENTITY cmd.resume.label                 "Lean air">
+<!ENTITY cmd.resume.accesskey             "L">
+<!ENTITY cmd.cancel.label                 "Sguir dheth">
+<!ENTITY cmd.cancel.accesskey             "S">
+<!ENTITY cmd.show.label                   "Fosgail am pasgan sa bheil e">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Show in Finder">
-<!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "Open">
-<!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "Open With…">
-<!ENTITY cmd.openWith.accesskey           "h">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Go to Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Remove From List">
-<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.showMac.label                "Seall san lorgair">
+<!ENTITY cmd.showMac.accesskey            "l">
+<!ENTITY cmd.open.label                   "Fosgail">
+<!ENTITY cmd.open.accesskey               "F">
+<!ENTITY cmd.openWith.label               "Fosgail le…">
+<!ENTITY cmd.openWith.accesskey           "g">
+<!ENTITY cmd.retry.label                  "Feuch ris a-rithist">
+<!ENTITY cmd.retry.accesskey              "r">
+<!ENTITY cmd.goToDownloadPage.label       "Rach gu duilleag nan luchdaidhean">
+<!ENTITY cmd.goToDownloadPage.accesskey   "g">
+<!ENTITY cmd.copyDownloadLink.label       "Dèan lethbhreac dhen cheangal luchdaidh">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
+<!ENTITY cmd.removeFromList.label         "Thoir air falbh on liosta">
+<!ENTITY cmd.removeFromList.accesskey     "t">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed downloads from the list">
-<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.clearList.label              "Glan an liosta">
+<!ENTITY cmd.clearList.tooltip            "Glanaidh seo luchdaidhean deiseil, an fheadhainn a dh'fhàillig is a chaidh a sgur dhiubh às an liosta">
+<!ENTITY cmd.clearList.accesskey          "G">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Close when downloads complete">
-<!ENTITY closeWhenDone.tooltip            "Closes the Downloads window when all files are done downloading">
+<!ENTITY closeWhenDone.label              "Dùin nuair a bhios na luchdaichean a-nuas deiseil">
+<!ENTITY closeWhenDone.tooltip            "Dùin uinneag nan luchdaichean a-nuas nuair a bhios gach faidhle air a luchdadh a-nuas">
 
-<!ENTITY showFolder.label                 "Show this Folder">
-<!ENTITY searchBox.label                  "Search…">
+<!ENTITY showFolder.label                 "Seall am pasgan seo">
+<!ENTITY searchBox.label                  "Lorg…">

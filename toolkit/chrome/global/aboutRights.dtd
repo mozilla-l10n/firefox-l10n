@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "About Your Rights">
+<!ENTITY rights.intro-header    "Mu do chòraichean">
 <!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -14,11 +14,11 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
+<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others. You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
-<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
-<!ENTITY rights.intro-point2-b "here">
-<!ENTITY rights.intro-point2-c ".">
+<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Firefox trademarks or logos. Additional information on Trademarks may be found ">
+<!ENTITY rights.intro-point2b "here">
+<!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
@@ -45,8 +45,8 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the ">
-<!ENTITY rights.webservices-b "Security">
+<!ENTITY rights.webservices-a "&brandFullName; uses web site information services (&quot;Services&quot;), such as the SafeBrowsing service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the SafeBrowsing service by opening the application preferences, selecting the">
+<!ENTITY rights.webservices-b "Tèarainteachd">
 <!ENTITY rights.webservices-c " section, and unchecking the options for &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->

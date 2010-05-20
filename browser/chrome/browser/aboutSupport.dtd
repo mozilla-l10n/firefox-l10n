@@ -1,37 +1,33 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Taic le duilgheadasan">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're 
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut 's tu a' feuchainn ri duilgheadas a rèiteachadh. Ma tha thu a' sireadh freagairtean air ceistean coitcheann mu &brandShortName;, feuch ris <a id='supportLink'>an làrach taice</a> againn.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
-<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.extensionsTitle "Leasachain">
+<!ENTITY aboutSupport.extensionName "Ainm">
+<!ENTITY aboutSupport.extensionEnabled "Air a chur an comas">
+<!ENTITY aboutSupport.extensionVersion "Tionndadh">
+<!ENTITY aboutSupport.extensionId "DA">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsPlugins "Installed Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsTitle "Bun-tùs a' phrògraim">
+<!ENTITY aboutSupport.appBasicsName "Ainm">
+<!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
+<!ENTITY aboutSupport.appBasicsProfileDir "Pasgan nan clàr-aithne">
+<!ENTITY aboutSupport.appBasicsPlugins "Pluginichean air an stàladh">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Co-dhealbhachd na togalach">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Fosgail am pasgan far a bheil e">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Seall san lorgair">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Roghainnean air an atharrachadh">
+<!ENTITY aboutSupport.modifiedPrefsName "Ainm">
+<!ENTITY aboutSupport.modifiedPrefsValue "Luach">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "Eachdraidh stàlaidh">
+<!ENTITY aboutSupport.updateHistoryTitle "Eachdraidh nan ùrachaidhean">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Cuir leth-bhreac dhe na h-uile air a' bhòrd-chliopaichean">

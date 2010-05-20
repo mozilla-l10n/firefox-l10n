@@ -1,30 +1,30 @@
 
-<!ENTITY  connectionsDialog.title       "Connection Settings">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
+<!ENTITY  connectionsDialog.title       "Roghainnean ceangail">
+<!ENTITY  window.width                  "45em">
+<!ENTITY  window.macWidth               "45em">
 
-<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "Reload">
-<!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP Proxy:">
+<!ENTITY  proxyTitle.label              "Co-dhealbh progsaidhean a chum inntrigeadh dhan lìon">
+<!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">
+<!ENTITY  noProxyTypeRadio.accesskey    "p">
+<!ENTITY  systemTypeRadio.label         "Cleachd roghainnean progsaidh an t-siostaim">
+<!ENTITY  systemTypeRadio.accesskey     "s">
+<!ENTITY  WPADTypeRadio.label           "Mothaich do roghainnean progsaidh leis fhèin air an lìonra seo">
+<!ENTITY  WPADTypeRadio.accesskey       "o">
+<!ENTITY  manualTypeRadio.label         "Co-dhealbhachd-làimhe nam progsaidh:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL co-dhealbhachd nam progsaidh leis fhèin:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Ath-luchdaich">
+<!ENTITY  reload.accesskey              "a">
+<!ENTITY  ftp.label                     "Progsaidh FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher Proxy:">
+<!ENTITY  gopher.label                  "Progsaidh Gopher:">
 <!ENTITY  gopher.accesskey              "G">
-<!ENTITY  http.label                    "HTTP Proxy:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  http.label                    "Progsaidh HTTP:">
+<!ENTITY  http.accesskey                "s">
+<!ENTITY  ssl.label                     "Progsaidh SSL:">
 <!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.label                   "Òstair SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -37,8 +37,8 @@
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "No Proxy for:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
+<!ENTITY  noproxy.label                 "Gun phrogsaidh airson:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Ball-sampaill: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Cleachd am progsaidh seo airson gach pròtocal">
 <!ENTITY  shareproxy.accesskey          "s">

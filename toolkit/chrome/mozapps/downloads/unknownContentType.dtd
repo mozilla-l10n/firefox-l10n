@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "You have chosen to open">
-<!ENTITY  from.label                  "from:">
-<!ENTITY  actionQuestion.label        "What should &brandShortName; do with this file?">
+<!ENTITY  intro.label                 "Chuir thu romhad na leanas fhosgladh:">
+<!ENTITY  from.label                  "o:">
+<!ENTITY  actionQuestion.label        "Dè nì &brandShortName; leis an fhaidhle seo?">
 
-<!ENTITY  openWith.label              "Open with">
-<!ENTITY  openWith.accesskey          "O">
-<!ENTITY  other.label                 "Other…">
+<!ENTITY  openWith.label              "Fosgail le">
+<!ENTITY  openWith.accesskey          "F">
+<!ENTITY  other.label                 "Eile…">
 
-<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.label              "Sàbhail am faidhle">
 <!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "Do this automatically for files like this from now on.">
+<!ENTITY  rememberChoice.label        "Dèan seo leis fhèin le faidhlichean d' a leithid san àm ri teachd.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "which is a:">
+<!ENTITY  whichIsA.label              "a tha 'na: ">
 
-<!ENTITY  chooseHandlerMac.label      "Choose…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "Browse…">
+<!ENTITY  chooseHandlerMac.label      "Tagh…">
+<!ENTITY  chooseHandlerMac.accesskey  "T">
+<!ENTITY  chooseHandler.label         "Brabhsaich…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "Would you like to save this file?">
+<!ENTITY  unknownPromptText.label     "A bheil thu airson am faidhle seo a shàbhaladh?">

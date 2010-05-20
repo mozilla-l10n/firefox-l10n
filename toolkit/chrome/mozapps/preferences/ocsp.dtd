@@ -1,13 +1,13 @@
-<!ENTITY ocspDialog.title             "Certificate Validation">
-<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY certOCSP2.label              "Validate a certificate if it specifies an OCSP server">
-<!ENTITY certOCSP2.accesskey          "V">
-<!ENTITY proxyOCSP2.label             "Validate all certificates using the following OCSP server:">
+<!ENTITY ocspDialog.title             "Dearbhadh a' cheadachais">
+<!ENTITY enableOCSP.label             "Cleachd an Online Certificate Status Protocol (OCSP) gus èifeachd nan ceadachasn làithreachd a dhearbhadh">
+<!ENTITY enableOCSP.accesskey         "u">
+<!ENTITY certOCSP2.label              "Dearbhaich ceadachas ma shònraicheas e frithealaiche OCSP">
+<!ENTITY certOCSP2.accesskey          "D">
+<!ENTITY proxyOCSP2.label             "Dearbhaich a h-uile ceadachas a chleachdas am frithealaiche OCSP a leanas:">
 <!ENTITY proxyOCSP2.accesskey         "a">
-<!ENTITY serviceURL.label             "Service URL:">
-<!ENTITY serviceURL.accesskey         "S">
-<!ENTITY signingCA.label              "Response Signer:">
-<!ENTITY signingCA.accesskey          "R">
-<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
-<!ENTITY requireOCSP.accesskey        "W">
+<!ENTITY serviceURL.label             "URL na seirbheise:">
+<!ENTITY serviceURL.accesskey         "s">
+<!ENTITY signingCA.label              "Soidhniche na freagairt:">
+<!ENTITY signingCA.accesskey          "r">
+<!ENTITY requireOCSP.label            "Nuair a dh'fhàilligeas ceangal ri frithealaiche OCSP, meas gu bheil an ceadachas mì-dhligheach.">
+<!ENTITY requireOCSP.accesskey        "f">

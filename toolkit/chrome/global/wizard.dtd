@@ -1,20 +1,20 @@
-<!ENTITY  button-back-mac.label        "Go Back">
-<!ENTITY  button-back-mac.accesskey    "B">
-<!ENTITY  button-next-mac.label        "Continue">
-<!ENTITY  button-next-mac.accesskey    "C">
-<!ENTITY  button-finish-mac.label      "Done">
-<!ENTITY  button-cancel-mac.label      "Cancel">
+<!ENTITY  button-back-mac.label        "Air ais">
+<!ENTITY  button-back-mac.accesskey    "A">
+<!ENTITY  button-next-mac.label        "Air adhart">
+<!ENTITY  button-next-mac.accesskey    "A">
+<!ENTITY  button-finish-mac.label      "Dèanta">
+<!ENTITY  button-cancel-mac.label      "Sguir dheth">
 
-<!ENTITY  button-back-unix.label       "Back">
-<!ENTITY  button-back-unix.accesskey   "B">
-<!ENTITY  button-next-unix.label       "Next">
-<!ENTITY  button-next-unix.accesskey   "N">
-<!ENTITY  button-finish-unix.label     "Finish">
-<!ENTITY  button-cancel-unix.label     "Cancel">
+<!ENTITY  button-back-unix.label       "Air ais">
+<!ENTITY  button-back-unix.accesskey   "i">
+<!ENTITY  button-next-unix.label       "Air adhart">
+<!ENTITY  button-next-unix.accesskey   "A">
+<!ENTITY  button-finish-unix.label     "Crìochnaich">
+<!ENTITY  button-cancel-unix.label     "Sguir dheth">
 
-<!ENTITY  button-back-win.label        "&lt; Back">
-<!ENTITY  button-back-win.accesskey    "B">
-<!ENTITY  button-next-win.label        "Next &gt;">
-<!ENTITY  button-next-win.accesskey    "N">
-<!ENTITY  button-finish-win.label      "Finish">
-<!ENTITY  button-cancel-win.label      "Cancel">
+<!ENTITY  button-back-win.label        "&lt; Air ais">
+<!ENTITY  button-back-win.accesskey    "A">
+<!ENTITY  button-next-win.label        "Air adhart &gt;">
+<!ENTITY  button-next-win.accesskey    "A">
+<!ENTITY  button-finish-win.label      "Crìochnaich">
+<!ENTITY  button-cancel-win.label      "Sguir dheth">
