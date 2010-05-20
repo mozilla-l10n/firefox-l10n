@@ -1,18 +1,18 @@
-<!ENTITY     props.name.label               "Name:">
-<!ENTITY     props.value.label              "Content:">
-<!ENTITY     props.domain.label             "Host:">
-<!ENTITY     props.path.label               "Path:">
-<!ENTITY     props.secure.label             "Send For:">
-<!ENTITY     props.expires.label            "Expires:">
-<!ENTITY     props.policy.label             "Policy:"> 
+<!ENTITY     props.name.label               "Ainm:">
+<!ENTITY     props.value.label              "Susbaint:">
+<!ENTITY     props.domain.label             "Òstair:">
+<!ENTITY     props.path.label               "Slighe:">
+<!ENTITY     props.secure.label             "Seòl airson:">
+<!ENTITY     props.expires.label            "Falbhaidh an ùine air:">
+<!ENTITY     props.policy.label             "Poileasaidh:"> 
 
-<!ENTITY     button.allow.label             "Allow">
-<!ENTITY     button.allow.accesskey         "A">
-<!ENTITY     button.session.label           "Allow for Session">
-<!ENTITY     button.session.accesskey       "S">
-<!ENTITY     button.deny.label              "Deny">
+<!ENTITY     button.allow.label             "Ceadaich">
+<!ENTITY     button.allow.accesskey         "C">
+<!ENTITY     button.session.label           "Ceadaich fad an t-seisein">
+<!ENTITY     button.session.accesskey       "s">
+<!ENTITY     button.deny.label              "Diùlt">
 <!ENTITY     button.deny.accesskey          "D">
 
-<!ENTITY     dialog.title                   "Confirm setting cookie">
-<!ENTITY     dialog.remember.label          "Use my choice for all cookies from this site">
-<!ENTITY     dialog.remember.accesskey      "U">
+<!ENTITY     dialog.title                   "Dearbhaich suidheachadh na briosgaid">
+<!ENTITY     dialog.remember.label          "Cleachd an roghainn seo airson gach briosgaid on làrach seo">
+<!ENTITY     dialog.remember.accesskey      "C">

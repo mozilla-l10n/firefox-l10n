@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
-<!ENTITY window.width                 "37em">
+<!ENTITY safeModeDialog.title         "Modh tèarainte &brandShortName;">
+<!ENTITY window.width                 "45em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY safeModeDescription2.label   "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, coltasan is leasachain ghnàthaichte agad à comas rè seal.">
+<!ENTITY safeModeDescription2.label   "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">
 
-<!ENTITY disableAddons.label          "Disable all add-ons">
+<!ENTITY disableAddons.label          "Dèan gach tuillead neo chomasach">
 <!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label          "Reset toolbars and controls">
-<!ENTITY resetToolbars.accesskey      "R">
+<!ENTITY resetToolbars.label          "Aisig gach bàr-inneil is inneal-smachd">
+<!ENTITY resetToolbars.accesskey      "r">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label        "Sguab às gach comharra-lìn ach a-mhàin na lethbhric-ghlèidhidh">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY resetUserPrefs.label         "Reset all user preferences to &brandShortName; defaults">
-<!ENTITY resetUserPrefs.accesskey     "p">
+<!ENTITY resetUserPrefs.label         "Aisig gach roghainn a' chleachdaiche gu roghainnean bunaiteach &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "g">
 
-<!ENTITY restoreSearch.label          "Restore default search engines">
+<!ENTITY restoreSearch.label          "Aisig na h-innealan-luirg bunaiteach">
 <!ENTITY restoreSearch.accesskey      "s">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
-<!ENTITY continueButton.label         "Continue in Safe Mode">
+<!ENTITY changeAndRestartButton.label "Cuir na h-atharrachaidhean an gnìomh is ath-thòisich">
+<!ENTITY continueButton.label         "Lean air adhart sa mhodh tèarainte">

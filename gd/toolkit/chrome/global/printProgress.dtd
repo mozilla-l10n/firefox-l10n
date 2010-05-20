@@ -1,12 +1,12 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Printing"> 
-<!ENTITY title    "Title:"> 
-<!ENTITY progress "Progress:">
-<!ENTITY preparing "Preparing…">
-<!ENTITY printComplete "Printing is Completed.">
+<!ENTITY printWindow.title "Clò-bhualadh"> 
+<!ENTITY title    "Tiotal:"> 
+<!ENTITY progress "Adhartas:">
+<!ENTITY preparing "Ag ullachadh…">
+<!ENTITY printComplete "Tha an clò-bhualadh deiseil.">
 
-<!ENTITY dialogCancel.label "Cancel"> 
-<!ENTITY dialogClose.label "Close">
+<!ENTITY dialogCancel.label "Sguir dheth"> 
+<!ENTITY dialogClose.label "Dùin">
 
 <!-- LOCALIZATION NOTE (percentPrint):
 
@@ -14,4 +14,5 @@
     meter.
 
     #1 will be replaced by the percentage of the file that has been saved -->
-<!ENTITY percentPrint "#1&#037;">
+<!ENTITY percentPrint "_: 
+#1&#037;">

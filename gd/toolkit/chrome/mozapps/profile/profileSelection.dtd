@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
+<!ENTITY            windowtitle.label      "&brandShortName; - Tagh pròifil cleachdaiche">
 
-<!ENTITY            profilename.label      "Profile Name:">
+<!ENTITY            profilename.label      "Ainm cunntais">
 
-<!ENTITY            start.label            "Start &brandShortName;">
-<!ENTITY            exit.label             "Exit">
+<!ENTITY            start.label            "Thòisich &brandShortName;">
+<!ENTITY            exit.label             "Fàg an-seo">
 
-<!ENTITY            availprofiles.label    "Available Profiles">
+<!ENTITY            availprofiles.label    "Pròifilean ri am faighinn">
 
-<!ENTITY            newButton.label        "Create Profile…">
+<!ENTITY            newButton.label        "Cruthaich pròifil…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rename Profile…">
-<!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Delete Profile…">
-<!ENTITY            deleteButton.accesskey "D">
+<!ENTITY            renameButton.label     "Cuir ainm ùr air pròifil…">
+<!ENTITY            renameButton.accesskey "r">
+<!ENTITY            deleteButton.label     "Sguab às pròifil…">
+<!ENTITY            deleteButton.accesskey "p">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">
+<!ENTITY            pmDescription.label    "Sàbhalaidh &brandShortName; fiosrachadh mu na roghainnean is rudan eile agad 'nad phròifil.">
 
-<!ENTITY            offlineState.label    "Work offline">
+<!ENTITY            offlineState.label    "Dèan obair far loidhne">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "Don't ask at startup">
+<!ENTITY            autoSelect.label       "Na faighnich dhìom aig àm tòiseachaidh">
 <!ENTITY            autoSelect.accesskey   "s">

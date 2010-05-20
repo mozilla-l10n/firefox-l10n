@@ -1,10 +1,10 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Enter the web location (URL), or specify the local file you would like to open:">  
-<!ENTITY chooseFile.label "Choose File…">
-<!ENTITY newWindow.label "New Window">
-<!ENTITY newTab.label "New Tab">
-<!ENTITY topTab.label "Current Tab">
-<!ENTITY caption.label "Open Web Location">
-<!ENTITY openWhere.label "Open in:">
-<!ENTITY openBtn.label "Open">
+<!ENTITY enter.label "Cuir a-steach an seòladh-lìn (URL) no sònraich am faidhle ionadail a bu toigh leat fosgladh:">  
+<!ENTITY chooseFile.label "Tagh faidhle…">
+<!ENTITY newWindow.label "Uinneag ùr">
+<!ENTITY newTab.label "Taba ùr">
+<!ENTITY topTab.label "An taba làithreach">
+<!ENTITY caption.label "Fosgail seòladh-lìn">
+<!ENTITY openWhere.label "Fosgail ann an:">
+<!ENTITY openBtn.label "Fosgail">
