@@ -90,15 +90,15 @@
 
 <!ENTITY calendar.nextday.label                 "Næste dag" >
 <!ENTITY calendar.prevday.label                 "Forrige dag" >
-<!ENTITY calendar.nextday.accesskey             "N" >
+<!ENTITY calendar.nextday.accesskey             "æ" >
 <!ENTITY calendar.prevday.accesskey             "F" >
 <!ENTITY calendar.nextweek.label                "Næste uge" >
 <!ENTITY calendar.prevweek.label                "Forrige uge" >
-<!ENTITY calendar.nextweek.accesskey            "N" >
+<!ENTITY calendar.nextweek.accesskey            "æ" >
 <!ENTITY calendar.prevweek.accesskey            "F" >
 <!ENTITY calendar.nextmonth.label               "Næste måned" >
 <!ENTITY calendar.prevmonth.label               "Forrige måned" >
-<!ENTITY calendar.nextmonth.accesskey           "N" >
+<!ENTITY calendar.nextmonth.accesskey           "æ" >
 <!ENTITY calendar.prevmonth.accesskey           "F" >
 
 
@@ -227,8 +227,8 @@
 <!ENTITY progress.level.100 "100&percnt;">
 <!ENTITY progress.level.100.accesskey "1">
 
-<!ENTITY priority.level.none "Ikke specificeret">
-<!ENTITY priority.level.none.accesskey "s">
+<!ENTITY priority.level.none "Ikke angivet">
+<!ENTITY priority.level.none.accesskey "I">
 <!ENTITY priority.level.low "Lav">
 <!ENTITY priority.level.low.accesskey "L">
 <!ENTITY priority.level.normal "Normal">
@@ -248,7 +248,7 @@
 <!ENTITY calendar.context.publish.label "Udgiv hele kalenderen">
 <!ENTITY calendar.context.publish.accesskey "U">
 <!ENTITY calendar.context.export.label "Eksporter kalender…">
-<!ENTITY calendar.context.export.accesskey "E">
+<!ENTITY calendar.context.export.accesskey "k">
 <!ENTITY calendar.context.properties.label "Egenskaber">
 <!ENTITY calendar.context.properties.accesskey "E">
 

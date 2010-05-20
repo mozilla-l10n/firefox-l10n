@@ -52,9 +52,9 @@
 <!ENTITY lightning.menupopup.new.event.label "Begivenhed…">
 <!ENTITY lightning.menupopup.new.event.accesskey "B">
 <!ENTITY lightning.menupopup.new.task.label "Opgave…">
-<!ENTITY lightning.menupopup.new.task.accesskey "O">
+<!ENTITY lightning.menupopup.new.task.accesskey "g">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label "Åbn">
@@ -90,7 +90,7 @@
 <!ENTITY lightning.toolbar.day.label "Dag">
 <!ENTITY lightning.toolbar.day.accesskey "D">
 <!ENTITY lightning.toolbar.week.label "Uge">
-<!ENTITY lightning.toolbar.week.accesskey "U">
+<!ENTITY lightning.toolbar.week.accesskey "g">
 <!ENTITY lightning.toolbar.multiweek.label "Multiuge">
 <!ENTITY lightning.toolbar.multiweek.accesskey "l">
 <!ENTITY lightning.toolbar.month.label "Måned">
