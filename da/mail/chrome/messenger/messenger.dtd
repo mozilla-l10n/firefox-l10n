@@ -416,7 +416,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY recalculateJunkScoreCmd.accesskey "F">
 <!ENTITY openMessageWindowCmd.label "Åbn meddelelse">
 <!ENTITY openMessageWindowCmd.accesskey "Å">
-<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openMessageWindowCmd.key "Å">
 <!ENTITY openConversationCmd.label "Vis korrespondance i tråd">
 <!ENTITY openConversationCmd.accesskey "o">
 <!ENTITY openConversationCmd.key "o">
