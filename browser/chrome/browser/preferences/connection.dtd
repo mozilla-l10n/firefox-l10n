@@ -7,7 +7,7 @@
 <!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
 <!ENTITY  systemTypeRadio.label         "Cleachd roghainnean progsaidh an t-siostaim">
-<!ENTITY  systemTypeRadio.accesskey     "s">
+<!ENTITY  systemTypeRadio.accesskey     "e">
 <!ENTITY  WPADTypeRadio.label           "Mothaich do roghainnean progsaidh leis fhèin air an lìonra seo">
 <!ENTITY  WPADTypeRadio.accesskey       "o">
 <!ENTITY  manualTypeRadio.label         "Co-dhealbhachd-làimhe nam progsaidh:">

@@ -9,7 +9,7 @@
 <!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
 <!ENTITY searchStartTyping.accesskey     "t">
 <!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.accesskey      "d">
 
 <!ENTITY browsing.label                  "A' brabhsadh">
 
