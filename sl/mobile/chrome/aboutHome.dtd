@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Začetek</span>">
+<!ENTITY aboutHome.recentTabs                   "Vaši zavihki od zadnje uporabe">
+<!ENTITY aboutHome.remoteTabs                   "Zavihki vaših ostalih računalnikov">
+<!ENTITY aboutHome.recommendedAddons2           "Dodatki za &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla                 "O Mozilli">
+<!ENTITY aboutHome.openAllTabs                  "Odpri vse v zavihkih">
+<!ENTITY aboutHome.noTabs                       "Ni zavihkov od zadnje uporabe">
+<!ENTITY aboutHome.noAddons                     "Ni priporočenih dodatkov">
