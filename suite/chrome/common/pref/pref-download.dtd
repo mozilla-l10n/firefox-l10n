@@ -3,30 +3,30 @@
 <!ENTITY focusWhenStarting.label "Мигнуть менеджером загрузки, если он уже открыт, в противном случае:">
 <!ENTITY focusWhenStarting.accesskey "н">
 <!ENTITY openDM.label "Открывать менеджер загрузок">
-<!ENTITY openDM.accesskey "О">
+<!ENTITY openDM.accesskey "к">
 <!ENTITY openProgressDialog.label "Открывать диалоговое окно состояния загрузки">
-<!ENTITY openProgressDialog.accesskey "д">
+<!ENTITY openProgressDialog.accesskey "в">
 <!ENTITY doNothing.label "Не открывать ничего">
-<!ENTITY doNothing.accesskey "Н">
+<!ENTITY doNothing.accesskey "е">
 <!ENTITY downloadLocation.label "При сохранении файла">
 <!ENTITY saveTo.label "Путь для сохранения файлов">
-<!ENTITY saveTo.accesskey "х">
+<!ENTITY saveTo.accesskey "у">
 <!ENTITY chooseDownloadFolder.label "Выбрать папку…">
-<!ENTITY chooseDownloadFolder.accesskey "В">
+<!ENTITY chooseDownloadFolder.accesskey "ы">
 <!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">
-<!ENTITY alwaysAsk.accesskey "п">
-<!ENTITY downloadRetention.label "Список загрузок">
-<!ENTITY removeDownloads.label "Удалять загрузки из списка">
-<!ENTITY removeDownloads.accesskey "д">
+<!ENTITY alwaysAsk.accesskey "г">
+<!ENTITY downloadHistory.label "Журнал загрузок">
+<!ENTITY removeEntries.label "Удалить записи о загрузках">
+<!ENTITY removeEntries.accesskey "л">
 <!ENTITY whenCompleted.label "По их завершении">
 <!ENTITY whenQuittingApp.label "При выходе из &brandShortName;">
 <!ENTITY neverRemove.label "Никогда">
 <!ENTITY finishedBehavior.label "По завершении загрузки">
 <!ENTITY playSound.label "Подать звуковой сигнал">
-<!ENTITY playSound.accesskey "П">
+<!ENTITY playSound.accesskey "а">
 <!ENTITY showAlert.label "Показать уведомление">
-<!ENTITY showAlert.accesskey "к">
+<!ENTITY showAlert.accesskey "з">
 <!ENTITY browse.label "Обзор…">
-<!ENTITY browse.accesskey "О">
-<!ENTITY preview.label "Просмотр">
+<!ENTITY browse.accesskey "б">
+<!ENTITY preview.label "Предпросмотр">
 <!ENTITY preview.accesskey "м">
