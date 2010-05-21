@@ -165,7 +165,7 @@
 <!ENTITY updateCmd.label                                   "Procurar atualizações…">
 <!ENTITY updateCmd.accesskey                               "P">
 
-<!ENTITY sunbird.export.calendar.label                     "Export Calendar…">
+<!ENTITY sunbird.export.calendar.label                     "Exportar calendário…">
 <!ENTITY sunbird.export.calendar.accesskey                 "E">
 
 <!-- Mac OS X "Window" menu items -->

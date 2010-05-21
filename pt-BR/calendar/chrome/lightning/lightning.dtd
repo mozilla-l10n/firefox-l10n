@@ -66,13 +66,13 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "Calendar">
+<!ENTITY lightning.menu.view.calendar.label            "Calendário">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "Tasks">
+<!ENTITY lightning.menu.view.tasks.label               "Tarefas">
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Events and Tasks">
+<!ENTITY lightning.menu.eventtask.label                "Eventos e tarefas">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
@@ -84,8 +84,8 @@
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Event">
-<!ENTITY lightning.toolbar.newtask.label      "Task">
+<!ENTITY lightning.toolbar.newevent.label     "Evento">
+<!ENTITY lightning.toolbar.newtask.label      "Tarefa">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dia">
@@ -106,6 +106,8 @@
 <!ENTITY lightning.imipbar.description "Esta mensagem contém um convite para um evento.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 
@@ -121,4 +123,4 @@
 <!ENTITY todaypane.showNone.accesskey "n">
 <!ENTITY todaypane.showTodayPane.label "Exibir painel hoje">
 <!ENTITY todaypane.showTodayPane.accesskey "h">
-<!ENTITY todaypane.statusButton.label "Today Pane">
+<!ENTITY todaypane.statusButton.label "Painel hoje">

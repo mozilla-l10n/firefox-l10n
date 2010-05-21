@@ -50,44 +50,63 @@
 <!ENTITY newevent.to.label                  "A" >
 <!ENTITY newevent.attendees.notify.label    "Notificar participantes">
 
-<!ENTITY newevent.status.label                "Posição" >
-<!ENTITY newevent.status.accesskey            "P" >
-<!ENTITY newevent.status.none.label           "Não especificada" >
-<!ENTITY newevent.status.none.accesskey       "o" >
-<!ENTITY newevent.status.cancelled.label      "Cancelado" >
-<!ENTITY newevent.status.cancelled.accesskey  "n" >
-<!ENTITY newevent.status.tentative.label      "Tentativa" >
-<!ENTITY newevent.status.tentative.accesskey  "T" >
-<!ENTITY newevent.status.confirmed.label      "Confirmado" >
-<!ENTITY newevent.status.confirmed.accesskey  "C" >
-<!ENTITY newevent.status.needsaction.label    "Requer ação" >
-<!ENTITY newevent.status.inprogress.label     "Em andamento" >
-<!ENTITY newevent.status.completed.label      "Completado em" >
+<!ENTITY newevent.status.label                    "Posição" >
+<!ENTITY newevent.status.accesskey                "P" >
+<!ENTITY newevent.eventStatus.none.label          "Não especificada" >
+<!ENTITY newevent.eventStatus.none.accesskey      "o" >
+<!ENTITY newevent.todoStatus.none.label           "Não especificada" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Cancelada" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Cancelada" >
+<!ENTITY newevent.status.tentative.label          "Tentativa" >
+<!ENTITY newevent.status.tentative.accesskey      "T" >
+<!ENTITY newevent.status.confirmed.label          "Confirmado" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
+<!ENTITY newevent.status.needsaction.label        "Requer ação" >
+<!ENTITY newevent.status.inprogress.label         "Em andamento" >
+<!ENTITY newevent.status.completed.label          "Completado em" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; completada">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Arquio">
-<!ENTITY  event.menu.file.accesskey                       "A">
-<!ENTITY  event.menu.file.new.label                       "Novo">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "Evento">
-<!ENTITY  event.menu.file.new.event.accesskey             "E">
-<!ENTITY  event.menu.file.new.message.label               "Mensagem">
-<!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.contact.label               "Contato do catálogo de endereços">
-<!ENTITY  event.menu.file.new.contact.accesskey           "C">
-<!ENTITY  event.menu.file.close.label                     "Fechar">
-<!ENTITY  event.menu.file.close.accesskey                 "F">
-<!ENTITY  event.menu.file.save.label                      "Salvar">
-<!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.item.delete.label                    "Delete…">
+<!ENTITY  event.menu.item.new.label                       "Novo">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Evento">
+<!ENTITY  event.menu.item.new.event.accesskey             "E">
+<!ENTITY  event.menu.item.new.task.label                  "Tarefa">
+<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.message.label               "Mensagem">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Contato do catálogo de endereços">
+<!ENTITY  event.menu.item.new.contact.accesskey           "C">
+<!ENTITY  event.menu.item.close.label                     "Fechar">
+<!ENTITY  event.menu.item.close.accesskey                 "C">
+<!ENTITY  event.menu.item.save.label                      "Salvar">
+<!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.saveandclose.label              "Salvar e fechar">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.delete.label                    "Excluir…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
-<!ENTITY  event.menu.file.page.setup.label                "Configurações de página">
-<!ENTITY  event.menu.file.page.setup.accesskey            "u">
-<!ENTITY  event.menu.file.print.label                     "Imprimir">
-<!ENTITY  event.menu.file.print.accesskey                 "I">
+<!ENTITY  event.menu.item.page.setup.label                "Configurações de página">
+<!ENTITY  event.menu.item.page.setup.accesskey            "u">
+<!ENTITY  event.menu.item.print.label                     "Imprimir">
+<!ENTITY  event.menu.item.print.accesskey                 "P">
 
 <!ENTITY  event.menu.edit.label                           "Editar">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -154,15 +173,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Livre">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.help.label                                 "Ajuda">
-<!ENTITY event.help.accesskey                             "u">
-<!ENTITY event.help.release.notes.label                   "Notas de lançamento">
-<!ENTITY event.help.release.notes.accesskey               "N">
-<!ENTITY event.help.help.label                            "&brandShortName; Ajuda">
-<!ENTITY event.help.help.accesskey                        "A">
-<!ENTITY event.help.about.label                           "Sobre &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "S">
-
 <!ENTITY event.invite.attendees.label                     "Convidar participantes…">
 <!ENTITY event.invite.attendees.accesskey                 "C">
 <!ENTITY event.email.attendees.label                      "Criar mensagem a todos os participantes…">
@@ -221,15 +231,13 @@
 <!ENTITY event.priority2.label                            "Prioridade:">
 
 <!ENTITY event.reminder.none.label                        "Sem lembrete " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutos antes" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minutos antes" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minutos antes" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minutos antes" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minutos antes" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minutos antes" >
 <!ENTITY event.reminder.1hour.before.label                "1 hora antes" >
 <!ENTITY event.reminder.2hours.before.label               "2 horas antes" >
-<!ENTITY event.reminder.5hours.before.label               "5 horas antes" >
-<!ENTITY event.reminder.15hours.before.label              "15 horas antes" >
+<!ENTITY event.reminder.12hours.before.label              "12 horas antes" >
 <!ENTITY event.reminder.1day.before.label                 "1 dia antes" >
 <!ENTITY event.reminder.2days.before.label                "2 dias antes" >
 <!ENTITY event.reminder.1week.before.label                "1 semana antes" >
@@ -357,9 +365,10 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativa" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Fora do escritório" >
 <!ENTITY event.freebusy.legend.unknown          "Sem informação" >
-<!ENTITY event.attendee.role.required           "Required Attendee">
-<!ENTITY event.attendee.role.optional           "Optional Attendee">
-<!ENTITY event.attendee.role.chair              "Chair">
+<!ENTITY event.attendee.role.required           "Participante requerido">
+<!ENTITY event.attendee.role.optional           "Participante opcional">
+<!ENTITY event.attendee.role.chair              "Presidente">
+<!ENTITY event.attendee.role.nonparticipant     "Não participante">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Favor especificar o fuso horário">
