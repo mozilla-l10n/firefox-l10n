@@ -62,7 +62,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "M">
 <!ENTITY pref.calendar.view.visiblehoursend.label "horas simultaneamente">
 
-<!ENTITY pref.numberofweeks.label "Number of weeks to show (including previous weeks):">
+<!ENTITY pref.numberofweeks.label "Número de semanas a exibir (incluindo anteriores):">
 <!ENTITY pref.numberofweeks.accesskey "a">
 <!ENTITY pref.numberofpreviousweeks.label "Semanas anteriores a exibir:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "n">
