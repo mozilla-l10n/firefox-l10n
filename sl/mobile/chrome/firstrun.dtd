@@ -1,8 +1,13 @@
-<!ENTITY welcome.title                      "Pozdravljeni v brskalniku &brandShortName;">
-<!ENTITY intro.description                  "Vaš računalnik in mobilnik lahko sinhronizirate z Weave Sync, brskalnik si lahko prikrojite z dodatki, uporabite pametno vrstico in še in še.">
-<!ENTITY weave.title                        "Vstani in pojdi">
-<!ENTITY weave.description                  "Weave Sync povezuje vaš mobilni brskalnik s Firefoxom na osebnem računalniku. Uporabljate lahko skupno zgodovino, zaznamke, gesla in zavihke.">
-<!ENTITY weave.linkLabel                    "Namesti dodatek Weave Sync">
-<!ENTITY getPersonal.title                  "Brskalnik po meri">
-<!ENTITY getPersonal.description            "&brandShortName; je prvi brskalnik za mobilnike, ki ponuja dodatke. Prikrojite si ga po svoje.">
-<!ENTITY getPersonal.linkLabel              "Namesti dodatke za mobilnik">
+<!ENTITY firstrun.title                "Pozdravljeni v brskalniku &brandShortName;">
+<!ENTITY firstrun.heading              "Da bi lažje začeli, si lahko na tem mestu ogledate najbolj priljubljene zmogljivosti in dodatke za &brandShortName;.">
+<!ENTITY firstrun.recommended          "Priporočeno:">
+<!ENTITY firstrun.weave.title          "Prenesi Weave Sync">
+<!ENTITY firstrun.weave.description    "&brandShortName; vam omogoča izmenjavo zgodovine, gesel in zaznamkov med računalnikom in telefonom">
+<!ENTITY firstrun.starter.title        "Prenesi Starter Kit Collection">
+<!ENTITY firstrun.starter.description  "Namestite priporočene dodatke in si popestrite izkušnjo pri uporabi brskalnika &brandShortName;">
+<!ENTITY firstrun.tour.title           "Vodič">
+<!ENTITY firstrun.tour.description     "Oglejte si posnetek ter se seznanite z brskalnikom in njegovimi zanimivimi lastnostmi">
+<!ENTITY firstrun.features             "Več zmogljivosti">
+<!ENTITY firstrun.faq                  "Pogosta vprašanja">
+<!ENTITY firstrun.privacy              "Politika zasebnosti">
+<!ENTITY firstrun.follow               "Sledite nam na:">

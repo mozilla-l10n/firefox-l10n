@@ -12,3 +12,9 @@
 <!ENTITY rememberPasswords.title                   "Zapomni si gesla">
 <!ENTITY language.title                            "Jezik">
 <!ENTITY language.auto                             "Samodejno zaznaj">
+<!ENTITY defaultBrowser.title                      "Privzet brskalnik">
+<!ENTITY defaultBrowser.description                "Nastavi &brandShortName; kot privzet brskalnik">
+<!ENTITY homepage.title                            "Domača stran">
+<!ENTITY homepage.none                             "Prazna stran">
+<!ENTITY homepage.default                          "&brandShortName; Start">
+<!ENTITY homepage.currentpage                      "Uporabi trenutno stran">

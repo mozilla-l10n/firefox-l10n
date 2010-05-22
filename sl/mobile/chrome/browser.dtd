@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Iskanje ali naslov strani">
+
 <!ENTITY back.label            "Nazaj">
 <!ENTITY forward.label         "Naprej">
 <!ENTITY reload.label          "Ponovno naloži">
@@ -66,8 +68,6 @@
 <!ENTITY noResults.label           "Brez rezultatov">
 <!ENTITY allBookmarks.label        "Pokaži vse zaznamke">
 
-<!ENTITY searchEngine.addSearch    "Dodaj iskalnik:">
-
 <!ENTITY bookmarkPopup.label       "Stran dodana med zaznamke">
 <!ENTITY bookmarkRemove.label      "Odstrani">
 <!ENTITY bookmarkEdit.label        "Uredi">
@@ -92,3 +92,6 @@
 <!ENTITY consoleErrFile.label      "Datoteka:">
 <!ENTITY consoleErrLine.label      "Vrstica:">
 <!ENTITY consoleErrColumn.label    "Stolpec:">
+
+<!ENTITY contextOpenInNewTab.label "Odpri povezavo v novem zavihku">
+<!ENTITY contextSaveImage.label    "Shrani sliko">
