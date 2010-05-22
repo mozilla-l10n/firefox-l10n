@@ -132,6 +132,9 @@ da ima &brandShortName; dovoljenja za dostop do spleta.</li>
 <!ENTITY phishingBlocked.longDesc "<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
 <p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot lažno predstavljanje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani, ker tako določa varnostna politika vsebine strani.</p>">
+
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Odpelji me na domačo stran!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">
