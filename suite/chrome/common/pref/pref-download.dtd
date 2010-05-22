@@ -50,9 +50,9 @@
 <!ENTITY alwaysAsk.label                "Klausti, kur įrašyti kiekvieną atsiunčiamą failą">
 <!ENTITY alwaysAsk.accesskey            "K">
 
-<!ENTITY downloadRetention.label        "Sąrašo valymas">
-<!ENTITY removeDownloads.label          "Pašalinti atsiųstus failus iš sąrašo">
-<!ENTITY removeDownloads.accesskey      "š">
+<!ENTITY downloadHistory.label          "Parsiuntimų žurnalas">
+<!ENTITY removeEntries.label            "Šalinti įrašus apie parsiųstus failus">
+<!ENTITY removeEntries.accesskey        "Š">
 <!ENTITY whenCompleted.label            "užbaigus siuntimą">
 <!ENTITY whenQuittingApp.label          "baigiant „&brandShortName;“ darbą">
 <!ENTITY neverRemove.label              "nešalinti">
