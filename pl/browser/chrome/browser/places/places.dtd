@@ -106,9 +106,6 @@
 
 <!ENTITY cmd.find.key   "f">
 
-<!ENTITY feed.subscribe.label   "Kanał">
-<!ENTITY feed.subscribe.tooltip   "Subskrybuj">
-
 <!ENTITY maintenance.label   "Importowanie i kopie zapasowe">
 <!ENTITY maintenance.accesskey  "I">
 
