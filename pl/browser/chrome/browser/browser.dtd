@@ -168,6 +168,10 @@
 <!ENTITY errorConsoleCmd.accesskey "K" >
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Zbadaj">
+<!ENTITY inspectMenu.accesskey        "I">
+<!ENTITY inspectMenu.commandkey       "Z">
+
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
 <!ENTITY newNavigatorCmd.label "Nowe okno" >
