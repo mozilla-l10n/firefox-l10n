@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey   "E">
 <!ENTITY views.label   "Widoki">
 <!ENTITY views.accesskey   "W">
-<!ENTITY view.toolbar.label   "Pasek narzędzi">
-<!ENTITY view.toolbar.accesskey   "n">
 <!ENTITY view.columns.label   "Wyświetl kolumny">
 <!ENTITY view.columns.accesskey   "k">
 <!ENTITY view.sort.label   "Sortuj">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label   "Wybierz plik…">
 <!ENTITY cmd.restoreFromFile.accesskey   "W">
 
-<!ENTITY cmd.select_all.label   "Zaznacz wszystko">
-<!ENTITY cmd.select_all.accesskey   "w">
-<!ENTITY cmd.select_all.key   "a">
-
-<!ENTITY cmd.edit_cut.label   "Wytnij">
-<!ENTITY cmd.edit_cut.accesskey   "t">
-<!ENTITY cmd.edit_cut.key   "x">
-<!ENTITY cmd.edit_copy.label   "Kopiuj">
-<!ENTITY cmd.edit_copy.accesskey   "k">
-<!ENTITY cmd.edit_copy.key   "c">
-<!ENTITY cmd.edit_paste.label   "Wklej">
-<!ENTITY cmd.edit_paste.accesskey   "e">
-<!ENTITY cmd.edit_paste.key   "v">
-<!ENTITY cmd.edit_delete.label   "Usuń">
-<!ENTITY cmd.edit_delete.accesskey   "U">
-<!ENTITY cmd.edit_undo.label   "Cofnij">
-<!ENTITY cmd.edit_undo.accesskey   "C">
-<!ENTITY cmd.edit_undo.key   "z">
-<!ENTITY cmd.edit_redo.label   "Przywróć">
-<!ENTITY cmd.edit_redo.accesskey   "P">
-<!ENTITY cmd.edit_redo.key   "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Dodaj zakładkę do tej strony…">
 <!ENTITY cmd.bookmarkLink.accesskey     "D">
 
@@ -85,17 +61,12 @@
 <!ENTITY cmd.properties.label   "Właściwości">
 <!ENTITY cmd.properties.accesskey   "i">
 
-<!ENTITY cmd.rename.label   "Zmień nazwę">
-<!ENTITY cmd.rename.accesskey   "m">
-
 <!ENTITY cmd.sortby_name.label   "Sortuj wg nazw">
 <!ENTITY cmd.sortby_name.accesskey   "S">
 <!ENTITY cmd.context_sortby_name.accesskey   "r">
 
 <!ENTITY cmd.new_bookmark.label   "Nowa zakładka…">
 <!ENTITY cmd.new_bookmark.accesskey   "z">
-<!ENTITY cmd.new_livemark.label   "Nowa dynamiczna zakładka…">
-<!ENTITY cmd.new_livemark.accesskey   "d">
 <!ENTITY cmd.new_folder.label   "Nowy folder…">
 <!ENTITY cmd.new_folder.accesskey   "f">
 <!ENTITY cmd.context_new_folder.accesskey   "f">
