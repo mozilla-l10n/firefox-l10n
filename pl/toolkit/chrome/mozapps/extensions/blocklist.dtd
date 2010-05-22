@@ -8,3 +8,7 @@
 
 <!ENTITY blocklist.accept.label      "Uruchom ponownie program &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "U">
+
+<!ENTITY blocklist.blocked.label     "Zablokowany">
+<!ENTITY blocklist.checkbox.label    "Wyłącz">
+
