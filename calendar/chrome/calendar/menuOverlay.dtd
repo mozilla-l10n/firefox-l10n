@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label "Hoy">
 <!ENTITY goTodayCmd.accesskey "H">
 
-<!ENTITY goPreviousCmd.day.label "Día anterior">
-<!ENTITY goPreviousCmd.week.label "Semana anterior">
-<!ENTITY goPreviousCmd.month.label "Mes anterior">
-<!ENTITY goPreviousCmd.accesskey "a">
-
-<!ENTITY goNextCmd.day.label "Día siguiente">
-<!ENTITY goNextCmd.week.label "Semana siguiente">
-<!ENTITY goNextCmd.month.label "Mes siguiente">
-<!ENTITY goNextCmd.all.accesskey "i">
-
 <!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">
 
