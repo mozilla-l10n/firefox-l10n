@@ -1,2 +1,4 @@
-<!ENTITY menu_securityStatus.label "Beveiligingsinfo">
+<!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
+
+<!ENTITY menu_securityStatus.label "Berichtbeveiligingsinfo">
 <!ENTITY menu_securityStatus.accesskey "i">

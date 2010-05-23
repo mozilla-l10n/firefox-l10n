@@ -18,11 +18,11 @@
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Digitaal ondertekenen">
 <!ENTITY signMessage.label "Berichten (standaard) digitaal ondertekenen">
-<!ENTITY signMessage.accesskey "A">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Dit certificaat gebruiken om berichten die u verzendt digitaal te ondertekenen:">
 
 <!ENTITY certificates.label "Certificaten">
-<!ENTITY manageCerts.label "Certificaten bekijken">
+<!ENTITY manageCerts.label "Certificaten beheren">
 <!ENTITY manageCerts.accesskey "C">
-<!ENTITY manageDevices.label "Beveiligingsapparaten">
+<!ENTITY manageDevices.label "Beveiligingsapparaten beheren">
 <!ENTITY manageDevices.accesskey "B">

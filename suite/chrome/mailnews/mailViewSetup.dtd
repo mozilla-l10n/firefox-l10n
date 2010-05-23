@@ -1,4 +1,6 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY mailViewSetupTitle.label "Berichtenweergave-instellingen">
 <!ENTITY mailViewHeading.label "Berichtenweergavenaam:">
 <!ENTITY mailViewHeading.accesskey "B">
-<!ENTITY searchTermCaption.label "Als deze weergave is geselecteerd, alleen berichten laten zien:">
+<!ENTITY searchTermCaption.label "Als deze weergave is geselecteerd, alleen berichten weergeven die:">

@@ -1,14 +1,14 @@
 <!ENTITY virtualFolderProperties.title "Nieuwe virtuele zoekmap">
-<!ENTITY name.label "Naam:">
-<!ENTITY name.accesskey "N">
-<!ENTITY description.label "Maken als een submap van:">
-<!ENTITY description.accesskey "M">
+<!ENTITY name.label                    "Naam:">
+<!ENTITY name.accesskey                "N">
+<!ENTITY description.label             "Maken als een submap van:">
+<!ENTITY description.accesskey         "M">
 
-<!ENTITY searchTermCaption.label "Configureer de gebruikte zoekcriteria voor deze virtuele zoekmap:">
+<!ENTITY searchTermCaption.label       "Configureer de gebruikte zoekcriteria voor deze virtuele zoekmap: ">
 
-<!ENTITY folderSelectionCaption.label "Selecteer de te doorzoeken mappen:">
-<!ENTITY chooseFoldersButton.label "Kiezen…">
+<!ENTITY folderSelectionCaption.label  "Selecteer de te doorzoeken mappen: ">
+<!ENTITY chooseFoldersButton.label     "Kiezen…">
 <!ENTITY chooseFoldersButton.accesskey "K">
 
-<!ENTITY searchOnline.label "Online zoeken (Geeft up-to-date resultaten voor IMAP- en nieuwsmappen, maar het duurt langer om de map te openen)">
-<!ENTITY searchOnline.accesskey "O">
+<!ENTITY searchOnline.label            "Online zoeken (Geeft up-to-date resultaten voor IMAP- en nieuwsmappen, maar het duurt langer om de map te openen)">
+<!ENTITY searchOnline.accesskey        "O">

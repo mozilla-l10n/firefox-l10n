@@ -1,19 +1,19 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title           "Eigenschappen van de nieuwsfeed">
+<!ENTITY window.title             "Feedeigenschappen">
 
-<!ENTITY feedFolder.label       "Feedartikelen opslaan in:">
-<!ENTITY feedFolder.accesskey   "s">
+<!ENTITY feedFolder.label         "Artikelen opslaan in:">
+<!ENTITY feedFolder.accesskey     "s">
 
-<!ENTITY feedLocation.label     "Feed-URL:">
-<!ENTITY feedLocation.accesskey "F">
+<!ENTITY feedLocation.label       "Feed-URL:">
+<!ENTITY feedLocation.accesskey   "F">
 
-<!ENTITY choosethisfolder.label "Deze map kiezen">
+<!ENTITY choosethisfolder.label   "deze map kiezen">
 
-<!ENTITY quickMode.label        "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
-<!ENTITY quickMode.accesskey    "A">
+<!ENTITY quickMode.label          "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
+<!ENTITY quickMode.accesskey      "A">
 
-<!ENTITY copyLinkCmd.label      "Koppelingslocatie kopiëren">
-<!ENTITY copyLinkCmd.accesskey  "k">
+<!ENTITY copyLinkCmd.label        "Koppelingslocatie kopiëren">
+<!ENTITY copyLinkCmd.accesskey    "k">
 
-<!ENTITY pasteLinkCmd.label     "Plakken">
-<!ENTITY pasteLinkCmd.accesskey "P">
+<!ENTITY pasteLinkCmd.label       "Plakken">
+<!ENTITY pasteLinkCmd.accesskey   "P">
