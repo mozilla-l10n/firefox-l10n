@@ -1,5 +1,7 @@
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Bericht">
-<!ENTITY newMessageCmd.accesskey "B">
-<!ENTITY newContactCmd.label "Contact…">
-<!ENTITY newContactCmd.accesskey "C">
+
+<!ENTITY newMessageCmd.key                "M">
+<!ENTITY newMessageCmd.label              "Bericht">
+<!ENTITY newMessageCmd.accesskey          "B">
+
+<!ENTITY newContactCmd.label              "Contact…">
+<!ENTITY newContactCmd.accesskey          "C">

@@ -39,8 +39,8 @@
     Karsten Düsterloh <mnyromyr@tprac.de>
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -67,15 +67,15 @@
 <!ENTITY highestPriorityCmd.label "Hoogst">
 
 <!ENTITY contextDesc.label "Filter toepassen bij het:">
-<!ENTITY contextDesc.accesskey "a">
-<!ENTITY contextIncoming.label "Controleren van E-mail">
-<!ENTITY contextManual.label "Handmatig activeren">
-<!ENTITY contextBoth.label "Controleren van E-mail of handmatige uitvoering">
-<!ENTITY contextPostPlugin.label "Controleren van E-mail (na classificatie)">
-<!ENTITY contextPostPluginBoth.label "Controleren van E-mail (na classificatie) of handmatige uitvoering">
+<!ENTITY contextDesc.accesskey "t">
+<!ENTITY contextIncoming.label "Controleren van e-mail">
+<!ENTITY contextManual.label "Handmatig uitvoeren">
+<!ENTITY contextBoth.label "Controleren van e-mail of handmatig uitvoeren">
+<!ENTITY contextPostPlugin.label "Controleren van e-mail (na classificatie)">
+<!ENTITY contextPostPluginBoth.label "Controleren van e-mail (na classificatie) of handmatig uitvoeren">
 
 <!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
-<!ENTITY filterActionDesc.accesskey "V">
+<!ENTITY filterActionDesc.accesskey "v">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Bericht verplaatsen naar">
@@ -85,13 +85,13 @@
 <!ENTITY markMessageRead.label "Bericht als gelezen markeren">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
 <!ENTITY labelMessage.label "Bericht labelen als">
-<!ENTITY setPriority.label "Prioriteit veranderen naar">
+<!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
-<!ENTITY setJunkScore.label "Ongewenst-berichtstatus instellen op">
+<!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
 <!ENTITY deleteMessage.label "Bericht verwijderen">
 <!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
 <!ENTITY fetchFromPOP.label "Van POP-server ophalen">
 <!ENTITY ignoreThread.label "Conversatie negeren">
 <!ENTITY ignoreSubthread.label "Subconversatie negeren"> 
 <!ENTITY watchThread.label "Conversatie volgen">
-<!ENTITY stopExecution.label "Filter uitvoering stoppen">
+<!ENTITY stopExecution.label "Uitvoeren van filter stoppen">

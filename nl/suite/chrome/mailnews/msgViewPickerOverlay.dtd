@@ -1,5 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY viewPicker.label "Weergave:">
-<!ENTITY viewPicker.accesskey "g">
+<!ENTITY viewPicker.accesskey "r">
 <!ENTITY viewAll.label "Alle">
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "Ongelezen">

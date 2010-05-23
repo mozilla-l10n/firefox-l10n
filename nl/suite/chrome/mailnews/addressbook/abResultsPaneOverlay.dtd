@@ -48,8 +48,8 @@
 <!ENTITY SecondEmail.accesskey                 "A">
 <!ENTITY Department.label                      "Afdeling">
 <!ENTITY Department.accesskey                  "d">
-<!ENTITY JobTitle.label                        "Titel">
-<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY JobTitle.label                        "Functie">
+<!ENTITY JobTitle.accesskey                    "t">
 <!ENTITY CellularNumber.label                  "Mobiel">
 <!ENTITY CellularNumber.accesskey              "i">
 <!ENTITY PagerNumber.label                     "Pieper">
@@ -68,15 +68,15 @@
 <!ENTITY sortDescending.accesskey              "f">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "E-mail opstellen aan:">
+<!ENTITY composeEmail.label                    "E-mail opstellen aan">
 <!ENTITY composeEmail.accesskey                "o">
 <!ENTITY copyAddress.label                     "E-mailadres kopiëren">
-<!ENTITY copyAddress.accesskey                 "a">
+<!ENTITY copyAddress.accesskey                 "k">
 <!ENTITY deleteAddrBookCard.label              "Verwijderen">
 <!ENTITY deleteAddrBookCard.accesskey          "V">
 <!ENTITY newAddrBookCard.label                 "Nieuwe kaart…">
-<!ENTITY newAddrBookCard.accesskey             "k">
+<!ENTITY newAddrBookCard.accesskey             "N">
 <!ENTITY newAddrBookMailingList.label          "Nieuwe mailinglijst…">
-<!ENTITY newAddrBookMailingList.accesskey      "l">
+<!ENTITY newAddrBookMailingList.accesskey      "m">
 <!ENTITY addrBookCardProperties.label          "Eigenschappen">
 <!ENTITY addrBookCardProperties.accesskey      "E">

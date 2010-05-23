@@ -79,7 +79,7 @@
 <!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "Niet-ingebedde inhoud toestaan.">
+<!ENTITY allowRemoteContent1.label      "Niet-ingebedde inhoud toestaan">
 <!ENTITY allowRemoteContent1.accesskey  "d">
 <!ENTITY allowRemoteContent1.tooltip    "Berichten in HTML-opmaak kunnen koppelingen naar
 inhoud van externe computerbronnen bevatten. Bij het openen van een dergelijk bericht wordt

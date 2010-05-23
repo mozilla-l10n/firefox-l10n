@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,8 +35,8 @@
 
  ***** END LICENSE BLOCK ***** -->
  
-<!ENTITY threadColumn.label "Discussie">
-<!ENTITY fromColumn.label "Verzender">
+<!ENTITY threadColumn.label "Conversatie">
+<!ENTITY fromColumn.label "Van">
 <!ENTITY recipientColumn.label "Ontvanger">
 <!ENTITY attachmentColumn.label "Bijlagen">
 <!ENTITY subjectColumn.label "Onderwerp">
@@ -46,19 +46,19 @@
 <!ENTITY accountColumn.label "Account">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
-<!ENTITY junkStatusColumn.label "Status ongewenste mail">
-<!ENTITY unreadColumn.label "Ongelezen in discussie">
-<!ENTITY totalColumn.label "Totaal in discussie">
+<!ENTITY junkStatusColumn.label "Ongewenstberichtstatus">
+<!ENTITY unreadColumn.label "Ongelezen in conversatie">
+<!ENTITY totalColumn.label "Totaal in conversatie">
 <!ENTITY readColumn.label "Gelezen">
 <!ENTITY receivedColumn.label "Ontvangen">
 <!ENTITY flagColumn.label "Markering">
 <!ENTITY locationColumn.label "Locatie">
-<!ENTITY idColumn.label "ID">
+<!ENTITY idColumn.label "Volgorde van ontvangst">
 
 <!--Tooltips-->
 <!ENTITY columnChooser.tooltip "Klik om weer te geven kolommen te selecteren">
-<!ENTITY threadColumn.tooltip "Klik om discussies weer te geven">
-<!ENTITY fromColumn.tooltip "Klik om te sorteren op verzender">
+<!ENTITY threadColumn.tooltip "Klik om berichtconversaties weer te geven">
+<!ENTITY fromColumn.tooltip "Klik om te sorteren op van">
 <!ENTITY recipientColumn.tooltip "Klik om te sorteren op ontvanger">
 <!ENTITY attachmentColumn.tooltip "Klik om te sorteren op bijlagen">
 <!ENTITY subjectColumn.tooltip "Klik om te sorteren op onderwerp">
@@ -68,11 +68,11 @@
 <!ENTITY accountColumn.tooltip "Klik om te sorteren op account">
 <!ENTITY statusColumn.tooltip "Klik om te sorteren op status">
 <!ENTITY sizeColumn.tooltip "Klik om te sorteren op grootte">
-<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op status ongewenste mail">
-<!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in discussie">
-<!ENTITY totalColumn.tooltip "Totaal aantal berichten in discussie">
+<!ENTITY junkStatusColumn.tooltip "Klik om te sorteren op ongewenstberichtstatus">
+<!ENTITY unreadColumn.tooltip "Aantal ongelezen berichten in conversatie">
+<!ENTITY totalColumn.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn.tooltip "Klik om te sorteren op gelezen">
-<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangsdatum">
+<!ENTITY receivedColumn.tooltip "Klik om te sorteren op ontvangstdatum">
 <!ENTITY flagColumn.tooltip "Klik om te sorteren op markering">
 <!ENTITY locationColumn.tooltip "Klik om te sorteren op locatie">
-<!ENTITY idColumn.tooltip "Klik om te sorteren op ontvangstvolgorde">
+<!ENTITY idColumn.tooltip "Klik om te sorteren op volgorde van ontvangst">

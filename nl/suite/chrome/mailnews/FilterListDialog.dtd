@@ -8,7 +8,7 @@
 <!ENTITY deleteButton.label "Verwijderen">
 <!ENTITY deleteButton.accesskey "V">
 <!ENTITY reorderUpButton.label "Omhoog verplaatsen">
-<!ENTITY reorderUpButton.accesskey "h">
+<!ENTITY reorderUpButton.accesskey "m">
 <!ENTITY reorderDownButton.label "Omlaag verplaatsen">
 <!ENTITY reorderDownButton.accesskey "l">
 <!ENTITY filterHeader.label "Geactiveerde filters werken automatisch in de onderstaande volgorde.">
@@ -17,10 +17,10 @@
 <!ENTITY viewLogButton.label "Filterlogboek">
 <!ENTITY viewLogButton.accesskey "i">
 <!ENTITY runFilters.label "Nu toepassen">
-<!ENTITY runFilters.accesskey "T">
+<!ENTITY runFilters.accesskey "t">
 <!ENTITY stopFilters.label "Stoppen">
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) toepassen op:">
-<!ENTITY folderPickerPrefix.accesskey "P">
-<!ENTITY choosethis.label "Deze map kiezen">
-<!ENTITY choosethisnewsserver.label "Deze nieuwsserver kiezen">
+<!ENTITY folderPickerPrefix.accesskey "p">
+<!ENTITY choosethis.label "deze map kiezen">
+<!ENTITY choosethisnewsserver.label "deze nieuwsserver kiezen">

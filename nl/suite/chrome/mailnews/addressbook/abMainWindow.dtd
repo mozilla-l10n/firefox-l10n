@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -57,11 +57,10 @@
 <!ENTITY printContactViewCmd.accesskey                  "d">
 <!ENTITY printPreviewContactViewCmd.label               "Afdrukvoorbeeld contact">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Adresboek afdrukken…">
 <!ENTITY printAddressBook.accesskey                     "f">
-<!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld van adresboek"> 
+<!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld adresboek"> 
 <!ENTITY printPreviewAddressBook.accesskey              "R">
 <!ENTITY printSetupCmd.label                            "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey                        "i">
@@ -69,11 +68,11 @@
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Adresboek verwijderen">
 <!ENTITY deleteContactCmd.label                         "Contact verwijderen">
-<!ENTITY deleteContactsCmd.label                        "Geselecteerde Contacten verwijderen">
+<!ENTITY deleteContactsCmd.label                        "Geselecteerde contacten verwijderen">
 <!ENTITY deleteListCmd.label                            "Lijst verwijderen">
 <!ENTITY deleteListsCmd.label                           "Geselecteerde lijsten verwijderen">
 <!ENTITY deleteItemsCmd.label                           "Geselecteerde items verwijderen">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Keer voor- en achternaam om">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Voor-/achternaam wisselen">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!ENTITY propertiesCmd.label                            "Eigenschappen…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
@@ -87,22 +86,22 @@
 <!ENTITY showCardPane.label                             "Kaartsamenvattingsvenster">
 <!ENTITY showCardPane.accesskey                         "K">
   
-<!ENTITY menu_ShowNameAs.label                          "Naam weergeven als">
+<!ENTITY menu_ShowNameAs.label                          "Naam tonen als">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
-<!ENTITY firstLastCmd.label                             "Voornaam Achternaam">
+<!ENTITY firstLastCmd.label                             "Voornaam achternaam">
 <!ENTITY firstLastCmd.accesskey                         "V">
-<!ENTITY lastFirstCmd.label                             "Achternaam, Voornaam">
+<!ENTITY lastFirstCmd.label                             "Achternaam, voornaam">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Weergavenaam">
-<!ENTITY displayNameCmd.accesskey                       "N">
+<!ENTITY displayNameCmd.accesskey                       "W">
 
 <!-- Tasks Menu -->
 <!ENTITY importCmd.label                                "Importeren…">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exporteren…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Controleer online aanwezigheid (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "C">
+<!ENTITY allowOnlineCheck.label                         "Onlineaanwezigheid controleren (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "c">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Nieuw contact">
@@ -115,7 +114,7 @@
 <!ENTITY newmsgButton.accesskey                         "O">
 <!ENTITY deleteItemButton.label                         "Verwijderen">
 <!ENTITY deleteItemButton.accesskey                     "V">
-<!ENTITY newimButton.label                              "Instant bericht">
+<!ENTITY newimButton.label                              "Instant-bericht">
 <!ENTITY newimButton.accesskey                          "I">
 <!ENTITY searchNameAndEmail.placeholder                 "Naam en e-mail doorzoeken">
 
@@ -127,8 +126,8 @@
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteItemButton.tooltip                       "Geselecteerde item verwijderen">
-<!ENTITY throbber.tooltip                               "Ga naar de &vendorShortName; website">
-<!ENTITY advancedButton.tooltip                         "Geavanceerd zoeken in adressen">
+<!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-website gaan">
+<!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

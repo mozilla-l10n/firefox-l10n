@@ -39,10 +39,10 @@
 <!ENTITY subscribeButton.label        "Abonneren">
 <!ENTITY subscribeButton.accesskey    "b">
 <!ENTITY unsubscribeButton.label      "Abonnement opzeggen">
-<!ENTITY unsubscribeButton.accesskey  "z">
-<!ENTITY refreshButton.label          "Vernieuwen">
+<!ENTITY unsubscribeButton.accesskey  "o">
 <!ENTITY newGroupsTab.label           "Nieuwe groepen">
 <!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY refreshButton.label          "Vernieuwen">
 <!ENTITY refreshButton.accesskey      "V">
 <!ENTITY stopButton.label             "Stoppen">
 <!ENTITY stopButton.accesskey         "S">
@@ -50,6 +50,6 @@
 <!ENTITY server.accesskey             "A">
 <!ENTITY subscribedHeader.label       "Abonneren">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Nieuwsgroepen die bevatten:">
-<!ENTITY namefield.accesskey          "N">
+<!ENTITY messagesHeader.label         "Berichten"> -->
+<!ENTITY namefield.label              "Nieuwsgroepen tonen met de tekst:">
+<!ENTITY namefield.accesskey          "t">
