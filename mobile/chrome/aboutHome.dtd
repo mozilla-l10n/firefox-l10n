@@ -1,5 +1,5 @@
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Uw tabbladen van de laatste keer">
+<!ENTITY aboutHome.recentTabs                   "Uw tabbladen van de vorige keer">
 <!ENTITY aboutHome.remoteTabs                   "Tabbladen van uw andere computers">
 <!ENTITY aboutHome.recommendedAddons2           "Add-ons voor &brandShortName;">
 <!ENTITY aboutHome.aboutMozilla                 "Over Mozilla">
