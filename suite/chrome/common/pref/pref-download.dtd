@@ -15,9 +15,9 @@
 <!ENTITY chooseDownloadFolder.accesskey "В">
 <!ENTITY alwaysAsk.label "Заўсёды пытаць мяне, дзе захоўваць файлы">
 <!ENTITY alwaysAsk.accesskey "З">
-<!ENTITY downloadRetention.label "Утрыманне загрузак">
-<!ENTITY removeDownloads.label "Выдаляць загрузкі">
-<!ENTITY removeDownloads.accesskey "л">
+<!ENTITY downloadHistory.label "Гісторыя загрузак">
+<!ENTITY removeEntries.label "Выдаліць загружаныя адзінкі">
+<!ENTITY removeEntries.accesskey "д">
 <!ENTITY whenCompleted.label "Калі яны скончаны">
 <!ENTITY whenQuittingApp.label "Падчас выхаду з &brandShortName;">
 <!ENTITY neverRemove.label "Ніколі">

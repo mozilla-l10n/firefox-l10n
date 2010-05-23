@@ -51,6 +51,8 @@
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY helpMenu.label "Даведка">
 <!ENTITY helpMenu.accesskey "Д">
+<!ENTITY helpTroubleshootingInfo.label "Звесткі для вырашэнне праблемаў">
+<!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY releaseCmd.label "Заўвагі аб выданні">
 <!ENTITY releaseCmd.accesskey "В">
 <!ENTITY updateCmd.label "Праверыць, ці існуюць абнаўленні…">
