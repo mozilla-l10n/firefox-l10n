@@ -1,7 +1,7 @@
 <!ENTITY firstrun.title                "Welkom bij &brandShortName;">
 <!ENTITY firstrun.heading              "Om u op weg te helpen volgen hier een aantal van de meest populaire functies en add-ons, zodat u het meeste uit &brandShortName; kunt halen.">
 <!ENTITY firstrun.recommended          "Aanbevolen:">
-<!ENTITY firstrun.weave.title          "Weave Sync verkrijgen">
+<!ENTITY firstrun.weave.title          "Firefox Sync verkrijgen">
 <!ENTITY firstrun.weave.description    "Deel uw navigatiegeschiedenis, wachtwoorden, bladwijzers en tabbladen van &brandShortName; op uw desktop en mobiel met elkaar">
 <!ENTITY firstrun.starter.title        "De Starter Kit Collection verkrijgen">
 <!ENTITY firstrun.starter.description  "Installeer deze aanbevolen add-ons om uw &brandShortName;-ervaring te verbeteren">
