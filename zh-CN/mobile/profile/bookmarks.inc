@@ -20,8 +20,8 @@
 #define bookmarks_aboutBrowser Firefox ：关于您的浏览器
 
 # LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox：使用 Weave 同步
+# link title for https://www.mozilla.com/en-US/mobile/sync
+#define bookmarks_sync 火狐：Weave Sync让您手机中的书签保持同步
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
@@ -30,5 +30,9 @@
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox：技术支持
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+# link title for about:home
+#define bookmarks_aboutHome 我的火狐首页
 
 #unfilter emptyLines
