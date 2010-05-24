@@ -57,7 +57,7 @@
 
 <!ENTITY editMessageDescription.label "To je osnutek sporočila">
 <!ENTITY editMessageButton.label "Urejaj…">
-<!ENTITY hdrArchiveButton.label "arhiviraj">
+<!ENTITY hdrArchiveButton.label "arhiv">
 <!ENTITY hdrArchiveButton.tooltip "arhiviraj to sporočilo">
 <!ENTITY hdrReplyButton.label "odgovori">
 <!ENTITY hdrReplyButton.tooltip "odgovori na to sporočilo">
@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "e">
 
 <!ENTITY otherActionsButton.label "drugi ukrepi">
-<!ENTITY otherActionsShowConversation.label "pokaži v pogovoru">
-<!ENTITY otherActionsShowConversation.accesskey "u">
+<!ENTITY otherActionsOpenConversation.label "odpri kot pogovor">
+<!ENTITY otherActionsOpenConversation.accesskey "u">
 <!ENTITY otherActionsOpenInNewWindow.label "odpri v novem oknu">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "w">
 <!ENTITY otherActionsOpenInNewTab.label "odpri v novem zavihku">
@@ -108,7 +108,7 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Shrani vse…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Odpni vse…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "B">
 <!ENTITY deleteAllAttachmentsCmd.label    "Zbriši vse…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
