@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "Mape za dostop IMAP in za sporočila z več računalnikov">
+<!ENTITY pop.description                 "POP - prenesi vsa sporočila na ta računalnik, mape so samo lokalne">
+<!ENTITY recommended-appendix.label      "(priporočljivo)">
 
 <!ENTITY manualSetup.label               "Ročna nastavitev…">
 <!ENTITY manualSetup.accesskey           "S">

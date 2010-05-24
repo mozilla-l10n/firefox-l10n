@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
+   
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Nova mapa">
 <!ENTITY name.label                 "Ime:">
@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "Nov imenik lahko vsebuje:">
 <!ENTITY foldersOnly.label          "Samo imeniki">
 <!ENTITY messagesOnly.label         "Samo sporočila">
+<!ENTITY accept.label               "Ustvari mapo">
+<!ENTITY accept.accesskey           "b">
