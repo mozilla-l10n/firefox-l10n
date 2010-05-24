@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "在搜素栏或地址栏输入">
+
 <!ENTITY back.label            "后退">
 <!ENTITY forward.label         "前进">
 <!ENTITY reload.label          "重新载入">
@@ -66,8 +68,6 @@
 <!ENTITY noResults.label           "没有结果">
 <!ENTITY allBookmarks.label        "查看所有书签">
 
-<!ENTITY searchEngine.addSearch    "添加搜索引擎：">
-
 <!ENTITY bookmarkPopup.label       "页面已加为书签">
 <!ENTITY bookmarkRemove.label      "移除">
 <!ENTITY bookmarkEdit.label        "编辑">
@@ -92,3 +92,6 @@
 <!ENTITY consoleErrFile.label      "源文件：">
 <!ENTITY consoleErrLine.label      "行：">
 <!ENTITY consoleErrColumn.label    "列：">
+
+<!ENTITY contextOpenInNewTab.label "在新标签页中打开">
+<!ENTITY contextSaveImage.label    "保存图片">

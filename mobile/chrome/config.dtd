@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "搜索">
+<!ENTITY newpref.label          "添加新首选项">
+<!ENTITY addpref.name           "名称">
+<!ENTITY addpref.value          "值">
+
+<!ENTITY cancel.label           "取消">
+<!ENTITY reset.label            "重置">
+<!ENTITY done.label             "完成">
+
+<!ENTITY integer.label          "整数">
+<!ENTITY string.label           "字符串">
+<!ENTITY boolean.label          "布尔">
