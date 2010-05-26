@@ -81,10 +81,8 @@
 <!ENTITY sort.rating.tooltip              "Trier par appréciation">
 
 <!ENTITY showMore.label                   "Plus">
-<!ENTITY showMore.accesskey               "P">
 <!ENTITY showMore.tooltip                 "Afficher plus de détails">
 <!ENTITY showLess.label                   "Moins">
-<!ENTITY showLess.accesskey               "M">
 <!ENTITY showLess.tooltip                 "Afficher moins de détails">
 
 <!ENTITY search.filter.label              "Afficher :">
