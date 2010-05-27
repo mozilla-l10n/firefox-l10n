@@ -2,18 +2,18 @@
 
 <!ENTITY about.credits.beforeLink "Mozilla projekta ">
 <!ENTITY about.credits.linkTitle "dalībnieku">
-<!ENTITY about.credits.afterLink " saraksts.">
+<!ENTITY about.credits.afterTheLink " saraksts.">
 
 <!ENTITY about.license.beforeLink "Lasiet šī produkta">
 <!ENTITY about.license.linkTitle "licences informāciju">
-<!ENTITY about.license.afterLink ".">
+<!ENTITY about.license.afterTheLink ".">
 
 <!ENTITY about.relnotes.beforeLink "Lasiet šīs versijas ">
 <!ENTITY about.relnotes.linkTitle "laidiena piezīmes">
-<!ENTITY about.relnotes.afterLink ".">
+<!ENTITY about.relnotes.afterTheLink ".">
 
 <!ENTITY about.buildconfig.beforeLink "Skatiet šīs versijas ">
 <!ENTITY about.buildconfig.linkTitle "būvējuma konfigurāciju">
-<!ENTITY about.buildconfig.afterLink ".">
+<!ENTITY about.buildconfig.afterTheLink ".">
 
 <!ENTITY about.buildIdentifier "Būvējuma identifikators:">
