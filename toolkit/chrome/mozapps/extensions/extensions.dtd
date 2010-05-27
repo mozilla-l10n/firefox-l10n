@@ -63,10 +63,8 @@
 <!ENTITY sort.rating.label "Voto">
 <!ENTITY sort.rating.tooltip "Ordina per voto medio">
 <!ENTITY showMore.label "Mostra dettagli">
-<!ENTITY showMore.accesskey "M">
 <!ENTITY showMore.tooltip "Visualizza informazioni dettagliate">
 <!ENTITY showLess.label "Nascondi dettagli">
-<!ENTITY showLess.accesskey "t">
 <!ENTITY showLess.tooltip "Nascondi informazioni dettagliate">
 <!ENTITY search.filter.label "Visualizza:">
 <!ENTITY search.filter.installed.label "Componenti aggiuntivi installati">
