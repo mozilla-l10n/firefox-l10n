@@ -112,10 +112,8 @@
 <!ENTITY sort.rating.tooltip                  "Rikiuoti pagal reitingą">
 
 <!ENTITY showMore.label                       "Išsamiau">
-<!ENTITY showMore.accesskey                   "I">
 <!ENTITY showMore.tooltip                     "Rodyti išsamesnę informaciją">
 <!ENTITY showLess.label                       "Glausčiau">
-<!ENTITY showLess.accesskey                   "G">
 <!ENTITY showLess.tooltip                     "Rodyti glaustesnę informaciją">
 
 <!ENTITY search.filter.label                  "Rodyti:">
