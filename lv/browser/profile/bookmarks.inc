@@ -7,10 +7,6 @@
 #define bookmarks_title Grāmatzīmes
 #define bookmarks_heading Grāmatzīmes
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Iegūstiet grāmatzīmju papildinājumus
-
 #define bookmarks_toolbarfolder Rīkjoslas grāmatzīmju mape
 #define bookmarks_toolbarfolder_description Pievienojiet grāmatzīmes šai mapei, lai redzētu tās uz savas grāmatzīmju rīkjosklas
 

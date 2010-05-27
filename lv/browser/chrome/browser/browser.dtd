@@ -143,8 +143,11 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Papildinājumi">
-<!ENTITY addons.tooltip "Parāda un ļauj pārvaldīt uzinstalētos papildinājumus">
 <!ENTITY addons.accesskey "A">
+
+<!ENTITY inspectMenu.label            "Apskatīt">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "A">
 
 <!ENTITY errorConsoleCmd.label "Kļūdu pārlūks">
 <!ENTITY errorConsoleCmd.accesskey "K">
@@ -476,3 +479,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY showAllTabsCmd.label "Rādīt visas cilnes">
 <!ENTITY showAllTabsCmd.accesskey "v">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Pārlūka cilnes">
+
+<!ENTITY viewTabsOnTop.label            "Cilnes virspusē">
+<!ENTITY viewTabsOnTop.accesskey        "v">
