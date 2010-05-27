@@ -86,10 +86,8 @@
 
 
 <!ENTITY showMore.label                       "แสดงเพิ่ม">
-<!ENTITY showMore.accesskey                   "พ">
 <!ENTITY showMore.tooltip                     "แสดงรายละเอียดเพิ่มเติม">
 <!ENTITY showLess.label                       "แสดงน้อยกว่านี้">
-<!ENTITY showLess.accesskey                   "น">
 <!ENTITY showLess.tooltip                     "แสดงข้อมูลน้อยกว่านี้">
 
 <!ENTITY search.filter.label                  "แสดง:">
