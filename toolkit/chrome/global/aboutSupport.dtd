@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Problēmu novēršanas informācija">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Šī lapa satur tehnisku informāciju, kas var būt noderīga mēģinot novērst problēmu. 
+  Ja meklējat atbildes uz vienkāršiem jautājumiem par &brandShortName;, aplūkojiet 
+  mūsu <a id='supportLink'>atbalsta mājas lapu</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Papildinājumi">
+<!ENTITY aboutSupport.extensionName "Nosaukums">
+<!ENTITY aboutSupport.extensionEnabled "Ieslēgts">
+<!ENTITY aboutSupport.extensionVersion "Versija">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Programmas pamatinformācija">
+<!ENTITY aboutSupport.appBasicsName "Nosaukums">
+<!ENTITY aboutSupport.appBasicsVersion "Versija">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profila direktorija">
+<!ENTITY aboutSupport.appBasicsPlugins "Instalētie spraudņi">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
+
+<!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Rādīt ar Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Modificētie iestatījumi">
+<!ENTITY aboutSupport.modifiedPrefsName "Nosaukums">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vērtība">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Instalācijas vēsture">
+<!ENTITY aboutSupport.updateHistoryTitle "Atjauninājumu vēsture">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopēt visu atmiņā">
