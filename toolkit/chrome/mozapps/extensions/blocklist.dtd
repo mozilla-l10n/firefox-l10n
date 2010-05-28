@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Pārstartēt &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "Bloķēts">
+<!ENTITY blocklist.checkbox.label    "Atslēgts">
