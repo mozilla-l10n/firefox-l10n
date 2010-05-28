@@ -1,8 +1,8 @@
 <!ENTITY about.version "versija">
 
-<!ENTITY about.credits.beforeTheLink "Mozilla projekta ">
+<!ENTITY about.credits.beforeLink "Mozilla projekta ">
 <!ENTITY about.credits.linkTitle "dalībnieku">
-<!ENTITY about.credits.afterTheLink " saraksts.">
+<!ENTITY about.credits.afterLink " saraksts.">
 
 <!ENTITY about.license.beforeTheLink "Lasiet šī produkta">
 <!ENTITY about.license.linkTitle "licences informāciju">
