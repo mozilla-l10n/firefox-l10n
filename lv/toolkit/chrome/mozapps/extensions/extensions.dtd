@@ -1,21 +1,20 @@
-<!ENTITY addons.title "Papildinājumi">
-<!-- Default window size for the addon manager in pixels -->
-
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
-
-<!ENTITY cmd.info.commandKey "i">
+<!ENTITY addons.windowTitle                   "Papildinājumu pārvaldnieks">
 <!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
 <!-- View labels -->
 
-<!ENTITY search.label "Iegūt papildinājumus">
-<!ENTITY extensions.label "Papildinājumi">
 <!ENTITY themes.label "Tēmas">
-<!ENTITY locales.label "Valodas">
-<!ENTITY plugins.label "Spraudņi">
-<!ENTITY update.label "Atjauninājumi">
+<!ENTITY search.placeholder                   "Meklēt papildinājumus">
 <!ENTITY install.label "Instalēšana">
+
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Apturēt">
+<!ENTITY progress.cancel.tooltip              "Atcelt">
+
+<!ENTITY showMore.label                       "Rādīt vairāk">
+<!ENTITY showMore.tooltip                     "Rādīt vairāk informācijas">
+<!ENTITY showLess.label                       "Rādīt mazāk">
+<!ENTITY showLess.tooltip                     "Rādīt mazāk informācijas">
+
 <!-- Command Bar items -->
 
 <!ENTITY cmd.checkUpdatesAll.label "Meklēt atjauninājumus">
@@ -23,155 +22,116 @@
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Meklē atjauninājumus jūsu papildinājumiem">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Meklē atjauninājumus jūsu tēmām">
 <!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Meklē atjauninājumus jūsu spraudņiem">
-<!ENTITY cmd.installLocalFile.label "Instalēt…">
-<!ENTITY cmd.installLocalFile.accesskey "n">
-<!ENTITY cmd.installFileAddon.tooltip "Instalēt papildinājumu">
-<!ENTITY cmd.installFileTheme.tooltip "Instalēt tēmu">
-<!ENTITY cmd.installUpdatesAll2.label "Instalēt atjauninājumus">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip "Instalē izvēlētos atjauninājumus">
-<!ENTITY cmd.restartApp2.label "Pārstartēt &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey "R">
-<!ENTITY cmd.restartApp2.tooltip "Lai pielietotu izmaiņas, pārstartējiet &brandShortName;">
-<!ENTITY cmd.skip.label "Izlaist">
-<!ENTITY cmd.skip.accesskey "l">
-<!ENTITY cmd.skip.tooltip "Izlaist šos atjauninājumus">
-<!ENTITY cmd.continue.label "Turpināt">
-<!ENTITY cmd.continue.accesskey "T">
-<!ENTITY cmd.continue.tooltip "Turpināt &brandShortName; ielādi">
-<!ENTITY outdated.label                   "Pieejama jaunāka un drošāka versija.">
+<!ENTITY cmd.contribute.label                 "Dot iegldījumi">
+<!ENTITY cmd.contribute.accesskey             "D">
+<!ENTITY cmd.contribute.tooltip               "Dot ieguldījumu šī papildinājuma izstrādē">
+<!ENTITY cmd.findUpdates.label                "Meklēt atjauninājunmus">
+<!ENTITY cmd.findUpdates.accesskey            "M">
 
-<!ENTITY cmd.enableAll.label "Ieslēgt visus">
-<!ENTITY cmd.enableAll.accesskey "v">
-<!ENTITY cmd.enableAll.tooltip "Ieslēgt visus redzamos papildinājumus">
-<!ENTITY cmd.disableAll.label "Atslēgt visus">
-<!ENTITY cmd.disableAll.accesskey "s">
-<!ENTITY cmd.disableAll.tooltip "Atslēgt visus redzamos papildinājumus">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-
-<!ENTITY cmd.useTheme.label "Lietot tēmu">
-<!ENTITY cmd.useTheme.accesskey "T">
-<!ENTITY cmd.useTheme.tooltip "Maina &brandShortName; tēmu">
-<!ENTITY cmd.options.label "Iestatījumi">
-<!ENTITY cmd.options.accesskey "S">
-<!ENTITY cmd.options.tooltip "Mainīt izvēlētā papildinājuma iestatījumus">
-<!ENTITY cmd.optionsUnix.label "Iestatījumi">
-<!ENTITY cmd.optionsUnix.accesskey "s">
-<!ENTITY cmd.optionsUnix.tooltip "Mainīt izvēlētā papildinājuma iestatījumus">
-<!ENTITY cmd.enable.label "Ieslēgt">
-<!ENTITY cmd.enable.accesskey "E">
-<!ENTITY cmd.enable.tooltip "Ieslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
-<!ENTITY cmd.disable.label "Atslēgt">
-<!ENTITY cmd.disable.accesskey "T">
-<!ENTITY cmd.disable.tooltip "Atslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
-<!ENTITY cmd.uninstall.label "Noņemt">
-<!ENTITY cmd.uninstall2.accesskey "N">
-<!ENTITY cmd.uninstall2.tooltip "Noņemt šo papildinājumu pēc &brandShortName; pārstartēšanas">
-<!ENTITY cmd.cancelUninstall.label "Atcelt noņemšanu">
-<!ENTITY cmd.cancelUninstall.accesskey "C">
-<!ENTITY cmd.cancelUninstall.tooltip "Atcelt šī papildinājuma noņemšanu">
-<!ENTITY cmd.cancelInstall.label "Atcelt instalēšanu">
-<!ENTITY cmd.cancelInstall.accesskey "C">
-<!ENTITY cmd.cancelInstall.tooltip "Atcelt šī papildinājuma instalēšanu">
-<!ENTITY cmd.cancelUpgrade.label "Atcelt modernizēšanu">
-<!ENTITY cmd.cancelUpgrade.accesskey "C">
-<!ENTITY cmd.cancelUpgrade.tooltip "Atcelt šī papildinājuma modernizēšanu">
-<!ENTITY cmd.installUpdate.label "Instalēt atjauninājumu">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "Instalēt šī papildinājuma atjauninājumu">
+<!ENTITY cmd.enableAddon.label "Ieslēgt">
+<!ENTITY cmd.enableAddon.accesskey "E">
+<!ENTITY cmd.enableAddon.tooltip "Ieslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
+<!ENTITY cmd.disableAddon.label "Atslēgt">
+<!ENTITY cmd.disableAddon.accesskey "T">
+<!ENTITY cmd.disableAddon.tooltip "Atslēgt šo papildinājumu pēc &brandShortName; pārstartēšanas">
+<!ENTITY cmd.uninstallAddon.label             "Atinstalēt">
+<!ENTITY cmd.uninstallAddon.accesskey         "A">
+<!ENTITY cmd.uninstallAddon.tooltip           "Atinstalēt šo papildinājumu">
 <!ENTITY cmd.showUpdateInfo.label "Rādīt informāciju">
-<!ENTITY cmd.showUpdateInfo.accesskey "R">
-<!ENTITY cmd.showUpdateInfo.tooltip "Rādīt vairāk informācijas par šiem atjauninājumiem">
-<!ENTITY cmd.hideUpdateInfo.label "Slēpt informāciju">
-<!ENTITY cmd.hideUpdateInfo.accesskey "S">
-<!ENTITY cmd.hideUpdateInfo.tooltip "Slēpt informāciju par šiem atjauninājumiem">
-<!ENTITY cmd.installSearchResult.label "Pievienot &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "P">
-<!ENTITY cmd.installSearchResult.tooltip "Lejupielādēt un instalēt šo papildinājumu">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Atcelt">
-<!ENTITY cancel.accesskey "C">
-<!ENTITY cancelInstall.label "Atcelt">
-<!ENTITY cancelInstall.accesskey "C">
-<!ENTITY cancelUpgrade.label "Atcelt">
-<!ENTITY cancelUpgrade.accesskey "C">
-<!-- Only displayed in the selected Add-on's context menu -->
 
-<!ENTITY cmd.homepage.label "Apmeklēt mājas lapu">
-<!ENTITY cmd.homepage.accesskey "M">
-<!ENTITY cmd.about2.label "Par šo papildinājumu">
+<!ENTITY cmd.about.label "Par šo papildinājumu">
 <!ENTITY cmd.about.accesskey "P">
 <!ENTITY cmd.checkUpdate.label "Meklēt atjauninājumu">
 <!ENTITY cmd.checkUpdate.accesskey "M">
+<!ENTITY cmd.preferences.label                "Iestatījumi">
+<!ENTITY cmd.preferences.accesskey            "I">
 
-<!ENTITY cmd.includeUpdate.label "Iekļaut atjauninājumu">
-<!ENTITY cmd.includeUpdate.accesskey "k">
-<!ENTITY includeUpdate.label "Iekļaut šo atjauninājumu">
-<!ENTITY includeUpdate.accesskey "k">
-<!ENTITY includeUpdate.tooltip "Iekļaut šo papildinājumu atjauninājumu instalēšanā">
+<!-- ratings -->
+<!ENTITY rating.yourRating.label              "Jūsu vērtējums:">
+
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versija">
+<!ENTITY detail.updated.label                 "Atjaunināts">
+<!ENTITY detail.creator.label                 "Izstrādātājs">
+<!ENTITY detail.homepage.label                "Mājas lapa">
+<!ENTITY detail.numberOfDownloads.label       "Lejupielāžu skaits">
+
+<!ENTITY detail.updateAutomatically.label     "Atjaunināt automātiski">
+<!ENTITY detail.updateAutomatically.accesskey "A">
+<!ENTITY detail.updateAutomatically.tooltip   "Automātiski atjaunināt šo papildinākumu, kolīdz ir pieejama jaunāka versija">
+<!ENTITY detail.checkForUpdates.label         "Meklēt atjauninājumus">
+<!ENTITY detail.checkForUpdates.accesskey     "M">
+<!ENTITY detail.checkForUpdates.tooltip       "Meklēt atjauninājumus šim papildinājumam">
+<!ENTITY detail.showPreferences.label         "Iestatījumi">
+<!ENTITY detail.showPreferences.accesskey     "I">
+<!ENTITY detail.showPreferences.tooltip       "Izmainiet šī papildinājuma iestatījumus">
+
 <!-- Status Messsages -->
-
-<!ENTITY insecureUpdate.label "Nenodrošina drošus atjauninājumus.">
 <!ENTITY needsDependencies.label "Nepieciešamas papildu vienības.">
-<!ENTITY blocklisted.label "Atslēgts jūsu aizsardzībai.">
-<!ENTITY toBeDisabled.label "Šis papildinājums tiks atslēgts pēc &brandShortName; pārstartēšanas.">
-<!ENTITY toBeEnabled.label "Šis papildinājums tiks ieslēgts pēc &brandShortName; pārstartēšanas.">
-<!ENTITY toBeInstalled.label "Šis papildinājums tiks instalēts pēc &brandShortName; pārstartēšanas.">
-<!ENTITY toBeUninstalled.label "Šis papildinājums tiks noņemts pēc &brandShortName; pārstartēšanas.">
-<!ENTITY toBeUpdated.label "Šis papildinājums tiks atjaunināts pēc &brandShortName; pārstartēšanas.">
 
-<!ENTITY getExtensions.label "Dabūt papildinājumus">
-<!ENTITY getThemes.label "Dabūt tēmas">
-<!ENTITY getPlugins.label "Dabūt spraudņus">
 
 <!ENTITY searchAddons.label "Meklēt visos papildinājumos">
-<!ENTITY browseAddons.label "Pārlūkot visus papildinājumus">
 <!ENTITY searchFailed.label "&brandShortName; nespēja ielādēt papildinājumus">
-<!ENTITY recommendedHeader.label "Rekomendēts">
-<!ENTITY recommendedThrobber.label "Ielādē rekomendētos papildinājumus">
 <!ENTITY searchThrobber.label "Meklē papildinājumus">
-<!ENTITY resetSearch.label "Tīrīt rezultātus">
 <!ENTITY noSearchResults.label "Visi rezultāti jau ir instalēti vai nav saderīgi.">
 <!ENTITY noRecommendedResults.label "Visi rekomendētie jau ir instalēti vai nav saderīgi.">
-<!ENTITY emptySearch.label "Nav atbilstošu papildinājumu">
-<!ENTITY emptySearch.button "Labi">
-<!ENTITY cancelSearch.button "Atcelt">
 <!ENTITY searchFailed.button "Labi">
 <!ENTITY searchResultHomepage.value "Uzzināt vairāk">
 <!ENTITY searchBox.label "Meklēt visos papildinājumos">
-<!ENTITY recommendedResults.label "Apskatīt visus rekomendētos papildinājumus">
 <!ENTITY searchResultConnecting.label "Pieslēdzas...">
 <!ENTITY searchResultInstalling.label "Instalē...">
 <!ENTITY searchResultFailed.label "Instalēšana neizdevās">
 <!ENTITY searchResultInstalled.label "Instalēšana pabeigta">
-<!ENTITY addonTypeExtension.label "Papildinājums">
-<!ENTITY addonTypeTheme.label "Tēma">
-<!ENTITY missingThumbnail.label "Nav priekšskatījuma">
 
-<!ENTITY previewNoThemeSelected.label "Nav izvēlēta tēma">
-<!ENTITY previewNoPreviewImage.label "Šai tēmai nav priekšskatījuma attēla">
-<!ENTITY moreInfo.label "Vairāk informācijas">
-<!ENTITY infoNoAddonSelected.label "Nav izvēlēts atjauninājums">
-<!ENTITY infoNoUpdateInfo.label "Šim atjauninājumam nav papildu informācijas">
-<!ENTITY infoUpdateInfoError.label "Notika kļūda, ielādējot atjauninājuma informāciju">
+<!ENTITY search.filter.label                  "Rādīt:">
+<!ENTITY search.filter.installed.label        "Instalētos papildinājumus">
+<!ENTITY search.filter.available.label        "Pieejamos papildinājumus">
 
-<!ENTITY updateSuccess.label "Atjaunināšana sekmīgi pabeigta.">
-<!ENTITY installSuccess.label "Instalēšana sekmīgi pabeigta.">
-<!ENTITY installSuccessRestart.label "Pārstartējiet, lai pabeigtu instalēšanu.">
-<!ENTITY updateSuccessRestart.label "Pārstartējiet, lai pabeigtu atjaunināšanu.">
-<!ENTITY installWaiting.label "Gaida...">
-<!ENTITY installIncompatibleUpdate.label "Pārbauda saderību...">
-<!ENTITY installFinishing.label "Instalē...">
-<!ENTITY installFailure.label "Instalēšana neizdevās.">
+<!ENTITY loading.label                        "Ielādē…">
+<!ENTITY listEmpty.installed.label            "Jums nav uzinstalēts neviens šī tipa atjauninājums">
+<!ENTITY listEmpty.search.label               "Nevar atrast nevienu atbilstošu papildinājumu">
+<!ENTITY listEmpty.button.label               "Uzziniet vairāk par papildinājumiem">
 
-<!ENTITY progressStatus.label "Pārbauda atjauninājumus">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Atjanināt papildinājumu">
+<!ENTITY updates.updating.label               "Atjaunina papildinājumus">
+<!ENTITY updates.installed.label              "Jūsu papildinājumi ir atjaunināti.">
+<!ENTITY updates.downloaded.label             "Jūsu papildinājumu atjauninājumi ir lejupielādēti.">
+<!ENTITY updates.restart.label                "Pārstartējiet, lai pabeigtu atjaunināšanu">
+<!ENTITY updates.noneFound.label              "Atjauninājumi nav atrasti">
 
-<!ENTITY eula.title "Gala Lietotāja Licences Līgums">
-<!ENTITY eula.width "560px">
-<!ENTITY eula.height "400px">
-<!ENTITY eula.accept "Pieņemt un instalēt...">
+<!ENTITY addon.homepage                       "Mājas lapa">
+<!ENTITY addon.unknownDate                    "Nezināms">
+<!ENTITY addon.disabled.postfix               "(atslēgts)">
+<!ENTITY addon.undo.label                     "Atcelt?">
+<!ENTITY addon.undo.tooltip                   "Atcelt šo darbībi">
+<!ENTITY addon.undoUninstall.label            "Atcelt?">
+<!ENTITY addon.undoUninstall.tooltip          "Atstāt šo papildinājumu">
+<!ENTITY addon.restartNow.label               "Pārstartēt">
+<!ENTITY addon.restartNow.tooltip             "Pārstartēt, lai pabeigtu instalēšanu">
+<!ENTITY addon.install.tooltip                "Instalēt šo papildinājumu">
+<!ENTITY addon.checkingForUpdates.label       "Meklē atjauninājumus…">
 
-<!ENTITY blocklist.blocked.label          "Bloķēts">
-<!ENTITY blocklist.checkbox.label         "Deaktivizēt">
+<!ENTITY addon.createdBy.label                "Autors: ">
 
-<!ENTITY softBlocklisted.label            "Rada drovības risku un darbības traucējumus.">
+<!ENTITY cmd.showDetails.label                "Rādīt papildus informāciju">
+<!ENTITY cmd.showDetails.accesskey            "P">
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Nosaukums">
+<!ENTITY sort.name.tooltip                    "Kārtot pēc nosaukuma">
+<!ENTITY sort.size.label                      "Izmērs">
+<!ENTITY sort.size.tooltip                    "Kārtot pēc izmēra">
+<!ENTITY sort.dateUpdated.label               "Atjaunināts">
+<!ENTITY sort.dateUpdated.tooltip             "Kārtot pēc atjaunināšanas datuma">
+<!ENTITY sort.rating.label                    "Vērtējums">
+<!ENTITY sort.rating.tooltip                  "Kārtot pēc vidējā vērtējuma">
+
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Meklēšana">
+<!ENTITY view.discover.label                  "Iegūt papildinājumus">
+<!ENTITY view.languages.label                 "Valodas">
+<!ENTITY view.searchengines.label             "Meklētāji">
+<!ENTITY view.features.label                  "Papildinājumi">
+<!ENTITY view.appearance.label                "Tēmas">
+<!ENTITY view.plugins.label                   "Spraudņi">
