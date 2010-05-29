@@ -89,7 +89,7 @@
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY pasteNoFormatting.label "Copiar sin formato">
+<!ENTITY pasteNoFormatting.label "Pegar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegar como">
