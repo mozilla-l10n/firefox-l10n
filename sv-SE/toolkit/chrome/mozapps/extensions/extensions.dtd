@@ -86,10 +86,8 @@
 
 
 <!ENTITY showMore.label                       "Visa mer">
-<!ENTITY showMore.accesskey                   "m">
 <!ENTITY showMore.tooltip                     "Visar fler detaljer">
 <!ENTITY showLess.label                       "Visa mindre">
-<!ENTITY showLess.accesskey                   "d">
 <!ENTITY showLess.tooltip                     "Visar färre detaljer">
 
 <!ENTITY search.filter.label                  "Visa:">
