@@ -63,10 +63,8 @@
 <!ENTITY sort.rating.label "Evaluación">
 <!ENTITY sort.rating.tooltip "Ordenar por evaluación promedio">
 <!ENTITY showMore.label "Mostrar más">
-<!ENTITY showMore.accesskey "s">
 <!ENTITY showMore.tooltip "Mostrar más detalles">
 <!ENTITY showLess.label "Mostrar menos">
-<!ENTITY showLess.accesskey "o">
 <!ENTITY showLess.tooltip "Mostrar menos detalles">
 <!ENTITY search.filter.label "Mostrar:">
 <!ENTITY search.filter.installed.label "Sus complementos instalados">
