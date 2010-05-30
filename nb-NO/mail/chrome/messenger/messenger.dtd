@@ -8,7 +8,7 @@
 <!ENTITY closeTabCmd.label "Lukk fane">
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY closeOtherTabsCmd.label "Lukk andre faner">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
+<!ENTITY closeOtherTabsCmd.accesskey "u">
 <!ENTITY newVirtualFolderCmd.label "Lagret søk …">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newOtherAccountsCmd.label "Annen konto …">
