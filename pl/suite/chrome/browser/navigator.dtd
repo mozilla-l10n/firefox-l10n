@@ -133,7 +133,7 @@
 <!ENTITY backButton.label "Wstecz">
 <!ENTITY backButton.tooltip "Przejdź do poprzedniej strony">
 <!ENTITY forwardButton.label "Dalej">
-<!ENTITY forwardButton.tooltip "Przejdź do następnej strony (kliknij na strzałkę, aby uzyskać listę stron)">
+<!ENTITY forwardButton.tooltip "Przejdź do następnej strony (naciśnij strzałkę, aby zobaczyć listę stron)">
 <!ENTITY reloadButton.label "Odśwież">
 <!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę">
 <!ENTITY stopButton.label "Zatrzymaj">
