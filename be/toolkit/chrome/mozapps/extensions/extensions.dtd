@@ -63,10 +63,8 @@
 <!ENTITY sort.rating.label "Ацэнка">
 <!ENTITY sort.rating.tooltip "Размеркаваць па сярэдняй ацэнцы">
 <!ENTITY showMore.label "Паказваць больш">
-<!ENTITY showMore.accesskey "б">
 <!ENTITY showMore.tooltip "Паказваць падрабязнасці">
 <!ENTITY showLess.label "Паказваць менш">
-<!ENTITY showLess.accesskey "м">
 <!ENTITY showLess.tooltip "Без падрабязнасцяў">
 <!ENTITY search.filter.label "Паказваць:">
 <!ENTITY search.filter.installed.label "Вашы ўсталяваныя дадаткі">
