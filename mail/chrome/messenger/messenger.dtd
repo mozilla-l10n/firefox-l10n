@@ -206,7 +206,7 @@
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Meldingshoder">
-<!ENTITY headersMenu.accesskey "M">
+<!ENTITY headersMenu.accesskey "e">
 <!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normal">
@@ -404,13 +404,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Merk med stjerne">
-<!ENTITY markStarredCmd.accesskey "s">
+<!ENTITY markStarredCmd.accesskey "M">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Som uønsket">
-<!ENTITY markAsJunkCmd.accesskey "o">
+<!ENTITY markAsJunkCmd.accesskey "S">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Som ønsket">
-<!ENTITY markAsNotJunkCmd.accesskey "m">
+<!ENTITY markAsNotJunkCmd.accesskey "o">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Kjør kontroll av uønsket e-post">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
