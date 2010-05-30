@@ -1,7 +1,7 @@
 <!ENTITY window.title "Sortuj folder">
 
 <!ENTITY sortOptions.label "Opcje">
-<!ENTITY description.label "&brandShortName; umożliwia sortowanie zakładek oddzielnie dla każdego folderu. Korzystając z poniższych opcji można dopasować sposób sortowania zakładek w folderze.">
+<!ENTITY description.label "&brandShortName; umożliwia sortowanie zakładek oddzielnie dla każdego folderu. Korzystając z poniższych opcji, można dopasować sposób sortowania zakładek w folderze.">
 
 <!ENTITY sortBy.label "Sortuj według pola:">
 <!ENTITY sortBy.accesskey "S">
