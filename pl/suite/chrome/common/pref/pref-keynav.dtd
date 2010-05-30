@@ -7,7 +7,7 @@
 <!ENTITY tabNavigationTextboxes.label "Uwaga: pola tekstowe zawsze brane są pod uwagę.">
 <!ENTITY tabNavigationDesc.label "Naciskając przycisk Tab lub Shift+Tab zmieniaj aktywny element w obrębie:">
 <!ENTITY findAsYouTypeBehavior.label "Ustawienia wyszukiwania Znajdź wprowadzając">
-<!ENTITY findAsYouTypeTip.label "Wskazówka: Wyszukiwanie Znajdź wprowadzając można uruchomić ręcznie, wprowadzając znak / (wyszukiwanie dowolnego tekstu) lub ' (wyszukiwanie wyłącznie odnośników), a następnie tekst, który ma zostać odnaleziony.">
+<!ENTITY findAsYouTypeTip.label "Wskazówka: Wyszukiwanie Znajdź wprowadzając można uruchomić ręcznie, wciskając klawisz / lub ', a następnie wpisując tekst, który ma zostać odnaleziony. / rozpoczyna wyszukiwanie dowolnego tekstu, a ' wyłącznie odnośników.">
 <!ENTITY findAsYouTypeTimeout.label "Zakończ bieżące wyszukiwanie po kilku sekundach braku aktywności">
 <!ENTITY findAsYouTypeTimeout.accesskey "Z">
 <!ENTITY findAsYouTypeSound.label "Odtwórz dźwięk, gdy wprowadzony tekst nie zostanie odnaleziony">
