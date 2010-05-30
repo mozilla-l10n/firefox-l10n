@@ -6,7 +6,7 @@
 <!ENTITY quickFilterBar.unread.label "Непрочитанные">
 <!ENTITY quickFilterBar.unread.tooltip "Показывать только непрочитанные сообщения">
 <!ENTITY quickFilterBar.starred.label "Звёздочка">
-<!ENTITY quickFilterBar.starred.tooltip "Показывать только сообщения отмеченные звёздочкой">
+<!ENTITY quickFilterBar.starred.tooltip "Показывать только сообщения, отмеченные звёздочкой">
 <!ENTITY quickFilterBar.inaddrbook.label "Контакт">
 <!ENTITY quickFilterBar.inaddrbook.tooltip "Показывать только сообщения от людей в вашей адресной книге">
 <!ENTITY quickFilterBar.tags.label "Метки">
