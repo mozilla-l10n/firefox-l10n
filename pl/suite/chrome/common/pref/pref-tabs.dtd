@@ -14,7 +14,7 @@
 <!ENTITY openTabs.label "Otwieraj strony w nowej karcie zamiast w nowym oknie, jeżeli:">
 
 <!ENTITY newWindow.label "Otwieranie odnośników">
-<!ENTITY newWindowDescription.label "Otwieraj odnośniki chcące otworzyć nowe okna w:">
+<!ENTITY newWindowDescription.label "Otwieraj odnośniki otwierające nowe okna w:">
 <!ENTITY external.label "Odnośniki otwierane z innych aplikacji">
 <!ENTITY externalDescription.label "Otwieraj odnośniki z innych aplikacji w:">
 <!ENTITY openCurrent.label "ostatnio aktywnej karcie lub oknie">
