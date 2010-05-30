@@ -86,10 +86,8 @@
 
 
 <!ENTITY showMore.label                       "Tampilkan lebih lanjut">
-<!ENTITY showMore.accesskey                   "l">
 <!ENTITY showMore.tooltip                     "Tampilkan keterangan lebih lanjut">
 <!ENTITY showLess.label                       "Kecilkan">
-<!ENTITY showLess.accesskey                   "k">
 <!ENTITY showLess.tooltip                     "Sembunyikan keterangan">
 
 <!ENTITY search.filter.label                  "Tampilkan:">
