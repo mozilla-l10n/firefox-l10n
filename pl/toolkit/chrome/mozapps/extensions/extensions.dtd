@@ -81,10 +81,8 @@
 <!ENTITY sort.rating.tooltip                  "Sortuj według średniej ocen">
 
 <!ENTITY showMore.label                       "Więcej informacji">
-<!ENTITY showMore.accesskey                   "c">
 <!ENTITY showMore.tooltip                     "Wyświetl więcej szczegółów">
 <!ENTITY showLess.label                       "Mniej informacji">
-<!ENTITY showLess.accesskey                   "M">
 <!ENTITY showLess.tooltip                     "Wyświetl mniej szczegółów">
 
 <!ENTITY search.filter.label                  "Wyświetl:">
