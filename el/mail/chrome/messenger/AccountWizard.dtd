@@ -1,68 +1,64 @@
-<!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτόν το λογαριασμό (Για παράδειγμα, &quot;Λογαριασμός Εργασίας &quot;, &quot; Οικίας&quot; ή&quot;Ομάδων Συζήτησης">
-<!ENTITY accnameExample.label "Για παράδειγμα, Λογαριασμός Εργασίας, Οικίας ή Ομάδων Συζήτησης">
-<!ENTITY accnameLabel.accesskey "">
-<!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
-<!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
+<!ENTITY windowTitle.label "Οδηγός Λογαριασμού">
+<!ENTITY accountWizard.size "width: 55em; height: 37em;">
 <!ENTITY accountSetupInfo.label "Για να λαμβάνετε μηνύματα θα πρέπει πρώτα να ρυθμίσετε ένα λογαριασμό Αλληλογραφίας και συζητήσεων.">
+<!ENTITY accountTypeTitle.label "Εγκατάσταση νέου λογαριασμού">
 <!ENTITY accountTypeDesc.label "Ο Οδηγός θα συλλέξει τις απαραίτητες πληροφορίες για την εγκατάσταση ενός λογαριασμού αλληλογραφίας ή ομάδων συζήτησης. Αν δεν ξέρετε τις απαιτούμενες πληροφορίες επικοινωνήστε με το διαχειριστή του συστήματος σας ή με τον πάροχο σας. ">
 <!ENTITY accountTypeDirections.label "Επιλέξτε το είδος του λογαριασμού που θέλετε να εγκαταστήσετε:">
-<!ENTITY accountTypeMail.accesskey "ρ">
 <!ENTITY accountTypeMail.label "Λογαριασμός Email">
-<!ENTITY accountTypeNews.accesskey "">
+<!ENTITY accountTypeMail.accesskey "ρ">
 <!ENTITY accountTypeNews.label "Λογαριασμός συζητήσεων">
-<!ENTITY accountTypeTitle.label "Εγκατάσταση νέου λογαριασμού">
-<!ENTITY accountWizard.size "width: 52em; height: 37em;">
-<!ENTITY clickFinish.label "Πατήστε Τέλος για να αποθηκευτούν οι ρυθμίσεις και να εγκαταλείψετε τον Οδηγό Λογαριασμού.">
-<!ENTITY completionText.label "Βεβαιωθείτε ότι οι παρακάτω πληροφορίες είναι σωστές.">
-<!ENTITY completionTitle.label "Συγχαρητήρια!">
-<!ENTITY deferStorage.label "Χρήση  Γενικών Εισερχομένων (αποθήκευση αλληλογραφίας στους Τοπικούς Φακέλους)">
-<!ENTITY deferStorageDesc.label "Αποεπιλέξτε αυτό το κουτί για να αποθηκεύετε αλληλογραφία για αυτόν το λογαριασμό στο δικό του κατάλογο. Αυτό θα εμφανίζει αυτόν το λογαριασμό στο πρώτο επίπεδο. Σε άλλη περίπτωση, θα είναι μέρος των Τοπικών φακέλων του λογαριασμού Γενικών Εισερχομένων.">
-<!ENTITY downloadOnLogin.label "Λήψη μηνυμάτων τώρα">
-<!ENTITY emailDesc.label "εισάγετε τη διεύθυνση email σας. Αυτή τη διεύθυνση θα χρησιμοποιούν οι άλλοι  για να σας στέλνουν μηνύματα.">
-<!ENTITY emailExample.label "(για παράδειγμα: user@example.net).">
-<!ENTITY emailLabel.accesskey "">
-<!ENTITY emailLabel.label "Διεύθυνση Email:">
+<!ENTITY accountTypeNews.accesskey "ζ">
+<!ENTITY identityTitle.label "Ταυτότητα">
+<!ENTITY identityDesc.label "Ο κάθε λογαριασμός έχει τη δικιά του ταυτότητα, και περιέχει τις πληροφορίες που σας πιστοποιούν στους άλλους όταν λαμβάνουν τα μηνύματα σας.">
 <!ENTITY fullnameDesc.label "Εισάγετε το όνομα που θέλετε να εμφανίζεται στο πεδίο &quot;Από&quot; των εξερχομένων μηνυμάτων σας.">
 <!ENTITY fullnameExample.label "(για παράδειγμα, &quot;John Smith&quot;).">
-<!ENTITY fullnameLabel.accesskey "">
 <!ENTITY fullnameLabel.label "Το όνομα σας">
-<!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;,  θα χρησιμοποιηθεί. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων μέσω του μενού Επεξεργασία > Ρυθμίσεις αλληλογραφίας και συζητήσεων.">
-<!ENTITY haveSmtp2.prefix "Το όνομα χρήστη στο διακομιστή εξερχομένων (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "Θα χρησιμοποιηθεί ο &quot;,  Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων μέσω της επιλογής Ρυθμίσεις Αλληλογραφίας-Συζητήσεων στο μενού Επεξεργασία.">
-<!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων μέσω της επιλογής Ρυθμίσεις Αλληλογραφίας-Συζητήσεων στο μενού Εργαλεία.">
-<!ENTITY identityDesc.label "Ο κάθε λογαριασμός έχει τη δικιά του ταυτότητα, και περιέχει τις πληροφορίες που σας πιστοποιούν στους άλλους όταν λαμβάνουν τα μηνύματα σας.">
-<!ENTITY identityTitle.label "Ταυτότητα">
-<!ENTITY imapType.accesskey "">
-<!ENTITY imapType.label "IMAP">
-<!ENTITY incomingServerLabel.accesskey "">
-<!ENTITY incomingServerLabel.label "Όνομα διακομιστή εισερχομένων:">
-<!ENTITY incomingServerNameDesc.label "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
-<!ENTITY incomingServerTitle.label "Διακομιστής εισερχομένων">
-<!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
-<!ENTITY incomingServerTypeLabel.label "Τύπος διακομιστή:">
-<!ENTITY loginTitle.label "Ονόματα Χρήστη">
-<!ENTITY newsServerLabel.accesskey "">
-<!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
-<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.mac.gr&quot;). ">
-<!ENTITY newsServerNamePrefix.label "Όνομα εξυπηρετητή ομάδων συζήτησης (NNTP}:">
-<!ENTITY nntpType.label "Εξυπηρετητής ομάδων συζήτησης">
-<!ENTITY popType.accesskey "">
-<!ENTITY popType.label "POP">
-<!ENTITY serverNamePrefix.label "Όνομα διακομιστή εισερχομένων:">
+<!ENTITY fullnameLabel.accesskey "τ">
+<!ENTITY emailLabel.label "Διεύθυνση Email:">
+<!ENTITY emailLabel.accesskey "θ">
 <!ENTITY serverTitle.label "Πληροφορίες διακομιστή">
-<!ENTITY serverTypePrefix.label "Τύπος διακομιστή  εισερχομένων:">
+<!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
+<!ENTITY incomingServerNameDesc.label "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
+<!ENTITY incomingServerLabel.label "Όνομα διακομιστή εισερχομένων:">
+<!ENTITY incomingServerLabel.accesskey "δ">
+<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.mac.gr&quot;). ">
 <!ENTITY smtpServerDesc.label "Εισάγετε το όνομα του διακομιστή εξερχομένων (SMTP) (για παράδειγμα , &quot;smtp.helmug.gr&quot;). ">
-<!ENTITY smtpServerLabel.accesskey "">
 <!ENTITY smtpServerLabel.label "Όνομα διακομιστή εξερχομένων:">
-<!ENTITY smtpServerNamePrefix.label "Διακομιστής εξερχομένων (SMTP):">
-<!ENTITY smtpServerTitle.label "Διακομιστής εξερχομένων  (SMTP)">
-<!ENTITY usernameDesc.label "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον παροχέα email">
+<!ENTITY smtpServerLabel.accesskey "ξ">
+<!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
+<!ENTITY newsServerLabel.accesskey "σ">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;,  θα χρησιμοποιηθεί. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού.">
+<!ENTITY loginTitle.label "Ονόματα Χρήστη">
+<!ENTITY usernameDesc.label "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον πάροχο email">
 <!ENTITY usernameExample.label "(για παράδειγμα, &quot;ptuxidis&quot;).">
-<!ENTITY usernameLabel.accesskey "μ">
 <!ENTITY usernameLabel.label "Όνομα χρήστη εισερχομένων:">
+<!ENTITY usernameLabel.accesskey "μ">
 <!ENTITY usernameSmtpDesc.label "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον παροχέα email (αυτό συνήθως είναι ίδιο με το όνομα χρήστη εισερχομένων).">
-<!ENTITY usernameSmtpLabel.accesskey "ν">
 <!ENTITY usernameSmtpLabel.label "Όνομα χρήστη εξερχομένων:">
-<!ENTITY windowTitle.label "Οδηγός Λογαριασμού">
+<!ENTITY usernameSmtpLabel.accesskey "ν">
+<!ENTITY haveSmtp2.prefix "Το όνομα χρήστη στο διακομιστή εξερχομένων (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix2 "Θα χρησιμοποιηθεί ο &quot;,  Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού">
+<!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix2 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού.">
+<!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
+<!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτόν το λογαριασμό (Για παράδειγμα, &quot;Λογαριασμός Εργασίας &quot;, &quot; Οικίας&quot; ή&quot;Ομάδων Συζήτησης">
+<!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
+<!ENTITY accnameLabel.accesskey "μ">
+<!ENTITY completionTitle.label "Συγχαρητήρια!">
+<!ENTITY completionText.label "Βεβαιωθείτε ότι οι παρακάτω πληροφορίες είναι σωστές.">
+<!ENTITY serverTypePrefix.label "Τύπος διακομιστή  εισερχομένων:">
+<!ENTITY serverNamePrefix.label "Όνομα διακομιστή εισερχομένων:">
+<!ENTITY smtpServerNamePrefix.label "Διακομιστής εξερχομένων (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Όνομα εξυπηρετητή ομάδων συζήτησης (NNTP}:">
+<!ENTITY downloadOnLogin.label "Λήψη μηνυμάτων τώρα">
+<!ENTITY downloadOnLogin.accesskey "ψ">
+<!ENTITY deferStorageDesc.label "Αποεπιλέξτε αυτό το κουτί για να αποθηκεύετε αλληλογραφία για αυτόν το λογαριασμό στο δικό του κατάλογο. Αυτό θα εμφανίζει αυτόν το λογαριασμό στο πρώτο επίπεδο. Σε άλλη περίπτωση, θα είναι μέρος των Τοπικών φακέλων του λογαριασμού Γενικών Εισερχομένων.">
+<!ENTITY deferStorage.label "Χρήση  Γενικών Εισερχομένων (αποθήκευση αλληλογραφίας στους Τοπικούς Φακέλους)">
+<!ENTITY deferStorage.accesskey "Γ">
+<!ENTITY clickFinish.label "Πατήστε Τέλος για να αποθηκευτούν οι ρυθμίσεις και να εγκαταλείψετε τον Οδηγό Λογαριασμού.">
+<!ENTITY clickFinish.labelMac "Πατήστε Ολοκλήρωση για να αποθηκεύσετε αυτές τις ρυθμίσεις και να κλείσετε τον οδηγό.">

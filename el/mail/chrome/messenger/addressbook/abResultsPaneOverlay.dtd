@@ -1,42 +1,68 @@
-<!ENTITY CellularNumber.accesskey "κ">
-<!ENTITY CellularNumber.label "Κινητό">
-<!ENTITY Company.accesskey "γ">
-<!ENTITY Company.label "Οργανισμός">
-<!ENTITY Department.accesskey "μ">
-<!ENTITY Department.label "Τμήμα">
-<!ENTITY FaxNumber.accesskey "Φ">
-<!ENTITY FaxNumber.label "Φαξ">
-<!ENTITY GeneratedName.accesskey "ν">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla addressbook.
+   -
+   - The Initial Developer of the Original Code is
+   - Seth Spitzer <sspitzer@netscape.com>.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
 <!ENTITY GeneratedName.label "Όνομα">
-<!ENTITY HomePhone.accesskey "φ">
-<!ENTITY HomePhone.label "Τηλέφωνο Οικίας">
-<!ENTITY JobTitle.accesskey "Τ">
-<!ENTITY JobTitle.label "Τίτλος">
-<!ENTITY NickName.accesskey "δ">
-<!ENTITY NickName.label "Ψευδώνυμο">
-<!ENTITY PagerNumber.accesskey "β">
-<!ENTITY PagerNumber.label "Βομβητής">
-<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY GeneratedName.accesskey "ν">
 <!ENTITY PrimaryEmail.label "Email">
-<!ENTITY ScreenName.accesskey "S">
-<!ENTITY ScreenName.label "Screen Name">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY SecondEmail.label "Επιπρόσθετο  Email">
-<!ENTITY WorkPhone.accesskey "γ">
-<!ENTITY WorkPhone.label "Τηλέφωνο Εργασίας">
-<!ENTITY _PhoneticName.accesskey "ω">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY Company.label "Οργανισμός">
+<!ENTITY Company.accesskey "γ">
 <!ENTITY _PhoneticName.label "Φωνητικό όνομα">
-<!ENTITY addrBookCardProperties.accesskey "δ">
-<!ENTITY addrBookCardProperties.label "Ιδιότητες">
-<!ENTITY composeEmail.accesskey "ξ">
-<!ENTITY composeEmail.label "Σύνταξη μηνύματος σε:">
-<!ENTITY deleteAddrBookCard.accesskey "Δ">
-<!ENTITY deleteAddrBookCard.label "Διαγραφή">
-<!ENTITY newAddrBookCard.accesskey "Ν">
-<!ENTITY newAddrBookCard.label "Νέα καρτέλα...">
-<!ENTITY newAddrBookMailingList.accesskey "λ">
-<!ENTITY newAddrBookMailingList.label "Νέα λίστα αλληλογραφίας...">
-<!ENTITY sortAscending.accesskey "ξ">
+<!ENTITY _PhoneticName.accesskey "ω">
+<!ENTITY NickName.label "Ψευδώνυμο">
+<!ENTITY NickName.accesskey "δ">
+<!ENTITY SecondEmail.label "Επιπρόσθετο  Email">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY Department.label "Τμήμα">
+<!ENTITY Department.accesskey "μ">
+<!ENTITY JobTitle.label "Τίτλος">
+<!ENTITY JobTitle.accesskey "Τ">
+<!ENTITY CellularNumber.label "Κινητό">
+<!ENTITY CellularNumber.accesskey "Κ">
+<!ENTITY PagerNumber.label "Βομβητής">
+<!ENTITY PagerNumber.accesskey "Β">
+<!ENTITY FaxNumber.label "Φαξ">
+<!ENTITY FaxNumber.accesskey "Φ">
+<!ENTITY HomePhone.label "Τηλέφωνο Οικίας">
+<!ENTITY HomePhone.accesskey "φ">
+<!ENTITY WorkPhone.label "Τηλέφωνο Εργασίας">
+<!ENTITY WorkPhone.accesskey "γ">
+<!ENTITY ScreenName.label "Screen Name">
+<!ENTITY ScreenName.accesskey "S">
 <!ENTITY sortAscending.label "Σε αύξουσα σειρά">
-<!ENTITY sortDescending.accesskey "φ">
+<!ENTITY sortAscending.accesskey "ξ">
 <!ENTITY sortDescending.label "Σε φθίνουσα σειρά">
+<!ENTITY sortDescending.accesskey "φ">

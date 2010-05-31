@@ -1,14 +1,20 @@
 <!ENTITY restorepage.tabtitle       "Επαναφορά συνεδρίας">
-<!ENTITY restorepage.pagetitle      "Θέλετε να επαναφέρετε τη συνεδρία σας;">
+
+<!ENTITY restorepage.errorTitle     "Φαίνεται ότι κάτι δεν πάει καλά.">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Η προηγούμενη συνεδρία του &brandShortName; τερματίστηκε απρόσμενα. Ζητούμε συγγνώμη για την ταλαιπωρία. 
-Μπορείτε να επαναφέρετε τις καρτέλες και τα παράθυρα της προηγούμενης συνεδρίας σας, ή να ξεκινήσετε μια νέα συνεδρία αν πλέον δεν τα χρειάζεστε.">
-<!ENTITY restorepage.remedies       "Αν ο &brandShortName; κολλάει συνεχώς:">
-<!ENTITY restorepage.dueToChrome    "Προσπαθήστε να απενεργοποιήσετε όσες επεκτάσεις εγκαταστήσατε πρόσφατα μέσω της διαχείρισης προσθέτων.">
-<!ENTITY restorepage.dueToContent   "Προσπαθήστε να επαναφέρετε τη συνεδρία σας χωρίς τις σελίδες που υποπτεύεστε ότι δημιουργούν το πρόβλημα:">
 
-<!ENTITY restorepage.restoreButton  "Επαναφορά συνεδρίας">
+<!ENTITY restorepage.problemDesc    "Ο &brandShortName; δεν μπορεί να ανακτήσει τα παράθυρα και τις καρτέλες σας. Αυτό συνήθως συμβαίνει λόγω του ανοίγματος μιας πρόσφατης σελίδας.">
+
+
+<!ENTITY restorepage.tryThis        "Προσπαθήστε να:">
+<!ENTITY restorepage.restoreSome    "Απομακρύνετε μια ή περισσότερες καρτέλες που νομίζετε ότι δημιουργούν το πρόβλημα">
+<!ENTITY restorepage.startNew       "Ξεκινήστε μια νέα συνεδρία">
+
+
+
+<!ENTITY restorepage.tryagainButton "Επαναφορά">
+
 <!ENTITY restorepage.restore.access "ρ">
 <!ENTITY restorepage.cancelButton   "Έναρξη νέας συνεδρίας">
 <!ENTITY restorepage.cancel.access  "σ">

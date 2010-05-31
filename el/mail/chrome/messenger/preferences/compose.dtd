@@ -1,52 +1,50 @@
-<!ENTITY addressingEnable.accesskey "ο">
-<!ENTITY addressingEnable.label "Τοπικά ευρετήρια διευθύνσεων">
-<!ENTITY addressingTitle.label "Αυτόματη συμπλήρωση ευρετηρίου">
-<!ENTITY asAttachment.accesskey "σ">
-<!ENTITY asAttachment.label "Ως συνημμένο:">
-<!ENTITY autoSave.accesskey "υ">
-<!ENTITY autoSave.label "Αυτόματη αποθήκευση κάθε">
-<!ENTITY autoSaveEnd.accesskey "λ">
-<!ENTITY autoSaveEnd.label "λεπτά">
-<!ENTITY autocompleteText.label "Κατά τη διευθυνσιοδότηση μηνυμάτων, να γίνεται έρευνα για σχετικές διευθύνσεις σε:">
-<!ENTITY char.label "χαρακτήρες">
-<!ENTITY directories.accesskey "κ">
-<!ENTITY directories.label "Εξυπηρετητής καταλόγου:">
-<!ENTITY downloadDictionaries.label "Λήψη περισσότερων λεξικών">
-<!ENTITY editDirectories.accesskey "Ε">
-<!ENTITY editDirectories.label "Επεξεργασία καταλόγων...">
-<!ENTITY emailCollectionPicker.accesskey "τ">
-<!ENTITY emailCollectionPicker.label "Αυτόματη προσθήκη των εξερχομένων διευθύνσεων e-mail στο:">
-<!ENTITY forwardMsg.accesskey "θ">
-<!ENTITY forwardMsg.label "Προώθηση μηνυμάτων:">
-<!ENTITY forwardReply.label "Προώθηση μηνυμάτων">
-<!ENTITY htmlCompose.accesskey "H">
-<!ENTITY htmlCompose.label "Επιλογές HTML...">
-<!ENTITY htmlComposeDescription.label "Ρύθμιση προεπιλογών HTML">
-<!ENTITY inline.accesskey "μ">
-<!ENTITY inline.label "στο μήνυμα">
-<!ENTITY itemAutoComplete.label "Διευθυνσιοδότηση">
 <!ENTITY itemGeneral.label "Γενικά">
-<!ENTITY itemSendFormat.label "Μορφή αποστολής">
+<!ENTITY itemAutoComplete.label "Διευθυνσιοδότηση">
 <!ENTITY itemSpellCheck.label "Ορθογραφικός έλεγχος">
-<!ENTITY languagePopup.accessKey "λ">
-<!ENTITY languagePopup.label "Γλώσσα:">
-<!ENTITY matchText.label "Αν υπάρχει ταίριασμα στα τοπικά ευρετήρια διευθύνσεων:">
-<!ENTITY returnReceiptsInfo.label "Τρόπος χειρισμού των βεβαιώσεων ανάγνωσης από τον &brandShortName;">
-<!ENTITY sendOptions.accesskey "σ">
-<!ENTITY sendOptions.label "Επιλογές αποστολής...">
-<!ENTITY sendOptionsCaption.label "Επιλογές αποστολής και HTML">
-<!ENTITY sendOptionsDescription.label "Ρύθμιση συμπεριφοράς μορφής κειμένου">
-<!ENTITY sendingMessagesHeader.label "Σύνταξη μηνυμάτων">
-<!ENTITY showReturnReceipts.accesskey "Β">
-<!ENTITY showReturnReceipts.label "Βεβαιώσεις ανάγνωσης...">
-<!ENTITY skipDirectory.label "Να μη γίνει έρευνα στον κατάλογο">
-<!ENTITY spellCheck.accesskey "θ">
+<!ENTITY forwardMsg.label "Προώθηση μηνυμάτων:">
+<!ENTITY forwardMsg.accesskey "θ">
+<!ENTITY inline.label "στο μήνυμα">
+<!ENTITY asAttachment.label "Ως συνημμένο:">
+<!ENTITY addExtension.label "προσθήκη επέκτασης στο όνομα αρχείου">
+<!ENTITY addExtension.accesskey "χ">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Γραμματοσειρά:">
+<!ENTITY font.accesskey "ρ">
+<!ENTITY size.label "Μέγεθος:">
+<!ENTITY size.accesskey "θ">
+<!ENTITY fontColor.label "Χρώμα κειμένου:">
+<!ENTITY fontColor.accesskey "Χ">
+<!ENTITY bgColor.label "Χρώμα παρασκηνίου:">
+<!ENTITY bgColor.accesskey "ρ">
+<!ENTITY restoreHTMLDefaults.label "Επαναφορά προεπιλογών">
+<!ENTITY restoreHTMLDefaults.accesskey "φ">
 <!ENTITY spellCheck.label "Ορθογραφικός έλεγχος πριν την αποστολή">
-<!ENTITY spellCheckInline.accesskey "τ">
+<!ENTITY spellCheck.accesskey "θ">
 <!ENTITY spellCheckInline.label "Αυτόματος ορθογραφικός έλεγχος">
-<!ENTITY useMIME.accesskey "o">
-<!ENTITY useMIME.label "Για μηνύματα που περιέχουν χαρακτήρες 8-bit , να γίνεται χρήση της κωδικοποίησης MIME 'quoted printable' ">
-<!ENTITY warnOnSendAccelKey.accesskey "β">
+<!ENTITY spellCheckInline1.accesskey "υ">
+<!ENTITY languagePopup.label "Γλώσσα:">
+<!ENTITY languagePopup.accessKey "λ">
+<!ENTITY downloadDictionaries.label "Λήψη περισσότερων λεξικών">
 <!ENTITY warnOnSendAccelKey.label "Ερώτηση επιβεβαίωσης όταν γίνεται χρήση της συντόμευσης πληκτρολογίου για την αποστολή μηνυμάτων">
-<!ENTITY wrapOutMsg.accesskey "δ">
-<!ENTITY wrapOutMsg.label "Αναδίπλωση μηνυμάτων απλού κειμένου σε">
+<!ENTITY warnOnSendAccelKey.accesskey "β">
+<!ENTITY autoSave.label "Αυτόματη αποθήκευση κάθε">
+<!ENTITY autoSave.accesskey "υ">
+<!ENTITY autoSaveEnd.label "λεπτά">
+<!ENTITY emailCollectionPicker.label "Αυτόματη προσθήκη των εξερχομένων διευθύνσεων e-mail στο:">
+<!ENTITY emailCollectionPicker.accesskey "τ">
+<!ENTITY addressingTitle.label "Αυτόματη συμπλήρωση ευρετηρίου">
+<!ENTITY autocompleteText.label "Κατά τη διευθυνσιοδότηση μηνυμάτων, να γίνεται έρευνα για σχετικές διευθύνσεις σε:">
+<!ENTITY addressingEnable.label "Τοπικά ευρετήρια διευθύνσεων">
+<!ENTITY addressingEnable.accesskey "ο">
+<!ENTITY directories.label "Εξυπηρετητής καταλόγου:">
+<!ENTITY directories.accesskey "κ">
+<!ENTITY directoriesNone.label "Κανένας">
+<!ENTITY editDirectories.label "Επεξεργασία καταλόγων...">
+<!ENTITY editDirectories.accesskey "Ε">
+<!ENTITY sendOptionsDescription.label "Ρύθμιση συμπεριφοράς μορφής κειμένου">
+<!ENTITY sendOptions.label "Επιλογές αποστολής...">
+<!ENTITY sendOptions.accesskey "σ">
+<!ENTITY attachmentReminder.label "Έλεγχος για ξεχασμένα συνημμένα">
+<!ENTITY attachmentReminder.accesskey "γ">
+<!ENTITY attachmentReminderOptions.label "Λέξεις-κλειδιά…">
+<!ENTITY attachmentReminderOptions.accesskey "κ">

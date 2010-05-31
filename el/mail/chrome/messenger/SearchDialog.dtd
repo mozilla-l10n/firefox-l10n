@@ -1,68 +1,67 @@
-<!ENTITY abSearchDialogTitle.label "Προχωρημένη έρευνα Ευρετηρίου διευθύνσεων">
-<!ENTITY abSearchHeading.accesskey "ν">
-<!ENTITY abSearchHeading.label "Αναζήτηση σε:">
-<!ENTITY accountColumn.label "Λογαριασμός">
-<!ENTITY accountColumn.tooltip "Πατήστε για ταξινόμηση κατά λογαριασμό">
-<!ENTITY closeButton.label "Κλείσιμο">
-<!ENTITY closeCmd.key "W">
-<!ENTITY columnChooser.tooltip "Πατήστε για να επιλέξετε τις στήλες για εμφάνιση">
-<!ENTITY composeButton.accesskey "Σ">
-<!ENTITY composeButton.label "Σύνταξη">
-<!ENTITY conditionDesc.label "Αναζήτηση στα μηνύματα που:">
-<!ENTITY conditions.label "Κριτήρια">
-<!ENTITY dateColumn.label "Ημερομηνία">
-<!ENTITY dateColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία">
-<!ENTITY deleteButton.accesskey "Δ">
-<!ENTITY deleteButton.label "Διαγραφή">
-<!ENTITY fileButton.accesskey "ο">
-<!ENTITY fileButton.label "Αρχειοθέτηση">
-<!ENTITY fileHereMenu.accesskey "σ">
-<!ENTITY fileHereMenu.label "Αποθήκευση εδώ">
-<!ENTITY flagColumn.label "Σημαία">
-<!ENTITY flagColumn.tooltip "Πατήστε για ταξινόμηση κατά σημαία">
-<!ENTITY goToFolderButton.accesskey "λ">
-<!ENTITY goToFolderButton.label "Άνοιγμα φακέλου μηνυμάτων">
-<!ENTITY idColumn.label "Σειρά παραλαβής">
-<!ENTITY idColumn.tooltip "Πατήστε για ταξινόμηση κατά σειρά παραλαβής">
-<!ENTITY junkStatusColumn.label "Κατάσταση σκουπιδιών">
-<!ENTITY junkStatusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
-<!ENTITY labelColumn.label "Ετικέτα">
-<!ENTITY labelColumn.tooltip "Πατήστε για ταξινόμηση κατά ετικέτα">
-<!ENTITY linesColumn.label "Γραμμές">
-<!ENTITY locationColumn.label "Τοποθεσία">
-<!ENTITY locationColumn.tooltip "Πατήστε για ταξινόμηση κατά τοποθεσία">
-<!ENTITY openButton.accesskey "γ">
-<!ENTITY openButton.label "Άνοιγμα">
-<!ENTITY optionsButton.label "Επιλογές">
-<!ENTITY priorityColumn.label "Προτεραιότητα">
-<!ENTITY priorityColumn.tooltip "Πατήστε για ταξινόμηση κατά προτεραιότητα">
-<!ENTITY propertiesButton.accesskey "δ">
-<!ENTITY propertiesButton.label "Ιδιότητες">
-<!ENTITY readColumn.label "Αναγνωσμένα">
-<!ENTITY readColumn.tooltip "Πατήστε για ταξινόμηση κατά αναγνωσμένα">
-<!ENTITY recipientColumn.label "Παραλήπτης">
-<!ENTITY recipientColumn.tooltip "Πατήστε για ταξινόμηση κατά παραλήπτη">
-<!ENTITY resetButton.accesskey "">
-<!ENTITY resetButton.label "Εκκαθάριση">
-<!ENTITY results.label "Αποτελέσματα">
-<!ENTITY saveAsVFButton.accesskey "ζ">
-<!ENTITY saveAsVFButton.label "Αποθήκευση ως φάκελος αναζήτησης">
-<!ENTITY searchDialogTitle.label "Αναζήτηση Μηνυμάτων">
-<!ENTITY searchHeading.accesskey "">
 <!ENTITY searchHeading.label "Αναζήτηση σε:">
-<!ENTITY searchSubfolders.accesskey "ν">
+<!ENTITY searchHeading.accesskey "ζ">
 <!ENTITY searchSubfolders.label "Αναζήτηση σε υποφακέλους">
-<!ENTITY senderColumn.label "Αποστολέας">
-<!ENTITY senderColumn.tooltip "Πατήστε για ταξινόμηση κατά αποστολέα">
-<!ENTITY sizeColumn.label "Μέγεθος">
-<!ENTITY sizeColumn.tooltip "Πατήστε για ταξινόμηση κατά μέγεθος">
-<!ENTITY statusColumn.label "Κατάσταση">
-<!ENTITY statusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
-<!ENTITY subjectColumn.label "Θέμα">
-<!ENTITY subjectColumn.tooltip "Πατήστε για ταξινόμηση κατά θέμα">
+<!ENTITY searchSubfolders.accesskey "ν">
+<!ENTITY searchOnServer.label "Εκτέλεση αναζήτησης στο διακομιστή">
+<!ENTITY searchOnServer.accesskey "κ">
+<!ENTITY resetButton.label "Εκκαθάριση">
+<!ENTITY resetButton.accesskey "θ">
+<!ENTITY openButton.label "Άνοιγμα">
+<!ENTITY openButton.accesskey "γ">
+<!ENTITY deleteButton.label "Διαγραφή">
+<!ENTITY deleteButton.accesskey "Δ">
+<!ENTITY searchDialogTitle.label "Αναζήτηση Μηνυμάτων">
+<!ENTITY results.label "Αποτελέσματα">
+<!ENTITY fileHereMenu.label "Αποθήκευση εδώ">
+<!ENTITY fileHereMenu.accesskey "σ">
+<!ENTITY fileButton.label "Αρχειοθέτηση">
+<!ENTITY fileButton.accesskey "χ">
+<!ENTITY closeCmd.key "W">
+<!ENTITY openInFolder.label "Άνοιγμα σε φάκελο">
+<!ENTITY openInFolder.accesskey "φ">
+<!ENTITY saveAsVFButton.label "Αποθήκευση ως φάκελος αναζήτησης">
+<!ENTITY saveAsVFButton.accesskey "φ">
+<!ENTITY abSearchHeading.label "Αναζήτηση σε:">
+<!ENTITY abSearchHeading.accesskey "ν">
+<!ENTITY propertiesButton.label "Ιδιότητες">
+<!ENTITY propertiesButton.accesskey "δ">
+<!ENTITY composeButton.label "Σύνταξη">
+<!ENTITY composeButton.accesskey "Σ">
+<!ENTITY abSearchDialogTitle.label "Προχωρημένη έρευνα Ευρετηρίου διευθύνσεων">
 <!ENTITY threadColumn.label "Αλληλουχία">
-<!ENTITY threadColumn.tooltip "Πατήστε για την εμφάνιση αλληλουχιών μηνυμάτων">
-<!ENTITY totalColumn.label "Σύνολο">
-<!ENTITY totalColumn.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
+<!ENTITY fromColumn.label "Από">
+<!ENTITY recipientColumn.label "Παραλήπτης">
+<!ENTITY subjectColumn.label "Θέμα">
+<!ENTITY dateColumn.label "Ημερομηνία">
+<!ENTITY priorityColumn.label "Προτεραιότητα">
+<!ENTITY tagsColumn.label "Ετικέτες">
+<!ENTITY accountColumn.label "Λογαριασμός">
+<!ENTITY statusColumn.label "Κατάσταση">
+<!ENTITY sizeColumn.label "Μέγεθος">
+<!ENTITY junkStatusColumn.label "Κατάσταση ανεπιθυμήτων">
 <!ENTITY unreadColumn.label "Μη αναγνωσμένα">
+<!ENTITY totalColumn.label "Σύνολο">
+<!ENTITY readColumn.label "Αναγνωσμένα">
+<!ENTITY receivedColumn.label "Ληφθέντα">
+<!ENTITY starredColumn.label "Με αστέρι">
+<!ENTITY locationColumn.label "Τοποθεσία">
+<!ENTITY idColumn.label "Σειρά παραλαβής">
+<!ENTITY columnChooser.tooltip "Πατήστε για να επιλέξετε τις στήλες για εμφάνιση">
+<!ENTITY threadColumn.tooltip "Πατήστε για την εμφάνιση αλληλουχιών μηνυμάτων">
+<!ENTITY fromColumn.tooltip "Πατήστε για ταξινόμηση κατά αποστολέα">
+<!ENTITY recipientColumn.tooltip "Πατήστε για ταξινόμηση κατά παραλήπτη">
+<!ENTITY subjectColumn.tooltip "Πατήστε για ταξινόμηση κατά θέμα">
+<!ENTITY dateColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία">
+<!ENTITY priorityColumn.tooltip "Πατήστε για ταξινόμηση κατά προτεραιότητα">
+<!ENTITY tagsColumn.tooltip "Πατήστε για ταξινόμηση κατά ετικέτα">
+<!ENTITY accountColumn.tooltip "Πατήστε για ταξινόμηση κατά λογαριασμό">
+<!ENTITY statusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
+<!ENTITY sizeColumn.tooltip "Πατήστε για ταξινόμηση κατά μέγεθος">
+<!ENTITY junkStatusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
 <!ENTITY unreadColumn.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στην αλληλουχία">
+<!ENTITY totalColumn.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
+<!ENTITY readColumn.tooltip "Πατήστε για ταξινόμηση κατά αναγνωσμένα">
+<!ENTITY receivedColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία λήψης">
+<!ENTITY starredColumn.tooltip "Πατήστε για ταξινόμηση κατά αστέρι">
+<!ENTITY locationColumn.tooltip "Πατήστε για ταξινόμηση κατά τοποθεσία">
+<!ENTITY idColumn.tooltip "Πατήστε για ταξινόμηση κατά σειρά παραλαβής">

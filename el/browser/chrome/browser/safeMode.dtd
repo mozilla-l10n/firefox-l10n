@@ -47,9 +47,6 @@
 <!ENTITY resetToolbars.label          "Επαναφορά εργαλειοθηκών και ελέγχων">
 <!ENTITY resetToolbars.accesskey      "φ">
 
-<!ENTITY resetBookmarks.label         "Επαναφορά σελιδοδεικτών στις προεπιλογές του &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "ν">
-
 <!ENTITY resetUserPrefs.label         "Επαναφορά όλων των προτιμήσεων χρήστη στις προεπιλογές του &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "ν">
 
@@ -61,3 +58,7 @@
 
 <!ENTITY restoreSearch.label          "Επαναφορά προεπιλεγμένων μηχανών αναζήτησης">
 <!ENTITY restoreSearch.accesskey      "Ε">
+
+<!ENTITY deleteBookmarks.label        "Διαγραφή όλων των σελιδοδεικτών εκτός από τα αντίγραφα ασφαλείας">
+<!ENTITY deleteBookmarks.accesskey    "λ">
+

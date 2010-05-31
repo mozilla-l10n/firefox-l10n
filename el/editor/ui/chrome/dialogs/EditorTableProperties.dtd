@@ -1,75 +1,105 @@
-<!ENTITY AlignCenter.label "Μέσο">
-<!ENTITY AlignLeft.label "Αριστερά">
-<!ENTITY AlignRight.label "Δεξιά">
-<!ENTITY applyButton.label                "Εφαρμογή">
-<!ENTITY applyButton.accesskey            "φ">
-<!ENTITY closeButton.label                "Κλείσιμο">
-<!ENTITY applyBeforeChange1.label "Οι τρέχουσες αλλαγές θα εφαρμοστούν">
-<!ENTITY applyBeforeChange2.label "πριν την αλλαγή της επιλογής.">
-<!ENTITY backgroundColor.accessKey "">
-<!ENTITY backgroundColor.label "Χρώμα Φόντου:">
-<!ENTITY cellAlignAtChar.label "σε χαρακτήρα:">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY tableWindow.title "Ιδιότητες Πίνακα">
+<!ENTITY applyButton.label "Εφαρμογή">
+<!ENTITY applyButton.accesskey "φ">
+<!ENTITY closeButton.label "Κλείσιμο">
+<!ENTITY tableTab.label "Πίνακας">
+<!ENTITY cellTab.label "Κελιά">
+<!ENTITY tableRows.label "Σειρές:">
+<!ENTITY tableRows.accessKey "ρ">
+<!ENTITY tableColumns.label "Στήλες:">
+<!ENTITY tableColumns.accessKey "τ">
+<!ENTITY tableHeight.label "Ύψος:">
+<!ENTITY tableHeight.accessKey "ψ">
+<!ENTITY tableWidth.label "Πλάτος:">
+<!ENTITY tableWidth.accessKey "Π">
+<!ENTITY tableBorderSpacing.label "Πλαίσια και διάστιχο">
+<!ENTITY tableBorderWidth.label "Πλαίσιο:">
+<!ENTITY tableBorderWidth.accessKey "σ">
+<!ENTITY tableSpacing.label "Διάστιχο:">
+<!ENTITY tableSpacing.accessKey "χ">
+<!ENTITY tablePadding.label "Γέμισμα:">
+<!ENTITY tablePadding.accessKey "Γ">
+<!ENTITY tablePxBetwCells.label "εικονοστοιχεία μεταξύ κελιών">
+<!ENTITY tablePxBetwBrdrCellContent.label "εικονοστοιχεία μεταξύ  πλαισίου κελιών και περιεχομένου">
+<!ENTITY tableAlignment.label "Στοίχιση Πίνακα">
+<!ENTITY tableAlignment.accessKey "ο">
+<!ENTITY tableCaption.label "Λεζάντα:">
+<!ENTITY tableCaption.accessKey "ζ">
+<!ENTITY tableCaptionAbove.label "Πάνω από τον πίνακα">
+<!ENTITY tableCaptionBelow.label "Κάτω από τον πίνακα">
+<!ENTITY tableCaptionLeft.label "Αριστερά του πίνακα">
+<!ENTITY tableCaptionRight.label "Δεξιά του πίνακα">
+<!ENTITY tableCaptionNone.label "Κανένα">
+<!ENTITY tableInheritColor.label "(Εμφάνιση χρώματος σελίδας)">
+<!ENTITY cellSelection.label "Επιλογή">
+<!ENTITY cellSelectCell.label "Κελί">
+<!ENTITY cellSelectRow.label "Γραμμή">
+<!ENTITY cellSelectColumn.label "Στήλη">
+<!ENTITY cellSelectNext.label "Επόμενο">
+<!ENTITY cellSelectNext.accessKey "ν">
+<!ENTITY cellSelectPrevious.label "Προηγούμενο">
+<!ENTITY cellSelectPrevious.accessKey "π">
+<!ENTITY applyBeforeChange.label "Οι τρέχουσες αλλαγές θα εφαρμοσθούν πριν να γίνει αλλαγή στην επιλογή.">
+<!ENTITY cellContentAlignment.label "Στοίχιση περιεχομένου">
+<!ENTITY cellHorizontal.label "Οριζόντια:">
+<!ENTITY cellHorizontal.accessKey "ζ">
+<!ENTITY cellVertical.label "Κάθετη:">
+<!ENTITY cellVertical.accessKey "θ">
+<!ENTITY cellStyle.label "Διαμόρφωση Κελιού:">
+<!ENTITY cellStyle.accessKey "φ">
+<!ENTITY cellNormal.label "Κανονικό">
+<!ENTITY cellHeader.label "Κεφαλίδα">
+<!ENTITY cellTextWrap.label "Αναδίπλωση κειμένου">
+<!ENTITY cellTextWrap.accessKey "δ">
+<!ENTITY cellWrap.label "Αναδίπλωση">
+<!ENTITY cellNoWrap.label "Χωρίς αναδίπλωση">
+<!ENTITY cellAlignTop.label "Πάνω">
+<!ENTITY cellAlignMiddle.label "Μέση">
 <!ENTITY cellAlignBottom.label "Κάτω">
 <!ENTITY cellAlignJustify.label "Στοίχιση">
-<!ENTITY cellAlignMiddle.label "Μέση">
-<!ENTITY cellAlignTop.label "Πάνω">
-<!ENTITY cellApplyBeforeMove.label "Εφαρμογή αλλαγών πριν την αλλαγή επιλογής">
-<!ENTITY cellColSpan.label "Κάλυψη στήλης:">
-<!ENTITY cellContentAlignment.label "Στοίχιση περιεχομένου">
-<!ENTITY cellHeader.label "Κεφαλίδα">
-<!ENTITY cellHorizontal.accessKey "">
-<!ENTITY cellHorizontal.label "Οριζόντια:">
 <!ENTITY cellInheritColor.label "(Να φαίνεται το χρώμα του πίνακα)">
-<!ENTITY cellKeepCurrentData.label "Να παραμείνουν οι τρέχουσες ρυθμίσεις">
-<!ENTITY cellNoWrap.label "Χωρίς αναδίπλωση">
-<!ENTITY cellNormal.label "Κανονικό">
-<!ENTITY cellPercent.label "ποσοστό πίνακα">
-<!ENTITY cellRowSpan.label "Κάλυψη γραμμής:">
-<!ENTITY cellSelectCell.label "Κελί">
-<!ENTITY cellSelectColumn.label "Στήλη">
-<!ENTITY cellSelectNext.accessKey "">
-<!ENTITY cellSelectNext.label "Επόμενο">
-<!ENTITY cellSelectPrevious.accessKey "">
-<!ENTITY cellSelectPrevious.label "Προηγούμενο">
-<!ENTITY cellSelectRow.label "Γραμμή">
-<!ENTITY cellSelection.label "Επιλογή">
-<!ENTITY cellStyle.accessKey "">
-<!ENTITY cellStyle.label "Διαμόρφωση Κελιού:">
-<!ENTITY cellTab.label "Κελιά">
-<!ENTITY cellTextWrap.accessKey "">
-<!ENTITY cellTextWrap.label "Αναδίπλωση κειμένου">
 <!ENTITY cellUseCheckboxHelp.label "Xρήση κουμπιών επιλογής για να ρυθμίσετε ποιες ιδιότητες θα εφαρμοστούν σε όλα τα επιλεγμένα κελιά">
-<!ENTITY cellVertical.accessKey "">
-<!ENTITY cellVertical.label "Κάθετη:">
-<!ENTITY cellWrap.label "Αναδίπλωση">
-<!ENTITY pixels.label "εικονοστοιχεία">
 <!ENTITY size.label "Μέγεθος">
-<!ENTITY tableAlignment.accessKey "">
-<!ENTITY tableAlignment.label "Στοίχιση Πίνακα">
-<!ENTITY tableBorderSpacing.label "Πλαίσια και διάστιχο">
-<!ENTITY tableBorderWidth.accessKey "">
-<!ENTITY tableBorderWidth.label "Πλαίσιο:">
-<!ENTITY tableCaption.accessKey "">
-<!ENTITY tableCaption.label "Λεζάντα:">
-<!ENTITY tableCaptionAbove.label "Πάνω από τον Πίνακα">
-<!ENTITY tableCaptionBelow.label "Κάτω από τον Πίνακα">
-<!ENTITY tableCaptionLeft.label "Αριστερά του πίνακα">
-<!ENTITY tableCaptionNone.label "Κανένα">
-<!ENTITY tableCaptionRight.label "Δεξιά του πίνακα">
-<!ENTITY tableColumns.accessKey "">
-<!ENTITY tableColumns.label "Στήλες:">
-<!ENTITY tableHeight.accessKey "">
-<!ENTITY tableHeight.label "Ύψος:">
-<!ENTITY tableInheritColor.label "(Εμφάνιση χρώματος σελίδας)">
-<!ENTITY tablePadding.accessKey "">
-<!ENTITY tablePadding.label "Γέμισμα:">
-<!ENTITY tablePxBetwBrdrCellContent.label "εικονοστοιχεία μεταξύ  πλαισίου κελιών και περιεχομένου">
-<!ENTITY tablePxBetwCells.label "εικονοστοιχεία μεταξύ κελιών">
-<!ENTITY tableRows.accessKey "">
-<!ENTITY tableRows.label "Σειρές:">
-<!ENTITY tableSpacing.accessKey "">
-<!ENTITY tableSpacing.label "Διάστιχο:">
-<!ENTITY tableTab.label "Πίνακας">
-<!ENTITY tableWidth.accessKey "">
-<!ENTITY tableWidth.label "Πλάτος:">
-<!ENTITY tableWindow.title "Ιδιότητες Πίνακα">
+<!ENTITY pixels.label "εικονοστοιχεία">
+<!ENTITY backgroundColor.label "Χρώμα Φόντου:">
+<!ENTITY backgroundColor.accessKey "χ">
+<!ENTITY AlignLeft.label "Αριστερά">
+<!ENTITY AlignCenter.label "Μέσο">
+<!ENTITY AlignRight.label "Δεξιά">

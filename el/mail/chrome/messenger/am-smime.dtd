@@ -1,19 +1,27 @@
-<!ENTITY alwaysEncryptMessage.label "Πάντα (απενεργοποίηση αποστολής  εκτός και αν όλοι οι παραλήπτες έχουν πιστοποιητικό)">
-<!ENTITY certificate.button "Επιλογή...">
-<!ENTITY certificate_clear.button "Εκκαθάριση">
-<!ENTITY encryptionCert.message "Χρήση του ακόλουθου πιστοποιητικού για αποκρυπτογράφηση-κρυπτογράφηση εισερχομένων:">
-<!ENTITY encryptionCert.notselected "Δεν έχει ορισθεί πιστοποιητικό">
-<!ENTITY encryptionChoiceLabel.label "Χρήση κρυπτογράφησης κατά την αποστολή μηνυμάτων">
-<!ENTITY encryptionGroupTitle.label "Κρυπτογράφηση">
-<!ENTITY managecerts.accesskey "ι">
-<!ENTITY managecerts.label "Διαχείριση πιστοποιητικών και συσκευών">
-<!ENTITY managedevices.accesskey "α">
-<!ENTITY neverEncrypt.label "Ποτέ">
-<!ENTITY securityHeading.label "Για την αποστολή και λήψη υπογεγραμμένων και κρυπτογραφημένων μηνυμάτων θα πρέπει να καθορίσετε ένα πιστοποιητικό υπογραφής και ένα πιστοποιητικό κρυπτογράφησης">
 <!ENTITY securityTitle.label "Ασφάλεια">
-<!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων">
-<!ENTITY signingCert.message "Χρήση του ακόλουθου προσωπικού πιστοποιητικού για ψηφιακή υπογραφή μηνυμάτων:">
-<!ENTITY signingCert.notselected "Δεν έχει ορισθεί πιστοποιητικό">
+<!ENTITY securityTab.label "Ασφάλεια">
+<!ENTITY securityHeading.label "Για την αποστολή και λήψη υπογεγραμμένων και κρυπτογραφημένων μηνυμάτων θα πρέπει να καθορίσετε ένα πιστοποιητικό υπογραφής και ένα πιστοποιητικό κρυπτογράφησης">
+<!ENTITY encryptionGroupTitle.label "Κρυπτογράφηση">
+<!ENTITY encryptionChoiceLabel.label "Χρήση κρυπτογράφησης κατά την αποστολή μηνυμάτων">
+<!ENTITY neverEncrypt.label "Ποτέ">
+<!ENTITY neverEncrypt.accesskey "Π">
+<!ENTITY alwaysEncryptMessage.label "Πάντα (απενεργοποίηση αποστολής  εκτός και αν όλοι οι παραλήπτες έχουν πιστοποιητικό)">
+<!ENTITY alwaysEncryptMessage.accesskey "τ">
+<!ENTITY encryptionCert.message "Χρήση του ακόλουθου πιστοποιητικού για αποκρυπτογράφηση-κρυπτογράφηση εισερχομένων:">
+<!ENTITY digitalSign.certificate.button "Επιλογή…">
+<!ENTITY digitalSign.certificate.accesskey "λ">
+<!ENTITY digitalSign.certificate_clear.button "Εκκαθάριση">
+<!ENTITY digitalSign.certificate_clear.accesskey "θ">
+<!ENTITY encryption.certificate.button "Επιλογή…">
+<!ENTITY encryption.certificate.accesskey "π">
+<!ENTITY encryption.certificate_clear.button "Εκκαθάριση">
+<!ENTITY encryption.certificate_clear.accesskey "Ε">
 <!ENTITY signingGroupTitle.label "Ψηφιακή υπογραφή">
-<!ENTITY certificates.label     "Πιστοποιητικά">
-<!ENTITY managedevices.label    "Συσκευές ασφαλείας">
+<!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων">
+<!ENTITY signMessage.accesskey "Ψ">
+<!ENTITY signingCert.message "Χρήση του ακόλουθου προσωπικού πιστοποιητικού για ψηφιακή υπογραφή μηνυμάτων:">
+<!ENTITY certificates.label "Πιστοποιητικά">
+<!ENTITY manageCerts.label "Προβολή πιστοποιητικών">
+<!ENTITY manageCerts.accesskey "β">
+<!ENTITY manageDevices.label "Συσκευές ασφαλείας">
+<!ENTITY manageDevices.accesskey "υ">

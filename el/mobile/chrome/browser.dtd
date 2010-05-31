@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext      "Εισάγετε όρο αναζήτησης ή διεύθυνση">
+
 <!ENTITY back.label "Πίσω">
 <!ENTITY forward.label "Μπροστά">
 <!ENTITY reload.label "Ανανέωση">
@@ -8,7 +10,7 @@
 <!ENTITY newtab.label "Νέα καρτέλα">
 <!ENTITY closetab.label "Κλείσιμο καρτέλας">
 <!ENTITY cut.label "Αποκοπή">
-<!ENTITY copy.label "Επικόλληση">
+<!ENTITY copy.label "Αντιγραφή">
 <!ENTITY copylink.label "Αντιγραφή τοποθεσίας δεσμού">
 <!ENTITY paste.label "Επικόλληση">
 <!ENTITY delete.label "Διαγραφή">
@@ -29,7 +31,6 @@
 <!ENTITY formHelper.done "Ολοκληρώθηκε">
 <!ENTITY addonsHeader.label "Πρόσθετα">
 <!ENTITY addonsLocal.label "Τα πρόσθετα σας">
-<!ENTITY addonsUpdate.label "Ενημέρωση">
 <!ENTITY addonsRepo.label "Λήψη προσθέτων">
 <!ENTITY addonsRecommended.label "Προτεινόμενα">
 <!ENTITY addonsSearch.label "Αναζήτηση">
@@ -54,7 +55,6 @@
 <!ENTITY downloadFailed.label "Απέτυχε">
 <!ENTITY noResults.label "Δεν υπάρχουν αποτελέσματα">
 <!ENTITY allBookmarks.label "Δείτε όλους τους σελιδοδείκτες">
-<!ENTITY searchEngine.addSearch "Προσθήκη αναζήτησης:">
 <!ENTITY bookmarkPopup.label "Προστέθηκε στους σελιδοδείκτες">
 <!ENTITY bookmarkRemove.label "Απομάκρυνση">
 <!ENTITY bookmarkEdit.label "Επεξεργασία">
@@ -71,4 +71,8 @@
 <!ENTITY consoleEvaluate.label "…">
 <!ENTITY consoleErrFile.label "Αρχείο πηγής:">
 <!ENTITY consoleErrLine.label "Γραμμή:">
-<!ENTITY consoleErrColumn.label "Στήλη::">
+<!ENTITY consoleErrColumn.label "Στήλη:">
+
+<!ENTITY contextOpenInNewTab.label "Άνοιγμα δεσμού σε νέα καρτέλα">
+<!ENTITY contextSaveImage.label    "Αποθήκευση εικόνας">
+

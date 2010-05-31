@@ -1,28 +1,31 @@
-<!ENTITY accountName.accesskey "ν">
-<!ENTITY accountName.label "Όνομα Λογαριασμού:">
-<!ENTITY accountNameDesc.label "Το όνομα λογαριασμού χρησιμοποιείται για την αναγνώριση κάθε λογαριασμού">
 <!ENTITY accountTitle.label "Οδηγός λογαριασμού">
-<!ENTITY attachVCard.accesskey "v">
-<!ENTITY attachVCard.label "Επισύναψη της vCard μου στα μηνύματα">
-<!ENTITY choose.accesskey "λ">
-<!ENTITY choose.label "Επιλογή...">
-<!ENTITY edit.label "Επεξεργασία...">
-<!ENTITY editVCard.accesskey "ξ">
-<!ENTITY editVCard.label "Επεξεργασία καρτέλας...">
-<!ENTITY email.accesskey "E">
-<!ENTITY email.label "Διεύθυνση Email:">
-<!ENTITY identityDesc.label "Ο κάθε λογαριασμός μπορεί να έχει τη δική του ταυτότητα, και παρέχει τις πληροφορίες που βλέπουν τρίτοι όταν διαβάζουν τα μηνύματα σας.">
+<!ENTITY accountName.label "Όνομα λογαριασμού:">
+<!ENTITY accountName.accesskey "ν">
 <!ENTITY identityTitle.label "Ταυτότητα">
-<!ENTITY manageIdentities.accesskey "Δ">
-<!ENTITY manageIdentities.label "Διαχείριση ταυτοτήτων...">
-<!ENTITY name.accesskey "μ">
+<!ENTITY identityDesc.label "Ο κάθε λογαριασμός μπορεί να έχει τη δική του ταυτότητα, και παρέχει τις πληροφορίες που βλέπουν τρίτοι όταν διαβάζουν τα μηνύματα σας.">
 <!ENTITY name.label "Όνομα:">
-<!ENTITY organization.accesskey "Ο">
-<!ENTITY organization.label "Οργανισμός:">
-<!ENTITY replyTo.accesskey "σ">
+<!ENTITY name.accesskey "μ">
+<!ENTITY email.label "Διεύθυνση Email:">
+<!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Διεύθυνση για απαντήσεις:">
-<!ENTITY signature.accesskey "ψ">
-<!ENTITY signature.label "Επισύναψη αυτής της υπογραφής:">
-<!ENTITY smtpDefaultServer.label "Χρήση προεπιλεγμένου διακομιστή">
-<!ENTITY smtpName.accesskey "χ">
+<!ENTITY replyTo.accesskey "σ">
+<!ENTITY organization.label "Οργανισμός:">
+<!ENTITY organization.accesskey "Ο">
+<!ENTITY signatureText.label "Κείμενο υπογραφής:">
+<!ENTITY signatureText.accesskey "μ">
+<!ENTITY signatureHtml.label "Χρήση HTML (π.χ., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο (κείμενο, HTML, ή εικόνα):">
+<!ENTITY signatureFile.accesskey "ψ">
+<!ENTITY edit.label "Επεξεργασία...">
+<!ENTITY choose.label "Επιλογή...">
+<!ENTITY choose.accesskey "λ">
+<!ENTITY editVCard.label "Επεξεργασία καρτέλας...">
+<!ENTITY editVCard.accesskey "ξ">
+<!ENTITY attachVCard.label "Επισύναψη της vCard μου στα μηνύματα">
+<!ENTITY attachVCard.accesskey "v">
+<!ENTITY manageIdentities.label "Διαχείριση ταυτοτήτων...">
+<!ENTITY manageIdentities.accesskey "Δ">
 <!ENTITY smtpName.label "Διακομιστής εξερχομένων (SMTP):">
+<!ENTITY smtpName.accesskey "χ">
+<!ENTITY smtpDefaultServer.label "Χρήση προεπιλεγμένου διακομιστή">

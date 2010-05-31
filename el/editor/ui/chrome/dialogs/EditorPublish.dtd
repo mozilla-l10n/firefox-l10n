@@ -1,43 +1,93 @@
-<!ENTITY browseUrl.label "Διεύθυνση HTTP της αρχικής σας σελίδας:(π.χ.: 'http://www.ricudis.com/myusername'):">
-<!ENTITY browseUrl.tooltip "Η διεύθυνση  HTTP://  του αρχικού καταλόγου (δεν συμπεριλαμβάνετε το όνομα αρχείου)">
-<!ENTITY chooseDirButton.label "Επιλογή...">
-<!ENTITY docDirList.label "υποκατάλογος σελίδας για την ιστοσελίδα:">
-<!ENTITY filename.label "Όνομα αρχείου::">
-<!ENTITY filename.tooltip "Εισάγετε ένα όνομα για αυτό το αρχείο συμπεριλαμβάνοντας και το  '.html'  για την ιστοσελίδα">
-<!ENTITY filenameExample.label "π.χ.: &quot;ησελίδαμου.html&quot;">
-<!ENTITY loginInfo.label "Πληροφορίες διαπίστευσης">
-<!ENTITY newSiteButton.label "Νέα ιστοδιεύθυνση">
-<!ENTITY pageTitle.label "Όνομα σελίδας:">
-<!ENTITY pageTitle.tooltip "Εισάγετε ένα τίτλο για να ονομάσετε τη σελίδα στο παράθυρο και τους σελιδοδείκτες.">
-<!ENTITY pageTitleExample.label "π.χ.: &quot;Η σελίδα μου&quot;">
-<!ENTITY password.label "Κωδικός:">
-<!ENTITY password.tooltip "Τον κωδικό που σχετίζεται με το όνομα χρήστη">
-<!ENTITY publishImgCheckbox.label "Να περιέχονται εικόνες και άλλα αρχεία">
-<!ENTITY publishImgCheckbox.tooltip "Δημοσίευση εικόνων ή άλλων αρχείων που συνδέονται με τη σελίδα.">
-<!ENTITY publishSites.label "Ιστοδιευθύνσεις δημοσίευσης">
-<!ENTITY publishTab.label "Δημοσίευση">
-<!ENTITY publishButton.label      "Δημοσίευση">
-<!ENTITY relatedDocs.label "Άλλα αρχεία για δημοσίευση">
-<!ENTITY removeButton.label "Απομάκρυνση ιστοδιεύθυνσης">
-<!ENTITY sameLocationRadio.label "Να χρησιμοποιηθεί η ίδια τοποθεσία σαν σελίδα">
-<!ENTITY sameLocationRadio.tooltip "Δημοσίευση αρχείων στην ίδια τοποθεσία με τη σελίδα.">
-<!ENTITY savePassword.label "Αποθήκευση κωδικού">
-<!ENTITY savePassword.tooltip "Επιλέξτε αυτό για την ασφαλή αποθήκευση του κωδικού σας με τη χρήση της διαχείρισης κωδικών.">
-<!ENTITY serverInfo.label "Πληροφορίες διακομιστή ">
-<!ENTITY setDefSiteAndDir.label "Ορισμός ως προεπιλεγμένης ιστοδιεύθυνσης και καταλόγου">
-<!ENTITY setDefaultButton.label "Ορισμός ως προεπιλεγμένου">
-<!ENTITY settingsTab.label "Ρυθμίσεις">
-<!ENTITY siteDirList.label "Επιλέξτε τον τύπο ή το όνομα καταλόγου στην υπό δημοσίευση ιστοδιεύθυνση:">
-<!ENTITY siteDirList.tooltip "Επιλέξτε ή εισάγετε το όνομα του απομακρυσμένου υποκαταλόγου για δημοσίευση">
-<!ENTITY siteList.label "Όνομα ιστοδιεύθυνσης:">
-<!ENTITY siteList.tooltip "Επιλέξτε τη σελίδα που θέλετε να δημοσιεύσετε">
-<!ENTITY siteName.label "Όνομα ιστοδιεύθυνσης:">
-<!ENTITY siteName.tooltip "Ένα όνομα που γνωστοποιεί την προς δημοσίευση σελίδα (e.g.: 'MySite')">
-<!ENTITY siteUrl.label "Τοποθεσία δημοσίευσης (παρέχεται από τον ISP ή το διαχειριστή συστήματος.): ">
-<!ENTITY siteUrl.tooltip "Η διεύθυνση  FTP:// ή  HTTP:// που παρέχεται από τον ISP σας ή την υπηρεσία φιλοξενίας σελίδων.">
-<!ENTITY useSubdir.tooltip "Επιλέξτε ή εισάγετε το όνομα του απομακρυσμένου υποκαταλόγου στον οποίο θα δημοσιευτούν οι ιστοσελίδες">
-<!ENTITY useSubdirRadio.label "Χρήση του υποκαταλόγου αυτής της ιστοδιεύθυνσης:">
-<!ENTITY username.label "Όνομα χρήστη:">
-<!ENTITY username.tooltip "Το όνομα χρήστη με το οποίο συνδέεστε με τον ISP σας ή την υπηρεσία φιλοξενίας ιστοσελίδων">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Δημοσίευση σελίδας">
 <!ENTITY windowTitleSettings.label "Ρυθμίσεις δημοσίευσης">
+<!ENTITY publishTab.label "Δημοσίευση">
+<!ENTITY settingsTab.label "Ρυθμίσεις">
+<!ENTITY publishButton.label "Δημοσίευση">
+<!ENTITY siteList.label "Όνομα διεύθυνσης:">
+<!ENTITY siteList.accesskey "σ">
+<!ENTITY siteList.tooltip "Επιλέξτε τη σελίδα που θέλετε να δημοσιεύσετε">
+<!ENTITY newSiteButton.label "Νέα διεύθυνση">
+<!ENTITY newSiteButton.accesskey "Ν">
+<!ENTITY docDirList.label "Υποκατάλογος σελίδας για την ιστοσελίδα:">
+<!ENTITY docDirList.accesskey "π">
+<!ENTITY docDirList.tooltip "Επιλέξτε ή εισάγετε το όνομα για τον απομακρυσμένο υποκατάλογο για αυτή τη σελίδα">
+<!ENTITY publishImgCheckbox.label "Να περιέχονται εικόνες και άλλα αρχεία">
+<!ENTITY publishImgCheckbox.accesskey "χ">
+<!ENTITY publishImgCheckbox.tooltip "Δημοσίευση εικόνων ή άλλων αρχείων που συνδέονται με τη σελίδα.">
+<!ENTITY sameLocationRadio.label "Να χρησιμοποιηθεί η ίδια τοποθεσία σαν σελίδα">
+<!ENTITY sameLocationRadio.accesskey "θ">
+<!ENTITY sameLocationRadio.tooltip "Δημοσίευση αρχείων στην ίδια τοποθεσία με τη σελίδα.">
+<!ENTITY useSubdirRadio.label "Χρήση του υποκαταλόγου αυτής της ιστοδιεύθυνσης:">
+<!ENTITY useSubdirRadio.accesskey "κ">
+<!ENTITY useSubdirRadio.tooltip "Δημοσίευση αρχείων στον επιλεγμένο απομακρυσμένο υποκατάλογο">
+<!ENTITY otherDirList.tooltip "Επιλέξτε ή εισάγετε το όνομα για τον απομακρυσμένο υποκατάλογο όπου θα δημοσιευθούν τα αρχεία">
+<!ENTITY pageTitle.label "Όνομα σελίδας:">
+<!ENTITY pageTitle.accesskey "μ">
+<!ENTITY pageTitle.tooltip "Εισάγετε ένα τίτλο για να ονομάσετε τη σελίδα στο παράθυρο και τους σελιδοδείκτες.">
+<!ENTITY pageTitleExample.label "π.χ.: &quot;Η σελίδα μου&quot;">
+<!ENTITY filename.label "Όνομα αρχείου::">
+<!ENTITY filename.accesskey "χ">
+<!ENTITY filename.tooltip "Εισάγετε ένα όνομα για αυτό το αρχείο συμπεριλαμβάνοντας και το  '.html'  για την ιστοσελίδα">
+<!ENTITY filenameExample.label "π.χ.: &quot;ησελίδαμου.html&quot;">
+<!ENTITY setDefaultButton.label "Ορισμός ως προεπιλεγμένου">
+<!ENTITY setDefaultButton.accesskey "π">
+<!ENTITY removeButton.label "Απομάκρυνση ιστοδιεύθυνσης">
+<!ENTITY removeButton.accesskey "μ">
+<!ENTITY publishSites.label "Ιστοδιευθύνσεις δημοσίευσης">
+<!ENTITY serverInfo.label "Πληροφορίες διακομιστή ">
+<!ENTITY loginInfo.label "Πληροφορίες διαπίστευσης">
+<!ENTITY siteName.label "Όνομα ιστοδιεύθυνσης:">
+<!ENTITY siteName.accesskey "ε">
+<!ENTITY siteName.tooltip "Ένα όνομα που γνωστοποιεί την προς δημοσίευση σελίδα (e.g.: 'MySite')">
+<!ENTITY siteUrl.label "Τοποθεσία δημοσίευσης (π.χ.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.accesskey "δ">
+<!ENTITY siteUrl.tooltip "Η διεύθυνση  FTP:// ή  HTTP:// που παρέχεται από τον ISP σας ή την υπηρεσία φιλοξενίας σελίδων.">
+<!ENTITY browseUrl.label "Διεύθυνση HTTP της αρχικής σας σελίδας:(π.χ.: 'http://www.ricudis.com/myusername'):">
+<!ENTITY browseUrl.accesskey "χ">
+<!ENTITY browseUrl.tooltip "Η διεύθυνση  HTTP://  του αρχικού καταλόγου (δεν συμπεριλαμβάνετε το όνομα αρχείου)">
+<!ENTITY username.label "Όνομα χρήστη:">
+<!ENTITY username.accesskey "μ">
+<!ENTITY username.tooltip "Το όνομα χρήστη με το οποίο συνδέεστε με τον ISP σας ή την υπηρεσία φιλοξενίας ιστοσελίδων">
+<!ENTITY password.label "Κωδικός:">
+<!ENTITY password.accesskey "δ">
+<!ENTITY password.tooltip "Τον κωδικό που σχετίζεται με το όνομα χρήστη">
+<!ENTITY savePassword.label "Αποθήκευση κωδικού">
+<!ENTITY savePassword.accesskey "σ">
+<!ENTITY savePassword.tooltip "Επιλέξτε αυτό για την ασφαλή αποθήκευση του κωδικού σας με τη χρήση της διαχείρισης κωδικών.">

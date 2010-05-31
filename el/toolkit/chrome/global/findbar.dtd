@@ -13,5 +13,5 @@
  <!ENTITY previous.tooltip "Εύρεση της προηγούμενης εμφάνισης της φράσης">
 
 <!ENTITY highlight.tooltiptext "Επισήμανση όλων των εμφανίσεων της φράσης">
-<!ENTITY caseSensitiveCheckbox.label "Ταίριασμα χαρακτήρα">
-<!ENTITY caseSensitiveCheckbox.accesskey "χ">
+<!ENTITY caseSensitiveCheckbox.label "Συμφωνία πεζών-κεφαλαίων">
+<!ENTITY caseSensitiveCheckbox.accesskey "φ">

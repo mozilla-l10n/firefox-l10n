@@ -1,14 +1,11 @@
-<!ENTITY chooseFoldersButton.accesskey "ι">
-<!ENTITY chooseFoldersButton.label "Επιλογή...">
-<!ENTITY description.accesskey "Δ">
-<!ENTITY description.label "Δημιουργία ενός υποφακέλου σε:">
-<!ENTITY folderSelectionCaption.label "Επιλογή φακέλου για αναζήτηση">
-<!ENTITY name.accesskey "ν">
-<!ENTITY name.label "Όνομα:">
-<!ENTITY searchCriteriaButton.accesskey "ι">
-<!ENTITY searchCriteriaButton.label "Κριτήρια αναζήτησης...">
-<!ENTITY searchCriteriaText.label "Τροποποίηση των κριτηρίων αναζήτησης που χρησιμοποιήθηκαν για αυτή την αποθηκευμένη αναζήτηση:">
-<!ENTITY searchOnline.accesskey "O">
-<!ENTITY searchOnline.label "Αναζήτηση Online (Δίνει ενημερωμένα αποτελέσματα για φακέλους IMAP και συζητήσεων αλλά αυξάνει το χρόνο ανοίγματος του φακέλου)">
-<!ENTITY searchTermCaption.label "Ρύθμιση των κριτηρίων αναζήτησης για αυτόν τον εικονικό φάκελο:">
 <!ENTITY virtualFolderProperties.title "Νέος αποθηκευμένος φάκελος αναζήτησης">
+<!ENTITY name.label "Όνομα:">
+<!ENTITY name.accesskey "ν">
+<!ENTITY description.label "Δημιουργία ενός υποφακέλου σε:">
+<!ENTITY description.accesskey "Δ">
+<!ENTITY searchTermCaption.label "Ρύθμιση των κριτηρίων αναζήτησης για αυτόν τον εικονικό φάκελο:">
+<!ENTITY folderSelectionCaption.label "Επιλογή φακέλου για αναζήτηση">
+<!ENTITY chooseFoldersButton.label "Επιλογή...">
+<!ENTITY chooseFoldersButton.accesskey "ι">
+<!ENTITY searchOnline.label "Αναζήτηση Online (Δίνει ενημερωμένα αποτελέσματα για φακέλους IMAP και συζητήσεων αλλά αυξάνει το χρόνο ανοίγματος του φακέλου)">
+<!ENTITY searchOnline.accesskey "ζ">

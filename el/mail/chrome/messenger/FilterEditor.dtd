@@ -1,44 +1,35 @@
-<!ENTITY age.label "ηλικία σε ημέρες">
-<!ENTITY anyText.label "οποιοδήποτε κείμενο">
-<!ENTITY body.label "κυρίως κείμενο">
-<!ENTITY cc.label "Κοινοποίηση">
-<!ENTITY conditionDesc.label "Για εισερχόμενα μηνύματα που:">
-<!ENTITY contains.label "περιέχει">
-<!ENTITY date.label "Ημερομηνία">
-<!ENTITY filterActionDesc.accesskey "">
-<!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
-<!ENTITY filterName.accesskey "">
-<!ENTITY filterName.label "Όνομα Φίλτρου:">
+<!ENTITY window.title "Κανόνες φίλτρου">
+<!ENTITY filterName.label "Όνομα φίλτρου:">
+<!ENTITY filterName.accesskey "ν">
+<!ENTITY junk.label "Ανεπιθύμητη αλληλογραφία">
+<!ENTITY notJunk.label "Επιθυμητή αλληλογραφία">
+<!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">
+<!ENTITY lowPriorityCmd.label "Χαμηλή">
+<!ENTITY normalPriorityCmd.label "Κανονική">
 <!ENTITY highPriorityCmd.label "Υψηλή">
 <!ENTITY highestPriorityCmd.label "Πολύ υψηλή">
-<!ENTITY junk.label "Ανεπιθύμητη αλληλογραφία">
-<!ENTITY keyword.label "λέξη-κλειδί">
-<!ENTITY lowPriorityCmd.label "Χαμηλή">
-<!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">
-<!ENTITY newFolderButton.accesskey "">
-<!ENTITY newFolderButton.label "Νέος Φάκελος...">
-<!ENTITY nocontains.label "δεν περιέχει">
-<!ENTITY normalPriorityCmd.label "Κανονική">
-<!ENTITY notJunk.label "Επιθυμητή αλληλογραφία">
-<!ENTITY priority.label "Προτεραιότητα">
-<!ENTITY sender.label "αποστολέας">
-<!ENTITY setJunkScore.label "Ορισμός κατάστασης ανεπιθ. αλληλογραφίας σε:">
-<!ENTITY status.label "Κατάσταση">
-<!ENTITY subject.label "Θέμα">
-<!ENTITY to.label "προς">
-<!ENTITY watchThread.label "Παρακολούθηση αλληλουχίας">
-<!ENTITY window.title "Κανόνες φίλτρου">
-<!ENTITY forwardTo.label "Προώθηση σε:">
-<!ENTITY replyWithTemplate.label "Απάντηση με πρότυπο:">
-
-
+<!ENTITY contextDesc.label "Εφαρμογή φίλτρου σε:">
+<!ENTITY contextDesc.accesskey "φ">
+<!ENTITY contextIncoming.label "Έλεγχο αλληλογραφίας">
+<!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
+<!ENTITY contextBoth.label "Έλεγχο αλληλογραφίας ή χειροκίνητη εκτέλεση">
+<!ENTITY contextPostPlugin.label "Έλεγχος αλληλογραφίας (μετά από ταξινόμηση)">
+<!ENTITY contextPostPluginBoth.label "Έλεγχος αλληλογραφίας (μετά από ταξινόμηση) ή χειροκίνητη εκτέλεση">
+<!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
+<!ENTITY filterActionDesc.accesskey "κ">
 <!ENTITY moveMessage.label "Μετακίνηση μηνύματος σε">
 <!ENTITY copyMessage.label "Αντιγραφή μηνύματος σε">
+<!ENTITY forwardTo.label "Προώθηση σε:">
+<!ENTITY replyWithTemplate.label "Απάντηση με πρότυπο:">
 <!ENTITY markMessageRead.label "Σημείωση ως αναγνωσμένο">
-<!ENTITY markMessageFlagged.label "Σημείωση ως με σημαία">
-<!ENTITY labelMessage.label "Ορισμός ετικέτας ως">
+<!ENTITY markMessageStarred.label "Προσθήκη αστεριού">
 <!ENTITY setPriority.label "Ορισμός προτεραιότητας σε">
+<!ENTITY addTag.label "Ετικέτα στο μήνυμα">
+<!ENTITY setJunkScore.label "Ορισμός κατάστασης ανεπιθ. αλληλογραφίας σε:">
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
 <!ENTITY deleteFromPOP.label "Διαγραφή από το διακομιστή POP">
 <!ENTITY fetchFromPOP.label "Λήψη από το διακομιστή POP">
 <!ENTITY ignoreThread.label "Αγνόηση αλληλουχίας">
+<!ENTITY ignoreSubthread.label "Αγνόηση υποαλληλουχίας">
+<!ENTITY watchThread.label "Παρακολούθηση αλληλουχίας">
+<!ENTITY stopExecution.label "Διακοπή εκτέλεσης φίλτρου">

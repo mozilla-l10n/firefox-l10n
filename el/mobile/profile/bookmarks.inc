@@ -20,10 +20,6 @@
 #define bookmarks_aboutBrowser Firefox: Περί Fennec
 
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Συγχρονισμός με το Weave
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: Προσαρμογή με πρόσθετα
@@ -31,5 +27,15 @@
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox: Υποστήριξη
+
+# LOCALIZATION NOTE (bookmarks_weave):
+# link title for https://www.mozilla.com/en-US/mobile/sync
+#define bookmarks_sync Firefox: Συγχρονισμός με το Weave Sync
+
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+# link title for about:home
+#define bookmarks_aboutHome Firefox Start
+
 
 #unfilter emptyLines

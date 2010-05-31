@@ -54,6 +54,8 @@
 <!ENTITY  permTab.accesskey     "Δ">
 <!ENTITY  permUseDefault        "Χρήση προεπιλογών">
 <!ENTITY  permAllow             "Να επιτρέπεται">
+<!ENTITY  permAskAlways         "Πάντα με ερώτηση">
+
 <!ENTITY  permAllowSession      "Να επιτρέπεται για αυτή τη συνεδρία">
 <!ENTITY  permBlock             "Φραγή">
 <!ENTITY  permissionsFor        "Δικαιώματα για:">
@@ -61,6 +63,8 @@
 <!ENTITY  permPopup             "Αναδυόμενα παράθυρα">
 <!ENTITY  permCookie            "Τοποθέτηση Cookies">
 <!ENTITY  permInstall           "Εγκατάσταση επεκτάσεων ή θεμάτων">
+<!ENTITY  permGeo               "Γνωστοποίηση τοποθεσίας">
+
 
 <!ENTITY  securityTab           "Ασφάλεια">
 <!ENTITY  securityTab.accesskey "σ">

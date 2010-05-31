@@ -1,7 +1,7 @@
-<!ENTITY email.address "Διεύθυνση Email:">
-<!ENTITY encryptionCert.label "Προβολή πιστοποιητικού κρυπτογράφησης">
-<!ENTITY issuer.name "Πιστοποιητικό εκδόθηκε από:">
-<!ENTITY recipient.name "Κρυπτογραφήθηκε για:">
-<!ENTITY signatureCert.label "Προβολή πιστοποιητικού υπογραφής">
-<!ENTITY signer.name "Υπογράφηκε από:">
 <!ENTITY status.label "Ασφάλεια μηνύματος">
+<!ENTITY signatureCert.label "Προβολή πιστοποιητικού υπογραφής">
+<!ENTITY encryptionCert.label "Προβολή πιστοποιητικού κρυπτογράφησης">
+<!ENTITY signer.name "Υπογράφηκε από:">
+<!ENTITY recipient.name "Κρυπτογραφήθηκε για:">
+<!ENTITY email.address "Διεύθυνση Email:">
+<!ENTITY issuer.name "Πιστοποιητικό εκδόθηκε από:">

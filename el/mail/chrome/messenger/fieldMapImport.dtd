@@ -1,16 +1,17 @@
-<!ENTITY fieldMapImport.dataTitle "Δεδομένα καταγραφής για εισαγωγή:">
-<!ENTITY fieldMapImport.down "Μετακίνηση κάτω">
-<!ENTITY fieldMapImport.down.accesskey "">
-<!ENTITY fieldMapImport.fieldListTitle "Πεδία  Ευρετηρίου Διευθύνσεων:">
-<!ENTITY fieldMapImport.next "Επόμενο">
-<!ENTITY fieldMapImport.next.accesskey "">
-<!ENTITY fieldMapImport.previous "Προηγούμενο">
-<!ENTITY fieldMapImport.previous.accesskey "">
-<!ENTITY fieldMapImport.recordNumber "Εισηγμένα δεδομένα για εγγραφή:">
-<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.text "Χρησιμοποιείστε τη Μετακίνηση πάνω ή κάτω για να ταιριάξετε τα πεδία του ευρετηρίου διευθύνσεων στα αριστερά για να διορθώσετε τα δεδομένα για εισαγωγή στα αριστερά. Αποεπιλέξτε τα αντικείμενα που δεν θέλετε να εισαχθούν.">
+<!--null-->
 <!ENTITY fieldMapImport.title "Εισαγωγή Ευρετηρίου Διευθύνσεων">
-<!ENTITY fieldMapImport.up "Μετακίνηση πάνω">
-<!ENTITY fieldMapImport.up.accesskey "">
-<!ENTITY fieldMapImport.skipFirstRecord "Πρώτη εγγραφή που περιέχει ονόματα πεδίων">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "Π">
+<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
+<!ENTITY fieldMapImport.recordNumber "Εισηγμένα δεδομένα για εγγραφή:">
+<!ENTITY fieldMapImport.next.label "Επόμενο">
+<!ENTITY fieldMapImport.next.accesskey "ν">
+<!ENTITY fieldMapImport.previous.label "Προηγούμενο">
+<!ENTITY fieldMapImport.previous.accesskey "Π">
+<!ENTITY fieldMapImport.text "Χρησιμοποιείστε τη Μετακίνηση πάνω ή κάτω για να ταιριάξετε τα πεδία του ευρετηρίου διευθύνσεων στα αριστερά για να διορθώσετε τα δεδομένα για εισαγωγή στα αριστερά. Αποεπιλέξτε τα αντικείμενα που δεν θέλετε να εισαχθούν.">
+<!ENTITY fieldMapImport.up.label "Μετακίνηση πάνω">
+<!ENTITY fieldMapImport.up.accesskey "π">
+<!ENTITY fieldMapImport.down.label "Μετακίνηση κάτω">
+<!ENTITY fieldMapImport.down.accesskey "κ">
+<!ENTITY fieldMapImport.fieldListTitle "Πεδία  Ευρετηρίου Διευθύνσεων:">
+<!ENTITY fieldMapImport.dataTitle "Δεδομένα εγγραφής για εισαγωγή:">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Η πρώτη εγγραφή περιέχει τα ονόματα πεδίων">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "π">

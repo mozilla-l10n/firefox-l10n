@@ -1,5 +1,6 @@
-<!ENTITY addressingTab.label "Σύνταξη &amp; Διευθυνσιοδότηση">
-<!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; Φάκελοι">
-<!ENTITY identityListDesc.label "Ρύθμιση αυτής της ταυτότητας:">
+<!ENTITY identityDialog.style "width: 71ch;">
 <!ENTITY identityTitle.label "Ρυθμίσεις ταυτότητας">
+<!ENTITY identityListDesc.label "Ρύθμιση αυτής της ταυτότητας:">
 <!ENTITY settingsTab.label "Ρυθμίσεις">
+<!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; Φάκελοι">
+<!ENTITY addressingTab.label "Σύνταξη &amp; Διευθυνσιοδότηση">

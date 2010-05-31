@@ -1,18 +1,11 @@
-<!ENTITY cancel.label "Ακύρωση">
-<!ENTITY convertibleAltering.label "Το μήνυμα σας μετατράπηκε σε απλό κείμενο χωρίς να χαθούν σημαντικές πληροφορίες. Πάντως η έκδοση με το απλό κείμενο θα φαίνεται διαφορετική από αυτήν που είδατε στο παράθυρο σύνταξης μηνύματος. ">
-<!ENTITY convertibleDefault.label "">
-<!ENTITY convertibleNo.label "Πάντως, οι χρησιμοποιημένες μορφοποιήσεις (π.χ. χρώματα) δε θα μετατραπούν σε απλό κείμενο. ">
-<!ENTITY convertibleYes.label "Το μήνυμα σας μπορεί να μετατραπεί σε απλό κείμενο χωρίς να χαθούν σημαντικές πληροφορίες">
-<!ENTITY help.label "Help">
-<!ENTITY htmlOnly.label "Aποστολή μόνο σε HTML">
-<!ENTITY htmlOnlyRecommended.label "Αποστολή μόνο σε HTML (συνιστάται)">
-<!ENTITY plainTextAndHtml.label "Αποστολή σε μορφή απλού κειμένου και HTML.">
-<!ENTITY plainTextAndHtmlRecommended.label "Αποστολή σε απλό κείμενο και HTML (συνιστάται)">
-<!ENTITY plainTextOnly.label "Αποστολή μόνο σε απλό κείμενο">
-<!ENTITY plainTextOnlyRecommended.label "Αποστολή μόνο σε απλό κείμενο (συνιστάται)">
-<!ENTITY question.label "Θέλετε να μετατραπεί το μήνυμα σε μορφή απλού κειμένου, ή θέλετε να το στείλετε ως HTML οπωσδήποτε;">
-<!ENTITY recipient.label "Μερικοί από τους παραλήπτες δεν είναι καταγεγραμμένοι ως ικανοί να λαμβάνουν HTML">
-<!ENTITY recipients.label "Παραλήπτες...">
-<!ENTITY recommended.label "(συνιστάται)">
-<!ENTITY send.label "Αποστολή">
 <!ENTITY windowTitle.label "Ερώτηση Αλληλογραφίας HTML ">
+<!ENTITY recipient.label "Μερικοί από τους παραλήπτες δεν είναι καταγεγραμμένοι ως ικανοί να λαμβάνουν HTML">
+<!ENTITY question.label "Θέλετε να μετατραπεί το μήνυμα σε μορφή απλού κειμένου, ή θέλετε να το στείλετε ως HTML οπωσδήποτε;">
+<!ENTITY plainTextAndHtml.label "Αποστολή σε μορφή απλού κειμένου και HTML.">
+<!ENTITY plainTextAndHtml.accesskey "π">
+<!ENTITY plainTextOnly.label "Αποστολή μόνο σε απλό κείμενο">
+<!ENTITY plainTextOnly.accesskey "λ">
+<!ENTITY htmlOnly.label "Aποστολή μόνο σε HTML">
+<!ENTITY htmlOnly.accesskey "H">
+<!ENTITY send.label "Αποστολή">
+<!ENTITY send.accesskey "σ">

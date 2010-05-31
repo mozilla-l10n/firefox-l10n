@@ -1,12 +1,12 @@
-<!ENTITY status.certificates "Πιστοποιητικά:">
-<!ENTITY status.encrypted "Κρυπτογραφημένα:">
+<!ENTITY title.label "Ασφάλεια μηνύματος">
+<!ENTITY subject.plaintextWarning "Σημείωση: Το Θέμα στα μηνύματα αλληλογραφίας δεν κρυπτογραφείται ποτέ.">
 <!ENTITY status.heading "Το περιεχόμενο του μηνύματος θα αποσταλεί ως ακολούθως:">
 <!ENTITY status.signed "Με ψηφιακή υπογραφή:">
-<!ENTITY subject.plaintextWarning "Σημείωση: Το Θέμα στα μηνύματα αλληλογραφίας δεν κρυπτογραφείται ποτέ.">
-<!ENTITY title.label "Ασφάλεια μηνύματος">
-<!ENTITY tree.expiresDate "Λήγει:">
-<!ENTITY tree.issuedDate "Εκδόθηκε:">
+<!ENTITY status.encrypted "Κρυπτογραφημένα:">
+<!ENTITY status.certificates "Πιστοποιητικά:">
+<!ENTITY view.label "Προβολή">
+<!ENTITY view.accesskey "β">
 <!ENTITY tree.recipient "Παραλήπτης:">
 <!ENTITY tree.status "Κατάσταση:">
-<!ENTITY view.accesskey "β">
-<!ENTITY view.label "Προβολή">
+<!ENTITY tree.issuedDate "Εκδόθηκε:">
+<!ENTITY tree.expiresDate "Λήγει:">

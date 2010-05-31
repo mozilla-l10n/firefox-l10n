@@ -165,3 +165,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική ασφάλειας περιεχομένου">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση αυτής της σελίδας με αυτό το τρόπο επειδή η σελίδα έχει μια πολιτική προστασίας που το απαγορεύει.</p>">
+
+

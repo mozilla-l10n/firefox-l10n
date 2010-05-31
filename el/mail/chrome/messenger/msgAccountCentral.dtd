@@ -1,16 +1,16 @@
-<!ENTITY accountsSectionHdr.label "Λογαριασμοί">
-<!ENTITY advFeaturesSectionHdr.label "Ειδικές Λειτουργίες">
-<!ENTITY composeMsgLink.label "Σύνταξη ενός νέου μηνύματος">
 <!ENTITY emailSectionHdr.label "Email">
+<!ENTITY readMsgsLink.label "Ανάγνωση μηνυμάτων">
+<!ENTITY composeMsgLink.label "Σύνταξη ενός νέου μηνύματος">
+<!ENTITY newsSectionHdr.label "Ομάδες συζητήσεως">
+<!ENTITY subscribeNewsLink.label "Διαχείριση ομάδων συζήτησης">
+<!ENTITY accountsSectionHdr.label "Λογαριασμοί">
+<!ENTITY subscribeImapFolders.label "Διαχείριση συνδρομών φακέλων">
+<!ENTITY settingsLink.label "Προβολή ρυθμίσεων για το λογαριασμό">
+<!ENTITY newAcctLink.label "Δημιουργία νέου  λογαριασμού">
+<!ENTITY advFeaturesSectionHdr.label "Ειδικές λειτουργίες">
+<!ENTITY searchMsgsLink.label "Αναζήτηση μηνυμάτων">
 <!ENTITY filtersLink.label "Διαχείριση φίλτρων  μηνυμάτων">
 <!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητης αλληλογραφίας">
-<!ENTITY newAcctLink.label "Δημιουργία νέου  λογαριασμού">
-<!ENTITY newsSectionHdr.label "Ομάδες συζητήσεως">
 <!ENTITY offlineLink.label "Ρυθμίσεις για εργασία χωρίς σύνδεση">
-<!ENTITY readMsgsLink.label "Ανάγνωση μηνυμάτων">
-<!ENTITY rssSectionHdr.label "RSS News &amp; Blogs">
-<!ENTITY searchMsgsLink.label "Αναζήτηση μηνυμάτων">
-<!ENTITY settingsLink.label "Προβολή ρυθμίσεων για το λογαριασμό">
-<!ENTITY subscibeRSS.label "Διαχείριση συνδρομών RSS">
-<!ENTITY subscribeImapFolders.label "Διαχείριση συνδρομών φακέλων">
-<!ENTITY subscribeNewsLink.label "Διαχείριση ομάδων συζήτησης">
+<!ENTITY feedsSectionHdr.label "Αρχεία ροής">
+<!ENTITY subscribeFeeds.label "Διαχείριση συνδρομών">

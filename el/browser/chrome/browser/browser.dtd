@@ -2,15 +2,15 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Ιδιωτική περιήγηση)">
 
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+
 
 
 
 <!ENTITY closeWindow.accesskey "θ">
 <!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου...">
 <!ENTITY printFrameCmd.accesskey      "λ">
-<!ENTITY fullZoomEnlargeCmd.label       "Μεγέθυνση">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "θ">
+<!ENTITY fullZoomEnlargeCmd.label       "Εστίαση">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "σ">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
@@ -24,6 +24,8 @@
 <!ENTITY fullZoom.accesskey             "γ">
 <!ENTITY editBookmark.done.label                      "Προσθήκη">
 <!ENTITY identity.moreInfoLinkText "Περισσότερα για αυτή την ιστοσελίδα...">
+<!ENTITY newTabButton.tooltip           "Άνοιγμα μιας νέας καρτέλας">
+
 
 <!ENTITY allowPopups.accesskey "ν">
 <!ENTITY backButton.tooltip "Μετάβαση μια σελίδα πίσω">
@@ -37,12 +39,18 @@
 <!ENTITY blockImageCmd.accesskey "κ">
 <!ENTITY bookmarksButton.label "Σελιδοδείκτες">
 <!ENTITY bookmarksButton.tooltip "Εμφανίζει τους σελιδοδείκτες σας">
+<!ENTITY bookmarksButton.accesskey  "σ">
+<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+
 <!ENTITY bookmarksItem.title "Σελιδοδείκτες">
 <!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
-<!ENTITY bookmarksSidebarCmd.accesskey "λ">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+
+
 <!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
 <!ENTITY closeCmd.accesskey "Κ">
 <!ENTITY closeCmd.key "W">
@@ -119,8 +127,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
 
-<!ENTITY metadataCmd.accesskey "δ">
-<!ENTITY metadataCmd.label "Ιδιότητες">
+
 <!ENTITY navbarCmd.accesskey "γ">
 <!ENTITY navbarCmd.label "Εργαλειοθήκη πλοήγησης">
 
@@ -181,7 +188,6 @@
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printSetupCmd.accesskey "μ">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
-<!ENTITY feedButton.tooltip           "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY quitApplicationCmd.accesskey "ξ">
 <!ENTITY quitApplicationCmd.label "Έξοδος">
 <!ENTITY quitApplicationCmdWin.accesskey "ξ">
@@ -322,10 +328,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY showAllHistoryCmd2.label "Προβολή ιστορικού">
 
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 
 
@@ -337,8 +346,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY copyLinkTextCmd.label        "Αντιγραφή κειμένου δεσμού">
-<!ENTITY copyLinkTextCmd.accesskey    "μ">
 
 
 
@@ -378,7 +385,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Κλικ για το άνοιγμα του παραθύρου λήψεων">
 
-<!ENTITY urlbar.emptyText             "Αναζήτηση σελιδοδεικτών και ιστορικού">
+
 
 <!ENTITY identity.unverifiedsite2 "Αυτή η σελίδα δεν παρέχει πληροφορίες ταυτότητας της.">
 
@@ -430,13 +437,83 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY urlbar.none.emptyText        "Πληκτρολογήστε μια διεύθυνση">
+
+
+<!ENTITY urlbar.bookmarkhistory.emptyText "Αναζήτηση σελιδοδεικτών και ιστορικού">
+
+
+<!ENTITY urlbar.bookmark.emptyText    "Αναζήτηση σελιδοδεικτών">
+<!ENTITY urlbar.history.emptyText     "Αναζήτηση ιστορικού">
 
 
 
-
-<!ENTITY ctrlTab.search.emptyText "Αναζήτηση καρτελών">
-
-<!ENTITY clearRecentHistoryCmd.label            "Εκκαθάριση ιστορικού">
-<!ENTITY clearRecentHistoryCmd.accesskey        "θ">
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
+
+<!ENTITY allTabs.filter.emptyText "Αναζήτηση καρτελών">
+<!ENTITY feedButton.tooltip           "Συνδρομή σε αυτή τη σελίδα…">
+<!ENTITY fullScreenButton.tooltip       "Προβολή του παραθύρου σε πλήρη οθόνη">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.accesskey "θ">
+<!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
+<!ENTITY showAllTabsCmd.accesskey "λ">
+
+<!ENTITY viewImageInfoCmd.label       "Προβολή πληροφοριών εικόνας">
+
+<!ENTITY urlbar.switchToTab.label     "Μετάβαση σε καρτέλα:">
+<!ENTITY viewImageInfoCmd.accesskey   "φ">
+
+<!ENTITY  bookmarkAllTabs.label              "Όλες οι καρτέλες σε σελιδοδείκτη…">
+<!ENTITY  bookmarkAllTabs.accesskey          "τ">
+
+<!ENTITY  bookmarkThisTab.label              "Προσθήκη καρτέλας στους σελιδοδείκτες">
+<!ENTITY  bookmarkThisTab.accesskey          "ρ">
+
+<!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατους ιστορικού…">
+<!ENTITY clearRecentHistory.accesskey           "ι">
+
+<!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
+<!ENTITY  closeOtherTabs.accesskey           "ω">
+
+<!ENTITY  closeTab.label                     "Κλείσιμο καρτέλας">
+<!ENTITY  closeTab.accesskey                 "Κ">
+
+<!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
+
+<!ENTITY inspectMenu.label            "Έλεγχος">
+<!ENTITY inspectMenu.accesskey        "χ">
+<!ENTITY inspectMenu.commandkey       "I">
+
+
+<!ENTITY  listAllTabs.label      "Όλες οι καρτέλες σε λίστα">
+
+<!ENTITY  newTab.label                       "Νέα καρτέλα">
+<!ENTITY  newTab.accesskey                   "Ν">
+
+<!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
+<!ENTITY openLinkCmdInCurrent.accesskey "ο">
+<!ENTITY  openTabInNewWindow.label           "Άνοιγμα σε νέο παράθυρο">
+<!ENTITY  openTabInNewWindow.accesskey       "π">
+
+<!ENTITY  reloadAllTabs.label                "Ανανέωση όλων των καρτελών">
+<!ENTITY  reloadAllTabs.accesskey            "λ">
+<!ENTITY  reloadTab.label                    "Ανανέωση καρτέλας">
+<!ENTITY  reloadTab.accesskey                "Α">
+
+<!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
+<!ENTITY showAllTabsCmd.accesskey "λ">
+
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
+
+<!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
+<!ENTITY  undoCloseTab.accesskey             "ν">
+
+<!ENTITY videoFullScreen.label       "Πλήρης οθόνη">
+<!ENTITY videoFullScreen.accesskey   "Π">
+
+<!ENTITY viewTabsOnTop.label            "Καρτέλες στο πάνω μέρος">
+<!ENTITY viewTabsOnTop.accesskey        "π">

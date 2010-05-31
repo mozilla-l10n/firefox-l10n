@@ -2,7 +2,8 @@
 <!ENTITY chooseFile.label "Επιλογή αρχείου...">
 <!ENTITY enter.label "Εισάγετε τη διεύθυνση URL, ή καθορίστε το τοπικό αρχείο που θέλετε να ανοίξετε:">
 <!ENTITY newTab.label "Νέα καρτέλα">
+<!ENTITY topTab.label "Τρέχουσα καρτέλα">
 <!ENTITY newWindow.label "Νέο παράθυρο">
 <!ENTITY openBtn.label "Άνοιγμα">
 <!ENTITY openWhere.label "Άνοιγμα σε:">
-<!ENTITY topWindow.label "Τρέχον παράθυρο">
+

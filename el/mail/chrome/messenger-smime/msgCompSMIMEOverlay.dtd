@@ -1,16 +1,10 @@
-<!ENTITY menu_securityEncryptIfPossible.accesskey "Κ">
-<!ENTITY menu_securityEncryptIfPossible.label "Κρυπτογράφηση αν είναι δυνατόν">
-<!ENTITY menu_securityEncryptRequire.accesskey "γ">
 <!ENTITY menu_securityEncryptRequire.label "Kρυπτογράφηση του μηνύματος">
-<!ENTITY menu_securityNoEncryption.accesskey "">
-<!ENTITY menu_securityNoEncryption.label "Χωρίς κρυπτογράφηση ">
-<!ENTITY menu_securitySign.accesskey "ψ">
+<!ENTITY menu_securityEncryptRequire.accesskey "γ">
 <!ENTITY menu_securitySign.label "Ψηφιακή υπογραφή του μηνύματος">
-<!ENTITY menu_securityStatus.accesskey "λ">
+<!ENTITY menu_securitySign.accesskey "Ψ">
 <!ENTITY menu_securityStatus.label "Προβολή πληροφοριών ασφάλειας">
-<!ENTITY menu_viewSecurityStatus.accesskey "φ">
-<!ENTITY menu_viewSecurityStatus.label "Πληροφορίες ασφάλειας μηνύματος">
+<!ENTITY menu_securityStatus.accesskey "λ">
 <!ENTITY securityButton.label "Ασφάλεια">
 <!ENTITY securityButton.tooltip "Προβολή ή αλλαγή ρυθμίσεων ασφαλείας.">
-<!ENTITY securityMenu.accesskey "φ">
-<!ENTITY securityMenu.label "Ασφάλεια">
+<!ENTITY menu_viewSecurityStatus.label "Πληροφορίες ασφάλειας μηνύματος">
+<!ENTITY menu_viewSecurityStatus.accesskey "φ">

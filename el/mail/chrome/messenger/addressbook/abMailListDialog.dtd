@@ -1,13 +1,13 @@
-<!ENTITY AddressTitle.label "Εισάγετε διευθύνσεις για να τις προσθέσετε στην  λίστα αλληλογραφίας:">
-<!ENTITY DownButton.label "Προς τα κάτω">
-<!ENTITY ListDescription.accesskey "ε">
-<!ENTITY ListDescription.label "Περιγραφή:">
-<!ENTITY ListName.accesskey "Λ">
-<!ENTITY ListName.label "Όνομα Λίστας:">
-<!ENTITY ListNickName.accesskey "ν">
-<!ENTITY ListNickName.label "Προσωνύμιο λίστας:">
-<!ENTITY RemoveButton.label "Αφαίρεση">
-<!ENTITY UpButton.label "Προς τα πάνω">
-<!ENTITY addToAddressBook.accesskey "θ">
-<!ENTITY addToAddressBook.label "Προσθήκη σε:">
+<!--null-->
 <!ENTITY mailListWindow.title "Λίστα αλληλογραφίας">
+<!ENTITY addToAddressBook.label "Προσθήκη σε:">
+<!ENTITY ListName.label "Όνομα Λίστας:">
+<!ENTITY ListNickName.label "Προσωνύμιο λίστας:">
+<!ENTITY ListDescription.label "Περιγραφή:">
+<!ENTITY AddressTitle.label "Εισάγετε διευθύνσεις για να τις προσθέσετε στην  λίστα αλληλογραφίας:">
+<!ENTITY UpButton.label "Προς τα πάνω">
+<!ENTITY DownButton.label "Προς τα κάτω">
+<!ENTITY addToAddressBook.accesskey "θ">
+<!ENTITY ListName.accesskey "Λ">
+<!ENTITY ListNickName.accesskey "ν">
+<!ENTITY ListDescription.accesskey "ε">

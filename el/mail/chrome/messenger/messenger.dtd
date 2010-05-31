@@ -1,580 +1,755 @@
-<!ENTITY AddToAddressBook.accesskey "σ">
-<!ENTITY AddToAddressBook.label "Προσθήκη στο ευρετήριο ...">
-<!ENTITY BlockAddress.accesskey "λ">
-<!ENTITY BlockAddress.label "Μπλοκάρισμα διεύθυνσης">
-<!ENTITY CopyEmailAddress.accesskey "γ">
-<!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης Email">
-<!ENTITY CreateFilter.accesskey "Δ">
-<!ENTITY CreateFilter.label "Δημιουργία Φίλτρου από μήνυμα...">
-<!ENTITY SearchNameOrEmail.accesskey "ν">
-<!ENTITY SearchNameOrEmail.label "Τό όνομα η το Email περιέχει:">
-<!ENTITY SendMailTo.accesskey "Σ">
-<!ENTITY SendMailTo.label "Σύνταξη αλληλογραφίας σε">
-<!ENTITY aboutCmd.accesskey "Π">
-<!ENTITY aboutCmd.label "Περί &brandFullName;">
-<!ENTITY accountColumn.label "Λογαριασμός">
-<!ENTITY accountColumn.tooltip "Πατήστε για ταξινόμηση κατά λογαριασμό">
-<!ENTITY accountManagerCmd.accesskey "θ">
-<!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού...">
-<!ENTITY accountManagerCmdUnix.accesskey "θ">
-<!ENTITY addressBookButton.label "Ευρετήριο">
-<!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
-<!ENTITY addressBookCmd.accesskey "ρ">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
-<!ENTITY advancedButton.tooltip "Αναζήτηση μηνυμάτων...">
-<!ENTITY all.accesskey "λ">
-<!ENTITY all.label "Όλα">
-<!ENTITY allMsgsCmd.accesskey "α">
-<!ENTITY allMsgsCmd.label "Όλα">
-<!ENTITY attachmentColumn.label "Συνημμένα">
-<!ENTITY attachmentColumn.tooltip "Πατήστε για ταξινόμηση κατά συνημμένο">
-<!ENTITY bodyAllowHTML.accesskey "H">
-<!ENTITY bodyAllowHTML.label "Πρωτότυπο HTML">
-<!ENTITY bodyAsPlaintext.accesskey "π">
-<!ENTITY bodyAsPlaintext.label "Απλό κείμενο">
-<!ENTITY bodyMenu.accesskey "ρ">
-<!ENTITY bodyMenu.label "Κυρίως κείμενο μηνύματος ως">
-<!ENTITY bodySanitized.accesskey "L">
-<!ENTITY bodySanitized.label "Απλό HTML">
-<!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
-<!ENTITY cancelNewsMsgCmd.accesskey "κ">
-<!ENTITY cancelNewsMsgCmd.label "Ακύρωση μηνύματος">
-<!ENTITY cancelNewsMsgsCmd.accesskey "ω">
-<!ENTITY cancelNewsMsgsCmd.label "Ακύρωση επιλεγμένων μηνυμάτων">
-<!ENTITY clearButton.accesskey "κ">
-<!ENTITY clearButton.label "Εκκαθάριση">
-<!ENTITY clearButton.tooltip "Εκκαθάριση των κριτηρίων αναζήτησης και προβολή όλων των μηνυμάτων">
-<!ENTITY collapseAllThreadsCmd.accesskey "μ">
-<!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY collapseAllThreadsCmd.label "Σύμπτυξη όλων των αλληλουχιών">
-<!ENTITY columnChooser.tooltip "Πατήστε για επιλογή στηλών για προβολή">
-<!ENTITY compactFolder.accesskey "ξ">
+<!ENTITY messengerWindow.title "Αλληλογραφία">
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+<!ENTITY newFolderCmd.label "Φάκελος...">
+<!ENTITY newFolderCmd.accesskey "Φ">
+<!ENTITY closeTabCmd.label "Κλείσιμο καρτέλας">
+<!ENTITY closeTabCmd.accesskey "λ">
+<!ENTITY closeOtherTabsCmd.label "Κλείσιμο των άλλων καρτελών">
+<!ENTITY closeOtherTabsCmd.accesskey "λ">
+<!ENTITY newVirtualFolderCmd.label "Αποθηκευμένη αναζήτηση...">
+<!ENTITY newVirtualFolderCmd.accesskey "θ">
+<!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
+<!ENTITY newOtherAccountsCmd.accesskey "λ">
+<!ENTITY newEmailAccountCmd.label "Λογαριασμός αλληλογραφίας…">
+<!ENTITY newEmailAccountCmd.accesskey "φ">
+<!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
+<!ENTITY openMessageFileCmd.accesskey "ν">
+<!ENTITY openAttachmentCmd.label "Συνημμένα">
+<!ENTITY openAttachmentCmd.accesskey "Σ">
+<!ENTITY saveAsMenu.label "Αποθήκευση ως">
+<!ENTITY saveAsMenu.accesskey "θ">
+<!ENTITY saveAsFileCmd.label "Αρχείο">
+<!ENTITY saveAsFileCmd.accesskey "χ">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Πρότυπο">
+<!ENTITY saveAsTemplateCmd.accesskey "Π">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "Λήψη νέων μηνυμάτων για">
+<!ENTITY getNewMsgForCmd.accesskey "ψ">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Όλους τους λογαριασμούς">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "λ">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Τρέχοντα λογαριασμό">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Τ">
+<!ENTITY getNextNMsgCmd.label "Λήψη επόμενων 500 μηνυμάτων">
+<!ENTITY getNextNMsgCmd.accesskey "ε">
+<!ENTITY sendUnsentCmd.label "Αποστολή εκκρεμών εξερχομένων μηνυμάτων">
+<!ENTITY sendUnsentCmd.accesskey "π">
+<!ENTITY subscribeCmd.label "Εγγραφή συνδρομητή...">
+<!ENTITY subscribeCmd.accesskey "φ">
+<!ENTITY deleteFolder.label "Διαγραφή φακέλου">
+<!ENTITY deleteFolder.accesskey "Δ">
+<!ENTITY renameFolder.label "Μετονομασία φακέλου...">
+<!ENTITY renameFolder.accesskey "Μ">
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Σύμπτυξη φακέλων">
-<!ENTITY contextAddAllToAddressBook.accesskey "λ">
-<!ENTITY contextAddAllToAddressBook.label "Προσθήκη όλων στο ευρετήριο διευθύνσεων">
-<!ENTITY contextAddSenderToAddressBook.accesskey "δ">
-<!ENTITY contextAddSenderToAddressBook.label "Προσθήκη αποστολέα στο ευρετήριο διευθύνσεων">
-<!ENTITY contextCopyMsgMenu.accesskey "ι">
-<!ENTITY contextCopyMsgMenu.label "Αντιγραφή σε">
-<!ENTITY contextDelete.accesskey "γ">
-<!ENTITY contextDelete.label "Διαγραφή">
-<!ENTITY contextEditAsNew.accesskey "ω">
-<!ENTITY contextEditAsNew.label "Τροποποίηση ως νέου...">
-<!ENTITY contextForward.accesskey "θ">
-<!ENTITY contextForward.label "Προώθηση">
-<!ENTITY contextForwardAsAttachment.accesskey "σ">
-<!ENTITY contextForwardAsAttachment.label "Προώθηση ως συνημμένα">
-<!ENTITY contextMoveMsgMenu.accesskey "Μ">
-<!ENTITY contextMoveMsgMenu.label "Μετακίνηση σε">
-<!ENTITY contextOpenNewWindow.accesskey "ν">
-<!ENTITY contextOpenNewWindow.label "Άνοιγμα μηνύματος σε νέο παράθυρο">
-<!ENTITY contextPrint.accesskey "π">
-<!ENTITY contextPrint.label "Εκτύπωση...">
-<!ENTITY contextPrintPreview.label "Προεπισκόπηση εκτύπωσης">
-<!ENTITY contextReplyAll.accesskey "υ">
-<!ENTITY contextReplyAll.label "Απάντηση σε όλους">
-<!ENTITY contextReplyNewsgroup.accesskey "ζ">
-<!ENTITY contextReplyNewsgroup.label "Απάντηση στην ομάδα συζήτησης">
-<!ENTITY contextReplySender.accesskey "ο">
-<!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
-<!ENTITY contextSaveAs.accesskey "σ">
-<!ENTITY contextSaveAs.label "Αποθήκευση ως...">
-<!ENTITY copyHereMenu.accesskey "γ">
-<!ENTITY copyHereMenu.label "Αντιγραφή εδώ">
-<!ENTITY copyMessageLocation.accesskey "τ">
-<!ENTITY copyMessageLocation.label "Αντιγραφή τοποθεσίας μηνύματος">
-<!ENTITY copyMsgMenu.accesskey "ι">
-<!ENTITY copyMsgMenu.label "Αντιγραφή">
-<!ENTITY createFilter.accesskey "φ">
-<!ENTITY createFilter.label "Δημιουργία Φίλτρου από μήνυμα...">
-<!ENTITY customizeToolbar.accesskey "Π">
-<!ENTITY customizeToolbar.label "Προσαρμογή...">
-<!ENTITY dateColumn.label "Ημερομηνία">
-<!ENTITY dateColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία">
-<!ENTITY deleteButton.label "Διαγραφή">
-<!ENTITY deleteButton.tooltip "Διαγραφή επιλεγμένου μηνύματος ή φακέλου">
-<!ENTITY deleteFolderCmd.accesskey "Δ">
-<!ENTITY deleteFolderCmd.label "Διαγραφή φακέλου">
-<!ENTITY deleteJunk.accesskey "ι">
-<!ENTITY deleteJunk.label "Διαγραφή σημειωμένου μηνύματος ως ανεπιθύμητο στο φάκελο">
-<!ENTITY deleteMsgCmd.accesskey "φ">
-<!ENTITY deleteMsgCmd.label "Διαγραφή μηνύματος">
-<!ENTITY deleteMsgsCmd.accesskey "γ">
-<!ENTITY deleteMsgsCmd.label "Διαγραφή επιλεγμένων μηνυμάτων">
-<!ENTITY editDraftCmd.accesskey "σ">
-<!ENTITY editDraftCmd.label "Επεξεργασία προσχεδίου">
-<!ENTITY editMsgAsNewCmd.accesskey "ν">
-<!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY editMsgAsNewCmd.label "Τροποποίηση μηνύματος ως νέου">
-<!ENTITY emptyTrashCmd.accesskey "δ">
+<!ENTITY compactFolders.accesskey "φ">
 <!ENTITY emptyTrashCmd.label "Άδειασμα κάδου">
-<!ENTITY expandAllThreadsCmd.accesskey "π">
-<!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY expandAllThreadsCmd.label "Ανάπτυξη όλων των αλληλουχιών">
-<!ENTITY expandOrCollapseMenu.accesskey "μ">
-<!ENTITY expandOrCollapseMenu.label "Ανάπτυξη/Σύμπτυξη">
-<!ENTITY fileButton.label "Αρχείο">
-<!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
-<!ENTITY fileHereMenu.accesskey "κ">
-<!ENTITY fileHereMenu.label "Αποθήκευση εδώ">
-<!ENTITY filtersApply.accesskey "κ">
-<!ENTITY filtersApply.label "Εκτέλεση φίλτρων στον  φάκελο">
-<!ENTITY filtersCmd.accesskey "Φ">
-<!ENTITY filtersCmd.label "Φίλτρα μηνυμάτων...">
-<!ENTITY findAgainCmd.accesskey "ξ">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.label "Εύρεση ξανά">
-<!ENTITY findCmd.accesskey "σ">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.label "Εύρεση σε αυτό το μήνυμα...">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY flagColumn.label "Σημαία">
-<!ENTITY flagColumn.tooltip "Πατήστε για ταξινόμηση κατά σημαία">
-<!ENTITY folderColumn.label "Name">
-<!ENTITY folderContextCompact.accesskey "Σ">
-<!ENTITY folderContextCompact.label "Σύμπτυξη επιλεγμένου φακέλου">
-<!ENTITY folderContextCopyLocation.accesskey "ι">
-<!ENTITY folderContextCopyLocation.label "Αντιγραφή τοποθεσίας φακέλου">
-<!ENTITY folderContextEmptyTrash.accesskey "μ">
-<!ENTITY folderContextEmptyTrash.label "Άδειασμα κάδου">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "κ">
-<!ENTITY folderContextMarkMailFolderRead.label "Σημείωση φακέλου ως αναγνωσμένου">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "γ">
-<!ENTITY folderContextMarkNewsgroupRead.label "Σημείωση ομάδας συζήτησης ως αναγνωσμένης">
-<!ENTITY folderContextProperties.accesskey "δ">
-<!ENTITY folderContextProperties.label "Ιδιότητες...">
-<!ENTITY folderContextRemove.accesskey "φ">
-<!ENTITY folderContextRemove.label "Διαγραφή">
-<!ENTITY folderContextRename.accesskey "τ">
-<!ENTITY folderContextRename.label "Μετονομασία">
-<!ENTITY folderContextSearchMessages.accesskey "ζ">
-<!ENTITY folderContextSearchMessages.label "Αναζήτηση μηνυμάτων...">
-<!ENTITY folderContextSendUnsentMessages.accesskey "κ">
-<!ENTITY folderContextSendUnsentMessages.label "Αποστολή εκκρεμών μηνυμάτων...">
-<!ENTITY folderContextSubscribe.accesskey "γ">
-<!ENTITY folderContextSubscribe.label "Εγγραφή συνδρομητή...">
-<!ENTITY folderContextUnsubscribe.accesskey "χ">
-<!ENTITY folderContextUnsubscribe.label "Αποχώρηση συνδρομητή">
-<!ENTITY folderPropsCmd.accesskey "δ">
+<!ENTITY emptyTrashCmd.accesskey "δ">
+<!ENTITY offlineMenu.label "Χωρίς σύνδεση">
+<!ENTITY offlineMenu.accesskey "χ">
+<!ENTITY offlineGoOfflineCmd.label "Εργασία χωρίς σύνδεση">
+<!ENTITY offlineGoOfflineCmd.accesskey "χ">
+<!ENTITY synchronizeOfflineCmd.label "Λήψη/Συγχρονισμός τώρα...">
+<!ENTITY synchronizeOfflineCmd.accesskey "σ">
+<!ENTITY settingsOfflineCmd.label "Ρυθμίσεις εργασίας χωρίς σύνδεση">
+<!ENTITY settingsOfflineCmd.accesskey "θ">
+<!ENTITY downloadSelectedCmd.label "Λήψη επιλεγμένων μηνυμάτων">
+<!ENTITY downloadSelectedCmd.accesskey "λ">
+<!ENTITY downloadStarredCmd.label "Λήψη μηνυμάτων με αστέρι">
+<!ENTITY downloadStarredCmd.accesskey "α">
+<!ENTITY printCmd.label "Εκτύπωση...">
+<!ENTITY printCmd.accesskey "Ε">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
+<!ENTITY printPreviewCmd.accesskey "π">
+<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
+<!ENTITY printSetupCmd.accesskey "μ">
+<!ENTITY deleteMsgCmd.label "Διαγραφή μηνύματος">
+<!ENTITY deleteMsgCmd.accesskey "φ">
+<!ENTITY undeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
+<!ENTITY undeleteMsgCmd.accesskey "ν">
+<!ENTITY cancelNewsMsgCmd.label "Ακύρωση μηνύματος">
+<!ENTITY cancelNewsMsgCmd.accesskey "κ">
+<!ENTITY deleteMsgsCmd.label "Διαγραφή επιλεγμένων μηνυμάτων">
+<!ENTITY deleteMsgsCmd.accesskey "γ">
+<!ENTITY undeleteMsgsCmd.label "Αναίρεση διαγραφής επιλεγμένων μηνυμάτων">
+<!ENTITY undeleteMsgsCmd.accesskey "λ">
+<!ENTITY cancelNewsMsgsCmd.label "Ακύρωση επιλεγμένων μηνυμάτων">
+<!ENTITY cancelNewsMsgsCmd.accesskey "ω">
+<!ENTITY deleteFolderCmd.label "Διαγραφή φακέλου">
+<!ENTITY deleteFolderCmd.accesskey "Δ">
+<!ENTITY unsubscribeNewsgroupCmd.label "Αποχώρηση συνδρομητή">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "ρ">
+<!ENTITY selectMenu.label "Επιλογή">
+<!ENTITY selectMenu.accesskey "λ">
+<!ENTITY all.label "Όλα">
+<!ENTITY all.accesskey "λ">
+<!ENTITY selectThreadCmd.label "Αλληλουχία">
+<!ENTITY selectThreadCmd.accesskey "χ">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Μηνύματα με αστέρι">
+<!ENTITY selectFlaggedCmd.accesskey "σ">
+<!ENTITY menuFavoriteFolder.label "Αγαπημένος φάκελος">
+<!ENTITY menuFavoriteFolder.accesskey "Α">
 <!ENTITY folderPropsCmd.label "Ιδιότητες...">
 <!ENTITY folderPropsFolderCmd.label "Ιδιότητες φακέλου...">
 <!ENTITY folderPropsNewsgroupCmd.label "Ιδιότητες ομάδας συζήτησης...">
-<!ENTITY folderSizeColumn.label "Μέγεθος">
-<!ENTITY forwardAsAttachmentCmd.accesskey "μ">
-<!ENTITY forwardAsAttachmentCmd.label "Συνημμένο">
-<!ENTITY forwardAsInline.accesskey "τ">
-<!ENTITY forwardAsInline.label "Ως αντικείμενο μέσα στο μήνυμα">
-<!ENTITY forwardAsMenu.accesskey "θ">
-<!ENTITY forwardAsMenu.label "Προώθηση Ως">
-<!ENTITY forwardButton.label "Προώθηση">
-<!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
-<!ENTITY forwardMsgCmd.accesskey "ο">
-<!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardMsgCmd.label "Προώθηση">
-<!ENTITY getAllNewMsgCmd.key "t">
-<!ENTITY getAllNewMsgCmd.label "Λήψη όλων των νέων μηνυμάτων">
-<!ENTITY getMsgButton.label "Λήψη">
-<!ENTITY getMsgButton.tooltip "Λήψη νέων μηνυμάτων">
-<!ENTITY getNewMsgCmd.accesskey "Λ">
-<!ENTITY getNewMsgCmd.key "t">
-<!ENTITY getNewMsgCmd.label "Λήψη νέων μηνυμάτων">
-<!ENTITY getNewMsgForCmd.accesskey "ψ">
-<!ENTITY getNewMsgForCmd.label "Λήψη νέων μηνυμάτων για">
-<!ENTITY getNextNMsgCmd.accesskey "ε">
-<!ENTITY getNextNMsgCmd.label "Λήψη επόμενων 500 μηνυμάτων">
-<!ENTITY goMenu.accesskey "σ">
-<!ENTITY goMenu.label "Μετάβαση">
-<!ENTITY groupBySort.accesskey "δ">
-<!ENTITY groupBySort.label "Ομαδοποιημένα κατά ταξινόμηση">
-<!ENTITY groupBySortCmd.key "G">
-<!ENTITY headersAllCmd.accesskey "λ">
-<!ENTITY headersAllCmd.label "Όλες">
-<!ENTITY headersMenu.accesskey "φ">
-<!ENTITY headersMenu.label "Κεφαλίδες">
-<!ENTITY headersNormalCmd.accesskey "ν">
-<!ENTITY headersNormalCmd.label "Κανονικές">
-<!ENTITY helpMenu.accesskey "Β">
-<!ENTITY helpMenu.label "Βοήθεια">
-<!ENTITY hintsAndTips.accesskey "Β">
-<!ENTITY hintsAndTips.label "Βοήθεια &brandFullName;">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY idColumn.label "Σειρά παραλαβής">
-<!ENTITY idColumn.tooltip "Πατήστε για ταξινόμηση κατά σειρά παραλαβής">
-<!ENTITY ignoredThreadsCmd.accesskey "γ">
-<!ENTITY ignoredThreadsCmd.label "Να αγνοούνται οι αλληλουχίες">
-<!ENTITY importCmd.accesskey "γ">
-<!ENTITY importCmd.label "Εισαγωγή...">
-<!ENTITY javaScriptConsoleCmd.accesskey "Κ">
-<!ENTITY javaScriptConsoleCmd.label "Κονσόλα JavaScript">
-<!ENTITY junkBarMessage.label "Ο &brandShortName; θεωρεί ότι αυτό το μήνυμα είναι ανεπιθύμητο">
-<!ENTITY junkButton.label "Ανεπιθύμητα">
-<!ENTITY junkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως ανεπιθύμητα">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY junkMailCmd.accesskey "θ">
-<!ENTITY junkMailCmd.label "Έλεγχοι ανεπιθύμητης αλληλογραφίας...">
-<!ENTITY junkStatusColumn.label "Κατάσταση σκουπιδιών">
-<!ENTITY junkStatusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση ανεπιθύμητων">
-<!ENTITY killThreadMenu.accesskey "β">
-<!ENTITY killThreadMenu.key "k">
-<!ENTITY killThreadMenu.label "Παράβλεψη αλληλουχίας">
-<!ENTITY labelCmd0.accesskey "">
-<!ENTITY labelCmd0.key "0">
-<!ENTITY labelCmd1.accesskey "1">
-<!ENTITY labelCmd1.key "1">
-<!ENTITY labelCmd1.label "1">
-<!ENTITY labelCmd2.accesskey "2">
-<!ENTITY labelCmd2.key "2">
-<!ENTITY labelCmd2.label "2">
-<!ENTITY labelCmd3.accesskey "3">
-<!ENTITY labelCmd3.key "3">
-<!ENTITY labelCmd3.label "3">
-<!ENTITY labelCmd4.accesskey "4">
-<!ENTITY labelCmd4.key "4">
-<!ENTITY labelCmd4.label "4">
-<!ENTITY labelCmd5.accesskey "5">
-<!ENTITY labelCmd5.key "5">
-<!ENTITY labelCmd5.label "5">
-<!ENTITY labelColumn.label "Ετικέτα">
-<!ENTITY labelColumn.tooltip "Πατήστε για ταξινόμηση κατά ετικέτα">
-<!ENTITY labelMenu.accesskey "τ">
-<!ENTITY labelMenu.label "Ετικέτα">
-<!ENTITY linesColumn.label "Γραμμές">
-<!ENTITY loadFirstDraft.label "Φόρτωση πρώτου προσχεδίου">
-<!ENTITY loadRemoteContentButton.label "Προβολή εικόνων">
-<!ENTITY locationColumn.label "Τοποθεσία">
-<!ENTITY locationColumn.tooltip "Πατήστε για ταξινόμηση κατά τοποθεσία">
-<!ENTITY markAllReadCmd.accesskey "γ">
-<!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmd.label "Όλων ως αναγνωσμένων">
-<!ENTITY markAsJunkCmd.accesskey "ν">
-<!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητη αλληλογραφία">
-<!ENTITY markAsNotJunkCmd.accesskey "θ">
-<!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ως επιθυμητή αλληλογραφία">
-<!ENTITY markAsReadCmd.accesskey "σ">
-<!ENTITY markAsReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Ως αναγνωσμένα">
-<!ENTITY markAsUnreadCmd.accesskey "μ">
-<!ENTITY markAsUnreadCmd.label "Ως μη αναγνωσμένα">
-<!ENTITY markButton.label "Σημείωση">
-<!ENTITY markButton.tooltip "Σημείωση μηνυμάτων">
-<!ENTITY markFlaggedCmd.accesskey "σ">
-<!ENTITY markFlaggedCmd.label "Σημαία">
-<!ENTITY markMenu.accesskey "μ">
-<!ENTITY markMenu.label "Σημείωση">
-<!ENTITY markReadByDateCmd.accesskey "μ">
-<!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία...">
-<!ENTITY markThreadAsReadCmd.accesskey "η">
-<!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markThreadAsReadCmd.label "Αλληλουχίας ως αναγνωσμένης">
-<!ENTITY messagePaneClassic.accesskey "Κ">
-<!ENTITY messagePaneClassic.label "Κλασσική προβολή">
-<!ENTITY messagePaneLayoutStyle.accesskey "Δ">
-<!ENTITY messagePaneLayoutStyle.label "Διάταξη">
-<!ENTITY messagePaneVertical.accesskey "θ">
-<!ENTITY messagePaneVertical.label "Κάθετη προβολή">
-<!ENTITY messagePaneWide.accesskey "π">
-<!ENTITY messagePaneWide.label "Προβολή σε πλάτος">
-<!ENTITY messengerCmd.accesskey "m">
-<!ENTITY messengerCmd.commandkey "1">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; Συζητήσεις">
-<!ENTITY messengerWindow.title "Αλληλογραφία">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Ελαχιστοποίηση παραθύρου">
-<!ENTITY moveMsgMenu.accesskey "Μ">
-<!ENTITY moveMsgMenu.label "Μετακίνηση">
-<!ENTITY msgMenu.accesskey "Μ">
-<!ENTITY msgMenu.label "Μήνυμα">
-<!ENTITY msgsMenu.accesskey "ν">
-<!ENTITY msgsMenu.label "Μηνύματα">
-<!ENTITY newAccountCmd.accesskey "Λ">
-<!ENTITY newAccountCmd.label "Λογαριασμός...">
-<!ENTITY newFolderCmd.accesskey "Φ">
-<!ENTITY newFolderCmd.label "Φάκελος...">
-<!ENTITY newMsgButton.label "Σύνταξη">
-<!ENTITY newMsgButton.tooltip "Δημιουργία νέου μηνύματος">
-<!ENTITY newMsgCmd.accesskey "">
-<!ENTITY newMsgCmd.label "Νέο Μήνυμα">
-<!ENTITY newNewMsgCmd.accesskey "">
-<!ENTITY newNewMsgCmd.label "Μήνυμα">
-<!ENTITY newVirtualFolderCmd.accesskey "θ">
-<!ENTITY newVirtualFolderCmd.label "Αποθηκευμένη αναζήτηση...">
-<!ENTITY nextButton.label "Επόμενο">
-<!ENTITY nextButton.tooltip "Μετάβαση στο επόμενο μη αναγνωσμένο μήνυμα">
-<!ENTITY nextFlaggedMsgCmd.accesskey "">
-<!ENTITY nextFlaggedMsgCmd.label "Μήνυμα με σημαία">
-<!ENTITY nextMenu.accesskey "ν">
-<!ENTITY nextMenu.label "Επόμενο">
-<!ENTITY nextMsgCmd.accesskey "">
-<!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextMsgCmd.label "Μήνυμα">
-<!ENTITY nextUnflaggedMsgCmd.label "Μήνυμα χωρίς σημαία">
-<!ENTITY nextUnreadMsgCmd.accesskey "">
-<!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
-<!ENTITY nextUnreadThread.label "Μη αναγνωσμένη αλληλουχία">
-<!ENTITY nextUnreadThreadCmd.accesskey "χ">
-<!ENTITY nextUnreadThreadCmd.key "t">
-<!ENTITY notJunkButton.label "Επιθυμητά">
-<!ENTITY notJunkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως επιθυμητή αλληλογραφία">
-<!ENTITY openAttachmentCmd.accesskey "Σ">
-<!ENTITY openAttachmentCmd.label "Συνημμένα">
-<!ENTITY openMessageFileCmd.accesskey "ν">
-<!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
-<!ENTITY openMessageMenu.label "Άνοιγμα">
-<!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
-<!ENTITY openMessageWindowCmd.accesskey "ν">
-<!ENTITY pageSourceCmd.key "u">
-<!ENTITY pageSourceCmd.label "Kώδικας μηνύματος">
-<!ENTITY pageSourceCmd.accesskey "κ">
-<!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
-<!ENTITY prevFlaggedMsgCmd.label "Μήνυμα με σημαία">
-<!ENTITY prevMenu.accesskey "">
-<!ENTITY prevMenu.label "Προηγούμενο">
-<!ENTITY prevMsgCmd.accesskey "">
-<!ENTITY prevMsgCmd.label "Μήνυμα">
-<!ENTITY prevUnreadMsgCmd.accesskey "">
-<!ENTITY prevUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
-<!ENTITY previousButton.label "Προηγούμενο">
-<!ENTITY previousButton.tooltip "Μετάβαση στο προγούμενο μη αναγνωσμένο">
-<!ENTITY previousFlaggedMsgCmd.accesskey "">
-<!ENTITY previousMsgCmd.accesskey "">
-<!ENTITY previousMsgCmd.key "b">
-<!ENTITY previousUnreadMsgCmd.accesskey "μ">
-<!ENTITY previousUnreadMsgCmd.key "p">
-<!ENTITY printButton.label "Εκτύπωση">
-<!ENTITY printButton.tooltip "Εκτύπωση του μηνύματος">
-<!ENTITY printCmd.accesskey "Ε">
-<!ENTITY printCmd.key "p">
-<!ENTITY printCmd.label "Εκτύπωση...">
-<!ENTITY printPreviewCmd.accesskey "">
-<!ENTITY printPreviewCmd.key "v">
-<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
-<!ENTITY printSetupCmd.accesskey "μ">
-<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
-<!ENTITY priorityColumn.label "Προτεραιότητα">
-<!ENTITY priorityColumn.tooltip "Πατήστε για ταξινόμηση κατά προτεραιότητα">
-<!ENTITY quickSearchCmd.key "k">
-<!ENTITY readColumn.label "Αναγνωσμένα">
-<!ENTITY readColumn.tooltip "Πατήστε για ταξινόμηση κατά αναγνωσμένο">
-<!ENTITY recalculateJunkScoreCmd.accesskey "κ">
-<!ENTITY recalculateJunkScoreCmd.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας">
-<!ENTITY recipientColumn.label "Παραλήπτης">
-<!ENTITY recipientColumn.tooltip "Πατήστε για ταξινόμηση κατά παραλήπτη">
-<!ENTITY redoCopyMsgCmd.label "Ακύρωση αναίρεσης αντιγραφής μηνύματος">
-<!ENTITY redoDefaultCmd.accesskey "κ">
-<!ENTITY redoDefaultCmd.label "Ακύρωση αναίρεσης">
-<!ENTITY redoDeleteMsgCmd.label "Ακύρωση αναίρεσης διαγραφής μηνύματος">
-<!ENTITY redoMoveMsgCmd.label "Ακύρωση αναίρεσης μεταφοράς μηνύματος">
-<!ENTITY releaseCmd.accesskey "δ">
-<!ENTITY releaseCmd.label "Σημειώσεις έκδοσης">
-<!ENTITY reloadCmd.accesskey "ν">
-<!ENTITY reloadCmd.label "Ανανέωση">
-<!ENTITY remoteContentMessage.label "Για την προστασία του απορρήτου σας, ο &brandShortName; έκανε φραγή των απομακρυσμένων εικόνων σε αυτό το μήνυμα.">
-<!ENTITY removePhishingBarButton.label "Δεν είναι απάτη">
-<!ENTITY renameFolder.accesskey "Μ">
-<!ENTITY renameFolder.key "VK_F2">
-<!ENTITY renameFolder.label "Μετονομασία φακέλου...">
-<!ENTITY replyAllButton.label "Απ. σε όλους">
-<!ENTITY replyAllButton.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
-<!ENTITY replyButton.label "Απάντηση">
-<!ENTITY replyButton.tooltip "Απάντηση στο μήνυμα">
-<!ENTITY replyMsgCmd.accesskey "">
-<!ENTITY replyMsgCmd.key "r">
-<!ENTITY replyMsgCmd.label "Απάντηση">
-<!ENTITY replyNewsgroupCmd.accesskey "">
-<!ENTITY replyNewsgroupCmd.label "Απάντηση στην ομάδα συζήτησης">
-<!ENTITY replySenderCmd.accesskey "π">
-<!ENTITY replySenderCmd.label "Απάντηση μόνο στον αποστολέα">
-<!ENTITY replyToAllMsgCmd.accesskey "">
-<!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToAllMsgCmd.label "Απάντηση σε όλους">
-<!ENTITY runJunkControls.accesskey "">
-<!ENTITY runJunkControls.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας στα επιλεγμένα μηνύματα">
-<!ENTITY saveAsFileCmd.accesskey "χ">
-<!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsFileCmd.label "Αρχείο">
-<!ENTITY saveAsMenu.accesskey "θ">
-<!ENTITY saveAsMenu.label "Αποθήκευση ως">
-<!ENTITY saveAsTemplateCmd.accesskey "Π">
-<!ENTITY saveAsTemplateCmd.label "Πρότυπο">
-<!ENTITY saveAsVirtualFolderMenu.label "Αποθήκευση αναζήτησης ως φάκελος...">
-<!ENTITY searchAddressesCmd.accesskey "ζ">
-<!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων">
-<!ENTITY searchMailCmd.accesskey "μ">
-<!ENTITY searchMailCmd.key "f">
-<!ENTITY searchMailCmd.label "Αναζήτηση Μηνυμάτων...">
-<!ENTITY searchMenu.accesskey "">
-<!ENTITY searchMenu.label "Αναζήτηση">
-<!ENTITY searchMessageBody.label "Ολόκληρο μήνυμα">
-<!ENTITY searchSenderMenu.label "Αποστολέας">
-<!ENTITY searchSubjectMenu.label "Θέμα">
-<!ENTITY searchSubjectOrSenderMenu.label "Θέμα ή αποστολέας">
-<!ENTITY selectMenu.accesskey "λ">
-<!ENTITY selectMenu.label "Επιλογή">
-<!ENTITY selectThreadCmd.accesskey "χ">
-<!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectThreadCmd.label "Αλληλουχία">
-<!ENTITY sendUnsentCmd.accesskey "π">
-<!ENTITY sendUnsentCmd.label "Αποστολή εκκρεμών εξερχομένων μηνυμάτων">
-<!ENTITY senderColumn.label "Αποστολέας">
-<!ENTITY senderColumn.tooltip "Πατήστε για ταξινόμηση κατά αποστολέα">
-<!ENTITY showMessageCmd.accesskey "">
-<!ENTITY showMessageCmd.label "Περιοχή μηνύματος">
-<!ENTITY showMessengerToolbarCmd.accesskey "">
-<!ENTITY showMessengerToolbarCmd.label "Εργαλειοθήκη αλληλογραφίας">
-<!ENTITY sizeColumn.label "Μέγεθος">
-<!ENTITY sizeColumn.tooltip "Πατήστε για ταξινόμηση κατά μέγεθος">
-<!ENTITY sortAscending.accesskey "">
-<!ENTITY sortAscending.label "Σε αύξουσα σειρά">
-<!ENTITY sortByAttachmentsCmd.accesskey "υ">
-<!ENTITY sortByAttachmentsCmd.label "Συνημμένα">
-<!ENTITY sortByDateCmd.accesskey "μ">
-<!ENTITY sortByDateCmd.label "Ημερομηνία">
-<!ENTITY sortByFlagCmd.accesskey "">
-<!ENTITY sortByFlagCmd.label "Σημαία">
-<!ENTITY sortByJunkStatusCmd.accesskey "">
-<!ENTITY sortByJunkStatusCmd.label "Κατάσταση ανεπιθύμητης αλληλογραφίας">
-<!ENTITY sortByLabelCmd.accesskey "">
-<!ENTITY sortByLabelCmd.label "Ετικέτα">
-<!ENTITY sortByOrderReceivedCmd.accesskey "">
-<!ENTITY sortByOrderReceivedCmd.label "Κατά σειρά παραλαβής">
-<!ENTITY sortByPriorityCmd.accesskey "">
-<!ENTITY sortByPriorityCmd.label "Προτεραιότητα">
-<!ENTITY sortByRecipientCmd.accesskey "ρ">
-<!ENTITY sortByRecipientCmd.label "Παραλήπτη">
-<!ENTITY sortBySenderCmd.accesskey "σ">
-<!ENTITY sortBySenderCmd.label "Αποστολέα">
-<!ENTITY sortBySizeCmd.accesskey "">
-<!ENTITY sortBySizeCmd.label "Μέγεθος">
-<!ENTITY sortByStatusCmd.accesskey "">
-<!ENTITY sortByStatusCmd.label "Κατάσταση">
-<!ENTITY sortBySubjectCmd.accesskey "">
-<!ENTITY sortBySubjectCmd.label "Θέμα">
-<!ENTITY sortByUnreadCmd.accesskey "">
-<!ENTITY sortByUnreadCmd.label "Αναγνωσμένα">
-<!ENTITY sortDescending.accesskey "">
-<!ENTITY sortDescending.label "σε φθίνουσα σειρά">
-<!ENTITY sortMenu.accesskey "ξ">
-<!ENTITY sortMenu.label "Ταξινόμηση κατά">
-<!ENTITY sortThreaded.accesskey "λ">
-<!ENTITY sortThreaded.label "Σε αλληλουχία">
-<!ENTITY sortUnthreaded.accesskey "ρ">
-<!ENTITY sortUnthreaded.label "Χωρίς αλληλουχία">
-<!ENTITY startPageCmd.accesskey "">
-<!ENTITY startPageCmd.label "Αρχική σελίδα αλληλογραφίας">
-<!ENTITY statusColumn.label "Κατάσταση">
-<!ENTITY statusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
-<!ENTITY statusText.label "Ολοκληρώθηκε">
-<!ENTITY stopButton.label "Διακοπή">
-<!ENTITY stopButton.tooltip "Διακοπή της τρέχουσας μεταφοράς">
-<!ENTITY stopCmd.accesskey "">
-<!ENTITY stopCmd.label "Διακοπή">
-<!ENTITY subjectColumn.label "Θέμα">
-<!ENTITY subjectColumn.tooltip "Πατήστε για ταξινόμηση κατά θέμα">
-<!ENTITY subscribeCmd.accesskey "φ">
-<!ENTITY subscribeCmd.label "Εγγραφή συνδρομητή...">
-<!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY tasksMenu.label "Εργαλεία">
-<!ENTITY textSize.accesskey "θ">
-<!ENTITY textSize.label "Μέγεθος κειμένου">
-<!ENTITY textZoomEnlargeCmd.accesskey "ξ">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomEnlargeCmd.label "Αύξηση">
-<!ENTITY textZoomReduceCmd.accesskey "Μ">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomReduceCmd.label "Μείωση">
-<!ENTITY textZoomResetCmd.accesskey "ν">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Κανονικό">
-<!ENTITY threadColumn.label "Αλληλουχία">
-<!ENTITY threadColumn.tooltip "Πατήστε για εμφάνιση αλληλουχιών μηνυμάτων">
-<!ENTITY threads.accesskey "χ">
-<!ENTITY threads.label "Αλληλουχίες">
-<!ENTITY threadsWithUnreadCmd.accesskey "χ">
-<!ENTITY threadsWithUnreadCmd.label "Αλληλουχίες με μη αναγνωσμένα">
-<!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα του &vendorShortName;">
-<!ENTITY throbberItem.title "Επισήμανση ενέργειας">
-<!ENTITY titleSeparator.label " - ">
-<!ENTITY titledefault.label "&brandFullName;">
-<!ENTITY totalColumn.label "Σύνολο">
-<!ENTITY totalColumn.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
-<!ENTITY totalCountText.label " Σύνολο: ">
-<!ENTITY undeleteMsgCmd.accesskey "">
-<!ENTITY undeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
-<!ENTITY undeleteMsgsCmd.accesskey "">
-<!ENTITY undeleteMsgsCmd.label "Αναίρεση διαγραφής επιλεγμένων μηνυμάτων">
-<!ENTITY undoCopyMsgCmd.label "Αναίρεση αντιγραφής μηνύματος">
-<!ENTITY undoDefaultCmd.accesskey "ρ">
-<!ENTITY undoDefaultCmd.label "Αναίρεση">
+<!ENTITY folderPropsCmd.accesskey "δ">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
+<!ENTITY redoDeleteMsgCmd.label "Ακύρωση αναίρεσης διαγραφής μηνύματος">
 <!ENTITY undoMoveMsgCmd.label "Αναίρεση μετακίνησης μηνύματος">
-<!ENTITY unreadColumn.label "Μη αναγνωσμένα">
-<!ENTITY unreadColumn.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στην αλληλουχία">
-<!ENTITY unreadCountText.label "Μη αναγνωσμένα:">
-<!ENTITY unreadMsgsCmd.accesskey "">
-<!ENTITY unreadMsgsCmd.label "Μη αναγνωσμένα">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "">
-<!ENTITY unsubscribeNewsgroupCmd.label "Αποχώρηση συνδρομητή">
-<!ENTITY viewAll.accesskey "λ">
-<!ENTITY viewAll.label "Όλα">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "">
-<!ENTITY viewAttachmentsInlineCmd.label "Εμφάνιση συνημμένων στο κυρίως κείμενο">
-<!ENTITY viewCustomView.accesskey "ρ">
-<!ENTITY viewCustomView.label "Προσαρμογή...">
-<!ENTITY viewPicker.accesskey "λ">
-<!ENTITY viewPicker.label "Προβολή:">
-<!ENTITY viewPickerAll.label "Όλα">
-<!ENTITY viewPickerCustomView.label "Προσαρμογή...">
-<!ENTITY viewPickerSaveAsVirtualFolder.label "Αποθήκευση αναζήτησης ως Φάκελος...">
-<!ENTITY viewPickerUnread.label "Μη αναγνωσμένα">
-<!ENTITY viewUnread.accesskey "γ">
-<!ENTITY viewUnread.label "Μη αναγνωσμένα">
-<!ENTITY watchThreadMenu.accesskey "">
-<!ENTITY watchThreadMenu.key "w">
-<!ENTITY watchThreadMenu.label "Παρακολούθηση αλληλουχίας">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Επιλεγμένες αλληλουχίες με μη αναγνωσμένα">
-<!ENTITY windowMenu.accesskey "Π">
-<!ENTITY windowMenu.label "Παράθυρο">
-<!ENTITY zoomWindow.label "Μεγέθυνση">
-<!ENTITY updateCmd.accesskey  "χ">
-<!ENTITY updatesItem.title  "Ενημερώσεις">
-<!ENTITY junkBarButton.label "Δεν είναι ανεπιθ.">
-<!ENTITY updateCmd.label      "Έλεγχος για ενημερώσεις...">
-<!ENTITY searchRecipient.label "Προς ή Κοιν.">
-<!ENTITY markFlaggedCmd.key "i">
-<!ENTITY searchItem.title "Γρήγορη αναζήτηση">
-<!ENTITY mailViewsToolbarItem.title "Προβολές αλληλογραφίας">
-
-<!ENTITY menuFavoriteFolder.label "Αγαπημένος φάκελος">
-<!ENTITY menuFavoriteFolder.accesskey "Α">
+<!ENTITY redoMoveMsgCmd.label "Ακύρωση αναίρεσης μεταφοράς μηνύματος">
+<!ENTITY undoCopyMsgCmd.label "Αναίρεση αντιγραφής μηνύματος">
+<!ENTITY redoCopyMsgCmd.label "Ακύρωση αναίρεσης αντιγραφής μηνύματος">
+<!ENTITY undoMarkAllCmd.label "Αναίρεση σημείωσης όλων ως αναγνωσμένων">
+<!ENTITY redoMarkAllCmd.label "Ακύρωση αναίρεσης σημείωσης όλων ως αναγνωσμένων">
+<!ENTITY undoDefaultCmd.label "Αναίρεση">
+<!ENTITY undoDefaultCmd.accesskey "ρ">
+<!ENTITY redoDefaultCmd.label "Ακύρωση αναίρεσης">
+<!ENTITY redoDefaultCmd.accesskey "κ">
+<!ENTITY showMessengerToolbarCmd.label "Εργαλειοθήκη αλληλογραφίας">
+<!ENTITY showMessengerToolbarCmd.accesskey "ο">
+<!ENTITY customizeToolbar.label "Προσαρμογή...">
+<!ENTITY customizeToolbar.accesskey "Π">
+<!ENTITY messagePaneLayoutStyle.label "Διάταξη">
+<!ENTITY messagePaneLayoutStyle.accesskey "Δ">
+<!ENTITY messagePaneClassic.label "Κλασσική προβολή">
+<!ENTITY messagePaneClassic.accesskey "Κ">
+<!ENTITY messagePaneWide.label "Προβολή σε πλάτος">
+<!ENTITY messagePaneWide.accesskey "Π">
+<!ENTITY messagePaneVertical.label "Κάθετη προβολή">
+<!ENTITY messagePaneVertical.accesskey "θ">
+<!ENTITY showMessageCmd.label "Περιοχή μηνύματος">
+<!ENTITY showMessageCmd.accesskey "μ">
 <!ENTITY folderView.label "Φάκελοι">
 <!ENTITY folderView.accesskey "Φ">
 <!ENTITY allFolders.label "Όλοι">
 <!ENTITY allFolders.accesskey "λ">
 <!ENTITY unreadFolders.label "Μη αναγνωσμένοι">
-<!ENTITY unreadFolders.accesskey "μ">
+<!ENTITY unreadFolders.accesskey "Μ">
 <!ENTITY favoriteFolders.label "Αγαπημένοι">
 <!ENTITY favoriteFolders.accesskey "γ">
 <!ENTITY recentFolders.label "Πρόσφατοι">
 <!ENTITY recentFolders.accesskey "ρ">
-
-<!ENTITY folderContextFavoriteFolder.label "Αγαπημένος φάκελος">
-<!ENTITY folderContextFavoriteFolder.accesskey "π">
-
+<!ENTITY sortMenu.label "Ταξινόμηση κατά">
+<!ENTITY sortMenu.accesskey "ξ">
+<!ENTITY sortByDateCmd.label "Ημερομηνία">
+<!ENTITY sortByDateCmd.accesskey "μ">
+<!ENTITY sortByReceivedCmd.label "Ληφθέντα">
+<!ENTITY sortByReceivedCmd.accesskey "θ">
+<!ENTITY sortByStarCmd.label "Αστέρι">
+<!ENTITY sortByStarCmd.accesskey "σ">
+<!ENTITY sortByAttachmentsCmd.label "Συνημμένα">
+<!ENTITY sortByAttachmentsCmd.accesskey "υ">
+<!ENTITY sortByPriorityCmd.label "Προτεραιότητα">
+<!ENTITY sortByPriorityCmd.accesskey "Π">
+<!ENTITY sortBySizeCmd.label "Μέγεθος">
+<!ENTITY sortBySizeCmd.accesskey "θ">
+<!ENTITY sortByStatusCmd.label "Κατάσταση">
+<!ENTITY sortByStatusCmd.accesskey "τ">
+<!ENTITY sortByTagsCmd.label "Ετικέτες">
+<!ENTITY sortByTagsCmd.accesskey "κ">
+<!ENTITY sortByJunkStatusCmd.label "Κατάσταση ανεπιθύμητης αλληλογραφίας">
+<!ENTITY sortByJunkStatusCmd.accesskey "θ">
+<!ENTITY sortBySubjectCmd.label "Θέμα">
+<!ENTITY sortBySubjectCmd.accesskey "μ">
+<!ENTITY sortByFromCmd.label "Από">
+<!ENTITY sortByFromCmd.accesskey "π">
+<!ENTITY sortByRecipientCmd.label "Παραλήπτη">
+<!ENTITY sortByRecipientCmd.accesskey "ρ">
+<!ENTITY sortByUnreadCmd.label "Αναγνωσμένα">
+<!ENTITY sortByUnreadCmd.accesskey "γ">
+<!ENTITY sortByOrderReceivedCmd.label "Κατά σειρά παραλαβής">
+<!ENTITY sortByOrderReceivedCmd.accesskey "ε">
+<!ENTITY sortAscending.label "Σε αύξουσα σειρά">
+<!ENTITY sortAscending.accesskey "ξ">
+<!ENTITY sortDescending.label "σε φθίνουσα σειρά">
+<!ENTITY sortDescending.accesskey "θ">
+<!ENTITY sortThreaded.label "Σε αλληλουχία">
+<!ENTITY sortThreaded.accesskey "λ">
+<!ENTITY sortUnthreaded.label "Χωρίς αλληλουχία">
+<!ENTITY sortUnthreaded.accesskey "ρ">
+<!ENTITY groupBySort.label "Ομαδοποιημένα κατά ταξινόμηση">
+<!ENTITY groupBySort.accesskey "δ">
+<!ENTITY msgsMenu.label "Μηνύματα">
+<!ENTITY msgsMenu.accesskey "ν">
+<!ENTITY threads.label "Αλληλουχίες">
+<!ENTITY threads.accesskey "χ">
+<!ENTITY allMsgsCmd.label "Όλα">
+<!ENTITY allMsgsCmd.accesskey "α">
+<!ENTITY expandAllThreadsCmd.label "Ανάπτυξη όλων των αλληλουχιών">
+<!ENTITY expandAllThreadsCmd.accesskey "π">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Σύμπτυξη όλων των αλληλουχιών">
+<!ENTITY collapseAllThreadsCmd.accesskey "μ">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Μη αναγνωσμένα">
+<!ENTITY unreadMsgsCmd.accesskey "Μ">
+<!ENTITY threadsWithUnreadCmd.label "Αλληλουχίες με μη αναγνωσμένα">
+<!ENTITY threadsWithUnreadCmd.accesskey "χ">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Επιλεγμένες αλληλουχίες με μη αναγνωσμένα">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "π">
+<!ENTITY ignoredThreadsCmd.label "Να αγνοούνται οι αλληλουχίες">
+<!ENTITY ignoredThreadsCmd.accesskey "γ">
+<!ENTITY headersMenu.label "Κεφαλίδες">
+<!ENTITY headersMenu.accesskey "φ">
+<!ENTITY headersAllCmd.label "Όλες">
+<!ENTITY headersAllCmd.accesskey "λ">
+<!ENTITY headersNormalCmd.label "Κανονικές">
+<!ENTITY headersNormalCmd.accesskey "ν">
+<!ENTITY bodyMenu.label "Κυρίως κείμενο μηνύματος ως">
+<!ENTITY bodyMenu.accesskey "ρ">
+<!ENTITY bodyAllowHTML.label "Πρωτότυπο HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Απλό HTML">
+<!ENTITY bodySanitized.accesskey "L">
+<!ENTITY bodyAsPlaintext.label "Απλό κείμενο">
+<!ENTITY bodyAsPlaintext.accesskey "π">
+<!ENTITY bodyMenuFeed.label "Σώμα μηνύματος αρχείου ροής ως">
+<!ENTITY bodyMenuFeed.accesskey "η">
+<!ENTITY viewFeedWebPage.label "Ιστοσελίδα">
+<!ENTITY viewFeedWebPage.accesskey "σ">
+<!ENTITY viewFeedSummary.label "Περίληψη">
+<!ENTITY viewFeedSummary.accesskey "ψ">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Προεπιλεγμένη μορφή">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "μ">
+<!ENTITY viewAttachmentsInlineCmd.label "Εμφάνιση συνημμένων στο κυρίως κείμενο">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "φ">
+<!ENTITY fullZoomEnlargeCmd.label "Μεγέθυνση">
+<!ENTITY fullZoomEnlargeCmd.accesskey "υ">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Σμίκρυνση">
+<!ENTITY fullZoomReduceCmd.accesskey "μ">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Επαναφορά">
+<!ENTITY fullZoomResetCmd.accesskey "φ">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Μεγέθυνση μόνο κειμένου">
+<!ENTITY fullZoomToggleCmd.accesskey "κ">
+<!ENTITY fullZoom.label "Μεγέθυνση">
+<!ENTITY fullZoom.accesskey "θ">
+<!ENTITY pageSourceCmd.label "Kώδικας μηνύματος">
+<!ENTITY pageSourceCmd.accesskey "κ">
+<!ENTITY pageSourceCmd.key "u">
 <!ENTITY findMenu.label "Εύρεση">
 <!ENTITY findMenu.accesskey "Ε">
-
-<!ENTITY folderContextOpenNewWindow.label "Άνοιγμα">
-<!ENTITY folderContextOpenNewWindow.accesskey "ο">
+<!ENTITY findCmd.label "Εύρεση σε αυτό το μήνυμα...">
+<!ENTITY findCmd.accesskey "σ">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Εύρεση ξανά">
+<!ENTITY findAgainCmd.accesskey "ξ">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
+<!ENTITY searchMailCmd.accesskey "μ">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων">
+<!ENTITY searchAddressesCmd.accesskey "ζ">
+<!ENTITY goMenu.label "Μετάβαση">
+<!ENTITY goMenu.accesskey "σ">
+<!ENTITY nextMenu.label "Επόμενο">
+<!ENTITY nextMenu.accesskey "ν">
+<!ENTITY nextMsgCmd.label "Μήνυμα">
+<!ENTITY nextMsgCmd.accesskey "Μ">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
+<!ENTITY nextUnreadMsgCmd.accesskey "ν">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Μήνυμα με αστέρι">
+<!ENTITY nextStarredMsgCmd.accesskey "σ">
+<!ENTITY nextUnreadThread.label "Μη αναγνωσμένη αλληλουχία">
+<!ENTITY nextUnreadThread.accesskey "γ">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Προηγούμενο">
+<!ENTITY prevMenu.accesskey "Π">
+<!ENTITY prevMsgCmd.label "Μήνυμα">
+<!ENTITY prevMsgCmd.accesskey "Μ">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
+<!ENTITY prevUnreadMsgCmd.accesskey "η">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Μπροστά">
+<!ENTITY goForwardCmd.accesskey "Μ">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Πίσω">
+<!ENTITY goBackCmd.accesskey "Π">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "Μήνυμα με αστέρι">
+<!ENTITY prevStarredMsgCmd.accesskey "σ">
+<!ENTITY startPageCmd.label "Αρχική σελίδα αλληλογραφίας">
+<!ENTITY startPageCmd.accesskey "χ">
+<!ENTITY msgMenu.label "Μήνυμα">
+<!ENTITY msgMenu.accesskey "Μ">
+<!ENTITY newMsgCmd.label "Νέο Μήνυμα">
+<!ENTITY newMsgCmd.accesskey "Ν">
+<!ENTITY newNewMsgCmd.label "Μήνυμα">
+<!ENTITY newNewMsgCmd.accesskey "Μ">
+<!ENTITY archiveMsgCmd.label "Αρχειοθέτηση">
+<!ENTITY archiveMsgCmd.accesskey "χ">
+<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY replyMsgCmd.label "Απάντηση">
+<!ENTITY replyMsgCmd.accesskey "π">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Απάντηση μόνο στον αποστολέα">
+<!ENTITY replySenderCmd.accesskey "μ">
+<!ENTITY replyNewsgroupCmd.label "Απάντηση στην ομάδα συζήτησης">
+<!ENTITY replyNewsgroupCmd.accesskey "ζ">
+<!ENTITY replyToAllMsgCmd.label "Απάντηση σε όλους">
+<!ENTITY replyToAllMsgCmd.accesskey "λ">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Απάντηση στη λίστα">
+<!ENTITY replyToListMsgCmd.accesskey "λ">
+<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.label "Προώθηση">
+<!ENTITY forwardMsgCmd.accesskey "ο">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Προώθηση ως">
+<!ENTITY forwardAsMenu.accesskey "θ">
+<!ENTITY forwardAsInline.label "Ως αντικείμενο μέσα στο μήνυμα">
+<!ENTITY forwardAsInline.accesskey "τ">
+<!ENTITY forwardAsAttachmentCmd.label "Συνημμένο">
+<!ENTITY forwardAsAttachmentCmd.accesskey "μ">
+<!ENTITY editMsgAsNewCmd.label "Τροποποίηση μηνύματος ως νέου">
+<!ENTITY editMsgAsNewCmd.accesskey "ν">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "Δημιουργία Φίλτρου από μήνυμα...">
+<!ENTITY createFilter.accesskey "Φ">
+<!ENTITY moveMsgToMenu.label "Μετακίνηση σε">
+<!ENTITY moveMsgToMenu.accesskey "Μ">
+<!ENTITY moveCopyMsgRecentMenu.label "Πρόσφατα">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "ρ">
+<!ENTITY copyMessageLocation.label "Αντιγραφή τοποθεσίας μηνύματος">
+<!ENTITY copyMessageLocation.accesskey "τ">
+<!ENTITY copyMsgToMenu.label "Αντιγραφή ξανά">
+<!ENTITY copyMsgToMenu.accesskey "γ">
+<!ENTITY moveToFolderAgain.label "Μετακίνηση ξανά">
+<!ENTITY moveToFolderAgain.accesskey "ξ">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Παράβλεψη αλληλουχίας">
+<!ENTITY killThreadMenu.accesskey "β">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Αγνόηση υποαλληλουχίας">
+<!ENTITY killSubthreadMenu.accesskey "π">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Παρακολούθηση αλληλουχίας">
+<!ENTITY watchThreadMenu.accesskey "θ">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Αποθήκευση εδώ">
+<!ENTITY fileHereMenu.accesskey "κ">
+<!ENTITY copyHereMenu.label "Αντιγραφή εδώ">
+<!ENTITY copyHereMenu.accesskey "γ">
+<!ENTITY tagMenu.label "Ετικέτα">
+<!ENTITY tagMenu.accesskey "κ">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Σημείωση">
+<!ENTITY markMenu.accesskey "μ">
+<!ENTITY markAsReadCmd.label "Ως αναγνωσμένα">
+<!ENTITY markAsReadCmd.accesskey "σ">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markThreadAsReadCmd.label "Αλληλουχίας ως αναγνωσμένης">
+<!ENTITY markThreadAsReadCmd.accesskey "η">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία...">
+<!ENTITY markReadByDateCmd.accesskey "μ">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Όλων ως αναγνωσμένων">
+<!ENTITY markAllReadCmd.accesskey "γ">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Προσθήκη αστεριού">
+<!ENTITY markStarredCmd.accesskey "σ">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητη αλληλογραφία">
+<!ENTITY markAsJunkCmd.accesskey "ν">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Ως επιθυμητή αλληλογραφία">
+<!ENTITY markAsNotJunkCmd.accesskey "θ">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας">
+<!ENTITY recalculateJunkScoreCmd.accesskey "κ">
+<!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
+<!ENTITY openMessageWindowCmd.accesskey "ν">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openFeedMessage.label "Άνοιγμα μηνύματος ροής">
+<!ENTITY openFeedMessage.accesskey "ν">
+<!ENTITY openFeedWebPageInWindow.label "Ιστοσελίδα σε νέα παράθυρο">
+<!ENTITY openFeedWebPageInWindow.accesskey "σ">
+<!ENTITY openFeedSummaryInWindow.label "Περίληψη σε νέο παράθυρο">
+<!ENTITY openFeedSummaryInWindow.accesskey "ψ">
+<!ENTITY openFeedWebPageInMP.label "Εναλλαγή ιστοσελίδας και περίληψης στο ταμπλό μηνυμάτων">
+<!ENTITY openFeedWebPageInMP.accesskey "γ">
+<!ENTITY windowMenu.label "Παράθυρο">
+<!ENTITY tasksMenu.label "Εργαλεία">
+<!ENTITY tasksMenu.accesskey "γ">
+<!ENTITY messengerCmd.label "Αλληλογραφία &amp; Συζητήσεις">
+<!ENTITY messengerCmd.accesskey "Α">
+<!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
+<!ENTITY addressBookCmd.accesskey "ρ">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Πρόσθετα">
 <!ENTITY addons.accesskey "θ">
+<!ENTITY activitymanager.label "Διαχείριση δραστηριότητας">
+<!ENTITY activitymanager.accesskey "χ">
+<!ENTITY savedFiles.label "Αποθηκευμένα αρχεία">
+<!ENTITY savedFiles.accesskey "θ">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd.label "Φίλτρα μηνυμάτων...">
+<!ENTITY filtersCmd.accesskey "Φ">
+<!ENTITY filtersApply.label "Εκτέλεση φίλτρων στο φάκελο">
+<!ENTITY filtersApply.accesskey "κ">
+<!ENTITY filtersApplyToSelection.label "Εκτέλεση φίλτρων στα επιλεγμέμα μηνύματα">
+<!ENTITY filtersApplyToSelection.accesskey "κ">
+<!ENTITY filtersApplyToMessage.label "Εκτέλεση φίλτρων στο μήνυμα">
+<!ENTITY filtersApplyToMessage.accesskey "σ">
+<!ENTITY runJunkControls.label "Εκτέλεση ελέγχων ανεπιθύμητης αλληλογραφίας στα επιλεγμένα μηνύματα">
+<!ENTITY runJunkControls.accesskey "κ">
+<!ENTITY deleteJunk.label "Διαγραφή σημειωμένου μηνύματος ως ανεπιθύμητο στο φάκελο">
+<!ENTITY deleteJunk.accesskey "ι">
+<!ENTITY importCmd.label "Εισαγωγή...">
+<!ENTITY importCmd.accesskey "γ">
+<!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
+<!ENTITY errorConsoleCmd.accesskey "ν">
+<!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού...">
+<!ENTITY accountManagerCmd.accesskey "θ">
+<!ENTITY accountManagerCmdUnix.accesskey "θ">
+<!ENTITY getMsgButton.label "Λήψη">
+<!ENTITY newMsgButton.label "Σύνταξη">
+<!ENTITY replyButton.label "Απάντηση">
+<!ENTITY replyAllButton.label "Απ. σε όλους">
+<!ENTITY replyListButton.label "Απάντηση στη λίστα">
+<!ENTITY forwardButton.label "Προώθηση">
+<!ENTITY fileButton.label "Αρχειοθέτηση">
+<!ENTITY archiveButton.label "Αρχειοθέτηση">
+<!ENTITY nextButton.label "Επόμενο">
+<!ENTITY previousButton.label "Προηγούμενο">
+<!ENTITY backButton1.label "Πίσω">
+<!ENTITY goForwardButton1.label "Μπροστά">
+<!ENTITY deleteButton.label "Διαγραφή">
+<!ENTITY undeleteButton.label "Ακύρωση διαγραφής">
+<!ENTITY markButton.label "Σημείωση">
+<!ENTITY printButton.label "Εκτύπωση">
+<!ENTITY stopButton.label "Διακοπή">
+<!ENTITY throbberItem.title "Επισήμανση ενέργειας">
+<!ENTITY junkButton.label "Ανεπιθύμητα">
+<!ENTITY notJunkButton.label "Επιθυμητά">
+<!ENTITY addressBookButton.label "Ευρετήριο">
+<!ENTITY glodaSearch.title "Γενική αναζήτηση">
+<!ENTITY searchItem.title "Γρήγορη αναζήτηση">
+<!ENTITY mailViewsToolbarItem.title "Προβολές αλληλογραφίας">
+<!ENTITY folderLocationToolbarItem.title "Τοποθεσία φακέλου">
+<!ENTITY tagButton.label "Ετικέτα">
+<!ENTITY compactButton.label "Σύμπτυξη">
+<!ENTITY advancedButton.tooltip "Αναζήτηση μηνυμάτων...">
+<!ENTITY getMsgButton.tooltip "Λήψη νέων μηνυμάτων">
+<!ENTITY getAllNewMsgCmd.label "Λήψη όλων των νέων μηνυμάτων">
+<!ENTITY getAllNewMsgCmd.accesskey "Λ">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY newMsgButton.tooltip "Δημιουργία νέου μηνύματος">
+<!ENTITY replyButton.tooltip "Απάντηση στο μήνυμα">
+<!ENTITY replyAllButton.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
+<!ENTITY replyListButton.tooltip "Απάντηση στη λίστα αλληλογραφίας">
+<!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
+<!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
+<!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
+<!ENTITY nextButton.tooltip "Μετάβαση στο επόμενο μη αναγνωσμένο μήνυμα">
+<!ENTITY previousButton.tooltip "Μετάβαση στο προηγούμενο μη αναγνωσμένο">
+<!ENTITY goForwardButton.tooltip "Μετάβαση μπροστά ένα μήνυμα">
+<!ENTITY goBackButton.tooltip "Μετάβαση πίσω ένα μήνυμα">
+<!ENTITY deleteButton.tooltip "Διαγραφή επιλεγμένου μηνύματος ή φακέλου">
+<!ENTITY undeleteButton.tooltip "Ακύρωση διαγραφής επιλεγμένου μηνύματος">
+<!ENTITY markButton.tooltip "Σημείωση μηνυμάτων">
+<!ENTITY printButton.tooltip "Εκτύπωση του μηνύματος">
+<!ENTITY stopButton.tooltip "Διακοπή της τρέχουσας μεταφοράς">
+<!ENTITY junkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως ανεπιθύμητα">
+<!ENTITY notJunkButton.tooltip "Σημείωση των επιλεγμένων μηνυμάτων ως επιθυμητή αλληλογραφία">
+<!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
+<!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
+<!ENTITY compactButton.tooltip "Απομάκρυνση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
+<!ENTITY addNewTag.label "Νέα ετικέτα">
+<!ENTITY addNewTag.accesskey "Ν">
+<!ENTITY folderColumn.label "Όνομα">
+<!ENTITY folderSizeColumn.label "Μέγεθος">
+<!ENTITY folderContextGetMessages.label "Λήψη μηνυμάτων">
+<!ENTITY folderContextGetMessages.accesskey "Λ">
+<!ENTITY folderContextOpenNewWindow.label "Άνοιγμα">
+<!ENTITY folderContextOpenNewWindow.accesskey "ο">
+<!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
+<!ENTITY folderContextOpenNewTab.accesskey "τ">
+<!ENTITY folderContextNew.label "Νέος υποφάκελος">
+<!ENTITY folderContextNew.accesskey "Ν">
+<!ENTITY folderContextRename.label "Μετονομασία">
+<!ENTITY folderContextRename.accesskey "τ">
+<!ENTITY folderContextRemove.label "Διαγραφή">
+<!ENTITY folderContextRemove.accesskey "φ">
+<!ENTITY folderContextCompact.label "Σύμπτυξη">
+<!ENTITY folderContextCompact.accesskey "Σ">
+<!ENTITY folderContextEmptyTrash.label "Άδειασμα κάδου">
+<!ENTITY folderContextEmptyTrash.accesskey "μ">
+<!ENTITY folderContextEmptyJunk.label "Άδειασμα ανεπιθυμήτων">
+<!ENTITY folderContextEmptyJunk.accesskey "θ">
+<!ENTITY folderContextSendUnsentMessages.label "Αποστολή εκκρεμών μηνυμάτων...">
+<!ENTITY folderContextSendUnsentMessages.accesskey "κ">
+<!ENTITY folderContextUnsubscribe.label "Αποχώρηση συνδρομητή">
+<!ENTITY folderContextUnsubscribe.accesskey "χ">
+<!ENTITY folderContextMarkNewsgroupRead.label "Σημείωση ομάδας συζήτησης ως αναγνωσμένης">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "γ">
+<!ENTITY folderContextMarkMailFolderRead.label "Σημείωση φακέλου ως αναγνωσμένου">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "κ">
+<!ENTITY folderContextSubscribe.label "Εγγραφή συνδρομητή...">
+<!ENTITY folderContextSubscribe.accesskey "γ">
+<!ENTITY folderContextSearchMessages.label "Αναζήτηση μηνυμάτων...">
+<!ENTITY folderContextSearchMessages.accesskey "ζ">
+<!ENTITY folderContextProperties.label "Ιδιότητες...">
+<!ENTITY folderContextProperties.accesskey "δ">
+<!ENTITY folderContextFavoriteFolder.label "Αγαπημένος φάκελος">
+<!ENTITY folderContextFavoriteFolder.accesskey "π">
+<!ENTITY folderContextSettings.label "Ρυθμίσεις">
+<!ENTITY folderContextSettings.accesskey "θ">
+<!ENTITY SearchNameOrEmail.label "Τό όνομα ή το Email περιέχει:">
+<!ENTITY SearchNameOrEmail.accesskey "ν">
+<!ENTITY glodaSearchBar.emptyText "Αναζήτηση μηνυμάτων…">
+<!ENTITY searchSubjectMenu.label "Θέμα">
+<!ENTITY searchFromMenu.label "Από">
+<!ENTITY searchSubjectOrFromMenu.label "Θέμα ή Από">
+<!ENTITY searchRecipient.label "Προς ή Κοιν.">
+<!ENTITY searchSubjectOrRecipientMenu.label "Θέμα, Προς ή Κοιν.">
+<!ENTITY searchMessageBody.label "Ολόκληρο μήνυμα">
+<!ENTITY saveAsVirtualFolderMenu.label "Αποθήκευση αναζήτησης ως φάκελος...">
+<!ENTITY threadColumn.label "Αλληλουχία">
+<!ENTITY fromColumn.label "Από">
+<!ENTITY recipientColumn.label "Παραλήπτης">
+<!ENTITY subjectColumn.label "Θέμα">
+<!ENTITY dateColumn.label "Ημερομηνία">
+<!ENTITY priorityColumn.label "Προτεραιότητα">
+<!ENTITY tagsColumn.label "Ετικέτα">
+<!ENTITY accountColumn.label "Λογαριασμός">
+<!ENTITY statusColumn.label "Κατάσταση">
+<!ENTITY sizeColumn.label "Μέγεθος">
+<!ENTITY junkStatusColumn.label "Κατάσταση ανεπιθυμήτων">
+<!ENTITY unreadColumn.label "Μη αναγνωσμένα">
+<!ENTITY totalColumn.label "Σύνολο">
+<!ENTITY readColumn.label "Αναγνωσμένα">
+<!ENTITY receivedColumn.label "Ληφθέντα">
+<!ENTITY starredColumn.label "Με αστέρι">
+<!ENTITY locationColumn.label "Τοποθεσία">
+<!ENTITY idColumn.label "Σειρά παραλαβής">
+<!ENTITY attachmentColumn.label "Συνημμένα">
+<!ENTITY columnChooser.tooltip "Πατήστε για επιλογή στηλών για προβολή">
+<!ENTITY threadColumn.tooltip "Πατήστε για εμφάνιση αλληλουχιών μηνυμάτων">
+<!ENTITY fromColumn.tooltip "Πατήστε για ταξινόμηση κατά αποστολέα">
+<!ENTITY recipientColumn.tooltip "Πατήστε για ταξινόμηση κατά παραλήπτη">
+<!ENTITY subjectColumn.tooltip "Πατήστε για ταξινόμηση κατά θέμα">
+<!ENTITY dateColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία">
+<!ENTITY priorityColumn.tooltip "Πατήστε για ταξινόμηση κατά προτεραιότητα">
+<!ENTITY tagsColumn.tooltip "Πατήστε για ταξινόμηση κατά ετικέτα">
+<!ENTITY accountColumn.tooltip "Πατήστε για ταξινόμηση κατά λογαριασμό">
+<!ENTITY statusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
+<!ENTITY sizeColumn.tooltip "Πατήστε για ταξινόμηση κατά μέγεθος">
+<!ENTITY junkStatusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση ανεπιθύμητων">
+<!ENTITY unreadColumn.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στην αλληλουχία">
+<!ENTITY totalColumn.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
+<!ENTITY readColumn.tooltip "Πατήστε για ταξινόμηση κατά αναγνωσμένο">
+<!ENTITY receivedColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία παραλαβής">
+<!ENTITY starredColumn.tooltip "Πατήστε για ταξινόμηση κατά αστέρι">
+<!ENTITY locationColumn.tooltip "Πατήστε για ταξινόμηση κατά τοποθεσία">
+<!ENTITY idColumn.tooltip "Πατήστε για ταξινόμηση κατά σειρά παραλαβής">
+<!ENTITY attachmentColumn.tooltip "Πατήστε για ταξινόμηση κατά συνημμένο">
+<!ENTITY contextOpenNewWindow.label "Άνοιγμα μηνύματος σε νέο παράθυρο">
+<!ENTITY contextOpenNewWindow.accesskey "ν">
+<!ENTITY contextOpenNewTab.label "Άνοιγμα μηνύματος σε νέα καρτέλα">
+<!ENTITY contextOpenNewTab.accesskey "τ">
+<!ENTITY contextEditAsNew.label "Τροποποίηση ως νέου...">
+<!ENTITY contextEditAsNew.accesskey "ω">
+<!ENTITY contextArchive.label "Αρχειοθέτηση">
+<!ENTITY contextArchive.accesskey "χ">
+<!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
+<!ENTITY contextReplySender.accesskey "ο">
+<!ENTITY contextReplyNewsgroup.label "Απάντηση στην ομάδα συζήτησης">
+<!ENTITY contextReplyNewsgroup.accesskey "ζ">
+<!ENTITY contextReplyAll.label "Απάντηση σε όλους">
+<!ENTITY contextReplyAll.accesskey "υ">
+<!ENTITY contextReplyList.label "Απάντηση στη λίστα">
+<!ENTITY contextReplyList.accesskey "λ">
+<!ENTITY contextForward.label "Προώθηση">
+<!ENTITY contextForward.accesskey "θ">
+<!ENTITY contextForwardAsAttachment.label "Προώθηση ως συνημμένα">
+<!ENTITY contextForwardAsAttachment.accesskey "σ">
+<!ENTITY contextMoveMsgMenu.label "Μετακίνηση σε">
+<!ENTITY contextMoveMsgMenu.accesskey "Μ">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Πρόσφατα">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "φ">
+<!ENTITY contextCopyMsgMenu.label "Αντιγραφή σε">
+<!ENTITY contextCopyMsgMenu.accesskey "ι">
+<!ENTITY contextSaveAs.label "Αποθήκευση ως...">
+<!ENTITY contextSaveAs.accesskey "σ">
+<!ENTITY contextPrint.label "Εκτύπωση...">
+<!ENTITY contextPrint.accesskey "π">
+<!ENTITY contextPrintPreview.label "Προεπισκόπηση εκτύπωσης">
+<!ENTITY contextPrintPreview.accesskey "ε">
+<!ENTITY contextPlay.label "Αναπαραγωγή">
+<!ENTITY contextPlay.accesskey "π">
+<!ENTITY contextPause.label "Παύση">
+<!ENTITY contextPause.accesskey "σ">
+<!ENTITY contextMute.label "Σίγαση">
+<!ENTITY contextMute.accesskey "γ">
+<!ENTITY contextUnmute.label "Άρση σίγασης">
+<!ENTITY contextUnmute.accesskey "ρ">
+<!ENTITY junkBarMessage1.label "Ανεπιθύμητη αλληλογραφία">
+<!ENTITY junkBarButton1.label "Μη ανεπιθύμητη">
+<!ENTITY junkInfoButton.label "?">
+<!ENTITY remoteContentMessage2.label "Για να προστατευθεί το απόρρητο σας, ο &brandShortName; έκανε φραγή στο απομακρυσμένο περιεχόμενο που υπήρχε σε αυτό το μήνυμα.">
+<!ENTITY loadRemoteContentButton3.label "Εμφάνιση απομακρυσμένου περιεχομένου">
+<!ENTITY phishingBarMessage2.label "Αυτό το μήνυμα πιθανώς να είναι μέρος απάτης.">
+<!ENTITY removePhishingBarButton1.label "Αγνόηση προειδοποίησης">
+<!ENTITY reportPhishingError1.label "Αυτό το μήνυμα δεν φαίνεται να είναι απάτη.">
+
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY AddToAddressBook.label "Προσθήκη στο ευρετήριο ...">
+<!ENTITY AddToAddressBook.accesskey "σ">
+<!ENTITY AddDirectlyToAddressBook.label "Προσθήκη στο ευρετήριο">
+<!ENTITY AddDirectlyToAddressBook.accesskey "υ">
+<!ENTITY EditContact.label "Επεξεργασία επαφής">
+<!ENTITY EditContact.accesskey "Ε">
+<!ENTITY ViewContact.label "Προβολή επαφής">
+<!ENTITY ViewContact.accesskey "β">
+<!ENTITY SubscribeToNewsgroup.label "Συνδρομή στην ομάδα συζήτησης">
+<!ENTITY SubscribeToNewsgroup.accesskey "δ">
+<!ENTITY SendMessageTo.label "Σύνταξη μηνύματος προς">
+<!ENTITY SendMessageTo.accesskey "Σ">
+<!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης Email">
+<!ENTITY CopyEmailAddress.accesskey "γ">
+<!ENTITY CopyNewsgroupName.label "Αντιγραφή ονόματος ομάδας">
+<!ENTITY CopyNewsgroupName.accesskey "γ">
+<!ENTITY CopyNewsgroupURL.label "Αντιγραφή URL ομάδας συζητήσεων">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Δημιουργία φίλτρου από">
+<!ENTITY CreateFilterFrom.accesskey "φ">
+<!ENTITY reportPhishingURL.label "Αναφορά email απάτης">
+<!ENTITY reportPhishingURL.accesskey "φ">
+<!ENTITY saveLinkAsCmd.label "Αποθήκευση δεσμού ως...">
+<!ENTITY saveLinkAsCmd.accesskey "δ">
+<!ENTITY saveImageAsCmd.label "Αποθήκευση εικόνας ως">
+<!ENTITY saveImageAsCmd.accesskey "ω">
+<!ENTITY cutCmd.label "Αποκοπή">
+<!ENTITY cutCmd.accesskey "κ">
+<!ENTITY copyCmd.label "Αντιγραφή">
+<!ENTITY copyCmd.accesskey "γ">
+<!ENTITY pasteCmd.label "Επικόλληση">
+<!ENTITY pasteCmd.accesskey "π">
+<!ENTITY selectAllCmd.label "Επιλογή όλων">
+<!ENTITY selectAllCmd.accesskey "λ">
+<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY copyLinkCmd.accesskey "δ">
+<!ENTITY copyImageAllCmd.label "Αντιγραφή εικόνας">
+<!ENTITY copyImageAllCmd.accesskey "I">
+<!ENTITY copyEmailCmd.label "Αντιγραφή διεύθυνσης Email">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Διακοπή">
+<!ENTITY stopCmd.accesskey "Δ">
+<!ENTITY reloadCmd.label "Ανανέωση">
+<!ENTITY reloadCmd.accesskey "ν">
+<!ENTITY openInBrowser.label "Άνοιγμα στον περιηγητή">
+<!ENTITY openInBrowser.accesskey "ο">
+<!ENTITY openLinkInBrowser.label "Άνοιγμα δεσμού στον περιηγητή">
+<!ENTITY openLinkInBrowser.accesskey "δ">
+<!ENTITY statusText.label "Ολοκληρώθηκε">
+<!ENTITY minimizeWindow.label "Ελαχιστοποίηση παραθύρου">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
+<!ENTITY zoomWindow.label "Μεγέθυνση">
+<!ENTITY preferencesCmdMac.label "Προτιμήσεις">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label "Υπηρεσίες">
+<!ENTITY hideThisAppCmdMac.label "Απόκρυψη &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Προβολή όλων">
+
+<!ENTITY unifiedFolders.label "Ενοποιημένοι">
+<!ENTITY unifiedFolders.accesskey "ν">
+
+<!ENTITY contextOpenConversation.label "Άνοιγμα μηνύματος σε συζήτηση">
+<!ENTITY contextOpenConversation.accesskey "ν">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Ο αποστολέας αυτού του μηνύματος ζήτησε να ειδοποιηθεί στην ανάγνωση του μηνύματος. Θέλετε να ειδοποιηθεί ο αποστολέας;">
+<!ENTITY mdnBarIgnoreButton.label "Αγνόηση αίτησης">
+<!ENTITY mdnBarSendButton.label "Αποστολή απόδειξης">
+
+<!ENTITY openConversationCmd.label "Άνοιγμα σε συζήτηση">
+<!ENTITY openConversationCmd.accesskey "ζ">
+<!ENTITY openConversationCmd.key "o">
+
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY searchAllMessages.label.base "Αναζήτηση σε όλα τα μηνύματα… #1">
+
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+<!ENTITY columnPicker.resetToInbox.label "Επαναφορά στηλών στις προεπιλογές">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Εφαρμογή στηλών σε…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Φάκελο…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Φάκελο και υποφακέλους…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "Αυτό τον φάκελο">
+
+
+
+
 

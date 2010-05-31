@@ -20,3 +20,6 @@
 
 <!ENTITY  newTabButton.tooltip        "Άνοιγμα μιας νέας καρτέλας">
 
+<!ENTITY  openTabInNewWindow.label    "Άνοιγμα σε νέο παράθυρο">
+<!ENTITY  openTabInNewWindow.accesskey "θ">
+

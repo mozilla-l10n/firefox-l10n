@@ -1,11 +1,3 @@
-<!ENTITY chooseaccountclickhere.label "Πατήστε εδώ για να επιλέξετε ένα λογαριασμό">
-<!ENTITY choosefolderclickhere.label "Πατήστε εδώ για να επιλέξετε ένα φάκελο">
-<!ENTITY chooseserverToDeferTo.label "πατήστε εδώ για να επιλέξετε ένα λογαριασμό για να χρησιμοποιηθεί για την αποθήκευση μηνυμάτων">
-<!ENTITY filemessageschoosethis.label "Επιλογή αυτού του φακέλου">
-<!ENTITY filemessagesclickhere.label "Πατήστε εδώ για να επιλέξετε φάκελο">
+<!--null-->
 <!ENTITY newfolderchoosethis.label "Επιλογή αυτού ως αρχικού">
-<!ENTITY newfolderclickhere.label "Πατήστε εδώ για επιλογή">
-<!ENTITY renamefolderchoosethis.label "Επιλογή αυτού του φακέλου">
-<!ENTITY renamefolderclickhere.label "Πατήστε εδώ για να επιλέξετε φάκελο">
-<!ENTITY subscribechoosethis.label "επιλογή αυτού του εξυπηρετητή συζητήσεων">
-<!ENTITY subscribeclickhere.label "Πατήστε εδώ για να επιλέξετε ένα νέο εξυπηρετητή συζητήσεων">
+<!ENTITY filemessageschoosethis.label "Επιλογή αυτού του φακέλου">

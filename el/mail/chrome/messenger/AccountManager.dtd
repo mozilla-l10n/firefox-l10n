@@ -1,13 +1,13 @@
-<!ENTITY accountManager.size "width: 69em; height: 48em;">
 <!ENTITY accountManagerTitle.label "Ρυθμίσεις λογαριασμών αλληλογραφίας">
-<!ENTITY accountTree.width "width: 21em;">
-<!ENTITY addAccountButton.accesskey "θ">
-<!ENTITY addAccountButton.label "Προσθήκη λογαριασμού...">
-<!ENTITY duplicate.label "εις διπλούν">
-<!ENTITY duplicateButton.label "εις διπλούν">
-<!ENTITY macAccountManager.size "width: 60em; height: 49em;">
-<!ENTITY nameCol.label "Όνομα">
-<!ENTITY removeButton.accesskey "Δ">
-<!ENTITY removeButton.label "Διαγραφή λογαριασμού">
+<!ENTITY accountActionsButton.label "Ενέργειες λογαριασμού">
+<!ENTITY accountActionsButton.accesskey "ν">
+<!ENTITY addMailAccountButton.label "Προσθήκη λογαριασμού αλληλογραφίας...">
+<!ENTITY addMailAccountButton.accesskey "θ">
+<!ENTITY addOtherAccountButton.label "Προσθήκη άλλου λογαριασμού...">
+<!ENTITY addOtherAccountButton.accesskey "λ">
+<!ENTITY setDefaultButton.label "Ορισμός ως προεπιλεγμένου">
 <!ENTITY setDefaultButton.accesskey "π">
-<!ENTITY setDefaultButton.label "Ορισμός ως Προεπιλεγμένου">
+<!ENTITY removeButton.label "Διαγραφή λογαριασμού">
+<!ENTITY removeButton.accesskey "Δ">
+<!ENTITY accountManager.size "width: 75em; height: 48em;">
+<!ENTITY accountTree.width "width: 21em;">

@@ -5,7 +5,7 @@
 <!ENTITY instructions.description "Σύρετε ένα αντικείμενο στις παραπάνω εργαλειοθήκες για να το προσθέσετε.">
 <!ENTITY restoreDefaultSet.label "Επαναφορά">
 <!ENTITY saveChanges.label "Ολοκληρώθηκε">
-<!ENTITY show.label "Προβολή:">
+<!ENTITY show.label "Εμφάνιση:">
 <!ENTITY text.label "Κείμενο">
 <!ENTITY undoChanges.label "Αναίρεση αλλαγών">
 <!ENTITY useSmallIcons.label "Χρήση μικρών εικονιδίων">

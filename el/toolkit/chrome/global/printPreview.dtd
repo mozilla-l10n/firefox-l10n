@@ -1,10 +1,10 @@
 <!ENTITY Custom.label "Προσαρμογή...">
-<!ENTITY ShrinkToFit.label "Σμίκρυνση στη σελίδα">
+<!ENTITY ShrinkToFit.label "Αυτόματη προσαρμογή">
 <!ENTITY close.accesskey "λ">
 <!ENTITY close.label "Κλείσιμο">
 <!ENTITY customPrompt.title "Προσαρμοσμένη κλίμακα...">
 <!ENTITY landscape.accesskey "ρ">
-<!ENTITY landscape.label "Οριζόντιος">
+<!ENTITY landscape.label "Οριζόντια">
 <!ENTITY of.label "από">
 <!ENTITY p100.label "100&#037;">
 <!ENTITY p125.label "125&#037;">
@@ -23,7 +23,7 @@
 <!ENTITY pageSetup.label "Διαμόρφωση σελίδας...">
 
 <!ENTITY portrait.accesskey "τ">
-<!ENTITY portrait.label "Κατακόρυφος">
+<!ENTITY portrait.label "Κατακόρυφα">
 <!ENTITY print.accesskey "π">
 <!ENTITY print.label "Εκτύπωση...">
 <!ENTITY scale.label "Κλίμακα:">

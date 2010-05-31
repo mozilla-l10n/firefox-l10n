@@ -1,15 +1,15 @@
-<!ENTITY button.addFeed.accesskey "θ">
-<!ENTITY button.addFeed.label "Προσθήκη">
-<!ENTITY button.editFeed.accesskey "ξ">
-<!ENTITY button.editFeed.label "Επεξεργασία">
-<!ENTITY button.importOPML.accesskey "ι">
-<!ENTITY button.importOPML.label "Εισαγωγή">
-<!ENTITY button.removeFeed.accesskey "ρ">
-<!ENTITY button.removeFeed.label "Αποκάκρυνση">
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY feedSubscriptions.label "Συνδρομές σε αρχεία ροής">
+<!ENTITY subscriptionDesc.label "Σημείωση: Η απομάκρυνση ή αλλαγή του φακέλου για ένα αρχείο ροής δεν θα επηρεάσει τα άρθρα που έχουν ληφθεί προηγουμένως.">
 <!ENTITY feedTitle.label "Τίτλος:">
 <!ENTITY location.label "Τοποθεσία:">
-<!ENTITY newsBlogSubscriptions.label "Συνδρομές RSS">
-<!ENTITY subscriptionDesc.label "Σημείωση: Η απομάκρυνση ή αλλαγή του φακέλου για ένα αρχείο ροής δεν θα επηρεάσει τα άρθρα που έχουν ληφθεί προηγουμένως.">
+<!ENTITY button.addFeed.label "Προσθήκη">
+<!ENTITY button.addFeed.accesskey "θ">
+<!ENTITY button.editFeed.label "Επεξεργασία">
+<!ENTITY button.editFeed.accesskey "ξ">
+<!ENTITY button.removeFeed.label "Απομάκρυνση">
+<!ENTITY button.removeFeed.accesskey "ρ">
+<!ENTITY button.importOPML.label "Εισαγωγή">
+<!ENTITY button.importOPML.accesskey "ι">
 <!ENTITY button.exportOPML.label "Εξαγωγή">
-<!ENTITY button.exportOPML.accesskey   "ξ">
+<!ENTITY button.exportOPML.accesskey "ξ">
+<!ENTITY cmd.close.commandKey "w">

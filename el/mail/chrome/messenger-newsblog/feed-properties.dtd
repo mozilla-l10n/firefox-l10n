@@ -1,10 +1,12 @@
-<!ENTITY choosethisfolder.label "επιλογή αυτού του φακέλου">
-<!ENTITY copyLinkCmd.accesskey "γ">
-<!ENTITY copyLinkCmd.label "Αντιγραφή δεσμού">
-<!ENTITY feedFolder.accesskey "ο">
-<!ENTITY feedFolder.label "Αποθήκευση άρθρων ροής (Feed) σε:">
-<!ENTITY feedLocation.accesskey "ρ">
-<!ENTITY feedLocation.label "URL ροής: ">
-<!ENTITY quickMode.accesskey "μ">
-<!ENTITY quickMode.label "Εμφάνιση της περίληψης άρθρου αντί για φόρτωση της ιστοσελίδας">
 <!ENTITY window.title "Ιδιότητες αρχείου ροής ειδήσεων ">
+<!ENTITY feedFolder.label "Αποθήκευση άρθρων ροής (Feed) σε:">
+<!ENTITY feedFolder.accesskey "ο">
+<!ENTITY feedLocation.label "URL ροής: ">
+<!ENTITY feedLocation.accesskey "ρ">
+<!ENTITY choosethisfolder.label "επιλογή αυτού του φακέλου">
+<!ENTITY quickMode.label "Εμφάνιση της περίληψης άρθρου αντί για φόρτωση της ιστοσελίδας">
+<!ENTITY quickMode.accesskey "μ">
+<!ENTITY copyLinkCmd.label "Αντιγραφή δεσμού">
+<!ENTITY copyLinkCmd.accesskey "γ">
+<!ENTITY pasteLinkCmd.label "Επικόλληση">
+<!ENTITY pasteLinkCmd.accesskey "π">

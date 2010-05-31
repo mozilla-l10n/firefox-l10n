@@ -1,36 +1,38 @@
-<!ENTITY Advanced.tab "Ειδικές επιλογές">
+<!--null-->
+<!ENTITY newDirectoryTitle.label "Ιδιότητες εξυπηρετητή καταλόγου">
+<!ENTITY directoryName.label "Όνομα:">
+<!ENTITY directoryName.accesskey "μ">
+<!ENTITY directoryHostname.label "Όνομα κεντρικού υπολογιστή: ">
+<!ENTITY directoryHostname.accesskey "ν">
+<!ENTITY directoryBaseDN.label "Base DN: ">
+<!ENTITY directoryBaseDN.accesskey "b">
+<!ENTITY findButton.label "Εύρεση">
+<!ENTITY findButton.accesskey "ρ">
+<!ENTITY directorySecure.label "Χρήση ασφαλούς σύνδεσης (SSL)">
+<!ENTITY directorySecure.accesskey "σ">
+<!ENTITY directoryLogin.label "Bind DN: ">
+<!ENTITY directoryLogin.accesskey "i">
 <!ENTITY General.tab "Γενικά">
 <!ENTITY Offline.tab "Χωρίς σύνδεση">
-<!ENTITY advancedOptionsButton.accesskey "δ">
-<!ENTITY advancedOptionsButton.label "Ειδικές Επιλογές">
-<!ENTITY advancedOptionsTitle.label "Ειδικές Επιλογές">
-<!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY directoryBaseDN.label "Base DN: ">
-<!ENTITY directoryHostname.accesskey "ν">
-<!ENTITY directoryHostname.label "Όνομα κεντρικού υπολογιστή: ">
-<!ENTITY directoryLogin.accesskey "i">
-<!ENTITY directoryLogin.label "Bind DN: ">
-<!ENTITY directoryName.accesskey "μ">
-<!ENTITY directoryName.label "Όνομα:">
-<!ENTITY directorySecure.accesskey "σ">
-<!ENTITY directorySecure.label "Χρήση ασφαλούς σύνδεσης (SSL)">
-<!ENTITY downloadNowButton.accesskey "ψ">
-<!ENTITY downloadNowButton.label "Λήψη τώρα">
-<!ENTITY findButton.accesskey "ρ">
-<!ENTITY findButton.label "Εύρεση">
-<!ENTITY newDirectoryTitle.label "Ιδιότητες εξυπηρετητή καταλόγου">
-<!ENTITY newDirectoryWidth "40em">
-<!ENTITY offlineText.label "Μπορείτε να κάνετε λήψη  ενός τοπικού αντιγράφου αυτού του καταλόγου ώστε να είναι διαθέσιμο για εργασία χωρίς σύνδεση. ">
-<!ENTITY portNumber.accesskey "θ">
+<!ENTITY Advanced.tab "Ειδικές επιλογές">
 <!ENTITY portNumber.label "Αριθμός θύρας:">
-<!ENTITY results.label "αποτελέσματα">
-<!ENTITY return.accesskey "σ">
-<!ENTITY return.label "Να μην επιστρέφονται παραπάνω από">
-<!ENTITY scope.accesskey "κ">
-<!ENTITY scope.label "Σκοπός:">
-<!ENTITY scopeOneLevel.accesskey "π">
-<!ENTITY scopeOneLevel.label "Ένα επίπεδο">
-<!ENTITY scopeSubtree.accesskey "υ">
-<!ENTITY scopeSubtree.label "Υποφάκελος">
-<!ENTITY searchFilter.accesskey "Φ">
+<!ENTITY portNumber.accesskey "θ">
 <!ENTITY searchFilter.label "Φίλτρο Αναζήτησης:">
+<!ENTITY searchFilter.accesskey "Φ">
+<!ENTITY scope.label "Σκοπός:">
+<!ENTITY scope.accesskey "κ">
+<!ENTITY scopeOneLevel.label "Ένα επίπεδο">
+<!ENTITY scopeOneLevel.accesskey "π">
+<!ENTITY scopeSubtree.label "Υποφάκελος">
+<!ENTITY scopeSubtree.accesskey "Υ">
+<!ENTITY return.label "Να μην επιστρέφονται παραπάνω από">
+<!ENTITY return.accesskey "σ">
+<!ENTITY results.label "αποτελέσματα">
+<!ENTITY offlineText.label "Μπορείτε να κάνετε λήψη  ενός τοπικού αντιγράφου αυτού του καταλόγου ώστε να είναι διαθέσιμο για εργασία χωρίς σύνδεση. ">
+<!ENTITY saslMechanism.label "Μέθοδος σύνδεσης: ">
+<!ENTITY saslMechanism.accesskey "θ">
+<!ENTITY saslOff.label "Απλή">
+<!ENTITY saslOff.accesskey "κ">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
+<!ENTITY newDirectoryWidth "40em">

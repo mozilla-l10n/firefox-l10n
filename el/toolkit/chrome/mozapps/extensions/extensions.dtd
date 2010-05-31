@@ -25,9 +25,9 @@
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Εύρεση ενημερώσεων για τα θέματα σας">
 <!ENTITY cmd.installFileAddon.tooltip     "Εγκατάσταση ενός προσθέτου">
 <!ENTITY cmd.installFileTheme.tooltip     "Εγκατάσταση ενός θέματος">
-<!ENTITY cmd.installUpdatesAll.label      "Εγκατάσταση ενημερώσεων">
-<!ENTITY cmd.installUpdatesAll.accesskey  "τ">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Εγκατάσταση των επιλεγμένων ενημερώσεων">
+
+
+
 
 
 
@@ -166,7 +166,7 @@
 <!ENTITY cmd.installSearchResult.accesskey "θ">
 <!ENTITY cmd.installSearchResult.tooltip   "Λήψη και εγκατάσταση αυτού του προσθέτου">
 
-<!ENTITY searchAddons.label               "Αναζήτηση όλων των προσθέτων">
+<!ENTITY searchAddons.label               "Αναζήτηση σε όλα τα προσθέτα">
 <!ENTITY browseAddons.label               "Περιήγηση σε όλα τα πρόσθετα">
 <!ENTITY searchFailed.label               "Ο &brandShortName; δεν μπόρεσε να λάβει πρόσθετα">
 <!ENTITY recommendedHeader.label          "Συνιστώμενα">
@@ -176,7 +176,7 @@
 
 <!ENTITY cancelSearch.button              "Ακύρωση">
 <!ENTITY searchResultHomepage.value       "Μαθετε περισσότερα">
-<!ENTITY searchBox.label                  "Αναζήτηση όλων των προσθέτων">
+<!ENTITY searchBox.label                  "Αναζήτηση σε όλα τα προσθέτα">
 <!ENTITY recommendedResults.label         "Δείτε όλα τα συνιστώμενα πρόσθετα">
 <!ENTITY searchResultInstalling.label     "Εγκατάσταση…">
 <!ENTITY searchResultFailed.label         "Η εγκατάσταση απέτυχε">
@@ -203,3 +203,10 @@
 <!ENTITY blocklist.checkbox.label         "Απενεργοποίηση">
 <!ENTITY softBlocklisted.label            "Γνωστά για προβλήματα σταθερότητας ή ασφάλειας.">
 
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Βρίσκει ενημερώσεις για τις πρόσθετες λειτουργίες σας">
+<!ENTITY cmd.installUpdatesAll2.label     "Εγκατάσταση ενημερώσεων">
+
+<!ENTITY cmd.installUpdatesAll2.accesskey "γ">
+
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Εγκατάσταση των επιλεγμένων ενημερώσεων">
+<!ENTITY outdated.label                   "Μια πρόσφατη και ασφαλέστερη έκδοση είναι διαθέσιμη.">

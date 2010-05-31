@@ -20,3 +20,12 @@
 <!ENTITY language.auto "Αυτόματος εντοπισμός">
 <!ENTITY clearPrivateData2.title                   "Εκκαθάριση προσωπικών δεδομένων">
 
+<!ENTITY defaultBrowser.title                      "Προεπιλεγμένος περιηγητής">
+<!ENTITY defaultBrowser.description                "Ορισμός του &brandShortName; ως την προεπιλεγμένη εφαρμογή">
+
+<!ENTITY homepage.title                            "Αρχική σελίδα">
+<!ENTITY homepage.none                             "Κενή σελίδα">
+<!ENTITY homepage.default                          "Αρχική &brandShortName;">
+<!ENTITY homepage.currentpage                      "Χρήση τρέχουσας σελίδας">
+
+
