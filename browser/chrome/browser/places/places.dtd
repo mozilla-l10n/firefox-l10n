@@ -25,9 +25,6 @@
 <!ENTITY cmd.properties.label      "Ιδιότητες">
 <!ENTITY cmd.properties.accesskey  "δ">
 
-<!ENTITY cmd.new_livemark.label            "Νέος δυναμικός σελιδοδείκτης...">
-<!ENTITY cmd.new_livemark.accesskey        "δ">
-
 <!ENTITY cmd.reloadLivebookmark.label      "Ανανέωση δυναμικού σελιδοδείκτη">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ν">
 <!ENTITY cmd.reloadMicrosummary.label      "Ανανέωση δυναμικού τίτλου">
@@ -58,18 +55,15 @@
 <!ENTITY search.scopeDownloads.accesskey           "ψ">
 <!ENTITY search.scopeHistory.label                 "Ιστορικό">
 <!ENTITY search.scopeHistory.accesskey             "σ">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Προβολή μπάρας αναζήτησης">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Απόκρυψη μπάρας αναζήτησης">
+
+
 
 <!ENTITY search.scopeBookmarks.label               "Σελιδοδείκτες">
 <!ENTITY search.scopeBookmarks.accesskey           "κ">
 
 
-<!ENTITY view.detailsMacOSX.label  "Λίστα">
-<!ENTITY view.details.label        "Λεπτομέρειες">
-<!ENTITY view.details.accesskey    "Λ">
 
-<!ENTITY view.addons.label   "Προβολή προσθέτων">
+
 
 <!ENTITY maintenance.label   "Εισαγωγή και αντίγραφο">
 
@@ -99,34 +93,7 @@
 
 
 
-<!ENTITY cmd.select_all.label
-  "Επιλογή όλων">
-<!ENTITY cmd.select_all.accesskey
-  "λ">
-<!ENTITY cmd.select_all.key
-  "a">
-<!ENTITY cmd.edit_cut.label
-  "Αποκοπή">
-<!ENTITY cmd.edit_cut.accesskey
-  "κ">
-<!ENTITY cmd.edit_cut.key
-  "x">
-<!ENTITY cmd.edit_copy.label
-  "Αντιγραφή">
-<!ENTITY cmd.edit_copy.accesskey
-  "γ">
-<!ENTITY cmd.edit_copy.key
-  "c">
-<!ENTITY cmd.edit_paste.label
-  "Επικόλληση">
-<!ENTITY cmd.edit_paste.accesskey
-  "π">
-<!ENTITY cmd.edit_paste.key
-  "v">
-<!ENTITY cmd.edit_delete.label
-  "Διαγραφή">
-<!ENTITY cmd.edit_delete.accesskey
-  "Δ">
+
 <!ENTITY cmd.open.label
   "Άνοιγμα">
 <!ENTITY cmd.open.accesskey
@@ -141,12 +108,7 @@
   "κ">
 
 
-<!ENTITY cmd.show_info.key
-  "i">
-<!ENTITY cmd.rename.label
-  "Μετονομασία">
-<!ENTITY cmd.rename.accesskey
-  "Μ">
+
 <!ENTITY cmd.sortby_name.label
   "Ταξινόμηση κατά όνομα">
 <!ENTITY cmd.sortby_name.accesskey
@@ -161,23 +123,6 @@
   "χ">
 
 
-<!ENTITY cmd.groupby_site.label
-  "Ομαδοποίηση κατά τόπο">
-<!ENTITY cmd.groupby_site.accesskey
-  "τ">
-<!ENTITY cmd.groupby_page.label
-  "Ομαδοποίηση κατά σελίδα">
-<!ENTITY cmd.groupby_page.accesskey
-  "σ">
-<!ENTITY cmd.groupby_feed.label
-  "Ομαδοποίηση κατά συνδρομή">
-<!ENTITY cmd.groupby_feed.accesskey
-  "υ">
-<!ENTITY cmd.groupby_post.label
-  "Ομαδοποίηση κατά δημοσίευση">
-<!ENTITY cmd.groupby_post.accesskey
-  "δ">
-
 
 <!ENTITY search.label
   "Αναζήτηση:">
@@ -190,78 +135,11 @@
   "Αποθήκευση">
 <!ENTITY saveSearch.accesskey
   "σ">
-<!ENTITY moreCriteria.label
-  "+">
-<!ENTITY advancedSearch.onlybookmarked.label
-  "Αναζήτηση μόνο στους σελιδοδείκτες">
-<!ENTITY advancedSearch.match.label
-  "Ταίριασμα ">
-<!ENTITY advancedSearch.all.label
-  "όλα">
-<!ENTITY advancedSearch.any.label
-  "οτιδήποτε">
-<!ENTITY advancedSearch.rules.label
-  " από τους ακόλουθους κανόνες:">
-<!ENTITY advancedSearch.subj_keyword.label
-  "Περιέχει το κείμενο">
-<!ENTITY advancedSearch.subj_visited.label
-  "Επίσκεψη">
-<!ENTITY advancedSearch.subj_location.label
-  "Τοποθεσία">
-<!ENTITY advancedSearch.location_startswith.label
-  "ξεκινάει με">
-<!ENTITY advancedSearch.location_is.label
-  "είναι">
-<!ENTITY advancedSearch.location_onsite.label
-  "είναι σε τόπο">
-<!ENTITY advancedSearch.time_is.label
-  "στις">
-<!ENTITY advancedSearch.time_before.label
-  "πριν">
-<!ENTITY advancedSearch.time_after.label
-  "μετά">
-<!ENTITY advancedSearch.time_inlast.label
-  "τις τελευταίες">
-<!ENTITY advancedSearch.last_days.label
-  "ημέρες">
-<!ENTITY advancedSearch.last_weeks.label
-  "εβδομάδες">
-<!ENTITY advancedSearch.last_months.label
-  "μήνες">
-<!ENTITY advancedSearch.plus.label
-  "+">
-<!ENTITY advancedSearch.minus.label
-  "-">
-<!ENTITY advancedSearch.groupby.label
-  "Ομαδοποίηση κατά: ">
-<!ENTITY advancedSearch.groupby_host.label
-  "σύστημα">
-<!ENTITY advancedSearch.groupby_domain.label
-  "τομέα">
-<!ENTITY advancedSearch.groupby_folder.label
-  "φάκελο">
-<!ENTITY advancedSearch.sortby.label
-  "Ταξινόμηση κατά: ">
-<!ENTITY advancedSearch.sortby_title.label
-  "τίτλο">
-<!ENTITY advancedSearch.sortby_date.label
-  "ημερομηνία">
-<!ENTITY advancedSearch.sortby_visit.label
-  "αριθμό επισκέψεων">
-<!ENTITY advancedSearch.sortby_url.label
-  "url">
-<!ENTITY advancedSearch.sortby_asc.label
-  "αύξουσα">
-<!ENTITY advancedSearch.sortby_desc.label
-  "φθίνουσα">
-<!ENTITY advancedSearch.max.label
-  "Μέγιστα αποτελέσματα: ">
+
+
 <!ENTITY cmd.find.key
   "f">
-<!ENTITY feed.subscribe.label
-  "Αρχείο ροής (feed)">
-<!ENTITY feed.subscribe.tooltip
-  "Συνδρομή">
+
 
 
 <!ENTITY file.accesskey "Α">
@@ -270,8 +148,7 @@
 <!ENTITY edit.label "Επεξεργασία">
 <!ENTITY edit.accesskey "Ε">
 
-<!ENTITY view.toolbar.label "Εργαλειοθήκη">
-<!ENTITY view.toolbar.accesskey "θ">
+
 <!ENTITY view.columns.label "Προβολή στηλών">
 <!ENTITY view.columns.accesskey "ρ">
 <!ENTITY view.unsorted.label "Χωρίς ταξινόμηση">
@@ -280,26 +157,22 @@
 <!ENTITY view.sortAscending.accesskey "Α">
 <!ENTITY view.sortDescending.label "Σειρά ταξινόμησης Ω > Α">
 <!ENTITY view.sortDescending.accesskey  "Ω">
-<!ENTITY help.usingBookmarks.label "Χρήση σελιδοδεικτών">
-<!ENTITY help.usingBookmarks.accesskey "σ">
-<!ENTITY help.usingHistory.label  "Χρήση ιστορικού">
-<!ENTITY help.usingHistory.accesskey "ι">
-<!ENTITY help.advancedTips.label "Προχωρημένες συμβουλές">
+
+
+
+
+
 <!ENTITY help.advancedTips.accesskey  "υ">
 
 <!ENTITY cmd.new_bookmark.label "Νέος σελιδοδείκτης...">
 <!ENTITY cmd.new_bookmark.accesskey "σ">
 <!ENTITY cmd.close.key "w">
 
-<!ENTITY cmd.edit_undo.label "Αναίρεση">
-<!ENTITY cmd.edit_undo.accesskey "ν">
-<!ENTITY cmd.edit_redo.label "Ακύρωση αναίρεσης">
-<!ENTITY cmd.edit_redo.accesskey "ρ">
+
 
 <!ENTITY cmd.findCurrent.label "Εύρεση στη τρέχουσα συλλογή...">
 <!ENTITY cmd.findCurrent.accesskey  "Ε">
-<!ENTITY cmd.edit_undo.key  "z">
-<!ENTITY cmd.edit_redo.key "y">
+
 <!ENTITY cmd.context_sortby_name.accesskey "ι">
 <!ENTITY cmd.context_new_folder.accesskey "φ">
 
