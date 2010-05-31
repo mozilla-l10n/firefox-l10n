@@ -1,6 +1,6 @@
-<!ENTITY newCardCmd.accesskey "Ν">
-<!ENTITY newCardCmd.label "Καρτέλα Ευρετηρίου Διευθύνσεων...">
-<!ENTITY newMessageCmd.accesskey "μ">
+<!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Μήνυμα">
-<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.accesskey "Μ">
+<!ENTITY newContactCmd.label "Επαφή ευρετηρίου…">
+<!ENTITY newContactCmd.accesskey "φ">

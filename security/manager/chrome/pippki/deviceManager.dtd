@@ -14,7 +14,7 @@
 <!ENTITY devmgr.version.label "Έκδοση">
 <!ENTITY devmgr.details.title2 "Τιμή">
 <!ENTITY loaddevice.title "Φόρτωση μονάδος PKCS#11">
-<!ENTITY loaddevice.browse "Πλοήγηση...">
+<!ENTITY loaddevice.browse "Αναζήτηση...">
 <!ENTITY loaddevice.modname "Όνομα μονάδος:">
 <!ENTITY devmgr.button.changeslotname.accesskey "γ">
 <!ENTITY devmgr.button.login.accesskey          "Σ">
@@ -25,4 +25,4 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 <!ENTITY loaddevice.modname.accesskey           "μ">
 <!ENTITY loaddevice.filename.accesskey          "χ">
-<!ENTITY loaddevice.browse.accesskey            "λ">
+<!ENTITY loaddevice.browse.accesskey            "ζ">

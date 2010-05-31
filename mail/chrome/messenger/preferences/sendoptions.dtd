@@ -1,33 +1,29 @@
-<!ENTITY AddButton.label "Προσθήκη...">
-<!ENTITY AddHtmlDomain.accesskey "π">
-<!ENTITY AddPlainText.accesskey "π">
-<!ENTITY DeleteButton.label "Διαγραφή">
-<!ENTITY DeleteHtmlDomain.accesskey "Δ">
-<!ENTITY DeletePlainText.accesskey "γ">
-<!ENTITY HTMLTab.accesskey "h">
-<!ENTITY HTMLTab.label "Τομείς HTML">
-<!ENTITY PlainTextTab.accesskey "π">
-<!ENTITY PlainTextTab.label "Τομείς απλού κειμένου">
-<!ENTITY add.htmldomain "Όνομα τομέα HTML">
-<!ENTITY add.htmldomain.accesskey "μ">
-<!ENTITY add.htmltitle "Προσθήκη ονόματος τομέα HTML">
-<!ENTITY add.plaintext.accesskey "π">
-<!ENTITY add.plaintextdomain "Όνομα τομέα απλού κειμένου:">
-<!ENTITY add.plaintexttitle "Προσθήκη ονόματος τομέα απλού κειμένου">
-<!ENTITY askMe.accesskey "ρ">
-<!ENTITY askMe.label "Ερώτηση για το τι να κάνω">
-<!ENTITY convertPlain.accesskey "μ">
-<!ENTITY convertPlain.label "Μετατροπή του μηνύματος σε απλό κείμενο">
 <!ENTITY dialog.title "Επιλογές αποστολής">
-<!ENTITY domaindesc.label "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
-<!ENTITY domainnameError.title "Σφάλμα ονόματος τομέα">
-<!ENTITY dualEntryError.label "Ένα όνομα τομέα δεν μπορεί να εμφανίζεται και στις δύο λίστες (HTML και απλού κειμένου). Το όνομα τομέα @string@ υπάρχει ήδη.">
-<!ENTITY duplicationError.label "Το όνομα τομέα @string@ υπάρχει ήδη σε αυτή τη λίστα.">
-<!ENTITY override.label "Σημείωση: Χρήση του ευρετηρίου διευθύνσεων για τον καθορισμό προτιμώμενης μορφής κειμένου για τους παραλήπτες.">
-<!ENTITY receiveHTML.label "Στις καρτέλες Ευρετηρίου μπορεί να δηλωθούν οι παραλήπτες με δυνατότητα HTML  ">
-<!ENTITY sendBoth.accesskey "κ">
-<!ENTITY sendBoth.label "Αποστολή και σε HTML και σε απλό κείμενο">
-<!ENTITY sendHTML.accesskey "σ">
-<!ENTITY sendHTML.label "Αποστολή του μηνύματος σε HTML οπωσδήποτε">
 <!ENTITY sendMail.title "Μορφή κειμένου">
-<!ENTITY sendMaildesc.label "Κατά την αποστολή μηνυμάτων σε μορφή HTML  και ένας από τους παραλήπτες δεν είναι στη λίστα που επιθυμούν HTML:">
+<!ENTITY sendMaildesc.label "Κατά την αποστολή μηνυμάτων σε μορφή HTML και αν δεν επιθυμούν HTML όλοι οι παραλήπτες:">
+<!ENTITY askMe.label "Ερώτηση για το τι να κάνω">
+<!ENTITY askMe.accesskey "ρ">
+<!ENTITY convertPlain.label "Μετατροπή του μηνύματος σε απλό κείμενο">
+<!ENTITY convertPlain.accesskey "Μ">
+<!ENTITY sendHTML.label "Αποστολή του μηνύματος σε HTML οπωσδήποτε">
+<!ENTITY sendHTML.accesskey "σ">
+<!ENTITY sendBoth.label "Αποστολή και σε HTML και σε απλό κείμενο">
+<!ENTITY sendBoth.accesskey "κ">
+<!ENTITY override.label "Σημείωση: Χρήση του ευρετηρίου διευθύνσεων για τον καθορισμό προτιμώμενης μορφής κειμένου για τους παραλήπτες.">
+<!ENTITY domaindesc.label "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
+<!ENTITY HTMLTab.label "Τομείς HTML">
+<!ENTITY HTMLTab.accesskey "H">
+<!ENTITY PlainTextTab.label "Τομείς απλού κειμένου">
+<!ENTITY PlainTextTab.accesskey "π">
+<!ENTITY AddHtmlDomain.label "Προσθήκη…">
+<!ENTITY AddHtmlDomain.accesskey "θ">
+<!ENTITY AddPlainText.label "Προσθήκη…">
+<!ENTITY AddPlainText.accesskey "ρ">
+<!ENTITY DeleteHtmlDomain.label "Διαγραφή">
+<!ENTITY DeleteHtmlDomain.accesskey "Δ">
+<!ENTITY DeletePlainText.label "Διαγραφή">
+<!ENTITY DeletePlainText.accesskey "γ">
+<!ENTITY add.htmltitle "Προσθήκη ονόματος τομέα HTML">
+<!ENTITY add.htmldomain "Όνομα τομέα HTML">
+<!ENTITY add.plaintexttitle "Προσθήκη ονόματος τομέα απλού κειμένου">
+<!ENTITY add.plaintextdomain "Όνομα τομέα απλού κειμένου:">

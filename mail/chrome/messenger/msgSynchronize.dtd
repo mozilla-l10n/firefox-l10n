@@ -1,17 +1,17 @@
+<!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός Μηνυμάτων">
 <!ENTITY MsgSelect.label "Αντικείμενα για χρήση χωρίς σύνδεση">
+<!ENTITY MsgSyncDesc.label "Αν έχετε ήδη επιλέξει φακέλους αλληλογραφίας και συζητήσεων για εργασία χωρίς σύνδεση, μπορείτε να κάνετε λήψη ή και να τους συγχρονίσετε τώρα.Αλλιώς χρησιμοποιήστε το κουμπί &quot;Επιλογή&quot; για να επιλέξετε φακέλους. ">
+<!ENTITY MsgSyncDirections.label "Λήψη ή/και συγχρονισμός των ακόλουθων:">
+<!ENTITY syncTypeMail.label "Μηνύματα Αλληλογραφίας">
+<!ENTITY syncTypeMail.accesskey "Μ">
+<!ENTITY syncTypeNews.label "Μηνύματα Ομάδων συζήτησης">
+<!ENTITY syncTypeNews.accesskey "ζ">
+<!ENTITY sendMessage.label "Αποστολή μη απεσταλμένων μηνυμάτων">
+<!ENTITY sendMessage.accesskey "μ">
+<!ENTITY workOffline.label "Να γίνει αποσύνδεση όταν ολοκληρωθεί η λήψη ή/και ο συγχρονισμός ολοκληρωθεί">
+<!ENTITY workOffline.accesskey "γ">
+<!ENTITY selectButton.label "Επιλογή...">
+<!ENTITY selectButton.accesskey "λ">
 <!ENTITY MsgSelectDesc.label "Επιλέξτε τους φακέλους αλληλογραφίας και συζητήσεων που θέλετε να είναι διαθέσιμοι για χρήση χωρίς σύνδεση. Η επιλογή πολλών φακέλων μπορεί να αυξήσει το χρόνο λήψης.">
 <!ENTITY MsgSelectInd.label "Επιλεγμένοι">
 <!ENTITY MsgSelectItems.label "Φάκελοι και ομάδες συζητήσεων">
-<!ENTITY MsgSyncDesc.label "Αν έχετε ήδη επιλέξει φακέλους αλληλογραφίας και συζητήσεων για εργασία χωρίς σύνδεση, μπορείτε να κάνετε λήψη ή και να τους συγχρονίσετε τώρα.Αλλιώς χρησιμοποιήστε το κουμπί &quot;Select&quot; για να επιλέξετε φακέλους. ">
-<!ENTITY MsgSyncDirections.label "Λήψη ή/και συγχρονισμός των ακόλουθων:">
-<!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός Μηνυμάτων">
-<!ENTITY selectButton.accesskey "">
-<!ENTITY selectButton.label "Επιλογή...">
-<!ENTITY sendMessage.accesskey "">
-<!ENTITY sendMessage.label "Αποστολή μη απεσταλμένων μηνυμάτων">
-<!ENTITY syncTypeMail.accesskey "">
-<!ENTITY syncTypeMail.label "Μηνύματα Αλληλογραφίας">
-<!ENTITY syncTypeNews.accesskey "">
-<!ENTITY syncTypeNews.label "Μηνύματα Ομάδων συζήτησης">
-<!ENTITY workOffline.accesskey "">
-<!ENTITY workOffline.label "Να γίνει αποσύνδεση όταν ολοκληρωθεί η λήψη ή/και ο συγχρονισμός ολοκληρωθεί">

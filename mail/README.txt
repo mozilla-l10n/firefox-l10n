@@ -1,4 +1,2 @@
-For information about installing, running and configuring Thunderbird
-including a list of known issues and troubleshooting information, 
-refer to: http://getthunderbird.com/releases/
+Για πληροφορίες εγκατάστασης, εκτέλεσης και ρύθμισης του Thunderbird, όπως και για πληροφορίες επίλυσης προβλημάτων δείτε το: http://getthunderbird.com/releases/
 

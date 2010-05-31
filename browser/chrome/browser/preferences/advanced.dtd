@@ -78,7 +78,7 @@
 <!ENTITY viewSecurityDevices.accesskey  "σ">
 
 <!ENTITY enableAppUpdate.label          "Τον &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "F">
+<!ENTITY enableAppUpdate.accesskey      "ν">
 
 <!ENTITY autoCheck.label                "Αυτόματος έλεγχος ενημερώσεων για:">
 <!ENTITY whenUpdatesFound.label         "Όταν βρίσκονται ενημερώσεις για τον &brandShortName;">
@@ -95,8 +95,6 @@
 <!ENTITY checkSpelling.label             "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
 <!ENTITY checkSpelling.accesskey         "θ">
 
-<!ENTITY enableAddonsUpdate.label        "Εγκατεστημένα πρόσθετα">
-<!ENTITY enableAddonsUpdate.accesskey    "μ">
 <!ENTITY modeAutoAddonWarn.label         "Προειδοποίηση αν αυτό απενεργοποιήσει κάποιο από τα πρόσθετα">
 <!ENTITY modeAutoAddonWarn.accesskey     "δ">
 
@@ -110,5 +108,12 @@
 <!ENTITY offlineNotify.accesskey         "δ">
 <!ENTITY offlineNotifyExceptions.label   "Εξαιρέσεις…">
 <!ENTITY offlineNotifyExceptions.accesskey "ξ">
+
+<!ENTITY enableAddonsUpdate2.label       "Πρόσθετα">
+<!ENTITY enableAddonsUpdate2.accesskey   "θ">
+
+<!ENTITY submitCrashes.label             "Υποβολή αναφορών κατάρρευσης">
+<!ENTITY submitCrashes.accesskey         "β">
+
 
 

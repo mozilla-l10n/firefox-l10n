@@ -1,32 +1,78 @@
-<!ENTITY attachmentsTree.label "Συνημμένα:">
-<!ENTITY bccField.label "Κρυφή κοιν: ">
-<!ENTITY ccField.label "Κοιν:">
-<!ENTITY copyLinkCmd.accesskey "γ">
-<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
-<!ENTITY dateField.label "Ημερομηνία: ">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "Δ">
-<!ENTITY deleteAllAttachmentsCmd.label "Διαγραφή όλων...">
-<!ENTITY deleteAttachmentCmd.label "Διαγραφή">
-<!ENTITY detachAllAttachmentsCmd.accesskey "σ">
-<!ENTITY detachAllAttachmentsCmd.label "Απόσπαση όλων...">
-<!ENTITY detachAttachmentCmd.label "Απόσπαση ...">
-<!ENTITY editMessage.label "Τροποποίηση Προσχεδίου...">
-<!ENTITY followupToField.label "Συνέχεια σε:">
-<!ENTITY fromField.label "Από:">
-<!ENTITY newsgroupsField.label "Ομάδες Συζήτησης:">
-<!ENTITY openAttachmentCmd.accesskey "">
+<!--null-->
+<!ENTITY toField2.label "προς ">
+<!ENTITY fromField2.label "από ">
+<!ENTITY senderField2.label "αποστολέας ">
+<!ENTITY organizationField2.label "οργανισμός ">
+<!ENTITY replyToField2.label "απάντηση-σε ">
+<!ENTITY subjectField2.label "θέμα ">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "ομάδες συζήτησης ">
+<!ENTITY followupToField2.label "σε συνέχεια του ">
+<!ENTITY tagsHdr2.label "ετικέτες ">
+<!ENTITY dateField2.label "ημερομηνία ">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "αναφορές ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "σε απάντηση του ">
+<!ENTITY originalWebsite2.label "ιστοσελίδα ">
+<!ENTITY editMessageDescription.label "Αυτό είναι ένα πρόχειρο μήνυμα">
+<!ENTITY editMessageButton.label "Επεξεργασία…">
+<!ENTITY hdrArchiveButton.label "αρχειοθέτηση">
+<!ENTITY hdrArchiveButton.tooltip "αρχειοθέτηση αυτού του μηνύματος">
+<!ENTITY hdrReplyButton.label "απάντηση">
+<!ENTITY hdrReplyButton.tooltip "απάντηση σε αυτό το μήνυμα">
+<!ENTITY hdrReplyAllButton.label "απάντηση σε όλους">
+<!ENTITY hdrReplyAllButton.tooltip "απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
+<!ENTITY hdrReplyListButton.label "απάντηση στη λίστα">
+<!ENTITY hdrReplyListButton.tooltip "απάντηση στη λίστα αλληλογραφίας">
+<!ENTITY hdrForwardButton.label "προώθηση">
+<!ENTITY hdrForwardButton.tooltip "προώθηση του μηνύματος">
+<!ENTITY hdrJunkButton.label "ανεπιθύμητο">
+<!ENTITY hdrJunkButton.tooltip "σημειώση του μηνύματος ως ανεπιθύμητο">
+<!ENTITY hdrTrashButton.label "διαγραφή">
+<!ENTITY hdrTrashButton.tooltip "διαγραφή αυτού του μηνύματος">
+<!ENTITY hdrViewToolbarShowFull.label "Προβολή εικονιδίων και κειμένου">
+<!ENTITY hdrViewToolbarShowFull.accesskey "β">
+<!ENTITY hdrViewToolbarShowIcons.label "Προβολή μόνο εικονιδίων">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "μ">
+<!ENTITY hdrViewToolbarShowText.label "Προβολή μόνο κειμένου">
+<!ENTITY hdrViewToolbarShowText.accesskey "κ">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Πάντα προβολή του Απάντηση στον αποστολέα">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ν">
+<!ENTITY otherActionsButton.label "άλλες ενέργειες">
+<!ENTITY otherActionsOpenInNewWindow.label "άνοιγμα σε νέο παράθυρο">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "π">
+<!ENTITY otherActionsOpenInNewTab.label "άνοιγμα σε νέα καρτέλα">
+<!ENTITY otherActionsOpenInNewTab.accesskey "κ">
+<!ENTITY markAsReadMenuItem.label "σημείωση ως αναγνωσμένο">
+<!ENTITY markAsReadMenuItem.accesskey "γ">
+<!ENTITY markAsUnreadMenuItem.label "σημείωση ως μη αναγνωσμένο">
+<!ENTITY markAsUnreadMenuItem.accesskey "μ">
+<!ENTITY saveAsMenuItem.label "αποθήκευση ως…">
+<!ENTITY saveAsMenuItem.accesskey "θ">
+<!ENTITY viewSourceMenuItem.label "προβολή κώδικα…">
+<!ENTITY viewSourceMenuItem.accesskey "β">
+<!ENTITY otherActionsPrint.label "εκτύπωση…">
+<!ENTITY otherActionsPrint.accesskey "π">
 <!ENTITY openAttachmentCmd.label "Άνοιγμα">
-<!ENTITY organizationField.label "Οργανισμός:">
-<!ENTITY originalWebsite.label "Ιστοσελίδα: ">
-<!ENTITY printAttachmentCmd.accesskey "">
-<!ENTITY printAttachmentCmd.label ".Εκτύπωση">
-<!ENTITY replyToField.label "Απάντηση σε:">
-<!ENTITY saveAll.label "Αποθήκευση όλων.">
-<!ENTITY saveAllAttachmentsCmd.accesskey "">
-<!ENTITY saveAllAttachmentsCmd.label "Αποθήκευση όλων...">
-<!ENTITY saveAsAttachmentCmd.accesskey "">
+<!ENTITY openAttachmentCmd.accesskey "ο">
 <!ENTITY saveAsAttachmentCmd.label "Αποθήκευση ως....">
-<!ENTITY senderField.label "Sender: ">
-<!ENTITY subjectField.label "Θέμα:">
-<!ENTITY toField.label "Προς:">
-<!ENTITY userAgentField.label "User-Agent: ">
+<!ENTITY saveAsAttachmentCmd.accesskey "σ">
+<!ENTITY detachAttachmentCmd.label "Απόσπαση ...">
+<!ENTITY deleteAttachmentCmd.label "Διαγραφή">
+<!ENTITY saveAllAttachmentsCmd.label "Αποθήκευση όλων...">
+<!ENTITY saveAllAttachmentsCmd.accesskey "λ">
+<!ENTITY detachAllAttachmentsCmd.label "Απόσπαση όλων...">
+<!ENTITY detachAllAttachmentsCmd.accesskey "σ">
+<!ENTITY deleteAllAttachmentsCmd.label "Διαγραφή όλων...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "α">
+<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY copyLinkCmd.accesskey "γ">
+<!ENTITY CopyMessageId.label "Αντιγραφή Message-ID">
+<!ENTITY OpenMessageForMsgId.label "Άνοιγμα Message για ID">
+<!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα Browser με Message-ID">
+
+<!ENTITY otherActionsOpenConversation.label "άνοιγμα σε συζήτηση">
+<!ENTITY otherActionsOpenConversation.accesskey "υ">
+

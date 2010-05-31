@@ -26,8 +26,8 @@
 <!ENTITY closeWhenDone.accesskey "λ">
 <!ENTITY saveTo.label "Αποθήκευση αρχείων σε">
 <!ENTITY saveTo.accesskey "θ">
-<!ENTITY chooseFolderWin.label        "Περιήγηση...">
-<!ENTITY chooseFolderWin.accesskey    "ε">
+<!ENTITY chooseFolderWin.label        "Αναζήτηση...">
+<!ENTITY chooseFolderWin.accesskey    "ζ">
 <!ENTITY chooseFolderMac.label        "Επιλογή...">
 <!ENTITY chooseFolderMac.accesskey    "π">
 <!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">

@@ -4,13 +4,12 @@
 <!ENTITY aboutLink              "&lt; Περί του &brandFullName;">
 <!ENTITY aboutLink.accesskey    "ρ">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 Contributors. All rights reserved. (">
-<!ENTITY copyrightInfo2             ").">
+
 <!ENTITY closeCmdGNOME.label        "Κλείσιμο">  
 <!ENTITY closeCmdGNOME.accesskey    "Κ">
 <!ENTITY copyrightGNOME.accesskey   "ν">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Πληροφορίες αδειοδότησης">
+<!ENTITY licenseLinkSuffix          ".">
 
 
 

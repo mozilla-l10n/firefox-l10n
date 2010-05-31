@@ -1,68 +1,84 @@
-<!ENTITY Diskspace "Χώρος στο δίσκο">
-<!ENTITY appCheckNow.accesskey "χ">
-<!ENTITY checkNow.label "Έλεγχος τώρα">
-<!ENTITY configEdit.accesskey "θ">
-<!ENTITY configEdit.label "Επεξεργασία ρυθμίσεων...">
-<!ENTITY configEditDesc.label "Προχωρημένες ρυθμίσεις">
-<!ENTITY connectionSeconds.label "δευτερόλεπτα">
-<!ENTITY connectionTimeout.accesskey "δ">
-<!ENTITY connectionTimeout.label "Λήξη σύνδεσης: ">
-<!ENTITY enableExtensionUpdate.accesskey "τ">
-<!ENTITY enableExtensionUpdate.label "Τις επεκτάσεις και τα θέματα μου">
-<!ENTITY extensionsCheckNow.accesskey "">
 <!ENTITY itemGeneral.label "Γενικά">
-<!ENTITY itemOffline.label "Εργασία χωρίς σύνδεση &amp; Χώρος στο δίσκο">
+<!ENTITY itemDisplay.label "Εμφάνιση &amp; Ανάγνωση">
 <!ENTITY itemUpdate.label "Ενημέρωση">
-<!ENTITY kb.label "KB">
-<!ENTITY markAsRead.accesskey "μ">
-<!ENTITY markAsRead.label "Σημείωση μηνύματος ως αναγνωσμένο μετά από την προβολή του για">
-<!ENTITY markAsReadEnd.accesskey "δ">
-<!ENTITY markAsReadEnd.label "δευτερόλεπτα.">
-<!ENTITY offline.label "Χωρίς σύνδεση">
-<!ENTITY offlineCompact.accesskey "π">
-<!ENTITY offlineCompact.label "Συμπίεση φακέλων πάνω από">
-<!ENTITY radioAlwaysOnline "Πάντα με σύνδεση">
-<!ENTITY radioAlwaysOnline.accesskey "ν">
-<!ENTITY radioAskDownload "Ερώτηση">
-<!ENTITY radioAskDownload.accesskey "σ">
-<!ENTITY radioAskMe "Ερώτηση για τη σύνδεση κατά την εκκίνηση">
-<!ENTITY radioAskMe.accesskey "ρ">
-<!ENTITY radioAskUnsent "Ερώτηση">
-<!ENTITY radioAskUnsent.accesskey "σ">
-<!ENTITY radioAutoDownload "Ναι">
-<!ENTITY radioAutoDownload.accesskey "α">
-<!ENTITY radioAutoSend "Ναι">
-<!ENTITY radioAutoSend.accesskey "Ν">
-<!ENTITY radioNotDownload "Όχι">
-<!ENTITY radioNotDownload.accesskey "χ">
-<!ENTITY radioNotSend "Όχι">
-<!ENTITY radioNotSend.accesskey "ι">
-<!ENTITY radioRememberPrevState "Απομνημόνευση προηγούμενης κατάστασης">
-<!ENTITY radioRememberPrevState.accesskey "μ">
-<!ENTITY rememberLastMsg.accesskey "π">
-<!ENTITY rememberLastMsg.label "Απομνημόνευση του τελευταίου επιλεγμένου μηνύματος">
-<!ENTITY reuseExp.label "Άνοιγμα νέων μηνυμάτων σε:">
-<!ENTITY reuseExpRadio0.accesskey "">
-<!ENTITY reuseExpRadio0.label "Ένα νέο παράθυρο μηνύματος">
-<!ENTITY reuseExpRadio1.accesskey "π">
-<!ENTITY reuseExpRadio1.label "Ένα υπάρχον παράθυρο μηνύματος">
-<!ENTITY showCondensedAddresses.accesskey "β">
+<!ENTITY itemNetworking.label "Δίκτυο &amp; Αποθηκευτικός χώρος">
+<!ENTITY itemCertificates.label "Πιστοποιητικά">
+<!ENTITY enableGlodaSearch.label "Ενεργοποίηση γενικής αναζήτησης και καταλογοποίησης">
+<!ENTITY enableGlodaSearch.accesskey "γ">
+<!ENTITY systemIntegration.label "Ενσωμάτωση συστήματος">
+<!ENTITY alwaysCheckDefault.label "Πάντα έλεγχος στην εκκίνηση για το αν ο &brandShortName; είναι η προεπιλεγμένη εφαρμογή αλληλογραφίας">
+<!ENTITY alwaysCheckDefault.accesskey "λ">
+<!ENTITY searchIntegration.label "Να επιτρέπεται στο &searchIntegration.engineName; να κάνει αναζήτηση μηνυμάτων">
+<!ENTITY searchIntegration.accesskey "π">
+<!ENTITY checkNow.label "Έλεγχος τώρα">
+<!ENTITY checkNow.accesskey "τ">
+<!ENTITY configEditDesc.label "Προχωρημένες ρυθμίσεις">
+<!ENTITY configEdit.label "Επεξεργασία ρυθμίσεων...">
+<!ENTITY configEdit.accesskey "θ">
+<!ENTITY returnReceiptsInfo.label "Καθορισμός του τρόπου χειρισμού των βεβαιώσεων ανάγνωσης από τον &brandShortName;">
+<!ENTITY showReturnReceipts.label "Βεβαιώσεις ανάγνωσης…">
+<!ENTITY showReturnReceipts.accesskey "Β">
+<!ENTITY reading.caption "Ανάγνωση">
+<!ENTITY display.caption "Εμφάνιση">
 <!ENTITY showCondensedAddresses.label "Προβολή μόνο του ονόματος όσων βρίσκονται στο ευρετήριο διευθύνσεων">
-<!ENTITY showFolderColumns.accesskey "σ">
-<!ENTITY showFolderColumns.label "Προβολή αναπτυγμένων στηλών στον πίνακα φακέλου">
-<!ENTITY textGoingOffline "Λήψη μηνυμάτων για εργασία χωρίς σύνδεση κατά την αποσύνδεση σας;">
-<!ENTITY textGoingOnline "Αποστολή μη απεσταλμένων μηνυμάτων κατά τη σύνδεση;">
-<!ENTITY textStartUp "Κατά την εκκίνηση:">
-<!ENTITY showUpdates.label              "Προβολή ιστορικού ενημερώσεων">
-<!ENTITY showUpdates.accesskey          "ι">
-<!ENTITY enableAppUpdate.label          "Τον &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-
-<!ENTITY modeAskMe.label                "Να γίνεται ερώτηση για το τι να κάνω">
-<!ENTITY modeAskMe.accesskey            "γ">
-<!ENTITY whenUpdatesFound.label         "Όταν υπάρχουν ενημερώσεις για τον  &brandShortName; ">
-<!ENTITY autoCheck.label                "Να γίνεται αυτόματος έλεγχος για ενημερώσεις σε:">
-<!ENTITY modeAutoWarn.label             "Να προειδοποιούμαι αν αυτή θα απενεργοποιήσει επεκτάσεις και θέματα">
-<!ENTITY modeAutoWarn.accesskey         "π">
-<!ENTITY modeAutomatic.label            "Αυτόματη λήψη και εγκατάσταση της ενημέρωσης">
-<!ENTITY modeAutomatic.accesskey        "ψ">
+<!ENTITY showCondensedAddresses.accesskey "β">
+<!ENTITY autoMarkAsRead.label "Αυτόματη σημείωση μηνυμάτων ως αναγνωσμένων">
+<!ENTITY autoMarkAsRead.accesskey "Α">
+<!ENTITY markAsReadNoDelay.label "Άμεσα με την εμφάνιση">
+<!ENTITY markAsReadNoDelay.accesskey "φ">
+<!ENTITY markAsReadDelay.label "Μετά από εμφάνιση για">
+<!ENTITY markAsReadDelay.accesskey "ε">
+<!ENTITY secondsLabel.label "δευτερόλεπτα">
+<!ENTITY openMsgIn.label "Άνοιγμα μηνυμάτων σε:">
+<!ENTITY openMsgInNewTab.label "Μια νέα καρτέλα">
+<!ENTITY openMsgInNewTab.accesskey "τ">
+<!ENTITY reuseExpRadio0.label "Ένα νέο παράθυρο μηνύματος">
+<!ENTITY reuseExpRadio0.accesskey "ο">
+<!ENTITY reuseExpRadio1.label "Ένα υπάρχον παράθυρο μηνύματος">
+<!ENTITY reuseExpRadio1.accesskey "π">
+<!ENTITY closeMsgWindowOnDelete.label "Κλείσιμο παραθύρου μηνύματος στη όταν γίνει διαγραφή">
+<!ENTITY closeMsgWindowOnDelete.accesskey "λ">
+<!ENTITY autoCheck.label "Να γίνεται αυτόματος έλεγχος για ενημερώσεις για:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Εγκατεστημένα πρόσθετα">
+<!ENTITY enableAddonsUpdate.accesskey "θ">
+<!ENTITY whenUpdatesFound.label "Όταν υπάρχουν ενημερώσεις για τον  &brandShortName; ">
+<!ENTITY modeAskMe.label "Να γίνεται ερώτηση για το τι να κάνω">
+<!ENTITY modeAskMe.accesskey "γ">
+<!ENTITY modeAutomatic.label "Αυτόματη λήψη και εγκατάσταση της ενημέρωσης">
+<!ENTITY modeAutomatic.accesskey "ψ">
+<!ENTITY modeAutoAddonWarn.label "Προειδοποίηση στην απενεργοποίηση προσθέτων">
+<!ENTITY modeAutoAddonWarn.accesskey "θ">
+<!ENTITY showUpdates.label "Προβολή ιστορικού ενημερώσεων">
+<!ENTITY showUpdates.accesskey "ι">
+<!ENTITY showSettings.label "Ρυθμίσεις…">
+<!ENTITY showSettings.accesskey "Θ">
+<!ENTITY proxiesConfigure.label "Ρύθμιση του τρόπου σύνδεσης του &brandShortName; στο διαδίκτυο">
+<!ENTITY connectionsInfo.caption "Σύνδεση">
+<!ENTITY offlineInfo.caption "Εργασία χωρίς σύνδεση">
+<!ENTITY offlineInfo.label "Ρυθμίσεις εργασίας χωρίς σύνδεση">
+<!ENTITY showOffline.label "Χωρίς σύνδεση…">
+<!ENTITY showOffline.accesskey "Χ">
+<!ENTITY Diskspace "Αποθηκευτικός χώρος">
+<!ENTITY offlineCompact.label "Συμπίεση φακέλων πάνω από">
+<!ENTITY offlineCompact.accesskey "π">
+<!ENTITY kb.label "KB">
+<!ENTITY useCacheBefore.label "Χρήση μέχρι">
+<!ENTITY useCacheBefore.accesskey "μ">
+<!ENTITY useCacheAfter.label "MB χώρου για την προσωρινή μνήμη">
+<!ENTITY clearCacheNow.label "Εκκαθάριση τώρα">
+<!ENTITY clearCacheNow.accesskey "θ">
+<!ENTITY certSelection.description "Όταν ένας διακομιστής ζητά ένα πιστοποιητικό:">
+<!ENTITY certs.auto "Να επιλέγεται ένα αυτόματα">
+<!ENTITY certs.auto.accesskey "λ">
+<!ENTITY certs.ask "Να γίνεται ερώτηση κάθε φορά">
+<!ENTITY certs.ask.accesskey "γ">
+<!ENTITY viewCertificates.label "Προβολή πιστοποιητικών">
+<!ENTITY viewCertificates.accesskey "σ">
+<!ENTITY viewCRLs.label "Λίστες ανάκλησης">
+<!ENTITY viewCRLs.accesskey "λ">
+<!ENTITY validation.label "Επικύρωση">
+<!ENTITY validation.accesskey "π">
+<!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
+<!ENTITY viewSecurityDevices.accesskey "υ">

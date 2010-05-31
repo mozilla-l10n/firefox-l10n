@@ -1,8 +1,16 @@
-<!ENTITY SearchNameOrEmail.label "Όνομα ή Email">
 <!ENTITY addressbookPicker.label "Ευρετήριο:">
-<!ENTITY addtoBccFieldMenu.label "Προσθήκη στο πεδίο Κρυφ.κοιν">
-<!ENTITY addtoCcFieldMenu.label "Προσθήκη στο πεδίο Κοιν">
-<!ENTITY addtoToFieldMenu.label "Προσθήκη στο πεδίο Πρός">
-<!ENTITY ccButton.label "Προσθήκη στο Κοιν:">
+<!ENTITY addressbookPicker.accesskey "υ">
 <!ENTITY searchInput.label "Αναζήτηση για:">
+<!ENTITY searchInput.accesskey "ζ">
+<!ENTITY SearchNameOrEmail.label "Όνομα ή Email">
+<!ENTITY deleteAddrBookCard.label "Διαγραφή">
+<!ENTITY addrBookCardProperties.label "Ιδιότητες">
+<!ENTITY addtoToFieldMenu.label "Προσθήκη στο πεδίο Πρός">
+<!ENTITY addtoCcFieldMenu.label "Προσθήκη στο πεδίο Κοιν">
+<!ENTITY addtoBccFieldMenu.label "Προσθήκη στο πεδίο Κρυφ.κοιν">
 <!ENTITY toButton.label "Προσθήκη στο Πρός:">
+<!ENTITY toButton.accesskey "Π">
+<!ENTITY ccButton.label "Προσθήκη στο Κοιν:">
+<!ENTITY ccButton.accesskey "θ">
+<!ENTITY bccButton.label "Προσθήκη στο Κρυφ.κοιν: ">
+<!ENTITY bccButton.accesskey "φ">

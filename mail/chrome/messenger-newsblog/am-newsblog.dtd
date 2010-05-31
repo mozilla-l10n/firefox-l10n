@@ -1,15 +1,14 @@
-<!ENTITY biffEnd.label "λεπτά">
-<!ENTITY biffStart.accesskey "ο">
+<!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY biffStart.label "Έλεγχος για νέα άρθρα κάθε">
-<!ENTITY loginAtStartup.accesskey "λ">
+<!ENTITY biffStart.accesskey "ο">
+<!ENTITY biffEnd.label "λεπτά">
 <!ENTITY loginAtStartup.label "Έλεγχος για νέα άρθρα κατά την εκκίνηση">
-<!ENTITY manageSubscriptions.accesskey "Δ">
-<!ENTITY manageSubscriptions.label "Διαχείριση συνδρομών...">
-<!ENTITY newsblogTitle.label "Ρυθμίσεις λογαριασμού RSS">
-<!ENTITY useQuickMode.accesskey "π">
+<!ENTITY loginAtStartup.accesskey "λ">
 <!ENTITY useQuickMode.label "Εμφάνιση περίληψης άρθρου αντί για φόρτωση ολόκληρης της σελίδας">
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "News &amp; Feeds">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Ειδήσεις RSS &amp; Ιστολόγια">
-<!ENTITY rss.hostName               "News &amp; Feeds">
+<!ENTITY useQuickMode.accesskey "π">
+<!ENTITY manageSubscriptions.label "Διαχείριση συνδρομών...">
+<!ENTITY manageSubscriptions.accesskey "Δ">
+<!ENTITY feeds.accountName "Ιστολόγια &amp; Ροές ειδήσεων">
+<!ENTITY feeds.wizardShortName "Ροές">
+<!ENTITY feeds.wizardLongName "Ιστολόγια &amp; Ροές ειδήσεων">
+<!ENTITY feeds.wizardLongName.accesskey "δ">

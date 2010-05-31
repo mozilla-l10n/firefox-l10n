@@ -24,3 +24,17 @@
 <!ENTITY disabledPlugin.label                                "Η πρόσθετη λειτουργία για αυτό το περιεχόμενο έχει απενεργοποιηθεί. Πατήστε εδώ για να διαχειριστείτε τις πρόσθετες λειτουργίες σας.">
 <!ENTITY blockedPlugin.label                                 "Για την προστασία σας αυτή η πρόσθετη λειτουργία έχει φραγεί.">
 
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Ανανέωση της σελίδας">
+<!ENTITY reloadPlugin.post                                   " για να προσπαθήσετε ξανά.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Αποστολή αναφοράς κατάρρευσης">
+<!ENTITY report.submitting                                   "Γίνεται αποστολή αναφοράς…">
+<!ENTITY report.submitted                                    "Η αναφορά κατάρρευσης στάλθηκε.">
+<!ENTITY report.disabled                                     "Η αναφορά καταρρεύσεων απενεργοποιήθηκε.">
+<!ENTITY report.failed                                       "Η υποβολή απέτυχε.">
+<!ENTITY report.unavailable                                  "Δεν υπάρχει διαθέσιμη αναφορά.">
+

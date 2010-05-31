@@ -1,31 +1,31 @@
-<!ENTITY accountDirectory.accesskey "χ">
-<!ENTITY accountDirectory.label "Εισερχόμενα για το λογαριασμό αυτού του διακομιστή">
-<!ENTITY deferGetNewMail.accesskey "π">
-<!ENTITY deferGetNewMail.label "Να περιλαμβάνεται αυτός ο διακομιστής κατά τη λήψη αλληλογραφίας">
-<!ENTITY deferToServer.accesskey "δ">
-<!ENTITY deferToServer.label "Εισερχόμενα για διαφορετικό λογαριασμό">
-<!ENTITY dualUseFolders.accesskey "σ">
-<!ENTITY dualUseFolders.label "Ο διακομιστής υποστηρίζει φακέλους που περιέχουν υποφακέλους και μηνύματα">
-<!ENTITY folderStorage.label "Που θα αποθηκεύεται η αλληλογραφία">
-<!ENTITY globalInbox.accesskey "Γ">
-<!ENTITY globalInbox.label "Γενικά εισερχόμενα (Λογαριασμός τοπικών φακέλων)">
-<!ENTITY imapAdvanced.label "Προχωρημένες ρυθμίσεις διακομιστή  IMAP">
-<!ENTITY maximumConnectionsNumber.accesskey "Μ">
-<!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην cache">
-<!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τα namespaces στον διακομιστή IMAP">
-<!ENTITY otherUsersNamespace.accesskey "λ">
-<!ENTITY otherUsersNamespace.label "Άλλοι χρήστες:">
-<!ENTITY overrideNamespaces.accesskey "ρ">
-<!ENTITY overrideNamespaces.label "Να επιτρέπεται στο διακομιστή να παρακάμπτει αυτά τα namespaces">
-<!ENTITY personalNamespace.accesskey "ο">
-<!ENTITY personalNamespace.label "Προσωπικό namespace:">
-<!ENTITY pop3Desc.label "Όταν λαμβάνετε αλληλογραφία pop3 από αυτόν το διακομιστή, μπορείτε να την αποθηκεύετε στα Γενικά εισερχόμενα (στα εισερχόμενα στο λογαριασμό τοπικών φακέλων), στα εισερχόμενα για αυτόν το λογαριασμό, ή στα εισερχόμενα άλλου λογαριασμού POP3.">
-<!ENTITY publicNamespace.accesskey "μ">
-<!ENTITY publicNamespace.label "Δημόσιο (κοινόχρηστο)">
 <!ENTITY serverAdvanced.label "Προχωρημένες ρυθμίσεις λογαριασμού">
-<!ENTITY serverDirectory.accesskey "γ">
 <!ENTITY serverDirectory.label "Κατάλογος διακομιστή IMAP:">
-<!ENTITY useIdle.accesskey "I">
-<!ENTITY useIdle.label "Χρήση εντολής IDLE αν το υποστηρίζει ο διακομιστής">
-<!ENTITY usingSubscription.accesskey "λ">
+<!ENTITY serverDirectory.accesskey "γ">
 <!ENTITY usingSubscription.label "Προβολή μόνο των εγγεγραμμένων φακέλων">
+<!ENTITY usingSubscription.accesskey "λ">
+<!ENTITY dualUseFolders.label "Ο διακομιστής υποστηρίζει φακέλους που περιέχουν υποφακέλους και μηνύματα">
+<!ENTITY dualUseFolders.accesskey "σ">
+<!ENTITY useIdle.label "Χρήση εντολής IDLE αν το υποστηρίζει ο διακομιστής">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην cache">
+<!ENTITY maximumConnectionsNumber.accesskey "Μ">
+<!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τα namespaces στον διακομιστή IMAP">
+<!ENTITY personalNamespace.label "Προσωπικό namespace:">
+<!ENTITY personalNamespace.accesskey "ο">
+<!ENTITY publicNamespace.label "Δημόσιο (κοινόχρηστο)">
+<!ENTITY publicNamespace.accesskey "μ">
+<!ENTITY otherUsersNamespace.label "Άλλοι χρήστες:">
+<!ENTITY otherUsersNamespace.accesskey "λ">
+<!ENTITY overrideNamespaces.label "Να επιτρέπεται στο διακομιστή να παρακάμπτει αυτά τα namespaces">
+<!ENTITY overrideNamespaces.accesskey "ρ">
+<!ENTITY pop3Desc.label "Την εισερχόμενη αλληλογραφία pop3 μπορείτε να την αποθηκεύετε 
+στα Γενικά εισερχόμενα (τοπικοί φάκελοι), ή στα εισερχόμενα αυτού του λογαριασμού,
+ ή σε κάποιον άλλο λογαριασμό POP3.">
+<!ENTITY globalInbox.label "Γενικά εισερχόμενα (λογαριασμός τοπικών φακέλων)">
+<!ENTITY globalInbox.accesskey "Γ">
+<!ENTITY accountDirectory.label "Εισερχόμενα για το λογαριασμό του τρέχοντα διακομιστή">
+<!ENTITY accountDirectory.accesskey "χ">
+<!ENTITY deferToServer.label "Εισερχόμενα για διαφορετικό λογαριασμό">
+<!ENTITY deferToServer.accesskey "δ">
+<!ENTITY deferGetNewMail.label "Να περιλαμβάνεται αυτός ο διακομιστής κατά τη λήψη αλληλογραφίας">
+<!ENTITY deferGetNewMail.accesskey "π">

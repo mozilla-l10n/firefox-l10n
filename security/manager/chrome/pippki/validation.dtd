@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "Διαχείριση CRLs">
-<!ENTITY  validation.crlmanager.description       "Αυτές οι Η πιστοποιητικές λίστες ανάκλησης (CRL) αποθηκεύονται στη βάση δεδομένων των πιστοποιητικών:">
+<!ENTITY  validation.crlmanager.description       "Αυτές οι λίστες ανάκλησης πιστοποιητικών (CRL) αποθηκεύονται στη βάση δεδομένων των πιστοποιητικών:">
 <!ENTITY  validation.crlname.label                "Όνομα">
 <!ENTITY  validation.crllastupdate.label          "Τελευταία ενημέρωση">
 <!ENTITY  validation.crlnextupdate.label          "Επόμενη ενημέρωση">

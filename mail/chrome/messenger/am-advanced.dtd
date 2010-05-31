@@ -1,15 +1,17 @@
+<!ENTITY smtpServer.label "Διακομιστής SMTP">
+<!ENTITY smtpDesc.label "Μόνο ένας διακομιστής εξερχομένων (SMTP) χρειάζεται να καθοριστεί, ακόμα και αν έχετε αρκετούς λογαριασμούς αλληλογραφίας. Πληκτρολογήστε το όνομα του διακομιστή για τα εξερχόμενα μηνύματα.">
+<!ENTITY smtpListAdd.label "Προσθήκη...">
+<!ENTITY smtpListAdd.accesskey "θ">
+<!ENTITY smtpListEdit.label "Επεξεργασία...">
+<!ENTITY smtpListEdit.accesskey "Ε">
+<!ENTITY smtpListDelete.label "Απομάκρυνση">
+<!ENTITY smtpListDelete.accesskey "μ">
+<!ENTITY smtpListSetDefault.label "Ορισμός ως προεπιλογή">
+<!ENTITY smtpListSetDefault.accesskey "π">
 <!ENTITY serverDescription.label "Περιγραφή: ">
 <!ENTITY serverName.label "Όνομα διακομιστή: ">
 <!ENTITY serverPort.label "Θύρα: ">
-<!ENTITY smtpDesc.label "Μόνο ένας διακομιστής εξερχομένων (SMTP) χρειάζεται να καθοριστεί, ακόμα και αν έχετε αρκετούς λογαριασμούς αλληλογραφίας. Πληκτρολογήστε το όνομα του διακομιστή για τα εξερχόμενα μηνύματα.">
-<!ENTITY smtpListAdd.accesskey "θ">
-<!ENTITY smtpListAdd.label "Προσθήκη...">
-<!ENTITY smtpListDelete.accesskey "μ">
-<!ENTITY smtpListDelete.label "Απομάκρυνση">
-<!ENTITY smtpListEdit.accesskey "Ε">
-<!ENTITY smtpListEdit.label "Επεξεργασία...">
-<!ENTITY smtpListSetDefault.accesskey "π">
-<!ENTITY smtpListSetDefault.label "Ορισμός ως προεπιλογή">
-<!ENTITY smtpServer.label "Διακομιστής SMTP">
-<!ENTITY useSecureConnection.label "Ασφαλής σύνδεση: ">
 <!ENTITY userName.label "Όνομα χρήστη: ">
+<!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης: ">
+<!ENTITY authMethod.label   "Μέθοδος πιστοποίησης: ">
+

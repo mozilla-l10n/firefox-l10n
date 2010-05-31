@@ -10,41 +10,55 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Βοήθεια"> 
 <!ENTITY helpMenuWin.accesskey    "Β">
-<!ENTITY aboutCmd.label           "Περί &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "ρ">
-<!ENTITY helpContents.label       "Περιεχόμενα Βοήθειας">
-<!ENTITY helpContents.accesskey   "ι">
-<!ENTITY helpContentsMac.label    "Βοήθεια &brandShortName; ">
+
+<!ENTITY productHelp.label        "Βοήθεια &brandShortName;">
+<!ENTITY productHelp.accesskey    "Β">
+
+<!ENTITY aboutProduct.label       "Περί &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "ρ">
+
 <!ENTITY helpForIEUsers.label     "Για χρήστες του Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY helpMac.commandkey       "?">
 
 
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+
+
+
 
 <!ENTITY helpReleaseNotes.accesskey     "η">
 <!ENTITY helpReleaseNotes.label         "Σημειώσεις έκδοσης">
-<!ENTITY updateCmd.accesskey            "χ">
+
 <!ENTITY updateCmd.label                "Έλεγχος για ενημερώσεις...">
 
 <!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
+
 
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
  
 <!ENTITY hideThisAppCmdMac.label        "Απόκρυψη &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
  
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
- 
+
 <!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
+
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpTroubleshooting.label      "Αντιμετώπιση προβλημάτων…">
+<!ENTITY helpTroubleshooting.accesskey  "μ">
+
+<!ENTITY helpTroubleshootingInfo.label      "Αντιμετώπιση προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.accesskey  "μ">
+
+<!ENTITY productHelp.label        "Βοήθεια &brandShortName;">
+<!ENTITY productHelp.accesskey    "Β">
+
+
+
+
+

@@ -1,12 +1,9 @@
-<!ENTITY browse.accesskey "ξ">
-<!ENTITY browse.label "Εξερεύνηση...">
-<!ENTITY customsound.accesskey "σ">
-<!ENTITY customsound.label "Προσαρμοσμένο αρχείο .wav">
-<!ENTITY notificationsDialog.title "Ήχος νέου μηνύματος">
-<!ENTITY preview.accesskey "π">
-<!ENTITY preview.label "Προεπισκόπηση ήχου">
-<!ENTITY soundNotification.caption "Ρύθμιση ήχου για νέο μήνυμα">
-<!ENTITY systemsound.accesskey "υ">
-<!ENTITY systemsound.label "Ήχος συστήματος για νέο μήνυμα">
-<!ENTITY systemsoundMac.label             "Ήχος ειδοποίησης συστήματος">
-<!ENTITY window.width                     "34em">
+<!ENTITY notificationsDialog2.title "Προσαρμογή ειδοποίησης νέου μηνύματος">
+<!ENTITY window.width "39em">
+<!ENTITY alertCustomization.intro "Επιλέξτε τα πεδία που θα εμφανίζονται στην ειδοποίηση:">
+<!ENTITY previewText.label "Προεπισκόπηση κειμένου μηνύματος">
+<!ENTITY previewText.accesskey "μ">
+<!ENTITY subject.label "Θέμα">
+<!ENTITY subject.accesskey "Θ">
+<!ENTITY sender.label "Αποστολέας">
+<!ENTITY sender.accesskey "π">

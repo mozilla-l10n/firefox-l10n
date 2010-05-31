@@ -14,6 +14,9 @@
 
 <!ENTITY  clickHere.label                 "Πατήστε εδώ">
 
+<!ENTITY  pluginupdatesfound.title        "Βρέθηκαν ενημερώσεις για πρόσθετες λειτουργίες">
+<!ENTITY  pluginupdatesfound.label        "Βρέθηκαν νεότερες εκδόσεις για μια ή περισσότερες πρόσθετες λειτουργίες.">
+<!ENTITY  pluginupdateslink.label         "Δείτε τον τρόπο ενημέρωσης των πρόσθετων λειτουργιών σας.">
 
 
 

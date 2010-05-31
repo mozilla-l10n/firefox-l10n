@@ -2,9 +2,9 @@
 <!ENTITY aboutPage.faq.label "FAQ">
 <!ENTITY aboutPage.support.label "Υποστήριξη">
 <!ENTITY aboutPage.privacyPolicy.label "Πολιτική προστασίας απορρήτου">
-<!ENTITY aboutPage.rights.label "Μάθετε τα δικαιώματα σας">
+<!ENTITY aboutPage.rights.label "Μάθετε τα δικαιώματά σας">
 <!ENTITY aboutPage.relNotes.label "Σημειώσεις έκδοσης">
 <!ENTITY aboutPage.credits.label "Μνεία">
-<!ENTITY aboutPage.copyrightInfo1 "©1998-2009 Contributors. All rights reserved. (">
+<!ENTITY aboutPage.copyrightInfo1 "©1998-2009 Συνεργάτες. Με την επιφύλαξη παντός δικαιώματος. (">
 <!ENTITY aboutPage.licenseLink "Πληροφορίες αδειοδότησης">
 <!ENTITY aboutPage.copyrightInfo2 ").">

@@ -18,7 +18,7 @@
 <!ENTITY bookmarksHeader.label "Σελιδοδείκτες">
 <!ENTITY bookmarksManage.label "Διαχείριση">
 <!ENTITY editBookmarkRemove.label "Απομάκρυνση">
-<!ENTITY editBookmarkDone.label "Ολοκληρώθηκε">
+<!ENTITY editBookmarkDone.label "Προσθήκη">
 <!ENTITY editBookmarkTags.label "Προσθέστε εδώ ετικέτες">
 <!ENTITY helperApp.prompt "Τι θέλετε να γίνει με το">
 <!ENTITY helperApp.open "Άνοιγμα">

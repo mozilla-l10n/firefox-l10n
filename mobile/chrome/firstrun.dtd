@@ -1,14 +1,14 @@
-<!ENTITY welcome.title "Καλώς ήλθατε στον &brandShortName;">
-
-<!ENTITY intro.description                  "Συγχρονίστε το PC και το κινητό σας με το Weave Sync. Προσαρμόστε στο με πρόσθετα. Περιηγηθείτε με την Awesome Bar και πολλά, πολλά ακόμα">
-
-<!ENTITY weave.title                        "Ξεκινήστε με το Weave">
-
-
-<!ENTITY weave.description                  "Ρυθμίστε το Weave Sync μαζί με τον Firefox σας. Μοιραστείτε τις προτιμήσεις, τους σελιδοδείκτες, το ιστορικό σας και πολλά ακόμα ανάμεσα στο PC και το κινητό σας.">
-
-<!ENTITY getPersonal.title "Παραμετροποίηση">
-<!ENTITY getPersonal.description "Προσαρμόστε τον &brandShortName; όπως εσείς θέλετε. Ο πρώτος περιηγητής που προσφέρει πρόσθετα για το κινητό σας.">
-<!ENTITY getPersonal.linkLabel "Λήψη προσθέτων για το κινητό σας">
-<!ENTITY weave.linkLabel                    "Λήψη του προσθέτου Weave">
+<!ENTITY firstrun.title                "Καλώς ήλθατε στον &brandShortName;">
+<!ENTITY firstrun.heading              "Για να σας βοηθήσουμε να ξεκινήσετε, σας παρουσιάζουμε μερικές από τις πιο δημοφιλείς λειτουργίες και πρόσθετα του &brandShortName;.">
+<!ENTITY firstrun.recommended          "Συνιστώμενα:">
+<!ENTITY firstrun.weave.title          "Λήψη του Weave Sync">
+<!ENTITY firstrun.weave.description    "Μοιράστε το ιστορικό, τους κωδικούς, τους σελιδοδείκτες και τις καρτέλες σας ανάμεσα στο &brandShortName; τον υπολογιστή σας και το κινητό σας">
+<!ENTITY firstrun.starter.title        "Λήψη της συλλογής προσθέτων για αρχάριους">
+<!ENTITY firstrun.starter.description  "Εγκαταστήστε αυτά τα συνιστώμενα πρόσθετα του &brandShortName;">
+<!ENTITY firstrun.tour.title           "Δείτε τις λειτουργίες">
+<!ENTITY firstrun.tour.description     "Παρακολουθήστε αυτό το βίντεο για να εξοικειωθείτε με τη χρήση και της λειτουργίες της εφαρμογής">
+<!ENTITY firstrun.features             "Δείτε περισσότερες λειτουργίες">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Πολιτική απορρήτου">
+<!ENTITY firstrun.follow               "Δικτυωθείτε μαζί μας στο:">
 

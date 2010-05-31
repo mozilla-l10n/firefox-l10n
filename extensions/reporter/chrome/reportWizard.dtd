@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title                         "Αναφορά προβληματικής ιστοσελίδας">
 
 <!ENTITY privacyNotice.label                        "Πολιτική απορρήτου">
-<!ENTITY reportWizardPrivacy.description            "Αυτό το εργαλείο σας επιτρέπει να αναφέρετε στην Evangelism Team τις ιστοσελίδες που δεν λειτουργούν σωστά με τον Firefox. Με αυτό τον τρόπο διασφαλίζουμε μια καλύτερη περιήγηση για τους χρήστες του Firefox . Παρακαλώ διαβάστε παρακάτω, για να μάθετε πως χρησιμοποιούμε τις πληροφορίες που μας στέλνετε όταν συμμετέχετε.">
+<!ENTITY reportWizardPrivacy.description            "Αυτό το εργαλείο σάς επιτρέπει να αναφέρετε στην Evangelism Team τις ιστοσελίδες που δεν λειτουργούν σωστά με τον Firefox. Με αυτό τον τρόπο διασφαλίζουμε μια καλύτερη περιήγηση για τους χρήστες του Firefox . Παρακαλώ διαβάστε παρακάτω, για να μάθετε πως χρησιμοποιούμε τις πληροφορίες που μας στέλνετε όταν συμμετέχετε.">
 <!ENTITY reportWizardMustAgree.description          "Για να συνεχίσετε θα πρέπει να συμφωνήσετε με την παραπάνω πολιτική.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Διάβασα και αποδέχομαι την παραπάνω πολιτική απορρήτου.">
@@ -47,7 +47,7 @@
 <!ENTITY reportForm.describe.accesskey              "φ">
 <!ENTITY reportResults.showDetail.accesskey         "β">
 <!ENTITY reportForm.behind_login.accesskey          "π">
-<!ENTITY dontShowPrivacyStatement.accesskey         "φ">
+<!ENTITY dontShowPrivacyStatement.accesskey         "δ">
 <!ENTITY reportForm.problem_type.accesskey          "Τ">
 <!ENTITY reportForm.email.accesskey                 "E">
 

@@ -23,6 +23,7 @@
    -   Mohan Bhamidipati <mohanb@netscape.com>
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,58 +38,61 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
-
-<!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
-<!ENTITY folderCharsetTab.label                  "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
-<!ENTITY folderCharsetTab.accesskey              "ρ">
-<!ENTITY folderCharsetOverride.label             "Εφαρμογή προεπιλογής παντού (παράβλεψη και της κεφαλίδας MIME)">
-<!ENTITY folderCharsetOverride.accesskey         "φ">
-
+<!ENTITY folderProps.windowtitle.label "Ιδιότητες">
+<!ENTITY generalInfo.label "Γενικές πληροφορίες">
+<!ENTITY folderCharsetTab.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
+<!ENTITY folderCharsetTab.accesskey "ρ">
+<!ENTITY folderCharsetOverride.label "Εφαρμογή προεπιλογής παντού (παράβλεψη και της κεφαλίδας MIME)">
+<!ENTITY folderCharsetOverride.accesskey "φ">
 <!ENTITY retention.label "Πολιτική διατήρησης">
-<!ENTITY retentionUseDefault.label  "Χρήση προεπιλογών διακομιστή">
-<!ENTITY retentionUseDefault.accesskey "η">
-<!ENTITY days.label "ημέρες">
+<!ENTITY retentionUseAccount.label "Χρήση των ρυθμίσεων του λογαριασμού μου">
+<!ENTITY retentionUseAccount.accesskey "ρ">
 <!ENTITY daysOld.label "ημέρες παλιά">
 <!ENTITY message.label "μηνύματα">
 <!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στο δίσκο, μπορείτε να διαγράψετε τα παλιά μηνύματα">
-<!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων περισσότερο από">
-<!ENTITY retentionKeepMsg.accesskey "γ">
+<!ENTITY retentionCleanupImap.label "Για εξοικονόμηση αποθηκευτικού χώρου, μπορείτε να διαγράψετε μόνιμα τα παλιά σας μηνύματα στους τοπικούς σας φακέλους και στον απομακρυσμένο εξυπηρετητή.">
+<!ENTITY retentionCleanupPop.label "Για εξοικονόμηση αποθηκευτικού χώρου, μπορείτε να διαγράψετε μόνιμα τα παλιά σας μηνύματα μαζί με τα αρχικά μηνύματα στον απομακρυσμένο εξυπηρετητή.">
+
+<!ENTITY folderCheckForNewMessages2.label         "Κατά τη λήψη μηνυμάτων από αυτόν το λογαριασμό, να γίνεται πάντα έλεγχος αυτού του φακέλου">
+<!ENTITY folderCheckForNewMessages2.accesskey     "φ">
+<!ENTITY folderIncludeInGlobalSearch.label       "Να συμπεριλαμβάνονται τα μηνύματα αυτού του φακέλου στα αποτελέσματα της καθολικής αναζήτησης">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "θ">
+<!ENTITY folderRebuildSummaryFile.explanation    "Μερικές φορές το αρχείο ευρετηρίου του φακέλου (.msf) καταστρέφεται και φαίνεται ότι λείπουν μηνύματα ή εμφανίζονται διαγραμμένα μηνύματα. Συνήθως η επιδιόρθωση του αρχείου λύνει αυτά τα προβλήματα.">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "ρ">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Επιδιόρθωση αρχείου περίληψης ευρετηρίου">
+<!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
+
+
+
+<!ENTITY retentionDeleteMsg.label "Διαγραφή μηνυμάτων παλαιότερων από">
+<!ENTITY retentionDeleteMsg.accesskey "μ">
 <!ENTITY retentionKeepAll.label "Να μην γίνει διαγραφή μηνυμάτων">
 <!ENTITY retentionKeepAll.accesskey "μ">
-<!ENTITY retentionKeepNew.label "Διαγραφή όλων εκτός από τα τελευταία">
-<!ENTITY retentionKeepNew.accesskey "λ">
-<!ENTITY retentionKeepUnread.label "Πάντοτε διαγραφή αναγνωσμένων μηνυμάτων">
-<!ENTITY retentionKeepUnread.accesskey "Π">
+<!ENTITY retentionKeepRecent.label "Διαγραφή όλων εκτός από τα πιο πρόσφατα">
+<!ENTITY retentionKeepRecent.accesskey "λ">
+<!ENTITY retentionKeepUnreadHidden.label "Πάντα διαγραφή ανανωσμένων μηνυμάτων (παρακάμπτει τις ρυθμίσεις παλαιότητας)">
+<!ENTITY retentionApplyToFlagged.label "Διατήρηση μηνυμάτων με αστέρι">
+<!ENTITY retentionApplyToFlagged.accesskey "σ">
+<!ENTITY folderSynchronizationTab.label "Συγχρονισμός">
 
-<!ENTITY folderOfflineTab.label                  "Χωρίς σύνδεση">
-<!ENTITY folderCheckForNewMessages.label         "Έλεγχος αυτού του φακέλου για νέα μηνύματα">
-<!ENTITY folderCheckForNewMessages.accesskey     "χ">
-
-<!ENTITY offlineFolder.check.label               "Επιλογή αυτού του φακέλου για εργασία χωρίς σύνδεση">
-<!ENTITY offlineFolder.check.accesskey           "γ">
-<!ENTITY offlineFolder.button.label              "Λήψη τώρα">
-<!ENTITY offlineFolder.button.accesskey          "ψ">
-
-<!ENTITY selectofflineNewsgroup.check.label      "Επιλογή αυτής της ομάδας συζητήσεων για εργασία χωρίς σύνδεση">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "τ">
-<!ENTITY UseDefaultofflineNewsgroup.check.label  "Χρήση προεπιλογών των ρυθμίσεων λογαριασμού ">
-<!ENTITY offlineNewsgroup.button.label           "Λήψη τώρα">
-<!ENTITY offlineNewsgroup.button.accesskey       "ψ">
-
-<!ENTITY folderProps.information.label           "Πληροφορίες:">
-<!ENTITY folderProps.name.label                  "Όνομα:">
-<!ENTITY folderProps.name.accesskey              "ν">
-
-<!ENTITY folderSharingTab.label                  "Κοινή χρήση">
-<!ENTITY privilegesDesc.label                    "Κοινή χρήση του παρόντος και άλλων φακέλων με τους χρήστες δικτύου και προβολή και ορισμός προνομίων πρόσβασης">
-<!ENTITY privileges.button.label                 "Προνόμια...">
-<!ENTITY privileges.button.accesskey             "ν">
-<!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα προνόμια:">
-<!ENTITY folderType.label                        "Τύπος φακέλου:">
-
-<!ENTITY folderQuotaTab.label                    "Όριο">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Χρήση:">
-<!ENTITY folderQuotaStatus.label                 "Κατάσταση:">
+<!ENTITY offlineFolder.check.label "Επιλογή αυτού του φακέλου για εργασία χωρίς σύνδεση">
+<!ENTITY offlineFolder.check.accesskey "γ">
+<!ENTITY offlineFolder.button.label "Λήψη τώρα">
+<!ENTITY offlineFolder.button.accesskey "ψ">
+<!ENTITY selectofflineNewsgroup.check.label "Επιλογή αυτής της ομάδας συζητήσεων για εργασία χωρίς σύνδεση">
+<!ENTITY selectofflineNewsgroup.check.accesskey "τ">
+<!ENTITY offlineNewsgroup.button.label "Λήψη τώρα">
+<!ENTITY offlineNewsgroup.button.accesskey "ψ">
+<!ENTITY folderProps.name.label "Όνομα:">
+<!ENTITY folderProps.name.accesskey "ν">
+<!ENTITY folderProps.location.label "Τοποθεσία">
+<!ENTITY folderProps.location.accesskey "θ">
+<!ENTITY folderSharingTab.label "Κοινή χρήση">
+<!ENTITY privileges.button.label "Προνόμια...">
+<!ENTITY privileges.button.accesskey "ν">
+<!ENTITY permissionsDesc.label "Έχετε τα ακόλουθα προνόμια:">
+<!ENTITY folderType.label "Τύπος φακέλου:">
+<!ENTITY folderQuotaTab.label "Όριο">
+<!ENTITY folderQuotaRoot.label "Quota Root:">
+<!ENTITY folderQuotaUsage.label "Χρήση:">
+<!ENTITY folderQuotaStatus.label "Κατάσταση:">

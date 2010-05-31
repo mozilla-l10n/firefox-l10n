@@ -1,6 +1,5 @@
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
-<!ENTITY accounts.label "Λογαριασμοί">
-<!ENTITY folderSizeColumn.label "Μέγεθος">
+<!--null-->
 <!ENTITY nameColumn.label "Όνομα">
-<!ENTITY totalColumn.label "Σύνολο">
 <!ENTITY unreadColumn.label "Μη αναγνωσμένα">
+<!ENTITY totalColumn.label "Σύνολο">
+<!ENTITY folderSizeColumn.label "Μέγεθος">

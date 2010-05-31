@@ -1,26 +1,26 @@
-<!ENTITY alwaysSend.label "Να γίνεται πάντα αποστολή">
-<!ENTITY askMe.label "Να γίνεται ερώτηση">
-<!ENTITY leaveIt.accesskey "">
-<!ENTITY leaveIt.label "Να παραμένει στα εισερχόμενα">
-<!ENTITY moveToSent.accesskey "Μ">
-<!ENTITY moveToSent.label "Μετακίνηση στο φάκελο των απεσταλμένων">
-<!ENTITY never.accesskey "">
-<!ENTITY never.label "Να μη γίνεται αποστολή βεβαίωσης">
-<!ENTITY neverSend.label "Να μη γίνεται αποστολή">
-<!ENTITY notInToCc.accesskey "β">
-<!ENTITY notInToCc.label "Αν δεν βρίσκομαι στο Προς ή στην Κοιν. του μηνύματος:">
-<!ENTITY otherCases.accesskey "λ">
-<!ENTITY otherCases.label "Σε  όλες τις άλλες περιπτώσεις:">
-<!ENTITY outsideDomain.accesskey "τ">
-<!ENTITY outsideDomain.label "Αν ο αποστολέας είναι έξω από τομέα μου:">
-<!ENTITY pane.title "Επιστροφή Βεβαιώσεων">
-<!ENTITY receiptArrive.label "Οταν φτάνει μια βεβαίωση:">
-<!ENTITY requestMDN.label "Όταν γίνεται λήψη αιτήματος επιστροφής βεβαίωσης:">
-<!ENTITY requestReceipt.accesskey "π">
-<!ENTITY requestReceipt.label "Κατά την αποστολή μηνυμάτων να ζητιέται πάντα επιστροφή βεβαίωσης">
-<!ENTITY returnSome.accesskey "">
-<!ENTITY returnSome.label "Να επιτρέπονται επιστροφές βεβαιώσεων για κάποια μηνύματα">
-<!ENTITY useCustomPrefs.accesskey "Π">
-<!ENTITY useCustomPrefs.label "Προσαρμογή επιστροφής βεβαιώσεων για το παρόντα λογαριασμό">
+<!ENTITY pane.title "Βεβαιώσεις ανάγνωσης">
+<!ENTITY useGlobalPrefs.label "Χρήση των γενικών ρυθμίσεων για αυτόν το λογαριασμό">
 <!ENTITY useGlobalPrefs.accesskey "Χ">
-<!ENTITY useGlobalPrefs.label "Χρήση των γενικών ρυθμίσεων επιστροφής βεβαιώσεων για αυτόν το λογαριασμό">
+<!ENTITY useCustomPrefs.label "Προσαρμογή βεβαιώσεων ανάγνωσης για το παρόντα λογαριασμό">
+<!ENTITY useCustomPrefs.accesskey "Π">
+<!ENTITY requestReceipt.label "Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση ανάγνωσης">
+<!ENTITY requestReceipt.accesskey "π">
+<!ENTITY receiptArrive.label "Όταν φτάνει μια βεβαίωση:">
+<!ENTITY leaveIt.label "Να παραμένει στα εισερχόμενα">
+<!ENTITY leaveIt.accesskey "ι">
+<!ENTITY moveToSent.label "Μετακίνηση στο φάκελο των απεσταλμένων">
+<!ENTITY moveToSent.accesskey "Μ">
+<!ENTITY requestMDN.label "Όταν γίνεται λήψη αιτήματος βεβαίωση ανάγνωσης:">
+<!ENTITY returnSome.label "Να επιτρέπονται βεβαιώσεις ανάγνωσης για κάποια μηνύματα">
+<!ENTITY returnSome.accesskey "ε">
+<!ENTITY never.label "Να μη γίνεται αποστολή βεβαίωσης">
+<!ENTITY never.accesskey "μ">
+<!ENTITY notInToCc.label "Αν δεν βρίσκομαι στο Προς ή στην Κοιν. του μηνύματος:">
+<!ENTITY notInToCc.accesskey "β">
+<!ENTITY outsideDomain.label "Αν ο αποστολέας είναι έξω από τομέα μου:">
+<!ENTITY outsideDomain.accesskey "τ">
+<!ENTITY otherCases.label "Σε όλες τις άλλες περιπτώσεις:">
+<!ENTITY otherCases.accesskey "λ">
+<!ENTITY askMe.label "Να γίνεται ερώτηση">
+<!ENTITY alwaysSend.label "Να γίνεται πάντα αποστολή">
+<!ENTITY neverSend.label "Να μη γίνεται αποστολή">

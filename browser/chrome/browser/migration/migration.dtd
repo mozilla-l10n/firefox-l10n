@@ -38,7 +38,7 @@
 <!ENTITY selectProfile.label "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
 <!ENTITY selectProfile.title "Επιλογή προφίλ">
 
-<!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα από τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
+<!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
 
 <!ENTITY importFromHTMLFile.label       "Από αρχείο HTML">
 <!ENTITY importFromHTMLFile.accesskey   "χ">

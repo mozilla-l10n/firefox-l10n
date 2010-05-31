@@ -1,35 +1,31 @@
-<!ENTITY bounceSystemDockIcon.accesskey "ι">
-<!ENTITY bounceSystemDockIcon.label "Κίνηση του εικονιδίου στον πίνακα εφαρμογών">
-<!ENTITY connectionsInfo.caption "Σύνδεση">
-<!ENTITY enableStartPage.accesskey "τ">
-<!ENTITY enableStartPage.label "Όταν ξεκινάει ο  &brandShortName; να εμφανίζεται η αρχική σελίδα στην περιοχή μηνύματος">
-<!ENTITY generalSettings.caption "Προεπιλεγμένες ρυθμίσεις">
-<!ENTITY generalSettings.label "Ορισμός &brandShortName; ως την προεπιλεγμένη εφαρμογή για:">
-<!ENTITY location.accesskey "θ">
-<!ENTITY location.label "Τοποθεσία:">
 <!ENTITY messengerStartPage.label "Αρχική σελίδα &brandShortName;">
-<!ENTITY newMessagesArrive.label "Όταν φθάνουν νέα μηνύματα:">
-<!ENTITY playSound.accesskey "γ">
-<!ENTITY playSound.label "Αναπαραγωγή ενός ήχου">
-<!ENTITY proxiesInfo.label "Καθορισμός του τρόπου σύνδεσης του &brandShortName; στο διαδίκτυο.">
-<!ENTITY selectWindowLayout.accesskey "λ">
-<!ENTITY selectWindowLayout.label "Επιλογή της διάταξης παραθύρου που προτιμάτε για την αλληλογραφία.">
-<!ENTITY setDefaultFeedClient.accesskey "ρ">
-<!ENTITY setDefaultFeedClient.label "Ροή RSS">
-<!ENTITY setDefaultMailClient.accesskey "λ">
-<!ENTITY setDefaultMailClient.label "Αλληλογραφία">
-<!ENTITY setDefaultNewsClient.accesskey "ζ">
-<!ENTITY setDefaultNewsClient.label "Συζητήσεις">
-<!ENTITY showAnimatedAlert.accesskey "φ">
-<!ENTITY showAnimatedAlert.label "Εμφάνιση μιας ειδοποίησης">
-<!ENTITY showConnections.accesskey "ν">
-<!ENTITY showConnections.label "Ρυθμίσεις σύνδεσης...">
-<!ENTITY soundbutton.accesskey "χ">
-<!ENTITY soundbutton.label "Για προχωρημένους">
-<!ENTITY useDefault.accesskey "π">
+<!ENTITY enableStartPage.label "Όταν ξεκινάει ο  &brandShortName; να εμφανίζεται η αρχική σελίδα στην περιοχή μηνύματος">
+<!ENTITY enableStartPage.accesskey "τ">
+<!ENTITY location.label "Τοποθεσία:">
+<!ENTITY location1.accesskey "ο">
 <!ENTITY useDefault.label "Επαναφορά προεπιλογών">
-<!ENTITY windowSettings.label "Ρύθμιση παραθύρου">
-<!ENTITY checkDefaultMailClient.label      "Κατά την εκκίνηση, ο &brandShortName; θα ελέγχει αν είναι η προεπιλεγμένη εφαρμογή">
-<!ENTITY checkDefaultMailClient.accesskey  "κ">
-<!ENTITY defaultClientAdvanced.label       "Για προχωρημένους...">
-<!ENTITY defaultClientAdvanced.accesskey   "χ">
+<!ENTITY useDefault.accesskey "π">
+<!ENTITY bounceSystemDockIcon.label "Κίνηση του εικονιδίου στον πίνακα εφαρμογών">
+<!ENTITY bounceSystemDockIcon.accesskey "ι">
+<!ENTITY newMessagesArrive.label "Όταν φθάνουν νέα μηνύματα:">
+<!ENTITY playSound.label "Αναπαραγωγή ενός ήχου">
+<!ENTITY playSound1.accesskey "π">
+<!ENTITY showAnimatedAlert.label "Εμφάνιση μιας ειδοποίησης">
+<!ENTITY showAnimatedAlert.accesskey "φ">
+<!ENTITY customizeMailAlert.label "Προσαρμογή…">
+<!ENTITY customizeMailAlert.accesskey "μ">
+<!ENTITY play.label "Αναπαραγωγή">
+<!ENTITY play.accesskey "π">
+<!ENTITY systemsound.label "Προεπιλεγμένος ήχος συστήματος για νέο μήνυμα">
+<!ENTITY systemsoundMac.label "Ήχος προειδοποίησης συστήματος">
+<!ENTITY systemsoundMac.accesskey "χ">
+<!ENTITY systemsound.accesskey "χ">
+<!ENTITY customsound.label "Χρήση του ακόλουθου αρχείου ήχου">
+<!ENTITY customsound.accesskey "Χ">
+<!ENTITY browse.label "Εξερεύνηση…">
+<!ENTITY browse.accesskey "ξ">
+<!ENTITY addonsMgr.label "Πρόσθετα">
+<!ENTITY manageAddonsDescWin.label "Αλλαγή επιλογών για τα πρόσθετα σας">
+<!ENTITY manageAddonsDescUnix2.label "Αλλαγή προτιμήσεων για τα πρόσθετα σας">
+<!ENTITY manageAddons.label "Διαχείριση προσθέτων…">
+<!ENTITY manageAddons.accesskey "Δ">

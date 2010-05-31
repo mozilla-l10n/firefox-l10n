@@ -1,60 +1,90 @@
-<!ENTITY MoreFewerButton.tooltip "Εμφάνιση λιγότερων ή περισσότερων επιλογών για επεξεργασία">
-<!ENTITY actualSize.label "Πραγματικό μέγεθος:">
-<!ENTITY actualSizeRadio.accessKey "">
-<!ENTITY actualSizeRadio.label "Πραγματικό μέγεθος">
-<!ENTITY actualSizeRadio.tooltip "Επιστροφή στο πραγματικό μέγεθος της εικόνας.">
-<!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
-<!ENTITY altText.accessKey "">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Ιδιότητες εικόνας">
+<!ENTITY pixelsPopup.value "εικονοστοιχεία">
+<!ENTITY locationEditField.label "Τοποθεσία εικόνας:">
+<!ENTITY locationEditField.accessKey "Τ">
+<!ENTITY locationEditField.tooltip "Καταχωρίστε το όνομα αρχείου εικόνας ή την τοποθεσία">
+<!ENTITY title.label "Συμβουλή οθόνης:">
+<!ENTITY title.accessKey "β">
+<!ENTITY title.tooltip "Το γνώρισμα html 'title' που προβάλλεται ως συμβουλή οθόνης">
 <!ENTITY altText.label "Εναλλακτικό κείμενο:">
+<!ENTITY altText.accessKey "λ">
 <!ENTITY altTextEditField.tooltip "Εισάγετε κείμενο για εμφάνιση στη θέση της εικόνας">
-<!ENTITY borderEditField.accessKey "">
-<!ENTITY borderEditField.label "Μαύρο πλαίσιο:">
-<!ENTITY bottomPopup.value "Από κάτω">
-<!ENTITY centerPopup.value "Στο μέσο">
-<!ENTITY constrainCheckbox.accessKey "">
-<!ENTITY constrainCheckbox.label "Περιορισμός">
-<!ENTITY constrainCheckbox.tooltip "Διατήρηση των αναλογιών της εικόνας">
-<!ENTITY customSizeRadio.accessKey "">
+<!ENTITY noAltText.label "Χωρίς τη χρήση εναλλακτικού κειμένου">
+<!ENTITY noAltText.accessKey "Χ">
+<!ENTITY previewBox.label "Προεπισκόπηση εικόνας">
+<!ENTITY actualSize.label "Πραγματικό μέγεθος:">
+<!ENTITY actualSizeRadio.label "Πραγματικό μέγεθος">
+<!ENTITY actualSizeRadio.accessKey "γ">
+<!ENTITY actualSizeRadio.tooltip "Επιστροφή στο πραγματικό μέγεθος της εικόνας.">
 <!ENTITY customSizeRadio.label "Προσαρμοσμένο μέγεθος">
+<!ENTITY customSizeRadio.accessKey "σ">
 <!ENTITY customSizeRadio.tooltip "Αλλαγή του μεγέθους της εικόνας όπως φαίνεται στη σελίδα">
-<!ENTITY editImageButton.label "Επεξεργασία εικόνας">
-<!ENTITY editImageButton.tooltip "Επεξεργασία αρχείου εικόνας με άλλο πρόγραμμα">
+<!ENTITY heightEditField.label "Ύψος:">
+<!ENTITY heightEditField.accessKey "ψ">
+<!ENTITY widthEditField.label "Πλάτος:">
+<!ENTITY widthEditField.accessKey "Π">
+<!ENTITY constrainCheckbox.label "Περιορισμός">
+<!ENTITY constrainCheckbox.accessKey "ε">
+<!ENTITY constrainCheckbox.tooltip "Διατήρηση των αναλογιών της εικόνας">
+<!ENTITY imagemapBox.label "Χάρτης εικόνας">
+<!ENTITY removeImageMapButton.label "Αφαίρεση">
+<!ENTITY removeImageMapButton.accessKey "φ">
 <!ENTITY editImageMapButton.label "Επεξεργασία...">
 <!ENTITY editImageMapButton.tooltip "Δημιουργία ενεργών hotspots για αυτήν την εικόνα">
-<!ENTITY heightEditField.accessKey "">
-<!ENTITY heightEditField.label "Ύψος:">
-<!ENTITY imageAppearanceTab.label "Εμφάνιση">
-<!ENTITY imageDimensionsTab.label "Διαστάσεις">
-<!ENTITY imageInputTab.label "Φόρμα">
-<!ENTITY imageLinkTab.label "Δεσμός">
-<!ENTITY imageLocationTab.label "Τοποθεσία">
-<!ENTITY imagemapBox.label "Χάρτης εικόνας">
-<!ENTITY leftRightEditField.accessKey "">
-<!ENTITY leftRightEditField.label "Αριστερά και δεξιά:">
-<!ENTITY locationEditField.accessKey "">
-<!ENTITY locationEditField.label "Τοποθεσία εικόνας:">
-<!ENTITY locationEditField.tooltip "Καταχωρίστε το όνομα αρχείου εικόνας ή την τοποθεσία">
-<!ENTITY makePageBackgroundCheckbox.label "Δημιουργία φόντου σελίδας">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Χρήση εικόνας ως φόντο για τη σελίδα">
-<!ENTITY noAltText.accessKey "">
-<!ENTITY noAltText.label "Χωρίς τη χρήση εναλλακτικού κειμένου">
-<!ENTITY percentPopup.value "ποσοστό">
-<!ENTITY pixelsPopup.value "εικονοστοιχεία">
-<!ENTITY previewBox.label "Προεπισκόπηση εικόνας">
-<!ENTITY removeImageMapButton.accessKey "">
-<!ENTITY removeImageMapButton.label "Αφαίρεση">
-<!ENTITY showImageLinkBorder.accessKey "">
-<!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
-<!ENTITY spacingBox.label "Spacing">
-<!ENTITY spacingBox.tooltip "Καταχωρίστε ένα νούμερο για το διάστημα γύρω από την εικόνα">
-<!ENTITY title.accessKey "">
-<!ENTITY title.label "Συμβουλή οθόνης:">
-<!ENTITY title.tooltip "Το γνώρισμα html 'title' που προβάλλεται ως συμβουλή οθόνης">
-<!ENTITY topBottomEditField.accessKey "">
-<!ENTITY topBottomEditField.label "Πάνω και κάτω:">
+<!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
+<!ENTITY bottomPopup.value "Από κάτω">
 <!ENTITY topPopup.value "Πρός τα πάνω">
-<!ENTITY widthEditField.accessKey "">
-<!ENTITY widthEditField.label "Πλάτος:">
-<!ENTITY windowTitle.label "Ιδιότητες εικόνας">
-<!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
+<!ENTITY centerPopup.value "Στο μέσο">
 <!ENTITY wrapRightPopup.value "Αναδίπλωση στα δεξιά">
+<!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
+<!ENTITY spacingBox.label "Spacing">
+<!ENTITY leftRightEditField.label "Αριστερά και δεξιά:">
+<!ENTITY leftRightEditField.accessKey "ρ">
+<!ENTITY topBottomEditField.label "Πάνω και κάτω:">
+<!ENTITY topBottomEditField.accessKey "ω">
+<!ENTITY borderEditField.label "Μαύρο πλαίσιο:">
+<!ENTITY borderEditField.accessKey "Μ">
+<!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
+<!ENTITY showImageLinkBorder.accessKey "β">
+<!ENTITY imageInputTab.label "Φόρμα">
+<!ENTITY imageLocationTab.label "Τοποθεσία">
+<!ENTITY imageDimensionsTab.label "Διαστάσεις">
+<!ENTITY imageAppearanceTab.label "Εμφάνιση">
+<!ENTITY imageLinkTab.label "Δεσμός">

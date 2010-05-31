@@ -49,22 +49,21 @@
 <!ENTITY col.dateadded.label     "Προσθήκη">
 <!ENTITY col.lastmodified.label  "Τελευταία τροποποίηση">
 
-<!ENTITY search.allBookmarks.label                 "Όλοι οι σελιδοδείκτες">
-<!ENTITY search.allBookmarks.accesskey             "λ">
+
 <!ENTITY search.scopeFolder.label                  "Επιλεγμένος φάκελος">
 <!ENTITY search.scopeFolder.accesskey              "φ">
-<!ENTITY search.scopeAll.label                     "Όλοι οι σελιδοδείκτες">
-<!ENTITY search.scopeAll.accesskey                 "λ">
-<!ENTITY search.scopeMenu.label                    "Μενού σελιδοδεικτών">
-<!ENTITY search.scopeMenu.accesskey                "Μ">
-<!ENTITY search.scopeToolbar.label                 "Εργαλειοθήκη σελιδοδεικτών">
-<!ENTITY search.scopeToolbar.accesskey             "γ">
+
+
 <!ENTITY search.scopeDownloads.label               "Λήψεις αρχείων">
 <!ENTITY search.scopeDownloads.accesskey           "ψ">
 <!ENTITY search.scopeHistory.label                 "Ιστορικό">
 <!ENTITY search.scopeHistory.accesskey             "σ">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "Προβολή μπάρας αναζήτησης">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "Απόκρυψη μπάρας αναζήτησης">
+
+<!ENTITY search.scopeBookmarks.label               "Σελιδοδείκτες">
+<!ENTITY search.scopeBookmarks.accesskey           "κ">
+
 
 <!ENTITY view.detailsMacOSX.label  "Λίστα">
 <!ENTITY view.details.label        "Λεπτομέρειες">
@@ -75,11 +74,11 @@
 <!ENTITY maintenance.label   "Εισαγωγή και αντίγραφο">
 
 <!ENTITY backCmd.label       "Πίσω">
-<!ENTITY backCmd.accesskey   "Π">
+
 <!ENTITY backButton.tooltip  "Μετάβαση πίσω">
 
 <!ENTITY forwardCmd.label       "Μπροστά">
-<!ENTITY forwardCmd.accesskey   "Μ">
+
 <!ENTITY forwardButton.tooltip  "Μετάβαση μπροστά">
 
 <!ENTITY detailsPane.more.label "Περισσότερα">
@@ -184,10 +183,7 @@
   "Αναζήτηση:">
 <!ENTITY search.accesskey
   "ζ">
-<!ENTITY search.collection.label
-  "Μόνο τρέχουσα συλλογή">
-<!ENTITY search.collection.accesskey
-  "σ">
+
 
 
 <!ENTITY saveSearch.label
@@ -312,6 +308,9 @@
 <!ENTITY cmd.delete.accesskey           "Δ">
 <!ENTITY cmd.deleteDomainData.label     "Όχι απομνημόνευση αυτής της σελίδας">
 <!ENTITY cmd.deleteDomainData.accesskey "χ">
+
+<!ENTITY cmd.bookmarkLink.label         "Προσθήκη στους σελιδοδείκτες…">
+<!ENTITY cmd.bookmarkLink.accesskey     "δ">
 
 
 

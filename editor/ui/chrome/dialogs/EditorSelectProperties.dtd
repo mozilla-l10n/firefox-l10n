@@ -1,39 +1,75 @@
-<!ENTITY AddOptGroup.accesskey "μ">
-<!ENTITY AddOptGroup.label "Προσθήκη ομάδας">
-<!ENTITY AddOption.accesskey "θ">
-<!ENTITY AddOption.label "Προσθήκη επιλογής">
-<!ENTITY MoveElementDown.accesskey "κ">
-<!ENTITY MoveElementDown.label "Μετάβαση κάτω">
-<!ENTITY MoveElementUp.accesskey "π">
-<!ENTITY MoveElementUp.label "Μετάβαση πάνω">
-<!ENTITY OptGroup.label "Ομάδα επιλογής">
-<!ENTITY OptGroupDisabled.accesskey "π">
-<!ENTITY OptGroupDisabled.label "Απενεργοποιημένο">
-<!ENTITY OptGroupLabel.accesskey "τ">
-<!ENTITY OptGroupLabel.label "Ετικέτα:">
-<!ENTITY Option.label "Επιλογή">
-<!ENTITY OptionDisabled.accesskey "γ">
-<!ENTITY OptionDisabled.label "Απενεργοποιημένο">
-<!ENTITY OptionSelected.accesskey "λ">
-<!ENTITY OptionSelected.label "Αρχικά επιλεγμένο">
-<!ENTITY OptionText.accesskey "μ">
-<!ENTITY OptionText.label "Κείμενο:">
-<!ENTITY OptionValue.accesskey "τ">
-<!ENTITY OptionValue.label "Τιμή:">
-<!ENTITY RemoveElement.accesskey "ρ">
-<!ENTITY RemoveElement.label "Απομάκρυνση">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Input Tag Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Ιδιότητες λίστας επιλογής">
 <!ENTITY Select.label "Λίστα επιλογής">
-<!ENTITY SelectDisabled.accesskey "ε">
-<!ENTITY SelectDisabled.label "Απενεργοποιημένο">
-<!ENTITY SelectMultiple.accesskey "λ">
-<!ENTITY SelectMultiple.label "Πολλαπλή επιλογή">
-<!ENTITY SelectName.accesskey "λ">
 <!ENTITY SelectName.label "Όνομα λίστας:">
-<!ENTITY SelectSize.accesskey "ψ">
+<!ENTITY SelectName.accesskey "λ">
 <!ENTITY SelectSize.label "'Υψος:">
-<!ENTITY SelectTabIndex.accesskey "σ">
+<!ENTITY SelectSize.accesskey "ψ">
+<!ENTITY SelectMultiple.label "Πολλαπλή επιλογή">
+<!ENTITY SelectMultiple.accesskey "λ">
+<!ENTITY SelectDisabled.label "Απενεργοποιημένο">
+<!ENTITY SelectDisabled.accesskey "ε">
 <!ENTITY SelectTabIndex.label "Κατάλογος στηλοθέτη:">
-<!ENTITY SelectedHeader.label "Επιλεγμένο">
+<!ENTITY SelectTabIndex.accesskey "σ">
+<!ENTITY OptGroup.label "Ομάδα επιλογής">
+<!ENTITY OptGroupLabel.label "Ετικέτα:">
+<!ENTITY OptGroupLabel.accesskey "τ">
+<!ENTITY OptGroupDisabled.label "Απενεργοποιημένο">
+<!ENTITY OptGroupDisabled.accesskey "π">
+<!ENTITY Option.label "Επιλογή">
+<!ENTITY OptionText.label "Κείμενο:">
+<!ENTITY OptionText.accesskey "μ">
+<!ENTITY OptionValue.label "Τιμή:">
+<!ENTITY OptionValue.accesskey "Τ">
+<!ENTITY OptionSelected.label "Αρχικά επιλεγμένο">
+<!ENTITY OptionSelected.accesskey "λ">
+<!ENTITY OptionDisabled.label "Απενεργοποιημένο">
+<!ENTITY OptionDisabled.accesskey "γ">
 <!ENTITY TextHeader.label "Κείμενο">
 <!ENTITY ValueHeader.label "Τιμή">
-<!ENTITY windowTitle.label "Ιδιότητες λίστας επιλογής">
+<!ENTITY SelectedHeader.label "Επιλεγμένο">
+<!ENTITY AddOption.label "Προσθήκη επιλογής">
+<!ENTITY AddOption.accesskey "θ">
+<!ENTITY AddOptGroup.label "Προσθήκη ομάδας">
+<!ENTITY AddOptGroup.accesskey "μ">
+<!ENTITY RemoveElement.label "Απομάκρυνση">
+<!ENTITY RemoveElement.accesskey "ρ">
+<!ENTITY MoveElementUp.label "Μετάβαση πάνω">
+<!ENTITY MoveElementUp.accesskey "π">
+<!ENTITY MoveElementDown.label "Μετάβαση κάτω">
+<!ENTITY MoveElementDown.accesskey "κ">

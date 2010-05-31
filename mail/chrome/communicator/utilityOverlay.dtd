@@ -1,59 +1,48 @@
-<!ENTITY closeCmd.accesskey "Κ">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.label "Κλείσιμο">
-<!ENTITY copyCmd.accesskey "γ">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.label "Αντιγραφή">
-<!ENTITY cutCmd.accesskey "κ">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.label "Αποκοπή">
-<!ENTITY deleteCmd.accesskey "δ">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.label "Διαγραφή">
-<!ENTITY direct.accesskey "μ">
-<!ENTITY direct.label "Εργασία με σύνδεση (διαμεσολαβητής: κανένας)">
-<!ENTITY editMenu.accesskey "ε">
-<!ENTITY editMenu.label "Επεξεργασία">
-<!ENTITY fileMenu.accesskey "Α">
 <!ENTITY fileMenu.label "Αρχείο">
-<!ENTITY findTypeLinksCmd.key "'">
-<!ENTITY findTypeTextCmd.accesskey "κ">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeTextCmd.label "Εύρεση κειμένου ενώ πληκτρολογείτε">
-<!ENTITY manual.accesskey "χ">
-<!ENTITY manual.label "Εργασία με συνδεση (διαμεσολαβητής: χειροκίνητα)">
-<!ENTITY newMenu.accesskey "Ν">
+<!ENTITY fileMenu.accesskey "Α">
 <!ENTITY newMenu.label "Νέο">
-<!ENTITY offlineGoOfflineCmd.accesskey "χ">
-<!ENTITY offlineGoOfflineCmd.label "Εργασία χωρίς σύνδεση">
-<!ENTITY pac.accesskey "α">
-<!ENTITY pac.label "Με σύνδεση (διαμεσολαβητής: αυτόματα)">
-<!ENTITY pasteCmd.accesskey "λ">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.label "Επικόλληση">
-<!ENTITY preferencesCmd.accesskey "ο">
-<!ENTITY preferencesCmd.label "Επιλογές...">
-<!ENTITY preferencesCmdUnix.accesskey "ρ">
-<!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
-<!ENTITY proxy.accesskey "δ">
-<!ENTITY proxy.label "Ρύθμιση διαμεσολαβητή...">
-<!ENTITY quitApplicationCmd.accesskey "ξ">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.label "Έξοδος">
-<!ENTITY quitApplicationCmdUnix.accesskey "">
-<!ENTITY quitApplicationCmdUnix.label "Κλείσιμο">
-<!ENTITY redoCmd.accesskey "κ">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.label "Ακύρωση Αναίρεσης">
-<!ENTITY selectAllCmd.accesskey "ο">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.label "Επιλογή όλων">
-<!ENTITY showTaskbarCmd.accesskey "σ">
-<!ENTITY showTaskbarCmd.label "Εργαλειοθήκη εργασιών">
-<!ENTITY undoCmd.accesskey "ρ">
-<!ENTITY undoCmd.key "Z">
+<!ENTITY newMenu.accesskey "Ν">
+<!ENTITY editMenu.label "Επεξεργασία">
+<!ENTITY editMenu.accesskey "Ε">
 <!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY viewMenu.accesskey "β">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "ρ">
+<!ENTITY redoCmd.label "Ακύρωση Αναίρεσης">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "κ">
+<!ENTITY cutCmd.label "Αποκοπή">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "κ">
+<!ENTITY copyCmd.label "Αντιγραφή">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "γ">
+<!ENTITY pasteCmd.label "Επικόλληση">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "λ">
+<!ENTITY deleteCmd.label "Διαγραφή">
+<!ENTITY deleteCmd.accesskey "Δ">
+<!ENTITY selectAllCmd.label "Επιλογή όλων">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "ο">
+<!ENTITY preferencesCmd.label "Επιλογές...">
+<!ENTITY preferencesCmd.accesskey "ο">
+<!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
+<!ENTITY preferencesCmdUnix.accesskey "ρ">
 <!ENTITY viewMenu.label "Προβολή">
-<!ENTITY viewToolbarsMenu.accesskey "γ">
+<!ENTITY viewMenu.accesskey "ρ">
 <!ENTITY viewToolbarsMenu.label "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.accesskey "γ">
+<!ENTITY showTaskbarCmd.label "Εργαλειοθήκη εργασιών">
+<!ENTITY showTaskbarCmd.accesskey "σ">
+<!ENTITY proxy.label "Ρύθμιση διαμεσολαβητή...">
+<!ENTITY proxy.accesskey "δ">
+<!ENTITY closeCmd.label "Κλείσιμο">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Κ">
+<!ENTITY quitApplicationCmd.label "Έξοδος">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "ξ">
+<!ENTITY quitApplicationCmdUnix.label "Κλείσιμο">
+<!ENTITY quitApplicationCmdUnix.accesskey "Κ">
+<!ENTITY quitApplicationCmdMac.label "Κλείσιμο &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "λ">

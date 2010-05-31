@@ -1,7 +1,15 @@
-<!ENTITY aboutDialog.title "Περί &brandShortName;">
-<!ENTITY aboutLink "&lt;  Περί &brandShortName;">
-<!ENTITY aboutVersion "version">
-<!ENTITY copyrightText "©1998-2005 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
-                                 Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
-                                 reserved.">
-<!ENTITY credits "Μνεία">
+<!ENTITY aboutDialog.title "Περί &brandFullName;">
+<!ENTITY aboutButton.label "&lt; Πίσω">
+<!ENTITY aboutButton.accesskey "Π">
+<!ENTITY aboutVersion "έκδοση">
+<!ENTITY aboutMenu.label "Περί">
+<!ENTITY aboutMenu.accesskey "ε">
+<!ENTITY aboutCredits.label "Μνεία">
+<!ENTITY aboutCredits.accesskey "Μ">
+<!ENTITY aboutRights.label "Τα δικαιώματα σας">
+<!ENTITY aboutRights.accesskey "δ">
+<!ENTITY aboutContributors.label "Συντελεστές">
+<!ENTITY aboutContributors.accesskey "λ">
+<!ENTITY aboutLicense.label "Άδεια χρήσης">
+<!ENTITY aboutLicense.accesskey "δ">
+<!ENTITY cmdCloseMac.commandKey "w">
