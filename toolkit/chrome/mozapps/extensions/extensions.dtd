@@ -81,10 +81,8 @@
 <!ENTITY sort.rating.tooltip                  "Sorteren op gemiddelde beoordeling">
 
 <!ENTITY showMore.label                       "Meer tonen">
-<!ENTITY showMore.accesskey                   "m">
 <!ENTITY showMore.tooltip                     "Meer details tonen">
 <!ENTITY showLess.label                       "Minder tonen">
-<!ENTITY showLess.accesskey                   "t">
 <!ENTITY showLess.tooltip                     "Minder details tonen">
 
 <!ENTITY search.filter.label                  "Tonen:">
