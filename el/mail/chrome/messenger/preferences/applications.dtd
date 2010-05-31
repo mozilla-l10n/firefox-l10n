@@ -1,0 +1,15 @@
+<!ENTITY typeColumn.label "Τύπος περιεχομένου">
+<!ENTITY typeColumn.accesskey "Τ">
+<!ENTITY actionColumn2.label "Ενέργεια">
+<!ENTITY actionColumn2.accesskey "ν">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.emptytext "Αναζήτηση">
+<!ENTITY saveTo.label "Αποθήκευση αρχείων σε">
+<!ENTITY saveTo.accesskey "θ">
+<!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
+<!ENTITY alwaysAsk.accesskey "Π">
+<!ENTITY chooseFolderWin.label "Εξερεύνηση…">
+<!ENTITY chooseFolderWin.accesskey "ξ">
+<!ENTITY chooseFolderMac.label "Επιλογή…">
+<!ENTITY chooseFolderMac.accesskey "π">

@@ -1,0 +1,39 @@
+<!ENTITY aboutSupport.pageTitle "Αντιμετώπιση προβλημάτων">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Αυτή η σελίδα περιέχει τεχνικές πληροφορίες που πιθανόν να σας φανούν χρήσιμες στη επίλυση κάποιων  
+  προβλημάτων. Αν ψάχνετε για απαντήσεις σε συχνές ερωτήσεις για τον 
+  &brandShortName;, επισκεφτείτε την <a id='supportLink'>σελίδα υποστήριξης</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Επεκτάσεις">
+<!ENTITY aboutSupport.extensionName "Όνομα">
+<!ENTITY aboutSupport.extensionEnabled "Ενεργές">
+<!ENTITY aboutSupport.extensionVersion "Έκδοση">
+
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Βασικά εφαρμογής">
+<!ENTITY aboutSupport.appBasicsName "Όνομα">
+<!ENTITY aboutSupport.appBasicsVersion "Έκδοση">
+<!ENTITY aboutSupport.appBasicsProfileDir "Κατάλογος προφίλ">
+<!ENTITY aboutSupport.appBasicsPlugins "Εγκατεστημένες πρόσθετες λειτουργίες">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Τροποποιημένες προτιμήσεις">
+<!ENTITY aboutSupport.modifiedPrefsName "Όνομα">
+<!ENTITY aboutSupport.modifiedPrefsValue "Τιμή">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Ιστορικό εγκατάστασης">
+<!ENTITY aboutSupport.updateHistoryTitle "Ιστορικό ενημερώσεων">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Αντιγραφή όλων στο πρόχειρο">
+
+<!ENTITY aboutSupport.show.label "Άνοιγμα φακέλου">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Προβολή στον Finder">
+

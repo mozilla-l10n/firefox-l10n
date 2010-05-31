@@ -1,0 +1,57 @@
+<!ENTITY autoconfigWizard.title "Ρύθμιση λογαριασμού αλληλογραφίας">
+<!ENTITY name.label "Το όνομα σας:">
+<!ENTITY name.accesskey "ν">
+<!ENTITY name.emptytext "Όνομα - Επίθετο">
+<!ENTITY name.text "Το όνομα σας, όπως θα εμφανίζεται σε τρίτους">
+<!ENTITY email.label "Διεύθυνση Email:">
+<!ENTITY email.accesskey "l">
+<!ENTITY email.emptytext "email@example.com">
+<!ENTITY password.label "Κωδικός:">
+<!ENTITY password.accesskey "δ">
+<!ENTITY password.emptytext "Κωδικός">
+<!ENTITY password.text "Προαιρετικός, θα χρησιμοποιηθεί μόνο για την επαλήθευση του ονόματος χρήστη">
+<!ENTITY accountInformation.label "Πληροφορίες λογαριασμού">
+<!ENTITY username2.label "Όνομα χρήστη:">
+<!ENTITY incoming.label "Εισερχομένων:">
+<!ENTITY outgoing.label "Εξερχομένων:">
+<!ENTITY noEncryption.label "Κανένα">
+<!ENTITY starttls.label "STARTTLS">
+<!ENTITY sslTls.label "SSL/TLS">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop.label "POP">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY imap.description                "IMAP - Πρόσβαση σε φάκελους και μηνύματα από διαφορετικούς υπολογιστές">
+<!ENTITY pop.description                 "POP - Λήψη όλων των μηνυμάτων σε αυτό τον υπολογιστή σε τοπικούς φακέλους">
+<!ENTITY recommended-appendix.label      "(συνιστάται)">
+<!ENTITY manualSetup.label "Χειροκίνητη ρύθμιση…">
+<!ENTITY manualSetup.accesskey "Χ">
+<!ENTITY cancel.label "Ακύρωση">
+<!ENTITY cancel.accesskey "κ">
+<!ENTITY continue.label "Συνέχεια">
+<!ENTITY continue.accesskey "ν">
+<!ENTITY startOver.label "Ρύθμιση ξανά">
+<!ENTITY startOver.accesskey "ξ">
+<!ENTITY stop.label "Διακοπή">
+<!ENTITY stop.accesskey "κ">
+<!ENTITY retest.label "Επανέλεγχος ρύθμισης">
+<!ENTITY retest.accesskey "π">
+<!ENTITY edit.label "Επεξεργασία">
+<!ENTITY edit.accesskey "Ε">
+<!ENTITY rememberPassword.label "Απομνημόνευση κωδικού">
+<!ENTITY rememberPassword.accesskey "μ">
+<!ENTITY warning.label "Προειδοποίηση!">
+<!ENTITY incomingSettings.label "Ρυθμίσεις εισερχομένων:">
+<!ENTITY outgoingSettings.label "Ρυθμίσεις εξερχομένων:">
+<!ENTITY technicaldetails.label "Τεχνικές λεπτομέρειες">
+<!ENTITY confirmWarning.label "Καταλαβαίνω τους κινδύνους.">
+<!ENTITY confirmWarning.accesskey "λ">
+<!ENTITY createAccount.label "Δημιουργία λογαριασμού">
+<!ENTITY createAccount.accesskey "Δ">
+<!ENTITY changeSettings.label "Αλλαγή ρυθμίσεων">
+<!ENTITY changeSettings.accesskey "ρ">
+<!ENTITY contactYourProvider.description "Ο &brandShortName; μπορεί να σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας με αυτές τις ρυθμίσεις. Όμως, θα πρέπει να επικοινωνήσετε με τον διαχειριστή του συστήματος σας ή με τον πάροχο της ηλεκτρονικής αλληλογραφίας σας για αυτές τις μη ασφαλείς ρυθμίσεις. Δείτε το Thunderbird FAQ για περισσότερες πληροφορίες.">
+<!ENTITY insecureServer.tooltip.title "Προειδοποίηση! Αυτός είναι ένας μη ασφαλής διακομιστής.">
+<!ENTITY insecureServer.tooltip.details "Κάντε κλικ στον κύκλο για περισσότερες λεπτομέρειες.">
+<!ENTITY insecureUnencrypted.description "Το μήνυμα σας και η πιστοποίηση σας στέλνονται χωρίς κρυπτογράφηση και έτσι είναι εύκολο να διαβαστούν από τρίτους. Ο &brandShortName; θα σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας, αλλά θα πρέπει να ρυθμίσετε τον διακομιστή σας  να χρησιμοποιεί ασφαλή σύνδεση.">
+<!ENTITY insecureSelfSigned.description "Ο διακομιστής χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έμπιστο, και δεν έτσι δεν είναι δυνατόν να είστε σίγουροι ότι κάποιος δεν παρεμβάλλετε στην επικοινωνία του &brandShortName; και του διακομιστή. Ο &brandShortName;θα σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας, αλλά θα πρέπει να ρυθμίσετε τον διακομιστή σας  να χρησιμοποιεί ασφαλή σύνδεση.">
+<!ENTITY secureServer.description "Συγχαρητήρια! Αυτός είναι ένας ασφαλής διακομιστής.">
