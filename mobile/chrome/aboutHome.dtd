@@ -1,0 +1,7 @@
+<!ENTITY aboutHome.header                       "<span id='header-suffix'>Αρχική του </span><span>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs                   "Οι καρτέλες από την προηγούμενη συνεδρία σας">
+<!ENTITY aboutHome.remoteTabs                   "Καρτέλες από άλλους υπολογιστές">
+<!ENTITY aboutHome.recommendedAddons2           "Πρόσθετα για τον &brandShortName;">
+<!ENTITY aboutHome.aboutMozilla                 "Περί Mozilla">
+<!ENTITY aboutHome.openAllTabs                  "Άνοιγμα όλων σε καρτέλες">
+

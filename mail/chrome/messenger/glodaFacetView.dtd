@@ -1,0 +1,4 @@
+<!ENTITY glodaFacetView.filters.label "Φίλτρο σε:">
+<!ENTITY glodaFacetView.loading.label "Αναζήτηση...">
+<!ENTITY glodaFacetView.empty.label "Δεν βρέθηκαν μηνύματα που να ταιριάζουν στην αναζήτηση σας">
+<!ENTITY glodaFacetView.pageMore.label "Περισσότερα »">

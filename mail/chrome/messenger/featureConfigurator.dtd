@@ -1,0 +1,120 @@
+<!ENTITY featureConfigurator.title "Βοηθός εισαγωγής">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
+<!ENTITY featureConfigurator.heading1 "Νέες λειτουργίες του  &brandShortName; που αξίζει να γνωρίζετε">
+
+
+
+<!-- LOCALIZATION NOTE (featureConfigurator.para.1): The tone of this paragraph is important: we tried for a tone that promotes the new features (which we believe are good and worth users learning about), but also emphasizing that we think it's important to preserve user choice. -->
+<!ENTITY featureConfigurator.para.1 "Αυτή η νέα έκδοση του  &brandShortName; ενσωματώνει νέες πανίσχυρες λειτουργίες, για τις οποίες είμαστε περήφανοι και είμαστε βέβαιοι ότι θα τις αγαπήσετε. Μιας και όμως οι ανάγκες και οι προτιμήσεις κάθε χρήστη διαφέρουν, κάναμε πιο εύκολη την προσαρμογή και τον έλεγχο του &brandShortName;.">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
+<!ENTITY featureConfigurator.para.2 "Χρησιμοποιήστε αυτή την σελίδα για να προσαρμόσετε τις νέες ρυθμίσεις. Μπορείτε πάντα να επιστρέψετε στον Βοηθό εισαγωγής μέσω του μενού της Βοήθειας.">
+
+
+
+
+<!ENTITY featureConfigurator.toolbar.heading "Νέα εργαλειοθήκη">
+
+<!ENTITY featureConfigurator.toolbar.new "Εργαλειοθήκη κουμπιών μηνύματος">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Διατήρηση των αρχικών κουμπιών εργαλειοθήκης">
+
+<!ENTITY featureConfigurator.toolbarBenefits.para "Ένα πιο ευκρινές περιβάλλον χρήσης σε σχέση με το προηγούμενο, που αφήνει περισσότερο χώρο ελεύθερο για αναζήτηση και πρόσθετα.">
+
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Μια πιο ευκρινής εργαλειοθήκη με συγκεντρωμένα όλες τις λειτουργίες αλληλογραφίας.">
+
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Διατήρηση των προσαρμοσμένων κουμπιών μαζί με τα νέα κουμπιά μηνυμάτων.">
+
+
+
+
+
+
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Ανάπτυξη κεφαλίδων">
+
+
+
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
+<!ENTITY featureConfigurator.addOn.installing "Εγκατάσταση…">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
+<!ENTITY featureConfigurator.addOn.installed "Εγκατεστημένο">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Αυτή η επέκταση έχει ήδη εγκατασταθεί.">
+
+
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
+<!ENTITY featureConfigurator.autoSync.heading "Αποθηκευτικός χώρος">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
+<!ENTITY featureConfigurator.autoSync.para "Αυτή η έκδοση του &brandShortName; έρχεται με μια νέα και βελτιωμένη λειτουργία αναζήτησης.  Για να χρησιμοποιήσετε τη νέα αναζήτηση θα χρειαστεί να συγχρονίσετε τα μηνύματα σας.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
+<!ENTITY featureConfigurator.autoSync.on "Συγχρονισμός">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Για γρηγορότερη φόρτωση μηνυμάτων και καλύτερα αποτελέσματα αναζήτησης.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
+<!ENTITY featureConfigurator.autoSync.off "Να μην γίνει συγχρονισμός">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Αυτό θα έχει σαν αποτέλεσμα μια πιο αργή φόρτωση μηνυμάτων και ημιτελή αποτελέσματα αναζήτησης.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
+<!ENTITY featureConfigurator.autoSync.some "Συγχρονισμός ανά λογαριασμό">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Προσαρμογή του συγχρονισμού ανά λογαριασμό και φάκελο.">
+
+
+
+
+
+<!ENTITY featureConfigurator.closeButton "Κλείσιμο">
+
+<!ENTITY featureConfigurator.previousButton "Προηγούμενο">
+<!ENTITY featureConfigurator.nextButton "Επόμενο">
+
+
+
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
+<!ENTITY featureConfigurator.diskSpace.currentSize "Η τρέχουσα συνολική χρήση από τα μηνύματα σας:">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Ελεύθερος χώρος:">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Απαιτείται:">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
+<!ENTITY featureConfigurator.diskSpace.warning "Έχετε λίγο ελεύθερο χώρο!">
+
+
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Η λειτουργία συμπτυγμένης προβολής έχει μεταφερθεί σε ξεχωριστή επέκταση, όπου και αναπτύσσεται καλύτερα.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Προσέξαμε ότι χρησιμοποιείτε την λειτουργία συμπτυγμένης προβολής.  Αυτή η λειτουργία μεταφέρθηκε σε ξεχωριστή επέκταση και σας συστήνουμε να την εγκαταστήσετε.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
+<!ENTITY featureConfigurator.collapsedHeaders.install "Εγκατάσταση σύμπτυξης κεφαλίδων…">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
+<!ENTITY featureConfigurator.folderColumns.heading "Επιπρόσθετες στήλες φακέλων">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.weak "Η επέκταση των επιπρόσθετων στηλών φακέλων αντικαθιστά την αντίστοιχη προχωρημένη προτίμηση.  Για να διατηρήσετε την στήλη του ακριβή αριθμού μηνυμάτων και του αποθηκευτικού χώρου στον καθένα από τους φακέλους σας, θα πρέπει να εγκαταστήσετε αυτή την επέκταση.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.strong "Προσέξαμε ότι χρησιμοποιείτε την προχωρημένη λειτουργία των επιπρόσθετων στηλών φακέλων.  Αυτή η λειτουργία μεταφέρθηκε σε ξεχωριστή επέκταση και σας συστήνουμε να την εγκαταστήσετε.">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
+<!ENTITY featureConfigurator.folderColumns.install "Εγκατάσταση επιπρόσθετων στηλών…">
+
+
+
+
+
+

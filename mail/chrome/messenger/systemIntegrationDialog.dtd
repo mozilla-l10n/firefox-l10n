@@ -1,0 +1,9 @@
+<!ENTITY systemIntegration.title "Ενσωμάτωση συστήματος">
+<!ENTITY defaultClient.intro "Χρήση του &brandShortName; ως την προεπιλεγμένη εφαρμογή για:">
+<!ENTITY email.label "Αλληλογραφία">
+<!ENTITY newsgroups.label "Ομάδες συζητήσεων">
+<!ENTITY feeds.label "Αρχεία ροής">
+<!ENTITY checkOnStartup.label "Να γίνεται πάντα έλεγχος κατά την εκκίνηση του &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "γ">
+<!ENTITY searchIntegration.label "Να επιτρέπεται στο &searchIntegration.engineName; η αναζήτηση μηνυμάτων">
+<!ENTITY searchIntegration.accesskey "ε">

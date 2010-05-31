@@ -1,8 +1,0 @@
-<!ENTITY clearLog.accesskey "">
-<!ENTITY clearLog.label "Εκκαθάριση Καταγραφής">
-<!ENTITY closeLog.accesskey "λ">
-<!ENTITY closeLog.label "Κλείσιμο">
-<!ENTITY enableLog.accesskey "">
-<!ENTITY enableLog.label "Ενεργοποίηση της καταγραφής ανεπιθύμητης αλληλογραφίας">
-<!ENTITY junkLog.title "Καταγραφή ανεπιθύμητης αλληλογραφίας">
-<!ENTITY junkLogInfo.text "Αυτό το αρχείο καταγράφει τη δραστηριότητα της ανεπιθύμητης αλληλογραφίας.  Χρησιμοποιήστε το κουτί επιλογής για να ενεργοποιήσετε την καταγραφή.">

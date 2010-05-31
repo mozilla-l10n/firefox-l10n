@@ -1,0 +1,4 @@
+<!ENTITY appManager.title "Λεπτομέρειες εφαρμογής">
+<!ENTITY appManager.style "width: 35em; min-height: 23em;">
+<!ENTITY remove.label "Απομάκρυνση">
+<!ENTITY remove.accesskey "ρ">

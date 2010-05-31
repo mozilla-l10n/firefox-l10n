@@ -1,0 +1,19 @@
+<!ENTITY window.title "Εξαιρέσεις">
+<!ENTITY window.width "40em">
+<!ENTITY treehead.sitename.label "Σελίδα">
+<!ENTITY treehead.status.label "Κατάσταση">
+<!ENTITY removepermission.label "Απομάκρυνση σελίδας">
+<!ENTITY removepermission.accesskey "ρ">
+<!ENTITY removeallpermissions.label "Απομάκρυνση όλων των σελίδων">
+<!ENTITY removeallpermissions.accesskey "ω">
+<!ENTITY address.label "Διεύθυνση σελίδας:">
+<!ENTITY address.accesskey "Δ">
+<!ENTITY block.label "Φραγή">
+<!ENTITY block.accesskey "Φ">
+<!ENTITY session.label "Να επιτρέπεται για την συνεδρία">
+<!ENTITY session.accesskey "σ">
+<!ENTITY allow.label "Να επιτρέπεται">
+<!ENTITY allow.accesskey "ε">
+<!ENTITY windowClose.key "w">
+<!ENTITY button.close.label "Κλείσιμο">
+<!ENTITY button.close.accesskey "Κ">

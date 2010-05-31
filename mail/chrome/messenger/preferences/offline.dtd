@@ -1,0 +1,22 @@
+<!ENTITY offlineDialog.title "Ρυθμίσεις εργασίας χωρίς σύνδεση">
+<!ENTITY textStartUp "Κατά την εκκίνηση:">
+<!ENTITY radioRememberPrevState.label "Απομνημόνευση προηγούμενης κατάστασης">
+<!ENTITY radioRememberPrevState.accesskey "μ">
+<!ENTITY radioAskMe.label "Ερώτηση για σύνδεση κατά την εκκίνηση">
+<!ENTITY radioAskMe.accesskey "ρ">
+<!ENTITY radioAlwaysOnline.label "Εκκίνηση πάντοτε με σύνδεση">
+<!ENTITY radioAlwaysOnline.accesskey "π">
+<!ENTITY textGoingOnline "Αποστολή μη απεσταλμένων κατά την σύνδεση;">
+<!ENTITY radioAutoSend.label "Ναι">
+<!ENTITY radioAutoSend.accesskey "α">
+<!ENTITY radioNotSend.label "Όχι">
+<!ENTITY radioNotSend.accesskey "χ">
+<!ENTITY radioAskUnsent.label "Ερώτηση">
+<!ENTITY radioAskUnsent.accesskey "σ">
+<!ENTITY textGoingOffline "Λήψη μηνυμάτων για εργασία χωρίς σύνδεση κατά την αποσύνδεση;">
+<!ENTITY radioAutoDownload.label "Ναι">
+<!ENTITY radioAutoDownload.accesskey "Ν">
+<!ENTITY radioNotDownload.label "Όχι">
+<!ENTITY radioNotDownload.accesskey "ι">
+<!ENTITY radioAskDownload.label "Ερώτηση">
+<!ENTITY radioAskDownload.accesskey "Ε">
