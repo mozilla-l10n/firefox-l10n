@@ -354,7 +354,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY spellAddDictionaries.accesskey "θ">
 
 <!ENTITY addons.label                 "Πρόσθετα">
-<!ENTITY addons.tooltip               "Εμφάνιση και διαχείριση προσθέτων">
 <!ENTITY addons.accesskey             "θ">
 
 <!ENTITY savePageCmd.accesskey2       "λ">

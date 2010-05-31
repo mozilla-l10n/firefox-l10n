@@ -19,7 +19,6 @@
 
 <!ENTITY helpForIEUsers.label     "Για χρήστες του Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 
@@ -49,8 +48,7 @@
 <!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
 
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpTroubleshooting.label      "Αντιμετώπιση προβλημάτων…">
-<!ENTITY helpTroubleshooting.accesskey  "μ">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Αντιμετώπιση προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey  "μ">

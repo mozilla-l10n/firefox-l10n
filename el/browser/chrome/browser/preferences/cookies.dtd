@@ -5,6 +5,8 @@
 <!ENTITY     cookiedomain.label             "Ιστοσελίδα"> 
 <!ENTITY     button.removecookie.label      "Απομάκρυνση cookie">
 <!ENTITY     button.removecookie.accesskey  "π">
+<!ENTITY     button.removecookies.label     "Απομάκρυνση cookies">
+
 <!ENTITY     button.removeallcookies.label  "Απομάκρυνση όλων των cookies">
 <!ENTITY     button.removeallcookies.accesskey "μ">
 
