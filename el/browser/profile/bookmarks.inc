@@ -7,9 +7,6 @@
 #define bookmarks_title Σελιδοδείκτες
 #define bookmarks_heading Σελιδοδείκτες
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Περισσότερα πρόσθετα για σελιδοδείκτες
 
 #define bookmarks_toolbarfolder Εργαλειοθήκη σελιδοδεικτών
 #define bookmarks_toolbarfolder_description Προσθέστε σελιδοδείκτες σε αυτό τον φάκελο για να εμφανιστούν στην εργαλειοθήκη των σελιδοδεικτών

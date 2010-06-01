@@ -21,6 +21,11 @@
 
 
 
+<!ENTITY  privateBrowsingPermanent.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
+<!ENTITY  privateBrowsingPermanent.accesskey "Μ">
+
+<!ENTITY  rememberHistory.label      "Διατήρηση ιστορικού περιήγησης">
+<!ENTITY  rememberHistory.accesskey  "τ">
 
 
 
@@ -46,9 +51,6 @@
 <!ENTITY  dontrememberActions.pre.label          "Αν θέλετε μπορείτε να ">
 <!ENTITY  dontrememberActions.clearHistory.label "εκκαθαρίσετε όλο το τρέχον ιστορικό σας">
 <!ENTITY  dontrememberActions.post.label         ".">
-
-<!ENTITY  privateBrowsingAutoStart.label "Αυτόματη εκκίνηση του &brandShortName; σε μια συνεδρία ιδιωτικής περιήγησης">
-<!ENTITY  privateBrowsingAutoStart.accesskey "Α">
 
 
 
@@ -85,10 +87,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ρυθμίσεις…">
 <!ENTITY  clearOnCloseSettings.accesskey "μ">
 
-
-<!ENTITY  rememberHistory.pre.label      "Διατήρηση του ιστορικού περιήγησης για τουλάχιστον">
-<!ENTITY  rememberHistory.pre.accesskey  "τ">
-<!ENTITY  rememberHistory.post.label     "ημέρες">
 
 <!ENTITY  rememberDownload.label         "Διατήρηση ιστορικού λήψεων">
 <!ENTITY  rememberDownload.accesskey     "Δ">
