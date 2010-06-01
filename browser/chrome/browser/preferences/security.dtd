@@ -29,13 +29,6 @@
 <!ENTITY  savedPasswords.accesskey        "δ">
 
 
-<!ENTITY  warnings.label                "Μηνύματα προειδοποίησης">
-
-<!ENTITY  chooseWarnings.label          "Επιλέξτε ποιες προειδοποιήσεις θέλετε να εμφανίζονται">
-
-<!ENTITY  warningSettings.label         "Ρυθμίσεις...">
-<!ENTITY  warningSettings.accesskey     "θ">
-
 <!ENTITY  blockAttackSites.label     "Φραγή σελίδων που έχουν αναφερθεί ως κακόβουλες">
 <!ENTITY  blockAttackSites.accesskey "κ">
 

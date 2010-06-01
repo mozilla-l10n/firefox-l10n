@@ -161,9 +161,6 @@
 
 
 
-
-<!ENTITY help.advancedTips.accesskey  "υ">
-
 <!ENTITY cmd.new_bookmark.label "Νέος σελιδοδείκτης...">
 <!ENTITY cmd.new_bookmark.accesskey "σ">
 <!ENTITY cmd.close.key "w">
