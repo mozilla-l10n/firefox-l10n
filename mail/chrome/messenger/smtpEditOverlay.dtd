@@ -1,22 +1,20 @@
 <!ENTITY settings.caption "Nastavitve">
 <!ENTITY security.caption "Varnost in overovljanje">
 <!ENTITY serverName.label "Ime strežnika:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "I">
 <!ENTITY serverDescription.label "Opis:">
-<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverDescription.accesskey "O">
 <!ENTITY serverPort.label "Vrata:">
-<!ENTITY serverPort.accesskey "Z">
-<!ENTITY alwaysUseUsername.label "Uporabi ime in geslo">
-<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY serverPort.accesskey "V">
 <!ENTITY userName.label "Uporabniško ime:">
-<!ENTITY userName.accesskey "s">
-<!ENTITY useSecAuth.label "Uporabi varno overovljanje">
-<!ENTITY useSecAuth.accesskey "L">
+<!ENTITY userName.accesskey "U">
 <!ENTITY connectionSecurity.label "Varnost povezave:">
-<!ENTITY connectionSecurity.accesskey "o">
+<!ENTITY connectionSecurity.accesskey "p">
 <!ENTITY connectionSecurityType-0.label "Nič">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, če je na voljo">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Strežnik SMTP">
 <!ENTITY serverPortDefault.label "Privzeto:">
+<!ENTITY authMethod.label "Metoda overovitve:">
+<!ENTITY authMethod.accesskey "M">
