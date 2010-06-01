@@ -151,7 +151,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Composer"
          nc:name="atajos de teclado de Composer"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:general"
@@ -166,12 +166,12 @@
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Mail_and_Newsgroups"
          nc:name="atajos de teclado de Correo y Noticias"
-         nc:link="shortcuts-mailnews.xhtml"/>
+         nc:link="shortcuts_mailnews.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:browser"
          nc:name="atajos de teclado del navegador"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -584,7 +584,7 @@
      <rdf:li>
        <rdf:Description ID="Composer:keyboard_shortcuts"
          nc:name="atajos de teclado"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Composer:removing_text_styles"
@@ -1563,7 +1563,7 @@
      <rdf:li>
        <rdf:Description ID="browser:keyboard_shortcuts"
          nc:name="atajos de teclado"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:opening_pages"
