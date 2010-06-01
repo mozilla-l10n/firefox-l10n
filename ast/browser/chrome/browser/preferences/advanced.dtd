@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "s">
 <!ENTITY checkNow.label                  "Comprobar agora">
 <!ENTITY checkNow.accesskey              "p">
+<!ENTITY submitCrashes.label             "Unviar informes de fallos">
+<!ENTITY submitCrashes.accesskey         "U">
 
 <!ENTITY networkTab.label                "Rede">
 

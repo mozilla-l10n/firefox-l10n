@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Calcar equí pa descargar el plugin.">
 <!ENTITY disabledPlugin.label                                "Desactivóse'l plugin pa esti conteníu. Calque equí p'alministrar los sos plugins.">
 <!ENTITY blockedPlugin.label                                 "Bloquióse esti plugin pa la so proteición.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Recargar la páxina">
+<!ENTITY reloadPlugin.post                                   " intentar otra vegada.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Unviar informe de fallu">
+<!ENTITY report.submitting                                   "Unviando informe…">
+<!ENTITY report.submitted                                    "Unvíose informe de fallu.">
+<!ENTITY report.disabled                                     "Desactiváu informe de fallu.">
+<!ENTITY report.failed                                       "Falló l'unvíu.">
+<!ENTITY report.unavailable                                  "Informe non disponible.">
