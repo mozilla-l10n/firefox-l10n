@@ -1,7 +1,5 @@
 <!ENTITY  updateWizard.title              "Ενημέρωση λογισμικού">
 
-<!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  checking.title                  "Έλεγχος για ενημερώσεις">
 
@@ -48,7 +46,7 @@
 
 <!ENTITY  noupdatesfound.title            "Δεν υπάρχουν ενημερώσεις">
 
-<!ENTITY  downloading.title               "Λήψη αρχείων ενημέρωσης">
+
 <!ENTITY  connecting.label                "Σύνδεση με τον εξυπηρετητή ενημερώσεων...">
 
 
@@ -70,7 +68,7 @@
 <!ENTITY  whatsnew.label                  "Διαβάστε περισσότερα για το τι νέο υπάρχει...">
 
 
-
+<!ENTITY  downloadPage.title              "Γίνεται λήψη του &brandShortName;">
 
 
 <!ENTITY  noupdatesautoenabled.intro      "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Ο &brandShortName; μπορεί να ελέγχει σε περιοδικά χρονικά διαστήματα για ενημερώσεις.">

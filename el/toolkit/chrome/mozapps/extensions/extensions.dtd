@@ -1,212 +1,104 @@
-<!ENTITY addons.title                     "Πρόσθετα">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "610">
-<!ENTITY em.height                        "410">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Αναζήτηση">
+<!ENTITY view.discover.label                  "Λήψη περισσότερων προσθέτων">
+<!ENTITY view.languages.label                 "Γλώσσες">
+<!ENTITY view.searchengines.label             "Μηχανές αναζήτησης">
+<!ENTITY view.features.label                  "Επεκτάσεις">
+<!ENTITY view.appearance.label                "Θέματα">
+<!ENTITY view.plugins.label                   "Πρόσθετες λειτουργίες">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Ενημέρωση προσθέτων">
+<!ENTITY updates.updating.label               "Γίνεται ενημέρωση προσθέτων">
+<!ENTITY updates.installed.label              "Τα πρόσθετα σας ενημερώθηκαν.">
+<!ENTITY updates.downloaded.label             "Έχει ολοκληρωθεί η λήψη των ενημερώσεων των προσθέτων σας.">
+<!ENTITY updates.restart.label                "Επανεκκίνηση για να ολοκληρωθεί η εγκατάσταση">
+<!ENTITY updates.noneFound.label              "Δεν βρέθηκαν ενημερώσεις">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Λήψη προσθέτων">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Προβολή περισσότερων πληροφοριών">
+<!ENTITY cmd.showDetails.accesskey            "β">
+<!ENTITY cmd.findUpdates.label                "Εύρεση ενημερώσεων">
+<!ENTITY cmd.findUpdates.accesskey            "ρ">
+<!ENTITY cmd.preferences.label                "Προτιμήσεις">
+<!ENTITY cmd.preferences.accesskey            "Π">
+<!ENTITY cmd.about.label                      "Περί">
+<!ENTITY cmd.about.accesskey                  "ε">
 
-<!ENTITY extensions.label                 "Επεκτάσεις">
-<!ENTITY themes.label                     "Θέματα">
-<!ENTITY locales.label                    "Γλώσσες">
-<!ENTITY plugins.label                    "Πρόσθετες λειτουργίες">
-<!ENTITY update.label                     "Ενημερώσεις">
-<!ENTITY install.label                    "Εγκατάσταση">
-
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Εύρεση ενημερώσεων">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "ρ">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Εύρεση ενημερώσεων για τα Πρόσθετα σας">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Εύρεση ενημερώσεων για τα θέματα σας">
-<!ENTITY cmd.installFileAddon.tooltip     "Εγκατάσταση ενός προσθέτου">
-<!ENTITY cmd.installFileTheme.tooltip     "Εγκατάσταση ενός θέματος">
-
-
-
-
-
-
-
-<!ENTITY cmd.enableAll.label              "Ενεργοποίηση όλων">
-<!ENTITY cmd.enableAll.accesskey          "λ">
-<!ENTITY cmd.enableAll.tooltip            "Ενεργοποίηση όλων των εμφανιζομένων προσθέτων">
-<!ENTITY cmd.disableAll.label             "Απενεργοποίηση όλων">
-<!ENTITY cmd.disableAll.accesskey         "π">
-<!ENTITY cmd.disableAll.tooltip           "Απενεργοποίηση όλων των εμφανιζομένων προσθέτων">
-
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Χρήση θέματος">
-<!ENTITY cmd.useTheme.accesskey           "θ">
-<!ENTITY cmd.useTheme.tooltip             "Αλλαγή του θέματος του &brandShortName;">
-<!ENTITY cmd.options.label                "Επιλογές">
-<!ENTITY cmd.options.accesskey            "ο">
-<!ENTITY cmd.options.tooltip              "Καθορισμός επιλογών για την επιλεγμένη επέκταση">
-<!ENTITY cmd.optionsUnix.label            "Προτιμήσεις">
-<!ENTITY cmd.optionsUnix.accesskey        "ρ">
-<!ENTITY cmd.optionsUnix.tooltip          "Επεξεργασία προτιμήσεων για την επιλεγμένη επέκταση">
-<!ENTITY cmd.enable.label                 "Ενεργοποίηση">
-<!ENTITY cmd.enable.accesskey             "Ε">
-<!ENTITY cmd.enable.tooltip               "Ενεργοποίηση αυτού του προσθέτου όταν επανεκκινηθεί ο &brandShortName;">
-<!ENTITY cmd.disable.label                "Απενεργοποίηση">
-<!ENTITY cmd.disable.accesskey            "Α">
-<!ENTITY cmd.disable.tooltip              "Απενεργοποίηση αυτού του προσθέτου όταν επανεκκινηθεί ο &brandShortName;">
-<!ENTITY cmd.uninstall.label              "Απεγκατάσταση">
-<!ENTITY cmd.uninstall2.accesskey         "π">
-<!ENTITY cmd.uninstall2.tooltip           "Απεγκατάσταση αυτού του προσθέτου όταν επανεκκινηθεί ο &brandShortName;">
-<!ENTITY cmd.cancelUninstall.label        "Ακύρωση απεγκατάστασης">
-<!ENTITY cmd.cancelUninstall.accesskey    "κ">
-<!ENTITY cmd.cancelUninstall.tooltip      "Ακύρωση απεγκατάστασης αυτού του προσθέτου">
+<!ENTITY cmd.enableAddon.label                "Ενεργοποίηση">
+<!ENTITY cmd.enableAddon.accesskey            "Ε">
+<!ENTITY cmd.enableAddon.tooltip              "Ενεργοποίηση αυτού του προσθέτου">
+<!ENTITY cmd.disableAddon.label               "Απενεργοποίηση">
+<!ENTITY cmd.disableAddon.accesskey           "π">
+<!ENTITY cmd.disableAddon.tooltip             "Απενεργοποίηση αυτού του προσθέτου">
+<!ENTITY cmd.uninstallAddon.label             "Αφαίρεση">
+<!ENTITY cmd.uninstallAddon.accesskey         "φ">
+<!ENTITY cmd.uninstallAddon.tooltip           "Απεγκατάσταση αυτού του προσθέτου">
+<!ENTITY cmd.contribute.label                 "Συνεισφορά">
+<!ENTITY cmd.contribute.accesskey             "φ">
+<!ENTITY cmd.contribute.tooltip               "Βοηθήστε στην ανάπτυξη αυτού του προσθέτου">
 
 
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Έκδοση">
+<!ENTITY detail.updated.label                 "Ενημερώθηκε">
+<!ENTITY detail.creator.label                 "Προγραμματιστής">
+<!ENTITY detail.homepage.label                "Αρχική σελίδα">
+<!ENTITY detail.numberOfDownloads.label       "Αριθμός λήψεων">
 
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Ακύρωση">
-<!ENTITY cancel.accesskey                 "κ">
-
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Αρχική σελίδα">
-<!ENTITY cmd.homepage.accesskey           "χ">
-<!ENTITY cmd.about2.label                 "Περί αυτής της προσθέτου">
-<!ENTITY cmd.about.accesskey              "ρ">
-<!ENTITY cmd.checkUpdate.label            "Εύρεση ενημέρωσης">
-<!ENTITY cmd.checkUpdate.accesskey        "ρ">
-
-<!ENTITY cmd.includeUpdate.label          "Να περιλαμβάνεται η ενημέρωση">
-<!ENTITY cmd.includeUpdate.accesskey      "π">
-<!ENTITY includeUpdate.label              "Να περιλαμβάνεται αυτή η ενημέρωση">
-<!ENTITY includeUpdate.accesskey          "ρ">
-<!ENTITY includeUpdate.tooltip            "Να περιλαμβάνεται αυτό το πρόσθετο στην εγκατάσταση των αναβαθμίσεων">
-
-<!-- Status Messsages -->
-<!ENTITY needsDependencies.label          "Απαιτεί επιπρόσθετα αντικείμενα.">
-<!ENTITY blocklisted.label                "Απενεργοποιήθηκε για την προστασία σας.">
-
-<!ENTITY previewNoThemeSelected.label     "Δεν επιλέχθηκε θέμα">
-<!ENTITY previewNoPreviewImage.label      "Αυτό το θέμα δεν έχει εικόνα προεπισκόπησης">
-<!ENTITY moreInfo.label                   "Περισσότερες πληροφορίες">
+<!ENTITY detail.updateAutomatically.label     "Αυτόματη ενημέρωση">
+<!ENTITY detail.updateAutomatically.accesskey "υ">
+<!ENTITY detail.updateAutomatically.tooltip   "Αυτόματη ενημέρωση κάθε φορά που υπάρχει νεότερη έκδοση του">
+<!ENTITY detail.checkForUpdates.label         "Έλεγχος για ενημερώσεις">
+<!ENTITY detail.checkForUpdates.accesskey     "χ">
+<!ENTITY detail.checkForUpdates.tooltip       "Έλεγχος για ενημερώσεις αυτού του προσθέτου">
+<!ENTITY detail.showPreferences.label         "Προτιμήσεις">
+<!ENTITY detail.showPreferences.accesskey     "Π">
+<!ENTITY detail.showPreferences.tooltip       "Αλλαγή των προτιμήσεων αυτού του προσθέτου">
 
 
-<!ENTITY installSuccess.label             "Η εγκατάσταση ολοκληρώθηκε επιτυχώς.">
-<!ENTITY installSuccessRestart.label      "Επανεκκίνηση για την ολοκλήρωση της εγκατάστασης.">
-<!ENTITY installWaiting.label             "Αναμονή...">
-<!ENTITY installIncompatibleUpdate.label  "Έλεγχος συμβατότητας...">
-<!ENTITY installFinishing.label           "Εγκατάσταση...">
+<!-- ratings -->
+<!ENTITY rating.yourRating.label              "Η αξιολόγηση σας:">
 
-<!ENTITY installFailure.label             "Η εγκατάσταση απέτυχε.">
-
-<!ENTITY cmd.skip.label                   "Παράκαμψη">
-<!ENTITY cmd.skip.accesskey               "ψ">
-<!ENTITY cmd.skip.tooltip                 "Παράκαμψη αυτ'ων των ενημερώσεων">
-<!ENTITY cmd.continue.label               "Συνέχεια">
-<!ENTITY cmd.continue.accesskey           "Σ">
-<!ENTITY cmd.continue.tooltip             "Συνέχεια φόρτωσης του &brandShortName;">
-
-<!ENTITY updateSuccess.label              "Η ενημέρωση εγκαταστάθηκε με επιτυχία.">
-
-<!ENTITY getExtensions.label              "Λήψη επεκτάσεων">
-
-<!ENTITY getThemes.label                  "Λήψη θεμάτων">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Παύση">
+<!ENTITY progress.cancel.tooltip              "Ακύρωση">
 
 
-<!ENTITY toBeDisabled.label               "Αυτό το πρόσθετο θα απενεργοποιηθεί όταν επανεκκινηθεί ο &brandShortName;.">
-<!ENTITY toBeEnabled.label                "Αυτό το πρόσθετο θα ενεργοποιηθεί όταν επανεκκινηθεί ο &brandShortName;.">
-<!ENTITY toBeInstalled.label              "Αυτό το πρόσθετο θα εγκατασταθεί όταν επανεκκινηθεί ο &brandShortName;.">
-<!ENTITY toBeUninstalled.label            "Αυτό το πρόσθετο θα απεγκατασταθεί όταν επανεκκινηθεί ο &brandShortName;">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Όνομα">
+<!ENTITY sort.name.tooltip                    "Ταξινόμηση κατά όνομα">
+<!ENTITY sort.size.label                      "Μέγεθος">
+<!ENTITY sort.size.tooltip                    "Ταξινόμηση κατά μέγεθος">
+<!ENTITY sort.dateUpdated.label               "Τελευταία ενημέρωση">
+<!ENTITY sort.dateUpdated.tooltip             "Ταξινόμηση κατά ημερομηνία ενημέρωσης">
+<!ENTITY sort.rating.label                    "Αξιολόγηση">
+<!ENTITY sort.rating.tooltip                  "Ταξινόμηση κατά μέσο όρο αξιολόγησης">
 
 
-<!ENTITY cmd.installLocalFile.label       "Εγκατάσταση...">
+<!ENTITY showMore.label                       "Προβολή περισσότερων">
+<!ENTITY showMore.tooltip                     "Προβολή περισσότερων λεπτομερειών">
+<!ENTITY showLess.label                       "Προβολή λιγότερων">
+<!ENTITY showLess.tooltip                     "Προβολή λιγότερων">
 
+<!ENTITY search.filter.label                  "Προβολή:">
+<!ENTITY search.filter.installed.label        "Τα εγκαταστημένα σας πρόσθετα">
+<!ENTITY search.filter.available.label        "Διαθέσιμα πρόσθετα">
 
-<!ENTITY cmd.restartApp2.label            "Επανεκκίνηση &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "κ">
-<!ENTITY cmd.restartApp2.tooltip          "Επανεκκίνηση &brandShortName; για την εφαρμογή των αλλαγών">
+<!ENTITY addon.homepage                       "Αρχική σελίδα">
+<!ENTITY addon.unknownDate                    "Άγνωστη">
+<!ENTITY addon.disabled.postfix               "(απενεργοποιημένο)">
+<!ENTITY addon.undo.label                     "Αναίρεση;">
+<!ENTITY addon.undo.tooltip                   "Αναίρεση αυτής της ενέργειας">
+<!ENTITY addon.undoUninstall.label            "Αναίρεση;">
+<!ENTITY addon.undoUninstall.tooltip          "Διατήρηση αυτού του προσθέτου">
+<!ENTITY addon.restartNow.label               "Επανεκκίνηση τώρα">
+<!ENTITY addon.restartNow.tooltip             "Επανεκκίνηση τώρα για ολοκλήρωση της εγκατάστασης">
+<!ENTITY addon.install.label                  "Εγκατάσταση">
+<!ENTITY addon.install.tooltip                "Εγκατάσταση αυτού του προσθέτου">
+<!ENTITY addon.checkingForUpdates.label       "Γίνεται έλεγχος για ενημερώσεις…">
 
+<!ENTITY addon.createdBy.label                "Από ">
 
-<!ENTITY cmd.cancelInstall.label          "Ακύρωση εγκατάστασης">
-<!ENTITY cmd.cancelInstall.accesskey      "κ">
-<!ENTITY cmd.cancelInstall.tooltip        "Ακύρωση της εγκατάστασης αυτού του προσθέτου">
-<!ENTITY cmd.cancelUpgrade.label          "Ακύρωση αναβάθμισης">
-<!ENTITY cmd.cancelUpgrade.accesskey      "κ">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Ακύρωση της αναβάθμισης αυτού του προσθέτου">
-<!ENTITY cmd.installUpdate.label          "Εγκατάσταση ενημέρωσης">
-<!ENTITY cmd.installUpdate.accesskey      "Ε">
-<!ENTITY cmd.installUpdate.tooltip        "Εγκατάσταση μιας ενημέρωσης για αυτό το πρόσθετο">
-<!ENTITY cmd.showUpdateInfo.label         "Προβολή πληροφοριών">
-<!ENTITY cmd.showUpdateInfo.accesskey     "β">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Προβολή περισσότερων πληροφοριών για αυτές τις ενημερώσεις">
-<!ENTITY cmd.hideUpdateInfo.label         "Απόκρυψη πληροφοριών">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "ψ">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Απόκρυψη πληροφοριών για αυτές τις ενημερώσεις">
-
-<!ENTITY cancelInstall.label              "Ακύρωση">
-<!ENTITY cancelInstall.accesskey          "κ">
-<!ENTITY cancelUpgrade.label              "Ακύρωση">
-<!ENTITY cancelUpgrade.accesskey          "η">
-
-<!ENTITY toBeUpdated.label                "Αυτό το πρόσθετο θα ενημερωθεί όταν επανεκκινηθεί ο &brandShortName;.">
-
-<!ENTITY getPlugins.label                 "Λήψη πρόσθετων λειτουργιών">
-<!ENTITY infoNoAddonSelected.label        "Δεν επιλέχθηκε ενημέρωση">
-<!ENTITY infoNoUpdateInfo.label           "Αυτή η ενημέρωση δεν παρέχει πρόσθετες πληροφορίες">
-<!ENTITY infoUpdateInfoError.label        "Σφάλμα κατά την φόρτωση των πληροφοριών για αυτή την ενημέρωση">
-
-<!ENTITY updateSuccessRestart.label       "Επανεκκίνηση για την ολοκλήρωση της ενημέρωσης.">
-<!ENTITY progressStatus.label             "Έλεγχος για ενημερώσεις">
-
-<!ENTITY insecureUpdate.label             "Δεν παρέχει ασφαλείς ενημερώσεις.">
-
-<!ENTITY cmd.installLocalFile.accesskey   "γ">
-
-<!ENTITY cmd.installSearchResult.label     "Προσθήκη στον &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "θ">
-<!ENTITY cmd.installSearchResult.tooltip   "Λήψη και εγκατάσταση αυτού του προσθέτου">
-
-<!ENTITY searchAddons.label               "Αναζήτηση σε όλα τα προσθέτα">
-<!ENTITY browseAddons.label               "Περιήγηση σε όλα τα πρόσθετα">
-<!ENTITY searchFailed.label               "Ο &brandShortName; δεν μπόρεσε να λάβει πρόσθετα">
-<!ENTITY recommendedHeader.label          "Συνιστώμενα">
-<!ENTITY recommendedThrobber.label        "Ανάκτηση συνιστώμενων προσθέτων">
-<!ENTITY searchThrobber.label             "Αναζήτηση προσθέτων">
-<!ENTITY resetSearch.label                "Εκκαθάριση αποτελεσμάτων">
-
-<!ENTITY cancelSearch.button              "Ακύρωση">
-<!ENTITY searchResultHomepage.value       "Μαθετε περισσότερα">
-<!ENTITY searchBox.label                  "Αναζήτηση σε όλα τα προσθέτα">
-<!ENTITY recommendedResults.label         "Δείτε όλα τα συνιστώμενα πρόσθετα">
-<!ENTITY searchResultInstalling.label     "Εγκατάσταση…">
-<!ENTITY searchResultFailed.label         "Η εγκατάσταση απέτυχε">
-<!ENTITY searchResultInstalled.label      "Η εγκατάσταση ολοκληρώθηκε">
-<!ENTITY addonTypeExtension.label         "Επέκταση">
-<!ENTITY addonTypeTheme.label             "Θέμα">
-<!ENTITY missingThumbnail.label           "Χωρίς προεπισκόπηση">
-
-<!ENTITY eula.title                       "άδεια χρήσης τελικού χρήστη">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Αποδοχή και εγκατάσταση…">
-
-<!ENTITY noSearchResults.label            "Όλα τα αποτελέσματα είναι ήδη εγκατεστημένα ή ασύμβατα.">
-<!ENTITY noRecommendedResults.label       "Όλα τα συνιστώμενα είναι ήδη εγκατεστημένα ή ασύμβατα.">
-<!ENTITY emptySearch.label                "Δεν υπάρχουν πρόσθετα που να ταιριάζουν">
-<!ENTITY emptySearch.button               "ΟΚ">
-<!ENTITY searchFailed.button              "ΟΚ">
-
-<!ENTITY searchResultConnecting.label     "Σύνδεση…">
-
-
-<!ENTITY blocklist.blocked.label          "Φραγμένα">
-<!ENTITY blocklist.checkbox.label         "Απενεργοποίηση">
-<!ENTITY softBlocklisted.label            "Γνωστά για προβλήματα σταθερότητας ή ασφάλειας.">
-
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Βρίσκει ενημερώσεις για τις πρόσθετες λειτουργίες σας">
-<!ENTITY cmd.installUpdatesAll2.label     "Εγκατάσταση ενημερώσεων">
-
-<!ENTITY cmd.installUpdatesAll2.accesskey "γ">
-
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Εγκατάσταση των επιλεγμένων ενημερώσεων">
-<!ENTITY outdated.label                   "Μια πρόσφατη και ασφαλέστερη έκδοση είναι διαθέσιμη.">
