@@ -93,7 +93,7 @@
 <!ENTITY customizeToolbar.useDefault.label "Использовать настройки по умолчанию">
 <!ENTITY customizeToolbar.useDefault.accesskey "с">
 <!ENTITY allowPopups.accesskey "с">
-<!ENTITY showPopupManager.label "Управление сайтами со всплывающими окнами">
+<!ENTITY showPopupManager.label "Управление веб-сайтами со всплывающими окнами">
 <!ENTITY showPopupManager.accesskey "п">
 <!ENTITY dontShowMessage.label "Не показывать данное сообщение при включённой блокировке всплывающих окон ">
 <!ENTITY dontShowMessage.accesskey "о">

@@ -8,7 +8,7 @@
 <!ENTITY autoCompleteShowPopup.accesskey "з">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Подбирать совпадения только из тех адресов, которые были набраны ранее">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "б">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Только при совпадении ссылок, не заголовков сайтов ">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Только при совпадении ссылок, не заголовков веб-сайтов ">
 <!ENTITY autoCompleteMatchOnlyURLs.accesskey "л">
 <!ENTITY autoCompleteMatch.label "Совпадение">
 <!ENTITY autoCompleteMatch.accesskey "д">
