@@ -47,7 +47,7 @@
 <!ENTITY managepassword.asktimeout.accesskey "с">
 <!ENTITY managepassword.timeout.unit "минут или дольше">
 <!ENTITY changepassword.caption "Смена мастер-пароля">
-<!ENTITY changepassword.text "Ваш мастер-пароль защищает личную информацию, например, пароли для сайтов и сертификаты.">
+<!ENTITY changepassword.text "Ваш мастер-пароль защищает личную информацию, например, пароли для веб-сайтов и сертификаты.">
 <!ENTITY changepassword.button "Сменить пароль…">
 <!ENTITY changepassword.accesskey "м">
 <!ENTITY resetpassword.caption "Сбросить мастер-пароль">

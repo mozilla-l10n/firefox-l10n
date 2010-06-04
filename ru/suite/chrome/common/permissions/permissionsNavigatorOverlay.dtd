@@ -27,7 +27,7 @@
 <!ENTITY cookieBlockImagesMsg.label "Изображения этого веб-сайта никогда не будут загружаться.">
 <!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого веб-сайта">
 <!ENTITY cookieAllowPopupsCmd.accesskey "Р">
-<!ENTITY cookieManagePopups.label "Управление сайтами со всплывающими окнами">
+<!ENTITY cookieManagePopups.label "Управление веб-сайтами со всплывающими окнами">
 <!ENTITY cookieManagePopups.accesskey "У">
 <!ENTITY cookieCookieManager.label "Менеджер кук">
 <!ENTITY cookieCookieManager.accesskey "е">
