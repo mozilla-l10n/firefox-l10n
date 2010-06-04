@@ -6,7 +6,7 @@
 <!ENTITY clearHistory.label "Очистить журнал">
 <!ENTITY clearHistory.accesskey "у">
 <!ENTITY locationBarHistory.caption "Журнал посещений строки адреса">
-<!ENTITY clearLocationBar.label "Очистить список сайтов в меню панели адреса.">
+<!ENTITY clearLocationBar.label "Очистить список веб-сайтов в меню панели адреса.">
 <!ENTITY clearLocationBarButton.label "Очистить список">
 <!ENTITY clearLocationBarButton.accesskey "ч">
 <!ENTITY formfillHistory.caption "История поиска и данные форм">

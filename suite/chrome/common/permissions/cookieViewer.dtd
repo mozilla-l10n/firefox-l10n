@@ -1,9 +1,9 @@
 <!ENTITY tab.cookiesonsystem.label "Сохранённые куки">
-<!ENTITY tab.bannedservers.label "Сайты с куками">
-<!ENTITY div.bannedservers.label "Сайты, которые могут и не могут сохранять куки на вашем компьютере.">
+<!ENTITY tab.bannedservers.label "Веб-сайты с куками">
+<!ENTITY div.bannedservers.label "Веб-сайты, которые могут и не могут сохранять куки на вашем компьютере.">
 <!ENTITY div.cookiesonsystem.label "Просмотр и удаление кук, хранящихся на вашем компьютере.">
 <!ENTITY treehead.cookiename.label "Имя куки">
-<!ENTITY treehead.cookiedomain.label "Сайт">
+<!ENTITY treehead.cookiedomain.label "Веб-сайт">
 <!ENTITY treehead.cookieexpires.label "Срок действия">
 <!ENTITY treehead.infoselected.label "Информация о выбранном куке">
 <!ENTITY button.removecookie.label "Удалить куку">
@@ -20,7 +20,7 @@
 <!ENTITY props.path.label "Путь:">
 <!ENTITY props.secure.label "Отправить для:">
 <!ENTITY props.expires.label "Срок действия:">
-<!ENTITY treehead.sitename.label "Сайт">
+<!ENTITY treehead.sitename.label "Веб-сайт">
 <!ENTITY treehead.status.label "Статус">
 <!ENTITY windowtitle.label "Менеджер кук">
 <!ENTITY buttonaccept.label "Закрыть">
@@ -31,9 +31,9 @@
 <!ENTITY allowSite.accesskey "а">
 <!ENTITY allowSiteSession.label "На сеанс">
 <!ENTITY allowSiteSession.accesskey "е">
-<!ENTITY removepermission.label "Удалить сайт">
+<!ENTITY removepermission.label "Удалить веб-сайт">
 <!ENTITY removepermission.accesskey "а">
-<!ENTITY removeallpermissions.label "Удалить все сайты">
+<!ENTITY removeallpermissions.label "Удалить все веб-сайты">
 <!ENTITY removeallpermissions.accesskey "с">
 <!ENTITY futureCookies.label "Не принимать удалённые куки снова">
 <!ENTITY futureCookies.accesskey "р">

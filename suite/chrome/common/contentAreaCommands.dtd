@@ -1,6 +1,6 @@
-<!ENTITY popupWindowRejectCmd.label "Запретить всплывающие окна этого сайта">
+<!ENTITY popupWindowRejectCmd.label "Запретить всплывающие окна этого веб-сайта">
 <!ENTITY popupWindowRejectCmd.accesskey "е">
-<!ENTITY popupWindowAllowCmd.label "Разрешить всплывающие окна этого сайта">
+<!ENTITY popupWindowAllowCmd.label "Разрешить всплывающие окна этого веб-сайта">
 <!ENTITY popupWindowAllowCmd.accesskey "е">
 <!ENTITY openLinkCmd.label "Открыть в новом окне">
 <!ENTITY openLinkCmd.accesskey "н">
