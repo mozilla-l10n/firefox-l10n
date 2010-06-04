@@ -41,7 +41,7 @@
 <!ENTITY price.column.label "Цена">
 <!ENTITY availability.column.label "Доступность">
 <!ENTITY date.column.label "Дата">
-<!ENTITY site.column.label "Сайт">
+<!ENTITY site.column.label "Веб-сайт">
 <!ENTITY results.header.label "Результаты поиска">
 <!ENTITY engine.column.label "Поисковая система">
 <!ENTITY viewbyprovider.label "Просмотр по поисковым системам:">

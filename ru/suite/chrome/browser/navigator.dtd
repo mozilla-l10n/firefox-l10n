@@ -133,6 +133,6 @@
 <!ENTITY historyCmd.label "Журнал посещений">
 <!ENTITY historyCmd.accesskey "Ж">
 <!ENTITY history.commandKey "h">
-<!ENTITY popupIcon.tooltiptext "Разрешать открытие всплывающих окон с этих сайтов">
+<!ENTITY popupIcon.tooltiptext "Разрешать открытие всплывающих окон с этих веб-сайтов">
 <!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста на странице">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "н">

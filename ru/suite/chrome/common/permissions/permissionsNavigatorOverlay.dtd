@@ -1,31 +1,31 @@
 <!ENTITY cookieMessageTitle.label "Изменились права на сохранение кук">
 <!ENTITY cookieDisplayCookiesCmd.label "Управление сохранёнными куками">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "У">
-<!ENTITY cookieAllowCookiesCmd.label "Разблокировать куки с этого сайта">
+<!ENTITY cookieAllowCookiesCmd.label "Разблокировать куки с этого веб-сайта">
 <!ENTITY cookieAllowCookiesCmd.accesskey "Р">
-<!ENTITY cookieAllowCookiesMsg.label "Куки этого сайта больше не будут блокироваться.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "Разрешить куки с этого сайта на один сеанс">
+<!ENTITY cookieAllowCookiesMsg.label "Куки этого веб-сайта больше не будут блокироваться.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Разрешить куки с этого веб-сайта на один сеанс">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "е">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Сайт сможет сохранять куки только на один сеанс.">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Веб-сайт сможет сохранять куки только на один сеанс.">
 <!ENTITY cookieCookiesDefaultCmd.label "Права по умолчанию">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "П">
-<!ENTITY cookieCookiesDefaultMsg.label "Куки с этого сайта будут сохраняться на основе настроек по умолчанию.">
-<!ENTITY cookieBlockCookiesCmd.label "Блокировать куки с этого сайта">
+<!ENTITY cookieCookiesDefaultMsg.label "Куки с этого веб-сайта будут сохраняться на основе настроек по умолчанию.">
+<!ENTITY cookieBlockCookiesCmd.label "Блокировать куки с этого веб-сайта">
 <!ENTITY cookieBlockCookiesCmd.accesskey "Б">
-<!ENTITY cookieBlockCookiesMsg.label "Куки этого сайта всегда будут отклоняться.">
+<!ENTITY cookieBlockCookiesMsg.label "Куки этого веб-сайта всегда будут отклоняться.">
 <!ENTITY cookieImageMessageTitle.label "Изменились права на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.label "Управление правами на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.accesskey "У">
-<!ENTITY cookieAllowImagesCmd.label "Разблокировать изображения с этого сайта">
+<!ENTITY cookieAllowImagesCmd.label "Разблокировать изображения с этого веб-сайта">
 <!ENTITY cookieAllowImagesCmd.accesskey "Р">
-<!ENTITY cookieAllowImagesMsg.label "Изображения этого сайта всегда будут загружаться.">
+<!ENTITY cookieAllowImagesMsg.label "Изображения этого веб-сайта всегда будут загружаться.">
 <!ENTITY cookieImagesDefaultCmd.label "Права по умолчанию">
 <!ENTITY cookieImagesDefaultCmd.accesskey "П">
-<!ENTITY cookieImagesDefaultMsg.label "Изображения с этого сайта будут загружаться на основе настроек по умолчанию.">
-<!ENTITY cookieBlockImagesCmd.label "Блокировать изображения с этого сайта">
+<!ENTITY cookieImagesDefaultMsg.label "Изображения с этого веб-сайта будут загружаться на основе настроек по умолчанию.">
+<!ENTITY cookieBlockImagesCmd.label "Блокировать изображения с этого веб-сайта">
 <!ENTITY cookieBlockImagesCmd.accesskey "Б">
-<!ENTITY cookieBlockImagesMsg.label "Изображения этого сайта никогда не будут загружаться.">
-<!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого сайта">
+<!ENTITY cookieBlockImagesMsg.label "Изображения этого веб-сайта никогда не будут загружаться.">
+<!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого веб-сайта">
 <!ENTITY cookieAllowPopupsCmd.accesskey "Р">
 <!ENTITY cookieManagePopups.label "Управление сайтами со всплывающими окнами">
 <!ENTITY cookieManagePopups.accesskey "У">

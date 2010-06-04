@@ -89,7 +89,7 @@
 <!ENTITY securityView.identity.verifier "Подтверждено:">
 <!ENTITY securityView.privacy.header "Приватность и История">
 <!ENTITY securityView.privacy.history "Посещал ли я этот сайт до сегодняшнего дня?">
-<!ENTITY securityView.privacy.cookies "Хранит ли этот сайт информацию (куки) на моём компьютере?">
+<!ENTITY securityView.privacy.cookies "Хранит ли этот веб-сайт информацию (куки) на моём компьютере?">
 <!ENTITY securityView.privacy.viewCookies "Просмотреть куки">
 <!ENTITY securityView.privacy.viewCookies.accessKey "с">
 <!ENTITY securityView.privacy.passwords "Сохранял ли я для этого веб-сайта какие-либо пароли?">

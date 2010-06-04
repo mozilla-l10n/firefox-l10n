@@ -19,6 +19,6 @@
 <!ENTITY forCurrentSession.label "за исключением сеансовых кук">
 <!ENTITY forCurrentSession.accesskey "л">
 <!ENTITY manageCookies.label "Управление сайтами и куками">
-<!ENTITY manageCookiesDescription.label "Здесь вы можете просматривать и упорядочивать сохранённые куки и настройки принятия или отклонения кук для отдельных сайтов. Настройки отдельных сайтов перекрывают указанные выше настройки.">
+<!ENTITY manageCookiesDescription.label "Здесь вы можете просматривать и упорядочивать сохранённые куки и настройки принятия или отклонения кук для отдельных веб-сайтов. Настройки отдельных веб-сайтов перекрывают указанные выше настройки.">
 <!ENTITY viewCookies.label "Менеджер кук">
 <!ENTITY viewCookies.accesskey "М">

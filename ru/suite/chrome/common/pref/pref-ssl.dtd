@@ -55,7 +55,7 @@
 <!ENTITY warn.leavingsecure.accesskey "у">
 <!ENTITY warn.viewmixed "просмотром страницы со смешанным содержанием">
 <!ENTITY warn.viewmixed.accesskey "м">
-<!ENTITY certselect.description "Определите, как &brandShortName; будет выбирать сертификат при его запросе сайтом:">
+<!ENTITY certselect.description "Определите, как &brandShortName; будет выбирать сертификат при его запросе веб-сайтом:">
 <!ENTITY certselect.auto "Автоматически">
 <!ENTITY certselect.auto.accesskey "а">
 <!ENTITY certselect.ask "Спрашивать каждый раз">

@@ -20,9 +20,9 @@
 <!ENTITY view.groupNone.accesskey "ч">
 <!ENTITY view.groupDay.label "Дате">
 <!ENTITY view.groupDay.accesskey "т">
-<!ENTITY view.groupSite.label "Сайту">
+<!ENTITY view.groupSite.label "Веб-сайту">
 <!ENTITY view.groupSite.accesskey "й">
-<!ENTITY view.groupDayAndSite.label "Дате и сайту">
+<!ENTITY view.groupDayAndSite.label "Дате и веб-сайту">
 <!ENTITY view.groupDayAndSite.accesskey "а">
 <!ENTITY cmd.open.label "Открыть">
 <!ENTITY cmd.open.accesskey "О">
