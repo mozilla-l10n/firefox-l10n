@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey          "E">
 <!ENTITY views.label             "Vistas">
 <!ENTITY views.accesskey          "V">
-<!ENTITY view.toolbar.label      "Barra de herramientas">
-<!ENTITY view.toolbar.accesskey  "t">
 <!ENTITY view.columns.label      "Mostrar columnas">
 <!ENTITY view.columns.accesskey  "s">
 <!ENTITY view.sort.label         "Ordenadas">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label        "Seleccionar archivo…">
 <!ENTITY cmd.restoreFromFile.accesskey    "c">  
 
-<!ENTITY cmd.select_all.label             "Seleccionar todo">
-<!ENTITY cmd.select_all.accesskey         "A">
-<!ENTITY cmd.select_all.key               "a">
-
-<!ENTITY cmd.edit_cut.label               "Cortar">
-<!ENTITY cmd.edit_cut.accesskey           "t">
-<!ENTITY cmd.edit_cut.key                 "x">
-<!ENTITY cmd.edit_copy.label              "Copiar">
-<!ENTITY cmd.edit_copy.accesskey          "C">
-<!ENTITY cmd.edit_copy.key                "c">
-<!ENTITY cmd.edit_paste.label             "Pegar">
-<!ENTITY cmd.edit_paste.accesskey         "P">
-<!ENTITY cmd.edit_paste.key               "v">
-<!ENTITY cmd.edit_delete.label            "Borrar">
-<!ENTITY cmd.edit_delete.accesskey        "B">
-<!ENTITY cmd.edit_undo.label              "Deshacer">
-<!ENTITY cmd.edit_undo.accesskey          "U">
-<!ENTITY cmd.edit_undo.key                "z">
-<!ENTITY cmd.edit_redo.label              "Rehacer">
-<!ENTITY cmd.edit_redo.accesskey          "R">
-<!ENTITY cmd.edit_redo.key                "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Marcar esta página…">
 <!ENTITY cmd.bookmarkLink.accesskey     "M">
 <!ENTITY cmd.delete.label               "Borrar esta página">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label             "Propiedades">
 <!ENTITY cmd.properties.accesskey         "d">
 
-<!ENTITY cmd.rename.label                 "Renombrar">
-<!ENTITY cmd.rename.accesskey             "R">
-
 <!ENTITY cmd.sortby_name.label            "Ordenar por nombre">
 <!ENTITY cmd.sortby_name.accesskey        "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label             "Nuevo marcador…">
 <!ENTITY cmd.new_bookmark.accesskey         "m">
-<!ENTITY cmd.new_livemark.label             "Nuevo marcador vivo…">
-<!ENTITY cmd.new_livemark.accesskey         "u">
 <!ENTITY cmd.new_folder.label               "Nueva carpeta…">
 <!ENTITY cmd.new_folder.accesskey           "N">
 <!ENTITY cmd.context_new_folder.accesskey   "N">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey              "G">
 
 <!ENTITY cmd.find.key                              "f">
-
-<!ENTITY feed.subscribe.label                      "Canal">
-<!ENTITY feed.subscribe.tooltip                    "Suscribirse">
 
 <!ENTITY maintenance.label                         "Importar y resguardar">
 <!ENTITY maintenance.accesskey  "I">
