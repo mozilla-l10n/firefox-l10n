@@ -196,7 +196,7 @@
      <rdf:li>
        <rdf:Description ID="browser:keyboard_shortcuts"
          nc:name="keyboard shortcuts"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:opening_pages"
