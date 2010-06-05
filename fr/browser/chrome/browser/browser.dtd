@@ -229,10 +229,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Rechercher dans les marque-pages et l'historique">
-<!ENTITY urlbar.bookmark.emptyText    "Rechercher dans les marque-pages">
-<!ENTITY urlbar.history.emptyText     "Rechercher dans l'historique">
-<!ENTITY urlbar.none.emptyText        "Saisir une adresse Web">
+<!ENTITY urlbar.placeholder           "Se rendre sur un site Web">
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
      this is the ALT+D shortcut from IE -->
 <!ENTITY urlbar.accesskey             "d">
