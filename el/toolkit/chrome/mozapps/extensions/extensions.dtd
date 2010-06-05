@@ -1,6 +1,15 @@
 
+<!ENTITY addons.windowTitle                   "Διαχείριση προσθέτων">
+<!ENTITY search.placeholder                   "Αναζήτηση σε όλα τα πρόσθετα">
+<!ENTITY loading.label                        "Φόρτωση…">
+<!ENTITY listEmpty.installed.label            "Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου">
+<!ENTITY listEmpty.search.label               "Αδυναμία εύρεσης προσθέτων που να ταιριάζουν">
+<!ENTITY listEmpty.button.label               "Μάθετε περισσότερα για τα πρόσθετα">
+
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+
 <!ENTITY view.search.label                    "Αναζήτηση">
 <!ENTITY view.discover.label                  "Λήψη περισσότερων προσθέτων">
 <!ENTITY view.languages.label                 "Γλώσσες">

@@ -1,5 +1,6 @@
 <!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "Mozilla Firefox">            
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoCopyright         " Ο Firefox και τα λογότυπά του είναι εμπορικά σήματα του Ιδρύματος Mozilla. Με την επιφύλαξη παντός δικαιώματος.">
+<!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
+<!ENTITY  trademarkInfo         " Ο Firefox και τα λογότυπά του είναι εμπορικά σήματα του Ιδρύματος Mozilla. Μερικά από τα εμπορικά σήματα χρησιμοποιούνται υπό την άδεια της The Charlton Company.">
 
