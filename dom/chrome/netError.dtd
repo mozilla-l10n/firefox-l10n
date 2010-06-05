@@ -69,8 +69,14 @@
 <!ENTITY proxyResolveFailure.title "Δεν βρέθηκε διαμεσολαβητής">
 <!ENTITY proxyResolveFailure.longDesc "<p>Η εφαρμογή είναι ρυθμισμένη να χρησιμοποιεί ένα διαμεσολαβητή, αλλά ο διαμεσολαβητής δεν βρέθηκε.</p><ul><li>Είναι σωστή η ρύθμιση του διαμεσολαβητή; Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά.</li><li>Είναι ο υπολογιστής συνδεδεμένος σε ενεργό δίκτυο;</li><li>Ακόμα έχετε πρόβλημα; Συμβουλευτείτε το διαχειριστή του συστήματος ή τον πάροχο σας.</li></ul>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O περιηγητής εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
+
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+

@@ -9,9 +9,9 @@
 
 <!ENTITY certmgr.pending.label                "Γίνεται προβολή πιστοποιητικού...">
 
-<!ENTITY certmgr.typesofoverrides             "Εξαιρέσεις">
+
 <!ENTITY certmgr.view2.label                   "Προβολή…">
-<!ENTITY certmgr.edit2.label                   "Επεξεργασία…">
+
 <!ENTITY certmgr.export.label                 "Εξαγωγή…">
 <!ENTITY certmgr.export.accesskey             "ξ">
 <!ENTITY certmgr.delete2.label                 "Διαγραφή…">
@@ -51,7 +51,7 @@
 <!ENTITY certmgr.tokenname "Συσκευή ασφάλειας">
 <!ENTITY certmgr.editsslcert.edittrust "Επεξεργασία ρυθμίσεων εμπιστοσύνης πιστοποιητικού:">
 <!ENTITY certmgr.tab.ca "Αρχών">
-<!ENTITY certmgr.purpose "Σκοπoί">
+
 <!ENTITY certmgr.certdetail.serialnumber "Σειριακός αριθμός">
 <!ENTITY certmgr.deleteusercert.title "Διαγραφή του πιστοποιητικού σας">
 <!ENTITY certmgr.certdetail.sha1fingerprint "Αποτύπωμα SHA1">
@@ -107,7 +107,7 @@
 
 <!ENTITY certmgr.override_lifetime            "Εφ' όρου ζωής">
 <!ENTITY certmgr.view2.accesskey              "β">
-<!ENTITY certmgr.edit2.accesskey              "Ε">
+
 <!ENTITY certmgr.delete2.accesskey            "Δ">
 <!ENTITY certmgr.backup2.accesskey            "φ">
 <!ENTITY certmgr.backupall2.accesskey         "ν">
@@ -115,6 +115,11 @@
 <!ENTITY exceptionMgr.permanent.label         "Μόνιμη αποθήκευση αυτής της εξαίρεσης">
 <!ENTITY exceptionMgr.permanent.accesskey     "Μ">
 
+<!ENTITY certmgr.delete_builtin.label         "Διαγραφή ή άρση εμπιστοσύνης…">
+<!ENTITY certmgr.delete_builtin.accesskey     "Δ">
+
+<!ENTITY certmgr.edit3.label                  "Επεξεργασία εμπιστοσύνης…">
+<!ENTITY certmgr.edit3.accesskey              "Ε">
 
 
 
