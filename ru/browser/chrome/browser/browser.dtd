@@ -188,10 +188,7 @@
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Поиск в закладках и журнале">
-<!ENTITY urlbar.bookmark.emptyText "Поиск в закладках">
-<!ENTITY urlbar.history.emptyText "Поиск в журнале">
-<!ENTITY urlbar.none.emptyText "Наберите адрес сайта">
+<!ENTITY urlbar.placeholder "Перейти на веб-сайт">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Перейти на вкладку:">
 <!ENTITY searchFocus.commandkey "k">
