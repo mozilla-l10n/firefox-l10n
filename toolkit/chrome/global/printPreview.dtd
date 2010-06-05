@@ -29,7 +29,10 @@
 <!ENTITY scale.label "Κλίμακα:">
 <!ENTITY homearrow.tooltip    "Πρώτη σελίδα">
 <!ENTITY endarrow.tooltip     "Τελευταία σελίδα">
-<!ENTITY rightarrow.tooltip   "Επόμενη σελίδα">
-<!ENTITY leftarrow.tooltip    "Προηγούμενη σελίδα">
+
 <!ENTITY page.accesskey       "Σ">
 <!ENTITY scale.accesskey      "Κ">
+
+<!ENTITY nextarrow.tooltip    "Επόμενη σελίδα">
+<!ENTITY previousarrow.tooltip "Προηγούμενη σελίδα">
+
