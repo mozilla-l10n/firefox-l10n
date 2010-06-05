@@ -160,6 +160,10 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Inspeccionar">
+<!ENTITY inspectMenu.accesskey        "n">
+<!ENTITY inspectMenu.commandkey       "I">
+
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
@@ -225,12 +229,10 @@
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar marcadores e historial">
-<!ENTITY urlbar.bookmark.emptyText    "Buscar marcadores">
-<!ENTITY urlbar.history.emptyText     "Buscar historial">
-<!ENTITY urlbar.none.emptyText        "Ingresar una dirección web">
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Ir a un sitio web">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -475,3 +477,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Clic para abrir la ventana de descargas">
 
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Pestañas del navegador">
