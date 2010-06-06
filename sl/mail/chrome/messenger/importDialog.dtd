@@ -66,14 +66,14 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Ko jih boste enkrat uvozili, jih boste lahko uporabljali kar v &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Izberite vrsto datoteke, ki jo želite uvoziti:">
-<!ENTITY selectDescription.accesskey "Z">
+<!ENTITY selectDescription.accesskey "I">
 
 <!ENTITY back.label               "&lt; nazaj">
 <!ENTITY forward.label            "Naprej &gt;">
 <!ENTITY finish.label             "Dokončaj">
 <!ENTITY cancel.label             "Prekliči">
 
-<!ENTITY select.label             "ali izberite vrsto podatkov, ki jih želite uvoziti:">
+<!ENTITY select.label             "ali izberite vrsto materiala za uvoz:">
 
 <!ENTITY title.label              "Naslov">
 <!ENTITY processing.label         "Uvažanje…">
@@ -81,7 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ima en e-poštni naslov za vsako vizitko, medtem ko ima &brandShortName; dva (domači ni službeni).">
 <!ENTITY FieldDiscInputText2.label  "Izberite kategorijo v katero želite shraniti uvožene e-poštne naslove:">
 <!ENTITY FieldDiscWarning.label  "Ta kategorija bo uporabljena za vse vnose v izbranem adresarju: ">
-<!ENTITY importHome.label        "Doma">
+<!ENTITY importHome.label        "Domov">
 <!ENTITY importHome.accesskey    "D">
-<!ENTITY importWork.label        "Služba">
-<!ENTITY importWork.accesskey    "S">
+<!ENTITY importWork.label        "Delo">
+<!ENTITY importWork.accesskey    "e">

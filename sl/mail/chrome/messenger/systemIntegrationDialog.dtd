@@ -6,7 +6,7 @@
 <!ENTITY feeds.label "Viri">
 
 <!ENTITY checkOnStartup.label "Ob zagonu &brandShortName; to vedno preveri">
-<!ENTITY checkOnStartup.accesskey "v">
+<!ENTITY checkOnStartup.accesskey "O">
 
 <!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName; da preišče sporočila">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.accesskey "D">
