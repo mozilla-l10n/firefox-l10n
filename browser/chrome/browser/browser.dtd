@@ -260,10 +260,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Sök bland bokmärken och i historiken">
-<!ENTITY urlbar.bookmark.emptyText    "Sök bokmärken">
-<!ENTITY urlbar.history.emptyText     "Sök i historiken">
-<!ENTITY urlbar.none.emptyText        "Skriv in en webbadress">
+<!ENTITY urlbar.placeholder           "Gå till en webbplats">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Växla till fliken:">
 
