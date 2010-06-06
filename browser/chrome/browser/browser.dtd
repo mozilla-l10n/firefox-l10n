@@ -288,8 +288,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY undoCmd.accesskey "Α">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.label "Αναίρεση">
-
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.placeholder           "Μετάβαση σε μια ιστοσελίδα">
+<!ENTITY urlbar.accesskey "">
 <!ENTITY viewBGImageCmd.accesskey "β">
 <!ENTITY viewBGImageCmd.label "Προβολή εικόνας παρασκηνίου">
 <!ENTITY viewCustomizeToolbar.accesskey "Π">
@@ -435,15 +435,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "Δ">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
-
-<!ENTITY urlbar.none.emptyText        "Πληκτρολογήστε μια διεύθυνση">
-
-
-<!ENTITY urlbar.bookmarkhistory.emptyText "Αναζήτηση σελιδοδεικτών και ιστορικού">
-
-
-<!ENTITY urlbar.bookmark.emptyText    "Αναζήτηση σελιδοδεικτών">
-<!ENTITY urlbar.history.emptyText     "Αναζήτηση ιστορικού">
 
 
 
