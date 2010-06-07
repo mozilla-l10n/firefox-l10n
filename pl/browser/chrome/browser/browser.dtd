@@ -237,10 +237,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l" >
-<!ENTITY urlbar.bookmarkhistory.emptyText "Szukaj w zakładkach i historii">
-<!ENTITY urlbar.bookmark.emptyText    "Szukaj w zakładkach">
-<!ENTITY urlbar.history.emptyText     "Szukaj w historii">
-<!ENTITY urlbar.none.emptyText        "Wprowadź adres strony WWW">
+<!ENTITY urlbar.placeholder           "Przejdź do witryny WWW">
 <!ENTITY urlbar.accesskey "d" >
 <!ENTITY urlbar.switchToTab.label     "Przełącz na kartę:">
 
