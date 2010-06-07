@@ -53,7 +53,7 @@
 <!ENTITY searchMsgsLink.label "Wyszukaj wiadomości">
 <!ENTITY filtersLink.label "Zarządzaj filtrami wiadomości">
 <!ENTITY junkSettings.label "Ustawienia niechcianej poczty">
-<!ENTITY offlineLink.label "Ustawienia offline">
+<!ENTITY offlineLink.label "Ustawienia trybu offline">
 
 <!ENTITY feedsSectionHdr.label "Aktualności">
 <!ENTITY subscribeFeeds.label "Menedżer subskrypcji">

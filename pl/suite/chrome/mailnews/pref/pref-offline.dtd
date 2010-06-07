@@ -16,7 +16,7 @@
 <!ENTITY radioNotSend.accesskey "e">
 <!ENTITY radioAskUnsent "Zapytaj">
 <!ENTITY radioAskUnsent.accesskey "Z">
-<!ENTITY textGoingOffline "Pobierać treść wiadomości podczas przejścia w tryb Offline?">
+<!ENTITY textGoingOffline "Pobierać treść wiadomości podczas przechodzenia w tryb offline?">
 <!ENTITY radioAutoDownload "Tak">
 <!ENTITY radioAutoDownload.accesskey "T">
 <!ENTITY radioNotDownload "Nie">

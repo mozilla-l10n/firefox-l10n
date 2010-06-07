@@ -1,7 +1,7 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "Pobierz i zsynchronizuj wiadomości">
-<!ENTITY MsgSelect.label "Elementy dostępne offline">
+<!ENTITY MsgSelect.label "Elementy dostępne w trybie offline">
 <!ENTITY MsgSyncDesc.label "Jeżeli uprzednio dokonano wyboru folderów poczty i grup dyskusyjnych dostępnych w trybie offline, to można teraz rozpocząć ich pobieranie i synchronizację. W przeciwnym wypadku należy nacisnąć przycisk Konfiguruj, aby zaznaczyć foldery poczty i grupy dyskusyjne, które będą dostępne w trybie offline.">
 <!ENTITY MsgSyncDirections.label "Pobierz i synchronizuj:">
 <!ENTITY syncTypeMail.label "Wiadomości pocztowe">
