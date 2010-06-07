@@ -54,7 +54,7 @@
 
 <!ENTITY autoCheck.label                 "Автоматично перевіряти наявність оновлень для:">
 <!ENTITY enableAppUpdate.label           "Браузера &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "Б">
 <!ENTITY enableAddonsUpdate2.label       "Додатків">
 <!ENTITY enableAddonsUpdate2.accesskey   "Д">
 <!ENTITY enableSearchUpdate.label        "Засобів пошуку">
