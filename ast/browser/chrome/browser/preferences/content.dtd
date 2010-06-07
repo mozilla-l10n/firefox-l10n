@@ -17,9 +17,9 @@
 <!ENTITY  enableJava.accesskey        "r">
 
 
-<!ENTITY  fontsAndColors.label        "Tipografía y colores">
+<!ENTITY  fontsAndColors.label        "Fontes y colores">
 
-<!ENTITY  defaultFont.label           "Tipografía predeterminao:">
+<!ENTITY  defaultFont.label           "Fonte predeterminada:">
 <!ENTITY  defaultFont.accesskey       "T">
 <!ENTITY  defaultSize.label           "Tamañu:">
 <!ENTITY  defaultSize.accesskey       "m">

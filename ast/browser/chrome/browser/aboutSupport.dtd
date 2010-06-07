@@ -31,6 +31,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Hestorial d'instalación">
-<!ENTITY aboutSupport.updateHistoryTitle "Hestorial d'autualizaciones">
+<!ENTITY aboutSupport.updateHistoryTitle "Hestorial d'anovamientos">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar too al cartafueyu">

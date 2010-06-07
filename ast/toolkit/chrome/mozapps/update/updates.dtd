@@ -1,16 +1,16 @@
-<!ENTITY  updateWizard.title              "Autualización de software">
+<!ENTITY  updateWizard.title              "Anovamientu de software">
 
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
 
-<!ENTITY  checking.title                  "Comprebando autualizaciones">
+<!ENTITY  checking.title                  "Comprebando anovamientos">
 <!ENTITY  updateCheck.label               "Restolando por nueves versiones de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Alcontráronse anovamientos pa los Plugins">
 <!ENTITY  pluginupdatesfound.label        "Alcontráronse versiones de ún o más de los tos plugins.">
 <!ENTITY  pluginupdateslink.label         "Mira cómo anovar los tos plugins.">
 
-<!ENTITY  noupdatesfound.title            "Nun s'alcontraron autualizaciones">
+<!ENTITY  noupdatesfound.title            "Nun s'alcontraron anovamientos">
 <!ENTITY  noupdatesautoenabled.intro      "Nun hai anovamientos disponibles. &brandShortName; comprobará periódicamente si hai anovamientos.">
 <!ENTITY  noupdatesautodisabled.intro     "Nun hai anovamientos disponibles. Por favor, preba de más sero o activa la opción d'anovamientu automáticu de &brandShortName;.">
 
@@ -24,13 +24,13 @@
 <!ENTITY  incompatibleCheck.title         "Comprobando compatibilidá de los complementos">
 <!ENTITY  incompatibleCheck.label         "Restolando por nueves versiones de los sos complementos…">
 
-<!ENTITY  clickHere.label                 "Ver más información sobro esta autualización">
+<!ENTITY  clickHere.label                 "Ver más información sobro esti anovamientu">
 
 <!ENTITY  evangelism.desc                 "Encamiéntase seriamente qu'aplique esti anovamientu
                                          pa &brandShortName; en cuantes seya dable.">
 
 <!ENTITY  license.instructions            "Si ta d'acordies colos términos d'esti alcuerdu, calque 'Toi d'alcuerdu'
-                                           más abaxo para continuar instalando esta autualización.">
+                                           más abaxo para continuar instalando esti anovamientu.">
 
 <!ENTITY  license.titleText               "Alcuerdu de llicencia de software">
 <!ENTITY  license.introText               "Términos y condiciones d'usu d'esti software.">
@@ -42,39 +42,39 @@
 
 <!ENTITY  incompatibleList.title          "Alcontráronse complementos non compatibles">
 
-<!ENTITY  downloading.title               "Descargando l'autualización">
-<!ENTITY  downloading.intro               "Descargando l'autualización…">
-<!ENTITY  connecting.label                "Coneutando al sirvidor d'autualización…">
+<!ENTITY  downloading.title               "Descargando l'anovamientu">
+<!ENTITY  downloading.intro               "Descargando l'anovamientu…">
+<!ENTITY  connecting.label                "Coneutando al sirvidor d'anovamientu…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; nun pudo verificar la integridá de
-                                           l'autualización incremental descargada, polo qu'agora ta descargando'l
-                                           paquete d'autualización completu.">
+                                           l'anovamientu incremental descargada, polo qu'agora ta descargando'l
+                                           paquete d'anovamientu completu.">
 
 <!ENTITY  viewDetails.tooltip             "Ver detalles d'esti anovamientu">
 
 <!ENTITY  details.link                    "Detáis">
 
 <!ENTITY  error.label                     "Hebo problemes al comprebar, descargar o instalar esta
-                                           autualización. Nun se pudo acuualizar &brandShortName; porque:">
+                                           anovamientu. Nun se pudo acuualizar &brandShortName; porque:">
                                            
-<!ENTITY  errorManual.label               "Pue autualizar &brandShortName; manualmente visitando esti enllaz
+<!ENTITY  errorManual.label               "Puede anovar &brandShortName; manualmente visitando esti enllaz
                                            y descargando la cabera versión:">
                                            
-<!ENTITY  errorpatching.title             "Fallu n'autualización">
-<!ENTITY  errorpatching.intro             "Nun se pudo aplicar l'autualización parcial.
-                                           &brandShortName; tornará a tentalo descargando l'autualización dafecha.">
+<!ENTITY  errorpatching.title             "Fallu n'anovamientu">
+<!ENTITY  errorpatching.intro             "Nun se pudo aplicar l'anovamientu parcial.
+                                           &brandShortName; tornará a tentalo descargando l'anovamientu dafechu.">
 
 <!ENTITY  finishedPage.title              "Anovamientu llistu pa instalar">
 <!ENTITY  finishedPage.text               "L'anovamientu instalaráse la próxima vegada que s'anicie &brandShortName;. Puede reaniciar &brandShortName; agora, o continuar trabayando y reanicialu más sero.">
 
 <!ENTITY  finishedBackgroundPage.text     "Descargóse un anovamientu de seguridá y estabilidá
                                          pa &brandShortName; y ta llistu pa instalase.">
-<!ENTITY  finishedBackground.name         "Autualización:">
+<!ENTITY  finishedBackground.name         "Anovamientu:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'anovamientu instalaráse la próxima vegada que s'anicie &brandShortName; Puede
                                            reaniciar &brandShortName; agora, o siguir trabayando y reaniciar más sero.">
 
-<!ENTITY  installed.title                 "Autualización instalada">
-<!ENTITY  installed.intro                 "L'autualización instalóse correchamente.">
+<!ENTITY  installed.title                 "Anovamientu instaláu">
+<!ENTITY  installed.intro                 "L'anovamientu instalóse correchamente.">
 <!ENTITY  whatsnew.label                  "Lleer más al rodiu de les novedaes…">
 
 <!ENTITY  update.details.label            "Detáis">

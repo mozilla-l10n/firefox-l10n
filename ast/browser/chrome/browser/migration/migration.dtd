@@ -31,7 +31,7 @@
 <!ENTITY importFromEpiphany.accesskey   "E">
 <!ENTITY importFromGaleon.label         "Galeon">
 <!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "Dende un archivu HTML">
+<!ENTITY importFromHTMLFile.label       "Dende un ficheru HTML">
 <!ENTITY importFromHTMLFile.accesskey   "D">
 
 <!ENTITY noMigrationSources.label       "Nun se pudieron atopar programes que contuvieran marcadores, hestorial o datos de contraseñes.">

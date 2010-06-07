@@ -17,17 +17,17 @@
 
 <!ENTITY downloads.label     "Descargues">
 
-<!ENTITY showWhenDownloading.label     "Amosar la ventana de descargues cuando se descargue un archivu">
+<!ENTITY showWhenDownloading.label     "Amosar la ventana de descargues cuando se descargue un ficheru">
 <!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Zarrar cuando se completen les descargues">
 <!ENTITY closeWhenDone.accesskey "u">
-<!ENTITY saveTo.label "Guardar archivos en">
+<!ENTITY saveTo.label "Guardar ficheros en">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Desaminar…">
 <!ENTITY chooseFolderWin.accesskey    "s">
 <!ENTITY chooseFolderMac.label        "Elexir…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Entrugame siempres aú guardar los archivos">
+<!ENTITY alwaysAsk.label "Entrugame siempres aú guardar los ficheros">
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label               "Complementos">

@@ -1,11 +1,11 @@
 
 <!ENTITY  incompatible.title        "Elementos non compatibles">
-<!ENTITY  incompatible.intro        "Los siguientes elementos nun son compatibles con esta autualización de &brandShortName; y
+<!ENTITY  incompatible.intro        "Los siguientes elementos nun son compatibles con esti anovamientu de &brandShortName; y
                                      desactivaránse cuandu tea instalada:">
-<!ENTITY  incompatible.update       "&brandShortName; comprebará davezu autualizaciones pa ellos nel casu de que
+<!ENTITY  incompatible.update       "&brandShortName; comprebará davezu anovamientos pa ellos nel casu de que
                                      heba disponible una versión compatible.">
-<!ENTITY  incompatible.suffix       "Les autualizaciones de &brandShortName; contienen importantes meyores de seguridá. Pola so proteición, encamiéntase
-                                     qu'autualice &brandShortName; inclusu si dalguna de les extensiones y
+<!ENTITY  incompatible.suffix       "Los anovamientos de &brandShortName; contienen importantes meyores de seguridá. Pola so proteición, encamiéntase
+                                     qu'anoves &brandShortName; inclusu si dalguna de les extensiones y
                                      temes dexen de ser compatibles.">
                                      
 <!ENTITY  closebutton.label         "Zarrar">

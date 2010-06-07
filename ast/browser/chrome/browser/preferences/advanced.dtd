@@ -50,24 +50,24 @@
 <!ENTITY clearCacheNow.label             "Llimpiar agora">
 <!ENTITY clearCacheNow.accesskey         "g">
 
-<!ENTITY updateTab.label                 "Autualizar">
+<!ENTITY updateTab.label                 "Anovar">
 
-<!ENTITY autoCheck.label                 "Guetar automáticamente actualizaciones pa:">
+<!ENTITY autoCheck.label                 "Guetar automáticamente anovamientos pa:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Complementos">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey    "B">
-<!ENTITY whenUpdatesFound.label          "Cuando s'alcuentren actualizaciones pa &brandShortName;:">
+<!ENTITY whenUpdatesFound.label          "Cuando s'alcuentren anovamientos pa &brandShortName;:">
 <!ENTITY askMe.label                     "Entrugar qué facer">
 <!ENTITY askMe.accesskey                 "q">
-<!ENTITY modeAutomatic.label             "Descargar ya instalar l'autualización automáticamente">
+<!ENTITY modeAutomatic.label             "Descargar ya instalar l'anovamientu automáticamente">
 <!ENTITY modeAutomatic.accesskey         "D">
 <!ENTITY modeAutoAddonWarn.label         "Avisame si esto desactivará dalgún de los complementos">
 <!ENTITY modeAutoAddonWarn.accesskey     "v">
-<!ENTITY updateHistory.label             "Amosar hestorial d'actualizaciones">
-<!ENTITY updateHistory.accesskey         "c">
+<!ENTITY updateHistory.label             "Amosar hestorial d'anovamientos">
+<!ENTITY updateHistory.accesskey         "m">
 
 <!ENTITY offlineNotify.label             "Avisame cuanto un sitiu entrugue pa guardar datos pal usu en mou desconexón">
 <!ENTITY offlineNotify.accesskey         "t">

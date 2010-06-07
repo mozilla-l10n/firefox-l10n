@@ -14,14 +14,14 @@
 <!ENTITY themes.label                     "Temes">
 <!ENTITY locales.label                    "Llingües">
 <!ENTITY plugins.label                    "Plugins (complementos)">
-<!ENTITY update.label                     "Autualizaciones">
+<!ENTITY update.label                     "Anovamientos">
 <!ENTITY install.label                    "Instalación">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Guetar autualizaciones">
+<!ENTITY cmd.checkUpdatesAll.label        "Guetar anovamientos">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "G">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Gueta autualizaciones a los sos complementos">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Gueta autualizaciones a los sos temes">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Gueta anovamientos a los sos complementos">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Gueta anovamientos a los sos temes">
 <!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Alcuentra Anovamientos pa los tos Plugins">
 <!ENTITY cmd.installLocalFile.label       "Instalar…">
 <!ENTITY cmd.installLocalFile.accesskey   "n">
@@ -35,7 +35,7 @@
 <!ENTITY cmd.restartApp2.tooltip          "Reaniciar &brandShortName; p'aplicar los cambeos">
 <!ENTITY cmd.skip.label                   "Saltar">
 <!ENTITY cmd.skip.accesskey               "S">
-<!ENTITY cmd.skip.tooltip                 "Saltase estes autualizaciones">
+<!ENTITY cmd.skip.tooltip                 "Saltase estos anovamientos">
 <!ENTITY cmd.continue.label               "Continuar">
 <!ENTITY cmd.continue.accesskey           "C">
 <!ENTITY cmd.continue.tooltip             "Continuar cargando &brandShortName;">
@@ -72,18 +72,18 @@
 <!ENTITY cmd.cancelInstall.label          "Encaboxar instalación">
 <!ENTITY cmd.cancelInstall.accesskey      "x">
 <!ENTITY cmd.cancelInstall.tooltip        "Encaboxar la instalación d'esti complementu">
-<!ENTITY cmd.cancelUpgrade.label          "Encaboxar autualización">
+<!ENTITY cmd.cancelUpgrade.label          "Encaboxar anovamientu">
 <!ENTITY cmd.cancelUpgrade.accesskey      "x">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Encaboxar l'autualización d'esti complementu">
-<!ENTITY cmd.installUpdate.label          "Instalar autualización">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Encaboxar l'anovamientu d'esti complementu">
+<!ENTITY cmd.installUpdate.label          "Instalar anovamientu">
 <!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "Instalar una autualización pa esti complementu">
+<!ENTITY cmd.installUpdate.tooltip        "Instalar una anovamientu pa esti complementu">
 <!ENTITY cmd.showUpdateInfo.label         "Amosar información">
 <!ENTITY cmd.showUpdateInfo.accesskey     "m">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Amosar más información sobro estes autualizaciones">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Amosar más información sobro estes anovamientos">
 <!ENTITY cmd.hideUpdateInfo.label         "Soverar información">
 <!ENTITY cmd.hideUpdateInfo.accesskey     "S">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Soverar información sobro estes autualizaciones">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Soverar información sobro estes anovamientos">
 <!ENTITY cmd.installSearchResult.label     "Amestar a &brandShortName;…">
 <!ENTITY cmd.installSearchResult.accesskey "A">
 <!ENTITY cmd.installSearchResult.tooltip   "Descargar ya instalar esti complementu">
@@ -100,17 +100,17 @@
 <!ENTITY cmd.homepage.accesskey           "V">
 <!ENTITY cmd.about2.label                 "Tocante a esti complementu">
 <!ENTITY cmd.about.accesskey              "o">
-<!ENTITY cmd.checkUpdate.label            "Guetar autualización">
+<!ENTITY cmd.checkUpdate.label            "Guetar anovamientu">
 <!ENTITY cmd.checkUpdate.accesskey        "G">
 
-<!ENTITY cmd.includeUpdate.label          "Incluyir autualización">
+<!ENTITY cmd.includeUpdate.label          "Incluyir anovamientu">
 <!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "Incluyir esta autualización">
+<!ENTITY includeUpdate.label              "Incluyir esti anovamientu">
 <!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Incluyir esti complentu al instalar les autualizaciones">
+<!ENTITY includeUpdate.tooltip            "Incluyir esti complentu al instalar los anovamientos">
 
 <!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Non proporciona autualizaciones segures.">
+<!ENTITY insecureUpdate.label             "Non proporciona anovamientos seguros.">
 <!ENTITY needsDependencies.label          "Requier elementos adicionales.">
 <!ENTITY blocklisted.label                "Desactiváu pa la so proteición.">
 <!ENTITY softBlocklisted.label            "Conocíu por causar problemes de seguridá o estabilidá.">
@@ -119,7 +119,7 @@
 <!ENTITY toBeEnabled.label                "Esti complementu activaráse cuando se reanicie &brandShortName;.">
 <!ENTITY toBeInstalled.label              "Esti complementu instalaráse cuando se reanicie &brandShortName;.">
 <!ENTITY toBeUninstalled.label            "Esti complementu desinstalaráse cuando se reanicie &brandShortName;.">
-<!ENTITY toBeUpdated.label                "Esti complementu autualizaráse cuando se reanicie &brandShortName;">
+<!ENTITY toBeUpdated.label                "Esti complementu anovaráse cuando se reanicie &brandShortName;">
 
 <!ENTITY getExtensions.label              "Obtener extensiones">
 <!ENTITY getThemes.label                  "Obtener temes">
@@ -152,20 +152,20 @@
 <!ENTITY previewNoThemeSelected.label     "Dengún tema seleicionáu">
 <!ENTITY previewNoPreviewImage.label      "Esti tema nun tien una imaxe de vista previa">
 <!ENTITY moreInfo.label                   "Más información">
-<!ENTITY infoNoAddonSelected.label        "Nun se seleicionaron autualizaciones">
-<!ENTITY infoNoUpdateInfo.label           "Esta autualización nun tien denguna información amestada">
-<!ENTITY infoUpdateInfoError.label        "Hebo un fallu al cargar la información sobro esta autualización">
+<!ENTITY infoNoAddonSelected.label        "Nun se seleicionaron anovamientos">
+<!ENTITY infoNoUpdateInfo.label           "Esti anovamientu nun tien denguna información amestada">
+<!ENTITY infoUpdateInfoError.label        "Hebo un fallu al cargar la información sobro esti anovamientu">
 
-<!ENTITY updateSuccess.label              "Autualización completada con ésitu.">
+<!ENTITY updateSuccess.label              "Anovamientu completáu con ésitu.">
 <!ENTITY installSuccess.label             "Instalación completada con ésitu.">
 <!ENTITY installSuccessRestart.label      "Reanicie pa completar la instalación.">
-<!ENTITY updateSuccessRestart.label       "Reanicie pa completar l'autualización.">
+<!ENTITY updateSuccessRestart.label       "Reanicie pa completar l'anovamientu.">
 <!ENTITY installWaiting.label             "Esperando…">
 <!ENTITY installIncompatibleUpdate.label  "Comprebando compatibilidá…">
 <!ENTITY installFinishing.label           "Instalando…">
 <!ENTITY installFailure.label             "Instalación fallía.">
 
-<!ENTITY progressStatus.label             "Guetando autualizaciones">
+<!ENTITY progressStatus.label             "Guetando anovamientos">
 
 <!ENTITY eula.title                       "Alcuerdu de llicencia d'usuariu final">
 <!ENTITY eula.width                       "560px">
