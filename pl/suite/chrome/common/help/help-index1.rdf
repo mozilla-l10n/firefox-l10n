@@ -114,7 +114,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:email_and"
-         nc:name="ciasteczka w wiadomościach"
+         nc:name="ciasteczka w&nbsp;wiadomościach"
          nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
      </rdf:li>
      <rdf:li>
@@ -129,7 +129,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:notification_icon"
-         nc:name="ikona powiadomienia o ciasteczkach"
+         nc:name="ikona powiadomienia o&nbsp;ciasteczkach"
          nc:link="using_priv_help.xhtml#cookie_notification"/>
      </rdf:li>
      <rdf:li>
@@ -195,7 +195,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:table_elements"
-         nc:name="dodawanie i usuwanie wierszy, kolumn i komórek"
+         nc:name="dodawanie i&nbsp;usuwanie wierszy, kolumn i&nbsp;komórek"
          nc:link="composer_help.xhtml#adding_and_deleting_rows_columns_and_cells"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -342,17 +342,17 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="HTML:editing_in_mail_messages"
-         nc:name="edycja HTML w wiadomościach"
+         nc:name="edycja HTML w&nbsp;wiadomościach"
          nc:link="mail_help.xhtml#editing_or_inserting_html_elements"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="HTML:using_in_Composer"
-         nc:name="wstawianie elementów HTML w Kompozytorze Stron"
+         nc:name="wstawianie elementów HTML w&nbsp;Kompozytorze Stron"
          nc:link="composer_help.xhtml#inserting_html_elements_and_attributes"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="HTML:using_in_mail_messages"
-         nc:name="używanie HTML w wiadomościach"
+         nc:name="używanie HTML w&nbsp;wiadomościach"
          nc:link="mail_help.xhtml#using_html_in_your_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -377,7 +377,7 @@
      </rdf:li>
 		 <rdf:li>
        <rdf:Description ID="page_info"
-         nc:name="informacje o stronie"
+         nc:name="informacje o&nbsp;stronie"
          nc:link="page_info_help.xhtml#viewing_page_info"/>
      </rdf:li>
      <rdf:li>
@@ -438,7 +438,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:mail"
-         nc:name="importowanie wiadomości e-mail z innych programów"
+         nc:name="importowanie wiadomości e-mail z&nbsp;innych programów"
          nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -478,7 +478,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="languages:and_international_content"
-         nc:name="ustawienia językowe i regionalne"
+         nc:name="ustawienia językowe i&nbsp;regionalne"
          nc:link="nav_help.xhtml#using_languages_and_international_content"/>
      </rdf:li>
      <rdf:li>
@@ -580,7 +580,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Composer:finding_replacing_text"
-         nc:name="szukanie i zamiana tekstu"
+         nc:name="szukanie i&nbsp;zamiana tekstu"
          nc:link="composer_help.xhtml#finding_and_replacing_text"/>
      </rdf:li>
      <rdf:li>
@@ -630,7 +630,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Composer:setting_page_colors"
-         nc:name="kolory i tło strony"
+         nc:name="kolory i&nbsp;tło strony"
          nc:link="composer_help.xhtml#setting_page_colors_and_backgrounds"/>
      </rdf:li>
      <rdf:li>
@@ -645,7 +645,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Composer:working_with_lists"
-         nc:name="praca z listami"
+         nc:name="praca z&nbsp;listami"
          nc:link="composer_help.xhtml#working_with_lists"/>
      </rdf:li>
      <rdf:li>
@@ -685,12 +685,12 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:LDAP_directories"
-         nc:name="dodawanie i usuwanie katalogów LDAP"
+         nc:name="dodawanie i&nbsp;usuwanie katalogów LDAP"
          nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="address_books:searching"
-         nc:name="przeszukiwanie książek adresowych i katalogów"
+         nc:name="przeszukiwanie książek adresowych i&nbsp;katalogów"
          nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -750,7 +750,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
-         nc:name="ustawienia kopii i folderów"
+         nc:name="ustawienia kopii i&nbsp;folderów"
          nc:link="mail_help.xhtml#copies_and_folders"/>
      </rdf:li>
      <rdf:li>
@@ -770,17 +770,17 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
-         nc:name="tworzenie wiadomości w formacie HTML"
+         nc:name="tworzenie wiadomości w&nbsp;formacie HTML"
          nc:link="mail_help.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
-         nc:name="ustawienia miejsca na dysku i przechowywania"
+         nc:name="ustawienia miejsca na dysku i&nbsp;przechowywania"
          nc:link="mail_help.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
-         nc:name="umieszczanie wiadomości w folderach"
+         nc:name="umieszczanie wiadomości w&nbsp;folderach"
          nc:link="mail_help.xhtml#filing_messages_in_folders"/>
      </rdf:li>
      <rdf:li>
@@ -800,17 +800,17 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
-         nc:name="adresaci wiadomości w formacie HTML"
+         nc:name="adresaci wiadomości w&nbsp;formacie HTML"
          nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_sending_options"
-         nc:name="opcje wysyłania wiadomości w formacie HTML"
+         nc:name="opcje wysyłania wiadomości w&nbsp;formacie HTML"
          nc:link="mail_help.xhtml#choosing_html_mail_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
-         nc:name="źródło wiadomości w HTML"
+         nc:name="źródło wiadomości w&nbsp;HTML"
          nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
      <rdf:li>
@@ -825,7 +825,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
-         nc:name="wyszukiwanie w wiadomościach"
+         nc:name="wyszukiwanie w&nbsp;wiadomościach"
          nc:link="mail_help.xhtml#searching_through_messages"/>
      </rdf:li>
       <rdf:li>
@@ -850,7 +850,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
-         nc:name="zapisywanie i drukowanie wiadomości"
+         nc:name="zapisywanie i&nbsp;drukowanie wiadomości"
          nc:link="mail_help.xhtml#saving_and_printing_messages"/>
      </rdf:li>
      <rdf:li>
@@ -880,12 +880,12 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
-         nc:name="sortowanie i grupowanie wiadomości w wątki"
+         nc:name="sortowanie i&nbsp;grupowanie wiadomości w&nbsp;wątki"
          nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
-         nc:name="praca z książkami adresowymi"
+         nc:name="praca z&nbsp;książkami adresowymi"
          nc:link="mail_help.xhtml#using_address_books"/>
      </rdf:li>
      <rdf:li>
@@ -895,7 +895,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
-         nc:name="używanie HTML w wiadomościach"
+         nc:name="używanie HTML w&nbsp;wiadomościach"
          nc:link="mail_help.xhtml#using_html_in_your_messages"/>
      </rdf:li>
      <rdf:li>
@@ -905,7 +905,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
-         nc:name="praca w trybie offline"
+         nc:name="praca w&nbsp;trybie offline"
          nc:link="mail_help.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -932,7 +932,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="LDAP:adding_to_address_book"
-         nc:name="dodawanie i usuwanie katalogów do książki adresowej"
+         nc:name="dodawanie i&nbsp;usuwanie katalogów do książki adresowej"
          nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
      </rdf:li>
      <rdf:li>
@@ -1109,7 +1109,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="images:email_and"
-         nc:name="obrazki w wiadomościach"
+         nc:name="obrazki w&nbsp;wiadomościach"
          nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
      </rdf:li>
      <rdf:li>
@@ -1139,7 +1139,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
-         nc:name="poczta i grupy dyskusyjne w trybie offline"
+         nc:name="poczta i&nbsp;grupy dyskusyjne w&nbsp;trybie offline"
          nc:link="mail_help.xhtml#working_offline"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -1179,7 +1179,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Working_Offline"
-         nc:name="praca w trybie offline"
+         nc:name="praca w&nbsp;trybie offline"
          nc:link="mail_help.xhtml#working_offline"/>
      </rdf:li>
      <rdf:li>
@@ -1193,7 +1193,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="server_certificate_problems"
-         nc:name="problemy z certyfikatem serwera"
+         nc:name="problemy z&nbsp;certyfikatem serwera"
          nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
      </rdf:li>
 		 <rdf:li>
@@ -1213,7 +1213,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Tabbed_Browsing"
-         nc:name="przeglądanie w kartach"
+         nc:name="przeglądanie w&nbsp;kartach"
          nc:link="customize_help.xhtml#tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
@@ -1273,12 +1273,12 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:opening_closing_resizing"
-         nc:name="otwieranie, zamykanie i zmiana rozmiaru panelu bocznego"
+         nc:name="otwieranie, zamykanie i&nbsp;zmiana rozmiaru panelu bocznego"
          nc:link="customize_help.xhtml#opening_closing_and_resizing_sidebar"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:removing_tabs"
-         nc:name="usuwanie kart z panelu bocznego"
+         nc:name="usuwanie kart z&nbsp;panelu bocznego"
          nc:link="customize_help.xhtml#removing_sidebar_tabs"/>
      </rdf:li>
      <rdf:li>
@@ -1293,7 +1293,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Sidebar:searching_from"
-         nc:name="wyszukiwanie w panelu bocznym"
+         nc:name="wyszukiwanie w&nbsp;panelu bocznym"
          nc:link="nav_help.xhtml#searching_from_sidebar"/>
      </rdf:li>
      <rdf:li>
@@ -1472,7 +1472,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:Tabbed_Browsing"
-         nc:name="preferencje przeglądania w kartach"
+         nc:name="preferencje przeglądania w&nbsp;kartach"
          nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
@@ -1492,7 +1492,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:cookies_and"
-         nc:name="ciasteczka a prywatność"
+         nc:name="ciasteczka a&nbsp;prywatność"
          nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/>
      </rdf:li>
      <rdf:li>
@@ -1532,7 +1532,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Tabbed_Browsing:introduction"
-         nc:name="przeglądanie stron w kartach"
+         nc:name="przeglądanie stron w&nbsp;kartach"
          nc:link="nav_help.xhtml#using_tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
@@ -1547,12 +1547,12 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Tabbed_Browsing:setting_up"
-         nc:name="ustawianie przeglądania w kartach"
+         nc:name="ustawianie przeglądania w&nbsp;kartach"
          nc:link="customize_help.xhtml#setting_up_tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Tabbed_Browsing:what_is"
-         nc:name="Czym jest przeglądanie stron w kartach?"
+         nc:name="Czym jest przeglądanie stron w&nbsp;kartach?"
          nc:link="customize_help.xhtml#what_is_tabbed_browsing"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -1733,12 +1733,12 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Composer"
-         nc:name="skróty klawiaturowe w Kompozytorze Stron"
+         nc:name="skróty klawiaturowe w&nbsp;Kompozytorze Stron"
          nc:link="shortcuts-composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:general"
-         nc:name="skróty klawiaturowe w SeaMonkey"
+         nc:name="skróty klawiaturowe w&nbsp;SeaMonkey"
          nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/>
      </rdf:li>
      <rdf:li>
@@ -1748,12 +1748,12 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Mail_and_Newsgroups"
-         nc:name="skróty klawiaturowe w Kurierze Poczty"
+         nc:name="skróty klawiaturowe w&nbsp;Kurierze Poczty"
          nc:link="shortcuts-mailnews.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Navigator"
-         nc:name="skróty klawiaturowe w przeglądarce"
+         nc:name="skróty klawiaturowe w&nbsp;przeglądarce"
          nc:link="shortcuts-navigator.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -1823,7 +1823,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="web_pages:finding_within"
-         nc:name="wyszukiwanie w obrębie strony"
+         nc:name="wyszukiwanie w&nbsp;obrębie strony"
          nc:link="nav_help.xhtml#searching_within_a_page"/>
      </rdf:li>
      <rdf:li>
@@ -1838,7 +1838,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="web_pages:searching"
-         nc:name="wyszukiwanie w sieci Internet"
+         nc:name="wyszukiwanie w&nbsp;sieci Internet"
          nc:link="nav_help.xhtml#searching_the_web"/>
      </rdf:li>
      <rdf:li>
@@ -1853,7 +1853,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="encryption:about"
-         nc:name="o podpisach cyfrowych i szyfrowaniu"
+         nc:name="o podpisach cyfrowych i&nbsp;szyfrowaniu"
          nc:link="mail_sec_help.xhtml#about_digital_signatures_and_encryption"/>
      </rdf:li>
      <rdf:li>
@@ -1896,7 +1896,7 @@
      <rdf:Seq>
      <rdf:li>
        <rdf:Description ID="Filing_messages"
-         nc:name="umieszczanie wiadomości w folderach"
+         nc:name="umieszczanie wiadomości w&nbsp;folderach"
          nc:link="mail_help.xhtml#filing_messages_in_folders"/>
      </rdf:li>
      <rdf:li>
@@ -1936,7 +1936,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings:signed_and_encrypted mail"
-         nc:name="ustawienia podpisanych i zaszyfrowanych wiadomości"
+         nc:name="ustawienia podpisanych i&nbsp;zaszyfrowanych wiadomości"
          nc:link="mail_help.xhtml#security"/>
      </rdf:li>
      <rdf:li>
@@ -2028,12 +2028,12 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="search:Advanced_mode"
-         nc:name="zaawansowane wyszukiwanie w panelu bocznym"
+         nc:name="zaawansowane wyszukiwanie w&nbsp;panelu bocznym"
          nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="search:bookmarks"
-         nc:name="wyszukiwanie w zakładkach"
+         nc:name="wyszukiwanie w&nbsp;zakładkach"
          nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/>
      </rdf:li>
      <rdf:li>
@@ -2062,12 +2062,12 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Customizing"
-         nc:name="Zmiana czcionek, kolorów i motywów"
+         nc:name="Zmiana czcionek, kolorów i&nbsp;motywów"
          nc:link="customize_help.xhtml#changing_fonts_colors_and_themes"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="font_changing_in_composer"
-         nc:name="Zmiana czcionek w Kompozytorze Stron"
+         nc:name="Zmiana czcionek w&nbsp;Kompozytorze Stron"
          nc:link="composer_help.xhtml#changing_text_color_style_and_font"/>
      </rdf:li>
 		 <rdf:li>
@@ -2148,7 +2148,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="bookmarks:visiting"
-         nc:name="otwieranie stron z Zakładek"
+         nc:name="otwieranie stron z&nbsp;Zakładek"
          nc:link="nav_help.xhtml#visiting_bookmarked_pages"/>
      </rdf:li>
      <rdf:li>
@@ -2163,12 +2163,12 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="save:web_pages"
-         nc:name="zapisywanie i drukowanie stron"
+         nc:name="zapisywanie i&nbsp;drukowanie stron"
          nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="save:messages"
-         nc:name="zapisywanie i drukowanie wiadomości"
+         nc:name="zapisywanie i&nbsp;drukowanie wiadomości"
          nc:link="mail_help.xhtml#saving_and_printing_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>

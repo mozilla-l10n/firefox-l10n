@@ -25,7 +25,7 @@
         <rdf:li> <rdf:Description nc:name="certyfikat szyfrowania" nc:link="glossary.xhtml#encryption_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="certyfikat zabezpieczeń" nc:link="glossary.xhtml#security_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="ciasteczko" nc:link="glossary.xhtml#cookie"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="ciasteczko z innego serwera" nc:link="glossary.xhtml#third-party_cookie"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="ciasteczko z&nbsp;innego serwera" nc:link="glossary.xhtml#third-party_cookie"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="CRL" nc:link="glossary.xhtml#crl"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="cyfrowy dowód tożsamości" nc:link="glossary.xhtml#digital_id"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="domniemana zgoda" nc:link="glossary.xhtml#implicit_consent"/> </rdf:li>
@@ -55,7 +55,7 @@
         <rdf:li> <rdf:Description nc:name="klucz publiczny" nc:link="glossary.xhtml#public_key"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="klucz szyfrujący" nc:link="glossary.xhtml#encryption_key"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="kryptografia" nc:link="glossary.xhtml#cryptography"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="kryptografia z użyciem kluczy publicznych" nc:link="glossary.xhtml#public-key_cryptography"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kryptografia z&nbsp;użyciem kluczy publicznych" nc:link="glossary.xhtml#public-key_cryptography"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="LDAP" nc:link="glossary.xhtml#ldap"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="łańcuch certyfikatów" nc:link="glossary.xhtml#certificate_chain"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Menedżer certyfikatów" nc:link="glossary.xhtml#certificate_manager"/> </rdf:li>
