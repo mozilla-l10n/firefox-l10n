@@ -15,7 +15,7 @@
 
 <!ENTITY cookieRetentionPolicy.label "Zapamiętywanie ciasteczek">
 
-<!ENTITY acceptNormally.label "Akceptuj ciasteczka normalnie">
+<!ENTITY acceptNormally.label "Akceptuj ciasteczka standardowo">
 <!ENTITY acceptNormally.accesskey "n">
 
 <!ENTITY acceptForSession.label "Akceptuj tylko na czas bieżącej sesji">
