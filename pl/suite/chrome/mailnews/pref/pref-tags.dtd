@@ -38,7 +38,7 @@
 
 <!ENTITY pref.tags.title "Etykiety">
 <!ENTITY pref.tags.caption "Dostosuj etykiety">
-<!ENTITY pref.tags.description "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów. Można modyfikować dostępność i ważność poniższych etykiet. Etykiety na górze listy są ważniejsze od tych na jej dole.">
+<!ENTITY pref.tags.description "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów. Można modyfikować dostępność i ważność poniższych etykiet. Etykiety na górze listy są ważniejsze od tych na dole.">
 <!ENTITY tagColumn.label "Etykieta">
 <!ENTITY colorColumn.label "Kolor">
 <!ENTITY defaultTagName.label "Etykieta bez nazwy">
