@@ -81,9 +81,9 @@
 <!ENTITY  mediaPreview          "Попередній перегляд мультимедіа:">
 
 <!ENTITY  feedTab               "Стрічки">
-<!ENTITY  feedTab.accesskey     "П">
+<!ENTITY  feedTab.accesskey     "С">
 <!ENTITY  feedSubscribe         "Підписатись">
-<!ENTITY  feedSubscribe.accesskey "ь">
+<!ENTITY  feedSubscribe.accesskey "П">
 
 <!ENTITY  permTab               "Дозволи">
 <!ENTITY  permTab.accesskey     "Д">
