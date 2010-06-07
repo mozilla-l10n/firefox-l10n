@@ -6,14 +6,14 @@
 <!ENTITY navigator.accesskey "r">
 
 <!ENTITY enableJavaScript.label "Włącz interpretację kodu JavaScript w komponentach">
-<!ENTITY allowScripts.label "Pozwól skryptom na wykonanie następujących czynności:">
+<!ENTITY allowScripts.label "Pozwól skryptom na:">
 <!ENTITY allowScripts.accesskey "s">
-<!ENTITY allowWindowMoveResize.label "Zmieniać rozmiar lub położenie istniejących okien">
-<!ENTITY allowWindowFlip.label "Zmieniać aktywne okno, przenosząc nieaktywne okno na górę">
-<!ENTITY allowWindowStatusChange.label "Zmieniać domyślny tekst wyświetlany w pasku stanu">
-<!ENTITY allowWindowImageSrcChange.label "Zamieniać obrazki (po wskazaniu na nie myszą)">
-<!ENTITY allowContextmenuDisable.label "Wyłączać lub zmieniać menu kontekstowe">
-<!ENTITY allowHideStatusBar.label "Ukrywać pasek stanu">
+<!ENTITY allowWindowMoveResize.label "Zmienianie rozmiaru lub położenia istniejących okien">
+<!ENTITY allowWindowFlip.label "Zmienianie aktywnego okna poprzez przenoszenie nieaktywnego na górę">
+<!ENTITY allowWindowStatusChange.label "Zmienianie domyślnego tekstu wyświetlanego w pasku stanu">
+<!ENTITY allowWindowImageSrcChange.label "Zamienianie obrazków (po wskazaniu na nie myszą)">
+<!ENTITY allowContextmenuDisable.label "Wyłączanie lub zmienianie menu kontekstowego">
+<!ENTITY allowHideStatusBar.label "Ukrywanie paska stanu">
 
 <!ENTITY enablePlugin.label "Włącz wtyczki dla">
 
