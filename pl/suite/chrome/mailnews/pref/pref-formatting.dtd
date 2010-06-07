@@ -38,9 +38,9 @@
 
 <!ENTITY pref.formatting.title "Format wysyłania">
 <!ENTITY sendMaildesc.label "Jeżeli co najmniej jeden z adresatów wiadomości wysyłanej w formacie HTML nie znajduje się na liście osób mogących otrzymywać takie wiadomości, to:">
-<!ENTITY askMe.label "zapytaj, jakiego formatu użyć przy wysłaniu wiadomości">
+<!ENTITY askMe.label "Zapytaj, jakiego formatu użyć przy wysłaniu wiadomości">
 <!ENTITY askMe.accesskey "a">
-<!ENTITY convertPlain.label "przekształć wiadomość na format tekstowy (część formatowania może zostać utracona)">
+<!ENTITY convertPlain.label "Przekształć wiadomość na format tekstowy (część formatowania może zostać utracona)">
 <!ENTITY convertPlain.accesskey "t">
 <!ENTITY sendHTML.label "Użyj formatu HTML (niektórzy odbiorcy mogą nie odczytać wiadomości)">
 <!ENTITY sendHTML.accesskey "H">
