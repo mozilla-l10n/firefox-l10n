@@ -16,4 +16,4 @@
 <!ENTITY prefEnablePipelining.accesskey "P">
 <!ENTITY prefEnablePipeliningProxy.accesskey "I">
 <!ENTITY prefPara "Poniższe opcje pozwalają na dostosowanie ustawień połączeń HTTP w celu zwiększenia wydajności lub kompatybilności. Niektóre serwery proxy wymagają protokołu HTTP w wersji HTTP/1.0 (szczegóły w notatkach do bieżącego wydania).">
-<!ENTITY prefPipeWarning "Uwaga: Przetwarzanie potokowe jest w fazie eksperymentalnej. Pozwala na zwiększenie wydajności wczytywania stron, jednakże nie jest w pełni obsługiwane przez niektóre serwery oraz serwery proxy.">
+<!ENTITY prefPipeWarning "Uwaga: Przetwarzanie potokowe jest w fazie eksperymentalnej. Pozwala na zwiększenie wydajności wczytywania stron, jednak nie jest w pełni obsługiwane przez niektóre serwery oraz serwery proxy.">
