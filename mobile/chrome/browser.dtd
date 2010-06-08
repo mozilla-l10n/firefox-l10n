@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkDone.label "Terminé">
 <!ENTITY editBookmarkTags.label "Ajouter des étiquettes">
 
-<!ENTITY helperApp.prompt "Que voulez-vous faire avec">
-<!ENTITY helperApp.open "Ouvrir">
-<!ENTITY helperApp.save "Enregistrer">
-<!ENTITY helperApp.nothing "Rien">
-
 <!ENTITY formHelper.previous "Précédent">
 <!ENTITY formHelper.next "Suivant">
 <!ENTITY formHelper.done "Terminé">
