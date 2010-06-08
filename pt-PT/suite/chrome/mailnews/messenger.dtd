@@ -159,8 +159,6 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Barra de Ferramentas do Correio">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
-
-<!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Barra de procura">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
 
@@ -492,7 +490,7 @@
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Barra de Menu">
 <!ENTITY mailToolbar.tooltip "Barra de ferramentas do Correio">
-<!ENTITY locationToolbar.tooltip "Barra de ferramentas de Localização">
+<!ENTITY searchToolbar.tooltip "Barra de pesquisa">
 <!ENTITY advancedButton.tooltip "Pesquisa avançada de mensagens">
 <!ENTITY getMsgButton.tooltip "Obter novas mensagens">
 <!ENTITY newMsgButton.tooltip "Criar nova mensagem">
