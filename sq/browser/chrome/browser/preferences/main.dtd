@@ -28,6 +28,6 @@
 <!ENTITY chooseFolderWin.label        "Shfletoni…">
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Zgjidhni…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "Z">
 <!ENTITY alwaysAsk.label "Pyetmë përherë ku të ruhen kartelat">
 <!ENTITY alwaysAsk.accesskey "y">

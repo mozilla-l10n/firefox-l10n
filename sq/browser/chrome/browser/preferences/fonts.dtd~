@@ -34,7 +34,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinale">
 <!ENTITY  font.langGroup.tibetan                  "Tibetane">
 
-<!ENTITY language.accesskey "S">
+<!ENTITY language.accesskey "g">
 <!ENTITY language.label "Shkronja për:">
 <!ENTITY minSize.accesskey "v">
 <!ENTITY minSize.label "Madhësi shkronjash më e vogël: ">

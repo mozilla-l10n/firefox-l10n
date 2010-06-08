@@ -131,7 +131,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY organize.accesskey    "S">
 <!ENTITY places.library.title  "Librari">
-<!ENTITY views.accesskey                "I">
+<!ENTITY views.accesskey                "S">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 

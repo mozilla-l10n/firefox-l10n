@@ -9,7 +9,7 @@
 <!ENTITY plexInput.accesskey "M">
 
 <!ENTITY resolutionInput.label "Qartësi/Cilësi:">
-<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY resolutionInput.accesskey "Q">
 
 <!ENTITY cmdInput.label "Urdhër Shtypjeje:">
 <!ENTITY cmdInput.accesskey "U">

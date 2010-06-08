@@ -70,7 +70,7 @@
 <!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
 <!ENTITY browseNewsrc.label "Shfletoni…">
 <!ENTITY browseNewsrc.accesskey "S">
-<!ENTITY modelDeleteImmediately.accesskey "f">
+<!ENTITY modelDeleteImmediately.accesskey "H">
 
 <!ENTITY connectionSecurity.label "Siguri lidhjeje:">
 <!ENTITY connectionSecurity.accesskey "S">

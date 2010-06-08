@@ -46,7 +46,7 @@
 <!ENTITY newSiteButton.accesskey      "R">
 <!ENTITY removeButton.accesskey       "H">
 <!ENTITY docDirList.tooltip           "Zgjidhni ose jepni emrin e nëndrejtorisë së largët për këtë faqe">
-<!ENTITY docDirList.accesskey         "Z">
+<!ENTITY docDirList.accesskey         "N">
 
 <!ENTITY publishImgCheckbox.accesskey "p">
 <!ENTITY sameLocationRadio.accesskey  "V">

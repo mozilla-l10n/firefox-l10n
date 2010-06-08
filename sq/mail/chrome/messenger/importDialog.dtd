@@ -12,7 +12,7 @@
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 <!ENTITY importHome.label        "Banese">
-<!ENTITY importHome.accesskey    "t">
+<!ENTITY importHome.accesskey    "B">
 <!ENTITY importWork.label        "Pune">
 <!ENTITY importWork.accesskey    "N">
 <!ENTITY selectDescription.accesskey "P">
