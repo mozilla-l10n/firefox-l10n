@@ -1,9 +1,8 @@
-<!ENTITY urlbar.emptytext      "Escrever pesquisa ou endereço">
-
 <!ENTITY back.label            "Retroceder">
 <!ENTITY forward.label         "Avançar">
 <!ENTITY reload.label          "Recarregar">
 <!ENTITY stop.label            "Parar">
+<!ENTITY search.label          "Pesquisar">
 <!ENTITY go.label              "Ir">
 <!ENTITY openLocation.label    "Abrir localização">
 <!ENTITY star.label            "Estrela">
@@ -68,6 +67,8 @@
 <!ENTITY noResults.label           "Sem resultados">
 <!ENTITY allBookmarks.label        "Ver todos os marcadores">
 
+<!ENTITY searchEngine.addSearch    "Adicionar pesquisa:">
+
 <!ENTITY bookmarkPopup.label       "Página adicionada aos marcadores">
 <!ENTITY bookmarkRemove.label      "Remover">
 <!ENTITY bookmarkEdit.label        "Editar">
@@ -92,6 +93,3 @@
 <!ENTITY consoleErrFile.label      "Ficheiro fonte:">
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
-
-<!ENTITY contextOpenInNewTab.label "Abrir ligação em novo separador">
-<!ENTITY contextSaveImage.label    "Guardar imagem">
