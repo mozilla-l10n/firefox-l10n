@@ -259,13 +259,10 @@
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY openCmd.commandkey                 "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText   "Paieška adresyne ir žurnale">
-<!ENTITY urlbar.bookmark.emptyText          "Paieška adresyne">
-<!ENTITY urlbar.history.emptyText           "Paieška žurnale">
-<!ENTITY urlbar.none.emptyText              "Įveskite tinklalapio adresą">
-<!ENTITY urlbar.accesskey                   "d">
-<!ENTITY urlbar.switchToTab.label           "Pereiti į kortelę:">
+<!ENTITY openCmd.commandkey            "l">
+<!ENTITY urlbar.placeholder            "Atverti svetainę">
+<!ENTITY urlbar.accesskey              "d">
+<!ENTITY urlbar.switchToTab.label      "Pereiti į kortelę:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
