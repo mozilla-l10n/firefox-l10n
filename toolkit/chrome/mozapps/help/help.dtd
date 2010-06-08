@@ -5,7 +5,7 @@
 <!ENTITY backButton.accesskey           "M">
 <!ENTITY backButton.tooltip             "Shko mbrapsht një faqe">
 <!ENTITY forwardButton.label            "Përpara">
-<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.accesskey        "P">
 <!ENTITY forwardButton.tooltip          "Shko përpara një faqe">
 <!ENTITY homeButton.label               "Hyrje">
 <!ENTITY homeButton.tooltip             "Shko te Faqja e Fillimit për Ndihmën">
@@ -22,12 +22,12 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey	"+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + në shumë tastiera është sipër këtij tasti -->
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY zLevel.accesskey               "T">
+<!ENTITY zLevel.accesskey               "P">
 <!ENTITY zLevel.label                   "Përherë Sipër">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 <!ENTITY copyCmd.label                  "Kopjo">
-<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.accesskey         "t">
 <!ENTITY helpSearch.commandkey          "k">

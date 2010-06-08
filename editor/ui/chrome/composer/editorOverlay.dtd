@@ -84,11 +84,11 @@
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Spirancë e Emërtuar…">
-<!ENTITY insertAnchorCmd.accesskey "S">
+<!ENTITY insertAnchorCmd.accesskey "c">
 <!ENTITY insertImageCmd.label "Figurë…">
-<!ENTITY insertImageCmd.accesskey "P">
+<!ENTITY insertImageCmd.accesskey "g">
 <!ENTITY insertHLineCmd.label "Vijë Horizontale">
-<!ENTITY insertHLineCmd.accesskey "v">
+<!ENTITY insertHLineCmd.accesskey "V">
 <!ENTITY insertTableCmd.label "Tabelë…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">

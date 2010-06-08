@@ -16,7 +16,7 @@
 <!ENTITY loaddevice.modname "Emër Moduli:">
 <!ENTITY loaddevice.modname.default "Modul i Ri PKCS#11 ">
 <!ENTITY loaddevice.title "Ngarkim Pajisjeje PKCS#11">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
+<!ENTITY devmgr.button.changeslotname.accesskey "N">
 <!ENTITY devmgr.button.login.accesskey          "H">
 <!ENTITY devmgr.button.logout.accesskey         "D">
 <!ENTITY devmgr.button.changepw.accesskey       "y">

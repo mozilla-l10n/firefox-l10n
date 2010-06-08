@@ -56,13 +56,13 @@
 <!ENTITY certmgr.tokenname "Pajisje Sigurie">
 <!ENTITY certmgr.validity.label "Vlefshmëri">
 <!ENTITY certmgr.view2.label "Shiheni…">
-<!ENTITY certmgr.websites2 "Keni në kartelë dëshmi që identifikojnë këta shërbyesa:">
+<!ENTITY certmgr.websites2 "Në kartelë keni dëshmi që identifikojnë këta shërbyesa:">
 <!ENTITY certmgr.close.accesskey              "M">
 <!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.add.accesskey                "S">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.hierarchy.accesskey          "H">
 <!ENTITY certmgr.tab.orphan2                  "Të tjera">
 <!ENTITY certmgr.pending.label                "Po vërtetohet dëshmia…">
 <!ENTITY certmgr.typesofoverrides             "Përjashtime">
@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Shërbyes">
 <!ENTITY exceptionMgr.certlocation.url        "Vend:">
 <!ENTITY exceptionMgr.certlocation.download   "Merrni Dëshmi">
-<!ENTITY exceptionMgr.certlocation.accesskey  "M">
+<!ENTITY exceptionMgr.certlocation.accesskey  "b">
 <!ENTITY exceptionMgr.certstatus.caption      "Gjendje Dëshmie">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Shiheni…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "S">

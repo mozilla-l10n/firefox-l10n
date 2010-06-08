@@ -216,7 +216,7 @@
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
 <!ENTITY viewPageSourceCmd.accesskey  "u">
 <!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kornize">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "B">
 <!ENTITY viewPageInfoCmd.label        "Shihni të Dhëna Faqeje">
 <!ENTITY viewPageInfoCmd.accesskey    "D">
 <!ENTITY viewFrameInfoCmd.label       "Shihni të Dhëna Kornize">
@@ -235,13 +235,13 @@
 <!ENTITY savePageCmd.accesskey2       "S">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Ruaje Kornizën Si…">
-<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveFrameCmd.accesskey       "i">
 <!ENTITY saveLinkCmd.label            "Ruaje Lidhjen Si…">
 <!ENTITY saveLinkCmd.accesskey        "R">
 <!ENTITY sendLinkCmd.label            "Dërgoni Lidhjen…"> 
 <!ENTITY sendLinkCmd.accesskey        "L">
 <!ENTITY saveImageCmd.label           "Ruaje Figurën Si…">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY sendImageCmd.label           "Dërgoni Figurën…">
 <!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
@@ -287,9 +287,9 @@
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Këmbe Drejtim Faqeje">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "F">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Këmbe Drejtim Teksti">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 <!ENTITY findOnCmd.label     "Gjej në Këtë Faqe…">
 <!ENTITY findOnCmd.accesskey "G">

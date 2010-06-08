@@ -58,7 +58,7 @@
 <!ENTITY setPassword.reenterPassword.label "Fjalëkalim i ri (sërish):">
 <!ENTITY setPassword.title "Ndërroni Fjalëkalimin e Përgjithshëm">
 <!ENTITY setPassword.tokenName.label "Pajisje Sigurie">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.accesskey "S">
 <!ENTITY resetPasswordButtonLabel "Ricakto">
 <!ENTITY protectedAuth.title "Mirëfilltësim me &quot;Token&quot; i Mbrojtur">
 <!ENTITY protectedAuth.msg "Ju lutem, kryeni mirëfilltësimin karshi &quot;token&quot;-it. Metoda e mirëfilltësimit varet nga lloji i &quot;token&quot;-it tuaj.">

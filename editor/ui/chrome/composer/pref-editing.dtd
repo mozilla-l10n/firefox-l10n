@@ -23,7 +23,7 @@
 <!ENTITY colon.character            ":">
 
 <!ENTITY backgroundImage.label      "Figurë sfondi:">
-<!ENTITY backgroundImage.accesskey  "P">
+<!ENTITY backgroundImage.accesskey  "F">
 <!ENTITY chooseFile.label           "Zgjidhni Kartelë…">
 <!ENTITY chooseFile.accesskey       "Z">
 

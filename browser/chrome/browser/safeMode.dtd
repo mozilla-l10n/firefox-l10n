@@ -40,10 +40,10 @@
 <!ENTITY window.width                 "37em">
 
 <!ENTITY safeModeDescription.label    "&brandShortName;-i tani po xhiron në &quot;Safe Mode&quot;, çka çaktivizon përkohësisht rregullimet, temat, dhe zgjerimet tuaj vetjakë.">
-<!ENTITY safeModeDescription2.label   "Mund të bëni të përhershëm disa ose tërë këtandryshime:">
+<!ENTITY safeModeDescription2.label   "Mund t&apos;i bëni të përhershme disa ose krejt këto ndryshime:">
 
 <!ENTITY disableAddons.label          "Çaktivizo tërë shtesat">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY disableAddons.accesskey      "Ç">
 
 <!ENTITY resetToolbars.label          "Rikthe panele dhe kontrolle në gjendjen fillestare">
 <!ENTITY resetToolbars.accesskey      "R">
@@ -59,4 +59,4 @@
 <!ENTITY continueButton.label         "Vazhdo në &quot;Safe Mode&quot;">
 
 <!ENTITY restoreSearch.label          "Rikthe motorët parazgjedhje të kërkimit">
-<!ENTITY restoreSearch.accesskey      "s">
+<!ENTITY restoreSearch.accesskey      "m">
