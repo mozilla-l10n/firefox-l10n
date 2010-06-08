@@ -21,10 +21,6 @@
 <!ENTITY editBookmarkRemove.label "Elimina">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
-<!ENTITY helperApp.prompt "Quale operazione eseguire con">
-<!ENTITY helperApp.open "Apri">
-<!ENTITY helperApp.save "Salva">
-<!ENTITY helperApp.nothing "Nessuna">
 <!ENTITY formHelper.previous "Precedente">
 <!ENTITY formHelper.next "Successivo">
 <!ENTITY formHelper.done "Fatto">
