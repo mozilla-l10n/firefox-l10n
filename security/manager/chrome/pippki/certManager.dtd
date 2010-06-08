@@ -129,7 +129,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2 "Сервер">
 <!ENTITY exceptionMgr.certlocation.url "Адрес:">
 <!ENTITY exceptionMgr.certlocation.download "Получить сертификат">
-<!ENTITY exceptionMgr.certlocation.accesskey "л">
+<!ENTITY exceptionMgr.certlocation.accesskey "е">
 <!ENTITY exceptionMgr.certstatus.caption "Статус сертификата">
 <!ENTITY exceptionMgr.certstatus.viewCert "Просмотреть…">
 <!ENTITY exceptionMgr.certstatus.accesskey "с">

@@ -112,8 +112,6 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
 <!ENTITY showSearchToolbarCmd.label "Панель поиска">
 <!ENTITY showSearchToolbarCmd.accesskey "а">
-<!ENTITY showLocationToolbarCmd.label "Панель адреса">
-<!ENTITY showLocationToolbarCmd.accesskey "д">
 <!ENTITY messagePaneLayoutStyle.label "Разбивка окна">
 <!ENTITY messagePaneLayoutStyle.accesskey "Р">
 <!ENTITY messagePaneClassic.label "Классический вид">
@@ -419,9 +417,10 @@
 <!ENTITY stopButton.label "Остановить">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
+<!ENTITY searchButton.title "Расширенный поиск">
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY mailToolbar.tooltip "Панель инструментов почты">
-<!ENTITY locationToolbar.tooltip "Панель адреса">
+<!ENTITY searchToolbar.tooltip "Панель поиска">
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска">
 <!ENTITY getMsgButton.tooltip "Получить новые сообщения">
 <!ENTITY newMsgButton.tooltip "Создать сообщение">
@@ -509,9 +508,10 @@
 <!ENTITY folderContextSettings.label "Параметры…">
 <!ENTITY folderContextSettings.accesskey "а">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Поиск темы или адреса">
 <!ENTITY advancedButton.label "Дополнительно…">
 <!ENTITY advancedButton.accesskey "Д">
+<!ENTITY searchButton.label "Поиск сообщений…">
+<!ENTITY searchButton.accesskey "ш">
 <!ENTITY all.label "Все сообщения">
 <!ENTITY all.accesskey "В">
 <!ENTITY junkBarMessage.label "&brandShortName; считает, что это сообщение является спамом.">

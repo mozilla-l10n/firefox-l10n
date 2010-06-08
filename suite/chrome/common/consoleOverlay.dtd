@@ -8,7 +8,7 @@
 <!ENTITY toolbarMode.accesskey "ж">
 <!ENTITY toolbarEval.label "Элемент JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
-<!ENTITY all.accesskey "с">
+<!ENTITY all.accesskey "е">
 <!ENTITY errors.accesskey "ш">
 <!ENTITY warnings.accesskey "р">
 <!ENTITY messages.accesskey "б">
