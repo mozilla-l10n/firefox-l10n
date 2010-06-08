@@ -17,7 +17,7 @@
 <!ENTITY historySection.label "Cronologia">
 <!ENTITY dataSection.label "Dati">
 <!ENTITY itemHistoryAndDownloads.label "Cronologia navigazione e download">
-<!ENTITY itemHistoryAndDownloads.accesskey "M">
+<!ENTITY itemHistoryAndDownloads.accesskey "z">
 <!ENTITY itemBrowsingHistory.label "Cronologia navigazione">
 <!ENTITY itemBrowsingHistory.accesskey "C">
 <!ENTITY itemFormSearchHistory.label "Moduli e ricerche">
