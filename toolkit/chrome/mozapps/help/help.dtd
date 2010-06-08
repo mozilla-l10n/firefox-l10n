@@ -28,8 +28,8 @@
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 <!ENTITY copyCmd.label                  "Kopjo">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Përzgjidhni Tërë">
-<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY selectAllCmd.label             "Përzgjidhe Krejt">
+<!ENTITY selectAllCmd.accesskey         "t">
 <!ENTITY helpSearch.commandkey          "k">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">

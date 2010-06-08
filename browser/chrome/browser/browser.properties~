@@ -245,7 +245,7 @@ lwthemeInstallRequest.allowButton=Lejoje
 lwthemeInstallRequest.allowButton.accesskey=l
 
 
-outdatedpluginsMessage.title=Disa prej shtojcave të përdorura në këtë faqe janë të vjetruara.
+outdatedpluginsMessage.title=Disa prej shtojcave të përdorura në këtë faqe janë të vjetëruara.
 outdatedpluginsMessage.updateButton.label=Përditësoni Shtojcat…
 outdatedpluginsMessage.updateButton.accesskey=P
 

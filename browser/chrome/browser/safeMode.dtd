@@ -58,5 +58,5 @@
 <!ENTITY changeAndRestartButton.label "Bëj Ndryshimet dhe Rinise">
 <!ENTITY continueButton.label         "Vazhdo në &quot;Safe Mode&quot;">
 
-<!ENTITY restoreSearch.label          "Rikthe motorë parazgjedhje kërkimi">
+<!ENTITY restoreSearch.label          "Rikthe motorët parazgjedhje të kërkimit">
 <!ENTITY restoreSearch.accesskey      "s">
