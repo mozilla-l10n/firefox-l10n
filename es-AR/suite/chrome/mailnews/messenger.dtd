@@ -163,9 +163,6 @@
 <!ENTITY showSearchToolbarCmd.label		"Barra de búsquedas">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
 
-<!ENTITY showLocationToolbarCmd.label "Barra de navegación">
-<!ENTITY showLocationToolbarCmd.accesskey "B">
-
 <!ENTITY messagePaneLayoutStyle.label "Disposición">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
 <!ENTITY messagePaneClassic.label "Vista clásica">
@@ -493,7 +490,7 @@
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY mailToolbar.tooltip "Barra de herramientas de correo">
-<!ENTITY locationToolbar.tooltip "Barra de navegación">
+<!ENTITY searchToolbar.tooltip "Barra de búsquedas">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de mensajes">
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY newMsgButton.tooltip "Crear nuevo mensaje">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Buscar asunto o dirección">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchButton.label "Buscar mensajes…">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "Todo">
 <!ENTITY all.accesskey "T">
