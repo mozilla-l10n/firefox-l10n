@@ -228,11 +228,8 @@ shortcut keys on Linux. -->
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Pesquisar marcadores e histórico">
-<!ENTITY urlbar.bookmark.emptyText    "Pesquisar marcadores">
-<!ENTITY urlbar.history.emptyText     "pesquisar histórico">
-<!ENTITY urlbar.none.emptyText        "Escreva um endereço web">
+<!ENTITY openCmd.commandkey 		  "l">
+<!ENTITY urlbar.placeholder           "Ir para o sítio web">
 <!ENTITY urlbar.accesskey 			  "A">
 <!ENTITY urlbar.switchToTab.label     "Mudar para separador:">
 
