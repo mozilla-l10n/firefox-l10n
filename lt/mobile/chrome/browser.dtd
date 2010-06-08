@@ -59,11 +59,6 @@
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
 
-<!ENTITY helperApp.prompt                 "Ką norėtumėte atlikti su ">
-<!ENTITY helperApp.open                   "Atverti">
-<!ENTITY helperApp.save                   "Įrašyti">
-<!ENTITY helperApp.nothing                "Nieko">
-
 <!ENTITY formHelper.previous              "Ankstesnis">
 <!ENTITY formHelper.next                  "Kitas">
 <!ENTITY formHelper.done                  "Baigta">
