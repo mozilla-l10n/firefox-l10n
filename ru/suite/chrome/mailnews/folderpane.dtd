@@ -3,3 +3,7 @@
 <!ENTITY unreadColumn.label "Не прочитано">
 <!ENTITY totalColumn.label "Всего">
 <!ENTITY folderSizeColumn.label "Размер">
+<!ENTITY folderLocationToolbarItem.title "Выбор папки">
+<!ENTITY mailViewsToolbarItem.title "Режимы просмотра сообщений">
+<!ENTITY searchToolbarItem.title "Поиск">
+<!ENTITY searchSubjectOrAddress.placeholder "Поиск темы или адреса">
