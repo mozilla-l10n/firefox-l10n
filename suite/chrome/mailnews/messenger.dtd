@@ -176,9 +176,6 @@
 <!ENTITY showSearchToolbarCmd.label		"Paieškos juosta">
 <!ENTITY showSearchToolbarCmd.accesskey	"š">
 
-<!ENTITY showLocationToolbarCmd.label "Adresų juosta">
-<!ENTITY showLocationToolbarCmd.accesskey "A">
-
 <!ENTITY messagePaneLayoutStyle.label "Polangių išdėstymas">
 <!ENTITY messagePaneLayoutStyle.accesskey "l">
 <!ENTITY messagePaneClassic.label "Numatytasis">
@@ -483,11 +480,12 @@
 <!ENTITY stopButton.label "Stabdyti">
 <!ENTITY junkButton.label "Brukalas">
 <!ENTITY notJunkButton.label "Ne brukalas">
+<!ENTITY searchButton.title "Išplėstinė paieška">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Meniu juosta">
 <!ENTITY mailToolbar.tooltip "Pašto mygtukų juosta">
-<!ENTITY locationToolbar.tooltip "Aplankų juosta">
+<!ENTITY searchToolbar.tooltip "Paieškos juosta">
 <!ENTITY advancedButton.tooltip "Ieškoti laiškų…">
 <!ENTITY getMsgButton.tooltip "Atsiųsti laiškus">
 <!ENTITY newMsgButton.tooltip "Rašyti naują laišką">
@@ -584,9 +582,10 @@
 <!-- SearchBar -->
 <!-- also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Ieškoti temos ar adreso">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "a">
+<!ENTITY searchButton.label "Ieškoti laiškų…">
+<!ENTITY searchButton.accesskey "I">
 
 <!ENTITY all.label "Visi">
 <!ENTITY all.accesskey "i">
