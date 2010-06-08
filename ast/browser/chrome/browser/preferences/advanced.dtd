@@ -54,7 +54,7 @@
 
 <!ENTITY autoCheck.label                 "Guetar automáticamente anovamientos pa:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "o">
 <!ENTITY enableAddonsUpdate2.label       "Complementos">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Buscadores">

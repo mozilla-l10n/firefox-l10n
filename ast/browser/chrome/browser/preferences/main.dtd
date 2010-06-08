@@ -22,7 +22,7 @@
 <!ENTITY closeWhenDone.label "Zarrar cuando se completen les descargues">
 <!ENTITY closeWhenDone.accesskey "u">
 <!ENTITY saveTo.label "Guardar ficheros en">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.accesskey "G">
 <!ENTITY chooseFolderWin.label        "Desaminar…">
 <!ENTITY chooseFolderWin.accesskey    "s">
 <!ENTITY chooseFolderMac.label        "Elexir…">
