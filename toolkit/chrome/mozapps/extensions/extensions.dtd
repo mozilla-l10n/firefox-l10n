@@ -1,4 +1,4 @@
-<!ENTITY addons.title "Agregados">
+<!ENTITY addons.windowTitle                   "Administrador de agregados">
 <!ENTITY search.placeholder                   "Buscar todos los agregados">
 <!ENTITY loading.label                        "Cargando…">
 <!ENTITY listEmpty.installed.label            "No tiene instalado ningún agregado de este tipo">

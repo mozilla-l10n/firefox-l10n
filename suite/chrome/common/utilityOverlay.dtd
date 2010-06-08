@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label					"Ayuda"> 
 <!ENTITY helpMenu.accesskey				"y"> 
 
+<!ENTITY helpTroubleshootingInfo.label      "Solución de problemas">
+<!ENTITY helpTroubleshootingInfo.accesskey  "S">
 <!ENTITY releaseCmd.label				"Notas de la versión">
 <!ENTITY releaseCmd.accesskey                   "N">
 <!ENTITY updateCmd.label                        "Buscar actualizaciones…">

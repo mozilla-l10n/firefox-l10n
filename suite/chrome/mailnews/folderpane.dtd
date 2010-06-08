@@ -37,4 +37,8 @@
 <!ENTITY nameColumn.label   "Nombre"> 
 <!ENTITY unreadColumn.label "No leído"> 
 <!ENTITY totalColumn.label "Total"> 
-<!ENTITY folderSizeColumn.label "Tamaño"> 
+<!ENTITY folderSizeColumn.label "Tamaño">
+<!ENTITY folderLocationToolbarItem.title "Ubicación de la carpeta">
+<!ENTITY mailViewsToolbarItem.title "Vistas de correo">
+<!ENTITY searchToolbarItem.title "Buscar">
+<!ENTITY searchSubjectOrAddress.placeholder "Buscar asunto o dirección">
