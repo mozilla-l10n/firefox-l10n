@@ -1542,11 +1542,11 @@ nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_
               <rdf:li> <rdf:Description ID="shortcuts_general" nc:name="Raccourcis généraux de &brandShortName;"
               nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
               <rdf:li> <rdf:Description ID="shortcuts_navigator" nc:name="Raccourcis du navigateur"
-              nc:link="shortcuts-navigator.xhtml"/> </rdf:li>
+              nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
               <rdf:li> <rdf:Description ID="shortcuts_mail" nc:name="Raccourcis du courrier &amp; des groupes"
-              nc:link="shortcuts-mailnews.xhtml"/> </rdf:li>
+              nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
               <rdf:li> <rdf:Description ID="shortcuts_composer" nc:name="Raccourcis du composeur"
-              nc:link="shortcuts-composer.xhtml"/> </rdf:li>
+              nc:link="shortcuts_composer.xhtml"/> </rdf:li>
               <rdf:li> <rdf:Description ID="shortcuts_help" nc:name="Raccourcis de l'aide"
               nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>
             </rdf:Seq>
@@ -1556,12 +1556,12 @@ nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_
             <rdf:Description about="#shortcuts_navigator">
               <nc:subheadings>
                 <rdf:Seq>
-                  <rdf:li> <rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Raccourcis des marque-pages" nc:link="shortcuts-navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Raccourcis de navigation" nc:link="shortcuts-navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Raccourcis de visualisation" nc:link="shortcuts-navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Raccourcis de la navigation par onglets" nc:link="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Raccourcis de la barre latérale" nc:link="shortcuts-navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_navigator_forms" nc:name="Raccourcis des formulaires" nc:link="shortcuts-navigator.xhtml#forms_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Raccourcis des marque-pages" nc:link="shortcuts_navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Raccourcis de navigation" nc:link="shortcuts_navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Raccourcis de visualisation" nc:link="shortcuts_navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Raccourcis de la navigation par onglets" nc:link="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Raccourcis de la barre latérale" nc:link="shortcuts_navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_navigator_forms" nc:name="Raccourcis des formulaires" nc:link="shortcuts_navigator.xhtml#forms_shortcuts"/> </rdf:li>
                 </rdf:Seq>
               </nc:subheadings>
             </rdf:Description>
@@ -1569,9 +1569,9 @@ nc:link="using_certs_help.xhtml#managing_certificates_that_identify_certificate_
             <rdf:Description about="#shortcuts_mail">
               <nc:subheadings>
                 <rdf:Seq>
-                  <rdf:li> <rdf:Description ID="shortcuts_mail_general" nc:name="Raccourcis généraux du courrier et des groupes" nc:link="shortcuts-mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_mail_message_list" nc:name="Raccourcis de la liste des messages" nc:link="shortcuts-mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
-                  <rdf:li> <rdf:Description ID="shortcuts_mail_message_compose" nc:name="Raccourcis du composeur de message" nc:link="shortcuts-mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_mail_general" nc:name="Raccourcis généraux du courrier et des groupes" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_mail_message_list" nc:name="Raccourcis de la liste des messages" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
+                  <rdf:li> <rdf:Description ID="shortcuts_mail_message_compose" nc:name="Raccourcis du composeur de message" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
                 </rdf:Seq>
               </nc:subheadings>
             </rdf:Description>
