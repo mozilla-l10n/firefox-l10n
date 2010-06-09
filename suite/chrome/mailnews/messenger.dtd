@@ -150,21 +150,16 @@
 <!ENTITY redoMoveMsgCmd.label "Rétablir le déplacement de message">
 <!ENTITY undoCopyMsgCmd.label "Annuler la copie de message">
 <!ENTITY redoCopyMsgCmd.label "Rétablir la copie de message">
-<!ENTITY undoMarkAllCmd.label               "Annuler le marquage de tous les messages comme lus">
-<!ENTITY redoMarkAllCmd.label               "Rétablir le marquage de tous les messages comme lus">
+<!ENTITY undoMarkAllCmd.label "Annuler le marquage de tous les messages comme lus">
+<!ENTITY redoMarkAllCmd.label "Rétablir le marquage de tous les messages comme lus">
 <!ENTITY undoDefaultCmd.label "Annuler">
-<!ENTITY redoDefaultCmd.label               "Rétablir">
+<!ENTITY redoDefaultCmd.label "Rétablir">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Barre d'outils courrier">
 <!ENTITY showMessengerToolbarCmd.accesskey "t">
- 
-<!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Barre de recherche">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
-
-<!ENTITY showLocationToolbarCmd.label "Afficher la barre d'adresse">
-<!ENTITY showLocationToolbarCmd.accesskey "a">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
 <!ENTITY messagePaneLayoutStyle.accesskey "p">
@@ -489,11 +484,12 @@
 <!ENTITY stopButton.label "Arrêter">
 <!ENTITY junkButton.label "Indésirable">
 <!ENTITY notJunkButton.label "Acceptable">
+<!ENTITY searchButton.title "Recherche avancée">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY mailToolbar.tooltip "Barre d'outils du courrier">
-<!ENTITY locationToolbar.tooltip "Barre d'adresse">
+<!ENTITY searchToolbar.tooltip "Barre de recherche">
 <!ENTITY advancedButton.tooltip "Rechercher dans les messages…">
 <!ENTITY getMsgButton.tooltip "Relever les nouveaux messages">
 <!ENTITY newMsgButton.tooltip "Créer un nouveau message">
@@ -589,9 +585,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Rechercher dans le sujet et l'adresse">
 <!ENTITY advancedButton.label "Avancé…">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY searchButton.label "Rechercher dans les messages…">
+<!ENTITY searchButton.accesskey "s">
 
 <!ENTITY all.label "Tout">
 <!ENTITY all.accesskey "T">
