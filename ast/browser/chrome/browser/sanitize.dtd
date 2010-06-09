@@ -13,7 +13,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "Caberes dos hores">
 <!ENTITY clearTimeDuration.last4Hours     "Caberes cuatro hores">
 <!ENTITY clearTimeDuration.today          "Güei">
-<!ENTITY clearTimeDuration.everything     "Tou">
+<!ENTITY clearTimeDuration.everything     "Too">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">

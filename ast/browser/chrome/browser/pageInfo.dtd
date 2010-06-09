@@ -44,7 +44,7 @@
 <!ENTITY  copy.label            "Copiar">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Seleicionar tou">
+<!ENTITY  selectall.label       "Seleicionar too">
 <!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "w">
 

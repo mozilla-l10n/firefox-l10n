@@ -164,7 +164,7 @@
 <!ENTITY deleteCmd.label          "Desaniciar">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "Seleicionar tou">  
+<!ENTITY selectAllCmd.label         "Seleicionar too">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd.label       "Opciones…">

@@ -1,6 +1,6 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Amenorgar">
-<!ENTITY bringAllToFront.label    "Traer tou delantre">
+<!ENTITY bringAllToFront.label    "Traer too delantre">
 <!ENTITY zoomWindow.label         "Tamañu">
 <!ENTITY windowMenu.label         "Ventana">
 
@@ -38,4 +38,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Anubrir otros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Amosar tou">
+<!ENTITY showAllAppsCmdMac.label        "Amosar too">

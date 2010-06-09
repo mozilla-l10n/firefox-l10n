@@ -40,5 +40,5 @@
 <!ENTITY  noproxy.label                 "Non usar proxy pa:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Usar el mesmu proxy pa tou">
+<!ENTITY  shareproxy.label              "Usar el mesmu proxy pa too">
 <!ENTITY  shareproxy.accesskey          "x">

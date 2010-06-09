@@ -6,5 +6,5 @@
 <!ENTITY checkbox.label   "revisar">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Seleicionar tou">
+<!ENTITY selectAllCmd.label "Seleicionar too">
 <!ENTITY selectAllCmd.accesskey "a">

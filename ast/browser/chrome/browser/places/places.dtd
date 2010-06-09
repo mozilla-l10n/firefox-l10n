@@ -49,7 +49,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Elexir ficheru…">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-<!ENTITY cmd.select_all.label "Seleicionar tou">
+<!ENTITY cmd.select_all.label "Seleicionar too">
 <!ENTITY cmd.select_all.accesskey "S">
 <!ENTITY cmd.select_all.key "a">
 
@@ -84,7 +84,7 @@
 <!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_tab.label              "Abrir nuna nueva llingüeta">
 <!ENTITY cmd.open_tab.accesskey          "t">
-<!ENTITY cmd.open_all_in_tabs.label      "Abrir tou en llingüetes">
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir too en llingüetes">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
 <!ENTITY cmd.properties.label      "Propiedaes">
@@ -153,7 +153,7 @@
 <!ENTITY moreCriteria.label                        "+">
 <!ENTITY advancedSearch.onlybookmarked.label       "Buscar namái marcadores">
 <!ENTITY advancedSearch.match.label                "Coincide con">
-<!ENTITY advancedSearch.all.label                  "tou">
+<!ENTITY advancedSearch.all.label                  "too">
 <!ENTITY advancedSearch.any.label                  "cualesquier">
 <!ENTITY advancedSearch.rules.label                "de les siguientes regles:">
 <!ENTITY advancedSearch.subj_keyword.label         "Que contenga'l testu">

@@ -12,7 +12,7 @@
 <!ENTITY forwardButton.tooltip          "Dir alantre">
 <!ENTITY copyCmd.label                  "Copiar">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Seleicionar tou">
+<!ENTITY selectAllCmd.label             "Seleicionar too">
 <!ENTITY selectAllCmd.accesskey         "a">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
