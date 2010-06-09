@@ -21,7 +21,7 @@
 <!ENTITY restoreHTMLDefaults.label            "Bruk standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "d">
 
-<!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sendte">
+<!ENTITY spellCheck.label                     "Køyr stavekontroll før meldingar vert sende">
 <!ENTITY spellCheck.accesskey                 "K">
 <!ENTITY spellCheckInline.label               "Kontroller staving medan du skriv">
 <!ENTITY spellCheckInline1.accesskey          "k">
