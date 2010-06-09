@@ -236,7 +236,6 @@
 <!ENTITY event.reminder.30minutes.before.label            "30 minutos antes" >
 <!ENTITY event.reminder.1hour.before.label                "1 hora antes" >
 <!ENTITY event.reminder.2hours.before.label               "2 horas antes" >
-<!ENTITY event.reminder.5hours.before.label               "5 horas antes" >
 <!ENTITY event.reminder.12hours.before.label              "12 horas antes" >
 <!ENTITY event.reminder.1day.before.label                 "1 día antes" >
 <!ENTITY event.reminder.2days.before.label                "2 días antes" >
