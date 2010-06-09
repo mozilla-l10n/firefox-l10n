@@ -58,7 +58,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "F">
 <!ENTITY downloadSelectedCmd.label "Last ned valde meldingar">
 <!ENTITY downloadSelectedCmd.accesskey "n">
-<!ENTITY downloadStarredCmd.label "Last ned meldingar merka med stjerne">
+<!ENTITY downloadStarredCmd.label "Last ned meldingar merkte med stjerne">
 <!ENTITY downloadStarredCmd.accesskey "L">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
