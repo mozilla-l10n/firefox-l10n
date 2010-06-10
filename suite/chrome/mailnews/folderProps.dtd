@@ -42,12 +42,15 @@
 
 <!ENTITY generalInfo.label                       "Allgemeine Informationen">
 <!ENTITY folderCharsetTab.label                  "Standard-Zeichensatz:">
-<!ENTITY folderCharsetTab.accesskey              "S">
+<!ENTITY folderCharsetTab.accesskey              "Z">
 <!ENTITY folderCharsetOverride.label             "Standard allen Nachrichten im Ordner zuweisen (individuelle Nachrichtenzeichensatzeinstellungen und autom. Bestimmung werden ignoriert)">
 <!ENTITY folderCharsetOverride.accesskey         "S">
-<!ENTITY folderRebuildSummaryFile.label          "Zusammenfassungsdatei neu erstellen">
-<!ENTITY folderRebuildSummaryFile.accesskey      "Z">
-<!ENTITY folderRebuildSummaryFileTip.label       "Zusammenfassungsdatei neu erstellen">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Zusammenfassungsdatei neu erstellen">
+<!ENTITY folderRebuildSummaryFile2.label         "Ordner reparieren">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "O">
+<!ENTITY folderRebuildSummaryFile.explanation    "Manchmal wird die Ordner-Index-Datei (.msf) beschädigt und Nachrichten können verloren erscheinen oder gelöschte Dateien noch aufscheinen; den Ordner zu reparieren könnte diese Probleme lösen.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Nachrichten dieses Ordners in globalen Suchergebnissen einschließen.">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "N">
 
 <!ENTITY retention.label "Regeln für Lebensdauer">
 <!ENTITY retentionUseAccount.label "Account-Einstellungen verwenden">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "G">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisation">
-<!ENTITY folderCheckForNewMessages.label         "Diesen Ordner auf neue Nachrichten überprüfen">
-<!ENTITY folderCheckForNewMessages.accesskey     "D">
+<!ENTITY folderCheckForNewMessages2.label        "Diesen Ordner immer prüfen, wenn Nachrichten für diesen Account abgefragt werden">
+<!ENTITY folderCheckForNewMessages2.accesskey    "w">
 
 <!ENTITY offlineFolder.check.label               "Diesen Ordner für Offline-Gebrauch auswählen">
 <!ENTITY offlineFolder.check.accesskey           "D">
