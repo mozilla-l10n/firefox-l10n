@@ -18,7 +18,7 @@
 <!ENTITY goBackCmd.label "Wstecz">
 <!ENTITY goBackCmd.accesskey "W">
 <!ENTITY goForwardCmd.label "Dalej">
-<!ENTITY goForwardCmd.accesskey "p">
+<!ENTITY goForwardCmd.accesskey "D">
 <!ENTITY goUpCmd.label "W górę">
 <!ENTITY goUpCmd.accesskey "g">
 <!ENTITY reloadCmd.label "Odśwież">

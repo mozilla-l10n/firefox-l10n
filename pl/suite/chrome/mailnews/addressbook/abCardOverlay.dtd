@@ -84,9 +84,9 @@
 <!ENTITY allowRemoteContent1.tooltip "Wiadomości HTML mogą zawierać zdalną zawartość. Ich otwarcie spowoduje nawiązanie połączenia ze zdalnym zasobem, co może umożliwić nadawcy śledzenie, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli na automatyczne wczytywanie zdalnej zawartości w wiadomościach od tego kontaktu.">
 
 <!ENTITY WorkPhone.label "Praca:">
-<!ENTITY WorkPhone.accesskey "o">
+<!ENTITY WorkPhone.accesskey "P">
 <!ENTITY HomePhone.label "Dom:">
-<!ENTITY HomePhone.accesskey "d">
+<!ENTITY HomePhone.accesskey "D">
 <!ENTITY FaxNumber.label "Faks:">
 <!ENTITY FaxNumber.accesskey "F">
 <!ENTITY PagerNumber.label "Pager:">
@@ -142,7 +142,7 @@
 <!ENTITY WorkWebPage.accesskey "n">
 
 <!ENTITY Other.tab "Inne">
-<!ENTITY Other.accesskey "h">
+<!ENTITY Other.accesskey "e">
 <!ENTITY Custom1.label "Informacja 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Informacja 2:">

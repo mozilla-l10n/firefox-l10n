@@ -43,7 +43,7 @@
 <!ENTITY managedevices.caption "Menedżer urządzeń zabezpieczających">
 <!ENTITY managedevices.text "Naciśnij ten przycisk, aby zarządzać urządzeniami zabezpieczającymi takimi jak karty inteligentne.">
 <!ENTITY managedevices.button "Zarządzaj urządzeniami zabezpieczającymi…">
-<!ENTITY managedevices.accesskey "S">
+<!ENTITY managedevices.accesskey "Z">
 
 <!ENTITY ssl.label "SSL">
 
