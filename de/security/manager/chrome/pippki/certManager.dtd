@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "Eingebaute CAs">
 <!ENTITY certmgr.ca.mycas                     "Von Ihnen verwaltete CAs">
 
-<!ENTITY certmgr.mine.search                  "Suchen:">
-<!ENTITY certmgr.others.search                "Suchen:">
-<!ENTITY certmgr.websites.search              "Suchen:">
-<!ENTITY certmgr.cas.search                   "Suchen:">
-<!ENTITY certmgr.orphans.search               "Suchen:">
-
-<!ENTITY certmgr.mine.description             "Sie haben Zertifikate dieser Organisationen, die Sie identifizieren:">
-<!ENTITY certmgr.others.description           "Sie haben gespeicherte Zertifikate, die diese Personen identifizieren:">
-<!ENTITY certmgr.websites.description         "Sie haben gespeicherte Zertifikate, die diese Server identifizieren:">
-<!ENTITY certmgr.cas.description              "Sie haben gespeicherte Zertifikate, die diese Zertifizierungsstellen identifizieren:">
-<!ENTITY certmgr.orphans.description          "Sie haben Zertifikate gespeichert, die in keine der übrigen Kategorien passen:">
-
-<!ENTITY certmgr.mine.filtered                "Übereinstimmende Zertifikate dieser Organisationen, die Sie identifizieren:">
-<!ENTITY certmgr.others.filtered              "Übereinstimmende gespeicherte Zertifikate, die diese Personen identifizieren:">
-<!ENTITY certmgr.websites.filtered            "Übereinstimmende gespeicherte Zertifikate, die diese Server identifizieren:">
-<!ENTITY certmgr.cas.filtered                 "Übereinstimmende gespeicherte Zertifikate, die diese Zertifizierungsstellen identifizieren:">
-<!ENTITY certmgr.orphans.filtered             "Übereinstimmende gespeicherte Zertifikate, die in keine der übrigen Kategorien passen:">
+<!ENTITY certmgr.mine                         "Sie haben Zertifikate dieser Organisationen, die Sie identifizieren:">
+<!ENTITY certmgr.others                       "Sie haben Zertifikate gespeichert, die diese Personen identifizieren:">
+<!ENTITY certmgr.websites2                    "Sie haben Zertifikate gespeichert, die diese Server identifizieren:">
+<!ENTITY certmgr.cas                          "Sie haben Zertifikate gespeichert, die diese Zertifizierungsstellen identifizieren:">
+<!ENTITY certmgr.orphans                      "Sie haben Zertifikate gespeichert, die in keine der übrigen Kategorien passen:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Allgemein">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "c">
 <!ENTITY certmgr.view2.label                  "Ansehen…">
 <!ENTITY certmgr.view2.accesskey              "A">
-<!ENTITY certmgr.edit2.label                  "Bearbeiten…">
-<!ENTITY certmgr.edit2.accesskey              "B">
+<!ENTITY certmgr.edit3.label                  "Vertrauen bearbeiten…">
+<!ENTITY certmgr.edit3.accesskey              "b">
 <!ENTITY certmgr.editca.label                 "CA-Vertrauen bearbeiten">
 <!ENTITY certmgr.editca.accesskey             "V">
 <!ENTITY certmgr.add.label                    "Hinzufügen">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Löschen…">
 <!ENTITY certmgr.delete2.accesskey            "L">
+<!ENTITY certmgr.delete_builtin.label         "Löschen oder Vertrauen entziehen…">
+<!ENTITY certmgr.delete_builtin.accesskey     "n">
 <!ENTITY certmgr.backup2.label                "Sichern…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Alle sichern…">
