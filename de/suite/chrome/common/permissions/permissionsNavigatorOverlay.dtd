@@ -29,10 +29,10 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "G">
 <!ENTITY cookieBlockImagesMsg.label "Grafiken von dieser Website werden nie heruntergeladen.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "Pop-ups von dieser Website erlauben">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
-<!ENTITY cookieManagePopups.label                    "Pop-ups verwalten">
-<!ENTITY cookieManagePopups.accesskey                "v">
+<!ENTITY cookieAllowPopupsCmd.label "Pop-ups von dieser Website erlauben">
+<!ENTITY cookieAllowPopupsCmd.accesskey "P">
+<!ENTITY cookieManagePopups.label "Pop-ups verwalten">
+<!ENTITY cookieManagePopups.accesskey "v">
 
 <!ENTITY cookieCookieManager.label "Cookie-Manager">
 <!ENTITY cookieCookieManager.accesskey "C">

@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label					"Hilfe"> 
 <!ENTITY helpMenu.accesskey				"H"> 
 
+<!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "n">
 <!ENTITY releaseCmd.label				"Release Notes">
 <!ENTITY releaseCmd.accesskey                   "R">
 <!ENTITY updateCmd.label                        "Nach Updates suchen…">

@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -156,15 +157,10 @@
 <!ENTITY redoDefaultCmd.label "Wiederholen">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"Nachrichten-Symbolleiste">
-<!ENTITY showMessengerToolbarCmd.accesskey	"N">
- 
-<!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"Suchleiste">
-<!ENTITY showSearchToolbarCmd.accesskey	"S">
-
-<!ENTITY showLocationToolbarCmd.label "Adress-Symbolleiste">
-<!ENTITY showLocationToolbarCmd.accesskey "A">
+<!ENTITY showMessengerToolbarCmd.label "Nachrichten-Symbolleiste">
+<!ENTITY showMessengerToolbarCmd.accesskey "N">
+<!ENTITY showSearchToolbarCmd.label "Suchleiste">
+<!ENTITY showSearchToolbarCmd.accesskey "S">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Kein Junk">
+<!ENTITY searchButton.title "Erweiterte Suche">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menüleiste">
 <!ENTITY mailToolbar.tooltip "Nachrichten-Symbolleiste">
-<!ENTITY locationToolbar.tooltip "Adress-Symbolleiste">
+<!ENTITY searchToolbar.tooltip "Suchleiste">
 <!ENTITY advancedButton.tooltip "Erweiterte Nachrichtensuche">
 <!ENTITY getMsgButton.tooltip "Neue Nachrichten abfragen">
 <!ENTITY newMsgButton.tooltip "Neue Nachricht verfassen">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Betreff oder Adresse suchen">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
+<!ENTITY searchButton.label "Nachrichten suchen…">
+<!ENTITY searchButton.accesskey "s">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
@@ -608,3 +606,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; hält diese Nachricht für E-Mail-Scam.">
 <!ENTITY removePhishingBarButton.label "Kein Scam">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Der Absender dieser Nachricht hat um eine Bestätigung angefragt, wenn Sie die Nachricht lesen. Soll der Absender benachrichtigt werden?">
+<!ENTITY mdnBarIgnoreButton.label "Anfrage ignorieren">
+<!ENTITY mdnBarSendButton.label "Bestätigung senden">

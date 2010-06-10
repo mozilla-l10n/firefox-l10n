@@ -3,8 +3,8 @@
 <!ENTITY     div.bannedservers.label        "Websites, die Cookies auf Ihrem Computer speichern dürfen oder nicht, verwalten.">
 <!ENTITY     div.cookiesonsystem.label      "Auf Ihrem Computer gespeicherte Cookies ansehen und löschen.">
 <!ENTITY     treehead.cookiename.label      "Cookie-Name">
-<!ENTITY     treehead.cookiedomain.label    "Website"> 
-<!ENTITY     treehead.cookieexpires.label   "Läuft ab"> 
+<!ENTITY     treehead.cookiedomain.label    "Website">
+<!ENTITY     treehead.cookieexpires.label   "Läuft ab">
 <!ENTITY     treehead.infoselected.label    "Information über den ausgewählten Cookie">
 <!ENTITY     button.removecookie.label      "Cookie löschen">
 <!ENTITY     button.removecookie.accesskey  "k">

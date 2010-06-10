@@ -2,7 +2,7 @@
 <!ENTITY name.label                    "Name:">
 <!ENTITY name.accesskey                "N">
 <!ENTITY description.label             "Erstellen als Unterordner von:">
-<!ENTITY description.accesskey         "E">
+<!ENTITY description.accesskey         "s">
 
 <!ENTITY searchTermCaption.label       "Die Suchkriterien für diesen gespeicherten Suchordner konfigurieren:">
 
@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label            "Online suchen (Ergibt aktuelle Ergebnisse für IMAP und News-Ordner, aber verlängert die Zeit, um den Ordner zu öffnen)">
 <!ENTITY searchOnline.accesskey        "O">
+<!ENTITY newFolderButton.label         "Erstellen">
+<!ENTITY newFolderButton.accesskey     "E">
+<!ENTITY editFolderButton.label        "Aktualisieren">
+<!ENTITY editFolderButton.accesskey    "A">
