@@ -118,7 +118,7 @@
 <!ENTITY  securityView.privacy.viewCookies              "Seall na briosgaidean">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "A bheil mi air facal-faire a shàbhaladh airson na làraich-lìn seo?">
-<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire a tha air a shàbhaladh">
+<!ENTITY  securityView.privacy.viewPasswords            "Seall na faclan-faire sàbhalaichte">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Mion-fhiosrachadh teicnigeach">
