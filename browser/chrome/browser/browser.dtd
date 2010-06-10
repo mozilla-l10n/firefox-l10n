@@ -193,9 +193,9 @@
 
 <!ENTITY historyMenu.label "Eachdraidh">
 <!ENTITY historyMenu.accesskey "E">
-<!ENTITY historyUndoMenu.label "Tabaichean a chaidh a dhùnadh o chionn ghoirid">
+<!ENTITY historyUndoMenu.label "Tabaichean a dhùin thu o chionn ghoirid">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Uinneagan a chaidh a dhùnadh o chionn ghoirid">
+<!ENTITY historyUndoWindowMenu.label "Uinneagan a dhùin thu o chionn ghoirid">
 
 <!ENTITY historyHomeCmd.label "Dhachaigh">
 <!ENTITY showAllHistoryCmd2.label "Seall an eachdraidh gu lèir">

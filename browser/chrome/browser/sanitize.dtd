@@ -10,8 +10,8 @@
 <!ENTITY clearTimeDuration.label          "Raon ama ri ghlanadh: ">
 <!ENTITY clearTimeDuration.accesskey      "R">
 <!ENTITY clearTimeDuration.lastHour       "An uair a thìde seo chaidh">
-<!ENTITY clearTimeDuration.last2Hours     "An dà uair a thìde seo chaidh">
-<!ENTITY clearTimeDuration.last4Hours     "Na ceithir uairean a thìde seo chaidh">
+<!ENTITY clearTimeDuration.last2Hours     "An 2 uair a thìde seo chaidh">
+<!ENTITY clearTimeDuration.last4Hours     "Na 4 uairean a thìde seo chaidh">
 <!ENTITY clearTimeDuration.today          "An-diugh">
 <!ENTITY clearTimeDuration.everything     "A h-uile rud">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
