@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; neu starten">
 <!ENTITY blocklist.accept.accesskey  "n">
+
+<!ENTITY blocklist.blocked.label     "Blockiert">
+<!ENTITY blocklist.checkbox.label    "Deaktiviert">
