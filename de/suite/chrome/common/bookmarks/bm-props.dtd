@@ -103,6 +103,6 @@
 <!ENTITY notification.sound.label     "Einen Klang abspielen">
 <!ENTITY notification.sound.accesskey "E">
 <!ENTITY notification.alert.label     "Eine Alarmnachricht anzeigen">
-<!ENTITY notification.alert.accesskey "E">
+<!ENTITY notification.alert.accesskey "A">
 <!ENTITY notification.window.label    "Seite in neuem Fenster öffnen">
-<!ENTITY notification.window.accesskey "S">
+<!ENTITY notification.window.accesskey "F">
