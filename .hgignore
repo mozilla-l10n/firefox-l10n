@@ -4,6 +4,7 @@ syntax: glob
 *.pyc
 *.swp
 *.presilme
+.project
 Makefile
 # switch to regexp syntax.
 syntax: regexp

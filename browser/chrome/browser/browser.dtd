@@ -209,8 +209,8 @@
 <!ENTITY viewToolbarsMenu.accesskey     "П"> 
 <!ENTITY viewSidebarMenu.label "Бічна панель">
 <!ENTITY viewSidebarMenu.accesskey "ч">
-<!ENTITY viewCustomizeToolbar.label       "Налаштувати панелі інструментів"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "ш">
+<!ENTITY viewCustomizeToolbar.label       "Налаштувати…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "л">
 <!ENTITY viewTabsOnTop.label            "Вкладки зверху">
 <!ENTITY viewTabsOnTop.accesskey        "в">
 
