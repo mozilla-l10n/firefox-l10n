@@ -123,8 +123,8 @@
 
 <!ENTITY keywordfield.label           "Amestar una pallabra clave pa esta gueta...">
 <!ENTITY keywordfield.accesskey       "p">
-<!ENTITY search.label                 "Búsqueda na web">
-<!ENTITY search.accesskey             "B">
+<!ENTITY search.label                 "Gueta na web">
+<!ENTITY search.accesskey             "G">
 <!ENTITY downloads.label              "Descargues">
 <!ENTITY downloads.tooltip            "Amuesa'l progresu de les descargues en cursu">
 <!ENTITY downloads.accesskey          "D">
@@ -202,9 +202,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Buscar en marcadores ya hestorial">
+<!ENTITY urlbar.bookmarkhistory.emptyText "Guetar en marcadores ya hestorial">
 <!ENTITY urlbar.bookmark.emptyText    "Guetar marcadores">
-<!ENTITY urlbar.history.emptyText     "Hestorial de búsquedes">
+<!ENTITY urlbar.history.emptyText     "Hestorial de gueta">
 <!ENTITY urlbar.none.emptyText        "Introduz una direición Web">
 <!ENTITY urlbar.accesskey             "d">
 
@@ -410,8 +410,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Buscar nesta páxina">
-<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.label     "Guetar nesta páxina">
+<!ENTITY findOnCmd.accesskey "G">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Repetir la gueta">
 <!ENTITY findAgainCmd.accesskey "R">

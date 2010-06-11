@@ -20,8 +20,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Buscar:">
-<!ENTITY     filter.accesskey               "B">
+<!ENTITY     filter.label                   "Guetar:">
+<!ENTITY     filter.accesskey               "G">
 
 <!ENTITY     button.close.label             "Pesllar">
 <!ENTITY     button.close.accesskey         "P">

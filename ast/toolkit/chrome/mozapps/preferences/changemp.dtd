@@ -1,5 +1,5 @@
 <!ENTITY setPassword.title                 "Camudar contraseña mayestra">
-<!ENTITY setPassword.tokenName.label       "Dispositivu de seguridá">
+<!ENTITY setPassword.tokenName.label       "Preséu de seguridá">
 <!ENTITY setPassword.oldPassword.label     "Contraseña autual:">
 <!ENTITY setPassword.newPassword.label     "Nueva contraseña:">
 <!ENTITY setPassword.reenterPassword.label "Nueva contraseña (confirmar):">

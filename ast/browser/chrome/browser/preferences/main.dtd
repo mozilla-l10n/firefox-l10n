@@ -12,8 +12,8 @@
 <!ENTITY useMultiple.label         "Usar páxines actuales">
 <!ENTITY useBookmark.label         "Usar marcador">
 <!ENTITY useBookmark.accesskey     "m">
-<!ENTITY restoreDefault.label      "Restaurar al valor por omisión">
-<!ENTITY restoreDefault.accesskey  "v">
+<!ENTITY restoreDefault.label      "Restaurar preconfiguráu">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Descargues">
 
@@ -23,8 +23,8 @@
 <!ENTITY closeWhenDone.accesskey "u">
 <!ENTITY saveTo.label "Guardar ficheros en">
 <!ENTITY saveTo.accesskey "G">
-<!ENTITY chooseFolderWin.label        "Desaminar…">
-<!ENTITY chooseFolderWin.accesskey    "s">
+<!ENTITY chooseFolderWin.label        "Restolar…">
+<!ENTITY chooseFolderWin.accesskey    "R">
 <!ENTITY chooseFolderMac.label        "Elexir…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Entrugame siempres aú guardar los ficheros">

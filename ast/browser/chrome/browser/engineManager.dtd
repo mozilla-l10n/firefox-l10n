@@ -1,6 +1,6 @@
 <!ENTITY  engineManager.title       "Alministrar la llista de buscadores">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "Dispón de los siguientes motores de búsqueda instalaos:">
+<!ENTITY  engineManager.intro       "Dispón de los siguientes motores de gueta instalaos:">
 
 <!ENTITY  columnLabel.name          "Nome">
 <!ENTITY  columnLabel.keyword       "Pallabra clave">
@@ -15,10 +15,10 @@
 <!ENTITY  edit.label                "Editar pallabra clave…">
 <!ENTITY  edit.accesskey            "E">
 
-<!ENTITY  addEngine.label           "Obtener más motores de búsqueda…">
+<!ENTITY  addEngine.label           "Amestar más motores de gueta…">
 <!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY  enableSuggest.label       "Amosar suxerencies de búsqueda">
+<!ENTITY  enableSuggest.label       "Amosar suxerencies a gueta">
 <!ENTITY  enableSuggest.accesskey   "s">
 
 <!ENTITY  restoreDefaults.label     "Editar pallabra clave…">

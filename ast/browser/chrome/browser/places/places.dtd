@@ -34,7 +34,7 @@
 
 <!ENTITY cmd.findInBookmarks.label      "Alcontrar en marcadores…">
 <!ENTITY cmd.findInBookmarks.accesskey  "m">
-<!ENTITY cmd.findCurrent.label          "Buscar na colleición autual…">
+<!ENTITY cmd.findCurrent.label          "Guetar na colleición autual…">
 <!ENTITY cmd.findCurrent.accesskey      "u">
 
 <!ENTITY cmd.exportHTML.label           "Esportar HTML">
@@ -136,8 +136,8 @@
 <!ENTITY col.dateadded.label     "Amestáu">
 <!ENTITY col.lastmodified.label  "Cabera modificación">
 
-<!ENTITY search.label                              "Búsqueda">
-<!ENTITY search.accesskey                          "B">
+<!ENTITY search.label                              "Gueta">
+<!ENTITY search.accesskey                          "G">
 <!ENTITY search.scopeFolder.label                  "Carpeta seleicionada">
 <!ENTITY search.scopeFolder.accesskey              "C">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
@@ -146,12 +146,12 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Hestorial">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Amosar constructor de búsqueda">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Soverar constructor de búsqueda">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Amosar constructor de gueta">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Soverar constructor de gueta">
 <!ENTITY saveSearch.label                          "Guardar">
 <!ENTITY saveSearch.accesskey                      "G">
 <!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Buscar namái marcadores">
+<!ENTITY advancedSearch.onlybookmarked.label       "Guetar namái marcadores">
 <!ENTITY advancedSearch.match.label                "Coincide con">
 <!ENTITY advancedSearch.all.label                  "too">
 <!ENTITY advancedSearch.any.label                  "cualesquier">

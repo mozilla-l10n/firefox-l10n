@@ -96,7 +96,7 @@
 <!ENTITY certmgr.certserver                   "Sirvidor">
 <!ENTITY certmgr.typesofoverrides             "Esceiciones">
 <!ENTITY certmgr.override_lifetime            "Vida útil">
-<!ENTITY certmgr.tokenname                    "Dispositivu de seguridá">
+<!ENTITY certmgr.tokenname                    "Preséu de seguridá">
 <!ENTITY certmgr.purpose                      "Envises">
 <!ENTITY certmgr.issued                       "Emitíu el">
 <!ENTITY certmgr.expires                      "Expira el">

@@ -6,12 +6,12 @@
 
 <!ENTITY useCursorNavigation.label       "Usar siempres les tecles del cursor pa restolar dientro de les páxines">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Buscar testu mientres s'escribe">
+<!ENTITY searchStartTyping.label         "Guetar testu mientres s'escribe">
 <!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Avisame de les páxines web qu'intenten redireicionar o recargar la páxina">
+<!ENTITY blockAutoRefresh.label          "Avisame qué páxines intenten redireicionar o recargar">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY browsing.label                  "Ñavegación">
+<!ENTITY browsing.label                  "Navegación">
 
 <!ENTITY useAutoScroll.label             "Usar desplazamientu automáticu">
 <!ENTITY useAutoScroll.accesskey         "a">
@@ -21,7 +21,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Por defeutu">
-<!ENTITY alwaysCheckDefault.label        "Comprobar siempres si &brandShortName; ye'l restolador por defeutu al arrancar"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Comprobar nel aniciu si &brandShortName; ye'l restolador por defeutu"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "s">
 <!ENTITY checkNow.label                  "Comprobar agora">
 <!ENTITY checkNow.accesskey              "p">
@@ -69,12 +69,12 @@
 <!ENTITY updateHistory.label             "Amosar hestorial d'anovamientos">
 <!ENTITY updateHistory.accesskey         "m">
 
-<!ENTITY offlineNotify.label             "Avisame cuanto un sitiu entrugue pa guardar datos pal usu en mou desconexón">
+<!ENTITY offlineNotify.label             "Avisame cuanto s'entrugue pa guardar datos en mou desconexón">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Esceiciones...">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
 
-<!ENTITY offlineAppsList.label           "Los siguientes sitios web tienen datos guardaos pal usu en mou ensin conexón:">
+<!ENTITY offlineAppsList.label           "Sitios web que tienen datos guardaos pal mou ensin conexón:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Esaniciar...">
 <!ENTITY offlineAppsListRemove.accesskey "i">
@@ -95,9 +95,9 @@
 <!ENTITY certs.ask.accesskey             "g">
 <!ENTITY viewCerts.label                 "Ver certificaos">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "Llistes de revocación">
+<!ENTITY viewCRLs.label                  "Llistes revocación">
 <!ENTITY viewCRLs.accesskey              "r">
 <!ENTITY verify2.label                   "Validación">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "Dispositivos de seguridá">
+<!ENTITY viewSecurityDevices.label       "Preseos de seguridá">
 <!ENTITY viewSecurityDevices.accesskey   "o">

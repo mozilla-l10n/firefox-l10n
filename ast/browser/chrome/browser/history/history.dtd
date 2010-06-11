@@ -1,5 +1,5 @@
-<!ENTITY find.label                "Buscar:">
-<!ENTITY find.accesskey            "B">
+<!ENTITY find.label                "Guetar:">
+<!ENTITY find.accesskey            "G">
 <!ENTITY expand.label              "Espandir">
 <!ENTITY expand.accesskey          "E">
 <!ENTITY collapse.label            "Contrayer">

@@ -7,13 +7,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nun se pue coneutar">
-<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun pudo afitar una conexón</p><ul><li>¿Pue ser que'l sitiu nun tea afayaízu de mou temporal?</li><li>¿Nun pue restolador per otros sitios? Comprebe la conexón de rede del equipu</li><li>¿Ta el so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na ñavegación.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun pudo afitar una conexón</p><ul><li>¿Pue ser que'l sitiu nun tea afayaízu de mou temporal?</li><li>¿Nun pue restolador per otros sitios? Comprebe la conexón de rede del equipu</li><li>¿Ta el so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Esti puertu ta restrinxíu por razones de seguridá">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Direición non alcontrada">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Fexo un error al escribir el dominiu? (p. ej. <q><strong>ww</strong>.mozilla.org</q> n'arróu de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿Ta xuru de qu'esiste esti dominiu?  La so data de rexistru pudo haber caducao.</li><li>¿Nun ye quien a restolar per otros sitios? Comprebe la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta'l so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na ñavegación.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Fexo un error al escribir el dominiu? (p. ej. <q><strong>ww</strong>.mozilla.org</q> n'arróu de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿Ta xuru de qu'esiste esti dominiu?  La so data de rexistru pudo haber caducao.</li><li>¿Nun ye quien a restolar per otros sitios? Comprebe la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta'l so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró el ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se tenga renomao, desaniciao o camudáu el so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru error al escribir la direición?</li><li>¿Tien privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
@@ -43,7 +43,7 @@
 <!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, torne a intentalo.</p>">
 
 <!ENTITY netTimeout.title "La conexón caducó">
-<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Torne a tentalo más sero.</li><li>¿Nun pue restolar per otros sitios? Comprebe la conexón de rede del equipu.</li><li>¿Ta el so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na ñavegación.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Torne a tentalo más sero.</li><li>¿Nun pue restolar per otros sitios? Comprebe la conexón de rede del equipu.</li><li>¿Ta el so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY protocolNotFound.title "La direición nun ye entendible">
 <!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun se pue coneutar al sitiu correchamente.</p><ul><li>¿Ta tentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Comprebe los requisitos adicionales del sitiu.</li><li>Dalgunos protocolos puen necesitar software de terceros o complementos enantes de que'l restolador pueda reconocelos.</li></ul>">
