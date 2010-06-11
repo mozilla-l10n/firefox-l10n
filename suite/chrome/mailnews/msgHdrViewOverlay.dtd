@@ -19,20 +19,20 @@
 <!ENTITY editMessage.label "Изменить черновик…">
 <!ENTITY editMessage.accesskey "з">
 <!ENTITY attachmentsTree.label "Вложения:">
-<!ENTITY attachmentsTree.accesskey "л">
+<!ENTITY attachmentsTree.accesskey "ж">
 <!ENTITY openAttachmentCmd.label "Открыть">
-<!ENTITY openAttachmentCmd.accesskey "О">
+<!ENTITY openAttachmentCmd.accesskey "т">
 <!ENTITY viewAttachmentCmd.label "Просмотр исходного кода">
-<!ENTITY viewAttachmentCmd.accesskey "х">
+<!ENTITY viewAttachmentCmd.accesskey "м">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
 <!ENTITY saveAsAttachmentCmd.accesskey "к">
 <!ENTITY detachAttachmentCmd.label "Отделить…">
-<!ENTITY detachAttachmentCmd.accesskey "О">
+<!ENTITY detachAttachmentCmd.accesskey "д">
 <!ENTITY deleteAttachmentCmd.label "Удалить">
-<!ENTITY deleteAttachmentCmd.accesskey "У">
+<!ENTITY deleteAttachmentCmd.accesskey "а">
 <!ENTITY saveAllAttachmentsCmd.label "Сохранить все…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "С">
+<!ENTITY saveAllAttachmentsCmd.accesskey "х">
 <!ENTITY detachAllAttachmentsCmd.label "Отделить все…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "О">
+<!ENTITY detachAllAttachmentsCmd.accesskey "е">
 <!ENTITY deleteAllAttachmentsCmd.label "Удалить все…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "У">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "и">
