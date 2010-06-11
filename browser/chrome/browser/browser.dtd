@@ -41,8 +41,8 @@
 <!ENTITY openFileCmd.label "Відкрити файл…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Макет сторінки…">
-<!ENTITY printSetupCmd.accesskey "М">
+<!ENTITY printSetupCmd.label "Параметри сторінки…">
+<!ENTITY printSetupCmd.accesskey "с">
 <!ENTITY printPreviewCmd.label "Попередній перегляд">
 <!ENTITY printPreviewCmd.accesskey "р">
 <!ENTITY printCmd.label "Друкувати…">
