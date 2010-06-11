@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label 					  "Procurar">
 <!ENTITY view.discover.label                  "Obter extras">
-<!ENTITY view.languages.label                 "Idiomas">
+<!ENTITY view.locales.label                 "Idiomas">
 <!ENTITY view.searchengines.label             "Motores de pesquisa">
 <!ENTITY view.features.label                  "Extensões">
 <!ENTITY view.appearance.label                "Temas">
