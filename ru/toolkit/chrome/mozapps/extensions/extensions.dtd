@@ -6,7 +6,7 @@
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY view.search.label "Поиск">
 <!ENTITY view.discover.label "Получить дополнения">
-<!ENTITY view.languages.label "Языки">
+<!ENTITY view.locales.label "Языки">
 <!ENTITY view.searchengines.label "Поисковые системы">
 <!ENTITY view.features.label "Расширения">
 <!ENTITY view.appearance.label "Темы">
