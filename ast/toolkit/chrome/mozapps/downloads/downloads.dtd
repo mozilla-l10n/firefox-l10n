@@ -17,7 +17,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "E">
 <!ENTITY cmd.show.label                   "Abrir carpeta contenedora">
 <!ENTITY cmd.show.accesskey               "b">
-<!ENTITY cmd.showMac.label                "Amosar nel buscador">
+<!ENTITY cmd.showMac.label                "Amosar nel guetador">
 <!ENTITY cmd.showMac.accesskey            "m">
 <!ENTITY cmd.open.label                   "Abrir">
 <!ENTITY cmd.open.accesskey               "A">

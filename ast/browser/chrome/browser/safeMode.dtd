@@ -54,8 +54,8 @@
 <!ENTITY resetUserPrefs.label         "Restaurar toles preferencies d'usuariu predeterminaes de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Restaurar buscadores predeterminaos">
-<!ENTITY restoreSearch.accesskey      "s">
+<!ENTITY restoreSearch.label          "Restaurar guetadores predeterminaos">
+<!ENTITY restoreSearch.accesskey      "R">
 
 <!ENTITY changeAndRestartButton.label "Aplicar cambeos y reaniciar">
 <!ENTITY continueButton.label         "Continuar en mou seguru">

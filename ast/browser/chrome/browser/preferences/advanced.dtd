@@ -57,8 +57,8 @@
 <!ENTITY enableAppUpdate.accesskey       "o">
 <!ENTITY enableAddonsUpdate2.label       "Complementos">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Buscadores">
-<!ENTITY enableSearchUpdate.accesskey    "B">
+<!ENTITY enableSearchUpdate.label        "Guetadores">
+<!ENTITY enableSearchUpdate.accesskey    "G">
 <!ENTITY whenUpdatesFound.label          "Cuando s'alcuentren anovamientos pa &brandShortName;:">
 <!ENTITY askMe.label                     "Entrugar qué facer">
 <!ENTITY askMe.accesskey                 "q">
