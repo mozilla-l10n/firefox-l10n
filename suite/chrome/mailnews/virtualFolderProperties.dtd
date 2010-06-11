@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Pesquisar Ligado (Dá resultados actualizados para as pastas IMAP e notícias mas aumenta o tempo de abertura da pasta)">
 <!ENTITY searchOnline.accesskey "P">
+<!ENTITY newFolderButton.label         "Criar">
+<!ENTITY newFolderButton.accesskey     "r">
+<!ENTITY editFolderButton.label        "Actualizar">
+<!ENTITY editFolderButton.accesskey    "u">
