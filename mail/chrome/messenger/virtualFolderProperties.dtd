@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Pencarian Daring (untuk memberikan hasil terbaru pada folder IMAP dan news walaupun menjadikan waktu membuka folder lebih lama)">
 <!ENTITY searchOnline.accesskey "D">
+<!ENTITY newFolderButton.label       "Buat">
+<!ENTITY newFolderButton.accesskey   "t">
+<!ENTITY editFolderButton.label      "Perbarui">
+<!ENTITY editFolderButton.accesskey  "i">
