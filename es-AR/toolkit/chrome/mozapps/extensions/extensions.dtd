@@ -5,11 +5,12 @@
 <!ENTITY listEmpty.search.label               "No se pudo encontrar ningún agregado que coincida">
 <!ENTITY listEmpty.button.label               "Conocer más sobre agregados">
 
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obtener agregados">
-<!ENTITY view.languages.label                 "Idiomas">
+<!ENTITY view.locales.label                   "Idiomas">
 <!ENTITY view.searchengines.label             "Buscadores">
 <!ENTITY view.features.label                  "Extensiones">
 <!ENTITY view.appearance.label                "Temas">
