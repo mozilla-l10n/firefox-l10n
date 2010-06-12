@@ -7,8 +7,12 @@
 <!ENTITY searchTermCaption.label "Kriterien für die Suche dieses virtuellen Ordners:">
 
 <!ENTITY folderSelectionCaption.label "Diese Ordner durchsuchen:">
-<!ENTITY chooseFoldersButton.label "Auswählen…">
+<!ENTITY chooseFoldersButton.label     "Auswählen…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Online suchen (Aktuelle Ergebnisse bei IMAP- und News-Konten - Öffnen des virtuellen Ordners dauert länger)">
+<!ENTITY searchOnline.label     "Online suchen (Aktuelle Ergebnisse bei IMAP- und News-Konten - Öffnen des virtuellen Ordners dauert länger)">
 <!ENTITY searchOnline.accesskey "O">
+<!ENTITY newFolderButton.label       "Erstellen">
+<!ENTITY newFolderButton.accesskey   "E">
+<!ENTITY editFolderButton.label      "Aktualisieren">
+<!ENTITY editFolderButton.accesskey  "A">
