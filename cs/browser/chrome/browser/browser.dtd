@@ -11,8 +11,30 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Anonymní prohlížení)">
 
+<!-- Tab context menu -->
+<!ENTITY newTab.label "Nový panel">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY reloadTab.label "Obnovit panel">
+<!ENTITY reloadTab.accesskey "O">
+<!ENTITY reloadAllTabs.label "Obnovit všechny panely">
+<!ENTITY reloadAllTabs.accesskey "b">
+<!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
+<!ENTITY closeOtherTabs.accesskey "s">
+<!ENTITY openTabInNewWindow.label "Otevřít v novém okně">
+<!ENTITY openTabInNewWindow.accesskey "v">
+<!ENTITY bookmarkThisTab.label "Přidat tento panel do záložek…">
+<!ENTITY bookmarkThisTab.accesskey "P">
+<!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
+<!ENTITY bookmarkAllTabs.accesskey "d">
+<!ENTITY undoCloseTab.label "Otevřít zavřený panel">
+<!ENTITY undoCloseTab.accesskey "t">
+<!ENTITY closeTab.label "Zavřít panel">
+<!ENTITY closeTab.accesskey "Z">
+
+<!ENTITY listAllTabs.label "Seznam všech panelů">
+
 <!ENTITY tabCmd.label "Nový panel">
-<!ENTITY tabCmd.accesskey "p">
+<!ENTITY tabCmd.accesskey "N">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Otevřít adresu…">
 <!ENTITY openLocationCmd.accesskey "O">
@@ -131,12 +153,15 @@
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Správce doplňků">
-<!ENTITY addons.tooltip "Zobrazí Správce doplňků">
 <!ENTITY addons.accesskey "d">
 
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY inspectMenu.label "Prozkoumat">
+<!ENTITY inspectMenu.accesskey "T">
+<!ENTITY inspectMenu.commandkey "I">
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
@@ -187,9 +212,11 @@
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
-<!ENTITY viewSidebarMenu.accesskey "P">
+<!ENTITY viewSidebarMenu.accesskey "s">
 <!ENTITY viewCustomizeToolbar.label "Vlastní…">
 <!ENTITY viewCustomizeToolbar.accesskey "V">
+<!ENTITY viewTabsOnTop.label "Panely navrchu">
+<!ENTITY viewTabsOnTop.accesskey "P">
 
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyMenu.accesskey "H">
@@ -202,11 +229,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Hledejte v záložkách a historii">
-<!ENTITY urlbar.bookmark.emptyText "Hledejte v záložkách">
-<!ENTITY urlbar.history.emptyText "Hledejte v historii">
-<!ENTITY urlbar.none.emptyText "Zadejte webovou adresu">
+<!ENTITY urlbar.placeholder "Přejít na web">
 <!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.switchToTab.label "Přepnout na panel:">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -450,3 +475,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Klepnutí otevře správce stahování">
 
 <!ENTITY allTabs.filter.emptyText "Prohledat panely">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Ouška panelů">

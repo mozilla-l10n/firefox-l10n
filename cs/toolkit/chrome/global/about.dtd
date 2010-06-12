@@ -6,17 +6,23 @@
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.credits.afterLink " projektu Mozilla.">
 
-<!ENTITY about.license.beforeLink "Další informace viz">
-<!ENTITY about.license.linkTitle "licence">
-<!ENTITY about.license.afterLink "tohoto produktu">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.license.beforeTheLink "Zobrazit ">
+<!ENTITY about.license.linkTitle "licenci">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink " tohoto produktu.">
 
-<!ENTITY about.relnotes.beforeLink "Zobrazit">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.relnotes.beforeTheLink "Zobrazit ">
 <!ENTITY about.relnotes.linkTitle "poznámky k vydání">
-<!ENTITY about.relnotes.afterLink "této verze.">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink " této verze.">
 
-<!ENTITY about.buildconfig.beforeLink "Zobrazit">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "Zobrazit ">
 <!ENTITY about.buildconfig.linkTitle "konfiguraci sestavení">
-<!ENTITY about.buildconfig.afterLink "použitou pro tuto verzi.">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink " použitou pro tuto verzi.">
 
 <!ENTITY about.buildIdentifier "Identifikátor sestavení: ">
 

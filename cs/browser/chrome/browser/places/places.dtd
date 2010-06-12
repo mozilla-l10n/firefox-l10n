@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey "a">
 <!ENTITY views.label "Zobrazení">
 <!ENTITY views.accesskey "Z">
-<!ENTITY view.toolbar.label "Nástrojové lišty">
-<!ENTITY view.toolbar.accesskey "N">
 <!ENTITY view.columns.label "Zobrazené sloupce">
 <!ENTITY view.columns.accesskey "b">
 <!ENTITY view.sort.label "Řazení položek">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label "Zvolit soubor…">
 <!ENTITY cmd.restoreFromFile.accesskey "v">
 
-<!ENTITY cmd.select_all.label "Vybrat vše">
-<!ENTITY cmd.select_all.accesskey "a">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "Vyjmout">
-<!ENTITY cmd.edit_cut.accesskey "V">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Kopírovat">
-<!ENTITY cmd.edit_copy.accesskey "K">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Vložit">
-<!ENTITY cmd.edit_paste.accesskey "l">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Smazat">
-<!ENTITY cmd.edit_delete.accesskey "m">
-<!ENTITY cmd.edit_undo.label "Zpět">
-<!ENTITY cmd.edit_undo.accesskey "Z">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Znovu">
-<!ENTITY cmd.edit_redo.accesskey "o">
-<!ENTITY cmd.edit_redo.key "y">
-
 <!ENTITY cmd.bookmarkLink.label "Přidat stránku do záložek…">
 <!ENTITY cmd.bookmarkLink.accesskey "P">
 <!ENTITY cmd.delete.label "Smazat tuto stránku">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label "Vlastnosti">
 <!ENTITY cmd.properties.accesskey "V">
 
-<!ENTITY cmd.rename.label "Přejmenovat">
-<!ENTITY cmd.rename.accesskey "P">
-
 <!ENTITY cmd.sortby_name.label "Seřadit podle jména">
 <!ENTITY cmd.sortby_name.accesskey "S">
 <!ENTITY cmd.context_sortby_name.accesskey "S">
 
 <!ENTITY cmd.new_bookmark.label "Nová záložka…">
 <!ENTITY cmd.new_bookmark.accesskey "N">
-<!ENTITY cmd.new_livemark.label "Nová aktuální záložka…">
-<!ENTITY cmd.new_livemark.accesskey "a">
 <!ENTITY cmd.new_folder.label "Nová složka…">
 <!ENTITY cmd.new_folder.accesskey "v">
 <!ENTITY cmd.context_new_folder.accesskey "s">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey "U">
 
 <!ENTITY cmd.find.key "f">
-
-<!ENTITY feed.subscribe.label "Kanál">
-<!ENTITY feed.subscribe.tooltip "Odebírat">
 
 <!ENTITY maintenance.label "Import a záloha">
 <!ENTITY maintenance.accesskey  "I">
