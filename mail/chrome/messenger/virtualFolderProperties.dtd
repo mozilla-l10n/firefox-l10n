@@ -2,7 +2,7 @@
 <!ENTITY name.label                 "Name des virtuellen Ordners:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Erstellen als Unterordner von:">
-<!ENTITY description.accesskey      "E">
+<!ENTITY description.accesskey      "s">
 
 <!ENTITY searchTermCaption.label "Kriterien für die Suche dieses virtuellen Ordners:">
 
