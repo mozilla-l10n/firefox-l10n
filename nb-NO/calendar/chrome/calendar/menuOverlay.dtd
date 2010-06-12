@@ -68,16 +68,16 @@
 <!ENTITY calendar.export.selection.accesskey    "S">
 
 <!ENTITY calendar.publish.label                 "Publiser …">
-<!ENTITY calendar.publish.accesskey             "b">
+<!ENTITY calendar.publish.accesskey             "P">
 
 <!ENTITY calendar.deletecalendar.label          "Slett valgt kalender …">
-<!ENTITY calendar.deletecalendar.accesskey      "e">
+<!ENTITY calendar.deletecalendar.accesskey      "S">
 
 <!ENTITY calendar.menu.customize.label          "Tilpass …">
 <!ENTITY calendar.menu.customize.accesskey      "T">
 
 <!ENTITY showUnifinderCmd.label                 "Finn hendelser">
-<!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.accesskey             "h">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Vis oppgaver i kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "p">

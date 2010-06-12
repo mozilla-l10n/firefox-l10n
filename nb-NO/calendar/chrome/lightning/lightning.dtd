@@ -68,7 +68,7 @@
 <!ENTITY lightning.menu.view.calendar.label            "Kalender">
 <!ENTITY lightning.menu.view.calendar.accesskey        "K">
 <!ENTITY lightning.menu.view.tasks.label               "Oppgaver">
-<!ENTITY lightning.menu.view.tasks.accesskey           "O">
+<!ENTITY lightning.menu.view.tasks.accesskey           "a">
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Hendelser og oppgaver">
