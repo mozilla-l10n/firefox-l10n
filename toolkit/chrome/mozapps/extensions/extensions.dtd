@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Cari">
 <!ENTITY view.discover.label                  "Unduh Pengaya">
-<!ENTITY view.languages.label                 "Bahasa">
+<!ENTITY view.locales.label                   "Bahasa">
 <!ENTITY view.searchengines.label             "Mesin Pencari">
 <!ENTITY view.features.label                  "Ekstensi">
 <!ENTITY view.appearance.label                "Tema">
