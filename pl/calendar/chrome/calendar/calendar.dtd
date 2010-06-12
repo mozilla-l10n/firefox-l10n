@@ -246,7 +246,7 @@
 <!ENTITY calendar.context.newserver.label              "Nowy kalendarz…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Znajdź kalendarz…" >
-<!ENTITY calendar.context.findcalendar.accesskey       "F" >
+<!ENTITY calendar.context.findcalendar.accesskey       "Z" >
 <!ENTITY calendar.context.deleteserver.label           "Usuń kalendarz">
 <!ENTITY calendar.context.deleteserver.accesskey       "U">
 <!ENTITY calendar.context.reloadserver.label           "Odśwież zdalne kalendarze">
