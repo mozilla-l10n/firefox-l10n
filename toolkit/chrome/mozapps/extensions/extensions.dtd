@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Doorzoeken">
 <!ENTITY view.discover.label                  "Add-ons verkrijgen">
-<!ENTITY view.languages.label                 "Talen">
+<!ENTITY view.locales.label                   "Talen">
 <!ENTITY view.searchengines.label             "Zoekmachines">
 <!ENTITY view.features.label                  "Extensies">
 <!ENTITY view.appearance.label                "Thema’s">
