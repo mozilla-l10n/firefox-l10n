@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Sök">
 <!ENTITY view.discover.label                  "Hämta tillägg">
-<!ENTITY view.languages.label                 "Språk">
+<!ENTITY view.locales.label                   "Språk">
 <!ENTITY view.searchengines.label             "Sökmotorer">
 <!ENTITY view.features.label                  "Tillägg">
 <!ENTITY view.appearance.label                "Teman">
