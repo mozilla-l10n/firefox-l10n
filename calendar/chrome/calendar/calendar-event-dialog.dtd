@@ -119,8 +119,8 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "K">
 <!ENTITY  event.menu.edit.paste.label                     "Lim inn">
 <!ENTITY  event.menu.edit.paste.accesskey                 "L">
-<!ENTITY  event.menu.edit.select.all.label                "Velg alle">
-<!ENTITY  event.menu.edit.select.all.accesskey            "a">
+<!ENTITY  event.menu.edit.select.all.label                "Merk alt">
+<!ENTITY  event.menu.edit.select.all.accesskey            "M">
 
 <!ENTITY  event.menu.view.label                           "Vis">
 <!ENTITY  event.menu.view.accesskey                       "V">
@@ -366,7 +366,7 @@
 <!ENTITY event.freebusy.legend.unknown          "Ingen informasjon" >
 <!ENTITY event.attendee.role.required           "Deltakelse obligatorisk">
 <!ENTITY event.attendee.role.optional           "Deltakelse valgfritt">
-<!ENTITY event.attendee.role.chair              "Leder">
+<!ENTITY event.attendee.role.chair              "Møteleder">
 <!ENTITY event.attendee.role.nonparticipant     "Deltar ikke">
 
 <!-- Timezone dialog -->
