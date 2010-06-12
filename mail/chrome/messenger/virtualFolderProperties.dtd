@@ -12,3 +12,8 @@
 
 <!ENTITY searchOnline.label "Online zoeken (Geeft up-to-date resultaten voor IMAP- en nieuwsmappen, maar het duurt langer om de map te openen)">
 <!ENTITY searchOnline.accesskey "O">
+<!ENTITY newFolderButton.label       "Maken">
+<!ENTITY newFolderButton.accesskey   "k">
+<!ENTITY editFolderButton.label      "Bijwerken">
+<!ENTITY editFolderButton.accesskey  "B">
+
