@@ -51,7 +51,7 @@
 <!ENTITY font.langGroup.telugu "Telugština">
 <!ENTITY font.langGroup.kannada "Kannadština">
 <!ENTITY font.langGroup.sinhala "Sinhalština">
-<!ENTITY  font.langGroup.tibetan "Tibetština">
+<!ENTITY font.langGroup.tibetan "Tibetština">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimální velikost fontů:">
 <!ENTITY minSize.accesskey "M">

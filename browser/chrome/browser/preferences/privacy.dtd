@@ -57,11 +57,11 @@
 <!ENTITY dontrememberActions.clearHistory.label "vymazat celou historii">
 <!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingPermanent.label "Trvalý režim anonymního prohlížení">
-<!ENTITY privateBrowsingPermanent.accesskey "T">
+<!ENTITY privateBrowsingPermanent.label "Stálý režim anonymního prohlížení">
+<!ENTITY privateBrowsingPermanent.accesskey "S">
 
 <!ENTITY rememberHistory.label "Pamatovat si historii stránek">
-<!ENTITY rememberHistory.accesskey "P">
+<!ENTITY rememberHistory.accesskey "h">
 
 <!ENTITY rememberDownload.label "Pamatovat si historii stahování">
 <!ENTITY rememberDownload.accesskey "P">
