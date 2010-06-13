@@ -14,3 +14,7 @@
 <!ENTITY language.auto "Autodetekce">
 <!ENTITY defaultBrowser.title "Výchozí prohlížeč">
 <!ENTITY defaultBrowser.description "Nastavit &brandShortName; jako výchozí prohlížeč">
+<!ENTITY homepage.title "Startovní stránka">
+<!ENTITY homepage.none "Prázná stránka">
+<!ENTITY homepage.default "&brandShortName; start">
+<!ENTITY homepage.currentpage "Aktuální stránka">
