@@ -47,7 +47,7 @@
 <!ENTITY pixelsPopup.value "圖素">
 <!ENTITY alignmentBox.label "對齊">
 <!ENTITY leftRadio.label "靠左">
-<!ENTITY leftRadio.accessKey "g">
+<!ENTITY leftRadio.accessKey "L">
 <!ENTITY centerRadio.label "靠中">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "靠右">

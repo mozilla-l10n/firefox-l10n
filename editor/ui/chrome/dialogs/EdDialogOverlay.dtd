@@ -37,7 +37,7 @@
 
 <!ENTITY AdvancedEditButton.label "進階編輯…">
 <!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "編輯這個物件的特有屬性">
+<!ENTITY AdvancedEditButton.tooltip "新增或編輯這個物件的 HTML 屬性、樣式資料，以及 JavaScript">
 <!ENTITY chooseFileButton.label "選擇檔案…">
 <!ENTITY chooseFileButton.accessKey "F">
 <!ENTITY chooseFileLinkButton.label "選擇檔案…">
@@ -47,5 +47,5 @@
 <!ENTITY makeUrlRelative.tooltip "相對與絕對路徑的轉換。您要先存檔才能改變此頁。">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "輸入網址、檔案路徑，或由選單中選取:">
+<!ENTITY LinkURLEditField.label "輸入網址、本地檔案路徑，或由選單中選取一個錨點或是標題:">
 <!ENTITY LinkURLEditField.accessKey "g">

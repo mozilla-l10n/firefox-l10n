@@ -45,7 +45,7 @@
 <!ENTITY ListNickName.label             "群組暱稱: ">
 <!ENTITY ListDescription.label          "描述: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "在下列輸入要加入群組寄信名單中的 Email 地址:">
+<!ENTITY AddressTitle.label             "輸入 Email 地址以加入群組信名單:">
 <!ENTITY UpButton.label                 "上移">
 <!ENTITY DownButton.label               "下移">
 

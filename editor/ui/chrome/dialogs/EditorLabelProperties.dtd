@@ -43,7 +43,7 @@
 <!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "對此控制項(Control):">
 <!ENTITY LabelFor.accesskey "F">
-<!ENTITY AccessKey.label "存取鍵:">
+<!ENTITY AccessKey.label "快速鍵:">
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveLabel.label "移除標籤">

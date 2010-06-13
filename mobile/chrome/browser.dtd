@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "在此加入書籤">
 
-<!ENTITY helperApp.prompt          "您要如何處理">
-<!ENTITY helperApp.open            "開啟">
-<!ENTITY helperApp.save            "儲存">
-<!ENTITY helperApp.nothing         "不使用">
-
 <!ENTITY formHelper.previous       "上一個">
 <!ENTITY formHelper.next           "下一個">
 <!ENTITY formHelper.done           "完成">

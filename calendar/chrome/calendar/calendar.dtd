@@ -265,7 +265,7 @@
 <!ENTITY calendar.context.convertmenu.task.label         "工作…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "迷您月">
+<!ENTITY calendar.tasks.view.minimonth.label           "小型月曆">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "行事曆清單">

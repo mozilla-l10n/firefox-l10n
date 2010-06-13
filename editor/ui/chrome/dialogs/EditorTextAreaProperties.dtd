@@ -50,7 +50,7 @@
 <!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "選取順序(Tab Index):">
 <!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "存取鍵:">
+<!ENTITY TextAreaAccessKey.label "快速鍵:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
 <!ENTITY InitialText.label "文字初始值">
 <!ENTITY InitialText.accessKey "T">

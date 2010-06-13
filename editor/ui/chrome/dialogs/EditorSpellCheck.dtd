@@ -60,7 +60,7 @@
 <!ENTITY addToUserDictionaryButton.label "增加單字">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "編輯…">
-<!ENTITY editUserDictionaryButton.accessKey "k">
+<!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "重新檢查頁面">
 <!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "關閉">
@@ -68,4 +68,4 @@
 <!ENTITY sendButton.label "寄送">
 <!ENTITY sendButton.accessKey "S">
 <!ENTITY languagePopup.label "語言:">
-<!ENTITY languagePopup.accessKey "g">
+<!ENTITY languagePopup.accessKey "L">

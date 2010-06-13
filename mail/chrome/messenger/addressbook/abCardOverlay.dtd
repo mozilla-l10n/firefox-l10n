@@ -79,7 +79,7 @@
 <!ENTITY ScreenName.label               "網路代號:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "允許遠端內容">
+<!ENTITY allowRemoteContent1.label      "允許遠端內容。">
 <!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "HTML 格式的郵件可能嵌入遠端內容到郵件中。打開這類郵件時將會同時開啟億個遠端連線讀取嵌入的遠端內容來源。此動作有可能被利用來偵測該郵件已被讀取。勾選此選項將會允許在 HTML 郵件中載入遠端內容。">
 
@@ -115,7 +115,7 @@
 <!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "年">
 <!ENTITY Or.value                       "或">
-<!ENTITY Age.emptytext                  "經過時間">
+<!ENTITY Age.emptytext                  "年齡">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "商務">

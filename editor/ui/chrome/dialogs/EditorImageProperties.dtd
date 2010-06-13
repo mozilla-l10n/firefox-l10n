@@ -60,7 +60,7 @@
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "實際大小:">
-<!ENTITY actualSizeRadio.label "實際大小:">
+<!ENTITY actualSizeRadio.label "實際大小">
 <!ENTITY actualSizeRadio.accessKey "A">
 <!ENTITY actualSizeRadio.tooltip "使用此圖片的原始大小">
 <!ENTITY customSizeRadio.label "自定大小">
@@ -92,7 +92,7 @@
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "空白">
 <!ENTITY leftRightEditField.label "左右兩邊">
-<!ENTITY leftRightEditField.accessKey "g">
+<!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "頂端和底部:">
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "實心框線:">

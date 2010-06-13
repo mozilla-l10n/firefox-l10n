@@ -52,7 +52,7 @@
 <!ENTITY hline.label            "水平線">
 <!ENTITY table.label            "表格">
 <!ENTITY link.label             "鏈結">
-<!ENTITY anchor.label           "鏈結目標">
+<!ENTITY anchor.label           "錨點">
 
 <!ENTITY formatting.caption     "在格式工具列上顯示這些按鈕:">
 

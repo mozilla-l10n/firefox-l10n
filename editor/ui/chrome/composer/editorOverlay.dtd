@@ -71,7 +71,7 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY exportToTextCmd.label "輸出文字…">
 <!ENTITY exportToTextCmd.accesskey "t">
-<!ENTITY saveAsChangeEncodingCmd.label "另存字元編碼方式">
+<!ENTITY saveAsChangeEncodingCmd.label "另存新檔並修改字元編碼">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY previewCmd.label "用瀏覽器預覽">
 <!ENTITY previewCmd.accesskey "w">
@@ -125,7 +125,7 @@
 <!ENTITY insertLinkCmd.label "鏈結…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "插入鏈結目標…">
+<!ENTITY insertAnchorCmd.label "插入錨點…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "圖片…">
 <!ENTITY insertImageCmd.accesskey "I">
@@ -141,7 +141,7 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(無搜尋建議)">
+<!ENTITY spellCheckNoSuggestions.label "(無拼字建議)">
 <!ENTITY spellCheckIgnoreWord.label "忽略單字">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "加入字典">
@@ -255,7 +255,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "移除鏈結目標">
+<!ENTITY formatRemoveNamedAnchors.label "移除錨點">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors.key "A">
 
@@ -428,12 +428,12 @@
 <!ENTITY tableToolbarCmd.tooltip "插入新表格或設定已選取表格">
 <!ENTITY linkToolbarCmd.label "鏈結">
 <!ENTITY linkToolbarCmd.tooltip "插入新鏈結或設定已選取鏈結">
-<!ENTITY anchorToolbarCmd.label "鏈結目標">
-<!ENTITY anchorToolbarCmd.tooltip "插入新鏈結目標或設定已選取鏈結目標">
+<!ENTITY anchorToolbarCmd.label "錨點">
+<!ENTITY anchorToolbarCmd.tooltip "插入新錨點或設定選取的錨點內容">
 <!ENTITY TextColorButton.tooltip "選擇文字顏色">
 <!ENTITY BackgroundColorButton.tooltip "選擇背景顏色">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
-<!ENTITY HighlightColorButton.tooltip "選擇文字時(高亮度)的顏色">
+<!ENTITY HighlightColorButton.tooltip "選擇高亮度文字的顏色">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "字型縮小">
@@ -446,7 +446,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "文字向左縮排">
 <!ENTITY indentToolbarCmd.tooltip "文字向右縮排">
 <!ENTITY AlignPopupButton.tooltip "選擇文字對齊方式">
-<!ENTITY InsertPopupButton.tooltip "插入一個鏈結、圖片、水平線或是表格">
+<!ENTITY InsertPopupButton.tooltip "插入一個鏈結、錨點、圖片、水平線或是表格">
 <!ENTITY alignLeftButton.tooltip "將文字對齊左邊界">
 <!ENTITY alignCenterButton.tooltip "將文字對齊中央">
 <!ENTITY alignRightButton.tooltip "將文字對齊右邊界">
@@ -456,10 +456,10 @@
 <!ENTITY NormalModeTab.label "正常">
 <!ENTITY NormalMode.label "標準編輯模式">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "顯示表格框線與鏈結目標">
+<!ENTITY NormalMode.tooltip "顯示表格框線與錨點">
 <!ENTITY AllTagsMode.label "HTML 標籤">
 <!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "顯示所有HTML標籤的圖示">
+<!ENTITY AllTagsMode.tooltip "顯示所有 HTML 標籤的圖示">
 
 <!ENTITY HTMLSourceMode.label "HTML 原始碼">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->

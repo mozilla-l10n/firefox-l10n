@@ -36,7 +36,7 @@
 
 <!-- Calendar Invitations Dialog -->
 <!ENTITY calendar.invitations.dialog.invitations.text                   "邀請">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "更新邀請函清單。">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "正在更新邀請清單。">
 <!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "沒有找到未確認的邀請.">
 
 <!-- Calendar Invitations List -->

@@ -52,7 +52,7 @@
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "已停用">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "存取鍵:">
+<!ENTITY AccessKey.label "快速鍵:">
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveButton.label "移除按鈕">

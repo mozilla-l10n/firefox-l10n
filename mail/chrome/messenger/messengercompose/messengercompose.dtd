@@ -160,7 +160,7 @@
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "郵件與新聞群組">
 <!ENTITY messengerCmd.accesskey "M">
-<!ENTITY messengerCmd.commandkey "0">
+<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "通訊錄">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">

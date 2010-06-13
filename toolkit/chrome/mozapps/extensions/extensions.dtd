@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "搜尋">
 <!ENTITY view.discover.label                  "取得元件">
-<!ENTITY view.languages.label                 "語言套件">
+<!ENTITY view.locales.label                   "語言套件">
 <!ENTITY view.searchengines.label             "搜尋引擎">
 <!ENTITY view.features.label                  "擴充套件">
 <!ENTITY view.appearance.label                "佈景主題">
@@ -86,10 +86,8 @@
 
 
 <!ENTITY showMore.label                       "顯示更多">
-<!ENTITY showMore.accesskey                   "m">
 <!ENTITY showMore.tooltip                     "顯示更多資訊">
 <!ENTITY showLess.label                       "顯示更少">
-<!ENTITY showLess.accesskey                   "l">
 <!ENTITY showLess.tooltip                     "顯示更少資訊">
 
 <!ENTITY search.filter.label                  "顯示:">

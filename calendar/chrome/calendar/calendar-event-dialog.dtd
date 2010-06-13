@@ -63,7 +63,7 @@
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "待處理" >
 <!ENTITY newevent.status.inprogress.label         "進行中" >
-<!ENTITY newevent.status.completed.label          "完成日期" >
+<!ENTITY newevent.status.completed.label          "完成於" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; 完成">

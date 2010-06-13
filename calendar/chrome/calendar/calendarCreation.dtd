@@ -35,7 +35,7 @@
 
 <!ENTITY wizard.title             "建立新的行事曆" >
 <!ENTITY wizard.label             "建立新的行事曆" >
-<!ENTITY wizard.description       "設定您的行事曆" >
+<!ENTITY wizard.description       "搜尋您的行事曆" >
 
 <!ENTITY initialpage.description    "您的行事曆可以存放在電腦或存放在伺服器，以便於遠端存取或與朋友及同事分享。" >
 <!ENTITY initialpage.computer.label  "存放於本機電腦">
