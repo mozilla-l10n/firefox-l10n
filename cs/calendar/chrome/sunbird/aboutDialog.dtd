@@ -36,12 +36,12 @@
  - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY aboutDialog.title "O &brandFullName;">
-<!ENTITY copyright.label "Přispěvatelé">
-<!ENTITY copyright.accesskey "P">
+<!ENTITY copyright.label "Autoři">
+<!ENTITY copyright.accesskey "A">
 <!ENTITY aboutLink.label "&lt; O aplikaci &brandFullName;">
 <!ENTITY aboutLink.accesskey "O">
 <!ENTITY aboutVersion "verze">
-<!ENTITY copyrightText "&#169;1998-2008 Přispěvatelé. Všechna práva vyhrazena.
+<!ENTITY copyrightText "&#169;1998-2010 přispěvatelé. Všechna práva vyhrazena.
                         Mozilla Sunbird, Sunbird a logo
                         Sunbird jsou ochranné známky Mozilla
                         Foundation. Všechna práva vyhrazena.">

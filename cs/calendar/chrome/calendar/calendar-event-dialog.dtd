@@ -1,46 +1,46 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
-   -   Michael Buettner <michael.buettner@sun.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Stefan Sitter <ssitter@gmail.com>
-   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
-   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
-   -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Simon Vaillancourt <simon.at.orcl@gmail.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+ - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+ -
+ - The contents of this file are subject to the Mozilla Public License Version
+ - 1.1 (the "License"); you may not use this file except in compliance with
+ - the License. You may obtain a copy of the License at
+ - http://www.mozilla.org/MPL/
+ -
+ - Software distributed under the License is distributed on an "AS IS" basis,
+ - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ - for the specific language governing rights and limitations under the
+ - License.
+ -
+ - The Original Code is OEone Calendar Code, released October 31st, 2001.
+ -
+ - The Initial Developer of the Original Code is
+ - OEone Corporation.
+ - Portions created by the Initial Developer are Copyright (C) 2001
+ - the Initial Developer. All Rights Reserved.
+ -
+ - Contributor(s):
+ - Cédric Corazza <cedric.corazza@wanadoo.fr>
+ - Michael Buettner <michael.buettner@sun.com>
+ - Philipp Kewisch <mozilla@kewis.ch>
+ - Stefan Sitter <ssitter@gmail.com>
+ - Martin Schroeder <mschroeder@mozilla.x-home.org>
+ - Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+ - Fred Jendrzejewski <fred.jen@web.de>
+ - Simon Vaillancourt <simon.at.orcl@gmail.com>
+ -
+ - Alternatively, the contents of this file may be used under the terms of
+ - either the GNU General Public License Version 2 or later (the "GPL"), or
+ - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ - in which case the provisions of the GPL or the LGPL are applicable instead
+ - of those above. If you wish to allow use of your version of this file only
+ - under the terms of either the GPL or the LGPL, and not to allow others to
+ - use your version of this file under the terms of the MPL, indicate your
+ - decision by deleting the provisions above and replace them with the notice
+ - and other provisions required by the LGPL or the GPL. If you do not delete
+ - the provisions above, a recipient may use your version of this file under
+ - the terms of any one of the MPL, the GPL or the LGPL.
+ -
+ - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY event.title.label "Upravit položku">
 
@@ -51,12 +51,14 @@
 
 <!ENTITY newevent.status.label "Stav">
 <!ENTITY newevent.status.accesskey "S">
-<!ENTITY newevent.status.none.label "Neurčeno">
-<!ENTITY newevent.status.none.accesskey "N" >
-<!ENTITY newevent.status.cancelled.label "Zrušeno">
-<!ENTITY newevent.status.cancelled.accesskey "Z" >
+<!ENTITY newevent.eventStatus.none.label "Neurčeno">
+<!ENTITY newevent.eventStatus.none.accesskey "N">
+<!ENTITY newevent.todoStatus.none.label "Neurčeno">
+<!ENTITY newevent.eventStatus.cancelled.label "Zrušeno">
+<!ENTITY newevent.eventStatus.cancelled.accesskey "Z">
+<!ENTITY newevent.todoStatus.cancelled.label "Zrušeno">
 <!ENTITY newevent.status.tentative.label "Nezávazně">
-<!ENTITY newevent.status.tentative.accesskey "e" >
+<!ENTITY newevent.status.tentative.accesskey "e">
 <!ENTITY newevent.status.confirmed.label "Potvrzeno">
 <!ENTITY newevent.status.confirmed.accesskey "P" >
 <!ENTITY newevent.status.needsaction.label "Vyžaduje akci">
@@ -65,28 +67,44 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label "&#37; dokončeno">
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2 "I">
+<!ENTITY event.dialog.new.task.key2 "D">
+<!ENTITY event.dialog.new.message.key2 "N">
+<!ENTITY event.dialog.close.key "W">
+<!ENTITY event.dialog.save.key "S">
+<!ENTITY event.dialog.saveandclose.key "L">
+<!ENTITY event.dialog.print.key "P">
+<!ENTITY event.dialog.undo.key "Z">
+<!ENTITY event.dialog.redo.key "Y">
+<!ENTITY event.dialog.cut.key "X">
+<!ENTITY event.dialog.copy.key "C">
+<!ENTITY event.dialog.paste.key "V">
+<!ENTITY event.dialog.select.all.key "A">
 
 <!-- Menubar -->
-<!ENTITY event.menu.file.label "Soubor">
-<!ENTITY event.menu.file.accesskey "S">
-<!ENTITY event.menu.file.new.label "Nový">
-<!ENTITY event.menu.file.new.accesskey "N">
-<!ENTITY event.menu.file.new.event.label "Událost">
-<!ENTITY event.menu.file.new.event.accesskey "U">
-<!ENTITY event.menu.file.new.message.label "Zpráva">
-<!ENTITY event.menu.file.new.message.accesskey "Z">
-<!ENTITY event.menu.file.new.contact.label "Kontakt">
-<!ENTITY event.menu.file.new.contact.accesskey "K">
-<!ENTITY event.menu.file.close.label "Zavřít">
-<!ENTITY event.menu.file.close.accesskey "Z">
-<!ENTITY event.menu.file.save.label "Uložit">
-<!ENTITY event.menu.file.save.accesskey "l">
-<!ENTITY  event.menu.item.delete.label "Smazat…">
-<!ENTITY  event.menu.item.delete.accesskey "S">
-<!ENTITY event.menu.file.page.setup.label "Vzhled stránky…">
-<!ENTITY event.menu.file.page.setup.accesskey "V">
-<!ENTITY event.menu.file.print.label "Tisk…">
-<!ENTITY event.menu.file.print.accesskey "T">
+<!ENTITY event.menu.item.new.label "Nový">
+<!ENTITY event.menu.item.new.accesskey "N">
+<!ENTITY event.menu.item.new.event.label "Událost">
+<!ENTITY event.menu.item.new.event.accesskey "d">
+<!ENTITY event.menu.item.new.task.label "Úkol">
+<!ENTITY event.menu.item.new.task.accesskey "o">
+<!ENTITY event.menu.item.new.message.label "Zpráva">
+<!ENTITY event.menu.item.new.message.accesskey "Z">
+<!ENTITY event.menu.item.new.contact.label "Kontakt">
+<!ENTITY event.menu.item.new.contact.accesskey "K">
+<!ENTITY event.menu.item.close.label "Zavřít">
+<!ENTITY event.menu.item.close.accesskey "Z">
+<!ENTITY event.menu.item.save.label "Uložit">
+<!ENTITY event.menu.item.save.accesskey "l">
+<!ENTITY  event.menu.item.saveandclose.label "Uložit a zavřít">
+<!ENTITY  event.menu.item.saveandclose.accesskey "U">
+<!ENTITY event.menu.item.delete.label "Smazat…">
+<!ENTITY event.menu.item.delete.accesskey "S">
+<!ENTITY event.menu.item.page.setup.label "Vzhled stránky…">
+<!ENTITY event.menu.item.page.setup.accesskey "V">
+<!ENTITY event.menu.item.print.label "Tisk…">
+<!ENTITY event.menu.item.print.accesskey "T">
 
 <!ENTITY event.menu.edit.label "Úpravy">
 <!ENTITY event.menu.edit.accesskey "a">
@@ -153,15 +171,6 @@
 <!ENTITY event.menu.options.show.time.free.label "Volný">
 <!ENTITY event.menu.options.show.time.free.accesskey "l">
 
-<!ENTITY event.help.label "Nápověda">
-<!ENTITY event.help.accesskey "v">
-<!ENTITY event.help.release.notes.label "Poznámky k vydání">
-<!ENTITY event.help.release.notes.accesskey "P">
-<!ENTITY event.help.help.label "Nápověda aplikace &brandShortName;">
-<!ENTITY event.help.help.accesskey "N">
-<!ENTITY event.help.about.label "O aplikaci &brandShortName;">
-<!ENTITY event.help.about.accesskey "O">
-
 <!ENTITY event.invite.attendees.label "Pozvat účastníky…">
 <!ENTITY event.invite.attendees.accesskey "P">
 <!ENTITY event.email.attendees.label "Napsat e-mail všem účastníkům…">
@@ -171,7 +180,7 @@
 
 <!-- Toolbar -->
 <!ENTITY event.toolbar.save.label "Uložit a zavřít">
-<!ENTITY  event.toolbar.delete.label "Smazat">
+<!ENTITY event.toolbar.delete.label "Smazat">
 <!ENTITY event.toolbar.attendees.label "Pozvat účastníky">
 <!ENTITY event.toolbar.spellcheck.label "Kontrola pravopisu">
 <!ENTITY event.toolbar.privacy.label "Soukromí">
@@ -220,15 +229,13 @@
 <!ENTITY event.priority2.label "Priorita:">
 
 <!ENTITY event.reminder.none.label "Bez připomenutí ">
+<!ENTITY event.reminder.0minutes.before.label "0 minut před">
 <!ENTITY event.reminder.5minutes.before.label "5 minut před">
-<!ENTITY event.reminder.10minutes.before.label "10 minut před">
 <!ENTITY event.reminder.15minutes.before.label "15 minut před">
 <!ENTITY event.reminder.30minutes.before.label "30 minut před">
-<!ENTITY event.reminder.45minutes.before.label "45 minut před">
 <!ENTITY event.reminder.1hour.before.label "1 hodinu před">
 <!ENTITY event.reminder.2hours.before.label "2 hodiny před">
-<!ENTITY event.reminder.5hours.before.label "5 hodin před">
-<!ENTITY event.reminder.15hours.before.label "15 hodin před">
+<!ENTITY event.reminder.12hours.before.label "12 hodin před">
 <!ENTITY event.reminder.1day.before.label "1 den před">
 <!ENTITY event.reminder.2days.before.label "2 dny před">
 <!ENTITY event.reminder.1week.before.label "1 týden před">
@@ -287,11 +294,11 @@
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Každý">
 
 <!-- LOCALIZATON NOTE
-     Some languages use a preposition when describing dates:
-     Portuguese: 6 de Setembro
-     English: 6 [of] September
-     event.recurrence.pattern.yearly.of.label is "of" in
-     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+ Some languages use a preposition when describing dates:
+ Portuguese: 6 de Setembro
+ English: 6 [of] September
+ event.recurrence.pattern.yearly.of.label is "of" in
+ Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label "" >
 
@@ -359,6 +366,7 @@
 <!ENTITY event.attendee.role.required "Vyžadovaný účastník">
 <!ENTITY event.attendee.role.optional "Nepovinný účastník">
 <!ENTITY event.attendee.role.chair "Předsedající">
+<!ENTITY event.attendee.role.nonparticipant "Nezúčastněný">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Vyberte prosím časovou zónu">
