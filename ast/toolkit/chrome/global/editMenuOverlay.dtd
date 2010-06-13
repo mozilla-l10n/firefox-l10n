@@ -21,7 +21,7 @@
 <!ENTITY selectAllCmd.key          "t">
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Guetar">
-<!ENTITY findCmd.key               "G">
+<!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "G">
 <!ENTITY findAgainCmd.label        "Repetir la gueta">
 <!ENTITY findAgainCmd.key          "r">
