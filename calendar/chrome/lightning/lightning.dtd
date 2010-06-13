@@ -72,7 +72,7 @@
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Hendelser og oppgaver">
-<!ENTITY lightning.menu.eventtask.accesskey            "e">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "E-post">
