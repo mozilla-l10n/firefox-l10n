@@ -16,8 +16,8 @@
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "一律不寄出回執">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "如果我不在郵件的收件者 (To) 或副本 (Cc) 列表中:">
-<!ENTITY notInToCc.accesskey          "T">
+<!ENTITY notInToCc.label              "如果我不在郵件的收件者或副本列表中:">
+<!ENTITY notInToCc.accesskey          "t">
 <!ENTITY outsideDomain.label          "如果寄件者在我的網域以外:">
 <!ENTITY outsideDomain.accesskey      "s">
 <!ENTITY otherCases.label             "其它情形:">

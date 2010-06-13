@@ -54,7 +54,7 @@
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新載入">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP2 代理伺服器：">
+<!ENTITY  ftp.label                     "FTP 代理伺服器：">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP 代理伺服器：">
 <!ENTITY  http.accesskey                "y">

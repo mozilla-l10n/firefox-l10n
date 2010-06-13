@@ -45,7 +45,7 @@
 <!ENTITY tree.propertyHeader.label      "屬性">
 <!ENTITY tree.valueHeader.label         "內含值">
 <!ENTITY tabHTML.label                  "HTML 屬性">
-<!ENTITY tabCSS.label                   "內含樣式">
+<!ENTITY tabCSS.label                   "行內樣式">
 <!ENTITY tabJSE.label                   "JavaScript 事件">
 
 <!ENTITY editAttribute.label    "選擇上面的項目以編輯設定值">

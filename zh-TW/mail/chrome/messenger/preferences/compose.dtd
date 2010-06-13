@@ -24,9 +24,9 @@
 <!ENTITY spellCheck.label                     "寄送前先檢查拼字">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "啟用拼字檢查">
-<!ENTITY spellCheckInline1.accesskey          "k">
+<!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "語言:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "下載其它字典">
 
 <!ENTITY warnOnSendAccelKey.label             "用鍵盤快捷鍵發送郵件時需要確認">

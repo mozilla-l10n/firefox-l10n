@@ -160,7 +160,7 @@
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY inspectMenu.label            "檢測">
-<!ENTITY inspectMenu.accesskey        "I">
+<!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY fileMenu.label         "檔案"> 
@@ -229,10 +229,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "搜尋書籤及瀏覽記錄">
-<!ENTITY urlbar.bookmark.emptyText    "搜尋書籤">
-<!ENTITY urlbar.history.emptyText     "搜尋瀏覽記錄">
-<!ENTITY urlbar.none.emptyText        "輸入網址">
+<!ENTITY urlbar.placeholder           "開啟網站">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "切換到分頁:">
 

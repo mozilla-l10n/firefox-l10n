@@ -66,7 +66,7 @@
 <!ENTITY calendar.reloadserver.key                         "R">
 <!ENTITY calendar.reloadserver.accesskey                   "R">
 
-<!ENTITY calendar.publish.calendar.label                   "發佈行事曆… (b)">
+<!ENTITY calendar.publish.calendar.label                   "發佈行事曆…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
 <!ENTITY calendar.publish.selection.label                  "發佈選擇的…">
 <!ENTITY calendar.publish.selection.accesskey              "c">

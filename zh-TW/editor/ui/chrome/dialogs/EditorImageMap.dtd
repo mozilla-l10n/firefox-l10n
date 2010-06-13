@@ -40,7 +40,7 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "圖片 Map 編輯器">
+<!ENTITY windowTitle.label "圖片地圖編輯器">
 
 <!-- Menu Items -->
 <!-- File menu -->

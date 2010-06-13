@@ -40,10 +40,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "另存字元編碼方式">
+<!ENTITY windowTitle.label "另存新檔並修改字元編碼">
 <!ENTITY documentTitleTitle.label "文件標題">
 <!ENTITY documentCharsetTitle.label "語言及字元編碼方式">
-<!ENTITY documentCharsetDesc.label "選擇您想要另存的語言及字元編碼:">
+<!ENTITY documentCharsetDesc.label "選擇您想要把檔案另存成哪種字元編碼:">
 <!ENTITY documentExportToText.label "輸出純文字">
 
 

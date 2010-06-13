@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "鏈結目標設定">
-<!ENTITY anchorNameEditField.label "鏈結目標名稱:">
+<!ENTITY windowTitle.label "錨點內容">
+<!ENTITY anchorNameEditField.label "錨點名稱:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "請輸入一個不會與其它鏈結目標重複的名稱">
+<!ENTITY nameInput.tooltip "請輸入一個不會與其它錨點（目標）重複的名稱">
 
 

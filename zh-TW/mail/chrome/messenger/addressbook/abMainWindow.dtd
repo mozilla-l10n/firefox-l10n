@@ -89,7 +89,7 @@
 <!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
-<!ENTITY firstLastCmd.label                             "[名], [姓] (英式)">
+<!ENTITY firstLastCmd.label                             "[名][姓] (英式)">
 <!ENTITY firstLastCmd.accesskey                         "F"> 
 <!ENTITY lastFirstCmd.label                             "[姓][名] (中式)">
 <!ENTITY lastFirstCmd.accesskey                         "L">
@@ -103,7 +103,7 @@
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "郵件與新聞群組">
 <!ENTITY messengerCmd.accesskey                         "M">
-<!ENTITY messengerCmd.commandkey                        "0">
+<!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "搜尋地址…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "匯入…">

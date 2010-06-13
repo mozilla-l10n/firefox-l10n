@@ -12,13 +12,13 @@
 
 <!ENTITY featureConfigurator.toolbar.heading "新工具列">
 <!ENTITY featureConfigurator.toolbar.new "使用新工具列。">
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "簡潔的工具列，讓您可以快速點擊工具列上的按鈕">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "簡潔的工具列，讓您可以快速點擊工具列上的按鈕。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original "使用原本的工具列。">
-<!ENTITY featureConfigurator.toolbar.original.status.explanation "保留任何自訂的工具列按鈕到新的訊息按鈕之中。">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "保留任何自訂的工具列按鈕到新的郵件工具列之中。">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "一些功能像是回覆和轉寄已經從工具列被移動到每封訊息自己的的檔頭。這樣可以提供您工具列更多的空間給搜尋框與附加元件。">
+<!ENTITY featureConfigurator.toolbarBenefits.para "一些功能像是回覆和轉寄已經從工具列被移動到每封訊息自己的的標頭。這樣可以提供更多的空間給搜尋框與附加元件。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "安裝中…">
@@ -39,7 +39,7 @@
 <!ENTITY featureConfigurator.collapsedHeaders.para.strong "我們發現您原本有使用簡潔的郵件讀取模式。這個功能已被移成一個獨立的附加元件，若您想要繼續使用的話我們建議您到此安裝。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
-<!ENTITY featureConfigurator.collapsedHeaders.install "正在安裝 Compact Header…">
+<!ENTITY featureConfigurator.collapsedHeaders.install "安裝 Compact Header…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
 <!ENTITY featureConfigurator.folderColumns.heading "進階資料夾欄位">
@@ -51,7 +51,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.strong "我們發現您原本有使用進階資料夾欄位。這個功能已被移成一個獨立的附加元件，我們建議您到此安裝。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
-<!ENTITY featureConfigurator.folderColumns.install "正在安裝 Extra Columns…">
+<!ENTITY featureConfigurator.folderColumns.install "安裝 Extra Columns…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
 <!ENTITY featureConfigurator.autoSync.heading "磁碟空間">

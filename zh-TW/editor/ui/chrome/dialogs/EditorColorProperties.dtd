@@ -48,7 +48,7 @@
 <!ENTITY normalText.label "一般文字">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "未瀏覽過的鏈結文字:">
-<!ENTITY linkText.accessKey "g">
+<!ENTITY linkText.accessKey "L">
 <!ENTITY activeLinkText.label "被點選的鏈結文字顏色:">
 <!ENTITY activeLinkText.accessKey "A">
 <!ENTITY visitedLinkText.label "已瀏覽過的鏈結文字:">

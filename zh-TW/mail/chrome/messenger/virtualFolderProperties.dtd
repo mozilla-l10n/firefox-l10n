@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "線上即時搜尋（可取得 IMAP 與新聞群組中最新的內容，不過開啟資料夾時會比較慢）">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label       "建立">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "更新">
+<!ENTITY editFolderButton.accesskey  "U">
