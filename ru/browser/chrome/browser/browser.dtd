@@ -187,6 +187,11 @@
 <!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuPrintCmd.label "Печать">
+<!ENTITY appMenuCustomize.label "Настроить">
+<!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
+<!ENTITY appMenuSidebars.label "Боковые панели">
+<!ENTITY appMenuHelp.label "Справка">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перейти на веб-сайт">
 <!ENTITY urlbar.accesskey "d">
