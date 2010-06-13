@@ -228,6 +228,12 @@
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Tisk">
+<!ENTITY appMenuCustomize.label "Vlastní">
+<!ENTITY appMenuToolbarLayout.label "Rozložení lišt…">
+<!ENTITY appMenuSidebars.label "Postranní lišty">
+<!ENTITY appMenuHelp.label "Nápověda">
+
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Přejít na web">
 <!ENTITY urlbar.accesskey "d">
