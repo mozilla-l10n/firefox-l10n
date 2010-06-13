@@ -1,9 +1,13 @@
-<!ENTITY welcome.title "Vítejte v aplikaci &brandShortName;">
-<!ENTITY intro.description "Synchronizujte svůj mobil a PC pomocí Weave Sync, přispůsobujte pomocí doplňků, brouzdejte pomocí úžasného adresního řádu a mnohem, mnohem více.">
-<!ENTITY weave.title "Buďte synchronní">
-<!ENTITY weave.description "Nainstalujte si Weave a napíchněte se na svůj Firefox. Sdílejte historii, záložky a uložená hesla mezi svým mobilem a PC.">
-<!ENTITY weave.linkLabel "Získat doplněk Weave Sync">
-<!ENTITY getPersonal.title "Buďte individuální">
-<!ENTITY getPersonal.description "Upravte si &brandShortName; podle sebe. Přispůsobte si první mobilní prohlížeč rozšířitelný doplňky.">
-<!ENTITY getPersonal.linkLabel "Získat doplňky pro mobil.">
-
+<!ENTITY firstrun.title "Vítejte v aplikaci &brandShortName;">
+<!ENTITY firstrun.heading "Abychom vám pomohli začít, nabízíme vám některé odkazy pro seznámení a vylepšení aplikace &brandShortName;.">
+<!ENTITY firstrun.recommended "Doporučené:">
+<!ENTITY firstrun.weave.title "Získat doplněk Weave Sync">
+<!ENTITY firstrun.weave.description "Sdílejte historii, záložky a uložená hesla mezi svým mobilem a PC.">
+<!ENTITY firstrun.starter.title "Získat startovní balíček">
+<!ENTITY firstrun.starter.description "Nainstalujte si tyto doporučené doplňky a vylepšete si svůj &brandShortName;">
+<!ENTITY firstrun.tour.title "Spustit prohlídku">
+<!ENTITY firstrun.tour.description "Prohlédněte si toto video a seznamte se se všemi skvělými vlastnostmi">
+<!ENTITY firstrun.features "Zobrazit více vlastností">
+<!ENTITY firstrun.faq "Časté otázky">
+<!ENTITY firstrun.privacy "Zásady ochrany soukromí">
+<!ENTITY firstrun.follow "Sledujte nás na:">

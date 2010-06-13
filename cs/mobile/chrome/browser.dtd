@@ -1,3 +1,5 @@
+<!ENTITY urlbar.emptytext "Vložte adresu nebo hledejte">
+
 <!ENTITY back.label "Zpět">
 <!ENTITY forward.label "Vpřed">
 <!ENTITY reload.label "Obnovit">
@@ -24,11 +26,6 @@
 <!ENTITY editBookmarkRemove.label "Odebrat">
 <!ENTITY editBookmarkDone.label "Hotovo">
 <!ENTITY editBookmarkTags.label "Přidat štítky">
-
-<!ENTITY helperApp.prompt "Jakou akci si přejete provést?">
-<!ENTITY helperApp.open "Otevřít">
-<!ENTITY helperApp.save "Uložit">
-<!ENTITY helperApp.nothing "Nic">
 
 <!ENTITY formHelper.previous "Předchozí">
 <!ENTITY formHelper.next "Další">
@@ -66,8 +63,6 @@
 <!ENTITY noResults.label "Žádné výsledky">
 <!ENTITY allBookmarks.label "Zobrazit všechny záložky">
 
-<!ENTITY searchEngine.addSearch "Přidat hledání:">
-
 <!ENTITY bookmarkPopup.label "Založené stránky">
 <!ENTITY bookmarkRemove.label "Odebrat">
 <!ENTITY bookmarkEdit.label "Upravit">
@@ -92,3 +87,6 @@
 <!ENTITY consoleErrFile.label "Zdrojový soubor:">
 <!ENTITY consoleErrLine.label "Řádek:">
 <!ENTITY consoleErrColumn.label "Sloupec:">
+
+<!ENTITY contextOpenInNewTab.label "Otevřít odkaz v novém panelu">
+<!ENTITY contextSaveImage.label "Uložit obázek">
