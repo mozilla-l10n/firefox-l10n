@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Suchen">
 <!ENTITY view.discover.label                  "Add-ons suchen">
-<!ENTITY view.languages.label                 "Sprachen">
+<!ENTITY view.locales.label                   "Sprachen">
 <!ENTITY view.searchengines.label             "Suchmaschinen">
 <!ENTITY view.features.label                  "Erweiterungen">
 <!ENTITY view.appearance.label                "Themes">
@@ -18,7 +18,7 @@
 
 <!-- addon updates -->
 <!ENTITY updates.updateNow.label              "Add-ons aktualisieren">
-<!ENTITY updates.updating.label               "Add-ons aktualisieren">
+<!ENTITY updates.updating.label               "Add-ons werden aktualisiert">
 <!ENTITY updates.installed.label              "Ihre Add-ons wurden aktualisiert.">
 <!ENTITY updates.downloaded.label             "Ihre Add-ons wurden heruntergeladen.">
 <!ENTITY updates.restart.label                "Jetzt neu starten, um die Installation abzuschließen">
