@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "U">
 <!ENTITY fccReplyFollowsParent.label "Uložit odpovědi ve složce zprávy, na kterou je odpovídáno">
 <!ENTITY fccReplyFollowsParent.accesskey "e">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Kopie na další adresy:">
+<!ENTITY ccAddress.accesskey "K">
+<!ENTITY ccAddressList.emptytext "Čárkou oddělený seznam adres">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Skryté kopie jiných adres:">
 <!ENTITY bccAddress.accesskey "S">
+<!ENTITY bccAddressList.emptytext "Čárkou oddělený seznam adres">
 <!ENTITY saveMessageDlg.label "Zobrazit potvrzení při ukládání zpráv">
 <!ENTITY saveMessageDlg.accesskey "Z">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

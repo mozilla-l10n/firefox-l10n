@@ -19,7 +19,7 @@
 <!ENTITY selectProfile.title "Zvolte profil">
 <!ENTITY selectProfile.label "Importovat je možné z následujících profilů:">
 
-<!ENTITY migrating.title "Importuji…">
+<!ENTITY migrating.title "Importování…">
 <!ENTITY migrating.label "Následující položky jsou nyní importovány…">
 
 <!ENTITY done.title "Import byl dokončen">

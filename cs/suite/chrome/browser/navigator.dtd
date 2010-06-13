@@ -110,7 +110,7 @@
 <!ENTITY goHomeCmd.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Záložky">
-<!ENTITY bookmarksMenu.accesskey "o">
+<!ENTITY bookmarksMenu.accesskey "Z">
 <!ENTITY addCurPageCmd.label "Přidat k záložkám">
 <!ENTITY addCurPageCmd.accesskey "P">
 <!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
@@ -119,7 +119,7 @@
 <!ENTITY addCurTabsAsCmd.label "Přidat skupinu panelů k záložkám…">
 <!ENTITY addCurTabsAsCmd.accesskey "K">
 <!ENTITY manBookmarksCmd.label "Správce záložek…">
-<!ENTITY manBookmarksCmd.accesskey "Z">
+<!ENTITY manBookmarksCmd.accesskey "S">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Odebírat tuto stránku">
 <!ENTITY feedsMenu.accesskey "O">

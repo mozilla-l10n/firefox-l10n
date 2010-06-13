@@ -15,7 +15,7 @@
 <!ENTITY organization.accesskey "S">
 <!ENTITY signatureText.label "Text podpisu:">
 <!ENTITY signatureText.accesskey "T">
-<!ENTITY signatureHtml.label "Použít HTML (např. &lt;b&gt;tučně&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Použít HTML (např. &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Připojit podpis ze souboru (text, HTML nebo obrázek):">
 <!ENTITY signatureFile.accesskey "P">

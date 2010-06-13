@@ -24,39 +24,39 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, je-li dostupné">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Použít zabezpečenou autentizaci">
-<!ENTITY useSecAuth.accesskey "z">
+<!ENTITY authMethod.label "Způsob autentizace:">
+<!ENTITY authMethod.accesskey "Z">
 <!ENTITY leaveOnServer.label "Ponechat zprávy na serveru">
 <!ENTITY leaveOnServer.accesskey "h">
 <!ENTITY headersOnly.label "Stahovat pouze hlavičky zpráv">
 <!ENTITY headersOnly.accesskey "h">
-<!ENTITY deleteByAgeFromServer.label "Smazat zprávy na serveru starší více jak">
-<!ENTITY deleteByAgeFromServer.accesskey "m">
-<!ENTITY daysEnd.label "dny(ů)">
-<!ENTITY deleteOnServer2.label "Dokud je nesmažu">
-<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY deleteByAgeFromServer.label "nejdéle po dobu">
+<!ENTITY deleteByAgeFromServer.accesskey "d">
+<!ENTITY daysEnd.label "dnů">
+<!ENTITY deleteOnServer2.label "dokud je nesmažu">
+<!ENTITY deleteOnServer2.accesskey "m">
 <!ENTITY downloadOnBiff.label "Automaticky stahovat nové zprávy">
-<!ENTITY downloadOnBiff.accesskey "a">
+<!ENTITY downloadOnBiff.accesskey "A">
 <!ENTITY username.label "Vaše přihlašovací jméno">
 <!ENTITY deleteMessagePrefix.label "Při odstranění zprávy:">
 <!ENTITY modelMoveToTrash.label "Přesunout zprávu do koše">
-<!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Označit zprávu jako odstraněnou">
-<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelMoveToTrash.accesskey "k">
+<!ENTITY modelMarkDeleted.label "Označit zprávu jako smazanou">
+<!ENTITY modelMarkDeleted.accesskey "s">
 <!ENTITY modelDeleteImmediately.label "Odstranit zprávu okamžitě">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Při ukončení vymazat obsah složky s doručenou poštou">
-<!ENTITY expungeOnExit.accesskey "K">
+<!ENTITY expungeOnExit.label "Při ukončení provést údržbu složky s doručenou poštou">
+<!ENTITY expungeOnExit.accesskey "u">
 <!ENTITY emptyTrashOnExit.label "Při ukončení vysypat koš">
 <!ENTITY emptyTrashOnExit.accesskey "y">
 <!ENTITY loginAtStartup.label "Po spuštění zkontrolovat nové zprávy">
-<!ENTITY loginAtStartup.accesskey "Z">
+<!ENTITY loginAtStartup.accesskey "z">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Zobrazit dotaz před nahráním více než">
+<!ENTITY maxMessagesStart.label "Zobrazit dotaz před načtením více než">
 <!ENTITY maxMessagesStart.accesskey "d">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "zpráv">
@@ -68,11 +68,11 @@
 <!ENTITY abbreviateOn.label "Celá jména (např.: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšířené…">
+<!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset.label "Výchozí znaková sada:">
-<!ENTITY advancedButton.accesskey "r">
-<!ENTITY localFolderPicker.label "Vybrat místní adresář">
+<!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY newsrcPicker.label "Vyberte soubor newsrc">
 <!ENTITY browseNewsrc.label "Procházet…">
-<!ENTITY browseNewsrc.accesskey "p">
+<!ENTITY browseNewsrc.accesskey "P">

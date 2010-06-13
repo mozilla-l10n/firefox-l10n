@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -158,13 +159,8 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
-
-<!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label "Lišta vyhledávání">
 <!ENTITY showSearchToolbarCmd.accesskey "v">
-
-<!ENTITY showLocationToolbarCmd.label "Lišta navigace">
-<!ENTITY showLocationToolbarCmd.accesskey "N">
 
 <!ENTITY messagePaneLayoutStyle.label "Rozmístění">
 <!ENTITY messagePaneLayoutStyle.accesskey "m">
@@ -333,9 +329,6 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Zpráva">
 <!ENTITY newNewMsgCmd.accesskey "Z">
-<!ENTITY archiveMsgCmd.label "Archiv">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
 <!ENTITY replyMsgCmd.key "r">
@@ -364,6 +357,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Vytvořit filtr ze zprávy…">
 <!ENTITY createFilter.accesskey "v">
+<!ENTITY archiveMsgCmd.label "Archivovat">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Přesunout do">
 <!ENTITY moveMsgToMenu.accesskey "P">
 <!ENTITY copyMessageLocation.label "Kopírovat adresu zprávy">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Zastavit">
 <!ENTITY junkButton.label "Nevyžádané">
 <!ENTITY notJunkButton.label "Není nevyžádaná">
+<!ENTITY searchButton.title "Rozšířené hledání">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Nabídka">
 <!ENTITY mailToolbar.tooltip "Lišta pošty">
-<!ENTITY locationToolbar.tooltip "Lišta navigace">
+<!ENTITY searchToolbar.tooltip "Lišta hledání">
 <!ENTITY advancedButton.tooltip "Rozšířené vyhledávání zpráv">
 <!ENTITY getMsgButton.tooltip "Přijme nové zprávy">
 <!ENTITY newMsgButton.tooltip "Vytvoří novou zprávu">
@@ -524,8 +521,6 @@
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextEditAsNew.label "Upravit jako novou…">
 <!ENTITY contextEditAsNew.accesskey "n">
-<!ENTITY contextArchive.label "Archiv">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
 <!ENTITY contextReplySender.accesskey "L">
 <!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní skupiny">
@@ -538,6 +533,8 @@
 <!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsAttachment.label "Přeposlat jako přílohy">
 <!ENTITY contextForwardAsAttachment.accesskey "l">
+<!ENTITY contextArchive.label "Archiv">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Přesunout do">
 <!ENTITY contextMoveMsgMenu.accesskey "S">
 <!ENTITY contextCopyMsgMenu.label "Kopírovat do">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Hledat předmět nebo adresu">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
+<!ENTITY searchButton.label "Hledat zprávy…">
+<!ENTITY searchButton.accesskey "H">
 
 <!ENTITY all.label "Vše">
 <!ENTITY all.accesskey "V">
@@ -608,3 +606,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; si myslí, že tato zpráva je podvodný e-mail.">
 <!ENTITY removePhishingBarButton.label "Není podvodný e-mail">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Odesílatel této zprávy si přeje být informován o tom, že jste si tuto zprávu přečetli. Chcete odesílateli poslat potvrzení?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorovat požadavek">
+<!ENTITY mdnBarSendButton.label "Odeslat potvrzení">

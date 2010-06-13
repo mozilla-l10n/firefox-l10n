@@ -73,7 +73,7 @@
 
 <!ENTITY folderSynchronizationTab.label "Synchronizace">
 <!ENTITY folderCheckForNewMessages2.label "Při přijímání zpráv pro tento účet, kontrolovat tuto složku na nové zprávy">
-<!ENTITY folderCheckForNewMessages2.accesskey     "k">
+<!ENTITY folderCheckForNewMessages2.accesskey "k">
 
 <!ENTITY offlineFolder.check.label "Označit složku pro použití v režimu offline">
 <!ENTITY offlineFolder.check.accesskey "O">

@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label "Nápověda">
 <!ENTITY helpMenu.accesskey "v">
 
+<!ENTITY helpTroubleshootingInfo.label "Technické informace">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label "Poznámky k verzi">
 <!ENTITY releaseCmd.accesskey "P">
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">

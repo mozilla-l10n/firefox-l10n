@@ -7,4 +7,4 @@
 <!ENTITY actionColumn2.label "Akce">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY search.emptytext "Hledat typy a akce">
+<!ENTITY search.placeholder "Hledat typy a akce">
