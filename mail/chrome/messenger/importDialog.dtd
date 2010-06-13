@@ -76,7 +76,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label "Vyberte typ načítaných položek:">
 
 <!ENTITY title.label "Titul">
-<!ENTITY processing.label "Importuji…">
+<!ENTITY processing.label "Importování…">
 
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x má u každého kontaktu pouze jednu poštovní adresu, zatímco &brandShortName; má dvě (Osobní a Pracovní).">
 <!ENTITY FieldDiscInputText2.label "Vyberte kategorii, ve které chcete uložit načtené poštovní adresy:">

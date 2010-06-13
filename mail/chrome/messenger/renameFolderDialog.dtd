@@ -38,3 +38,5 @@
 <!ENTITY renameFolderDialog.title "Přejmenování složky">
 <!ENTITY rename.label "Zadejte nový název složky:">
 <!ENTITY rename.accesskey "Z">
+<!ENTITY accept.label "Přejmenovat">
+<!ENTITY accept.accesskey "P">

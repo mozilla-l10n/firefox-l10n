@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
 <!ENTITY otherActionsButton.label "další akce">
-<!ENTITY otherActionsShowConversation.label "zobrazit jako rozhovor">
-<!ENTITY otherActionsShowConversation.accesskey "r">
+<!ENTITY otherActionsOpenConversation.label "otevřít jako konverzaci">
+<!ENTITY otherActionsOpenConversation.accesskey "k">
 <!ENTITY otherActionsOpenInNewWindow.label "otevřít v novém okně">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "o">
 <!ENTITY otherActionsOpenInNewTab.label "otevřít v panelu">

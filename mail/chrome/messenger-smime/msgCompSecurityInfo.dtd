@@ -2,7 +2,7 @@
 <!ENTITY title.label "Zabezpečení zprávy">
 <!ENTITY subject.plaintextWarning "Poznámka: Řádky s předmětem zprávy nejsou nikdy šifrovány">
 <!ENTITY status.heading "Obsah zprávy bude odeslán následovně:">
-<!ENTITY status.signed "Digitálně podepsaný:">
+<!ENTITY status.signed "Elektronicky podepsaný:">
 <!ENTITY status.encrypted "Zašifrovaný:">
 <!ENTITY status.certificates "Certifikáty:">
 <!ENTITY view.label "Zobrazit">

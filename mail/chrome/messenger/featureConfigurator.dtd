@@ -1,114 +1,89 @@
-<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the
-Migration Assistant page. It should match featureConfiguratorCmd.label in
-baseMenuOverlay.dtd -->
+<!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.title "Pomocník s migrací">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.heading): Heading for the page -->
-<!ENTITY featureConfigurator.heading "Novinky Thunderbirdu 3, které je dobré znát">
+<!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
+<!ENTITY featureConfigurator.heading1 "Novinky aplikace &brandShortName;, které je dobré znát">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.para1): The tone of this paragraph
-is important: we tried for a tone that promotes the new features (which we
-believe are good and worth users learning about), but also emphasizing that we
-think it's important to preserve user choice. -->
-<!ENTITY featureConfigurator.para1 "Thunderbird 3 obsahuje několik nových funkcí, které se budou podle nás většině lidí líbit. Chutě a požadavky různých lidí jsou však různé, a proto vám umožníme si Thunderbird jednoduše nastavit podle sebe.">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.1): The tone of this paragraph is important: we tried for a tone that promotes the new features (which we believe are good and worth users learning about), but also emphasizing that we think it's important to preserve user choice. -->
+<!ENTITY featureConfigurator.para.1 "&brandShortName; obsahuje několik nových funkcí, které se budou podle nás většině lidí líbit. Chutě a požadavky různých lidí jsou však různé, a proto vám umožníme si &brandShortName; jednoduše nastavit podle sebe.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.para2): This paragraph explains
-that this page is active (the buttons change the UI), and that they can get
-back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para2 "Na této stránce máte možnost tyto novinky nastavit. Pomocníka s migrací můžete kdykoliv spustit z nabídky Nápověda.">
+<!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
+<!ENTITY featureConfigurator.para.2 "Nyní máte možnost si tyto novinky nastavit. Pomocníka s migrací můžete kdykoliv spustit z nabídky Nápověda.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.imap.heading): Heading for the
-IMAP synchronization feature. The words should probably echo the word used
-in the per-account dialog.-->
-<!ENTITY featureConfigurator.imap.heading "Synchronizace zpráv">
+<!ENTITY featureConfigurator.toolbar.heading "Nová lišta zpráv">
+<!ENTITY featureConfigurator.toolbar.new "Lišta s tlačítky zpráv">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Jednoduší lišta se snadno použitelnými tlačítky zpráv.">
 
-<!ENTITY featureConfigurator.imap.status.all "Všechny složky typu IMAP mají nastavenu &quot;synchronizaci&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
+<!ENTITY featureConfigurator.toolbar.original "Zachovat původní tlačítka lišty">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Spolu s novými tlačítky pošty zachová i vlastní tlačítka.">
 
-<!ENTITY featureConfigurator.imap.status.none "Žádná složka typu IMAP nemá nastavenu &quot;synchronizaci&quot;.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Tlačítka akcí zpráv jako odpovdět nebo přeposlat byla přesunuta z lišty do záhlaví zprávy, kde mohou být svázána přímo s danou zprávou. Toto uspořádání umožnuje v liště ponechat více místa pro rozšířené vyhledávací pole a tlačítka doplňků.">
 
-<!ENTITY featureConfigurator.imap.status.some "Některé složky typu IMAP mají nastavenu &quot;synchronizaci&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
+<!ENTITY featureConfigurator.addOn.installing "Instalace…">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.benefits.label): The heading here
-is intended to explain why we've implemented this and picked it as a default.-->
-<!ENTITY featureConfigurator.benefits.label "Výhody">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
+<!ENTITY featureConfigurator.addOn.installed "Nainstalováno">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.alternative.label): The heading here
-is intended to explain why it might not be the right default for some users.-->
-<!ENTITY featureConfigurator.alternative.label "Jiná možnost">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "Toto rozšíření je již nainstalováno.">
 
-<!ENTITY featureConfigurator.syncBenefits.para "Možnost číst si svoji poštu, pokud nejste připojeni k Internetu. Možnost vyhledávat zprávy nejen podle předmětu a jmen, ale i podle slov, které obsahují.">
-<!ENTITY featureConfigurator.syncAlternative.para "Vypněte stahování veškeré vaší pošty na tento počítač, pokud máte nedostatek místa na disku, nebo jste limitováni objemem síťového provozu.">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Kompaktní záhlaví">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.syncAll.button): The choice of
-lower case is intentional, but may be overriden if that doesn't make sense
-because of a specific language context.-->
-<!ENTITY featureConfigurator.syncAll.button "Synchronizovat vše">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Funkcionalita kompaktního záhlaví zprávy byla přesunuta do samostatného rozšíření, kde se jí dostane větší pozornosti a možností.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.syncNone.button): The choice of
-lower case is intentional, but may be overriden if that doesn't make sense
-because of a specific language context.-->
-<!ENTITY featureConfigurator.syncNone.button "Nic nesynchronizovat">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "V předchozí verzi aplikace jste používali kompaktní záhlaví zprávy. Tato funkcionalita byla přesunuta do samostatného rozšíření. Pokud chcete tato záhlaví používat i nadále, nainstalujte si toto rozšíření.">
 
-<!ENTITY featureConfigurator.advancedUsers.label "Pro pokročilé:">
-<!ENTITY featureConfigurator.advancedUsers.para "Synchronizaci lze přizpůsobit pro jednotlivé účty a složky:">
+<!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
+<!ENTITY featureConfigurator.collapsedHeaders.install "Instalovat kompaktní záhlaví…">
 
-<!ENTITY featureConfigurator.toolbar.heading "Nová lišta pošty">
-<!ENTITY featureConfigurator.toolbar.new.status "Používáte nový typ lišty.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
+<!ENTITY featureConfigurator.folderColumns.heading "Rozšířené sloupce složky">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The
-word 'original' is chosen deliberately to be neutral, vs. 'old' which in
-English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Používáte původní typ lišty.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.weak "Funkcionalita rozšířených sloupců složky byla přesunuta do samostatného rozšíření. Pokud chcete používat sloupce s počtem zpráv či místem na disku, nainstalujte si toto rozšíření.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Jednoduší vzhled než ten předchozí ve výchozím nastavení, který přináší více místa pro hledací pole či další tlačítka doplňků.">
-<!ENTITY featureConfigurator.toolbarAlternative.para "Pokud se vám líbilo nastavení původní lišty a nechcete ji proto přenastavit, nebo máte vypnutý panel zpráv.">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
+<!ENTITY featureConfigurator.folderColumns.para.strong "V předchozí verzi aplikace jste používali rozšířené sloupce složky. Tato funkcionalita byla přesunuta do samostatného rozšíření. Pokud chcete tyto sloupce používat i nadále, nainstalujte si toto rozšíření.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useOriginalToolbar.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useOriginalToolbar.button "Použít původní typ lišty">
+<!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
+<!ENTITY featureConfigurator.folderColumns.install "Instalovat rozšířené sloupce…">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useNewToolbar.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useNewToolbar.button "Použít nový typ lišty">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
+<!ENTITY featureConfigurator.autoSync.heading "Místo na disku">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.heading): The
-words here should echo the name of the mode shown in the folder pane.-->
-<!ENTITY featureConfigurator.smartFolders.heading "Režim chytrých složek">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
+<!ENTITY featureConfigurator.autoSync.para "Nová verze aplikace &brandShortName; přináší vylepšené hledání. K plnému využití možností hledání je potřeba povolit synchronizaci pošty.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.smart.status): This
-shows that the current mode in the folder pane is the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.smart.status "Používáte režim &quot;chytrých složek&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
+<!ENTITY featureConfigurator.autoSync.on "Synchronizovat">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Projeví se rychlým nahráváním zpráv a lepšími výsledky zpráv.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.smartFolders.all.status): This
-shows that the current mode in the folder pane is not the Smart Folders mode.-->
-<!ENTITY featureConfigurator.smartFolders.all.status "Nepoužíváte režim &quot;chytrých složek&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
+<!ENTITY featureConfigurator.autoSync.off "Nesynchronizovat">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Způsobí pomalejší nahrávání zpráv a neúplné výsledky hledání.">
 
-<!ENTITY featureConfigurator.smartFolderBenefits.para "Pokud máte více účtů, seskupí tento režim složky jako Doručená pošta dohromady, tak aby jste měli jednotný pohled na všechnu svoji poštu.">
-<!ENTITY featureConfigurator.smartFolderAlternative.para "Pokud máte rádi poštu rozdělenou přesně podle účtů, volte spíše režim &quot;všech složek&quot;.">
+<!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
+<!ENTITY featureConfigurator.autoSync.some "Synchronizovat účty jednotlivě">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Přizpůsobí synchronizaci pro jednotlivé účty a složky.">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useSmartFolders.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useSmartFolders.button "Použít režim &quot;chytrých složek&quot;">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
+<!ENTITY featureConfigurator.diskSpace.currentSize "Celkový počet obsazeného místa:">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.useAllFolders.button): The
-choice of lower case is intentional, but may be overriden if that doesn't make
-sense because of a specific language context.-->
-<!ENTITY featureConfigurator.useAllFolders.button "Použít režim &quot;všech složek&quot;">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Volné místo:">
 
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Záhlaví zpráv">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Požadováno:">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaBeforeLink): The part
-of the paragraph before the beginning of the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaBeforeLink "Thunderbird 3 vylepšil zobrazení podrobného záhlaví zpráv včetně přidání tlačítek pro se zprávou související akce. Další úpravy záhlaví jsou dostupně ve formě ">
+<!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
+<!ENTITY featureConfigurator.diskSpace.warning "Máte nedostatek místa!">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaLinkName): The name of
-the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaLinkName "doplňků">
 
-<!-- LOCALIZATION NOTE (featureConfigurator.headerParaAfterLink): The part of
-the paragraph after the link to the AMO search page.-->
-<!ENTITY featureConfigurator.headerParaAfterLink ".">
-
+<!ENTITY featureConfigurator.previousButton "Předchozí">
+<!ENTITY featureConfigurator.nextButton "Další">
+<!ENTITY featureConfigurator.closeButton "Zavřít">
