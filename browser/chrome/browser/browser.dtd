@@ -187,6 +187,11 @@
 <!ENTITY historyHomeCmd.label "Pagina iniziale">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
+<!ENTITY appMenuPrintCmd.label "Stampa">
+<!ENTITY appMenuCustomize.label "Personalizza">
+<!ENTITY appMenuToolbarLayout.label "Struttura barra degli strumenti…">
+<!ENTITY appMenuSidebars.label "Barre laterali">
+<!ENTITY appMenuHelp.label "Guida">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Apri un sito web">
 <!ENTITY urlbar.accesskey "d">
