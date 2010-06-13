@@ -1,5 +1,5 @@
-<!ENTITY editMenu.label            "Iguar">
-<!ENTITY editMenu.accesskey        "I">
+<!ENTITY editMenu.label            "Editar">
+<!ENTITY editMenu.accesskey        "t">
 <!ENTITY undoCmd.label             "Esfacer">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "E">

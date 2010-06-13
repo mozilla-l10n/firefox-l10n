@@ -107,10 +107,10 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label                  "Ver…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Iguar...">
-<!ENTITY certmgr.edit2.accesskey              "I">
-<!ENTITY certmgr.editca.label                 "Iguar enfotu de la CA">
-<!ENTITY certmgr.editca.accesskey             "g">
+<!ENTITY certmgr.edit2.label                  "Editar...">
+<!ENTITY certmgr.edit2.accesskey              "i">
+<!ENTITY certmgr.editca.label                 "Editar enfotu de la CA">
+<!ENTITY certmgr.editca.accesskey             "f">
 <!ENTITY certmgr.add.label                    "Amestar">
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Exportar…">
