@@ -259,6 +259,12 @@
 <!ENTITY showAllHistoryCmd2.label "Visa all historik">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Skriv ut">
+<!ENTITY appMenuCustomize.label "Anpassa">
+<!ENTITY appMenuToolbarLayout.label "Verktygsfältslayout…">
+<!ENTITY appMenuSidebars.label "Sidofält">
+<!ENTITY appMenuHelp.label "Hjälp">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå till en webbplats">
 <!ENTITY urlbar.accesskey             "d">
