@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip "Lišta nabídky">
 <!ENTITY searchBar.tooltip "Lišta hledání">
 
-<!ENTITY search.emptytext "Hledat v historii">
+<!ENTITY search.placeholder "Hledat v historii">
 <!ENTITY search.key "f">
 <!ENTITY view.label "Zobrazit">
 

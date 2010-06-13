@@ -1,13 +1,13 @@
 /*
- * Ulozte kopii tohoto souboru jako userChrome.css do adresare chrome
+ * Ulozte kopii tohoto souboru jako userChrome.css do adresare chrome 
  * v adresari s uzivatelskym profilem a upravte dle vasich predstav.
- *
- * Tento soubor se pouziva k nastaveni nekterych vychytavek uzivatelskeho
- * rozhrani baliku aplikaci SeaMonkey. Pravidla s deklaraci !important prevazi
+ *  
+ * Tento soubor se pouziva k nastaveni nekterych vychytavek uzivatelskeho 
+ * rozhrani prohlizece Firefox. Pravidla s deklaraci !important prevazi 
  * nad vychozimi pravidly definovanymi ve stylech UI.
- *
- * Nasleduji radku NEODSTRANUJTE
- *
+ * 
+ * Nasleduji radku NEODSTRANUJTE 
+ * 
  */
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
@@ -20,8 +20,8 @@
  *
  * Priklad: Zmenete rodinu pisma v radku s adresou
  * #urlbar { font-family: monospace !important; }
- *
+ * 
  * Vice prikladu naleznete na http://www.mozilla.org/unix/customizing.html
  *
  */
-
+ 

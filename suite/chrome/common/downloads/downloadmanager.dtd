@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip "Lišta nabídky">
 <!ENTITY searchBar.tooltip "Lišta hledání">
 
-<!ENTITY search.emptytext "Hledat stahování">
+<!ENTITY search.placeholder "Hledat stahování">
 <!ENTITY search.label "Hledat stahování">
 <!ENTITY search.accesskey "H">
 <!ENTITY search.key "f">

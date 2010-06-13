@@ -3,1051 +3,1118 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
   %brandDTD;
-  %regionDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Úprava nastavení aplikace &brandShortName;</title>
+<title>Customizing &brandShortName;</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<div class="boilerPlate">Tento dokument je poskytovaný pouze pro vaši informaci. Může vám pomoci uskutečnit některé kroky pro zabezpečení vašich osobních údajů na Internetu a soukromí v prostředí Internetu. Tento dokument nicméně neřeší všechny otázky týkající se online soukromí a zabezpečení, ani nereprezentuje doporučení o tom, co obnáší ochrana soukromí a zabezpečení na Internetu.</div>
+<div class="boilerPlate">This document is provided for your information
+  only. It may help you take certain steps to protect the privacy and security
+  of your personal information on the Internet. This document does not,
+  however, address all online privacy and security issues, nor does it
+  represent a recommendation about what constitutes adequate privacy and
+  security protection on the Internet.</div>
 
-<h1 id="customizing_mozilla">Úprava nastavení aplikace &brandShortName;</h1>
+<h1 id="customizing_mozilla">Customizing &brandShortName;</h1>
 
-<p>Aplikaci &brandShortName; lze upravit tak, aby lépe plnila vaše požadavky pomocí
-funkcí Postranních panelů, Záložek či Prohlížení v panelech.</p>
-  
-<p>Tato kapitola popisuje možnosti nastavení Prohlížeče &brandShortName;.</p>
+<p>You can customize &brandShortName; to better suit your needs using features
+  like Sidebar, bookmarks, and Tabbed Browsing.</p>
 
-<div class="contentsBox">V této kapitole:
-<ul>
-  <li><a href="#sidebar">Postranní lišta</a></li>
-  <li><a href="#tabbed_browsing">Prohlížení v panelech</a></li>
-  <li><a href="#changing_fonts_colors_and_themes">Nastavení fontů, barev a motivů vzhledu</a></li>
-  <li><a href="#toolbars">Panely nástrojů</a></li>
-  <li><a href="#bookmarks">Záložky</a></li>
-  <li><a href="#specifying_how_mozilla_starts_up">Nastavení startu aplikace &brandShortName;</a></li>
-  <li><a href="cs_nav_prefs_appearance.xhtml">Nastavení vzhledu prohlížeče</a></li>
-  <li><a href="cs_nav_prefs_navigator.xhtml">Nastavení prohlížeče</a></li>
-  <li><a href="cs_nav_prefs_advanced.xhtml">Rozšířené nastavení</a></li>
-</ul>
+<p>This section describes the customizable aspects of &brandShortName;&apos;s
+  browser component.</p>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#sidebar">Sidebar</a></li>
+    <li><a href="#tabbed_browsing">Tabbed Browsing</a></li>
+    <li><a href="#changing_fonts_colors_and_themes">Changing Fonts, Colors, and
+      Themes</a></li>
+    <li><a href="#toolbars">Toolbars</a></li>
+    <li><a href="#bookmarks">Bookmarks</a></li>
+    <li><a href="#specifying_how_mozilla_starts_up">Specifying How
+      &brandShortName; Starts Up</a></li>
+    <li><a href="cs_nav_prefs_appearance.xhtml">Appearance
+      Preferences</a></li>
+    <li><a href="cs_nav_prefs_navigator.xhtml">Browser
+      Preferences</a></li>
+    <li><a href="cs_nav_prefs_advanced.xhtml">Advanced Preferences</a></li>
+  </ul>
 </div>
 
-<h2 id="sidebar">Postranní lišta</h2>
+<h2 id="sidebar">Sidebar</h2>
 
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#what_is_sidebar">Co je postranní lišta?</a></li>
-  <li><a href="#opening_closing_and_resizing_sidebar">Otevírání, zavírání a změna
-velikosti Postranní lišty</a></li>
-  <li><a href="#viewing_sidebar_tabs">Zobrazení postranní lišty</a></li>
-  <li><a href="#adding_sidebar_tabs">Přidání panelů do postranní lišty</a></li>
-  <li><a href="#customizing_individual_sidebar_tabs">Nastavení jednotlivých panelů
-Postranní lišty</a></li>
-  <li><a href="#reorganizing_sidebar_tabs">Změna pořadí panelů v Postranní
-liště</a></li>
-  <li><a href="#removing_sidebar_tabs">Odstranění panelu z Postranní
-lišty</a></li>
-</ul>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_is_sidebar">What is Sidebar?</a></li>
+    <li><a href="#opening_closing_and_resizing_sidebar">Opening, Closing and
+      Resizing Sidebar</a></li>
+    <li><a href="#viewing_sidebar_tabs">Viewing Sidebar Tabs</a></li>
+    <li><a href="#adding_sidebar_tabs">Adding Sidebar Tabs</a></li>
+    <li><a href="#customizing_individual_sidebar_tabs">Customizing Individual
+      Sidebar Tabs</a></li>
+    <li><a href="#reorganizing_sidebar_tabs">Reorganizing Sidebar Tabs</a></li>
+    <li><a href="#removing_sidebar_tabs">Removing Sidebar Tabs</a></li>
+  </ul>
 </div>
 
-<h3 id="what_is_sidebar">Co je postranní lišta?</h3>
+<h3 id="what_is_sidebar">What is Sidebar?</h3>
 
-<p>Postranní lišta je nastavitelná oblast ve vašem Prohlížeči, kde
-můžete mít uloženy položky, které často používáte &ndash; poslední zprávy,
-počasí, adresář, kurzy akcií, kalendář a mnoho dalších užitečných věcí.
-Postranní lišta zobrazuje tyto položky ve stále aktualizovaných
-panelech.</p>
+<p>Sidebar is a customizable area in your browser where you can keep items
+  that you need to use all the time&mdash;the latest news and weather, your
+  address book, stock quotes, a calendar&mdash;and many other available
+  options. Sidebar presents these items to you in tabs that are continually
+  updated.</p>
 
-<p>&brandShortName; nabízí přednastavenou Postranní lištu; můžete si ji přizpůsobit
-přidáním, odebráním a přesunutím panelů.</p>
+<p>&brandShortName; comes with some Sidebar tabs already set up, but you can
+  customize Sidebar by adding, removing, and rearranging tabs.</p>
 
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h3 id="opening_closing_and_resizing_sidebar">Otevírání, zavírání a změna velikosti Postranní lišty</h3>
+<h3 id="opening_closing_and_resizing_sidebar">Opening, Closing and Resizing
+  Sidebar</h3>
 
-<p>Pro otevření postranní lišty <span class="noMac">stiskněte klávesu <kbd>F9</kbd> nebo</span> v hlavní nabídce Prohlížeče zvole Zobrazit, Zobrazit/Skrýt a v podnabídce zvolte položku Postranní lišta.</p>
+<p>To open Sidebar, <span class="noMac">press <kbd>F9</kbd> or</span> open the
+  View menu in the browser, choose Show/Hide, and then Sidebar from the
+  submenu.</p>
 
-<p>Jakmile je postranní lišta otevřena, můžete ji snadno zavírat, otevírat či měnit její velikost pomocí okraje. Přesunujte kurzor myši pomalu přes pravý okraj postranní lišty. Kurzor myši se změní na ruku tehdy, když se ocitne nad <q>držadlem</q> postranní lišty.</p>
+<p>Once Sidebar is opened, you can use its handle to close, open and resize
+  Sidebar&apos;s frame. Move the mouse pointer up and down along the left edge
+  of the &brandShortName; window. The pointer changes to a hand when it touches
+  the <q>handle</q> for Sidebar, as shown in the picture.</p>
 
 <table summary="Image table">
   <tr>
     <td colspan="2"></td>
   </tr>
   <tr style="vertical-align: top;">
-    <td><img src="images/sidebar.png" alt="Ukázka postranní lišty s držadlem"/></td>
+    <td><img src="images/sidebar.png" alt="image of sidebar with
+      handle"/></td>
     <td style="vertical-align: middle;">
-
-      <p><strong>Držadlo <br/>Postranní lišty</strong></p>
-
+      <p><strong>Sidebar<br/>Handle</strong></p>
     </td>
   </tr>
 </table>
 
 <ul>
-  <li>Klepněte na držadlo pro otevření/zavření Postranní lišty.</li>
-  <li>Klepnutím a tažením držadla můžete změnit velikost
-Postranní lišty.</li>
+  <li>Click the handle to close/open Sidebar&apos;s frame</li>
+  <li>Click and drag the handle to resize Sidebar&apos;s frame</li>
 </ul>
 
-<p>Pro zavření postranní lišty zvolte jednu z následujících možností:</p>
+<p>To close Sidebar with its handle, do one of the following:</p>
 
 <ul>
-  <li class="noMac">Stiskněte klávesu <kbd>F9</kbd></li>
-  <li>Klepněte na křížek v pravém horním rohu Postranní lišty.</li>
-  <li>Otevřete nabídku Zobrazit, zvolte Zobrazit/Skrýt a v zobrazené podnabídce klepněte na položku Postranní lišta.</li>
+  <li class="noMac">Press <kbd>F9</kbd></li>
+  <li>Click the X in the upper-right corner of Sidebar</li>
+  <li>Open the View menu, choose Show/Hide, and then Sidebar from the
+    submenu</li>
 </ul>
 
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h3 id="viewing_sidebar_tabs">Zobrazení postranní lišty</h3>
+<h3 id="viewing_sidebar_tabs">Viewing Sidebar Tabs</h3>
 
-<p>Pro zobrazení lišty:</p>
+<p>To view a tab:</p>
 
 <ul>
-  <li>Klepněte na jmenovku panelu; například klepněte na slovo <q>Hledat</q>.
-Otevře se panel Hledat, který vám umožní hledat informace na
-webových stránkách.</li>
+  <li>Click a tab&apos;s title; for instance, click the word <q>Search</q>. The
+    Search tab opens, which allows you to search for web pages.</li>
 </ul>
 
-<p><strong>Tip:</strong> Chcete-li znovu načíst panel Postranní lišty, klepněte
-na jeho jmenovku pravým tlačítkem myši a z místní nabídky klepněte na položku Obnovit.</p>
+<p><strong>Tip</strong>: To reload a Sidebar tab, right-click on the tab title
+  and choose Reload from the pop-up menu.</p>
 
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h3 id="adding_sidebar_tabs">Přidání panelů do Postranní lišty</h3>
+<h3 id="adding_sidebar_tabs">Adding Sidebar Tabs</h3>
 
-<p>Chcete-li přidat nový panel:</p>
+<p>To add a new tab:</p>
 
 <ol>
-  <li>Klepněte na tlačítko <q>Panely</q> nahoře v Postranní liště, a v nabídce klepněte na položku Přizpůsobit lištu.</li>
-  <li>V dialogovém okně Přizpůsobení lišty si vlevo vyberte nový
-panel z Dostupných panelů. Dvojklepnutím na panel jej můžete
-otevřít a zavřít.</li>
-  <li>Klepněte na tlačítko Přidat.</li>
-  <li>Přidejte všechny panely, které si přejete používat.</li>
-  <li>Klepněte na tlačítko OK pro ukončení.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar, and select Customize
+    Sidebar from the menu</li>
+  <li>In the Customize Sidebar dialog box, select a tab from the list on the
+    left. Double-click the folders to open or close folders.</li>
+  <li>Click Add.</li>
+  <li>Continue adding as many tabs as you want.</li>
+  <li>Click OK to finish.</li>
 </ol>
 
-<p><strong>Poznámka:</strong> Přidáte-li více
-než osm panelů do Postranní lišty, &brandShortName; pro zachování přehlednosti
-skryje ostatní panely. Pro zobrazení skrytých panelů klepněte na
-tlačítko se šipkou dolů na spodním okraji Postranní lišty do té doby, dokud se
-neobjeví požadovaný panel. Pro návrat k horním panelům použijte
-tlačítko se šipkou nahoru.</p>
+<p><strong>Note</strong>: If you add more than eight tabs to Sidebar,
+  &brandShortName; hides the remaining tabs to reduce clutter. To scroll
+  through the hidden tabs, click the down arrow button at the bottom of Sidebar
+  until you see the desired tab. Click the up arrow button to once again scroll
+  up.</p>
   
-<p><strong>Tipy:</strong></p>
+<p><strong>Tips</strong>:</p>
 
 <ul>
-  <li>Chcete-li vidět panel Postranní lišty před přidáním, vyberte
-panel ze seznamu na levé straně dialogového okna Přizpůsobení lišty a
-klepněte na tlačítko Náhled. Po několika sekundách se panel objeví v
-novém okně Náhled panelu.</li>
-  <li>Pro zobrazení rozsáhlého seznamu panelů které jsou na Internetu
-k dispozici pro Postranní lištu rozdělené do kategorií, klepněte na
-tlačítko <q>Panely</q> nahoře v Postranní liště a klepněte na položku Získat další.</li>
+  <li>To preview a Sidebar tab before adding it, select a tab from the list
+    on the left side of the Customize Sidebar dialog box and click Preview.
+    After a few seconds, the tab displays in the Tab Preview pop-up
+    window.</li>
+  <li>To view an extensive and categorized list of tabs available for Sidebar,
+    click <q>Tabs</q> at the top of Sidebar, and select Sidebar
+    Directory.</li>
 </ul>
 
-<p>Jednotlivé panely můžete také otevírat a zavírat.</p>
+<p>You can also turn Sidebar tabs on and off.</p>
 
 <ol>
-  <li>Klepněte na tlačítko <q>Panely</q> nahoře v Postranní liště. Aktuální panely jsou
-zobrazeny ve spodní části nabídky. Aktuálně zobrazené panely mají před
-názvem symbol zaškrtnutí.</li>
-  <li>Vyberte panel, který chcete aktivovat/deaktivovat. Odebráním symbolu
-zaškrtnutí je panel deaktivován. Stále zůstává přístupný v této nabídce.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar. Current tabs are listed in
+    the lower part of the menu.</li>
+  <li>Select the tabs you want displayed in Sidebar. Remove the checkmark
+    (deselect) to turn a tab off (it will still be available from the
+    menu).</li>
 </ol>
 
-<p><strong>Tip:</strong> Pro rychlé skrytí panelu klepněte pravým tlačítkem na
-jeho jmenovku a v místní nabídce klepněte na položku Skrýt panel.</p>
+<p><strong>Tip</strong>: To quickly turn off a Sidebar tab, right-click on its
+  name and choose Hide Tab.</p>
   
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h3 id="customizing_individual_sidebar_tabs">Přizpůsobení vlastních panelů Postranní lišty</h3>
+<h3 id="customizing_individual_sidebar_tabs">Customizing Individual Sidebar
+  Tabs</h3>
 
-<p><strong>Poznámka:</strong> Ne všechny panely je možno nastavit.</p>
+<p><strong>Note</strong>: Not all tabs can be customized.</p>
 
 <ol>
-  <li>Klepněte na tlačítko <q>Panely</q> nahoře v Postranní liště a v nabídce klepněte na
-položku Přizpůsobit lištu.</li>
-  <li>Vyberte si panel ze seznamu vpravo.</li>
-  <li>Klepněte na tlačítko Přizpůsobit panel pokud je přístupné.
-Zobrazí se dialogové okno s informacemi a možnostmi přizpůsobení
-panelu.
+  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar
+    from the menu.</li>
+  <li>Select an available tab from the list on the right.</li>
+  <li>Click Customize Tab if it is enabled. A window appears with information
+    and options for customizing the tab.
     
-  <p>Postup závisí na původu panelu &ndash; kromě aplikace &brandShortName; mohou být
-poskytovatelem panelu různé firmy, organizace nebo ostatní uživatelé
-Internetu.</p>
+    <p>The instructions vary depending on the source of the tab&mdash;in
+      addition to &brandShortName;, tab providers can be any company,
+      organization, or individual who uses the Internet.</p>
   </li>
-  <li>Po přizpůsobení panelu za pomoci instrukcí poskytovatele panelu
-okno zavřete (nebo se řiďte instrukcemi poskytovatele panelu).</li>
-  <li>Klepněte na tlačítko OK pro dokončení nastavení.</li>
+  <li>After you follow the tab provider&apos;s instructions, close the
+    customization window (or follow the provider&apos;s instructions to close
+    it).</li>
+  <li>Click OK to finish.</li>
 </ol>
 
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h3 id="reorganizing_sidebar_tabs">Změna pozice panelů v Postranní liště</h3>
+<h3 id="reorganizing_sidebar_tabs">Reorganizing Sidebar Tabs</h3>
 
 <ol>
-  <li>Klepněte na tlačítko <q>Panely</q> nahoře v Postranní liště a v nabídce klepněte na
-položku Přizpůsobit lištu.</li>
-  <li>Ze seznamu vpravo vyberte panel.</li>
-  <li>Klepnutím na tlačítko Nahoru nebo Dolů změníte pozici panelů.</li>
-  <li>Opakujte kroky 1 a 2 dokud nejste s pozicí panelů spokojeni.</li>
-  <li>Klepněte na tlačítko OK pro dokončení nastavení.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar from
+    the menu.</li>
+  <li>Select a tab from the list on the right.</li>
+  <li>Click Up and Down to change the tab&apos;s placement.</li>
+  <li>Repeat steps 1 and 2 to continue reorganizing as many tabs as you
+    like.</li>
+  <li>Click OK to finish.</li>
 </ol>
 
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h3 id="removing_sidebar_tabs">Odstranění panelu z Postranní lišty</h3>
+<h3 id="removing_sidebar_tabs">Removing Sidebar Tabs</h3>
 
 <ol>
-  <li>Klepněte na tlačítko <q>Panely</q> nahoře v Postranní liště a v nabídce klepněte na
-položku Přizpůsobit lištu.</li>
-  <li>Ze seznamu vpravo vyberte panel.</li>
-  <li>Klepněte na tlačítko Odebrat.</li>
-  <li>Odstraňte všechny panely, které si už nepřejete vidět v Postranní
-liště.</li>
-  <li>Klepněte na tlačítko OK pro dokončení nastavení.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar from
+    the menu.</li>
+  <li>Select a tab from the list on the right.</li>
+  <li>Click Remove.</li>
+  <li>Continue removing as many tabs as you like.</li>
+  <li>Click OK to finish.</li>
 </ol>
 
-<p>[<a href="#sidebar">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<h2 id="tabbed_browsing">Prohlížení v panelech</h2>
+<h2 id="tabbed_browsing">Tabbed Browsing</h2>
 
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#what_is_tabbed_browsing">Co je prohlížení v panelech?</a></li>
-  <li><a href="#setting_up_tabbed_browsing">Nastavení prohlížení v panelech</a></li>
-  <li><a href="#opening_tabs">Otevírání panelů</a></li>
-  <li><a href="#moving_tabs">Přesouvání panelů</a></li>
-  <li><a href="#bookmarking_tabs">Vytváření záložek pro panely</a></li>
-  <li><a href="#closing_tabs">Zavírání panelů</a></li>
-</ul>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_is_tabbed_browsing">What is Tabbed Browsing?</a></li>
+    <li><a href="#setting_up_tabbed_browsing">Setting up Tabbed Browsing</a></li>
+    <li><a href="#opening_tabs">Opening Tabs</a></li>
+    <li><a href="#moving_tabs">Moving Tabs</a></li>
+    <li><a href="#bookmarking_tabs">Bookmarking Tabs</a></li>
+    <li><a href="#closing_tabs">Closing Tabs</a></li>
+  </ul>
 </div>
 
-<h3 id="what_is_tabbed_browsing">Co je prohlížení v panelech?</h3>
+<h3 id="what_is_tabbed_browsing">What is Tabbed Browsing?</h3>
 
-<p>Prohlížení v panelech umožňuje otevřít více webových stránek v
-jediném okně. Každá webová stránka má svůj vlastní panel nahoře v
-okně Prohlížeče. Každý panel se zobrazí v Liště panelů. Například
-můžete navštívit stránky mozilla.org, icq.com a cnn.com v rámci jednoho
-okna namísto tří.</p>
+<p>Tabbed Browsing lets you open more than one web page in a single window.
+  Each web page has its own tab across the top of a single browser window.
+  Each tab appears on the Tab Bar. For example, you can visit mozilla.org,
+  icq.com, and cnn.com within one window instead of three windows.</p>
 
 <table summary="Image table">
   <tr> 
-    <td>Klepněte sem pro otevření nového panelu.</td>
+    <td>Click this to open a new tab.</td>
     <td></td>
   </tr>
   <tr> 
     <td colspan="2">
-      <img src="images/tabbed_browsing_bar.png" alt="Lišta panelů"/>
+      <img src="images/tabbed_browsing_bar.png" alt="tab bar"/>
     </td>
   </tr>
   <tr> 
-    <td style="text-align: left;">Aktuálně zobrazený panel.</td>
-    <td style="text-align: right;">Klepněte sem pro zavření aktuálního panelu.</td>
+    <td style="text-align: left;">Tab being viewed.</td>
+    <td style="text-align: right;">Click this to close the tab being
+      viewed.</td>
   </tr>
   <tr> 
-    <td colspan="2" style="text-align: center;"><strong>Lišta panelů</strong></td>
+    <td colspan="2" style="text-align: center;"><strong>Tab Bar</strong></td>
   </tr>
 </table>
 
-<p>Nepotřebujete mít otevřených několik oken pro prohlížení několika
-webových stránek, čímž ušetříte více místa na pracovní ploše. Můžete
-pohodlně otevírat, zavírat a obnovovat webové stránky na jednom místě
-bez nutnosti přepínat do jiného okna.</p>
+<p>You don&apos;t need to have several windows open to visit several web pages;
+  thus, freeing up more space on your desktop. Instead, you can open, close,
+  and reload web pages conveniently in one place without having to switch to
+  another window.</p>
 
-<p>[<a href="#tabbed_browsing">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
 
-<h3 id="setting_up_tabbed_browsing">Nastavení prohlížení v panelech</h3>
+<h3 id="setting_up_tabbed_browsing">Setting up Tabbed Browsing</h3>
 
-<p>Máte několik možností, jak nastavit Prohlížení v panelech.
-Například, můžete změnit své předvolby pro otevření panelu prohlížeče z
-adresního řádku. Prohlížení v panelech můžete nastavit i jinak,
-například jako načítání nových panelů prohlížeče na pozadí tak, že
-první stránka zůstává na vrchu, zatímco se druhá načítá. Chcete-li se
-dovědět více o nastavení Prohlížení v panelech, podívejte se
-na <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Předvolby
-prohlížeče &ndash; Prohlížení v panelech</a>.</p>
+<p>There are several ways to customize Tabbed Browsing. For example, you can
+  change your preferences to open new browser tabs from the Location Bar. You
+  can set up Tabbed Browsing in other ways too, such as loading new browser
+  tabs in the background so the first page is kept on top while the second page
+  is loading. To learn more about setting up Tabbed Browsing in
+  &brandShortName;, see
+  <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser Preferences
+  - Tabbed Browsing</a>.</p>
 
-<p>[<a href="#tabbed_browsing">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
 
-<h3 id="opening_tabs">Otevírání panelů</h3>
+<h3 id="opening_tabs">Opening Tabs</h3>
 
-<p>Panel prohlížeče lze otevřít následujícím způsobem:</p>
+<p>You can open a browser tab in the following ways:</p>
 
-<p><strong>Otevření nového prázdného panelu prohlížeče:</strong></p>
-
-<ul>
-  <li><strong>Z nabídky Soubor:</strong> Otevřete
-nabídku Soubor, klepněte na podnabídku Nový objekt. Zde klepněte na položku Panel prohlížeče.</li>
-  <li><strong>Z lišty panelů:</strong> Je-li zobrazená, klepněte na ikonu <q>Nový
-panel</q>
-    <img src="chrome://navigator/skin/icons/tab-new.gif" alt="Ikonka nového panelu"/> na levé straně Lišty panelů.</li>
-  <li><strong>Z místní nabídky:</strong> Je-li lišta panelů zobrazená,
-klepněte na ni pravým tlačítkem a z místní nabídky klepněte na položku Nový panel.</li>
-</ul>
-
-<p><strong>Otevření odkazu na webovou stránku v panelu prohlížeče:</strong></p>
+<p><strong>Opening a New Blank Browser Tab</strong>:</p>
 
 <ul>
-  <li><strong>Z místní nabídky:</strong> Na odkaz klepněte pravým tlačítkem myši <span class="mac"> nebo pokud máte jednotlačítkovou myš, <kbd>Ctrl</kbd>-klepnutí</span> a v místní nabídce klepněte na položku Otevřít odkaz v novém panelu.</li>
-  <li><strong>Z adresního řádku:</strong> Napište adresu webové stránky do
-adresního řádku a stiskněte <kbd class="mac">Cmd</kbd><kbd class="noMac">
-    Ctrl</kbd>+<kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>
-    <p><strong>Poznámka:</strong> Abyste mohli
-otevřít panel prohlížeče z adresního řádku, musíte nejdříve nastavit
-předvolby prohlížení v panelech. Více informací najdete v kapitole <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Předvolby prohlížeče -
-Prohlížení v panelech</a>.</p></li>
+  <li><strong>From the File menu</strong>: Open the File menu, choose New, and
+    then Browser Tab.</li>
+  <li><strong>From the Tab Bar</strong>: If visible, click the <q>new
+    tab</q> icon
+    <img src="chrome://navigator/skin/icons/tab-new.gif" alt="new tab icon"/>
+    on the left side of the Tab Bar.</li>
+  <li><strong>From a pop-up menu</strong>: If the Tab Bar is visible,
+    right-click on it, and choose New Tab from the pop.</li>
 </ul>
 
-<p><strong>Tipy:</strong></p>
+<p><strong>Opening a Web Page Link in a Browser Tab</strong>:</p>
+
 <ul>
-  <li>Pro rychlé otevření nového panelu stiskněte
-  <kbd class="mac">Cmd</kbd> <kbd class="noMac">Ctrl</kbd>+<kbd>T</kbd>.</li>
-  <li>Pro obnovení jednoho nebo všech panelů prohlížeče klepněte<span class="mac"> nebo pokud máte jednotlačítkovou myš, <kbd>Ctrl</kbd>-klepnutí</span> kamkoli na Lištu panelů pravým tlačítkem myši a v místní nabídce klepněte na položku Obnovit panel, respektive Obnovit všechny panely.</li>
+  <li><strong>From a pop-up menu</strong>: Right-click<span class="mac"> or, if
+    you have a one-button mouse, <kbd>Ctrl</kbd>-click</span> on a web page
+    link and choose Open Link in New Tab.</li>
+  <li><strong>From the Location Bar</strong>: Type a web page location in the
+    Location Bar and press <kbd class="mac">Cmd</kbd><kbd class="noMac">
+    Ctrl</kbd>+<kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.
+
+    <p><strong>Note</strong>: You must set your Tabbed Browsing preferences to
+      open a browser tab from the Location Bar. See
+      <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser
+      Preferences - Tabbed Browsing</a> for more information.</p>
+  </li>
 </ul>
 
-<p>[<a href="#tabbed_browsing">Návrat na začátek kapitoly</a>]</p>
+<p><strong>Tips</strong>:</p>
 
-<h3 id="moving_tabs">Přesouvání panelů</h3>
+<ul>
+  <li>To quickly open a new browser tab, press
+    <kbd class="mac">Cmd</kbd>
+    <kbd class="noMac">Ctrl</kbd>+<kbd>T</kbd>.</li>
+  <li>To reload one or all browser tabs, right-click<span class="mac"> or, if
+    you have a one-button mouse, <kbd>Ctrl</kbd>-click</span> anywhere on the
+    Tab Bar and select Reload Tab or Reload All Tabs, respectively.</li>
+</ul>
 
-<p>Panely jsou zobrazovány podle toho, v jakém pořadí jsou otevírány, což nemusí být vždy to, co chcete. Pro přesunutí panelu na jiné umístění v rámci okna &brandShortName; jednoduše přetáhněte panel pomocí myši. Při přesouvání se vám bude zobrazovat indikátor určující, kam je panel přesouván. Jako alternativu můžete použít <a href="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts">klávesové zkratky</a>.</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
 
-<p><strong>Poznámka:</strong> Klávesové zkratky nejsou funkční, když je aktivní textové pole na stránce.</p>
+<h3 id="moving_tabs">Moving Tabs</h3>
 
-<p>[<a href="#tabbed_browsing">Návrat na začátek kapitoly</a>]</p>
+<p>Tabs are displayed in the order you open them, which may not always be what
+  you want. To move a tab to a different location within a &brandShortName;
+  window, simply drag it there using your mouse. While you are dragging the
+  tab, &brandShortName; displays an indicator to show where the tab will be
+  moved. Alternately, you can use
+  <a href="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts">keyboard
+  shortcuts</a> to move tabs within a window if desired.</p>
 
-<h3 id="bookmarking_tabs">Vytváření záložek pro panely</h3>
+<p><strong>Note</strong>: The keyboard shortcuts don't work when a text box has
+  focus.</p>
 
-<p>Záložka vytvořená pro skupinu panelů se nazývá Skupinová záložka.
-Chcete-li vytvořit záložku pro skupinu panelů v aktuálním okně
-Prohlížeče, proveďte následující operace:</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
+
+<h3 id="bookmarking_tabs">Bookmarking Tabs</h3>
+
+<p>A bookmarked group of tabs is called a Groupmark. To bookmark the group of
+  browser tabs in the current window:</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku <q>Přidat skupinu
-panelů k záložkám</q>.</li>
-  <li>Do editačního pole Název napište jméno pro tuto skupinu panelů.</li>
-  <li>Zvolte složku, do které chcete uložit skupinu panelů, nebo klepněte na tlačítko Nová složka pro vytvoření nové složky pro vaši skupinu panelů.</li>
-  <li>Pro přidání skupinové záložky klepněte na tlačítko OK.</li>
+  <li>Open the Bookmarks menu and choose <q>Bookmark This Group of
+    Tabs</q>.</li>
+  <li>Type a name for the bookmark group in the Name field.</li>
+  <li>Choose a folder in which to create your Groupmark, or click New Folder to
+    create a new folder for your Groupmark.</li>
+  <li>Click OK to add the Groupmark.</li>
 </ol>
 
-<p><strong>Tip:</strong> Pro nastavení skupiny panelů jako domovské stránky
-Prohlížeče se podívejte do nabídky <a href="cs_nav_prefs_navigator.xhtml#navigator">Předvolby &ndash; Prohlížeč</a>.</p>
+<p><strong>Tip</strong>: To learn how to use a group of tabs as your home page,
+  see <a href="cs_nav_prefs_navigator.xhtml#navigator">Browser Preferences -
+  Browser</a>.</p>
 
-<p>[<a href="#tabbed_browsing">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
 
-<h3 id="closing_tabs">Zavírání panelů</h3>
+<h3 id="closing_tabs">Closing Tabs</h3>
 
-<p>Panel prohlížeče lze zavřít několika způsoby:</p>
+<p>You can close browser tabs in several ways:</p>
 
-<p><strong>Zavření právě prohlíženého panelu prohlížeče:</strong></p>
+<p><strong>Closing the Browser Tab Being Viewed</strong>:</p>
 
 <ul>
-  <li>V nabídce Soubor klepněte na položku Zavřít panel.</li>
-  <li>Klepněte na tlačítko <q>X</q> v pravé části lišty panelů.</li>
+  <li>Open the File menu and choose Close Tab.</li>
+  <li>Click the <q>X</q> button on the right side of the Tab Bar.</li>
 </ul>
 
 <table summary="Image table">
   <tr>
-    <td> Klepněte sem pro otevření nového panelu.</td>
+    <td> Click this to open a new tab.</td>
     <td></td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="images/tabbed_browsing_bar.png" alt="Lišta panelů"/>
+      <img src="images/tabbed_browsing_bar.png" alt="tab bar"/>
     </td>
   </tr>
   <tr>
-    <td style="text-align: left;">Právě prohlížený panel.</td>
-    <td style="text-align: right;">Klepněte sem pro zavření právě prohlíženého
-panelu.</td>
+    <td style="text-align: left;">Tab being viewed.</td>
+    <td style="text-align: right;">Click this to close the tab being
+      viewed.</td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;"><strong>Lišta panelů</strong></td>
+    <td colspan="2" style="text-align: center;"><strong>Tab Bar</strong></td>
   </tr>
 </table>
 
-<p><strong>Tipy:</strong></p>
+<p><strong>Tips</strong>:</p>
 
 <ul>
-  <li>Pro zavření jakéhokoli panelu prohlížeče včetně skrytých klepněte
-pravým tlačítkem na panel a v místní nabídce klepněte na položku Zavřít panel.</li>
-  <li>Pro zavření všech panelů prohlížeče kromě právě
-prohlíženého klepněte na jeho panel a v místní nabídce klepněte na položku
-Zavřít ostatní panely.</li>
+  <li>To close any browser tab, even if hidden, right-click on the tab and
+    choose Close Tab from the pop-up menu.</li>
+  <li>To keep only one browser tab open, while closing all other tabs,
+    right-click on the browser tab and choose Close Other Tabs.</li>
 </ul>
 
-<p>[<a href="#tabbed_browsing">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
 
-<h2 id="changing_fonts_colors_and_themes">Nastavení písem, barev a motivů vzhledu</h2>
+<h2 id="changing_fonts_colors_and_themes">Changing Fonts, Colors, and
+  Themes</h2>
   
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#changing_the_default_fonts">Změna nastavení předvolených písem</a></li>
-  <li><a href="#changing_the_default_colors">Změna nastavení předvolených barev</a></li>
-  <li><a href="#changing_the_theme">Změna Motivu vzhledu</a></li>
-</ul>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#changing_the_default_fonts">Changing the Default Fonts</a></li>
+    <li><a href="#changing_the_default_colors">Changing the Default
+      Colors</a></li>
+    <li><a href="#changing_the_theme">Changing the Theme</a></li>
+  </ul>
 </div>
 
-<h3 id="changing_the_default_fonts">Změna nastavení předvolených písem</h3>
+<h3 id="changing_the_default_fonts">Changing the Default Fonts</h3>
 
-<p>Obyčejně jsou webové stránky zobrazovány písmy přednastavenými ve
-vašem Prohlížeči nebo písmy vybranými autorem webové stránky.</p>
+<p>Normally, web pages are displayed in the default font set by your browser
+  or in a font chosen by the web pages&apos; authors.</p>
 
-<p>Chcete-li změnit přednastavené písmo:</p>
-
-<ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Vzhled klepněte na podkategorii Písma. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Vzhled zobrazíte jejich seznam.)</li>
-  <li>V rozbalovacím seznamu si zvolte znakovou sadu. Například pro
-nastavení přednastavených písem středoevropské znakové sady vyberte
-<q>Středoevropská</q>.</li>
-  <li>Zvolte, zda proporcionální text má být Serif (Patkový, jako Times
-Roman) nebo Sans-serif (Bezpatkový, jako Arial). Pak upřesněte velikost
-písma pro proporcionální text.</li>
-  <li>Existuje-li vhodné písmo pro vaši znakovou sadu, zadejte písma
-pro Patkové, Bezpatkové, Kurzívu, Ozdobné a Neproporcionální. Pro
-Proporcionální a Neproporcionální písma lze zadat i velikost.</li>
-  <li>Zvolte, zda předvolené písmo bude Patkové či Bezpatkové.</li>
-  <li>Zvolte Velikost a Řez písma s pevnou šířkou. Některé typy textu,
-např. rovnice a vzorce jsou zobrazené písmem s pevnou šířkou.</li>
-</ol>
-
-<p>Mnoho autorů webových stránek používá vlastní typy a velikosti
-písma. Chcete-li povolit používání i jiných, než přednastavených písem,
-zaškrtněte možnost <q>Povolit stránkám použít jiné písmo</q>.</p>
-
-<p>[<a href="#changing_fonts_colors_and_themes">Návrat na začátek kapitoly</a>]</p>
-
-<h3 id="changing_the_default_colors">Změna nastavení předvolených barev</h3>
-
-<p>Obyčejně jsou barvy pozadí a textu přednastavené ve vašem Prohlížeči
-nebo jsou určené autorem webové stránky.</p>
-
-<p>Chcete-li změnit přednastavené barvy, učiňte následující kroky:</p>
+<p>To change the default fonts:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>V kategorii Vzhled klepněte na podkategorii Barvy. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Vzhled zobrazíte jejich seznam.)</li>
-  <li>Klepněte na barevné obdélníky vedle nápisů Text, Pozadí,
-Nenavštívené odkazy a Navštívené odkazy. Pro každý vyberte barvu z
-barevné tabulky. Vybráním zaškrtávacího políčka Podtrhávat odkazy ovlivníte, zda
-mají být odkazy podtrženy či nikoliv.</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Appearance category, choose Fonts. (If no options are visible
+    in this category, double-click Appearance to expand the list.)</li>
+  <li>From the "Fonts for" drop-down list, choose a language group/script.
+    For instance, to set default fonts for West European languages/script
+    (Latin), choose <q>Western</q>.</li>
+  <li>Select whether proportional text should be serif (like Times Roman) or
+    sans-serif (like Arial). Then specify the font size you want for
+    proportional text.</li>
+  <li>If an appropriate font is available for your language/script, select
+    fonts for Serif, Sans-Serif, Cursive, Fantasy, and Monospace. You can also
+    specify what font size you want for monospace text.</li>
+  <li>Specify whether the default font should be serif or sans serif.</li>
+  <li>Select a fixed-width font and size. Certain types of text, such as
+    equations and formulas, are displayed in a fixed-width font.</li>
 </ol>
 
-<p>Většina autorů webových stránek používá své vlastní barvy, které se
-použijí, je-li vybrán přepínač Vždy použít barvy a pozadí
-specifikované na stránce. Pokud vyberete přepínač <q>Vždy použít mnou
-vybrané barvy, potlačit barvy nastavené na stránce</q>, budou barvy určené
-autorem webu ignorovány.</p>
+<p>Many web page authors choose their own fonts and font sizes. To allow fonts
+  other than the ones specified in your preferences, check <q>Allow
+  documents to use other fonts</q>.</p>
 
-<p>Při zobrazení zdrojového kódu stránky je možno zvýraznit HTML
-syntaxi zvýrazněnou zvláštními barvami pokud vyberete zaškrtávací políčko <q>Povolit zvýrazňování syntaxe</q>.</p>
+<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
+  section</a>]</p>
 
-<p>[<a href="#changing_fonts_colors_and_themes">Návrat na začátek kapitoly</a>]</p>
+<h3 id="changing_the_default_colors">Changing the Default Colors</h3>
 
-<h3 id="changing_the_theme">Změna Motivu vzhledu</h3>
+<p>Normally, the background and text colors on web pages are determined by the
+  default colors set by your browser or by the pages&apos; authors.</p>
 
-<p>Změnou Motivu vzhledu lze snadno změnit vzhled aplikace &brandShortName;. Motiv vzhledu můžete změnit z nabídky Zobrazit nebo ze Správce doplňků
-</p>
-
-<p>Z nabídky Zobrazit:</p>
+<p>To change the default colors:</p>
 
 <ol>
-  <li>Otevřete nabídku Zobrazit, klepněte na položku Motivy vzhledu a z nabídky zvolte motiv vzhledu.</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Appearance category, choose Colors. (If no options are visible
+    in this category, click to expand the list.)</li>
+  <li>Click the colored blocks next to Text, Background, Unvisited Links, and
+    Visited Links. Choose a color for each from the color chart. You can also
+    specify that links should be underlined.</li>
 </ol>
 
-<p>Ze Správce doplňků:</p>
+<p>Most web page authors choose their own colors. You can override the
+  authors&apos; intentions by selecting <q>Use my chosen colors, ignoring
+  the colors specified</q>.</p>
+
+<p>When viewing the source of a web page, you can see the HTML syntax of the
+  source of a web page highlighted in specific colors by selecting <q>Enable
+  syntax highlighting</q>.</p>
+
+<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
+  section</a>]</p>
+
+<h3 id="changing_the_theme">Changing the Theme</h3>
+
+<p>You can change the look and feel of &brandShortName; by using a different
+  theme. Changing the theme can be done either from the View menu or from the
+  Add-on Manager.</p>
+
+<p>From the View menu:</p>
 
 <ol>
-  <li>Otevřete nabídku Nástroje a klepněte na položku Správce doplňků.</li>
-  <li>Klepněte na tlačítko Motivy vzhledu v panelu nástrojů.</li>
-  <li>V seznamu zvolte motiv vzhledu a následně klepněte na tlačítko Použít motiv vzhledu.</li>
-  <li>Ukončete a znovu spusťte &brandShortName;.</li>
+  <li>Open the View menu and choose Apply Theme, and then select a theme from
+    the menu.</li>
+  <li>Quit and restart &brandShortName;.</li>
 </ol>
 
-<p>[<a href="#changing_fonts_colors_and_themes">Návrat na začátek kapitoly</a>]</p>
+<p>From the Add-on Manager:</p>
 
-<h2 id="toolbars">Lišty prohlížeče</h2>
+<ol>
+  <li>Open the Tools menu and choose Add-on Manager.</li>
+  <li>Click the Themes button in the toolbar.</li>
+  <li>Select a theme from the list, and then click the Use Theme button.</li>
+  <li>Quit and restart &brandShortName;.</li>
+</ol>
 
-<div class="contentsBox">V této kapitole:
-<ul>
-  <li><a href="#navigation_toolbar">Lišta navigace</a></li>
-  <li><a href="#personal_toolbar">Osobní lišta</a></li>
-  <li><a href="#status_bar">Stavový řádek</a></li>
-  <li><a href="#component_bar">Lišta komponent</a></li>
-  <li><a href="#hiding_a_toolbar">Skrytí lišty</a></li>
-</ul>
+<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
+  section</a>]</p>
+
+<h2 id="toolbars">Toolbars</h2>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#navigation_toolbar">Navigation Toolbar</a></li>
+    <li><a href="#personal_toolbar">Personal Toolbar</a></li>
+    <li><a href="#status_bar">Status Bar</a></li>
+    <li><a href="#component_bar">Component Bar</a></li>
+    <li><a href="#hiding_a_toolbar">Hiding a Toolbar</a></li>
+  </ul>
 </div>
 
-<h3 id="navigation_toolbar">Lišta navigace</h3>
+<h3 id="navigation_toolbar">Navigation Toolbar</h3>
 
-<p>lišta navigace obsahuje tlačítka pro navigaci mezi jednotlivými
-webovými stránkami.</p>
+<p>The Navigation Toolbar, pictured here, helps you move around the Web.</p>
 
 <table summary="Image table">
   <tr>
     <td colspan="4">
-      <img src="images/reload.gif" alt="Navigační lišta"/>
+      <img src="images/reload.gif" alt="navigation toolbar"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Zpět</strong></td>
-    <td><strong>Vpřed</strong></td>
-    <td><strong>Znovu načíst stránku</strong></td>
-    <td><strong>Zastavit načítání stránky</strong></td>
+    <td><strong>Back</strong></td>
+    <td><strong>Forward</strong></td>
+    <td><strong>Reload</strong></td>
+    <td><strong>Stop</strong></td>
   </tr>
 </table>
 
-<p>[<a href="#toolbars">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
 
-<h3 id="personal_toolbar">Osobní lišta</h3>
+<h3 id="personal_toolbar">Personal Toolbar</h3>
 
-<p>Osobní lišta je zcela nastavitelná &ndash; vy rozhodujete o tom, jaké
-položky se v ní mají nacházet.</p>
+<p>The Personal Toolbar is completely customizable&mdash;you decide what you
+  want to keep there.</p>
 
 <table summary="Image table">
   <tr> 
-    <td><img src="images/personalbar.png" alt="Osobní lišta"/></td>
+    <td><img src="images/personalbar.png" alt="Personal Toolbar"/></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Osobní lišta</strong></td>
+    <td style="text-align: center;"><strong>Personal Toolbar</strong></td>
   </tr>
 </table>
 
-<p>Přidání, smazání, přeskupení položek v Osobní liště je snadné.</p>
+<p>You can easily add, delete, and rearrange items in the Personal Toolbar.</p>
 
-<h4 id="turning_buttons_on_and_off">Zobrazení tlačítek na Osobní liště</h4>
+<h4 id="turning_buttons_on_and_off">Turning Buttons On and Off</h4>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>Klepněte na kategorii Prohlížeč.</li>
-  <li>V sekci <q>Vyberte tlačítka, která chcete zobrazit v liště</q>,
-vyberte tlačítka která chcete zobrazit na Osobní liště.</li>
-  <li>Klepněte na tlačítko OK.</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Click Browser.</li>
+  <li>Under <q>Select the buttons you want to see in the toolbars</q>,
+    choose the buttons that you want on your toolbar.</li>
+  <li>Click OK.</li>
 </ol>
 
-<h4 id="adding_personal_toolbar_bookmarks">Přidání záložky do Osobní lišty</h4>
+<h4 id="adding_personal_toolbar_bookmarks">Adding Personal Toolbar
+  Bookmarks</h4>
 
-<p>Tlačítko vaší oblíbené záložky, nebo adresář se skupinou záložek
-můžete přidat do Osobní lišty tímto způsobem:</p>
+<p>You can add buttons for your favorite bookmarks, or folders containing
+  groups of bookmarks. To create a new bookmark to add to the Personal
+  Toolbar:</p>
   
 <ol>
-  <li>Přejděte na stránku, jejíž záložku chcete přidat.</li>
-  <li>Přetáhněte myší ikonku stránky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="Ikonka záložky"/>  (nalevo v editačním poli Adresního řádku) na
-určité místo na Osobní liště. Můžete přetáhnout ikonu záložky přímo do
-Osobní lišty, nebo do adresáře v liště umístěném. Pro více informací,
-viz. <a href="#adding_bookmark_folders_to_the_personal_toolbar">Přidání složky záložek do
-Osobní lišty</a>.</li>
+  <li>Open a web page you want to bookmark.</li>
+  <li>Drag the bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/>(located to the left of URL in the
+    Location Bar) to a desired place on the Personal Toolbar. You can drag the
+    icon directly to the Personal Toolbar, or to a folder on the Personal
+    Toolbar. For more information, see
+    <a href="#adding_bookmark_folders_to_the_personal_toolbar">Adding Bookmark
+    Folders to the Personal Toolbar</a>.</li>
 </ol>
 
-<p><strong>Poznámka:</strong> Ikona záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt="Ikona záložky"/> může být nahrazena jinou, webovými
-stránkami určenou ikonou, pokud jste vybrali zaškrtávací políčko Zobrazovat ikony
-webového serveru v Předvolbách. Více informací najdete zde <a href="cs_nav_prefs_appearance.xhtml#appearance">Předvolby &ndash; Vzhled</a>.</p>
+<p><strong>Note</strong>: The bookmark icon
+  <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt="image
+  of bookmark icon"/> may appear as another page-specific icon if you have
+  checked Show Website Icons in preferences. See
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences -
+  Appearance</a> for more information on changing this preferences.</p>
 
-<p>Každá položka na liště je zobrazena jako tlačítko. Aby byla vidět
-všechna tlačítka, je někdy nutné zvětšit okno Prohlížeče.</p>
+<p>Each item in the Personal Toolbar folder appears as a toolbar button. You
+  may need to enlarge the browser window to see them all.</p>
 
-<p id="adding_bookmark_folders_to_the_personal_toolbar"><strong>Přidání složky záložek do Osobní lišty</strong></p>
+<p id="adding_bookmark_folders_to_the_personal_toolbar"><strong>Adding
+  Bookmark Folders to the Personal Toolbar</strong></p>
 
-<p>Do Osobní lišty je možno přidat adresáře záložek, což vám umožňuje
-třídit oblíbené záložky do kategorií. Například si můžete na
-Osobní liště vytvořit jeden adresář pro záložky související se zálibami
-a jiný adresář pro záložky týkající se vašeho zaměstnání. Přidání nové složky záložek do Osobní lišty:</p>
+<p>You can add bookmark folders to the Personal Toolbar to sort your favorite
+  bookmarks into categories. For example, you can have one folder on the
+  Personal Toolbar for hobby-related bookmarks and another folder for
+  work-related bookmarks. To add a new bookmark to the Personal Toolbar:</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>Vyberte vaší <q>Složku osobního panelu</q>.</li>
-  <li>Klepněte na tlačítko Nová složka.</li>
-  <li>Vložte jméno složky &ndash; přednastavené jméno složky je <q>Nová složka</q>.</li>
-  <li>Klepněte na tlačítko OK pro potvrzení jména nové složky.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>Select your designated <q>Personal Toolbar Folder</q>.</li>
+  <li>Click New Folder on the toolbar.</li>
+  <li> Type a name for your new bookmark folder. By default, the name is
+    <q>New Folder</q>.</li>
+  <li>Click OK to confirm your new bookmark folder name.</li>
 </ol>
 
-<p>Nová složka záložky bude umístěna na konec Osobní lišty.</p>
+<p>The new bookmark folder will appear at the end of the Personal Toolbar.</p>
 
-<h4>Nastavení složky záložek jako složky pro Osobní lištu</h4>
+<h4>Designating a Bookmark Folder as Your Personal Toolbar Folder</h4>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>Zvolte složku, kterou chcete nastavit jako složku pro Osobní
-lištu.</li>
-  <li>V nabídce Zobrazit klepněte na položku Nastavit jako osobní složku.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>Select the bookmark folder whose items you want to appear on the
+    toolbar.</li>
+  <li>From the View menu, choose Set as Personal Toolbar Folder.</li>
 </ol>
 
-<p>Tlačítka na Osobní liště nyní odpovídají záložkám v nastaveném
-adresáři.</p>
+<p>The buttons in your Personal Toolbar now correspond to the bookmarks in the
+  folder you designated.</p>
 
-<h4>Odstranění složky záložek nebo záložky z Osobní lišty</h4>
+<h4>Removing Bookmarks from the Personal Toolbar</h4>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>Klepněte na Osobní složku záložek.</li>
-  <li>Vyberte záložku nebo složku kterou chcete smazat.</li>
-  <li>Zmáčkněte tlačítko Delete na vaší klávesnici.</li>
-  <li>Zavřete dialogové okno Správce záložek.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>Click the Personal Toolbar Folder.</li>
+  <li>Select the bookmark or folder you want to delete.</li>
+  <li>Press Delete on your keyboard.</li>
+  <li>Close the Manage Bookmarks window.</li>
 </ol>
 
-<p><strong>Tip:</strong> Pro rychlé smazání záložky umístěné v Osobní liště (ne
-v adresáři), klepněte pravým tlačítkem myši na záložce v Osobní liště a
-v místní nabídce klepněte na položku Smazat.</p>
+<p><strong>Tip</strong>: To quickly remove a bookmark placed on the Personal
+  Toolbar (not in a folder), right-click on the bookmark and select Delete.</p>
 
-<h4>Přerovnání záložek v Osobní liště</h4>
+<h4>Rearranging the Personal Toolbar</h4>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>V dialogovém okně Správce záložek, klepněte na Osobní složku záložek.</li>
-  <li>Vyberte záložku nebo složku a přetáhněte je na nové místo.</li>
-  <li>Po přerovnání, zavřete vaše dialogové okno Správce záložek.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, click the Personal Toolbar Folder.</li>
+  <li>Select a bookmark or folder and drag it to a new location.</li>
+  <li>When you are finished rearranging items, close your Bookmarks
+    window.</li>
 </ol>
 
-<p><strong>Poznámka:</strong> Standardní tlačítka na osobní liště jako např.
-Domů, Záložky, Hledat, Go a Tisknout nemohou být přemístěny, je však možné je <a href="#turning_buttons_on_and_off">zapnout/vypnout</a>.</p>
+<p><strong>Note</strong>: Standard buttons on the Personal Toolbar such as
+  Bookmarks, Search, Go, Print and Home cannot be rearranged, but they can
+  be <a href="#turning_buttons_on_and_off">turned off and on</a>.</p>
 
-<p><strong>Tip:</strong> Chcete-li rychle přesunout záložku umístěnou na osobní
-liště, klepněte na ni a přetáhněte ji na nové místo na liště nebo do
-adresáře na osobní liště.</p>
+<p><strong>Tip</strong>: To move a bookmark placed on the Personal Toolbar
+  quickly, click and drag the bookmark to another location on the Personal
+  Toolbar or to a folder.</p>
   
-<p>[<a href="#toolbars">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
 
-<h3 id="status_bar">Stavový řádek</h3>
+<h3 id="status_bar">Status Bar</h3>
 
-<p>Stavový řádek je jednořádková lišta při spodním okraji okna
-Prohlížeče. Obsahuje následující objekty:</p>
+<p>The Status Bar is located at the bottom of any &brandShortName; window. It
+  includes the following:</p>
 
 <ul>
-  <li>Lišta komponent: Obsahuje ikonky všech standardních komponent
-aplikace &brandShortName;. Více informací viz. <a href="#component_bar">Lišta komponent</a>.</li>
-  <li>Informace o stavu: Zobrazuje informace jako např. URL adresu
-webové stránky a informaci o stavu načítání stránky.</li>
-  <li>Ikona upozornění na cookie <img src="chrome://communicator/skin/permissions/taskbar-cookie.gif"
-    alt="cookie notification icon"/>: Zobrazí se, když webová stránka
-použije cookie tak, že na to musíte být upozorněni. Pro podrobnější
-informace se podívejte na <a href="using_priv_help.xhtml#cookie_notification">Upozorňování na cookie</a>.</li>
-  <li>Ikona práce offline <img src="chrome://communicator/skin/icons/offline.png"
-    alt="work offline icon"/> nebo práce online <img src="chrome://communicator/skin/icons/online.png"
-    alt="work online icon"/> : Kliknutím na ikonu přepínáte mezi prací
-online a offline. Při práci offline se aplikace &brandShortName; brání připojení k
-Internetu například z důvodu načítání obrázků nebo automatické kontroly
-nové pošty.</li>
-  <li>Ikona zámku (Příklad: <img src="chrome://communicator/skin/icons/lock-insecure.png"
-    alt="lock icon"/>): Indikuje, zda byl obsah webové stránky při přenosu
-do vašeho počítače zašifrovaný. Pro podrobnější informace se podívejte
-na <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Kontrola zabezpečení webové stránky</a>.</li>
+  <li>Component Bar: Allows you to switch between components. For more
+    information, see <a href="#component_bar">Component Bar</a>.</li>
+  <li>Status information: Displays information like the web-page URL and load
+    status information.</li>
+  <li>Cookie notification icon
+    <img src="chrome://communicator/skin/permissions/taskbar-cookie.gif"
+    alt="cookie notification icon"/>: 
+    Appears when a website has used a cookie in a way that requires you to be
+    notified. For more information, see
+    <a href="using_priv_help.xhtml#cookie_notification">Cookie
+    Notification</a>.</li>
+  <li>Work Offline
+    <img src="chrome://communicator/skin/icons/offline.png"
+    alt="work offline icon"/> or Work Online
+    <img src="chrome://communicator/skin/icons/online.png"
+    alt="work online icon"/> icon: Click the icon to toggle working
+    offline or online. Working offline prevents &brandShortName; from
+    attempting to connect to the Internet, for example to load images on web
+    pages or automatically check email.</li>
+  <li>Lock icon (Example:
+    <img src="chrome://communicator/skin/icons/lock-insecure.png"
+    alt="lock icon"/>): Indicates whether the entire contents of the page
+    was encrypted while it was being received by your computer. For more
+    information, see
+    <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Checking
+    Security for a Web Page</a>.</li>
 </ul>
 
-<p>[<a href="#toolbars">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
 
-<h3 id="component_bar">Lišta komponent</h3>
+<h3 id="component_bar">Component Bar</h3>
 
-<p>Lištu komponent najdete v levé dolní části jakéhokoli okna aplikace &brandShortName;.
-Slouží k přepínání mezi jednotlivými aplikacemi (prohlížeč, mailový
-klient).</p>
+<p>Use the Component Bar at the bottom left of any &brandShortName; window to
+  switch between tasks (such as browsing or mail).</p>
   
-<p><img src="images/taskbar.png" alt="Lišta komponent"/></p>
+<p><img src="images/taskbar.png" alt="component bar"/></p>
 
-<p>[<a href="#toolbars">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
 
-<h3 id="hiding_a_toolbar">Skrytí lišty</h3>
+<h3 id="hiding_a_toolbar">Hiding a Toolbar</h3>
 
-<p>Skrytí je možno provést dvěma způsoby.</p>
+<p>There are two ways to hide the toolbars.</p>
 
-<p>Minimalizace lišty:</p>
+<p>To minimize a toolbar:</p>
 
 <ul>
-  <li>Klepněte na malý trojúhelník na levé straně lišty. Pro
-zobrazení panelu na něj klepněte znovu. (Poznámka: Tímto způsobem nelze
-skrýt lištu úloh.)</li>
+  <li>Click the small triangle at the left of the toolbar. To show the toolbar,
+    click the triangle again. (Note: You cannot hide the Component Bar using
+    this method.)</li>
 </ul>
 
-<p>Úplné skrytí panelu (včetně trojúhelníku):</p>
+<p>To completely hide a toolbar, including its triangle:</p>
 
 <ol>
-  <li>Otevřete nabídku Zobrazit.</li>
-  <li>Klepněte na podnabídku Zobrazit/Skrýt a zde klepněte na název lišty, který chcete skrýt.</li>
+  <li>Open the View menu.</li>
+  <li>Choose Show/Hide and uncheck the toolbars you want to hide.</li>
 </ol>
 
-<p>Chcete-li panel znovu zobrazit, otevřete nabídku Zobrazit, klepněte na podnabídku Zobrazit/Skrýt a zde klepněte na název lišty, kterou chcete zobrazit.</p>
+<p>To reverse this action, open the View menu, choose Show, and then select
+  the toolbars you want to show.</p>
   
-<p>[<a href="#toolbars">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
 
-<h2 id="bookmarks">Záložky programu &brandShortName;</h2>
+<h2 id="bookmarks">Bookmarks</h2>
 
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#what_are_bookmarks">Co to jsou záložky?</a></li>
-  <li><a href="#using_bookmarks">Používání záložek</a></li>
-  <li><a href="#creating_new_bookmarks">Přidání nové záložky</a></li>
-  <li><a href="#organizing_your_bookmarks">Správa záložek</a></li>
-  <li><a href="#changing_individual_bookmarks">Změna konkrétní záložky</a></li>
-  <li><a href="#searching_your_bookmarks">Prohledávání záložek</a></li>
-  <li><a href="#exporting_or_importing_a_bookmark_list">Export a Import záložek</a></li>
-</ul>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_are_bookmarks">What Are Bookmarks?</a></li>
+    <li><a href="#using_bookmarks">Using Bookmarks</a></li>
+    <li><a href="#creating_new_bookmarks">Creating New Bookmarks</a></li>
+    <li><a href="#organizing_your_bookmarks">Organizing Your Bookmarks</a></li>
+    <li><a href="#changing_individual_bookmarks">Changing Individual
+      Bookmarks</a></li>
+    <li><a href="#searching_your_bookmarks">Searching Your Bookmarks</a></li>
+    <li><a href="#exporting_or_importing_a_bookmark_list">Exporting or
+      Importing a Bookmark List</a></li>
+  </ul>
 </div>
 
-<h3 id="what_are_bookmarks">Co to jsou záložky?</h3>
+<h3 id="what_are_bookmarks">What Are Bookmarks?</h3>
 
-<p>Záložky slouží pro snadnější přesun na vaše oblíbené či často
-navštěvované webové stránky. Namísto pamatování a zadávání dlouhých
-URL, stačí pouze vytvořit záložku, pomocí níž se rychle přesunete přímo
-na stránku, kterou chcete navštívit.</p>
+<p>Bookmarks are shortcuts to your favorite and most-visited web pages. Rather
+  than typing in long URLs (web addresses), you can create bookmarks that take
+  you directly to the pages you want to see.</p>
 
-<p>K záložkám přistupujete přes nabídku Záložky, přes Postranní lištu
-Záložky a přes dialogové okno Správce záložek. Obsah nabídky Záložky ovlivňujete
-přidáváním nových položek pro vaše oblíbené webové stránky a
-správou seznamu záložek tak, jak potřebujete.</p>
+<p>You access your bookmarks through the Bookmarks menu, the Bookmarks tab on
+  Sidebar, and the Manage Bookmarks window. You can control what&apos;s listed
+  in the Bookmarks menu by adding bookmarks for your favorite web pages and
+  organizing your list of bookmarks any way you want.</p>
 
-<h3 id="using_bookmarks">Používání záložek</h3>
+<h3 id="using_bookmarks">Using Bookmarks</h3>
 
-<p>Některé záložky jsou v aplikaci &brandShortName; už přednastaveny. Chcete -li použít
-záložku:</p>
+<p>&brandShortName; comes with some bookmarks already available. To use a
+  bookmark:</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky.</li>
-  <li>V seznamu nebo složce klepněte na vybranou záložku.</li>
+  <li>Open the Bookmarks menu.</li>
+  <li>Choose a bookmark from the list or from a folder in the list.</li>
 </ol>
 
-<p>[<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
 
-<h3 id="creating_new_bookmarks">Přidání nové záložky</h3>
+<h3 id="creating_new_bookmarks">Creating New Bookmarks</h3>
 
-<p>Můžete si vytvořit záložku pro vaši oblíbenou webovou stránku,
-abyste se na ní mohli pohodlně vracet.</p>
+<p>You can bookmark your favorite websites to make it easy to return to
+  them.</p>
 
-<p>Přidání stránky načtené v okně Prohlížeče (aktivním panelu
-Prohlížeče):</p>
+<p>To bookmark the current page, perform one of these steps:</p>
 
 <ul>
-  <li>Otevřete nabídku Záložky a klepněte na položku Přidat k záložkám.</li>
-  <li>Pro přidání záložky s úpravou údajů a výběrem složky:
+  <li>To add a bookmark to the Bookmarks menu, open the Bookmarks menu and
+    choose Bookmark This Page.</li>
+  <li>To add a bookmark to a specific folder on the Bookmarks menu, or to
+    provide a specific name or URL for your bookmark:
     <ol>
-      <li>Otevřete nabídku Záložky a klepněte na položku Přidat k záložkám
-jako. Upravte některý z následujících údajů: 
+      <li>Open the Bookmarks menu and choose File Bookmark. Choose from any of
+        these options: 
         <ul>
-          <li><strong>Název:</strong> Název stránky / záložky.</li>
-          <li><strong>Umístění:</strong> URL stránky / záložky.</li>
-	  <li><strong>Klíčové slovo:</strong> Zadejte klíčové slovo pro záložku, pokud chcete, aby se uložená záložka otevřela z adresního řádku (viz. <a href="nav_help.xhtml#custom_keywords">Using Custom Bookmark Keywords</a>).</li>
-          <li><strong>Cíl:</strong> Zvolte složku, ve které chcete záložku
-vytvořit.</li>
-          <li><strong>Nová složka:</strong> Klepněte na toto tlačítko pro
-vytvoření nové složky pro vložení záložky.</li>
+          <li><strong>Name</strong>: Enter a name for the bookmark if you want
+            a different name.</li>
+          <li><strong>Location</strong>: Enter a URL for the bookmark if you
+            want a different URL.</li>
+          <li><strong>Keyword</strong>: Enter a keyword for the bookmark if you
+            want to be able to open the bookmarked page from the Location
+            Bar (see
+            <a href="nav_help.xhtml#custom_keywords">Using Custom Bookmark
+            Keywords</a>).</li>
+          <li><strong>Destination</strong>: Choose a folder in which to create
+            your bookmark.</li>
+          <li><strong>New Folder</strong>: Click this to create a new folder in
+            which to create your bookmark.</li>
         </ul>
       </li>
-      <li>Klepněte na tlačítko OK pro přidání záložky.</li>
+      <li>Click OK to add the bookmark.</li>
     </ol>
   
-    <p><strong>Tip:</strong> Máte-li otevřeno několik panelů Prohlížeče v jednom
-okně, můžete přidat aktuálně prohlížené webové stránky jako jedinou
-záložku klepnutím na položku <q>Přidat skupinu panelů k záložkám</q>. Po klepnutí na takto vytvořenou záložku se otevřou všechny panely v aktuálním okně.</p>
-
+    <p><strong>Tip</strong>: If you have multiple browser tabs open in a
+      window, you can select <q>Bookmark this groups of tabs</q> to add a
+      single bookmark that will open all of the open tabs in the current
+      window.</p>
   </li>
-  <li>Pro přidání záložky do Osobní lišty, přetáhněte myší ikonku <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="image of bookmark icon"/> stránky z editačního pole Adresního řádku na určité místo
-nebo do určité složky záložek na Osobní liště. Záložku můžete
-přetáhnout na následující místa:
+  <li>To add a bookmark to the Personal Toolbar, drag the bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/> next to the Location Bar to a place on
+    the Personal Toolbar. You can drag a bookmark to the following places:
     <ul>
-      <li>Do adresáře Záložky na Osobní liště.</li>
-      <li>Do adresáře se záložkami, který jste vytvořili na Osobní
-liště.</li>
-      <li>Přímo na Osobní lištu, vpravo od všech složek se záložkami.
-        <p>Další informace naleznete v kapitole <a href="#adding_personal_toolbar_bookmarks">Přidání záložky do Osobní lišty</a>.</p>
+      <li>In the Bookmarks folder on the Personal Toolbar.</li>
+      <li>In a bookmarks folder you&apos;ve created on the Personal
+        Toolbar.</li>
+      <li>To the Personal Toolbar itself, on the right side of all bookmarks
+        folders.
+        <p>For more information about adding bookmarks to the Personal Toolbar,
+          see <a href="#adding_personal_toolbar_bookmarks">Adding Personal
+          Toolbar bookmarks</a>.</p>
       </li>
     </ul>
   </li>
 </ul>
 
-<table summary="Tabulka obrázků">
+<table summary="Image table">
   <tr>
-    <td><img src="images/personalbar.png" alt="Osobní lišta"/></td>
+    <td><img src="images/personalbar.png" alt="Personal Toolbar"/></td>
   </tr>
   <tr>
-    <td><strong>Osobní lišta</strong></td>
+    <td><strong>Personal Toolbar</strong></td>
   </tr>
 </table>
 
 <ul>
-  <li>Chcete-li přidat záložku na panel Záložky na Postranní liště,
-otevřete Postranní lištu, klepněte na jmenovku Záložky a přeneste
-ikonu záložky 
+  <li>To add a bookmark to the Bookmarks tab in Sidebar, open Sidebar, select
+    the Bookmarks tab, and drag the bookmark icon
     <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="Ikonka záložky"/> z editačního pole Adresního řádku na zvolené místo v panelu 
-Záložky.
+    alt="image of bookmark icon"/> next to the Location Bar to a place on
+    the bookmark list in the Bookmarks tab.
   </li>
 </ul>
 
-<p><strong>Poznámky:</strong></p>
+<p><strong>Notes</strong>:</p>
 <ul>
-  <li>Ikona záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="image of bookmark icon"/> může být nahrazena vlastní ikonou webové
-stránky, pokud jste vybrali zaškrtávací políčko Zobrazovat ikony webového serveru
-v předvolbách. Pro více informací se podívejte na <a href="cs_nav_prefs_appearance.xhtml#appearance">Předvolby &ndash; vzhled</a>.</li>
-  <li>Po přidání záložky kteroukoli výše uvedenou metodou může být k
-této záložce přistupováno z Postranní lišty panelu Záložky, z dialogového okna Správce
-záložek a z nabídky Záložky.</li>
+  <li>The bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/> may appear as another page-specific
+    icon if you have checked Show Website Icons in preferences. See
+    <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences -
+    Appearance</a> for more information on changing this preferences.</li>
+  <li>After adding a bookmark using any of the methods listed above, it can be
+    accessed using the Sidebar Bookmarks tab, the Manage Bookmarks window, and
+    the Bookmarks menu.</li>
 </ul>
 
-<p>[<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
 
-<h3 id="organizing_your_bookmarks">Správa záložek</h3>
+<h3 id="organizing_your_bookmarks">Organizing Your Bookmarks</h3>
 
-<p>Pro úpravu vašich záložek, otevřete nabídku Záložky a klepněte na položku
-Upravit záložky. V dialogovém okně Správce záložek můžete provést následující
-operace.</p>
+<p>To organize your bookmarks, open the Bookmarks menu and choose Manage
+  Bookmarks. Perform any of the following tasks in your Manage Bookmarks
+  window.</p>
 
-<p><strong>Tip:</strong> Dialogové okno Správce záložek lze otevřít i z Postranní lišty po klepnutí na tlačítko Upravit v horní části panelu Záložky.</p>
+<p><strong>Tip</strong>: You can open the Manage Bookmarks window from the
+  Bookmarks tab in Sidebar. Click on Manage at the top of the Bookmarks
+  tab.</p>
 
-<p>Pro zobrazení záložek ve složkách:</p>
-
-<ul>
-  <li>Dvojklepnutím na složku zobrazíte její obsah.</li>
-</ul>
-
-<p>Chcete-li přesunout záložku nebo složku na jiné místo v seznamu:</p>
+<p>To view bookmarks inside of folders:</p>
 
 <ul>
-  <li>Přetáhněte myší záložku nebo složku kterou chcete přesunout, na
-nové místo. K umístění záložky do složky ji na danou složku
-položte.</li>
+  <li>Double-click a folder to view its contents.</li>
 </ul>
 
-<p>Pro vytvoření nové složky nebo oddělovače:</p>
+<p>To move a bookmark or a folder to another location in the list:</p>
 
 <ul>
-  <li>Klepněte na tlačítko Nová složka nebo Nový oddělovač v Nástrojové
-liště. Nová složka či oddělovač se objeví níže od aktuálního výběru.</li>
+  <li>Drag the bookmark or folder that you want to move to the new location. To
+    put a bookmark in a folder, drag it to the folder.</li>
 </ul>
 
-<p>Odstranění záložky, složky nebo oddělovače:</p>
+<p>To create a new folder or separator:</p>
+
+<ul>
+  <li>Click New Folder or New Separator at the top of the Bookmarks window. The
+    new folder or separator appears below the current selection.</li>
+</ul>
+
+<p>To remove a bookmark or a folder from the list:</p>
 
 <ol>
-  <li>Klepněte pro zvýraznění na záložku nebo složku jenž chcete
-smazat.</li>
-  <li>Zmáčkněte tlačítko Delete na vaší klávesnici nebo klepněte na
-tlačítko Smazat v Nástrojové liště.</li>
+  <li>Click to highlight the bookmark or folder that you want to remove.</li>
+  <li>Press the Delete key on your keyboard, or click Delete in the Bookmarks
+    window.</li>
 </ol>
 
-<p>Seřazení záložek v dialogovém okně Správce záložek:</p>
+<p>To sort your bookmarks in the Manage Bookmarks window:</p>
 
 <ul>
-  <li>Vyberte složku, kterou chcete seřadit.</li>
-  <li>Pro seřazení podle Názvu otevřete nabídku Upravit a v ní zvolte Seřadit složku dle jména.</li>
-  <li>Pro seřazení složky jiným způsobem otevřete nabídku Upravit a v ní zvolte Seřadit složku. V otevřeném dialogu zvolte způsob řazení.
+  <li>Select the folder you want to sort.</li>
+  <li>To sort bookmarks by Name, open the Edit menu and select Sort Folder by
+    Name.</li>
+  <li>To sort bookmarks in other ways, open the Edit menu and select Sort
+    Folder. In the dialog, choose how you want the list sorted.
 
-    <p><strong>Tip:</strong> Chcete-li zobrazit více sloupců, otevřete nabídku
-Zobrazit, klepněte na podnabídku <q>Zobrazit sloupce</q> a zde klepněte na název sloupce který chcete zobrazit.</p></li>
+    <p><strong>Tip</strong>: To add more columns, open the View menu, open
+      <q>Show columns</q>, and select a column header in the list.</p></li>
 </ul>
 
-<h4>Výběr nové složky pro záložky</h4>
+<h4>Designating a New Bookmark Folder</h4>
 
-<p>Když vytvoříte novou záložku, &brandShortName; ji přidá na konec seznamu
-záložek. Přejete-li si uložit záložku do složky, můžete určit složku
-pro nové záložky.</p>
+<p>When you create a new bookmark, &brandShortName; normally adds it to the
+  bottom of your bookmarks list. If you prefer to file your bookmarks in a
+  folder, you can designate a new bookmarks folder.</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>V dialogovém okně Správce záložek vyhledejte složku pro ukládání nových záložek.</li>
-  <li>Otevřete nabídku Zobrazit a klepněte na položku zvolte Nastavit jako novou složku pro
-záložky.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, select a folder to hold new bookmarks.</li>
+  <li>Open the View menu and choose Set as New Bookmark Folder.</li>
 </ol>
 
-<p> [<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
+<p> [<a href="#bookmarks">Return to beginning of section</a>]</p>
 
-<h3 id="changing_individual_bookmarks">Změna konkrétní záložky</h3>
+<h3 id="changing_individual_bookmarks">Changing Individual Bookmarks</h3>
 
-<p>U konkrétní záložky můžete změnit celou řadu informací.</p>
+<p>You can change the information for any individual bookmark.</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>V dialogovém okně Správce záložek vyberte záložku, kterou chcete změnit.</li>
-  <li>Klepněte na tlačítko Vlastnosti.</li>
-  <li>Otevře se vám dialogové okno Vlastnosti záložky a zde je sekce
-Informace.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, click a bookmark.</li>
+  <li>Click Properties.</li>
+  <li>In the bookmark Properties dialog box window, click the Info tab.</li>
 </ol>
 
-<p>Zde můžete změnit Název (tento název se zobrazí v seznamu
-záložek), Popis, nebo nastavit <a href="nav_help.xhtml#custom_keywords">Klíčové slovo</a>.</p>
+<p>You can rename the bookmark (the name appears in your bookmark list),
+  add descriptive information, or set a 
+  <a href="nav_help.xhtml#custom_keywords">keyword</a>.</p>
 
-<p>Můžete také nastavit, aby &brandShortName; sledovala aktualizace
-založených webových stránek.</p>
+<p>You can also set &brandShortName; to check bookmarked websites for
+  changes.</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>V dialogovém okně Správce záložek vyberte záložku, kterou chcete změnit.</li>
-  <li>Klepněte na tlačítko Vlastnosti.</li>
-  <li>Pomocí rozbalovacích nabídek a textového pole v <q>Hlídat aktualizace této adresy</q> nastavte, jak často chcete, aby &brandShortName; kontroloval změny na hlídané stránce.</li>
-  <li>Chcete-li být na změny hlídané stránky upozorněni, zvolte z možností v části <q>Upozornění</q>.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, click a bookmark.</li>
+  <li>Click Properties.</li>
+  <li>Use the pull down lists and the textfield under <q>Check this location
+    for updates</q> to specify how often you want &brandShortName; to check the
+    bookmarked page for changes.</li>
+  <li>To be notified when the bookmarked page changes, choose from the options
+    in the <q>Notification</q> section.</li>
 </ol>
 
-<p> [<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
+<p> [<a href="#bookmarks">Return to beginning of section</a>]</p>
 
-<h3 id="searching_your_bookmarks">Prohledávání záložek</h3>
+<h3 id="searching_your_bookmarks">Searching Your Bookmarks</h3>
 
-<p>Chcete-li prohledat záložky:</p>
+<p>To search the bookmarks list:</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>Otevře se vám dialogové okno Správce záložek. V něm otevřete nabídku
-Nástroje a klepněte na položku Hledat záložky. Zobrazí se vám dialogové okno
-Hledání záložek.</li>
-  <li>Z rozbalovacího seznamu zvolte možnosti pro vaše vyhledávání, a
-klepněte na tlačítko Hledat. Zobrazí se záložky, které splňují
-vyhledávací podmínky. Můžete vybrat následující vyhledávací
-podmínky:
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, open the Tools menu and choose Search
+    Bookmarks. You see the Find Bookmarks dialog box.</li>
+  <li>In the drop-down lists, choose options to define your search, and then
+    click Find. Bookmarks that match your search criteria are displayed. Choose
+    from the following Search options:
     <ul>
-      <li>Zvolte <q>obsahuje</q>, <q>začíná na</q> nebo <q>končí na</q> pokud znáte
-pouze část hledaného textu.</li>
-      <li>Zvolte <q>je</q> pokud znáte přesně hledaný řetězec.</li>
-      <li>Zvolte <q>není</q> nebo <q>neobsahuje</q> pro vyjmutí některých záložek
-z hledání.</li>
-      <li>Vložte odpovídající řetězec, hledané či vynechávané slovo,
-URL, pro záložky nebo seznam Historie do editačního pole.</li>
-      <li>Vyberte zaškrtávací políčko <q>Uložit dotaz do záložek</q> pro uložení vyhledaných
-záložek pro pozdější použití.</li>
+      <li>Choose "contains," "starts with," or "ends with" if you know only
+        part of the word or phrase for which you&apos;re searching.</li>
+      <li>Choose "is" if you know exactly what you&apos;re searching for.</li>
+      <li>Choose "is not" or "doesn&apos;t contain" to exclude pages.</li>
+      <li>Click the fill-in field and type all or part of name or URL
+        (web address) for the bookmarks or history listings that you want to
+        find or exclude.</li>
+      <li>Select <q>Save query in bookmarks</q> to save this search for
+        later use.</li>
     </ul>
   </li>
-  <li>Dvojklepněte na vyhledanou záložku, pro načtení stránky v
-Prohlížeči.</li>
+  <li>Double-click a bookmark in the list to go to that page.</li>
 </ol>
 
-<p><strong>Tip:</strong> Je-li zobrazení výsledků málo přehledné, můžete zkusit
-zvětšit okno s výsledky vyhledávání.</p>
+<p><strong>Tip</strong>: If the list is hard to read, try expanding the search
+  results window.</p>
 
-<p>[<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
 
-<h3 id="exporting_or_importing_a_bookmark_list">Export a Import záložek</h3>
+<h3 id="exporting_or_importing_a_bookmark_list">Exporting or Importing a
+  Bookmark List</h3>
 
-<p>Vaše záložky jsou fyzicky uloženy v souboru bookmarks.html. Můžete
-kopii souboru se záložkami exportovat do zvoleného adresáře. Potom ho
-můžete upravovat a zacházet s ním, jako by to byl HTML soubor.</p>
+<p>Your bookmarks are stored in a file named bookmarks.html. You can export a
+  copy of this file and save it in a folder of your choosing. You can then edit
+  it and treat it as you would any HTML file.</p>
   
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>Otevře se vám dialogové okno Správce záložek. V něm otevřete nabídku
-Nástroje a klepněte na položku Exportovat.</li>
-  <li>V dialogovém okně <q>Export záložek do souboru</q> vyberte
-adresář, do kterého chcete kopii souboru bookmarks.html uložit.</li>
-  <li>Klepněte na tlačítko Uložit.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, open the Tools menu, and choose Export.</li>
+  <li>In the <q>Export Bookmarks File</q> dialog box, choose a folder.
+    Your bookmarks.html file will be copied into the folder you designate.</li>
+  <li>Click Save.</li>
 </ol>
 
-<p>Vaše záložky nebudou exportem změněny.</p>
+<p>Your &brandShortName; bookmarks are not altered by this procedure.</p>
 
-<p>Záložky můžete do aplikace &brandShortName; také importovat z jiného souboru
-záložek. Například, můžete importovat soubory záložek pro minulé verze
-aplikace &brandShortName; z jiných prohlížečů, nebo zaslaný soubor záložek od
-vašich přátel.</p>
+<p>You can also import bookmarks from other sources. For example, you can
+  import bookmarks from earlier &brandShortName; versions, other browsers, or
+  from bookmarks files that your friends send you.</p>
 
-<p>Před importem se přesvědčte, že importovaný soubor je ve formátu
-HTML.</p>
+<p>Before you start, make sure that the bookmarks file you want to import is an
+  HTML file.</p>
 
 <ol>
-  <li>Otevřete nabídku Záložky a klepněte na položku Upravit záložky.</li>
-  <li>Otevře se vám dialogové okno Správce záložek. V něm otevřete nabídku
-Nástroje a klepněte na položku Importovat.</li>
-  <li>V zobrazeném dialogovém okně zvolte, zda chcete importovat záložky z předchozích verzí &brandShortName;, nebo ze souboru záložek uložených na vašem počítači.</li>
-  <li>Klepněte na Pokračovat.</li>
-  <li>Pokut jste zvolili import záložek z předchozí verze &brandShortName;, vyberte profil, ze kterého chcete záložky importovat a klepněte na Pokračovat. Jestliže jste zvolili import záložek ze souboru, vyberte soubor pro import a klepněte na Otevřít.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, open the Tools menu and choose Import.</li>
+  <li>In the dialog that appears, choose whether you want to import bookmarks
+    from earlier versions of &brandShortName;, or from a bookmarks file on your
+    computer.</li>
+  <li>Click Continue.</li>
+  <li>If you have chosen to import bookmarks from an earlier version of
+    &brandShortName;, select the profile you want to import bookmarks from,
+    then click Continue. If you have chosen to import bookmarks from a
+    file, navigate to and select the bookmarks file you want to import, then
+    click Open.</li>
 </ol>
 
-<p>Importované záložky (se zachováním struktury) jsou připojeny na
-konec seznamu záložek. Pokud jste vybrali novou složku pro záložky,
-budou importované záložky přidány právě do této složky.</p>
+<p>The imported bookmarks are treated as a group of new bookmarks and added to
+  the bottom of your bookmarks list. If you have designated a new bookmark
+  folder, the imported bookmarks are added to that folder.</p>
 
-<p><strong>Poznámka:</strong> Tímto postupem se záložky pouze přidají do souboru
-bookmarks.html. Soubory se záložkami se nezdvojí.</p>
+<p><strong>Note</strong>: Importing a bookmarks file imports the bookmarks and
+  folders from that file. It does not create two bookmarks files.</p>
 
-<p>[<a href="#bookmarks">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
 
-<h2 id="specifying_how_mozilla_starts_up">Nastavení startu aplikace &brandShortName;</h2>
+<h2 id="specifying_how_mozilla_starts_up">Specifying How &brandShortName;
+  Starts Up</h2>
 
-<div class="contentsBox">V této sekci:
-<ul>
-  <li><a href="#specifying_a_starting_page">Nastavení úvodní stránky</a></li>
-  <li><a href="#session_restore">Nastavení obnovení předchozí relace</a></li>
-  <li><a href="#changing_your_home_page">Změna vaší domovské stránky</a></li>
-  <li><a href="#specifying_which_components_open_at_launch">Nastavení součástí aplikace 
-  &brandShortName; spouštěných při startu</a></li>
-</ul>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#specifying_a_starting_page">Specifying a Starting Page</a></li>
+    <li><a href="#changing_your_home_page">Changing Your Home Page</a></li>
+    <li><a href="#specifying_which_components_open_at_launch">Specifying Which
+      Components Open at Launch</a></li>
+  </ul>
 </div>
 
-<h3 id="specifying_a_starting_page">Nastavení úvodní stránky</h3>
+<h3 id="specifying_a_starting_page">Specifying a Starting Page</h3>
 
-<p>Můžete nastavit webovou stránku, která se zobrazí při startu
-Prohlížeče:</p>
+<p>You can specify the page that loads when the browser starts:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">
-  	Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>Klepněte na kategorii Prohlížeč</li>
-  <li>V sekci <q>Zobrazit v spuštění prohlížeče</q> si vyberte přepínač Prázdná stránka,
-  Domovská stránka nebo Naposledy navštívenou stránku, která se automaticky
-  nahraje při spuštění Prohlížeče. Nebo můžete &brandShortName; nastavit, aby obnovil předchozí relaci, tj. okna a panely otevřené v při posledním ukončení &brandShortName;.
-  <p><strong>Poznámka:</strong> Zvolíte-li Domovskou stránku, uveďte URL adresu do adresního řádku.</p></li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under "Display on Browser Startup" choose whether you want a
+    blank page, your home page, or the last web page visited to open
+    automatically when you launch your browser.
+  <p><strong>Note</strong>: If you selected Home Page, type the URL in the
+    Location Bar.</p></li>
 </ol>
 
-<p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
 
-<h3 id="session_restore">Nastavení obnovení předchozí relace</h3>
+<h3 id="changing_your_home_page">Changing Your Home Page</h3>
 
-<p>&brandShortName; pravidelně ukládá informace o otevřených oknech a panelech včetně dat vyplněných do formulářů na disk. Když spustíte &brandShortName; se zapnutou funkcí Obnovení relace, budou obnovena okna a panely z vaší předchozí relace. To je zvláště užitečné v případě, kdy vaše předchozí relace skončila neočekávaně (např. váš počítač se zasekl nebo vámi zobrazená stránka vynutila ukončení &brandShortName;). Je-li zvoleno "Obnovit předchozí relaci" v sekci "Zobrazit v spuštění prohlížeče", &brandShortName; automaticky obnoví předchozí relaci. Pokud nezvolíte varování v případě pokusu o zavření okna prohlížeče s více otevřenými panely (viz panel předvoleb <a href="#tabbed_browsing">Prohlížení v panelech</a>),&brandShortName; zobrazí stránky, na které si budete moci vybrat, jaká okna a panely předchozí relace si přejete obnovit. Totéž se stane, pokud &brandShortName; opakovaně spadne.</p>
-  
-<p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začátek kapitoly</a>]</p>
+<p>Your home page is the page that opens when you click the Home button in the
+  Personal Toolbar. Depending on how your preferences are set, it may also be
+  the page that opens automatically when you launch &brandShortName;.</p>
 
-<h3 id="changing_your_home_page">Změna vaší domovské stránky</h3>
-
-<p>Vaše domovská stránka je stránka, která se otevře klepnete-li na
-tlačítko Domů ve vaší Osobní liště. V závislosti na nastavení
-vašich předvoleb to může být stránka, která se automaticky otevírá
-při startu aplikace &brandShortName;.</p>
-
-<p>Chcete-li zadat vaší domovskou stránku:</p>
+<p>To specify your home page:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">
-  	Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>Klepněte na kategorii Prohlížeč.</li>
-  <li>V sekci Domovská stránka proveďte jeden z následujících
-kroků:
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Click the Browser category.</li>
+  <li>In the Home page section, perform one of the following:
     <ul>
-      <li>Napište URL adresu vaší domovské stránky do adresního řádku.</li>
-      <li>Klepněte na tlačítko Použít aktuální stránku. Právě
-prohlížená stránka se stane vaší novou domovskou stránkou.</li>
-      <li>Klepněte na tlačítko Vybrat soubor. Můžete vybrat soubor,
-který se nachází na pevném disku vašeho počítače.</li>
+      <li>Type your home page&apos;s URL (web address) in the Location
+        field.</li>
+      <li>Click Use Current Page to make the page currently displayed in the
+        browser window your home page.</li>
+      <li>Click Choose File to select a file from your computer&apos;s hard
+        drive.</li>
    </ul>
  </li>
 </ol>
 
-<p><strong>Tip:</strong> Pro rychlé zadání domovské stránky přetáhněte ikonu
-záložky <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-  alt="Ikona záložky"/> z adresního řádku na tlačítko Domů na
-Osobní liště.</p>
+<p><strong>Tip</strong>: To specify your home page quickly, drag the bookmark
+  icon <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+  alt="image of bookmark icon"/> from the Location Bar to the Home Page
+  button on the Personal Toolbar.</p>
 
-<p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
 
-<h3 id="specifying_which_components_open_at_launch">Nastavení součástí aplikace &brandShortName; spouštěných při startu</h3>
+<h3 id="specifying_which_components_open_at_launch">Specifying Which Components
+  Open at Launch</h3>
 
-<p>Můžete zvolit součásti aplikace &brandShortName; (např. Pošta &amp; Diskusní skupiny či
-Editor), které se spustí při startu:</p>
+<p>You can choose components (such as Mail &amp; Newsgroups and Composer) to
+  launch when you start &brandShortName;:</p>
 
 <ol>
-  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-  <li>Klepněte na kategorii Vzhled.</li>
-  <li>Zvolte součásti, které chcete automaticky otevřít při každém
-startu aplikace &brandShortName;.</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Click the Appearance category.</li>
+  <li>Select the components you want opened automatically each time you start
+    &brandShortName;.</li>
 </ol>
 
-<p>[<a href="#specifying_how_mozilla_starts_up">Návrat na začátek kapitoly</a>]</p>
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
 
 <p>&copyright.string;</p>
 
 </body>
 </html>
-

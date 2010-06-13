@@ -3,94 +3,144 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
-  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
   %brandDTD;
-  %regionDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Nápověda k vyskakovacím oknům</title>
+<title>&brandShortName; Popup Blocking Help</title>
 <link rel="stylesheet" href="helpFileLayout.css"
   type="text/css"/>
 </head>
 <body>
 
-<div class="boilerPlate">Tento dokument jsme vydali jen pro vaši informaci. Může vám pomoci učinit konkrétní kroky pro ochranu soukromí a bezpečnosti vašich informací na Internetu. Dokument se ale nezabývá všemi tématy on-line soukromí a bezpečnosti, ani neprezentuje doporučení o tom, co znamená adekvátní ochrana soukromí a bezpečnosti.</div>
+<div class="boilerPlate">This document is provided for your information only.
+  It may help you take certain steps to protect the privacy and security of
+  your personal information on the Internet. This document does not, however,
+  address all online privacy and security issues, nor does it represent a
+  recommendation about what constitutes adequate privacy and security
+  protection on the Internet.</div>
+  
+<h1 id="controlling_popups">Controlling Popups</h1>
 
-<h1 id="controlling_popups">Ovládání vyskakovacích oken</h1>
+<p><strong>What are Popups?</strong></p>
 
-<p><strong>Co jsou vyskakovací okna?</strong></p>
+<p>Pop-up windows, or popups, are windows that appear automatically and without
+  your permission. They vary in size, but usually don&apos;t cover the whole
+  screen. Some popups open on top of the current browser window, thus popping
+  up, while others appear underneath the browser (popunders).</p>
 
-<p>Vyskakovací okna jsou okna, která se objevují automaticky bez vašeho povolení. Mají různé velikosti, ale většinou nezabírají celou obrazovku. Některá okna se objevují nad aktuálním oknem prohlížeče, jiné můžou být pod ním.</p>
+<p>&brandShortName; allows you to control both popups and popunders through the
+  <a href="#privacy_and_security_preferences_popup_windows">Popup Windows
+  preferences panel</a>. Since popup blocking is turned off by default, you
+  must enable it to prevent popups from appearing in the browser.</p>
 
-<p>&brandShortName; vám umožňuje kontrolovat oba druhy vyskakovacích oken pomocí sekce <a href="#privacy_and_security_preferences_popup_windows">Předvolby Soukromí &amp; Zabezpečení - Vyskakovací okna</a>. Blokování vyskakovacích oken je standardně vypnuto. Aby se vyskakovací okna již neobjevovala, musíte funkci na blokování zapnout.</p>
+<p>When blocking a popup, &brandShortName; can be set up to play a sound or
+  display an icon
+  <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
+  icon"/> in the status bar or a notification bar at the top of the website
+  content area, or any combination of the above. You can use the icon or the
+  bar to add a website you&apos;re viewing to an exceptions list so that the
+  site is allowed to again display popups.</p>
 
-<p>Když je vyskakovací okno blokováno, můžete nastavit balík &brandShortName; tak, 
-aby přehrál zvuk či zobrazil ikonku <img src="chrome://navigator/skin/icons/popup-blocked.png" 
-alt="Popup control icon"/> ve stavovém řádku nebo zobrazil informační lištu v horní části webové stránky, případně kombinaci obojího. Můžete též využít ikonu na liště pro přidání aktuální webové stránky do seznamu výjimek, čímž bude mít tato stránka příště povolené vyskakovací okno zobrazit.</p>
+<p><strong>Blocking popups may interfere with some websites</strong>: Some web
+  sites, including some banking sites, use popups for important features. 
+  Blocking all popups disables such features. To allow specific websites to
+  use popups, while blocking all others, you can add specific websites to the
+  list of allowed sites. For more information, see
+  <a href="#privacy_and_security_preferences_popup_windows">Privacy &amp;
+  Security Preferences - Popup Windows</a>.</p>
 
-<p><strong>Potlačení vyskakovacích oken může narušit funkci některých stránek</strong>: Některé servery, například bankovní, používají vyskakovací okna na důležité funkce. Zakázání takových oken způsobí zablokování takových funkcí. Pokud chcete povolit zvoleným serverům používat vyskakovací okna, ale zároveň je zakázat všem ostatním, můžete tyto servery přidat do seznamu povolených serverů. Pro bližší informace si přečtěte kapitolu
-  <a href="#privacy_and_security_preferences_popup_windows">Předvolby Soukromí &amp; Zabezpečení - Vyskakovací okna</a>.</p>
+<p><strong>Blocking popups doesn&apos;t always work</strong>: Although
+  &brandShortName; blocks most popups, some websites, even when blocked, may
+  use other methods to show popups.</p>
 
-<p><strong>Blokování vyskakovacích oken nemusí vždy fungovat</strong>: Ačkoliv &brandShortName; potlačí většinu oken, některé stránky, ač jsou blokovány, mohou použít jiné metody na zobrazení vyskakovacích oken.</p>
+<p><strong>Allowing popups from certain websites</strong>: After you&apos;ve
+  enabled popup blocking, you can still allow specific sites to display popups.
+  Browse to the website, and then from the Tools menu, choose Popup Manager,
+  and then choose Allow Popups From This Site.</p>
 
-<p><strong>Povolení vyskakovacích oken z určitých serverů</strong>: Pokud jste zapnuli blokování vyskakovacích oken, stále můžete dovolit některým serverům, aby je zobrazovali. Přejděte na stránku, a potom v nabídce Nástroje klepněte na podnabídku Správce vyskakovacích oken. Zde klepněte na položku Povolit vyskakovací okna z tohoto serveru.</p>
+<p>The next section describes how to control popups through preferences and
+  through the popup control icon.</p>
 
-<p>Další sekce popisují ovládání vyskakovacích oken přes předvolby a ikonu vyskakovacích oken.</p>
+<h2 id="privacy_and_security_preferences_popup_windows">Privacy &amp; Security
+  Preferences - Popup Windows</h2>
 
-<h2 id="privacy_and_security_preferences_popup_windows">Předvolby Soukromí &amp; Zabezpečení - Vyskakovací okna</h2>
-
-<p>Tato kapitola popisuje, jak používat podkategorii předvoleb o Vyskakovacích oknech. Pokud jej ještě nemáte otevřený, použijte tento postup:</p>
+<p>This section describes how to use the Popup Windows preferences panel. If
+  you&apos;re not already viewing it, follow these steps:</p>
 
 <ol>
-<li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
-<li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Vyskakovací okna. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.</li></ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security Preferences category, click Popup
+    Windows. (If no subcategories are visible, double-click Privacy &amp;
+    Security to expand the list.)</li>
+</ol>
 
 <ul>
-<li><strong>Blokovat nevyžádaná vyskakovací okna</strong>: Vyberte tuto možnost pro potlačení vyskakovacích oken v prohlížeči.</li>
-<li><strong>Povolené servery</strong>: Klepněte na toto tlačítko pro zobrazení a úpravy seznamu serverů, kterým chcete povolit zobrazování vyskakovacích oken.
-<ul>
-<li><strong>Povolené webové servery</strong>: Pokud klepnete na toto tlačítko, zobrazí se dialogové okno se seznamem povolených serverů. Zde můžete přidávat či odstraňovat servery, které mají povolené zobrazovat vyskakovací okna.</li>
-<li><strong>Přidat</strong>: Napište název serveru, který chcete přidat do seznamu, a následně klepněte na tlačítko.</li>
-<li><strong>Odebrat</strong>: Klepnutím na toto tlačítko odstraníte zvolený server ze seznamu.</li>
-<li><strong>Odebrat vše</strong>: Klepnutím na toto tlačítko odstraníte všechny servery ze seznamu.</li></ul></li></ul>
-
-<h3>Pokud bude vyskakovací okno zablokováno</h3>
-
-<ul>
-<li><strong>Přehrát zvuk</strong>: Pokud chcete přehrát zvuk pokaždé, když se zablokuje 
-vyskakovací okno, zvolte tuto možnost a zadejte umístění zvukového souboru.
-<ul>
-<li><strong>Vybrat</strong>: Použijte na vyhledání souboru místo ručního napsání cesty do editačního pole.</li>
-<li><strong>Ukázka</strong>: Klepnutím na toto tlačítko přehrajete zvolený zvuk.</li>
-  </ul></li>
-<li><strong>Zobrazit ikonu ve stavovém řádku prohlížeče</strong>: Zvolte pro zobrazení ikony <img src="chrome://navigator/skin/icons/popup-blocked.png"
-  alt="Popup control icon"/> ve stavové liště prohlížeče. Ikona vás upozorní, že bylo vyskakovací okno zablokováno.
-  <strong>Poznámka</strong>: Když se ikonka <img src="chrome://navigator/skin/icons/popup-blocked.png" 
-  alt="Popup control icon"/> zobrazí, zůstane viditelná do té doby, dokud nepřejdete na jiný server.
+  <li><strong>Block unrequested popup windows</strong>: Select this to prevent
+    popups from appearing in the browser.</li>
+  <li><strong>Allowed Sites</strong>: Click this to view and edit the list of
+    web sites that you want to allow to display popups.
+    <ul>
+      <li><strong>Allowed websites</strong>: The list of allowed websites
+        appears when you click <q>Allowed Sites</q>. You can add or remove
+        websites that should be allowed to show popups.</li>
+      <li><strong>Add</strong>: Click this after typing in a website that you
+        want to add to the list.</li>
+      <li><strong>Remove</strong>: Click this to remove a selected website.</li>
+      <li><strong>Remove All</strong>: Click this to remove all of the websites
+        in the current list.</li>
+    </ul>
   </li>
-    <li><strong>Zobrazit informační lištu v horní části obsahu stránky</strong>:
-    Pokud je tato volba zaškrtnuta, zobrazí se informační lišta v horní části stránky kdykoliv,
-    kdy je zablokováno vyskakovací okno. Na této liště je umístěno tlačítko, kde můžete zvolit,
-    jak se má nakládat s vyskakovacími stránkami na aktuálním webu. 
-  </li></ul>
+</ul>
 
-<p><strong>Použití ikony vyskakovacích oken na povolení oken z tohoto serveru</strong>: 
-Tuto ikonku nebo informační lištu můžete použít na rychlé přidání serveru do seznamu povolených serverů. 
-Klepnutím na ikonku <img src="chrome://navigator/skin/icons/popup-blocked.png" 
-alt="Popup control icon"/> se zobrazí seznam povolených serverů. Aktuální server je vždy 
-předvyplněný. Klepnutím na tlačítko Přidat a následným klepnutím na tlačítko OK potvrdíte přidání. 
-Obdobně můžete k povolení vyskakovacích oken aktuální stránky použít informační lištu nebo otevřít
-seznam povolených stránek ve Správci vyskakovacích oken. Jednoduše klepněte na tlačítko předvoleb
-po pravé straně informační lišty.</p>
+<h3>When a popup window has been blocked</h3>
 
-<p><strong>Poznámka</strong>: Blokováním vyskakovacích oken nemusí vždy fungovat a může 
-narušit funkčnost některých stránek. Pro další informace o blokování vyskakovacích oken zvolte 
-kapitolu <a href="#controlling_popups">Ovládání vyskakovacích oken</a>.</p>
+<ul>
+  <li><strong>Play a sound</strong>: If you want a sound to play each time
+    the browser blocks a popup, select this option and type the location of the
+    sound file.
+    <ul>
+      <li><strong>Select</strong>: Click this to choose a sound file instead of
+        typing its location in the field.</li>
+      <li><strong>Preview</strong>: Click this to listen to the chosen
+        sound.</li>
+    </ul>
+  </li>
+  <li><strong>Display an icon in the browser status bar</strong>: Select this
+    to display an icon
+    <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
+    icon"/> in the browser status bar to indicate that a popup is blocked.
+
+    <p><strong>Note</strong>: After the popup control icon
+      <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup
+      control icon"/> appears, it remains visible until you visit another
+      website.</p>
+  </li>
+  <li><strong>Display a notification bar at the top of the content area</strong>:
+    Select this to display a notification bar above the website content area
+    whenever a popup is blocked. In the bar, use the Preferences button to choose
+    how to handle popups from that website.
+  </li>
+</ul>
+
+<p><strong>Using the popup control icon or notification bar to add allowed
+  websites</strong>: You can use the popup control icon or notification bar to
+  quickly add a website to the list of allowed websites. Click the icon
+  <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
+  icon"/> to open the list of allowed websites. The current website is
+  already filled in. Click Add and then click OK to confirm your addition.
+  Similarly you can use the notification bar to allow popups from the current
+  website or open the list of allowed websites through Manage Popups. Just
+  click the Preferences button at the right end of the notification bar.</p>
+
+<p><strong>Note</strong>: Blocking popups may not always work and may interfere
+  with some websites. For more information about blocking popups, see
+  <a href="#controlling_popups">Controlling Popups</a>.</p>
 
 <p>&copyright.string;</p>
 
 </body>
 </html>
-

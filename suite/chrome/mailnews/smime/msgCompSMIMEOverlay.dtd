@@ -9,8 +9,8 @@
 <!ENTITY menu_securityNoEncryption.label "Nešifrovat zprávu">
 <!ENTITY menu_securityNoEncryption.accesskey "N">
 
-<!ENTITY menu_securitySign.label "Digitálně podepsat zprávu">
-<!ENTITY menu_securitySign.accesskey "D">
+<!ENTITY menu_securitySign.label "Elektronicky podepsat zprávu">
+<!ENTITY menu_securitySign.accesskey "E">
 
 <!ENTITY menu_securityStatus.label "Zobrazit informace o zabezpečení">
 <!ENTITY menu_securityStatus.accesskey "O">
