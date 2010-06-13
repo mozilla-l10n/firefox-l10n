@@ -1,6 +1,6 @@
 <!ENTITY autoconfigWizard.title "Založení poštovního účtu">
 <!ENTITY name.label "Vaše jméno:">
-<!ENTITY name.accesskey "n">
+<!ENTITY name.accesskey "V">
 <!ENTITY name.emptytext "Jméno Příjmení">
 <!ENTITY name.text "Vaše jméno tak, jak se bude zobrazovat ostatním.">
 <!ENTITY email.label "E-mail:">
@@ -22,6 +22,9 @@
 <!ENTITY imap.label "IMAP">
 <!ENTITY pop.label "POP">
 <!ENTITY smtp.label "SMTP">
+<!ENTITY imap.description "IMAP - umožní přístup ke složkám a poště z více počítačů">
+<!ENTITY pop.description "POP - stáhne všechny zprávy do místních složek na tomto počítači">
+<!ENTITY recommended-appendix.label "(doporučeno)">
 
 <!ENTITY manualSetup.label "Ruční nastavení…">
 <!ENTITY manualSetup.accesskey "R">
@@ -34,34 +37,34 @@
 <!ENTITY stop.label "Zastavit">
 <!ENTITY stop.accesskey "s">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
- displayed on the button which will re-guess the account configuration,
- taking into account the settings the user has changed. -->
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
 <!ENTITY retest.label "Znovu otestovat nastavení">
 <!ENTITY retest.accesskey "o">
 <!ENTITY edit.label "Upravit">
 <!ENTITY edit.accesskey "U">
 
 <!ENTITY rememberPassword.label "Zapamatovat si heslo">
-<!ENTITY rememberPassword.accesskey "p">
+<!ENTITY rememberPassword.accesskey "Z">
 
 <!ENTITY warning.label "Upozornění!">
 <!ENTITY incomingSettings.label "Příchozí nastavení:">
 <!ENTITY outgoingSettings.label "Odchozí nastavení:">
 <!ENTITY technicaldetails.label "Technické detaily">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
- warning on the outgoing server, then the user will need to check a
- checkbox beside this text before continuing. -->
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label "Uvědomuji si rizika.">
 <!ENTITY confirmWarning.accesskey "U">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
- on the incoming or outgoing servers, then the page that pops up will
- have this text in a button to continue by creating the account. -->
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
 <!ENTITY createAccount.label "Vytvořit účet">
 <!ENTITY createAccount.accesskey "V">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
- the incoming or outgoing servers, then the page that pops up will have
- this text in a button to take you back to the previous page to change
- the settings and try again. -->
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
 <!ENTITY changeSettings.label "Změnit nastavení">
 <!ENTITY changeSettings.accesskey "m">
 
@@ -73,6 +76,3 @@
 <!ENTITY insecureUnencrypted.description "E-maily a přihlašovací údaje jsou zasílány nešifrovaně, a tak je případní útočníci mohou snadno číst. &brandShortName; vám sice umožní pracovat s poštou, ale bylo by velmi vhodné požádat svého poskytovatele pošty o zabezpečení komunikace se serverem.">
 <!ENTITY insecureSelfSigned.description "Server používá nedůvěryhodný certifikát a nelze tak zaručit, že nikdo nepřebírá komunikaci mezi aplikací &brandShortName; a serverem. &brandShortName; vám sice umožní pracovat s poštou, ale bylo by vhodné požádat svého poskytovatele pošty o zabezpečení komunikace pomocí důvěryhodného certifikátu.">
 <!ENTITY secureServer.description "Gratulujeme! Toto je zabezpečený server.">
-
-
-

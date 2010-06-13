@@ -2,8 +2,6 @@
 <!ENTITY aboutButton.label "&lt; Zpět">
 <!ENTITY aboutButton.accesskey "Z">
 <!ENTITY aboutVersion "verze">
-<!ENTITY copyrightText "&#169;1998-2005 přispěvatelé. Všechna práva vyhrazena. Mozilla Thunderbird a loga Thunderbird jsou ochranné známky Mozilla Foundation. Všechna práva vyhrazena.">
-
 
 <!ENTITY aboutMenu.label "O aplikaci">
 <!ENTITY aboutMenu.accesskey "O">

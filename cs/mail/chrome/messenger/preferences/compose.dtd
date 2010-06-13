@@ -6,8 +6,8 @@
 <!ENTITY forwardMsg.accesskey "s">
 <!ENTITY inline.label "Vloženě">
 <!ENTITY asAttachment.label "Jako přílohu">
-<!ENTITY addExtension.label "Přiřadit rozšíření ke jménu souboru">
-<!ENTITY addExtension.accesskey "b">
+<!ENTITY addExtension.label "Přidat k názvu souboru příponu">
+<!ENTITY addExtension.accesskey "P">
 
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Písmo:">

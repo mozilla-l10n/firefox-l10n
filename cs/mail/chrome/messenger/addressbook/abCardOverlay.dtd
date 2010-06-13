@@ -57,30 +57,30 @@
 <!ENTITY PhoneticField2.id "PhoneticLastName">
 
 <!ENTITY NameField1.label "Jméno:">
-<!ENTITY NameField1.accesskey "N">
+<!ENTITY NameField1.accesskey "J">
 <!ENTITY NameField2.label "Příjmení:">
-<!ENTITY NameField2.accesskey "M">
+<!ENTITY NameField2.accesskey "P">
 <!ENTITY PhoneticField1.label "Foneticky:">
 <!ENTITY PhoneticField2.label "Foneticky:">
 <!ENTITY DisplayName.label "Zobrazené jméno:">
-<!ENTITY DisplayName.accesskey "O">
+<!ENTITY DisplayName.accesskey "o">
 <!ENTITY NickName.label "Přezdívka:">
-<!ENTITY NickName.accesskey "P">
+<!ENTITY NickName.accesskey "e">
 
 <!ENTITY PrimaryEmail.label "E-mail:">
-<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY PrimaryEmail.accesskey "m">
 <!ENTITY SecondEmail.label "Další e-mail:">
 <!ENTITY SecondEmail.accesskey "a">
 <!ENTITY PreferMailFormat.label "Upřednostňovaný formát zpráv:">
-<!ENTITY PreferMailFormat.accesskey "u">
+<!ENTITY PreferMailFormat.accesskey "r">
 <!ENTITY PlainText.label "Prostý text">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Neznámý">
 <!ENTITY ScreenName.label "Účet pro IM">
-<!ENTITY ScreenName.accesskey "E">
+<!ENTITY ScreenName.accesskey "I">
 
 <!ENTITY allowRemoteContent1.label "Povolit vzdálený obsah">
-<!ENTITY allowRemoteContent1.accesskey "P">
+<!ENTITY allowRemoteContent1.accesskey "v">
 <!ENTITY allowRemoteContent1.tooltip "Do HTML zprávy lze vložit obsah ze vzdálených zdrojů. Při otevření takovéto zprávy dojde k navázaní spojení ke vzdálenému serveru. Toto chování lze použít k určení zda zpráva byla přečtena. Povolením vzdáleného obsahu umožníte načítání takovéhoto obsahu v HTML zprávách od tohoto kontaktu.">
 
 
@@ -88,7 +88,7 @@
 
 
 <!ENTITY WorkPhone.label "Zaměstnání:">
-<!ENTITY WorkPhone.accesskey "Z">
+<!ENTITY WorkPhone.accesskey "m">
 <!ENTITY HomePhone.label "Domů:">
 <!ENTITY HomePhone.accesskey "D">
 <!ENTITY FaxNumber.label "Fax:">
@@ -96,7 +96,7 @@
 <!ENTITY PagerNumber.label "Pager:">
 <!ENTITY PagerNumber.accesskey "g">
 <!ENTITY CellularNumber.label "Mobilní telefon:">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "t">
 
 <!ENTITY Home.tab "Bydliště">
 <!ENTITY Home.accesskey "B">
@@ -111,7 +111,7 @@
 <!ENTITY HomeZipCode.label "PSČ:">
 <!ENTITY HomeZipCode.accesskey "P">
 <!ENTITY HomeCountry.label "Země:">
-<!ENTITY HomeCountry.accesskey "Z">
+<!ENTITY HomeCountry.accesskey "e">
 <!ENTITY HomeWebPage.label "Webová stránka:">
 <!ENTITY HomeWebPage.accesskey "W">
 <!ENTITY Birthday.label "Narozeniny:">
@@ -159,10 +159,10 @@
 <!ENTITY Notes.accesskey "P">
 
 <!ENTITY Photo.tab "Fotografie">
-<!ENTITY Photo.accesskey "o">
+<!ENTITY Photo.accesskey "F">
 <!ENTITY PhotoDesc.label "Zvolte jednu z následujících:">
 <!ENTITY GenericPhoto.label "Obecná fotografie">
-<!ENTITY GenericPhoto.accesskey "O">
+<!ENTITY GenericPhoto.accesskey "b">
 <!ENTITY DefaultPhoto.label "Výchozí">
 <!ENTITY PhotoFile.label "Na počítači">
 <!ENTITY PhotoFile.accesskey "p">
