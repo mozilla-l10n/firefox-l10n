@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label "Dnes">
 <!ENTITY goTodayCmd.accesskey "n">
 
-<!ENTITY goPreviousCmd.day.label "Předchozí den">
-<!ENTITY goPreviousCmd.week.label "Předchozí týden">
-<!ENTITY goPreviousCmd.month.label "Předchozí měsíc">
-<!ENTITY goPreviousCmd.accesskey "P">
-
-<!ENTITY goNextCmd.day.label "Následující den">
-<!ENTITY goNextCmd.week.label "Následující týden">
-<!ENTITY goNextCmd.month.label "Následující měsíc">
-<!ENTITY goNextCmd.all.accesskey "N">
-
 <!ENTITY showCurrentView.label "Současný pohled">
 <!ENTITY showCurrentView.accesskey "h">
 
