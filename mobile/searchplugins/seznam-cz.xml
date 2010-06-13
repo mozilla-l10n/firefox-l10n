@@ -1,17 +1,14 @@
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Seznam</ShortName>
-<Description>Vyhledávání na Seznam.cz</Description>
+<Description>Integrované hledávání na Seznam.cz</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVHjalNI/KEVRHMDxc+5DKZM3qNvbXH+ysSBFGMSgLDJKseCtymKwSK+UmVEmTG+RQQxKJgzkleVa3vAGIqXn+p763Tqdrnv51ad3T+fc3/vd3/npKIpUrVBQKdGCbvRhDPP4NButYagaEl5oloMjGEA7fGv/ERvxQjsVzGALnSkVhegwVbgVjONYZccJ6vHCTrCUcPgbb1L2Pc5QxldSglvMOgmeMYeb38rxrOcS9p1908B1FDGEJjeBTrjGKaxhOOEPD3GJI1RNE3XKHAxiQRL6zt4utknw4qV0+wqL6ME0DvAue8W4X/oPk2iHuf89+bwaFeQ99b94kms00eheY1b40pNNWa9mJcihCxOYxKicP8cOLuwEGm0I0J8LglK9UnngOY8PXGMFpzJcyp1E0+1eSfTKy8v83skIV9O+60eAAQAd5lci6mlq3QAAAABJRU5ErkJggg==</Image>
-<Url type="application/x-suggestions+json" method="GET" template="http://www.seznam.cz/jsSuggestFulltext">
-	<Param name="phrase" value="{searchTerms}"/>
-	<Param name="dict" value="fulltext_ff"/>
-	<Param name="encoding" value="utf-8"/>
-	<Param name="response_encoding" value="utf-8"/>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtZhsb7ZcbG+2YGxvtihsb7WobG+09GxvtFgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEbG+0YGxvtPBsb7XM/P/D/Gxvt1xsb7eobG+3gGxvtqhsb7WcbG+0hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbG+0qGxvtcRsb7bobG+37Gxvt/xsb7b8bG+1OGxvtEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtGhsb7XwbG+3/Gxvt/xsb7V8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtdhsb7f8bG+3yAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtJRsb7cEbG+3/Gxvt7QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABsb7Q8bG+1NGxvtpBsb7fQbG+3/Gxvt/xsb7XEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtORsb7ZsbG+3lGxvt/xsb7f8bG+3/Gxvt/xsb7ZEbG+0bAAAAAAAAAAAAAAAAAAAAAAAAAAAbG+1KGxvtwRsb7f8bG+3/Gxvt/xsb7f8bG+3/Gxvtphsb7WkbG+0WAAAAAAAAAAAAAAAAAAAAAAAAAAcbG+2cGxvt/xsb7f8bG+3/Gxvt/xsb7a4bG+1uGxvtOwAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbG+17Gxvt/xsb7f8bG+3/Gxvt/xsb7dwbG+00AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtqRsb7f8bG+3/Gxvt/xsb7f8bG+39Gxvt8Bsb7ckbG+2dGxvtWRsb7Q4AAAAAAAAAAAAAAAAAAAAAAAAAABsb7UMbG+3/Gxvt/xsb7f8bG+3/Gxvt/xsb7f8bG+3/Gxvt/xsb7f8bG+2SAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAGxvtURsb7dkbG+3/Gxvt/xsb7f8bG+3/Gxvt/xsb7f8bG+3/Gxvt4wAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJGxvtSxsb7YobG+3CGxvt5Rsb7f8bG+3/Gxvt/xsb7YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABsb7QwbG+00GxvtZhsb7agAAAAIAAAAAAAAAAAAAAAAgP8AAMAPAAD+AQAA/8EAAP/xAAD/4QAA/wEAAPwBAADwAwAA4B8AAMB/AADABwAAwAcAAOAHAAD4BwAA/w8AAA==</Image>
+<Url type="application/x-suggestions+json" method="GET" template="http://suggest.fulltext.seznam.cz/fulltext_ff">
+  <Param name="phrase" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://search.seznam.cz/searchScreen">
-	<Param name="q" value="{searchTerms}"/>
-	<Param name="sourceid" value="firefox"/>
+<Url type="text/html" method="GET" template="http://search.seznam.cz/">
+  <Param name="q" value="{searchTerms}"/>
+  <Param name="sourceid" value="SearchBox"/>
 </Url>
 <SearchForm>http://search.seznam.cz/</SearchForm>
 </SearchPlugin>
