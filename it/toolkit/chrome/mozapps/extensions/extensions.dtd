@@ -6,7 +6,7 @@
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
 <!ENTITY view.search.label "Cerca">
 <!ENTITY view.discover.label "Esplora">
-<!ENTITY view.languages.label "Lingue">
+<!ENTITY view.locales.label "Lingue">
 <!ENTITY view.searchengines.label "Motori di ricerca">
 <!ENTITY view.features.label "Estensioni">
 <!ENTITY view.appearance.label "Temi">
