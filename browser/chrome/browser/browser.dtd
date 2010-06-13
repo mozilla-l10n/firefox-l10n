@@ -228,6 +228,12 @@
 <!ENTITY showAllHistoryCmd2.label "Afficher l'historique">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuPrintCmd.label "Imprimer">
+<!ENTITY appMenuCustomize.label "Personnaliser">
+<!ENTITY appMenuToolbarLayout.label "Disposition de la barre d'outils…">
+<!ENTITY appMenuSidebars.label "Barres latérales">
+<!ENTITY appMenuHelp.label "Aide">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Se rendre sur un site Web">
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
