@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                "Rechercher">
 <!ENTITY view.discover.label              "Obtenir des modules complémentaires">
-<!ENTITY view.languages.label             "Langues">
+<!ENTITY view.locales.label               "Langues">
 <!ENTITY view.searchengines.label         "Moteurs de recherche">
 <!ENTITY view.features.label              "Extensions">
 <!ENTITY view.appearance.label            "Thèmes">
