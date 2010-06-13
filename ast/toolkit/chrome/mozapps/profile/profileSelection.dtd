@@ -43,7 +43,7 @@
 <!ENTITY            profilename.label      "Nome de perfil:">
 
 <!ENTITY            start.label            "Entamar &brandShortName;">
-<!ENTITY            exit.label             "Salir">
+<!ENTITY            exit.label             "Zarrar">
 
 <!ENTITY            availprofiles.label    "Perfiles disponibles">
 

@@ -59,8 +59,8 @@
 <!ENTITY fullScreenClose.tooltip "Zarrar">
 <!ENTITY fullScreenAutohide.label "Anubrir les barres de ferramientes">
 <!ENTITY fullScreenAutohide.accesskey "f">
-<!ENTITY fullScreenExit.label "Salir del mou pantalla completa">
-<!ENTITY fullScreenExit.accesskey "m">
+<!ENTITY fullScreenExit.label "Colar del mou pantalla completa">
+<!ENTITY fullScreenExit.accesskey "C">
 
 <!ENTITY closeWindow.label "Zarrar ventana">
 <!ENTITY closeWindow.accesskey "Z">
@@ -373,14 +373,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip            "Pegar">
 <!ENTITY fullScreenButton.tooltip       "Amosar la ventana en pantalla completa">
 
-<!ENTITY quitApplicationCmdWin.label       "Salir"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "S">
+<!ENTITY quitApplicationCmdWin.label       "Zarrar"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "Z">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Salir"> 
-<!ENTITY quitApplicationCmd.accesskey   "S">
-<!ENTITY quitApplicationCmdMac.label    "Salir de &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "S">
+<!ENTITY quitApplicationCmd.label       "Zarrar"> 
+<!ENTITY quitApplicationCmd.accesskey   "Z">
+<!ENTITY quitApplicationCmdMac.label    "Quitar &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key      "Q">
 
 <!ENTITY closeCmd.label                 "Zarrar">  
 <!ENTITY closeCmd.key                   "W">  
