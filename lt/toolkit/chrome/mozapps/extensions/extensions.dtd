@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Paieška">
 <!ENTITY view.discover.label                  "Parsisiųsti priedų">
-<!ENTITY view.languages.label                 "Kalbos">
+<!ENTITY view.locales.label                   "Kalbos">
 <!ENTITY view.searchengines.label             "Ieškyklės">
 <!ENTITY view.features.label                  "Plėtiniai">
 <!ENTITY view.appearance.label                "Grafiniai apvalkalai">
