@@ -12,9 +12,8 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
-   -   Rimas Kudelis <rq@akl.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -31,16 +30,21 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY virtualFolderProperties.title  "Paieška įrašant radinius">
-<!ENTITY name.label                     "Pavadinimas:">
-<!ENTITY name.accesskey                 "n">
-<!ENTITY description.label              "Naują aplanką įdėti į šį aplanką:">
-<!ENTITY description.accesskey          "N">
+<!ENTITY name.label                     "Vardas aplanko, į kurį bus įrašomi radiniai:">
+<!ENTITY name.accesskey                 "V">
+<!ENTITY description.label              "Įdėti į šį aplanką:">
+<!ENTITY description.accesskey          "d">
 
 <!ENTITY searchTermCaption.label        "Nurodykite paieškos sąlygas: ">
 
 <!ENTITY folderSelectionCaption.label   "Parinkite aplankus, kuriuose bus atliekama paieška: ">
 <!ENTITY chooseFoldersButton.label      "Parinkti…">
-<!ENTITY chooseFoldersButton.accesskey  "P">
+<!ENTITY chooseFoldersButton.accesskey  "r">
 
 <!ENTITY searchOnline.label             "Ieškoti prisijungus prie tinklo (gaunami naujausi paieškos IMAP ir naujienų grupių aplankuose rezultatai, tačiau aplankai atveriami lėčiau)">
-<!ENTITY searchOnline.accesskey         "o">
+<!ENTITY searchOnline.accesskey         "e">
+<!ENTITY newFolderButton.label          "Sukurti">
+<!ENTITY newFolderButton.accesskey      "k">
+<!ENTITY editFolderButton.label         "Atnaujinti">
+<!ENTITY editFolderButton.accesskey     "n">
+
