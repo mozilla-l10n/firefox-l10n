@@ -13,6 +13,10 @@
 
 <!ENTITY browsing.label                  "ब्राउजिंग">
 
+<!ENTITY submitCrashes.label             "क्रैश रपट जमा करू">
+<!ENTITY submitCrashes.accesskey         "S">
+
+
 <!ENTITY useAutoScroll.label             "स्वतः स्क्रालिंग क प्रयोग  करू ">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "सुगम स्क्रालिंग क प्रयोग  करू ">
