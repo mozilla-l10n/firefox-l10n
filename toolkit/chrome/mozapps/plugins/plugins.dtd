@@ -18,3 +18,18 @@
 
 <!ENTITY blockedPlugin.label                                 "ई प्लगिन अहाँक सुरक्षा क लेल रोकल गेल अछि.">
 <!ENTITY disabledPlugin.label                                "ई सामग्री क लेल प्लगिन निष्क्रिय कएल गेल अछि. अपने प्लगिन क प्रबंधन क लेल एतय क्लिक  करू .">
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "ई पन्ना फेर लोड करू">
+<!ENTITY reloadPlugin.post                                   " फेर कोसिस करबाक लेल.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "क्रैश रपट पठाउ">
+<!ENTITY report.submitting                                   "रपट पठाए रहल अछि…">
+<!ENTITY report.submitted                                    "क्रैश रपट पठाएल गेल.">
+<!ENTITY report.disabled                                     "क्रैश रपट निष्क्रिय कएल गेल.">
+<!ENTITY report.failed                                       "जमा कएनाइ विफल.">
+<!ENTITY report.unavailable                                  "कोनो रपट मोजुद नहि.">
+

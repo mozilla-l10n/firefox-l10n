@@ -38,3 +38,6 @@
 <!ENTITY done.label "ये वस्तुएँ सफलतापूर्वक आयात कएल गेल:">
 <!ENTITY importFromHTMLFile.label       "HTML फाइल से">
 <!ENTITY importFromHTMLFile.accesskey   "F">
+
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromCamino.accesskey     "C">
