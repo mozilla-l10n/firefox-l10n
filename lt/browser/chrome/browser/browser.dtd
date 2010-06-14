@@ -158,7 +158,7 @@
 
 <!ENTITY bookmarksButton.label          "Adresynas">
 <!ENTITY bookmarksButton.tooltip        "Rodyti tinklalapių adresyną">
-<!ENTITY bookmarksButton.accesskey      "B">
+<!ENTITY bookmarksButton.accesskey      "A">
 <!ENTITY bookmarksCmd.commandkey        "b">
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved

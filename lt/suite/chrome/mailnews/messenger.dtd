@@ -429,13 +429,13 @@
 <!ENTITY markFlaggedCmd.accesskey "a">
 <!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Kaip brukalą">
-<!ENTITY markAsJunkCmd.accesskey "š">
+<!ENTITY markAsJunkCmd.accesskey "b">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Kad nėra brukalas">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Vykdyti brukalo valdymo mechanizmą">
-<!ENTITY recalculateJunkScoreCmd.accesskey "š">
+<!ENTITY recalculateJunkScoreCmd.accesskey "b">
 <!ENTITY markAsShowRemoteCmd.label "Įkelti elementus iš tinklo">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
