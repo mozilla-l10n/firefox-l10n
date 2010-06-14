@@ -16,8 +16,6 @@
 <!ENTITY reload.accesskey "б">
 <!ENTITY ftp.label "FTP прокси:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher прокси:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP прокси:">
 <!ENTITY http.accesskey "T">
 <!ENTITY ssl.label "SSL прокси:">
@@ -32,7 +30,6 @@
 <!ENTITY HTTPport.accesskey "о">
 <!ENTITY SSLport.accesskey "р">
 <!ENTITY FTPport.accesskey "п">
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "т">
 <!ENTITY noproxy.label "Не использовать прокси для:">
 <!ENTITY noproxy.accesskey "д">
