@@ -228,11 +228,14 @@
 <!ENTITY showAllHistoryCmd2.label "Toan alle skiednis">
 <!ENTITY showAllHistoryCmd.commandkey "s">
 
+<!ENTITY appMenuPrintCmd.label "Ofdrukke">
+<!ENTITY appMenuCustomize.label "Oanpasse">
+<!ENTITY appMenuToolbarLayout.label "Arkbalke úterlik…">
+<!ENTITY appMenuSidebars.label "Sydbalken">
+<!ENTITY appMenuHelp.label "Help">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Blêdwizers en skiednis trochsykje">
-<!ENTITY urlbar.bookmark.emptyText    "Blêdwizers trochsykje">
-<!ENTITY urlbar.history.emptyText     "Skiednis trochsykje">
-<!ENTITY urlbar.none.emptyText        "Typ in webadres">
+<!ENTITY urlbar.placeholder           "Gean nei in webside">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Skeakel nei ljepblêd:">
 
