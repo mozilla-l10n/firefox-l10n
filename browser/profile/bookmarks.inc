@@ -7,10 +7,6 @@
 #define bookmarks_title Bokmerker
 #define bookmarks_heading Bokmerker
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Last ned bokmerkeutvidelser
-
 #define bookmarks_toolbarfolder Verktøylinje for bokmerker
 #define bookmarks_toolbarfolder_description Legg til bokmerker i denne mappen for å se dem i verktøylinjen for bokmerker
 

@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidelser">
-<!ENTITY view.languages.label                 "Språk">
+<!ENTITY view.locales.label                   "Språk">
 <!ENTITY view.searchengines.label             "Søkemotorer">
 <!ENTITY view.features.label                  "Utvidelser">
 <!ENTITY view.appearance.label                "Temaer">
@@ -86,10 +86,8 @@
 
 
 <!ENTITY showMore.label                       "Vis mer">
-<!ENTITY showMore.accesskey                   "V">
 <!ENTITY showMore.tooltip                     "Vis flere detaljer">
 <!ENTITY showLess.label                       "Vis mindre">
-<!ENTITY showLess.accesskey                   "s">
 <!ENTITY showLess.tooltip                     "Vis mindre detaljer">
 
 <!ENTITY search.filter.label                  "Vis:">
