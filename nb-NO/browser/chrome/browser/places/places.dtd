@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "R">
 <!ENTITY views.label                    "Vis">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "Verktøylinje">
-<!ENTITY view.toolbar.accesskey         "V">
 <!ENTITY view.columns.label             "Vis kolonner">
 <!ENTITY view.columns.accesskey         "V">
 <!ENTITY view.sort.label                "Sorter">
@@ -43,28 +41,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Velg fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.select_all.label "Merk alle">
-<!ENTITY cmd.select_all.accesskey "M">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Klipp ut">
-<!ENTITY cmd.edit_cut.accesskey     "u">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopier">
-<!ENTITY cmd.edit_copy.accesskey    "K">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Lim inn">
-<!ENTITY cmd.edit_paste.accesskey   "L">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Slett">
-<!ENTITY cmd.edit_delete.accesskey  "S">
-<!ENTITY cmd.edit_undo.label        "Angre">
-<!ENTITY cmd.edit_undo.accesskey    "A">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Gjenta">
-<!ENTITY cmd.edit_redo.accesskey    "G">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Bokmerk denne siden …">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slett denne siden">
@@ -84,17 +60,12 @@
 <!ENTITY cmd.properties.label      "Egenskaper">
 <!ENTITY cmd.properties.accesskey  "E">
 
-<!ENTITY cmd.rename.label      "Endre navn">
-<!ENTITY cmd.rename.accesskey  "E">
-
 <!ENTITY cmd.sortby_name.label              "Sorter etter navn">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nytt bokmerke …">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_livemark.label            "Nytt levende bokmerke …">
-<!ENTITY cmd.new_livemark.accesskey        "N">
 <!ENTITY cmd.new_folder.label              "Ny mappe …">
 <!ENTITY cmd.new_folder.accesskey          "m">
 <!ENTITY cmd.context_new_folder.accesskey  "m">
@@ -133,9 +104,6 @@
 <!ENTITY saveSearch.accesskey                      "L">
 
 <!ENTITY cmd.find.key  "f">
-
-<!ENTITY feed.subscribe.label    "Nyhetskilde">
-<!ENTITY feed.subscribe.tooltip  "Abonner">
 
 <!ENTITY maintenance.label      "Importer og sikkerhetskopier">
 <!ENTITY maintenance.accesskey  "I">

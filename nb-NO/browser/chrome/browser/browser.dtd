@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label                     "Lukk fane">
 <!ENTITY  closeTab.accesskey                 "k">
 
+<!ENTITY  listAllTabs.label      "Vis liste over alle faner">
+
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
@@ -157,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY inspectMenu.label            "Inspiser">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
 <!ENTITY fileMenu.label         "Fil">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Nytt vindu">
@@ -222,11 +228,14 @@
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuPrintCmd.label "Skriv ut">
+<!ENTITY appMenuCustomize.label "Tilpass">
+<!ENTITY appMenuToolbarLayout.label "Verktøylinjeutseende …">
+<!ENTITY appMenuSidebars.label "Sidestolper">
+<!ENTITY appMenuHelp.label "Hjelp">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Søk i bokmerker og historikk">
-<!ENTITY urlbar.bookmark.emptyText    "Søk i bokmerker">
-<!ENTITY urlbar.history.emptyText     "Søk i historikk">
-<!ENTITY urlbar.none.emptyText        "Skriv inn nettadresse">
+<!ENTITY urlbar.placeholder           "Gå til et nettsted">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Bytt til fane:">
 
@@ -473,3 +482,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Trykk for å åpne nedlastingsvinduet">
 
 <!ENTITY allTabs.filter.emptyText "Søkefaner">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Nettleserfaner">
