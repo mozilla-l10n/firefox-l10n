@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Tamién podríes entamar ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "llimpiando l'historial reciente">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "llimpiando l'hestorial reciente">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Aniciar la navegación privao">

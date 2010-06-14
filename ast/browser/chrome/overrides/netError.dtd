@@ -13,7 +13,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Direición non alcontrada">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Fexo un error al escribir el dominiu? (p. ej. <q><strong>ww</strong>.mozilla.org</q> n'arróu de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿Ta xuru de qu'esiste esti dominiu?  La so data de rexistru pudo haber caducao.</li><li>¿Nun ye quien a restolar per otros sitios? Comprebe la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta'l so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Fexo un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> n'arróu de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru esiste esti dominiu?  La so data de rexistru pudo haber caducao.</li><li>¿Nun ye quien a restolar per otros sitios? Comprebe la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta'l so equipu protexíu por un proxy o un torgafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró el ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se tenga renomao, desaniciao o camudáu el so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru error al escribir la direición?</li><li>¿Tien privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">

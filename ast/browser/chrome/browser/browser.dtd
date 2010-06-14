@@ -146,7 +146,7 @@
 
 <!ENTITY editMenu.label         "Editar"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Esfacer">  
+<!ENTITY undoCmd.label            "Desfacer">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "f"> 
 <!ENTITY redoCmd.label            "Refacer">  
@@ -373,18 +373,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pasteButton.tooltip            "Pegar">
 <!ENTITY fullScreenButton.tooltip       "Amosar la ventana en pantalla completa">
 
-<!ENTITY quitApplicationCmdWin.label       "Zarrar"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "Z">
+<!ENTITY quitApplicationCmdWin.label       "Colar"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "C">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Zarrar"> 
-<!ENTITY quitApplicationCmd.accesskey   "Z">
+<!ENTITY quitApplicationCmd.label       "Colar"> 
+<!ENTITY quitApplicationCmd.accesskey   "r">
 <!ENTITY quitApplicationCmdMac.label    "Quitar &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Zarrar">  
-<!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "Z">
+<!ENTITY closeCmd.label                 "Colar">  
+<!ENTITY closeCmd.key                   "Q">  
+<!ENTITY closeCmd.accesskey             "r">
 
 <!ENTITY pageStyleMenu.label "Estilu de páxina">
 <!ENTITY pageStyleMenu.accesskey "i">

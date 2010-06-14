@@ -9,7 +9,7 @@
 <!ENTITY searchStartTyping.label         "Guetar testu mientres s'escribe">
 <!ENTITY searchStartTyping.accesskey     "s">
 <!ENTITY blockAutoRefresh.label          "Avisame qué páxines intenten redireicionar o recargar">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY blockAutoRefresh.accesskey      "v">
 
 <!ENTITY browsing.label                  "Navegación">
 
@@ -76,9 +76,9 @@
 
 <!ENTITY offlineAppsList.label           "Sitios web que tienen datos guardaos pal mou ensin conexón:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Esaniciar...">
+<!ENTITY offlineAppsListRemove.label     "Desaniciar...">
 <!ENTITY offlineAppsListRemove.accesskey "i">
-<!ENTITY offlineAppRemove.confirm        "Esaniciar conteníu en mou desconeutáu">
+<!ENTITY offlineAppRemove.confirm        "Desaniciar conteníu en mou desconeutáu">
 
 <!ENTITY encryptionTab.label             "Cifráu">
 

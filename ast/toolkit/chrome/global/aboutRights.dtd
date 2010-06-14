@@ -47,7 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; usa servicios d'información de sitios web (&quot;Services&quot;), talos como'l serviciu SafeBrowsing, que s'alcuentren disponibles con esta versión binaria de &brandShortName; talo y como se describe a continuación. Si nun quies usar esos servicios, o bien los términos siguientes nun t'abulten aceutables, puedes deshabilitar el serviciu SafeBrowsing abriendo les preferencies de l'aplicación, seleicionando ">
 <!ENTITY rights.webservices-b "Seguridá">
-<!ENTITY rights.webservices-c " y deseleiciona les opciones para &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.webservices-c " y deseleiciona les opciones pa &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Equí tien qu'incluyise un repasu de los servicios de sitiu web qu'incorpora'l productu, xunto con instrucciones sobre como deshabilitalos, de ser posible.">

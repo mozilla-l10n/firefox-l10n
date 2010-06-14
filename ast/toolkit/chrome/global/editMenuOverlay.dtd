@@ -1,6 +1,6 @@
 <!ENTITY editMenu.label            "Editar">
 <!ENTITY editMenu.accesskey        "t">
-<!ENTITY undoCmd.label             "Esfacer">
+<!ENTITY undoCmd.label             "Desfacer">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "E">
 <!ENTITY redoCmd.label             "Refacer">

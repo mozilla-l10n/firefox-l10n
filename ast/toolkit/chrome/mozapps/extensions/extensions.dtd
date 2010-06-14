@@ -10,7 +10,7 @@
 
 <!-- View labels -->
 <!ENTITY search.label                     "Obtener complementos">
-<!ENTITY extensions.label                 "Extensiones">
+<!ENTITY extensions.label                 "Estensiones">
 <!ENTITY themes.label                     "Temes">
 <!ENTITY locales.label                    "Llingües">
 <!ENTITY plugins.label                    "Plugins (complementos)">
@@ -121,7 +121,7 @@
 <!ENTITY toBeUninstalled.label            "Esti complementu desinstalaráse cuando se reanicie &brandShortName;.">
 <!ENTITY toBeUpdated.label                "Esti complementu anovaráse cuando se reanicie &brandShortName;">
 
-<!ENTITY getExtensions.label              "Obtener extensiones">
+<!ENTITY getExtensions.label              "Obtener estensiones">
 <!ENTITY getThemes.label                  "Obtener temes">
 <!ENTITY getPlugins.label                 "Obtener plugins">
 

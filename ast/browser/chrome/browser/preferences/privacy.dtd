@@ -33,7 +33,7 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; podría:">
 <!ENTITY  historyHeader.pre.accesskey      "p">
-<!ENTITY  historyHeader.remember.label     "Remembrar l'historial">
+<!ENTITY  historyHeader.remember.label     "Remembrar l'hestorial">
 <!ENTITY  historyHeader.dontremember.label "Nun remembrar hestorial">
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal hestorial">
 <!ENTITY  historyHeader.post.label         "">

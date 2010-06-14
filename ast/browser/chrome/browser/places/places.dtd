@@ -62,8 +62,8 @@
 <!ENTITY cmd.edit_paste.label       "Pegar">
 <!ENTITY cmd.edit_paste.accesskey   "P">
 <!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Esaniciar">
-<!ENTITY cmd.edit_delete.accesskey  "E">
+<!ENTITY cmd.edit_delete.label      "Desaniciar">
+<!ENTITY cmd.edit_delete.accesskey  "e">
 <!ENTITY cmd.edit_undo.label        "Desfacer">
 <!ENTITY cmd.edit_undo.accesskey    "s">
 <!ENTITY cmd.edit_undo.key          "z">

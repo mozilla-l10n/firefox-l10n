@@ -3,9 +3,9 @@
 
 <!ENTITY treehead.sitename.label      "Sitiu">
 <!ENTITY treehead.status.label        "Estáu">
-<!ENTITY removepermission.label       "Esaniciar sitiu">
-<!ENTITY removepermission.accesskey   "E">
-<!ENTITY removeallpermissions.label   "Esaniciar tolos sitios">
+<!ENTITY removepermission.label       "Desaniciar sitiu">
+<!ENTITY removepermission.accesskey   "e">
+<!ENTITY removeallpermissions.label   "Desaniciar tolos sitios">
 <!ENTITY removeallpermissions.accesskey "l">
 <!ENTITY address.label                "Direición del sitiu web:">
 <!ENTITY address.accesskey            "d">

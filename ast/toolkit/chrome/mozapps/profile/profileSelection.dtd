@@ -60,5 +60,5 @@
 <!ENTITY            offlineState.label    "Trabayar ensin conexón">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "Non entrugar al entamu">
+<!ENTITY            autoSelect.label       "Nun entrugar al entamu">
 <!ENTITY            autoSelect.accesskey   "N">

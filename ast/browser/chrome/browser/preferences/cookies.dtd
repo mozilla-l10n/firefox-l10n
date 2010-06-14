@@ -3,9 +3,9 @@
 <!ENTITY     cookiesonsystem.label          "Les cookies siguientes tan guardaes nel so equipu:">
 <!ENTITY     cookiename.label               "Nome de la cookie">
 <!ENTITY     cookiedomain.label             "Sitiu"> 
-<!ENTITY     button.removecookie.label      "Esaniciar cookie">
+<!ENTITY     button.removecookie.label      "Desaniciar cookie">
 <!ENTITY     button.removecookie.accesskey  "c">
-<!ENTITY     button.removeallcookies.label  "Esaniciar toles cookies">
+<!ENTITY     button.removeallcookies.label  "Desaniciar toles cookies">
 <!ENTITY     button.removeallcookies.accesskey "t">
 
 <!ENTITY     props.name.label               "Nome:">

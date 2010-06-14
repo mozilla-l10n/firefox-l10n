@@ -10,7 +10,7 @@
 <!ENTITY  up.accesskey              "X">
 <!ENTITY  dn.label                  "Baxar">
 <!ENTITY  dn.accesskey              "B">
-<!ENTITY  remove.label              "Esaniciar">
+<!ENTITY  remove.label              "Desaniciar">
 <!ENTITY  remove.accesskey          "E">
 <!ENTITY  edit.label                "Editar pallabra clave…">
 <!ENTITY  edit.accesskey            "E">

@@ -4,7 +4,7 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "Esfacer">
+<!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.accesskey "s">
 <!ENTITY selectAllCmd.label "Seleicionar too">
 <!ENTITY selectAllCmd.accesskey "a">

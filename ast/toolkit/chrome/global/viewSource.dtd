@@ -20,8 +20,8 @@
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "I">
-<!ENTITY closeCmd.label "Zarrar">
-<!ENTITY closeCmd.accesskey "Z">
+<!ENTITY closeCmd.label "Colar">
+<!ENTITY closeCmd.accesskey "r">
 <!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
