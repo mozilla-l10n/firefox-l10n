@@ -259,6 +259,12 @@
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label         "Spausdinti">
+<!ENTITY appMenuCustomize.label        "Tvarkyti">
+<!ENTITY appMenuToolbarLayout.label    "Įrankinės išdėstymas…">
+<!ENTITY appMenuSidebars.label         "Parankinės">
+<!ENTITY appMenuHelp.label             "Pagalba">
+
 <!ENTITY openCmd.commandkey            "l">
 <!ENTITY urlbar.placeholder            "Atverti svetainę">
 <!ENTITY urlbar.accesskey              "d">
