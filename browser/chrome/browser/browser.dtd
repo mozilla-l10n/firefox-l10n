@@ -263,7 +263,7 @@
 <!ENTITY appMenuCustomize.label        "Tvarkyti">
 <!ENTITY appMenuToolbarLayout.label    "Įrankinės išdėstymas…">
 <!ENTITY appMenuSidebars.label         "Parankinės">
-<!ENTITY appMenuHelp.label             "Pagalba">
+<!ENTITY appMenuHelp.label             "Žinynas">
 
 <!ENTITY openCmd.commandkey            "l">
 <!ENTITY urlbar.placeholder            "Atverti svetainę">
