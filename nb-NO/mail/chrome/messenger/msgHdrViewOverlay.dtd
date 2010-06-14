@@ -83,11 +83,11 @@
 
 <!ENTITY otherActionsButton.label "andre handlinger">
 <!ENTITY otherActionsOpenConversation.label "åpne i samtale">
-<!ENTITY otherActionsOpenConversation.accesskey "n">
+<!ENTITY otherActionsOpenConversation.accesskey "å">
 <!ENTITY otherActionsOpenInNewWindow.label "åpne i nytt vindu">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "å">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "n">
 <!ENTITY otherActionsOpenInNewTab.label "åpne i ny fane">
-<!ENTITY otherActionsOpenInNewTab.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab.accesskey "e">
 <!ENTITY markAsReadMenuItem.label "merk som lest">
 <!ENTITY markAsReadMenuItem.accesskey "m">
 <!ENTITY markAsUnreadMenuItem.label "merk som ulest">
@@ -95,9 +95,9 @@
 <!ENTITY saveAsMenuItem.label "lagre som …">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "vis kildekode">
-<!ENTITY viewSourceMenuItem.accesskey "V">
+<!ENTITY viewSourceMenuItem.accesskey "v">
 <!ENTITY otherActionsPrint.label "skriv ut …">
-<!ENTITY otherActionsPrint.accesskey "s">
+<!ENTITY otherActionsPrint.accesskey "u">
 
 <!ENTITY openAttachmentCmd.label    "Åpne">
 <!ENTITY openAttachmentCmd.accesskey    "Å">

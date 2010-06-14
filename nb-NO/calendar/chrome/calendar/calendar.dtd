@@ -178,7 +178,7 @@
 <!ENTITY calendar.context.newevent.label              "Ny hendelse …">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Ny oppgave …">
-<!ENTITY calendar.context.newtodo.accesskey           "y">
+<!ENTITY calendar.context.newtodo.accesskey           "o">
 <!ENTITY calendar.context.modifytask.label            "Rediger oppgave …">
 <!ENTITY calendar.context.modifytask.accesskey        "e">
 <!ENTITY calendar.context.modifyitem.label            "Rediger aktivitet">
@@ -212,7 +212,7 @@
 <!ENTITY calendar.context.progress.label              "Fremdrift">
 <!ENTITY calendar.context.progress.accesskey          "F">
 <!ENTITY calendar.context.priority.label              "Prioritet">
-<!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.priority.accesskey          "r">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -257,7 +257,7 @@
 
 <!ENTITY calendar.context.convertmenu.label              "Konverter til">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "K">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "K">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "n">
 <!ENTITY calendar.context.convertmenu.event.label        "Hendelse …">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "H">
 <!ENTITY calendar.context.convertmenu.message.label      "Melding …">
