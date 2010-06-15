@@ -11,7 +11,7 @@
 <!ENTITY blockAutoRefresh.label          "Avisame qué páxines intenten redireicionar o recargar">
 <!ENTITY blockAutoRefresh.accesskey      "v">
 
-<!ENTITY browsing.label                  "Navegación">
+<!ENTITY browsing.label                  "Restolar">
 
 <!ENTITY useAutoScroll.label             "Usar desplazamientu automáticu">
 <!ENTITY useAutoScroll.accesskey         "a">

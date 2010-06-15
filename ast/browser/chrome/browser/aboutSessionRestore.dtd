@@ -6,7 +6,7 @@
 <!ENTITY restorepage.problemDesc    "&brandShortName; ta teniendo problemes recuperando les tos llingüetes y ventanes. Esto débese davezu a una páxina recién abierta.">
 <!ENTITY restorepage.tryThis        "Puedes intentar:">
 <!ENTITY restorepage.restoreSome    "Desaniciar una o delles llingüetes que camientes que seyan les causantes">
-<!ENTITY restorepage.startNew       "Aniciar una nueva sesión col restolador">
+<!ENTITY restorepage.startNew       "Aniciar una nueva sesión del restolador">
 
 <!ENTITY restorepage.tryagainButton "Restaurar">
 <!ENTITY restorepage.restore.access "R">

@@ -49,7 +49,7 @@
 <!ENTITY  rememberActions.removeCookies.label "desaniciar cookies de mou individual">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que na navegación privao, y nun remembrará dengún datu del so hestorial mientres que restole pela Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun remembrará dengún datu del so hestorial mientres restole pela Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

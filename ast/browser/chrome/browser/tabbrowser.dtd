@@ -1,8 +1,8 @@
 <!ENTITY  untitledTab            "(Ensin títulu)">
 <!ENTITY  newTab.label           "Nueva llingüeta">
 <!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "Pesllar llingüeta">
-<!ENTITY  closeTab.accesskey         "P">
+<!ENTITY  closeTab.label         "Zarrar llingüeta">
+<!ENTITY  closeTab.accesskey         "g">
 <!ENTITY  closeOtherTabs.accesskey  "o">
 <!ENTITY  closeOtherTabs.label   "Zarrar otres llingüetes">
 <!ENTITY  reloadAllTabs.label    "Recargar toles llingüetes">

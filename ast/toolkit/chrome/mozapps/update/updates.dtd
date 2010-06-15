@@ -4,7 +4,7 @@
 <!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Comprebando anovamientos">
-<!ENTITY  updateCheck.label               "Restolando por nueves versiones de &brandShortName;…">
+<!ENTITY  updateCheck.label               "Entrugando por nueves versiones de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Alcontráronse anovamientos pa los Plugins">
 <!ENTITY  pluginupdatesfound.label        "Alcontráronse versiones de ún o más de los tos plugins.">
@@ -22,7 +22,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Siempres puede conseguir la cabera versión de &brandShortName; en:">
 
 <!ENTITY  incompatibleCheck.title         "Comprobando compatibilidá de los complementos">
-<!ENTITY  incompatibleCheck.label         "Restolando por nueves versiones de los sos complementos…">
+<!ENTITY  incompatibleCheck.label         "Entrugando por nueves versiones de los sos complementos…">
 
 <!ENTITY  clickHere.label                 "Ver más información sobro esti anovamientu">
 
