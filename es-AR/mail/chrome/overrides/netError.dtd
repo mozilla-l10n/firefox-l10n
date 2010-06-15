@@ -163,6 +163,8 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 <p>Estos tipos de falsificaciones web son usados en estafas conocidas como ataques de <i>phishing</i>, en los que páginas web y correos electrónicos fraudulentos son usados para imitar fuentes en las que puede confiar.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY securityOverride.linkText "O puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáquenme de aquí">
