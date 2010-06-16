@@ -114,8 +114,8 @@ la eraro povas esti tempa kaj vi povos klopodi denove poste.</li>
 <p>Retejaj posedantoj kiuj pensas ke siaj retejoj estis denoncitaj malĝuste kiel atakaj retejoj povas <a href='http://www.stopbadware.org/home/reviewinfo' >peti kontrolon</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Retfalsaĵo suspektata!">
-<!ENTITY phishingBlocked.longDesc '<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
-<p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel "phishing" atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>'>
+<!ENTITY phishingBlocked.longDesc "<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
+<p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>">
 
 <!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
