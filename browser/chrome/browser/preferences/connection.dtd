@@ -12,8 +12,8 @@
 <!ENTITY  reload.accesskey              "ν">
 <!ENTITY  ftp.label                     "Διαμεσολαβητής FTP:">
 <!ENTITY  ftp.accesskey                 "f">
-<!ENTITY  gopher.label                  "Διαμεσολαβητής Gopher:">
-<!ENTITY  gopher.accesskey              "g">
+
+
 <!ENTITY  http.label                    "Διαμεσολαβητής HTTP:">
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "Διαμεσολαβητής SSL:">
@@ -28,8 +28,8 @@
 <!ENTITY  HTTPport.accesskey            "ρ">
 <!ENTITY  SSLport.accesskey             "ρ">
 <!ENTITY  FTPport.accesskey             "ρ">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+
+
 <!ENTITY  SOCKSport.accesskey           "ρ">
 <!ENTITY  noProxyTypeRadio.label        "Χωρίς διαμεσολαβητή">
 <!ENTITY  noProxyTypeRadio.accesskey    "Χ">

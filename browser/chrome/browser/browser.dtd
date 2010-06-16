@@ -345,6 +345,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες ως σελιδοδείκτης...">
 
 
+<!ENTITY appMenuPrintCmd.label "Εκτύπωση">
+<!ENTITY appMenuCustomize.label "Προσαρμογή">
+<!ENTITY appMenuToolbarLayout.label "Διάταξη εργαλειοθήκης…">
+<!ENTITY appMenuSidebars.label "Πλευρικές στήλες">
+<!ENTITY appMenuHelp.label "Βοήθεια">
 
 
 
