@@ -143,7 +143,7 @@
 <!ENTITY searchResultInstalling.label "Instalanta…">
 <!ENTITY searchResultFailed.label "Malsukcesa instalado">
 <!ENTITY searchResultInstalled.label "Instalado kompleta">
-<!ENTITY addonTypeExtension.label "Finaĵo (lastaj literoj)">
+<!ENTITY addonTypeExtension.label "Etendoprogramo">
 <!ENTITY addonTypeTheme.label "Etoso">
 <!ENTITY missingThumbnail.label "No Preview">
 
