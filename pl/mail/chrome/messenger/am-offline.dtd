@@ -10,7 +10,7 @@
 <!ENTITY kb.label                        "KB">
 <!ENTITY daysOld.label                   "dni">
 <!ENTITY nntpNotDownloadRead.label       "Nie pobieraj treści przeczytanych wiadomości">
-<!ENTITY nntpNotDownloadRead.accesskey   "r">
+<!ENTITY nntpNotDownloadRead.accesskey   "h">
 <!ENTITY nntpDownloadMsg.label           "Nie pobieraj treści wiadomości starszych niż">
 <!ENTITY nntpDownloadMsg.accesskey       "b">
 <!ENTITY retentionCleanup.label          "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane.">
@@ -21,7 +21,7 @@
 <!ENTITY retentionKeepAll.label          "Nie usuwaj żadnych wiadomości">
 <!ENTITY retentionKeepAll.accesskey      "a">
 <!ENTITY retentionKeepRecent.label            "Usuwaj wszystko, pomijając ostatnie">
-<!ENTITY retentionKeepRecent.accesskey        "w">
+<!ENTITY retentionKeepRecent.accesskey        "k">
 <!ENTITY message.label                        "wiadomości">
 <!ENTITY retentionKeepUnreadHidden.label      "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)">
 <!ENTITY retentionApplyToFlagged.label        "Zawsze przechowuj wiadomości oznaczone gwiazdką">
@@ -29,7 +29,7 @@
 <!ENTITY nntpRemoveMsgBody.label              "Usuwaj treść wiadomości starszych niż">
 <!ENTITY nntpRemoveMsgBody.accesskey          "U">
 <!ENTITY offlineSelectNntp.label              "Wybierz grupy dostępne w trybie offline…">
-<!ENTITY offlineSelectNntp.accesskey          "g">
+<!ENTITY offlineSelectNntp.accesskey          "W">
 <!ENTITY offlineImapAdvancedOffline.label     "Zaawansowane…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "Z">
 <!ENTITY syncGroupTitle.label                 "Synchronizacja wiadomości">
