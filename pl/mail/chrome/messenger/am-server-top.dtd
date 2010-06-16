@@ -39,7 +39,7 @@
 <!ENTITY modelDeleteImmediately.label     "zostanie niezwłocznie usunięta">
 <!ENTITY modelDeleteImmediately.accesskey "i">
 <!ENTITY expungeOnExit.label          "Przy wyjściu z programu porządkuj folder Odebrane">
-<!ENTITY expungeOnExit.accesskey      "r">
+<!ENTITY expungeOnExit.accesskey      "m">
 <!ENTITY emptyTrashOnExit.label       "Przy wyjściu z programu opróżniaj Kosz">
 <!ENTITY emptyTrashOnExit.accesskey   "c">
 <!ENTITY loginAtStartup.label         "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
