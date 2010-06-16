@@ -1,6 +1,6 @@
 <!ENTITY smtpServer.label "Konfiguracja serwera poczty wychodzącej (SMTP)">
 
-<!ENTITY smtpDesc.label 'Jeśli zajdzie taka potrzeba, każde konto można skonfigurować w taki sposób, aby korzystało z osobnego serwera poczty wychodzącej (SMTP). Ten ekran służy do dodawania, usuwania lub edycji ustawień serwerów. Przypisanie wybranego serwera poczty wychodzącej do określonego konta należy wykonać w oknie konfiguracji tego konta, opcja "Serwer poczty wychodzącej (SMTP)".'>
+<!ENTITY smtpDesc.label 'Jeśli zajdzie taka potrzeba, każde konto można skonfigurować w taki sposób, aby korzystało z osobnego serwera poczty wychodzącej (SMTP). Ten ekran służy do dodawania, usuwania lub edycji ustawień serwerów. Przypisania wybranego serwera poczty wychodzącej do określonego konta należy dokonać w oknie konfiguracji tego konta, opcja "Serwer poczty wychodzącej (SMTP)".'>
 
 <!ENTITY smtpListAdd.label             "Dodaj…">
 <!ENTITY smtpListAdd.accesskey         "D">
@@ -8,8 +8,8 @@
 <!ENTITY smtpListEdit.accesskey        "E">
 <!ENTITY smtpListDelete.label          "Usuń">
 <!ENTITY smtpListDelete.accesskey      "U">
-<!ENTITY smtpListSetDefault.label      "Jako domyślny">
-<!ENTITY smtpListSetDefault.accesskey  "y">
+<!ENTITY smtpListSetDefault.label      "Domyślny">
+<!ENTITY smtpListSetDefault.accesskey  "m">
 
 <!ENTITY serverDescription.label       "Opis: ">
 <!ENTITY serverName.label              "Nazwa serwera: ">
