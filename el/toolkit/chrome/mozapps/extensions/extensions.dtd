@@ -12,7 +12,7 @@
 
 <!ENTITY view.search.label                    "Αναζήτηση">
 <!ENTITY view.discover.label                  "Λήψη περισσότερων προσθέτων">
-<!ENTITY view.languages.label                 "Γλώσσες">
+<!ENTITY view.locales.label                   "Γλώσσες">
 <!ENTITY view.searchengines.label             "Μηχανές αναζήτησης">
 <!ENTITY view.features.label                  "Επεκτάσεις">
 <!ENTITY view.appearance.label                "Θέματα">
