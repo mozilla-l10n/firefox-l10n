@@ -48,8 +48,6 @@
 <!ENTITY  reload.accesskey              "u">
 <!ENTITY  ftp.label                     "FTP įgaliotasis serveris:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "„Gopher“ įgaliotasis serveris:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP įgaliotasis serveris:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL įgaliotasis serveris">
@@ -64,8 +62,6 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "i">
 <!ENTITY  FTPport.accesskey             "e">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "d">
 <!ENTITY  noproxy.label                 "Tiesiogiai jungtis prie šių sričių:">
 <!ENTITY  noproxy.accesskey             "š">
