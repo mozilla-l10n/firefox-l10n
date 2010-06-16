@@ -32,7 +32,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "An eachdraidh brabhsaidh ┐ eachdraidh nan luchdaidhean">
+<!ENTITY itemHistoryAndDownloads.label     "An eachdraidh brabhsaidh ┐ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY itemHistoryAndDownloads.accesskey "e">
 <!ENTITY itemBrowsingHistory.label         "An eachdraidh brabhsachaidh">
 <!ENTITY itemBrowsingHistory.accesskey     "r">
@@ -46,7 +46,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Dàta làraichean-lin far loidhne">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Eachdraidh nan luchdaidhean">
+<!ENTITY itemDownloadHistory.label         "Eachdraidh dhe na chaidh a luchdadh a-nuas">
 <!ENTITY itemDownloadHistory.accesskey     "E">
 <!ENTITY itemActiveLogins.label            "Logaidhean a-steach beòtha">
 <!ENTITY itemActiveLogins.accesskey        "L">
