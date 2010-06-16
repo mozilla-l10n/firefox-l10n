@@ -228,6 +228,12 @@ shortcut keys on Linux. -->
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuPrintCmd.label "Imprimir">
+<!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuToolbarLayout.label "Esquema da barra de ferramentas…">
+<!ENTITY appMenuSidebars.label "Barras laterais">
+<!ENTITY appMenuHelp.label "Ajuda">
+
 <!ENTITY openCmd.commandkey 		  "l">
 <!ENTITY urlbar.placeholder           "Ir para o sítio web">
 <!ENTITY urlbar.accesskey 			  "A">
