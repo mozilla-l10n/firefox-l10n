@@ -13,7 +13,7 @@
 <!ENTITY extensions.label                 "Estensiones">
 <!ENTITY themes.label                     "Temes">
 <!ENTITY locales.label                    "Llingües">
-<!ENTITY plugins.label                    "Plugins (complementos)">
+<!ENTITY plugins.label                    "Complementos">
 <!ENTITY update.label                     "Anovamientos">
 <!ENTITY install.label                    "Instalación">
 
