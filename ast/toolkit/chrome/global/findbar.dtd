@@ -8,7 +8,7 @@
 <!ENTITY previous.label "Anterior">
 <!ENTITY previous.accesskey "t">
 <!ENTITY previous.tooltip "Alcontrar l'anterior apaición de la fras">
-<!ENTITY findCloseButton.tooltip "Pesllar barra de gueta">
+<!ENTITY findCloseButton.tooltip "Zarrar barra de gueta">
 <!ENTITY highlight.label "Rescamplar too">
 <!ENTITY highlight.accesskey "e">
 <!ENTITY highlight.tooltiptext "Rescamplar toles apaiciones de la fras">

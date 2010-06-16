@@ -6,8 +6,8 @@
 <!ENTITY organize.accesskey    "A">
 
 <!ENTITY file.accesskey                 "F">
-<!ENTITY file.close.label               "Pesllar">
-<!ENTITY file.close.accesskey           "r">
+<!ENTITY file.close.label               "Zarrar">
+<!ENTITY file.close.accesskey           "Z">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY edit.label                     "Editar">
 <!ENTITY edit.accesskey                 "E">
@@ -71,7 +71,7 @@
 <!ENTITY cmd.edit_redo.accesskey    "R">
 <!ENTITY cmd.edit_redo.key          "y">
 
-<!ENTITY cmd.bookmarkLink.label         "Amestar a marcadores esta páxina…">
+<!ENTITY cmd.bookmarkLink.label         "Amestar páxina a marcadores…">
 <!ENTITY cmd.bookmarkLink.accesskey     "A">
 <!ENTITY cmd.delete.label               "Desaniciar esta páxina">
 <!ENTITY cmd.delete.accesskey           "D">

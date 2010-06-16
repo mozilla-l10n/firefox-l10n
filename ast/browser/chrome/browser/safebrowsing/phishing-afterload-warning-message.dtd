@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "¡Sácame d'equí!">
 <!ENTITY safeb.palm.accept.statustext "Empobinar pa la mio páxina d'entamu">
 <!ENTITY safeb.palm.decline.label "Inorar esta alvertencia">
-<!ENTITY safeb.palm.decline.statustext "Pesllar alvertencia" >
+<!ENTITY safeb.palm.decline.statustext "Zarrar alvertencia" >
 <!ENTITY safeb.palm.notforgery.label2 "Nun ye un sitiu fraudulentu…">
 <!ENTITY safeb.palm.reportPage.label "¿Porqué ta esta páxina bloquiada?">
 

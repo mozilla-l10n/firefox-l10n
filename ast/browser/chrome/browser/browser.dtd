@@ -67,11 +67,11 @@
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Amestar a marcadores esta páxina">
+<!ENTITY bookmarkThisPageCmd.label "Amestar páxina a marcadores">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Soscribise a esta páxina">
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
-<!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
+<!ENTITY addCurPagesCmd.label "Amestar toles llingüetes…">
 <!ENTITY organizeBookmarks.label "Organizar marcadores">
 <!ENTITY bookmarkAllCmd.label "Amestar a marcadores toles llingüetes…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">

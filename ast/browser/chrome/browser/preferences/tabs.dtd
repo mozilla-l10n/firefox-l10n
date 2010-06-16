@@ -1,7 +1,7 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir nueves ventanes nuna llingüeta nueva">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Alvertir al pesllar múltiples llingüetes">
+<!ENTITY warnCloseMultipleTabs.label  "Alvertir al zarrar múltiples llingüetes">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">
 
 <!ENTITY warnOpenManyTabs.label       "Alvertir al abrir múltiples llingüetes que puean ralentizar &brandShortName;">

@@ -23,5 +23,5 @@
 <!ENTITY     filter.label                   "Guetar:">
 <!ENTITY     filter.accesskey               "G">
 
-<!ENTITY     button.close.label             "Pesllar">
-<!ENTITY     button.close.accesskey         "P">
+<!ENTITY     button.close.label             "Zarrar">
+<!ENTITY     button.close.accesskey         "Z">
