@@ -5,10 +5,10 @@
 <!ENTITY addMailAccountButton.label      "Dodaj konto pocztowe…">
 <!ENTITY addMailAccountButton.accesskey  "D">
 <!ENTITY addOtherAccountButton.label     "Dodaj inne konto…">
-<!ENTITY addOtherAccountButton.accesskey "i">
+<!ENTITY addOtherAccountButton.accesskey "k">
 
 <!ENTITY setDefaultButton.label     "Ustaw jako domyślne">
-<!ENTITY setDefaultButton.accesskey "j">
+<!ENTITY setDefaultButton.accesskey "w">
 <!ENTITY removeButton.label         "Usuń konto">
 <!ENTITY removeButton.accesskey     "U">
 
