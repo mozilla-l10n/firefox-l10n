@@ -162,6 +162,9 @@ temporário e pode tentar mais tarde.</li>
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio electrónico são utilizadas para imitar fontes em que confia.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdos">
+<!ENTITY cspFrameAncestorBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página desta maneira porque a página tem uma política de segurança de conteúdos que a impede.</p>">
+
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma excepção...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção...">
