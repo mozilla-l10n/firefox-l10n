@@ -38,7 +38,7 @@
 <!ENTITY  historyHeader.custom.label       "Cleachd roghainnean gnàthaichte airson na h-eachdraidh">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "Cuimhnichidh &brandShortName; eachdraidh brabhsaidh, eachdraidh nan luchdaidhean a-nuas is nan lorg agad is cumaidh e briosgaidean o na làraichean air a thadhlas tu.">
+<!ENTITY  rememberDescription.label      "Cuimhnichidh &brandShortName; eachdraidh brabhsaidh, eachdraidh na chaidh a luchdadh a-nuas is na lorg thu is cumaidh e briosgaidean o na làraichean air a thadhlas tu.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -70,7 +70,7 @@
 <!ENTITY  rememberHistory.pre.accesskey  "b">
 <!ENTITY  rememberHistory.post.label     "latha">
 
-<!ENTITY  rememberDownload.label         "Cuimhnich eachdraidh nan luchdaidhean a-nuas">
+<!ENTITY  rememberDownload.label         "Cuimhnich eachdraidh dhe na chaidh a luchdadh a-nuas">
 <!ENTITY  rememberDownload.accesskey     "n">
 
 <!ENTITY  rememberSearchForm.label       "Cuimhnich eachdraidh nan lorg is nam foirmichean">
