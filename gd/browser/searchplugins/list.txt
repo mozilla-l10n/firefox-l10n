@@ -1,9 +1,6 @@
 google
 yahoo-en-GB
 amazon-en-GB
-ebay-en-GB
-answers
-creativecommons
 faclair-beag
 foram-na-gaidhlig
 wikipedia-gd

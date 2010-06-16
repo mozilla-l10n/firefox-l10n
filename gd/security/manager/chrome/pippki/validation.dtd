@@ -51,7 +51,7 @@
 
 <!ENTITY  validation.crl.autoupdate.title         "Roghainnean airson ùrachadh an LTC leis fhèin">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Cuir ùrachadh leis fhèin an comas airson an LTC seo">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Ùrachadh">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Ùraich">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Là(ithean) gu ceann-latha an ath-ùrachaidh">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Ùraich a h-uile">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Là(ithean)">
