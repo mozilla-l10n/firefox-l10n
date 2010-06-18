@@ -2,7 +2,6 @@
 <!ENTITY message.label "Algum texto de exemplo vai para aqui.">
 <!ENTITY editfield0.label "Nome de utilizador:">
 <!ENTITY editfield1.label "Senha:">
-<!ENTITY editfield2.label "Confirmar senha:">
 <!ENTITY checkbox.label "verificar">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
