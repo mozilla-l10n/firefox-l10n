@@ -150,7 +150,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "被內容安全政策封鎖">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面有個內容安全政策不允許其以這種方式載入。</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面的內容安全政策不允許其以這種方式被載入。</p>">
 
 <!ENTITY securityOverride.linkText "或者您也可以新增例外網站…">
 <!ENTITY securityOverride.getMeOutOfHereButton "帶我離開這裡！">

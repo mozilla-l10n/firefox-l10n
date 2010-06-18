@@ -2,7 +2,6 @@
 <!ENTITY message.label    "這裡是文字的預留位置。">
 <!ENTITY editfield0.label "使用者名稱:"> 
 <!ENTITY editfield1.label "密碼:"> 
-<!ENTITY editfield2.label "確認密碼:"> 
 <!ENTITY checkbox.label   "檢查">
 <!ENTITY copyCmd.label    "複製">
 <!ENTITY copyCmd.accesskey "C">
