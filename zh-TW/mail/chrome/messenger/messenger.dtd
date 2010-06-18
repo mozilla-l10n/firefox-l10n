@@ -168,7 +168,7 @@
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "從">
 <!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByRecipientCmd.label "收件回執:">
+<!ENTITY sortByRecipientCmd.label "收件者">
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByUnreadCmd.label "已讀取">
 <!ENTITY sortByUnreadCmd.accesskey "R">
@@ -591,7 +591,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "主題">
 <!ENTITY fromColumn.label "從">
-<!ENTITY recipientColumn.label "收件回執:">
+<!ENTITY recipientColumn.label "收件者">
 <!ENTITY subjectColumn.label "主旨">
 <!ENTITY dateColumn.label "日期">
 <!ENTITY priorityColumn.label "重要性">
