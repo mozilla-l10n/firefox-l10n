@@ -383,7 +383,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
 <!ENTITY closeCmd.label                 "Colar">  
-<!ENTITY closeCmd.key                   "Q">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "r">
 
 <!ENTITY pageStyleMenu.label "Estilu de páxina">
