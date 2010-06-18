@@ -3,9 +3,9 @@
 <!ENTITY  prefWindow.titleGNOME   "Preferencies de &brandShortName;">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWinMinSize.styleWin2      "width: 47em; min-height: 37.5em;">
-<!ENTITY  prefWinMinSize.styleMac       "anchor: 47em; altor-min: 40em;">
-<!ENTITY  prefWinMinSize.styleGNOME     "width: 46em; min-height: 40.5em;">
+<!ENTITY  prefWinMinSize.styleWin2      "width: 47em; min-height: 40em;">
+<!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 40em;">
 
 <!ENTITY  paneGeneral.title       "Xeneral">
 <!ENTITY  paneTabs.title          "Llingüetes">
