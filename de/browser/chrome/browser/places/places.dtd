@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey                 "B">
 <!ENTITY views.label                    "Ansichten">
 <!ENTITY views.accesskey                 "A">
-<!ENTITY view.toolbar.label             "Symbolleiste">
-<!ENTITY view.toolbar.accesskey         "y">
 <!ENTITY view.columns.label             "Spalten anzeigen">
 <!ENTITY view.columns.accesskey         "p">
 <!ENTITY view.sort.label                "Sortieren">
@@ -49,28 +47,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Datei wählen…">
 <!ENTITY cmd.restoreFromFile.accesskey  "D">
 
-<!ENTITY cmd.select_all.label  "Alles markieren">
-<!ENTITY cmd.select_all.accesskey "m">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Ausschneiden">
-<!ENTITY cmd.edit_cut.accesskey     "A">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopieren">
-<!ENTITY cmd.edit_copy.accesskey    "K">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Einfügen">
-<!ENTITY cmd.edit_paste.accesskey   "E">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Löschen">
-<!ENTITY cmd.edit_delete.accesskey  "L">
-<!ENTITY cmd.edit_undo.label        "Rückgängig">
-<!ENTITY cmd.edit_undo.accesskey    "R">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Wiederherstellen">
-<!ENTITY cmd.edit_redo.accesskey    "W">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Lesezeichen für diese Seite hinzufügen…">
 <!ENTITY cmd.bookmarkLink.accesskey     "h">
 <!ENTITY cmd.delete.label               "Diese Seite löschen">
@@ -92,17 +68,12 @@
 
 <!ENTITY cmd.show_info.key  "i">
 
-<!ENTITY cmd.rename.label      "Umbenennen">
-<!ENTITY cmd.rename.accesskey  "U">
-
 <!ENTITY cmd.sortby_name.label              "Nach Name sortieren">
 <!ENTITY cmd.sortby_name.accesskey          "s">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Neues Lesezeichen…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_livemark.label            "Neues dynamisches Lesezeichen…">
-<!ENTITY cmd.new_livemark.accesskey        "d">
 <!ENTITY cmd.new_folder.label              "Neuer Ordner…">
 <!ENTITY cmd.new_folder.accesskey          "O">
 <!ENTITY cmd.context_new_folder.accesskey  "O">
@@ -185,9 +156,6 @@
 <!ENTITY advancedSearch.max.label                  "Maximale Ergebnisse: ">
 
 <!ENTITY cmd.find.key                              "f">
-
-<!ENTITY feed.subscribe.label                      "Feed">
-<!ENTITY feed.subscribe.tooltip                    "Abonnieren">
 
 <!ENTITY view.detailsMacOSX.label  "Auflisten">
 <!ENTITY view.details.label        "Details">
