@@ -37,7 +37,7 @@
 #define firefox_community Engagera dig
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://sv-se.www.mozilla.com/sv-SE/firefox/about/
+# link title for http://sv-se.www.mozilla.com/sv-SE/about/
 #define firefox_about Om oss
 
 #unfilter emptyLines
