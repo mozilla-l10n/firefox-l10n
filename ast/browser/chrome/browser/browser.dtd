@@ -193,7 +193,7 @@
 
 <!ENTITY historyMenu.label "Hestorial">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "Llingüetes zarraes recién">
+<!ENTITY historyUndoMenu.label "Llingüetes recién zarraes">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanes recién zarraes">
 

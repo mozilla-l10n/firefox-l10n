@@ -73,7 +73,7 @@
 <!ENTITY  mediaSize             "Tamañu">
 <!ENTITY  mediaCount            "Cuenta">
 <!ENTITY  mediaDimension        "Dimensiones:">
-<!ENTITY  mediaLongdesc         "Descrición llarga:">
+<!ENTITY  mediaLongdesc         "Descripción llarga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Guardar como…">
 <!ENTITY  mediaSaveAs.accesskey "c">

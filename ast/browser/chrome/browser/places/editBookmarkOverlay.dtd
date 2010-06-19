@@ -13,7 +13,7 @@
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetes:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separte les etiquetes con comes">
-<!ENTITY editBookmarkOverlay.description.label               "Descrición">
+<!ENTITY editBookmarkOverlay.description.label               "Descripción">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Pallabra clave:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "b">
