@@ -22,12 +22,6 @@
 <!ENTITY browseFile.accesskey "б">
 <!ENTITY useDefault.label "Восстановить">
 <!ENTITY useDefault.accesskey "В">
-<!ENTITY toolbarIntro.label "Выберите кнопки, которые хотите видеть на панелях инструментов:">
-<!ENTITY navToolbarIntro.label "Панель навигации">
-<!ENTITY goButton.label "Перейти">
-<!ENTITY goButton.accesskey "П">
-<!ENTITY searchButton.label "Поиск">
-<!ENTITY searchButton.accesskey "П">
 <!ENTITY defaultBrowserGroup.label "Браузер по умолчанию">
 <!ENTITY defaultBrowserButton.label "По умолчанию">
 <!ENTITY defaultBrowserButton.accesskey "м">
