@@ -26,14 +26,6 @@
 <!ENTITY  useDefault.label "Configuration par défaut">
 <!ENTITY  useDefault.accesskey "n">
 
-<!ENTITY  toolbarIntro.label "Boutons visibles dans les barres d'outils :">
-
-<!ENTITY  navToolbarIntro.label "Barre d'outils de navigation">
-<!ENTITY  goButton.label "Go">
-<!ENTITY  goButton.accesskey "G">
-<!ENTITY  searchButton.label "Rechercher">
-<!ENTITY  searchButton.accesskey "R">
-
 <!ENTITY defaultBrowserGroup.label "Navigateur par défaut">
 <!ENTITY defaultBrowserButton.label "Définir le navigateur par défaut">
 <!ENTITY defaultBrowserButton.accesskey "D">
