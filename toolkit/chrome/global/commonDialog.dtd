@@ -29,12 +29,10 @@
    - Mikael Hedberg <hedberg@novasphere.net>
   -->
 
-<!-- OK Cancel Buttons -->
 <!ENTITY header.label     "Kort titel"> 
 <!ENTITY message.label    "Lite exempeltext här.">
 <!ENTITY editfield0.label "Användarnamn:"> 
 <!ENTITY editfield1.label "Lösenord:"> 
-<!ENTITY editfield2.label "Bekräfta lösenord:"> 
 <!ENTITY checkbox.label   "markera">
 <!ENTITY copyCmd.label    "Kopiera">
 <!ENTITY copyCmd.accesskey "o">
