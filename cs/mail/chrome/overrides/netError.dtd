@@ -162,6 +162,9 @@ za chvíli.</li>
 <p>Tyto podvodné stránky nazývané též útoky typu phishing se snaží zpravidla napodobit webové stránky a nebo e-maily ze zdrojů, kterým věříte.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, neboť tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
+
 <!ENTITY securityOverride.linkText "A nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
