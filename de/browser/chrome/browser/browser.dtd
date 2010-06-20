@@ -153,7 +153,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
-<!ENTITY addons.tooltip               "Installierte Add-ons anzeigen und verwalten">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "Fehlerkonsole">
