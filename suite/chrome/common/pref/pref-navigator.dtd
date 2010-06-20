@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label               "Restaurar predeterminado">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY toolbarIntro.label             "Seleccione los botones que quiere ver en la barra de herramientas:">
-
-<!ENTITY navToolbarIntro.label          "Barra de navegación">
-<!ENTITY goButton.label                 "Ir">
-<!ENTITY goButton.accesskey             "I">
-<!ENTITY searchButton.label             "Buscar">
-<!ENTITY searchButton.accesskey         "s">
-
 <!ENTITY defaultBrowserGroup.label      "Navegador predeterminado">
 <!ENTITY defaultBrowserButton.label     "Establecer navegador predeterminado">
 <!ENTITY defaultBrowserButton.accesskey "d">
