@@ -7,10 +7,6 @@
 #define bookmarks_title Lesezeichen
 #define bookmarks_heading Lesezeichen
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Lesezeichen-Add-ons herunterladen
-
 #define bookmarks_toolbarfolder Lesezeichen-Symbolleiste
 #define bookmarks_toolbarfolder_description Lesezeichen, die Sie in diesem Ordner ablegen, werden in der Lesezeichen-Symbolleiste angezeigt.
 
