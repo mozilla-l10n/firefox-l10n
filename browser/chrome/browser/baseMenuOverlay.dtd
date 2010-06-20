@@ -16,7 +16,6 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpForIEUsers.label     "Für Anwender des Internet Explorers">
 <!ENTITY helpForIEUsers.accesskey "F">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey   "?">
 
 <!ENTITY helpReleaseNotes.label         "Versionshinweise">
