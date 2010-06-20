@@ -14,6 +14,7 @@
 <!ENTITY copylink.label "Αντιγραφή τοποθεσίας δεσμού">
 <!ENTITY paste.label "Επικόλληση">
 <!ENTITY delete.label "Διαγραφή">
+<!ENTITY addonsUpdate.label        "Ενημέρωση">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY noSuggestions.label "(Χωρίς υποδείξεις)">
 <!ENTITY addToDictionary.label "Προσθήκη στο λεξικό">
