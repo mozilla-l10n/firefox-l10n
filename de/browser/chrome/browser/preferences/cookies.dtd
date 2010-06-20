@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "Folgende Cookies sind auf Ihrem Computer gespeichert:">
 <!ENTITY     cookiename.label               "Cookie-Name">
 <!ENTITY     cookiedomain.label             "Website"> 
+<!ENTITY     button.removecookies.label     "Cookies entfernen">
 <!ENTITY     button.removecookie.label      "Cookie entfernen">
 <!ENTITY     button.removecookie.accesskey  "C">
 <!ENTITY     button.removeallcookies.label  "Alle Cookies entfernen">
