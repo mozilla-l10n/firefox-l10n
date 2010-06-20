@@ -58,7 +58,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 
 <!ENTITY fullZoomReduceBtn.label        "Σμίκρυνση">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomReduceBtn.accesskey    "μ">
 <!ENTITY fullZoomEnlargeBtn.label       "Μεγέθυνση">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "γ">
 

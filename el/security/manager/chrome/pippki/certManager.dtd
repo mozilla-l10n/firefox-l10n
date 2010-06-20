@@ -28,10 +28,10 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Εξυπηρετητής">
 <!ENTITY exceptionMgr.certlocation.url        "Τοποθεσία:">
 <!ENTITY exceptionMgr.certlocation.download   "Λήψη πιστοποιητικού">
-<!ENTITY exceptionMgr.certlocation.accesskey  "ψ">
+<!ENTITY exceptionMgr.certlocation.accesskey  "η">
 <!ENTITY exceptionMgr.certstatus.caption      "Κατάσταση πιστοποιητικού">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Προβολή…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "β">
+<!ENTITY exceptionMgr.certstatus.accesskey    "ο">
 
 <!ENTITY certmgr.detail.general_tab.title "Γενικά">
 <!ENTITY certmgr.details.label "Πεδία πιστοποιητικού">
