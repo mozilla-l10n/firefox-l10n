@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label "Obnovit výchozí">
 <!ENTITY useDefault.accesskey "O">
 
-<!ENTITY toolbarIntro.label "Vyberte tlačítka, která chcete zobrazit na liště:">
-
-<!ENTITY navToolbarIntro.label "Lišta navigace">
-<!ENTITY goButton.label "Přejít">
-<!ENTITY goButton.accesskey "p">
-<!ENTITY searchButton.label "Hledat">
-<!ENTITY searchButton.accesskey "H">
-
 <!ENTITY defaultBrowserGroup.label "Výchozí prohlížeč">
 <!ENTITY defaultBrowserButton.label "Nastavit výchozí prohlížeč">
 <!ENTITY defaultBrowserButton.accesskey "N">
