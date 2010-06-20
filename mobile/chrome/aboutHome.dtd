@@ -5,3 +5,5 @@
 <!ENTITY aboutHome.aboutMozilla                 "Περί Mozilla">
 <!ENTITY aboutHome.openAllTabs                  "Άνοιγμα όλων σε καρτέλες">
 
+<!ENTITY aboutHome.noAddons                     "Δεν υπάρχουν συνιστώμενα πρόσθετα">
+<!ENTITY aboutHome.noTabs                       "Δεν υπάρχουν καρτέλες από την προηγούμενη συνεδρία">
