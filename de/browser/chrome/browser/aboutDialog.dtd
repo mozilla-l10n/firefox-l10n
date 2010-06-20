@@ -7,6 +7,5 @@
 <!ENTITY aboutVersion               "Version">
 <!ENTITY closeCmdGNOME.label        "Schließen">
 <!ENTITY closeCmdGNOME.accesskey    "s">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Informationen zur Lizenzierung">
 <!ENTITY licenseLinkSuffix          ".">
