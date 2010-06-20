@@ -228,6 +228,12 @@
 <!ENTITY showAllHistoryCmd2.label "Gesamte Chronik anzeigen">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Drucken">
+<!ENTITY appMenuCustomize.label "Anpassen">
+<!ENTITY appMenuToolbarLayout.label "Symbolleisten-Layout…">
+<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuHelp.label "Hilfe">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Website öffnen">
 <!ENTITY urlbar.accesskey             "s">
