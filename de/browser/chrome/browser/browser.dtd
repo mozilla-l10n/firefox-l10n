@@ -229,10 +229,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Lesezeichen und Chronik durchsuchen">
-<!ENTITY urlbar.bookmark.emptyText    "Lesezeichen durchsuchen">
-<!ENTITY urlbar.history.emptyText     "Chronik durchsuchen">
-<!ENTITY urlbar.none.emptyText        "Web-Adresse eingeben">
+<!ENTITY urlbar.placeholder           "Website öffnen">
 <!ENTITY urlbar.accesskey             "s">
 <!ENTITY urlbar.switchToTab.label     "Wechseln zum Tab:">
 
