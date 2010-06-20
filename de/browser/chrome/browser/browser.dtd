@@ -194,8 +194,8 @@
 <!ENTITY preferencesCmdUnix.label       "Einstellungen">
 <!ENTITY preferencesCmdUnix.accesskey     "E"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Neueste Chronik löschen">
-<!ENTITY clearRecentHistoryCmd.accesskey        "N">
+<!ENTITY clearRecentHistory.label            "Neueste Chronik löschen…">
+<!ENTITY clearRecentHistory.accesskey        "N">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Privaten Modus starten">
