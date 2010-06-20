@@ -40,7 +40,7 @@
 <!ENTITY setColor1.label "Klepněte na barvu nebo">
 <!ENTITY setColor2.label "zadejte definici HTML barvy">
 <!ENTITY setColor2.accessKey "d">
-<!ENTITY setColorExample.label "(např.: &quot;#0000ff&quot; nebo &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(např.: „#0000ff“ nebo „blue“):">
 <!ENTITY default.label "Výchozí">
 <!ENTITY default.accessKey "V">
 <!ENTITY palette.label "Paleta:">

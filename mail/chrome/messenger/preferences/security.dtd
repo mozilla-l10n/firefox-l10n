@@ -8,7 +8,7 @@
 <!ENTITY junkMail.intro "Další nastavení nevyžádané pošty lze provést v dialogu Nastavení účtu.">
 <!ENTITY manualMark.label "Pokud ručně označím zprávy jako nevyžádané:">
 <!ENTITY manualMark.accesskey "r">
-<!ENTITY manualMarkModeMove.label "Přesunout je do složky &quot;Nevyžádaná&quot;">
+<!ENTITY manualMarkModeMove.label "Přesunout je do složky „Nevyžádaná“">
 <!ENTITY manualMarkModeMove.accesskey "n">
 <!ENTITY manualMarkModeDelete.label "Smazat">
 <!ENTITY manualMarkModeDelete.accesskey "S">

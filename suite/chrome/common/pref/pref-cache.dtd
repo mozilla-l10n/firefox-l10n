@@ -12,7 +12,7 @@
 <!ENTITY clearDiskCache.accesskey "D">
 <!ENTITY chooseDiskCacheFolder.label "Vybrat složku…">
 <!ENTITY chooseDiskCacheFolder.accesskey "B">
-<!ENTITY diskCacheFolderExplanation "Dočasné soubory budou uloženy v podadresáři &quot;Cache&quot; zadaného adresáře. Pro potvrzení změn je potřeba restartovat aplikaci &brandShortName;.">
+<!ENTITY diskCacheFolderExplanation "Dočasné soubory budou uloženy v podadresáři „Cache&quot; zadaného adresáře. Pro potvrzení změn je potřeba restartovat aplikaci &brandShortName;.">
 <!ENTITY docCache "Dokument ve vyrovnávací paměti je porovnáván s dokumentem na síti:">
 <!ENTITY oncePsessionRadio.label "Jednou za relaci">
 <!ENTITY oncePsessionRadio.accesskey "J">

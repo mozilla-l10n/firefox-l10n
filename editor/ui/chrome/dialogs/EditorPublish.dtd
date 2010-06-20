@@ -67,11 +67,11 @@
 <!ENTITY pageTitle.label "Nadpis stránky:">
 <!ENTITY pageTitle.accesskey "p">
 <!ENTITY pageTitle.tooltip "Vkládá nadpis stránky pro identifikaci okna v záložkách">
-<!ENTITY pageTitleExample.label "např.: &quot;Moje první stránka&quot;">
+<!ENTITY pageTitleExample.label "např.: „Moje první stránka“">
 <!ENTITY filename.label "Název souboru:">
 <!ENTITY filename.accesskey "s">
-<!ENTITY filename.tooltip "Zadává název souboru pro webovou stránku včetně '.html' přípony">
-<!ENTITY filenameExample.label "např.: &quot;mojestranka.html&quot;">
+<!ENTITY filename.tooltip "Zadává název souboru pro webovou stránku včetně „.html“ přípony">
+<!ENTITY filenameExample.label "např.: „mojestranka.html“">
 <!ENTITY setDefaultButton.label "Nastavit jako výchozí">
 <!ENTITY setDefaultButton.accesskey "v">
 <!ENTITY removeButton.label "Odebrat server">
@@ -83,11 +83,11 @@
 <!ENTITY loginInfo.label "Přihlašovací informace">
 <!ENTITY siteName.label "Název webu:">
 <!ENTITY siteName.accesskey "w">
-<!ENTITY siteName.tooltip "Zkratka, která identifikuje publikovaný web (např. 'MůjWeb')">
-<!ENTITY siteUrl.label "Adresa pro zveřejnění (např: 'ftp://ftp.isp.cz/uzivatel'):">
+<!ENTITY siteName.tooltip "Zkratka, která identifikuje publikovaný web (např. „MůjWeb“)">
+<!ENTITY siteUrl.label "Adresa pro zveřejnění (např: „ftp://ftp.isp.cz/uzivatel“):">
 <!ENTITY siteUrl.accesskey "A">
 <!ENTITY siteUrl.tooltip "FTP nebo HTTP adresa poskytnutá ISP nebo hostingovou službou">
-<!ENTITY browseUrl.label "HTTP adresa domovské stránky (např. 'http://www.isp.cz/uzivatel'):">
+<!ENTITY browseUrl.label "HTTP adresa domovské stránky (např. „http://www.isp.cz/uzivatel“):">
 <!ENTITY browseUrl.accesskey "H">
 <!ENTITY browseUrl.tooltip "HTTP adresa domovské stránky (neobsahuje název souboru)">
 <!ENTITY username.label "Jméno uživatele:">
