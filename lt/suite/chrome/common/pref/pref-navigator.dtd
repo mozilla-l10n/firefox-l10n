@@ -58,14 +58,6 @@
 <!ENTITY useDefault.label                 "Atstatyti numatytąjį">
 <!ENTITY useDefault.accesskey             "n">
 
-<!ENTITY toolbarIntro.label               "Pagrindinio naršyklės lango mygtukai">
-
-<!ENTITY navToolbarIntro.label            "Naršymo juosta">
-<!ENTITY goButton.label                   "Eiti">
-<!ENTITY goButton.accesskey               "E">
-<!ENTITY searchButton.label               "Ieškoti">
-<!ENTITY searchButton.accesskey           "I">
-
 <!ENTITY defaultBrowserGroup.label        "Numatytoji naršyklė">
 <!ENTITY defaultBrowserButton.label       "Skirti numatytąja naršykle">
 <!ENTITY defaultBrowserButton.accesskey   "n">
