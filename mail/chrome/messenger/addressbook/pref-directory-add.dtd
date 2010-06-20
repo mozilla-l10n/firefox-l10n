@@ -32,7 +32,7 @@
 <!ENTITY saslMechanism.label "Μέθοδος σύνδεσης: ">
 <!ENTITY saslMechanism.accesskey "θ">
 <!ENTITY saslOff.label "Απλή">
-<!ENTITY saslOff.accesskey "κ">
+<!ENTITY saslOff.accesskey "λ">
 <!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey "K">
 <!ENTITY newDirectoryWidth "40em">

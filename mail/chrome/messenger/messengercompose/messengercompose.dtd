@@ -208,7 +208,7 @@
 <!ENTITY spellCheckAddToDictionary.label "Προσθήκη στο λεξικό">
 <!ENTITY spellCheckAddToDictionary.accesskey "ξ">
 <!ENTITY undo.label "Αναίρεση">
-<!ENTITY undo.accesskey "κ">
+<!ENTITY undo.accesskey "ν">
 <!ENTITY cut.label "Αποκοπή">
 <!ENTITY cut.accesskey "κ">
 <!ENTITY copy.label "Αντιγραφή">

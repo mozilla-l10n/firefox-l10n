@@ -656,7 +656,7 @@
 <!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
 <!ENTITY copyLinkCmd.accesskey "δ">
 <!ENTITY copyImageAllCmd.label "Αντιγραφή εικόνας">
-<!ENTITY copyImageAllCmd.accesskey "I">
+<!ENTITY copyImageAllCmd.accesskey "ι">
 <!ENTITY copyEmailCmd.label "Αντιγραφή διεύθυνσης Email">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY stopCmd.label "Διακοπή">
