@@ -43,7 +43,7 @@
 <!ENTITY receiptArrive.label " Při přijetí potvrzení">
 <!ENTITY leaveIt.label "Ponechat jej ve složce Doručená pošta">
 <!ENTITY leaveIt.accesskey "D">
-<!ENTITY moveToSent.label "Přesunout jej do složky &quot;Odeslaná pošta&quot;">
+<!ENTITY moveToSent.label "Přesunout jej do složky „Odeslaná pošta“">
 <!ENTITY moveToSent.accesskey "O">
 <!ENTITY requestMDN.label "Pokud zpráva obsahuje žádost potvrzení o přečtení:">
 <!ENTITY returnSome.label "Vracet potvrzení o přečtení pro některé zprávy">

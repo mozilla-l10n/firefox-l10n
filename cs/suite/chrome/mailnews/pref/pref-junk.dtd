@@ -41,7 +41,7 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label "Pokud ručně označím zprávy jako nevyžádané:">
 <!ENTITY manualMark.accesskey "O">
-<!ENTITY manualMarkModeMove.label "Přesunout je do složky &quot;Nevyžádaná pošta&quot;">
+<!ENTITY manualMarkModeMove.label "Přesunout je do složky „Nevyžádaná pošta“">
 <!ENTITY manualMarkModeMove.accesskey "P">
 <!ENTITY manualMarkModeDelete.label "Smazat">
 <!ENTITY manualMarkModeDelete.accesskey "S">

@@ -28,7 +28,7 @@
 <!ENTITY showSearchEngine.accesskey "b">
 
 <!ENTITY unknownLocations.label "Neznámá adresa">
-<!ENTITY domainGuessing.label "Pokud není nalezena webová adresa, automaticky přidat k názvu &quot;www.&quot; a &quot;.cz&quot;">
+<!ENTITY domainGuessing.label "Pokud není nalezena webová adresa, automaticky přidat k názvu „www.“ a „.cz“">
 <!ENTITY domainGuessing.accesskey "w">
 <!ENTITY keywords.label "Pokud není nalezena webová adresa, provést hledání ve vyhledávači">
 <!ENTITY keywords.accesskey "a">

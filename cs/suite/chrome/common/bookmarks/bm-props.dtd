@@ -38,7 +38,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY bookmarks.windowtitle.label "Vlastnosti záložky &quot;**bm_title**&quot;">
+<!ENTITY bookmarks.windowtitle.label "Vlastnosti záložky „**bm_title**“">
 
 <!ENTITY generalInfo.label "Informace">
 <!ENTITY bookmarks.name.label "Název:">

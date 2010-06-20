@@ -5,7 +5,7 @@
 
 <!ENTITY move.label "Přesunout příchozí nevyžádané zprávy do: ">
 <!ENTITY move.accesskey "P">
-<!ENTITY junkFolderOn.label "Složka &quot;Nevyžádaná&quot; na:">
+<!ENTITY junkFolderOn.label "Složka „Nevyžádaná“ na:">
 <!ENTITY junkFolderOn.accesskey "S">
 <!ENTITY otherFolder.label "Další:">
 <!ENTITY otherFolder.accesskey "D">
