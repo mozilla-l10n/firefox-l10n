@@ -212,6 +212,8 @@
 <!ENTITY viewSidebarMenu.accesskey "b">
 <!ENTITY viewCustomizeToolbar.label       "Anpassen…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "A"> 
+<!ENTITY viewTabsOnTop.label            "Tabs oben">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "Chronik">
 <!ENTITY historyMenu.accesskey "C">
