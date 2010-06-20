@@ -357,6 +357,8 @@
 <!ENTITY mediaShowControls.accesskey "S">
 <!ENTITY mediaHideControls.label     "Steuerung ausblenden">
 <!ENTITY mediaHideControls.accesskey "S">
+<!ENTITY videoFullScreen.label       "Vollbild">
+<!ENTITY videoFullScreen.accesskey   "V">
 
 
 <!-- LOCALIZATION NOTE :
