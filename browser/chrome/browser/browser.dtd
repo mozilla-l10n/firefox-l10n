@@ -229,6 +229,8 @@
 <!ENTITY urlbar.history.emptyText     "Chronik durchsuchen">
 <!ENTITY urlbar.none.emptyText        "Web-Adresse eingeben">
 <!ENTITY urlbar.accesskey             "s">
+<!ENTITY urlbar.switchToTab.label     "Wechseln zum Tab:">
+
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -328,8 +330,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Link-Adresse kopieren">
 <!ENTITY copyLinkCmd.accesskey        "k">
-<!ENTITY copyLinkText2Cmd.label        "Link-Text kopieren">
-<!ENTITY copyLinkText2Cmd.accesskey    "x">
 <!ENTITY copyImageCmd.label           "Grafikadresse kopieren">
 <!ENTITY copyImageCmd.accesskey       "d">
 <!ENTITY copyImageContentsCmd.label   "Grafik kopieren">
