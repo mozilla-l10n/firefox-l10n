@@ -9,3 +9,9 @@
 <!ENTITY chooseFoldersButton.accesskey "ι">
 <!ENTITY searchOnline.label "Αναζήτηση Online (Δίνει ενημερωμένα αποτελέσματα για φακέλους IMAP και συζητήσεων αλλά αυξάνει το χρόνο ανοίγματος του φακέλου)">
 <!ENTITY searchOnline.accesskey "ζ">
+
+<!ENTITY newFolderButton.label       "Δημιουργία">
+<!ENTITY newFolderButton.accesskey   "ρ">
+<!ENTITY editFolderButton.label      "Ενημέρωση">
+<!ENTITY editFolderButton.accesskey  "η">
+
