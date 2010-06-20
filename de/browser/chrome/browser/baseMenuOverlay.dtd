@@ -22,8 +22,8 @@
 <!ENTITY helpReleaseNotes.label         "Versionshinweise">
 <!ENTITY helpReleaseNotes.accesskey     "V">
 
-<!ENTITY helpTroubleshooting.label      "Informationen zur Fehlerbehebung">
-<!ENTITY helpTroubleshooting.accesskey  "z">
+<!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung">
+<!ENTITY helpTroubleshootingInfo.accesskey  "z">
 
 <!ENTITY updateCmd.label                "Nach Updates suchen…">
 
