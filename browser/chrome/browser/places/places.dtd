@@ -13,7 +13,7 @@
 <!ENTITY edit.accesskey                 "D">
 <!ENTITY views.label                    "Seallaidhean">
 <!ENTITY views.accesskey                "S">
-<!ENTITY view.toolbar.label             "Crann-inneil">
+<!ENTITY view.toolbar.label             "Bàr-inneil">
 <!ENTITY view.toolbar.accesskey         "n">
 <!ENTITY view.columns.label             "Seall colbhan">
 <!ENTITY view.columns.accesskey         "c">

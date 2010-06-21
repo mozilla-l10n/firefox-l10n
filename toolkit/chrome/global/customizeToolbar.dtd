@@ -1,12 +1,12 @@
-<!ENTITY dialog.title             "Gnàthaich a' chrann-inneal">
+<!ENTITY dialog.title             "Gnàthaich am bàr-inneil">
 <!ENTITY dialog.style             "width: 680px; height: 480px;">
-<!ENTITY instructions.description "'S urrainn dhut rudan a chur ris no a thoirt air falbh le bhith 'gan slaodadh air a' chrann-inneal no air falbh uaithe.">
+<!ENTITY instructions.description "'S urrainn dhut rudan a chur ris no a thoirt air falbh le bhith 'gan slaodadh air a' bhàr-inneil no air falbh uaithe.">
 <!ENTITY show.label               "Seall:">
 <!ENTITY iconsAndText.label       "Ìomhaigheagan is teacs">
 <!ENTITY icons.label              "Ìomhaigheagan">
 <!ENTITY text.label               "Teacs">
 <!ENTITY useSmallIcons.label      "Cleachd ìomhaigheagan beaga">
 <!ENTITY restoreDefaultSet.label  "Aisig an seata bunaiteach">
-<!ENTITY addNewToolbar.label      "Cuir crann-inneal ùr ris">
+<!ENTITY addNewToolbar.label      "Cuir bàr-inneil ùr ris">
 <!ENTITY saveChanges.label        "Dèanta">
 <!ENTITY undoChanges.label        "Neo-dhèan na h-atharrachaidhean">

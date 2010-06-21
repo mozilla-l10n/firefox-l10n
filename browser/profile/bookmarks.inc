@@ -11,8 +11,8 @@
 # link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
 #define bookmarks_addons Faigh tuilleadain nan comharra-lìn
 
-#define bookmarks_toolbarfolder Pasgan do chrann-inneal nan comharra-lìn
-#define bookmarks_toolbarfolder_description Cuir comharraidhean-lìn sa phasgan seo gus am faicinn air crann-inneal nan comharra-lìn.
+#define bookmarks_toolbarfolder Pasgan do bhàr nan comharra-lìn
+#define bookmarks_toolbarfolder_description Cuir comharraidhean-lìn sa phasgan seo gus am faicinn air bàr nan comharra-lìn
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
