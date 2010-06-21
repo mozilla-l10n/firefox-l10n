@@ -48,7 +48,7 @@
 <!ENTITY  saveFile.label              "Sàbhail am faidhle">
 <!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "Dèan seo leis fhèin le faidhlichean d' a leithid san àm ri teachd.">
+<!ENTITY  rememberChoice.label        "Dèantar seo leis fhèin le faidhlichean d' a leithid san àm ri teachd.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIsA.label              "a tha 'na: ">

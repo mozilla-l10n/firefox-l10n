@@ -72,7 +72,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Fo-sgrìobh gun duilleag seo">
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
-<!ENTITY organizeBookmarks.label "Cuir air dòigh na comharraidhean-lìn…">
+<!ENTITY organizeBookmarks.label "Cuir air dòigh comharraidhean-lìn…">
 <!ENTITY bookmarkAllCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharraidhean-lìn">
 

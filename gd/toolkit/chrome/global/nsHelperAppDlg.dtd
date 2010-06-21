@@ -20,7 +20,7 @@
 
 <!ENTITY prompt.label          "Dè nì #1 leis an fhaidhle seo?">
 
-<!ENTITY alwaysHandle.label     "Dèan seo gach turas a bhios faidhle dhen t-seòrsa seo ga làimhseachadh">
+<!ENTITY alwaysHandle.label     "Dèan seo gach turas a bhios faidhle dhen t-seòrsa seo 'ga làimhseachadh">
 <!ENTITY alwaysHandle.accesskey "a">
 
 <!ENTITY saveToDisk.label      "Sàbhail e air an diosg">
