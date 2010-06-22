@@ -1,9 +1,9 @@
 <!ENTITY windowtitle.label "Excepciones">
-<!ENTITY treehead.sitename.label "Sitio">
+<!ENTITY treehead.sitename.label "Sitio web">
 <!ENTITY treehead.status.label "Estado">
-<!ENTITY remove.label "Eliminar sitio">
+<!ENTITY remove.label "Eliminar sitio web">
 <!ENTITY remove.accesskey "R">
-<!ENTITY removeall.label "Eliminar todos los sitios">
+<!ENTITY removeall.label "Eliminar todos los sitios web">
 <!ENTITY removeall.accesskey "e">
 <!ENTITY address.label "Dirección del sitio web:">
 <!ENTITY address.accesskey "D">

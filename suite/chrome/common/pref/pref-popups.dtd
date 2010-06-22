@@ -2,7 +2,7 @@
 <!ENTITY pref.popups.caption "Ventanas emergentes">
 <!ENTITY popupBlock.label "Bloquear ventanas emergentes no solicitadas">
 <!ENTITY popupBlock.accesskey "B">
-<!ENTITY popupExceptions.label "Sitios permitidos…">
+<!ENTITY popupExceptions.label "Sitios web permitidos…">
 <!ENTITY popupExceptions.accesskey "p">
 <!ENTITY whenBlock.description "Cuando se ha bloqueado una ventana emergente:">
 <!ENTITY playSound.label "Reproducir un sonido:">
@@ -21,4 +21,4 @@
 <!ENTITY displayIcon.accesskey "M">
 <!ENTITY displayNotification.label "Mostrar una barra de notificación en la parte superior del área de contenido">
 <!ENTITY displayNotification.accesskey "n">
-<!ENTITY popupNote.description "Nota: bloquear todas las ventanas emergentes puede impedir que funcionen características importantes de algunos sitios web, como ventanas de inicio de sesión de bancos y sitios de compra en línea. Para detalles sobre cómo permitir usar ventanas emergentes a sitios específicos sin dejar de bloquearlas para el resto, pulse Ayuda. Incluso con el bloqueo activado, algunos sitios pueden usar otros métodos para mostrar ventanas emergentes.">
+<!ENTITY popupNote.description "Nota: bloquear todas las ventanas emergentes puede impedir que funcionen características importantes de algunos sitios web, como ventanas de inicio de sesión de bancos y sitios de compra en línea. Para detalles sobre cómo permitir usar ventanas emergentes a sitios web específicos sin dejar de bloquearlas para el resto, pulse Ayuda. Incluso con el bloqueo activado, algunos sitios web pueden usar otros métodos para mostrar ventanas emergentes.">

@@ -1,9 +1,9 @@
 <!ENTITY tab.cookiesonsystem.label "Cookies guardadas">
-<!ENTITY tab.bannedservers.label "Sitios que usan cookies">
+<!ENTITY tab.bannedservers.label "Sitios web que usan cookies">
 <!ENTITY div.bannedservers.label "Administrar sitios web que pueden guardar cookies en su equipo (o no).">
 <!ENTITY div.cookiesonsystem.label "Ver y eliminar cookies que están guardadas en su equipo.">
 <!ENTITY treehead.cookiename.label "Nombre de la cookie">
-<!ENTITY treehead.cookiedomain.label "Sitio">
+<!ENTITY treehead.cookiedomain.label "Sitio web">
 <!ENTITY treehead.cookieexpires.label "Expira">
 <!ENTITY treehead.infoselected.label "Información sobre la cookie seleccionada">
 <!ENTITY button.removecookie.label "Eliminar cookie">
@@ -20,7 +20,7 @@
 <!ENTITY props.path.label "Ruta:">
 <!ENTITY props.secure.label "Enviar para:">
 <!ENTITY props.expires.label "Caduca:">
-<!ENTITY treehead.sitename.label "Sitio">
+<!ENTITY treehead.sitename.label "Sitio web">
 <!ENTITY treehead.status.label "Estado">
 <!ENTITY windowtitle.label "Administrador de cookies">
 <!ENTITY buttonaccept.label "Cerrar">
@@ -31,9 +31,9 @@
 <!ENTITY allowSite.accesskey "P">
 <!ENTITY allowSiteSession.label "Sesión">
 <!ENTITY allowSiteSession.accesskey "S">
-<!ENTITY removepermission.label "Eliminar sitio">
+<!ENTITY removepermission.label "Eliminar sitio web">
 <!ENTITY removepermission.accesskey "R">
-<!ENTITY removeallpermissions.label "Eliminar todos los sitios">
+<!ENTITY removeallpermissions.label "Eliminar todos los sitios web">
 <!ENTITY removeallpermissions.accesskey "E">
-<!ENTITY futureCookies.label "No permitir a los sitios que enviaron cookies eliminadas enviar cookies en el futuro">
+<!ENTITY futureCookies.label "No permitir a los sitios web que enviaron cookies eliminadas enviar cookies en el futuro">
 <!ENTITY futureCookies.accesskey "N">

@@ -22,12 +22,6 @@
 <!ENTITY browseFile.accesskey "C">
 <!ENTITY useDefault.label "Rest. valores predet.">
 <!ENTITY useDefault.accesskey "R">
-<!ENTITY toolbarIntro.label "Seleccione los botones que quiera ver en las barras de herramientas:">
-<!ENTITY navToolbarIntro.label "B. herram. navegación">
-<!ENTITY goButton.label "Ir a">
-<!ENTITY goButton.accesskey "a">
-<!ENTITY searchButton.label "Buscar">
-<!ENTITY searchButton.accesskey "S">
 <!ENTITY defaultBrowserGroup.label "Navegador predeterminado">
 <!ENTITY defaultBrowserButton.label "Establecer navegador predeterminado">
 <!ENTITY defaultBrowserButton.accesskey "D">

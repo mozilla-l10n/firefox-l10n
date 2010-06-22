@@ -9,3 +9,7 @@
 <!ENTITY chooseFoldersButton.accesskey "g">
 <!ENTITY searchOnline.label "Buscar en línea (devuelve resultados actualizados en carpetas IMAP y de grupos de noticias, pero aumenta el tiempo para abrir la carpeta)">
 <!ENTITY searchOnline.accesskey "B">
+<!ENTITY newFolderButton.label "Crear">
+<!ENTITY newFolderButton.accesskey "e">
+<!ENTITY editFolderButton.label "Actualizar">
+<!ENTITY editFolderButton.accesskey "A">

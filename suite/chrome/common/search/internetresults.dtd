@@ -41,7 +41,7 @@
 <!ENTITY price.column.label "Precio">
 <!ENTITY availability.column.label "Disponibilidad">
 <!ENTITY date.column.label "Fecha">
-<!ENTITY site.column.label "Servidor de Internet">
+<!ENTITY site.column.label "Sitio web">
 <!ENTITY results.header.label "Resultados de la búsqueda">
 <!ENTITY engine.column.label "Buscador">
 <!ENTITY viewbyprovider.label "Ver por buscador:">

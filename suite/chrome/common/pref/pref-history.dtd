@@ -6,7 +6,7 @@
 <!ENTITY clearHistory.label "Vaciar historial">
 <!ENTITY clearHistory.accesskey "s">
 <!ENTITY locationBarHistory.caption "Historial de la barra de direcciones">
-<!ENTITY clearLocationBar.label "Vaciar la lista de sitios guardados en la barra de direcciones.">
+<!ENTITY clearLocationBar.label "Vaciar la lista de sitios web guardados en la barra de direcciones.">
 <!ENTITY clearLocationBarButton.label "Vaciar barra de direcciones">
 <!ENTITY clearLocationBarButton.accesskey "d">
 <!ENTITY formfillHistory.caption "Historial de formularios y búsquedas">

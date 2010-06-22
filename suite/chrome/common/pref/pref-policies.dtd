@@ -3,10 +3,10 @@
 <!ENTITY policies.label "Políticas:">
 <!ENTITY default.label "Política predeterminada">
 <!ENTITY allWebsites.label "Todos los sitios web">
-<!ENTITY trusted.label "Sitios en los que se confía">
+<!ENTITY trusted.label "Sitios web en los que se confía">
 <!ENTITY annoyances.label "Molestias habituales">
-<!ENTITY restricted.label "Sitios restringidos">
-<!ENTITY addSite.label "Añadir servidor…">
+<!ENTITY restricted.label "Sitios web restringidos">
+<!ENTITY addSite.label "Añadir servidor web…">
 <!ENTITY addSite.accesskey "a">
 <!ENTITY settings.label "Configuración para ">
 <!ENTITY settings.accesskey "C">
