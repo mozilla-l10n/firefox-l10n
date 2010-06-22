@@ -228,6 +228,12 @@
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Cetak">
+<!ENTITY appMenuCustomize.label "Ubahsuai">
+<!ENTITY appMenuToolbarLayout.label "Tata Letak Bilah Alat…">
+<!ENTITY appMenuSidebars.label "Bilah Samping">
+<!ENTITY appMenuHelp.label "Bantuan">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Kunjungi sebuah Situs Web">
 <!ENTITY urlbar.accesskey             "d">
