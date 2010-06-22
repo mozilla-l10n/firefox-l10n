@@ -128,6 +128,9 @@
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY hudConsoleCmd.label "Интерактивная консоль">
+<!ENTITY hudConsoleCmd.accesskey "и">
+<!ENTITY hudConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
