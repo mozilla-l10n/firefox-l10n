@@ -264,7 +264,7 @@
 <!ENTITY calendarproperties.name.label "Nombre:">
 <!ENTITY calendarproperties.readonly.label "Sólo lectura">
 <!ENTITY calendarproperties.firealarms.label "Mostrar alarmas">
-<!ENTITY calendarproperties.cache.label "Caché (EXPERIMENTAL, requiere reiniciar)">
+<!ENTITY calendarproperties.cache.label "Caché (EXPERIMENTAL)">
 <!ENTITY calendarproperties.enabled.label "Activar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label "No se ha encontrado el proveedor de este calendario. Esto sucede a menudo si ha desactivado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label "Cancelar suscripción">
@@ -289,7 +289,7 @@
 <!ENTITY calendar.print.to.label "A:">
 <!ENTITY calendar.print.settingsGroup.label "Configuración de impresión">
 <!ENTITY calendar.print.optionsGroup.label "Opciones">
-<!ENTITY calendar.print.taskswithnoduedate.label "Tareas sin fecha de vencimiento">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tareas sin fecha límite">
 <!ENTITY calendar.print.completedtasks.label "Tareas completadas">
 <!ENTITY calendar.error.detail "Detalles…">
 <!ENTITY calendar.error.code "Código de error:">
