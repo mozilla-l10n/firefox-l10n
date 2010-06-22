@@ -18,8 +18,6 @@
 <!ENTITY  reload.accesskey              "u">
 <!ENTITY  ftp.label                     "Proxy untuk FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Proxy untuk Gopher:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "Proxy untuk HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy untuk SSL:">
@@ -34,8 +32,6 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Tidak Perlu Proxy untuk:">
 <!ENTITY  noproxy.accesskey             "x">
