@@ -54,7 +54,7 @@
 <!ENTITY evaluate.label "Выполнить">
 <!ENTITY evaluate.accesskey "п">
 <!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.accesskey "п">
+<!ENTITY copyCmd.accesskey "и">
 <!ENTITY copyCmd.commandkey "C">
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey "l">
