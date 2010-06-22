@@ -26,7 +26,7 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Ένα πιο ευκρινές περιβάλλον χρήσης σε σχέση με το προηγούμενο, που αφήνει περισσότερο χώρο ελεύθερο για αναζήτηση και πρόσθετα.">
 
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "Μια πιο ευκρινής εργαλειοθήκη με συγκεντρωμένα όλες τις λειτουργίες αλληλογραφίας.">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Μια πιο ευκρινής εργαλειοθήκη με συγκεντρωμένες όλες τις λειτουργίες αλληλογραφίας.">
 
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Διατήρηση των προσαρμοσμένων κουμπιών μαζί με τα νέα κουμπιά μηνυμάτων.">
 
@@ -105,7 +105,7 @@
 <!ENTITY featureConfigurator.folderColumns.heading "Επιπρόσθετες στήλες φακέλων">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "Η επέκταση των επιπρόσθετων στηλών φακέλων αντικαθιστά την αντίστοιχη προχωρημένη προτίμηση.  Για να διατηρήσετε την στήλη του ακριβή αριθμού μηνυμάτων και του αποθηκευτικού χώρου στον καθένα από τους φακέλους σας, θα πρέπει να εγκαταστήσετε αυτή την επέκταση.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Η επέκταση των επιπρόσθετων στηλών φακέλων αντικαθιστά την αντίστοιχη προχωρημένη προτίμηση.  Για να διατηρήσετε την στήλη του ακριβούς αριθμού μηνυμάτων και του αποθηκευτικού χώρου στον καθένα από τους φακέλους σας, θα πρέπει να εγκαταστήσετε αυτή την επέκταση.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
 <!ENTITY featureConfigurator.folderColumns.para.strong "Προσέξαμε ότι χρησιμοποιείτε την προχωρημένη λειτουργία των επιπρόσθετων στηλών φακέλων.  Αυτή η λειτουργία μεταφέρθηκε σε ξεχωριστή επέκταση και σας συστήνουμε να την εγκαταστήσετε.">

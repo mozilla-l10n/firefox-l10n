@@ -168,6 +168,10 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
 <!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης">
 
+
+<!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
