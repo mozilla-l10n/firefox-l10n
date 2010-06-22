@@ -20,9 +20,9 @@
 <!ENTITY view.groupNone.accesskey "N">
 <!ENTITY view.groupDay.label "Día">
 <!ENTITY view.groupDay.accesskey "D">
-<!ENTITY view.groupSite.label "Sitio">
-<!ENTITY view.groupSite.accesskey "S">
-<!ENTITY view.groupDayAndSite.label "Día y sitio">
+<!ENTITY view.groupSite.label "Sitio web">
+<!ENTITY view.groupSite.accesskey "W">
+<!ENTITY view.groupDayAndSite.label "Día y sitio web">
 <!ENTITY view.groupDayAndSite.accesskey "s">
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">

@@ -89,7 +89,7 @@
 <!ENTITY securityView.identity.verifier "Verificado por:">
 <!ENTITY securityView.privacy.header "Privacidad e historial">
 <!ENTITY securityView.privacy.history "¿He visitado este sitio web antes hoy?">
-<!ENTITY securityView.privacy.cookies "¿Está guardando este sitio información (cookies) en mi ordenador?">
+<!ENTITY securityView.privacy.cookies "¿Está guardando este sitio web información (cookies) en mi ordenador?">
 <!ENTITY securityView.privacy.viewCookies "Ver cookies">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
 <!ENTITY securityView.privacy.passwords "¿He guardado contraseñas para este sitio web?">

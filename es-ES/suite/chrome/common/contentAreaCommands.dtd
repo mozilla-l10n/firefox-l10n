@@ -1,6 +1,6 @@
-<!ENTITY popupWindowRejectCmd.label "Rechazar ventanas emergentes de este sitio">
+<!ENTITY popupWindowRejectCmd.label "Rechazar ventanas emergentes de este sitio web">
 <!ENTITY popupWindowRejectCmd.accesskey "R">
-<!ENTITY popupWindowAllowCmd.label "Permitir ventanas emergentes de este sitio">
+<!ENTITY popupWindowAllowCmd.label "Permitir ventanas emergentes de este sitio web">
 <!ENTITY popupWindowAllowCmd.accesskey "P">
 <!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey "v">

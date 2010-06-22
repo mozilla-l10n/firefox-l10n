@@ -133,6 +133,6 @@
 <!ENTITY historyCmd.label "Historial">
 <!ENTITY historyCmd.accesskey "H">
 <!ENTITY history.commandKey "h">
-<!ENTITY popupIcon.tooltiptext "Desbloquear las ventanas emergentes de este sitio">
+<!ENTITY popupIcon.tooltiptext "Desbloquear las ventanas emergentes de este sitio web">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambiar dirección de la página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">

@@ -112,8 +112,6 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "c">
 <!ENTITY showSearchToolbarCmd.label "Barra de búsqueda">
 <!ENTITY showSearchToolbarCmd.accesskey "b">
-<!ENTITY showLocationToolbarCmd.label "Barra de direcciones">
-<!ENTITY showLocationToolbarCmd.accesskey "d">
 <!ENTITY messagePaneLayoutStyle.label "Disposición">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
 <!ENTITY messagePaneClassic.label "Vista clásica">
@@ -419,9 +417,10 @@
 <!ENTITY stopButton.label "Detener">
 <!ENTITY junkButton.label "Basura">
 <!ENTITY notJunkButton.label "No es basura">
+<!ENTITY searchButton.title "Búsqueda avanzada">
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY mailToolbar.tooltip "Barra de herramientas de correo">
-<!ENTITY locationToolbar.tooltip "Barra de direcciones">
+<!ENTITY searchToolbar.tooltip "Barra de búsqueda">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de mensajes">
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY newMsgButton.tooltip "Crear nuevo mensaje">
@@ -509,9 +508,10 @@
 <!ENTITY folderContextSettings.label "Configuración…">
 <!ENTITY folderContextSettings.accesskey "C">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Buscar en el asunto o dirección">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "z">
+<!ENTITY searchButton.label "Buscar mensajes…">
+<!ENTITY searchButton.accesskey "B">
 <!ENTITY all.label "Todos">
 <!ENTITY all.accesskey "T">
 <!ENTITY junkBarMessage.label "&brandShortName; piensa que este mensaje es correo basura.">
