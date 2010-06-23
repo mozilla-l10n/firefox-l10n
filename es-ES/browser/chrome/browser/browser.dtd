@@ -128,6 +128,9 @@
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY hudConsoleCmd.label "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey "U">
+<!ENTITY hudConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Inspeccionar">
 <!ENTITY inspectMenu.accesskey "r">
 <!ENTITY inspectMenu.commandkey "I">
