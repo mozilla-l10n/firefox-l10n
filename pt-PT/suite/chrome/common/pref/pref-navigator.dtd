@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label               "Restaurar pré-definições">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY toolbarIntro.label             "Seleccione os botões que quer ver na barra de ferramentas:">
-
-<!ENTITY navToolbarIntro.label          "Barra de ferramentas de navegação">
-<!ENTITY goButton.label                 "Ir">
-<!ENTITY goButton.accesskey             "r">
-<!ENTITY searchButton.label             "Procurar">
-<!ENTITY searchButton.accesskey         "P">
-
 <!ENTITY defaultBrowserGroup.label      "Navegador pré-definido">
 <!ENTITY defaultBrowserButton.label     "Aplicar navegador pré-definido">
 <!ENTITY defaultBrowserButton.accesskey "d">
