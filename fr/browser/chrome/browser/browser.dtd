@@ -159,6 +159,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "s">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY hudConsoleCmd.label          "Vue tête haute">
+<!ENTITY hudConsoleCmd.accesskey      "V">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Examiner">
 <!ENTITY inspectMenu.accesskey        "E">
 <!ENTITY inspectMenu.commandkey       "I">
