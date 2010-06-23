@@ -159,6 +159,10 @@ shortcut keys on Linux. -->
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY hudConsoleCmd.label          "Mostrar cabeçalhos">
+<!ENTITY hudConsoleCmd.accesskey      "ç">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
