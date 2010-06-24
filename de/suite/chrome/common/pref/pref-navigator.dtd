@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label               "Standard">
 <!ENTITY useDefault.accesskey           "S">
 
-<!ENTITY toolbarIntro.label             "Aktivieren Sie jene Elemente, die in den Symbolleisten angezeigt werden sollen:">
-
-<!ENTITY navToolbarIntro.label          "Navigations-Symbolleiste">
-<!ENTITY goButton.label                 "Gehe zu">
-<!ENTITY goButton.accesskey             "z">
-<!ENTITY searchButton.label             "Suchen">
-<!ENTITY searchButton.accesskey         "u">
-
 <!ENTITY defaultBrowserGroup.label      "Standard-Browser">
 <!ENTITY defaultBrowserButton.label     "Standard-Browser setzen">
 <!ENTITY defaultBrowserButton.accesskey "S">
