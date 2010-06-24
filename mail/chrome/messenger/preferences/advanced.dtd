@@ -52,7 +52,7 @@
 <!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label    "Agregados instalados">
+<!ENTITY enableAddonsUpdate.label    "Complementos instalados">
 <!ENTITY enableAddonsUpdate.accesskey "i">
 <!ENTITY whenUpdatesFound.label         "Cuando se encuentren actualizaciones para &brandShortName;,">
 <!ENTITY modeAskMe.label                "Preguntarme qué hacer">

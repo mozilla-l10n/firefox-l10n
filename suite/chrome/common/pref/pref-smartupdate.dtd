@@ -14,11 +14,11 @@
 <!ENTITY appDaily.accesskey                   "d">
 <!ENTITY weekly.label                         "semanalmente">
 <!ENTITY appWeekly.accesskey                  "m">
-<!ENTITY extensionsUpdates.label              "Agregados instalados">
+<!ENTITY extensionsUpdates.label              "Complementos instalados">
 <!ENTITY extensionsUpdates.accesskey          "n">
 <!ENTITY extensionsDaily.accesskey            "i">
 <!ENTITY extensionsWeekly.accesskey           "l">
-<!ENTITY addonManagerButton.label             "Administrador de agregados">
+<!ENTITY addonManagerButton.label             "Administrador de complementos">
 <!ENTITY addonManagerButton.accesskey         "M">
 
 <!ENTITY whenUpdatesFound.label               "Cuando se encuentren actualizaciones para &brandShortName;">
@@ -26,7 +26,7 @@
 <!ENTITY askMe.accesskey                      "n">
 <!ENTITY modeAutomatic.label                  "Descargar e instalar la actualización automáticamente">
 <!ENTITY modeAutomatic.accesskey              "c">
-<!ENTITY modeAutoAddonWarn.label              "Avisarme si ésto deshabilitará algunos de mis agregados">
+<!ENTITY modeAutoAddonWarn.label              "Avisarme si ésto deshabilitará algunos de mis complementos">
 <!ENTITY modeAutoAddonWarn.accesskey          "b">
 <!ENTITY updateHistory.label                  "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey              "u">

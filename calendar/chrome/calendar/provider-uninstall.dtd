@@ -37,7 +37,7 @@
 <!ENTITY providerUninstall.title                           "Desinstalar un proveedor">
 <!ENTITY providerUninstall.accept.label                    "Desuscribir seleccionados">
 <!ENTITY providerUninstall.accept.accesskey                "U">
-<!ENTITY providerUninstall.cancel.label                    "Mantener agregado">
+<!ENTITY providerUninstall.cancel.label                    "Mantener complemento">
 <!ENTITY providerUninstall.cancel.accesskey                "M">
 <!ENTITY providerUninstall.preName.label                   "Ha solicitado desinstalar o deshabilitar:">
 <!ENTITY providerUninstall.postName.label                  "Ésto causará que los calendarios mencionados sean deshabilitados.">

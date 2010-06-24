@@ -153,8 +153,8 @@
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "Agregados">
-<!ENTITY addons.accesskey "A">
+<!ENTITY addons.label "Complementos">
+<!ENTITY addons.accesskey "o">
 
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">

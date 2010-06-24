@@ -18,7 +18,7 @@
 <!ENTITY featureConfigurator.toolbar.original "Mantener los botones originales de la barra de herramientas">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantener los botones personalizados de la barra de herramientas en adición a los nuevos botones de mensaje.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Las acciones de mensaje como responder y reenviar se movieron de la barra de herramientas al encabezado mismo del mensaje. Esto ata los botones de acción directamente al mensaje, lo que deja más lugar en la barra de herramientas para la caja de búsquedas, com también para agregados.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Las acciones de mensaje como responder y reenviar se movieron de la barra de herramientas al encabezado mismo del mensaje. Esto ata los botones de acción directamente al mensaje, lo que deja más lugar en la barra de herramientas para la caja de búsquedas, como también para complementos.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Instalando…">

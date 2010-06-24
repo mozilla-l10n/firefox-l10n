@@ -20,8 +20,8 @@
                                            instalar software en esta computadora.">
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puede obtener la última versión de &brandShortName; en:">
 
-<!ENTITY  incompatibleCheck.title         "Verificando compatibilidad de agregados">
-<!ENTITY  incompatibleCheck.label         "Buscando nuevas versiones de sus agregados…">
+<!ENTITY  incompatibleCheck.title         "Verificando compatibilidad de complementos">
+<!ENTITY  incompatibleCheck.label         "Buscando nuevas versiones de sus complementos…">
 
 <!ENTITY clickHere.label "Ver más información sobre esta actualización">
 
@@ -39,7 +39,7 @@
 <!ENTITY license.decline "NO acepto los términos del contrato de licencia">
 <!ENTITY license.decline.accesskey "N">
 
-<!ENTITY  incompatibleList.title          "Se encontraron agregados no compatibles">
+<!ENTITY  incompatibleList.title          "Se encontraron complementos no compatibles">
 
 <!ENTITY downloadPage.title "Descargando &brandShortName;">
 <!ENTITY downloading.intro "Descargando la actualización…">

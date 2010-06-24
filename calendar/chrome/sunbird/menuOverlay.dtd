@@ -115,8 +115,8 @@
 <!ENTITY calendar.fullscreen.label "Pantalla completa">
 <!ENTITY calendar.fullscreen.accesskey "P">
 
-<!ENTITY calendar.addons.label "Agregados">
-<!ENTITY calendar.addons.accesskey "A">
+<!ENTITY calendar.addons.label "Complementos">
+<!ENTITY calendar.addons.accesskey "C">
 
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
