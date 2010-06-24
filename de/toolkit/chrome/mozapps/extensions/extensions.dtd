@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Entfernen">
 <!ENTITY cmd.uninstallAddon.accesskey         "n">
 <!ENTITY cmd.uninstallAddon.tooltip           "Dieses Add-on deinstallieren">
+<!ENTITY cmd.showPreferences.label            "Einstellungen">
+<!ENTITY cmd.showPreferences.tooltip          "Die Einstellungen dieses Add-ons ändern">
 <!ENTITY cmd.contribute.label                 "Beitragen">
 <!ENTITY cmd.contribute.accesskey             "a">
 <!ENTITY cmd.contribute.tooltip               "Zur Entwicklung dieses Add-ons beitragen">
