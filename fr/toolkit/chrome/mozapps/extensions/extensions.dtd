@@ -42,6 +42,8 @@
 <!ENTITY cmd.uninstallAddon.label         "Supprimer">
 <!ENTITY cmd.uninstallAddon.accesskey     "S">
 <!ENTITY cmd.uninstallAddon.tooltip       "Désinstaller ce module complémentaire">
+<!ENTITY cmd.showPreferences.label        "Préférences">
+<!ENTITY cmd.showPreferences.tooltip      "Changer les préférences de ce module complémentaire">
 <!ENTITY cmd.contribute.label             "Contribuer">
 <!ENTITY cmd.contribute.accesskey         "C">
 <!ENTITY cmd.contribute.tooltip           "Contribuer au développement de ce module complémentaire">
