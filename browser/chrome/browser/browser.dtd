@@ -103,9 +103,13 @@
 <!ENTITY bookmarksItem.title "Закладки">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY bookmarksButton.label "Закладки">
-<!ENTITY bookmarksButton.tooltip "Отобразить ваши закладки">
+<!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksButton.accesskey "к">
 <!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksMenuButton.label "Закладки">
+<!ENTITY bookmarksMenuButton.tooltip "Показать ваши закладки">
+<!ENTITY viewBookmarksSidebar.label "Показать в боковой панели">
+<!ENTITY viewBookmarksToolbar.label "Показать панель закладок">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Журнал">
