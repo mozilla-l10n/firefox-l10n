@@ -34,6 +34,8 @@
 <!ENTITY cmd.uninstallAddon.label "Удалить">
 <!ENTITY cmd.uninstallAddon.accesskey "д">
 <!ENTITY cmd.uninstallAddon.tooltip "Удалить это дополнение">
+<!ENTITY cmd.showPreferences.label "Настройки">
+<!ENTITY cmd.showPreferences.tooltip "Изменить настройки этого дополнения">
 <!ENTITY cmd.contribute.label "Внести вклад">
 <!ENTITY cmd.contribute.accesskey "т">
 <!ENTITY cmd.contribute.tooltip "Внести вклад в развитие этого дополнения">
