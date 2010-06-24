@@ -1,10 +1,10 @@
 <!ENTITY firstrun.title                     "Bienvenido a &brandShortName;">
-<!ENTITY firstrun.heading              "Para ayudarte a empezar, aquí hay algunas de las características y agregados más populares para ayudarte a aprovechar al máximo a &brandShortName;.">
+<!ENTITY firstrun.heading              "Para ayudarte a empezar, aquí hay algunas de las características y complementos más populares para ayudarte a aprovechar al máximo a &brandShortName;.">
 <!ENTITY firstrun.recommended          "Recomendados:">
 <!ENTITY firstrun.weave.title                    "Obtener Weave Sync">
 <!ENTITY firstrun.weave.description    "Compartí tu historial de navegación, marcadores, contraseñas guardadas y pestañas de &brandShortName; entre tu PC y tu celular.">
 <!ENTITY firstrun.starter.title        "Get the Starter Kit Collection">
-<!ENTITY firstrun.starter.description  "Instalá estos agregados recomendados para mejorar tu experiencia con &brandShortName;">
+<!ENTITY firstrun.starter.description  "Instalá estos complementos recomendados para mejorar tu experiencia con &brandShortName;">
 <!ENTITY firstrun.tour.title           "Take a Tour">
 <!ENTITY firstrun.tour.description     "Mirá este video para familiarizarte con cómo moverse y encontrar características interesantes">
 <!ENTITY firstrun.features             "Ver más características">

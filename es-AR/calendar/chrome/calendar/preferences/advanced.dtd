@@ -68,7 +68,7 @@
 <!ENTITY pref.calendar.advanced.update.autoCheck.label "Buscar automáticamente actualizaciones para:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Agregados instalados">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Complementos instalados">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Cuando se encuentren actualizaciones para &brandShortName;:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Preguntarme qué quiero hacer">

@@ -310,7 +310,7 @@
 <!ENTITY calendarproperties.firealarms.label "Mostrar alarmas">
 <!ENTITY calendarproperties.cache.label    "Caché (EXPERIMENTAL, requiere reinicio)">
 <!ENTITY calendarproperties.enabled.label "Cambiar a este calendario">
-<!ENTITY calendarproperties.forceDisabled.label            "No pudo encontrase el proveedor de este calendario. Ésto pasa a menudo si ha deshabilitado o desinstalado ciertos agregados.">
+<!ENTITY calendarproperties.forceDisabled.label            "No pudo encontrase el proveedor de este calendario. Ésto pasa a menudo si ha deshabilitado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Desuscribir">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 

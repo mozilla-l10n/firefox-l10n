@@ -36,7 +36,7 @@
 <!ENTITY downloadManagerCmd.accesskey "d">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Administrador de agregados">
+<!ENTITY addonsManagerCmd.label "Administrador de complementos">
 <!ENTITY addonsManagerCmd.accesskey "A">
 
 <!ENTITY switchProfileCmd.label "Cambiar de perfil…">

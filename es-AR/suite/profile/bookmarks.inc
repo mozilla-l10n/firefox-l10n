@@ -38,7 +38,7 @@
 
 # LOCALIZATION NOTE (seamonkey_addons):
 # link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/
-#define seamonkey_addons Agregados de SeaMonkey
+#define seamonkey_addons Complementos de SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_themes):
 # link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/themes

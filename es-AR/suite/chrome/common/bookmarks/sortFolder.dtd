@@ -9,7 +9,7 @@
 <!ENTITY sortBy.url.label "Location">
 <!ENTITY sortBy.shortcutUrl.label "Palabra clave">
 <!ENTITY sortBy.description.label "Descripción">
-<!ENTITY sortBy.bookmarkAddDate.label "Agregado">
+<!ENTITY sortBy.bookmarkAddDate.label "Complemento">
 <!ENTITY sortBy.lastModifiedDate.label "Última modificación">
 <!ENTITY sortBy.lastVisitDate.label "Última visita">
 

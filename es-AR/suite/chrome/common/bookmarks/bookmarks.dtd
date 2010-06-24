@@ -108,10 +108,10 @@
 <!ENTITY treecol.addedon.accesskey      "A">
 <!ENTITY treecol.addedon.tooltip        "Clic para ordenar por agregado">
 <!ENTITY treecol.lastmod.label          "Última modificación">
-<!ENTITY treecol.lastmod.accesskey      "Ú">
+<!ENTITY treecol.lastmod.accesskey      "m">
 <!ENTITY treecol.lastmod.tooltip        "Clic para ordenar por última modificación">
 <!ENTITY treecol.lastvisit.label        "Última visita">
-<!ENTITY treecol.lastvisit.accesskey    "Ú">
+<!ENTITY treecol.lastvisit.accesskey    "m">
 <!ENTITY treecol.lastvisit.tooltip      "Clic para ordenar por última visita">
 
 <!ENTITY bookmarksWindowTitle.label     "Administrador de marcadores">

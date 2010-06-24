@@ -42,7 +42,7 @@
 <!ENTITY safeModeDescription.label "&brandShortName; se está ejecutando en modo seguro, lo que deshabilita temporalmente sus opciones personales, temas y extensiones.">
 <!ENTITY safeModeDescription2.label "Puede hacer que algunos o todos estos cambios sean permanentes:">
 
-<!ENTITY disableAddons.label "Deshabilitar todos los agregados">
+<!ENTITY disableAddons.label "Deshabilitar todos los complementos">
 <!ENTITY disableAddons.accesskey "D">
 
 <!ENTITY resetToolbars.label "Reiniciar barras de herramientas y controles">

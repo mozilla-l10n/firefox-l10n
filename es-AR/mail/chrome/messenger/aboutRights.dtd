@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Aquí deben enumerarse todas las políticas de privacidad aplicables a este producto.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios opcionales, como la actualización de agregados; sin embargo, no podemos garantizar que estén libres de errores o sean 100&#37; precisos. Puede encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
+<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios opcionales, como la actualización de complementos; sin embargo, no podemos garantizar que estén libres de errores o sean 100&#37; precisos. Puede encontrar más detalles, incluída la información sobre cómo deshabilitar estos servicios, en los ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 
@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;Services&quot;), como el servicio de actualización de agregados por ejemplo el servicio SafeBrowsing, que está disponible para su uso junto a la versión binaria de &brandShortName; como se describe debajo. Si no quiere usar los servicios o los términos que están debajo son inaceptables, puede desactivar el servicio de actualización de agregados. Debe abrir las preferencias de la aplicación, elija la sección ">
+<!ENTITY rights.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;Services&quot;), como el servicio de actualización de complementos por ejemplo el servicio SafeBrowsing, que está disponible para su uso junto a la versión binaria de &brandShortName; como se describe debajo. Si no quiere usar los servicios o los términos que están debajo son inaceptables, puede desactivar el servicio de actualización de complementos. Debe abrir las preferencias de la aplicación, elija la sección ">
 <!ENTITY rights.webservices-b "Avanzadas">
 <!ENTITY rights.webservices-c ", luego la pestaña ">
 <!ENTITY rights.webservices-d "Actualización">

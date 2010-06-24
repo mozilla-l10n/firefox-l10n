@@ -4,7 +4,7 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "Su sesión previa de &brandShortName; se cerró inesperadamente. Pedimos sinceras disculpas por el inconveniente. Puede restaurar las pestañas y ventanas de su sesión previa o iniciar una sesión nueva si no las necesita más.">
 <!ENTITY restorepage.remedies       "Si &brandShortName; se cierra repetidamente:">
-<!ENTITY restorepage.dueToChrome    "Intente deshabilitar cualquier extensión recientemente agregada en el Administrador de Agregados.">
+<!ENTITY restorepage.dueToChrome    "Intente deshabilitar cualquier extensión recientemente agregada en el Administrador de complementos.">
 <!ENTITY restorepage.dueToContent   "Intente restaurar su sesión sin las páginas web que sospeche que puedan estar causando el problema:">
 
 <!ENTITY restorepage.restoreButton  "Restaurar sesión previa">

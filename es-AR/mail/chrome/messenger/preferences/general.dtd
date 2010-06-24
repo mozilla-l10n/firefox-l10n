@@ -28,8 +28,8 @@
 <!ENTITY browse.label                     "Examinar…">
 <!ENTITY browse.accesskey                 "x">
 
-<!ENTITY addonsMgr.label                  "Agregados">
-<!ENTITY manageAddonsDescWin.label        "Cambiar opciones para sus agregados">
-<!ENTITY manageAddonsDescUnix2.label      "Cambiar preferencias para sus agregados">
-<!ENTITY manageAddons.label               "Administrar agregados…">
+<!ENTITY addonsMgr.label                  "Complementos">
+<!ENTITY manageAddonsDescWin.label        "Cambiar opciones para sus complementos">
+<!ENTITY manageAddonsDescUnix2.label      "Cambiar preferencias para sus complementos">
+<!ENTITY manageAddons.label               "Administrar complementos…">
 <!ENTITY manageAddons.accesskey           "M">

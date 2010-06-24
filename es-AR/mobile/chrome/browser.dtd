@@ -31,10 +31,10 @@
 <!ENTITY formHelper.next           "Siguiente">
 <!ENTITY formHelper.done           "Terminado">
 
-<!ENTITY addonsHeader.label        "Agregados">
-<!ENTITY addonsLocal.label         "Tus agregados">
+<!ENTITY addonsHeader.label        "Complementos">
+<!ENTITY addonsLocal.label         "Tus complementos">
 <!ENTITY addonsUpdate.label        "Actualizar">
-<!ENTITY addonsRepo.label          "Obtener agregados">
+<!ENTITY addonsRepo.label          "Obtener complementos">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Buscar">
 <!ENTITY addonsSearch2.emptytext   "Buscar en catálogo">
