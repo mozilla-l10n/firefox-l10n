@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip "Mostra os marcadores">
 <!ENTITY bookmarksButton.accesskey  "m">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksMenuButton.tooltip        "Mostrar oa seus marcadores">
+<!ENTITY viewBookmarksSidebar.label         "Mostrar na barra lateral">
+<!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas dos marcadores">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
 key should not contain the letters A-F, since these are reserved
 shortcut keys on Linux. -->
