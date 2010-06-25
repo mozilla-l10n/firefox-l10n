@@ -106,6 +106,10 @@
 <!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
 <!ENTITY bookmarksButton.accesskey "a">
 <!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksMenuButton.label "Segnalibri">
+<!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
+<!ENTITY viewBookmarksSidebar.label "Visualizza nella barra laterale">
+<!ENTITY viewBookmarksToolbar.label "Visualizza Barra dei segnalibri">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Cronologia">
