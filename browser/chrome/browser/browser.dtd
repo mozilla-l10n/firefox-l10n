@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip    "Afficher le panneau des marque-pages">
 <!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey    "b">
+
+<!ENTITY bookmarksMenuButton.label          "Marque-pages">
+<!ENTITY bookmarksMenuButton.tooltip        "Afficher les marque-pages">
+<!ENTITY viewBookmarksSidebar.label         "Afficher dans la barre latérale">
+<!ENTITY viewBookmarksToolbar.label         "Afficher dans la barre personnelle">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
