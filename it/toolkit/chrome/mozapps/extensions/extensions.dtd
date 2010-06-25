@@ -34,6 +34,8 @@
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
 <!ENTITY cmd.uninstallAddon.tooltip "Disinstalla questo componente aggiuntivo">
+<!ENTITY cmd.showPreferences.label "Preferenze">
+<!ENTITY cmd.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
 <!ENTITY cmd.contribute.label "Fai una donazione">
 <!ENTITY cmd.contribute.accesskey "F">
 <!ENTITY cmd.contribute.tooltip "Contribuisci allo sviluppo di questo componente aggiuntivo">
