@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.uninstallAddon.tooltip           "Remove este extra">
+<!ENTITY cmd.showPreferences.label            "Preferências">
+<!ENTITY cmd.showPreferences.tooltip          "Alterar preferências deste extra">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento deste extra">
