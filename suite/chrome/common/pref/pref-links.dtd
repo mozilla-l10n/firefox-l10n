@@ -1,0 +1,17 @@
+<!ENTITY linksHeader.label "Liens">
+<!ENTITY newWindow.label "Comportement d'ouverture des liens">
+<!ENTITY newWindowDescription.label "Forcer les liens ouvrant une nouvelle fenêtre à s'ouvrir dans :">
+<!ENTITY external.label "Liens provenant d'autres applications">
+<!ENTITY externalDescription.label "Ouvrir les liens provenant d'autres applications dans :">
+
+<!ENTITY openCurrent.label "Le même onglet/la même fenêtre que le lien">
+<!ENTITY newWindowGroupCurrent.accesskey "L">
+<!ENTITY externalGroupCurrent.accesskey "/">
+
+<!ENTITY openTab.label "Un nouvel onglet">
+<!ENTITY newWindowGroupTab.accesskey "U">
+<!ENTITY externalGroupTab.accesskey "n">
+
+<!ENTITY openWindow.label "Une nouvelle fenêtre">
+<!ENTITY newWindowGroupWindow.accesskey "v">
+<!ENTITY externalGroupWindow.accesskey "f">
