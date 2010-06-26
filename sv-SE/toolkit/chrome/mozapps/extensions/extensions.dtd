@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.uninstallAddon.tooltip           "Avinstallerar tillägget">
+<!ENTITY cmd.showPreferences.label            "Inställningar">
+<!ENTITY cmd.showPreferences.tooltip          "Ändra tilläggets inställningar">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Ge ett bidrag till utvecklingen av detta tillägg">
