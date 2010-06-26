@@ -10,6 +10,7 @@
 <!ENTITY applications.label "Приложения">
 <!ENTITY locationBar.label "Панель адреса">
 <!ENTITY tabWindows.label "Вкладки">
+<!ENTITY links.label "Поведение ссылок">
 <!ENTITY offline.label "Автономная работа">
 <!ENTITY security.label "Приватность и защита">
 <!ENTITY cookies.label "Куки">
