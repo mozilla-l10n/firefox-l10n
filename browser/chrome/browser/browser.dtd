@@ -160,6 +160,12 @@
 <!ENTITY bookmarksButton.tooltip        "Visa dina bokmärken">
 <!ENTITY bookmarksButton.accesskey      "B">
 <!ENTITY bookmarksCmd.commandkey        "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bokmärken">
+<!ENTITY bookmarksMenuButton.tooltip        "Visar dina bokmärken">
+<!ENTITY viewBookmarksSidebar.label         "Visa i sidofältet">
+<!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
