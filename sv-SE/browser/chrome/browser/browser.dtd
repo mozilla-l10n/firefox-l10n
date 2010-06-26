@@ -190,6 +190,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY hudConsoleCmd.label          "Utvecklarkonsol">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Inspektera">
 <!ENTITY inspectMenu.accesskey        "n">
 <!ENTITY inspectMenu.commandkey       "I">
