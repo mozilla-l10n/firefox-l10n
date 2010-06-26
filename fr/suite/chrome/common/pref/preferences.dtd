@@ -12,6 +12,7 @@
 <!ENTITY applications.label "Applications">
 <!ENTITY locationBar.label "Barre d'adresse">
 <!ENTITY tabWindows.label "Onglets">
+<!ENTITY links.label "Liens">
 <!ENTITY offline.label "Hors connexion">
 <!ENTITY security.label "Confidentialité et sécurité">
 <!ENTITY cookies.label "Cookies">
