@@ -18,7 +18,7 @@
   <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
     <strong>ww</strong>.beispiel.de statt
     <strong>www</strong>.beispiel.de</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die
 	Netzwerk-/Internetverbindung.</li>
   <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
 	dass &brandShortName; auf das Internet zugreifen darf.</li>
@@ -62,7 +62,7 @@
 <!ENTITY contentEncodingError.title "Content-Encoding-Fehler">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.</li> 
+  <li>Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.</li>
 </ul>
 ">
 
@@ -90,7 +90,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind</li>
-  <li>Kontaktieren Sie bitte Ihren Netzwerk-Administrator, um sicherzustellen, dass der Proxy-Server 
+  <li>Kontaktieren Sie bitte Ihren Netzwerk-Administrator, um sicherzustellen, dass der Proxy-Server
 	funktioniert</li>
 </ul>
 ">
@@ -108,7 +108,7 @@
 <!ENTITY redirectLoop.title "Fehler: Umleitungsfehler">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dieses Problem kann manchmal auftreten, wenn Cookies deaktiviert oder abgelehnt 
+  <li>Dieses Problem kann manchmal auftreten, wenn Cookies deaktiviert oder abgelehnt
 	werden.</li>
 </ul>
 ">
@@ -116,10 +116,10 @@
 <!ENTITY unknownSocketType.title "Fehler: Unerwartete Antwort">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Bitte stellen Sie sicher, dass auf Ihrem System der Personal-Security-Manager 
+  <li>Bitte stellen Sie sicher, dass auf Ihrem System der Personal-Security-Manager
 	installiert ist.</li>
   <li>Dies kann mit einer nicht-standardgemäßen Konfiguration des Servers zusammenhängen.</li>
-</ul> 
+</ul>
 ">
 
 <!ENTITY nssFailure2.title "Fehler: Gesicherte Verbindung fehlgeschlagen">
@@ -133,20 +133,20 @@
 <!ENTITY nssBadCert.title "Sichere Verbindung fehlgeschlagen">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dies könnte ein Problem mit der Konfiguration des Servers sein oder jemand, der vorgibt, 
+  <li>Dies könnte ein Problem mit der Konfiguration des Servers sein oder jemand, der vorgibt,
 	der Server zu sein.</li>
-  <li>Falls Sie früher bereits erfolgreich eine Verbindung zu dem Server aufgebaut haben, 
+  <li>Falls Sie früher bereits erfolgreich eine Verbindung zu dem Server aufgebaut haben,
 	könnte dies ein vorübergehender Fehler sein. Versuchen Sie es in diesem Fall später noch einmal.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte 
+  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte
 	später nochmals.</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die
 	Netzwerk-/Internetverbindung.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, 
+  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird,
 	stellen Sie bitte sicher, dass &brandShortName; auf das Internet zugreifen darf.</li>
 </ul>
 ">
@@ -162,6 +162,9 @@
 <p>Falls Sie hier persönliche Daten eingeben, müssen Sie mit Identitätsdiebstahl oder sonstigem Betrug rechnen.</p>
 <p>Diese Art von Internet-Betrug ist auch bekannt als Phishing. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blockiert durch Inhaltsicherheitsrichtlinie (Content Security Policy)">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Laden dieser Seite in dieser Weise wurde vom Browser verhindert, weil sie eine Sicherheitsrichtlinie hat, die das nicht erlaubt.</p>">
 
 <!ENTITY securityOverride.linkText "Oder Sie können eine Ausnahme hinzufügen…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Website verlassen!">
