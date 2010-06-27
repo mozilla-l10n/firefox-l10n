@@ -7,17 +7,17 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY activity.title                  "Upravitelj dejavnosti">
 
 <!ENTITY cmd.pause.label                  "Premor">
-<!ENTITY cmd.pause.accesskey              "Z">
+<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Nadaljuj">
-<!ENTITY cmd.resume.accesskey             "e">
+<!ENTITY cmd.resume.accesskey             "D">
 <!ENTITY cmd.cancel.label                 "Prekliči">
-<!ENTITY cmd.cancel.accesskey             "z">
-<!ENTITY cmd.undo.label                   "Prekliči">
-<!ENTITY cmd.undo.accesskey               "U">
+<!ENTITY cmd.cancel.accesskey             "r">
+<!ENTITY cmd.undo.label                   "Razveljavi">
+<!ENTITY cmd.undo.accesskey               "p">
 <!ENTITY cmd.recover.label                "Obnovi">
-<!ENTITY cmd.recover.accesskey            "p">
+<!ENTITY cmd.recover.accesskey            "o">
 <!ENTITY cmd.retry.label                  "Poizkusi znova">
-<!ENTITY cmd.retry.accesskey              "e">
+<!ENTITY cmd.retry.accesskey              "Z">
 <!ENTITY cmd.removeFromList.label         "Odstrani s seznama">
 <!ENTITY cmd.removeFromList.accesskey     "s">
 
@@ -27,7 +27,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.clearList.label              "Počisti seznam">
 <!ENTITY cmd.clearList.tooltip            "Odstrani zaključene, preklicane in neuspele postavke iz seznama">
 <!ENTITY cmd.clearList.accesskey          "z">
-<!ENTITY cmd.find.commandkey              "p">
+<!ENTITY cmd.find.commandkey              "D">
 <!ENTITY cmd.search.commandkey            "k">
 
 <!ENTITY searchBox.label                  "Poišči…">

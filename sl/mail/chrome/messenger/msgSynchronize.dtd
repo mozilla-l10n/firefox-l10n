@@ -7,10 +7,10 @@
 <!ENTITY syncTypeMail.label "Poštna sporočila">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Sporočila novičarskih skupin">
-<!ENTITY syncTypeNews.accesskey "b">
+<!ENTITY syncTypeNews.accesskey "N">
 <!ENTITY sendMessage.label "Pošlji neodposlana sporočila">
-<!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Delaj brez povezave, ko se konča prenos ali sinhronizacija">
+<!ENTITY sendMessage.accesskey "š">
+<!ENTITY workOffline.label "Delaj v nepovezanem načinu, ko se prenos ali sinhronizacija konča">
 <!ENTITY workOffline.accesskey "L">
 <!ENTITY selectButton.label "Izberi…">
 <!ENTITY selectButton.accesskey "e">

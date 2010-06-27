@@ -79,7 +79,7 @@
 <!ENTITY hdrViewToolbarShowText.label "Pokaži le besedilo">
 <!ENTITY hdrViewToolbarShowText.accesskey "R">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vedno pokaži odgovor pošiljatelju">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "e">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
 <!ENTITY otherActionsButton.label "drugi ukrepi">
 <!ENTITY otherActionsOpenConversation.label "odpri kot pogovor">
@@ -102,18 +102,18 @@
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Shrani kot…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "v">
+<!ENTITY saveAsAttachmentCmd.accesskey    "N">
 <!ENTITY detachAttachmentCmd.label    "Odpni…">
 <!ENTITY deleteAttachmentCmd.label    "Zbriši">
 <!ENTITY saveAllAttachmentsCmd.label    "Shrani vse…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "b">
 <!ENTITY detachAllAttachmentsCmd.label    "Odpni vse…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "B">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "Zbriši vse…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave">
-<!ENTITY copyLinkCmd.accesskey    "z">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopiraj ID sporočila">
 <!ENTITY OpenMessageForMsgId.label "Odpri sporočilo za ID">

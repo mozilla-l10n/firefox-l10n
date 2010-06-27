@@ -9,9 +9,9 @@
 <!ENTITY smtpListAdd.label  "Dodaj…">
 <!ENTITY smtpListAdd.accesskey  "p">
 <!ENTITY smtpListEdit.label "Urejaj…">
-<!ENTITY smtpListEdit.accesskey "e">
-<!ENTITY smtpListDelete.label "Odstrani">
-<!ENTITY smtpListDelete.accesskey "s">
+<!ENTITY smtpListEdit.accesskey "U">
+<!ENTITY smtpListDelete.label "Zbriši">
+<!ENTITY smtpListDelete.accesskey "b">
 <!ENTITY smtpListSetDefault.label "Nastavi na privzeto">
 <!ENTITY smtpListSetDefault.accesskey "n">
 

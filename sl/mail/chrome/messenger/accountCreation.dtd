@@ -1,13 +1,13 @@
 <!ENTITY autoconfigWizard.title          "Nastavitev poštnega računa">
 <!ENTITY name.label                      "Vaše ime:">
-<!ENTITY name.accesskey                  "o">
+<!ENTITY name.accesskey                  "V">
 <!ENTITY name.emptytext                  "Ime Priimek">
-<!ENTITY name.text                       "Vaše ime, kot ga uporabljate za druge">
+<!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
 <!ENTITY email.label                     "E-poštni naslov:">
-<!ENTITY email.accesskey                 "s">
+<!ENTITY email.accesskey                 "e">
 <!ENTITY email.emptytext                 "email@naprimer.com">
 <!ENTITY password.label                  "Geslo:">
-<!ENTITY password.accesskey              "Z">
+<!ENTITY password.accesskey              "G">
 <!ENTITY password.emptytext              "Geslo">
 <!ENTITY password.text                   "Po želji, rabilo se bo samo za potrditev vašega uporabniškega imena">
 
@@ -15,37 +15,37 @@
 <!ENTITY username2.label                 "Uporabniško ime:">
 <!ENTITY incoming.label                  "Prihajajoča:">
 <!ENTITY outgoing.label                  "Odhajajoča:">
-<!ENTITY noEncryption.label              "Nič">
+<!ENTITY noEncryption.label              "Brez">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "Mape za dostop IMAP in za sporočila z več računalnikov">
+<!ENTITY imap.description                "IMAP - dostop do sporočil in map z več računalnikov">
 <!ENTITY pop.description                 "POP - prenesi vsa sporočila na ta računalnik, mape so samo lokalne">
-<!ENTITY recommended-appendix.label      "(priporočljivo)">
+<!ENTITY recommended-appendix.label      "(se priporoča)">
 
 <!ENTITY manualSetup.label               "Ročna nastavitev…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY manualSetup.accesskey           "R">
 <!ENTITY cancel.label                    "Prekliči">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "Q">
 <!ENTITY continue.label                  "Nadaljuj">
-<!ENTITY continue.accesskey              "z">
+<!ENTITY continue.accesskey              "N">
 <!ENTITY startOver.label                 "Začni znova">
-<!ENTITY startOver.accesskey             "O">
+<!ENTITY startOver.accesskey             "B">
 <!ENTITY stop.label                      "Ustavi">
-<!ENTITY stop.accesskey                  "S">
+<!ENTITY stop.accesskey                  "U">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
 <!ENTITY retest.label                    "Ponovno preveri konfiguracijo">
-<!ENTITY retest.accesskey                "e">
-<!ENTITY edit.label                      "Urejanje">
-<!ENTITY edit.accesskey                  "e">
+<!ENTITY retest.accesskey                "P">
+<!ENTITY edit.label                      "Uredi">
+<!ENTITY edit.accesskey                  "U">
 
 <!ENTITY rememberPassword.label          "Zapomni si geslo">
-<!ENTITY rememberPassword.accesskey      "s">
+<!ENTITY rememberPassword.accesskey      "Z">
 
 <!ENTITY warning.label                   "Opozorilo!">
 <!ENTITY incomingSettings.label          "Nastavitve za prihajajočo pošto:">
@@ -55,12 +55,12 @@
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Razumem tveganja.">
-<!ENTITY confirmWarning.accesskey        "o">
+<!ENTITY confirmWarning.accesskey        "R">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY createAccount.label             "Ustvari račun">
-<!ENTITY createAccount.accesskey         "z">
+<!ENTITY createAccount.accesskey         "U">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

@@ -5,7 +5,7 @@
 <!ENTITY usingSubscription.label "Pokaži le naročene mape">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Strežnik podpira mape, ki vsebujejo podmape in sporočila">
-<!ENTITY dualUseFolders.accesskey "p">
+<!ENTITY dualUseFolders.accesskey "D">
 <!ENTITY useIdle.label "Uporabi ukaz IDLE, če ga strežnik podpira">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Največje število strežnikovih povezav v predpomnilniku">
@@ -13,14 +13,14 @@
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Te lastnosti določajo imenski prostor na vašem strežniku IMAP">
 <!ENTITY personalNamespace.label "Osebni imenski prostor:">
-<!ENTITY personalNamespace.accesskey "Z">
+<!ENTITY personalNamespace.accesskey "O">
 <!ENTITY publicNamespace.label "Javno (v skupni rabi):">
-<!ENTITY publicNamespace.accesskey "o">
-<!ENTITY otherUsersNamespace.label "Ostali uporabniki:">
-<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY publicNamespace.accesskey "J">
+<!ENTITY otherUsersNamespace.label "Drugi uporabniki:">
+<!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Omogoči strežniku, da razveljavi ta imenski prostor">
-<!ENTITY overrideNamespaces.accesskey "v">
-<!ENTITY pop3Desc.label "Pri prenosu pošte POP3 s tega strežnika za novo pošto uporabljaj naslednjo mapo:" >
+<!ENTITY overrideNamespaces.accesskey "X">
+<!ENTITY pop3Desc.label "Pri prenosu pošte pop za ta strežnik, za novo pošto uporabite naslednjo mapo:" >
 <!ENTITY globalInbox.label "Globalno Prejeto (račun Lokalne mape)">
 <!ENTITY globalInbox.accesskey "o">
 <!ENTITY accountDirectory.label "Prejeto za strežnikov račun">

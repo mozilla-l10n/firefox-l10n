@@ -21,13 +21,13 @@
 <!ENTITY openInFolder.label          "Odpri v mapi">
 <!ENTITY openInFolder.accesskey      "b">
 <!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">
-<!ENTITY saveAsVFButton.accesskey    "a">
+<!ENTITY saveAsVFButton.accesskey    "p">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Išči po:">
 <!ENTITY abSearchHeading.accesskey   "d">
 <!ENTITY propertiesButton.label      "Lastnosti">
-<!ENTITY propertiesButton.accesskey  "Z">
+<!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Sestavi">
 <!ENTITY composeButton.accesskey     "L">
 <!ENTITY abSearchDialogTitle.label   "Napredno iskanje v adresarju">
@@ -67,7 +67,7 @@
 <!ENTITY junkStatusColumn.tooltip "Kliknite za razvrščanje glede na želeno/neželeno">
 <!ENTITY unreadColumn.tooltip "Število neprebranih sporočil v niti">
 <!ENTITY totalColumn.tooltip "Skupno število sporočil v niti">
-<!ENTITY readColumn.tooltip "Kliknite za razvrščanje po prebrano/neprebrano">
+<!ENTITY readColumn.tooltip "Kliknite za razvrščanje po Prebrano /Neprebrano">
 <!ENTITY receivedColumn.tooltip "Kliknite za razvrstitev po datumu prejema">
 <!ENTITY starredColumn.tooltip "Kliknite za razvrščanje glede na zvezdico">
 <!ENTITY locationColumn.tooltip "Kliknite za razvrščanje po mestu">

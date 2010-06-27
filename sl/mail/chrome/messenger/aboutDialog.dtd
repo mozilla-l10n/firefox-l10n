@@ -1,16 +1,16 @@
-<!ENTITY aboutDialog.title      "O &brandFullName;">
+<!ENTITY aboutDialog.title      "O &brandShortName;">
 <!ENTITY aboutButton.label      "&lt; nazaj">
 <!ENTITY aboutButton.accesskey  "B">
 <!ENTITY aboutVersion           "različica">
 <!ENTITY aboutMenu.label        "Vizitka">
-<!ENTITY aboutMenu.accesskey    "v">
+<!ENTITY aboutMenu.accesskey    "Z">
 <!ENTITY aboutCredits.label     "O sodelavcih">
-<!ENTITY aboutCredits.accesskey "z">
+<!ENTITY aboutCredits.accesskey "O">
 <!ENTITY aboutRights.label      "Vaše pravice">
-<!ENTITY aboutRights.accesskey  "e">
+<!ENTITY aboutRights.accesskey  "V">
 <!ENTITY aboutContributors.label "Sodelavci">
-<!ENTITY aboutContributors.accesskey "O">
+<!ENTITY aboutContributors.accesskey "S">
 <!ENTITY aboutLicense.label      "Licenca">
-<!ENTITY aboutLicense.accesskey  "m">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">
