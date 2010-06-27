@@ -3,55 +3,55 @@
 <!ENTITY itemSpellCheck.label                "Črkovanje">
 
 <!ENTITY forwardMsg.label                     "Posreduj sporočila:">
-<!ENTITY forwardMsg.accesskey                 "s">
+<!ENTITY forwardMsg.accesskey                 "D">
 <!ENTITY inline.label                         "Notranji (Inline) slog">
 <!ENTITY asAttachment.label                   "Kot priponka">
 <!ENTITY addExtension.label                   "dodaj končnico imenu datoteke">
-<!ENTITY addExtension.accesskey               "k">
+<!ENTITY addExtension.accesskey               "s">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Pisava:">
-<!ENTITY font.accesskey                       "p">
+<!ENTITY font.accesskey                       "o">
 <!ENTITY size.label                           "Velikost:">
-<!ENTITY size.accesskey                       "v">
+<!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "Barva besedila:">
 <!ENTITY fontColor.accesskey                  "R">
 <!ENTITY bgColor.label                        "Barva ozadja:">
-<!ENTITY bgColor.accesskey                    "o">
+<!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Ponastavi privzeto">
-<!ENTITY restoreHTMLDefaults.accesskey        "e">
+<!ENTITY restoreHTMLDefaults.accesskey        "D">
 
 <!ENTITY spellCheck.label                     "Preden pošlješ,  preveri črkovanje">
-<!ENTITY spellCheck.accesskey                 "p">
+<!ENTITY spellCheck.accesskey                 "z">
 <!ENTITY spellCheckInline.label               "Aktiviraj črkovanje med vnosom">
-<!ENTITY spellCheckInline1.accesskey          "a">
+<!ENTITY spellCheckInline1.accesskey          "e">
 <!ENTITY languagePopup.label                  "Jezik:">
-<!ENTITY languagePopup.accessKey              "j">
+<!ENTITY languagePopup.accessKey              "m">
 <!ENTITY downloadDictionaries.label           "Prenesi dodatne slovarje">
 
 <!ENTITY warnOnSendAccelKey.label             "Potrdi, kadar za pošiljanje sporočil uporabljate bližnjice">
-<!ENTITY warnOnSendAccelKey.accesskey         "p">
+<!ENTITY warnOnSendAccelKey.accesskey         "z">
 <!ENTITY autoSave.label                       "Samodejno shrani vsakih">
-<!ENTITY autoSave.accesskey                   "s">
+<!ENTITY autoSave.accesskey                   "N">
 <!ENTITY autoSaveEnd.label                    "minut">
 
 <!ENTITY emailCollectionPicker.label           "Samodejno dodaj odhodne e-poštne naslove v moj:">
-<!ENTITY emailCollectionPicker.accesskey       "s">
+<!ENTITY emailCollectionPicker.accesskey       "N">
 <!ENTITY addressingTitle.label                 "Samodokončanje naslova">
 <!ENTITY autocompleteText.label                "Pri naslavljanju sporočil išči ustrezne vnose v:">
 <!ENTITY addressingEnable.label                "lokalnih adresarjih">
-<!ENTITY addressingEnable.accesskey            "l">
+<!ENTITY addressingEnable.accesskey            "m">
 <!ENTITY directories.label                     "Imeniškem strežniku:">
-<!ENTITY directories.accesskey                 "i">
+<!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Nič">
 <!ENTITY editDirectories.label                 "Uredi imenike…">
-<!ENTITY editDirectories.accesskey             "u">
+<!ENTITY editDirectories.accesskey             "U">
 
-<!ENTITY sendOptionsDescription.label          "Obnašanje pri oblikovanju besedila">
+<!ENTITY sendOptionsDescription.label          "Nastavi obnašanje oblike besedila">
 <!ENTITY sendOptions.label                     "Možnosti pošiljanja…">
-<!ENTITY sendOptions.accesskey                 "m">
+<!ENTITY sendOptions.accesskey                 "b">
 
 <!ENTITY attachmentReminder.label              "Kontrola, da priponke ne manjkajo">
-<!ENTITY attachmentReminder.accesskey          "k">
+<!ENTITY attachmentReminder.accesskey          "s">
 <!ENTITY attachmentReminderOptions.label       "Ključne besede…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

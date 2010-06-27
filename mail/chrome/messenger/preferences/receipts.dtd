@@ -4,7 +4,7 @@
 <!ENTITY receiptArrive.label           "Ko povratnica prispe:">
 <!ENTITY leaveIt.label                 "Pusti jo v Prejeto">
 <!ENTITY leaveIt.accesskey             "L">
-<!ENTITY moveToSent.label              "Prestavi jo v mojo mapo &quot;Poslano&quot;">
+<!ENTITY moveToSent.label              "Prestavi v mojo mapo &quot;Poslano&quot;">
 <!ENTITY moveToSent.accesskey          "s">
 <!ENTITY requestMDN.label              "Kadar dobim zahtevo za povratnico:">
 <!ENTITY never.label                   "Povratnic ne pošiljam nikoli">
@@ -12,7 +12,7 @@
 <!ENTITY returnSome.label              "Dovoljujem povratnico za nekatera sporočila">
 <!ENTITY returnSome.accesskey          "b">
 <!ENTITY notInToCc.label               "Če nisem v Za ali Kp sporočila:">
-<!ENTITY notInToCc.accesskey           "p">
+<!ENTITY notInToCc.accesskey           "D">
 <!ENTITY outsideDomain.label           "Če je pošiljatelj izven moje domene:">
 <!ENTITY outsideDomain.accesskey       "n">
 <!ENTITY otherCases.label              "V vseh ostalih primerih:">

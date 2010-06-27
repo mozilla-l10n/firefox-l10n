@@ -39,30 +39,30 @@
 <!ENTITY PrimaryEmail.label                    "E-pošta">
 <!ENTITY PrimaryEmail.accesskey                "e">
 <!ENTITY Company.label                         "Organizacija">
-<!ENTITY Company.accesskey                     "O">
+<!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Fonetično ime">
-<!ENTITY _PhoneticName.accesskey               "F">
+<!ENTITY _PhoneticName.accesskey               "B">
 <!ENTITY NickName.label                        "Vzdevek">
-<!ENTITY NickName.accesskey                    "V">
+<!ENTITY NickName.accesskey                    "L">
 <!ENTITY SecondEmail.label                     "Dodatna e-pošta">
-<!ENTITY SecondEmail.accesskey                 "D">
+<!ENTITY SecondEmail.accesskey                 "s">
 <!ENTITY Department.label                      "Oddelek">
-<!ENTITY Department.accesskey                  "O">
+<!ENTITY Department.accesskey                  "b">
 <!ENTITY JobTitle.label                        "Naslov">
-<!ENTITY JobTitle.accesskey                    "N">
+<!ENTITY JobTitle.accesskey                    "R">
 <!ENTITY CellularNumber.label                  "Mobilnik">
 <!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Pozivnik">
-<!ENTITY PagerNumber.accesskey                 "Z">
+<!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Faks">
-<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY FaxNumber.accesskey                   "D">
 <!ENTITY HomePhone.label                       "Telefon doma">
 <!ENTITY HomePhone.accesskey                   "D">
 <!ENTITY WorkPhone.label                       "Telefon v službi">
-<!ENTITY WorkPhone.accesskey                   "S">
+<!ENTITY WorkPhone.accesskey                   "L">
 <!ENTITY ScreenName.label                      "Ime strani">
-<!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY ScreenName.accesskey                  "b">
 <!ENTITY sortAscending.label                   "Naraščajoče">
 <!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Padajoče">
-<!ENTITY sortDescending.accesskey              "P">
+<!ENTITY sortDescending.accesskey              "D">

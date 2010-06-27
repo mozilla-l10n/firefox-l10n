@@ -1,5 +1,5 @@
 <!ENTITY attachImageSource.label         "Pripni to sliko k sporočilu">
-<!ENTITY attachImageSource.accesskey     "t">
+<!ENTITY attachImageSource.accesskey     "P">
 
 <!ENTITY attachLinkSource.label          "Pripni vir te povezave k sporočilu">
-<!ENTITY attachLinkSource.accesskey      "v">
+<!ENTITY attachLinkSource.accesskey      "s">
