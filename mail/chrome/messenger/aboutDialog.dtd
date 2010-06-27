@@ -5,9 +5,6 @@
 <!ENTITY aboutButton.label      "&lt; Enrere">
 <!ENTITY aboutButton.accesskey  "E">
 <!ENTITY aboutVersion "versió">
-<!--ENTITY copyrightText          "&#169;1998-2009 Coŀlaboradors. Tots els drets reservats. El Mozilla Thunderbird i els
-                                 seus logotips són marques registrades de la Fundació Mozilla. Tots els drets 
-                                 reservats."-->
 
 <!ENTITY aboutMenu.label        "Quant a">
 <!ENTITY aboutMenu.accesskey    "Q">

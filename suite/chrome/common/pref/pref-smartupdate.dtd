@@ -7,7 +7,7 @@
 <!ENTITY allowedSites.accesskey               "L">
 
 <!ENTITY verifyUpdates.caption                "Actualitzacions">
-<!ENTITY autoUpdates.label                    "Comprova automàticament si hi ha actualitzacions:">
+<!ENTITY autoUpdates.label                    "Comprova automàticament si hi ha actualitzacions del:">
 <!ENTITY appUpdates.label                     "&brandShortName;">
 <!ENTITY appUpdates.accesskey                 "S">
 <!ENTITY daily.label                          "diàriament">

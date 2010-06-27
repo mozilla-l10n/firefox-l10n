@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
 <!ENTITY doNotDownloadNntp.label "Per a estalviar espai, no baixis res per a treballar-hi fora de línia:">
-<!ENTITY doNotDownloadImap.label "Per a estalviar espai, es poden restringir el missatges que es baixen com a còpia local per a treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
+<!ENTITY doNotDownloadImap.label "Per a estalviar espai, es poden restringir els missatges que es baixen com a còpia local per a treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
 <!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Missatges més grans de">
@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu les opcions segons l'antiguitat)">
 
-<!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges senyalats">
+<!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges destacats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Suprimeix el cos dels missatges de més de">
 <!ENTITY nntpRemoveMsgBody.accesskey "c">

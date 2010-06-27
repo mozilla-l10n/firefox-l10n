@@ -106,7 +106,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Baixa els missatges seleccionats">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadFlaggedCmd.label "Baixa els missatges assenyalats">
+<!ENTITY downloadFlaggedCmd.label "Baixa els missatges destacats">
 <!ENTITY downloadFlaggedCmd.accesskey "s">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
@@ -130,7 +130,7 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Suprimeix els missatges seleccionats">
 <!ENTITY deleteMsgsCmd.accesskey "u">
-<!ENTITY undeleteMsgsCmd.label "Recupera el missatges esborrats seleccionats">
+<!ENTITY undeleteMsgsCmd.label "Recupera els missatges esborrats seleccionats">
 <!ENTITY undeleteMsgsCmd.accesskey "m">
 <!ENTITY cancelNewsMsgsCmd.label "Canceŀla els missatges seleccionats">
 <!ENTITY cancelNewsMsgsCmd.accesskey "C">
@@ -143,7 +143,7 @@
 <!ENTITY selectThreadCmd.label "Conversa">
 <!ENTITY selectThreadCmd.accesskey "C">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Missatges assenyalats">
+<!ENTITY selectFlaggedCmd.label "Missatges destacats">
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY folderPropsCmd.label "Propietats…">
 <!ENTITY folderPropsFolderCmd.label "Propietats de la carpeta…">
@@ -198,7 +198,7 @@
 <!ENTITY sortByAttachmentsCmd.accesskey "j">
 <!ENTITY sortByPriorityCmd.label "Prioritat">
 <!ENTITY sortByPriorityCmd.accesskey "P">
-<!ENTITY sortByFlagCmd.label "Assenyalat">
+<!ENTITY sortByFlagCmd.label "Destacat">
 <!ENTITY sortByFlagCmd.accesskey "y">
 <!ENTITY sortBySizeCmd.label "Mida">
 <!ENTITY sortBySizeCmd.accesskey "M">
@@ -312,7 +312,7 @@
 <!ENTITY nextUnreadMsgCmd.label "Missatge per llegir">
 <!ENTITY nextUnreadMsgCmd.accesskey "i">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextFlaggedMsgCmd.label "Missatge assenyalat">
+<!ENTITY nextFlaggedMsgCmd.label "Missatge destacat">
 <!ENTITY nextFlaggedMsgCmd.accesskey "s">
 <!ENTITY nextUnreadThread.label "Conversa per a llegir">
 <!ENTITY nextUnreadThread.accesskey "C">
@@ -331,7 +331,7 @@
 <!ENTITY goBackCmd.label "Enrere">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevFlaggedMsgCmd.label "Missatge assenyalat">
+<!ENTITY prevFlaggedMsgCmd.label "Missatge destacat">
 <!ENTITY prevFlaggedMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
@@ -420,7 +420,7 @@
 <!ENTITY markAllReadCmd.label "Tots llegits">
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Assenyalat">
+<!ENTITY markFlaggedCmd.label "Destacat">
 <!ENTITY markFlaggedCmd.accesskey "y">
 <!ENTITY markFlaggedCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Com a correu brossa">
@@ -555,7 +555,7 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
 <!ENTITY contextOpenNewWindow.accesskey "f">
-<!ENTITY contextOpenNewTab.label "Obre el missatges en una nova pestanya">
+<!ENTITY contextOpenNewTab.label "Obre els missatges en una nova pestanya">
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
 <!ENTITY contextEditAsNew.accesskey "E">

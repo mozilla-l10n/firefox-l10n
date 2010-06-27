@@ -61,7 +61,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY  window.width            "45em">
 <!ENTITY  window.macWidth         "50em">
 
-<!ENTITY importTitle.label " Assistent d'importació de correu del &brandShortName;">
+<!ENTITY importTitle.label "Auxiliar d'importació de correu del &brandShortName;">
 <!ENTITY importShortDesc.label "Importa el correu i les llibretes d'adreces d'altres programes">
 
 <!ENTITY importDescription1.label "Amb aquest assistent podreu importar missatges de correu, entrades de llibreta d'adreces i/o preferències d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">

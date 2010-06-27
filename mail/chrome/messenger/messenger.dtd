@@ -60,7 +60,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Baixa els missatges seleccionats">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadStarredCmd.label "Baixa els missatges assenyalats">
+<!ENTITY downloadStarredCmd.label "Baixa els missatges destacats">
 <!ENTITY downloadStarredCmd.accesskey "s">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
@@ -79,7 +79,7 @@
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Suprimeix els missatges seleccionats">
 <!ENTITY deleteMsgsCmd.accesskey "u">
-<!ENTITY undeleteMsgsCmd.label "Recupera el missatges esborrats seleccionats">
+<!ENTITY undeleteMsgsCmd.label "Recupera els missatges esborrats seleccionats">
 <!ENTITY undeleteMsgsCmd.accesskey "m">
 <!ENTITY cancelNewsMsgsCmd.label "Canceŀla els missatges seleccionats">
 <!ENTITY cancelNewsMsgsCmd.accesskey "C">
@@ -94,7 +94,7 @@
 <!ENTITY selectThreadCmd.label "Conversa">
 <!ENTITY selectThreadCmd.accesskey "n">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Missatges assenyalats">
+<!ENTITY selectFlaggedCmd.label "Missatges destacats">
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Carpeta preferida">
 <!ENTITY menuFavoriteFolder.accesskey "f">
@@ -155,7 +155,7 @@
 <!ENTITY sortByDateCmd.accesskey "t">
 <!ENTITY sortByReceivedCmd.label "Recepció">
 <!ENTITY sortByReceivedCmd.accesskey "R">
-<!ENTITY sortByStarCmd.label "Assenyalat">
+<!ENTITY sortByStarCmd.label "Destacat">
 <!ENTITY sortByStarCmd.accesskey "y">
 <!ENTITY sortByAttachmentsCmd.label "Adjuncions">
 <!ENTITY sortByAttachmentsCmd.accesskey "j">
@@ -296,9 +296,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "Missatge per llegir">
 <!ENTITY nextUnreadMsgCmd.accesskey "i">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Missatge assenyalat">
+<!ENTITY nextStarredMsgCmd.label "Missatge destacat">
 <!ENTITY nextStarredMsgCmd.accesskey "s">
-<!ENTITY nextUnreadThread.label "Conversa per a llegir">
+<!ENTITY nextUnreadThread.label "Conversa per llegir">
 <!ENTITY nextUnreadThread.accesskey "C">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Anterior">
@@ -315,7 +315,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Enrere">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Missatge assenyalat">
+<!ENTITY prevStarredMsgCmd.label "Missatge destacat">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
@@ -405,7 +405,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.label "Tots llegits">
 <!ENTITY markAllReadCmd.accesskey "g">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Assenyalat">
+<!ENTITY markStarredCmd.label "Destacat">
 <!ENTITY markStarredCmd.accesskey "y">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Com a correu brossa">
@@ -504,7 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Crea un nou missatge">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
-<!ENTITY replyListButton.tooltip "Respon a una llista de destinataris">
+<!ENTITY replyListButton.tooltip "Respon a una llista de correu">
 <!ENTITY forwardButton.tooltip "Reenvia el missatge seleccionat">
 <!ENTITY fileButton.tooltip "Mou el missatge seleccionat">
 <!ENTITY archiveButton.tooltip "Arxiva els missatges seleccionats">
@@ -601,7 +601,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
 <!ENTITY receivedColumn.label "Recepció">
-<!ENTITY starredColumn.label "Assenyalat">
+<!ENTITY starredColumn.label "Destacat">
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
 <!ENTITY attachmentColumn.label "Adjuncions">
@@ -623,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
 <!ENTITY readColumn.tooltip "Feu un clic per a ordenar per llegit">
 <!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per data de recepció">
-<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per si està assenyalat">
+<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per destacat">
 <!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
 <!ENTITY idColumn.tooltip "Feu clic per a ordenar per ordre de recepció">
 <!ENTITY attachmentColumn.tooltip "Feu un clic per a ordenar per adjuncions">

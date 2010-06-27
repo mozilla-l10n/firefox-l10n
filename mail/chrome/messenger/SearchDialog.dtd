@@ -48,7 +48,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
 <!ENTITY receivedColumn.label "Recepció">
-<!ENTITY starredColumn.label "Assenyalat">
+<!ENTITY starredColumn.label "Destaca">
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
 
@@ -69,6 +69,6 @@
 <!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
 <!ENTITY readColumn.tooltip "Feu un clic per a ordenar per llegit">
 <!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per data de recepció">
-<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per si està assenyalat">
+<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per destacat">
 <!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
 <!ENTITY idColumn.tooltip "Feu un clic per a ordenar per ordre de recepció">

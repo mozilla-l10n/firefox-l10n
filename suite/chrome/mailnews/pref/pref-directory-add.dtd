@@ -67,7 +67,7 @@
 <!ENTITY return.label "No retornis més de ">
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "resultats">
-<!ENTITY offlineText.label "Podeu descarregar una còpia local d'aquest directori per així tenir-la disponible per utilitzar-la quan s'estigui treballant desconnectat.">
+<!ENTITY offlineText.label "Podeu baixar una còpia local d'aquest directori per així tenir-la disponible per utilitzar-la quan s'estigui treballant desconnectat.">
 <!ENTITY saslMechanism.label               "Mètode d'identificació: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Simple">

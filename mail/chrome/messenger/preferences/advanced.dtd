@@ -52,7 +52,7 @@
 <!ENTITY display.caption                "Visualització">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Comprova automàticament les actualitzacions del:">
+<!ENTITY autoCheck.label                "Comprova automàticament si hi ha actualitzacions del:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Complements instaŀlats">

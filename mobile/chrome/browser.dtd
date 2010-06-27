@@ -6,7 +6,7 @@
 <!ENTITY stop.label            "Atura">
 <!ENTITY go.label              "Vés-hi">
 <!ENTITY openLocation.label    "Obre una ubicació">
-<!ENTITY star.label            "Senyala">
+<!ENTITY star.label            "Destaca">
 
 <!ENTITY newtab.label          "Crea una pestanya">
 <!ENTITY closetab.label        "Tanca la pestanya">
@@ -27,7 +27,7 @@
 <!ENTITY editBookmarkTags.label    "Etiquetes:">
 <!ENTITY editBookmarkDone.label    "Fet">
 
-<!ENTITY helperApp.prompt          "Que voldríeu fer?">
+<!ENTITY helperApp.prompt          "Què voleu fer?">
 <!ENTITY helperApp.open            "Obrir-ho">
 <!ENTITY helperApp.save            "Tancar-ho">
 <!ENTITY helperApp.nothing         "Res">
@@ -38,6 +38,7 @@
 
 <!ENTITY addonsHeader.label        "Complements">
 <!ENTITY addonsLocal.label         "Els vostres complements">
+<!ENTITY addonsUpdate.label        "Actualització">
 <!ENTITY addonsRepo.label          "Aconsegueix complements">
 <!ENTITY addonsRecommended.label   "Vegeu els recomanats">
 <!ENTITY addonsSearch.label        "Cerca">

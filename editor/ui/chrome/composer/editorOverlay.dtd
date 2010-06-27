@@ -99,7 +99,6 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Paràmetres del lloc de publicació…">
 <!ENTITY publishSettings.accesskey "b">
-
 <!ENTITY pasteAsQuotationCmd.label "Enganxa com a citació">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">

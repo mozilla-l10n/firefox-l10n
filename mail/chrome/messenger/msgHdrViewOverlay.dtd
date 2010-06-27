@@ -67,7 +67,7 @@
 <!ENTITY hdrReplyAllButton.label "respon a tots">
 <!ENTITY hdrReplyAllButton.tooltip "respon al remitent i a tots els destinataris">
 <!ENTITY hdrReplyListButton.label "respon a la llista">
-<!ENTITY hdrReplyListButton.tooltip "respon a la llista de distribució">
+<!ENTITY hdrReplyListButton.tooltip "respon a la llista de correu">
 <!ENTITY hdrForwardButton.label "reenvia">
 <!ENTITY hdrForwardButton.tooltip "reenvia aquest missatge">
 <!ENTITY hdrJunkButton.label "brossa">
