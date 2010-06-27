@@ -160,6 +160,12 @@
 <!ENTITY bookmarksButton.tooltip        "Rodyti tinklalapių adresyną">
 <!ENTITY bookmarksButton.accesskey      "A">
 <!ENTITY bookmarksCmd.commandkey        "b">
+
+<!ENTITY bookmarksMenuButton.label          "Adresynas">
+<!ENTITY bookmarksMenuButton.tooltip        "Rodyti tinklalapių adresyną">
+<!ENTITY viewBookmarksSidebar.label         "Rodyti parankinėje">
+<!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
+
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -189,6 +195,12 @@
 <!ENTITY errorConsoleCmd.label        "Klaidų pultas">
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!--
+<!ENTITY hudConsoleCmd.label          "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+-->
 
 <!ENTITY inspectMenu.label            "Tirti">
 <!ENTITY inspectMenu.accesskey        "T">
@@ -261,8 +273,8 @@
 
 <!ENTITY appMenuPrintCmd.label         "Spausdinti">
 <!ENTITY appMenuCustomize.label        "Tvarkyti">
-<!ENTITY appMenuToolbarLayout.label    "Įrankinės išdėstymas…">
-<!ENTITY appMenuSidebars.label         "Parankinės">
+<!ENTITY appMenuToolbarLayout.label    "Priemonių juostos išdėstymas…">
+<!ENTITY appMenuSidebars.label         "Parankinė">
 <!ENTITY appMenuHelp.label             "Žinynas">
 
 <!ENTITY openCmd.commandkey            "l">

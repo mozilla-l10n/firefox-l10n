@@ -73,6 +73,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
 <!ENTITY cmd.uninstallAddon.accesskey         "š">
 <!ENTITY cmd.uninstallAddon.tooltip           "Pašalinti šį priedą">
+<!ENTITY cmd.showPreferences.label            "Nuostatos">
+<!ENTITY cmd.showPreferences.tooltip          "Keisti šio priedo nuostatas">
 <!ENTITY cmd.contribute.label                 "Paremti">
 <!ENTITY cmd.contribute.accesskey             "p">
 <!ENTITY cmd.contribute.tooltip               "Paremti šio priedo kūrimą">
