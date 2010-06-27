@@ -75,7 +75,7 @@
 <!ENTITY mediaSaveAs "Anomena i desa…">
 <!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Visualització prèvia dels fitxers multimèdia:">
+<!ENTITY  mediaPreview          "Previsualització dels fitxers multimèdia:">
 
 <!ENTITY  feedTab               "Canals">
 <!ENTITY  feedTab.accesskey     "C">
@@ -85,7 +85,7 @@
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Utilitza els per defecte">
-<!ENTITY  permAskAlways         "Demana-ho sempre">
+<!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
 <!ENTITY  permAllowSession      "Permet per sessió">
 <!ENTITY  permBlock             "Bloca">

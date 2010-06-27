@@ -7,7 +7,7 @@
 <!ENTITY neverEncrypt.accesskey "M">
 <!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar cap missatge llevat que tots els destinataris tinguin certificats)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilitzeu aquest certificat per a xifrar i desxifrar els missatges que se us envien">
+<!ENTITY encryptionCert.message "Utilitzeu aquest certificat per a xifrar i desxifrar els missatges que se us envien:">
 <!ENTITY digitalSign.certificate.button "Seleccioneu…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Neteja">

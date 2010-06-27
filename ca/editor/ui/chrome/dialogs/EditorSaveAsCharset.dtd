@@ -43,10 +43,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Desa com a joc de caràcters">
+<!ENTITY windowTitle.label "Desa i canvia el joc de caràcters">
 <!ENTITY documentTitleTitle.label "Títol de la pàgina">
 <!ENTITY documentCharsetTitle.label "Joc de caràcters">
-<!ENTITY documentCharsetDesc.label "Seleccioneu el joc de caràcters com al qual voleu desar:">
+<!ENTITY documentCharsetDesc.label "Seleccioneu el joc de caràcters amb què voleu desar un document:">
 <!ENTITY documentExportToText.label "Exporta a text">
 
 

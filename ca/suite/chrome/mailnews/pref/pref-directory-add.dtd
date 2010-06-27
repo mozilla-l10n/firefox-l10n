@@ -49,7 +49,7 @@
 <!ENTITY findButton.accesskey "C">
 <!ENTITY directorySecure.label "Utilitza una connexió segura (SSL)">
 <!ENTITY directorySecure.accesskey "U">
-<!ENTITY directoryLogin.label "Entra amb un nom d'usuari i una contrasenya">
+<!ENTITY directoryLogin.label "DN d'enllaç">
 <!ENTITY directoryLogin.accesskey "i">
 <!ENTITY General.tab "General">
 <!ENTITY Offline.tab "Fora de línia">

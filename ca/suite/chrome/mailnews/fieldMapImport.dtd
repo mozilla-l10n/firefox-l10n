@@ -45,7 +45,7 @@
 <!ENTITY fieldMapImport.next.accesskey "n">
 <!ENTITY fieldMapImport.previous.label "Anterior">
 <!ENTITY fieldMapImport.previous.accesskey "e">
-<!ENTITY fieldMapImport.text "Utilitza Mou cap amunt i Mou cap avall per emparellar els camps de la llibreta d'adreces a la esquerra de les dades correctes per importar-les a la dreta. No marqueu els ítems que no voleu importar.  ">
+<!ENTITY fieldMapImport.text "Utilitza Mou cap amunt i Mou cap avall per emparellar els camps de la llibreta d'adreces a l'esquerra de les dades correctes per importar-les a la dreta. No marqueu els ítems que no voleu importar.  ">
 <!ENTITY fieldMapImport.up.label "Mou cap amunt">
 <!ENTITY fieldMapImport.up.accesskey "u">
 <!ENTITY fieldMapImport.down.label "Mou cap avall">

@@ -15,7 +15,7 @@
 <!ENTITY dnsNotFound.title "No s'ha trobat el servidor">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, p.ex
+  <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, p. ex.
     <strong>ww</strong>.example.com en comptes de
     <strong>www</strong>.example.com</li>
   <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa

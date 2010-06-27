@@ -1,8 +1,8 @@
-<!ENTITY  pref.editing.title  "Paràmetres d'una nova pàgina">
+<!ENTITY  pref.editing.title  "Paràmetres d'una pàgina nova">
 
 <!ENTITY authorName.label "Autor:">
 <!ENTITY authorName.accesskey "A">
-<!ENTITY pageColorHeader "Aspecte  per defecte de la pàgina">
+<!ENTITY pageColorHeader "Aspecte per defecte de la pàgina">
 
 <!ENTITY defaultColors.label "Colors per defecte del lector (no defineixis els colors de la pàgina)">
 <!ENTITY defaultColors.accesskey "d">

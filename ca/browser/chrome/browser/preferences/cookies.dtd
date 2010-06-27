@@ -13,7 +13,7 @@
 <!ENTITY     props.domain.label             "Servidor central:">
 <!ENTITY     props.path.label               "Camí:">
 <!ENTITY     props.secure.label             "Enviat per a:">
-<!ENTITY     props.expires.label            "Venç:">
+<!ENTITY     props.expires.label            "Venciment:">
 
 <!ENTITY     window.title                   "Galetes">
 <!ENTITY     windowClose.key                "w">

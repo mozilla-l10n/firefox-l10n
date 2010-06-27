@@ -14,8 +14,8 @@
 <!ENTITY playSound1.accesskey             "p">
 <!ENTITY showAnimatedAlert.label          "Mostra una alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
-<!ENTITY customizeMailAlert.label         "Avançat…">
-<!ENTITY customizeMailAlert.accesskey     "A">
+<!ENTITY customizeMailAlert.label         "Personalitza…">
+<!ENTITY customizeMailAlert.accesskey     "a">
 
 <!ENTITY play.label                       "Reprodueix">
 <!ENTITY play.accesskey                   "d">

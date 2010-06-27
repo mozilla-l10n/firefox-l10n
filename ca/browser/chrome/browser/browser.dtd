@@ -67,8 +67,8 @@
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY bookmarkThisPageCmd.label "Afegeix a les adreces d'interès">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Subscriu-me al canal de la pàgina">
-<!ENTITY subscribeToPageMenuitem.label "Subscriu-me al canal de la pàgina…">
+<!ENTITY subscribeToPageMenupopup.label "Subscriu-me a la pàgina">
+<!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY organizeBookmarks.label "Organitza les adreces d'interès…">
 <!ENTITY bookmarkAllCmd.label "Afegeix-hi totes les pestanyes…">
@@ -76,10 +76,10 @@
 
 <!ENTITY backCmd.label "Enrere">
 <!ENTITY backCmd.accesskey "r">
-<!ENTITY backButton.tooltip "Vés enrere una pàgina">
+<!ENTITY backButton.tooltip "Vés una pàgina enrere">
 <!ENTITY forwardCmd.label "Endavant">
 <!ENTITY forwardCmd.accesskey "t">
-<!ENTITY forwardButton.tooltip "Vés endavant una pàgina">
+<!ENTITY forwardButton.tooltip "Vés una pàgina endavant">
 <!ENTITY backForwardMenu.tooltip      "Pàgines recents">
 <!ENTITY reloadCmd.label "Actualitza">
 <!ENTITY reloadCmd.accesskey "z">
@@ -362,8 +362,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mida de la pàgina">
 <!ENTITY fullZoom.accesskey             "d">
 
-<!ENTITY newTabButton.tooltip           "Obre una nova pestanya">
-<!ENTITY newWindowButton.tooltip "Obre una nova finestra">
+<!ENTITY newTabButton.tooltip           "Obre una pestanya nova">
+<!ENTITY newWindowButton.tooltip "Obre una finestra nova">
 <!ENTITY sidebarCloseButton.tooltip "Tanca la barra lateral">
 
 <!ENTITY cutButton.tooltip "Retalla">

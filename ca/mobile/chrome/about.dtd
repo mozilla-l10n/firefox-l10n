@@ -9,6 +9,6 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
   -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Els col·laboradors. Tots els drets reservats. (">
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2010 Els col·laboradors. Tots els drets reservats. (">
 <!ENTITY aboutPage.licenseLink                  "Informació de llicència">
 <!ENTITY aboutPage.copyrightInfo2               ").">

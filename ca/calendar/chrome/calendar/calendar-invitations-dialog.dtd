@@ -46,5 +46,6 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Cita de tot un dia">
 <!ENTITY calendar.invitations.list.location.text                        "Ubicació: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organitzador: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Assistent: ">
 <!ENTITY calendar.invitations.list.none.text                            "Cap">
 

@@ -2,7 +2,7 @@
 <!ENTITY tile.label                 "Mosaic">
 <!ENTITY center.label               "Centre">
 <!ENTITY stretch.label              "Amplia">
-<!ENTITY preview.label              "Visualització prèvia">
+<!ENTITY preview.label              "Previsualització">
 <!ENTITY color.label                "Color:">
 <!ENTITY setDesktopBackground.title "Defineix com a fons d'escriptori">
 <!ENTITY openDesktopPrefs.label     "Obre les preferències de l'escriptori">

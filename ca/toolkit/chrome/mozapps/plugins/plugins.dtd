@@ -22,4 +22,16 @@
 <!ENTITY missingPlugin.label                                 "Feu clic ací per a baixar el connector.">
 <!ENTITY disabledPlugin.label                                "S'ha inhabilitat el connector per a aquest contingut. Feu clic ací per a gestionar els vostres connectors.">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
-
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Torneu a carregar la pàgina">
+<!ENTITY reloadPlugin.post                                   " per a provar-ho de nou.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Tramet un informe de fallada">
+<!ENTITY report.submitting                                   "S'està trametent un informe…">
+<!ENTITY report.submitted                                    "S'ha enviat l'informe de fallada.">
+<!ENTITY report.disabled                                     "S'han inhabilitat els informes d'error.">
+<!ENTITY report.failed                                       "La tramesa ha fallat.">
+<!ENTITY report.unavailable                                  "No hi ha cap informe disponible.">

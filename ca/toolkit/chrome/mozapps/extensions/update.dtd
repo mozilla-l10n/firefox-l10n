@@ -42,7 +42,7 @@
                                            quan es trobin actualitzacions de complements.">
 
 <!ENTITY  adminDisabled.wizard.title      "No es poden comprovar les actualitzacions">
-<!ENTITY  adminDisabled.warning.label     "No es pot comprovar les actualitzacions dels complements incompatibles
+<!ENTITY  adminDisabled.warning.label     "No es poden comprovar les actualitzacions dels complements incompatibles
                                            perquè s'ha inhabilitat la instaŀlació de programari del &brandShortName;.
                                            Contacteu amb el vostre administrador de sistema perquè us pugui ajudar.">
 

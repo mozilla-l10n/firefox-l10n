@@ -37,7 +37,7 @@
 <!ENTITY chooseApp.label "Trieu…">
 <!ENTITY chooseApp.accesskey "r">
 
-<!ENTITY chooseAppFilePickerTitle "Trieu una aplicació">
+<!ENTITY chooseAppFilePickerTitle "Trieu una aplicació ajudant">
 
 <!ENTITY badApp "No s'ha pogut trobar l'aplicació que heu indicat [&quot;#1&quot;] . Comproveu el nom del fitxer o trieu una altra aplicació.">
 <!ENTITY badApp.title "No s'ha trobat l'aplicació">

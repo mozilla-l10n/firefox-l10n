@@ -31,6 +31,8 @@
 
 <!ENTITY checkNow.label             "Comprova-ho ara">
 <!ENTITY checkNow.accesskey         "h">
+<!ENTITY submitCrashes.label             "Tramet informes d'error">
+<!ENTITY submitCrashes.accesskey         "s">
 
 <!ENTITY networkTab.label                "Xarxa">
 
@@ -58,7 +60,7 @@
 
 <!ENTITY updateTab.label                 "Actualització">
 
-<!ENTITY autoCheck.label                 "Comprova automàticament si hi ha actualitzacions de:">
+<!ENTITY autoCheck.label                 "Comprova automàticament si hi ha actualitzacions del:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Complements">
