@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Avisos de seguretat">
+
+<!ENTITY security.warn_when                       "Mostra un diàleg d'avís:">
+<!ENTITY security.warn_entering_secure.label      "En visualitzar una pàgina xifrada.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "En visualitzar una pàgina de xifratge de baix nivell.">
+<!ENTITY security.warn_entering_weak.accesskey    "x">
+<!ENTITY security.warn_leaving_secure.label       "En deixar una pàgina xifrada per una que no ho està.">
+<!ENTITY security.warn_leaving_secure.accesskey   "d">
+<!ENTITY security.warn_submit_insecure.label      "En trametre informació que no està xifrada.">
+<!ENTITY security.warn_submit_insecure.accesskey  "t">
+<!ENTITY security.warn_viewing_mixed.label        "En visualitzar una pàgina xifrada però que contigui informació sense xifrar.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "s">
