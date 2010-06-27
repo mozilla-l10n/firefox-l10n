@@ -13,7 +13,7 @@
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc aquestes adreces de correu:">
 <!ENTITY bccAddress.accesskey "t">
-<!ENTITY bccAddressList.emptytext "Separeu les adreces amb comtes">
+<!ENTITY bccAddressList.emptytext "Separeu les adreces amb comes">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

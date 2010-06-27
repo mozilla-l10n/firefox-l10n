@@ -9,7 +9,7 @@
 <!ENTITY releaseCmd.accesskey "r">
 <!ENTITY whatsNewCmd.label "Novetats">
 <!ENTITY whatsNewCmd.accesskey "N">
-<!ENTITY featureConfiguratorCmd.label "Assistent a la migració">
+<!ENTITY featureConfiguratorCmd.label "Auxiliar de migració">
 <!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Continguts de l'ajuda">
 <!ENTITY openHelp.accesskey "C">

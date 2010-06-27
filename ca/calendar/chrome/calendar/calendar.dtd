@@ -315,7 +315,7 @@
 <!ENTITY calendarproperties.firealarms.label "Mostra les alertes">
 <!ENTITY calendarproperties.cache.label    "Memòria cau (EXPERIMENTAL, cal tornar a engegar)">
 <!ENTITY calendarproperties.enabled.label  "Mostra aquest calendari">
-<!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han deshabilitat o s'han desinstal·lat complements.">
+<!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han inhabilitat o s'han desinstal·lat complements.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancel·la la subscripció">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "C">
 
@@ -342,7 +342,7 @@
 <!ENTITY calendar.print.tasks.label "Tasques">
 <!ENTITY calendar.print.events.label "Cites">
 <!ENTITY calendar.print.selected.label "Cites seleccionades">
-<!ENTITY calendar.print.custom.label "Abast de dades personalitzat:">
+<!ENTITY calendar.print.custom.label "Interval de dates personalitzat:">
 <!ENTITY calendar.print.from.label "De:">
 <!ENTITY calendar.print.to.label "Fins:">
 <!ENTITY calendar.print.settingsGroup.label "Paràmetres d'impressió">

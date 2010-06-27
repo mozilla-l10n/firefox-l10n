@@ -29,7 +29,7 @@
 <!ENTITY moveMessage.label "Mou el missatge a">
 <!ENTITY copyMessage.label "Copia el missatge a">
 <!ENTITY markMessageRead.label "Marca'l com a llegit">
-<!ENTITY markMessageStarred.label "Marca'l com assenyalat">
+<!ENTITY markMessageStarred.label "Marca'l com a destacat">
 <!ENTITY labelMessage.label "Etiqueta el missatge com">
 <!ENTITY setPriority.label "Defineix la prioritat a">
 <!ENTITY addTag.label "Etiqueta el missatge">

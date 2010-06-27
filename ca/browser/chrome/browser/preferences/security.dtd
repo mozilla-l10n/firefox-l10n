@@ -33,3 +33,9 @@
 <!ENTITY  savedPasswords.label            "Contrasenyes desades…">
 <!ENTITY  savedPasswords.accesskey        "y">
 
+<!ENTITY  warnings.label                "Missatges d'avís">
+
+<!ENTITY  chooseWarnings.label          "Trieu quins missatges d'avís voleu veure mentre navegueu">
+
+<!ENTITY  warningSettings.label         "Paràmetres…">
+<!ENTITY  warningSettings.accesskey     "P">

@@ -49,10 +49,12 @@
 
 <!ENTITY newevent.status.label 		   "Estat">
 <!ENTITY newevent.status.accesskey 	   "s" >
-<!ENTITY newevent.status.none.label        "Sense especificar" >
-<!ENTITY newevent.status.none.accesskey       "e" >
-<!ENTITY newevent.status.cancelled.label   "Canceŀlada" >
-<!ENTITY newevent.status.cancelled.accesskey  "n" >
+<!ENTITY newevent.eventStatus.none.label        "Sense especificar" >
+<!ENTITY newevent.eventStatus.none.accesskey       "e" >
+<!ENTITY newevent.todoStatus.none.label           "Sense especificar" >
+<!ENTITY newevent.eventStatus.cancelled.label   "Canceŀlada" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey  "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Canceŀlada" >
 <!ENTITY newevent.status.tentative.label   "Provisional" >
 <!ENTITY newevent.status.tentative.accesskey  "P" >
 <!ENTITY newevent.status.confirmed.label   "Confirmada" >
@@ -98,7 +100,7 @@
 <!ENTITY  event.menu.item.save.label                      "Desa">
 <!ENTITY  event.menu.item.save.accesskey                  "D">
 <!ENTITY  event.menu.item.saveandclose.label              "Desa i tanca">
-<!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "e">
 <!ENTITY  event.menu.item.delete.label                    "Suprimeix…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Configuració de la pàgina">
@@ -232,14 +234,11 @@
 <!ENTITY event.reminder.none.label                        "Cap recordatori " >
 <!ENTITY event.reminder.0minutes.before.label             "0 minuts abans" >
 <!ENTITY event.reminder.5minutes.before.label             "5 minuts abans" >
-<!ENTITY event.reminder.10minutes.before.label            "10 minuts abans" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minuts abans" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minuts abans" >
-<!ENTITY event.reminder.45minutes.before.label            "45 minuts abans" >
 <!ENTITY event.reminder.1hour.before.label                "1 hora abans" >
 <!ENTITY event.reminder.2hours.before.label               "2 hores abans" >
-<!ENTITY event.reminder.5hours.before.label               "5 hores abans" >
-<!ENTITY event.reminder.15hours.before.label              "15 hores abans" >
+<!ENTITY event.reminder.12hours.before.label              "12 hores abans" >
 <!ENTITY event.reminder.1day.before.label                 "1 dia abans" >
 <!ENTITY event.reminder.2days.before.label                "2 dies abans" >
 <!ENTITY event.reminder.1week.before.label                "1 setmana abans" >
@@ -351,7 +350,7 @@
 <!ENTITY event.recurrence.repeat.for.label              "Crea" >
 <!ENTITY event.recurrence.appointments.label            "Cites" >
 <!ENTITY event.repeat.until.label                       "Es repeteixen fins" >
-<!ENTITY event.recurrence.preview.label                 "Visualització prèvia">
+<!ENTITY event.recurrence.preview.label                 "Previsualització">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "Invita assistents">

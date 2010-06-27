@@ -20,8 +20,8 @@
 <!ENTITY props.value.label "Contingut:">
 <!ENTITY props.domain.label "Servidor central:">
 <!ENTITY props.path.label "Camí:">
-<!ENTITY props.secure.label "Enviat per:">
-<!ENTITY props.expires.label "Expira:">
+<!ENTITY props.secure.label "Enviat per a:">
+<!ENTITY props.expires.label "Venciment:">
 
 <!ENTITY treehead.sitename.label "Lloc">
 <!ENTITY treehead.status.label "Estat">
