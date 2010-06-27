@@ -7,53 +7,53 @@
 <!ENTITY newMenu.label            "Novo">
 <!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY editMenu.label          "Urejanje">
-<!ENTITY editMenu.accesskey        "U">
+<!ENTITY editMenu.label          "Uredi">
+<!ENTITY editMenu.accesskey        "u">
 <!ENTITY undoCmd.label            "Razveljavi">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "r">
-<!ENTITY redoCmd.label            "Uveljavi">
+<!ENTITY undoCmd.accesskey          "Z">
+<!ENTITY redoCmd.label            "Obnovi">
 <!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "u">
+<!ENTITY redoCmd.accesskey          "b">
 <!ENTITY cutCmd.label            "Izreži">
 <!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "i">
+<!ENTITY cutCmd.accesskey          "ž">
 <!ENTITY copyCmd.label            "Kopiraj">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "k">
+<!ENTITY copyCmd.accesskey          "j">
 <!ENTITY pasteCmd.label            "Prilepi">
 <!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "p">
+<!ENTITY pasteCmd.accesskey          "r">
 <!ENTITY deleteCmd.label          "Zbriši">
 <!ENTITY deleteCmd.accesskey        "b">
 <!ENTITY selectAllCmd.label          "Izberi vse">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "v">
+<!ENTITY selectAllCmd.key          "I">
+<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd.label        "Možnosti…">
-<!ENTITY preferencesCmd.accesskey      "M">
+<!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
-<!ENTITY preferencesCmdUnix.accesskey     "N">
+<!ENTITY preferencesCmdUnix.accesskey     "o">
 
 <!ENTITY viewMenu.label          "Pogled">
 <!ENTITY viewMenu.accesskey        "p">
 <!ENTITY viewToolbarsMenu.label        "Orodne vrstice">
-<!ENTITY viewToolbarsMenu.accesskey      "O">
+<!ENTITY viewToolbarsMenu.accesskey      "R">
 <!ENTITY showTaskbarCmd.label          "Vrstica stanja">
-<!ENTITY showTaskbarCmd.accesskey        "S">
+<!ENTITY showTaskbarCmd.accesskey        "s">
 
 <!ENTITY proxy.label                                    "Konfiguracija za proxy…">
-<!ENTITY proxy.accesskey                                "X">
+<!ENTITY proxy.accesskey                                "z">
 
 <!ENTITY closeCmd.label      "Zapri">
-<!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "z">
+<!ENTITY closeCmd.key      "Z">
+<!ENTITY closeCmd.accesskey    "Z">
 
 <!ENTITY quitApplicationCmd.label  "Izhod">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "h">
 
 <!ENTITY quitApplicationCmdUnix.label  "Izhod">
-<!ENTITY quitApplicationCmdUnix.accesskey  "h">
+<!ENTITY quitApplicationCmdUnix.accesskey  "q">
 
 <!ENTITY quitApplicationCmdMac.label  "Zapusti &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "h">
+<!ENTITY quitApplicationCmdMac.accesskey  "q">
