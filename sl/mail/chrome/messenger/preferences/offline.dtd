@@ -1,8 +1,8 @@
 <!ENTITY offlineDialog.title "Nastavitve za stanje brez povezave">
 
 <!ENTITY textStartUp "Ob zagonu:">
-<!ENTITY radioRememberPrevState.label "Zapomni si prejšnje stanje povezave">
-<!ENTITY radioRememberPrevState.accesskey "e">
+<!ENTITY radioRememberPrevState.label "Pomni prejšnje stanje povezave">
+<!ENTITY radioRememberPrevState.accesskey "P">
 <!ENTITY radioAskMe.label "Ob zagonu me vprašaj za stanje povezave">
 <!ENTITY radioAskMe.accesskey "o">
 <!ENTITY radioAlwaysOnline.label "Vedno začni s povezavo">
@@ -12,13 +12,13 @@
 <!ENTITY radioAutoSend.label "Da">
 <!ENTITY radioAutoSend.accesskey "D">
 <!ENTITY radioNotSend.label "Ne">
-<!ENTITY radioNotSend.accesskey "b">
+<!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Vprašaj me">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAskUnsent.accesskey "V">
 <!ENTITY textGoingOffline "Naj prenesem sporočila za delo brez povezave, preden se povezavo prekine?">
 <!ENTITY radioAutoDownload.label "Da">
-<!ENTITY radioAutoDownload.accesskey "s">
+<!ENTITY radioAutoDownload.accesskey "D">
 <!ENTITY radioNotDownload.label "Ne">
-<!ENTITY radioNotDownload.accesskey "O">
+<!ENTITY radioNotDownload.accesskey "N">
 <!ENTITY radioAskDownload.label "Vprašaj me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY radioAskDownload.accesskey "V">

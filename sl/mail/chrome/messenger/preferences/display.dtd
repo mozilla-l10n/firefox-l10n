@@ -17,11 +17,11 @@
 <!ENTITY displayWidth.label               "Sporočila v golem besedilu">
 <!ENTITY displayText.label                "Pri prikazu citiranih sporočil v golem besedilu:">
 <!ENTITY colors.label                     "Barve">
-<!ENTITY overrideColors.label             "Za prikaz sporočil uporabi naslednje barve:">
+<!ENTITY overrideColors.label             "Pri prikazu sporočil uporabi naslednje barve:">
 <!ENTITY textColor.label                  "Barva besedila:">
 <!ENTITY textColor.accesskey              "B">
 <!ENTITY backgroundColor.label            "Barva ozadja:">
-<!ENTITY backgroundColor.accesskey        "O">
+<!ENTITY backgroundColor.accesskey        "o">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Pokaži smeške kot grafiko">
@@ -34,7 +34,7 @@
 <!ENTITY editTagButton.label       "Uredi">
 <!ENTITY editTagButton.accesskey   "U">
 <!ENTITY removeTagButton.label     "Zbriši">
-<!ENTITY removeTagButton.accesskey "Z">
+<!ENTITY removeTagButton.accesskey "B">
 
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Pisave">
@@ -42,5 +42,5 @@
 <!ENTITY defaultFont.accesskey   "P">
 <!ENTITY defaultSize.label       "Velikost:">
 <!ENTITY defaultSize.accesskey   "V">
-<!ENTITY fontOptions.accesskey   "N">
+<!ENTITY fontOptions.accesskey   "O">
 <!ENTITY fontOptions.label       "Napredno…">

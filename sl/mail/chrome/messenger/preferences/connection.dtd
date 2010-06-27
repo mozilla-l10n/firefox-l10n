@@ -3,17 +3,17 @@
 
 <!ENTITY  proxyTitle.label              "Nastavitve strežnika proxy">
 <!ENTITY  noProxyTypeRadio.label        "Brez proxyja">
-<!ENTITY  noProxyTypeRadio.accesskey    "B">
+<!ENTITY  noProxyTypeRadio.accesskey    "b">
 <!ENTITY  systemTypeRadio.label         "Uporabi sistemske nastavitve za proxy">
-<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  systemTypeRadio.accesskey     "o">
 <!ENTITY  WPADTypeRadio.label           "Samozaznaj nastavitve proxyja za to mrežo">
-<!ENTITY  WPADTypeRadio.accesskey       "S">
+<!ENTITY  WPADTypeRadio.accesskey       "s">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev proxy">
-<!ENTITY  manualTypeRadio.accesskey     "R">
+<!ENTITY  manualTypeRadio.accesskey     "r">
 <!ENTITY  autoTypeRadio.label           "URI samodejne nastavitve za proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Ponovno naloži">
-<!ENTITY  reload.accesskey              "P">
+<!ENTITY  reload.accesskey              "o">
 <!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proxy SSL:">
@@ -24,14 +24,14 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
-<!ENTITY  HTTPport.label                "Vrata:">
-<!ENTITY  HTTPport.accesskey            "V">
-<!ENTITY  SSLport.label                 "Vrata:">
-<!ENTITY  SSLport.accesskey             "V">
-<!ENTITY  SOCKSport.label               "Vrata:">
-<!ENTITY  SOCKSport.accesskey           "V">
+<!ENTITY  HTTPport.label                "Vrata HTTP:">
+<!ENTITY  HTTPport.accesskey            "H">
+<!ENTITY  SSLport.label                 "Vrata SSL:">
+<!ENTITY  SSLport.accesskey             "S">
+<!ENTITY  SOCKSport.label               "Vrata SOCKS:">
+<!ENTITY  SOCKSport.accesskey           "C">
 <!ENTITY  noproxy.label                 "Ni proxyja za:">
-<!ENTITY  noproxy.accesskey             "o">
+<!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz">
 <!ENTITY  shareproxy.label              "Uporabi isti proxy za vse protokole">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.accesskey          "i">

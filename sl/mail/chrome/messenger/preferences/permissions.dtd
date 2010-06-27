@@ -4,18 +4,19 @@
 <!ENTITY treehead.sitename.label      "Stran">
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission.label       "Odstrani stran">
-<!ENTITY removepermission.accesskey   "e">
+<!ENTITY removepermission.accesskey   "D">
 <!ENTITY removeallpermissions.label   "Odstrani vse strani">
-<!ENTITY removeallpermissions.accesskey "s">
+<!ENTITY removeallpermissions.accesskey "V">
 <!ENTITY address.label                "Naslov strani:">
 <!ENTITY address.accesskey            "p">
 <!ENTITY block.label                  "Blokiraj">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Dovoli za sejo">
-<!ENTITY session.accesskey            "S">
+<!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Dovoli">
-<!ENTITY allow.accesskey              "v">
+<!ENTITY allow.accesskey              "D">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Zapri">
 <!ENTITY button.close.accesskey       "z">
+

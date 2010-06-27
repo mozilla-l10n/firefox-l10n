@@ -10,8 +10,8 @@
 <!ENTITY  proportionalSize.accesskey              "s">
 <!ENTITY  sizeMono.accesskey                      "L">
 
-<!ENTITY  proportional.label                      "Spremenljiva pisava:">
-<!ENTITY  proportional.accesskey                  "Z">
+<!ENTITY  proportional.label                      "Proporcionalna pisava:">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "s">
@@ -60,9 +60,9 @@
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Nadzor pisav">
 <!ENTITY  useFixedWidthForPlainText.label         "Za sporočila v golem besedilu uporabi pisavo s fiksno širino">
-<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  fixedWidth.accesskey                    "h">
 <!ENTITY  useDocumentFonts.label                  "Dovoli, da sporočila uporabljajo druge pisave">
-<!ENTITY  useDocumentFonts.accesskey              "O">
+<!ENTITY  useDocumentFonts.accesskey              "B">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Odhajajoča pošta:">

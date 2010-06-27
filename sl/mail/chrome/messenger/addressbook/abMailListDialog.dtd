@@ -50,8 +50,8 @@
 <!ENTITY DownButton.label               "Premakni dol">
 
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "v">
-<!ENTITY ListName.accesskey             "I">
-<!ENTITY ListNickName.accesskey         "V">
-<!ENTITY ListDescription.accesskey      "O">
+<!ENTITY addToAddressBook.accesskey     "N">
+<!ENTITY ListName.accesskey             "m">
+<!ENTITY ListNickName.accesskey         "I">
+<!ENTITY ListDescription.accesskey      "s">
 
