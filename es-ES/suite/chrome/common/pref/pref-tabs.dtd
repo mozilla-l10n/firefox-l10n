@@ -5,23 +5,10 @@
 <!ENTITY background.label "Cambiar a las nuevas pestañas abiertas a partir de enlaces">
 <!ENTITY background.accesskey "S">
 <!ENTITY warnOnClose.label "Advertirme al cerrar una ventana con múltiples pestañas">
-<!ENTITY warnOnClose.accesskey "m">
+<!ENTITY warnOnClose.accesskey "c">
 <!ENTITY loadGroup.label "Al abrir un grupo de pestañas">
 <!ENTITY loadGroupAppend.label "Añadir pestañas">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "Reemplazar pestañas existentes">
 <!ENTITY loadGroupReplace.accesskey "R">
 <!ENTITY openTabs.label "Abrir pestañas en vez de ventanas cuando:">
-<!ENTITY newWindow.label "Apertura de enlaces">
-<!ENTITY newWindowDescription.label "Abrir los enlaces que intenten abrir una ventana nueva en">
-<!ENTITY external.label "Enlaces de otras aplicaciones">
-<!ENTITY externalDescription.label "Abrir enlaces pasados desde otras aplicaciones en">
-<!ENTITY openCurrent.label "La pestaña/ventana actual">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "Una pestaña nueva en la ventana actual">
-<!ENTITY newWindowGroupTab.accesskey "t">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Una ventana nueva">
-<!ENTITY newWindowGroupWindow.accesskey "v">
-<!ENTITY externalGroupWindow.accesskey "v">
