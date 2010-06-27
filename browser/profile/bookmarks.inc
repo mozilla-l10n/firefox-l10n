@@ -37,7 +37,7 @@
 #define firefox_community Zapojte sa
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://www.mozilla.com/en-US/firefox/about/
+# link title for http://www.mozilla.com/en-US/about/
 #define firefox_about O nás
 
 #unfilter emptyLines

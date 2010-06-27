@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip        "Zobraziť záložky">
 <!ENTITY bookmarksButton.accesskey  "Z">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Záložky">
+<!ENTITY bookmarksMenuButton.tooltip        "Zobrazí záložky">
+<!ENTITY viewBookmarksSidebar.label         "Zobraziť v bočnom paneli">
+<!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +164,10 @@
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "Vývojárska konzola">
+<!ENTITY hudConsoleCmd.accesskey      "z">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Preskúmať">
 <!ENTITY inspectMenu.accesskey        "e">
@@ -226,13 +236,16 @@
 
 <!ENTITY historyHomeCmd.label "Domov">
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
-<!ENTITY showAllHistoryCmd.commandkey "h">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuPrintCmd.label "Tlačiť">
+<!ENTITY appMenuCustomize.label "Prispôsobenie">
+<!ENTITY appMenuToolbarLayout.label "Rozloženie panela nástrojov…">
+<!ENTITY appMenuSidebars.label "Bočné panely">
+<!ENTITY appMenuHelp.label "Pomocník">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Hľadať v záložkách a histórii">
-<!ENTITY urlbar.bookmark.emptyText    "Hľadať v záložkách">
-<!ENTITY urlbar.history.emptyText     "Hľadať v histórií">
-<!ENTITY urlbar.none.emptyText        "Zadajte webovú adresu">
+<!ENTITY urlbar.placeholder           "Prejsť na webovú stránku">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Prejsť na kartu:">
 
@@ -481,4 +494,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Hľadať v kartách">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Karty prehliača">
+<!ENTITY tabsToolbar.label "Karty prehliadača">
