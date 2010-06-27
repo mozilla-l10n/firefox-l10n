@@ -232,8 +232,6 @@
 
 <!ENTITY openLinkCmd.label "Obre l'enllaç en una finestra nova">
 <!ENTITY openLinkCmd.accesskey "o">
-<!ENTITY openLinkCmdInCurrent.label     "Obre l'enllaç">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Obre l'enllaç en una pestanya nova">
 <!ENTITY openLinkCmdInTab.accesskey "t">
 <!ENTITY openFrameCmd.label "Obre el marc en una finestra nova">
@@ -332,8 +330,6 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Amaga els controls">
 <!ENTITY mediaHideControls.accesskey "c">
-<!ENTITY videoFullScreen.label       "Pantalla completa">
-<!ENTITY videoFullScreen.accesskey   "P">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

@@ -11,7 +11,7 @@
 
 <!ENTITY saveTo.label                 "Desa els fitxers a">
 <!ENTITY saveTo.accesskey             "s">
-<!ENTITY alwaysAsk.label              "Demana'm sempre on vull desar els fitxers">
+<!ENTITY alwaysAsk.label              "Demana'm sempre on desar els fitxers">
 <!ENTITY alwaysAsk.accesskey          "a">
 <!ENTITY chooseFolderWin.label        "Navega…">
 <!ENTITY chooseFolderWin.accesskey    "v">

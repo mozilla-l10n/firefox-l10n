@@ -2,7 +2,7 @@
 <!ENTITY defaultClient.intro  "Utilitza el &brandShortName; com a client per defecte per:">
 
 <!ENTITY email.label "Correu electrònic">
-<!ENTITY newsgroups.label "Grups de notícies">
+<!ENTITY newsgroups.label "Grups de discussió">
 <!ENTITY feeds.label "Canals">
 
 <!ENTITY checkOnStartup.label "Comprova-ho sempre quan s'inicia el &brandShortName;">
