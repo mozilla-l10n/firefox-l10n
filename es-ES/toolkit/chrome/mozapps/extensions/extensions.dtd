@@ -34,6 +34,8 @@
 <!ENTITY cmd.uninstallAddon.label "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey "E">
 <!ENTITY cmd.uninstallAddon.tooltip "Desinstalar este complemento">
+<!ENTITY cmd.showPreferences.label "Preferencias">
+<!ENTITY cmd.showPreferences.tooltip "Cambiar las preferencias de este complemento">
 <!ENTITY cmd.contribute.label "Colaborar">
 <!ENTITY cmd.contribute.accesskey "C">
 <!ENTITY cmd.contribute.tooltip "Colaborar con el desarrollo de este complemento">
