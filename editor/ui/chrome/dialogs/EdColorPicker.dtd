@@ -44,7 +44,7 @@
 <!ENTITY setColor1.label "Feu clic a un color o">
 <!ENTITY setColor2.label "introduïu una cadena HTML de color">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(p.ex..: &quot;#0000ff&quot; o &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(p. ex.: &quot;#0000ff&quot; o &quot;blue&quot;):">
 <!ENTITY default.label "Per defecte">
 <!ENTITY default.accessKey "d">
 <!ENTITY palette.label "Paleta:">

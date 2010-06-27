@@ -10,8 +10,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title "Baixades">
 
-<!ENTITY cmd.pause.label "Atura">
-<!ENTITY cmd.pause.accesskey "A">
+<!ENTITY cmd.pause.label "Pausa">
+<!ENTITY cmd.pause.accesskey "a">
 <!ENTITY cmd.resume.label "Reprèn">
 <!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.goToDownloadPage.label       "Vés a la pàgina de baixades">

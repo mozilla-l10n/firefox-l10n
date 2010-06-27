@@ -55,7 +55,7 @@
 <!ENTITY hfDateAndTime "Data/Hora">
 <!ENTITY hfPage "Pàgina #">
 <!ENTITY hfPageAndTotal "Pàgina # de #">
-<!ENTITY hfBlank "--blanc--">
+<!ENTITY hfBlank "--en blanc--">
 <!ENTITY hfCustom "Personalitza…">
 
 <!ENTITY customPrompt.title "Personalitza…">

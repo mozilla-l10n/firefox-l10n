@@ -58,7 +58,7 @@
 <!ENTITY noAltText.label "No utilitzis text alternatiu">
 <!ENTITY noAltText.accessKey "u">
 
-<!ENTITY previewBox.label "Visualització prèvia de la imatge">
+<!ENTITY previewBox.label "Previsualització de la imatge">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->

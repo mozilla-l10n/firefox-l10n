@@ -46,7 +46,7 @@
 
 <!ENTITY link.label "Enllaç del «hotspot»">
 <!ENTITY urlFieldset.label "URL del «hotspot»:">
-<!ENTITY altFieldset.label "Text alternatiu del «hotspot»">
+<!ENTITY altFieldset.label "Text alternatiu del «hotspot»:">
 <!ENTITY browseButton.label "Navega…">
 <!ENTITY targetFieldset.label "Paràmetre de l'objectiu">
 <!ENTITY target.label "Objectiu del «hotspot»">

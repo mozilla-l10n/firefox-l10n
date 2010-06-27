@@ -40,10 +40,10 @@
 <!ENTITY reportForm.product.title                   "Producte:">
 <!ENTITY reportForm.gecko.title                     "Gecko:">
 <!ENTITY reportForm.useragent.title                 "Agent d'usuari:">
-<!ENTITY reportForm.language.title                  "Idioma:">
+<!ENTITY reportForm.language.title                  "Llengua:">
 
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
-<!ENTITY reportForm.email.title                     "Correu electrònic (Opcional):">
+<!ENTITY reportForm.email.title                     "Adreça electrònica (opcional):">
 <!ENTITY reportForm.email.accesskey                 "E">
 
 <!ENTITY reportForm.privacyPolicy.title             "Política de privadesa">

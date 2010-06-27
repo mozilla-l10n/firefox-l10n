@@ -15,7 +15,7 @@
 <!ENTITY printerInput.label "Nom de la impressora:">
 <!ENTITY printerInput.accesskey "N">
 
-<!ENTITY printrangeGroup.label "Abast d'impressió">
+<!ENTITY printrangeGroup.label "Àrea d'impressió">
 <!ENTITY allpagesRadio.label "Totes les pàgines">
 <!ENTITY allpagesRadio.accesskey "o">
 <!ENTITY rangeRadio.label "Pàgines">

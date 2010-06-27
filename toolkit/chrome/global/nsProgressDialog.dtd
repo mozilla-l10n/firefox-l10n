@@ -81,7 +81,7 @@
 
 <!-- LOCALIZATION NOTE (pausedMsg):
     This string is used to indicate that the download is paused -->
-<!ENTITY pausedMsg "Descàrrega aturada">
+<!ENTITY pausedMsg "Baixada en pausa">
 
 <!-- LOCALIZATION NOTE (progressMsg):
 

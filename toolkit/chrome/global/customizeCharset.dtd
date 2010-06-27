@@ -41,7 +41,7 @@
 
 <!ENTITY title.label "Personalitza la codificació de caràcters">
 <!ENTITY current.label "Codificació de caràcters activa:">
-<!ENTITY remove.label "Surpimeix">
+<!ENTITY remove.label "Suprimeix">
 <!ENTITY remove.accessKey "p">
 <!ENTITY additional.label "Codificacions de caràcter disponibles:">
 <!ENTITY add.label "Afegeix">

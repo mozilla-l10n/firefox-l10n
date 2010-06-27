@@ -74,7 +74,7 @@
 <!ENTITY filename.label "Nom de fitxer:">
 <!ENTITY filename.accesskey           "f">
 <!ENTITY filename.tooltip "Introduïu un nom per a aquest fitxer, incloent «.html» si es tracta d'una pàgina web">
-<!ENTITY filenameExample.label "p.ex,: &quot;lamevapàgina.html&quot;">
+<!ENTITY filenameExample.label "p. ex.,: &quot;lamevapàgina.html&quot;">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">
 <!ENTITY setDefaultButton.accesskey   "d">
 <!ENTITY removeButton.label "Suprimeix el lloc">

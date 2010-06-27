@@ -59,7 +59,7 @@
                                            El &brandShortName; ho tornarà a provar baixant una actualització completa.">                                  
 
 <!ENTITY  finishedPage.title        	  "L'actualització està preparada per a poder instaŀlar-la">
-<!ENTITY  finishedPage.text		  "L'actualització s'instaŀlarà la propera vegada que el &brandShortName; s'iniciï. Podeu 
+<!ENTITY  finishedPage.text		  "L'actualització s'instaŀlarà la propera vegada que s'iniciï el &brandShortName;. Podeu 
                                            reiniciar el &brandShortName; ara, o continuar treballant i reiniciar-lo més endavant.">
 
 <!ENTITY  finishedBackgroundPage.text         "S'ha baixat una actualització de seguretat i estabilitat del &brandShortName; i està preparada per a poder instaŀlar-la.">

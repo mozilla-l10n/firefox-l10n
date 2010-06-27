@@ -3,31 +3,33 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY generic.longDesc "La pàgina no s'ha pogut carregar, possiblement perquè no existeix o perquè la ubicació no és correcta.&lt;br/&gt;Assegureu-vos que la ubicació es vàlida i formatada correctament. ">
+<!ENTITY generic.title "No es pot completar la sol·licitud">
+<!ENTITY generic.longDesc "<p>No hi ha informació disponible actualment sobre aquest problema o error.</p>">
 
-<!ENTITY malformedURI.title "Error d'adreça no vàlida">
-<!ENTITY malformedURI.longDesc "L'adreça (URL) no té un format vàlid i no es pot llegir. Una adreça típica comença amb &quot;http://&quot;, seguit d'una adreça (com ara www.mozilla.org) i un camí al contingut (o simplement &quot;/&quot;). Un error habitual és utilitzar barres inverses (\) en comptes de barres normals (/).">
+<!ENTITY malformedURI.title "L'adreça no és vàlida">
+<!ENTITY malformedURI.longDesc "<p>L'adreça proporcionada no té un format reconegut. Comproveu si a la barra d'ubicació hi ha cap error i torneu-ho a provar.</p>">
 
-<!ENTITY fileNotFound.title "Error de fitxer no trobat">
-<!ENTITY fileNotFound.longDesc "No pot trobar-se el fitxer que s'especifica a l'adreça (URL). Comproveu que el fitxer existeix i que teniu permisos suficients per a visualitzar-lo.">
+<!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
+<!ENTITY fileNotFound.longDesc "<ul><li>Pot ser que l'element hagi canviat de nom, s'hagi esborrat o canviat d'ubicació?</li><li>Que hi ha cap error ortogràfic, de majúscules/minúscules, o bé tipogràfic a l'adreça?</li><li>Teniu suficients permisos d'accés per accedir a l'element sol·licitat?</li></ul>">
 
-<!ENTITY dnsNotFound.title "Error d'adreça no trobada">
-<!ENTITY dnsNotFound.longDesc "L'adreça (URL) no correspon a cap lloc conegut i no s'ha pogut carregar. Això pot ser degut a un error en escriure l'adreça, o bé que el lloc no existeixi. Si esteu segur que l'adreça és correcta, o bé si es repeteix també a molts llocs, pot tractar-se d'un problema del vostre servidor intermediari (si en feu servir) o de la cerca amb el servei de noms del directori. En aquests casos, consulteu la documentació del vostre sistema o demaneu ajuda a l'administrador o proveïdor d'Internet (ISP).">
+<!ENTITY dnsNotFound.title "No s'ha trobat l'adreça">
+<!ENTITY dnsNotFound.longDesc "<p>El navegador no ha pogut trobar l'ordinador central per a l'adreça proporcionada.</p><ul><li>Esteu segur que no heu comès cap error en escriure l'adreça? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en comptes de <q><strong>www</strong>.mozilla.org</q>)</li><li>Teniu la certesa que el domini existeix?  Potser n'ha vençut el registre.</li><li>No podeu navegar per altres llocs?  Comproveu la vostra connexió a la xarxa i els paràmetres DNS del servidor.</li><li>Està el vostre ordinador protegit per un tallafocs o un encaminador (proxy)? Els paràmetres incorrectes poden interferir amb la navegació web.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Error de protocol desconegut">
-<!ENTITY protocolNotFound.longDesc "L'adreça (URL) comença per un protocol que el navegador no reconeix. Un protocol és la part inicial de l'adreça, com ara http: o ftp:, i que indica al navegador com connectar al lloc. En aquest cas, el protocol és desconegut, i per tant la càrrega no pot continuar. Comproveu que l'adreça és correcta abans de tornar-ho a provar. ">
+<!ENTITY protocolNotFound.longDesc "<p>L'adreça especifica un protocòl (p. ex. <q>wxyz://</q>) que el navegador no reconeix, així doncs, no es pot connectar correctament al lloc.</p><ul><li>Esteu provant d'accedir a contingut multimèdia o bé a altres serveis que no són text? Comproveu els requisits addicionals del lloc.</li><li>Alguns protocols poden requerir programari o connectors de tercers per tal que el navegador els pugui reconèixer.</li></ul>">
 
 <!ENTITY connectionFailure.title "Error de connexió">
-<!ENTITY connectionFailure.longDesc "El navegador no ha pogut connectar amb el lloc indicat, tot i que existeix. Això pot ser perquè el lloc no accepta connexions del vostre ordinador, perquè el servei està inoperatiu, o bé perquè el lloc no admet el servei o el port al qual heu provat de connectar.">
+<!ENTITY connectionFailure.longDesc "<p>Encara que el lloc sembla vàlid, el navegador no ha pogut establir-ne una connexió.</p><ul><li>Podria ser que no estigués disponible temporalment? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre ordinador a la xarxa.</li><li>Està el vostre ordinador protegit per un tallafocs o un encaminador (proxy)? Els paràmetres incorrectes poden interferir amb la navegació web.</li></ul>">
 
-<!ENTITY netTimeout.title "Error de temps excedit de la xarxa">
-<!ENTITY netTimeout.longDesc "El navegador ha esgotat el temps disponible per a provar de connectar amb el lloc indicat. Potser el lloc està sobrecarregat i això l'alenteixi, o bé per problemes a la xarxa no es puguin rebre les dades a temps. Si és probable que el lloc estigui saturat, potser cal que espereu uns moments abans de tornar a fer la soŀlicitud. ">
 
-<!ENTITY redirectLoop.title "Error de bucle de redirecció">
-<!ENTITY redirectLoop.longDesc "El navegador ha aturat una connexió perquè el lloc s'està redirigint les soŀlicituds a ell mateix de tal manera que impedeix que mai es puguin completar.">
+<!ENTITY netTimeout.title "S'ha excedit el temps d'espera de la xarxa">
+<!ENTITY netTimeout.longDesc "<p>El lloc sol·licitat no ha respost a la sol·licitud de connexió i el navegador ha deixat d'esperar-ne una resposta.</p><ul><li>Pot ser que el servidor estigui experimentant una alta demanda o una suspensió temporal? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre navegador a la xarxa.</li><li>El vostre ordinador està protegit per un tallafocs o un encaminador (proxy)?  Si hi ha cap paràmetre incorrecte, podria afectar amb la navegació web.</li><li>Encara teniu problemes? Consulteu el vostre administrador de xarxes o demaneu assistència al vostre proveïdor d'Internet.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Error de sòcol desconegut">
-<!ENTITY unknownSocketType.longDesc "El lloc ha respost a la soŀlicitud de la xarxa d'una manera inesperada. Això pot ser degut a que l'adreça (URL) utilitza un protocol incorrecte per al port indicat, o a una configuració no estàndard del lloc que està executant altres serveis que els esperats.">
+<!ENTITY redirectLoop.title "Bucle de redirecció">
+<!ENTITY redirectLoop.longDesc "<p>El navegador ha deixat de provar d'obtenir l'element sol·licitat. El lloc rediregeix la sol·licitud d'una manera que mai es podrà completar.</p><ul><li>Heu inhabilitat o blocat les galetes que necessita el lloc?</li><li><em>NOTA</em>: Si en acceptar les galetes del lloc no es resol el problema, probablement es tracti d'una incidència amb la configuració del servidor i no del vostre ordinador.</li></ul>">
+
+<!ENTITY unknownSocketType.title "La resposta és incorrecta">
+<!ENTITY unknownSocketType.longDesc "<p>El lloc ha respost a la soŀlicitud de la xarxa d'una manera inesperada i el navegador no podrà continuar.</p>">
 
 <!ENTITY contentEncodingError.title "Error de codificació del contingut">
 <!ENTITY contentEncodingError.longDesc "<p>No pot mostrar-se la pàgina que esteu provant de visualitzar perquè utilitza una forma de compressió no vàlida o que no funciona en aquesta aplicació.</p><ul><li>Si us plau, contacteu amb els propietaris del lloc web per a informar-los d'aquest problema.</li></ul>">
@@ -39,19 +41,21 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Error de reinici de la xarxa">
-<!ENTITY netReset.longDesc "L'enllaç al lloc s'ha perdut de manera inesperada mentre es negociava una connexió o es transferien dades. Això pot ser degut a una fallada de la xarxa en algun lloc entre el lloc i el vostre ordinador. Si el problema continua consulteu la documentació del sistema o demaneu ajuda a l'administrador o proveïdor d'Internet (ISP). ">
+<!ENTITY netReset.title "S'ha interromput la connexió">
+<!ENTITY netReset.longDesc "<p>S'ha interromput l'enllaç a la xarxa mentre es negociava una connexió. Torneu-ho a provar.</p>">
 
-<!ENTITY netOffline.title "Error de fora de línia">
-<!ENTITY netOffline.longDesc "El navegador és fora de línia i no es pot connectar al lloc soŀlicitat. Poseu-lo en línia abans de tornar-ho a provar. ">
+<!ENTITY netOffline.title "Mode fora de línia">
+<!ENTITY netOffline.longDesc "<p>El navegador opera en mode fora de línia i no pot connectar-se a l'element sol·licitat.</p><ul><li>Està l'ordinador connectat a una xarxa activa?</li><li>Poseu el navegador en mode en línia i torneu-ho a provar.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "El port s'ha restringit per motius de seguretat">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça soŀlicitada especifica un port (e.g. <q>mozilla.org:80</q> per al 80 a mozilla.org) que normalment s'utilitza per a propòsits <em>diferents</em> de la navegació web. El navegador ha canceŀlat la soŀlicitud per a garantir la vostra protecció i seguretat.</p>">
-<!ENTITY generic.title "No es pot completar la soŀlicitud">
+
 <!ENTITY netInterrupt.title "S'ha interromput la transferència de dades">
 <!ENTITY netInterrupt.longDesc "<p>El navegador s'ha connectat amb èxit, però la connexió s'ha interromput mentre es transferia informació. Si us plau, torneu-ho a provar.</p><ul><li>Podeu navegar per altres llocs web? Comproveu la connexió de l'ordinador a la xarxa.</li><li>Encara teniu problemes? Si us plau, demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
+
 <!ENTITY proxyConnectFailure.title "S'ha rebutjat la connexió al servidor intermediari">
 <!ENTITY proxyConnectFailure.longDesc "<p>S'ha configurat el navegador perquè utilitzi un servidor intermediari, però s'ha rebutjat la connexió.</p><ul><li>És correcta la configuració del servidor intermediari? Comproveu els seus paràmetres i torneu-ho a provar.</li><li>Esteu segur que el servidor intermediari permet connexions des d'aquesta xarxa?</li><li>Encara teniu problemes? Si us plau, demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
+
 <!ENTITY proxyResolveFailure.title "No s'ha trobat el servidor intermediari">
 <!ENTITY proxyResolveFailure.longDesc "<p>S'ha configurat el navegador perquè utilitzi un servidor intermediari, però aquest no s'ha pogut trobar.</p><ul><li>És correcta la configuració del servidor intermediari? Comproveu els seus paràmetres i torneu-ho a provar.</li><li>L'ordinador està connectat a una xarxa activa?</li><li>Encara teniu problemes? Si us plau, demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
 
@@ -70,8 +74,7 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 <!ENTITY malwareBlocked.title "Lloc sospitós de ser atacant!">
 <!ENTITY malwareBlocked.longDesc "
 <p>Els llocs atacants instaŀlen programari que roba informació privada, utilitzen el vostre ordinador per a atacar-ne d'altres, o fan malbé el vostre sistema.</p>
-<p>Els propietaris que creguin que llurs llocs web s'han informat de forma errònia, poden <a href='http://www.stopbadware.org/home/reviewinfo' >demanar que es rev
-isin</a>.</p>
+<p>Els propietaris que creguin que llurs llocs web s'han informat de forma errònia, poden <a href='http://www.stopbadware.org/home/reviewinfo'>demanar que es revisin</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Lloc sospitós de ser una falsificació web!">

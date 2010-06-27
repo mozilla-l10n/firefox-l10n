@@ -48,7 +48,7 @@
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Visualitza">
 <!ENTITY viewMenu.accesskey "v">
-<!ENTITY compositionToolbarCmd.label "Barra d'eines de redacció">
+<!ENTITY compositionToolbarCmd.label "Barra de redacció">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra d'eines de format">
 <!ENTITY formattingToolbarCmd.accesskey "f">
