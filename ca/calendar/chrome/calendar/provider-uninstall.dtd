@@ -39,7 +39,7 @@
 <!ENTITY providerUninstall.accept.accesskey                "b">
 <!ENTITY providerUninstall.cancel.label                    "Conserva el complement">
 <!ENTITY providerUninstall.cancel.accesskey                "C">
-<!ENTITY providerUninstall.preName.label                   "Heu sol·licitat desinstal·lar o deshabilitar:">
-<!ENTITY providerUninstall.postName.label                  "Això farà que els calendaris següents es deshabilitin.">
+<!ENTITY providerUninstall.preName.label                   "Heu sol·licitat desinstal·lar o inhabilitar:">
+<!ENTITY providerUninstall.postName.label                  "Això farà que els calendaris següents es inhabilitin.">
 <!ENTITY providerUninstall.reinstallNote.label             "A no ser que vulgueu reinstal·lar el proveïdor, cal que doneu de baixa la subscripció als calendaris d'aquest proveïdor.">
 

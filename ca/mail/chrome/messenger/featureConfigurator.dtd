@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
-<!ENTITY featureConfigurator.title "Assistent de migració">
+<!ENTITY featureConfigurator.title "Auxiliar de migració">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
 <!ENTITY featureConfigurator.heading1 "Les millores del &brandShortName; que val la pena saber">
@@ -8,14 +8,14 @@
 <!ENTITY featureConfigurator.para.1 "El nou &brandShortName; inclou novetats potents de les quals n'estem ben orgullosos, i alhora també pensem que seran molt apreciades. Les necessitats i les preferències de la gent varia, per tant, hem fet que el &brandShortName; sigui fàcil de controlar i personalitzar.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Utilitzeu aquesta pàgina per a configurar aquestes noves opcions. Podreu tornar a accedir a l'Assistent de migració des del menú Ajuda.">
+<!ENTITY featureConfigurator.para.2 "Utilitzeu aquesta pàgina per a configurar aquestes noves opcions. Podreu tornar a accedir a l'auxiliar de migració des del menú Ajuda.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Barra d'eines per a missatges nova">
-<!ENTITY featureConfigurator.toolbar.new.status "Barra d'eines de botons per a missatges">
+<!ENTITY featureConfigurator.toolbar.new "Barra d'eines de botons per a missatges">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Una barra d'eines buida amb tots els botons per a missatges al vostre abast.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original.status "Mantén els botons de la vostra barra d'eines original">
+<!ENTITY featureConfigurator.toolbar.original "Mantén els botons de la vostra barra d'eines original">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantén tots els botons personalitzats a més a més dels nous botons per a missatges.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Les accions com respondre i avançar s'han mogut de la barra d'eines i de la capçalera del missatge. Ara aquestes accions estan dins el missatge mateix, de manera que hi ha més espai buit a la barra d'eines per posar-hi un quadre de cerca avançat o diversos complements.">

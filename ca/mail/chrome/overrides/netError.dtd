@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "No s'ha pogut contactar">
+<!ENTITY connectionFailure.title "No s'ha pogut connectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Aquesta adreça està restringida">
@@ -35,7 +35,7 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Ep!">
+<!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
 <p>El &brandShortName; no ha pogut carregar aquesta pàgina per algun motiu.</p>
 ">
@@ -87,86 +87,102 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "El servidor intermediari està rebutjant les connexi
+ons">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
+  <li>Comproveu els paràmetres del servidor intermediari per a assegurar-vos que siguin
+ correctes.</li>
+  <li>Poseu-vos en contacte amb l'administrador de la xarxa per a assegurar-vos que el 
+servidor intermediari estigui
+    funcionant.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "No s'ha pogut trobar el servidor intermediari">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your computer has a working network connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>Comproveu els paràmetres del servidor intermediari per a assegurar-vos que siguin
+ correctes.</li>
+  <li>Comproveu que el vostre ordinador té una connexió a la xarxa funcional.</li>
+  <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per u
+n servidor intermediari, assegureu-vos
+    que el &brandShortName; tingui permís per a accedir al WWW.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "La pàgina no està redirigint adequadament">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
+  <li>Això podria passar en haver inhabilitat o rebutjat l'acceptació de
+    galetes.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+
+<!ENTITY unknownSocketType.title "Resposta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
+  <li>Assegureu-vos que el vostre sistema té un gestor de seguretat personal
+    instaŀlat.</li>
+  <li>Això podria ser a causa d'una configuració no estàndard del servidor.</li>
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Secure connection failed">
+<!ENTITY nssFailure2.title "Ha fallat la connexió segura">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
+  <li>La pàgina que esteu provant de visualitzar no pot mostrar-se perquè no pot verifi
+car-se l'autenticitat de les dades rebudes.</li>
+  <li>Poseu-vos en contacte amb els propietaris del lloc web per a informar-los del pro
+blema. Com a alternativa, feu servir l'ordre que es troba en el menú d'ajuda per a info
+rmar d'aquest lloc web trencat.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Secure connection failed">
+<!ENTITY nssBadCert.title "La connexió segura ha fallat">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+  <li>Això podria ser un problema amb la configuració del servidor, o bé podria ser
+que algú estigués intentant fer-se passar pel servidor.</li>
+  <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria
+ser temporal, i podeu provar-ho de nou més tard.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
+  <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a p
+rovar
+    d'ací uns moments.</li>
+  <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre
+    ordinador.</li>
+  <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per u
+n servidor intermediari, assegureu-vos
+    que el &brandShortName; tingui permís per a accedir al WWW.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Suspected attack site!">
+<!ENTITY malwareBlocked.title "Lloc sospitós de ser atacant!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
+<p>Els llocs atacants instaŀlen programari que roba informació privada, utilitzen el vo
+stre ordinador per a atacar-ne d'altres, o fan malbé el vostre sistema.</p>
+<p>Els propietaris que creguin que llurs llocs web s'han informat de forma errònia, pod
+en <a href='http://www.stopbadware.org/home/reviewinfo' >demanar que es revisin</a>.</p
+>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected web forgery!">
+<!ENTITY phishingBlocked.title "Lloc sospitós de ser una falsificació web!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
+<p>Introduir informació personal en aquesta pàgina podria resultar en una suplantació d
+'indentitat o algun altre tipus de frau.</p>
+<p>Aquest tipus de falsificacions web s'utilitzen en enganys coneguts com a pesca elect
+rònica (phishing), amb què webs i adreces electròniques fraudulentes s'utilitzen per a 
+imitar fonts en què podeu confiar-hi.</p>">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'ací!">
+<!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -174,7 +190,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
