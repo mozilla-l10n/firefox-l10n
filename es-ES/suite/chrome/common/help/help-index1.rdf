@@ -713,7 +713,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:managing_per_site"
-         nc:name="administrar cookies sitio por sitio"
+         nc:name="administrar cookies sitio web por sitio web"
 	 nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/>
      </rdf:li>
      <rdf:li>

@@ -306,7 +306,7 @@ elegir cualquiera de las siguientes opciones:</p>
 
 <ul>
   <li><strong>Confiar en esta CA para identificar sitios web</strong>: los certificados de
-      sitios web en ciertos sitios, como los que manejan transacciones financieras,
+      sitios web en ciertos sitios web, como los que manejan transacciones financieras,
       pueden ser muy importantes y una identificación inadecuada o falsa
       podría tener consecuencias negativas.</li>
   <li><strong>Confiar en esta CA para identificar usuarios de correo electrónico</strong>:
@@ -369,12 +369,12 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
 <h3 id="secure_connection_failed_page">Página de conexión segura fallida</h3>
 
 <p>En el caso de que haya desactivado el protocolo SSL (p.e. a través de las
-  <a href="ssl_help.xhtml#ssl_settings">opciones SSL</a>) o el sitio al que
+  <a href="ssl_help.xhtml#ssl_settings">opciones SSL</a>) o el sitio web al que
   está accediendo use una versión más antigua e insegura del protocolo SSL,
   entonces verá una página titulada &quot;Conexión segura fallida&quot;. Esa
   página contiene cierta información técnica básica (incluyendo el
   <strong>código de error</strong> que identifica inequívocamente el tipo de
-  problema que detectó &brandShortName; con el sitio) y un botón
+  problema que detectó &brandShortName; con el sitio web) y un botón
   <strong>Reintentar</strong> que provocará una recarga de página.</p>
 
 <h3 id="untrusted_connection_page">Página de conexión no confiable</h3>
@@ -389,7 +389,7 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
     válido (ha caducado)</a></li>
   <li>el certificado del sitio web <a href="#certificate_not_yet_valid">aún no
     es válido</a></li>
-  <li>el certificado del sitio web sólo es válido para otro sitio
+  <li>el certificado del sitio web sólo es válido para otro sitio web
     (<a href="#domain_name_mismatch">discrepancia en el nombre de
     dominio</a>)</li>
   <li>el certificado del sitio web está auto-firmado (y, por tanto, la
@@ -402,7 +402,7 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
 
 <p>La página mostrada en los casos anteriores está pensada para ayudarle a
   comprender por qué &brandShortName; no pudo establecer una conexión segura
-  con el sitio web. Comienza diciéndole que la identidad del sitio no pudo
+  con el sitio web. Comienza diciéndole que la identidad del sitio web no pudo
   ser verificada, luego le ofrece abandonar la página haciendo clic en el
   botón <strong>Esto tiene mala pinta, mejor llévame a mi página de
   inicio</strong>. Si no está seguro de qué hacer se recomienda que siga este
@@ -412,14 +412,14 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
   sección correspondiente haciendo clic en el galón que hay delante de
   <strong>Detalles técnicos</strong>. Esa sección también contiene el
   <strong>código de error</strong> que identifica inequívocamente el tipo de
-  problema que ha detectado &brandShortName; con el sitio.</p>
+  problema que ha detectado &brandShortName; con el sitio web.</p>
 
 <h4 id="add_security_exception">Añadir una excepción de seguridad</h4>
 
 <p>La sección <strong>Entiendo los riesgos</strong> de la página Conexión no
   confiable le permite ordenar a &brandShortName; que ignore explícitamente los
-  controles de seguridad para este sitio añadiendo una excepción. Si expande la
-  sección haciendo clic en el galón delante de ella, verá un botón
+  controles de seguridad para este sitio web añadiendo una excepción. Si
+  expande la sección haciendo clic en el galón delante de ella, verá un botón  
   <strong>Añadir excepción</strong> que le llevará a un diálogo que le
   permitirá recuperar y visualizar el certificado del sitio web y,
   opcionalmente, añadir una excepción de seguridad para él (ya sea permanente o
@@ -451,8 +451,8 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
   certificado del sitio web como caducado.</p>
 
 <p>Si la fecha de su ordenador es correcta, ha de decidir si confiar en dicho
-  sitio. La decisión dependerá de qué quería hacer en ese sitio y qué sabe de
-  él. La mayoría de sitios comerciales se aseguran de reemplazar sus
+  sitio web. La decisión dependerá de qué quería hacer en ese sitio web y qué
+  sabe de él. La mayoría de sitios comerciales se aseguran de reemplazar sus
   certificados antes de que caduquen. Si elige continuar necesitará
   <a href="#add_security_exception">añadir una excepción de seguridad</a>.</p>
 
@@ -470,17 +470,17 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
   todavía no válido incluso si lo es.</p>
 
 <p>Si la fecha de su ordenador es correcta, ha de decidir si confiar en dicho
-  sitio. La decisión dependerá de qué quería hacer en ese sitio y qué sabe de
-  él. La mayoría de sitios comerciales se aseguran de que el período de validez
-  de sus certificados haya comenzado antes de empezar a utilizarlos. Si elige
-  continuar necesitará <a href="#add_security_exception">añadir una excepción
-  de seguridad</a>.</p>
+  sitio web. La decisión dependerá de qué quería hacer en ese sitio web y qué
+  sabe de él. La mayoría de sitios comerciales se aseguran de que el período
+  de validez de sus certificados haya comenzado antes de empezar a
+  utilizarlos. Si elige continuar necesitará
+  <a href="#add_security_exception">añadir una excepción de seguridad</a>.</p>
 
 <h3 id="domain_name_mismatch">Discrepancia del nombre de dominio</h3>
 
 <p>Un <a href="glossary.xhtml#certificate">certificado</a> de servidor
   especifica el nombre del servidor bajo la forma del nombre de dominio del
-  sitio. Por ejemplo, el nombre de dominio del sitio web de Netscape es
+  sitio web. Por ejemplo, el nombre de dominio del sitio web de Netscape es
   <tt>home.netscape.com</tt>. Si el nombre de dominio de un certificado de
   servidor no coincide con el nombre real de dominio del sitio web, puede ser
   un indicio de que alguien esté intentando interceptar su comunicación con
@@ -489,8 +489,8 @@ satisfecho con el nivel de seguridad que proporciona la CA.</p>
 <p>&brandShortName; <a href="#untrusted_connection_page">le advierte</a> cuando
   intenta visitar un sitio web si el dominio de su certificado de servidor no
   corresponde con el dominio del sitio web que está intentando visitar. La
-  decisión de si confiar en dicho sitio dependerá de qué quería hacer en él y
-  qué sabe de él. La mayoría de sitios comerciales se asegurarán de que el
+  decisión de si confiar en dicho sitio web dependerá de qué quería hacer en él
+  y qué sabe de él. La mayoría de sitios comerciales se asegurarán de que el
   nombre de dominio de sus certificados coincide con el nombre real del sitio
   web. Si elige continuar necesitará <a href="#add_security_exception">añadir
   una excepción de seguridad</a>.</p>
