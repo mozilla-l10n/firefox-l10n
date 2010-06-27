@@ -1,7 +1,7 @@
 <!ENTITY window.title "Prilagoditev glav sporočil">
 <!ENTITY addButton.label "Dodaj">
-<!ENTITY addButton.accesskey "v">
+<!ENTITY addButton.accesskey "D">
 <!ENTITY removeButton.label "Odstrani">
-<!ENTITY removeButton.accesskey "e">
+<!ENTITY removeButton.accesskey "D">
 <!ENTITY newMsgHeader.label "Nova glava sporočila:">
-<!ENTITY newMsgHeader.accesskey "b">
+<!ENTITY newMsgHeader.accesskey "N">

@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filtriraj ta sporočila ... # 1">
+         "Filtriraj ta sporočila… #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
@@ -235,4 +235,4 @@
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Pritisnite spet 'Enter', da nadaljujete s svojim iskanjem v: #1">
+         "Pritisnite spet 'Enter', da nadaljujete s svojim iskanjem za: #1">

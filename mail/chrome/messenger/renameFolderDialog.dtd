@@ -40,4 +40,4 @@
 <!ENTITY rename.label                      "Vnesite novo ime za imenik:">
 <!ENTITY rename.accesskey                  "e">
 <!ENTITY accept.label                      "Preimenuj">
-<!ENTITY accept.accesskey                  "e">
+<!ENTITY accept.accesskey                  "D">

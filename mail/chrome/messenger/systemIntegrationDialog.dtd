@@ -1,12 +1,12 @@
 <!ENTITY systemIntegration.title  "Sistemska integracija">
 <!ENTITY defaultClient.intro  "Uporabi &brandShortName; kot privzeti program za:">
 
-<!ENTITY email.label "E-pošta">
+<!ENTITY email.label "E-pošto">
 <!ENTITY newsgroups.label "Novičarske skupine">
 <!ENTITY feeds.label "Viri">
 
-<!ENTITY checkOnStartup.label "Ob zagonu &brandShortName; to vedno preveri">
-<!ENTITY checkOnStartup.accesskey "O">
+<!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "V">
 
 <!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName; da preišče sporočila">
 <!ENTITY searchIntegration.accesskey "D">

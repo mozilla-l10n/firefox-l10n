@@ -1,7 +1,7 @@
 <!ENTITY window.title "Pravila za filtriranje">
 
 <!ENTITY filterName.label "Ime filtra">
-<!ENTITY filterName.accesskey "L">
+<!ENTITY filterName.accesskey "I">
 
 <!ENTITY junk.label "Neželeno">
 <!ENTITY notJunk.label "Niso smeti">
@@ -13,14 +13,14 @@
 <!ENTITY highestPriorityCmd.label "Najvišje">
 
 <!ENTITY contextDesc.label "Uporabi filter:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.accesskey "f">
 <!ENTITY contextIncoming.label "Preverjanje pošte">
 <!ENTITY contextManual.label "Ročen zagon">
 <!ENTITY contextBoth.label "Preverjanje pošte ali Ročen zagon">
 <!ENTITY contextPostPlugin.label "Preverjanje pošte (po razvrščanju)">
 <!ENTITY contextPostPluginBoth.label "Preverjanje pošte (po razvrščanju) ali Ročen zagon">
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
-<!ENTITY filterActionDesc.accesskey "Z">
+<!ENTITY filterActionDesc.accesskey "I">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Prestavi sporočilo v">

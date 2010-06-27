@@ -1,4 +1,4 @@
-<!ENTITY  newMessageCmd2.key              "b">
+<!ENTITY  newMessageCmd2.key              "I">
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "Sporočilo">
 <!ENTITY  newMessageCmd.accesskey         "s">

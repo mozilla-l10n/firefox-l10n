@@ -37,17 +37,17 @@
 
 <!ENTITY subscribeDialog.title        "Naroči se">
 <!ENTITY subscribeButton.label        "Naroči se">
-<!ENTITY subscribeButton.accesskey    "S">
+<!ENTITY subscribeButton.accesskey    "b">
 <!ENTITY unsubscribeButton.label      "Odjavi naročnino">
 <!ENTITY unsubscribeButton.accesskey  "U">
 <!ENTITY newGroupsTab.label           "Nove skupine">
-<!ENTITY newGroupsTab.accesskey       "b">
+<!ENTITY newGroupsTab.accesskey       "I">
 <!ENTITY refreshButton.label          "Osveži">
-<!ENTITY refreshButton.accesskey      "e">
+<!ENTITY refreshButton.accesskey      "D">
 <!ENTITY stopButton.label             "Ustavi">
 <!ENTITY stopButton.accesskey         "R">
 <!ENTITY server.label                 "Račun:">
-<!ENTITY server.accesskey             "v">
+<!ENTITY server.accesskey             "N">
 <!ENTITY subscribedHeader.label       "Naroči se">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->

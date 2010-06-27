@@ -1,18 +1,18 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Pokaži:">
-<!ENTITY viewPicker.accesskey "L">
+<!ENTITY viewPicker.accesskey "K">
 <!ENTITY viewAll.label "Vse">
-<!ENTITY viewAll.accesskey "v">
+<!ENTITY viewAll.accesskey "V">
 <!ENTITY viewUnread.label "Neprebrano">
-<!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewNotDeleted.label "Ne izbrisano">
-<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewUnread.accesskey "P">
+<!ENTITY viewNotDeleted.label "Ne zbrisano">
+<!ENTITY viewNotDeleted.accesskey "N">
 <!ENTITY viewTags.label "Oznake">
-<!ENTITY viewTags.accesskey "R">
+<!ENTITY viewTags.accesskey "O">
 <!ENTITY viewCustomViews.label "Pogledi po meri">
-<!ENTITY viewCustomViews.accesskey "N">
+<!ENTITY viewCustomViews.accesskey "P">
 <!ENTITY viewVirtualFolder.label "Shrani pogled kot mapo…">
-<!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Po meri…">
-<!ENTITY viewCustomizeView.accesskey "z">
+<!ENTITY viewVirtualFolder.accesskey "m">
+<!ENTITY viewCustomizeView.label "Prilagodi…">
+<!ENTITY viewCustomizeView.accesskey "p">

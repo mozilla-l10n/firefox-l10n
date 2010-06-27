@@ -2,13 +2,13 @@
 <!ENTITY name.label                 "Ime:">
 <!ENTITY name.accesskey             "I">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
-<!ENTITY description.accesskey      "U">
+<!ENTITY description.accesskey      "z">
 
 <!ENTITY searchTermCaption.label "Priredite pogoje za iskanje, ki se ga rabi v tej mapi za shranjena iskanja: ">
 
 <!ENTITY folderSelectionCaption.label "Izberite mape za iskanje: ">
 <!ENTITY chooseFoldersButton.label "Izberi…">
-<!ENTITY chooseFoldersButton.accesskey "Z">
+<!ENTITY chooseFoldersButton.accesskey "i">
 
 <!ENTITY searchOnline.label "Iskanje na spletu (daje najnovejše rezultate za mape za IMAP in novice, podaljša pa čas, potreben za to, da mapo odprete)">
-<!ENTITY searchOnline.accesskey "S">
+<!ENTITY searchOnline.accesskey "s">
