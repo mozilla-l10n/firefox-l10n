@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Vyhľadávanie">
 <!ENTITY view.discover.label                  "Získať doplnky">
-<!ENTITY view.languages.label                 "Jazyky">
+<!ENTITY view.locales.label                   "Jazyky">
 <!ENTITY view.searchengines.label             "Vyhľadávacie moduly">
 <!ENTITY view.features.label                  "Rozšírenia">
 <!ENTITY view.appearance.label                "Témy vzhľadu">
@@ -30,8 +30,8 @@
 <!ENTITY cmd.findUpdates.accesskey            "h">
 <!ENTITY cmd.preferences.label                "Nastavenia">
 <!ENTITY cmd.preferences.accesskey            "N">
-<!ENTITY cmd.about.label                      "Čo je">
-<!ENTITY cmd.about.accesskey                  "o">
+<!ENTITY cmd.about.label                      "O doplnku">
+<!ENTITY cmd.about.accesskey                  "O">
 
 <!ENTITY cmd.enableAddon.label                "Povoliť">
 <!ENTITY cmd.enableAddon.accesskey            "v">
@@ -42,6 +42,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Odstrániť">
 <!ENTITY cmd.uninstallAddon.accesskey         "d">
 <!ENTITY cmd.uninstallAddon.tooltip           "Odinštalovať tento doplnok">
+<!ENTITY cmd.showPreferences.label            "Nastavenia">
+<!ENTITY cmd.showPreferences.tooltip          "Zmeniť nastavenia tohto doplnku">
 <!ENTITY cmd.contribute.label                 "Prispieť">
 <!ENTITY cmd.contribute.accesskey             "r">
 <!ENTITY cmd.contribute.tooltip               "Prispieť na vývoj tohto doplnku">
@@ -85,10 +87,8 @@
 
 
 <!ENTITY showMore.label                       "Zobraziť podrobnosti">
-<!ENTITY showMore.accesskey                   "b">
 <!ENTITY showMore.tooltip                     "Zobraziť ďalšie podrobnosti">
 <!ENTITY showLess.label                       "Skryť podrobnosti">
-<!ENTITY showLess.accesskey                   "b">
 <!ENTITY showLess.tooltip                     "Skryť podrobnosti">
 
 <!ENTITY search.filter.label                  "Zobraziť:">
