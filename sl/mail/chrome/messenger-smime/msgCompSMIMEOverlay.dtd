@@ -7,7 +7,7 @@
 <!ENTITY menu_securitySign.accesskey "P">
 
 <!ENTITY menu_securityStatus.label "Pokaži podatke o varnosti">
-<!ENTITY menu_securityStatus.accesskey "P">
+<!ENTITY menu_securityStatus.accesskey "I">
 
 <!ENTITY securityButton.label "Varnost">
 <!ENTITY securityButton.tooltip "Pokaži ali spremeni varnostne nastavitve">

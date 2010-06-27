@@ -10,7 +10,7 @@
 <!ENTITY choosethisfolder.label   "izberi to mapo">
 
 <!ENTITY quickMode.label          "Pokaži povzetek članka in ne nalagaj spletne strani">
-<!ENTITY quickMode.accesskey      "K">
+<!ENTITY quickMode.accesskey      "O">
 
 <!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey    "K">

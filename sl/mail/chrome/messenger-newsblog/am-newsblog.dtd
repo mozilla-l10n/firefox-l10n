@@ -5,7 +5,7 @@
 <!ENTITY biffEnd.label "minut">
 
 <!ENTITY loginAtStartup.label "Ob zagonu preveri, ali obstajajo novi članki"> 
-<!ENTITY loginAtStartup.accesskey "O">
+<!ENTITY loginAtStartup.accesskey "z">
 
 <!ENTITY useQuickMode.label "Privzemi prikaz povzetka članka in ne nalagaj spletne strani"> 
 <!ENTITY useQuickMode.accesskey "P">
@@ -17,4 +17,4 @@
 <!ENTITY feeds.accountName "Novice in spletni dnevniki RSS">
 <!ENTITY feeds.wizardShortName "Viri">
 <!ENTITY feeds.wizardLongName "Novice in spletni dnevniki RSS">
-<!ENTITY feeds.wizardLongName.accesskey "D">
+<!ENTITY feeds.wizardLongName.accesskey "V">

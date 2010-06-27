@@ -2,17 +2,17 @@
 <!ENTITY feedSubscriptions.label "Naročnine na spletne vire">
 <!ENTITY subscriptionDesc.label "Opomba: če mapo za spletne vire odstranite ali spremenite, na že prenesle članke ne bo imelo nobenega vpliva.">
 <!ENTITY feedTitle.label "Naslov:">
-<!ENTITY location.label  "Kje:">
+<!ENTITY location.label  "Mesto:">
 
 <!ENTITY button.addFeed.label       "Dodaj">
-<!ENTITY button.addFeed.accesskey   "D">
-<!ENTITY button.editFeed.label      "Urejanje">
-<!ENTITY button.editFeed.accesskey  "U">
+<!ENTITY button.addFeed.accesskey   "N">
+<!ENTITY button.editFeed.label      "Uredi">
+<!ENTITY button.editFeed.accesskey  "e">
 <!ENTITY button.removeFeed.label "Odstrani">
 <!ENTITY button.removeFeed.accesskey   "D">
 <!ENTITY button.importOPML.label "Uvozi">
-<!ENTITY button.importOPML.accesskey   "V">
+<!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Izvozi">
-<!ENTITY button.exportOPML.accesskey   "Z">
+<!ENTITY button.exportOPML.accesskey   "X">
 
 <!ENTITY cmd.close.commandKey             "w">
