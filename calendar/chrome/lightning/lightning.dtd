@@ -63,13 +63,13 @@
 <!ENTITY lightning.menupopup.open.message.label       "Mensagem salva…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
 <!ENTITY lightning.menupopup.open.calendar.label      "Arquivo de calendário…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Calendário">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Tarefas">
-<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+<!ENTITY lightning.menu.view.tasks.accesskey           "r">
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Eventos e tarefas">
@@ -122,5 +122,5 @@
 <!ENTITY todaypane.showNone.label "Exibir nenhum">
 <!ENTITY todaypane.showNone.accesskey "n">
 <!ENTITY todaypane.showTodayPane.label "Exibir painel hoje">
-<!ENTITY todaypane.showTodayPane.accesskey "h">
+<!ENTITY todaypane.showTodayPane.accesskey "E">
 <!ENTITY todaypane.statusButton.label "Painel hoje">

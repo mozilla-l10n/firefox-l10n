@@ -102,11 +102,11 @@
 <!ENTITY  event.menu.item.saveandclose.label              "Salvar e fechar">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
 <!ENTITY  event.menu.item.delete.label                    "Excluir…">
-<!ENTITY  event.menu.item.delete.accesskey                "D">
+<!ENTITY  event.menu.item.delete.accesskey                "E">
 <!ENTITY  event.menu.item.page.setup.label                "Configurações de página">
-<!ENTITY  event.menu.item.page.setup.accesskey            "u">
+<!ENTITY  event.menu.item.page.setup.accesskey            "C">
 <!ENTITY  event.menu.item.print.label                     "Imprimir">
-<!ENTITY  event.menu.item.print.accesskey                 "P">
+<!ENTITY  event.menu.item.print.accesskey                 "I">
 
 <!ENTITY  event.menu.edit.label                           "Editar">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -128,7 +128,7 @@
 <!ENTITY  event.menu.view.toolbars.label                  "Barras de ferramentas">
 <!ENTITY  event.menu.view.toolbars.accesskey              "B">
 <!ENTITY  event.menu.view.toolbars.event.label            "Barra de evento">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "a">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "B">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
 <!ENTITY  event.menu.view.showlink.label                  "Exibir atalho relacionado">
@@ -137,7 +137,7 @@
 <!ENTITY  event.menu.options.label                            "Opções">
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attachments.label                "Anexar página da internet…">
-<!ENTITY  event.menu.options.attachments.accesskey            "i">
+<!ENTITY  event.menu.options.attachments.accesskey            "A">
 <!ENTITY  event.menu.options.attendees.label                  "Convidar participantes…">
 <!ENTITY  event.menu.options.attendees.accesskey              "C">
 <!ENTITY  event.menu.options.spellcheck.label                 "Verificar ortografia…">
@@ -167,7 +167,7 @@
 <!ENTITY  event.menu.options.privacy.private.label            "Evento particular">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "v">
 <!ENTITY  event.menu.options.show.time.label                  "Exibir horário como">
-<!ENTITY  event.menu.options.show.time.accesskey              "b">
+<!ENTITY  event.menu.options.show.time.accesskey              "E">
 <!ENTITY  event.menu.options.show.time.busy.label             "Ocupado">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
 <!ENTITY  event.menu.options.show.time.free.label             "Livre">
@@ -182,7 +182,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
-<!ENTITY  event.toolbar.delete.label                      "Delete">
+<!ENTITY  event.toolbar.delete.label                      "Excluir">
 <!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
 <!ENTITY  event.toolbar.spellcheck.label                  "Verificação ortográfica">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
@@ -214,7 +214,7 @@
 <!ENTITY event.repeat.label                               "Repetir:" >
 <!ENTITY event.repeat.accesskey                           "R">
 <!ENTITY event.reminder.label                             "Lembrete:" >
-<!ENTITY event.reminder.accesskey                         "L">
+<!ENTITY event.reminder.accesskey                         "b">
 <!ENTITY event.description.label                          "Descrição:" >
 <!ENTITY event.description.accesskey                      "s">
 <!ENTITY event.attachments.label                          "Anexos:" >
