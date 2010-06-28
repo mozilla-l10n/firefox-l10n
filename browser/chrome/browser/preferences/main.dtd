@@ -15,7 +15,7 @@
 <!ENTITY restoreDefault.label      "Aisig na roghainnean bunaiteach">
 <!ENTITY restoreDefault.accesskey  "A">
 
-<!ENTITY downloads.label     "Na chaidh a luchdadh a-nuas">
+<!ENTITY downloads.label     "Luchdaidhean a-nuas">
 
 <!ENTITY showWhenDownloading.label     "Seall uinneag an luchdaidh a-nuas nuair a bhios faidhle 'ga luchdadh a-nuas">
 <!ENTITY showWhenDownloading.accesskey "S">

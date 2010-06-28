@@ -43,7 +43,7 @@
 <!ENTITY remove.accessKey   "T">
 <!ENTITY additional.label   "Còdachaidhean charactairean ri am faighinn:">
 <!ENTITY add.label          "Cuir ris">
-<!ENTITY add.accessKey      "R">
+<!ENTITY add.accessKey      "A">
 <!ENTITY moveUp.label       "Gluais suas">
 <!ENTITY moveUp.accessKey   "U">
 <!ENTITY moveDown.label     "Gluais sìos">

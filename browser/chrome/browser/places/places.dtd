@@ -142,7 +142,7 @@
 <!ENTITY search.scopeFolder.accesskey              "p">
 <!ENTITY search.scopeBookmarks.label               "Comharraidhean-lìn">
 <!ENTITY search.scopeBookmarks.accesskey           "m">
-<!ENTITY search.scopeDownloads.label               "Na chaidh a luchdadh a-nuas">
+<!ENTITY search.scopeDownloads.label               "Luchdaidhean a-nuas">
 <!ENTITY search.scopeDownloads.accesskey           "u">
 <!ENTITY search.scopeHistory.label                 "Eachdraidh">
 <!ENTITY search.scopeHistory.accesskey             "h">
