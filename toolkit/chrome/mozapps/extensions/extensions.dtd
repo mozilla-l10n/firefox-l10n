@@ -53,7 +53,7 @@
 <!ENTITY detail.showPreferences.label "Настройки">
 <!ENTITY detail.showPreferences.accesskey "с">
 <!ENTITY detail.showPreferences.tooltip "Изменить настройки этого дополнения">
-<!ENTITY rating.yourRating.label "Ваш рейтинг:">
+<!ENTITY rating.label "Рейтинг:">
 <!ENTITY progress.pause.tooltip "Приостановить">
 <!ENTITY progress.cancel.tooltip "Отмена">
 <!ENTITY sort.name.label "Имя">
