@@ -125,7 +125,7 @@
 <!ENTITY keywordfield.accesskey       "l">
 <!ENTITY search.label                 "Lorg air an lìon">
 <!ENTITY search.accesskey             "L">
-<!ENTITY downloads.label              "Na chaidh a luchdadh a-nuas">
+<!ENTITY downloads.label              "Luchdaidhean a-nuas">
 <!ENTITY downloads.tooltip            "Seall adhartas na thathar a' luchdadh a-nuas">
 <!ENTITY downloads.accesskey          "u">
 <!ENTITY downloads.commandkey         "j">
