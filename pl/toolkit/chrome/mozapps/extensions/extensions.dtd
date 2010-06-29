@@ -64,7 +64,7 @@
 <!ENTITY detail.showPreferences.tooltip       "Zmień preferencje związane z tym dodatkiem">
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Twoja ocena:">
+<!ENTITY rating.label                         "Ocena:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Wstrzymaj">
