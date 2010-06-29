@@ -85,8 +85,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey	"R">
 
 <!ENTITY otherActionsButton.label		"その他の操作">
-<!ENTITY otherActionsShowConversation.label	"スレッドを新しいタブで開く">
-<!ENTITY otherActionsShowConversation.accesskey	"c">
+<!ENTITY otherActionsOpenConversation.label	"スレッドを新しいタブで開く"><!-- en-US: "open in conversation" -->
+<!ENTITY otherActionsOpenConversation.accesskey	"c">
 <!ENTITY otherActionsOpenInNewWindow.label	"新しいウィンドウで開く">
 <!ENTITY otherActionsOpenInNewWindow.accesskey	"w">
 <!ENTITY otherActionsOpenInNewTab.label		"新しいタブで開く">
