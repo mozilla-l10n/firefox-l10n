@@ -236,6 +236,12 @@
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Drukuj">
+<!ENTITY appMenuCustomize.label "Dostosuj">
+<!ENTITY appMenuToolbarLayout.label "Układ paska narzędzi…">
+<!ENTITY appMenuSidebars.label "Panele boczne">
+<!ENTITY appMenuHelp.label "Pomoc">
+
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder           "Przejdź do witryny WWW">
 <!ENTITY urlbar.accesskey "d" >
