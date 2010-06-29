@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
 <!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksMenuButton.tooltip        "Mostrar sus marcadores">
+<!ENTITY viewBookmarksSidebar.label         "Mostrar en barra lateral">
+<!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -159,6 +165,10 @@
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "n">

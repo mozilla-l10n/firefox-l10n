@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.uninstallAddon.tooltip           "Desinstalar este complemento">
+<!ENTITY cmd.showPreferences.label            "Preferencias">
+<!ENTITY cmd.showPreferences.tooltip          "Cambiar las preferencias de este complemento">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
@@ -65,7 +67,7 @@
 <!ENTITY detail.showPreferences.tooltip       "Cambiar las preferencias para este complemento">
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Su puntuación:">
+<!ENTITY rating.label                         "Puntuación:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
