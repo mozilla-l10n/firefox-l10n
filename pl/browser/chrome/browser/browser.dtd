@@ -138,6 +138,12 @@
 <!ENTITY bookmarksButton.tooltip        "Wyświetl zakładki">
 <!ENTITY bookmarksButton.accesskey      "Z">
 <!ENTITY bookmarksCmd.commandkey        "b">
+
+<!ENTITY bookmarksMenuButton.label          "Zakładki">
+<!ENTITY bookmarksMenuButton.tooltip        "Wyświetl zakładki">
+<!ENTITY viewBookmarksSidebar.label         "Wyświetl w panelu bocznym">
+<!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
