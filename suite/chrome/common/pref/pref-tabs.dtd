@@ -13,16 +13,3 @@
 <!ENTITY loadGroupReplace.accesskey "R">
 <!ENTITY openTabs.label "Abrir pestañas en vez de ventanas para">
 
-<!ENTITY newWindow.label "Comportamiento al abrir un enlace">
-<!ENTITY newWindowDescription.label "Abrir enlaces que deban abrirse en nueva ventana en">
-<!ENTITY external.label "Enlaces desde otras aplicaciones">
-<!ENTITY externalDescription.label "Abrir enlaces enviados de otras aplicaciones en">
-<!ENTITY openCurrent.label "La pestaña/ventana actual">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "Una nueva pestaña en la ventana actual">
-<!ENTITY newWindowGroupTab.accesskey "t">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Una nueva ventana">
-<!ENTITY newWindowGroupWindow.accesskey "w">
-<!ENTITY externalGroupWindow.accesskey "o">
