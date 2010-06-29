@@ -164,10 +164,3 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "W">
 <!ENTITY exceptionMgr.permanent.label         "Zachowaj ten wyjątek na stałe">
 <!ENTITY exceptionMgr.permanent.accesskey     "Z">
-
-<!-- XXXmarcoos, temporary strings, until fix for bug 469555 is checked in again-->
-<!ENTITY certmgr.mine 					"Posiadasz certyfikaty z następujących organizacji, które identyfikują użytkownika:">
-<!ENTITY certmgr.others 				"Posiadasz certyfikaty, które identyfikują następujące osoby:">
-<!ENTITY certmgr.websites2 				"Posiadasz certyfikaty, które identyfikują następujące serwery:">
-<!ENTITY certmgr.cas 					"Posiadasz certyfikaty, które identyfikują następujące organy certyfikacji:">
-<!ENTITY certmgr.orphans                      		"Posiadasz certyfikaty, które nie pasują do innych kategorii:">
