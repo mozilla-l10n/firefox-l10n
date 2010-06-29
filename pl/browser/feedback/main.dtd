@@ -1,0 +1,30 @@
+<!ENTITY testpilot.brand.label                      "Pilot testowy">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "Ustawienia">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Powiadom mnie, kiedy">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Nowe badanie jest gotowa do wysłania">
+<!ENTITY testpilot.settings.newStudy.label          "Pojawi się nowe badanie">
+<!ENTITY testpilot.settings.hasNewResults.label     "Badanie ma nowe wyniki">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Prześlij moje dane automatycznie (bez pytania)">
+<!ENTITY testpilot.allStudies.label                 "Wszystkie badania użytkownika">
+<!ENTITY testpilot.about.label                      "Informacje o Pilocie testowym">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Twoje wyniki badań Pilota testowego">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Bieżące badania">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Zakończone badania">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Wnioski z badań">
+<!ENTITY testpilot.studiesWindow.settings.label         "Ustawienia">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Wczytywanie, proszę czekać...">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Pilot testowy: dane źródłowe">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Zamknij">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Włącz badania użytkownika">
+<!ENTITY testpilot.feedbackbutton.label                "Informacje zwrotne">
+<!ENTITY testpilot.happy.label        "Firefox uszczęśliwił mnie, ponieważ...">
+<!ENTITY testpilot.sad.label          "Firefox zasmucił mnie, ponieważ...">
