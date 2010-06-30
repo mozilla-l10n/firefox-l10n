@@ -638,7 +638,7 @@
 <!ENTITY contextReplySender.label        "Odpowiedz tylko nadawcy">
 <!ENTITY contextReplySender.accesskey    "n">
 <!ENTITY contextReplyNewsgroup.label     "Odpowiedz grupie dyskusyjnej">
-<!ENTITY contextReplyNewsgroup.accesskey "u">
+<!ENTITY contextReplyNewsgroup.accesskey "s">
 <!ENTITY contextReplyAll.label           "Odpowiedz wszystkim">
 <!ENTITY contextReplyAll.accesskey       "w">
 <!ENTITY contextReplyList.label          "Odpowiedz liście dyskusyjnej">
@@ -658,7 +658,7 @@
 <!ENTITY contextPrint.label            "Drukuj…">
 <!ENTITY contextPrint.accesskey        "D">
 <!ENTITY contextPrintPreview.label     "Podgląd wydruku">
-<!ENTITY contextPrintPreview.accesskey "g">
+<!ENTITY contextPrintPreview.accesskey "u">
 
 <!-- Thread Pane Column Picker -->
 <!ENTITY columnPicker.resetToInbox.label             "Przywróć domyślne">
