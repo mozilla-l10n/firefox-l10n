@@ -53,7 +53,7 @@
 <!ENTITY detail.showPreferences.label "Preferenze">
 <!ENTITY detail.showPreferences.accesskey "z">
 <!ENTITY detail.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
-<!ENTITY rating.yourRating.label "Assegna un voto:">
+<!ENTITY rating.label "Voto:">
 <!ENTITY progress.pause.tooltip "Pausa">
 <!ENTITY progress.cancel.tooltip "Annulla">
 <!ENTITY sort.name.label "Nome">
