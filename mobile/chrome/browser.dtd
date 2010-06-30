@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "标签:">
 
-<!ENTITY helperApp.prompt          "您将如何使用">
-<!ENTITY helperApp.open            "打开">
-<!ENTITY helperApp.save            "保存">
-<!ENTITY helperApp.nothing         "无">
-
 <!ENTITY formHelper.previous       "上一个">
 <!ENTITY formHelper.next           "下一个">
 <!ENTITY formHelper.done           "完成">
