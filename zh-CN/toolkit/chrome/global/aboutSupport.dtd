@@ -1,10 +1,7 @@
-<!ENTITY aboutSupport.pageTitle "疑难排解信息">
+<!ENTITY aboutSupport.pageTitle "疑难解答信息">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "   此页面包含可能会有助于您解决问题的技术信息。
-  如果您需要查找 &brandShortName; 常见问题的答案，
-  请访问我们的 <a id='supportLink'>技术支持网站</a>。
-">
+<!ENTITY aboutSupport.pageSubtitle "本页面包含了当您尝试解决某个问题时可能用得上的技术信息。如果您正在寻找关于&brandShortName;的普通问题的答案，请检查我们的<a id='supportLink'>支持网站</a>。">
 
 <!ENTITY aboutSupport.extensionsTitle "扩展">
 <!ENTITY aboutSupport.extensionName "名称">
@@ -24,7 +21,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "显示于 Finder">
+<!ENTITY aboutSupport.showMac.label "在查找中显示">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "已修改的首选项">
 <!ENTITY aboutSupport.modifiedPrefsName "名称">
@@ -33,4 +30,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "安装历史记录">
 <!ENTITY aboutSupport.updateHistoryTitle "更新历史">
 
-<!ENTITY aboutSupport.copyToClipboard.label "全部复制至系统粘贴板">
+<!ENTITY aboutSupport.copyToClipboard.label "全部复制到剪贴板">

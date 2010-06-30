@@ -1,176 +1,112 @@
-<!ENTITY addons.title                     "附加组件">
+<!ENTITY addons.windowTitle                   "附加组件管理器">
+<!ENTITY search.placeholder                   "搜索全部附加组件">
+<!ENTITY loading.label                        "载入中…">
+<!ENTITY listEmpty.installed.label            "您还没有安装此类型的任何附加组件">
+<!ENTITY listEmpty.search.label               "找不到任何匹配的附加组件">
+<!ENTITY listEmpty.button.label               "了解更多有关附加组件的信息">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "搜索">
+<!ENTITY view.discover.label                  "获取附加组件">
+<!ENTITY view.languages.label                 "语言">
+<!ENTITY view.searchengines.label             "搜索引擎">
+<!ENTITY view.features.label                  "扩展">
+<!ENTITY view.appearance.label                "主题">
+<!ENTITY view.plugins.label                   "插件">
 
-<!-- View labels -->
-<!ENTITY search.label                     "获取附加组件">
-<!ENTITY extensions.label                 "扩展">
-<!ENTITY themes.label                     "主题">
-<!ENTITY locales.label                    "语言">
-<!ENTITY plugins.label                    "插件">
-<!ENTITY update.label                     "更新">
-<!ENTITY install.label                    "安装">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "更新附件组件">
+<!ENTITY updates.updating.label               "正在更新附加组件">
+<!ENTITY updates.installed.label              "您的附加组件已经更新。">
+<!ENTITY updates.downloaded.label             "您的附加组件更新已经下载。">
+<!ENTITY updates.restart.label                "立即重启完成安装">
+<!ENTITY updates.noneFound.label              "找不到更新">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "查找更新">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "查找附加组件的更新">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "查找主题的更新">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "发现您插件的更新">
-<!ENTITY cmd.installLocalFile.label       "安装…">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
-<!ENTITY cmd.installFileAddon.tooltip     "安装附加组件">
-<!ENTITY cmd.installFileTheme.tooltip     "安装主题">
-<!ENTITY cmd.installUpdatesAll2.label     "安装更新">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "安装选定的更新">
-<!ENTITY cmd.restartApp2.label            "重启 &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "重启 &brandShortName; 以使更改生效">
-<!ENTITY cmd.skip.label                   "跳过">
-<!ENTITY cmd.skip.accesskey               "k">
-<!ENTITY cmd.skip.tooltip                 "跳过这些更新">
-<!ENTITY cmd.continue.label               "继续">
-<!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "继续载入 &brandShortName;">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "显示更多信息">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "查找更新">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferences.label                "首选项">
+<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.about.label                      "关于">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAll.label              "全部启用">
-<!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "启用全部显示的附加组件">
-<!ENTITY cmd.disableAll.label             "全部禁用">
-<!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "禁用全部显示的附加组件">
+<!ENTITY cmd.enableAddon.label                "启用">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.tooltip              "启用此附加组件">
+<!ENTITY cmd.disableAddon.label               "禁用">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.tooltip             "禁用此附加组件">
+<!ENTITY cmd.uninstallAddon.label             "移除">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.tooltip           "卸载此附加组件">
+<!ENTITY cmd.contribute.label                 "贡献">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "对此附加组件的开发做出贡献">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "使用主题">
-<!ENTITY cmd.useTheme.accesskey           "T">
-<!ENTITY cmd.useTheme.tooltip             "更换 &brandShortName; 的主题。">
-<!ENTITY cmd.options.label                "选项">
-<!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "设置所选扩展的选项">
-<!ENTITY cmd.optionsUnix.label            "首选项">
-<!ENTITY cmd.optionsUnix.accesskey        "P">
-<!ENTITY cmd.optionsUnix.tooltip          "编辑所选扩展的首选项">
-<!ENTITY cmd.enable.label                 "启用">
-<!ENTITY cmd.enable.accesskey             "E">
-<!ENTITY cmd.enable.tooltip               "&brandShortName; 重启后启用此附加组件">
-<!ENTITY cmd.disable.label                "禁用">
-<!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "&brandShortName; 重启后禁用此附加组件">
-<!ENTITY cmd.uninstall.label              "卸载">
-<!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "在 &brandShortName; 重启后卸载此附加组件">
-<!ENTITY cmd.cancelUninstall.label        "取消卸载">
-<!ENTITY cmd.cancelUninstall.accesskey    "C">
-<!ENTITY cmd.cancelUninstall.tooltip      "取消安装附加组件">
-<!ENTITY cmd.cancelInstall.label          "取消安装">
-<!ENTITY cmd.cancelInstall.accesskey      "C">
-<!ENTITY cmd.cancelInstall.tooltip        "取消安装附加组件">
-<!ENTITY cmd.cancelUpgrade.label          "取消更新">
-<!ENTITY cmd.cancelUpgrade.accesskey      "C">
-<!ENTITY cmd.cancelUpgrade.tooltip        "取消更新此附加组件">
-<!ENTITY cmd.installUpdate.label          "安装更新">
-<!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "安装此附加组件的更新">
-<!ENTITY cmd.showUpdateInfo.label         "显示信息">
-<!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.showUpdateInfo.tooltip       "显示这些更新的更多信息">
-<!ENTITY cmd.hideUpdateInfo.label         "隐藏信息">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "隐藏这些更新的信息">
-<!ENTITY cmd.installSearchResult.label     "添加至 &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "下载并安装此附加组件">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "取消">
-<!ENTITY cancel.accesskey                 "C">
-<!ENTITY cancelInstall.label              "取消">
-<!ENTITY cancelInstall.accesskey          "C">
-<!ENTITY cancelUpgrade.label              "取消">
-<!ENTITY cancelUpgrade.accesskey          "C">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "访问主页">
-<!ENTITY cmd.homepage.accesskey           "H">
-<!ENTITY cmd.about2.label                 "关于此附加组件">
-<!ENTITY cmd.about.accesskey              "A">
-<!ENTITY cmd.checkUpdate.label            "查找更新">
-<!ENTITY cmd.checkUpdate.accesskey        "F">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "版本">
+<!ENTITY detail.updated.label                 "已更新">
+<!ENTITY detail.creator.label                 "开发者">
+<!ENTITY detail.homepage.label                "主页">
+<!ENTITY detail.numberOfDownloads.label       "下载">
 
-<!ENTITY cmd.includeUpdate.label          "包括更新">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "包括此更新">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "安装更新时包括此附加组件">
+<!ENTITY detail.updateAutomatically.label     "自动更新">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip   "当有可用更新时,自动更新本附加件">
+<!ENTITY detail.checkForUpdates.label         "检查更新">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "检查此附加组件的更新">
+<!ENTITY detail.showPreferences.label         "首选项">
+<!ENTITY detail.showPreferences.accesskey     "P">
+<!ENTITY detail.showPreferences.tooltip       "更改本附加件的首选项">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "不提供安全更新。">
-<!ENTITY needsDependencies.label          "需要其他项。">
-<!ENTITY blocklisted.label                "出于保护目的禁用">
-<!ENTITY softBlocklisted.label            "已知会导致安全或稳定性的问题。">
-<!ENTITY outdated.label                   "新的更安全的版本已可用。">
-<!ENTITY toBeDisabled.label               "此附加组件将在 &brandShortName; 重启后禁用。">
-<!ENTITY toBeEnabled.label                "此附加组件将在 &brandShortName; 重启后启用。">
-<!ENTITY toBeInstalled.label              "此附加组件将在 &brandShortName; 重启后安装。">
-<!ENTITY toBeUninstalled.label            "此附加组件将在 &brandShortName; 重启后卸载。 ">
-<!ENTITY toBeUpdated.label                "此附加组件将在重启 &brandShortName; 时更新。">
 
-<!ENTITY getExtensions.label              "获取扩展">
-<!ENTITY getThemes.label                  "获取主题">
-<!ENTITY getPlugins.label                 "获取插件">
+<!-- ratings -->
+<!ENTITY rating.yourRating.label              "你的评级:">
 
-<!ENTITY searchAddons.label               "搜索全部附加组件">
-<!ENTITY browseAddons.label               "浏览全部附加组件">
-<!ENTITY searchFailed.label               "&brandShortName; 无法获取附加组件">
-<!ENTITY recommendedHeader.label          "推荐">
-<!ENTITY recommendedThrobber.label        "正在获取推荐的附加组件">
-<!ENTITY searchThrobber.label             "正在搜索附加组件">
-<!ENTITY resetSearch.label                "清空结果">
-<!ENTITY noSearchResults.label            "所有结果均已安装或不兼容。">
-<!ENTITY noRecommendedResults.label       "所有建议项均已安装或不兼容。">
-<!ENTITY emptySearch.label                "无符合条件的附加组件">
-<!ENTITY emptySearch.button               "确定">
-<!ENTITY cancelSearch.button              "取消">
-<!ENTITY searchFailed.button              "确定">
-<!ENTITY searchResultHomepage.value       "更多信息">
-<!ENTITY searchBox.label                  "搜索全部附加组件">
-<!ENTITY recommendedResults.label         "搜索全部推荐附加组件">
-<!ENTITY searchResultConnecting.label     "正在连接…">
-<!ENTITY searchResultInstalling.label     "安装中…">
-<!ENTITY searchResultFailed.label         "安装失败">
-<!ENTITY searchResultInstalled.label      "安装完成">
-<!ENTITY addonTypeExtension.label         "扩展">
-<!ENTITY addonTypeTheme.label             "主题">
-<!ENTITY missingThumbnail.label           "无预览">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "暂停">
+<!ENTITY progress.cancel.tooltip              "取消">
 
-<!ENTITY previewNoThemeSelected.label     "未选择主题">
-<!ENTITY previewNoPreviewImage.label      "此主题中未包含预览图片">
-<!ENTITY moreInfo.label                   "更多信息">
-<!ENTITY infoNoAddonSelected.label        "未选中更新">
-<!ENTITY infoNoUpdateInfo.label           "此更新不包含任何附加信息">
-<!ENTITY infoUpdateInfoError.label        "载入此更新的信息时出错">
 
-<!ENTITY updateSuccess.label              "成功完成更新。">
-<!ENTITY installSuccess.label             "安装成功完成">
-<!ENTITY installSuccessRestart.label      "重启以完成安装。">
-<!ENTITY updateSuccessRestart.label       "重启以完成更新。">
-<!ENTITY installWaiting.label             "等待…">
-<!ENTITY installIncompatibleUpdate.label  "检查兼容性…">
-<!ENTITY installFinishing.label           "正在安装…">
-<!ENTITY installFailure.label             "安装失败">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "名称">
+<!ENTITY sort.name.tooltip                    "按名称排列">
+<!ENTITY sort.size.label                      "大小">
+<!ENTITY sort.size.tooltip                    "按大小排列">
+<!ENTITY sort.dateUpdated.label               "最后更新">
+<!ENTITY sort.dateUpdated.tooltip             "按最后更新日期排列">
+<!ENTITY sort.rating.label                    "评级">
+<!ENTITY sort.rating.tooltip                  "按平均评级排列">
 
-<!ENTITY progressStatus.label             "检查更新">
 
-<!ENTITY eula.title                       "用户协议">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "接受并安装…">
+<!ENTITY showMore.label                       "显示更多">
+<!ENTITY showMore.accesskey                   "m">
+<!ENTITY showMore.tooltip                     "显示更多明细">
+<!ENTITY showLess.label                       "减少显示项">
+<!ENTITY showLess.accesskey                   "l">
+<!ENTITY showLess.tooltip                     "显示更多的详细信息">
 
-<!ENTITY blocklist.blocked.label          "已阻止">
-<!ENTITY blocklist.checkbox.label         "禁用">
+<!ENTITY search.filter.label                  "显示：">
+<!ENTITY search.filter.installed.label        "您的已安装附加组件">
+<!ENTITY search.filter.available.label        "可用附加组件">
+
+<!ENTITY addon.homepage                       "主页">
+<!ENTITY addon.unknownDate                    "未知">
+<!ENTITY addon.disabled.postfix               "（已禁用）">
+<!ENTITY addon.undo.label                     "撤销吗?">
+<!ENTITY addon.undo.tooltip                   "撤销此操作">
+<!ENTITY addon.undoUninstall.label            "撤销吗?">
+<!ENTITY addon.undoUninstall.tooltip          "保持此附加组件安装">
+<!ENTITY addon.restartNow.label               "立即重启">
+<!ENTITY addon.restartNow.tooltip             "立即重启来完成安装">
+<!ENTITY addon.install.label                  "安装">
+<!ENTITY addon.install.tooltip                "安装此附加组件">
+<!ENTITY addon.checkingForUpdates.label       "正在检查更新…">
+
+<!ENTITY addon.createdBy.label                "由 ">

@@ -11,6 +11,28 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "（隐私浏览）">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "新建标签页">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "重新载入标签页">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "重新载入全部标签页">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "关闭其他标签页">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "在新窗口中打开">
+<!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  bookmarkThisTab.label              "将此标签页加为书签">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "将全部标签页加为书签…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "恢复关闭的标签页">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "关闭标签页">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY  listAllTabs.label      "列出全部标签页">
+
 <!ENTITY tabCmd.label "新建标签页">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -131,12 +153,15 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "附加组件">
-<!ENTITY addons.tooltip               "显示并管理安装的附加组件">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY inspectMenu.label            "查看">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY fileMenu.label         "文件"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -172,8 +197,8 @@
 <!ENTITY preferencesCmdUnix.label       "首选项">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "清空最近历史记录">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+<!ENTITY clearRecentHistory.label               "清空最近历史记录…">
+<!ENTITY clearRecentHistory.accesskey           "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "进入隐私浏览模式">
@@ -190,6 +215,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "定制…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewTabsOnTop.label            "Tabs on top">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "历史">
 <!ENTITY historyMenu.accesskey "s">
@@ -207,6 +234,7 @@
 <!ENTITY urlbar.history.emptyText     "搜索历史记录">
 <!ENTITY urlbar.none.emptyText        "输入网址">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "切换到标签:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -308,8 +336,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "复制链接文本">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
 <!ENTITY copyImageCmd.label           "复制图片地址">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "复制图像">
@@ -453,3 +479,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "单击打开下载窗口">
 
 <!ENTITY allTabs.filter.emptyText "搜索标签页">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "浏览器标签">
