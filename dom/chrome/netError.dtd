@@ -72,6 +72,9 @@
 <!ENTITY phishingBlocked.longDesc "<p>在本页面输入个人信息可能会导致帐号被窃或其他欺诈。</p>
 <p>这些欺诈网站均用于钓鱼攻击，在这些攻击中，伪装的网页或邮件地址可能用来假冒您信任的源地址。</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>由于浏览器加载本页的方式不被其内容安全策略所允许，浏览器已停止加载此页。</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

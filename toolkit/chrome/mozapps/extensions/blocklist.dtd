@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "重新启动 &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "已阻止">
+<!ENTITY blocklist.checkbox.label    "禁用">

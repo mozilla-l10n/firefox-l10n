@@ -112,6 +112,9 @@
 <!ENTITY phishingBlocked.longDesc "<p>在本页面输入个人信息可能会导致帐号被窃或其他欺诈。</p>
 <p>这些欺诈网站均用于钓鱼攻击，在这些攻击中，伪装的网页或邮件地址可能用来假冒您信任的源地址。</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>页面的内容安全策略导致 &brandShortName; 阻止以该方式载入此页。</p>">
+
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "离开这里！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">

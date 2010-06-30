@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "软件更新">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "正在检查更新">
 <!ENTITY  updateCheck.label               "查找 &brandShortName; 的新版本…">
 
@@ -39,7 +36,7 @@
 
 <!ENTITY  incompatibleList.title          "找到不兼容的附加组件">
 
-<!ENTITY  downloading.title               "正在下载更新">
+<!ENTITY  downloadPage.title              "下载 &brandShortName;">
 <!ENTITY  downloading.intro               "正在下载更新…">
 <!ENTITY  connecting.label                "正在连接至更新服务器…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; 无法验证下载的增量更新的完整性，因此，它将尝试下载完全的更新包。">

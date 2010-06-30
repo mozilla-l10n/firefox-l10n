@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozilla 公共许可证">
 <!ENTITY rights.intro-point1c "。这表示您可以使用、复制以及向他人分发 &brandShortName; 。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。 Mozilla 公共许可证也允许您分发自己修改过的软件。">
 
-<!ENTITY rights.intro-point2a "Mozilla 并不授予您任何关于 Mozilla 以及 Firefox 商标或标志的权利。欲了解更详细的商标相关的信息，请参见 ">
-<!ENTITY rights.intro-point2b "这里">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "您没有获得任何商标权或者关于 Mozilla 基金会或任何其他组织的商标的协议的授权，这包括但不限于 Firefox 的名称或标志。关于商标的其它信息可以从下面获得：">
+<!ENTITY rights.intro-point2-b "这里">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "欲了解 &vendorShortName; 的隐私条款请参见 ">
