@@ -244,7 +244,7 @@
 <!ENTITY paste.label          "Wklej">
 <!ENTITY paste.accesskey      "e">
 <!ENTITY pasteQuote.label     "Wklej jako cytat">
-<!ENTITY pasteQuote.accesskey "y">
+<!ENTITY pasteQuote.accesskey "l">
 
 <!ENTITY openAttachment.label       "Otwórz">
 <!ENTITY openAttachment.accesskey   "O">
