@@ -18,3 +18,11 @@
 <!ENTITY homepage.none                             "En blanco">
 <!ENTITY homepage.default                          "Inicio de &brandShortName;">
 <!ENTITY homepage.currentpage                      "Usar página actual">
+<!ENTITY sync.title                                "Sincronizar">
+<!ENTITY sync.username                             "Usuario">
+<!ENTITY sync.password                             "Contraseña">
+<!ENTITY sync.secretPhrase                         "Frase secreta">
+<!ENTITY sync.deviceName                           "Nombre de dispositivo">
+<!ENTITY sync.connect                              "Conectar">
+<!ENTITY sync.disconnect                           "Desconectar">
+<!ENTITY sync.syncNow                              "Sincronizar ahora">
