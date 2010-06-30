@@ -11,6 +11,7 @@
 <!ENTITY applications.label "Aplicações de ajuda">
 <!ENTITY locationBar.label "Barra de localização">
 <!ENTITY tabWindows.label "Navegação por separadores">
+<!ENTITY links.label "Comportamento da ligação">
 <!ENTITY offline.label "Desligado">
 <!ENTITY security.label "Privacidade &amp; Segurança">
 <!ENTITY cookies.label "Cookies">

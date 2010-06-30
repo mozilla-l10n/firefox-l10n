@@ -12,17 +12,3 @@
 <!ENTITY loadGroupReplace.label "Substituir separadores existentes">
 <!ENTITY loadGroupReplace.accesskey "r">
 <!ENTITY openTabs.label "Abrir separadores em vez de janelas">
-
-<!ENTITY newWindow.label "Comportamento ao abrir ligação">
-<!ENTITY newWindowDescription.label "Abrir ligações que deviam abrir em uma nova janela em">
-<!ENTITY external.label "Ligações de outras aplicações">
-<!ENTITY externalDescription.label "Abrir ligações feitas por outras aplicações em">
-<!ENTITY openCurrent.label "O separador/janela actual">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "Um novo separador na janela actual">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Uma nova janela">
-<!ENTITY newWindowGroupWindow.accesskey "j">
-<!ENTITY externalGroupWindow.accesskey "o">
