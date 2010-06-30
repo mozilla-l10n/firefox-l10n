@@ -393,7 +393,7 @@
 <!ENTITY markMenu.label                 "Oznacz">
 <!ENTITY markMenu.accesskey             "c">
 <!ENTITY markAsReadCmd.label            "Jako przeczytaną">
-<!ENTITY markAsReadCmd.accesskey        "p">
+<!ENTITY markAsReadCmd.accesskey        "a">
 <!ENTITY markAsReadCmd.key              "m">
 <!ENTITY markThreadAsReadCmd.label      "Wątek jako przeczytany">
 <!ENTITY markThreadAsReadCmd.accesskey  "W">
