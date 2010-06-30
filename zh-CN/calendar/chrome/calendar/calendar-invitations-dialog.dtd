@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "全天事件">
 <!ENTITY calendar.invitations.list.location.text                        "位置：">
 <!ENTITY calendar.invitations.list.organizer.text                       "组织者：">
+<!ENTITY calendar.invitations.list.attendee.text                        "参与者：">
 <!ENTITY calendar.invitations.list.none.text                            "无">

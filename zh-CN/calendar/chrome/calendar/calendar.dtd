@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,11 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Calendar">
 <!ENTITY calendar.calendar.accesskey "C">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip         "创建新的事件" >
 <!ENTITY calendar.newtask.button.tooltip          "创建新的任务" >
@@ -85,20 +84,26 @@
 <!ENTITY calendar.unifinder.tree.duration.label      "期限">
 <!ENTITY calendar.unifinder.close.tooltip            "关闭事件搜索和事件列表">
 
-<!ENTITY calendar.today.button.tooltip            "转至今天" >
-<!ENTITY calendar.todaypane.button.tooltip        "显示当日面板" >
+<!ENTITY calendar.today.button.tooltip          "转至今天" >
+<!ENTITY calendar.todaypane.button.tooltip      "显示当日面板" >
 
 <!ENTITY calendar.day.button.tooltip            "切换到日视图" >
 <!ENTITY calendar.week.button.tooltip           "切换到周视图" >
 <!ENTITY calendar.month.button.tooltip          "切换到月视图" >
 <!ENTITY calendar.multiweek.button.tooltip      "切换到多周视图" >
 
-<!ENTITY calendar.nextday.button.tooltip        "后一天" >
-<!ENTITY calendar.prevday.button.tooltip        "前一天" >
-<!ENTITY calendar.nextweek.button.tooltip       "后一周" >
-<!ENTITY calendar.prevweek.button.tooltip       "前一周" >
-<!ENTITY calendar.nextmonth.button.tooltip      "后一月" >
-<!ENTITY calendar.prevmonth.button.tooltip      "前一月" >
+<!ENTITY calendar.nextday.label                 "后一天" >
+<!ENTITY calendar.prevday.label                 "前一天" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label                "后一周" >
+<!ENTITY calendar.prevweek.label                "前一周" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "后一月" >
+<!ENTITY calendar.prevmonth.label               "前一月" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "下一日" >
 <!ENTITY calendar.navigation.prevday.tooltip    "上一日" >
@@ -156,6 +161,7 @@
 <!ENTITY calendar.task-details.status.label          "状态">
 <!ENTITY calendar.task-details.category.label        "分类">
 <!ENTITY calendar.task-details.repeat.label          "重复">
+<!ENTITY calendar.task-details.attachments.label     "附件">
 
 <!ENTITY calendar.task.category.button.tooltip  "任务分类">
 <!ENTITY calendar.task.complete.button.tooltip  "标记选中的任务为已完成">
@@ -324,12 +330,18 @@
 <!ENTITY calendar.print.title.label "标题：">
 <!ENTITY calendar.print.layout.label "布局：">
 <!ENTITY calendar.print.range.label "打印内容">
-<!ENTITY calendar.print.currentview.label "当前视图中的事件">
+<!ENTITY calendar.print.currentView2.label "当前视图">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "选中的事件/任务">
+<!ENTITY calendar.print.tasks.label "任务">
+<!ENTITY calendar.print.events.label "事件">
 <!ENTITY calendar.print.selected.label "选中的事件">
 <!ENTITY calendar.print.custom.label "自定义日期范围：">
 <!ENTITY calendar.print.from.label "从：">
 <!ENTITY calendar.print.to.label "至：">
 <!ENTITY calendar.print.settingsGroup.label "打印设置">
+<!ENTITY calendar.print.optionsGroup.label "选项">
+<!ENTITY calendar.print.taskswithnoduedate.label "未指定完成日期的任务">
+<!ENTITY calendar.print.completedtasks.label "已完成的任务">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "详细信息…">
