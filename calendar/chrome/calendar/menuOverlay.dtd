@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "今天">
 <!ENTITY goTodayCmd.accesskey                   "T">
 
-<!ENTITY goPreviousCmd.day.label                "前一天">
-<!ENTITY goPreviousCmd.week.label               "前一周">
-<!ENTITY goPreviousCmd.month.label              "前一月">
-<!ENTITY goPreviousCmd.accesskey                "P">
-
-<!ENTITY goNextCmd.day.label                    "后一天">
-<!ENTITY goNextCmd.week.label                   "后一周">
-<!ENTITY goNextCmd.month.label                  "后一月">
-<!ENTITY goNextCmd.all.accesskey                "e">
-
 <!ENTITY showCurrentView.label                  "当前视图">
 <!ENTITY showCurrentView.accesskey              "V">
 

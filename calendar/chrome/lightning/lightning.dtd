@@ -105,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "本信息包含一个事件的邀请。">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 
