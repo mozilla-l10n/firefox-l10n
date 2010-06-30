@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip "แสดงที่คั่นหน้าเว็บ">
 <!ENTITY bookmarksButton.accesskey  "ว">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้าเว็บ">
+<!ENTITY bookmarksMenuButton.tooltip        "แสดงที่คั่นหน้าเว็บของคุณ">
+<!ENTITY viewBookmarksSidebar.label         "แสดงในแถบข้าง">
+<!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้าเว็บ">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +164,10 @@
 <!ENTITY errorConsoleCmd.label "หน้าจอข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey "จ">
 <!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY hudConsoleCmd.label          "หน้าจอนักพัฒนา">
+<!ENTITY hudConsoleCmd.accesskey      "พ">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "ตรวจดู">
 <!ENTITY inspectMenu.accesskey        "ต">
@@ -228,11 +238,14 @@
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "พิมพ์">
+<!ENTITY appMenuCustomize.label "ปรับแต่ง">
+<!ENTITY appMenuToolbarLayout.label "รูปแบบแถบเครื่องมือ…">
+<!ENTITY appMenuSidebars.label "แถบข้าง">
+<!ENTITY appMenuHelp.label "ช่วยเหลือ">
+
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "ค้นหาที่คั่นหน้าเว็บและประวัติ">
-<!ENTITY urlbar.bookmark.emptyText    "ค้นหาที่คั่นหน้าเว็บ">
-<!ENTITY urlbar.history.emptyText     "ค้นหาประวัติ">
-<!ENTITY urlbar.none.emptyText        "พิมพ์ที่อยู่เว็บ">
+<!ENTITY urlbar.placeholder           "ไปยังเว็บไซต์">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
 
