@@ -38,7 +38,7 @@
 <!ENTITY sendNowCmd.accesskey           "t">
 <!ENTITY sendCmd.keycode                "VK_RETURN">
 <!ENTITY sendLaterCmd.label             "Wyślij później">
-<!ENTITY sendLaterCmd.accesskey         "p">
+<!ENTITY sendLaterCmd.accesskey         "W">
 <!ENTITY sendLaterCmd.keycode           "VK_RETURN">
 <!ENTITY printSetupCmd.label            "Ustawienia strony…">
 <!ENTITY printSetupCmd.accesskey        "e">
