@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "ติดตั้งส่วนเสริม">
-<!ENTITY view.languages.label                 "ภาษา">
+<!ENTITY view.locales.label                   "ภาษา">
 <!ENTITY view.searchengines.label             "เครื่องมือค้นหา">
 <!ENTITY view.features.label                  "ส่วนขยาย">
 <!ENTITY view.appearance.label                "ชุดตกแต่ง">
@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
 <!ENTITY cmd.uninstallAddon.tooltip           "ถอนการติดตั้งส่วนเสริมนี้">
+<!ENTITY cmd.showPreferences.label            "ปรับแต่ง">
+<!ENTITY cmd.showPreferences.tooltip          "ปรับแต่งส่วนเสริมนี้">
 <!ENTITY cmd.contribute.label                 "มีส่วนร่วม">
 <!ENTITY cmd.contribute.accesskey             "ม">
 <!ENTITY cmd.contribute.tooltip               "มีส่วนร่วมในการพัฒนาส่วนเสริมนี้">
@@ -67,7 +69,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "ความนิยมของคุณ:">
+<!ENTITY rating.label                         "คะแนน:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "หยุดชั่วคราว">
