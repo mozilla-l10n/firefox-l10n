@@ -109,7 +109,7 @@
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label                  "Opcje">
-<!ENTITY optionsMenu.accesskey              "j">
+<!ENTITY optionsMenu.accesskey              "O">
 <!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię…">
 <!ENTITY checkSpellingCmd2.accesskey        "r">
 <!ENTITY checkSpellingCmd2.key              "p">
@@ -118,40 +118,39 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label                     "Cytuj wiadomość">
 <!ENTITY quoteCmd.accesskey                 "C">
+<!ENTITY attachVCard.label                  "Dołącz wizytówkę (vCard)">
+<!ENTITY attachVCard.accesskey              "v">
+<!ENTITY returnReceiptMenu.label            "Żądaj potwierdzenia doręczenia">
+<!ENTITY returnReceiptMenu.accesskey        "d">
+<!ENTITY dsnMenu.label                      "Informuj o statusie dostarczania">
+<!ENTITY dsnMenu.accesskey                  "n">
+<!ENTITY outputFormatMenu.label             "Wyślij wiadomość jako">
+<!ENTITY outputFormatMenu.accesskey         "W">
+<!ENTITY autoFormatCmd.label                  "Wybierz automatycznie">
+<!ENTITY autoFormatCmd.accesskey              "a">
+<!ENTITY plainTextFormatCmd.label             "Tylko tekst">
+<!ENTITY plainTextFormatCmd.accesskey         "T">
+<!ENTITY htmlFormatCmd.label                  "Tylko HTML">
+<!ENTITY htmlFormatCmd.accesskey              "H">
+<!ENTITY bothFormatCmd.label                  "Tekst oraz HTML">
+<!ENTITY bothFormatCmd.accesskey              "z">
+<!ENTITY priorityMenu.label                 "Priorytet">
+<!ENTITY priorityMenu.accesskey             "e">
+<!ENTITY highestPriorityCmd.label             "Najwyższy">
+<!ENTITY highestPriorityCmd.accesskey         "N">
+<!ENTITY highPriorityCmd.label                "Wysoki">
+<!ENTITY highPriorityCmd.accesskey            "W">
+<!ENTITY normalPriorityCmd.label              "Normalny">
+<!ENTITY normalPriorityCmd.accesskey          "o">
+<!ENTITY lowPriorityCmd.label                 "Niski">
+<!ENTITY lowPriorityCmd.accesskey             "s">
+<!ENTITY lowestPriorityCmd.label              "Najniższy">
+<!ENTITY lowestPriorityCmd.accesskey          "a">
+<!ENTITY fileCarbonCopyCmd.label            "Zachowaj kopię wiadomości w folderze">
+<!ENTITY fileCarbonCopyCmd.accesskey        "a">
+<!ENTITY fileHereMenu.label                   "Zachowaj tutaj">
 
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label            "Dołącz wizytówkę (vCard)">
-<!ENTITY attachVCard.accesskey        "v">
-<!ENTITY returnReceiptMenu.label      "Żądaj potwierdzenia doręczenia">
-<!ENTITY returnReceiptMenu.accesskey  "p">
-<!ENTITY dsnMenu.label                "Informuj o statusie dostarczania">
-<!ENTITY dsnMenu.accesskey            "n">
-<!ENTITY outputFormatMenu.label       "Wyślij wiadomość jako">
-<!ENTITY outputFormatMenu.accesskey   "j">
-<!ENTITY autoFormatCmd.label          "Wybierz automatycznie">
-<!ENTITY autoFormatCmd.accesskey      "a">
-<!ENTITY plainTextFormatCmd.label     "Tylko tekst">
-<!ENTITY plainTextFormatCmd.accesskey "T">
-<!ENTITY htmlFormatCmd.label          "Tylko HTML">
-<!ENTITY htmlFormatCmd.accesskey      "H">
-<!ENTITY bothFormatCmd.label          "Tekst oraz HTML">
-<!ENTITY bothFormatCmd.accesskey      "o">
-<!ENTITY priorityMenu.label           "Priorytet">
-<!ENTITY priorityMenu.accesskey       "p">
-<!ENTITY priorityButton.label         "Priorytet:">
-<!ENTITY lowestPriorityCmd.label      "Najniższy">
-<!ENTITY lowestPriorityCmd.accesskey  "a">
-<!ENTITY lowPriorityCmd.label         "Niski">
-<!ENTITY lowPriorityCmd.accesskey     "i">
-<!ENTITY normalPriorityCmd.label      "Normalny">
-<!ENTITY normalPriorityCmd.accesskey  "N">
-<!ENTITY highPriorityCmd.label        "Wysoki">
-<!ENTITY highPriorityCmd.accesskey    "W">
-<!ENTITY highestPriorityCmd.label     "Najwyższy">
-<!ENTITY highestPriorityCmd.accesskey "j">
-<!ENTITY fileCarbonCopyCmd.label      "Zachowaj kopię wiadomości w folderze">
-<!ENTITY fileCarbonCopyCmd.accesskey  "h">
-<!ENTITY fileHereMenu.label           "Zachowaj tutaj">
+<!ENTITY priorityButton.label "Priorytet:">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                 "Narzędzia">
