@@ -1,8 +1,8 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label           "Opstellen &amp; Adressering">
+<!ENTITY addressing.label          "Opstellen &amp; adressering">
 <!ENTITY addressingGroupTitle.label "Adressering">
-<!ENTITY autocompleteToMyDomain.label     "Mijn domein automatisch toevoegen aan adressen">
+<!ENTITY autocompleteToMyDomain.label     "Automatisch mijn domein toevoegen aan adressen">
 <!ENTITY autocompleteToMyDomain.accesskey "u">
 <!ENTITY addressingText.label      "Bij het opzoeken van adressen:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -24,7 +24,7 @@
 <!ENTITY autoQuote.label                      "Automatisch het originele bericht citeren bij antwoorden">
 <!ENTITY autoQuote.accesskey                  "A">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Daarna ">
+<!ENTITY then.label                           "Daarna">
 <!ENTITY then.accesskey                       "D">
 <!ENTITY aboveQuote.label                     "mijn reactie boven de geciteerde tekst starten">
 <!ENTITY belowQuote.label                     "mijn reactie onder de geciteerde tekst starten">

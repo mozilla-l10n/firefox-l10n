@@ -1,26 +1,27 @@
-<!ENTITY pane.title "Leesbevestigingen">
-<!ENTITY useGlobalPrefs.label "Mijn algemene leesbevestigingsinstellingen gebruiken voor deze account">
-<!ENTITY useGlobalPrefs.accesskey "g">
-<!ENTITY useCustomPrefs.label "Leesbevestiging aanpassen voor deze account">
-<!ENTITY useCustomPrefs.accesskey "p">
-<!ENTITY requestReceipt.label "Altijd een leesbevestiging vragen bij het verzenden van berichten">
-<!ENTITY requestReceipt.accesskey "t">
-<!ENTITY receiptArrive.label "Als een leesbevestiging aankomt:">
-<!ENTITY leaveIt.label "Deze in mijn Postvak IN laten staan">
-<!ENTITY leaveIt.accesskey "l">
-<!ENTITY moveToSent.label "Deze naar mijn map &quot;Verzonden&quot; verplaatsen">
-<!ENTITY moveToSent.accesskey "v">
-<!ENTITY requestMDN.label "Als een verzoek voor een leesbevestiging aankomt:">
-<!ENTITY returnSome.label "In de volgende gevallen een leesbevestiging sturen">
-<!ENTITY returnSome.accesskey "o">
-<!ENTITY never.label "Nooit een leesbevestiging sturen">
-<!ENTITY never.accesskey "s">
-<!ENTITY notInToCc.label "Als ik niet in de Aan of CC van het bericht sta:">
-<!ENTITY notInToCc.accesskey "n">
-<!ENTITY outsideDomain.label "Als de afzender buiten mijn domein is:">
-<!ENTITY outsideDomain.accesskey "b">
-<!ENTITY otherCases.label "In alle andere gevallen:">
-<!ENTITY otherCases.accesskey "a">
-<!ENTITY askMe.label "Mij vragen">
-<!ENTITY alwaysSend.label "Altijd verzenden">
-<!ENTITY neverSend.label "Nooit verzenden">
+<!ENTITY pane.title                   "Leesbevestigingen">
+<!ENTITY useGlobalPrefs.label         "Mijn algemene leesbevestigingsinstellingen gebruiken voor deze account">
+<!ENTITY useGlobalPrefs.accesskey     "M">
+<!ENTITY useCustomPrefs.label         "Leesbevestigingen voor deze account aanpassen">
+<!ENTITY useCustomPrefs.accesskey     "L">
+<!ENTITY requestReceipt.label         "Altijd een leesbevestiging vragen bij het verzenden van berichten">
+<!ENTITY requestReceipt.accesskey     "A">
+<!ENTITY receiptArrive.label          "Als een leesbevestiging aankomt:">
+<!ENTITY leaveIt.label                "Deze in mijn Postvak IN laten staan">
+<!ENTITY leaveIt.accesskey            "P">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Deze naar mijn map “Verzonden” verplaatsen">
+<!ENTITY moveToSent.accesskey         "D">
+<!ENTITY requestMDN.label             "Als ik een verzoek voor een leesbevestiging ontvang:">
+<!ENTITY returnSome.label             "Leesbevestigingen bij sommige berichten toestaan">
+<!ENTITY returnSome.accesskey         "o">
+<!ENTITY never.label                  "Nooit een leesbevestiging sturen">
+<!ENTITY never.accesskey              "N">
+<!ENTITY notInToCc.label              "Als ik niet in de Aan of Cc van het bericht sta:">
+<!ENTITY notInToCc.accesskey          "e">
+<!ENTITY outsideDomain.label          "Als de afzender zich buiten mijn domein bevindt:">
+<!ENTITY outsideDomain.accesskey      "b">
+<!ENTITY otherCases.label             "In alle andere gevallen:">
+<!ENTITY otherCases.accesskey         "r">
+<!ENTITY askMe.label                  "Mij vragen">
+<!ENTITY alwaysSend.label             "Altijd verzenden">
+<!ENTITY neverSend.label              "Nooit verzenden">

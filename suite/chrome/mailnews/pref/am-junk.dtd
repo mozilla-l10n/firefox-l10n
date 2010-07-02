@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Ongewenste-berichteninstellingen">
-<!ENTITY trainingWarning.label "Wanneer geactiveerd, moet &brandShortName; eerst worden getraind om ongewenste berichten te identificeren. Dit gebeurt door met de werkbalkknop &quot;Ongewenst&quot; aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren.">
-<!ENTITY level.label "Zelflerende ongewenste-berichtendetectie voor deze account activeren">
-<!ENTITY level.accesskey "a">
+<!ENTITY junkSettings.label "Ongewensteberichteninstellingen">
+<!ENTITY trainingWarning.label "Indien geactiveerd, moet &brandShortName; eerst worden getraind in het identificeren van ongewenste berichten. Dit gebeurt door met de werkbalkknop “Ongewenst” aan te geven of berichten wel of niet ongewenst zijn. U moet zowel ongewenste als gewenste berichten identificeren.">
+<!ENTITY level.label "Zelflerende ongewensteberichtendetectie voor deze account activeren">
+<!ENTITY level.accesskey "Z">
 
 <!ENTITY move.label "Nieuwe ongewenste berichten verplaatsen naar:">
 <!ENTITY move.accesskey "N">
-<!ENTITY junkFolderOn.label "map &quot;Ongewenst&quot; in:">
+<!ENTITY junkFolderOn.label "map “Ongewenst” in:">
 <!ENTITY junkFolderOn.accesskey "O">
 <!ENTITY otherFolder.label "Anders:">
-<!ENTITY otherFolder.accesskey "r">
+<!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Ongewenste berichten ouder dan">
-<!ENTITY purge1.accesskey "a">
+<!ENTITY purge1.accesskey "d">
 <!ENTITY purge2.label "dagen automatisch uit deze map verwijderen">
 
 <!ENTITY whitelist.label "Berichten niet als ongewenst markeren als de afzender voorkomt in mijn: ">
 <!ENTITY whitelist.accesskey "m">
 
-<!ENTITY ispHeaders.label "Ongewenst-berichtkoppen vertrouwen die zijn ingesteld door: ">
-<!ENTITY ispHeaders.accesskey "v">
+<!ENTITY ispHeaders.label "Ongewenstberichtkopregels vertrouwen die zijn ingesteld door: ">
+<!ENTITY ispHeaders.accesskey "u">

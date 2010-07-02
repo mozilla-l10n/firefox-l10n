@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.network.title               "Netwerk &amp; Schijfruimte">
+<!ENTITY pref.network.title               "Netwerk &amp; schijfruimte">
 <!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Bij het opstarten:">
 <!ENTITY textStartUp.accesskey            "B">
@@ -9,7 +9,7 @@
 <!ENTITY menuitemAskMe                    "Mij de onlinetoestand vragen">
 <!ENTITY menuitemAlwaysOnline             "Altijd online opstarten">
 <!ENTITY menuitemAlwaysOffline            "Altijd offline opstarten">
-<!ENTITY menuitemAutomatic                "Automatisch detecteren (als beschikbaar)">
+<!ENTITY menuitemAutomatic                "Automatisch detecteren (mits beschikbaar)">
 <!ENTITY textGoingOnline                  "Wilt u niet-verzonden berichten verzenden als u online gaat?">
 <!ENTITY radioAutoSend                    "Ja">
 <!ENTITY radioAutoSend.accesskey          "J">
@@ -24,11 +24,11 @@
 <!ENTITY radioNotDownload.accesskey       "e">
 <!ENTITY radioAskDownload                 "Mij vragen">
 <!ENTITY radioAskDownload.accesskey       "r">
-<!ENTITY mailConnections.caption          "Mailverbindingen">
-<!ENTITY mailnewsTimeout.label            "Verbindingstimeout:">
+<!ENTITY mailConnections.caption          "E-mailverbindingen">
+<!ENTITY mailnewsTimeout.label            "Verbindingstime-out:">
 <!ENTITY mailnewsTimeout.accesskey        "t">
 <!ENTITY mailnewsTimeoutSeconds.label     "seconden">
 <!ENTITY Diskspace                        "Schijfruimte">
 <!ENTITY offlineCompact.label             "Mappen comprimeren als het meer bespaart dan">
-<!ENTITY offlineCompact.accesskey         "p">
+<!ENTITY offlineCompact.accesskey         "c">
 <!ENTITY kb.label                         "KB">

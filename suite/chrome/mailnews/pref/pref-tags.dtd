@@ -37,8 +37,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.tags.title            "Labels">
-<!ENTITY pref.tags.caption          "Aangepaste labels">
-<!ENTITY pref.tags.description      "Labels kunnen gebruikt worden om uw berichten prioriteiten en categorien te geven. Pas de kleur en belangrijkheid aan met de instelling hieronder. Labels hoger in de lijst zijn belangrijker als degene onderaan.">
+<!ENTITY pref.tags.caption          "Labels aanpassen">
+<!ENTITY pref.tags.description      "Labels kunnen worden gebruikt om uw berichten prioriteiten en categorieën te geven. Pas de kleur en het belang aan met de instellingen hieronder. Labels hoger in de lijst zijn belangrijker dan die eronder.">
 <!ENTITY tagColumn.label            "Label">
 <!ENTITY colorColumn.label          "Kleur">
 <!ENTITY defaultTagName.label       "Label zonder titel">
@@ -46,9 +46,9 @@
 <!ENTITY addTagButton.accesskey     "T">
 <!ENTITY deleteTagButton.label      "Verwijderen">
 <!ENTITY deleteTagButton.accesskey  "V">
-<!ENTITY raiseTagButton.label       "Belangrijkheid verhogen">
-<!ENTITY raiseTagButton.accesskey   "R">
-<!ENTITY lowerTagButton.label       "Belangrijkeid verlagen">
-<!ENTITY lowerTagButton.accesskey   "L">
-<!ENTITY restoreButton.label        "Standaard herstellen">
+<!ENTITY raiseTagButton.label       "Belang verhogen">
+<!ENTITY raiseTagButton.accesskey   "o">
+<!ENTITY lowerTagButton.label       "Belang verlagen">
+<!ENTITY lowerTagButton.accesskey   "a">
+<!ENTITY restoreButton.label        "Standaardwaarden herstellen">
 <!ENTITY restoreButton.accesskey    "S">

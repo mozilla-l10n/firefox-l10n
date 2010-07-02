@@ -24,8 +24,8 @@
    Ian Neal <bugzilla@arlen.demon.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -38,14 +38,14 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.character.encoding.title   "Tekenset">
-<!ENTITY messageDisplay.caption          "Berichtenvenster">
+<!ENTITY messageDisplay.caption          "Berichtenweergave">
 <!ENTITY viewDefaultCharset.label        "Standaard tekenset:">
-<!ENTITY viewDefaultCharset.accesskey    "D">
+<!ENTITY viewDefaultCharset.accesskey    "S">
 
 <!ENTITY composingMessages.caption       "Berichten opstellen">
 <!ENTITY useMIME.label                   "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">
 <!ENTITY useMIME.accesskey               "o">
 <!ENTITY sendDefaultCharset.label        "Standaard tekenset:">
-<!ENTITY sendDefaultCharset.accesskey    "T">
-<!ENTITY replyInDefaultCharset2.label    "Wanneer mogelijk, standaard tekenset gebruiken in antwoorden">
-<!ENTITY replyInDefaultCharset2.accesskey "b">
+<!ENTITY sendDefaultCharset.accesskey    "t">
+<!ENTITY replyInDefaultCharset2.label    "Wanneer mogelijk, deze standaard tekenset gebruiken in antwoorden. (Wanneer niet aangevinkt, gebruiken alleen nieuwe berichten deze standaardwaarde.)">
+<!ENTITY replyInDefaultCharset2.accesskey "W">

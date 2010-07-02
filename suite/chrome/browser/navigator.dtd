@@ -145,7 +145,7 @@
 <!ENTITY printButton.label            "Afdrukken">
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
 
-<!ENTITY throbber.tooltip             "Naar de &vendorShortName;-beginpagina gaan">
+<!ENTITY throbber.tooltip             "Naar de &vendorShortName;-startpagina">
 
 <!ENTITY locationBar.tooltip          "Voer een zoekterm, sleutelwoord of webadres in">
 <!ENTITY locationBar.accesskey        "d">
