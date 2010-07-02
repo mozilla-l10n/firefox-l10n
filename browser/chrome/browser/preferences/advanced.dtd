@@ -57,8 +57,8 @@
 <!ENTITY enableAppUpdate.accesskey       "f">
 <!ENTITY enableAddonsUpdate2.label       "Tuilleadain">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Innealan-luirg">
-<!ENTITY enableSearchUpdate.accesskey    "g">
+<!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
+<!ENTITY enableSearchUpdate.accesskey    "n">
 <!ENTITY whenUpdatesFound.label          "Nuair a thèid ùrachadh a lorg airson &brandShortName;:">
 <!ENTITY askMe.label                     "Faighnich dhìom na tha mi airson dèanamh">
 <!ENTITY askMe.accesskey                 "m">

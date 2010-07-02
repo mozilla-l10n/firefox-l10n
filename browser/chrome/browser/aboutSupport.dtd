@@ -30,4 +30,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "Eachdraidh stàlaidh">
 <!ENTITY aboutSupport.updateHistoryTitle "Eachdraidh nan ùrachaidhean">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Cuir leth-bhreac dhe na h-uile air a' bhòrd-chliopaichean">
+<!ENTITY aboutSupport.copyToClipboard.label "Cuir lethbhreac dhe na h-uile air a' bhòrd-chliopaichean">

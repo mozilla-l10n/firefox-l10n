@@ -59,8 +59,8 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Dèan leth-bhreac">
-<!ENTITY copyPref.accesskey "l">
+<!ENTITY copyPref.label "Dèan lethbhreac">
+<!ENTITY copyPref.accesskey "c">
 <!ENTITY copyName.label "Dèan lethbhreac dhen ainm">
 <!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Dèan lethbhreac dhen luach">

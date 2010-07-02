@@ -18,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Facal-luirg:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "F">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Seall a h-uile taga">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Luchdaich an comharra-lìn seo sa chrann-taoibh">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Luchdaich an comharra-lìn seo sa bhàr-taoibh">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "Tagh…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Pasgan ùr">

@@ -54,7 +54,7 @@
 <!ENTITY resetUserPrefs.label         "Aisig gach roghainn a' chleachdaiche gu roghainnean bunaiteach &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "g">
 
-<!ENTITY restoreSearch.label          "Aisig na h-innealan-luirg bunaiteach">
+<!ENTITY restoreSearch.label          "Aisig na h-einnseanan-luirg bunaiteach">
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Cuir na h-atharrachaidhean an gnìomh is ath-thòisich">

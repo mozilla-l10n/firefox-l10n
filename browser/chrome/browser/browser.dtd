@@ -48,7 +48,7 @@
 <!ENTITY pageInfoCmd.label "Fiosrachadh na duilleige">
 <!ENTITY pageInfoCmd.accesskey "F">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Làn-sgàilean">
+<!ENTITY fullScreenCmd.label "Làn-sgrìn">
 <!ENTITY fullScreenCmd.accesskey "L">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Seall gach taba">
@@ -59,7 +59,7 @@
 <!ENTITY fullScreenClose.tooltip "Dùin">
 <!ENTITY fullScreenAutohide.label "Cuir bàraichean-inneil am falach">
 <!ENTITY fullScreenAutohide.accesskey "C">
-<!ENTITY fullScreenExit.label "Fàg modh an làn-sgàilein">
+<!ENTITY fullScreenExit.label "Fàg modh na làn-sgrìn">
 <!ENTITY fullScreenExit.accesskey "l">
 
 <!ENTITY closeWindow.label "Dùin an uinneag">
@@ -155,16 +155,16 @@
 <!ENTITY cutCmd.label           "Gearr às">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "s"> 
-<!ENTITY copyCmd.label            "Dèan leth-bhreac">  
+<!ENTITY copyCmd.label            "Dèan lethbhreac">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "l"> 
+<!ENTITY copyCmd.accesskey          "c"> 
 <!ENTITY pasteCmd.label           "Cuir ann">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "C"> 
 <!ENTITY deleteCmd.label          "Sguab às">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
-<!ENTITY selectAllCmd.label         "Tagh na h-uile">  
+<!ENTITY selectAllCmd.label         "Tagh a h-uile">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "T"> 
 <!ENTITY preferencesCmd.label       "Roghainnean…">
@@ -186,7 +186,7 @@
 <!ENTITY viewMenu.accesskey       "S"> 
 <!ENTITY viewToolbarsMenu.label       "Na bàraichean-inneil"> 
 <!ENTITY viewToolbarsMenu.accesskey     "N"> 
-<!ENTITY viewSidebarMenu.label "An crann-taoibh">
+<!ENTITY viewSidebarMenu.label "Am bàr-taoibh">
 <!ENTITY viewSidebarMenu.accesskey "t">
 <!ENTITY viewCustomizeToolbar.label       "Gnàthaich…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "G">
@@ -261,8 +261,8 @@
 <!ENTITY viewFrameInfoCmd.accesskey   "m">
 <!ENTITY reloadImageCmd.label         "Ath-luchdaich an dealbh">
 <!ENTITY reloadImageCmd.accesskey     "A">
-<!ENTITY viewImageCmd.label           "Seall an dealbh leis fhèin">
-<!ENTITY viewImageCmd.accesskey       "f">
+<!ENTITY viewImageCmd.label           "Seall an dealbh 'na aonar">
+<!ENTITY viewImageCmd.accesskey       "o">
 <!ENTITY viewImageInfoCmd.label       "Seall fiosrachadh an deilbh">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Coimhead air video">
@@ -304,20 +304,20 @@
 <!ENTITY sendVideoCmd.accesskey       "e">
 <!ENTITY sendAudioCmd.label           "Seòl an fhuaim…">
 <!ENTITY sendAudioCmd.accesskey       "l">
-<!ENTITY copyLinkCmd.label            "Dèan leth-bhreac de sheòladh a' cheangail">
-<!ENTITY copyLinkCmd.accesskey        "s">
-<!ENTITY copyLinkTextCmd.label        "Dèan leth-bhreac de theacs a' cheangail">
-<!ENTITY copyLinkTextCmd.accesskey    "i">
-<!ENTITY copyImageCmd.label           "Dèan leth-bhreac de sheòladh an deilbh">
-<!ENTITY copyImageCmd.accesskey       "h">
-<!ENTITY copyImageContentsCmd.label   "Dèan leth-bhreac dhen dealbh">
-<!ENTITY copyImageContentsCmd.accesskey  "d"> 
-<!ENTITY copyVideoURLCmd.label        "Dèan leth-bhreac de sheòladh a' video">
-<!ENTITY copyVideoURLCmd.accesskey    "d">
-<!ENTITY copyAudioURLCmd.label        "Dèan leth-bhreac de sheòladh na fuaime">
-<!ENTITY copyAudioURLCmd.accesskey    "d">
+<!ENTITY copyLinkCmd.label            "Dèan lethbhreac de sheòladh a' cheangail">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkTextCmd.label        "Dèan lethbhreac de theacs a' cheangail">
+<!ENTITY copyLinkTextCmd.accesskey    "h">
+<!ENTITY copyImageCmd.label           "Dèan lethbhreac de sheòladh an deilbh">
+<!ENTITY copyImageCmd.accesskey       "D">
+<!ENTITY copyImageContentsCmd.label   "Dèan lethbhreac dhen dealbh">
+<!ENTITY copyImageContentsCmd.accesskey  "D"> 
+<!ENTITY copyVideoURLCmd.label        "Dèan lethbhreac de sheòladh a' video">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Dèan lethbhreac de sheòladh na fuaime">
+<!ENTITY copyAudioURLCmd.accesskey    "D">
 <!ENTITY blockImageCmd.accesskey      "B">
-<!ENTITY copyEmailCmd.label           "Dèan leth-bhreac dhen t-seòladh phuist-d">
+<!ENTITY copyEmailCmd.label           "Dèan lethbhreac de sheòladh a' phuist-dhealain">
 <!ENTITY copyEmailCmd.accesskey       "p">
 <!ENTITY thisFrameMenu.label              "Am frèam seo">
 <!ENTITY thisFrameMenu.accesskey          "r">
@@ -366,12 +366,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Fosgail taba ùr">
 <!ENTITY newWindowButton.tooltip        "Fosgail uinneag ùr">
-<!ENTITY sidebarCloseButton.tooltip     "Dùin an crann-taoibh">
+<!ENTITY sidebarCloseButton.tooltip     "Dùin am bàr-taoibh">
 
 <!ENTITY cutButton.tooltip              "Gearr às">
-<!ENTITY copyButton.tooltip             "Dèan leth-bhreac">
+<!ENTITY copyButton.tooltip             "Dèan lethbhreac">
 <!ENTITY pasteButton.tooltip            "Cuir ann">
-<!ENTITY fullScreenButton.tooltip       "Seall an uinneag san sgàilean iomlan">
+<!ENTITY fullScreenButton.tooltip       "Seall an uinneag air an làn-sgrìn">
 
 <!ENTITY quitApplicationCmdWin.label       "Fàg an-seo"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "F">

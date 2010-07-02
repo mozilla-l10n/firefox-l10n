@@ -69,7 +69,7 @@
 
 <!ENTITY sharedLongDesc "<ul> <li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann tàmaill.</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a' choimpiutair agad ris an lìonra.</li> <li>Ma tha an coimpiutair no an lìonra agad 'ga dhìon le chachaileth-theine no progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li></ul>">
 
-<!ENTITY malwareBlocked.title "Amharas gur làrach ionnsaighe a tha seo!">
+<!ENTITY malwareBlocked.title "Amharas gur e làrach ionnsaighe a tha seo!">
 <!ENTITY malwareBlocked.longDesc "<p>Feuchaidh làraichean ionnsaighe ri prògraman a stàladh a ghoideas fiosrachadh prìobhaideach ort, a chleachdas an coimpiutair agad gus ionnsaigh a thoirt air feadhainn eile no gus cron a chur air an inneal agad.</p> <p>Ma tha cuideigin sa bheachd gun deach aithris a dhèanamh air an làrach aca mar làrach ionnsaighe air mhearachd, 's urrainn dhaibh <a href='http://www.stopbadware.org/home/reviewinfo' >ath-bhreitheanas iarraidh</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Amharas gur e fallsaicheachd-lìn a tha seo!">

@@ -19,7 +19,7 @@
 <!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label         "Notaichean sgaoilidh">
+<!ENTITY helpReleaseNotes.label         "Nòtaichean sgaoilidh">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshooting.label      "Taic le duilgheadasan...">

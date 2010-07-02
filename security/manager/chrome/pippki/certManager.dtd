@@ -117,8 +117,8 @@
 <!ENTITY certmgr.export.accesskey             "o">
 <!ENTITY certmgr.delete2.label                "Sguab às…">
 <!ENTITY certmgr.delete2.accesskey            "b">
-<!ENTITY certmgr.backup2.label                "Dèan leth-bhreac glèidhidh…">
-<!ENTITY certmgr.backup2.accesskey            "l">
+<!ENTITY certmgr.backup2.label                "Dèan lethbhreac glèidhidh…">
+<!ENTITY certmgr.backup2.accesskey            "b">
 <!ENTITY certmgr.backupall2.label             "Dèan lethbhreac-glèidhidh dhen a h-uile…">
 <!ENTITY certmgr.backupall2.accesskey         "c">
 <!ENTITY certmgr.restore2.label               "Ion-phortaich…">

@@ -42,22 +42,22 @@
 <!ENTITY cmd.importHTML.label           "Ion-phortaich HTML…">
 <!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label               "Dèan leth-bhreac glèidhidh…">
-<!ENTITY cmd.backup.accesskey           "l">
+<!ENTITY cmd.backup.label               "Dèan lethbhreac glèidhidh…">
+<!ENTITY cmd.backup.accesskey           "b">
 <!ENTITY cmd.restore2.label             "Aisig">
 <!ENTITY cmd.restore2.accesskey         "A">
 <!ENTITY cmd.restoreFromFile.label      "Tagh faidhle…">
 <!ENTITY cmd.restoreFromFile.accesskey  "g">
 
-<!ENTITY cmd.select_all.label "Tagh na h-uile">
+<!ENTITY cmd.select_all.label "Tagh a h-uile">
 <!ENTITY cmd.select_all.accesskey "T">
 <!ENTITY cmd.select_all.key "a">
 
 <!ENTITY cmd.edit_cut.label         "Gearr às">
 <!ENTITY cmd.edit_cut.accesskey     "s">
 <!ENTITY cmd.edit_cut.key           "L">
-<!ENTITY cmd.edit_copy.label        "Dèan leth-bhreac">
-<!ENTITY cmd.edit_copy.accesskey    "l">
+<!ENTITY cmd.edit_copy.label        "Dèan lethbhreac">
+<!ENTITY cmd.edit_copy.accesskey    "c">
 <!ENTITY cmd.edit_copy.key          "c">
 <!ENTITY cmd.edit_paste.label       "Cuir ann">
 <!ENTITY cmd.edit_paste.accesskey   "C">
@@ -195,7 +195,7 @@
 
 <!ENTITY view.addons.label   "Faigh tuilleadan seallaidh">
 
-<!ENTITY maintenance.label      "Ion-phortaich is dèan leth-bhreac glèidhidh">
+<!ENTITY maintenance.label      "Ion-phortaich is dèan lethbhreac glèidhidh">
 <!ENTITY maintenance.accesskey  "I">
 
 <!ENTITY backCmd.label       "Air ais">

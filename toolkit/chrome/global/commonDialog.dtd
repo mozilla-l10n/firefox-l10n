@@ -4,7 +4,7 @@
 <!ENTITY editfield1.label "Facal-faire:"> 
 <!ENTITY editfield2.label "Dearbhaich am facal-faire:"> 
 <!ENTITY checkbox.label   "cuir cromag">
-<!ENTITY copyCmd.label    "Dèan leth-bhreac">
-<!ENTITY copyCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Tagh na h-uile">
+<!ENTITY copyCmd.label    "Dèan lethbhreac">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY selectAllCmd.label "Tagh a h-uile">
 <!ENTITY selectAllCmd.accesskey "T">
