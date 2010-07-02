@@ -159,8 +159,12 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY hudConsoleCmd.label          "Instrumentpanel">
+<!ENTITY hudConsoleCmd.accesskey      "u">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Inspiser">
-<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.accesskey        "r">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY fileMenu.label         "Fil">

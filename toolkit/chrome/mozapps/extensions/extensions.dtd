@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
 <!ENTITY cmd.uninstallAddon.tooltip           "Avinstaller denne utvidelsen">
+<!ENTITY cmd.showPreferences.label            "Innstillinger">
+<!ENTITY cmd.showPreferences.tooltip          "Endre denne utvidelsens innstillinger">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bidra til utviklingen av denne utvidelsen">
@@ -67,7 +69,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Din vurdering:">
+<!ENTITY rating.label                         "Vurdering:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
