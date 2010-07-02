@@ -2,7 +2,6 @@
 <!ENTITY message.label    "Eksempeltekst her.">
 <!ENTITY editfield0.label "Brukernavn:">
 <!ENTITY editfield1.label "Passord:">
-<!ENTITY editfield2.label "Bekreft passord:">
 <!ENTITY checkbox.label   "check">
 <!ENTITY copyCmd.label    "Kopier">
 <!ENTITY copyCmd.accesskey "K">
