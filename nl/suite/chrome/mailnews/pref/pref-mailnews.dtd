@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,16 +35,16 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.mailnews.title              "E-mail &amp; Nieuwsgroepen">
+<!ENTITY pref.mailnews.title              "Mail &amp; nieuwsgroepen">
 <!ENTITY generalSettings.caption          "Algemene instellingen">
-<!ENTITY confirmMove.label                "Bij het verplaatsen van mappen naar de prullenbak om bevestiging vragen">
-<!ENTITY confirmMove.accesskey            "C">
-<!ENTITY preserveThreading.label          "Berichtenconversaties bij elkaar houden bij het sorteren van berichten">
+<!ENTITY confirmMove.label                "Bevestiging vragen bij het verplaatsen van mappen naar de prullenbak">
+<!ENTITY confirmMove.accesskey            "B">
+<!ENTITY preserveThreading.label          "Berichtconversaties bij elkaar houden bij het sorteren van berichten">
 <!ENTITY preserveThreading.accesskey      "v">
-<!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van E-mail &amp; Nieuwsgroepen">
+<!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van Mail &amp; nieuwsgroepen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "A">
 
-<!ENTITY defaultMailSettings.description  "&brandShortName; gebruiken als de standaardtoepassing voor:">
+<!ENTITY defaultMailSettings.description  "&brandShortName; als de standaardtoepassing gebruiken voor:">
 <!ENTITY setDefaultMail.label             "E-mail">
 <!ENTITY setDefaultMail.accesskey         "M">
 <!ENTITY setDefaultNews.label             "Nieuws">
@@ -52,12 +52,12 @@
 <!ENTITY setDefaultFeed.label             "Feeds">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
-<!ENTITY messengerStartPage.caption       "E-mail startpagina">
+<!ENTITY messengerStartPage.caption       "E-mail-startpagina">
 <!ENTITY enableStartPage.label            "Wanneer Mail start, de startpagina in het berichtgedeelte tonen">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Locatie:">
 <!ENTITY location.accesskey               "L">
 <!ENTITY useDefault.label                 "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey             "S">
-<!ENTITY rememberLastMsg.label            "Onthoud het laatste geselecteerde bericht">
-<!ENTITY rememberLastMsg.accesskey        "e">
+<!ENTITY rememberLastMsg.label            "Het laatst geselecteerde bericht onthouden">
+<!ENTITY rememberLastMsg.accesskey        "t">

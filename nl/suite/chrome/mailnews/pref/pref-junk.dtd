@@ -19,7 +19,6 @@
    -
    - Contributor(s):
    -   Scott MacGregor <mscott@mozilla.org> (original Thunderbird parts)
-   -   Mozilla-nl
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,39 +33,40 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+   
 <!ENTITY pref.junk.title "Ongewenste berichten">
-<!ENTITY junkSettings.caption "Globale ongewenste-berichteninstellingen">
-<!ENTITY junkMail.intro "Stel uw standaardinstellingen voor ongewenste-berichtendetectie in. Accountspecifieke instellingen kunnen worden geconfigureerd in Accountinstellingen.">
+<!ENTITY junkSettings.caption "Algemene ongewensteberichteninstellingen">
+<!ENTITY junkMail.intro "Ga naar Accountinstellingen om accountspecifieke ongewensteberichteninstellingen te configureren.">
 
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map &quot;Ongewenst&quot; van de account">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "ze verwijderen">
+<!ENTITY manualMark.label               "Wanneer ik berichten markeer als ongewenst:">
+<!ENTITY manualMark.accesskey           "W">
+<!ENTITY manualMarkModeMove.label       "ze verplaatsen naar de map “Ongewenst” van de account">
+<!ENTITY manualMarkModeMove.accesskey   "z">
+<!ENTITY manualMarkModeDelete.label     "ze verwijderen">
 <!ENTITY manualMarkModeDelete.accesskey "v">
 
-<!ENTITY markAsRead.intro               "Markeer berichten als gelezen:">
+<!ENTITY markAsRead.intro               "Berichten markeren als gelezen:">
 <!ENTITY autoMarkAsRead.label           "Wanneer &brandShortName; berichten detecteert als ongewenst">
 <!ENTITY autoMarkAsRead.accesskey       "d">
-<!ENTITY manualMarkAsRead.label         "Wanneer ik berichten markeer als ongewenst">
+<!ENTITY manualMarkAsRead.label         "Wanneer ik ze markeer als ongewenst">
 <!ENTITY manualMarkAsRead.accesskey     "k">
 
-<!ENTITY enableJunkLogging.label "Ongewenste-berichtenlogboek activeren">
-<!ENTITY enableJunkLogging.accesskey "a">
-<!ENTITY openJunkLog.label "Logboek tonen">
-<!ENTITY openJunkLog.accesskey "L">
-<!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">
-<!ENTITY resetTrainingData.accesskey "r">
+<!ENTITY enableJunkLogging.label        "Ongewensteberichtenlogboek activeren">
+<!ENTITY enableJunkLogging.accesskey    "O">
+<!ENTITY openJunkLog.label              "Logboek tonen">
+<!ENTITY openJunkLog.accesskey          "L">
+<!ENTITY resetTrainingData.label        "Trainingsgegevens herinitialiseren">
+<!ENTITY resetTrainingData.accesskey    "T">
 
-<!ENTITY pref.suspectMail.caption       "Verdachte mail">
+<!ENTITY pref.suspectMail.caption         "Verdachte e-mail">
 
 <!-- Phishing Detector -->
-<!ENTITY pref.phishing.caption            "Phishing e-mails">
-<!ENTITY enablePhishingDetector.label     "Het mij vertellen als een bericht dat ik lees mogelijk een phishing e-mail is">
-<!ENTITY enablePhishingDetector.accesskey "m">
+<!ENTITY pref.phishing.caption            "E-mailscams">
+<!ENTITY enablePhishingDetector.label     "Mij vertellen of het gelezen bericht een vermoedelijke e-mailscam is">
+<!ENTITY enablePhishingDetector.accesskey "M">
 
 <!-- Anti Virus -->
 <!ENTITY pref.antivirus.caption           "Antivirus">
-<!ENTITY antiVirus.label                  "Antivirusprogramma's toestaan om inkomende berichten gemakkelijker te scannen">
+<!ENTITY antiVirus.label                  "Antivirusprogramma’s toestaan om inkomende berichten gemakkelijker te scannen">
 <!ENTITY antiVirus.accesskey              "A">

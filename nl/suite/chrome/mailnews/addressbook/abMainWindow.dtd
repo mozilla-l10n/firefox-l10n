@@ -126,7 +126,7 @@
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteItemButton.tooltip                       "Geselecteerde item verwijderen">
-<!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-website gaan">
+<!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-startpagina">
 <!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 
 <!-- Status Bar -->  

@@ -20,10 +20,11 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -36,37 +37,37 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY pref.formatting.title        "Verzendopmaak">
-<!ENTITY sendMaildesc.label           "Wanneer geformateerde (HTML) berichten worden verzonden en een of meer ontvangers niet op de lijst staan als zijnde in staat HTML te ontvangen:">
-<!ENTITY askMe.label                  "Vraag mij wat te doen (Mail vraagt u een opmaak te kiezen)">
-<!ENTITY askMe.accesskey              "V">
-<!ENTITY convertPlain.label           "Converteer het bericht naar platte tekst (bepaalde opmaak kan verloren gaan)">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Het bericht toch als geformateerde tekst (HTML) verzenden (sommige mailprogramma’s kunnen het mogelijk niet weergeven)">
-<!ENTITY sendHTML.accesskey           "H">
-<!ENTITY sendBoth.label               "Verzend bericht zowel als platte tekst als HTML (grotere berichtgrootte)">
-<!ENTITY sendBoth.accesskey           "P">
-<!ENTITY override.label               "U kunt deze instellingen negeren voor individuele berichten door het menu Opties te gebruiken bij het opstellen van een bericht.">
+<!ENTITY sendMaildesc.label           "Wanneer opgemaakte (HTML-)berichten worden verzonden en van één of meer ontvangers niet bekend is of ze HTML kunnen ontvangen:">
+<!ENTITY askMe.label                  "Mij vragen wat te doen (Mail vraagt u een opmaak te kiezen)">
+<!ENTITY askMe.accesskey              "v">
+<!ENTITY convertPlain.label           "Het bericht converteren naar platte tekst (bepaalde opmaak kan verloren gaan)">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "Het bericht toch als opgemaakte tekst (HTML) verzenden (sommige mailprogramma’s kunnen het mogelijk niet weergeven)">
+<!ENTITY sendHTML.accesskey           "M">
+<!ENTITY sendBoth.label               "Het bericht in zowel platte tekst als HTML verzenden (grotere berichtgrootte)">
+<!ENTITY sendBoth.accesskey           "z">
+<!ENTITY override.label               "U kunt deze instellingen voor individuele berichten negeren door het menu Opties te gebruiken tijdens het opstellen van een bericht.">
 
 <!-- Html and Plain Text Domains  -->
-<!ENTITY domain.title                 "HTML en platte tekst domeinen">
-<!ENTITY domaindesc.label             "Wanneer u een bericht verzendt naar een adres met een van de hieronder genoemde domeinnamen zal Mail het bericht automatisch in de correcte opmaak verzenden (geformateerde tekst of platte tekst).">
-<!ENTITY HTMLdomaintitle.label        "HTML domeinen">
+<!ENTITY domain.title                 "HTML- en plattetekstdomeinen">
+<!ENTITY domaindesc.label             "Wanneer u een bericht verzendt naar een adres met één van de hieronder genoemde domeinnamen, zal Mail het bericht automatisch in de opmaak van uw voorkeur verzenden (opgemaakte tekst of platte tekst).">
+<!ENTITY HTMLdomaintitle.label        "HTML-domeinen">
 <!ENTITY HTMLdomaintitle.accesskey    "T">
-<!ENTITY PlainTexttitle.label         "Platte tekstdomeinen">
-<!ENTITY PlainTexttitle.accesskey     "L">
+<!ENTITY PlainTexttitle.label         "Plattetekstdomeinen">
+<!ENTITY PlainTexttitle.accesskey     "P">
 <!ENTITY AddButton.label              "Toevoegen…">
-<!ENTITY AddHtmlDomain.accesskey      "O">
-<!ENTITY AddPlainText.accesskey       "E">
+<!ENTITY AddHtmlDomain.accesskey      "o">
+<!ENTITY AddPlainText.accesskey       "e">
 <!ENTITY DeleteButton.label           "Verwijderen">
-<!ENTITY DeleteHtmlDomain.accesskey   "R">
-<!ENTITY DeletePlainText.accesskey    "W">
+<!ENTITY DeleteHtmlDomain.accesskey   "r">
+<!ENTITY DeletePlainText.accesskey    "w">
 
-<!-- Add HTML Domain Name -->
-<!ENTITY add.htmltitle                "HTML domeinnaam toevoegen">
-<!ENTITY add.htmldomain               "HTML domeinnaam:">
-<!ENTITY add.plaintexttitle           "Platte tekstdomeinnaam toevoegen">
-<!ENTITY add.plaintextdomain          "Platte tekstdomeinnaam:">
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "HTML-domeinnaam toevoegen">
+<!ENTITY add.htmldomain               "HTML-domeinnaam:">
+<!ENTITY add.plaintexttitle           "Plattetekstdomeinnaam toevoegen">
+<!ENTITY add.plaintextdomain          "Plattetekstdomeinnaam:">
 
-<!ENTITY domainnameError.title        "Domeinnaam fout">
+<!ENTITY domainnameError.title        "Domeinnaamfout">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label      "De Domeinnaam @string@ is ongeldig en wordt genegeerd. Geldige domeinnamen bevatten minstens een '.' met karakters aan elke kant daarvan.">
+<!ENTITY invalidEntryError.label      "De domeinnaam @string@ is ongeldig en zal worden genegeerd. Geldige domeinnamen bevatten minstens één ‘.’ met tekens aan beide zijden ervan.">

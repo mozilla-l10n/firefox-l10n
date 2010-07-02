@@ -510,7 +510,7 @@
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY printButton.tooltip "Dit bericht afdrukken">
 <!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
-<!ENTITY throbber.tooltip "Naar de &vendorShortName;-thuispagina gaan">
+<!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 

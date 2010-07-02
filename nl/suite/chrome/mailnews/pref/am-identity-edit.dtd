@@ -1,6 +1,7 @@
-<!ENTITY identityDialog.style "width: 93ch;">
-<!ENTITY identityTitle.label "Identiteitinstellingen">
+<!ENTITY identityDialog.style   "width: 93ch;">
+<!ENTITY identityTitle.label    "Identiteitsinstellingen">
 <!ENTITY identityListDesc.label "Configureer de instellingen voor deze identiteit:">
-<!ENTITY settingsTab.label "Instellingen">
-<!ENTITY copiesFoldersTab.label "Kopieën &amp; Mappen">
-<!ENTITY addressingTab.label "Opstellen &amp; Adressering">
+
+<!ENTITY settingsTab.label      "Instellingen">
+<!ENTITY copiesFoldersTab.label "Kopieën &amp; mappen">
+<!ENTITY addressingTab.label    "Opstellen &amp; adressering">

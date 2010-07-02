@@ -23,8 +23,8 @@
    Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -49,35 +49,35 @@
 <!ENTITY smaller.label                    "Kleiner">
 <!ENTITY color.label                      "Kleur:">
 <!ENTITY color.accesskey                  "K">
-<!ENTITY displayPlainText.caption         "Platte tekstberichten">
+<!ENTITY displayPlainText.caption         "Plattetekstberichten">
 <!ENTITY fontPlainText.label              "Lettertype:">
 <!ENTITY fontPlainText.accesskey          "L">
-<!ENTITY displayQuoted.label              "Geciteerde-berichteninstellingen">
+<!ENTITY displayQuoted.label              "Instellingen voor geciteerde berichten:">
 <!ENTITY wrapInMsg.label                  "Regellengte aanpassen aan vensterbreedte">
 <!ENTITY wrapInMsg.accesskey              "R">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Emoticons weergeven als afbeeldingen">
-<!ENTITY convertEmoticons.accesskey       "m">
+<!ENTITY convertEmoticons.accesskey       "E">
 <!ENTITY generalMessageDisplay.caption    "Algemeen">
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
-<!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "Onmiddellijk bij weergave">
-<!ENTITY markAsReadNoDelay.accesskey      "O">
+<!ENTITY autoMarkAsRead.accesskey         "m">
+<!ENTITY markAsReadNoDelay.label          "Direct zichtbaar">
+<!ENTITY markAsReadNoDelay.accesskey      "D">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Na het tonen gedurende">
+<!ENTITY markAsReadDelay.label            "Na">
 <!ENTITY markAsReadDelay.accesskey        "N">
-<!ENTITY secondsLabel.label               "seconden">
+<!ENTITY secondsLabel.label               "seconden weergeven">
 
-<!ENTITY openingMessages.label            "Bij het openen van berichten tonen in:">
-<!ENTITY newWindowRadio.label             "Een nieuw berichtenvenster">
-<!ENTITY newWindowRadio.accesskey         "n">
-<!ENTITY existingWindowRadio.label        "Een bestaand berichtenvenster">
-<!ENTITY existingWindowRadio.accesskey    "e">
-<!ENTITY disableContent.label             "Blokkeer afbeeldingen en andere inhoud van bronnen op afstand">
-<!ENTITY disableContent.accesskey         "B">
-<!ENTITY showCondensedAddresses.label     "Van adressen in mijn adresboek alleen weergavenaam tonen">
-<!ENTITY showCondensedAddresses.accesskey "m">
-<!ENTITY closeMsgWindowOnDelete.label     "Na verwijderen van het bericht berichtenvenster sluiten">
-<!ENTITY closeMsgWindowOnDelete.accesskey "N">
+<!ENTITY openingMessages.label            "Bij het openen van berichten, deze weergeven in:">
+<!ENTITY newWindowRadio.label             "Een nieuw berichtvenster">
+<!ENTITY newWindowRadio.accesskey         "w">
+<!ENTITY existingWindowRadio.label        "Een bestaand berichtvenster">
+<!ENTITY existingWindowRadio.accesskey    "t">
+<!ENTITY disableContent.label             "Afbeeldingen en andere inhoud van bronnen op afstand blokkeren">
+<!ENTITY disableContent.accesskey         "A">
+<!ENTITY showCondensedAddresses.label     "Van personen in mijn adresboek alleen weergavenaam tonen">
+<!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY closeMsgWindowOnDelete.label     "Berichtvenster sluiten bij verwijderen van het bericht">
+<!ENTITY closeMsgWindowOnDelete.accesskey "u">
