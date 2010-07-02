@@ -1,27 +1,27 @@
 <!-- extracted from content/pref-proxies.xul -->
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
-<!ENTITY  pref.proxies.title            "Proxies">
-<!ENTITY  pref.proxies.desc             "Een proxy is een netwerkfaciliteit die soms gebruikt wordt om inhoud te filteren en/of te bufferen voor snellere toegang.">
-<!ENTITY  proxyTitle.label              "Proxies instellen voor toegang tot het Internet">
-<!ENTITY  directTypeRadio.label         "Directe verbinding met het Internet">
+<!ENTITY  pref.proxies.title            "Proxy’s">
+<!ENTITY  pref.proxies.desc             "Een proxy is een netwerkservice die uw internetverbinding kan filteren en versnellen.">
+<!ENTITY  proxyTitle.label              "Proxy’s voor toegang tot het internet configureren">
+<!ENTITY  directTypeRadio.label         "Directe verbinding met het internet">
 <!ENTITY  directTypeRadio.accesskey     "D">
-<!ENTITY  systemTypeRadio.label         "Systeem proxy-instellingen gebruiken">
+<!ENTITY  systemTypeRadio.label         "Proxyinstellingen van systeem gebruiken">
 <!ENTITY  systemTypeRadio.accesskey     "s">
-<!ENTITY  manualTypeRadio.label         "Handmatige proxy-instellingen">
-<!ENTITY  manualTypeRadio.accesskey     "H">
-<!ENTITY  wpadTypeRadio.label           "Proxyconfiguratie automatich ontdekken">
-<!ENTITY  wpadTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio.label         "Handmatige proxyconfiguratie">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  wpadTypeRadio.label           "Proxyconfiguratie automatisch detecteren">
+<!ENTITY  wpadTypeRadio.accesskey       "a">
 <!ENTITY  autoTypeRadio.label           "URL voor automatische proxyconfiguratie:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Herladen">
-<!ENTITY  reload.accesskey              "L">
-<!ENTITY  http.label                    "HTTP proxy:">
-<!ENTITY  http.accesskey                "X">
+<!ENTITY  reload.label                  "Opnieuw laden">
+<!ENTITY  reload.accesskey              "n">
+<!ENTITY  http.label                    "Proxy:">
+<!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "Poort:">
-<!ENTITY  HTTPPort.accesskey            "P">
-<!ENTITY  advanced.label                "Uitgebreid…">
-<!ENTITY  advanced.accesskey            "i">
+<!ENTITY  HTTPPort.accesskey            "o">
+<!ENTITY  advanced.label                "Geavanceerd…">
+<!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "Geen proxy voor:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy.accesskey             "G">
 <!ENTITY  noproxyExplain.label          "Voorbeeld: .mozilla.org, .net.nz, 192.168.1.0/24">

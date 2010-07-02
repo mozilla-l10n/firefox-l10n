@@ -1,9 +1,9 @@
 <!ENTITY  pref.history.title                "Geschiedenis">
 
-<!ENTITY  pref.history.caption              "Bladergeschiedenis">
-<!ENTITY  historyPages.label                "Geschiedenis is een lijst van voorheen bezochte pagina's.">
-<!ENTITY  enableHistory.label               "Bezochte pagina's onthouden">
-<!ENTITY  enableHistory.accesskey           "o">
+<!ENTITY  pref.history.caption              "Navigatiegeschiedenis">
+<!ENTITY  historyPages.label                "Geschiedenis is een lijst van eerder bezochte pagina’s.">
+<!ENTITY  expireDaysMin1.label              "Bezochte pagina’s altijd minstens">
+<!ENTITY  expireDaysMin1.accesskey          "a">
 <!ENTITY  clearHistory.label                "Geschiedenis wissen">
 <!ENTITY  clearHistory.accesskey            "G">
 
@@ -14,6 +14,6 @@
 <!ENTITY  formfillHistory.caption           "Formulier- en zoekgeschiedenis">
 <!ENTITY  enableFormfill.label              "Formulier- en zoekgeschiedenis inschakelen">
 <!ENTITY  enableFormfill.accesskey          "F">
-<!ENTITY  formfillExpire.label              "Formulier- en zoekgeschiedenis bewaren gedurende">
-<!ENTITY  formfillExpire.accesskey          "b">
-<!ENTITY  formfillDays.label                "dagen">
+<!ENTITY  formfillExpire.label              "Formulier- en zoekgeschiedenis maximaal">
+<!ENTITY  formfillExpire.accesskey          "m">
+<!ENTITY  formfillDays.label                "dagen onthouden">

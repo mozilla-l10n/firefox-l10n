@@ -10,27 +10,27 @@
 <!ENTITY languages.label "Talen">
 <!ENTITY applications.label "Hulptoepassingen">
 <!ENTITY locationBar.label "Locatiebalk">
-<!ENTITY tabWindows.label "Bladeren met tabbladen">
+<!ENTITY tabWindows.label "Navigeren met tabbladen">
 <!ENTITY offline.label "Offline">
-<!ENTITY security.label "Privacy &amp; veiligheid">
+<!ENTITY security.label "Privacy &amp; beveiliging">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Afbeeldingen">
-<!ENTITY popups.label "Popupvensters">
+<!ENTITY popups.label "Pop-upvensters">
 <!ENTITY passwords.label "Wachtwoorden">
 <!ENTITY masterpass.label "Hoofdwachtwoorden">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificaten">
 <!ENTITY validation.label "Validatie">
 <!ENTITY advance.label "Geavanceerd">
-<!ENTITY down.label "Ophalen">
-<!ENTITY cache.label "Buffers">
-<!ENTITY proxies.label "Proxies">
-<!ENTITY httpnetworking.label "HTTP netwerken">
+<!ENTITY down.label "Downloaden">
+<!ENTITY cache.label "Buffer">
+<!ENTITY proxies.label "Proxy’s">
+<!ENTITY httpnetworking.label "HTTP-netwerken">
 <!ENTITY smart.label "Software-installatie">
 <!ENTITY download.label "Downloads">
 <!ENTITY keynav.label "Toetsenbordnavigatie">
-<!ENTITY search.label "Zoeken op het Internet">
-<!ENTITY policies.label "Veiligheidsbeleid">
+<!ENTITY search.label "Zoeken op het internet">
+<!ENTITY policies.label "Beveiligingsbeleid">
 <!ENTITY mousewheel.label "Muiswiel">
 <!ENTITY scriptsAndWindows.label "Scripts &amp; plug-ins">
 

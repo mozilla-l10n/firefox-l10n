@@ -10,5 +10,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "&#8984;+Return in de locatiebalk">
 <!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "Midden-klik, &#8984;+klik of &#8984;+Return op links in een webpagina">
-<!ENTITY middleClick.accesskey        "M">
+<!ENTITY middleClick.label            "Klikken met de middelste muisknop, &#8984;+klikken of &#8984;+Return op koppelingen in een webpagina">
+<!ENTITY middleClick.accesskey        "m">

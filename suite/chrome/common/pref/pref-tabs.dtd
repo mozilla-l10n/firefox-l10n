@@ -1,28 +1,28 @@
-<!ENTITY tabHeader.label "Bladeren met tabbladen">
+<!ENTITY tabHeader.label "Navigeren met tabbladen">
 <!ENTITY tabDisplay.label "Tabbladweergave">
-<!ENTITY autoHide.label "De tabbladwerkbalk verbergen als slechts één tabblad open is">
-<!ENTITY autoHide.accesskey "d">
-<!ENTITY background.label "Vanuit koppelingen geopende nieuwe tabbladen selecteren">
-<!ENTITY background.accesskey "S">
-<!ENTITY warnOnClose.label "Waarschuwen bij sluiten van een venster met meerdere tabbladen">
-<!ENTITY warnOnClose.accesskey "v">
-<!ENTITY loadGroup.label "Tijdens het openen van een bladwijzersgroep">
+<!ENTITY autoHide.label "De tabbladenwerkbalk verbergen wanneer slechts één tabblad is geopend">
+<!ENTITY autoHide.accesskey "b">
+<!ENTITY background.label "Naar vanuit koppelingen geopende nieuwe tabbladen schakelen">
+<!ENTITY background.accesskey "s">
+<!ENTITY warnOnClose.label "Mij waarschuwen bij het sluiten van een venster met meerdere tabbladen">
+<!ENTITY warnOnClose.accesskey "n">
+<!ENTITY loadGroup.label "Bij het openen van een bladwijzergroep">
 <!ENTITY loadGroupAppend.label "Tabbladen toevoegen">
-<!ENTITY loadGroupAppend.accesskey "T">
+<!ENTITY loadGroupAppend.accesskey "a">
 <!ENTITY loadGroupReplace.label "Bestaande tabbladen vervangen">
-<!ENTITY loadGroupReplace.accesskey "B">
+<!ENTITY loadGroupReplace.accesskey "r">
 <!ENTITY openTabs.label "Tabbladen in plaats van vensters openen voor">
 
-<!ENTITY newWindow.label "Koppelingen in webpagina's">
-<!ENTITY newWindowDescription.label "Koppelingen die een nieuw venster openen tonen in">
-<!ENTITY external.label "Koppelingen vanuit andere applicaties">
-<!ENTITY externalDescription.label "Koppelingen die vanuit andere applicaties geopend worden tonen in">
+<!ENTITY newWindow.label "Openen van koppelingen">
+<!ENTITY newWindowDescription.label "Koppelingen die een nieuw venster zouden openen, openen in">
+<!ENTITY external.label "Koppelingen van andere toepassingen">
+<!ENTITY externalDescription.label "Koppelingen vanuit andere toepassingen openen in">
 <!ENTITY openCurrent.label "Het huidige tabblad/venster">
-<!ENTITY newWindowGroupCurrent.accesskey "h">
-<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY newWindowGroupCurrent.accesskey "u">
+<!ENTITY externalGroupCurrent.accesskey "d">
 <!ENTITY openTab.label "Een nieuw tabblad in het huidige venster">
-<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY newWindowGroupTab.accesskey "t">
 <!ENTITY externalGroupTab.accesskey "e">
 <!ENTITY openWindow.label "Een nieuw venster">
 <!ENTITY newWindowGroupWindow.accesskey "w">
-<!ENTITY externalGroupWindow.accesskey "s">
+<!ENTITY externalGroupWindow.accesskey "v">

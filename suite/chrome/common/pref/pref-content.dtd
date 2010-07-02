@@ -1,22 +1,22 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Inhoud">
-<!ENTITY pref.content.description               "Deze instellingen bepalen hoe een website en berichteninhoud getoond worden in &brandShortName;.">
-<!ENTITY siteIcons.label                        "Website-icons">
-<!ENTITY useSiteIcons.label                     "Toon website-icons">
-<!ENTITY useSiteIcons.accesskey                 "w">
-<!ENTITY useFavIcons.label                      "Aggressive look voor website-icons als de pagina er geen defineerd">
+<!ENTITY pref.content.description               "Deze instellingen bepalen hoe de inhoud van websites en berichten in &brandShortName; verschijnt.">
+<!ENTITY siteIcons.label                        "Websitepictogrammen">
+<!ENTITY useSiteIcons.label                     "Websitepictogrammen tonen">
+<!ENTITY useSiteIcons.accesskey                 "W">
+<!ENTITY useFavIcons.label                      "Agressief zoeken naar websitepictogrammen als de pagina er geen een definieert">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "Toon website-icons in bladwijzermenu en werkbalk:">
-<!ENTITY tbIconsNever.label                     "Toon nooit icons voor bladwijzers">
-<!ENTITY tbIconsNever.accesskey                 "n">
-<!ENTITY tbIconsCache.label                     "Alleen wanneer de website recentelijk is geladen">
-<!ENTITY tbIconsCache.accesskey                 "A">
-<!ENTITY tbIconsAlways.label                    "Laad altijd website-icons voor bladwijzers">
-<!ENTITY tbIconsAlways.accesskey                "w">
+<!ENTITY tbIconsDescription.label               "Websitepictogrammen in bladwijzermenu en werkbalk weergeven:">
+<!ENTITY tbIconsNever.label                     "Nooit pictogrammen voor bladwijzers tonen">
+<!ENTITY tbIconsNever.accesskey                 "N">
+<!ENTITY tbIconsCache.label                     "Alleen wanneer de website onlangs is geladen">
+<!ENTITY tbIconsCache.accesskey                 "e">
+<!ENTITY tbIconsAlways.label                    "Websitepictogrammen voor bladwijzers altijd laden">
+<!ENTITY tbIconsAlways.accesskey                "b">
 <!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
-<!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Vloeiend scrollen inschakelen">
+<!ENTITY enableAutomaticImageResizing.accesskey "r">
+<!ENTITY useSmoothScroll.label                  "Vloeiend scrollen gebruiken">
 <!ENTITY useSmoothScroll.accesskey              "V">
-<!ENTITY textZoomOnly.label                     "Alleen tekst vergroten inplaats van hele pagina's">
-<!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY textZoomOnly.label                     "Alleen tekst zoomen in plaats van hele pagina’s">
+<!ENTITY textZoomOnly.accesskey                 "z">

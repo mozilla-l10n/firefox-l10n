@@ -1,20 +1,20 @@
-<!ENTITY pref.keyNav.title "Keyboard Navigation">
-<!ENTITY tabNavigationBehavior.label "Tab toets navigatie ">
+<!ENTITY pref.keyNav.title "Toetsenbordnavigatie">
+<!ENTITY tabNavigationBehavior.label "Tab-toetsnavigatie">
 <!ENTITY tabNavigationLinks.label "Koppelingen">
 <!ENTITY tabNavigationLinks.accesskey "K">
-<!ENTITY tabNavigationForms.label "Knoppen, keuzerondjes, selectievakjes en lijsten">
-<!ENTITY tabNavigationForms.accesskey "N">
+<!ENTITY tabNavigationForms.label "Knoppen, keuzerondjes, selectievakjes en selectielijsten">
+<!ENTITY tabNavigationForms.accesskey "n">
 <!ENTITY tabNavigationTextboxes.label "Let op: tekstvakken zijn altijd onderdeel van de tabvolgorde.">
-<!ENTITY tabNavigationDesc.label "Indien Tab of Shift+Tab wordt ingedrukt verplaatsen naar:">
+<!ENTITY tabNavigationDesc.label "Wanneer Tab of Shift+Tab wordt ingedrukt, omschakelen tussen:">
 <!ENTITY findAsYouTypeBehavior.label "Zoeken terwijl u typt">
-<!ENTITY findAsYouTypeTip.label "Tip: Handmatig Zoeken terwijl u typt kunt u starten door / om tekst te zoeken of ' om links te zoeken, gevolgd door de tekst die u wilt vinden.">
-<!ENTITY findAsYouTypeTimeout.label "Maak de huidige zoektocht na enkele seconden van inactivieit leeg">
-<!ENTITY findAsYouTypeTimeout.accesskey "M">
-<!ENTITY findAsYouTypeSound.label "Laat een geluid horen wanneer de getypte tekst niet gevonden is">
-<!ENTITY findAsYouTypeSound.accesskey "L">
-<!ENTITY findAsYouTypeEnableAuto.label "Zoek tijdens het typen in een webpagina automatisch naar:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "Z">
-<!ENTITY findAsYouTypeAutoText.label "De eerste de beste tekst in de pagina">
-<!ENTITY findAsYouTypeAutoText.accesskey "D">
-<!ENTITY findAsYouTypeAutoLinks.label "Enkel koppelingen">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "E">
+<!ENTITY findAsYouTypeTip.label "Tip: handmatig Zoeken terwijl u typt kunt u starten door / om tekst te zoeken of door ' om koppelingen te zoeken, gevolgd door de tekst die u wilt zoeken.">
+<!ENTITY findAsYouTypeTimeout.label "De huidige zoekopdracht na enkele seconden van inactiviteit wissen">
+<!ENTITY findAsYouTypeTimeout.accesskey "z">
+<!ENTITY findAsYouTypeSound.label "Een geluid afspelen wanneer getypte tekst niet is gevonden">
+<!ENTITY findAsYouTypeSound.accesskey "u">
+<!ENTITY findAsYouTypeEnableAuto.label "Tijdens het typen in een webpagina automatisch zoeken naar:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "T">
+<!ENTITY findAsYouTypeAutoText.label "Willekeurige tekst in de pagina">
+<!ENTITY findAsYouTypeAutoText.accesskey "W">
+<!ENTITY findAsYouTypeAutoLinks.label "Alleen koppelingen">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "o">

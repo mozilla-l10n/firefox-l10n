@@ -1,13 +1,18 @@
+
 <!ENTITY pref.policies.title "Beveiligingsbeleid">
-<!ENTITY zoneIntro.label "&brandShortName; stelt u in staat om beleid te creëren dat bepaalt welke toegang bepaalde webstekken hebben tot diverse functionaliteit, inclusief aspecten van scripts en Java.">
-<!ENTITY policies.label "Beleid:">
-<!ENTITY default.label "Standaard beleid">
-<!ENTITY allWebsites.label "Alle websites">
-<!ENTITY trusted.label "Vertrouwde stekken">
-<!ENTITY annoyances.label "Algemene irritaties">
-<!ENTITY restricted.label "Beperkte stekken">
-<!ENTITY addSite.label "Site toevoegen…">
-<!ENTITY addSite.accesskey "a">
-<!ENTITY settings.label "Instellingen voor ">
-<!ENTITY settings.accesskey "s">
-<!ENTITY description.label "Beleidsbeschrijving:">
+
+<!ENTITY zoneIntro.label     "&brandShortName; stelt u in staat beleiden te creëren die voor bepaalde websites toegang tot diverse functionaliteiten bepalen, inclusief script- en Java-aspecten.">
+
+<!ENTITY policies.label      "Beleiden:">
+<!ENTITY default.label       "Standaardbeleid">
+<!ENTITY allWebsites.label   "Alle websites">
+<!ENTITY trusted.label       "Vertrouwde websites">
+<!ENTITY annoyances.label    "Algemene ergernissen">
+<!ENTITY restricted.label    "Beperkte websites">
+
+<!ENTITY addSite.label       "Website toevoegen…">
+<!ENTITY addSite.accesskey   "W">
+<!ENTITY settings.label      "Instellingen voor ">
+<!ENTITY settings.accesskey  "I">
+
+<!ENTITY description.label   "Beleidsbeschrijving:">

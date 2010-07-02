@@ -38,8 +38,8 @@
 <!ENTITY  pref.validation.title                   "Validatie">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Gebruik de CRL-beheerderom de certificaatintrekkingslijsten (CRL) die zijn opgeslagen in uw certificaatdatabase te beheren.">
-<!ENTITY  validation.managecrls.button            "CRLs beheren…">
+<!ENTITY  validation.crl.description              "Gebruik de CRL-beheerder om de certificaatintrekkingslijsten (CRL) te beheren die in uw certificaatdatabase zijn opgeslagen.">
+<!ENTITY  validation.managecrls.button            "CRL’s beheren…">
 <!ENTITY  validation.managecrls.accesskey         "b">
 
 <!ENTITY validation.ocsp.caption                  "OCSP">
@@ -52,6 +52,6 @@
 <!ENTITY serviceURL.label                         "Service-URL:">
 <!ENTITY serviceURL.accesskey                     "S">
 <!ENTITY signingCA.label                          "Antwoordondertekenaar:">
-<!ENTITY signingCA.accesskey                      "a">
+<!ENTITY signingCA.accesskey                      "A">
 <!ENTITY validation.requireOCSP.description       "Wanneer een OCSP-serververbinding mislukt, het certificaat als ongeldig behandelen">
 <!ENTITY validation.requireOCSP.accesskey         "W">

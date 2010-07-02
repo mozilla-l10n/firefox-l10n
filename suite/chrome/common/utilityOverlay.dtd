@@ -7,7 +7,7 @@
 <!ENTITY fileMenu.label                         "Bestand">
 <!ENTITY fileMenu.accesskey                     "B">
 <!ENTITY newMenu.label                          "Nieuw">
-<!ENTITY newMenu.accesskey                      "i">
+<!ENTITY newMenu.accesskey                      "N">
 <!ENTITY newBlankPageCmd.label                  "Webpagina in Composer">
 <!ENTITY newBlankPageCmd.accesskey              "C">
 <!ENTITY newBlankPageCmd.key                    "n">
@@ -42,12 +42,12 @@
 <!ENTITY selectAllCmd.key                       "A">
 <!ENTITY selectAllCmd.accesskey                 "A">
 <!ENTITY preferencesCmd.label                   "Voorkeuren…">
-<!ENTITY preferencesCmd.key                     "V">
+<!ENTITY preferencesCmd.key                     "E">
 <!ENTITY preferencesCmd.accesskey               "o">
-<!ENTITY findTypeTextCmd.label                  "Zoeken terwijl u typt">
-<!ENTITY findTypeTextCmd.accesskey              "Z">
+<!ENTITY findTypeTextCmd.label                  "Tekst zoeken terwijl u typt">
+<!ENTITY findTypeTextCmd.accesskey              "T">
 <!ENTITY findTypeLinksCmd.label                 "Koppelingen zoeken terwijl u typt">
-<!ENTITY findTypeLinksCmd.accesskey             "K">
+<!ENTITY findTypeLinksCmd.accesskey             "l">
 
 <!ENTITY viewMenu.label                         "Beeld">
 <!ENTITY viewMenu.accesskey                     "l">
@@ -64,7 +64,7 @@
 <!ENTITY updateCmd.label                        "Controleren op updates…">
 <!ENTITY updateCmd.accesskey                    "C">
 <!ENTITY aboutCmd.label                         "Over &brandShortName;">
-<!ENTITY aboutCmd.accesskey                     "s">
+<!ENTITY aboutCmd.accesskey                     "S">
 <!ENTITY aboutCommPluginsCmd.label              "Over plug-ins">
 <!ENTITY aboutCommPluginsCmd.accesskey          "p">
 
@@ -76,8 +76,8 @@
 <!ENTITY pac.accesskey                          "a">
 <!ENTITY wpad.label                             "Online (proxy: autodetectie)">
 <!ENTITY wpad.accesskey                         "d">
-<!ENTITY system.label                                   "Online (Proxy: Systeemproxy)">
-<!ENTITY system.accesskey                               "S">
+<!ENTITY system.label                           "Online (proxy: systeemproxy)">
+<!ENTITY system.accesskey                       "s">
 
 <!ENTITY proxy.label                            "Proxyconfiguratie…">
 <!ENTITY proxy.accesskey                        "P">
@@ -90,23 +90,23 @@
 <!ENTITY customizeToolbarContext.accesskey        "A">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Instellingen voor deze werkbalk">
-<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "I">
 <!ENTITY customizeToolbar.iconsAndText.label      "Pictogrammen en tekst">
-<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "e">
 <!ENTITY customizeToolbar.icons.label             "Pictogrammen">
-<!ENTITY customizeToolbar.icons.accesskey         "p">
+<!ENTITY customizeToolbar.icons.accesskey         "P">
 <!ENTITY customizeToolbar.text.label              "Tekst">
 <!ENTITY customizeToolbar.text.accesskey          "T">
 <!ENTITY customizeToolbar.useSmallIcons.label     "Kleine pictogrammen gebruiken">
-<!ENTITY customizeToolbar.useSmallIcons.accesskey "k">
-<!ENTITY customizeToolbar.labelAlignEnd.label     "Toon tekst naast pictogram">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "K">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Tekst naast pictogram tonen">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "n">
 <!ENTITY customizeToolbar.useDefault.label        "Standaardinstelling gebruiken">
-<!ENTITY customizeToolbar.useDefault.accesskey    "g">
+<!ENTITY customizeToolbar.useDefault.accesskey    "S">
 
 <!-- Popup Blocked notification menu -->
-<!ENTITY allowPopups.accesskey        "p">
-<!ENTITY showPopupManager.label       "Beheer Pop-ups">
-<!ENTITY showPopupManager.accesskey   "B">
-<!ENTITY dontShowMessage.label        "Laat dit bericht niet zien als er pop-ups zijn geblokkeerd">
-<!ENTITY dontShowMessage.accesskey    "L">
+<!ENTITY allowPopups.accesskey        "P">
+<!ENTITY showPopupManager.label       "Pop-ups beheren">
+<!ENTITY showPopupManager.accesskey   "b">
+<!ENTITY dontShowMessage.label        "Dit bericht niet tonen wanneer pop-ups worden geblokkeerd">
+<!ENTITY dontShowMessage.accesskey    "D">

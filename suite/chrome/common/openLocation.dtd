@@ -1,3 +1,5 @@
+<!-- extracted from content/openLocation.xul -->
+
 <!ENTITY enter.label "Voer de weblocatie (URL) in of specificeer het lokale bestand dat u wilt openen:">
 <!ENTITY enter.accesskey "V">
 <!ENTITY chooseFile.label "Bestand kiezen…">
@@ -5,8 +7,8 @@
 <!ENTITY newWindow.label "Nieuw browservenster">
 <!ENTITY newTab.label "Nieuw browsertabblad">
 <!ENTITY topWindow.label "Huidige browservenster">
-<!ENTITY editNewWindow.label "Nieuw  Composervenster">
-<!ENTITY open.label "Open">
+<!ENTITY editNewWindow.label "Nieuw Composer-venster">
+<!ENTITY open.label "Openen">
 <!ENTITY caption.label "Weblocatie openen">
 <!ENTITY openWhere.label "Openen in:">
 <!ENTITY openWhere.accesskey "O">

@@ -36,30 +36,30 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  SSLProtocolVersions.caption       "SSL Protocolversies">
-<!ENTITY  SSLWarnings.caption               "SSL waarschuwingen">
-<!ENTITY  SSLClientAuthMethod.caption       "Selecteren van clientcertificaten">
+<!ENTITY  SSLProtocolVersions.caption       "SSL-protocolversies">
+<!ENTITY  SSLWarnings.caption               "SSL-waarschuwingen">
+<!ENTITY  SSLClientAuthMethod.caption       "Clientcertificaatselectie">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl3                        "SSL versie 3 gebruiken">
+<!ENTITY enable.ssl3                        "SSL versie 3 inschakelen">
 <!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "TLS gebruiken">
+<!ENTITY enable.tls                         "TLS inschakelen">
 <!ENTITY enable.tls.accesskey               "T">
 
-<!ENTITY warn.description                   "&brandShortName; kan u wijzen op de beveiligingsstatus van de pagina die u bekijkt. Stel &brandShortName; in om waarschuwingen te tonen en om toestemmming te vragen voor:">
-<!ENTITY warn.enteringsecure                "Het laden van een pagina die versleuteling gebruikt">
-<!ENTITY warn.enteringsecure.accesskey      "L">
+<!ENTITY warn.description                   "&brandShortName; kan u waarschuwingen geven over de beveiligingsstatus van de webpagina die u bekijkt. Stel &brandShortName; in om een waarschuwing te tonen en om toestemming te vragen tijdens:">
+<!ENTITY warn.enteringsecure                "Het laden van een pagina die versleuteling ondersteunt">
+<!ENTITY warn.enteringsecure.accesskey      "l">
 <!ENTITY warn.enteringweak                  "Het laden van een pagina die een lage graad van versleuteling gebruikt">
-<!ENTITY warn.enteringweak.accesskey        "o">
-<!ENTITY warn.insecurepost                  "Het versturen van formuliergegevens van een versleutelde naar een niet-versleutelde pagina">
-<!ENTITY warn.insecurepost.accesskey        "s">
-<!ENTITY warn.leavingsecure                 "Het verlaten van pagina die versleuteling gebruikt">
-<!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "Het weergeven van een pagina met een combinatie van versleutelde en niet-versleutelde gegevens">
-<!ENTITY warn.viewmixed.accesskey           "V">
+<!ENTITY warn.enteringweak.accesskey        "d">
+<!ENTITY warn.insecurepost                  "Het verzenden van formuliergegevens van een versleutelde naar een niet-versleutelde pagina">
+<!ENTITY warn.insecurepost.accesskey        "z">
+<!ENTITY warn.leavingsecure                 "Het verlaten van een pagina die versleuteling ondersteunt">
+<!ENTITY warn.leavingsecure.accesskey       "v">
+<!ENTITY warn.viewmixed                     "Het bekijken van een pagina met zowel versleutelde als niet-versleutelde gegevens">
+<!ENTITY warn.viewmixed.accesskey           "b">
 
-<!ENTITY certselect.description             "Beslis hoe &brandShortName; een veiligheidscertifaat selecteert om te tonen aan een website die dit vereist:">
+<!ENTITY certselect.description             "Bepaal hoe &brandShortName; een beveiligingscertificaat selecteert om aan te bieden aan websites die er een vereisen:">
 <!ENTITY certselect.auto                    "Automatisch selecteren">
 <!ENTITY certselect.auto.accesskey          "A">
-<!ENTITY certselect.ask                     "Mij elke keer vragen">
-<!ENTITY certselect.ask.accesskey           "M">
+<!ENTITY certselect.ask                     "Elke keer vragen">
+<!ENTITY certselect.ask.accesskey           "E">

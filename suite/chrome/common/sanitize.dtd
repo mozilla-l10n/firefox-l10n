@@ -1,4 +1,4 @@
-<!ENTITY sanitizeDialog.title            "Privégegevens opruimen">
+<!ENTITY sanitizeDialog.title            "Privégegevens wissen">
 <!ENTITY sanitizeItems.label             "De volgende gegevens nu wissen:">
 
 <!ENTITY itemHistory.label               "Navigatiegeschiedenis">
@@ -18,6 +18,6 @@
 <!ENTITY itemPasswords.label             "Opgeslagen wachtwoorden">
 <!ENTITY itemPasswords.accesskey         "w">
 <!ENTITY itemSessions.label              "Geauthenticeerde sessies">
-<!ENTITY itemSessions.accesskey          "S">
+<!ENTITY itemSessions.accesskey          "s">
 
-<!ENTITY sanitizeButton.label            "Privégegevens nu opruimen">
+<!ENTITY sanitizeButton.label            "Privégegevens nu wissen">

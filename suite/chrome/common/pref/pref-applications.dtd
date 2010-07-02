@@ -1,10 +1,10 @@
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title "Hulpprogramma's">
+<!ENTITY pref.applications.title "Hulptoepassingen">
 
-<!ENTITY  typeColumn.label        "Inhoudstype">
-<!ENTITY  typeColumn.accesskey    "I">
+<!ENTITY typeColumn.label        "Inhoudstype">
+<!ENTITY typeColumn.accesskey    "I">
 
-<!ENTITY  actionColumn2.label     "Actie">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY actionColumn2.label     "Actie">
+<!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY search.placeholder        "Zoektype en acties">
+<!ENTITY search.placeholder      "Zoektypen en acties">
