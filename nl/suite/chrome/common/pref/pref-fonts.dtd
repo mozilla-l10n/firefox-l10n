@@ -7,28 +7,28 @@
 <!ENTITY  language.accesskey                      "L">
 
 <!ENTITY  typefaces.label                         "Lettertype">
-<!ENTITY  sizes.label                             "Grootte (beeldpunten)">
+<!ENTITY  sizes.label                             "Grootte (pixels)">
 
 <!ENTITY  proportional.label                      "Proportioneel:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Geschreefd:">
-<!ENTITY  serif.accesskey                         "G">
-<!ENTITY  sans-serif.label                        "Zonder-schreef:">
-<!ENTITY  sans-serif.accesskey                    "Z">
+<!ENTITY  serif.label                             "Met schreef:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Schreefloos:">
+<!ENTITY  sans-serif.accesskey                    "c">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY  fantasy.label                           "Fantasie:">
 <!ENTITY  fantasy.accesskey                       "F">
 <!ENTITY  cursive.label                           "Cursief:">
-<!ENTITY  cursive.accesskey                       "C">
+<!ENTITY  cursive.accesskey                       "u">
 
 <!ENTITY  font.langGroup.latin1                   "Westers">
 <!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
 <!ENTITY  font.langGroup.japanese                 "Japans">
 <!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Versimpeld Chinees">
+<!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditioneel Chinees (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreaans">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillisch">
@@ -36,35 +36,35 @@
 <!ENTITY  font.langGroup.el                       "Grieks">
 <!ENTITY  font.langGroup.turkish                  "Turks">
 <!ENTITY  font.langGroup.unicode                  "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Door gebruiker gedefiniëerd">
+<!ENTITY  font.langGroup.user-def                 "Door gebruiker gedefinieerd">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreeuws">
 <!ENTITY  font.langGroup.arabic                   "Arabisch">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.armenian                 "Armeens">
+<!ENTITY  font.langGroup.bengali                  "Bengaals">
+<!ENTITY  font.langGroup.canadian                 "Verenigd Canadees lettergreepschrift">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopisch">
+<!ENTITY  font.langGroup.georgian                 "Georgisch">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!-- Minimum font size -->
-<!ENTITY  minSize.label                           "Minimale korpsgrootte:">
-<!ENTITY  minSize.accesskey                       "K">
+<!ENTITY  minSize.label                           "Minimale lettergrootte:">
+<!ENTITY  minSize.accesskey                       "n">
 <!ENTITY  minSize.none                            "Geen">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Geschreefd">
-<!ENTITY  useDefaultFontSansSerif.label           "Zonder-schreef">
+<!ENTITY  useDefaultFontSerif.label               "Met schreef">
+<!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
 
 <!ENTITY  useDocumentFonts.label                  "Documenten toestaan andere lettertypen te gebruiken">
 <!ENTITY  useDocumentFonts.accesskey              "D">
 
 <!-- leaving this stuff in for now -->
 
-<!ENTITY  header2                                 "Wanneer een webpagina een eigen lettertype kiest">
+<!ENTITY  header2                                 "Wanneer een webpagina eigen lettertypen kiest">
 <!ENTITY  useDefaultFont.label                    "Mijn standaard lettertypen gebruiken, de door de pagina gekozen lettertypen negeren">
-<!ENTITY  useDefaultFont.accesskey                "S">
+<!ENTITY  useDefaultFont.accesskey                "s">

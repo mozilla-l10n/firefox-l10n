@@ -1,22 +1,29 @@
-<!ENTITY pref.colors.title "Kleuren">
-<!ENTITY color "Tekst en achtergrond">
-<!ENTITY textColor.label "Tekst:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Achtergrond:">
-<!ENTITY backgroundColor.accesskey "A">
-<!ENTITY useSystemColors.label "Systeemkleuren gebruiken">
-<!ENTITY useSystemColors.accesskey "s">
-<!ENTITY underlineLinks.label "Onderstreep koppelingen">
-<!ENTITY underlineLinks.accesskey "O">
-<!ENTITY links "Koppelingkleuren">
-<!ENTITY linkColor.label "Niet-bezochte koppelingen">
-<!ENTITY linkColor.accesskey "o">
-<!ENTITY activeLinkColor.label "Active koppelingen">
-<!ENTITY activeLinkColor.accesskey "c">
-<!ENTITY visitedLinkColor.label "Bezochte koppelingen">
-<!ENTITY visitedLinkColor.accesskey "B">
-<!ENTITY someProvColors "Wanneer een webpagina eigen kleuren en achtergronden voorziet">
-<!ENTITY alwaysUseDocumentColors.label "Gebruik de kleuren en achtergrond ingesteld door de webpagina">
-<!ENTITY alwaysUseDocumentColors.accesskey "G">
-<!ENTITY useMyColors.label "Gebruik mijn eigen kleuren, negeer de ingestelde kleuren en achtergrondafbeeldingen">
-<!ENTITY useMyColors.accesskey "m">
+<!-- extracted from content/pref-colors.xul -->
+
+<!-- LOCALIZATION NOTE : FILE Color management prefs -->
+<!ENTITY pref.colors.title                 "Kleuren">
+<!ENTITY color                             "Tekst en achtergrond">
+<!ENTITY textColor.label                   "Tekst:">
+<!ENTITY textColor.accesskey               "T">
+<!ENTITY backgroundColor.label             "Achtergrond:">
+<!ENTITY backgroundColor.accesskey         "A">
+<!ENTITY useSystemColors.label             "Systeemkleuren gebruiken">
+<!ENTITY useSystemColors.accesskey         "S">
+
+<!ENTITY underlineLinks.label              "Koppelingen onderstrepen">
+<!ENTITY underlineLinks.accesskey          "K">
+<!ENTITY links                             "Koppelingskleuren">
+<!ENTITY linkColor.label                   "Niet-bezochte koppelingen:">
+<!ENTITY linkColor.accesskey               "N">
+<!ENTITY activeLinkColor.label             "Actieve koppelingen:">
+<!ENTITY activeLinkColor.accesskey         "c">
+<!ENTITY visitedLinkColor.label            "Bezochte koppelingen:">
+<!ENTITY visitedLinkColor.accesskey        "B">
+<!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!ENTITY someProvColors                    "Wanneer een webpagina eigen kleuren en achtergronden opgeeft">
+<!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!ENTITY alwaysUseDocumentColors.label     "Altijd de door de webpagina opgegeven kleuren en achtergrond gebruiken">
+<!ENTITY alwaysUseDocumentColors.accesskey "w">
+<!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
+<!ENTITY useMyColors.label                 "Mijn gekozen kleuren gebruiken, de opgegeven kleuren en achtergrondafbeelding negeren">
+<!ENTITY useMyColors.accesskey             "M">

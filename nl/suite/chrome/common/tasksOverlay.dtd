@@ -1,15 +1,15 @@
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label          "Browser">
-<!ENTITY navigatorCmd.accesskey      "b">
+<!ENTITY navigatorCmd.accesskey      "B">
 <!ENTITY navigatorCmd.commandkey     "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label             "Composer">
-<!ENTITY editorCmd.accesskey         "c">
+<!ENTITY editorCmd.accesskey         "C">
 <!ENTITY editorCmd.commandkey        "4">
 
 <!ENTITY errorConsoleCmd.label       "Foutconsole">
 <!ENTITY errorConsoleCmd.accesskey   "F">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.commandkey  "j">
 
 <!ENTITY taskNavigator.tooltip        "Browser">
 <!ENTITY taskComposer.tooltip         "Composer">
@@ -29,15 +29,15 @@
 <!ENTITY passwordDisplayCmd.label "Opgeslagen wachtwoorden beheren">
 <!ENTITY passwordDisplayCmd.accesskey "O">
 
-<!ENTITY passwordExpireCmd.label "uitloggen">
-<!ENTITY passwordExpireCmd.accesskey "l">
+<!ENTITY passwordExpireCmd.label "Afmelden">
+<!ENTITY passwordExpireCmd.accesskey "A">
 
-<!ENTITY downloadManagerCmd.label     "Downloadbeheerder">
+<!ENTITY downloadManagerCmd.label "Downloadbeheerder">
 <!ENTITY downloadManagerCmd.accesskey "D">
-<!ENTITY downloadManagerCmd.commandkey "d">
+<!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label       "Add-onbeheerder">
-<!ENTITY addonsManagerCmd.accesskey   "A">
+<!ENTITY addonsManagerCmd.label "Add-onbeheerder">
+<!ENTITY addonsManagerCmd.accesskey "A">
 
-<!ENTITY switchProfileCmd.label       "Ander profiel kiezen…">
-<!ENTITY switchProfileCmd.accesskey   "p">
+<!ENTITY switchProfileCmd.label "Ander profiel kiezen…">
+<!ENTITY switchProfileCmd.accesskey "n">

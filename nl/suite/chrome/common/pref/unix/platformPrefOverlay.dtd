@@ -10,5 +10,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "Ctrl+Enter in de locatiebalk">
 <!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "Midden-klik, Ctrl+klik of Ctrl+Enter op links in een webpagina">
-<!ENTITY middleClick.accesskey        "M">
+<!ENTITY middleClick.label            "Klikken met de middelste muisknop, Ctrl+klikken of Ctrl+Enter op koppelingen in een webpagina">
+<!ENTITY middleClick.accesskey        "m">

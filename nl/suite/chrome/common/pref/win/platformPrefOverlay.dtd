@@ -5,10 +5,10 @@
      width of the letter 'm' in the selected font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct
      size of this window for en-US. -->
-<!ENTITY  prefWindow.size             "width: 52em; height: 41em;">
+<!ENTITY  prefWindow.size             "width: 58em; height: 42em;">
 
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "Ctrl+Enter in de locatiebalk">
 <!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "Midden-klik, Ctrl+klik of Ctrl+Enter op links in een webpagina">
-<!ENTITY middleClick.accesskey        "M">
+<!ENTITY middleClick.label            "Klikken met de middelste muisknop, Ctrl+klikken of Ctrl+Enter op koppelingen in een webpagina">
+<!ENTITY middleClick.accesskey        "m">

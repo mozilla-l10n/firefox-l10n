@@ -1,6 +1,13 @@
-<!ENTITY window.title "Offline">
-<!ENTITY boxHeader "Offline">
-<!ENTITY rHeader "Offline">
-<!ENTITY textStart "Tijdens het starten van &brandShortName;:">
-<!ENTITY radioAskMode "Vraag me of ik online of offline modus wil">
-<!ENTITY radioUsePrev "Gebruik mijn vorige online/offline status">
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title  "Offline">
+<!ENTITY boxHeader  "Offline">
+<!ENTITY rHeader  "Offline">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart "Bij het starten van &brandShortName;:">
+<!ENTITY radioAskMode "Mij vragen of ik online- of offlinemodus wil">
+<!ENTITY radioUsePrev "Mijn vorige online-/offlinestatus gebruiken">

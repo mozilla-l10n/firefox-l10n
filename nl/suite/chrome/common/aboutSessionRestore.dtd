@@ -4,8 +4,8 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "Uw laatste &brandShortName;-sessie is onverwacht afgesloten. Onze welgemeende excuses voor het ongemak. U kunt de tabbladen en vensters van uw vorige sessie herstellen, of een nieuwe sessie starten als deze niet meer nodig zijn.">
 <!ENTITY restorepage.remedies       "Als &brandShortName; herhaaldelijk afsluit:">
-<!ENTITY restorepage.dueToChrome    "Proberen onlangs toegevoegde extensies in de add-onbeheerder uit te schakelen.">
-<!ENTITY restorepage.dueToContent   "Proberen uw sessie te herstellen zonder webpagina’s die volgens u het probleem zouden kunnen veroorzaken:">
+<!ENTITY restorepage.dueToChrome    "Probeer onlangs toegevoegde extensies in de add-onbeheerder uit te schakelen.">
+<!ENTITY restorepage.dueToContent   "Probeer uw sessie te herstellen zonder webpagina’s die volgens u het probleem zouden kunnen veroorzaken:">
 
 <!ENTITY restorepage.restoreButton  "Vorige sessie herstellen">
 <!ENTITY restorepage.restore.access "V">

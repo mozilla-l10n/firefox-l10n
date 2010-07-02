@@ -1,34 +1,34 @@
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title                "Locatiewerkbalk">
+<!ENTITY pref.locationBar.title                "Locatiebalk">
 
-<!ENTITY autoComplete.label                    "Auto-aanvullen">
-<!ENTITY enableAutoComplete.label              "Vul in de locatiewerkbalk getypte tekst automatisch aan vanuit de bladergeschiedenis">
-<!ENTITY enableAutoComplete.accesskey          "V">
-<!ENTITY autoCompleteAutoFill.label            "Beste overeenkomst auto-aanvullen terwijl u typt">
-<!ENTITY autoCompleteAutoFill.accesskey        "B">
+<!ENTITY autoComplete.label                    "Autoaanvullen">
+<!ENTITY enableAutoComplete.label              "Automatisch aanvullen vanuit de navigatiegeschiedenis tijdens het typen">
+<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteAutoFill.label            "Automatisch de beste overeenkomst invullen">
+<!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Lijst met overeenkomende resultaten tonen">
 <!ENTITY autoCompleteShowPopup.accesskey       "L">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Alleen voorheen door u getypte websites overeenkomen">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "A">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Alleen overeenkomende locaties, niet  de websitetitels">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Alleen met eerder ingetypte websites vergelijken">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "e">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "Alleen overeenkomende locaties, geen websitetitels">
 <!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
 -->
-<!ENTITY autoCompleteMatch.label               "Moet voldoen aan">
-<!ENTITY autoCompleteMatch.accesskey           "M">
-<!ENTITY autoCompleteMatchAnywhere             "overal in de locatie of titel">
-<!ENTITY autoCompleteMatchWordsFirst           "overal maar met voorkeur van de woordgrenzen">
-<!ENTITY autoCompleteMatchWords                "Alleen woordgrenzen">
+<!ENTITY autoCompleteMatch.label               "Overeenkomst">
+<!ENTITY autoCompleteMatch.accesskey           "O">
+<!ENTITY autoCompleteMatchAnywhere             "Overal in de locatie of titel">
+<!ENTITY autoCompleteMatchWordsFirst           "Overal, maar met voorkeur voor woordgrenzen">
+<!ENTITY autoCompleteMatchWords                "Alleen op woordgrenzen">
 <!ENTITY autoCompleteMatchStart                "Alleen aan het begin van de locatie of titel">
 
-<!ENTITY searchEngine.label                    "Internet zoekmachine">
-<!ENTITY showSearchEngine.label                "Standaard zoekmachine tonen">
-<!ENTITY showSearchEngine.accesskey            "z">
+<!ENTITY searchEngine.label                    "Internetzoekmachine">
+<!ENTITY showSearchEngine.label                "Standaardzoekmachine tonen">
+<!ENTITY showSearchEngine.accesskey            "S">
 
 <!ENTITY unknownLocations.label                "Onbekende locaties">
-<!ENTITY domainGuessing.label                  "Voeg automatisch &quot;www.&quot; en &quot;.com&quot; toe aan de locatie indien een webpagina niet is gevonden.">
+<!ENTITY domainGuessing.label                  "Automatisch “www.” en “.com” aan de locatie toevoegen als een webpagina niet wordt gevonden">
 <!ENTITY domainGuessing.accesskey              "t">
-<!ENTITY keywords.label                        "Voer een internetzoekopdracht uit als de ingevoerde tekst geen weblocatie is">
-<!ENTITY keywords.accesskey                    "i">
+<!ENTITY keywords.label                        "Een webzoekopdracht uitvoeren als de ingevoerde tekst geen weblocatie is">
+<!ENTITY keywords.accesskey                    "w">

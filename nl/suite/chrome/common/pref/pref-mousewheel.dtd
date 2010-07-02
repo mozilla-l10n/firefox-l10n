@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Muiswiel">
-<!ENTITY mouseWheelPanel.label           "Muiswielgedrag specificeren wanneer gebruikt met deze optietoets: ">
+<!ENTITY mouseWheelPanel.label           "Specificeer het muiswielgedrag wanneer gebruikt met deze optietoets: ">
 <!ENTITY usingJustTheWheel.label         "Geen optietoets">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
@@ -9,20 +9,20 @@
 <!ENTITY mousewheelGroup.label           "Verticaal schuiven">
 <!ENTITY mousewheelHorizGroup.label      "Horizontaal schuiven">
 <!ENTITY scroll.label                    "Het document ">
-<!ENTITY scroll.accesskey                "H">
+<!ENTITY scroll.accesskey                "d">
 <!ENTITY scrollHoriz.accesskey           "c">
 <!ENTITY scrollLines.label               "regels verschuiven">
-<!ENTITY scrollChars.label               "tekens">
+<!ENTITY scrollChars.label               "tekens verschuiven">
 <!ENTITY useSystemDefault.label          "Systeemstandaard gebruiken">
 <!ENTITY useSystemDefault.accesskey      "S">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY useSystemDefaultHoriz.accesskey "y">
 <!ENTITY scrollPgUpPgDn.label            "Een pagina omhoog of omlaag schuiven">
-<!ENTITY scrollPgUpPgDn.accesskey        "p">
-<!ENTITY scrollPgLtPgRt.label            "Een pagina naar links of rechts schuiven">
-<!ENTITY scrollPgLtPgRt.accesskey        "p">
-<!ENTITY history.label                   "Voor- en achteruit door de bladergeschiedenis verplaatsen">
+<!ENTITY scrollPgUpPgDn.accesskey        "o">
+<!ENTITY scrollPgLtPgRt.label            "Een pagina naar links of naar rechts schuiven">
+<!ENTITY scrollPgLtPgRt.accesskey        "n">
+<!ENTITY history.label                   "Voor- en achteruit door de navigatiegeschiedenis bladeren">
 <!ENTITY history.accesskey               "V">
-<!ENTITY historyHoriz.accesskey          "b">
-<!ENTITY zoom.label                      "Pagina in- of uitzoomen">
+<!ENTITY historyHoriz.accesskey          "a">
+<!ENTITY zoom.label                      "De pagina in- of uitzoomen">
 <!ENTITY zoom.accesskey                  "z">
 <!ENTITY zoomHoriz.accesskey             "e">

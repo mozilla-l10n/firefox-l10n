@@ -37,11 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  managecerts.caption      "Certificaten beheren">
-<!ENTITY  managecerts.text         "Gebruik de certificaatbeheerder om uw persoonlijke certificaten en die van andere en certificaatautoriteiten te beheren.">
+<!ENTITY  managecerts.text         "Gebruik de certificaatbeheerder om uw persoonlijke certificaten en die van anderen en certificaatautoriteiten te beheren.">
 <!ENTITY  managecerts.button       "Certificaten beheren…">
-<!ENTITY  managecerts.accesskey    "b">
+<!ENTITY  managecerts.accesskey    "C">
 <!ENTITY  managedevices.caption    "Beveiligingsapparaten beheren">
-<!ENTITY  managedevices.text       "Gebruik deze knop om uw beveiligingsapparaten zoals smartcards te beheren.">
+<!ENTITY  managedevices.text       "Gebruik deze knop om uw beveiligingsapparaten, zoals smartcards, te beheren.">
 <!ENTITY  managedevices.button     "Beveiligingsapparaten beheren…">
 <!ENTITY  managedevices.accesskey  "B">
 

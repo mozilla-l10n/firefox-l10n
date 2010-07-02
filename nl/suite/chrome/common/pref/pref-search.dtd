@@ -1,14 +1,22 @@
-<!ENTITY pref.search.title "Internetzoeken">
-<!ENTITY legendHeader "Standaard zoekmachine">
-<!ENTITY defaultSearchEngine.label "Zoeken met:">
-<!ENTITY defaultSearchEngine.accesskey "Z">
-<!ENTITY openSidebarSearchPanel.label "Het tabblad Zoeken openen in Mijn Zijbalk wanneer zoekresultaten beschikbaar zijn">
-<!ENTITY openSidebarSearchPanel.accesskey "T">
-<!ENTITY openContextSearchTab.label "Een tabblad in plaats van een venster openen bij zoeken vanuit het contextmenu">
-<!ENTITY openContextSearchTab.accesskey "t">
-<!ENTITY searchResults.label "Zoekresultaten">
-<!ENTITY sidebarSearchTabPref.label "Zijbalkzoektabbladvoorkeur">
-<!ENTITY searchModeBasic.label "Eenvoudig">
-<!ENTITY searchModeBasic.accesskey "E">
-<!ENTITY searchModeAdvanced.label "Geavanceerd">
-<!ENTITY searchModeAdvanced.accesskey "G">
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title                "Zoeken op het internet">
+<!ENTITY legendHeader                     "Standaardzoekmachine">
+<!ENTITY defaultSearchEngine.label        "Zoeken met:">
+<!ENTITY defaultSearchEngine.accesskey    "Z">
+
+<!ENTITY openSidebarSearchPanel.label     "Het tabblad Zoeken openen in de zijbalk bij het aanroepen van een zoekopdracht">
+<!ENTITY openSidebarSearchPanel.accesskey "o">
+
+<!ENTITY openContextSearchTab.label       "Een tabblad openen in plaats van een venster voor een contextmenu-zoekopdracht">
+<!ENTITY openContextSearchTab.accesskey   "t">
+
+<!ENTITY searchResults.label              "Zoekresultaten">
+
+<!ENTITY sidebarSearchTabPref.label       "Zijbalk-zoektabbladvoorkeur">
+<!ENTITY searchModeBasic.label            "Eenvoudig">
+<!ENTITY searchModeBasic.accesskey        "E">
+<!ENTITY searchModeAdvanced.label         "Geavanceerd">
+<!ENTITY searchModeAdvanced.accesskey     "G">

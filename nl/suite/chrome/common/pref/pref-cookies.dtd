@@ -1,37 +1,37 @@
-<!ENTITY pref.cookies.title "Cookies">
+<!ENTITY pref.cookies.title             "Cookies">
 
 <!-- cookies -->
 
-<!ENTITY cookiePolicy.label "Cookies-acceptatiebeleid">
+<!ENTITY cookiePolicy.label             "Cookie-acceptatiebeleid">
 
-<!ENTITY accAllCookiesRadio.label "Cookies toestaan">
-<!ENTITY accAllCookiesRadio.accesskey "c">
+<!ENTITY accAllCookiesRadio.label       "Alle cookies toestaan">
+<!ENTITY accAllCookiesRadio.accesskey   "c">
 
-<!ENTITY accOrgCookiesRadio.label "Cookies alleen toestaan voor de oorspronkelijke website">
-<!ENTITY accOrgCookiesRadio.accesskey "o">
+<!ENTITY accOrgCookiesRadio.label       "Cookies alleen toestaan voor de oorspronkelijke website">
+<!ENTITY accOrgCookiesRadio.accesskey   "o">
 
-<!ENTITY disableCookies.label "Cookies blokkeren">
-<!ENTITY disableCookies.accesskey "B">
+<!ENTITY disableCookies.label           "Cookies blokkeren">
+<!ENTITY disableCookies.accesskey       "b">
 
-<!ENTITY cookieRetentionPolicy.label "Cookie-behoudbeleid">
+<!ENTITY cookieRetentionPolicy.label    "Cookiebehoudbeleid">
 
-<!ENTITY acceptNormally.label "Cookies standaard accepteren">
-<!ENTITY acceptNormally.accesskey "n">
+<!ENTITY acceptNormally.label           "Cookies standaard accepteren">
+<!ENTITY acceptNormally.accesskey       "n">
 
-<!ENTITY acceptForSession.label "Accepteren voor de huidige sessie">
-<!ENTITY acceptForSession.accesskey "s">
+<!ENTITY acceptForSession.label         "Alleen accepteren voor huidige sessie">
+<!ENTITY acceptForSession.accesskey     "s">
 
-<!ENTITY acceptforNDays.label "Cookies accepteren voor een bewaartermijn van maximaal:">
-<!ENTITY acceptforNDays.accesskey "a">
-<!ENTITY days.label "dagen">
+<!ENTITY acceptforNDays.label           "Cookies accepteren voor">
+<!ENTITY acceptforNDays.accesskey       "a">
+<!ENTITY days.label                     "dagen">
 
-<!ENTITY warnAboutCookies.label "Voor elke cookie vragen">
-<!ENTITY warnAboutCookies.accesskey "A">
-<!ENTITY forCurrentSession.label "Behalve coor sessiecookies">
-<!ENTITY forCurrentSession.accesskey "e">
+<!ENTITY warnAboutCookies.label         "Voor elk cookie vragen">
+<!ENTITY warnAboutCookies.accesskey     "v">
+<!ENTITY forCurrentSession.label        "behalve voor sessiecookies">
+<!ENTITY forCurrentSession.accesskey    "e">
 
-<!ENTITY manageCookies.label "Cookies en webpagina’s beheren">
-<!ENTITY manageCookiesDescription.label "Bekijken en beheren van opgeslagen cookies, en instellingen voor afzonderlijke websites. Instellingen per website prevaleren over de instellingen die u hier maakt.">
+<!ENTITY manageCookies.label            "Cookies en webpagina’s beheren">
+<!ENTITY manageCookiesDescription.label "Laat u opgeslagen cookies bekijken en beheren, evenals instellingen per website voor het accepteren en weigeren van cookies. Instellingen per website hebben voorrang op de bovenstaande instellingen.">
 
-<!ENTITY viewCookies.label "Cookie-beheerder">
-<!ENTITY viewCookies.accesskey "C">
+<!ENTITY viewCookies.label              "Cookiebeheerder">
+<!ENTITY viewCookies.accesskey          "r">

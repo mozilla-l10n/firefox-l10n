@@ -101,7 +101,7 @@
 <!ENTITY searchInternetCmd.accesskey "Z">
 <!ENTITY searchInternet.commandKey "s">
 
-<!ENTITY clearPrivateDataCmd.label "Privégegevens opruimen">
+<!ENTITY clearPrivateDataCmd.label "Privégegevens wissen">
 <!ENTITY clearPrivateDataCmd.accesskey "P">
 
 <!ENTITY goMenu.label "Ga">

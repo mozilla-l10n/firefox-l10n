@@ -8,7 +8,7 @@
 <!ENTITY openLinkCmdInTab.label         "Koppeling openen in nieuw tabblad">
 <!ENTITY openLinkCmdInTab.accesskey     "t">
 <!ENTITY openLinkInWindowCmd.label      "Openen">
-<!ENTITY openLinkInWindowCmd.accesskey  "p">
+<!ENTITY openLinkInWindowCmd.accesskey  "O">
 <!ENTITY openFrameCmd.label             "Deelvenster openen in nieuw venster">
 <!ENTITY openFrameCmd.accesskey         "v">
 <!ENTITY openFrameCmdInTab.label        "Deelvenster openen in nieuw tabblad">
@@ -30,7 +30,7 @@
 <!ENTITY reloadFrameCmd.accesskey       "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bron van selectie bekijken">
 <!ENTITY viewPartialSourceForMathMLCmd.label "MathML-bron bekijken">
-<!ENTITY viewPartialSourceCmd.accesskey "b">
+<!ENTITY viewPartialSourceCmd.accesskey "B">
 <!ENTITY viewPageSourceCmd.label        "Paginabron bekijken">
 <!ENTITY viewPageSourceCmd.accesskey    "b">
 <!ENTITY viewFrameSourceCmd.label       "Deelvensterbron bekijken">
@@ -41,7 +41,7 @@
 <!ENTITY viewFrameInfoCmd.accesskey     "i">
 <!ENTITY fitImageCmd.label              "Afbeelding aanpassen aan venster">
 <!ENTITY fitImageCmd.accesskey          "a">
-<!ENTITY reloadImageCmd.label           "Afbeelding herhalen">
+<!ENTITY reloadImageCmd.label           "Afbeelding opnieuw laden">
 <!ENTITY reloadImageCmd.accesskey       "e">
 <!ENTITY viewImageCmd.label             "Afbeelding bekijken">
 <!ENTITY viewImageCmd.accesskey         "b">
@@ -51,15 +51,15 @@
 <!ENTITY viewBGImageCmd.accesskey       "c">
 <!ENTITY setWallpaperCmd.label          "Als achtergrond instellen">
 <!ENTITY setWallpaperCmd.accesskey      "h">
-<!ENTITY bookmarkPageCmd.label          "Bladwijzer van deze pagina maken">
+<!ENTITY bookmarkPageCmd.label          "Bladwijzer voor deze pagina maken">
 <!ENTITY bookmarkPageCmd.accesskey      "a">
-<!ENTITY bookmarkLinkCmd.label          "Bladwijzer van deze koppeling maken">
+<!ENTITY bookmarkLinkCmd.label          "Bladwijzer voor deze koppeling maken">
 <!ENTITY bookmarkLinkCmd.accesskey      "l">
-<!ENTITY bookmarkFrameCmd.label         "Bladwijzer van dit deelvenster maken">
-<!ENTITY bookmarkFrameCmd.accesskey     "a">
+<!ENTITY bookmarkFrameCmd.label         "Bladwijzer voor dit deelvenster maken">
+<!ENTITY bookmarkFrameCmd.accesskey     "m">
 <!ENTITY savePageAsCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.label              "Pagina opslaan">
-<!ENTITY savePageCmd.accesskey          "o">
+<!ENTITY savePageCmd.accesskey          "p">
 <!ENTITY savePageCmd.commandkey         "s">
 <!ENTITY saveFrameAsCmd.label           "Deelvenster opslaan als…">
 <!ENTITY saveFrameCmd.label             "Deelvenster opslaan">
@@ -102,33 +102,33 @@
 <!ENTITY redoCmd.accesskey              "u">
 <!ENTITY thisFrameMenu.label            "Dit deelvenster">
 <!ENTITY thisFrameMenu.accesskey        "d">
-<!ENTITY mediaPlay.label                "Spelen">
-<!ENTITY mediaPlay.accesskey            "s">
-<!ENTITY mediaPause.label               "Pause">
+<!ENTITY mediaPlay.label                "Afspelen">
+<!ENTITY mediaPlay.accesskey            "A">
+<!ENTITY mediaPause.label               "Pauzeren">
 <!ENTITY mediaPause.accesskey           "P">
 <!ENTITY mediaMute.label                "Dempen">
 <!ENTITY mediaMute.accesskey            "D">
-<!ENTITY mediaUnmute.label              "Geluid weergeven">
-<!ENTITY mediaUnmute.accesskey          "m">
-<!ENTITY mediaShowControls.label        "Bediening tonen">
+<!ENTITY mediaUnmute.label              "Dempen uitschakelen">
+<!ENTITY mediaUnmute.accesskey          "D">
+<!ENTITY mediaShowControls.label        "Bedieningsknoppen tonen">
 <!ENTITY mediaShowControls.accesskey    "C">
-<!ENTITY mediaHideControls.label        "Bediening verbergen">
+<!ENTITY mediaHideControls.label        "Bedieningsknoppen verbergen">
 <!ENTITY mediaHideControls.accesskey    "C">
 <!ENTITY videoFullScreen.label        "Volledig scherm">
 <!ENTITY videoFullScreen.accesskey    "V">
 <!ENTITY search.accesskey               "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "a">
 <!ENTITY bidiSwitchTextDirectionItem.label "Tekstrichting omkeren">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
-<!ENTITY spellAddToDictionary.label     "Aan woordenboek toevoegen">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.label     "Toevoegen aan woordenboek">
+<!ENTITY spellAddToDictionary.accesskey "T">
 <!ENTITY spellIgnoreWord.label          "Woord negeren">
-<!ENTITY spellIgnoreWord.accesskey      "w">
+<!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "Spelling controleren">
 <!ENTITY spellCheckEnable.accesskey     "S">
 <!ENTITY spellNoSuggestions.label       "(geen spellingsuggesties)">
 <!ENTITY spellDictionaries.label        "Talen">
-<!ENTITY spellDictionaries.accesskey    "T">
+<!ENTITY spellDictionaries.accesskey    "l">
 <!ENTITY spellAddDictionaries.label     "Meer woordenboeken downloaden">
-<!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY spellAddDictionaries.accesskey "M">

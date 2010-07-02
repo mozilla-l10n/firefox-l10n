@@ -2,31 +2,31 @@
 
 <!ENTITY pref.popups.caption            "Pop-upvensters">
 
-<!ENTITY popupBlock.label               "Blokkeer ongewenste pop-upvensters">
-<!ENTITY popupBlock.accesskey           "B">
+<!ENTITY popupBlock.label               "Ongewenste pop-upvensters blokkeren">
+<!ENTITY popupBlock.accesskey           "b">
 
 <!ENTITY popupExceptions.label          "Toegestane websites…">
-<!ENTITY popupExceptions.accesskey      "A">
+<!ENTITY popupExceptions.accesskey      "T">
 
 <!ENTITY whenBlock.description          "Wanneer een pop-upvenster is geblokkeerd:">
-<!ENTITY playSound.label                "Speel een geluid af:">
-<!ENTITY playSound.accesskey            "s">
+<!ENTITY playSound.label                "Een geluid afspelen:">
+<!ENTITY playSound.accesskey            "u">
 <!ENTITY systemSound.label              "Systeemgeluid">
 <!ENTITY systemSound.accesskey          "S">
 <!ENTITY customSound.label              "Persoonlijk geluidsbestand">
-<!ENTITY customSound.accesskey          "p">
+<!ENTITY customSound.accesskey          "e">
 
 <!ENTITY selectSound.label              "Bladeren…">
-<!ENTITY selectSound.accesskey          "r">
+<!ENTITY selectSound.accesskey          "a">
 <!ENTITY previewSound.label             "Voorbeeld">
-<!ENTITY previewSound.accesskey         "P">
-<!ENTITY selectSound.title              "Pop-up blokkeer geluid selecteren">
+<!ENTITY previewSound.accesskey         "V">
+<!ENTITY selectSound.title              "Pop-upblokkeergeluid selecteren">
 <!ENTITY selectSound.filter             "Geluiden">
 
-<!ENTITY displayIcon.label              "Toon een ikoon in de browserstatusbalk">
-<!ENTITY displayIcon.accesskey          "T">
+<!ENTITY displayIcon.label              "Een pictogram weergeven in de browserstatusbalk">
+<!ENTITY displayIcon.accesskey          "p">
 
-<!ENTITY displayNotification.label      "Een notificatiebalk aan de bovenzijde van inhoudvenster tonen">
+<!ENTITY displayNotification.label      "Een notificatiebalk boven in het inhoudsvenster weergeven">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Noot: Alle pop-ups blokkeren kan voorkomen dat sommige toepassingen van websites niet meer werken, zoals loginvensters voor banken en wikkelsites. Voor details hoe specifieke pagina’s toestemming te geven terwijl al de andere worden geblokkeerd, klik op Help. Zelfs al zijn ze geblokkeerd kunnen paginas andere methodes gebruiken om pop-ups te laten zien.">
+<!ENTITY popupNote.description          "Noot: blokkeren van alle pop-ups kan ervoor zorgen dat belangrijke functionaliteiten van sommige websites niet meer werken, zoals aanmeldingsvensters voor banken en winkelsites. Klik op Help voor details over hoe u specifieke websites toestemming voor het gebruiken van pop-ups kunt geven terwijl alle andere worden geblokkeerd. Ondanks pop-upblokkering kunnen websites andere methoden gebruiken om pop-ups te tonen.">

@@ -20,11 +20,10 @@
    -
    - Contributor(s):
    -   Terry Hayes <thayes@netscape.com>
-   -   Mozilla-nl
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,16 +34,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.security.title "Privacy &amp; veiligheid">
+   
+<!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
+<!ENTITY pref.security.title              "Privacy &amp; beveiliging">
 <!ENTITY  privateData.label               "Privégegevens">
 
-<!ENTITY  alwaysClear.label               "Altijd mijn privégegevens opruimen als ik &brandShortName; afsluit">
-<!ENTITY  alwaysClear.accesskey           "a">
+<!ENTITY  alwaysClear.label               "Altijd mijn privégegevens wissen als ik &brandShortName; afsluit">
+<!ENTITY  alwaysClear.accesskey           "A">
 
-<!ENTITY  askBeforeClear.label            "Mij vragen alvorens privégegevens op te ruimen">
+<!ENTITY  askBeforeClear.label            "Mij vragen alvorens privégegevens te wissen">
 <!ENTITY  askBeforeClear.accesskey        "v">
 
-<!ENTITY clearDataSettings.label          "Als ik &brandShortName; vraag mijn privégegevens op te ruimen, het volgende wissen:">
+<!ENTITY clearDataSettings.label          "Als ik &brandShortName; vraag mijn privégegevens te wissen, moet het volgende worden verwijderd:">
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
@@ -52,4 +53,4 @@
 -->
 <!ENTITY clearDataDialog.label            "Nu wissen…">
 <!ENTITY clearDataSilent.label            "Nu wissen">
-<!ENTITY clearDataDialog.accesskey        "N">
+<!ENTITY clearDataDialog.accesskey        "u">

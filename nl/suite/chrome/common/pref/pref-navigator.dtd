@@ -7,7 +7,7 @@
 <!ENTITY newTabPageMenu.label           "Nieuw tabblad">
 
 <!ENTITY blankPageRadio.label           "Blanco pagina">
-<!ENTITY blankPageRadio.accesskey       "P">
+<!ENTITY blankPageRadio.accesskey       "c">
 <!ENTITY homePageRadio.label            "Beginpagina">
 <!ENTITY homePageRadio.accesskey        "B">
 <!ENTITY lastPageRadio.label            "Laatst bezochte pagina">
@@ -16,27 +16,27 @@
 <!ENTITY restoreSessionRadio.accesskey  "V">
 
 <!ENTITY header2.label                  "Beginpagina">
-<!ENTITY homePageIntro.label            "Op de Begin knop klikken brengt u naar deze pagina of groep pagina's.">
+<!ENTITY homePageIntro.label            "Op de knop Beginpagina klikken brengt u naar deze pagina of groep pagina’s.">
 <!ENTITY useCurrent.label               "Huidige pagina gebruiken">
-<!ENTITY useCurrent.accesskey           "H">
+<!ENTITY useCurrent.accesskey           "u">
 <!ENTITY useCurrentGroup.label          "Huidige groep gebruiken">
-<!ENTITY useCurrentGroup.accesskey      "G">
+<!ENTITY useCurrentGroup.accesskey      "r">
 <!ENTITY browseFile.label               "Bestand kiezen…">
-<!ENTITY browseFile.accesskey           "K">
+<!ENTITY browseFile.accesskey           "k">
 <!ENTITY useDefault.label               "Standaard herstellen">
 <!ENTITY useDefault.accesskey           "S">
 
-<!ENTITY toolbarIntro.label             "De knoppen die u in de werkbalken wilt zien selecteren:">
+<!ENTITY toolbarIntro.label             "Selecteer de knoppen die u in de werkbalken wilt zien:">
 
-<!ENTITY navToolbarIntro.label          "Navigatie werkbalk">
+<!ENTITY navToolbarIntro.label          "Navigatiewerkbalk">
 <!ENTITY goButton.label                 "Ga">
 <!ENTITY goButton.accesskey             "G">
 <!ENTITY searchButton.label             "Zoeken">
 <!ENTITY searchButton.accesskey         "Z">
 
-<!ENTITY defaultBrowserGroup.label      "Standaard browser">
-<!ENTITY defaultBrowserButton.label     "Standaard browser instellen">
-<!ENTITY defaultBrowserButton.accesskey "s">
-<!ENTITY alreadyDefaultText             "&brandShortName; is al uw standaard browser.">
-<!ENTITY defaultPendingText             "&brandShortName; zal als uw standaard browser worden ingesteld als u op OK klikt.">
-<!ENTITY makeDefaultText                "&brandShortName; instellen als uw standaard browser.">
+<!ENTITY defaultBrowserGroup.label      "Standaardbrowser">
+<!ENTITY defaultBrowserButton.label     "Standaardbrowser instellen">
+<!ENTITY defaultBrowserButton.accesskey "d">
+<!ENTITY alreadyDefaultText             "&brandShortName; is al ingesteld als uw standaardbrowser.">
+<!ENTITY defaultPendingText             "&brandShortName; zal als uw standaardbrowser worden ingesteld zodra u op OK klikt.">
+<!ENTITY makeDefaultText                "Stel &brandShortName; in als uw standaardbrowser.">

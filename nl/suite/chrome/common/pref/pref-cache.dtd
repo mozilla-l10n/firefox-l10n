@@ -1,28 +1,28 @@
 <!-- extracted from content/pref-cache.xul -->
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
-<!ENTITY pref.cache.title 			"Buffer">
-<!ENTITY pref.cache.caption 			"Bufferopties instellen">
-<!ENTITY cachePara 				"Kopieën van regelmatig bezochte webpagina’s worden opgeslagen in de buffer op uw harde schijf. (Op vernieuwen klikken laadt altijd de laatste versie van een pagina.)">
-<!ENTITY diskCache.label 			"Grootte:">
-<!ENTITY diskCache.accesskey 			"G">
-<!ENTITY mbytes 				"MB">
-<!ENTITY diskCacheFolder.label 			"Buffermaplocatie:">
-<!ENTITY clearDiskCache.label 			"Buffer legen">
-<!ENTITY clearDiskCache.accesskey 		"B">
-<!ENTITY chooseDiskCacheFolder.label 		"Kies map…">
-<!ENTITY chooseDiskCacheFolder.accesskey 	"K">
-<!ENTITY diskCacheFolderExplanation 		"Bufferbestanden worden opgeslagen in een submap met de naam &quot;Cache&quot; in de map die u specificeert. Herstart &brandShortName; om de veranderingen te activeren.">
-<!ENTITY docCache 				"Vergelijk de pagina in de buffer met die op het netwerk:">
-<!ENTITY oncePsessionRadio.label 		"Eenmaal per sessie">
-<!ENTITY oncePsessionRadio.accesskey 		"E">
-<!ENTITY everyTimeRadio.label 			"Elke keer als ik de pagina bekijk">
-<!ENTITY everyTimeRadio.accesskey 		"k">
-<!ENTITY neverRadio.label 			"Nooit">
-<!ENTITY neverRadio.accesskey 			"N">
-<!ENTITY autoRadio.label 			"Als de pagina oud is">
-<!ENTITY autoRadio.accesskey 			"A">
+<!ENTITY pref.cache.title                "Buffer">
+<!ENTITY pref.cache.caption              "Bufferopties instellen">
+<!ENTITY cachePara                       "Kopieën van regelmatig bezochte webpagina’s worden opgeslagen in de buffer op uw harde schijf. (Op Vernieuwen klikken toont altijd de laatste versie van een pagina.)">
+<!ENTITY diskCache.label                 "Grootte:">
+<!ENTITY diskCache.accesskey             "G">
+<!ENTITY mbytes                          "MB">
+<!ENTITY diskCacheFolder.label           "Buffermaplocatie:">
+<!ENTITY clearDiskCache.label            "Buffer legen">
+<!ENTITY clearDiskCache.accesskey        "B">
+<!ENTITY chooseDiskCacheFolder.label     "Map kiezen…">
+<!ENTITY chooseDiskCacheFolder.accesskey "M">
+<!ENTITY diskCacheFolderExplanation      "Bufferbestanden worden opgeslagen in een submap met de naam “Cache” in de map die u specificeert. Herstart &brandShortName; om wijzigingen van kracht te laten worden.">
+<!ENTITY docCache                        "De pagina in de buffer vergelijken met de pagina op het netwerk:">
+<!ENTITY oncePsessionRadio.label         "Eenmaal per sessie">
+<!ENTITY oncePsessionRadio.accesskey     "s">
+<!ENTITY everyTimeRadio.label            "Elke keer dat ik de pagina bekijk">
+<!ENTITY everyTimeRadio.accesskey        "E">
+<!ENTITY neverRadio.label                "Nooit">
+<!ENTITY neverRadio.accesskey            "N">
+<!ENTITY autoRadio.label                 "Wanneer de pagina is verouderd">
+<!ENTITY autoRadio.accesskey             "W">
 
-<!ENTITY prefetchTitle.label 			"Vooraf laden van webpagina's">
-<!ENTITY enablePrefetch.label 			"Koppelingen in webpagina's vooraf laden wanneer er geen andere netwerkactiviteit is, zodat webpagina's die hiervoor ontworpen zijn sneller laden">
-<!ENTITY enablePrefetch.accesskey 		"V">
+<!ENTITY prefetchTitle.label             "Koppelingen vooraf ophalen">
+<!ENTITY enablePrefetch.label            "Webpagina’s vooraf ophalen wanneer er geen activiteit is, zodat koppelingen in webpagina’s die hiervoor zijn ontworpen sneller kunnen laden">
+<!ENTITY enablePrefetch.accesskey        "v">

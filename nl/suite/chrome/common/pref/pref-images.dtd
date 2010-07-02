@@ -6,17 +6,17 @@
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY imageDetails "Specificeert hoe &brandShortName; omgaat met afbeeldingen">
+<!ENTITY imageDetails                   "Specificeer hoe &brandShortName; omgaat met afbeeldingen.">
 
 <!ENTITY accAllImagesRadio.label        "Alle afbeeldingen accepteren">
 <!ENTITY accAllImagesRadio.accesskey    "A">
-<!ENTITY accOrgImagesRadio.label        "Accepteer alleen afbeeldingen van de oorspronkelijke server">
-<!ENTITY accOrgImagesRadio.accesskey    "c">
+<!ENTITY accOrgImagesRadio.label        "Alleen afbeeldingen van de oorspronkelijke server accepteren">
+<!ENTITY accOrgImagesRadio.accesskey    "o">
 <!ENTITY disableImages.label            "Geen afbeeldingen laden">
 <!ENTITY disableImages.accesskey        "G">
-<!ENTITY viewImages.label               "Afbeeldingtoestemmingen beheren">
+<!ENTITY viewImages.label               "Afbeeldingstoestemmingen beheren">
 <!ENTITY viewImages.accesskey           "b">
-<!ENTITY animLoopingTitle.label         "Animaties herhalen">
+<!ENTITY animLoopingTitle.label         "Geanimeerde afbeeldingen herhaald afspelen">
 <!ENTITY animLoopAsSpecified.label      "Zo vaak als de afbeelding specificeert">
 <!ENTITY animLoopAsSpecified.accesskey  "Z">
 <!ENTITY animLoopOnce.label             "Eenmaal">
