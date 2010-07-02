@@ -36,23 +36,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.masterpass.title                  "Hoofdwachtwoord">
-<!ENTITY  managepassword.caption                 "Hoofdwachtwoord timeout">
-<!ENTITY  managepassword.text                    "&brandShortName; zal vragen om uw hoofdwachtwoord:">
+<!ENTITY  pref.masterpass.title                  "Hoofdwachtwoorden">
+<!ENTITY  managepassword.caption                 "Hoofdwachtwoord-wachttijd">
+<!ENTITY  managepassword.text                    "&brandShortName; zal om uw hoofdwachtwoord vragen:">
 <!ENTITY  managepassword.askfirsttime            "De eerste keer dat het nodig is">
 <!ENTITY  managepassword.askfirsttime.accesskey  "D">
-<!ENTITY  managepassword.askeverytime            "Elke keer als het nodig is">
+<!ENTITY  managepassword.askeverytime            "Elke keer dat het nodig is">
 <!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "Als het niet gebruikt is voor ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minuteen of langer">
+<!ENTITY  managepassword.asktimeout              "Als het niet gebruikt is sinds ">
+<!ENTITY  managepassword.asktimeout.accesskey    "A">
+<!ENTITY  managepassword.timeout.unit            "minuten of meer">
 
 <!ENTITY  changepassword.caption                 "Hoofdwachtwoord wijzigen">
-<!ENTITY  changepassword.text                    "Uw hoofdwachtwoord wordt gebruikt om gevoelige informatie zoals wachtwoorden voor websites en certificaten te beschermen.">
+<!ENTITY  changepassword.text                    "Uw hoofdwachtwoord beschermt gevoelige informatie, zoals webwachtwoorden en -certificaten.">
 <!ENTITY  changepassword.button                  "Wachtwoord wijzigen…">
-<!ENTITY  changepassword.accesskey               "w">
+<!ENTITY  changepassword.accesskey               "W">
 
 <!ENTITY  resetpassword.caption                  "Hoofdwachtwoord herinitialiseren">
-<!ENTITY  resetpassword.text                     "Als u uw hoofdwachtwoord opnieuw instelt zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten.">
+<!ENTITY  resetpassword.text                     "Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels verloren gaan.">
 <!ENTITY  resetpassword.button                   "Wachtwoord herinitialiseren">
-<!ENTITY  resetpassword.accesskey                "h">
+<!ENTITY  resetpassword.accesskey                "r">
