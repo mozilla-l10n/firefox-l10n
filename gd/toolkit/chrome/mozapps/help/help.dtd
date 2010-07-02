@@ -10,9 +10,9 @@
 <!ENTITY forwardButton.label            "Air adhart">
 <!ENTITY forwardButton.accesskey        "d">
 <!ENTITY forwardButton.tooltip          "Rach duilleag air adhart">
-<!ENTITY copyCmd.label                  "Dèan leth-bhreac">
-<!ENTITY copyCmd.accesskey              "l">
-<!ENTITY selectAllCmd.label             "Tagh na h-uile">
+<!ENTITY copyCmd.label                  "Dèan lethbhreac">
+<!ENTITY copyCmd.accesskey              "c">
+<!ENTITY selectAllCmd.label             "Tagh a h-uile">
 <!ENTITY selectAllCmd.accesskey         "T">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">

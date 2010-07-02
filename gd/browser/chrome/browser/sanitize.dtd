@@ -34,7 +34,7 @@ that require it.  -->
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "An eachdraidh brabhsaidh ┐ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY itemHistoryAndDownloads.accesskey "e">
-<!ENTITY itemBrowsingHistory.label         "An eachdraidh brabhsachaidh">
+<!ENTITY itemBrowsingHistory.label         "An eachdraidh brabhsaidh">
 <!ENTITY itemBrowsingHistory.accesskey     "r">
 <!ENTITY itemFormSearchHistory.label       "Eachdraidh nam foirmean ┐ nan lorg">
 <!ENTITY itemFormSearchHistory.accesskey   "d">

@@ -27,7 +27,7 @@
 <!ENTITY selectionRadio.label "Na chaidh a thaghadh">
 <!ENTITY selectionRadio.accesskey "N">
 
-<!ENTITY copies.label "Leth-bhric">
+<!ENTITY copies.label "Lethbhric">
 <!ENTITY numCopies.label "Àireamh de lethbhric:">
 <!ENTITY numCopies.accesskey "c">
 
@@ -36,5 +36,5 @@
 <!ENTITY aslaidoutRadio.accesskey "s">
 <!ENTITY selectedframeRadio.label  "Am frèam a chaidh a thaghadh">
 <!ENTITY selectedframeRadio.accesskey  "m">
-<!ENTITY eachframesepRadio.label  "Gach frèam na aonar">
+<!ENTITY eachframesepRadio.label  "Gach frèam 'na aonar">
 <!ENTITY eachframesepRadio.accesskey  "G">

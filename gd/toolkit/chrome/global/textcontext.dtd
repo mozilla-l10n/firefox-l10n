@@ -1,12 +1,12 @@
 <!ENTITY cutCmd.label "Gearr às">
 <!ENTITY cutCmd.accesskey "s">
-<!ENTITY copyCmd.label "Dèan leth-bhreac">
-<!ENTITY copyCmd.accesskey "l">
+<!ENTITY copyCmd.label "Dèan lethbhreac">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Cuir ann">
 <!ENTITY pasteCmd.accesskey "C">
 <!ENTITY undoCmd.label "Neo-dhèan">
 <!ENTITY undoCmd.accesskey "n">
-<!ENTITY selectAllCmd.label "Tagh na h-uile">
+<!ENTITY selectAllCmd.label "Tagh a h-uile">
 <!ENTITY selectAllCmd.accesskey "T">
 <!ENTITY deleteCmd.label "Sguab às">
 <!ENTITY deleteCmd.accesskey "S">

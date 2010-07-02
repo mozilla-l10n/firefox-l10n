@@ -1,6 +1,6 @@
-<!ENTITY  engineManager.title       "Rianaich liosta nan innealan-luirg">
+<!ENTITY  engineManager.title       "Rianaich liosta nan einnseanan-luirg">
 <!ENTITY  engineManager.style       "min-width: 39em;">
-<!ENTITY  engineManager.intro       "Tha na h-innealan-luirg a leanas air an suidheachadh agad:">
+<!ENTITY  engineManager.intro       "Tha na h-einnseanan-luirg a leanas air an suidheachadh agad:">
 
 <!ENTITY  columnLabel.name          "Ainm">
 <!ENTITY  columnLabel.keyword       "Facal-luirg">
@@ -15,7 +15,7 @@
 <!ENTITY  edit.label                "Deasaich am facal-luirg…">
 <!ENTITY  edit.accesskey            "e">
 
-<!ENTITY  addEngine.label           "Faigh tuilleadh innealan-luirg…">
+<!ENTITY  addEngine.label           "Faigh tuilleadh einnseanan-luirg…">
 <!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "Seall molaidhean-luirg">

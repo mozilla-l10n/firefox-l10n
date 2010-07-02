@@ -41,10 +41,10 @@
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Dèan leth-bhreac">
-<!ENTITY  copy.accesskey        "l">
+<!ENTITY  copy.label            "Dèan lethbhreac">
+<!ENTITY  copy.accesskey        "c">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Tagh na h-uile">
+<!ENTITY  selectall.label       "Tagh a h-uile">
 <!ENTITY  selectall.accesskey   "T">
 <!ENTITY  closeWindow.key       "w">
 
@@ -97,7 +97,7 @@
 <!ENTITY  permPopup             "Fosgladh de phriob-uinneagan">
 <!ENTITY  permCookie            "Suidheachadh de bhriosgaidean">
 <!ENTITY  permInstall           "Stàladh de leasachan no coltasan">
-<!ENTITY  permGeo               "Leigeil fios mun àite">
+<!ENTITY  permGeo               "Nochd d' àite">
 
 <!ENTITY  securityTab           "Tèarainteachd">
 <!ENTITY  securityTab.accesskey "T">

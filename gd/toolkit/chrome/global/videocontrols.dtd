@@ -1,7 +1,7 @@
 <!ENTITY playButton.playLabel "Cluich">
 <!ENTITY playButton.pauseLabel "Cuir 'na stad">
-<!ENTITY muteButton.muteLabel "Mùch">
-<!ENTITY muteButton.unmuteLabel "Neo-mhùch">
+<!ENTITY muteButton.muteLabel "Tostaich">
+<!ENTITY muteButton.unmuteLabel "Till an fhuaim">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

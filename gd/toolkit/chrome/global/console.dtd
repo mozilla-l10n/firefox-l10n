@@ -56,8 +56,8 @@
 <!ENTITY evaluate.label     "Luachaich">
 <!ENTITY evaluate.accesskey "L">
 
-<!ENTITY copyCmd.label       "Dèan leth-bhreac">  
-<!ENTITY copyCmd.accesskey   "l"> 
+<!ENTITY copyCmd.label       "Dèan lethbhreac">  
+<!ENTITY copyCmd.accesskey   "c"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Òrdugh seòrsachaidh Toiseach > Crìoch">
 <!ENTITY sortFirst.accesskey "T">
