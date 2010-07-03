@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip        "Viser bokmerkene dine">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bokmerker">
+<!ENTITY bookmarksMenuButton.tooltip        "Vis mine bokmerker">
+<!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
+<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
