@@ -53,7 +53,7 @@
 <!ENTITY detail.showPreferences.label "Preferencias">
 <!ENTITY detail.showPreferences.accesskey "f">
 <!ENTITY detail.showPreferences.tooltip "Cambiar las preferencias de este complemento">
-<!ENTITY rating.yourRating.label "Su evaluación:">
+<!ENTITY rating.label "Calificación:">
 <!ENTITY progress.pause.tooltip "Pausar">
 <!ENTITY progress.cancel.tooltip "Cancelar">
 <!ENTITY sort.name.label "Nombre">
