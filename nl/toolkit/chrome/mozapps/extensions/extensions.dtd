@@ -42,6 +42,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.uninstallAddon.tooltip           "Deze add-on de-installeren">
+<!ENTITY cmd.showPreferences.label            "Voorkeuren">
+<!ENTITY cmd.showPreferences.tooltip          "Voorkeuren van deze add-on's aanpassen">
 <!ENTITY cmd.contribute.label                 "Bijdragen">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Draag bij aan de ontwikkeling van deze add-on">
