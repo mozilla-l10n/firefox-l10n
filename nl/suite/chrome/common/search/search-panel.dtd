@@ -20,11 +20,10 @@
    -
    - Contributor(s):
    -   Robert John Churchill <rjc@netscape.com>
-   -   Mozilla-nl
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,15 +34,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY search.button.label      "Zoeken">
 <!ENTITY allengines.label         "Alle zoekmachines">
 <!ENTITY within.label             "binnen">
 <!ENTITY using.label              "met">
-<!ENTITY choose.label             "Kies een zoekmachine en klik op Zoeken">
+<!ENTITY choose.label             "Kies zoekmachines en klik op Zoeken">
 <!ENTITY results.label            "Zoekresultaten">
 <!ENTITY engine.column.label      "Zoekmachines">
-<!ENTITY customize.menuitem.label "Bewerk categorieën…">
+<!ENTITY customize.menuitem.label "Categorieën bewerken…">
 <!ENTITY next.button.label        "Volgende">
 <!ENTITY previous.button.label    "Vorige">
-<!ENTITY next.button.tooltip      "Volgende resultaten">
-<!ENTITY previous.button.tooltip  "Vorige resultaten">
+<!ENTITY next.button.tooltip      "Volgende zoekresultaten tonen">
+<!ENTITY previous.button.tooltip  "Vorige zoekresultaten tonen">

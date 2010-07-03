@@ -1,9 +1,9 @@
 <!ENTITY migrationWizard.title           "Importeerassistent">
 
-<!ENTITY importAllFrom.label             "Importeer alle items uit:">
-<!ENTITY importBookmarksFrom.label       "Importeer bladwijzers uit:">
+<!ENTITY importAllFrom.label             "Alle items importeren uit:">
+<!ENTITY importBookmarksFrom.label       "Bladwijzers importeren uit:">
 
-<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 of Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey   "S">
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">

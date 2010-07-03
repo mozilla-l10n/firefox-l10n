@@ -1,42 +1,42 @@
 <!-- the following is for the task menu overlay -->
 
-<!ENTITY cookieMessageTitle.label "Cookie toestemmingen veranderd">
+<!ENTITY cookieMessageTitle.label "Cookietoestemmingen gewijzigd">
 <!ENTITY cookieDisplayCookiesCmd.label "Opgeslagen cookies beheren">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "b">
-<!ENTITY cookieAllowCookiesCmd.label "Cookies toestaan van deze webpagina">
+<!ENTITY cookieAllowCookiesCmd.label "Cookies van deze website toestaan">
 <!ENTITY cookieAllowCookiesCmd.accesskey "t">
-<!ENTITY cookieAllowCookiesMsg.label "cookies van deze webpagina zullen altijd worden toegestaan.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "Sessiecookies toestaan van deze webpagina">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies van deze website zullen altijd worden toegestaan.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Sessiecookies van deze website toestaan">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Deze webpaganina kan alleen cookies instellen voor de huidige sessie.">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Deze website kan alleen cookies instellen voor de huidige sessie.">
 <!ENTITY cookieCookiesDefaultCmd.label "Standaard cookietoestemmingen gebruiken">
-<!ENTITY cookieCookiesDefaultCmd.accesskey "g">
-<!ENTITY cookieCookiesDefaultMsg.label "Cookies van deze webpagina zullen worden geaccepteerd of geweigerd op basis van de standaard instellingen.">
-<!ENTITY cookieBlockCookiesCmd.label "Cookies van deze webpagina blokkeren">
-<!ENTITY cookieBlockCookiesCmd.accesskey "B">
-<!ENTITY cookieBlockCookiesMsg.label "Cookies van deze webpagina zullen altijd worden geweigert.">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "d">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies van deze website zullen worden geaccepteerd of geweigerd op basis van de standaardinstellingen.">
+<!ENTITY cookieBlockCookiesCmd.label "Cookies van deze website blokkeren">
+<!ENTITY cookieBlockCookiesCmd.accesskey "k">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies van deze website zullen altijd worden geweigerd.">
 
-<!ENTITY cookieImageMessageTitle.label "Afbeelding toestemming veranderd">
+<!ENTITY cookieImageMessageTitle.label "Afbeeldingstoestemmingen gewijzigd">
 <!ENTITY cookieDisplayImagesCmd.label "Afbeeldingstoestemmingen beheren">
-<!ENTITY cookieDisplayImagesCmd.accesskey "M">
-<!ENTITY cookieAllowImagesCmd.label "Afbeeldingen van deze webpagina toestaan">
-<!ENTITY cookieAllowImagesCmd.accesskey "A">
-<!ENTITY cookieAllowImagesMsg.label "Afbeeldingen van deze webpagina zullen altijd worden gedownload.">
+<!ENTITY cookieDisplayImagesCmd.accesskey "b">
+<!ENTITY cookieAllowImagesCmd.label "Afbeeldingen van deze website toestaan">
+<!ENTITY cookieAllowImagesCmd.accesskey "t">
+<!ENTITY cookieAllowImagesMsg.label "Afbeeldingen van deze website zullen altijd worden gedownload.">
 <!ENTITY cookieImagesDefaultCmd.label "Standaard afbeeldingstoestemmingen gebruiken">
-<!ENTITY cookieImagesDefaultCmd.accesskey "U">
-<!ENTITY cookieImagesDefaultMsg.label "Afbeeldingen van deze webpagina zullen worden gedownload op basis van de standaard instellingen.">
-<!ENTITY cookieBlockImagesCmd.label "Afbeeldingen van deze webpagina blokkeren">
-<!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "Afbeeldingen van deze webpagina zullen nooit worden gedownload.">
+<!ENTITY cookieImagesDefaultCmd.accesskey "d">
+<!ENTITY cookieImagesDefaultMsg.label "Afbeeldingen van deze website zullen worden gedownload op basis van de standaardinstellingen.">
+<!ENTITY cookieBlockImagesCmd.label "Afbeeldingen van deze website blokkeren">
+<!ENTITY cookieBlockImagesCmd.accesskey "k">
+<!ENTITY cookieBlockImagesMsg.label "Afbeeldingen van deze website zullen nooit worden gedownload.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Pop-ups van deze webpagina toestaan">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Pop-ups beheren">
-<!ENTITY cookieManagePopups.accesskey "b">
+<!ENTITY cookieAllowPopupsCmd.label                  "Pop-ups van deze website toestaan">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
+<!ENTITY cookieManagePopups.label                    "Pop-ups beheren">
+<!ENTITY cookieManagePopups.accesskey                "b">
 
-<!ENTITY cookieCookieManager.label "Cookie beheerder">
-<!ENTITY cookieCookieManager.accesskey "c">
-<!ENTITY cookieImageManager.label "Image beheerder">
-<!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Popup beheerder">
+<!ENTITY cookieCookieManager.label "Cookiebeheerder">
+<!ENTITY cookieCookieManager.accesskey "C">
+<!ENTITY cookieImageManager.label "Afbeeldingenbeheerder">
+<!ENTITY cookieImageManager.accesskey "A">
+<!ENTITY cookiePopupManager.label "Pop-upbeheerder">
 <!ENTITY cookiePopupManager.accesskey "o">

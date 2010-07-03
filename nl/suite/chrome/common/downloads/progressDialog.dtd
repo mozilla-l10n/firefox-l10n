@@ -50,5 +50,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "d">
 <!ENTITY cmd.copyDownloadLink.label      "Downloadkoppeling kopiëren">
 <!ENTITY cmd.copyDownloadLink.accesskey  "k">
-<!ENTITY closeWhenDone.label             "Dit venster sluiten als de download is voltooid.">
+<!ENTITY closeWhenDone.label             "Dit venster sluiten wanneer de download is voltooid">
 <!ENTITY closeWhenDone.accesskey         "s">

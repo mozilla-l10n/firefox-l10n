@@ -3,15 +3,15 @@
 <!ENTITY search.url.label               "locatie">
 <!ENTITY search.shortcut.label          "sleutelwoord">
 <!ENTITY search.description.label       "beschrijving">
-<!ENTITY search.startswith.label        "start met">
+<!ENTITY search.startswith.label        "begint met">
 <!ENTITY search.endswith.label          "eindigt met">
 <!ENTITY search.is.label                "is">
 <!ENTITY search.isnot.label             "is niet">
 <!ENTITY search.contains.label          "bevat">
 <!ENTITY search.doesntcontain.label     "bevat geen">
-<!ENTITY save.query.label               "Zoekopdracht in bladwijzers opslaan">
-<!ENTITY save.query.accesskey           "o">
-<!ENTITY search.for.label               "Bladwijzers zoeken wiens">
+<!ENTITY save.query.label               "Zoekopdracht opslaan in bladwijzers">
+<!ENTITY save.query.accesskey           "s">
+<!ENTITY search.for.label               "Bladwijzers zoeken waarvan">
 <!ENTITY findBookmark.title             "Bladwijzers zoeken">
 <!ENTITY findButton.label               "Zoeken">
 <!ENTITY findButton.accesskey           "Z">
