@@ -66,7 +66,7 @@
 <!ENTITY detail.showPreferences.tooltip       "Voorkeuren van deze add-on's aanpassen">
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Uw beoordeling:">
+<!ENTITY rating.label                         "Beoordeling:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
