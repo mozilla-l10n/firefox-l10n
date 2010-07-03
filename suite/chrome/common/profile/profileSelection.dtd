@@ -25,8 +25,8 @@
    Ben Goodger (28/10/99)
 
  Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -39,14 +39,14 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY            windowTitle.label    "Gebruikersprofiel selecteren">
-<!ENTITY            profileManager.title "&brandShortName; Profielbeheerder">
+<!ENTITY            profileManager.title "&brandShortName;-profielbeheerder">
 
 <!ENTITY            manage.label     "Profielen beheren…">
 <!ENTITY            manage.accesskey "b">
-<!ENTITY            select.label     "Gebruik profiel">
+<!ENTITY            select.label     "Profiel gebruiken">
 
 <!ENTITY            availableProfiles.label "Beschikbare profielen">
 
-<!ENTITY            introStart.label         "Uw gebruikersprofiel bevat uw instellingen, voorkeuren, bladwijzers en email. Kies uw profiel uit de lijst en klik &start.label; om uw sessie te starten.">
-<!ENTITY            introSwitch.label        "Als u een ander profiel wil gebruiken, die uw instellingen, voorkeuren, bladwijzers en email bevat. Kies uw profiel uit de lijst en klik &start.label; om die profiel te gaan gebruiken.">
-<!ENTITY            profileManagerText.label "&brandShortName; slaat informatie over uw instellingen, voorkeuren, baldwijzers, opgeslagen berichten en andere gebruikersitems op in uw gebruikersprofiel.">
+<!ENTITY            introStart.label         "Uw gebruikersprofiel bevat uw opgeslagen berichten, instellingen en andere persoonlijke informatie. Kies uw profiel in de lijst en klik op &start.label; om uw sessie te starten.">
+<!ENTITY            introSwitch.label        "Als u wilt overschakelen naar een ander profiel dat opgeslagen berichten, instellingen en andere persoonlijke informatie bevat, kies dan het profiel in de lijst en klik op &start.label; om dat profiel te gaan gebruiken.">
+<!ENTITY            profileManagerText.label "&brandShortName; slaat informatie over uw instellingen, voorkeuren, bladwijzers, opgeslagen berichten en andere gebruikersitems op in uw gebruikersprofiel.">

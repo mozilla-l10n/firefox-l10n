@@ -6,11 +6,11 @@
 <!ENTITY search.placeholder              "Zoeken in downloads">
 <!ENTITY search.label                    "Zoeken in downloads">
 <!ENTITY search.accesskey                "Z">
-<!ENTITY search.key                      "z">
+<!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Lijst wissen">
 <!ENTITY cmd.clearList.tooltip           "Verwijdert voltooide, geannuleerde en mislukte downloads uit de lijst">
-<!ENTITY cmd.clearList.accesskey         "w">
+<!ENTITY cmd.clearList.accesskey         "s">
 
 <!ENTITY col.name.label                  "Naam">
 <!ENTITY col.name.accesskey              "N">
@@ -30,9 +30,9 @@
 <!ENTITY col.timeremaining.label         "Resterende tijd">
 <!ENTITY col.timeremaining.accesskey     "R">
 <!ENTITY col.timeremaining.tooltip       "Resterende tijd">
-<!ENTITY col.transferred.label           "Overdracht">
+<!ENTITY col.transferred.label           "Overgebracht">
 <!ENTITY col.transferred.accesskey       "O">
-<!ENTITY col.transferred.tooltip         "Overdracht">
+<!ENTITY col.transferred.tooltip         "Overgebracht">
 <!ENTITY col.transferrate.label          "Snelheid">
 <!ENTITY col.transferrate.accesskey      "d">
 <!ENTITY col.transferrate.tooltip        "Snelheid">
@@ -41,10 +41,10 @@
 <!ENTITY col.timeelapsed.tooltip         "Verstreken tijd">
 <!ENTITY col.starttime.label             "Begintijd">
 <!ENTITY col.starttime.accesskey         "t">
-<!ENTITY col.starttime.tooltip           "Begintijd overdracht">
+<!ENTITY col.starttime.tooltip           "Begintijd">
 <!ENTITY col.endtime.label               "Eindtijd">
 <!ENTITY col.endtime.accesskey           "i">
-<!ENTITY col.endtime.tooltip             "Eindtijd overdracht">
+<!ENTITY col.endtime.tooltip             "Eindtijd">
 <!ENTITY col.progresstext.label          "&#37;">
 <!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Voortgang (&#37;)">
@@ -52,16 +52,16 @@
 <!ENTITY col.source.accesskey            "o">
 <!ENTITY col.source.tooltip              "Bron">
 
-<!ENTITY view.columns.label              "Toon kolommen">
-<!ENTITY view.columns.accesskey          "k">
-<!ENTITY view.sortBy.label               "Volgorde">
-<!ENTITY view.sortBy.accesskey           "V">
+<!ENTITY view.columns.label              "Kolommen tonen">
+<!ENTITY view.columns.accesskey          "K">
+<!ENTITY view.sortBy.label               "Sorteren op">
+<!ENTITY view.sortBy.accesskey           "S">
 
-<!ENTITY view.unsorted.label             "Niet gerangschikt">
-<!ENTITY view.unsorted.accesskey         "U">
-<!ENTITY view.sortAscending.label        "A > Z volgorde">
+<!ENTITY view.unsorted.label             "Ongesorteerd">
+<!ENTITY view.unsorted.accesskey         "O">
+<!ENTITY view.sortAscending.label        "Sorteervolgorde A > Z">
 <!ENTITY view.sortAscending.accesskey    "A">
-<!ENTITY view.sortDescending.label       "Z > A volgorde">
+<!ENTITY view.sortDescending.label       "Sorteervolgorde Z > A">
 <!ENTITY view.sortDescending.accesskey   "Z">
 
 <!ENTITY cmd.pause.label                 "Pauzeren">
@@ -69,9 +69,9 @@
 <!ENTITY cmd.resume.label                "Hervatten">
 <!ENTITY cmd.resume.accesskey            "H">
 <!ENTITY cmd.retry.label                 "Opnieuw proberen">
-<!ENTITY cmd.retry.accesskey             "O">
+<!ENTITY cmd.retry.accesskey             "u">
 <!ENTITY cmd.cancel.label                "Annuleren">
-<!ENTITY cmd.cancel.accesskey            "A">
+<!ENTITY cmd.cancel.accesskey            "n">
 <!ENTITY cmd.remove.label                "Verwijderen uit lijst">
 <!ENTITY cmd.remove.accesskey            "V">
 <!ENTITY cmd.open.label                  "Openen">

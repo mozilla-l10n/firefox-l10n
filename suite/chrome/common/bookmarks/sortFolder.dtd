@@ -10,7 +10,7 @@
 <!ENTITY sortBy.shortcutUrl.label "Sleutelwoord">
 <!ENTITY sortBy.description.label "Beschrijving">
 <!ENTITY sortBy.bookmarkAddDate.label "Toegevoegd">
-<!ENTITY sortBy.lastModifiedDate.label "Laatst aangepast">
+<!ENTITY sortBy.lastModifiedDate.label "Laatste wijziging">
 <!ENTITY sortBy.lastVisitDate.label "Laatst bezocht">
 
 <!ENTITY sortOrder.label "Sorteervolgorde:">

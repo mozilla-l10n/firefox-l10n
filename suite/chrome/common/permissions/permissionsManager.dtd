@@ -1,15 +1,15 @@
 <!ENTITY windowtitle.label              "Uitzonderingen">
-<!ENTITY treehead.sitename.label        "Webpagina">
+<!ENTITY treehead.sitename.label        "Website">
 <!ENTITY treehead.status.label          "Status">
-<!ENTITY remove.label                   "Webpagina verwijderen">
-<!ENTITY remove.accesskey               "v">
-<!ENTITY removeall.label                "Alle webpagina’s verwijderen">
+<!ENTITY remove.label                   "Website verwijderen">
+<!ENTITY remove.accesskey               "W">
+<!ENTITY removeall.label                "Alle websites verwijderen">
 <!ENTITY removeall.accesskey            "A">
-<!ENTITY address.label                  "Webpagina adres">
+<!ENTITY address.label                  "Adres van de website:">
 <!ENTITY address.accesskey              "d">
-<!ENTITY block.label                    "Blokkeer">
+<!ENTITY block.label                    "Blokkeren">
 <!ENTITY block.accesskey                "B">
-<!ENTITY session.label                  "Sessie toestaan">
-<!ENTITY session.accesskey              "S">
+<!ENTITY session.label                  "Toestaan voor sessie">
+<!ENTITY session.accesskey              "s">
 <!ENTITY allow.label                    "Toestaan">
 <!ENTITY allow.accesskey                "T">

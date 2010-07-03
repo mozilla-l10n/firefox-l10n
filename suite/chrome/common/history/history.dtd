@@ -5,30 +5,30 @@
 <!ENTITY searchBar.tooltip              "Zoekbalk">
 
 <!ENTITY search.placeholder             "Zoeken in geschiedenis">
-<!ENTITY search.key                     "z">
+<!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Weergeven">
 
 <!ENTITY view.columns.label             "Kolommen tonen">
-<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.columns.accesskey         "K">
 <!ENTITY view.sortBy.label              "Sorteren op">
 <!ENTITY view.sortBy.accesskey          "S">
 <!ENTITY view.groupBy.label             "Groeperen op">
 <!ENTITY view.groupBy.accesskey         "G">
 
 <!ENTITY view.unsorted.label            "Ongesorteerd">
-<!ENTITY view.unsorted.accesskey        "o">
+<!ENTITY view.unsorted.accesskey        "O">
 <!ENTITY view.sortAscending.label       "Sorteervolgorde A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Sorteervolgorde Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY view.groupNone.label           "Geen">
-<!ENTITY view.groupNone.accesskey       "g">
+<!ENTITY view.groupNone.accesskey       "G">
 <!ENTITY view.groupDay.label            "Datum">
 <!ENTITY view.groupDay.accesskey        "D">
-<!ENTITY view.groupSite.label           "website">
-<!ENTITY view.groupSite.accesskey       "w">
-<!ENTITY view.groupDayAndSite.label     "datum en website">
+<!ENTITY view.groupSite.label           "Website">
+<!ENTITY view.groupSite.accesskey       "W">
+<!ENTITY view.groupDayAndSite.label     "Datum en website">
 <!ENTITY view.groupDayAndSite.accesskey "e">
 
 <!ENTITY cmd.open.label                 "Openen">
@@ -38,9 +38,9 @@
 <!ENTITY cmd.open_tab.label             "Openen in een nieuw tabblad">
 <!ENTITY cmd.open_tab.accesskey         "t">
 
-<!ENTITY bookmarkLinkCmd.label          "Bladwijzers van deze koppeling maken…">
+<!ENTITY bookmarkLinkCmd.label          "Bladwijzer voor deze koppeling maken…">
 <!ENTITY bookmarkLinkCmd.accesskey      "B">
-<!ENTITY bookmarkLinksCmd.label         "Bladwijzers van deze koppelingen maken…">
+<!ENTITY bookmarkLinksCmd.label         "Bladwijzer voor deze koppelingen maken…">
 <!ENTITY bookmarkLinksCmd.accesskey     "B">
 
 <!ENTITY col.title.label                "Titel">

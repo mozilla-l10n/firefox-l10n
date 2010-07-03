@@ -1,15 +1,15 @@
 <!ENTITY     tab.cookiesonsystem.label      "Opgeslagen cookies">
-<!ENTITY     tab.bannedservers.label        "cookie webpagina">
-<!ENTITY     div.bannedservers.label        "Beheer webpagina’s die geen cookies kunnen opslaan op uw computer.">
+<!ENTITY     tab.bannedservers.label        "Cookiewebsites">
+<!ENTITY     div.bannedservers.label        "Websites beheren die geen cookies kunnen opslaan op uw computer.">
 <!ENTITY     div.cookiesonsystem.label      "Op uw computer opgeslagen cookies bekijken en verwijderen.">
 <!ENTITY     treehead.cookiename.label      "Cookienaam">
 <!ENTITY     treehead.cookiedomain.label    "Website">
 <!ENTITY     treehead.cookieexpires.label   "Verloopt">
-<!ENTITY     treehead.infoselected.label    "Informatie over de geselecteerde cookie">
+<!ENTITY     treehead.infoselected.label    "Informatie over het geselecteerde cookie">
 <!ENTITY     button.removecookie.label      "Cookie verwijderen">
 <!ENTITY     button.removecookie.accesskey  "v">
 <!ENTITY     button.removeallcookies.label  "Alle cookies verwijderen">
-<!ENTITY     button.removeallcookies.accesskey "a">
+<!ENTITY     button.removeallcookies.accesskey "A">
 
 <!ENTITY     search.placeholder             "Cookies zoeken">
 <!ENTITY     focusSearch.key                "f">
@@ -20,10 +20,10 @@
 <!ENTITY     props.value.label              "Inhoud:">
 <!ENTITY     props.domain.label             "Host:">
 <!ENTITY     props.path.label               "Pad:">
-<!ENTITY     props.secure.label             "Verzonden aan:">
+<!ENTITY     props.secure.label             "Verzenden bij:">
 <!ENTITY     props.expires.label            "Verloopt:">
 
-<!ENTITY     treehead.sitename.label        "Webpagina">
+<!ENTITY     treehead.sitename.label        "Website">
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Cookiebeheerder">
 <!ENTITY     buttonaccept.label             "Sluiten">
@@ -34,12 +34,11 @@
 <!ENTITY     allowSite.label                "Toestaan">
 <!ENTITY     allowSite.accesskey            "T">
 <!ENTITY     allowSiteSession.label         "Sessie">
-<!ENTITY     allowSiteSession.accesskey     "S">
-<!ENTITY     removepermission.label         "Webpagina verwijderen">
+<!ENTITY     allowSiteSession.accesskey     "e">
+<!ENTITY     removepermission.label         "Website verwijderen">
 <!ENTITY     removepermission.accesskey     "v">
-<!ENTITY     removeallpermissions.label     "Alle webpagina’s verwijderen">
-<!ENTITY     removeallpermissions.accesskey "a">
-
+<!ENTITY     removeallpermissions.label     "Alle websites verwijderen">
+<!ENTITY     removeallpermissions.accesskey "A">
 
 <!ENTITY     futureCookies.label            "Websites waarvan cookies zijn verwijderd niet toestaan nieuwe cookies in te stellen">
 <!ENTITY     futureCookies.accesskey        "W">
