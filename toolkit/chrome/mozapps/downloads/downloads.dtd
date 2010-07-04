@@ -15,7 +15,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "L">
 <!ENTITY cmd.cancel.label                 "Sguir dheth">
 <!ENTITY cmd.cancel.accesskey             "S">
-<!ENTITY cmd.show.label                   "Fosgail am pasgan sa bheil e">
+<!ENTITY cmd.show.label                   "Fosgail am pasgan far a bheil e">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Seall san lorgair">
 <!ENTITY cmd.showMac.accesskey            "l">
