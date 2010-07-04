@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
 <!ENTITY bookmarksButton.accesskey "Z">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label "Záložky">
+<!ENTITY bookmarksMenuButton.tooltip "Zobrazí záložky">
+<!ENTITY viewBookmarksSidebar.label "Zobrazit v postranní liště">
+<!ENTITY viewBookmarksToolbar.label "Zobrazit lištu záložek">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +164,10 @@
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY hudConsoleCmd.label "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey "U">
+<!ENTITY hudConsoleCmd.commandkey "k">
 
 <!ENTITY inspectMenu.label "Prozkoumat">
 <!ENTITY inspectMenu.accesskey "T">
@@ -368,6 +378,7 @@
 <!ENTITY mediaHideControls.accesskey "o">
 <!ENTITY videoFullScreen.label "Celá obrazovka">
 <!ENTITY videoFullScreen.accesskey "C">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
