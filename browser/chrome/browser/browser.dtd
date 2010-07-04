@@ -49,6 +49,14 @@
 <!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
 
+<!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
+<!ENTITY bookmarksMenuButton.tooltip        "Προβολή των σελιδοδεικτών σας">
+<!ENTITY viewBookmarksSidebar.label         "Προβολή στην πλευρική στήλη">
+<!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
+
+<!ENTITY hudConsoleCmd.label          "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 
 <!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
