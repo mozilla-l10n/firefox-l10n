@@ -53,6 +53,10 @@
 <!ENTITY  closeOtherTabs.accesskey "ä">
 <!ENTITY  openTabInNewWindow.label    "Öppna i ett nytt fönster">
 <!ENTITY  openTabInNewWindow.accesskey "Ö">
+<!ENTITY  pinTab.label                       "Gör om till programflik">
+<!ENTITY  pinTab.accesskey                   "G">
+<!ENTITY  unpinTab.label                     "Gör om till vanlig flik">
+<!ENTITY  unpinTab.accesskey                 "v">
 <!ENTITY  bookmarkThisTab.label       "Bokmärke för denna flik">
 <!ENTITY  bookmarkThisTab.accesskey   "B">
 <!ENTITY  bookmarkAllTabs.label       "Bokmärke för alla flikar…">
