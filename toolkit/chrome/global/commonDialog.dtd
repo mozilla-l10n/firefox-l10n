@@ -2,7 +2,6 @@
 <!ENTITY message.label    "这儿有一些示例文字。">
 <!ENTITY editfield0.label "用户名："> 
 <!ENTITY editfield1.label "密码："> 
-<!ENTITY editfield2.label "确认密码："> 
 <!ENTITY checkbox.label   "选定">
 <!ENTITY copyCmd.label    "复制">
 <!ENTITY copyCmd.accesskey "C">
