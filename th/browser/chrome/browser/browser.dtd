@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "อ">
 <!ENTITY  openTabInNewWindow.label           "เปิดในหน้าต่างใหม่">
 <!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  pinTab.label                       "ทำเป็น App Tab">
+<!ENTITY  pinTab.accesskey                   "ส">
+<!ENTITY  unpinTab.label                     "ทำเป็นแท็บปกติ">
+<!ENTITY  unpinTab.accesskey                 "ป">
 <!ENTITY  bookmarkThisTab.label              "คั่นหน้าเว็บนี้">
 <!ENTITY  bookmarkThisTab.accesskey          "น">
 <!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
