@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!ENTITY  openTabInNewWindow.label           "在新窗口中打开">
 <!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  pinTab.label                       "制成应用程序标签页">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "制成普通标签页">
+<!ENTITY  unpinTab.accesskey                 "k">
 <!ENTITY  bookmarkThisTab.label              "将此标签页加为书签">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "将全部标签页加为书签…">
@@ -129,6 +133,12 @@
 <!ENTITY bookmarksButton.tooltip        "显示您的书签">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "书签">
+<!ENTITY bookmarksMenuButton.tooltip        "显示您的书签">
+<!ENTITY viewBookmarksSidebar.label         "显示在侧边栏">
+<!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +168,10 @@
 <!ENTITY errorConsoleCmd.label        "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "HUD 终端">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "查看">
 <!ENTITY inspectMenu.accesskey        "T">
@@ -228,11 +242,14 @@
 <!ENTITY showAllHistoryCmd2.label "显示全部历史">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "打印">
+<!ENTITY appMenuCustomize.label "定制">
+<!ENTITY appMenuToolbarLayout.label "工具栏布局…">
+<!ENTITY appMenuSidebars.label "侧边栏">
+<!ENTITY appMenuHelp.label "帮助">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "搜索书签和历史">
-<!ENTITY urlbar.bookmark.emptyText    "搜索书签">
-<!ENTITY urlbar.history.emptyText     "搜索历史记录">
-<!ENTITY urlbar.none.emptyText        "输入网址">
+<!ENTITY urlbar.placeholder           "转到一个网站">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "切换到标签:">
 

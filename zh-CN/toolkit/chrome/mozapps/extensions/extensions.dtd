@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "搜索">
 <!ENTITY view.discover.label                  "获取附加组件">
-<!ENTITY view.languages.label                 "语言">
+<!ENTITY view.locales.label                   "语言">
 <!ENTITY view.searchengines.label             "搜索引擎">
 <!ENTITY view.features.label                  "扩展">
 <!ENTITY view.appearance.label                "主题">
@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.uninstallAddon.tooltip           "卸载此附加组件">
+<!ENTITY cmd.showPreferences.label            "首选项">
+<!ENTITY cmd.showPreferences.tooltip          "更改此附加组件的配置">
 <!ENTITY cmd.contribute.label                 "贡献">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "对此附加组件的开发做出贡献">
@@ -67,7 +69,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "你的评级:">
+<!ENTITY rating.label                         "评分：">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "暂停">
@@ -86,10 +88,8 @@
 
 
 <!ENTITY showMore.label                       "显示更多">
-<!ENTITY showMore.accesskey                   "m">
 <!ENTITY showMore.tooltip                     "显示更多明细">
 <!ENTITY showLess.label                       "减少显示项">
-<!ENTITY showLess.accesskey                   "l">
 <!ENTITY showLess.tooltip                     "显示更多的详细信息">
 
 <!ENTITY search.filter.label                  "显示：">
