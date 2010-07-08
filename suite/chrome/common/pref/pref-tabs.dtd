@@ -12,17 +12,3 @@
 <!ENTITY loadGroupReplace.label "Nahradit existující panely">
 <!ENTITY loadGroupReplace.accesskey "R">
 <!ENTITY openTabs.label "Otevírat panely místo oken při">
-
-<!ENTITY newWindow.label "Odkazy otevírající nové okno">
-<!ENTITY newWindowDescription.label "Odkazy otevírající nové okno otevírat v:">
-<!ENTITY external.label "Odkazy z ostatních aplikací">
-<!ENTITY externalDescription.label "Odkazy otevírané z jiných aplikací otevírat v:">
-<!ENTITY openCurrent.label "Aktuální panel/okno">
-<!ENTITY newWindowGroupCurrent.accesskey "k">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "Nový panel v aktuálním okně">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "Nové okno">
-<!ENTITY newWindowGroupWindow.accesskey "o">
-<!ENTITY externalGroupWindow.accesskey "o">

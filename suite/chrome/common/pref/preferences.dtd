@@ -11,6 +11,7 @@
 <!ENTITY applications.label "Pomocné aplikace">
 <!ENTITY locationBar.label "Adresní řádek">
 <!ENTITY tabWindows.label "Prohlížení v panelech">
+<!ENTITY links.label "Chování odkazů">
 <!ENTITY offline.label "Režim offline">
 <!ENTITY security.label "Soukromí a zabezpečení">
 <!ENTITY cookies.label "Cookies">
