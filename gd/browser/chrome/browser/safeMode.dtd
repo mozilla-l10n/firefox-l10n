@@ -45,7 +45,7 @@
 <!ENTITY disableAddons.label          "Dèan gach tuillead neo chomasach">
 <!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label          "Aisig gach bàr-inneil is inneal-smachd">
+<!ENTITY resetToolbars.label          "Aisig gach bàr-inneil is uidheam-smachd">
 <!ENTITY resetToolbars.accesskey      "r">
 
 <!ENTITY deleteBookmarks.label        "Sguab às gach comharra-lìn ach a-mhàin na lethbhric-ghlèidhidh">

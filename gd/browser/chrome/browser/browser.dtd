@@ -331,10 +331,10 @@
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Till an fhuaim">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "Seall na h-innealan-smachd">
-<!ENTITY mediaShowControls.accesskey "i">
-<!ENTITY mediaHideControls.label     "Cuir na h-innealan-smachd am falach">
-<!ENTITY mediaHideControls.accesskey "i">
+<!ENTITY mediaShowControls.label     "Seall na h-uidheaman-smachd">
+<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaHideControls.label     "Cuir na h-uidheaman-smachd am falach">
+<!ENTITY mediaHideControls.accesskey "C">
 
 
 <!-- LOCALIZATION NOTE :

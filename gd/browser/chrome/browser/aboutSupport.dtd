@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
 <!ENTITY aboutSupport.appBasicsProfileDir "Pasgan nan clàr-aithne">
-<!ENTITY aboutSupport.appBasicsPlugins "Pluginichean air an stàladh">
+<!ENTITY aboutSupport.appBasicsPlugins "Plugain air a stàladh">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Co-dhealbhachd na togalach">
 
 <!ENTITY aboutSupport.show.label "Fosgail am pasgan far a bheil e">

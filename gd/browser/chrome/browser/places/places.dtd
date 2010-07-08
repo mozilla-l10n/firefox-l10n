@@ -87,8 +87,8 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Fosgail gach duilleag ann an taba">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
-<!ENTITY cmd.properties.label      "Feartan">
-<!ENTITY cmd.properties.accesskey  "r">
+<!ENTITY cmd.properties.label      "Roghainnean">
+<!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.show_info.key  "i">
 
