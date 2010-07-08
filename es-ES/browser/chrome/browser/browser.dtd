@@ -12,6 +12,10 @@
 <!ENTITY closeOtherTabs.accesskey "C">
 <!ENTITY openTabInNewWindow.label "Abrir en una ventana nueva">
 <!ENTITY openTabInNewWindow.accesskey "n">
+<!ENTITY pinTab.label "Hacer una pestaña de aplicación">
+<!ENTITY pinTab.accesskey "ñ">
+<!ENTITY unpinTab.label "Hacer una pestaña normal">
+<!ENTITY unpinTab.accesskey "ñ">
 <!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
 <!ENTITY bookmarkThisTab.accesskey "ñ">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
