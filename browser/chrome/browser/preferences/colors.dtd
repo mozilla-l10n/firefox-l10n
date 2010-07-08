@@ -6,7 +6,7 @@
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Teacs is cùlaibh">
-<!ENTITY  textColor.label                 "Teacs:">
+<!ENTITY  textColor.label                 "Teacsa:">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Cùlaibh:">
 <!ENTITY  backgroundColor.accesskey       "C">

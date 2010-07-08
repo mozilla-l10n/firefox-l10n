@@ -128,8 +128,8 @@
 <!ENTITY searchAddons.label               "Rannsaich na tuilleadain gu lèir">
 <!ENTITY browseAddons.label               "Rùraich na tuilleadain gu lèir">
 <!ENTITY searchFailed.label               "Cha b' urrainn do &brandShortName; na tuilleadain fhaighinn">
-<!ENTITY recommendedHeader.label          "Air a mholadh">
-<!ENTITY recommendedThrobber.label        "A' faighinn nan tuilleadan a chaidh a mholadh">
+<!ENTITY recommendedHeader.label          "Mholar seo">
+<!ENTITY recommendedThrobber.label        "A' faighinn nan tuilleadan a thathar a' moladh">
 <!ENTITY searchThrobber.label             "A' rannsachadh nan tuilleadan">
 <!ENTITY resetSearch.label                "Glan na toraidhean">
 <!ENTITY noSearchResults.label            "Tha a h-uile toradh air a stàladh mu thràth no neo-chòrdail.">
@@ -140,9 +140,9 @@
 <!ENTITY searchFailed.button              "Ceart ma-tha">
 <!ENTITY searchResultHomepage.value       "Faigh tuilleadh eòlais">
 <!ENTITY searchBox.label                  "Rannsaich na tuilleadain gu lèir">
-<!ENTITY recommendedResults.label         "Seall a h-uile tuilleadan a tha air a mholadh">
+<!ENTITY recommendedResults.label         "Seall a h-uile tuilleadan a thathar a' moladh">
 <!ENTITY searchResultConnecting.label     "A' ceangal…">
-<!ENTITY searchResultInstalling.label     "A' stàladh…">
+<!ENTITY searchResultInstalling.label     "'Ga stàladh…">
 <!ENTITY searchResultFailed.label         "Dh'fhàillig an stàladh">
 <!ENTITY searchResultInstalled.label      "Tha an stàladh deiseil">
 <!ENTITY addonTypeExtension.label         "Leasachan">
@@ -162,7 +162,7 @@
 <!ENTITY updateSuccessRestart.label       "Ath-thòisich gus an t-ùrachadh a thoirt gu buil.">
 <!ENTITY installWaiting.label             "A' feitheamh…">
 <!ENTITY installIncompatibleUpdate.label  "A' sgrùdadh co-chòrdalachd…">
-<!ENTITY installFinishing.label           "A' stàladh…">
+<!ENTITY installFinishing.label           "'Ga stàladh…">
 <!ENTITY installFailure.label             "Dh'fhàillig an stàladh.">
 
 <!ENTITY progressStatus.label             "A' lorg ùrachaidhean">
