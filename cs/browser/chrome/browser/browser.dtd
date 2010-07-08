@@ -22,6 +22,10 @@
 <!ENTITY closeOtherTabs.accesskey "s">
 <!ENTITY openTabInNewWindow.label "Otevřít v novém okně">
 <!ENTITY openTabInNewWindow.accesskey "v">
+<!ENTITY pinTab.label "Připnout panel">
+<!ENTITY pinTab.accesskey "a">
+<!ENTITY unpinTab.label "Odepnout panel">
+<!ENTITY unpinTab.accesskey "a">
 <!ENTITY bookmarkThisTab.label "Přidat tento panel do záložek…">
 <!ENTITY bookmarkThisTab.accesskey "P">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
