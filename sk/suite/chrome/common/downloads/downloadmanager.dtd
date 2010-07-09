@@ -9,7 +9,7 @@
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Vymazať zoznam">
-<!ENTITY cmd.clearList.tooltip           "Odstráni dokončené, zrušené alebo neúspešne prevzaté súbory zo zoznamu">
+<!ENTITY cmd.clearList.tooltip           "Odstrániť dokončené, zrušené alebo neúspešne prevzaté súbory zo zoznamu">
 <!ENTITY cmd.clearList.accesskey         "V">
 
 <!ENTITY col.name.label                  "Názov">

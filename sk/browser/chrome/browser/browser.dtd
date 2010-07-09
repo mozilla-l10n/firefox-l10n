@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "a">
 <!ENTITY  openTabInNewWindow.label           "Otvoriť v novom okne">
 <!ENTITY  openTabInNewWindow.accesskey       "k">
+<!ENTITY  pinTab.label                       "Pripnúť kartu">
+<!ENTITY  pinTab.accesskey                   "t">
+<!ENTITY  unpinTab.label                     "Zrušiť pripnutie karty">
+<!ENTITY  unpinTab.accesskey                 "t">
 <!ENTITY  bookmarkThisTab.label              "Pridať túto kartu medzi záložky">
 <!ENTITY  bookmarkThisTab.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
@@ -107,11 +111,11 @@
 <!ENTITY backForwardMenu.tooltip        "Naposledy navštívené stránky">
 <!ENTITY reloadCmd.label                "Obnoviť">
 <!ENTITY reloadCmd.accesskey            "O">
-<!ENTITY reloadButton.tooltip           "Načíta najnovšiu verziu stránky">
+<!ENTITY reloadButton.tooltip           "Načítať najnovšiu verziu stránky">
 <!ENTITY stopCmd.label                  "Zastaviť">
 <!ENTITY stopCmd.accesskey              "Z">
 <!ENTITY stopCmd.macCommandKey          ".">
-<!ENTITY stopButton.tooltip             "Zastaví načítavanie tejto stránky">
+<!ENTITY stopButton.tooltip             "Zastaviť načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip               "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY feedButton.tooltip             "Prihlásiť sa k odberu kanála tejto stránky…">
 <!ENTITY printButton.label              "Tlačiť">
@@ -131,7 +135,7 @@
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
-<!ENTITY bookmarksMenuButton.tooltip        "Zobrazí záložky">
+<!ENTITY bookmarksMenuButton.tooltip        "Zobraziť záložky">
 <!ENTITY viewBookmarksSidebar.label         "Zobraziť v bočnom paneli">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 
@@ -142,7 +146,7 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label           "História">
-<!ENTITY historyButton.tooltip         "Zobrazí naposledy prezerané stránky">
+<!ENTITY historyButton.tooltip         "Zobraziť naposledy prezerané stránky">
 <!ENTITY historySidebarCmd.accesskey   "H">
 <!ENTITY historySidebarCmd.commandKey  "h">
 
@@ -154,7 +158,7 @@
 <!ENTITY search.label "Vyhľadávanie na webe">
 <!ENTITY search.accesskey "V">
 <!ENTITY downloads.label "Správca preberania súborov">
-<!ENTITY downloads.tooltip "Zobrazí stav preberania súborov">
+<!ENTITY downloads.tooltip "Zobraziť stav preberania súborov">
 <!ENTITY downloads.accesskey "S">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -407,8 +411,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Lupa">
 <!ENTITY fullZoom.accesskey             "L">
 
-<!ENTITY newTabButton.tooltip           "Otvorí novú kartu">
-<!ENTITY newWindowButton.tooltip        "Otvorí nové okno">
+<!ENTITY newTabButton.tooltip           "Otvoriť novú kartu">
+<!ENTITY newWindowButton.tooltip        "Otvoriť nové okno">
 <!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
 
 <!ENTITY cutButton.tooltip              "Vystrihnúť">

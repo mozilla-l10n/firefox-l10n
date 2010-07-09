@@ -879,7 +879,7 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="using-priv-help-password-manage" nc:name="Remembering User Names and Passwords" nc:link="using_priv_help.xhtml#using_password_manager_to_remember_user_names_and_passwords"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-password-auto" nc:name="Entering Names and Passwords Automatically" nc:link="using_priv_help.xhtml#entering_user_names_and_passwords_automatically"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-password-onoff" nc:name="Turning On and Off" nc:link="using_priv_help.xhtml#turning_password_manager_on_and_off"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-password-onoff" nc:name="Turning Password Manager On and Off" nc:link="using_priv_help.xhtml#turning_password_manager_on_and_off"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-password-view" nc:name="Managing Stored Passwords" nc:link="using_priv_help.xhtml#viewing_and_managing_stored_passwords"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-password-settings" nc:name="Nastavenie hesla" nc:link="passwords_help.xhtml#password_settings"/> </rdf:li>
       </rdf:Seq>
@@ -1143,9 +1143,9 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="shortcuts_using" nc:name="Používame klávesové skratky" nc:link="shortcuts.xhtml#using_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_general" nc:name="Všeobecné skratky pre &brandShortName;" nc:link="shortcuts.xhtml#general_mozilla_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Skratky prehliadača" nc:link="shortcuts-navigator.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Skratky pre Poštu a diskusné skupiny" nc:link="shortcuts-mailnews.xhtml"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Skratky pre Composer" nc:link="shortcuts-composer.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator" nc:name="Skratky prehliadača" nc:link="shortcuts_navigator.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail" nc:name="Skratky pre Poštu a diskusné skupiny" nc:link="shortcuts_mailnews.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_composer" nc:name="Skratky pre Composer" nc:link="shortcuts_composer.xhtml"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_help" nc:name="Skratky pre pomocníka" nc:link="shortcuts.xhtml#help_window_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1154,12 +1154,12 @@
 <rdf:Description about="#shortcuts_navigator">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Skratky pre záložky" nc:link="shortcuts-navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Skratky pre navigáciu na stránkach" nc:link="shortcuts-navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Skratky pre zobrazovanie stránok" nc:link="shortcuts-navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Skratky pre prehliadanie na kartách" nc:link="shortcuts-navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Skratky Bočného panela" nc:link="shortcuts-navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="Skratky pre formuláre" nc:link="shortcuts-navigator.xhtml#forms_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_bookmarks" nc:name="Skratky pre záložky" nc:link="shortcuts_navigator.xhtml#bookmarks_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_navigation" nc:name="Skratky pre navigáciu na stránkach" nc:link="shortcuts_navigator.xhtml#page_navigation_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_page_viewing" nc:name="Skratky pre zobrazovanie stránok" nc:link="shortcuts_navigator.xhtml#page_viewing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_tabbed_browsing" nc:name="Skratky pre prehliadanie na kartách" nc:link="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_sidebar" nc:name="Skratky Bočného panela" nc:link="shortcuts_navigator.xhtml#sidebar_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_navigator_forms" nc:name="Skratky pre formuláre" nc:link="shortcuts_navigator.xhtml#forms_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1167,9 +1167,9 @@
 <rdf:Description about="#shortcuts_mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Všeobecné skratky pre Poštu a diskusné skupiny" nc:link="shortcuts-mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Skratky pre zoznam správ" nc:link="shortcuts-mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
-        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Skratky pre vytváranie správ" nc:link="shortcuts-mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Všeobecné skratky pre Poštu a diskusné skupiny" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Skratky pre zoznam správ" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Skratky pre vytváranie správ" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>

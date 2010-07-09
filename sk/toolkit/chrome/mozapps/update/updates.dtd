@@ -1,6 +1,6 @@
 <!ENTITY  updateWizard.title              "Aktualizácia softvéru">
 
-<!ENTITY  checking.title                  "Zisťujú sa aktualizácie">
+<!ENTITY  checking.title                  "Vyhľadávajú sa aktualizácie">
 <!ENTITY  updateCheck.label               "Vyhľadáva sa novšia verzia programu &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Nájdené aktualizácie zásuvných modulov">

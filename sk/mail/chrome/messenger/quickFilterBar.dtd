@@ -48,7 +48,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Zobrazí len prečítané správy">
+         "Zobraziť len prečítané správy">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -62,7 +62,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Zobrazí len správy označené hviezdičkou">
+         "Zobraziť len správy označené hviezdičkou">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -78,7 +78,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Zobrazí len správy od ľudí vo vašom adresári">
+         "Zobraziť len správy od ľudí v mojom adresári">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -92,7 +92,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Zobrazí len správy s priradenými značkami">
+         "Zobraziť len správy s priradenými značkami">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -106,7 +106,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Zobrazí len správy obsahujúce prílohy">
+         "Zobraziť len správy obsahujúce prílohy">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the

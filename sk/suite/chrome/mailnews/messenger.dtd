@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -158,13 +159,8 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Panel nástrojov pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "n">
-
-<!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"Panel Vyhľadávanie">
-<!ENTITY showSearchToolbarCmd.accesskey	"V">
-
-<!ENTITY showLocationToolbarCmd.label "Panel s adresou">
-<!ENTITY showLocationToolbarCmd.accesskey "a">
+<!ENTITY showSearchToolbarCmd.label "Panel Vyhľadávanie">
+<!ENTITY showSearchToolbarCmd.accesskey "V">
 
 <!ENTITY messagePaneLayoutStyle.label "Rozmiestnenie">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Zastaviť">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nie Spam">
+<!ENTITY searchButton.title "Rozšírené vyhľadávanie">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Panel Ponuka">
 <!ENTITY mailToolbar.tooltip "Panel Pošta">
-<!ENTITY locationToolbar.tooltip "Panel s adresou">
+<!ENTITY searchToolbar.tooltip "Panel Vyhľadávanie">
 <!ENTITY advancedButton.tooltip "Pokročilé hľadanie v správach">
 <!ENTITY getMsgButton.tooltip "Prijať nové správy">
 <!ENTITY newMsgButton.tooltip "Napísať novú správu">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Hľadať predmet alebo Od">
 <!ENTITY advancedButton.label "Rozšírené…">
 <!ENTITY advancedButton.accesskey "o">
+<!ENTITY searchButton.label "Hľadať v správach…">
+<!ENTITY searchButton.accesskey "H">
 
 <!ENTITY all.label "Všetky">
 <!ENTITY all.accesskey "V">
