@@ -50,8 +50,8 @@
 <!ENTITY calendar.calendar.label          "Kalendár">
 <!ENTITY calendar.calendar.accesskey      "K">
 
-<!ENTITY calendar.newevent.button.tooltip            "Vytvorí novú udalosť" >
-<!ENTITY calendar.newtask.button.tooltip             "Vytvorí novú úlohu" >
+<!ENTITY calendar.newevent.button.tooltip            "Vytvoriť novú udalosť" >
+<!ENTITY calendar.newtask.button.tooltip             "Vytvoriť novú úlohu" >
 
 <!ENTITY calendar.unifinder.todoitems.label          "Úlohy" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobraziť dokončené úlohy">
@@ -87,10 +87,10 @@
 <!ENTITY calendar.today.button.tooltip            "Prejsť na dnešný deň" >
 <!ENTITY calendar.todaypane.button.tooltip        "Zobraziť panel Dnes" >
 
-<!ENTITY calendar.day.button.tooltip            "Zmení pohľad na denný" >
-<!ENTITY calendar.week.button.tooltip           "Zmení pohľad na týždenný" >
-<!ENTITY calendar.month.button.tooltip          "Zmení pohľad na mesačný" >
-<!ENTITY calendar.multiweek.button.tooltip      "Zmení pohľad na viactýždenný" >
+<!ENTITY calendar.day.button.tooltip            "Zmeniť pohľad na denný" >
+<!ENTITY calendar.week.button.tooltip           "Zmeniť pohľad na týždenný" >
+<!ENTITY calendar.month.button.tooltip          "Zmeniť pohľad na mesačný" >
+<!ENTITY calendar.multiweek.button.tooltip      "Zmeniť pohľad na viactýždenný" >
 
 <!ENTITY calendar.nextday.label                 "Nasledujúci deň" >
 <!ENTITY calendar.prevday.label                 "Predchádzajúci deň" >
@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Názov:">
 <!ENTITY calendarproperties.readonly.label                 "Len na čítanie">
 <!ENTITY calendarproperties.firealarms.label               "Zobraziť upozornenia">
-<!ENTITY calendarproperties.cache.label                    "Vyrovnávacia pamäť (EXPERIMENTÁLNE, vyžaduje reštart)">
+<!ENTITY calendarproperties.cache.label                    "Vyrovnávacia pamäť (EXPERIMENTÁLNE)">
 <!ENTITY calendarproperties.enabled.label                  "Zapnúť tento kalendár">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskytovateľ tohto kalendára nebol nájdený. Toto sa často stáva, ak zakážete alebo odinštalujte určité rozšírenia.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odhlásiť sa">

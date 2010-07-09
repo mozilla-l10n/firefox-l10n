@@ -45,6 +45,6 @@
 <!ENTITY customize.menuitem.label "Upraviť kategórie…">
 <!ENTITY next.button.label        "Ďalšie">
 <!ENTITY previous.button.label    "Predchádzajúce">
-<!ENTITY next.button.tooltip      "Zobrazí ďalšie výsledky vyhľadávania">
-<!ENTITY previous.button.tooltip  "Zobrazí predchádzajúce výsledky vyhľadávania">
+<!ENTITY next.button.tooltip      "Zobraziť ďalšie výsledky vyhľadávania">
+<!ENTITY previous.button.tooltip  "Zobraziť predchádzajúce výsledky vyhľadávania">
 

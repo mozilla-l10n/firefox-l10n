@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkDone.label    "Hotovo">
 <!ENTITY editBookmarkTags.label    "Pridajte značky">
 
-<!ENTITY helperApp.prompt          "Čo si prajete vykonať s">
-<!ENTITY helperApp.open            "Otvoriť">
-<!ENTITY helperApp.save            "Uložiť">
-<!ENTITY helperApp.nothing         "Nič">
-
 <!ENTITY formHelper.previous       "Predchádzajúca">
 <!ENTITY formHelper.next           "Ďalšia">
 <!ENTITY formHelper.done           "Hotovo">

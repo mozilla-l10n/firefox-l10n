@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label                "Vždy sa opýtať, kam uložiť súbory">
 <!ENTITY alwaysAsk.accesskey            "k">
 
-<!ENTITY downloadRetention.label        "Uchovávanie prevzatých súborov">
-<!ENTITY removeDownloads.label          "Záznamy o preberaných súboroch odstraňovať:">
-<!ENTITY removeDownloads.accesskey      "r">
+<!ENTITY downloadHistory.label          "História prevzatých súborov">
+<!ENTITY removeEntries.label            "Záznamy o preberaných súboroch odstraňovať:">
+<!ENTITY removeEntries.accesskey        "r">
 <!ENTITY whenCompleted.label            "po ich prevzatí">
 <!ENTITY whenQuittingApp.label          "pri ukončení &brandShortName;">
 <!ENTITY neverRemove.label              "nikdy">

@@ -36,13 +36,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Vymazať zoznam">
-<!ENTITY cmd.clearList.tooltip            "Odstráni dokončené, zrušené alebo neúspešne prevzaté súbory zo zoznamu">
+<!ENTITY cmd.clearList.tooltip            "Odstrániť dokončené, zrušené alebo neúspešne prevzaté súbory zo zoznamu">
 <!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Zavrieť, keď sa preberanie dokončí">
-<!ENTITY closeWhenDone.tooltip            "Zatvorí okno Správcu preberania súborov, keď sa skončí preberanie všetkých súborov">
+<!ENTITY closeWhenDone.tooltip            "Zavrieť okno Správcu preberania súborov, keď sa dokončí preberanie všetkých súborov">
 
 <!ENTITY showFolder.label                 "Zobraziť tento priečinok">
 <!ENTITY searchBox.label                  "Hľadať…">

@@ -47,7 +47,7 @@
 <!ENTITY reportForm.email.accesskey                 "E">
 
 <!ENTITY reportForm.privacyPolicy.title             "Zásady ochrany súkromia">
-<!ENTITY reportForm.privacyPolicy.tooltip           "Zobrazí zásady ochrany súkromia">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Zobraziť zásady ochrany súkromia">
 
 <!ENTITY reportResults.showDetail.title             "Zobrazit detaily">
 <!ENTITY reportResults.showDetail.accesskey         "Z">

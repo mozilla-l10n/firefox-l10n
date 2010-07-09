@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label					"Pomocník">
 <!ENTITY helpMenu.accesskey			"P">
 
+<!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
+<!ENTITY helpTroubleshootingInfo.accesskey  "n">
 <!ENTITY releaseCmd.label				"Poznámky k vydaniu">
 <!ENTITY releaseCmd.accesskey   "P">
 <!ENTITY updateCmd.label        "Kontrola aktualizácií…">

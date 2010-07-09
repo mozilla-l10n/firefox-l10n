@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label               "Obnoviť predvolené">
 <!ENTITY useDefault.accesskey           "b">
 
-<!ENTITY toolbarIntro.label             "Vyberte tlačidlá, ktoré budú zobrazené na paneloch nástrojov:">
-
-<!ENTITY navToolbarIntro.label          "Navigačný panel">
-<!ENTITY goButton.label                 "Prejsť">
-<!ENTITY goButton.accesskey             "s">
-<!ENTITY searchButton.label             "Hľadať">
-<!ENTITY searchButton.accesskey         "H">
-
 <!ENTITY defaultBrowserGroup.label      "Predvolený prehliadač">
 <!ENTITY defaultBrowserButton.label     "Nastaviť predvolený prehliadač">
 <!ENTITY defaultBrowserButton.accesskey "e">

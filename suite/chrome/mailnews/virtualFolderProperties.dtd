@@ -2,7 +2,7 @@
 <!ENTITY name.label                    "Názov:">
 <!ENTITY name.accesskey                "N">
 <!ENTITY description.label             "Vytvoriť ako podpriečinok v:">
-<!ENTITY description.accesskey         "V">
+<!ENTITY description.accesskey         "o">
 
 <!ENTITY searchTermCaption.label       "Konfigurácia kritérií vyhľadávania pre tento virtuálny priečinok:">
 
@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label            "Hľadať online (vracia vždy aktuálne výsledky v priečinkoch IMAP a diskusných skupinách, ale zvyšuje čas potrebný na ich otvorenie)">
 <!ENTITY searchOnline.accesskey        "o">
+<!ENTITY newFolderButton.label       "Vytvoriť">
+<!ENTITY newFolderButton.accesskey   "V">
+<!ENTITY editFolderButton.label      "Aktualizovať">
+<!ENTITY editFolderButton.accesskey  "A">

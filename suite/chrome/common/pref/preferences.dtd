@@ -13,6 +13,7 @@
 <!ENTITY applications.label "Pomocné aplikácie">
 <!ENTITY locationBar.label "Panel Adresa">
 <!ENTITY tabWindows.label "Prehliadanie na kartách">
+<!ENTITY links.label "Správanie sa odkazov">
 <!ENTITY offline.label "Režim Offline">
 <!ENTITY security.label "Súkromie a bezpečnosť">
 <!ENTITY cookies.label "Cookies">
