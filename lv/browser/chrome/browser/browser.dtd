@@ -210,10 +210,21 @@
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Meklēt grāmatzīmēs un vēsturē">
-<!ENTITY urlbar.bookmark.emptyText    "Meklēt grāmatzīmēs">
-<!ENTITY urlbar.history.emptyText     "Meklēt vēsturē">
-<!ENTITY urlbar.none.emptyText        "Ierakstīt tīmekļa adresi">
+<!ENTITY urlbar.placeholder           "Iet uz mājas lapu">
+
+<!ENTITY appMenuPrintCmd.label "Drukāt">
+<!ENTITY appMenuCustomize.label "Pielāgot">
+<!ENTITY appMenuToolbarLayout.label "Rīkjoslas izkārtojums…">
+<!ENTITY appMenuSidebars.label "Sānjoslas">
+<!ENTITY appMenuHelp.label "Palīdzība">
+<!ENTITY bookmarksMenuButton.label          "Grāmatzīmes">
+<!ENTITY bookmarksMenuButton.tooltip        "Attēlo jūsu grāmatzīmes">
+<!ENTITY viewBookmarksSidebar.label         "Rādīt sānjoslā">
+<!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānjoslā">
+
+<!ENTITY hudConsoleCmd.label          "Brīdinājumu ekrāns">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
