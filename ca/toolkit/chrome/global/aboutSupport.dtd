@@ -1,10 +1,9 @@
-<!ENTITY aboutSupport.pageTitle "Informació per a la resolució d'errors">
+<!ENTITY aboutSupport.pageTitle "Informació per a la resolució de problemes">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Aquesta pàgina conté informació que pot ser útil quan proveu 
-  de resoldre un problema. Si cerqueu respostes per a preguntes habituals
-  sobre el &brandShortName;, consulteu el nostre <a id='supportLink'>lloc web d'assistència</a>.
+  Aquesta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents
+  del &brandShortName;, visiteu el nostre <a id='supportLink'>lloc web d'assistència</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensions">
@@ -16,15 +15,16 @@
 <!ENTITY aboutSupport.appBasicsTitle "Paràmetres bàsics de l'aplicació">
 <!ENTITY aboutSupport.appBasicsName "Nom">
 <!ENTITY aboutSupport.appBasicsVersion "Versió">
-<!ENTITY aboutSupport.appBasicsProfileDir "Directori dels perfils">
+<!ENTITY aboutSupport.appBasicsProfileDir "Directori del perfil">
 <!ENTITY aboutSupport.appBasicsPlugins "Connectors instal·lats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuració de la versió">
 
 <!ENTITY aboutSupport.show.label "Obre la carpeta on es troba">
 
-<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific variant of aboutSupport.show.label.  This allows us to use the preferred "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Mostra'l en el Finder">
-
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Mostra-ho en el Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferències modificades">
 <!ENTITY aboutSupport.modifiedPrefsName "Nom">
@@ -33,4 +33,4 @@
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instal·lació">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'actualització">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copia-ho tot al porta-retalls">
+<!ENTITY aboutSupport.copyToClipboard.label "Copia-ho tot al portaretalls">

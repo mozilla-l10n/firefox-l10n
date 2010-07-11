@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Actualització de programari">
 
-<!ENTITY  window.width                    "42em">
-<!ENTITY  window.macWidth                 "45em">
-
 <!ENTITY  checking.title                  "Comprovació d'actualitzacions">
 <!ENTITY  updateCheck.label               "S'estan cercant versions més noves del &brandShortName;…">
 
@@ -39,7 +36,7 @@
 
 <!ENTITY  incompatibleList.title          "S'han trobat complements incompatibles">
 
-<!ENTITY  downloading.title               "S'està baixant l'actualització">
+<!ENTITY  downloadPage.title              "S'està baixant el &brandShortName;">
 <!ENTITY  downloading.intro               "S'està baixant l'actualització…">
 <!ENTITY  connecting.label                "S'està connectant al servidor d'actualitzacions…">
 <!ENTITY  verificationFailedText.label    "El &brandShortName; no ha pogut verificar la integritat 
