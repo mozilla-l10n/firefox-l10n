@@ -211,6 +211,10 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.placeholder           "Iet uz mājas lapu">
+<!ENTITY  pinTab.label                       "Izveidot programcilni">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Izveidot parastu cilni">
+<!ENTITY  unpinTab.accesskey                 "v">
 
 <!ENTITY appMenuPrintCmd.label "Drukāt">
 <!ENTITY appMenuCustomize.label "Pielāgot">
