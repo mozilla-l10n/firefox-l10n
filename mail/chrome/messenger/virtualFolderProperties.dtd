@@ -9,3 +9,7 @@
 <!ENTITY chooseFoldersButton.accesskey "В">
 <!ENTITY searchOnline.label "Сеткавы пошук (дае найноўшыя вынікі IMAP папак і папак навінаў, аднак павялічвае час адкрыцця папкі)">
 <!ENTITY searchOnline.accesskey "С">
+<!ENTITY newFolderButton.label "Стварыць">
+<!ENTITY newFolderButton.accesskey "т">
+<!ENTITY editFolderButton.label "Абнавіць">
+<!ENTITY editFolderButton.accesskey "А">

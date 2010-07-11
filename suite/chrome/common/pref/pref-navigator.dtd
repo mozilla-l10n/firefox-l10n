@@ -22,12 +22,6 @@
 <!ENTITY browseFile.accesskey "Ф">
 <!ENTITY useDefault.label "Першапачатковая">
 <!ENTITY useDefault.accesskey "П">
-<!ENTITY toolbarIntro.label "Выберыце кнопкі, якія вы жадаеце бачыць на паліцы прылад:">
-<!ENTITY navToolbarIntro.label "Прыладапаліца навігацыі">
-<!ENTITY goButton.label "Пайсці">
-<!ENTITY goButton.accesskey "П">
-<!ENTITY searchButton.label "Пошук">
-<!ENTITY searchButton.accesskey "ш">
 <!ENTITY defaultBrowserGroup.label "Змоўчны азіральнік">
 <!ENTITY defaultBrowserButton.label "Прызначыць змоўчным азіральнікам">
 <!ENTITY defaultBrowserButton.accesskey "з">

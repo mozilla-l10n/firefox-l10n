@@ -2,7 +2,7 @@
 <!ENTITY smartTitle.label "Кіраванне ўсталяваннем праграмнага забеспячэння і абнаўленняў">
 <!ENTITY enableSU.label "Дазволіць пляцоўкам сеціва ўсталёўваць пашырэнні і абнаўленні">
 <!ENTITY enableSU.accesskey "Д">
-<!ENTITY allowedSites.label "Дазволеныя пляцоўкі">
+<!ENTITY allowedSites.label "Дазволеныя пляцоўкі Сеціва">
 <!ENTITY allowedSites.accesskey "з">
 <!ENTITY verifyUpdates.caption "Абнаўленні">
 <!ENTITY autoUpdates.label "Самастойна правяраць, ці існуюць абнаўленні для:">

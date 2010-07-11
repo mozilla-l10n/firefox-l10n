@@ -6,7 +6,7 @@
 <!ENTITY listEmpty.button.label "Падрабязней пра дадаткі">
 <!ENTITY view.search.label "Пошук">
 <!ENTITY view.discover.label "Атрымаць дадаткі">
-<!ENTITY view.languages.label "Мовы">
+<!ENTITY view.locales.label "Мовы">
 <!ENTITY view.searchengines.label "Машыны пошуку">
 <!ENTITY view.features.label "Пашырэнні">
 <!ENTITY view.appearance.label "Тэмы">
@@ -34,6 +34,8 @@
 <!ENTITY cmd.uninstallAddon.label "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey "В">
 <!ENTITY cmd.uninstallAddon.tooltip "Высталяваць гэты дадатак">
+<!ENTITY cmd.showPreferences.label "Перавагі">
+<!ENTITY cmd.showPreferences.tooltip "Змяніць перавагі гэтага дадатка">
 <!ENTITY cmd.contribute.label "Ахвяраваць">
 <!ENTITY cmd.contribute.accesskey "А">
 <!ENTITY cmd.contribute.tooltip "Ахвяраваць сродкі на распрацоўку гэтага дадатку">
@@ -50,8 +52,8 @@
 <!ENTITY detail.checkForUpdates.tooltip "Праверыць, ці існуюць абнаўленні гэтага дадатку">
 <!ENTITY detail.showPreferences.label "Перавагі">
 <!ENTITY detail.showPreferences.accesskey "П">
-<!ENTITY detail.showPreferences.tooltip "Змяніць перавагі гэтага дадатку">
-<!ENTITY rating.yourRating.label "Ваша ацэнка:">
+<!ENTITY detail.showPreferences.tooltip "Змяніць перавагі гэтага дадатка">
+<!ENTITY rating.label "Ацэнка:">
 <!ENTITY progress.pause.tooltip "Прыпыніць">
 <!ENTITY progress.cancel.tooltip "Скасаваць">
 <!ENTITY sort.name.label "Назва">

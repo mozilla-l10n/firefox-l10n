@@ -20,9 +20,9 @@
 <!ENTITY view.groupNone.accesskey "Н">
 <!ENTITY view.groupDay.label "Дзень">
 <!ENTITY view.groupDay.accesskey "Д">
-<!ENTITY view.groupSite.label "Пляцоўка">
+<!ENTITY view.groupSite.label "Пляцоўка Сеціва">
 <!ENTITY view.groupSite.accesskey "П">
-<!ENTITY view.groupDayAndSite.label "Дзень і пляцоўка">
+<!ENTITY view.groupDayAndSite.label "Дзень і пляцоўка Сеціва">
 <!ENTITY view.groupDayAndSite.accesskey "і">
 <!ENTITY cmd.open.label "Адкрыць">
 <!ENTITY cmd.open.accesskey "к">

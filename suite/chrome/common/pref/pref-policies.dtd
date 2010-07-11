@@ -3,10 +3,10 @@
 <!ENTITY policies.label "Палітыкі:">
 <!ENTITY default.label "Змоўчная палітыка">
 <!ENTITY allWebsites.label "Усе пляцоўкі Сеціва">
-<!ENTITY trusted.label "Надзейныя пляцоўкі">
+<!ENTITY trusted.label "Надзейныя пляцоўкі Сеціва">
 <!ENTITY annoyances.label "Агульныя нездавальненні">
-<!ENTITY restricted.label "Абмежаваныя пляцоўкі">
-<!ENTITY addSite.label "Дадаць пляцоўку…">
+<!ENTITY restricted.label "Абмежаваныя пляцоўкі Сеціва">
+<!ENTITY addSite.label "Дадаць пляцоўку Сеціва…">
 <!ENTITY addSite.accesskey "Д">
 <!ENTITY settings.label "Наладжванні для">
 <!ENTITY settings.accesskey "л">
