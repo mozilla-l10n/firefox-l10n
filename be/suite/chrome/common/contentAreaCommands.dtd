@@ -1,6 +1,6 @@
-<!ENTITY popupWindowRejectCmd.label "Адхіляць вокны-вынырцы з гэтай пляцоўкі">
+<!ENTITY popupWindowRejectCmd.label "Адхіляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай пляцоўкі">
+<!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey "п">

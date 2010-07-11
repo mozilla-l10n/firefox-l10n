@@ -112,8 +112,6 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "л">
 <!ENTITY showSearchToolbarCmd.label "Паліца пошуку">
 <!ENTITY showSearchToolbarCmd.accesskey "о">
-<!ENTITY showLocationToolbarCmd.label "Прыладапаліца месцазнаходжання">
-<!ENTITY showLocationToolbarCmd.accesskey "М">
 <!ENTITY messagePaneLayoutStyle.label "Раскладка">
 <!ENTITY messagePaneLayoutStyle.accesskey "Р">
 <!ENTITY messagePaneClassic.label "Класічны від">
@@ -419,9 +417,10 @@
 <!ENTITY stopButton.label "Прыпыніць">
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
+<!ENTITY searchButton.title "Пашыраны пошук">
 <!ENTITY menuBar.tooltip "Паліца меню">
 <!ENTITY mailToolbar.tooltip "Паліца прыладаў пошты">
-<!ENTITY locationToolbar.tooltip "Прыладапаліца месцазнаходжання">
+<!ENTITY searchToolbar.tooltip "Паліца пошуку">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук лістоў">
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY newMsgButton.tooltip "Стварыць новы ліст">
@@ -509,9 +508,10 @@
 <!ENTITY folderContextSettings.label "Наладжванні…">
 <!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Пошук тэмы або адрасу">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "П">
+<!ENTITY searchButton.label "Пошук лістоў…">
+<!ENTITY searchButton.accesskey "П">
 <!ENTITY all.label "Усе">
 <!ENTITY all.accesskey "У">
 <!ENTITY junkBarMessage.label "&brandShortName; лічыць, што гэты ліст – паштовая лухта.">

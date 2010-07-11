@@ -1,9 +1,9 @@
 <!ENTITY tab.cookiesonsystem.label "Захаваныя біркі">
-<!ENTITY tab.bannedservers.label "Пляцоўкі бірак">
-<!ENTITY div.bannedservers.label "Кіраванне пляцоўкамі, якія могуць ці не захоўваць біркі на вашым кампутары.">
+<!ENTITY tab.bannedservers.label "Сеціўныя пляцоўкі бірак">
+<!ENTITY div.bannedservers.label "Кіраванне сеціўнымі пляцоўкамі, якія могуць ці не захоўваць біркі на вашым кампутары.">
 <!ENTITY div.cookiesonsystem.label "Прагляд і выдаленне бірак, якія захоўваюцца на вашым кампутары.">
 <!ENTITY treehead.cookiename.label "Назва біркі">
-<!ENTITY treehead.cookiedomain.label "Пляцоўка">
+<!ENTITY treehead.cookiedomain.label "Пляцоўка Сеціва">
 <!ENTITY treehead.cookieexpires.label "Высіліцца">
 <!ENTITY treehead.infoselected.label "Звесткі аб вылучанай бірцы">
 <!ENTITY button.removecookie.label "Выдаліць бірку">
@@ -20,7 +20,7 @@
 <!ENTITY props.path.label "Шлях:">
 <!ENTITY props.secure.label "Дасылаецца праз:">
 <!ENTITY props.expires.label "Высіліцца:">
-<!ENTITY treehead.sitename.label "Пляцоўка">
+<!ENTITY treehead.sitename.label "Пляцоўка Сеціва">
 <!ENTITY treehead.status.label "Статус">
 <!ENTITY windowtitle.label "Кіраўнік бірак">
 <!ENTITY buttonaccept.label "Зачыніць">
@@ -31,9 +31,9 @@
 <!ENTITY allowSite.accesskey "Д">
 <!ENTITY allowSiteSession.label "Сэсія">
 <!ENTITY allowSiteSession.accesskey "С">
-<!ENTITY removepermission.label "Выдаліць пляцоўку">
+<!ENTITY removepermission.label "Выдаліць пляцоўку Сеціва">
 <!ENTITY removepermission.accesskey "ы">
-<!ENTITY removeallpermissions.label "Выдаліць усе пляцоўкі">
+<!ENTITY removeallpermissions.label "Выдаліць усе сеціўныя пляцоўкі">
 <!ENTITY removeallpermissions.accesskey "п">
-<!ENTITY futureCookies.label "Не дазваляць пляцоўкам, якія ўсталёўвалі выдаленыя біркі, усталёўваць біркі зноў">
+<!ENTITY futureCookies.label "Не дазваляць сеціўным пляцоўкам, якія ўсталёўвалі выдаленыя біркі, усталёўваць біркі зноў">
 <!ENTITY futureCookies.accesskey "Н">

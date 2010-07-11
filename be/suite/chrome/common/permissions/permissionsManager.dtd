@@ -1,9 +1,9 @@
 <!ENTITY windowtitle.label "Выключэнні">
-<!ENTITY treehead.sitename.label "Пляцоўка">
+<!ENTITY treehead.sitename.label "Пляцоўка Сеціва">
 <!ENTITY treehead.status.label "Статус">
-<!ENTITY remove.label "Прыняць пляцоўку">
+<!ENTITY remove.label "Прыняць сеціўную пляцоўку">
 <!ENTITY remove.accesskey "П">
-<!ENTITY removeall.label "Прыняць усе пляцоўкі">
+<!ENTITY removeall.label "Прыняць усе сеціўныя пляцоўкі">
 <!ENTITY removeall.accesskey "у">
 <!ENTITY address.label "Адрас пляцоўкі сеціва:">
 <!ENTITY address.accesskey "А">

@@ -55,7 +55,7 @@
 <!ENTITY warn.leavingsecure.accesskey "к">
 <!ENTITY warn.viewmixed "Праглядам старонкі, якая змяшчае зашыфраваныя і незашыфраваныя даныя">
 <!ENTITY warn.viewmixed.accesskey "П">
-<!ENTITY certselect.description "Вырашае, як &brandShortName; выбірае пасведчанне бяспекі для падання яго пляцоўцы сеціва, якая патрабуе пасведчанне:">
+<!ENTITY certselect.description "Вырашае, як &brandShortName; выбірае пасведчанне бяспекі для падання яго пляцоўкам сеціва, якія патрабуюць пасведчанне:">
 <!ENTITY certselect.auto "Выбірае самастойна">
 <!ENTITY certselect.auto.accesskey "с">
 <!ENTITY certselect.ask "Запытвае кожны раз">

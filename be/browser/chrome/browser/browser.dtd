@@ -12,6 +12,10 @@
 <!ENTITY closeOtherTabs.accesskey "З">
 <!ENTITY openTabInNewWindow.label "Адчыніць у новым акне">
 <!ENTITY openTabInNewWindow.accesskey "А">
+<!ENTITY pinTab.label "Зрабіць устаўкай прыстасавання">
+<!ENTITY pinTab.accesskey "п">
+<!ENTITY unpinTab.label "Зрабіць звычайнай устаўкай">
+<!ENTITY unpinTab.accesskey "з">
 <!ENTITY bookmarkThisTab.label "Закласці гэтую ўстаўку">
 <!ENTITY bookmarkThisTab.accesskey "ў">
 <!ENTITY bookmarkAllTabs.label "Дадаць закладкі да ўсіх уставак…">
@@ -106,6 +110,10 @@
 <!ENTITY bookmarksButton.tooltip "Паказаць вашы закладкі">
 <!ENTITY bookmarksButton.accesskey "З">
 <!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksMenuButton.label "Закладкі">
+<!ENTITY bookmarksMenuButton.tooltip "Паказаць вашы закладкі">
+<!ENTITY viewBookmarksSidebar.label "Паказаць на палічцы">
+<!ENTITY viewBookmarksToolbar.label "Паказаць прыладапаліцу закладак">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Гісторыя">
@@ -128,6 +136,9 @@
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY hudConsoleCmd.label "Адлюстравальнік перасцярогаў">
+<!ENTITY hudConsoleCmd.accesskey "р">
+<!ENTITY hudConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Даследаваць">
 <!ENTITY inspectMenu.accesskey "Д">
 <!ENTITY inspectMenu.commandkey "I">
@@ -187,11 +198,13 @@
 <!ENTITY historyHomeCmd.label "Дадому">
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY appMenuPrintCmd.label "Друкаваць">
+<!ENTITY appMenuCustomize.label "Уладкаваць">
+<!ENTITY appMenuToolbarLayout.label "Раскладка прыладапаліцы…">
+<!ENTITY appMenuSidebars.label "Палічкі">
+<!ENTITY appMenuHelp.label "Даведка">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Пошук у закладках і гісторыі">
-<!ENTITY urlbar.bookmark.emptyText "Пошук закладак">
-<!ENTITY urlbar.history.emptyText "Пошук у гісорыі">
-<!ENTITY urlbar.none.emptyText "Набярыце адрас Сеціва">
+<!ENTITY urlbar.placeholder "Перайсці на пляцоўку Сеціва">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Пераключыцца ў устаўку:">
 <!ENTITY searchFocus.commandkey "k">

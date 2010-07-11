@@ -19,6 +19,6 @@
 <!ENTITY forCurrentSession.label "апрача сэсійных бірак">
 <!ENTITY forCurrentSession.accesskey "а">
 <!ENTITY manageCookies.label "Кіраванне біркамі і пляцоўкамі">
-<!ENTITY manageCookiesDescription.label "Дазваляе вам праглядаць і кіраваць захаванымі біркамі і наладжваннямі пляцовак для набывання і адхілення бірак. Наладжванні для пляцовак пераважваюць наладжванні ўгары.">
+<!ENTITY manageCookiesDescription.label "Дазваляе вам праглядаць і кіраваць захаванымі біркамі і наладжваннямі сеціўных пляцовак для набывання і адхілення бірак. Наладжванні для пляцовак пераважваюць наладжванні ўгары.">
 <!ENTITY viewCookies.label "Кіраўнік бірак">
 <!ENTITY viewCookies.accesskey "К">

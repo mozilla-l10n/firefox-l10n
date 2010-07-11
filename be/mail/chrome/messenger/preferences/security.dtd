@@ -2,7 +2,7 @@
 <!ENTITY itemPhishing.label "Э-паштовыя ашуканствы">
 <!ENTITY itemPasswords.label "Паролі">
 <!ENTITY itemAntiVirus.label "Антывірус">
-<!ENTITY itemCookies.label "Змесціва Сеіцва">
+<!ENTITY itemCookies.label "Змесціва Сеціва">
 <!ENTITY junkMail.intro "Прызначэнне змоўчных наладжванняў пошты-лухты. Асаблівыя для рахункаў наладжванні могуць быць вызначаны ў Наладжваннях Рахунку.">
 <!ENTITY manualMark.label "Калі я пазначаю лісты як лухту:">
 <!ENTITY manualMark.accesskey "К">

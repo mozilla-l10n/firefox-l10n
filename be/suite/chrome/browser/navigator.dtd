@@ -133,6 +133,6 @@
 <!ENTITY historyCmd.label "Гісторыя">
 <!ENTITY historyCmd.accesskey "і">
 <!ENTITY history.commandKey "h">
-<!ENTITY popupIcon.tooltiptext "Не затрымліваць вынырцы з гэтай пляцоўкі">
+<!ENTITY popupIcon.tooltiptext "Не затрымліваць вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "к">

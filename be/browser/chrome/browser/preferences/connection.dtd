@@ -16,8 +16,6 @@
 <!ENTITY reload.accesskey "А">
 <!ENTITY ftp.label "Пасярэднік FTP:">
 <!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Пасярэднік Gopher:">
-<!ENTITY gopher.accesskey "g">
 <!ENTITY http.label "Пасярэднік HTTP:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "Пасярэднік SSL:">
@@ -32,7 +30,6 @@
 <!ENTITY HTTPport.accesskey "п">
 <!ENTITY SSLport.accesskey "о">
 <!ENTITY FTPport.accesskey "р">
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "т">
 <!ENTITY noproxy.label "Без пасярэдніка:">
 <!ENTITY noproxy.accesskey "Б">

@@ -21,10 +21,6 @@
 <!ENTITY editBookmarkRemove.label "Выдаліць">
 <!ENTITY editBookmarkDone.label "Гатова">
 <!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
-<!ENTITY helperApp.prompt "Што вы хочаце зрабіць з">
-<!ENTITY helperApp.open "Адчыніць">
-<!ENTITY helperApp.save "Захаваць">
-<!ENTITY helperApp.nothing "Нічога">
 <!ENTITY formHelper.previous "Назад">
 <!ENTITY formHelper.next "Далей">
 <!ENTITY formHelper.done "Гатова">

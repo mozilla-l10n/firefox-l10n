@@ -3,3 +3,7 @@
 <!ENTITY unreadColumn.label "Непрачытаных">
 <!ENTITY totalColumn.label "Усяго">
 <!ENTITY folderSizeColumn.label "Памер">
+<!ENTITY folderLocationToolbarItem.title "Месцазнаходжанне папкі">
+<!ENTITY mailViewsToolbarItem.title "Праявы пошты">
+<!ENTITY searchToolbarItem.title "Пошук">
+<!ENTITY searchSubjectOrAddress.placeholder "Пошук тэмы або адрасу">

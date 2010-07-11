@@ -6,7 +6,7 @@
 <!ENTITY clearHistory.label "Знішчыць гісторыю">
 <!ENTITY clearHistory.accesskey "н">
 <!ENTITY locationBarHistory.caption "Гісторыя паліцы месцазнаходжання">
-<!ENTITY clearLocationBar.label "Знішчыць спіс пляцовак, якія захоўваюцца ў меню на адраснай паліцы.">
+<!ENTITY clearLocationBar.label "Знішчыць спіс пляцовак сеціва, які захоўваецца ў меню на адраснай паліцы.">
 <!ENTITY clearLocationBarButton.label "Ачысціць паліцу адрасоў">
 <!ENTITY clearLocationBarButton.accesskey "ч">
 <!ENTITY formfillHistory.caption "Гісторыя формаў і пошукаў">
