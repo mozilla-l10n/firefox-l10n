@@ -43,7 +43,7 @@
 <!ENTITY aboutWarningButton.label "Tha mi a' toirt gealladh gum bi mi faiceallach!">
 <!ENTITY aboutWarningCheckbox.label "Seall an rabhadh seo an ath-thuras">
 
-<!ENTITY filterPrefs.label "Criathair:">
+<!ENTITY filterPrefs.label "Criathrag:">
 <!ENTITY filterPrefs.accesskey "C">
 <!ENTITY focusFilter.key "f">
 
@@ -55,7 +55,7 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Briog gus a sheòrsachadh"> 
-<!ENTITY columnChooser.tooltip "Tagh na cuilbh a tha thu airson taisbeanadh le briog"> 
+<!ENTITY columnChooser.tooltip "Briog airson na cuilbh a thagh thu a thaisbeanadh"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

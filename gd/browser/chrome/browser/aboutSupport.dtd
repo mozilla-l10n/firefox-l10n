@@ -12,9 +12,9 @@
 <!ENTITY aboutSupport.appBasicsTitle "Bun-tùs a' phrògraim">
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
-<!ENTITY aboutSupport.appBasicsProfileDir "Pasgan nan clàr-aithne">
+<!ENTITY aboutSupport.appBasicsProfileDir "Eòlaire nan clàr-aithne">
 <!ENTITY aboutSupport.appBasicsPlugins "Plugain air a stàladh">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Co-dhealbhachd na togalach">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Rèiteachadh na togalach">
 
 <!ENTITY aboutSupport.show.label "Fosgail am pasgan far a bheil e">
 

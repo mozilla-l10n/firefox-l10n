@@ -32,7 +32,7 @@
 
 <!ENTITY connection.label                "Ceangal">
 
-<!ENTITY connectionDesc.label            "Co-dhealbh mar a cheanglas &brandShortName; ris an lìon">
+<!ENTITY connectionDesc.label            "Rèitich mar a cheanglas &brandShortName; ris an lìon">
 <!ENTITY connectionSettings.label        "Roghainnean…">
 <!ENTITY connectionSettings.accesskey    "e">
 

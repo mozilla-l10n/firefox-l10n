@@ -152,7 +152,7 @@
 <!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY moreCriteria.label                        "+">
 <!ENTITY advancedSearch.onlybookmarked.label       "Lorg anns na comharraidhean-lìn a-mhàin">
-<!ENTITY advancedSearch.match.label                "Freagair ri chèile">
+<!ENTITY advancedSearch.match.label                "Maids ">
 <!ENTITY advancedSearch.all.label                  "gach fear">
 <!ENTITY advancedSearch.any.label                  "fear sam bith">
 <!ENTITY advancedSearch.rules.label                " de na riaghailtean a leanas:">
@@ -177,7 +177,7 @@
 <!ENTITY advancedSearch.groupby_folder.label       "pasgain">
 <!ENTITY advancedSearch.sortby.label               "Seòrsaich a-rèir">
 <!ENTITY advancedSearch.sortby_title.label         "tiotail">
-<!ENTITY advancedSearch.sortby_date.label          "cinn-latha">
+<!ENTITY advancedSearch.sortby_date.label          "cinn-là">
 <!ENTITY advancedSearch.sortby_visit.label         "uiread nan tadhal">
 <!ENTITY advancedSearch.sortby_url.label           "url">
 <!ENTITY advancedSearch.sortby_asc.label           "a' dìreadh">
