@@ -59,13 +59,13 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Tachraidh seo uaireannan mur eil briosgaidean an comas no 'gan diùltadh.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Freagairt ris nach robh dùil on fhrithealaiche">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Dèan cinnteach gu bheil manaidsear na tèarainteachd phearsanta air an t-siostam agad.</li> <li>Dh'fhaodadh seo tachairt an cois co-dhealbhachd neo-àbhaisteach air an fhrithealaiche.</li></ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Dèan cinnteach gu bheil manaidsear na tèarainteachd phearsanta air an t-siostam agad.</li> <li>Dh'fhaodadh seo tachairt an cois rèiteachadh neo-àbhaisteach air an fhrithealaiche.</li></ul>         ">
 
 <!ENTITY nssFailure2.title "Dh'fhàillig an ceangal tèarainte">
 <!ENTITY nssFailure2.longDesc "<ul> <li>Chan fhaic thu an duilleag a dh'iarr thu a chionn 's nach gabh fìrinn an dàta fhuaradh a dhearbhadh.</li> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn? Air neo, cleachd an àithne a gheibh thu ann an clàr-taice na cobharach gus aithris a dhèanamh air an làrach bhriste seo.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Dh'fhàillig an ceangal tèarainte">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dh'fhaodadh gur e duilgheadas le co-dhealbhachd an fhrithealaiche a tha ann no gu bheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> <li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 's mathaid nach mair a' mhearachd agus feuch ris a-rithist às a dhèidh seo.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dh'fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no gu bheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> <li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 's mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> </ul>     ">
 
 <!ENTITY sharedLongDesc "<ul> <li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann tàmaill.</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a' choimpiutair agad ris an lìonra.</li> <li>Ma tha an coimpiutair no an lìonra agad 'ga dhìon le chachaileth-theine no progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li></ul>">
 

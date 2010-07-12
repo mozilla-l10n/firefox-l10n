@@ -1,6 +1,6 @@
 <!ENTITY  fontsDialog.title                       "Cruthan-clò">
 <!ENTITY  window.width                            "45em">
-<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.macWidth                         "48em">
 <!ENTITY  window.unixWidth                        "49em">
 
 <!ENTITY  language.label                          "Cruthan-clò airson:">

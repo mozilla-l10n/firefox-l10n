@@ -111,7 +111,7 @@
 
 <!-- Status Messsages -->
 <!ENTITY insecureUpdate.label             "Na solair ùrachaidhean tèarainte.">
-<!ENTITY needsDependencies.label          "Nithean eile a dhìth.">
+<!ENTITY needsDependencies.label          "Rudan eile a dhìth.">
 <!ENTITY blocklisted.label                "Air an cur neo-chomasach a chum do thèarainteachd.">
 <!ENTITY softBlocklisted.label            "Tha fhios gum bi e ag adhbharachadh duilgheadasan tèarainteachd is seasmhachd.">
 <!ENTITY outdated.label                   "Tha tionndadh nas ùire is nas tèarainte ri fhaighinn.">

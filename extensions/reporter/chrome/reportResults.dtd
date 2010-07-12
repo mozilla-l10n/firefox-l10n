@@ -5,7 +5,7 @@
 <!ENTITY reportProduct               "Bathar">
 <!ENTITY reportoscpu                 "SO">
 <!ENTITY reportGecko                 "Gecko">
-<!ENTITY reportBuildConfig           "Co-dhealbhachd an togalaich">
+<!ENTITY reportBuildConfig           "Rèiteachadh an togalaich">
 <!ENTITY reportUseragent             "Useragent">
 <!ENTITY reportLanguage              "Cànan">
 <!ENTITY reportCharset               "Seata charactairean">

@@ -2,10 +2,10 @@
 <!ENTITY find.accesskey            "g">
 <!ENTITY expand.label              "Leudaich">
 <!ENTITY expand.accesskey          "L">
-<!ENTITY collapse.label            "Dùmhlaich">
-<!ENTITY collapse.accesskey        "D">
-<!ENTITY byDate.label "A-rèir cinn-latha">
-<!ENTITY byDate.accesskey "t">
+<!ENTITY collapse.label            "Co-theannaich">
+<!ENTITY collapse.accesskey        "C">
+<!ENTITY byDate.label "A-rèir cinn-là">
+<!ENTITY byDate.accesskey "r">
 <!ENTITY bySite.label "A-rèir làraich">
 <!ENTITY bySite.accesskey "r">
 <!ENTITY view.label "Seall">
@@ -14,7 +14,7 @@
 <!ENTITY byMostVisited.accesskey "u">
 <!ENTITY byLastVisited.label "A-rèir an tadhail mu dheireadh">
 <!ENTITY byLastVisited.accesskey "m">
-<!ENTITY byDayAndSite.label "A-rèir cinn-latha is làraich">
+<!ENTITY byDayAndSite.label "A-rèir cinn-là is làraich">
 <!ENTITY byDayAndSite.accesskey "n">
 <!ENTITY openLinkInWindow.label "Fosgail">
 <!ENTITY openLinkInWindow.accesskey "F">
