@@ -2,7 +2,6 @@
 <!ENTITY message.label "Šeit ir vieta paraugtekstam.">
 <!ENTITY editfield0.label "Lietotājvārds:">
 <!ENTITY editfield1.label "Parole:">
-<!ENTITY editfield2.label "Apstiprināt paroli:">
 <!ENTITY checkbox.label "atzīme">
 <!ENTITY copyCmd.label "Kopēt">
 <!ENTITY copyCmd.accesskey "K">

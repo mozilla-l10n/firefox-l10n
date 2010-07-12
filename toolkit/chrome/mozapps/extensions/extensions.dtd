@@ -36,7 +36,10 @@
 <!ENTITY cmd.preferences.accesskey            "I">
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Jūsu vērtējums:">
+<!ENTITY rating.label              "Vērtējums:">
+
+<!ENTITY cmd.showPreferences.label            "Iestatījumi">
+<!ENTITY cmd.showPreferences.tooltip          "Izmainīt papildinājuma iestatījumus">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versija">
@@ -104,7 +107,7 @@
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Meklēšana">
 <!ENTITY view.discover.label                  "Iegūt papildinājumus">
-<!ENTITY view.languages.label                 "Valodas">
+<!ENTITY view.locales.label                   "Valodas">
 <!ENTITY view.searchengines.label             "Meklētāji">
 <!ENTITY view.features.label                  "Papildinājumi">
 <!ENTITY view.appearance.label                "Tēmas">
