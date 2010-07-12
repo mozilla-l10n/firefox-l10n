@@ -9,7 +9,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Eadar-theangadairean</h3><ul><li>Michael "Akerbeltz" Bauer</li></ul>">
+<!ENTITY credit.translation "<h3>Eadar-theangadairean</h3><ul><li>Michael &apos;Akerbeltz&apos; Bauer</li></ul>">
 
 <!ENTITY credit.memory      "Mar chuimhneachan cridheil air">
 <!ENTITY credit.poweredByGeckoReg "Air a neartachadh le Gecko&reg;">
