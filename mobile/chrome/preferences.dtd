@@ -18,3 +18,11 @@
 <!ENTITY homepage.none                             "空白頁面">
 <!ENTITY homepage.default                          "&brandShortName; 首頁">
 <!ENTITY homepage.currentpage                      "使用目前頁面">
+<!ENTITY sync.title                                "Sync">
+<!ENTITY sync.username                             "使用者名稱">
+<!ENTITY sync.password                             "密碼">
+<!ENTITY sync.secretPhrase                         "加密金鑰">
+<!ENTITY sync.deviceName                           "裝置名稱">
+<!ENTITY sync.connect                              "連線">
+<!ENTITY sync.disconnect                           "取消連線">
+<!ENTITY sync.syncNow                              "立刻同步">
