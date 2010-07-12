@@ -12,6 +12,10 @@
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY openTabInNewWindow.label "Apri in una nuova finestra">
 <!ENTITY openTabInNewWindow.accesskey "f">
+<!ENTITY pinTab.label "Trasforma in Scheda applicazione">
+<!ENTITY pinTab.accesskey "T">
+<!ENTITY unpinTab.label "Trasforma in Scheda normale">
+<!ENTITY unpinTab.accesskey "a">
 <!ENTITY bookmarkThisTab.label "Questa scheda nei segnalibri">
 <!ENTITY bookmarkThisTab.accesskey "Q">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
