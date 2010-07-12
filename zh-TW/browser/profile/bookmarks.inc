@@ -37,7 +37,7 @@
 #define firefox_community 參與其中
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about 關於我們
 
 #unfilter emptyLines

@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!ENTITY  openTabInNewWindow.label           "用新視窗開啟">
 <!ENTITY  openTabInNewWindow.accesskey       "w">
+<!ENTITY  pinTab.label                       "釘選成應用程式標籤">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "釘選成普通標籤">
+<!ENTITY  unpinTab.accesskey                 "k">
 <!ENTITY  bookmarkThisTab.label              "將此分頁加入書籤">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
@@ -129,6 +133,12 @@
 <!ENTITY bookmarksButton.tooltip        "顯示您的書籤">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "書籤">
+<!ENTITY bookmarksMenuButton.tooltip        "顯示您的書籤">
+<!ENTITY viewBookmarksSidebar.label         "在側邊欄中顯示">
+<!ENTITY viewBookmarksToolbar.label         "檢視書籤工具列">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +168,10 @@
 <!ENTITY errorConsoleCmd.label        "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "抬頭顯示器">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "檢測">
 <!ENTITY inspectMenu.accesskey        "t">
@@ -266,7 +280,7 @@
 
 <!ENTITY openLinkCmd.label            "用新視窗開啟鏈結">
 <!ENTITY openLinkCmd.accesskey        "w">
-<!ENTITY openLinkCmdInCurrent.label     "開啟鍊結">
+<!ENTITY openLinkCmdInCurrent.label     "開啟鏈結">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "用新分頁開啟鏈結">
 <!ENTITY openLinkCmdInTab.accesskey   "T">

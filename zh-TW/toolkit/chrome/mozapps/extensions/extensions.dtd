@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.uninstallAddon.tooltip           "移除這個附加元件">
+<!ENTITY cmd.showPreferences.label            "偏好設定">
+<!ENTITY cmd.showPreferences.tooltip          "修改此附加元件的偏好設定">
 <!ENTITY cmd.contribute.label                 "捐助">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "贊助這個元件的開發">
@@ -67,7 +69,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "您的評分:">
+<!ENTITY rating.label                         "評分：">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "暫停">
