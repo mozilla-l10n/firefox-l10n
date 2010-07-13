@@ -1,0 +1,65 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "Derbarê mafên Te De">
+<!ENTITY rights.intro "&brandFullName; sepaneke belaş û çavkaniya wê vekirî ye, ji hêla bi hezaran kesên ji çarmedorên cîhanê ve hatiye çêkirinLi virê hin tiştên ku divê zanibî hene:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; jêr xalên vê lîsansê tê bikaranîn ">
+<!ENTITY rights.intro-point1b "Mozilla Public License de">
+<!ENTITY rights.intro-point1c ". Ev tê vê wateyê ku dikarî &brandShortName;'ê kopî biî û belav bikî. Her wiha dikarî kodên &brandShortName;'ê li gorî pêdiviyên xwe biguherînî. Mozilla Public License her wiha destûra belavkirina guhertoya ku te li gorî pêdiviyên xwe çêkiriye, dide.">
+
+<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
+<!ENTITY rights.intro-point2-b "here">
+<!ENTITY rights.intro-point2-c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Termên polîçeya nepeniyê yên &vendorShortName;'ê ">
+<!ENTITY rights.intro-point3b "li virê ne">
+<!ENTITY rights.intro-point3c "de heye.">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Hemû termên ji bo vê polîçeyê tên sepandin li virê lîstekirî ne.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; her wiha servîsên agahiyê yên malperên webê pêşkêş dike, her wekî servîsa SafeBrowsing; wekî din em nikarin ji sedî 100 bêjin ku çewtî çênabin. Der barê servîsan de zêdetir agahî di rûpela ">
+<!ENTITY rights.intro-point4b "termên servîsê">
+<!ENTITY rights.intro-point4c "de heye.">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Heke ev hilberîn servîsên webê dihewîne, divê hemû termên servîsên sepanbar di vebijêrka ">
+<!ENTITY rights.intro-point4b-unbranded "Servîsên Malperan">
+<!ENTITY rights.intro-point4c-unbranded " de bin.">
+
+<!ENTITY rights.webservices-header "&brandFullName; Servîsa Malperan">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; servîsa agahiyan a malperan bi kar tîne (&quot;Services&quot;), wekî servîsa SafeBrowsing, ev bi guhertoya &brandShortName; ji bo bikaranîna te amade ne. Heke nexwazî Servîs an jî termên nepejirandî bi kar bînî, dikarî servîsa ji vebijêrkên bernameyê bi vebijêrka ">
+<!ENTITY rights.webservices-b "Ewlekarî">
+<!ENTITY rights.webservices-c " vekî û vebijêrkên ji bo &quot;&blockAttackSites.label;&quot; û &quot;&blockWebForgeries.label;&quot; rakî">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Heke bi nihêrtineke giştî ya li xizmetên malperan, bi fermana derdewrekirina wan bên sepandin, divê li vê bê diyarkirin.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Divê hemû termên servîsên sepanbar ên ji bo vê hilberînê li virê lîstekirî bin.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; û hevikarên wê, lîsansorên wê û hevkarên wê yên kar agahiyan rojane û belav dikin. Ango pêkan e ku hin çewtî rû bidin, di hin malperên bi rîsk de.">
+<!ENTITY rights.webservices-term2 "Dibe ku &vendorShortName;nedomîne an jî bi rayeya xwe Servîsan biguherîne.">
+<!ENTITY rights.webservices-term3 "Tu dikarî bi kêfxweşî van Servîsên bi guhertoya hevkar a &brandShortName;, û hin maf hene ku bi kar bînî. &vendorShortName; û lîsansora wê û hemû maf di Servîsan de ne. Tu têkiliya van mafan bi mafên garantî yên lîsansên çavkaniya verirî re nîne ku karibin li ser &brandShortName; bên sepandin û ciyê wê bigirin.">
+<!ENTITY rights.webservices-term4 "Servîsên peydakerên &quot;as-is.&quot; &vendorShortName;, yên alîkarî dane, lîsansor û dîstrîbutor, tekzîbkirina hemû garantiyan hebe û hatine daxuyandin jî, bêlîmît, garantiyên Servîsan tê firotan û xwedî armanc in. Eger hilbijêrî tu dikevî bin rîska performans û kalîteyê ya van Servîsan. Eger hin dadger bêjin ku destûra te tune jî ev ji bo te nayê sepandin.">
+<!ENTITY rights.webservices-term5 "Ji bilî rewşên ku dadgehî; &vendorShortName;, hevkarên wê, lîsansor, û dîstrîbutor dê ji bo tu sûcdarkirinê ne berpirsiyar bin an jî ji ber bikaranîna kesan a &brandShortName; dê bi tu awayî berpirsiyar neyên girtin. Sparteka komî nikare ji $500î (pênc hezar dolar) zêdetir be. Hin dadgeh nikarin vê zêde bikin û li ser te bisepînin.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; dikare dema pêwîst be terman rojane bike. Ev term bêyî destûra nivîskî ya &vendorShortName;ê nayê guherandin an jî betalkirin.">
+<!ENTITY rights.webservices-term7 "Ev term ji hêla rêveberiya dadgerî ya dewleta Calîforniya ya DYA'yê hatine amadekirin. Eger beşek an jî temamê van terman bê binpêkirin dê tiştên pêwîst bên kirin. Di rewşeke derasayî de dê ji dêvla wergera vê peymanê ve, deqas resen a înglîzî bê venihêrtin.">
