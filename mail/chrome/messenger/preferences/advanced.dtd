@@ -75,7 +75,7 @@
 <!ENTITY showOffline.accesskey         "S">
 
 <!ENTITY Diskspace "Espacio en disco">
-<!ENTITY offlineCompact.label "Compactar carpetas cuando se recuperarán más de">
+<!ENTITY offlineCompact.label "Compactar carpetas cuando se recuperen más de">
 <!ENTITY offlineCompact.accesskey "e">
 <!ENTITY kb.label "KB">
 
