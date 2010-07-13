@@ -1,7 +1,7 @@
 <!ENTITY     props.name.label               "Navn:">
 <!ENTITY     props.value.label              "Innhold:">
 <!ENTITY     props.domain.label             "Tjener">
-<!ENTITY     props.path.label               "Bane:">
+<!ENTITY     props.path.label               "Sti:">
 <!ENTITY     props.secure.label             "Send til:">
 <!ENTITY     props.expires.label            "Utløper:">
 <!ENTITY     props.policy.label             "Valg:">

@@ -7,5 +7,5 @@
 <!ENTITY aboutVersion               "versjon">
 <!ENTITY closeCmdGNOME.label        "Lukk">  
 <!ENTITY closeCmdGNOME.accesskey    "L">
-<!ENTITY licenseLinkText            "Lisensinformasjon">
+<!ENTITY licenseLinkText            "Lisensinfo">
 <!ENTITY licenseLinkSuffix          ".">

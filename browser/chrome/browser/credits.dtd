@@ -1,4 +1,4 @@
-<!ENTITY brandMotto       "Nettleseren du kan stole på">
+<!ENTITY brandMotto       "Gjenoppdag nettet">
 <!ENTITY credit.thanks    "Spesielt takk til">
 
 <!ENTITY credit.thanks2       "Takk til våre">
@@ -12,4 +12,4 @@
 <!ENTITY credit.translation "<h3>Norsk oversettelse</h3><ul><li>Reidar Djupvik</li><li>Håvar Henriksen</li><li>Vidar Braut Haarr</li><li>Martin Joné</li><li>Morten Liljegren</li><li>Lasse Marøen</li><li>Håvard Mork</li><li>Jan-Espen Pettersen</li><li>Karol Ptasinski</li><li>Pascual Strømsnæs</li><li>Ronny Vårdal</li><li>Bjørn Svindseth</li></ul>">
 
 <!ENTITY credit.memory      "Til minne av">
-<!ENTITY credit.poweredByGeckoReg "Bruker Gecko&reg;-teknologi">
+<!ENTITY credit.poweredByGeckoReg "Bruker Gecko&reg;">

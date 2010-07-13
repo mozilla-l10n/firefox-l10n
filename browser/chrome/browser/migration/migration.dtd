@@ -46,6 +46,6 @@
 <!ENTITY selectProfile.title            "Velg profil">
 <!ENTITY selectProfile.label            "Du kan importere fra følgende profiler:">
 
-<!ENTITY done.title                     "Importering fullført">
+<!ENTITY done.title                     "Import er fullført">
 <!ENTITY done.label                     "Følgende elementer er importert:">
 

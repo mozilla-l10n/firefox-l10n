@@ -1,4 +1,4 @@
-<!ENTITY newWindowsAsTabs.label       "Åpne nye vinduer i en fane isteden">
+<!ENTITY newWindowsAsTabs.label       "Åpne nye vinduer som faner isteden">
 <!ENTITY newWindowsAsTabs.accesskey   "e">
 
 <!ENTITY warnCloseMultipleTabs.label  "Advar ved lukking av flere faner">

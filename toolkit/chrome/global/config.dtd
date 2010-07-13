@@ -39,7 +39,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Fortsett med varsomhet. Du kan bryte garantien!">
-<!ENTITY aboutWarningText.label "About:config gir deg tilgang til avanserte innstillinger i programmet. Dersom du endrer disse innstillingene kan du oppleve uønskede virkninger spesielt på sikkerhet og stabilitet. Fortsett bare dersom du vet hva du gjør, eller dersom du følger råd som du stoler på.">
+<!ENTITY aboutWarningText.label "Dersom du endrer disse avanserte innstillingene kan det virke negativt på sikkerhet, stabilitet og ytelse i dette programmet. Fortsett bare dersom du vet hva du gjør.">
 <!ENTITY aboutWarningButton.label "Jeg skal være forsiktig, jeg lover!">
 <!ENTITY aboutWarningCheckbox.label "Vis denne advarselen neste gang også">
 
