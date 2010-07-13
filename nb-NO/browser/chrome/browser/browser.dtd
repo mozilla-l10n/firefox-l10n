@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "a">
 <!ENTITY  openTabInNewWindow.label           "Åpne i et nytt vindu">
 <!ENTITY  openTabInNewWindow.accesskey       "n">
+<!ENTITY  pinTab.label                       "Gjør om til applikasjonsfane">
+<!ENTITY  pinTab.accesskey                   "G">
+<!ENTITY  unpinTab.label                     "Gjør om til vanlig fane">
+<!ENTITY  unpinTab.accesskey                 "G">
 <!ENTITY  bookmarkThisTab.label              "Bokmerk denne fanen">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
