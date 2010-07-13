@@ -8,19 +8,19 @@
 <!ENTITY safeb.palm.message.p2.linkText "ka &brandShortName; ji êrîşên dizîna nasnameyên webê">
 <!ENTITY safeb.palm.message.p2.end " te çawa diparêze.">
 
-<!ENTITY safeb.palm.accept.label "Min ji viwê derxe!">
+<!ENTITY safeb.palm.accept.label "Min ji vê derê derxe!">
 <!ENTITY safeb.palm.accept.statustext "Ji serûpela min re rêbertiyê bike">
 <!ENTITY safeb.palm.decline.label "Vê hişyariyê asteng bike">
 <!ENTITY safeb.palm.decline.statustext "Hişyarkirinê bigire" >
-<!ENTITY safeb.palm.notforgery.label2 "Ev ne sextekariyeke webê ye">
-<!ENTITY safeb.palm.report.label "Çima ev malper hat blokirin?">
+<!ENTITY safeb.palm.notforgery.label2 "Ev ne sextekariyeke webê ye…">
+<!ENTITY safeb.palm.reportPage.label "Çima ev pel hatiye astenkirin?">
 
-<!ENTITY safeb.blocked.malware.title "Malpera Êrîşkar a Raporbûyî!">
+<!ENTITY safeb.blocked.malwarePage.title "Rûpela Êrîşkar Rapor Bike!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "Ev malper <span id='malware_sitename'/> wekî malpereke êrîşkar hat raporkirin û li gorî mîhengên te yên ewlehiyê hat blokirin.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Malperên êrîşkar dikin ku bernameyan saz bikin û bi riya komputera te êrîşî ên din bikin û agahiyên takekesî bidizin.</p><p>Hine malper wekî malperên ewle xuya dikin. Divê hişyar bî.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Ev rûpela li ser <span id='malware_sitename'/> wekî rûpeleke êrîşkar hatiye raporkirin û li gorî mîhengên te yên ewlekariyê hate astenkirin.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Malperên êrîşkar bernameyên ku dikarin agahiyan bidizin li ser komputera te saz dikin û ji komputera te êrîşî komputerên din dikin.</p><p>Hin rûpelên êrîşkar bi qest bernameyên xirabe belav dikin û bêyî destûr û agahiya kesan, komputerên wan bi kar tînin.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Sextekariyên Raporbûyî!">
+<!ENTITY safeb.blocked.phishingPage.title "Sextekariyên Webê yên Raporbûyî!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "Ev malper <span id='phishing_sitename'/> wekî sextekar hate raporkirin û li gorî mîhengên ewlehiyê hate blokirin.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Bi sextekariyên webê agahiyên takakesî ên wekî nasnavên malperan an jî nasnavên kart û hesabên bankeyan tên dizîn.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Ev malper <span id='phishing_sitename'/> wekî sextekar hate raporkirin û li gorî mîhengên ewlehiyê hate blokirin.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Bi sextekariyan agahiyên takekesî ên wekî şîfreyên malper an jî kartên bankeyan tên dizîn.</p>">

@@ -1,6 +1,6 @@
 <!ENTITY reportSite                  "Cî">
 <!ENTITY reportProblemType           "Cureyê Pirsgirêkê">
-<!ENTITY reportDecsription           "Salixkirin">
+<!ENTITY reportDecsription           "Daxuyanî">
 <!ENTITY reportPlatform              "Platform">
 <!ENTITY reportProduct               "Berhem">
 <!ENTITY reportoscpu                 "PX (Pergala Xebitandinê)">
@@ -9,7 +9,7 @@
 <!ENTITY reportUseragent             "Useragent">
 <!ENTITY reportLanguage              "Ziman">
 <!ENTITY reportCharset               "Charset">
-<!ENTITY reportEmail                 "Epeyam">
+<!ENTITY reportEmail                 "E-peyam">
 <!ENTITY error                       "Hûragahiyên Çewtiyê">
 <!ENTITY faultCode                   "Kod">
 <!ENTITY faultMessage                "Peyam">

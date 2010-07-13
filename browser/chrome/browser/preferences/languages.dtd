@@ -1,11 +1,11 @@
 <!ENTITY window.width                                   "30em">
 
-<!ENTITY languages.customize.Header                     "Ziman">
+<!ENTITY languages.customize.Header                     "Zimên">
 <!ENTITY languages.customize.prefLangDescript           "Hinek malper dikarin ji bo  du an jî zêdetir zimanan desteka zimên bidin. Tu dikarî rêzkirina zimanan a ku dê bê nîşandan, ji paceya jêr hilbijêrî.">
 <!ENTITY languages.customize.active.label               "Rêzbûna zimanan a hatiye hilbijartin:">
-<!ENTITY languages.customize.moveUp.label               "Here Jorê">
+<!ENTITY languages.customize.moveUp.label               "Jor">
 <!ENTITY languages.customize.moveUp.accesskey           "J">
-<!ENTITY languages.customize.moveDown.label             "Here Jêr">
+<!ENTITY languages.customize.moveDown.label             "Jêr">
 <!ENTITY languages.customize.moveDown.accesskey         "J">
 <!ENTITY languages.customize.deleteButton.label         "Rake">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">

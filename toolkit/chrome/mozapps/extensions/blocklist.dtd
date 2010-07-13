@@ -1,10 +1,13 @@
-<!ENTITY blocklist.title             "Dibe ku pêvek bibe sedema çewtiyan">
+<!ENTITY blocklist.title             "Dibe ku add-on bibin sedema çewtiyan">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
+<!ENTITY blocklist.summary           "&brandShortName; diyar kir ku ev add-on dibe ku bibe sedema xirabûna saxlemî û ewlehiya te:">
+<!ENTITY blocklist.softblocked       "Ji bo parastina te, bi tundî tê pêşniyarkirin ku van add-onan neçalak bikî û ji nû ve bidî destpêkirin.">
+<!ENTITY blocklist.hardblocked       "Ji bo van add-onan rîskeke bilind heye ku bibin sedema xirabûna saxlemî û ewlehiyê û add-on hatin astengkirin, lê ji bo ku bi temamî werin astengkirin divê tu ji nû ve bidî destpêkirin.">
+<!ENTITY blocklist.softandhard       "Add-onseke ku xwediyê rîskeke mezin e ku saxelemî û ewlehiya te xira bike hat astengkirin. Yên din bi rîskeke kêm in, lê bi tundî tê pêşniyarkirin ku wan neçalak bikî û dîsa bidî destpêkirirn.">
 <!ENTITY blocklist.moreinfo          "Zêdetir agahî">
 
 <!ENTITY blocklist.accept.label      "Nûdestpêkirina &brandShortName; 'ê">
 <!ENTITY blocklist.accept.accesskey  "r">
+
+<!ENTITY blocklist.blocked.label     "Blocked">
+<!ENTITY blocklist.checkbox.label    "Disable">

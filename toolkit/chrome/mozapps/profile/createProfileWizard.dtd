@@ -7,7 +7,7 @@
 <!ENTITY profileCreationExplanation_3.text  "Heke tenê tu kopyeya &brandShortName; 'ê bikar bînî divê herî kêm profîlekê biafirînî. Ji bo cureyên mîhengan ên cuda, dikarî ji profîlekê zêdetir profîlek biafirînî.">
 <!ENTITY profileCreationExplanation_4.text  "Ji bo afirandina profîlekê bişkoja 'Bidomîne' bitikîne.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Ji bo afirandina profîlê Bidomîne bitikîne.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Ji bo erêkirina nasnameyê pêl bişkojka Pêşve bike.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Ji bo afirandina profîlekê bişkoja 'Bidomîne' bitikîne.">
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Her profîlek bi navê xwe tê nasîn. Dikarî profîleke pêşniyarbûyî an jî profîleke ku tu dixwazî biafirînî.">

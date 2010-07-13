@@ -4,7 +4,7 @@
 
 <!ENTITY printDialog.title "Çap bike">
 
-<!ENTITY fpDialog.title "Pelê Tomar Bike">
+<!ENTITY fpDialog.title "Di dîska pêdandî de tomar bike">
 
 <!ENTITY fileCheck.label "Di Vê Pelê De Çap Bike">
 <!ENTITY fileCheck.accesskey "D">
@@ -31,7 +31,7 @@
 <!ENTITY numCopies.label "Hejmara kopiyan:">
 <!ENTITY numCopies.accesskey "H">
 
-<!ENTITY printframeGroup.label "Çarçoweyê çap bike">
+<!ENTITY printframeGroup.label "Çarçoweyan çap bike">
 <!ENTITY aslaidoutRadio.label "Wekî ku di pacê de xuya dibe">
 <!ENTITY aslaidoutRadio.accesskey "u">
 <!ENTITY selectedframeRadio.label  "Çarçoweya hatiye hilbijartin">

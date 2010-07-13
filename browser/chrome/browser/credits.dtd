@@ -2,7 +2,7 @@
 <!ENTITY credit.thanks    "Spasiyên Taybet ji bo">
 
 <!ENTITY credit.thanks2       "Spas ji bo me">
-<!ENTITY credit.contributors2 "pêşdebiran">
+<!ENTITY credit.contributors2 "yên piştgirî dane">
 
 <!-- localization credits look like this: -->
 <!--
@@ -12,4 +12,4 @@
 <!ENTITY credit.translation "<h3>Wergêr</h3><ul><li>Amed Çeko Jiyan</li></ul>">
 
 <!ENTITY credit.memory      "Di pirraniya bîra">
-<!ENTITY credit.poweredByGeckoReg "Bi hêza Gecko&trade;'ê dorpêç bûye.">
+<!ENTITY credit.poweredByGeckoReg "Bi hêza Gecko&reg;'ê dorpêç bûye.">

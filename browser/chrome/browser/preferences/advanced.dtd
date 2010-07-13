@@ -23,15 +23,17 @@
 <!ENTITY systemDefaults.label            "Ji bo pergalê ên standard">
 <!ENTITY alwaysCheckDefault.label        "Her tim kontrol bike ka &brandShortName; geroka standard e an na"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "H">
-<!ENTITY checkNow.label                  "Niha kontrol bike">
-<!ENTITY checkNow.accesskey              "N">
+<!ENTITY checkNow.label                  "Vêga kontrol bike">
+<!ENTITY checkNow.accesskey              "n">
+<!ENTITY submitCrashes.label             "Raporên têkçûnê bişîne">
+<!ENTITY submitCrashes.accesskey         "t">
 
 <!ENTITY networkTab.label                "Tor">
 
 <!ENTITY connection.label                "Girêdan">
 
 <!ENTITY connectionDesc.label            "Wekî ku &brandShortName; xwe li Internetê girê dide mîheng bike">
-<!ENTITY connectionSettings.label        "Mîheng...">
+<!ENTITY connectionSettings.label        "Mîheng…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY offlineStorage.label            "Depoya Negirêdayî">
@@ -45,16 +47,16 @@
 <!ENTITY useCacheBefore.label            "Ji dîskê heya">
 <!ENTITY useCacheBefore.accesskey        "J">
 <!ENTITY useCacheAfter.label             "MB'î ji bo pêşbîrê bi kar bîne">
-<!ENTITY clearCacheNow.label             "Niha paqij bike.">
+<!ENTITY clearCacheNow.label             "Niha Paqij Bike">
 <!ENTITY clearCacheNow.accesskey         "N">
 
-<!ENTITY updateTab.label                 "Rojanekirin">
+<!ENTITY updateTab.label                 "Rojane Bike">
 
 <!ENTITY autoCheck.label                 "Pêvekan bixweber kontrol bike:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "f">
-<!ENTITY enableAddonsUpdate.label        "Pêvekên sazbûyî">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate2.label       "Add-on">
+<!ENTITY enableAddonsUpdate2.accesskey   "A">
 <!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 <!ENTITY whenUpdatesFound.label          "Heke ji bo &brandShortName; 'ê rojanekirin bê dîtin,">
@@ -62,15 +64,15 @@
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "Rojanekirinan bixweber daxe û saz bike">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Heke ev pêvekeke min jî neçalak bike, min hilyar bike">
+<!ENTITY modeAutoAddonWarn.label         "Heke ev Add-oneke min jî neçalak bike, min hişyar bike">
 <!ENTITY modeAutoAddonWarn.accesskey     "H">
 <!ENTITY updateHistory.label             "Mêjûya Rojanekirinan Nîşan Bide">
 <!ENTITY updateHistory.accesskey         "M">
 
 <!ENTITY offlineNotify.label             "Gava ku malperekê kir ku daneyên negirêdayî tomar bike min hişyar bike">
 <!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Awarteyî…">
-<!ENTITY offlineNotifyExceptions.accesskey "A">
+<!ENTITY offlineNotifyExceptions.label   "Rewşên Taybet...">
+<!ENTITY offlineNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList.label           "Malperên li jêrê ji bo bikaranîna negirêdayî dane saz kirine:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -95,7 +97,7 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewCRLs.label                  "Lîsteya Redbûyiyan">
 <!ENTITY viewCRLs.accesskey              "R">
-<!ENTITY verify2.label                   "Rastandin">
-<!ENTITY verify2.accesskey               "R">
+<!ENTITY verify2.label                   "Pejirandin">
+<!ENTITY verify2.accesskey               "r">
 <!ENTITY viewSecurityDevices.label       "Pergalên Ewlekariyê">
 <!ENTITY viewSecurityDevices.accesskey   "e">

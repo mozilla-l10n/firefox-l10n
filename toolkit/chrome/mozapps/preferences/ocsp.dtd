@@ -1,13 +1,13 @@
 <!ENTITY ocspDialog.title             "Erêkirin">
-<!ENTITY enableOCSP.label             "Ji bo derbasdariya sertîfîkayan birastînî Zagona Têkildariya Rewşa Sertîfîkayan ya Girêdayî (OCSP)'yê bi kar bîne">
-<!ENTITY enableOCSP.accesskey         "J">
+<!ENTITY enableOCSP.label             "Protokola Rewşa Sertîfîkakirinên Girêdayî (OCSP) ji bo rastandina sertîfîkayên derbasdar bi kar bîne">
+<!ENTITY enableOCSP.accesskey         "j">
 <!ENTITY certOCSP2.label              "Sertîfîkayeke ku pêşkêşkara OCSP'yê destnîşan dike birastîne">
 <!ENTITY certOCSP2.accesskey          "d">
-<!ENTITY proxyOCSP2.label             "Hemû sertîfîkayan bi riya pêşkêşkara OCSP'yê birastîne:">
+<!ENTITY proxyOCSP2.label             "Hemû sertîfîkayên ku van pêşkêşkarên OCSP'ê bi kar tînin birastîne:">
 <!ENTITY proxyOCSP2.accesskey         "a">
 <!ENTITY serviceURL.label             "URL'eya Servîsê:">
 <!ENTITY serviceURL.accesskey         "S">
-<!ENTITY signingCA.label              "Mora Bersivê:">
+<!ENTITY signingCA.label              "Bersina Şanenavkar:">
 <!ENTITY signingCA.accesskey          "B">
-<!ENTITY requireOCSP.label            "Heke girêdana pêşkêşkara OCSP'yê qut bibe, sertîfîkayê wekî nederbasdar bibîne">
+<!ENTITY requireOCSP.label            "Dema ku girêdana pêşkêşkareke OCSP'ê ne serkeftî be, sertîfîkayê wekî derbasdar qebûl bike">
 <!ENTITY requireOCSP.accesskey        "k">

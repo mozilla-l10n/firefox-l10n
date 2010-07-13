@@ -6,7 +6,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Girêdana Neewle">
+<!ENTITY certerror.pagetitle  "Conexión no autentificada">
 <!ENTITY certerror.longpagetitle "Ev girêdan ne ewle ye">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
@@ -18,7 +18,7 @@ was trying to connect. -->
 malper dê nasnameya xwe ya ewle nîşanî te bide da ku zanibî
 tu li ciyekî rast î. Nasnameya vê malperê nayê rastandin.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Nexwe Divê Çi Bikim?">
+<!ENTITY certerror.whatShouldIDo.heading "Ania ti Aramidek?">
 <!ENTITY certerror.whatShouldIDo.content "Heke timî bêpirsgirêk
 dikevî vê malperê dibe ku hin kes niha êrîşî vê malperê dikin
 û divê tu niha jê derkevî.">

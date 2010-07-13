@@ -1,12 +1,12 @@
 <!ENTITY  blockPopups.label           "Paceyên bixweber vedibin asteng bike">
 <!ENTITY  blockPopups.accesskey       "b">
-<!ENTITY  popupExceptions.label       "Bitaybetî...">
+<!ENTITY  popupExceptions.label       "Rewşên Taybet...">
 <!ENTITY  popupExceptions.accesskey   "e">
 
 <!ENTITY  loadImages.label            "Wêneyê xweber bar bike">
 <!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Zêdekarî">
-<!ENTITY  exceptions.accesskey        "Z">
+<!ENTITY  exceptions.label            "Rewşên Taybet...">
+<!ENTITY  exceptions.accesskey        "R">
 
 <!ENTITY  enableJavaScript.label      "JavaScriptê çalak bike">
 <!ENTITY  enableJavaScript.accesskey  "S">
@@ -31,7 +31,7 @@
 <!ENTITY  colors.accesskey            "R">
 
 
-<!ENTITY languages.label              "Ziman">
+<!ENTITY languages.label              "Zimên">
 <!ENTITY chooseLanguage.label         "Ji bo nîşandana rûpelan zimanekî hilbijêre">
 <!ENTITY chooseButton.label           "Hilbijêre...">
 <!ENTITY chooseButton.accesskey       "H">

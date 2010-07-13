@@ -36,7 +36,7 @@
 <!ENTITY chooseApp.label       "Hilbijêre...">
 <!ENTITY chooseApp.accesskey   "H">
 
-<!ENTITY chooseAppFilePickerTitle "Sepana Alîkar Hilbijêre">
+<!ENTITY chooseAppFilePickerTitle "Sepana Alîgir Hilbijêre">
 
 <!ENTITY badApp                 "Sepana ku te hilbijartiye [&quot;#1&quot;] nayê dîtin. Navê pelê kontrol bike an jî sepaneke din hilbijêre.">
 <!ENTITY badApp.title           "Sepan nehat dîtin">

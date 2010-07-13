@@ -7,22 +7,18 @@
 #define bookmarks_title Bijare
 #define bookmarks_heading Bijare
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Get Bookmark Add-ons
-
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder Peldanka Darika Bijareyan
+#define bookmarks_toolbarfolder_description Ji bo ku di Darika Bijareyan de bibînî bijareyan têxe vê peldankê
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
-#define getting_started Getting Started
+#define getting_started Destpêkirin
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
 # http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
 # Changing the redirect is subject to approval of l10n-drivers.
-#define latest_headlines Latest Headlines
+#define latest_headlines Sernûçeyên Dawî
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -30,18 +26,18 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Help and Tutorials
+#define firefox_help Alîkarî û Rêbername
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize Customize Firefox
+#define firefox_customize Firefoxê Kesane Bike
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Get Involved
+#define firefox_community Bikeve Têkiliyê
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
-#define firefox_about About Us
+# link title for http://en-US.www.mozilla.com/en-US/about/
+#define firefox_about Der Barê Me De
 
 #unfilter emptyLines

@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Dema ku malper sazkirina pêvekan biceribînin min hişyar bike">
+<!ENTITY  warnAddonInstall.label        "Dema ku malper sazkirina add-onan biceribînin min hişyar bike">
 <!ENTITY  warnAddonInstall.accesskey    "D">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Şîfreyên Tomarbûyî…">
 <!ENTITY  savedPasswords.accesskey        "n">
-
-
-<!ENTITY  warnings.label                "Şîfreyan Nîşan Bide">
-
-<!ENTITY  chooseWarnings.label          "Peyama hişyarkirinê a di bikaranîna gerokê de hilbijêre">
-
-<!ENTITY  warningSettings.label         "Mîheng...">
-<!ENTITY  warningSettings.accesskey     "M">

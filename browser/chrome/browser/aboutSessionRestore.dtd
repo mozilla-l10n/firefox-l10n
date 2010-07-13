@@ -11,9 +11,9 @@
 <!ENTITY restorepage.tryagainButton "Danişîna Berê">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "Danişîna Nû">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.cancel.access  "C">
 
-<!ENTITY restorepage.restoreHeader  "Veava Bike">
+<!ENTITY restorepage.restoreHeader  "Danişîna Berê">
 <!ENTITY restorepage.listHeader     "Pace û Hilpekînan">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "Paceya &#37;S">

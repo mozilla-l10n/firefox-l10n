@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Bêsernav)">
-<!ENTITY  newTab.label           "Hilpekîna Nû">
-<!ENTITY  newTab.accesskey       "n">
-<!ENTITY  closeTab.label         "Hilpekînê Bigire">
-<!ENTITY  closeTab.accesskey         "H">
-<!ENTITY  closeOtherTabs.accesskey  "H">
-<!ENTITY  closeOtherTabs.label   "Hilpekînên Din Bigire">
-<!ENTITY  reloadAllTabs.label    "Hemû Hilpekînan ji Nû Ve Bar Bike">
-<!ENTITY  reloadAllTabs.accesskey         "a">
-<!ENTITY  reloadTab.label        "Hilpekînê Ji Nû Ve Bar Bike">
-<!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  openTabInNewWindow.label    "Di Paceyeke Nû de veke">
-<!ENTITY  openTabInNewWindow.accesskey "D">
-<!ENTITY  listAllTabs.label      "Hemû hilpekînan lîste bike">
-<!ENTITY  bookmarkAllTabs.label       "Hemû Hilpekînan Têxe Bijareyan...">
-<!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label       "Vê Hilpekînê Têxe Bijareyan...">
-<!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "Hilpekîna Hat Girtin Şûnde Bîne">
-<!ENTITY  undoCloseTab.accesskey      "H">
+<!ENTITY  closeTab.label         "Hilpekînê bigire">
 <!ENTITY  newTabButton.tooltip        "Di hilpekîneke nû de veke">

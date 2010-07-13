@@ -15,7 +15,7 @@
 <!ENTITY restoreDefault.label      "Vegêrîna Pêşsalixbûyî">
 <!ENTITY restoreDefault.accesskey  "V">
 
-<!ENTITY downloads.label     "Daxistin">
+<!ENTITY downloads.label     "Yên hatine daxistin">
 
 <!ENTITY showWhenDownloading.label     "Dema ku daxistin dest pê bike, pencereya rêvebiriya daxistinê nîşan bide.">
 <!ENTITY showWhenDownloading.accesskey "p">
@@ -30,8 +30,8 @@
 <!ENTITY alwaysAsk.label "Di her tomarkirineke pelan de cihî ji min bipirse">
 <!ENTITY alwaysAsk.accesskey "p">
 
-<!ENTITY addonsMgr.label               "Pêvek">
-<!ENTITY manageAddonsDescWin.label     "Mîhengên pêvekên xwe biguherîne.">
-<!ENTITY manageAddonsDescUnix2.label   "Vebijêrkên di derbarê mîhengên xwe de biguherîne.">
-<!ENTITY manageAddons.label            "Pêvekan Bi Rê Ve Bibe...">
-<!ENTITY manageAddons.accesskey        "P">
+<!ENTITY addonsMgr.label               "Add-on">
+<!ENTITY manageAddonsDescWin.label     "Mîhengên add-onên xwe biguherîne">
+<!ENTITY manageAddonsDescUnix2.label   "Vebijêrkên add-onên xwe biguherîne">
+<!ENTITY manageAddons.label            "Add-onan bi rê ve bibe…">
+<!ENTITY manageAddons.accesskey        "r">

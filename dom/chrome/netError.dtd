@@ -59,15 +59,11 @@
  <li>Gerokê têxe moda girêdayî û dîsa biceribîne.</li>
 </ul>">
 
-<!ENTITY contentEncodingError.title "Çewtiya kodkirina naverokê">
+<!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
 <!ENTITY contentEncodingError.longDesc "<p>Ji ber ku malpera ku tu dikî vekî formeke jidandinê a nederbasdar an bêdestek bi kar tînî, malper nayê nîşandan.</p><ul><li>Ji kerema xwe re ji bo ragihandina vê pirsgirêkê bi xwediyê malperê re têkeve têkiliyê.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Cureyê Pelê Ne Ewle ye.">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Ji bo çareserkirina vê pirsgirêkên malperê, ji kerema xwe re bi xwediya/ê malperê re têkeve têkiliyê.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
+<!ENTITY unsafeContentType.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
 
 <!ENTITY netReset.title "Girêdan Qut Bû">
 <!ENTITY netReset.longDesc "<p>Dema girêdan baş bû girêdana torê qut bû. Ji kerema xwe re dîsa biceribîne.</p>">
@@ -83,12 +79,7 @@
 </ul>">
 
 <!ENTITY protocolNotFound.title "Protokola Nayê Zanîn">
-<!ENTITY protocolNotFound.longDesc "<p>navnîşan ji bo protokolekê ye (e.g. <q>wxyz://</q>) gerok
- wê nas nake, ji ber vê yekê gerok nikare vê malperê veke.</p>
-<ul>
- <li>Dixwazî têkevî multimediayekê an jî servîseke din ku ne deq e? Malperê ji bo pêdiviyên wisa kontrol bike.</li>
- <li>Hinek protokol, berî gerokê, nivîsbarî an jî pêvekên partiya çaremîn dixwazin.</li>
-</ul>">
+<!ENTITY protocolNotFound.longDesc "<p>Navnîşan ji bo protokolekê ye (e.g. <q>wxyz://</q>) gerok  wê nas nake, ji ber vê yekê gerok nikare vê malperê veke.</p> <ul>  <li>Dixwazî têkevî multimediayekê an jî servîseke din ku ne deq e? Malperê ji bo pêdiviyên wisa kontrol bike.</li>  <li>Hinek protokol, berî gerokê, nivîsbarî an jî pêvekên partiya çaremîn dixwazin.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Pêşkêşkara Proxyê Girêdanê Red Kir">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -121,10 +112,10 @@
 <!ENTITY unknownSocketType.longDesc "<p>Malperê da zanîn ku daxwaza torê nedihat hêvîkirin û gerok
  nikare bidomîne.</p>">
 
-<!ENTITY nssFailure2.title "Girêdana ewlekar çewt e">
+<!ENTITY nssFailure2.title "Girêdana Ewle Têk Çû">
 <!ENTITY nssFailure2.longDesc "<p>Ji ber ku cureyê şidandinê ê nederbasdar an jî bêdestek bi kar tînî, rûpela ku dixwazî vekî, nayê nîşandan.</p><ul><li>Bi xwediyê malperê re têkeve têkiliyê an jî ji pêşeka alîkariyê zêdetir agahî bixwîne.</li></ul>">
 
-<!ENTITY nssBadCert.title "Girêdana ewlekar têk çû">
+<!ENTITY nssBadCert.title "Girêdana Ewle Têk Çû">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Dibe ku ev çewtî ji ber mîhengên pêşkêşkar be an jî hin kes dikin ku pêşkêşkarê taklît bikin.</li>
 <li>Heke  di demên borî de te bi awayekî serkeftî bi vê pêşkêşkarê re girêdan çêkiribe, dibe ku ev çewtî demdemî bin û tu dikarî dû re dîsa biceribînî.</li>
@@ -132,17 +123,20 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Malpera gumanbar a êrîşkirinê!">
-<!ENTITY malwareBlocked.longDesc "<p>
-Malperên êrîşê ew malper in ku agahiyên te yên taybet didizin, komputera te ji bo êrîşkirina ser kesên din bi kar tînin an jî malperên ku dixwazin di komputera te de bernameyên ku zirarê dide pergala te saz bikin.</p>
-<p>Divê vê malperê venekî.</p>
+<!ENTITY malwareBlocked.title "Malpera Êrîşkar a Gumanbar!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Malperên êrîşkar dikin ku li ser komputera te bnernameyan saz bikin û li ser komputera te êrîşî komputerên din bikin.</p>
+<p>Xwediyên malperên ku malperên wan wekî malperên êrîşkar hatine raporkirin dikarin serî li <a href='http://www.stopbadware.org/home/reviewinfo' >bidin</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Gumana Dizîna Nasnavan!">
+<!ENTITY phishingBlocked.title "Malpera Sextekariyê ya Gumanbar!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Heke agahiyên xwe têkevî vê malperê dibe ku nasnav an jî agahiyên te yên din bên dizîn.</p>
-<p>Ev cure dizîna nasnavan li ser webê wekî êrîşên diziyê tên naskirin û xwe wekî çavkaniyên malper an jî e-peyaman ên ewle didin xuyakirin.</p>
+<p>Dibe ku agahiyên bikevî vê malperê bibin sedema dizîna agahiyên te yên takekesî.</p>
+<p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

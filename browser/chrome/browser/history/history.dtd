@@ -1,14 +1,14 @@
 <!ENTITY find.label                "Bigere:">
 <!ENTITY find.accesskey            "B">
-<!ENTITY expand.label              "Fireh Bike">
-<!ENTITY expand.accesskey          "F">
-<!ENTITY collapse.label            "Teng Bike">
-<!ENTITY collapse.accesskey        "T">
+<!ENTITY expand.label              "Mezin Bike">
+<!ENTITY expand.accesskey          "M">
+<!ENTITY collapse.label            "Hilweşîne">
+<!ENTITY collapse.accesskey        "H">
 <!ENTITY byDate.label "Dîrok">
 <!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "Malper">
 <!ENTITY bySite.accesskey "M">
-<!ENTITY view.label "Nîşan Bide">
+<!ENTITY view.label "Nîşan bide">
 <!ENTITY view.accesskey "N">
 <!ENTITY byMostVisited.label "Yên Herî Zêde Vebûne">
 <!ENTITY byMostVisited.accesskey "H">
@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "D">
 <!ENTITY openInNewWindow.label "Di Paceyeke Nû De Veke">
 <!ENTITY openInNewWindow.accesskey "N">
-<!ENTITY bookmarkLink.label "Vê Girêdanê Têxe Bijareyan">
-<!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "Ciyê Girêdanê Ji Ber Bigire">
 <!ENTITY copyLink.accesskey "J">

@@ -27,8 +27,8 @@
 <!ENTITY colorspaceInput.accesskey "C">
 
 <!ENTITY fontsGroup.label "Font:">
-<!ENTITY downloadFonts.label "Download fonts to printer">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.label "Cûrenivîsan daxe li çaperê">
+<!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Sînorê dirêjahiya valahiya keviyê (inc)">
 <!ENTITY topInput.label "Ser:">

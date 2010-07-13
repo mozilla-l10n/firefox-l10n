@@ -39,7 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Karên daxistinê yên qediyayî, neserkeftî û betalbûyî ji lîsteyê tên rakirin">
 <!ENTITY cmd.clearList.accesskey          "e">
 <!ENTITY cmd.find.commandKey              "F">
-<!ENTITY cmd.search.commandKey            "k">
+<!ENTITY cmd.search.commandKey            "K">
 
 <!ENTITY closeWhenDone.label              "Dema daxistin qediya, bigire">
 <!ENTITY closeWhenDone.tooltip            "Dema ku hemû pelên daxistinê qediyan pacê bigire">
