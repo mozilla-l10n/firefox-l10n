@@ -43,8 +43,8 @@
 <!ENTITY remove.accessKey   "R">
 <!ENTITY additional.label   "Kodkirinên Karakteran ên heyî:">
 <!ENTITY add.label          "Têxê">
-<!ENTITY add.accessKey      "T">
+<!ENTITY add.accessKey      "P">
 <!ENTITY moveUp.label       "Jor">
-<!ENTITY moveUp.accessKey   "O">
+<!ENTITY moveUp.accessKey   "Ş">
 <!ENTITY moveDown.label     "Jêr">
 <!ENTITY moveDown.accessKey "ê">

@@ -1,5 +1,5 @@
 <!ENTITY privatebrowsingpage.title                 "Gera Nepen">
-<!ENTITY privatebrowsingpage.title.normal          "Dixwazî Gera Nepen bidî destpêkirin?">
+<!ENTITY privatebrowsingpage.title.normal          "Dixwazî dest bi Gera Nepen bikî?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; dê ji vê danişînê tu tişt bi bîr neyne.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; niha ne di moda Gera Nepen de ye.">
@@ -10,13 +10,13 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Dibe ku bi ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "paqijkirina mêjûya dawî">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "dest pê bikî.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "de heye.">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Dest Bi Gera Nepen Bike">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Dest bi Gera Nepen bike">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
 
 <!ENTITY privatebrowsingpage.howToStop                 "Ji bo sekinandina Gera Nepen &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; hilbijêre an jî &brandShortName;'ê bigire.">
 <!ENTITY privatebrowsingpage.howToStart                "Ji bo destpêkirina Gera Nepen dikarî &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; jî hilbijêrî.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Dema ku ev komputer agahiyên te tomar nake jî pêşkêşkara servîsa înternetê dikare xwe bigihîne hin pelan.">
-<!ENTITY privatebrowsingpage.learnMore                 "Zêdetir Fêr Bibe">
+<!ENTITY privatebrowsingpage.learnMore                 "Zêdetir Agahî">

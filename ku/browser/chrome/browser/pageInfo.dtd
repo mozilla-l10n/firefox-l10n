@@ -40,20 +40,20 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Ji ber bigire">
-<!ENTITY  copy.accesskey        "J">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Hemûyan Hilbijêre">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key              "j">
+<!ENTITY  copy.label            "Kopîkirin">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "P">
+<!ENTITY  selectall.label       "Gişî hilbijêre">
+<!ENTITY  selectall.accesskey   "G">
+<!ENTITY  closeWindow.key       "W">
 
 <!ENTITY  generalTab            "Giştî">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Navnîşan:">
 <!ENTITY  generalType           "Cure:">
 <!ENTITY  generalMode           ":">
-<!ENTITY  generalSize           "Mezinahî:">
+<!ENTITY  generalSize           "Mezinahî">
 <!ENTITY  generalReferrer       "URL'yên Serîlêdanê:">
 <!ENTITY  generalSource         "Çavkaniya Bîrê:">
 <!ENTITY  generalModified       "Guherîn:">
@@ -74,24 +74,24 @@
 <!ENTITY  mediaCount            "Hejmarker">
 <!ENTITY  mediaDimension        "Dîmen:">
 <!ENTITY  mediaLongdesc         "Ravekirina Biberfirehî:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "g">
 <!ENTITY  mediaSaveAs           "Cuda Tomar Bike...">
 <!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaSaveAs2.accesskey "a">
 <!ENTITY  mediaPreview          "Pêşdîtina Medyayê:">
 
 <!ENTITY  feedTab               "Xwedîkirin">
 <!ENTITY  feedTab.accesskey     "X">
-<!ENTITY  feedSubscribe         "Abonetî">
+<!ENTITY  feedSubscribe         "Abone Bike">
 <!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Destûr">
 <!ENTITY  permTab.accesskey     "D">
 <!ENTITY  permUseDefault        "Standard">
 <!ENTITY  permAskAlways         "Her tim bipirse">
-<!ENTITY  permAllow             "Destûrê Bide">
-<!ENTITY  permAllowSession      "Ji bo Malperan Destûrê Bide">
-<!ENTITY  permBlock             "Blok">
+<!ENTITY  permAllow             "Destûrê bide">
+<!ENTITY  permAllowSession      "Ji bo daniştinê destûrê bidê">
+<!ENTITY  permBlock             "Asteng Bike">
 <!ENTITY  permissionsFor        "Destûrê ji bo:">
 <!ENTITY  permImage             "Wêneyê Bar Bike">
 <!ENTITY  permPopup             "Paceya Hilpekîn Veke">
@@ -101,10 +101,11 @@
 
 <!ENTITY  securityTab           "Ewlekarî">
 <!ENTITY  securityTab.accesskey "E">
-<!ENTITY  securityHeader        "Ji bo vêê rûpelê agahiyên ewlekariyê">
+<!ENTITY  securityHeader        "Agahiyên ewlekariyê yên rûpelê">
 <!ENTITY  securityView.certView "Sertîfîkayê Nîşan Bide">
-<!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Nenas">
+<!ENTITY  securityView.accesskey "B">
+<!ENTITY  securityView.unknown   "_: 
+Nayê Zanîn">
 
 
 <!ENTITY  securityView.identity.header   "Nasnameya Malperê">
@@ -116,9 +117,9 @@
 <!ENTITY  securityView.privacy.history                  "Gelo min îro serdana vê malperê kiribû?">
 <!ENTITY  securityView.privacy.cookies                  "Gelo ev malper di komputera min de agahiyan (çerezan ) tomar dike?">
 <!ENTITY  securityView.privacy.viewCookies              "Çerezan Nîşan Bide">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "K">
 <!ENTITY  securityView.privacy.passwords                "Gelo min nasnav ji bo vê malperê tomar kirine?">
 <!ENTITY  securityView.privacy.viewPasswords            "Nasnavên Tomarbûyî Nîşan Bide">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "W">
 
-<!ENTITY  securityView.technical.header                 "Kîtekîtên Teknîkî">
+<!ENTITY  securityView.technical.header                 "Kitekitên Teknîkî">

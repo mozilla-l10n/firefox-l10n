@@ -1,6 +1,6 @@
 
 <!ENTITY  connectionsDialog.title       "Mîhengên girêdanê">
-<!ENTITY  window.width                  "46em">
+<!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Pêşkêşkarên Cîgir Sererast Bike">
@@ -14,12 +14,10 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Mîhengên xweber ên pêşkêşkara cîgir (URL):">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Nû bike">
+<!ENTITY  reload.label                  "Ji NûVe Bar Bike">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "Pêşkêşkara cîgir a FTP’ê:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Pêşkêşkara cîgir a Gopherê:">
-<!ENTITY  gopher.accesskey              "g">
 <!ENTITY  http.label                    "Pêşkêşkara cîgir a HTTP’ê:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Pêşkêşkara cîgir a SSL’ê:">
@@ -29,13 +27,11 @@
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.accesskey            "H">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  FTPport.accesskey             "R">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Bikaranîna pêşkêşkara cîgir:">
 <!ENTITY  noproxy.accesskey             "n">

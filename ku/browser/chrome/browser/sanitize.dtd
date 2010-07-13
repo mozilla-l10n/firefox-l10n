@@ -32,8 +32,8 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Mêjûya Gerê û Daxistinê">
-<!ENTITY itemHistoryAndDownloads.accesskey "M">
+<!ENTITY itemHistoryAndDownloads.label     "Dîroka Daxistinan &amp; Digere">
+<!ENTITY itemHistoryAndDownloads.accesskey "D">
 <!ENTITY itemBrowsingHistory.label         "Mêjûya Gerê">
 <!ENTITY itemBrowsingHistory.accesskey     "M">
 <!ENTITY itemFormSearchHistory.label       "Mêjûya Lêgerîna Formê &amp;">
@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Ev çalakî şûnde nayê anîn.">
 
-<!ENTITY dialog.width                 "32em">
+<!ENTITY dialog.width                 "29em">
 <!ENTITY column.width                 "14em">

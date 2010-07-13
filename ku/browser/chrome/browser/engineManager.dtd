@@ -6,10 +6,10 @@
 <!ENTITY  columnLabel.keyword       "Peyva Kilît">
 
 <!-- Buttons -->
-<!ENTITY  up.label                  "Ber bi jor">
+<!ENTITY  up.label                  "Jor">
 <!ENTITY  up.accesskey              "o">
-<!ENTITY  dn.label                  "Ber bi jêr">
-<!ENTITY  dn.accesskey              "j">
+<!ENTITY  dn.label                  "Jêr">
+<!ENTITY  dn.accesskey              "J">
 <!ENTITY  remove.label              "Rake">
 <!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "Peyva Kilît Serrast Bike...">
@@ -21,5 +21,5 @@
 <!ENTITY  enableSuggest.label       "Pêşniyarên lêgerandinê nîşan bide">
 <!ENTITY  enableSuggest.accesskey   "P">
 
-<!ENTITY  restoreDefaults.label     "Bizivire standardan">
+<!ENTITY  restoreDefaults.label     "Pergala Xwezayî Nû Bike">
 <!ENTITY  restoreDefaults.accesskey "B">

@@ -1,4 +1,4 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Nav:">
+<!ENTITY editBookmarkOverlay.name.label                      "Nav::">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Cî:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "C">
@@ -13,13 +13,13 @@
 <!ENTITY editBookmarkOverlay.tags.label                      "Etîket:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Etîketan bi şîroveyan veqetîne">
-<!ENTITY editBookmarkOverlay.description.label               "Ravekirin:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "R">
+<!ENTITY editBookmarkOverlay.description.label               "Daxuyanî:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Peyva Kilît:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Hemû ravekirinan nîşan bide">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Vê bijareyê di darikê gerokê de nîşan bide">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "V">
-<!ENTITY editBookmarkOverlay.choose.label                    "Hilbijêre…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "Peldanka Nû">
+<!ENTITY editBookmarkOverlay.choose.label                    "Hilbijêre...">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Peldankê Têxê">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "P">

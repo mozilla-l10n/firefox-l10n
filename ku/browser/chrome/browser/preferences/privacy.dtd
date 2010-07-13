@@ -10,24 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "Bijare">
 <!ENTITY  locbar.nothing.label          "Ne Tu Tişt">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Ji bo ya dawîn rûpelên hatine vekirin bi bîr bîne">
-<!ENTITY  rememberDaysBefore.accesskey  "v">
-<!ENTITY  rememberDaysAfter2.label      "roj">
-
-<!ENTITY  rememberForms.label           "Tiştên ku ez di form û şiva lêgerînê de binivîsim di dahatûyê de bi bîr bîne">
-<!ENTITY  rememberForms.accesskey       "f">
-
-<!ENTITY  rememberDownloads.label       "Daxistinên min bi bîr bîne">
-<!ENTITY  rememberDownloads.accesskey   "D">
-
-
-<!ENTITY  cookies.label                 "Çerez">
 
 <!ENTITY  acceptCookies.label           "Çerezên Malperan Bipejirîne">
 <!ENTITY  acceptCookies.accesskey       "e">
@@ -42,20 +24,12 @@
 <!ENTITY  close.label                   "&brandShortName; 'ê digirim">
 <!ENTITY  askEachTime.label             "her tim ji min bipirse">
 
-<!ENTITY  cookieExceptions.label        "Bitaybetmendî...">
+<!ENTITY  cookieExceptions.label        "Rewşên Taybet...">
 <!ENTITY  cookieExceptions.accesskey    "y">
 
 <!ENTITY  showCookies.label             "Çerezan Nîşan Bide">
 <!ENTITY  showCookies.accesskey         "n">
 
-
-<!ENTITY  privateData.label             "Daneyên Taybet">
-
-<!ENTITY  alwaysClear.label              "Her cara ku &brandShortName; 'ê bigirim, daneyên min ên taybet jê bibe">
-<!ENTITY  alwaysClear.accesskey          "H">
-
-<!ENTITY  clearDataSettings.label        "Mîheng...">
-<!ENTITY  clearDataSettings.accesskey    "h">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; dê:">
 <!ENTITY  historyHeader.pre.accesskey      "d">
@@ -73,7 +47,7 @@
 <!ENTITY  rememberActions.clearHistory.label  "mêjûya dawî paqij bikî">
 <!ENTITY  rememberActions.middle.label        ", an jî ">
 <!ENTITY  rememberActions.removeCookies.label "çerezên hatî bikaranîn rakî">
-<!ENTITY  rememberActions.post.label          ".">
+<!ENTITY  rememberActions.post.label          "de heye.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.">
 
@@ -81,20 +55,13 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Dibe ku bixwazî ">
 <!ENTITY  dontrememberActions.clearHistory.label "mêjûya niha gişî paqij bikî">
-<!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY  dontrememberActions.post.label         "de heye.">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; xweber di moda gera nepen de bide destpêkirin">
-<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Mêjûya min a gerê ji bo dema dawî bi bîr bîne">
-<!ENTITY  rememberHistory.pre.accesskey  "M">
-<!ENTITY  rememberHistory.post.label     "roj">
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Mêjûya daxistinê bi bîr bîne">
 <!ENTITY  rememberDownload.accesskey     "d">
@@ -102,11 +69,8 @@
 <!ENTITY  rememberSearchForm.label       "Mêjûya lêgerîn û forman bi bîr bîne">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Dema &brandShortName; hate girtin mêjûyê bi bîr bîne">
+<!ENTITY  clearOnClose.label             "Dema &brandShortName; hate girtin mêjûyê pakij bike">
 <!ENTITY  clearOnClose.accesskey         "D">
 
 <!ENTITY  clearOnCloseSettings.label     "Mîheng…">
 <!ENTITY  clearOnCloseSettings.accesskey "M">
-
-<!ENTITY  clearDataNow.label             "Vêga Paqij Bike...">
-<!ENTITY  clearDataNow.accesskey         "V">

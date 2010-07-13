@@ -1,25 +1,38 @@
-<!ENTITY pluginWizard.title                                  "Servîsa Dîtina Pêvekan">
+<!ENTITY pluginWizard.title                                  "Servîsa dîtina pluginan">
 <!ENTITY pluginWizard.firstPage.title                        "Bi xêr hatî &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; pêvekên heyî kontrol dike...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; pluginên heyî kontrol dike…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Daxistinên Pêveka Heyî">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Pêvekên li jêr jixwe hene:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Pêşve bitikîne û vê pêvekê saz bike.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dibe ku hinek pêvek, di dema sazbûnê de ji te zêdetir agahî bixwazin.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Available Plugin Downloads">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Pluginên li jêr amade ne:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Pêşve bitikîne û van pluginan saz bike.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dibe ku hinek plugin, di dema sazbûnê de ji te zêdetir agahî bixwazin.">
 
-<!ENTITY pluginWizard.licensePage.title                      "Lîsansên pêvekan">
+<!ENTITY pluginWizard.licensePage.title                      "Lîsansên pluginan">
 <!ENTITY pluginWizard.licensePage.accept.label               "Dipejirînim">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Napejirînim (Pêvek dê saz nebe)">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Napejirînim (plugin dê saz nebe).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "Pêvek tên sazkirin">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; pêvekê saz dike...">
+<!ENTITY pluginWizard.installPluginsPage.title               "Plugin tên sazkirin">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; pluginan saz dike…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; sazkirina pêvekên kêm qedand:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; finished installing the missing plugins:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Ji bo pêvekan li hûragahiyan bigere an jî li pêveka kêm bigere.">
-<!ENTITY pluginWizard.finalPage.restart.label                "Ji bo ku pêvek bixebitin divê &brandShortName; bê girtin û vekirin.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Find out more about Plugins or manually find missing plugins.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; needs to be restarted for the plugin(s) to work.">
   
-<!ENTITY missingPlugin.label                                 "Ji bo daxistina pêvekê bitikîne.">
+<!ENTITY missingPlugin.label                                 "Ji bo daxistina pluginê bitikîne.">
 <!ENTITY disabledPlugin.label                                "The plugin for this content has been disabled. Click here to manage your plugins.">
 <!ENTITY blockedPlugin.label                                 "This plugin has been blocked for your protection.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Rûpelê ji nû ve bar bike">
+<!ENTITY reloadPlugin.post                                   " û dîsa biceribîne.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Raporê bişîne">
+<!ENTITY report.submitting                                   "Rapor tê şandin…">
+<!ENTITY report.submitted                                    "Rapora têkçûne hatiye şandin.">
+<!ENTITY report.disabled                                     "Raporkirina têkçûnan hate neçalakkirin.">
+<!ENTITY report.failed                                       "Şandin biserneket.">
+<!ENTITY report.unavailable                                  "Rapor tune.">

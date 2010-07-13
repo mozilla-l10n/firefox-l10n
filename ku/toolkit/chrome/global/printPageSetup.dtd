@@ -16,10 +16,10 @@
 <!ENTITY scale.accesskey     "P">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "Ji bo li firehiya rûpelê were tengkirin">
+<!ENTITY shrinkToFit.accesskey "w">
 
-<!ENTITY optionsGroup.label  "Vebijêrk">
+<!ENTITY optionsGroup.label  "Hilbijartin">
 
 <!ENTITY printBG.label       "Rûerdê çap bike (reng û wêneyan)">
 <!ENTITY printBG.accesskey   "R">
@@ -52,7 +52,7 @@
 
 <!ENTITY hfTitle             "Sernivîs">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Dîrok/Dem">
+<!ENTITY hfDateAndTime       "Dîrok/Saet">
 <!ENTITY hfPage              "Rûpel #">
 <!ENTITY hfPageAndTotal      "Rûpel # ji #">
 <!ENTITY hfBlank             "--vala--">

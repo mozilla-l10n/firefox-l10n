@@ -45,7 +45,7 @@
 
 <!ENTITY filterPrefs.label "Fîltre:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY focusFilter.key "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Navê Mîhengê">
@@ -58,17 +58,17 @@
 <!ENTITY columnChooser.tooltip "Ji bo nîşandana stûnan bitikîne"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Ji ber bigire">
-<!ENTITY copyPref.accesskey "J">
+<!ENTITY copyPref.key "j">
+<!ENTITY copyPref.label "Kopîkirin">
+<!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "kopiya Nav">
 <!ENTITY copyName.accesskey "k">
 <!ENTITY copyValue.label "Nirxê Kopiyeyê">
 <!ENTITY copyValue.accesskey "N">
 <!ENTITY modify.label "Biguherîne">
 <!ENTITY modify.accesskey "g">
-<!ENTITY toggle.label "Toggle">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY toggle.label "Nirx biguherîne">
+<!ENTITY toggle.accesskey "N">
 <!ENTITY reset.label "Reset Bike">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nû">

@@ -1,7 +1,7 @@
-<!ENTITY minimizeWindow.key       "B">
-<!ENTITY minimizeWindow.label     "Biçûk bike">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Biçûk Bike">
 <!ENTITY bringAllToFront.label    "Hemûyan bi pêş ve bîne.">
-<!ENTITY zoomWindow.label         "Nêzîk bike">
+<!ENTITY zoomWindow.label         "Nêzîk Bike">
 <!ENTITY windowMenu.label         "Pace">
 
 <!ENTITY helpMenu.label           "Alîkarî"> 
@@ -10,39 +10,31 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Alîkarî"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-<!ENTITY aboutCmd.label           "Derbarê &brandFullName; 'ê de">
-<!ENTITY aboutCmd.accesskey       "D">
-<!ENTITY helpContents.label       "Naveroka alîkariyê">
-<!ENTITY helpContents.accesskey   "N">
-<!ENTITY helpContentsMac.label    "Alîkariya &brandShortName; 'ê">
+<!ENTITY aboutProduct.label       "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "Alîkariya &brandShortName; 'ê">
+<!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpForIEUsers.label     "Ji bo bikarhênerên Internet Explorerê...">
 <!ENTITY helpForIEUsers.accesskey "i">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "VK_HELP">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Têbiniyên Guhertoyê">
 <!ENTITY helpReleaseNotes.accesskey     "r">
+
+<!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
+<!ENTITY helpTroubleshootingInfo.accesskey  "t">
+
 <!ENTITY updateCmd.label                "Rojanebûnan Bişopîne...">
-<!ENTITY updateCmd.accesskey            "o">
 
 <!ENTITY preferencesCmdMac.label        "Vebijêrk">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Servîs">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; 'ê Veşêre">
-<!ENTITY hideThisAppCmdMac.commandkey   "V">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Yên Din Veşêre">
-<!ENTITY hideOtherAppsCmdMac.commandkey "V">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Hemûyan Nîşan Bide">

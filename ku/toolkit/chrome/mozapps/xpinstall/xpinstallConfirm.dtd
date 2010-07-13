@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title            "Sazkirina Nivîsbariyê">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
+<!ENTITY warningPrimary.label    "Add-onan tenê ji nivîskarên ku tu baweriya te pê tê saz bike.">
 <!ENTITY warningSecondary.label  "Nivîsbariyên xwedî armancên xêrnexwaz dikarin xesarê bidin nepeniya te a kesane û agahiyên di komputera te de.">
 
 <!ENTITY from.label "Ji vê:">

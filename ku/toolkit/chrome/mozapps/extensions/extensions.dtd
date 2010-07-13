@@ -1,174 +1,112 @@
-<!ENTITY addons.title                     "Pêvek">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY loading.label                        "Tê barkirin…">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "W">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Lêgerîn">
+<!ENTITY view.discover.label                  "Add-onan bistîne">
+<!ENTITY view.locales.label                   "Ziman">
+<!ENTITY view.searchengines.label             "Search Engines">
+<!ENTITY view.features.label                  "Pêvek">
+<!ENTITY view.appearance.label                "Themes">
+<!ENTITY view.plugins.label                   "Plugin">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Pêvekan Bistîne">
-<!ENTITY extensions.label                 "Pêşdebir">
-<!ENTITY themes.label                     "Tema">
-<!ENTITY locales.label                    "Zimên">
-<!ENTITY plugins.label                    "Pêvek">
-<!ENTITY update.label                     "Rojanekirin">
-<!ENTITY install.label                    "Sazkirin">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Update add-ons">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.noneFound.label              "No updates found">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Rojanekirinan Bibîne">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "B">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Ji bo pêvekên xwe Rojanekirinan bibîne">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Ji bo Têmayên xwe Rojanekirinan bibîne">
-<!ENTITY cmd.installLocalFile.label       "Saz Bike...">
-<!ENTITY cmd.installLocalFile.accesskey   "S">
-<!ENTITY cmd.installFileAddon.tooltip     "Pêvekekê Saz Bike">
-<!ENTITY cmd.installFileTheme.tooltip     "Temayekê Saz Bike">
-<!ENTITY cmd.installUpdatesAll.label      "Rojanekirinan Saz Bike">
-<!ENTITY cmd.installUpdatesAll.accesskey  "S">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Rojanekirinên hatine hilbijartin saz bike">
-<!ENTITY cmd.restartApp2.label            "Sepana &brandShortName; 'ê dîsa bide destpêkirin">
-<!ENTITY cmd.restartApp2.accesskey        "r">
-<!ENTITY cmd.restartApp2.tooltip          "Ji bo sepandina guherandinan sepana &brandShortName; 'ê dîsa dide destpêkirin">
-<!ENTITY cmd.skip.label                   "Qevz Bike">
-<!ENTITY cmd.skip.accesskey               "Q">
-<!ENTITY cmd.skip.tooltip                 "Ji van rojanekirinan derbas bibe">
-<!ENTITY cmd.continue.label               "Bidomîne">
-<!ENTITY cmd.continue.accesskey           "d">
-<!ENTITY cmd.continue.tooltip             "Barkirina &brandShortName; 'ê bidomîne">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Show more information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Find updates">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferences.label                "Preferences">
+<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAll.label              "Hemû Çalak">
-<!ENTITY cmd.enableAll.accesskey          "H">
-<!ENTITY cmd.enableAll.tooltip            "Hemû Pêvekên hatine nîşandan çalak bike">
-<!ENTITY cmd.disableAll.label             "Hemû Neçalak">
-<!ENTITY cmd.disableAll.accesskey         "N">
-<!ENTITY cmd.disableAll.tooltip           "Hemû Pêvekên hatine nîşandan neçalak bike">
+<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.tooltip              "Enable this add-on">
+<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.tooltip             "Disable this add-on">
+<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.tooltip           "Uninstall this add-on">
+<!ENTITY cmd.showPreferences.label            "Vebijêrk">
+<!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Temayê bikar bîne">
-<!ENTITY cmd.useTheme.accesskey           "T">
-<!ENTITY cmd.useTheme.tooltip             "Temaya &brandShortName;'s biguherîne">
-<!ENTITY cmd.options.label                "Hilbijartin">
-<!ENTITY cmd.options.accesskey            "H">
-<!ENTITY cmd.options.tooltip              "Vebijêrkên pêvekê yên hatine hilbijartin mîheng bike">
-<!ENTITY cmd.optionsUnix.label            "Vebijêrkên">
-<!ENTITY cmd.optionsUnix.accesskey        "V">
-<!ENTITY cmd.optionsUnix.tooltip          "Ji bo Pêvekên hatine hilbijartin Vebijêrkan mîheng bike">
-<!ENTITY cmd.enable.label                 "Çalak bike">
-<!ENTITY cmd.enable.accesskey             "e">
-<!ENTITY cmd.enable.tooltip               "Dema ku  &brandShortName; ji nû ve bê destpêkirin vê pêvekê çalak bike">
-<!ENTITY cmd.disable.label                "Bêbandor bike">
-<!ENTITY cmd.disable.accesskey            "d">
-<!ENTITY cmd.disable.tooltip              "Dema ku  &brandShortName; ji nû ve bê destpêkirin vê pêvekê neçalak bike">
-<!ENTITY cmd.uninstall.label              "Rake">
-<!ENTITY cmd.uninstall2.accesskey         "R">
-<!ENTITY cmd.uninstall2.tooltip           "Dema ku Dema ku  &brandShortName; ji nû ve bê destpêkirin vê pêvekê rake">
-<!ENTITY cmd.cancelUninstall.label        "Rakirinê Betal Bike">
-<!ENTITY cmd.cancelUninstall.accesskey    "R">
-<!ENTITY cmd.cancelUninstall.tooltip      "Rakirina vê pêvekê betal bike">
-<!ENTITY cmd.cancelInstall.label          "Dev ji sazkirinê berde">
-<!ENTITY cmd.cancelInstall.accesskey      "s">
-<!ENTITY cmd.cancelInstall.tooltip        "Dev ji sazkirina vê pêvekê berdide">
-<!ENTITY cmd.cancelUpgrade.label          "Dev jo rojanekirinê berde">
-<!ENTITY cmd.cancelUpgrade.accesskey      "r">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Dev ji rojanekirinên guhertoyên vê pêvekê berde">
-<!ENTITY cmd.installUpdate.label          "Rojanekirinê Saz Bike">
-<!ENTITY cmd.installUpdate.accesskey      "S">
-<!ENTITY cmd.installUpdate.tooltip        "Ji bo vê pêvekê rojanekirinekê saz bike">
-<!ENTITY cmd.showUpdateInfo.label         "Agahiyan nîşan bide">
-<!ENTITY cmd.showUpdateInfo.accesskey     "n">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Der barê vê rojanekirinê de agahiyên kîtekît dide">
-<!ENTITY cmd.hideUpdateInfo.label         "Agahiyan veşêre">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "g">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Agahiyên der barê vê rojanekirinê de vedişêre">
-<!ENTITY cmd.installSearchResult.label     "Têxe &brandShortName;ê…">
-<!ENTITY cmd.installSearchResult.accesskey "T">
-<!ENTITY cmd.installSearchResult.tooltip   "Vê pêvekê daxe û saz bike">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Betal">
-<!ENTITY cancel.accesskey                 "B">
-<!ENTITY cancelInstall.label              "Betal">
-<!ENTITY cancelInstall.accesskey          "B">
-<!ENTITY cancelUpgrade.label              "Betal">
-<!ENTITY cancelUpgrade.accesskey          "B">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Here serûpelê">
-<!ENTITY cmd.homepage.accesskey           "s">
-<!ENTITY cmd.about2.label                 "Derbarê vê Pêvekê de">
-<!ENTITY cmd.about.accesskey              "P">
-<!ENTITY cmd.checkUpdate.label            "Li Rojanekirinan bigere">
-<!ENTITY cmd.checkUpdate.accesskey        "b">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.updated.label                 "Updated">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Daxistin">
 
-<!ENTITY cmd.includeUpdate.label          "Têxe Rojanekirinê">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "Têxe vê rojanekirinê">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Dema ku ev rojanekirin bên sazkirin, têxe vê pêvekê">
+<!ENTITY detail.updateAutomatically.label     "Update automatically">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip   "Update this add-on automatically whenever there is an update available">
+<!ENTITY detail.checkForUpdates.label         "Check for updates">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferences.label         "Preferences">
+<!ENTITY detail.showPreferences.accesskey     "P">
+<!ENTITY detail.showPreferences.tooltip       "Change this add-on's preferences">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Rojanekirinên ewle nayên kirin">
-<!ENTITY needsDependencies.label          "Parçeyên pêvek divên.">
-<!ENTITY blocklisted.label                "Ji bo ewlekariya te hat neçalakirin">
-<!ENTITY softBlocklisted.label            "Known to cause security or stability issues.">
-<!ENTITY toBeDisabled.label               "Dema ku &brandShortName; ji nû ve were destpêkirin ev pêvek dê bê neçalakirin.">
-<!ENTITY toBeEnabled.label                "Dema ku &brandShortName; ji nû ve bê destpêkirin ev pêvek dê bê çalakirin.">
-<!ENTITY toBeInstalled.label              "Dema ku &brandShortName; ji nû ve bê destpêkirin ev pêvek dê bê sazkirin.">
-<!ENTITY toBeUninstalled.label            "Dema ku &brandShortName; ji nû ve bê destpêkirin ev pêvek dê bê rakirin.">
-<!ENTITY toBeUpdated.label                "Dema ku &brandShortName; ji nû ve bê destpêkirin pêvek dê bê rojanekirin.">
 
-<!ENTITY getExtensions.label              "Pêşdebirinan bistîne">
-<!ENTITY getThemes.label                  "Temayan bistîne">
-<!ENTITY getPlugins.label                 "Pêvek daxe">
+<!-- ratings -->
+<!ENTITY rating.label                         "Rating:">
 
-<!ENTITY searchAddons.label               "Di Hemû Pêvekan De Bigere">
-<!ENTITY browseAddons.label               "Li Hemû Pêvekan Bigere">
-<!ENTITY searchFailed.label               "&brandShortName;'ê xwe negihand pêvekan">
-<!ENTITY recommendedHeader.label          "Pêşniyarbûyî">
-<!ENTITY recommendedThrobber.label        "Xwegihandina pêvekên pêşniyarbûyî">
-<!ENTITY searchThrobber.label             "Li pêvekan digere">
-<!ENTITY resetSearch.label                "Encaman Paqij Bike">
-<!ENTITY noSearchResults.label            "Hemû encam an sazbûyî ne an jî lê nayên.">
-<!ENTITY noRecommendedResults.label       "Hemû pêvekên pêşniyarbûyî an sazbûyî ne an jî lê nayên.">
-<!ENTITY emptySearch.label                "Tu pêvekek lê nayê">
-<!ENTITY emptySearch.button               "Temam">
-<!ENTITY cancelSearch.button              "Betal">
-<!ENTITY searchFailed.button              "Temam">
-<!ENTITY searchResultHomepage.value       "Zêdetir Bixwîne">
-<!ENTITY searchBox.label                  "Li Hemû Pêvekan Bigere">
-<!ENTITY recommendedResults.label         "Hemû Pêvekên Pêşniyarbûyî Bibîne">
-<!ENTITY searchResultConnecting.label     "Tê Girêdan…">
-<!ENTITY searchResultInstalling.label     "Tê Sazkirin…">
-<!ENTITY searchResultFailed.label         "Sazkirin Têk Çû">
-<!ENTITY searchResultInstalled.label      "Sazkirin Qediya">
-<!ENTITY addonTypeExtension.label         "Pêvek">
-<!ENTITY addonTypeTheme.label             "Dirb">
-<!ENTITY missingThumbnail.label           "Pêşdîtin Tune">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Betal">
 
-<!ENTITY previewNoThemeSelected.label     "Tema nehat hilbijartin">
-<!ENTITY previewNoPreviewImage.label      "Wêneyê pêşdîtina vê temayê tune">
-<!ENTITY moreInfo.label                   "Zêdetir Agahî">
-<!ENTITY infoNoAddonSelected.label        "Güncellenecek bir şey seçilmedi">
-<!ENTITY infoNoUpdateInfo.label           "Di vê rojanekirinê de zêdetir agahî tune">
-<!ENTITY infoUpdateInfoError.label        "Dema barkirina kîtekîtên vê rojanekirinê dihat kirin çewtî derket">
 
-<!ENTITY updateSuccess.label              "Rojanekirinbi awayekî serketî qediya.">
-<!ENTITY installSuccess.label             "Sazkirin bi awayekî serketî qediya.">
-<!ENTITY installSuccessRestart.label      "Ji bo qedandina sazkirinê ji nû ve bide destpêkirin.">
-<!ENTITY updateSuccessRestart.label       "Ji bo qedandina rijanekirinê ji nû ve bide destpêkirin.">
-<!ENTITY installWaiting.label             "Lê bendê ye...">
-<!ENTITY installIncompatibleUpdate.label  "Digelhevbûnan kontrol bike...">
-<!ENTITY installFinishing.label           "Tê Sazkirin...">
-<!ENTITY installFailure.label             "Sazkirin bi ser neket.">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Nav">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.size.label                      "Mezinahî">
+<!ENTITY sort.size.tooltip                    "Sort by size">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.rating.label                    "Rating">
+<!ENTITY sort.rating.tooltip                  "Sort by average rating">
 
-<!ENTITY progressStatus.label             "Li rojanekirinan dinêre">
 
-<!ENTITY eula.title                       "Peymana Lîsansa Bikarhênerê/a Dawî">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Bipejirîne û Saz Bike…">
+<!ENTITY showMore.label                       "Show more">
+<!ENTITY showMore.tooltip                     "Show more details">
+<!ENTITY showLess.label                       "Show less">
+<!ENTITY showLess.tooltip                     "Show fewer details">
 
-<!ENTITY blocklist.blocked.label          "Blocked">
-<!ENTITY blocklist.checkbox.label         "Bêbandor bike">
+<!ENTITY search.filter.label                  "Show:">
+<!ENTITY search.filter.installed.label        "Your installed add-ons">
+<!ENTITY search.filter.available.label        "Available add-ons">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.unknownDate                    "Nenas">
+<!ENTITY addon.disabled.postfix               "(disabled)">
+<!ENTITY addon.undo.label                     "Undo?">
+<!ENTITY addon.undo.tooltip                   "Undo this action">
+<!ENTITY addon.undoUninstall.label            "Undo?">
+<!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.restartNow.tooltip             "Restart now to complete installation">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+
+<!ENTITY addon.createdBy.label                "By ">

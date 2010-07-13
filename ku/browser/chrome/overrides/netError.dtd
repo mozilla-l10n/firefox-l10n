@@ -14,10 +14,12 @@
 
 <!ENTITY dnsNotFound.title "Çewtî! Navnîşan Nayê Dîtin">
 <!ENTITY dnsNotFound.longDesc "
- <ul>
-  <li>Dibe ku navnîşan çewt hatibe nivîsandin.</li>
-   <li>Heke nikaribî tu malperekê vekî, girêdanên torê kontrol bike û hîn bibe ka girêdana te ya înternetê heye an na.</li>
- <li>Heke navnîşaneke wisa hebe an jî ev pirsgirêk ji bo gelek malperan derkeve, dibe ku pirsgirêk ji servîsa te ya proksyê be (heke proksyekê bi kar tînî) an jî servîsa navê pelrêçê jê çûbe.</li>
+<ul>
+  <li>Kiểm tra các lỗi gõ địa chỉ như là
+    <strong>ww</strong>.example.com thay vì
+    <strong>www</strong>.example.com</li>
+  <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng của bạn.</li>
+  <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng &brandShortName; được phép truy cập Web.</li>
 </ul>
 ">
 
@@ -38,8 +40,10 @@
 <!ENTITY malformedURI.title "Çewtî' Navnîşan Nederbasdar e">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Navnîşan bi piranî wekî <strong>http://www.navnisan.com/</strong> tên nivîsandin.</li>
-  <li>Gelo xalbenda parvekirinê (<strong>/</strong>) rast hatiye nivîsandin? Divê ev xalbend, ne çepaldayî lê <strong>rastpaldayî</strong> be.</li>
+  <li>Địa chỉ Web thường được viết như sau
+    <strong>http://www.example.com/</strong></li>
+  <li>Hãy chắc rằng bạn đang dùng dấu chéo lên (vd.
+    <strong>/</strong>).</li>
 </ul>
 ">
 
@@ -50,11 +54,7 @@
 <!ENTITY netOffline.longDesc "netOffline tê vê derê.">
 
 <!ENTITY contentEncodingError.title "Çewtiya Enkodkirina Naverokê">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Ji kerema xwe re ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
 
 <!ENTITY unsafeContentType.title "Çewtî: Naveroka Neewle.">
 <!ENTITY unsafeContentType.longDesc "Dibe ku di vê malperê de naveroka ne ewle di virê de heye.">
@@ -114,9 +114,12 @@ demdemî be lewre piştre dîsa biceribîne.</li>
 <p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>
 ">
 
-<!ENTITY securityOverride.linkText "An tu dikarî awartebûnekê têxiyê...">
-<!ENTITY securityOverride.getMeOutOfHereButton "Min ji vê derê derxe">
-<!ENTITY securityOverride.exceptionButtonLabel "Awartebûnekê têxê...">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY securityOverride.linkText "Heke bixwazî zêdekariyan bidê...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Min ji vê derê derxe!">
+<!ENTITY securityOverride.exceptionButtonLabel "Zêdebariyê Bidê…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

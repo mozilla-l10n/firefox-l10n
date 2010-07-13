@@ -1,5 +1,5 @@
-<!ENTITY  windowClose.key                         "w">
-<!ENTITY  preferencesDefaultTitleMac.title        "Vebijêrk">
-<!ENTITY  preferencesDefaultTitleWin.title        "Vebijêrk">
-<!ENTITY  preferencesCloseButton.label            "Bigire">
-<!ENTITY  preferencesCloseButton.accesskey        "B">
+<!ENTITY  windowClose.key                         "W">
+<!ENTITY  preferencesDefaultTitleMac.title        "Vebijêrkên">
+<!ENTITY  preferencesDefaultTitleWin.title        "Hilbijartin">
+<!ENTITY  preferencesCloseButton.label            "Girtin">
+<!ENTITY  preferencesCloseButton.accesskey        "G">

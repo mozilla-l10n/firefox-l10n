@@ -44,21 +44,21 @@
 <!ENTITY  validation.crlautoupdatestatus.label    "Rewşa Rojanekirina Xweber">
 <!ENTITY  validation.deletecrl.label              "Jêbirin">
 <!ENTITY  validation.deletecrl.accesskey          "J">
-<!ENTITY  validation.updatecrl.label              "Rojanekirin">
+<!ENTITY  validation.updatecrl.label              "Rojane Bike">
 <!ENTITY  validation.updatecrl.accesskey          "R">
 <!ENTITY  validation.advanced.label               "Mîheng">
 <!ENTITY  validation.advanced.accesskey           "M">
 
 <!ENTITY  validation.crl.autoupdate.title         "Mîhengên rojanekirina CRL ya xweber">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Ji bo vê CRL ê rojanekirina xweber çalak bike">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Rojanekirin">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Rojane Bike">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Roja(ên) beriya dema Rojanekirina Pêş">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Rojane bike her">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Roj">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL Dixwaze Ji Virê Bê Veguhestin:">
 <!ENTITY  crl.import.status.title                 "Rewşa Veguhestina CRL’ê">
 <!ENTITY  crl.import.success.message              "Lîsteya Betalkilina Sertîfîkayan (CRL) serkeftî hate veguhestin.">
-<!ENTITY  crl.issuer.label                        "Weşangerê CRL'ê:">
+<!ENTITY  crl.issuer.label                        "Weşanger:">
 <!ENTITY  crl.issuer.org.label                    "Sazûmankar: ">
 <!ENTITY  crl.issuer.orgunit.label                "Yekîne: ">
 <!ENTITY  crl.import.nextupdate.label             "Dema Rojanekirina Pêş: ">

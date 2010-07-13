@@ -25,7 +25,7 @@
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 <!ENTITY reportForm.problem_type.item1.title        "Gerok nayê destekirin">
 <!ENTITY reportForm.problem_type.item2.title        "Nikare tomar bike">
-<!ENTITY reportForm.problem_type.item3.title        "Pêvek nayê nîşandan">
+<!ENTITY reportForm.problem_type.item3.title        "Plugin nayê nîşandan">
 <!ENTITY reportForm.problem_type.item4.title        "Naveroka din winda ye">
 <!ENTITY reportForm.problem_type.item5.title        "Tevger çewt e">
 <!ENTITY reportForm.problem_type.item6.title        "Xuyakirin çewt e">
@@ -49,7 +49,7 @@
 <!ENTITY reportForm.privacyPolicy.title             "Polîçeya Nepeniyê">
 <!ENTITY reportForm.privacyPolicy.tooltip           "Polîçeya Nepeniyê Nîşan Bide">
 
-<!ENTITY reportResults.showDetail.title             "Kîtekîtan Nîşan Bide">
+<!ENTITY reportResults.showDetail.title             "Kitekitan nîşan bide">
 <!ENTITY reportResults.showDetail.accesskey         "n">
 
 <!ENTITY sendReport.label                           "Rapor Tê Şandin">

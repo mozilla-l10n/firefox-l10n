@@ -3,5 +3,5 @@
 <!ENTITY date.heading               "Daneyên Tomarbûyî">
 <!ENTITY noReports.label            "Tu raporkirineke têkçûnê nehat tomarkirin.">
 <!ENTITY noConfig.label             "Ev sepan ji bo ku têkçûnan rapor bike nehatiye mîhenkirin. Divê vebijêrka <code>breakpad.reportURL</code> bê mîhenkirin.">
-<!ENTITY clearReports.label         "Raporkirinan Rake">
+<!ENTITY clearAllReports.label      "Hemû Raporkirinan Jê Bibe">
 

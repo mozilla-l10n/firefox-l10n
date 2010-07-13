@@ -1,7 +1,7 @@
 <!ENTITY window.title                 "Zêdekarî">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "Malper">
+<!ENTITY treehead.sitename.label      "Cî">
 <!ENTITY treehead.status.label        "Rewş">
 <!ENTITY removepermission.label       "Malperê Jê Bibe">
 <!ENTITY removepermission.accesskey   "J">
@@ -11,12 +11,12 @@
 <!ENTITY address.accesskey            "N">
 <!ENTITY block.label                  "Asteng Bike">
 <!ENTITY block.accesskey              "g">
-<!ENTITY session.label                "Destûra ji bo danişînê">
-<!ENTITY session.accesskey            "D">
-<!ENTITY allow.label                  "Destûrê bidê">
-<!ENTITY allow.accesskey              "e">
-<!ENTITY windowClose.key              "w">
+<!ENTITY session.label                "Ji bo daniştinê destûrê bidê">
+<!ENTITY session.accesskey            "d">
+<!ENTITY allow.label                  "Destûrê bide">
+<!ENTITY allow.accesskey              "D">
+<!ENTITY windowClose.key              "W">
 
-<!ENTITY button.close.label           "Bigire">
-<!ENTITY button.close.accesskey       "B">
+<!ENTITY button.close.label           "Girtin">
+<!ENTITY button.close.accesskey       "G">
 

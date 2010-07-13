@@ -1,4 +1,4 @@
-<!ENTITY     props.name.label               "Nav:">
+<!ENTITY     props.name.label               "Nav::">
 <!ENTITY     props.value.label              "Agahî:">
 <!ENTITY     props.domain.label             "Mêvandar:">
 <!ENTITY     props.path.label               "Kurterê:">
@@ -6,9 +6,9 @@
 <!ENTITY     props.expires.label            "Dîroka bidawîbûnê:">
 <!ENTITY     props.policy.label             "Rêgez:"> 
 
-<!ENTITY     button.allow.label             "Destûrê bidê">
+<!ENTITY     button.allow.label             "Destûrê bide">
 <!ENTITY     button.allow.accesskey         "D">
-<!ENTITY     button.session.label           "Ji bo daniştinê destûr bidê">
+<!ENTITY     button.session.label           "Ji bo daniştinê destûrê bidê">
 <!ENTITY     button.session.accesskey       "o">
 <!ENTITY     button.deny.label              "Red bike">
 <!ENTITY     button.deny.accesskey          "d">
