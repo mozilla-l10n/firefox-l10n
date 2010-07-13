@@ -53,6 +53,10 @@
 <!ENTITY  closeOtherTabs.accesskey    "k">
 <!ENTITY  openTabInNewWindow.label    "Atverti naujame lange">
 <!ENTITY  openTabInNewWindow.accesskey "l">
+<!ENTITY  pinTab.label                "Paversti specialiąja kortele">
+<!ENTITY  pinTab.accesskey            "s">
+<!ENTITY  unpinTab.label              "Paversti paprastąja kortele">
+<!ENTITY  unpinTab.accesskey          "s">
 <!ENTITY  bookmarkThisTab.label       "Įrašyti į adresyną šią kortelę">
 <!ENTITY  bookmarkThisTab.accesskey   "r">
 <!ENTITY  bookmarkAllTabs.label       "Įrašyti į adresyną visas korteles…">

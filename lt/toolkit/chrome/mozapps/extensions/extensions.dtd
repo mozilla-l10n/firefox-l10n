@@ -97,7 +97,7 @@
 <!ENTITY detail.showPreferences.tooltip       "Keisti šio priedo nuostatas">
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Jūsų įvertinimas:">
+<!ENTITY rating.label                         "Įvertinimas:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pristabdyti">
