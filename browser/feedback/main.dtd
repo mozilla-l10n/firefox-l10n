@@ -1,31 +1,21 @@
-<!ENTITY testpilot.brand.label                      "Test Pilot">
-
-<!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label 						"Impostazioni">
-<!ENTITY testpilot.settings.notifyMeWhen.label 			"Invia una notifica quando">
-<!ENTITY testpilot.settings.readyToSubmit.label 		"Uno studio è pronto per l'invio">
-<!ENTITY testpilot.settings.newStudy.label 				"È disponibile un nuovo studio">
-<!ENTITY testpilot.settings.hasNewResults.label 		"Uno studio presenta nuovi risultati">
-<!ENTITY testpilot.settings.alwaysSubmitData.label 		"Invia automaticamente i dati (non chiedere)">
-<!ENTITY testpilot.allStudies.label 					"Tutti i tuoi Studi utente">
-<!ENTITY testpilot.about.label 							"Informazioni su Test Pilot">
-
-<!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title 					"I tuoi studi Test Pilot">
-<!ENTITY testpilot.studiesWindow.currentStudies.label 	"Studi correnti">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label 	"Studi completati">
-<!ENTITY testpilot.studiesWindow.studyFindings.label 	"Risultati degli studi">
-<!ENTITY testpilot.studiesWindow.settings.label 		"Impostazioni">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage 	"Caricamento in corso, attendere…">
-
-<!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title 					"Test Pilot: dati non elaborati">
-
-<!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip 			"Chiudi">
-
-<!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label 						"Attiva Studi utente">
-<!ENTITY testpilot.feedbackbutton.label 				"Feedback">
-<!ENTITY testpilot.happy.label 							"Firefox mi ha reso felice perché…">
-<!ENTITY testpilot.sad.label 							"Firefox mi ha reso triste perché…">
+<!ENTITY testpilot.brand.label "Test Pilot">
+<!ENTITY testpilot.settings.label "Impostazioni">
+<!ENTITY testpilot.settings.notifyMeWhen.label "Invia una notifica quando">
+<!ENTITY testpilot.settings.readyToSubmit.label "Uno studio è pronto per l'invio">
+<!ENTITY testpilot.settings.newStudy.label "È disponibile un nuovo studio">
+<!ENTITY testpilot.settings.hasNewResults.label "Uno studio presenta nuovi risultati">
+<!ENTITY testpilot.settings.alwaysSubmitData.label "Invia automaticamente i dati (non chiedere)">
+<!ENTITY testpilot.allStudies.label "Tutti i tuoi Studi utente">
+<!ENTITY testpilot.about.label "Informazioni su Test Pilot">
+<!ENTITY testpilot.studiesWindow.title "I tuoi studi Test Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Studi correnti">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "Studi completati">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "Risultati degli studi">
+<!ENTITY testpilot.studiesWindow.settings.label "Impostazioni">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Caricamento in corso, attendere…">
+<!ENTITY testpilot.rawDataWindow.title "Test Pilot: dati non elaborati">
+<!ENTITY testpilot.notification.close.tooltip "Chiudi">
+<!ENTITY testpilot.enable.label "Attiva Studi utente">
+<!ENTITY testpilot.feedbackbutton.label "Feedback">
+<!ENTITY testpilot.happy.label "Firefox mi ha reso felice perché…">
+<!ENTITY testpilot.sad.label "Firefox mi ha reso triste perché…">
