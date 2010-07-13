@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Skriv inn nettadressen (URL), eller angi en lokal fil du vil åpne:">  
+<!ENTITY enter.label "Skriv inn adressen (URL), eller angi en lokal fil du vil åpne:">  
 <!ENTITY enter.accesskey "S">
 <!ENTITY chooseFile.label "Velg fil …">
 <!ENTITY chooseFile.accesskey "V">

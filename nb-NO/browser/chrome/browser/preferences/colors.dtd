@@ -2,7 +2,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Tillat nettsider å velge egne farger, istedenfor valgene mine ovenfor">
+<!ENTITY  allowPagesToUse.label           "Tillat nettsider å velge egne farger, istedenfor valgene ovenfor">
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Tekst og bakgrunn">

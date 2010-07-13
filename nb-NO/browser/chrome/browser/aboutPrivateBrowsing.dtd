@@ -4,12 +4,12 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; vil ikke loggføre historikk for denne nettleserøkten.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; er akkurat nå ikke i privat nettlesing-modus.">
 
-<!ENTITY privatebrowsingpage.description               "I en privat nettlesing-økt vil ikke &brandShortName; loggføre noen sidehistorikk, søkehistorikk, nedlastingshistorikk, skjemahistorikk, infokapsler eller midlertidige Internett-filer. Merk at filer du laster ned og bokmerker du lager vil beholdes.">
+<!ENTITY privatebrowsingpage.description               "I en privat nettlesing-økt vil ikke &brandShortName; lagre noen historikk, søkehistorikk, nedlastingshistorikk, skjemahistorikk, infokapsler eller midlertidige Internett-filer.  Merk at filer du laster ned og bokmerker du lager vil beholdes.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Du kan også starte med å ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "fjerne den nyeste historikken">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "slette den nyeste historikken">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start privat nettlesing">

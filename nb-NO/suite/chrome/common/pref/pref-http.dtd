@@ -15,5 +15,5 @@
 <!ENTITY prefEnablePipelining.label          "Tillat pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "p">
 <!ENTITY prefEnablePipeliningProxy.accesskey "l">
-<!ENTITY prefPara                            "HTTP-tilkoblinger kan bli finjustert med disse innstillingene for å bedre enten ytelse eller kompabilitet. Noen mellomtjenere, for eksempel, trenger HTTP/1.0 for å virke (se versjonsnotat for mer informasjon.)">
+<!ENTITY prefPara                            "HTTP-tilkoblinger kan bli finjustert med disse innstillingene for å bedre enten ytelse eller kompabilitet. Noen mellomtjenere, for eksempel, trenger HTTP/1.0 for å virke (se versjonsnotatet for mer informasjon.)">
 <!ENTITY prefPipeWarning                     "ADVARSEL: Pipelining er en eksperimentell funksjon som er utviklet for å bedre hastigheten ved innlasting av nettsider. Men dette støttes dårlig av noen tjenere og mellomtjenere.">

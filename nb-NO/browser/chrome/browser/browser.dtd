@@ -89,7 +89,7 @@
 
 <!ENTITY bookmarksMenu.label "Bokmerker">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Legg til bokmerke …">
+<!ENTITY bookmarkThisPageCmd.label "Bokmerk denne siden">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne siden">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne siden …">
@@ -165,8 +165,8 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Instrumentpanel">
-<!ENTITY hudConsoleCmd.accesskey      "u">
+<!ENTITY hudConsoleCmd.label          "Konsoll">
+<!ENTITY hudConsoleCmd.accesskey      "K">
 <!ENTITY hudConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspiser">
@@ -314,11 +314,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Sett som skrivebordsbakgrunn …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
-<!ENTITY bookmarkPageCmd2.label       "Bokmerk …">
+<!ENTITY bookmarkPageCmd2.label       "Bokmerk denne siden">
 <!ENTITY bookmarkPageCmd2.accesskey   "B">
-<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk lenke …">
+<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenken">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
-<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk ramme …">
+<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne rammen">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY sendPageCmd.label            "Send lenkeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">

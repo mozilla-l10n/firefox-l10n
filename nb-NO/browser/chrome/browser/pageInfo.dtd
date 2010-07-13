@@ -108,9 +108,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Nettstedsidentitet">
-<!ENTITY  securityView.identity.owner    "Eier: ">
-<!ENTITY  securityView.identity.domain   "Nettsted: ">
-<!ENTITY  securityView.identity.verifier "Verifisert av: ">
+<!ENTITY  securityView.identity.owner    "Eier:">
+<!ENTITY  securityView.identity.domain   "Nettsted:">
+<!ENTITY  securityView.identity.verifier "Verifisert av:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har jeg besøkt dette nettstedet tidligere?">

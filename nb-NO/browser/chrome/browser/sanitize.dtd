@@ -2,7 +2,7 @@
 <!ENTITY sanitizeDialog2.title         "Slett nylig historikk">
 
 <!ENTITY sanitizeItems.label          "Slett disse elementene nå:">
-<!ENTITY clearDataSettings2.label     "Når jeg avslutter &brandShortName; skal den automatisk slette:">
+<!ENTITY clearDataSettings2.label     "Når &brandShortName; avsluttes skal den automatisk slette:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Denne handlingen kan ikke angres.">
 
-<!ENTITY dialog.width                 "32em">
+<!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">

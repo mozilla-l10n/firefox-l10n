@@ -18,11 +18,11 @@
 <!ENTITY helpForIEUsers.accesskey "F">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label         "Utgivelsesmerknader">
-<!ENTITY helpReleaseNotes.accesskey     "U">
+<!ENTITY helpReleaseNotes.label         "Versjonsnotat">
+<!ENTITY helpReleaseNotes.accesskey     "V">
 
-<!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinformasjon">
-<!ENTITY helpTroubleshootingInfo.accesskey  "F">
+<!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
+<!ENTITY helpTroubleshootingInfo.accesskey  "e">
 
 <!ENTITY updateCmd.label                "Søk etter oppdateringer …">
 

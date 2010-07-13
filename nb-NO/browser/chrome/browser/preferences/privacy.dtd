@@ -2,7 +2,7 @@
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
-<!ENTITY  locbar.pre.label              "Når jeg bruker adresselinjen, foreslå:">
+<!ENTITY  locbar.pre.label              "Foreslå ved bruk av adresselinjen:">
 <!ENTITY  locbar.pre.accessKey          "N">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historikk og bokmerker">
@@ -21,8 +21,8 @@
 <!ENTITY  keepUntil.accesskey           "e">
 
 <!ENTITY  expire.label                  "de utløper på dato">
-<!ENTITY  close.label                   "jeg lukker &brandShortName;">
-<!ENTITY  askEachTime.label             "spør meg hver gang">
+<!ENTITY  close.label                   "&brandShortName; avsluttes">
+<!ENTITY  askEachTime.label             "spør hver gang">
 
 <!ENTITY  cookieExceptions.label        "Unntak …">
 <!ENTITY  cookieExceptions.accesskey    "U">
@@ -38,7 +38,7 @@
 <!ENTITY  historyHeader.custom.label       "Bruke egne innstillinger for historikk">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; vil huske historikk for nettlesing, nedlastinger, skjamaer og søk, og beholde infokapsler fra nettsider du besøker.">
+<!ENTITY  rememberDescription.label      "&brandShortName; vil huske historikk for nettlesing, nedlastinger, skjemaer og søk, og beholde infokapsler fra nettsider du besøker.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -60,7 +60,7 @@
 <!ENTITY  privateBrowsingPermanent.label "Permanent privat nettlesing-modus">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Husk nettleserhistorikken min">
+<!ENTITY  rememberHistory.label      "Husk nettleserhistorikk">
 <!ENTITY  rememberHistory.accesskey  "H">
 
 <!ENTITY  rememberDownload.label         "Husk nedlastingshistorikk">

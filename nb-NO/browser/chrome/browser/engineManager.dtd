@@ -18,7 +18,7 @@
 <!ENTITY  addEngine.label           "Installer flere søkemotorer …">
 <!ENTITY  addEngine.accesskey       "I">
 
-<!ENTITY  enableSuggest.label       "Vis forslag">
+<!ENTITY  enableSuggest.label       "Vis søkeforslag">
 <!ENTITY  enableSuggest.accesskey   "V">
 
 <!ENTITY  restoreDefaults.label     "Gjenopprett standard">
