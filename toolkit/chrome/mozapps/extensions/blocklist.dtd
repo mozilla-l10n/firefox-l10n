@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Reinicia el &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "Blocat">
+<!ENTITY blocklist.checkbox.label    "Inhabilita">
