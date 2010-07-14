@@ -42,8 +42,8 @@
 <!ENTITY taskbarCmd.label "Bàr na staide">
 <!ENTITY taskbarCmd.accesskey "B">
 
-<!ENTITY pageSourceCmd.label "Tobar na duilleige">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.label "Bun-tùs na duilleige">
+<!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Fiosrachadh na duilleige">
 <!ENTITY pageInfoCmd.accesskey "F">
@@ -246,15 +246,15 @@
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ath-luchdaich am frèam">
 <!ENTITY reloadFrameCmd.accesskey     "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Seall tobar na thagh thu">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Seall tobar MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Seall bun-tùs na thagh thu">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Seall am bun-tùs MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Seall tobar na duilleige">
+<!ENTITY viewPageSourceCmd.label      "Seall bun-tùs na duilleige">
 <!ENTITY viewPageSourceCmd.accesskey  "S">
-<!ENTITY viewFrameSourceCmd.label     "Seall tobar an fhrèama">
-<!ENTITY viewFrameSourceCmd.accesskey "S">
+<!ENTITY viewFrameSourceCmd.label     "Seall bun-tùs an fhrèama">
+<!ENTITY viewFrameSourceCmd.accesskey "f">
 <!ENTITY viewPageInfoCmd.label        "Seall fiosrachadh na duilleige">
 <!ENTITY viewPageInfoCmd.accesskey    "f">
 <!ENTITY viewFrameInfoCmd.label       "Seall fiosrachadh an fhrèama">
