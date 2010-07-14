@@ -15,7 +15,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Fullførte undersøkelser">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Resultater av undersøkelser">
 <!ENTITY testpilot.studiesWindow.settings.label         "Innstillinger">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Laster, vent ...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Laster, vent …">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Testpilot: Rådata">
@@ -26,5 +26,5 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Skru av brukerstudier">
 <!ENTITY testpilot.feedbackbutton.label                "Tilbakemelding">
-<!ENTITY testpilot.happy.label        "Firefox gjorde meg glad fordi ...">
-<!ENTITY testpilot.sad.label          "Firefox gjorde meg trist fordi ...">
+<!ENTITY testpilot.happy.label        "Firefox gjorde meg glad fordi …">
+<!ENTITY testpilot.sad.label          "Firefox gjorde meg trist fordi …">
