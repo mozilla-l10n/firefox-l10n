@@ -133,7 +133,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Nettstedsidentitet">
-<!ENTITY  securityView.identity.owner    "Eier: ">
+<!ENTITY  securityView.identity.owner    "Eier:">
 <!ENTITY  securityView.identity.domain   "Nettsted:">
 <!ENTITY  securityView.identity.verifier "Verifisert av:">
 

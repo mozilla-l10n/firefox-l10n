@@ -29,10 +29,10 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Bilder fra dette nettstedet vil aldri lastes ned.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "Tillat sprettoppvinduer fra dette nettstedet">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "T">
-<!ENTITY cookieManagePopups.label                    "Behandle sprettoppvinduer">
-<!ENTITY cookieManagePopups.accesskey                "B">
+<!ENTITY cookieAllowPopupsCmd.label "Tillat sprettoppvinduer fra dette nettstedet">
+<!ENTITY cookieAllowPopupsCmd.accesskey "T">
+<!ENTITY cookieManagePopups.label "Behandle sprettoppvinduer">
+<!ENTITY cookieManagePopups.accesskey "B">
 
 <!ENTITY cookieCookieManager.label "Infokapsler">
 <!ENTITY cookieCookieManager.accesskey "I">
