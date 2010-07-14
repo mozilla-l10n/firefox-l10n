@@ -1,19 +1,19 @@
 <!ENTITY about.version                "versió">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2010 pels">
-<!ENTITY about.copy.linkTitle         "coŀlaboradors">
-<!ENTITY about.copy.afterLink         "del projecte Mozilla.">
+<!ENTITY about.credits.beforeLink        "Vegeu una llista de ">
+<!ENTITY about.credits.linkTitle         "coŀlaboradors">
+<!ENTITY about.credits.afterLink         " del projecte Mozilla.">
 
-<!ENTITY about.license.beforeLink     "Llegiu la">
+<!ENTITY about.license.beforeTheLink     "Llegiu la ">
 <!ENTITY about.license.linkTitle      "llicència">
-<!ENTITY about.license.afterLink      "d'aquest producte.">
+<!ENTITY about.license.afterTheLink      " d'aquest producte.">
 
-<!ENTITY about.relnotes.beforeLink    "Llegiu les">
+<!ENTITY about.relnotes.beforeTheLink    "Llegiu les ">
 <!ENTITY about.relnotes.linkTitle     "notes">
-<!ENTITY about.relnotes.afterLink     "d'aquesta versió.">
+<!ENTITY about.relnotes.afterTheLink     " d'aquesta versió.">
 
-<!ENTITY about.buildconfig.beforeLink "Vegeu la">
+<!ENTITY about.buildconfig.beforeTheLink "Vegeu la ">
 <!ENTITY about.buildconfig.linkTitle  "configuració">
-<!ENTITY about.buildconfig.afterLink  "utilitzada en aquesta versió.">
+<!ENTITY about.buildconfig.afterTheLink  " utilitzada en aquesta versió.">
 
 <!ENTITY about.buildIdentifier        "Identificador de la versió: ">

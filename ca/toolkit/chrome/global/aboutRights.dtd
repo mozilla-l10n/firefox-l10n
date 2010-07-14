@@ -16,17 +16,17 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License (Llicència Pública de Mozilla)">
 <!ENTITY rights.intro-point1c ". Això significa que podeu utilitzar, copiar i distribuir el &brandShortName; a altres. També es permet obertament la modificació del codi font del &brandShortName; per tal que s'adequï a les vostres necessitats. La Mozilla Public License us dóna també el dret de distribuir versions modificades.">
 
-<!ENTITY rights.intro-point2a "Mozilla no us atorga cap dret sobre els logotips i marques de Mozilla i Firefox. Podeu trobar més informació referent a la política de marques ">
-<!ENTITY rights.intro-point2b "ací">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "No s'atorga cap dret ni cap llicència sobre les marques de la Fundació Mozilla, o de cap altra part, incloent-hi sense cap limitació el nom i el logotip del Firefox. Podeu trobar més informació referent a la política de marques ">
+<!ENTITY rights.intro-point2-b "aquí">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Les polítiques de privadesa dels productes de &vendorShortName; poden trobar-se ">
-<!ENTITY rights.intro-point3b "ací">
+<!ENTITY rights.intro-point3b "aquí">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Qualsevol política de privadesa d'aquest producte cal llistar-la ací.">
+<!ENTITY rights.intro-point3-unbranded "Qualsevol política de privadesa d'aquest producte cal llistar-la aquí.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "El &brandShortName; també us ofereix serveis d'informació web opcionals, com ara el servei SafeBrowsing; malgrat tot, no podem garantir que siguin 100&#37; acurats o mancats d'errors. Per a més detalls, com ara la informació de com inhabilitar aqueixos serveis, pot trobar-se als ">
@@ -50,10 +50,10 @@
 <!ENTITY rights.webservices-c " , i desmarcant llavors «&blockAttackSites.label;» i «&blockWebForgeries.label;»">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Un resum dels serveis web que incorpora el producte, juntament amb instruccions de com inhabilitar-los si s'escau, cal incloure-ho ací.">
+<!ENTITY rights.webservices-unbranded "Un resum dels serveis web que incorpora el producte, juntament amb instruccions de com inhabilitar-los si s'escau, cal incloure-ho aquí.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Els termes de servei que s'apliquin per a aquest producte cal llistar-los ací.">
+<!ENTITY rights.webservices-term1-unbranded "Els termes de servei que s'apliquin per a aquest producte cal llistar-los aquí.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; i els seus coŀlaboradors, llicenciadors i socis treballen per a proporcionar la informació sobre pesca electrònica i programari maliciós més acurada i al dia possible. No obstant això, no podem garantir que aqueixa informació sigui completa i mancada d'errors: alguns llocs perillosos poden eŀludir-ne la detecció i alguns llocs segurs poden haver estat identificats com a perillosos per error.">
