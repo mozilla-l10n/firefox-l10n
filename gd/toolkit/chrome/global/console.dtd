@@ -37,7 +37,7 @@
 
 <!ENTITY errorConsole.title "Consol nam mearachd">
 
-<!ENTITY errFile.label   "Am faidhle tùsail:">
+<!ENTITY errFile.label   "Bun-tùs an fhaidhle:">
 <!ENTITY errLine.label   "Loidhne:">
 <!ENTITY errColumn.label "Colbh:">
 

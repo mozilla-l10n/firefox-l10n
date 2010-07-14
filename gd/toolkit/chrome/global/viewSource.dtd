@@ -6,7 +6,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Tùs: ">
+<!ENTITY mainWindow.preface "Bun-tùs: ">
 
 <!ENTITY fileMenu.label "Faidhle">
 <!ENTITY fileMenu.accesskey "F">

@@ -55,7 +55,7 @@
 <!ENTITY  generalMode           "Modh reandaraidh:">
 <!ENTITY  generalSize           "Meud:">
 <!ENTITY  generalReferrer       "An t-URL on dàinigear:">
-<!ENTITY  generalSource         "Tobar an tasgadain:">
+<!ENTITY  generalSource         "Bun-tùs an tasgadain:">
 <!ENTITY  generalModified       "Air atharrachadh:">
 <!ENTITY  generalEncoding       "Còdachadh:">
 <!ENTITY  generalMetaName       "Ainm">
