@@ -71,5 +71,5 @@
 
 <!ENTITY homearrow.tooltip    "Primera pàgina">
 <!ENTITY endarrow.tooltip     "Darrera pàgina">
-<!ENTITY rightarrow.tooltip   "Pàgina següent">
-<!ENTITY leftarrow.tooltip    "Pàgina anterior">
+<!ENTITY nextarrow.tooltip   "Pàgina següent">
+<!ENTITY previousarrow.tooltip    "Pàgina anterior">

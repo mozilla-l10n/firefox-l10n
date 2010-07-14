@@ -2,7 +2,6 @@
 <!ENTITY message.label "Ací hi van alguns texts de mostra.">
 <!ENTITY editfield0.label "Nom d'usuari:">
 <!ENTITY editfield1.label "Contrasenya:">
-<!ENTITY editfield2.label "Confirmeu la contrasenya:">
 <!ENTITY checkbox.label "Comprova">
 <!ENTITY copyCmd.label    "Copia">
 <!ENTITY copyCmd.accesskey "C">

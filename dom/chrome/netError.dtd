@@ -83,9 +83,11 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 <p>Aquest tipus de falsificacions web s'utilitzen en enganys coneguts com a pesca electrònica (phishing), amb què webs i adreces electròniques fraudulentes s'utilitzen per a imitar fonts en què podeu confiar-hi.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "S'ha blocat per la política de seguretat de continguts">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha evitat que la pàgina es carregui d'aquesta manera perquè té una política de seguretat de continguts que no ho permet.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-
