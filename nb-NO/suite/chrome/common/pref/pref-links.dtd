@@ -1,0 +1,17 @@
+<!ENTITY linksHeader.label "Lenkeoppførsel">
+<!ENTITY newWindow.label "Oppførsel ved åpning av lenker">
+<!ENTITY newWindowDescription.label "Åpne lenker som er ment å åpnes i et nytt vindu i">
+<!ENTITY external.label "Lenker fra andre applikasjoner">
+<!ENTITY externalDescription.label "Åpne lenker sendt fra andre programmer i">
+
+<!ENTITY openCurrent.label "Den aktive fanen/vinduet">
+<!ENTITY newWindowGroupCurrent.accesskey "D">
+<!ENTITY externalGroupCurrent.accesskey "e">
+
+<!ENTITY openTab.label "En ny fane i det aktive vinduet">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "f">
+
+<!ENTITY openWindow.label "Et nytt vindu">
+<!ENTITY newWindowGroupWindow.accesskey "t">
+<!ENTITY externalGroupWindow.accesskey "v">

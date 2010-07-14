@@ -2,31 +2,31 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Utiltrodd tilkobling">
-<!ENTITY certerror.longpagetitle "Denne tilkoblingen er ikke tiltrodd">
+<!ENTITY certerror.pagetitle  "Usikker tilkobling">
+<!ENTITY certerror.longpagetitle "Denne tilkoblingen er ikke sikret">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å sikkert koble
-til <b>#1</b>, men vi kan ikke bekrefte at tilkoblingen er sikker.">
-<!ENTITY certerror.introPara2 "Normalt, når du forsøker å koble til sikkert,
-vil nettstedene oppgi sikker autentisering for å bevise at en har kommet
-til riktig sted. Men i dette tilfellet kan ikke nettstedets identitet bekreftes.">
+<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å lage en sikret tilkobling til
+<b>#1</b>, men vi kan ikke bekrefte at tilkoblingen er sikker.">
+<!ENTITY certerror.introPara2 "Vanligvis når du lager en sikret tilkobling vil 
+nettsteder oppgi en sikker identitifikasjon, for å bevise at du besøker rett nettsted.
+Men identiteten til dette nettstedet er ikke bekreftet.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Hva bør jeg gjøre?">
-<!ENTITY certerror.whatShouldIDo.content "Dersom du vanligvis kobler til dette
-nettstedet uten problemer kan feilen bety at noen forsøker
-å utgi seg for å være nettstedet, og da bør du ikke fortsette.">
+<!ENTITY certerror.whatShouldIDo.content "Dersom du vanligvis kobler til
+dette nettstedet uten å ha problemer, kan denne feilmeldingen bety at noen
+forsøker å etterligne nettstedet, og da bør du ikke fortsette.">
 <!ENTITY certerror.getMeOutOfHere.label "Dette høres dårlig ut, send meg til startsiden isteden">
 
 <!ENTITY certerror.expert.heading "Jeg forstår risikoen">
-<!ENTITY certerror.expert.content "Dersom du forstår hva som foregår kan du be
-&brandShortName; om å begynne å stole på nettstedets identifikasjon.
-<b>Selv om du stoler på nettstedet, så kan denne feilen bety at noen forsøker å
-klusse med tilkoblingen din.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ikke lag et unntak med mindre
-du er sikker på at det er en god årsak til at nettstedet ikke bruker sikker autentisering.">
-<!ENTITY certerror.addException.label "Lag et unntak …">
+<!ENTITY certerror.expert.content "Dersom du forstår hva som foregår kan du be 
+&brandShortName; om å stole på dette nettstedets identifikasjon.
+<b>Selv om du stoler på nettstedet kan dette likevel bety at noen
+forsøker å forfalske tilkoblingen.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ikke lag en unntaksregel med mindre du vet at
+det er en god grunn til at dette nettstedet mangler sikker identifikasjon.">
+<!ENTITY certerror.addException.label "Lag en unntaksregel …">
 
 <!ENTITY certerror.technical.heading "Tekniske detaljer">
