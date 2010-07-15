@@ -7,10 +7,6 @@
 #define bookmarks_title Adreces d'interès
 #define bookmarks_heading Adreces d'interès
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Complements de les adreces d'interès
-
 #define bookmarks_toolbarfolder Carpeta de les adreces d'interès
 #define bookmarks_toolbarfolder_description Afegiu les adreces d'interès a aquesta carpeta per a veure-les a la barra de les adreces d'interès
 
