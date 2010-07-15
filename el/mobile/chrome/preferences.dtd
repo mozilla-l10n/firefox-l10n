@@ -28,4 +28,14 @@
 <!ENTITY homepage.default                          "Αρχική &brandShortName;">
 <!ENTITY homepage.currentpage                      "Χρήση τρέχουσας σελίδας">
 
+<!ENTITY sync.title                                "Συγχρονισμός">
+<!ENTITY sync.username                             "Όνομα χρήστη">
+<!ENTITY sync.password                             "Κωδικός">
+<!ENTITY sync.secretPhrase                         "Συνθηματική φράση">
+<!ENTITY sync.deviceName                           "Όνομα συσκευής">
+<!ENTITY sync.connect                              "Σύνδεση">
+<!ENTITY sync.disconnect                           "Αποσύνδεση">
+<!ENTITY sync.syncNow                              "Συγχρονισμός τώρα">
+
+
 

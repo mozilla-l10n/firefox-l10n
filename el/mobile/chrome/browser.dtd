@@ -23,10 +23,9 @@
 <!ENTITY editBookmarkRemove.label "Απομάκρυνση">
 <!ENTITY editBookmarkDone.label "Προσθήκη">
 <!ENTITY editBookmarkTags.label "Προσθέστε εδώ ετικέτες">
-<!ENTITY helperApp.prompt "Τι θέλετε να γίνει με το">
-<!ENTITY helperApp.open "Άνοιγμα">
-<!ENTITY helperApp.save "Αποθήκευση">
-<!ENTITY helperApp.nothing "Τίποτα">
+
+
+
 <!ENTITY formHelper.previous "Προηγούμενο">
 <!ENTITY formHelper.next "Επόμενο">
 <!ENTITY formHelper.done "Ολοκληρώθηκε">
