@@ -1,17 +1,22 @@
 <!ENTITY updateWizard.title "Nuashonrú Bogearraí">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
-
 <!ENTITY checking.title "Nuashonruithe á seiceáil">
-<!ENTITY updateCheck.label "Looking for newer versions of &brandShortName;…">
+<!ENTITY updateCheck.label "Leaganacha nua de &brandShortName; á lorg…">
+
+<!ENTITY pluginupdatesfound.title "Aimsíodh nuashonruithe le haghaidh forlíontán">
+<!ENTITY pluginupdatesfound.label "Aimsíodh leagan nua de roinnt de do chuid fhorlíontán.">
+<!ENTITY pluginupdateslink.label "Taispeáin conas do chuid fhorlíontán a nuashonrú.">
 
 <!ENTITY noupdatesfound.title "Ní bhfuarthas nuashonruithe">
 <!ENTITY noupdatesautoenabled.intro "Níl nuashonrú ar bith le fáil. Seiceálfaidh &brandShortName; ó am go chéile an bhfuil nuashonruithe nua ann.">
 <!ENTITY noupdatesautodisabled.intro "Níl nuashonruithe ar fáil. Lorg arís iad níos déanaí, nó cumasaigh seiceáil nuashonruithe uathoibríoch &brandShortName;.">
 
-<!ENTITY incompatibleCheck.title "Checking Add-on Compatibility">
-<!ENTITY incompatibleCheck.label "Looking for newer versions of your add-ons…">
+<!ENTITY manualUpdate.title "Ní féidir nuashonrú">
+<!ENTITY manualUpdate.desc "Tá nuashonrú molta slándála agus cobhsaíochta ar fáil, ach níl cead agat é a shuiteáil. Téigh i dteagmháil le riarthóir do chórais, nó déan iarracht eile ó chuntas le cead suiteála bogearraí ar an ríomhaire seo.">
+<!ENTITY manualUpdateGetMsg.label "Tá an leagan is déanaí de &brandShortName; ar fáil i gcónaí ó:">
+
+<!ENTITY incompatibleCheck.title "Comhoiriúnacht na mBreiseán á Seiceáil">
+<!ENTITY incompatibleCheck.label "Leaganacha níos nuaí de do bhreiseáin á lorg…">
 
 <!ENTITY clickHere.label "Tuilleadh eolais faoin nuashonrú seo">
 
@@ -19,8 +24,8 @@
 
 <!ENTITY license.instructions "Má ghlacann tú le coinníollacha an chomhaontaithe seo, cliceáil Glacaim Leis thíos chun leanúint le suiteáil an nuashonraithe.">
 
-<!ENTITY license.titleText "Comhaontú um an gCeadúnas Earra Bhoig">
-<!ENTITY license.introText "Téarmaí agus coinníollacha úsáide an phacáiste seo.">
+<!ENTITY license.titleText "Comhaontú um an gCeadúnas Bogearra">
+<!ENTITY license.introText "Téarmaí agus coinníollacha úsáide an bhogearra seo.">
 <!ENTITY license.instructionText "Léigh an comhaontú um cheadúnas earra bhoig seo a leanas, le do thoil. Úsáid an scrollbharra chun an chuid eile den chomhaontú seo a léamh.">
 <!ENTITY license.accept "Glacaim leis an Chomhaontú um Cheadúnas">
 <!ENTITY license.accept.accesskey "c">
@@ -29,7 +34,7 @@
 
 <!ENTITY incompatibleList.title "Aimsíodh Breiseáin Neamh-Chomhoiriúnacha">
 
-<!ENTITY downloading.title "Nuashonrú á Íosluchtú">
+<!ENTITY downloadPage.title "&brandShortName; á íosluchtú">
 <!ENTITY downloading.intro "Nuashonrú á íosluchtú…">
 <!ENTITY connecting.label "Ag dul i dteagmháil le freastalaí na nuashonruithe…">
 <!ENTITY verificationFailedText.label "Níorbh fhéidir le &brandShortName; sláine an nuashonraithe incrimintigh a fhíorú tar éis é a íosluchtú. Dá bhrí sin, tá an pacáiste nuashonraithe á íosluchtú ina iomláine.">
@@ -46,12 +51,12 @@
 <!ENTITY errorpatching.intro "Níorbh fhéidir an páirt-nuashonrú a chur i bhfeidhm. Déanfaidh &brandShortName; iarracht eile trí nuashonrú iomlán a íosluchtú.">
 
 <!ENTITY finishedPage.title "Nuashonrú Réidh le Suiteáil">
-<!ENTITY finishedPage.text "The update will be installed the next time &brandShortName; starts. You can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY finishedPage.text "Suiteálfar an nuashonrú an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois nó leanúint ag obair agus é a atosú níos déanaí.">
 
-<!ENTITY finishedBackgroundPage.text "A security and stability update for &brandShortName; has been downloaded and is ready to be installed.">
+<!ENTITY finishedBackgroundPage.text "Tá nuashonrú slándála agus cobhsaíochta le haghaidh &brandShortName; íosluchtaithe agus réidh le suiteáil.">
 <!ENTITY finishedBackground.name "Nuashonrú:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY finishedBackground.more "The update will be installed the next time &brandShortName; starts. You can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY finishedBackground.more "Suiteálfar an nuashonrú an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois nó leanúint ag obair agus é a atosú níos déanaí.">
 
 <!ENTITY installed.title "Nuashonrú Suiteáilte">
 <!ENTITY installed.intro "D'éirigh le suiteáil an nuashonraithe.">

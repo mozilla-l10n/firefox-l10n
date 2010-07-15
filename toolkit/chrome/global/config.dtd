@@ -55,7 +55,7 @@
 <!-- Tooltips -->
 
 <!ENTITY prefColumnHeader.tooltip "Cliceáil lena sórtáil">
-<!ENTITY columnChooser.tooltip "Cliceáil chun colúin a roghnú le cur ar taispeáin">
+<!ENTITY columnChooser.tooltip "Cliceáil chun colúin a roghnú le cur ar taispeáint">
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

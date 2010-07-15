@@ -2,7 +2,7 @@
 
 <!ENTITY printSetup.title "Socrú Leathanaigh">
 
-<!ENTITY basic.tab "Formáid &amp; Roghanna">
+<!ENTITY basic.tab "Formáid agus Roghanna">
 
 <!ENTITY formatGroup.label "Formáid">
 
@@ -21,10 +21,10 @@
 
 <!ENTITY optionsGroup.label "Roghanna">
 
-<!ENTITY printBG.label "Priontáil an Cúlra (dathanna &amp; íomhánna)">
+<!ENTITY printBG.label "Priontáil an Cúlra (dathanna agus íomhánna)">
 <!ENTITY printBG.accesskey "C">
 
-<!ENTITY advanced.tab "Imill &amp; Ceanntásc/Buntásc">
+<!ENTITY advanced.tab "Imill agus Ceanntásc/Buntásc">
 
 <!ENTITY marginGroup.label "Imill (#1)">
 <!ENTITY marginUnits.inches "orlach">
@@ -38,7 +38,7 @@
 <!ENTITY marginRight.label "Ar dheis:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label "Ceanntásca &amp; Buntásca">
+<!ENTITY headerFooter.label "Ceanntásca agus Buntásca">
 
 <!ENTITY hfLeft.label "Ar chlé:">
 <!ENTITY hfCenter.label "Lárphointe:">

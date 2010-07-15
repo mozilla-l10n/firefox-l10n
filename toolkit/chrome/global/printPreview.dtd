@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "An chéad leathanach">
 <!ENTITY endarrow.tooltip "Leathanach Deireanach">
-<!ENTITY rightarrow.tooltip "An chéad leathanach eile">
-<!ENTITY leftarrow.tooltip "An leathanach roimhe seo">
+<!ENTITY nextarrow.tooltip "An chéad leathanach eile">
+<!ENTITY previousarrow.tooltip "An leathanach roimhe seo">

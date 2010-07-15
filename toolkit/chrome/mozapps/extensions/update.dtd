@@ -7,7 +7,7 @@
 
 <!ENTITY mismatch.win.title "Breiseáin Neamh-chomhoiriúnacha">
 <!ENTITY mismatch.top.label "Níl na breiseáin seo a leanas comhoiriúnach leis an leagan seo &brandShortName; agus díchumasaíodh iad:">
-<!ENTITY mismatch.bottom.label "Is féidir le &brandShortName; leaganacha comhoiriúnacha de na comhpháirteanna seo a lorg.">
+<!ENTITY mismatch.bottom.label "Is féidir le &brandShortName; leaganacha comhoiriúnacha de na breiseáin seo a lorg.">
 
 <!ENTITY checking.wizard.title "Ag lorg Breiseáin Chomhoiriúnacha">
 <!ENTITY checking.top.label "Ag seiceáil le haghaidh nuashonruithe ar do bhreiseáin neamh-chomhoiriúnacha…">
