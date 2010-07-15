@@ -36,13 +36,19 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "κ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 <!ENTITY bidiSwitchTextDirectionItem.label "Αλλαγή κατεύθυνσης κειμένου">
-<!ENTITY blockImageCmd.accesskey "κ">
+
 <!ENTITY bookmarksButton.label "Σελιδοδείκτες">
 <!ENTITY bookmarksButton.tooltip "Εμφανίζει τους σελιδοδείκτες σας">
 <!ENTITY bookmarksButton.accesskey  "σ">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY  pinTab.label                       "Μετατροπή σε καρτέλα εφαρμογής">
+<!ENTITY  pinTab.accesskey                   "φ">
+<!ENTITY  unpinTab.label                     "Μετατροπή σε κανονική καρτέλα">
+<!ENTITY  unpinTab.accesskey                 "κ">
+
 
 
 <!ENTITY bookmarksItem.title "Σελιδοδείκτες">
