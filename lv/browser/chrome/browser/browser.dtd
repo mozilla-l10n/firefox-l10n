@@ -329,7 +329,6 @@
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopēt attēlu">
 <!ENTITY copyImageContentsCmd.accesskey "p">
-<!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY copyEmailCmd.label "Kopēt e-pasta adresi">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Šis ietvars">
