@@ -73,8 +73,11 @@
 <!ENTITY phishingBlocked.title "Falsaíocht Ghréasáin!">
 <!ENTITY phishingBlocked.longDesc '<p>D&apos;fhéadfadh goid aitheantais nó calaois eile teacht mar thoradh ar fhaisnéis phearsanta ar bith a chur isteach sa leathanach seo.</p> <p>Úsáidtear suímh den chineál seo i gcamscéimeanna ar a dtugtar "bréagbhrandáil", ina gcruthaíonn coirpigh leathanaigh agus ríomhphoist chalaoiseacha chun aithris a dhéanamh ar fhoinsí dlisteanacha a bhfuil muinín agat astu.</p>'>
 
+<!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
+
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Ar aghaidh liom as seo!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Amach as seo liom!">
 <!ENTITY securityOverride.exceptionButtonLabel "Cruthaigh Eisceacht…">
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
