@@ -1,0 +1,31 @@
+<!ENTITY testpilot.brand.label                      "Οδηγός δοκιμών">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "Ρυθμίσεις">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Ειδοποίηση όταν">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Μια δοκιμή είναι έτοιμη για υποβολή">
+<!ENTITY testpilot.settings.newStudy.label          "Υπάρχει μια νέα δοκιμή">
+<!ENTITY testpilot.settings.hasNewResults.label     "Μια δοκιμή έχει νέα αποτελέσματα">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Αυτόματη υποβολή των δεδομένων μου (χωρίς ερώτηση)">
+<!ENTITY testpilot.allStudies.label                 "Όλες οι δοκιμές των χρηστών σας">
+<!ENTITY testpilot.about.label                      "Περί του οδηγού δοκιμών">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Οι δοκιμές σας">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Τρέχουσες δοκιμές">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ολοκληρωμένες δοκιμές">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Μελέτη δοκιμών">
+<!ENTITY testpilot.studiesWindow.settings.label         "Ρυθμίσεις">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Φόρτωση, παρακαλώ περιμένετε...">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Οδηγός δοκιμών: Ακατέργαστα δεδομένα">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Κλείσιμο">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Ενεργοποίηση δοκιμών χρήστη">
+<!ENTITY testpilot.feedbackbutton.label                "Ανάδραση">
+<!ENTITY testpilot.happy.label        "Είμαι ευτυχισμένος με το Firefox επειδή...">
+<!ENTITY testpilot.sad.label          "Είμαι δυστυχισμένος με το Firefox επειδή...">
+
