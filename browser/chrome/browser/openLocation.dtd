@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Roghnaigh Comhad…">
 <!ENTITY newWindow.label "Fuinneog Nua">
 <!ENTITY newTab.label "Cluaisín Nua">
-<!ENTITY topWindow.label "Fuinneog Reatha">
+<!ENTITY topTab.label "An Cluaisín Reatha">
 <!ENTITY caption.label "Oscail Suíomh Gréasáin">
 <!ENTITY openWhere.label "Oscail i:">
 <!ENTITY openBtn.label "Oscail">

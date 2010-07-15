@@ -61,10 +61,10 @@
 <!ENTITY generalMetaName "Ainm">
 <!ENTITY generalMetaContent "Ábhar">
 <!ENTITY generalSecurityDetails "Mionsonraí">
-<!ENTITY generalSecurityDetails.accesskey "D">
+<!ENTITY generalSecurityDetails.accesskey "M">
 
 <!ENTITY mediaTab "Meáin">
-<!ENTITY mediaTab.accesskey "B">
+<!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaLocation "Suíomh:">
 <!ENTITY mediaText "Téacs Gaolmhar:">
 <!ENTITY mediaAltHeader "Téacs mar Mhalairt">
@@ -76,18 +76,19 @@
 <!ENTITY mediaLongdesc "Cur Síos Fada:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Sábháil Mar…">
-<!ENTITY mediaSaveAs.accesskey "W">
+<!ENTITY mediaSaveAs.accesskey "S">
 <!ENTITY mediaSaveAs2.accesskey "l">
 <!ENTITY mediaPreview "Réamhamharc na Meán:">
 
 <!ENTITY feedTab "Fothaí">
 <!ENTITY feedTab.accesskey "F">
 <!ENTITY feedSubscribe "Liostáil">
-<!ENTITY feedSubscribe.accesskey "u">
+<!ENTITY feedSubscribe.accesskey "L">
 
 <!ENTITY permTab "Ceadanna">
-<!ENTITY permTab.accesskey "R">
+<!ENTITY permTab.accesskey "C">
 <!ENTITY permUseDefault "Úsáid Réamhshocrú">
+<!ENTITY permAskAlways "Fiafraigh díom i gcónaí">
 <!ENTITY permAllow "Ceadaigh">
 <!ENTITY permAllowSession "Ceadaigh don Seisiún">
 <!ENTITY permBlock "Coisc">
@@ -96,6 +97,7 @@
 <!ENTITY permPopup "Oscail Preabfhuinneoga">
 <!ENTITY permCookie "Socraigh Fianáin">
 <!ENTITY permInstall "Suiteáil Eisínteachtaí nó Téamaí">
+<!ENTITY permGeo "Ceadaigh">
 
 <!ENTITY securityTab "Slándáil">
 <!ENTITY securityTab.accesskey "S">
@@ -105,17 +107,17 @@
 <!ENTITY securityView.unknown "Anaithnid">
 
 
-<!ENTITY securityView.identity.header "Aitheantas Suímh Ghréasáin">
-<!ENTITY securityView.identity.owner "Úinéir: ">
-<!ENTITY securityView.identity.domain "Suíomh Gréasáin: ">
-<!ENTITY securityView.identity.verifier "Fíoraithe ag: ">
+<!ENTITY securityView.identity.header "Aitheantas an tSuímh Ghréasáin">
+<!ENTITY securityView.identity.owner "Úinéir:">
+<!ENTITY securityView.identity.domain "Suíomh Gréasáin:">
+<!ENTITY securityView.identity.verifier "Fíoraithe ag:">
 
-<!ENTITY securityView.privacy.header "Príobháideacht &amp; Stair">
+<!ENTITY securityView.privacy.header "Príobháideacht agus Stair">
 <!ENTITY securityView.privacy.history "An ndearna mé cuairt ar an suíomh seo roimh inniu?">
 <!ENTITY securityView.privacy.cookies "An bhfuil an suíomh Gréasáin seo ag stóráil faisnéise (fianáin) ar mo ríomhaire?">
 <!ENTITY securityView.privacy.viewCookies "Féach ar Fhianáin">
 <!ENTITY securityView.privacy.viewCookies.accessKey "k">
-<!ENTITY securityView.privacy.passwords "Ar shábháil mé focail fhaire le haghaidh an tsuímh seo?">
+<!ENTITY securityView.privacy.passwords "An bhfuil focail fhaire sábháilte agam le haghaidh an tsuímh seo?">
 <!ENTITY securityView.privacy.viewPasswords "Taispeáin Focail Fhaire a Sábháladh">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "w">
 

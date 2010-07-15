@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "C">
 <!ENTITY openInNewWindow.label "Oscail i bhFuinneog Nua">
 <!ENTITY openInNewWindow.accesskey "F">
-<!ENTITY bookmarkLink.label "Cruthaigh Leabharmharc don Nasc Seo…">
-<!ENTITY bookmarkLink.accesskey "L">
 <!ENTITY copyLink.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLink.accesskey "C">

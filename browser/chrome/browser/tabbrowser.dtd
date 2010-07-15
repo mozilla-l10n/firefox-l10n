@@ -1,19 +1,2 @@
-<!ENTITY untitledTab "(Gan Teideal)">
-<!ENTITY newTab.label "Cluaisín Nua">
-<!ENTITY newTab.accesskey "C">
 <!ENTITY closeTab.label "Dún Cluaisín">
-<!ENTITY closeTab.accesskey "d">
-<!ENTITY closeOtherTabs.accesskey "e">
-<!ENTITY closeOtherTabs.label "Dún Cluaisíní Eile">
-<!ENTITY reloadAllTabs.label "Athluchtaigh Gach Cluaisín">
-<!ENTITY reloadAllTabs.accesskey "G">
-<!ENTITY reloadTab.label "Athluchtaigh Cluaisín">
-<!ENTITY reloadTab.accesskey "a">
-<!ENTITY listAllTabs.label "Liostaigh gach cluaisín">
-<!ENTITY bookmarkAllTabs.label "Leabharmharcáil Gach Cluaisín…">
-<!ENTITY bookmarkAllTabs.accesskey "C">
-<!ENTITY bookmarkThisTab.label "Cruthaigh Leabharmharc don Chluaisín Seo">
-<!ENTITY bookmarkThisTab.accesskey "B">
-<!ENTITY undoCloseTab.label "Cealaigh Dúnadh an Chluaisín">
-<!ENTITY undoCloseTab.accesskey "C">
 <!ENTITY newTabButton.tooltip "Oscail cluaisín nua">

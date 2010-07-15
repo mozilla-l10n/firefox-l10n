@@ -51,6 +51,7 @@
 <!ENTITY font.langGroup.telugu "Teileagúilis">
 <!ENTITY font.langGroup.kannada "Cannadais">
 <!ENTITY font.langGroup.sinhala "Siolóinis">
+<!ENTITY font.langGroup.tibetan "Tibéidis">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Clómhéid is lú:">
 <!ENTITY minSize.accesskey "l">

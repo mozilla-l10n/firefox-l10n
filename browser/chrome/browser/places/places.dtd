@@ -13,8 +13,6 @@
 <!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Amhairc">
 <!ENTITY views.accesskey "A">
-<!ENTITY view.toolbar.label "Barra na nUirlisí">
-<!ENTITY view.toolbar.accesskey "a">
 <!ENTITY view.columns.label "Taispeáin Colúin">
 <!ENTITY view.columns.accesskey "C">
 <!ENTITY view.sort.label "Sórtáil">
@@ -25,12 +23,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ord Sórtála Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Úsáid na Leabharmharcanna">
-<!ENTITY help.usingBookmarks.accesskey "B">
-<!ENTITY help.usingHistory.label "Úsáid na Staire">
-<!ENTITY help.usingHistory.accesskey "i">
-<!ENTITY help.advancedTips.label "Ardleideanna &amp; Ardchleasanna">
-<!ENTITY help.advancedTips.accesskey "L">
 
 <!ENTITY cmd.findInBookmarks.label "Aimsigh i Leabharmharcanna…">
 <!ENTITY cmd.findInBookmarks.accesskey "A">
@@ -44,33 +36,13 @@
 
 <!ENTITY cmd.backup.label "Cúltaca…">
 <!ENTITY cmd.backup.accesskey "C">
-<!ENTITY cmd.restore2.label "Athshlánaigh">
+<!ENTITY cmd.restore2.label "Athchóirigh">
 <!ENTITY cmd.restore2.accesskey "A">
 <!ENTITY cmd.restoreFromFile.label "Roghnaigh Comhad…">
 <!ENTITY cmd.restoreFromFile.accesskey "R">
 
-<!ENTITY cmd.select_all.label "Roghnaigh Uile">
-<!ENTITY cmd.select_all.accesskey "U">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "Gearr">
-<!ENTITY cmd.edit_cut.accesskey "g">
-<!ENTITY cmd.edit_cut.key "L">
-<!ENTITY cmd.edit_copy.label "Cóipeáil">
-<!ENTITY cmd.edit_copy.accesskey "C">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Greamaigh">
-<!ENTITY cmd.edit_paste.accesskey "R">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Scrios">
-<!ENTITY cmd.edit_delete.accesskey "S">
-<!ENTITY cmd.edit_undo.label "Cealaigh">
-<!ENTITY cmd.edit_undo.accesskey "L">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Athfheidhmigh">
-<!ENTITY cmd.edit_redo.accesskey "F">
-<!ENTITY cmd.edit_redo.key "y">
-
+<!ENTITY cmd.bookmarkLink.label "Cruthaigh Leabharmharc don Leathanach Seo…">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "Scrios an Leathanach Seo">
 <!ENTITY cmd.delete.accesskey "S">
 <!ENTITY cmd.deleteDomainData.label "Déan Dearmad ar an Suíomh Seo">
@@ -88,19 +60,12 @@
 <!ENTITY cmd.properties.label "Airíonna">
 <!ENTITY cmd.properties.accesskey "i">
 
-<!ENTITY cmd.show_info.key "i">
-
-<!ENTITY cmd.rename.label "Athainmnigh">
-<!ENTITY cmd.rename.accesskey "A">
-
 <!ENTITY cmd.sortby_name.label "Sórtáil de réir Ainm">
 <!ENTITY cmd.sortby_name.accesskey "S">
 <!ENTITY cmd.context_sortby_name.accesskey "r">
 
 <!ENTITY cmd.new_bookmark.label "Leabharmharc Nua…">
 <!ENTITY cmd.new_bookmark.accesskey "L">
-<!ENTITY cmd.new_livemark.label "Leabharmharc Beo Nua…">
-<!ENTITY cmd.new_livemark.accesskey "B">
 <!ENTITY cmd.new_folder.label "Fillteán Nua…">
 <!ENTITY cmd.new_folder.accesskey "f">
 <!ENTITY cmd.context_new_folder.accesskey "F">
@@ -111,15 +76,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey "L">
 <!ENTITY cmd.reloadMicrosummary.label "Athluchtaigh Teideal Beo">
 <!ENTITY cmd.reloadMicrosummary.accesskey "T">
-
-<!ENTITY cmd.groupby_site.label "Grúpáil de réir Suímh">
-<!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "Grúpáil de réir Leathanaigh">
-<!ENTITY cmd.groupby_page.accesskey "L">
-<!ENTITY cmd.groupby_feed.label "Grúpáil de réir Síntiúis">
-<!ENTITY cmd.groupby_feed.accesskey "N">
-<!ENTITY cmd.groupby_post.label "Grúpáil de réir Ailt">
-<!ENTITY cmd.groupby_post.accesskey "A">
 
 <!ENTITY cmd.moveBookmarks.label "Bog…">
 <!ENTITY cmd.moveBookmarks.accesskey "B">
@@ -136,80 +92,26 @@
 
 <!ENTITY search.label "Cuardaigh:">
 <!ENTITY search.accesskey "U">
-<!ENTITY search.collection.label "Bailiúchán Reatha Amháin">
-<!ENTITY search.collection.accesskey "C">
-<!ENTITY search.allBookmarks.label "Gach Leabharmharc">
-<!ENTITY search.allBookmarks.accesskey "A">
 <!ENTITY search.scopeFolder.label "Fillteán Roghnaithe">
-<!ENTITY search.scopeFolder.accesskey "F">
-<!ENTITY search.scopeAll.label "Gach Leabharmharc">
-<!ENTITY search.scopeAll.accesskey "A">
-<!ENTITY search.scopeMenu.label "Roghchlár na Leabharmharcanna">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Barra Leabharmharc">
-<!ENTITY search.scopeToolbar.accesskey "R">
+<!ENTITY search.scopeFolder.accesskey "r">
+<!ENTITY search.scopeBookmarks.label "Leabharmharcanna">
+<!ENTITY search.scopeBookmarks.accesskey "c">
 <!ENTITY search.scopeDownloads.label "Íosluchtú">
 <!ENTITY search.scopeDownloads.accesskey "L">
 <!ENTITY search.scopeHistory.label "Stair">
-<!ENTITY search.scopeHistory.accesskey "W">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Taispeáin tógálaí na gcuardach">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Folaigh tógálaí na gcuardach">
+<!ENTITY search.scopeHistory.accesskey "S">
 <!ENTITY saveSearch.label "Sábháil">
 <!ENTITY saveSearch.accesskey "S">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Cuardaigh Leabharmharcanna amháin">
-<!ENTITY advancedSearch.match.label "Meaitseáil ">
-<!ENTITY advancedSearch.all.label "gach ceann">
-<!ENTITY advancedSearch.any.label "ceann ar bith">
-<!ENTITY advancedSearch.rules.label " de na rialacha seo a leanas:">
-<!ENTITY advancedSearch.subj_keyword.label "Ina bhfuil an téacs">
-<!ENTITY advancedSearch.subj_visited.label "Feicthe">
-<!ENTITY advancedSearch.subj_location.label "Suíomh">
-<!ENTITY advancedSearch.location_startswith.label "ag tosú le">
-<!ENTITY advancedSearch.location_is.label "atá">
-<!ENTITY advancedSearch.location_onsite.label "atá ar an suíomh">
-<!ENTITY advancedSearch.time_is.label "ar">
-<!ENTITY advancedSearch.time_before.label "roimh">
-<!ENTITY advancedSearch.time_after.label "tar éis">
-<!ENTITY advancedSearch.time_inlast.label "le">
-<!ENTITY advancedSearch.last_days.label "lá anuas">
-<!ENTITY advancedSearch.last_weeks.label "seachtain anuas">
-<!ENTITY advancedSearch.last_months.label "mí anuas">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Grúpáil de réir: ">
-<!ENTITY advancedSearch.groupby_host.label "óstríomhaire">
-<!ENTITY advancedSearch.groupby_domain.label "fearann">
-<!ENTITY advancedSearch.groupby_folder.label "fillteán">
-<!ENTITY advancedSearch.sortby.label "Sórtáil de réir: ">
-<!ENTITY advancedSearch.sortby_title.label "teideal">
-<!ENTITY advancedSearch.sortby_date.label "dáta">
-<!ENTITY advancedSearch.sortby_visit.label "méid cuairteanna">
-<!ENTITY advancedSearch.sortby_url.label "URL">
-<!ENTITY advancedSearch.sortby_asc.label "ag dul suas">
-<!ENTITY advancedSearch.sortby_desc.label "ag dul síos">
-<!ENTITY advancedSearch.max.label "Uasmhéid na dtorthaí: ">
 
 <!ENTITY cmd.find.key "f">
-
-<!ENTITY feed.subscribe.label "Fotha">
-<!ENTITY feed.subscribe.tooltip "Liostáil">
-
-<!ENTITY view.detailsMacOSX.label "Liosta">
-<!ENTITY view.details.label "Sonraí">
-<!ENTITY view.details.accesskey "S">
-
-<!ENTITY view.addons.label "Faigh Breiseáin Amhairc">
 
 <!ENTITY maintenance.label "Iompórtáil agus Cúltaca">
 <!ENTITY maintenance.accesskey "I">
 
 <!ENTITY backCmd.label "Siar">
-<!ENTITY backCmd.accesskey "S">
 <!ENTITY backButton.tooltip "Siar">
 
 <!ENTITY forwardCmd.label "Ar Aghaidh">
-<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Ar Aghaidh">
 
 <!ENTITY detailsPane.more.label "Níos Mó">

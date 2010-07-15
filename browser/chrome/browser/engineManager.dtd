@@ -21,5 +21,5 @@
 <!ENTITY enableSuggest.label "Taispeáin moltaí cuardaigh">
 <!ENTITY enableSuggest.accesskey "S">
 
-<!ENTITY restoreDefaults.label "Athchóirigh na Réamhshocruithe">
-<!ENTITY restoreDefaults.accesskey "a">
+<!ENTITY restoreDefaults.label "Cuir na réamhshocruithe ar ais">
+<!ENTITY restoreDefaults.accesskey "e">

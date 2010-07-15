@@ -7,4 +7,5 @@
 <!ENTITY aboutVersion "leagan">
 <!ENTITY closeCmdGNOME.label "Dún">
 <!ENTITY closeCmdGNOME.accesskey "D">
-<!ENTITY copyrightInfo "&#169;1998-2008 le lucht déanta a gcion. Gach ceart ar cosaint. Is trádmharcanna de chuid Fondúireacht Mozilla iad Firefox agus suaitheantais Firefox. Gach ceart ar cosaint.">
+<!ENTITY licenseLinkText "Ceadúnú">
+<!ENTITY licenseLinkSuffix ".">

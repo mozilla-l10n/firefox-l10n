@@ -1,29 +1,21 @@
 <!ENTITY history.label "Stair">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
 
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
+<!ENTITY locationBar.label "Barra Suímh">
 
-<!ENTITY rememberDaysBefore.label "Meabhraigh leathanaigh ar tugadh cuairt orthu le">
-<!ENTITY rememberDaysBefore.accesskey "h">
-<!ENTITY rememberDaysAfter2.label "lá anuas">
+<!ENTITY locbar.pre.label "Agus an barra suímh in úsáid, mol:">
+<!ENTITY locbar.pre.accessKey "u">
+<!ENTITY locbar.post.label "">
+<!ENTITY locbar.both.label "Stair agus Leabharmharcanna">
+<!ENTITY locbar.history.label "Stair">
+<!ENTITY locbar.bookmarks.label "Leabharmharcanna">
+<!ENTITY locbar.nothing.label "Faic">
 
-<!ENTITY rememberForms.label "Sábháil gach faisnéis a bhíonn á iontráil agam i bhfoirmeacha agus i mBarra an Chuardaigh">
-<!ENTITY rememberForms.accesskey "f">
-
-<!ENTITY rememberDownloads.label "Meabhraigh cad a d'íosluchtaigh mé">
-<!ENTITY rememberDownloads.accesskey "d">
-
-
-<!ENTITY cookies.label "Fianáin">
 
 <!ENTITY acceptCookies.label "Glac le fianáin ó shuímh">
-<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY acceptCookies.accesskey "A">
 
 <!ENTITY acceptThirdParty.label "Glac le fianáin tríú páirtí">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.accesskey "c">
 
 <!ENTITY keepUntil.label "Coinnigh:">
 <!ENTITY keepUntil.accesskey "C">
@@ -39,17 +31,46 @@
 <!ENTITY showCookies.accesskey "S">
 
 
-<!ENTITY privateData.label "Sonraí Príobháideacha">
+<!ENTITY historyHeader.pre.label "Cad is mian leat &brandShortName; a dhéanamh?">
+<!ENTITY historyHeader.pre.accesskey "c">
+<!ENTITY historyHeader.remember.label "Meabhraigh an stair">
+<!ENTITY historyHeader.dontremember.label "Ná meabhraigh an stair riamh">
+<!ENTITY historyHeader.custom.label "Úsáid socruithe saincheaptha don stair">
+<!ENTITY historyHeader.post.label "">
 
-<!ENTITY alwaysClear.label "Glan sonraí príobháideacha agus &brandShortName; á dhúnadh">
-<!ENTITY alwaysClear.accesskey "p">
+<!ENTITY rememberDescription.label "Meabhróidh &brandShortName; do stair bhrabhsála, íosluchtaithe, fhoirme agus chuardaigh, agus coimeádfaidh sé fianáin ó na suímh Gréasáin a thugann tú cuairt orthu.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY askBeforeClear.label "Fiafraigh díom roimh ghlanadh na sonraí príobháideacha">
-<!ENTITY askBeforeClear.accesskey "A">
+<!ENTITY rememberActions.pre.label "B'fhéidir leat ">
+<!ENTITY rememberActions.clearHistory.label "an stair is déanaí a ghlanadh">
+<!ENTITY rememberActions.middle.label ", nó ">
+<!ENTITY rememberActions.removeCookies.label "fianáin aonair a scriosadh">
+<!ENTITY rememberActions.post.label ".">
 
-<!ENTITY clearDataSettings.label "Socruithe…">
-<!ENTITY clearDataSettings.accesskey "c">
+<!ENTITY dontrememberDescription.label "Úsáidfidh &brandShortName; na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY clearDataNow.label "Bánaigh Anois…">
-<!ENTITY clearDataNow.label2 "Bánaigh Anois">
-<!ENTITY clearDataNow.accesskey "N">
+<!ENTITY dontrememberActions.pre.label "B'fhéidir leat freisin ">
+<!ENTITY dontrememberActions.clearHistory.label "an stair reatha go léir a ghlanadh">
+<!ENTITY dontrememberActions.post.label ".">
+
+<!ENTITY privateBrowsingPermanent.label "Brabhsáil Phríobháideach i gcónaí">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
+
+<!ENTITY rememberHistory.label "Meabhraigh mo stair bhrabhsála">
+<!ENTITY rememberHistory.accesskey "b">
+
+<!ENTITY rememberDownload.label "Meabhraigh stair an bhainisteora íosluchtaithe">
+<!ENTITY rememberDownload.accesskey "b">
+
+<!ENTITY rememberSearchForm.label "Meabhraigh an stair chuardaigh agus fhoirme">
+<!ENTITY rememberSearchForm.accesskey "f">
+
+<!ENTITY clearOnClose.label "Glan an stair agus &brandShortName; á dhúnadh">
+<!ENTITY clearOnClose.accesskey "r">
+
+<!ENTITY clearOnCloseSettings.label "Socruithe…">
+<!ENTITY clearOnCloseSettings.accesskey "c">

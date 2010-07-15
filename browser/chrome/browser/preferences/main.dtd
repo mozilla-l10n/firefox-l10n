@@ -12,7 +12,7 @@
 <!ENTITY useMultiple.label "Úsáid na Leathanaigh Reatha">
 <!ENTITY useBookmark.label "Úsáid Leabharmharc">
 <!ENTITY useBookmark.accesskey "B">
-<!ENTITY restoreDefault.label "Athchóirigh na Réamhshocruithe">
+<!ENTITY restoreDefault.label "Cuir na réamhshocruithe ar ais">
 <!ENTITY restoreDefault.accesskey "R">
 
 <!ENTITY downloads.label "Íosluchtú">
