@@ -13,16 +13,16 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect securely to <b>#1</b>, but we can't confirm that your connection is secure.">
-<!ENTITY certerror.introPara2 "Normally, when you try to connect securely, sites will present trusted identification to prove that you are going to the right place. However, this site's identity can't be verified.">
+<!ENTITY certerror.introPara1 "D'iarr tú ar &brandShortName; nasc slán a chur ar bun chuig <b>#1</b>, ach ní féidir dearbhú go bhfuil do nasc slán.">
+<!ENTITY certerror.introPara2 "De ghnáth agus tú ag iarraidh nascadh go slán, cuirfidh suímh sainaithint iontafa ar fáil le cruthú go bhfuil ag dul go dtí an áit cheart. Ní féidir aitheantas an tsuímh seo a fhíorú, áfach.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Cad Ba Chóir Dom a Dhéanamh?">
-<!ENTITY certerror.whatShouldIDo.content "If you usually connect to this site without problems, this error could mean that someone is trying to impersonate the site, and you shouldn't continue.">
-<!ENTITY certerror.getMeOutOfHere.label "Ar aghaidh liom as seo!">
+<!ENTITY certerror.whatShouldIDo.content "Má cheanglaíonn tú leis an suíomh seo gan deacracht de ghnáth, b'fhéidir go gciallaíonn an earráid seo go bhfuil duine éigin ag iarraidh aithris a dhéanamh ar an suíomh, agus ní chóir duit leanúint ar aghaidh.">
+<!ENTITY certerror.getMeOutOfHere.label "Amach as seo liom!">
 
 <!ENTITY certerror.expert.heading "Tuigim na Contúirtí">
-<!ENTITY certerror.expert.content "If you understand what's going on, you can tell &brandShortName; to start trusting this site's identification. <b>Even if you trust the site, this error could mean that someone is tampering with your connection.</b>">
-<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless you know there's a good reason why this site doesn't use trusted identification.">
+<!ENTITY certerror.expert.content "Má thuigeann tú cad tá ag tarlú, is féidir leat insint le &brandShortName; gur féidir muinín a bheith aige as sainaithint an tsuímh seo. <b>Fiú má tá muinín agat as an suíomh, b'fhéidir go gciallaíonn an earráid seo go bhfuil duine éigin ag cur isteach ar do nasc.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ná cruthaigh eisceacht mura bhfuil fáth maith ar eolas agat cad chuige nach n-úsáideann an suíomh seo sainaithint iontaofa.">
 <!ENTITY certerror.addException.label "Cruthaigh Eisceacht…">
 
 <!ENTITY certerror.technical.heading "Sonraí Teicniúla">

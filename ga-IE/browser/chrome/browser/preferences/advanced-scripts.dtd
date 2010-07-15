@@ -44,7 +44,7 @@
 <!ENTITY moveResizeWindows.accesskey "F">
 <!ENTITY raiseLowerWindows.label "Fuinneoga a ardú nó a ísliú">
 <!ENTITY raiseLowerWindows.accesskey "R">
-<!ENTITY disableContextMenus.label "Roghchláir chomhthéacs a dhíchumasú nó a athchur">
+<!ENTITY disableContextMenus.label "Roghchláir chomhthéacs a dhíchumasú nó a ionadú">
 <!ENTITY disableContextMenus.accesskey "D">
 <!ENTITY hideStatusBar.label "An barra stádais a fholú">
 <!ENTITY hideStatusBar.accesskey "H">

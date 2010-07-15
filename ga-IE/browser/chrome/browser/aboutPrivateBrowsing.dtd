@@ -1,13 +1,22 @@
-<!ENTITY privatebrowsingpage.tabtitle "Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.title "Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.title.normal "An bhfuil fonn ort Brabhsáil Phríobháideach a thosú?">
 
-<!ENTITY privatebrowsingpage.pagetitle "Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.issueDesc "Ní choimeádfaidh &brandShortName; stair ar bith le linn an tseisiúin seo.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Níl &brandShortName; sa mhód Brabhsála Príobháidí faoi láthair.">
 
-<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; won't remember any history for this session.">
-<!ENTITY privatebrowsingpage.longDesc "No history will be recorded by &brandShortName; during this browsing session.  This includes browser history, search history, download history, web form history, cookies, and temporary internet files.  However, any files you download or bookmarks you create will be preserved.">
+<!ENTITY privatebrowsingpage.description "Le linn seisiúin Bhrabhsála Príobháidí, ní choimeádfaidh &brandShortName; stair bhrabhsálaí, stair chuardaigh, stair íosluchtaithe, stair fhoirme Gréasain, fianáin, nó comhaid shealadacha Idirlín. Coimeádfar comhaid a íosluchtaíonn tú agus leabharmharcanna a chruthaíonn tú, áfach.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc "You may want to start by also clearing your recent history.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label "Glan an Stair Is Déanaí…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "G">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "B'fhéidir gur cheart duit tosú trí">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "do stair le déanaí a ghlanadh">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 
-<!ENTITY privatebrowsingpage.howToStopDesc "Chun brabhsáil phríobháideach a stopadh, díthiceáil Uirlisí &gt; Brabhsáil Phríobháideach.">
-<!ENTITY privatebrowsingpage.footerDesc "Bain Sult As!">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Tosaigh Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!ENTITY privatebrowsingpage.howToStop "Chun Brabhsáil Phríobháideach a stopadh, roghnaigh &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, nó dún &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart "Chun Brabhsáil Phríobhaideach a thosú, is féidir leat &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; a roghnú freisin.">
+
+<!ENTITY privatebrowsingpage.moreInfo "Cé nach mbeidh taifead de do stair bhrabhsála ar an ríomhaire seo, is féidir le do sholáthraí seirbhíse Idirlín nó d'fhostóir bheith ag breathnú ar na leathanaigh a thugann tú cuairt orthu.">
+<!ENTITY privatebrowsingpage.learnMore "Faigh Tuilleadh Eolais">

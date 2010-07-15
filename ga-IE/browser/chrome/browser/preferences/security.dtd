@@ -32,11 +32,3 @@
 
 <!ENTITY savedPasswords.label "Focail Fhaire a sábháladh…">
 <!ENTITY savedPasswords.accesskey "F">
-
-
-<!ENTITY warnings.label "Teachtaireachtaí Rabhaidh">
-
-<!ENTITY chooseWarnings.label "Roghnaigh na rabhaidh ba mhaith leat a fheiceáil le linn brabhsála">
-
-<!ENTITY warningSettings.label "Socruithe…">
-<!ENTITY warningSettings.accesskey "S">

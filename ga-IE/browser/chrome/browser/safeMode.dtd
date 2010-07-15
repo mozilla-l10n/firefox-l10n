@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "Athshocraigh barraí uirlisí agus rialtáin">
 <!ENTITY resetToolbars.accesskey "R">
 
-<!ENTITY resetBookmarks.label "Athshocraigh na leabharmharcanna go réamhshocrú &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label "Scrios gach leabharmharc seachas na cúltacaí">
+<!ENTITY deleteBookmarks.accesskey "b">
 
 <!ENTITY resetUserPrefs.label "Athshocraigh gach sainrogha an úsáideora go réamhshocrú &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "s">

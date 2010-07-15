@@ -3,6 +3,7 @@
 <!ENTITY cookiesonsystem.label "Tá na fianáin seo a leanas sábháilte ar do ríomhaire:">
 <!ENTITY cookiename.label "Ainm ar an fhianán">
 <!ENTITY cookiedomain.label "Suíomh">
+<!ENTITY button.removecookies.label "Bain Fianáin">
 <!ENTITY button.removecookie.label "Bain Fianán">
 <!ENTITY button.removecookie.accesskey "B">
 <!ENTITY button.removeallcookies.label "Bain Gach Fianán">
@@ -12,7 +13,7 @@
 <!ENTITY props.value.label "Ábhar:">
 <!ENTITY props.domain.label "Ósta:">
 <!ENTITY props.path.label "Conair:">
-<!ENTITY props.secure.label "Feistigh:">
+<!ENTITY props.secure.label "Le haghaidh:">
 <!ENTITY props.expires.label "As Feidhm:">
 
 <!ENTITY window.title "Fianáin">

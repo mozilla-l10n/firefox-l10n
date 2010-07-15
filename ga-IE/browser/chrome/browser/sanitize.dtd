@@ -1,40 +1,62 @@
-<!ENTITY sanitizePrefs.title "Bánaigh Sonraí Príobháideacha">
+<!ENTITY sanitizePrefs2.title "Socruithe maidir le glanadh na staire">
 <!ENTITY sanitizeDialog2.title "Glan an Stair Is Déanaí">
 
 <!ENTITY sanitizeItems.label "Bánaigh na míreanna seo a leanas anois:">
-<!ENTITY clearDataSettings2.label "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDataSettings2.label "Agus mé ag scoir de &brandShortName;, glan iad seo go huathoibríoch:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
 
-
-<!ENTITY clearDuration.label "Bain ">
-<!ENTITY clearDuration.lastHour "an uair is déanaí">
-<!ENTITY clearDuration.last2Hours "an dá uair is déanaí">
-<!ENTITY clearDuration.last4Hours "na 4 huaire is déanaí">
-<!ENTITY clearDuration.today "mo stair inniu">
-<!ENTITY clearDuration.everything "mo stair iomlán">
-<!-- Localization note (clearDuration.suffix) - trailing entity for languages
+<!ENTITY clearTimeDuration.label "Raon ama le glanadh: ">
+<!ENTITY clearTimeDuration.accesskey "R">
+<!ENTITY clearTimeDuration.lastHour "An Uair Is Déanaí">
+<!ENTITY clearTimeDuration.last2Hours "An Dá Uair Is Déanaí">
+<!ENTITY clearTimeDuration.last4Hours "Na Ceithre hUaire Is Déanaí">
+<!ENTITY clearTimeDuration.today "Inniu">
+<!ENTITY clearTimeDuration.everything "Gach Uile Rud">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearDuration.suffix "">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Dáta Cuairte">
+<!ENTITY clearTimeDuration.nameColumn "Ainm">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+
+<!ENTITY detailsProgressiveDisclosure.label "Mionsonraí">
+<!ENTITY detailsProgressiveDisclosure.accesskey "m">
 
 <!ENTITY historySection.label "Stair">
 <!ENTITY dataSection.label "Sonraí">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
 
-<!ENTITY itemVisitedPages.label "Leathanaigh ar tugadh cuairt orthu">
-<!ENTITY itemVisitedPages.accesskey "L">
-<!ENTITY itemFormSearchEntries.label "Form &amp; Search Entries">
-<!ENTITY itemFormSearchEntries.accesskey "F">
+<!ENTITY itemHistoryAndDownloads.label "Stair Bhrabhsála agus Íosluchtaithe">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemBrowsingHistory.label "Stair Bhrabhsála">
+<!ENTITY itemBrowsingHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Stair Fhoirmeacha agus Chuardaigh">
+<!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemPasswords.label "Focail Fhaire a sábháladh">
 <!ENTITY itemPasswords.accesskey "F">
 <!ENTITY itemCookies.label "Fianáin">
 <!ENTITY itemCookies.accesskey "F">
-<!ENTITY itemWebCache.label "Taisce Ghréasáin">
-<!ENTITY itemWebCache.accesskey "T">
+<!ENTITY itemCache.label "Taisce">
+<!ENTITY itemCache.accesskey "A">
 <!ENTITY itemOfflineApps.label "Sonraí Shuíomhanna Gréasáin As Líne">
 <!ENTITY itemOfflineApps.accesskey "O">
-<!ENTITY itemDownloadList.label "Liosta Íosluchtuithe">
-<!ENTITY itemDownloadList.accesskey "L">
-<!ENTITY itemActiveLogins.label "Active Logins">
+<!ENTITY itemDownloadHistory.label "Stair an Bhainisteora Íosluchtaithe">
+<!ENTITY itemDownloadHistory.accesskey "S">
+<!ENTITY itemActiveLogins.label "Logálacha isteach Gníomhacha">
 <!ENTITY itemActiveLogins.accesskey "L">
+<!ENTITY itemSitePreferences.label "Sainroghanna an tSuímh">
+<!ENTITY itemSitePreferences.accesskey "S">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
 
-<!ENTITY window.width "30em">
+<!ENTITY sanitizeEverythingUndoWarning "Ní féidir an gníomh seo a chur ar ceal.">
+
+<!ENTITY dialog.width "31em">
 <!ENTITY column.width "16em">

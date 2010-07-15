@@ -26,6 +26,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "g">
 <!ENTITY checkNow.label "Seiceáil Anois">
 <!ENTITY checkNow.accesskey "N">
+<!ENTITY submitCrashes.label "Seol tuairiscí ar thuairteáil">
+<!ENTITY submitCrashes.accesskey "S">
 
 <!ENTITY networkTab.label "Líonra">
 
@@ -51,11 +53,11 @@
 
 <!ENTITY updateTab.label "Nuashonrú">
 
-<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcóir:">
+<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcomhair:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Breiseáin Shuiteáilte">
-<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableAddonsUpdate2.label "Breiseáin">
+<!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "Innill Chuardaigh">
 <!ENTITY enableSearchUpdate.accesskey "h">
 <!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe:">
