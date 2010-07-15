@@ -1,0 +1,33 @@
+<!ENTITY aboutSupport.pageTitle "Fabhtcheartú">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "Ar an leathanach seo tá eolas teicniúil a d'fhéadfadh a bheith úsáideach agus tú ag iarraidh fadhb a réiteach. Má tá freagraí á lorg agat ar cheisteanna coitianta maidir le &brandShortName;, féach ar ár <a id='supportLink'>suíomh tacaíochta</a>.">
+
+<!ENTITY aboutSupport.extensionsTitle "Eisínteachtaí">
+<!ENTITY aboutSupport.extensionName "Ainm">
+<!ENTITY aboutSupport.extensionEnabled "Cumasaithe">
+<!ENTITY aboutSupport.extensionVersion "Leagan">
+<!ENTITY aboutSupport.extensionId "Aitheantas">
+
+<!ENTITY aboutSupport.appBasicsTitle "Buntús an Fheidhmchláir">
+<!ENTITY aboutSupport.appBasicsName "Ainm">
+<!ENTITY aboutSupport.appBasicsVersion "Leagan">
+<!ENTITY aboutSupport.appBasicsProfileDir "Comhadlann Phróifíle">
+<!ENTITY aboutSupport.appBasicsPlugins "Forlíontáin Suiteáilte">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Cumraíocht Tógála">
+
+<!ENTITY aboutSupport.show.label "Oscail an Fillteán ina bhfuil sé">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+
+<!ENTITY aboutSupport.showMac.label "Taispeáin sa Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Sainroghanna Athraithe">
+<!ENTITY aboutSupport.modifiedPrefsName "Ainm">
+<!ENTITY aboutSupport.modifiedPrefsValue "Luach">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Stair Suiteála">
+<!ENTITY aboutSupport.updateHistoryTitle "Stair na Nuashonruithe">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Cóipeáil gach rud go dtí an Ghearrthaisce">
