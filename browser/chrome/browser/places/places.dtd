@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Organizēt">
 <!ENTITY organize.accesskey "O">
+<!ENTITY organize.tooltip      "Organizēt grāmatzīmes">
 
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Aizvērt">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Skati">
 <!ENTITY views.accesskey "S">
+<!ENTITY views.tooltip                  "Izmainiet skatus">
 <!ENTITY view.columns.label "Rādīt kolonas">
 <!ENTITY view.columns.accesskey "K">
 <!ENTITY view.sort.label "Kārtot">
@@ -102,6 +104,7 @@
 
 <!ENTITY maintenance.label "Importēšana un rezerves kopēšana">
 <!ENTITY maintenance.accesskey "I">
+<!ENTITY maintenance.tooltip    "Grāmatzīmju importēšana un rezerves kopēšana">
 
 <!ENTITY backCmd.label "Atpakaļ">
 <!ENTITY backButton.tooltip "Iet atpakaļ">
