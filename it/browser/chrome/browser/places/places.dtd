@@ -3,6 +3,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Organizza">
 <!ENTITY organize.accesskey "O">
+<!ENTITY organize.tooltip "Organizza i segnalibri">
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Chiudi">
 <!ENTITY file.close.accesskey "h">
@@ -11,6 +12,7 @@
 <!ENTITY edit.accesskey "M">
 <!ENTITY views.label "Visualizza">
 <!ENTITY views.accesskey "V">
+<!ENTITY views.tooltip "Modifica il tipo di visualizzazione">
 <!ENTITY view.columns.label "Mostra colonne">
 <!ENTITY view.columns.accesskey "n">
 <!ENTITY view.sort.label "Ordina">
@@ -91,6 +93,7 @@
 <!ENTITY cmd.find.key "f">
 <!ENTITY maintenance.label "Importa e salva">
 <!ENTITY maintenance.accesskey "m">
+<!ENTITY maintenance.tooltip "Importa e salva i segnalibri">
 <!ENTITY backCmd.label "Indietro">
 <!ENTITY backButton.tooltip "Vai indietro">
 <!ENTITY forwardCmd.label "Avanti">

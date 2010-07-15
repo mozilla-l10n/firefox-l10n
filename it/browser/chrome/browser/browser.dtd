@@ -290,7 +290,6 @@
 <!ENTITY copyVideoURLCmd.accesskey "o">
 <!ENTITY copyAudioURLCmd.label "Copia indirizzo audio">
 <!ENTITY copyAudioURLCmd.accesskey "o">
-<!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Questo riquadro">
