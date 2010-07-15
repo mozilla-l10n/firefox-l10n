@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname "Ainm an Teastais">
 <!ENTITY certmgr.certserver "Freastalaí">
-<!ENTITY certmgr.typesofoverrides "Eisceachtaí">
 <!ENTITY certmgr.override_lifetime "Saolré">
 <!ENTITY certmgr.tokenname "Gléas Slándála">
-<!ENTITY certmgr.purpose "Aidhmeanna">
 <!ENTITY certmgr.issued "Eisithe ar an">
 <!ENTITY certmgr.expires "Le síothlú">
 <!ENTITY certmgr.email "Seoladh Ríomhphoist">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "D">
 <!ENTITY certmgr.view2.label "Amharc…">
 <!ENTITY certmgr.view2.accesskey "A">
-<!ENTITY certmgr.edit2.label "Eagar…">
-<!ENTITY certmgr.edit2.accesskey "E">
+<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "Cuir Muinín na nÚdarás Deimhniúcháin in Eagar">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "Cuir Leis">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey "s">
 <!ENTITY certmgr.delete2.label "Scrios…">
 <!ENTITY certmgr.delete2.accesskey "S">
+<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey "D">
 <!ENTITY certmgr.backup2.label "Cúltaca…">
 <!ENTITY certmgr.backup2.accesskey "C">
 <!ENTITY certmgr.backupall2.label "Cúltaca de gach rud…">
@@ -142,6 +142,6 @@
 <!ENTITY exceptionMgr.certlocation.accesskey "G">
 <!ENTITY exceptionMgr.certstatus.caption "Stádas an Teastais">
 <!ENTITY exceptionMgr.certstatus.viewCert "Amharc…">
-<!ENTITY exceptionMgr.certstatus.accesskey "V">
+<!ENTITY exceptionMgr.certstatus.accesskey "A">
 <!ENTITY exceptionMgr.permanent.label "Glac leis an eisceacht seo go buan">
 <!ENTITY exceptionMgr.permanent.accesskey "G">

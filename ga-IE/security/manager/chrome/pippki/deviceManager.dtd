@@ -59,10 +59,10 @@
 
 <!ENTITY loaddevice.info "Iontráil an fhaisnéis maidir leis an modúl a theastaíonn uait cur leis.">
 <!ENTITY loaddevice.modname "Ainm an Mhodúil:">
-<!ENTITY loaddevice.modname.accesskey "B">
+<!ENTITY loaddevice.modname.accesskey "A">
 <!ENTITY loaddevice.modname.default "Modúl PKCS#11 Nua">
-<!ENTITY loaddevice.filename "Ainm ar an mhodúl:">
-<!ENTITY loaddevice.filename.accesskey "f">
+<!ENTITY loaddevice.filename "Ainm chomhad an mhodúil:">
+<!ENTITY loaddevice.filename.accesskey "c">
 <!ENTITY loaddevice.browse "Brabhsáil…">
 <!ENTITY loaddevice.browse.accesskey "B">
 
