@@ -361,7 +361,6 @@ shortcut keys on Linux. -->
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey "g">
 <!ENTITY copyEmailCmd.label "Copiar endereço de correio electrónico">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Esta frame">
