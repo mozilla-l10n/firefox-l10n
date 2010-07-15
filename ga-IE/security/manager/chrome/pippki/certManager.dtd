@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "D">
 <!ENTITY certmgr.view2.label "Amharc…">
 <!ENTITY certmgr.view2.accesskey "A">
-<!ENTITY certmgr.edit3.label "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.edit3.label "Cuir Muinín in Eagar…">
+<!ENTITY certmgr.edit3.accesskey "M">
 <!ENTITY certmgr.editca.label "Cuir Muinín na nÚdarás Deimhniúcháin in Eagar">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "Cuir Leis">
