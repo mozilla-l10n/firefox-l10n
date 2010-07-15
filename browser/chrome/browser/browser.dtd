@@ -279,7 +279,7 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Otevřít odkaz v novém okně">
-<!ENTITY openLinkCmd.accesskey "k">
+<!ENTITY openLinkCmd.accesskey "O">
 <!ENTITY openLinkCmdInCurrent.label "Otevřít odkaz">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
@@ -287,7 +287,7 @@
 <!ENTITY openFrameCmd.label "Otevřít rám v novém okně">
 <!ENTITY openFrameCmd.accesskey "O">
 <!ENTITY openFrameCmdInTab.label "Otevřít rám v novém panelu">
-<!ENTITY openFrameCmdInTab.accesskey "t">
+<!ENTITY openFrameCmdInTab.accesskey "n">
 <!ENTITY showOnlyThisFrameCmd.label "Zobrazit pouze tento rám">
 <!ENTITY showOnlyThisFrameCmd.accesskey "p">
 <!ENTITY reloadCmd.commandkey "r">
@@ -299,15 +299,15 @@
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "Z">
 <!ENTITY viewPageSourceCmd.label "Zobrazit zdrojový kód stránky">
-<!ENTITY viewPageSourceCmd.accesskey "d">
+<!ENTITY viewPageSourceCmd.accesskey "r">
 <!ENTITY viewFrameSourceCmd.label "Zobrazit zdrojový kód rámu">
-<!ENTITY viewFrameSourceCmd.accesskey "d">
+<!ENTITY viewFrameSourceCmd.accesskey "j">
 <!ENTITY viewPageInfoCmd.label "Zobrazit informace o stránce">
 <!ENTITY viewPageInfoCmd.accesskey "i">
 <!ENTITY viewFrameInfoCmd.label "Zobrazit informace o rámu">
 <!ENTITY viewFrameInfoCmd.accesskey "i">
 <!ENTITY reloadImageCmd.label "Obnovit obrázek">
-<!ENTITY reloadImageCmd.accesskey "O">
+<!ENTITY reloadImageCmd.accesskey "b">
 <!ENTITY viewImageCmd.label "Zobrazit obrázek">
 <!ENTITY viewImageCmd.accesskey "Z">
 <!ENTITY viewImageInfoCmd.label "Zobrazit vlastnosti obrázku">
@@ -315,7 +315,7 @@
 <!ENTITY viewVideoCmd.label "Zobrazit video">
 <!ENTITY viewVideoCmd.accesskey "Z">
 <!ENTITY viewBGImageCmd.label "Zobrazit obrázek na pozadí">
-<!ENTITY viewBGImageCmd.accesskey "o">
+<!ENTITY viewBGImageCmd.accesskey "Z">
 <!ENTITY setDesktopBackgroundCmd.label "Nastavit pozadí plochy…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "t">
 <!ENTITY bookmarkPageCmd2.label "Přidat stránku do záložek">
@@ -327,7 +327,7 @@
 <!ENTITY sendPageCmd.label "Odeslat stránku…">
 <!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY savePageCmd.label "Uložit stránku jako…">
-<!ENTITY savePageCmd.accesskey "j">
+<!ENTITY savePageCmd.accesskey "U">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "j">
 <!ENTITY savePageCmd.commandkey "s">
@@ -338,7 +338,7 @@
 <!ENTITY saveLinkCmd.label "Uložit odkaz jako…">
 <!ENTITY saveLinkCmd.accesskey "U">
 <!ENTITY sendLinkCmd.label "Odeslat odkaz…">
-<!ENTITY sendLinkCmd.accesskey "O">
+<!ENTITY sendLinkCmd.accesskey "d">
 <!ENTITY saveImageCmd.label "Uložit obrázek jako…">
 <!ENTITY saveImageCmd.accesskey "U">
 <!ENTITY saveVideoCmd.label "Uložit video jako…">
@@ -346,24 +346,23 @@
 <!ENTITY saveAudioCmd.label "Uložit audio jako……">
 <!ENTITY saveAudioCmd.accesskey "U">
 <!ENTITY sendImageCmd.label "Odeslat obrázek…">
-<!ENTITY sendImageCmd.accesskey "O">
+<!ENTITY sendImageCmd.accesskey "e">
 <!ENTITY sendVideoCmd.label "Odeslat video…">
-<!ENTITY sendVideoCmd.accesskey "O">
+<!ENTITY sendVideoCmd.accesskey "e">
 <!ENTITY sendAudioCmd.label "Odeslat audio…">
-<!ENTITY sendAudioCmd.accesskey "O">
+<!ENTITY sendAudioCmd.accesskey "e">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "Kopírovat adresu obrázku">
-<!ENTITY copyImageCmd.accesskey "d">
+<!ENTITY copyImageCmd.accesskey "a">
 <!ENTITY copyImageContentsCmd.label "Kopírovat obrázek">
 <!ENTITY copyImageContentsCmd.accesskey "r">
 <!ENTITY copyVideoURLCmd.label "Kopírovat adresu videa">
-<!ENTITY copyVideoURLCmd.accesskey "d">
+<!ENTITY copyVideoURLCmd.accesskey "a">
 <!ENTITY copyAudioURLCmd.label "Kopírovat adresu audia">
-<!ENTITY copyAudioURLCmd.accesskey "d">
-<!ENTITY blockImageCmd.accesskey "l">
-<!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
-<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY copyAudioURLCmd.accesskey "a">
+<!ENTITY copyEmailCmd.label "Kopírovat adresu e-mailu">
+<!ENTITY copyEmailCmd.accesskey "a">
 <!ENTITY thisFrameMenu.label "Tento rám">
 <!ENTITY thisFrameMenu.accesskey "T">
 

@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Správa">
 <!ENTITY organize.accesskey "S">
+<!ENTITY organize.tooltip "Umožní správu záložek">
 
 <!ENTITY file.accesskey "S">
 <!ENTITY file.close.label "Zavřít">
@@ -11,8 +12,9 @@
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Úpravy">
 <!ENTITY edit.accesskey "a">
-<!ENTITY views.label "Zobrazení">
-<!ENTITY views.accesskey "Z">
+<!ENTITY views.label "Rozložení">
+<!ENTITY views.accesskey "R">
+<!ENTITY views.tooltip "Změní rozložení">
 <!ENTITY view.columns.label "Zobrazené sloupce">
 <!ENTITY view.columns.accesskey "b">
 <!ENTITY view.sort.label "Řazení položek">
@@ -106,7 +108,8 @@
 <!ENTITY cmd.find.key "f">
 
 <!ENTITY maintenance.label "Import a záloha">
-<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.accesskey "I">
+<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label "Zpět">
 <!ENTITY backButton.tooltip "Přejde zpět">
