@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkDone.label    "Ferdig">
 <!ENTITY editBookmarkTags.label    "Legg til merkelapper">
 
-<!ENTITY helperApp.prompt          "Hva vil du gjøre med">
-<!ENTITY helperApp.open            "Åpne">
-<!ENTITY helperApp.save            "Lagre">
-<!ENTITY helperApp.nothing         "Avbryt">
-
 <!ENTITY formHelper.previous       "Forrige">
 <!ENTITY formHelper.next           "Neste">
 <!ENTITY formHelper.done           "Ferdig">
