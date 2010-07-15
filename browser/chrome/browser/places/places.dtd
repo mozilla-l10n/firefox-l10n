@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Organiser">
 <!ENTITY organize.accesskey "O">
+<!ENTITY organize.tooltip "Organiser les marque-pages">
 
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Fermer">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey "M">
 <!ENTITY views.label "Affichage">
 <!ENTITY views.accesskey "A">
+<!ENTITY views.tooltip "Modifier l'affichage">
 <!ENTITY view.columns.label "Afficher les colonnes">
 <!ENTITY view.columns.accesskey "c">
 <!ENTITY view.sort.label "Trier par">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label "Importation et sauvegarde">
 <!ENTITY maintenance.accesskey "I">
+<!ENTITY maintenance.tooltip "Importer et sauvegarder les marque-pages">
 
 <!ENTITY backCmd.label "Retour">
 <!ENTITY backButton.tooltip "Retour en arrière">
