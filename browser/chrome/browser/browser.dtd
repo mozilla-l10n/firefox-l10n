@@ -363,7 +363,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar dirección del audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey "n">
 <!ENTITY copyEmailCmd.label "Copiar dirección de correo electrónico">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY thisFrameMenu.label "Este marco">
