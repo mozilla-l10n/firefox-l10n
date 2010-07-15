@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -156,15 +157,10 @@
 <!ENTITY redoDefaultCmd.label "Gjenta">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"Verktøylinje for meldinger">
-<!ENTITY showMessengerToolbarCmd.accesskey	"e">
- 
-<!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"Verktøylinje for søking">
-<!ENTITY showSearchToolbarCmd.accesskey	"s">
-
-<!ENTITY showLocationToolbarCmd.label "Adresselinje">
-<!ENTITY showLocationToolbarCmd.accesskey "A">
+<!ENTITY showMessengerToolbarCmd.label "Verktøylinje for meldinger">
+<!ENTITY showMessengerToolbarCmd.accesskey "e">
+<!ENTITY showSearchToolbarCmd.label "Verktøylinje for søking">
+<!ENTITY showSearchToolbarCmd.accesskey "s">
 
 <!ENTITY messagePaneLayoutStyle.label "Utseende">
 <!ENTITY messagePaneLayoutStyle.accesskey "U">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Uønsket">
 <!ENTITY notJunkButton.label "Denne er ønsket">
+<!ENTITY searchButton.title "Avansert søk">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menylinje">
 <!ENTITY mailToolbar.tooltip "E-postverktøylinje">
-<!ENTITY locationToolbar.tooltip "Adresselinje">
+<!ENTITY searchToolbar.tooltip "Søkelinje">
 <!ENTITY advancedButton.tooltip "Avansert meldingssøk">
 <!ENTITY getMsgButton.tooltip "Hent nye meldinger">
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Søk i emne eller adresse">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchButton.label "Søk i meldinger …">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
@@ -608,3 +606,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; tror at denne meldingen kan være en e-postsvindel.">
 <!ENTITY removePhishingBarButton.label "Ikke svindel">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Avsenderen av denne meldingen ber om å få beskjed når du leser meldingen. Vil du sende denne beskjeden til avsenderen?">
+<!ENTITY mdnBarIgnoreButton.label "Ignorer forespørselen">
+<!ENTITY mdnBarSendButton.label "Send kvittering">
