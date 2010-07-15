@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label					"Hjelp"> 
 <!ENTITY helpMenu.accesskey				"h"> 
 
+<!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
+<!ENTITY helpTroubleshootingInfo.accesskey  "e">
 <!ENTITY releaseCmd.label				"Versjonsnotat">
 <!ENTITY releaseCmd.accesskey                   "V">
 <!ENTITY updateCmd.label                        "Søk etter oppdateringer …">

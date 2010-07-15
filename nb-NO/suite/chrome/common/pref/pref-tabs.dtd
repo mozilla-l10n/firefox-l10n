@@ -12,17 +12,3 @@
 <!ENTITY loadGroupReplace.label "Erstatt eksisterende faner">
 <!ENTITY loadGroupReplace.accesskey "E">
 <!ENTITY openTabs.label "Åpne faner i stedet for vinduer for">
-
-<!ENTITY newWindow.label "Oppførsel ved åpning av lenker">
-<!ENTITY newWindowDescription.label "Åpning av lenker som åpnes i nytt vindu bør åpnes i">
-<!ENTITY external.label "Lenker fra andre programmer">
-<!ENTITY externalDescription.label "Åpne lenker sendt fra andre programmer i">
-<!ENTITY openCurrent.label "Den aktive fanen/vinduet">
-<!ENTITY newWindowGroupCurrent.accesskey "D">
-<!ENTITY externalGroupCurrent.accesskey "e">
-<!ENTITY openTab.label "En ny fane i aktivt vindu">
-<!ENTITY newWindowGroupTab.accesskey "y">
-<!ENTITY externalGroupTab.accesskey "f">
-<!ENTITY openWindow.label "Et nytt vindu">
-<!ENTITY newWindowGroupWindow.accesskey "v">
-<!ENTITY externalGroupWindow.accesskey "u">

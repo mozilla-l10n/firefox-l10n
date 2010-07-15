@@ -8,7 +8,7 @@
 <!ENTITY  directTypeRadio.accesskey     "D">
 <!ENTITY  systemTypeRadio.label         "Bruk systemets mellomtjener">
 <!ENTITY  systemTypeRadio.accesskey     "s">
-<!ENTITY  manualTypeRadio.label         "Manuell konfigurasjon">
+<!ENTITY  manualTypeRadio.label         "Manuell konfigurasjon:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  wpadTypeRadio.label           "Automatisk oppdag mellomtjenerinnstillinger">
 <!ENTITY  wpadTypeRadio.accesskey       "A">

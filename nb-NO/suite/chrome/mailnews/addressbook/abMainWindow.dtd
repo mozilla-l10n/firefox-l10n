@@ -126,7 +126,7 @@
 <!ENTITY newmsgButton.tooltip                           "Send en e-post"> 
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat"> 
 <!ENTITY deleteItemButton.tooltip                       "Slett valgt element"> 
-<!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &brandShortName;">
+<!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 
 <!-- Status Bar -->  
