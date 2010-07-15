@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "Saincheap an Barra Uirlisí">
-<!ENTITY dialog.style "width: 680px; height: 480px;">
+<!ENTITY dialog.style "width: 95ch; height: 40em;">
 <!ENTITY instructions.description "Is féidir míreanna a bhaint nó a chur le barra uirlisí tríd iad a tharraingt chuige nó uaidh.">
 <!ENTITY show.label "Taispeáin:">
 <!ENTITY iconsAndText.label "Deilbhíní agus Téacs">

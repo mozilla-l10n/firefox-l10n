@@ -3,5 +3,5 @@
 <!ENTITY date.heading "Dáta a Seoladh">
 <!ENTITY noReports.label "Níor seoladh tuarascáil chliste ar bith.">
 <!ENTITY noConfig.label "Níl an feidhmchlár seo cumraithe le tuarascálach cliste a thaispeáint. Caithfear an rogha <code>breakpad.reportURL</code> a shocrú.">
-<!ENTITY clearReports.label "Bain Tuairiscí">
+<!ENTITY clearAllReports.label "Bain Gach Tuairisc">
 

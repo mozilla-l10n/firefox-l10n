@@ -2,7 +2,7 @@
 <!ENTITY props.value.label "Ábhar:">
 <!ENTITY props.domain.label "Ósta:">
 <!ENTITY props.path.label "Conair:">
-<!ENTITY props.secure.label "Feistigh:">
+<!ENTITY props.secure.label "Le haghaidh:">
 <!ENTITY props.expires.label "As Feidhm:">
 <!ENTITY props.policy.label "Polasaí:">
 
