@@ -46,6 +46,9 @@
 <!ENTITY col.dateadded.label     "Προσθήκη">
 <!ENTITY col.lastmodified.label  "Τελευταία τροποποίηση">
 
+<!ENTITY maintenance.tooltip    "Εισαγωγή και αντίγραφα ασφαλείας σελιδοδεικτών">
+<!ENTITY organize.tooltip      "Οργάνωση των σελιδοδεικτών σας">
+<!ENTITY views.tooltip                  "Αλλαγή προβολής">
 
 <!ENTITY search.scopeFolder.label                  "Επιλεγμένος φάκελος">
 <!ENTITY search.scopeFolder.accesskey              "φ">

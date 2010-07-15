@@ -68,9 +68,6 @@
 <!ENTITY detail.showPreferences.tooltip       "Αλλαγή των προτιμήσεων αυτού του προσθέτου">
 
 
-<!-- ratings -->
-<!ENTITY rating.yourRating.label              "Η αξιολόγηση σας:">
-
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Παύση">
 <!ENTITY progress.cancel.tooltip              "Ακύρωση">
@@ -110,4 +107,12 @@
 <!ENTITY addon.checkingForUpdates.label       "Γίνεται έλεγχος για ενημερώσεις…">
 
 <!ENTITY addon.createdBy.label                "Από ">
+
+<!ENTITY cmd.showPreferences.label            "Προτιμήσεις">
+<!ENTITY cmd.showPreferences.tooltip          "Αλλαγή των προτιμήσεων αυτού του προσθέτου">
+
+<!-- ratings -->
+<!ENTITY rating.label                         "Αξιολόγηση:">
+
+
 
