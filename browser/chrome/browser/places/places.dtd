@@ -109,7 +109,7 @@
 
 <!ENTITY maintenance.label   "Importar e Fazer Cópia de Segurança">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importar e fazer cópia de segurança dos marcadores>
+<!ENTITY maintenance.tooltip    "Importar e fazer cópia de segurança dos marcadores">
 
 <!ENTITY backCmd.label       "Retroceder">
 <!ENTITY backButton.tooltip  "Voltar atrás">
