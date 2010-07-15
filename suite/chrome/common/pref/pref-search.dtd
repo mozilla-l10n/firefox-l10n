@@ -17,7 +17,7 @@
 
 <!ENTITY sidebarSearchTabPref.label       "Visningsvalg for sidestolpen">
 <!ENTITY searchModeBasic.label            "Vanlig">
-<!ENTITY searchModeBasic.accesskey        "v">
+<!ENTITY searchModeBasic.accesskey        "V">
 <!ENTITY searchModeAdvanced.label         "Avansert">
 <!ENTITY searchModeAdvanced.accesskey     "A">
 

@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skript og programtillegg">
 
 <!ENTITY navigator.label                 "Nettleser">
@@ -8,7 +8,7 @@
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Tillat JavaScript for">
-<!ENTITY allowScripts.label              "Tillat skript å">
+<!ENTITY allowScripts.label              "Tillat skript å:">
 <!ENTITY allowScripts.accesskey          "s">
 <!ENTITY allowWindowMoveResize.label     "Flytte eller endre størrelse på vinduer">
 <!ENTITY allowWindowFlip.label           "Heve eller senke vinduer">

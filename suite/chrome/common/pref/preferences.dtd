@@ -11,6 +11,7 @@
 <!ENTITY applications.label "Hjelpeprogrammer">
 <!ENTITY locationBar.label "Adresselinje">
 <!ENTITY tabWindows.label "Nettlesing med faner">
+<!ENTITY links.label "Lenkeoppførsel">
 <!ENTITY offline.label "Frakoblet">
 <!ENTITY security.label "Personvern og sikkerhet">
 <!ENTITY cookies.label "Infokapsler">

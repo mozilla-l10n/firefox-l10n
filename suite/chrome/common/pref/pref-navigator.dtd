@@ -21,18 +21,10 @@
 <!ENTITY useCurrent.accesskey           "u">
 <!ENTITY useCurrentGroup.label          "Bruk fanegruppe">
 <!ENTITY useCurrentGroup.accesskey      "g">
-<!ENTITY browseFile.label               "Velg fil ...">
+<!ENTITY browseFile.label               "Velg fil …">
 <!ENTITY browseFile.accesskey           "V">
 <!ENTITY useDefault.label               "Bruk forvalg">
 <!ENTITY useDefault.accesskey           "f">
-
-<!ENTITY toolbarIntro.label             "Velg knappene du vil vise i verktøylinjen">
-
-<!ENTITY navToolbarIntro.label          "Navigasjonslinje">
-<!ENTITY goButton.label                 "Gå">
-<!ENTITY goButton.accesskey             "G">
-<!ENTITY searchButton.label             "Søk">
-<!ENTITY searchButton.accesskey         "S">
 
 <!ENTITY defaultBrowserGroup.label      "Standard nettleser">
 <!ENTITY defaultBrowserButton.label     "Sett standard nettleser">

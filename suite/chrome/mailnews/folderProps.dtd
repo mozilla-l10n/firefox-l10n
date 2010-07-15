@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "S">
 <!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ikke bli berørt)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
-<!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
-<!ENTITY folderRebuildSummaryFile.accesskey      "o">
-<!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "o">
+<!ENTITY folderRebuildSummaryFile.explanation    "Noen ganger kan oppsummeringsfilen for mapper (.msf) bli skadet, og meldinger kan se ut til å være skadede eller mangle, eller at slettede meldinger vises; å reparere mappen kan fikse disse problemene.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Inkluder meldinger i denne mappen i globale søkeresultater">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label "Automatisk sletting">
 <!ENTITY retentionUseAccount.label "Bruk innstillinger for kontoen">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronisering">
-<!ENTITY folderCheckForNewMessages.label         "Se etter nye meldinger for denne mappen">
-<!ENTITY folderCheckForNewMessages.accesskey     "S">
+<!ENTITY folderCheckForNewMessages2.label        "Ved henting av nye meldinger for denne kontoen, alltid sjekk denne mappen">
+<!ENTITY folderCheckForNewMessages2.accesskey    "d">
 
 <!ENTITY offlineFolder.check.label               "Velg denne mappen for frakoblet bruk">
 <!ENTITY offlineFolder.check.accesskey           "V">

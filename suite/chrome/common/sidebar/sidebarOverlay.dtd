@@ -55,8 +55,8 @@
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
 <!ENTITY sidebar.no-panels.state     "Sidestolpen er tom.">
-<!ENTITY sidebar.no-panels.add       'Du kan legge til faner ved å trykke på "Faner"-knappen ovenfor.'>
-<!ENTITY sidebar.no-panels.hide      'Hvis du vil skjule sidestolpen kan du trykke på "Vis"-menyen ovenfor, og velge "Sidestolpe" fra "Vis/skjul"-undermenyen.'>
+<!ENTITY sidebar.no-panels.add       'Du kan legge til faner ved å trykke på «Faner»-knappen ovenfor.'>
+<!ENTITY sidebar.no-panels.hide      'Hvis du vil skjule sidestolpen kan du trykke på «Vis»-menyen ovenfor, og velge «Sidestolpe» fra «Vis/skjul»-undermenyen.'>
 <!ENTITY sidebar.sbDirectory.label   "Vis katalog …">
 
 <!ENTITY sidebar.pagenotfound.label  "Denne fanen er ikke tilgjengelig akkurat nå.">
