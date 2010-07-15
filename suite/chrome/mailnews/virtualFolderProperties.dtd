@@ -11,4 +11,8 @@
 <!ENTITY chooseFoldersButton.accesskey "V">
 
 <!ENTITY searchOnline.label "Søk på ekstern tjener hver gang (gjør at det tar lengre tid å åpne mappen)">
-<!ENTITY searchOnline.accesskey        "t">
+<!ENTITY searchOnline.accesskey    "t">
+<!ENTITY newFolderButton.label         "Opprett">
+<!ENTITY newFolderButton.accesskey     "O">
+<!ENTITY editFolderButton.label        "Oppdater">
+<!ENTITY editFolderButton.accesskey    "d">

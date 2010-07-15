@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiser">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organiser bokmerkene">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Lukk">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "R">
 <!ENTITY views.label                    "Vis">
 <!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Endre visning">
 <!ENTITY view.columns.label             "Vis kolonner">
 <!ENTITY view.columns.accesskey         "V">
 <!ENTITY view.sort.label                "Sorter">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Importer og sikkerhetskopier">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importer og sikkerhetskopier bokmerkene">
 
 <!ENTITY backCmd.label       "Tilbake">
 <!ENTITY backButton.tooltip  "Gå tilbake">

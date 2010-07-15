@@ -361,7 +361,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "r">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne rammen">
