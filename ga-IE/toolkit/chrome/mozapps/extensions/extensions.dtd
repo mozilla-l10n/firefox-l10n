@@ -1,7 +1,7 @@
 <!ENTITY addons.windowTitle "Bainisteoir na mBreiseán">
 <!ENTITY search.placeholder "Cuardaigh na breiseáin go léir">
 <!ENTITY loading.label "Á Luchtú…">
-<!ENTITY listEmpty.installed.label "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.installed.label "Níl aon bhreiseán den chineál seo suiteáilte agat">
 <!ENTITY listEmpty.search.label "Níor aimsíodh aon bhreiseáin chomhoiriúnacha">
 <!ENTITY listEmpty.button.label "Tuilleadh eolais faoi bhreiseáin">
 <!-- categories / views -->
