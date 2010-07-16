@@ -1,176 +1,107 @@
-<!ENTITY addons.title                      "Lisad">
+<!ENTITY addons.windowTitle                   "Lisade haldur">
+<!ENTITY search.placeholder                   "Otsi kõiki lisasid">
+<!ENTITY loading.label                        "Laadimine…">
+<!ENTITY listEmpty.installed.label            "Ühtegi seda tüüpi lisa pole paigaldatud">
+<!ENTITY listEmpty.search.label               "Ühtegi sobivat lisa ei leitud">
+<!ENTITY listEmpty.button.label               "Rohkem teavet lisade kohta">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                          "520">
-<!ENTITY em.height                         "380">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Otsing">
+<!ENTITY view.discover.label                  "Hangi lisasid">
+<!ENTITY view.locales.label                   "Keeled">
+<!ENTITY view.searchengines.label             "Otsingumootorid">
+<!ENTITY view.features.label                  "Laiendused">
+<!ENTITY view.appearance.label                "Teemad">
+<!ENTITY view.plugins.label                   "Pluginad">
 
-<!ENTITY cmd.info.commandKey               "i">
-<!ENTITY cmd.options.commandKey            ",">
-<!ENTITY cmd.close.commandKey              "w">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Uuenda lisasid">
+<!ENTITY updates.updating.label               "Lisade uuendamine">
+<!ENTITY updates.installed.label              "Lisad on uuendatud.">
+<!ENTITY updates.downloaded.label             "Lisade uuendused on alla laaditud.">
+<!ENTITY updates.restart.label                "Paigalduse lõpetamiseks taaskäivita kohe">
+<!ENTITY updates.noneFound.label              "Uuendusi ei leitud">
 
-<!-- View labels -->
-<!ENTITY search.label                      "Hangi laiendusi">
-<!ENTITY extensions.label                  "Laiendused">
-<!ENTITY themes.label                      "Teemad">
-<!ENTITY locales.label                     "Keeled">
-<!ENTITY plugins.label                     "Pluginad">
-<!ENTITY update.label                      "Uuendused">
-<!ENTITY install.label                     "Paigaldamine">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Kuva rohkem teavet">
+<!ENTITY cmd.showDetails.accesskey            "K">
+<!ENTITY cmd.findUpdates.label                "Leia uuendusi">
+<!ENTITY cmd.findUpdates.accesskey            "L">
+<!ENTITY cmd.preferences.label                "Eelistused">
+<!ENTITY cmd.preferences.accesskey            "E">
+<!ENTITY cmd.about.label                      "Sellest lisast">
+<!ENTITY cmd.about.accesskey                  "S">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label         "Otsi uuendusi">
-<!ENTITY cmd.checkUpdatesAll.accesskey     "O">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip  "Otsi uuendusi lisadele">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip  "Otsi uuendusi teemadele">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Otsi uuendusi pluginatele">
-<!ENTITY cmd.installLocalFile.label        "Paigalda...">
-<!ENTITY cmd.installLocalFile.accesskey    "i">
-<!ENTITY cmd.installFileAddon.tooltip      "Paigalda lisa">
-<!ENTITY cmd.installFileTheme.tooltip      "Paigalda teema">
-<!ENTITY cmd.installUpdatesAll2.label      "Paigalda uuendused">
-<!ENTITY cmd.installUpdatesAll2.accesskey  "P">
-<!ENTITY cmd.installUpdatesAll2.tooltip    "Paigalda valitud uuendused">
-<!ENTITY cmd.restartApp2.label             "Taaskäivita &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey         "T">
-<!ENTITY cmd.restartApp2.tooltip           "Paigalduse lõpetamiseks taaskäivita &brandShortName;">
-<!ENTITY cmd.skip.label                    "Jäta vahele">
-<!ENTITY cmd.skip.accesskey                "J">
-<!ENTITY cmd.skip.tooltip                  "Jäta need uuendused vahele">
-<!ENTITY cmd.continue.label                "Jätka">
-<!ENTITY cmd.continue.accesskey            "t">
-<!ENTITY cmd.continue.tooltip              "Jätka &brandShortName;'i laadimist">
+<!ENTITY cmd.enableAddon.label                "Luba">
+<!ENTITY cmd.enableAddon.accesskey            "L">
+<!ENTITY cmd.enableAddon.tooltip              "Luba see lisa">
+<!ENTITY cmd.disableAddon.label               "Keela">
+<!ENTITY cmd.disableAddon.accesskey           "a">
+<!ENTITY cmd.disableAddon.tooltip             "Keela see lisa">
+<!ENTITY cmd.uninstallAddon.label             "Eemalda">
+<!ENTITY cmd.uninstallAddon.accesskey         "m">
+<!ENTITY cmd.uninstallAddon.tooltip           "Eemalda see lisa">
+<!ENTITY cmd.showPreferences.label            "Eelistused">
+<!ENTITY cmd.showPreferences.tooltip          "Muuda selle lisa eelistusi">
+<!ENTITY cmd.contribute.label                 "Aita kaasa">
+<!ENTITY cmd.contribute.accesskey             "i">
+<!ENTITY cmd.contribute.tooltip               "Panusta selle lisa arendusse">
 
-<!ENTITY cmd.enableAll.label               "Luba kõik">
-<!ENTITY cmd.enableAll.accesskey           "k">
-<!ENTITY cmd.enableAll.tooltip             "Luba kõik kuvatud lisad">
-<!ENTITY cmd.disableAll.label              "Keela kõik">
-<!ENTITY cmd.disableAll.accesskey          "i">
-<!ENTITY cmd.disableAll.tooltip            "Keela kõik kuvatud lisad">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versioon">
+<!ENTITY detail.updated.label                 "Uuendatud">
+<!ENTITY detail.creator.label                 "Arendaja">
+<!ENTITY detail.homepage.label                "Koduleht">
+<!ENTITY detail.numberOfDownloads.label       "Allalaadimisi">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label                "Kasuta teemat">
-<!ENTITY cmd.useTheme.accesskey            "t">
-<!ENTITY cmd.useTheme.tooltip              "Muudab &brandShortName;'i teemat">
-<!ENTITY cmd.options.label                 "Sätted">
-<!ENTITY cmd.options.accesskey             "S">
-<!ENTITY cmd.options.tooltip               "Muuda valitud laienduse omadusi">
-<!ENTITY cmd.optionsUnix.label             "Eelistused">
-<!ENTITY cmd.optionsUnix.accesskey         "E">
-<!ENTITY cmd.optionsUnix.tooltip           "Muuda valitud laienduse eelistusi">
-<!ENTITY cmd.enable.label                  "Luba">
-<!ENTITY cmd.enable.accesskey              "L">
-<!ENTITY cmd.enable.tooltip                "Luba see lisa, kui &brandShortName; on taaskäivitatud">
-<!ENTITY cmd.disable.label                 "Keela">
-<!ENTITY cmd.disable.accesskey             "K">
-<!ENTITY cmd.disable.tooltip               "Keela see lisa, kui &brandShortName; on taaskäivitatud">
-<!ENTITY cmd.uninstall.label               "Eemalda">
-<!ENTITY cmd.uninstall2.accesskey          "E">
-<!ENTITY cmd.uninstall2.tooltip            "Eemalda see lisa, kui &brandShortName; on taaskäivitatud">
-<!ENTITY cmd.cancelUninstall.label         "Loobu eemaldamisest">
-<!ENTITY cmd.cancelUninstall.accesskey     "L">
-<!ENTITY cmd.cancelUninstall.tooltip       "Loobu selle lisa eemaldamisest">
-<!ENTITY cmd.cancelInstall.label           "Loobu paigaldamisest">
-<!ENTITY cmd.cancelInstall.accesskey       "o">
-<!ENTITY cmd.cancelInstall.tooltip         "Loobu selle lisa paigaldamisest">
-<!ENTITY cmd.cancelUpgrade.label           "Loobu uuendamisest">
-<!ENTITY cmd.cancelUpgrade.accesskey       "u">
-<!ENTITY cmd.cancelUpgrade.tooltip         "Loobu selle lisa uuendamisest">
-<!ENTITY cmd.installUpdate.label           "Paigalda uuendus">
-<!ENTITY cmd.installUpdate.accesskey       "P">
-<!ENTITY cmd.installUpdate.tooltip         "Paigalda uuendus sellele lisale">
-<!ENTITY cmd.showUpdateInfo.label          "Näita infot">
-<!ENTITY cmd.showUpdateInfo.accesskey      "N">
-<!ENTITY cmd.showUpdateInfo.tooltip        "Näita rohkem infot nende uuenduste kohta">
-<!ENTITY cmd.hideUpdateInfo.label          "Peida info">
-<!ENTITY cmd.hideUpdateInfo.accesskey      "P">
-<!ENTITY cmd.hideUpdateInfo.tooltip        "Peida info nende uuenduste kohta">
-<!ENTITY cmd.installSearchResult.label     "Lisa &brandShortName;i...">
-<!ENTITY cmd.installSearchResult.accesskey "L">
-<!ENTITY cmd.installSearchResult.tooltip   "Tõmba ja paigalda see lisa">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                      "Loobu">
-<!ENTITY cancel.accesskey                  "L">
-<!ENTITY cancelInstall.label               "Loobu">
-<!ENTITY cancelInstall.accesskey           "L">
-<!ENTITY cancelUpgrade.label               "Loobu">
-<!ENTITY cancelUpgrade.accesskey           "L">
+<!ENTITY detail.updateAutomatically.label     "Uuendatakse automaatselt">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip   "Uuenduste olemasolul uuendatakse see lisa automaatselt">
+<!ENTITY detail.checkForUpdates.label         "Kontrolli uuenduste olemasolu">
+<!ENTITY detail.checkForUpdates.accesskey     "K">
+<!ENTITY detail.checkForUpdates.tooltip       "Kontrolli, kas lisale on uuendusi">
+<!ENTITY detail.showPreferences.label         "Eelistused">
+<!ENTITY detail.showPreferences.accesskey     "E">
+<!ENTITY detail.showPreferences.tooltip       "Muuda selle lisa eelistusi">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label                "Külasta kodulehte">
-<!ENTITY cmd.homepage.accesskey            "h">
-<!ENTITY cmd.about2.label                  "Sellest lisast">
-<!ENTITY cmd.about.accesskey               "a">
-<!ENTITY cmd.checkUpdate.label             "Otsi uuendust">
-<!ENTITY cmd.checkUpdate.accesskey         "u">
+<!-- ratings -->
+<!ENTITY rating.label                         "Hinnang:">
 
-<!ENTITY cmd.includeUpdate.label           "Kaasa uuendus">
-<!ENTITY cmd.includeUpdate.accesskey       "s">
-<!ENTITY includeUpdate.label               "Uuendatakse">
-<!ENTITY includeUpdate.accesskey           "e">
-<!ENTITY includeUpdate.tooltip             "Kaasa see lisa, kui paigaldatakse uuendusi">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Paus">
+<!ENTITY progress.cancel.tooltip              "Loobu">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label              "Ei paku turvalisi uuendusi.">
-<!ENTITY needsDependencies.label           "Vajab täiendavaid elemente.">
-<!ENTITY blocklisted.label                 "Keelatud sinu kaitseks.">
-<!ENTITY softBlocklisted.label             "Tuntud kui turvalisuse või stabiilsuse probleemide tekitaja.">
-<!ENTITY outdated.label                    "Saadaval on uuem ja turvalisem versioon.">
-<!ENTITY toBeDisabled.label                "See lisa keelatakse &brandShortName;i taaskäivitamisel.">
-<!ENTITY toBeEnabled.label                 "See lisa lubatakse &brandShortName;i taaskäivitamisel.">
-<!ENTITY toBeInstalled.label               "See lisa paigaldatakse &brandShortName;i taaskäivitamisel.">
-<!ENTITY toBeUninstalled.label             "See lisa eemaldatakse &brandShortName;i taaskäivitamisel.">
-<!ENTITY toBeUpdated.label                 "Seda lisa uuendatakse, kui &brandShortName; on taaskäivitatud.">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Nimi">
+<!ENTITY sort.name.tooltip                    "Sorteeri nime järgi">
+<!ENTITY sort.size.label                      "Suurus">
+<!ENTITY sort.size.tooltip                    "Sorteeri suuruse järgi">
+<!ENTITY sort.dateUpdated.label               "Viimati uuendatud">
+<!ENTITY sort.dateUpdated.tooltip             "Sorteeri uuendatuse järgi">
+<!ENTITY sort.rating.label                    "Hinnang">
+<!ENTITY sort.rating.tooltip                  "Sorteeri hinnangu järgi">
 
-<!ENTITY getExtensions.label               "Hangi laiendusi">
-<!ENTITY getThemes.label                   "Hangi teemasid">
-<!ENTITY getPlugins.label                  "Hangi pluginaid">
+<!ENTITY showMore.label                       "Kuva rohkem">
+<!ENTITY showMore.tooltip                     "Kuva rohkem teavet">
+<!ENTITY showLess.label                       "Kuva vähem">
+<!ENTITY showLess.tooltip                     "Kuva vähem teavet">
 
-<!ENTITY searchAddons.label                "Otsi kõiki laiendusi">
-<!ENTITY browseAddons.label                "Lehitse kõiki laiendusi">
-<!ENTITY searchFailed.label                "&brandShortName; ei saanud laiendusi kohale toimetada">
-<!ENTITY recommendedHeader.label           "Soovitatud">
-<!ENTITY recommendedThrobber.label         "Tõmmatakse soovitatud laienduste infot">
-<!ENTITY searchThrobber.label              "Otsitakse laiendusi">
-<!ENTITY resetSearch.label                 "Puhasta tulemused">
-<!ENTITY noSearchResults.label             "Kõik tulemused on juba paigaldatud või ei ühildu.">
-<!ENTITY noRecommendedResults.label        "Kõik soovitatud laiendused on juba paigaldatud või ei ühildu.">
-<!ENTITY emptySearch.label                 "Ei leitud sobivaid laiendusi">
-<!ENTITY emptySearch.button                "Sobib">
-<!ENTITY cancelSearch.button               "Loobu">
-<!ENTITY searchFailed.button               "Sobib">
-<!ENTITY searchResultHomepage.value        "Rohkem teavet">
-<!ENTITY searchBox.label                   "Otsi kõiki laiendusi">
-<!ENTITY recommendedResults.label          "Otsi kõiki soovitatud laiendusi">
-<!ENTITY searchResultConnecting.label      "Ühendumine...">
-<!ENTITY searchResultInstalling.label      "Paigaldamine...">
-<!ENTITY searchResultFailed.label          "Paigaldamine ebaõnnestus">
-<!ENTITY searchResultInstalled.label       "Paigaldamine lõpetatud">
-<!ENTITY addonTypeExtension.label          "Laiendus">
-<!ENTITY addonTypeTheme.label              "Teema">
-<!ENTITY missingThumbnail.label            "Eelvaade puudub">
+<!ENTITY search.filter.label                  "Kuvatakse:">
+<!ENTITY search.filter.installed.label        "paigaldatud lisasid">
+<!ENTITY search.filter.available.label        "saadaolevaid lisasid">
 
-<!ENTITY previewNoThemeSelected.label      "Ühtki teemat pole valitud">
-<!ENTITY previewNoPreviewImage.label       "Nendel teemadel puudub eelvaade">
-<!ENTITY moreInfo.label                    "Rohkem teavet">
-<!ENTITY infoNoAddonSelected.label         "Ühtki uuendust pole valitud">
-<!ENTITY infoNoUpdateInfo.label            "Sellel uuendusel puudub lisainfo">
-<!ENTITY infoUpdateInfoError.label         "Uuenduse lisainfo laadimisel esines viga">
+<!ENTITY addon.homepage                       "Koduleht">
+<!ENTITY addon.unknownDate                    "pole teada">
+<!ENTITY addon.disabled.postfix               "(keelatud)">
+<!ENTITY addon.undo.label                     "Võta tagasi?">
+<!ENTITY addon.undo.tooltip                   "Võta see tegevus tagasi">
+<!ENTITY addon.undoUninstall.label            "Võta tagasi?">
+<!ENTITY addon.undoUninstall.tooltip          "Jäta see lisa paigaldatuks">
+<!ENTITY addon.restartNow.label               "Taaskäivita kohe">
+<!ENTITY addon.restartNow.tooltip             "Paigalduse lõpetamiseks taaskäivita">
+<!ENTITY addon.install.label                  "Paigalda">
+<!ENTITY addon.install.tooltip                "Paigalda see lisa">
+<!ENTITY addon.checkingForUpdates.label       "Uuenduste kontrollimine…">
 
-<!ENTITY updateSuccess.label               "Uuendamine edukalt lõpetatud.">
-<!ENTITY installSuccess.label              "Paigaldamine edukalt lõpetatud.">
-<!ENTITY installSuccessRestart.label       "Paigalduse lõpetamiseks taaskäivita &brandShortName;">
-<!ENTITY updateSuccessRestart.label        "Uuendamise lõpetamiseks taaskäivita &brandShortName;.">
-<!ENTITY installWaiting.label              "Ootamine...">
-<!ENTITY installIncompatibleUpdate.label   "Ühilduvuse kontrollimine...">
-<!ENTITY installFinishing.label            "Paigaldamine...">
-<!ENTITY installFailure.label              "Paigaldamine ebaõnnestus.">
-
-<!ENTITY progressStatus.label              "Uuenduste kontrollimine">
-
-<!ENTITY eula.title                        "Lõppkasutaja litsentsileping">
-<!ENTITY eula.width                        "560px">
-<!ENTITY eula.height                       "400px">
-<!ENTITY eula.accept                       "Nõustu ja paigalda...">
-
-<!ENTITY blocklist.blocked.label           "Blokitud">
-<!ENTITY blocklist.checkbox.label          "Keelatud">
+<!ENTITY addon.createdBy.label                "Looja: ">

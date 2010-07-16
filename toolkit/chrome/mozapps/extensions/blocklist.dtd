@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Taaskäivita &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "T">
+
+<!ENTITY blocklist.blocked.label     "Blokitud">
+<!ENTITY blocklist.checkbox.label    "Keelatud">
