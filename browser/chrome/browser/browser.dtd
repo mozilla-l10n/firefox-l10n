@@ -144,6 +144,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY hudConsoleCmd.label          "Heads Up-weergave">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
 <!ENTITY fileMenu.label         "Bestand"> 
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newNavigatorCmd.label        "Nieuw venster">
