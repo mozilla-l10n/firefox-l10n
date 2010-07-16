@@ -218,10 +218,7 @@
 <!ENTITY appMenuHelp.label "Help">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Bladwijzers en geschiedenis doorzoeken">
-<!ENTITY urlbar.bookmark.emptyText    "Bladwijzers doorzoeken">
-<!ENTITY urlbar.history.emptyText     "Geschiedenis doorzoeken">
-<!ENTITY urlbar.none.emptyText        "Typ een webadres in">
+<!ENTITY urlbar.placeholder           "Naar een website gaan">
 <!ENTITY urlbar.accesskey             "d">
 
 <!-- 
