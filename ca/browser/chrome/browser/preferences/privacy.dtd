@@ -62,18 +62,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "netejar tot l'historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Inicia automàticament el &brandShortName; en una sessió de navegació privada">
-<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+<!ENTITY  privateBrowsingPermanent.label "Mode de navegació privada permanent">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Recorda el meu historial de navegació com a mínim durant">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "dies">
+<!ENTITY  rememberHistory.label      "Recorda el meu historial de navegació">
+<!ENTITY  rememberHistory.accesskey  "n">
 
 <!ENTITY  rememberDownload.label         "Recorda l'historial de baixades">
 <!ENTITY  rememberDownload.accesskey     "d">
