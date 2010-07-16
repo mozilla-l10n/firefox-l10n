@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Lagra passord …">
 <!ENTITY  savedPasswords.accesskey        "L">
-
-
-<!ENTITY  warnings.label                "Åtvaringar">
-
-<!ENTITY  chooseWarnings.label          "Vel kva åtvaringsvarsel du ønskjer å sjå">
-
-<!ENTITY  warningSettings.label         "Innstillingar …">
-<!ENTITY  warningSettings.accesskey     "I">
