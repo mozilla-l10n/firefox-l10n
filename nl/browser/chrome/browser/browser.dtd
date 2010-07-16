@@ -107,6 +107,12 @@
 <!ENTITY bookmarksButton.tooltip        "Uw bladwijzers weergeven">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bladwijzers">
+<!ENTITY bookmarksMenuButton.tooltip        "Uw bladwijzers weergeven">
+<!ENTITY viewBookmarksSidebar.label         "In zijbalk tonen">
+<!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk bekijken">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
