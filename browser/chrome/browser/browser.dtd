@@ -316,7 +316,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Audiolocatie kopiëren">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "b">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit deelvenster">
