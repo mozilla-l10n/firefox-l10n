@@ -211,6 +211,12 @@
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
+<!ENTITY appMenuPrintCmd.label "Afdrukken">
+<!ENTITY appMenuCustomize.label "Aanpassen">
+<!ENTITY appMenuToolbarLayout.label "Werkbalkindeling…">
+<!ENTITY appMenuSidebars.label "Zijbalken">
+<!ENTITY appMenuHelp.label "Help">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Bladwijzers en geschiedenis doorzoeken">
 <!ENTITY urlbar.bookmark.emptyText    "Bladwijzers doorzoeken">
