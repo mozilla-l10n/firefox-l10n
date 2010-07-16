@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b               "Mozilla avalik litsents (MPL - Mozilla Public License)">
 <!ENTITY rights.intro-point1c               ". See tähendab, et sa võid &brandShortName;i kasutada, kopeerida ja teistele jagada. Sa võid ka igati muuta &brandShortName;i lähtekoodi, kui tahad, et see paremini sobiks sinu vajadustega. Samuti annab Mozilla avalik litsents (MPL) sulle õiguse oma muudetud versiooni edasi levitada.">
 
-<!ENTITY rights.intro-point2a               "Mozilla ei anna sulle mingeid õigusi Mozilla ja Firefoxi kaubamärkide või logode üle. Lisainfot kaubamärkide kohta võib leida ">
-<!ENTITY rights.intro-point2b               "siit">
-<!ENTITY rights.intro-point2c               ".">
+<!ENTITY rights.intro-point2-a              "Mozilla ei anna sulle mingeid õigusi ega litsentse Mozilla ja Firefoxi kaubamärkide või logode üle. Lisainfot kaubamärkide kohta võib leida ">
+<!ENTITY rights.intro-point2-b              "siit">
+<!ENTITY rights.intro-point2-c              ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a               "Privaatsuse reeglid &vendorShortName; toodete kohta võib leida ">
