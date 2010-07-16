@@ -174,8 +174,18 @@
 <!ENTITY hudConsoleCmd.commandkey "k">
 
 <!ENTITY inspectMenu.label "Prozkoumat">
-<!ENTITY inspectMenu.accesskey "T">
+<!ENTITY inspectMenu.accesskey "P">
 <!ENTITY inspectMenu.commandkey "I">
+
+<!ENTITY inspectButton.label "Prozkoumat">
+<!ENTITY inspectButton.accesskey "P">
+<!ENTITY inspectNextButton.label "Další">
+<!ENTITY inspectNextButton.accesskey "D">
+<!ENTITY inspectPreviousButton.label "Předchozí">
+<!ENTITY inspectPreviousButton.accesskey "e">
+<!ENTITY inspectStyleButton.label "Styl">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label "Styl">
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
