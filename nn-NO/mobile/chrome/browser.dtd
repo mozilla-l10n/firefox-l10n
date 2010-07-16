@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkDone.label    "Fullført">
 <!ENTITY editBookmarkTags.label    "Legg til merkelappar her">
 
-<!ENTITY helperApp.prompt          "Kva ønskjer du å gjere med">
-<!ENTITY helperApp.open            "Opne">
-<!ENTITY helperApp.save            "Lagre">
-<!ENTITY helperApp.nothing         "Ingenting">
-
 <!ENTITY formHelper.previous       "Føregåande">
 <!ENTITY formHelper.next           "neste">
 <!ENTITY formHelper.done           "Fullført">

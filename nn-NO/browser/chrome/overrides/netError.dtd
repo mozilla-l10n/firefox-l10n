@@ -144,6 +144,9 @@ mellombels, og du kan prøve på nytt seinare.</li>
 <p>Desse typene av nettsvindel er brukte i såkalte phishing-åtak, der forfalska nettsider og e-post imiterer kjelder du stolar på.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å verte vist på denne måten fordi nettsidaa har ein tryggingsregel som hindra det.</p>">
+
 <!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">

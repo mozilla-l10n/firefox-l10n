@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion               "versjon">
 <!ENTITY closeCmdGNOME.label        "Lat att">  
 <!ENTITY closeCmdGNOME.accesskey    "L">
-<!ENTITY copyrightInfo1             "&#169;1998-2010 Bidragsytarar. Alle rettar med atterhald. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Lisensinformasjon">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkText            "Lisensinfo">
+<!ENTITY licenseLinkSuffix          ".">
