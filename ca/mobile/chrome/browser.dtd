@@ -27,11 +27,6 @@
 <!ENTITY editBookmarkTags.label    "Etiquetes:">
 <!ENTITY editBookmarkDone.label    "Fet">
 
-<!ENTITY helperApp.prompt          "Què voleu fer?">
-<!ENTITY helperApp.open            "Obrir-ho">
-<!ENTITY helperApp.save            "Tancar-ho">
-<!ENTITY helperApp.nothing         "Res">
-
 <!ENTITY formHelper.previous       "Anterior">
 <!ENTITY formHelper.next           "Següent">
 <!ENTITY formHelper.done           "Fet">
