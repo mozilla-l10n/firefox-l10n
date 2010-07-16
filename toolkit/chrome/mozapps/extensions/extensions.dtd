@@ -25,10 +25,10 @@
 <!ENTITY updates.noneFound.label              "Fant ingen oppdateringer">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Vis mer informasjon">
+<!ENTITY cmd.showDetails.label                "Vis detaljer">
 <!ENTITY cmd.showDetails.accesskey            "V">
-<!ENTITY cmd.findUpdates.label                "Finn oppdateringer">
-<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.findUpdates.label                "Søk etter oppdateringer">
+<!ENTITY cmd.findUpdates.accesskey            "S">
 <!ENTITY cmd.preferences.label                "Innstillinger">
 <!ENTITY cmd.preferences.accesskey            "I">
 <!ENTITY cmd.about.label                      "Om">
