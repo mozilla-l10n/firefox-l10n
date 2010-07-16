@@ -224,7 +224,7 @@
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Naar een website gaan">
 <!ENTITY urlbar.accesskey             "d">
-
+<!ENTITY urlbar.switchToTab.label     "Wisselen naar tabblad:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
