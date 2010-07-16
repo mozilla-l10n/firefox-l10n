@@ -1,0 +1,30 @@
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "Paràmetres">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Notifica'm quan">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Un estudi estigui llest per trametre">
+<!ENTITY testpilot.settings.newStudy.label          "Hi hagi un nou estudi">
+<!ENTITY testpilot.settings.hasNewResults.label     "Un estudi tingui resultats nous">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Trame't les meves dades automàticament (no m'ho demanis)">
+<!ENTITY testpilot.allStudies.label                 "Tots els vostres estudis d'usuari">
+<!ENTITY testpilot.about.label                      "Quant al Test Pilot">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Els vostres estudis del Test Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Estudis actuals">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Estudis finalitzats">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Troballes de l'estudi">
+<!ENTITY testpilot.studiesWindow.settings.label         "Paràmetres">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "S'està carregant, espereu…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Dades crues">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Tanca">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Activa els estudis d'usuari">
+<!ENTITY testpilot.feedbackbutton.label                "Opinió">
+<!ENTITY testpilot.happy.label        "M'ha agradat el Firefox perquè…">
+<!ENTITY testpilot.sad.label          "No m'ha agradat el Firefox perquè…">

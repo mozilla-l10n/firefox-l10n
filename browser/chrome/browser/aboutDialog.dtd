@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion "versió">
 <!ENTITY closeCmdGNOME.label        "Tanca">  
 <!ENTITY closeCmdGNOME.accesskey    "c">
-<!ENTITY copyrightInfo1             "&#169;1998-2010 Els coŀlaboradors. Tots els drets reservats. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Quant a la llicència">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkText            "Informació de la llicència">
+<!ENTITY licenseLinkSuffix          ".">
