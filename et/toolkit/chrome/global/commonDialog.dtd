@@ -2,7 +2,6 @@
 <!ENTITY message.label          "Siia mingi näidistekst.">
 <!ENTITY editfield0.label       "Kasutajanimi:">
 <!ENTITY editfield1.label       "Parool:">
-<!ENTITY editfield2.label       "Korda parooli:">
 <!ENTITY checkbox.label         "linnuke">
 <!ENTITY copyCmd.label          "Kopeeri">
 <!ENTITY copyCmd.accesskey      "K">
