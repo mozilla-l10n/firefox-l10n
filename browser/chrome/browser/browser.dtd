@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "e">
 <!ENTITY  openTabInNewWindow.label           "Openen in een nieuw venster">
 <!ENTITY  openTabInNewWindow.accesskey       "w">
+<!ENTITY  pinTab.label                       "Verander naar app tabbladen">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Verander naar normale tabbladen">
+<!ENTITY  unpinTab.accesskey                 "o">
 <!ENTITY  bookmarkThisTab.label              "Bladwijzer voor dit tabblad maken">
 <!ENTITY  bookmarkThisTab.accesskey          "m">
 <!ENTITY  bookmarkAllTabs.label              "Bladwijzer voor alle tabbladen maken…">
