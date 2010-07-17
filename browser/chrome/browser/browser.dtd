@@ -179,6 +179,16 @@
 <!ENTITY inspectMenu.accesskey        "n">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "Inspeccionar">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Siguiente">
+<!ENTITY inspectNextButton.accesskey  "n">
+<!ENTITY inspectPreviousButton.label  "Anterior">
+<!ENTITY inspectPreviousButton.accesskey "A">
+<!ENTITY inspectStyleButton.label     "Estilo">
+<!ENTITY inspectStyleButton.accesskey "s">
+<!ENTITY inspectStylePanelTitle.label  "Estilo">
+
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">

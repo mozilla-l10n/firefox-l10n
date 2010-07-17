@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
-<!ENTITY aboutSupport.appBasicsPlugins "Plugins instalados">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de build">
 
 <!ENTITY aboutSupport.show.label "Abrir carpeta contenedora">
