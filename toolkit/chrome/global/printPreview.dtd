@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Første side">
 <!ENTITY endarrow.tooltip     "Siste side">
-<!ENTITY rightarrow.tooltip   "Neste side">
-<!ENTITY leftarrow.tooltip    "Førre side">
+<!ENTITY nextarrow.tooltip    "Neste side">
+<!ENTITY previousarrow.tooltip "Førre side">

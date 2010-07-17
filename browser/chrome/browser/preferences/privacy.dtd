@@ -57,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "slette all historikk">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Automatisk start &brandShortName; i ei privat nettlesingsøkt">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Permanent privat nettlesing-modus">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Hugs nettlesarhistorikk i minst">
-<!ENTITY  rememberHistory.pre.accesskey  "H">
-<!ENTITY  rememberHistory.post.label     "dagar">
+<!ENTITY  rememberHistory.label      "Hugs nettlesarhistorikk">
+<!ENTITY  rememberHistory.accesskey  "H">
 
 <!ENTITY  rememberDownload.label         "Hugs nedlasta historikk">
 <!ENTITY  rememberDownload.accesskey     "u">

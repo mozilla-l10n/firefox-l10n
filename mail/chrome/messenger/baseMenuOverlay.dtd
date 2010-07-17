@@ -5,8 +5,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hjelp">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY releaseCmd.label "Utgjevingsmerknader">
-<!ENTITY releaseCmd.accesskey "U">
+<!ENTITY releaseCmd.label "Versjonsnotat">
+<!ENTITY releaseCmd.accesskey "V">
 <!ENTITY whatsNewCmd.label "Kva er nytt">
 <!ENTITY whatsNewCmd.accesskey "K">
 <!ENTITY featureConfiguratorCmd.label "Migrasjonsassistent">

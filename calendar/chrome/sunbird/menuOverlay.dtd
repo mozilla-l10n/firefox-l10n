@@ -155,8 +155,8 @@
 <!ENTITY viewMenu.label                                    "Vis">
 <!ENTITY viewMenu.accesskey                                "V">
 
-<!ENTITY releaseCmd.label                                  "Utgjevingsmerknader">
-<!ENTITY releaseCmd.accesskey                              "U">
+<!ENTITY releaseCmd.label                                  "Versjonsnotat">
+<!ENTITY releaseCmd.accesskey                              "V">
 
 <!ENTITY aboutCmd.label                                    "Om &brandFullName;">
 <!ENTITY aboutCmd.accesskey                                "O">

@@ -131,9 +131,12 @@ mellombels, og du kan prøve på nytt seinare.</li>
 <p>Desse typene av nettsvindel er brukte i såkalte «phishing-åtak», der forfalska nettsider og e-post imiterer kjelder du stolar på.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindra denne nettstaden frå å lastast inn på denne måten fordi sida har ei tryggingsavgrensing som hindrar det.</p>">
+
 <!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">
-<!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">
+<!ENTITY securityOverride.exceptionButtonLabel "Lag eit unntak …">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

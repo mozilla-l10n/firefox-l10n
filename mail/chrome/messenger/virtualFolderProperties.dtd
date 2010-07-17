@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Søk på ekstern tenar kvar gong (gjer at det tek lengre tid å opne mappa).">
 <!ENTITY searchOnline.accesskey "t">
+<!ENTITY newFolderButton.label       "Opprett">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Oppdater">
+<!ENTITY editFolderButton.accesskey  "d">
