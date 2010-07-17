@@ -157,7 +157,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
-<!ENTITY addons.tooltip               "Geïnstalleerde add-ons tonen en beheren">
 <!ENTITY addons.accesskey             "a">
 
 <!ENTITY errorConsoleCmd.label        "Foutconsole">
