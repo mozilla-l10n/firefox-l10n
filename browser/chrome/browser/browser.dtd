@@ -169,6 +169,16 @@
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "Inspecteren">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Volgende">
+<!ENTITY inspectNextButton.accesskey  "V">
+<!ENTITY inspectPreviousButton.label  "Vorige">
+<!ENTITY inspectPreviousButton.accesskey "r">
+<!ENTITY inspectStyleButton.label     "Stijl">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Stijl">
+
 <!ENTITY hudConsoleCmd.label          "Heads Up-weergave">
 <!ENTITY hudConsoleCmd.accesskey      "U">
 <!ENTITY hudConsoleCmd.commandkey     "k">
