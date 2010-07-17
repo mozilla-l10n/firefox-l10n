@@ -16,8 +16,6 @@
 <!ENTITY reload.accesskey "e">
 <!ENTITY ftp.label "FTP 프록시:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher 프록시:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP 프록시:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "SSL 프록시:">
@@ -30,7 +28,6 @@
 <!ENTITY socks5.accesskey "v">
 <!ENTITY port.label "포트:">
 <!ENTITY HTTPport.accesskey "P">
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
 <!ENTITY SOCKSport.accesskey "t">

@@ -92,6 +92,12 @@
 <!ENTITY bookmarksButton.tooltip "북마크 표시">
 <!ENTITY bookmarksButton.accesskey	"B">
 <!ENTITY bookmarksCmd.commandkey	"b">
+
+<!ENTITY bookmarksMenuButton.label          "북마크">
+<!ENTITY bookmarksMenuButton.tooltip        "북마크에 표시">
+<!ENTITY viewBookmarksSidebar.label         "사이드바에 표시">
+<!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
+
 <!ENTITY bookmarksGtkCmd.commandkey	"o">
 <!ENTITY bookmarksWinCmd.commandkey	"i">
 <!ENTITY historyButton.label "방문 기록">
@@ -145,6 +151,12 @@
 <!--tabbrowsing -->
 <!ENTITY bookmarkAllTabs.label "전체 탭 북마크 하기…">
 <!ENTITY bookmarkAllTabs.accesskey "T">
+
+<!ENTITY  pinTab.label                       "앱 탭으로 만들기">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "일반 탭으로 만들기">
+<!ENTITY  unpinTab.accesskey                 "k">
+
 <!ENTITY bookmarkThisTab.label "현재 탭 북마크 하기">
 <!ENTITY bookmarkThisTab.accesskey "B">
 <!ENTITY closeTab.label  "탭 닫기">
@@ -182,12 +194,11 @@
 <!ENTITY viewTabsOnTop.label            "탭 항상 위로">
 <!ENTITY viewTabsOnTop.accesskey        "T">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "북마크 및 방문 기록 검색">
-<!ENTITY urlbar.bookmark.emptyText    "북마크 검색">
-<!ENTITY urlbar.history.emptyText     "방문 기록 검색">
-<!ENTITY urlbar.none.emptyText        "웹 주소 입력">
+
+<!ENTITY urlbar.placeholder           "웹 사이트로 가기">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "탭 전환:">
+
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -338,9 +349,18 @@
 
 <!ENTITY addons.label "부가 기능">
 <!ENTITY addons.accesskey "A">
+
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "자바스크립트 콘솔">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "문서 검사">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY historyMenu.label "이동">
 <!ENTITY historyMenu.accesskey "s">
@@ -349,6 +369,13 @@
 <!ENTITY historyHomeCmd.label "홈 페이지">
 <!ENTITY showAllHistoryCmd2.label "방문 기록 보기">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuPrintCmd.label "인쇄">
+<!ENTITY appMenuCustomize.label "사용자 설정">
+<!ENTITY appMenuToolbarLayout.label "도구 모음 배치…">
+<!ENTITY appMenuSidebars.label "사이드바">
+<!ENTITY appMenuHelp.label "도움말">
+
 <!ENTITY savePageCmd.accesskey2 "P">
 <!ENTITY quitApplicationCmdMac.label "&brandShortName; 종료">
 <!ENTITY quitApplicationCmdMac.key "Q">
@@ -404,3 +431,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "다운로드 창 열기 선택">
 <!ENTITY allTabs.filter.emptyText		"탭 검색">
 
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "브라우저 탭">

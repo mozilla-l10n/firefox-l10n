@@ -1,4 +1,5 @@
 <!ENTITY brandShortName "Firefox">
 <!ENTITY brandFullName "Mozilla Firefox">
 <!ENTITY vendorShortName "Mozilla">
-<!ENTITY logoTrademark " Firefox와 Firefox 로고는 Mozilla Foundation이 상표권을 가지고 있습니다.">
+<!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
+<!ENTITY  trademarkInfo         " Firefox와 Firefox 로고는 Mozilla 재단의 상표권입니다. 일부 권한은 Charlton Company의 라이센스하에서 제공합니다.">
