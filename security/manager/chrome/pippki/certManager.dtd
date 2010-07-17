@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins                 "Sissehitatud SK-d">
 <!ENTITY certmgr.ca.mycas                    "Sinu hallatavad SK-d">
 
-<!ENTITY certmgr.mine.search                 "Otsi:">
-<!ENTITY certmgr.others.search               "Otsi:">
-<!ENTITY certmgr.websites.search             "Otsi:">
-<!ENTITY certmgr.cas.search                  "Otsi:">
-<!ENTITY certmgr.orphans.search              "Otsi:">
-
-<!ENTITY certmgr.mine.description            "Sul on sind identifitseerivaid sertifikaate järgnevatelt asutustelt:">
-<!ENTITY certmgr.others.description          "Sul on sertifikaate failis, mis identifitseerib järgnevaid inimesi:">
-<!ENTITY certmgr.websites.description        "Sul on sertifikaate failis, mis identifitseerib järgnevaid servereid:">
-<!ENTITY certmgr.cas.description             "Sul on sertifikaate failis, mis identifitseerib järgnevaid sertifitseerimiskeskusi:">
-<!ENTITY certmgr.orphans.description         "Sul on sertifikaate failis, mis ei sobitu teistesse kategooriatesse:">
-
-<!ENTITY certmgr.mine.filtered               "Sobivad sertifikaadid sind identifitseerivatelt asutustelt:">
-<!ENTITY certmgr.others.filtered             "Sobivad sertifikaadid failist, mis identifitseerib järgnevaid inimesi:">
-<!ENTITY certmgr.websites.filtered           "Sobivad sertifikaadid failist, mis identifitseerib järgnevaid servereid:">
-<!ENTITY certmgr.cas.filtered                "Sobivad sertifikaadid failist, mis identifitseerib järgnevaid sertifitseerimiskeskusi:">
-<!ENTITY certmgr.orphans.filtered            "Sobivad sertifikaadid failist, mis ei kuulu teistesse kategooriatesse:">
+<!ENTITY certmgr.mine                        "Sul on sind identifitseerivaid sertifikaate järgnevatelt asutustelt:">
+<!ENTITY certmgr.others                      "Sul on sertifikaate failis, mis identifitseerib järgnevaid inimesi:">
+<!ENTITY certmgr.websites2                   "Sul on sertifikaate failis, mis identifitseerib järgnevaid servereid:">
+<!ENTITY certmgr.cas                         "Sul on sertifikaate failis, mis identifitseerib järgnevaid sertifitseerimiskeskusi:">
+<!ENTITY certmgr.orphans                     "Sul on sertifikaate failis, mis ei sobitu teistesse kategooriatesse:">
 
 <!ENTITY certmgr.detail.general_tab.title    "Üldine">
 <!ENTITY certmgr.detail.general_tab.accesskey "l">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey             "S">
 <!ENTITY certmgr.view2.label                 "Vaata...">
 <!ENTITY certmgr.view2.accesskey             "V">
-<!ENTITY certmgr.edit2.label                 "Redigeeri...">
-<!ENTITY certmgr.edit2.accesskey             "R">
+<!ENTITY certmgr.edit3.label                 "Redigeeri usaldusväärsust...">
+<!ENTITY certmgr.edit3.accesskey             "R">
 <!ENTITY certmgr.editca.label                "Redigeeri SK usaldusväärsust">
 <!ENTITY certmgr.editca.accesskey            "d">
 <!ENTITY certmgr.add.label                   "Lisa">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey            "o">
 <!ENTITY certmgr.delete2.label               "Kustuta...">
 <!ENTITY certmgr.delete2.accesskey           "K">
+<!ENTITY certmgr.delete_builtin.label        "Kustuta või eemalda usaldusväärsus…">
+<!ENTITY certmgr.delete_builtin.accesskey    "u">
 <!ENTITY certmgr.backup2.label               "Varunda...">
 <!ENTITY certmgr.backup2.accesskey           "u">
 <!ENTITY certmgr.backupall2.label            "Varunda kõik">
