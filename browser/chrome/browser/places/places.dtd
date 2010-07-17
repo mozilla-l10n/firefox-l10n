@@ -3,7 +3,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Organizar">
 <!ENTITY organize.accesskey "O">
-<!ENTITY organize.tooltip "Organize sus marcadores">
+<!ENTITY organize.tooltip "Organice sus marcadores">
 <!ENTITY file.accesskey "A">
 <!ENTITY file.close.label "Cerrar">
 <!ENTITY file.close.accesskey "C">
