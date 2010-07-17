@@ -22,6 +22,11 @@
 <!ENTITY closeOtherTabs.label "Fermer les autres onglets">
 <!ENTITY openTabInNewWindow.label "Ouvrir dans une nouvelle fenêtre">
 <!ENTITY openTabInNewWindow.accesskey "O">
+<!ENTITY pinTab.label "Fixer l'onglet">
+<!ENTITY pinTab.accesskey "F">
+<!ENTITY unpinTab.label "Relâcher l'onglet">
+<!ENTITY unpinTab.accesskey "R">
+
 <!ENTITY bookmarkAllTabs.label "Marquer tous les onglets…">
 <!ENTITY bookmarkAllTabs.accesskey "u">
 <!ENTITY bookmarkThisTab.label "Marquer cet onglet">
@@ -31,7 +36,7 @@
 <!ENTITY closeTab.label "Fermer l'onglet">
 <!ENTITY closeTab.accesskey "F">
 
-<!ENTITY  listAllTabs.label "Lister tous les onglets">
+<!ENTITY listAllTabs.label "Lister tous les onglets">
 
 <!ENTITY tabCmd.label "Nouvel onglet">
 <!ENTITY tabCmd.accesskey "T">
