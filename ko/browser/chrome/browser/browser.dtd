@@ -279,7 +279,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "오디오 주소 복사">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY copyEmailCmd.label "메일 주소 복사">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "현재 프레임">
@@ -361,6 +360,16 @@
 <!ENTITY inspectMenu.label            "문서 검사">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "문서 검사">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "다음">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "이전">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "스타일">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "스타일">
 
 <!ENTITY historyMenu.label "이동">
 <!ENTITY historyMenu.accesskey "s">

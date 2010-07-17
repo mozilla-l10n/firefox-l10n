@@ -3,6 +3,8 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "관리하기">
 <!ENTITY organize.accesskey "O">
+<!ENTITY organize.tooltip  "북마크 관리">
+
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "닫기">
 <!ENTITY file.close.accesskey "C">
@@ -11,6 +13,8 @@
 <!ENTITY edit.accesskey "E">
 <!ENTITY views.label "보기">
 <!ENTITY views.accesskey "V">
+<!ENTITY views.tooltip  "보기 형식 변경">
+
 <!ENTITY view.columns.label "항목 보기">
 <!ENTITY view.columns.accesskey "C">
 <!ENTITY view.sort.label "정렬하기">
@@ -92,8 +96,11 @@
 <!ENTITY saveSearch.label "저장">
 <!ENTITY saveSearch.accesskey "S">
 <!ENTITY cmd.find.key "f">
+
 <!ENTITY maintenance.label "가져오기 및 복구">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "북마크 가져오기 및 백업">
+
 <!ENTITY backCmd.label "뒤로">
 <!ENTITY backButton.tooltip "뒤로 가기">
 <!ENTITY forwardCmd.label "앞으로">
