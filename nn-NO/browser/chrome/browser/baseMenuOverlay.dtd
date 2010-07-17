@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimer">
 <!ENTITY bringAllToFront.label    "Send alle til framgrunnen">
-<!ENTITY zoomWindow.label         "Forstørring">
+<!ENTITY zoomWindow.label         "Forstørr">
 <!ENTITY windowMenu.label         "Vindauge">
 
 <!ENTITY helpMenu.label           "Hjelp"> 
@@ -10,20 +10,19 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Hjelp"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "Om &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "O">
+<!ENTITY aboutProduct.label       "Om &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Innhald">
 <!ENTITY productHelp.accesskey    "I">
 <!ENTITY helpForIEUsers.label     "For brukarar av Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "F">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label         "Utgjevingsmerknader">
-<!ENTITY helpReleaseNotes.accesskey     "U">
+<!ENTITY helpReleaseNotes.label         "Versjonsnotat">
+<!ENTITY helpReleaseNotes.accesskey     "V">
 
-<!ENTITY helpTroubleshooting.label      "Feilsøkingsinformasjon …">
-<!ENTITY helpTroubleshooting.accesskey  "F">
+<!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
+<!ENTITY helpTroubleshootingInfo.accesskey  "e">
 
 <!ENTITY updateCmd.label                "Sjå etter oppdateringar …">
 

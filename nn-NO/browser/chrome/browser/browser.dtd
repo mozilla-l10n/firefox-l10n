@@ -11,6 +11,32 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Ny fane">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "Oppdater fane">
+<!ENTITY  reloadTab.accesskey                "O">
+<!ENTITY  reloadAllTabs.label                "Oppdater alle fanene">
+<!ENTITY  reloadAllTabs.accesskey            "d">
+<!ENTITY  closeOtherTabs.label               "Lat att andre faner">
+<!ENTITY  closeOtherTabs.accesskey           "a">
+<!ENTITY  openTabInNewWindow.label           "Opne i eit nytt vindauge">
+<!ENTITY  openTabInNewWindow.accesskey       "e">
+<!ENTITY  pinTab.label                       "Gjer om til applikasjonsfane">
+<!ENTITY  pinTab.accesskey                   "G">
+<!ENTITY  unpinTab.label                     "Gjer om til vanleg fane">
+<!ENTITY  unpinTab.accesskey                 "G">
+<!ENTITY  bookmarkThisTab.label              "Bokmerk denne fana">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "Bokmerk alle fanene …">
+<!ENTITY  bookmarkAllTabs.accesskey          "o">
+<!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
+<!ENTITY  undoCloseTab.accesskey             "A">
+<!ENTITY  closeTab.label                     "Lat att fane">
+<!ENTITY  closeTab.accesskey                 "L">
+
+<!ENTITY  listAllTabs.label      "Vi sliste over alle fanene">
+
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
@@ -107,6 +133,12 @@
 <!ENTITY bookmarksButton.tooltip        "Vis bokmerka dine">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bokmerke">
+<!ENTITY bookmarksMenuButton.tooltip        "Vis mine bokmerke">
+<!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
+<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -131,12 +163,19 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Utvidingar">
-<!ENTITY addons.tooltip               "Vis og handsam installerte utvidingar">
 <!ENTITY addons.accesskey             "U">
 
 <!ENTITY errorConsoleCmd.label        "Feillogg">
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "Konsoll">
+<!ENTITY hudConsoleCmd.accesskey      "K">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Inspiser">
+<!ENTITY inspectMenu.accesskey        "r">
+<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -172,8 +211,8 @@
 <!ENTITY preferencesCmdUnix.label       "Innstillingar">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Slett nyleg historikk">
-<!ENTITY clearRecentHistoryCmd.accesskey        "e">
+<!ENTITY clearRecentHistory.label               "Slett nyleg historikk …">
+<!ENTITY clearRecentHistory.accesskey           "e">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Start privat nettlesing">
@@ -190,6 +229,8 @@
 <!ENTITY viewSidebarMenu.accesskey "d">
 <!ENTITY viewCustomizeToolbar.label       "Tilpass …"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
+<!ENTITY viewTabsOnTop.label            "Faner øvst">
+<!ENTITY viewTabsOnTop.accesskey        "F">
 
 <!ENTITY historyMenu.label "Historikk">
 <!ENTITY historyMenu.accesskey "s">
@@ -201,18 +242,22 @@
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Skriv ut">
+<!ENTITY appMenuCustomize.label "Tilpass">
+<!ENTITY appMenuToolbarLayout.label "Verktøylinjeutsjånad …">
+<!ENTITY appMenuSidebars.label "Sidestolpar">
+<!ENTITY appMenuHelp.label "Help">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Søk i bokmerke og historikk">
-<!ENTITY urlbar.bookmark.emptyText    "Søk i bokmerke">
-<!ENTITY urlbar.history.emptyText     "Søk i historikk">
-<!ENTITY urlbar.none.emptyText        "Skriv inn nettadresse">
+<!ENTITY urlbar.placeholder           "Gå til ein nettstad">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Byt til fane:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -227,7 +272,7 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
@@ -235,6 +280,8 @@
 
 <!ENTITY openLinkCmd.label            "Opne lenkja i eit nytt vindauge">
 <!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmdInCurrent.label     "Opne lenkje">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "Opne lenkja i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openFrameCmd.label           "Opne ramma i eit nytt vindauge">
@@ -306,8 +353,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Kopier lenkjeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyLinkTextCmd.label        "Kopier lenkjetekst">
-<!ENTITY copyLinkTextCmd.accesskey    "r">
 <!ENTITY copyImageCmd.label           "Kopier biletadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilete">
@@ -316,7 +361,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "r">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne ramma">
@@ -335,6 +379,8 @@
 <!ENTITY mediaShowControls.accesskey "V">
 <!ENTITY mediaHideControls.label     "Skjul kontrollar">
 <!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY videoFullScreen.label       "Fullskjerm">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 
 <!-- LOCALIZATION NOTE :
@@ -449,3 +495,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Trykk for å opne nedlastingsvindauget">
 
 <!ENTITY allTabs.filter.emptyText "Søkjefaner">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Nettlesarfaner">
