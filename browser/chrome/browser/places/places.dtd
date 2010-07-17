@@ -4,6 +4,7 @@
 <!ENTITY places.library.height          "500">
 <!ENTITY organize.label                 "Ordna">
 <!ENTITY organize.accesskey             "O">
+<!ENTITY organize.tooltip               "Ordna dina bokmärken">
 
 <!ENTITY file.accesskey                 "A">
 <!ENTITY file.close.label               "Stäng">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "R">
 <!ENTITY views.label                    "Vyer">
 <!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Byt vy">
 <!ENTITY view.columns.label             "Visa kolumner">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Sortera">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Importera och säkerhetskopiera">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importera och säkerhetskopiera bokmärken">
 
 <!ENTITY backCmd.label       "Bakåt">
 <!ENTITY backButton.tooltip  "Gå bakåt">
