@@ -16,7 +16,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nom">
 <!ENTITY aboutSupport.appBasicsVersion "Versió">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directori del perfil">
-<!ENTITY aboutSupport.appBasicsPlugins "Connectors instal·lats">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Connectors habilitats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuració de la versió">
 
 <!ENTITY aboutSupport.show.label "Obre la carpeta on es troba">
