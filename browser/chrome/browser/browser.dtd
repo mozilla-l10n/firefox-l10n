@@ -12,10 +12,10 @@
 <!ENTITY closeOtherTabs.accesskey "д">
 <!ENTITY openTabInNewWindow.label "Открыть в новом окне">
 <!ENTITY openTabInNewWindow.accesskey "т">
-<!ENTITY pinTab.label "Сделать вкладкой приложения">
-<!ENTITY pinTab.accesskey "п">
-<!ENTITY unpinTab.label "Сделать обычной вкладкой">
-<!ENTITY unpinTab.accesskey "о">
+<!ENTITY pinTab.label "Закрепить вкладку">
+<!ENTITY pinTab.accesskey "р">
+<!ENTITY unpinTab.label "Открепить вкладку">
+<!ENTITY unpinTab.accesskey "т">
 <!ENTITY bookmarkThisTab.label "Добавить эту вкладку в закладки">
 <!ENTITY bookmarkThisTab.accesskey "б">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
