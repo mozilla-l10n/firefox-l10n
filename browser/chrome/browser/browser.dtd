@@ -30,13 +30,13 @@
 <!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "오프라인으로 작업">
 <!ENTITY goOfflineCmd.accesskey "w">
-<!ENTITY menubarCmd.label		"도구 모음">
+<!ENTITY menubarCmd.label		"메뉴 모음">
 <!ENTITY menubarCmd.accesskey		"M">
-<!ENTITY navbarCmd.label "표준 도구 모음">
+<!ENTITY navbarCmd.label "주소창 모음">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "북마크 도구 모음">
+<!ENTITY personalbarCmd.label "북마크 모음">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "북마크 도구 모음 항목">
+<!ENTITY bookmarksToolbarItem.label "북마크 모음 항목">
 <!ENTITY taskbarCmd.label "상태 표시줄">
 <!ENTITY taskbarCmd.accesskey "B">
 <!ENTITY pageSourceCmd.label "소스 보기">
@@ -95,7 +95,7 @@
 
 <!ENTITY bookmarksMenuButton.label          "북마크">
 <!ENTITY bookmarksMenuButton.tooltip        "북마크에 표시">
-<!ENTITY viewBookmarksSidebar.label         "사이드바에 표시">
+<!ENTITY viewBookmarksSidebar.label         "탐색창에 표시">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
 
 <!ENTITY bookmarksGtkCmd.commandkey	"o">
@@ -187,7 +187,7 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY viewSidebarMenu.label "탐색 창">
+<!ENTITY viewSidebarMenu.label "탐색창">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey "C">
@@ -382,7 +382,7 @@
 <!ENTITY appMenuPrintCmd.label "인쇄">
 <!ENTITY appMenuCustomize.label "사용자 설정">
 <!ENTITY appMenuToolbarLayout.label "도구 모음 배치…">
-<!ENTITY appMenuSidebars.label "사이드바">
+<!ENTITY appMenuSidebars.label "탐색 창">
 <!ENTITY appMenuHelp.label "도움말">
 
 <!ENTITY savePageCmd.accesskey2 "P">
