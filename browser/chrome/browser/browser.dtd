@@ -31,6 +31,8 @@
 <!ENTITY  closeTab.label                     "Tabblad sluiten">
 <!ENTITY  closeTab.accesskey                 "s">
 
+<!ENTITY listAllTabs.label          "Alle tabbladtitels weergeven">
+
 <!ENTITY tabCmd.label "Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
