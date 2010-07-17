@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.appBasicsName "Имя">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
 <!ENTITY aboutSupport.appBasicsProfileDir "Папка профиля">
-<!ENTITY aboutSupport.appBasicsPlugins "Установленные плагины">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Включённые плагины">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурация сборки">
 <!ENTITY aboutSupport.show.label "Открыть его папку">
 <!ENTITY aboutSupport.showMac.label "Показать в Finder">
