@@ -108,7 +108,7 @@
 <!ENTITY certmgr.edit3.label "Cuir Muinín in Eagar…">
 <!ENTITY certmgr.edit3.accesskey "M">
 <!ENTITY certmgr.editca.label "Cuir Muinín na nÚdarás Deimhniúcháin in Eagar">
-<!ENTITY certmgr.editca.accesskey "d">
+<!ENTITY certmgr.editca.accesskey "D">
 <!ENTITY certmgr.add.label "Cuir Leis">
 <!ENTITY certmgr.add.accesskey "L">
 <!ENTITY certmgr.export.label "Easpórtáil…">
@@ -128,7 +128,7 @@
 <!ENTITY certmgr.fields.label "Luach Réimse">
 <!ENTITY certmgr.fields.accesskey "L">
 <!ENTITY certmgr.hierarchy.label "Ordlathas Teastais">
-<!ENTITY certmgr.hierarchy.accesskey "R">
+<!ENTITY certmgr.hierarchy.accesskey "r">
 <!ENTITY certmgr.addException.label "Cuir Eisceacht Leis…">
 <!ENTITY certmgr.addException.accesskey "s">
 
