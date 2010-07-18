@@ -48,7 +48,7 @@
 <!ENTITY devmgr.button.login.label "Logáil Isteach">
 <!ENTITY devmgr.button.login.accesskey "g">
 <!ENTITY devmgr.button.logout.label "Logáil Amach">
-<!ENTITY devmgr.button.logout.accesskey "M">
+<!ENTITY devmgr.button.logout.accesskey "m">
 <!ENTITY devmgr.button.changepw.label "Athraigh an Focal Faire">
 <!ENTITY devmgr.button.changepw.accesskey "F">
 <!ENTITY devmgr.button.load.label "Luchtaigh">

@@ -45,9 +45,9 @@
 <!ENTITY validation.deletecrl.label "Scrios">
 <!ENTITY validation.deletecrl.accesskey "S">
 <!ENTITY validation.updatecrl.label "Nuashonraigh">
-<!ENTITY validation.updatecrl.accesskey "U">
+<!ENTITY validation.updatecrl.accesskey "u">
 <!ENTITY validation.advanced.label "Socruithe">
-<!ENTITY validation.advanced.accesskey "R">
+<!ENTITY validation.advanced.accesskey "r">
 
 <!ENTITY validation.crl.autoupdate.title "Sainroghanna do Nuashonrú Uathoibríoch LTC">
 <!ENTITY validation.crl.autoupdate.enable.label "Cumasaigh Nuashonrú Uathoibríoch don LTC seo">
