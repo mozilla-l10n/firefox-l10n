@@ -3,6 +3,7 @@
 <!ENTITY places.library.height "520">
 <!ENTITY organize.label "Уладкаваць">
 <!ENTITY organize.accesskey "У">
+<!ENTITY organize.tooltip "Упарадкаваць вашы закладкі">
 <!ENTITY file.accesskey "Ф">
 <!ENTITY file.close.label "Зачыніць">
 <!ENTITY file.close.accesskey "ч">
@@ -11,6 +12,7 @@
 <!ENTITY edit.accesskey "П">
 <!ENTITY views.label "Выгляд">
 <!ENTITY views.accesskey "В">
+<!ENTITY views.tooltip "Змяніць праяву">
 <!ENTITY view.columns.label "Паказаць слупкі">
 <!ENTITY view.columns.accesskey "с">
 <!ENTITY view.sort.label "Размеркаваць">
@@ -91,6 +93,7 @@
 <!ENTITY cmd.find.key "f">
 <!ENTITY maintenance.label "Імпарт і адноўка">
 <!ENTITY maintenance.accesskey "І">
+<!ENTITY maintenance.tooltip "Імпарт і адноўка вашых закладак">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backButton.tooltip "Вярнуцца назад">
 <!ENTITY forwardCmd.label "Наперад">

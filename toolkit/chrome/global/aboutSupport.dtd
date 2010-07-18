@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 <!ENTITY aboutSupport.appBasicsProfileDir "Дырэкторыя профілю">
-<!ENTITY aboutSupport.appBasicsPlugins "Усталяваныя ўбудовы">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
 <!ENTITY aboutSupport.show.label "Адкрыць змяшчальную папку">
 <!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
