@@ -99,9 +99,9 @@
 <!ENTITY  permInstall           "Installer utvidingar eller tema">
 <!ENTITY  permGeo               "Tillat vising av stad">
 
-<!ENTITY  securityTab           "Sikkerheit">
-<!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Sikkerheitsinformasjon for denne sida">
+<!ENTITY  securityTab           "Tryggleik">
+<!ENTITY  securityTab.accesskey "T">
+<!ENTITY  securityHeader        "Tryggingsinformasjon for denne sida">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjend">

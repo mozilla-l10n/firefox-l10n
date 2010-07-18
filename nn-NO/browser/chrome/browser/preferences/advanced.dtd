@@ -99,5 +99,5 @@
 <!ENTITY viewCRLs.accesskey              "T">
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "a">
-<!ENTITY viewSecurityDevices.label       "Sikkerheitseiningar">
+<!ENTITY viewSecurityDevices.label       "Tryggingseiningar">
 <!ENTITY viewSecurityDevices.accesskey   "k">

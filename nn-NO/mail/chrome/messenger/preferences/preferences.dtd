@@ -1,4 +1,3 @@
-
 <!ENTITY  prefWindow.titleWin     "Innstillingar">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Innstillingar">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
@@ -9,5 +8,5 @@
 <!ENTITY paneDisplay.title        "Vising">
 <!ENTITY paneComposition.title    "Skriving">
 <!ENTITY paneAttachments.title    "Vedlegg">
-<!ENTITY paneSecurity.title       "Sikkerheit">
+<!ENTITY paneSecurity.title       "Tryggleik">
 <!ENTITY paneAdvanced.title       "Avansert">

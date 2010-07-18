@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.appBasicsName "Namn">
 <!ENTITY aboutSupport.appBasicsVersion "Versjon">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
-<!ENTITY aboutSupport.appBasicsPlugins "Installerte programtillegg">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfigurasjon">
 
 <!ENTITY aboutSupport.show.label "Opne mappa med fila">

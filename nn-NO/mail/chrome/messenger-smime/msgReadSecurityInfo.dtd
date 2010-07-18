@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-<!ENTITY status.label "Meldingssikkerheit">
+<!ENTITY status.label "Meldingstryggleik">
 <!ENTITY signatureCert.label "Vis signatursertifikat">
 <!ENTITY encryptionCert.label "Vis krypteringssertifikat">
 

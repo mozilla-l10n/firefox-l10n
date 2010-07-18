@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
-<!ENTITY title.label "Meldingssikkerheit">
+<!ENTITY title.label "Meldingstryggleik">
 <!ENTITY subject.plaintextWarning "Merk: Emnelinjer i e-postmeldingar vert aldri krypterte.">
 <!ENTITY status.heading "Innhaldet i meldinga vil bli sendt på denne måten:">
 <!ENTITY status.signed "Digitalt signert:">

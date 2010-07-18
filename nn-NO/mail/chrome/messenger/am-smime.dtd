@@ -1,5 +1,5 @@
-<!ENTITY securityTitle.label "Sikkerheit">
-<!ENTITY securityTab.label "Sikkerheit">
+<!ENTITY securityTitle.label "Tryggleik">
+<!ENTITY securityTab.label "Tryggleik">
 <!ENTITY securityHeading.label "For å sende og ta i mot signerte eller krypterte meldingar, bør du leggje inn både eit digitalt signatursertifikat og eit krypteringssertifikat.">
 <!ENTITY encryptionGroupTitle.label "Kryptering">
 <!ENTITY encryptionChoiceLabel.label "Standard krypteringsval under sending av meldingar:">
@@ -24,5 +24,5 @@
 <!ENTITY certificates.label "Sertifikat">
 <!ENTITY manageCerts.label "Vis sertifikat">
 <!ENTITY manageCerts.accesskey "V">
-<!ENTITY manageDevices.label "Sikkerheitseiningar">
+<!ENTITY manageDevices.label "Tryggingseiningar">
 <!ENTITY manageDevices.accesskey "S">

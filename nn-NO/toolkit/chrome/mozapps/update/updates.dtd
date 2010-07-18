@@ -14,7 +14,7 @@
                                            slå på automatisk oppdateringssøk for &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Klarte ikkje å oppdatere">
-<!ENTITY  manualUpdate.desc               "Ei tilrådd sikkerheits- og stabilitetsoppdatering er tilgjengeleg, men 
+<!ENTITY  manualUpdate.desc               "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men 
                                      du har ikkje tilgangsrettane som er nødvendig for å installere henne. Kontakt
                                      systemansvarleg eller prøv på nytt frå ein brukarkonto som har tilgang til
                                      å installere programvare på denne datamaskina.">
@@ -59,7 +59,7 @@
 <!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du 
                                            kan starte &brandShortName; på nytt no, eller halde fram med å arbeide og starte på nytt seinare.">
 
-<!ENTITY  finishedBackgroundPage.text     "Ei sikkerheits- og stabilitetsoppdatering for &brandShortName; er
+<!ENTITY  finishedBackgroundPage.text     "Ei tryggings- og stabilitetsoppdatering for &brandShortName; er
                                            lasta ned og klar for installering.">
 <!ENTITY  finishedBackground.name         "Oppdatering:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->

@@ -1,4 +1,4 @@
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
-<!ENTITY menu_securityStatus.label "Sikkerheitsinfo for melding">
+<!ENTITY menu_securityStatus.label "Tryggingsinfo for melding">
 <!ENTITY menu_securityStatus.accesskey "i">

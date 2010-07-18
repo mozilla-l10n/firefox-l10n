@@ -6,11 +6,11 @@
 <!ENTITY menu_securitySign.label "Signer denne meldinga digitalt">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Vis sikkerheitsinfo">
+<!ENTITY menu_securityStatus.label "Vis tryggingsinfo">
 <!ENTITY menu_securityStatus.accesskey "V">
 
-<!ENTITY securityButton.label "Sikkerheit">
-<!ENTITY securityButton.tooltip "Vis eller endre sikkerheitsinnstillingane">
+<!ENTITY securityButton.label "Tryggleik">
+<!ENTITY securityButton.tooltip "Vis eller endre tryggingsinnstillingane">
 
-<!ENTITY menu_viewSecurityStatus.label "Sikkerheitsinfo for melding">
+<!ENTITY menu_viewSecurityStatus.label "Tryggingsinfo for melding">
 <!ENTITY menu_viewSecurityStatus.accesskey "i">

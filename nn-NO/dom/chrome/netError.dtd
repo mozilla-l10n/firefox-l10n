@@ -6,8 +6,8 @@
 <!ENTITY connectionFailure.title "Tilkoplingsfeil">
 <!ENTITY connectionFailure.longDesc "<p>Nettlesaren kunne ikkje kople til den oppgjevne nettstaden, sjølv om han finst.</p><ul><li>Kan det vere at tenesta er utilgjengeleg nett no? Prøv igjen seinare.</li><li>Kan du ikkje lese andre sider? Kontroller nettverkskoplinga til datamaskina di.</li><li>Er datamaskina di bak ein brannmur eller mellomtenar? Feil i innstillingar kan verke inn på nettlesinga.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Avrensa tilgang til port av Sikkerheitsårsaker">
-<!ENTITY deniedPortAccess.longDesc "<p>Den førespurde adressa spesifiserte ein port (t.d. <q>mozilla.org:80</q> for port 80 på mozilla.org) som normalt vert brukt til eit <em>anna</em> formål enn nettlesing. Nettlesaren har avbrote førespurnaden av sikkerheitsårsaker.</p>">
+<!ENTITY deniedPortAccess.title "Avrensa tilgang til port av tryggingsårsaker">
+<!ENTITY deniedPortAccess.longDesc "<p>Den førespurde adressa spesifiserte ein port (t.d. <q>mozilla.org:80</q> for port 80 på mozilla.org) som normalt vert brukt til eit <em>anna</em> formål enn nettlesing. Nettlesaren har avbrote førespurnaden av tryggingsårsaker.</p>">
 
 <!ENTITY dnsNotFound.title "Adressa vart ikkje funnen">
 <!ENTITY dnsNotFound.longDesc "<p>Nettlesaren kunne ikkje finne tenarverten for den oppgjevne adressa.</p><ul><li>Gjorde du ein feil under inntastinga av domenet? (t.d. <q><strong>ww</strong>.mozilla.org</q> i staden for <q><strong>www</strong>.mozilla.org</q>)</li><li>Er du sikker på at denne domeneadressa eksisterer? Registreringa har kanskje gått ut..</li><li>Klarer du ikkje å lese andre nettsider? Kontroller nettverksinnstillingane dine og DNS-tenarinnstillingane.</li></ul>">
@@ -67,6 +67,9 @@
 <!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
 <!ENTITY phishingBlocked.longDesc "<p>Å skrive inn personlege opplysningar på denne sida kan føre til identitetstjuveri eller annan snyting.</p> <p>Denne typen av nettforfalskingar er brukte i svindelopplegg kjende som phishing-åtak, der sviksame nettsider og e-postar er brukt til å imitere kjelder du vanlegvis stolar på.</p> 
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nettlesaren hindra denne sida frå å lastast inn på denne måten, fordi nettsida har ein tryggingsregel som forbyr det.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
