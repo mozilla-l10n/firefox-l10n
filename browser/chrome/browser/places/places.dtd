@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Ordenen">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Uw bladwijzers ordenen">
 
 <!ENTITY file.accesskey                 "B">
 <!ENTITY file.close.label               "Sluiten">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "w">
 <!ENTITY views.label                    "Weergaven">
 <!ENTITY views.accesskey                "W">
+<!ENTITY views.tooltip                  "Uw weergave veranderen">
 <!ENTITY view.columns.label             "Kolommen tonen">
 <!ENTITY view.columns.accesskey         "K">
 <!ENTITY view.sort.label                "Sorteren">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Importeren en reservekopie maken">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Uw bladwijzers importeren en reservekopie maken">
 
 <!ENTITY backCmd.label       "Terug">
 <!ENTITY backButton.tooltip  "Terug gaan">
