@@ -1,6 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Sikkerheitsinnstillingar">
+<!ENTITY securitySettings.label "Tryggingsinnstillingar">
 <!ENTITY serverSettings.label "Tenarinnstillingar">
 <!ENTITY serverType.label "Tenartype:">
 <!ENTITY serverName.label "Tenarnamn:">
@@ -18,7 +18,7 @@
 <!ENTITY biffStart.label "Sjå etter nye meldingar kvart">
 <!ENTITY biffStart.accesskey "r">
 <!ENTITY biffEnd.label "minutt">
-<!ENTITY connectionSecurity.label "Tilkoplingssikkerheit:">
+<!ENTITY connectionSecurity.label "Tilkoplingstryggleik:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Ingen">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, om tilgjengeleg">

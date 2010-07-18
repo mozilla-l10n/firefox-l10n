@@ -1,5 +1,5 @@
 <!ENTITY setPassword.title                 "Endre hovudpassord">
-<!ENTITY setPassword.tokenName.label       "Sikkerheitseining">
+<!ENTITY setPassword.tokenName.label       "Tryggingseining">
 <!ENTITY setPassword.oldPassword.label     "Gjeldande passord:">
 <!ENTITY setPassword.newPassword.label     "Nytt passord:">
 <!ENTITY setPassword.reenterPassword.label "Gjenta nytt passord:">

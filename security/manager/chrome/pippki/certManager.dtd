@@ -70,7 +70,7 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 fingeravtrykk">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 fingeravtrykk">
 
-<!ENTITY certmgr.editcert.title               "Endre innstillingar for sikkerheitssertifikat">
+<!ENTITY certmgr.editcert.title               "Endre innstillingar for tryggingssertifikat">
 <!ENTITY certmgr.editcacert.title             "Endre tiltru for CA-sertifikatet">
 <!ENTITY certmgr.editsslcert.title            "Endre tiltru for nettstadsertifikatet">
 <!ENTITY certmgr.editcert.edittrust           "Endre tiltru:">
@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Sertifikatnamn">
 <!ENTITY certmgr.certserver                   "Tenar">
-<!ENTITY certmgr.typesofoverrides             "Unntak">
 <!ENTITY certmgr.override_lifetime            "Levetid">
-<!ENTITY certmgr.tokenname                    "Sikkerheitseining">
-<!ENTITY certmgr.purpose                      "Føremål">
+<!ENTITY certmgr.tokenname                    "Tryggingseining">
 <!ENTITY certmgr.issued                       "Skrive ut">
 <!ENTITY certmgr.expires                      "Går ut">
 <!ENTITY certmgr.email                        "E-postadresse">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "L">
 <!ENTITY certmgr.view2.label                  "Vis …">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Endre …">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Rediger tiltro …">
+<!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Endre CA tiltru">
 <!ENTITY certmgr.editca.accesskey             "e">
 <!ENTITY certmgr.add.label                    "Legg til">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Slett …">
 <!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete_builtin.label         "Slett eller opphev tiltru …">
+<!ENTITY certmgr.delete_builtin.accesskey     "e">
 <!ENTITY certmgr.backup2.label                "Reservekopier …">
 <!ENTITY certmgr.backup2.accesskey            "R">
 <!ENTITY certmgr.backupall2.label             "Reservekopier alt …">
@@ -132,8 +132,8 @@
 <!ENTITY certmgr.addException.label           "Legg til unntak …">
 <!ENTITY certmgr.addException.accesskey       "e">
 
-<!ENTITY exceptionMgr.title                   "Legg til sikkerheitsunntak …">
-<!ENTITY exceptionMgr.exceptionButton         "Stadfest sikkerheitsunntak">
+<!ENTITY exceptionMgr.title                   "Legg til tryggingsunntak …">
+<!ENTITY exceptionMgr.exceptionButton         "Stadfest tryggingsunntak">
 <!ENTITY exceptionMgr.exceptionButtonAccess   "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Tenar">
