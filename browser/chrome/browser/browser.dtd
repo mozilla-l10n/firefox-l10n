@@ -35,7 +35,7 @@
 <!ENTITY  closeTab.label                     "Lat att fane">
 <!ENTITY  closeTab.accesskey                 "L">
 
-<!ENTITY  listAllTabs.label      "Vi sliste over alle fanene">
+<!ENTITY  listAllTabs.label      "Vis liste over alle fanene">
 
 <!ENTITY tabCmd.label "Ny fane">
 <!ENTITY tabCmd.accesskey "f">
@@ -47,7 +47,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
-<!ENTITY printPreviewCmd.label "Førehandsvis sida">
+<!ENTITY printPreviewCmd.label "Førehandsvis side">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
@@ -64,7 +64,7 @@
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bokmerke">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Element i verktøylinja for bokmerke">
+<!ENTITY bookmarksToolbarItem.label "Element i bokmerkelinje">
 <!ENTITY taskbarCmd.label "Statuslinje">
 <!ENTITY taskbarCmd.accesskey "a">
 
@@ -77,13 +77,13 @@
 <!ENTITY fullScreenCmd.label "Fullskjerm">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Vis alle faner">
+<!ENTITY showAllTabsCmd.label "Vis alle fanene">
 <!ENTITY showAllTabsCmd.accesskey "V">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Bygg opp att">
 <!ENTITY fullScreenClose.tooltip "Lat att">
-<!ENTITY fullScreenAutohide.label "Skjul verktøylinjer">
+<!ENTITY fullScreenAutohide.label "Skjul verktøylinjene">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
@@ -111,12 +111,12 @@
 <!ENTITY backForwardMenu.tooltip      "Nylege brukte sider">
 <!ENTITY reloadCmd.label              "Oppdater">
 <!ENTITY reloadCmd.accesskey          "O">
-<!ENTITY reloadButton.tooltip         "Oppdater denne sida">
+<!ENTITY reloadButton.tooltip         "Vis nyaste innhald i aktiv side">
 <!ENTITY stopCmd.label                "Stopp">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stopp lasting av denne sida">
-<!ENTITY goEndCap.tooltip             "Gå til adressa i adressefeltet">
+<!ENTITY goEndCap.tooltip             "Gå til adressa i adresselinja">
 <!ENTITY feedButton.tooltip           "Abonner på denne sida …">
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
@@ -127,7 +127,7 @@
 <!ENTITY bookmarksItem.title          "Bokmerke">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Startsida">
+<!ENTITY  homeButton.label            "Startside">
 
 <!ENTITY bookmarksButton.label          "Bokmerke">
 <!ENTITY bookmarksButton.tooltip        "Vis bokmerka dine">
@@ -135,7 +135,7 @@
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerke">
-<!ENTITY bookmarksMenuButton.tooltip        "Vis mine bokmerke">
+<!ENTITY bookmarksMenuButton.tooltip        "Vis bokmerka mine">
 <!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
@@ -176,6 +176,16 @@
 <!ENTITY inspectMenu.label            "Inspiser">
 <!ENTITY inspectMenu.accesskey        "r">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "Inspiser">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Neste">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Førre">
+<!ENTITY inspectPreviousButton.accesskey "F">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Stil">
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -240,7 +250,7 @@
 
 <!ENTITY historyHomeCmd.label "Heim">
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY appMenuPrintCmd.label "Skriv ut">
 <!ENTITY appMenuCustomize.label "Tilpass">
@@ -278,20 +288,20 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "Opne lenkja i eit nytt vindauge">
+<!ENTITY openLinkCmd.label            "Opne lenkje i nytt vindauge">
 <!ENTITY openLinkCmd.accesskey        "O">
 <!ENTITY openLinkCmdInCurrent.label     "Opne lenkje">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openLinkCmdInTab.label       "Opne lenkja i ny fane">
+<!ENTITY openLinkCmdInTab.label       "Opne lenkje i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
-<!ENTITY openFrameCmd.label           "Opne ramma i eit nytt vindauge">
+<!ENTITY openFrameCmd.label           "Opne ramme i nytt vindauge">
 <!ENTITY openFrameCmd.accesskey       "v">
-<!ENTITY openFrameCmdInTab.label      "Opne ramma i ny fane">
+<!ENTITY openFrameCmdInTab.label      "Opne ramme i ny fane">
 <!ENTITY openFrameCmdInTab.accesskey  "r">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis berre denne ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Oppdater ramma">
+<!ENTITY reloadFrameCmd.label         "Oppdater ramme">
 <!ENTITY reloadFrameCmd.accesskey     "O">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vis kjeldekode for vald tekst">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kjeldekode">
@@ -320,18 +330,18 @@
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke …">
 <!ENTITY bookmarkPageCmd2.accesskey   "L">
-<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk lenkje …">
+<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenkja …">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk ramme …">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "r">
+<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma …">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY sendPageCmd.label            "Send lenkjeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">
-<!ENTITY savePageCmd.label            "Lagre sida som …">
+<!ENTITY savePageCmd.label            "Lagre side som …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "o">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Lagre ramma som …">
+<!ENTITY saveFrameCmd.label           "Lagre ramme som …">
 <!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY printFrameCmd.label          "Skriv ut ramme …">
 <!ENTITY printFrameCmd.accesskey      "k">
@@ -389,13 +399,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Større">
+<!ENTITY fullZoomEnlargeCmd.label       "Større skrift">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "S">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Mindre">
+<!ENTITY fullZoomReduceCmd.label        "Mindre skrift">
 <!ENTITY fullZoomReduceCmd.accesskey    "M">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
