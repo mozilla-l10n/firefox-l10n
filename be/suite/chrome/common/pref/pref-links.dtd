@@ -1,0 +1,14 @@
+<!ENTITY linksHeader.label "Паводзіны спасылак">
+<!ENTITY newWindow.label "Паводзіны пры адкрыцці спасылак">
+<!ENTITY newWindowDescription.label "Адкрыццё спасылак мае на ўвазе адкрыццё ў новым акне">
+<!ENTITY external.label "Спасылкі з іншых прыстасаванняў">
+<!ENTITY externalDescription.label "Адкрываць спасылкі, якія перадаюцца іншымі прыстасаваннямі">
+<!ENTITY openCurrent.label "У цяперашніх устаўцы/акне">
+<!ENTITY newWindowGroupCurrent.accesskey "ц">
+<!ENTITY externalGroupCurrent.accesskey "я">
+<!ENTITY openTab.label "У новай устаўцы ў цяперашнім акне">
+<!ENTITY newWindowGroupTab.accesskey "у">
+<!ENTITY externalGroupTab.accesskey "с">
+<!ENTITY openWindow.label "У новым акне">
+<!ENTITY newWindowGroupWindow.accesskey "а">
+<!ENTITY externalGroupWindow.accesskey "к">
