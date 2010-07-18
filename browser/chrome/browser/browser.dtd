@@ -121,6 +121,18 @@
 <!ENTITY goForwardCmd.commandKey "]">
 
 
+<!ENTITY inspectButton.label          "Έλεγχος">
+<!ENTITY inspectButton.accesskey      "λ">
+<!ENTITY inspectNextButton.label      "Επόμενο">
+<!ENTITY inspectNextButton.accesskey  "ν">
+<!ENTITY inspectPreviousButton.label  "Προηγούμενο">
+<!ENTITY inspectPreviousButton.accesskey "Π">
+<!ENTITY inspectStyleButton.label     "Στυλ">
+<!ENTITY inspectStyleButton.accesskey "Σ">
+<!ENTITY inspectStylePanelTitle.label  "Στυλ">
+
+
+
 
 <!ENTITY goOfflineCmd.accesskey "χ">
 <!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
