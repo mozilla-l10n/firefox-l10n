@@ -142,6 +142,15 @@
 <!ENTITY inspectMenu.label "Даследаваць">
 <!ENTITY inspectMenu.accesskey "Д">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectButton.label "Даследаваць">
+<!ENTITY inspectButton.accesskey "Д">
+<!ENTITY inspectNextButton.label "Наступны">
+<!ENTITY inspectNextButton.accesskey "Н">
+<!ENTITY inspectPreviousButton.label "Папярэдні">
+<!ENTITY inspectPreviousButton.accesskey "П">
+<!ENTITY inspectStyleButton.label "Стыль">
+<!ENTITY inspectStyleButton.accesskey "С">
+<!ENTITY inspectStylePanelTitle.label "Стыль">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newNavigatorCmd.label "Новае акно">
@@ -290,7 +299,6 @@
 <!ENTITY copyVideoURLCmd.accesskey "К">
 <!ENTITY copyAudioURLCmd.label "Капіяваць месцазнаходжанне гуку">
 <!ENTITY copyAudioURLCmd.accesskey "п">
-<!ENTITY blockImageCmd.accesskey "З">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "Э">
 <!ENTITY thisFrameMenu.label "Гэтая рамка">
