@@ -11,6 +11,7 @@
 <!ENTITY aboutSupport.extensionName "Όνομα">
 <!ENTITY aboutSupport.extensionEnabled "Ενεργές">
 <!ENTITY aboutSupport.extensionVersion "Έκδοση">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ενεργές πρόσθετες λειτουργίες">
 
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -18,7 +19,6 @@
 <!ENTITY aboutSupport.appBasicsName "Όνομα">
 <!ENTITY aboutSupport.appBasicsVersion "Έκδοση">
 <!ENTITY aboutSupport.appBasicsProfileDir "Κατάλογος προφίλ">
-<!ENTITY aboutSupport.appBasicsPlugins "Εγκατεστημένες πρόσθετες λειτουργίες">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Τροποποιημένες προτιμήσεις">
