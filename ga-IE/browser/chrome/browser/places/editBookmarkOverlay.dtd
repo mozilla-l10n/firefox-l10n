@@ -1,5 +1,5 @@
 <!ENTITY editBookmarkOverlay.name.label "Ainm:">
-<!ENTITY editBookmarkOverlay.name.accesskey "N">
+<!ENTITY editBookmarkOverlay.name.accesskey "n">
 <!ENTITY editBookmarkOverlay.location.label "Suíomh:">
 <!ENTITY editBookmarkOverlay.location.accesskey "S">
 <!ENTITY editBookmarkOverlay.feedLocation.label "Suíomh Fotha:">
@@ -22,4 +22,4 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "Roghnaigh…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Fillteán Nua">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "f">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "F">

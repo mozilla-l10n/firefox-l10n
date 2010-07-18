@@ -5,15 +5,15 @@
 <!ENTITY windowMenu.label "Fuinneog">
 
 <!ENTITY helpMenu.label "Cabhair">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.accesskey "h">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
-<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpMenuWin.accesskey "h">
 <!ENTITY aboutProduct.label "Maidir le &brandShortName;">
 <!ENTITY aboutProduct.accesskey "M">
 <!ENTITY productHelp.label "Cabhair &brandShortName;">
-<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.accesskey "h">
 <!ENTITY helpForIEUsers.label "D'úsáideoirí Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
@@ -22,7 +22,7 @@
 <!ENTITY helpReleaseNotes.accesskey "N">
 
 <!ENTITY helpTroubleshootingInfo.label "Fabhtcheartú">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.accesskey "t">
 
 <!ENTITY updateCmd.label "Lorg Nuashonruithe…">
 

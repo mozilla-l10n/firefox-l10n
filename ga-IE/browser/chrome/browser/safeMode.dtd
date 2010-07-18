@@ -46,7 +46,7 @@
 <!ENTITY disableAddons.accesskey "D">
 
 <!ENTITY resetToolbars.label "Athshocraigh barraí uirlisí agus rialtáin">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.accesskey "r">
 
 <!ENTITY deleteBookmarks.label "Scrios gach leabharmharc seachas na cúltacaí">
 <!ENTITY deleteBookmarks.accesskey "b">

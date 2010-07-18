@@ -4,7 +4,7 @@
 <!ENTITY window.unixWidth "48em">
 
 <!ENTITY language.label "Clófhoirne do:">
-<!ENTITY language.accesskey "F">
+<!ENTITY language.accesskey "f">
 
 <!ENTITY size.label "Méid:">
 <!ENTITY sizeProportional.accesskey "z">
@@ -62,7 +62,7 @@
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
 <!ENTITY allowPagesToUse.label "Tabhair cead do leathanaigh a gclónna féin a roghnú, in áit mo roghanna thuas">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY allowPagesToUse.accesskey "a">
 
 <!ENTITY languages.customize.Charset.grouplabel "Ionchódú Carachtar">
 <!ENTITY languages.customize.DefaultCharset.label "Ionchódú Carachtar Réamhshocraithe:">
