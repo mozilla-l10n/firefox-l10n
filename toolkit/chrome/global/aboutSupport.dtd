@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Leagan">
 <!ENTITY aboutSupport.appBasicsProfileDir "Comhadlann Phróifíle">
-<!ENTITY aboutSupport.appBasicsPlugins "Forlíontáin Suiteáilte">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Forlíontáin Chumasaithe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cumraíocht Tógála">
 
 <!ENTITY aboutSupport.show.label "Oscail an Fillteán ina bhfuil sé">
