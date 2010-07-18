@@ -16,7 +16,7 @@
 <!-- No ":" at the end -->
 
 <!ENTITY reportForm.behind_login.title "Tá an suíomh faoi chosaint ag focal faire">
-<!ENTITY reportForm.behind_login.accesskey "S">
+<!ENTITY reportForm.behind_login.accesskey "s">
 
 <!ENTITY reportForm.problem_type.title "An Cineál Faidhbe:">
 <!ENTITY reportForm.problem_type.accesskey "F">
@@ -45,13 +45,13 @@
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
 
 <!ENTITY reportForm.email.title "Seoladh Ríomhphoist (Roghnach):">
-<!ENTITY reportForm.email.accesskey "E">
+<!ENTITY reportForm.email.accesskey "e">
 
 <!ENTITY reportForm.privacyPolicy.title "Polasaí Príobháideachta">
 <!ENTITY reportForm.privacyPolicy.tooltip "Féach ar an bPolasaí Príobháideachta">
 
 <!ENTITY reportResults.showDetail.title "Taispeáin Sonraí">
-<!ENTITY reportResults.showDetail.accesskey "S">
+<!ENTITY reportResults.showDetail.accesskey "s">
 
 <!ENTITY sendReport.label "Tuairisc á Seoladh">
 <!ENTITY sendReport.description "Tuairisc á seoladh go dtí an freastalaí…">
