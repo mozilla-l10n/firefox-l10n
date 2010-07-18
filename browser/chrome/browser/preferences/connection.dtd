@@ -9,17 +9,17 @@
 <!ENTITY systemTypeRadio.label "Úsáid socruithe seachfhreastalaí an chórais">
 <!ENTITY systemTypeRadio.accesskey "s">
 <!ENTITY WPADTypeRadio.label "Aimsigh socruithe seachfhreastalaí an líonra seo go huathoibríoch">
-<!ENTITY WPADTypeRadio.accesskey "a">
+<!ENTITY WPADTypeRadio.accesskey "A">
 <!ENTITY manualTypeRadio.label "Lámhchumraíocht seachfhreastalaí:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL Uathchumraíocht Seachfhreastalaí:">
-<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY autoTypeRadio.accesskey "a">
 <!ENTITY reload.label "Athluchtaigh">
-<!ENTITY reload.accesskey "a">
+<!ENTITY reload.accesskey "A">
 <!ENTITY ftp.label "Seachfhreastalaí FTP:">
 <!ENTITY ftp.accesskey "F">
 <!ENTITY http.label "Seachfhreastalaí HTTP:">
-<!ENTITY http.accesskey "s">
+<!ENTITY http.accesskey "S">
 <!ENTITY ssl.label "Seachfhreastalaí SSL:">
 <!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "Ósta SOCKS:">

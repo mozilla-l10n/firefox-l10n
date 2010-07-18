@@ -25,7 +25,7 @@
 <!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an brabhsálaí réamhshocraithe">
 <!ENTITY alwaysCheckDefault.accesskey "g">
 <!ENTITY checkNow.label "Seiceáil Anois">
-<!ENTITY checkNow.accesskey "N">
+<!ENTITY checkNow.accesskey "n">
 <!ENTITY submitCrashes.label "Seol tuairiscí ar thuairteáil">
 <!ENTITY submitCrashes.accesskey "S">
 
@@ -46,7 +46,7 @@
 -->
 
 <!ENTITY useCacheBefore.label "Úsáid suas le">
-<!ENTITY useCacheBefore.accesskey "S">
+<!ENTITY useCacheBefore.accesskey "s">
 <!ENTITY useCacheAfter.label "MB spás don taisce">
 <!ENTITY clearCacheNow.label "Bánaigh Anois">
 <!ENTITY clearCacheNow.accesskey "B">
@@ -71,7 +71,7 @@
 <!ENTITY updateHistory.accesskey "p">
 
 <!ENTITY offlineNotify.label "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
-<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Eisceachtaí…">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
 
@@ -101,4 +101,4 @@
 <!ENTITY verify2.label "Bailíochtú">
 <!ENTITY verify2.accesskey "B">
 <!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
-<!ENTITY viewSecurityDevices.accesskey "g">
+<!ENTITY viewSecurityDevices.accesskey "G">

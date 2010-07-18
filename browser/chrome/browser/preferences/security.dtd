@@ -1,5 +1,5 @@
 <!ENTITY warnAddonInstall.label "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht breiseáin a shuiteáil">
-<!ENTITY warnAddonInstall.accesskey "R">
+<!ENTITY warnAddonInstall.accesskey "r">
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
@@ -12,7 +12,7 @@
 <!ENTITY blockAttackSites.accesskey "i">
 
 <!ENTITY blockWebForgeries.label "Cuir cosc ar shuímh a tuairiscíodh mar fhalsaíocht Ghréasáin">
-<!ENTITY blockWebForgeries.accesskey "F">
+<!ENTITY blockWebForgeries.accesskey "f">
 
 <!ENTITY addonExceptions.label "Eisceachtaí…">
 <!ENTITY addonExceptions.accesskey "E">
@@ -21,12 +21,12 @@
 <!ENTITY passwords.label "Focail Fhaire">
 
 <!ENTITY rememberPasswords.label "Meabhraigh focail fhaire le haghaidh suíomhanna">
-<!ENTITY rememberPasswords.accesskey "R">
+<!ENTITY rememberPasswords.accesskey "r">
 <!ENTITY passwordExceptions.label "Eisceachtaí…">
 <!ENTITY passwordExceptions.accesskey "s">
 
 <!ENTITY useMasterPassword.label "Úsáid príomhfhocal faire">
-<!ENTITY useMasterPassword.accesskey "P">
+<!ENTITY useMasterPassword.accesskey "p">
 <!ENTITY changeMasterPassword.label "Athraigh an Príomhfhocal Faire…">
 <!ENTITY changeMasterPassword.accesskey "P">
 

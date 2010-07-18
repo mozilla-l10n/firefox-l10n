@@ -7,7 +7,7 @@
 <!ENTITY button.removecookie.label "Bain Fianán">
 <!ENTITY button.removecookie.accesskey "B">
 <!ENTITY button.removeallcookies.label "Bain Gach Fianán">
-<!ENTITY button.removeallcookies.accesskey "A">
+<!ENTITY button.removeallcookies.accesskey "a">
 
 <!ENTITY props.name.label "Teideal:">
 <!ENTITY props.value.label "Ábhar:">
@@ -22,7 +22,7 @@
 <!ENTITY focusSearch2.key "k">
 
 <!ENTITY filter.label "Cuardaigh:">
-<!ENTITY filter.accesskey "U">
+<!ENTITY filter.accesskey "u">
 
 <!ENTITY button.close.label "Dún">
 <!ENTITY button.close.accesskey "D">

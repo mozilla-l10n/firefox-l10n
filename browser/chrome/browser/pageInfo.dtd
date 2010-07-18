@@ -43,7 +43,7 @@
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Cóipeáil">
 <!ENTITY copy.accesskey "C">
-<!ENTITY selectall.key "W">
+<!ENTITY selectall.key "A">
 <!ENTITY selectall.label "Roghnaigh Uile">
 <!ENTITY selectall.accesskey "U">
 <!ENTITY closeWindow.key "w">

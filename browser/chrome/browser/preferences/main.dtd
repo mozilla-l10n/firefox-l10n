@@ -6,29 +6,29 @@
 <!ENTITY startupBlankPage.label "Taispeáin leathanach folamh">
 <!ENTITY startupLastSession.label "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
 <!ENTITY location.label "Leathanach Baile:">
-<!ENTITY location.accesskey "H">
+<!ENTITY location.accesskey "h">
 <!ENTITY useCurrentPage.label "Úsáid an Leathanach Reatha">
 <!ENTITY useCurrentPage.accesskey "R">
 <!ENTITY useMultiple.label "Úsáid na Leathanaigh Reatha">
 <!ENTITY useBookmark.label "Úsáid Leabharmharc">
-<!ENTITY useBookmark.accesskey "B">
+<!ENTITY useBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Cuir na réamhshocruithe ar ais">
-<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY restoreDefault.accesskey "r">
 
 <!ENTITY downloads.label "Íosluchtú">
 
 <!ENTITY showWhenDownloading.label "Taispeáin an fhuinneog íosluchtaithe agus comhaid á n-íosluchtú">
-<!ENTITY showWhenDownloading.accesskey "F">
+<!ENTITY showWhenDownloading.accesskey "f">
 <!ENTITY closeWhenDone.label "Dún an fhuinneog nuair a bheidh na híosluchtuithe críochnaithe">
-<!ENTITY closeWhenDone.accesskey "d">
+<!ENTITY closeWhenDone.accesskey "D">
 <!ENTITY saveTo.label "Sábháil comhaid i">
 <!ENTITY saveTo.accesskey "b">
 <!ENTITY chooseFolderWin.label "Brabhsáil…">
 <!ENTITY chooseFolderWin.accesskey "a">
 <!ENTITY chooseFolderMac.label "Roghnaigh…">
-<!ENTITY chooseFolderMac.accesskey "r">
+<!ENTITY chooseFolderMac.accesskey "R">
 <!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar an comhad i gcónaí">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label "Breiseáin">
 <!ENTITY manageAddonsDescWin.label "Athraigh roghanna le haghaidh do bhreiseán">

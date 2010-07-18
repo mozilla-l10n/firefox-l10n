@@ -24,7 +24,7 @@ that require it.  -->
      480169 -->
 
 <!ENTITY detailsProgressiveDisclosure.label "Mionsonraí">
-<!ENTITY detailsProgressiveDisclosure.accesskey "m">
+<!ENTITY detailsProgressiveDisclosure.accesskey "M">
 
 <!ENTITY historySection.label "Stair">
 <!ENTITY dataSection.label "Sonraí">
@@ -43,9 +43,9 @@ that require it.  -->
 <!ENTITY itemCookies.label "Fianáin">
 <!ENTITY itemCookies.accesskey "F">
 <!ENTITY itemCache.label "Taisce">
-<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Sonraí Shuíomhanna Gréasáin As Líne">
-<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemOfflineApps.accesskey "o">
 <!ENTITY itemDownloadHistory.label "Stair an Bhainisteora Íosluchtaithe">
 <!ENTITY itemDownloadHistory.accesskey "S">
 <!ENTITY itemActiveLogins.label "Logálacha isteach Gníomhacha">

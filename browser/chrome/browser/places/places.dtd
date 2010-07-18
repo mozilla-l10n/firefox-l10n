@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Eagraigh">
 <!ENTITY organize.accesskey "E">
+<!ENTITY organize.tooltip "Eagraigh leabharmharcanna">
 
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Dún">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Amhairc">
 <!ENTITY views.accesskey "A">
+<!ENTITY views.tooltip "Athraigh an t-amharc">
 <!ENTITY view.columns.label "Taispeáin Colúin">
 <!ENTITY view.columns.accesskey "C">
 <!ENTITY view.sort.label "Sórtáil">
@@ -42,7 +44,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey "R">
 
 <!ENTITY cmd.bookmarkLink.label "Cruthaigh Leabharmharc don Leathanach Seo…">
-<!ENTITY cmd.bookmarkLink.accesskey "B">
+<!ENTITY cmd.bookmarkLink.accesskey "b">
 <!ENTITY cmd.delete.label "Scrios an Leathanach Seo">
 <!ENTITY cmd.delete.accesskey "S">
 <!ENTITY cmd.deleteDomainData.label "Déan Dearmad ar an Suíomh Seo">
@@ -53,7 +55,7 @@
 <!ENTITY cmd.open_window.label "Oscail i bhFuinneog Nua">
 <!ENTITY cmd.open_window.accesskey "N">
 <!ENTITY cmd.open_tab.label "Oscail i gCluaisín Nua">
-<!ENTITY cmd.open_tab.accesskey "c">
+<!ENTITY cmd.open_tab.accesskey "C">
 <!ENTITY cmd.open_all_in_tabs.label "Oscail gach rud i gcluaisíní">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 
@@ -67,7 +69,7 @@
 <!ENTITY cmd.new_bookmark.label "Leabharmharc Nua…">
 <!ENTITY cmd.new_bookmark.accesskey "L">
 <!ENTITY cmd.new_folder.label "Fillteán Nua…">
-<!ENTITY cmd.new_folder.accesskey "f">
+<!ENTITY cmd.new_folder.accesskey "F">
 <!ENTITY cmd.context_new_folder.accesskey "F">
 <!ENTITY cmd.new_separator.label "Deighilteoir Nua">
 <!ENTITY cmd.new_separator.accesskey "D">
@@ -91,13 +93,13 @@
 <!ENTITY col.lastmodified.label "Athraithe">
 
 <!ENTITY search.label "Cuardaigh:">
-<!ENTITY search.accesskey "U">
+<!ENTITY search.accesskey "u">
 <!ENTITY search.scopeFolder.label "Fillteán Roghnaithe">
-<!ENTITY search.scopeFolder.accesskey "r">
+<!ENTITY search.scopeFolder.accesskey "R">
 <!ENTITY search.scopeBookmarks.label "Leabharmharcanna">
 <!ENTITY search.scopeBookmarks.accesskey "c">
 <!ENTITY search.scopeDownloads.label "Íosluchtú">
-<!ENTITY search.scopeDownloads.accesskey "L">
+<!ENTITY search.scopeDownloads.accesskey "l">
 <!ENTITY search.scopeHistory.label "Stair">
 <!ENTITY search.scopeHistory.accesskey "S">
 <!ENTITY saveSearch.label "Sábháil">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label "Iompórtáil agus Cúltaca">
 <!ENTITY maintenance.accesskey "I">
+<!ENTITY maintenance.tooltip "Iompórtáil agus déan cúltaca ar leabharmharcanna">
 
 <!ENTITY backCmd.label "Siar">
 <!ENTITY backButton.tooltip "Siar">
@@ -115,8 +118,8 @@
 <!ENTITY forwardButton.tooltip "Ar Aghaidh">
 
 <!ENTITY detailsPane.more.label "Níos Mó">
-<!ENTITY detailsPane.more.accesskey "m">
+<!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Níos Lú">
-<!ENTITY detailsPane.less.accesskey "l">
+<!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.noPreviewAvailable.label "Réamhamharc">
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">

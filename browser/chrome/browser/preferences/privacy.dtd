@@ -12,7 +12,7 @@
 
 
 <!ENTITY acceptCookies.label "Glac le fianáin ó shuímh">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies.accesskey "a">
 
 <!ENTITY acceptThirdParty.label "Glac le fianáin tríú páirtí">
 <!ENTITY acceptThirdParty.accesskey "c">
@@ -28,11 +28,11 @@
 <!ENTITY cookieExceptions.accesskey "E">
 
 <!ENTITY showCookies.label "Taispeáin Fianáin…">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY showCookies.accesskey "s">
 
 
 <!ENTITY historyHeader.pre.label "Cad is mian leat &brandShortName; a dhéanamh?">
-<!ENTITY historyHeader.pre.accesskey "c">
+<!ENTITY historyHeader.pre.accesskey "C">
 <!ENTITY historyHeader.remember.label "Meabhraigh an stair">
 <!ENTITY historyHeader.dontremember.label "Ná meabhraigh an stair riamh">
 <!ENTITY historyHeader.custom.label "Úsáid socruithe saincheaptha don stair">
