@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Перезапустити &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "П">
+
+<!ENTITY blocklist.blocked.label     "Заблокований">
+<!ENTITY blocklist.checkbox.label    "Вимкнути">
