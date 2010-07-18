@@ -4,7 +4,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Vel, dette er flaut.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; har problem med å byggje opp att vingauge og faner. Dette er vanlegvis som følgje av ei nettopp opna nettside.">
-<!ENTITY restorepage.tryThis        "du kan prøve:">
+<!ENTITY restorepage.tryThis        "Du kan prøve:">
 <!ENTITY restorepage.restoreSome    "Å fjerne ei eller fleire faner som du trur kan ha vore årsak til problemet">
 <!ENTITY restorepage.startNew       "Å starte ei heilt ny nettlesarøkt">
 

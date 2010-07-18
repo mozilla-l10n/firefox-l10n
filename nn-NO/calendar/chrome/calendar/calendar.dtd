@@ -331,7 +331,7 @@
 <!ENTITY calendar.print.layout.label "Utsjånad:">
 <!ENTITY calendar.print.range.label "Utskriftsområde">
 <!ENTITY calendar.print.currentView2.label "Aktiv vising">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Valde hendingar/oppvgåver">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valde hendingar/oppgåver">
 <!ENTITY calendar.print.tasks.label "Oppgåver">
 <!ENTITY calendar.print.events.label "Hendingar">
 <!ENTITY calendar.print.selected.label "Valde hendingar">

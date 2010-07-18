@@ -99,7 +99,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Abonnér på denne sida …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle fanene …">
 <!ENTITY organizeBookmarks.label "Organiser bokmerke …">
-<!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene … ">
+<!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 
 <!ENTITY backCmd.label                "Tilbake">
@@ -328,11 +328,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Vel som skrivebordbakgrunn …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
-<!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke …">
+<!ENTITY bookmarkPageCmd2.label       "Legg til bokmerke">
 <!ENTITY bookmarkPageCmd2.accesskey   "L">
-<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenkja …">
+<!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenkja">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma …">
+<!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY sendPageCmd.label            "Send lenkjeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">
