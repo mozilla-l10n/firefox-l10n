@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 <!ENTITY aboutSupport.appBasicsProfileDir "Тека профілю">
-<!ENTITY aboutSupport.appBasicsPlugins "Встановлені модулі">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Увімкнені модулі">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфігурація збірки">
 
 <!ENTITY aboutSupport.show.label "Відкрити відповідну теку">
