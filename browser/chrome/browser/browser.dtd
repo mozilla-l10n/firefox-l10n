@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "З">
 <!ENTITY  openTabInNewWindow.label           "Відкрити у новому вікні">
 <!ENTITY  openTabInNewWindow.accesskey       "в">
+<!ENTITY  pinTab.label                       "Перетворити на програмну вкладку">
+<!ENTITY  pinTab.accesskey                   "п">
+<!ENTITY  unpinTab.label                     "Перетворити на нормальну вкладку">
+<!ENTITY  unpinTab.accesskey                 "н">
 <!ENTITY  bookmarkThisTab.label              "Закласти цю вкладку">
 <!ENTITY  bookmarkThisTab.accesskey          "З">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
@@ -129,6 +133,12 @@
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
 <!ENTITY bookmarksButton.accesskey  "З">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Закладки">
+<!ENTITY bookmarksMenuButton.tooltip        "Показати ваші закладки">
+<!ENTITY viewBookmarksSidebar.label         "Показати в бічній панелі">
+<!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +168,24 @@
 <!ENTITY errorConsoleCmd.label        "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey    "м">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "Панель дослідника">
+<!ENTITY hudConsoleCmd.accesskey      "к">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Дослідити">
+<!ENTITY inspectMenu.accesskey        "Д">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "Дослідити">
+<!ENTITY inspectButton.accesskey      "Д">
+<!ENTITY inspectNextButton.label      "Наступне">
+<!ENTITY inspectNextButton.accesskey  "Н">
+<!ENTITY inspectPreviousButton.label  "Попереднє">
+<!ENTITY inspectPreviousButton.accesskey "П">
+<!ENTITY inspectStyleButton.label     "Стиль">
+<!ENTITY inspectStyleButton.accesskey "С">
+<!ENTITY inspectStylePanelTitle.label  "Стиль">
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
@@ -224,11 +252,14 @@
 <!ENTITY showAllHistoryCmd2.label "Показати всю історію">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Друкувати">
+<!ENTITY appMenuCustomize.label "Налаштування">
+<!ENTITY appMenuToolbarLayout.label "Розташування панелей…">
+<!ENTITY appMenuSidebars.label "Бічні панелі">
+<!ENTITY appMenuHelp.label "Довідка">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Шукати в закладках та історії">
-<!ENTITY urlbar.bookmark.emptyText    "Шукати в закладках">
-<!ENTITY urlbar.history.emptyText     "Шукати в історії">
-<!ENTITY urlbar.none.emptyText        "Наберіть веб-адресу">
+<!ENTITY urlbar.placeholder           "Go to a Web Site">
 <!ENTITY urlbar.accesskey             "а">
 <!ENTITY urlbar.switchToTab.label     "Перемкнутись на вкладку:">
 
@@ -236,7 +267,7 @@
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -251,7 +282,7 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
@@ -340,7 +371,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "в">
 <!ENTITY copyAudioURLCmd.label        "Копіювати адресу аудіо">
 <!ENTITY copyAudioURLCmd.accesskey    "у">
-<!ENTITY blockImageCmd.accesskey      "о">
 <!ENTITY copyEmailCmd.label           "Копіювати адресу електронної пошти">
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "У цьому фреймі">
@@ -475,3 +505,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Клацніть щоб відкрити вікно завантажень">
 
 <!ENTITY allTabs.filter.emptyText "Шукати вкладки">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Браузерних вкладок">
