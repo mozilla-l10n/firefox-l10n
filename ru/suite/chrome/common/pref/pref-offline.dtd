@@ -1,6 +1,0 @@
-<!ENTITY window.title "Автономная работа">
-<!ENTITY boxHeader "Автономная работа">
-<!ENTITY rHeader "Автономная работа">
-<!ENTITY textStart "При запуске &brandShortName;:">
-<!ENTITY radioAskMode "Спрашивать, в каком режиме начинать работу">
-<!ENTITY radioUsePrev "Работать в том режиме, в котором был завершён предыдущий сеанс">
