@@ -2,7 +2,6 @@
 <!ENTITY message.label    "ਕੁਝ ਸੈਂਪਲ ਟੈਕਸਟ ਇੱਥੇ ਦਿਓ।">
 <!ENTITY editfield0.label "ਯੂਜ਼ਰ ਨਾਂ:"> 
 <!ENTITY editfield1.label "ਪਾਸਵਰਡ:"> 
-<!ENTITY editfield2.label "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ:"> 
 <!ENTITY checkbox.label   "ਚੈੱਕ">
 <!ENTITY copyCmd.label    "ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyCmd.accesskey "C">
