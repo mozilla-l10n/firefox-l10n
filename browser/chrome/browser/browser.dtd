@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey               "t">
 <!ENTITY  openTabInNewWindow.label               "Ava kaart uues aknas">
 <!ENTITY  openTabInNewWindow.accesskey           "v">
+<!ENTITY  pinTab.label                           "Tee püsikaardiks">
+<!ENTITY  pinTab.accesskey                       "T">
+<!ENTITY  unpinTab.label                         "Tee tavakaardiks">
+<!ENTITY  unpinTab.accesskey                     "d">
 <!ENTITY  bookmarkThisTab.label                  "Lisa see kaart järjehoidjatesse">
 <!ENTITY  bookmarkThisTab.accesskey              "j">
 <!ENTITY  bookmarkAllTabs.label                  "Lisa kõik kaardid järjehoidjatesse…">
@@ -30,6 +34,8 @@
 <!ENTITY  undoCloseTab.accesskey                 "g">
 <!ENTITY  closeTab.label                         "Sulge kaart">
 <!ENTITY  closeTab.accesskey                     "S">
+
+<!ENTITY  listAllTabs.label                      "Näita kõigi kaartide nimekirja">
 
 <!ENTITY tabCmd.label                            "Uus kaart">
 <!ENTITY tabCmd.accesskey                        "k">
@@ -127,6 +133,12 @@
 <!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
 <!ENTITY bookmarksButton.accesskey               "j">
 <!ENTITY bookmarksCmd.commandkey                 "b">
+
+<!ENTITY bookmarksMenuButton.label               "Järjehoidjad">
+<!ENTITY bookmarksMenuButton.tooltip             "Kuva oma järjehoidjaid">
+<!ENTITY viewBookmarksSidebar.label              "Kuva külgribal">
+<!ENTITY viewBookmarksToolbar.label              "Kuva järjehoidjariba">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -157,8 +169,25 @@
 <!ENTITY errorConsoleCmd.accesskey               "V">
 <!ENTITY errorConsoleCmd.commandkey              "j">
 
-<!ENTITY fileMenu.label                          "Fail">
+<!ENTITY hudConsoleCmd.label                     "Konsool">
+<!ENTITY hudConsoleCmd.accesskey                 "K">
+<!ENTITY hudConsoleCmd.commandkey                "k">
 
+<!ENTITY inspectMenu.label                       "Inspekteeri">
+<!ENTITY inspectMenu.accesskey                   "I">
+<!ENTITY inspectMenu.commandkey                  "I">
+
+<!ENTITY inspectButton.label                     "Inspekteeri">
+<!ENTITY inspectButton.accesskey                 "I">
+<!ENTITY inspectNextButton.label                 "Järgmine">
+<!ENTITY inspectNextButton.accesskey             "J">
+<!ENTITY inspectPreviousButton.label             "Eelmine">
+<!ENTITY inspectPreviousButton.accesskey         "E">
+<!ENTITY inspectStyleButton.label                "Stiilid">
+<!ENTITY inspectStyleButton.accesskey            "S">
+<!ENTITY inspectStylePanelTitle.label            "Stiilid">
+
+<!ENTITY fileMenu.label                          "Fail">
 <!ENTITY fileMenu.accesskey                      "F">
 <!ENTITY newNavigatorCmd.label                   "Uus aken">
 <!ENTITY newNavigatorCmd.key                     "N">
@@ -224,11 +253,14 @@
 <!ENTITY showAllHistoryCmd2.label                "Näita kogu ajalugu">
 <!ENTITY showAllHistoryCmd.commandkey            "H">
 
+<!ENTITY appMenuPrintCmd.label                   "Prindi">
+<!ENTITY appMenuCustomize.label                  "Kohanda">
+<!ENTITY appMenuToolbarLayout.label              "Tööriistariba paigutus…">
+<!ENTITY appMenuSidebars.label                   "Külgribad">
+<!ENTITY appMenuHelp.label                       "Abi">
+
 <!ENTITY openCmd.commandkey                      "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText        "Otsi järjehoidjatest ja ajaloost">
-<!ENTITY urlbar.bookmark.emptyText               "Otsi järjehoidjatest">
-<!ENTITY urlbar.history.emptyText                "Otsi ajaloost">
-<!ENTITY urlbar.none.emptyText                   "Sisesta veebilehe aadress">
+<!ENTITY urlbar.placeholder                      "Mine veebilehele">
 <!ENTITY urlbar.accesskey                        "d">
 <!ENTITY urlbar.switchToTab.label                "Vaheta kaardile:">
 
@@ -341,7 +373,6 @@
 <!ENTITY copyVideoURLCmd.accesskey               "e">
 <!ENTITY copyAudioURLCmd.label                   "Kopeeri audio aadress">
 <!ENTITY copyAudioURLCmd.accesskey               "p">
-<!ENTITY blockImageCmd.accesskey                 "i">
 <!ENTITY copyEmailCmd.label                      "Kopeeri e-posti aadress">
 <!ENTITY copyEmailCmd.accesskey                  "i">
 <!ENTITY thisFrameMenu.label                     "See paneel">
@@ -476,3 +507,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip                "Klõpsa, et avada allalaadimiste aken">
 
 <!ENTITY allTabs.filter.emptyText                "Otsi kaarte">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label                       "Brauseri kaardid">
+

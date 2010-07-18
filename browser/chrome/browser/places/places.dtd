@@ -4,6 +4,7 @@
 <!ENTITY places.library.height                    "500">
 <!ENTITY organize.label                           "Redigeerimine">
 <!ENTITY organize.accesskey                       "R">
+<!ENTITY organize.tooltip                         "Redigeeri oma järjehoidjaid">
 
 <!ENTITY file.accesskey                           "F">
 <!ENTITY file.close.label                         "Sulge">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                           "R">
 <!ENTITY views.label                              "Vaade">
 <!ENTITY views.accesskey                          "V">
-<!ENTITY view.toolbar.label                       "Tööriistariba">
-<!ENTITY view.toolbar.accesskey                   "T">
+<!ENTITY views.tooltip                            "Muuda oma vaadet">
 <!ENTITY view.columns.label                       "Veergude näitamine">
 <!ENTITY view.columns.accesskey                   "e">
 <!ENTITY view.sort.label                          "Sortimine">
@@ -43,28 +43,6 @@
 <!ENTITY cmd.restoreFromFile.label                "Vali fail…">
 <!ENTITY cmd.restoreFromFile.accesskey            "a">
 
-<!ENTITY cmd.select_all.label                     "Vali kõik">
-<!ENTITY cmd.select_all.accesskey                 "V">
-<!ENTITY cmd.select_all.key                       "A">
-
-<!ENTITY cmd.edit_cut.label                       "Lõika">
-<!ENTITY cmd.edit_cut.accesskey                   "L">
-<!ENTITY cmd.edit_cut.key                         "X">
-<!ENTITY cmd.edit_copy.label                      "Kopeeri">
-<!ENTITY cmd.edit_copy.accesskey                  "K">
-<!ENTITY cmd.edit_copy.key                        "C">
-<!ENTITY cmd.edit_paste.label                     "Aseta">
-<!ENTITY cmd.edit_paste.accesskey                 "A">
-<!ENTITY cmd.edit_paste.key                       "V">
-<!ENTITY cmd.edit_delete.label                    "Kustuta">
-<!ENTITY cmd.edit_delete.accesskey                "u">
-<!ENTITY cmd.edit_undo.label                      "Võta tagasi">
-<!ENTITY cmd.edit_undo.accesskey                  "t">
-<!ENTITY cmd.edit_undo.key                        "Z">
-<!ENTITY cmd.edit_redo.label                      "Tee uuesti">
-<!ENTITY cmd.edit_redo.accesskey                  "i">
-<!ENTITY cmd.edit_redo.key                        "Y">
-
 <!ENTITY cmd.bookmarkLink.label                   "Pane see leht järjehoidjatesse…">
 <!ENTITY cmd.bookmarkLink.accesskey               "P">
 <!ENTITY cmd.delete.label                         "Kustuta see leht">
@@ -84,17 +62,12 @@
 <!ENTITY cmd.properties.label                     "Omadused">
 <!ENTITY cmd.properties.accesskey                 "O">
 
-<!ENTITY cmd.rename.label                         "Nimeta ümber">
-<!ENTITY cmd.rename.accesskey                     "N">
-
 <!ENTITY cmd.sortby_name.label                    "Sordi nime järgi">
 <!ENTITY cmd.sortby_name.accesskey                "S">
 <!ENTITY cmd.context_sortby_name.accesskey        "r">
 
 <!ENTITY cmd.new_bookmark.label                   "Uus järjehoidja…">
 <!ENTITY cmd.new_bookmark.accesskey               "j">
-<!ENTITY cmd.new_livemark.label                   "Uus uuenev järjehoidja…">
-<!ENTITY cmd.new_livemark.accesskey               "s">
 <!ENTITY cmd.new_folder.label                     "Uus kaust…">
 <!ENTITY cmd.new_folder.accesskey                 "k">
 <!ENTITY cmd.context_new_folder.accesskey         "t">
@@ -134,11 +107,9 @@
 
 <!ENTITY cmd.find.key                             "F">
 
-<!ENTITY feed.subscribe.label                     "Uudisvoog">
-<!ENTITY feed.subscribe.tooltip                   "Telli">
-
 <!ENTITY maintenance.label                        "Importimine ja varundamine">
 <!ENTITY maintenance.accesskey                    "I">
+<!ENTITY maintenance.tooltip                      "Impordi ja varunda oma järjehoidjaid">
 
 <!ENTITY backCmd.label                            "Tagasi">
 <!ENTITY backButton.tooltip                       "Mine tagasi">

@@ -7,10 +7,6 @@
 #define bookmarks_title Järjehoidjad
 #define bookmarks_heading Järjehoidjad
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Hangi järjehoidjate lisasid
-
 #define bookmarks_toolbarfolder Järjehoidjariba kaust
 #define bookmarks_toolbarfolder_description Lisa järjehoidjad sellesse kausta, kui soovid neid näha järjehoidjaribal
 
