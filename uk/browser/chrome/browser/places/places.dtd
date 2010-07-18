@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Впорядкувати">
 <!ENTITY organize.accesskey    "В">
+<!ENTITY organize.tooltip      "Впорядкувати ваші закладки">
 
 <!ENTITY file.accesskey                 "Ф">
 <!ENTITY file.close.label               "Закрити">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                 "Р">
 <!ENTITY views.label                    "Вигляд">
 <!ENTITY views.accesskey                "В">
-<!ENTITY view.toolbar.label             "Панель інструментів">
-<!ENTITY view.toolbar.accesskey         "П">
+<!ENTITY views.tooltip                  "Змінити вигляд">
 <!ENTITY view.columns.label             "Показати колонки">
 <!ENTITY view.columns.accesskey         "к">
 <!ENTITY view.sort.label                "Сортувати">
@@ -43,28 +43,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Вибрати файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ф">
 
-<!ENTITY cmd.select_all.label "Вибрати усі">
-<!ENTITY cmd.select_all.accesskey "у">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Вирізати">
-<!ENTITY cmd.edit_cut.accesskey     "р">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Копіювати">
-<!ENTITY cmd.edit_copy.accesskey    "п">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Вставити">
-<!ENTITY cmd.edit_paste.accesskey   "т">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Стерти">
-<!ENTITY cmd.edit_delete.accesskey  "С">
-<!ENTITY cmd.edit_undo.label        "Повернути">
-<!ENTITY cmd.edit_undo.accesskey    "е">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Повторити">
-<!ENTITY cmd.edit_redo.accesskey    "т">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Закласти цю сторінку…">
 <!ENTITY cmd.bookmarkLink.accesskey     "З">
 <!ENTITY cmd.delete.label               "Усунути цю сторінку">
@@ -84,17 +62,12 @@
 <!ENTITY cmd.properties.label      "Властивості">
 <!ENTITY cmd.properties.accesskey  "і">
 
-<!ENTITY cmd.rename.label      "Перейменувати">
-<!ENTITY cmd.rename.accesskey  "й">
-
 <!ENTITY cmd.sortby_name.label              "Сортувати за ім’ям">
 <!ENTITY cmd.sortby_name.accesskey          "С">
 <!ENTITY cmd.context_sortby_name.accesskey  "С">
 
 <!ENTITY cmd.new_bookmark.label            "Нова закладка…">
 <!ENTITY cmd.new_bookmark.accesskey        "з">
-<!ENTITY cmd.new_livemark.label            "Нова жива закладка…">
-<!ENTITY cmd.new_livemark.accesskey        "к">
 <!ENTITY cmd.new_folder.label              "Створити теку…">
 <!ENTITY cmd.new_folder.accesskey          "т">
 <!ENTITY cmd.context_new_folder.accesskey  "т">
@@ -134,11 +107,9 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "Канал RSS">
-<!ENTITY feed.subscribe.tooltip  "Підписатись">
-
 <!ENTITY maintenance.label      "Імпорт та резервні копії">
 <!ENTITY maintenance.accesskey  "І">
+<!ENTITY maintenance.tooltip    "Імпортування та створення резервних копій ваших закладок">
 
 <!ENTITY backCmd.label       "Назад">
 <!ENTITY backButton.tooltip  "Повернутись назад">
