@@ -56,7 +56,7 @@
 <!ENTITY hfPage "Leathanach #">
 <!ENTITY hfPageAndTotal "Leathanach # as #">
 <!ENTITY hfBlank "--bán--">
-<!ENTITY hfCustom "Saincheaptha…">
+<!ENTITY hfCustom "Saincheap…">
 
-<!ENTITY customPrompt.title "Saincheaptha…">
+<!ENTITY customPrompt.title "Saincheap…">
 <!ENTITY customPrompt.prompt "Cuir isteach do théacs ceanntáisc/buntáisc féin">
