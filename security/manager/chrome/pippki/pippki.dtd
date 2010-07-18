@@ -47,7 +47,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Lähtesta">
 <!ENTITY resetPassword.title "Peaparooli nullimine">
-<!ENTITY resetPassword.text "Ülemparooli lähtestamisel unustatakse kõik sinu salvestatud veebi ja e-posti paroolid, vormide andmed, isiklikud sertifikaadid ja privaatvõtmed. Oled sa kindel, et soovid ülemparooli lähtesada?">
+<!ENTITY resetPassword.text "Ülemparooli lähtestamisel unustatakse kõik sinu salvestatud veebi ja e-posti paroolid, vormide andmed, isiklikud sertifikaadid ja privaatvõtmed. Kas oled kindel, et soovid ülemparooli lähtesada?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title "Sisesta ülemparool">

@@ -3,7 +3,7 @@
 <!ENTITY enableOCSP.accesskey         "S">
 <!ENTITY certOCSP2.label              "OCSP-d kasutatakse vaid OCSP-teenusele osutavate sertifikaatide tõestamiseks">
 <!ENTITY certOCSP2.accesskey          "O">
-<!ENTITY proxyOCSP2.label             "Kõik sertifikaadid valideeritakse kasutades järgmist OCSP-serverit:">
+<!ENTITY proxyOCSP2.label             "Kõik sertifikaadid valideeritakse järgmise OCSP-serveri abil:">
 <!ENTITY proxyOCSP2.accesskey         "K">
 <!ENTITY serviceURL.label             "Teenuse URL:">
 <!ENTITY serviceURL.accesskey         "T">

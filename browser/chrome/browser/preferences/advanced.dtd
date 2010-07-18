@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey     "a">
 <!ENTITY searchStartTyping.label           "Sisestamise alustamisel otsitakse teksti">
 <!ENTITY searchStartTyping.accesskey       "o">
-<!ENTITY blockAutoRefresh.label            "Hoiatatakse kui veebilehed üritavad mujale suunata või lehte uuesti laadida">
+<!ENTITY blockAutoRefresh.label            "Hoiatatakse, kui veebilehed üritavad mujale suunata või lehte uuesti laadida">
 <!ENTITY blockAutoRefresh.accesskey        "H">
 
 <!ENTITY browsing.label                    "Lehitsemine">
@@ -69,7 +69,7 @@
 <!ENTITY updateHistory.label               "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey           "j">
 
-<!ENTITY offlineNotify.label               "Hoiatatakse kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
+<!ENTITY offlineNotify.label               "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
 <!ENTITY offlineNotify.accesskey           "H">
 <!ENTITY offlineNotifyExceptions.label     "Erandid">
 <!ENTITY offlineNotifyExceptions.accesskey "r">
