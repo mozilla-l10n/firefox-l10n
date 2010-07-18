@@ -8,7 +8,7 @@
 <!ENTITY size.label "Méid">
 <!ENTITY lastModified.label "Athraithe">
 <!ENTITY showHiddenFiles.label "Cuir in iúl comhaid agus comhadlanna atá i bhfolach">
-<!ENTITY showHiddenFiles.accesskey "F">
+<!ENTITY showHiddenFiles.accesskey "f">
 
 <!ENTITY noPermissionError.label "Níl na ceadanna riachtanais agat chun a bheith ag féachaint ar an gcomhadlann seo.">
 

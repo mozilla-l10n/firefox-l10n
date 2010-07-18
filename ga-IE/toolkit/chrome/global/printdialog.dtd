@@ -13,11 +13,11 @@
 <!ENTITY descText.label "Cur síos ar an bprintéir:">
 <!ENTITY printer.label "Printéir">
 <!ENTITY printerInput.label "Ainm an Phrintéara:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "Raon Priontála">
 <!ENTITY allpagesRadio.label "Gach Leathanach">
-<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY allpagesRadio.accesskey "a">
 <!ENTITY rangeRadio.label "Leathanaigh">
 <!ENTITY rangeRadio.accesskey "L">
 <!ENTITY frompageInput.label "ó">

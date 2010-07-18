@@ -10,7 +10,7 @@
 <!ENTITY previous.tooltip "Aimsigh an sampla roimhe seo den nath seo">
 <!ENTITY findCloseButton.tooltip "Dún an barra Aimsithe">
 <!ENTITY highlight.label "Aibhsigh gach ceann">
-<!ENTITY highlight.accesskey "a">
+<!ENTITY highlight.accesskey "A">
 <!ENTITY highlight.tooltiptext "Aibhsigh gach sampla den nath">
 <!ENTITY caseSensitiveCheckbox.label "Meaitseáil an cás">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">

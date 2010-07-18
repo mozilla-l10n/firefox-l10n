@@ -52,17 +52,17 @@
 <!ENTITY clear.label "Bánaigh">
 <!ENTITY clear.accesskey "B">
 <!ENTITY codeEval.label "Cód:">
-<!ENTITY codeEval.accesskey "c">
+<!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label "Luacháil">
-<!ENTITY evaluate.accesskey "l">
+<!ENTITY evaluate.accesskey "L">
 
 <!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY copyCmd.commandkey "C">
 <!ENTITY sortFirst.label "Ord Sórtála ó Thús > Críoch">
-<!ENTITY sortFirst.accesskey "t">
+<!ENTITY sortFirst.accesskey "T">
 <!ENTITY sortLast.label "Ord Sórtála ó Chríoch > Thús">
-<!ENTITY sortLast.accesskey "c">
+<!ENTITY sortLast.accesskey "C">
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey "l">
 <!ENTITY focus2.commandkey "d">

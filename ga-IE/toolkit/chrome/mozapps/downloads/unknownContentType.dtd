@@ -42,11 +42,11 @@
 <!ENTITY actionQuestion.label "Cad ba cheart do &brandShortName; a dhéanamh leis an gcomhad seo?">
 
 <!ENTITY openWith.label "Oscail le">
-<!ENTITY openWith.accesskey "o">
+<!ENTITY openWith.accesskey "O">
 <!ENTITY other.label "Eile…">
 
 <!ENTITY saveFile.label "Sábháil Comhad">
-<!ENTITY saveFile.accesskey "s">
+<!ENTITY saveFile.accesskey "S">
 
 <!ENTITY rememberChoice.label "Déan é seo go huathoibríoch le haghaidh comhad mar seo as seo amach.">
 <!ENTITY rememberChoice.accesskey "a">

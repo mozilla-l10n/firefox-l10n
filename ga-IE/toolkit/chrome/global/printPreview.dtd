@@ -38,7 +38,7 @@
 <!ENTITY print.label "Priontáil…">
 <!ENTITY print.accesskey "P">
 <!ENTITY pageSetup.label "Socrú Leathanaigh…">
-<!ENTITY pageSetup.accesskey "l">
+<!ENTITY pageSetup.accesskey "L">
 <!ENTITY page.label "Leathanach:">
 <!ENTITY page.accesskey "a">
 <!ENTITY of.label "as">

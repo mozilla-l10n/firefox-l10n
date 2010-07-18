@@ -32,11 +32,11 @@
 <!ENTITY marginTop.label "Barr:">
 <!ENTITY marginTop.accesskey "B">
 <!ENTITY marginBottom.label "Bun:">
-<!ENTITY marginBottom.accesskey "U">
+<!ENTITY marginBottom.accesskey "u">
 <!ENTITY marginLeft.label "Ar chlé:">
-<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginLeft.accesskey "l">
 <!ENTITY marginRight.label "Ar dheis:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginRight.accesskey "r">
 
 <!ENTITY headerFooter.label "Ceanntásca agus Buntásca">
 
@@ -56,7 +56,7 @@
 <!ENTITY hfPage "Leathanach #">
 <!ENTITY hfPageAndTotal "Leathanach # as #">
 <!ENTITY hfBlank "--bán--">
-<!ENTITY hfCustom "Saincheap…">
+<!ENTITY hfCustom "Saincheaptha…">
 
-<!ENTITY customPrompt.title "Saincheap…">
+<!ENTITY customPrompt.title "Saincheaptha…">
 <!ENTITY customPrompt.prompt "Cuir isteach do théacs ceanntáisc/buntáisc féin">

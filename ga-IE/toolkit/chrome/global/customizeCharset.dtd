@@ -45,6 +45,6 @@
 <!ENTITY add.label "Cuir Leis">
 <!ENTITY add.accessKey "L">
 <!ENTITY moveUp.label "Bog Suas">
-<!ENTITY moveUp.accessKey "U">
+<!ENTITY moveUp.accessKey "u">
 <!ENTITY moveDown.label "Bog Síos">
-<!ENTITY moveDown.accessKey "O">
+<!ENTITY moveDown.accessKey "o">

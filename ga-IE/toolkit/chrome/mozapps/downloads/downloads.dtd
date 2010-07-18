@@ -22,15 +22,15 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.open.label "Oscail">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.openWith.label "Oscail Le…">
-<!ENTITY cmd.openWith.accesskey "l">
+<!ENTITY cmd.openWith.accesskey "L">
 <!ENTITY cmd.retry.label "Atriail">
 <!ENTITY cmd.retry.accesskey "A">
 <!ENTITY cmd.goToDownloadPage.label "Téigh go Leathanach Íosluchtaithe">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
+<!ENTITY cmd.goToDownloadPage.accesskey "g">
 <!ENTITY cmd.copyDownloadLink.label "Cóipeáil Nasc Íosluchtaithe">
 <!ENTITY cmd.copyDownloadLink.accesskey "N">
 <!ENTITY cmd.removeFromList.label "Bain den Liosta">
-<!ENTITY cmd.removeFromList.accesskey "b">
+<!ENTITY cmd.removeFromList.accesskey "B">
 
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">

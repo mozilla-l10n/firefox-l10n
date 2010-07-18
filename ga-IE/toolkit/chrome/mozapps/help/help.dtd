@@ -25,7 +25,7 @@
 <!ENTITY search.emptytext "Cuardach">
 <!ENTITY searchHeader.label "Torthaí cuardaigh">
 <!ENTITY toctab.label "Ábhar">
-<!ENTITY toctab.accesskey "B">
+<!ENTITY toctab.accesskey "b">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
