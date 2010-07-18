@@ -15,13 +15,13 @@
 # link title for about:firstrun
 #define bookmarks_welcome Firefox: Velkomen
 
-# LOCALIZATION NOTE (bookmarks_about):
+# LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Om nettlesaren din
 
 # LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_weave Firefox: Sykroniser med Weave
+# link title for https://www.mozilla.com/en-US/mobile/sync
+#define bookmarks_sync Firefox: Synkroniser med Weave Sync
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
@@ -30,5 +30,9 @@
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://mobile.support.mozilla.com
 #define bookmarks_support Firefox: Brukarstøtte
+
+# LOCALIZATION NOTE (bookmarks_aboutHome):
+# link title for about:home
+#define bookmarks_aboutHome Firefox Start
 
 #unfilter emptyLines
