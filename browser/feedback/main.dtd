@@ -8,7 +8,7 @@
 <!ENTITY testpilot.allStudies.label "Tutti i tuoi Studi utente">
 <!ENTITY testpilot.about.label "Informazioni su Test Pilot">
 <!ENTITY testpilot.studiesWindow.title "I tuoi studi Test Pilot">
-<!ENTITY testpilot.studiesWindow.currentStudies.label "Studi correnti">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Studi in corso">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label "Studi completati">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Risultati degli studi">
 <!ENTITY testpilot.studiesWindow.settings.label "Impostazioni">
