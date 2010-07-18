@@ -16,7 +16,7 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="use-help-finding-the-topic-you-want" nc:name="Finne emnet du ønskjer" 
                   nc:link="chrome://help/locale/welcome.xhtml#finding_the_topic_you_want"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="use-help-search" nc:name="Search Tips"
+        <rdf:li> <rdf:Description ID="use-help-search" nc:name="Søkjetips"
                   nc:link="chrome://help/locale/welcome.xhtml#search_tips"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>

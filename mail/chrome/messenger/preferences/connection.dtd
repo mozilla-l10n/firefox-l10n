@@ -6,7 +6,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
 <!ENTITY  systemTypeRadio.label         "Bruk systeminnstillingar">
 <!ENTITY  systemTypeRadio.accesskey     "B">
-<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtenar-innstillingar:">
+<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtenar-innstillingar">
 <!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtenar-innstillingar:">
 <!ENTITY  manualTypeRadio.accesskey     "M">

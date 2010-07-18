@@ -13,7 +13,7 @@
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søkje i meldingar">
 <!ENTITY searchIntegration.accesskey   "T">
-<!ENTITY checkNow.label                "Kontroller no …">
+<!ENTITY checkNow.label                "Kontroller no">
 <!ENTITY checkNow.accesskey            "n">
 <!ENTITY configEditDesc.label          "Avanserte innstillingar">
 <!ENTITY configEdit.label              "Konfigurasjonseditor …">
@@ -65,7 +65,7 @@
 <!ENTITY showUpdates.accesskey          "V">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Innstillingar">
+<!ENTITY showSettings.label            "Innstillingar …">
 <!ENTITY showSettings.accesskey        "I">
 <!ENTITY proxiesConfigure.label        "Still inn korleis &brandShortName; koplar seg til Internett">
 <!ENTITY connectionsInfo.caption       "Tilkopling">
