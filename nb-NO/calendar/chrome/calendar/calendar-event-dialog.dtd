@@ -128,7 +128,7 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "V">
 <!ENTITY  event.menu.view.toolbars.event.label            "Hendelsesverktøylinje">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "H">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass …">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "T">
 <!ENTITY  event.menu.view.showlink.label                  "Vis relatert lenke">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
