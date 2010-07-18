@@ -363,6 +363,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Mērogs">
 <!ENTITY fullZoom.accesskey "M">
 
+<!ENTITY inspectButton.label          "Izmeklēt">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Tālāk">
+<!ENTITY inspectNextButton.accesskey  "T">
+<!ENTITY inspectPreviousButton.label  "Atpakaļ">
+<!ENTITY inspectPreviousButton.accesskey "A">
+<!ENTITY inspectStyleButton.label     "Stils">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Stils">
+
 <!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">
 <!ENTITY sidebarCloseButton.tooltip "Aizvērt sānjoslu">

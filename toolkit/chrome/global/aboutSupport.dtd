@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nosaukums">
 <!ENTITY aboutSupport.appBasicsVersion "Versija">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profila direktorija">
-<!ENTITY aboutSupport.appBasicsPlugins "Instalētie spraudņi">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivizētie spraudņi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
 
 <!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
