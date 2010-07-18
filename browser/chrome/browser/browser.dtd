@@ -435,7 +435,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Avslutt">
 <!ENTITY quitApplicationCmd.accesskey   "t">
-<!ENTITY quitApplicationCmdMac.label    "Avslutt">
+<!ENTITY quitApplicationCmdMac.label    "Avslutt &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
 <!ENTITY closeCmd.label                 "Lukk">
@@ -455,8 +455,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Innstillinger for sprettoppvindublokkering …">
-<!ENTITY editPopupSettings.label "Innstillinger for sprettoppvindublokkering …">
+<!ENTITY editPopupSettingsUnix.label "Innstillinger for blokkering av sprettoppvinduer …">
+<!ENTITY editPopupSettings.label "Innstillinger for blokkering av sprettoppvinduer …">
 <!ENTITY editPopupSettings.accesskey "n">
 <!ENTITY dontShowMessage.accesskey "I">
 

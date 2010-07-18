@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Denne handlingen kan ikke angres.">
 
-<!ENTITY dialog.width                 "28em">
+<!ENTITY dialog.width                 "29em">
 <!ENTITY column.width                 "14em">
