@@ -491,7 +491,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
-<!-- example.com
+example.com
 which is run by
 Example Enterprises, Inc.
 
