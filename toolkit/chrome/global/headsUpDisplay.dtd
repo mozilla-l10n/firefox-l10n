@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY hud.title "Instrumentpanel">
+<!ENTITY hud.title "Konsoll">
 
 <!ENTITY errFile.label   "Kildefil:">
 <!ENTITY errLine.label   "Linje:">
