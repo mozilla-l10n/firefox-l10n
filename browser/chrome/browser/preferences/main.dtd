@@ -19,7 +19,7 @@
 
 <!ENTITY showWhenDownloading.label     "Vis nedlastingsvindauget ved nedlasting av filer">
 <!ENTITY showWhenDownloading.accesskey "V">
-<!ENTITY closeWhenDone.label "Lat att vindauget når alle nedlastingane er ferdige.">
+<!ENTITY closeWhenDone.label "Lat att vindauget når alle nedlastingane er ferdige">
 <!ENTITY closeWhenDone.accesskey "t">
 <!ENTITY saveTo.label "Lagre filer i">
 <!ENTITY saveTo.accesskey "L">
