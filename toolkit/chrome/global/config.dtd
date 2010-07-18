@@ -62,7 +62,7 @@
 <!ENTITY copyPref.label "Cóipeáil">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Cóipeáil Ainm">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Cóipeáil an Luach">
 <!ENTITY copyValue.accesskey "L">
 <!ENTITY modify.label "Athraigh">
@@ -70,12 +70,12 @@
 <!ENTITY toggle.label "Scoránaigh">
 <!ENTITY toggle.accesskey "S">
 <!ENTITY reset.label "Athshocraigh">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.accesskey "r">
 <!ENTITY new.label "Nua">
 <!ENTITY new.accesskey "a">
 <!ENTITY string.label "Teaghrán">
 <!ENTITY string.accesskey "T">
 <!ENTITY integer.label "Slánuimhir">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.accesskey "i">
 <!ENTITY boolean.label "Boole">
 <!ENTITY boolean.accesskey "B">

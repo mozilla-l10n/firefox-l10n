@@ -21,12 +21,12 @@
 <!ENTITY updates.updating.label "Breiseáin á nuashonrú">
 <!ENTITY updates.installed.label "Nuashonraíodh do chuid breiseán.">
 <!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label "Atosaigh anois chun an tsuiteáil a chur i gcrích.">
+<!ENTITY updates.restart.label "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY updates.noneFound.label "Níor aimsíodh nuashonruithe">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label "Taispeáin tuilleadh eolais">
-<!ENTITY cmd.showDetails.accesskey "S">
+<!ENTITY cmd.showDetails.accesskey "s">
 <!ENTITY cmd.findUpdates.label "Cuardaigh nuashonruithe">
 <!ENTITY cmd.findUpdates.accesskey "C">
 <!ENTITY cmd.preferences.label "Sainroghanna">
@@ -46,7 +46,7 @@
 <!ENTITY cmd.showPreferences.label "Sainroghanna">
 <!ENTITY cmd.showPreferences.tooltip "Athraigh sainroghanna an bhreiseáin seo">
 <!ENTITY cmd.contribute.label "Glac Páirt">
-<!ENTITY cmd.contribute.accesskey "C">
+<!ENTITY cmd.contribute.accesskey "c">
 <!ENTITY cmd.contribute.tooltip "Glac páirt i bhforbairt an bhreiseáin seo">
 <!-- detail view -->
 
@@ -58,10 +58,10 @@
 <!ENTITY detail.numberOfDownloads.label "Íosluchtú">
 
 <!ENTITY detail.updateAutomatically.label "Nuashonraigh go huathoibríoch">
-<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.accesskey "u">
 <!ENTITY detail.updateAutomatically.tooltip "Nuashonraigh an breiseán seo go huathoibríoch nuair a bheidh nuashonrú ar fáil">
 <!ENTITY detail.checkForUpdates.label "Lorg nuashonruithe">
-<!ENTITY detail.checkForUpdates.accesskey "G">
+<!ENTITY detail.checkForUpdates.accesskey "g">
 <!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
 <!ENTITY detail.showPreferences.label "Sainroghanna">
 <!ENTITY detail.showPreferences.accesskey "S">
@@ -104,7 +104,7 @@
 <!ENTITY addon.undoUninstall.label "Cealaigh?">
 <!ENTITY addon.undoUninstall.tooltip "Keep this add-on installed">
 <!ENTITY addon.restartNow.label "Atosaigh anois">
-<!ENTITY addon.restartNow.tooltip "Atosaigh anois chun an tsuiteáil a chur i gcrích.">
+<!ENTITY addon.restartNow.tooltip "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY addon.install.label "Suiteáil">
 <!ENTITY addon.install.tooltip "Suiteáil an breiseán seo">
 <!ENTITY addon.checkingForUpdates.label "Nuashonruithe á lorg…">

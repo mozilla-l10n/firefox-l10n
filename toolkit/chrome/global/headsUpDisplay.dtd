@@ -52,9 +52,9 @@
 <!ENTITY clear.label "Bánaigh">
 <!ENTITY clear.accesskey "B">
 <!ENTITY codeEval.label "Cód:">
-<!ENTITY codeEval.accesskey "c">
+<!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label "Luacháil">
-<!ENTITY evaluate.accesskey "l">
+<!ENTITY evaluate.accesskey "L">
 
 <!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.accesskey "C">

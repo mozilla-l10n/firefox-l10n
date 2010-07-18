@@ -50,7 +50,7 @@
 <!ENTITY newButton.label "Cruthaigh Próifíl…">
 <!ENTITY newButton.accesskey "C">
 <!ENTITY renameButton.label "Athainmnigh Próifíl…">
-<!ENTITY renameButton.accesskey "R">
+<!ENTITY renameButton.accesskey "r">
 <!ENTITY deleteButton.label "Scrios Próifíl…">
 <!ENTITY deleteButton.accesskey "S">
 <!-- manager entities -->
@@ -58,7 +58,7 @@
 <!ENTITY pmDescription.label "Sábhálann &brandShortName; eolas faoi do shocruithe, sainroghanna, agus míreanna úsáideora eile i do phróifíl phearsanta.">
 
 <!ENTITY offlineState.label "Oibrigh as líne">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.accesskey "O">
 
 <!ENTITY autoSelect.label "Ná fiafraigh ag am tosaithe">
 <!ENTITY autoSelect.accesskey "s">

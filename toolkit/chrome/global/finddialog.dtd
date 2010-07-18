@@ -12,7 +12,7 @@
 <!ENTITY cancelButton.label "Cealaigh">
 <!ENTITY closeButton.label "Dún">
 <!ENTITY up.label "Suas">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "u">
 <!ENTITY down.label "Síos">
 <!ENTITY down.accesskey "S">
 <!ENTITY direction.label "Treo">
