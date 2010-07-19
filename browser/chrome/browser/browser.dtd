@@ -177,6 +177,16 @@
 <!ENTITY inspectMenu.accesskey        "e">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "Preskúmať">
+<!ENTITY inspectButton.accesskey      "P">
+<!ENTITY inspectNextButton.label      "Ďalšie">
+<!ENTITY inspectNextButton.accesskey  "a">
+<!ENTITY inspectPreviousButton.label  "Predchádzajúce">
+<!ENTITY inspectPreviousButton.accesskey "e">
+<!ENTITY inspectStyleButton.label     "Štýl">
+<!ENTITY inspectStyleButton.accesskey "t">
+<!ENTITY inspectStylePanelTitle.label  "Štýl">
+
 <!ENTITY fileMenu.label "Súbor">
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY newNavigatorCmd.label "Nové okno">
@@ -361,7 +371,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "e">
 <!ENTITY copyAudioURLCmd.label        "Kopírovať adresu zvuku">
 <!ENTITY copyAudioURLCmd.accesskey    "e">
-<!ENTITY blockImageCmd.accesskey      "z">
 <!ENTITY copyEmailCmd.label           "Kopírovať e-mailovú adresu">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Tento rámec">
