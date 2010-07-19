@@ -4,6 +4,7 @@
 <!ENTITY places.library.height              "500">
 <!ENTITY organize.label                     "Usporiadať">
 <!ENTITY organize.accesskey                 "s">
+<!ENTITY organize.tooltip                   "Usporiadať moje záložky">
 
 <!ENTITY file.accesskey                     "S">
 <!ENTITY file.close.label                   "Zavrieť">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                     "U">
 <!ENTITY views.label                        "Zobrazenia">
 <!ENTITY views.accesskey                    "o">
+<!ENTITY views.tooltip                      "Zmeniť pohľad">
 <!ENTITY view.columns.label                 "Usporiadať stĺpce">
 <!ENTITY view.columns.accesskey             "U">
 <!ENTITY view.sort.label                    "Usporiadať">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label                  "Import a zálohovanie">
 <!ENTITY maintenance.accesskey              "I">
+<!ENTITY maintenance.tooltip                "Import a zálohovanie mojich záložiek">
 
 <!ENTITY backCmd.label                      "Naspäť">
 <!ENTITY backButton.tooltip                 "Prejsť naspäť">

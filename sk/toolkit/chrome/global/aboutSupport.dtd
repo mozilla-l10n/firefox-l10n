@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Názov">
 <!ENTITY aboutSupport.appBasicsVersion "Verzia">
 <!ENTITY aboutSupport.appBasicsProfileDir "Priečinok profilu">
-<!ENTITY aboutSupport.appBasicsPlugins "Nainštalované zásuvné moduly">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Povolené zásuvné moduly">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurácia zostavenia">
 
 <!ENTITY aboutSupport.show.label "Otvoriť priečinok">
