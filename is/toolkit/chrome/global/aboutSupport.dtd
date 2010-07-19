@@ -14,7 +14,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nafn">
 <!ENTITY aboutSupport.appBasicsVersion "Útgáfa">
 <!ENTITY aboutSupport.appBasicsProfileDir "Notandamappa">
-<!ENTITY aboutSupport.appBasicsPlugins "Uppsett tengiforrit">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Virk tengiforrit">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Smíð stillingar">
 <!ENTITY aboutSupport.show.label "Opna möppu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
