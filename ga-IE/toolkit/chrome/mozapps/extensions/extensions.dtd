@@ -20,7 +20,7 @@
 <!ENTITY updates.updateNow.label "Nuashonraigh breiseáin">
 <!ENTITY updates.updating.label "Breiseáin á nuashonrú">
 <!ENTITY updates.installed.label "Nuashonraíodh do chuid breiseán.">
-<!ENTITY updates.downloaded.label "Your add-on updates have been downloaded.">
+<!ENTITY updates.downloaded.label "Íosluchtaíodh nuashonruithe na mbreiseán.">
 <!ENTITY updates.restart.label "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY updates.noneFound.label "Níor aimsíodh nuashonruithe">
 <!-- addon actions -->
@@ -62,7 +62,7 @@
 <!ENTITY detail.updateAutomatically.tooltip "Nuashonraigh an breiseán seo go huathoibríoch nuair a bheidh nuashonrú ar fáil">
 <!ENTITY detail.checkForUpdates.label "Lorg nuashonruithe">
 <!ENTITY detail.checkForUpdates.accesskey "g">
-<!ENTITY detail.checkForUpdates.tooltip "Check for updates for this add-on">
+<!ENTITY detail.checkForUpdates.tooltip "Lorg nuashonruithe le haghaidh an bhreiseáin seo">
 <!ENTITY detail.showPreferences.label "Sainroghanna">
 <!ENTITY detail.showPreferences.accesskey "S">
 <!ENTITY detail.showPreferences.tooltip "Athraigh sainroghanna an bhreiseáin seo">
