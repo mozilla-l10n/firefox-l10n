@@ -19,7 +19,7 @@
 <!ENTITY aboutSupport.appBasicsName "Name">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profil-Verzeichnis">
-<!ENTITY aboutSupport.appBasicsPlugins "Installierte Plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivierte Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
 
 <!ENTITY aboutSupport.show.label "Beinhaltenden Ordner anzeigen">
