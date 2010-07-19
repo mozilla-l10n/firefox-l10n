@@ -302,7 +302,7 @@
 
 <!ENTITY newTabButton.tooltip  "새 탭 열기">
 <!ENTITY newWindowButton.tooltip "새 창 열기">
-<!ENTITY sidebarCloseButton.tooltip "탐색 창 닫기">
+<!ENTITY sidebarCloseButton.tooltip "탐색창 닫기">
 <!ENTITY cutButton.tooltip "잘라내기">
 <!ENTITY copyButton.tooltip "복사">
 <!ENTITY pasteButton.tooltip "붙여넣기">
@@ -382,7 +382,7 @@
 <!ENTITY appMenuPrintCmd.label "인쇄">
 <!ENTITY appMenuCustomize.label "사용자 설정">
 <!ENTITY appMenuToolbarLayout.label "도구 모음 배치…">
-<!ENTITY appMenuSidebars.label "탐색 창">
+<!ENTITY appMenuSidebars.label "탐색창">
 <!ENTITY appMenuHelp.label "도움말">
 
 <!ENTITY savePageCmd.accesskey2 "P">

@@ -16,7 +16,7 @@
 <!ENTITY aboutSupport.appBasicsName "이름">
 <!ENTITY aboutSupport.appBasicsVersion "버전">
 <!ENTITY aboutSupport.appBasicsProfileDir "프로필 저장 폴더">
-<!ENTITY aboutSupport.appBasicsPlugins "설치한 플러그인 목록">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "사용 중인 플러그인">
 <!ENTITY aboutSupport.appBasicsBuildConfig "빌드 설정">
 
 <!ENTITY aboutSupport.show.label "폴더 열기">
