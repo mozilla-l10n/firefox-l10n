@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Versie">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profielmap">
-<!ENTITY aboutSupport.appBasicsPlugins "Geïnstalleerde plug-ins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ingeschakelde plug-ins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Buildconfiguratie">
 
 <!ENTITY aboutSupport.show.label "Bijbehorende map openen">
