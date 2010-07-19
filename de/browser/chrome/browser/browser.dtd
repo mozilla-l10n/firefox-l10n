@@ -129,6 +129,12 @@
 <!ENTITY bookmarksButton.tooltip        "Öffnet Ihre Lesezeichen-Liste">
 <!ENTITY bookmarksButton.accesskey  "L">
 <!ENTITY bookmarksCmd.commandkey "B">
+
+<!ENTITY bookmarksMenuButton.label          "Lesezeichen">
+<!ENTITY bookmarksMenuButton.tooltip        "Lesezeichen anzeigen">
+<!ENTITY viewBookmarksSidebar.label         "In der Sidebar anzeigen">
+<!ENTITY viewBookmarksToolbar.label         "Lesezeichen-Symbolleiste anzeigen">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
