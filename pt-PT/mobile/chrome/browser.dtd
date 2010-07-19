@@ -1,8 +1,9 @@
+<!ENTITY urlbar.emptytext      "Escreva uma pesquisa ou um endereço">
+
 <!ENTITY back.label            "Retroceder">
 <!ENTITY forward.label         "Avançar">
 <!ENTITY reload.label          "Recarregar">
 <!ENTITY stop.label            "Parar">
-<!ENTITY search.label          "Pesquisar">
 <!ENTITY go.label              "Ir">
 <!ENTITY openLocation.label    "Abrir localização">
 <!ENTITY star.label            "Estrela">
@@ -26,14 +27,10 @@
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
 
-<!ENTITY helperApp.prompt          "O que deseja fazer com">
-<!ENTITY helperApp.open            "Abrir">
-<!ENTITY helperApp.save            "Guardar">
-<!ENTITY helperApp.nothing         "Nada">
+<!ENTITY contentNavigator.previous "Anterior">
+<!ENTITY contentNavigator.next     "Seguinte">
 
-<!ENTITY formHelper.previous       "Anterior">
-<!ENTITY formHelper.next           "Seguinte">
-<!ENTITY formHelper.done           "Feito">
+<!ENTITY selectHelper.done         "Feito">
 
 <!ENTITY addonsHeader.label        "Extras">
 <!ENTITY addonsLocal.label         "Os seus extras">
@@ -67,8 +64,6 @@
 <!ENTITY noResults.label           "Sem resultados">
 <!ENTITY allBookmarks.label        "Ver todos os marcadores">
 
-<!ENTITY searchEngine.addSearch    "Adicionar pesquisa:">
-
 <!ENTITY bookmarkPopup.label       "Página adicionada aos marcadores">
 <!ENTITY bookmarkRemove.label      "Remover">
 <!ENTITY bookmarkEdit.label        "Editar">
@@ -94,3 +89,5 @@
 <!ENTITY consoleErrLine.label      "Linha:">
 <!ENTITY consoleErrColumn.label    "Coluna:">
 
+<!ENTITY contextOpenInNewTab.label "Abrir ligação em novo separador">
+<!ENTITY contextSaveImage.label    "Guardar imagem">
