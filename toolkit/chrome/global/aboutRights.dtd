@@ -14,15 +14,15 @@
 <!ENTITY rights.intro-point1a "&brandShortName; er á boðstólum fyrir þig samkvæmt skilmálum ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Þetta þýðir að þú mátt nota, afrita og dreifa &brandShortName; til annarra.  Þú mátt einnig breyta frumkóða &brandShortName; hvernig sem þér hentar. Mozilla Public License gefur þér einnig rétt til að dreifa breyttum útgáfum.">
-<!ENTITY rights.intro-point2-a "Þú hefur ekki leyfi ti lað nota vörumerki eða hefur leyfi fyrir vörumerkjum frá Mozilla stofnunni eða öðrum aðila, innifelur það í sér án allra takmarkana Firefox nafnið eða lógó. Meiri upplýsingar fást á ">
+<!ENTITY rights.intro-point2-a "Þú hefur ekki leyfi ti lað nota vörumerki eða hefur leyfi fyrir vörumerkjum frá Mozilla stofnunni eða öðrum aðila, innifelur það í sér án allra takmarkana Firefox nafnið eða fyrirtækismerki. Meiri upplýsingar fást á ">
 <!ENTITY rights.intro-point2-b "hérna">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Finna má friðhelgisreglur fyrir &vendorShortName; vörur ">
+<!ENTITY rights.intro-point3a "Finna má upplýsingar um meðferð persónuupplýsinga fyrir &vendorShortName; forrit ">
 <!ENTITY rights.intro-point3b "hérna">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Allar viðeigandi friðhelgisreglur fyrir þessa vöru ættu að vera sýndar hér.">
+<!ENTITY rights.intro-point3-unbranded "Allar reglur um meðferð persónuupplýsinga fyrir þessa vöru ættu að vera sýndar hér.">
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "Aukalega býður &brandShortName; upp á þjónustur fyrir vefsvæðisupplýsingar, eins og öryggisupplýsinga þjónustuna; en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100&#37; nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er að finna í ">
 <!ENTITY rights.intro-point4b "þjónustuskilmálum">
