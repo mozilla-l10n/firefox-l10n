@@ -1,3 +1,5 @@
-security/manager/chrome/pippki/validation.dtd
-toolkit/chrome/global/printdialog.properties
-dom/chrome/security/caps.properties
+A browser/chrome/browser/inspector.properties
+A browser/feedback/main.dtd
+A browser/feedback/main.properties
+A toolkit/chrome/global/headsUpDisplay.dtd
+A toolkit/chrome/global/headsUpDisplay.properties
