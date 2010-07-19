@@ -4,6 +4,8 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Verwalten">
 <!ENTITY organize.accesskey    "V">
+<!ENTITY organize.tooltip      "Lesezeichen verwalten">
+
 
 <!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Schließen">
@@ -13,6 +15,7 @@
 <!ENTITY edit.accesskey                 "B">
 <!ENTITY views.label                    "Ansichten">
 <!ENTITY views.accesskey                 "A">
+<!ENTITY views.tooltip                  "Ansicht ändern">
 <!ENTITY view.columns.label             "Spalten anzeigen">
 <!ENTITY view.columns.accesskey         "p">
 <!ENTITY view.sort.label                "Sortieren">
@@ -107,6 +110,8 @@
 
 <!ENTITY maintenance.label      "Importieren und Sichern">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Lesezeichen importieren und sichern">
+
 
 <!ENTITY backCmd.label       "Zurück">
 <!ENTITY backButton.tooltip  "Eine Seite zurück">
