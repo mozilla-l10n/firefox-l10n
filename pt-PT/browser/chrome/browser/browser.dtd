@@ -177,6 +177,16 @@ shortcut keys on Linux. -->
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "Inspeccionar">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Seguinte">
+<!ENTITY inspectNextButton.accesskey  "S">
+<!ENTITY inspectPreviousButton.label  "Anterior">
+<!ENTITY inspectPreviousButton.accesskey "A">
+<!ENTITY inspectStyleButton.label     "Estilo">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Estilo">
+
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newNavigatorCmd.label "Nova janela">
