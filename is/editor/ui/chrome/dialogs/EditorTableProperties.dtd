@@ -37,7 +37,7 @@
 
 <!ENTITY tableWindow.title "Eiginleikar töflu">
 <!ENTITY applyButton.label "Staðfesta">
-<!ENTITY applyButton.accesskey "A">
+<!ENTITY applyButton.accesskey "a">
 <!ENTITY closeButton.label "Loka">
 <!ENTITY tableTab.label "Tafla">
 <!ENTITY cellTab.label "Reitir">
@@ -59,9 +59,9 @@
 <!ENTITY tablePxBetwCells.label "punktar á milli hólfa">
 <!ENTITY tablePxBetwBrdrCellContent.label "punktar á milli hólfa og efnis">
 <!ENTITY tableAlignment.label "Stilling töflu:">
-<!ENTITY tableAlignment.accessKey "T">
+<!ENTITY tableAlignment.accessKey "t">
 <!ENTITY tableCaption.label "Fyrirsögn:">
-<!ENTITY tableCaption.accessKey "N">
+<!ENTITY tableCaption.accessKey "n">
 <!ENTITY tableCaptionAbove.label "Ofan töflu">
 <!ENTITY tableCaptionBelow.label "Neðan töflu">
 <!ENTITY tableCaptionLeft.label "Vinstra megin við töflu">

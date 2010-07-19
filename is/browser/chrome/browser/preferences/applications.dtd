@@ -1,5 +1,5 @@
 <!ENTITY typeColumn.label "Efnistegund">
-<!ENTITY typeColumn.accesskey "T">
+<!ENTITY typeColumn.accesskey "t">
 <!ENTITY actionColumn2.label "Aðgerð">
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">

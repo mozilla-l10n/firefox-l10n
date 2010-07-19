@@ -48,10 +48,10 @@
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY compositionToolbarCmd.label "Samsetningarslá">
 <!ENTITY compositionToolbarCmd.accesskey "S">
-<!ENTITY formattingToolbarCmd.label "Sníða tækjaslá">
+<!ENTITY formattingToolbarCmd.label "Sniðslá">
 <!ENTITY formattingToolbarCmd.accesskey "S">
-<!ENTITY editmodeToolbarCmd.label "Breytiverkfærarein">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY editmodeToolbarCmd.label "Breyta verkfæraslá">
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Snið">
-<!ENTITY formatMenu.accesskey "S">
+<!ENTITY formatMenu.accesskey "ð">

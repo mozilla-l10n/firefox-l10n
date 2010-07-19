@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "Stillingar RSS reiknings">
+<!ENTITY accountTitle.label "Stillingar reiknings">
 <!ENTITY biffStart.label "Leita að nýjum greinum á hverjum ">
 <!ENTITY biffStart.accesskey "L">
 <!ENTITY biffEnd.label "mínútur">
@@ -11,9 +11,8 @@
 <!ENTITY manageSubscriptions.label "Stilla áskriftir…">
  
 <!ENTITY manageSubscriptions.accesskey "S">
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName "Fréttir &amp; Blogg">
-<!ENTITY rss.wizardShortName "RSS">
-  
-<!ENTITY rss.wizardLongName "RSS fréttir &amp; blogg">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogg og fréttastraumar">
+<!ENTITY feeds.wizardShortName "Straumar">
+<!ENTITY feeds.wizardLongName "Blogg og fréttastraumar">
+<!ENTITY feeds.wizardLongName.accesskey "F">

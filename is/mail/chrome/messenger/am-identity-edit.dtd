@@ -1,5 +1,6 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Stillingar auðkennis">
 <!ENTITY identityListDesc.label "Stilla stillingar fyrir þetta auðkenni:">
 <!ENTITY settingsTab.label "Stillingar">
-<!ENTITY copiesFoldersTab.label "Afrit &amp; Möppur">
-<!ENTITY addressingTab.label "Samsetning &amp; Póstföng">
+<!ENTITY copiesFoldersTab.label "Afrit og möppur">
+<!ENTITY addressingTab.label "Samsetning og póstföng">

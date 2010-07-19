@@ -5,8 +5,6 @@
  
 <!ENTITY editfield1.label "Lykilorð:">
  
-<!ENTITY editfield2.label "Staðfestu lykilorð:">
- 
 <!ENTITY checkbox.label "haka">
 <!ENTITY copyCmd.label "Afrita">
 <!ENTITY copyCmd.accesskey "A">

@@ -2,28 +2,26 @@
 <!ENTITY connectionsDialog.title "Net stillingar">
 <!ENTITY window.width "43em">
 <!ENTITY window.macWidth "45em">
-<!ENTITY proxyTitle.label "Stilla staðgengla (Proxy) til að tengjast netinu">
-<!ENTITY noProxyTypeRadio.label "Enginn staðgengill">
-<!ENTITY noProxyTypeRadio.accesskey "e">
-<!ENTITY systemTypeRadio.label "Nota staðgengla stillingar">
+<!ENTITY proxyTitle.label "Stilla milliþjóna (Proxy) til að tengjast netinu">
+<!ENTITY noProxyTypeRadio.label "Enginn milliþjónn">
+<!ENTITY noProxyTypeRadio.accesskey "þ">
+<!ENTITY systemTypeRadio.label "Nota milliþjóna stillingar">
 <!ENTITY systemTypeRadio.accesskey "N">
-<!ENTITY WPADTypeRadio.label "Sjálfvirk uppgötvun á staðgenglum á þessu neti">
+<!ENTITY WPADTypeRadio.label "Sjálfvirk uppgötvun á milliþjónum á þessu neti">
 <!ENTITY WPADTypeRadio.accesskey "u">
-<!ENTITY manualTypeRadio.label "Handvirk stilling á staðgenglum:">
+<!ENTITY manualTypeRadio.label "Handvirk stilling á milliþjónum:">
 <!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "Sjálfvirkt URL fyrir stillingar á staðgenglum:">
+<!ENTITY autoTypeRadio.label "Sjálfvirkt URL fyrir stillingar á milliþjónum:">
 <!ENTITY autoTypeRadio.accesskey "a">
 <!ENTITY reload.label "Endurnýja">
-<!ENTITY reload.accesskey "e">
-<!ENTITY ftp.label "FTP staðgengill:">
+<!ENTITY reload.accesskey "E">
+<!ENTITY ftp.label "FTP milliþjónn:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher staðgengill:">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "HTTP staðgengill:">
+<!ENTITY http.label "HTTP milliþjónn:">
 <!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "SSL staðgengill:">
+<!ENTITY ssl.label "SSL milliþjónn:">
 <!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "SOCKS hýsitölva:">
+<!ENTITY socks.label "SOCKS netþjónn:">
 <!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">
 <!ENTITY socks4.accesskey "K">
@@ -33,11 +31,9 @@
 <!ENTITY HTTPport.accesskey "G">
 <!ENTITY SSLport.accesskey "">
 <!ENTITY FTPport.accesskey "">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Engir staðgenglar fyrir:">
+<!ENTITY noproxy.label "Ekki nota milliþjóna fyrir:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Til dæmis: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Nota þennan staðgengill fyrir allar samskiptareglur">
+<!ENTITY shareproxy.label "Nota þennan milliþjónn fyrir allar samskiptareglur">
 <!ENTITY shareproxy.accesskey "o">

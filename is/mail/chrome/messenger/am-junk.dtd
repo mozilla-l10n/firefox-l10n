@@ -1,17 +1,17 @@
 <!ENTITY junkSettings.label "Ruslpóstsstillingar">
-<!ENTITY trainingWarning.label "Ef þetta er gert virkt, verðurðu fyrst að þjálfa &brandShortName; til að bera kennsl á ruslpóst með því að nota ruslpóststakkann. Þú verður að bera bæði kennsl á ruslpóst og venjulegan póst.">
+<!ENTITY trainingWarning.label "Ef þetta er gert virkt, verðurðu fyrst að þjálfa &brandShortName; til að bera kennsl á ruslpóst með því að nota ruslpóststakkann. Þú verður bæði að bera kennsl á ruslpóst og venjulegan póst.">
 <!ENTITY level.label "Virkja ruslpóstsstjórnun með aðlögunarhæfni fyrir þennan reikning">
-<!ENTITY level.accesskey "E">
+<!ENTITY level.accesskey "e">
 <!ENTITY move.label "Færa ruslpóst í:">
 <!ENTITY move.accesskey "F">
 <!ENTITY junkFolderOn.label "&quot;Ruslpóst&quot; mappa á:">
 <!ENTITY junkFolderOn.accesskey "R">
 <!ENTITY otherFolder.label "Annað:">
 <!ENTITY otherFolder.accesskey "A">
-<!ENTITY purge1.label "Eyða sjálfvirkt ruslpósti eldri en">
+<!ENTITY purge1.label "Eyða sjálfkrafa ruslpósti eldri en">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "daga">
 <!ENTITY whitelist.label "Ekki merkja póst sem ruslpóst ef sendandi er í: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.accesskey "d">
 <!ENTITY ispHeaders.label "Treysta ruslpóstshausum sem eru búnir til af: ">
 <!ENTITY ispHeaders.accesskey "T">

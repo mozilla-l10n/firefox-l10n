@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "Merkja póst sem lesin frá dagsetningu">
 <!ENTITY markByDateLower.label "Merkja póst sem lesin frá:">
-<!ENTITY markByDateLower.accesskey "F">
+<!ENTITY markByDateLower.accesskey "f">
 <!ENTITY markByDateUpper.label "Til:">
 <!ENTITY markByDateUpper.accesskey "T">

@@ -7,13 +7,16 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY releaseCmd.label "Útgáfuupplýsingar">
 <!ENTITY releaseCmd.accesskey "t">
+<!ENTITY whatsNewCmd.label "Nýjungar">
+<!ENTITY whatsNewCmd.accesskey "N">
+<!ENTITY featureConfiguratorCmd.label "Flutningshjálp">
+<!ENTITY featureConfiguratorCmd.accesskey "F">
 <!ENTITY openHelp.label "Hjálparefni">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; hjálp">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
-<!ENTITY updateCmd.label "Athuga uppfærslur…">
-<!ENTITY updateCmd.accesskey "A">
-<!ENTITY aboutCmd.label "Um &brandFullName;">
-<!ENTITY aboutCmd.accesskey "U">
+<!ENTITY updateCmd.label "Athuga með uppfærslur…">
+<!ENTITY aboutMenuCmd.label "Um &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "U">

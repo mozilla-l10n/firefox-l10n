@@ -10,7 +10,7 @@
 <!ENTITY descText.label "Lýsing á prentara:">
 <!ENTITY printer.label "Prentari">
 <!ENTITY printerInput.label "Heiti prentara:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.accesskey "n">
 <!ENTITY printrangeGroup.label "Prentbil">
 <!ENTITY allpagesRadio.label "Allar síður">
 <!ENTITY allpagesRadio.accesskey "A">
@@ -31,4 +31,4 @@
 <!ENTITY selectedframeRadio.label "Valinn rammi">
 <!ENTITY selectedframeRadio.accesskey "m">
 <!ENTITY eachframesepRadio.label "Hvern ramma sérstaklega">
-<!ENTITY eachframesepRadio.accesskey "E">
+<!ENTITY eachframesepRadio.accesskey "e">

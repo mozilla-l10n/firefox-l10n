@@ -3,7 +3,7 @@
 <!ENTITY treehead.sitename.label "Vefsvæði">
 <!ENTITY treehead.status.label "Staða">
 <!ENTITY removepermission.label "Fjarlægja vefsvæði">
-<!ENTITY removepermission.accesskey "R">
+<!ENTITY removepermission.accesskey "r">
 <!ENTITY removeallpermissions.label "Fjarlægja öll vefsvæði">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label "Vistfang vefsvæðis:">
@@ -11,7 +11,7 @@
 <!ENTITY block.label "Loka á">
 <!ENTITY block.accesskey "o">
 <!ENTITY session.label "Leyfa í þessari lotu">
-<!ENTITY session.accesskey "S">
+<!ENTITY session.accesskey "s">
 <!ENTITY allow.label "Leyfa">
 <!ENTITY allow.accesskey "f">
 <!ENTITY windowClose.key "w">

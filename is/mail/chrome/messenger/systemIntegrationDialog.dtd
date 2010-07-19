@@ -1,0 +1,9 @@
+<!ENTITY systemIntegration.title "Samþætting kerfis">
+<!ENTITY defaultClient.intro "Nota &brandShortName; sem sjálfgefið forrit fyrir:">
+<!ENTITY email.label "Tölvupóst">
+<!ENTITY newsgroups.label "Fréttahópa">
+<!ENTITY feeds.label "Strauma">
+<!ENTITY checkOnStartup.label "Alltaf athuga þegar &brandShortName; er ræstur">
+<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY searchIntegration.label "Leyfa &searchIntegration.engineName; að leita í pósti">
+<!ENTITY searchIntegration.accesskey "s">

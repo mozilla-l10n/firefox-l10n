@@ -46,21 +46,21 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "Flytja inn">
 <!ENTITY importAll.label "Flytja inn allt">
-<!ENTITY importAll.accesskey "a">
+<!ENTITY importAll.accesskey "F">
 <!ENTITY importMail.label "Póstur">
 <!ENTITY importMail.accesskey "P">
 <!ENTITY importAddressbook.label "Nafnaskrár">
-<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importAddressbook.accesskey "a">
 <!ENTITY importSettings.label "Stillingar">
 <!ENTITY importSettings.accesskey "S">
 <!ENTITY importFilters.label "Síur">
-<!ENTITY importFilters.accesskey "S">
+<!ENTITY importFilters.accesskey "u">
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "&brandShortName; Flytja inn póst">
 <!ENTITY importShortDesc.label "Flytja inn póst, nafnaskrár, stillingar, eða síur frá öðrum forritum">
-<!ENTITY importDescription1.label "Þessi hjálpargluggi flytur inn póst, nafnabækur, stillingar, og/eða síur úr öðrum póstforritum og algengum nafnaskrám og setur inn í &brandShortName;.">
-<!ENTITY importDescription2.label "Um leið og þetta hefur verið flutt inn, geturðu haft aðgang að því í &brandShortName;.">
+<!ENTITY importDescription1.label "Þessi hjálpargluggi flytur inn póst, nafnaskrár, stillingar, og/eða síur úr öðrum póstforritum og algengum nafnaskrám og setur inn í &brandShortName;.">
+<!ENTITY importDescription2.label "Um leið og efnið hefur verið flutt inn, færðu aðgang að því í með &brandShortName;.">
 <!ENTITY selectDescription.label "Veldu tegund skráar til að flytja inn:">
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY back.label "&lt; Til baka">
@@ -72,7 +72,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY processing.label "Flyt inn…">
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x er með eitt póstfang fyrir hvern tengilið, á meðan &brandShortName; er með tvö (Heima og vinna).">
 <!ENTITY FieldDiscInputText2.label "Veldu þann flokk sem þú vilt að innfluttu póstföngin verði geymd í:">
-<!ENTITY FieldDiscWarning.label "Þessi flokkur verður notaður fyrir allar færslur í valinni nafnabók: ">
+<!ENTITY FieldDiscWarning.label "Þessi flokkur verður notaður fyrir allar færslur í valinni nafnaskrá: ">
 <!ENTITY importHome.label "Heima">
 <!ENTITY importHome.accesskey "H">
 <!ENTITY importWork.label "Vinna">

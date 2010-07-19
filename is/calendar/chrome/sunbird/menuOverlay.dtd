@@ -49,16 +49,16 @@
 <!ENTITY event.edit.event.key "E">
 <!ENTITY event.edit.event.accesskey "B">
 <!ENTITY event.delete.event "Eyða völdu atriði">
-<!ENTITY event.delete.event.accesskey "D">
+<!ENTITY event.delete.event.accesskey "d">
 <!ENTITY event.delete.tasks "Eyða völdum verkum">
 <!ENTITY event.delete.tasks.accesskey "E">
-<!ENTITY calendar.pagesetup.label "Síðustillingar…">
-<!ENTITY calendar.pagesetup.accesskey "U">
+<!ENTITY calendar.pagesetup.label "Síðuuppsetning…">
+<!ENTITY calendar.pagesetup.accesskey "u">
 <!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
-<!ENTITY calendar.subscribe.accesskey "R">
+<!ENTITY calendar.subscribe.accesskey "r">
 <!ENTITY calendar.reloadserver.label "Endurnýja fjartengd dagatöl">
 <!ENTITY calendar.reloadserver.key "ö">
-<!ENTITY calendar.reloadserver.accesskey "R">
+<!ENTITY calendar.reloadserver.accesskey "r">
 <!ENTITY calendar.publish.calendar.label "Gefa út dagatal…">
 <!ENTITY calendar.publish.calendar.accesskey "e">
 <!ENTITY calendar.publish.selection.label "Gefa út valin atriði…">
@@ -74,7 +74,7 @@
 <!ENTITY calendar.undo.accesskey "f">
 <!ENTITY calendar.redo.label "Endurtaka">
 <!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "n">
+<!ENTITY calendar.redo.accesskey "r">
 <!ENTITY calendar.cut.label "Klippa">
 <!ENTITY calendar.cut.key "X">
 <!ENTITY calendar.cut.accesskey "K">
@@ -87,12 +87,12 @@
 <!ENTITY calendar.selectall.label "Velja allt">
 <!ENTITY calendar.selectall.key "A">
 <!ENTITY calendar.selectall.accesskey "j">
-<!ENTITY toolbarsMenu.label "Verkfærarein">
+<!ENTITY toolbarsMenu.label "Verkfæraslár">
 <!ENTITY toolbarsMenu.accesskey "V">
-<!ENTITY showStatusBarCmd.label "Stöðurein">
+<!ENTITY showStatusBarCmd.label "Stöðuslá">
 <!ENTITY showStatusBarCmd.accesskey "S">
 <!ENTITY showTaskBoxCmd.label "Yfirlit verka">
-<!ENTITY showTaskBoxCmd.accesskey "L">
+<!ENTITY showTaskBoxCmd.accesskey "l">
 <!ENTITY calendar.fullscreen.label "Fylla skjá">
 <!ENTITY calendar.fullscreen.accesskey "k">
 <!ENTITY calendar.addons.label "Viðbætur">
@@ -114,7 +114,7 @@
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "B">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY optionsCmd.label "Valkostir…">
 <!ENTITY optionsCmd.accesskey "V">
 <!ENTITY preferencesCmd.label "Valkostir">
@@ -128,13 +128,15 @@
 <!ENTITY releaseCmd.accesskey "t">
 <!ENTITY aboutCmd.label "Um &brandFullName;">
 <!ENTITY aboutCmd.accesskey "U">
-<!ENTITY updateCmd.label "Athuga uppfærslur…">
+<!ENTITY updateCmd.label "Athuga með uppfærslur…">
 <!ENTITY updateCmd.accesskey "A">
+<!ENTITY sunbird.export.calendar.label "Flytja út dagatal…">
+<!ENTITY sunbird.export.calendar.accesskey "F">
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label "Gluggi">
 <!ENTITY minimizeWindow.label "Minnka">
-<!ENTITY zoomWindow.label "Þysja">
-<!ENTITY minimizeWindow.key "M">
+<!ENTITY zoomWindow.label "Aðdráttur">
+<!ENTITY minimizeWindow.key "ð">
 <!ENTITY bringAllToFront.label "Endurheimta">
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label "Þjónusta">

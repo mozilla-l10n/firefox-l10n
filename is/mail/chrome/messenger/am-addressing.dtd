@@ -1,16 +1,16 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label "Samsetning &amp; Póstföng">
+<!ENTITY addressing.label "Samsetning og póstföng">
 <!ENTITY addressingGroupTitle.label "Póstföng">
 <!ENTITY addressingText.label "Þegar póstföngum er flett upp:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label "Nota stillingar sem eru fyrir LDAP þjón fyrir þennan reikning">
-<!ENTITY useGlobal.accesskey "U">
+<!ENTITY useGlobal.label "Nota víðværar LDAP stillingar fyrir þennan reikning">
+<!ENTITY useGlobal.accesskey "N">
 <!ENTITY editDirectories.label "Breyta netfangaþjónum…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY editDirectories.accesskey "e">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Nota annan LDAP þjón:">
-<!ENTITY directories.accesskey "d">
+<!ENTITY directories.accesskey "D">
 <!ENTITY directoriesNone.label "Enginn">
 <!-- am-addressing.xul -->
 
@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label "Búa til póst á HTML sniði">
 <!ENTITY useHtml.accesskey "B">
-<!ENTITY autoQuote.label "Setja sjálfvirkt inn tilvitnun í upprunalegan póst þegar svarað er">
+<!ENTITY autoQuote.label "Setja sjálfkrafa inn tilvitnun í upprunalegan póst þegar svarað er">
 <!ENTITY autoQuote.accesskey "S">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label "Og svo,">
@@ -28,5 +28,9 @@
 <!ENTITY selectAndQuote.label "veldu tilvitnun">
 <!ENTITY place.label "og settu mína undirskrift">
 <!ENTITY place.accesskey "s">
-<!ENTITY belowText.label "fyrir neðan tilvitnum (mælt með)">
+<!ENTITY belowText.label "fyrir neðan tilvitnun (mælt með)">
 <!ENTITY aboveText.label "fyrir neðan mitt svar (fyrir ofan tilvitnun)">
+<!ENTITY includeSigOnReply.label "Bæta undirskrift við í svarbréf">
+<!ENTITY includeSigOnReply.accesskey "æ">
+<!ENTITY includeSigOnForward.label "Bæta undirskrift við í áframsend bréf">
+<!ENTITY includeSigOnForward.accesskey "f">

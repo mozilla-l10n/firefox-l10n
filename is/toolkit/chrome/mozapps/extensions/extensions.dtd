@@ -1,158 +1,94 @@
-<!ENTITY addons.title "Viðbætur">
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
-<!ENTITY search.label "Ná í viðbætur">
-<!ENTITY extensions.label "Viðbætur">
-<!ENTITY themes.label "Þema">
-<!ENTITY locales.label "Tungumál">
-<!ENTITY plugins.label "Tengiforrit">
-<!ENTITY update.label "Uppfærslur">
-<!ENTITY install.label "Uppsetning">
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label "Leita að uppfærðum viðbótum">
-<!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Leita að uppfærðum íbótum">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Leita að uppfærðum þemum">
-<!ENTITY cmd.installLocalFile.label "Setja upp…">
-<!ENTITY cmd.installLocalFile.accesskey "u">
-<!ENTITY cmd.installFileAddon.tooltip "Setja  íbót">
-<!ENTITY cmd.installFileTheme.tooltip "Setja inn þema">
-<!ENTITY cmd.installUpdatesAll.label "Setja inn uppfærslur">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Setur upp allar valdar uppfærslur">
-<!ENTITY cmd.restartApp2.label "Endurræsa &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey "R">
-<!ENTITY cmd.restartApp2.tooltip "Endurræsa &brandShortName; til að virkja breytingar">
-<!ENTITY cmd.skip.label "Sleppa">
-<!ENTITY cmd.skip.accesskey "S">
-<!ENTITY cmd.skip.tooltip "Sleppa þessum uppfærslur">
-<!ENTITY cmd.continue.label "Áfram">
-<!ENTITY cmd.continue.accesskey "f">
-<!ENTITY cmd.continue.tooltip "Halda áfram að hlaða inn &brandShortName;">
-<!ENTITY cmd.enableAll.label "Virkja allt">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "Virkja allar sýnilegar viðbætur">
-<!ENTITY cmd.disableAll.label "Gera allt óvirkt">
-<!ENTITY cmd.disableAll.accesskey "G">
-<!ENTITY cmd.disableAll.tooltip "Gera sýnilegar viðbætur óvirkar">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label "Nota þema">
-<!ENTITY cmd.useTheme.accesskey "N">
-<!ENTITY cmd.useTheme.tooltip "Breytir þema &brandShortName;">
-<!ENTITY cmd.options.label "Valkostir">
-<!ENTITY cmd.options.accesskey "V">
-<!ENTITY cmd.options.tooltip "Breyta stillingum fyrir viðbót">
-<!ENTITY cmd.optionsUnix.label "Valkostir">
-<!ENTITY cmd.optionsUnix.accesskey "V">
-<!ENTITY cmd.optionsUnix.tooltip "Breyta stillingum fyrir valda viðbót">
-<!ENTITY cmd.enable.label "Gera virkt">
-<!ENTITY cmd.enable.accesskey "G">
-<!ENTITY cmd.enable.tooltip "Virkja viðbót þegar &brandShortName; er endurræst">
-<!ENTITY cmd.disable.label "Gera óvirkt">
-<!ENTITY cmd.disable.accesskey "e">
-<!ENTITY cmd.disable.tooltip "Gera viðbót óvirka þegar &brandShortName; er endurræst">
-<!ENTITY cmd.uninstall.label "Taka út">
-<!ENTITY cmd.uninstall2.accesskey "T">
-<!ENTITY cmd.uninstall2.tooltip "Taka út viðbót þegar &brandShortName; er endurræst">
-<!ENTITY cmd.cancelUninstall.label "Hætta við að taka út">
-<!ENTITY cmd.cancelUninstall.accesskey "H">
-<!ENTITY cmd.cancelUninstall.tooltip "Hætta við að taka út viðbót">
-<!ENTITY cmd.cancelInstall.label "Hætta við uppsetningu">
-<!ENTITY cmd.cancelInstall.accesskey "H">
-<!ENTITY cmd.cancelInstall.tooltip "Hætta við uppsetningu viðbótar">
-<!ENTITY cmd.cancelUpgrade.label "Hætta við uppfærslu">
-<!ENTITY cmd.cancelUpgrade.accesskey "H">
-<!ENTITY cmd.cancelUpgrade.tooltip "Hætta við uppfærslu viðbótar">
-<!ENTITY cmd.installUpdate.label "Setja upp uppfærslu">
-<!ENTITY cmd.installUpdate.accesskey "S">
-<!ENTITY cmd.installUpdate.tooltip "Setja upp uppfærslur fyrir viðbót">
-<!ENTITY cmd.showUpdateInfo.label "Sýna upplýsingar">
-<!ENTITY cmd.showUpdateInfo.accesskey "S">
-<!ENTITY cmd.showUpdateInfo.tooltip "Sýna meiri upplýsingar um þessar uppfærslur">
-<!ENTITY cmd.hideUpdateInfo.label "Fela upplýsingar">
-<!ENTITY cmd.hideUpdateInfo.accesskey "F">
-<!ENTITY cmd.hideUpdateInfo.tooltip "Fela upplýsingar um þessar uppfærslur">
-<!ENTITY cmd.installSearchResult.label "Bæta við &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip "Niðurhala og setja upp þessa viðbót">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Hætta við">
-<!ENTITY cancel.accesskey "H">
-<!ENTITY cancelInstall.label "Hætta við">
-<!ENTITY cancelInstall.accesskey "H">
-<!ENTITY cancelUpgrade.label "Hætta við">
-<!ENTITY cancelUpgrade.accesskey "H">
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label "Heimsækja heimasíðu">
-<!ENTITY cmd.homepage.accesskey "H">
-<!ENTITY cmd.about2.label "Um viðbót">
+<!ENTITY addons.windowTitle "Viðbótastjóri">
+<!ENTITY search.placeholder "Leita í öllum viðbótum">
+<!ENTITY loading.label "Hleður…">
+<!ENTITY listEmpty.installed.label "Ekki eru uppsettar neinar tegundir af þessum viðbótum">
+<!ENTITY listEmpty.search.label "Fann ekki viðbætur sem pössuðu">
+<!ENTITY listEmpty.button.label "Fræðast meira um viðbætur">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label "Leita">
+<!ENTITY view.discover.label "Ná í viðbætur">
+<!ENTITY view.locales.label "Tungumál">
+<!ENTITY view.searchengines.label "Leitarvélar">
+<!ENTITY view.features.label "Viðbætur">
+<!ENTITY view.appearance.label "Þema">
+<!ENTITY view.plugins.label "Tengiforrit">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label "Uppfæra viðbætur">
+<!ENTITY updates.updating.label "Uppfæri viðbætur">
+<!ENTITY updates.installed.label "Búið er að uppfæra viðbætur.">
+<!ENTITY updates.downloaded.label "Búið er að niðurhala viðbótum.">
+<!ENTITY updates.restart.label "Endurræstu núna til að ljúka uppsetningu">
+<!ENTITY updates.noneFound.label "Engar uppfærslur fundust">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label "Sýna meiri upplýsingar">
+<!ENTITY cmd.showDetails.accesskey "S">
+<!ENTITY cmd.findUpdates.label "Leita að uppfærslum">
+<!ENTITY cmd.findUpdates.accesskey "f">
+<!ENTITY cmd.preferences.label "Valkostir">
+<!ENTITY cmd.preferences.accesskey "V">
+<!ENTITY cmd.about.label "Um">
 <!ENTITY cmd.about.accesskey "U">
-<!ENTITY cmd.checkUpdate.label "Leita að uppfærslu">
-<!ENTITY cmd.checkUpdate.accesskey "F">
-<!ENTITY cmd.includeUpdate.label "Nota uppfærslu">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Nota uppfærslu">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Nota viðbót þegar uppfærslur eru settar upp">
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label "Býður ekki upp á öruggar uppfærslur.">
-<!ENTITY needsDependencies.label "Þarfnast fleiri hluta.">
-<!ENTITY blocklisted.label "Gert óvirkt þér til verndunar.">
-<!ENTITY softBlocklisted.label "Er þekkt fyrir að valda öryggisvandræðum eða hruni.">
-<!ENTITY toBeDisabled.label "Þessi viðbót verður gerð óvirk þegar &brandShortName; er endurræstur.">
-<!ENTITY toBeEnabled.label "Þessi viðbót verður gerð virk þegar &brandShortName; er endurræstur.">
-<!ENTITY toBeInstalled.label "Þessi viðbót verður sett upp þegar &brandShortName; er endurræstur.">
-<!ENTITY toBeUninstalled.label "Þessi viðbót verður tekin út þegar &brandShortName; er endurræstur.">
-<!ENTITY toBeUpdated.label "Þessi viðbót verður uppfærð þegar &brandShortName; er endurræstur.">
-<!ENTITY getExtensions.label "Ná í viðbætur">
-<!ENTITY getThemes.label "Ná í þema">
-<!ENTITY getPlugins.label "Ná í tengiforrit">
-<!ENTITY searchAddons.label "Leita í öllum viðbótum">
-<!ENTITY browseAddons.label "Fletta í öllum viðbótum">
-<!ENTITY searchFailed.label "&brandShortName; gat ekki náð í viðbætur">
-<!ENTITY recommendedHeader.label "Mælt með">
-<!ENTITY recommendedThrobber.label "Næ í viðbætur sem mælt er með">
-<!ENTITY searchThrobber.label "Leita að viðbótum">
-<!ENTITY resetSearch.label "Tæma niðurstöðuglugga">
-<!ENTITY noSearchResults.label "Allar niðurstöður eru þegar uppsettar eða ósamhæfðar.">
-<!ENTITY noRecommendedResults.label "Allt sem mælt er með er þegar uppsett eða ósamhæft.">
-<!ENTITY emptySearch.label "Engin viðbót passaði">
-<!ENTITY emptySearch.button "Í lagi">
-<!ENTITY cancelSearch.button "Hætta við">
-<!ENTITY searchFailed.button "Í lagi">
-<!ENTITY searchResultHomepage.value "Fræðast meira">
-<!ENTITY searchBox.label "Leita í öllum viðbótum">
-<!ENTITY recommendedResults.label "Sjá allar viðbætur sem mælt er með">
-<!ENTITY searchResultConnecting.label "Tenging…">
-<!ENTITY searchResultInstalling.label "Uppsetning…">
-<!ENTITY searchResultFailed.label "Uppsetning mistókst">
-<!ENTITY searchResultInstalled.label "Uppsetning búinn">
-<!ENTITY addonTypeExtension.label "Viðbót">
-<!ENTITY addonTypeTheme.label "Þema">
-<!ENTITY missingThumbnail.label "Engin forskoðun">
-<!ENTITY previewNoThemeSelected.label "Ekkert þema valið">
-<!ENTITY previewNoPreviewImage.label "Þetta þema er ekki með forsýn">
-<!ENTITY moreInfo.label "Meiri upplýsingar">
-<!ENTITY infoNoAddonSelected.label "Engin uppfærsla valinn">
-<!ENTITY infoNoUpdateInfo.label "Þessi uppfærsla hefur engar fleiri upplýsingar">
-<!ENTITY infoUpdateInfoError.label "Upp kom villa við að hlaða inn upplýsingum um uppfærslu">
-<!ENTITY updateSuccess.label "Uppfærsla tókst.">
-<!ENTITY installSuccess.label "Uppsetning tókst.">
-<!ENTITY installSuccessRestart.label "Endurræstu til að klára uppsetningu.">
-<!ENTITY updateSuccessRestart.label "Endurræstu til að klára uppfærsluna.">
-<!ENTITY installWaiting.label "Bíð eftir…">
-<!ENTITY installIncompatibleUpdate.label "Athuga samhæfni…">
-<!ENTITY installFinishing.label "Uppsetning…">
-<!ENTITY installFailure.label "Uppsetning tókst ekki.">
-<!ENTITY progressStatus.label "Athuga uppfærslur">
-<!ENTITY eula.title "Leyfisskilmálar notanda">
-<!ENTITY eula.width "560px">
-<!ENTITY eula.height "400px">
-<!ENTITY eula.accept "Samþykkja og setja upp…">
-<!ENTITY blocklist.blocked.label "Lokað">
-<!ENTITY blocklist.checkbox.label "Gera óvirkt">
+<!ENTITY cmd.enableAddon.label "Gera virkt">
+<!ENTITY cmd.enableAddon.accesskey "e">
+<!ENTITY cmd.enableAddon.tooltip "Virkja viðbót">
+<!ENTITY cmd.disableAddon.label "Slökkva">
+<!ENTITY cmd.disableAddon.accesskey "S">
+<!ENTITY cmd.disableAddon.tooltip "Slökkva á viðbót">
+<!ENTITY cmd.uninstallAddon.label "Fjarlægja">
+<!ENTITY cmd.uninstallAddon.accesskey "r">
+<!ENTITY cmd.uninstallAddon.tooltip "Taka viðbót út">
+<!ENTITY cmd.showPreferences.label "Valkostir">
+<!ENTITY cmd.showPreferences.tooltip "Breyta stillingum viðbótar">
+<!ENTITY cmd.contribute.label "Gefa">
+<!ENTITY cmd.contribute.accesskey "G">
+<!ENTITY cmd.contribute.tooltip "Hjálpa til með þróunina á þessari viðbót">
+<!-- detail view -->
+<!ENTITY detail.version.label "Útgáfa">
+<!ENTITY detail.updated.label "Uppfært">
+<!ENTITY detail.creator.label "Forritari">
+<!ENTITY detail.homepage.label "Heimasíða">
+<!ENTITY detail.numberOfDownloads.label "Niðurhal">
+<!ENTITY detail.updateAutomatically.label "Uppfæra sjálfvirkt">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip "Uppfæra þessa viðbót sjálkrafa þegar til er uppfærsla">
+<!ENTITY detail.checkForUpdates.label "Leita að uppfærslum">
+<!ENTITY detail.checkForUpdates.accesskey "f">
+<!ENTITY detail.checkForUpdates.tooltip "Athuga uppfærslur fyrir þessa viðbót">
+<!ENTITY detail.showPreferences.label "Valkostir">
+<!ENTITY detail.showPreferences.accesskey "V">
+<!ENTITY detail.showPreferences.tooltip "Breyta stillingum viðbótar">
+<!-- ratings -->
+<!ENTITY rating.label "Einkunn:">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip "Bið">
+<!ENTITY progress.cancel.tooltip "Hætta við">
+<!-- list sorting -->
+<!ENTITY sort.name.label "Nafn">
+<!ENTITY sort.name.tooltip "Raða eftir heiti">
+<!ENTITY sort.size.label "Stærð">
+<!ENTITY sort.size.tooltip "Raða eftir Stærð">
+<!ENTITY sort.dateUpdated.label "Síðast uppfært">
+<!ENTITY sort.dateUpdated.tooltip "Raða eftir uppsetningardagsetningu">
+<!ENTITY sort.rating.label "Einkunn">
+<!ENTITY sort.rating.tooltip "Raða eftir meðaltal einkunnar">
+<!ENTITY showMore.label "Sýna fleiri">
+<!ENTITY showMore.tooltip "Sýna frekari upplýsingar">
+<!ENTITY showLess.label "Sýna minna">
+<!ENTITY showLess.tooltip "Sýna færri upplýsingar">
+<!ENTITY search.filter.label "Sýna:">
+<!ENTITY search.filter.installed.label "Uppsettar viðbætur">
+<!ENTITY search.filter.available.label "Tiltækar viðbætur">
+<!ENTITY addon.homepage "Heimasíða">
+<!ENTITY addon.unknownDate "Óþekkt">
+<!ENTITY addon.disabled.postfix "(óvirkt)">
+<!ENTITY addon.undo.label "Afturkalla?">
+<!ENTITY addon.undo.tooltip "Hætta við þessa aðgerð">
+<!ENTITY addon.undoUninstall.label "Afturkalla?">
+<!ENTITY addon.undoUninstall.tooltip "Halda þessari viðbót uppsettri">
+<!ENTITY addon.restartNow.label "Endurræsa núna">
+<!ENTITY addon.restartNow.tooltip "Endurræstu núna til að ljúka uppsetningu">
+<!ENTITY addon.install.label "Setja upp">
+<!ENTITY addon.install.tooltip "Setja inn þessa viðbót">
+<!ENTITY addon.checkingForUpdates.label "Athuga með uppfærslur…">
+<!ENTITY addon.createdBy.label "Eftir ">

@@ -7,5 +7,5 @@
 <!ENTITY folderSelectionCaption.label "Veldu möppur til að leita í: ">
 <!ENTITY chooseFoldersButton.label "Velja…">
 <!ENTITY chooseFoldersButton.accesskey "V">
-<!ENTITY searchOnline.label "Leitar á netinu (Skilar uppfærðum niðurstöðum fyrir IMAP og Fréttamöppur en lengur tíma við opnun möppu)">
-<!ENTITY searchOnline.accesskey "O">
+<!ENTITY searchOnline.label "Leitar á netinu (Skilar uppfærðum niðurstöðum fyrir IMAP og fréttamöppur en lengir tímann sem tekur að opna möppu)">
+<!ENTITY searchOnline.accesskey "o">

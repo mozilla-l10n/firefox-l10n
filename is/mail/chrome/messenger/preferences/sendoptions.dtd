@@ -9,12 +9,12 @@
 <!ENTITY sendHTML.accesskey "s">
 <!ENTITY sendBoth.label "Senda póst bæði sem ósniðinn texta og HTML">
 <!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Athugið: Notaðu nafnabókina til að skilgreina sjálfgefna textasniðsstillingu fyrir viðtakendur.">
-<!ENTITY domaindesc.label "Þegar þú sendir póst á póstfang sem er eitt af þessum lénum hér fyrir neðan, mun &brandShortName; senda póstinn sjálfvirkt á réttu sniði.">
+<!ENTITY override.label "Athugið: Notaðu nafnaskrána til að skilgreina sjálfgefna textasniðsstillingu fyrir viðtakendur.">
+<!ENTITY domaindesc.label "Þegar þú sendir póst á póstfang sem er eitt af þessum lénum hér fyrir neðan, mun &brandShortName; senda póstinn sjálfkrafa á réttu sniði.">
 <!ENTITY HTMLTab.label "HTML lén">
-<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY HTMLTab.accesskey "H">
 <!ENTITY PlainTextTab.label "Lén fyrir ósniðinn texta">
-<!ENTITY PlainTextTab.accesskey "E">
+<!ENTITY PlainTextTab.accesskey "e">
 <!ENTITY AddHtmlDomain.label "Bæta við…">
 <!ENTITY AddHtmlDomain.accesskey "B">
 <!ENTITY AddPlainText.label "Bæta við…">

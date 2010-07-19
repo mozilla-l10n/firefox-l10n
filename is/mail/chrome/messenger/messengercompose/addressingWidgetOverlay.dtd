@@ -2,9 +2,9 @@
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
 <!ENTITY toAddr.label "Til:">
  
-<!ENTITY ccAddr.label "Afrit (Cc):">
+<!ENTITY ccAddr.label "Afrit:">
  
-<!ENTITY bccAddr.label "Dulið afrit (Bcc):">
+<!ENTITY bccAddr.label "Falið afrit:">
  
 <!ENTITY replyAddr.label "Svara á:">
  

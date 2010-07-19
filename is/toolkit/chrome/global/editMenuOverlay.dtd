@@ -1,8 +1,8 @@
 <!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "B">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Afturkalla">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "t">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Endurtaka">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "n">
@@ -27,5 +27,5 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "t">
-<!ENTITY findPreviousCmd.label "Leita að fyrra">
-<!ENTITY findPreviousCmd.accesskey "r">
+<!ENTITY findPreviousCmd.label "Leita til baka">
+<!ENTITY findPreviousCmd.accesskey "b">

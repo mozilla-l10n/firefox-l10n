@@ -2,9 +2,9 @@
 
 <!ENTITY generalTab.label "Almennt">
 <!ENTITY accessibility.label "Auðveldað aðgengi">
-<!ENTITY useCursorNavigation.label "Alltaf nota örvalykla til að stjórna á síðum">
+<!ENTITY useCursorNavigation.label "Alltaf nota örvalykla til að ferðast á síðum">
 <!ENTITY useCursorNavigation.accesskey "r">
-<!ENTITY searchStartTyping.label "Leita í texta þegar ég byrja að slá inn orð">
+<!ENTITY searchStartTyping.label "Leita í texta þegar byrjað er að slá inn orð">
 <!ENTITY searchStartTyping.accesskey "L">
 <!ENTITY blockAutoRefresh.label "Vara við þegar vefsvæði reyna að vísa áfram eða endurnýja síðuna">
 <!ENTITY blockAutoRefresh.accesskey "V">
@@ -13,14 +13,16 @@
 <!ENTITY useAutoScroll.accesskey "o">
 <!ENTITY useSmoothScrolling.label "Nota fíngerða skrunun">
 <!ENTITY useSmoothScrolling.accesskey "f">
-<!ENTITY checkSpelling.label "Athuga stafsetningu um leið og ég slæ inn texta">
+<!ENTITY checkSpelling.label "Athuga stafsetningu um leið og texti er sleginn inn">
 <!ENTITY checkSpelling.accesskey "t">
 <!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
 <!ENTITY alwaysCheckDefault.label "Athuga alltaf í ræsingu hvort &brandShortName; sé sjálfgefinn vafri">
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey "h">
 <!ENTITY checkNow.label "Athuga núna">
-<!ENTITY checkNow.accesskey "N">
+<!ENTITY checkNow.accesskey "n">
+<!ENTITY submitCrashes.label "Senda hrunskýrslur">
+<!ENTITY submitCrashes.accesskey "S">
 <!ENTITY networkTab.label "Netkerfi">
 <!ENTITY connection.label "Tenging">
 <!ENTITY connectionDesc.label "Stilla hvernig &brandShortName; tengist við Internetið">
@@ -42,27 +44,27 @@
 <!ENTITY autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Uppsettar viðbætur">
-<!ENTITY enableAddonsUpdate.accesskey "U">
+<!ENTITY enableAddonsUpdate2.label "Viðbætur">
+<!ENTITY enableAddonsUpdate2.accesskey "V">
 <!ENTITY enableSearchUpdate.label "Leitarvélar">
 <!ENTITY enableSearchUpdate.accesskey "L">
 <!ENTITY whenUpdatesFound.label "Ef uppfærslur finnast fyrir &brandShortName;:">
 <!ENTITY askMe.label "Spyrja hvað á að gera">
 <!ENTITY askMe.accesskey "S">
-<!ENTITY modeAutomatic.label "Hlaða sjálfvirkt niður og setja uppfærsluna upp">
+<!ENTITY modeAutomatic.label "Hlaða sjálfvirkt niður og setja uppfærsluna inn">
 <!ENTITY modeAutomatic.accesskey "H">
 <!ENTITY modeAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
-<!ENTITY modeAutoAddonWarn.accesskey "V">
+<!ENTITY modeAutoAddonWarn.accesskey "u">
 <!ENTITY updateHistory.label "Sýna uppfærslusögu">
 <!ENTITY updateHistory.accesskey "p">
 <!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ótengda notkun">
-<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Undanþágur…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 <!ENTITY offlineAppsList.label "Eftirfarandi vefsvæði eru með geymd gögn fyrir ótengda notkun:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Fjarlægja…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm "Fjarlægja utankerfis gögn">
 <!ENTITY encryptionTab.label "Dulritun">
 <!ENTITY protocols.label "Samskiptareglur">

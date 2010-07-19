@@ -50,7 +50,7 @@
 <!ENTITY devmgr.button.changepw.label "Breyta lykilorði">
 <!ENTITY devmgr.button.changepw.accesskey "B">
 <!ENTITY devmgr.button.load.label "Hlaða">
-<!ENTITY devmgr.button.load.accesskey "L">
+<!ENTITY devmgr.button.load.accesskey "l">
 <!ENTITY devmgr.button.unload.label "Afhlaða">
 <!ENTITY devmgr.button.unload.accesskey "A">
 <!ENTITY devmgr.button.fips.accesskey "F">
@@ -60,6 +60,6 @@
 <!ENTITY loaddevice.modname.default "Ný PKCS#11 eining">
 <!ENTITY loaddevice.filename "Skráarnafn einingar:">
 <!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Fletta…">
-<!ENTITY loaddevice.browse.accesskey "F">
+<!ENTITY loaddevice.browse "Velja…">
+<!ENTITY loaddevice.browse.accesskey "V">
 <!ENTITY loaddevice.title "Hlaða inn PKCS#11 tæki">

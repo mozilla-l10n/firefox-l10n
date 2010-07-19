@@ -52,31 +52,31 @@
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Opna staðsetningu…">
-<!ENTITY openRemoteCmd.accesskey "O">
+<!ENTITY openRemoteCmd.accesskey "p">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Nýlegar síður">
-<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "Afturkalla">
-<!ENTITY fileRevert.accesskey "A">
+<!ENTITY fileRevert.accesskey "k">
 <!ENTITY saveCmd.label "Vista">
-<!ENTITY saveCmd.accesskey "V">
+<!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Vista sem…">
-<!ENTITY saveAsCmd.accesskey "s">
+<!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY publishCmd.label "Gefa út">
 <!ENTITY publishCmd.accesskey "G">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Gefa út sem…">
-<!ENTITY publishAsCmd.accesskey "G">
+<!ENTITY publishAsCmd.accesskey "f">
 <!ENTITY exportToTextCmd.label "Flytja út sem texta…">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Vista og breyta stafatöflu">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY previewCmd.label "Skoða síðu">
 <!ENTITY previewCmd.accesskey "S">
 <!ENTITY sendPageCmd.label "Senda síðu…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Síðustillingar…">
+<!ENTITY printSetupCmd.label "Síðuuppsetning…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
@@ -86,55 +86,56 @@
 <!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Líma án sniðs">
-<!ENTITY pasteNoFormatting.accesskey "L">
+<!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Líma sem">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Stillingar útgáfuvefsvæðis…">
 <!ENTITY publishSettings.accesskey "S">
 <!ENTITY pasteAsQuotationCmd.label "Líma inn sem tilvitnun">
-<!ENTITY pasteAsQuotationCmd.accesskey "L">
-<!ENTITY findCmd.label "Finna og víxla…">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY pasteAsQuotationCmd.accesskey "t">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findCmd.label "Leita og breyta…">
+<!ENTITY findCmd.accesskey "L">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Finna aftur">
-<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.label "Leita aftur">
+<!ENTITY findAgainCmd.accesskey "i">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Finna fyrra">
-<!ENTITY findPrevCmd.accesskey "f">
+<!ENTITY findPrevCmd.label "Leita til baka">
+<!ENTITY findPrevCmd.accesskey "b">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Athuga stafsetningu í innslætti">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
 <!ENTITY checkSpellingCmd2.accesskey "Y">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Staðfesta HTML">
+<!ENTITY validateCmd.label "Sannreyna HTML">
 <!ENTITY validateCmd.accesskey "S">
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Setja inn">
-<!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "Tengill…">
-<!ENTITY insertLinkCmd.accesskey "L">
+<!ENTITY insertLinkCmd.accesskey "l">
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Nefndur tengill…">
 <!ENTITY insertAnchorCmd.accesskey "N">
 <!ENTITY insertImageCmd.label "Myndir…">
-<!ENTITY insertImageCmd.accesskey "I">
+<!ENTITY insertImageCmd.accesskey "M">
 <!ENTITY insertHLineCmd.label "Lárétt lína">
-<!ENTITY insertHLineCmd.accesskey "L">
-<!ENTITY insertTableCmd.label "Tafla…">
+<!ENTITY insertHLineCmd.accesskey "r">
+<!ENTITY insertTableCmd.label "Töflu…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Stafir og tákn…">
 <!ENTITY insertCharsCmd.accesskey "S">
 <!ENTITY insertBreakAllCmd.label "Lína fyrir neðan mynd(ir)">
-<!ENTITY insertBreakAllCmd.accesskey "L">
+<!ENTITY insertBreakAllCmd.accesskey "y">
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Engar tillögur fundust)">
 <!ENTITY spellCheckIgnoreWord.label "Hunsa orð">
@@ -147,9 +148,9 @@
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Afturkalla">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Endurtaka">
-<!ENTITY redoCmd.accesskey "R">
+<!ENTITY redoCmd.accesskey "r">
 <!ENTITY cutCmd.label "Klippa">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Afrita">
@@ -161,11 +162,11 @@
 <!ENTITY clearCmd.label "Hreinsa">
 <!ENTITY clearCmd.accesskey "H">
 <!ENTITY selectAllCmd.label "Velja allt">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "a">
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Veldu leturgerð">
 <!ENTITY fontfaceMenu.label "Leturgerð">
-<!ENTITY fontfaceMenu.accesskey "L">
+<!ENTITY fontfaceMenu.accesskey "g">
 <!ENTITY fontVarWidth.label "Breytileg breidd">
 <!ENTITY fontVarWidth.accesskey "B">
 <!ENTITY fontFixedWidth.label "Jafnbreitt">
@@ -180,7 +181,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Veldu leturstærð">
 <!ENTITY decreaseFontSize.label "Minna">
-<!ENTITY decreaseFontSize.accesskey "M">
+<!ENTITY decreaseFontSize.accesskey "n">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Stærra">
 <!ENTITY increaseFontSize.accesskey "S">
@@ -189,15 +190,15 @@
  <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Stærð">
-<!ENTITY fontSizeMenu.accesskey "S">
+<!ENTITY fontSizeMenu.accesskey "æ">
 <!ENTITY size-xx-smallCmd.label "minnstur">
 <!ENTITY size-xx-smallCmd.accesskey "i">
 <!ENTITY size-x-smallCmd.label "minni">
-<!ENTITY size-x-smallCmd.accesskey "n">
+<!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "lítil">
 <!ENTITY size-smallCmd.accesskey "l">
 <!ENTITY size-mediumCmd.label "meðal">
-<!ENTITY size-mediumCmd.accesskey "m">
+<!ENTITY size-mediumCmd.accesskey "e">
 <!ENTITY size-largeCmd.label "stór">
 <!ENTITY size-largeCmd.accesskey "t">
 <!ENTITY size-x-largeCmd.label "stærra">
@@ -206,7 +207,7 @@
 <!ENTITY size-xx-largeCmd.accesskey "r">
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Textasnið">
-<!ENTITY fontStyleMenu.accesskey "S">
+<!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Feitletrað">
 <!ENTITY styleBoldCmd.accesskey "F">
 <!ENTITY styleBoldCmd.key "B">
@@ -223,7 +224,7 @@
 <!ENTITY styleSubscriptCmd.label "Lágletur">
 <!ENTITY styleSubscriptCmd.accesskey "L">
 <!ENTITY styleNonbreakingCmd.label "Engin skipting">
-<!ENTITY styleNonbreakingCmd.accesskey "N">
+<!ENTITY styleNonbreakingCmd.accesskey "n">
 <!ENTITY styleEm.label "Áhersla">
 <!ENTITY styleEm.accesskey "e">
 <!ENTITY styleStrong.label "Meiri áhersla">
@@ -231,23 +232,23 @@
 <!ENTITY styleCite.label "Tilvitnun">
 <!ENTITY styleCite.accesskey "T">
 <!ENTITY styleAbbr.label "Stytting">
-<!ENTITY styleAbbr.accesskey "S">
+<!ENTITY styleAbbr.accesskey "y">
 <!ENTITY styleAcronym.label "Upphafsstafaorð">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Kóði">
-<!ENTITY styleCode.accesskey "K">
+<!ENTITY styleCode.accesskey "ð">
 <!ENTITY styleSamp.label "Dæmi um úttak">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Breyta">
 <!ENTITY styleVar.accesskey "B">
 <!ENTITY formatFontColor.label "Textalitur…">
-<!ENTITY formatFontColor.accesskey "T">
+<!ENTITY formatFontColor.accesskey "r">
 <!ENTITY tableOrCellColor.label "Töflu eða hólf bakgrunnslitur…">
-<!ENTITY tableOrCellColor.accesskey "B">
+<!ENTITY tableOrCellColor.accesskey "b">
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Fjarlægja nefnda tengla">
-<!ENTITY formatRemoveNamedAnchors.accesskey "R">
+<!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors.key "A">
 <!ENTITY paragraphMenu.label "Málsgrein">
 <!ENTITY paragraphMenu.accesskey "M">
@@ -267,18 +268,18 @@
 <!ENTITY heading6Cmd.label "Haus 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Heimilisfang">
-<!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphAddressCmd.accesskey "g">
 <!ENTITY paragraphPreformatCmd.label "Forsniðið">
-<!ENTITY paragraphPreformatCmd.accesskey "f">
+<!ENTITY paragraphPreformatCmd.accesskey "F">
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Listi">
 <!ENTITY formatlistMenu.accesskey "L">
-<!ENTITY noneCmd.label "Engin">
-<!ENTITY noneCmd.accesskey "N">
-<!ENTITY listBulletCmd.label "Punktuð">
-<!ENTITY listBulletCmd.accesskey "P">
-<!ENTITY listNumberedCmd.label "Númeraður">
-<!ENTITY listNumberedCmd.accesskey "m">
+<!ENTITY noneCmd.label "Ekkert">
+<!ENTITY noneCmd.accesskey "k">
+<!ENTITY listBulletCmd.label "Áherslumerki">
+<!ENTITY listBulletCmd.accesskey "h">
+<!ENTITY listNumberedCmd.label "Tölusettur">
+<!ENTITY listNumberedCmd.accesskey "t">
 <!ENTITY listTermCmd.label "Annað">
 <!ENTITY listTermCmd.accesskey "A">
 <!ENTITY listDefinitionCmd.label "Skilgreining">
@@ -288,13 +289,13 @@
 <!ENTITY ParagraphSelect.tooltip "Veldu snið málsgreinar">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Meginmál">
-<!ENTITY bodyTextCmd.accesskey "M">
+<!ENTITY bodyTextCmd.accesskey "e">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Ítarlegir eiginleikar">
 <!ENTITY advancedPropertiesCmd.accesskey "t">
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Raða">
-<!ENTITY alignMenu.accesskey "A">
+<!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Vinstri">
 <!ENTITY alignLeft.accesskey "V">
 <!ENTITY alignLeft.tooltip "Jafna">
@@ -302,7 +303,7 @@
 <!ENTITY alignCenter.accesskey "M">
 <!ENTITY alignCenter.tooltip "Jafna">
 <!ENTITY alignRight.label "Hægri">
-<!ENTITY alignRight.accesskey "R">
+<!ENTITY alignRight.accesskey "r">
 <!ENTITY alignRight.tooltip "Upplýsa">
 <!ENTITY alignJustify.label "Jafna">
 <!ENTITY alignJustify.accesskey "J">
@@ -312,10 +313,10 @@
 <!ENTITY layerSendToBack.tooltip "Senda á bakvið">
 <!ENTITY layerBringToFront.tooltip "Setja fremst">
 <!ENTITY increaseIndent.label "Auka inndrátt">
-<!ENTITY increaseIndent.accesskey "I">
+<!ENTITY increaseIndent.accesskey "i">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Minnka inndrátt">
-<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "[">
 <!ENTITY grid.label "Staðsetningar hnitakerfi">
 <!ENTITY grid.accesskey "t">
@@ -332,12 +333,12 @@
 <!ENTITY tableSelectMenu2.label "Velja töflu">
 <!ENTITY tableSelectMenu2.accesskey "V">
 <!ENTITY tableInsertMenu2.label "Setja inn töflu">
-<!ENTITY tableInsertMenu2.accesskey "I">
+<!ENTITY tableInsertMenu2.accesskey "i">
 <!ENTITY tableDeleteMenu2.label "Eyða töflu">
 <!ENTITY tableDeleteMenu2.accesskey "E">
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Setja inn">
-<!ENTITY tableInsertMenu.accesskey "I">
+<!ENTITY tableInsertMenu.accesskey "i">
 <!ENTITY tableTable.label "Tafla">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Röð">
@@ -346,17 +347,17 @@
 <!ENTITY tableRowAbove.label "Röð fyrir ofan">
 <!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Röð fyrir neðan">
-<!ENTITY tableRowBelow.accesskey "R">
+<!ENTITY tableRowBelow.accesskey "n">
 <!ENTITY tableColumn.label "Dálkur">
 <!ENTITY tableColumns.label "Dálkar">
 <!ENTITY tableColumn.accesskey "D">
 <!ENTITY tableColumnBefore.label "Dálkur fyrir framan">
 <!ENTITY tableColumnBefore.accesskey "D">
 <!ENTITY tableColumnAfter.label "Dálkur fyrir aftan">
-<!ENTITY tableColumnAfter.accesskey "A">
-<!ENTITY tableCell.label "Eining">
+<!ENTITY tableColumnAfter.accesskey "a">
+<!ENTITY tableCell.label "Hólf">
 <!ENTITY tableCells.label "Hólf">
-<!ENTITY tableCell.accesskey "E">
+<!ENTITY tableCell.accesskey "H">
 <!ENTITY tableCellContents.label "Innihald hólfs">
 <!ENTITY tableCellContents.accesskey "n">
 <!ENTITY tableAllCells.label "Öll hólf">
@@ -380,7 +381,7 @@
 <!ENTITY convertToTable.label "Búa til töflu út frá vali">
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Eiginleikar töflu…">
-<!ENTITY tableProperties.accesskey "E">
+<!ENTITY tableProperties.accesskey "g">
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valmynd">
 <!ENTITY compositionToolbar.tooltip "Samsetningarslá">
@@ -423,7 +424,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Minnka inndrátt (hliðra vinstri)">
 <!ENTITY indentToolbarCmd.tooltip "Auka inndrátt (hliðra hægri)">
 <!ENTITY AlignPopupButton.tooltip "Veldu textajöfnun">
-<!ENTITY InsertPopupButton.tooltip "Setja inn hlekk, markstiklu, mynd, lárétta línu eða töflu">
+<!ENTITY InsertPopupButton.tooltip "Setja inn tengil, markstiklu, mynd, lárétta línu eða töflu">
 <!ENTITY alignLeftButton.tooltip "Vinstristilla texta">
 <!ENTITY alignCenterButton.tooltip "Miðja texta">
 <!ENTITY alignRightButton.tooltip "Hægristilla texta">
@@ -439,7 +440,7 @@
 <!ENTITY HTMLSourceMode.label "HTML frumkóði">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
 <!ENTITY SourceMode.label "Uppruni">
-<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "Breyta HTML frumkóða">
 <!ENTITY PreviewMode.label "Forskoða">
 <!ENTITY PreviewMode.accesskey "F">

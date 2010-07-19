@@ -16,10 +16,10 @@
 <!ENTITY editBookmarkOverlay.description.label "Lýsing:">
 <!ENTITY editBookmarkOverlay.description.accesskey "L">
 <!ENTITY editBookmarkOverlay.keyword.label "Stikkorð:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey "K">
+<!ENTITY editBookmarkOverlay.keyword.accesskey "k">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Sýna öll tög">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Hlaða þessu bókamerki inn í hliðslá">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
 <!ENTITY editBookmarkOverlay.choose.label "Velja…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Ný mappa">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "N">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "m">

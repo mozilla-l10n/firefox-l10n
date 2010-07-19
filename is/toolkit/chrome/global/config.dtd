@@ -45,7 +45,7 @@
 <!ENTITY filterPrefs.accesskey "S">
 <!ENTITY focusFilter.key "f">
 <!-- Columns -->
-<!ENTITY prefColumn.label "Nafn">
+<!ENTITY prefColumn.label "Stillinganafn">
 <!ENTITY lockColumn.label "Staða">
 <!ENTITY typeColumn.label "Tegund">
 <!ENTITY valueColumn.label "Gildi">
@@ -68,12 +68,12 @@
 <!ENTITY toggle.label "Víxla">
 <!ENTITY toggle.accesskey "V">
 <!ENTITY reset.label "Endursetja">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.accesskey "r">
 <!ENTITY new.label "Nýtt">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Strengur">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Heiltala">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.accesskey "i">
 <!ENTITY boolean.label "Boole gildi">
 <!ENTITY boolean.accesskey "B">

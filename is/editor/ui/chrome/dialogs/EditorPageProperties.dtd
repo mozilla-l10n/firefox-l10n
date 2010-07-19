@@ -47,4 +47,4 @@
 <!ENTITY descriptionInput.accessKey "L">
 <!ENTITY locationNewPage.label "[Ný síða, ekki vistuð ennþá]">
 <!ENTITY EditHEADSource1.label "Ítarlegt:">
-<!ENTITY EditHEADSource2.label "Til að breyta öðru efni í &lt;hausnum&gt;, veldu &quot;HTML frumkóði&quot; í Skoða valmyndinni eða breytiverkfærarein.">
+<!ENTITY EditHEADSource2.label "Til að breyta öðru efni í &lt;hausnum&gt;, veldu &quot;HTML frumkóði&quot; í Skoða valmyndinni eða breytiverkfæraslá.">

@@ -63,17 +63,17 @@
 <!ENTITY sunbird.flat.topbar.dayview "Dagur">
 <!ENTITY sunbird.flat.topbar.weekview "Vika">
 <!ENTITY sunbird.flat.topbar.monthview "Mánuður">
-<!ENTITY sunbird.flat.topbar.multiweekview "Margra viku sýn">
+<!ENTITY sunbird.flat.topbar.multiweekview "Margra vikna sýn">
 <!ENTITY sunbird.dayview.accesskey "D">
 <!ENTITY sunbird.weekview.accesskey "V">
 <!ENTITY sunbird.monthview.accesskey "M">
-<!ENTITY sunbird.multiweekview.accesskey "u">
+<!ENTITY sunbird.multiweekview.accesskey "a">
 <!ENTITY sunbird.calendartab.label "Dagsetning">
 <!ENTITY sunbird.listofcalendarstab.label "Dagatöl">
 <!ENTITY sunbird.find.key "F">
 <!ENTITY sunbird.close.key "W">
 <!ENTITY sunbird.menu.numberofweeks.label "Fjöldi vikna">
-<!ENTITY sunbird.menu.numberofweeks.accesskey "N">
+<!ENTITY sunbird.menu.numberofweeks.accesskey "n">
 <!ENTITY sunbird.menu.numberofweeks.1 "1 Vika">
 <!ENTITY sunbird.menu.numberofweeks.2 "2 Vikur">
 <!ENTITY sunbird.menu.numberofweeks.3 "3 Vikur">
@@ -83,9 +83,9 @@
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label "Sérsníða…">
 <!ENTITY sunbird.context.customize.accesskey "S">
-<!ENTITY sunbird.menu.customize.label "Sérsníða verkfærarein…">
+<!ENTITY sunbird.menu.customize.label "Sérsníða verkfæraslá…">
 <!ENTITY sunbird.menu.customize.accesskey "S">
-<!ENTITY sunbird.maintoolbar.name "Aðal verkfærarein">
+<!ENTITY sunbird.maintoolbar.name "Aðal verkfæraslá">
 <!ENTITY sunbird.maintoolbar.accesskey "A">
 <!-- Sunbird Help -->
 <!ENTITY sunbird.help.label "Hjálparefni">

@@ -1,13 +1,13 @@
 <!ENTITY restorepage.tabtitle "Endurheimta lotu">
-<!ENTITY restorepage.pagetitle "Viltu endurheimta seinustu lotu?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc "Seinasta &brandShortName; lota lokaðist óvænt. Við biðjumst velvirðingar á óþægindunum. Þú getur endurheimt flipa og glugga frá seinustu lotu, eða byrjað nýja lotu ef þú þarfnast þeirra ekki.">
-<!ENTITY restorepage.remedies "Ef &brandShortName; lokar í sífellu:">
-<!ENTITY restorepage.dueToChrome "Prufaðu að gera nýlegar viðbætur óvirkar í viðbótarglugganum.">
-<!ENTITY restorepage.dueToContent "Prufaðu að endurheimta lotuna aftur án síðnanna sem þú telur að gætu verið að valda vandræðum:">
-<!ENTITY restorepage.restoreButton "Sækja fyrri lotu">
-<!ENTITY restorepage.restore.access "S">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle "Jæja, þetta er vandræðalegt.">
+<!ENTITY restorepage.problemDesc "&brandShortName; er í vandræðum með að endurheimta glugga og flipa. Ástæðan gæti verið vefsíða sem var opnuð nýlega.">
+<!ENTITY restorepage.tryThis "Þú getur prufað:">
+<!ENTITY restorepage.restoreSome "Fjarlægt einn eða fleiri flipa ef þú heldur að þeir séu að valda vandamálum">
+<!ENTITY restorepage.startNew "Byrjað nýja vafra lotu">
+<!ENTITY restorepage.tryagainButton "Endurheimta">
+<!ENTITY restorepage.restore.access "E">
 <!ENTITY restorepage.cancelButton "Hefja nýja lotu">
 <!ENTITY restorepage.cancel.access "H">
 <!ENTITY restorepage.restoreHeader "Endurheimta">

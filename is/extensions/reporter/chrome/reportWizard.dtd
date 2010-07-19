@@ -1,20 +1,20 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
 <!ENTITY reportWizard.title "Tilkynna bilað vefsvæði">
-<!ENTITY privacyNotice.label "Friðhelgisreglur">
-<!ENTITY reportWizardPrivacy.description "Þetta tól gerir þér kleyft að senda boðberum fagnaðarerindsins skilaboð um hvaða vefsvæði virka ekki í &brandShortName;, eða loka á &brandShortName;. Þannig geturðu hjálpað okkur með að notendur fái góða reynslu af &brandShortName;. Vinsamlega taktu smá tíma í að lesa eftirfarandi texta til að komast að því hvernig við notum þessar upplýsingarnar, ef þú kýst að taka þátt.">
-<!ENTITY reportWizardMustAgree.description "Til að halda áfram þarftu að samþykkja friðhelgis reglurnar hér fyrir ofan.">
-<!ENTITY dontShowPrivacyStatement.label "Ég hef lesið og samþykki ofangreindar friðhelgireglur.">
+<!ENTITY privacyNotice.label "Persónuverndarstefna">
+<!ENTITY reportWizardPrivacy.description "Þetta tól gerir þér kleyft að senda boðberum fagnaðarerindisins skilaboð um hvaða vefsvæði virka ekki í &brandShortName;, eða loka á &brandShortName;. Þannig geturðu hjálpað okkur með að notendur fái góða reynslu af &brandShortName;. Ef þú kýst að taka þátt taktu frá smá tíma og lestu eftirfarandi texta til að komast að því hvernig við notum þær upplýsingar sem við geymum.">
+<!ENTITY reportWizardMustAgree.description "Til að halda áfram þarftu að samþykkja persónuverndarstefnuna hér fyrir ofan.">
+<!ENTITY dontShowPrivacyStatement.label "Ég hef lesið og samþykki ofangreinda persónuverndarstefnu.">
 <!ENTITY dontShowPrivacyStatement.accesskey "g">
 <!ENTITY reportForm.label "Fylla út skýrslu">
 <!ENTITY reportForm.description "Segðu okkur smávegis frá vandamálinu sem þú varðst fyrir:">
-<!ENTITY reportForm.url.title "URL vefsvæðis:">
+<!ENTITY reportForm.url.title "Vefslóð (URL):">
 <!ENTITY reportForm.url.accesskey "U">
 <!ENTITY reportForm.behind_login.title "Vefsvæði er varið með lykilorði">
 <!-- No ":" at the end -->
-<!ENTITY reportForm.behind_login.accesskey "l">
+<!ENTITY reportForm.behind_login.accesskey "ð">
 <!ENTITY reportForm.problem_type.title "Tegund vandamáls:">
 <!ENTITY reportForm.problem_type.accesskey "T">
-<!ENTITY reportForm.problem_type.chooseOne.title "Veldu eina…">
+<!ENTITY reportForm.problem_type.chooseOne.title "Veldu eitt…">
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
 <!ENTITY reportForm.problem_type.item1.title "Vafri er ekki studdur">
 <!ENTITY reportForm.problem_type.item2.title "Ekki hægt að skrá sig inn">
@@ -23,8 +23,8 @@
 <!ENTITY reportForm.problem_type.item5.title "Atferli rangt">
 <!ENTITY reportForm.problem_type.item6.title "Útlit rangt">
 <!ENTITY reportForm.problem_type.item7.title "Annað vandamál">
-<!ENTITY reportForm.problem_type.item8.title "Aðgengi fatlaða">
-<!ENTITY reportForm.problem_type.item9.title "Prentað úttak er vitlaust">
+<!ENTITY reportForm.problem_type.item8.title "Aðgengi fatlaðra">
+<!ENTITY reportForm.problem_type.item9.title "Prentað úttak er rangt">
 <!ENTITY reportForm.describe.title "Lýstu vandamáli:">
 <!ENTITY reportForm.describe.accesskey "L">
 <!ENTITY reportForm.platform.title "Tölvutegund:">
@@ -33,10 +33,10 @@
 <!ENTITY reportForm.useragent.title "Vafri:">
 <!ENTITY reportForm.language.title "Tungumál:">
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
-<!ENTITY reportForm.email.title "Póstfang (Ekki nauðsynlegt):">
+<!ENTITY reportForm.email.title "Tölvupóstfang (Ekki nauðsynlegt):">
 <!ENTITY reportForm.email.accesskey "N">
-<!ENTITY reportForm.privacyPolicy.title "Friðhelgisreglur">
-<!ENTITY reportForm.privacyPolicy.tooltip "Sjá friðhelgisreglur">
+<!ENTITY reportForm.privacyPolicy.title "Persónuverndarstefna">
+<!ENTITY reportForm.privacyPolicy.tooltip "Skoða persónuverndarstefnu">
 <!ENTITY reportResults.showDetail.title "Sýna ítarefni">
 <!ENTITY reportResults.showDetail.accesskey "S">
 <!ENTITY sendReport.label "Sendi skýrslu">

@@ -39,10 +39,10 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Setja inn staf">
 <!ENTITY category.label "Flokkur">
-<!ENTITY letter.label "Bréf:">
-<!ENTITY letter.accessKey "B">
+<!ENTITY letter.label "Stafur:">
+<!ENTITY letter.accessKey "S">
 <!ENTITY character.label "Stafur:">
-<!ENTITY character.accessKey "S">
+<!ENTITY character.accessKey "t">
 <!ENTITY accentUpper.label "Kommu hástafir">
 <!ENTITY accentLower.label "Kommu lágstafir">
 <!ENTITY otherUpper.label "Aðrir hástafir">

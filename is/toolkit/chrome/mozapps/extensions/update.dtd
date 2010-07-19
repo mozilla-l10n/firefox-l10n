@@ -14,11 +14,11 @@
 <!ENTITY checking.top.label "Athuga hvort ósamhæfðar viðbætur eru til uppfærðar…">
 <!ENTITY checking.status "Þetta gæti tekið nokkrar mínútur…">
 <!ENTITY found.wizard.title "Fann samhæfðar viðbætur">
-<!ENTITY found.top.label "Veldu þær viðbætur sem þú vilt setja upp:">
-<!ENTITY found.disabledXPinstall.label "Ekki er hægt að setja upp þessar uppfærslur því uppsetning hefur verið
+<!ENTITY found.top.label "Veldu þær viðbætur sem þú vilt setja inn:">
+<!ENTITY found.disabledXPinstall.label "Ekki er hægt að setja inn þessar uppfærslur því uppsetning hefur verið
                                            gerð óvirk. þú getur breytt þessu með stillingu hér fyrir neðan.">
 <!ENTITY found.enableXPInstall.label "Leyfa vefsvæðum að setja inn hugbúnað">
-<!ENTITY found.enableXPInstall.accesskey "A">
+<!ENTITY found.enableXPInstall.accesskey "a">
 <!ENTITY installing.wizard.title "Set upp samhæfðar viðbætur">
 <!ENTITY installing.top.label "Niðurhala og set upp uppfærslur viðbóta…">
 <!ENTITY noupdates.wizard.title "Engar samhæfðar viðbætur fundust">
@@ -26,9 +26,9 @@
                                            ósamhæfðar viðbætur.">
 <!ENTITY noupdates.error.desc "Villur komu upp við leit á uppfærslum.">
 <!ENTITY noupdates.checkEnabled.desc "&brandShortName; mun athuga reglulega og láta þig vita hvenær
-                                           samhæfðar uppfærslur fyrir þessar eru komnar.">
+                                           ertu til samhæfðar uppfærslur fyrir þessar viðbætur.">
 <!ENTITY finished.wizard.title "Samhæfðar viðbætur voru settar upp">
-<!ENTITY finished.top.label "&brandShortName; er búinn að setja upp uppfærslur á viðbótum.">
+<!ENTITY finished.top.label "&brandShortName; er búinn að setja inn uppfærslur á viðbótum.">
 <!ENTITY finished.checkDisabled.desc "&brandShortName; getur athugað reglulega og látið þig vita
                                            þegar uppfærslur fyrir viðbætur eru komnar.">
 <!ENTITY finished.checkEnabled.desc "&brandShortName; mun athuga reglulega og láta þig vita

@@ -12,7 +12,7 @@
 <!ENTITY radioNotSend.label "Nei">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Spyrja mig">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAskUnsent.accesskey "S">
 <!ENTITY textGoingOffline "Hlaða niður póstum þegar verið er að aftengjast?">
 <!ENTITY radioAutoDownload.label "Já">
 <!ENTITY radioAutoDownload.accesskey "J">

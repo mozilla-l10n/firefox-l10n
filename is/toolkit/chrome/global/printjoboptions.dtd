@@ -23,10 +23,10 @@
 <!ENTITY downloadFonts.accesskey "N">
 <!ENTITY edgeMarginInput.label "Bil frá endanum á blaði að spássíu">
 <!ENTITY topInput.label "Efst:">
-<!ENTITY topInput.accesskey "T">
+<!ENTITY topInput.accesskey "t">
 <!ENTITY bottomInput.label "Neðst:">
 <!ENTITY bottomInput.accesskey "N">
 <!ENTITY leftInput.label "Vinstri:">
 <!ENTITY leftInput.accesskey "V">
 <!ENTITY rightInput.label "Hægri:">
-<!ENTITY rightInput.accesskey "R">
+<!ENTITY rightInput.accesskey "r">

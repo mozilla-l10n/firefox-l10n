@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,10 +49,6 @@
 <!-- General -->
 <!ENTITY calendar.calendar.label "Dagatal">
 <!ENTITY calendar.calendar.accesskey "D">
-<!ENTITY calendar.dayView.key "1">
-<!ENTITY calendar.weekView.key "2">
-<!ENTITY calendar.multiweekView.key "3">
-<!ENTITY calendar.monthView.key "4">
 <!ENTITY calendar.newevent.button.tooltip "Búa til nýjan atburð">
 <!ENTITY calendar.newtask.button.tooltip "Búa til nýtt verk">
 <!ENTITY calendar.unifinder.todoitems.label "Verk">
@@ -67,7 +67,7 @@
 <!ENTITY calendar.unifinder.tree.done.label "Ljúka">
 <!ENTITY calendar.unifinder.tree.priority.label "Forgangur">
 <!ENTITY calendar.unifinder.tree.title.label "Titill">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; Lokið">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Lokið">
 <!ENTITY calendar.unifinder.tree.startdate.label "Byrjar">
 <!ENTITY calendar.unifinder.tree.enddate.label "Endar">
 <!ENTITY calendar.unifinder.tree.duedate.label "Útistandandi">
@@ -76,7 +76,7 @@
 <!ENTITY calendar.unifinder.tree.location.label "Staðsetning">
 <!ENTITY calendar.unifinder.tree.status.label "Staða">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nafn dagatals">
-<!ENTITY calendar.unifinder.tree.duration.label "Lokið fyrir">
+<!ENTITY calendar.unifinder.tree.duration.label "Framkæmist fyrir">
 <!ENTITY calendar.unifinder.close.tooltip "Loka atburðaleit og atburðalista">
 <!ENTITY calendar.today.button.tooltip "Hoppa á daginn í dag">
 <!ENTITY calendar.todaypane.button.tooltip "Sýn dagsins í dag">
@@ -84,12 +84,24 @@
 <!ENTITY calendar.week.button.tooltip "Skipta yfir í vikusýn">
 <!ENTITY calendar.month.button.tooltip "Skipta yfir í mánaðarsýn">
 <!ENTITY calendar.multiweek.button.tooltip "Skipta yfir í margra vikna sýn">
-<!ENTITY calendar.nextday.button.tooltip "Næsti dagur">
-<!ENTITY calendar.prevday.button.tooltip "Fyrri dagur">
-<!ENTITY calendar.nextweek.button.tooltip "Næsta vika">
-<!ENTITY calendar.prevweek.button.tooltip "Fyrri vika">
-<!ENTITY calendar.nextmonth.button.tooltip "Næsti mánuður">
-<!ENTITY calendar.prevmonth.button.tooltip "Fyrri mánuður">
+<!ENTITY calendar.nextday.label "Næsti dagur">
+<!ENTITY calendar.prevday.label "Fyrri dagur">
+<!ENTITY calendar.nextday.accesskey "æ">
+<!ENTITY calendar.prevday.accesskey "F">
+<!ENTITY calendar.nextweek.label "Næsta vika">
+<!ENTITY calendar.prevweek.label "Fyrri vika">
+<!ENTITY calendar.nextweek.accesskey "æ">
+<!ENTITY calendar.prevweek.accesskey "F">
+<!ENTITY calendar.nextmonth.label "Næsti mánuður">
+<!ENTITY calendar.prevmonth.label "Fyrri mánuður">
+<!ENTITY calendar.nextmonth.accesskey "æ">
+<!ENTITY calendar.prevmonth.accesskey "F">
+<!ENTITY calendar.navigation.nextday.tooltip "Einn dag áfram">
+<!ENTITY calendar.navigation.prevday.tooltip "Einn dag til baka">
+<!ENTITY calendar.navigation.nextweek.tooltip "Eina viku áfram">
+<!ENTITY calendar.navigation.prevweek.tooltip "Eina viku til baka">
+<!ENTITY calendar.navigation.nextmonth.tooltip "Einn mánuð áfram">
+<!ENTITY calendar.navigation.prevmonth.tooltip "Einn mánuð til baka">
 <!ENTITY calendar.newevent.button.label "Nýr atburður">
 <!ENTITY calendar.newtask.button.label "Nýtt verk">
 <!ENTITY calendar.print.button.label "Prenta">
@@ -100,7 +112,7 @@
 <!ENTITY calendar.multiweek.button.label "Margar vikur">
 <!ENTITY calendar.onlyworkday.checkbox.label "Aðeins vinnudagar">
 <!ENTITY calendar.onlyworkday.checkbox.accesskey "A">
-<!ENTITY calendar.displaytodos.checkbox.label "Verk">
+<!ENTITY calendar.displaytodos.checkbox.label "Verk í sýn">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "V">
 <!ENTITY calendar.completedtasks.checkbox.label "Sýna loknum verkum">
 <!ENTITY calendar.completedtasks.checkbox.accesskey "S">
@@ -126,12 +138,13 @@
 <!ENTITY calendar.task-details.title.label "titli">
 <!ENTITY calendar.task-details.organizer.label "frá">
 <!ENTITY calendar.task-details.priority.label "forgangur">
-<!ENTITY calendar.task-details.priority.low.label "Lágt">
-<!ENTITY calendar.task-details.priority.normal.label "Venjulegt">
-<!ENTITY calendar.task-details.priority.high.label "Hátt">
+<!ENTITY calendar.task-details.priority.low.label "Lágur">
+<!ENTITY calendar.task-details.priority.normal.label "Venjulegur">
+<!ENTITY calendar.task-details.priority.high.label "Hár">
 <!ENTITY calendar.task-details.status.label "staða">
 <!ENTITY calendar.task-details.category.label "flokkur">
 <!ENTITY calendar.task-details.repeat.label "endurtaka">
+<!ENTITY calendar.task-details.attachments.label "viðhengi">
 <!ENTITY calendar.task.category.button.tooltip "Flokka verk">
 <!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verk sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip "Breyta forgangi">
@@ -157,7 +170,7 @@
 <!ENTITY calendar.context.deleteevent.label "Eyða atburði">
 <!ENTITY calendar.context.deleteevent.accesskey "a">
 <!ENTITY calendar.context.deletethisevent.label "Þessi atburður">
-<!ENTITY calendar.context.deletethisevent.accesskey "T">
+<!ENTITY calendar.context.deletethisevent.accesskey "t">
 <!ENTITY calendar.context.deletecompleteseries.label "Allir atburðir">
 <!ENTITY calendar.context.deletecompleteseries.accesskey "A">
 <!ENTITY calendar.context.deletefutureevents.label "Framtíðaratburðir">
@@ -171,7 +184,7 @@
 <!ENTITY calendar.context.pasteevent.label "Líma">
 <!ENTITY calendar.context.pasteevent.accesskey "L">
 <!ENTITY calendar.context.selectall.label "Velja allt">
-<!ENTITY calendar.context.selectall.accesskey "a">
+<!ENTITY calendar.context.selectall.accesskey "j">
 <!ENTITY calendar.context.button.label "Dagurinn í dag">
 <!ENTITY calendar.context.button.accesskey "D">
 <!-- Task Context Menu -->
@@ -194,13 +207,13 @@
 <!ENTITY progress.level.75.accesskey "7">
 <!ENTITY progress.level.100 "100&percnt; Lokið">
 <!ENTITY progress.level.100.accesskey "1">
-<!ENTITY priority.level.none "Ekki skilgreint">
+<!ENTITY priority.level.none "Ekki skilgreindur">
 <!ENTITY priority.level.none.accesskey "s">
-<!ENTITY priority.level.low "Lágt">
+<!ENTITY priority.level.low "Lágur">
 <!ENTITY priority.level.low.accesskey "L">
-<!ENTITY priority.level.normal "Venjulegt">
-<!ENTITY priority.level.normal.accesskey "N">
-<!ENTITY priority.level.high "Hátt">
+<!ENTITY priority.level.normal "Venjulegur">
+<!ENTITY priority.level.normal.accesskey "n">
+<!ENTITY priority.level.high "Hár">
 <!ENTITY priority.level.high.accesskey "H">
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Nýtt dagatal…">
@@ -210,7 +223,7 @@
 <!ENTITY calendar.context.deleteserver.label "Eyða dagatali">
 <!ENTITY calendar.context.deleteserver.accesskey "E">
 <!ENTITY calendar.context.reloadserver.label "Endurnýja fjartengd dagatöl">
-<!ENTITY calendar.context.reloadserver.accesskey "f">
+<!ENTITY calendar.context.reloadserver.accesskey "r">
 <!ENTITY calendar.context.publish.label "Gefa út dagatal…">
 <!ENTITY calendar.context.publish.accesskey "G">
 <!ENTITY calendar.context.export.label "Flytja út dagatal…">
@@ -227,9 +240,9 @@
 <!ENTITY calendar.context.convertmenu.task.label "Verk…">
 <!ENTITY calendar.context.convertmenu.task.accesskey "V">
 <!ENTITY calendar.tasks.view.minimonth.label "Lítill mánuður">
-<!ENTITY calendar.tasks.view.minimonth.accesskey "M">
+<!ENTITY calendar.tasks.view.minimonth.accesskey "m">
 <!ENTITY calendar.tasks.view.calendarlist.label "Dagatala listi">
-<!ENTITY calendar.tasks.view.calendarlist.accesskey "L">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey "l">
 <!ENTITY calendar.tasks.view.filtertasks.label "Sía verk">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey "S">
 <!-- Calendar Alarm Dialog -->
@@ -269,7 +282,7 @@
 <!ENTITY calendarproperties.unsubscribe.accesskey "A">
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title "Gefa út dagatal">
-<!ENTITY calendar.publish.url.label "Útgáfu URL">
+<!ENTITY calendar.publish.url.label "Útgáfuslóð">
 <!ENTITY calendar.publish.publish.button "Gefa út">
 <!ENTITY calendar.publish.close.button "Loka">
 <!ENTITY calendar.publish.example.url.description "Í líkingu við http://www.myserver.com/webdav/test.ics">
@@ -280,12 +293,18 @@
 <!ENTITY calendar.print.title.label "Titill:">
 <!ENTITY calendar.print.layout.label "Útlit:">
 <!ENTITY calendar.print.range.label "Hvað á að prenta">
-<!ENTITY calendar.print.currentview.label "Atburðir í núverandi sýn">
+<!ENTITY calendar.print.currentView2.label "Núverandi sýn">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valdir atburðir/verk">
+<!ENTITY calendar.print.tasks.label "Verk">
+<!ENTITY calendar.print.events.label "Atburðir">
 <!ENTITY calendar.print.selected.label "Valdir atburðir">
 <!ENTITY calendar.print.custom.label "Tímabil:">
 <!ENTITY calendar.print.from.label "Frá:">
 <!ENTITY calendar.print.to.label "Til:">
 <!ENTITY calendar.print.settingsGroup.label "Prent stillingar">
+<!ENTITY calendar.print.optionsGroup.label "Valkostir">
+<!ENTITY calendar.print.taskswithnoduedate.label "Verk með enga lokadagsetningu">
+<!ENTITY calendar.print.completedtasks.label "Loknum verkum">
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Upplýsingar…">
 <!ENTITY calendar.error.code "Villunúmer:">

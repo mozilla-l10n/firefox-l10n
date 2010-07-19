@@ -1,37 +1,42 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Afrit &amp; Möppur">
-<!ENTITY sendingPrefix.label "Þegar póstur er sendur, gera eftirfarandi sjálfvirkt: ">
+<!ENTITY copyAndFolderTitle.label "Afrit og möppur">
+<!ENTITY sendingPrefix.label "Þegar póstur er sendur, gerist eftirfarandi sjálfkrafa: ">
 <!ENTITY fccMailFolder.label "Setja afrit í:">
 <!ENTITY fccMailFolder.accesskey "t">
-<!ENTITY fccReplyFollowsParent.label "Setja svarpósta í möppu póstsins sem verið er að svara">
+<!ENTITY fccReplyFollowsParent.label "Setja svarpóst í möppu póstsins sem verið er að svara">
 <!ENTITY fccReplyFollowsParent.accesskey "p">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Senda afrit á þessi tölvupóstföng:">
+<!ENTITY ccAddress.accesskey "þ">
+<!ENTITY ccAddressList.emptytext "Aðskildu tölvupóstföng með kommum">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Senda falið afrit á þessi tölvupóstföng:">
-<!ENTITY bccAddress.accesskey "S">
-<!ENTITY saveMessageDlg.label "Sýna staðfestingarglugga þegar póstur er vistaður">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY bccAddress.accesskey "ö">
+<!ENTITY bccAddressList.emptytext "Aðskildu tölvupóstföng með kommum">
+<!ENTITY saveMessageDlg.label "Birta staðfestingarglugga þegar póstur er vistaður">
+<!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Mappa á:">
+<!ENTITY sentFolderOn.label "&quot;Sent&quot; mappa í:">
 <!ENTITY sentFolderOn.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Annað:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drög&quot; Mappa á:">
+<!ENTITY draftsFolderOn.label "&quot;Drög&quot; mappa í:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Annað:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Skjalasafn&quot; Mappa á:">
+<!ENTITY archivesFolderOn.label "&quot;Safn&quot; mappa í:">
 <!ENTITY archivesFolderOn.accesskey "S">
 <!ENTITY archiveInOtherFolder.label "Annað:">
-<!ENTITY archiveInOtherFolder.accesskey "n">
+<!ENTITY archiveInOtherFolder.accesskey "ð">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Sniðmát&quot; Mappa á:">
+<!ENTITY templatesFolderOn.label "&quot;Sniðmát&quot; mappa í:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Annað:">
 <!ENTITY templateInOtherFolder.accesskey "a">
-<!ENTITY specialFoldersTitle.label "Drög, skjalasafn, og sniðmát">
+<!ENTITY specialFoldersTitle.label "Drög, safn, og sniðmát">
 <!ENTITY keepDrafts.label "Geyma drög að pósti í:">
-<!ENTITY keepArchives.label "Geyma póst skjalasafn í:">
+<!ENTITY keepArchives.label "Safna pósti í:">
 <!ENTITY keepTempltes.label "Geyma póstsniðmát í:">

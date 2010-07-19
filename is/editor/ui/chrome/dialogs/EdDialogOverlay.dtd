@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY AdvancedEditButton.label "Ítarleg breyting…">
-<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.accessKey "e">
 <!ENTITY AdvancedEditButton.tooltip "Bæta við eða breyta HTML eigindum, snið eigindum, og JavaScript">
 <!ENTITY chooseFileButton.label "Veldu skrá...">
 <!ENTITY chooseFileButton.accessKey "V">
@@ -47,4 +47,4 @@
 <!ENTITY makeUrlRelative.tooltip "Breyta á milli tilvísunar og raunverulegs URL. Til að geta breytt þessu verðurðu að vista síðuna fyrst.">
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Sláðu inn staðsetningu vefsíðu, staðbundinnar skráar, eða veldu markstiklu eða haus frá flettilista:">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.accessKey "l">

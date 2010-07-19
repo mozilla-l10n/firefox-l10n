@@ -62,7 +62,7 @@
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Skoða vistuð lykilorð…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "v">
 <!-- Update -->
-<!ENTITY pref.calendar.advanced.update.autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Athuga sjálfkrafa uppfærslur fyrir:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "S">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Uppsettar viðbætur">
@@ -70,7 +70,7 @@
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Ef uppfærslur fyrir &brandShortName; finnast:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Spyrja hvað á að gera">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
-<!ENTITY pref.calendar.advanced.update.modeAuto.label "Hlaða niður sjálfvirkt og setja upp uppfærsluna">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Hlaða niður sjálfkrafa og setja inn uppfærsluna">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "H">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "V">
@@ -84,14 +84,14 @@
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
 <!ENTITY pref.calendar.advanced.encryption.certificates.label "Skilríki">
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "Þegar netþjónn biður um mitt skilríki:">
-<!ENTITY pref.calendar.advanced.encryption.certs.auto "Velja eitt sjálfvirkt">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Velja eitt sjálfkrafa">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask "Spyrja í hvert skipti">
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Skoða skilríki">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "k">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Afturköllunarlisti">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "r">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Sannprófun">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "S">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Öryggistæki">

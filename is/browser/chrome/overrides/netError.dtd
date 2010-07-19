@@ -17,8 +17,8 @@
    <strong>www</strong>.mozilla.org</li>
   <li>Ef þú getur ekki tengst öðrum síðum, athugaðu þá nettengingu
   tölvunnar.</li>
-  <li>Ef tölvan þín er varin af eldvegg eða staðgengli, vertu viss um
-   að &brandShortName; hafi leyfi til að tengjast vefnum.</li>
+  <li>Ef tölvan þín er varin af eldvegg eða milliþjóni, vertu viss um
+   að &brandShortName; hafi aðgang til að tengjast vefnum.</li>
 </ul>">
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "
@@ -66,27 +66,27 @@
   <li>Til að opna þetta veffang gætir þú þurft að hlaða inn öðrum hugbúnaði.</li>
 </ul>
 ">
-<!ENTITY proxyConnectFailure.title "Staðgengill neitar tengingum">
+<!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingum">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Athugaðu staðgengla stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li>
-  <li>Hafðu samband við netkerfisstjóra til að athuga hvort staðgengils netþjónn sé
+  <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li>
+  <li>Hafðu samband við netkerfisstjóra til að athuga hvort milliþjónn sé
     virkur.</li>
 </ul>
 ">
-<!ENTITY proxyResolveFailure.title "Fann ekki staðgengla netþjón">
+<!ENTITY proxyResolveFailure.title "Fann ekki milliþjónn">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Athugaðu staðgengla stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li>
+  <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li>
   <li>Athugaðu hvort tölvan þín sé tengd við netið.</li>
-  <li>Ef tölvan eða netið er varið af eldvegg eða staðgengli, athugaðu þá hvort
+  <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort
     &brandShortName; hefur leyfi til að tengjast netinu.</li>
 </ul>
 ">
-<!ENTITY redirectLoop.title "Síðan er ekki að áframsenda rétt">
+<!ENTITY redirectLoop.title "Síðan er ekki að senda rétt áfram">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Þetta vandamál er stundum vegna þess að lokað er á smákökur eða þær hafa
+  <li>Þetta vandamál getur verið vegna þess að lokað er á smákökur eða þær hafa
     verið aftengdar.</li>
 </ul>
 ">
@@ -102,7 +102,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða vegna þess að ekki var hægt að auðkenna gögnin.</li>
-  <li>Vinsamlega hafið samband við vefstjóra svæðisins til að láta þá vita af þessu vandamáli. Eða notaðu aðgerðina í hjálparvalmyndinni til að tilkynna þetta vefsvæði bilað.</li>
+  <li>Hafið samband við vefstjóra svæðisins til að láta þá vita af þessu vandamáli. Eða notaðu aðgerðina í hjálparvalmyndinni til að tilkynna þetta vefsvæði bilað.</li>
 </ul>
 ">
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
@@ -118,20 +118,22 @@
     seinna.</li>
   <li>Ef þú getur ekki hlaðið inn neinni síðu, athugaðu þá nettengingu
     tölvunnar.</li>
-  <li>Ef tölvan eða netið er varið af eldvegg eða staðgengli, athugaðu þá
+  <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá
     hvort &brandShortName; hafi aðgang til þess að fara á netið.</li>
 </ul>
 ">
 <!ENTITY malwareBlocked.title "Grunað árásarsvæði!">
 <!ENTITY malwareBlocked.longDesc "
 <p>Árásarsvæði eru svæði sem reyna að setja inn forrit til að stela persónulegum upplýsingum, nota tölvuna þína til að gera árás á aðra, eða valda skemmdum.</p>
-<p>Vefstjórar sem grunar að þeirra svæði hafi rangt verið tilkynnt sem árásarsvæði geta <a href='http://www.stopbadware.org/home/reviewinfo' >beðið um endurskoðun</a>.</p>
+<p>Vefstjóra sem grunar að þeirra svæði hafi rangt verið tilkynnt sem árásarsvæði geta <a href='http://www.stopbadware.org/home/reviewinfo' >beðið um endurskoðun</a>.</p>
 ">
 <!ENTITY phishingBlocked.title "Grunað falsað vefsvæði!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Ef þú slærð inn einhverjar persónuupplýsingar á þessari síðu gætirðu hugsanlega lent í kennistuldi eða svikum.</p>
 <p>Þessar tegundir af vef fölsunum eru notaðar í svikum betur þekktar sem vefveiðar, í því eru sviksamlegar vefsíður og tölvupóstur notað til að líkja eftir aðilum sem þú treystir.</p>
 ">
+<!ENTITY cspFrameAncestorBlocked.title "Lokað á vegna öryggisreglu">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 <!ENTITY securityOverride.linkText "Eða þú getur bætt við undantekningu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hjálpaðu mér héðan út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">

@@ -1,29 +1,31 @@
 <!ENTITY itemGeneral.label "Almennt">
-<!ENTITY itemDisplay.label "Lesa &amp; Skoða">
+<!ENTITY itemDisplay.label "Lesa og skoða">
 <!ENTITY itemUpdate.label "Uppfærslur">
-<!ENTITY itemNetworking.label "Netkerfi &amp; Diskpláss">
+<!ENTITY itemNetworking.label "Netkerfi og diskpláss">
 <!ENTITY itemCertificates.label "Skilríki">
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
 <!ENTITY enableGlodaSearch.accesskey "i">
-<!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
+<!ENTITY systemIntegration.label "Samþætting kerfis">
 <!ENTITY alwaysCheckDefault.label "Alltaf athuga hvort &brandShortName; sé sjálfgefið póstforrit í ræsingu">
 <!ENTITY alwaysCheckDefault.accesskey "l">
+<!ENTITY searchIntegration.label "Leyfa &searchIntegration.engineName; að leita í pósti">
+<!ENTITY searchIntegration.accesskey "s">
 <!ENTITY checkNow.label "Kanna núna…">
-<!ENTITY checkNow.accesskey "N">
+<!ENTITY checkNow.accesskey "n">
 <!ENTITY configEditDesc.label "Ítarlegar stillingar">
 <!ENTITY configEdit.label "Stillinga ritill…">
 <!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "Skilgreina hvernig &brandShortName; meðhöndlar staðfestingu á móttöku pósts">
 <!ENTITY showReturnReceipts.label "Staðfesting á lestri…">
-<!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY showReturnReceipts.accesskey "S">
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption "Lesa">
 <!ENTITY display.caption "Sýna">
-<!ENTITY showCondensedAddresses.label "Sýna aðeins birtingarnafn fyrir tengiliði í nafnabókinni">
+<!ENTITY showCondensedAddresses.label "Sýna aðeins birtingarnafn fyrir tengiliði í nafnaskránni">
 <!ENTITY showCondensedAddresses.accesskey "t">
-<!ENTITY autoMarkAsRead.label "Merkja sjálfvirkt póst sem lesinn">
+<!ENTITY autoMarkAsRead.label "Merkja sjálfkrafa póst sem lesinn">
 <!ENTITY autoMarkAsRead.accesskey "M">
 <!ENTITY markAsReadNoDelay.label "Strax við birtingu">
 <!ENTITY markAsReadNoDelay.accesskey "b">
@@ -34,12 +36,16 @@
 <!ENTITY markAsReadDelay.accesskey "E">
 <!ENTITY secondsLabel.label "sekúndur">
 <!ENTITY openMsgIn.label "Opna póst í:">
+<!ENTITY openMsgInNewTab.label "Nýjum flipa">
+<!ENTITY openMsgInNewTab.accesskey "f">
 <!ENTITY reuseExpRadio0.label "Í nýjum glugga">
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "Í glugga sem er til fyrir">
 <!ENTITY reuseExpRadio1.accesskey "g">
+<!ENTITY closeMsgWindowOnDelete.label "Loka póstglugga við eyðingu">
+<!ENTITY closeMsgWindowOnDelete.accesskey "L">
 <!-- Update -->
-<!ENTITY autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
+<!ENTITY autoCheck.label "Athuga sjálfkrafa uppfærslur fyrir:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "T">
 <!ENTITY enableAddonsUpdate.label "Uppsettar viðbætur">
@@ -47,12 +53,12 @@
 <!ENTITY whenUpdatesFound.label "Þegar uppfærslur fyrir &brandShortName; finnast,">
 <!ENTITY modeAskMe.label "Spyrja hvað á að gera">
 <!ENTITY modeAskMe.accesskey "S">
-<!ENTITY modeAutomatic.label "Hlaða sjálfvirkt niður og setja uppfærsluna upp">
+<!ENTITY modeAutomatic.label "Hlaða niður sjálfkrafa og setja inn uppfærsluna">
 <!ENTITY modeAutomatic.accesskey "H">
 <!ENTITY modeAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
 <!ENTITY modeAutoAddonWarn.accesskey "V">
 <!ENTITY showUpdates.label "Sýna uppfærslusögu">
-<!ENTITY showUpdates.accesskey "u">
+<!ENTITY showUpdates.accesskey "ö">
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label "Stillingar…">
 <!ENTITY showSettings.accesskey "n">
@@ -73,16 +79,21 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label "Nota að hámarki">
-<!ENTITY useCacheBefore.accesskey "N">
+<!ENTITY useCacheBefore.accesskey "o">
 <!ENTITY useCacheAfter.label "MB af plássi fyrir flýtiminni">
 <!ENTITY clearCacheNow.label "Hreinsa núna">
 <!ENTITY clearCacheNow.accesskey "H">
 <!-- Certificates -->
+<!ENTITY certSelection.description "Þegar netþjónn biður um mitt skilríki:">
+<!ENTITY certs.auto "Velja eitt sjálfkrafa">
+<!ENTITY certs.auto.accesskey "V">
+<!ENTITY certs.ask "Spyrja í hvert skipti">
+<!ENTITY certs.ask.accesskey "a">
 <!ENTITY viewCertificates.label "Skoða skilríki">
-<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCertificates.accesskey "k">
 <!ENTITY viewCRLs.label "Afturköllunarlisti">
-<!ENTITY viewCRLs.accesskey "A">
+<!ENTITY viewCRLs.accesskey "r">
 <!ENTITY validation.label "Sannprófun">
 <!ENTITY validation.accesskey "S">
 <!ENTITY viewSecurityDevices.label "Öryggistæki">
-<!ENTITY viewSecurityDevices.accesskey "y">
+<!ENTITY viewSecurityDevices.accesskey "Ö">

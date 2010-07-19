@@ -38,7 +38,7 @@
 <!ENTITY gdata.privacy.default.label "Google Sjálfgefið">
 <!ENTITY gdata.privacy.default.accesskey "S">
 <!ENTITY gdata.migration.title "Flytja inn skrifvarin dagatöl">
-<!ENTITY gdata.migration.description "Þjónustan fyrir Google Dagatal hefur komist að því að þú átt til dagatöl sem aðeins er hægt að nálgast skrifvarin. Ef þú vilt uppfæra eitthvert af þessum dagatölum, vinsamlega veldu þau hérna fyrir neðan">
+<!ENTITY gdata.migration.description "Þjónustan fyrir Google Dagatal hefur komist að því að þú átt til dagatöl sem aðeins er hægt að nálgast skrifvarin. Ef þú vilt uppfæra eitthvert af þessum dagatölum, veldu þau hérna fyrir neðan">
 <!ENTITY gdata.migration.upgrade.label "Uppfæra">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Alltaf athuga ">

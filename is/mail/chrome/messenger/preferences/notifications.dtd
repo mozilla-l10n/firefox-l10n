@@ -1,9 +1,9 @@
 <!ENTITY notificationsDialog2.title "Sérsníða tilkynningu um nýjan póst">
-<!ENTITY window.width "40em">
+<!ENTITY window.width "50em">
 <!ENTITY alertCustomization.intro "Velja hvaða svæði á að sýna í áminningu:">
 <!ENTITY previewText.label "Forskoðun textapósts">
 <!ENTITY previewText.accesskey "F">
 <!ENTITY subject.label "Efni">
-<!ENTITY subject.accesskey "E">
+<!ENTITY subject.accesskey "f">
 <!ENTITY sender.label "Sendandi">
 <!ENTITY sender.accesskey "e">

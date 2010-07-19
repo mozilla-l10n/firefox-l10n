@@ -38,20 +38,20 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Veldu forstillingu">
-<!ENTITY profilename.label "Forstillingarnafn:">
+<!ENTITY windowtitle.label "&brandShortName; - Veldu notanda">
+<!ENTITY profilename.label "Nafn notanda:">
 <!ENTITY start.label "Ræsa &brandShortName;">
 <!ENTITY exit.label "Hætta">
-<!ENTITY availprofiles.label "Forstillingar í boði">
-<!ENTITY newButton.label "Búa til forstillingu…">
+<!ENTITY availprofiles.label "Tiltækir notendur">
+<!ENTITY newButton.label "Búa til notanda…">
 <!ENTITY newButton.accesskey "B">
-<!ENTITY renameButton.label "Endurnefna forstillingu…">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Eyða forstillingu…">
+<!ENTITY renameButton.label "Endurnefna notanda…">
+<!ENTITY renameButton.accesskey "r">
+<!ENTITY deleteButton.label "Eyða notanda…">
 <!ENTITY deleteButton.accesskey "E">
 <!-- manager entities -->
-<!ENTITY pmDescription.label "&brandShortName; geymir upplýsingar um stillingar, og aðra hluti í forstillingu fyrir þig.">
-<!ENTITY offlineState.label "Vinna ótengt">
+<!ENTITY pmDescription.label "&brandShortName; geymir fyrir þig upplýsingar um stillingar, og aðra hluti í notandastillingum.">
+<!ENTITY offlineState.label "Vinna ótengdur">
 <!ENTITY offlineState.accesskey "n">
 <!ENTITY autoSelect.label "Ekki spyrja í ræsingu">
 <!ENTITY autoSelect.accesskey "s">

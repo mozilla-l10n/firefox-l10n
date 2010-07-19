@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title "Endurnefna möppu">
 <!ENTITY rename.label "Sláðu inn nýtt nafn fyrir möppu:">
 <!ENTITY rename.accesskey "S">
+<!ENTITY accept.label "Endurnefna">
+<!ENTITY accept.accesskey "r">

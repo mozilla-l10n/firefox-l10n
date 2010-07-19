@@ -38,12 +38,12 @@
 <!ENTITY Legend.label "Skýring">
 <!ENTITY Legend.accesskey "S">
 <!ENTITY EditLegendText.label "Breyta texta:">
-<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Stilla texta:">
-<!ENTITY LegendAlign.accesskey "A">
+<!ENTITY LegendAlign.accesskey "a">
 <!ENTITY AlignDefault.label "Sjálfgefið">
 <!ENTITY AlignLeft.label "Vinstri">
 <!ENTITY AlignCenter.label "Miðjað">
 <!ENTITY AlignRight.label "Hægri">
 <!ENTITY RemoveFieldSet.label "Fjarlægja svæðamengi">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.accesskey "r">

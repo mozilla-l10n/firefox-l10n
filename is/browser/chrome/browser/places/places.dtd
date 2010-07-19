@@ -4,16 +4,16 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Breyta">
 <!ENTITY organize.accesskey "B">
+<!ENTITY organize.tooltip "Sýsla með bókamerki">
 <!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Loka">
 <!ENTITY file.close.accesskey "L">
 <!ENTITY cmd.close.key "w">
 <!ENTITY edit.label "Breyta">
-<!ENTITY edit.accesskey "B">
+<!ENTITY edit.accesskey "e">
 <!ENTITY views.label "Sýn">
 <!ENTITY views.accesskey "S">
-<!ENTITY view.toolbar.label "Verkfærarein">
-<!ENTITY view.toolbar.accesskey "V">
+<!ENTITY views.tooltip "Breyta sýn">
 <!ENTITY view.columns.label "Sýna dálka">
 <!ENTITY view.columns.accesskey "d">
 <!ENTITY view.sort.label "Raða">
@@ -24,12 +24,6 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ö > A röðun">
 <!ENTITY view.sortDescending.accesskey "Ö">
-<!ENTITY help.usingBookmarks.label "Nota bókamerki">
-<!ENTITY help.usingBookmarks.accesskey "B">
-<!ENTITY help.usingHistory.label "Nota feril">
-<!ENTITY help.usingHistory.accesskey "i">
-<!ENTITY help.advancedTips.label "Ítarleg ábendingar &amp; snjallræði">
-<!ENTITY help.advancedTips.accesskey "T">
 <!ENTITY cmd.findInBookmarks.label "Leita í bókamerkjum…">
 <!ENTITY cmd.findInBookmarks.accesskey "L">
 <!ENTITY cmd.findCurrent.label "Leita í núverandi safni…">
@@ -37,74 +31,43 @@
 <!ENTITY cmd.exportHTML.label "Flytja út HTML…">
 <!ENTITY cmd.exportHTML.accesskey "F">
 <!ENTITY cmd.importHTML.label "Flytja inn HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY cmd.importHTML.accesskey "i">
 <!ENTITY cmd.backup.label "Afrita…">
 <!ENTITY cmd.backup.accesskey "A">
 <!ENTITY cmd.restore2.label "Endurheimta">
-<!ENTITY cmd.restore2.accesskey "R">
+<!ENTITY cmd.restore2.accesskey "r">
 <!ENTITY cmd.restoreFromFile.label "Veldu skrá…">
 <!ENTITY cmd.restoreFromFile.accesskey "V">
-<!ENTITY cmd.select_all.label "Velja allt">
-<!ENTITY cmd.select_all.accesskey "A">
-<!ENTITY cmd.select_all.key "a">
-<!ENTITY cmd.edit_cut.label "Klippa">
-<!ENTITY cmd.edit_cut.accesskey "K">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Afrita">
-<!ENTITY cmd.edit_copy.accesskey "A">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Líma">
-<!ENTITY cmd.edit_paste.accesskey "L">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Eyða">
-<!ENTITY cmd.edit_delete.accesskey "E">
-<!ENTITY cmd.edit_undo.label "Afturkalla">
-<!ENTITY cmd.edit_undo.accesskey "U">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Endurtaka">
-<!ENTITY cmd.edit_redo.accesskey "R">
-<!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.bookmarkLink.label "Bókamerkja þessa síðu…">
+<!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "Eyða þessari síðu">
 <!ENTITY cmd.delete.accesskey "E">
 <!ENTITY cmd.deleteDomainData.label "Gleyma þessu vefsvæði">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.deleteDomainData.accesskey "f">
 <!ENTITY cmd.open.label "Opna">
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.open_window.label "Opna í nýjum glugga">
-<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_window.accesskey "n">
 <!ENTITY cmd.open_tab.label "Opna í nýjum flipa">
 <!ENTITY cmd.open_tab.accesskey "f">
 <!ENTITY cmd.open_all_in_tabs.label "Opna allt í flipum">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 <!ENTITY cmd.properties.label "Eiginleikar">
 <!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.show_info.key "i">
-<!ENTITY cmd.rename.label "Endurnefna">
-<!ENTITY cmd.rename.accesskey "R">
 <!ENTITY cmd.sortby_name.label "Raða eftir nafni">
 <!ENTITY cmd.sortby_name.accesskey "R">
 <!ENTITY cmd.context_sortby_name.accesskey "r">
 <!ENTITY cmd.new_bookmark.label "Nýtt bókamerki…">
-<!ENTITY cmd.new_bookmark.accesskey "B">
-<!ENTITY cmd.new_livemark.label "Nýtt lifandi bókamerki…">
-<!ENTITY cmd.new_livemark.accesskey "L">
+<!ENTITY cmd.new_bookmark.accesskey "b">
 <!ENTITY cmd.new_folder.label "Ný mappa…">
 <!ENTITY cmd.new_folder.accesskey "m">
 <!ENTITY cmd.context_new_folder.accesskey "m">
-<!ENTITY cmd.new_separator.label "Nýr aðskiljari">
-<!ENTITY cmd.new_separator.accesskey "S">
+<!ENTITY cmd.new_separator.label "Nýr aðgreinir">
+<!ENTITY cmd.new_separator.accesskey "g">
 <!ENTITY cmd.reloadLivebookmark.label "Endurnýja lifandi bókamerki">
-<!ENTITY cmd.reloadLivebookmark.accesskey "R">
+<!ENTITY cmd.reloadLivebookmark.accesskey "r">
 <!ENTITY cmd.reloadMicrosummary.label "Endurnýja lifandi titil">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
-<!ENTITY cmd.groupby_site.label "Flokka eftir vefsvæði">
-<!ENTITY cmd.groupby_site.accesskey "S">
-<!ENTITY cmd.groupby_page.label "Flokka eftir síðu">
-<!ENTITY cmd.groupby_page.accesskey "s">
-<!ENTITY cmd.groupby_feed.label "Flokka eftir áskrift">
-<!ENTITY cmd.groupby_feed.accesskey "S">
-<!ENTITY cmd.groupby_post.label "Flokka eftir pósti">
-<!ENTITY cmd.groupby_post.accesskey "P">
+<!ENTITY cmd.reloadMicrosummary.accesskey "r">
 <!ENTITY cmd.moveBookmarks.label "Færa…">
 <!ENTITY cmd.moveBookmarks.accesskey "F">
 <!ENTITY col.name.label "Nafn">
@@ -118,77 +81,27 @@
 <!ENTITY col.lastmodified.label "Síðast breytt">
 <!ENTITY search.label "Leita:">
 <!ENTITY search.accesskey "L">
-<!ENTITY search.collection.label "Aðeins núverandi safn">
-<!ENTITY search.collection.accesskey "A">
-<!ENTITY search.allBookmarks.label "Öll bókamerki">
-<!ENTITY search.allBookmarks.accesskey "l">
 <!ENTITY search.scopeFolder.label "Valin mappa">
 <!ENTITY search.scopeFolder.accesskey "V">
-<!ENTITY search.scopeAll.label "Öll bókamerki">
-<!ENTITY search.scopeAll.accesskey "A">
-<!ENTITY search.scopeMenu.label "Bókamerkjavalmynd">
-<!ENTITY search.scopeMenu.accesskey "M">
-<!ENTITY search.scopeToolbar.label "Bókamerkjaslá">
-<!ENTITY search.scopeToolbar.accesskey "s">
+<!ENTITY search.scopeBookmarks.label "Bókamerki">
+<!ENTITY search.scopeBookmarks.accesskey "k">
 <!ENTITY search.scopeDownloads.label "Niðurhal">
 <!ENTITY search.scopeDownloads.accesskey "N">
 <!ENTITY search.scopeHistory.label "Ferill">
 <!ENTITY search.scopeHistory.accesskey "F">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Sýna leitartæki">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Fela leitartæki">
 <!ENTITY saveSearch.label "Vista">
-<!ENTITY saveSearch.accesskey "S">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Leita aðeins í bókamerkjum">
-<!ENTITY advancedSearch.match.label "Passar við ">
-<!ENTITY advancedSearch.all.label "allar">
-<!ENTITY advancedSearch.any.label "hvern sem er">
-<!ENTITY advancedSearch.rules.label " fyrir eftirfarandi reglur:">
-<!ENTITY advancedSearch.subj_keyword.label "Inniheldur textann">
-<!ENTITY advancedSearch.subj_visited.label "Heimsóttur">
-<!ENTITY advancedSearch.subj_location.label "Staðsetning">
-<!ENTITY advancedSearch.location_startswith.label "byrjar á">
-<!ENTITY advancedSearch.location_is.label "er">
-<!ENTITY advancedSearch.location_onsite.label "er á vefsvæði">
-<!ENTITY advancedSearch.time_is.label "virkt">
-<!ENTITY advancedSearch.time_before.label "fyrir">
-<!ENTITY advancedSearch.time_after.label "eftir">
-<!ENTITY advancedSearch.time_inlast.label "er í seinustu">
-<!ENTITY advancedSearch.last_days.label "daga">
-<!ENTITY advancedSearch.last_weeks.label "vikur">
-<!ENTITY advancedSearch.last_months.label "mánuðir">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Flokka eftir: ">
-<!ENTITY advancedSearch.groupby_host.label "netþjón">
-<!ENTITY advancedSearch.groupby_domain.label "lén">
-<!ENTITY advancedSearch.groupby_folder.label "möppu">
-<!ENTITY advancedSearch.sortby.label "Raða eftir: ">
-<!ENTITY advancedSearch.sortby_title.label "titli">
-<!ENTITY advancedSearch.sortby_date.label "dagsetningu">
-<!ENTITY advancedSearch.sortby_visit.label "fjölda heimsókna">
-<!ENTITY advancedSearch.sortby_url.label "slóð">
-<!ENTITY advancedSearch.sortby_asc.label "hækkandi">
-<!ENTITY advancedSearch.sortby_desc.label "lækkandi">
-<!ENTITY advancedSearch.max.label "Hæsti fjöldi: ">
+<!ENTITY saveSearch.accesskey "s">
 <!ENTITY cmd.find.key "f">
-<!ENTITY feed.subscribe.label "Straumur">
-<!ENTITY feed.subscribe.tooltip "Gerast áskrifandi">
-<!ENTITY view.detailsMacOSX.label "Listi">
-<!ENTITY view.details.label "Nánar">
-<!ENTITY view.details.accesskey "N">
-<!ENTITY view.addons.label "Ná í sýn viðbætur">
 <!ENTITY maintenance.label "Flytja inn og afrita">
-<!ENTITY maintenance.accesskey "I">
+<!ENTITY maintenance.accesskey "i">
+<!ENTITY maintenance.tooltip "Flytja inn og afrita bókamerki">
 <!ENTITY backCmd.label "Til baka">
-<!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "Til baka">
 <!ENTITY forwardCmd.label "Áfram">
-<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "Fara áfram">
 <!ENTITY detailsPane.more.label "Meira">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Minna">
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.noPreviewAvailable.label "Forskoða">
-<!ENTITY detailsPane.selectAnItemText.description "Veldu einindi til að skoða og breyta eiginleikum">
+<!ENTITY detailsPane.selectAnItemText.description "Veldu hlut til að skoða og breyta">

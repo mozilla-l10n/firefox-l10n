@@ -38,23 +38,23 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Leita og víxla">
+<!ENTITY replaceDialog.title "Leita og breyta">
 <!ENTITY findField.label "Leita að texta:">
-<!ENTITY findField.accesskey "L">
-<!ENTITY replaceField.label "Setja í staðinn:">
+<!ENTITY findField.accesskey "x">
+<!ENTITY replaceField.label "Breyta í:">
 <!ENTITY replaceField.accesskey "e">
 <!ENTITY caseSensitiveCheckbox.label "Passa við hástafi/lágstafi">
 <!ENTITY caseSensitiveCheckbox.accesskey "P">
-<!ENTITY wrapCheckbox.label "Umvefja kringum">
-<!ENTITY wrapCheckbox.accesskey "U">
-<!ENTITY backwardsCheckbox.label "Leita afturábak">
+<!ENTITY wrapCheckbox.label "Fara hring">
+<!ENTITY wrapCheckbox.accesskey "h">
+<!ENTITY backwardsCheckbox.label "Leita aftur á bak">
 <!ENTITY backwardsCheckbox.accesskey "b">
 <!ENTITY findNextButton.label "Leita að næsta">
 <!ENTITY findNextButton.accesskey "L">
-<!ENTITY replaceButton.label "Skipta út">
-<!ENTITY replaceButton.accesskey "S">
-<!ENTITY replaceAndFindButton.label "Skipta út og leita">
-<!ENTITY replaceAndFindButton.accesskey "S">
+<!ENTITY replaceButton.label "Breyta">
+<!ENTITY replaceButton.accesskey "r">
+<!ENTITY replaceAndFindButton.label "Breyta og leita">
+<!ENTITY replaceAndFindButton.accesskey "y">
 <!ENTITY replaceAllButton.label "Breyta öllu">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Loka">

@@ -43,7 +43,7 @@
 <!ENTITY link.label "Hrifreitstengill">
 <!ENTITY urlFieldset.label "Hrifreit URL:">
 <!ENTITY altFieldset.label "Hrifreit auka texti:">
-<!ENTITY browseButton.label "Fletta…">
+<!ENTITY browseButton.label "Velja…">
 <!ENTITY targetFieldset.label "Stillingar marks">
 <!ENTITY target.label "Mark hrifreitar">
 <!-- Targets -->

@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title "Innflutningshjálp">
-<!ENTITY importFromWin.label "Flytja inn stillingar, reikninga, nafnabók, síur og önnur gögn frá:">
-<!ENTITY importFromNonWin.label "Flytja inn stillingar, reikninga, nafnabók, síur og önnur gögn frá:">
-<!ENTITY importFromNothing.label "Ekki flytja neitt inn">
-<!ENTITY importFromNothing.accesskey "E">
+<!ENTITY importFromWin.label "Flytja inn stillingar, reikninga, nafnaskrá, síur og önnur gögn frá:">
+<!ENTITY importFromNonWin.label "Flytja inn stillingar, reikninga, nafnaskrá, síur og önnur gögn frá:">
+<!ENTITY importFromNothing.label "Flytja ekkert inn">
+<!ENTITY importFromNothing.accesskey "e">
 <!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x eða SeaMonkey">
 <!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromNetscape4.label "Netscape 4.x">

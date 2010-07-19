@@ -42,22 +42,22 @@
 <!ENTITY connectionsDialog.title "Net stillingar">
 <!ENTITY window.width "43em">
 <!ENTITY window.macWidth "45em">
-<!ENTITY proxyTitle.label "Stilla staðgengla (Proxy) til að tengjast netinu">
+<!ENTITY proxyTitle.label "Stilla milliþjóna (Proxy) til að tengjast netinu">
 <!ENTITY directTypeRadio.label "Bein tenging við netið">
 <!ENTITY directTypeRadio.accesskey "B">
-<!ENTITY WPADTypeRadio.label "Sjálfvirk uppgötvun á staðgenglum á þessu neti">
+<!ENTITY WPADTypeRadio.label "Sjálfvirk uppgötvun á milliþjónum á þessu neti">
 <!ENTITY WPADTypeRadio.accesskey "S">
-<!ENTITY manualTypeRadio.label "Handvirk stilling á staðgenglum:">
-<!ENTITY manualTypeRadio.accesskey "H">
-<!ENTITY autoTypeRadio.label "Sjálfvirkt URL fyrir stillingar á staðgenglum:">
+<!ENTITY manualTypeRadio.label "Handvirk stilling á milliþjónum:">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "Sjálfvirkt URL fyrir stillingar á milliþjónum:">
 <!ENTITY autoTypeRadio.accesskey "U">
 <!ENTITY reload.label "Endurnýja">
 <!ENTITY reload.accesskey "E">
-<!ENTITY ftp.label "FTP staðgengill:">
+<!ENTITY ftp.label "FTP milliþjónn:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY http.label "HTTP staðgengill:">
-<!ENTITY http.accesskey "s">
-<!ENTITY ssl.label "SSL staðgengill:">
+<!ENTITY http.label "HTTP milliþjónn:">
+<!ENTITY http.accesskey "H">
+<!ENTITY ssl.label "SSL milliþjónn:">
 <!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "SOCKS hýsitölva:">
 <!ENTITY socks.accesskey "C">
@@ -70,8 +70,8 @@
 <!ENTITY SSLport.accesskey "">
 <!ENTITY FTPport.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Engir staðgenglar fyrir:">
+<!ENTITY noproxy.label "Engir milliþjónar fyrir:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Til dæmis: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Nota þennan staðgengill fyrir allar samskiptareglur">
+<!ENTITY shareproxy.label "Nota þennan milliþjón fyrir allar samskiptareglur">
 <!ENTITY shareproxy.accesskey "g">

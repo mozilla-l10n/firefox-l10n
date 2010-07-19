@@ -1,3 +1,5 @@
+<!ENTITY editContactPanelDeleteContact.label "Eyða">
+<!ENTITY editContactPanelDeleteContact.accesskey "E">
 <!ENTITY editContactName.label "Nafn:">
 <!ENTITY editContactName.accesskey "N">
 <!ENTITY editContactEmail.label "Tölvupóstfang:">

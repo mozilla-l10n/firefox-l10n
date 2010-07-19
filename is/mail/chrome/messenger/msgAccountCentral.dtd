@@ -1,6 +1,6 @@
 <!ENTITY emailSectionHdr.label "Tölvupóstur">
  
-<!ENTITY readMsgsLink.label "Lesa póst">
+<!ENTITY readMsgsLink.label "Lesinn póstur">
  
 <!ENTITY composeMsgLink.label "Skrifa nýjan póst">
  
@@ -24,7 +24,6 @@
  
 <!ENTITY filtersLink.label "Sýsla með póstsíur">
 <!ENTITY junkSettings.label "Ruslpósts stillingar">
-<!ENTITY offlineLink.label "Stillingar fyrir að vera ótengdur">
-<!ENTITY rssSectionHdr.label "RSS fréttir &amp; blogg">
- 
-<!ENTITY subscibeRSS.label "Stilla áskriftir">
+<!ENTITY offlineLink.label "Stillingar fyrir ótengda notkun">
+<!ENTITY feedsSectionHdr.label "Straumar">
+<!ENTITY subscribeFeeds.label "Stilla áskriftir">

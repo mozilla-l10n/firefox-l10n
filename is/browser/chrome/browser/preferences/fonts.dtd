@@ -1,9 +1,9 @@
-<!ENTITY fontsDialog.title "Letur">
+<!ENTITY fontsDialog.title "Leturgerðir">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "Letur fyrir:">
-<!ENTITY language.accesskey "F">
+<!ENTITY language.accesskey "f">
 <!ENTITY size.label "Stærð:">
 <!ENTITY sizeProportional.accesskey "t">
 <!ENTITY sizeMonospace.accesskey "æ">
@@ -22,7 +22,7 @@
 <!ENTITY font.langGroup.simpl-chinese "Einfölduð kínverska">
 <!ENTITY font.langGroup.trad-chinese-hk "Hefðbundin kínverska (Hong Kong)">
 <!ENTITY font.langGroup.korean "Kóreska">
-<!ENTITY font.langGroup.cyrillic "Kýrílskt">
+<!ENTITY font.langGroup.cyrillic "Kýrillískt">
 <!ENTITY font.langGroup.baltic "Baltneskt">
 <!ENTITY font.langGroup.el "Gríska">
 <!ENTITY font.langGroup.turkish "Tyrkneska">
@@ -46,6 +46,7 @@
 <!ENTITY font.langGroup.telugu "Indverska (Telugu)">
 <!ENTITY font.langGroup.kannada "Kannadískt">
 <!ENTITY font.langGroup.sinhala "Sinhala">
+<!ENTITY font.langGroup.tibetan "Tíbetska">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Lágmarks leturstærð:">
 <!ENTITY minSize.accesskey "L">
@@ -54,7 +55,7 @@
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 <!ENTITY allowPagesToUse.label "Leyfa vefsíðum að velja sínar eigin leturgerðir, í staðinn fyrir mitt val hér fyrir ofan">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY allowPagesToUse.accesskey "a">
 <!ENTITY languages.customize.Charset.grouplabel "Stafatöflur">
 <!ENTITY languages.customize.DefaultCharset.label "Sjálfgefin stafatafla:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "s">
+<!ENTITY languages.customize.DefaultCharset.accesskey "g">

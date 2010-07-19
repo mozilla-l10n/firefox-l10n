@@ -41,7 +41,7 @@
 <!ENTITY from.label "frá:">
 <!ENTITY actionQuestion.label "Hvernig viltu að &brandShortName; meðhöndli þessa skrá?">
 <!ENTITY openWith.label "Opna með">
-<!ENTITY openWith.accesskey "o">
+<!ENTITY openWith.accesskey "O">
 <!ENTITY other.label "Annað…">
 <!ENTITY saveFile.label "Vista skrá">
 <!ENTITY saveFile.accesskey "s">
@@ -50,6 +50,6 @@
 <!ENTITY whichIsA.label "sem er:">
 <!ENTITY chooseHandlerMac.label "Velja…">
 <!ENTITY chooseHandlerMac.accesskey "V">
-<!ENTITY chooseHandler.label "Fletta…">
-<!ENTITY chooseHandler.accesskey "F">
+<!ENTITY chooseHandler.label "Velja…">
+<!ENTITY chooseHandler.accesskey "V">
 <!ENTITY unknownPromptText.label "Viltu vista skrá?">
