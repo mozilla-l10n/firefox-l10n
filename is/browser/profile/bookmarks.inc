@@ -7,10 +7,6 @@
 #define bookmarks_title Bókamerki
 #define bookmarks_heading Bókamerki
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Ná í viðbætur fyrir bókamerki
-
 #define bookmarks_toolbarfolder Bókamerkjaslá mappa
 #define bookmarks_toolbarfolder_description Bættu við bókamerkjum í þessa möppu til að birta þau í bókamerkjaslá
 
