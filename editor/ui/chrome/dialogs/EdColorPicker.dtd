@@ -37,7 +37,7 @@
 
 <!ENTITY windowTitle.label "Litur">
 <!ENTITY lastPickedColor.label "Seinasti valinn litur">
-<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY lastPickedColor.accessKey "l">
 <!ENTITY setColor1.label "Smelltu á lit eða">
 <!ENTITY setColor2.label "sláðu inn HTML litakóða">
 <!ENTITY setColor2.accessKey "H">

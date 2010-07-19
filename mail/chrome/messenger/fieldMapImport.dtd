@@ -42,9 +42,9 @@
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Fyrri">
 <!ENTITY fieldMapImport.previous.accesskey "F">
-<!ENTITY fieldMapImport.text "Notaðu Færa upp og Færa niður til að láta nafnabókasvæðin vinstra megin passa við innfluttu gögnin hægra megin. Afhakaðu þau atriði sem þú vilt ekki flytja inn.">
+<!ENTITY fieldMapImport.text "Notaðu Færa upp og Færa niður til að láta nafnaskrásvæðin vinstra megin passa við innfluttu gögnin hægra megin. Afhakaðu þau atriði sem þú vilt ekki flytja inn.">
 <!ENTITY fieldMapImport.up.label "Færa upp">
-<!ENTITY fieldMapImport.up.accesskey "U">
+<!ENTITY fieldMapImport.up.accesskey "u">
 <!ENTITY fieldMapImport.down.label "Færa niður">
 <!ENTITY fieldMapImport.down.accesskey "n">
 <!ENTITY fieldMapImport.fieldListTitle "Svæði nafnaskrár">

@@ -40,7 +40,7 @@
 <!ENTITY wordEditField.label "Nýtt orð:">
 <!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "Bæta við">
-<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.accessKey "a">
 <!ENTITY DictionaryList.label "Orð í orðabók:">
 <!ENTITY DictionaryList.accessKey "O">
 <!ENTITY ReplaceButton.label "Skipta út">

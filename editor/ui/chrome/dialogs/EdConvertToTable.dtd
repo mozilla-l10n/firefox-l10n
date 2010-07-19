@@ -39,10 +39,10 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Breyta í töflu">
 <!ENTITY instructions1.label "Composer býr til nýja töflu fyrir hverja málsgrein fyrir núverandi val.">
-<!ENTITY instructions2.label "Veldu staf sem er notaður í að aðskilja val í dálka:">
+<!ENTITY instructions2.label "Veldu staf sem er notaður í að aðgreina val í dálka:">
 <!ENTITY commaRadio.label "Komma">
 <!ENTITY spaceRadio.label "Bil">
 <!ENTITY otherRadio.label "Annar stafur:">
-<!ENTITY deleteCharCheck.label "Eyða aðskiljara staf">
+<!ENTITY deleteCharCheck.label "Eyða staf fyrir aðgreinir">
 <!ENTITY collapseSpaces.label "Hunsa auka bil">
-<!ENTITY collapseSpaces.tooltip "Breyta samliggjandi bilum í einn aðskiljarastaf">
+<!ENTITY collapseSpaces.tooltip "Breyta samliggjandi bilum í einn aðgreinistaf">

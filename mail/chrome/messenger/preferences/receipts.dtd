@@ -4,14 +4,14 @@
 <!ENTITY receiptArrive.label "Ef kvittun er móttekin:">
 <!ENTITY leaveIt.label "Skilja hana eftir í innhólfi">
 <!ENTITY leaveIt.accesskey "i">
-<!ENTITY moveToSent.label "Færa yfir í mína &quot;Sent&quot; möppu">
+<!ENTITY moveToSent.label "Færa yfir í &quot;Sent&quot;-möppuna mína">
 <!ENTITY moveToSent.accesskey "m">
 <!ENTITY requestMDN.label "Þegar ég móttek beiðni um staðfestingu á lestri:">
 <!ENTITY never.label "Aldrei senda staðfestingu á lestri">
 <!ENTITY never.accesskey "n">
 <!ENTITY returnSome.label "Leyfa staðfestinu á lestri fyrir suman póst">
 <!ENTITY returnSome.accesskey "r">
-<!ENTITY notInToCc.label "Ef ég er ekki í Til eða Afrit póstsins:">
+<!ENTITY notInToCc.label "Ef ég er ekki í 'Til' eða 'Afrit'-reitum póstsins:">
 <!ENTITY notInToCc.accesskey "f">
 <!ENTITY outsideDomain.label "Ef sendandi er fyrir utan mitt lén:">
 <!ENTITY outsideDomain.accesskey "t">

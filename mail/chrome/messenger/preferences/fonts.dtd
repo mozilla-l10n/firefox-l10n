@@ -1,16 +1,16 @@
-<!ENTITY fontsAndEncodingsDialog.title "Leturgerð &amp; Stafatöflur">
+<!ENTITY fontsAndEncodingsDialog.title "Leturgerð og stafatöflur">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
 <!ENTITY language.label "Letur fyrir:">
 <!ENTITY language.accesskey "t">
-<!ENTITY sizes.label "Stærð (punktar)">
-<!ENTITY proportionalSize.accesskey "p">
-<!ENTITY monospaceSize.accesskey "u">
+<!ENTITY size.label "Stærð:">
+<!ENTITY proportionalSize.accesskey "æ">
+<!ENTITY sizeMono.accesskey "t">
 <!ENTITY proportional.label "Hlutfallslegt:">
 <!ENTITY proportional.accesskey "H">
 <!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "s">
+<!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Jafnstórt:">
@@ -22,7 +22,7 @@
 <!ENTITY font.langGroup.simpl-chinese "Einfölduð kínverska">
 <!ENTITY font.langGroup.trad-chinese-hk "Hefðbundin kínverska (Hong Kong)">
 <!ENTITY font.langGroup.korean "Kóreska">
-<!ENTITY font.langGroup.cyrillic "Kýrílskt">
+<!ENTITY font.langGroup.cyrillic "Kýrillískt">
 <!ENTITY font.langGroup.baltic "Baltneskt">
 <!ENTITY font.langGroup.el "Gríska">
 <!ENTITY font.langGroup.turkish "Tyrkneska">
@@ -49,12 +49,16 @@
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!-- fonts in message -->
+<!ENTITY fontControl.label "Stjórna leturgerð">
+<!ENTITY useFixedWidthForPlainText.label "Nota leturgerð með fasta breidd fyrir venjuleg textaskilaboð">
+<!ENTITY fixedWidth.accesskey "x">
 <!ENTITY useDocumentFonts.label "Leyfa póstum að nota aðrar leturgerðir">
 <!ENTITY useDocumentFonts.accesskey "o">
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "Útsendur póstur:">
 <!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle1.label "Stafur">
+<!ENTITY languagesTitle1.label "Stafasett">
 <!ENTITY composingDescription.label "Breyta sjálfgefnu stafasetti fyrir sendan og móttekin póst">
 <!ENTITY viewDefaultCharsetList.label "Innsendur póstur:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">

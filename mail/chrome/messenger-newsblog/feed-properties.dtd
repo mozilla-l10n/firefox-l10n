@@ -4,7 +4,7 @@
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY feedLocation.label "Straumslóð: ">
 <!ENTITY feedLocation.accesskey "S">
-<!ENTITY choosethisfolder.label "veldu þessa möppu">
+<!ENTITY choosethisfolder.label "velja þessa möppu">
 <!ENTITY quickMode.label "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
 <!ENTITY quickMode.accesskey "h">
 <!ENTITY copyLinkCmd.label "Afrita tengil">

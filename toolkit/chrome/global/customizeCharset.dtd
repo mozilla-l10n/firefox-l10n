@@ -40,11 +40,11 @@
 <!ENTITY title.label "Sérsníða stafatöflu">
 <!ENTITY current.label "Virkar stafatöflur:">
 <!ENTITY remove.label "Fjarlægja">
-<!ENTITY remove.accessKey "R">
+<!ENTITY remove.accessKey "r">
 <!ENTITY additional.label "Tiltækar stafatöflur:">
 <!ENTITY add.label "Bæta við">
 <!ENTITY add.accessKey "B">
 <!ENTITY moveUp.label "Færa upp">
-<!ENTITY moveUp.accessKey "U">
+<!ENTITY moveUp.accessKey "u">
 <!ENTITY moveDown.label "Færa niður">
 <!ENTITY moveDown.accessKey "n">

@@ -38,7 +38,7 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Tölvupóstur">
 <!ENTITY PrimaryEmail.accesskey "T">
-<!ENTITY Company.label "Fyrirtæki">
+<!ENTITY Company.label "Fyrirtæki/Stofnun">
 <!ENTITY Company.accesskey "F">
 <!ENTITY _PhoneticName.label "Hljóðrétt nafn">
 <!ENTITY _PhoneticName.accesskey "H">
@@ -51,9 +51,9 @@
 <!ENTITY JobTitle.label "Titill">
 <!ENTITY JobTitle.accesskey "T">
 <!ENTITY CellularNumber.label "Farsími">
-<!ENTITY CellularNumber.accesskey "F">
+<!ENTITY CellularNumber.accesskey "m">
 <!ENTITY PagerNumber.label "Símboði">
-<!ENTITY PagerNumber.accesskey "m">
+<!ENTITY PagerNumber.accesskey "ð">
 <!ENTITY FaxNumber.label "Fax">
 <!ENTITY FaxNumber.accesskey "F">
 <!ENTITY HomePhone.label "Heimasími">

@@ -1,5 +1,5 @@
-<!ENTITY newWindowsAsTabs.label "Opna í staðinn nýja glugga í nýjum flipa">
-<!ENTITY newWindowsAsTabs.accesskey "t">
+<!ENTITY newWindowsAsTabs.label "Opna nýja glugga í nýjum flipa">
+<!ENTITY newWindowsAsTabs.accesskey "f">
 <!ENTITY warnCloseMultipleTabs.label "Vara við þegar ég loka mörgum flipum">
 <!ENTITY warnCloseMultipleTabs.accesskey "m">
 <!ENTITY warnOpenManyTabs.label "Vara við ef opnun á mörgum flipum gæti hægt á &brandShortName;">

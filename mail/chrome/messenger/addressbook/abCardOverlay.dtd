@@ -55,17 +55,17 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id "PhoneticLastName">
 <!ENTITY NameField1.label "Fornafn:">
-<!ENTITY NameField1.accesskey "F">
+<!ENTITY NameField1.accesskey "o">
 <!ENTITY NameField2.label "Eftirnafn:">
 <!ENTITY NameField2.accesskey "E">
 <!ENTITY PhoneticField1.label "Heyrist:">
 <!ENTITY PhoneticField2.label "Heyrist:">
 <!ENTITY DisplayName.label "Birtingarnafn:">
-<!ENTITY DisplayName.accesskey "B">
+<!ENTITY DisplayName.accesskey "g">
 <!ENTITY NickName.label "Gælunafn:">
-<!ENTITY NickName.accesskey "N">
+<!ENTITY NickName.accesskey "æ">
 <!ENTITY PrimaryEmail.label "Tölvupóstfang:">
-<!ENTITY PrimaryEmail.accesskey "T">
+<!ENTITY PrimaryEmail.accesskey "ö">
 <!ENTITY SecondEmail.label "Auka tölvupóstfang:">
 <!ENTITY SecondEmail.accesskey "u">
 <!ENTITY PreferMailFormat.label "Kýs að taka á móti pósti með sniði:">
@@ -75,32 +75,32 @@
 <!ENTITY Unknown.label "Ekki vitað">
 <!ENTITY ScreenName.label "Skjánafn:">
 <!ENTITY ScreenName.accesskey "S">
-<!ENTITY allowRemoteContent.label "Leyfa fjarlægar myndir í HTML pósti.">
-<!ENTITY allowRemoteContent.accesskey "g">
-<!ENTITY allowRemoteContent.tooltip "Í HTML pósti er hægt að
-setja inn myndir frá fjarlægum svæðum á netinu. Ef þú opnar þannig póst mun opnast
-tenging á þetta fjarlæga svæði. Hægt er að nota þetta til að fylgjast með hvort
-pósturinn sé lesinn. Ef þú hakar við þennan kassa þá munu svona tengingar í fjarlægar
-myndir verða leyfilegar í HTML pósti fyrir þennan tengilið.">
+<!ENTITY allowRemoteContent1.label "Leyfa fjartengt efni.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "Í HTML pósti er hægt að setja inn efni
+sem er tengt við fjarlægjan netþjón. Ef þú opnar svoleiðis póst mun hann opna
+tengingu á fjarlægjan netþjón. Þetta er hugsanlega hægt að nota til að fylgjast með
+hvort pósturinn sé lesinn. Ef þú hakar við þetta leyfirðu svoleiðis efni
+í HTML pósti frá þessum tengilið.">
 <!ENTITY WorkPhone.label "Vinnusími:">
-<!ENTITY WorkPhone.accesskey "V">
+<!ENTITY WorkPhone.accesskey "n">
 <!ENTITY HomePhone.label "Heimasími:">
-<!ENTITY HomePhone.accesskey "H">
+<!ENTITY HomePhone.accesskey "i">
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Símboði:">
-<!ENTITY PagerNumber.accesskey "m">
+<!ENTITY PagerNumber.accesskey "ð">
 <!ENTITY CellularNumber.label "Farsími:">
 <!ENTITY CellularNumber.accesskey "F">
 <!ENTITY Home.tab "Heima">
 <!ENTITY Home.accesskey "H">
 <!ENTITY HomeAddress.label "Heimilisfang:">
-<!ENTITY HomeAddress.accesskey "H">
+<!ENTITY HomeAddress.accesskey "i">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "Borg:">
-<!ENTITY HomeCity.accesskey "B">
-<!ENTITY HomeState.label "Fylki:">
+<!ENTITY HomeCity.label "Borg/Sveitarfélag:">
+<!ENTITY HomeCity.accesskey "o">
+<!ENTITY HomeState.label "Hérað/Fylki:">
 <!ENTITY HomeState.accesskey "F">
 <!ENTITY HomeZipCode.label "Póstnúmer:">
 <!ENTITY HomeZipCode.accesskey "P">
@@ -109,7 +109,7 @@ myndir verða leyfilegar í HTML pósti fyrir þennan tengilið.">
 <!ENTITY HomeWebPage.label "Vefsíða:">
 <!ENTITY HomeWebPage.accesskey "e">
 <!ENTITY Birthday.label "Afmælisdagur:">
-<!ENTITY Birthday.accesskey "A">
+<!ENTITY Birthday.accesskey "æ">
 <!ENTITY In.label "">
 <!ENTITY Year.emptytext "Ár">
 <!ENTITY Or.value "eða">
@@ -121,15 +121,15 @@ myndir verða leyfilegar í HTML pósti fyrir þennan tengilið.">
 <!ENTITY JobTitle.accesskey "i">
 <!ENTITY Department.label "Deild:">
 <!ENTITY Department.accesskey "D">
-<!ENTITY Company.label "Fyrirtæki:">
-<!ENTITY Company.accesskey "F">
+<!ENTITY Company.label "Fyrirtæki/Stofnun:">
+<!ENTITY Company.accesskey "n">
 <!ENTITY WorkAddress.label "Heimilisfang:">
-<!ENTITY WorkAddress.accesskey "A">
+<!ENTITY WorkAddress.accesskey "g">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "Borg:">
-<!ENTITY WorkCity.accesskey "B">
-<!ENTITY WorkState.label "Fylki:">
+<!ENTITY WorkCity.label "Borg/Sveitarfélag:">
+<!ENTITY WorkCity.accesskey "o">
+<!ENTITY WorkState.label "Hérað/Fylki:">
 <!ENTITY WorkState.accesskey "F">
 <!ENTITY WorkZipCode.label "Póstnúmer:">
 <!ENTITY WorkZipCode.accesskey "P">
@@ -148,4 +148,19 @@ myndir verða leyfilegar í HTML pósti fyrir þennan tengilið.">
 <!ENTITY Custom4.label "Auka 4:">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Athugasemdir:">
-<!ENTITY Notes.accesskey "A">
+<!ENTITY Notes.accesskey "u">
+<!ENTITY Photo.tab "Mynd">
+<!ENTITY Photo.accesskey "M">
+<!ENTITY PhotoDesc.label "Veldu eina af eftirfarandi:">
+<!ENTITY GenericPhoto.label "Almenn mynd">
+<!ENTITY GenericPhoto.accesskey "l">
+<!ENTITY DefaultPhoto.label "Sjálfgefið">
+<!ENTITY PhotoFile.label "Á þessari tölvu">
+<!ENTITY PhotoFile.accesskey "þ">
+<!ENTITY BrowsePhoto.label "Velja">
+<!ENTITY BrowsePhoto.accesskey "e">
+<!ENTITY PhotoURL.label "Á vefnum">
+<!ENTITY PhotoURL.accesskey "f">
+<!ENTITY PhotoURL.emptytext "Límdu eða sláðu inn vefslóð fyrir mynd">
+<!ENTITY UpdatePhoto.label "Uppfæra">
+<!ENTITY UpdatePhoto.accesskey "U">

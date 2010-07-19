@@ -42,14 +42,14 @@
 <!ENTITY defaultColorsRadio.accessKey "S">
 <!ENTITY defaultColorsRadio.tooltip "Nota litastillingar aðeins frá vafra">
 <!ENTITY customColorsRadio.label "Nota sérsniðna liti:">
-<!ENTITY customColorsRadio.accessKey "N">
+<!ENTITY customColorsRadio.accessKey "o">
 <!ENTITY customColorsRadio.tooltip "Þessar litastillingar hafa forgang yfir stillingar vafra">
 <!ENTITY normalText.label "Venjulegur texti">
-<!ENTITY normalText.accessKey "N">
+<!ENTITY normalText.accessKey "n">
 <!ENTITY linkText.label "Texti tengils">
-<!ENTITY linkText.accessKey "L">
+<!ENTITY linkText.accessKey "l">
 <!ENTITY activeLinkText.label "Virkur texta tengill">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "a">
 <!ENTITY visitedLinkText.label "Heimsóttur texta tengill">
 <!ENTITY visitedLinkText.accessKey "H">
 <!ENTITY background.label "Bakgrunnur:">

@@ -37,14 +37,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY WindowTitle.label "Ítarlegur eiginda ritill">
-<!ENTITY AttName.label "Eigind: ">
+<!ENTITY AttName.label "Eigindi: ">
 <!ENTITY AttValue.label "Gildi: ">
 <!ENTITY PropertyName.label "Eiginleiki: ">
-<!ENTITY currentattributesfor.label "Núverandi eiginleikar fyrir: ">
-<!ENTITY tree.attributeHeader.label "Eiginleiki">
+<!ENTITY currentattributesfor.label "Núverandi eigindi fyrir: ">
+<!ENTITY tree.attributeHeader.label "Eigindi">
 <!ENTITY tree.propertyHeader.label "Eiginleiki">
 <!ENTITY tree.valueHeader.label "Gildi">
-<!ENTITY tabHTML.label "HTML Eigindi">
+<!ENTITY tabHTML.label "HTML eigindi">
 <!ENTITY tabCSS.label "Innfellt snið">
 <!ENTITY tabJSE.label "JavaScript atburðir">
 <!ENTITY editAttribute.label "Smelltu á hlut hér fyrir ofan til að skoða hvaða gildi hann inniheldur">

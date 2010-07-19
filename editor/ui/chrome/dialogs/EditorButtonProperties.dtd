@@ -46,10 +46,10 @@
 <!ENTITY ButtonValue.label "Gildi:">
 <!ENTITY ButtonValue.accesskey "G">
 <!ENTITY tabIndex.label "Dálk tilvísun:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY ButtonDisabled.label "Óvirkt">
 <!ENTITY ButtonDisabled.accesskey "v">
 <!ENTITY AccessKey.label "Aðgangslykill:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "k">
 <!ENTITY RemoveButton.label "Eyða takka">
 <!ENTITY RemoveButton.accesskey "E">

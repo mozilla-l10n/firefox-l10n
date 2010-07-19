@@ -1,6 +1,6 @@
 <!ENTITY window.title "Síureglur">
-<!ENTITY filterName.label "Síunafn:">
-<!ENTITY filterName.accesskey "S">
+<!ENTITY filterName.label "Nafn síu:">
+<!ENTITY filterName.accesskey "s">
 <!ENTITY junk.label "Ruslpóstur">
 <!ENTITY notJunk.label "Ekki ruslpóstur">
 <!ENTITY lowestPriorityCmd.label "Lægst">
@@ -10,9 +10,11 @@
 <!ENTITY highestPriorityCmd.label "Hæst">
 <!ENTITY contextDesc.label "Beita síu þegar:">
 <!ENTITY contextDesc.accesskey "B">
-<!ENTITY contextIncoming.label "Athuga póst">
+<!ENTITY contextIncoming.label "Póstur er sóttur">
 <!ENTITY contextManual.label "Keyrt handvirkt">
-<!ENTITY contextBoth.label "Athuga póst eða keyrt handvirkt">
+<!ENTITY contextBoth.label "Póstur er sóttur eða keyrt handvirkt">
+<!ENTITY contextPostPlugin.label "Póstur er athugaður (eftir flokkun)">
+<!ENTITY contextPostPluginBoth.label "Póstur er athugaður (eftir flokkun) eða keyrt handvirkt">
 <!ENTITY filterActionDesc.label "Framkvæma þessar aðgerðir:">
 <!ENTITY filterActionDesc.accesskey "F">
 <!-- New Style Filter Rule Actions -->

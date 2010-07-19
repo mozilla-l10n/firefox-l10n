@@ -8,7 +8,7 @@
 <!ENTITY wrapCheckbox.label "Flétta">
 <!ENTITY wrapCheckbox.accesskey "F">
 <!ENTITY findButton.label "Leita aftur">
-<!ENTITY findButton.accesskey "F">
+<!ENTITY findButton.accesskey "f">
 <!ENTITY cancelButton.label "Hætta við">
 <!ENTITY closeButton.label "Loka">
 <!ENTITY up.label "Upp">

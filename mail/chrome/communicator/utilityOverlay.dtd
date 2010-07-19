@@ -4,16 +4,16 @@
 
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
-<!ENTITY newMenu.label "Nýtt">
+<!ENTITY newMenu.label "Nýr">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "B">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Afturkalla">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "f">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Endurtaka">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "E">
+<!ENTITY redoCmd.accesskey "r">
 <!ENTITY cutCmd.label "Klippa">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "K">
@@ -32,14 +32,13 @@
 <!ENTITY preferencesCmd.accesskey "V">
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
-<!ENTITY viewMenu.label "Skoða
-">
+<!ENTITY viewMenu.label "Skoða">
 <!ENTITY viewMenu.accesskey "k">
-<!ENTITY viewToolbarsMenu.label "Verkfærarein">
+<!ENTITY viewToolbarsMenu.label "Verkfæraslár">
 <!ENTITY viewToolbarsMenu.accesskey "V">
-<!ENTITY showTaskbarCmd.label "Stöðurein">
-<!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY proxy.label "Staðgengla (Proxy) stillingar…">
+<!ENTITY showTaskbarCmd.label "Stöðuslá">
+<!ENTITY showTaskbarCmd.accesskey "ö">
+<!ENTITY proxy.label "Milliþjóna (Proxy) stillingar…">
 <!ENTITY proxy.accesskey "P">
 <!ENTITY closeCmd.label "Loka">
 <!ENTITY closeCmd.key "W">

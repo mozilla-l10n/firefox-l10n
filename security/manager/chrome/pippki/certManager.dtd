@@ -86,11 +86,9 @@
 <!ENTITY certmgr.deleteusercert.aftername "Ef þú eyðir þessu skilríki muntu ekki geta lesið póstinn sem var dulkóðaður með honum.">
 <!ENTITY certmgr.certname "Nafn skilríkis">
 <!ENTITY certmgr.certserver "Netþjónn">
-<!ENTITY certmgr.typesofoverrides "Undanþágur">
 <!ENTITY certmgr.override_lifetime "Æviskeið">
 <!ENTITY certmgr.tokenname "Öryggistæki">
-<!ENTITY certmgr.purpose "Hlutverk">
-<!ENTITY certmgr.issued "Gefið út fyrir">
+<!ENTITY certmgr.issued "Útgáfudagsetning">
 <!ENTITY certmgr.expires "Rennur út">
 <!ENTITY certmgr.email "Netfang">
 <!ENTITY certmgr.serial "Raðnúmer">
@@ -98,8 +96,8 @@
 <!ENTITY certmgr.close.accesskey "L">
 <!ENTITY certmgr.view2.label "Skoða…">
 <!ENTITY certmgr.view2.accesskey "S">
-<!ENTITY certmgr.edit2.label "Breyta…">
-<!ENTITY certmgr.edit2.accesskey "E">
+<!ENTITY certmgr.edit3.label "Breyta trausti…">
+<!ENTITY certmgr.edit3.accesskey "e">
 <!ENTITY certmgr.editca.label "Breyta CA traust stillingum">
 <!ENTITY certmgr.editca.accesskey "r">
 <!ENTITY certmgr.add.label "Bæta við">
@@ -108,6 +106,8 @@
 <!ENTITY certmgr.export.accesskey "F">
 <!ENTITY certmgr.delete2.label "Eyða…">
 <!ENTITY certmgr.delete2.accesskey "E">
+<!ENTITY certmgr.delete_builtin.label "Eyða eða vantreysta…">
+<!ENTITY certmgr.delete_builtin.accesskey "E">
 <!ENTITY certmgr.backup2.label "Afrita…">
 <!ENTITY certmgr.backup2.accesskey "A">
 <!ENTITY certmgr.backupall2.label "Afrita allt…">
@@ -117,7 +117,7 @@
 <!ENTITY certmgr.details.label "Svæði skilríkis">
 <!ENTITY certmgr.details.accesskey "S">
 <!ENTITY certmgr.fields.label "Gildi svæðis">
-<!ENTITY certmgr.fields.accesskey "V">
+<!ENTITY certmgr.fields.accesskey "v">
 <!ENTITY certmgr.hierarchy.label "Stigskipting skilríkja">
 <!ENTITY certmgr.hierarchy.accesskey "S">
 <!ENTITY certmgr.addException.label "Bæta við undantekningu…">

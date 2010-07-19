@@ -1,11 +1,11 @@
 <!ENTITY find.label "Leita:">
 <!ENTITY find.accesskey "L">
 <!ENTITY expand.label "Þenja út">
-<!ENTITY expand.accesskey "E">
+<!ENTITY expand.accesskey "e">
 <!ENTITY collapse.label "Fella saman">
 <!ENTITY collapse.accesskey "F">
 <!ENTITY byDate.label "Eftir dagsetningu">
-<!ENTITY byDate.accesskey "D">
+<!ENTITY byDate.accesskey "d">
 <!ENTITY bySite.label "Eftir vefsvæði">
 <!ENTITY bySite.accesskey "v">
 <!ENTITY view.label "Skoða">
@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "f">
 <!ENTITY openInNewWindow.label "Opna í nýjum glugga">
 <!ENTITY openInNewWindow.accesskey "g">
-<!ENTITY bookmarkLink.label "Setja tengil sem bókamerki…">
-<!ENTITY bookmarkLink.accesskey "M">
 <!ENTITY copyLink.label "Afrita tengil">
 <!ENTITY copyLink.accesskey "A">

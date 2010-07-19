@@ -3,10 +3,11 @@
 <!ENTITY cookiename.label "Heiti smáköku">
 <!ENTITY cookiedomain.label "Vefsvæði">
  
+<!ENTITY button.removecookies.label "Fjarlægja smákökur">
 <!ENTITY button.removecookie.label "Fjarlægja smáköku">
-<!ENTITY button.removecookie.accesskey "R">
+<!ENTITY button.removecookie.accesskey "r">
 <!ENTITY button.removeallcookies.label "Fjarlægja allar smákökur">
-<!ENTITY button.removeallcookies.accesskey "F">
+<!ENTITY button.removeallcookies.accesskey "a">
 <!ENTITY props.name.label "Nafn:">
 <!ENTITY props.value.label "Innihald:">
 <!ENTITY props.domain.label "Vél:">
@@ -18,6 +19,6 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "Leita:">
-<!ENTITY filter.accesskey "L">
+<!ENTITY filter.accesskey "e">
 <!ENTITY button.close.label "Loka">
 <!ENTITY button.close.accesskey "L">

@@ -83,6 +83,7 @@
 <!ENTITY permTab "Heimildir">
 <!ENTITY permTab.accesskey "H">
 <!ENTITY permUseDefault "Nota sjálfgefið">
+<!ENTITY permAskAlways "Spyrja alltaf">
 <!ENTITY permAllow "Leyfa">
 <!ENTITY permAllowSession "Leyfa í þessari lotu">
 <!ENTITY permBlock "Loka á">
@@ -90,7 +91,8 @@
 <!ENTITY permImage "Sækja myndir">
 <!ENTITY permPopup "Opna sprettiglugga">
 <!ENTITY permCookie "Setja smákökur">
-<!ENTITY permInstall "Setja upp viðbætur eða þema">
+<!ENTITY permInstall "Setja inn viðbætur eða þema">
+<!ENTITY permGeo "Deila staðsetningu">
 <!ENTITY securityTab "Öryggi">
 <!ENTITY securityTab.accesskey "Ö">
 <!ENTITY securityHeader "Öryggisupplýsingar þessarar síðu">
@@ -98,10 +100,10 @@
 <!ENTITY securityView.accesskey "S">
 <!ENTITY securityView.unknown "Óþekkt">
 <!ENTITY securityView.identity.header "Auðkenni vefsvæðis">
-<!ENTITY securityView.identity.owner "Eigandi: ">
-<!ENTITY securityView.identity.domain "Vefsetur: ">
-<!ENTITY securityView.identity.verifier "Staðfest af: ">
-<!ENTITY securityView.privacy.header "Friðhelgi &amp; Ferill">
+<!ENTITY securityView.identity.owner "Eigandi:">
+<!ENTITY securityView.identity.domain "Vefsetur:">
+<!ENTITY securityView.identity.verifier "Staðfest af:">
+<!ENTITY securityView.privacy.header "Friðhelgi og ferill">
 <!ENTITY securityView.privacy.history "Hef ég skoðað þetta vefsvæði áður?">
 <!ENTITY securityView.privacy.cookies "Geymir þetta vefsvæði upplýsingar (smákökur) á tölvunni minni?">
 <!ENTITY securityView.privacy.viewCookies "Skoða smákökur">

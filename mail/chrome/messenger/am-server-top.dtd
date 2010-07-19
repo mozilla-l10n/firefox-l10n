@@ -4,7 +4,7 @@
 <!ENTITY serverSettings.label "Stillingar netþjóns">
 <!ENTITY serverType.label "Gerð netþjóns:">
 <!ENTITY serverName.label "Nafn netþjóns:">
-<!ENTITY serverName.accesskey "N">
+<!ENTITY serverName.accesskey "þ">
 <!ENTITY userName.label "Notandanafn:">
 <!ENTITY userName.accesskey "N">
 <!ENTITY port.label "Gátt:">
@@ -24,18 +24,18 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ef tiltækt">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Nota öruggt auðkenni">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "Auðkennisaðferð:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Skilja póst eftir á netþjóni">
 <!ENTITY leaveOnServer.accesskey "S">
 <!ENTITY headersOnly.label "Ná aðeins í hausa">
-<!ENTITY headersOnly.accesskey "N">
+<!ENTITY headersOnly.accesskey "ð">
 <!ENTITY deleteByAgeFromServer.label "Í allt að">
 <!ENTITY deleteByAgeFromServer.accesskey "a">
 <!ENTITY daysEnd.label "daga">
 <!ENTITY deleteOnServer2.label "Þangað til ég eyði þeim">
-<!ENTITY deleteOnServer2.accesskey "Þ">
-<!ENTITY downloadOnBiff.label "Niðurhala sjálfvirkt nýjum póstum">
+<!ENTITY deleteOnServer2.accesskey "e">
+<!ENTITY downloadOnBiff.label "Niðurhala sjálfkrafa nýjum póstum">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Notandanafnið þitt">
 <!ENTITY deleteMessagePrefix.label "Þegar ég eyði pósti:">
@@ -46,8 +46,8 @@
 <!ENTITY modelDeleteImmediately.label "Fjarlægja strax">
 <!ENTITY modelDeleteImmediately.accesskey "F">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Hreinsa (&quot;Þurrka út&quot;) Innhólf þegar hætt er">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.label "Hreinsa Innhólf (&quot;Expunge&quot;) þegar hætt er">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Tæma rusl þegar forriti er lokað">
 <!ENTITY emptyTrashOnExit.accesskey "r">
 <!ENTITY loginAtStartup.label "Athuga með nýjan póst í ræsingu">
@@ -71,8 +71,8 @@
 <!ENTITY advancedButton.accesskey "F">
 <!ENTITY serverDefaultCharset.label "Sjálfgefin stafatafla:">
 <!ENTITY localFolderPicker.label "Veldu staðbundna möppu">
-<!ENTITY browseFolder.label "Fletta…">
-<!ENTITY browseFolder.accesskey "F">
+<!ENTITY browseFolder.label "Velja…">
+<!ENTITY browseFolder.accesskey "V">
 <!ENTITY newsrcPicker.label "Veldu newsrc skrá">
-<!ENTITY browseNewsrc.label "Fletta…">
+<!ENTITY browseNewsrc.label "Velja…">
 <!ENTITY browseNewsrc.accesskey "e">

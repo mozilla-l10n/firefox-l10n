@@ -1,7 +1,7 @@
 <!ENTITY window.title "Um ruslpóst">
 <!ENTITY window.width "450">
-<!ENTITY info1a.label "&brandShortName; getur skynjað sjálfvirkt hvort innkominn póstur sé ruslpóstur (einnig þekkt sem spam). Sá póstur sem &brandShortName; heldur að sé ruslpóstur birtast með rusl táknmynd">
+<!ENTITY info1a.label "&brandShortName; getur skynjað sjálfkrafa hvort innkominn póstur sé ruslpóstur (einnig þekkt sem spam). Sá póstur sem &brandShortName; heldur að sé ruslpóstur birtast með rusl táknmynd">
 <!ENTITY info1b.label ".">
 <!ENTITY info2.label "Til að byrja með, þarftu fyrst að þjálfa &brandShortName; til að bera kennsl á ruslpóst með því að nota ruslpóststakkann til að merkja póst sem ruslpóst eða ekki ruslpóst.">
-<!ENTITY info3.label "Um leið og &brandShortName; er farinn að bera kennsl á ruslpóst, geturðu notað ruslpóststillingarnar til að færa sjálfvirkt innkominn ruslpóst í ruslpóst möppuna.">
+<!ENTITY info3.label "Um leið og &brandShortName; er farinn að bera kennsl á ruslpóst, geturðu notað ruslpóstsstillingarnar til að færa sjálfkrafa innkominn ruslpóst í ruslpóst möppuna.">
 <!ENTITY info4.label "Smella á Hjálp til að fá frekari upplýsingar.">

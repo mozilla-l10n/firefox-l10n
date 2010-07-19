@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle "about:rights">
-<!ENTITY rights.intro-header "Um réttindi þín">
+<!ENTITY rights.title "Um þín réttindi">
+<!ENTITY rights.intro-header "Um þín réttindi">
 <!ENTITY rights.intro "&brandFullName; er frjáls og opinn hugbúnaður, búinn til af samfélagi þúsunda allstaðar úr heiminum. Hér eru nokkrir hlutir sem þú ættir að vita:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -24,7 +24,7 @@
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Allar viðeigandi friðhelgisreglur fyrir þessa vöru ættu að vera sýndar hér.">
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "Aukalega býður &brandShortName; upp á þjónustur fyrir vefsvæðisupplýsingar, eins og öryggisupplýsinga þjónustuna; en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100&#37; nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er hægt að finna í ">
+<!ENTITY rights.intro-point4a "Aukalega býður &brandShortName; upp á þjónustur fyrir vefsvæðisupplýsingar, eins og öryggisupplýsinga þjónustuna; en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100&#37; nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er að finna í ">
 <!ENTITY rights.intro-point4b "þjónustuskilmálum">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
@@ -41,7 +41,7 @@
 <!ENTITY rights.webservices-b "Ítarlegt">
 <!ENTITY rights.webservices-c " flipann, og velja svo ">
 <!ENTITY rights.webservices-d "Uppfærslur">
-<!ENTITY rights.webservices-e " flipa, og afhaka við valkostinn &quot;Athuga sjálfvirkt uppfærslur fyrir&quot;.">
+<!ENTITY rights.webservices-e " flipa, og afhaka við valkostinn &quot;Athuga sjálfkrafa uppfærslur fyrir&quot;.">
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Hér ætti að vera yfirlit yfir þær vefþjónustur sem eru innifaldar í vörunni, með leiðbeiningum um hvernig á að gera þær óvirkar, ef það á við.">
 <!-- point 1 text for unbranded builds -->

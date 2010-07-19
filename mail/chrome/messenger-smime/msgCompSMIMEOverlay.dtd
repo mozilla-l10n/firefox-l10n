@@ -1,15 +1,11 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Öryggi">
-<!ENTITY securityMenu.accesskey "Ö">
 <!ENTITY menu_securityEncryptRequire.label "Dulkóða póst">
-<!ENTITY menu_securityEncryptRequire.accesskey "D">
-<!ENTITY menu_securityNoEncryption.label "Ekki dulkóða póst">
-<!ENTITY menu_securityNoEncryption.accesskey "E">
-<!ENTITY menu_securitySign.label "Setja rafræna undirskrift á þennan póst">
-<!ENTITY menu_securitySign.accesskey "S">
+<!ENTITY menu_securityEncryptRequire.accesskey "u">
+<!ENTITY menu_securitySign.label "Setja rafræna undirskrift á póst">
+<!ENTITY menu_securitySign.accesskey "r">
 <!ENTITY menu_securityStatus.label "Skoða öryggisupplýsingar">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.accesskey "i">
 <!ENTITY securityButton.label "Öryggi">
 <!ENTITY securityButton.tooltip "Skoða eða breyta öryggisstillingum">
 <!ENTITY menu_viewSecurityStatus.label "Öryggisupplýsingar pósts">

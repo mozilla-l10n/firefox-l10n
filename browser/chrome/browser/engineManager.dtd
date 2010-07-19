@@ -5,15 +5,15 @@
 <!ENTITY columnLabel.keyword "Stikkorð">
 <!-- Buttons -->
 <!ENTITY up.label "Færa upp">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "u">
 <!ENTITY dn.label "Færa niður">
 <!ENTITY dn.accesskey "n">
 <!ENTITY remove.label "Fjarlægja">
-<!ENTITY remove.accesskey "R">
+<!ENTITY remove.accesskey "r">
 <!ENTITY edit.label "Breyta stikkorði…">
 <!ENTITY edit.accesskey "t">
 <!ENTITY addEngine.label "Finna fleiri leitarvélar…">
-<!ENTITY addEngine.accesskey "A">
+<!ENTITY addEngine.accesskey "a">
 <!ENTITY enableSuggest.label "Sýna leitarábendingar">
 <!ENTITY enableSuggest.accesskey "S">
 <!ENTITY restoreDefaults.label "Endurstilla sjálfgefin gildi">

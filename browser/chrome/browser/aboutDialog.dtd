@@ -8,7 +8,5 @@
 <!ENTITY closeCmdGNOME.label "Loka">
   
 <!ENTITY closeCmdGNOME.accesskey "L">
-<!ENTITY copyrightInfo1 "&#169;1998-2009 Þátttakendur. Allur réttur áskilin. (">
-<!ENTITY licenseLink "about:license">
 <!ENTITY licenseLinkText "Leyfisupplýsingar">
-<!ENTITY copyrightInfo2 ").">
+<!ENTITY licenseLinkSuffix ".">

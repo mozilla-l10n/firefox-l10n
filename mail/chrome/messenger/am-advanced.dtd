@@ -17,4 +17,4 @@
 <!ENTITY serverPort.label "Gátt: ">
 <!ENTITY userName.label "Notandanafn: ">
 <!ENTITY connectionSecurity.label "Öryggi tengingar: ">
-<!ENTITY useSecureAuthentication.label "Öruggt auðkenni: ">
+<!ENTITY authMethod.label "Auðkennisaðferð: ">

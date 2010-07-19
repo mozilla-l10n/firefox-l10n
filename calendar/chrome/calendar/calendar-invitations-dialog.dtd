@@ -45,4 +45,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text "Allan daginn">
 <!ENTITY calendar.invitations.list.location.text "Staðsetning: ">
 <!ENTITY calendar.invitations.list.organizer.text "Fundarstjóri: ">
+<!ENTITY calendar.invitations.list.attendee.text "Þátttakandi: ">
 <!ENTITY calendar.invitations.list.none.text "Engin">

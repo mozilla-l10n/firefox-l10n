@@ -7,38 +7,36 @@
 <!ENTITY italic.label "Skáletrað">
 <!ENTITY boldItalic.label "Feit- og skáletrað">
 <!ENTITY size.label "Stærð:">
-<!ENTITY size.accesskey "s">
+<!ENTITY size.accesskey "S">
 <!ENTITY regularSize.label "Venjuleg">
 <!ENTITY bigger.label "Stærra">
 <!ENTITY smaller.label "Minna">
 <!ENTITY color.label "Litur:">
 <!ENTITY color.accesskey "L">
-<!ENTITY displayWidth.label "Ósniðnir textapóstar">
-<!ENTITY plainText.label "Nota eftirfarandi leturgerð:">
+<!ENTITY displayWidth.label "Ósniðinn textapóstur">
 <!ENTITY displayText.label "Þegar birtur er ósniðinn texti með tilvitnun:">
-<!ENTITY fixedWidth.label "Jafnbreitt letur">
-<!ENTITY fixedWidth.accesskey "J">
-<!ENTITY variableWidth.label "Breytileg stærð á leturgerð">
-<!ENTITY variableWidth.accesskey "B">
 <!ENTITY colors.label "Litir">
 <!ENTITY overrideColors.label "Við birtingu á póstum, nota eftirfarandi liti:">
 <!ENTITY textColor.label "Stilla lit texta:">
-<!ENTITY textColor.accesskey "T">
+<!ENTITY textColor.accesskey "x">
 <!ENTITY backgroundColor.label "Bakgrunnslitur:">
-<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY backgroundColor.accesskey "g">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Birta broskalla sem myndir">
-<!ENTITY convertEmoticons.accesskey "D">
+<!ENTITY convertEmoticons.accesskey "m">
 <!-- labels -->
 <!ENTITY displayTagsText.label "Hægt er að nota flokka til að flokka og forgangsraða póstum.">
 <!ENTITY addTagButton.label "Bæta við">
 <!ENTITY addTagButton.accesskey "B">
 <!ENTITY editTagButton.label "Breyta">
-<!ENTITY editTagButton.accesskey "r">
+<!ENTITY editTagButton.accesskey "e">
 <!ENTITY removeTagButton.label "Eyða">
-<!ENTITY removeTagButton.accesskey "E">
+<!ENTITY removeTagButton.accesskey "y">
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label "Breyta leturgerð og stafasetti sem eru notuð í &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "Leturgerð &amp; Stafatöflur">
-<!ENTITY fontOptions.accesskey "L">
+<!ENTITY fontsAndColors.label "Leturgerðir">
+<!ENTITY defaultFont.label "Sjálfgefin leturgerð:">
+<!ENTITY defaultFont.accesskey "j">
+<!ENTITY defaultSize.label "Stærð:">
+<!ENTITY defaultSize.accesskey "S">
+<!ENTITY fontOptions.accesskey "u">
 <!ENTITY fontOptions.label "Leturgerðir…">

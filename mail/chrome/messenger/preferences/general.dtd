@@ -1,4 +1,4 @@
-<!ENTITY messengerStartPage.label "&brandShortName; Ræsisíða">
+<!ENTITY messengerStartPage.label "&brandShortName; ræsisíða">
 <!ENTITY enableStartPage.label "Þegar &brandShortName; ræsir, sýna ræsisíðu í póstsvæði">
 <!ENTITY enableStartPage.accesskey "Þ">
 <!ENTITY location.label "Staðsetning:">
@@ -7,11 +7,11 @@
 <!ENTITY useDefault.accesskey "E">
 <!ENTITY bounceSystemDockIcon.label "Nota hreyfimynd í tilkynningasvæði">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
-<!ENTITY newMessagesArrive.label "Þegar nýr póstur kemur:">
+<!ENTITY newMessagesArrive.label "Þegar nýr póstur er móttekin:">
 <!ENTITY playSound.label "Spila hljóð">
 <!ENTITY playSound1.accesskey "h">
 <!ENTITY showAnimatedAlert.label "Sýna glugga">
-<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY showAnimatedAlert.accesskey "g">
 <!ENTITY customizeMailAlert.label "Sérsníða…">
 <!ENTITY customizeMailAlert.accesskey "S">
 <!ENTITY play.label "Spila">
@@ -22,10 +22,10 @@
 <!ENTITY systemsound.accesskey "y">
 <!ENTITY customsound.label "Nota hljóðskrá">
 <!ENTITY customsound.accesskey "N">
-<!ENTITY browse.label "Fletta…">
-<!ENTITY browse.accesskey "F">
+<!ENTITY browse.label "Velja…">
+<!ENTITY browse.accesskey "V">
 <!ENTITY addonsMgr.label "Viðbætur">
 <!ENTITY manageAddonsDescWin.label "Breyta stillingum fyrir viðbætur">
 <!ENTITY manageAddonsDescUnix2.label "Breyta stillingum fyrir viðbætur">
 <!ENTITY manageAddons.label "Stjórna viðbótum…">
-<!ENTITY manageAddons.accesskey "M">
+<!ENTITY manageAddons.accesskey "m">

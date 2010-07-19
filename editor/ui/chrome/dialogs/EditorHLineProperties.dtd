@@ -50,9 +50,9 @@
 <!ENTITY centerRadio.label "Miðjað">
 <!ENTITY centerRadio.accessKey "M">
 <!ENTITY rightRadio.label "Hægri">
-<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.accessKey "r">
 <!ENTITY threeDShading.label "3-D skuggar">
-<!ENTITY threeDShading.accessKey "S">
+<!ENTITY threeDShading.accessKey "s">
 <!ENTITY saveSettings.label "Nota sem sjálfgefið">
-<!ENTITY saveSettings.accessKey "S">
+<!ENTITY saveSettings.accessKey "s">
 <!ENTITY saveSettings.tooltip "Vista þessar stillingar og nota þegar settar eru inn láréttar línur">

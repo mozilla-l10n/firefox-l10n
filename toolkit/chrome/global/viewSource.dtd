@@ -12,9 +12,9 @@
 <!ENTITY savePageCmd.label "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey "i">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Síðustillingar…">
+<!ENTITY pageSetupCmd.label "Síðuuppsetning…">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Forskoðun">
+<!ENTITY printPreviewCmd.label "Prentskoðun">
 <!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
@@ -41,7 +41,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY viewMenu.label "Skoða">
 <!ENTITY viewMenu.accesskey "k">
 <!ENTITY reloadCmd.label "Endurnýja">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Línuskipta löngum línum">
  
@@ -55,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReduce.label "Minnka">
 <!ENTITY menu_textReduce.accesskey "M">
 <!ENTITY menu_textReset.label "Venjulegt">
-<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY menu_textReset.accesskey "n">
 <!ENTITY findOnCmd.label "Leita á síðu…">
 <!ENTITY findOnCmd.accesskey "i">
 <!ENTITY findOnCmd.commandkey "f">
@@ -64,8 +64,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY backCmd.label "Til baka">
-<!ENTITY backCmd.accesskey "B">
+<!ENTITY backCmd.accesskey "b">
 <!ENTITY forwardCmd.label "Áfram">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardCmd.accesskey "f">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

@@ -1,10 +1,10 @@
 <!ENTITY pluginWizard.title "Þjónusta til að finna tengiforrit">
 <!ENTITY pluginWizard.firstPage.title "Velkomin í &pluginWizard.title;">
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; er að athuga hvaða tengiforrit eru til…">
-<!ENTITY pluginWizard.availablePluginsPage.title "Þessum tengiforritum er hægt að niðurhala">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Þessi tengiforrit eru til staðar:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Smelltu á Áfram til að setja inn þessi tengiforrit.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Einhver tengiforrit gætu þarfnast meiri upplýsinga frá þér þegar þau eru sett inn.">
+<!ENTITY pluginWizard.availablePluginsPage.title "Hægt er að niðurhala þessum tengiforritum">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Tengiforrit sem eru til staðar:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Smelltu á Áfram til að setja inn tengiforrit.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Tengiforrit gætu þarfnast meiri upplýsinga frá þér þegar þau eru sett inn.">
 <!ENTITY pluginWizard.licensePage.title "Leyfisskilmálar tengiforrits">
 <!ENTITY pluginWizard.licensePage.accept.label "Ég samþykki.">
 <!ENTITY pluginWizard.licensePage.deny.label "Ég samþykki ekki (tengiforrit verður ekki sett inn).">
@@ -16,5 +16,18 @@
 
   
 <!ENTITY missingPlugin.label "Smelltu hér til að niðurhala tengiforriti.">
-<!ENTITY disabledPlugin.label "Tengiforritið fyrir þessa tegund innihald hefur verið gert óvirkt. Smelltu hér til að stilla tengiforrit.">
+<!ENTITY disabledPlugin.label "Tengiforritið fyrir þessa tegund hefur verið gert óvirkt. Smelltu hér til að stilla tengiforrit.">
 <!ENTITY blockedPlugin.label "Þetta tengiforrit hefur verið stöðvað þér til verndar.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre "">
+<!ENTITY reloadPlugin.middle "Endurnýjaðu síðuna">
+<!ENTITY reloadPlugin.post " til að prófa aftur.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please "Senda hrunskýrslu">
+<!ENTITY report.submitting "Sendi skýrslu…">
+<!ENTITY report.submitted "Hrunskýrsla send.">
+<!ENTITY report.disabled "Hrunskýrslugjöf óvirk.">
+<!ENTITY report.failed "Sending mistókst.">
+<!ENTITY report.unavailable "Engin skýrsla tiltæk.">

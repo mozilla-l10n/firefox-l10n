@@ -1,4 +1,4 @@
 <!ENTITY appManager.title "Forritsupplýsingar">
-<!ENTITY appManager.style "width: 30em; min-height: 20em;">
+<!ENTITY appManager.style "width: 32em; min-height: 20em;">
 <!ENTITY remove.label "Fjarlægja">
-<!ENTITY remove.accesskey "R">
+<!ENTITY remove.accesskey "r">

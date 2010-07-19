@@ -60,7 +60,7 @@
 <!ENTITY copyCmd.commandkey "C">
  
 <!ENTITY sortFirst.label "Fyrsta > Seinasta röðun">
-<!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label "Seinasta > Fyrsta röðun">
 <!ENTITY sortLast.accesskey "s">
 <!ENTITY closeCmd.commandkey "w">

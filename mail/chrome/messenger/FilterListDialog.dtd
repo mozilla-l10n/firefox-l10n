@@ -1,6 +1,6 @@
 <!ENTITY window.title "Póstsíur">
-<!ENTITY nameColumn.label "Síunafn">
-<!ENTITY activeColumn.label "Virkt">
+<!ENTITY nameColumn.label "Nafn síu">
+<!ENTITY activeColumn.label "Virk">
 <!ENTITY newButton.label "Ný…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Breyta…">
@@ -8,16 +8,16 @@
 <!ENTITY deleteButton.label "Eyða">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY reorderUpButton.label "Færa upp">
-<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Færa niður">
 <!ENTITY reorderDownButton.accesskey "i">
-<!ENTITY filterHeader.label "Virkar síur eru keyrðar sjálfvirkt í þeirri röð sem er hér fyrir neðan.">
+<!ENTITY filterHeader.label "Virkar síur eru keyrðar sjálfkrafa í þeirri röð sem er hér fyrir neðan.">
 <!ENTITY filtersForPrefix.label "Sía fyrir:">
-<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY filtersForPrefix.accesskey "f">
 <!ENTITY viewLogButton.label "Síu atburðaskrá">
 <!ENTITY viewLogButton.accesskey "a">
 <!ENTITY runFilters.label "Keyra núna">
-<!ENTITY runFilters.accesskey "R">
+<!ENTITY runFilters.accesskey "r">
 <!ENTITY stopFilters.label "Stöðva">
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Keyra síu(r) á:">

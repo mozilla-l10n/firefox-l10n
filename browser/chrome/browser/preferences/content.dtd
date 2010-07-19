@@ -3,7 +3,7 @@
 <!ENTITY popupExceptions.label "Undanþágur…">
 <!ENTITY popupExceptions.accesskey "U">
 <!ENTITY loadImages.label "Hlaða sjálfkrafa inn myndum">
-<!ENTITY loadImages.accesskey "I">
+<!ENTITY loadImages.accesskey "i">
 <!ENTITY exceptions.label "Undanþágur…">
 <!ENTITY exceptions.accesskey "n">
 <!ENTITY enableJavaScript.label "Virkja JavaScript">
@@ -12,13 +12,13 @@
 <!ENTITY advancedJS.accesskey "F">
 <!ENTITY enableJava.label "Virkja Java">
 <!ENTITY enableJava.accesskey "a">
-<!ENTITY fontsAndColors.label "Letur &amp; Litir">
+<!ENTITY fontsAndColors.label "Letur og litir">
 <!ENTITY defaultFont.label "Leturgerð:">
 <!ENTITY defaultFont.accesskey "e">
 <!ENTITY defaultSize.label "Stærð:">
-<!ENTITY defaultSize.accesskey "t">
+<!ENTITY defaultSize.accesskey "S">
 <!ENTITY advancedFonts.label "Frekari stillingar…">
-<!ENTITY advancedFonts.accesskey "t">
+<!ENTITY advancedFonts.accesskey "a">
 <!ENTITY colors.label "Litir…">
 <!ENTITY colors.accesskey "L">
 <!ENTITY languages.label "Tungumál">

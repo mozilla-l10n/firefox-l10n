@@ -45,4 +45,4 @@
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Halló heimur!">
 <!ENTITY insertButton.label "Setja inn">
-<!ENTITY insertButton.accesskey "I">
+<!ENTITY insertButton.accesskey "i">

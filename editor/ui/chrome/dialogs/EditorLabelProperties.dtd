@@ -38,10 +38,10 @@
 <!ENTITY Settings.label "Stillingar">
 <!ENTITY Settings.accesskey "S">
 <!ENTITY EditLabelText.label "Breyta texta:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "Fyrir hlut:">
 <!ENTITY LabelFor.accesskey "F">
 <!ENTITY AccessKey.label "Aðgangslykill:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "k">
 <!ENTITY RemoveLabel.label "Fjarlægja Merki">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.accesskey "r">

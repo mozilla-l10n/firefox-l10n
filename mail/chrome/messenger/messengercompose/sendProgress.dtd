@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Sendi bréf">
+<!ENTITY sendWindow.title "Sendi póst">
  
 <!ENTITY status.label "Staða:">
 <!ENTITY progress.label "Framvinda:">

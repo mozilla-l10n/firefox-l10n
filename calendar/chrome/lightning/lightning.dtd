@@ -49,8 +49,11 @@
 <!ENTITY lightning.taskLabel "Lightning">
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label "Atburður…">
+<!ENTITY lightning.menupopup.new.event.accesskey "A">
 <!ENTITY lightning.menupopup.new.task.label "Verk…">
+<!ENTITY lightning.menupopup.new.task.accesskey "V">
 <!ENTITY lightning.menupopup.new.calendar.label "Dagatal…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "D">
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label "Opna">
 <!ENTITY lightning.menupopup.open.accesskey "O">
@@ -58,11 +61,14 @@
 <!ENTITY lightning.menupopup.open.message.accesskey "p">
 <!ENTITY lightning.menupopup.open.calendar.label "Dagatalsskrá…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey "D">
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label "Dagatal">
-<!ENTITY lightning.calendar.accesskey "D">
-<!ENTITY lightning.tasks.label "Verk">
-<!ENTITY lightning.tasks.accesskey "V">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label "Dagatal">
+<!ENTITY lightning.menu.view.calendar.accesskey "D">
+<!ENTITY lightning.menu.view.tasks.label "Verk">
+<!ENTITY lightning.menu.view.tasks.accesskey "k">
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label "Atburðir og verk">
+<!ENTITY lightning.menu.eventtask.accesskey "A">
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label "Póstur">
 <!ENTITY lightning.toolbar.mail.accesskey "P">
@@ -84,22 +90,24 @@
 <!ENTITY lightning.toolbar.month.accesskey "M">
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Sýna atburði í dag flipa">
-<!ENTITY lightning.calendarproperties.showtasks.label "Show verk í dag flipa og verk ham">
+<!ENTITY lightning.calendarproperties.showtasks.label "Sýna verk í dag flipa og verk ham">
 <!ENTITY lightning.calendarproperties.email.label "Tölvupóstfang:">
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "Þessi tölvupóstur inniheldur fundarboð.">
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Búa til nýtt dagatal">
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Sýna stuttan mánuð">
-<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Sýna stuttan dag">
 <!ENTITY todaypane.showMiniday.accesskey "d">
 <!ENTITY todaypane.showNone.label "Sýna ekkert">
-<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showNone.accesskey "n">
 <!ENTITY todaypane.showTodayPane.label "Sýn dagsins í dag">
 <!ENTITY todaypane.showTodayPane.accesskey "d">
 <!ENTITY todaypane.statusButton.label "Dagurinn í dag">

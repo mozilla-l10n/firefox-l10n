@@ -3,10 +3,10 @@
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY backButton.label "Til baka">
-<!ENTITY backButton.accesskey "B">
+<!ENTITY backButton.accesskey "b">
 <!ENTITY backButton.tooltip "Til baka um eina síðu">
 <!ENTITY forwardButton.label "Áfram">
-<!ENTITY forwardButton.accesskey "F">
+<!ENTITY forwardButton.accesskey "f">
 <!ENTITY forwardButton.tooltip "Áfram um eina síðu">
 <!ENTITY copyCmd.label "Afrita">
 <!ENTITY copyCmd.accesskey "A">
@@ -39,8 +39,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY helpSearch.commandkey "k">
 <!ENTITY zLevel.label "Alltaf efst">
-<!ENTITY zLevel.accesskey "T">
-<!ENTITY fullZoomReduceBtn.label "Þysja frá">
-<!ENTITY fullZoomReduceBtn.accesskey "y">
-<!ENTITY fullZoomEnlargeBtn.label "Þysja að">
-<!ENTITY fullZoomEnlargeBtn.accesskey "a">
+<!ENTITY zLevel.accesskey "t">
+<!ENTITY fullZoomReduceBtn.label "Stækka">
+<!ENTITY fullZoomReduceBtn.accesskey "S">
+<!ENTITY fullZoomEnlargeBtn.label "Minnka">
+<!ENTITY fullZoomEnlargeBtn.accesskey "M">

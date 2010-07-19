@@ -1,10 +1,15 @@
 <!ENTITY aboutDialog.title "Um &brandFullName;">
-<!ENTITY credits.label "Þakkir">
-<!ENTITY credits.accesskey "a">
-<!ENTITY aboutLink.label "&lt; Um &brandFullName;">
-<!ENTITY aboutLink.accesskey "U">
+<!ENTITY aboutButton.label "&lt; Til baka">
+<!ENTITY aboutButton.accesskey "T">
 <!ENTITY aboutVersion "útgáfa">
-<!ENTITY copyrightText "&#169;1998-2009 Þátttakendur. Allur réttur áskilinn. Mozilla Thunderbird og 
-                                 Thunderbird nafnmerkið eru vörumerki Mozilla stofnunarinnar.  Allur réttur 
-                                 áskilinn.">
+<!ENTITY aboutMenu.label "Um">
+<!ENTITY aboutMenu.accesskey "U">
+<!ENTITY aboutCredits.label "Þakkir">
+<!ENTITY aboutCredits.accesskey "Þ">
+<!ENTITY aboutRights.label "Þín réttindi">
+<!ENTITY aboutRights.accesskey "n">
+<!ENTITY aboutContributors.label "Þátttakendur">
+<!ENTITY aboutContributors.accesskey "t">
+<!ENTITY aboutLicense.label "Leyfi">
+<!ENTITY aboutLicense.accesskey "L">
 <!ENTITY cmdCloseMac.commandKey "w">

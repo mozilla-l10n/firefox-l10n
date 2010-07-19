@@ -37,7 +37,7 @@
 <!ENTITY windowTitle.label "Eiginleikar svæðis á formi">
 <!ENTITY windowTitleImage.label "Eiginleikar myndar á formi">
 <!ENTITY InputType.label "Svæðategund">
-<!ENTITY InputType.accesskey "T">
+<!ENTITY InputType.accesskey "t">
 <!ENTITY text.value "Texti">
 <!ENTITY password.value "Lykilorð">
 <!ENTITY checkbox.value "Gátreitur">
@@ -54,7 +54,7 @@
 <!ENTITY GroupName.label "Nafn hóps:">
 <!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Gildi svæðis:">
-<!ENTITY InputValue.accesskey "V">
+<!ENTITY InputValue.accesskey "v">
 <!ENTITY InitialValue.label "Upphafsgildi:">
 <!ENTITY InitialValue.accesskey "U">
 <!ENTITY InputChecked.label "Upphaflega hakað">
@@ -62,18 +62,18 @@
 <!ENTITY InputSelected.label "Upphaflega valið">
 <!ENTITY InputSelected.accesskey "v">
 <!ENTITY InputReadOnly.label "Skrifvarin">
-<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputReadOnly.accesskey "r">
 <!ENTITY InputDisabled.label "Óvirkt">
 <!ENTITY InputDisabled.accesskey "v">
 <!ENTITY tabIndex.label "Dálk tilvísun:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY TextSize.label "Stærð svæðis:">
 <!ENTITY TextSize.accesskey "S">
 <!ENTITY TextLength.label "Hámarksstærð:">
 <!ENTITY TextLength.accesskey "H">
 <!ENTITY AccessKey.label "Aðgangslykill:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "k">
 <!ENTITY Accept.label "Leyfilegar tegundir:">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY Accept.accesskey "a">
 <!ENTITY ImageProperties.label "Mynd eiginleikar…">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.accesskey "e">

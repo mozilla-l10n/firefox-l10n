@@ -13,7 +13,7 @@
 <!ENTITY spellAddToDictionary.label "Bæta við í orðasafn">
 <!ENTITY spellAddToDictionary.accesskey "t">
 <!ENTITY spellCheckEnable.label "Yfirfara stafsetningu">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(Engar athugasemdir við stafsetningu)">
 <!ENTITY spellDictionaries.label "Tungumál">
 <!ENTITY spellDictionaries.accesskey "T">

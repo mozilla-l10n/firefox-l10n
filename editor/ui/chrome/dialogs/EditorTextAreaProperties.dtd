@@ -47,11 +47,11 @@
 <!ENTITY TextAreaDisabled.label "Óvirkt">
 <!ENTITY TextAreaDisabled.accessKey "v">
 <!ENTITY TextAreaTabIndex.label "Dálk tilvísun:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.accessKey "i">
 <!ENTITY TextAreaAccessKey.label "Aðgangslykill:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
+<!ENTITY TextAreaAccessKey.accessKey "k">
 <!ENTITY InitialText.label "Upphaflegur texti:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY InitialText.accessKey "t">
 <!ENTITY TextAreaWrap.label "Textaskiptingarhamur:">
 <!ENTITY TextAreaWrap.accessKey "T">
 <!ENTITY WrapDefault.value "Sjálfgefið">

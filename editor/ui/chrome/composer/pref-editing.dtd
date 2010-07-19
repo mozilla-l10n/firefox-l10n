@@ -5,13 +5,13 @@
 <!ENTITY defaultColors.label "Sjálfgefnir litir lesara (Ekki breyta litum í síðu)">
 <!ENTITY defaultColors.accesskey "S">
 <!ENTITY customColors.label "Nota sérsniðna liti:">
-<!ENTITY customColors.accesskey "N">
+<!ENTITY customColors.accesskey "o">
 <!ENTITY normalText.label "Venjulegur texti">
-<!ENTITY normalText.accesskey "N">
+<!ENTITY normalText.accesskey "n">
 <!ENTITY linkText.label "Texti Tengils">
-<!ENTITY linkText.accesskey "L">
+<!ENTITY linkText.accesskey "l">
 <!ENTITY activeLinkText.label "Virkur texta tengill">
-<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY activeLinkText.accesskey "a">
 <!ENTITY visitedLinkText.label "Heimsóttur texta tengill">
 <!ENTITY visitedLinkText.accesskey "H">
 <!ENTITY background.label "Bakgrunnur:">

@@ -1,8 +1,8 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Stillingar notanda">
+<!ENTITY accountTitle.label "Stillingar reiknings">
 <!ENTITY accountName.label "Heiti reiknings:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "H">
 <!ENTITY identityTitle.label "Sjálfgefið auðkenni">
 <!ENTITY identityDesc.label "Hver reikningur er með auðkenni, sem eru þær upplýsingar sem aðrir sjá þegar þeir lesa póstinn frá þér.">
 <!ENTITY name.label "Nafnið þitt:">
@@ -11,20 +11,24 @@
 <!ENTITY email.accesskey "T">
 <!ENTITY replyTo.label "Svar-tölvupóstfang:">
 <!ENTITY replyTo.accesskey "S">
-<!ENTITY organization.label "Fyrirtæki:">
+<!ENTITY organization.label "Fyrirtæki/Stofnun:">
 <!ENTITY organization.accesskey "F">
-<!ENTITY signature.label "Bæta við undirskrift:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "Texti undirritunar:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Nota HTML (t.d., &lt;b&gt;feitletrað&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Setja inn undirritun sem viðhengi (texti, HTML, eða mynd):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Breyta…">
 <!ENTITY choose.label "Velja…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Breyta nafnspjaldi…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Bæta mínu vCard við póst">
+<!ENTITY attachVCard.label "Bæta mínu vCard nafnspjaldi við póst">
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY manageIdentities.label "Stjórna auðkenni…">
-<!ENTITY manageIdentities.accesskey "S">
+<!ENTITY manageIdentities.accesskey "ð">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Póstþjónn út (SMTP):">
 <!ENTITY smtpName.accesskey "P">

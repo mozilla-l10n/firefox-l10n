@@ -39,9 +39,9 @@
 <!ENTITY windowTitle.label "Yfirfara stafsetningu">
 <!ENTITY misspelledWord.label "Vitlaust stafað orð:">
 <!ENTITY wordEditField.label "Setja í staðinn:">
-<!ENTITY wordEditField.accessKey "S">
+<!ENTITY wordEditField.accessKey "j">
 <!ENTITY checkwordButton.label "Athuga orð">
-<!ENTITY checkwordButton.accessKey "A">
+<!ENTITY checkwordButton.accessKey "ð">
 <!ENTITY suggestions.label "Tillögur:">
 <!ENTITY suggestions.accessKey "u">
 <!ENTITY ignoreButton.label "Hunsa">
@@ -51,7 +51,7 @@
 <!ENTITY replaceButton.label "Skipta út">
 <!ENTITY replaceButton.accessKey "S">
 <!ENTITY replaceAllButton.label "Breyta öllu">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "a">
 <!ENTITY stopButton.label "Stöðva">
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Persónuleg orðabók:">
@@ -59,12 +59,12 @@
 <!ENTITY addToUserDictionaryButton.label "Bæta við orði">
 <!ENTITY addToUserDictionaryButton.accessKey "B">
 <!ENTITY editUserDictionaryButton.label "Breyta…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.accessKey "e">
 <!ENTITY recheckButton.label "Athuga aftur síðu">
-<!ENTITY recheckButton.accessKey "s">
+<!ENTITY recheckButton.accessKey "f">
 <!ENTITY closeButton.label "Loka">
-<!ENTITY closeButton.accessKey "L">
+<!ENTITY closeButton.accessKey "o">
 <!ENTITY sendButton.label "Senda">
 <!ENTITY sendButton.accessKey "S">
 <!ENTITY languagePopup.label "Tungumál:">
-<!ENTITY languagePopup.accessKey "L">
+<!ENTITY languagePopup.accessKey "l">

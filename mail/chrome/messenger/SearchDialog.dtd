@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey "L">
 <!ENTITY searchSubfolders.label "Leita í undirmöppum">
 <!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchOnServer.label "Keyra leit á netþjóni">
+<!ENTITY searchOnServer.accesskey "K">
 <!ENTITY resetButton.label "Hreinsa">
 <!ENTITY resetButton.accesskey "H">
 <!ENTITY openButton.label "Opna">
@@ -17,10 +19,10 @@
 <!ENTITY fileButton.accesskey "S">
 <!ENTITY closeCmd.key "W">
  
-<!ENTITY goToFolderButton.label "Opna póstmöppu">
-<!ENTITY goToFolderButton.accesskey "u">
+<!ENTITY openInFolder.label "Opna í möppu">
+<!ENTITY openInFolder.accesskey "m">
 <!ENTITY saveAsVFButton.label "Vista sem leitarmöppu">
-<!ENTITY saveAsVFButton.accesskey "v">
+<!ENTITY saveAsVFButton.accesskey "V">
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label "Leita í:">
 <!ENTITY abSearchHeading.accesskey "L">
@@ -53,7 +55,7 @@
 <!ENTITY threadColumn.tooltip "Smelltu til að sýna umræður">
  
 <!ENTITY fromColumn.tooltip "Smelltu til að raða eftir frá">
-<!ENTITY recipientColumn.tooltip "Smelltu til að raða eftir móttakanda">
+<!ENTITY recipientColumn.tooltip "Smelltu til að raða eftir viðtakanda">
 <!ENTITY subjectColumn.tooltip "Smelltu til að raða eftir efni">
 <!ENTITY dateColumn.tooltip "Smelltu til að raða eftir dagsetningu">
 <!ENTITY priorityColumn.tooltip "Smelltu til að raða eftir forgangi">

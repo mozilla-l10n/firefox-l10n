@@ -11,11 +11,11 @@
 <!ENTITY accountTypeMail.label "Tölvupóstsreikningur">
 <!ENTITY accountTypeMail.accesskey "T">
 <!ENTITY accountTypeNews.label "Fréttareikningur">
-<!ENTITY accountTypeNews.accesskey "F">
+<!ENTITY accountTypeNews.accesskey "r">
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Auðkenni">
-<!ENTITY identityDesc.label "Hver reikningur hefur auðkenni, sem eru þær upplýsingar sem bera kennsl á þig þegar aðrir taka á móti póst frá þér.">
+<!ENTITY identityDesc.label "Hver reikningur hefur auðkenni, sem eru þær upplýsingar sem sýna hver þú ert þegar fólk móttekur póst frá þér.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Sláðu inn nafnið eins og þú vilt láta það birtast í &quot;Frá&quot; svæðinu í póstunum þínum">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
@@ -34,27 +34,27 @@
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Sláðu inn nafn netþjóns fyrir innsendan póst (til dæmis &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Netþjónn inn:">
-<!ENTITY incomingServerLabel.accesskey "þ">
+<!ENTITY incomingServerLabel.accesskey "i">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Sláðu inn nafn fréttþjóns (NNTP) (til dæmis, &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Sláðu inn nafn fréttaþjóns (NNTP) (til dæmis, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Sláðu inn nafn netþjóns fyrir útsendan póst (SMTP) (til dæmis, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Netþjónn út:">
-<!ENTITY smtpServerLabel.accesskey "Þ">
+<!ENTITY smtpServerLabel.accesskey "t">
 <!ENTITY newsServerLabel.label "Fréttaþjónn:">
-<!ENTITY newsServerLabel.accesskey "Þ">
+<!ENTITY newsServerLabel.accesskey "F">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Póstþjónn fyrir útsendan póst (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, mun verða notaður. Þú getur breytt útsendum póstþjóns stillingum með því að velja stillingar reiknings frá Verkfæra valmynd.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, mun verða notaður. Þú getur breytt útsendum póstþjóns stillingum í stillingum reiknings.">
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Notandanafn">
@@ -63,21 +63,21 @@
 <!ENTITY usernameExample.label "(til dæmis, &quot;jonjonsson&quot;).">
 <!ENTITY usernameLabel.label "Innsent notandanafn:">
 <!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu fyrir útsendanpóst (þetta er venjulega það sama og fyrir innkomin póst).">
+<!ENTITY usernameSmtpDesc.label "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu fyrir útsendan póst (þetta er venjulega það sama og fyrir innkomin póst).">
 <!ENTITY usernameSmtpLabel.label "Útsent notandanafn:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!ENTITY usernameSmtpLabel.accesskey "o">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Notandanafn fyrir útsendan póst (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, mun verða notaður. Þú getur breytt útsendum póstþjóns stillingum með því að velja stillingar reiknings frá Verkfæra valmynd.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, mun verða notaður. Þú getur breytt útsendum póstþjóns stillingum í stillingum reikninga.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Útsendur póstþjónn (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, er sá sami og fyrir innsendan póstþjón, notandanafn fyrir innsendan póst mun því verða notaður. Þú getur breytt stillingum útsends póstþjóns með því að velja stillingar reiknings frá Verkfæra valmynd.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, er sá sami og fyrir innsendan póstþjón, notandanafn fyrir innsendan póst mun því verða notaður. Þú getur breytt stillingum útsends póstþjóns í stillingum reiknings.">
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Heiti reiknings">
@@ -95,9 +95,9 @@
 <!ENTITY newsServerNamePrefix.label "Nafn fréttaþjóns (NNTP):">
 <!ENTITY downloadOnLogin.label "Hlaða niður tölvupósti strax">
 <!ENTITY downloadOnLogin.accesskey "H">
-<!ENTITY deferStorageDesc.label "Afhakaðu þennan gátreit ef þú vilt geyma póst fyrir þennan reikning í eigin möppu. Það mun þá sýna þennan reikning sem rótarhlut. Annars mun hann verða partur af staðbundnum möppum í víðværa innhólfinu.
+<!ENTITY deferStorageDesc.label "Afhakaðu þennan gátreit ef þú vilt geyma póst fyrir þennan reikning í eigin möppu. Það mun þá sýna þennan reikning sem rótarhlut. Annars mun hann verða hluti af staðbundnum möppum í víðværa innhólfinu.
 ">
 <!ENTITY deferStorage.label "Nota víðvært innhólf (geyma póst í Staðbundnum möppum)">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Smelltu á Ljúka til að vista þessar stillingar og hætta í reikningahjálpinni.">
 <!ENTITY clickFinish.labelMac "Smelltu á Ljúka til að vista þessar stillingar og hætta í reikningahjálpinni.">

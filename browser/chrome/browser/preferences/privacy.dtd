@@ -1,42 +1,55 @@
 <!ENTITY history.label "Ferill">
-<!ENTITY locbar.pre.label "Þegar ég nota staðsetningarslá, leggja til:">
+<!ENTITY locationBar.label "Staðsetningarslá">
+<!ENTITY locbar.pre.label "Þegar ég nota staðsetningarslá, stinga upp á:">
 <!ENTITY locbar.pre.accessKey "l">
 <!ENTITY locbar.post.label "">
 <!ENTITY locbar.both.label "Ferill og bókamerki">
 <!ENTITY locbar.history.label "Ferill">
 <!ENTITY locbar.bookmarks.label "Bókamerki">
 <!ENTITY locbar.nothing.label "Ekkert">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY rememberDaysBefore.label "Geyma feril í að minnsta kosti">
-<!ENTITY rememberDaysBefore.accesskey "f">
-<!ENTITY rememberDaysAfter2.label "daga">
-<!ENTITY rememberForms.label "Muna það sem er slegið inn í vefsíður og leitarstiku">
-<!ENTITY rememberForms.accesskey "f">
-<!ENTITY rememberDownloads.label "Muna hvað hefur verið niðurhalað">
-<!ENTITY rememberDownloads.accesskey "u">
-<!ENTITY cookies.label "Smákökur">
-<!ENTITY acceptCookies.label "Taka á móti smákökum frá þessum vefsvæðum">
-<!ENTITY acceptCookies.accesskey "T">
-<!ENTITY acceptThirdParty.label "Taka á móti smákökum frá þriðja aðila">
-<!ENTITY acceptThirdParty.accesskey "þ">
+<!ENTITY acceptCookies.label "Þiggja smákökur frá vefsvæðum">
+<!ENTITY acceptCookies.accesskey "Þ">
+<!ENTITY acceptThirdParty.label "Þiggja smákökur frá þriðja aðila">
+<!ENTITY acceptThirdParty.accesskey "a">
 <!ENTITY keepUntil.label "Eiga þangað til:">
 <!ENTITY keepUntil.accesskey "E">
 <!ENTITY expire.label "þær renna út">
-<!ENTITY close.label "þegar ég loka &brandShortName;">
+<!ENTITY close.label "ég loka &brandShortName;">
 <!ENTITY askEachTime.label "spyrja í hvert skipti">
 <!ENTITY cookieExceptions.label "Undanþágur…">
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Sýna smákökur…">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY privateData.label "Persónuleg gögn">
-<!ENTITY alwaysClear.label "Hreinsa persónuleg gögn þegar hætt er í &brandShortName;">
-<!ENTITY alwaysClear.accesskey "g">
-<!ENTITY clearDataSettings.label "Stillingar…">
-<!ENTITY clearDataSettings.accesskey "t">
-<!ENTITY clearDataNow.label "Hreinsa núna…">
-<!ENTITY clearDataNow.accesskey "N">
+<!ENTITY historyHeader.pre.label "&brandShortName; mun:">
+<!ENTITY historyHeader.pre.accesskey "F">
+<!ENTITY historyHeader.remember.label "Geyma feril">
+<!ENTITY historyHeader.dontremember.label "Aldrei geyma feril">
+<!ENTITY historyHeader.custom.label "Nota sérsniðnar stillingar fyrir feril">
+<!ENTITY historyHeader.post.label "">
+<!ENTITY rememberDescription.label "&brandShortName; mun geyma vöfrun, niðurhal, eyðublöð og leitarferil, og geyma smákökur frá þeim vefsvæðum sem þú heimsækir.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY rememberActions.pre.label "Ef þú vilt getur þú ">
+<!ENTITY rememberActions.clearHistory.label "hreinsað nýlega ferla">
+<!ENTITY rememberActions.middle.label ", eða ">
+<!ENTITY rememberActions.removeCookies.label "eytt ákveðnum smákökum">
+<!ENTITY rememberActions.post.label ".">
+<!ENTITY dontrememberDescription.label "&brandShortName; mun nota sömu stillingar og í einkavöfrun, og mun ekki geyma vafraferil.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY dontrememberActions.pre.label "Þú getur líka ">
+<!ENTITY dontrememberActions.clearHistory.label "hreinsað núverandi feril">
+<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY privateBrowsingPermanent.label "Fastsett einkavöfrun">
+<!ENTITY privateBrowsingPermanent.accesskey "F">
+<!ENTITY rememberHistory.label "Muna vafraferil">
+<!ENTITY rememberHistory.accesskey "v">
+<!ENTITY rememberDownload.label "Muna niðurhalsferil">
+<!ENTITY rememberDownload.accesskey "n">
+<!ENTITY rememberSearchForm.label "Muna leit og eyðublaðaferil">
+<!ENTITY rememberSearchForm.accesskey "f">
+<!ENTITY clearOnClose.label "Hreinsa feril þegar &brandShortName; hættir">
+<!ENTITY clearOnClose.accesskey "H">
+<!ENTITY clearOnCloseSettings.label "Stillingar…">
+<!ENTITY clearOnCloseSettings.accesskey "t">

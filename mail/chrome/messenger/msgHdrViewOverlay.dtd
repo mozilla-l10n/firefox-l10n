@@ -38,15 +38,15 @@
 <!ENTITY toField2.label "til ">
 <!ENTITY fromField2.label "frá ">
 <!ENTITY senderField2.label "sendandi ">
-<!ENTITY organizationField2.label "fyrirtæki ">
+<!ENTITY organizationField2.label "fyrirtæki/stofnun ">
 <!ENTITY replyToField2.label "svar við ">
 <!ENTITY subjectField2.label "efni ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "dulið afrit (bcc) ">
+<!ENTITY bccField2.label "falið afrit ">
 <!ENTITY newsgroupsField2.label "fréttahópar ">
 <!ENTITY followupToField2.label "eftirfylgni-við ">
-<!ENTITY tagsHdr2.label "tög ">
+<!ENTITY tagsHdr2.label "flokkar ">
 <!ENTITY dateField2.label "dagsetning ">
 <!ENTITY userAgentField2.label "kennistrengur forrits ">
 <!ENTITY referencesField2.label "tilvitnanir ">
@@ -55,19 +55,45 @@
 <!ENTITY originalWebsite2.label "vefsvæði ">
 <!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
 <!ENTITY editMessageButton.label "Breyta…">
-<!ENTITY archiveButton.label "skjalasafn">
+<!ENTITY hdrArchiveButton.label "safna">
+<!ENTITY hdrArchiveButton.tooltip "setja póst í safn">
 <!ENTITY hdrReplyButton.label "svara">
+<!ENTITY hdrReplyButton.tooltip "svara pósti">
 <!ENTITY hdrReplyAllButton.label "svara öllum">
+<!ENTITY hdrReplyAllButton.tooltip "svara sendanda og öllum viðtakendum">
+<!ENTITY hdrReplyListButton.label "svara póstlista">
+<!ENTITY hdrReplyListButton.tooltip "svara póstlista">
 <!ENTITY hdrForwardButton.label "áframsenda">
+<!ENTITY hdrForwardButton.tooltip "áframsenda póst">
 <!ENTITY hdrJunkButton.label "ruslpóstur">
-<!ENTITY trashButton.tooltiptext "eyða">
+<!ENTITY hdrJunkButton.tooltip "merkja póst sem ruslpóst">
+<!ENTITY hdrTrashButton.label "eyða">
+<!ENTITY hdrTrashButton.tooltip "eyða pósti">
+<!ENTITY hdrViewToolbarShowFull.label "Sýna myndir og texta">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Sýna aðeins myndir">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Sýna einungis texta">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltaf sýna svar til sendanda">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 <!ENTITY otherActionsButton.label "aðrar aðgerðir">
+<!ENTITY otherActionsOpenConversation.label "opna í samtali">
+<!ENTITY otherActionsOpenConversation.accesskey "s">
+<!ENTITY otherActionsOpenInNewWindow.label "opna í nýjum glugga">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "g">
+<!ENTITY otherActionsOpenInNewTab.label "opna í nýjum flipa">
+<!ENTITY otherActionsOpenInNewTab.accesskey "f">
+<!ENTITY markAsReadMenuItem.label "merkja sem lesið">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "merkja sem ólesið">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "vista sem…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem.accesskey "v">
 <!ENTITY viewSourceMenuItem.label "sýna frumkóða…">
-<!ENTITY viewSourceMenuItem.accesskey "s">
-<!ENTITY hideDetailsButton.label "fela ítarefni">
-<!ENTITY showDetailsButton.label "sýna ítarefni">
+<!ENTITY viewSourceMenuItem.accesskey "k">
+<!ENTITY otherActionsPrint.label "prenta…">
+<!ENTITY otherActionsPrint.accesskey "p">
 <!ENTITY openAttachmentCmd.label "Opna">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Vista sem…">

@@ -5,7 +5,7 @@
 <!ENTITY chooseFile.label "Veldu skrá…">
 <!ENTITY newWindow.label "Nýr gluggi">
 <!ENTITY newTab.label "Nýr flipi">
-<!ENTITY topWindow.label "Núverandi glugga">
+<!ENTITY topTab.label "Núgildandi flipi">
 <!ENTITY caption.label "Opna staðsetningu">
 <!ENTITY openWhere.label "Opna í:">
 <!ENTITY openBtn.label "Opna">
