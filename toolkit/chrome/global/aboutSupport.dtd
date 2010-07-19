@@ -6,7 +6,7 @@ Esta página contém informação técnica que pode ser útil quando estiver a t
 resolver um problema. Se estiver à procura de respostas para questões comuns
 sobre o &brandShortName;, veja o nosso <a id='supportLink'>sítio web de suporte</a>.
 ">
- 
+
 <!ENTITY aboutSupport.extensionsTitle "Extensões">
 <!ENTITY aboutSupport.extensionName "Nome">
 <!ENTITY aboutSupport.extensionEnabled "Activado">
@@ -17,7 +17,7 @@ sobre o &brandShortName;, veja o nosso <a id='supportLink'>sítio web de suporte
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versão">
 <!ENTITY aboutSupport.appBasicsProfileDir "Pasta do perfil">
-<!ENTITY aboutSupport.appBasicsPlugins "Plugins instalados">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da versão">
 
 <!ENTITY aboutSupport.show.label "Abrir pasta de conteúdos">
