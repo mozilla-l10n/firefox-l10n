@@ -7,10 +7,6 @@
 #define bookmarks_title Bladwijzers
 #define bookmarks_heading Bladwijzers
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Add-ons voor bladwijzers verkrijgen
-
 #define bookmarks_toolbarfolder Bookmarks Toolbar Folder
 #define bookmarks_toolbarfolder_description Voeg bladwijzers aan deze map toe om ze weer te geven op de bladwijzerwerkbalk
 
@@ -41,7 +37,7 @@
 #define firefox_community Meewerken
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Over Mozilla
 
 #unfilter emptyLines
