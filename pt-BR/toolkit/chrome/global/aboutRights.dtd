@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Sobre os seus direitos">
-<!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, criado por uma comunidade de milhares ao redor do mundo. Há algumas coisas que você deve saber:">
+<!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, criado por uma comunidade de milhares de pessoas ao redor do mundo. Há algumas coisas que você deve saber:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Licença Pública Mozilla">
 <!ENTITY rights.intro-point1c ". Isso significa que você pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Você também é bem-vindo para modificar como quiser o código-fonte do &brandShortName; para atender às suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
-<!ENTITY rights.intro-point2a "A Mozilla não lhe concede quaisquer direitos sobre as marcas comerciais ou logotipos Mozilla e Firefox. Informações adicionais sobre as marcas comerciais podem ser encontradas ">
-<!ENTITY rights.intro-point2b "aqui">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Não lhe são concedidos quaisquer direitos sobre marcas comerciais ou licenças sobre as marcas comerciais da Mozilla Foundation ou de terceiros, incluindo, entre outras, ao nome ou logotipo do Firefox. Informações adicionais sobre as marcas comerciais podem ser encontradas ">
+<!ENTITY rights.intro-point2-b "aqui">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos &vendorShortName; podem ser encontradas ">
@@ -50,7 +50,7 @@
 <!ENTITY rights.webservices-c " e desmarque os itens “&blockAttackSites.label;” e “&blockWebForgeries.label;”.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar, se aplicável, devem ser colocados aqui.">
+<!ENTITY rights.webservices-unbranded "Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar (se aplicáveis), deve ser colocada aqui.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Quaisquer termos de serviço aplicáveis a este produto devem ser listados aqui.">
@@ -59,7 +59,7 @@
 <!ENTITY rights.webservices-term1 "A &vendorShortName; e seus colaboradores, licenciadores e parceiros trabalham para fornecer as mais precisas e atualizadas informações sobre phishing e malware. Entretanto, eles não podem garantir a abrangência e a ausência de erros destas informações; sites perigosos podem não ser identificados e sites seguros podem ser identificados erroneamente.">
 <!ENTITY rights.webservices-term2 "A &vendorShortName; pode descontinuar ou alterar os Serviços a critério dela.">
 <!ENTITY rights.webservices-term3 "Você é bem-vindo para utilizar estes Serviços com a versão associada do &brandShortName;, e possui todos os direitos necessários para fazê-lo. A &vendorShortName; e seus licenciadores reservam todos os outros direitos sobre os Serviços. Estes termos não são intencionados a limitar nenhum dos direitos concedidos com as licenças de código aberto aplicáveis ao &brandShortName; e as correspondentes versões do código-fonte do &brandShortName;.">
-<!ENTITY rights.webservices-term4 "Os Serviços são fornecidos “tais como estão”. A &vendorShortName;, seus colaboradores, licenciadores e distribuidores se isentam de todas as garantias, sejam expressas ou implícitas, incluindo, entre outras, garantias de que os Serviços sejam comercializáveis e apropriados para os seus propósitos particulares. Você tolera todo o risco quanto a seleção dos Serviços para os seus fins e quanto à qualidade e desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou limitação de garantias implícitas, de forma que esta isenção pode não se aplicar a você.">
+<!ENTITY rights.webservices-term4 "Os Serviços são fornecidos “tais como estão”. A &vendorShortName;, seus colaboradores, licenciadores e distribuidores se isentam de todas as garantias, sejam expressas ou implícitas, incluindo, entre outras, garantias de que os Serviços sejam comercializáveis e apropriados para os seus fins particulares. Você tolera todo o risco quanto a seleção dos Serviços para os seus fins e quanto à qualidade e desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou limitação de garantias implícitas, de forma que esta isenção pode não se aplicar a você.">
 <!ENTITY rights.webservices-term5 "Exceto quando exigido pela lei, a &vendorShortName;, seus colaboradores, licenciadores e distribuidores não serão responsabilizados por quaisquer danos indiretos, especiais, acidentais, conseqüentes, punitivos ou exemplares decorrentes ou de alguma forma relacionados ao uso do &brandShortName; e dos Serviços. A responsabilidade coletiva sob estes termos não excederá $500 (quinhentos dólares). Algumas jurisdições não permitem a exclusão ou limitação de certos danos, de forma que esta limitação e exclusão pode não se aplicar a você.">
 <!ENTITY rights.webservices-term6 "A &vendorShortName; pode atualizar estes termos ocasionalmente, na medida do necessário. Estes termos não podem ser alterados ou cancelados sem o acordo escrito da &vendorShortName;.">
 <!ENTITY rights.webservices-term7 "Estes termos são regidos pelas leis do estado da Califórnia, E.U.A., excluindo seu conflito de cláusulas legais. Se qualquer parte destes termos for identificado como inválido ou não aplicável, as partes restantes permanecerão em pleno vigor e efeito. Na eventualidade de um conflito entre uma versão traduzida destes termos e versão do idioma inglês, a versão em inglês prevalecerá.">
