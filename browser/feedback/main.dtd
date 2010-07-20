@@ -1,30 +1,30 @@
-<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.brand.label                      "Випробувач">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                   "Settings">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Notify me when">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allStudies.label                 "All Your User Studies">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.settings.label                   "Налаштування">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Сповіщати мене коли">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Дослід готовий до надсилання">
+<!ENTITY testpilot.settings.newStudy.label          "Є новий Дослід">
+<!ENTITY testpilot.settings.hasNewResults.label     "Дослід має нові результати">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Автоматично надсилати мої дані (не питати мене)">
+<!ENTITY testpilot.allStudies.label                 "Всі ваші Досліди">
+<!ENTITY testpilot.about.label                      "Про Випробувача">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
+<!ENTITY testpilot.studiesWindow.title                  "Ваші випробувані Досліди">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Поточні Досліди">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Завершені Досліди">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Знахідки Дослідів">
+<!ENTITY testpilot.studiesWindow.settings.label         "Налаштування">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Завантаження, будь ласка зачекайте…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Випробувач: сирі дані">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Close">
+<!ENTITY testpilot.notification.close.tooltip            "Закрити">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
-<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because…">
+<!ENTITY testpilot.enable.label                        "Увімкнути Дослідження Користувачів">
+<!ENTITY testpilot.feedbackbutton.label                "Відгук">
+<!ENTITY testpilot.happy.label        "Firefox мене порадував тим, що…">
+<!ENTITY testpilot.sad.label          "Firefox мене засмутив тим, що…">
