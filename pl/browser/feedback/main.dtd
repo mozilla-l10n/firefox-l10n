@@ -15,7 +15,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Zakończone badania">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Wnioski z badań">
 <!ENTITY testpilot.studiesWindow.settings.label         "Ustawienia">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Wczytywanie, proszę czekać...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Wczytywanie, proszę czekać…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Pilot testowy: dane źródłowe">
@@ -26,5 +26,5 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Włącz badania użytkownika">
 <!ENTITY testpilot.feedbackbutton.label                "Informacje zwrotne">
-<!ENTITY testpilot.happy.label        "Firefox uszczęśliwił mnie, ponieważ...">
-<!ENTITY testpilot.sad.label          "Firefox zasmucił mnie, ponieważ...">
+<!ENTITY testpilot.happy.label        "Firefox spodobał mi się, ponieważ…">
+<!ENTITY testpilot.sad.label          "Firefox zasmucił mnie, ponieważ…">
