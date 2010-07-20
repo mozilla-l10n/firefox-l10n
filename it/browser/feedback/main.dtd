@@ -4,7 +4,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label "Uno studio è pronto per l'invio">
 <!ENTITY testpilot.settings.newStudy.label "È disponibile un nuovo studio">
 <!ENTITY testpilot.settings.hasNewResults.label "Uno studio presenta nuovi risultati">
-<!ENTITY testpilot.settings.alwaysSubmitData.label "Invia automaticamente i dati (non chiedere)">
+<!ENTITY testpilot.settings.alwaysSubmitData.label "Invia automaticamente i dati (senza chiedere)">
 <!ENTITY testpilot.allStudies.label "Tutti i tuoi Studi utente">
 <!ENTITY testpilot.about.label "Informazioni su Test Pilot">
 <!ENTITY testpilot.studiesWindow.title "I tuoi studi Test Pilot">
