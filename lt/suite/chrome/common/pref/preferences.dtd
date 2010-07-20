@@ -42,6 +42,7 @@
 <!ENTITY languages.label             "Kalbos">
 <!ENTITY applications.label          "Failų atvėrimas">
 <!ENTITY locationBar.label           "Adreso laukas">
+<!ENTITY links.label                 "Saitų atvėrimas">
 <!ENTITY tabWindows.label            "Kortelės">
 <!ENTITY offline.label               "Darbas atsijungus">
 <!ENTITY security.label              "Privatumas ir saugumas">

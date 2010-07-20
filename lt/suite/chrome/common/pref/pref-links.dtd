@@ -12,8 +12,6 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -30,17 +28,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tabHeader.label "Kortelės">
-<!ENTITY tabDisplay.label "Kortelių juosta">
-<!ENTITY autoHide.label "Nerodyti kortelių juostos, kai atverta tik viena kortelė">
-<!ENTITY autoHide.accesskey "N">
-<!ENTITY background.label "Atveriant saitą naujoje kortelėje, įkelti ją į pirmąjį planą">
-<!ENTITY background.accesskey "s">
-<!ENTITY warnOnClose.label "Įspėti prieš užveriant langą, kuriame yra atvertų kortelių">
-<!ENTITY warnOnClose.accesskey "ė">
-<!ENTITY loadGroup.label "Atveriant į adresyną įrašytą tinklalapių grupę:">
-<!ENTITY loadGroupAppend.label "Sukurti naujas korteles">
-<!ENTITY loadGroupAppend.accesskey "k">
-<!ENTITY loadGroupReplace.label "Pakeisti esamas">
-<!ENTITY loadGroupReplace.accesskey "P">
-<!ENTITY openTabs.label "Vietoj naujo naršyklės lango atverti kortelę">
+<!ENTITY linksHeader.label "Saitų atvėrimas">
+<!ENTITY newWindow.label "Saitų atvėrimas">
+<!ENTITY newWindowDescription.label "Saitus, kurie turėtų būti atveriami naujame lange, atverti">
+<!ENTITY external.label "Saitai iš kitų programų">
+<!ENTITY externalDescription.label "Saitus, perduotus kitų programų, atverti">
+
+<!ENTITY openCurrent.label "šiuo metu atvertoje kortelėje">
+<!ENTITY newWindowGroupCurrent.accesskey "š">
+<!ENTITY externalGroupCurrent.accesskey "u">
+
+<!ENTITY openTab.label "naujoje kortelėje šiuo metu atvertame lange">
+<!ENTITY newWindowGroupTab.accesskey "k">
+<!ENTITY externalGroupTab.accesskey "o">
+
+<!ENTITY openWindow.label "naujame lange">
+<!ENTITY newWindowGroupWindow.accesskey "l">
+<!ENTITY externalGroupWindow.accesskey "a">
