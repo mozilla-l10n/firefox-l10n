@@ -177,6 +177,16 @@
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "檢測">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "下一個">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "上一個">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "樣式">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "樣式">
+
 <!ENTITY fileMenu.label         "檔案"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "開新視窗">
