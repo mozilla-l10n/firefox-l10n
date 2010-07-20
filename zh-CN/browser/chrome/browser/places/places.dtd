@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "管理">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "管理你的书签">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "关闭">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "视图">
 <!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "更换您的视图">
 <!ENTITY view.columns.label             "显示列">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "排序">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "导入以及备份">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "导入及备份您的书签">
 
 <!ENTITY backCmd.label       "后退">
 <!ENTITY backButton.tooltip  "返回上一步">
