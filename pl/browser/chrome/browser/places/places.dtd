@@ -4,6 +4,7 @@
 <!ENTITY places.library.height  "500">
 <!ENTITY organize.label         "Zarządzaj">
 <!ENTITY organize.accesskey     "Z">
+<!ENTITY organize.tooltip       "Zarządzaj zakładkami">
 
 <!ENTITY file.accesskey   "P">
 <!ENTITY file.close.label   "Zamknij">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey   "E">
 <!ENTITY views.label   "Widoki">
 <!ENTITY views.accesskey   "W">
+<!ENTITY views.tooltip                  "Zmień widok">
 <!ENTITY view.columns.label   "Wyświetl kolumny">
 <!ENTITY view.columns.accesskey   "k">
 <!ENTITY view.sort.label   "Sortuj">
@@ -108,6 +110,7 @@
 
 <!ENTITY maintenance.label   "Importowanie i kopie zapasowe">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importuj zakładki lub utwórz ich kopie zapasowe">
 
 <!ENTITY backCmd.label   "Wstecz">
 <!ENTITY backButton.tooltip   "Przejdź wstecz">
