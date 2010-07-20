@@ -57,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico atual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Iniciar o &brandShortName; automaticamente na navegação privativa">
-<!ENTITY  privateBrowsingAutoStart.accesskey "I">
+<!ENTITY  privateBrowsingPermanent.label "Modo de navegação privativa permanente">
+<!ENTITY  privateBrowsingPermanent.accesskey "d">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Memorizar as páginas visitadas por pelo menos">
-<!ENTITY  rememberHistory.pre.accesskey  "r">
-<!ENTITY  rememberHistory.post.label     "dias">
+<!ENTITY  rememberHistory.label      "Memorizar as páginas visitadas">
+<!ENTITY  rememberHistory.accesskey  "r">
 
 <!ENTITY  rememberDownload.label         "Memorizar os downloads efetuados">
 <!ENTITY  rememberDownload.accesskey     "M">

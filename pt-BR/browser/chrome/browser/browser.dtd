@@ -11,6 +11,32 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegação privativa)">
 
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "Nova aba">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "Recarregar aba">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Recarregar tudo">
+<!ENTITY  reloadAllTabs.accesskey            "t">
+<!ENTITY  closeOtherTabs.label               "Fechar as outras abas">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "Abrir em nova janela">
+<!ENTITY  openTabInNewWindow.accesskey       "A">
+<!ENTITY  pinTab.label                       "Converter em aba de aplicativo">
+<!ENTITY  pinTab.accesskey                   "v">
+<!ENTITY  unpinTab.label                     "Converter em aba normal">
+<!ENTITY  unpinTab.accesskey                 "v">
+<!ENTITY  bookmarkThisTab.label              "Adicionar aba aos favoritos">
+<!ENTITY  bookmarkThisTab.accesskey          "d">
+<!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
+<!ENTITY  bookmarkAllTabs.accesskey          "c">
+<!ENTITY  undoCloseTab.label                 "Reabrir aba">
+<!ENTITY  undoCloseTab.accesskey             "b">
+<!ENTITY  closeTab.label                     "Fechar aba">
+<!ENTITY  closeTab.accesskey                 "F">
+
+<!ENTITY  listAllTabs.label      "Listar todas as abas">
+
 <!ENTITY tabCmd.label "Nova aba">
 <!ENTITY tabCmd.accesskey "N">
 <!ENTITY tabCmd.commandkey "T">
@@ -107,6 +133,12 @@
 <!ENTITY bookmarksButton.tooltip        "Exibir o painel com os favoritos">
 <!ENTITY bookmarksButton.accesskey  "v">
 <!ENTITY bookmarksCmd.commandkey "B">
+
+<!ENTITY bookmarksMenuButton.label          "Favoritos">
+<!ENTITY bookmarksMenuButton.tooltip        "Exibir os favoritos">
+<!ENTITY viewBookmarksSidebar.label         "Exibir painel dos favoritos">
+<!ENTITY viewBookmarksToolbar.label         "Exibir barra dos favoritos">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -131,12 +163,29 @@
 <!ENTITY downloads.commandkey         "J">
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label                 "Complementos">
-<!ENTITY addons.tooltip               "Exibir e organizar os complementos instalados">
 <!ENTITY addons.accesskey             "C">
 
 <!ENTITY errorConsoleCmd.label        "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey    "s">
 <!ENTITY errorConsoleCmd.commandkey   "J">
+
+<!ENTITY hudConsoleCmd.label          "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "K">
+
+<!ENTITY inspectMenu.label            "Inspecionar">
+<!ENTITY inspectMenu.accesskey        "n">
+<!ENTITY inspectMenu.commandkey       "i">
+
+<!ENTITY inspectButton.label          "Inspecionar">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Próximo">
+<!ENTITY inspectNextButton.accesskey  "P">
+<!ENTITY inspectPreviousButton.label  "Anterior">
+<!ENTITY inspectPreviousButton.accesskey "A">
+<!ENTITY inspectStyleButton.label     "Estilos">
+<!ENTITY inspectStyleButton.accesskey "E">
+<!ENTITY inspectStylePanelTitle.label  "Estilos">
 
 <!ENTITY fileMenu.label         "Arquivo"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -172,8 +221,8 @@
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Limpar histórico recente">
-<!ENTITY clearRecentHistoryCmd.accesskey        "L">
+<!ENTITY clearRecentHistory.label               "Limpar dados pessoais…">
+<!ENTITY clearRecentHistory.accesskey           "L">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Iniciar navegação privativa">
@@ -190,6 +239,8 @@
 <!ENTITY viewSidebarMenu.accesskey "a">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY viewTabsOnTop.label            "Abas em cima">
+<!ENTITY viewTabsOnTop.accesskey        "A">
 
 <!ENTITY historyMenu.label "Histórico">
 <!ENTITY historyMenu.accesskey "H">
@@ -199,20 +250,24 @@
 
 <!ENTITY historyHomeCmd.label "Página inicial">
 <!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd.commandkey "h">
+
+<!ENTITY appMenuPrintCmd.label "Imprimir">
+<!ENTITY appMenuCustomize.label "Personalizar">
+<!ENTITY appMenuToolbarLayout.label "Barras de ferramentas…">
+<!ENTITY appMenuSidebars.label "Painel">
+<!ENTITY appMenuHelp.label "Ajuda">
 
 <!ENTITY openCmd.commandkey           "L">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Localizar no histórico e favoritos">
-<!ENTITY urlbar.bookmark.emptyText    "Localizar nos favoritos">
-<!ENTITY urlbar.history.emptyText     "Localizar no histórico">
-<!ENTITY urlbar.none.emptyText        "Forneça um endereço web">
+<!ENTITY urlbar.placeholder           "Abrir uma página web">
 <!ENTITY urlbar.accesskey             "D">
+<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -227,7 +282,7 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 <!ENTITY searchFocus.commandkey       "K">
 <!ENTITY searchFocus.commandkey2      "E">
@@ -235,6 +290,8 @@
 
 <!ENTITY openLinkCmd.label            "Abrir em nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
+<!ENTITY openLinkCmdInCurrent.label     "Open Link">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "Abrir em nova aba">
 <!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openFrameCmd.label           "Abrir em nova janela">
@@ -306,8 +363,6 @@
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Copiar link">
 <!ENTITY copyLinkCmd.accesskey        "o">
-<!ENTITY copyLinkTextCmd.label        "Copiar texto do link">
-<!ENTITY copyLinkTextCmd.accesskey    "t">
 <!ENTITY copyImageCmd.label           "Copiar endereço da imagem">
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Copiar imagem">
@@ -316,7 +371,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "u">
 <!ENTITY copyEmailCmd.label           "Copiar email">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Este frame">
@@ -335,6 +389,8 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ocultar controles">
 <!ENTITY mediaHideControls.accesskey "c">
+<!ENTITY videoFullScreen.label       "Tela inteira">
+<!ENTITY videoFullScreen.accesskey   "T">
 
 
 <!-- LOCALIZATION NOTE :
@@ -449,3 +505,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Clique para abrir a janela de downloads">
 
 <!ENTITY allTabs.filter.emptyText "Localizar abas">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Abas do navegador">

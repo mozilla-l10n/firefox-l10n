@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Nova aba)">
-<!ENTITY  newTab.label           "Nova aba">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "Fechar aba">
-<!ENTITY  closeTab.accesskey         "F">
-<!ENTITY  closeOtherTabs.accesskey  "e">
-<!ENTITY  closeOtherTabs.label   "Fechar as outras abas">
-<!ENTITY  reloadAllTabs.label    "Recarregar todas">
-<!ENTITY  reloadAllTabs.accesskey         "t">
-<!ENTITY  reloadTab.label        "Recarregar aba">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  openTabInNewWindow.label    "Abrir em nova janela">
-<!ENTITY  openTabInNewWindow.accesskey "A">
-<!ENTITY  listAllTabs.label      "Listar todas as abas">
-<!ENTITY  bookmarkAllTabs.label       "Adicionar todas aos favoritos…">
-<!ENTITY  bookmarkAllTabs.accesskey   "c">
-<!ENTITY  bookmarkThisTab.label       "Adicionar aba aos favoritos">
-<!ENTITY  bookmarkThisTab.accesskey   "d">
-<!ENTITY  undoCloseTab.label          "Reabrir aba">
-<!ENTITY  undoCloseTab.accesskey      "b">
 <!ENTITY  newTabButton.tooltip        "Abrir uma aba">

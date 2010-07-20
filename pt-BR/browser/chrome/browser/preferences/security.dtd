@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Senhas memorizadas…">
 <!ENTITY  savedPasswords.accesskey        "n">
-
-
-<!ENTITY  warnings.label                "Alertas">
-
-<!ENTITY  chooseWarnings.label          "Selecione as notificações que deseja ver enquanto navega.">
-
-<!ENTITY  warningSettings.label         "Configurar…">
-<!ENTITY  warningSettings.accesskey     "C">

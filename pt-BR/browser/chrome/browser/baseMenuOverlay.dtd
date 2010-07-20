@@ -10,20 +10,19 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ajuda"> 
 <!ENTITY helpMenuWin.accesskey    "u">
-<!ENTITY aboutCmd.label           "Sobre o &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "S">
+<!ENTITY aboutProduct.label       "Sobre o &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "S">
 <!ENTITY productHelp.label        "Ajuda do &brandShortName;">
 <!ENTITY productHelp.accesskey    "u">
 <!ENTITY helpForIEUsers.label     "Para usuários do Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "P">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Notas da versão">
 <!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY helpTroubleshooting.label      "Dados para solução de problemas…">
-<!ENTITY helpTroubleshooting.accesskey  "a">
+<!ENTITY helpTroubleshootingInfo.label      "Dados para solução de problemas">
+<!ENTITY helpTroubleshootingInfo.accesskey  "a">
 
 <!ENTITY updateCmd.label                "Verificar atualizações…">
 

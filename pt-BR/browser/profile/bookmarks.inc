@@ -7,10 +7,6 @@
 #define bookmarks_title Favoritos
 #define bookmarks_heading Favoritos
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Extensões para favoritos
-
 #define bookmarks_toolbarfolder Barra dos favoritos
 #define bookmarks_toolbarfolder_description Coloque aqui as páginas que você quer ter na barra dos favoritos.
 
@@ -41,7 +37,7 @@
 #define firefox_community Participe
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Sobre nós
 
 #unfilter emptyLines
