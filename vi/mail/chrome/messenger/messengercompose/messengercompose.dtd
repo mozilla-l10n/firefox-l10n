@@ -253,7 +253,7 @@
 <!ENTITY delete.label "Xóa">
 <!ENTITY delete.accesskey "X">
 <!ENTITY removeAttachment.label "Xóa phần đính kèm">
-<!ENTITY removeAttachment.accesskey "m">
+<!ENTITY removeAttachment.accesskey "p">
 <!ENTITY renameAttachment.label "Đổi tên…">
 <!ENTITY renameAttachment.accesskey "i">
 <!ENTITY selectAll.label "Chọn Toàn Bộ">

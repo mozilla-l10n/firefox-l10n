@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Duyệt web Riêng tư)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Thẻ Mới">
 <!ENTITY tabCmd.accesskey "T">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label "Duyệt web Ngoại tuyến">
 <!ENTITY goOfflineCmd.accesskey "w">
 
+<!ENTITY menubarCmd.label "Thanh Trình Đơn">
+<!ENTITY menubarCmd.accesskey "a">
 <!ENTITY navbarCmd.label "Thanh Điều Hướng">
 <!ENTITY navbarCmd.accesskey "H">
 <!ENTITY personalbarCmd.label "Thanh Đánh Dấu">
@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Toàn màn hình">
 <!ENTITY fullScreenCmd.accesskey "T">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Hiện Tất cả Các thẻ">
+<!ENTITY showAllTabsCmd.accesskey "H">
 
 <!ENTITY fullScreenMinimize.tooltip "Thu nhỏ">
 <!ENTITY fullScreenRestore.tooltip "Khôi phục">
@@ -88,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ngưng tải trang này">
 <!ENTITY goEndCap.tooltip             "Tải trang trong thanh Địa chỉ">
+<!ENTITY feedButton.tooltip           "Đăng kí nhận tin từ trang này…">
 <!ENTITY printButton.label            "In">
 <!ENTITY printButton.tooltip          "In trang này">
 
@@ -101,13 +105,13 @@
 
 <!ENTITY bookmarksButton.label          "Đánh dấu">
 <!ENTITY bookmarksButton.tooltip        "Hiển thị các trang đánh dấu của bạn">
-<!ENTITY bookmarksSidebarCmd.accesskey  "u">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksButton.accesskey  "u">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Lược sử">
 <!ENTITY historyButton.tooltip          "Hiển thị các trang bạn đã xem gần đây">
@@ -198,7 +202,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Tìm kiếm Trang đánh dấu và Lược sử">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Tìm kiếm Trang đánh dấu và Lược sử">
 <!ENTITY urlbar.bookmark.emptyText    "Tìm kiếm Trang đánh dấu">
 <!ENTITY urlbar.history.emptyText     "Tìm kiếm Lược sử">
@@ -260,6 +263,8 @@
 <!ENTITY reloadImageCmd.accesskey     "T">
 <!ENTITY viewImageCmd.label           "Xem Ảnh">
 <!ENTITY viewImageCmd.accesskey       "e">
+<!ENTITY viewImageInfoCmd.label       "Xem Thông tin của Hình ảnh">
+<!ENTITY viewImageInfoCmd.accesskey   "e">
 <!ENTITY viewVideoCmd.label           "Xem Phim">
 <!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Xem Ảnh Nền">
@@ -312,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "Chép Địa Chỉ Tiếng">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
 <!ENTITY blockImageCmd.accesskey      "C">
-<!ENTITY metadataCmd.label            "Thuộc tính">
-<!ENTITY metadataCmd.accesskey        "h">
 <!ENTITY copyEmailCmd.label           "Chép Địa Chỉ Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Khung này">
@@ -368,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Cắt">
 <!ENTITY copyButton.tooltip             "Chép">
 <!ENTITY pasteButton.tooltip            "Dán">
+<!ENTITY fullScreenButton.tooltip       "Hiển thị cửa sổ trong chế độ toàn màn hình">
 
 <!ENTITY quitApplicationCmdWin.label       "Thoát"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "o">
@@ -444,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Mở cửa sổ Tải xuống">
 
-<!ENTITY ctrlTab.search.emptyText "Tìm kiếm Thẻ">
+<!ENTITY allTabs.filter.emptyText "Tìm kiếm Thẻ">

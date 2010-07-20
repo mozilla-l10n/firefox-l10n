@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title          "Đổi tên Thư mục">
 <!ENTITY rename.label                      "Nhập tên mới cho thư mục của bạn:">
 <!ENTITY rename.accesskey                  "N">
+<!ENTITY accept.label                      "Đổi tên">
+<!ENTITY accept.accesskey                  "i">

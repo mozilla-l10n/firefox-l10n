@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Thông tin Gỡ rối vấn đề">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Trang này chứa các thông tin kĩ thuật có thể hữu ích khi bạn 
+  đang cố giải quyết một vấn đề nào đó. Nếu đang tìm câu trả lời cho các câu hỏi thông thường
+  về &brandShortName;, hãy xem qua <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Phần mở rộng">
+<!ENTITY aboutSupport.extensionName "Tên">
+<!ENTITY aboutSupport.extensionEnabled "Kích hoạt">
+<!ENTITY aboutSupport.extensionVersion "Phiên bản">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Cơ bản về Chương trình">
+<!ENTITY aboutSupport.appBasicsName "Tên">
+<!ENTITY aboutSupport.appBasicsVersion "Phiên bản">
+<!ENTITY aboutSupport.appBasicsProfileDir "Thư mục Hồ sơ">
+<!ENTITY aboutSupport.appBasicsPlugins "Phần bổ trợ Đã cài">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình Bản xây dựng">
+
+<!ENTITY aboutSupport.show.label "Mở Thư Mục Chứa">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Hiện trong Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Các tùy chỉnh Đã sửa đổi">
+<!ENTITY aboutSupport.modifiedPrefsName "Tên">
+<!ENTITY aboutSupport.modifiedPrefsValue "Giá trị">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Lược sử Cài đặt">
+<!ENTITY aboutSupport.updateHistoryTitle "Lược sử Cập nhật">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Chép tất cả vào clipboard">

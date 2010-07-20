@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, nếu có">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Dùng xác thực an toàn">
-<!ENTITY useSecAuth.accesskey "x">
+<!ENTITY authMethod.label "Phương thức xác thực:">
+<!ENTITY authMethod.accesskey "x">
 <!ENTITY leaveOnServer.label "Để lại thư trên máy chủ">
 <!ENTITY leaveOnServer.accesskey "l">
 <!ENTITY headersOnly.label "Chỉ lấy tiêu đề">

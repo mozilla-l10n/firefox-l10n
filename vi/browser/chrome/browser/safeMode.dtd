@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Đặt lại các thanh công cụ và điều khiển về mặc định">
 <!ENTITY resetToolbars.accesskey      "k">
 
-<!ENTITY resetBookmarks.label         "Đặt lại các trang đánh dấu về mặc định của &brandShortName;">
-<!ENTITY resetBookmarks.accesskey     "u">
+<!ENTITY deleteBookmarks.label        "Xóa hết trang đánh dấu, trừ các trang đã sao lưu">
+<!ENTITY deleteBookmarks.accesskey    "u">
 
 <!ENTITY resetUserPrefs.label         "Đặt lại các tùy chỉnh của người dùng về mặc định của &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "y">

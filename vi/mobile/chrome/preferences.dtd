@@ -1,13 +1,20 @@
+<!ENTITY prefsHeader.label                         "Tùy chỉnh">
+<!ENTITY about.title                               "Thông tin về &brandShortName;">
+<!ENTITY about.button                              "Chuyển đến Trang">
 <!ENTITY content.title                             "Nội dung">
 <!ENTITY showImages.title                          "Hiện hình ảnh">
 <!ENTITY enableJavaScript.title                    "Bật JavaScript">
-<!ENTITY enableJavaScript.description              "Đa số các trang tương tác cần JavaScript">
 <!ENTITY enablePlugins.title                       "Bật các Phần bổ trợ">
-<!ENTITY enablePlugins.description                 "Phần bổ trợ được sử dụng cho nội dung đặc biệt như video">
 <!ENTITY privacy.title                             "Riêng tư &amp; Bảo mật">
 <!ENTITY allowCookies.title                        "Cho phép cookie">
-<!ENTITY allowCookies.description                  "Các trang web sử dụng cookie để định danh bạn và nhớ các thiết lập của bạn">
-<!ENTITY clearPrivateData.title                    "Xóa các lược sử duyệt web gần đây">
+<!ENTITY clearPrivateData2.title                   "Xóa dữ liệu cá nhân">
 <!ENTITY clearPrivateData.button                   "Xóa trắng">
-<!ENTITY clearPrivateData.description              "Lược sử giúp &brandShortName; gợi ý những nơi mà bạn muốn đến">
 <!ENTITY rememberPasswords.title                   "Ghi nhớ mật khẩu">
+<!ENTITY language.title                            "Ngôn ngữ">
+<!ENTITY language.auto                             "Tự động dò">
+<!ENTITY defaultBrowser.title                      "Trình duyệt Mặc định">
+<!ENTITY defaultBrowser.description                "Đặt &brandShortName; làm trình duyệt mặc định của bạn">
+<!ENTITY homepage.title                            "Trang khởi động">
+<!ENTITY homepage.none                             "Trang trắng">
+<!ENTITY homepage.default                          "Bắt đầu &brandShortName;">
+<!ENTITY homepage.currentpage                      "Sử dụng Trang hiện tại">

@@ -22,6 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Truy cập thư mục và thư tin từ nhiều máy tính">
+<!ENTITY pop.description                 "POP - Tải xuống tất cả thư tin vào máy tính này, theo thư mục có sẵn trong máy">
+<!ENTITY recommended-appendix.label      "(khuyên dùng)">
 
 <!ENTITY manualSetup.label               "Thiết lập Thủ công…">
 <!ENTITY manualSetup.accesskey           "i">

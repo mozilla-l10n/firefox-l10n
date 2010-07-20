@@ -84,7 +84,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Máy chủ từ chối kết nối">
+<!ENTITY proxyConnectFailure.title "Máy chủ proxy từ chối kết nối">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Kiểm tra thiết lập proxy để chắc chắn rằng mọi thứ đều đúng.</li>

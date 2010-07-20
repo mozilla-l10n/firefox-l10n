@@ -8,7 +8,7 @@
 
 <!ENTITY  size.label                              "Kích cỡ:">
 <!ENTITY  proportionalSize.accesskey              "K">
-<!ENTITY  sizeMono.accesskey                      "K">
+<!ENTITY  sizeMono.accesskey                      "h">
 
 <!ENTITY  proportional.label                      "Tỉ lệ:">
 <!ENTITY  proportional.accesskey                  "l">

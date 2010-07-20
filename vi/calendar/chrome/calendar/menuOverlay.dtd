@@ -92,16 +92,6 @@
 <!ENTITY goTodayCmd.label                       "Hôm nay">
 <!ENTITY goTodayCmd.accesskey                   "H">
 
-<!ENTITY goPreviousCmd.day.label                "Ngày Trước">
-<!ENTITY goPreviousCmd.week.label               "Tuần Trước">
-<!ENTITY goPreviousCmd.month.label              "Tháng Trước">
-<!ENTITY goPreviousCmd.accesskey                "r">
-
-<!ENTITY goNextCmd.day.label                    "Ngày Sau">
-<!ENTITY goNextCmd.week.label                   "Tuần Sau">
-<!ENTITY goNextCmd.month.label                  "Tháng Sau">
-<!ENTITY goNextCmd.all.accesskey                "a">
-
 <!ENTITY showCurrentView.label                  "Hiển thị Hiện tại">
 <!ENTITY showCurrentView.accesskey              "H">
 

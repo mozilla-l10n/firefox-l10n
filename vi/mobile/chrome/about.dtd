@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Thông tin về &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Hỗ trợ">
+<!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">
+<!ENTITY aboutPage.rights.label                 "Biết Về Quyền Của Bạn">
+<!ENTITY aboutPage.relNotes.label               "Ghi chú Phát hành">
+<!ENTITY aboutPage.credits.label                "Công trạng">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Những người đóng góp. Mọi quyền được bảo lưu. (">
+<!ENTITY aboutPage.licenseLink                  "Thông tin giấy phép">
+<!ENTITY aboutPage.copyrightInfo2               ").">

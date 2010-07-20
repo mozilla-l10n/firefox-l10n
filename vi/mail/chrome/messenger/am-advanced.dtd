@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "Cổng: ">
 <!ENTITY userName.label   "Tên đăng nhập: ">
 <!ENTITY connectionSecurity.label "Bảo mật Kết nối: ">
-<!ENTITY useSecureAuthentication.label   "Xác thực An toàn: ">
+<!ENTITY authMethod.label   "Phương thức xác thực: ">

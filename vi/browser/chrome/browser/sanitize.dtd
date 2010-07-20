@@ -58,5 +58,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Thao tác này không thể hoàn tác được.">
 
-<!ENTITY dialog.width                 "29em">
+<!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">

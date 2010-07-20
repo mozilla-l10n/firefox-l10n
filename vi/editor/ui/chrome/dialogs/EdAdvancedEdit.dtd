@@ -42,7 +42,7 @@
 <!ENTITY PropertyName.label             "Thuộc tính (Property): ">
 <!ENTITY currentattributesfor.label     "Thuộc tính hiện tại của: ">
 <!ENTITY tree.attributeHeader.label     "Thuộc tính">
-<!ENTITY tree.propertyHeader.label      "Property">
+<!ENTITY tree.propertyHeader.label      "Thuộc tính (Property)">
 <!ENTITY tree.valueHeader.label         "Giá trị">
 <!ENTITY tabHTML.label                  "Thuộc tính HTML">
 <!ENTITY tabCSS.label                   "Kiểu Bên Trong">

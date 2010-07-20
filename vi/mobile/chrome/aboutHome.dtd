@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Bắt đầu</span>">
+<!ENTITY aboutHome.recentTabs                   "Các thẻ từ lần dùng cuối của bạn">
+<!ENTITY aboutHome.remoteTabs                   "Thẻ từ máy tính khác của bạn">
+<!ENTITY aboutHome.recommendedAddons2           "Tiện ích cho &brandShortName; của bạn">
+<!ENTITY aboutHome.aboutMozilla                 "Thông tin về Mozilla">
+<!ENTITY aboutHome.openAllTabs                  "Mở tất cả trong thẻ">
+<!ENTITY aboutHome.noTabs                       "Không có thẻ nào từ lần dùng trước">
+<!ENTITY aboutHome.noAddons                     "Không có tiện ích được khuyên dùng">

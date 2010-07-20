@@ -50,12 +50,17 @@
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Chế độ ngoại tuyến">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>Bỏ chọn &quot;Duyệt web Ngoại tuyến&quot; trên trình đơn Tập tin, rồi thử lại.</li>
+  <li>Hãy thử lại. &brandShortName; sẽ cố gắng mở một kết nối và tải lại trang.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Chế độ ngoại tuyến">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "
@@ -150,6 +155,9 @@
 <!ENTITY phishingBlocked.longDesc "
 <p>Nhập bất kì thông tin nào vào trang này có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p><p>Những kiểu trang web giả mạo này được dùng trong các âm mưu lừa đảo - còn gọi là 'tấn công thả mồi giả' (phishing attack), trong đó chúng thường giả mạo thành các trang web và email mà bạn tin tưởng.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Bị Chặn bởi Chính Sách Bảo Vệ Nội Dung">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
 
 <!ENTITY securityOverride.linkText "Hoặc bạn có thể thêm một ngoại lệ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Đưa tôi ra khỏi đây!">

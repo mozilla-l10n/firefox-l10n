@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "M">
 <!ENTITY serverPort.label "Cổng:">
 <!ENTITY serverPort.accesskey "C">
-<!ENTITY alwaysUseUsername.label "Dùng tên và mật khẩu">
-<!ENTITY alwaysUseUsername.accesskey "D">
 <!ENTITY userName.label "Tên Đăng Nhập:">
 <!ENTITY userName.accesskey "N">
-<!ENTITY useSecAuth.label "Dùng xác thực an toàn">
-<!ENTITY useSecAuth.accesskey "x">
 <!ENTITY connectionSecurity.label "Bảo mật kết nối:">
 <!ENTITY connectionSecurity.accesskey "k">
 <!ENTITY connectionSecurityType-0.label "Không có">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Máy chủ SMTP">
 <!ENTITY serverPortDefault.label "Mặc định:">
+<!ENTITY authMethod.label "Phương thức xác thực:">
+<!ENTITY authMethod.accesskey "x">

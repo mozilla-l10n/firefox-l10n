@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "s">
 <!ENTITY fccReplyFollowsParent.label "Đặt các thư trả lời trong thư mục chứa thư đang được bạn trả lời">
 <!ENTITY fccReplyFollowsParent.accesskey "r">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc những địa chỉ email này:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Ngăn cách các địa chỉ bằng dấu phẩy">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc những địa chỉ email này:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.emptytext "Ngăn cách các địa chỉ bằng dấu phẩy">
 <!ENTITY saveMessageDlg.label "Hiện hộp thoại xác nhận khi thư được lưu">
 <!ENTITY saveMessageDlg.accesskey "o">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

@@ -49,44 +49,63 @@
 <!ENTITY newevent.to.label                  "Tới" >
 <!ENTITY newevent.attendees.notify.label    "Thông báo khách tham dự">
 
-<!ENTITY newevent.status.label                "Trạng thái" >
-<!ENTITY newevent.status.accesskey            "r" >
-<!ENTITY newevent.status.none.label           "Không xác định" >
-<!ENTITY newevent.status.none.accesskey       "K" >
-<!ENTITY newevent.status.cancelled.label      "Đã hủy" >
-<!ENTITY newevent.status.cancelled.accesskey  "h" >
-<!ENTITY newevent.status.tentative.label      "Phân vân" >
-<!ENTITY newevent.status.tentative.accesskey  "P" >
-<!ENTITY newevent.status.confirmed.label      "Đã xác nhận" >
-<!ENTITY newevent.status.confirmed.accesskey  "c" >
-<!ENTITY newevent.status.needsaction.label    "Cần thao tác" >
-<!ENTITY newevent.status.inprogress.label     "Đang xử lí" >
-<!ENTITY newevent.status.completed.label      "Xong vào" >
+<!ENTITY newevent.status.label                    "Trạng thái" >
+<!ENTITY newevent.status.accesskey                "r" >
+<!ENTITY newevent.eventStatus.none.label          "Không xác định" >
+<!ENTITY newevent.eventStatus.none.accesskey      "K" >
+<!ENTITY newevent.todoStatus.none.label           "Không xác định" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Đã hủy" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "y" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Bị hủy" >
+<!ENTITY newevent.status.tentative.label          "Phân vân" >
+<!ENTITY newevent.status.tentative.accesskey      "P" >
+<!ENTITY newevent.status.confirmed.label          "Đã xác nhận" >
+<!ENTITY newevent.status.confirmed.accesskey      "c" >
+<!ENTITY newevent.status.needsaction.label        "Cần thao tác" >
+<!ENTITY newevent.status.inprogress.label         "Đang xử lí" >
+<!ENTITY newevent.status.completed.label          "Xong vào" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; hoàn tất">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Tập tin">
-<!ENTITY  event.menu.file.accesskey                       "T">
-<!ENTITY  event.menu.file.new.label                       "Mới">
-<!ENTITY  event.menu.file.new.accesskey                   "M">
-<!ENTITY  event.menu.file.new.event.label                 "Sự kiện">
-<!ENTITY  event.menu.file.new.event.accesskey             "S">
-<!ENTITY  event.menu.file.new.message.label               "Thư">
-<!ENTITY  event.menu.file.new.message.accesskey           "T">
-<!ENTITY  event.menu.file.new.contact.label               "Tên liên hệ trên Sổ Địa Chỉ">
-<!ENTITY  event.menu.file.new.contact.accesskey           "C">
-<!ENTITY  event.menu.file.close.label                     "Đóng">
-<!ENTITY  event.menu.file.close.accesskey                 "g">
-<!ENTITY  event.menu.file.save.label                      "Lưu">
-<!ENTITY  event.menu.file.save.accesskey                  "L">
+<!ENTITY  event.menu.item.new.label                       "Mới">
+<!ENTITY  event.menu.item.new.accesskey                   "M">
+<!ENTITY  event.menu.item.new.event.label                 "Sự kiện">
+<!ENTITY  event.menu.item.new.event.accesskey             "S">
+<!ENTITY  event.menu.item.new.task.label                  "Tác vụ">
+<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.message.label               "Thông điệp">
+<!ENTITY  event.menu.item.new.message.accesskey           "i">
+<!ENTITY  event.menu.item.new.contact.label               "Tên liên hệ trên Sổ Địa Chỉ">
+<!ENTITY  event.menu.item.new.contact.accesskey           "a">
+<!ENTITY  event.menu.item.close.label                     "Đóng">
+<!ENTITY  event.menu.item.close.accesskey                 "g">
+<!ENTITY  event.menu.item.save.label                      "Lưu">
+<!ENTITY  event.menu.item.save.accesskey                  "L">
+<!ENTITY  event.menu.item.saveandclose.label              "Lưu và Đóng">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "v">
 <!ENTITY  event.menu.item.delete.label                    "Xóa…">
 <!ENTITY  event.menu.item.delete.accesskey                "X">
-<!ENTITY  event.menu.file.page.setup.label                "Thiết lập Trang">
-<!ENTITY  event.menu.file.page.setup.accesskey            "p">
-<!ENTITY  event.menu.file.print.label                     "In">
-<!ENTITY  event.menu.file.print.accesskey                 "I">
+<!ENTITY  event.menu.item.page.setup.label                "Thiết lập Trang">
+<!ENTITY  event.menu.item.page.setup.accesskey            "p">
+<!ENTITY  event.menu.item.print.label                     "In">
+<!ENTITY  event.menu.item.print.accesskey                 "I">
 
 <!ENTITY  event.menu.edit.label                           "Chỉnh sửa">
 <!ENTITY  event.menu.edit.accesskey                       "C">
@@ -153,15 +172,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Rảnh">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "R">
 
-<!ENTITY event.help.label                                 "Trợ giúp">
-<!ENTITY event.help.accesskey                             "p">
-<!ENTITY event.help.release.notes.label                   "Ghi chú Phát hành">
-<!ENTITY event.help.release.notes.accesskey               "P">
-<!ENTITY event.help.help.label                            "Trợ giúp &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "T">
-<!ENTITY event.help.about.label                           "Thông tin về &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "v">
-
 <!ENTITY event.invite.attendees.label                     "Mời khách Tham dự…">
 <!ENTITY event.invite.attendees.accesskey                 "M">
 <!ENTITY event.email.attendees.label                      "Gửi Email cho Tất cả Khách tham dự…">
@@ -220,15 +230,13 @@
 <!ENTITY event.priority2.label                            "Ưu tiên:">
 
 <!ENTITY event.reminder.none.label                        "Không có nhắc việc " >
+<!ENTITY event.reminder.0minutes.before.label             "0 phút trước" >
 <!ENTITY event.reminder.5minutes.before.label             "5 phút trước lúc đó" >
-<!ENTITY event.reminder.10minutes.before.label            "10 phút trước lúc đó" >
 <!ENTITY event.reminder.15minutes.before.label            "15 phút trước lúc đó" >
 <!ENTITY event.reminder.30minutes.before.label            "30 phút trước lúc đó" >
-<!ENTITY event.reminder.45minutes.before.label            "45 phút trước lúc đó" >
 <!ENTITY event.reminder.1hour.before.label                "1 tiếng trước lúc đó" >
 <!ENTITY event.reminder.2hours.before.label               "2 tiếng trước lúc đó" >
-<!ENTITY event.reminder.5hours.before.label               "5 tiếng trước lúc đó" >
-<!ENTITY event.reminder.15hours.before.label              "15 tiếng trước lúc đó" >
+<!ENTITY event.reminder.12hours.before.label              "12 giờ trước" >
 <!ENTITY event.reminder.1day.before.label                 "1 ngày trước lúc đó" >
 <!ENTITY event.reminder.2days.before.label                "2 ngày trước lúc đó" >
 <!ENTITY event.reminder.1week.before.label                "1 tuần trước lúc đó" >
@@ -359,6 +367,7 @@
 <!ENTITY event.attendee.role.required           "Người tham dự Quan trọng">
 <!ENTITY event.attendee.role.optional           "Người tham dự Phụ">
 <!ENTITY event.attendee.role.chair              "Chủ tọa">
+<!ENTITY event.attendee.role.nonparticipant     "Không có Người tham dự">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vui lòng Xác định Múi giờ">

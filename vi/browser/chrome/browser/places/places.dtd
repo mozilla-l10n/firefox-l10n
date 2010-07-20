@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "L">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Đánh Dấu Trang Này…">
+<!ENTITY cmd.bookmarkLink.accesskey     "n">
 <!ENTITY cmd.delete.label               "Xóa Trang Này">
 <!ENTITY cmd.delete.accesskey           "X">
 <!ENTITY cmd.deleteDomainData.label     "Quên Trang Này">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "v">
 
 <!ENTITY backCmd.label       "Lùi">
-<!ENTITY backCmd.accesskey   "L">
 <!ENTITY backButton.tooltip  "Quay lại">
 
 <!ENTITY forwardCmd.label       "Tiến">
-<!ENTITY forwardCmd.accesskey   "T">
 <!ENTITY forwardButton.tooltip  "Tiến tới">
 
 <!ENTITY detailsPane.more.label "Thêm">
