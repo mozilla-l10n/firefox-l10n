@@ -22,6 +22,10 @@
 <!ENTITY  closeOtherTabs.accesskey  "A">
 <!ENTITY  openTabInNewWindow.label    "In neuem Fenster öffnen">
 <!ENTITY  openTabInNewWindow.accesskey "F">
+<!ENTITY  pinTab.label                       "In App-Tab umwandeln">
+<!ENTITY  pinTab.accesskey                   "u">
+<!ENTITY  unpinTab.label                     "In normalen Tab umwandeln">
+<!ENTITY  unpinTab.accesskey                 "n">
 <!ENTITY  bookmarkThisTab.label        "Lesezeichen für diesen Tab hinzufügen">
 <!ENTITY  bookmarkThisTab.accesskey   "T">
 <!ENTITY  bookmarkAllTabs.label       "Lesezeichen für alle Tabs hinzufügen…">
