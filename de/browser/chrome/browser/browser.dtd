@@ -12,28 +12,28 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privater Modus)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label           "Neuer Tab">
-<!ENTITY  newTab.accesskey       "N">
-<!ENTITY  reloadTab.label        "Tab neu laden">
-<!ENTITY  reloadTab.accesskey         "l">
-<!ENTITY  reloadAllTabs.label    "Alle Tabs neu laden">
-<!ENTITY  reloadAllTabs.accesskey         "T">
-<!ENTITY  closeOtherTabs.label   "Andere Tabs schließen">
-<!ENTITY  closeOtherTabs.accesskey  "A">
-<!ENTITY  openTabInNewWindow.label    "In neuem Fenster öffnen">
-<!ENTITY  openTabInNewWindow.accesskey "F">
-<!ENTITY  pinTab.label                       "In App-Tab umwandeln">
-<!ENTITY  pinTab.accesskey                   "u">
-<!ENTITY  unpinTab.label                     "In normalen Tab umwandeln">
-<!ENTITY  unpinTab.accesskey                 "n">
-<!ENTITY  bookmarkThisTab.label        "Lesezeichen für diesen Tab hinzufügen">
-<!ENTITY  bookmarkThisTab.accesskey   "T">
-<!ENTITY  bookmarkAllTabs.label       "Lesezeichen für alle Tabs hinzufügen…">
-<!ENTITY  bookmarkAllTabs.accesskey   "L">
-<!ENTITY  undoCloseTab.label          "Geschlossenen Tab wiederherstellen">
-<!ENTITY  undoCloseTab.accesskey      "G">
-<!ENTITY  closeTab.label         "Tab schließen">
-<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  newTab.label           			"Neuer Tab">
+<!ENTITY  newTab.accesskey       			"N">
+<!ENTITY  reloadTab.label        			"Tab neu laden">
+<!ENTITY  reloadTab.accesskey         		"l">
+<!ENTITY  reloadAllTabs.label    			"Alle Tabs neu laden">
+<!ENTITY  reloadAllTabs.accesskey       	"T">
+<!ENTITY  closeOtherTabs.label   			"Andere Tabs schließen">
+<!ENTITY  closeOtherTabs.accesskey  		"A">
+<!ENTITY  openTabInNewWindow.label    		"In neuem Fenster öffnen">
+<!ENTITY  openTabInNewWindow.accesskey 		"F">
+<!ENTITY  pinTab.label                 	 	"In App-Tab umwandeln">
+<!ENTITY  pinTab.accesskey             		"u">
+<!ENTITY  unpinTab.label                	"In normalen Tab umwandeln">
+<!ENTITY  unpinTab.accesskey          		"n">
+<!ENTITY  bookmarkThisTab.label       		"Lesezeichen für diesen Tab hinzufügen">
+<!ENTITY  bookmarkThisTab.accesskey   		"T">
+<!ENTITY  bookmarkAllTabs.label       		"Lesezeichen für alle Tabs hinzufügen…">
+<!ENTITY  bookmarkAllTabs.accesskey   		"L">
+<!ENTITY  undoCloseTab.label          		"Geschlossenen Tab wiederherstellen">
+<!ENTITY  undoCloseTab.accesskey      		"G">
+<!ENTITY  closeTab.label         			"Tab schließen">
+<!ENTITY  closeTab.accesskey         		"c">
 
 <!ENTITY  listAllTabs.label      "Alle Tabs auflisten">
 
