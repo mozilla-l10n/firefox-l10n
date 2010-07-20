@@ -20,8 +20,6 @@
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  ftp.label                     "FTP ਪਰਾਕਸੀ:">
 <!ENTITY  ftp.accesskey                 "f">
-<!ENTITY  gopher.label                  "Gopher ਪਰਾਕਸੀ:">
-<!ENTITY  gopher.accesskey              "g">
 <!ENTITY  http.label                    "HTTP ਪਰਾਕਸੀ:">
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL ਪਰਾਕਸੀ:">
@@ -36,8 +34,6 @@
 <!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ਇਸ ਲਈ ਕੋਈ ਪਰਾਕਸੀ ਨਹੀਂ:">
 <!ENTITY  noproxy.accesskey             "n">

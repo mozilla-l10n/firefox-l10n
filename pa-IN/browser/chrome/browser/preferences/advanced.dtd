@@ -26,7 +26,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
 <!ENTITY checkNow.accesskey              "N">
-
+<!ENTITY submitCrashes.label             "ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜੋ">
+<!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY networkTab.label                "ਨੈੱਟਵਰਕ">
 
 <!ENTITY connection.label                "ਕੁਨੈਕਸ਼ਨ">

@@ -1,4 +1,5 @@
 <!ENTITY  brandShortName        "ਫਾਇਰਫਾਕਸ">
 <!ENTITY  brandFullName         "ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ">
 <!ENTITY  vendorShortName       "ਮੋਜ਼ੀਲਾ">
-<!ENTITY  logoCopyright         "ਫਾਇਰਫਾਕਸ ਅਤੇ ਫਾਇਰਫਾਕਸ ਲੋਗੋ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ (ਟਰੇਂਡਮਾਰਕ) ਹਨ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।">
+<!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
+<!ENTITY  trademarkInfo         " Firefox and the Firefox logos are trademarks of the Mozilla Foundation. Some of the trademarks used under license from The Charlton Company.">

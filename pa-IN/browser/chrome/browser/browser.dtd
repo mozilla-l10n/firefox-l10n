@@ -10,6 +10,31 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
+<!-- Tab context menu -->
+<!ENTITY  newTab.label                       "ਨਵੀਂ ਟੈਬ">
+<!ENTITY  newTab.accesskey                   "N">
+<!ENTITY  reloadTab.label                    "ਟੈਬ ਮੁੜ-ਲੋਡ ਕਰੋ">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "ਸਭ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "ਹੋਰ ਟੈਬਾਂ ਬੰਦ ਕਰੋ">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
+<!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  pinTab.label                       "ਐਪਲੀਕੇਸ਼ਨ ਟੈਬ ਬਣਾਓ">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "ਸਧਾਰਨ ਟੈਬ ਬਣਾਓ">
+<!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  bookmarkThisTab.label              "ਇਹ ਟੈਬ ਬੁੱਕਮਾਰਕ ਕਰੋ">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "ਟੈਬ ਬੰਦ ਕਰੋ">
+<!ENTITY  closeTab.accesskey                 "c">
+
+<!ENTITY  listAllTabs.label      "ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ">
 
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
@@ -28,7 +53,7 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "...ਇੰਪੋਰਟ">
 <!ENTITY import.accesskey "I">
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "ਮੇਨੂ ਬਾਰੇ">
 <!ENTITY menubarCmd.accesskey "M">
 
 <!ENTITY goOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
@@ -51,7 +76,7 @@
 <!ENTITY fullScreenCmd.label "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY showAllTabsCmd.label "ਸਭ ਟੈਬ ਵੇਖੋ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "ਨਿਊਨਤਮ">
@@ -93,7 +118,7 @@
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ ਉੱਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਪੇਜ਼ ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY feedButton.tooltip           "Subscribe to this page…">
+<!ENTITY feedButton.tooltip           "…ਇਹ ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY locationItem.title           "ਟਿਕਾਣਾ">
 <!ENTITY searchItem.title             "ਖੋਜ">
@@ -107,6 +132,12 @@
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmarksMenuButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
+<!ENTITY viewBookmarksSidebar.label         "ਬਾਹੀ 'ਚ ਵੇਖੋ">
+<!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -132,12 +163,30 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ਐਡ-ਆਨ">
-<!ENTITY addons.tooltip               "ਇੰਸਟਾਲ ਕੀਤੇ ਐਂਡ-ਆਨ ਵੇਖੋ ਅਤੇ ਦੇਖਭਾਲ ਕਰੋ">
+
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "ਗਲਤੀ ਕਨਸੋਂਲ">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY hudConsoleCmd.label          "Heads Up Display">
+<!ENTITY hudConsoleCmd.accesskey      "U">
+<!ENTITY hudConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "ਜਾਂਚ">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "ਜਾਂਚ">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "ਅੱਗੇ">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "ਪਿੱਛੇ">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "ਸਟਾਈਲ">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "ਸਟਾਈਲ">
 
 <!ENTITY fileMenu.label         "ਫਾਇਲ">
 <!ENTITY fileMenu.accesskey       "F">
@@ -175,8 +224,7 @@
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY clearRecentHistoryCmd.label            "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearRecentHistoryCmd.accesskey        "H">
+
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੁਰੂ ਕਰੋ">
@@ -193,6 +241,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "ਪਸੰਦ...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewTabsOnTop.label            "ਟੈਬਾਂ ਉੱਤੇ">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 <!ENTITY historyMenu.label "ਅਤੀਤ">
@@ -211,11 +261,9 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਜਾਓ">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.bookmarkhistory.emptyText "ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਖੋਜ">
-<!ENTITY urlbar.bookmark.emptyText    "ਬੁੱਕਮਾਰਕ ਖੋਜ">
-<!ENTITY urlbar.history.emptyText     "ਖੋਜ ਅਤੀਤ">
-<!ENTITY urlbar.none.emptyText        "ਵੈੱਬ ਐਡਰੈੱਸ ਲਿਖੋ">
+<!ENTITY urlbar.switchToTab.label     "ਟੈਬ ਉੱਤੇ ਜਾਓ:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -271,7 +319,9 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ਇੱਕਲਾ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewVideoCmd.label           "ਵੀਡਿਓ ਵੇਖੋ">
+<!ENTITY viewImageInfoCmd.label       "ਚਿੱਤਰ ਜਾਣਕਾਰੀ ਵੇਖੋ">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewVideoCmd.label           "ਵਿਡੀਓ ਵੇਖੋ">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
@@ -302,29 +352,28 @@
 <!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "…ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "…ਵੀਡਿਓ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveVideoCmd.label           "…ਵਿਡੀਓ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "…ਆਡੀਓ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "…ਚਿੱਤਰ ਭੇਜੋ">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "…ਵੀਡਿਓ ਭੇਜੋ">
+<!ENTITY sendVideoCmd.label           "…ਵਿਡੀਓ ਭੇਜੋ">
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "…ਆਡੀਓ ਭੇਜੋ">
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "ਲਿੰਕ ਟੈਕਸਟ ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyLinkTextCmd.accesskey    "x">
+
 <!ENTITY copyImageCmd.label           "ਚਿੱਤਰ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ਚਿੱਤਰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "ਵੀਡਿਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
+<!ENTITY copyVideoURLCmd.label        "ਵਿਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ਆਡੀਓ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "B">
+
 <!ENTITY copyEmailCmd.label           "ਈਮੇਲ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ਇਹ ਫਰੇਮ">
@@ -343,6 +392,8 @@
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "ਕੰਟਰੋਲ ਓਹਲੇ">
 <!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "ਪੂਰੀ ਸਕਰੀਨ">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -378,7 +429,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
-<!ENTITY fullScreenButton.tooltip       "Display the window in full screen">
+<!ENTITY fullScreenButton.tooltip       "ਵਿੰਡੋ ਪੂਰੀ ਸਕਰਨੀ 'ਚ ਵੇਖੋ">
 
 <!ENTITY quitApplicationCmdWin.label       "ਬੰਦ ਕਰੋ">
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -461,5 +512,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 
-<!ENTITY allTabs.filter.emptyText "Search Tabs">
+<!ENTITY allTabs.filter.emptyText "ਟੈਬ ਖੋਜ">
 

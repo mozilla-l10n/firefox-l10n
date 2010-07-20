@@ -7,7 +7,5 @@
 <!ENTITY aboutVersion           "ਵਰਜਨ">
 <!ENTITY closeCmdGNOME.label        "ਬੰਦ ਕਰੋ">  
 <!ENTITY closeCmdGNOME.accesskey    "C">
-<!ENTITY copyrightInfo1             "&#169;੧੯੯੮-੨੦੦੯ ਲਈ ਯੋਗਦਾਨੀਆਂ ਕੋਲ। ਸਭ ਹੱਕ ਰਾਖਵੇਂ ਹਨ। (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "ਲਾਈਸੈਂਸ ਜਾਣਕਾਰੀ">
-<!ENTITY copyrightInfo2             ")।">
+<!ENTITY licenseLinkSuffix          "।">

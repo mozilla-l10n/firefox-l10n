@@ -95,9 +95,7 @@
 <!ENTITY certmgr.certserver                   "ਸਰਵਰ">
 <!ENTITY certmgr.override_lifetime            "ਲਾਇਫ-ਟਾਈਮ">
 <!ENTITY certmgr.certname                     "ਸਰਟੀਫਿਕੇਟ ਨਾਂ">
-<!ENTITY certmgr.typesofoverrides             "ਛੋਟ">
 <!ENTITY certmgr.tokenname                    "ਸੁਰੱਖਿਆ ਜੰਤਰ">
-<!ENTITY certmgr.purpose                      "ਮਕਸਦ">
 <!ENTITY certmgr.issued                       "ਜਾਰੀ ਕੀਤਾ">
 <!ENTITY certmgr.expires                      "ਮਿਆਦ">
 <!ENTITY certmgr.email                        "ਈਮੇਲ ਐਡਰੈੱਸ">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                   "ਵੇਖੋ…">
 <!ENTITY certmgr.view2.accesskey               "V">
-<!ENTITY certmgr.edit2.label                   "ਸੋਧ…">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "ਭਰੋਸਾ ਸੋਧ…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA ਟਰੱਸਟ ਸੋਧ">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "ਸ਼ਾਮਲ">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                 "ਹਟਾਓ…">
 <!ENTITY certmgr.delete2.accesskey             "D">
+<!ENTITY certmgr.delete_builtin.label         "ਹਟਾਓ ਜਾਂ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                 "ਬੈਕਅੱਪ…">
 <!ENTITY certmgr.backup2.accesskey             "B">
 <!ENTITY certmgr.backupall2.label              "ਸਭ ਬੈਕਅੱਪ…">

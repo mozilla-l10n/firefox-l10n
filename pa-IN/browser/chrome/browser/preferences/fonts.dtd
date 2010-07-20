@@ -53,6 +53,7 @@
 <!ENTITY  font.langGroup.telugu                   "ਤੇਲਗੂ">
 <!ENTITY  font.langGroup.kannada                  "ਕੰਨੜ">
 <!ENTITY  font.langGroup.sinhala                  "ਸਿੰਹਾਲਾ">
+<!ENTITY  font.langGroup.tibetan                  "ਤਿੱਬਤੀ">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "ਘੱਟੋ-ਘੱਟ ਫੋਂਟ ਸਾਈਜ਼:">
 <!ENTITY minSize.accesskey                        "z">
