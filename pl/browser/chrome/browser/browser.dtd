@@ -362,7 +362,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "d">
 <!ENTITY copyAudioURLCmd.label        "Kopiuj adres dźwięku">
 <!ENTITY copyAudioURLCmd.accesskey    "d">
-<!ENTITY blockImageCmd.accesskey	"l">
 <!ENTITY copyEmailCmd.label "Kopiuj adres e-mail" >
 <!ENTITY copyEmailCmd.accesskey "e" >
 <!ENTITY thisFrameMenu.label "Ramka" >
