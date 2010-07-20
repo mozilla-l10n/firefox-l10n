@@ -48,7 +48,7 @@
 <!ENTITY aboutSupport.appBasicsName                "Pavadinimas">
 <!ENTITY aboutSupport.appBasicsVersion             "Laida">
 <!ENTITY aboutSupport.appBasicsProfileDir          "Profilio aplankas">
-<!ENTITY aboutSupport.appBasicsPlugins             "Įdiegti priedai">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins      "Įjungti priedai">
 <!ENTITY aboutSupport.appBasicsBuildConfig         "Darinio konfigūracija">
 
 <!ENTITY aboutSupport.show.label                   "Atverti aplanką">

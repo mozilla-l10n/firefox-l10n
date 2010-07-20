@@ -36,6 +36,7 @@
 <!ENTITY places.library.height          "500">
 <!ENTITY organize.label                 "Tvarkyti">
 <!ENTITY organize.accesskey             "T">
+<!ENTITY organize.tooltip               "Tvarkyti adresyną">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Užverti">
@@ -45,7 +46,8 @@
 <!ENTITY edit.accesskey                 "T">
 <!ENTITY views.label                    "Rodymas">
 <!ENTITY views.accesskey                "R">
-<!ENTITY view.columns.label             "Rodyti stulpelius">
+<!ENTITY views.tooltip                  "Keisti rodymą">
+<!ENTITY view.columns.label             "Rodomi stulpeliai">
 <!ENTITY view.columns.accesskey         "s">
 <!ENTITY view.sort.label                "Rikiavimas">
 <!ENTITY view.sort.accesskey            "R">
@@ -137,8 +139,9 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label   "Importas ir atsarginės kopijos">
+<!ENTITY maintenance.label      "Importas ir atsarginės kopijos">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importuoti adresyną arba kurti jo atsarginę kopiją">
 
 <!ENTITY backCmd.label       "Atgal">
 <!ENTITY backButton.tooltip  "Eiti atgal">
