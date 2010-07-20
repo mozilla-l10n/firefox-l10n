@@ -77,6 +77,8 @@
 <p>ਇਹ ਪੇਜ਼ ਉੱਤੇ ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਜਾਂ ਧੋਖਾ (ਫਰਾਡ) ਹੋਣ ਦਾ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।</p>
 <p>ਇਸ ਟਾਈਪ ਦੀਆਂ ਵੈੱਬ ਧੋਖਾਧੜੀਆਂ ਨੂੰ ਫਿਸ਼ਿੰਗ ਦੇ ਰੂਪ ਵਿੱਚ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਗਲਤ ਵੈੱਬ ਪੇਜ਼ ਅਤੇ ਈਮੇਲ ਨੂੰ ਤੁਹਾਨੂੰ ਯਕੀਨ ਦੁਆਉਣ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।</p>
 ">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

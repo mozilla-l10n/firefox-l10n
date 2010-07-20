@@ -151,6 +151,9 @@
 <p>ਇਸ ਟਾਈਪ ਦੀਆਂ ਵੈੱਬ ਧੋਖਾਧੜੀਆਂ ਨੂੰ ਫਿਸ਼ਿੰਗ ਹਮਲੇ ਕਿਹਾ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਫਰੇਬੀ ਵੈੱਬ ਪੇਜ਼ ਅਤੇ ਈਮੇਲ ਨੂੰ ਤੁਹਾਡੇ ਭਰੋਸੇਯੋਗ ਦੀ ਨਕਲ ਦੇ ਰੂਪ ਵਿੱਚ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਪਾਲਸੀ ਰਾਹੀਂ ਪਾਬੰਦੀ">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਇੱਕ ਛੋਟ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ...">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਕੱਢੋ">
 <!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ">

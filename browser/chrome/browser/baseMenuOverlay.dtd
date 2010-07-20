@@ -10,9 +10,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label	  "ਮੱਦਦ" >
 <!ENTITY helpMenuWin.accesskey	  "c" >
-<!ENTITY aboutCmd.label           "&brandFullName; ਦੇ ਬਾਰੇ">
-<!ENTITY aboutCmd.accesskey       "m">
-<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY aboutProduct.label       "&brandShortName; ਬਾਰੇ">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; ਮੱਦਦ">
 <!ENTITY productHelp.accesskey    "H">
 
 <!ENTITY helpForIEUsers.label     "ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ ਯੂਜ਼ਰਾਂ ਲਈ">
@@ -23,9 +23,8 @@
 
 <!ENTITY helpReleaseNotes.label         "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
 <!ENTITY helpReleaseNotes.accesskey     "N">
-
-<!ENTITY helpTroubleshooting.label      "Troubleshooting Information…">
-<!ENTITY helpTroubleshooting.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY updateCmd.label                "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ...">
 

@@ -2,7 +2,8 @@
 
 <!ENTITY     cookiesonsystem.label          "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੇ ਇਹ ਕੂਕੀਜ਼ ਸੰਭਾਲੇ ਗਏ ਹਨ:">
 <!ENTITY     cookiename.label               "ਕੂਕੀਜ਼ ਨਾਂ">
-<!ENTITY     cookiedomain.label             "ਸਾਇਟ"> 
+<!ENTITY     cookiedomain.label             "ਸਾਇਟ">
+<!ENTITY     button.removecookies.label     "ਕੂਕੀਜ਼ ਹਟਾਓ">
 <!ENTITY     button.removecookie.label      "ਕੂਕੀਜ਼ ਹਟਾਓ">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "ਸਭ ਕੂਕੀਜ਼ ਹਟਾਓ">

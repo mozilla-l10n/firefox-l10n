@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "ਸੰਭਾਲੇ ਪਾਸਵਰਡ…">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "ਚੇਤਾਵਨੀ ਸੁਨੇਹੇ">
-
-<!ENTITY  chooseWarnings.label          "ਚੋਣ ਕਰੋ ਕਿ ਵੈੱਬ ਦੀ ਝਲਕ ਵੇਖਣ ਦੌਰਾਨ ਤੁਸੀਂ ਕਿਹੜੇ ਚੇਤਾਵਨੀ ਸੁਨੇਹੇ ਵੇਖਣੇ ਚਾਹੁੰਦੇ ਹੋ">
-
-<!ENTITY  warningSettings.label         "ਸੈਟਿੰਗ...">
-<!ENTITY  warningSettings.accesskey     "S">

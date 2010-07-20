@@ -56,18 +56,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ਸਭ ਮੌਜੂਦਾ ਅਤੀਤ ਸਾਫ਼ ਕਰਨਾ">
 <!ENTITY  dontrememberActions.post.label         "।">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; ਨੂੰ ਆਟੋਮੈਟਿਕ ਹੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਵਿੱਚ ਚਲਾਉ">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਵਰਤੋਂ">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "ਮੇਰੀ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "ਦਿਨ">
+<!ENTITY  rememberHistory.label      "ਮੇਰੀ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "ਡਾਊਨਲੋਡ ਅਤੀਤ  ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberDownload.accesskey     "d">

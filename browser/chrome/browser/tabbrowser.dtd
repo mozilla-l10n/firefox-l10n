@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(ਬਿਨ-ਟਾਇਟਲ)">
-<!ENTITY  newTab.label           "ਨਵੀਂ ਟੈਬ">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "ਟੈਬ ਬੰਦ ਕਰੋ">
-<!ENTITY  closeTab.accesskey         "c">
-<!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "ਹੋਰ ਟੈਬਾਂ ਬੰਦ ਕਰੋ">
-<!ENTITY  reloadAllTabs.label    "ਸਭ ਟੈਬਾਂ ਰੀ-ਲੋਡ ਕਰੋ">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "ਟੈਬ ਰੀ-ਲੋਡ ਕਰੋ">
-<!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  openTabInNewWindow.label    "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
-<!ENTITY  openTabInNewWindow.accesskey "W">
-<!ENTITY  listAllTabs.label      "ਸਭ ਟੈਬਾਂ ਲਿਸਟ ਕਰੋ">
-<!ENTITY  bookmarkAllTabs.label       "ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ...">
-<!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label        "ਇਹ ਟੈਬ ਬੁੱਕਮਾਰਕ ਕਰੋ...">
-<!ENTITY  bookmarkThisTab.accesskey    "B">
-<!ENTITY  undoCloseTab.label          "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਖੋਲ੍ਹੋ">
-<!ENTITY  undoCloseTab.accesskey      "U">
-<!ENTITY  newTabButton.tooltip        "ਇੱਕ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੋ">
+<!ENTITY  newTabButton.tooltip        "ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੋ">
