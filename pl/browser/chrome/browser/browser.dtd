@@ -186,6 +186,16 @@
 <!ENTITY inspectMenu.accesskey        "Z">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "Zbadaj">
+<!ENTITY inspectButton.accesskey      "Z">
+<!ENTITY inspectNextButton.label      "Następny">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Poprzedni">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Styl">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Styl">
+
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
 <!ENTITY newNavigatorCmd.label "Nowe okno" >
