@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Atualização do aplicativo">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Verificando atualizações">
 <!ENTITY  updateCheck.label               "Localizando novas versões do &brandShortName;…">
 
@@ -37,7 +34,7 @@
 
 <!ENTITY  incompatibleList.title          "Encontradas extensões e temas incompatíveis">
 
-<!ENTITY  downloading.title               "Recebendo a atualização">
+<!ENTITY  downloadPage.title              "Recebendo o &brandShortName;">
 <!ENTITY  downloading.intro               "Recebendo a atualização…">
 <!ENTITY  connecting.label                "Conectando-se ao servidor de atualização…">
 <!ENTITY  verificationFailedText.label    "O &brandShortName; não pôde comprovar a integridade da atualização incremental recebida. Será efetuado o download do pacote completo de atualização.">
