@@ -18,7 +18,8 @@
 <!ENTITY aboutSupport.appBasicsName "Nazwa">
 <!ENTITY aboutSupport.appBasicsVersion "Wersja">
 <!ENTITY aboutSupport.appBasicsProfileDir "Katalog profilu">
-<!ENTITY aboutSupport.appBasicsPlugins "Zainstalowane wtyczki">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Włączone wtyczki">
+
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracja kompilacji">
 
 <!ENTITY aboutSupport.show.label "Otwórz folder zawierający">
