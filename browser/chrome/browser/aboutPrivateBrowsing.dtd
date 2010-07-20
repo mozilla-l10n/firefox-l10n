@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "O &brandShortName; não memorizará o histórico desta sessão.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "O &brandShortName; não está no modo de navegação privativa.">
 
-<!ENTITY privatebrowsingpage.description               "Nesse modo, o &brandShortName; não salva quais páginas foram visitadas, pesquisas, lista de downloads, dados fornecidos a páginas, cookies e arquivos temporários. Serão preservados arquivos salvos por downloads e novos favoritos.">
+<!ENTITY privatebrowsingpage.description               "Nesse modo, o &brandShortName; não salva quais páginas foram visitadas, nem pesquisas, lista de downloads, dados fornecidos a páginas, cookies e arquivos temporários. Serão preservados arquivos salvos por downloads e novos favoritos.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -15,7 +15,7 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Iniciar navegação privativa">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "I">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Para encerrar a navegação privativa, selecione “&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;” ou saia do &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStop                 "Para concluir a navegação privativa, selecione “&toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;” ou saia do &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart                "Para iniciar a navegação privativa, você pode também selecionar “&toolsMenu.label; &gt; &privateBrowsingCmd.start.label;”.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Este computador não possui o seu histórico de navegação. Entretanto, o seu provedor de internet ou empresa em que você trabalha podem registrar as páginas visitadas.">
