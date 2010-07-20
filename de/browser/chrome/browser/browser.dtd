@@ -370,7 +370,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Audio-Adresse kopieren">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey       "B">
 <!ENTITY copyEmailCmd.label           "E-Mail-Adresse kopieren">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Aktueller Frame">
