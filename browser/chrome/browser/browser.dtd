@@ -210,6 +210,16 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label               "Tirti">
+<!ENTITY inspectButton.accesskey           "T">
+<!ENTITY inspectNextButton.label           "Kitas">
+<!ENTITY inspectNextButton.accesskey       "K">
+<!ENTITY inspectPreviousButton.label       "Ankstesnis">
+<!ENTITY inspectPreviousButton.accesskey   "A">
+<!ENTITY inspectStyleButton.label          "Stilius">
+<!ENTITY inspectStyleButton.accesskey      "S">
+<!ENTITY inspectStylePanelTitle.label      "Stilius">
+
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
@@ -393,7 +403,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopijuoti garso adresą">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "N">
 <!ENTITY copyEmailCmd.label           "Kopijuoti el. pašto adresą">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Kadras">
