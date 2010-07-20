@@ -53,8 +53,8 @@
 <!ENTITY autoCheck.label                 "Tự động kiểm tra phiên bản mới của:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Tiện ích Đã cài">
-<!ENTITY enableAddonsUpdate.accesskey    "i">
+<!ENTITY enableAddonsUpdate2.label       "Tiện ích">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 <!ENTITY whenUpdatesFound.label          "Khi tìm thấy các bản cập nhật của &brandShortName;:">

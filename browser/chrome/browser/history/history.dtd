@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "Mở trong Cửa Sổ Mới">
 <!ENTITY openInNewWindow.accesskey "S">
-<!ENTITY bookmarkLink.label "Đánh Dấu Liên Kết Này…">
-<!ENTITY bookmarkLink.accesskey "u">
 <!ENTITY copyLink.label "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLink.accesskey "C">

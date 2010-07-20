@@ -3,5 +3,5 @@
 <!ENTITY date.heading               "Ngày Gửi">
 <!ENTITY noReports.label            "Chưa có báo cáo lỗi nào được gửi.">
 <!ENTITY noConfig.label             "Chương trình này không thể hiển thị các báo cáo lỗi. Tùy chỉnh <code>breakpad.reportURL</code> phải được thiết lập.">
-<!ENTITY clearReports.label         "Xóa Báo Cáo">
+<!ENTITY clearAllReports.label      "Xóa Toàn bộ Báo cáo">
 

@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "B">
 <!ENTITY folderCharsetOverride.label             "Áp dụng mặc định cho tất cả thư trong thư mục (sẽ bỏ qua thiết lập bảng mã riêng lẻ và tính năng tự động nhận diện)">
 <!ENTITY folderCharsetOverride.accesskey         "d">
-<!ENTITY folderRebuildSummaryFile.label          "Tạo lại Chỉ mục">
-<!ENTITY folderRebuildSummaryFile.accesskey      "C">
-<!ENTITY folderRebuildSummaryFileTip.label       "Tạo lại Tập tin Tóm tắt"> 
+<!ENTITY folderRebuildSummaryFileTip2.label      "Xây dựng lại Chỉ số Tập tin Tóm tắt">
+<!ENTITY folderRebuildSummaryFile2.label         "Sửa thư mục">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "S">
+<!ENTITY folderRebuildSummaryFile.explanation    "Đôi khi tập tin chỉ mục của thư mục (.msf) bị hư và thư tin trông có thể như bị biến mất hoặc các thư tin đã xóa lại hiện ra; sửa thư mục có thể khắc phục các vấn đề này.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Bao gồm thư tin trong thư mục này trong kết quả Tìm kiếm Bao quát">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Chính sách Sử dụng">
 <!ENTITY retentionUseAccount.label  "Sử dụng thiết lập tài khoản của tôi">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Đồng bộ hóa">
-<!ENTITY folderCheckForNewMessages.label         "Kiểm tra thư mới trong thư mục này">
-<!ENTITY folderCheckForNewMessages.accesskey     "K">
+<!ENTITY folderCheckForNewMessages2.label         "Khi lấy thư tin mới cho tài khoản này, luôn luôn kiểm tra thư mục này">
+<!ENTITY folderCheckForNewMessages2.accesskey     "K">
 
 <!ENTITY offlineFolder.check.label               "Chọn thư mục này để dùng ngoại tuyến">
 <!ENTITY offlineFolder.check.accesskey           "C">

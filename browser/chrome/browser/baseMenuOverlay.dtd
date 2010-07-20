@@ -12,37 +12,30 @@
 <!ENTITY helpMenuWin.accesskey    "p">
 <!ENTITY aboutCmd.label           "Thông tin về &brandFullName;">
 <!ENTITY aboutCmd.accesskey       "v">
-<!ENTITY helpContents.label       "Nội dung Trợ giúp">
-<!ENTITY helpContents.accesskey   "T">
-<!ENTITY helpContentsMac.label    "Trợ giúp &brandShortName;">
+<!ENTITY productHelp.label        "Trợ giúp &brandShortName;">
+<!ENTITY productHelp.accesskey    "p">
 <!ENTITY helpForIEUsers.label     "Dành cho Người dùng Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Ghi chú Phát hành">
 <!ENTITY helpReleaseNotes.accesskey     "P">
+
+<!ENTITY helpTroubleshooting.label      "Thông tin Gỡ rối vấn đề…">
+<!ENTITY helpTroubleshooting.accesskey  "G">
+
 <!ENTITY updateCmd.label                "Tìm bản Cập nhật…">
-<!ENTITY updateCmd.accesskey            "n">
 
 <!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "Dịch vụ">
 
 <!ENTITY hideThisAppCmdMac.label        "Ẩn &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ẩn các Chương trình khác">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">

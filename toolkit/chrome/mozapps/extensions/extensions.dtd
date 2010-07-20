@@ -20,15 +20,16 @@
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "Tìm bản Cập nhật">
 <!ENTITY cmd.checkUpdatesAll.accesskey    "T">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Tìm các bản Cập nhật cho các Tiện ích của bạn">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tìm các bản Cập nhật cho các Giao diện của bạn">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Tìm cập nhật cho Tiện ích của bạn">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Tìm cập nhật cho Giao diện của bạn">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Tìm cập nhật cho Phần bổ trợ của bạn">
 <!ENTITY cmd.installLocalFile.label       "Cài đặt…">
 <!ENTITY cmd.installLocalFile.accesskey   "C">
 <!ENTITY cmd.installFileAddon.tooltip     "Cài đặt một Tiện ích">
 <!ENTITY cmd.installFileTheme.tooltip     "Cài đặt một Giao diện">
-<!ENTITY cmd.installUpdatesAll.label      "Cài đặt các Cập nhật">
-<!ENTITY cmd.installUpdatesAll.accesskey  "C">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Cài đặt các bản cập nhật đã chọn">
+<!ENTITY cmd.installUpdatesAll2.label     "Cài đặt Cập nhật">
+<!ENTITY cmd.installUpdatesAll2.accesskey "C">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Cài đặt các bản cập nhật đã chọn">
 <!ENTITY cmd.restartApp2.label            "Khởi động lại &brandShortName;">
 <!ENTITY cmd.restartApp2.accesskey        "K">
 <!ENTITY cmd.restartApp2.tooltip          "Khởi động lại &brandShortName; để tiến hành thay đổi">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Cần các mục phụ.">
 <!ENTITY blocklisted.label                "Đã vô hiệu hóa để bảo vệ bạn.">
 <!ENTITY softBlocklisted.label            "Được biết đến như là nguyên nhân gây ra các vấn đề bảo mật và ổn định.">
+<!ENTITY outdated.label                   "Hiện đang có một phiên bản mới hơn, an toàn hơn.">
 <!ENTITY toBeDisabled.label               "Tiện ích này sẽ bị vô hiệu hóa khi &brandShortName; được khởi động lại.">
 <!ENTITY toBeEnabled.label                "Tiện ích này sẽ được kích hoạt khi &brandShortName; được khởi động lại.">
 <!ENTITY toBeInstalled.label              "Tiện ích này sẽ được cài đặt khi &brandShortName; được khởi động lại.">
@@ -136,7 +138,7 @@
 <!ENTITY emptySearch.button               "OK">
 <!ENTITY cancelSearch.button              "Hủy bỏ">
 <!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Tìm hiểu Thêm">
+<!ENTITY searchResultHomepage.value       "Tìm hiểu thêm">
 <!ENTITY searchBox.label                  "Tìm Tất cả các Tiện ích">
 <!ENTITY recommendedResults.label         "Xem Tất cả các Tiện ích được khuyên dùng">
 <!ENTITY searchResultConnecting.label     "Đang kết nối…">

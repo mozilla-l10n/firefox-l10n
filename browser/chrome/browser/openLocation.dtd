@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "Chọn Tập Tin…">
 <!ENTITY newWindow.label "Cửa Sổ Mới">
 <!ENTITY newTab.label "Thẻ Mới">
-<!ENTITY topWindow.label "Cửa Sổ Hiện Tại">
+<!ENTITY topTab.label "Thẻ hiện tại">
 <!ENTITY caption.label "Mở Địa Chỉ Web">
 <!ENTITY openWhere.label "Mở trong:">
 <!ENTITY openBtn.label "Mở">

@@ -68,8 +68,8 @@
 <!ENTITY pref.calendar.advanced.update.autoCheck.label "Tự động kiểm tra phiên bản mới của:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Những Tiện-ích đã cài">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "N">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Tiện ích Đã cài">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "i">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Khi tìm thấy các bản cập nhật của &brandShortName;:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Hỏi tôi nên làm gì">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "H">

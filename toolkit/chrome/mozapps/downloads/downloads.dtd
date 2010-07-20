@@ -17,8 +17,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "H">
 <!ENTITY cmd.show.label                   "Mở Thư Mục Chứa">
 <!ENTITY cmd.show.accesskey               "c">
-<!ENTITY cmd.showMac.label                "Hiện trong trình Tìm kiếm">
-<!ENTITY cmd.showMac.accesskey            "k">
+<!ENTITY cmd.showMac.label                "Hiện trong Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Mở">
 <!ENTITY cmd.open.accesskey               "M">
 <!ENTITY cmd.openWith.label               "Mở Bằng…">

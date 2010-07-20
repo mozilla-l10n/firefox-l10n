@@ -1,0 +1,13 @@
+<!ENTITY firstrun.title                "Chào mừng đến &brandShortName;">
+<!ENTITY firstrun.heading              "Để giúp bạn bắt đầu, đây là một số tiện ích và tính năng thông dụng nhất giúp bạn tận dụng hết &brandShortName;.">
+<!ENTITY firstrun.recommended          "Khuyên dùng:">
+<!ENTITY firstrun.weave.title          "Tải Weave Sync">
+<!ENTITY firstrun.weave.description    "Chia sẻ &brandShortName; lược sử, mật khẩu, trang đánh dấu &amp; thẻ của giữa máy tính bàn &amp; di động của bạn">
+<!ENTITY firstrun.starter.title        "Tải Bộ sưu tập Đồ nghề cho Người mới bắt đầu">
+<!ENTITY firstrun.starter.description  "Cài đặt các tiện ích khuyên dùng này để cải thiện trải nghiệm &brandShortName; của bạn">
+<!ENTITY firstrun.tour.title           "Dạo qua một Vòng">
+<!ENTITY firstrun.tour.description     "Xem đoạn phim này để tự làm quen với cách khám phá và tìm kiếm các tính năng mới">
+<!ENTITY firstrun.features             "Xem thêm Tính năng Khác">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Chính sách Riêng tư">
+<!ENTITY firstrun.follow               "Theo đuôi chúng tôi trên:">

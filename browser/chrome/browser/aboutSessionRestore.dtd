@@ -2,7 +2,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Hừm, thật là xấu hổ quá.">
+<!ENTITY restorepage.errorTitle     "Hừm, thật là ngại quá.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; gặp vấn đề khi đang khôi phục các cửa sổ và thẻ của bạn. Việc này thường có nguyên nhân từ một trang web được mở gần đây.">
 <!ENTITY restorepage.tryThis        "Bạn có thể thử:">
 <!ENTITY restorepage.restoreSome    "Xóa các thẻ mà bạn nghĩ là nguyên nhân gây ra vấn đề">

@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "thao tác khác">
-<!ENTITY otherActionsShowConversation.label "hiện trong hội thoại">
-<!ENTITY otherActionsShowConversation.accesskey "o">
+<!ENTITY otherActionsOpenConversation.label "mở trong hội thoại">
+<!ENTITY otherActionsOpenConversation.accesskey "o">
 <!ENTITY otherActionsOpenInNewWindow.label "mở trong cửa sổ mới">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "s">
 <!ENTITY otherActionsOpenInNewTab.label "mở trong thẻ mới">
@@ -95,7 +95,7 @@
 <!ENTITY saveAsMenuItem.label "lưu thành…">
 <!ENTITY saveAsMenuItem.accesskey "l">
 <!ENTITY viewSourceMenuItem.label "xem mã nguồn">
-<!ENTITY viewSourceMenuItem.accesskey "m">
+<!ENTITY viewSourceMenuItem.accesskey "x">
 <!ENTITY otherActionsPrint.label "in…">
 <!ENTITY otherActionsPrint.accesskey "i">
 
