@@ -21,9 +21,9 @@
 <!ENTITY editBookmarkRemove.label "Eliminar">
 <!ENTITY editBookmarkDone.label "Terminar">
 <!ENTITY editBookmarkTags.label "Añada etiquetas aquí">
-<!ENTITY formHelper.previous "Anterior">
-<!ENTITY formHelper.next "Siguiente">
-<!ENTITY formHelper.done "Terminado">
+<!ENTITY contentNavigator.previous "Anterior">
+<!ENTITY contentNavigator.next "Siguiente">
+<!ENTITY selectHelper.done "Terminar">
 <!ENTITY addonsHeader.label "Complementos">
 <!ENTITY addonsLocal.label "Sus complementos">
 <!ENTITY addonsUpdate.label "Actualizar">
