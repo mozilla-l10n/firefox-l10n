@@ -95,10 +95,8 @@
 
 <!ENTITY certmgr.certname                     "Nome do certificado">
 <!ENTITY certmgr.certserver                   "Servidor">
-<!ENTITY certmgr.typesofoverrides             "Exceções">
 <!ENTITY certmgr.override_lifetime            "Duração">
 <!ENTITY certmgr.tokenname                    "Dispositivo de segurança">
-<!ENTITY certmgr.purpose                      "Finalidades">
 <!ENTITY certmgr.issued                       "Expedido em">
 <!ENTITY certmgr.expires                      "Válido até">
 <!ENTITY certmgr.email                        "Endereço de email">
@@ -108,8 +106,8 @@
 <!ENTITY certmgr.close.accesskey              "F">
 <!ENTITY certmgr.view2.label                  "Exibir…">
 <!ENTITY certmgr.view2.accesskey              "x">
-<!ENTITY certmgr.edit2.label                  "Editar…">
-<!ENTITY certmgr.edit2.accesskey              "d">
+<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Editar classificação de confiança da CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Adicionar">
@@ -118,6 +116,8 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Excluir…">
 <!ENTITY certmgr.delete2.accesskey            "c">
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Backup…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Fazer backup de tudo…">
