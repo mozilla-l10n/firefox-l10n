@@ -69,5 +69,5 @@
 
 <!ENTITY homearrow.tooltip    "ਪਹਿਲਾਂ ਪੇਜ਼">
 <!ENTITY endarrow.tooltip     "ਆਖਰੀ ਪੇਜ਼">
-<!ENTITY rightarrow.tooltip   "ਪੇਜ਼ ਅੱਗੇ">
-<!ENTITY leftarrow.tooltip    "ਪੇਜ਼ ਪਿੱਛੇ">
+<!ENTITY nextarrow.tooltip    "ਪੇਜ਼ ਅੱਗੇ">
+<!ENTITY previousarrow.tooltip "ਪੇਜ਼ ਪਿੱਛੇ">

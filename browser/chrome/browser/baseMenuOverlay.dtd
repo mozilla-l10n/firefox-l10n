@@ -17,7 +17,6 @@
 
 <!ENTITY helpForIEUsers.label     "ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ ਯੂਜ਼ਰਾਂ ਲਈ">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 
