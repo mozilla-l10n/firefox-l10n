@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip "Избиране на дата за преглед">
+<!ENTITY sunbird.cut.button.tooltip "Изрязване">
+<!ENTITY sunbird.copy.button.tooltip "Копиране">
+<!ENTITY sunbird.paste.button.tooltip "Поставяне">
+<!ENTITY sunbird.print.button.tooltip "Отпечатване на календар">
+<!ENTITY sunbird.delete.button.tooltip "Изтриване на избраното събитие">
+<!ENTITY sunbird.remotereload.button.tooltip "Презареждане на всички отдалечени календари">
+<!ENTITY sunbird.import.button.tooltip "Импортиране на събития от локален файл">
+<!ENTITY sunbird.export.button.tooltip "Експортиране на събития в локален файл">
+<!ENTITY sunbird.subscribe.button.tooltip "Абониране за календарен файл на отдалечен сървър">
+<!ENTITY sunbird.publish.button.tooltip "Публикуване на събития на отдалечен сървър">
+<!ENTITY sunbird.unifinder.button.tooltip "Намиране и показване на всички събития">
+<!ENTITY sunbird.edit.button.tooltip "Редактиране на избраното събитие">
+
+<!ENTITY sunbird.choosedate.button.label "Избор на дата">
+<!ENTITY sunbird.cut.button.label "Изрязване">
+<!ENTITY sunbird.copy.button.label "Копиране">
+<!ENTITY sunbird.paste.button.label "Поставяне">
+<!ENTITY sunbird.delete.button.label "Изтриване">
+<!ENTITY sunbird.remotereload.button.label "Презареждане">
+<!ENTITY sunbird.import.button.label "Импортиране">
+<!ENTITY sunbird.export.button.label "Експортиране">
+<!ENTITY sunbird.subscribe.button.label "Абониране">
+<!ENTITY sunbird.publish.button.label "Публикуване">
+<!ENTITY sunbird.unifinder.button.label "Намиране на събития">
+<!ENTITY sunbird.edit.button.label "Редактиране">
+
+<!ENTITY sunbird.flat.topbar.choosedate "Отиване на дата">
+<!ENTITY sunbird.flat.topbar.dayview "Дневен изглед">
+<!ENTITY sunbird.flat.topbar.weekview "Седмичен изглед">
+<!ENTITY sunbird.flat.topbar.monthview "Месечен изглед">
+<!ENTITY sunbird.flat.topbar.multiweekview "Многоседмичен изглед">
+
+<!ENTITY sunbird.dayview.accesskey "Д">
+<!ENTITY sunbird.weekview.accesskey "С">
+<!ENTITY sunbird.monthview.accesskey "М">
+<!ENTITY sunbird.multiweekview.accesskey "н">
+
+
+<!ENTITY sunbird.calendartab.label "Дата">
+<!ENTITY sunbird.listofcalendarstab.label "Календари">
+
+<!ENTITY sunbird.find.key "F">
+<!ENTITY sunbird.close.key "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label "Брой седмици">
+<!ENTITY sunbird.menu.numberofweeks.accesskey "Б">
+<!ENTITY sunbird.menu.numberofweeks.1 "1 седмица">
+<!ENTITY sunbird.menu.numberofweeks.2 "2 седмици">
+<!ENTITY sunbird.menu.numberofweeks.3 "3 седмици">
+<!ENTITY sunbird.menu.numberofweeks.4 "4 седмици">
+<!ENTITY sunbird.menu.numberofweeks.5 "5 седмици">
+<!ENTITY sunbird.menu.numberofweeks.6 "6 седмици">
+<!-- customizable toolbars -->
+
+<!ENTITY sunbird.context.customize.label "Настройване…">
+<!ENTITY sunbird.context.customize.accesskey "Н">
+<!ENTITY sunbird.menu.customize.label "Настройване Ленти с инструменти…">
+<!ENTITY sunbird.menu.customize.accesskey "Л">
+<!ENTITY sunbird.maintoolbar.name "Главна лента с инструменти">
+<!ENTITY sunbird.maintoolbar.accesskey "Г">
+<!-- Sunbird Help -->
+
+<!ENTITY sunbird.help.label "Помощно съдържание">
+<!ENTITY sunbird.help.accesskey "П">
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
