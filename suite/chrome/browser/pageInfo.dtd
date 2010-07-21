@@ -1,5 +1,5 @@
 <!--null-->
-<!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 30em;">
+<!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 38em;">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Копировать">
 <!ENTITY copy.accesskey "К">
