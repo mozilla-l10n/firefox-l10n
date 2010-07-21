@@ -7,18 +7,18 @@
   about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "ਇਕਸਟੈਨਸ਼ਨ">
+<!ENTITY aboutSupport.extensionName "ਨਾਂ">
+<!ENTITY aboutSupport.extensionEnabled "ਚਾਲ ਹੈ">
+<!ENTITY aboutSupport.extensionVersion "ਵਰਜਨ">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsTitle "ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ">
+<!ENTITY aboutSupport.appBasicsName "ਨਾਂ">
+<!ENTITY aboutSupport.appBasicsVersion "ਵਰਜਨ">
+<!ENTITY aboutSupport.appBasicsProfileDir "ਪਰੋਫਾਇਲ ਡਾਇਰੈਕਟਰੀ">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ਚਾਲੂ ਪਲੱਗਇਨ">
+<!ENTITY aboutSupport.appBasicsBuildConfig "ਬਿਲਡ ਸੰਰਚਨਾ">
 
 <!ENTITY aboutSupport.show.label "Open Containing Folder">
 
@@ -31,7 +31,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "Name">
 <!ENTITY aboutSupport.modifiedPrefsValue "Value">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "ਇੰਸਟਾਲੇਸ਼ਨ ਅਤੀਤ">
+<!ENTITY aboutSupport.updateHistoryTitle "ਅੱਪਡੇਟ ਅਤੀਤ">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
