@@ -6,10 +6,10 @@
 <!ENTITY testpilot.settings.newStudy.label "Ný könnun er tilbúinn">
 <!ENTITY testpilot.settings.hasNewResults.label "Könnun er með nýjar niðurstöður">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Senda sjálfvirkt gögn (ekki spyrja mig)">
-<!ENTITY testpilot.allStudies.label "Allar notandakannanir">
+<!ENTITY testpilot.allStudies.label "Allar notendakannanir">
 <!ENTITY testpilot.about.label "Um Test Pilot">
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title "Þínar notandakannanir">
+<!ENTITY testpilot.studiesWindow.title "Þínar notendakannanir">
 <!ENTITY testpilot.studiesWindow.currentStudies.label "Núverandi kannanir">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label "Kláraðar kannanir">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Athuga kannanir">
@@ -22,5 +22,5 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label "Virkja notendakannanir">
 <!ENTITY testpilot.feedbackbutton.label "Skoðun">
-<!ENTITY testpilot.happy.label "Ég var ánægður með Firefox vegna þess að…">
-<!ENTITY testpilot.sad.label "Ég var óánægður með Firefox vegna þess að…">
+<!ENTITY testpilot.happy.label "Ég er ánægður með Firefox vegna þess að…">
+<!ENTITY testpilot.sad.label "Ég er óánægður með Firefox vegna þess að…">
