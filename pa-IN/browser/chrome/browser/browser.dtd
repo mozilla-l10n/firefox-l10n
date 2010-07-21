@@ -223,7 +223,8 @@
 <!ENTITY preferencesCmd.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-
+<!ENTITY clearRecentHistory.label               "ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ…">
+<!ENTITY clearRecentHistory.accesskey           "H">
 
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -260,6 +261,13 @@
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "ਪਰਿੰਟ">
+<!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
+<!ENTITY appMenuToolbarLayout.label "ਟੂਲਬਾਰ ਲੇਆਉਟ…">
+<!ENTITY appMenuSidebars.label "ਬਾਹੀ">
+<!ENTITY appMenuHelp.label "ਮੱਦਦ">
+
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਜਾਓ">
 <!ENTITY urlbar.accesskey             "d">
@@ -292,6 +300,8 @@
 
 <!ENTITY openLinkCmd.label            "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInCurrent.label     "ਲਿੰਕ ਖੋਲ੍ਹੋ">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 

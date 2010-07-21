@@ -8,3 +8,7 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+
+<!ENTITY blocklist.blocked.label     "ਪਾਬੰਦੀਸ਼ੁਦਾ">
+<!ENTITY blocklist.checkbox.label    "ਬੰਦ ਹੈ">
