@@ -27,9 +27,10 @@
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "在此加入書籤">
 
-<!ENTITY formHelper.previous       "上一個">
-<!ENTITY formHelper.next           "下一個">
-<!ENTITY formHelper.done           "完成">
+<!ENTITY contentNavigator.previous "上一個">
+<!ENTITY contentNavigator.next     "下一個">
+
+<!ENTITY selectHelper.done         "完成">
 
 <!ENTITY addonsHeader.label        "附加元件">
 <!ENTITY addonsLocal.label         "您的附加元件">
