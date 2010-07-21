@@ -1,30 +1,30 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                   "Settings">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Notify me when">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allStudies.label                 "All Your User Studies">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.settings.label                   "Instellingen">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Mij waarschuwen wanneer">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Een onderzoek kan worden ingediend">
+<!ENTITY testpilot.settings.newStudy.label          "Er een nieuw onderzoek is">
+<!ENTITY testpilot.settings.hasNewResults.label     "Er nieuwe uitslagen van een onderzoek zijn">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Mijn gegevens automatisch indienen (niet vragen)">
+<!ENTITY testpilot.allStudies.label                 "Al uw gebruikersonderzoeken">
+<!ENTITY testpilot.about.label                      "Over Test Pilot">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
+<!ENTITY testpilot.studiesWindow.title                  "Uw Test Pilot-onderzoeken">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Huidige onderzoeken">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Afgeronde onderzoeken">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Onderzoeksuitslagen">
+<!ENTITY testpilot.studiesWindow.settings.label         "Instellingen">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Wordt geladen, moment…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: ruwe gegevens">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Close">
+<!ENTITY testpilot.notification.close.tooltip            "Sluiten">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
+<!ENTITY testpilot.enable.label                        "Gebruikersonderzoeken inschakelen">
 <!ENTITY testpilot.feedbackbutton.label                "Feedback">
-<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because…">
+<!ENTITY testpilot.happy.label        "Firefox heeft me blij gemaakt omdat…">
+<!ENTITY testpilot.sad.label          "Firefox heeft me verdrietig gemaakt omdat…">
