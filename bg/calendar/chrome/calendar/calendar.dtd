@@ -309,7 +309,7 @@
 <!ENTITY calendarproperties.name.label "Име:">
 <!ENTITY calendarproperties.readonly.label "Само за четене">
 <!ENTITY calendarproperties.firealarms.label "Показване на алармите">
-<!ENTITY calendarproperties.cache.label "Кеш (ЕКСПЕРИМЕНТАЛНО, изисква рестарт)">
+<!ENTITY calendarproperties.cache.label "Кеш (ЕКСПЕРИМЕНТАЛНО)">
 <!ENTITY calendarproperties.enabled.label "Включване на този календар">
 <!ENTITY calendarproperties.forceDisabled.label "Доставчикът на този календар не може да бъде намерен. Това често се случва, ако сте изключили или премахнали някои добавки.">
 <!ENTITY calendarproperties.unsubscribe.label "Отписване">
