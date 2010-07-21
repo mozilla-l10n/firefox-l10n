@@ -1,66 +1,66 @@
-<!ENTITY addons.windowTitle                   "Add-ons Manager">
-<!ENTITY search.placeholder                   "Search all add-ons">
-<!ENTITY loading.label                        "Loading…">
+<!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
+<!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
+<!ENTITY loading.label                        "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 <!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
 <!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
-<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY listEmpty.button.label               "ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
-<!ENTITY view.search.label                    "Search">
-<!ENTITY view.discover.label                  "Get Add-ons">
-<!ENTITY view.locales.label                   "Languages">
-<!ENTITY view.searchengines.label             "Search Engines">
-<!ENTITY view.features.label                  "Extensions">
-<!ENTITY view.appearance.label                "Themes">
-<!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.search.label                    "ਖੋਜ">
+<!ENTITY view.discover.label                  "ਐਡ-ਆਨ ਲਵੋ">
+<!ENTITY view.locales.label                   "ਭਾਸ਼ਾਵਾਂ">
+<!ENTITY view.searchengines.label             "ਖੋਜ ਇੰਜਣ">
+<!ENTITY view.features.label                  "ਇਕਸਟੈਨਸ਼ਨ">
+<!ENTITY view.appearance.label                "ਥੀਮ">
+<!ENTITY view.plugins.label                   "ਪਲੱਗਇਨ">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Update add-ons">
-<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.updateNow.label              "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY updates.updating.label               "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
 <!ENTITY updates.installed.label              "Your add-ons have been updated.">
 <!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label                "Restart now to complete installation">
-<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.restart.label                "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
+<!ENTITY updates.noneFound.label              "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Show more information">
+<!ENTITY cmd.showDetails.label                "ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ">
 <!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "Find updates">
+<!ENTITY cmd.findUpdates.label                "ਅੱਪਡੇਟ ਲੱਭੋ">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferences.label                "Preferences">
+<!ENTITY cmd.preferences.label                "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY cmd.preferences.accesskey            "P">
-<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.about.label                      "ਇਸ ਬਾਰੇ">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.enableAddon.label                "ਚਾਲੂ">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.enableAddon.tooltip              "Enable this add-on">
-<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.enableAddon.tooltip              "ਇਹ ਐਡ-ਆਨ ਚਾਲੂ ਕਰੋ">
+<!ENTITY cmd.disableAddon.label               "ਬੰਦ">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.disableAddon.tooltip             "Disable this add-on">
-<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.uninstallAddon.label             "ਹਟਾਓ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.uninstallAddon.tooltip           "Uninstall this add-on">
 <!ENTITY cmd.showPreferences.label            "Preferences">
 <!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.label                 "ਯੋਗਦਾਨ">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.updated.label                 "Updated">
-<!ENTITY detail.creator.label                 "Developer">
-<!ENTITY detail.homepage.label                "Homepage">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
+<!ENTITY detail.version.label                 "ਵਰਜਨ">
+<!ENTITY detail.updated.label                 "ਅੱਪਡੇਟ ਹੈ">
+<!ENTITY detail.creator.label                 "ਡਿਵੈਲਪਰ">
+<!ENTITY detail.homepage.label                "ਮੁੱਖ ਪੇਜ਼">
+<!ENTITY detail.numberOfDownloads.label       "ਡਾਊਨਲੋਡ">
 
-<!ENTITY detail.updateAutomatically.label     "Update automatically">
+<!ENTITY detail.updateAutomatically.label     "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY detail.updateAutomatically.accesskey "U">
 <!ENTITY detail.updateAutomatically.tooltip   "Update this add-on automatically whenever there is an update available">
-<!ENTITY detail.checkForUpdates.label         "Check for updates">
+<!ENTITY detail.checkForUpdates.label         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
 <!ENTITY detail.showPreferences.label         "Preferences">
@@ -69,44 +69,44 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Rating:">
+<!ENTITY rating.label                         "ਰੇਟਿੰਗ:">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pause">
-<!ENTITY progress.cancel.tooltip              "Cancel">
+<!ENTITY progress.pause.tooltip               "ਵਿਰਾਮ">
+<!ENTITY progress.cancel.tooltip              "ਰੱਦ ਕਰੋ">
 
 
 <!-- list sorting -->
-<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.label                      "ਨਾਂ">
 <!ENTITY sort.name.tooltip                    "Sort by name">
-<!ENTITY sort.size.label                      "Size">
+<!ENTITY sort.size.label                      "ਆਕਾਰ">
 <!ENTITY sort.size.tooltip                    "Sort by size">
 <!ENTITY sort.dateUpdated.label               "Last Updated">
 <!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
-<!ENTITY sort.rating.label                    "Rating">
+<!ENTITY sort.rating.label                    "ਰੇਟਿੰਗ">
 <!ENTITY sort.rating.tooltip                  "Sort by average rating">
 
 
-<!ENTITY showMore.label                       "Show more">
+<!ENTITY showMore.label                       "ਹੋਰ ਵੇਖੋ">
 <!ENTITY showMore.tooltip                     "Show more details">
-<!ENTITY showLess.label                       "Show less">
+<!ENTITY showLess.label                       "ਘੱਟ ਵੇਖੋ">
 <!ENTITY showLess.tooltip                     "Show fewer details">
 
-<!ENTITY search.filter.label                  "Show:">
+<!ENTITY search.filter.label                  "ਵੇਖੋ:">
 <!ENTITY search.filter.installed.label        "Your installed add-ons">
 <!ENTITY search.filter.available.label        "Available add-ons">
 
-<!ENTITY addon.homepage                       "Homepage">
-<!ENTITY addon.unknownDate                    "Unknown">
-<!ENTITY addon.disabled.postfix               "(disabled)">
+<!ENTITY addon.homepage                       "ਮੁੱਖ ਪੇਜ਼">
+<!ENTITY addon.unknownDate                    "ਅਣਜਾਣ">
+<!ENTITY addon.disabled.postfix               "(ਬੰਦ ਹੈ)">
 <!ENTITY addon.undo.label                     "Undo?">
 <!ENTITY addon.undo.tooltip                   "Undo this action">
 <!ENTITY addon.undoUninstall.label            "Undo?">
 <!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
-<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.restartNow.label               "ਹੁਣੇ ਮੁੜ-ਚਾਲੂ">
 <!ENTITY addon.restartNow.tooltip             "Restart now to complete installation">
-<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.label                  "ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addon.install.tooltip                "Install this add-on">
 <!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
 
-<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY addon.createdBy.label                "ਵਲੋਂ ">

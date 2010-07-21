@@ -523,4 +523,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 
 <!ENTITY allTabs.filter.emptyText "ਟੈਬ ਖੋਜ">
-
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "ਬਰਾਊਜ਼ਰ ਟੈਬ">
