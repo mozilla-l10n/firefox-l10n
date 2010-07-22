@@ -239,7 +239,7 @@
 <!ENTITY viewSidebarMenu.accesskey "Z">
 <!ENTITY viewCustomizeToolbar.label       "Aanpassen…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "A"> 
-<!ENTITY viewTabsOnTop.label            "Bovenlingende tabbladen">
+<!ENTITY viewTabsOnTop.label            "Bovenliggende tabbladen">
 <!ENTITY viewTabsOnTop.accesskey        "t">
 
 <!ENTITY historyMenu.label "Geschiedenis">
