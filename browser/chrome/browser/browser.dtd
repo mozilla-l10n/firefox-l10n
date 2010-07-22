@@ -36,8 +36,6 @@
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY closeOtherTabs.accesskey "v">
 <!ENTITY closeOtherTabs.label "Aizvērt citas cilnes">
-<!ENTITY newTab.label "Jauna cilne">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY  openTabInNewWindow.label    "Atvērt jaunā logā">
 <!ENTITY  openTabInNewWindow.accesskey "l">
 <!ENTITY listAllTabs.label "Visu ciļņu saraksts">
@@ -226,9 +224,9 @@
 <!ENTITY viewBookmarksSidebar.label         "Rādīt sānjoslā">
 <!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānjoslā">
 
-<!ENTITY hudConsoleCmd.label          "Brīdinājumu ekrāns">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Tīmekļa konsole">
+<!ENTITY webConsoleCmd.accesskey      "T">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
