@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organîze Bike">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Girtin">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Xuyakirin">
 <!ENTITY views.accesskey                "X">
+<!ENTITY views.tooltip                  "Change your view">
 <!ENTITY view.columns.label             "Stûnan Nîşan Bide">
 <!ENTITY view.columns.accesskey         "S">
 <!ENTITY view.sort.label                "Rêzkirin">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Bîne û Hilîne">
 <!ENTITY maintenance.accesskey  "i">
+<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label       "Paş">
 <!ENTITY backButton.tooltip  "Here paş">

@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Agahiyên Tamîrkirinê">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, 
+  agahiyên teknîkî dihewîne. Eger li bersiva PPP yên de rbarê
+  &brandShortName; digerî, li <a id='supportLink'>malpera desteka webê</a> binêre.
+       ">
+
+<!ENTITY aboutSupport.extensionsTitle "Pêşdebir">
+<!ENTITY aboutSupport.extensionName "Nav">
+<!ENTITY aboutSupport.extensionEnabled "Çalak bike">
+<!ENTITY aboutSupport.extensionVersion "Guherto">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Bingehên Sepanê">
+<!ENTITY aboutSupport.appBasicsName "Nav">
+<!ENTITY aboutSupport.appBasicsVersion "Guherto">
+<!ENTITY aboutSupport.appBasicsProfileDir "Pelrêça Profîlê">
+<!ENTITY aboutSupport.appBasicsPlugins "Pêvekên Sazbûyî">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Mîhengên Avakirinê">
+
+<!ENTITY aboutSupport.show.label "Peldanka ku tê de ye veke">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Di 'Bibîne' de nîşan bide">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Vebijêrkên Guherandî">
+<!ENTITY aboutSupport.modifiedPrefsName "Nav">
+<!ENTITY aboutSupport.modifiedPrefsValue "Nirx">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Mêjûya Sazkirinê">
+<!ENTITY aboutSupport.updateHistoryTitle "Mêjûya Rojanekirinê">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Hemûyan li depreşê tomar bike">

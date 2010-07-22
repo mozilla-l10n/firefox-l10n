@@ -177,6 +177,16 @@
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Style">
+
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
 <!ENTITY newNavigatorCmd.label        "Paceya Nû">
@@ -257,7 +267,7 @@
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -272,7 +282,7 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 <!ENTITY searchFocus.commandkey       "K">
 <!ENTITY searchFocus.commandkey2      "a">
@@ -281,7 +291,7 @@
 <!ENTITY openLinkCmd.label            "Girêdanê Di Paceyeke Nû De Veke">
 <!ENTITY openLinkCmd.accesskey        "P">
 <!ENTITY openLinkCmdInCurrent.label     "Lînkê veke">
-<!ENTITY openLinkCmdInCurrent.accesskey "V">
+<!ENTITY openLinkCmdInCurrent.accesskey "v">
 <!ENTITY openLinkCmdInTab.label       "Girêdanê Di Hilpekîneke Nû De Veke">
 <!ENTITY openLinkCmdInTab.accesskey   "H">
 <!ENTITY openFrameCmd.label           "Çarçoweyê Di Paceyeke Nû De Veke">
@@ -361,7 +371,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Navnîşana Audîoyê Ji Ber Bigire">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "g">
 <!ENTITY copyEmailCmd.label           "Navnîşana E-Peyamê Ji Ber Bigire">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Çarçoveya Derbasdar">
