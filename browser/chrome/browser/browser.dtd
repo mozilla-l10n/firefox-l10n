@@ -11,8 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)">
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "ਨਵੀਂ ਟੈਬ">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "ਟੈਬ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ਸਭ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
@@ -170,9 +168,10 @@
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+
+<!ENTITY webConsoleCmd.label          "ਵੈੱਬ ਕਸਨੋਲ">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "ਜਾਂਚ">
 <!ENTITY inspectMenu.accesskey        "T">
