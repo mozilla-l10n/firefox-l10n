@@ -43,8 +43,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privat surfning)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label             "Ny flik">
-<!ENTITY  newTab.accesskey         "N">
 <!ENTITY  reloadTab.label          "Uppdatera flik">
 <!ENTITY  reloadTab.accesskey      "U">
 <!ENTITY  reloadAllTabs.label      "Uppdatera alla flikar">
