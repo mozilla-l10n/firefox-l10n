@@ -3,6 +3,6 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Heke bixwazî zêdekariyan bidê...">
-<!ENTITY securityOverride.warningText "
-<p>Heke baweriya te bi girêdana te ya înternetê tunebe an jî her tim der barê vê pêşkêşkarê de hişyariyan nastînî, divê zêdekariyan nedî vê.</p><p>Lê heke hê jî bixwazî zêdekariyan bidî vê, vê yekê bi bikaranîna mîhengên pêşketî yên nasnavkirinê bike.</p>
+<!ENTITY securityOverride.warningText " <p>Heke baweriya te bi girêdana te ya înternetê tunebe an jî her tim der barê vê pêşkêşkarê de hişyariyan nastînî, divê zêdekariyan nedî vê.</p>
+<p>Lê heke hê jî bixwazî zêdekariyan bidî vê, vê yekê bi bikaranîna mîhengên pêşketî yên nasnavkirinê bike.</p>
 ">

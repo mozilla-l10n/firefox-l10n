@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nav">
 <!ENTITY aboutSupport.appBasicsVersion "Guherto">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsPlugins "Pluginên sazbûyî">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 
 <!ENTITY aboutSupport.show.label "Open Containing Folder">
