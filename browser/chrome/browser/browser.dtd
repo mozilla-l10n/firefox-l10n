@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegació privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Pestanya nova">
-<!ENTITY  newTab.accesskey                   "n">
 <!ENTITY  reloadTab.label                    "Torna a carregar la pestanya">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Torna a carregar totes les pestanyes">
@@ -166,9 +164,9 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Visualització Heads Up">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Consola web">
+<!ENTITY webConsoleCmd.accesskey      "w">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspecciona">
 <!ENTITY inspectMenu.accesskey        "o">
