@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation privée)">
 
 <!-- Tab context menu -->
-<!ENTITY newTab.label "Nouvel onglet">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY reloadTab.label "Actualiser l'onglet">
 <!ENTITY reloadTab.accesskey "A">
 <!ENTITY reloadAllTabs.label "Actualiser tous les onglets">
