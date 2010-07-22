@@ -2,8 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Режим приватного просмотра)">
-<!ENTITY newTab.label "Новая вкладка">
-<!ENTITY newTab.accesskey "о">
 <!ENTITY reloadTab.label "Обновить вкладку">
 <!ENTITY reloadTab.accesskey "и">
 <!ENTITY reloadAllTabs.label "Обновить все вкладки">
@@ -136,9 +134,9 @@
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY hudConsoleCmd.label "Интерактивная консоль">
-<!ENTITY hudConsoleCmd.accesskey "и">
-<!ENTITY hudConsoleCmd.commandkey "k">
+<!ENTITY webConsoleCmd.label "Веб-консоль">
+<!ENTITY webConsoleCmd.accesskey "б">
+<!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
@@ -219,16 +217,16 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">
+<!ENTITY openLinkCmdInTab.accesskey "в">
 <!ENTITY openLinkCmd.label "Открыть в новом окне">
 <!ENTITY openLinkCmd.accesskey "н">
 <!ENTITY openLinkCmdInCurrent.label "Открыть ссылку">
 <!ENTITY openLinkCmdInCurrent.accesskey "т">
-<!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">
-<!ENTITY openLinkCmdInTab.accesskey "в">
-<!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
-<!ENTITY openFrameCmd.accesskey "О">
 <!ENTITY openFrameCmdInTab.label "Открыть фрейм в новой вкладке">
 <!ENTITY openFrameCmdInTab.accesskey "н">
+<!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
+<!ENTITY openFrameCmd.accesskey "О">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
 <!ENTITY reloadCmd.commandkey "r">
