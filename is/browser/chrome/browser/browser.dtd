@@ -11,8 +11,6 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Einkavöfrun)">
 <!-- Tab context menu -->
-<!ENTITY newTab.label "Nýr flipi">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY reloadTab.label "Endurnýja flipa">
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY reloadAllTabs.label "Endurnýja alla flipa">
@@ -151,9 +149,9 @@
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY hudConsoleCmd.label "Framrúðuglæja">
-<!ENTITY hudConsoleCmd.accesskey "F">
-<!ENTITY hudConsoleCmd.commandkey "k">
+<!ENTITY webConsoleCmd.label "Vefgluggi">
+<!ENTITY webConsoleCmd.accesskey "V">
+<!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Skoða">
 <!ENTITY inspectMenu.accesskey "S">
 <!ENTITY inspectMenu.commandkey "I">
@@ -289,16 +287,16 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY openLinkCmdInTab.label "Opna tengil í nýjum flipa">
+<!ENTITY openLinkCmdInTab.accesskey "f">
 <!ENTITY openLinkCmd.label "Opna tengil í nýjum glugga">
 <!ENTITY openLinkCmd.accesskey "g">
 <!ENTITY openLinkCmdInCurrent.label "Opna tengil">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openLinkCmdInTab.label "Opna tengil í nýjum flipa">
-<!ENTITY openLinkCmdInTab.accesskey "f">
-<!ENTITY openFrameCmd.label "Opna ramma í nýjum glugga">
-<!ENTITY openFrameCmd.accesskey "g">
 <!ENTITY openFrameCmdInTab.label "Opna ramma í nýjum flipa">
 <!ENTITY openFrameCmdInTab.accesskey "f">
+<!ENTITY openFrameCmd.label "Opna ramma í nýjum glugga">
+<!ENTITY openFrameCmd.accesskey "g">
 <!ENTITY showOnlyThisFrameCmd.label "Sýna einungis þennan ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey "r">
