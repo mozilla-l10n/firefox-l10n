@@ -21,8 +21,6 @@
 <!ENTITY editBookmarkRemove.label "Удалить">
 <!ENTITY editBookmarkDone.label "Готово">
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
-<!ENTITY contentNavigator.previous "Предыдущее">
-<!ENTITY contentNavigator.next "Следующее">
 <!ENTITY selectHelper.done "Готово">
 <!ENTITY addonsHeader.label "Дополнения">
 <!ENTITY addonsLocal.label "Ваши дополнения">
