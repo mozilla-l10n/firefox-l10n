@@ -319,16 +319,16 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY openLinkCmdInTab.label       "Öppna länk i ny flik">
+<!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Öppna länk i nytt fönster">
 <!ENTITY openLinkCmd.accesskey        "Ö">
 <!ENTITY openLinkCmdInCurrent.label     "Öppna länk">
 <!ENTITY openLinkCmdInCurrent.accesskey "n">
-<!ENTITY openLinkCmdInTab.label       "Öppna länk i ny flik">
-<!ENTITY openLinkCmdInTab.accesskey   "f">
-<!ENTITY openFrameCmd.label           "Öppna ram i nytt fönster">
-<!ENTITY openFrameCmd.accesskey       "Ö">
 <!ENTITY openFrameCmdInTab.label      "Öppna ram i ny flik">
 <!ENTITY openFrameCmdInTab.accesskey  "n">
+<!ENTITY openFrameCmd.label           "Öppna ram i nytt fönster">
+<!ENTITY openFrameCmd.accesskey       "Ö">
 <!ENTITY showOnlyThisFrameCmd.label     "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey         "r">
