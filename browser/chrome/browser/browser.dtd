@@ -1,4 +1,7 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+
+
+
+addons.tooltip<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -116,7 +119,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Shtesa">
-<!ENTITY addons.tooltip               "Shfaqni dhe Administroni Shtesa të instaluara">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY errorConsoleCmd.label        "Konsol Gabimesh">
@@ -250,7 +252,6 @@
 <!ENTITY copyImageCmd.accesskey       "P">
 <!ENTITY copyImageContentsCmd.label   "Kopjo Figurën">
 <!ENTITY copyImageContentsCmd.accesskey  "K"> 
-<!ENTITY blockImageCmd.accesskey       "g">
 <!ENTITY copyEmailCmd.label           "Kopjo Vendndodhje Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Këtë Kornizë">
@@ -408,11 +409,6 @@
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundmi">
 <!ENTITY newTabButton.tooltip           "Hap skedë të re">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Kërkoni te Faqerojtësat dhe Historiku">
-<!ENTITY urlbar.bookmark.emptyText    "Kërkoni te Faqerojtësat">
-<!ENTITY urlbar.history.emptyText     "Kërkoni te Historiku">
-<!ENTITY urlbar.none.emptyText        "Shtypni një vendndodhje Web">
-
 
 <!ENTITY fullScreenButton.tooltip       "Shfaqe dritaren sa tërë ekrani">
 <!ENTITY fullScreenCmd.macCommandKey "d">
@@ -425,3 +421,63 @@
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 <!ENTITY videoFullScreen.label       "Sa Krejt Ekrani">
 <!ENTITY videoFullScreen.accesskey   "K">
+
+<!ENTITY appMenuPrintCmd.label "Shtype">
+<!ENTITY appMenuCustomize.label "Përshtateni">
+<!ENTITY appMenuToolbarLayout.label "Skemë Paneli…">
+<!ENTITY appMenuSidebars.label "Anështylla">
+<!ENTITY appMenuHelp.label "Ndihmë">
+
+<!ENTITY  bookmarkThisTab.label              "Faqeruaje Këtë Skedë">
+<!ENTITY  bookmarkThisTab.accesskey          "F">
+<!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
+<!ENTITY  bookmarkAllTabs.accesskey          "K">
+
+<!ENTITY bookmarksMenuButton.label          "Faqerojtësa">
+<!ENTITY bookmarksMenuButton.tooltip        "Shfaqni faqerojtësit tuaj">
+
+<!ENTITY  closeTab.label                     "Mbylle Skedën">
+<!ENTITY  closeTab.accesskey                 "m">
+
+<!ENTITY inspectMenu.label            "Shqyrtoje">
+<!ENTITY inspectMenu.accesskey        "S">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "Shqyrtoje">
+<!ENTITY inspectButton.accesskey      "q">
+<!ENTITY inspectNextButton.label      "Pasuesi">
+<!ENTITY inspectNextButton.accesskey  "P">
+<!ENTITY inspectPreviousButton.label  "I mëparshmi">
+<!ENTITY inspectPreviousButton.accesskey "m">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Stil">
+
+<!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
+
+<!ENTITY  openTabInNewWindow.label           "Hape në Dritare të Re">
+<!ENTITY  openTabInNewWindow.accesskey       "D">
+<!ENTITY  pinTab.label                       "Kaloje në Skedë Zbatimi">
+<!ENTITY  pinTab.accesskey                   "Z">
+<!ENTITY  unpinTab.label                     "Kaloje në Skedë Normale">
+<!ENTITY  unpinTab.accesskey                 "N">
+
+<!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Ringarko Krejt Skedat">
+<!ENTITY  reloadAllTabs.accesskey            "K">
+
+<!ENTITY  undoCloseTab.label                 "Zhbëje Mbylljen e Skedës">
+<!ENTITY  undoCloseTab.accesskey             "Z">
+
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Skedash shfletuesi">
+
+<!ENTITY urlbar.placeholder           "Shko te një &quot;Site&quot; Web">
+
+<!ENTITY viewBookmarksSidebar.label         "Shfaqe në Anështyllë">
+<!ENTITY viewBookmarksToolbar.label         "Shfaq Panel Faqerojtësish">
+<!ENTITY viewTabsOnTop.label            "Skedat Përsipër">
+<!ENTITY viewTabsOnTop.accesskey        "P">
+
