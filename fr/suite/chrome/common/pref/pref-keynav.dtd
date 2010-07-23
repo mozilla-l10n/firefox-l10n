@@ -18,3 +18,7 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "T">
 <!ENTITY findAsYouTypeAutoLinks.label "Seulement les liens">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "S">
+
+<!ENTITY findAsYouTypeFindbarEnable.label "Afficher la barre d'outils de recherche lors de la recherche à la saisie">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "A">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Note : La recherche à la saisie sans l'affichage de la barre d'outils de recherche ne permet pas la recherche de texte dans d'autres langues.">
