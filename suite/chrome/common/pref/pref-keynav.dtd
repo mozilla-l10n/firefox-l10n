@@ -18,3 +18,6 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "A">
 <!ENTITY findAsYouTypeAutoLinks.label "Sólo enlaces">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar la barra de búsquedas al usar Encontrar según se escribe">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: encontrar según se escribe sin mostrar la barra de busquedas no permite la introducción de texto internacional.">
