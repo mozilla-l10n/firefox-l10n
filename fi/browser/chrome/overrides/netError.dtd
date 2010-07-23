@@ -62,14 +62,14 @@
 <!ENTITY contentEncodingError.title "Sisällön koodausvirhe">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Ilmoitathan sivuston omistajalle tästä ongelmasta.</li>
+  <li>Ilmoita sivuston omistajalle tästä ongelmasta.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Ei turvallinen tiedostotyyppi">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Ilmoita ongelmasta sivuston omistajalle.</li>
+  <li>Ilmoita sivuston omistajalle tästä ongelmasta.</li>
 </ul>
 ">
 

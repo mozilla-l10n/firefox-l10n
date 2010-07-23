@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label  "Portti:">
 <!ENTITY userName.label    "Käyttäjätunnus:">
 <!ENTITY connectionSecurity.label "Yhteyden suojaus: ">
-<!ENTITY useSecureAuthentication.label   "Suojattu todennus: ">
+<!ENTITY authMethod.label   "Todennustapa: ">

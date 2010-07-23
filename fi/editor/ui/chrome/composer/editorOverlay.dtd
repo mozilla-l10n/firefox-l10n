@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "j">
 <!ENTITY pasteAsQuotationCmd.label "Liitä lainauksena">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Etsi ja korvaa…">
 <!ENTITY findCmd.accesskey "E">
 <!ENTITY findCmd.key "F">

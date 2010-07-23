@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey  "L">
 <!ENTITY fccReplyFollowsParent.label "Tallenna vastaukset kansioon, jossa on viesti, johon vastataan">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Lähetä kopio (Cc) näihin osoitteisiin:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Erottele osoitteet pilkuilla">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label  "Lähetä piilokopio näihin osoitteisiin:">
+<!ENTITY bccAddress.label  "Lähetä piilokopio (Bcc) näihin osoitteisiin:">
 <!ENTITY bccAddress.accesskey  "h">
+<!ENTITY bccAddressList.emptytext "Erottele osoitteet pilkuilla">
 <!ENTITY saveMessageDlg.label  "Kysy vahvistus viestejä tallennettaessa">
 <!ENTITY saveMessageDlg.accesskey  "K">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

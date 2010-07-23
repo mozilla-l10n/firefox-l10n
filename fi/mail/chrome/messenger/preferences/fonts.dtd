@@ -6,9 +6,9 @@
 <!ENTITY  language.label                           "Merkistö:">
 <!ENTITY  language.accesskey                       "M">
 
-<!ENTITY  sizes.label                              "Koko:">
+<!ENTITY  size.label                              "Koko:">
 <!ENTITY  proportionalSize.accesskey              "K">
-<!ENTITY  monospaceSize.accesskey                 "o">
+<!ENTITY  sizeMono.accesskey                      "o">
 
 <!ENTITY  proportional.label                       "Suhteellinen:">
 <!ENTITY  proportional.accesskey                   "S">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label                "Pääteviivallinen">
 <!ENTITY  useDefaultFontSansSerif.label            "Pääteviivaton">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Kirjasinten hallinta">
+<!ENTITY  useFixedWidthForPlainText.label         "Käytä tasalevyistä kirjasinta pelkkä teksti viesteille">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                   "Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan">
 <!ENTITY  useDocumentFonts.accesskey               "i">
 

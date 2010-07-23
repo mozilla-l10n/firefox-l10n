@@ -7,7 +7,7 @@
 <!ENTITY aboutVersion            "versio">
 <!ENTITY closeCmdGNOME.label        "Sulje">  
 <!ENTITY closeCmdGNOME.accesskey    "S">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 tekijät. Kaikki oikeudet pidätetään. (">
+<!ENTITY copyrightInfo1             "&#169;1998-2010 tekijät. Kaikki oikeudet pidätetään. (">
 <!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Lisenssitiedot">
 <!ENTITY copyrightInfo2             ").">

@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey      "k">
 <!ENTITY searchSubfolders.label       "Etsi alikansioista">
 <!ENTITY searchSubfolders.accesskey   "a">
+<!ENTITY searchOnServer.label        "Suorita haku palvelimella">
+<!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label            "Tyhjennä">
 <!ENTITY resetButton.accesskey        "T">
 <!ENTITY openButton.label             "Avaa">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label             "Siirrä">
 <!ENTITY fileButton.accesskey         "S">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY goToFolderButton.label       "Avaa viestikansio">
-<!ENTITY goToFolderButton.accesskey   "i">
+<!ENTITY openInFolder.label          "Avaa kansioon">
+<!ENTITY openInFolder.accesskey      "k">
 <!ENTITY saveAsVFButton.label         "Tallenna hakukansiona">
 <!ENTITY saveAsVFButton.accesskey     "h">
 

@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Posteja haetaan">
 <!ENTITY contextManual.label "Suodattimet suoritetaan">
 <!ENTITY contextBoth.label "Suodattimet suoritetaan tai posteja haetaan">
+<!ENTITY contextPostPlugin.label "Posteja haetaan (luokittelun jälkeen)">
+<!ENTITY contextPostPluginBoth.label "Posteja haetaan (luokittelun jälkeen) tai suodattimet suoritetaan">
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "o">
 

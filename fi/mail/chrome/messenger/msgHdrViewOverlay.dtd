@@ -57,19 +57,47 @@
 
 <!ENTITY editMessageDescription.label "Tämä on luonnos">
 <!ENTITY editMessageButton.label "Muokkaa…">
-<!ENTITY archiveButton.label "arkistoi">
+<!ENTITY hdrArchiveButton.label "arkistoi">
+<!ENTITY hdrArchiveButton.tooltip "arkistoi viesti">
 <!ENTITY hdrReplyButton.label "vastaa">
+<!ENTITY hdrReplyButton.tooltip "vastaa viestiin">
 <!ENTITY hdrReplyAllButton.label "vastaa kaikille">
+<!ENTITY hdrReplyAllButton.tooltip "vastaa lähettäjälle ja muille vastaanottajille">
 <!ENTITY hdrReplyListButton.label "vastaa listalle">
+<!ENTITY hdrReplyListButton.tooltip "vastaa postituslistalle">
 <!ENTITY hdrForwardButton.label "välitä">
-<!ENTITY hdrJunkButton.label "roskapostiksi">
-<!ENTITY trashButton.tooltiptext "poista">
+<!ENTITY hdrForwardButton.tooltip "välitä viesti">
+<!ENTITY hdrJunkButton.label "roskapostia">
+<!ENTITY hdrJunkButton.tooltip "merkitse viesti roskapostiksi">
+<!ENTITY hdrTrashButton.label "poista">
+<!ENTITY hdrTrashButton.tooltip "poista viesti">
+
+<!ENTITY hdrViewToolbarShowFull.label "Kuvakkeet ja teksti">
+<!ENTITY hdrViewToolbarShowFull.accesskey "j">
+<!ENTITY hdrViewToolbarShowIcons.label "Vain kuvakkeet">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "k">
+<!ENTITY hdrViewToolbarShowText.label "Vain teksti">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Näytä aina vastaa lähettäjälle">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "N">
 
 <!ENTITY otherActionsButton.label "muut toiminnot">
+<!ENTITY otherActionsOpenConversation.label "avaa keskusteluna">
+<!ENTITY otherActionsOpenConversation.accesskey "k">
+<!ENTITY otherActionsOpenInNewWindow.label "avaa uuteen ikkunaan">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
+<!ENTITY otherActionsOpenInNewTab.label "avaa uuteen välilehteen">
+<!ENTITY otherActionsOpenInNewTab.accesskey "v">
+<!ENTITY markAsReadMenuItem.label "merkitse luetuksi">
+<!ENTITY markAsReadMenuItem.accesskey "l">
+<!ENTITY markAsUnreadMenuItem.label "merkitse ei luetuksi">
+<!ENTITY markAsUnreadMenuItem.accesskey "e">
 <!ENTITY saveAsMenuItem.label "tallenna nimellä…">
 <!ENTITY saveAsMenuItem.accesskey "t">
 <!ENTITY viewSourceMenuItem.label "näytä lähdekoodi…">
 <!ENTITY viewSourceMenuItem.accesskey "n">
+<!ENTITY otherActionsPrint.label "tulosta…">
+<!ENTITY otherActionsPrint.accesskey "u">
 
 <!ENTITY openAttachmentCmd.label     "Avaa">
 <!ENTITY openAttachmentCmd.accesskey		 "A">

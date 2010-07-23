@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "Palauta työkalupalkit oletusasetuksiinsa">
 <!ENTITY resetToolbars.accesskey      "a">
 
-<!ENTITY resetBookmarks.label         "Palauta &brandShortName;in oletuskirjanmerkit">
-<!ENTITY resetBookmarks.accesskey     "u">
+<!ENTITY deleteBookmarks.label        "Poista kaikki kirjanmerkit, mutta säilytä varmuuskopiot">
+<!ENTITY deleteBookmarks.accesskey    "o">
 
 <!ENTITY resetUserPrefs.label         "Palauta kaikki &brandShortName;in asetukset oletuksiinsa">
 <!ENTITY resetUserPrefs.accesskey     "k">

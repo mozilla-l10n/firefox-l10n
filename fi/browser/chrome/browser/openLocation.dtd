@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label  "Valitse tiedosto…">
 <!ENTITY newWindow.label  "Uusi ikkuna">
 <!ENTITY newTab.label  "Uusi välilehti">
-<!ENTITY topWindow.label  "Avattu ikkuna">
+<!ENTITY topTab.label "Avattu välilehti">
 <!ENTITY caption.label  "Avaa osoite">
 <!ENTITY openWhere.label  "Avaa:">
 <!ENTITY openBtn.label  "Avaa">

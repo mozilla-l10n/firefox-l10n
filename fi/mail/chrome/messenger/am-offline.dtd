@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label  "Säästääksesi tilaa, älä lataa:">
-<!ENTITY doNotDownload.label  "Säästääksesi tilaa, älä lataa yhteydetöntä tilaa varten:">
+<!ENTITY doNotDownloadNntp.label "Säästääksesi tilaa, älä lataa yhteydetöntä tilaa varten:">
+<!ENTITY doNotDownloadImap.label "Levytilan säästämiseksi viestien noutamista ja säilyttämistä omalla koneella voidaan rajoittaa viestin iän ja koon mukaan.">
 <!ENTITY allFoldersOffline.label "Säilytä tämän tilin viestit tällä tietokoneella">
 <!ENTITY allFoldersOffline.accesskey "v">
 <!ENTITY offlineNotDownload.label  "Viestejä, joiden koko on yli">
 <!ENTITY offlineNotDownload.accesskey  "e">
+<!ENTITY autosyncNotDownload.label "Älä nouda viestejä, jotka ovat suurempia kuin">
+<!ENTITY autosyncNotDownload.accesskey "Ä">
 <!ENTITY kb.label  "kt">
 <!ENTITY daysOld.label  "päivää vanhoja">
 <!ENTITY message.label  "viestiä">
@@ -32,3 +35,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "L">
 <!ENTITY syncGroupTitle.label "Viestien synkronointi">
 <!ENTITY diskspaceGroupTitle.label  "Levytilan käyttö">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Synkronoi kaikki viestit iästä huolimatta">
+<!ENTITY allAutosync.accesskey           "S">
+<!ENTITY ageAutosyncBefore.label         "Synkronoi viestit viimeiseltä">
+<!ENTITY ageAutosync.accesskey           "n">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "päivältä">
+<!ENTITY weekAgeInterval.label           "viikolta">
+<!ENTITY monthAgeInterval.label          "kuukaudelta">
+<!ENTITY yearAgeInterval.label           "vuodelta">
+<!ENTITY ageAutosyncAfter.label          "">

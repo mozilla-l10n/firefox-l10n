@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "Poista">
+<!ENTITY editContactPanelDeleteContact.accesskey "o">
+
 <!ENTITY editContactName.label "Nimi:">
 <!ENTITY editContactName.accesskey "N">
 

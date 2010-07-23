@@ -32,4 +32,4 @@
 <!ENTITY manageAddonsDescWin.label        "Muokkaa lisäosia ja lisäosien asetuksia">
 <!ENTITY manageAddonsDescUnix2.label      "Muokkaa lisäosia ja lisäosien asetuksia">
 <!ENTITY manageAddons.label               "Hallinnoi lisäosia…">
-<!ENTITY manageAddons.accesskey           "M">
+<!ENTITY manageAddons.accesskey           "H">

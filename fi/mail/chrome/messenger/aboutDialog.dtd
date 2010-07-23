@@ -1,17 +1,16 @@
 <!ENTITY aboutDialog.title       "Tietoja &brandFullName;istä">
-<!ENTITY credits.label          "Tekijät">
-<!ENTITY credits.accesskey      "T">
 <!ENTITY aboutButton.label      "&lt; Edellinen">
 <!ENTITY aboutButton.accesskey  "E">
 <!ENTITY aboutVersion            "versio">
-<!ENTITY copyrightText          "&#169;1998-2009 Tekijät. Kaikki oikeudet pidätetään. Mozilla Thunderbird ja 
-                                 Thunderbird-logo ovat Mozilla-säätiön tavaramerkkejä.
-                                 Kaikki oikeudet pidätetään.">
 <!ENTITY aboutMenu.label        "Tietoja">
 <!ENTITY aboutMenu.accesskey    "T">
-<!ENTITY aboutRights.label      "Oikeuksistasi">
+<!ENTITY aboutCredits.label     "Tekijät">
+<!ENTITY aboutCredits.accesskey "e">
+<!ENTITY aboutRights.label      "Oikeutesi">
 <!ENTITY aboutRights.accesskey  "O">
-<!ENTITY aboutContributors.label "Tekijöistä">
-<!ENTITY aboutContributors.accesskey "e">
+<!ENTITY aboutContributors.label "Osalliset">
+<!ENTITY aboutContributors.accesskey "O">
+<!ENTITY aboutLicense.label      "Lisenssi">
+<!ENTITY aboutLicense.accesskey  "L">
 
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -10,24 +10,6 @@
 <!ENTITY  locbar.bookmarks.label        "Kirjanmerkeistä">
 <!ENTITY  locbar.nothing.label          "Ei mistään">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Säilytä sivuhistoria ainakin">
-<!ENTITY  rememberDaysBefore.accesskey  "S">
-<!ENTITY  rememberDaysAfter2.label      "päivältä">
-
-<!ENTITY  rememberForms.label           "Tallenna lomakkeisiin ja hakupalkkiin kirjoitetut tiedot">
-<!ENTITY  rememberForms.accesskey       "T">
-
-<!ENTITY  rememberDownloads.label       "Pidä listaa ladatuista tiedostoista">
-<!ENTITY  rememberDownloads.accesskey   "P">
-
-
-<!ENTITY  cookies.label                 "Evästeet">
 
 <!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
 <!ENTITY  acceptCookies.accesskey       "v">
@@ -48,14 +30,6 @@
 <!ENTITY  showCookies.label             "Näytä evästeet…">
 <!ENTITY  showCookies.accesskey         "N">
 
-
-<!ENTITY  privateData.label             "Yksityisyystiedot">
-
-<!ENTITY  alwaysClear.label              "Poista valitut yksityisyystiedot, aina kun &brandShortName; suljetaan">
-<!ENTITY  alwaysClear.accesskey          "o">
-
-<!ENTITY  clearDataSettings.label        "Asetukset…">
-<!ENTITY  clearDataSettings.accesskey    "A">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; säilyttää:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -107,6 +81,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Asetukset…">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
-
-<!ENTITY  clearDataNow.label             "Poista tietoja…">
-<!ENTITY  clearDataNow.accesskey         "P">

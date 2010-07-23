@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key  "V">
 <!ENTITY pasteCmd.accesskey  "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label  "Rivitä uudelleen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey  "A">
 <!ENTITY delete.label  "Poista">
 <!ENTITY delete.accesskey  "o">
+<!ENTITY removeAttachment.label "Poista liitetiedosto">
+<!ENTITY removeAttachment.accesskey "l">
 <!ENTITY renameAttachment.label "Nimeä uudelleen…">
 <!ENTITY renameAttachment.accesskey "N">
 <!ENTITY selectAll.label  "Valitse kaikki">
