@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "ชื่อ">
 <!ENTITY aboutSupport.appBasicsVersion "รุ่น">
 <!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรี่โพรไฟล์">
-<!ENTITY aboutSupport.appBasicsPlugins "ส่วนเสริมที่ถูกติดตั้งไว้">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ส่วนเสริมที่ถูกเปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 
 <!ENTITY aboutSupport.show.label "เปิดดูโฟลเดอร์">
