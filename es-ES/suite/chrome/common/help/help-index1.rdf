@@ -61,7 +61,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="return_receipts:general_preferences"
          nc:name="preferencias de acuse de recibo"
-         nc:link="mail_help.xhtml#return_receipts_preferences"/>
+         nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="return_receipts:using"
@@ -195,7 +195,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Tags:general_preferences"
          nc:name="preferencias de etiquetas"
-         nc:link="mail_help.xhtml#tags"/>
+         nc:link="mailnews_preferences.xhtml#tags"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -754,12 +754,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
          nc:name="autocompletado de direcci&#243;n"
-         nc:link="mail_help.xhtml#address_autocompletion"/>
+         nc:link="mailnews_preferences.xhtml#address_autocompletion"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
          nc:name="Codificaci&#243;n de caracteres"
-         nc:link="mail_help.xhtml#character_encoding"/>
+         nc:link="mailnews_preferences.xhtml#character_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
@@ -769,7 +769,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
          nc:name="preferencias de direccionamiento"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
@@ -839,7 +839,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
          nc:name="preferencias generales de correo"
-         nc:link="mail_help.xhtml#mail_and_newsgroup_preferences"/>
+         nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
@@ -879,7 +879,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
          nc:name="preferencias de red de correo y noticias"
-         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+         nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
@@ -1338,7 +1338,7 @@
      <rdf:li>
        <rdf:Description ID="LDAP:global_settings"
          nc:name="configuraci&#243;n de LDAP"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2118,7 +2118,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="preferencias sin conexi&#243;n"
-         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+         nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
