@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Järjestä">
 <!ENTITY organize.accesskey    "J">
+<!ENTITY organize.tooltip      "Järjestele kirjanmerkkejäsi">
 
 <!ENTITY file.accesskey                 "J">
 <!ENTITY file.close.label               "Sulje">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                 "M">
 <!ENTITY views.label                    "Näkymät">
 <!ENTITY views.accesskey                "N">
-<!ENTITY view.toolbar.label             "Työkalupalkki">
-<!ENTITY view.toolbar.accesskey         "T">
+<!ENTITY views.tooltip                  "Muokkaa näkymää">
 <!ENTITY view.columns.label             "Näytä sarakkeet">
 <!ENTITY view.columns.accesskey         "N">
 <!ENTITY view.sort.label                "Lajitteluperuste">
@@ -25,17 +25,11 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A lajittelu">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Kirjanmerkkien käyttö">
-<!ENTITY help.usingBookmarks.accesskey  "K">
-<!ENTITY help.usingHistory.label        "Sivuhistorian käyttö">
-<!ENTITY help.usingHistory.accesskey    "S">
-<!ENTITY help.advancedTips.label        "Lisäohjeita ja -vinkkejä">
-<!ENTITY help.advancedTips.accesskey    "L">
 
 <!ENTITY cmd.findInBookmarks.label      "Etsi kirjanmerkeistä…">
 <!ENTITY cmd.findInBookmarks.accesskey  "E">
 <!ENTITY cmd.findCurrent.label          "Etsi valitusta kokoelmasta…">
-<!ENTITY cmd.findCurrent.accesskey      "E">
+<!ENTITY cmd.findCurrent.accesskey      "t">
 
 <!ENTITY cmd.exportHTML.label           "Vie HTML-tiedosto…">
 <!ENTITY cmd.exportHTML.accesskey       "V">
@@ -49,33 +43,11 @@
 <!ENTITY cmd.restoreFromFile.label      "Valitse tiedosto…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.select_all.label "Valitse kaikki">
-<!ENTITY cmd.select_all.accesskey "V">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Leikkaa">
-<!ENTITY cmd.edit_cut.accesskey     "L">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopioi">
-<!ENTITY cmd.edit_copy.accesskey    "K">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Liitä">
-<!ENTITY cmd.edit_paste.accesskey   "i">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Poista">
-<!ENTITY cmd.edit_delete.accesskey  "P">
-<!ENTITY cmd.edit_undo.label        "Kumoa">
-<!ENTITY cmd.edit_undo.accesskey    "m">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Tee uudelleen">
-<!ENTITY cmd.edit_redo.accesskey    "T">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Lisää tämä sivu kirjanmerkkeihin…">
 <!ENTITY cmd.bookmarkLink.accesskey     "L">
 <!ENTITY cmd.delete.label               "Poista tämä sivu">
 <!ENTITY cmd.delete.accesskey           "P">
-<!ENTITY cmd.deleteDomainData.label     "Unohda tämä sivu">
+<!ENTITY cmd.deleteDomainData.label     "Unohda tämä sivusto">
 <!ENTITY cmd.deleteDomainData.accesskey "U">
 
 <!ENTITY cmd.open.label                  "Avaa">
@@ -90,19 +62,12 @@
 <!ENTITY cmd.properties.label      "Ominaisuudet">
 <!ENTITY cmd.properties.accesskey  "O">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "Nimeä uudelleen">
-<!ENTITY cmd.rename.accesskey  "N">
-
 <!ENTITY cmd.sortby_name.label              "Lajittele nimen mukaan">
 <!ENTITY cmd.sortby_name.accesskey          "L">
 <!ENTITY cmd.context_sortby_name.accesskey  "L">
 
 <!ENTITY cmd.new_bookmark.label            "Uusi kirjanmerkki…">
 <!ENTITY cmd.new_bookmark.accesskey        "U">
-<!ENTITY cmd.new_livemark.label            "Uusi live-kirjanmerkki…">
-<!ENTITY cmd.new_livemark.accesskey        "s">
 <!ENTITY cmd.new_folder.label              "Uusi kansio…">
 <!ENTITY cmd.new_folder.accesskey          "s">
 <!ENTITY cmd.context_new_folder.accesskey  "s">
@@ -113,15 +78,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ä">
 <!ENTITY cmd.reloadMicrosummary.label      "Päivitä muuttuva otsikko">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "ä">
-
-<!ENTITY cmd.groupby_site.label      "Lajittele palvelimen mukaan">
-<!ENTITY cmd.groupby_site.accesskey  "p">
-<!ENTITY cmd.groupby_page.label      "Lajittelen sivun mukaan">
-<!ENTITY cmd.groupby_page.accesskey  "s">
-<!ENTITY cmd.groupby_feed.label      "Lajittele tilauksen mukaan">
-<!ENTITY cmd.groupby_feed.accesskey  "t">
-<!ENTITY cmd.groupby_post.label      "Lajittele merkinnän mukaan">
-<!ENTITY cmd.groupby_post.accesskey  "m">
 
 <!ENTITY cmd.moveBookmarks.label                  "Siirrä…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -146,57 +102,14 @@
 <!ENTITY search.scopeDownloads.accesskey           "L">
 <!ENTITY search.scopeHistory.label                 "Sivuhistoriasta">
 <!ENTITY search.scopeHistory.accesskey             "S">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Näytä tarkennettu haku">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Piilota tarkennettu haku">
 <!ENTITY saveSearch.label                          "Tallenna">
 <!ENTITY saveSearch.accesskey                      "T">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Etsi vain kirjanmerkeistä">
-<!ENTITY advancedSearch.match.label                "Täyttää ">
-<!ENTITY advancedSearch.all.label                  "kaikki">
-<!ENTITY advancedSearch.any.label                  "jonkin">
-<!ENTITY advancedSearch.rules.label                " seuraavista ehdoista:">
-<!ENTITY advancedSearch.subj_keyword.label         "Sisältää merkkijonon">
-<!ENTITY advancedSearch.subj_visited.label         "Vierailtu">
-<!ENTITY advancedSearch.subj_location.label        "Osoite">
-<!ENTITY advancedSearch.location_startswith.label  "alkaa">
-<!ENTITY advancedSearch.location_is.label          "on">
-<!ENTITY advancedSearch.location_onsite.label      "on sivustolla">
-<!ENTITY advancedSearch.time_is.label              "täsmälleen">
-<!ENTITY advancedSearch.time_before.label          "ennen">
-<!ENTITY advancedSearch.time_after.label           "jälkeen">
-<!ENTITY advancedSearch.time_inlast.label          "viimeisenä">
-<!ENTITY advancedSearch.last_days.label            "päivänä">
-<!ENTITY advancedSearch.last_weeks.label           "viikkona">
-<!ENTITY advancedSearch.last_months.label          "kuukautena">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Ryhmittele: ">
-<!ENTITY advancedSearch.groupby_host.label         "palvelin">
-<!ENTITY advancedSearch.groupby_domain.label       "verkkoalue">
-<!ENTITY advancedSearch.groupby_folder.label       "kansio">
-<!ENTITY advancedSearch.sortby.label               "Lajittele: ">
-<!ENTITY advancedSearch.sortby_title.label         "otsikko">
-<!ENTITY advancedSearch.sortby_date.label          "päivä">
-<!ENTITY advancedSearch.sortby_visit.label         "vierailukerrat">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "nouseva">
-<!ENTITY advancedSearch.sortby_desc.label          "laskeva">
-<!ENTITY advancedSearch.max.label                  "Osumia enintään: ">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "Syöte">
-<!ENTITY feed.subscribe.tooltip  "Tilaa">
-
-<!ENTITY view.detailsMacOSX.label  "Luetteloi">
-<!ENTITY view.details.label        "Yksityiskohdat">
-<!ENTITY view.details.accesskey    "Y">
-
-<!ENTITY view.addons.label   "Hae näkymälaajennuksia">
-
 <!ENTITY maintenance.label   "Tuo ja varmuuskopioi">
 <!ENTITY maintenance.accesskey  "T">
+<!ENTITY maintenance.tooltip    "Tuo ja varmuuskopioi kirjanmerkkejä">
 
 <!ENTITY backCmd.label       "Edellinen">
 <!ENTITY backButton.tooltip  "Palaa edelliseen">

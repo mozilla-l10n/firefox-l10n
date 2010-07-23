@@ -1,13 +1,11 @@
-<!ENTITY aboutDialog.title       "Tietoja &brandFullName;ista">
-<!ENTITY copyright               "Tekijät">
-<!ENTITY copyright.accesskey    "T">
+<!ENTITY aboutDialog.title          "Tietoja &brandFullName;ista">
+<!ENTITY copyright                  "Tekijät">
+<!ENTITY copyright.accesskey        "T">
 <!ENTITY copyrightGNOME.accesskey   "T">
-<!ENTITY aboutLink               "&lt; Ohjelmatiedot">
-<!ENTITY aboutLink.accesskey    "O">
-<!ENTITY aboutVersion            "versio">
+<!ENTITY aboutLink                  "&lt; Ohjelmatiedot">
+<!ENTITY aboutLink.accesskey        "O">
+<!ENTITY aboutVersion               "versio">
 <!ENTITY closeCmdGNOME.label        "Sulje">  
 <!ENTITY closeCmdGNOME.accesskey    "S">
-<!ENTITY copyrightInfo1             "&#169;1998-2010 tekijät. Kaikki oikeudet pidätetään. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Lisenssitiedot">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">
