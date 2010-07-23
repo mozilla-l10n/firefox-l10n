@@ -21,9 +21,7 @@
 <!ENTITY editBookmarkRemove.label "Elimina">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
-<!ENTITY formHelper.previous "Precedente">
-<!ENTITY formHelper.next "Successivo">
-<!ENTITY formHelper.done "Fatto">
+<!ENTITY selectHelper.done "Fatto">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
 <!ENTITY addonsLocal.label "Componenti aggiuntivi installati">
 <!ENTITY addonsUpdate.label "Aggiorna">
