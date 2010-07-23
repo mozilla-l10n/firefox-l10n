@@ -14,8 +14,8 @@
 <!ENTITY manageSubscriptions.accesskey  "M">
 
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Uutiset ja verkkopäiväkirjat">
+<!ENTITY feeds.accountName "Uutiset ja blogit">
 <!ENTITY feeds.wizardShortName "Syötteet">
-<!ENTITY feeds.wizardLongName "Uutis- ja verkkopäiväkirjasyötteet">
+<!ENTITY feeds.wizardLongName "Uutis- ja blogisyötteet">
 <!ENTITY feeds.wizardLongName.accesskey "U">
 

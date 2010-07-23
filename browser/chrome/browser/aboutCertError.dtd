@@ -24,7 +24,7 @@ identiteettiä ei kuitenkaan voida varmentaa.">
 <!ENTITY certerror.whatShouldIDo.content "Jos olet aikaisemmin saanut
 ongelmitta muodostettua suojatun yhteyden tähän sivustoon, tämä virhe voi 
 olla merkkinä siitä, että jokin taho yrittää vilpillisesti tekeytyä täksi 
-sivustoksi, jolloin sivun ei pitäisi jatkaa sivustolle.">
+sivustoksi, jolloin sinun ei pitäisi jatkaa sivustolle.">
 <!ENTITY certerror.getMeOutOfHere.label "Siirry pois sivulta">
 
 <!ENTITY certerror.expert.heading "Ymmärrän riskit">

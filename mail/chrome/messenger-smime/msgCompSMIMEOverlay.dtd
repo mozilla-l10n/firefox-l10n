@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label  "Turvallisuus">
-<!ENTITY securityMenu.accesskey  "T">
-
 <!ENTITY menu_securityEncryptRequire.label  "Salaa tämä viesti">
 <!ENTITY menu_securityEncryptRequire.accesskey  "S">
-
-<!ENTITY menu_securityNoEncryption.label  "Älä salaa tätä viestiä">
-<!ENTITY menu_securityNoEncryption.accesskey  "t">
 
 <!ENTITY menu_securitySign.label  "Allekirjoita tämä viesti digitaalisesti">
 <!ENTITY menu_securitySign.accesskey  "A">

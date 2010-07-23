@@ -92,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Palvelimen pyytäessä henkilökohtaista varmennettani:">
+<!ENTITY certs.auto                      "Valitse sellainen automaattisesti">
+<!ENTITY certs.auto.accesskey            "V">
+<!ENTITY certs.ask                       "Kysy joka kerta">
+<!ENTITY certs.ask.accesskey             "K">
+
 <!ENTITY viewCertificates.label         "Näytä varmenteet">
 <!ENTITY viewCertificates.accesskey     "N">
 <!ENTITY viewCRLs.label                 "Sulkulistat">

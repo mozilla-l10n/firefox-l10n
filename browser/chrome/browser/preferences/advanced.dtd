@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "F">
 <!ENTITY checkNow.label                  "Tarkista heti">
 <!ENTITY checkNow.accesskey              "T">
+<!ENTITY submitCrashes.label             "Lähetä kaatumisilmoitus">
+<!ENTITY submitCrashes.accesskey         "L">
 
 <!ENTITY networkTab.label                "Verkko">
 
@@ -53,8 +55,8 @@
 <!ENTITY autoCheck.label                 "Hae päivityksiä väliajoin:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;iin">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Asennettuihin lisäosiin">
-<!ENTITY enableAddonsUpdate.accesskey    "A">
+<!ENTITY enableAddonsUpdate2.label       "Lisäosat">
+<!ENTITY enableAddonsUpdate2.accesskey   "L">
 <!ENTITY enableSearchUpdate.label        "Hakukoneisiin">
 <!ENTITY enableSearchUpdate.accesskey    "H">
 <!ENTITY whenUpdatesFound.label          "Kun päivitys &brandShortName;iin löytyy:">

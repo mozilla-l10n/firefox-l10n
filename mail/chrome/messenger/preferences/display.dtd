@@ -15,12 +15,7 @@
 <!ENTITY color.label                       "Väri:">
 <!ENTITY color.accesskey                   "V">
 <!ENTITY displayWidth.label                "Pelkkä teksti -viestit">
-<!ENTITY plainText.label	           "Käytä seuraavaa kirjasinlajia:">
 <!ENTITY displayText.label	           "Kirjasinlaji lainattaessa pelkkä teksti -viestejä:">
-<!ENTITY fixedWidth.label                  "Tasavälinen">
-<!ENTITY fixedWidth.accesskey              "a">
-<!ENTITY variableWidth.label               "Suhteellinen">
-<!ENTITY variableWidth.accesskey           "S">
 <!ENTITY colors.label                     "Värit">
 <!ENTITY overrideColors.label             "Käytä seuraavia värejä viestien näyttämiseen:">
 <!ENTITY textColor.label                 "Tekstin väri:">
@@ -42,7 +37,10 @@
 <!ENTITY removeTagButton.accesskey "P">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "Aseta &brandShortName;in käyttämät kirjasinlajit ja merkistökoodaukset.">
-<!ENTITY fontsAndEncodingsCaption.label      "Kirjasinlajit ja merkistökoodaukset">
-<!ENTITY fontOptions.accesskey   "K">
-<!ENTITY fontOptions.label       "Kirjasinlajit…">
+<!ENTITY fontsAndColors.label    "Kirjasinlajit">
+<!ENTITY defaultFont.label       "Oletuskirjasin:">
+<!ENTITY defaultFont.accesskey   "O">
+<!ENTITY defaultSize.label       "Koko:">
+<!ENTITY defaultSize.accesskey   "K">
+<!ENTITY fontOptions.accesskey   "L">
+<!ENTITY fontOptions.label       "Lisäasetukset…">

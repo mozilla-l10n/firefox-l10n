@@ -6,6 +6,10 @@
 <!ENTITY  checking.title                   "Haetaan päivityksiä">
 <!ENTITY  updateCheck.label               "Haetaan päivityksiä &brandShortName;iin…">
 
+<!ENTITY  pluginupdatesfound.title        "Löydettiin päivityksiä liitännäisiin">
+<!ENTITY  pluginupdatesfound.label        "Löydettiin uudempi versio yhdestä tai useammasta asennetusta liitännäisestä.">
+<!ENTITY  pluginupdateslink.label         "Lue lisää kuinka päivität liitännäisesi.">
+
 <!ENTITY  noupdatesfound.title             "Päivityksiä ei löytynyt">
 <!ENTITY  noupdatesautoenabled.intro      "Uusia päivityksiä ei ole saatavilla. &brandShortName; hakee
                                             päivityksiä väliajoin.">

@@ -157,3 +157,19 @@ tämän kontaktin lähettämissä sähköposteissa.">
 <!ENTITY Custom4.accesskey               "4">
 <!ENTITY Notes.label                       "Huomautuksia">
 <!ENTITY Notes.accesskey                "H">
+
+<!ENTITY Photo.tab                      "Kuva">
+<!ENTITY Photo.accesskey                "K">
+<!ENTITY PhotoDesc.label                "Valitse jokin seuraavista:">
+<!ENTITY GenericPhoto.label             "Yleinen kuva">
+<!ENTITY GenericPhoto.accesskey         "Y">
+<!ENTITY DefaultPhoto.label             "Oletus">
+<!ENTITY PhotoFile.label                "Tällä tietokoneella">
+<!ENTITY PhotoFile.accesskey            "T">
+<!ENTITY BrowsePhoto.label              "Selaa">
+<!ENTITY BrowsePhoto.accesskey          "S">
+<!ENTITY PhotoURL.label                 "Verkossa">
+<!ENTITY PhotoURL.accesskey             "V">
+<!ENTITY PhotoURL.emptytext             "Liitä tai kirjoita www-osoite kuvaan">
+<!ENTITY UpdatePhoto.label              "Päivitä">
+<!ENTITY UpdatePhoto.accesskey          "P">

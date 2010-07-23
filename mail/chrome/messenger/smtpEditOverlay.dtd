@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey  "K">
 <!ENTITY serverPort.label  "Portti:">
 <!ENTITY serverPort.accesskey  "o">
-<!ENTITY alwaysUseUsername.label  "Käytä tunnusta ja salasanaa">
-<!ENTITY alwaysUseUsername.accesskey  "K">
 <!ENTITY userName.label  "Käyttäjätunnus:">
 <!ENTITY userName.accesskey  "ä">
-<!ENTITY useSecAuth.label "Käytä suojattua todennusta">
-<!ENTITY useSecAuth.accesskey "y">
 <!ENTITY connectionSecurity.label "Yhteyden suojaus:">
 <!ENTITY connectionSecurity.accesskey "Y">
 <!ENTITY connectionSecurityType-0.label "Ei mitään">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-palvelin">
 <!ENTITY serverPortDefault.label "Oletus:">
+<!ENTITY authMethod.label "Todennustapa:">
+<!ENTITY authMethod.accesskey "T">

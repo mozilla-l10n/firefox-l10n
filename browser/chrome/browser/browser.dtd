@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Yksityinen selaus)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label  "Uusi välilehti">
 <!ENTITY tabCmd.accesskey  "v">
@@ -34,6 +32,8 @@
 <!ENTITY goOfflineCmd.label  "Työskentele yhteydettömässä tilassa">
 <!ENTITY goOfflineCmd.accesskey  "y">
 
+<!ENTITY menubarCmd.label "Valikkopalkki">
+<!ENTITY menubarCmd.accesskey "V">
 <!ENTITY navbarCmd.label  "Navigointipalkki">
 <!ENTITY navbarCmd.accesskey  "N">
 <!ENTITY personalbarCmd.label  "Kirjanmerkkipalkki">
@@ -50,6 +50,9 @@
 <!ENTITY pageInfoCmd.commandkey  "i">
 <!ENTITY fullScreenCmd.label  "Kokoruututila">
 <!ENTITY fullScreenCmd.accesskey  "K">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Näytä kaikki välilehdet">
+<!ENTITY showAllTabsCmd.accesskey "N">
 
 <!ENTITY fullScreenMinimize.tooltip  "Pienennä ikkuna">
 <!ENTITY fullScreenRestore.tooltip  "Palauta">
@@ -88,6 +91,7 @@
 <!ENTITY stopCmd.macCommandKey         ".">
 <!ENTITY stopButton.tooltip            "Lopeta sivun lataus">
 <!ENTITY goEndCap.tooltip             "Siirry osoitepalkissa olevaan osoitteeseen">
+<!ENTITY feedButton.tooltip           "Tilaa tämä sivu…">
 <!ENTITY printButton.label             "Tulosta">
 <!ENTITY printButton.tooltip           "Tulosta sivu">
 
@@ -101,13 +105,13 @@
 
 <!ENTITY bookmarksButton.label           "Kirjanmerkit">
 <!ENTITY bookmarksButton.tooltip         "Näytä kirjanmerkit">
-<!ENTITY bookmarksSidebarCmd.accesskey   "K">
-<!ENTITY bookmarksSidebarCmd.commandkey  "b">
+<!ENTITY bookmarksButton.accesskey  "K">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey  "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label             "Sivuhistoria">
 <!ENTITY historyButton.tooltip           "Näytä sivuhistoria">
@@ -198,7 +202,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Etsi kirjanmerkeistä ja sivuhistoriasta">
 <!ENTITY urlbar.bookmarkhistory.emptyText "Etsi kirjanmerkeistä ja sivuhistoriasta">
 <!ENTITY urlbar.bookmark.emptyText    "Etsi kirjanmerkeistä">
 <!ENTITY urlbar.history.emptyText     "Etsi sivuhistoriasta">
@@ -260,6 +263,8 @@
 <!ENTITY reloadImageCmd.accesskey     "L">
 <!ENTITY viewImageCmd.label            "Näytä kuva">
 <!ENTITY viewImageCmd.accesskey        "N">
+<!ENTITY viewImageInfoCmd.label       "Näytä kuvan tiedot">
+<!ENTITY viewImageInfoCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Näytä video">
 <!ENTITY viewVideoCmd.accesskey       "N">
 <!ENTITY viewBGImageCmd.label          "Näytä taustakuva">
@@ -312,8 +317,6 @@
 <!ENTITY copyAudioURLCmd.label        "Kopioi äänitteen sijainti">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
 <!ENTITY blockImageCmd.accesskey        "E">
-<!ENTITY metadataCmd.label             "Ominaisuudet">
-<!ENTITY metadataCmd.accesskey         "O">
 <!ENTITY copyEmailCmd.label            "Kopioi sähköpostiosoite">
 <!ENTITY copyEmailCmd.accesskey        "s">
 <!ENTITY thisFrameMenu.label               "Tämä kehys">
@@ -368,6 +371,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
 <!ENTITY pasteButton.tooltip             "Liitä">
+<!ENTITY fullScreenButton.tooltip       "Suurenna ikkunan koko ruudun kokoiseksi">
 
 <!ENTITY quitApplicationCmdWin.label        "Lopeta">
 <!ENTITY quitApplicationCmdWin.accesskey    "L">
@@ -444,4 +448,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Avaa latausikkuna napsauttamalla hiirellä">
 
-<!ENTITY ctrlTab.search.emptyText "Etsi välilehteä">
+<!ENTITY allTabs.filter.emptyText "Etsi välilehteä">

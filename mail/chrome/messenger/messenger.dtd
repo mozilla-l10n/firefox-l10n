@@ -7,12 +7,14 @@
 <!ENTITY newFolderCmd.accesskey  "K">
 <!ENTITY closeTabCmd.label "Sulje välilehti">
 <!ENTITY closeTabCmd.accesskey "S">
+<!ENTITY closeOtherTabsCmd.label "Sulje muut välilehdet">
+<!ENTITY closeOtherTabsCmd.accesskey "m">
 <!ENTITY newVirtualFolderCmd.label  "Tallennettu haku…">
 <!ENTITY newVirtualFolderCmd.accesskey  "h">
-<!ENTITY newAccountCmd.label  "Tili…">
-<!ENTITY newAccountCmd.accesskey  "T">
-<!ENTITY newMailAccountCmd.label "Sähköpostitili (pika-asennus)…">
-<!ENTITY newMailAccountCmd.accesskey "p">
+<!ENTITY newOtherAccountsCmd.label "Muut tilit…">
+<!ENTITY newOtherAccountsCmd.accesskey "M">
+<!ENTITY newEmailAccountCmd.label "Sähköpostitilit…">
+<!ENTITY newEmailAccountCmd.accesskey "S">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
 <!ENTITY openAttachmentCmd.label  "Liitetiedostot">
@@ -130,6 +132,8 @@
 
 <!ENTITY folderView.label "Kansiot">
 <!ENTITY folderView.accesskey "K">
+<!ENTITY unifiedFolders.label "Yhdistetty">
+<!ENTITY unifiedFolders.accesskey "Y">
 <!ENTITY allFolders.label "Kaikki">
 <!ENTITY allFolders.accesskey "a">
 <!ENTITY unreadFolders.label "Lukematta">
@@ -413,6 +417,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label  "Avaa viesti">
 <!ENTITY openMessageWindowCmd.accesskey  "i">
 <!ENTITY openMessageWindowCmd.key  "o">
+<!ENTITY openConversationCmd.label "Avaa keskusteluna">
+<!ENTITY openConversationCmd.accesskey "k">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Avaa syötteen viesti">
 <!ENTITY openFeedMessage.accesskey "A">
 <!ENTITY openFeedWebPageInWindow.label "Verkkosivu uuteen ikkunaan">
@@ -437,6 +444,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "o">
 <!ENTITY activitymanager.label "Toimintojen hallinta">
 <!ENTITY activitymanager.accesskey "h">
+<!ENTITY savedFiles.label "Tallennetut tiedostot">
+<!ENTITY savedFiles.accesskey "a">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label  "Viestisuodattimet…">
 <!ENTITY filtersCmd.accesskey  "V">
 <!ENTITY filtersApply.label  "Suodata kansion viestit">
@@ -467,6 +477,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Vastaa listalle">
 <!ENTITY forwardButton.label  "Välitä">
 <!ENTITY fileButton.label  "Tiedosto">
+<!ENTITY archiveButton.label "Arkistoi">
 <!ENTITY nextButton.label  "Seuraava">
 <!ENTITY previousButton.label  "Edellinen">
 <!ENTITY backButton1.label "Siirry edelliseen">
@@ -499,6 +510,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Vastaa postituslistalle">
 <!ENTITY forwardButton.tooltip  "Välitä viesti eteenpäin">
 <!ENTITY fileButton.tooltip  "Tallenna valittu viesti">
+<!ENTITY archiveButton.tooltip "Arkistoi valitut viestit">
 <!ENTITY nextButton.tooltip  "Siirry seuraavaan lukematta olevaan viestiin">
 <!ENTITY previousButton.tooltip  "Siirry edelliseen lukematta olevaan viestiin">
 <!ENTITY goForwardButton.tooltip "Siirry seuraavaan viestiin">
@@ -566,28 +578,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Etsi viesteistä…">
-<!ENTITY glodaSearchBar.facet.label "Etsi:">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Kaikesta">
-<!ENTITY glodaSearchFacet.subject.label "Aiheista">
-<!ENTITY glodaSearchFacet.involves.label "Vaihtoon osallistuneista">
-<!ENTITY glodaSearchFacet.to.label "Vastaanottajista, CC:stä">
-<!ENTITY glodaSearchFacet.from.label "Lähettäjistä">
-<!ENTITY glodaSearchFacet.body.label "Viestirungosta">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Liitteiden nimistä">
-
-<!ENTITY glodaSearchBar.location.label "Sijainti:">
-<!ENTITY glodaSearchFacet.everywhere.label "Kaikki kansiot">
-<!ENTITY glodaSearchFacet.folder.label "Tietystä kansiosta…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label  "Aihe">
@@ -618,15 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label  "Sijainti">
 <!ENTITY idColumn.label  "Saapumisjärjestys">
 <!ENTITY attachmentColumn.label  "Liitteet">
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Syy">
-<!-- LOCALIZATION NOTE (glodaScoreColumn.label): provides the numerical
-     score assigned to the message as a result of the search.  The column
-     primarily exists to be sorted by, and its contents will probably have
-     little meaning for most users. -->
-<!ENTITY glodaScoreColumn.label "Pisteluku">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip  "Valitse näkyvät sarakkeet">
@@ -649,16 +630,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip  "Napsauta järjestääksesi sijainnin mukaan">
 <!ENTITY idColumn.tooltip  "Napsauta järjestääksesi saapumisjärjestyksen mukaan">
 <!ENTITY attachmentColumn.tooltip  "Napsauta järjestääksesi liitteiden mukaan">
-<!ENTITY glodaWhyColumn.tooltip "Napsauta järjestääksesi listaussyyn mukaan">
-<!ENTITY glodaScoreColumn.tooltip "Napsauta järjestääksi haun pisteluvun mukaan">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label  "Avaa viesti uudessa ikkunassa">
 <!ENTITY contextOpenNewWindow.accesskey  "A">
 <!ENTITY contextOpenNewTab.label "Avaa viesti uudessa välilehdessä">
 <!ENTITY contextOpenNewTab.accesskey "v">
+<!ENTITY contextOpenConversation.label "Avaa viesti keskusteluna">
+<!ENTITY contextOpenConversation.accesskey "k">
 <!ENTITY contextEditAsNew.label  "Muokkaa uutena…">
 <!ENTITY contextEditAsNew.accesskey  "M">
+<!ENTITY contextArchive.label "Arkistoi">
+<!ENTITY contextArchive.accesskey "o">
 <!ENTITY contextReplySender.label  "Vastaa vain lähettäjälle">
 <!ENTITY contextReplySender.accesskey  "n">
 <!ENTITY contextReplyNewsgroup.label  "Vastaa ryhmään">
@@ -684,6 +667,63 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label  "Tulostuksen esikatselu">
 <!ENTITY contextPrintPreview.accesskey "u">
 
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+<!ENTITY columnPicker.resetToInbox.label "Palauta oletussarakkeet">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Käytä sarakkeita…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Kansiolle…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Kansiolle ja sen alikansioille…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "Tälle kansiolle">
+
+
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Toista">
+<!ENTITY contextPlay.accesskey "T">
+<!ENTITY contextPause.label "Pysäytä">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Vaimenna">
+<!ENTITY contextMute.accesskey "V">
+<!ENTITY contextUnmute.label "Palauta ääni">
+<!ENTITY contextUnmute.accesskey "P">
+
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "Roskapostia">
 <!ENTITY junkBarButton1.label "Ei roskapostia">
@@ -698,11 +738,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY removePhishingBarButton1.label "Ohita varoitus">
 <!ENTITY reportPhishingError1.label "Tämä ei ole huijausyritys">
 
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "lisää">
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "Viestin lähettäjä on pyytänyt vastaanottokuittausta. nLähetetäänkö vastaanottokuittaus?">
+<!ENTITY mdnBarIgnoreButton.label "Älä lähetä">
+<!ENTITY mdnBarSendButton.label "Lähetä kuittaus">
 
 <!-- Quick Search Bar -->
-<!ENTITY quickSearchCmd.key  "k">
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
+<!ENTITY quickSearchCmd.key "k">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "Etsi kaikista viesteistä… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label  "Lisää osoitekirjaan…">
@@ -713,10 +781,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "M">
 <!ENTITY ViewContact.label "Näytä yhteystiedot">
 <!ENTITY ViewContact.accesskey "N">
-<!ENTITY SendMailTo.label  "Lähetä viesti">
-<!ENTITY SendMailTo.accesskey  "ä">
-<!ENTITY CopyEmailAddress.label  "Kopioi sähköpostiosoite">
-<!ENTITY CopyEmailAddress.accesskey  "K">
+<!ENTITY SubscribeToNewsgroup.label "Tilaa keskusteluryhmä">
+<!ENTITY SubscribeToNewsgroup.accesskey "T">
+<!ENTITY SendMessageTo.label "Lähetä viesti">
+<!ENTITY SendMessageTo.accesskey "ä">
+<!ENTITY CopyEmailAddress.label "Kopioi sähköpostiosoite">
+<!ENTITY CopyEmailAddress.accesskey "s">
+<!ENTITY CopyNewsgroupName.label "Kopioi keskusteluryhmän nimi">
+<!ENTITY CopyNewsgroupName.accesskey "e">
+<!ENTITY CopyNewsgroupURL.label "Kopioi keskusteluryhmän URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Luo viestistä suodatin…">
 <!ENTITY CreateFilterFrom.accesskey "u">
 <!ENTITY reportPhishingURL.label "Ilmoita sähköpostihuijauksesta">
@@ -727,16 +801,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "T">
 <!ENTITY saveImageAsCmd.label "Tallenna kuva nimellä…">
 <!ENTITY saveImageAsCmd.accesskey "a">
+<!ENTITY cutCmd.label "Leikkaa">
+<!ENTITY cutCmd.accesskey "L">
 <!ENTITY copyCmd.label "Kopioi">
 <!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Liitä">
+<!ENTITY pasteCmd.accesskey "i">
 <!ENTITY selectAllCmd.label "Valitse kaikki">
 <!ENTITY selectAllCmd.accesskey "V">
 <!ENTITY copyLinkCmd.label "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey "o">
-<!ENTITY copyImageCmd.label "Kopioi kuvan osoite">
-<!ENTITY copyImageCmd.accesskey "u">
+<!ENTITY copyImageAllCmd.label "Kopioi kuvan osoite">
+<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Kopioi sähköpostiosoite">
 <!ENTITY copyEmailCmd.accesskey "s">
+<!ENTITY stopCmd.label "Pysäytä">
+<!ENTITY stopCmd.accesskey "P">
+<!ENTITY reloadCmd.label "Päivitä">
+<!ENTITY reloadCmd.accesskey "ä">
+<!ENTITY openInBrowser.label "Avaa selaimessa">
+<!ENTITY openInBrowser.accesskey "s">
+<!ENTITY openLinkInBrowser.label "Avaa linkki selaimessa">
+<!ENTITY openLinkInBrowser.accesskey "l">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label  "Valmis">

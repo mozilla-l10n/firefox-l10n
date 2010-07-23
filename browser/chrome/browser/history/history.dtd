@@ -22,7 +22,5 @@
 <!ENTITY openInNewTab.accesskey  "v">
 <!ENTITY openInNewWindow.label  "Avaa uuteen ikkunaan">
 <!ENTITY openInNewWindow.accesskey  "i">
-<!ENTITY bookmarkLink.label  "Lisää kohde kirjanmerkkeihin…">
-<!ENTITY bookmarkLink.accesskey  "L">
 <!ENTITY copyLink.label  "Kopioi linkin osoite">
 <!ENTITY copyLink.accesskey  "K">

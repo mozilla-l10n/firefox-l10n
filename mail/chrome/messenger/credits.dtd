@@ -1,6 +1,5 @@
 <!ENTITY credit.title      "&brandFullName; tekijät">
 <!ENTITY brandMotto        "Myrskylinnut matkaan!">
-<!ENTITY credit.leads      "Pääsuunnittelijat">
 <!ENTITY credit.thanks     "Erityiskiitokset">
 
 <!-- localization credits look like this: -->
@@ -12,8 +11,5 @@
 http://www.mozilla.fi</li>
 <li>Kaikki apua tarjonneet</li></ul>">
 
-<!ENTITY credit.theme        "Teeman suunnittelu">
-<!ENTITY credit.qa           "Laaduntarkkailu">
-<!ENTITY credit.build        "Pakettien luonti ja julkaisu">
 <!ENTITY credit.memory       "Lämpimästi muistaen">
 <!ENTITY credit.poweredByGecko  "Voimanlähteenä Gecko&trade;">

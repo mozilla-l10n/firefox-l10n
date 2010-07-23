@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label    "Salli uuden kansion sisältää:">
 <!ENTITY foldersOnly.label           "Vain kansioita">
 <!ENTITY messagesOnly.label          "Vain viestejä">
+<!ENTITY accept.label               "Luo kansio">
+<!ENTITY accept.accesskey           "u">

@@ -22,13 +22,14 @@
 <!ENTITY cmd.checkUpdatesAll.accesskey    "H">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Hae päivityksiä lisäosiin">
 <!ENTITY cmd.checkUpdatesAllTheme.tooltip "Hae päivityksiä teemoihin">
+<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Hae päivityksiä liitännäisiin">
 <!ENTITY cmd.installLocalFile.label       "Asenna…">
 <!ENTITY cmd.installLocalFile.accesskey   "A">
 <!ENTITY cmd.installFileAddon.tooltip     "Asenna lisäosa">
 <!ENTITY cmd.installFileTheme.tooltip     "Asenna teema">
-<!ENTITY cmd.installUpdatesAll.label      "Asenna päivitykset">
-<!ENTITY cmd.installUpdatesAll.accesskey  "s">
-<!ENTITY cmd.installUpdatesAll.tooltip    "Asentaa valitut päivitykset">
+<!ENTITY cmd.installUpdatesAll2.label     "Asenna päivitykset">
+<!ENTITY cmd.installUpdatesAll2.accesskey "s">
+<!ENTITY cmd.installUpdatesAll2.tooltip   "Asentaa valitut päivitykset">
 <!ENTITY cmd.restartApp2.label            "Käynnistä &brandShortName; uudelleen">
 <!ENTITY cmd.restartApp2.accesskey        "K">
 <!ENTITY cmd.restartApp2.tooltip          "Toteuta muutokset käynnistämällä &brandShortName; uudelleen">
@@ -113,6 +114,7 @@
 <!ENTITY needsDependencies.label          "Vaatii muita komponentteja.">
 <!ENTITY blocklisted.label                "Poistettu käytöstä turvallisuussyistä.">
 <!ENTITY softBlocklisted.label            "Tunnetusti aiheuttaa turvallisuus- tai vakausongelmia.">
+<!ENTITY outdated.label                   "Uusi, turvallisempi versio on saatavilla.">
 <!ENTITY toBeDisabled.label               "Poistetaan käytöstä &brandShortName;in käynnistyksen yhteydessä.">
 <!ENTITY toBeEnabled.label                "Otetaan käyttöön &brandShortName;in käynnistyksen yhteydessä.">
 <!ENTITY toBeInstalled.label              "Asennetaan &brandShortName;in käynnistyksen yhteydessä.">

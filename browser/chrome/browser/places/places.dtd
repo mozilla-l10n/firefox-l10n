@@ -71,6 +71,8 @@
 <!ENTITY cmd.edit_redo.accesskey    "T">
 <!ENTITY cmd.edit_redo.key          "y">
 
+<!ENTITY cmd.bookmarkLink.label         "Lisää tämä sivu kirjanmerkkeihin…">
+<!ENTITY cmd.bookmarkLink.accesskey     "L">
 <!ENTITY cmd.delete.label               "Poista tämä sivu">
 <!ENTITY cmd.delete.accesskey           "P">
 <!ENTITY cmd.deleteDomainData.label     "Unohda tämä sivu">
@@ -197,11 +199,9 @@
 <!ENTITY maintenance.accesskey  "T">
 
 <!ENTITY backCmd.label       "Edellinen">
-<!ENTITY backCmd.accesskey   "E">
 <!ENTITY backButton.tooltip  "Palaa edelliseen">
 
 <!ENTITY forwardCmd.label       "Seuraava">
-<!ENTITY forwardCmd.accesskey   "S">
 <!ENTITY forwardButton.tooltip  "Siirry seuraavaan">
 
 <!ENTITY detailsPane.more.label "Lisää">

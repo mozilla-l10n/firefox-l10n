@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title           "Nimeä kansio uudelleen">
 <!ENTITY rename.label                       "Kirjoita kansion uusi nimi:">
 <!ENTITY rename.accesskey                   "K">
+<!ENTITY accept.label                      "Nimeä uudelleen">
+<!ENTITY accept.accesskey                  "u">

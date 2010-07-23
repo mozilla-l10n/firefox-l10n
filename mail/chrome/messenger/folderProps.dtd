@@ -45,13 +45,16 @@
 <!ENTITY folderCharsetTab.accesskey               "O">
 <!ENTITY folderCharsetOverride.label              "Käytä oletusarvoa kansion kaikkiin viesteihin (viestikohtaiset merkistökoodausasetukset ja automaattinen tunnistus ohitetaan)">
 <!ENTITY folderCharsetOverride.accesskey          "K">
-<!ENTITY folderRebuildSummaryFile.label          "Kokoa hakemistot uudelleen">
-<!ENTITY folderRebuildSummaryFile.accesskey      "h">
-<!ENTITY folderRebuildSummaryFileTip.label       "Kokoa hakemistotiedosto uudelleen">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Kokoa hakemistot uudelleen">
+<!ENTITY folderRebuildSummaryFile2.label         "Korjaa kansio">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "K">
+<!ENTITY folderRebuildSummaryFile.explanation    "Joissain tilanteissa kansion hakemistotiedosto (.msf) vaurioituu ja tällöin jotkin tai kaikki kansion viestit voivat näyttää kadonneen tai jo poistetut viestit voivat palata listaukseen. Joissain tapauksissa kansion korjaaminen auttaa ongelmaan.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Kansion viestit ovat löydettävissä haulla">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "l">
 
 <!ENTITY retention.label  "Viestien säilytyskäytäntö">
-<!ENTITY retentionUseDefault.label   "Käytä palvelimen oletusasetuksia">
-<!ENTITY retentionUseDefault.accesskey  "o">
+<!ENTITY retentionUseAccount.label  "Käytä tilini asetuksia">
+<!ENTITY retentionUseAccount.accesskey "a">
 <!ENTITY daysOld.label  "päivää vanhoja">
 <!ENTITY message.label  "viestiä">
 <!ENTITY retentionCleanup.label  "Kiintolevytilaa voi vapauttaa poistamalla vanhoja viestejä pysyvästi.">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronointi">
-<!ENTITY folderCheckForNewMessages.label          "Tarkista, onko kansioon tullut uusia viestejä">
-<!ENTITY folderCheckForNewMessages.accesskey      "T">
+<!ENTITY folderCheckForNewMessages2.label          "Tarkista tilille saapuvien viestien yhteydessä, onko tähän kansioon tullut uusia viestejä">
+<!ENTITY folderCheckForNewMessages2.accesskey      "T">
 
 <!ENTITY offlineFolder.check.label                "Kansio on käytettävänä yhteydettömässä tilassa">
 <!ENTITY offlineFolder.check.accesskey            "y">
