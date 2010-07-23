@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label           "Novo Separador">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  reloadTab.label        "Recarregar Separador">
 <!ENTITY  reloadTab.accesskey         "R">
 <!ENTITY  reloadAllTabs.label    "Recarregar Todos os Separadores">
@@ -169,9 +167,9 @@ shortcut keys on Linux. -->
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Mostrar cabeçalhos">
-<!ENTITY hudConsoleCmd.accesskey      "ç">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Consola web">
+<!ENTITY webConsoleCmd.accesskey      "w">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "I">
@@ -288,16 +286,16 @@ shortcut keys on Linux. -->
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
+<!ENTITY openLinkCmdInTab.label "Abrir a ligação num novo separador">
+<!ENTITY openLinkCmdInTab.accesskey "S">
 <!ENTITY openLinkCmd.label "Abrir a ligação numa nova janela">
 <!ENTITY openLinkCmd.accesskey "J">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openLinkCmdInTab.label "Abrir a ligação num novo separador">
-<!ENTITY openLinkCmdInTab.accesskey "S">
-<!ENTITY openFrameCmd.label "Abrir a frame numa nova janela">
-<!ENTITY openFrameCmd.accesskey "J">
 <!ENTITY openFrameCmdInTab.label "Abrir a frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey "S">
+<!ENTITY openFrameCmd.label "Abrir a frame numa nova janela">
+<!ENTITY openFrameCmd.accesskey "J">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar apenas esta frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
 <!ENTITY reloadCmd.commandkey "r">
