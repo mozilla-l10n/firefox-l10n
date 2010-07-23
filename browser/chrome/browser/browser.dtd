@@ -2,8 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazione anonima)">
-<!ENTITY newTab.label "Nuova scheda">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
@@ -136,9 +134,9 @@
 <!ENTITY errorConsoleCmd.label "Console degli errori">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY hudConsoleCmd.label "Visore HUD">
-<!ENTITY hudConsoleCmd.accesskey "V">
-<!ENTITY hudConsoleCmd.commandkey "k">
+<!ENTITY webConsoleCmd.label "Console web">
+<!ENTITY webConsoleCmd.accesskey "w">
+<!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Analizza">
 <!ENTITY inspectMenu.accesskey "A">
 <!ENTITY inspectMenu.commandkey "I">
@@ -219,16 +217,16 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
+<!ENTITY openLinkCmdInTab.accesskey "s">
 <!ENTITY openLinkCmd.label "Apri in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "f">
 <!ENTITY openLinkCmdInCurrent.label "Apri collegamento">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
-<!ENTITY openLinkCmdInTab.accesskey "s">
-<!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
-<!ENTITY openFrameCmd.accesskey "A">
 <!ENTITY openFrameCmdInTab.label "Apri riquadro in nuova scheda">
 <!ENTITY openFrameCmdInTab.accesskey "c">
+<!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
+<!ENTITY openFrameCmd.accesskey "A">
 <!ENTITY showOnlyThisFrameCmd.label "Visualizza solo questo riquadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY reloadCmd.commandkey "r">
