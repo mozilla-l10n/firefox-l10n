@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Tietoja ongelmatilanteiden ratkaisuun">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Tällä sivulla on teknisiä tietoja, jotka voivat olla avuksi kun yritetään ratkaista 
+  jotain ongelmaa ohjelman kanssa. Jos olet etsimässä vastauksia kysymyksiin
+  &brandShortName;ista, käy katsomassa löytyykö hakemaasi vastausta <a id='supportLink'>tukisivustoltamme</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Laajennukset">
+<!ENTITY aboutSupport.extensionName "Nimi">
+<!ENTITY aboutSupport.extensionEnabled "Käytössä">
+<!ENTITY aboutSupport.extensionVersion "Versio">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Ohjelman perustiedot">
+<!ENTITY aboutSupport.appBasicsName "Nimi">
+<!ENTITY aboutSupport.appBasicsVersion "Versio">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profiilikansio">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Käytössä olevat liitännäiset">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Koostamisasetukset">
+
+<!ENTITY aboutSupport.show.label "Avaa kansio">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Avaa Finderissa">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Muutetut asetukset">
+<!ENTITY aboutSupport.modifiedPrefsName "Nimi">
+<!ENTITY aboutSupport.modifiedPrefsValue "Arvo">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Asennushistoria">
+<!ENTITY aboutSupport.updateHistoryTitle "Päivityshistoria">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopioi tiedot leikepöydälle">
