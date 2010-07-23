@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "จัดระเบียบ">
 <!ENTITY organize.accesskey "จ">
+<!ENTITY organize.tooltip      "จัดการที่คั่นหน้าเว็บของคุณ">
 
 <!ENTITY file.accesskey "ฟ">
 <!ENTITY file.close.label "ปิด">
@@ -14,6 +15,7 @@
 <!ENTITY views.label "มุมมอง">
 <!ENTITY views.accesskey "ม">
 <!ENTITY view.columns.label "แสดงคอลัมน์">
+<!ENTITY views.tooltip                  "เปลี่ยนมุมมองของคุณ">
 <!ENTITY view.columns.accesskey "ค">
 <!ENTITY view.sort.label "เรียง">
 <!ENTITY view.sort.accesskey "ร">
@@ -108,6 +110,7 @@
 
 <!ENTITY maintenance.label "นำเข้าและสำรองข้อมูล">
 <!ENTITY maintenance.accesskey "น">
+<!ENTITY maintenance.tooltip    "นำเข้าและสำรองที่คั่นหน้าเว็บของคุณ">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
 <!ENTITY backButton.tooltip "ย้อนกลับ">
