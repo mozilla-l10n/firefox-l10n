@@ -1,0 +1,78 @@
+<!ENTITY autoconfigWizard.title          "Sähköpostitilin asennus">
+<!ENTITY name.label                      "Nimi:">
+<!ENTITY name.accesskey                  "N">
+<!ENTITY name.emptytext                  "Etunimi Sukunimi">
+<!ENTITY name.text                       "Nimesi muille näkyvä muoto">
+<!ENTITY email.label                     "Sähköpostiosoite:">
+<!ENTITY email.accesskey                 "S">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "Salasana:">
+<!ENTITY password.accesskey              "a">
+<!ENTITY password.emptytext              "Salasana">
+<!ENTITY password.text                   "Valinnainen, käytetään vain todentamaan käyttäjätunnus">
+
+<!ENTITY accountInformation.label        "Tilin tiedot">
+<!ENTITY username2.label                 "Käyttäjätunnus:">
+<!ENTITY incoming.label                  "Saapuva:">
+<!ENTITY outgoing.label                  "Lähtevä:">
+<!ENTITY noEncryption.label              "Ei mitään">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Mahdollisuus lukea viestejä usealta tietokoneelta">
+<!ENTITY pop.description                 "POP - Lataa viestit tälle tietokoneelle, kansiot olemassa vain tällä tietokoneella">
+<!ENTITY recommended-appendix.label      "(suositeltu)">
+
+<!ENTITY manualSetup.label               "Manuaaliasetukset…">
+<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY cancel.label                    "Peruuta">
+<!ENTITY cancel.accesskey                "P">
+<!ENTITY continue.label                  "Jatka">
+<!ENTITY continue.accesskey              "J">
+<!ENTITY startOver.label                 "Aloita alusta">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "Lopeta">
+<!ENTITY stop.accesskey                  "L">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Testaa asetuksia uudelleen">
+<!ENTITY retest.accesskey                "T">
+<!ENTITY edit.label                      "Muokkaa">
+<!ENTITY edit.accesskey                  "M">
+
+<!ENTITY rememberPassword.label          "Tallenna salasana">
+<!ENTITY rememberPassword.accesskey      "T">
+
+<!ENTITY warning.label                   "Varoitus!">
+<!ENTITY incomingSettings.label          "Saapuvan postin asetukset:">
+<!ENTITY outgoingSettings.label          "Lähtevän postin asetukset:">
+<!ENTITY technicaldetails.label          "Tekniset yksityiskohdat">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Ymmärrän riskit.">
+<!ENTITY confirmWarning.accesskey        "Y">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Luo tili">
+<!ENTITY createAccount.accesskey         "L">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Muokkaa asetuksia">
+<!ENTITY changeSettings.accesskey        "u">
+
+<!ENTITY contactYourProvider.description "&brandShortName; pystyy hakemaan postisi näillä asetuksilla. Sinun kuitenkin tulisi huomauttaa koneesi ylläpitäjälle tai sähköpostipalvelun tarjoajallesi näistä epämääräisistä yhteystavoista. Lue lisää aiheesta Thunderbirdin FAQ:sta.">
+
+<!ENTITY insecureServer.tooltip.title    "Varoitus! Tämä palvelin ei ole suojattu.">
+<!ENTITY insecureServer.tooltip.details  "Napsauta ympyrää lukeaksesi lisää.">
+
+<!ENTITY insecureUnencrypted.description "Sähköpostisi välitetään selkokielisenä, jonka takia on mahdollista, että asiaankuulumattomat henkilöt lukevat sähköpostejasi. &brandShortName; toimii myös näillä asetuksilla, mutta olisi parempi jos saisit sähköpostipalveluntarjoajasi muuttamaan sähköpostipalvelunsa käyttämään suojattua yhteyttä.">
+<!ENTITY insecureSelfSigned.description  "Palvelin käyttää ei luotettua varmennetta, joten ei voi olla varma ettei joku kolmas osapuoli kaappaa &brandShortName;in ja sähköpostipalvelimen välistä liikennettä. &brandShortName; toimii myös näillä asetuksilla, mutta olisi parempi jos saisit sähköpostipalveluntarjoajasi käyttämään luotettua varmennetta.">
+<!ENTITY secureServer.description        "Onneksi olkoon! Sähköpostipalvelin on asianmukaisesti suojattu.">

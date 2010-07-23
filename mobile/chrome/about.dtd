@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "Tietoja &brandShortName;ista">
+<!ENTITY aboutPage.faq.label                    "UKK">
+<!ENTITY aboutPage.support.label                "Tuki">
+<!ENTITY aboutPage.privacyPolicy.label          "Tietosuojakäytäntö">
+<!ENTITY aboutPage.rights.label                 "Tietoa oikeuksistasi">
+<!ENTITY aboutPage.relNotes.label               "Julkaisutiedot">
+<!ENTITY aboutPage.credits.label                "Tekijät">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 tekijät. Kaikki oikeudet pidätetään. (">
+<!ENTITY aboutPage.licenseLink                  "Lisenssitiedot">
+<!ENTITY aboutPage.copyrightInfo2               ").">

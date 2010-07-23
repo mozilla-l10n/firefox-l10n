@@ -1,0 +1,97 @@
+<!ENTITY urlbar.emptytext      "Kirjoita hakusana tai osoite">
+
+<!ENTITY back.label            "Edellinen">
+<!ENTITY forward.label         "Seuraava">
+<!ENTITY reload.label          "Päivitä">
+<!ENTITY stop.label            "Pysäytä">
+<!ENTITY go.label              "Siirry">
+<!ENTITY openLocation.label    "Avaa osoite">
+<!ENTITY star.label            "Merkitse tähdellä">
+
+<!ENTITY newtab.label          "Uusi välilehti">
+<!ENTITY closetab.label        "Sulje välilehti">
+
+<!ENTITY cut.label             "Leikkaa">
+<!ENTITY copy.label            "Kopioi">
+<!ENTITY copylink.label        "Kopioi linkin osoite">
+<!ENTITY paste.label           "Liitä">
+<!ENTITY delete.label          "Poista">
+<!ENTITY selectAll.label       "Valitse kaikki">
+<!ENTITY noSuggestions.label   "(Ei ehdotuksia)">
+<!ENTITY addToDictionary.label "Lisää sanastoon">
+
+<!ENTITY bookmarksHeader.label     "Kirjanmerkit">
+<!ENTITY bookmarksManage.label     "Järjestele">
+
+<!ENTITY editBookmarkRemove.label  "Poista">
+<!ENTITY editBookmarkDone.label    "Valmis">
+<!ENTITY editBookmarkTags.label    "Lisää avainsanoja">
+
+<!ENTITY helperApp.prompt          "Mitä kohteelle tehdään">
+<!ENTITY helperApp.open            "Avaa">
+<!ENTITY helperApp.save            "Tallenna">
+<!ENTITY helperApp.nothing         "Ei mitään">
+
+<!ENTITY formHelper.previous       "Edellinen">
+<!ENTITY formHelper.next           "Seuraava">
+<!ENTITY formHelper.done           "Valmis">
+
+<!ENTITY addonsHeader.label        "Lisäosat">
+<!ENTITY addonsLocal.label         "Lisäosasi">
+<!ENTITY addonsUpdate.label        "Päivitä">
+<!ENTITY addonsRepo.label          "Hae lisäosia">
+<!ENTITY addonsRecommended.label   "Suositeltu">
+<!ENTITY addonsSearch.label        "Etsi">
+<!ENTITY addonsSearch2.emptytext   "Hae luettelosta">
+<!ENTITY addonsSearch.recommended  "Suositellaan">
+
+<!ENTITY addonOptions.label        "Asetukset">
+<!ENTITY addonEnable.label         "Ota käyttöön">
+<!ENTITY addonDisable.label        "Poista käytöstä">
+<!ENTITY addonInstall2.label       "Asenna &brandShortName;iin">
+<!ENTITY addonUninstall.label      "Poista">
+<!ENTITY addonCancel.label         "Peruuta">
+<!ENTITY addonShowPage.label       "Siirry sivulle">
+
+<!ENTITY downloadsHeader.label     "Lataukset">
+
+<!ENTITY downloadShowPage.label    "Siirry sivulle">
+<!ENTITY downloadShow2.label       "Etsi">
+<!ENTITY downloadOpen2.label       "Avaa">
+<!ENTITY downloadCancel.label      "Peruuta">
+<!ENTITY downloadPause.label       "Pysäytä">
+<!ENTITY downloadResume.label      "Jatka">
+<!ENTITY downloadRetry.label       "Yritä uudelleen">
+<!ENTITY downloadRemove.label      "Poista">
+<!ENTITY downloadFailed.label      "Epäonnistui">
+
+<!ENTITY noResults.label           "Ei osumia">
+<!ENTITY allBookmarks.label        "Näytä kaikki kirjanmerkit">
+
+<!ENTITY bookmarkPopup.label       "Sivu lisättiin kirjanmerkkeihin">
+<!ENTITY bookmarkRemove.label      "Poista">
+<!ENTITY bookmarkEdit.label        "Muokkaa">
+
+<!ENTITY identity.unverifiedsite2 "Tähän verkkosivustoon ei liity identiteettitietoja.">
+<!ENTITY identity.connectedTo2 "Yhteys muodostettu sivustoon">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 ", jota hallinnoi">
+
+<!ENTITY consoleHeader.label       "Virhekonsoli">
+<!ENTITY consoleAll.label          "Kaikki">
+<!ENTITY consoleErrors.label       "Virheet">
+<!ENTITY consoleWarnings.label     "Varoitukset">
+<!ENTITY consoleMessages.label     "Viestit">
+<!ENTITY consoleCodeEval.label     "Koodi:">
+<!ENTITY consoleClear.label        "Tyhjennä">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Lähdetiedosto:">
+<!ENTITY consoleErrLine.label      "Rivi:">
+<!ENTITY consoleErrColumn.label    "Sarake:">
+
+<!ENTITY contextOpenInNewTab.label "Avaa linkki välilehteen">
+<!ENTITY contextSaveImage.label    "Tallenna kuva">
