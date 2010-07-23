@@ -1,0 +1,8 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName;in </span><span id='header-suffix'>aloitussivu</span>">
+<!ENTITY aboutHome.recentTabs                   "Välilehdet viime kerralta">
+<!ENTITY aboutHome.remoteTabs                   "Välilehdet muissa laitteissa">
+<!ENTITY aboutHome.recommendedAddons2           "Lisäosia &brandShortName;iin">
+<!ENTITY aboutHome.aboutMozilla                 "Tietoja Mozillasta">
+<!ENTITY aboutHome.openAllTabs                  "Avaa kaikki välilehtiin">
+<!ENTITY aboutHome.noTabs                       "Ei välilehtiä viime kerralta">
+<!ENTITY aboutHome.noAddons                     "Ei suositeltuja lisäosia">

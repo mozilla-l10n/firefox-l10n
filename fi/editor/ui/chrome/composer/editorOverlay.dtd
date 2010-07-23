@@ -88,7 +88,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Muokkaa">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "M">
 <!ENTITY pasteNoFormatting.label "Liitä ilman muotoilua">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">

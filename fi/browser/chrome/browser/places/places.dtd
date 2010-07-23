@@ -139,7 +139,7 @@
 <!ENTITY search.label                              "Etsi:">
 <!ENTITY search.accesskey                          "E">
 <!ENTITY search.scopeFolder.label                  "Valitusta kansiosta">
-<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeFolder.accesskey              "V">
 <!ENTITY search.scopeBookmarks.label               "Kirjanmerkeistä">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "Latauksista">

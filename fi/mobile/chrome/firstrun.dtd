@@ -1,0 +1,13 @@
+<!ENTITY firstrun.title                "Tervetuloa käyttämään &brandShortName;ia">
+<!ENTITY firstrun.heading              "Päästäksesi parhaiten alkuun &brandShortName;in käyttämiseen kannettavalla laitteellasi, olemme listanneet alle muutaman suositun lisäosan.">
+<!ENTITY firstrun.recommended          "Suosittelemme:">
+<!ENTITY firstrun.weave.title          "Asenna Firefox Sync">
+<!ENTITY firstrun.weave.description    "Jaa &brandShortName;in sivuhistoria, salasanat, kirjanmerkit ja välilehdet pöytäkoneesi ja kannettavan laitteesi kesken">
+<!ENTITY firstrun.starter.title        "Lataa aloituspakettimme Starter Kit Collection">
+<!ENTITY firstrun.starter.description  "Asenna nämä suositellut lisäosat saadaksesi kaiken irti &brandShortName;istasi">
+<!ENTITY firstrun.tour.title           "Katso esittely ominaisuuksista">
+<!ENTITY firstrun.tour.description     "Tämä videopätkä tutustuttaa sinut selaimeen ja siisteihin ominaisuuksiin">
+<!ENTITY firstrun.features             "Lue muista ominaisuuksista">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Tietosuojakäytäntö">
+<!ENTITY firstrun.follow               "Seuraa meitä verkossa:">
