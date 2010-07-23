@@ -1,9 +1,13 @@
+status_foldercount
+
+
+
+
 # LOCALIZATION NOTE (tagResultLabel) :
 # This is what we use to form the label (for screen readers)
 # for url bar autocomplete results of type "tag"
 # See createResultLabel() in urlbarBindings.xml 
 tagResultLabel=Etiketë
-smartBookmarksFolderTitle=Faqerojtës të Mençur
 recentlyBookmarkedTitle=Faqeruajtur së Fundmi
 recentTagsTitle=Etiketa së Fundmi
 OrganizerQueryAllBookmarks=Tërë Faqerojtësit
@@ -19,8 +23,6 @@ mostVisitedTitle=Më të Vizituarit
 
 deleteHost=Fshiji të tëra prej %S
 deleteDomain=Fshije tërë përkatësinë %S
-deleteHostNoSelection=Fshi strehën
-deleteDomainNoSelection=Fshi përkatësinë
 
 load-js-data-url-error=Për arsye sigurie, javascript apo url-ë të dhënash nuk mund të ngarkohen prej dritares apo anështyllës së historikut.
 noTitle=(pa titull)
@@ -28,27 +30,14 @@ noTitle=(pa titull)
 
 bookmarksMenuEmptyFolder=(Bosh)
 
-# LOCALIZATION NOTE (bookmarksBackupFilename) :
-# %S will be replaced by the current date in ISO 8601 format, YYYY-MM-DD.
-# The resulting string will be suggested as a filename, so make sure that you're
-# only using characters legal for file names. Consider falling back to the
-# en-US value if you have to use non-ascii characters.
-bookmarksBackupFilename=Faqerojtësa %S.html
 bookmarksBackupTitle=Emër kartele kopjeruajtjeje faqerojtësish
 
 bookmarksRestoreAlertTitle=Rikthe Faqerojtësit
 bookmarksRestoreAlert=Në këtë mënyrë do të zëvendësohen tërë faqerojtësit tuaj të tanishëm me ata të kopjeruajtjes. Jeni i sigurt?
 bookmarksRestoreTitle=Përzgjidhni një kopjeruajtje faqerojtësish
 
-headerTextPrefix1=Po shfaqet
-headerTextPrefix2=Kërko në Përfundime për
-headerTextPrefix3=Kërkim i Mëtejshëm
 
 menuOpenLivemarkOrigin.label=Hap "%S"
-
-livemarkReload=Ringarko
-livemarkReloadAll=Ringarko Tërë Faqerojtësit e Gjallë
-livemarkReloadOne=Ringarko %S
 
 sortByName=Renditi '%S' sipas Emrash
 sortByNameGeneric=Renditi sipas Emrash
@@ -79,8 +68,6 @@ tabs.openWarningMultipleBranded=Jeni duke hapur %S skeda.  Kjo mund të ngadalë
 tabs.openButtonMultiple=Hap skedat
 tabs.openWarningPromptMeBranded=Njoftomë kur hapja e skedave të shumta mund të ngadalësojë %S-in
 
-status_foldercount = %S objekt(e)
-
 SelectImport=Importo Kartelë Faqerojtësish
 EnterExport=Eksport Kartelë Faqerojtësish
 
@@ -93,8 +80,6 @@ detailsPane.oneItem=Një objekt
 detailsPane.multipleItems=%S objekte
 searchBookmarks=Kërko në Faqerojtësa
 
-bookmarksBackupFilenameJSON=Faqerojtësa %S.json
-bookmarksRestoreAlertTags=Kjo do të zëvendësojë tërë faqerojtësit dhe etiketat tuaja të tanishme me kopjeruajtjen. Jeni i sigurt?
 bookmarksLivemarkLoading=Po ngarkohet Faqerojtës i Gjallë…
 bookmarksLivemarkFailed=Ngarkimi i prurjes Faqerojtës i Gjallë dështoi.
 
