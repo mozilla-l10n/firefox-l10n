@@ -27,9 +27,6 @@
 <!ENTITY editBookmarkDone.label    "Feito">
 <!ENTITY editBookmarkTags.label    "Adicionar etiquetas aqui">
 
-<!ENTITY contentNavigator.previous "Anterior">
-<!ENTITY contentNavigator.next     "Seguinte">
-
 <!ENTITY selectHelper.done         "Feito">
 
 <!ENTITY addonsHeader.label        "Extras">
