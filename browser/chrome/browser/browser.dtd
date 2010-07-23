@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ดูเว็บแบบส่วนตัว)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "แท็บใหม่">
-<!ENTITY  newTab.accesskey                   "ม">
 <!ENTITY  reloadTab.label                    "เรียกแท็บนี้ใหม่">
 <!ENTITY  reloadTab.accesskey                "ร">
 <!ENTITY  reloadAllTabs.label                "เรียกทุกแท็บใหม่">
@@ -169,13 +167,23 @@
 <!ENTITY errorConsoleCmd.accesskey "จ">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY hudConsoleCmd.label          "หน้าจอนักพัฒนา">
-<!ENTITY hudConsoleCmd.accesskey      "พ">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "เว็บคอนโซล">
+<!ENTITY webConsoleCmd.accesskey      "ว">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "ตรวจดู">
 <!ENTITY inspectMenu.accesskey        "ต">
 <!ENTITY inspectMenu.commandkey       "ต">
+
+<!ENTITY inspectButton.label          "ตรวจดู">
+<!ENTITY inspectButton.accesskey      "ต">
+<!ENTITY inspectNextButton.label      "ถัดไป">
+<!ENTITY inspectNextButton.accesskey  "ถ">
+<!ENTITY inspectPreviousButton.label  "ก่อนหน้า">
+<!ENTITY inspectPreviousButton.accesskey "ก">
+<!ENTITY inspectStyleButton.label     "รูปแบบ">
+<!ENTITY inspectStyleButton.accesskey "ร">
+<!ENTITY inspectStylePanelTitle.label  "รูปแบบ">
 
 <!ENTITY fileMenu.label "แฟ้ม">
 <!ENTITY fileMenu.accesskey "ฟ">
@@ -362,7 +370,6 @@
 <!ENTITY copyVideoURLCmd.accesskey "ข">
 <!ENTITY copyAudioURLCmd.label "คัดลอก URL ของเสียง">
 <!ENTITY copyAudioURLCmd.accesskey "ข">
-<!ENTITY blockImageCmd.accesskey "ก">
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
 <!ENTITY copyEmailCmd.accesskey "อ">
 <!ENTITY thisFrameMenu.label "กรอบนี้">
