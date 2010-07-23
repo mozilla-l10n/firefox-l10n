@@ -107,8 +107,8 @@
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
-<!ENTITY lightning.keys.event.new "S">
-<!ENTITY lightning.keys.todo.new "Ü">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "Loo uus kalender">
