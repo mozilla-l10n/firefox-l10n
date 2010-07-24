@@ -1,7 +1,4 @@
-amazondotcom
-answers
-creativecommons
-eBay
 google
-wikipedia
-yahoo
+yahoo-es
+eBay-es
+wikipedia-ast
