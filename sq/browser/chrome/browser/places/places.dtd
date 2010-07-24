@@ -6,8 +6,6 @@
 <!ENTITY edit.label                     "Përpunim">
 <!ENTITY edit.accesskey                 "P">
 <!ENTITY views.label                    "Shfaqje">
-<!ENTITY view.toolbar.label             "Panel">
-<!ENTITY view.toolbar.accesskey         "N">
 <!ENTITY view.columns.label             "Shfaq Shtylla">
 <!ENTITY view.columns.accesskey         "S">
 <!ENTITY view.sort.label                "Renditi">
