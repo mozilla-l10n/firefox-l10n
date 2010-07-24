@@ -1,13 +1,13 @@
+
+cmd.optionsUnix.tooltip
+
 <!ENTITY getExtensions.label              "Merrni Zgjerime">
 <!ENTITY getThemes.label                  "Merrni Tema">
-<!ENTITY addons.title                     "Shtesa">
 
 <!-- Default window size for the addon manager in pixels -->
 <!ENTITY em.width                         "520">
 <!ENTITY em.height                        "380">
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+
 <!-- View labels -->
 <!ENTITY extensions.label                 "Zgjerime">
 <!ENTITY themes.label                     "Tema">
@@ -17,74 +17,28 @@
 <!ENTITY install.label                    "Instalime">
 
 <!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Gjej Përditësime">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "G">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Gjeni Përditësime për Shtesat tuaja">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Gjeni Përditësime për Temat tuaja">
-<!ENTITY cmd.installFileAddon.tooltip     "Instaloni një Shtesë">
-<!ENTITY cmd.installFileTheme.tooltip     "Instaloni një Temë">
-
-<!ENTITY cmd.installUpdatesAll2.label      "Instalo Përditësimet">
-<!ENTITY cmd.installUpdatesAll2.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip    "Instalon përditësimet e përzgjedhur">
 <!ENTITY cmd.skip.label                   "Anashkaloje">
 <!ENTITY cmd.skip.accesskey               "A">
 <!ENTITY cmd.skip.tooltip                 "Anashkalo këto përditësime">
-<!ENTITY cmd.continue.label               "Vazhdo">
-<!ENTITY cmd.continue.accesskey           "V">
-<!ENTITY cmd.continue.tooltip             "Vazhdo ngarkimin e &brandShortName;-it">
-<!ENTITY cmd.enableAll.label              "Aktivizoji Të tëra">
-<!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "Aktivizo të tëra Shtesat e shfaqura">
-<!ENTITY cmd.disableAll.label             "Çaktivizoji Të tëra">
-<!ENTITY cmd.disableAll.accesskey         "ç">
-<!ENTITY cmd.disableAll.tooltip           "Çaktivizo të tëra Shtesat e shfaqura">
+
 
 <!-- Displayed in the selected Add-on's richlistitem and context menu -->
 <!ENTITY cmd.useTheme.label               "Përdore Temën">
 <!ENTITY cmd.useTheme.accesskey           "P">
 <!ENTITY cmd.useTheme.tooltip             "Ndryshon Temën e &brandShortName;-it">
-<!ENTITY cmd.options.label                "Mundësi">
-<!ENTITY cmd.options.accesskey            "M">
-<!ENTITY cmd.options.tooltip              "Rregulloni Mundësitë për Zgjerimin e përzgjedhur">
-<!ENTITY cmd.optionsUnix.label            "Parapëlqime">
-<!ENTITY cmd.optionsUnix.accesskey        "P">
-<!ENTITY cmd.optionsUnix.tooltip          "Përpunoni Parapëlqimet për Zgjerimin e përzgjedhur">
-<!ENTITY cmd.enable.label                 "Aktivizoje">
-<!ENTITY cmd.enable.accesskey             "A">
-<!ENTITY cmd.enable.tooltip               "Aktivizo këtë Shtesë kur të riniset &brandShortName;-i">
-<!ENTITY cmd.disable.label                "Çaktivizoje">
-<!ENTITY cmd.disable.accesskey            "a">
-<!ENTITY cmd.disable.tooltip              "Çaktivizo këtë Shtesë kur të riniset &brandShortName;- i">
 <!ENTITY cmd.uninstall.label              "Çinstaloje">
 <!ENTITY cmd.uninstall2.accesskey         "i">
 <!ENTITY cmd.uninstall2.tooltip           "Çinstalo këtë Shtesë kur të riniset &brandShortName;- i">
-<!ENTITY cmd.cancelUninstall.label        "Anulo Çinstalimin">
-<!ENTITY cmd.cancelUninstall.accesskey    "A">
-<!ENTITY cmd.cancelUninstall.tooltip      "Anulo çinstalimin e kësaj Shtese">
-<!ENTITY cmd.installUpdate.label          "Instaloje Përditësimin">
-<!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "Instaloni një përditësim për këtë Shtesë">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Anuloje">
-<!ENTITY cancel.accesskey                 "A">
+
 
 <!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Vizitoni Faqen Hyrëse">
-<!ENTITY cmd.homepage.accesskey           "V">
-<!ENTITY cmd.about2.label                 "Rreth kësaj Shtese">
 <!ENTITY cmd.about.accesskey              "R">
-<!ENTITY cmd.checkUpdate.label            "Gjeni Përditësim">
-<!ENTITY cmd.checkUpdate.accesskey        "G">
-<!ENTITY cmd.includeUpdate.label          "Përfshije Përditësimin">
-<!ENTITY cmd.includeUpdate.accesskey      "P">
 <!ENTITY includeUpdate.label              "Përfshije këtë përditësim">
 <!ENTITY includeUpdate.accesskey          "P">
 <!ENTITY includeUpdate.tooltip            "Përfshi këtë Shtesë kur të instalohen përditësimet">
 
 <!-- Status Messsages -->
 <!ENTITY needsDependencies.label          "Lyp gjëra shtesë.">
-<!ENTITY blocklisted.label                "Çaktivizuar për t&apos;ju mbrojtur.">
 <!ENTITY previewNoThemeSelected.label     "Pa Tema të Përzgjedhura">
 <!ENTITY previewNoPreviewImage.label      "Kjo Temë nuk ka Figurë Paraparje">
 <!ENTITY moreInfo.label                   "Më Tepër Të dhëna">
@@ -95,7 +49,6 @@
 <!ENTITY installIncompatibleUpdate.label  "Po kontrollohet për përputhshmëri…">
 <!ENTITY installFinishing.label           "Po instalohet…">
 <!ENTITY installFailure.label             "Instalimi dështoi.">
-<!ENTITY cmd.installLocalFile.label       "Instalo…">
 <!ENTITY toBeDisabled.label               "Kjo shtesë do të çaktivizohet kur të riniset &brandShortName;-i.">
 <!ENTITY toBeEnabled.label                "Kjo shtesë do të aktivizohet kur të riniset &brandShortName;-i.">
 <!ENTITY toBeInstalled.label              "Kjo shtesë do të instalohet kur të riniset &brandShortName;-i.">
@@ -103,23 +56,9 @@
 
 <!ENTITY cmd.showUpdateInfo.label         "Shfaq të Dhëna">
 <!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.cancelInstall.label          "Anulo Instalimin">
-<!ENTITY cmd.cancelInstall.accesskey      "A">
-<!ENTITY cancelInstall.label              "Anuloje">
-<!ENTITY cancelInstall.accesskey          "A">
-<!ENTITY cancelUpgrade.label              "Anuloje">
-<!ENTITY cancelUpgrade.accesskey          "A">
-<!ENTITY cmd.cancelInstall.tooltip        "Anulo instalimin e kësaj Shtese">
 <!ENTITY cmd.restartApp2.label            "Rinise &brandShortName;-in">
 <!ENTITY cmd.restartApp2.accesskey        "R">
 <!ENTITY cmd.restartApp2.tooltip          "Riniseni &brandShortName;-in për të zbatuar ndryshimet">
-<!ENTITY cmd.cancelUpgrade.label          "Anulo Përmirësimin">
-<!ENTITY cmd.cancelUpgrade.accesskey      "A">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Anulo përmirësimin e kësaj Shtese">
-<!ENTITY cmd.hideUpdateInfo.label         "Fshihi të Dhënat">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Fshih të dhënat rreth këtyre përmirësimeve">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
 <!ENTITY infoNoUpdateInfo.label           "Ky përditësim nuk ka ndonjë të dhënë shtesë">
 <!ENTITY updateSuccessRestart.label       "Riniseni që të plotësohet përditësimi.">
 <!ENTITY toBeUpdated.label                "Kjo shtesë do të përditësohet kur të jetë rinisur &brandShortName;-i.">
@@ -133,15 +72,8 @@
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Pranoje dhe Instaloje…">
-<!ENTITY addonTypeExtension.label         "Zgjerim">
-<!ENTITY addonTypeTheme.label             "Temë">
-<!ENTITY browseAddons.label               "Shfletoni Tërë Shtesat">
-<!ENTITY cmd.installSearchResult.label     "Shtoje te &brandShortName;-i…">
-<!ENTITY cmd.installSearchResult.accesskey "S">
-<!ENTITY cmd.installSearchResult.tooltip   "Shkarkoje dhe instaloje këtë shtesë">
 <!ENTITY emptySearch.label                "Nuk ka shtesa që përputhen">
 <!ENTITY emptySearch.button               "OK">
-<!ENTITY cancelSearch.button              "Anuloje">
 <!ENTITY search.label                     "Merrni Shtesa">
 <!ENTITY missingThumbnail.label           "Pa Paraparje">
 <!ENTITY searchAddons.label               "Kërko në Tërë Shtesat">
@@ -160,11 +92,6 @@
 <!ENTITY searchThrobber.label             "Po kërkohet për shtesa">
 <!ENTITY resetSearch.label                "Pastro Përfundimet">
 <!ENTITY searchResultConnecting.label     "Po bëhet lidhja…">
-
-<!ENTITY blocklist.blocked.label          "Bllokuar">
-<!ENTITY blocklist.checkbox.label         "Çaktivizoje">
 <!ENTITY softBlocklisted.label            "E njohur si shkak problemesh qëndrueshmërie ose sigurie.">
-
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Gjen Përditësime për Shtojcat tuaja">
 <!ENTITY outdated.label                   "Është i passhëm një version më i ri, më i sigurt.">
 

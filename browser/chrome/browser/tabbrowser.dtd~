@@ -1,0 +1,21 @@
+<!ENTITY  newTab.label           "Skedë e Re">
+<!ENTITY  newTab.accesskey       "R">
+<!ENTITY  closeTab.label         "Mbylle Skedën">
+<!ENTITY  closeTab.accesskey         "S">
+<!ENTITY  closeOtherTabs.accesskey  "t">
+<!ENTITY  closeOtherTabs.label   "Mbyll Skeda të Tjera">
+<!ENTITY  reloadAllTabs.label    "Ringarko Tërë Skedat">
+<!ENTITY  reloadAllTabs.accesskey         "G">
+<!ENTITY  reloadTab.label        "Ringarko Skedën">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "Radhit tërë skedat">
+<!ENTITY  bookmarkAllTabs.label       "Faqeruaj Tërë Skedat…">
+<!ENTITY  bookmarkAllTabs.accesskey   "S">
+<!ENTITY  undoCloseTab.label          "Zhbëje Mbylljen e Skedës">
+<!ENTITY  undoCloseTab.accesskey      "Z">
+<!ENTITY  bookmarkThisTab.label       "Faqeruaj Këtë Skedë">
+<!ENTITY  bookmarkThisTab.accesskey   "F">
+<!ENTITY  newTabButton.tooltip        "Hap skedë të re">
+<!ENTITY  openTabInNewWindow.label    "Hape në Dritare të Re">
+<!ENTITY  openTabInNewWindow.accesskey "D">
+
