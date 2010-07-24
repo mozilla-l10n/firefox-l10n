@@ -173,7 +173,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Автономная работа" nc:link="mail_help.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Подписывание и шифрование сообщений" nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Параметры учетной записи" nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Настройки почты и групп новостей" nc:link="mail_help.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Настройки почты и групп новостей" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -483,16 +483,16 @@
 <rdf:Description about="#mail-doc-mailprefs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Почта и новости" nc:link="mail_help.xhtml#mail_and_newsgroups"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Отображение сообщений" nc:link="mail_help.xhtml#message_display"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Уведомления" nc:link="mail_help.xhtml#notifications"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Составление сообщений" nc:link="mail_help.xhtml#composition"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Формат исходящих сообщений" nc:link="mail_help.xhtml#send_format"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Адресация" nc:link="mail_help.xhtml#addressing_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_general" nc:name="Почта и новости" nc:link="mailnews_preferences.xhtml#mail_and_newsgroups"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_display" nc:name="Отображение сообщений" nc:link="mailnews_preferences.xhtml#message_display"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_notifications" nc:name="Уведомления" nc:link="mailnews_preferences.xhtml#notifications"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_messages" nc:name="Составление сообщений" nc:link="mailnews_preferences.xhtml#composition"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_formatting" nc:name="Формат исходящих сообщений" nc:link="mailnews_preferences.xhtml#send_format"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_addressing" nc:name="Адресация" nc:link="mailnews_preferences.xhtml#addressing_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-prefs-labels" nc:name="Метки" nc:link="mail_help.xhtml#labels"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Уведомления о доставке" nc:link="mail_help.xhtml#return_receipts_preferences"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Кодировка" nc:link="mail_help.xhtml#character_encoding"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Автономная работа и дисковое пространство" nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-prefs-receipts" nc:name="Уведомления о доставке" nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_character_encoding" nc:name="Кодировка" nc:link="mailnews_preferences.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail_prefs_offline" nc:name="Автономная работа и дисковое пространство" nc:link="mailnews_preferences.xhtml#offline_and_disk_space_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
