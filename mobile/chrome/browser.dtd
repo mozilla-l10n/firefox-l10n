@@ -17,8 +17,6 @@
 <!ENTITY noSuggestions.label "(нет предложений)">
 <!ENTITY addToDictionary.label "Добавить в словарь">
 <!ENTITY bookmarksHeader.label "Закладки">
-<!ENTITY bookmarksManage.label "Управлять">
-<!ENTITY editBookmarkRemove.label "Удалить">
 <!ENTITY editBookmarkDone.label "Готово">
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
 <!ENTITY selectHelper.done "Готово">
@@ -68,3 +66,5 @@
 <!ENTITY consoleErrColumn.label "Символ:">
 <!ENTITY contextOpenInNewTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY contextSaveImage.label "Сохранить изображение">
+<!ENTITY contextEditBookmark.label "Изменить">
+<!ENTITY contextRemoveBookmark.label "Удалить">
