@@ -18,3 +18,6 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "Л">
 <!ENTITY findAsYouTypeAutoLinks.label "Только ссылок">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "Т">
+<!ENTITY findAsYouTypeFindbarEnable.label "Отображать панель поиска при поиске по мере набора">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "б">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Примечание: Поиск по мере набора без отображения панели поиска не позволяет вводить символы не на латинице.">

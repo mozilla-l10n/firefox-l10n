@@ -1252,7 +1252,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Labels:general_preferences"
          nc:name="настройки меток"
-         nc:link="mail_help.xhtml#labels"/>
+         nc:link="mailnews_preferences.xhtml#labels"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2259,7 +2259,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="return_receipts:general_preferences"
          nc:name="настройки уведомлений о доставке"
-         nc:link="mail_help.xhtml#return_receipts_preferences"/>
+         nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/>
      </rdf:li><rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="использование уведомлений о доставке"
