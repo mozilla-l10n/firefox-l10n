@@ -46,4 +46,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Egész napos esemény">
 <!ENTITY calendar.invitations.list.location.text                        "Hely: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Szervező: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Résztvevő: ">
 <!ENTITY calendar.invitations.list.none.text                            "Nincs">

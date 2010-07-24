@@ -52,11 +52,17 @@
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>A Fájl menüben kapcsolja ki a „Kapcsolat nélküli munkát”, majd próbálja újra.</li> </ul>
+  <li>Próbálja újra. A &brandShortName; megpróbál kapcsolatot nyitni, és újra letölteni az oldalt.</li>
+</ul>
 ">
+
+<!ENTITY netOffline.title "Kapcsolat nélküli mód">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
 <!ENTITY contentEncodingError.longDesc "
@@ -158,6 +164,9 @@
 <p>Ha személyes adatot ad meg ezen az oldalon, az a személyazonosságának ellopásához vagy más csaláshoz vezethet.</p>
 <p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználó becsapni.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
 <!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">

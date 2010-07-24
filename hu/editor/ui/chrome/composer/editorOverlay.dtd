@@ -98,6 +98,7 @@
 <!ENTITY publishSettings.accesskey "z">
 <!ENTITY pasteAsQuotationCmd.label "Beillesztés idézetként">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Keresés és csere...">
 <!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "F">
@@ -112,9 +113,9 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd.label "Helyesírás-ellenőrzés">
-<!ENTITY checkSpellingCmd.accesskey "H">
-<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY validateCmd.label "HTML ellenőrzése">
 <!ENTITY validateCmd.accesskey "e">
 
@@ -136,7 +137,7 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Karakterek és szimbólumok...">
 <!ENTITY insertCharsCmd.accesskey "K">
-<!ENTITY insertBreakAllCmd.label "Sortörés a kép(ek) alatt">
+<!ENTITY insertBreakAllCmd.label "Sortörés a képek alatt">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
@@ -174,7 +175,7 @@
 <!ENTITY fontVarWidth.label "Proporcionális">
 <!ENTITY fontVarWidth.accesskey "P">
 <!ENTITY fontFixedWidth.label "Fix szélességű">
-<!ENTITY fontFixedWidth.accesskey "F">
+<!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -229,11 +230,11 @@
 <!ENTITY styleSubscriptCmd.label "Alsó index">
 <!ENTITY styleSubscriptCmd.accesskey "l">
 <!ENTITY styleNonbreakingCmd.label "Sortörés nélkül">
-<!ENTITY styleNonbreakingCmd.accesskey "r">
+<!ENTITY styleNonbreakingCmd.accesskey "S">
 <!ENTITY styleEm.label "Hangsúly">
 <!ENTITY styleEm.accesskey "H">
 <!ENTITY styleStrong.label "Erősebb hangsúly">
-<!ENTITY styleStrong.accesskey "E">
+<!ENTITY styleStrong.accesskey "b">
 <!ENTITY styleCite.label "Idézet">
 <!ENTITY styleCite.accesskey "I">
 <!ENTITY styleAbbr.label "Rövidítés">

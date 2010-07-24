@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "Törlés">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "Név:">
 <!ENTITY editContactName.accesskey "N">
 

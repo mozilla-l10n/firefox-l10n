@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "Szín:">
 <!ENTITY color.accesskey                  "S">
 <!ENTITY displayWidth.label               "Normál szöveges levelek">
-<!ENTITY plainText.label                  "A következő betűkészlet használata normál szöveges leveleknél:">
 <!ENTITY displayText.label                "A következő beállítások használata idézett szöveges levelek esetén:">
-<!ENTITY fixedWidth.label                 "Fix szélességű">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "Proporcionális">
-<!ENTITY variableWidth.accesskey          "P">
 <!ENTITY colors.label                     "Színek">
 <!ENTITY overrideColors.label             "A következő színek használata üzenetek megjelenítésekor:">
 <!ENTITY textColor.label                  "Szövegszín:">
@@ -33,16 +28,19 @@
 <!ENTITY convertEmoticons.accesskey    "m">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "A címkék az üzenetek kategorizálására és priorálására használhatók.">
-<!ENTITY addTagButton.label       "Hozzáadás">
-<!ENTITY addTagButton.accesskey   "H">
-<!ENTITY editTagButton.label      "Szerkesztés">
+<!ENTITY displayTagsText.label     "A címkék az üzenetek kategorizálására és priorálására használhatók.">
+<!ENTITY addTagButton.label        "Hozzáadás">
+<!ENTITY addTagButton.accesskey    "H">
+<!ENTITY editTagButton.label       "Szerkesztés">
 <!ENTITY editTagButton.accesskey   "S">
-<!ENTITY removeTagButton.label    "Törlés">
+<!ENTITY removeTagButton.label     "Törlés">
 <!ENTITY removeTagButton.accesskey "T">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "A &brandShortName; által használt betűk és kódolások beállítása">
-<!ENTITY fontsAndEncodingsCaption.label      "Betűk és kódolások">
-<!ENTITY fontOptions.accesskey   "B">
-<!ENTITY fontOptions.label       "Betűk...">
+<!ENTITY fontsAndColors.label    "Betűk">
+<!ENTITY defaultFont.label       "Alapértelmezett betű:">
+<!ENTITY defaultFont.accesskey   "b">
+<!ENTITY defaultSize.label       "Méret:">
+<!ENTITY defaultSize.accesskey   "m">
+<!ENTITY fontOptions.accesskey   "H">
+<!ENTITY fontOptions.label       "Haladó...">

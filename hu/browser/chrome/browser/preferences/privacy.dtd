@@ -12,10 +12,10 @@
 
 
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
-<!ENTITY acceptCookies.accesskey       "S">
+<!ENTITY acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "Harmadik féltől származó sütik elfogadása">
-<!ENTITY acceptThirdParty.accesskey    "H">
+<!ENTITY acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "Sütik megtartása:">
 <!ENTITY keepUntil.accesskey           "m">
@@ -49,7 +49,7 @@
 <!ENTITY  rememberActions.removeCookies.label "eltávolítani az egyes sütiket">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "A &brandShortName; ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzmányeit.">
+<!ENTITY  dontrememberDescription.label  "A &brandShortName; ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -57,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "minden előzmény törlésére">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "A &brandShortName; automatikusan privát böngészési módban indítása">
-<!ENTITY privateBrowsingAutoStart.accesskey "A">
+<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Böngészési előzmények megőrzése legalább">
-<!ENTITY rememberHistory.pre.accesskey  "n">
-<!ENTITY  rememberHistory.post.label     "napig">
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Letöltési előzmények megőrzése">
 <!ENTITY rememberDownload.accesskey     "L">

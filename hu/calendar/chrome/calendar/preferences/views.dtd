@@ -61,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "e">
 <!ENTITY pref.calendar.view.visiblehoursend.label "órát egyszerre">
 
-<!ENTITY pref.numberofweeks.label "Megjelenítendő hetek (beleértve az előző heteket is)">
+<!ENTITY pref.numberofweeks.label "Megjelenítendő hetek száma (beleértve az előző heteket is)">
 <!ENTITY pref.numberofweeks.accesskey "M">
 <!ENTITY pref.numberofpreviousweeks.label "Megjelenítendő előző hetek:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "e">

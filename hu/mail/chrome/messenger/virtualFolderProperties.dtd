@@ -4,11 +4,15 @@
 <!ENTITY description.label          "Almappa létrehozása a következőben:">
 <!ENTITY description.accesskey      "A">
 
-<!ENTITY searchTermCaption.label "A mentett keresés keresési feltételének beállítása: ">
+<!ENTITY searchTermCaption.label "A mentett keresés keresési feltételének beállítása:">
 
-<!ENTITY folderSelectionCaption.label "Keresés a következő mappákban: ">
+<!ENTITY folderSelectionCaption.label "Keresés a következő mappákban:   ">
 <!ENTITY chooseFoldersButton.label "Tallózás...">
 <!ENTITY chooseFoldersButton.accesskey "T">
 
 <!ENTITY searchOnline.label "Online keresés (naprakész eredményeket ad az IMAP- és News-mappákhoz, de megnövekszik a mappa megnyitásához szükséges idő)">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label       "Létrehozás">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Frissítés">
+<!ENTITY editFolderButton.accesskey  "U">

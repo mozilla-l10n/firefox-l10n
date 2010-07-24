@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Első oldal">
 <!ENTITY endarrow.tooltip     "Utolsó oldal">
-<!ENTITY rightarrow.tooltip   "Következő oldal">
-<!ENTITY leftarrow.tooltip    "Előző oldal">
+<!ENTITY nextarrow.tooltip    "Következő oldal">
+<!ENTITY previousarrow.tooltip "Előző oldal">

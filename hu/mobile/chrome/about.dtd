@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title                        "A &brandShortName; névjegye">
+<!ENTITY aboutPage.faq.label                    "GYIK">
+<!ENTITY aboutPage.support.label                "Támogatás">
+<!ENTITY aboutPage.privacyPolicy.label          "Adatvédelmi irányelvek">
+<!ENTITY aboutPage.rights.label                 "Az Ön jogai">
+<!ENTITY aboutPage.relNotes.label               "Verzióinformáció">
+<!ENTITY aboutPage.credits.label                "Közreműködők">
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 A közreműködők. Minden jog fenntartva. (">
+<!ENTITY aboutPage.licenseLink                  "Licencinformációk">
+<!ENTITY aboutPage.copyrightInfo2               ").">

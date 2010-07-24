@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Esemény...">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Feladat...">
+<!ENTITY lightning.menupopup.new.task.accesskey "F">
 <!ENTITY lightning.menupopup.new.calendar.label "Naptár...">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "N">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Megnyitás">
@@ -61,14 +64,18 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Naptárfájl...">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "N">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "Naptár">
-<!ENTITY lightning.calendar.accesskey        "N">
-<!ENTITY lightning.tasks.label               "Feladatok">
-<!ENTITY lightning.tasks.accesskey           "F">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Naptár">
+<!ENTITY lightning.menu.view.calendar.accesskey        "N">
+<!ENTITY lightning.menu.view.tasks.label               "Feladatok">
+<!ENTITY lightning.menu.view.tasks.accesskey           "F">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Események és feladatok">
+<!ENTITY lightning.menu.eventtask.accesskey            "E">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Levelezés">
+<!ENTITY lightning.toolbar.mail.label         "Levelek">
 <!ENTITY lightning.toolbar.mail.accesskey     "L">
 <!ENTITY lightning.toolbar.calendar.label     "Naptár">
 <!ENTITY lightning.toolbar.calendar.accesskey "N">
@@ -98,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "Ez az üzenet egy eseményre szóló meghívót tartalmaz.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 

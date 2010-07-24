@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "Az új mappa tartalmazhat:">
 <!ENTITY foldersOnly.label          "Csak mappákat">
 <!ENTITY messagesOnly.label         "Csak üzeneteket">
+<!ENTITY accept.label               "Mappa létrehozása">
+<!ENTITY accept.accesskey           "a">

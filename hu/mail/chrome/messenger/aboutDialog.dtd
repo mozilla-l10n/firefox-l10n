@@ -1,9 +1,16 @@
 <!ENTITY aboutDialog.title      "A &brandFullName; névjegye">
-<!ENTITY credits.label          "Közreműködők">
-<!ENTITY credits.accesskey      "K">
-<!ENTITY aboutLink.label        "&lt; A &brandFullName; névjegye">
-<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutButton.label      "&lt; Vissza">
+<!ENTITY aboutButton.accesskey  "V">
 <!ENTITY aboutVersion           "verzió">
-<!ENTITY copyrightText          "&#169;1998-2008 A hozzájárulók. Minden jog fenntartva. A Mozilla Thunderbird és a
-                                 Thunderbird logók a Mozilla Foundation védjegyei.  Minden jog
-                                 fenntartva.">
+<!ENTITY aboutMenu.label        "Névjegy">
+<!ENTITY aboutMenu.accesskey    "N">
+<!ENTITY aboutCredits.label     "Köszönetnyilvánítás">
+<!ENTITY aboutCredits.accesskey "z">
+<!ENTITY aboutRights.label      "Az Ön jogai">
+<!ENTITY aboutRights.accesskey  "A">
+<!ENTITY aboutContributors.label "Közreműködők">
+<!ENTITY aboutContributors.accesskey "K">
+<!ENTITY aboutLicense.label      "Licenc">
+<!ENTITY aboutLicense.accesskey  "L">
+
+<!ENTITY cmdCloseMac.commandKey "w">

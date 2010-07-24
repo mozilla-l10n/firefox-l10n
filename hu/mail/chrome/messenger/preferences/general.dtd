@@ -1,15 +1,3 @@
-<!ENTITY systemDefaults.label              "Rendszer alapbeállításai">
-<!ENTITY alwaysCheckDefault.label          "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett levelező">
-<!ENTITY alwaysCheckDefault.accesskey      "I">
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height  "3em">
-<!ENTITY checkNow.label             "Ellenőrzés">
-<!ENTITY checkNow.accesskey         "E">
-
 <!ENTITY messengerStartPage.label         "&brandShortName; kezdőoldal">
 <!ENTITY enableStartPage.label            "Kezdőoldal betöltése az üzenetek helyére a &brandShortName; indításakor">
 <!ENTITY enableStartPage.accesskey        "K">

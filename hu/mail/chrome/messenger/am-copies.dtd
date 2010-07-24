@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "M">
 <!ENTITY fccReplyFollowsParent.label "Az üzenetre adott válaszok elhelyezése az üzenettel megegyező mappában">
 <!ENTITY fccReplyFollowsParent.accesskey "z">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Másolatot kap (Cc):">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "A címeket vesszővel válassza el.">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Rejtett másolatot kap (Bcc):">
 <!ENTITY bccAddress.accesskey "R">
+<!ENTITY bccAddressList.emptytext "A címeket vesszővel válassza el.">
 <!ENTITY saveMessageDlg.label "Jóváhagyás kérése üzenet mentésekor">
 <!ENTITY saveMessageDlg.accesskey "J">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -21,11 +26,17 @@
 <!ENTITY draftsFolderOn.accesskey "P">
 <!ENTITY draftInOtherFolder.label "Máshol:">
 <!ENTITY draftInOtherFolder.accesskey "s">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "„Archívum” mappa itt:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Máshol:">
+<!ENTITY archiveInOtherFolder.accesskey "l">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "„Sablonok” mappa itt:">
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Máshol:">
 <!ENTITY templateInOtherFolder.accesskey "h">
-<!ENTITY specialFoldersTitle.label "Piszkozatok és sablonok">
+<!ENTITY specialFoldersTitle.label "Piszkozatok, archívum és sablonok">
 <!ENTITY keepDrafts.label "Piszkozatok tárolója:">
+<!ENTITY keepArchives.label "Üzenetarchívumok tárolója:">
 <!ENTITY keepTempltes.label "Sablonok tárolója:">

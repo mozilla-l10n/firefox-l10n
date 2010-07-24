@@ -21,6 +21,18 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "A bővítmények használata előtt a &brandShortName; programot újra kell indítani.">
   
 <!ENTITY missingPlugin.label                                 "Kattintson ide a bővítmény letöltéséhez.">
-<!ENTITY disabledPlugin.label                                "Az ehhez a tartalomhoz tartozó bővítmény le van tiltva. Kattintson ide a bővítmények kezeléséhez.
-">
+<!ENTITY disabledPlugin.label                                "Az ehhez a tartalomhoz tartozó bővítmény le van tiltva. Kattintson ide a bővítmények kezeléséhez.">
 <!ENTITY blockedPlugin.label                                 "Az Ön védelme érdekében ez a bővítmény le lett tiltva.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "Az újrapróbálkozáshoz ">
+<!ENTITY reloadPlugin.middle                                 "töltse be újra az oldalt">
+<!ENTITY reloadPlugin.post                                   ".">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Hibajelentés küldése">
+<!ENTITY report.submitting                                   "Jelentés elküldése...">
+<!ENTITY report.submitted                                    "A hibajelentést elküldte.">
+<!ENTITY report.disabled                                     "A hibajelentés le van tiltva.">
+<!ENTITY report.failed                                       "A beküldés sikertelen.">
+<!ENTITY report.unavailable                                  "Nincs jelentés.">

@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Levelek ellenőrzésekor">
 <!ENTITY contextManual.label "Kézzel futtatva">
 <!ENTITY contextBoth.label "Levelek ellenőrzésekor vagy kézzel futtatva">
+<!ENTITY contextPostPlugin.label "Levelek ellenőrzésekor (osztályozás után)">
+<!ENTITY contextPostPluginBoth.label "Levelek ellenőrzésekor (osztályozás után) vagy kézzel futtatva">
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
 

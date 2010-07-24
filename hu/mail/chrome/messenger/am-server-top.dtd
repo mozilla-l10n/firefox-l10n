@@ -10,7 +10,6 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Alapértelmezett:">
-<!ENTITY savePassword.label "Jelszó mentése">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -19,19 +18,14 @@
 <!ENTITY biffStart.label "Új üzenetek ellenőrzése ">
 <!ENTITY biffStart.accesskey "z">
 <!ENTITY biffEnd.label "percenként">
-<!ENTITY isSecure.label "Biztonságos kapcsolat (SSL) használata">
-<!ENTITY isSecure.accesskey "B">
-<!ENTITY socketType.label "Biztonságos kapcsolat (SSL) használata:">
-<!ENTITY neverSecure.label "Soha">
-<!ENTITY neverSecure.accesskey "S">
-<!ENTITY sometimesSecure.label "TLS, ha elérhető">
-<!ENTITY sometimesSecure.accesskey "h">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Biztonságos hitelesítés használata">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY connectionSecurity.label "Kapcsolat biztonsága:">
+<!ENTITY connectionSecurity.accesskey "b">
+<!ENTITY connectionSecurityType-0.label "nincs">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ha elérhető">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Hitelesítési módszer:">
+<!ENTITY authMethod.accesskey "H">
 <!ENTITY leaveOnServer.label "Üzenetek megtartása a kiszolgálón">
 <!ENTITY leaveOnServer.accesskey "m">
 <!ENTITY headersOnly.label "Csak a fejlécek letöltése">

@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Kódolás:">
 <!ENTITY language.accesskey                      "K">
 
-<!ENTITY  sizes.label                             "Méret (képpont)">
+<!ENTITY  size.label                              "Méret:">
 <!ENTITY proportionalSize.accesskey              "M">
-<!ENTITY monospaceSize.accesskey                 "r">
+<!ENTITY sizeMono.accesskey                      "r">
 
 <!ENTITY  proportional.label                      "Proporcionális:">
 <!ENTITY proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Talpas">
 <!ENTITY  useDefaultFontSansSerif.label           "Talpatlan">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Betűbeállítások">
+<!ENTITY  useFixedWidthForPlainText.label         "Fix szélességű betűk a normál szöveges üzenetekhez">
+<!ENTITY fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Az üzenetek használhatják a saját maguk által megadott betűkészleteket.">
 <!ENTITY useDocumentFonts.accesskey              "z">
 

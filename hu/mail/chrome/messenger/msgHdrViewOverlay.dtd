@@ -49,27 +49,55 @@
 <!ENTITY followupToField2.label "hírcsop. vál. ">
 <!ENTITY tagsHdr2.label "címkék ">
 <!ENTITY dateField2.label "dátum ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
+<!ENTITY userAgentField2.label "ügyfélprogram ">
+<!ENTITY referencesField2.label "hivatkozások ">
+<!ENTITY messageIdField2.label "üzenetazonosító ">
+<!ENTITY inReplyToField2.label "válasz erre ">
 <!ENTITY originalWebsite2.label "webhely ">
 
 <!ENTITY editMessageDescription.label "Ez egy piszkozat">
 <!ENTITY editMessageButton.label "Szerkesztés...">
-<!ENTITY replyButton.label "válasz...">
-<!ENTITY forwardButton.label "továbbítás...">
-<!ENTITY junkButton.label "megjelölés szemétként">
-<!ENTITY trashButton.tooltiptext "törlés">
+<!ENTITY hdrArchiveButton.label "archiválás">
+<!ENTITY hdrArchiveButton.tooltip "üzenet archiválása">
+<!ENTITY hdrReplyButton.label "válasz">
+<!ENTITY hdrReplyButton.tooltip "válasz az üzenetre">
+<!ENTITY hdrReplyAllButton.label "válasz mindenkinek">
+<!ENTITY hdrReplyAllButton.tooltip "válasz a küldőnek, és mindenkinek, aki megkapta">
+<!ENTITY hdrReplyListButton.label "válasz a listára">
+<!ENTITY hdrReplyListButton.tooltip "válasz a levelezőlistára">
+<!ENTITY hdrForwardButton.label "továbbítás">
+<!ENTITY hdrForwardButton.tooltip "üzenet továbbküldése">
+<!ENTITY hdrJunkButton.label "szemét">
+<!ENTITY hdrJunkButton.tooltip "az üzenet megjelölése szemétként">
+<!ENTITY hdrTrashButton.label "törlés">
+<!ENTITY hdrTrashButton.tooltip "az üzenet törlése">
+
+<!ENTITY hdrViewToolbarShowFull.label "Ikonok és szöveg">
+<!ENTITY hdrViewToolbarShowFull.accesskey "I">
+<!ENTITY hdrViewToolbarShowIcons.label "Csak ikonok">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "C">
+<!ENTITY hdrViewToolbarShowText.label "Csak szöveg">
+<!ENTITY hdrViewToolbarShowText.accesskey "s">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "A „Válasz a feladónak” mindig megjelenik">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
 <!ENTITY otherActionsButton.label "egyéb művelet">
+<!ENTITY otherActionsOpenConversation.label "megnyitás beszélgetésben">
+<!ENTITY otherActionsOpenConversation.accesskey "b">
+<!ENTITY otherActionsOpenInNewWindow.label "megnyitás új ablakban">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
+<!ENTITY otherActionsOpenInNewTab.label "megnyitás új lapon">
+<!ENTITY otherActionsOpenInNewTab.accesskey "l">
+<!ENTITY markAsReadMenuItem.label "megjelölés olvasottként">
+<!ENTITY markAsReadMenuItem.accesskey "o">
+<!ENTITY markAsUnreadMenuItem.label "megjelölés nem olvasottként">
+<!ENTITY markAsUnreadMenuItem.accesskey "e">
 <!ENTITY saveAsMenuItem.label "mentés másként...">
 <!ENTITY saveAsMenuItem.accesskey "m">
-<!ENTITY viewSourceMenuItem.label "forrás megtekintése...">
+<!ENTITY viewSourceMenuItem.label "forrás megtekintése">
 <!ENTITY viewSourceMenuItem.accesskey "f">
-
-<!ENTITY hideDetailsButton.label "részletek elrejtése">
-<!ENTITY showDetailsButton.label "részletek megjelenítése">
+<!ENTITY otherActionsPrint.label "nyomtatás...">
+<!ENTITY otherActionsPrint.accesskey "n">
 
 <!ENTITY openAttachmentCmd.label    "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey    "M">
@@ -88,5 +116,5 @@
 <!ENTITY copyLinkCmd.accesskey    "v">
 
 <!ENTITY CopyMessageId.label "Message-ID másolása">
-<!ENTITY OpenMessageForMsgId.label "Az ID-hez tartozó üzenet megnyitása">
+<!ENTITY OpenMessageForMsgId.label "Az ID-hoz tartozó üzenet megnyitása">
 <!ENTITY OpenBrowserWithMsgId.label "Böngésző megnyitása a Message-ID-hoz">

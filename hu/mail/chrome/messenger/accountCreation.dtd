@@ -1,0 +1,78 @@
+<!ENTITY autoconfigWizard.title          "Postafiók beállítása">
+<!ENTITY name.label                      "Név:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.emptytext                  "Utónév, vezetéknév">
+<!ENTITY name.text                       "Így fog megjelenni a neve">
+<!ENTITY email.label                     "E-mail cím:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.emptytext                 "email@pelda.hu">
+<!ENTITY password.label                  "Jelszó:">
+<!ENTITY password.accesskey              "J">
+<!ENTITY password.emptytext              "Jelszó">
+<!ENTITY password.text                   "Nem kötelező, csak a felhasználónév érvényesítésére lesz használva">
+
+<!ENTITY accountInformation.label        "Postafiók adatai">
+<!ENTITY username2.label                 "Felhasználónév:">
+<!ENTITY incoming.label                  "Bejövő:">
+<!ENTITY outgoing.label                  "Kimenő:">
+<!ENTITY noEncryption.label              "Nincs">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - A mappák és üzenetek elérése több számítógépről">
+<!ENTITY pop.description                 "POP - Minden üzenet letöltése erre a számítógépre, a mappák helyben vannak">
+<!ENTITY recommended-appendix.label      "(ajánlott)">
+
+<!ENTITY manualSetup.label               "Kézi beállítás...">
+<!ENTITY manualSetup.accesskey           "K">
+<!ENTITY cancel.label                    "Mégse">
+<!ENTITY cancel.accesskey                "M">
+<!ENTITY continue.label                  "Folytatás">
+<!ENTITY continue.accesskey              "F">
+<!ENTITY startOver.label                 "Újrakezdés">
+<!ENTITY startOver.accesskey             "r">
+<!ENTITY stop.label                      "Leállítás">
+<!ENTITY stop.accesskey                  "L">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Konfiguráció újratesztelése">
+<!ENTITY retest.accesskey                "K">
+<!ENTITY edit.label                      "Szerkesztés">
+<!ENTITY edit.accesskey                  "z">
+
+<!ENTITY rememberPassword.label          "Jelszó megjegyzése">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY warning.label                   "Vigyázat!">
+<!ENTITY incomingSettings.label          "Bejövő beállítások:">
+<!ENTITY outgoingSettings.label          "Kimenő beállítások:">
+<!ENTITY technicaldetails.label          "Technikai részletek">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Megértettem a kockázatokat.">
+<!ENTITY confirmWarning.accesskey        "M">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Fiók létrehozása">
+<!ENTITY createAccount.accesskey         "F">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Beállítások módosítása">
+<!ENTITY changeSettings.accesskey        "B">
+
+<!ENTITY contactYourProvider.description "A &brandShortName; megengedi a levelezést ezzel a konfigurációval. Ennek ellenére kérjük, forduljon a rendszergazdájához vagy az e-mail szolgáltatójához, és hívja fel a figyelmét ezekre a helytelen kapcsolatokra. További részletekért lásd a Thunderbird FAQ dokumentumot.">
+
+<!ENTITY insecureServer.tooltip.title    "Vigyázat! Ez a kiszolgáló nem biztonságos.">
+<!ENTITY insecureServer.tooltip.details  "A részletekért kattintson a körre.">
+
+<!ENTITY insecureUnencrypted.description "A levele és a hitelesítő adatai titkosítás nélkül lettek elküldve, ami azt jelenti, hogy a jelszavát (és a levelét) illetéktelek is elolvashatják. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az lehetővé tegye a biztonságos kapcsolatot.">
+<!ENTITY insecureSelfSigned.description  "A kiszolgáló egy olyan tanúsítványt használ, amelyben nem bízunk meg, tehát nem lehetünk biztosan abban, hogy valaki nem hallgatja-e le az adatforgalmat a &brandShortName; és a kiszolgáló között. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az megbízható tanúsítványt használjon.">
+<!ENTITY secureServer.description        "Gratulálunk! Ez a kiszolgáló biztonságos.">

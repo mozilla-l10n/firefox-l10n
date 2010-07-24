@@ -55,7 +55,7 @@
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "z">
 <!ENTITY pref.calendar.alarms.defaults.label "Értesítés alapbeállításai">
 <!ENTITY pref.defalarm4events.label "Események alapértelmezett értesítési beállítása:">
-<!ENTITY pref.defalarm4events.accesskey "m">
+<!ENTITY pref.defalarm4events.accesskey "e">
 <!ENTITY pref.defalarm4todos.label "Feladatok alapértelmezett értesítési beállítása:">
 <!ENTITY pref.defalarm4todos.accesskey "F">
 <!ENTITY pref.alarm.on "Be">
@@ -63,6 +63,6 @@
 <!ENTITY pref.defalarmlen4events.label "Értesítés kikapcsolása az esemény előtt:">
 <!ENTITY pref.defalarmlen4events.accesskey "k">
 <!ENTITY pref.defalarmlen4todos.label "Értesítés kikapcsolása a feladat előtt:">
-<!ENTITY pref.defalarmlen4todos.accesskey "c">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Az e-mail értesítés alapértelmezett címzettje:">
 <!ENTITY pref.defaulttext.label "Alapértelmezett szöveg az értesítésekhez:">

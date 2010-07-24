@@ -1,9 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "A lemezterület megtakarítása érdekében nem töltődnek le:">
-<!ENTITY doNotDownload.label "A lemezterület megtakarítása érdekében nem töltődnek le kapcsolat nélküli munkához:">
+<!ENTITY doNotDownloadNntp.label "A lemezterület megtakarítása érdekében nem töltődnek le kapcsolat nélküli munkához:">
+<!ENTITY doNotDownloadImap.label "A lemezhellyel való takarékoskodás céljából az üzenetek kiszolgálóról letöltése és a helyben tárolása korlátozható méret és kor szerint.">
 <!ENTITY allFoldersOffline.label "A postafiókhoz tartozó üzenetek megtartása ezen a számítógépen">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Üzenetek, melyek nagyobbak, mint">
 <!ENTITY offlineNotDownload.accesskey "e">
+<!ENTITY autosyncNotDownload.label "Üzenetek, melyek nagyobbak, mint">
+<!ENTITY autosyncNotDownload.accesskey "e">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
@@ -12,19 +15,40 @@
 <!ENTITY nntpDownloadMsg.label "Üzenetek, melyek régebbiek, mint">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők.">
+<!ENTITY retentionCleanupImap.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők, a helyi másolatok és a távoli kiszolgálón lévők egyaránt.">
+<!ENTITY retentionCleanupPop.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők, beleértve a távoli kiszolgálón lévő eredetieket is.">
 <!ENTITY retentionKeepMsg.label "Üzenetek törlése, ha régebbiek, mint">
 <!ENTITY retentionKeepMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Minden üzenet megtartása">
 <!ENTITY retentionKeepAll.accesskey "M">
-<!ENTITY retentionKeepNew.label "Minden üzenet törlése, kivéve az utolsó">
-<!ENTITY retentionKeepNew.accesskey "t">
-<!ENTITY retentionKeepUnread.label "Olvasott üzenetek törlése">
-<!ENTITY retentionKeepUnread.accesskey "O">
-<!ENTITY nntpRemoveBody.label "Csak az olyan üzenetek, melyek törzse fiatalabb, mint">
-<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY retentionKeepRecent.label "Minden üzenet törlése, kivéve az utolsó">
+<!ENTITY retentionKeepRecent.accesskey "u">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Olvasott üzenetek törlése mindig (kor nem számít)">
+<!ENTITY retentionApplyToFlagged.label "Csillagozott üzenetek megtartása">
+<!ENTITY retentionApplyToFlagged.accesskey "C">
+<!ENTITY nntpRemoveMsgBody.label "Üzenettörzsek törlése, ha régebbiek, mint">
+<!ENTITY nntpRemoveMsgBody.accesskey "t">
 <!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához...">
 <!ENTITY offlineSelectNntp.accesskey "k">
 <!ENTITY offlineImapAdvancedOffline.label "Haladó...">
 <!ENTITY offlineImapAdvancedOffline.accesskey "H">
 <!ENTITY syncGroupTitle.label "Üzenetek szinkronizálása">
 <!ENTITY diskspaceGroupTitle.label "Lemezterület">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Minden üzenet szinkronizálása helyben kortól függetlenül">
+<!ENTITY allAutosync.accesskey           "M">
+<!ENTITY ageAutosyncBefore.label         "A legújabbak szinkronizálása">
+<!ENTITY ageAutosync.accesskey           "l">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "naponta">
+<!ENTITY weekAgeInterval.label           "hetente">
+<!ENTITY monthAgeInterval.label          "havonta">
+<!ENTITY yearAgeInterval.label           "évente">
+<!ENTITY ageAutosyncAfter.label          "">

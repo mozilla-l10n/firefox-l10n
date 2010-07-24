@@ -11,11 +11,11 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is mozilla.org code.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 1998
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
@@ -34,13 +34,22 @@
 #
 # ***** END LICENSE BLOCK *****
 
-# LOCALIZATION NOTE (EnterLoginForRealm, EnterLoginForProxy):
-# %1 is an untrusted string provided by a remote server. It could try to
-# take advantage of sentence structure in order to mislead the user (see
-# bug 244273). %1 should be integrated into the translated sentences as
-# little as possible. %2 is the url of the site being accessed.
-EnterLoginForRealm=%2$S felhasználónevet és jelszót kér. A webhely üzenete: „%1$S”
-EnterLoginForProxy=A(z) %2$S proxy felhasználónevet és jelszót kér. A webhely üzenete: „%1$S”   
-EnterUserPasswordFor=Adja meg a felhasználónevet és a jelszót a következőhöz: %1$S
-EnterPasswordFor=Adja meg %1$S jelszavát a következőhöz: %2$S
+#filter substitution
 
+# the default day to start the week on
+#0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
+pref("calendar.week.start", 1);
+
+# default days off (not in work week)
+pref("calendar.week.d0sundaysoff", true);
+pref("calendar.week.d1mondaysoff", false);
+pref("calendar.week.d2tuesdaysoff", false);
+pref("calendar.week.d3wednesdaysoff", false);
+pref("calendar.week.d4thursdaysoff", false);
+pref("calendar.week.d5fridaysoff", false);
+pref("calendar.week.d6saturdaysoff", true);
+
+pref("general.useragent.locale", "@AB_CD@");
+
+# categories
+pref("calendar.categories.names", "Ajándék,Beszállító,Egyéb,Évforduló,Hívás,Kedvenc,Nyaralás,Ötlet,Probléma,Projekt,Reagálni,Státusz,Szabadság,Személyes,Születésnap,Utazás,Ügyfél,Ünnepnap,Üzlet,Versenytárs,Vevő");

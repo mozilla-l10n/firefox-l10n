@@ -10,18 +10,20 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Súgó"> 
 <!ENTITY helpMenuWin.accesskey    "S">
-<!ENTITY aboutCmd.label           "A &brandFullName; névjegye">
-<!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "Tartalom">
-<!ENTITY helpContents.accesskey   "T">
-<!ENTITY helpContentsMac.label    "&brandShortName; Súgó">
+<!ENTITY aboutProduct.label       "A &brandShortName; névjegye">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; Súgó">
+<!ENTITY productHelp.accesskey    "S">
 <!ENTITY helpForIEUsers.label     "Internet Explorer-felhasználóknak">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpReleaseNotes.label         "Verzióinformáció">
 <!ENTITY helpReleaseNotes.accesskey     "V">
+
+<!ENTITY helpTroubleshootingInfo.label      "Hibakeresési információ">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
 <!ENTITY updateCmd.label                "Frissítések keresése...">
 
 <!ENTITY preferencesCmdMac.label        "Beállítások...">

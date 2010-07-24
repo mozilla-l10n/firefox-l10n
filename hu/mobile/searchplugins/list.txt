@@ -1,7 +1,3 @@
-creativecommons
-eBay-en-GB
 google
-polymeta
-sztaki-en-hu
-vatera
+twitter
 wikipedia-hu
