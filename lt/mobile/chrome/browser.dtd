@@ -53,15 +53,11 @@
 <!ENTITY addToDictionary.label            "Įtraukti į žodyną">
 
 <!ENTITY bookmarksHeader.label            "Adresynas">
-<!ENTITY bookmarksManage.label            "Tvarkyti">
 
-<!ENTITY editBookmarkRemove.label         "Pašalinti">
 <!ENTITY editBookmarkTags.label           "Gairės:">
 <!ENTITY editBookmarkDone.label           "Įrašyti">
 
-<!ENTITY formHelper.previous              "Ankstesnis">
-<!ENTITY formHelper.next                  "Kitas">
-<!ENTITY formHelper.done                  "Baigta">
+<!ENTITY selectHelper.done                "Baigta">
 
 <!ENTITY addonsHeader.label               "Priedai">
 <!ENTITY addonsLocal.label                "Įdiegti priedai">
@@ -122,3 +118,5 @@
 
 <!ENTITY contextOpenInNewTab.label        "Atverti saitą naujoje kortelėje">
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
+<!ENTITY contextEditBookmark.label        "Taisyti">
+<!ENTITY contextRemoveBookmark.label      "Pašalinti">
