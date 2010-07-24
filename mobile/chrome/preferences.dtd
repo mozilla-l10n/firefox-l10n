@@ -48,3 +48,11 @@
 <!ENTITY homepage.none                                 "Tuščias puslapis">
 <!ENTITY homepage.default                              "„&brandShortName;“ numatytasis">
 <!ENTITY homepage.currentpage                          "Naudoti šiuo metu atvertą tinklalapį">
+<!ENTITY sync.title                                    "„Sync“">
+<!ENTITY sync.username                                 "Naudotojo vardas">
+<!ENTITY sync.password                                 "Slaptažodis">
+<!ENTITY sync.secretPhrase                             "Slaptoji frazė">
+<!ENTITY sync.deviceName                               "Įrenginio vardas">
+<!ENTITY sync.connect                                  "Prisijungti">
+<!ENTITY sync.disconnect                               "Atsijungti">
+<!ENTITY sync.syncNow                                  "Sinchronizuoti dabar">

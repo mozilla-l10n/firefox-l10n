@@ -43,8 +43,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(privatusis naršymas)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                "Nauja kortelė">
-<!ENTITY  newTab.accesskey            "N">
 <!ENTITY  reloadTab.label             "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey         "A">
 <!ENTITY  reloadAllTabs.label         "Atsiųsti visų kortelių tinklalapius iš naujo">
@@ -200,11 +198,9 @@
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!--
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
--->
+<!ENTITY webConsoleCmd.label          "Žiniatinklio pultas">
+<!ENTITY webConsoleCmd.accesskey      "p">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Tirti">
 <!ENTITY inspectMenu.accesskey        "T">
