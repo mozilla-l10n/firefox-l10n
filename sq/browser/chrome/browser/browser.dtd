@@ -118,8 +118,12 @@
 <!ENTITY addons.label                 "Shtesa">
 <!ENTITY addons.accesskey             "A">
 
-<!ENTITY errorConsoleCmd.label        "Konsol Gabimesh">
+<!ENTITY errorConsoleCmd.label        "Konsolë Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey    "G">
+
+<!ENTITY webConsoleCmd.label          "Konsolë Web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY fileMenu.label         "Kartelë"> 
 <!ENTITY fileMenu.accesskey       "K">
@@ -477,4 +481,5 @@
 <!ENTITY viewBookmarksToolbar.label         "Shfaq Panel Faqerojtësish">
 <!ENTITY viewTabsOnTop.label            "Skedat Përsipër">
 <!ENTITY viewTabsOnTop.accesskey        "P">
-
+<!ENTITY  closeOtherTabs.label               "Mbylli Skedat e Tjera">
+<!ENTITY  closeOtherTabs.accesskey           "T">
