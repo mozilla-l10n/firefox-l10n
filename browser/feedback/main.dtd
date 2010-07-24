@@ -1,0 +1,30 @@
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "Rregullime">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Njoftomë kur">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Ka një vëzhgim për t&apos;'u bërë">
+<!ENTITY testpilot.settings.newStudy.label          "Ka një vëzhgim të ri">
+<!ENTITY testpilot.settings.hasNewResults.label     "Një vëzhgim ka përfundime të reja">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Parashtroji vetvetiu të dhënat e mia (pa më pyetur)">
+<!ENTITY testpilot.allStudies.label                 "Krejt Vëzhgimet Tuaja të Përdoruesit">
+<!ENTITY testpilot.about.label                      "Rreth Testit Pilot">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Vëzhgimet Tuaja për Testin Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Vëzhgimet e Tanishme">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Vëzhgime të Përfunduara">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Përfundime Vëzhgimi">
+<!ENTITY testpilot.studiesWindow.settings.label         "Rregullime">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Po ngarkohet, ju lutem prisni…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Të dhëna të Papërpunuara">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Mbylle">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Aktivizo Vëzhgime Përdoruesi">
+<!ENTITY testpilot.feedbackbutton.label                "Përshtypje">
+<!ENTITY testpilot.happy.label        "Firefox-i Më Kënaqi Sepse…">
+<!ENTITY testpilot.sad.label          "Firefox-i Nuk Më Kënaqi Ngaqë…">
