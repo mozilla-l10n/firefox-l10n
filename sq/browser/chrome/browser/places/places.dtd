@@ -109,3 +109,8 @@
 <!ENTITY cmd.deleteDomainData.accesskey "H">
 <!ENTITY cmd.bookmarkLink.label         "Faqeruaje Këtë Faqe…">
 <!ENTITY cmd.bookmarkLink.accesskey     "Q">
+
+<!ENTITY maintenance.tooltip    "Importoni dhe kopjeruani faqerojtësit tuaj">
+<!ENTITY organize.tooltip      "Organizoni faqerojtësit tuaj">
+<!ENTITY views.tooltip                  "Ndërroni shfaqjen">
+
