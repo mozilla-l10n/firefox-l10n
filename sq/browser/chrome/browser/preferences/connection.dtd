@@ -15,9 +15,6 @@
 <!ENTITY autoTypeRadio.label "URL formësimi të vetvetishëm për ndërmjetësin:">
 <!ENTITY ftp.accesskey "F">
 <!ENTITY ftp.label "Ndërmjetës FTP:">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY gopher.label "Ndërmjetës Gopher:">
-<!ENTITY gopherPort.accesskey "t">
 <!ENTITY http.accesskey "h">
 <!ENTITY http.label "Ndërmjetës HTTP:">
 <!ENTITY manualTypeRadio.accesskey "d">
