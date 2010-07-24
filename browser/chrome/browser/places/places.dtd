@@ -27,36 +27,12 @@
 <!ENTITY cmd.exportHTML.accesskey       "E">
 <!ENTITY cmd.importHTML.label           "Importo HTML…">
 <!ENTITY cmd.importHTML.accesskey       "I">
-
 <!ENTITY cmd.backup.label               "Kopjeruajtje…">
 <!ENTITY cmd.backup.accesskey           "K">
 <!ENTITY cmd.restore2.label             "Riktheji">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Zgjidhni Kartelë…">
 <!ENTITY cmd.restoreFromFile.accesskey  "K">
-
-<!ENTITY cmd.select_all.label "Përzgjidh Tërë">
-<!ENTITY cmd.select_all.accesskey "T">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Prije">
-<!ENTITY cmd.edit_cut.accesskey     "p">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopjoje">
-<!ENTITY cmd.edit_copy.accesskey    "k">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Ngjite">
-<!ENTITY cmd.edit_paste.accesskey   "n">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Fshije">
-<!ENTITY cmd.edit_delete.accesskey  "f">
-<!ENTITY cmd.edit_undo.label        "Zhbëje">
-<!ENTITY cmd.edit_undo.accesskey    "Z">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Ribëje">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.open.label                  "Hape">
 <!ENTITY cmd.open.accesskey              "H">
 <!ENTITY cmd.open_window.label           "Hape në Dritare të Re">
@@ -65,12 +41,10 @@
 <!ENTITY cmd.open_tab.accesskey          "s">
 <!ENTITY cmd.open_all_in_tabs.label      "Hapi të Tëra në Skeda">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "T">
-
 <!ENTITY cmd.properties.label      "Veti">
 <!ENTITY cmd.properties.accesskey  "V">
 
-<!ENTITY cmd.rename.label      "Riemërto">
-<!ENTITY cmd.rename.accesskey  "R">
+
 
 <!ENTITY cmd.sortby_name.label              "Renditi Sipas Emrash">
 <!ENTITY cmd.sortby_name.accesskey          "R">
@@ -78,8 +52,6 @@
 
 <!ENTITY cmd.new_bookmark.label            "Faqerojtës i Ri…">
 <!ENTITY cmd.new_bookmark.accesskey        "q">
-<!ENTITY cmd.new_livemark.label            "Faqerojtës i Gjallë i Ri…">
-<!ENTITY cmd.new_livemark.accesskey        "G">
 <!ENTITY cmd.new_folder.label              "Dosje e Re…">
 <!ENTITY cmd.new_folder.accesskey          "D">
 <!ENTITY cmd.context_new_folder.accesskey  "O">
@@ -115,8 +87,6 @@
 <!ENTITY saveSearch.label                          "Ruaje">
 <!ENTITY saveSearch.accesskey                      "R">
 <!ENTITY cmd.find.key  "f">
-<!ENTITY feed.subscribe.label    "Prurje">
-<!ENTITY feed.subscribe.tooltip  "Pajtohuni">
 <!ENTITY maintenance.label   "Importim dhe Kopjeruajtje">
 <!ENTITY backCmd.label       "Mbrapsht">
 <!ENTITY backButton.tooltip  "Kthehu mbrapsht">
