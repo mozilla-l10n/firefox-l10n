@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Tanúsítvány neve">
 <!ENTITY certmgr.certserver                   "Kiszolgáló">
-<!ENTITY certmgr.typesofoverrides             "Kivételek">
 <!ENTITY certmgr.override_lifetime            "Élettartam">
 <!ENTITY certmgr.tokenname                    "Adatvédelmi eszköz">
-<!ENTITY certmgr.purpose                      "Cél">
 <!ENTITY certmgr.issued                       "Kiadás dátuma">
 <!ENTITY certmgr.expires                      "Lejárat dátuma">
 <!ENTITY certmgr.email                        "E-mail cím">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "B">
 <!ENTITY certmgr.view2.label                  "Megtekintés...">
 <!ENTITY certmgr.view2.accesskey              "M">
-<!ENTITY certmgr.edit2.label                  "Szerkesztés...">
-<!ENTITY certmgr.edit2.accesskey              "z">
+<!ENTITY certmgr.edit3.label                  "Edit Trust...">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Hitelesítésszolgáltató megbízhatóságának megadása">
 <!ENTITY certmgr.editca.accesskey             "i">
 <!ENTITY certmgr.add.label                    "Hozzáadás">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Törlés...">
 <!ENTITY certmgr.delete2.accesskey            "T">
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust...">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Mentés...">
 <!ENTITY certmgr.backup2.accesskey            "e">
 <!ENTITY certmgr.backupall2.label             "Összes mentése...">

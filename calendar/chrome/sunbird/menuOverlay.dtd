@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "Frissítések keresése...">
 <!ENTITY updateCmd.accesskey                               "F">
 
+<!ENTITY sunbird.export.calendar.label                     "Naptár exportálása...">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Ablak">
 <!ENTITY minimizeWindow.label                              "Kis méret">

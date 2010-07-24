@@ -94,7 +94,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
@@ -160,6 +160,9 @@ ideiglenes, és később újra megpróbálhatja.</li>
 <p>Ha személyes adatot ad meg ezen az oldalon, az a személyazonosságának ellopásához vagy más csaláshoz vezethet.</p>
 <p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználó becsapni.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
 <!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">

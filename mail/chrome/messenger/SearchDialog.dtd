@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Keresés az almappákban is">
 <!ENTITY searchSubfolders.accesskey  "m">
+<!ENTITY searchOnServer.label        "Keresés a kiszolgálón">
+<!ENTITY searchOnServer.accesskey    "e">
 <!ENTITY resetButton.label           "Alaphelyzet">
 <!ENTITY resetButton.accesskey       "A">
 <!ENTITY openButton.label            "Megnyitás">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label            "Iktatás">
 <!ENTITY fileButton.accesskey        "I">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "Üzenetmappa megnyitása">
-<!ENTITY goToFolderButton.accesskey  "z">
+<!ENTITY openInFolder.label          "Megnyitás mappában">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Mentés keresési mappaként">
 <!ENTITY saveAsVFButton.accesskey    "k">
 

@@ -4,13 +4,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Sikertelen csatlakozás">
-<!ENTITY connectionFailure.longDesc "<p>Bár a webhely érvényesnek tűnik, a böngésző képtelen volt kapcsolatot létesíteni vele.</p><ul><li>Lehet, hogy a webhely ideiglenesen üzemen kívül van? Próbálja újra később.</li><li>Más webhelyeket sem képes elérni?  Ellenőrizze a számítógép hálózati kapcsolatát.</li><li>Lehetséges, hogy tűzfal vagy proxy mögött van a számítógépe vagy a helyi hálózata? A helytelen beállítások zavarhatják a webböngészést.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Bár a webhely érvényesnek tűnik, a böngésző képtelen volt kapcsolatot létesíteni vele.</p><ul><li>Lehet, hogy a webhely ideiglenesen üzemen kívül van? Próbálja újra később.</li><li>Más webhelyeket sem képes elérni? Ellenőrizze a számítógép hálózati kapcsolatát.</li><li>Lehetséges, hogy tűzfal vagy proxy mögött van a számítógépe vagy a helyi hálózata? A helytelen beállítások zavarhatják a webböngészést.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "A port biztonsági okok miatt tiltva van">
 <!ENTITY deniedPortAccess.longDesc "<p>A kért cím olyan portot adott meg (pl. <q>mozilla.org:80</q> a mozilla.org 80-as portjához), amelyet általában <em>nem</em> szokás webböngészés céljaira használni. A böngésző nem engedélyezi ezt a lekérést az Ön védelme és biztonsága érdekében.</p>">
 
 <!ENTITY dnsNotFound.title "Cím nem található">
-<!ENTITY dnsNotFound.longDesc "<p>A böngésző nem találja a megadott címhez tartozó kiszolgálót.</p><ul><li>Nem vétett hibát a gép nevének beírásakor? (pl. <q><strong>ww</strong>.mozilla.org</q> a <q><strong>www</strong>.mozilla.org</q> helyett)</li><li>Biztos benne, hogy ez a tartománynév létezik?  Lehet, hogy lejárt a regisztrációja.</li><li>Más webhelyeket sem képes elérni?  Ellenőrizze a hálózati kapcsolatát és a DNS-kiszolgáló beállításait.</li><li>Lehetséges, hogy tűzfal vagy proxy mögött van a számítógépe vagy a helyi hálózata?  A helytelen beállítások zavarhatják a webböngészést.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>A böngésző nem találja a megadott címhez tartozó kiszolgálót.</p><ul><li>Nem vétett hibát a gép nevének beírásakor? (pl. <q><strong>ww</strong>.mozilla.org</q> a <q><strong>www</strong>.mozilla.org</q> helyett)</li><li>Biztos benne, hogy ez a tartománynév létezik? Lehet, hogy lejárt a regisztrációja.</li><li>Más webhelyeket sem képes elérni?  Ellenőrizze a hálózati kapcsolatát és a DNS-kiszolgáló beállításait.</li><li>Lehetséges, hogy tűzfal vagy proxy mögött van a számítógépe vagy a helyi hálózata?  A helytelen beállítások zavarhatják a webböngészést.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fájl nem található">
 <!ENTITY fileNotFound.longDesc "<ul><li>Lehet, hogy a fájlt átnevezték, eltávolították vagy áthelyezték?</li><li>Nincs elgépelés, kis- és nagybetű eltérés stb. a címben?</li><li>Rendelkezik a megfelelő hozzáférési jogokkal a kért fájlhoz?</li></ul>">
@@ -22,7 +22,7 @@
 <!ENTITY malformedURI.longDesc "<p>A megadott cím formátuma nem felismerhető. Ellenőrizze a címsorba beírtakat, javítsa a hibákat, és próbálja meg újra.</p>">
 
 <!ENTITY netInterrupt.title "Adatátvitel megszakadt">
-<!ENTITY netInterrupt.longDesc "<p>A böngésző sikeresen csatlakozott, de a kapcsolat megszakadt az adatátvitel közben.  Próbálja újra később.</p><ul><li>Más webhelyeket sem képes elérni? Ellenőrizze a számítógép hálózati kapcsolatát.</li><li>Továbbra is fennáll a probléma? Kérjen segítséget a rendszergazdától vagy az internetszolgáltatójától.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>A böngésző sikeresen csatlakozott, de a kapcsolat megszakadt az adatátvitel közben. Próbálja újra később.</p><ul><li>Más webhelyeket sem képes elérni? Ellenőrizze a számítógép hálózati kapcsolatát.</li><li>Továbbra is fennáll a probléma? Kérjen segítséget a rendszergazdától vagy az internetszolgáltatójától.</li></ul>">
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
 <!ENTITY netOffline.longDesc "<p>A böngésző kapcsolat nélküli módban van, ezért nem tud csatlakozni a kért elemhez.</p><ul><li>Csatlakoztatva van a számítógép a hálózathoz?</li><li>Lépjen ki a kapcsolat nélküli üzemmódból, és próbálja meg újra.</li></ul>">
@@ -79,6 +79,9 @@
 <p>Ha személyes adatot ad meg ezen az oldalon, az a személyazonosságának ellopásához vagy más csaláshoz vezethet.</p>
 <p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználó becsapni.</p>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

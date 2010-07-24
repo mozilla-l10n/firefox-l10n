@@ -6,20 +6,15 @@
 <!ENTITY serverDescription.accesskey "L">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Azonosító és jelszó használata">
-<!ENTITY alwaysUseUsername.accesskey "A">
 <!ENTITY userName.label "Felhasználói név:">
 <!ENTITY userName.accesskey "F">
-<!ENTITY useSecAuth.label "Biztonságos hitelesítés használata">
-<!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "Biztonságos kapcsolat (SSL) használata:">
-<!ENTITY neverSecure.label "Soha">
-<!ENTITY neverSecure.accesskey "S">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, ha elérhető">
-<!ENTITY sometimesSTARTTLS.accesskey "R">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "Kapcsolat biztonsága:">
+<!ENTITY connectionSecurity.accesskey "b">
+<!ENTITY connectionSecurityType-0.label "Nincs">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ha elérhető">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP-kiszolgáló">
 <!ENTITY serverPortDefault.label "Alapértelmezett:">
+<!ENTITY authMethod.label "Hitelesítési módszer:">
+<!ENTITY authMethod.accesskey "H">

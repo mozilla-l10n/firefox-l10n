@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "RSS-fiók beállításai">
+<!ENTITY accountTitle.label "Postafiók beállításai">
 
 <!ENTITY biffStart.label "Új cikkek ellenőrzése ">
 <!ENTITY biffStart.accesskey "k">
@@ -13,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "Feliratkozások kezelése..."> 
 <!ENTITY manageSubscriptions.accesskey "F">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "Hirek es blogok">
-<!ENTITY rss.wizardShortName        "RSS">  
-<!ENTITY rss.wizardLongName         "Hírek és blogok RSS-ben">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogok és hírforrások">
+<!ENTITY feeds.wizardShortName "Hírforrások">
+<!ENTITY feeds.wizardLongName "Blogok és hírforrások">
+<!ENTITY feeds.wizardLongName.accesskey "B">

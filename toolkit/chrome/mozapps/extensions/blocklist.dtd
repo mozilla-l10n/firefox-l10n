@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "A &brandShortName; újraindítása">
 <!ENTITY blocklist.accept.accesskey  "r">
+
+<!ENTITY blocklist.blocked.label     "Blokkolva">
+<!ENTITY blocklist.checkbox.label    "Letiltás">

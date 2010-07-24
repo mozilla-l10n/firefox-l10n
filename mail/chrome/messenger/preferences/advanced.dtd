@@ -6,8 +6,25 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "Üzenetek indexelésének engedélyezése">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
+<!ENTITY enableGlodaSearch.accesskey   "G">
+<!ENTITY systemIntegration.label       "Integrálódás a rendszerbe">
+<!ENTITY alwaysCheckDefault.label      "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett levelező">
+<!ENTITY alwaysCheckDefault.accesskey  "I">
+<!ENTITY searchIntegration.label       "A(z) &searchIntegration.engineName; kereshet az üzenetek között">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkNow.label                "Ellenőrzés">
+<!ENTITY checkNow.accesskey            "E">
+<!ENTITY configEditDesc.label          "Haladó beállítások">
+<!ENTITY configEdit.label              "Beállításszerkesztő...">
+<!ENTITY configEdit.accesskey          "B">
+<!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
+<!ENTITY showReturnReceipts.label      "Tértivevények...">
+<!ENTITY showReturnReceipts.accesskey  "T">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Olvasás">
+<!ENTITY display.caption               "Megjelenítés">
 <!ENTITY showCondensedAddresses.label  "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "C">
 
@@ -21,23 +38,15 @@
 <!ENTITY markAsReadDelay.label         "Megjelenítés után">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "másodperc múlva">
-<!ENTITY showFolderColumns.label       "Kibővített oszlopok megjelenítése a mappapanelon">
-<!ENTITY showFolderColumns.accesskey   "K">
 <!ENTITY openMsgIn.label               "Üzenetek megnyitása:">
+<!ENTITY openMsgInNewTab.label         "Új üzenetlapon">
+<!ENTITY openMsgInNewTab.accesskey     "l">
 <!ENTITY reuseExpRadio0.label          "Új üzenetablakban">
 <!ENTITY reuseExpRadio0.accesskey      "z">
 <!ENTITY reuseExpRadio1.label          "Létező üzenetablakban">
 <!ENTITY reuseExpRadio1.accesskey      "l">
-<!ENTITY configEditDesc.label          "Haladó beállítások">
-<!ENTITY configEdit.label              "Beállításszerkesztő...">
-<!ENTITY configEdit.accesskey          "B">
-<!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
-<!ENTITY showReturnReceipts.label      "Tértivevények...">
-<!ENTITY showReturnReceipts.accesskey  "T">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Olvasás">
-<!ENTITY display.caption                "Megjelenítés">
+<!ENTITY closeMsgWindowOnDelete.label  "Üzenetablak bezárása törléskor">
+<!ENTITY closeMsgWindowOnDelete.accesskey "t">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Frissítések automatikus keresése:">
@@ -45,7 +54,6 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Telepített kiegészítők">
 <!ENTITY enableAddonsUpdate.accesskey   "T">
-<!ENTITY checkNow.label                 "Ellenőrzés...">
 <!ENTITY whenUpdatesFound.label         "Amikor frissítések érhetők el a &brandShortName; programhoz:">
 <!ENTITY modeAskMe.label                "Kérdezzen rá, hogy mi a teendő">
 <!ENTITY modeAskMe.accesskey            "K">
@@ -84,6 +92,12 @@
 <!ENTITY clearCacheNow.accesskey         "T">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
+<!ENTITY certs.auto                      "Automatikus választás">
+<!ENTITY certs.auto.accesskey            "A">
+<!ENTITY certs.ask                       "Megerősítés minden alkalommal">
+<!ENTITY certs.ask.accesskey             "M">
+
 <!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
 <!ENTITY viewCertificates.accesskey     "T">
 <!ENTITY viewCRLs.label                 "Visszavonási listák">

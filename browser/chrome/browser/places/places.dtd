@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Rendszerezés">
 <!ENTITY organize.accesskey    "R">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Bezárás">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                 "z">
 <!ENTITY views.label                    "Nézetek">
 <!ENTITY views.accesskey                "N">
-<!ENTITY view.toolbar.label             "Eszköztár">
-<!ENTITY view.toolbar.accesskey         "E">
+<!ENTITY views.tooltip                  "Change your view">
 <!ENTITY view.columns.label             "Oszlopok megjelenítése">
 <!ENTITY view.columns.accesskey         "O">
 <!ENTITY view.sort.label                "Rendezés">
@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Könyvjelzők használata">
-<!ENTITY help.usingBookmarks.accesskey  "K">
-<!ENTITY help.usingHistory.label        "Előzmények használata">
-<!ENTITY help.usingHistory.accesskey    "l">
-<!ENTITY help.advancedTips.label        "Tippek és trükkök szakértőknek">
-<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label      "Keresés a könyvjelzők között...">
 <!ENTITY cmd.findInBookmarks.accesskey  "K">
@@ -48,28 +42,6 @@
 <!ENTITY cmd.restore2.accesskey         "V">
 <!ENTITY cmd.restoreFromFile.label      "Tallózás...">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
-
-<!ENTITY cmd.select_all.label "Minden kijelölése">
-<!ENTITY cmd.select_all.accesskey "i">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Kivágás">
-<!ENTITY cmd.edit_cut.accesskey     "K">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Másolás">
-<!ENTITY cmd.edit_copy.accesskey    "M">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Beillesztés">
-<!ENTITY cmd.edit_paste.accesskey   "B">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Törlés">
-<!ENTITY cmd.edit_delete.accesskey  "T">
-<!ENTITY cmd.edit_undo.label        "Visszavonás">
-<!ENTITY cmd.edit_undo.accesskey    "V">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Újra">
-<!ENTITY cmd.edit_redo.accesskey    "r">
-<!ENTITY cmd.edit_redo.key          "y">
 
 <!ENTITY cmd.bookmarkLink.label         "Oldal felvétele a könyvjelzők közé...">
 <!ENTITY cmd.bookmarkLink.accesskey     "O">
@@ -90,19 +62,12 @@
 <!ENTITY cmd.properties.label      "Tulajdonságok">
 <!ENTITY cmd.properties.accesskey  "T">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "Átnevezés">
-<!ENTITY cmd.rename.accesskey  "t">
-
 <!ENTITY cmd.sortby_name.label              "Rendezés név szerint">
 <!ENTITY cmd.sortby_name.accesskey          "n">
 <!ENTITY cmd.context_sortby_name.accesskey  "n">
 
 <!ENTITY cmd.new_bookmark.label            "Új könyvjelző...">
 <!ENTITY cmd.new_bookmark.accesskey        "k">
-<!ENTITY cmd.new_livemark.label            "Új élő könyvjelző...">
-<!ENTITY cmd.new_livemark.accesskey        "l">
 <!ENTITY cmd.new_folder.label              "Új mappa...">
 <!ENTITY cmd.new_folder.accesskey          "m">
 <!ENTITY cmd.context_new_folder.accesskey  "m">
@@ -113,15 +78,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "f">
 <!ENTITY cmd.reloadMicrosummary.label      "Élő cím frissítése">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "c">
-
-<!ENTITY cmd.groupby_site.label      "Csoportosítás webhely szerint">
-<!ENTITY cmd.groupby_site.accesskey  "w">
-<!ENTITY cmd.groupby_page.label      "Csoportosítás oldal szerint">
-<!ENTITY cmd.groupby_page.accesskey  "o">
-<!ENTITY cmd.groupby_feed.label      "Csoportosítás feliratkozás szerint">
-<!ENTITY cmd.groupby_feed.accesskey  "f">
-<!ENTITY cmd.groupby_post.label      "Csoportosítás beírás szerint">
-<!ENTITY cmd.groupby_post.accesskey  "b">
 
 <!ENTITY cmd.moveBookmarks.label                  "Áthelyezés...">
 <!ENTITY cmd.moveBookmarks.accesskey              "t">
@@ -146,57 +102,14 @@
 <!ENTITY search.scopeDownloads.accesskey           "L">
 <!ENTITY search.scopeHistory.label                 "Előzmények">
 <!ENTITY search.scopeHistory.accesskey             "E">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Keresési feltétel szerkesztőjének megjelenítése">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Keresési feltétel szerkesztőjének elrejtése">
 <!ENTITY saveSearch.label                          "Mentés">
 <!ENTITY saveSearch.accesskey                      "M">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Keresés csak a könyvjelzőkben">
-<!ENTITY advancedSearch.match.label                "Egyezés ">
-<!ENTITY advancedSearch.all.label                  "mindegyik">
-<!ENTITY advancedSearch.any.label                  "bármelyik">
-<!ENTITY advancedSearch.rules.label                " feltétellel:">
-<!ENTITY advancedSearch.subj_keyword.label         "Tartalmazza ezt a szöveget">
-<!ENTITY advancedSearch.subj_visited.label         "Utoljára látogatva">
-<!ENTITY advancedSearch.subj_location.label        "Hely">
-<!ENTITY advancedSearch.location_startswith.label  "ezzel kezdődik">
-<!ENTITY advancedSearch.location_is.label          "=">
-<!ENTITY advancedSearch.location_onsite.label      "ezen a webhelyen">
-<!ENTITY advancedSearch.time_is.label              "ekkor">
-<!ENTITY advancedSearch.time_before.label          "előtt">
-<!ENTITY advancedSearch.time_after.label           "után">
-<!ENTITY advancedSearch.time_inlast.label          "az utolsó">
-<!ENTITY advancedSearch.last_days.label            "napban">
-<!ENTITY advancedSearch.last_weeks.label           "héten">
-<!ENTITY advancedSearch.last_months.label          "hónapban">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Rendezés: ">
-<!ENTITY advancedSearch.groupby_host.label         "gépnév">
-<!ENTITY advancedSearch.groupby_domain.label       "tartomány">
-<!ENTITY advancedSearch.groupby_folder.label       "mappa">
-<!ENTITY advancedSearch.sortby.label               "Rendezés alapja:">
-<!ENTITY advancedSearch.sortby_title.label         "cím">
-<!ENTITY advancedSearch.sortby_date.label          "dátum">
-<!ENTITY advancedSearch.sortby_visit.label         "látogatások száma">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "növekvő">
-<!ENTITY advancedSearch.sortby_desc.label          "csökkenő">
-<!ENTITY advancedSearch.max.label                  "Találatok max. száma: ">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "Hírforrás">
-<!ENTITY feed.subscribe.tooltip  "Feliratkozás">
-
-<!ENTITY view.detailsMacOSX.label  "Felsorolás">
-<!ENTITY view.details.label        "Részletek">
-<!ENTITY view.details.accesskey    "R">
-
-<!ENTITY view.addons.label   "Nézet-kiegészítők letöltése">
-
 <!ENTITY maintenance.label      "Importálás és mentés">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label       "Vissza">
 <!ENTITY backButton.tooltip  "Ugrás vissza">

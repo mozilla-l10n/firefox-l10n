@@ -7,8 +7,5 @@
 <!ENTITY aboutVersion               "verzió">
 <!ENTITY closeCmdGNOME.label        "Bezárás">  
 <!ENTITY closeCmdGNOME.accesskey    "B">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 A közreműködők. Minden jog
-                                 fenntartva. (">
-<!ENTITY licenseLink                "about:license">
 <!ENTITY licenseLinkText            "Licencinformációk">
-<!ENTITY copyrightInfo2             ").">
+<!ENTITY licenseLinkSuffix          ".">

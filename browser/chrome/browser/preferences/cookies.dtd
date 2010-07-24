@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "Az alábbi sütik vannak a számítógépen tárolva:">
 <!ENTITY     cookiename.label               "Süti neve">
 <!ENTITY     cookiedomain.label             "Webhely"> 
+<!ENTITY     button.removecookies.label     "Remove Cookies">
 <!ENTITY     button.removecookie.label      "Süti törlése">
 <!ENTITY button.removecookie.accesskey  "r">
 <!ENTITY     button.removeallcookies.label  "Összes süti törlése">

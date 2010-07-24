@@ -1,6 +1,5 @@
 <!ENTITY credit.title     "A &brandFullName; alkotói">
-<!ENTITY brandMotto       "Hajrá Thunderbird!">
-<!ENTITY credit.leads     "Vezető mérnökök">
+<!ENTITY brandMotto       "Hajrá, Thunderbird!">
 <!ENTITY credit.thanks    "Külön köszönet">
 
 <!-- localization credits look like this: -->
@@ -10,8 +9,5 @@
 -->
 <!ENTITY credit.translation "<h3>Magyar változat</h3><ul><li>Tímár András</li><li><b>FSF.hu Alapítvány</b></li></ul>">
 
-<!ENTITY credit.theme          "Tématervező">
-<!ENTITY credit.qa             "Minőségbiztosítás">
-<!ENTITY credit.build          "Összeépítés és kiadás">
 <!ENTITY credit.memory         "Emléke örökké szívünkben él">
 <!ENTITY credit.poweredByGecko "A Gecko&trade; motor hajtja.">

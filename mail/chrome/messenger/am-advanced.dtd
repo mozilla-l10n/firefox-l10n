@@ -16,8 +16,8 @@
 <!ENTITY smtpListSetDefault.accesskey "A">
 
 <!ENTITY serverDescription.label "Leírás: ">
-<!ENTITY serverName.label "Kiszolgáló: ">
+<!ENTITY serverName.label "Kiszolgáló neve: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Felhasználói név: ">
-<!ENTITY useSecureConnection.label   "Biztonságos kapcsolat: ">
-<!ENTITY useSecureAuthentication.label   "Biztonságos hitelesítés:">
+<!ENTITY connectionSecurity.label "Kapcsolat biztonsága: ">
+<!ENTITY authMethod.label   "Hitelesítési módszer: ">

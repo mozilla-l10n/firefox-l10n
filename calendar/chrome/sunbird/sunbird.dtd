@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "Naptár nyomtatása" >
 <!ENTITY sunbird.delete.button.tooltip                     "Kiválasztott esemény törlése" >
 <!ENTITY sunbird.remotereload.button.tooltip               "Az összes távoli naptár újra betöltése" >
+<!ENTITY sunbird.import.button.tooltip                     "Események importálása helyi fájlból" >
+<!ENTITY sunbird.export.button.tooltip                     "Események exportálása helyi fájlba" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Távoli gépen közzétett naptárfájl használata" >
+<!ENTITY sunbird.publish.button.tooltip                    "Események közzététele egy távoli gépen" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Események keresése és listázása" >
+<!ENTITY sunbird.edit.button.tooltip                       "Kiválasztott esemény szerkesztése" >
 
 <!ENTITY sunbird.choosedate.button.label                   "Dátumválasztás" >
 <!ENTITY sunbird.cut.button.label                          "Kivágás" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "Beillesztés" >
 <!ENTITY sunbird.delete.button.label                       "Törlés" >
 <!ENTITY sunbird.remotereload.button.label                 "Frissítés" >
+<!ENTITY sunbird.import.button.label                       "Importálás" >
+<!ENTITY sunbird.export.button.label                       "Exportálás" >
+<!ENTITY sunbird.subscribe.button.label                    "Feliratkozás" >
+<!ENTITY sunbird.publish.button.label                      "Közzététel" >
+<!ENTITY sunbird.unifinder.button.label                    "Események keresése" >
+<!ENTITY sunbird.edit.button.label                         "Szerkesztés" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "Ugrás adott napra" >
 <!ENTITY sunbird.flat.topbar.dayview                       "Napi nézet" >
@@ -69,6 +81,7 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "Hetek száma" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "H">
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 hét" >
 <!ENTITY sunbird.menu.numberofweeks.2                      "2 hét" >
 <!ENTITY sunbird.menu.numberofweeks.3                      "3 hét" >
 <!ENTITY sunbird.menu.numberofweeks.4                      "4 hét" >

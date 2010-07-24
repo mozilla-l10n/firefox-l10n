@@ -67,7 +67,6 @@
 <!ENTITY NickName.label                 "Becenév:">
 <!ENTITY NickName.accesskey             "B">
 
-<!ENTITY Internet.box                   "Internet">
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "További e-mail:">
@@ -80,9 +79,9 @@
 <!ENTITY ScreenName.label               "Felhasználói név:">
 <!ENTITY ScreenName.accesskey           "F">
 
-<!ENTITY allowRemoteContent.label       "Távoli képek engedélyezése">
-<!ENTITY allowRemoteContent.accesskey   "T">
-<!ENTITY allowRemoteContent.tooltip     "A HTML-üzenetekbe be lehet ágyazni távoli forrásból származó képet. Egy ilyen üzenet megnyitása kapcsolatot nyit meg e távoli forrás felé. Így lehetővé válhat annak nyomon követése, hogy a levelet mikor olvassák el. A négyzet bejelölésével engedélyezi az ilyen beágyazott képeket a HTML-üzenetekben ettől a kapcsolattól.">
+<!ENTITY allowRemoteContent1.label      "Távoli tartalom engedélyezése">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "A HTML-üzenetekbe be lehet ágyazni távoli forrásból származó tartalmakat. Egy ilyen üzenet megnyitása kapcsolatot nyit meg e távoli forrás felé. Így lehetővé válhat annak nyomon követése, hogy a levelet mikor olvassák el. A négyzet bejelölésével engedélyezi az ilyen beágyazott tartalmakat a HTML-üzenetekben ettől a kapcsolattól.">
 
 <!ENTITY WorkPhone.label                "Munkahelyi:">
 <!ENTITY WorkPhone.accesskey            "u">
@@ -113,9 +112,11 @@
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Születési dátum:">
 <!ENTITY Birthday.accesskey             "S">
+<!ENTITY In.label                       "">
 <!ENTITY Year.emptytext                 "évente">
 <!ENTITY Or.value                       "vagy">
 <!ENTITY Age.emptytext                  "Kor">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Munkahely">
 <!ENTITY Work.accesskey                 "M">
@@ -152,3 +153,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Megjegyzés:">
 <!ENTITY Notes.accesskey                "M">
+
+<!ENTITY Photo.tab                      "Fénykép">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY PhotoDesc.label                "Válassza a következők egyikét:">
+<!ENTITY GenericPhoto.label             "Általános fénykép">
+<!ENTITY GenericPhoto.accesskey         "l">
+<!ENTITY DefaultPhoto.label             "Alapértelmezett">
+<!ENTITY PhotoFile.label                "Ezen a számítógépen">
+<!ENTITY PhotoFile.accesskey            "E">
+<!ENTITY BrowsePhoto.label              "Megtekintés">
+<!ENTITY BrowsePhoto.accesskey          "M">
+<!ENTITY PhotoURL.label                 "A weben">
+<!ENTITY PhotoURL.accesskey             "w">
+<!ENTITY PhotoURL.emptytext             "Illessze be vagy adja meg a fénykép webcímét">
+<!ENTITY UpdatePhoto.label              "Frissítés">
+<!ENTITY UpdatePhoto.accesskey          "F">

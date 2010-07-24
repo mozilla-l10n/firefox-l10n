@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Importálás">
-<!ENTITY importDialog.allTitle    "Minden importálása">
-<!ENTITY importDialog.mailTitle   "Levelek">
-<!ENTITY importDialog.addressbookTitle "Címjegyzékek">
-<!ENTITY importDialog.settingsTitle "Beállítások">
-<!ENTITY importDialog.filtersTitle "Szűrők">
+<!ENTITY importAll.label          "Minden importálása">
+<!ENTITY importAll.accesskey      "M">
+<!ENTITY importMail.label         "Levelek">
+<!ENTITY importMail.accesskey     "L">
+<!ENTITY importAddressbook.label  "Címjegyzékek">
+<!ENTITY importAddressbook.accesskey "C">
+<!ENTITY importSettings.label     "Beállítások">
+<!ENTITY importSettings.accesskey "B">
+<!ENTITY importFilters.label      "Szűrők">
+<!ENTITY importFilters.accesskey  "S">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Az importálás után ezek az adatok hozzáférhetők lesznek a &brandShortName; levelezőben, illetve a címjegyzékben.">
 
 <!ENTITY selectDescription.label  "Válassza ki azt a fájltípust, amelyből importálni szeretne:">
+<!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Vissza">
 <!ENTITY forward.label            "Tovább &gt;">
@@ -75,5 +81,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label  "A Netscape Communicator 4.x egy levélcímet kezel egy névjegyen, &brandShortName; pedig kettőt (otthoni és munkahelyi).">
 <!ENTITY FieldDiscInputText2.label  "Válassza ki, hogy melyik mezőbe kerüljön az importált levélcím:">
 <!ENTITY FieldDiscWarning.label  "Ez a beállítás az összes névjegyre érvényes lesz: ">
-<!ENTITY importDialog.homeTitle  "Otthon">
-<!ENTITY importDialog.workTitle  "Munkahely">
+<!ENTITY importHome.label        "Otthon">
+<!ENTITY importHome.accesskey    "O">
+<!ENTITY importWork.label        "Munkahely">
+<!ENTITY importWork.accesskey    "M">

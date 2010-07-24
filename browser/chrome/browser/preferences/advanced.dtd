@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "I">
 <!ENTITY checkNow.label                  "Ellenőrzés">
 <!ENTITY checkNow.accesskey              "E">
+<!ENTITY submitCrashes.label             "Hibajelentés küldése">
+<!ENTITY submitCrashes.accesskey         "H">
 
 <!ENTITY networkTab.label                "Hálózat">
 
@@ -53,8 +55,8 @@
 <!ENTITY autoCheck.label                 "Frissítések automatikus keresése:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "Telepített kiegészítők">
-<!ENTITY enableAddonsUpdate.accesskey    "T">
+<!ENTITY enableAddonsUpdate2.label       "Kiegészítők">
+<!ENTITY enableAddonsUpdate2.accesskey   "i">
 <!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
 <!ENTITY enableSearchUpdate.accesskey    "K">
 <!ENTITY whenUpdatesFound.label          "Amikor frissítések érhetők el a &brandShortName; programhoz:">

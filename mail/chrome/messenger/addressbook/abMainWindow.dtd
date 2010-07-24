@@ -5,9 +5,9 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Új">
 <!ENTITY newMenu.accesskey                              "Ú">
-<!ENTITY newCard.label                                  "Névjegy...">
-<!ENTITY newCard.accesskey                              "N">
-<!ENTITY newCard.key                                    "N">
+<!ENTITY newContact.label                               "Névjegy...">
+<!ENTITY newContact.accesskey                           "N">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Levelezőlista...">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Címjegyzék...">
@@ -25,13 +25,13 @@
 <!ENTITY closeCmd.accesskey                             "B">
 <!ENTITY printSetupCmd.label                            "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey                        "O">
-<!ENTITY printPreviewCardViewCmd.label                  "Nyomtatási kép">
-<!ENTITY printPreviewCardViewCmd.accesskey              "k">
+<!ENTITY printPreviewContactCmd.label                   "Névjegy nyomtatási képe">
+<!ENTITY printPreviewContactCmd.accesskey               "k">
 <!ENTITY printPreviewAddressBook.label                  "Címjegyzék nyomtatási képe">
 <!ENTITY printPreviewAddressBook.accesskey              "n">
-<!ENTITY printCardViewCmd.label                         "Névjegy nyomtatása...">
-<!ENTITY printCardViewCmd.accesskey                     "N">
-<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printContactCmd.label                          "Névjegy nyomtatása...">
+<!ENTITY printContactCmd.accesskey                      "v">
+<!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Címjegyzék nyomtatása...">
 <!ENTITY printAddressBook.accesskey                     "C">
 
@@ -56,8 +56,8 @@
 <!ENTITY deleteCmd.label                                "Törlés">
 <!ENTITY deleteCmd.accesskey                            "T">
 <!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
-<!ENTITY deleteCardCmd.label                            "Névjegy törlése">
-<!ENTITY deleteCardsCmd2.label                          "Névjegyek törlése">
+<!ENTITY deleteContactCmd.label                         "Névjegy törlése">
+<!ENTITY deleteContactsCmd.label                        "Névjegyek törlése">
 <!ENTITY deleteListCmd.label                            "Lista törlése">
 <!ENTITY deleteListsCmd.label                           "Listák törlése">
 <!ENTITY deleteItemsCmd.label                           "Elemek törlése">
@@ -85,8 +85,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Testreszabás...">
 <!ENTITY customizeToolbar.accesskey                     "T">
-<!ENTITY showCardPane.label                             "Névjegy panel">
-<!ENTITY showCardPane.accesskey                         "N">
+<!ENTITY showContactPane.label                          "Névjegy panel">
+<!ENTITY showContactPane.accesskey                      "v">
 <!ENTITY menu_ShowNameAs.label                          "Nevek megjelenítése">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!ENTITY firstLastCmd.label                             "Utónév, vezetéknév">
@@ -116,27 +116,26 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "B">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "Új névjegy">
-<!ENTITY newcardButton.accesskey                        "n">
+<!ENTITY newContactButton.label                         "Új névjegy">
+<!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Új lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton.label                               "Tulajdonságok">
-<!ENTITY editButton.accesskey                           "T">
+<!ENTITY editButton2.label                              "Tulajdonságok">
+<!ENTITY editButton2.accesskey                          "T">
 <!ENTITY newmsgButton.label                             "Új üzenet">
 <!ENTITY newmsgButton.accesskey                         "z">
 <!ENTITY newIM.label                                    "Azonnali üzenet">
 <!ENTITY newIM.accesskey                                "A">
-<!ENTITY deleteButton.label                             "Törlés">
-<!ENTITY deleteButton.accesskey                         "T">
-<!ENTITY throbberItem.title                             "Aktivitásjelző">
+<!ENTITY deleteButton2.label                            "Törlés">
+<!ENTITY deleteButton2.accesskey                        "r">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "Új névjegy létrehozása">
+<!ENTITY newContactButton.tooltip                       "Új névjegy létrehozása">
 <!ENTITY newlistButton.tooltip                          "Egy új lista létrehozása">
-<!ENTITY editButton.tooltip                             "A kijelölt névjegy szerkesztése">
+<!ENTITY editButton2.tooltip                            "A kijelölt elem szerkesztése">
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
-<!ENTITY deleteButton.tooltip                           "A kijelölt névjegy vagy a címjegyzék törlése">
+<!ENTITY deleteButton2.tooltip                           "A kijelölt elem törlése">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Címjegyzékek">

@@ -62,18 +62,16 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label         "Naptár exportálása...">
-<!ENTITY calendar.export.calendar.accesskey     "e">
+<!ENTITY calendar.export.label                  "Exportálás...">
+<!ENTITY calendar.export.accesskey              "x">
 <!ENTITY calendar.export.selection.label        "Kijelölés exportálása...">
 <!ENTITY calendar.export.selection.accesskey    "i">
 
 <!ENTITY calendar.publish.label                 "Közzététel...">
 <!ENTITY calendar.publish.accesskey             "K">
 
-<!ENTITY calendar.toolbar.label                 "Naptár eszköztár">
-<!ENTITY calendar.toolbar.accesskey             "N">
-<!ENTITY task.toolbar.label                     "Feladat eszköztár">
-<!ENTITY task.toolbar.accesskey                 "F">
+<!ENTITY calendar.deletecalendar.label          "Kijelölt naptár törlése...">
+<!ENTITY calendar.deletecalendar.accesskey      "K">
 
 <!ENTITY calendar.menu.customize.label          "Testreszabás...">
 <!ENTITY calendar.menu.customize.accesskey      "E">
@@ -93,21 +91,6 @@
 
 <!ENTITY goTodayCmd.label                       "Ma">
 <!ENTITY goTodayCmd.accesskey                   "m">
-
-<!ENTITY goPreviousCmd.day.label                "Előző nap">
-<!ENTITY goPreviousCmd.week.label               "Előző hét">
-<!ENTITY goPreviousCmd.month.label              "Előző hónap">
-<!ENTITY goPreviousCmd.accesskey                "E">
-
-<!ENTITY goNextCmd.day.label                    "Következő nap">
-<!ENTITY goNextCmd.week.label                   "Következő hét">
-<!ENTITY goNextCmd.month.label                  "Következő hónap">
-<!ENTITY goNextCmd.all.accesskey                "K">
-
-<!ENTITY addressBookCmd.label                   "Címjegyzék">
-<!ENTITY addressBookCmd.accesskey               "C">
-
-<!ENTITY calendar.importcalendar.label          "Naptár importálása...">
 
 <!ENTITY showCurrentView.label                  "Aktuális nézet">
 <!ENTITY showCurrentView.accesskey              "A">

@@ -10,8 +10,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "z">
-<!ENTITY newCard.label "Névjegy...">
-<!ENTITY newCard.accesskey "n">
+<!ENTITY newContact.label "Névjegykártya...">
+<!ENTITY newContact.accesskey "N">
 <!ENTITY attachMenu.label "Melléklet">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Fájlok...">
@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "B">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "r">
@@ -92,6 +93,7 @@
 <!ENTITY viewToolbarsMenuNew.label "Eszköztárak"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "E"> 
 <!ENTITY showCompositionToolbarCmd.label "Szerkesztés eszköztár">
+<!ENTITY showCompositionToolbarCmd.accesskey "z">
 <!ENTITY showFormattingBarCmd.label "Formázás eszköztár">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Állapotsor">
@@ -109,10 +111,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Beállítások">
 <!ENTITY optionsMenu.accesskey "B">
-<!ENTITY checkSpellingCmd.label "Helyesírás-ellenőrzés...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "H">
+<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés...">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY quoteCmd.label "Üzenet idézése">
@@ -161,7 +163,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Címjegyzék">
 <!ENTITY addressBookCmd.accesskey "C">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY accountManagerCmdUnix.accesskey "P">
@@ -184,7 +186,6 @@
 <!ENTITY attachButton.label "Melléklet">
 <!ENTITY spellingButton.label "Helyesírás">
 <!ENTITY saveButton.label "Mentés">
-<!ENTITY throbberItem.title "Aktivitásjelző">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Üzenet elküldése azonnal"> 
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY delete.label "Törlés">
 <!ENTITY delete.accesskey "T">
+<!ENTITY removeAttachment.label "Melléklet törlése">
+<!ENTITY removeAttachment.accesskey "e">
 <!ENTITY renameAttachment.label "Átnevezés...">
 <!ENTITY renameAttachment.accesskey "t">
 <!ENTITY selectAll.label "Minden kijelölése">

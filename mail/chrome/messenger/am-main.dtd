@@ -13,8 +13,12 @@
 <!ENTITY replyTo.accesskey "V">
 <!ENTITY organization.label "Szervezet:">
 <!ENTITY organization.accesskey "S">
-<!ENTITY signature.label "A következő aláírás csatolása:">
-<!ENTITY signature.accesskey "C">
+<!ENTITY signatureText.label "Aláírás szövege:">
+<!ENTITY signatureText.accesskey "A">
+<!ENTITY signatureHtml.label "HTML használata (pl. &lt;b&gt;félkövér&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Aláírás fájlból (szöveg, HTML vagy kép):">
+<!ENTITY signatureFile.accesskey "f">
 <!ENTITY edit.label "Szerkesztés...">
 <!ENTITY choose.label "Tallózás...">
 <!ENTITY choose.accesskey "T">

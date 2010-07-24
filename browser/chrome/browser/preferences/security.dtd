@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Mentett jelszavak...">
 <!ENTITY savedPasswords.accesskey        "e">
-
-
-<!ENTITY  warnings.label                "Figyelmeztetések">
-
-<!ENTITY  chooseWarnings.label          "Válassza ki, hogy milyen figyelmeztetéseket szeretne kapni webböngészés közben">
-
-<!ENTITY  warningSettings.label         "Beállítások...">
-<!ENTITY warningSettings.accesskey     "B">

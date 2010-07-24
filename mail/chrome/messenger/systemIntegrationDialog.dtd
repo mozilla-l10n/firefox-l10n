@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title  "Integrálódás a rendszerbe">
+<!ENTITY defaultClient.intro  "A &brandShortName; beállítása alapértelmezett kliensként:">
+
+<!ENTITY email.label "Levelezés">
+<!ENTITY newsgroups.label "Hírcsoportok">
+<!ENTITY feeds.label "Hírforrások">
+
+<!ENTITY checkOnStartup.label "Ellenőrzés elvégzése a &brandShortName; minden indításakor">
+<!ENTITY checkOnStartup.accesskey "E">
+
+<!ENTITY searchIntegration.label "A(z) &searchIntegration.engineName; kereshet az üzenetek között">
+<!ENTITY searchIntegration.accesskey "S">

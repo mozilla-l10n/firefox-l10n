@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Tartalomtípus">
+<!ENTITY typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Művelet">
+<!ENTITY actionColumn2.accesskey     "M">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Keresés">
+
+<!ENTITY saveTo.label                 "Fájlok mentése">
+<!ENTITY saveTo.accesskey             "m">
+<!ENTITY alwaysAsk.label              "Rákérdezés a fájlok letöltési helyére">
+<!ENTITY alwaysAsk.accesskey          "R">
+<!ENTITY chooseFolderWin.label        "Tallózás...">
+<!ENTITY chooseFolderWin.accesskey    "T">
+<!ENTITY chooseFolderMac.label        "Tallózás...">
+<!ENTITY chooseFolderMac.accesskey    "T">

@@ -39,7 +39,7 @@
 <!ENTITY viewToolbarsMenu.label        "Eszköztárak">
 <!ENTITY viewToolbarsMenu.accesskey      "E">
 <!ENTITY showTaskbarCmd.label          "Állapotsor">
-<!ENTITY showTaskbarCmd.accesskey        "s">
+<!ENTITY showTaskbarCmd.accesskey        "l">
 
 <!ENTITY proxy.label                                    "Proxybeállítás...">
 <!ENTITY proxy.accesskey                                "P">
@@ -47,8 +47,6 @@
 <!ENTITY closeCmd.label      "Bezárás">
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "B">
-
-<!ENTITY closeWindow.label "Ablak bezárása">
 
 <!ENTITY quitApplicationCmd.label  "Kilépés">
 <!ENTITY quitApplicationCmd.key    "Q">

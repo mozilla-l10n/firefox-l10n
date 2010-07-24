@@ -1,16 +1,17 @@
 <!ENTITY  updateWizard.title              "Szoftverfrissítés">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Frissítések keresése">
 <!ENTITY  updateCheck.label               "A &brandShortName; újabb verzióinak keresése...">
+
+<!ENTITY  pluginupdatesfound.title        "Bővítményfrissítések érhetők el">
+<!ENTITY  pluginupdatesfound.label        "Egy vagy több bővítményfrissítés érhető el.">
+<!ENTITY  pluginupdateslink.label         "Kattintson ide a bővítmények frissítéséhez.">
 
 <!ENTITY  noupdatesfound.title            "Nincsenek frissítések">
 <!ENTITY  noupdatesautoenabled.intro      "Nincsenek frissítések. A &brandShortName; rendszeresen
                                            keresi az új frissítéseket.">
-<!ENTITY  noupdatesautodisabled.intro     "Nincsenek frissítések. Ellenőrizze később, vagy engedélyezze a
-                                           &brandShortName; automatikus frissítés-ellenőrzőjét.">
+<!ENTITY  noupdatesautodisabled.intro     "Nincsenek frissítések. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
 
 <!ENTITY  manualUpdate.title              "A frissítés sikertelen">
 <!ENTITY  manualUpdate.desc               "Ajánlott biztonsági és stabilitási frissítések érhetőek el, de Önnek nincsen elegendő jogosultsága a frissítések telepítéséhez. Forduljon a rendszergazdához, vagy próbálja meg egy olyan felhasználói fiókból telepíteni a frissítéseket, amelynek van joga szoftvereket telepíteni erre a számítógépre.">
@@ -23,12 +24,13 @@
 
 <!ENTITY  evangelism.desc                 "Nagyon ajánlott a &brandShortName; frissítése.">
 
-<!ENTITY  license.instructions            "Ha egyetért a szerződés feltételeivel, kattintson az Egyetértek
-                                           gombra a frissítés telepítésének folytatása előtt.">
+<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
 
 <!ENTITY  license.titleText               "Szoftverlicenc-szerződés">
 <!ENTITY  license.introText               "A szoftver használatának feltételei.">
-<!ENTITY  license.instructionText         "Olvassa el a következő licencszerződést. A gördítősáv mozgatásával a szerződés további részei is olvashatóvá válnak.">
+<!ENTITY  license.instructionText         "Olvassa el a következő licencszerződést. A gördítősáv mozgatásával a szerződés további részei is olvashatóvá válnak.
+">
 <!ENTITY  license.accept                  "Elfogadom a licencszerződés feltételeit.">
 <!ENTITY license.accept.accesskey        "E">
 <!ENTITY  license.decline                 "Nem fogadom el a licencszerződés feltételeit.">
@@ -36,9 +38,9 @@
 
 <!ENTITY  incompatibleList.title          "Nem kompatibilis kiegészítők">
 
-<!ENTITY  downloading.title               "Frissítés letöltése">
-<!ENTITY  downloading.intro               "Frissítés letöltése...">
-<!ENTITY  connecting.label                "Kapcsolódás a kiszolgálóhoz...">
+<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloading.intro               "Frissítés letöltése... ">
+<!ENTITY  connecting.label                "Kapcsolódás a kiszolgálóhoz... ">
 <!ENTITY  verificationFailedText.label    "A &brandShortName; nem tudta ellenőrizni a letöltött inkrementális
                                            frissítés sértetlenségét, ezért most kénytelen a teljes frissítési
                                            csomagot letölteni.">
@@ -54,7 +56,7 @@
                                            helyről letölti a legfrissebb verziót:">
                                            
 <!ENTITY  errorpatching.title             "Sikertelen frissítés">
-<!ENTITY  errorpatching.intro             "A részleges frissítést nem lehetett alkalmazni. 
+<!ENTITY  errorpatching.intro             "A részleges frissítést nem lehetett alkalmazni.
                                            A &brandShortName; újra próbálkozik, most a teljes frissítés letöltésével.">
 
 <!ENTITY  finishedPage.title              "A frissítés készen áll a telepítésre">
