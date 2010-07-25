@@ -1,10 +1,10 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "הגדרת עמוד">
+<!ENTITY printSetup.title    "הגדרת עמוד">
 
 <!ENTITY basic.tab           "עיצוב ואפשרויות">
 
-<!ENTITY formatGroup.label "עיצוב">
+<!ENTITY formatGroup.label   "עיצוב">
 
 <!ENTITY orientation.label   "כיוון:">
 <!ENTITY portrait.label      "לאורך">
@@ -60,4 +60,3 @@
 
 <!ENTITY customPrompt.title  "מותאם אישית…">
 <!ENTITY customPrompt.prompt "הכנס טקסט מותאם אישית לכותרת עילית/תחתית">
-

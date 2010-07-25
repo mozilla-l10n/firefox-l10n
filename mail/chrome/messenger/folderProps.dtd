@@ -38,21 +38,37 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY folderProps.windowtitle.label "מאפיינים">
+
 <!ENTITY generalInfo.label "מידע כללי">
 <!ENTITY folderCharsetTab.label "קידוד תוים ברירת מחדל:">
 <!ENTITY folderCharsetTab.accesskey "ק">
 <!ENTITY folderCharsetOverride.label "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תוים של הודעות פרטניות וזיהוי אוטומטי)">
 <!ENTITY folderCharsetOverride.accesskey "ה">
-<!ENTITY folderRebuildSummaryFile.label "בנה מחדש אינדקס">
-<!ENTITY folderRebuildSummaryFile.accesskey "ב">
-<!ENTITY folderRebuildSummaryFileTip.label "בנה מחדש קובץ סיכום">
+
+<!ENTITY folderRebuildSummaryFileTip2.label      "בנה מחדש תקציר קובץ אינדקס">
+<!ENTITY folderRebuildSummaryFile2.label         "תקן תיקייה">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "ת">
+<!ENTITY folderRebuildSummaryFile.explanation    "לעיתים נפגם קובץ האינדקס של תיקייה (.msf) והודעות עשויות להיעלם או שהודעות שנמחקו תמשכנה להופיע; תיקון התיקייה עשוי לתקן מקרים אלו.">
+
+<!ENTITY folderIncludeInGlobalSearch.label       "כלול הודעות מתיקייה זו בתוצאות החיפוש הגלובליות">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "ג">
+
 <!ENTITY retention.label "מדיניות שמירה">
-<!ENTITY retentionUseDefault.label "השתמש בברירות המחדל של השרת">
-<!ENTITY retentionUseDefault.accesskey "מ">
+<!ENTITY retentionUseAccount.label  "השתמש בהגדרות החשבון">
+<!ENTITY retentionUseAccount.accesskey "ח">
+
+<!ENTITY folderCheckForNewMessages2.label         "כאשר מקבלים הודעות חדשות לחשבון, בדוק תמיד תיקייה זו">
+<!ENTITY folderCheckForNewMessages2.accesskey     "ב">
 
 <!ENTITY retentionCleanupImap.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, גם העותק המקומי וגם המקור על השרת המרוחק.">
 <!ENTITY retentionCleanupPop.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, כולל הודעות המקור בשרת המרוחק.">
+
+<!ENTITY retentionKeepRecent.label "מחק הכל חוץ מההודעות האחרונות">
+<!ENTITY retentionKeepRecent.accesskey "מ">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "מחק הודעות שנקראו (עקוף הגדרות גיל)">
 
 <!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות בכוכבית">
 <!ENTITY retentionApplyToFlagged.accesskey "ש">
@@ -65,15 +81,8 @@
 <!ENTITY retentionDeleteMsg.accesskey "י">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "א">
-<!ENTITY retentionKeepNew.label "מחק הכל מלבד">
-<!ENTITY retentionKeepNew.accesskey "ה">
-<!ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו">
-<!ENTITY retentionKeepUnread.accesskey "מ">
 
-<!-- ### ENTITY folderOfflineTab.label "לא־מקוון" -->
 <!ENTITY folderSynchronizationTab.label          "סינכרון">
-<!ENTITY folderCheckForNewMessages.label "בדוק אם קיימות הודעות חדשות בתיקייה זו">
-<!ENTITY folderCheckForNewMessages.accesskey "ב">
 
 <!ENTITY offlineFolder.check.label "בחר תיקייה זו לשימוש לא־מקוון">
 <!ENTITY offlineFolder.check.accesskey "ש">

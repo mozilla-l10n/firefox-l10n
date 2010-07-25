@@ -1,4 +1,7 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "חבר הודעה: (ללא נושא)">
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label "קובץ">
 <!ENTITY fileMenu.accesskey "ק">
 <!ENTITY newMenu.label "חדש">
@@ -62,11 +65,11 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "מחק">
-
 <!ENTITY deleteCmd.accesskey "ח">
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
@@ -82,24 +85,29 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "v">
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewToolbarsMenuNew.label "סרגלי כלים">
 <!ENTITY viewToolbarsMenuNew.accesskey "כ">
-
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
 <!ENTITY showCompositionToolbarCmd.accesskey "כ">
-
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
 <!ENTITY showFormattingBarCmd.accesskey "ע">
 <!ENTITY showTaskbarCmd.label "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey "ש">
 <!ENTITY customizeToolbar.label "התאמה אישית...">
 <!ENTITY customizeToolbar.accesskey "ה">
+
 <!ENTITY addressSidebar.label "סרגל צד אנשי קשר">
 <!ENTITY addressSidebar.accesskey "o">
+
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "תבנית">
 <!ENTITY formatMenu.accesskey "ב">
+
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "אפשרויות">
 <!ENTITY optionsMenu.accesskey "א">
 <!ENTITY checkSpellingCmd2.label "בדוק איות…">
@@ -111,8 +119,11 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "לצטט הודעה">
 <!ENTITY quoteCmd.accesskey "Q">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "צרף כרטיס אישי (vCard)">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY returnReceiptMenu.label "קבלה חוזרת">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "יידוע מצב קבלה">
@@ -230,6 +241,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "מחק">
 <!ENTITY delete.accesskey "ח">
+<!ENTITY removeAttachment.label "הסר קובץ מצורף">
+<!ENTITY removeAttachment.accesskey "מ">
 <!ENTITY renameAttachment.label "שנה שם…">
 <!ENTITY renameAttachment.accesskey "ש">
 <!ENTITY selectAll.label "בחר הכל">

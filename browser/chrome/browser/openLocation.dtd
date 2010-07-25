@@ -1,12 +1,10 @@
 <!-- extracted from content/openLocation.xul -->
- 
-<!ENTITY caption.label "פתח מיקום רשת">
+
+<!ENTITY enter.label "הכנס מיקום רשת (URL), או ציין את הקובץ המקומי אותו ברצונך לפתוח:">  
 <!ENTITY chooseFile.label "בחר קובץ...">
-<!ENTITY enter.label "הכנס מיקום רשת (URL), או ציין את הקובץ המקומי אותו ברצונך לפתוח:">
-
 <!ENTITY newTab.label "לשונית חדשה">
-<!ENTITY topTab.label "לשונית נוכחית">
 <!ENTITY newWindow.label "חלון חדש">
-<!ENTITY openBtn.label "פתח">
+<!ENTITY topTab.label "לשונית נוכחית">
+<!ENTITY caption.label "פתח מיקום רשת">
 <!ENTITY openWhere.label "פתח ב...">
-
+<!ENTITY openBtn.label "פתח">

@@ -1,9 +1,3 @@
-<!--###ENTITY systemDefaults.label "ברירות המחדל של המערכת"-->
-<!--###ENTITY alwaysCheckDefault.label "בדוק תמיד האם &brandShortName; הוא לקוח הדואר ברירת המחדל בהפעלה"-->
-<!--###ENTITY alwaysCheckDefault.accesskey "ב"-->
-<!--###ENTITY alwaysCheckDefault.height "3em"-->
-<!--###ENTITY checkNow.label "בדוק כעת"-->
-<!--###ENTITY checkNow.accesskey "כ"-->
 <!ENTITY messengerStartPage.label "דף ההתחלה של &brandShortName;">
 <!ENTITY enableStartPage.label "כאשר &brandShortName; מופעל, הצג את דף ההתחלה באיזור ההודעה">
 <!ENTITY enableStartPage.accesskey "ג">

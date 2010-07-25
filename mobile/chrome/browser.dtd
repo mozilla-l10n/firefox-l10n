@@ -1,24 +1,10 @@
-<!-- LOCALIZATION NOTE (mainWindow.titleseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titleseparator " - ">
-
 <!ENTITY back.label            "אחורה">
-<!ENTITY back.tooltip          "אחורה">
 <!ENTITY forward.label         "קדימה">
-<!ENTITY forward.tooltip       "קדימה">
 <!ENTITY reload.label          "טען מחדש">
-<!ENTITY reload.tooltip        "טען מחדש">
 <!ENTITY stop.label            "עצור">
-<!ENTITY stop.tooltip          "עצור">
-<!ENTITY search.label          "חפש">
-<!ENTITY search.tooltip        "חפש">
 <!ENTITY go.label              "לך">
-<!ENTITY go.tooltip            "לך">
 <!ENTITY openLocation.label    "פתח מיקום">
-<!ENTITY openLocation.tooltip  "פתח מיקום">
 <!ENTITY star.label            "כוכב">
-<!ENTITY star.tooltip          "צור סימניה לדף זה">
-<!ENTITY bookmarks.label       "סימניות">
-<!ENTITY bookmarks.tooltip     "הצג סימניות">
 
 <!ENTITY newtab.label          "לשונית חדשה">
 <!ENTITY closetab.label        "סגור לשונית">
@@ -32,30 +18,77 @@
 <!ENTITY noSuggestions.label   "(אין המלצות)">
 <!ENTITY addToDictionary.label "הוסף למילון">
 
-<!ENTITY bookmarkName.label    "שם:">
-<!ENTITY bookmarkFolder.label  "תיקייה:">
-<!ENTITY bookmarkTags.label    "תגיות:">
-<!ENTITY bookmarkRemove.label  "הסר סימנייה">
+<!ENTITY bookmarksHeader.label     "סימניות">
+<!ENTITY bookmarksManage.label     "נהל">
 
-<!ENTITY findOnCmd.label     "מצא בדף זה…">
-<!ENTITY findOnCmd.accesskey "מ">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "מצא שוב">
-<!ENTITY findAgainCmd.accesskey "ש">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY editBookmarkRemove.label  "הסרה">
+<!ENTITY editBookmarkDone.label    "סיום">
+<!ENTITY editBookmarkTags.label    "הוסף תגיות כאן">
+
+<!ENTITY helperApp.prompt          "מה תרצה לעשות עם">
+<!ENTITY helperApp.open            "פתיחה">
+<!ENTITY helperApp.save            "שמירה">
+<!ENTITY helperApp.nothing         "כלום">
+
+<!ENTITY formHelper.previous       "קודם">
+<!ENTITY formHelper.next           "הבא">
+<!ENTITY formHelper.done           "סיום">
+
+<!ENTITY addonsHeader.label        "תוספות">
+<!ENTITY addonsLocal.label         "התוספות שלך">
+<!ENTITY addonsUpdate.label        "עידכון">
+<!ENTITY addonsRepo.label          "קבל תוספות">
+<!ENTITY addonsRecommended.label   "מומלצים">
+<!ENTITY addonsSearch.label        "חיפוש">
+<!ENTITY addonsSearch2.emptytext   "חיפוש בקטלוג">
+<!ENTITY addonsSearch.recommended  "המלצות">
+
+<!ENTITY addonOptions.label        "אפשרויות">
+<!ENTITY addonEnable.label         "הפעל">
+<!ENTITY addonDisable.label        "נטרל">
+<!ENTITY addonInstall2.label       "הוסף אל &brandShortName;">
+<!ENTITY addonUninstall.label      "הסרה">
+<!ENTITY addonCancel.label         "ביטול">
+<!ENTITY addonShowPage.label       "עבור לדף">
+
+<!ENTITY downloadsHeader.label     "הורדות">
+
+<!ENTITY downloadShowPage.label    "עבור לדף">
+<!ENTITY downloadShow2.label       "מצא">
+<!ENTITY downloadOpen2.label       "פתיחה">
+<!ENTITY downloadCancel.label      "ביטול">
+<!ENTITY downloadPause.label       "השהה">
+<!ENTITY downloadResume.label      "המשך">
+<!ENTITY downloadRetry.label       "נסה שוב">
+<!ENTITY downloadRemove.label      "הסר">
+<!ENTITY downloadFailed.label      "נכשל">
+
+<!ENTITY noResults.label           "אין תוצאות">
+<!ENTITY allBookmarks.label        "הצג את כל הסימניות">
+
+<!ENTITY searchEngine.addSearch     "הוסף חיפוש:">
+
+<!ENTITY bookmarkPopup.label       "הדף הוסף לסימניות">
+<!ENTITY bookmarkRemove.label      "הסרה">
+<!ENTITY bookmarkEdit.label        "עריכה">
 
 <!ENTITY identity.unverifiedsite2 "אתר זה לא מספק מידע זיהוי.">
-<!ENTITY identity.connectedTo "אתה מחובר לאתר ">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectedTo2 "מחובר אל">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "אתר זה מופעל על־ידי">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "שמופעל על־ידי">
+<!ENTITY consoleHeader.label       "מסוף שגיאות">
+<!ENTITY consoleAll.label          "הכל">
+<!ENTITY consoleErrors.label       "שגיאות">
+<!ENTITY consoleWarnings.label     "הזהרות">
+<!ENTITY consoleMessages.label     "הודעות">
+<!ENTITY consoleCodeEval.label     "קוד:">
+<!ENTITY consoleClear.label        "מחיקה">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "קובץ מקור:">
+<!ENTITY consoleErrLine.label      "שורה:">
+<!ENTITY consoleErrColumn.label    "עמודה:">

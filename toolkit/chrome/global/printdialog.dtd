@@ -18,11 +18,11 @@
 <!ENTITY printrangeGroup.label "טווח הדפסה">
 <!ENTITY allpagesRadio.label "כל העמודים">
 <!ENTITY allpagesRadio.accesskey "כ">
-<!ENTITY rangeRadio.label "עמודים">
+<!ENTITY rangeRadio.label  "עמודים">
 <!ENTITY rangeRadio.accesskey  "ד">
-<!ENTITY frompageInput.label "מעמוד">
+<!ENTITY frompageInput.label  "מעמוד">
 <!ENTITY frompageInput.accesskey  "מ">
-<!ENTITY topageInput.label "עד עמוד">
+<!ENTITY topageInput.label  "עד עמוד">
 <!ENTITY topageInput.accesskey  "ע">
 <!ENTITY selectionRadio.label "קטע נבחר">
 <!ENTITY selectionRadio.accesskey "נ">
@@ -34,8 +34,7 @@
 <!ENTITY printframeGroup.label "הדפס מסגרות">
 <!ENTITY aslaidoutRadio.label "כמו הפריסה על המסך">
 <!ENTITY aslaidoutRadio.accesskey "כ">
-<!ENTITY selectedframeRadio.label "המסגרת שנבחרה">
+<!ENTITY selectedframeRadio.label  "המסגרת שנבחרה">
 <!ENTITY selectedframeRadio.accesskey  "ב">
-<!ENTITY eachframesepRadio.label "כל מסגרת בנפרד">
+<!ENTITY eachframesepRadio.label  "כל מסגרת בנפרד">
 <!ENTITY eachframesepRadio.accesskey  "נ">
-

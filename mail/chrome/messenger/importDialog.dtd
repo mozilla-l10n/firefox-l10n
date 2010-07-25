@@ -49,11 +49,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "כ">
 <!ENTITY importMail.label         "דואר">
 <!ENTITY importMail.accesskey     "ד">
-<!--###ENTITY importDialog.allTitle    "יבא הכל"-->
-<!--###ENTITY importDialog.mailTitle "דואר"-->
-<!--###ENTITY importDialog.addressbookTitle "פנקסי כתובות"-->
-<!--###ENTITY importDialog.settingsTitle "הגדרות"-->
-<!--###ENTITY importDialog.filtersTitle "מסננים"-->
 <!ENTITY importAddressbook.label  "ספרי כתובות">
 <!ENTITY importAddressbook.accesskey "כ">
 <!ENTITY importSettings.label     "הגדרות">
@@ -83,8 +78,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY FieldDiscInputText1.label "ל־Netscape Communicator 4.x יש כתובת דואר אחת לכל כרטיס, בעוד של־&brandShortName; יש שתיים (בית ועבודה).">
 <!ENTITY FieldDiscInputText2.label "בחר את הקטגוריה שבה ברצונך לשמור את כתובות הדואר המיובאות:">
 <!ENTITY FieldDiscWarning.label "קטגוריה זו תשמש לכל הרשומות בפנקס הכתובות הנבחר:">
-<!--###ENTITY importDialog.homeTitle "בית"-->
-<!--###ENTITY importDialog.workTitle "עבודה"-->
 
 <!ENTITY importHome.label        "בית">
 <!ENTITY importHome.accesskey    "ב">

@@ -1,5 +1,4 @@
-<!ENTITY ocspDialog.title "אימות">
-
+<!ENTITY ocspDialog.title             "אימות">
 <!ENTITY enableOCSP.label             "השתמש ב־OCSP ">
 <!ENTITY enableOCSP.accesskey         "ה">
 <!ENTITY certOCSP2.label              "בדוק מהיימנות אישורים אם הוגדר שרת OCSP">
@@ -11,5 +10,4 @@
 <!ENTITY signingCA.label              "תגובת החותם:">
 <!ENTITY signingCA.accesskey          "ת">
 <!ENTITY requireOCSP.label            "כאשר לא ניתן לתקשר מול שרת OCSP, זהה את האישור כלא חוקי">
-
 <!ENTITY requireOCSP.accesskey        "כ">

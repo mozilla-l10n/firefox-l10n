@@ -28,17 +28,13 @@
 <!ENTITY calendar.context.selectall.label "בחר הכל">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "ת">
 <!ENTITY calendar.displaytodos.checkbox.label "מטלות בתצוגה">
-<!--###ENTITY calendar.edit.button.label "ערוך"-->
+
 <!ENTITY calendar.print.button.label            "הדפס" >
-<!--###ENTITY calendar.edit.button.tooltip "ערוך את האירוע שנבחר"-->
+
 <!ENTITY calendar.events.filter.all.label "כל האירועים">
 <!ENTITY calendar.events.filter.current.label "היום המסומן הנוכחי">
 <!ENTITY calendar.events.filter.future.label "כל האירועים העתידיים">
 <!ENTITY calendar.events.filter.today.label "אירועים היום">
-<!--###ENTITY calendar.export.button.label "ייצא"-->
-<!--###ENTITY calendar.export.button.tooltip "ייצא אירועים לקובץ מקומי."-->
-<!--###ENTITY calendar.import.button.label "ייבא"-->
-<!--###ENTITY calendar.import.button.tooltip "ייבא אירועים מקובץ מקומי."-->
 <!ENTITY calendar.newevent.button.label "אירוע חדש">
 <!ENTITY calendar.newevent.button.tooltip "צור אירוע יומן חדש">
 <!ENTITY calendar.newtask.button.label "מטלה חדשה">
@@ -52,8 +48,6 @@
 <!ENTITY calendar.prevmonth.button.tooltip "החודש הקודם">
 <!ENTITY calendar.prevweek.button.tooltip "השבוע הקודם">
 <!ENTITY calendar.print.window.title "הדפס יומן">
-<!--###ENTITY calendar.publish.button.label "פרסם"-->
-<!--###ENTITY calendar.publish.button.tooltip "פרסם אירועים במכונה מרוחקת."-->
 <!ENTITY calendar.publish.close.button "סגור">
 <!ENTITY calendar.publish.dialog.title "פרסם יומן">
 <!ENTITY calendar.publish.example.url.description "לדוגמא: http://www.myserver.com/webdav/test.ics">
@@ -62,8 +56,6 @@
 <!ENTITY calendar.search.options.searchfor " המכילים">
 <!ENTITY calendar.server.dialog.name.label "שם">
 <!ENTITY calendar.server.dialog.title.edit "ערוך יומן">
-<!--###ENTITY calendar.subscribe.button.label "הרשם"-->
-<!--###ENTITY calendar.subscribe.button.tooltip "הרשם לקובץ יומן במכונה מרוחקת."-->
 <!ENTITY calendar.unifinder.todoitems.label "מטלות">
 <!ENTITY calendar.unifinder.tree.categories.label "קטגוריות">
 <!ENTITY calendar.unifinder.tree.completeddate.label "בוצע">
@@ -172,7 +164,7 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "פרטים…">
-<!--###ENTITY calendar.error.number "תקלה מספר:"-->
+
 <!ENTITY calendar.error.title "אירעה תקלה">
 <!ENTITY calendar.events.filter.next14Days.label "אירועים בשבועיים הקרובים">
 <!ENTITY calendar.events.filter.next31Days.label "אירועים בחודש הקרוב">
@@ -208,16 +200,7 @@
 
 <!ENTITY calendar.task.category.button.tooltip  "חלק משימות לקטגוריות">
 <!ENTITY calendar.task.complete.button.tooltip  "סמן כהושלמו את המשימות שנבחרו">
-<!--###ENTITY calendar.task.details.category.label        "קטגוריה:"-->
-<!--###ENTITY calendar.task.details.organizer.label       "מאת:"-->
-<!--###ENTITY calendar.task.details.priority.high.label   "גבוהה"-->
-<!--###ENTITY calendar.task.details.priority.low.label    "נמוכה"-->
-<!--###ENTITY calendar.task.details.priority.normal.label "רגילה"-->
-<!--###ENTITY calendar.task.details.priority2.label       "דחיפות:"-->
-<!--###ENTITY calendar.task.details.repeat.label          "חזרה:"-->
-<!--###ENTITY calendar.task.details.status.label          "מצב:"-->
 
-<!--###ENTITY calendar.task.details.title.label           "כותרת:"-->
 <!ENTITY calendar.task.filter.all.accesskey         "כ">
 <!ENTITY calendar.task.filter.all.label             "הכל">
 <!ENTITY calendar.task.filter.completed.accesskey   "ל">
@@ -249,8 +232,7 @@
 <!ENTITY calendar.today.button.tooltip            "עבור ליום הנוכחי" >
 <!ENTITY calendar.todaypane.button.tooltip        "הצג פאנל היום" >
 <!ENTITY calendar.tomorrow.button.label       "מחר">
-<!--###ENTITY calendar.unifinder.button.label           "מצא אירועים" -->
-<!--###ENTITY calendar.unifinder.button.tooltip        "מציאת אירועים והצגתם ברשימה" -->
+
 <!ENTITY calendar.unifinder.close.tooltip            "סגירת החיפוש ורשימת האירועים">
 <!ENTITY calendar.unifinder.showcompletedtodos.label "הצג משימות שהושלמו">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "שם לוח שנה">

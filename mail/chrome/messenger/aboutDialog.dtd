@@ -1,15 +1,16 @@
-<!ENTITY aboutDialog.title "אודות &brandFullName;">
-<!ENTITY credits.label          "תודות">
-<!ENTITY credits.accesskey      "ת">
+<!ENTITY aboutDialog.title      "אודות &brandFullName;">
 <!ENTITY aboutButton.label      "&lt; חזרה">
 <!ENTITY aboutButton.accesskey  "ח">
 <!ENTITY aboutVersion           "גרסה">
-<!ENTITY copyrightText          "&#169;1998-2010 תורמים. כל הזכויות שמורות. Mozilla Thunderbird והסמלים                           של Thunderbird הם סימנים מסחריים של קרן Mozilla. כל הזכויות                           שמורות.">
 <!ENTITY aboutMenu.label        "אודות">
 <!ENTITY aboutMenu.accesskey    "א">
+<!ENTITY aboutCredits.label     "תודות">
+<!ENTITY aboutCredits.accesskey "ת">
 <!ENTITY aboutRights.label      "הזכויות שלך">
 <!ENTITY aboutRights.accesskey  "ז">
 <!ENTITY aboutContributors.label "תורמים">
 <!ENTITY aboutContributors.accesskey "ת">
+<!ENTITY aboutLicense.label      "רישיון">
+<!ENTITY aboutLicense.accesskey  "ר">
 
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -7,10 +7,6 @@
 #define bookmarks_title סימניות
 #define bookmarks_heading סימניות
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons קבל תוספות בנושא סימניות
-
 #define bookmarks_toolbarfolder סרגל כלים סימניות
 #define bookmarks_toolbarfolder_description הוסף סימניות לתיקייה זה כדי להציגן בסרגל הכלים סימניות
 
@@ -41,7 +37,7 @@
 #define firefox_community היה מעורב
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about אודותינו
 
 #unfilter emptyLines

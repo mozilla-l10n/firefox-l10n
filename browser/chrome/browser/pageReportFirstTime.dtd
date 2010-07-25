@@ -1,4 +1,7 @@
-<!ENTITY caption.label "אודות חסימת חלונות קופצים">
+<!ENTITY startDescription.label            "אתר ניסה לפתוח חלון קופץ ללא אישורך. &brandShortName; סגר אוטומטית את החלון הקופץ. בכל פעם ש־&brandShortName; חוסם חלונות קופצים אלו, תופיע צלמית בשורת המצב. ">
+
+<!ENTITY endDescription.label              "אתה יכול ללחוץ על צלמית זו כדי לראות אלו אתרים &brandShortName; חסם ולאפשר את פתיחת החלונות הקופצים אם הם נדרשים לאתר כדי לעבוד בצורה תקינה.">
+
+<!ENTITY caption.label                     "אודות חסימת חלונות קופצים">
+
 <!ENTITY done.label "סיום">
-<!ENTITY endDescription.label "אתה יכול ללחוץ על צלמית זו כדי לראות אלו אתרים &brandShortName; חסם ולאפשר את פתיחת החלונות הקופצים אם הם נדרשים לאתר כדי לעבוד בצורה תקינה.">
-<!ENTITY startDescription.label "אתר ניסה לפתוח חלון קופץ ללא אישורך. &brandShortName; סגר אוטומטית את החלון הקופץ. בכל פעם ש־&brandShortName; חוסם חלונות קופצים אלו, תופיע צלמית בשורת המצב. ">

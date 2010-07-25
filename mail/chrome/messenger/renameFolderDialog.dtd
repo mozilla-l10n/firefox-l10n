@@ -38,4 +38,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY renameFolderDialog.title "שנה שם תיקייה">
 <!ENTITY rename.label "הכנס את השם החדש לתיקייה שלך:">
-<!ENTITY rename.accesskey "E">
+<!ENTITY rename.accesskey "נ">
+<!ENTITY accept.label                      "שנה שם">
+<!ENTITY accept.accesskey                  "ש">

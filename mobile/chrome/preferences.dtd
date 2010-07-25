@@ -1,15 +1,16 @@
+<!ENTITY prefsHeader.label                         "העדפות">
+<!ENTITY about.title                               "אודות &brandShortName;">
+<!ENTITY about.button                              "עבור לדף">
 <!ENTITY content.title                             "תוכן">
-<!ENTITY permissions.default.image.title           "טען תמונות">
-<!-- ### #!# ENTITY permissions.default.image.description     "Makes websites pretty" -->
-<!ENTITY javascript.enabled.title                  "אפשר Javascript">
-<!-- ### #!# ENTITY javascript.enabled.description            "Makes websites flashy" -->
-<!ENTITY plugins.enabled.title                     "אפשר תוספים">
-<!-- ### #!# ENTITY plugins.enabled.description               "Makes websites annoying" -->
+<!ENTITY showImages.title                          "הצג תמונות">
+<!ENTITY enableJavaScript.title                    "אפשר JavaScript">
+<!ENTITY enablePlugins.title                       "אפשר תוספים">
 <!ENTITY privacy.title                             "פרטיות ואבטחה">
-<!ENTITY network.cookie.cookieBehavior.title       "הצג עוגיות">
-<!-- ### #!# Internal joke goes here. :) ENTITY network.cookie.cookieBehavior.description "Delicious delicacies"-->
-<!ENTITY clear.private.data.title                  "מחק מידע פרטי">
-<!ENTITY clear.private.data.button                 "מחק…">
-<!-- ### #!# ENTITY clear.private.data.description            "Saves your hide" -->
-<!ENTITY signon.rememberSignons.title              "שמור סיסמאות">
-<!ENTITY signon.rememberSignons.description        "מאפשר לך להקליד פחות">
+<!ENTITY allowCookies.title                        "אפשר עוגיות">
+<!ENTITY clearPrivateData2.title                   "מחק נתונים פרטיים">
+<!ENTITY clearPrivateData.button                   "מחיקה">
+<!ENTITY rememberPasswords.title                   "זכור סיסמאות">
+<!ENTITY language.title                            "שפה">
+<!ENTITY language.auto                             "זיהוי אוטומטי">
+<!ENTITY defaultBrowser.title                      "דפדפן ברירת מחדל">
+<!ENTITY defaultBrowser.description                "הפוך את &brandShortName; לדפדפן ברירת המחדל שלך">

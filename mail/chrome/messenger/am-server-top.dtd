@@ -1,3 +1,5 @@
+<!-- extracted from am-server-top.xul -->
+
 <!ENTITY securitySettings.label "הגדרות אבטחה">
 <!ENTITY serverSettings.label "הגדרות שרת">
 
@@ -9,7 +11,6 @@
 <!ENTITY port.label "שער:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
-<!-- ### ENTITY savePassword.label "שמור סיסמה" -->
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -24,23 +25,12 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, במידה וזמין">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!-- ### ENTITY isSecure.label "השתמש בקשר מאובטח (SSL)" -->
-<!-- ### ENTITY isSecure.accesskey "U" -->
-<!--###ENTITY socketType.label "השתמש בקשר מאובטח:"-->
-<!--###ENTITY neverSecure.label "לעולם לא"-->
-<!--###ENTITY neverSecure.accesskey "N"-->
-<!--###ENTITY sometimesSecure.label "TLS, אם זמין"-->
-<!--###ENTITY sometimesSecure.accesskey "a"-->
-<!--###ENTITY alwaysSecure.label "TLS"-->
-<!--###ENTITY alwaysSecure.accesskey "T"-->
-<!--###ENTITY alwaysSSL.label "SSL"-->
-<!--###ENTITY alwaysSSL.accesskey "L" -->
-<!ENTITY useSecAuth.label "השתמש באימות זהות מאובטח">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "צורת אימות:">
+<!ENTITY authMethod.accesskey "א">
 <!ENTITY leaveOnServer.label "השאר הודעות על השרת">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "ה">
 <!ENTITY headersOnly.label "טען כותרות בלבד">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "כ">
 <!ENTITY deleteByAgeFromServer.label "לכל היותר">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "ימים">

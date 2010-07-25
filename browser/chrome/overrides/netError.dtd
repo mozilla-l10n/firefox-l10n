@@ -22,7 +22,6 @@
 </ul>
 ">
 
-
 <!ENTITY fileNotFound.title "קובץ לא נמצא">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -31,19 +30,20 @@
 </ul>
 ">
 
+
 <!ENTITY generic.title "שגיאה כללית">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; אינו יכול לטעון דף זה מסיבה לא ידועה.</p>
 ">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
-<!ENTITY malformedURI.longDesc '
+<!ENTITY malformedURI.longDesc "
 <ul>
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
   <li>וודא שאתה משתמש בלוכסן קדמי ("<strong>/</strong>").</li>
 </ul>
-'>
+">
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -60,14 +60,12 @@
   <li>אנא צור קשר עם בעלי האתר בכדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
-
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>בבקשה צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>
 ">
-
 
 <!ENTITY netReset.title "החיבור הופסק">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -142,9 +140,12 @@
 ">
 
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
-<!ENTITY phishingBlocked.longDesc '
+<!ENTITY phishingBlocked.longDesc "
 <p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p>
-<p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרות גם בתור "מתקפות דיוג", בהן נוכלים שותלים דפים והודעות דואר אלקטרוני מהווים חיקוי של מקורות שאתה בטוח בהם.</p>'>
+<p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרות גם בתור "מתקפות דיוג", בהן נוכלים שותלים דפים והודעות דואר אלקטרוני מהווים חיקוי של מקורות שאתה בטוח בהם.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר והדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">

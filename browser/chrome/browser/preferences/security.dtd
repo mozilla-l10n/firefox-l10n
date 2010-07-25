@@ -12,8 +12,7 @@
 <!ENTITY  blockAttackSites.accesskey "ת">
 
 <!ENTITY  blockWebForgeries.label     "חסום אתרים שדווחו כאתרי זיוף">
-<!ENTITY blockWebForgeries.accesskey "ז">
-
+<!ENTITY  blockWebForgeries.accesskey "ז">
 
 <!ENTITY  addonExceptions.label         "חריגות…">
 <!ENTITY  addonExceptions.accesskey     "ח">
@@ -26,18 +25,10 @@
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
 
-<!ENTITY useMasterPassword.label        "השתמש בסיסמה ראשית">
-<!ENTITY useMasterPassword.accesskey    "ש">
-<!ENTITY changeMasterPassword.label     "שנה סיסמה ראשית…">
-<!ENTITY changeMasterPassword.accesskey "נ">
+<!ENTITY  useMasterPassword.label        "השתמש בסיסמה ראשית">
+<!ENTITY  useMasterPassword.accesskey    "ש">
+<!ENTITY  changeMasterPassword.label     "שנה סיסמה ראשית…">
+<!ENTITY  changeMasterPassword.accesskey "נ">
 
 <!ENTITY  savedPasswords.label            "סיסמאות שמורות…">
 <!ENTITY  savedPasswords.accesskey        "ס">
-
-
-<!ENTITY  warnings.label                "הודעות אזהרה">
-
-<!ENTITY  chooseWarnings.label         "בחר אלו הודעות אזהרה ברצונך לראות במהלך גלישה ברשת">
-
-<!ENTITY  warningSettings.label         "הגדרות…">
-<!ENTITY  warningSettings.accesskey     "ה">

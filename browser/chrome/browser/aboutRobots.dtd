@@ -5,10 +5,8 @@
      They're just meant to be fun and whimsical, with references to some geeky
      but well-known robots in movies and books. Be creative with translations! -->
 
-<!-- First translation to this file made by Ubuntu Hebrew team @ https://translations.launchpad.net/ubuntu/hardy/+source/firefox-3.0/+pots/firefox/he/+translate --> 
-
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
-<!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
+<!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!‎">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "ברוכים הבאים בני אנוש!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->

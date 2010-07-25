@@ -1,110 +1,47 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "ספרייה"> 
-
+<!ENTITY places.library.title  "ספרייה">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label          "ארגן">
+<!ENTITY organize.label        "ארגן">
 <!ENTITY organize.accesskey    "א">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
-<!ENTITY file.accesskey
-  "ק">
-<!ENTITY file.close.label
-  "סגור">
-<!ENTITY file.close.accesskey
-  "ס">
-<!ENTITY cmd.close.key
-  "w">
-<!ENTITY edit.label
-  "עריכה">
-<!ENTITY edit.accesskey
-  "ע">
-<!ENTITY views.label
-  "תצוגות" >
+<!ENTITY file.accesskey                 "ק">
+<!ENTITY file.close.label               "סגור">
+<!ENTITY file.close.accesskey           "ס">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "עריכה">
+<!ENTITY edit.accesskey                 "ע">
+<!ENTITY views.label                    "תצוגות">
 <!ENTITY views.accesskey                "ת">
-
-<!ENTITY view.toolbar.label
-  "סרגל כלים">
-<!ENTITY view.toolbar.accesskey
-  "ס">
-<!ENTITY view.columns.label
-  "הצג עמודות">
-<!ENTITY view.columns.accesskey
-  "ה">
+<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY view.columns.label             "הצג עמודות">
+<!ENTITY view.columns.accesskey         "ה">
 <!ENTITY view.sort.label                "מיין">
 <!ENTITY view.sort.accesskey            "מ">
-<!ENTITY view.unsorted.label
-  "לא ממויין">
-<!ENTITY view.unsorted.accesskey
-  "ל">
-<!ENTITY view.sortAscending.label
-  "ממויין בסדר עולה">
-<!ENTITY view.sortAscending.accesskey
-  "ע">
-<!ENTITY view.sortDescending.label
-  "מיון בסדר יורד">
-<!ENTITY view.sortDescending.accesskey
-  "י">
-<!ENTITY help.usingBookmarks.label
-  "שימוש בסימניות">
-<!ENTITY help.usingBookmarks.accesskey
-  "ס">
-<!ENTITY help.usingHistory.label
-  "שימוש בהיסטוריה">
-<!ENTITY help.usingHistory.accesskey
-  "ה">
-<!ENTITY help.advancedTips.label
-  "טיפים וטריקים לשימוש מתקדם">
-<!ENTITY help.advancedTips.accesskey
-  "ט">
-<!ENTITY cmd.findCurrent.label
-  "מצא באוסף הנוכחי...">
-<!ENTITY cmd.findCurrent.accesskey
-  "א">
-  
+<!ENTITY view.unsorted.label            "לא ממויין">
+<!ENTITY view.unsorted.accesskey        "ל">
+<!ENTITY view.sortAscending.label       "ממויין בסדר עולה">
+<!ENTITY view.sortAscending.accesskey   "ע">
+<!ENTITY view.sortDescending.label      "מיון בסדר יורד">
+<!ENTITY view.sortDescending.accesskey  "י">
+
+<!ENTITY cmd.findInBookmarks.label      "חפש בסימניות...">
+<!ENTITY cmd.findInBookmarks.accesskey  "ח">
+<!ENTITY cmd.findCurrent.label          "מצא באוסף הנוכחי...">
+<!ENTITY cmd.findCurrent.accesskey      "א">
+
 <!ENTITY cmd.exportHTML.label           "ייצא HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "צ">
 <!ENTITY cmd.importHTML.label           "ייבא HTML…">
 <!ENTITY cmd.importHTML.accesskey       "ב">
-<!ENTITY cmd.select_all.label
-  "בחר הכל">
-<!ENTITY cmd.select_all.accesskey
-  "ה">
-<!ENTITY cmd.select_all.key
-  "a">
-<!ENTITY cmd.edit_cut.label
-  "גזירה">
-<!ENTITY cmd.edit_cut.accesskey
-  "ג">
-<!ENTITY cmd.edit_cut.key
-  "x">
-<!ENTITY cmd.edit_copy.label
-  "העתקה">
-<!ENTITY cmd.edit_copy.accesskey
-  "ע">
-<!ENTITY cmd.edit_copy.key
-  "c">
-<!ENTITY cmd.edit_paste.label
-  "הדבקה">
-<!ENTITY cmd.edit_paste.accesskey
-  "ד">
-<!ENTITY cmd.edit_paste.key
-  "v">
-<!ENTITY cmd.edit_delete.label
-  "מחיקה">
-<!ENTITY cmd.edit_delete.accesskey
-  "מ">
-<!ENTITY cmd.edit_undo.label
-  "ביטול פעולה אחרנה">
-<!ENTITY cmd.edit_undo.accesskey
-  "ב">
-<!ENTITY cmd.edit_undo.key
-  "z">
-<!ENTITY cmd.edit_redo.label
-  "בצע שוב">
-<!ENTITY cmd.edit_redo.accesskey
-  "ש">
-<!ENTITY cmd.edit_redo.key
-  "y">
+
+<!ENTITY cmd.backup.label               "גיבוי...">
+<!ENTITY cmd.backup.accesskey           "ג">
+<!ENTITY cmd.restore2.label             "שחזור">
+<!ENTITY cmd.restore2.accesskey         "ש">
+<!ENTITY cmd.restoreFromFile.label      "בחר קובץ...">
+<!ENTITY cmd.restoreFromFile.accesskey  "ב">
 
 <!ENTITY cmd.bookmarkLink.label         "צור סימנייה לדף זה…">
 <!ENTITY cmd.bookmarkLink.accesskey     "ס">
@@ -113,162 +50,29 @@
 <!ENTITY cmd.deleteDomainData.label     "שכח מאתר זה">
 <!ENTITY cmd.deleteDomainData.accesskey "ש">
 
-<!ENTITY cmd.open.label
-  "פתח">
-<!ENTITY cmd.open.accesskey
-  "פ">
-<!ENTITY cmd.open_window.label
-  "פתח בחלון חדש">
-<!ENTITY cmd.open_window.accesskey
-  "ח">
-<!ENTITY cmd.open_tab.label
-  "פתח בלשונית חדשה">
-<!ENTITY cmd.open_tab.accesskey
-  "ל">
-<!ENTITY cmd.show_info.key
-  "i">
-<!ENTITY cmd.rename.label
-  "שינוי שם">
-<!ENTITY cmd.rename.accesskey
-  "ש">
-<!ENTITY cmd.sortby_name.label
-  "מיין לפי שם">
-<!ENTITY cmd.sortby_name.accesskey
-  "ש">
-<!ENTITY cmd.context_sortby_name.accesskey
-  "מ">
-<!ENTITY cmd.new_bookmark.label
-  "סימנייה חדשה...">
-<!ENTITY cmd.new_bookmark.accesskey
-  "ס">
-<!ENTITY cmd.new_folder.label
-  "תיקייה חדשה...">
-<!ENTITY cmd.new_folder.accesskey
-  "ח">
-<!ENTITY cmd.context_new_folder.accesskey
-  "ת">
-<!ENTITY cmd.new_separator.label
-  "קו מפריד חדש">
-<!ENTITY cmd.new_separator.accesskey
-  "ק">
-<!ENTITY cmd.groupby_site.label
-  "מיין לפי אתר">
-<!ENTITY cmd.groupby_site.accesskey
-  "א">
-<!ENTITY cmd.groupby_page.label
-  "מיין לפי דף">
-<!ENTITY cmd.groupby_page.accesskey
-  "ד">
-<!ENTITY cmd.groupby_feed.label
-  "מיין לפי מינוי">
-<!ENTITY cmd.groupby_feed.accesskey
-  "מ">
-<!ENTITY cmd.groupby_post.label
-  "מיין לפי מאמר">
-<!ENTITY cmd.groupby_post.accesskey
-  "ר">
-<!ENTITY col.url.label
-  "כתובת">
-<!ENTITY col.lastvisit.label
-  "תאריך ביקור">
-<!ENTITY col.visitcount.label
-  "מספר ביקורים">
-<!ENTITY search.label
-  "חפש:">
-<!ENTITY search.accesskey
-  "ח">
-<!ENTITY saveSearch.label
-  "שמור">
-<!ENTITY saveSearch.accesskey
-  "ש">
-<!ENTITY moreCriteria.label
-  "+">
-<!ENTITY advancedSearch.onlybookmarked.label
-  "חפש סימניות בלבד">
-<!ENTITY advancedSearch.match.label
-  "מצא ">
-<!ENTITY advancedSearch.all.label
-  "הכל">
-<!ENTITY advancedSearch.any.label
-  "אחד או יותר">
-<!ENTITY advancedSearch.rules.label
-  " מהכללים הבאים:">
-<!ENTITY advancedSearch.subj_keyword.label
-  "שכוללים טקסט">
-<!ENTITY advancedSearch.subj_visited.label
-  "ביקורים">
-<!ENTITY advancedSearch.subj_location.label
-  "כתובת">
-<!ENTITY advancedSearch.location_startswith.label
-  "מתחיל ב">
-<!ENTITY advancedSearch.location_is.label
-  "היא">
-<!ENTITY advancedSearch.location_onsite.label
-  "היא באתר">
-<!ENTITY advancedSearch.time_is.label
-  "">
-<!ENTITY advancedSearch.time_before.label
-  "לפני">
-<!ENTITY advancedSearch.time_after.label
-  "אחרי">
-<!ENTITY advancedSearch.time_inlast.label
-  "ב־">
-<!ENTITY advancedSearch.last_days.label
-  "הימים האחרונים">
-<!ENTITY advancedSearch.last_weeks.label
-  "השבועות האחרונים">
-<!ENTITY advancedSearch.last_months.label
-  "החודשים האחרונים">
-<!ENTITY advancedSearch.plus.label
-  "+">
-<!ENTITY advancedSearch.minus.label
-  "-">
-<!ENTITY advancedSearch.groupby.label
-  "קבץ לפי: ">
-<!ENTITY advancedSearch.groupby_host.label
-  "שרת מארח">
-<!ENTITY advancedSearch.groupby_domain.label
-  "מתחם">
-<!ENTITY advancedSearch.groupby_folder.label
-  "תיקייה">
-<!ENTITY advancedSearch.sortby.label
-  "מיין לפי: ">
-<!ENTITY advancedSearch.sortby_title.label
-  "כותרת">
-<!ENTITY advancedSearch.sortby_date.label
-  "תאריך">
-<!ENTITY advancedSearch.sortby_visit.label
-  "מספר ביקורים">
-<!ENTITY advancedSearch.sortby_url.label
-  "כתובת">
-<!ENTITY advancedSearch.sortby_asc.label
-  "סדר עולה">
-<!ENTITY advancedSearch.sortby_desc.label
-  "סדר יורד">
-<!ENTITY advancedSearch.max.label
-  "מספר תוצאות מקסימלי: ">
-<!ENTITY cmd.find.key
-  "f">
-<!ENTITY feed.subscribe.label
-  "הזנה">
-<!ENTITY feed.subscribe.tooltip
-  "הירשם">
-
-<!ENTITY cmd.findInBookmarks.label      "חפש בסימניות...">
-<!ENTITY cmd.findInBookmarks.accesskey  "ח">
-
-<!ENTITY cmd.backup.label               "גיבוי...">
-<!ENTITY cmd.backup.accesskey           "ג">
-<!ENTITY cmd.restore2.label             "שחזור">
-<!ENTITY cmd.restore2.accesskey         "ש">
-<!ENTITY cmd.restoreFromFile.label      "בחר קובץ...">
-<!ENTITY cmd.restoreFromFile.accesskey  "ב">
+<!ENTITY cmd.open.label                  "פתח">
+<!ENTITY cmd.open.accesskey              "פ">
+<!ENTITY cmd.open_window.label           "פתח בחלון חדש">
+<!ENTITY cmd.open_window.accesskey       "ח">
+<!ENTITY cmd.open_tab.label              "פתח בלשונית חדשה">
+<!ENTITY cmd.open_tab.accesskey          "ל">
 <!ENTITY cmd.open_all_in_tabs.label      "פתח הכל בלשוניות">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "פ">
+
 <!ENTITY cmd.properties.label      "מאפיינים">
 <!ENTITY cmd.properties.accesskey  "מ">
-<!ENTITY cmd.new_livemark.label            "עדכנייה חדשה...">
-<!ENTITY cmd.new_livemark.accesskey        "ע">
+
+<!ENTITY cmd.sortby_name.label              "מיין לפי שם">
+<!ENTITY cmd.sortby_name.accesskey          "ש">
+<!ENTITY cmd.context_sortby_name.accesskey  "מ">
+
+<!ENTITY cmd.new_bookmark.label            "סימנייה חדשה...">
+<!ENTITY cmd.new_bookmark.accesskey        "ס">
+<!ENTITY cmd.new_folder.label              "תיקייה חדשה...">
+<!ENTITY cmd.new_folder.accesskey          "ח">
+<!ENTITY cmd.context_new_folder.accesskey  "ת">
+<!ENTITY cmd.new_separator.label           "קו מפריד חדש">
+<!ENTITY cmd.new_separator.accesskey       "ק">
 
 <!ENTITY cmd.reloadLivebookmark.label      "טען מחדש עדכנייה">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ט">
@@ -280,12 +84,16 @@
 
 <!ENTITY col.name.label          "שם">
 <!ENTITY col.tags.label          "תגיות">
-
+<!ENTITY col.url.label           "כתובת">
+<!ENTITY col.lastvisit.label     "תאריך ביקור">
+<!ENTITY col.visitcount.label    "מספר ביקורים">
 <!ENTITY col.keyword.label       "מילת מפתח">
 <!ENTITY col.description.label   "תיאור">
 <!ENTITY col.dateadded.label     "הוספה">
 <!ENTITY col.lastmodified.label  "שינוי אחרון">
 
+<!ENTITY search.label                              "חפש:">
+<!ENTITY search.accesskey                          "ח">
 <!ENTITY search.scopeFolder.label                  "תיקייה נבחרת">
 <!ENTITY search.scopeFolder.accesskey              "ת">
 <!ENTITY search.scopeBookmarks.label               "סימניות">
@@ -294,24 +102,19 @@
 <!ENTITY search.scopeDownloads.accesskey           "ר">
 <!ENTITY search.scopeHistory.label                 "היסטוריה">
 <!ENTITY search.scopeHistory.accesskey             "ה">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "הצג את בונה החיפוש">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "הסתר את בונה החיפוש">
+<!ENTITY saveSearch.label                          "שמור">
+<!ENTITY saveSearch.accesskey                      "ש">
 
-<!ENTITY view.detailsMacOSX.label  "רשימה">
-<!ENTITY view.details.label        "פרטים">
-<!ENTITY view.details.accesskey    "פ">
+<!ENTITY cmd.find.key  "f">
 
-<!ENTITY view.addons.label   "השג תוספות תצוגה">
-
-<!ENTITY maintenance.label   "יבוא וגיבוי">
+<!ENTITY maintenance.label      "יבוא וגיבוי">
 <!ENTITY maintenance.accesskey  "י">
+<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label       "אחורה">
-
 <!ENTITY backButton.tooltip  "חזור אחורה">
 
 <!ENTITY forwardCmd.label       "קדימה">
-
 <!ENTITY forwardButton.tooltip  "המשך קדימה">
 
 <!ENTITY detailsPane.more.label "יותר">

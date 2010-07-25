@@ -21,6 +21,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "טען סימנייה זו בסרגל הצד">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "ס">
 <!ENTITY editBookmarkOverlay.choose.label                    "בחר…">
-
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "תיקייה חדשה">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "ת">

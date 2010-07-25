@@ -10,10 +10,10 @@
 
 <!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
 <!ENTITY enableGlodaSearch.accesskey   "ח">
-<!-- ### ENTITY enableGloda.label             "אפשר אינדוקס הודעות" -->
-<!-- ### ENTITY enableGloda.accesskey         "י" -->
-<!ENTITY systemDefaults.label          "ברירת מחדל">
+<!ENTITY systemIntegration.label       "השתלבות במערכת">
 <!ENTITY alwaysCheckDefault.label      "בדוק בכל הפעלה אם &brandShortName; היא תוכנת דואר ברירת המחדל">
+<!ENTITY searchIntegration.label       "אפשר ל־&searchIntegration.engineName; לחפש הודעות">
+<!ENTITY searchIntegration.accesskey   "ח">
 <!ENTITY checkNow.label                "בדוק כעת...">
 <!ENTITY checkNow.accesskey            "כ">
 <!ENTITY alwaysCheckDefault.accesskey  "ב">
@@ -29,12 +29,9 @@
 <!ENTITY markAsReadDelay.accesskey     "ל">
 <!ENTITY secondsLabel.label            "שניות">
 
-
-<!-- ### ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות" -->
-<!-- ### ENTITY showFolderColumns.accesskey "ה" -->
-
-<!ENTITY openMsgIn.label               "פתח הודעות חדשות:">
-
+<!ENTITY openMsgIn.label               "פתח הודעות">
+<!ENTITY openMsgInNewTab.label         "בלשונית חדשה">
+<!ENTITY openMsgInNewTab.accesskey     "ל">
 <!ENTITY reuseExpRadio0.label "בחלון הודעה חדש">
 <!ENTITY reuseExpRadio0.accesskey "ד">
 <!ENTITY reuseExpRadio1.label "בחלון הודעה קיים">
@@ -50,6 +47,9 @@
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "קריאה">
 <!ENTITY display.caption                "תצוגה">
+
+<!ENTITY closeMsgWindowOnDelete.label  "סגור חלון במחיקת הודעה">
+<!ENTITY closeMsgWindowOnDelete.accesskey "ס">
 
 <!-- Update -->
 <!ENTITY autoCheck.label "בדוק אוטומטית אם קיימים עדכונים עבור:">
@@ -97,11 +97,16 @@
 
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "כאשר שרת מבקש את האישור האישי שלי:">
+<!ENTITY certs.auto                      "בחר אחד באופן אוטומטי">
+<!ENTITY certs.auto.accesskey            "א">
+<!ENTITY certs.ask                       "שאל אותי תמיד">
+<!ENTITY certs.ask.accesskey             "מ">
+
 <!ENTITY viewCertificates.label "הצג אישורים">
 <!ENTITY viewCertificates.accesskey "צ">
 <!ENTITY viewCRLs.label "רשימות ביטולים">
 <!ENTITY viewCRLs.accesskey "ר">
-
 <!ENTITY validation.label               "אימות">
 <!ENTITY validation.accesskey           "א">
 <!ENTITY viewSecurityDevices.label "התקני אבטחה">

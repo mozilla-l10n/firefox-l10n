@@ -1,33 +1,38 @@
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "חפש הודעות בתוך:">
-<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchHeading.accesskey "ח">
 <!ENTITY searchSubfolders.label "חפש בתת־תיקיות">
-<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchSubfolders.accesskey "ת">
+<!ENTITY searchOnServer.label        "הרץ חיפוש בשרת">
+<!ENTITY searchOnServer.accesskey    "ש">
 <!ENTITY resetButton.label "נקה">
-<!ENTITY resetButton.accesskey "C">
-
+<!ENTITY resetButton.accesskey "נ">
 <!ENTITY openButton.label "פתח">
-<!ENTITY openButton.accesskey "n">
+<!ENTITY openButton.accesskey "פ">
 <!ENTITY deleteButton.label "מחק">
-<!ENTITY deleteButton.accesskey "D">
+<!ENTITY deleteButton.accesskey "מ">
 <!ENTITY searchDialogTitle.label "חפש בהודעות">
-
 <!ENTITY results.label "תוצאות">
 <!ENTITY fileHereMenu.label "תייק כאן">
-<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileHereMenu.accesskey "כ">
 <!ENTITY fileButton.label "תייק">
-<!ENTITY fileButton.accesskey "i">
+<!ENTITY fileButton.accesskey "ת">
 <!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "פתח תיקיית הודעה">
-<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY openInFolder.label          "פתח בתיקיה">
+<!ENTITY openInFolder.accesskey      "ת">
 <!ENTITY saveAsVFButton.label "שמור כתיקיית חיפוש">
-<!ENTITY saveAsVFButton.accesskey "a">
-<!ENTITY abSearchHeading.label "חפש בתוך:">
-<!ENTITY abSearchHeading.accesskey "h">
-<!ENTITY propertiesButton.label "מאפיינים">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "כתוב הודעה">
-<!ENTITY composeButton.accesskey "W">
-<!ENTITY abSearchDialogTitle.label "חיפוש מתקדם בפנקס כתובות">
+<!ENTITY saveAsVFButton.accesskey "ת">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "חפש בתוך:">
+<!ENTITY abSearchHeading.accesskey   "ב">
+<!ENTITY propertiesButton.label      "מאפיינים">
+<!ENTITY propertiesButton.accesskey  "מ">
+<!ENTITY composeButton.label         "כתוב הודעה">
+<!ENTITY composeButton.accesskey     "כ">
+<!ENTITY abSearchDialogTitle.label   "חיפוש מתקדם בפנקס כתובות">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "נושא דיון">
 
 <!ENTITY recipientColumn.label "נמען">

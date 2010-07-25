@@ -9,6 +9,8 @@
 <!ENTITY releaseCmd.accesskey "ש">
 <!ENTITY whatsNewCmd.label "מה חדש">
 <!ENTITY whatsNewCmd.accesskey "מ">
+<!ENTITY featureConfiguratorCmd.label "מסייע המעבר">
+<!ENTITY featureConfiguratorCmd.accesskey "מ">
 <!ENTITY openHelp.label "תוכן עזרה">
 <!ENTITY openHelp.accesskey "ע">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -17,6 +19,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY updateCmd.label "בדוק אם ישנם עדכונים…">
-<!-- ### ENTITY updateCmd.accesskey "o" -->
-<!ENTITY aboutCmd.label "אודות &brandFullName;">
-<!ENTITY aboutCmd.accesskey "א">
+<!ENTITY aboutMenuCmd.label "אודות &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "א">

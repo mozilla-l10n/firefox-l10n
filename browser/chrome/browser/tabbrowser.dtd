@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(ללא שם)">
-<!ENTITY  newTab.label           "לשונית חדשה">
-<!ENTITY  newTab.accesskey       "ל">
 <!ENTITY  closeTab.label         "סגור לשונית">
-<!ENTITY  closeTab.accesskey         "ס">
-<!ENTITY  closeOtherTabs.accesskey  "א">
-<!ENTITY  closeOtherTabs.label   "סגור לשוניות אחרות">
-<!ENTITY  reloadAllTabs.label    "טען מחדש את כל הלשוניות">
-<!ENTITY  reloadAllTabs.accesskey         "כ">
-<!ENTITY  reloadTab.label        "טען מחדש לשונית נוכחית">
-<!ENTITY  reloadTab.accesskey         "ט">
-<!ENTITY  openTabInNewWindow.label    "פתח בחלון חדש">
-<!ENTITY  openTabInNewWindow.accesskey "ח">
-<!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
-<!ENTITY  bookmarkAllTabs.label       "צור סימניה לכל הלשוניות…">
-<!ENTITY  bookmarkAllTabs.accesskey   "כ">
-<!ENTITY  bookmarkThisTab.label       "צור סימניה ללשונית זו">
-<!ENTITY  bookmarkThisTab.accesskey   "ז">
-<!ENTITY  undoCloseTab.label          "בטל סגירת לשונית">
-<!ENTITY  undoCloseTab.accesskey      "ב">
 <!ENTITY  newTabButton.tooltip        "פתח בלשונית חדשה">

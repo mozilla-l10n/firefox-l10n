@@ -1,8 +1,14 @@
-<!ENTITY brandMotto '<b style="padding-right: 6em; padding-left: 0em;">לגלות את הרשת מחדש</b>'>
+<!ENTITY brandMotto       "<b style="padding-right: 6em; padding-left: 0em;">לגלות את הרשת מחדש</b>">
+<!ENTITY credit.thanks    "תודה מיוחדת ל">
 
-<!ENTITY credit.thanks "תודה מיוחדת ל">
-<!ENTITY credit.thanks2 "תודות מיוחדות גם לכל">
+<!ENTITY credit.thanks2       "תודות מיוחדות גם לכל">
 <!ENTITY credit.contributors2 "התורמים">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
 <!ENTITY credit.translation "<h3>תרגום</h3>
 <ul>
 <li>צחי אשר</li>
@@ -20,5 +26,5 @@
 <li>Prog</li>
 </ul>">
 
-<!ENTITY credit.memory "לזכרו של">
+<!ENTITY credit.memory      "לזכרו של">
 <!ENTITY credit.poweredByGeckoReg "מופעל על־ידי Gecko&reg;">
