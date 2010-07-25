@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilbibliotek">
-<!ENTITY aboutSupport.appBasicsPlugins "Installerede plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktive plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
 
 <!ENTITY aboutSupport.show.label "Åbn mappe">
