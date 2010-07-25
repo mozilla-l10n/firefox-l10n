@@ -2,14 +2,38 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title  "&brandFullName;">
+<!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifier  "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator  " - ">
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Yksityinen selaus)">
+
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Päivitä välilehti">
+<!ENTITY  reloadTab.accesskey                "ä">
+<!ENTITY  reloadAllTabs.label                "Päivitä kaikki välilehdet">
+<!ENTITY  reloadAllTabs.accesskey            "v">
+<!ENTITY  closeOtherTabs.label               "Sulje muut välilehdet">
+<!ENTITY  closeOtherTabs.accesskey           "e">
+<!ENTITY  openTabInNewWindow.label           "Avaa uuteen ikkunaan">
+<!ENTITY  openTabInNewWindow.accesskey       "u">
+<!ENTITY  pinTab.label                       "Sovelluksen välilehdeksi">
+<!ENTITY  pinTab.accesskey                   "o">
+<!ENTITY  unpinTab.label                     "Normaaliksi välilehdeksi">
+<!ENTITY  unpinTab.accesskey                 "N">
+<!ENTITY  bookmarkThisTab.label              "Lisää välilehti kirjanmerkkeihin">
+<!ENTITY  bookmarkThisTab.accesskey          "L">
+<!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY  bookmarkAllTabs.accesskey          "i">
+<!ENTITY  undoCloseTab.label                 "Kumoa välilehden sulkeminen">
+<!ENTITY  undoCloseTab.accesskey             "m">
+<!ENTITY  closeTab.label                     "Sulje välilehti">
+<!ENTITY  closeTab.accesskey                 "S">
+
+<!ENTITY  listAllTabs.label      "Listaa kaikki välilehdet">
 
 <!ENTITY tabCmd.label  "Uusi välilehti">
 <!ENTITY tabCmd.accesskey  "v">
@@ -107,6 +131,12 @@
 <!ENTITY bookmarksButton.tooltip         "Näytä kirjanmerkit">
 <!ENTITY bookmarksButton.accesskey  "K">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Kirjanmerkit">
+<!ENTITY bookmarksMenuButton.tooltip        "Näytä kirjanmerkit">
+<!ENTITY viewBookmarksSidebar.label         "Avaa sivupalkkiin">
+<!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -131,12 +161,29 @@
 <!ENTITY downloads.commandkey          "j">
 <!ENTITY downloadsUnix.commandkey      "y">
 <!ENTITY addons.label                 "Lisäosat">
-<!ENTITY addons.tooltip               "Listaa ja muokkaa asennettuja lisäosia">
 <!ENTITY addons.accesskey             "o">
 
 <!ENTITY errorConsoleCmd.label    "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey  "V">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Web-konsoli">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Tutki">
+<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "Tutki">
+<!ENTITY inspectButton.accesskey      "T">
+<!ENTITY inspectNextButton.label      "Seuraava">
+<!ENTITY inspectNextButton.accesskey  "S">
+<!ENTITY inspectPreviousButton.label  "Edellinen">
+<!ENTITY inspectPreviousButton.accesskey "E">
+<!ENTITY inspectStyleButton.label     "Tyyli">
+<!ENTITY inspectStyleButton.accesskey "y">
+<!ENTITY inspectStylePanelTitle.label  "Tyyli">
 
 <!ENTITY fileMenu.label          "Tiedosto">
 <!ENTITY fileMenu.accesskey        "T">
@@ -190,6 +237,8 @@
 <!ENTITY viewSidebarMenu.accesskey  "p">
 <!ENTITY viewCustomizeToolbar.label        "Muokkaa…">
 <!ENTITY viewCustomizeToolbar.accesskey      "M">
+<!ENTITY viewTabsOnTop.label            "Välilehdet päällä">
+<!ENTITY viewTabsOnTop.accesskey        "V">
 
 <!ENTITY historyMenu.label "Sivuhistoria">
 <!ENTITY historyMenu.accesskey "S">
@@ -201,18 +250,22 @@
 <!ENTITY showAllHistoryCmd2.label "Näytä sivuhistoria">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Tulosta">
+<!ENTITY appMenuCustomize.label "Muokkaa">
+<!ENTITY appMenuToolbarLayout.label "Työkalupalkin asettelu…">
+<!ENTITY appMenuSidebars.label "Sivupaneeli">
+<!ENTITY appMenuHelp.label "Ohje">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Etsi kirjanmerkeistä ja sivuhistoriasta">
-<!ENTITY urlbar.bookmark.emptyText    "Etsi kirjanmerkeistä">
-<!ENTITY urlbar.history.emptyText     "Etsi sivuhistoriasta">
-<!ENTITY urlbar.none.emptyText        "Kirjoita verkko-osoite">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.placeholder           "Siirry verkkosivulle">
+<!ENTITY urlbar.accesskey             "S">
+<!ENTITY urlbar.switchToTab.label     "Siirry välilehteen:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -227,20 +280,22 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
- -->
-<!ENTITY searchFocus.commandkey        "k">
-<!ENTITY searchFocus.commandkey2       "e">
-<!ENTITY searchFocusUnix.commandkey    "j">
 
-<!ENTITY openLinkCmd.label             "Avaa uuteen ikkunaan">
-<!ENTITY openLinkCmd.accesskey         "i">
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
 <!ENTITY openLinkCmdInTab.label        "Avaa uuteen välilehteen">
 <!ENTITY openLinkCmdInTab.accesskey    "v">
-<!ENTITY openFrameCmd.label            "Avaa kehys uuteen ikkunaan">
-<!ENTITY openFrameCmd.accesskey        "A">
+<!ENTITY openLinkCmd.label             "Avaa uuteen ikkunaan">
+<!ENTITY openLinkCmd.accesskey         "i">
+<!ENTITY openLinkCmdInCurrent.label     "Avaa">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label       "Avaa kehys uuteen välilehteen">
 <!ENTITY openFrameCmdInTab.accesskey   "v">
+<!ENTITY openFrameCmd.label            "Avaa kehys uuteen ikkunaan">
+<!ENTITY openFrameCmd.accesskey        "A">
 <!ENTITY showOnlyThisFrameCmd.label      "Näytä vain tämä kehys">
 <!ENTITY showOnlyThisFrameCmd.accesskey  "N">
 <!ENTITY reloadCmd.commandkey          "r">
@@ -306,8 +361,6 @@
 <!ENTITY sendAudioCmd.accesskey       "L">
 <!ENTITY copyLinkCmd.label             "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey         "K">
-<!ENTITY copyLinkTextCmd.label        "Kopioi linkkiteksti">
-<!ENTITY copyLinkTextCmd.accesskey    "i">
 <!ENTITY copyImageCmd.label            "Kopioi kuvan osoite">
 <!ENTITY copyImageCmd.accesskey        "p">
 <!ENTITY copyImageContentsCmd.label    "Kopioi kuva">
@@ -316,7 +369,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "p">
 <!ENTITY copyAudioURLCmd.label        "Kopioi äänitteen sijainti">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
-<!ENTITY blockImageCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label            "Kopioi sähköpostiosoite">
 <!ENTITY copyEmailCmd.accesskey        "s">
 <!ENTITY thisFrameMenu.label               "Tämä kehys">
@@ -335,6 +387,8 @@
 <!ENTITY mediaShowControls.accesskey "s">
 <!ENTITY mediaHideControls.label     "Piilota säätimet">
 <!ENTITY mediaHideControls.accesskey "P">
+<!ENTITY videoFullScreen.label       "Kokoruutu">
+<!ENTITY videoFullScreen.accesskey   "K">
 
 
 <!-- LOCALIZATION NOTE :
@@ -449,3 +503,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Avaa latausikkuna napsauttamalla hiirellä">
 
 <!ENTITY allTabs.filter.emptyText "Etsi välilehteä">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Selaimen välilehdet">
