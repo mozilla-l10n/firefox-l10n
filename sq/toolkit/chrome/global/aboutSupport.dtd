@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Të dhëna Diagnostikimi">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Kjo faqe përmban të dhëna teknike që mund të jenë të dobishme kur përpiqeni
+  të zgjidhni një problem. Nëse po shihni për përgjigje për pyetje të rëndomta
+  rreth &brandShortName;-it, shihni te <a id='supportLink'>site-i ynë web i asistencës</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Zgjerime">
+<!ENTITY aboutSupport.extensionName "Emër">
+<!ENTITY aboutSupport.extensionEnabled "I aktivizuar">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Të dhëna bazë mbi Zbatimin">
+<!ENTITY aboutSupport.appBasicsName "Emër">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Drejtoria e Profilit">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Shtojca të Aktivizuara">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Formësim Montimi">
+
+<!ENTITY aboutSupport.show.label "Hap Dosjen Që e Përmban">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Shfaqe te Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Parapëlqime të Ndryshuara">
+<!ENTITY aboutSupport.modifiedPrefsName "Emër">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vlerë">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Historik Instalimesh">
+<!ENTITY aboutSupport.updateHistoryTitle "Historik Përditësimesh">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Kopjoje krejt në të papastër">
