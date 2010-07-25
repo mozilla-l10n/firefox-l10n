@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Genstart &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "G">
+
+<!ENTITY blocklist.blocked.label     "Blokkeret">
+<!ENTITY blocklist.checkbox.label    "Deaktvér">
