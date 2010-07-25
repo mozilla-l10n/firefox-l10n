@@ -20,7 +20,8 @@
 <!ENTITY certmgr.detail.general_tab.title "Të përgjithshme">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Hollësi">
 <!ENTITY certmgr.details.label "Fusha Dëshmie">
-<!ENTITY certmgr.edit2.label "Përpunojeni…">
+<!ENTITY certmgr.edit3.label                  "Përpunojini Besueshmërinë…">
+<!ENTITY certmgr.edit3.accesskey              "P">
 <!ENTITY certmgr.editca.label "Përpunoni Besueshmëri AD-sh">
 <!ENTITY certmgr.editcacert.title "Përpunoni rregullime besueshmërie dëshmish AD-sh">
 <!ENTITY certmgr.editcert.edittrust "Përpunoni rregullime besueshmërie:">
@@ -45,7 +46,6 @@
 <!ENTITY certmgr.issuerinfo.label "Lëshuar nga">
 <!ENTITY certmgr.mine "Keni dëshmi prej këtyre organizmave që ju identifikojnë:">
 <!ENTITY certmgr.others "Keni në kartelë dëshmi që identifikojnë këta persona:">
-<!ENTITY certmgr.purpose "Qëllime">
 <!ENTITY certmgr.serial "Numër Serie">
 <!ENTITY certmgr.subjectinfo.label "Lëshuar Për">
 <!ENTITY certmgr.tab.ca "Autoritete">
@@ -65,10 +65,11 @@
 <!ENTITY certmgr.hierarchy.accesskey          "H">
 <!ENTITY certmgr.tab.orphan2                  "Të tjera">
 <!ENTITY certmgr.pending.label                "Po vërtetohet dëshmia…">
-<!ENTITY certmgr.typesofoverrides             "Përjashtime">
 <!ENTITY certmgr.export.label                 "Eksporto…">                      
 <!ENTITY certmgr.export.accesskey             "E">                              
 <!ENTITY certmgr.delete2.label                 "Fshije…">
+<!ENTITY certmgr.delete_builtin.label         "Fshije ose Mos e Beso…">
+<!ENTITY certmgr.delete_builtin.accesskey     "M">
 <!ENTITY certmgr.backup2.label                 "Kopjeruaje…">
 <!ENTITY certmgr.backupall2.label              "Kopjeruaji të Tëra…">
 <!ENTITY certmgr.restore2.label                "Importo…">    
@@ -91,7 +92,6 @@
 <!ENTITY certmgr.restore2.accesskey           "I">
 <!ENTITY certmgr.override_lifetime            "Jetëgjatësi">
 <!ENTITY certmgr.orphans                      "Keni në kartelë dëshmi që nuk hyjnë në ndonjë nga kategoritë e tjera:">
-<!ENTITY certmgr.edit2.accesskey              "P">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "H">
 <!ENTITY certmgr.detail.general_tab.accesskey "T">
 <!ENTITY certmgr.delete2.accesskey            "F">
