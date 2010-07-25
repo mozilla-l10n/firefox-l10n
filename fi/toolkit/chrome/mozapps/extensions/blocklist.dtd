@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Käynnistä &brandShortName; uudelleen">
 <!ENTITY blocklist.accept.accesskey  "K">
+
+<!ENTITY blocklist.blocked.label     "Estetty">
+<!ENTITY blocklist.checkbox.label    "Poista käytöstä">
