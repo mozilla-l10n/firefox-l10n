@@ -18,3 +18,6 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "т">
 <!ENTITY findAsYouTypeAutoLinks.label "Толькі спасылкі">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "ы">
+<!ENTITY findAsYouTypeFindbarEnable.label "Паказваць прыладапаліцу пошуку падчас пошуку таго, што набіраецца">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "П">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Заўвага: Пошук таго, што набіраецца, без прыладапаліцы не дазваляе ўводу міжнароднага тэксту.">

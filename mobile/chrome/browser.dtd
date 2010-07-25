@@ -17,13 +17,9 @@
 <!ENTITY noSuggestions.label "(няма прапановаў)">
 <!ENTITY addToDictionary.label "Дадаць у слоўнік">
 <!ENTITY bookmarksHeader.label "Закладкі">
-<!ENTITY bookmarksManage.label "Уладкаваць">
-<!ENTITY editBookmarkRemove.label "Выдаліць">
 <!ENTITY editBookmarkDone.label "Гатова">
 <!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
-<!ENTITY formHelper.previous "Назад">
-<!ENTITY formHelper.next "Далей">
-<!ENTITY formHelper.done "Гатова">
+<!ENTITY selectHelper.done "Гатова">
 <!ENTITY addonsHeader.label "Дадаткі">
 <!ENTITY addonsLocal.label "Вашы дадаткі">
 <!ENTITY addonsUpdate.label "Абнавіць">
@@ -70,3 +66,5 @@
 <!ENTITY consoleErrColumn.label "Слупок:">
 <!ENTITY contextOpenInNewTab.label "Адкрыць спасылку ў новай устаўцы">
 <!ENTITY contextSaveImage.label "Захаванне малюнка">
+<!ENTITY contextEditBookmark.label "Правіць">
+<!ENTITY contextRemoveBookmark.label "Выдаліць">
