@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY hud.title "Heads Up Display">
+<!ENTITY hud.title "Nînadana Serbijor">
 
 <!ENTITY errFile.label   "Pelê çavkanî:">
 <!ENTITY errLine.label   "Rêzik:">
@@ -43,21 +43,21 @@
 
 <!ENTITY all.label          "Hemû">
 <!ENTITY all.accesskey      "H">
-<!ENTITY errors.label       "Errors">
-<!ENTITY errors.accesskey   "E">
+<!ENTITY errors.label       "Çewtî">
+<!ENTITY errors.accesskey   "e">
 <!ENTITY warnings.label     "Hişyarî">
 <!ENTITY warnings.accesskey "H">
-<!ENTITY messages.label     "Messages">
-<!ENTITY messages.accesskey "M">
+<!ENTITY messages.label     "Peyam">
+<!ENTITY messages.accesskey "m">
 <!ENTITY clear.label        "Pakijkirin">
 <!ENTITY clear.accesskey    "P">
-<!ENTITY codeEval.label     "Code:">
+<!ENTITY codeEval.label     "Kod:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label     "Evaluate">
-<!ENTITY evaluate.accesskey "v">
+<!ENTITY evaluate.label     "Binirxîne">
+<!ENTITY evaluate.accesskey "B">
 
-<!ENTITY copyCmd.label       "Copy">  
-<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.label       "Ji ber bigire">  
+<!ENTITY copyCmd.accesskey   "J"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  

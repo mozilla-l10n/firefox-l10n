@@ -57,10 +57,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "mêjûya niha gişî paqij bikî">
 <!ENTITY  dontrememberActions.post.label         "de heye.">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "Moda Gerê ya Takekesî ya Timî">
+<!ENTITY  privateBrowsingPermanent.accesskey "M">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.label      "Mêjûya min a gerê bi bîr bîne">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Mêjûya daxistinê bi bîr bîne">

@@ -40,7 +40,7 @@
 
 <!ENTITY  incompatibleList.title          "Add-onên Hev Nagirin Hatin Dîtin">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "&brandShortName; tê daxistin">
 <!ENTITY  downloading.intro               "Rojanekirin tê daxistin...">
 <!ENTITY  connecting.label                "Digel pêşkêşkara rojanekirinê têkilî tê danîn...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the incremental update it downloaded, so it is now downloading the complete update package.">
