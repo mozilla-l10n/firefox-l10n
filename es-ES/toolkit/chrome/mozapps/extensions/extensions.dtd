@@ -15,7 +15,7 @@
 <!ENTITY updates.updating.label "Actualizando complementos">
 <!ENTITY updates.installed.label "Se han actualizado sus complementos.">
 <!ENTITY updates.downloaded.label "Descargadas actualizaciones de sus complementos.">
-<!ENTITY updates.restart.label "Reiniciar ahora para completar la instalación">
+<!ENTITY updates.restart.label "Reiniciar ahora para instalar">
 <!ENTITY updates.noneFound.label "No se han encontrado actualizaciones">
 <!ENTITY cmd.showDetails.label "Mostrar más información">
 <!ENTITY cmd.showDetails.accesskey "M">
@@ -79,7 +79,7 @@
 <!ENTITY addon.undoUninstall.label "¿Deshacer?">
 <!ENTITY addon.undoUninstall.tooltip "Conservar este complemento instalado">
 <!ENTITY addon.restartNow.label "Reiniciar ahora">
-<!ENTITY addon.restartNow.tooltip "Reiniciar ahora para completar la instalación">
+<!ENTITY addon.restartNow.tooltip "Reiniciar ahora para instalar">
 <!ENTITY addon.install.label "Instalar">
 <!ENTITY addon.install.tooltip "Instalar este complemento">
 <!ENTITY addon.checkingForUpdates.label "Buscando actualizaciones…">
