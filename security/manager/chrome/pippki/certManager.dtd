@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "G">
 <!ENTITY certmgr.view2.label                  "Nîşan Bide...">
 <!ENTITY certmgr.view2.accesskey              "N">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Pêbaweriyê Serast Bike…">
+<!ENTITY certmgr.edit3.accesskey              "e">
 <!ENTITY certmgr.editca.label                 "CA Ewlekarî serats bike">
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "Têxê">
@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "D">
 <!ENTITY certmgr.delete2.label                "Jê Bibe">
 <!ENTITY certmgr.delete2.accesskey            "J">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "Jê Bibe an ajî Pêbawer Be…">
+<!ENTITY certmgr.delete_builtin.accesskey     "J">
 <!ENTITY certmgr.backup2.label                "Hilîne">
 <!ENTITY certmgr.backup2.accesskey            "H">
 <!ENTITY certmgr.backupall2.label             "Hemûyan hilîne">

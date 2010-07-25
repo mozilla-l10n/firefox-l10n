@@ -1,30 +1,30 @@
-<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.brand.label                      "Pîlotê Testê">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Mîheng">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Notify me when">
-<!ENTITY testpilot.settings.readyToSubmit.label     "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label          "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label     "A study has new results">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatically submit my data (don't ask me)">
-<!ENTITY testpilot.allStudies.label                 "All Your User Studies">
-<!ENTITY testpilot.about.label                      "About Test Pilot">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Min hişyar bike dema">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Perwerdehiyek bê ragihandin">
+<!ENTITY testpilot.settings.newStudy.label          "Perwerdehiyeke nû heye">
+<!ENTITY testpilot.settings.hasNewResults.label     "Encameke nû ya perwerdehiyekê heye">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Daneyên min xweber bişîne (ji min nepirse)">
+<!ENTITY testpilot.allStudies.label                 "Hemû Perwerdehiyên Bikarhêneran ên Te">
+<!ENTITY testpilot.about.label                      "Berbarê Pîlotê Testê de">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
+<!ENTITY testpilot.studiesWindow.title                  "Perwerdehiyên Te yên Pîlotê Testê">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Perwerdehiyên Niha">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Perwerdehiyên Qediyayî">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Dîtina Perwerdehiyan">
 <!ENTITY testpilot.studiesWindow.settings.label         "Mîheng">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Pîlotê Testê: Daneya Xam">
 
 <!-- notification -->
 <!ENTITY testpilot.notification.close.tooltip            "Girtin">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
+<!ENTITY testpilot.enable.label                        "Perwerdehiyên Bikarhêneran Veke">
+<!ENTITY testpilot.feedbackbutton.label                "Agahdarkirin">
 <!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
 <!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">

@@ -2,4 +2,4 @@
 <!ENTITY  brandFullName         "Mozîlla Firefox">
 <!ENTITY  vendorShortName       "Mozîlla">
 <!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
-<!ENTITY  trademarkInfo         " Firefox and the Firefox logos are trademarks of the Mozilla Foundation. Some of the trademarks used under license from The Charlton Company.">
+<!ENTITY  trademarkInfo         " Firefox û logoyên Firefoxê markayên parastî yên Fona Mozillayê ne. Hin marka di bin lîsansa The Charlton Companyê de bûn.">

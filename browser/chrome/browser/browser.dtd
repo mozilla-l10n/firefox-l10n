@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gera Nepen)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Hilpekîna nû">
-<!ENTITY  newTab.accesskey                   "p">
 <!ENTITY  reloadTab.label                    "Hilpekînê ji nû ve bar bike">
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Hemû hilpekînan ji nû ve bar bike">
@@ -22,16 +20,16 @@
 <!ENTITY  closeOtherTabs.accesskey           "d">
 <!ENTITY  openTabInNewWindow.label           "Di paceyeke nû de veke">
 <!ENTITY  openTabInNewWindow.accesskey       "p">
-<!ENTITY  pinTab.label                       "Make into App Tab">
+<!ENTITY  pinTab.label                       "Bixe Hilpekîna Sepanan">
 <!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Make into Normal Tab">
+<!ENTITY  unpinTab.label                     "Bixe Hilpekîna Asayî">
 <!ENTITY  unpinTab.accesskey                 "k">
 <!ENTITY  bookmarkThisTab.label              "Vê hilpekînê têxe bijareyan">
 <!ENTITY  bookmarkThisTab.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Hemû hilpekînan têxe bijareyan…">
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
-<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
+<!ENTITY  undoCloseTab.accesskey             "H">
 <!ENTITY  closeTab.label                     "Hilpekînê bigire">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -136,8 +134,8 @@
 
 <!ENTITY bookmarksMenuButton.label          "Bijare">
 <!ENTITY bookmarksMenuButton.tooltip        "Bijareyên xwe bibîne">
-<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY viewBookmarksSidebar.label         "Di Darikê Kêlekê de Nîşan Bide">
+<!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -169,23 +167,23 @@
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "J">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Konsola Webê">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspect">
-<!ENTITY inspectMenu.accesskey        "t">
+<!ENTITY inspectMenu.label            "Venêre">
+<!ENTITY inspectMenu.accesskey        "V">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectButton.label          "Inspect">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectButton.label          "Venêre">
+<!ENTITY inspectButton.accesskey      "V">
+<!ENTITY inspectNextButton.label      "Pêş">
+<!ENTITY inspectNextButton.accesskey  "P">
+<!ENTITY inspectPreviousButton.label  "Paş">
 <!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
+<!ENTITY inspectStyleButton.label     "Teşe">
+<!ENTITY inspectStyleButton.accesskey "T">
+<!ENTITY inspectStylePanelTitle.label  "Teşe">
 
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
@@ -221,8 +219,8 @@
 <!ENTITY preferencesCmdUnix.label       "Vebijêrkên">
 <!ENTITY preferencesCmdUnix.accesskey     "j"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!ENTITY clearRecentHistory.label               "Mêjûya Nêz Paqij Bike…">
+<!ENTITY clearRecentHistory.accesskey           "M">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Dest bi Gera Nepen bike">
@@ -239,8 +237,8 @@
 <!ENTITY viewSidebarMenu.accesskey "Q">
 <!ENTITY viewCustomizeToolbar.label       "Taybet Bike"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
-<!ENTITY viewTabsOnTop.label            "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "Hilpekîn li Jorê">
+<!ENTITY viewTabsOnTop.accesskey        "H">
 
 <!ENTITY historyMenu.label "Mêjû">
 <!ENTITY historyMenu.accesskey "M">
@@ -253,15 +251,15 @@
 <!ENTITY showAllHistoryCmd.commandkey "A">
 
 <!ENTITY appMenuPrintCmd.label "Çapkirin">
-<!ENTITY appMenuCustomize.label "Customize">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuCustomize.label "Takekes bike">
+<!ENTITY appMenuToolbarLayout.label "Bicîbûna Darikê Amûran…">
+<!ENTITY appMenuSidebars.label "Darikên kêlekê">
 <!ENTITY appMenuHelp.label "Alîkarî">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "Here Malperekê">
 <!ENTITY urlbar.accesskey             "D">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Derbasî hilpekînê bibe:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -288,16 +286,16 @@
 <!ENTITY searchFocus.commandkey2      "a">
 <!ENTITY searchFocusUnix.commandkey   "J">
 
+<!ENTITY openLinkCmdInTab.label       "Girêdanê Di Hilpekîneke Nû De Veke">
+<!ENTITY openLinkCmdInTab.accesskey   "H">
 <!ENTITY openLinkCmd.label            "Girêdanê Di Paceyeke Nû De Veke">
 <!ENTITY openLinkCmd.accesskey        "P">
 <!ENTITY openLinkCmdInCurrent.label     "Lînkê veke">
 <!ENTITY openLinkCmdInCurrent.accesskey "v">
-<!ENTITY openLinkCmdInTab.label       "Girêdanê Di Hilpekîneke Nû De Veke">
-<!ENTITY openLinkCmdInTab.accesskey   "H">
-<!ENTITY openFrameCmd.label           "Çarçoweyê Di Paceyeke Nû De Veke">
-<!ENTITY openFrameCmd.accesskey       "e">
 <!ENTITY openFrameCmdInTab.label      "Çarçoveyê Di Hilpekîneke Nû De Veke">
 <!ENTITY openFrameCmdInTab.accesskey  "v">
+<!ENTITY openFrameCmd.label           "Çarçoweyê Di Paceyeke Nû De Veke">
+<!ENTITY openFrameCmd.accesskey       "e">
 <!ENTITY showOnlyThisFrameCmd.label     "Tenê Vê Çarçoveyê Nîşan Bide">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY reloadCmd.commandkey         "R">
@@ -507,4 +505,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Li Hilpekînan Bigere">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "Hilpekînên gerokê">

@@ -135,8 +135,8 @@
 <p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ji ber ku di vê r»pelê de naverokeke peymana ewlekariyê ew asteng dike heye, gerokê di dema barkirina bi vî awayî de ev rûpel asteng kir.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

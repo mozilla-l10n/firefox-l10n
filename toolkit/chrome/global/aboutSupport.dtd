@@ -1,10 +1,10 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Agahiyên Tamîrkirinê">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+  Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar,
+  agahiyên teknîkî dihewîne. Eger li bersiva PPP yên
+  &brandShortName; digerî, li <a id='supportLink'>malpera desteka webê</a> binêre.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Pêvek">
@@ -13,25 +13,25 @@
 <!ENTITY aboutSupport.extensionVersion "Guherto">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Bingehên Sepanê">
 <!ENTITY aboutSupport.appBasicsName "Nav">
 <!ENTITY aboutSupport.appBasicsVersion "Guherto">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsProfileDir "Pelrêça Profîlê">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Pêvekên Çalak">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Mîhengên Avakirinê">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Peldanka ku tê de ye veke">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Di 'Bibîne' de nîşan bide">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Vebijêrkên Guherandî">
 <!ENTITY aboutSupport.modifiedPrefsName "Nav">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nirx">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Mêjûya sazkirinê">
 <!ENTITY aboutSupport.updateHistoryTitle "Mêjûya rojanekirinê">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Hemûyan li depreşê tomar bike">
