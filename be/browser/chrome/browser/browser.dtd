@@ -2,8 +2,6 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Адасобленае азіранне)">
-<!ENTITY newTab.label "Новая ўстаўка">
-<!ENTITY newTab.accesskey "Н">
 <!ENTITY reloadTab.label "Абнавіць устаўку">
 <!ENTITY reloadTab.accesskey "А">
 <!ENTITY reloadAllTabs.label "Абнавіць усе ўстаўкі">
@@ -136,9 +134,9 @@
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY hudConsoleCmd.label "Адлюстравальнік перасцярогаў">
-<!ENTITY hudConsoleCmd.accesskey "р">
-<!ENTITY hudConsoleCmd.commandkey "k">
+<!ENTITY webConsoleCmd.label "Кансоль Сеціва">
+<!ENTITY webConsoleCmd.accesskey "С">
+<!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY inspectMenu.label "Даследаваць">
 <!ENTITY inspectMenu.accesskey "Д">
 <!ENTITY inspectMenu.commandkey "I">
@@ -219,16 +217,16 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
+<!ENTITY openLinkCmdInTab.accesskey "й">
 <!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey "п">
 <!ENTITY openLinkCmdInCurrent.label "Адкрыць спасылку">
 <!ENTITY openLinkCmdInCurrent.accesskey "А">
-<!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
-<!ENTITY openLinkCmdInTab.accesskey "й">
-<!ENTITY openFrameCmd.label "Адчыніць рамку ў новым акне">
-<!ENTITY openFrameCmd.accesskey "ч">
 <!ENTITY openFrameCmdInTab.label "Адчыніць рамку ў новай устаўцы">
 <!ENTITY openFrameCmdInTab.accesskey "ў">
+<!ENTITY openFrameCmd.label "Адчыніць рамку ў новым акне">
+<!ENTITY openFrameCmd.accesskey "ч">
 <!ENTITY showOnlyThisFrameCmd.label "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "г">
 <!ENTITY reloadCmd.commandkey "r">
