@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Lejes Publike Mozilla">
 <!ENTITY rights.intro-point1c ". Kjo do të thotë që &brandShortName;-in mund ta përdorni, kopjoni dhe shpërndani te të tjerë.  Jeni gjithashtu të lirë ta ndryshoni kodin burim të &brandShortName;-it në përputhje me nevojat tuaja. Leja Publike Mozilla ju jep po ashtu të drejtën të shpërndani versionet tuaj të ndryshuar.">
 
-<!ENTITY rights.intro-point2a "Mozilla nuk ju jep ndonjë të drejtë mbi  shenjat tregtare ose logot e Mozilla-s dhe Firefox-it. Mund të gjeni më tepër të dhëna rreth Shenjave Tregtare (Trademarks) ">
-<!ENTITY rights.intro-point2b "këtu">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Mozilla nuk ju jep ndonjë të drejtë mbi shenjat tregtare ose mbi lejet mbi shenjat tregtare të Mozilla Foundation-it ose të çfarëdo pale të tretë, përfshi pa kufizim emrin dhe stemën e Firefox-it.Mund të gjeni më tepër të dhëna rreth shenjave tregtare (trademarks) ">
+<!ENTITY rights.intro-point2-b "këtu">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Rregullat e vetësisë për produktet e &vendorShortName;-s mund t&apos;i gjeni ">
