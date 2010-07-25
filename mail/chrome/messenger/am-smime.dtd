@@ -25,4 +25,4 @@
 <!ENTITY manageCerts.label "Vis sertifikat">
 <!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "Tryggingseiningar">
-<!ENTITY manageDevices.accesskey "S">
+<!ENTITY manageDevices.accesskey "r">
