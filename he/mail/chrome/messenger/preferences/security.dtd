@@ -2,6 +2,7 @@
 <!ENTITY itemPhishing.label      "הונאות דוא״ל">
 <!ENTITY itemPasswords.label     "סיסמאות">
 <!ENTITY itemAntiVirus.label     "אנטי-וירוס">
+<!ENTITY itemCookies.label       "תוכן רשת">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
@@ -42,3 +43,16 @@
 <!ENTITY antiVirus.label "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
 <!ENTITY antiVirus.accesskey "ב">
 
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; מאפשר לך לקבוע איזה בלוגים, הזנות חדשות ואתרים אחרים מורשים להגדיר עוגיות.">
+<!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
+<!ENTITY  acceptCookies.accesskey       "ע">
+<!ENTITY  keepUntil.label               "שמור עד ש:">
+<!ENTITY  keepUntil.accesskey           "מ">
+<!ENTITY  expire.label                  "הן פגות">
+<!ENTITY  close.label                   "אני סוגר את &brandShortName;">
+<!ENTITY  askEachTime.label             "שאל אותי בכל פעם">
+<!ENTITY  cookieExceptions.label        "חריגות…">
+<!ENTITY  cookieExceptions.accesskey    "ח">
+<!ENTITY  showCookies.label             "הצג עוגיות…">
+<!ENTITY  showCookies.accesskey         "צ">

@@ -1,12 +1,18 @@
 <!ENTITY doNotDownloadPop3Movemail.label "כדי לחסוך שטח דיסק, אל תוריד:">
-<!ENTITY doNotDownload.label "כדי לחסוך בשטח דיסק, אל תוריד לשימוש לא־מקוון:">
+
+<!ENTITY doNotDownloadNntp.label "כדי לשמור שטח דיסק, אל תוריד לשימוש לא־מקוון:">
+<!ENTITY doNotDownloadImap.label "כדי לשמור שטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה">
+
 <!ENTITY allFoldersOffline.label "שמור הודעות לחשבון זה על מחשב זה">
 <!ENTITY allFoldersOffline.accesskey "ע">
 
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "ג">
-<!ENTITY kb.label "ק״ב">
 
+<!ENTITY autosyncNotDownload.label "אל תוריד הודעות גדולות מ־">
+<!ENTITY autosyncNotDownload.accesskey "ג">
+
+<!ENTITY kb.label "ק״ב">
 <!ENTITY daysOld.label "ימים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY nntpNotDownloadRead.label "הודעות שנקראו">
@@ -22,20 +28,15 @@
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
-<!-- ### ENTITY retentionKeepNew.label "מחק הכל מלבד" -->
-<!-- ### ENTITY retentionKeepNew.accesskey "מ" -->
+
 <!ENTITY retentionKeepRecent.label "מחק הכל מלבד">
 <!ENTITY retentionKeepRecent.accesskey "מ">
 
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "מחק תמיד הודעות שנקראו (עוקף הגדרות גיל)">
 
-<!-- ### ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו" -->
-<!-- ### ENTITY retentionKeepUnread.accesskey "נ" -->
 <!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות">
 <!ENTITY retentionApplyToFlagged.accesskey "ס">
-<!-- ### ENTITY nntpRemoveBody.label "רק גוף הודעות בנות פחות מאשר" -->
-<!-- ### ENTITY nntpRemoveBody.accesskey "ר" -->
 
 <!ENTITY nntpRemoveMsgBody.label "הסר גוף בהודעות בנות יותר מאשר">
 <!ENTITY nntpRemoveMsgBody.accesskey "י">
@@ -47,3 +48,21 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "מ">
 <!ENTITY syncGroupTitle.label "סנכרון הודעות">
 <!ENTITY diskspaceGroupTitle.label "שטח דיסק">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "סנכרן את כל ההודעות מקומית ללא התחשבות בגיל">
+<!ENTITY allAutosync.accesskey           "ל">
+<!ENTITY ageAutosyncBefore.label         "סנכרן הודעות מ־">
+<!ENTITY ageAutosync.accesskey           "ס">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "ימים">
+<!ENTITY weekAgeInterval.label           "שבועות">
+<!ENTITY monthAgeInterval.label          "חודשים">
+<!ENTITY yearAgeInterval.label           "שנים">
+<!ENTITY ageAutosyncAfter.label          "אחורה">
+

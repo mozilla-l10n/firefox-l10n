@@ -6,13 +6,17 @@
 <!ENTITY fccMailFolder.accesskey "ע">
 <!ENTITY fccReplyFollowsParent.label "שים השבות בתיקייה של ההודעה שהושבה">
 <!ENTITY fccReplyFollowsParent.accesskey "ש">
-
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "שלח עותק לכתובות אלו:">
+<!ENTITY ccAddress.accesskey "ע">
+<!ENTITY ccAddressList.emptytext "הפרד בין כתובות עם פסיק">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "עותק סמוי לכתובות נוספות:">
+<!ENTITY bccAddress.label "עותק סמוי לכתובות אלו:">
 <!ENTITY bccAddress.accesskey "מ">
+<!ENTITY bccAddressList.emptytext "הפרד בין כתובות עם פסיק">
 
 <!ENTITY saveMessageDlg.label "הצג בקשה לאישור כאשר הודעות נשמרות">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY saveMessageDlg.accesskey "נ">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "תיקיית &quot;נשלח&quot; על:">
 <!ENTITY sentFolderOn.accesskey "נ">

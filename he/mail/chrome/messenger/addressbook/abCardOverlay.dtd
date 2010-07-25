@@ -51,7 +51,7 @@
 <!ENTITY DisplayName.accesskey "D">
 <!ENTITY NickName.label "כינוי:">
 <!ENTITY NickName.accesskey "N">
-<!-- ### ENTITY Internet.box "אינטרנט" -->
+
 <!ENTITY PrimaryEmail.label "דוא״ל:">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "דוא״ל נוסף:">
@@ -63,9 +63,6 @@
 <!ENTITY Unknown.label "לא ידוע">
 <!ENTITY ScreenName.label "שם מסך:">
 <!ENTITY ScreenName.accesskey "S">
-<!-- ### ENTITY allowRemoteContent.label "אפשר תמונות מרוחקות בדואר HTML." -->
-<!-- ### ENTITY allowRemoteContent.accesskey "ת" -->
-<!-- ### ENTITY allowRemoteContent.tooltip     "בהודעות HTML ניתן לצרף תמונות ממקורות מרוחקים. פתיחה של הודעות אלו תפתח חיבור עם מקור מרוחק זה. דרך זו יכולה לאפשר לאחרים לדעת כי ההודעה נקראה. סימון תיבה זו תאפשר לתמונות חיצוניות המצורפות להודעות HTML להיטען בהודעות מאיש קשר זה." -->
 
 <!ENTITY allowRemoteContent1.label      "אפשר תוכן מרוחק.">
 <!ENTITY allowRemoteContent1.accesskey  "ר">
@@ -143,3 +140,20 @@
 <!ENTITY WorkState.accesskey            "מ">
 <!ENTITY WorkWebPage.accesskey          "א">
 <!ENTITY WorkZipCode.accesskey          "ק">
+
+
+<!ENTITY Photo.tab                      "תמונה">
+<!ENTITY Photo.accesskey                "ת">
+<!ENTITY PhotoDesc.label                "בחר אחד מהבאים:">
+<!ENTITY GenericPhoto.label             "תמונה כללית">
+<!ENTITY GenericPhoto.accesskey         "ג">
+<!ENTITY DefaultPhoto.label             "ברירת מחדל">
+<!ENTITY PhotoFile.label                "במחשב זה">
+<!ENTITY PhotoFile.accesskey            "ז">
+<!ENTITY BrowsePhoto.label              "עיין">
+<!ENTITY BrowsePhoto.accesskey          "ע">
+<!ENTITY PhotoURL.label                 "ברשת">
+<!ENTITY PhotoURL.accesskey             "ר">
+<!ENTITY PhotoURL.emptytext             "הקלד או הדבק כתובת לתמונה ברשת">
+<!ENTITY UpdatePhoto.label              "עדכן">
+<!ENTITY UpdatePhoto.accesskey          "ע">

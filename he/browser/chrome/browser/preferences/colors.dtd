@@ -1,19 +1,22 @@
-<!ENTITY allowPagesToUse.accesskey "א">
-<!ENTITY allowPagesToUse.label "אפשר לדפים לבחור את הצבעים שלהם במקום בחירתי למעלה">
-<!ENTITY backgroundColor.accesskey "ר">
-<!ENTITY backgroundColor.label "רקע:">
-<!ENTITY color "טקסט ורקע">
-<!ENTITY colorsDialog.title "צבעים">
-<!ENTITY linkColor.accesskey "ש">
-<!ENTITY linkColor.label "קישורים שלא ביקרתי:">
-<!ENTITY links "צבעי קישור">
-<!ENTITY textColor.accesskey "ט">
-<!ENTITY textColor.label "טקסט:">
-<!ENTITY underlineLinks.accesskey "ס">
-<!ENTITY underlineLinks.label "סמן קישורים בקו תחתי">
-<!ENTITY useSystemColors.accesskey "ה">
-<!ENTITY useSystemColors.label "השתמש בצבעי המערכת">
-<!ENTITY visitedLinkColor.accesskey "ב">
-<!ENTITY visitedLinkColor.label "קישורים שביקרתי:">
-<!ENTITY window.macWidth "41em">
-<!ENTITY window.width "38em">
+<!ENTITY  colorsDialog.title              "צבעים">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "אפשר לדפים לבחור את הצבעים שלהם במקום בחירתי למעלה">
+<!ENTITY  allowPagesToUse.accesskey       "א">
+
+<!ENTITY  color                           "טקסט ורקע">
+<!ENTITY  textColor.label                 "טקסט:">
+<!ENTITY  textColor.accesskey             "ט">
+<!ENTITY  backgroundColor.label           "רקע:">
+<!ENTITY  backgroundColor.accesskey       "ר">
+<!ENTITY  useSystemColors.label           "השתמש בצבעי המערכת">
+<!ENTITY  useSystemColors.accesskey       "ה">
+
+<!ENTITY  underlineLinks.label            "סמן קישורים בקו תחתי">
+<!ENTITY  underlineLinks.accesskey        "ס">
+<!ENTITY  links                           "צבעי קישור">
+<!ENTITY  linkColor.label                 "קישורים שלא ביקרתי:">
+<!ENTITY  linkColor.accesskey             "ש">
+<!ENTITY  visitedLinkColor.label          "קישורים שביקרתי:">
+<!ENTITY  visitedLinkColor.accesskey      "ב">

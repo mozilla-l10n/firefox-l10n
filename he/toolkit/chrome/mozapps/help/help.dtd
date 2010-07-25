@@ -1,33 +1,31 @@
-<!ENTITY backButton.accesskey "ח">
-<!ENTITY backButton.label "אחורה">
-<!ENTITY backButton.tooltip "חזור דף אחד אחורה">
-<!ENTITY closeWindow.commandkey "W">
-<!ENTITY copyCmd.accesskey "ת">
-<!ENTITY copyCmd.label "העתק">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY forwardButton.accesskey "ק">
-<!ENTITY forwardButton.label "קדימה">
-<!ENTITY forwardButton.tooltip "התקדם דף אחד קדימה">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY helpSearch.commandkey "k">
-<!ENTITY homeButton.label "דף הבית">
-<!ENTITY homeButton.tooltip "לך לדף הבית של העזרה">
-<!ENTITY printButton.label "הדפסה">
-<!ENTITY printButton.tooltip "הדפס דף זה">
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY selectAllCmd.accesskey "ב">
-<!ENTITY selectAllCmd.label "בחר הכל">
-<!ENTITY toctab.accesskey "ת">
-<!ENTITY toctab.label "תוכן">
-<!ENTITY zLevel.accesskey "ע">
-<!ENTITY zLevel.label "תמיד עליון">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "אחורה">
+<!ENTITY backButton.accesskey           "ח">
+<!ENTITY backButton.tooltip             "חזור דף אחד אחורה">
+<!ENTITY forwardButton.label            "קדימה">
+<!ENTITY forwardButton.accesskey        "ק">
+<!ENTITY forwardButton.tooltip          "התקדם דף אחד קדימה">
+<!ENTITY copyCmd.label                  "העתק">
+<!ENTITY copyCmd.accesskey              "ת">
+<!ENTITY selectAllCmd.label             "בחר הכל">
+<!ENTITY selectAllCmd.accesskey         "ב">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "דף הבית">
+<!ENTITY homeButton.tooltip             "לך לדף הבית של העזרה">
+<!ENTITY printButton.label              "הדפסה">
+<!ENTITY printButton.tooltip            "הדפס דף זה">
+<!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "חיפוש">
 <!ENTITY searchHeader.label             "תוצאות חיפוש">
+<!ENTITY toctab.label                   "תוכן">
+<!ENTITY toctab.accesskey               "ת">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -42,6 +40,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "תמיד עליון">
+<!ENTITY zLevel.accesskey               "ע">
+
 <!ENTITY fullZoomReduceBtn.label        "התרחקות">
 <!ENTITY fullZoomReduceBtn.accesskey    "ר">
 <!ENTITY fullZoomEnlargeBtn.label       "התקרבות">

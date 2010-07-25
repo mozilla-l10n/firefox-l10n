@@ -3,13 +3,13 @@
 <!ENTITY  locationBar.label             "סרגל המיקום">
 
 <!ENTITY  locbar.pre.label              "כאשר משתמשים בסרגל המיקום, המלץ על:">
-
 <!ENTITY  locbar.pre.accessKey          "כ">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "היסטוריה וסימניות">
 <!ENTITY  locbar.history.label          "היסטוריה">
 <!ENTITY  locbar.bookmarks.label        "סימניות">
 <!ENTITY  locbar.nothing.label          "שום דבר">
+
 
 <!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
 <!ENTITY  acceptCookies.accesskey       "ע">
@@ -29,6 +29,7 @@
 
 <!ENTITY  showCookies.label             "הצג עוגיות…">
 <!ENTITY  showCookies.accesskey         "צ">
+
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ">
 <!ENTITY  historyHeader.pre.accesskey      "F">
@@ -56,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "התחל אוטומטית את  &brandShortName; במצב גלישה פרטית">
-<!ENTITY  privateBrowsingAutoStart.accesskey "א">
+<!ENTITY  privateBrowsingPermanent.label "מצב גלישה פרטית קבוע">
+<!ENTITY  privateBrowsingPermanent.accesskey "מ">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "שמור את היסטורית הגלישה שלי למשך">
-<!ENTITY  rememberHistory.pre.accesskey  "ה">
-<!ENTITY  rememberHistory.post.label     "ימים לפחות">
+<!ENTITY  rememberHistory.label      "שמור את היסטורית הגלישה שלי">
+<!ENTITY  rememberHistory.accesskey  "ש">
 
 <!ENTITY  rememberDownload.label         "זכור היסטורית הורדות">
 <!ENTITY  rememberDownload.accesskey     "ז">

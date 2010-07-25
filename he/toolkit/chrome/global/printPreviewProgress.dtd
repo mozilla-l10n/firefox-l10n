@@ -1,4 +1,5 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "תצוגה לפני הדפסה"> 
+<!ENTITY title   "כותרת:"> 
 <!ENTITY preparing "מכין...">
-<!ENTITY printWindow.title "תצוגה לפני הדפסה">
 <!ENTITY progress "התקדמות:">
-<!ENTITY title "כותרת:">

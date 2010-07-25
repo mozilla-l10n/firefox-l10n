@@ -1,8 +1,12 @@
-<!ENTITY credit.title "&brandFullName; Credits">
-<!ENTITY brandMotto "Thunderbirds Are Go!">
-<!ENTITY credit.leads "מנהלי תכנון">
-
+<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
 <!ENTITY credit.thanks "תודה מיוחדת ל">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
 <!ENTITY credit.translation "<h3>תרגום</h3>
   <ul>
     <li>צחי אשר</li>
@@ -18,11 +22,6 @@
     <li>Prog</li>
     <li>אסף רומנו</li>
   </ul>">
-
-<!ENTITY credit.theme "עיצוב ערכת נושא">
-
-<!ENTITY credit.qa "בקרת איכות">
-<!ENTITY credit.build "בניה ושחרור">
 
 <!ENTITY credit.memory "In Fond Memory Of">
 <!ENTITY credit.poweredByGecko "מופעל על־ידי Gecko&trade;">

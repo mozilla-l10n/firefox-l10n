@@ -52,7 +52,6 @@
 
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY deleteAbCmd.label "מחק פנקס כתובות">
-<!-- ### ENTITY deleteCardCmd.label "מחק כרטיס" -->
 
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
@@ -116,12 +115,10 @@
 <!ENTITY newIM.accesskey "I">
 <!ENTITY deleteButton2.label                            "מחיקה">
 <!ENTITY deleteButton2.accesskey                        "מ">
-<!-- ### ENTITY deleteButton.label "מחק"-->
-<!-- ### ENTITY deleteButton.accesskey "D"-->
-<!-- ### ENTITY throbberItem.title "מחוון פעילות" -->
+
 <!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
 <!ENTITY newlistButton.tooltip "צור רשימה חדשה">
-<!-- ### ENTITY editButton.tooltip "ערוך את הכרטיס הנבחר" -->
+
 <!ENTITY editButton2.tooltip                            "עריכת הפריט הנבחר">
 <!ENTITY newmsgButton.tooltip "שלח הודעת דואר">
 <!ENTITY newIM.tooltip "שלח הודעה מיידית או צ׳אט">
@@ -180,7 +177,7 @@
 <!ENTITY minimizeWindow.label "מזער חלון">
 <!ENTITY bringAllToFront.label "הבא הכל לקידמה">
 <!ENTITY zoomWindow.label "הגדל חלון">
-<!-- ### ENTITY deleteCardsCmd2.label                          "מחק כרטיסים" -->
+
 <!ENTITY deleteItemsCmd.label                           "מחק פרטים">
 <!ENTITY deleteContactCmd.label                         "מחיקת איש קשר">
 <!ENTITY deleteContactsCmd.label                        "מחיקת אנשי קשר">

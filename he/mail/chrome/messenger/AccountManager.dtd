@@ -2,11 +2,15 @@
 
 <!ENTITY accountManagerTitle.label "הגדרות חשבון">
 
-<!ENTITY addAccountButton.label "הוסף חשבון…">
-<!ENTITY addAccountButton.accesskey "ה">
+<!ENTITY accountActionsButton.label "פעולות חשבון">
+<!ENTITY accountActionsButton.accesskey "פ">
+<!ENTITY addMailAccountButton.label "הוספת חשבון דואר…">
+<!ENTITY addMailAccountButton.accesskey "ס">
+<!ENTITY addOtherAccountButton.label "הוספת חשבון אחר…">
+<!ENTITY addOtherAccountButton.accesskey "א">
 <!ENTITY setDefaultButton.label "הגדר כברירת מחדל">
 <!ENTITY setDefaultButton.accesskey "ב">
-<!ENTITY removeButton.label "הסר חשבון">
+<!ENTITY removeButton.label "הסרת חשבון">
 <!ENTITY removeButton.accesskey "ס">
 
 <!-- AccountManager.xul -->
@@ -18,6 +22,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 58em; height: 44em;">
-<!-- ### ENTITY macAccountManager.size "width: 60em; height: 50em;" -->
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountManager.size "width: 97ch; height: 49em;">
+<!ENTITY accountTree.width "width: 31ch;">

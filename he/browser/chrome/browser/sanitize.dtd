@@ -53,7 +53,6 @@ that require it.  -->
 <!ENTITY itemSitePreferences.label         "העדפות אתר">
 <!ENTITY itemSitePreferences.accesskey     "ה">
 
-
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->

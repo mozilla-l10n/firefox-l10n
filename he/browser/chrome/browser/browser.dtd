@@ -11,6 +11,30 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
 
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Reload Tab">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  openTabInNewWindow.label           "Open in a New Window">
+<!ENTITY  openTabInNewWindow.accesskey       "W">
+<!ENTITY  pinTab.label                       "Make into App Tab">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Make into Normal Tab">
+<!ENTITY  unpinTab.accesskey                 "k">
+<!ENTITY  bookmarkThisTab.label              "Bookmark This Tab">
+<!ENTITY  bookmarkThisTab.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Close Tab">
+<!ENTITY  closeTab.accesskey                 "C">
+
+<!ENTITY  listAllTabs.label      "List all tabs">
+
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
 <!ENTITY tabCmd.commandkey "t">
@@ -28,6 +52,7 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "יבוא...">
 <!ENTITY import.accesskey "י">
+
 <!ENTITY goOfflineCmd.label "עבוד לא־מקוון">
 <!ENTITY goOfflineCmd.accesskey "ע">
 
@@ -40,6 +65,7 @@
 <!ENTITY bookmarksToolbarItem.label "פריטי סרגל כלים סימניות">
 <!ENTITY taskbarCmd.label "שורת מצב">
 <!ENTITY taskbarCmd.accesskey "ש">
+
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -59,6 +85,7 @@
 <!ENTITY fullScreenAutohide.accesskey "ה">
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
+
 <!ENTITY closeWindow.label "סגור חלון">
 <!ENTITY closeWindow.accesskey "ס">
 
@@ -73,36 +100,42 @@
 <!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
-<!ENTITY backCmd.label "אחורה">
-<!ENTITY backCmd.accesskey "ח">
-<!ENTITY backButton.tooltip "חזור דף אחד אחורה">
-<!ENTITY forwardCmd.label "קדימה">
-<!ENTITY forwardCmd.accesskey "ק">
-<!ENTITY forwardButton.tooltip "התקדם דף אחד קדימה">
+<!ENTITY backCmd.label                "אחורה">
+<!ENTITY backCmd.accesskey            "ח">
+<!ENTITY backButton.tooltip           "חזור דף אחד אחורה">
+<!ENTITY forwardCmd.label             "קדימה">
+<!ENTITY forwardCmd.accesskey         "ק">
+<!ENTITY forwardButton.tooltip        "התקדם דף אחד קדימה">
 <!ENTITY backForwardMenu.tooltip      "דפים אחרונים">
-<!ENTITY reloadCmd.label "טען מחדש">
-<!ENTITY reloadCmd.accesskey "ט">
-<!ENTITY reloadButton.tooltip "טען מחדש דף נוכחי">
-<!ENTITY stopCmd.label "עצור">
-<!ENTITY stopCmd.accesskey "צ">
-<!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "הפסק לטעון דף זה">
-<!ENTITY goEndCap.tooltip "עבור לכתובת שבסרגל המיקום">
+<!ENTITY reloadCmd.label              "טען מחדש">
+<!ENTITY reloadCmd.accesskey          "ט">
+<!ENTITY reloadButton.tooltip         "טען מחדש דף נוכחי">
+<!ENTITY stopCmd.label                "עצור">
+<!ENTITY stopCmd.accesskey            "צ">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "הפסק לטעון דף זה">
+<!ENTITY goEndCap.tooltip             "עבור לכתובת שבסרגל המיקום">
 <!ENTITY feedButton.tooltip           "הירשם לדף זה…">
-<!ENTITY printButton.label "הדפסה">
-<!ENTITY printButton.tooltip "הדפס דף זה">
-<!ENTITY locationItem.title "מיקום">
-<!ENTITY searchItem.title "חפש">
-<!ENTITY throbberItem.title "מחוון פעילות">
-<!ENTITY bookmarksItem.title "סימניות">
+<!ENTITY printButton.label            "הדפסה">
+<!ENTITY printButton.tooltip          "הדפס דף זה">
+
+<!ENTITY locationItem.title           "מיקום">
+<!ENTITY searchItem.title             "חפש">
+<!ENTITY throbberItem.title           "מחוון פעילות">
+<!ENTITY bookmarksItem.title          "סימניות">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label "דף הבית">
+<!ENTITY  homeButton.label            "דף הבית">
 
 <!ENTITY bookmarksButton.label          "סימניות">
 <!ENTITY bookmarksButton.tooltip        "מציג את הסימניות שלך">
 <!ENTITY bookmarksButton.accesskey  "ס">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bookmarks">
+<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
+<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
+<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -110,64 +143,84 @@
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label "היסטוריה">
-<!ENTITY historyButton.tooltip "מציג דפים שראית לאחרונה">
-<!ENTITY historySidebarCmd.accesskey "ה">
-<!ENTITY historySidebarCmd.commandKey "h">
-<!ENTITY toolsMenu.label "כלים">
-<!ENTITY toolsMenu.accesskey "כ">
-<!ENTITY keywordfield.label "הוסף מילת מפתח לחיפוש זה...">
-<!ENTITY keywordfield.accesskey "ס">
-<!ENTITY search.label "חיפוש באינטרנט">
-<!ENTITY search.accesskey "ח">
-<!ENTITY downloads.label "הורדות">
-<!ENTITY downloads.tooltip "מציג את התקדמות ההורדות הקיימות שלך">
-<!ENTITY downloads.accesskey "ד">
-<!ENTITY downloads.commandkey "j">
-<!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "תוספות">
-<!ENTITY addons.tooltip "הצג ונהל תוספות מותקנות">
-<!ENTITY addons.accesskey "ת">
-<!ENTITY errorConsoleCmd.label "מסוף שגיאות">
-<!ENTITY errorConsoleCmd.accesskey "ש">
+<!ENTITY historyButton.label            "היסטוריה">
+<!ENTITY historyButton.tooltip          "מציג דפים שראית לאחרונה">
+<!ENTITY historySidebarCmd.accesskey    "ה">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "כלים">
+<!ENTITY toolsMenu.accesskey          "כ"> 
+
+<!ENTITY keywordfield.label           "הוסף מילת מפתח לחיפוש זה...">
+<!ENTITY keywordfield.accesskey       "ס">
+<!ENTITY search.label                 "חיפוש באינטרנט">
+<!ENTITY search.accesskey             "ח">
+<!ENTITY downloads.label              "הורדות">
+<!ENTITY downloads.tooltip            "מציג את התקדמות ההורדות הקיימות שלך">
+<!ENTITY downloads.accesskey          "ד">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "תוספות">
+<!ENTITY addons.accesskey             "ת">
+
+<!ENTITY errorConsoleCmd.label        "מסוף שגיאות">
+<!ENTITY errorConsoleCmd.accesskey    "ש">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY fileMenu.label "קובץ">
-<!ENTITY fileMenu.accesskey "ק">
-<!ENTITY newNavigatorCmd.label "חלון חדש">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "ח">
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY editMenu.label "עריכה">
-<!ENTITY editMenu.accesskey "ע">
-<!ENTITY undoCmd.label "בטל">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ט">
-<!ENTITY redoCmd.label "בצע שוב">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "צ">
-<!ENTITY cutCmd.label "גזור">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ג">
-<!ENTITY copyCmd.label "העתק">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ת">
-<!ENTITY pasteCmd.label "הדבק">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "ה">
-<!ENTITY deleteCmd.label "מחק">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "ח">
-<!ENTITY selectAllCmd.label "בחר הכל">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ב">
-<!ENTITY preferencesCmd.label "אפשרויות...">
-<!ENTITY preferencesCmd.accesskey "א">
-<!ENTITY preferencesCmdUnix.label "העדפות">
-<!ENTITY preferencesCmdUnix.accesskey "ד">
+<!ENTITY inspectMenu.label            "Inspect">
+<!ENTITY inspectMenu.accesskey        "t">
+<!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY clearRecentHistoryCmd.label            "מחק היסטוריה אחרונה">
-<!ENTITY clearRecentHistoryCmd.accesskey        "ה">
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Style">
+
+<!ENTITY fileMenu.label         "קובץ"> 
+<!ENTITY fileMenu.accesskey       "ק">
+<!ENTITY newNavigatorCmd.label        "חלון חדש">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "ח">
+
+<!ENTITY editMenu.label         "עריכה"> 
+<!ENTITY editMenu.accesskey       "ע"> 
+<!ENTITY undoCmd.label            "בטל">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "ט"> 
+<!ENTITY redoCmd.label            "בצע שוב">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "צ"> 
+<!ENTITY cutCmd.label           "גזור">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "ג"> 
+<!ENTITY copyCmd.label            "העתק">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "ת"> 
+<!ENTITY pasteCmd.label           "הדבק">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "ה"> 
+<!ENTITY deleteCmd.label          "מחק">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "ח"> 
+<!ENTITY selectAllCmd.label         "בחר הכל">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "ב"> 
+<!ENTITY preferencesCmd.label       "אפשרויות...">
+<!ENTITY preferencesCmd.accesskey     "א"> 
+<!ENTITY preferencesCmdUnix.label       "העדפות">
+<!ENTITY preferencesCmdUnix.accesskey     "ד"> 
+
+<!ENTITY clearRecentHistory.label               "נקה היסטוריה אחרונה…">
+<!ENTITY clearRecentHistory.accesskey           "נ">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "התחל גלישה פרטית">
@@ -176,15 +229,17 @@
 <!ENTITY privateBrowsingCmd.stop.accesskey      "ג">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-
-<!ENTITY viewMenu.label "תצוגה">
-<!ENTITY viewMenu.accesskey "ת">
-<!ENTITY viewToolbarsMenu.label "סרגלי כלים">
-<!ENTITY viewToolbarsMenu.accesskey "ם">
+<!ENTITY viewMenu.label         "תצוגה"> 
+<!ENTITY viewMenu.accesskey       "ת"> 
+<!ENTITY viewToolbarsMenu.label       "סרגלי כלים"> 
+<!ENTITY viewToolbarsMenu.accesskey     "ם"> 
 <!ENTITY viewSidebarMenu.label "סרגל צד">
 <!ENTITY viewSidebarMenu.accesskey "ג">
-<!ENTITY viewCustomizeToolbar.label "התאמה אישית...">
-<!ENTITY viewCustomizeToolbar.accesskey "ה">
+<!ENTITY viewCustomizeToolbar.label       "התאמה אישית..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "ה">
+<!ENTITY viewTabsOnTop.label            "Tabs on Top">
+<!ENTITY viewTabsOnTop.accesskey        "T">
+
 <!ENTITY historyMenu.label "היסטוריה">
 <!ENTITY historyMenu.accesskey "ה">
 <!ENTITY historyUndoMenu.label "לשוניות שנסגרו לאחרונה">
@@ -193,156 +248,131 @@
 
 <!ENTITY historyHomeCmd.label "בית">
 <!ENTITY showAllHistoryCmd2.label "הצג את כל ההיסטוריה">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.accesskey "d">
-<!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
-<!ENTITY searchFocusUnix.commandkey "j">
-<!ENTITY openLinkCmd.label "פתח קישור בחלון חדש">
-<!ENTITY openLinkCmd.accesskey "ח">
-<!ENTITY openLinkCmdInTab.label "פתח קישור בלשונית חדשה">
-<!ENTITY openLinkCmdInTab.accesskey "ל">
-<!ENTITY openFrameCmd.label "פתח מסגרת בחלון חדש">
-<!ENTITY openFrameCmd.accesskey "ח">
-<!ENTITY openFrameCmdInTab.label "פתח מסגרת בלשונית חדשה">
-<!ENTITY openFrameCmdInTab.accesskey "ל">
-<!ENTITY showOnlyThisFrameCmd.label "הראה מסגרת זו בלבד">
-<!ENTITY showOnlyThisFrameCmd.accesskey "ה">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY reloadFrameCmd.label "טען מסגרת מחדש">
-<!ENTITY reloadFrameCmd.accesskey "ט">
-<!ENTITY viewPartialSourceForSelectionCmd.label "הצג קוד מקור של קטע נבחר">
-<!ENTITY viewPartialSourceForMathMLCmd.label "הצג קוד מקור MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "ה">
-<!ENTITY viewPageSourceCmd.label "הצג מקור הדף">
-<!ENTITY viewPageSourceCmd.accesskey "מ">
-<!ENTITY viewFrameSourceCmd.label "הצג מקור המסגרת">
-<!ENTITY viewFrameSourceCmd.accesskey "מ">
-<!ENTITY viewPageInfoCmd.label "הצג מידע אודות הדף">
-<!ENTITY viewPageInfoCmd.accesskey "ד">
-<!ENTITY viewFrameInfoCmd.label "הצג מידע אודות המסגרת">
-<!ENTITY viewFrameInfoCmd.accesskey "ד">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuPrintCmd.label "Print">
+<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuHelp.label "Help">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmdInTab.label       "פתח קישור בלשונית חדשה">
+<!ENTITY openLinkCmdInTab.accesskey   "ל">
+<!ENTITY openLinkCmd.label            "פתח קישור בחלון חדש">
+<!ENTITY openLinkCmd.accesskey        "ח">
+<!ENTITY openLinkCmdInCurrent.label     "פתח קישור">
+<!ENTITY openLinkCmdInCurrent.accesskey "פ">
+<!ENTITY openFrameCmdInTab.label      "פתח מסגרת בלשונית חדשה">
+<!ENTITY openFrameCmdInTab.accesskey  "ל">
+<!ENTITY openFrameCmd.label           "פתח מסגרת בחלון חדש">
+<!ENTITY openFrameCmd.accesskey       "ח">
+<!ENTITY showOnlyThisFrameCmd.label     "הראה מסגרת זו בלבד">
+<!ENTITY showOnlyThisFrameCmd.accesskey "ה">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "טען מסגרת מחדש">
+<!ENTITY reloadFrameCmd.accesskey     "ט">
+<!ENTITY viewPartialSourceForSelectionCmd.label "הצג קוד מקור של קטע נבחר">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "הצג קוד מקור MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "ה">
+<!ENTITY viewPageSourceCmd.label      "הצג מקור הדף">
+<!ENTITY viewPageSourceCmd.accesskey  "מ">
+<!ENTITY viewFrameSourceCmd.label     "הצג מקור המסגרת">
+<!ENTITY viewFrameSourceCmd.accesskey "מ">
+<!ENTITY viewPageInfoCmd.label        "הצג מידע אודות הדף">
+<!ENTITY viewPageInfoCmd.accesskey    "ד">
+<!ENTITY viewFrameInfoCmd.label       "הצג מידע אודות המסגרת">
+<!ENTITY viewFrameInfoCmd.accesskey   "ד">
 <!ENTITY reloadImageCmd.label         "טען מחדש תמונה">
 <!ENTITY reloadImageCmd.accesskey     "ת">
-
-<!ENTITY viewImageCmd.label "הצג תמונה">
-<!ENTITY viewImageCmd.accesskey "צ">
+<!ENTITY viewImageCmd.label           "הצג תמונה">
+<!ENTITY viewImageCmd.accesskey       "צ">
 <!ENTITY viewImageInfoCmd.label       "הצג מידע תמונה">
 <!ENTITY viewImageInfoCmd.accesskey   "מ">
-<!ENTITY viewBGImageCmd.label "הצג תמונת רקע">
-<!ENTITY viewBGImageCmd.accesskey "ת">
-
-
 <!ENTITY viewVideoCmd.label           "צפה בוידאו">
 <!ENTITY viewVideoCmd.accesskey       "צ">
-
-<!ENTITY setDesktopBackgroundCmd.label "קבע כתמונת רקע...">
-<!ENTITY setDesktopBackgroundCmd.accesskey "כ">
-
+<!ENTITY viewBGImageCmd.label         "הצג תמונת רקע">
+<!ENTITY viewBGImageCmd.accesskey     "ת">
+<!ENTITY setDesktopBackgroundCmd.label      "קבע כתמונת רקע...">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "כ">
 <!ENTITY bookmarkPageCmd2.label       "צור סימניה לדף זה">
 <!ENTITY bookmarkPageCmd2.accesskey   "ס">
 <!ENTITY bookmarkThisLinkCmd.label      "צור סימניה לקישור זה">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
 <!ENTITY bookmarkThisFrameCmd.label      "צור סימניה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
-
-<!ENTITY sendPageCmd.label "שלח דף...">
-<!ENTITY sendPageCmd.accesskey "ל">
-<!ENTITY savePageCmd.label "שמור דף בשם...">
-<!ENTITY savePageCmd.accesskey "ר">
-<!ENTITY savePageCmd.accesskey2 "ב">
-<!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "שמור מסגרת בשם...">
-<!ENTITY saveLinkCmd.label "שמור קישור בשם...">
-<!ENTITY saveLinkCmd.accesskey "מ">
-<!ENTITY sendLinkCmd.label "שלח קישור...">
-<!ENTITY sendLinkCmd.accesskey "ש">
-<!ENTITY saveImageCmd.label "שמור תמונה בשם...">
-<!ENTITY saveImageCmd.accesskey "ב">
-<!ENTITY sendImageCmd.label "שלח תמונה...">
-<!ENTITY sendImageCmd.accesskey "נ">
-<!ENTITY copyLinkCmd.label "העתק מיקום קישור">
-<!ENTITY copyLinkCmd.accesskey "ה">
-
-<!ENTITY copyLinkTextCmd.label        "העתק מלל קישור">
-<!ENTITY copyLinkTextCmd.accesskey    "מ">
-
-<!ENTITY copyImageCmd.label "העתק מיקום התמונה">
-<!ENTITY copyImageCmd.accesskey "ע">
-<!ENTITY copyImageContentsCmd.label "העתק תמונה">
-<!ENTITY copyImageContentsCmd.accesskey "ת">
-
-<!ENTITY copyVideoURLCmd.label        "העתק מיקום וידאו">
-<!ENTITY copyVideoURLCmd.accesskey    "ה">
-<!ENTITY copyAudioURLCmd.label        "העתק מיקום אודיו">
-<!ENTITY copyAudioURLCmd.accesskey    "ה">
-
-<!ENTITY blockImageCmd.accesskey "ס">
-<!ENTITY copyEmailCmd.label "העתק כתובת דוא״ל">
-<!ENTITY copyEmailCmd.accesskey "כ">
-<!ENTITY thisFrameMenu.label "מסגרת זו">
-<!ENTITY thisFrameMenu.accesskey "ג">
-
-<!ENTITY newTabButton.tooltip           "פתח לשונית חדשה">
-<!ENTITY newWindowButton.tooltip "פתח חלון חדש">
-<!ENTITY sidebarCloseButton.tooltip "סגור את סרגל הצד">
-<!ENTITY cutButton.tooltip "גזור">
-<!ENTITY copyButton.tooltip "העתק">
-<!ENTITY pasteButton.tooltip "הדבק">
-<!ENTITY fullScreenButton.tooltip       "מציג את החלון במסך מלא">
-<!ENTITY quitApplicationCmdWin.label "יציאה">
-<!ENTITY quitApplicationCmdWin.accesskey "צ">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label "יציאה">
-<!ENTITY quitApplicationCmd.accesskey "צ">
-<!ENTITY quitApplicationCmdMac.label "צא מ־&brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
-<!ENTITY closeCmd.label "סגור">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "ג">
-<!ENTITY pageStyleMenu.label "סגנון דף">
-<!ENTITY pageStyleMenu.accesskey "נ">
-<!ENTITY pageStyleNoStyle.label "ללא סגנון">
-<!ENTITY pageStyleNoStyle.accesskey "ל">
-<!ENTITY pageStylePersistentOnly.label "סגנון דף בסיסי">
-<!ENTITY pageStylePersistentOnly.accesskey "ס">
-<!ENTITY pageReportIcon.tooltip "שנה הגדרות חסימת חלונות קופצים עבור אתר זה ">
-<!ENTITY allowPopups.accesskey "ח">
-<!ENTITY editPopupSettingsUnix.label "ערוך העדפות חסימת חלונות קופצים...">
-<!ENTITY editPopupSettings.label "ערוך אפשרויות חסימת חלונות קופצים...">
-<!ENTITY editPopupSettings.accesskey "ע">
-<!ENTITY dontShowMessage.accesskey "א">
-<!ENTITY bidiSwitchPageDirectionItem.label "הפוך כיוון דף">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "פ">
-<!ENTITY bidiSwitchTextDirectionItem.label "הפוך כיוון כתיבה">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "כ">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-<!ENTITY findOnCmd.label "מצא בדף זה...">
-<!ENTITY findOnCmd.accesskey "מ">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "מצא שוב">
-<!ENTITY findAgainCmd.accesskey "ש">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY spellAddDictionaries.label "הוסף מילונים...">
-<!ENTITY spellAddDictionaries.accesskey "ה">
-
+<!ENTITY sendPageCmd.label            "שלח דף...">
+<!ENTITY sendPageCmd.accesskey        "ל">
+<!ENTITY savePageCmd.label            "שמור דף בשם...">
+<!ENTITY savePageCmd.accesskey        "ר">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "ב">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "שמור מסגרת בשם...">
 <!ENTITY saveFrameCmd.accesskey       "מ">
 <!ENTITY printFrameCmd.label          "הדפס מסגרת...">
 <!ENTITY printFrameCmd.accesskey      "ה">
-
+<!ENTITY saveLinkCmd.label            "שמור קישור בשם...">
+<!ENTITY saveLinkCmd.accesskey        "מ">
+<!ENTITY sendLinkCmd.label            "שלח קישור..."> 
+<!ENTITY sendLinkCmd.accesskey        "ש">
+<!ENTITY saveImageCmd.label           "שמור תמונה בשם...">
+<!ENTITY saveImageCmd.accesskey       "ב">
 <!ENTITY saveVideoCmd.label           "שמור וידאו בשם…">
 <!ENTITY saveVideoCmd.accesskey       "מ">
 <!ENTITY saveAudioCmd.label           "שמור אודיו בשם…">
 <!ENTITY saveAudioCmd.accesskey       "מ">
-
+<!ENTITY sendImageCmd.label           "שלח תמונה...">
+<!ENTITY sendImageCmd.accesskey       "נ">
 <!ENTITY sendVideoCmd.label           "שלח וידאו…">
 <!ENTITY sendVideoCmd.accesskey       "ל">
 <!ENTITY sendAudioCmd.label           "שלח אודיו…">
 <!ENTITY sendAudioCmd.accesskey       "ל">
-
+<!ENTITY copyLinkCmd.label            "העתק מיקום קישור">
+<!ENTITY copyLinkCmd.accesskey        "ה">
+<!ENTITY copyImageCmd.label           "העתק מיקום התמונה">
+<!ENTITY copyImageCmd.accesskey       "ע">
+<!ENTITY copyImageContentsCmd.label   "העתק תמונה">
+<!ENTITY copyImageContentsCmd.accesskey  "ת"> 
+<!ENTITY copyVideoURLCmd.label        "העתק מיקום וידאו">
+<!ENTITY copyVideoURLCmd.accesskey    "ה">
+<!ENTITY copyAudioURLCmd.label        "העתק מיקום אודיו">
+<!ENTITY copyAudioURLCmd.accesskey    "ה">
+<!ENTITY copyEmailCmd.label           "העתק כתובת דוא״ל">
+<!ENTITY copyEmailCmd.accesskey       "כ">
+<!ENTITY thisFrameMenu.label              "מסגרת זו">
+<!ENTITY thisFrameMenu.accesskey          "ג">
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "נגן">
@@ -357,6 +387,9 @@
 <!ENTITY mediaShowControls.accesskey "פ">
 <!ENTITY mediaHideControls.label     "הסתר פקדים">
 <!ENTITY mediaHideControls.accesskey "פ">
+<!ENTITY videoFullScreen.label       "מסך מלא">
+<!ENTITY videoFullScreen.accesskey   "מ">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -373,19 +406,76 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
 <!ENTITY fullZoomReduceCmd.accesskey    "ר">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 <!ENTITY fullZoomResetCmd.label         "איפוס">
 <!ENTITY fullZoomResetCmd.accesskey     "א">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
 <!ENTITY fullZoomToggleCmd.label        "שנה גודל טקסט בלבד">
 <!ENTITY fullZoomToggleCmd.accesskey    "ט">
 <!ENTITY fullZoom.label                 "מרחק מתצוגה">
 <!ENTITY fullZoom.accesskey             "ת">
-<!ENTITY editBookmark.done.label                      "סיום">
 
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY newTabButton.tooltip           "פתח לשונית חדשה">
+<!ENTITY newWindowButton.tooltip        "פתח חלון חדש">
+<!ENTITY sidebarCloseButton.tooltip     "סגור את סרגל הצד">
 
+<!ENTITY cutButton.tooltip              "גזור">
+<!ENTITY copyButton.tooltip             "העתק">
+<!ENTITY pasteButton.tooltip            "הדבק">
+<!ENTITY fullScreenButton.tooltip       "מציג את החלון במסך מלא">
+
+<!ENTITY quitApplicationCmdWin.label       "יציאה"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "צ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "יציאה"> 
+<!ENTITY quitApplicationCmd.accesskey   "צ">
+<!ENTITY quitApplicationCmdMac.label    "צא מ־&brandShortName;">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "סגור">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "ג">
+
+<!ENTITY pageStyleMenu.label "סגנון דף">
+<!ENTITY pageStyleMenu.accesskey "נ">
+<!ENTITY pageStyleNoStyle.label "ללא סגנון">
+<!ENTITY pageStyleNoStyle.accesskey "ל">
+<!ENTITY pageStylePersistentOnly.label "סגנון דף בסיסי">
+<!ENTITY pageStylePersistentOnly.accesskey "ס">
+
+<!ENTITY pageReportIcon.tooltip            "שנה הגדרות חסימת חלונות קופצים עבור אתר זה ">
+
+<!ENTITY allowPopups.accesskey "ח">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "ערוך העדפות חסימת חלונות קופצים...">
+<!ENTITY editPopupSettings.label "ערוך אפשרויות חסימת חלונות קופצים...">
+<!ENTITY editPopupSettings.accesskey "ע">
+<!ENTITY dontShowMessage.accesskey "א">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "הפוך כיוון דף">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "פ">
+<!ENTITY bidiSwitchTextDirectionItem.label        "הפוך כיוון כתיבה">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "כ">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "מצא בדף זה...">
+<!ENTITY findOnCmd.accesskey "מ">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "מצא שוב">
+<!ENTITY findAgainCmd.accesskey "ש">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "הוסף מילונים...">
+<!ENTITY spellAddDictionaries.accesskey "ה">
+
+<!ENTITY editBookmark.done.label                     "סיום">
 <!ENTITY editBookmark.cancel.label                   "ביטול">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 <!ENTITY editBookmark.undo.label                     "ביטול">
@@ -412,9 +502,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "לחץ לפתיחת חלון ההורדות">
 
-<!ENTITY urlbar.bookmarkhistory.emptyText "חיפוש בסימניות והיסטוריה">
-<!ENTITY urlbar.bookmark.emptyText    "חיפוש בסימניות">
-<!ENTITY urlbar.history.emptyText     "חיפוש בהיסטוריה">
-<!ENTITY urlbar.none.emptyText        "הכנס כתובת">
-
 <!ENTITY allTabs.filter.emptyText "חיפוש לשוניות">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Browser tabs">

@@ -46,7 +46,6 @@
 <!ENTITY popType.accesskey "P">
 
 <!ENTITY haveSmtp1.prefix "יעשה שימוש בשרת היוצא (SMTP) הנוכחי שלך, &quot;">
-<!-- ### ENTITY haveSmtp1.suffix "&quot;,. ניתן לשנות את הגדרות השרת היוצא על־ידי בחירה בהגדרות חשבון מהתפריט כלים." -->
 <!ENTITY haveSmtp1.suffix2 "&quot;. ניתן לשנות את הגדרות השרת היוצא בהגדרות החשבון.">
 
 <!ENTITY loginTitle.label "שמות משתמש">
@@ -58,11 +57,8 @@
 <!ENTITY usernameSmtpLabel.label "שם משתמש יוצא:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix "יעשה שימוש בשם המשתמש היוצא (SMTP) הנוכחי שלך, &quot;">
-<!-- ### ENTITY haveSmtp2.suffix "&quot;,. ניתן לשנות את הגדרות השרת היוצא על־ידי בחירה בהגדרות חשבון מהתפריט כלים." -->
 <!ENTITY haveSmtp2.suffix2 "&quot;. ניתן לשנות את הגדרות השרת היוצא בהגדרות החשבון.">
-
 <!ENTITY haveSmtp3.prefix "השרת היוצא (SMTP) שלך, &quot;">
-<!-- ### ENTITY haveSmtp3.suffix "&quot;, זהה לשרת הנכנס שלך; יעשה שימוש בשם המשתמש הנכנס שלך כדי לגשת אליו. ניתן לשנות את הגדרות השרת היוצא על־ידי בחירה בהגדרות חשבון מהתפריט כלים." -->
 <!ENTITY haveSmtp3.suffix2 "&quot;, זהה לשרת הנכנס שלך. שם המשתמש לדואר נכנס ישמש לגישה גם לשרת זה. באפשרותך לשנות את השרתים היוצאים בהגדרות החשבון.">
 
 <!-- Entities for Account name page -->
@@ -85,4 +81,4 @@
 <!ENTITY clickFinish.label "לחץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
 <!ENTITY deferStorage.accesskey "כ">
 <!ENTITY clickFinish.labelMac "לחץ על סיום כדי לשמור את ההגדרות הללו ולצאת מאשף החשבונות.">
-<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, יהיה בשימוש. ניתן שנות את השרתים היוצאים בהגדרות החשבון.">

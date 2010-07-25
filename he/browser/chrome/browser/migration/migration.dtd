@@ -1,42 +1,51 @@
-<!ENTITY migrationWizard.title "אשף היבוא">
-<!ENTITY importFrom.label "יבא אפשרויות, סימניות, היסטוריה, סיסמאות ונתונים נוספים מ:">
-<!ENTITY importFromUnix.label "יבא העדפות, סימניות, היסטוריה, סיסמאות ונתונים נוספים:">
-<!ENTITY importFromBookmarks.label "ייבא סימניות מ:">
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird או Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "אל תייבא דבר">
-<!ENTITY importFromNothing.accesskey "א">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 או Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
+
+<!ENTITY migrationWizard.title          "אשף היבוא">
+
+<!ENTITY importFrom.label               "יבא אפשרויות, סימניות, היסטוריה, סיסמאות ונתונים נוספים מ:">
+<!ENTITY importFromUnix.label           "יבא העדפות, סימניות, היסטוריה, סיסמאות ונתונים נוספים:">
+<!ENTITY importFromBookmarks.label      "ייבא סימניות מ:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird או Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "אל תייבא דבר">
+<!ENTITY importFromNothing.accesskey    "א">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 או Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
 <!ENTITY importFromHTMLFile.label       "מקובץ HTML">
 <!ENTITY importFromHTMLFile.accesskey   "ק">
-<!ENTITY noMigrationSources.label "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע סיסמאות.">
-<!ENTITY importSource.title "יבא נתונים והגדרות:">
-<!ENTITY importItems.title "פריטים ליבוא">
-<!ENTITY importItems.label "בחר אלו פריטים ליבא:">
-<!ENTITY migrating.title "מייבא...">
-<!ENTITY migrating.label "הפריטים הבאים מיובאים כעת...">
-<!ENTITY selectProfile.title "בחר פרופיל">
-<!ENTITY selectProfile.label "ניתן ליבא מהפרופילים הבאים:">
-<!ENTITY done.title "היבוא הושלם">
-<!ENTITY done.label "הפריטים הבאים יובאו בהצלחה:">
+
+<!ENTITY noMigrationSources.label       "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע סיסמאות.">
+
+<!ENTITY importSource.title             "יבא נתונים והגדרות:">
+<!ENTITY importItems.title              "פריטים ליבוא">
+<!ENTITY importItems.label              "בחר אלו פריטים ליבא:">
+
+<!ENTITY migrating.title                "מייבא...">
+<!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת...">
+
+<!ENTITY selectProfile.title            "בחר פרופיל">
+<!ENTITY selectProfile.label            "ניתן ליבא מהפרופילים הבאים:">
+
+<!ENTITY done.title                     "היבוא הושלם">
+<!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">
+

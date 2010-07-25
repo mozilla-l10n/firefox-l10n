@@ -1,32 +1,49 @@
-<!ENTITY welcome.description             "הגדרות חשבון מהירות">
-<!ENTITY autoconfigWizard.style          "width: 640px; height: 480px;">
-<!ENTITY name.description                "השם שלך">
-<!ENTITY email.description               "דואר אלקטרוני">
-<!ENTITY password.description            "סיסמה">
-
-<!ENTITY next.label                      "הבא &#187;">
-<!ENTITY next.accesskey                  "ב">
-<!ENTITY back.label                      "&#171; קודם">
-<!ENTITY back.accesskey                  "ק">
+<!ENTITY autoconfigWizard.title          "הגדרות חשבון דואר">
+<!ENTITY name.label                      "השם שלך:">
+<!ENTITY name.accesskey                  "ש">
+<!ENTITY name.emptytext                  "שם_פרטי שם_משפחה">
+<!ENTITY name.text                       "השם שלך, כפי שיוצג לאחרים">
+<!ENTITY email.label                     "כתובת דוא״ל:">
+<!ENTITY email.accesskey                 "ד">
+<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY password.label                  "סיסמה:">
+<!ENTITY password.accesskey              "ס">
+<!ENTITY password.emptytext              "Password">
+<!ENTITY password.text                   "רשות, ישמש לאימות שם המשתמש בלבד">
 
 <!ENTITY accountInformation.label        "פרטי חשבון">
-<!ENTITY username.label                  "שם משתמש">
-<!-- ### ENTITY receivingserver.label           "קבלה" -->
-<!-- ### ENTITY sendingserver.label             "שליחה" -->
-<!-- ### ENTITY noencryption.label              "ללא" -->
+<!ENTITY username2.label                  "שם משתמש:">
+<!ENTITY incoming.label                  "נכנס:">
+<!ENTITY outgoing.label                  "יוצא:">
+
+<!ENTITY noEncryption.label              "ללא">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - גישה לתיקיות והודעות ממספר מחשבים">
+<!ENTITY pop.description                 "POP - הורדה של כל ההודעות למחשב זה, תיקיות הן מקומיות בלבד">
+<!ENTITY recommended-appendix.label      "(מומלץ)">
 
-<!-- ### ENTITY gotoadvanced.label              "עבור להגדרות מתקדמות" -->
+<!ENTITY manualSetup.label               "הגדרה ידנית…">
+<!ENTITY manualSetup.accesskey           "י">
 <!ENTITY cancel.label                    "ביטול">
+<!ENTITY cancel.accesskey                "ב">
+<!ENTITY continue.label                  "המשך">
+<!ENTITY continue.accesskey              "ה">
+<!ENTITY startOver.label                 "התחל מחדש">
+<!ENTITY startOver.accesskey             "ח">
 <!ENTITY stop.label                      "עצור">
-<!-- ### ENTITY go_button.label                 "עבור" -->
+<!ENTITY stop.accesskey                  "ע">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "בדוק הגדרות">
+<!ENTITY retest.accesskey                "ב">
 <!ENTITY edit.label                      "עריכה">
-<!ENTITY createaccount.label             "צור חשבון">
+<!ENTITY edit.accesskey                  "ע">
 
 <!ENTITY rememberPassword.label          "זכור סיסמה">
 <!ENTITY rememberPassword.accesskey      "ז">
@@ -34,16 +51,14 @@
 <!ENTITY warning.label                   "זהירות!">
 <!ENTITY incomingSettings.label          "הגדרות שרת דואר נכנס:">
 <!ENTITY outgoingSettings.label          "הגדרות שרת דואר יוצא:">
-<!-- LOCALIZATION NOTE (confirmIncomingWarning.label): If there is a security
-     warning on the incoming server, then the user will need to check a
-     checkbox beside this text before continuing. -->
-<!ENTITY confirmIncomingWarning.label    "אני מבין את הסיכונים.">
-<!ENTITY confirmIncomingWarning.accesskey "מ">
-<!-- LOCALIZATION NOTE (confirmOutgoingWarning.label): If there is a security
+
+<!ENTITY technicaldetails.label          "פרטים טכנים">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmOutgoingWarning.label    "אני מבין את הסיכונים.">
-<!ENTITY confirmOutgoingWarning.accesskey "ב">
+<!ENTITY confirmWarning.label            "אני מבין את הסיכונים.">
+<!ENTITY confirmWarning.accesskey        "מ">
+
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -56,30 +71,13 @@
 <!ENTITY changeSettings.label            "שנה הגדרות">
 <!ENTITY changeSettings.accesskey        "ש">
 
-<!ENTITY warning.label                   "זהירות!">
-<!-- ### ENTITY incoming_settings.label         "הגדרות שרת נכנס:" -->
-<!-- ### ENTITY outgoing_settings.label         "הגדרות שרת יוצא:" -->
-<!-- ### ENTITY incoming_is_checked.label       "בדקתי פעמיים את הגדרות השרת הנכנס." -->
-<!-- ### ENTITY outgoing_is_checked.label       "בדקתי פעמיים את הגדרות השרת היוצא." -->
-<!-- ### ENTITY understood.label                "אני יודע מה אני עושה." -->
-<!-- ### ENTITY getmeout.label                  "זה מפחיד, קח אותי מפה." -->
+<!ENTITY contactYourProvider.description "&brandShortName; יכול לאפשר לך לקבל את הדואר שלך עם ההגדרות שסופקו. למרות זאת, כדאי שתיצור קשר עם המנהל שלך או עם ספק שירות הדוא״ל בנוגע לחיבורים לא תקינים אלו. אנא גש ל־Thunderbird FAQ למידע נוסף.">
 
-<!-- ### ENTITY lectureYourProvider.description "&brandShortName; יאפשר לך לקבל את הדואר שלך, אבל כדאי מאד לשכנע את ספק הדואר האלקטרוני שלך להגדיר את השרת עם חיבור מאובטח." -->
-<!-- ### ENTITY getcertinfo.label       "מידע נוסף לגבי אבטחת שרתי דואר אלקטרוני." -->
-<!-- ### ENTITY certinfo.url            "http://www.mozillamessaging.com/XXX/about/certs" -->
+<!ENTITY insecureServer.tooltip.title    "זהירות! זהו שרת לא מאובטח.">
+<!ENTITY insecureServer.tooltip.details  "לחץ על העיגול לפרטים נוספים.">
 
-<!-- ### ENTITY insecureCleartext.description   "זהירות! זהו שרת לא מאובטח. הודעות דואר אלקטרוני ישלחו באופן חשוף, כך שהדואר האלקטרוני שלך יוכל להיקרא על־ידי פורצים וכו'. &brandShorName; יאפשר לך לקבל את הדואר שלך, אבל כדאי מאד לשכנע את ספק הדואר האלקטרוני שלך להגדיר את השרת עם חיבור מאובטח.." -->
-<!-- ### ENTITY insecureSelfsigned.description  "זהירות! זהו שרת לא מובטח. השרת משתמש באישור אבטחה שאינו נסמך, ואיננו יכולים להיות בטוחים שאף־אחד לא מיירט תעבורה בין &brandShortName; והשרת שלך. &brandShortName; יאפשר לך לקבל את הדואר שלך, אבל כדאי מאד לשכנע את ספק הדואר האלקטרוני שלך להגדיר את השרת עם אישור אבטחה נסמך." -->
+<!ENTITY insecureUnencrypted.description "הדואר האלקטרוני וההזדהות שלך נשלחים באופן לא מוצפן, כך שהסיסמה שלך (וגם ההודעות) יכולות להיקרא בקלות על־ידי אנשים אחרים. brandShortName; יאפשר לך לקבל את הדואר שלך, אבל רצוי ליצור קשר עם ספק הדוא״ל שלך כדי שיגדיר חיבור מאובטח לשרת.">
+
+<!ENTITY insecureSelfSigned.description  "השרת משתמש באישור שאינו נסמך, ואיננו יכולים להיות בטוחים שאף־אחד לא מיירט את התעבורה בין &brandShortName; והשרת שלך. &brandShortName; יאפשר לך לקבל את הדואר שלך, אבל מומלץ שתפנה לספק הדואל שלך ותבקש ממנו להגדיר את השרת עם אישור אבטחה נסמך.">
+
 <!ENTITY secureServer.description        "איחולים! זהו שרת מאובטח.">
-
-<!-- ### ENTITY customfields-header.label     "מידע נוסף" -->
-<!-- ### ENTITY customfields-intro1.descr     "לספק הדואר שלך קיים מידע נוסף לצורך הגדרת החשבון שלך." -->
-<!-- ### ENTITY customfields-intro2.descr     "בבקשה הבט במידע עם פרטי החשבון כפי שהתקבל בנייר או בדואר אלקטרוני ונשלח אליך, בדרך־כלל בעת ההרשמה שם, והכנס אותו כאן." -->
-<!-- ### ENTITY customfields-cancel.label     "חזרה" -->
-<!-- ### ENTITY customfields-ok.label         "אישור" -->
-
-<!-- ### ENTITY enableURLs-header.label       "אפשר חשבון עבור &brandShortName;" -->
-<!-- ### ENTITY enableURLs-intro1.descr       "הספק שלך מבקש שתבצע מספר פעולות נוספות לצורך הפעלתת החשבון שלך לשימוש עם &brandShortName;." -->
-<!-- ### ENTITY enableURLs-intro2.descr       "בבקשה בקר בדפים הבאים, היכנס לחשבונך במידה וותתבקש, ואז בצע את הפעולות המצויינות בהמשך או בדף." -->
-<!-- ### ENTITY enableURLs-cancel.label       "חזרה" -->
-<!-- ### ENTITY enableURLs-ok.label           "סיימתי" -->

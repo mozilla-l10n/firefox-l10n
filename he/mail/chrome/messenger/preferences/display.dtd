@@ -15,13 +15,8 @@
 <!ENTITY color.label "צבע:">
 <!ENTITY color.accesskey "צ">
 <!ENTITY displayWidth.label "הודעות טקסט פשוט">
-<!ENTITY plainText.label "השתמש בגופן הבא:">
-<!ENTITY displayText.label "בעת הצגת הודעות טקסט פשוט מצוטט:">
 
-<!ENTITY fixedWidth.label "גופן בעל רוחב קבוע">
-<!ENTITY fixedWidth.accesskey "ח">
-<!ENTITY variableWidth.label "גופן בעל רוחב משתנה">
-<!ENTITY variableWidth.accesskey "מ">
+<!ENTITY displayText.label "בעת הצגת הודעות טקסט פשוט מצוטט:">
 
 <!ENTITY colors.label "צבעים">
 <!ENTITY overrideColors.label "בהצגת הודעות, השתמש בצבעים הבאים:">
@@ -38,7 +33,12 @@
 <!ENTITY editTagButton.accesskey "ע">
 <!ENTITY removeTagButton.label "מחק">
 <!ENTITY removeTagButton.accesskey "מ">
-<!ENTITY fontAndEncodingsDescription.label "הגדר את הגופנים והקידודים שבשימוש על־ידי &brandShortName;">
-<!ENTITY fontsAndEncodingsCaption.label "גופנים וקידודים">
-<!ENTITY fontOptions.accesskey "ג">
-<!ENTITY fontOptions.label "גופנים...">
+
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label    "גופנים">
+<!ENTITY defaultFont.label       "גופן ברירת מחדל:">
+<!ENTITY defaultFont.accesskey   "ב">
+<!ENTITY defaultSize.label       "גודל:">
+<!ENTITY defaultSize.accesskey   "ג">
+<!ENTITY fontOptions.accesskey "מ">
+<!ENTITY fontOptions.label "מתקדם...">

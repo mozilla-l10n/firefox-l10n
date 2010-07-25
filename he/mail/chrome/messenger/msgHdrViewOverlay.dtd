@@ -1,20 +1,39 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
 
-<!ENTITY openAttachmentCmd.label "פתח">
-<!ENTITY openAttachmentCmd.accesskey "פ">
-<!ENTITY saveAsAttachmentCmd.label "שמור בשם...">
-<!ENTITY saveAsAttachmentCmd.accesskey "ש">
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
 
-<!ENTITY detachAttachmentCmd.label "נתק ...">
-<!ENTITY deleteAttachmentCmd.label "מחק">
-<!ENTITY saveAllAttachmentsCmd.label "שמור הכל..">
-<!ENTITY saveAllAttachmentsCmd.accesskey "מ">
-<!ENTITY detachAllAttachmentsCmd.label "נתק הכל...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "נ">
-<!ENTITY deleteAllAttachmentsCmd.label "מחק הכל...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "ח">
-<!ENTITY copyLinkCmd.label "העתק מיקום קישור">
-<!ENTITY copyLinkCmd.accesskey "ק">
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY toField2.label "אל ">
 <!ENTITY fromField2.label "מאת ">
@@ -36,28 +55,65 @@
 <!ENTITY inReplyToField2.label "תגובה של ">
 <!ENTITY originalWebsite2.label "אתר ">
 
+<!ENTITY editMessageDescription.label "זוהי הודעת טיוטא">
+<!ENTITY editMessageButton.label "עריכה…">
+<!ENTITY hdrArchiveButton.label "העבר לארכיון">
+<!ENTITY hdrArchiveButton.tooltip "העברת הודעה זו לארכיון">
+<!ENTITY hdrReplyButton.label "הגב">
+<!ENTITY hdrReplyButton.tooltip "שליחת תגובה להודעה זו">
+<!ENTITY hdrReplyAllButton.label "הגב לכולם">
+<!ENTITY hdrReplyAllButton.tooltip "שליחת תגובה לשולח ולכל הנמענים">
+<!ENTITY hdrReplyListButton.label "הגב לרשימה">
+<!ENTITY hdrReplyListButton.tooltip "שליחת תגובה לרשימת התפוצה">
+<!ENTITY hdrForwardButton.label "העבר">
+<!ENTITY hdrForwardButton.tooltip "העברת הודעה זו לנמענים">
+<!ENTITY hdrJunkButton.label "זבל">
+<!ENTITY hdrJunkButton.tooltip "סימון הודעה זו כזבל">
+<!ENTITY hdrTrashButton.label "מחיקה">
+<!ENTITY hdrTrashButton.tooltip "מחיקת הודעה זו">
+
+<!ENTITY hdrViewToolbarShowFull.label "הצג צלמיות וטקסט">
+<!ENTITY hdrViewToolbarShowFull.accesskey "ו">
+<!ENTITY hdrViewToolbarShowIcons.label "הצג צלמיות בלבד">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "צ">
+<!ENTITY hdrViewToolbarShowText.label "הצג טקסט בלבד">
+<!ENTITY hdrViewToolbarShowText.accesskey "ט">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "הצג תמיד כפתור תגובה לשולח">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ש">
+
 <!ENTITY otherActionsButton.label "פעולות אחרות">
+<!ENTITY otherActionsOpenConversation.label "פתח בדיון">
+<!ENTITY otherActionsOpenConversation.accesskey "ד">
+<!ENTITY otherActionsOpenInNewWindow.label "פתח בחלון חדש">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "ח">
+<!ENTITY otherActionsOpenInNewTab.label "פתח בלשונית חדשה">
+<!ENTITY otherActionsOpenInNewTab.accesskey "ל">
+<!ENTITY markAsReadMenuItem.label "סמן כנקרא">
+<!ENTITY markAsReadMenuItem.accesskey "נ">
+<!ENTITY markAsUnreadMenuItem.label "סמן כלא נקרא">
+<!ENTITY markAsUnreadMenuItem.accesskey "ל">
 <!ENTITY saveAsMenuItem.label "שמור בשם…">
 <!ENTITY saveAsMenuItem.accesskey "ש">
 <!ENTITY viewSourceMenuItem.label "הצג מקור…">
 <!ENTITY viewSourceMenuItem.accesskey "מ">
+<!ENTITY otherActionsPrint.label "הדפסה…">
+<!ENTITY otherActionsPrint.accesskey "ה">
 
-<!ENTITY hideDetailsButton.label "הסתר פרטים">
-<!ENTITY showDetailsButton.label "הצג פרטים">
+<!ENTITY openAttachmentCmd.label    "פתח">
+<!ENTITY openAttachmentCmd.accesskey    "פ">
+<!ENTITY saveAsAttachmentCmd.label    "שמור בשם…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "ש">
+<!ENTITY detachAttachmentCmd.label    "נתק …">
+<!ENTITY deleteAttachmentCmd.label    "מחק">
+<!ENTITY saveAllAttachmentsCmd.label    "שמור הכל…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "מ">
+<!ENTITY detachAllAttachmentsCmd.label   "נתק הכל…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "נ">
+<!ENTITY deleteAllAttachmentsCmd.label  "מחק הכל…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "ח">
 
-<!ENTITY editMessageDescription.label "זוהי הודעת טיוטא">
-<!ENTITY editMessageButton.label "עריכה…">
-<!ENTITY archiveButton.label "ארכיון">
-
-<!ENTITY hdrReplyButton.label "הגב">
-<!ENTITY hdrReplyAllButton.label "הגב לכולם">
-<!ENTITY hdrForwardButton.label "העבר">
-<!ENTITY hdrJunkButton.label "זבל">
-
-<!--###ENTITY replyButton.label "תגובה…"-->
-<!--###ENTITY forwardButton.label "העבר…"-->
-<!--###ENTITY junkButton.label "סמן בתור זבל"-->
-<!ENTITY trashButton.tooltiptext "מחק">
+<!ENTITY copyLinkCmd.label     "העתק מיקום קישור">
+<!ENTITY copyLinkCmd.accesskey "ק">
 
 <!ENTITY CopyMessageId.label "העתק מזהה הודעה">
 <!ENTITY OpenMessageForMsgId.label "פתח הודעה לפי מזהה">

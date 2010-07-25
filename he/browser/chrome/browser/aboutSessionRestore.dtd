@@ -1,10 +1,9 @@
- <!ENTITY restorepage.tabtitle       "שחזור הפעלה">
+<!ENTITY restorepage.tabtitle       "שחזור הפעלה">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "טוב, זה מביך.">
-<!ENTITY restorepage.problemDesc   
- "ל־&brandShortName; יש בעיות בשחזור החלונות והלשוניות שלך. דבר זה קורה לרוב בעקבות לשונית שפתחת לאחרונה.">
+<!ENTITY restorepage.problemDesc    "ל־&brandShortName; יש בעיות בשחזור החלונות והלשוניות שלך. דבר זה קורה לרוב בעקבות לשונית שפתחת לאחרונה.">
 <!ENTITY restorepage.tryThis        "באפשרותך לנסות:">
 <!ENTITY restorepage.restoreSome    "להסיר אחת או יותר לשוניות שייתכן וגורמות לבעיה">
 <!ENTITY restorepage.startNew       "להתחיל גלישה חדשה לחלוטין">

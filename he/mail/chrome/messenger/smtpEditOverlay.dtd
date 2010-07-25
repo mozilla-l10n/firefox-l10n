@@ -6,28 +6,15 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "שער:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "השתמש בשם וסיסמה">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "שם משתמש:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "השתמש בהזדהות מאובטחת">
-<!ENTITY useSecAuth.accesskey "מ">
-<!--###ENTITY isSecure.label "השתמש בקשר מאובטח:"-->
-<!--###ENTITY neverSecure.label "לא"-->
-<!--###ENTITY neverSecure.accesskey "ל"-->
-<!--###ENTITY sometimesSTARTTLS.label "STARTTLS, במידה וזמין"-->
-<!--###ENTITY sometimesSTARTTLS.accesskey "ז"-->
-<!--###ENTITY alwaysSTARTTLS.label "STARTTLS"-->
-<!--###ENTITY alwaysSTARTTLS.accesskey "T"-->
-<!--###ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL"-->
-<!--###ENTITY alwaysSMTPOverSSL.accesskey "L"-->
-
 <!ENTITY connectionSecurity.label "אבטחת קישוריות:">
 <!ENTITY connectionSecurity.accesskey "ק">
 <!ENTITY connectionSecurityType-0.label "ללא">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, במידה וזמין">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-
 <!ENTITY smtpEditTitle.label "SMTP שרת">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
+<!ENTITY authMethod.label "צורת ההזדהות:">
+<!ENTITY authMethod.accesskey "ה">

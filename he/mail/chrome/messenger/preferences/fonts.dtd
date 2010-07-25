@@ -1,21 +1,26 @@
-<!ENTITY fontsAndEncodingsDialog.title "גופנים וקידודים">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
-<!ENTITY language.label "גופנים עבור:">
-<!ENTITY language.accesskey "ע">
+<!ENTITY  fontsAndEncodingsDialog.title           "גופנים וקידודים">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY sizes.label "גודל (פיקסלים)">
-<!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY  language.label                          "גופנים עבור:">
+<!ENTITY  language.accesskey                      "ע">
+
+
+<!ENTITY  size.label                              "גודל:">
+<!ENTITY  proportionalSize.accesskey              "י">
+<!ENTITY  sizeMono.accesskey                      "ק">
+
+
 <!ENTITY proportional.label "יחסי:">
 <!ENTITY proportional.accesskey "P">
+
 <!ENTITY serif.label "סריף:">
 <!ENTITY serif.accesskey "ס">
 <!ENTITY sans-serif.label "סאן־סריף:">
 <!ENTITY sans-serif.accesskey "ר">
 <!ENTITY monospace.label "רוחב קבוע:">
-<!ENTITY monospace.accesskey "ב">
+<!ENTITY monospace.accesskey                     "ב">
 
 <!ENTITY font.langGroup.latin1 "מערבי">
 <!ENTITY font.langGroup.latin2 "מרכז אירופי">
@@ -42,16 +47,22 @@
 <!ENTITY font.langGroup.georgian "גיאורגית">
 <!ENTITY font.langGroup.gujarati "Gujarati">
 <!ENTITY font.langGroup.gurmukhi "Gurmukhi">
-<!ENTITY font.langGroup.khmer "Khmer">
-<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY font.langGroup.khmer "חמר">
+<!ENTITY font.langGroup.malayalam "מליאלאם">
 <!ENTITY minSize.label "גודל גופן מינימלי:">
 <!ENTITY minSize.accesskey "ג">
 <!ENTITY minSize.none "ללא">
 <!ENTITY useDefaultFontSerif.label "סריף">
 <!ENTITY useDefaultFontSansSerif.label "סאן־סריף">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "בקרת גופנים">
+<!ENTITY  useFixedWidthForPlainText.label         "השתמש בגופן בעל רוחב קבוע להודעות טקסט">
+<!ENTITY  fixedWidth.accesskey                    "ק">
 <!ENTITY useDocumentFonts.label "אפשר להודעות לבחור את הגופנים שלהם">
 <!ENTITY useDocumentFonts.accesskey "א">
+
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "דואר יוצא:">
 <!ENTITY sendDefaultCharset.accesskey "צ">
 <!ENTITY languagesTitle1.label "קידודי תווים">

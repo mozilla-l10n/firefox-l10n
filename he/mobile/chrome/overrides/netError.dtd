@@ -50,11 +50,17 @@
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "מצב לא־מקוון">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
+to pickup this string change. Please update netOffline.longDesc too -->
+
+<!ENTITY netOffline2.longDesc "
 <ul>
-  <li>הסר את הסימון מ־&quot;עבוד לא־מקוון&quot; בתפריט קובץ, ונסה שוב.</li>
-</ul>">
+  <li>נסה שוב. &brandShortName; ינסה לפתוח חיבור ולטעון מחדש את הדף.</li>
+</ul>
+">
+
+<!ENTITY netOffline.title "מצב לא־מקוון">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
@@ -110,7 +116,7 @@
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>וודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
-  <li>ייתן וההגדרות השרת אינן תקניות</li>
+  <li>ייתכן וההגדרות השרת אינן תקניות</li>
 </ul>
 ">
 

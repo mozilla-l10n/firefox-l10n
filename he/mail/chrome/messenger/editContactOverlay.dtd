@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "מחיקה">
+<!ENTITY editContactPanelDeleteContact.accesskey "מ">
+
 <!ENTITY editContactName.label "שם:">
 <!ENTITY editContactName.accesskey "ש">
 

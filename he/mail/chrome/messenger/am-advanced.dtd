@@ -19,6 +19,5 @@
 <!ENTITY serverName.label "שם השרת: ">
 <!ENTITY serverPort.label "שער: ">
 <!ENTITY userName.label "שם משתמש: ">
-<!--###ENTITY useSecureConnection.label "קשר מאובטח: "-->
 <!ENTITY connectionSecurity.label "קישור מאובטח: ">
-<!ENTITY useSecureAuthentication.label   "אימות מאובטח: ">
+<!ENTITY authMethod.label   "צורת אימות: ">

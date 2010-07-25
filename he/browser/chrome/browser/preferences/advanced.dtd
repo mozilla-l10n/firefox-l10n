@@ -13,25 +13,28 @@
 
 <!ENTITY browsing.label                  "דפדוף">
 
-<!ENTITY useAutoScroll.label "השתמש בגלילה אוטומטית">
-<!ENTITY useAutoScroll.accesskey "ב">
-<!ENTITY useSmoothScrolling.label "השתמש בגלילה חלקה">
-<!ENTITY useSmoothScrolling.accesskey "ח">
+<!ENTITY useAutoScroll.label             "השתמש בגלילה אוטומטית">
+<!ENTITY useAutoScroll.accesskey         "ב">
+<!ENTITY useSmoothScrolling.label        "השתמש בגלילה חלקה">
+<!ENTITY useSmoothScrolling.accesskey    "ח">
+<!ENTITY checkSpelling.label             "בדוק איות בזמן שאני מקליד">
+<!ENTITY checkSpelling.accesskey         "א">
 
-<!ENTITY checkSpelling.label "בדוק איות בזמן שאני מקליד">
-<!ENTITY checkSpelling.accesskey "א">
-
+<!ENTITY systemDefaults.label            "ברירות מחדל">
+<!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "ת">
+<!ENTITY checkNow.label                  "בדוק כעת">
+<!ENTITY checkNow.accesskey              "כ">
 <!ENTITY submitCrashes.label             "שלח דיווחי קריסה">
 <!ENTITY submitCrashes.accesskey         "ש">
 
+<!ENTITY networkTab.label                "רשת">
 
-<!ENTITY networkTab.label "רשת">
+<!ENTITY connection.label                "קישוריות">
 
-<!ENTITY connection.label "קישוריות">
-
-<!ENTITY connectionDesc.label "הגדר כיצד &brandShortName; מתחבר לאינטרנט">
-<!ENTITY connectionSettings.label "הגדרות...">
-<!ENTITY connectionSettings.accesskey "ה">
+<!ENTITY connectionDesc.label            "הגדר כיצד &brandShortName; מתחבר לאינטרנט">
+<!ENTITY connectionSettings.label        "הגדרות...">
+<!ENTITY connectionSettings.accesskey    "ה">
 
 <!ENTITY offlineStorage.label            "אחסון לא מקוון">
 
@@ -41,29 +44,30 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label "השתמש בעד">
-<!ENTITY useCacheBefore.accesskey "ב">
-<!ENTITY useCacheAfter.label 'מ"ב שטח דיסק עבור המטמון'>
+<!ENTITY useCacheBefore.label            "השתמש בעד">
+<!ENTITY useCacheBefore.accesskey        "ב">
+<!ENTITY useCacheAfter.label             "מ"ב שטח דיסק עבור המטמון">
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
+<!ENTITY clearCacheNow.accesskey         "מ">
 
-<!ENTITY updateTab.label "עדכון">
+<!ENTITY updateTab.label                 "עדכון">
 
-<!ENTITY autoCheck.label "בדוק אוטומטית אם ישנם עדכונים עבור:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY autoCheck.label                 "בדוק אוטומטית אם ישנם עדכונים עבור:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "&">
 <!ENTITY enableAddonsUpdate2.label       "תוספות">
 <!ENTITY enableAddonsUpdate2.accesskey   "ת">
-<!ENTITY enableSearchUpdate.label "מנועי חיפוש">
-<!ENTITY enableSearchUpdate.accesskey "מ">
-<!ENTITY whenUpdatesFound.label "כאשר נמצאים עדכונים עבור &brandShortName;:">
-<!ENTITY askMe.label "שאל אותי מה לעשות">
-<!ENTITY askMe.accesskey "ש">
-<!ENTITY modeAutomatic.label "הורד והתקן את העדכון אוטומטית">
-<!ENTITY modeAutomatic.accesskey "ע">
-<!ENTITY modeAutoAddonWarn.label "הזהר אותי אם זה ינטרל תוספת כלשהי">
-<!ENTITY modeAutoAddonWarn.accesskey "נ">
-<!ENTITY updateHistory.label "הצג היסטורית עדכונים">
-<!ENTITY updateHistory.accesskey "צ">
+<!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
+<!ENTITY enableSearchUpdate.accesskey    "מ">
+<!ENTITY whenUpdatesFound.label          "כאשר נמצאים עדכונים עבור &brandShortName;:">
+<!ENTITY askMe.label                     "שאל אותי מה לעשות">
+<!ENTITY askMe.accesskey                 "ש">
+<!ENTITY modeAutomatic.label             "הורד והתקן את העדכון אוטומטית">
+<!ENTITY modeAutomatic.accesskey         "ע">
+<!ENTITY modeAutoAddonWarn.label         "הזהר אותי אם זה ינטרל תוספת כלשהי">
+<!ENTITY modeAutoAddonWarn.accesskey     "נ">
+<!ENTITY updateHistory.label             "הצג היסטורית עדכונים">
+<!ENTITY updateHistory.accesskey         "צ">
 
 <!ENTITY offlineNotify.label             "דווח לי כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
 <!ENTITY offlineNotify.accesskey         "ד">
@@ -76,34 +80,24 @@
 <!ENTITY offlineAppsListRemove.accesskey "ה">
 <!ENTITY offlineAppRemove.confirm        "הסר נתונים לא מקוונים">
 
-<!ENTITY encryptionTab.label "הצפנה">
+<!ENTITY encryptionTab.label             "הצפנה">
 
-<!ENTITY protocols.label "פרוטוקולים">
-<!ENTITY useSSL3.label "השתמש ב־SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "השתמש ב־TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "אישורים">
+<!ENTITY protocols.label                 "פרוטוקולים">
+<!ENTITY useSSL3.label                   "השתמש ב־SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "השתמש ב־TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "אישורים">
 <!ENTITY certSelection.description       "כאשר שרת מבקש את האישור האישי שלי:">
-<!ENTITY certs.auto "בחר באחד אוטומטית">
-<!ENTITY certs.auto.accesskey "ב">
-<!ENTITY certs.ask "שאל אותי בכל פעם">
-<!ENTITY certs.ask.accesskey "ש">
-<!ENTITY viewCerts.label "הצג אישורים">
-<!ENTITY viewCerts.accesskey "צ">
-<!ENTITY viewCRLs.label "רשימות ביטולים">
-<!ENTITY viewCRLs.accesskey "ר">
-
+<!ENTITY certs.auto                      "בחר באחד אוטומטית">
+<!ENTITY certs.auto.accesskey            "ב">
+<!ENTITY certs.ask                       "שאל אותי בכל פעם">
+<!ENTITY certs.ask.accesskey             "ש">
+<!ENTITY viewCerts.label                 "הצג אישורים">
+<!ENTITY viewCerts.accesskey             "צ">
+<!ENTITY viewCRLs.label                  "רשימות ביטולים">
+<!ENTITY viewCRLs.accesskey              "ר">
 <!ENTITY verify2.label                   "אימות">
 <!ENTITY verify2.accesskey               "א">
-
-<!ENTITY viewSecurityDevices.label "התקני אבטחה">
-<!ENTITY viewSecurityDevices.accesskey "ה">
-
-<!ENTITY systemDefaults.label            "ברירות מחדל">
-<!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "ת">
-<!ENTITY checkNow.label                  "בדוק כעת">
-<!ENTITY clearCacheNow.accesskey         "מ">
-
-<!ENTITY checkNow.accesskey              "כ">
+<!ENTITY viewSecurityDevices.label       "התקני אבטחה">
+<!ENTITY viewSecurityDevices.accesskey   "ה">

@@ -1,9 +1,9 @@
-<!ENTITY center.label "מרכז">
-<!ENTITY closeWindow.key "w">
-<!ENTITY color.label "צבע:">
-<!ENTITY openDesktopPrefs.label "פתח מאפייני שולחן עבודה">
-<!ENTITY position.label "מיקום:">
-<!ENTITY preview.label "תצוגה מקדימה">
+<!ENTITY position.label             "מיקום:">
+<!ENTITY tile.label                 "פרוש">
+<!ENTITY center.label               "מרכז">
+<!ENTITY stretch.label              "מתוח">
+<!ENTITY preview.label              "תצוגה מקדימה">
+<!ENTITY color.label                "צבע:">
 <!ENTITY setDesktopBackground.title "קבע כרקע שולחן העבודה">
-<!ENTITY stretch.label "מתוח">
-<!ENTITY tile.label "פרוש">
+<!ENTITY openDesktopPrefs.label     "פתח מאפייני שולחן עבודה">
+<!ENTITY closeWindow.key            "w">

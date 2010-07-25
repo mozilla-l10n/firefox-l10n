@@ -1,40 +1,58 @@
-<!ENTITY dontShowPrivacyStatement.accesskey "מ">
-<!ENTITY dontShowPrivacyStatement.label "קראתי את מדיניות הפרטיות שלעיל והסכמתי לה.">
-<!ENTITY finish.label "דיווח נשלח">
-<!ENTITY privacyNotice.label "מדיניות פרטיות">
-<!ENTITY reportForm.behind_login.accesskey "מ">
-<!ENTITY reportForm.behind_login.title "האתר מוגן באמצעות סיסמה">
-<!ENTITY reportForm.describe.accesskey "ת">
-<!ENTITY reportForm.describe.title "תיאור הבעיה:">
-<!ENTITY reportForm.description "ספר לנו קצת אודות הבעיה בה נתקלת:">
-<!ENTITY reportForm.email.accesskey "ד">
-<!ENTITY reportForm.email.title "דוא״ל (אופציונלי):">
-<!ENTITY reportForm.gecko.title "ג'קו:">
-<!ENTITY reportForm.label "מלא טופס דיווח">
-<!ENTITY reportForm.language.title "שפה:">
-<!ENTITY reportForm.platform.title "מערכת:">
-<!ENTITY reportForm.privacyPolicy.title "מדיניות פרטיות">
-<!ENTITY reportForm.privacyPolicy.tooltip "הצג מדיניות פרטיות">
-<!ENTITY reportForm.problem_type.accesskey "ס">
-<!ENTITY reportForm.problem_type.chooseOne.title "בחר ...">
-<!ENTITY reportForm.problem_type.item1.title "הדפדפן אינו נתמך">
-<!ENTITY reportForm.problem_type.item2.title "אין אפשרות להתחבר">
-<!ENTITY reportForm.problem_type.item3.title "תוסף אינו מוצג">
-<!ENTITY reportForm.problem_type.item4.title "תוכן אחר חסר">
-<!ENTITY reportForm.problem_type.item5.title "התנהגות שגויה">
-<!ENTITY reportForm.problem_type.item6.title "תצוגה שגויה">
-<!ENTITY reportForm.problem_type.item7.title "בעיה אחרת">
-<!ENTITY reportForm.problem_type.title "סוג בעיה:">
-<!ENTITY reportForm.product.title "מוצר:">
-<!ENTITY reportForm.url.title "כתובת אתר:">
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "דווח על אתר לא תקין">
+
+<!ENTITY privacyNotice.label                        "מדיניות פרטיות">
+<!ENTITY reportWizardPrivacy.description            "כלי זה מאפשר לך לדווח על אתרים שאינם עובדים כראוי ב־Firefox, או על אתרים המונעים את כניסתו. זוהי הדרך שלך לעזור לנו לשפר את חווית הגלישה למשתמשי Firefox. אנא הקדש רגע ולמד כיצד אנו משתמשים במידע אותו אנו אוספים אם תבחר להשתתף.">
+<!ENTITY reportWizardMustAgree.description          "עליך להסכים למדיניות הפרטיות לעיל כדי להמשיך.">
+
+<!ENTITY dontShowPrivacyStatement.label             "קראתי את מדיניות הפרטיות שלעיל והסכמתי לה.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "מ">
+
+<!ENTITY reportForm.label                           "מלא טופס דיווח">
+
+<!ENTITY reportForm.description                     "ספר לנו קצת אודות הבעיה בה נתקלת:">
+<!ENTITY reportForm.url.title                       "כתובת אתר:">
 <!ENTITY reportForm.url.accesskey                   "א">
-<!ENTITY reportForm.useragent.title "Useragent:">
-<!ENTITY reportResults.showDetail.accesskey "צ">
-<!ENTITY reportResults.showDetail.title "הצג פרטים">
-<!ENTITY reportWizard.title "דווח על אתר לא תקין">
-<!ENTITY reportWizardMustAgree.description "עליך להסכים למדיניות הפרטיות לעיל כדי להמשיך.">
-<!ENTITY reportWizardPrivacy.description "כלי זה מאפשר לך לדווח על אתרים שאינם עובדים כראוי ב־Firefox, או על אתרים המונעים את כניסתו. זוהי הדרך שלך לעזור לנו לשפר את חווית הגלישה למשתמשי Firefox. אנא הקדש רגע ולמד כיצד אנו משתמשים במידע אותו אנו אוספים אם תבחר להשתתף.">
-<!ENTITY sendReport.description "שולח דיווח לשרת...">
-<!ENTITY sendReport.label "שולח דיווח">
+
+<!ENTITY reportForm.behind_login.title              "האתר מוגן באמצעות סיסמה"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "מ">
+
+<!ENTITY reportForm.problem_type.title              "סוג בעיה:">
+<!ENTITY reportForm.problem_type.accesskey          "ס">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "בחר ...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "הדפדפן אינו נתמך">
+<!ENTITY reportForm.problem_type.item2.title        "אין אפשרות להתחבר">
+<!ENTITY reportForm.problem_type.item3.title        "תוסף אינו מוצג">
+<!ENTITY reportForm.problem_type.item4.title        "תוכן אחר חסר">
+<!ENTITY reportForm.problem_type.item5.title        "התנהגות שגויה">
+<!ENTITY reportForm.problem_type.item6.title        "תצוגה שגויה">
+<!ENTITY reportForm.problem_type.item7.title        "בעיה אחרת">
 <!ENTITY reportForm.problem_type.item8.title        "גישה למוגבלים">
 <!ENTITY reportForm.problem_type.item9.title        "פלט הדפסה שגוי">
+
+<!ENTITY reportForm.describe.title                  "תיאור הבעיה:">
+<!ENTITY reportForm.describe.accesskey              "ת">
+
+<!ENTITY reportForm.platform.title                  "מערכת:">
+<!ENTITY reportForm.product.title                   "מוצר:">
+<!ENTITY reportForm.gecko.title                     "ג'קו:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "שפה:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "דוא״ל (אופציונלי):">
+<!ENTITY reportForm.email.accesskey                 "ד">
+
+<!ENTITY reportForm.privacyPolicy.title             "מדיניות פרטיות">
+<!ENTITY reportForm.privacyPolicy.tooltip           "הצג מדיניות פרטיות">
+
+<!ENTITY reportResults.showDetail.title             "הצג פרטים">
+<!ENTITY reportResults.showDetail.accesskey         "צ">
+
+<!ENTITY sendReport.label                           "שולח דיווח">
+<!ENTITY sendReport.description                     "שולח דיווח לשרת...">
+
+<!ENTITY finish.label                               "דיווח נשלח">
