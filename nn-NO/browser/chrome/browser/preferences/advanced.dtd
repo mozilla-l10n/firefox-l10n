@@ -100,4 +100,4 @@
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "a">
 <!ENTITY viewSecurityDevices.label       "Tryggingseiningar">
-<!ENTITY viewSecurityDevices.accesskey   "k">
+<!ENTITY viewSecurityDevices.accesskey   "r">

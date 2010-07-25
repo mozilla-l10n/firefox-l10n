@@ -43,7 +43,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Det kan velje å">
+<!ENTITY  rememberActions.pre.label           "Du kan velje å ">
 <!ENTITY  rememberActions.clearHistory.label  "slette nyleg historikk">
 <!ENTITY  rememberActions.middle.label        ", eller ">
 <!ENTITY  rememberActions.removeCookies.label "fjerne enkelte infokapslar">
@@ -53,7 +53,7 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Det kan velje å">
+<!ENTITY  dontrememberActions.pre.label          "Du kan velje å ">
 <!ENTITY  dontrememberActions.clearHistory.label "slette all historikk">
 <!ENTITY  dontrememberActions.post.label         ".">
 

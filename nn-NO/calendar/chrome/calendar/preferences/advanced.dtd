@@ -99,4 +99,4 @@
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Validering">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Tryggingseiningar">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "k">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "r">
