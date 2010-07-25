@@ -26,9 +26,10 @@
 <!ENTITY print.accesskey "Y">
 <!ENTITY print.label "Shtyp…">
 <!ENTITY scale.label "Shkallë:">
-<!ENTITY leftarrow.tooltip    "Faqja e mëparshme">
-<!ENTITY rightarrow.tooltip   "Faqja pasuese">
-<!ENTITY endarrow.tooltip     "Faqja e fundit">
-<!ENTITY homearrow.tooltip    "Faqja e mëparshme">
 <!ENTITY page.accesskey       "F">
 <!ENTITY scale.accesskey      "S">
+
+<!ENTITY homearrow.tooltip    "Faqja e parë">
+<!ENTITY endarrow.tooltip     "Faqja e fundit">
+<!ENTITY nextarrow.tooltip    "Faqja pasuese">
+<!ENTITY previousarrow.tooltip "Faqja e mëparshme">
