@@ -356,13 +356,13 @@
 <h3 id="secure_connection_failed_page">Sichere Verbindung fehlgeschlagen Seite</h3>
 
 <p>Sollten Sie das SSL-Protokoll deaktiviert haben (z.Bsp. &#252;ber die 
-  <a href="ssl_help.xhtml#ssl_settings">SSL-Einstellungen</a>) oder die Seite welche Sie
+  <a href="ssl_help.xhtml#ssl_settings">SSL-Einstellungen</a>) oder die Webseite welche Sie
   sich ansehn wollen nutzt eine &#228;ltere, unsichere Version des SSL-Protokolls wird Ihnen
   eine Seite mit dem Titel &quot;Sichere Verbindung fehlgeschlagen&quot;.
   Auf der Seite werden Ihnen einige allgemeine Hintergrund-Informationen (z. Bsp. der 
   <strong>Fehler-Code</strong> welcher eine eindeutige Kennung des Problems beinhaltet, welches
-  &brandShortName; auf dieser Seite gefunden hat) sowie einer Schaltfl&#228;che <strong>Erneut versuchen</strong>
-  welche ein neu laden der Seite durchf&#252;hrt.</p>
+  &brandShortName; auf dieser Webseite gefunden hat) sowie einer Schaltfl&#228;che
+  <strong>Erneut versuchen</strong> welche ein neu laden der Webseite durchf&#252;hrt.</p>
 
 <h3 id="untrusted_connection_page">Keine vertrauensw&#252;rdige Verbindung Seite</h3>
 
@@ -374,7 +374,7 @@
 <ul>
   <li>das Zertifikat der Webseite ist <a href="#certificate_expired">nicht mehr g&#252;ltig (abgelaufen)</a></li>
   <li>das Zertifikat der Webseite ist <a href="#certificate_not_yet_valid">noch nicht g&#252;ltig</a></li>
-  <li>das Zertifikat der Webseite ist f&#252;r eine andere Seite g&#252;ltig
+  <li>das Zertifikat der Webseite ist f&#252;r eine andere Webseite g&#252;ltig
     (siehe <a href="#domain_name_mismatch">Domain-Name nicht &#252;bereinstimmend</a>)</li>
   <li>das Zertifikat der Webseite ist ein selbst erstelltes (somit ist die Identit&#228;t der Webseite nicht
     verifizierbar).</li>
@@ -386,20 +386,20 @@
 
 <p>Die Seite welche in den beschriebenen F&#228;llen angezeigt wird ist dazu gedacht, Ihnen
   zu erkl&#228;ren, warum &brandShortName; keine sichere Verbindung mit der Webseite aufbaun konnte.
-  Es wird Ihnen signalisiert, dass die Identit&#228;t der Seite nicht verifiziert werden konnte und bietet
-  Ihnen die M&#246;glichkeit, die Seite zu verlassen, indem Sie auf die Schaltfl&#228;che
+  Es wird Ihnen signalisiert, dass die Identit&#228;t der Webseite nicht verifiziert werden konnte und bietet
+  Ihnen die M&#246;glichkeit, die Webseite zu verlassen, indem Sie auf die Schaltfl&#228;che
   <strong>Das klingt schlimm, stattdessen auf die Startseite gehen</strong> klicken. 
   Wenn Sie sich nicht sicher sind, was Sie tun sollen wird empfohlen, dieser Anweisung zu folgen.</p>
 
 <p>Wenn Sie etwas mehr &#252;ber das aktuelle Problem wissen wollen, k&#246;nnen Sie die Anzeige
   erweitern, indem Sie auf den Pfeil bei <strong>Techniche Details</strong> klicken. 
   Dieser Abschnitt enth&#338;lt auch einen eindeutigen <strong>Fehler Code</strong> welcher
-  das Problem beinhaltet, welches &brandShortName; auf dieser Seite gefunden hat.</p>
+  das Problem beinhaltet, welches &brandShortName; auf dieser Webseite gefunden hat.</p>
 
 <h4 id="add_security_exception">Eine Sicherheits-Ausnahme hinzuf&#252;gen</h4>
 
 <p>Der Abschnitt <strong>Ich kenne das Risiko</strong> der Seite erlaubt es Ihnen
-  &brandShortName; mitzuteilen, dass Sie die Sicherheits-Pr&#252;fungen dieser Seite
+  &brandShortName; mitzuteilen, dass Sie die Sicherheits-Pr&#252;fungen dieser Webseite
   umgehen wollen. Wenn Sie diesen Abschnitt erweitern indem Sie auf den Pfeil klicken,
   sehen Sie eine Schaltfl&#228;che <strong>Ausnahme hinzuf&#252;gen</strong> welche einen Dialog 
   &#246;ffnet, in welchem Sie das Zertifikat der Seite ansehn k&#246;nnen und 
@@ -429,11 +429,11 @@
    gestellt ist, behandelt der Zertifkat-Manager das Zertifikat als abgelaufen.</p>
 
 <p>Wenn Ihre Computeruhr korrekt gestellt ist, m&#252;ssen Sie die Entscheidung treffen, ob
-   Sie der Seite vertrauen. Diese Entscheidung h&#228;ngt davon ab, was Sie auf der Seite tun
-   wollen und was Sie sonst &#252;ber diese Seite wissen. Die meisten kommerziellen Seiten
-   werden sicherstellen, das ihre Zertifikate vor dem Ablauf erneuert werden. Wenn Sie
-   sich entscheiden fortzufahren, m&#252;ssen Sie eine <a href="#add_security_exception">
-   Sicherheits-Ausnahme</a> einrichten.</p>
+   Sie der Webseite vertrauen. Diese Entscheidung h&#228;ngt davon ab, was Sie auf 
+   der Webseite tun wollen und was Sie sonst &#252;ber diese Webseite wissen. Die 
+   meisten kommerziellen Seiten werden sicherstellen, das ihre Zertifikate vor dem 
+   Ablauf erneuert werden. Wenn Sie sich entscheiden fortzufahren, m&#252;ssen Sie 
+   eine <a href="#add_security_exception">Sicherheits-Ausnahme</a> einrichten.</p>
 
 <h3 id="server_certificate_not_yet_valid">Zertifikat noch nicht g&#252;ltig</h3>
 <p>Wie eine Kreditkarte, ein F&#252;hrerschein und viele andere Formen der Identifikation
@@ -462,10 +462,10 @@
    sein, das irgendjemand versucht, Ihre Kommunikation mit der Webseite abzuh&#246;ren.</p>
 
 <p>&brandShortName; <a href="#untrusted_connection_page">warnt</a> Sie, wenn Sie
-   versuchen eine Seite aufzurufen, dessen Zertifikat f&#252;r eine andere Domain
-   ausgestellt wurde. Die Entscheidung, ob Sie der Seite trotzdem vertrauen,
-   h&#228;ngt davon ab, was Sie auf der Seite machen wollen und was Sie &#252;ber die
-   Seite wissen. Die meisten kommerziellen Webseiten achten darauf, da&#223; das 
+   versuchen eine Webseite aufzurufen, dessen Zertifikat f&#252;r eine andere Domain
+   ausgestellt wurde. Die Entscheidung, ob Sie der Webseite trotzdem vertrauen,
+   h&#228;ngt davon ab, was Sie auf der Webseite machen wollen und was Sie &#252;ber die
+   Webseite wissen. Die meisten kommerziellen Webseiten achten darauf, da&#223; das 
    Zertifikat auf die korrekte Adresse ausgestellt ist. Wenn Sie sich entscheiden 
    fortzufahren, m&#252;ssen Sie eine <a href="#add_security_exception">
    Sicherheits-Ausnahme</a> einrichten.</p>

@@ -246,7 +246,7 @@ w&#228;hlen Sie eine der folgenden M&#246;glichkeiten:</p>
   <li>Um alle Seiten einer Subdomain zu l&#246;schen, w&#228;hlen Sie eine Seite
       innerhalb dieser Subdomain aus der Historyliste aus, &#246;ffnen das
       Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span> 
-      und w&#228;hlen den Punkt <q>Lösche Histry f&#252;r <em>[Subdomain]</em> l&#246;schen</q> aus. 
+      und w&#228;hlen den Punkt <q>History f&#252;r <em>[Subdomain]</em> l&#246;schen</q> aus. 
       Benutzen Sie dies zum Beispiel um alle Webseiten zu l&#246;schen die mit
       <q>bugzilla.mozilla.org</q> aber nicht mit <q>mozilla.org</q> enden.</li>
   <li>Um eine einzelne Seite oder einen Ordner zu l&#246;schen, markieren Sie diese(n) und
@@ -1053,7 +1053,7 @@ Browser-Fenster:</p>
 
 <ol>
   <li>&#214;ffnen Sie das <q>Ansicht</q>-Men&#252;, gehen auf
-      Zeichenkodierung und w&#228;hlen <q>Weitere</q>.</li>
+      Zeichenkodierung und w&#228;hlen <q>Weitere Kodierungen</q>.</li>
   <li>W&#228;hlen Sie eine Region aus diesem Untermen&#252;.</li>
   <li>W&#228;hlen Sie eine Zeichenkodierung aus dem Untermen&#252; dieser
       Region. Wiederholen Sie die Schritte 1-3 f&#252;r jede Zeichenkodierung
@@ -1064,6 +1064,16 @@ Browser-Fenster:</p>
 Zeichenkodierungsmen&#252; hinzugef&#252;gt. Haben Sie mehr als eine
 Zeichenkodierung gew&#228;hlt, wird die aktive Zeichenkodierung mit einem
 Punkt davor dargestellt.</p>
+
+<p>Wenn die Seite, welche Sie gerade betrachten falsche Zeichen mit den vordefinierten
+  Zeichenkodierungen anzeigt besteht die M&#246;glichkeit, da&#223; spezielle Schriftarten
+  ben&#246;tigt werden. Solche Webseiten sollten dann eine Information bereitstellen,
+  welche Schriftarten ben&#246;tigt und heruntergeladen werden m&#252;ssen, um die Webseite
+  korrekt darzustellen. Wenn Sie die notwendigen Schriftarten auf Ihrem System
+  installiert haben, k&#246;nnen Sie im Men&#252; <q>Weitere Kodierungen</q> die Option
+  <q>Benutzerdefiniert</q> ausw&#228;hlen. &brandShortName; wird dann die Schriftarten
+  welche Sie in den <a href="cs_nav_prefs_appearance.xhtml#fonts">Schriftart Einstellungen</a>
+  (Schriftarten f&#252;r:Benutzerdefiniert) ausgew&#228;hlt haben verwenden.</p>
 
 <p>&brandShortName; kann die richtige Zeichenkodierung eines Dokuments erkennen
 und dieses dann richtig darstellen. Um den Vorteil dieser F&#228;higkeit zu
@@ -1082,19 +1092,20 @@ gehen Sie wie folgt vor:</p>
 
 <ol>
   <li>&#214;ffnen Sie das <q>Ansicht</q>-Men&#252;, gehen auf
-      Zeichenkodierung und w&#228;hlen <q>Anpassen</q>. Das Fenster
+      Zeichenkodierung und w&#228;hlen <q>Liste anpassen</q>. Das Fenster
 	  <q>Zeichens&#228;tze anpassen</q> erscheint.</li>
   <li>W&#228;hlen Sie eine der folgenden M&#246;glichkeiten:
     <ul>
       <li>Um einen Zeichensatz den aktiven Zeichens&#228;tzen hinzuzuf&#252;gen,
-	      w&#228;hlen Sie einen Zeichensatz aus der linken Liste und klicken auf
-		  Hinzuf&#252;gen.</li>
+	 w&#228;hlen Sie einen Zeichensatz aus der linken Liste und klicken auf
+	 Hinzuf&#252;gen.</li>
       <li>Um einen Zeichensatz aus der Liste der aktiven Zeichens&#228;tze zu
-	      entfernen, w&#228;hlen Sie den entsprechenden Zeichensatz aus der
-		  rechten Liste und klicken auf Entfernen.</li>
+	 entfernen, w&#228;hlen Sie den entsprechenden Zeichensatz aus der
+	 rechten Liste und klicken auf Entfernen.</li>
       <li>Um die Reihenfolge der zu verwendeten Zeichens&#228;tze zu &#228;ndern,
-          markieren Sie den Zeichensatz in der rechten Liste und verwenden die
-		  Pfeile um den Zeichensatz nach oben oder unten zu verschieben.</li>
+         markieren Sie den Zeichensatz in der rechten Liste und verwenden die
+	 <q>Bild auf</q> und <q>Bild ab</q> Tasten um den Zeichensatz nach oben 
+         oder unten zu verschieben.</li>
     </ul></li>
 </ol>
 
@@ -1489,21 +1500,12 @@ Sie bitte
 
     <p>Sie k&#246;nnen selbst einstellen wie &brandShortName; mit den einzelnen
      Internet-Dateien und -Protokollen umgeht. F&#252;r mehr Informationen lesen Sie:
-    <a href="cs_nav_prefs_advanced.xhtml#system">Erweiterte Einstellungen - System</a>.</p>
+    <a href="cs_nav_prefs_advanced.xhtml#system">Erweiterte Ei
+nstellungen - System</a>.</p>
    <p>[<a href="#improving_speed_and_efficiency">Zur&#252;ck zum Beginn des Abschnittes</a>]</p>
 </div>
 
 <h1 id="proxies">Proxies</h1>
-
-<div class="contentsBox">In diesem Abschnitt:
-<ul>
-  <li><a href="#setting_proxy_values">Proxy einstellen</a></li>
-</ul>
-</div>
-
-<p>Dieser Abschnitt erkl&#228;rt wie man mit Proxies arbeitet.</p>
-
-<h2 id="setting_proxy_values">Proxy einstellen</h2>
 
 <p>Viele Firmen blockieren den Zugriff aus dem Internet zu Ihren Netzwerken.
 Das verhindert das fremde Leute Zugriff zu sensiblen Informationen erhalten.
@@ -1512,64 +1514,6 @@ Dieser Schutz hei&#223;t Firewall.</p>
 <p>Hat Ihre Firma eine Firewall, muss ihr Browser erst durch einen Proxy um
 eine Verbindung zum Internet zu erhalten. Dieser Proxy verhindert das
 Au&#223;enstehende in das private Netzwerk einbrechen k&#246;nnen.</p>
-
-<p>Bevor Sie beginnen:</p>
-
-<ul>
-  <li>Gibt es an Ihrem Arbeitsplatz eine Proxykonfigurationsdatei, 
-      dann fragen Sie Ihren Systemadministrator nach deren URL.</li>
-  <li>Gibt es keine Proxykonfigurationsdatei, fragen Sie Ihren
-      Systemadministrator nach den Namen und Ports f&#252;r die einzelnen
-	  Netzwerkdienste die im Proxy eingestellt sind.</li>
-</ul>
-
-<p>Um den Browser auf den Proxy einzustellen:</p>
-
-<ol>
-  <li>&#214;ffnen Sie das <q><span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  </q>-Men&#252; und w&#228;hlen Sie Einstellungen.</li>
-  <li>Unter der Kategorie Erweitert w&#228;hlen Sie <q>Proxies</q> aus.
-      (Sind keine Unterkategorien vorhanden, doppelklicken Sie auf die Kategorie
-	  um die Liste auszuklappen.)</li>
-  <li>W&#228;hlen Sie eine der folgenden Optionen:
-    <ul>
-      <li><strong>Direkte Verbindung zum Internet</strong>: W&#228;hlen Sie
-	      diese Option wenn Sie durch keinen Proxy gehen m&#252;ssen.</li>
-      <li><strong>Automatische Erkennung der Proxy-Konfiguration</strong>:
-       W&#228;hlen Sie diese Option, wenn &brandShortName; ihre Proxy-Konfiguration 
-       automatisch erkennen so. Hierbei wird das <a href="glossary.xhtml#wpad">WPAD Protokol</a>
-       genutzt.</li>
-      <li><strong>Automatische Proxy-Konfigurations URL</strong>: 
-        W&#228;hlen Sie diese Option wenn Sie eine Proxykonfigurationsdatei 
-        haben. Geben Sie die URL in das Feld ein und klicken auf <q>Neu laden</q>.</li>
-      <li><strong>Manuelle Proxy-Konfiguration</strong>: W&#228;hlen Sie diese
-	      Option wenn Sie keine Proxykonfigurationsdatei haben.
-        <ul>
-          <li><strong>HTTP Proxy</strong>, <strong>SSL Proxy</strong>,
-		      <strong>FTP Proxy, Gopher Proxy</strong>: Geben Sie den Namen oder
-			  die IP-Adresse und den verwendeten Port des Proxy-Servers ein.</li>
-          <li><strong>SOCKS Host</strong>: Geben Sie den Namen oder die
-		      IP-Adresse und den verwendeten Port des Proxy-Servers ein.
-            <ul>
-              <li><strong>SOCKS v4, SOCKS v5</strong>: Wenn Sie einen SOCK Host
-			      verwenden, stellen Sie bitte <q>SOCKS v4</q> oder
-				  <q>SOCKS v5,</q> ein - je nachdem welche Version Sie
-				  verwenden.</li>
-            </ul></li>
-          <li><strong>Kein Proxy f&#252;r</strong>: Geben Sie die Domains ein,
-		      f&#252;r die Sie keinen Proxy benutzen wollen. Trennen Sie die
-			  einzelnen Domains durch ein Komma. (Beispiel:
-			  <kbd>.deinefirma.de, .deinefirma.co.at</kbd>)</li>
-        </ul>
-      </li>
-    </ul></li>
-</ol>
-
-<p>Domainnamen sind der Teil einer URL die den Namen der Organisation, des
-Gesch&#228;fts oder der Schule beinhalten - so wie mozilla.org oder wien.at.
-Verwenden Sie lokale Serveradressen ohne Domainnamen, verfahren Sie auf die
-gleiche Weise. Verwenden Sie Kommata um die Domainamen untereinander zu trennen.
-Wildcards [*] k&#246;nnen nicht verwendet werden.</p>
 
 <p>F&#252;r mehr Informationen zu den Proxy-Einstellungen sehen Sie bitte unter
 <a href="cs_nav_prefs_advanced.xhtml#proxies">Erweiterte Einstellungen - Proxies</a>

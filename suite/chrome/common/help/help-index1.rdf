@@ -256,7 +256,7 @@
      <rdf:li>
        <rdf:Description ID="browser:keyboard_shortcuts"
          nc:name="Tastenkombinationen"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:opening_pages"
@@ -490,7 +490,7 @@
      <rdf:li>
        <rdf:Description ID="Composer:keyboard_shortcuts"
          nc:name="Tastenkombinationen"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Composer:removing_text_styles"
@@ -559,7 +559,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:managing_per_site"
-         nc:name="Verwalten von Cookies je Seite"
+         nc:name="Verwalten von Cookies je Webseite"
          nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/>
      </rdf:li>
      <rdf:li>
@@ -980,7 +980,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Composer"
          nc:name="Composer (HTML-Editor) Tastenkombinationen"
-         nc:link="shortcuts-composer.xhtml"/>
+         nc:link="shortcuts_composer.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:general"
@@ -995,12 +995,12 @@
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Mail_and_Newsgroups"
          nc:name="E-Mail und Newsgroups Tastenkombinationen"
-         nc:link="shortcuts-mailnews.xhtml"/>
+         nc:link="shortcuts_mailnews.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_shortcuts:Navigator"
          nc:name="Browser Tastenkombinationen"
-         nc:link="shortcuts-navigator.xhtml"/>
+         nc:link="shortcuts_navigator.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1060,7 +1060,7 @@
      <rdf:li>
        <rdf:Description ID="LDAP:global_settings"
          nc:name="LDAP-Einstellungen"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1105,7 +1105,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
          nc:name="Autovervollst&#228;ndigen f&#252;r Adressen"
-         nc:link="mail_help.xhtml#address_autocompletion"/>
+         nc:link="mailnews_preferences.xhtml#address_autocompletion"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
@@ -1115,7 +1115,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
          nc:name="Adressierungseinstellungen"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
@@ -1135,7 +1135,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
        nc:name="Zeichensatz"
-       nc:link="mail_help.xhtml#character_encoding"/>
+       nc:link="mailnews_preferences.xhtml#character_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:composing_messages"
@@ -1185,7 +1185,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
          nc:name="Allgemeine Maileinstellungen"
-         nc:link="mail_help.xhtml#mail_and_newsgroup_preferences"/>
+         nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
@@ -1225,7 +1225,7 @@
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
          nc:name="Mail and Newsgroups Netzwerk Einstellungen"
-         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+         nc:link="mailnews_preferences.xhtml##network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
@@ -1389,7 +1389,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="offlineeinstellungen"
-         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+         nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1794,7 +1794,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="return_receipts:general_preferences"
          nc:name="Sendebest&#228;tigungen: Einstellungen"
-         nc:link="mail_help.xhtml#return_receipts_preferences"/>
+         nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/>
      </rdf:li><rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="Verwenden von Sendebest&#228;tigungen"
@@ -2124,7 +2124,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Tags:general_preferences"
            nc:name="Tag Einstellungen"
-               nc:link="mail_help.xhtml#tags"/>
+               nc:link="mailnews_preferences.xhtml#tags"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
