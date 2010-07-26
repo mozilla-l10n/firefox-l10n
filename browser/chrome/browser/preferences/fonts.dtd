@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "Telugulainen">
 <!ENTITY  font.langGroup.kannada                  "Kannadalainen">
 <!ENTITY  font.langGroup.sinhala                  "Singalilainen">
+<!ENTITY  font.langGroup.tibetan                  "Tiibettiläinen">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                             "Pienin kirjasinkoko:">
 <!ENTITY minSize.accesskey                         "e">

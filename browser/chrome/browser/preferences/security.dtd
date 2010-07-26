@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Tallennetut salasanat…">
 <!ENTITY  savedPasswords.accesskey        "s">
-
-
-<!ENTITY  warnings.label                "Varoitusviestit">
-
-<!ENTITY  chooseWarnings.label          "Valitse selattaessa näytettävät varoitusviestit">
-
-<!ENTITY  warningSettings.label         "Asetukset…">
-<!ENTITY  warningSettings.accesskey     "A">

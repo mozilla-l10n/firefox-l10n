@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label           "Seuraavat evästeet on asetettu tietokoneellesi:">
 <!ENTITY     cookiename.label                "Evästeen nimi">
 <!ENTITY     cookiedomain.label              "Sivusto">
+<!ENTITY     button.removecookies.label     "Poista evästeet">
 <!ENTITY     button.removecookie.label       "Poista eväste">
 <!ENTITY     button.removecookie.accesskey   "o">
 <!ENTITY     button.removeallcookies.label   "Poista kaikki evästeet">

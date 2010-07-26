@@ -57,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "poistaa kaikki kerätyt historiatiedot">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Käynnistä &brandShortName; automaattisesti yksityiseen selaustilaan">
-<!ENTITY  privateBrowsingAutoStart.accesskey "y">
+<!ENTITY  privateBrowsingPermanent.label "Pysyvä yksityinen selaus -tila">
+<!ENTITY  privateBrowsingPermanent.accesskey "s">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Säilytä sivuhistoria ainakin">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "päivältä">
+<!ENTITY  rememberHistory.label      "Säilytä selaushistoriani">
+<!ENTITY  rememberHistory.accesskey  "e">
 
 <!ENTITY  rememberDownload.label         "Säilytä tieto ladatuista tiedostoista">
 <!ENTITY  rememberDownload.accesskey     "d">
