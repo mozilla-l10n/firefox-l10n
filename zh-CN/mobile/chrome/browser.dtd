@@ -21,15 +21,11 @@
 <!ENTITY addToDictionary.label "添加至字典">
 
 <!ENTITY bookmarksHeader.label     "书签">
-<!ENTITY bookmarksManage.label     "管理">
 
-<!ENTITY editBookmarkRemove.label  "移除">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "标签:">
 
-<!ENTITY formHelper.previous       "上一个">
-<!ENTITY formHelper.next           "下一个">
-<!ENTITY formHelper.done           "完成">
+<!ENTITY selectHelper.done         "完成">
 
 <!ENTITY addonsHeader.label        "附加组件">
 <!ENTITY addonsLocal.label         "您的附加组件">
@@ -88,5 +84,7 @@
 <!ENTITY consoleErrLine.label      "行：">
 <!ENTITY consoleErrColumn.label    "列：">
 
-<!ENTITY contextOpenInNewTab.label "在新标签页中打开">
-<!ENTITY contextSaveImage.label    "保存图片">
+<!ENTITY contextOpenInNewTab.label    "在新标签页中打开">
+<!ENTITY contextSaveImage.label       "保存图片">
+<!ENTITY contextEditBookmark.label    "编辑">
+<!ENTITY contextRemoveBookmark.label  "删除">
