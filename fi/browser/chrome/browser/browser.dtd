@@ -13,13 +13,13 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Päivitä välilehti">
-<!ENTITY  reloadTab.accesskey                "ä">
+<!ENTITY  reloadTab.accesskey                "P">
 <!ENTITY  reloadAllTabs.label                "Päivitä kaikki välilehdet">
-<!ENTITY  reloadAllTabs.accesskey            "v">
+<!ENTITY  reloadAllTabs.accesskey            "ä">
 <!ENTITY  closeOtherTabs.label               "Sulje muut välilehdet">
-<!ENTITY  closeOtherTabs.accesskey           "e">
+<!ENTITY  closeOtherTabs.accesskey           "m">
 <!ENTITY  openTabInNewWindow.label           "Avaa uuteen ikkunaan">
-<!ENTITY  openTabInNewWindow.accesskey       "u">
+<!ENTITY  openTabInNewWindow.accesskey       "A">
 <!ENTITY  pinTab.label                       "Sovelluksen välilehdeksi">
 <!ENTITY  pinTab.accesskey                   "o">
 <!ENTITY  unpinTab.label                     "Normaaliksi välilehdeksi">
@@ -28,8 +28,8 @@
 <!ENTITY  bookmarkThisTab.accesskey          "L">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
-<!ENTITY  undoCloseTab.label                 "Kumoa välilehden sulkeminen">
-<!ENTITY  undoCloseTab.accesskey             "m">
+<!ENTITY  undoCloseTab.label                 "Kumoa Sulje välilehti">
+<!ENTITY  undoCloseTab.accesskey             "L">
 <!ENTITY  closeTab.label                     "Sulje välilehti">
 <!ENTITY  closeTab.accesskey                 "S">
 
