@@ -60,10 +60,6 @@
 <!ENTITY viewBookmarksSidebar.label         "Προβολή στην πλευρική στήλη">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
-
 
 <!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
 <!ENTITY closeCmd.accesskey "Κ">
@@ -151,6 +147,11 @@
 <!ENTITY mainWindow.title "&brandFullName;">
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
 
 
 
@@ -510,8 +511,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY  listAllTabs.label      "Όλες οι καρτέλες σε λίστα">
 
-<!ENTITY  newTab.label                       "Νέα καρτέλα">
-<!ENTITY  newTab.accesskey                   "Ν">
 
 <!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
 <!ENTITY openLinkCmdInCurrent.accesskey "ο">
