@@ -7,10 +7,6 @@
 #define bookmarks_title Kirjanmerkit
 #define bookmarks_heading Kirjanmerkit
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Lataa kirjanmerkkilisäosia
-
 #define bookmarks_toolbarfolder Kirjanmerkkipalkin kirjanmerkit
 #define bookmarks_toolbarfolder_description Tässä kansiossa olevat ja tänne lisättävät kirjanmerkit ovat Kirjanmerkkipalkissa
 

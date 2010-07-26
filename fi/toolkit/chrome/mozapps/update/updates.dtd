@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Ohjelmistopäivitys">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                   "Haetaan päivityksiä">
 <!ENTITY  updateCheck.label               "Haetaan päivityksiä &brandShortName;iin…">
 
@@ -44,7 +41,7 @@
 
 <!ENTITY  incompatibleList.title          "Yhteensopimattomia lisäosia löytyi">
 
-<!ENTITY  downloading.title                "Ladataan päivitystä">
+<!ENTITY  downloadPage.title              "Ladataan &brandShortName;ia">
 <!ENTITY  downloading.intro                "Ladataan päivitystä…">
 <!ENTITY  connecting.label                 "Muodostetaan yhteyttä päivityspalvelimeen…">
 <!ENTITY  verificationFailedText.label     "Päivityspaketti ei läpäissyt virheettömyystarkistusta, joten

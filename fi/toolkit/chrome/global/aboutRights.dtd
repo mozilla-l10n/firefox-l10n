@@ -16,9 +16,9 @@
 <!ENTITY rights.intro-point1b "Mozillan julkisen lisenssin (Mozilla Public License)">
 <!ENTITY rights.intro-point1c " ehdoilla. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää &brandShortName;ia. Sinulla on myös halutessasi oikeus muokata ja muuttaa &brandShortName;in lähdekoodia omien tarpeittesi mukaisesti. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä muokkaamiasi versioita.">
 
-<!ENTITY rights.intro-point2a "Mozilla ei anna sinulle mitään oikeuksia Mozilla tai Firefox tavaramerkkeihin tai logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä  ">
-<!ENTITY rights.intro-point2b "täältä">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2-a "Mozilla ei anna sinulle oikeuksia missään muodossa Mozilla, Firefox tai muihin tavaramerkkeihin tai logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä ">
+<!ENTITY rights.intro-point2-b "täältä">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName;in tietosuojakäytäntö on luettavissa ">
