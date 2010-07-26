@@ -94,16 +94,16 @@
 
 <!ENTITY calendar.nextday.label                 "Следующий день" >
 <!ENTITY calendar.prevday.label                 "Предыдущий день" >
-<!ENTITY calendar.nextday.accesskey             "x" >
-<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextday.accesskey             "С" >
+<!ENTITY calendar.prevday.accesskey             "П" >
 <!ENTITY calendar.nextweek.label                "Следующая неделя" >
 <!ENTITY calendar.prevweek.label                "Предыдущая неделя" >
-<!ENTITY calendar.nextweek.accesskey            "x" >
-<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextweek.accesskey            "С" >
+<!ENTITY calendar.prevweek.accesskey            "П" >
 <!ENTITY calendar.nextmonth.label               "Следующий месяц" >
 <!ENTITY calendar.prevmonth.label               "Предыдущий месяц" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
-<!ENTITY calendar.prevmonth.accesskey           "s" >
+<!ENTITY calendar.nextmonth.accesskey           "С" >
+<!ENTITY calendar.prevmonth.accesskey           "П" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "На один день вперёд" >
 <!ENTITY calendar.navigation.prevday.tooltip    "На один день назад" >
