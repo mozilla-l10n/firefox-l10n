@@ -20,4 +20,4 @@
 <!ENTITY serverPort.label "端口：">
 <!ENTITY userName.label   "用户名：">
 <!ENTITY connectionSecurity.label "连接安全： ">
-<!ENTITY useSecureAuthentication.label   "安全验证：">
+<!ENTITY authMethod.label   "验证方式： ">
