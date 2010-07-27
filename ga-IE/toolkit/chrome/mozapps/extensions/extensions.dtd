@@ -102,7 +102,7 @@
 <!ENTITY addon.undo.label "Cealaigh?">
 <!ENTITY addon.undo.tooltip "Cealaigh an gníomh seo">
 <!ENTITY addon.undoUninstall.label "Cealaigh?">
-<!ENTITY addon.undoUninstall.tooltip "Keep this add-on installed">
+<!ENTITY addon.undoUninstall.tooltip "Coinnigh an breiseán seo suiteáilte">
 <!ENTITY addon.restartNow.label "Atosaigh anois">
 <!ENTITY addon.restartNow.tooltip "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY addon.install.label "Suiteáil">
