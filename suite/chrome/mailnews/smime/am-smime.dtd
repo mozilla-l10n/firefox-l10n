@@ -13,7 +13,7 @@
 <!ENTITY digitalSign.certificate_clear.button "清空">
 <!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "选择…">
-<!ENTITY encryption.certificate.accesskey "n">
+<!ENTITY encryption.certificate.accesskey "t">
 <!ENTITY encryption.certificate_clear.button "清空">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "数字签名">

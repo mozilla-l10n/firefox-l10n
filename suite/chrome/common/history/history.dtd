@@ -4,7 +4,7 @@
 <!ENTITY menuBar.tooltip                "菜单栏">
 <!ENTITY searchBar.tooltip              "搜索栏">
 
-<!ENTITY search.emptytext               "搜索历史记录">
+<!ENTITY search.placeholder             "搜索历史记录">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "查看">
 

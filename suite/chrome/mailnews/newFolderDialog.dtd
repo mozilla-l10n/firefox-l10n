@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label   "允许新文件夹包含：">
 <!ENTITY foldersOnly.label          "只文件夹">
 <!ENTITY messagesOnly.label         "只消息">
+<!ENTITY accept.label               "创建文件夹">
+<!ENTITY accept.accesskey           "r">

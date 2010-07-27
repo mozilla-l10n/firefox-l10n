@@ -7,9 +7,6 @@
 <!ENTITY editorCmd.accesskey				"c">
 <!ENTITY editorCmd.commandkey				"4">
 
-<!ENTITY javaConsoleCmd.label					"Java控制台">
-<!ENTITY javaConsoleCmd.accesskey				"j">
-
 <!ENTITY errorConsoleCmd.label                                  "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey				"C">
 <!ENTITY errorConsoleCmd.commandkey				"j">

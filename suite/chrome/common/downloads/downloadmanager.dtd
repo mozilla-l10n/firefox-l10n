@@ -3,7 +3,7 @@
 <!ENTITY menuBar.tooltip                 "菜单栏">
 <!ENTITY searchBar.tooltip               "搜索栏">
 
-<!ENTITY search.emptytext                "搜索下载">
+<!ENTITY search.placeholder              "搜索下载">
 <!ENTITY search.label                    "搜索下载">
 <!ENTITY search.accesskey                "S">
 <!ENTITY search.key                      "f">

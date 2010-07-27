@@ -11,7 +11,7 @@
 <!ENTITY     button.removeallcookies.label  "移除所有 Cookie">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.emptytext               "搜索 Cookie">
+<!ENTITY     search.placeholder             "搜索 Cookie">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">

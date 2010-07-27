@@ -116,7 +116,7 @@
 <!ENTITY deleteItemButton.accesskey                     "D">
 <!ENTITY newimButton.label                              "实时消息">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY searchNameAndEmail.emptytext                   "搜索名字和邮件">
+<!ENTITY searchNameAndEmail.placeholder                 "搜索名字和邮件">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "通讯录工具栏">

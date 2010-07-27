@@ -60,7 +60,7 @@
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "删除">
 <!ENTITY DeleteHtmlDomain.accesskey   "e">
-<!ENTITY DeletePlainText.accesskey    "n">
+<!ENTITY DeletePlainText.accesskey    "t">
 
 <!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "添加 HTML 域名">

@@ -7,4 +7,4 @@
 <!ENTITY actionColumn2.label     "动作">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY search.emptytext        "搜索类型及操作">
+<!ENTITY search.placeholder      "搜索类型及操作">
