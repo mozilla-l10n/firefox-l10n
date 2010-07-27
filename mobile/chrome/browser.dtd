@@ -17,8 +17,6 @@
 <!ENTITY noSuggestions.label "(nessun suggerimento)">
 <!ENTITY addToDictionary.label "Aggiungi al dizionario">
 <!ENTITY bookmarksHeader.label "Segnalibri">
-<!ENTITY bookmarksManage.label "Modifica">
-<!ENTITY editBookmarkRemove.label "Elimina">
 <!ENTITY editBookmarkDone.label "Fatto">
 <!ENTITY editBookmarkTags.label "Etichette:">
 <!ENTITY selectHelper.done "Fatto">
@@ -68,3 +66,5 @@
 <!ENTITY consoleErrColumn.label "Colonna:">
 <!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
 <!ENTITY contextSaveImage.label "Salva immagine">
+<!ENTITY contextEditBookmark.label "Modifica">
+<!ENTITY contextRemoveBookmark.label "Elimina">
