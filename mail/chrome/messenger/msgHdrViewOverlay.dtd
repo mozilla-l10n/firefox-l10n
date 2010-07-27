@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "l">
 <!ENTITY detachAttachmentCmd.label "Ontkoppelen…">
 <!ENTITY deleteAttachmentCmd.label "Verwijderen">
+<!ENTITY openAllAttachmentsCmd.label    "Alles openen…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label "Alles opslaan…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "s">
 <!ENTITY detachAllAttachmentsCmd.label "Alles ontkoppelen…">
