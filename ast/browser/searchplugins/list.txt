@@ -2,3 +2,4 @@ google
 yahoo-es
 eBay-es
 wikipedia-ast
+diccionariu-alla
