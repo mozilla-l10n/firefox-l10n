@@ -3,8 +3,8 @@
 <!ENTITY     div.bannedservers.label        "管理站点并设置是否允许他们在您的计算机中存储 Cookie。">
 <!ENTITY     div.cookiesonsystem.label      "查看或删除存储在你的计算机中的 Cookie。">
 <!ENTITY     treehead.cookiename.label      "Cookie 名称">
-<!ENTITY     treehead.cookiedomain.label    "报告站点"> 
-<!ENTITY     treehead.cookieexpires.label   "过期"> 
+<!ENTITY     treehead.cookiedomain.label    "报告站点">
+<!ENTITY     treehead.cookieexpires.label   "过期">
 <!ENTITY     treehead.infoselected.label    "已选 Cookie 的信息">
 <!ENTITY     button.removecookie.label      "移除 Cookie">
 <!ENTITY     button.removecookie.accesskey  "R">

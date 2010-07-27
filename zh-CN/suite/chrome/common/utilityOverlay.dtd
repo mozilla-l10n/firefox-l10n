@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label					"帮助"> 
 <!ENTITY helpMenu.accesskey				"h"> 
 
+<!ENTITY helpTroubleshootingInfo.label      "疑难排解信息">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label				"版本注释">
 <!ENTITY releaseCmd.accesskey                   "N">
 <!ENTITY updateCmd.label                        "检查更新">

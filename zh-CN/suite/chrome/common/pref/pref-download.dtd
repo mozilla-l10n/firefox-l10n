@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label                "总询问保存文件的位置">
 <!ENTITY alwaysAsk.accesskey            "A">
 
-<!ENTITY downloadRetention.label        "下载保存">
-<!ENTITY removeDownloads.label          "移除下载">
-<!ENTITY removeDownloads.accesskey      "R">
+<!ENTITY downloadHistory.label          "下载历史">
+<!ENTITY removeEntries.label            "移除下载项">
+<!ENTITY removeEntries.accesskey        "R">
 <!ENTITY whenCompleted.label            "当完成时">
 <!ENTITY whenQuittingApp.label          "当退出 &brandShortName;">
 <!ENTITY neverRemove.label              "从不">

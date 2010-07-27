@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "对所有消息使用默认设置（单条消息的字符编码设置以及自动检测设置将被忽略）">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "重建概要文件">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "重建概要文件">
+<!ENTITY folderRebuildSummaryFileTip2.label      "重建概要文件索引">
+<!ENTITY folderRebuildSummaryFile2.label         "修复文件夹">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "有时候文件夹索引文件(.msf)被损坏并且出现邮件丢失或者已删除的邮件又重新出现的现象，修复此文件夹可以修复这类问题。">
+<!ENTITY folderIncludeInGlobalSearch.label       "在全局搜索结果中包含这个文件夹的邮件">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
 <!ENTITY retention.label "保留策略">
 <!ENTITY retentionUseAccount.label "使用我的帐户设置">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "同步">
-<!ENTITY folderCheckForNewMessages.label         "检查此文件夹的新消息">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY folderCheckForNewMessages2.label        "当获取此帐户的新邮件时，总是检查此文件夹">
+<!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
 <!ENTITY offlineFolder.check.label               "选择此文件夹供脱机使用">
 <!ENTITY offlineFolder.check.accesskey           "S">

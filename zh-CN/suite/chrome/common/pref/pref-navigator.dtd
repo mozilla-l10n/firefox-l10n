@@ -26,14 +26,6 @@
 <!ENTITY useDefault.label               "恢复默认值">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY toolbarIntro.label             "选择您想在工具栏看到的按钮:">
-
-<!ENTITY navToolbarIntro.label          "导航工具栏">
-<!ENTITY goButton.label                 "转到">
-<!ENTITY goButton.accesskey             "o">
-<!ENTITY searchButton.label             "查找">
-<!ENTITY searchButton.accesskey         "S">
-
 <!ENTITY defaultBrowserGroup.label      "默认浏览器">
 <!ENTITY defaultBrowserButton.label     "设为默认浏览器">
 <!ENTITY defaultBrowserButton.accesskey "D">

@@ -11,6 +11,7 @@
 <!ENTITY applications.label "应用程序助手">
 <!ENTITY locationBar.label "地址栏">
 <!ENTITY tabWindows.label "标签式浏览">
+<!ENTITY links.label "链接行为">
 <!ENTITY offline.label "脱机">
 <!ENTITY security.label "隐私 &amp; 安全">
 <!ENTITY cookies.label "Cookies">

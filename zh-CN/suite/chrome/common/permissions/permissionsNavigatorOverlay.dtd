@@ -29,10 +29,10 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "总是阻止来自此站点的文件。">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "允许此站点弹出窗口">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "A">
-<!ENTITY cookieManagePopups.label                    "管理弹出窗口">
-<!ENTITY cookieManagePopups.accesskey                "M">
+<!ENTITY cookieAllowPopupsCmd.label "允许此站点弹出窗口">
+<!ENTITY cookieAllowPopupsCmd.accesskey "A">
+<!ENTITY cookieManagePopups.label "管理弹出窗口">
+<!ENTITY cookieManagePopups.accesskey "M">
 
 <!ENTITY cookieCookieManager.label "Cookie 管理器">
 <!ENTITY cookieCookieManager.accesskey "c">

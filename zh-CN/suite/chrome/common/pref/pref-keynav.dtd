@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "仅查找链接">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "输入同步查找时显示查找工具栏">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "说明：输入同步查找时如果不显示查找栏便无法支持国际化的文本内容。">

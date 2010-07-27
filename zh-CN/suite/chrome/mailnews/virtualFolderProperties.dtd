@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label            "在线搜索（可获取最新的 IMAP 和新闻文件夹的结果，但是会增加打开文件夹所需的时间）">
 <!ENTITY searchOnline.accesskey        "S">
+<!ENTITY newFolderButton.label         "创建">
+<!ENTITY newFolderButton.accesskey     "r">
+<!ENTITY editFolderButton.label        "更新">
+<!ENTITY editFolderButton.accesskey    "U">
