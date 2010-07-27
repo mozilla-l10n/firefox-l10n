@@ -2,5 +2,4 @@ google
 yahoo-en-GB
 amazon-en-GB
 faclair-beag
-foram-na-gaidhlig
 wikipedia-gd
