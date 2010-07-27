@@ -45,13 +45,13 @@
 <!ENTITY reloadImageCmd.label         "重新载入图像">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "查看图像">
-<!ENTITY viewImageCmd.accesskey       "w">
+<!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewVideoCmd.label           "查看视频">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "查看背景图像">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setWallpaperCmd.label        "设为桌面">
-<!ENTITY setWallpaperCmd.accesskey    "e">
+<!ENTITY setWallpaperCmd.accesskey    "A">
 <!ENTITY bookmarkPageCmd.label        "将此标签页设为书签">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "将此链接加为书签">
@@ -82,7 +82,7 @@
 <!ENTITY copyLinkCmd.label            "复制连接地址">
 <!ENTITY copyLinkCmd.accesskey        "L">
 <!ENTITY copyImageCmd.label           "复制图像">
-<!ENTITY copyImageCmd.accesskey       "I">
+<!ENTITY copyImageCmd.accesskey       "y">
 <!ENTITY copyVideoURLCmd.label        "复制视频地址">
 <!ENTITY copyVideoURLCmd.accesskey    "L">
 <!ENTITY copyAudioURLCmd.label        "复制音频地址">
@@ -90,7 +90,7 @@
 <!ENTITY metadataCmd.label            "属性">
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "复制邮件地址">
-<!ENTITY copyEmailCmd.accesskey       "A">
+<!ENTITY copyEmailCmd.accesskey       "s">
 <!ENTITY pasteCmd.label               "粘贴">
 <!ENTITY pasteCmd.accesskey           "P">
 <!ENTITY cutCmd.label                 "剪切">

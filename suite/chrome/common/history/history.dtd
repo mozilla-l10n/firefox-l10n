@@ -27,7 +27,7 @@
 <!ENTITY view.groupDay.label            "日期">
 <!ENTITY view.groupDay.accesskey        "D">
 <!ENTITY view.groupSite.label           "报告站点">
-<!ENTITY view.groupSite.accesskey       "S">
+<!ENTITY view.groupSite.accesskey       "W">
 <!ENTITY view.groupDayAndSite.label     "日期和站点">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 

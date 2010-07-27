@@ -60,7 +60,7 @@
 <!ENTITY editMessage.accesskey             "D">
 
 <!ENTITY attachmentsTree.label             "附件：">
-<!ENTITY attachmentsTree.accesskey         "A">
+<!ENTITY attachmentsTree.accesskey         "c">
 <!ENTITY openAttachmentCmd.label           "打开
 ">
 <!ENTITY openAttachmentCmd.accesskey       "O">

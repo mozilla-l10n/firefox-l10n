@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -156,15 +157,10 @@
 <!ENTITY redoDefaultCmd.label "重复">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"邮件工具栏">
-<!ENTITY showMessengerToolbarCmd.accesskey	"o">
- 
-<!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"搜索栏">
-<!ENTITY showSearchToolbarCmd.accesskey	"e">
-
-<!ENTITY showLocationToolbarCmd.label "地址工具栏">
-<!ENTITY showLocationToolbarCmd.accesskey "L">
+<!ENTITY showMessengerToolbarCmd.label "邮件工具栏">
+<!ENTITY showMessengerToolbarCmd.accesskey "M">
+<!ENTITY showSearchToolbarCmd.label "搜索栏">
+<!ENTITY showSearchToolbarCmd.accesskey "e">
 
 <!ENTITY messagePaneLayoutStyle.label "布局">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "停止">
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
+<!ENTITY searchButton.title "高级搜索">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "菜单栏">
 <!ENTITY mailToolbar.tooltip "邮件工具栏">
-<!ENTITY locationToolbar.tooltip "地址工具栏">
+<!ENTITY searchToolbar.tooltip "搜索栏">
 <!ENTITY advancedButton.tooltip "高级消息搜索">
 <!ENTITY getMsgButton.tooltip "获取新消息">
 <!ENTITY newMsgButton.tooltip "创建新消息">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "搜索主题或地址">
 <!ENTITY advancedButton.label "字体…">
 <!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchButton.label "搜索消息…">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "所有">
 <!ENTITY all.accesskey "A">
@@ -608,3 +606,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; 认为此邮件可能是封电子诈骗邮件。">
 <!ENTITY removePhishingBarButton.label "不是电子诈骗邮件">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "这条消息的发送者要求您读到消息时通知他。您愿意通知发送者吗？">
+<!ENTITY mdnBarIgnoreButton.label "忽略请求">
+<!ENTITY mdnBarSendButton.label "发送回执">
