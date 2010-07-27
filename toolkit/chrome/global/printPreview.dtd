@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip     "Ensimmäinen sivu">
 <!ENTITY endarrow.tooltip      "Viimeinen sivu">
-<!ENTITY rightarrow.tooltip    "Seuraava sivu">
-<!ENTITY leftarrow.tooltip     "Edellinen sivu">
+<!ENTITY nextarrow.tooltip    "Seuraava sivu">
+<!ENTITY previousarrow.tooltip "Edellinen sivu">

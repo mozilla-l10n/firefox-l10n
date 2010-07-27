@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname  "Varmenteen nimi">
 <!ENTITY certmgr.certserver                   "Palvelin">
-<!ENTITY certmgr.typesofoverrides             "Poikkeukset">
 <!ENTITY certmgr.override_lifetime            "Elinikä">
 <!ENTITY certmgr.tokenname  "Turvallisuuslaite">
-<!ENTITY certmgr.purpose  "Tarkoitukset">
 <!ENTITY certmgr.issued  "Julkaisupäivä">
 <!ENTITY certmgr.expires  "Vanhenemispäivä">
 <!ENTITY certmgr.email  "Sähköpostiosoite">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "S">
 <!ENTITY certmgr.view2.label     	      "Näytä…">
 <!ENTITY certmgr.view2.accesskey              "N">
-<!ENTITY certmgr.edit2.label  		      "Muokkaa…">
-<!ENTITY certmgr.edit2.accesskey              "M">
+<!ENTITY certmgr.edit3.label                  "Muokkaa luottamusta…">
+<!ENTITY certmgr.edit3.accesskey              "M">
 <!ENTITY certmgr.editca.label  		      "Muokkaa varmentajan luotettavuutta">
 <!ENTITY certmgr.editca.accesskey             "u">
 <!ENTITY certmgr.add.label 		      "Lisää">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "V">
 <!ENTITY certmgr.delete2.label    	      "Poista…">
 <!ENTITY certmgr.delete2.accesskey            "P">
+<!ENTITY certmgr.delete_builtin.label         "Poista tai älä luota…">
+<!ENTITY certmgr.delete_builtin.accesskey     "o">
 <!ENTITY certmgr.backup2.label                "Varmuuskopioi…">
 <!ENTITY certmgr.backup2.accesskey            "V">
 <!ENTITY certmgr.backupall2.label             "Varmuuskopioi kaikki…">
