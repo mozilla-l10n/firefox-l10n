@@ -4,21 +4,21 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title Könyvjelzők
+#define bookmarks_heading Könyvjelzők
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder Könyvjelzők eszköztár mappája
+#define bookmarks_toolbarfolder_description A mappához adott könyvjelzők megjelennek a Könyvjelzők eszköztáron
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
-#define getting_started Getting Started
+#define getting_started Bevezetés
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
 # http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
 # Changing the redirect is subject to approval of l10n-drivers.
-#define latest_headlines Latest Headlines
+#define latest_headlines Friss hírek
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -26,18 +26,18 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Help and Tutorials
+#define firefox_help Súgó és oktatóanyagok
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize Customize Firefox
+#define firefox_customize A Firefox testreszabása
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Get Involved
+#define firefox_community Segítsen!
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for http://en-US.www.mozilla.com/en-US/about/
-#define firefox_about About Us
+#define firefox_about Rólunk
 
 #unfilter emptyLines
