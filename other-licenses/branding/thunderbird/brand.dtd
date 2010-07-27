@@ -1,3 +1,6 @@
 <!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  logoTrademark         "Mozilla Thunderbird 以及 Thunderbird 标志
+                                 均为 Mozilla 基金会所有的注册商标。">
+
