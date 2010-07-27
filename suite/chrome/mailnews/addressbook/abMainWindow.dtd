@@ -118,6 +118,7 @@
 <!ENTITY newimButton.label                              "IM">  
 <!ENTITY newimButton.accesskey                          "I">  
 <!ENTITY searchNameAndEmail.placeholder                 "Buscar nombre y correo">
+<!ENTITY searchBox.title                                "Buscar">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de herramientas de la libreta de direcciones">
