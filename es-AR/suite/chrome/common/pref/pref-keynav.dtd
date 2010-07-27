@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Links only">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "o">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar la barra de búsqueda cuando se busca al tipear">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Buscar al tipear sin mostrar la barra de búsqueda no permite el ingreso de texto internacional.">

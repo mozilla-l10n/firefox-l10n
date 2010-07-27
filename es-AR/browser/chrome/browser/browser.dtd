@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegación privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Nueva pestaña">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "Recargar pestaña">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Recargar todas las pestañas">
@@ -171,9 +169,10 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Consola web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
 
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "n">
