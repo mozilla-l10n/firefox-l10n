@@ -62,6 +62,7 @@
 <!ENTITY newimButton.label "Мгновенное сообщение">
 <!ENTITY newimButton.accesskey "М">
 <!ENTITY searchNameAndEmail.placeholder "Поиск по имени и адресу">
+<!ENTITY searchBox.title "Поиск">
 <!ENTITY addressbookToolbar.tooltip "Панель адресной книги">
 <!ENTITY newContactButton.tooltip "Создание нового контакта адресной книги">
 <!ENTITY newlistButton.tooltip "Создание нового списка рассылки">

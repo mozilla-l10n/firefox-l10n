@@ -63,6 +63,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "к">
 <!ENTITY detachAttachmentCmd.label "Отделить…">
 <!ENTITY deleteAttachmentCmd.label "Удалить">
+<!ENTITY openAllAttachmentsCmd.label "Открыть все…">
+<!ENTITY openAllAttachmentsCmd.accesskey "р">
 <!ENTITY saveAllAttachmentsCmd.label "Сохранить все…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "С">
 <!ENTITY detachAllAttachmentsCmd.label "Отделить все…">
