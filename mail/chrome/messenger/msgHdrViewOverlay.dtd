@@ -104,6 +104,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "E">
 <!ENTITY detachAttachmentCmd.label "Détacher…">
 <!ENTITY deleteAttachmentCmd.label "Supprimer">
+<!ENTITY openAllAttachmentsCmd.label "Tout ouvrir…">
+<!ENTITY openAllAttachmentsCmd.accesskey "v">
 <!ENTITY saveAllAttachmentsCmd.label "Tout enregistrer…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "T">
 <!ENTITY detachAllAttachmentsCmd.label "Tout détacher…">
