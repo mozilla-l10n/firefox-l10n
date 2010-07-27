@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label  "Hae yhteystilassa (Kansion avaaminen on hitaampaa, mutta kansio on aina ajantasalla)">
 <!ENTITY searchOnline.accesskey  "y">
+<!ENTITY newFolderButton.label       "Luo">
+<!ENTITY newFolderButton.accesskey   "L">
+<!ENTITY editFolderButton.label      "Päivitä">
+<!ENTITY editFolderButton.accesskey  "P">
