@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Brabhsáil Phríobháideach)">
 <!-- Tab context menu -->
 
-<!ENTITY newTab.label "Cluaisín Nua">
-<!ENTITY newTab.accesskey "C">
 <!ENTITY reloadTab.label "Athluchtaigh Cluaisín">
 <!ENTITY reloadTab.accesskey "A">
 <!ENTITY reloadAllTabs.label "Athluchtaigh Gach Cluaisín">
@@ -169,9 +167,9 @@
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY hudConsoleCmd.label "Consól Forbartha">
-<!ENTITY hudConsoleCmd.accesskey "F">
-<!ENTITY hudConsoleCmd.commandkey "k">
+<!ENTITY webConsoleCmd.label "Consól Gréasáin">
+<!ENTITY webConsoleCmd.accesskey "G">
+<!ENTITY webConsoleCmd.commandkey "k">
 
 <!ENTITY inspectMenu.label "Scrúdaigh">
 <!ENTITY inspectMenu.accesskey "S">
@@ -288,16 +286,16 @@
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
+<!ENTITY openLinkCmdInTab.label "Oscail an Nasc i gCluaisín Nua">
+<!ENTITY openLinkCmdInTab.accesskey "C">
 <!ENTITY openLinkCmd.label "Oscail an Nasc i bhFuinneog Nua">
 <!ENTITY openLinkCmd.accesskey "F">
 <!ENTITY openLinkCmdInCurrent.label "Oscail Nasc">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openLinkCmdInTab.label "Oscail an Nasc i gCluaisín Nua">
-<!ENTITY openLinkCmdInTab.accesskey "C">
-<!ENTITY openFrameCmd.label "Oscail an Fráma i bhFuinneog Nua">
-<!ENTITY openFrameCmd.accesskey "F">
 <!ENTITY openFrameCmdInTab.label "Oscail an Fráma i gCluaisín Nua">
 <!ENTITY openFrameCmdInTab.accesskey "C">
+<!ENTITY openFrameCmd.label "Oscail an Fráma i bhFuinneog Nua">
+<!ENTITY openFrameCmd.accesskey "F">
 <!ENTITY showOnlyThisFrameCmd.label "Ná Taispeáin ach an Fráma Seo">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey "r">

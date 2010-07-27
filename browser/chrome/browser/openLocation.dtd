@@ -2,8 +2,8 @@
 
 <!ENTITY enter.label "Iontráil suíomh (URL) an leathanaigh Gréasáin, nó teideal an chomhaid logánta is mian leat a oscailt:">
 <!ENTITY chooseFile.label "Roghnaigh Comhad…">
-<!ENTITY newWindow.label "Fuinneog Nua">
 <!ENTITY newTab.label "Cluaisín Nua">
+<!ENTITY newWindow.label "Fuinneog Nua">
 <!ENTITY topTab.label "An Cluaisín Reatha">
 <!ENTITY caption.label "Oscail Suíomh Gréasáin">
 <!ENTITY openWhere.label "Oscail i:">
