@@ -1,9 +1,9 @@
 <!ENTITY matchAll.label     "满足所有以下条件">
-<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAll.accesskey "M">
 <!ENTITY matchAny.label     "满足以下任一条件">
-<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAny.accesskey "a">
 <!ENTITY matchAllMsgs.label     "匹配所有消息">
-<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY matchAllMsgs.accesskey "t">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

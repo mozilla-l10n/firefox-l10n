@@ -42,7 +42,7 @@
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"a"> 
 <!ENTITY preferencesCmd.label				"首选项…">
-<!ENTITY preferencesCmd.key					"k">  
+<!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"e"> 
 <!ENTITY findTypeTextCmd.label "查找自定义文本">
 <!ENTITY findTypeTextCmd.accesskey "x">

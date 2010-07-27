@@ -28,4 +28,4 @@
 <!ENTITY  socks5.accesskey            "K">
 <!ENTITY  socksRemoteDNS.label        "用来解析主机(建议SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "e">
-<!ENTITY  SOCKSport.accesskey         "n">
+<!ENTITY  SOCKSport.accesskey         "t">

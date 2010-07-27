@@ -59,7 +59,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newTabCmd.label "复制标签">
 <!ENTITY newTabCmd.accesskey "T">
-<!ENTITY newTabCmd.key "n">
+<!ENTITY newTabCmd.key "t">
 <!ENTITY closeTabCmd.label "关闭标签页">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "帐户…">
@@ -276,7 +276,7 @@
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY pageSourceCmd.label "消息源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.key "l">
+<!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "在消息中查找…">
 <!ENTITY findCmd.accesskey "F">
@@ -306,7 +306,7 @@
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextUnreadThread.label "未读论题">
 <!ENTITY nextUnreadThread.accesskey "T">
-<!ENTITY nextUnreadThread.key "n">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "后退">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "错误信息">
@@ -333,9 +333,6 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "错误信息">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "归档">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "回复">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
@@ -364,6 +361,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "根据消息创建过滤器…">
 <!ENTITY createFilter.accesskey "a">
+<!ENTITY archiveMsgCmd.label "归档">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "移动到">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "复制消息地址">
@@ -524,8 +524,6 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "作为新消息编辑…">
 <!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextArchive.label "归档">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "只回复发件人">
 <!ENTITY contextReplySender.accesskey "O">
 <!ENTITY contextReplyNewsgroup.label "回复到新闻组">
@@ -538,6 +536,8 @@
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "作为附件转发">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextArchive.label "归档">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "移动到">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextCopyMsgMenu.label "复制到">
@@ -589,7 +589,7 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "搜索主题或地址">
+<!ENTITY searchSubjectOrAddress.placeholder "搜索主题或地址">
 <!ENTITY advancedButton.label "字体…">
 <!ENTITY advancedButton.accesskey "A">
 

@@ -12,7 +12,7 @@
 
 <!ENTITY tabCmd.label "浏览器标签">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "n">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "打开网站地址…">
 <!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
@@ -21,7 +21,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY recentTabs.label "最近关闭的标签页">
 <!ENTITY recentTabs.accesskey "R">
-<!ENTITY recentTabs.commandkey "n">
+<!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "最近关闭窗口">
 <!ENTITY recentWindows.accesskey "y">
 <!ENTITY recentWindows.commandkey "y">

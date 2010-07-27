@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "端口:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "始终使用名称和密码">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "用户名：">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "使用安全认证">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "连接安全：">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "无">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP服务器">
 <!ENTITY serverPortDefault.label "默认：">
+<!ENTITY authMethod.label "验证方式： ">
+<!ENTITY authMethod.accesskey "i">
