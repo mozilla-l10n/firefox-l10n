@@ -120,6 +120,7 @@
 <!ENTITY newimButton.label                              "Žinutė">
 <!ENTITY newimButton.accesskey                          "i">
 <!ENTITY searchNameAndEmail.placeholder                 "Ieškoti asmenvardžio ar el. pašto">
+<!ENTITY searchBox.title                                "Paieška">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adresų knygos mygtukų juosta">
