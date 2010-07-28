@@ -17,12 +17,8 @@
 <!ENTITY noSuggestions.label "(Sin sugerencias)">
 <!ENTITY addToDictionary.label "Añadir al diccionario">
 <!ENTITY bookmarksHeader.label "Marcadores">
-<!ENTITY bookmarksManage.label "Editar">
-<!ENTITY editBookmarkRemove.label "Eliminar">
 <!ENTITY editBookmarkDone.label "Terminar">
 <!ENTITY editBookmarkTags.label "Añada etiquetas aquí">
-<!ENTITY contentNavigator.previous "Anterior">
-<!ENTITY contentNavigator.next "Siguiente">
 <!ENTITY selectHelper.done "Terminar">
 <!ENTITY addonsHeader.label "Complementos">
 <!ENTITY addonsLocal.label "Sus complementos">
@@ -70,3 +66,5 @@
 <!ENTITY consoleErrColumn.label "Columna:">
 <!ENTITY contextOpenInNewTab.label "Abrir enlace en una pestaña nueva">
 <!ENTITY contextSaveImage.label "Guardar imagen">
+<!ENTITY contextEditBookmark.label "Editar">
+<!ENTITY contextRemoveBookmark.label "Eliminar">
