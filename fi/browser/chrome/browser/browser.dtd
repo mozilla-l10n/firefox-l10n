@@ -219,8 +219,8 @@
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey      "A">
 
-<!ENTITY clearRecentHistoryCmd.label            "Poista historiatietoja">
-<!ENTITY clearRecentHistoryCmd.accesskey        "P">
+<!ENTITY clearRecentHistory.label            "Poista historiatietoja…">
+<!ENTITY clearRecentHistory.accesskey        "P">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Siirry yksityinen selaus -tilaan">
