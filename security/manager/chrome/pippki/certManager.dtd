@@ -139,7 +139,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adressa:">
 <!ENTITY exceptionMgr.certlocation.download   "Telechargiar il certificat">
-<!ENTITY exceptionMgr.certlocation.accesskey  "Z">
+<!ENTITY exceptionMgr.certlocation.accesskey  "T">
 <!ENTITY exceptionMgr.certstatus.caption      "Status dal certificat">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Vesair...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "A">

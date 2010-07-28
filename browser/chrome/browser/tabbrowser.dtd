@@ -10,7 +10,7 @@
 <!ENTITY  reloadTab.label        "Chargiar danovamain il tab">
 <!ENTITY  reloadTab.accesskey         "l">
 <!ENTITY  openTabInNewWindow.label    "Avrir en ina nova fanestra">
-<!ENTITY  openTabInNewWindow.accesskey "W">
+<!ENTITY  openTabInNewWindow.accesskey "e">
 <!ENTITY  listAllTabs.label      "Far ina glista cun tut ils tabs">
 <!ENTITY  bookmarkAllTabs.label       "Agiuntar segnapaginas per tut ils tabs...">
 <!ENTITY  bookmarkAllTabs.accesskey   "l">
