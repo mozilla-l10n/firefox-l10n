@@ -7,15 +7,12 @@
 <!ENTITY ssl.accesskey "L">
 <!ENTITY ftp.label "FTP прокси:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher прокси:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY reuseProxy.label "Использовать настройки HTTP-прокси для всех протоколов">
 <!ENTITY reuseProxy.accesskey "в">
 <!ENTITY port.label "Порт:">
 <!ENTITY HTTPPort.accesskey "п">
 <!ENTITY SSLPort.accesskey "о">
 <!ENTITY FTPPort.accesskey "р">
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY socks.caption "Общий прокси">
 <!ENTITY socks.description "SOCKS-прокси — разновидность прокси-сервера, которая может работать с различными протоколами. Он используется иногда в корпоративных сетях.">
 <!ENTITY socks.label "Узел SOCKS:">
