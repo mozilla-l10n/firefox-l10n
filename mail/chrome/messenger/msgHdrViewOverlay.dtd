@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey		 "n">
 <!ENTITY detachAttachmentCmd.label     "Irrota…">
 <!ENTITY deleteAttachmentCmd.label     "Poista">
+<!ENTITY openAllAttachmentsCmd.label    "Avaa kaikki…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "v">
 <!ENTITY saveAllAttachmentsCmd.label     "Tallenna kaikki…">
 <!ENTITY saveAllAttachmentsCmd.accesskey		 "k">
 <!ENTITY detachAllAttachmentsCmd.label     "Irrota kaikki…">
