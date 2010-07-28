@@ -53,3 +53,5 @@
 
 <!ENTITY findAsYouTypeFindbarEnable.label "Vykdant paiešką renkant tekstą, rodyti paieškos juostą">
 <!ENTITY findAsYouTypeFindbarEnable.accesskey "r">
+<!-- FIXME Labai bjaurus sakinys -->
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Pastaba. Jeigu paieškos juosta nerodoma, paieška renkant tekstą riboja galimus įvesti simbolius.">

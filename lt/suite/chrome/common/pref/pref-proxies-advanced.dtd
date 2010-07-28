@@ -40,24 +40,21 @@
 <!ENTITY  ssl.accesskey               "S">
 <!ENTITY  ftp.label                   "FTP įgaliotasis serveris:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Goferio įgaliotasis serveris:">
-<!ENTITY  gopher.accesskey            "G">
-<!ENTITY  reuseProxy.label            "Naudoti šias nuostatas SSL, FTP Gopherio protokolams">
-<!ENTITY  reuseProxy.accesskey        "š">
+<!ENTITY  reuseProxy.label            "HTTP įgaliotąjį serverį naudoti visiems protokolams">
+<!ENTITY  reuseProxy.accesskey        "v">
 <!ENTITY  port.label                  "Prievadas:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "r">
-<!ENTITY  FTPPort.accesskey           "i">
-<!ENTITY  gopherPort.accesskey        "e">
+<!ENTITY  FTPPort.accesskey           "e">
 
 <!ENTITY  socks.caption               "Bendrojo pobūdžio įgaliotasis serveris">
 <!ENTITY  socks.description           "SOCKS kompiuteris – tai bendrojo pobūdžio įgaliotasis serveris, kartais naudojamas įstaigose ar pan.">
 <!ENTITY  socks.label                 "SOCKS kompiuteris:">
 <!ENTITY  socks.accesskey             "O">
 <!ENTITY  socks4.label                "SOCKS v4">
-<!ENTITY  socks4.accesskey            "C">
+<!ENTITY  socks4.accesskey            "4">
 <!ENTITY  socks5.label                "SOCKS v5">
-<!ENTITY  socks5.accesskey            "K">
+<!ENTITY  socks5.accesskey            "5">
 <!ENTITY  socksRemoteDNS.label        "Naudoti vardų išrišimui (rekomenduojama, jei naudojate SOCKS v5)">
-<!ENTITY  socksRemoteDNS.accesskey    "v">
+<!ENTITY  socksRemoteDNS.accesskey    "N">
 <!ENTITY  SOCKSport.accesskey         "a">
