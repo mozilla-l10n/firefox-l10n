@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Prima pagină">
 <!ENTITY endarrow.tooltip     "Ultima pagină">
-<!ENTITY rightarrow.tooltip   "Pagina următoare">
-<!ENTITY leftarrow.tooltip    "Pagina precedentă">
+<!ENTITY nextarrow.tooltip    "Pagina următoare">
+<!ENTITY previousarrow.tooltip "Pagina precedentă">

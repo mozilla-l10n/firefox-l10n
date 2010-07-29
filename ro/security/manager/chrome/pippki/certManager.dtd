@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Nume certificat">
 <!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.typesofoverrides             "Excepții">
 <!ENTITY certmgr.override_lifetime            "Timp de viață">
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">
-<!ENTITY certmgr.purpose                      "Scopuri">
 <!ENTITY certmgr.issued                       "Emis la">
 <!ENTITY certmgr.expires                      "Expiră la">
 <!ENTITY certmgr.email                        "Adresă email">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "c">
 <!ENTITY certmgr.view2.label                  "Vizualizează">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit2.label                  "Editează">
-<!ENTITY certmgr.edit2.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Editează acreditare AC">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Adaugă">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Șterge…">
 <!ENTITY certmgr.delete2.accesskey            "g">
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Salvează">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Salvează tot">

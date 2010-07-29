@@ -25,6 +25,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "V">
 <!ENTITY checkNow.label                  "Verifică acum">
 <!ENTITY checkNow.accesskey              "a">
+<!ENTITY submitCrashes.label             "Raportează defecțiunile">
+<!ENTITY submitCrashes.accesskey         "R">
 
 <!ENTITY networkTab.label                "Rețea">
 
