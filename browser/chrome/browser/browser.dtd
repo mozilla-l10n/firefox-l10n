@@ -184,8 +184,8 @@
 
 <!ENTITY keywordfield.label           "Įdėti šios paieškos reikšminį žodį…">
 <!ENTITY keywordfield.accesskey       "p">
-<!ENTITY search.label                 "Paieška žiniatinklyje">
-<!ENTITY search.accesskey             "ž">
+<!ENTITY search.label                 "Paieška saityne">
+<!ENTITY search.accesskey             "i">
 <!ENTITY downloads.label              "Atsiuntimai">
 <!ENTITY downloads.tooltip            "Rodyti atsiunčiamų failų siuntimo eigą">
 <!ENTITY downloads.accesskey          "s">
@@ -198,7 +198,7 @@
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Žiniatinklio pultas">
+<!ENTITY webConsoleCmd.label          "Saityno pultas">
 <!ENTITY webConsoleCmd.accesskey      "p">
 <!ENTITY webConsoleCmd.commandkey     "k">
 

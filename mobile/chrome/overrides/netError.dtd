@@ -20,7 +20,7 @@
     <strong>www</strong>.pavyzdys.lt</li>
   <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
   <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
-    naršyklei „&brandShortName;“ leidžiama pasiekti žiniatinklį.</li>
+    naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
 </ul>
 ">
 
@@ -41,7 +41,7 @@
 <!ENTITY malformedURI.title "Neteisingas adresas">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Žiniatinklio adresai paprastai turi tokį pavidalą:
+  <li>Saityno adresai paprastai turi tokį pavidalą:
     <strong>http://www.pavyzdys/lt/</strong></li>
   <li>Įsitikinkite, kad adreso komponentus skiriate
     dešininiu brūkšniu <strong>/</strong>).</li>
@@ -104,7 +104,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
   <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li>
   <li>Patikrinkite, ar yra ryšys tarp Jūsų kompiuterio ir tinklo.</li>
   <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
-    naršyklei „&brandShortName;“ leidžiama pasiekti žiniatinklį.</li>
+    naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
 </ul>
 ">
 
@@ -145,7 +145,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 bandykite prisijungti iš naujo.</li>
   <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
   <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
-    naršyklei „&brandShortName;“ leidžiama pasiekti žiniatinklį.</li>
+    naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
 </ul>
 ">
 

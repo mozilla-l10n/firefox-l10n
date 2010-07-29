@@ -53,12 +53,12 @@
 <!ENTITY autoCompleteMatchWords                "tik ties žodžių ribomis">
 <!ENTITY autoCompleteMatchStart                "tik adreso ar pavadinimo pradžioje">
 
-<!ENTITY searchEngine.label                    "Žiniatinklio ieškyklė">
+<!ENTITY searchEngine.label                    "Saityno ieškyklė">
 <!ENTITY showSearchEngine.label                "Parodyti numatytąją ieškyklę">
 <!ENTITY showSearchEngine.accesskey            "P">
 
 <!ENTITY unknownLocations.label                "Nežinomi adresai">
 <!ENTITY domainGuessing.label                  "Neradus tinklalapio nurodytu adresu, prie jo pridėti „www“ ir „.com“">
 <!ENTITY domainGuessing.accesskey              "N">
-<!ENTITY keywords.label                        "Jei į adreso lauką įvestas ne adresas, atlikti paiešką žiniatinklyje">
+<!ENTITY keywords.label                        "Jei į adreso lauką įvestas ne adresas, atlikti paiešką saityne">
 <!ENTITY keywords.accesskey                    "J">

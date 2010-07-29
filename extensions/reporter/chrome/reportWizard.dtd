@@ -34,7 +34,7 @@
 <!ENTITY reportWizard.title                         "Pranešimas apie neveikiančią svetainę">
 
 <!ENTITY privacyNotice.label                        "Privatumo politika">
-<!ENTITY reportWizardPrivacy.description            "Ši priemonė leidžia pranešti naršyklės kokybės priežiūros komandai apie svetainę, kuri naršyklėje „&brandShortName;“ veikia nekorektiškai arba paveikia „&brandShortName;“ veikimą. Tuo galite padėti pagerinti „&brandShortName;“ kokybę ir žiniatinklio naršymą su šia naršykle. Prašom perskaityti žemiau pateiktą tekstą, paaiškinantį, kaip mes panaudojame iš Jūsų gautą informaciją.">
+<!ENTITY reportWizardPrivacy.description            "Ši priemonė leidžia pranešti naršyklės kokybės priežiūros komandai apie svetainę, kuri naršyklėje „&brandShortName;“ veikia nekorektiškai arba paveikia „&brandShortName;“ veikimą. Tuo galite padėti pagerinti „&brandShortName;“ kokybę ir saityno naršymą šia naršykle. Prašom perskaityti žemiau pateiktą tekstą, paaiškinantį, kaip mes panaudojame iš Jūsų gautą informaciją.">
 <!ENTITY reportWizardMustAgree.description          "Jei norite tęsti, turite sutikti su aukščiau pateikta privatumo politika.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Privatumo politiką perskaičiau ir sutinku su ja.">

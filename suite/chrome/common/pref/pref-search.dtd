@@ -32,7 +32,7 @@
 
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
 
-<!ENTITY pref.search.title                "Paieška žiniatinklyje">
+<!ENTITY pref.search.title                "Paieška saityne">
 <!ENTITY legendHeader                     "Ieškyklės">
 <!ENTITY defaultSearchEngine.label        "Numatytoji ieškyklė">
 <!ENTITY defaultSearchEngine.accesskey    "N">
@@ -40,7 +40,7 @@
 <!ENTITY openSidebarSearchPanel.label     "Jeigu radinių yra, atverti parankinės paieškos kortelę">
 <!ENTITY openSidebarSearchPanel.accesskey "r">
 
-<!ENTITY openContextSearchTab.label       "Žiniatinklio paieškos iš kontekstinio meniu rezultatus rodyti naujoje kortelėje, o ne lange">
+<!ENTITY openContextSearchTab.label       "Saityno paieškos iš kontekstinio meniu rezultatus rodyti naujoje kortelėje, o ne lange">
 <!ENTITY openContextSearchTab.accesskey   "k">
 
 <!ENTITY searchResults.label              "Paieškos rezultatai">

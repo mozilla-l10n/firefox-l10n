@@ -34,7 +34,7 @@
 <!ENTITY itemPhishing.label      "Apgaulingi laiškai">
 <!ENTITY itemPasswords.label     "Slaptažodžiai">
 <!ENTITY itemAntiVirus.label     "Antivirusinė apsauga">
-<!ENTITY itemCookies.label       "Žiniatinklis">
+<!ENTITY itemCookies.label       "Saitynas">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Brukalo kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">

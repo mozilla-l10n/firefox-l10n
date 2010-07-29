@@ -20,6 +20,9 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Gintautas Grigas <grigas@ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -45,6 +48,6 @@
 <!ENTITY description.heading         "Aprašas">
 <!ENTITY addresses.heading           "Adresai">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Schema">
-<!ENTITY mapIt.tooltip               "Rodyti šio adreso schemą iš žiniatinklio">
+<!ENTITY mapItButton.label           "Žemėlapis">
+<!ENTITY mapIt.tooltip               "Rodyti šį adresą saityno žemėlapyje">
 

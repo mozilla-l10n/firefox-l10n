@@ -63,28 +63,28 @@
 <!ENTITY rights.intro-point3-unbranded "Čia turėtų būti išvardintos šiai programai taikomos privatumo nuostatos.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "„&brandShortName;“ programa suteikia galimybę naudotis papildomomis žiniatinklio tarnybų paslaugomis, pavyzdžiui, „SafeBrowsing“ saugaus naršymo paslauga. Deja, mes negalime užtikrinti, kad šios tarnybos niekada neklysta. Daugiau informacijos apie šias paslaugas ir apie tai, kaip jų atsisakyti, rasite ">
+<!ENTITY rights.intro-point4a "„&brandShortName;“ programa suteikia galimybę naudotis papildomomis saityno tarnybų paslaugomis, pavyzdžiui, „SafeBrowsing“ saugaus naršymo paslauga. Deja, mes negalime užtikrinti, kad šios tarnybos niekada neklysta. Daugiau informacijos apie šias paslaugas ir apie tai, kaip jų atsisakyti, rasite ">
 <!ENTITY rights.intro-point4b "naudojimosi paslaugomis taisyklėse">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Jei šioje programoje naudojamos kokios nors žiniatinklio tarnybos, nuorodos į jų naudojimosi taisykles turėtų būti pateiktos skyrelyje ">
-<!ENTITY rights.intro-point4b-unbranded "„Naudojamos žiniatinklio tarnybos“">
+<!ENTITY rights.intro-point4a-unbranded "Jei šioje programoje naudojamos kokios nors saityno tarnybos, nuorodos į jų naudojimosi taisykles turėtų būti pateiktos skyrelyje ">
+<!ENTITY rights.intro-point4b-unbranded "„Naudojamos saityno tarnybos“">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos žiniatinklio tarnybos">
+<!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos saityno tarnybos">
 
 <!-- intro paragraph for branded builds -->
 <!-- XXX Edited this section to remove the specific reference to Firefox UI (see bug 514817) -->
-<!ENTITY rights.webservices-a "„&brandFullName;“ naudojasi žiniatinklio tarnybų paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, „SafeBrowsing“ saugaus naršymo paslauga. Paslaugų, kurias teikia ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba Jūsų netenkina jų naudojimo taisyklės, „SafeBrowsing“ paslaugą galite išjungti programos nuostatose.">
+<!ENTITY rights.webservices-a "„&brandFullName;“ naudojasi saityno tarnybų paslaugomis (toliau – „Paslaugomis“), pavyzdžiui, „SafeBrowsing“ saugaus naršymo paslauga. Paslaugų, kurias teikia ši „&brandShortName;“ laida, naudojimosi taisyklės aprašytos žemiau. Jei nenorite naudotis Paslaugomis, arba Jūsų netenkina jų naudojimo taisyklės, „SafeBrowsing“ paslaugą galite išjungti programos nuostatose.">
 <!ENTITY rights.webservices-b "">
 <!ENTITY rights.webservices-c "">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Čia turėtų būti pateiktas šioje programoje naudojamų žiniatinklio paslaugų aprašas bei instrukcijos, kaip šių paslaugų naudojimo atsisakyti, jei tai įmanoma.">
+<!ENTITY rights.webservices-unbranded "Čia turėtų būti pateiktas šioje programoje naudojamų saityno paslaugų aprašas bei instrukcijos, kaip šių paslaugų naudojimo atsisakyti, jei tai įmanoma.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Čia turėtų būti pateiktos šioje programoje naudojamų žiniatinklio paslaugų naudojimosi taisyklės.">
+<!ENTITY rights.webservices-term1-unbranded "Čia turėtų būti pateiktos šioje programoje naudojamų saityno paslaugų naudojimosi taisyklės.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "„&vendorShortName;“ ir jos talkininkai, licencijų išdavėjai ir partneriai nuolat dirba, stengdamiesi pateikti kuo tiksliausius ir šviežiausius duomenis apie apgaulingas ir kenksmingas svetaines. Deja, neįmanoma užtikrinti, jog šie duomenys būtų išsamūs ir be klaidų, todėl kai kurios pavojingos svetainės gali likti neatpažintos, o kai kurios saugios gali būti klaidingai palaikytos pavojingomis.">

@@ -64,11 +64,11 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Jei šioje programoje naudojamos kokios nors žiniatinklio tarnybos, nuorodos į jų naudojimosi taisykles turėtų būti pateiktos skyrelyje ">
-<!ENTITY rights.intro-point4b-unbranded "„Naudojamos žiniatinklio tarnybos“">
+<!ENTITY rights.intro-point4a-unbranded "Jei šioje programoje naudojamos kokios nors saityno tarnybos, nuorodos į jų naudojimosi taisykles turėtų būti pateiktos skyrelyje ">
+<!ENTITY rights.intro-point4b-unbranded "„Naudojamos saityno tarnybos“">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos žiniatinklio tarnybos">
+<!ENTITY rights.webservices-header "„&brandFullName;“ naudojamos saityno tarnybos">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -85,10 +85,10 @@
 
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Čia turėtų būti pateiktas šioje programoje naudojamų žiniatinklio paslaugų aprašas bei instrukcijos, kaip šių paslaugų naudojimo atsisakyti, jei tai įmanoma.">
+<!ENTITY rights.webservices-unbranded "Čia turėtų būti pateiktas šioje programoje naudojamų saityno paslaugų aprašas bei instrukcijos, kaip šių paslaugų naudojimo atsisakyti, jei tai įmanoma.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Čia turėtų būti pateiktos šioje programoje naudojamų žiniatinklio paslaugų naudojimosi taisyklės.">
+<!ENTITY rights.webservices-term1-unbranded "Čia turėtų būti pateiktos šioje programoje naudojamų saityno paslaugų naudojimosi taisyklės.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "„&vendorShortName;“ gali vienašališkai nutraukti ar pakeisti Paslaugų teikimą.">

@@ -19,7 +19,7 @@
         <rdf:li> <rdf:Description ID="using-help-certs" nc:name="Liudijimai" nc:link="using_certs_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="profile-help" nc:name="Naudotojų profiliai" nc:link="profiles_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="shortcuts" nc:name="Spartieji klavišai" nc:link="shortcuts.xhtml"/> </rdf:li>
-		  <rdf:li> <rdf:Description ID="tools" nc:name="Žiniatinklio programavimo priemonės" nc:link="developer_tools.xhtml"/> </rdf:li>
+		  <rdf:li> <rdf:Description ID="tools" nc:name="Saityno programavimo priemonės" nc:link="developer_tools.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -38,8 +38,8 @@
   <rdf:Description about="#nav">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-doc" nc:name="Žiniatinklio naršymas" nc:link="nav_help.xhtml#navigating_web_pages"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Paieška žiniatinklyje" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc" nc:name="Saityno naršymas" nc:link="nav_help.xhtml#navigating_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-search" nc:name="Paieška saityne" nc:link="nav_help.xhtml#searching_the_web"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-printsave" nc:name="Tinklalapių kopijavimas, įrašymas ir spausdinimas" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-language" nc:name="Kalbos ir lokalės" nc:link="nav_help.xhtml#using_languages_and_international_content"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Priedai ir atsiuntimai" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
@@ -491,7 +491,7 @@
         <rdf:li> <rdf:Description ID="comp-doc-image" nc:name="Paveikslų įterpimas į tinklalapį"  nc:link="composer_help.xhtml#page_picture"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-page" nc:name="Tinklalapio savybių nustatymas"  nc:link="composer_help.xhtml#page_properties"/> </rdf:li>
         <rdf:li> <rdf:Description ID="link_properties" nc:name="Saitų kūrimas"  nc:link="composer_help.xhtml#page_link"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="comp-doc-publish" nc:name="Tinklalapių publikavimas žiniatinklyje"  nc:link="composer_help.xhtml#publish_top"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-publish" nc:name="Tinklalapių publikavimas saityne"  nc:link="composer_help.xhtml#publish_top"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-prefs" nc:name="Rašyklės nuostatos"  nc:link="composer_help.xhtml#Set_Comp_prefs"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -794,7 +794,7 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="Kokią informaciją naršyklė pateikia lankomai svetainei?"  		nc:link="privacy_help.xhtml#privacy_visit"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-cookies" nc:name="Kas yra slapukai ir kaip jie veikia?"  		nc:link="privacy_help.xhtml#privacy_cookies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="Kaip valdyti žiniatinklio tinklalapius elektroniniuose laiškuose?"  		nc:link="privacy_help.xhtml#privacy_email"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="Kaip valdyti saityno tinklalapius elektroniniuose laiškuose?"  		nc:link="privacy_help.xhtml#privacy_email"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-unauth" nc:name="Ką daryti, kad informacija nepatektų pašaliniams?"  		nc:link="privacy_help.xhtml#privacy_unauth"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1147,7 +1147,7 @@
 <rdf:Description about="urn:root">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="tools" nc:name="Žiniatinklio programavimo priemonės"
+        <rdf:li> <rdf:Description ID="tools" nc:name="Saityno programavimo priemonės"
                    nc:link="developer_tools.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
