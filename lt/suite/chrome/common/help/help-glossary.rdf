@@ -51,7 +51,6 @@
         <rdf:li> <rdf:Description nc:name="pagrindinis slaptažodis" nc:link="glossary.html#master_password"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="ieškyklė" nc:link="glossary.html#search_engine"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="paliudijamasis tapatumo nustatymas" nc:link="glossary.html#certificate-based_authentication"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="pasaulinis žiniatinklis" nc:link="glossary.html#World_Wide_Web"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="pasirašymo liudijimas" nc:link="glossary.html#signing_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="pasirašymo raktas" nc:link="glossary.html#signing_key"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="pašto protokolas POP" nc:link="glossary.html#POP_glossary"/> </rdf:li>
@@ -64,6 +63,7 @@
         <rdf:li> <rdf:Description nc:name="programinė saugumo piremonė" nc:link="glossary.html#software_security_device"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="programos papildinys" nc:link="glossary.html#plug-in"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="raktas" nc:link="glossary.html#key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="saitynas" nc:link="glossary.html#World_Wide_Web"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="saugiųjų sujungimų lygmuo (SSL)" nc:link="glossary.html#Secure_Sockets_Layer"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="saugumo liudijimas" nc:link="glossary.html#security_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="saugumo modulis" nc:link="glossary.html#security_module"/> </rdf:li>

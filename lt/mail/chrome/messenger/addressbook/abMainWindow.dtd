@@ -223,8 +223,8 @@
 <!ENTITY description.heading                            "Aprašas">
 <!ENTITY addresses.heading                              "Adresatai">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Rodyti planą">
-<!ENTITY mapIt.tooltip                                  "Rodyti šio adreso planą iš žiniatinklio">
+<!ENTITY mapItButton.label                              "Rodyti žemėlapį">
+<!ENTITY mapIt.tooltip                                  "Rodyti šį adresą saityno žemėlapyje">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">

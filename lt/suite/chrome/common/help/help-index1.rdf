@@ -1040,7 +1040,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="search:web_search"
-         nc:name="žiniatinklyje"
+         nc:name="saityne"
 	 nc:link="nav_help.html#web_pages:searchingIDX"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -2873,7 +2873,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="web_pages:searching"
-         nc:name="paieška žiniatinklyje"
+         nc:name="paieška saityne"
 	 nc:link="nav_help.html#web_pages:searchingIDX"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>

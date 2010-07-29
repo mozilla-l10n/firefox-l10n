@@ -31,7 +31,7 @@
 <!ENTITY defaultClient.title        "Numatytoji programa">
 <!ENTITY defaultClient.intro        "Skirti „&brandShortName;“ numatytąja:">
 
-<!ENTITY browser.label              "žiniatinklio naršykle">
+<!ENTITY browser.label              "saityno naršykle">
 <!ENTITY email.label                "el. pašto programa">
 <!ENTITY newsgroups.label           "naujienų grupių programa">
 <!ENTITY feeds.label                "sklaidos kanalų skaitytuve">

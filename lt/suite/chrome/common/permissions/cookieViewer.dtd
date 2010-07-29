@@ -35,7 +35,7 @@
 <!ENTITY     div.bannedservers.label        "Svetainės ir jų teisės įrašinėti slapukus:">
 <!ENTITY     div.cookiesonsystem.label      "Slapukai, įrašyti šiame kompiuteryje:">
 <!ENTITY     treehead.cookiename.label      "Slapuko vardas">
-<!ENTITY     treehead.cookiedomain.label    "Žiniatinklio sritis"> 
+<!ENTITY     treehead.cookiedomain.label    "Saityno sritis"> 
 <!ENTITY     treehead.cookieexpires.label   "Galioja iki"> 
 <!ENTITY     treehead.infoselected.label    "Informacija apie pažymėtą slapuką">
 <!ENTITY     button.removecookie.label      "Pašalinti slapuką">
