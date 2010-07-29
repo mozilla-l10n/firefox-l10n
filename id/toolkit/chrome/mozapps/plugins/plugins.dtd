@@ -18,7 +18,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; selesai memasang plugin yang belum tersedia:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Cari tahu tentang Plugin atau cari sendiri plugin-nya.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu direstart agar plugin bisa bekerja.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu dimulai ulang agar plugin bisa bekerja.">
   
 <!ENTITY missingPlugin.label                                 "Klik di sini untuk mengunduh plugin.">
 <!ENTITY disabledPlugin.label                                "Plugin untuk isi berikut telah dimatikan. Klik di sini untuk mengelola plugin Anda.">

@@ -21,7 +21,7 @@
 <!ENTITY updates.updating.label               "Memperbarui pengaya">
 <!ENTITY updates.installed.label              "Pengaya Anda telah diperbarui.">
 <!ENTITY updates.downloaded.label             "Versi baru pengaya Anda telah diunduh.">
-<!ENTITY updates.restart.label                "Restart sekarang untuk menyelesaikan pemasangan">
+<!ENTITY updates.restart.label                "Mulai ulang sekarang untuk menyelesaikan pemasangan">
 <!ENTITY updates.noneFound.label              "Tidak ada versi baru ditemukan">
 
 <!-- addon actions -->
@@ -43,6 +43,8 @@
 <!ENTITY cmd.uninstallAddon.label             "Hapus">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
 <!ENTITY cmd.uninstallAddon.tooltip           "Hapus pemasangan pengaya ini">
+<!ENTITY cmd.showPreferences.label            "Pengaturan">
+<!ENTITY cmd.showPreferences.tooltip          "Ubah pengaturan pengaya ini">
 <!ENTITY cmd.contribute.label                 "Berkontribusi">
 <!ENTITY cmd.contribute.accesskey             "k">
 <!ENTITY cmd.contribute.tooltip               "Ikut berkontribusi pengembangan pengaya ini">
@@ -67,7 +69,7 @@
 
 
 <!-- ratings -->
-<!ENTITY rating.yourRating.label              "Peringkat Anda:">
+<!ENTITY rating.label                         "Peringkat:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tunda">
@@ -101,8 +103,8 @@
 <!ENTITY addon.undo.tooltip                   "Batalkan aksi ini">
 <!ENTITY addon.undoUninstall.label            "Batalkan?">
 <!ENTITY addon.undoUninstall.tooltip          "Biarkan pengaya ini tetap terpasang">
-<!ENTITY addon.restartNow.label               "Restart sekarang">
-<!ENTITY addon.restartNow.tooltip             "Restart sekarang untuk menyelesaikan pemasangan">
+<!ENTITY addon.restartNow.label               "Mulai ulang sekarang">
+<!ENTITY addon.restartNow.tooltip             "Mulai ulang sekarang untuk menyelesaikan pemasangan">
 <!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang pengaya ini">
 <!ENTITY addon.checkingForUpdates.label       "Memeriksa versi baru…">
