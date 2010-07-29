@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organize your bookmarks">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Închide">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vederi">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "Bară de unelte">
-<!ENTITY view.toolbar.accesskey         "u">
+<!ENTITY views.tooltip                  "Change your view">
 <!ENTITY view.columns.label             "Arată coloane">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Sortează">
@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "a">
 <!ENTITY view.sortDescending.label      "De la Z la A">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Folosirea semnelor de carte">
-<!ENTITY help.usingBookmarks.accesskey  "F">
-<!ENTITY help.usingHistory.label        "Folosirea istoricului">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "Sfaturi și trucuri avansate">
-<!ENTITY help.advancedTips.accesskey    "t">
 
 <!ENTITY cmd.findInBookmarks.label      "Caută în semne de carte...">
 <!ENTITY cmd.findInBookmarks.accesskey  "C">
@@ -48,28 +42,6 @@
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Alege fișierul...">
 <!ENTITY cmd.restoreFromFile.accesskey  "l">
-
-<!ENTITY cmd.select_all.label "Selectează tot">
-<!ENTITY cmd.select_all.accesskey "a">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Taie">
-<!ENTITY cmd.edit_cut.accesskey     "T">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Copiază">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Lipește">
-<!ENTITY cmd.edit_paste.accesskey   "p">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Șterge">
-<!ENTITY cmd.edit_delete.accesskey  "g">
-<!ENTITY cmd.edit_undo.label        "Anulează">
-<!ENTITY cmd.edit_undo.accesskey    "A">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Refă">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
 
 <!ENTITY cmd.bookmarkLink.label         "Pune semn de carte aici...">
 <!ENTITY cmd.bookmarkLink.accesskey     "P">
@@ -90,19 +62,12 @@
 <!ENTITY cmd.properties.label      "Proprietăți">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "Redenumește">
-<!ENTITY cmd.rename.accesskey  "R">
-
 <!ENTITY cmd.sortby_name.label              "Sortează după nume">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Semn de carte nou...">
 <!ENTITY cmd.new_bookmark.accesskey        "c">
-<!ENTITY cmd.new_livemark.label            "Semn actualizabil nou...">
-<!ENTITY cmd.new_livemark.accesskey        "l">
 <!ENTITY cmd.new_folder.label              "Dosar nou...">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "o">
@@ -113,15 +78,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "Reîncarcă titlul actualizabil">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "t">
-
-<!ENTITY cmd.groupby_site.label      "Grupează după sait">
-<!ENTITY cmd.groupby_site.accesskey  "s">
-<!ENTITY cmd.groupby_page.label      "Grupează după pagină">
-<!ENTITY cmd.groupby_page.accesskey  "p">
-<!ENTITY cmd.groupby_feed.label      "Grupează după abonament">
-<!ENTITY cmd.groupby_feed.accesskey  "G">
-<!ENTITY cmd.groupby_post.label      "Grupează după postări">
-<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mută...">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -146,57 +102,14 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Istoric">
 <!ENTITY search.scopeHistory.accesskey             "r">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Arată creatorul de căutare">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Ascunde creatorul de căutare">
 <!ENTITY saveSearch.label                          "Salvează">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Caută numai semne de carte">
-<!ENTITY advancedSearch.match.label                "Respectă">
-<!ENTITY advancedSearch.all.label                  "toate">
-<!ENTITY advancedSearch.any.label                  "oricare din">
-<!ENTITY advancedSearch.rules.label                "regulile următoare:">
-<!ENTITY advancedSearch.subj_keyword.label         "Conține textul">
-<!ENTITY advancedSearch.subj_visited.label         "Data vizitei">
-<!ENTITY advancedSearch.subj_location.label        "Adresă">
-<!ENTITY advancedSearch.location_startswith.label  "începe cu">
-<!ENTITY advancedSearch.location_is.label          "este">
-<!ENTITY advancedSearch.location_onsite.label      "este pe sait">
-<!ENTITY advancedSearch.time_is.label              "pe">
-<!ENTITY advancedSearch.time_before.label          "înainte de">
-<!ENTITY advancedSearch.time_after.label           "după">
-<!ENTITY advancedSearch.time_inlast.label          "în ultimele">
-<!ENTITY advancedSearch.last_days.label            "zile">
-<!ENTITY advancedSearch.last_weeks.label           "săptămâni">
-<!ENTITY advancedSearch.last_months.label          "luni">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Grupează după:">
-<!ENTITY advancedSearch.groupby_host.label         "gazdă">
-<!ENTITY advancedSearch.groupby_domain.label       "domeniu">
-<!ENTITY advancedSearch.groupby_folder.label       "dosar">
-<!ENTITY advancedSearch.sortby.label               "Sortează după:">
-<!ENTITY advancedSearch.sortby_title.label         "titlu">
-<!ENTITY advancedSearch.sortby_date.label          "dată">
-<!ENTITY advancedSearch.sortby_visit.label         "nr. de vizite">
-<!ENTITY advancedSearch.sortby_url.label           "adresă">
-<!ENTITY advancedSearch.sortby_asc.label           "crescător">
-<!ENTITY advancedSearch.sortby_desc.label          "descrescător">
-<!ENTITY advancedSearch.max.label                  "Maximum de rezultate:">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "Flux">
-<!ENTITY feed.subscribe.tooltip  "Abonare">
-
-<!ENTITY view.detailsMacOSX.label  "Listă">
-<!ENTITY view.details.label        "Detalii">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Luați-vă suplimente de utilizare">
-
 <!ENTITY maintenance.label      "Import și export">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
 
 <!ENTITY backCmd.label       "Înapoi">
 <!ENTITY backButton.tooltip  "Mergi înapoi">

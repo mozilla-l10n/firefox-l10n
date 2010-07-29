@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Actualizare program">
 
-<!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "43em">
-
 <!ENTITY  checking.title                  "Căutare actualizări">
 <!ENTITY  updateCheck.label               "Se caută versiuni noi de &brandShortName;…">
 
@@ -38,7 +35,7 @@
 
 <!ENTITY  incompatibleList.title          "S-au găsit suplimente incompatibile">
 
-<!ENTITY  downloading.title               "Descărcare actualizare">
+<!ENTITY  downloadPage.title              "Se descarcă &brandShortName;">
 <!ENTITY  downloading.intro               "Se descarcă actualizarea...">
 <!ENTITY  connecting.label                "Conectare la serverul de actualizare...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; nu a putut verifica integritatea actualizării incrementale pe care a transferat-o, astfel că acum descarcă întregul pachet de actualizare.">

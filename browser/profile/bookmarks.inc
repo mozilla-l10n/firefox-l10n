@@ -7,10 +7,6 @@
 #define bookmarks_title Semne de carte
 #define bookmarks_heading Semne de carte
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Obțineți suplimente pentru semnele de carte
-
 #define bookmarks_toolbarfolder Dosar bară semne de carte
 #define bookmarks_toolbarfolder_description Adăugați semnele de carte la acest dosar pentru a le vedea afișate pe bara pentru semne de carte
 
@@ -41,7 +37,7 @@
 #define firefox_community Implicați-vă
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Despre noi
 
 #unfilter emptyLines

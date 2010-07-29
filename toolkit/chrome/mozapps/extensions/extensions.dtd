@@ -1,176 +1,112 @@
-<!ENTITY addons.title                     "Suplimente">
+<!ENTITY addons.windowTitle                   "Gestionar de suplimente">
+<!ENTITY search.placeholder                   "Caută în toate suplimentele">
+<!ENTITY loading.label                        "Încărcare...">
+<!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
+<!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment potrivit">
+<!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Căutare">
+<!ENTITY view.discover.label                  "Obțineți suplimente">
+<!ENTITY view.locales.label                   "Limbi">
+<!ENTITY view.searchengines.label             "Motoare de căutare">
+<!ENTITY view.features.label                  "Extensii">
+<!ENTITY view.appearance.label                "Teme">
+<!ENTITY view.plugins.label                   "Module">
 
-<!-- View labels -->
-<!ENTITY search.label                     "Suplimente">
-<!ENTITY extensions.label                 "Extensii">
-<!ENTITY themes.label                     "Teme">
-<!ENTITY locales.label                    "Limbi">
-<!ENTITY plugins.label                    "Plugin-uri">
-<!ENTITY update.label                     "Actualizări">
-<!ENTITY install.label                    "Instalare">
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Actualizează suplimentele">
+<!ENTITY updates.updating.label               "Se actualizează suplimentele">
+<!ENTITY updates.installed.label              "Suplimentele dumneavoastră au fost actualizate.">
+<!ENTITY updates.downloaded.label             "S-au descărcat actualizările pentru suplimentele dumneavoastră.">
+<!ENTITY updates.restart.label                "Reporniți acum pentru a finaliza instalarea">
+<!ENTITY updates.noneFound.label              "Nicio actualizare găsită">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "Caută actualizări">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "C">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Caută actualizări pentru suplimentele dumneavoastră.">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Caută actualizări pentru temele dumneavoastră.">
-<!ENTITY cmd.checkUpdatesAllPlugin.tooltip "Găsește actualizări pentru plugin-urile instalate">
-<!ENTITY cmd.installLocalFile.label       "Instalează...">
-<!ENTITY cmd.installLocalFile.accesskey   "I">
-<!ENTITY cmd.installFileAddon.tooltip     "Instalează un supliment">
-<!ENTITY cmd.installFileTheme.tooltip     "Instalează o temă">
-<!ENTITY cmd.installUpdatesAll2.label     "Instalează actualizările">
-<!ENTITY cmd.installUpdatesAll2.accesskey "I">
-<!ENTITY cmd.installUpdatesAll2.tooltip   "Instalează actualizările selectate">
-<!ENTITY cmd.restartApp2.label            "Repornește &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cmd.restartApp2.tooltip          "Reporniți &brandShortName; pentru a încheia instalarea">
-<!ENTITY cmd.skip.label                   "Ignoră">
-<!ENTITY cmd.skip.accesskey               "g">
-<!ENTITY cmd.skip.tooltip                 "Ignoră aceste actualizări">
-<!ENTITY cmd.continue.label               "Continuă">
-<!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "Continuă încărcarea &brandShortName;">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Arată mai multe informații">
+<!ENTITY cmd.showDetails.accesskey            "A">
+<!ENTITY cmd.findUpdates.label                "Caută actualizări">
+<!ENTITY cmd.findUpdates.accesskey            "C">
+<!ENTITY cmd.preferences.label                "Preferințe">
+<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.about.label                      "Despre">
+<!ENTITY cmd.about.accesskey                  "D">
 
-<!ENTITY cmd.enableAll.label              "Activează toate">
-<!ENTITY cmd.enableAll.accesskey          "t">
-<!ENTITY cmd.enableAll.tooltip            "Activează toate suplimentele afișate">
-<!ENTITY cmd.disableAll.label             "Dezactivează toate">
-<!ENTITY cmd.disableAll.accesskey         "z">
-<!ENTITY cmd.disableAll.tooltip           "Dezactivează toate suplimentele afișate">
+<!ENTITY cmd.enableAddon.label                "Activează">
+<!ENTITY cmd.enableAddon.accesskey            "e">
+<!ENTITY cmd.enableAddon.tooltip              "Activează acest supliment">
+<!ENTITY cmd.disableAddon.label               "Dezactivează">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.tooltip             "Dezactivează acest supliment">
+<!ENTITY cmd.uninstallAddon.label             "Elimină">
+<!ENTITY cmd.uninstallAddon.accesskey         "E">
+<!ENTITY cmd.uninstallAddon.tooltip           "Dezinstalează acest supliment">
+<!ENTITY cmd.showPreferences.label            "Preferințe">
+<!ENTITY cmd.showPreferences.tooltip          "Schimbă preferințele acestui supliment">
+<!ENTITY cmd.contribute.label                 "Contribuie">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "Folosește tema">
-<!ENTITY cmd.useTheme.accesskey           "F">
-<!ENTITY cmd.useTheme.tooltip             "Modifică tema &brandShortName;">
-<!ENTITY cmd.options.label                "Opțiuni">
-<!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "Ajustează opțiunile extensiei selectate">
-<!ENTITY cmd.optionsUnix.label            "Preferințe">
-<!ENTITY cmd.optionsUnix.accesskey        "P">
-<!ENTITY cmd.optionsUnix.tooltip          "Editează preferințele extensiei selectate">
-<!ENTITY cmd.enable.label                 "Activează">
-<!ENTITY cmd.enable.accesskey             "A">
-<!ENTITY cmd.enable.tooltip               "Activează acest supliment după repornirea &brandShortName;">
-<!ENTITY cmd.disable.label                "Dezactivează">
-<!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "Dezactivează acest supliment după repornirea &brandShortName;">
-<!ENTITY cmd.uninstall.label              "Dezinstalează">
-<!ENTITY cmd.uninstall2.accesskey         "D">
-<!ENTITY cmd.uninstall2.tooltip           "Dezinstalează acest supliment după repornirea &brandShortName;">
-<!ENTITY cmd.cancelUninstall.label        "Anulează dezinstalarea">
-<!ENTITY cmd.cancelUninstall.accesskey    "A">
-<!ENTITY cmd.cancelUninstall.tooltip      "Anulează dezinstalarea acestui supliment">
-<!ENTITY cmd.cancelInstall.label          "Anulează instalarea">
-<!ENTITY cmd.cancelInstall.accesskey      "n">
-<!ENTITY cmd.cancelInstall.tooltip        "Anulează instalarea acestui supliment">
-<!ENTITY cmd.cancelUpgrade.label          "Anulează actualizarea">
-<!ENTITY cmd.cancelUpgrade.accesskey      "n">
-<!ENTITY cmd.cancelUpgrade.tooltip        "Anulează actualizarea acestui supliment">
-<!ENTITY cmd.installUpdate.label          "Instalează actualizare">
-<!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "Instalează o actualizare pentru acest supliment">
-<!ENTITY cmd.showUpdateInfo.label         "Arată informații">
-<!ENTITY cmd.showUpdateInfo.accesskey     "f">
-<!ENTITY cmd.showUpdateInfo.tooltip       "Arată mai multe informații despre aceste actualizări">
-<!ENTITY cmd.hideUpdateInfo.label         "Ascunde informațiile">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "s">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "Ascunde informațiile despre aceste actualizări">
-<!ENTITY cmd.installSearchResult.label     "Adaugă la &brandShortName;...">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip   "Descarcă și folosește acest supliment">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "Renunță">
-<!ENTITY cancel.accesskey                 "R">
-<!ENTITY cancelInstall.label              "Renunță">
-<!ENTITY cancelInstall.accesskey          "R">
-<!ENTITY cancelUpgrade.label              "Renunță">
-<!ENTITY cancelUpgrade.accesskey          "R">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "Vizitează pagina web">
-<!ENTITY cmd.homepage.accesskey           "w">
-<!ENTITY cmd.about2.label                 "Despre acest supliment">
-<!ENTITY cmd.about.accesskey              "D">
-<!ENTITY cmd.checkUpdate.label            "Caută actualizare">
-<!ENTITY cmd.checkUpdate.accesskey        "C">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versiune">
+<!ENTITY detail.updated.label                 "Actualizat">
+<!ENTITY detail.creator.label                 "Dezvoltator">
+<!ENTITY detail.homepage.label                "Pagina suplimentului">
+<!ENTITY detail.numberOfDownloads.label       "Descărcări">
 
-<!ENTITY cmd.includeUpdate.label          "Include actualizare">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "Include această actualizare">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "Include această actualizare la instalarea actualizărilor">
+<!ENTITY detail.updateAutomatically.label     "Update automatically">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip   "Actualizează acest supliment automat ori de câte ori există o actualizare disponibilă">
+<!ENTITY detail.checkForUpdates.label         "Check for updates">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "Verifică dacă există actualizări pentru acest supliment">
+<!ENTITY detail.showPreferences.label         "Preferences">
+<!ENTITY detail.showPreferences.accesskey     "P">
+<!ENTITY detail.showPreferences.tooltip       "Schimbă preferințele acestui supliment">
 
-<!-- Status Messsages -->
-<!ENTITY insecureUpdate.label             "Nu oferă actualizări sigure.">
-<!ENTITY needsDependencies.label          "Necesită elemente suplimentare.">
-<!ENTITY blocklisted.label                "Dezactivat pentru protecția dumneavoastră.">
-<!ENTITY softBlocklisted.label            "Se știe că provoacă probleme de stabilitate și securitate.">
-<!ENTITY outdated.label                   "Este disponibilă o versiune mai nouă și mai sigură.">
-<!ENTITY toBeDisabled.label               "Suplimentul va fi dezactivat după repornirea &brandShortName;.">
-<!ENTITY toBeEnabled.label                "Suplimentul va fi activat după repornirea &brandShortName;.">
-<!ENTITY toBeInstalled.label              "Suplimentul va fi instalat după repornirea &brandShortName;.">
-<!ENTITY toBeUninstalled.label            "Suplimentul va fi dezinstalat după repornirea &brandShortName;.">
-<!ENTITY toBeUpdated.label                "Suplimentul va fi actualizat după repornirea &brandShortName;.">
 
-<!ENTITY getExtensions.label              "Alte extensii">
-<!ENTITY getThemes.label                  "Alte teme">
-<!ENTITY getPlugins.label                 "Alte plugin-uri">
+<!-- ratings -->
+<!ENTITY rating.label                         "Apreciere:">
 
-<!ENTITY searchAddons.label               "Caută în toate suplimentele">
-<!ENTITY browseAddons.label               "Toate suplimentele disponibile">
-<!ENTITY searchFailed.label               "&brandShortName; nu poate prelua suplimente">
-<!ENTITY recommendedHeader.label          "Recomandate">
-<!ENTITY recommendedThrobber.label        "Se obține lista de suplimente recomandate">
-<!ENTITY searchThrobber.label             "Se caută suplimente">
-<!ENTITY resetSearch.label                "Curăță rezultatele">
-<!ENTITY noSearchResults.label            "Toate rezultatele sunt deja instalate sau incompatibile.">
-<!ENTITY noRecommendedResults.label       "Toate recomandările sunt deja instalate sau incompatibile.">
-<!ENTITY emptySearch.label                "Niciun supliment găsit">
-<!ENTITY emptySearch.button               "OK">
-<!ENTITY cancelSearch.button              "Renunță">
-<!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Află mai multe">
-<!ENTITY searchBox.label                  "Caută în toate suplimentele">
-<!ENTITY recommendedResults.label         "Toate suplimentele recomandate">
-<!ENTITY searchResultConnecting.label     "Conectare…">
-<!ENTITY searchResultInstalling.label     "Instalare...">
-<!ENTITY searchResultFailed.label         "Instalare eșuată">
-<!ENTITY searchResultInstalled.label      "Instalare completă">
-<!ENTITY addonTypeExtension.label         "Extensie">
-<!ENTITY addonTypeTheme.label             "Temă">
-<!ENTITY missingThumbnail.label           "Fără avanpremieră">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pauză">
+<!ENTITY progress.cancel.tooltip              "Renunță">
 
-<!ENTITY previewNoThemeSelected.label     "Nicio temă selectată">
-<!ENTITY previewNoPreviewImage.label      "Această temă nu are o imagine de previzualizare">
-<!ENTITY moreInfo.label                   "Mai multe informații">
-<!ENTITY infoNoAddonSelected.label        "Nicio actualizare selectată">
-<!ENTITY infoNoUpdateInfo.label           "Această actualizare nu are informații adiționale">
-<!ENTITY infoUpdateInfoError.label        "A apărut o eroare la încărcarea informațiilor despre această actualizare">
 
-<!ENTITY updateSuccess.label              "Actualizare încheiată cu succes.">
-<!ENTITY installSuccess.label             "Instalare încheiată cu succes.">
-<!ENTITY installSuccessRestart.label      "Reporniți pentru a încheia instalarea.">
-<!ENTITY updateSuccessRestart.label       "Reporniți pentru a încheia actualizarea.">
-<!ENTITY installWaiting.label             "Așteptare...">
-<!ENTITY installIncompatibleUpdate.label  "Se verifică compatibilitatea...">
-<!ENTITY installFinishing.label           "Instalare...">
-<!ENTITY installFailure.label             "Instalarea a eșuat.">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Nume">
+<!ENTITY sort.name.tooltip                    "Sortează după nume">
+<!ENTITY sort.size.label                      "Mărime">
+<!ENTITY sort.size.tooltip                    "Sortare după mărime">
+<!ENTITY sort.dateUpdated.label               "Ultima actualizare">
+<!ENTITY sort.dateUpdated.tooltip             "Sortare după data actualizării">
+<!ENTITY sort.rating.label                    "Apreciere">
+<!ENTITY sort.rating.tooltip                  "Sortare după media evaluării">
 
-<!ENTITY progressStatus.label             "Se caută actualizări">
 
-<!ENTITY eula.title                       "Acord de licențiere cu utilizatorul">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Accept, instalează...">
+<!ENTITY showMore.label                       "Arată mai multe">
+<!ENTITY showMore.tooltip                     "Arată mai multe detalii">
+<!ENTITY showLess.label                       "Show less">
+<!ENTITY showLess.tooltip                     "Arată mai puține detalii">
 
-<!ENTITY blocklist.blocked.label          "Blocat">
-<!ENTITY blocklist.checkbox.label         "Dezactivează">
+<!ENTITY search.filter.label                  "Arată:">
+<!ENTITY search.filter.installed.label        "Your installed add-ons">
+<!ENTITY search.filter.available.label        "Suplimente disponibile">
+
+<!ENTITY addon.homepage                       "Pagina suplimentului">
+<!ENTITY addon.unknownDate                    "Necunoscut">
+<!ENTITY addon.disabled.postfix               "(dezactivat)">
+<!ENTITY addon.undo.label                     "Anulați?">
+<!ENTITY addon.undo.tooltip                   "Anulează această acțiune">
+<!ENTITY addon.undoUninstall.label            "Anulați?">
+<!ENTITY addon.undoUninstall.tooltip          "Păstrează acest supliment instalat">
+<!ENTITY addon.restartNow.label               "Reporniți acum">
+<!ENTITY addon.restartNow.tooltip             "Reporniți acum pentru a finaliza instalarea">
+<!ENTITY addon.install.label                  "Instalează">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
+
+<!ENTITY addon.createdBy.label                "De către ">

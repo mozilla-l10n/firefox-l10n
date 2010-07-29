@@ -31,11 +31,11 @@
 <!ENTITY  showCookies.accesskey         "c">
 
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "va memora istoricul">
-<!ENTITY  historyHeader.dontremember.label "nu va memora istoricul niciodată">
-<!ENTITY  historyHeader.custom.label       "va folosi setări personalizate pentru istoric">
+<!ENTITY  historyHeader.remember.label     "Memora istoricul">
+<!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
+<!ENTITY  historyHeader.custom.label       "Folosește setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor precum și cookie-urile de la saiturile vizitate.">
@@ -43,7 +43,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Poate doriți să ">
+<!ENTITY  rememberActions.pre.label           "Ați putea dori să ">
 <!ENTITY  rememberActions.clearHistory.label  "curăță istoricul recent">
 <!ENTITY  rememberActions.middle.label        ", sau ">
 <!ENTITY  rememberActions.removeCookies.label "să ștergeți anumite cookie-uri">
@@ -53,22 +53,15 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Poate doriți și să ">
+<!ENTITY  dontrememberActions.pre.label          "Ați putea dori și să ">
 <!ENTITY  dontrememberActions.clearHistory.label "curățați tot istoricul recent">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Pornește automat &brandShortName; într-o sesiune de navigare fără urme">
-<!ENTITY  privateBrowsingAutoStart.accesskey "a">
+<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Memorează istoricul navigării pentru cel puțin">
-<!ENTITY  rememberHistory.pre.accesskey  "M">
-<!ENTITY  rememberHistory.post.label     "zile">
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Memorează istoricul descărcărilor">
 <!ENTITY  rememberDownload.accesskey     "d">

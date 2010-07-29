@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Clic aici pentru a descărca plugin-ul.">
 <!ENTITY disabledPlugin.label                                "Plugin-ul pentru acest conținut a fost dezactivat. Clic aici pentru a gestiona plugin-urile.">
 <!ENTITY blockedPlugin.label                                 "Plugin-ul a fost dezactivat pentru protecția dumneavoastră.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Reîncarcă pagina">
+<!ENTITY reloadPlugin.post                                   " pentru a încerca din nou.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Raportează defecțiunea">
+<!ENTITY report.submitting                                   "Trimitere raport…">
+<!ENTITY report.submitted                                    "Defecțiune raportată.">
+<!ENTITY report.disabled                                     "Raportarea defecțiunilor e dezactivată.">
+<!ENTITY report.failed                                       "Trimitere eșuată.">
+<!ENTITY report.unavailable                                  "Niciun raport disponibil.">
