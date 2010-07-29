@@ -2,6 +2,6 @@ amazondotcom
 answers
 creativecommons
 eBay
-google
+google-ku
 wikipedia-ku
 yahoo
