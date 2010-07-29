@@ -27,13 +27,10 @@
 <!ENTITY cmd.about.accesskey "О">
 <!ENTITY cmd.enableAddon.label "Включить">
 <!ENTITY cmd.enableAddon.accesskey "ч">
-<!ENTITY cmd.enableAddon.tooltip "Включить это дополнение">
 <!ENTITY cmd.disableAddon.label "Отключить">
 <!ENTITY cmd.disableAddon.accesskey "т">
-<!ENTITY cmd.disableAddon.tooltip "Отключить это дополнение">
 <!ENTITY cmd.uninstallAddon.label "Удалить">
 <!ENTITY cmd.uninstallAddon.accesskey "д">
-<!ENTITY cmd.uninstallAddon.tooltip "Удалить это дополнение">
 <!ENTITY cmd.showPreferences.label "Настройки">
 <!ENTITY cmd.showPreferences.tooltip "Изменить настройки этого дополнения">
 <!ENTITY cmd.contribute.label "Внести вклад">
