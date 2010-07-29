@@ -12,22 +12,24 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label           "Tab Baru">
-<!ENTITY  newTab.accesskey       "T">
-<!ENTITY  reloadTab.label        "Muat Ulang Tab">
-<!ENTITY  reloadTab.accesskey         "l">
-<!ENTITY  reloadAllTabs.label    "Muat Ulang Semua Tab">
-<!ENTITY  reloadAllTabs.accesskey         "M">
-<!ENTITY  closeOtherTabs.label   "Tutup Tab Lainnya">
-<!ENTITY  closeOtherTabs.accesskey  "L">
-<!ENTITY  openTabInNewWindow.label    "Buka di Jendela Baru">
+<!ENTITY  reloadTab.label              "Muat Ulang Tab">
+<!ENTITY  reloadTab.accesskey          "l">
+<!ENTITY  reloadAllTabs.label          "Muat Ulang Semua Tab">
+<!ENTITY  reloadAllTabs.accesskey      "M">
+<!ENTITY  closeOtherTabs.label         "Tutup Tab Lainnya">
+<!ENTITY  closeOtherTabs.accesskey     "L">
+<!ENTITY  openTabInNewWindow.label     "Buka di Jendela Baru">
 <!ENTITY  openTabInNewWindow.accesskey "J">
-<!ENTITY  bookmarkThisTab.label       "Buat Bookmark untuk Tab Ini">
-<!ENTITY  bookmarkThisTab.accesskey   "k">
-<!ENTITY  bookmarkAllTabs.label       "Buat Bookmark Semua Tab…">
-<!ENTITY  bookmarkAllTabs.accesskey   "S">
-<!ENTITY  undoCloseTab.label          "Batalkan Menutup Tab">
-<!ENTITY  undoCloseTab.accesskey      "B">
+<!ENTITY  pinTab.label                 "Jadikan Tab Apl">
+<!ENTITY  pinTab.accesskey             "p">
+<!ENTITY  unpinTab.label               "Jadikan Tab Normal">
+<!ENTITY  unpinTab.accesskey           "d">
+<!ENTITY  bookmarkThisTab.label        "Buat Bookmark untuk Tab Ini">
+<!ENTITY  bookmarkThisTab.accesskey    "k">
+<!ENTITY  bookmarkAllTabs.label        "Buat Bookmark Semua Tab…">
+<!ENTITY  bookmarkAllTabs.accesskey    "S">
+<!ENTITY  undoCloseTab.label           "Batalkan Menutup Tab">
+<!ENTITY  undoCloseTab.accesskey       "B">
 <!ENTITY  closeTab.label         "Tutup Tab">
 <!ENTITY  closeTab.accesskey         "u">
 
@@ -129,6 +131,12 @@
 <!ENTITY bookmarksButton.tooltip        "Menampilkan bookmark Anda">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bookmark">
+<!ENTITY bookmarksMenuButton.tooltip        "Tampilkan bookmark Anda">
+<!ENTITY viewBookmarksSidebar.label         "Tampilkan di Bilah Samping">
+<!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Bookmark">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -159,9 +167,23 @@
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY webConsoleCmd.label          "Konsol Web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Inspeksi">
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectButton.label          "Inspeksi">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Selanjutnya">
+<!ENTITY inspectNextButton.accesskey  "n">
+<!ENTITY inspectPreviousButton.label  "Sebelumnya">
+<!ENTITY inspectPreviousButton.accesskey "m">
+<!ENTITY inspectStyleButton.label     "Gaya">
+<!ENTITY inspectStyleButton.accesskey "G">
+<!ENTITY inspectStylePanelTitle.label  "Gaya">
 
 <!ENTITY fileMenu.label         "Berkas"> 
 <!ENTITY fileMenu.accesskey       "B">
@@ -347,7 +369,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Salin Lokasi Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "g">
 <!ENTITY copyEmailCmd.label           "Salin Alamat Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bingkai Ini">

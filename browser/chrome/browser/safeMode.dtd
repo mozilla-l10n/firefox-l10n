@@ -57,5 +57,5 @@
 <!ENTITY restoreSearch.label          "Kembalikan daftar mesin pencari default">
 <!ENTITY restoreSearch.accesskey      "c">
 
-<!ENTITY changeAndRestartButton.label "Simpan Perubahan dan Restart">
+<!ENTITY changeAndRestartButton.label "Simpan Perubahan dan Mulai Ulang">
 <!ENTITY continueButton.label         "Lanjutkan dalam Mode Aman">

@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Kelola">
 <!ENTITY organize.accesskey    "K">
+<!ENTITY organize.tooltip      "Kelola bookmark Anda">
 
 <!ENTITY file.accesskey                 "B">
 <!ENTITY file.close.label               "Tutup">
@@ -13,6 +14,7 @@
 <!ENTITY edit.accesskey                 "U">
 <!ENTITY views.label                    "Tampilan">
 <!ENTITY views.accesskey                "T">
+<!ENTITY views.tooltip                  "Atur tampilan">
 <!ENTITY view.columns.label             "Tampilkan Kolom">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Urutan">
@@ -107,6 +109,7 @@
 
 <!ENTITY maintenance.label      "Impor dan Cadangan">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Impor dan cadangkan bookmark Anda‚">
 
 <!ENTITY backCmd.label       "Mundur">
 <!ENTITY backButton.tooltip  "Mundur">

@@ -18,7 +18,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktori Profil">
-<!ENTITY aboutSupport.appBasicsPlugins "Plugin Terpasang">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin Terpasang">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurasi Build">
 
 <!ENTITY aboutSupport.show.label "Buka Foldernya Berkas">
