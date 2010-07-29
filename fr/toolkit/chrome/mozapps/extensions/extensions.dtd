@@ -35,13 +35,10 @@
 
 <!ENTITY cmd.enableAddon.label            "Activer">
 <!ENTITY cmd.enableAddon.accesskey        "A">
-<!ENTITY cmd.enableAddon.tooltip          "Activer ce module complémentaire">
 <!ENTITY cmd.disableAddon.label           "Désactiver">
 <!ENTITY cmd.disableAddon.accesskey       "D">
-<!ENTITY cmd.disableAddon.tooltip         "Désactiver ce module complémentaire">
 <!ENTITY cmd.uninstallAddon.label         "Supprimer">
 <!ENTITY cmd.uninstallAddon.accesskey     "S">
-<!ENTITY cmd.uninstallAddon.tooltip       "Désinstaller ce module complémentaire">
 <!ENTITY cmd.showPreferences.label        "Préférences">
 <!ENTITY cmd.showPreferences.tooltip      "Changer les préférences de ce module complémentaire">
 <!ENTITY cmd.contribute.label             "Contribuer">
