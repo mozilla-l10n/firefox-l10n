@@ -11,11 +11,11 @@
 <!ENTITY locbar.nothing.label "Hiçbir şey">
 
 
-<!ENTITY acceptCookies.label "Accept cookies from sites">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies.label "Sitelerden çerez kabul et">
+<!ENTITY acceptCookies.accesskey "k">
 
-<!ENTITY acceptThirdParty.label "Accept third-party cookies">
-<!ENTITY acceptThirdParty.accesskey "c">
+<!ENTITY acceptThirdParty.label "Üçüncü parti çerezlerini kabul et">
+<!ENTITY acceptThirdParty.accesskey "p">
 
 <!ENTITY keepUntil.label "Tutma sınırı:">
 <!ENTITY keepUntil.accesskey "T">

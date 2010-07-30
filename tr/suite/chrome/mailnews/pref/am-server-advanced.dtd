@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "Gelişmiş hesap ayarları">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "G">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Sadece abone olunan dizinleri göster">
 <!ENTITY usingSubscription.accesskey "e">
 <!ENTITY dualUseFolders.label "Sunucu, altdizinler ve ileti içeren dizinleri destekliyor.">

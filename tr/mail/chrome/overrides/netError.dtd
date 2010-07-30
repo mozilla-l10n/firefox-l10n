@@ -16,7 +16,7 @@
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li><strong>www</strong>.example.com yerine 
 <strong>ww</strong>.example.com 
-adres yanlış yazılmış olabilir.</li>
+adres yanlış yazılmış olabilir.</li> 
 <li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> 
 <li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> 
 </ul>">
@@ -119,6 +119,9 @@ bağlantısını kontrol edin.</li>
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
 <p>Bu tür sahtekârlıklar yemleme olarak bilinen dümenlerde kullanılır. Yemleme saldırılarında araç olarak güvenebileceğiniz kurumları taklit eden sayfalara ve e-postalara başvurulur.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">

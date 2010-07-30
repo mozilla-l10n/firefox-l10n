@@ -39,14 +39,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY cmdShowFindDialog.label "Find Nodes…">
-<!ENTITY cmdShowFindDialog.accesskey "f">
+<!ENTITY cmdShowFindDialog.accesskey "F">
 <!ENTITY cmdShowFindDialog.accelkey "f">
 
 <!ENTITY cmdFindNext.label "Sonrakini bul">
 <!ENTITY cmdFindNext.accesskey "S">
 
 <!ENTITY cmdToggleAnonContent.label "Show Anonymous Content">
-<!ENTITY cmdToggleAnonContent.accesskey "a">
+<!ENTITY cmdToggleAnonContent.accesskey "A">
 
 <!ENTITY cmdToggleWhitespaceNodes.label "Show Whitespace Nodes">
 <!ENTITY cmdToggleWhitespaceNodes.accesskey "W">
@@ -61,12 +61,12 @@
 <!ENTITY cmdToggleAttributes.accesskey "r">
 
 <!ENTITY cmdSelectByClick.label "Select Element By Click">
-<!ENTITY cmdSelectByClick.accesskey "s">
+<!ENTITY cmdSelectByClick.accesskey "S">
 
 <!ENTITY ColumnsDialog.title "Columns">
 
 <!ENTITY cmdShowColumnsDialog.label "Columns…">
-<!ENTITY cmdShowColumnsDialog.accesskey "c">
+<!ENTITY cmdShowColumnsDialog.accesskey "C">
   
 <!ENTITY cmdInsertNode.label "Insert…">
 <!ENTITY cmdDeleteNode.label "Sil">

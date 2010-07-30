@@ -117,6 +117,7 @@
 <!ENTITY newimButton.label "IM">
 <!ENTITY newimButton.accesskey "M">
 <!ENTITY searchNameAndEmail.placeholder "İsim veya e-postayı ara">
+<!ENTITY searchBox.title "Ara">
 <!-- Tooltips -->
 
 <!ENTITY addressbookToolbar.tooltip "Adres defteri araç çubuğu">

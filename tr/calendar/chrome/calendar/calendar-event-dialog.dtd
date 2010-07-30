@@ -51,10 +51,12 @@
 
 <!ENTITY newevent.status.label "Durum">
 <!ENTITY newevent.status.accesskey "u">
-<!ENTITY newevent.status.none.label "Tanımlanmadı">
-<!ENTITY newevent.status.none.accesskey "T">
-<!ENTITY newevent.status.cancelled.label "Vazgeçildi">
-<!ENTITY newevent.status.cancelled.accesskey "z">
+<!ENTITY newevent.eventStatus.none.label "Not specified">
+<!ENTITY newevent.eventStatus.none.accesskey "o">
+<!ENTITY newevent.todoStatus.none.label "Belirtilmemiş">
+<!ENTITY newevent.eventStatus.cancelled.label "İptal edildi">
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n">
+<!ENTITY newevent.todoStatus.cancelled.label "Vazgeçildi">
 <!ENTITY newevent.status.tentative.label "Kesin değil">
 <!ENTITY newevent.status.tentative.accesskey "d">
 <!ENTITY newevent.status.confirmed.label "Onaylandı">
@@ -147,8 +149,8 @@
 <!ENTITY event.menu.options.timezone.accesskey "Z">
 <!ENTITY event.menu.options.priority2.label "Önemlilik">
 <!ENTITY event.menu.options.priority2.accesskey "Ö">
-<!ENTITY event.menu.options.priority.notspecified.label "Tanımlanmadı">
-<!ENTITY event.menu.options.priority.notspecified.accesskey "T">
+<!ENTITY event.menu.options.priority.notspecified.label "Not specified">
+<!ENTITY event.menu.options.priority.notspecified.accesskey "o">
 <!ENTITY event.menu.options.priority.low.label "Düşük">
 <!ENTITY event.menu.options.priority.low.accesskey "D">
 <!ENTITY event.menu.options.priority.normal.label "Normal">
@@ -230,14 +232,11 @@
 <!ENTITY event.reminder.none.label "Uyarısız">
 <!ENTITY event.reminder.0minutes.before.label "0 minutes before">
 <!ENTITY event.reminder.5minutes.before.label "5 dakika önce">
-<!ENTITY event.reminder.10minutes.before.label "10 dakika önce">
 <!ENTITY event.reminder.15minutes.before.label "15 dakika önce">
 <!ENTITY event.reminder.30minutes.before.label "30 dakika önce">
-<!ENTITY event.reminder.45minutes.before.label "45 dakika önce">
 <!ENTITY event.reminder.1hour.before.label "1 saat önce">
 <!ENTITY event.reminder.2hours.before.label "2 saat önce">
-<!ENTITY event.reminder.5hours.before.label "5 saat önce">
-<!ENTITY event.reminder.15hours.before.label "15 saat önce">
+<!ENTITY event.reminder.12hours.before.label "12 saat önce">
 <!ENTITY event.reminder.1day.before.label "1 gün önce">
 <!ENTITY event.reminder.2days.before.label "2 gün önce">
 <!ENTITY event.reminder.1week.before.label "1 hafta önce">

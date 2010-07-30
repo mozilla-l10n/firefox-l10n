@@ -56,7 +56,7 @@
 #define mozilla_about Mozilla hakkında
 
 
-#define extend_seamonkey SeaMonkey uygulamasını zenginleştirin 
+#define extend_seamonkey SeaMonkey uygulamasını zenginleştirin
 
 
 # LOCALIZATION NOTE (seamonkey_addons):

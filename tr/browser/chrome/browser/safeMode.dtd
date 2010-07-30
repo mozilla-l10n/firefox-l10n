@@ -45,7 +45,7 @@
 <!ENTITY disableAddons.label "Bütün eklentileri etkisizleştir">
 <!ENTITY disableAddons.accesskey "B">
 
-<!ENTITY resetToolbars.label "Araç çubuğunu ve kontrol ayarlarını sıfırla">
+<!ENTITY resetToolbars.label "Araç çubuğunu ve düğmeleri sıfırla">
 <!ENTITY resetToolbars.accesskey "r">
 
 <!ENTITY deleteBookmarks.label "Yedekler dışındaki tüm yer imlerini sil">

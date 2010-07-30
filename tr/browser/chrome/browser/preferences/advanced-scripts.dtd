@@ -42,9 +42,9 @@
 
 <!ENTITY moveResizeWindows.label "Mevcut pencereleri taşımasına ya da boyutlandırmasına">
 <!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "Pencereyi ön veya arkaplana taşımasına">
+<!ENTITY raiseLowerWindows.label "Pencereyi ön veya arka plana taşımasına">
 <!ENTITY raiseLowerWindows.accesskey "r">
-<!ENTITY disableContextMenus.label "İçerik menüsünü etkisizleştirmesine veya üstüne yazmasına">
+<!ENTITY disableContextMenus.label "İçerik menüsünü etkisizleştirmesine veya değiştirmesine">
 <!ENTITY disableContextMenus.accesskey "e">
 <!ENTITY hideStatusBar.label "Durum çubuğunu gizlemesine">
 <!ENTITY hideStatusBar.accesskey "D">

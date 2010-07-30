@@ -6,9 +6,14 @@
 <!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Separate addresses with commas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Adresi Bcc'ye ekle:">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.emptytext "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

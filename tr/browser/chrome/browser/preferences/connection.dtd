@@ -8,8 +8,8 @@
 <!ENTITY noProxyTypeRadio.accesskey "e">
 <!ENTITY systemTypeRadio.label "Sistem vekil sunucu ayarlarını kullan">
 <!ENTITY systemTypeRadio.accesskey "S">
-<!ENTITY WPADTypeRadio.label "Vekil sunucu ayarlarını otomatik tanı">
-<!ENTITY WPADTypeRadio.accesskey "V">
+<!ENTITY WPADTypeRadio.label "Bu ağın vekil sunucu ayarlarını otomatik tanı">
+<!ENTITY WPADTypeRadio.accesskey "v">
 <!ENTITY manualTypeRadio.label "Vekil sunucu ayarları">
 <!ENTITY manualTypeRadio.accesskey "u">
 <!ENTITY autoTypeRadio.label "Otomatik vekil sunucu ayarları (URL):">
@@ -18,8 +18,6 @@
 <!ENTITY reload.accesskey "l">
 <!ENTITY ftp.label "FTP vekil sunucusu:">
 <!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher vekil sunucusu:">
-<!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "HTTP vekil sunucusu:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "SSL vekil sunucusu:">
@@ -34,8 +32,6 @@
 <!ENTITY HTTPport.accesskey "p">
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "Vekil sunucu kullanma:">
 <!ENTITY noproxy.accesskey "n">

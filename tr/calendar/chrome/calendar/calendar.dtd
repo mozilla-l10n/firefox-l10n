@@ -18,15 +18,19 @@
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -78,7 +82,7 @@
 <!ENTITY calendar.unifinder.tree.status.label "Durum">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Takvim ismi">
 <!ENTITY calendar.unifinder.tree.duration.label "Süresi">
-<!ENTITY calendar.unifinder.close.tooltip "Etkinlik aramasını ve listesini kapat">
+<!ENTITY calendar.unifinder.close.tooltip "Olay aramayı ve olay listesini kapat">
 
 <!ENTITY calendar.today.button.tooltip "Bugüne git">
 <!ENTITY calendar.todaypane.button.tooltip "Bugün panelini göster">
@@ -104,7 +108,7 @@
 <!ENTITY calendar.navigation.nextday.tooltip "Bir gün ileri">
 <!ENTITY calendar.navigation.prevday.tooltip "Bir gün geri">
 <!ENTITY calendar.navigation.nextweek.tooltip "Bir hafta ileri">
-<!ENTITY calendar.navigation.prevweek.tooltip "Bir hafta geri">
+<!ENTITY calendar.navigation.prevweek.tooltip "Bir Hafta Geri">
 <!ENTITY calendar.navigation.nextmonth.tooltip "Bir ay ileri">
 <!ENTITY calendar.navigation.prevmonth.tooltip "Bir ay geri">
 
@@ -169,7 +173,7 @@
 
 <!ENTITY calendar.context.modifyorviewitem.label "Aç">
 <!ENTITY calendar.context.modifyorviewitem.accesskey "A">
-<!ENTITY calendar.context.modifyorviewtask.label "Görevi aç…">
+<!ENTITY calendar.context.modifyorviewtask.label "Görev Aç...">
 <!ENTITY calendar.context.modifyorviewtask.accesskey "G">
 <!ENTITY calendar.context.newevent.label "Yeni etkinlik…">
 <!ENTITY calendar.context.newevent.accesskey "k">
@@ -185,10 +189,10 @@
 <!ENTITY calendar.context.deleteitem.accesskey "l">
 <!ENTITY calendar.context.deleteevent.label "Etkiliği sil">
 <!ENTITY calendar.context.deleteevent.accesskey "t">
-<!ENTITY calendar.context.deletethisevent.label "Bu etkinlik">
+<!ENTITY calendar.context.deletethisevent.label "Bu Olay">
 <!ENTITY calendar.context.deletethisevent.accesskey "B">
-<!ENTITY calendar.context.deletecompleteseries.label "Tüm diziyi">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "d">
+<!ENTITY calendar.context.deletecompleteseries.label "Diziyi Tamamla">
+<!ENTITY calendar.context.deletecompleteseries.accesskey "D">
 <!ENTITY calendar.context.deletefutureevents.label "Gelecekteki bütün etkinlikler">
 <!ENTITY calendar.context.deletefutureevents.accesskey "G">
 <!ENTITY calendar.context.deletefuturetasks.label "Gelecekteki bütün görevler">
@@ -268,8 +272,8 @@
 <!ENTITY calendar.tasks.view.calendarlist.label "Takvim listesi">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey "l">
 
-<!ENTITY calendar.tasks.view.filtertasks.label "Görevleri süz">
-<!ENTITY calendar.tasks.view.filtertasks.accesskey "s">
+<!ENTITY calendar.tasks.view.filtertasks.label "Görevleri Süz">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey "G">
 <!-- Calendar Alarm Dialog -->
 
 
@@ -327,12 +331,18 @@
 <!ENTITY calendar.print.title.label "Başlık:">
 <!ENTITY calendar.print.layout.label "Düzen:">
 <!ENTITY calendar.print.range.label "Yazdırılacak öğeler">
-<!ENTITY calendar.print.currentview.label "Şimdiki görünümdeki etkinliler">
+<!ENTITY calendar.print.currentView2.label "Güncel görünüm">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Selected events/tasks">
+<!ENTITY calendar.print.tasks.label "Görevler">
+<!ENTITY calendar.print.events.label "Etkinlikler">
 <!ENTITY calendar.print.selected.label "Seçili etkinliler">
 <!ENTITY calendar.print.custom.label "Özel tarih aralığı:">
 <!ENTITY calendar.print.from.label "Başlangıç:">
 <!ENTITY calendar.print.to.label "Bitiş:">
 <!ENTITY calendar.print.settingsGroup.label "Yazdırma ayarları">
+<!ENTITY calendar.print.optionsGroup.label "Seçenekler">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tasks with no due date">
+<!ENTITY calendar.print.completedtasks.label "Tamamlanmış görevler">
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Ayrıntılar…">

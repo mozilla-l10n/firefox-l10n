@@ -11,9 +11,9 @@
 <!ENTITY restricted.label "Restricted Sites">
 
 <!ENTITY addSite.label "Add Site…">
-<!ENTITY addSite.accesskey "a">
+<!ENTITY addSite.accesskey "A">
 <!ENTITY settings.label "Settings for ">
-<!ENTITY settings.accesskey "s">
+<!ENTITY settings.accesskey "S">
 
 <!ENTITY description.label "Policy Description:">
 

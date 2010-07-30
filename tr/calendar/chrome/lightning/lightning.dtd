@@ -49,7 +49,7 @@
 <!ENTITY lightning.taskLabel "Lightning">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label "Etkinlik…">
+<!ENTITY lightning.menupopup.new.event.label "Etkinlik...">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label "Görev…">
 <!ENTITY lightning.menupopup.new.task.accesskey "G">
@@ -116,10 +116,10 @@
 
 <!ENTITY todaypane.showMinimonth.label "Küçük ay takvimi göster">
 <!ENTITY todaypane.showMinimonth.accesskey "K">
-<!ENTITY todaypane.showMiniday.label "Küçük gün takvimi göster">
-<!ENTITY todaypane.showMiniday.accesskey "g">
-<!ENTITY todaypane.showNone.label "Hiçbir şey gösterme">
-<!ENTITY todaypane.showNone.accesskey "b">
-<!ENTITY todaypane.showTodayPane.label "Bugün penceresini göster">
-<!ENTITY todaypane.showTodayPane.accesskey "p">
+<!ENTITY todaypane.showMiniday.label "Günü Kısaca Göster">
+<!ENTITY todaypane.showMiniday.accesskey "G">
+<!ENTITY todaypane.showNone.label "Hiçbirini Gösterme">
+<!ENTITY todaypane.showNone.accesskey "H">
+<!ENTITY todaypane.showTodayPane.label "Bugünün Panelini Göster">
+<!ENTITY todaypane.showTodayPane.accesskey "ö">
 <!ENTITY todaypane.statusButton.label "Bugün penceresi">

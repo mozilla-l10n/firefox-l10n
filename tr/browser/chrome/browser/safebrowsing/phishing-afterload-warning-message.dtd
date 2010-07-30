@@ -9,7 +9,7 @@
 <!ENTITY safeb.palm.message.p2.end " daha fazla bilgi alabilirsiniz.">
 
 <!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
-<!ENTITY safeb.palm.accept.statustext "Başlangıç sayfama yol al">
+<!ENTITY safeb.palm.accept.statustext "Başlangıç sayfama git">
 <!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
 <!ENTITY safeb.palm.decline.statustext "Uyarıyı kapat">
 <!ENTITY safeb.palm.notforgery.label2 "Bu sahtekârlık değil…">

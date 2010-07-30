@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "&brandShortName; Tercihler bölümünden ayarlarınızı değiştirebilirsiniz.">
-<!ENTITY settingsChangeOptions.label "&brandShortName; Seçenekler bölümünden ayarlarınızı değiştirebilirsiniz.">
+<!ENTITY settingsChangePreferences.label "&brandShortName; Tercihler bölümündeki Uygulamalar sekmesinden ayarlarınızı değiştirebilirsiniz.">
+<!ENTITY settingsChangeOptions.label "&brandShortName; Seçenekler bölümündeki Uygulamalar sekmesinden ayarlarınızı değiştirebilirsiniz.">

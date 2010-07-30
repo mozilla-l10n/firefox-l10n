@@ -1,8 +1,8 @@
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label "Reject popup windows from this site">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Allow popup windows from this site">
-<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Yeni pencerede aç">
 <!ENTITY openLinkCmd.accesskey "p">
 <!ENTITY openLinkCmdInTab.label "Yeni sekmede aç">

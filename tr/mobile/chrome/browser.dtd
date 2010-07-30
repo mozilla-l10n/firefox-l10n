@@ -21,23 +21,15 @@
 <!ENTITY addToDictionary.label "Sözlüğe ekle">
 
 <!ENTITY bookmarksHeader.label "Yer imleri">
-<!ENTITY bookmarksManage.label "Yönet">
 
-<!ENTITY editBookmarkRemove.label "Kaldır">
 <!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
 
-<!ENTITY helperApp.prompt "Yapmak istediğiniz">
-<!ENTITY helperApp.open "Aç">
-<!ENTITY helperApp.save "Kaydet">
-<!ENTITY helperApp.nothing "Hiçbir şey">
-
-<!ENTITY formHelper.previous "Önceki">
-<!ENTITY formHelper.next "Sonraki">
-<!ENTITY formHelper.done "Tamamlandı">
+<!ENTITY selectHelper.done "Tamamlandı">
 
 <!ENTITY addonsHeader.label "Eklentiler">
 <!ENTITY addonsLocal.label "Eklentilerim">
+<!ENTITY addonsUpdate.label "Güncelle">
 <!ENTITY addonsRepo.label "Eklenti edin">
 <!ENTITY addonsRecommended.label "Tavsiye edilen">
 <!ENTITY addonsSearch.label "Ara">
@@ -94,3 +86,7 @@
 
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
+<!ENTITY contextShareLink.label "Share Link">
+<!ENTITY contextShareImage.label "Share Image">
+<!ENTITY contextEditBookmark.label "Düzenle">
+<!ENTITY contextRemoveBookmark.label "Kaldır">

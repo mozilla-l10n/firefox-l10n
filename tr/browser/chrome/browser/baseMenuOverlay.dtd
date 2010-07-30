@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
-<!ENTITY bringAllToFront.label "Hepsini önplana getir">
-<!ENTITY zoomWindow.label "Odakla">
+<!ENTITY bringAllToFront.label "Hepsini ön plana getir">
+<!ENTITY zoomWindow.label "Yakınlaştır">
 <!ENTITY windowMenu.label "Pencere">
 
 <!ENTITY helpMenu.label "Yardım">
@@ -10,8 +10,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Yardım">
 <!ENTITY helpMenuWin.accesskey "Y">
-<!ENTITY aboutProduct.label "About &brandShortName;">
-<!ENTITY aboutProduct.accesskey "A">
+<!ENTITY aboutProduct.label "&brandShortName; hakkında">
+<!ENTITY aboutProduct.accesskey "h">
 <!ENTITY productHelp.label "&brandShortName; yardımı">
 <!ENTITY productHelp.accesskey "y">
 <!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına…">
@@ -21,8 +21,8 @@
 <!ENTITY helpReleaseNotes.label "Sürüm notları">
 <!ENTITY helpReleaseNotes.accesskey "r">
 
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.label "Sorun giderme bilgileri">
+<!ENTITY helpTroubleshootingInfo.accesskey "S">
 
 <!ENTITY updateCmd.label "Güncellemeleri denetle…">
 

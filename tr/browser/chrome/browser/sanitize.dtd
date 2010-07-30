@@ -9,9 +9,9 @@
 
 <!ENTITY clearTimeDuration.label "Temizlenecek zaman aralığı: ">
 <!ENTITY clearTimeDuration.accesskey "T">
-<!ENTITY clearTimeDuration.lastHour "son bir saat">
-<!ENTITY clearTimeDuration.last2Hours "son iki saat">
-<!ENTITY clearTimeDuration.last4Hours "son dört saat">
+<!ENTITY clearTimeDuration.lastHour "Son bir saat">
+<!ENTITY clearTimeDuration.last2Hours "Son iki saat">
+<!ENTITY clearTimeDuration.last4Hours "Son dört saat">
 <!ENTITY clearTimeDuration.today "Bugün">
 <!ENTITY clearTimeDuration.everything "Her şey">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages

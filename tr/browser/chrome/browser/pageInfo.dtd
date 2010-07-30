@@ -94,7 +94,7 @@
 <!ENTITY permBlock "Engelle">
 <!ENTITY permissionsFor "İzinler:">
 <!ENTITY permImage "Resimleri yükle">
-<!ENTITY permPopup "İstemeyen pencereleri aç">
+<!ENTITY permPopup "İstenmeyen pencereleri aç">
 <!ENTITY permCookie "Çerez bırak">
 <!ENTITY permInstall "Eklenti veya tema kur">
 <!ENTITY permGeo "Konumu paylaş">
@@ -113,7 +113,7 @@
 <!ENTITY securityView.identity.verifier "Onaylayan:">
 
 <!ENTITY securityView.privacy.header "Güvenlik ve geçmiş">
-<!ENTITY securityView.privacy.history "Have I visited this web site prior to today?">
+<!ENTITY securityView.privacy.history "Bu siteyi daha önce ziyaret ettim mi?">
 <!ENTITY securityView.privacy.cookies "Bu site bilgisayarıma çerez yerleştirdi mi?">
 <!ENTITY securityView.privacy.viewCookies "Çerezleri göster">
 <!ENTITY securityView.privacy.viewCookies.accessKey "R">
