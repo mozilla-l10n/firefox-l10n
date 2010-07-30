@@ -75,4 +75,7 @@
 
 <!ENTITY otherActionsOpenConversation.label "άνοιγμα σε συζήτηση">
 <!ENTITY otherActionsOpenConversation.accesskey "υ">
+<!ENTITY openAllAttachmentsCmd.label    "Άνοιγμα όλων…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "λ">
+
 

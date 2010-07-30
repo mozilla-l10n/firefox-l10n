@@ -38,13 +38,13 @@
 
 <!ENTITY cmd.enableAddon.label                "Ενεργοποίηση">
 <!ENTITY cmd.enableAddon.accesskey            "Ε">
-<!ENTITY cmd.enableAddon.tooltip              "Ενεργοποίηση αυτού του προσθέτου">
+
 <!ENTITY cmd.disableAddon.label               "Απενεργοποίηση">
 <!ENTITY cmd.disableAddon.accesskey           "π">
-<!ENTITY cmd.disableAddon.tooltip             "Απενεργοποίηση αυτού του προσθέτου">
+
 <!ENTITY cmd.uninstallAddon.label             "Αφαίρεση">
 <!ENTITY cmd.uninstallAddon.accesskey         "φ">
-<!ENTITY cmd.uninstallAddon.tooltip           "Απεγκατάσταση αυτού του προσθέτου">
+
 <!ENTITY cmd.contribute.label                 "Συνεισφορά">
 <!ENTITY cmd.contribute.accesskey             "φ">
 <!ENTITY cmd.contribute.tooltip               "Βοηθήστε στην ανάπτυξη αυτού του προσθέτου">

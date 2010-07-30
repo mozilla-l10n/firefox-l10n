@@ -19,16 +19,20 @@
 <!ENTITY noSuggestions.label "(Χωρίς υποδείξεις)">
 <!ENTITY addToDictionary.label "Προσθήκη στο λεξικό">
 <!ENTITY bookmarksHeader.label "Σελιδοδείκτες">
-<!ENTITY bookmarksManage.label "Διαχείριση">
-<!ENTITY editBookmarkRemove.label "Απομάκρυνση">
+
+
 <!ENTITY editBookmarkDone.label "Προσθήκη">
 <!ENTITY editBookmarkTags.label "Προσθέστε εδώ ετικέτες">
 
+<!ENTITY contextShareLink.label       "Μοιραστείτε τον δεσμό">
+<!ENTITY contextShareImage.label      "Μοιραστείτε την εικόνα">
+<!ENTITY contextEditBookmark.label    "Επεξεργασία">
+<!ENTITY contextRemoveBookmark.label  "Απομάκρυνση">
 
 
-<!ENTITY formHelper.previous "Προηγούμενο">
-<!ENTITY formHelper.next "Επόμενο">
-<!ENTITY formHelper.done "Ολοκληρώθηκε">
+<!ENTITY selectHelper.done         "Ολοκληρώθηκε">
+
+
 <!ENTITY addonsHeader.label "Πρόσθετα">
 <!ENTITY addonsLocal.label "Τα πρόσθετα σας">
 <!ENTITY addonsRepo.label "Λήψη προσθέτων">
