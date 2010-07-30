@@ -21,9 +21,7 @@
 <!ENTITY addToDictionary.label "Ajouter au dictionnaire">
 
 <!ENTITY bookmarksHeader.label "Marque-pages">
-<!ENTITY bookmarksManage.label "Gérer">
 
-<!ENTITY editBookmarkRemove.label "Supprimer">
 <!ENTITY editBookmarkDone.label "Terminé">
 <!ENTITY editBookmarkTags.label "Ajouter des étiquettes">
 
@@ -88,3 +86,5 @@
 
 <!ENTITY contextOpenInNewTab.label "Ouvrir le lien dans un nouvel onglet">
 <!ENTITY contextSaveImage.label "Enregistrer l'image">
+<!ENTITY contextEditBookmark.label "Modifier">
+<!ENTITY contextRemoveBookmark.label "Supprimer">
