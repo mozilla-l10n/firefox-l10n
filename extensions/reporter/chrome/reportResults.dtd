@@ -5,7 +5,7 @@
 <!ENTITY reportProduct               "Produkt">
 <!ENTITY reportoscpu                 "OS">
 <!ENTITY reportGecko                 "Gecko">
-<!ENTITY reportBuildConfig           "Build Config">
+<!ENTITY reportBuildConfig           "Konfigurasjon">
 <!ENTITY reportUseragent             "Nettlesar">
 <!ENTITY reportLanguage              "Språk">
 <!ENTITY reportCharset               "Teiknkoding">

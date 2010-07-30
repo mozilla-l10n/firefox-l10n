@@ -256,7 +256,7 @@
 <!ENTITY appMenuCustomize.label "Tilpass">
 <!ENTITY appMenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appMenuSidebars.label "Sidestolpar">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuHelp.label "Hjelp">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå til ein nettstad">
