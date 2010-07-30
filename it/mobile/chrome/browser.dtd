@@ -66,5 +66,7 @@
 <!ENTITY consoleErrColumn.label "Colonna:">
 <!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
 <!ENTITY contextSaveImage.label "Salva immagine">
+<!ENTITY contextShareLink.label "Condividi collegamento">
+<!ENTITY contextShareImage.label "Condividi immagine">
 <!ENTITY contextEditBookmark.label "Modifica">
 <!ENTITY contextRemoveBookmark.label "Elimina">
