@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "啟用">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.enableAddon.tooltip              "啟用這個附加元件">
 <!ENTITY cmd.disableAddon.label               "停用">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.disableAddon.tooltip             "停用這個附加元件">
 <!ENTITY cmd.uninstallAddon.label             "移除">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.uninstallAddon.tooltip           "移除這個附加元件">
 <!ENTITY cmd.showPreferences.label            "偏好設定">
 <!ENTITY cmd.showPreferences.tooltip          "修改此附加元件的偏好設定">
 <!ENTITY cmd.contribute.label                 "捐助">

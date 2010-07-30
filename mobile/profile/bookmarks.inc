@@ -19,10 +19,6 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: 關於您的瀏覽器
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/sync
-#define bookmarks_sync Firefox: 使用 Weave Sync 同步
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: 使用附加元件
