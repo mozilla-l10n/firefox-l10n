@@ -19,10 +19,6 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Acerca de su navegador
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/weave
-#define bookmarks_sync Firefox: Sincronícelo usando Weave
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: Personalícelo con complementos
