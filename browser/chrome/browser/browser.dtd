@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Ny fane">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Oppdater alle fanene">
@@ -169,14 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Konsoll">
-<!ENTITY hudConsoleCmd.accesskey      "K">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Konsoll">
+<!ENTITY webConsoleCmd.accesskey      "K">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspiser">
 <!ENTITY inspectMenu.accesskey        "r">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspiser">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Neste">
@@ -288,16 +287,16 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY openLinkCmdInTab.label       "Opne lenkje i ny fane">
+<!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Opne lenkje i nytt vindauge">
 <!ENTITY openLinkCmd.accesskey        "O">
 <!ENTITY openLinkCmdInCurrent.label     "Opne lenkje">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openLinkCmdInTab.label       "Opne lenkje i ny fane">
-<!ENTITY openLinkCmdInTab.accesskey   "n">
-<!ENTITY openFrameCmd.label           "Opne ramme i nytt vindauge">
-<!ENTITY openFrameCmd.accesskey       "v">
 <!ENTITY openFrameCmdInTab.label      "Opne ramme i ny fane">
 <!ENTITY openFrameCmdInTab.accesskey  "r">
+<!ENTITY openFrameCmd.label           "Opne ramme i nytt vindauge">
+<!ENTITY openFrameCmd.accesskey       "v">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis berre denne ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
