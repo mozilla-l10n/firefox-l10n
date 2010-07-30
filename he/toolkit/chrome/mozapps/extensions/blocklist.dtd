@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "הפעל מחדש את &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "מ">
 
-<!ENTITY blocklist.blocked.label     "Blocked">
-<!ENTITY blocklist.checkbox.label    "Disable">
+<!ENTITY blocklist.blocked.label     "נחסם">
+<!ENTITY blocklist.checkbox.label    "נטרל">

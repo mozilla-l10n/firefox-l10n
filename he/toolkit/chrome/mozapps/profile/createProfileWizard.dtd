@@ -5,8 +5,8 @@
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; מאחסן מידע אודות ההגדרות וההעדפות שלך בפרופיל האישי שלך.">
 <!ENTITY profileCreationExplanation_2.text  "אם אתה חולק עותק זה של &brandShortName; עם משתמשים אחרים, תוכל להשתמש בפרופילים כדי לשמור את המידע של כל משתמש בנפרד. כדי לעשות זאת, על כל משתמש ומשתמשת ליצור פרופיל משלו (או משלה).">
 <!ENTITY profileCreationExplanation_3.text  "אם אתה האדם היחיד המשתמש בעותק זה של &brandShortName;, חייב להיות להיות לך לפחות פרופיל אחד. אם תרצה, תוכל ליצור לעצמך מספר פרופילים כדי לאחסן קבוצות שונות של הגדרות והעדפות. למשל, יתכן ותרצה פרופילים נפרדים לשימוש עסקי ואישי.">
-<!ENTITY profileCreationExplanation_4.text  "כדי להתחיל ליצור את הפרופיל שלך, לחץ על "הבא"">
-<!ENTITY profileCreationExplanation_4Mac.text  "כדי להתחיל ליצור את הפרופיל שלך, לחץ על "המשך"">
+<!ENTITY profileCreationExplanation_4.text  "כדי להתחיל ליצור את הפרופיל שלך, לחץ על &quot;הבא&quot;.">
+<!ENTITY profileCreationExplanation_4Mac.text  "כדי להתחיל ליצור את הפרופיל שלך, לחץ על &quot;המשך&quot;.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "כדי להתחיל ביצירת הפרופיל שלך, לחץ הבא.">
 
 <!-- Second wizard page -->

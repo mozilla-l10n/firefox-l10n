@@ -78,11 +78,11 @@
 ">
 
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
-<!ENTITY phishingBlocked.longDesc "
-<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p>
-<p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרות גם בתור "מתקפות דיוג", בהן נוכלים שותלים דפים והודעות דואר אלקטרוני מהווים חיקוי של מקורות שאתה בטוח בהם.</p>">
+<!ENTITY phishingBlocked.longDesc "<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p>
+<p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרים גם בתור &quot;מתקפות דיוג&quot;, בהן נוכלים שותלים דפים והודעות דואר אלקטרוני המהווים חיקוי של מקורות שאתה סומך עליהם.</p>
+ ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>הדפדפן מונע מדף זה להיטען בדרך זו מאחר ומדיניות אבטחת התוכן מונעת זאת.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!

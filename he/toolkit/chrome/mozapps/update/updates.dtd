@@ -35,7 +35,7 @@
 
 <!ENTITY  incompatibleList.title          "נמצאו תוספות לא תואמות">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "מוריד את &brandShortName;">
 <!ENTITY  downloading.intro               "מוריד את העדכון…">
 <!ENTITY  connecting.label                "מתחבר אל שרת העדכון…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; אינו יכול לאמת את שלמות 

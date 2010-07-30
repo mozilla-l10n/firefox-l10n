@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "ארגן">
 <!ENTITY organize.accesskey    "א">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "ארגן את הסימניות שלך">
 
 <!ENTITY file.accesskey                 "ק">
 <!ENTITY file.close.label               "סגור">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey                 "ע">
 <!ENTITY views.label                    "תצוגות">
 <!ENTITY views.accesskey                "ת">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "שנה את התצוגה שלך">
 <!ENTITY view.columns.label             "הצג עמודות">
 <!ENTITY view.columns.accesskey         "ה">
 <!ENTITY view.sort.label                "מיין">
@@ -109,7 +109,7 @@
 
 <!ENTITY maintenance.label      "יבוא וגיבוי">
 <!ENTITY maintenance.accesskey  "י">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "יבא וגבה את הסימניות שלך">
 
 <!ENTITY backCmd.label       "אחורה">
 <!ENTITY backButton.tooltip  "חזור אחורה">

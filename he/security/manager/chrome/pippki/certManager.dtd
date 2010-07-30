@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "ס">
 <!ENTITY certmgr.view2.label                  "תצוגה…">
 <!ENTITY certmgr.view2.accesskey              "ת">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "ערוך אמון…">
+<!ENTITY certmgr.edit3.accesskey              "ע">
 <!ENTITY certmgr.editca.label                 "ערוך אמון ברשות אישורים">
 <!ENTITY certmgr.editca.accesskey             "א">
 <!ENTITY certmgr.add.label                    "הוסף">
