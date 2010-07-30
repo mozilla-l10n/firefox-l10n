@@ -27,13 +27,10 @@
 <!ENTITY cmd.about.accesskey "I">
 <!ENTITY cmd.enableAddon.label "Attiva">
 <!ENTITY cmd.enableAddon.accesskey "A">
-<!ENTITY cmd.enableAddon.tooltip "Attiva questo componente aggiuntivo">
 <!ENTITY cmd.disableAddon.label "Disattiva">
 <!ENTITY cmd.disableAddon.accesskey "D">
-<!ENTITY cmd.disableAddon.tooltip "Disattiva questo componente aggiuntivo">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
-<!ENTITY cmd.uninstallAddon.tooltip "Disinstalla questo componente aggiuntivo">
 <!ENTITY cmd.showPreferences.label "Preferenze">
 <!ENTITY cmd.showPreferences.tooltip "Modifica le preferenze di questo componente aggiuntivo">
 <!ENTITY cmd.contribute.label "Fai una donazione">
