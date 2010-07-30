@@ -167,10 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY webConsoleCmd.label          "Webconsole">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
 <!ENTITY inspectMenu.label            "Inspecteren">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspecteren">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Volgende">
@@ -180,10 +185,6 @@
 <!ENTITY inspectStyleButton.label     "Stijl">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "Stijl">
-
-<!ENTITY webConsoleCmd.label          "Webconsole">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY fileMenu.label         "Bestand"> 
 <!ENTITY fileMenu.accesskey       "B">
