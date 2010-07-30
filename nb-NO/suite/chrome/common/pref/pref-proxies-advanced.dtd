@@ -8,15 +8,12 @@
 <!ENTITY  ssl.accesskey               "S">
 <!ENTITY  ftp.label                   "FTP:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Gopher:">
-<!ENTITY  gopher.accesskey            "G">
 <!ENTITY  reuseProxy.label            "Bruk HTTP mellomtjener for alle protokollene">
 <!ENTITY  reuseProxy.accesskey        "u">
 <!ENTITY  port.label                  "Port:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "o">
 <!ENTITY  FTPPort.accesskey           "r">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "Generisk mellomtjener">
 <!ENTITY  socks.description           "En SOCKS-mellomtjener er en generisk mellomtjener ofte brukt i store bedrifter.">
