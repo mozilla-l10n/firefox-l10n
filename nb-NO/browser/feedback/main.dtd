@@ -6,7 +6,7 @@
 <!ENTITY testpilot.settings.newStudy.label          "En ny undersøkelse er tilgjengelig">
 <!ENTITY testpilot.settings.hasNewResults.label     "En undersøkelse har nye resultater">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatisk send mine data (ikke spør meg)">
-<!ENTITY testpilot.allStudies.label                 "Alle dine brukerundersøkelser">
+<!ENTITY testpilot.allStudies.label                 "Alle brukerundersøkelser">
 <!ENTITY testpilot.about.label                      "Om testpiloten">
 
 <!-- all studies window -->
