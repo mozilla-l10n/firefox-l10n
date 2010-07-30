@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Aktivera">
 <!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.enableAddon.tooltip              "Aktiverar tillägget">
 <!ENTITY cmd.disableAddon.label               "Inaktivera">
 <!ENTITY cmd.disableAddon.accesskey           "k">
-<!ENTITY cmd.disableAddon.tooltip             "Inaktiverar tillägget">
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
-<!ENTITY cmd.uninstallAddon.tooltip           "Avinstallerar tillägget">
 <!ENTITY cmd.showPreferences.label            "Inställningar">
 <!ENTITY cmd.showPreferences.tooltip          "Ändra tilläggets inställningar">
 <!ENTITY cmd.contribute.label                 "Bidra">
