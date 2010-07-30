@@ -37,13 +37,12 @@
 ">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
-<!ENTITY malformedURI.longDesc "
-<ul>
+<!ENTITY malformedURI.longDesc "<ul>
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
-  <li>וודא שאתה משתמש בלוכסן קדמי ("<strong>/</strong>").</li>
+  <li>וודא שאתה משתמש בלוכסן קדמי (&quot;<strong>/</strong>&quot;).</li>
 </ul>
-">
+             ">
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
