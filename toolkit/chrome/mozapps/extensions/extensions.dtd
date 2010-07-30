@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Slå på">
 <!ENTITY cmd.enableAddon.accesskey            "S">
-<!ENTITY cmd.enableAddon.tooltip              "Slå på denne utvidelsen">
 <!ENTITY cmd.disableAddon.label               "Slå av">
 <!ENTITY cmd.disableAddon.accesskey           "a">
-<!ENTITY cmd.disableAddon.tooltip             "Slå av denne utvidelsen">
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
-<!ENTITY cmd.uninstallAddon.tooltip           "Avinstaller denne utvidelsen">
 <!ENTITY cmd.showPreferences.label            "Innstillinger">
 <!ENTITY cmd.showPreferences.tooltip          "Endre denne utvidelsens innstillinger">
 <!ENTITY cmd.contribute.label                 "Bidra">

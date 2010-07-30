@@ -21,15 +21,11 @@
 <!ENTITY addToDictionary.label "Legg til i ordbok">
 
 <!ENTITY bookmarksHeader.label     "Bokmerker">
-<!ENTITY bookmarksManage.label     "Administrer">
 
-<!ENTITY editBookmarkRemove.label  "Fjern">
 <!ENTITY editBookmarkDone.label    "Ferdig">
 <!ENTITY editBookmarkTags.label    "Legg til merkelapper">
 
-<!ENTITY formHelper.previous       "Forrige">
-<!ENTITY formHelper.next           "Neste">
-<!ENTITY formHelper.done           "Ferdig">
+<!ENTITY selectHelper.done         "Ferdig">
 
 <!ENTITY addonsHeader.label        "Utvidelser">
 <!ENTITY addonsLocal.label         "Installerte utvidelser">
@@ -90,3 +86,7 @@
 
 <!ENTITY contextOpenInNewTab.label "Åpne lenke i ny fane">
 <!ENTITY contextSaveImage.label    "Lagre bilde">
+<!ENTITY contextShareLink.label       "Del lenke">
+<!ENTITY contextShareImage.label      "Del bilde">
+<!ENTITY contextEditBookmark.label    "Rediger">
+<!ENTITY contextRemoveBookmark.label  "Slett">

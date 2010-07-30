@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Bare lenker">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "B">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Vis søkelinjen når du bruker 'søk mens du skriver'">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "V">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Merk: 'Søk mens du skriver' uten søkelinje tillater ikke at du skriver med norske tegn.">
