@@ -172,6 +172,7 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectMenu.label            "Examiner">
 <!ENTITY inspectMenu.accesskey        "E">
 <!ENTITY inspectMenu.commandkey       "I">
