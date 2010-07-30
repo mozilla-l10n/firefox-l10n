@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
-<!ENTITY featureConfigurator.title "Overflyttingsassistent">
+<!ENTITY featureConfigurator.title "Migrasjonsassistent">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
 <!ENTITY featureConfigurator.heading1 "Nye &brandShortName;-funksjonar det er verdt å kjenne til">
@@ -8,7 +8,7 @@
 <!ENTITY featureConfigurator.para.1 "Denne versjonen av &brandShortName; har fleire nye funksjonar som vi er ganske stolte av, og som vi trur dei fleste vil like. Folk sine ønskjer og behov er ulike, difor har vi gjort det enkelt å tilpasse &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Bruk denne sida for å konfigurere desse nye innstillingane. Du kan også seinare hente fram denne overflyttingsassistenten igjen frå Hjelp-menyen.">
+<!ENTITY featureConfigurator.para.2 "Bruk denne sida for å konfigurere desse nye innstillingane. Du kan òg seinare hente fram denne migrasjonsassistenten igjen frå Hjelp-menyen.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Ny verktøylinje i meldingar">
 <!ENTITY featureConfigurator.toolbar.new "Verktøylinje for meldingsknappar">

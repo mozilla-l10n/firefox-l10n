@@ -6,7 +6,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Om rettane dine">
-<!ENTITY rights.intro "&brandFullName; er fri og open programvare bygd av tusenvis av brukarar frå heile veda. Det er nokre ting du bør vite:">
+<!ENTITY rights.intro "&brandFullName; er fri og open programvare bygd av tusenvis av brukarar frå heile verda. Det er nokre ting du bør vite:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
