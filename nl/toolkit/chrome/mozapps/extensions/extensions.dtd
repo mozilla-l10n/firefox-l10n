@@ -38,10 +38,8 @@
 <!ENTITY cmd.enableAddon.tooltip              "Deze add-on inschakelen">
 <!ENTITY cmd.disableAddon.label               "Uitschakelen">
 <!ENTITY cmd.disableAddon.accesskey           "U">
-<!ENTITY cmd.disableAddon.tooltip             "Deze add-on uitschakelen">
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
-<!ENTITY cmd.uninstallAddon.tooltip           "Deze add-on de-installeren">
 <!ENTITY cmd.showPreferences.label            "Voorkeuren">
 <!ENTITY cmd.showPreferences.tooltip          "Voorkeuren van deze add-on's aanpassen">
 <!ENTITY cmd.contribute.label                 "Bijdragen">
