@@ -20,7 +20,7 @@
 <!ENTITY view.sort.label "Trier par">
 <!ENTITY view.sort.accesskey "T">
 <!ENTITY view.unsorted.label "(aucun tri)">
-<!ENTITY view.unsorted.accesskey "S">
+<!ENTITY view.unsorted.accesskey "r">
 <!ENTITY view.sortAscending.label "Ordre croissant (A > Z)">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordre décroissant (Z > A)">
