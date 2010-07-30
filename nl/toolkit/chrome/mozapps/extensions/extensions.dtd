@@ -40,7 +40,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.showPreferences.label            "Voorkeuren">
-<!ENTITY cmd.showPreferences.tooltip          "Voorkeuren van deze add-on's aanpassen">
+<!ENTITY cmd.showPreferences.tooltip          "Voorkeuren van deze add-on aanpassen">
 <!ENTITY cmd.contribute.label                 "Bijdragen">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Draag bij aan de ontwikkeling van deze add-on">
@@ -60,7 +60,7 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Controleren op updates voor deze add-on">
 <!ENTITY detail.showPreferences.label         "Voorkeuren">
 <!ENTITY detail.showPreferences.accesskey     "V">
-<!ENTITY detail.showPreferences.tooltip       "Voorkeuren van deze add-on's aanpassen">
+<!ENTITY detail.showPreferences.tooltip       "Voorkeuren van deze add-on aanpassen">
 
 <!-- ratings -->
 <!ENTITY rating.label                         "Beoordeling:">
