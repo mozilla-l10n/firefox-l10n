@@ -35,7 +35,6 @@
 
 <!ENTITY cmd.enableAddon.label                "Inschakelen">
 <!ENTITY cmd.enableAddon.accesskey            "I">
-<!ENTITY cmd.enableAddon.tooltip              "Deze add-on inschakelen">
 <!ENTITY cmd.disableAddon.label               "Uitschakelen">
 <!ENTITY cmd.disableAddon.accesskey           "U">
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
