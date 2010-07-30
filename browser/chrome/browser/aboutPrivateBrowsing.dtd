@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; bu oturumda geçen hiçbir şeyi hatırlamayacak.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; hâlihazırda gizli taramada değil.">
 
-<!ENTITY privatebrowsingpage.description "&brandShortName; gizli tarama boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları kaydı tutulmayacaklara dahildir. İndirdiğiniz dosyalar ya da koyduğunuz yer imleri ise korunacaktır.">
+<!ENTITY privatebrowsingpage.description "&brandShortName; gizli tarama boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları kaydı tutulmayacaklara dahildir. İndirdiğiniz dosyalar ya da kaydettiğiniz yer imleri ise korunacaktır.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 

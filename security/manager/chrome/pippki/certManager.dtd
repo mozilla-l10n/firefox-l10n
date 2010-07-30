@@ -46,23 +46,11 @@
 <!ENTITY certmgr.ca.builtins "Yerleşik CA">
 <!ENTITY certmgr.ca.mycas "Tarafınızdan yönetilen CA">
 
-<!ENTITY certmgr.mine.search "Search:">
-<!ENTITY certmgr.others.search "Search:">
-<!ENTITY certmgr.websites.search "Search:">
-<!ENTITY certmgr.cas.search "Search:">
-<!ENTITY certmgr.orphans.search "Search:">
-
-<!ENTITY certmgr.mine.description "Bu kurum tarafından onaylanan kimlikler:">
-<!ENTITY certmgr.others.description "Bu dosyada şu insanlar onaylandı:">
-<!ENTITY certmgr.websites.description "Dosyada bu sunucuları tanımlayan onay belgeleriniz var:">
-<!ENTITY certmgr.cas.description "Elinizdeki onay belgeleri aşağıda belirtilen onay belgesi sağlayıcılarınınkilerle özdeş:">
-<!ENTITY certmgr.orphans.description "Dosyada diğer hiçbir kategoride olmayan onay belgeleriniz var:">
-
-<!ENTITY certmgr.mine.filtered "Matching certificates from these organizations that identify you:">
-<!ENTITY certmgr.others.filtered "Matching certificates on file that identify these people:">
-<!ENTITY certmgr.websites.filtered "Matching certificates on file that identify these servers:">
-<!ENTITY certmgr.cas.filtered "Matching certificates on file that identify these certificate authorities:">
-<!ENTITY certmgr.orphans.filtered "Matching certificates on file that do not fit in any of the other categories:">
+<!ENTITY certmgr.mine "Sizi tanımlayan bu örgütlerden onay belgeleriniz var:">
+<!ENTITY certmgr.others "Bu kişileri tanımlayan kayıtlı onay belgeleriniz var:">
+<!ENTITY certmgr.websites2 "Bu sunucuları tanımlayan kayıtlı onay belgeleriniz var:">
+<!ENTITY certmgr.cas "Bu onay belgesi yetkililerini tanımlayan kayıtlı onay belgeleriniz var:">
+<!ENTITY certmgr.orphans "Hiçbir sınıfa girmeyen kayıtlı onay belgeleriniz var:">
 
 <!ENTITY certmgr.detail.general_tab.title "Genel">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -117,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "K">
 <!ENTITY certmgr.view2.label "Görüntüle…">
 <!ENTITY certmgr.view2.accesskey "G">
-<!ENTITY certmgr.edit2.label "Düzenle…">
-<!ENTITY certmgr.edit2.accesskey "e">
+<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "CA güvenlik düzenle">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "Ekle">
@@ -127,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey "D">
 <!ENTITY certmgr.delete2.label "Sil…">
 <!ENTITY certmgr.delete2.accesskey "S">
+<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey "D">
 <!ENTITY certmgr.backup2.label "Yedekle…">
 <!ENTITY certmgr.backup2.accesskey "Y">
 <!ENTITY certmgr.backupall2.label "Hepsini yedekle…">

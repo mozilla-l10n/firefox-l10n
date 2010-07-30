@@ -1,0 +1,30 @@
+<!ENTITY testpilot.brand.label "Test Pilotu">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label "Ayarlar">
+<!ENTITY testpilot.settings.notifyMeWhen.label "Bu durumlarda beni haberdar et:">
+<!ENTITY testpilot.settings.readyToSubmit.label "Bir araştırma gönderilmeye hazırsa">
+<!ENTITY testpilot.settings.newStudy.label "Yeni bir araştırma varsa">
+<!ENTITY testpilot.settings.hasNewResults.label "Bir çalışmanın sonuçları açıklanmışsa">
+<!ENTITY testpilot.settings.alwaysSubmitData.label "Verilerimi kendiliğinden gönder (bana sorma)">
+<!ENTITY testpilot.allStudies.label "Tüm kullanıcı araştırmalarınız">
+<!ENTITY testpilot.about.label "Test Pilotu hakkında">
+<!-- all studies window -->
+
+<!ENTITY testpilot.studiesWindow.title "Test Pilotu araştırmalarınız">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Hâlihazırdaki araştırmalar">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "Biten araştırmalar">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "Araştırma bulguları">
+<!ENTITY testpilot.studiesWindow.settings.label "Ayarlar">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Yükleniyor, lütfen bekleyin...">
+<!-- raw data dialog -->
+
+<!ENTITY testpilot.rawDataWindow.title "Test Pilotu: Ham veri">
+<!-- notification -->
+
+<!ENTITY testpilot.notification.close.tooltip "Kapat">
+<!-- Firefox 4 beta version UI -->
+
+<!ENTITY testpilot.enable.label "Kullanıcı araştırmalarını devreye sok">
+<!ENTITY testpilot.feedbackbutton.label "Geri bildirim">
+<!ENTITY testpilot.happy.label "Firefox beni sevindirdi, çünkü...">
+<!ENTITY testpilot.sad.label "Firefox beni üzdü, çünkü...">

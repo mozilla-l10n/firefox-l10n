@@ -1,22 +1,24 @@
-<!ENTITY aboutSupport.pageTitle "Sorun giderme bilgileri">
+<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Bu sayfa, sorun giderme esnasında size yardımcı olabilecek teknik bilgi 
-içermektedir. &brandShortName; konusunda genel soruların cevaplarını arıyorsanız 
-<a id='supportLink'>destek web sitesini</a> ziyaret edin.">
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Eklentiler">
 <!ENTITY aboutSupport.extensionName "Adı">
-<!ENTITY aboutSupport.extensionEnabled "Etkin">
+<!ENTITY aboutSupport.extensionEnabled "Devrede">
 <!ENTITY aboutSupport.extensionVersion "Sürüm">
-<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.extensionId "Kimlik">
 
-<!ENTITY aboutSupport.appBasicsTitle "Uygulama ayrıntıları">
+<!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profil dizini">
-<!ENTITY aboutSupport.appBasicsPlugins "Kurulu yan uygulamalar">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Derleme yapılandırması">
+<!ENTITY aboutSupport.appBasicsProfileDir "Kimlik dizini">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Devredeki yan uygulamalar">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Yapılandırma">
 
 <!ENTITY aboutSupport.show.label "Bulunduğu dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -25,11 +27,11 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 
 <!ENTITY aboutSupport.showMac.label "Finder'da göster">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Değiştirilmiş ayarlar">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Değiştirilen tercihler">
 <!ENTITY aboutSupport.modifiedPrefsName "Adı">
 <!ENTITY aboutSupport.modifiedPrefsValue "Değer">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Kurulum geçmişi">
+<!ENTITY aboutSupport.installationHistoryTitle "Kurulum tarihçesi">
 <!ENTITY aboutSupport.updateHistoryTitle "Güncelleme geçmişi">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Tümünü panoya kopyala">

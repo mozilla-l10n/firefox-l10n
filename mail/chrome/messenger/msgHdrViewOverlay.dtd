@@ -75,15 +75,15 @@
 <!ENTITY hdrViewToolbarShowFull.label "Simgeleri ve metni göster">
 <!ENTITY hdrViewToolbarShowFull.accesskey "v">
 <!ENTITY hdrViewToolbarShowIcons.label "Sadece simgeleri göster">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "s">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "S">
 <!ENTITY hdrViewToolbarShowText.label "Sadece metni göster">
 <!ENTITY hdrViewToolbarShowText.accesskey "m">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Göndereni yanıtla'yı her zaman göster">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "G">
 
 <!ENTITY otherActionsButton.label "Diğer eylemler">
-<!ENTITY otherActionsShowConversation.label "Konuşma içinde göster">
-<!ENTITY otherActionsShowConversation.accesskey "K">
+<!ENTITY otherActionsOpenConversation.label "open in conversation">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "Yeni pencerede aç">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "Y">
 <!ENTITY otherActionsOpenInNewTab.label "Yeni sekmede aç">
@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Çıkart…">
 <!ENTITY deleteAttachmentCmd.label "Sil">
+<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAllAttachmentsCmd.label "Tümünü kaydet…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "e">
 <!ENTITY detachAllAttachmentsCmd.label "Tümünü çıkart…">

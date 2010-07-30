@@ -1,12 +1,12 @@
-<!ENTITY editBookmarkOverlay.name.label "Ad:">
-<!ENTITY editBookmarkOverlay.name.accesskey "A">
+<!ENTITY editBookmarkOverlay.name.label "İsim:">
+<!ENTITY editBookmarkOverlay.name.accesskey "İ">
 <!ENTITY editBookmarkOverlay.location.label "Konum:">
 <!ENTITY editBookmarkOverlay.location.accesskey "K">
 <!ENTITY editBookmarkOverlay.feedLocation.label "Besleme konumu:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "B">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Site konumu:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Canlı başlık">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Canlı başlıklar">
 <!ENTITY editBookmarkOverlay.folder.label "Dizin:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Tüm yer imi dizinlerini gösterir">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Gizler">
@@ -18,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label "Anahtar kelime:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey "k">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Tüm etiketleri gösterir">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label "Bu yer imlerini kenar çubuğunda yükle">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label "Bu yer imini kenar çubuğunda yükle">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "B">
 <!ENTITY editBookmarkOverlay.choose.label "Seç…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Yeni dizin">

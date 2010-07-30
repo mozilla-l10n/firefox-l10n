@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Çevrim içi ara ">
 <!ENTITY searchOnline.accesskey "a">
+<!ENTITY newFolderButton.label "Create">
+<!ENTITY newFolderButton.accesskey "r">
+<!ENTITY editFolderButton.label "Güncelle">
+<!ENTITY editFolderButton.accesskey "G">

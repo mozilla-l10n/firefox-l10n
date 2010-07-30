@@ -29,4 +29,4 @@
 <!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
 <!ENTITY modeAutoAddonWarn.accesskey "b">
 <!ENTITY updateHistory.label "Show Update History">
-<!ENTITY updateHistory.accesskey "u">
+<!ENTITY updateHistory.accesskey "U">

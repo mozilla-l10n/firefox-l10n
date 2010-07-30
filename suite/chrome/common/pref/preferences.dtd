@@ -11,6 +11,7 @@
 <!ENTITY applications.label "Yardımcı uygulamalar">
 <!ENTITY locationBar.label "Konum çubuğu">
 <!ENTITY tabWindows.label "Sekmeli tarama">
+<!ENTITY links.label "Link Behavior">
 <!ENTITY offline.label "Offline">
 <!ENTITY security.label "Kişisel gizlilik ve güvenlik">
 <!ENTITY cookies.label "Çerezler">

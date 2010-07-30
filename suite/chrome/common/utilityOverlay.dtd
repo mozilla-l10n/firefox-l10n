@@ -12,9 +12,9 @@
 <!ENTITY newBlankPageCmd.accesskey "e">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Page Using Template">
-<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromTemplateCmd.accesskey "T">
 <!ENTITY newPageFromDraftCmd.label "Page Using Draft">
-<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!ENTITY newPageFromDraftCmd.accesskey "D">
 <!ENTITY newNavigatorCmd.label "Browser Window">
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "B">
@@ -59,6 +59,8 @@
 <!ENTITY helpMenu.label "Yardım">
 <!ENTITY helpMenu.accesskey "Y">
 
+<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY releaseCmd.label "Sürüm notları">
 <!ENTITY releaseCmd.accesskey "r">
 <!ENTITY updateCmd.label "Check for Updates…">
@@ -66,7 +68,7 @@
 <!ENTITY aboutCmd.label "About &brandShortName;">
 <!ENTITY aboutCmd.accesskey "A">
 <!ENTITY aboutCommPluginsCmd.label "About Plugins">
-<!ENTITY aboutCommPluginsCmd.accesskey "p">
+<!ENTITY aboutCommPluginsCmd.accesskey "P">
 
 <!ENTITY direct.label "Online (Proxy: None)">
 <!ENTITY direct.accesskey "N">

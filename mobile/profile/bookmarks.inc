@@ -38,16 +38,6 @@
 
 
 
-# LOCALIZATION NOTE (bookmarks_weave):
-
-
-# link title for https://www.mozilla.com/en-US/mobile/sync
-
-
-#define bookmarks_sync Firefox: Synchronize using Weave Sync
-
-
-
 # LOCALIZATION NOTE (bookmarks_addons):
 
 

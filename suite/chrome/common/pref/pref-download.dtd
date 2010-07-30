@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label "Dosyaların nereye kaydedileceğini her zaman sor">
 <!ENTITY alwaysAsk.accesskey "D">
 
-<!ENTITY downloadRetention.label "Download retention">
-<!ENTITY removeDownloads.label "İndirilenleri sil">
-<!ENTITY removeDownloads.accesskey "d">
+<!ENTITY downloadHistory.label "İndirme geçmişi">
+<!ENTITY removeEntries.label "Remove download entries">
+<!ENTITY removeEntries.accesskey "R">
 <!ENTITY whenCompleted.label "Tamamlandığı zaman">
 <!ENTITY whenQuittingApp.label "&brandShortName; uygulamasında çıkıldığı zaman">
 <!ENTITY neverRemove.label "Asla">

@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label "&brandShortName; baştan başlasın">
 <!ENTITY blocklist.accept.accesskey "b">
+
+<!ENTITY blocklist.blocked.label "Engellendi">
+<!ENTITY blocklist.checkbox.label "Disable">

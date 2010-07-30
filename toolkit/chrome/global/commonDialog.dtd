@@ -2,7 +2,6 @@
 <!ENTITY message.label "Örnek metinler buruda görünsün:">
 <!ENTITY editfield0.label "Kullanıcı adı:">
 <!ENTITY editfield1.label "Parola:">
-<!ENTITY editfield2.label "Parola tekrarı:">
 <!ENTITY checkbox.label "Kontrol">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.accesskey "K">

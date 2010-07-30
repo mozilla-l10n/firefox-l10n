@@ -20,14 +20,14 @@
 <!ENTITY checkSpelling.label "Yazarken yazım denetimi gerçekleştir">
 <!ENTITY checkSpelling.accesskey "t">
 
-<!ENTITY systemDefaults.label "Öntanımlı sistem ayarları">
+<!ENTITY systemDefaults.label "Varsayılan sistem ayarları">
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Her başlangıçta &brandShortName; tarayıcısının öntanımlı olup olmadığına bak">
 <!ENTITY alwaysCheckDefault.accesskey "b">
 <!ENTITY checkNow.label "Şimdi bak">
 <!ENTITY checkNow.accesskey "m">
-<!ENTITY submitCrashes.label "Submit crash reports">
-<!ENTITY submitCrashes.accesskey "S">
+<!ENTITY submitCrashes.label "Çökme raporlarını gönder">
+<!ENTITY submitCrashes.accesskey "r">
 
 <!ENTITY networkTab.label "Ağ">
 
@@ -51,9 +51,9 @@
 <!ENTITY clearCacheNow.label "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey "z">
 
-<!ENTITY updateTab.label "Yazılım Güncelleme">
+<!ENTITY updateTab.label "Güncelleme">
 
-<!ENTITY autoCheck.label "Seçili öğeler için güncellemelere bak:">
+<!ENTITY autoCheck.label "Seçili öğeler için güncellemeleri otomatik olarak kontrol et:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "e">
 <!ENTITY enableAddonsUpdate2.label "Eklentiler">

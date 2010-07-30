@@ -9,13 +9,6 @@
 #define bookmarks_heading Yer İmleri
 
 
-# LOCALIZATION NOTE (bookmarks_addons):
-
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-
-#define bookmarks_addons Yer İmi Eklentileri Edinin
-
-
 #define bookmarks_toolbarfolder Yer İmi Araç Çubuğu Dizini
 
 
@@ -70,7 +63,7 @@
 
 # LOCALIZATION NOTE (firefox_about):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 
 #define firefox_about Hakkımızda
 

@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "Düzenle">
 <!ENTITY organize.accesskey "D">
+<!ENTITY organize.tooltip "Yer imlerinizi düzenleyin">
 
 <!ENTITY file.accesskey "D">
 <!ENTITY file.close.label "Kapat">
@@ -13,11 +14,10 @@
 <!ENTITY edit.accesskey "e">
 <!ENTITY views.label "Görünüm">
 <!ENTITY views.accesskey "m">
-<!ENTITY view.toolbar.label "Araç çubuğu">
-<!ENTITY view.toolbar.accesskey "u">
+<!ENTITY views.tooltip "Görünümü değiştirin">
 <!ENTITY view.columns.label "Sütunları göster">
 <!ENTITY view.columns.accesskey "S">
-<!ENTITY view.sort.label "Sıralama">
+<!ENTITY view.sort.label "Sırala">
 <!ENTITY view.sort.accesskey "S">
 <!ENTITY view.unsorted.label "Sınıflanmamış">
 <!ENTITY view.unsorted.accesskey "f">
@@ -43,28 +43,6 @@
 <!ENTITY cmd.restoreFromFile.label "Dosyayı seçin…">
 <!ENTITY cmd.restoreFromFile.accesskey "s">
 
-<!ENTITY cmd.select_all.label "Tümünü seç">
-<!ENTITY cmd.select_all.accesskey "m">
-<!ENTITY cmd.select_all.key "A">
-
-<!ENTITY cmd.edit_cut.label "Kes">
-<!ENTITY cmd.edit_cut.accesskey "s">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Kopyala">
-<!ENTITY cmd.edit_copy.accesskey "K">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Yapıştır">
-<!ENTITY cmd.edit_paste.accesskey "p">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Sil">
-<!ENTITY cmd.edit_delete.accesskey "i">
-<!ENTITY cmd.edit_undo.label "Geri al">
-<!ENTITY cmd.edit_undo.accesskey "r">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Yinele">
-<!ENTITY cmd.edit_redo.accesskey "Y">
-<!ENTITY cmd.edit_redo.key "y">
-
 <!ENTITY cmd.bookmarkLink.label "Bu sayfayı yer imlerine ekle…">
 <!ENTITY cmd.bookmarkLink.accesskey "B">
 <!ENTITY cmd.delete.label "Bu sayfayı sil">
@@ -84,17 +62,12 @@
 <!ENTITY cmd.properties.label "Özellikler">
 <!ENTITY cmd.properties.accesskey "i">
 
-<!ENTITY cmd.rename.label "Adını değiştir">
-<!ENTITY cmd.rename.accesskey "r">
-
 <!ENTITY cmd.sortby_name.label "Ada göre sırala">
 <!ENTITY cmd.sortby_name.accesskey "s">
 <!ENTITY cmd.context_sortby_name.accesskey "R">
 
 <!ENTITY cmd.new_bookmark.label "Yeni yer imi…">
 <!ENTITY cmd.new_bookmark.accesskey "m">
-<!ENTITY cmd.new_livemark.label "Yeni canlı yer imi…">
-<!ENTITY cmd.new_livemark.accesskey "l">
 <!ENTITY cmd.new_folder.label "Yeni dizin…">
 <!ENTITY cmd.new_folder.accesskey "d">
 <!ENTITY cmd.context_new_folder.accesskey "Z">
@@ -111,7 +84,7 @@
 
 <!ENTITY col.name.label "Adı">
 <!ENTITY col.tags.label "Etiketler">
-<!ENTITY col.url.label "Location">
+<!ENTITY col.url.label "Konum">
 <!ENTITY col.lastvisit.label "Ziyaret tarihi">
 <!ENTITY col.visitcount.label "Ziyaret sayısı">
 <!ENTITY col.keyword.label "Anahtar kelime">
@@ -134,11 +107,9 @@
 
 <!ENTITY cmd.find.key "f">
 
-<!ENTITY feed.subscribe.label "Besleme">
-<!ENTITY feed.subscribe.tooltip "Abone ol">
-
 <!ENTITY maintenance.label "İçe aktarma ve yedekleme">
 <!ENTITY maintenance.accesskey "y">
+<!ENTITY maintenance.tooltip "Yer imlerinizi içe aktarın ve yedekleyin">
 
 <!ENTITY backCmd.label "Geri">
 <!ENTITY backButton.tooltip "Geriye gider">

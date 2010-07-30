@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -158,13 +159,8 @@
 
 <!ENTITY showMessengerToolbarCmd.label "Posta araç çubuğu">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
-<!-- showSearchToolbarCmd is also used by addressbook -->
- 
 <!ENTITY showSearchToolbarCmd.label "Arama çubuğu">
 <!ENTITY showSearchToolbarCmd.accesskey "A">
-
-<!ENTITY showLocationToolbarCmd.label "Konum araç çubuğu">
-<!ENTITY showLocationToolbarCmd.accesskey "K">
 
 <!ENTITY messagePaneLayoutStyle.label "Yerleşim">
 <!ENTITY messagePaneLayoutStyle.accesskey "l">
@@ -318,8 +314,8 @@
 <!ENTITY goBackCmd.label "Geri">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.label "İleri">
-<!ENTITY goForwardCmd.accesskey "l">
+<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Yıldızlı iletiler">
 <!ENTITY prevFlaggedMsgCmd.accesskey "Y">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Dur">
 <!ENTITY junkButton.label "Gereksiz">
 <!ENTITY notJunkButton.label '"Gereksiz" değil'>
+<!ENTITY searchButton.title "Advanced Search">
 <!-- Tooltips -->
 
 <!ENTITY menuBar.tooltip "Menü çubuğu">
 <!ENTITY mailToolbar.tooltip "Posta araç çubuğu">
-<!ENTITY locationToolbar.tooltip "Konum araç çubuğu">
+<!ENTITY searchToolbar.tooltip "Search Bar">
 <!ENTITY advancedButton.tooltip "Gelişmiş posta arama">
 <!ENTITY getMsgButton.tooltip "Yeni postaları indir">
 <!ENTITY newMsgButton.tooltip "Yeni posta yaz">
@@ -580,8 +577,8 @@
 <!ENTITY folderContextNew.accesskey "n">
 <!ENTITY folderContextSubscribe.label "Abone ol…">
 <!ENTITY folderContextSubscribe.accesskey "A">
-<!ENTITY folderContextSearchMessages.label "İletilerde ara…">
-<!ENTITY folderContextSearchMessages.accesskey "İ">
+<!ENTITY folderContextSearchMessages.label "Search Messages…">
+<!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Özellikler…">
 <!ENTITY folderContextProperties.accesskey "e">
 <!ENTITY folderContextSettings.label "Ayarlar…">
@@ -589,9 +586,10 @@
 <!-- focusSearchInput.key also used by addressbook -->
 
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.placeholder "Konu ve adreslerde ara">
 <!ENTITY advancedButton.label "Gelişmiş…">
 <!ENTITY advancedButton.accesskey "e">
+<!ENTITY searchButton.label "Search Messages…">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "Tamamı">
 <!ENTITY all.accesskey "a">
@@ -608,3 +606,8 @@
 
 <!ENTITY phishingBarMessage.label "&brandShortName; iletinin sahtekârlık girişimi olduğunu düşünüyor.">
 <!ENTITY removePhishingBarButton.label "Yemleme değil">
+<!-- MDN Bar -->
+
+<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
+<!ENTITY mdnBarIgnoreButton.label "İsteği görmezden gel">
+<!ENTITY mdnBarSendButton.label "Alındı onayı gönder">

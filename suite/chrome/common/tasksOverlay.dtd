@@ -30,7 +30,7 @@
 <!ENTITY passwordDisplayCmd.accesskey "M">
 
 <!ENTITY passwordExpireCmd.label "Log Out">
-<!ENTITY passwordExpireCmd.accesskey "l">
+<!ENTITY passwordExpireCmd.accesskey "L">
 
 <!ENTITY downloadManagerCmd.label "Download Manager">
 <!ENTITY downloadManagerCmd.accesskey "D">

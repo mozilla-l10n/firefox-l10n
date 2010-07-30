@@ -38,11 +38,11 @@
 <!ENTITY allengines.label "All Engines">
 <!ENTITY engine.column.label "Engines for this Category">
 <!ENTITY category.label "Category">
-<!ENTITY category.accesskey "c">
+<!ENTITY category.accesskey "C">
 <!ENTITY done.label "Done">
 
 <!ENTITY add.label "Add">
-<!ENTITY add.accesskey "a">
+<!ENTITY add.accesskey "A">
 <!ENTITY remove.label "Kaldır">
 <!ENTITY remove.accesskey "r">
 

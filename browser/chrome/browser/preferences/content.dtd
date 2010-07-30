@@ -3,7 +3,7 @@
 <!ENTITY popupExceptions.label "Ayrıcalıklar…">
 <!ENTITY popupExceptions.accesskey "A">
 
-<!ENTITY loadImages.label "Resimleri göster">
+<!ENTITY loadImages.label "Resimleri otomatik olarak yükle">
 <!ENTITY loadImages.accesskey "s">
 <!ENTITY exceptions.label "Ayrıcalıklar…">
 <!ENTITY exceptions.accesskey "y">

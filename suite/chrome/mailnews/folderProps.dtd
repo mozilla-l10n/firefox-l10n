@@ -45,9 +45,12 @@
 <!ENTITY folderCharsetTab.accesskey "e">
 <!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
 <!ENTITY folderCharsetOverride.accesskey "a">
-<!ENTITY folderRebuildSummaryFile.label "Özet dosyasını tamir et">
-<!ENTITY folderRebuildSummaryFile.accesskey "Ö">
-<!ENTITY folderRebuildSummaryFileTip.label "Özet dosyasını tamir et">
+<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey "R">
+<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
 
 <!ENTITY retention.label "Kayıt güvenliği">
 <!ENTITY retentionUseAccount.label "Hesap ayarlarınını kullan">
@@ -69,8 +72,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 
 <!ENTITY folderSynchronizationTab.label "Eşzamanlama">
-<!ENTITY folderCheckForNewMessages.label "Bu dizinde yeni ietileri denetle">
-<!ENTITY folderCheckForNewMessages.accesskey "z">
+<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
+<!ENTITY folderCheckForNewMessages2.accesskey "c">
 
 <!ENTITY offlineFolder.check.label "Bu dizini çevrim dışı kullanım için seç">
 <!ENTITY offlineFolder.check.accesskey "v">

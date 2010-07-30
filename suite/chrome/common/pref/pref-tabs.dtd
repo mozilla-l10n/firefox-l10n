@@ -12,17 +12,3 @@
 <!ENTITY loadGroupReplace.label "Kullanılan sekmeleri değiştir">
 <!ENTITY loadGroupReplace.accesskey "K">
 <!ENTITY openTabs.label "Open tabs instead of windows for">
-
-<!ENTITY newWindow.label "Link open behavior">
-<!ENTITY newWindowDescription.label "Yeni pencerede aşılması gereken bağlantıları">
-<!ENTITY external.label "Diğer uygulamalardan açılan bağlantıları">
-<!ENTITY externalDescription.label "Diğer uygulamalardan açılan bağlantıları">
-<!ENTITY openCurrent.label "Şimdiki sekme veya pencerede aç">
-<!ENTITY newWindowGroupCurrent.accesskey "i">
-<!ENTITY externalGroupCurrent.accesskey "k">
-<!ENTITY openTab.label "Şu anki pencerede yeni sekmede aç">
-<!ENTITY newWindowGroupTab.accesskey "c">
-<!ENTITY externalGroupTab.accesskey "s">
-<!ENTITY openWindow.label "Yeni pencerede aç">
-<!ENTITY newWindowGroupWindow.accesskey "p">
-<!ENTITY externalGroupWindow.accesskey "e">

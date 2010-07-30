@@ -16,7 +16,7 @@
 <!ENTITY mnInspectContentDocument.label "İçerik Belgeyi İncele">
 <!ENTITY mnInspectContentDocument.accesskey "B">
 <!ENTITY mnInspectChromeDocument.label "Inspect Chrome Document">
-<!ENTITY mnInspectChromeDocument.accesskey "H">
+<!ENTITY mnInspectChromeDocument.accesskey "h">
 <!ENTITY cmdShowOpenURLDialog.label "Inspect a URL…">
 <!ENTITY cmdShowOpenURLDialog.accesskey "U">
 <!ENTITY cmdSave.label "Save DOM As…">
@@ -45,7 +45,7 @@
 <!ENTITY mnSearch.accesskey "S">
 
 <!ENTITY mnView.label "View">
-<!ENTITY mnView.accesskey "v">
+<!ENTITY mnView.accesskey "V">
 <!ENTITY cmdToggleBrowser.label "Tarayıcı">
 <!ENTITY cmdToggleBrowser.accesskey "T">
 <!ENTITY cmdToggleSearch.label "Arama sonuçları">
