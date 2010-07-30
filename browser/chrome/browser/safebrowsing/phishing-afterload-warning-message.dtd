@@ -4,7 +4,7 @@
 <!ENTITY safeb.palm.message.p1.linkText "קרא עוד &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "קרא עוד &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "סוגים אלה של זיופים משמשים במה שידוע כ"התקפות הונאה" (פישינג), בהם דפי אינטרנט והודעות דוא״ל מזוייפים משמשים לחיקוי של מקורות בהם אתה בוטח. תוכל למצוא עוד אודות">
+<!ENTITY safeb.palm.message.p2.start "סוגים אלה של זיופים משמשים במה שידוע כ־&quot;התקפות הונאה&quot; (פישינג), בהם דפי אינטרנט והודעות דוא״ל מזוייפים משמשים לחיקוי של מקורות בהם אתה בוטח. תוכל למצוא עוד אודות ">
 <!ENTITY safeb.palm.message.p2.linkText "הדרך בה &brandShortName; מגן עליך">
 <!ENTITY safeb.palm.message.p2.end " מהתקפות הונאה.">
 

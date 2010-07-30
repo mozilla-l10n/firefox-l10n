@@ -12,28 +12,28 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(גלישה פרטית)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Reload Tab">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  openTabInNewWindow.label           "Open in a New Window">
-<!ENTITY  openTabInNewWindow.accesskey       "W">
-<!ENTITY  pinTab.label                       "Make into App Tab">
-<!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Make into Normal Tab">
-<!ENTITY  unpinTab.accesskey                 "k">
-<!ENTITY  bookmarkThisTab.label              "Bookmark This Tab">
-<!ENTITY  bookmarkThisTab.accesskey          "B">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Close Tab">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  reloadTab.label                    "טעינת לשונית מחדש">
+<!ENTITY  reloadTab.accesskey                "ט">
+<!ENTITY  reloadAllTabs.label                "טעינת כל הלשוניות מחדש">
+<!ENTITY  reloadAllTabs.accesskey            "ט">
+<!ENTITY  closeOtherTabs.label               "סגור לשוניות אחרות">
+<!ENTITY  closeOtherTabs.accesskey           "ס">
+<!ENTITY  openTabInNewWindow.label           "פתח בחלון חדש">
+<!ENTITY  openTabInNewWindow.accesskey       "פ">
+<!ENTITY  pinTab.label                       "הפוך ללשונית יישום">
+<!ENTITY  pinTab.accesskey                   "ה">
+<!ENTITY  unpinTab.label                     "הפוך ללשונית רגילה">
+<!ENTITY  unpinTab.accesskey                 "ה">
+<!ENTITY  bookmarkThisTab.label              "צור סימניה ללשונית זו">
+<!ENTITY  bookmarkThisTab.accesskey          "צ">
+<!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות...">
+<!ENTITY  bookmarkAllTabs.accesskey          "צ">
+<!ENTITY  undoCloseTab.label                 "בטל סגירת לשונית">
+<!ENTITY  undoCloseTab.accesskey             "ב">
+<!ENTITY  closeTab.label                     "סגור לשונית">
+<!ENTITY  closeTab.accesskey                 "ס">
 
-<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
 
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
@@ -132,10 +132,10 @@
 <!ENTITY bookmarksButton.accesskey  "ס">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bookmarks">
-<!ENTITY bookmarksMenuButton.tooltip        "Display your bookmarks">
-<!ENTITY viewBookmarksSidebar.label         "Show in Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY bookmarksMenuButton.label          "סימניות">
+<!ENTITY bookmarksMenuButton.tooltip        "הצגת הסימניות שלך">
+<!ENTITY viewBookmarksSidebar.label         "הצג בסרגל הצד">
+<!ENTITY viewBookmarksToolbar.label         "הצג סרגל סימניות">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -167,23 +167,23 @@
 <!ENTITY errorConsoleCmd.accesskey    "ש">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.label          "מסוף רשת">
+<!ENTITY webConsoleCmd.accesskey      "מ">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspect">
-<!ENTITY inspectMenu.accesskey        "t">
+<!ENTITY inspectMenu.label            "חקור">
+<!ENTITY inspectMenu.accesskey        "ח">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectButton.label          "Inspect">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Next">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Previous">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Style">
+<!ENTITY inspectButton.label          "חקור">
+<!ENTITY inspectButton.accesskey      "ח">
+<!ENTITY inspectNextButton.label      "הבא">
+<!ENTITY inspectNextButton.accesskey  "ה">
+<!ENTITY inspectPreviousButton.label  "קודם">
+<!ENTITY inspectPreviousButton.accesskey "ק">
+<!ENTITY inspectStyleButton.label     "סגנון">
+<!ENTITY inspectStyleButton.accesskey "ס">
+<!ENTITY inspectStylePanelTitle.label  "סגנון">
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
@@ -237,8 +237,8 @@
 <!ENTITY viewSidebarMenu.accesskey "ג">
 <!ENTITY viewCustomizeToolbar.label       "התאמה אישית..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ה">
-<!ENTITY viewTabsOnTop.label            "Tabs on Top">
-<!ENTITY viewTabsOnTop.accesskey        "T">
+<!ENTITY viewTabsOnTop.label            "לשונית בראש החלון">
+<!ENTITY viewTabsOnTop.accesskey        "ל">
 
 <!ENTITY historyMenu.label "היסטוריה">
 <!ENTITY historyMenu.accesskey "ה">
@@ -250,16 +250,16 @@
 <!ENTITY showAllHistoryCmd2.label "הצג את כל ההיסטוריה">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuPrintCmd.label "Print">
-<!ENTITY appMenuCustomize.label "Customize">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuHelp.label "Help">
+<!ENTITY appMenuPrintCmd.label "הדפסה">
+<!ENTITY appMenuCustomize.label "התאמה אישית">
+<!ENTITY appMenuToolbarLayout.label "פריסת סרגל הכלים…">
+<!ENTITY appMenuSidebars.label "סרגלי צד">
+<!ENTITY appMenuHelp.label "עזרה">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "עבור לאתר">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "עבור ללשונית:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -505,4 +505,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "חיפוש לשוניות">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "לשוניות הדפדפן">

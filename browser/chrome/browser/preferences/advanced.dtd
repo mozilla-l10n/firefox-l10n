@@ -46,7 +46,7 @@
 -->
 <!ENTITY useCacheBefore.label            "השתמש בעד">
 <!ENTITY useCacheBefore.accesskey        "ב">
-<!ENTITY useCacheAfter.label             "מ"ב שטח דיסק עבור המטמון">
+<!ENTITY useCacheAfter.label             "מ״ב שטח דיסק עבור המטמון">
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
 <!ENTITY clearCacheNow.accesskey         "מ">
 

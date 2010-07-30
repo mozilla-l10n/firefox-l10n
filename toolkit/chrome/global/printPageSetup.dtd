@@ -51,7 +51,7 @@
 <!ENTITY footerRight.tip     "תחתית ימנית">
 
 <!ENTITY hfTitle             "כותרת דף">
-<!ENTITY hfURL               "URL">
+<!ENTITY hfURL               "כתובת">
 <!ENTITY hfDateAndTime       "תאריך/שעה">
 <!ENTITY hfPage              "דף #">
 <!ENTITY hfPageAndTotal      "דף # מתוך #">

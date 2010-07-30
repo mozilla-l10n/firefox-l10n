@@ -43,23 +43,23 @@
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "אתיופית">
 <!ENTITY  font.langGroup.georgian                 "גאורגית">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.gujarati                 "גוג׳ראטית">
+<!ENTITY  font.langGroup.gurmukhi                 "גורמוחית">
 <!ENTITY  font.langGroup.khmer                    "חמר">
 <!ENTITY  font.langGroup.malayalam                "מליאלאם">
 <!ENTITY  font.langGroup.oriya                    "אורייה">
 <!ENTITY  font.langGroup.telugu                   "טלוגו">
 <!ENTITY  font.langGroup.kannada                  "קנדית">
 <!ENTITY  font.langGroup.sinhala                  "סינהאלית">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  font.langGroup.tibetan                  "טיבטית">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "גודל גופן מינימלי:">
 <!ENTITY minSize.accesskey                        "פ">
 <!ENTITY minSize.none                             "ללא">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "סריף">
+<!ENTITY  useDefaultFontSansSerif.label           "סאן־סריף">
 
 <!ENTITY  allowPagesToUse.label                   "אפשר לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה">
 <!ENTITY  allowPagesToUse.accesskey               "ל">
