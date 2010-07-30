@@ -21,9 +21,7 @@
 <!ENTITY addToDictionary.label "新增到字典">
 
 <!ENTITY bookmarksHeader.label     "書籤">
-<!ENTITY bookmarksManage.label     "管理">
 
-<!ENTITY editBookmarkRemove.label  "移除">
 <!ENTITY editBookmarkDone.label    "完成">
 <!ENTITY editBookmarkTags.label    "在此加入書籤">
 
@@ -86,5 +84,7 @@
 <!ENTITY consoleErrLine.label      "行號:">
 <!ENTITY consoleErrColumn.label    "欄數:">
 
-<!ENTITY contextOpenInNewTab.label "用新分頁開啟鏈結">
-<!ENTITY contextSaveImage.label    "儲存圖片">
+<!ENTITY contextOpenInNewTab.label    "用新分頁開啟鏈結">
+<!ENTITY contextSaveImage.label       "儲存圖片">
+<!ENTITY contextEditBookmark.label    "編輯">
+<!ENTITY contextRemoveBookmark.label  "移除">

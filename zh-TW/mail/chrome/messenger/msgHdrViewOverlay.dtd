@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "取出…">
 <!ENTITY deleteAttachmentCmd.label    "刪除">
+<!ENTITY openAllAttachmentsCmd.label    "開啟全部…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "全部儲存…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "s">
 <!ENTITY detachAllAttachmentsCmd.label    "全部取出…">
