@@ -117,6 +117,7 @@
 <!ENTITY newimButton.label                              "Mensagem Instantânea">  
 <!ENTITY newimButton.accesskey                          "I">  
 <!ENTITY searchNameAndEmail.placeholder                 "Procurar nome e correio">
+<!ENTITY searchBox.title                                "Procurar">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Barra de ferramentas do Livro de Endereços">
