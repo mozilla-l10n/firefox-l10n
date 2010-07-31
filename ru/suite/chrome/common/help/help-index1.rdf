@@ -135,7 +135,7 @@
      <rdf:li>
        <rdf:Description ID="IMAP"
          nc:name="IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
 </rdf:Seq>
    </nc:subheadings>
@@ -146,17 +146,17 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="IMAP:about"
          nc:name="что такое IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:advanced_mail_settings"
          nc:name="дополнительные параметры сервера IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:server_settings"
          nc:name="параметры сервера IMAP"
-         nc:link="mail_help.xhtml#imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#imap_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -237,7 +237,7 @@
      <rdf:li>
        <rdf:Description ID="POP"
          nc:name="POP"
-         nc:link="mail_help.xhtml#about_post_office_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_post_office_protocol"/>
      </rdf:li>
      </rdf:Seq>
    </nc:subheadings>
@@ -248,7 +248,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="POP:server_settings"
          nc:name="Параметры сервера POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -273,12 +273,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="SMTP:choosing_a_different"
          nc:name="выбор другого SMTP сервера"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="SMTP:server_settings"
          nc:name="настройки SMTP сервера"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -623,7 +623,7 @@
      <rdf:li>
        <rdf:Description ID="Newsgroups:server_settings"
          nc:name="параметры сервера групп новостей"
-         nc:link="mail_help.xhtml#server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1570,7 +1570,7 @@
      <rdf:li>
        <rdf:Description ID="mail"
          nc:name="параметры безопасности почты"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>     
      <rdf:li>
        <rdf:Description ID="Account_Settings"
@@ -1718,7 +1718,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
          nc:name="дополнительные параметры сервера IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
@@ -1748,7 +1748,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
          nc:name="копии и папки"
-         nc:link="mail_help.xhtml#copies_and_folders"/>
+         nc:link="mailnews_account_settings.xhtml#copies_and_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copying_folders"
@@ -1813,7 +1813,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
          nc:name="параметры учетной записи"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
@@ -1828,7 +1828,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
          nc:name="параметры сервера POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:renaming_folders"
@@ -1868,7 +1868,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
          nc:name="настройки SMTP"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
@@ -2234,7 +2234,7 @@
       <rdf:li>
        <rdf:Description ID="return_receipts"
          nc:name="уведомления о доставке"
-         nc:link="mailnews_preferences.xhtml#return_receipts"/>
+         nc:link="mailnews_account_settings.xhtml#return_receipts"/>
      </rdf:li>
       <rdf:li>
        <rdf:Description ID="software_installation"
@@ -2288,7 +2288,7 @@
      <rdf:li>
        <rdf:Description ID="settings:signed_and_encrypted mail"
          nc:name="настройки подписи и шифрования почтовых сообщений"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings:SSL"
