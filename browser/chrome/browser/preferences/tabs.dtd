@@ -8,3 +8,5 @@
 <!ENTITY showTabBar.accesskey "M">
 <!ENTITY switchToNewTabs.label "Porta in primo piano le nuove schede aperte da un link">
 <!ENTITY switchToNewTabs.accesskey "P">
+<!ENTITY showTabsInTaskbar.label "Visualizza un'anteprima delle schede nella Barra delle applicazioni di Windows">
+<!ENTITY showTabsInTaskbar.accesskey "V">
