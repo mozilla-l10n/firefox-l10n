@@ -173,11 +173,11 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "n">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeccionar">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Siguiente">
@@ -258,6 +258,8 @@
 <!ENTITY appMenuToolbarLayout.label "Barra de diseño…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuHelp.label "Ayuda">
+
+<!ENTITY developerMenu.label "Desarollador">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ir a un sitio web">
