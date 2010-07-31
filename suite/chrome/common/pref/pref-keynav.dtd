@@ -2,7 +2,7 @@
 <!ENTITY tabNavigationBehavior.label "Tecla de navegação por separadores">
 <!ENTITY tabNavigationLinks.label "Ligações">
 <!ENTITY tabNavigationLinks.accesskey "L">
-<!ENTITY tabNavigationForms.label "Botões, botões radio, caixas de selecção e listas de selecção">
+<!ENTITY tabNavigationForms.label "Botões, botões de rádio, caixas de selecção e listas de selecção">
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto e regiões deslocáveis fazem sempre parte da ordem dos separadores.">
 <!ENTITY tabNavigationDesc.label "Quando Tab ou Shift+Tab é carregado, mover entre:">
@@ -19,3 +19,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Apenas ligações">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "ç">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar  barra de procura durante a procura ao escrever">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Procurar ao escrever sem mostrar a barra de procura não permite entradas de texto internacionais.">
