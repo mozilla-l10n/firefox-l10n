@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Habilitar">
 <!ENTITY cmd.enableAddon.accesskey            "H">
-<!ENTITY cmd.enableAddon.tooltip              "Habilitar este complemento">
 <!ENTITY cmd.disableAddon.label               "Deshabilitar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.disableAddon.tooltip             "Deshabilitar este complemento">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.uninstallAddon.tooltip           "Desinstalar este complemento">
 <!ENTITY cmd.showPreferences.label            "Preferencias">
 <!ENTITY cmd.showPreferences.tooltip          "Cambiar las preferencias de este complemento">
 <!ENTITY cmd.contribute.label                 "Contribuir">
