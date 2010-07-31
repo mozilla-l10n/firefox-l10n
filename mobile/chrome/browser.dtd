@@ -66,5 +66,7 @@
 <!ENTITY consoleErrColumn.label "Символ:">
 <!ENTITY contextOpenInNewTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY contextSaveImage.label "Сохранить изображение">
+<!ENTITY contextShareLink.label "Поделиться ссылкой">
+<!ENTITY contextShareImage.label "Поделиться изображением">
 <!ENTITY contextEditBookmark.label "Изменить">
 <!ENTITY contextRemoveBookmark.label "Удалить">
