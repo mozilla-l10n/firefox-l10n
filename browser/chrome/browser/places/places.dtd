@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiser">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Hold styr på dine bogmærker">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Luk">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Visninger">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "Værktøjsbjælke">
-<!ENTITY view.toolbar.accesskey         "æ">
+<!ENTITY views.tooltip                  "Ændr din visning">
 <!ENTITY view.columns.label             "Vis kolonner">
 <!ENTITY view.columns.accesskey         "k">
 <!ENTITY view.sort.label                "Sorter">
@@ -43,28 +43,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Vælg fil…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.select_all.label "Vælg alt">
-<!ENTITY cmd.select_all.accesskey "a">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Klip">
-<!ENTITY cmd.edit_cut.accesskey     "p">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopier">
-<!ENTITY cmd.edit_copy.accesskey    "K">
-<!ENTITY cmd.edit_copy.key          "k">
-<!ENTITY cmd.edit_paste.label       "Indsæt">
-<!ENTITY cmd.edit_paste.accesskey   "I">
-<!ENTITY cmd.edit_paste.key         "d">
-<!ENTITY cmd.edit_delete.label      "Slet">
-<!ENTITY cmd.edit_delete.accesskey  "S">
-<!ENTITY cmd.edit_undo.label        "Fortryd">
-<!ENTITY cmd.edit_undo.accesskey    "F">
-<!ENTITY cmd.edit_undo.key          "t">
-<!ENTITY cmd.edit_redo.label        "Gendan">
-<!ENTITY cmd.edit_redo.accesskey    "G">
-<!ENTITY cmd.edit_redo.key          "a">
-
 <!ENTITY cmd.bookmarkLink.label         "Bogmærk denne side…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slet dette websted">
@@ -84,17 +62,12 @@
 <!ENTITY cmd.properties.label      "Egenskaber">
 <!ENTITY cmd.properties.accesskey  "E">
 
-<!ENTITY cmd.rename.label      "Omdøb">
-<!ENTITY cmd.rename.accesskey  "O">
-
 <!ENTITY cmd.sortby_name.label              "Sorter efter navn">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nyt bogmærke…">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_livemark.label            "Nyt live bogmærke…">
-<!ENTITY cmd.new_livemark.accesskey        "l">
 <!ENTITY cmd.new_folder.label              "Ny mappe…">
 <!ENTITY cmd.new_folder.accesskey          "a">
 <!ENTITY cmd.context_new_folder.accesskey  "m">
@@ -134,11 +107,9 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "Feed">
-<!ENTITY feed.subscribe.tooltip  "Abonner">
-
 <!ENTITY maintenance.label      "Funktioner">
 <!ENTITY maintenance.accesskey  "u">
+<!ENTITY maintenance.tooltip    "Importer og sikkerhedskopier dine bogmærker">
 
 <!ENTITY backCmd.label       "Tilbage">
 <!ENTITY backButton.tooltip  "Gå tilbage">
