@@ -13,3 +13,5 @@
 <!ENTITY switchToNewTabs.label        "En obrir un enllaç en una nova pestanya, vés-hi immediatament">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
+<!ENTITY showTabsInTaskbar.label          "Mostra les previsualitzacions de les pestanyes a la barra de tasques del Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "q">

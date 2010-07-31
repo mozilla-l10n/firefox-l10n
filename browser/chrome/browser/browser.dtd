@@ -172,6 +172,7 @@
 <!ENTITY inspectMenu.accesskey        "o">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspecciona">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Següent">
@@ -252,6 +253,8 @@
 <!ENTITY appMenuToolbarLayout.label "Format de la barra d'eines…">
 <!ENTITY appMenuSidebars.label "Barres laterals">
 <!ENTITY appMenuHelp.label "Ajuda">
+
+<!ENTITY developerMenu.label "Desenvolupador">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder           "Vés a un lloc web">

@@ -35,13 +35,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Habilita">
 <!ENTITY cmd.enableAddon.accesskey            "H">
-<!ENTITY cmd.enableAddon.tooltip              "Habilita el complement">
 <!ENTITY cmd.disableAddon.label               "Inhabilita">
 <!ENTITY cmd.disableAddon.accesskey           "I">
-<!ENTITY cmd.disableAddon.tooltip             "Inhabilita el complement">
 <!ENTITY cmd.uninstallAddon.label             "Suprimeix">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-<!ENTITY cmd.uninstallAddon.tooltip           "Desinstal·la el complement">
 <!ENTITY cmd.showPreferences.label            "Preferències">
 <!ENTITY cmd.showPreferences.tooltip          "Canvia les preferències del complement">
 <!ENTITY cmd.contribute.label                 "Col·labora-hi">
