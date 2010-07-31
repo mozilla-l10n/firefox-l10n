@@ -66,5 +66,7 @@
 <!ENTITY consoleErrColumn.label "Слупок:">
 <!ENTITY contextOpenInNewTab.label "Адкрыць спасылку ў новай устаўцы">
 <!ENTITY contextSaveImage.label "Захаванне малюнка">
+<!ENTITY contextShareLink.label "Падзяліцца спасылкай">
+<!ENTITY contextShareImage.label "Падзяліцца малюнкам">
 <!ENTITY contextEditBookmark.label "Правіць">
 <!ENTITY contextRemoveBookmark.label "Выдаліць">

@@ -27,13 +27,10 @@
 <!ENTITY cmd.about.accesskey "п">
 <!ENTITY cmd.enableAddon.label "Дазволіць">
 <!ENTITY cmd.enableAddon.accesskey "Д">
-<!ENTITY cmd.enableAddon.tooltip "Дазволіць гэты дадатак">
 <!ENTITY cmd.disableAddon.label "Забараніць">
 <!ENTITY cmd.disableAddon.accesskey "З">
-<!ENTITY cmd.disableAddon.tooltip "Забараніць гэты дадатак">
 <!ENTITY cmd.uninstallAddon.label "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey "В">
-<!ENTITY cmd.uninstallAddon.tooltip "Высталяваць гэты дадатак">
 <!ENTITY cmd.showPreferences.label "Перавагі">
 <!ENTITY cmd.showPreferences.tooltip "Змяніць перавагі гэтага дадатка">
 <!ENTITY cmd.contribute.label "Ахвяраваць">

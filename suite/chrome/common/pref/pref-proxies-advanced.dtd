@@ -7,15 +7,12 @@
 <!ENTITY ssl.accesskey "L">
 <!ENTITY ftp.label "Пасярэднік FTP:">
 <!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Пасярэднік Gopher:">
-<!ENTITY gopher.accesskey "g">
 <!ENTITY reuseProxy.label "Ужыць гэтыя наладжванні для ўсіх пратаколаў">
 <!ENTITY reuseProxy.accesskey "ж">
 <!ENTITY port.label "Порт:">
 <!ENTITY HTTPPort.accesskey "П">
 <!ENTITY SSLPort.accesskey "о">
 <!ENTITY FTPPort.accesskey "р">
-<!ENTITY gopherPort.accesskey "">
 <!ENTITY socks.caption "Агульны пасярэднік">
 <!ENTITY socks.description "Пасярэднік SOCKS – агульны пасярэднік, які часам ужываецца ў карпаратыўным або падобным асяроддзі.">
 <!ENTITY socks.label "Трымальнік SOCKS:">
