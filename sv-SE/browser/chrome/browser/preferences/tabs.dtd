@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "När jag öppnar en länk i en ny flik, flytta genast fokus till den">
 <!ENTITY switchToNewTabs.accesskey    "ä">
+
+<!ENTITY showTabsInTaskbar.label          "Förhandsgranska flikar i Windows aktivitetsfält">
+<!ENTITY showTabsInTaskbar.accesskey      "F">
