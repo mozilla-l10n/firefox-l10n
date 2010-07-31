@@ -140,6 +140,7 @@
 <!ENTITY inspectMenu.label "Inspeccionar">
 <!ENTITY inspectMenu.accesskey "r">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeccionar">
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectNextButton.label "Siguiente">
@@ -210,6 +211,7 @@
 <!ENTITY appMenuToolbarLayout.label "Disposición de las barras de herramientas…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuHelp.label "Ayuda">
+<!ENTITY developerMenu.label "Desarrolladores">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Ir a un sitio web">
 <!ENTITY urlbar.accesskey "d">
