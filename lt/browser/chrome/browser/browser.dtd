@@ -206,6 +206,7 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label           "HTML">
 <!ENTITY inspectButton.label               "Tirti">
 <!ENTITY inspectButton.accesskey           "T">
 <!ENTITY inspectNextButton.label           "Kitas">
@@ -286,6 +287,8 @@
 <!ENTITY appMenuToolbarLayout.label    "Priemonių juostos išdėstymas…">
 <!ENTITY appMenuSidebars.label         "Parankinė">
 <!ENTITY appMenuHelp.label             "Žinynas">
+
+<!ENTITY developerMenu.label           "Programavimas">
 
 <!ENTITY openCmd.commandkey            "l">
 <!ENTITY urlbar.placeholder            "Atverti svetainę">
