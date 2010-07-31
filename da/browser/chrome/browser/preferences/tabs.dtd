@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Skift automatisk fokus til et nyt faneblad, når jeg åbner et link deri">
 <!ENTITY switchToNewTabs.accesskey    "S">
+
+<!ENTITY showTabsInTaskbar.label          "Vis forhåndsvisning for faneblade i Windows opgavelinjen">
+<!ENTITY showTabsInTaskbar.accesskey      "W">

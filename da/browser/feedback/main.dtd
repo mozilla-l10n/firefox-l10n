@@ -1,0 +1,30 @@
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "Indstillinger">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Giv besked når">
+<!ENTITY testpilot.settings.readyToSubmit.label     "En undersøgelse er klar til at blive sendt">
+<!ENTITY testpilot.settings.newStudy.label          "Der findes en ny undersøgelse">
+<!ENTITY testpilot.settings.hasNewResults.label     "En undersøgelse har nye resultater">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Sendt automatisk mine data (spørg mig ikke)">
+<!ENTITY testpilot.allStudies.label                 "Alle dine brugerundersøgelser">
+<!ENTITY testpilot.about.label                      "Om Test Pilot">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Dine Test Pilot undersøgelser">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Nuværende undersøgelser">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Afsluttede undersøgelser">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Undersøgelsesresultater">
+<!ENTITY testpilot.studiesWindow.settings.label         "Indstillinger">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Henter, Vent venligst…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Rå-data">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Luk">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Aktiver brugerundersøgelser">
+<!ENTITY testpilot.feedbackbutton.label                "Feedback">
+<!ENTITY testpilot.happy.label        "Firefox gjorde mig glad fordi…">
+<!ENTITY testpilot.sad.label          "Firefox gjorde mig ked af det fordi…">
