@@ -21,7 +21,7 @@
 <!ENTITY sync.title "Sync">
 <!ENTITY sync.username "Kullanıcı ismi">
 <!ENTITY sync.password "Parola">
-<!ENTITY sync.secretPhrase "Secret Phrase">
+<!ENTITY sync.secretPhrase "Gizli Tümcecik">
 <!ENTITY sync.deviceName "Aygıt Adı">
 <!ENTITY sync.connect "Bağlan">
 <!ENTITY sync.disconnect "Bağlantıyı Kes">
