@@ -140,6 +140,7 @@
 <!ENTITY inspectMenu.label "Даследаваць">
 <!ENTITY inspectMenu.accesskey "Д">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Даследаваць">
 <!ENTITY inspectButton.accesskey "Д">
 <!ENTITY inspectNextButton.label "Наступны">
@@ -210,6 +211,7 @@
 <!ENTITY appMenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY appMenuSidebars.label "Палічкі">
 <!ENTITY appMenuHelp.label "Даведка">
+<!ENTITY developerMenu.label "Распрацаўнік">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перайсці на пляцоўку Сеціва">
 <!ENTITY urlbar.accesskey "d">
