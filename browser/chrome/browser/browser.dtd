@@ -257,6 +257,8 @@
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
 <!ENTITY appMenuHelp.label "Yardım">
 
+<!ENTITY developerMenu.label "Geliştirici">
+
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Bir siteye git">
 <!ENTITY urlbar.accesskey "d">
