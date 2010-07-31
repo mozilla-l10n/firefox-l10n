@@ -140,6 +140,7 @@
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">
 <!ENTITY inspectNextButton.label "Следующее">
@@ -210,6 +211,7 @@
 <!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
 <!ENTITY appMenuSidebars.label "Боковые панели">
 <!ENTITY appMenuHelp.label "Справка">
+<!ENTITY developerMenu.label "Разработка">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перейти на веб-сайт">
 <!ENTITY urlbar.accesskey "d">
