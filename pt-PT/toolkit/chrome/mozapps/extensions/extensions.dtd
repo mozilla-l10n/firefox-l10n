@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.enableAddon.tooltip              "Activa este extra">
 <!ENTITY cmd.disableAddon.label               "Desactivar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.disableAddon.tooltip             "Desactiva este extra">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.uninstallAddon.tooltip           "Remove este extra">
 <!ENTITY cmd.showPreferences.label            "Preferências">
 <!ENTITY cmd.showPreferences.tooltip          "Alterar preferências deste extra">
 <!ENTITY cmd.contribute.label                 "Contribuir">
