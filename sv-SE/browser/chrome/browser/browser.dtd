@@ -288,6 +288,8 @@
 <!ENTITY appMenuSidebars.label "Sidofält">
 <!ENTITY appMenuHelp.label "Hjälp">
 
+<!ENTITY developerMenu.label "Utvecklare">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå till en webbplats">
 <!ENTITY urlbar.accesskey             "d">
