@@ -258,6 +258,8 @@
 <!ENTITY appMenuSidebars.label "Barres latérales">
 <!ENTITY appMenuHelp.label "Aide">
 
+<!ENTITY developerMenu.label "Développeur">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Se rendre sur un site Web">
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
