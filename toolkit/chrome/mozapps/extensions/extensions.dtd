@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Увімкнути">
 <!ENTITY cmd.enableAddon.accesskey            "в">
-<!ENTITY cmd.enableAddon.tooltip              "Умімкнути цей додаток">
 <!ENTITY cmd.disableAddon.label               "Вимкнути">
 <!ENTITY cmd.disableAddon.accesskey           "м">
-<!ENTITY cmd.disableAddon.tooltip             "Вимкнути цей додаток">
 <!ENTITY cmd.uninstallAddon.label             "Вилучити">
 <!ENTITY cmd.uninstallAddon.accesskey         "л">
-<!ENTITY cmd.uninstallAddon.tooltip           "Вилучити цей додаток">
 <!ENTITY cmd.showPreferences.label            "Налаштування">
 <!ENTITY cmd.showPreferences.tooltip          "Змінити налаштування цього додатку">
 <!ENTITY cmd.contribute.label                 "Посприяти">

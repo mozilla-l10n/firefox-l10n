@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "При відкритті посилання в новій вкладці зробити її активною">
 <!ENTITY switchToNewTabs.accesskey    "и">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

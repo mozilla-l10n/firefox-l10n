@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Потайливий режим)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Нова вкладка">
-<!ENTITY  newTab.accesskey                   "Н">
 <!ENTITY  reloadTab.label                    "Оновити вкладку">
 <!ENTITY  reloadTab.accesskey                "О">
 <!ENTITY  reloadAllTabs.label                "Оновити всі вкладки">
@@ -169,14 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey    "м">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Панель дослідника">
-<!ENTITY hudConsoleCmd.accesskey      "к">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Дослідити">
 <!ENTITY inspectMenu.accesskey        "Д">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Дослідити">
 <!ENTITY inspectButton.accesskey      "Д">
 <!ENTITY inspectNextButton.label      "Наступне">
@@ -258,6 +257,8 @@
 <!ENTITY appMenuSidebars.label "Бічні панелі">
 <!ENTITY appMenuHelp.label "Довідка">
 
+<!ENTITY developerMenu.label "Developer">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Go to a Web Site">
 <!ENTITY urlbar.accesskey             "а">
@@ -288,16 +289,16 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
+<!ENTITY openLinkCmdInTab.accesskey   "л">
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "к">
 <!ENTITY openLinkCmdInCurrent.label     "Відкрити посилання">
 <!ENTITY openLinkCmdInCurrent.accesskey "В">
-<!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
-<!ENTITY openLinkCmdInTab.accesskey   "л">
-<!ENTITY openFrameCmd.label           "Відкрити фрейм в новому вікні">
-<!ENTITY openFrameCmd.accesskey       "ф">
 <!ENTITY openFrameCmdInTab.label      "Відкрити фрейм в новій вкладці">
 <!ENTITY openFrameCmdInTab.accesskey  "ц">
+<!ENTITY openFrameCmd.label           "Відкрити фрейм в новому вікні">
+<!ENTITY openFrameCmd.accesskey       "ф">
 <!ENTITY showOnlyThisFrameCmd.label     "Показати тільки цей фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "з">
 <!ENTITY reloadCmd.commandkey         "r">
