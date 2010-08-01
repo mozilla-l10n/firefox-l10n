@@ -105,11 +105,13 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "G">
 <!ENTITY detachAttachmentCmd.label "Separar…">
 <!ENTITY deleteAttachmentCmd.label "Eliminar">
-<!ENTITY saveAllAttachmentsCmd.label "Guardar Tudo...">
+<!ENTITY openAllAttachmentsCmd.label    "Abrir tudo…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
+<!ENTITY saveAllAttachmentsCmd.label "Guardar tudo...">
 <!ENTITY saveAllAttachmentsCmd.accesskey "U">
 <!ENTITY detachAllAttachmentsCmd.label "Separar todos...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "E">
-<!ENTITY deleteAllAttachmentsCmd.label "Eliminar Tudo...">
+<!ENTITY deleteAllAttachmentsCmd.label "Eliminar tudo...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "L">
 
 <!ENTITY copyLinkCmd.label "Copiar ligação">
