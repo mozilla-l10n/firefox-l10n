@@ -55,7 +55,7 @@
 <!ENTITY newevent.eventStatus.none.accesskey "o">
 <!ENTITY newevent.todoStatus.none.label "Belirtilmemiş">
 <!ENTITY newevent.eventStatus.cancelled.label "İptal edildi">
-<!ENTITY newevent.eventStatus.cancelled.accesskey "n">
+<!ENTITY newevent.eventStatus.cancelled.accesskey "p">
 <!ENTITY newevent.todoStatus.cancelled.label "Vazgeçildi">
 <!ENTITY newevent.status.tentative.label "Kesin değil">
 <!ENTITY newevent.status.tentative.accesskey "d">
