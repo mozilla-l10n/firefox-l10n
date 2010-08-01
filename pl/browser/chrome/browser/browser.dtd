@@ -13,8 +13,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
 <!-- Tab context menu -->
-<!ENTITY newTab.label                        "Nowa karta" >
-<!ENTITY newTab.accesskey                    "N" >
 <!ENTITY reloadTab.label                     "Odśwież kartę" >
 <!ENTITY reloadTab.accesskey                 "d" >
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
