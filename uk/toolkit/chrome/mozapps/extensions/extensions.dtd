@@ -98,7 +98,7 @@
 
 <!ENTITY addon.homepage                       "Домівка">
 <!ENTITY addon.unknownDate                    "Невідомо">
-<!ENTITY addon.disabled.postfix               "(вименено)">
+<!ENTITY addon.disabled.postfix               "(вимкнено)">
 <!ENTITY addon.undo.label                     "Скасувати?">
 <!ENTITY addon.undo.tooltip                   "Скасувати цю дію">
 <!ENTITY addon.undoUninstall.label            "Скасувати?">
