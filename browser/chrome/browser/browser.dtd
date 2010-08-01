@@ -257,6 +257,8 @@
 <!ENTITY appMenuSidebars.label "Sidestolpar">
 <!ENTITY appMenuHelp.label "Hjelp">
 
+<!ENTITY developerMenu.label "Utviklar">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gå til ein nettstad">
 <!ENTITY urlbar.accesskey             "d">

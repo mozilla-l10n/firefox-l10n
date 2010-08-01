@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Når eg opnar ei lenkje i ei ny fane, byt til den fana med ein gong">
 <!ENTITY switchToNewTabs.accesskey    "N">
+
+<!ENTITY showTabsInTaskbar.label          "Vis førehandsvising av faner i Windows-oppgåvelinja">
+<!ENTITY showTabsInTaskbar.accesskey      "s">
