@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label "Přepnout na nový panel otevřený z odkazu">
 <!ENTITY switchToNewTabs.accesskey "P">
+
+<!ENTITY showTabsInTaskbar.label "V hlavním panelu Windows zobrazit náhledy panelů">
+<!ENTITY showTabsInTaskbar.accesskey "h">
