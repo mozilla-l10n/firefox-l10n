@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label "Cumasaigh">
 <!ENTITY cmd.enableAddon.accesskey "C">
-<!ENTITY cmd.enableAddon.tooltip "Cumasaigh an breiseán seo">
 <!ENTITY cmd.disableAddon.label "Díchumasaigh">
 <!ENTITY cmd.disableAddon.accesskey "D">
-<!ENTITY cmd.disableAddon.tooltip "Díchumasaigh an breiseán seo">
 <!ENTITY cmd.uninstallAddon.label "Bain">
 <!ENTITY cmd.uninstallAddon.accesskey "B">
-<!ENTITY cmd.uninstallAddon.tooltip "Díshuiteáil an breiseán seo">
 <!ENTITY cmd.showPreferences.label "Sainroghanna">
 <!ENTITY cmd.showPreferences.tooltip "Athraigh sainroghanna an bhreiseáin seo">
 <!ENTITY cmd.contribute.label "Glac Páirt">

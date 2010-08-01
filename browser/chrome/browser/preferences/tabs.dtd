@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label "Tar éis dom nasc a oscailt i gcluaisín nua, athraigh chuige láithreach">
 <!ENTITY switchToNewTabs.accesskey "s">
+
+<!ENTITY showTabsInTaskbar.label "Taispeáin réamhamharc ar chluaisíní sa tascbharra Windows">
+<!ENTITY showTabsInTaskbar.accesskey "c">

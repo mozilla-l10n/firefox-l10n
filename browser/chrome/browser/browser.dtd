@@ -175,6 +175,7 @@
 <!ENTITY inspectMenu.accesskey "S">
 <!ENTITY inspectMenu.commandkey "I">
 
+<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Scrúdaigh">
 <!ENTITY inspectButton.accesskey "S">
 <!ENTITY inspectNextButton.label "Ar Aghaidh">
@@ -255,6 +256,8 @@
 <!ENTITY appMenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!ENTITY appMenuSidebars.label "Barraí Taoibh">
 <!ENTITY appMenuHelp.label "Cabhair">
+
+<!ENTITY developerMenu.label "Forbróir">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Téigh go Suíomh Gréasáin">
