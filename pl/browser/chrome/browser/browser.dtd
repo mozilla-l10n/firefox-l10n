@@ -187,7 +187,7 @@
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectButton.label          "Zbadaj">
-<!ENTITY inspectButton.accesskey      "Z">
+<!ENTITY inspectButton.accesskey      "b">
 <!ENTITY inspectNextButton.label      "Następny">
 <!ENTITY inspectNextButton.accesskey  "N">
 <!ENTITY inspectPreviousButton.label  "Poprzedni">
