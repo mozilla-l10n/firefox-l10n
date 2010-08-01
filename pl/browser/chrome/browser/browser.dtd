@@ -265,6 +265,7 @@
 <!ENTITY appMenuToolbarLayout.label "Układ paska narzędzi…">
 <!ENTITY appMenuSidebars.label "Panele boczne">
 <!ENTITY appMenuHelp.label "Pomoc">
+<!ENTITY developerMenu.label "Programowanie">
 
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder           "Przejdź do witryny WWW">
