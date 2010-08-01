@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix   "(privaatne veebilehitsemine)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                           "Uus kaart">
-<!ENTITY  newTab.accesskey                       "U">
 <!ENTITY  reloadTab.label                        "Laadi kaart uuesti">
 <!ENTITY  reloadTab.accesskey                    "i">
 <!ENTITY  reloadAllTabs.label                    "Laadi kõik kaardid uuesti">
@@ -169,14 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey               "V">
 <!ENTITY errorConsoleCmd.commandkey              "j">
 
-<!ENTITY hudConsoleCmd.label                     "Konsool">
-<!ENTITY hudConsoleCmd.accesskey                 "K">
-<!ENTITY hudConsoleCmd.commandkey                "k">
+<!ENTITY webConsoleCmd.label                     "Veebikonsool">
+<!ENTITY webConsoleCmd.accesskey                 "k">
+<!ENTITY webConsoleCmd.commandkey                "k">
 
 <!ENTITY inspectMenu.label                       "Inspekteeri">
 <!ENTITY inspectMenu.accesskey                   "I">
 <!ENTITY inspectMenu.commandkey                  "I">
 
+<!ENTITY inspectPanelTitle.label                 "HTML">
 <!ENTITY inspectButton.label                     "Inspekteeri">
 <!ENTITY inspectButton.accesskey                 "I">
 <!ENTITY inspectNextButton.label                 "Järgmine">
@@ -259,6 +258,8 @@
 <!ENTITY appMenuSidebars.label                   "Külgribad">
 <!ENTITY appMenuHelp.label                       "Abi">
 
+<!ENTITY developerMenu.label                     "Arendajale">
+
 <!ENTITY openCmd.commandkey                      "l">
 <!ENTITY urlbar.placeholder                      "Mine veebilehele">
 <!ENTITY urlbar.accesskey                        "d">
@@ -290,16 +291,16 @@
 <!ENTITY searchFocus.commandkey2                 "e">
 <!ENTITY searchFocusUnix.commandkey              "j">
 
+<!ENTITY openLinkCmdInTab.label                  "Ava link uuel kaardil">
+<!ENTITY openLinkCmdInTab.accesskey              "k">
 <!ENTITY openLinkCmd.label                       "Ava link uues aknas">
 <!ENTITY openLinkCmd.accesskey                   "l">
 <!ENTITY openLinkCmdInCurrent.label              "Ava link">
 <!ENTITY openLinkCmdInCurrent.accesskey          "v">
-<!ENTITY openLinkCmdInTab.label                  "Ava link uuel kaardil">
-<!ENTITY openLinkCmdInTab.accesskey              "k">
-<!ENTITY openFrameCmd.label                      "Ava paneel uues aknas">
-<!ENTITY openFrameCmd.accesskey                  "p">
 <!ENTITY openFrameCmdInTab.label                 "Ava paneel uuel kaardil">
 <!ENTITY openFrameCmdInTab.accesskey             "u">
+<!ENTITY openFrameCmd.label                      "Ava paneel uues aknas">
+<!ENTITY openFrameCmd.accesskey                  "p">
 <!ENTITY showOnlyThisFrameCmd.label              "Näita ainult seda paneeli">
 <!ENTITY showOnlyThisFrameCmd.accesskey          "d">
 <!ENTITY reloadCmd.commandkey                    "r">

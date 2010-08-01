@@ -35,13 +35,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Luba">
 <!ENTITY cmd.enableAddon.accesskey            "L">
-<!ENTITY cmd.enableAddon.tooltip              "Luba see lisa">
 <!ENTITY cmd.disableAddon.label               "Keela">
 <!ENTITY cmd.disableAddon.accesskey           "a">
-<!ENTITY cmd.disableAddon.tooltip             "Keela see lisa">
 <!ENTITY cmd.uninstallAddon.label             "Eemalda">
 <!ENTITY cmd.uninstallAddon.accesskey         "m">
-<!ENTITY cmd.uninstallAddon.tooltip           "Eemalda see lisa">
 <!ENTITY cmd.showPreferences.label            "Eelistused">
 <!ENTITY cmd.showPreferences.tooltip          "Muuda selle lisa eelistusi">
 <!ENTITY cmd.contribute.label                 "Aita kaasa">

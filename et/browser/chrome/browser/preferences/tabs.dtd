@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label           "Uue kaardi avamisel lülitutakse sellele koheselt">
 <!ENTITY switchToNewTabs.accesskey       "i">
+
+<!ENTITY showTabsInTaskbar.label         "Kaartide eelvaateid näidatakse Windowsi tegumiribal">
+<!ENTITY showTabsInTaskbar.accesskey     "K">
