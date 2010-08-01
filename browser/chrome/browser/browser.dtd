@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Anonymní prohlížení)">
 
 <!-- Tab context menu -->
-<!ENTITY newTab.label "Nový panel">
-<!ENTITY newTab.accesskey "N">
 <!ENTITY reloadTab.label "Obnovit panel">
 <!ENTITY reloadTab.accesskey "O">
 <!ENTITY reloadAllTabs.label "Obnovit všechny panely">
@@ -169,14 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY hudConsoleCmd.label "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey "U">
-<!ENTITY hudConsoleCmd.commandkey "k">
+<!ENTITY webConsoleCmd.label "Webová konzola">
+<!ENTITY webConsoleCmd.accesskey "W">
+<!ENTITY webConsoleCmd.commandkey "k">
 
 <!ENTITY inspectMenu.label "Prozkoumat">
 <!ENTITY inspectMenu.accesskey "P">
 <!ENTITY inspectMenu.commandkey "I">
 
+<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Prozkoumat">
 <!ENTITY inspectButton.accesskey "P">
 <!ENTITY inspectNextButton.label "Další">
@@ -257,6 +256,8 @@
 <!ENTITY appMenuToolbarLayout.label "Rozložení lišt…">
 <!ENTITY appMenuSidebars.label "Postranní lišty">
 <!ENTITY appMenuHelp.label "Nápověda">
+
+<!ENTITY developerMenu.label "Vývojář">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Přejít na web">

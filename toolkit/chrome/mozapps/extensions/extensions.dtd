@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label "Povolit">
 <!ENTITY cmd.enableAddon.accesskey "P">
-<!ENTITY cmd.enableAddon.tooltip "Povolí doplněk">
 <!ENTITY cmd.disableAddon.label "Zakázat">
 <!ENTITY cmd.disableAddon.accesskey "Z">
-<!ENTITY cmd.disableAddon.tooltip "Zakáže doplněk">
 <!ENTITY cmd.uninstallAddon.label "Odebrat">
 <!ENTITY cmd.uninstallAddon.accesskey "O">
-<!ENTITY cmd.uninstallAddon.tooltip "Odinstaluje doplněk">
 <!ENTITY cmd.showPreferences.label "Předvolby">
 <!ENTITY cmd.showPreferences.tooltip "Umožní změnit předvolby doplňku">
 <!ENTITY cmd.contribute.label "Přispět">
