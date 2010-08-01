@@ -20,7 +20,7 @@
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!ENTITY  openTabInNewWindow.label           "用新視窗開啟">
 <!ENTITY  openTabInNewWindow.accesskey       "w">
-<!ENTITY  pinTab.label                       "釘選成應用程式標籤">
+<!ENTITY  pinTab.label                       "釘選成應用程式分頁">
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "釘選成普通標籤">
 <!ENTITY  unpinTab.accesskey                 "k">
@@ -175,6 +175,7 @@
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "檢測">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "下一個">
@@ -255,6 +256,8 @@
 <!ENTITY appMenuToolbarLayout.label "工具列版面…">
 <!ENTITY appMenuSidebars.label "側邊欄">
 <!ENTITY appMenuHelp.label "說明">
+
+<!ENTITY developerMenu.label "開發者">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "開啟網站">
