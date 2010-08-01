@@ -22,9 +22,9 @@
 <!ENTITY openTabInNewWindow.label            "Otwórz w nowym oknie">
 <!ENTITY openTabInNewWindow.accesskey        "O">
 <!ENTITY  pinTab.label                       "Przekształć w kartę aplikacji">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.accesskey                   "e">
 <!ENTITY  unpinTab.label                     "Przekształć w zwykłą kartę">
-<!ENTITY  unpinTab.accesskey                 "P">
+<!ENTITY  unpinTab.accesskey                 "e">
 <!ENTITY bookmarkThisTab.label               "Dodaj zakładkę do tej karty">
 <!ENTITY bookmarkThisTab.accesskey           "z">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
