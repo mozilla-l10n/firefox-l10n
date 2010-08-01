@@ -39,7 +39,7 @@
 <!ENTITY cmd.disableAddon.label "Disable">
 <!ENTITY cmd.disableAddon.accesskey "D">
 <!ENTITY cmd.uninstallAddon.label "Kaldır">
-<!ENTITY cmd.uninstallAddon.accesskey "R">
+<!ENTITY cmd.uninstallAddon.accesskey "K">
 <!ENTITY cmd.showPreferences.label "Tercihler">
 <!ENTITY cmd.showPreferences.tooltip "Change this add-on's preferences">
 <!ENTITY cmd.contribute.label "Contribute">

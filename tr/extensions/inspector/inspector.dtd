@@ -44,8 +44,8 @@
 <!ENTITY mnSearch.label "Search">
 <!ENTITY mnSearch.accesskey "S">
 
-<!ENTITY mnView.label "View">
-<!ENTITY mnView.accesskey "V">
+<!ENTITY mnView.label "Görünüm">
+<!ENTITY mnView.accesskey "G">
 <!ENTITY cmdToggleBrowser.label "Tarayıcı">
 <!ENTITY cmdToggleBrowser.accesskey "T">
 <!ENTITY cmdToggleSearch.label "Arama sonuçları">

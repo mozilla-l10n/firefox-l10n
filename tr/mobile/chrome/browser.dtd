@@ -86,7 +86,7 @@
 
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
-<!ENTITY contextShareLink.label "Share Link">
+<!ENTITY contextShareLink.label "Bağlantıyı paylaş">
 <!ENTITY contextShareImage.label "Share Image">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">

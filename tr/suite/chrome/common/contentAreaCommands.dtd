@@ -1,7 +1,7 @@
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label "Reject popup windows from this site">
+<!ENTITY popupWindowRejectCmd.label "Reject popup windows from this website">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label "Allow popup windows from this site">
+<!ENTITY popupWindowAllowCmd.label "Allow popup windows from this website">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
 <!ENTITY openLinkCmd.label "Yeni pencerede aç">
 <!ENTITY openLinkCmd.accesskey "p">
@@ -30,7 +30,7 @@
 <!ENTITY reloadFrameCmd.accesskey "e">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Seçimin kaynak kodunu göster">
 <!ENTITY viewPartialSourceForMathMLCmd.label "MathML kaynağını göster">
-<!ENTITY viewPartialSourceCmd.accesskey "E">
+<!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label "Sayfa kaynağını göster">
 <!ENTITY viewPageSourceCmd.accesskey "a">
 <!ENTITY viewFrameSourceCmd.label "Çerçeve kaynağını göster">
@@ -42,7 +42,7 @@
 <!ENTITY fitImageCmd.label "Fit Image to Window">
 <!ENTITY fitImageCmd.accesskey "F">
 <!ENTITY reloadImageCmd.label "Reload Image">
-<!ENTITY reloadImageCmd.accesskey "e">
+<!ENTITY reloadImageCmd.accesskey "R">
 <!ENTITY viewImageCmd.label "Resme bak">
 <!ENTITY viewImageCmd.accesskey "R">
 <!ENTITY viewVideoCmd.label "Videoyu izle">
@@ -59,14 +59,14 @@
 <!ENTITY bookmarkFrameCmd.accesskey "m">
 <!ENTITY savePageAsCmd.label "Save Page As…">
 <!ENTITY savePageCmd.label "Save Page">
-<!ENTITY savePageCmd.accesskey "a">
+<!ENTITY savePageCmd.accesskey "e">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameAsCmd.label "Save Frame As…">
 <!ENTITY saveFrameCmd.label "Save Frame">
-<!ENTITY saveFrameCmd.accesskey "m">
+<!ENTITY saveFrameCmd.accesskey "a">
 <!ENTITY saveLinkAsCmd.label "Save Link Target As…">
 <!ENTITY saveLinkCmd.label "Save Link Target">
-<!ENTITY saveLinkCmd.accesskey "r">
+<!ENTITY saveLinkCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Save Image As…">
 <!ENTITY saveImageCmd.label "Save Image">
 <!ENTITY saveImageCmd.accesskey "v">
@@ -79,9 +79,9 @@
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "C">
-<!ENTITY copyImageCmd.label "Copy Image">
-<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyImageCmd.label "Resmi kopyala">
+<!ENTITY copyImageCmd.accesskey "y">
 <!ENTITY copyVideoURLCmd.label "Video konumunu kopyala">
 <!ENTITY copyVideoURLCmd.accesskey "V">
 <!ENTITY copyAudioURLCmd.label "Ses konumunu kopyala">
@@ -89,14 +89,14 @@
 <!ENTITY metadataCmd.label "Properties">
 <!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copy Email Address">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "s">
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY cutCmd.label "Kes">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY deleteCmd.label "Sil">
 <!ENTITY deleteCmd.accesskey "S">
-<!ENTITY undoCmd.label "Geri al ">
+<!ENTITY undoCmd.label "Geri al">
 <!ENTITY undoCmd.accesskey "G">
 <!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.accesskey "Y">

@@ -13,5 +13,5 @@
 <!ENTITY switchToNewTabs.label "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
 <!ENTITY switchToNewTabs.accesskey "s">
 
-<!ENTITY showTabsInTaskbar.label "Show tab previews in the Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey "k">
+<!ENTITY showTabsInTaskbar.label "Sekme önizlemelerini Windows görev çubuğunda göster">
+<!ENTITY showTabsInTaskbar.accesskey "e">
