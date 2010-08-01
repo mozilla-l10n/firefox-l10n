@@ -15,4 +15,6 @@
 <!ENTITY newWindowsAsTabs.label       "Άνοιγμα νέων παραθύρων σε νέα καρτέλα">
 <!ENTITY newWindowsAsTabs.accesskey   "τ">
 
+<!ENTITY showTabsInTaskbar.label          "Προβολή προεπισκόπησης καρτελών στην taskbar των Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "ε">
 
