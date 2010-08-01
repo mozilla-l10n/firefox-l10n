@@ -1,10 +1,10 @@
 <!ENTITY testpilot.brand.label                      "Pilot testowy">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Ustawienia">
-<!ENTITY testpilot.settings.notifyMeWhen.label      "Powiadom mnie, kiedy">
-<!ENTITY testpilot.settings.readyToSubmit.label     "Nowe badanie jest gotowa do wysłania">
-<!ENTITY testpilot.settings.newStudy.label          "Pojawi się nowe badanie">
-<!ENTITY testpilot.settings.hasNewResults.label     "Badanie ma nowe wyniki">
+<!ENTITY testpilot.settings.notifyMeWhen.label      "Powiadom mnie, kiedy:">
+<!ENTITY testpilot.settings.readyToSubmit.label     "nowe badanie jest gotowe do wysłania">
+<!ENTITY testpilot.settings.newStudy.label          "pojawi się nowe badanie">
+<!ENTITY testpilot.settings.hasNewResults.label     "badanie ma nowe wyniki">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Prześlij moje dane automatycznie (bez pytania)">
 <!ENTITY testpilot.allStudies.label                 "Wszystkie badania użytkownika">
 <!ENTITY testpilot.about.label                      "Informacje o Pilocie testowym">
