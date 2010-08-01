@@ -113,7 +113,7 @@
 <!ENTITY  securityView.identity.verifier "Ellenőrizte: ">
 
 <!ENTITY  securityView.privacy.header                   "Adatvédelem és előzmények">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.history                  "Megnéztem már ezt a webhelyet korábban?">
 <!ENTITY  securityView.privacy.cookies                  "Tárol ez a webhely adatokat (sütiket) a számítógépemen?">
 <!ENTITY  securityView.privacy.viewCookies              "Sütik megtekintése">
 <!ENTITY securityView.privacy.viewCookies.accessKey    "S">

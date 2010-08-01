@@ -1,9 +1,9 @@
-<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY addons.windowTitle                   "Kiegészítőkezelő">
 <!ENTITY search.placeholder                   "Keresés a kiegészítők között">
 <!ENTITY loading.label                        "Betöltés...">
-<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
-<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
-<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY listEmpty.installed.label            "Nincs ilyen típusú kiegészítője">
+<!ENTITY listEmpty.search.label               "Nem található ilyen kiegészítő">
+<!ENTITY listEmpty.button.label               "További tudnivalók a kiegészítőkről">
 
 
 <!-- categories / views -->
@@ -17,59 +17,59 @@
 <!ENTITY view.plugins.label                   "Bővítmények">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Update add-ons">
-<!ENTITY updates.updating.label               "Updating add-ons">
-<!ENTITY updates.installed.label              "Your add-ons have been updated.">
-<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label                "Restart now to complete installation">
-<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.updateNow.label              "Kiegészítők frissítése">
+<!ENTITY updates.updating.label               "Kiegészítők frissítése">
+<!ENTITY updates.installed.label              "A kiegészítői frissítve lettek.">
+<!ENTITY updates.downloaded.label             "A kiegészítőfrissítések letöltődtek.">
+<!ENTITY updates.restart.label                "A telepítés befejezéséhez újra kell indítani">
+<!ENTITY updates.noneFound.label              "Nem találhatók frissítések">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Show more information">
-<!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "Find updates">
+<!ENTITY cmd.showDetails.label                "További adatok megjelenítése">
+<!ENTITY cmd.showDetails.accesskey            "T">
+<!ENTITY cmd.findUpdates.label                "Frissítések keresése">
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferences.label                "Beállítások">
-<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.preferences.accesskey            "B">
 <!ENTITY cmd.about.label                      "Névjegy">
 <!ENTITY cmd.about.accesskey                  "n">
 
 <!ENTITY cmd.enableAddon.label                "Engedélyezés">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.enableAddon.tooltip              "Enable this add-on">
+<!ENTITY cmd.enableAddon.tooltip              "Ennek a kiegészítőnek az engedélyezése">
 <!ENTITY cmd.disableAddon.label               "Letiltás">
-<!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.disableAddon.tooltip             "Disable this add-on">
+<!ENTITY cmd.disableAddon.accesskey           "L">
+<!ENTITY cmd.disableAddon.tooltip             "Ennek a kiegészítőnek a letiltása">
 <!ENTITY cmd.uninstallAddon.label             "Eltávolítás">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.uninstallAddon.tooltip           "Uninstall this add-on">
+<!ENTITY cmd.uninstallAddon.accesskey         "l">
+<!ENTITY cmd.uninstallAddon.tooltip           "Ennek a kiegészítőnek az eltávolítása">
 <!ENTITY cmd.showPreferences.label            "Beállítások">
-<!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label                 "Contribute">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
+<!ENTITY cmd.showPreferences.tooltip          "A kiegészítő beállításainak módosítása">
+<!ENTITY cmd.contribute.label                 "Támogatás">
+<!ENTITY cmd.contribute.accesskey             "T">
+<!ENTITY cmd.contribute.tooltip               "A kiegészítő fejlesztésének támogatása">
 
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Verzió">
-<!ENTITY detail.updated.label                 "Updated">
-<!ENTITY detail.creator.label                 "Developer">
-<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.updated.label                 "Frissítve">
+<!ENTITY detail.creator.label                 "Fejlesztő">
+<!ENTITY detail.homepage.label                "Honlap">
 <!ENTITY detail.numberOfDownloads.label       "Letöltések">
 
-<!ENTITY detail.updateAutomatically.label     "Update automatically">
-<!ENTITY detail.updateAutomatically.accesskey "U">
-<!ENTITY detail.updateAutomatically.tooltip   "Update this add-on automatically whenever there is an update available">
-<!ENTITY detail.checkForUpdates.label         "Check for updates">
+<!ENTITY detail.updateAutomatically.label     "Automatikus frissítés">
+<!ENTITY detail.updateAutomatically.accesskey "A">
+<!ENTITY detail.updateAutomatically.tooltip   "Ez a kiegészítő automatikusan frissülni fog, ha elérhető hozzá frissítés">
+<!ENTITY detail.checkForUpdates.label         "Frissítés keresése">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
-<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.checkForUpdates.tooltip       "Frissítések keresése ehhez a kiegészítőhöz">
 <!ENTITY detail.showPreferences.label         "Beállítások">
-<!ENTITY detail.showPreferences.accesskey     "P">
-<!ENTITY detail.showPreferences.tooltip       "Change this add-on's preferences">
+<!ENTITY detail.showPreferences.accesskey     "B">
+<!ENTITY detail.showPreferences.tooltip       "A kiegészítő beállításainak módosítása">
 
 
 <!-- ratings -->
-<!ENTITY rating.label                         "Rating:">
+<!ENTITY rating.label                         "Értékelés:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Szünet">
@@ -78,35 +78,35 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Név">
-<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.name.tooltip                    "Rendezés név szerint">
 <!ENTITY sort.size.label                      "Méret">
-<!ENTITY sort.size.tooltip                    "Sort by size">
-<!ENTITY sort.dateUpdated.label               "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
-<!ENTITY sort.rating.label                    "Rating">
-<!ENTITY sort.rating.tooltip                  "Sort by average rating">
+<!ENTITY sort.size.tooltip                    "Rendezés méret szerint">
+<!ENTITY sort.dateUpdated.label               "Utoljára frissítve">
+<!ENTITY sort.dateUpdated.tooltip             "Rendezés a frissítés ideje szerint">
+<!ENTITY sort.rating.label                    "Értékelés">
+<!ENTITY sort.rating.tooltip                  "Rendezés az átlagos értékelés szerint">
 
 
-<!ENTITY showMore.label                       "Show more">
-<!ENTITY showMore.tooltip                     "Show more details">
-<!ENTITY showLess.label                       "Show less">
-<!ENTITY showLess.tooltip                     "Show fewer details">
+<!ENTITY showMore.label                       "Több részlet">
+<!ENTITY showMore.tooltip                     "Több részlet megjelenítése">
+<!ENTITY showLess.label                       "Kevesebb részlet">
+<!ENTITY showLess.tooltip                     "Kevesebb részlet megjelenítése">
 
 <!ENTITY search.filter.label                  "Megjelenítés:">
-<!ENTITY search.filter.installed.label        "Your installed add-ons">
-<!ENTITY search.filter.available.label        "Available add-ons">
+<!ENTITY search.filter.installed.label        "Telepített kiegészítők">
+<!ENTITY search.filter.available.label        "Elérhető kiegészítők">
 
-<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.homepage                       "Honlap">
 <!ENTITY addon.unknownDate                    "Ismeretlen">
-<!ENTITY addon.disabled.postfix               "(disabled)">
-<!ENTITY addon.undo.label                     "Undo?">
-<!ENTITY addon.undo.tooltip                   "Undo this action">
-<!ENTITY addon.undoUninstall.label            "Undo?">
-<!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
-<!ENTITY addon.restartNow.label               "Restart now">
-<!ENTITY addon.restartNow.tooltip             "Restart now to complete installation">
+<!ENTITY addon.disabled.postfix               "(letiltva)">
+<!ENTITY addon.undo.label                     "Visszavonás?">
+<!ENTITY addon.undo.tooltip                   "A művelet visszavonása">
+<!ENTITY addon.undoUninstall.label            "Visszavonás?">
+<!ENTITY addon.undoUninstall.tooltip          "Maradjon telepítve ez a kiegészítő">
+<!ENTITY addon.restartNow.label               "Újraindítás most">
+<!ENTITY addon.restartNow.tooltip             "A telepítés befejezéséhez újra kell indítani">
 <!ENTITY addon.install.label                  "Telepítés">
-<!ENTITY addon.install.tooltip                "Install this add-on">
-<!ENTITY addon.checkingForUpdates.label       "Checking for updates...">
+<!ENTITY addon.install.tooltip                "Ennek a kiegészítőnek a telepítése">
+<!ENTITY addon.checkingForUpdates.label       "Frissítések keresése...">
 
-<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY addon.createdBy.label                "Szerző: ">

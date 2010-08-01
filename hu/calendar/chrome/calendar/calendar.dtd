@@ -193,7 +193,7 @@
 <!ENTITY calendar.context.deletethisevent.accesskey   "z">
 <!ENTITY calendar.context.deletecompleteseries.label  "A teljes sorozatot">
 <!ENTITY calendar.context.deletecompleteseries.accesskey   "s">
-<!ENTITY calendar.context.deletefutureevents.label     "All Future Events">
+<!ENTITY calendar.context.deletefutureevents.label     "Az összes jövőbeli eseményt">
 <!ENTITY calendar.context.deletefutureevents.accesskey "A">
 <!ENTITY calendar.context.deletefuturetasks.label     "Az összes jövőbeli feladatot">
 <!ENTITY calendar.context.deletefuturetasks.accesskey "f">
@@ -203,7 +203,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "M">
 <!ENTITY calendar.context.pasteevent.label            "Beillesztés">
 <!ENTITY calendar.context.pasteevent.accesskey        "B">
-<!ENTITY calendar.context.selectall.label             "Select All">
+<!ENTITY calendar.context.selectall.label             "Minden kijelölése">
 <!ENTITY calendar.context.selectall.accesskey         "i">
 <!ENTITY calendar.context.button.label                "Ma panel" >
 <!ENTITY calendar.context.button.accesskey            "M">
@@ -232,11 +232,11 @@
 
 <!ENTITY priority.level.none                "Nem megadott">
 <!ENTITY priority.level.none.accesskey      "n">
-<!ENTITY priority.level.low                 "Low">
+<!ENTITY priority.level.low                 "Alacsony">
 <!ENTITY priority.level.low.accesskey       "A">
 <!ENTITY priority.level.normal              "Normál">
 <!ENTITY priority.level.normal.accesskey    "N">
-<!ENTITY priority.level.high                "High">
+<!ENTITY priority.level.high                "Magas">
 <!ENTITY priority.level.high.accesskey      "M">
 
 <!-- Server Context Menu -->
@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Név:">
 <!ENTITY calendarproperties.readonly.label                 "Csak olvasható">
 <!ENTITY calendarproperties.firealarms.label               "Riasztások megjelenítése">
-<!ENTITY calendarproperties.cache.label                    "Cache (EXPERIMENTAL)">
+<!ENTITY calendarproperties.cache.label                    "Gyorsítótár (KÍSÉRLETI)">
 <!ENTITY calendarproperties.enabled.label                  "Naptár bekapcsolása">
 <!ENTITY calendarproperties.forceDisabled.label            "A naptár szolgáltatója nem található. Ez gyakran előfordul, ha letilt vagy eltávolít egyes kiegészítőket.">
 <!ENTITY calendarproperties.unsubscribe.label              "Leiratkozás">
@@ -336,7 +336,7 @@
 <!ENTITY calendar.print.events.label "Események">
 <!ENTITY calendar.print.selected.label "Kijelölt események">
 <!ENTITY calendar.print.custom.label "Egyéni dátumtartomány:">
-<!ENTITY calendar.print.from.label "From:">
+<!ENTITY calendar.print.from.label "Ettől:">
 <!ENTITY calendar.print.to.label "Eddig:">
 <!ENTITY calendar.print.settingsGroup.label "Nyomtatási beállítások">
 <!ENTITY calendar.print.optionsGroup.label "Beállítások">

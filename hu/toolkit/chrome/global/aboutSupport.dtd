@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Ez az oldal problémakeresésnél használható technikai információkat tartalmaz.
-   Ha a &brandShortName;szal kapcsolatos gyakori kérdésekre keresi a választ, akkor
+   Ha a &brandShortName; programmal kapcsolatos gyakori kérdésekre keresi a választ, akkor
   nézze meg a <a id='supportLink'>támogató weboldalunkat</a>.
 ">
 
@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Név">
 <!ENTITY aboutSupport.appBasicsVersion "Verzió">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilkönyvtár">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Engedélyezett bővítmények">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguráció">
 
 <!ENTITY aboutSupport.show.label "Megjelenítés">

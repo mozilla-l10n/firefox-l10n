@@ -81,7 +81,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>A böngésző nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

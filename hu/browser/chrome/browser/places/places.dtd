@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Rendszerezés">
 <!ENTITY organize.accesskey    "R">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Könyvjelzők rendszerezése">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Bezárás">
@@ -14,7 +14,7 @@
 <!ENTITY edit.accesskey                 "z">
 <!ENTITY views.label                    "Nézetek">
 <!ENTITY views.accesskey                "N">
-<!ENTITY views.tooltip                  "Change your view">
+<!ENTITY views.tooltip                  "A nézet megváltoztatása">
 <!ENTITY view.columns.label             "Oszlopok megjelenítése">
 <!ENTITY view.columns.accesskey         "O">
 <!ENTITY view.sort.label                "Rendezés">
@@ -109,7 +109,7 @@
 
 <!ENTITY maintenance.label      "Importálás és mentés">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Könyvjelzők importálása és biztonsági mentése">
 
 <!ENTITY backCmd.label       "Vissza">
 <!ENTITY backButton.tooltip  "Ugrás vissza">

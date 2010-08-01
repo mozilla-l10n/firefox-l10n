@@ -19,7 +19,7 @@
 <!ENTITY homepage.default                          "&brandShortName; kezdőoldal">
 <!ENTITY homepage.currentpage                      "Aktuális oldal használata">
 <!ENTITY sync.title                                "Sync">
-<!ENTITY sync.username                             "Username">
+<!ENTITY sync.username                             "Felhasználói név">
 <!ENTITY sync.password                             "Jelszó">
 <!ENTITY sync.secretPhrase                         "Titkosító kifejezés">
 <!ENTITY sync.deviceName                           "Eszköz neve">
