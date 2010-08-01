@@ -252,7 +252,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuPrintCmd.label "Друкувати">
-<!ENTITY appMenuCustomize.label "Налаштування">
+<!ENTITY appMenuCustomize.label "Вигляд">
 <!ENTITY appMenuToolbarLayout.label "Розташування панелей…">
 <!ENTITY appMenuSidebars.label "Бічні панелі">
 <!ENTITY appMenuHelp.label "Довідка">
