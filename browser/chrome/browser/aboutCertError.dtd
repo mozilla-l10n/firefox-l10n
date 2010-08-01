@@ -7,7 +7,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Usikker tilkobling">
-<!ENTITY certerror.longpagetitle "Denne tilkoblingen mangler sikkerhet">
+<!ENTITY certerror.longpagetitle "Denne tilkoblingen er usikker">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
