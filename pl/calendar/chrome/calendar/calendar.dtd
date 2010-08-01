@@ -84,7 +84,7 @@
 <!ENTITY calendar.unifinder.tree.location.label    "Miejsce">
 <!ENTITY calendar.unifinder.tree.status.label    "Stan">
 <!ENTITY calendar.unifinder.tree.calendarname.label    "Nazwa kalendarza">
-<!ENTITY calendar.unifinder.tree.duration.label      "Termin">
+<!ENTITY calendar.unifinder.tree.duration.label      "Pozostało">
 <!ENTITY calendar.unifinder.close.tooltip            "Zamknij ten panel">
 
 <!ENTITY calendar.today.button.tooltip        "Przejdź do dnia dzisiejszego" >
