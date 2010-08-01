@@ -537,3 +537,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY viewTabsOnTop.label            "Καρτέλες στο πάνω μέρος">
 <!ENTITY viewTabsOnTop.accesskey        "π">
+
+<!ENTITY developerMenu.label "Developer">
+<!ENTITY inspectPanelTitle.label      "HTML">
