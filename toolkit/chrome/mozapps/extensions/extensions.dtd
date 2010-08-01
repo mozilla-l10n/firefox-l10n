@@ -36,13 +36,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Engedélyezés">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.enableAddon.tooltip              "Ennek a kiegészítőnek az engedélyezése">
 <!ENTITY cmd.disableAddon.label               "Letiltás">
 <!ENTITY cmd.disableAddon.accesskey           "L">
-<!ENTITY cmd.disableAddon.tooltip             "Ennek a kiegészítőnek a letiltása">
 <!ENTITY cmd.uninstallAddon.label             "Eltávolítás">
 <!ENTITY cmd.uninstallAddon.accesskey         "l">
-<!ENTITY cmd.uninstallAddon.tooltip           "Ennek a kiegészítőnek az eltávolítása">
 <!ENTITY cmd.showPreferences.label            "Beállítások">
 <!ENTITY cmd.showPreferences.tooltip          "A kiegészítő beállításainak módosítása">
 <!ENTITY cmd.contribute.label                 "Támogatás">

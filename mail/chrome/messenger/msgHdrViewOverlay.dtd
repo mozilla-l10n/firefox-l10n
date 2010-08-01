@@ -105,6 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "e">
 <!ENTITY detachAttachmentCmd.label    "Leválasztás...">
 <!ENTITY deleteAttachmentCmd.label    "Törlés">
+<!ENTITY openAllAttachmentsCmd.label    "Összes megnyitása...">
+<!ENTITY openAllAttachmentsCmd.accesskey    "m">
 <!ENTITY saveAllAttachmentsCmd.label    "Összes mentése...">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "e">
 <!ENTITY detachAllAttachmentsCmd.label    "Összes leválasztása...">
