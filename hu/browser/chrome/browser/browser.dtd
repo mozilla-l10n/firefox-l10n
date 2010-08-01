@@ -175,6 +175,7 @@
 <!ENTITY inspectMenu.accesskey        "V">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Vizsgálat">
 <!ENTITY inspectButton.accesskey      "V">
 <!ENTITY inspectNextButton.label      "Következő">
@@ -255,6 +256,8 @@
 <!ENTITY appMenuToolbarLayout.label "Eszköztár elrendezése...">
 <!ENTITY appMenuSidebars.label "Oldalsávok">
 <!ENTITY appMenuHelp.label "Súgó">
+
+<!ENTITY developerMenu.label "Fejlesztő">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Ugrás egy webhelyre">
