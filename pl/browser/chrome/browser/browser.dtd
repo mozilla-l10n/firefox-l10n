@@ -178,9 +178,9 @@
 <!ENTITY errorConsoleCmd.accesskey "K" >
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Wyświetlacz przezierny">
-<!ENTITY hudConsoleCmd.accesskey      "e">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Konsola WWW">
+<!ENTITY webConsoleCmd.accesskey      "n">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Zbadaj">
 <!ENTITY inspectMenu.accesskey        "Z">
