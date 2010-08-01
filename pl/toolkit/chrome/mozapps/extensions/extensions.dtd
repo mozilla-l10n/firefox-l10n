@@ -35,13 +35,10 @@
 
 <!ENTITY cmd.enableAddon.label                "Włącz">
 <!ENTITY cmd.enableAddon.accesskey            "W">
-<!ENTITY cmd.enableAddon.tooltip              "Włącz ten dodatek">
 <!ENTITY cmd.disableAddon.label               "Wyłącz">
 <!ENTITY cmd.disableAddon.accesskey           "W">
-<!ENTITY cmd.disableAddon.tooltip             "Wyłącz ten dodatek">
 <!ENTITY cmd.uninstallAddon.label             "Usuń">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
-<!ENTITY cmd.uninstallAddon.tooltip           "Odinstaluj ten dodatek">
 <!ENTITY cmd.showPreferences.label            "Preferencje">
 <!ENTITY cmd.showPreferences.tooltip          "Zmień preferencje związane z tym dodatkiem">
 <!ENTITY cmd.contribute.label                 "Wspomóż">
