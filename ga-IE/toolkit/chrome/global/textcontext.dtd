@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "Scrios">
 <!ENTITY deleteCmd.accesskey "S">
 
-<!ENTITY spellAddToDictionary.label "Cuir é leis an bhFoclóir">
+<!ENTITY spellAddToDictionary.label "Cuir leis an bhFoclóir é">
 <!ENTITY spellAddToDictionary.accesskey "l">
 <!ENTITY spellCheckEnable.label "Ceartaigh Litriú">
 <!ENTITY spellCheckEnable.accesskey "L">
