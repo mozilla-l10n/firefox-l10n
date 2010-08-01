@@ -12,10 +12,10 @@
 
 
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
-<!ENTITY acceptCookies.accesskey       "A">
+<!ENTITY acceptCookies.accesskey       "e">
 
 <!ENTITY  acceptThirdParty.label        "Harmadik féltől származó sütik elfogadása">
-<!ENTITY acceptThirdParty.accesskey    "c">
+<!ENTITY acceptThirdParty.accesskey    "H">
 
 <!ENTITY  keepUntil.label               "Sütik megtartása:">
 <!ENTITY keepUntil.accesskey           "m">
@@ -57,10 +57,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "minden előzmény törlésére">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.label "Maradjon mindig a privát böngészési üzemmódban">
 <!ENTITY privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.label      "Böngészési előzmények megőrzése">
 <!ENTITY rememberHistory.accesskey  "b">
 
 <!ENTITY  rememberDownload.label         "Letöltési előzmények megőrzése">

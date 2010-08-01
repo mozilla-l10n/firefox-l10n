@@ -41,16 +41,16 @@
 <!ENTITY errLine.label   "Sor:">
 <!ENTITY errColumn.label "Oszlop:">
 
-<!ENTITY all.label          "All">
+<!ENTITY all.label          "Mind">
 <!ENTITY all.accesskey      "M">
 <!ENTITY errors.label       "Hibák">
 <!ENTITY errors.accesskey   "H">
 <!ENTITY warnings.label     "Figyelmeztetések">
 <!ENTITY warnings.accesskey "F">
 <!ENTITY messages.label     "Üzenetek">
-<!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Clear">
-<!ENTITY clear.accesskey    "A">
+<!ENTITY messages.accesskey "Ü">
+<!ENTITY clear.label        "Törlés">
+<!ENTITY clear.accesskey    "T">
 <!ENTITY codeEval.label     "Kód:">
 <!ENTITY codeEval.accesskey "K">
 <!ENTITY evaluate.label     "Kiértékelés">

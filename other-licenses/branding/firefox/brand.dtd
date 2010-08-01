@@ -3,4 +3,5 @@
 <!ENTITY  vendorShortName       "Mozilla">
 <!-- LOCALIZATION NOTE (trademarkInfo): note that there is no space between licenseLinkText (and its trailing licenseLinkSuffix entity) and this entity, so if your locale needs a space between sentences, you need to put it at the start of this entity. -->
 <!ENTITY  trademarkInfo         " A Firefox
-                                 és a Firefox logó a Mozilla Foundation védjegye.  Some of the trademarks used under license from The Charlton Company.">
+                                 és a Firefox logó a Mozilla Foundation védjegye.  Bizonyos védjegyeket a Charlton Company
+                                 engedélyével használunk.">
