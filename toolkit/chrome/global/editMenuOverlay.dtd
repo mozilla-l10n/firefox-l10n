@@ -1,31 +1,31 @@
-<!ENTITY editMenu.label "Modifi">
-<!ENTITY editMenu.accesskey "m">
-<!ENTITY undoCmd.label "Malfari">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "m">
-<!ENTITY redoCmd.label "Refari">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Eltondi">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopii">
-<!ENTITY copyCmd.key "K">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Alglui">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Forviŝi">
-<!ENTITY deleteCmd.accesskey "f">
-<!ENTITY selectAllCmd.label "Elekti Ĉion">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ĉ">
-<!ENTITY findCmd.label "Serĉi">
-<!ENTITY findCmd.key "M">
-<!ENTITY findCmd.accesskey "S">
-<!ENTITY findAgainCmd.label "Serĉi denove">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findAgainCmd.accesskey "e">
-<!ENTITY findPreviousCmd.label "Serĉi antaŭan">
+<!ENTITY editMenu.label            "Modifi">
+<!ENTITY editMenu.accesskey        "m">
+<!ENTITY undoCmd.label             "Malfari">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "m">
+<!ENTITY redoCmd.label             "Refari">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY cutCmd.label              "Eltondi">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Kopii">
+<!ENTITY copyCmd.key               "K">
+<!ENTITY copyCmd.accesskey         "k">
+<!ENTITY pasteCmd.label            "Alglui">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "a">
+<!ENTITY deleteCmd.label           "Forviŝi">
+<!ENTITY deleteCmd.accesskey       "f">
+<!ENTITY selectAllCmd.label        "Elekti Ĉion">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "ĉ">
+<!ENTITY findCmd.label             "Serĉi">
+<!ENTITY findCmd.key               "M">
+<!ENTITY findCmd.accesskey         "S">
+<!ENTITY findAgainCmd.label        "Serĉi denove">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "e">
+<!ENTITY findPreviousCmd.label     "Serĉi antaŭan">
 <!ENTITY findPreviousCmd.accesskey "a">

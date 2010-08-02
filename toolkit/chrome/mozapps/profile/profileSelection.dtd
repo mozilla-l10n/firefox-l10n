@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Elekti profilon de uzanto">
+<!ENTITY            windowtitle.label      "&brandShortName; - Elekti profilon de uzanto">
 
-<!ENTITY profilename.label "Nomo de profilo:">
+<!ENTITY            profilename.label      "Nomo de profilo:">
 
-<!ENTITY start.label "Start &brandShortName;">
-<!ENTITY exit.label "Eliri">
+<!ENTITY            start.label            "Start &brandShortName;">
+<!ENTITY            exit.label             "Eliri">
 
-<!ENTITY availprofiles.label "Disponeblaj profiloj">
+<!ENTITY            availprofiles.label    "Disponeblaj profiloj">
 
-<!ENTITY newButton.label "Krei profilon…">
-<!ENTITY newButton.accesskey "K">
-<!ENTITY renameButton.label "Renomi profilon…">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "Forviŝi Profilon…">
-<!ENTITY deleteButton.accesskey "F">
+<!ENTITY            newButton.label        "Krei profilon…">
+<!ENTITY            newButton.accesskey    "K">
+<!ENTITY            renameButton.label     "Renomi profilon…">
+<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            deleteButton.label     "Forviŝi Profilon…">
+<!ENTITY            deleteButton.accesskey "F">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; konservas en via profilo de uzanto informon pri viaj agordoj, preferoj kaj aliaj elementoj de uzanto.">
 
-<!ENTITY pmDescription.label "&brandShortName; konservas en via profilo de uzanto informon pri viaj agordoj, preferoj kaj aliaj elementoj de uzanto.">
+<!ENTITY            offlineState.label    "Labori malkonektite">
+<!ENTITY            offlineState.accesskey "a">
 
-<!ENTITY offlineState.label "Labori malkonektite">
-<!ENTITY offlineState.accesskey "a">
-
-<!ENTITY autoSelect.label "Ne demandi je la komenciĝo">
-<!ENTITY autoSelect.accesskey "d">
+<!ENTITY            autoSelect.label       "Ne demandi je la komenciĝo">
+<!ENTITY            autoSelect.accesskey   "d">

@@ -1,59 +1,58 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title "Raporti nefunkciantan TTTan retejon">
+<!ENTITY reportWizard.title                         "Raporti nefunkciantan TTTan retejon">
 
-<!ENTITY privacyNotice.label "Politiko pri privateco">
-<!ENTITY reportWizardPrivacy.description "Tiu ĉi ilo permesas al vi raporti al la Evangelism Team pri TTTaj retejoj kiuj ne funkcias bone en &brandShortName; aŭ blokas vizitojn faritajn de ĝi. Tiel vi povas helpi nin asekuri la plej bonan sperton por &brandShortName; uzantoj. Bonvolu preni momenton por legi tion kio sekvas kaj lerni kiel ni uzas la informon kiun ni kolektas, se vi volas partopreni.">
-<!ENTITY reportWizardMustAgree.description "Por daŭrigi vi devas akordi kun la supre menciita politiko pri privateco.">
+<!ENTITY privacyNotice.label                        "Politiko pri privateco">
+<!ENTITY reportWizardPrivacy.description            "Tiu ĉi ilo permesas al vi raporti al la Evangelism Team pri TTTaj retejoj kiuj ne funkcias bone en &brandShortName; aŭ blokas vizitojn faritajn de ĝi. Tiel vi povas helpi nin asekuri la plej bonan sperton por &brandShortName; uzantoj. Bonvolu preni momenton por legi tion kio sekvas kaj lerni kiel ni uzas la informon kiun ni kolektas, se vi volas partopreni.">
+<!ENTITY reportWizardMustAgree.description          "Por daŭrigi vi devas akordi kun la supre menciita politiko pri privateco.">
 
-<!ENTITY dontShowPrivacyStatement.label "Mi legis kaj akceptas la supre menciitan politikon pri privateco.">
-<!ENTITY dontShowPrivacyStatement.accesskey "M">
+<!ENTITY dontShowPrivacyStatement.label             "Mi legis kaj akceptas la supre menciitan politikon pri privateco.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "M">
 
-<!ENTITY reportForm.label "Plenigi raporton">
+<!ENTITY reportForm.label                           "Plenigi raporton">
 
-<!ENTITY reportForm.description "Rakontu al ni iom pli pri la problemo kiun vi trovis:">
-<!ENTITY reportForm.url.title "Retadreso de la TTTa retejo:">
-<!ENTITY reportForm.url.accesskey "R">
-<!-- No ":" at the end -->
+<!ENTITY reportForm.description                     "Rakontu al ni iom pli pri la problemo kiun vi trovis:">
+<!ENTITY reportForm.url.title                       "Retadreso de la TTTa retejo:">
+<!ENTITY reportForm.url.accesskey                   "R">
 
-<!ENTITY reportForm.behind_login.title "La TTTa retejo postulas pasvorton">
-<!ENTITY reportForm.behind_login.accesskey "P">
+<!ENTITY reportForm.behind_login.title              "La TTTa retejo postulas pasvorton"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
 
-<!ENTITY reportForm.problem_type.title "Tipo de problemo:">
-<!ENTITY reportForm.problem_type.accesskey "T">
+<!ENTITY reportForm.problem_type.title              "Tipo de problemo:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
 
-<!ENTITY reportForm.problem_type.chooseOne.title "Elektu unu…">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Elektu unu…">
+
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Retumilo ne subtenata">
+<!ENTITY reportForm.problem_type.item2.title        "Ne eblas akrediti">
+<!ENTITY reportForm.problem_type.item3.title        "Kromprogramo ne montrata">
+<!ENTITY reportForm.problem_type.item4.title        "Mankas alia enhavo">
+<!ENTITY reportForm.problem_type.item5.title        "Malĝusta funkciado">
+<!ENTITY reportForm.problem_type.item6.title        "Malĝusta aspeko">
+<!ENTITY reportForm.problem_type.item7.title        "Alia problemo">
+<!ENTITY reportForm.problem_type.item8.title        "Disability access">
+<!ENTITY reportForm.problem_type.item9.title        "Printed output is wrong">
 
-<!ENTITY reportForm.problem_type.item1.title "Retumilo ne subtenata">
-<!ENTITY reportForm.problem_type.item2.title "Ne eblas akrediti">
-<!ENTITY reportForm.problem_type.item3.title "Kromprogramo ne montrata">
-<!ENTITY reportForm.problem_type.item4.title "Mankas alia enhavo">
-<!ENTITY reportForm.problem_type.item5.title "Malĝusta funkciado">
-<!ENTITY reportForm.problem_type.item6.title "Malĝusta aspeko">
-<!ENTITY reportForm.problem_type.item7.title "Alia problemo">
-<!ENTITY reportForm.problem_type.item8.title "Disability access">
-<!ENTITY reportForm.problem_type.item9.title "Printed output is wrong">
+<!ENTITY reportForm.describe.title                  "Priskribu la problemon:">
+<!ENTITY reportForm.describe.accesskey              "P">
 
-<!ENTITY reportForm.describe.title "Priskribu la problemon:">
-<!ENTITY reportForm.describe.accesskey "P">
+<!ENTITY reportForm.platform.title                  "Platformo:">
+<!ENTITY reportForm.product.title                   "Produkto:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "Lingvo:">
 
-<!ENTITY reportForm.platform.title "Platformo:">
-<!ENTITY reportForm.product.title "Produkto:">
-<!ENTITY reportForm.gecko.title "Gecko:">
-<!ENTITY reportForm.useragent.title "Useragent:">
-<!ENTITY reportForm.language.title "Lingvo:">
 <!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Retpoŝto:">
+<!ENTITY reportForm.email.accesskey                 "E">
 
-<!ENTITY reportForm.email.title "Retpoŝto:">
-<!ENTITY reportForm.email.accesskey "E">
+<!ENTITY reportForm.privacyPolicy.title             "Politiko pri privateco">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Vidi politikon pri privateco">
 
-<!ENTITY reportForm.privacyPolicy.title "Politiko pri privateco">
-<!ENTITY reportForm.privacyPolicy.tooltip "Vidi politikon pri privateco">
+<!ENTITY reportResults.showDetail.title             "Montri detalojn">
+<!ENTITY reportResults.showDetail.accesskey         "M">
 
-<!ENTITY reportResults.showDetail.title "Montri detalojn">
-<!ENTITY reportResults.showDetail.accesskey "M">
+<!ENTITY sendReport.label                           "Sendanta raporton">
+<!ENTITY sendReport.description                     "Sendanta raporton al la servilo…">
 
-<!ENTITY sendReport.label "Sendanta raporton">
-<!ENTITY sendReport.description "Sendanta raporton al la servilo…">
-
-<!ENTITY finish.label "Raporto sendita">
+<!ENTITY finish.label                               "Raporto sendita">

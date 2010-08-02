@@ -1,15 +1,15 @@
-<!ENTITY brandMotto "Remalkovri la TTT-n">
-<!ENTITY credit.thanks "Specialan dankon al">
+<!ENTITY brandMotto       "Remalkovri la TTT-n">
+<!ENTITY credit.thanks    "Specialan dankon al">
 
-<!ENTITY credit.thanks2 "Dankegon al niaj">
+<!ENTITY credit.thanks2       "Dankegon al niaj">
 <!ENTITY credit.contributors2 "kontribuantoj">
+
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+  "Eduardo Trápani">
 -->
+<!ENTITY credit.translation "">
 
-<!ENTITY credit.translation "Eduardo Trápani">
-
-<!ENTITY credit.memory "Rememorante">
+<!ENTITY credit.memory      "Rememorante">
 <!ENTITY credit.poweredByGeckoReg "Funkciigata de Gecko&reg;">

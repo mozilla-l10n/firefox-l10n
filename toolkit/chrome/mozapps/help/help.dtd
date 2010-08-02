@@ -1,53 +1,52 @@
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey "M">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.commandkey           "M">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label "Malantaŭen">
-<!ENTITY backButton.accesskey "M">
-<!ENTITY backButton.tooltip "Iri malantaŭen unu paĝo">
-<!ENTITY forwardButton.label "Antaŭen">
-<!ENTITY forwardButton.accesskey "A">
-<!ENTITY forwardButton.tooltip "Iri antaŭen unu paĝo">
-<!ENTITY copyCmd.label "Kopii">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY selectAllCmd.label "Elekti ĉion">
-<!ENTITY selectAllCmd.accesskey "Ĉ">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Komenco">
-<!ENTITY homeButton.tooltip "Al la ĉefa paĝo pri helpo">
-<!ENTITY printButton.label "Presi">
-<!ENTITY printButton.tooltip "Presi ĉi tiun paĝon">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY backButton.label               "Malantaŭen">
+<!ENTITY backButton.accesskey           "M">
+<!ENTITY backButton.tooltip             "Iri malantaŭen unu paĝo">
+<!ENTITY forwardButton.label            "Antaŭen">
+<!ENTITY forwardButton.accesskey        "A">
+<!ENTITY forwardButton.tooltip          "Iri antaŭen unu paĝo">
+<!ENTITY copyCmd.label                  "Kopii">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Elekti ĉion">
+<!ENTITY selectAllCmd.accesskey         "Ĉ">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Komenco">
+<!ENTITY homeButton.tooltip             "Al la ĉefa paĝo pri helpo">
+<!ENTITY printButton.label              "Presi">
+<!ENTITY printButton.tooltip            "Presi ĉi tiun paĝon">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext "Search">
-<!ENTITY searchHeader.label "Search results">
-<!ENTITY toctab.label "Enhavoj">
-<!ENTITY toctab.accesskey "E">
+<!ENTITY search.emptytext               "Search">
+<!ENTITY searchHeader.label             "Search results">
+<!ENTITY toctab.label                   "Enhavoj">
+<!ENTITY toctab.accesskey               "E">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "Ĉiam super">
-<!ENTITY zLevel.accesskey "S">
+<!ENTITY zLevel.label                   "Ĉiam super">
+<!ENTITY zLevel.accesskey               "S">
 
-<!ENTITY fullZoomReduceBtn.label "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey "O">
-<!ENTITY fullZoomEnlargeBtn.label "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

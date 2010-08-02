@@ -37,32 +37,32 @@
 
 <!ENTITY errorConsole.title "Konzolo de eraro">
 
-<!ENTITY errFile.label "Fonta dosiero:">
-<!ENTITY errLine.label "Linio:">
+<!ENTITY errFile.label   "Fonta dosiero:">
+<!ENTITY errLine.label   "Linio:">
 <!ENTITY errColumn.label "Kolumno:">
 
-<!ENTITY all.label "Ĉiuj">
-<!ENTITY all.accesskey "Ĉ">
-<!ENTITY errors.label "Eraroj">
-<!ENTITY errors.accesskey "E">
-<!ENTITY warnings.label "Avertoj">
+<!ENTITY all.label          "Ĉiuj">
+<!ENTITY all.accesskey      "Ĉ">
+<!ENTITY errors.label       "Eraroj">
+<!ENTITY errors.accesskey   "E">
+<!ENTITY warnings.label     "Avertoj">
 <!ENTITY warnings.accesskey "A">
-<!ENTITY messages.label "Mesaĝoj">
+<!ENTITY messages.label     "Mesaĝoj">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label "Forviŝi">
-<!ENTITY clear.accesskey "F">
-<!ENTITY codeEval.label "Kodo:">
+<!ENTITY clear.label        "Forviŝi">
+<!ENTITY clear.accesskey    "F">
+<!ENTITY codeEval.label     "Kodo:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label "Taksi">
+<!ENTITY evaluate.label     "Taksi">
 <!ENTITY evaluate.accesskey "t">
 
-<!ENTITY copyCmd.label "Kopii">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY copyCmd.commandkey "K">
-<!ENTITY sortFirst.label "Konsideri unua > lasta por ordigo">
+<!ENTITY copyCmd.label       "Kopii">  
+<!ENTITY copyCmd.accesskey   "K"> 
+<!ENTITY copyCmd.commandkey  "K"> 
+<!ENTITY sortFirst.label     "Konsideri unua > lasta por ordigo">
 <!ENTITY sortFirst.accesskey "k">
-<!ENTITY sortLast.label "Konsideri lasta > unua por ordigo">
-<!ENTITY sortLast.accesskey "k">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Konsideri lasta > unua por ordigo">
+<!ENTITY sortLast.accesskey  "k">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

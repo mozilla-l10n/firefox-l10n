@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; sekura reĝimo">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title         "&brandShortName; sekura reĝimo">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; nun funkcias en sekura reĝimo, kiu tempe malaktivigas viajn personajn agordojn, etosojn kaj kromprogrogramojn.">
-<!ENTITY safeModeDescription2.label "Vi povas igi konstantaj kelkajn aŭ ĉiujn el tiuj ŝanĝoj:">
+<!ENTITY safeModeDescription.label    "&brandShortName; nun funkcias en sekura reĝimo, kiu tempe malaktivigas viajn personajn agordojn, etosojn kaj kromprogrogramojn.">
+<!ENTITY safeModeDescription2.label   "Vi povas igi konstantaj kelkajn aŭ ĉiujn el tiuj ŝanĝoj:">
 
-<!ENTITY disableAddons.label "Malaktivigi ĉiujn kromprogramojn">
-<!ENTITY disableAddons.accesskey "M">
+<!ENTITY disableAddons.label          "Malaktivigi ĉiujn kromprogramojn">
+<!ENTITY disableAddons.accesskey      "M">
 
-<!ENTITY resetToolbars.label "Redifini ilarojn kaj kontrolojn">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.label          "Redifini ilarojn kaj kontrolojn">
+<!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label "Anstataŭi paĝosignojn per la predeterminitaj de &brandShortName;">
-<!ENTITY resetBookmarks.accesskey "p">
+<!ENTITY deleteBookmarks.label        "Forviŝi ĉiujn legosignojn krom la sekurkopiajn">
+<!ENTITY deleteBookmarks.accesskey    "s">
 
-<!ENTITY resetUserPrefs.label "Anstataŭi ĉiujn preferojn de uzanto per la predeterminitaj de &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY resetUserPrefs.label         "Anstataŭi ĉiujn preferojn de uzanto per la predeterminitaj de &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label "Rekuperi la predeterminitajn serĉilojn">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label          "Rekuperi la predeterminitajn serĉilojn">
+<!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Fari ŝanĝojn kaj rekomenci">
-<!ENTITY continueButton.label "Daŭrigi en sekura reĝimo">
+<!ENTITY continueButton.label         "Daŭrigi en sekura reĝimo">

@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Aparata administranto">
+<!ENTITY devmgr.title                           "Aparata administranto">
 
-<!ENTITY devmgr.devlist.label "Sekurecaj programonoj kaj aparatoj">
-<!ENTITY devmgr.details.title "Detaloj">
-<!ENTITY devmgr.details.title2 "Valoro">
-<!ENTITY devmgr.status.label "Stato">
-<!ENTITY devmgr.version.label "Versio">
+<!ENTITY devmgr.devlist.label                   "Sekurecaj programonoj kaj aparatoj">
+<!ENTITY devmgr.details.title                   "Detaloj">
+<!ENTITY devmgr.details.title2                  "Valoro">
+<!ENTITY devmgr.status.label                    "Stato">
+<!ENTITY devmgr.version.label                   "Versio">
 
-<!ENTITY devmgr.button.changeslotname.label "Ŝanĝi sulketan nomon">
+<!ENTITY devmgr.button.changeslotname.label     "Ŝanĝi sulketan nomon">
 <!ENTITY devmgr.button.changeslotname.accesskey "Ŝ">
-<!ENTITY devmgr.button.login.label "Akreditado">
-<!ENTITY devmgr.button.login.accesskey "a">
-<!ENTITY devmgr.button.logout.label "Fini seancon">
-<!ENTITY devmgr.button.logout.accesskey "S">
-<!ENTITY devmgr.button.changepw.label "Ŝanĝi Pasvorton">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Ŝargi">
-<!ENTITY devmgr.button.load.accesskey "Ŝ">
-<!ENTITY devmgr.button.unload.label "Malŝargi">
-<!ENTITY devmgr.button.unload.accesskey "M">
-<!ENTITY devmgr.button.fips.accesskey "M">
+<!ENTITY devmgr.button.login.label              "Akreditado">
+<!ENTITY devmgr.button.login.accesskey          "a">
+<!ENTITY devmgr.button.logout.label             "Fini seancon">
+<!ENTITY devmgr.button.logout.accesskey         "S">
+<!ENTITY devmgr.button.changepw.label           "Ŝanĝi Pasvorton">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Ŝargi">
+<!ENTITY devmgr.button.load.accesskey           "Ŝ">
+<!ENTITY devmgr.button.unload.label             "Malŝargi">
+<!ENTITY devmgr.button.unload.accesskey         "M">
+<!ENTITY devmgr.button.fips.accesskey           "M">
 
-<!ENTITY loaddevice.info "Tajpu la informon pri la programero kiun vi volas aldoni.">
-<!ENTITY loaddevice.modname "Nomo de programono:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Nova PKCS#11 programono">
-<!ENTITY loaddevice.filename "Dosiera nomo de programono:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Esplori…">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "Tajpu la informon pri la programero kiun vi volas aldoni.">
+<!ENTITY loaddevice.modname                     "Nomo de programono:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Nova PKCS#11 programono">
+<!ENTITY loaddevice.filename                    "Dosiera nomo de programono:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "Esplori…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title "Ŝargi aparaton PKCS#11">
+<!ENTITY loaddevice.title                       "Ŝargi aparaton PKCS#11">

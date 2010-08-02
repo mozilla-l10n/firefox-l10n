@@ -1,208 +1,118 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title "Biblioteko">
-<!ENTITY places.library.width "700">
+<!ENTITY places.library.title  "Biblioteko">
+<!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label "Organizi">
-<!ENTITY organize.accesskey "O">
+<!ENTITY organize.label        "Organizi">
+<!ENTITY organize.accesskey    "O">
 
-<!ENTITY file.accesskey "M">
-<!ENTITY file.close.label "Fermi">
-<!ENTITY file.close.accesskey "F">
-<!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Modifi">
-<!ENTITY edit.accesskey "M">
-<!ENTITY views.label "Vidi">
-<!ENTITY views.accesskey "V">
-<!ENTITY view.toolbar.label "Ilaro">
-<!ENTITY view.toolbar.accesskey "i">
-<!ENTITY view.columns.label "Montri kolumnoj">
-<!ENTITY view.columns.accesskey "K">
-<!ENTITY view.sort.label "Ordigi">
-<!ENTITY view.sort.accesskey "R">
-<!ENTITY view.unsorted.label "Ne ordigite">
-<!ENTITY view.unsorted.accesskey "N">
-<!ENTITY view.sortAscending.label "Ordigado laŭ A > Z">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Ordigado laŭ Z > A">
-<!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Uzante paĝosignojn">
-<!ENTITY help.usingBookmarks.accesskey "P">
-<!ENTITY help.usingHistory.label "Uzante historion">
-<!ENTITY help.usingHistory.accesskey "h">
-<!ENTITY help.advancedTips.label "Spertaj konsiletoj kaj trukoj">
-<!ENTITY help.advancedTips.accesskey "K">
+<!ENTITY file.accesskey                 "M">
+<!ENTITY file.close.label               "Fermi">
+<!ENTITY file.close.accesskey           "F">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Modifi">
+<!ENTITY edit.accesskey                 "M">
+<!ENTITY views.label                    "Vidi">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.columns.label             "Montri kolumnoj">
+<!ENTITY view.columns.accesskey         "K">
+<!ENTITY view.sort.label                "Ordigi">
+<!ENTITY view.sort.accesskey            "R">
+<!ENTITY view.unsorted.label            "Ne ordigite">
+<!ENTITY view.unsorted.accesskey        "N">
+<!ENTITY view.sortAscending.label       "Ordigado laŭ A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ordigado laŭ Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label "Serĉi en paĝosignoj…">
-<!ENTITY cmd.findInBookmarks.accesskey "S">
-<!ENTITY cmd.findCurrent.label "Serĉi en la nuna kolekto…">
-<!ENTITY cmd.findCurrent.accesskey "e">
+<!ENTITY cmd.findInBookmarks.label      "Serĉi en paĝosignoj…">
+<!ENTITY cmd.findInBookmarks.accesskey  "S">
+<!ENTITY cmd.findCurrent.label          "Serĉi en la nuna kolekto…">
+<!ENTITY cmd.findCurrent.accesskey      "e">
 
-<!ENTITY cmd.exportHTML.label "Eksporti HTML…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Importi HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY cmd.exportHTML.label           "Eksporti HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importi HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
 
-<!ENTITY cmd.backup.label "Sekurkopii…">
-<!ENTITY cmd.backup.accesskey "S">
-<!ENTITY cmd.restore2.label "Restaŭri">
-<!ENTITY cmd.restore2.accesskey "R">
-<!ENTITY cmd.restoreFromFile.label "Elekti dosieron…">
-<!ENTITY cmd.restoreFromFile.accesskey "E">
+<!ENTITY cmd.backup.label               "Sekurkopii…">
+<!ENTITY cmd.backup.accesskey           "S">
+<!ENTITY cmd.restore2.label             "Restaŭri">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Elekti dosieron…">
+<!ENTITY cmd.restoreFromFile.accesskey  "E">
 
-<!ENTITY cmd.select_all.label "Elekti ĉion">
-<!ENTITY cmd.select_all.accesskey "Ĉ">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label "Eltondi">
-<!ENTITY cmd.edit_cut.accesskey "t">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Kopii">
-<!ENTITY cmd.edit_copy.accesskey "K">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Alglui">
-<!ENTITY cmd.edit_paste.accesskey "A">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Forviŝi">
-<!ENTITY cmd.edit_delete.accesskey "F">
-<!ENTITY cmd.edit_undo.label "Malfari">
-<!ENTITY cmd.edit_undo.accesskey "M">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Refari">
-<!ENTITY cmd.edit_redo.accesskey "R">
-<!ENTITY cmd.edit_redo.key "y">
-
-<!ENTITY cmd.delete.label "Forviŝi tiun ĉi paĝon">
-<!ENTITY cmd.delete.accesskey "D">
-<!ENTITY cmd.deleteDomainData.label "Forgesu tiun ĉi retejon">
+<!ENTITY cmd.bookmarkLink.label         "Paĝosigno por tiu ĉi paĝo…">
+<!ENTITY cmd.bookmarkLink.accesskey     "P">
+<!ENTITY cmd.delete.label               "Forviŝi tiun ĉi paĝon">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "Forgesu tiun ĉi retejon">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
-<!ENTITY cmd.open.label "Malfermi">
-<!ENTITY cmd.open.accesskey "M">
-<!ENTITY cmd.open_window.label "Malfermi en nova fenestro">
-<!ENTITY cmd.open_window.accesskey "F">
-<!ENTITY cmd.open_tab.label "Malfermi en nova folio">
-<!ENTITY cmd.open_tab.accesskey "n">
-<!ENTITY cmd.open_all_in_tabs.label "Malfermi ĉiujn en folioj">
-<!ENTITY cmd.open_all_in_tabs.accesskey "M">
+<!ENTITY cmd.open.label                  "Malfermi">
+<!ENTITY cmd.open.accesskey              "M">
+<!ENTITY cmd.open_window.label           "Malfermi en nova fenestro">
+<!ENTITY cmd.open_window.accesskey       "F">
+<!ENTITY cmd.open_tab.label              "Malfermi en nova folio">
+<!ENTITY cmd.open_tab.accesskey          "n">
+<!ENTITY cmd.open_all_in_tabs.label      "Malfermi ĉiujn en folioj">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "M">
 
-<!ENTITY cmd.properties.label "Atributoj">
-<!ENTITY cmd.properties.accesskey "o">
+<!ENTITY cmd.properties.label      "Atributoj">
+<!ENTITY cmd.properties.accesskey  "o">
 
-<!ENTITY cmd.show_info.key "i">
+<!ENTITY cmd.sortby_name.label              "Ordigi laŭ nomo">
+<!ENTITY cmd.sortby_name.accesskey          "O">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.rename.label "Renomi">
-<!ENTITY cmd.rename.accesskey "R">
+<!ENTITY cmd.new_bookmark.label            "Nova paĝosigno…">
+<!ENTITY cmd.new_bookmark.accesskey        "N">
+<!ENTITY cmd.new_folder.label              "Nova dosierujo…">
+<!ENTITY cmd.new_folder.accesskey          "n">
+<!ENTITY cmd.context_new_folder.accesskey  "M">
+<!ENTITY cmd.new_separator.label           "Nova apartigilo">
+<!ENTITY cmd.new_separator.accesskey       "N">
 
-<!ENTITY cmd.sortby_name.label "Ordigi laŭ nomo">
-<!ENTITY cmd.sortby_name.accesskey "O">
-<!ENTITY cmd.context_sortby_name.accesskey "r">
+<!ENTITY cmd.reloadLivebookmark.label      "Reŝargi aktivan paĝosignon">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.label      "Reŝargi aktivan titolon">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
-<!ENTITY cmd.new_bookmark.label "Nova paĝosigno…">
-<!ENTITY cmd.new_bookmark.accesskey "N">
-<!ENTITY cmd.new_livemark.label "Nova aktiva paĝosigno…">
-<!ENTITY cmd.new_livemark.accesskey "O">
-<!ENTITY cmd.new_folder.label "Nova dosierujo…">
-<!ENTITY cmd.new_folder.accesskey "n">
-<!ENTITY cmd.context_new_folder.accesskey "M">
-<!ENTITY cmd.new_separator.label "Nova apartigilo">
-<!ENTITY cmd.new_separator.accesskey "N">
+<!ENTITY cmd.moveBookmarks.label                  "Movi…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY cmd.reloadLivebookmark.label "Reŝargi aktivan paĝosignon">
-<!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label "Reŝargi aktivan titolon">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
+<!ENTITY col.name.label          "Nomo">
+<!ENTITY col.tags.label          "Etikedoj">
+<!ENTITY col.url.label           "Retadreso">
+<!ENTITY col.lastvisit.label     "Dato de vizito">
+<!ENTITY col.visitcount.label    "Nombro de vizitoj">
+<!ENTITY col.keyword.label       "Kategoria vorto">
+<!ENTITY col.description.label   "Priskribo">
+<!ENTITY col.dateadded.label     "Aldonita">
+<!ENTITY col.lastmodified.label  "Laste modifita">
 
-<!ENTITY cmd.groupby_site.label "Grupigi laŭ retejo">
-<!ENTITY cmd.groupby_site.accesskey "R">
-<!ENTITY cmd.groupby_page.label "Grupigi laŭ paĝo">
-<!ENTITY cmd.groupby_page.accesskey "P">
-<!ENTITY cmd.groupby_feed.label "Grupigi laŭ aliĝo">
-<!ENTITY cmd.groupby_feed.accesskey "A">
-<!ENTITY cmd.groupby_post.label "Grupigi laŭ mesaĝo">
-<!ENTITY cmd.groupby_post.accesskey "M">
+<!ENTITY search.label                              "Serĉi:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.scopeFolder.label                  "Elektitaj dosierujo">
+<!ENTITY search.scopeFolder.accesskey              "d">
+<!ENTITY search.scopeBookmarks.label               "Paĝosignoj">
+<!ENTITY search.scopeBookmarks.accesskey           "p">
+<!ENTITY search.scopeDownloads.label               "Elŝutoj">
+<!ENTITY search.scopeDownloads.accesskey           "E">
+<!ENTITY search.scopeHistory.label                 "Historio">
+<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY saveSearch.label                          "Konservi">
+<!ENTITY saveSearch.accesskey                      "K">
 
-<!ENTITY cmd.moveBookmarks.label "Movi…">
-<!ENTITY cmd.moveBookmarks.accesskey "M">
+<!ENTITY cmd.find.key  "f">
 
-<!ENTITY col.name.label "Nomo">
-<!ENTITY col.tags.label "Etikedoj">
-<!ENTITY col.url.label "Retadreso">
-<!ENTITY col.lastvisit.label "Dato de vizito">
-<!ENTITY col.visitcount.label "Nombro de vizitoj">
-<!ENTITY col.keyword.label "Kategoria vorto">
-<!ENTITY col.description.label "Priskribo">
-<!ENTITY col.dateadded.label "Aldonita">
-<!ENTITY col.lastmodified.label "Laste modifita">
+<!ENTITY maintenance.label      "Importi kaj sekurkopii">
+<!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY search.label "Serĉi:">
-<!ENTITY search.accesskey "S">
-<!ENTITY search.scopeFolder.label "Elektitaj dosierujo">
-<!ENTITY search.scopeFolder.accesskey "d">
-<!ENTITY search.scopeBookmarks.label "Paĝosignoj">
-<!ENTITY search.scopeBookmarks.accesskey "p">
-<!ENTITY search.scopeDownloads.label "Elŝutoj">
-<!ENTITY search.scopeDownloads.accesskey "E">
-<!ENTITY search.scopeHistory.label "Historio">
-<!ENTITY search.scopeHistory.accesskey "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip "Montri la konstruanton de serĉado">
-<!ENTITY search.scopeBarExpanderUp.tooltip "Kaŝi la konstruanton de serĉado">
-<!ENTITY saveSearch.label "Konservi">
-<!ENTITY saveSearch.accesskey "K">
-<!ENTITY moreCriteria.label "+">
-<!ENTITY advancedSearch.onlybookmarked.label "Serĉi nur paĝosignojn">
-<!ENTITY advancedSearch.match.label "Kongrui">
-<!ENTITY advancedSearch.all.label "ĉiuj">
-<!ENTITY advancedSearch.any.label "iu ajn">
-<!ENTITY advancedSearch.rules.label "el la jenaj reguloj:">
-<!ENTITY advancedSearch.subj_keyword.label "Kun la teksto">
-<!ENTITY advancedSearch.subj_visited.label "Vizitita">
-<!ENTITY advancedSearch.subj_location.label "Retadreso">
-<!ENTITY advancedSearch.location_startswith.label "komenciĝas per">
-<!ENTITY advancedSearch.location_is.label "estas">
-<!ENTITY advancedSearch.location_onsite.label "estas en retejo">
-<!ENTITY advancedSearch.time_is.label "je">
-<!ENTITY advancedSearch.time_before.label "antaŭ">
-<!ENTITY advancedSearch.time_after.label "post">
-<!ENTITY advancedSearch.time_inlast.label "en la lastaj">
-<!ENTITY advancedSearch.last_days.label "tagoj">
-<!ENTITY advancedSearch.last_weeks.label "semajnoj">
-<!ENTITY advancedSearch.last_months.label "monatoj">
-<!ENTITY advancedSearch.plus.label "+">
-<!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Grupigi laŭ:">
-<!ENTITY advancedSearch.groupby_host.label "retejo">
-<!ENTITY advancedSearch.groupby_domain.label "reta nomregiono">
-<!ENTITY advancedSearch.groupby_folder.label "dosierujo">
-<!ENTITY advancedSearch.sortby.label "Ordigi laŭ:">
-<!ENTITY advancedSearch.sortby_title.label "titolo">
-<!ENTITY advancedSearch.sortby_date.label "dato">
-<!ENTITY advancedSearch.sortby_visit.label "nombro de vizitoj">
-<!ENTITY advancedSearch.sortby_url.label "retadreso">
-<!ENTITY advancedSearch.sortby_asc.label "supren">
-<!ENTITY advancedSearch.sortby_desc.label "malsupren">
-<!ENTITY advancedSearch.max.label "Maksimumaj rezultoj:">
+<!ENTITY backCmd.label       "Malantaŭen">
+<!ENTITY backButton.tooltip  "Malantaŭenn">
 
-<!ENTITY cmd.find.key "f">
-
-<!ENTITY feed.subscribe.label "Novaĵfonto">
-<!ENTITY feed.subscribe.tooltip "Aboni">
-
-<!ENTITY view.detailsMacOSX.label "Listo">
-<!ENTITY view.details.label "Detaloj">
-<!ENTITY view.details.accesskey "D">
-
-<!ENTITY view.addons.label "Ricevi kromprogramojn por vidi">
-
-<!ENTITY maintenance.label "Importi kaj sekurkopii">
-<!ENTITY maintenance.accesskey "I">
-
-<!ENTITY backCmd.label "Malantaŭen">
-<!ENTITY backCmd.accesskey "M">
-<!ENTITY backButton.tooltip "Malantaŭenn">
-
-<!ENTITY forwardCmd.label "Antaŭen">
-<!ENTITY forwardCmd.accesskey "A">
-<!ENTITY forwardButton.tooltip "Antaŭen">
+<!ENTITY forwardCmd.label       "Antaŭen">
+<!ENTITY forwardButton.tooltip  "Antaŭen">
 
 <!ENTITY detailsPane.more.label "Pli">
 <!ENTITY detailsPane.more.accesskey "p">

@@ -35,18 +35,18 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Spertaj agordoj de JavaScript">
-<!ENTITY window.width "37em">
+<!ENTITY advancedJSDialog.title         "Spertaj agordoj de JavaScript">
+<!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label "Permesi al skizoj:">
+<!ENTITY allowScripts.label             "Permesi al skizoj:">
 
-<!ENTITY moveResizeWindows.label "Movi aŭ ŝanĝi la grandon de ekzistantaj fenestroj">
-<!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "Levi aŭ mallevi fenestrojn">
-<!ENTITY raiseLowerWindows.accesskey "L">
-<!ENTITY disableContextMenus.label "Malaktivigi aŭ anstataŭigi menuojn de kunteksto">
-<!ENTITY disableContextMenus.accesskey "M">
-<!ENTITY hideStatusBar.label "Kaŝi la statan strion">
-<!ENTITY hideStatusBar.accesskey "K">
-<!ENTITY changeStatusBar.label "Ŝanĝi tekston en la stata strio">
-<!ENTITY changeStatusBar.accesskey "Ŝ">
+<!ENTITY moveResizeWindows.label        "Movi aŭ ŝanĝi la grandon de ekzistantaj fenestroj">
+<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY raiseLowerWindows.label        "Levi aŭ mallevi fenestrojn">
+<!ENTITY raiseLowerWindows.accesskey    "L">
+<!ENTITY disableContextMenus.label      "Malaktivigi aŭ anstataŭigi menuojn de kunteksto">
+<!ENTITY disableContextMenus.accesskey  "M">
+<!ENTITY hideStatusBar.label            "Kaŝi la statan strion">
+<!ENTITY hideStatusBar.accesskey        "K">
+<!ENTITY changeStatusBar.label          "Ŝanĝi tekston en la stata strio">
+<!ENTITY changeStatusBar.accesskey      "Ŝ">

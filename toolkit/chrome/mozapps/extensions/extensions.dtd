@@ -1,174 +1,112 @@
-<!ENTITY addons.title "Kromprogramoj">
-<!-- Default window size for the addon manager in pixels -->
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY loading.label                        "Loading…">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
 
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
+<!-- categories / views -->
+<!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
+<!ENTITY view.search.label                    "Search">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.locales.label                   "Languages">
+<!ENTITY view.searchengines.label             "Search Engines">
+<!ENTITY view.features.label                  "Extensions">
+<!ENTITY view.appearance.label                "Themes">
+<!ENTITY view.plugins.label                   "Plugins">
 
-<!ENTITY search.label "Get Add-ons">
-<!ENTITY extensions.label "Etendoprogramoj">
-<!ENTITY themes.label "Etosoj">
-<!ENTITY locales.label "Lingvoj">
-<!ENTITY plugins.label "Kromprogramoj">
-<!ENTITY update.label "Ĝisdatigoj">
-<!ENTITY install.label "Instalado">
-<!-- Command Bar items -->
+<!-- addon updates -->
+<!ENTITY updates.updateNow.label              "Update add-ons">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.noneFound.label              "No updates found">
 
-<!ENTITY cmd.checkUpdatesAll.label "Serĉi ĝisdatigojn">
-<!ENTITY cmd.checkUpdatesAll.accesskey "S">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Serĉi ĝisdatigojn por viaj kromprogramoj">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Serĉi ĝisdatigojn por viaj etosoj">
-<!ENTITY cmd.installLocalFile.label "Instali…">
-<!ENTITY cmd.installLocalFile.accesskey "i">
-<!ENTITY cmd.installFileAddon.tooltip "Instali kromprogramon">
-<!ENTITY cmd.installFileTheme.tooltip "Instali temon">
-<!ENTITY cmd.installUpdatesAll.label "Instali ĝisdatigojn">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Instali la elektitajn ĝisdatigojn">
-<!ENTITY cmd.restartApp2.label "Rekomenci &brandShortName;">
-<!ENTITY cmd.restartApp2.accesskey "R">
-<!ENTITY cmd.restartApp2.tooltip "Restart &brandShortName; to apply changes">
-<!ENTITY cmd.skip.label "Preterpasi">
-<!ENTITY cmd.skip.accesskey "p">
-<!ENTITY cmd.skip.tooltip "Preterpasi tiujn ĝisdatigojn">
-<!ENTITY cmd.continue.label "Daŭrigi">
-<!ENTITY cmd.continue.accesskey "D">
-<!ENTITY cmd.continue.tooltip "Daŭrigi ŝargadon de &brandShortName;">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Show more information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Find updates">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferences.label                "Preferences">
+<!ENTITY cmd.preferences.accesskey            "P">
+<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAll.label "Aktivigi ĉiujn">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "Aktivigi ĉiujn montritajn kromprogramojn">
-<!ENTITY cmd.disableAll.label "Malaktivigi ĉiujn">
-<!ENTITY cmd.disableAll.accesskey "m">
-<!ENTITY cmd.disableAll.tooltip "Malaktivigi ĉiujn montritajn kromprogramojn">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.tooltip              "Enable this add-on">
+<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.tooltip             "Disable this add-on">
+<!ENTITY cmd.uninstallAddon.label             "Remove">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.tooltip           "Uninstall this add-on">
+<!ENTITY cmd.showPreferences.label            "Preferences">
+<!ENTITY cmd.showPreferences.tooltip          "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
-<!ENTITY cmd.useTheme.label "Uzi temon">
-<!ENTITY cmd.useTheme.accesskey "T">
-<!ENTITY cmd.useTheme.tooltip "Ŝanĝado de la temo de &brandShortName;">
-<!ENTITY cmd.options.label "Opcioj">
-<!ENTITY cmd.options.accesskey "O">
-<!ENTITY cmd.options.tooltip "Agordi opciojn de la elektita kromprogramo">
-<!ENTITY cmd.optionsUnix.label "Preferoj">
-<!ENTITY cmd.optionsUnix.accesskey "r">
-<!ENTITY cmd.optionsUnix.tooltip "Modifi preferojn de la elektita kromprogramo">
-<!ENTITY cmd.enable.label "Aktivigi">
-<!ENTITY cmd.enable.accesskey "A">
-<!ENTITY cmd.enable.tooltip "Aktivigi tiun ĉi kromprogramon post rekomenco de &brandShortName;">
-<!ENTITY cmd.disable.label "Malaktivigi">
-<!ENTITY cmd.disable.accesskey "M">
-<!ENTITY cmd.disable.tooltip "Malaktivigi tiun ĉi kromprogramon post la rekomenco de &brandShortName;">
-<!ENTITY cmd.uninstall.label "Malinstali">
-<!ENTITY cmd.uninstall2.accesskey "UU">
-<!ENTITY cmd.uninstall2.tooltip "Malinstali tiun ĉi kromprogramon post la rekomenco de &brandShortName;">
-<!ENTITY cmd.cancelUninstall.label "Nuligi malinstaladon">
-<!ENTITY cmd.cancelUninstall.accesskey "N">
-<!ENTITY cmd.cancelUninstall.tooltip "Nuligi la malinstaladon de tiu ĉi kromprogramo">
-<!ENTITY cmd.cancelInstall.label "Nuligi instaladon">
-<!ENTITY cmd.cancelInstall.accesskey "N">
-<!ENTITY cmd.cancelInstall.tooltip "Nuligi la instaladon de tiu ĉi kromprogramo">
-<!ENTITY cmd.cancelUpgrade.label "Cancel Upgrade">
-<!ENTITY cmd.cancelUpgrade.accesskey "C">
-<!ENTITY cmd.cancelUpgrade.tooltip "Nuligi la ĝisdatigon de tiu ĉi kromprogramo">
-<!ENTITY cmd.installUpdate.label "Instali ĝisdatigon">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "Instali ĝisdatigon por tiu ĉi kromprogramo">
-<!ENTITY cmd.showUpdateInfo.label "Montri informon">
-<!ENTITY cmd.showUpdateInfo.accesskey "M">
-<!ENTITY cmd.showUpdateInfo.tooltip "Show more information about these updates">
-<!ENTITY cmd.hideUpdateInfo.label "Kaŝi informon">
-<!ENTITY cmd.hideUpdateInfo.accesskey "K">
-<!ENTITY cmd.hideUpdateInfo.tooltip "Hide information about these updates">
-<!ENTITY cmd.installSearchResult.label "Add to &brandShortName;…">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY cmd.installSearchResult.tooltip "Download and install this add-on">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Nuligi">
-<!ENTITY cancel.accesskey "N">
-<!ENTITY cancelInstall.label "Nuligi">
-<!ENTITY cancelInstall.accesskey "N">
-<!ENTITY cancelUpgrade.label "Nuligi">
-<!ENTITY cancelUpgrade.accesskey "N">
-<!-- Only displayed in the selected Add-on's context menu -->
 
-<!ENTITY cmd.homepage.label "Viziti ĉefpaĝon">
-<!ENTITY cmd.homepage.accesskey "E">
-<!ENTITY cmd.about2.label "Pri tiu ĉi kromprogramo">
-<!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "Serĉi ĝisdatigon">
-<!ENTITY cmd.checkUpdate.accesskey "S">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.updated.label                 "Updated">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
-<!ENTITY cmd.includeUpdate.label "Inkluzivi ĝisdatigon">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Inkluzivi tiun ĉi ĝisdatigon">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Inkluzivi tiun ĉi kromprogramon dum instalado de ĝisdatigoj">
-<!-- Status Messsages -->
+<!ENTITY detail.updateAutomatically.label     "Update automatically">
+<!ENTITY detail.updateAutomatically.accesskey "U">
+<!ENTITY detail.updateAutomatically.tooltip   "Update this add-on automatically whenever there is an update available">
+<!ENTITY detail.checkForUpdates.label         "Check for updates">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferences.label         "Preferences">
+<!ENTITY detail.showPreferences.accesskey     "P">
+<!ENTITY detail.showPreferences.tooltip       "Change this add-on's preferences">
 
-<!ENTITY insecureUpdate.label "Does not provide secure updates.">
-<!ENTITY needsDependencies.label "Aldonaj elementoj postulataj.">
-<!ENTITY blocklisted.label "Malaktivigita por protekti vin.">
-<!ENTITY softBlocklisted.label "Konata kaŭzo de stabilecaj aŭ sekurecaj eventoj.">
-<!ENTITY toBeDisabled.label "Tiu ĉi kromprogramo estos malaktivia post la rekomenco de &brandShortName;.">
-<!ENTITY toBeEnabled.label "Tiu ĉi kromprogramo estos aktiva post la rekomenco de &brandShortName;.">
-<!ENTITY toBeInstalled.label "Tiu ĉi kromprogramo estos instalita post la rekomenco de &brandShortName;.">
-<!ENTITY toBeUninstalled.label "Tiu ĉi kromprogramo estos malinstalita post la rekomenco de &brandShortName;.">
-<!ENTITY toBeUpdated.label "Tiu ĉi kromprogramo estos ĝisdatigita post la restartigo de &brandShortName;.">
 
-<!ENTITY getExtensions.label "Akiri kromprogramojn">
-<!ENTITY getThemes.label "Akiri temojn">
-<!ENTITY getPlugins.label "Get Plugins">
+<!-- ratings -->
+<!ENTITY rating.label                         "Rating:">
 
-<!ENTITY searchAddons.label "Search All Add-ons">
-<!ENTITY browseAddons.label "Browse All Add-ons">
-<!ENTITY searchFailed.label "&brandShortName; couldn't retrieve add-ons">
-<!ENTITY recommendedHeader.label "Recommended">
-<!ENTITY recommendedThrobber.label "Retrieving recommended add-ons">
-<!ENTITY searchThrobber.label "Searching add-ons">
-<!ENTITY resetSearch.label "Clear Results">
-<!ENTITY noSearchResults.label "All results are already installed or incompatible.">
-<!ENTITY noRecommendedResults.label "All recommendations are already installed or incompatible.">
-<!ENTITY emptySearch.label "No matching add-ons">
-<!ENTITY emptySearch.button "Akcepti">
-<!ENTITY cancelSearch.button "Nuligi">
-<!ENTITY searchFailed.button "Akcepti">
-<!ENTITY searchResultHomepage.value "Learn More">
-<!ENTITY searchBox.label "Search All Add-ons">
-<!ENTITY recommendedResults.label "See All Recommended Add-ons">
-<!ENTITY searchResultConnecting.label "Connecting…">
-<!ENTITY searchResultInstalling.label "Instalanta…">
-<!ENTITY searchResultFailed.label "Malsukcesa instalado">
-<!ENTITY searchResultInstalled.label "Instalado kompleta">
-<!ENTITY addonTypeExtension.label "Etendoprogramo">
-<!ENTITY addonTypeTheme.label "Etoso">
-<!ENTITY missingThumbnail.label "No Preview">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Cancel">
 
-<!ENTITY previewNoThemeSelected.label "Neniu temo elektita">
-<!ENTITY previewNoPreviewImage.label "Tiu ĉi temo ne havas prezentbildon">
-<!ENTITY moreInfo.label "Plia informo">
-<!ENTITY infoNoAddonSelected.label "No Update Selected">
-<!ENTITY infoNoUpdateInfo.label "This update does not have any additional information">
-<!ENTITY infoUpdateInfoError.label "There was an error loading the information about this update">
 
-<!ENTITY updateSuccess.label "Ĝisdatigado sukcesa.">
-<!ENTITY installSuccess.label "Instalado sukcesa.">
-<!ENTITY installSuccessRestart.label "Rekomencu por fini la instaladon.">
-<!ENTITY updateSuccessRestart.label "Restart to complete the update.">
-<!ENTITY installWaiting.label "Atendado…">
-<!ENTITY installIncompatibleUpdate.label "Kontrolado de kongrueco…">
-<!ENTITY installFinishing.label "Instalanta…">
-<!ENTITY installFailure.label "Instalado malsukcesa.">
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.size.label                      "Size">
+<!ENTITY sort.size.tooltip                    "Sort by size">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.rating.label                    "Rating">
+<!ENTITY sort.rating.tooltip                  "Sort by average rating">
 
-<!ENTITY progressStatus.label "Checking For Updates">
 
-<!ENTITY eula.title "End-User License Agreement">
-<!ENTITY eula.width "560px">
-<!ENTITY eula.height "400px">
-<!ENTITY eula.accept "Accept and Install…">
+<!ENTITY showMore.label                       "Show more">
+<!ENTITY showMore.tooltip                     "Show more details">
+<!ENTITY showLess.label                       "Show less">
+<!ENTITY showLess.tooltip                     "Show fewer details">
 
-<!ENTITY blocklist.blocked.label "Blokita">
-<!ENTITY blocklist.checkbox.label "Malaktivigi">
+<!ENTITY search.filter.label                  "Show:">
+<!ENTITY search.filter.installed.label        "Your installed add-ons">
+<!ENTITY search.filter.available.label        "Available add-ons">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.disabled.postfix               "(disabled)">
+<!ENTITY addon.undo.label                     "Undo?">
+<!ENTITY addon.undo.tooltip                   "Undo this action">
+<!ENTITY addon.undoUninstall.label            "Undo?">
+<!ENTITY addon.undoUninstall.tooltip          "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.restartNow.tooltip             "Restart now to complete installation">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+
+<!ENTITY addon.createdBy.label                "By ">

@@ -1,10 +1,13 @@
-<!ENTITY blocklist.title "Kromprogramoj povas esti okazigantaj problemojn">
-<!ENTITY blocklist.style "width: 45em; height: 30em">
-<!ENTITY blocklist.summary "&brandShortName; eltrovis ke la jenaj kromprogramoj okazigas stabilecajn aŭ sekurecajn problemojn:">
-<!ENTITY blocklist.softblocked "Por via protektado estas treege rekomendata ke vi restartigu la programon kun tiuj kromprogramoj malaktivaj.">
-<!ENTITY blocklist.hardblocked "Tiuj ĉi kromprogramoj tre riskas okazigi stabilecajn aŭ sekurecajn problemojn kaj ili estis blokitaj, sed restartigo estas postulata por tuta malaktivigo.">
-<!ENTITY blocklist.softandhard "La kromprogramoj kiuj tre riskas okazigi stabilecajn aŭ sekurecaj problemojn estis blokitaj. La aliaj estas malpli riskaj sed estas treege rekomendata malaktivigi ilin kaj restartigi.">
-<!ENTITY blocklist.moreinfo "Plia informo">
+<!ENTITY blocklist.title             "Kromprogramoj povas esti okazigantaj problemojn">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
+<!ENTITY blocklist.summary           "&brandShortName; eltrovis ke la jenaj kromprogramoj okazigas stabilecajn aŭ sekurecajn problemojn:">
+<!ENTITY blocklist.softblocked       "Por via protektado estas treege rekomendata ke vi restartigu la programon kun tiuj kromprogramoj malaktivaj.">
+<!ENTITY blocklist.hardblocked       "Tiuj ĉi kromprogramoj tre riskas okazigi stabilecajn aŭ sekurecajn problemojn kaj ili estis blokitaj, sed restartigo estas postulata por tuta malaktivigo.">
+<!ENTITY blocklist.softandhard       "La kromprogramoj kiuj tre riskas okazigi stabilecajn aŭ sekurecaj problemojn estis blokitaj. La aliaj estas malpli riskaj sed estas treege rekomendata malaktivigi ilin kaj restartigi.">
+<!ENTITY blocklist.moreinfo          "Plia informo">
 
-<!ENTITY blocklist.accept.label "Restartigi &brandShortName;">
-<!ENTITY blocklist.accept.accesskey "R">
+<!ENTITY blocklist.accept.label      "Restartigi &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "Blocked">
+<!ENTITY blocklist.checkbox.label    "Disable">
