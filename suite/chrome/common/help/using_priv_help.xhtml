@@ -342,13 +342,6 @@ Informationen &#252;ber das Cookie:</p>
     <td>Das Datum und die Uhrzeit zu der das Cookie abl&#228;uft. &brandShortName; entfernt 
     regelm&#228;&#223;ig abgelaufene Cookies automatisch von Ihrem Computer.</td>
   </tr>
-  <tr>
-    <td>Richtlinie</td>
-    <td>Art der Sicherheits-Richtlinie dieser Webseite wurde explizit als &#246;ffentlich eingestuft.
-    (Selbst wenn dieses Feld leer ist, ist es m&#246;glich die Webseite zu besuchen; Siehe
-      <a href="#viewing_privacy_policies">Anzeigen von Datenschutz-Einstellungen</a>
-      f&#252;r Details.)</td>
-  </tr>
 </tbody>
 </table>
 
@@ -371,41 +364,61 @@ von Webseites aufgenommen, von denen automatisch alle Cookies von &brandShortNam
 
 <p>Sie m&#252;ssen auf OK klicken, damit Ihre Einstellungen &#252;bernommen werden.</p>
 
-<h2 id="cookie_site">Cookie Sites</h2>
+<h2 id="cookie_sites">Cookie Webseiten</h2>
 
-<p>Dieser Abschnitt beschreibt wie Sie die Registerkarte <q>Cookie Sites</q> des Cookie-Managers verwenden.
-Sollten Sie die Registerkarte nocht nicht vor sich haben, gehen Sie wie folgt vor:</p>
+<p>Dieser Abschnitt beschreibt wie Sie die Registerkarte <q>Cookie Webseiten</q> 
+  des Cookie-Managers verwenden. Sollten Sie die Registerkarte nocht nicht vor 
+  sich haben, gehen Sie wie folgt vor:</p>
 
 <ol>
-  <li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
-  und klicken Sie auf Einstellungen</li>
-  <li>Unter der Kategorie Datenschutz &amp; Sicherheit, Klicken Sie auf Cookies.
-  (Wenn unter dieser Kategorie keine Eintr&#228;ge angezeigt werden, doppelklicken Sie auf die
-  Kategorie, um die Liste einzublenden.)</li>
-  <li>Klicken Sie auf Gespeicherte Cookies verwalten</li>
-  <li>Klicken Sie auf die Registerkarte Cookie Sites.</li>
+  <li>&#214;ffnen Sie das Men&#252; <q>Extras</q> und w&#228;hlen Sie <q>Cookie Manager</q>.</li>
+
+  <li>W&#228;hlen Sie Gespeicherte Cookies verwalten in dem erscheinenden Men&#252;. Das Cookie-Manager
+    Fenster &#246;ffnet sich mit einer Liste aller Cookies welche auf Ihrem Computer gespeichert sind.</li>
+  <li>Klicken Sie auf das Tab <q>Cookie Websites</q>.</li>
 </ol>
 
-<p>Wenn Sie unter <a href="#cookies">Datenschutz &amp; Sicherheit - Cookies</a> die Option
-<q>Vor Speichern eines Cookies eine Warnung anzeigen</q> ausgew&#228;hlt haben, werden Sie
-jedesmal um Erlaubnis gefragt, wenn eine Webseite ein Cookie auf Ihrem Computer speichern will.
-Sie k&#246;nnen dann entscheiden, ob Sie das Cookie akzeptieren oder ablehnen. Sie k&#246;nnen
-dabei auch festlegen, ob sich &brandShortName; Ihre Entscheidung merken soll oder nicht.</p>
+<p>Im Tab <q>Cookie Websites</q> werden jene Webseiten aufgelistet, f&#252;r die Sie 
+  schon Entscheidungen getroffen haben und wie diese Entscheidungen aussehen.
+  Sie haben auch die M&#246;glichkeit Webseiten zu dieser Liste hinzuzuf&#252;gen 
+  oder zu entfernen.</p>
 
-<p>Die Registerkarte Cookie des Cookie-Managers listet diejenigen Webseiten auf, f&#252;r die Sie
-schon Entscheidungen getroffen haben und wie diese Entscheidungen aussehen. Sie k&#246;nnen hier
-au&#223;erdem Webseiten aus der Liste entfernen, so dass sich der Cookie-Manager Ihre
-Entscheidungen nicht l&#228;nger merkt:</p>
+<h3 id="add_cookie_sites">Cookie Websites hinzuf&#252;gen</h3>
+
+<p>Um Cookies Websites h&#228;ndisch hinzuzuf&#252;gen gehen Sie wie folgt vor:</p>
 
 <ul>
-  <li><strong>Webseite entfernen</strong>: Entfernt die markierten Webseite aus der Liste.</li>
-  <li><strong>Alle Cookies entfernen</strong>: Entfernt alle Webseiten aus der Liste.</li>
+  <li>Geben Sie die Adresse der Webseite ein, z.Bsp. <tt>www.mozilla.org</tt></li>
+  <li>Setzen Sie die Cookie-Berechtigung der Webseite:
+    <ul>
+      <li><strong>Blockieren</strong>: Klicken Sie auf diese Schaltfl&#228;che um
+        Cookies von dieser Webseite zu blockieren.</li>
+      <li><strong>Sitzung</strong>: Klicken Sie auf diese Schaltfl&#228;che um
+        dieser Webseite zu erlauben, Session-Cookies zu setzen. Permanente Cookies
+        dieser Seite werden zu Session-Cookies herabgestuft.</li>
+      <li><strong>Erlauben</strong>: Klicken Sie auf diese Schaltfl&#228;che um
+        der Webseite zu erlauben, Cookies zu speichern.</li>
+
+    </ul>
+  </li>
+  <li>Wiederholen Sie diese Schritte wenn Sie weitere Webseiten hinzuf&#252;gen m&#246;chten.</li>
 </ul>
 
-<p>Sobald Sie eine Webseite aus der Liste entfernt haben, erinnert sich der Cookie-Manager an keine Dinge
-mehr &#252;ber die Webseite. Wenn Sie die Option <strong>Nachfrage bevor ein Cookie gespeichert 
-wird</strong> aktiviert haben, werden Sie erneut gewarnt, falls die aus der Liste entfernte Webseite 
-ein Cookie abspeichern will.</p>
+<h3 id="remove_cookie_sites">Cookie Websites entfernen</h3>
+
+<p>Enfernen einer Cookie Webseite:</p>
+
+<ul>
+  <li><strong>Website entfernen</strong>: Entfernt die markierten Webseite aus der Liste.</li>
+
+  <li><strong>Alle Websites entfernen</strong>: Entfernt alle Webseiten aus der Liste.</li>
+</ul>
+
+<p>Sobald Sie eine Webseite aus der Liste entfernt haben, erinnert sich der 
+  Cookie-Manager nicht mehr an diese Webseite. Wenn Sie die Option 
+  <strong>Nachfrage bevor ein Cookie gespeichert wird</strong> aktiviert haben, 
+  werden Sie erneut gewarnt, falls die aus der Liste entfernte Webseite 
+  ein Cookie abspeichern will.</p>
 
 <h1 id="using_the_password_manager">Benutzen des Kennwort-Managers</h1>
 
