@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.extensionVersion "Versjon">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Applikasjonsinfo">
+<!ENTITY aboutSupport.appBasicsTitle "Programinfo">
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Versjon">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">

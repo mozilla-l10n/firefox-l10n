@@ -1,7 +1,7 @@
 <!ENTITY linksHeader.label "Lenkeoppførsel">
 <!ENTITY newWindow.label "Oppførsel ved åpning av lenker">
 <!ENTITY newWindowDescription.label "Åpne lenker som er ment å åpnes i et nytt vindu i">
-<!ENTITY external.label "Lenker fra andre applikasjoner">
+<!ENTITY external.label "Lenker fra andre programmer">
 <!ENTITY externalDescription.label "Åpne lenker sendt fra andre programmer i">
 
 <!ENTITY openCurrent.label "Den aktive fanen/vinduet">

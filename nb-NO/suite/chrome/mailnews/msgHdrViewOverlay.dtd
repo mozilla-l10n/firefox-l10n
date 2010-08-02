@@ -50,7 +50,7 @@
 
 <!ENTITY tagsHdr.label "Etiketter: ">
 <!ENTITY dateField.label "Dato ">
-<!ENTITY userAgentField.label "Applikasjon ">
+<!ENTITY userAgentField.label "Program ">
 <!ENTITY referencesField.label "Referanser: ">
 <!ENTITY messageIdField.label "Meldingsid: ">
 <!ENTITY inReplyToField.label "Som-Svar-Til: ">
