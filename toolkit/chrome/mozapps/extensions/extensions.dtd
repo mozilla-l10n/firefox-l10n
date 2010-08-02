@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder "Hledat doplňky">
 <!ENTITY loading.label "Nahrávání…">
 <!ENTITY listEmpty.installed.label "Žádný doplněk tohoto typu není nainstalován">
+<!ENTITY listEmpty.availableUpdates.label "Aktualizace nenalezeny">
+<!ENTITY listEmpty.recentUpdates.label "Žádný doplněk nebyl aktualizován">
+<!ENTITY listEmpty.findUpdates.label "Zkontrolovat aktualizace">
 <!ENTITY listEmpty.search.label "Nepodařilo se najít žádný odpovídající doplněk">
 <!ENTITY listEmpty.button.label "Zjistěte více informací o doplňcích">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label "Rozšíření">
 <!ENTITY view.appearance.label "Motivy vzhledu">
 <!ENTITY view.plugins.label "Zásuvné moduly">
+<!ENTITY view.recentUpdates.label "Nedávné aktualizace">
+<!ENTITY view.availableUpdates.label "Dostupné aktualizace">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label "Aktualizovat doplňky">
+<!ENTITY updates.updateAddonsNow.label "Aktualizovat doplňky">
+<!ENTITY updates.updateAddonsNow.accesskey "A">
+<!ENTITY updates.viewUpdates.label "Zobrzit nedávné aktualizace">
+<!ENTITY updates.viewUpdates.accesskey "Z">
+<!ENTITY updates.backgroudUpdateCheck.label "Automaticky kontrolovat aktualizace">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "A">
 <!ENTITY updates.updating.label "Aktualizace doplňků">
 <!ENTITY updates.installed.label "Doplňky byly aktualizovány.">
 <!ENTITY updates.downloaded.label "Doplňky byly staženy.">
 <!ENTITY updates.restart.label "Restartovat pro dokončení instalace">
 <!ENTITY updates.noneFound.label "Nebyly nalezeny žádné aktualizace">
+<!ENTITY updates.manualUpdatesFound.label "Zobrazit dostupné aktualizace">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label "Zobrazit více informací">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey "P">
 <!ENTITY cmd.contribute.tooltip "Zobrazí informace jak přispět k vývoji doplňku">
 
+<!ENTITY cmd.showReleaseNotes.label "Zobrazit poznámky k vydání">
+<!ENTITY cmd.showReleaseNotes.tooltip "Zobrazí poznámky k vydání této aktualizace">
+<!ENTITY cmd.hideReleaseNotes.label "Skrýt poznámky k vydání">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Skryje poznámky k vydání této aktualizace">
 
 <!-- detail view -->
 <!ENTITY detail.version.label "Verze">
@@ -96,6 +111,7 @@
 <!ENTITY addon.homepage "Domovská stránka">
 <!ENTITY addon.unknownDate "Neznámá">
 <!ENTITY addon.disabled.postfix "(zakázáno)">
+<!ENTITY addon.update.postfix "Aktualizovat">
 <!ENTITY addon.undo.label "Zpět?">
 <!ENTITY addon.undo.tooltip "Vrátí tuto akci">
 <!ENTITY addon.undoUninstall.label "Zpět?">
@@ -104,6 +120,11 @@
 <!ENTITY addon.restartNow.tooltip "Restartuje aplikaci a dokončí instalaci">
 <!ENTITY addon.install.label "Instalovat">
 <!ENTITY addon.install.tooltip "Nainstaluje doplněk">
+<!ENTITY addon.updateNow.label "Aktuaizovat">
+<!ENTITY addon.updateNow.tooltip "Nainstaluje aktualizaci tohoto doplňku">
 <!ENTITY addon.checkingForUpdates.label "Kontrola aktualizací…">
+<!ENTITY addon.releaseNotes.label "Poznámky k vydání:">
+<!ENTITY addon.loadingReleaseNotes.label "Nahrávání…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Omlouváme se, ale při nahrávání poznámek k vydání nastala chyba.">
 
 <!ENTITY addon.createdBy.label "Od ">
