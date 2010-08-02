@@ -32,7 +32,7 @@
 <!ENTITY updates.downloaded.label         "Les mises à jour de vos modules ont été téléchargées.">
 <!ENTITY updates.restart.label            "Redémarrer maintenant pour terminer l'installation">
 <!ENTITY updates.noneFound.label          "Aucune mise à jour disponible">
-<!ENTITY updates.manualUpdatesFound.label "Afficher les mises à jour dipsonibles">
+<!ENTITY updates.manualUpdatesFound.label "Afficher les mises à jour disponibles">
 
 
 <!-- addon actions -->
