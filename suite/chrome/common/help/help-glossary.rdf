@@ -38,7 +38,6 @@
         <rdf:li> <rdf:Description nc:name="Dvojité páry kľúčov" nc:link="glossary.xhtml#dual_key_pairs"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FIPS PUBS 140-1" nc:link="glossary.xhtml#fips_pubs_140-1"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FTP" nc:link="glossary.xhtml#ftp"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Heslo zálohovaného certifikátu password" nc:link="glossary.xhtml#certificate_backup_password"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Hlavné heslo" nc:link="glossary.xhtml#master_password"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Hlavný kľúč" nc:link="glossary.xhtml#master_key"/> </rdf:li>

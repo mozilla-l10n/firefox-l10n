@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Hľadať v doplnkoch">
 <!ENTITY loading.label                        "Načítava sa…">
 <!ENTITY listEmpty.installed.label            "Nemáte nainštalované žiadne doplnky tohto typu">
+<!ENTITY listEmpty.availableUpdates.label     "Neboli nájdené žiadne aktualizácie">
+<!ENTITY listEmpty.recentUpdates.label        "V poslednom čase ste neaktualizovali žiadne doplnky">
+<!ENTITY listEmpty.findUpdates.label          "Vyhľadať aktualizácie">
 <!ENTITY listEmpty.search.label               "Neboli nájdené žiadne doplnky">
 <!ENTITY listEmpty.button.label               "Ďalšie informácie o doplnkoch">
 
@@ -14,14 +17,23 @@
 <!ENTITY view.features.label                  "Rozšírenia">
 <!ENTITY view.appearance.label                "Témy vzhľadu">
 <!ENTITY view.plugins.label                   "Zásuvné moduly">
+<!ENTITY view.recentUpdates.label             "Nedávno aktualizované">
+<!ENTITY view.availableUpdates.label          "Dostupné aktualizácie">
 
 <!-- addon updates -->
 <!ENTITY updates.updateNow.label              "Aktualizovať doplnky">
+<!ENTITY updates.updateAddonsNow.label        "Aktualizovať doplnky">
+<!ENTITY updates.updateAddonsNow.accesskey    "A">
+<!ENTITY updates.viewUpdates.label            "Zobraziť nedávne aktualizácie">
+<!ENTITY updates.viewUpdates.accesskey        "e">
+<!ENTITY updates.backgroudUpdateCheck.label   "Automaticky vyhľadávať aktualizácie">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "u">
 <!ENTITY updates.updating.label               "Aktualizujú sa doplnky">
 <!ENTITY updates.installed.label              "Vaše doplnky boli aktualizované.">
 <!ENTITY updates.downloaded.label             "Aktualizácie pre vaše doplnky boli prevzaté.">
 <!ENTITY updates.restart.label                "Zmeny sa prejavia až po reštartovaní">
 <!ENTITY updates.noneFound.label              "Neboli nájdené žiadne aktualizácie">
+<!ENTITY updates.manualUpdatesFound.label     "Zobraziť dostupné aktualizácie">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Zobraziť ďalšie informácie">
@@ -35,19 +47,20 @@
 
 <!ENTITY cmd.enableAddon.label                "Povoliť">
 <!ENTITY cmd.enableAddon.accesskey            "v">
-<!ENTITY cmd.enableAddon.tooltip              "Povoliť tento doplnok">
 <!ENTITY cmd.disableAddon.label               "Zakázať">
 <!ENTITY cmd.disableAddon.accesskey           "a">
-<!ENTITY cmd.disableAddon.tooltip             "Zakázať tento doplnok">
 <!ENTITY cmd.uninstallAddon.label             "Odstrániť">
 <!ENTITY cmd.uninstallAddon.accesskey         "d">
-<!ENTITY cmd.uninstallAddon.tooltip           "Odinštalovať tento doplnok">
 <!ENTITY cmd.showPreferences.label            "Nastavenia">
 <!ENTITY cmd.showPreferences.tooltip          "Zmeniť nastavenia tohto doplnku">
 <!ENTITY cmd.contribute.label                 "Prispieť">
 <!ENTITY cmd.contribute.accesskey             "r">
 <!ENTITY cmd.contribute.tooltip               "Prispieť na vývoj tohto doplnku">
 
+<!ENTITY cmd.showReleaseNotes.label           "Zobraziť poznámky k vydaniu">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Zobraziť poznámky k vydaniu tejto aktualizácie">
+<!ENTITY cmd.hideReleaseNotes.label           "Skryť poznámky k vydaniu">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Skryť poznámky k vydaniu tejto aktualizácie">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Verzia">
@@ -98,6 +111,7 @@
 <!ENTITY addon.homepage                       "Domovská stránka">
 <!ENTITY addon.unknownDate                    "neznáme">
 <!ENTITY addon.disabled.postfix               "(zakázané)">
+<!ENTITY addon.update.postfix                 "Aktualizovať">
 <!ENTITY addon.undo.label                     "Späť?">
 <!ENTITY addon.undo.tooltip                   "Vrátiť späť vykonanú akciu">
 <!ENTITY addon.undoUninstall.label            "Späť?">
@@ -106,6 +120,11 @@
 <!ENTITY addon.restartNow.tooltip             "Reštartovaním dokončíte inštaláciu">
 <!ENTITY addon.install.label                  "Nainštalovať">
 <!ENTITY addon.install.tooltip                "Nainštalovať tento doplnok">
+<!ENTITY addon.updateNow.label                "Aktualizovať teraz">
+<!ENTITY addon.updateNow.tooltip              "Nainštalovať aktualizácie pre tento doplnok">
 <!ENTITY addon.checkingForUpdates.label       "Vyhľadávajú sa aktualizácie…">
+<!ENTITY addon.releaseNotes.label             "Poznámky k vydaniu:">
+<!ENTITY addon.loadingReleaseNotes.label      "Načítavajú sa…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Pri načítaní poznámok k vydaniu sa vyskytla chyba.">
 
 <!ENTITY addon.createdBy.label                "Autor: ">

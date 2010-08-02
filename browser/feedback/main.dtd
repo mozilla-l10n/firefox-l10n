@@ -13,7 +13,7 @@
 <!ENTITY testpilot.studiesWindow.title                  "Vaše štúdie rozšírenia Test Pilot">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Aktuálne štúdie">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Dokončené štúdie">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Zistenia štúdie">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Zistenia štúdií">
 <!ENTITY testpilot.studiesWindow.settings.label         "Nastavenia">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Načítava sa… Prosím, čakajte.">
 

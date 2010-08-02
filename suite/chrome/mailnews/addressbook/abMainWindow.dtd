@@ -117,6 +117,7 @@
 <!ENTITY newimButton.label                              "Rýchla správa">
 <!ENTITY newimButton.accesskey                          "R">
 <!ENTITY searchNameAndEmail.placeholder                 "Hľadať meno alebo e-mail">
+<!ENTITY searchBox.title                                "Hľadať">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Panel Adresár">
