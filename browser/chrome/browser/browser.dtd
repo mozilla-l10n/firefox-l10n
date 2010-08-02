@@ -167,9 +167,9 @@
 <!ENTITY errorConsoleCmd.accesskey    "h">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Web-Konsole">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Untersuchen">
 <!ENTITY inspectMenu.accesskey        "U">
