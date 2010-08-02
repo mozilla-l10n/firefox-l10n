@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder "Cerca tra i componenti aggiuntivi">
 <!ENTITY loading.label "Caricamento in corso…">
 <!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questo tipo">
+<!ENTITY listEmpty.availableUpdates.label "Nessun aggiornamento disponibile">
+<!ENTITY listEmpty.recentUpdates.label "Non è stato installato alcun aggiornamento dei componenti aggiuntivi recentemente">
+<!ENTITY listEmpty.findUpdates.label "Controlla aggiornamenti">
 <!ENTITY listEmpty.search.label "Non è stato trovato alcun componente aggiuntivo corrispondente">
 <!ENTITY listEmpty.button.label "Scopri altre informazioni sui componenti aggiuntivi">
 <!ENTITY view.search.label "Cerca">
@@ -11,12 +14,20 @@
 <!ENTITY view.features.label "Estensioni">
 <!ENTITY view.appearance.label "Temi">
 <!ENTITY view.plugins.label "Plugin">
-<!ENTITY updates.updateNow.label "Aggiorna i componenti aggiuntivi">
+<!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
+<!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
+<!ENTITY updates.updateAddonsNow.label "Aggiorna adesso i componenti aggiuntivi">
+<!ENTITY updates.updateAddonsNow.accesskey "A">
+<!ENTITY updates.viewUpdates.label "Visualizza aggiornamenti recenti">
+<!ENTITY updates.viewUpdates.accesskey "V">
+<!ENTITY updates.backgroudUpdateCheck.label "Cerca automaticamente gli aggiornamenti">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
 <!ENTITY updates.updating.label "Aggiornamento in corso dei componenti aggiuntivi">
 <!ENTITY updates.installed.label "I componenti aggiuntivi sono stati aggiornati.">
 <!ENTITY updates.downloaded.label "Gli aggiornamenti sono stati scaricati.">
 <!ENTITY updates.restart.label "Riavvia adesso per completare l'installazione">
 <!ENTITY updates.noneFound.label "Nessun aggiornamento disponibile">
+<!ENTITY updates.manualUpdatesFound.label "Visualizza aggiornamenti disponibili">
 <!ENTITY cmd.showDetails.label "Visualizza ulteriori informazioni">
 <!ENTITY cmd.showDetails.accesskey "V">
 <!ENTITY cmd.findUpdates.label "Cerca aggiornamenti">
@@ -36,6 +47,10 @@
 <!ENTITY cmd.contribute.label "Fai una donazione">
 <!ENTITY cmd.contribute.accesskey "F">
 <!ENTITY cmd.contribute.tooltip "Contribuisci allo sviluppo di questo componente aggiuntivo">
+<!ENTITY cmd.showReleaseNotes.label "Visualizza note di versione">
+<!ENTITY cmd.showReleaseNotes.tooltip "Visualizza le note di versione per questo aggiornamento">
+<!ENTITY cmd.hideReleaseNotes.label "Nascondi note di versione">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Nascondi le note di versione per questo aggiornamento">
 <!ENTITY detail.version.label "Versione">
 <!ENTITY detail.updated.label "Aggiornato">
 <!ENTITY detail.creator.label "Sviluppatore">
@@ -71,6 +86,7 @@
 <!ENTITY addon.homepage "Sito web">
 <!ENTITY addon.unknownDate "Sconosciuto">
 <!ENTITY addon.disabled.postfix "(disattivato)">
+<!ENTITY addon.update.postfix "Aggiorna">
 <!ENTITY addon.undo.label "Annulla?">
 <!ENTITY addon.undo.tooltip "Annulla questa azione">
 <!ENTITY addon.undoUninstall.label "Annulla?">
@@ -79,5 +95,10 @@
 <!ENTITY addon.restartNow.tooltip "Riavvia adesso per completare l'installazione">
 <!ENTITY addon.install.label "Installa">
 <!ENTITY addon.install.tooltip "Installa questo componente aggiuntivo">
+<!ENTITY addon.updateNow.label "Aggiorna adesso">
+<!ENTITY addon.updateNow.tooltip "Installa l'aggiornamento per questo componente aggiuntivo">
 <!ENTITY addon.checkingForUpdates.label "Ricerca aggiornamenti…">
+<!ENTITY addon.releaseNotes.label "Note di versione:">
+<!ENTITY addon.loadingReleaseNotes.label "Caricamento in corso…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.">
 <!ENTITY addon.createdBy.label "di ">
