@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder "Поиск среди дополнений">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения данного типа">
+<!ENTITY listEmpty.availableUpdates.label "Обновлений не найдено">
+<!ENTITY listEmpty.recentUpdates.label "В последнее время вы не обновляли никаких дополнений">
+<!ENTITY listEmpty.findUpdates.label "Проверить наличие обновлений">
 <!ENTITY listEmpty.search.label "Ни одного подходящего дополнения не найдено">
 <!ENTITY listEmpty.button.label "Узнать больше о дополнениях">
 <!ENTITY view.search.label "Поиск">
@@ -11,14 +14,22 @@
 <!ENTITY view.features.label "Расширения">
 <!ENTITY view.appearance.label "Темы">
 <!ENTITY view.plugins.label "Плагины">
-<!ENTITY updates.updateNow.label "Обновить дополнения">
+<!ENTITY view.recentUpdates.label "Недавние обновления">
+<!ENTITY view.availableUpdates.label "Доступные обновления">
+<!ENTITY updates.updateAddonsNow.label "Обновить дополнения прямо сейчас">
+<!ENTITY updates.updateAddonsNow.accesskey "н">
+<!ENTITY updates.viewUpdates.label "Показать недавние обновления">
+<!ENTITY updates.viewUpdates.accesskey "к">
+<!ENTITY updates.backgroudUpdateCheck.label "Автоматически проверять наличие обновлений">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "в">
 <!ENTITY updates.updating.label "Обновление дополнений">
 <!ENTITY updates.installed.label "Ваши дополнения были обновлены.">
 <!ENTITY updates.downloaded.label "Обновления для ваших дополнений загружены.">
-<!ENTITY updates.restart.label "Перезапустить сейчас для завершения установки">
+<!ENTITY updates.restart.label "Перезапустить для завершения установки">
 <!ENTITY updates.noneFound.label "Обновлений не найдено">
-<!ENTITY cmd.showDetails.label "Показать больше информации">
-<!ENTITY cmd.showDetails.accesskey "к">
+<!ENTITY updates.manualUpdatesFound.label "Показать доступные обновления">
+<!ENTITY cmd.showDetails.label "Подробнее">
+<!ENTITY cmd.showDetails.accesskey "д">
 <!ENTITY cmd.findUpdates.label "Найти обновления">
 <!ENTITY cmd.findUpdates.accesskey "а">
 <!ENTITY cmd.preferences.label "Настройки">
@@ -36,6 +47,10 @@
 <!ENTITY cmd.contribute.label "Внести вклад">
 <!ENTITY cmd.contribute.accesskey "т">
 <!ENTITY cmd.contribute.tooltip "Внести вклад в развитие этого дополнения">
+<!ENTITY cmd.showReleaseNotes.label "Показать примечания к выпуску">
+<!ENTITY cmd.showReleaseNotes.tooltip "Показать примечания к выпуску для этого обновления">
+<!ENTITY cmd.hideReleaseNotes.label "Скрыть примечания к выпуску">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Скрыть примечания к выпуску для этого обновления">
 <!ENTITY detail.version.label "Версия">
 <!ENTITY detail.updated.label "Обновлено">
 <!ENTITY detail.creator.label "Разработчик">
@@ -71,6 +86,7 @@
 <!ENTITY addon.homepage "Домашняя страница">
 <!ENTITY addon.unknownDate "Неизвестно">
 <!ENTITY addon.disabled.postfix "(отключено)">
+<!ENTITY addon.update.postfix "Обновить">
 <!ENTITY addon.undo.label "Отменить?">
 <!ENTITY addon.undo.tooltip "Отменить это действие">
 <!ENTITY addon.undoUninstall.label "Отменить?">
@@ -79,5 +95,10 @@
 <!ENTITY addon.restartNow.tooltip "Перезапустить сейчас для завершения установки">
 <!ENTITY addon.install.label "Установить">
 <!ENTITY addon.install.tooltip "Установить это дополнение">
+<!ENTITY addon.updateNow.label "Обновить сейчас">
+<!ENTITY addon.updateNow.tooltip "Установить обновление для этого дополнения">
 <!ENTITY addon.checkingForUpdates.label "Проверка наличия обновлений…">
+<!ENTITY addon.releaseNotes.label "Примечания к выпуску:">
+<!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Простите, но при загрузке примечаний к выпуску произошла ошибка.">
 <!ENTITY addon.createdBy.label "От ">
