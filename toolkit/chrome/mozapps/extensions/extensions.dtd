@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Otsi kõiki lisasid">
 <!ENTITY loading.label                        "Laadimine…">
 <!ENTITY listEmpty.installed.label            "Ühtegi seda tüüpi lisa pole paigaldatud">
+<!ENTITY listEmpty.availableUpdates.label     "Uuendusi ei leitud">
+<!ENTITY listEmpty.recentUpdates.label        "Hiljuti pole uuendatud ühtki lisa">
+<!ENTITY listEmpty.findUpdates.label          "Kontrolli uuendusi">
 <!ENTITY listEmpty.search.label               "Ühtegi sobivat lisa ei leitud">
 <!ENTITY listEmpty.button.label               "Rohkem teavet lisade kohta">
 
@@ -14,14 +17,22 @@
 <!ENTITY view.features.label                  "Laiendused">
 <!ENTITY view.appearance.label                "Teemad">
 <!ENTITY view.plugins.label                   "Pluginad">
+<!ENTITY view.recentUpdates.label             "Hiljutised uuendused">
+<!ENTITY view.availableUpdates.label          "Saadaolevad uuendused">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Uuenda lisasid">
+<!ENTITY updates.updateAddonsNow.label        "Uuenda lisasid kohe">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.viewUpdates.label            "Vaata hiljutisi uuendusi">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Uuendusi kontrollitakse automaatselt">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "k">
 <!ENTITY updates.updating.label               "Lisade uuendamine">
 <!ENTITY updates.installed.label              "Lisad on uuendatud.">
 <!ENTITY updates.downloaded.label             "Lisade uuendused on alla laaditud.">
 <!ENTITY updates.restart.label                "Paigalduse lõpetamiseks taaskäivita kohe">
 <!ENTITY updates.noneFound.label              "Uuendusi ei leitud">
+<!ENTITY updates.manualUpdatesFound.label     "Vaata saadaolevaid uuendusi">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Kuva rohkem teavet">
@@ -44,6 +55,11 @@
 <!ENTITY cmd.contribute.label                 "Aita kaasa">
 <!ENTITY cmd.contribute.accesskey             "i">
 <!ENTITY cmd.contribute.tooltip               "Panusta selle lisa arendusse">
+
+<!ENTITY cmd.showReleaseNotes.label           "Kuva väljalasketeadet">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Vaata selle uuenduse väljalasketeadet">
+<!ENTITY cmd.hideReleaseNotes.label           "Peida väljalasketeade">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Peida selle uuenduse väljalasketeade">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versioon">
@@ -91,6 +107,7 @@
 <!ENTITY addon.homepage                       "Koduleht">
 <!ENTITY addon.unknownDate                    "pole teada">
 <!ENTITY addon.disabled.postfix               "(keelatud)">
+<!ENTITY addon.update.postfix                 "Uuenda">
 <!ENTITY addon.undo.label                     "Võta tagasi?">
 <!ENTITY addon.undo.tooltip                   "Võta see tegevus tagasi">
 <!ENTITY addon.undoUninstall.label            "Võta tagasi?">
@@ -99,6 +116,11 @@
 <!ENTITY addon.restartNow.tooltip             "Paigalduse lõpetamiseks taaskäivita">
 <!ENTITY addon.install.label                  "Paigalda">
 <!ENTITY addon.install.tooltip                "Paigalda see lisa">
+<!ENTITY addon.updateNow.label                "Uuenda kohe">
+<!ENTITY addon.updateNow.tooltip              "Paigalda uuendus sellele lisale">
 <!ENTITY addon.checkingForUpdates.label       "Uuenduste kontrollimine…">
+<!ENTITY addon.releaseNotes.label             "Väljalasketeade:">
+<!ENTITY addon.loadingReleaseNotes.label      "Laadimine…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Vabandame, väljalasketeate laadimisel esines viga.">
 
 <!ENTITY addon.createdBy.label                "Looja: ">
