@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Alle add-ons doorzoeken">
 <!ENTITY loading.label                        "Laden…">
 <!ENTITY listEmpty.installed.label            "U heeft geen add-ons van dit type geïnstalleerd">
+<!ENTITY listEmpty.availableUpdates.label     "Geen updates gevonden">
+<!ENTITY listEmpty.recentUpdates.label        "U heeft uw add-ons niet recentelijk bijgewerkt">
+<!ENTITY listEmpty.findUpdates.label          "Controleren op updates">
 <!ENTITY listEmpty.search.label               "Geen overeenkomende add-ons gevonden">
 <!ENTITY listEmpty.button.label               "Meer info over add-ons">
 
@@ -14,14 +17,22 @@
 <!ENTITY view.features.label                  "Extensies">
 <!ENTITY view.appearance.label                "Thema’s">
 <!ENTITY view.plugins.label                   "Plug-ins">
+<!ENTITY view.recentUpdates.label             "Recente updates">
+<!ENTITY view.availableUpdates.label          "Beschikbare updates">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Add-ons bijwerken">
+<!ENTITY updates.updateAddonsNow.label        "Add-ons nu bijwerken">
+<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.viewUpdates.label            "Recente updates bekijken">
+<!ENTITY updates.viewUpdates.accesskey        "r">
+<!ENTITY updates.backgroudUpdateCheck.label   "Automatisch controleren op updates">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "c">
 <!ENTITY updates.updating.label               "Add-ons aan het bijwerken">
 <!ENTITY updates.installed.label              "Uw add-ons zijn bijgewerkt.">
 <!ENTITY updates.downloaded.label             "Uw add-on updates zijn gedownload.">
 <!ENTITY updates.restart.label                "Herstart nu om de installatie te voltooien.">
 <!ENTITY updates.noneFound.label              "Geen updates gevonden">
+<!ENTITY updates.manualUpdatesFound.label     "Beschikbare updates bekijken">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Meer informatie tonen">
@@ -44,6 +55,11 @@
 <!ENTITY cmd.contribute.label                 "Bijdragen">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Draag bij aan de ontwikkeling van deze add-on">
+
+<!ENTITY cmd.showReleaseNotes.label           "Uitgaveopmerkingen tonen">
+<!ENTITY cmd.showReleaseNotes.tooltip         "De uitgaveopmerkingen van deze update tonen">
+<!ENTITY cmd.hideReleaseNotes.label           "Uitgaveopmerkingen verbergen">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "De uitgaveopmerkingen van deze update verbergen">
   
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versie">
@@ -54,7 +70,7 @@
 
 <!ENTITY detail.updateAutomatically.label     "Automatisch bijwerken">
 <!ENTITY detail.updateAutomatically.accesskey "A">
-<!ENTITY detail.updateAutomatically.tooltip   "Deze add-on automatisch bijwereken als er een update beschikbaar is">
+<!ENTITY detail.updateAutomatically.tooltip   "Deze add-on automatisch bijwerken als er een update beschikbaar is">
 <!ENTITY detail.checkForUpdates.label         "Controleren op updates">
 <!ENTITY detail.checkForUpdates.accesskey     "C">
 <!ENTITY detail.checkForUpdates.tooltip       "Controleren op updates voor deze add-on">
@@ -91,6 +107,7 @@
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.unknownDate                    "Onbekend">
 <!ENTITY addon.disabled.postfix               "(uitgeschakeld)">
+<!ENTITY addon.update.postfix                 "Bijwerken">
 <!ENTITY addon.undo.label                     "Ongedaan maken?">
 <!ENTITY addon.undo.tooltip                   "Deze actie ongedaan maken">
 <!ENTITY addon.undoUninstall.label            "Ongedaan maken?">
@@ -99,6 +116,11 @@
 <!ENTITY addon.restartNow.tooltip             "Herstart nu om de installatie te voltooien">
 <!ENTITY addon.install.label                  "Installeren">
 <!ENTITY addon.install.tooltip                "Deze add-on installeren">
+<!ENTITY addon.updateNow.label                "Nu bijwerken">
+<!ENTITY addon.updateNow.tooltip              "De update voor deze add-on installeren">
 <!ENTITY addon.checkingForUpdates.label       "Controleren op updates…">
+<!ENTITY addon.releaseNotes.label             "Uitgaveopmerkingen:">
+<!ENTITY addon.loadingReleaseNotes.label      "Laden…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, er treedt een fout op bij het laden van de uitgaveopmerking.">
 
 <!ENTITY addon.createdBy.label                "Door ">
