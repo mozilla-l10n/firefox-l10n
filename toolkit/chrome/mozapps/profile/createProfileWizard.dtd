@@ -2,9 +2,9 @@
 <!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
-<!ENTITY profileCreationExplanation_1.text  "&brandShortName; lagrer informasjon om innstillingene dine og annen brukerdata i din personlige profil.">
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; lagrer informasjon om innstillinger og annen brukerdata i din personlige profil.">
 <!ENTITY profileCreationExplanation_2.text  "Dersom du deler denne kopien av &brandShortName; med andre brukere, kan du bruke profilene for å holde hver brukers informasjon for seg selv. For å gjøre dette, må hver bruker opprette sin egen profil.">
-<!ENTITY profileCreationExplanation_3.text  "Dersom du er den eneste personen som bruker denne kopien av &brandShortName;, må du ha minst en profil. Dersom du vil, kan du opprette flere profiler for deg selv, for å skille mellom ulike sett av innstillinger og brukerdata. For eksempel kan du ha forskjellige profiler for arbeid og personlig bruk.">
+<!ENTITY profileCreationExplanation_3.text  "Dersom du er den eneste personen som bruker denne kopien av &brandShortName;, må du ha minst en profil. Dersom du vil, kan du opprette flere profiler for deg selv, for å skille mellom ulike sett av innstillinger og brukerdata. Du kan for eksempel ha forskjellige profiler for arbeid og personlig bruk.">
 <!ENTITY profileCreationExplanation_4.text  "Trykk «Neste» for å opprette en ny profil.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Trykk «Fortsett» for å begynne opprette profilen.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Trykk «Neste» for å begynne opprette profilen.">

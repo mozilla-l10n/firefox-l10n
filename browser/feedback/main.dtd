@@ -10,7 +10,7 @@
 <!ENTITY testpilot.about.label                      "Om testpiloten">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Dine testpilot-undersøkelser">
+<!ENTITY testpilot.studiesWindow.title                  "Testpilot-undersøkelser">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Nåværende undersøkelser">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Fullførte undersøkelser">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Resultater av undersøkelser">

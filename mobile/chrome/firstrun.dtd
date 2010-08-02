@@ -2,7 +2,7 @@
 <!ENTITY firstrun.heading              "For å hjelpe deg å komme i gang, her er de mest populære funksjonene og utvidelsene som vil hjelpe deg å få mest mulig ut av &brandShortName;.">
 <!ENTITY firstrun.recommended          "Anbefalt:">
 <!ENTITY firstrun.weave.title          "Last ned Weave Sync">
-<!ENTITY firstrun.weave.description    "Del din &brandShortName;-historikk, passord, bokmerker og faner mellom datamaskinen din og mobilen">
+<!ENTITY firstrun.weave.description    "Del &brandShortName;-historikk, passord, bokmerker og faner mellom datamaskinen og mobilen">
 <!ENTITY firstrun.starter.title        "Last ned Starter Kit Collection">
 <!ENTITY firstrun.starter.description  "Installer disse anbefalte utvidelsene for å forbedre &brandShortName;-opplevelsen">
 <!ENTITY firstrun.tour.title           "Få en omvisning">
