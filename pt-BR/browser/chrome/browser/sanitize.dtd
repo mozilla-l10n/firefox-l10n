@@ -1,4 +1,4 @@
-<!ENTITY sanitizePrefs2.title          "Configurações para limpeza do histórico">
+<!ENTITY sanitizePrefs2.title          "Configurações para limpeza de dados pessoais">
 <!ENTITY sanitizeDialog2.title         "Limpar dados pessoais">
 
 <!ENTITY sanitizeItems.label          "Apagar estas informações agora:">
@@ -26,16 +26,16 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalhes">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
-<!ENTITY historySection.label         "Histórico">
+<!ENTITY historySection.label         "Navegação">
 <!ENTITY dataSection.label            "Dados">
 
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Páginas visitadas e downloads efetuados">
-<!ENTITY itemHistoryAndDownloads.accesskey "P">
-<!ENTITY itemBrowsingHistory.label         "Páginas visitadas">
-<!ENTITY itemBrowsingHistory.accesskey     "P">
+<!ENTITY itemHistoryAndDownloads.label     "Histórico e downloads efetuados">
+<!ENTITY itemHistoryAndDownloads.accesskey "H">
+<!ENTITY itemBrowsingHistory.label         "Histórico">
+<!ENTITY itemBrowsingHistory.accesskey     "H">
 <!ENTITY itemFormSearchHistory.label       "Campos memorizados de páginas e da pesquisa">
 <!ENTITY itemFormSearchHistory.accesskey   "C">
 <!ENTITY itemPasswords.label               "Senhas memorizadas">
@@ -45,13 +45,13 @@ that require it.  -->
 <!ENTITY itemCache.label                   "Cache">
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Dados offline de sites">
-<!ENTITY itemOfflineApps.accesskey         "D">
+<!ENTITY itemOfflineApps.accesskey         "f">
 <!ENTITY itemDownloadHistory.label         "Downloads efetuados">
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemActiveLogins.label            "Logins ativos">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Preferências de sites">
-<!ENTITY itemSitePreferences.accesskey     "e">
+<!ENTITY itemSitePreferences.accesskey     "P">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
