@@ -1,37 +1,37 @@
-<!ENTITY startup.label "Starto">
+<!ENTITY startup.label             "Starto">
 
-<!ENTITY startupPage.label "Kiam &brandShortName; ekfunkcias:">
-<!ENTITY startupPage.accesskey "e">
-<!ENTITY startupHomePage.label "Montri mian ekan paĝon">
-<!ENTITY startupBlankPage.label "Montri malplenan paĝon">
-<!ENTITY startupLastSession.label "Montri miajn lastajn fenestrojn kaj foliojn">
-<!ENTITY location.label "Eka paĝo:">
-<!ENTITY location.accesskey "E">
-<!ENTITY useCurrentPage.label "Uzi la nunan paĝon">
-<!ENTITY useCurrentPage.accesskey "L">
-<!ENTITY useMultiple.label "Uzi nunajn paĝojn">
-<!ENTITY useBookmark.label "Uzi paĝosignon">
-<!ENTITY useBookmark.accesskey "P">
-<!ENTITY restoreDefault.label "Norma paĝo">
-<!ENTITY restoreDefault.accesskey "N">
+<!ENTITY startupPage.label         "Kiam &brandShortName; ekfunkcias:">
+<!ENTITY startupPage.accesskey     "e">
+<!ENTITY startupHomePage.label     "Montri mian ekan paĝon">
+<!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
+<!ENTITY startupLastSession.label  "Montri miajn lastajn fenestrojn kaj foliojn">
+<!ENTITY location.label            "Eka paĝo:">
+<!ENTITY location.accesskey        "E">
+<!ENTITY useCurrentPage.label      "Uzi la nunan paĝon">
+<!ENTITY useCurrentPage.accesskey  "L">
+<!ENTITY useMultiple.label         "Uzi nunajn paĝojn">
+<!ENTITY useBookmark.label         "Uzi paĝosignon">
+<!ENTITY useBookmark.accesskey     "P">
+<!ENTITY restoreDefault.label      "Norma paĝo">
+<!ENTITY restoreDefault.accesskey  "N">
 
-<!ENTITY downloads.label "Elŝutoj">
+<!ENTITY downloads.label     "Elŝutoj">
 
-<!ENTITY showWhenDownloading.label "Montri la fenestron de elŝutoj dum elŝutado de dosiero">
+<!ENTITY showWhenDownloading.label     "Montri la fenestron de elŝutoj dum elŝutado de dosiero">
 <!ENTITY showWhenDownloading.accesskey "E">
 <!ENTITY closeWhenDone.label "Fermi ĝin kiam ĉiuj elŝutoj finiĝas">
 <!ENTITY closeWhenDone.accesskey "k">
 <!ENTITY saveTo.label "Konservi dosierojn en">
 <!ENTITY saveTo.accesskey "d">
-<!ENTITY chooseFolderWin.label "Esplori…">
-<!ENTITY chooseFolderWin.accesskey "l">
-<!ENTITY chooseFolderMac.label "Elekti…">
-<!ENTITY chooseFolderMac.accesskey "i">
+<!ENTITY chooseFolderWin.label        "Esplori…">
+<!ENTITY chooseFolderWin.accesskey    "l">
+<!ENTITY chooseFolderMac.label        "Elekti…">
+<!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Ĉiam demandi al mi kie konservi dosierojn">
 <!ENTITY alwaysAsk.accesskey "I">
 
-<!ENTITY addonsMgr.label "Kromprogramoj">
-<!ENTITY manageAddonsDescWin.label "Ŝanĝi opciojn de viaj kromprogramoj">
-<!ENTITY manageAddonsDescUnix2.label "Ŝanĝi preferojn de viaj kromprogramoj">
-<!ENTITY manageAddons.label "Administri kromprogramoj…">
-<!ENTITY manageAddons.accesskey "A">
+<!ENTITY addonsMgr.label               "Kromprogramoj">
+<!ENTITY manageAddonsDescWin.label     "Ŝanĝi opciojn de viaj kromprogramoj">
+<!ENTITY manageAddonsDescUnix2.label   "Ŝanĝi preferojn de viaj kromprogramoj">
+<!ENTITY manageAddons.label            "Administri kromprogramoj…">
+<!ENTITY manageAddons.accesskey        "A">

@@ -1,51 +1,51 @@
 
-<!ENTITY migrationWizard.title "Asistanto de importado">
+<!ENTITY migrationWizard.title          "Asistanto de importado">
 
-<!ENTITY importFrom.label "Importi opciojn, paĝosignojn, historion, pasvortojn kaj aliajn datumojn el:">
-<!ENTITY importFromUnix.label "Importi preferojn, paĝosignojn, historion, pasvortojn kaj aliajn datumojn el:">
-<!ENTITY importFromBookmarks.label "Importi paĝosignojn el:">
+<!ENTITY importFrom.label               "Importi opciojn, paĝosignojn, historion, pasvortojn kaj aliajn datumojn el:">
+<!ENTITY importFromUnix.label           "Importi preferojn, paĝosignojn, historion, pasvortojn kaj aliajn datumojn el:">
+<!ENTITY importFromBookmarks.label      "Importi paĝosignojn el:">
 
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird or Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Importi nenion">
-<!ENTITY importFromNothing.accesskey "N">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 or Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "From an HTML File">
-<!ENTITY importFromHTMLFile.accesskey "F">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird or Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Importi nenion">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "From an HTML File">
+<!ENTITY importFromHTMLFile.accesskey   "F">
 
-<!ENTITY noMigrationSources.label "Neniu programo, enhavanta paĝosignojn, historion aŭ pasvortajn datumojn, estis trovita.">
+<!ENTITY noMigrationSources.label       "Neniu programo, enhavanta paĝosignojn, historion aŭ pasvortajn datumojn, estis trovita.">
 
-<!ENTITY importSource.title "Importi agordojn kaj datumojn">
-<!ENTITY importItems.title "Elementoj importotaj">
-<!ENTITY importItems.label "Elekti elementojn importotajn:">
+<!ENTITY importSource.title             "Importi agordojn kaj datumojn">
+<!ENTITY importItems.title              "Elementoj importotaj">
+<!ENTITY importItems.label              "Elekti elementojn importotajn:">
 
-<!ENTITY migrating.title "Importanta…">
-<!ENTITY migrating.label "La jenaj elementoj estas nuntempe importataj…">
+<!ENTITY migrating.title                "Importanta…">
+<!ENTITY migrating.label                "La jenaj elementoj estas nuntempe importataj…">
 
-<!ENTITY selectProfile.title "Elekti profilon">
-<!ENTITY selectProfile.label "Eblas importi el la jenaj profiloj:">
+<!ENTITY selectProfile.title            "Elekti profilon">
+<!ENTITY selectProfile.label            "Eblas importi el la jenaj profiloj:">
 
-<!ENTITY done.title "Importado finita">
-<!ENTITY done.label "La jenaj elementoj estis sukcese importitaj:">
+<!ENTITY done.title                     "Importado finita">
+<!ENTITY done.label                     "La jenaj elementoj estis sukcese importitaj:">
 

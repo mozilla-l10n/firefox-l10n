@@ -1,48 +1,40 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Plejetigi">
-<!ENTITY bringAllToFront.label "Malfonigi ĉiujn">
-<!ENTITY zoomWindow.label "Pligrandigilo">
-<!ENTITY windowMenu.label "Fenestro">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Plejetigi">
+<!ENTITY bringAllToFront.label    "Malfonigi ĉiujn">
+<!ENTITY zoomWindow.label         "Pligrandigilo">
+<!ENTITY windowMenu.label         "Fenestro">
 
-<!ENTITY helpMenu.label "Helpo">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.label           "Helpo"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Helpo">
-<!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutCmd.label "Pri &brandFullName;">
-<!ENTITY aboutCmd.accesskey "P">
-<!ENTITY helpContents.label "Enhavo de helpo">
-<!ENTITY helpContents.accesskey "E">
-<!ENTITY helpContentsMac.label "&brandShortName; - helpo">
-<!ENTITY helpForIEUsers.label "Por uzantoj de Internet Explorer">
+<!ENTITY helpMenuWin.label        "Helpo"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "Helpo por &brandShortName;">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpForIEUsers.label     "Por uzantoj de Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpReleaseNotes.label "Liveraj notoj">
-<!ENTITY helpReleaseNotes.accesskey "N">
-<!ENTITY updateCmd.label "Kontroli ĉu estas ĝisdatigoj…">
-<!ENTITY updateCmd.accesskey "k">
+<!ENTITY helpReleaseNotes.label         "Liveraj notoj">
+<!ENTITY helpReleaseNotes.accesskey     "N">
 
-<!ENTITY preferencesCmdMac.label "Preferoj…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY servicesMenuMac.label "Servoj">
+<!ENTITY updateCmd.label                "Kontroli ĉu estas ĝisdatigoj…">
 
-<!ENTITY hideThisAppCmdMac.label "Kaŝi &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY preferencesCmdMac.label        "Preferoj…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY hideOtherAppsCmdMac.label "Kaŝi aliajn">
+<!ENTITY servicesMenuMac.label          "Servoj">
+
+<!ENTITY hideThisAppCmdMac.label        "Kaŝi &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Kaŝi aliajn">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Montri ĉion">
+<!ENTITY showAllAppsCmdMac.label        "Montri ĉion">

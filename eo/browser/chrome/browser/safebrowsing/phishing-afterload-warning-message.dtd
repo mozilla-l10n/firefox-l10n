@@ -4,23 +4,23 @@
 <!ENTITY safeb.palm.message.p1.linkText "Legu pli &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Legu pli &#133;">
 
-<!ENTITY safeb.palm.message.p2.start 'Ĉi tiaj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel "phishing", kie trompaj retpaĝoj kaj retmesaĝoj estas uzataj por imiti retejojn aŭ organizoj je kiuj vi fidas. Vi povas trovi pli da informo pri tio'>
+<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
 <!ENTITY safeb.palm.message.p2.linkText "kiel &brandShortName; protektas vin">
 <!ENTITY safeb.palm.message.p2.end "de phishing-atakoj.">
 
 <!ENTITY safeb.palm.accept.label "Mi volas foriri de ĉi tie!">
 <!ENTITY safeb.palm.accept.statustext "Navigi al la eka paĝo">
 <!ENTITY safeb.palm.decline.label "Ignori tiun ĉi atentigon">
-<!ENTITY safeb.palm.decline.statustext "Fermi atentigon">
+<!ENTITY safeb.palm.decline.statustext "Fermi atentigon" >
 <!ENTITY safeb.palm.notforgery.label2 "Tio ĉi ne estas retfalsaĵo…">
-<!ENTITY safeb.palm.report.label "Kial tiu ĉi retejo estis blokita?">
+<!ENTITY safeb.palm.reportPage.label "Kial tiu ĉi retejo estis blokita?">
 
-<!ENTITY safeb.blocked.malware.title "Denoncita ataka retejo!">
+<!ENTITY safeb.blocked.malwarePage.title "Denoncita ataka retejo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "La retejo ĉe <span id='malware_sitename'/> estis denoncita kiel ataka retejo kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatajn informojn, uzas vian komputilon por ataki aliajn aŭ difektas vian sistemon.</p><p>Kelkaj retejoj intence distribuas difektan programaron, sed multaj estas uzataj sen la scio aŭ permeso de ĝiaj posedantoj.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "La retejo ĉe <span id='malware_sitename'/> estis denoncita kiel ataka retejo kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatajn informojn, uzas vian komputilon por ataki aliajn aŭ difektas vian sistemon.</p><p>Kelkaj retejoj intence distribuas difektan programaron, sed multaj estas uzataj sen la scio aŭ permeso de ĝiaj posedantoj.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "Denoncita retfalsaĵo!">
+<!ENTITY safeb.blocked.phishingPage.title "Denoncita retfalsaĵo!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "La retejo ĉe <span id='phishing_sitename'/> estis denoncita kiel retfalsaĵo kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>Retfalsaĵoj estas kreitaj por trompe igi vin doni personan aŭ financan informon per imitado de retejoj je kiuj vi fidas.</p><p>Tajpado de informo en tiu ĉi retpaĝo povas okazigi ŝtelon de identeco aŭ aliajn malhonestajn trompojn.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "La retejo ĉe <span id='phishing_sitename'/> estis denoncita kiel retfalsaĵo kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Retfalsaĵoj estas kreitaj por trompe igi vin doni personan aŭ financan informon per imitado de retejoj je kiuj vi fidas.</p><p>Tajpado de informo en tiu ĉi retpaĝo povas okazigi ŝtelon de identeco aŭ aliajn trompŝtelojn.</p>">
