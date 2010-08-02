@@ -47,13 +47,14 @@
 <ol>
     <li>Besorgen Sie sich ein oder mehrere <a href="glossary.xhtml#certificate">Zertifikate</a>
         (das digitale &#196;quivalent zu ID-Karten). F&#252;r Einzelheiten siehe 
-        <a href="using_certs_help.xhtml#using_certs_get">Beschaffung Ihres eigenen Zertifikates</a>.</li>
+        <a href="using_certs_help.xhtml#getting_your_own_certificate">Beschaffung Ihres eigenen Zertifikates</a>.</li>
     <li>Konfigurieren Sie die Sicherheitseinstellungen Ihres Email-Accounts. F&#252;r Einzelheiten siehe
-        <a href="#config_account">Konfiguration Ihrer Sicherheits-Einstellungen</a>.</li>
+        <a href="mailnews_account_settings.xhtml#security">Konfiguration Ihrer Sicherheits-Einstellungen</a>.</li>
 </ol>
 
 <p>Wenn Sie diese Schritte durchgef&#252;hrt haben, k&#246;nnen Sie den Anweisungen in
-   <a href="#signing">Signierung &amp; Verschl&#252;sselung einer neuen Nachricht</a> folgen.</p>
+  <a href="#signing_and_encrypting_a_new_message">Signierung &amp; Verschl&#252;sselung 
+  einer neuen Nachricht</a> folgen.</p>
 
 <p>Die folgenden Abschnitte bieten einen kurzen &#220;berblick dar&#252;ber, wie digitale Signaturen und 
    Verschl&#252;sselung funktionieren. Wegen weiterer technischer Einzelheiten zu diesem Thema siehe die
@@ -121,7 +122,7 @@
 
 <p>Es ist auch m&#246;glich, Zertifikate automatisch nachzuschlagen. Diese Eigenschaft wird gesteuert 
    &#252;ber <a href="mailnews_preferences.xhtml#addressing_preferences">Mail &amp; Newsgroups-Einstellungen -
-   Adressierung</a> oder <a href="mail_help.xhtml#addressing">Mail &amp; Newgroups-Account-Einstellungen
+   Adressierung</a> oder <a href="mailnews_account_settings.xhtml#addressing">Mail &amp; Newgroups-Account-Einstellungen
    - Adressierung</a>, die so konfiguriert werden k&#246;nnen, dass sie die Email-Adressen der 
    Empf&#228;nger in einem Verzeichnis nachschlagen.</p>
 
@@ -142,7 +143,7 @@
   benutzen wollen.</p> 
 
 <p>F&#252;r Informationen &#252;ber den Erhalt von Email-Zertifikaten siehe 
-   <a href="using_certs_help.xhtml#using_certs_get">Ein eigenes Zertifikat erwerben</a>.</p>
+   <a href="using_certs_help.xhtml#getting_your_own_certificate">Ein eigenes Zertifikat erwerben</a>.</p>
 
 <p>Um anzugeben, welche Signier- und Verschl&#252;sselungs-Zertifikate mit einem speziellen Account genutzt werden
    sollen, starten Sie aus dem Mail-Fenster:</p>
@@ -207,7 +208,7 @@
    Zusatzinformationen zu diesen Fragen siehe <a href="#about_digital_signatures_and_encryption">&#220;ber digitale
    Signaturen &amp; Verschl&#252;sselung</a>.</p>
 
-<p>Die Eintragungen, die Sie in <a href="mail_help.xhtml#security">Mail &amp; Newsgroups-Account-Einstellungen - 
+<p>Die Eintragungen, die Sie in <a href="mailnews_account_settings.xhtml#security">Mail &amp; Newsgroups-Account-Einstellungen - 
    Sicherheit</a> gemacht haben, bestimmen die Standard-Einstellungen f&#252;r jedes neue Nachrichtenfenster, 
    das sich &#246;ffnet, wenn Sie mit dem Schreiben einer Email beginnen.</p>
 
@@ -289,7 +290,7 @@
 </table>
 
 <p>F&#252;r Informationen &#252;ber die Zertifikat-Validierung siehe
-   <a href="using_certs_help.xhtml#using_certs_validation">Kontrolle der Validierung</a>.</p>
+   <a href="using_certs_help.xhtml#controlling_validation">Kontrolle der Validierung</a>.</p>
 
 <p>Um detaillierte Informationen &#252;ber die Sicherheit der Nachricht zu sehen, klicken Sie auf das 
    Schl&#252;ssel- oder Sperr-Icon, oder folgen Sie den Anweisungen in 
@@ -352,7 +353,7 @@
    gew&#252;nschten Optionen.</p>
 
 <p>Um Ihre Standard-Einstellungen f&#252;r Signierung und Verschl&#252;sselung f&#252;r alle Nachrichten 
-   anzuzeigen, siehe <a href="mail_help.xhtml#security">Mail- &amp; Newsgroups-Account-Einstellungen -
+   anzuzeigen, siehe <a href="mailnews_account_settings.xhtml#security">Mail- &amp; Newsgroups-Account-Einstellungen -
    Sicherheit</a></p>
 
 <p>[<a href="#signing_and_encrypting_messages">Zur&#252;ck zum Anfang des Abschnitts</a>]</p>
@@ -376,11 +377,11 @@
     wurde und wenn, ob die Signatur g&#252;ltig ist.</li>
   
     <p>Wenn die Validierung fehlschlug, w&#228;hrend OCSP aktiviert war, &#252;berpr&#252;fen Sie 
-    die OCSP-Einstellungen in <a href="validation_help.xhtml#validation_first">Privatsph&#228;re- &amp;
-    Sicherheitseinstellungen - Validierung</a>. Wenn Sie mit OCSP nicht vertraut sind, &#252;berpr&#252;fen
-    Sie die Einstellungen mit Ihrem Systemadministrator. Wenn die Einstellungen korrekt sind, kann es Probleme
-    mit dem OCSP-Dienst geben oder das zur Erstellung der Signatur benutzte Zertifikat ist
-    nicht mehr g&#252;ltig.</p>
+    die OCSP-Einstellungen in <a href="validation_help.xhtml#privacy_and_security_preferences_validation">
+    Privatsph&#228;re- &amp; Sicherheitseinstellungen - Validierung</a>. Wenn Sie mit OCSP nicht vertraut 
+    sind, &#252;berpr&#252;fen Sie die Einstellungen mit Ihrem Systemadministrator. Wenn die Einstellungen 
+    korrekt sind, kann es Probleme mit dem OCSP-Dienst geben oder das zur Erstellung der Signatur 
+    benutzte Zertifikat ist nicht mehr g&#252;ltig.</p>
 
     <p>Falls die Signatur ung&#252;ltig ist wegen eines Problems mit den Vertrauenseinstellungen des 
     Zertifikats, k&#246;nnen Sie den <a href="certs_help.xhtml">Zertifikats-Manager</a> zum Anzeigen 

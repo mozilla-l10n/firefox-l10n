@@ -48,7 +48,6 @@
         <rdf:li> <rdf:Description nc:name="Fremdcookie" nc:link="glossary.xhtml#foreign_cookie"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Frame" nc:link="glossary.xhtml#frame"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="File Transfer Protocol (FTP) - (&quot;Datei&#252;bertragungsprotokoll&quot;)" nc:link="glossary.xhtml#ftp"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Hilfsanwendung" nc:link="glossary.xhtml#helper_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Startseite" nc:link="glossary.xhtml#home_page"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Hypertext Markup Language (HTML) - (&quot;Hypertextauszeichnungssprache&quot;)" nc:link="glossary.xhtml#html"/> </rdf:li>
@@ -83,7 +82,7 @@
         <rdf:li> <rdf:Description nc:name="PKCS #11 (Public-Key Cryptography Standards) - (Standards zur Kryptographie mit &#246;ffentlichem Schl&#252;ssel)" nc:link="glossary.xhtml#pkcs_11"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="PKCS #11 Modul" nc:link="glossary.xhtml#pkcs_11_module"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Public-Key-Infrastruktur (PKI)" nc:link="glossary.xhtml#pki"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Plugin" nc:link="glossary.xhtml#plug-in"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Plugin" nc:link="glossary.xhtml#plugin"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Post Office Protocol (POP) - (&quot;Postamtprotokoll&quot;)" nc:link="glossary.xhtml#pop"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="geheimer Schl&#252;ssel (private key)" nc:link="glossary.xhtml#private_key"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Proxy" nc:link="glossary.xhtml#proxy"/> </rdf:li>
@@ -130,8 +129,8 @@
         <rdf:li> <rdf:Description nc:name="Website" nc:link="glossary.xhtml#web_site"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="World Wide Web (&quot;weltweites Netz&quot;)" nc:link="glossary.xhtml#world_wide_web"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="WPAD" nc:link="glossary.xhtml#wpad"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Extensible Markup Language (XML) - (&quot;erweiterbare Textauszeichnungssprache&quot;)" nc:link="glossary.xhtml#extensible_markup_language"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Extensible Stylesheet Language Transformation (XSLT) - (&quot;erweiterbare Stilvorlagen-Sprachtransformation&quot;)" nc:link="glossary.xhtml#extensible_stylesheet_language_transformation"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Extensible Markup Language (XML) - (&quot;erweiterbare Textauszeichnungssprache&quot;)" nc:link="glossary.xhtml#xml"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Extensible Stylesheet Language Transformation (XSLT) - (&quot;erweiterbare Stilvorlagen-Sprachtransformation&quot;)" nc:link="glossary.xhtml#xslt"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="XUL" nc:link="glossary.xhtml#xul"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
