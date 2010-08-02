@@ -1,102 +1,103 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "Ĝenerala">
+<!ENTITY generalTab.label                "Ĝenerala">
 
-<!ENTITY accessibility.label "Alirebleco">
+<!ENTITY accessibility.label             "Alirebleco">
 
-<!ENTITY useCursorNavigation.label "Ĉiam uzi la moviĝoklavojn por moviĝi ene de paĝoj">
-<!ENTITY useCursorNavigation.accesskey "m">
-<!ENTITY searchStartTyping.label "Serĉi tekston kiam mi komencas tajpi">
-<!ENTITY searchStartTyping.accesskey "k">
-<!ENTITY blockAutoRefresh.label "Averti min kiam retejoj klopodas redirekti aŭ reŝargi paĝon">
-<!ENTITY blockAutoRefresh.accesskey "r">
+<!ENTITY useCursorNavigation.label       "Ĉiam uzi la moviĝoklavojn por moviĝi ene de paĝoj">
+<!ENTITY useCursorNavigation.accesskey   "m">
+<!ENTITY searchStartTyping.label         "Serĉi tekston kiam mi komencas tajpi">
+<!ENTITY searchStartTyping.accesskey     "k">
+<!ENTITY blockAutoRefresh.label          "Averti min kiam retejoj klopodas redirekti aŭ reŝargi paĝon">
+<!ENTITY blockAutoRefresh.accesskey      "r">
 
-<!ENTITY browsing.label "Retesplorado">
+<!ENTITY browsing.label                  "Retesplorado">
 
-<!ENTITY useAutoScroll.label "Uzi aŭtomatan ŝovadon">
-<!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "Uzi glatan ŝovadon">
-<!ENTITY useSmoothScrolling.accesskey "g">
-<!ENTITY checkSpelling.label "Kontroli literumadon dum tajpado">
-<!ENTITY checkSpelling.accesskey "t">
+<!ENTITY useAutoScroll.label             "Uzi aŭtomatan ŝovadon">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
+<!ENTITY useSmoothScrolling.accesskey    "g">
+<!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
+<!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label "Difinitaj de la sistemo">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label "Ĉiam kontroli ĉe la eko ĉu &brandShortName; estas la ĉefa retumilo">
-<!ENTITY alwaysCheckDefault.accesskey "k">
-<!ENTITY checkNow.label "Kontroli nun">
-<!ENTITY checkNow.accesskey "K">
+<!ENTITY systemDefaults.label            "Difinitaj de la sistemo">
+<!ENTITY alwaysCheckDefault.label        "Ĉiam kontroli ĉe la eko ĉu &brandShortName; estas la ĉefa retumilo"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "k">
+<!ENTITY checkNow.label                  "Kontroli nun">
+<!ENTITY checkNow.accesskey              "K">
+<!ENTITY submitCrashes.label             "Sendi raportojn pri paneoj">
+<!ENTITY submitCrashes.accesskey         "S">
 
-<!ENTITY networkTab.label "Reto">
+<!ENTITY networkTab.label                "Reto">
 
-<!ENTITY connection.label "Konektado">
+<!ENTITY connection.label                "Konektado">
 
-<!ENTITY connectionDesc.label "Agordi la manieron kiel &brandShortName; konektiĝas al la reto">
-<!ENTITY connectionSettings.label "Agordoj…">
-<!ENTITY connectionSettings.accesskey "g">
+<!ENTITY connectionDesc.label            "Agordi la manieron kiel &brandShortName; konektiĝas al la reto">
+<!ENTITY connectionSettings.label        "Agordoj…">
+<!ENTITY connectionSettings.accesskey    "g">
 
-<!ENTITY offlineStorage.label "Deponejo por malkonektitaĵoj">
+<!ENTITY offlineStorage.label            "Deponejo por malkonektitaĵoj">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY useCacheBefore.label            "Uzi ĝis">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MO da spaco por la staplo">
+<!ENTITY clearCacheNow.label             "Forviŝi nun">
+<!ENTITY clearCacheNow.accesskey         "F">
 
-<!ENTITY useCacheBefore.label "Uzi ĝis">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MO da spaco por la staplo">
-<!ENTITY clearCacheNow.label "Forviŝi nun">
-<!ENTITY clearCacheNow.accesskey "F">
+<!ENTITY updateTab.label                 "Ĝisdatigi">
 
-<!ENTITY updateTab.label "Ĝisdatigi">
+<!ENTITY autoCheck.label                 "Aŭtomate kontroli ĉu estas ĝisdatigoj por:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "M">
+<!ENTITY enableAddonsUpdate2.label       "Kromprogramoj">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Serĉiloj">
+<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY whenUpdatesFound.label          "Kiam haveblas ĝisdatigoj de &brandShortName;:">
+<!ENTITY askMe.label                     "Demandi al mi kion mi volas fari">
+<!ENTITY askMe.accesskey                 "e">
+<!ENTITY modeAutomatic.label             "Aŭtomate elŝuti kaj instali la ĝisdatigon">
+<!ENTITY modeAutomatic.accesskey         "e">
+<!ENTITY modeAutoAddonWarn.label         "Averti se tio malaktivigos iun ajn el miaj kromprogramoj">
+<!ENTITY modeAutoAddonWarn.accesskey     "V">
+<!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
+<!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY autoCheck.label "Aŭtomate kontroli ĉu estas ĝisdatigoj por:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "M">
-<!ENTITY enableAddonsUpdate.label "Instalitaj kromprogramoj">
-<!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY enableSearchUpdate.label "Serĉiloj">
-<!ENTITY enableSearchUpdate.accesskey "i">
-<!ENTITY whenUpdatesFound.label "Kiam haveblas ĝisdatigoj de &brandShortName;:">
-<!ENTITY askMe.label "Demandi al mi kion mi volas fari">
-<!ENTITY askMe.accesskey "e">
-<!ENTITY modeAutomatic.label "Aŭtomate elŝuti kaj instali la ĝisdatigon">
-<!ENTITY modeAutomatic.accesskey "e">
-<!ENTITY modeAutoAddonWarn.label "Averti se tio malaktivigos iun ajn el miaj kromprogramoj">
-<!ENTITY modeAutoAddonWarn.accesskey "V">
-<!ENTITY updateHistory.label "Montri la historion de ĝisdatigoj">
-<!ENTITY updateHistory.accesskey "h">
-
-<!ENTITY offlineNotify.label "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
-<!ENTITY offlineNotify.accesskey "D">
-<!ENTITY offlineNotifyExceptions.label "Esceptoj…">
+<!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
+<!ENTITY offlineNotify.accesskey         "D">
+<!ENTITY offlineNotifyExceptions.label   "Esceptoj…">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
 
-<!ENTITY offlineAppsList.label "La jenaj retejoj havas konservitajn datumojn por uzi malkonektite:">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Forigi…">
+<!ENTITY offlineAppsList.label           "La jenaj retejoj havas konservitajn datumojn por uzi malkonektite:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Forigi…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
-<!ENTITY offlineAppRemove.confirm "Forigi malkonektitaĵojn">
+<!ENTITY offlineAppRemove.confirm        "Forigi malkonektitaĵojn">
 
-<!ENTITY encryptionTab.label "Ĉifrado">
+<!ENTITY encryptionTab.label             "Ĉifrado">
 
-<!ENTITY protocols.label "Protokoloj">
-<!ENTITY useSSL3.label "Uzi SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Uzi TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Atestiloj">
-<!ENTITY certSelection.description "Kiam servilo petas mian personan atestilon:">
-<!ENTITY certs.auto "Elekti unu aŭtomate">
-<!ENTITY certs.auto.accesskey "l">
-<!ENTITY certs.ask "Ĉiam demandi al mi">
-<!ENTITY certs.ask.accesskey "i">
-<!ENTITY viewCerts.label "Vidi atestilojn">
-<!ENTITY viewCerts.accesskey "a">
-<!ENTITY viewCRLs.label "Listoj de senvalidigado">
-<!ENTITY viewCRLs.accesskey "L">
-<!ENTITY verify2.label "Validigo">
-<!ENTITY verify2.accesskey "V">
-<!ENTITY viewSecurityDevices.label "Sekurecaj aparatoj">
-<!ENTITY viewSecurityDevices.accesskey "s">
+<!ENTITY protocols.label                 "Protokoloj">
+<!ENTITY useSSL3.label                   "Uzi SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Uzi TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Atestiloj">
+<!ENTITY certSelection.description       "Kiam servilo petas mian personan atestilon:">
+<!ENTITY certs.auto                      "Elekti unu aŭtomate">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Ĉiam demandi al mi">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Vidi atestilojn">
+<!ENTITY viewCerts.accesskey             "a">
+<!ENTITY viewCRLs.label                  "Listoj de senvalidigado">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Validigo">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Sekurecaj aparatoj">
+<!ENTITY viewSecurityDevices.accesskey   "s">

@@ -1,21 +1,2 @@
-<!ENTITY untitledTab "(sen titolo)">
-<!ENTITY newTab.label "Nova folio">
-<!ENTITY newTab.accesskey "N">
-<!ENTITY closeTab.label "Fermi folion">
-<!ENTITY closeTab.accesskey "f">
-<!ENTITY closeOtherTabs.accesskey "a">
-<!ENTITY closeOtherTabs.label "Fermi aliajn foliojn">
-<!ENTITY reloadAllTabs.label "Reŝargi ĉiujn foliojn">
-<!ENTITY reloadAllTabs.accesskey "G">
-<!ENTITY reloadTab.label "Reŝargi folion">
-<!ENTITY reloadTab.accesskey "r">
-<!ENTITY openTabInNewWindow.label "Malfermi en nova fenestro">
-<!ENTITY openTabInNewWindow.accesskey "F">
-<!ENTITY listAllTabs.label "Listo de folioj">
-<!ENTITY bookmarkAllTabs.label "Aldoni paĝosignon por ĉiuj folioj…">
-<!ENTITY bookmarkAllTabs.accesskey "F">
-<!ENTITY bookmarkThisTab.label "Aldoni paĝosignon por tiu ĉi folio">
-<!ENTITY bookmarkThisTab.accesskey "I">
-<!ENTITY undoCloseTab.label "Malfari la fermadon de folio">
-<!ENTITY undoCloseTab.accesskey "M">
-<!ENTITY newTabButton.tooltip "Malfermi novan folion">
+<!ENTITY  closeTab.label         "Fermi folion">
+<!ENTITY  newTabButton.tooltip        "Malfermi novan folion">

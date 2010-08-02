@@ -1,9 +1,9 @@
-<!ENTITY position.label "Pozicio:">
-<!ENTITY tile.label "Fonero">
-<!ENTITY center.label "Centre">
-<!ENTITY stretch.label "Etendi">
-<!ENTITY preview.label "Antaŭvidi">
-<!ENTITY color.label "Koloro:">
+<!ENTITY position.label             "Pozicio:">
+<!ENTITY tile.label                 "Fonero">
+<!ENTITY center.label               "Centre">
+<!ENTITY stretch.label              "Etendi">
+<!ENTITY preview.label              "Antaŭvidi">
+<!ENTITY color.label                "Koloro:">
 <!ENTITY setDesktopBackground.title "Difini labortablan fonon">
-<!ENTITY openDesktopPrefs.label "Malfermi preferojn de labortablo">
-<!ENTITY closeWindow.key "w">
+<!ENTITY openDesktopPrefs.label     "Malfermi preferojn de labortablo">
+<!ENTITY closeWindow.key            "w">

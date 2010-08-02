@@ -1,13 +1,11 @@
-<!ENTITY aboutDialog.title "Pri &brandFullName;">
-<!ENTITY copyright "Agnosko">
-<!ENTITY copyright.accesskey "K">
-<!ENTITY copyrightGNOME.accesskey "r">
-<!ENTITY aboutLink "&lt; Pri &brandFullName;">
-<!ENTITY aboutLink.accesskey "A">
-<!ENTITY aboutVersion "versio">
-<!ENTITY closeCmdGNOME.label "Fermi">
-<!ENTITY closeCmdGNOME.accesskey "F">
-<!ENTITY copyrightInfo1 "&#169;1998-2009 Kontribuantoj. Ĉiuj rajtoj rezervitaj. (">
-<!ENTITY licenseLink "about:license">
-<!ENTITY licenseLinkText "Permesila informo">
-<!ENTITY copyrightInfo2 ").">
+<!ENTITY aboutDialog.title          "Pri &brandFullName;">
+<!ENTITY copyright                  "Agnosko">
+<!ENTITY copyright.accesskey        "K">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; Pri &brandFullName;">
+<!ENTITY aboutLink.accesskey        "A">
+<!ENTITY aboutVersion               "versio">
+<!ENTITY closeCmdGNOME.label        "Fermi">  
+<!ENTITY closeCmdGNOME.accesskey    "F">
+<!ENTITY licenseLinkText            "Permesila informo">
+<!ENTITY licenseLinkSuffix          ".">
