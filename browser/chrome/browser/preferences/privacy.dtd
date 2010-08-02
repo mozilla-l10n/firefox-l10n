@@ -1,4 +1,4 @@
-<!ENTITY  history.label                 "Histórico">
+<!ENTITY  history.label                 "Dados pessoais">
 
 <!ENTITY  locationBar.label             "Campo de endereço">
 
@@ -33,34 +33,34 @@
 
 <!ENTITY  historyHeader.pre.label          "O &brandShortName; deve:">
 <!ENTITY  historyHeader.pre.accesskey      "O">
-<!ENTITY  historyHeader.remember.label     "Memorizar o histórico">
-<!ENTITY  historyHeader.dontremember.label "Nunca memorizar o histórico">
-<!ENTITY  historyHeader.custom.label       "Usar configurações personalizadas">
+<!ENTITY  historyHeader.remember.label     "Memorizar tudo">
+<!ENTITY  historyHeader.dontremember.label "Nunca memorizar">
+<!ENTITY  historyHeader.custom.label       "Usar minhas configurações">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; memorizará as páginas visitadas, os downloads, os dados fornecidos a formulários e ao campo de pesquisa e preservará os cookies dos sites visitados.">
+<!ENTITY  rememberDescription.label      "O &brandShortName; memorizará o histórico, os downloads, os dados fornecidos a formulários e ao campo de pesquisa e preservará os cookies dos sites visitados.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Você pode desejar ">
-<!ENTITY  rememberActions.clearHistory.label  "limpar seu histórico recente">
+<!ENTITY  rememberActions.clearHistory.label  "limpar dados pessoais mais recentes">
 <!ENTITY  rememberActions.middle.label        " ou ">
 <!ENTITY  rememberActions.removeCookies.label "excluir cookies em particular">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "O &brandShortName; usará as mesmas configurações da navegação privativa. Nenhuma informação de histórico será salva enquanto você navega.">
+<!ENTITY  dontrememberDescription.label  "O &brandShortName; usará as mesmas configurações da navegação privativa. Nenhum dado pessoal será armazenado durante a sua navegação.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Você pode desejar também ">
-<!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico atual">
+<!ENTITY  dontrememberActions.clearHistory.label "limpar todos os dados pessoais">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Modo de navegação privativa permanente">
-<!ENTITY  privateBrowsingPermanent.accesskey "d">
+<!ENTITY  privateBrowsingPermanent.label "Navegação privativa permanente">
+<!ENTITY  privateBrowsingPermanent.accesskey "v">
 
-<!ENTITY  rememberHistory.label      "Memorizar as páginas visitadas">
+<!ENTITY  rememberHistory.label      "Memorizar o histórico">
 <!ENTITY  rememberHistory.accesskey  "r">
 
 <!ENTITY  rememberDownload.label         "Memorizar os downloads efetuados">
@@ -69,7 +69,7 @@
 <!ENTITY  rememberSearchForm.label       "Memorizar dados fornecidos a páginas e ao campo de pesquisa">
 <!ENTITY  rememberSearchForm.accesskey   "z">
 
-<!ENTITY  clearOnClose.label             "Limpar o histórico ao sair do &brandShortName;">
+<!ENTITY  clearOnClose.label             "Limpar dados pessoais ao sair do &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "L">
 
 <!ENTITY  clearOnCloseSettings.label     "Configurar…">

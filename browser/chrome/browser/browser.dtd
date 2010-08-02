@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(navegação privativa)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Nova aba">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "Recarregar aba">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar tudo">
@@ -146,7 +144,7 @@
 <!ENTITY bookmarksWinCmd.commandkey "I">
 
 <!ENTITY historyButton.label            "Histórico">
-<!ENTITY historyButton.tooltip          "Exibir o painel com o histórico de páginas visitadas">
+<!ENTITY historyButton.tooltip          "Exibir o painel com as páginas visitadas recentemente">
 <!ENTITY historySidebarCmd.accesskey    "H">
 <!ENTITY historySidebarCmd.commandKey   "H">
 
@@ -169,14 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey    "s">
 <!ENTITY errorConsoleCmd.commandkey   "J">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "K">
+<!ENTITY webConsoleCmd.label          "Console da web">
+<!ENTITY webConsoleCmd.accesskey      "w">
+<!ENTITY webConsoleCmd.commandkey     "K">
 
 <!ENTITY inspectMenu.label            "Inspecionar">
 <!ENTITY inspectMenu.accesskey        "n">
 <!ENTITY inspectMenu.commandkey       "i">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspecionar">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Próximo">
@@ -258,6 +257,8 @@
 <!ENTITY appMenuSidebars.label "Painel">
 <!ENTITY appMenuHelp.label "Ajuda">
 
+<!ENTITY developerMenu.label "Desenvolvimento">
+
 <!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.placeholder           "Abrir uma página web">
 <!ENTITY urlbar.accesskey             "D">
@@ -288,16 +289,16 @@
 <!ENTITY searchFocus.commandkey2      "E">
 <!ENTITY searchFocusUnix.commandkey   "J">
 
+<!ENTITY openLinkCmdInTab.label       "Abrir em nova aba">
+<!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openLinkCmd.label            "Abrir em nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
 <!ENTITY openLinkCmdInCurrent.label     "Open Link">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openLinkCmdInTab.label       "Abrir em nova aba">
-<!ENTITY openLinkCmdInTab.accesskey   "b">
-<!ENTITY openFrameCmd.label           "Abrir em nova janela">
-<!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY openFrameCmdInTab.label      "Abrir em nova aba">
 <!ENTITY openFrameCmdInTab.accesskey  "b">
+<!ENTITY openFrameCmd.label           "Abrir em nova janela">
+<!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY showOnlyThisFrameCmd.label     "Exibir somente este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
 <!ENTITY reloadCmd.commandkey         "R">

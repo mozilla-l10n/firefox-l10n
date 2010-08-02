@@ -114,12 +114,12 @@
 <!ENTITY  securityView.identity.verifier "Homologada por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
-<!ENTITY  securityView.privacy.history                  "Eu visitei este site ontem ou antes?">
+<!ENTITY  securityView.privacy.history                  "Este site foi visitado ontem ou antes?">
 <!ENTITY  securityView.privacy.cookies                  "Este site armazena dados (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Exibir cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "x">
-<!ENTITY  securityView.privacy.passwords                "Eu salvei senhas deste site?">
-<!ENTITY  securityView.privacy.viewPasswords            "Exibir senhas memorizadas">
+<!ENTITY  securityView.privacy.passwords                "Há senhas memorizadas deste site?">
+<!ENTITY  securityView.privacy.viewPasswords            "Exibir senhas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "b">
 
 <!ENTITY  securityView.technical.header                 "Detalhes técnicos">
