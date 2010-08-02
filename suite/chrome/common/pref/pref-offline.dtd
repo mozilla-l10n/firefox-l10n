@@ -1,6 +1,0 @@
-<!ENTITY window.title "Sin conexión">
-<!ENTITY boxHeader "Sin conexión">
-<!ENTITY rHeader "Sin conexión">
-<!ENTITY textStart "Cuando se inicie &brandShortName;:">
-<!ENTITY radioAskMode "Preguntarme si quiero estar en modo con o sin conexión">
-<!ENTITY radioUsePrev "Usar el estado con/sin conexión previo">
