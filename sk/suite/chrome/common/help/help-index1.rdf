@@ -826,7 +826,7 @@
      <rdf:li>
        <rdf:Description ID="IMAP"
          nc:name="IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import"
@@ -866,17 +866,17 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="IMAP:about"
          nc:name="čo je IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:advanced_mail_settings"
          nc:name="rozšírené nastavenia IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:server_settings"
          nc:name="nastavenia servera IMAP"
-         nc:link="mail_help.xhtml#imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#imap_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1050,7 +1050,7 @@
      <rdf:li>
        <rdf:Description ID="LDAP:global_settings"
          nc:name="nastavenie LDAP"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1060,7 +1060,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="mail"
          nc:name="nastavenia bezpečnosti pošty"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups"
@@ -1095,7 +1095,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
          nc:name="automatické dokončovanie adries"
-         nc:link="mail_help.xhtml#address_autocompletion"/>
+         nc:link="mailnews_preferences.xhtml#address_autocompletion"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
@@ -1105,12 +1105,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
          nc:name="nastavenia adresovania"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
          nc:name="Rozšírené nastavenia IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
@@ -1125,7 +1125,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
          nc:name="Kódovanie"
-         nc:link="mail_help.xhtml#character_encoding"/>
+         nc:link="mailnews_preferences.xhtml#character_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
@@ -1140,7 +1140,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
          nc:name="kópie a nastavenia priečinkov"
-         nc:link="mail_help.xhtml#copies_and_folders"/>
+         nc:link="mailnews_account_settings.xhtml#copies_and_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copying_folders"
@@ -1165,7 +1165,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
          nc:name="nastavenie miesta na disku a úložiska"
-         nc:link="mail_help.xhtml#synchronization_and_storage"/>
+         nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
@@ -1180,7 +1180,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
          nc:name="všeobecné nastavenia pošty"
-         nc:link="mail_help.xhtml#mail_and_newsgroup_preferences"/>
+         nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
@@ -1205,7 +1205,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
          nc:name="nastavenia identity"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
@@ -1220,17 +1220,17 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
          nc:name="nastavenie siete pre poštu a diskusné skupiny"
-         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+         nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
          nc:name="nastavenie synchronizácie pre režim offline"
-         nc:link="mail_help.xhtml#synchronization_and_storage"/>
+         nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/>
       </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
          nc:name="nastavenia POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:renaming_folders"
@@ -1270,7 +1270,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
          nc:name="nastavenia SMTP"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
@@ -1355,7 +1355,7 @@
      <rdf:li>
        <rdf:Description ID="Newsgroups:server_settings"
          nc:name="newsgroup server settings"
-         nc:link="mail_help.xhtml#server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1384,7 +1384,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Offline:general_preferences"
          nc:name="nastavenia režimu offline"
-         nc:link="mail_help.xhtml#network_and_storage_preferences"/>
+         nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1419,7 +1419,7 @@
      <rdf:li>
        <rdf:Description ID="POP"
          nc:name="POP"
-         nc:link="mail_help.xhtml#about_post_office_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_post_office_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="passwords"
@@ -1519,7 +1519,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="POP:server_settings"
          nc:name="Nastavenie servera POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1774,7 +1774,7 @@
      <rdf:li>
        <rdf:Description ID="return_receipts"
          nc:name="potvrdenie o prečítaní"
-         nc:link="mail_help.xhtml#return_receipts"/>
+         nc:link="mailnews_account_settings.xhtml#return_receipts"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1784,7 +1784,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="return_receipts:general_preferences"
          nc:name="nastavenia pre potvrdenia o prečítaní"
-         nc:link="mail_help.xhtml#return_receipts_preferences"/>
+         nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/>
      </rdf:li><rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="používanie potvrdení o prečítaní"
@@ -1945,7 +1945,7 @@
      <rdf:li>
        <rdf:Description ID="settings:signed_and_encrypted mail"
          nc:name="nastavenia pre podpísané a šifrované správy"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings:SSL"
@@ -2015,12 +2015,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="SMTP:choosing_a_different"
          nc:name="výber iného servera SMTP"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="SMTP:server_settings"
          nc:name="nastavenia servera SMTP"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2119,7 +2119,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Tags:general_preferences"
          nc:name="nastavenia značiek"
-         nc:link="mail_help.xhtml#tags"/>
+         nc:link="mailnews_preferences.xhtml#tags"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Režim Súkromné prehliadanie)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Nová karta">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "Obnoviť kartu">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Obnoviť všetky karty">
@@ -169,14 +167,15 @@
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Vývojárska konzola">
-<!ENTITY hudConsoleCmd.accesskey      "z">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Webová konzola">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Preskúmať">
+<!ENTITY inspectMenu.label            "Preskúmať stránku">
 <!ENTITY inspectMenu.accesskey        "e">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Preskúmať">
 <!ENTITY inspectButton.accesskey      "P">
 <!ENTITY inspectNextButton.label      "Ďalšie">
@@ -258,6 +257,8 @@
 <!ENTITY appMenuSidebars.label "Bočné panely">
 <!ENTITY appMenuHelp.label "Pomocník">
 
+<!ENTITY developerMenu.label "Vývojár">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Prejsť na webovú stránku">
 <!ENTITY urlbar.accesskey             "d">
@@ -288,16 +289,16 @@
 <!ENTITY searchFocus.commandkey2       "e">
 <!ENTITY searchFocusUnix.commandkey    "j">
 
+<!ENTITY openLinkCmdInTab.label "Otvoriť odkaz na novej karte">
+<!ENTITY openLinkCmdInTab.accesskey "O">
 <!ENTITY openLinkCmd.label "Otvoriť odkaz v novom okne">
-<!ENTITY openLinkCmd.accesskey "O">
+<!ENTITY openLinkCmd.accesskey "t">
 <!ENTITY openLinkCmdInCurrent.label     "Otvoriť odkaz">
 <!ENTITY openLinkCmdInCurrent.accesskey "d">
-<!ENTITY openLinkCmdInTab.label "Otvoriť odkaz na novej karte">
-<!ENTITY openLinkCmdInTab.accesskey "t">
-<!ENTITY openFrameCmd.label "Otvoriť rámec v novom okne">
-<!ENTITY openFrameCmd.accesskey "n">
 <!ENTITY openFrameCmdInTab.label "Otvoriť rámec na novej karte">
 <!ENTITY openFrameCmdInTab.accesskey "k">
+<!ENTITY openFrameCmd.label "Otvoriť rámec v novom okne">
+<!ENTITY openFrameCmd.accesskey "n">
 <!ENTITY showOnlyThisFrameCmd.label "Zobraziť len tento rámec">
 <!ENTITY showOnlyThisFrameCmd.accesskey "l">
 <!ENTITY reloadCmd.commandkey "r">
@@ -466,7 +467,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "m">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY findOnCmd.label "Hľadať na tejto stránke">
+<!ENTITY findOnCmd.label "Hľadať na tejto stránke…">
 <!ENTITY findOnCmd.accesskey "n">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Hľadať znova">
@@ -508,3 +509,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty prehliadača">
+
+<!ENTITY syncTabsMenu.label "Karty z ďalších počítačov">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "Synchronizácia">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "n">
+<!ENTITY syncSetup.label              "Nastaviť službu &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "N">
+<!ENTITY syncLogInItem.label          "Pripojiť">
+<!ENTITY syncLogInItem.accesskey      "P">
+<!ENTITY syncLogOutItem.label         "Odpojiť">
+<!ENTITY syncLogOutItem.accesskey     "O">
+<!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
+<!ENTITY syncSyncNowItem.accesskey    "S">

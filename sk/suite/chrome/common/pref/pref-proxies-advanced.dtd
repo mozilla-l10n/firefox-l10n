@@ -8,15 +8,12 @@
 <!ENTITY  ssl.accesskey               "S">
 <!ENTITY  ftp.label                   "Server proxy pre FTP:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Server proxy pre Gopher:">
-<!ENTITY  gopher.accesskey            "G">
 <!ENTITY  reuseProxy.label            "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY  reuseProxy.accesskey        "x">
 <!ENTITY  port.label                  "Port:">
 <!ENTITY  HTTPPort.accesskey          "o">
 <!ENTITY  SSLPort.accesskey           "r">
 <!ENTITY  FTPPort.accesskey           "t">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "Všeobecný server proxy">
 <!ENTITY  socks.description           "SOCKS je všeobecný server proxy používaný vo firemnom alebo podobných prostrediach.">

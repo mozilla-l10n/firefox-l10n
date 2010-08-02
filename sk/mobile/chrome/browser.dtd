@@ -21,15 +21,11 @@
 <!ENTITY addToDictionary.label "Pridať do slovníka">
 
 <!ENTITY bookmarksHeader.label     "Záložky">
-<!ENTITY bookmarksManage.label     "Spravovať">
 
-<!ENTITY editBookmarkRemove.label  "Odstrániť">
 <!ENTITY editBookmarkDone.label    "Hotovo">
 <!ENTITY editBookmarkTags.label    "Pridajte značky">
 
-<!ENTITY formHelper.previous       "Predchádzajúca">
-<!ENTITY formHelper.next           "Ďalšia">
-<!ENTITY formHelper.done           "Hotovo">
+<!ENTITY selectHelper.done         "Hotovo">
 
 <!ENTITY addonsHeader.label        "Doplnky">
 <!ENTITY addonsLocal.label         "Vaše doplnky">
@@ -88,5 +84,9 @@
 <!ENTITY consoleErrLine.label      "Riadok:">
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
 
-<!ENTITY contextOpenInNewTab.label "Otvoriť odkaz na novej karte">
-<!ENTITY contextSaveImage.label    "Uložiť obrázok">
+<!ENTITY contextOpenInNewTab.label    "Otvoriť odkaz na novej karte">
+<!ENTITY contextSaveImage.label       "Uložiť obrázok">
+<!ENTITY contextShareLink.label       "Zdieľať odkaz">
+<!ENTITY contextShareImage.label      "Zdieľať obrázok">
+<!ENTITY contextEditBookmark.label    "Upraviť">
+<!ENTITY contextRemoveBookmark.label  "Odstrániť">
