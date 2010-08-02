@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Alle Add-ons durchsuchen">
 <!ENTITY loading.label                        "Laden…">
 <!ENTITY listEmpty.installed.label            "Es sind keine Add-ons dieses Typs installiert">
+<!ENTITY listEmpty.availableUpdates.label     "Keine Updates gefunden">
+<!ENTITY listEmpty.recentUpdates.label        "Sie haben in letzter Zeit keine Add-ons aktualisiert">
+<!ENTITY listEmpty.findUpdates.label          "Nach Updates suchen">
 <!ENTITY listEmpty.search.label               "Es konnten keine übereinstimmenden Add-ons gefunden werden">
 <!ENTITY listEmpty.button.label               "Mehr über Add-ons erfahren">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Erweiterungen">
 <!ENTITY view.appearance.label                "Themes">
 <!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.recentUpdates.label             "Zuletzt durchgeführte Updates">
+<!ENTITY view.availableUpdates.label          "Verfügbare Updates">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Add-ons aktualisieren">
+<!ENTITY updates.updateAddonsNow.label        "Add-ons jetzt aktualisieren">
+<!ENTITY updates.updateAddonsNow.accesskey    "A">
+<!ENTITY updates.viewUpdates.label            "Kürzlich durchgeführte Updates anzeigen">
+<!ENTITY updates.viewUpdates.accesskey        "K">
+<!ENTITY updates.backgroudUpdateCheck.label   "Automatisch nach Updates suchen">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "U">
 <!ENTITY updates.updating.label               "Add-ons werden aktualisiert">
 <!ENTITY updates.installed.label              "Ihre Add-ons wurden aktualisiert.">
 <!ENTITY updates.downloaded.label             "Ihre Add-ons wurden heruntergeladen.">
 <!ENTITY updates.restart.label                "Jetzt neu starten, um die Installation abzuschließen">
 <!ENTITY updates.noneFound.label              "Keine Updates gefunden">
+<!ENTITY updates.manualUpdatesFound.label     "Verfügbare Updates anzeigen">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Weitere Informationen anzeigen">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "a">
 <!ENTITY cmd.contribute.tooltip               "Zur Entwicklung dieses Add-ons beitragen">
 
+<!ENTITY cmd.showReleaseNotes.label           "Versionshinweise anzeigen">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Versionshinweise für dieses Update anzeigen">
+<!ENTITY cmd.hideReleaseNotes.label           "Versionshinweise ausblenden">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Versionshinweise für dieses Update ausblenden">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -96,6 +111,7 @@
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.unknownDate                    "Unbekannt">
 <!ENTITY addon.disabled.postfix               "(deaktiviert)">
+<!ENTITY addon.update.postfix                 "Update">
 <!ENTITY addon.undo.label                     "Rückgängig?">
 <!ENTITY addon.undo.tooltip                   "Diese Aktion rückgängig machen">
 <!ENTITY addon.undoUninstall.label            "Rückgängig?">
@@ -104,6 +120,12 @@
 <!ENTITY addon.restartNow.tooltip             "Jetzt neu starten, um die Installation abzuschließen">
 <!ENTITY addon.install.label                  "Installieren">
 <!ENTITY addon.install.tooltip                "Dieses Add-on installieren">
+<!ENTITY addon.updateNow.label                "Jetzt aktualisieren">
+<!ENTITY addon.updateNow.tooltip              "Das Update für dieses Add-on installieren">
 <!ENTITY addon.checkingForUpdates.label       "Auf Updates prüfen…">
+<!ENTITY addon.releaseNotes.label             "Versionshinweise:">
+<!ENTITY addon.loadingReleaseNotes.label      "Wird geladen…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Während des Ladens der Versionshinweise ist ein Fehler aufgetreten.">
+
 
 <!ENTITY addon.createdBy.label                "Von ">
