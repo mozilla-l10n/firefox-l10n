@@ -1,15 +1,15 @@
-<!ENTITY aboutSupport.pageTitle "Dados para solução de problemas">
+<!ENTITY aboutSupport.pageTitle "Dados para suporte">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Esta página contém informações técnicas que podem ser úteis se você estiver
-  tentando solucionar um problema. Se estiver procurando respostas sobre dúvidas comuns
+  tentando solucionar um problema. Se estiver procurando respostas para as dúvidas mais comuns
   do &brandShortName;, confira o <a id='supportLink'>site de suporte</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensões">
 <!ENTITY aboutSupport.extensionName "Nome">
-<!ENTITY aboutSupport.extensionEnabled "Ativo">
+<!ENTITY aboutSupport.extensionEnabled "Ativa">
 <!ENTITY aboutSupport.extensionVersion "Versão">
 <!ENTITY aboutSupport.extensionId "ID">
 
