@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder               "Rechercher dans tous les modules">
 <!ENTITY loading.label                    "Chargement…">
 <!ENTITY listEmpty.installed.label        "Vous n'avez aucun module de ce type installé">
+<!ENTITY listEmpty.availableUpdates.label "Aucune mise à jour trouvée">
+<!ENTITY listEmpty.recentUpdates.label    "Vous n'avez pas mis à jour vos modules complémentaires depuis un certain temps">
+<!ENTITY listEmpty.findUpdates.label      "Vérifier les mises à jour">
 <!ENTITY listEmpty.search.label           "Aucun module correspondant">
 <!ENTITY listEmpty.button.label           "En apprendre plus sur les modules complémentaires">
 
@@ -14,14 +17,23 @@
 <!ENTITY view.features.label              "Extensions">
 <!ENTITY view.appearance.label            "Thèmes">
 <!ENTITY view.plugins.label               "Plugins">
+<!ENTITY view.recentUpdates.label         "Mises à jour récentes">
+<!ENTITY view.availableUpdates.label      "Mises à jour disponibles">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label          "Mettre à jour les modules">
+<!ENTITY updates.updateAddonsNow.label        "Mettre à jour les modules complémentaires maintenant">
+<!ENTITY updates.updateAddonsNow.accesskey    "M">
+<!ENTITY updates.viewUpdates.label            "Afficher les mises à jour récentes">
+<!ENTITY updates.viewUpdates.accesskey        "A">
+<!ENTITY updates.backgroudUpdateCheck.label   "Vérifier les mises à jour automatiquement">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "V">
 <!ENTITY updates.updating.label           "Mise à jour des modules">
 <!ENTITY updates.installed.label          "Vos modules ont été mis à jour.">
 <!ENTITY updates.downloaded.label         "Les mises à jour de vos modules ont été téléchargées.">
 <!ENTITY updates.restart.label            "Redémarrer maintenant pour terminer l'installation">
 <!ENTITY updates.noneFound.label          "Aucune mise à jour disponible">
+<!ENTITY updates.manualUpdatesFound.label "Afficher les mises à jour dipsonibles">
+
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label            "Afficher plus d'informations">
@@ -44,6 +56,10 @@
 <!ENTITY cmd.contribute.label             "Contribuer">
 <!ENTITY cmd.contribute.accesskey         "C">
 <!ENTITY cmd.contribute.tooltip           "Contribuer au développement de ce module complémentaire">
+<!ENTITY cmd.showReleaseNotes.label       "Afficher les notes de version">
+<!ENTITY cmd.showReleaseNotes.tooltip     "Afficher les notes de version pour cette mise à jour">
+<!ENTITY cmd.hideReleaseNotes.label       "Masquer les notes de version">
+<!ENTITY cmd.hideReleaseNotes.tooltip     "Masquer les notes de version pour cette mise à jour">
 
 <!-- detail view -->
 <!ENTITY detail.version.label             "Version">
@@ -91,6 +107,7 @@
 <!ENTITY addon.homepage                   "Page d'accueil">
 <!ENTITY addon.unknownDate                "Inconnue">
 <!ENTITY addon.disabled.postfix           "(désactivé)">
+<!ENTITY addon.update.postfix             "Mettre à jour">
 <!ENTITY addon.undo.label                 "Annuler ?">
 <!ENTITY addon.undo.tooltip               "Annuler cette action">
 <!ENTITY addon.undoUninstall.label        "Annuler ?">
@@ -99,6 +116,11 @@
 <!ENTITY addon.restartNow.tooltip         "Redémarrer maintenant pour terminer cette installation">
 <!ENTITY addon.install.label              "Installer">
 <!ENTITY addon.install.tooltip            "Installer ce module complémentaire">
+<!ENTITY addon.updateNow.label            "Mettre à jour maintenant">
+<!ENTITY addon.updateNow.tooltip          "Installer la mise à jour pour ce module complémentaire">
 <!ENTITY addon.checkingForUpdates.label   "Vérification des mises à jour…">
+<!ENTITY addon.releaseNotes.label         "Notes de version :">
+<!ENTITY addon.loadingReleaseNotes.label  "Chargement…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Il y a eu une erreur lors du chargement des notes de version.">
 
 <!ENTITY addon.createdBy.label            "Par ">
