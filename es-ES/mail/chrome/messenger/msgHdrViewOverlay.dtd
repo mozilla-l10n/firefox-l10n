@@ -63,6 +63,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
 <!ENTITY detachAttachmentCmd.label "Separar adjuntos…">
 <!ENTITY deleteAttachmentCmd.label "Eliminar">
+<!ENTITY openAllAttachmentsCmd.label "Abrir todo…">
+<!ENTITY openAllAttachmentsCmd.accesskey "o">
 <!ENTITY saveAllAttachmentsCmd.label "Guardar todo…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "G">
 <!ENTITY detachAllAttachmentsCmd.label "Separar todos los adjuntos…">
