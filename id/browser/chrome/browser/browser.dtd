@@ -175,6 +175,7 @@
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeksi">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectNextButton.label      "Selanjutnya">
@@ -255,6 +256,8 @@
 <!ENTITY appMenuToolbarLayout.label "Tata Letak Bilah Alat…">
 <!ENTITY appMenuSidebars.label "Bilah Samping">
 <!ENTITY appMenuHelp.label "Bantuan">
+
+<!ENTITY developerMenu.label "Pengembang">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Kunjungi sebuah Situs Web">

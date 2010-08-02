@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Cari pengaya">
 <!ENTITY loading.label                        "Memuat…">
 <!ENTITY listEmpty.installed.label            "Anda tidak memiliki pengaya terpasang jenis ini">
+<!ENTITY listEmpty.availableUpdates.label     "Tidak ada versi baru ditemukan">
+<!ENTITY listEmpty.recentUpdates.label        "Anda masih belum memasang versi baru pengaya">
+<!ENTITY listEmpty.findUpdates.label          "Periksa Versi Baru">
 <!ENTITY listEmpty.search.label               "Tidak dapat menemukan pengaya yang cocok">
 <!ENTITY listEmpty.button.label               "Pelajari lebih lanjut tentang pengaya">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Ekstensi">
 <!ENTITY view.appearance.label                "Tema">
 <!ENTITY view.plugins.label                   "Plugin">
+<!ENTITY view.recentUpdates.label             "Versi Baru">
+<!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Perbarui pengaya">
-<!ENTITY updates.updating.label               "Memperbarui pengaya">
+<!ENTITY updates.updateAddonsNow.label        "Perbarui Pengaya Sekarang">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.viewUpdates.label            "Tampilkan Versi Baru">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Otomatis Periksa Versi Baru">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "O">
+<!ENTITY updates.updating.label               "Memperbarui pengaya‚">
 <!ENTITY updates.installed.label              "Pengaya Anda telah diperbarui.">
 <!ENTITY updates.downloaded.label             "Versi baru pengaya Anda telah diunduh.">
 <!ENTITY updates.restart.label                "Mulai ulang sekarang untuk menyelesaikan pemasangan">
 <!ENTITY updates.noneFound.label              "Tidak ada versi baru ditemukan">
+<!ENTITY updates.manualUpdatesFound.label     "Tampilkan Versi Baru yang Tersedia">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Tampilkan informasi lebih lanjut">
@@ -36,18 +47,20 @@
 
 <!ENTITY cmd.enableAddon.label                "Aktifkan">
 <!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.enableAddon.tooltip              "Aktifkan pengaya ini">
 <!ENTITY cmd.disableAddon.label               "Matikan">
 <!ENTITY cmd.disableAddon.accesskey           "M">
-<!ENTITY cmd.disableAddon.tooltip             "Matikan pengaya ini">
 <!ENTITY cmd.uninstallAddon.label             "Hapus">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
-<!ENTITY cmd.uninstallAddon.tooltip           "Hapus pemasangan pengaya ini">
 <!ENTITY cmd.showPreferences.label            "Pengaturan">
 <!ENTITY cmd.showPreferences.tooltip          "Ubah pengaturan pengaya ini">
 <!ENTITY cmd.contribute.label                 "Berkontribusi">
 <!ENTITY cmd.contribute.accesskey             "k">
 <!ENTITY cmd.contribute.tooltip               "Ikut berkontribusi pengembangan pengaya ini">
+
+<!ENTITY cmd.showReleaseNotes.label           "Tampilkan Catatan Rilis">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Tampilkan catatan rilis versi baru ini">
+<!ENTITY cmd.hideReleaseNotes.label           "Sembunyikan Catatan Rilis">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Sembunyikan catatan rilis versi baru ini">
 
 
 <!-- detail view -->
@@ -99,6 +112,7 @@
 <!ENTITY addon.homepage                       "Beranda">
 <!ENTITY addon.unknownDate                    "Tidak dikenali">
 <!ENTITY addon.disabled.postfix               "(dimatikan)">
+<!ENTITY addon.update.postfix                 "Perbarui">
 <!ENTITY addon.undo.label                     "Batalkan?">
 <!ENTITY addon.undo.tooltip                   "Batalkan aksi ini">
 <!ENTITY addon.undoUninstall.label            "Batalkan?">
@@ -107,6 +121,11 @@
 <!ENTITY addon.restartNow.tooltip             "Mulai ulang sekarang untuk menyelesaikan pemasangan">
 <!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang pengaya ini">
+<!ENTITY addon.updateNow.label                "Perbarui Sekarang">
+<!ENTITY addon.updateNow.tooltip              "Pasang versi baru pengaya ini">
 <!ENTITY addon.checkingForUpdates.label       "Memeriksa versi baru…">
+<!ENTITY addon.releaseNotes.label             "Catatan Rilis:">
+<!ENTITY addon.loadingReleaseNotes.label      "Memuat…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, ada kesalahan ketika memuat catatan rilis.">
 
 <!ENTITY addon.createdBy.label                "Oleh ">
