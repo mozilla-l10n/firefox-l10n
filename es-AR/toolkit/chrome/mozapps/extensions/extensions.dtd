@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Buscar todos los complementos">
 <!ENTITY loading.label                        "Cargando…">
 <!ENTITY listEmpty.installed.label            "No tiene instalado ningún complemento de este tipo">
+<!ENTITY listEmpty.availableUpdates.label     "No se encontraron actualizaciones">
+<!ENTITY listEmpty.recentUpdates.label        "No ha habido actualizaciones recientes de ningún complemento">
+<!ENTITY listEmpty.findUpdates.label          "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label               "No se pudo encontrar ningún complemento que coincida">
 <!ENTITY listEmpty.button.label               "Conocer más sobre complementos">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Extensiones">
 <!ENTITY view.appearance.label                "Temas">
 <!ENTITY view.plugins.label                   "Plugins">
+<!ENTITY view.recentUpdates.label             "Actualizaciones recientes">
+<!ENTITY view.availableUpdates.label          "Actualizaciones disponibles">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Actualizar complementos">
+<!ENTITY updates.updateAddonsNow.label        "Actualizar complementos">
+<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.viewUpdates.label            "Ver actualizaciones recientes">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Buscar actualizaciones automáticamente">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "c">
 <!ENTITY updates.updating.label               "Actualizando complementos">
 <!ENTITY updates.installed.label              "Sus complementos han sido actualizados.">
 <!ENTITY updates.downloaded.label             "Sus actualizaciones a los complementos han sido descargadas.">
 <!ENTITY updates.restart.label                "Reiniciar ahora para completar la instalación">
 <!ENTITY updates.noneFound.label              "No se encontraron actualizaciones">
+<!ENTITY updates.manualUpdatesFound.label     "Ver actualizaciones disponibles">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostrar más información">
@@ -46,6 +57,11 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
 
+<!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de la versión">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar las notas de la versión para esta actualización">
+<!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de la versión">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar las notas de la versión para esta actualización">
+
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versión">
 <!ENTITY detail.updated.label                 "Actualizado">
@@ -63,12 +79,14 @@
 <!ENTITY detail.showPreferences.accesskey     "P">
 <!ENTITY detail.showPreferences.tooltip       "Cambiar las preferencias para este complemento">
 
+
 <!-- ratings -->
 <!ENTITY rating.label                         "Puntuación:">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 <!ENTITY progress.cancel.tooltip              "Cancelar">
+
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nombre">
@@ -79,6 +97,7 @@
 <!ENTITY sort.dateUpdated.tooltip             "Ordenar por fecha de actualización">
 <!ENTITY sort.rating.label                    "Puntuación">
 <!ENTITY sort.rating.tooltip                  "Ordenar por puntuación promedio">
+
 
 <!ENTITY showMore.label                       "Mostrar más">
 <!ENTITY showMore.tooltip                     "Mostrar más detalles">
@@ -92,6 +111,7 @@
 <!ENTITY addon.homepage                       "Sitio web">
 <!ENTITY addon.unknownDate                    "Desconocida">
 <!ENTITY addon.disabled.postfix               "(deshabilitado)">
+<!ENTITY addon.update.postfix                 "Actualizar">
 <!ENTITY addon.undo.label                     "¿Deshacer?">
 <!ENTITY addon.undo.tooltip                   "Deshacer esta acción">
 <!ENTITY addon.undoUninstall.label            "¿Deshacer?">
@@ -100,6 +120,11 @@
 <!ENTITY addon.restartNow.tooltip             "Reiniciar ahora para completar la instalación">
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instalar este complemento">
+<!ENTITY addon.updateNow.label                "Actualizar ahora">
+<!ENTITY addon.updateNow.tooltip              "Instalar la actualización para este complemento">
 <!ENTITY addon.checkingForUpdates.label       "Buscar actualizaciones…">
+<!ENTITY addon.releaseNotes.label             "Notas de la versión:">
+<!ENTITY addon.loadingReleaseNotes.label      "Cargand…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Lo siento, hubo un error cargando las notas de la versión.">
 
 <!ENTITY addon.createdBy.label                "Por ">
