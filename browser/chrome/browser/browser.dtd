@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privater Modus)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label           			"Neuer Tab">
-<!ENTITY  newTab.accesskey       			"N">
 <!ENTITY  reloadTab.label        			"Tab neu laden">
 <!ENTITY  reloadTab.accesskey         		"l">
 <!ENTITY  reloadAllTabs.label    			"Alle Tabs neu laden">
@@ -289,16 +287,16 @@
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY openLinkCmdInTab.label       "Link in neuem Tab öffnen">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Link in neuem Fenster öffnen">
 <!ENTITY openLinkCmd.accesskey        "F">
 <!ENTITY openLinkCmdInCurrent.label     "Link öffnen">
 <!ENTITY openLinkCmdInCurrent.accesskey "k">
-<!ENTITY openLinkCmdInTab.label       "Link in neuem Tab öffnen">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openFrameCmd.label           "Frame in neuem Fenster öffnen">
-<!ENTITY openFrameCmd.accesskey       "F">
 <!ENTITY openFrameCmdInTab.label      "Frame in neuem Tab öffnen">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "Frame in neuem Fenster öffnen">
+<!ENTITY openFrameCmd.accesskey       "F">
 <!ENTITY showOnlyThisFrameCmd.label     "Nur diesen Frame anzeigen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
 <!ENTITY reloadCmd.commandkey         "r">
