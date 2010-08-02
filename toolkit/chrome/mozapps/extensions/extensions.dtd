@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Søk i alle utvidingane">
 <!ENTITY loading.label                        "Lastar …">
 <!ENTITY listEmpty.installed.label            "Du har ingen utvidingar av denne typen installert">
+<!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
+<!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert nokre utvidingar">
+<!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
 <!ENTITY listEmpty.search.label               "Klarte ikkje å finne passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Utvidingar">
 <!ENTITY view.appearance.label                "Tema">
 <!ENTITY view.plugins.label                   "Programtillegg">
+<!ENTITY view.recentUpdates.label             "Nyleg oppdatert">
+<!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Oppdater utvidingane">
+<!ENTITY updates.updateAddonsNow.label        "Oppdater utvidingane no">
+<!ENTITY updates.updateAddonsNow.accesskey    "O">
+<!ENTITY updates.viewUpdates.label            "Vis nyleg oppdaterte">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Søk etter oppdateringar automatisk">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "S">
 <!ENTITY updates.updating.label               "Oppdaterer utvidingane">
 <!ENTITY updates.installed.label              "Utvidingane er oppdaterte">
 <!ENTITY updates.downloaded.label             "Oppdateringar til utvidingane er lasta ned.">
 <!ENTITY updates.restart.label                "Start på nytt no for å fullføre installeringa">
 <!ENTITY updates.noneFound.label              "Fann ingen oppdateringar">
+<!ENTITY updates.manualUpdatesFound.label     "Vis tilgjengelege oppdateringar">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Vis detaljar">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bidra til utviklinga av denne utvidinga">
 
+<!ENTITY cmd.showReleaseNotes.label           "Vis versjonsnotat">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Vis versjonsnotatet for denne oppdateringa">
+<!ENTITY cmd.hideReleaseNotes.label           "Skjul versjonsnotatet">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Skjuler versjonsnotatet for denne versjonen">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -96,6 +111,7 @@
 <!ENTITY addon.homepage                       "Heimeside">
 <!ENTITY addon.unknownDate                    "Ukjent">
 <!ENTITY addon.disabled.postfix               "(slått av)">
+<!ENTITY addon.update.postfix                 "Oppdater">
 <!ENTITY addon.undo.label                     "Angre?">
 <!ENTITY addon.undo.tooltip                   "Angre denne handlinga">
 <!ENTITY addon.undoUninstall.label            "Angre?">
@@ -104,6 +120,11 @@
 <!ENTITY addon.restartNow.tooltip             "Start på nytt for å fullføre installeringa">
 <!ENTITY addon.install.label                  "Installer">
 <!ENTITY addon.install.tooltip                "Installer denne utvidinga">
+<!ENTITY addon.updateNow.label                "Oppdater no">
+<!ENTITY addon.updateNow.tooltip              "Installer oppdateringa for denne utvidinga">
 <!ENTITY addon.checkingForUpdates.label       "Ser etter oppdateringer …">
+<!ENTITY addon.releaseNotes.label             "Versjonsnotat:">
+<!ENTITY addon.loadingReleaseNotes.label      "Lastar …">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Beklagar, men ein feil oppstod under lasting av versjonsnotatet.">
 
 <!ENTITY addon.createdBy.label                "Av">
