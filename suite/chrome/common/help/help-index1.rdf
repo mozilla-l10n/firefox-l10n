@@ -7,7 +7,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="return_receipts"
          nc:name="acuses de recibo"
-         nc:link="mail_help.xhtml#return_receipts"/>
+         nc:link="mailnews_account_settings.xhtml#return_receipts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="password_manager"
@@ -294,7 +294,7 @@
      <rdf:li>
        <rdf:Description ID="mail"
          nc:name="configuraci&#243;n de seguridad de correo"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="JSConsole"
@@ -629,7 +629,7 @@
      <rdf:li>
        <rdf:Description ID="settings:signed_and_encrypted mail"
          nc:name="configuraci&#243;n de correo cifrado y firmado"
-         nc:link="mail_help.xhtml#security"/>
+         nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="settings:SSL"
@@ -774,7 +774,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
          nc:name="configuraci&#243;n avanzada de IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
@@ -799,7 +799,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
          nc:name="configuraci&#243;n de copias y carpetas"
-         nc:link="mail_help.xhtml#copies_and_folders"/>
+         nc:link="mailnews_account_settings.xhtml#copies_and_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copying_folders"
@@ -824,7 +824,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
          nc:name="configuraci&#243;n de espacio en disco y almacenamiento"
-         nc:link="mail_help.xhtml#synchronization_and_storage"/>
+         nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
@@ -864,7 +864,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
          nc:name="configuraci&#243;n de identidad"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
@@ -884,12 +884,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
          nc:name="configuraci&#243;n de sincronizaci&#243;n sin conexi&#243;n"
-         nc:link="mail_help.xhtml#synchronization_and_storage"/>
+         nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
          nc:name="configuraci&#243;n POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:renaming_folders"
@@ -929,7 +929,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
          nc:name="configuraci&#243;n de SMTP"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
@@ -1107,7 +1107,7 @@
      <rdf:li>
        <rdf:Description ID="Newsgroups:server_settings"
          nc:name="configuraci&#243;n del servidor de gruops de noticias"
-         nc:link="mail_help.xhtml#server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1160,7 +1160,7 @@
      <rdf:li>
        <rdf:Description ID="IMAP"
          nc:name="IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import"
@@ -1229,17 +1229,17 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="IMAP:about"
          nc:name="acerca de IMAP"
-         nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:advanced_mail_settings"
          nc:name="configuraci&#243;n avanzada de correo IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="IMAP:server_settings"
          nc:name="configuraci&#243;n de servidor IMAP"
-         nc:link="mail_help.xhtml#imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#imap_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1682,7 +1682,7 @@
      <rdf:li>
        <rdf:Description ID="POP"
          nc:name="POP"
-         nc:link="mail_help.xhtml#about_post_office_protocol"/>
+         nc:link="mailnews_account_settings.xhtml#about_post_office_protocol"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences"
@@ -1806,7 +1806,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="POP:server_settings"
          nc:name="configuraci&#243;n del servidor POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2133,12 +2133,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="SMTP:choosing_a_different"
          nc:name="elegir un servidor SMTP diferente"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="SMTP:server_settings"
          nc:name="SMTP server settings"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

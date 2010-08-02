@@ -66,7 +66,6 @@
         <rdf:li> <rdf:Description nc:name="firma de objetos" nc:link="glossary.xhtml#object_signing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="firma digital" nc:link="glossary.xhtml#digital_signature"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FTP (protocolo de transferencia de ficheros)" nc:link="glossary.xhtml#ftp"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTML (lenguaje de hipertexto basado en marcas)" nc:link="glossary.xhtml#html"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTTP (protocolo de transferencias de hipertexto)" nc:link="glossary.xhtml#http"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTTPS (protocolo seguro de transferencias de hipertexto)" nc:link="glossary.xhtml#https"/> </rdf:li>

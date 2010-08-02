@@ -62,6 +62,7 @@
 <!ENTITY newimButton.label "Mensaje instantáneo">
 <!ENTITY newimButton.accesskey "I">
 <!ENTITY searchNameAndEmail.placeholder "Buscar en el nombre y dirección de correo">
+<!ENTITY searchBox.title "Buscar">
 <!ENTITY addressbookToolbar.tooltip "Barra de herramientas de direcciones">
 <!ENTITY newContactButton.tooltip "Crear un nuevo contacto de la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
