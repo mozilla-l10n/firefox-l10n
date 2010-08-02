@@ -1,15 +1,15 @@
-<!ENTITY reportSite "Retejo">
-<!ENTITY reportProblemType "Tipo de problemo">
-<!ENTITY reportDecsription "Priskribo">
-<!ENTITY reportPlatform "Platformo">
-<!ENTITY reportProduct "Produkto">
-<!ENTITY reportoscpu "Mastruma sistemo">
-<!ENTITY reportGecko "Gecko">
-<!ENTITY reportBuildConfig "Build Config">
-<!ENTITY reportUseragent "Useragent">
-<!ENTITY reportLanguage "Lingvo">
-<!ENTITY reportCharset "Charset">
-<!ENTITY reportEmail "Retpoŝto">
-<!ENTITY error "Detaloj de la eraro">
-<!ENTITY faultCode "Kodo">
-<!ENTITY faultMessage "Mesaĝo">
+<!ENTITY reportSite                  "Retejo">
+<!ENTITY reportProblemType           "Tipo de problemo">
+<!ENTITY reportDecsription           "Priskribo">
+<!ENTITY reportPlatform              "Platformo">
+<!ENTITY reportProduct               "Produkto">
+<!ENTITY reportoscpu                 "Mastruma sistemo">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Build Config">
+<!ENTITY reportUseragent             "Useragent">
+<!ENTITY reportLanguage              "Lingvo">
+<!ENTITY reportCharset               "Charset">
+<!ENTITY reportEmail                 "Retpoŝto">
+<!ENTITY error                       "Detaloj de la eraro">
+<!ENTITY faultCode                   "Kodo">
+<!ENTITY faultMessage                "Mesaĝo">

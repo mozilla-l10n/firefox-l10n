@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Agordoj povas esti ŝanĝitaj per uzado de la folio Programoj en la preferoj de &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "Agordoj povas esti ŝanĝitaj per uzado de la folio Programoj en la opcioj de &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Agordoj povas esti ŝanĝitaj per uzado de la folio Programoj en la preferoj de &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Agordoj povas esti ŝanĝitaj per uzado de la folio Programoj en la opcioj de &brandShortName;.">

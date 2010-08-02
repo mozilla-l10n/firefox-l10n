@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label "Persone agordi signan enkodigon">
-<!ENTITY current.label "Aktivaj signaj enkodigoj:">
-<!ENTITY remove.label "Forigi">
-<!ENTITY remove.accessKey "F">
-<!ENTITY additional.label "Disponeblaj signaj enkodigoj:">
-<!ENTITY add.label "Aldoni">
-<!ENTITY add.accessKey "A">
-<!ENTITY moveUp.label "Movi supren">
-<!ENTITY moveUp.accessKey "S">
-<!ENTITY moveDown.label "Movi malsupren">
+<!ENTITY title.label        "Persone agordi signan enkodigon">
+<!ENTITY current.label      "Aktivaj signaj enkodigoj:">
+<!ENTITY remove.label       "Forigi">
+<!ENTITY remove.accessKey   "F">
+<!ENTITY additional.label   "Disponeblaj signaj enkodigoj:">
+<!ENTITY add.label          "Aldoni">
+<!ENTITY add.accessKey      "A">
+<!ENTITY moveUp.label       "Movi supren">
+<!ENTITY moveUp.accessKey   "S">
+<!ENTITY moveDown.label     "Movi malsupren">
 <!ENTITY moveDown.accessKey "M">

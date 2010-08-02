@@ -1,62 +1,62 @@
-<!ENTITY updateWizard.title "Ĝisdatigo de &brandShortName;">
+<!ENTITY  updateWizard.title              "Ĝisdatigo de &brandShortName;">
 
-<!ENTITY offline.title "&brandShortName; estas en malkonektita reĝimo">
-<!ENTITY offline.description "&brandShortName; devas konektiĝi antaŭ ol povi vidi ĉu ekzistas ĝisdatigoj por viaj kromprogramoj tiel ke ili kongruos kun tiu ĉi versio.">
-<!ENTITY offline.toggleOffline.label "Konektiĝi nun.">
-<!ENTITY offline.toggleOffline.accesskey "K">
+<!ENTITY  offline.title                   "&brandShortName; estas en malkonektita reĝimo">
+<!ENTITY  offline.description             "&brandShortName; devas konektiĝi antaŭ ol povi vidi ĉu ekzistas ĝisdatigoj por viaj kromprogramoj tiel ke ili kongruos kun tiu ĉi versio.">
+<!ENTITY  offline.toggleOffline.label     "Konektiĝi nun.">
+<!ENTITY  offline.toggleOffline.accesskey "K">
 
-<!ENTITY mismatch.win.title "Nekongruaj kromprogramoj">
-<!ENTITY mismatch.top.label "La jenaj kromprogramoj ne kongruas kun tiu ĉi versio de 
+<!ENTITY  mismatch.win.title              "Nekongruaj kromprogramoj">
+<!ENTITY  mismatch.top.label              "La jenaj kromprogramoj ne kongruas kun tiu ĉi versio de 
 &brandShortName; kaj tial ili estis malaktivigitaj:">
-<!ENTITY mismatch.bottom.label "&brandShortName; povas kontroli ĉu ekzistas kongruaj versioj 
+<!ENTITY  mismatch.bottom.label           "&brandShortName; povas kontroli ĉu ekzistas kongruaj versioj 
 de tiuj ĉi kromprogramoj.">
 
-<!ENTITY checking.wizard.title "Kontrolado de kongruaj kromprogramoj">
-<!ENTITY checking.top.label "Kontrolado de ĝisdatigoj por viaj nekongruaj kromprogramoj…">
-<!ENTITY checking.status "Tio povas postuli kelkajn minutojn…">
+<!ENTITY  checking.wizard.title           "Kontrolado de kongruaj kromprogramoj">
+<!ENTITY  checking.top.label              "Kontrolado de ĝisdatigoj por viaj nekongruaj kromprogramoj…">
+<!ENTITY  checking.status                 "Tio povas postuli kelkajn minutojn…">
 
-<!ENTITY found.wizard.title "Kongruaj kromprogramoj trovitaj">
-<!ENTITY found.top.label "Elektu la kromprogramojn kiujn vi ŝatus instali:">
-<!ENTITY found.disabledXPinstall.label "Tiuj ĝisdatigoj ne povis esti instalitaj ĉar la instalado de programoj 
+<!ENTITY  found.wizard.title               "Kongruaj kromprogramoj trovitaj">
+<!ENTITY  found.top.label                 "Elektu la kromprogramojn kiujn vi ŝatus instali:">
+<!ENTITY  found.disabledXPinstall.label   "Tiuj ĝisdatigoj ne povis esti instalitaj ĉar la instalado de programoj 
 estas nuntempe malaktiva. Vi povas ŝanĝi tiun agordon malsupre.">
-<!ENTITY found.enableXPInstall.label "Permesi al retejoj la instaladon de programoj">
-<!ENTITY found.enableXPInstall.accesskey "P">
+<!ENTITY  found.enableXPInstall.label     "Permesi al retejoj la instaladon de programoj">
+<!ENTITY  found.enableXPInstall.accesskey "P">
 
-<!ENTITY installing.wizard.title "Instalado de kongruaj kromprogramoj">
-<!ENTITY installing.top.label "Elŝutado kaj instalado de ĝisdatigoj por viaj kromprogramoj…">
+<!ENTITY  installing.wizard.title         "Instalado de kongruaj kromprogramoj">
+<!ENTITY  installing.top.label            "Elŝutado kaj instalado de ĝisdatigoj por viaj kromprogramoj…">
 
-<!ENTITY noupdates.wizard.title "Neniu kongrua kromprogramo trovita">
-<!ENTITY noupdates.intro.desc "&brandShortName; ne povis trovi ĝisdatigojn por viaj 
+<!ENTITY  noupdates.wizard.title          "Neniu kongrua kromprogramo trovita">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; ne povis trovi ĝisdatigojn por viaj 
 nekongruaj kromprogramoj.">
-<!ENTITY noupdates.error.desc "Okazis kelkaj problemoj dum la klopodo trovi ĝisdatigojn.">
-<!ENTITY noupdates.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos vin 
+<!ENTITY  noupdates.error.desc            "Okazis kelkaj problemoj dum la klopodo trovi ĝisdatigojn.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; regule kontrolos kaj informos vin 
 ĉu ekzistas kongruaj ĝisdatigoj por tiuj ĉi kromprogramoj.">
 
-<!ENTITY finished.wizard.title "Kongruaj kromprogramoj instalitaj">
-<!ENTITY finished.top.label "&brandShortName; instalis la ĝisdatigojn por viaj kromprogramoj.">
-<!ENTITY finished.checkDisabled.desc "&brandShortName; povas regule kontroli kaj informi al vi 
+<!ENTITY  finished.wizard.title           "Kongruaj kromprogramoj instalitaj">
+<!ENTITY  finished.top.label              "&brandShortName; instalis la ĝisdatigojn por viaj kromprogramoj.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; povas regule kontroli kaj informi al vi 
 kiam ĝisdatigoj por kromprogramoj estas trovitaj.">
-<!ENTITY finished.checkEnabled.desc "&brandShortName; regule kontrolos kaj informos vin 
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; regule kontrolos kaj informos vin 
  
 kiam ĝisdatigoj por kromprogramoj estos trovitaj.">
 
-<!ENTITY adminDisabled.wizard.title "Ne eblas kontroli la ekziston de ĝisdatigoj">
-<!ENTITY adminDisabled.warning.label "Ne eblas kontroli ĉu ekzistas ĝisdatigoj por nekongruaj kromprogramoj 
+<!ENTITY  adminDisabled.wizard.title      "Ne eblas kontroli la ekziston de ĝisdatigoj">
+<!ENTITY  adminDisabled.warning.label     "Ne eblas kontroli ĉu ekzistas ĝisdatigoj por nekongruaj kromprogramoj 
 ĉar la instalado de programoj estis malaktivigita por &brandShortName;. 
 Bonvolu kontakti vian sisteman administranton por asistado.">
 
-<!ENTITY versioninfo.wizard.title "Kontrolado de kongrueco de kromprogramoj">
-<!ENTITY versioninfo.top.label "Kontrolado de kongrueco de viaj kromprogramoj kun 
+<!ENTITY  versioninfo.wizard.title        "Kontrolado de kongrueco de kromprogramoj">
+<!ENTITY  versioninfo.top.label           "Kontrolado de kongrueco de viaj kromprogramoj kun 
 tiu ĉi versio de &brandShortName;.">
-<!ENTITY versioninfo.waiting "Tio povas postuli kelkajn minutojn…">
+<!ENTITY  versioninfo.waiting             "Tio povas postuli kelkajn minutojn…">
 
-<!ENTITY installerrors.wizard.title "Problemoj dum instalado de ĝisdatigoj">
-<!ENTITY installerrors.intro.label "&brandShortName; havis problemojn dum la ĝisdatigo 
+<!ENTITY  installerrors.wizard.title      "Problemoj dum instalado de ĝisdatigoj">
+<!ENTITY  installerrors.intro.label       "&brandShortName; havis problemojn dum la ĝisdatigo 
 de kelkaj el viaj kromprogramoj.">
-<!-- general strings used by several of the finish pages -->
 
-<!ENTITY clickFinish.label "Alklaku Fini por daŭrigi la starton de &brandShortName;.">
-<!ENTITY clickFinish.labelMac "Alklaku Fini por daŭrigi la starton de &brandShortName;.">
-<!ENTITY enableChecking.label "Permesi al &brandShortName; kontroli ĉu ekzistas ĝisdatigoj.">
-<!ENTITY details.label "Detaloj…">
-<!ENTITY details.accesskey "D">
+<!-- general strings used by several of the finish pages -->
+<!ENTITY  clickFinish.label               "Alklaku Fini por daŭrigi la starton de &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Alklaku Fini por daŭrigi la starton de &brandShortName;.">
+<!ENTITY  enableChecking.label            "Permesi al &brandShortName; kontroli ĉu ekzistas ĝisdatigoj.">
+<!ENTITY  details.label                   "Detaloj…">
+<!ENTITY  details.accesskey               "D">

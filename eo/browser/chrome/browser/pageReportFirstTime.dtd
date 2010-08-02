@@ -1,7 +1,7 @@
-<!ENTITY startDescription.label "Retejo klopodis malfermi ŝprucfenestron sen via permeso. &brandShortName; aŭtomate fermis tiun ŝprucfenestron.  Kiam &brandShortName; blokas tiujn ŝprucfenestrojn vi vidos bildsimbolon en la stata strio.">
+<!ENTITY startDescription.label            "Retejo klopodis malfermi ŝprucfenestron sen via permeso. &brandShortName; aŭtomate fermis tiun ŝprucfenestron.  Kiam &brandShortName; blokas tiujn ŝprucfenestrojn vi vidos bildsimbolon en la stata strio.">
 
-<!ENTITY endDescription.label "Vi povas alklaki tiun ĉi bildsimbolon por vidi kiujn retejojn &brandShortName; blokis kaj por permesi al tiuj retejoj malfermi ŝprucfenestrojn se ili estas postulataj por korekta funkciado de retejo.">
+<!ENTITY endDescription.label              "Vi povas alklaki tiun ĉi bildsimbolon por vidi kiujn retejojn &brandShortName; blokis kaj por permesi al tiuj retejoj malfermi ŝprucfenestrojn se ili estas postulataj por korekta funkciado de retejo.">
 
-<!ENTITY caption.label "Pri blokado de ŝprucfenestroj">
+<!ENTITY caption.label                     "Pri blokado de ŝprucfenestroj">
 
 <!ENTITY done.label "Preta">

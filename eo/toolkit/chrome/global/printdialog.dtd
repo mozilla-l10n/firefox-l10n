@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Presa amplekso">
 <!ENTITY allpagesRadio.label "Ĉiuj paĝoj">
 <!ENTITY allpagesRadio.accesskey "I">
-<!ENTITY rangeRadio.label "Paĝoj">
-<!ENTITY rangeRadio.accesskey "P">
-<!ENTITY frompageInput.label "ekde">
-<!ENTITY frompageInput.accesskey "e">
-<!ENTITY topageInput.label "ĝis">
-<!ENTITY topageInput.accesskey "s">
+<!ENTITY rangeRadio.label  "Paĝoj">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "ekde">
+<!ENTITY frompageInput.accesskey  "e">
+<!ENTITY topageInput.label  "ĝis">
+<!ENTITY topageInput.accesskey  "s">
 <!ENTITY selectionRadio.label "Elektaĵo">
 <!ENTITY selectionRadio.accesskey "E">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Presi kadrojn">
 <!ENTITY aslaidoutRadio.label "Kiel videblas sur la ekrano">
 <!ENTITY aslaidoutRadio.accesskey "v">
-<!ENTITY selectedframeRadio.label "La elektita kadro">
-<!ENTITY selectedframeRadio.accesskey "l">
-<!ENTITY eachframesepRadio.label "Ĉiu kadro aparte">
-<!ENTITY eachframesepRadio.accesskey "A">
+<!ENTITY selectedframeRadio.label  "La elektita kadro">
+<!ENTITY selectedframeRadio.accesskey  "l">
+<!ENTITY eachframesepRadio.label  "Ĉiu kadro aparte">
+<!ENTITY eachframesepRadio.accesskey  "A">

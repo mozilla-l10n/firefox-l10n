@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "Eraro dum ŝargado de paĝo">
 <!ENTITY retry.label "Klopodu denove">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Konektado malsukcesa">
 <!ENTITY connectionFailure.longDesc "<p>Malgraŭ tio ke la retejo aspektas valida la retlegilo ne sukcesis konektiĝi al ĝi.</p><ul><li>Ĉu eble la retejo estas tempe ne aktiva? Klopodu denove poste.</li><li>Ĉu ankaŭ aliajn retejojn vi ne sukcesas vidi?  Kontrolu la retan konekton de la komputilo.</li><li>Ĉu vi komputilo aŭ reto estas protektata de retbarilo aŭ retperanto? Malĝustaj agordoj povus malhelpi la retesploradon.</li></ul>">
@@ -57,7 +57,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>La retejo respondis la retpeton en maniero neatendita kaj la retlegilo ne povas daŭrigi.</p>">
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -72,9 +72,12 @@
 <!ENTITY phishingBlocked.title "Suspected Web Forgery!">
 <!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
-
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

@@ -1,112 +1,76 @@
-<!ENTITY history.label "Historio">
+<!ENTITY  history.label                 "Historio">
 
-<!ENTITY locationBar.label "Retadresa strio">
+<!ENTITY  locationBar.label             "Retadresa strio">
 
-<!ENTITY locbar.pre.label "Dum uzado de la retadresa strio, sugesti el:">
-<!ENTITY locbar.pre.accessKey "r">
-<!ENTITY locbar.post.label "">
-<!ENTITY locbar.both.label "Historio kaj paĝosignoj">
-<!ENTITY locbar.history.label "Historio">
-<!ENTITY locbar.bookmarks.label "Paĝosignoj">
-<!ENTITY locbar.nothing.label "Nenio">
-<!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
--->
-
-<!ENTITY rememberDaysBefore.label "Konservi mian historion dum almenaŭ">
-<!ENTITY rememberDaysBefore.accesskey "h">
-<!ENTITY rememberDaysAfter2.label "tagoj">
-
-<!ENTITY rememberForms.label "Memori kion mi tajpas en formularoj kaj en la serĉada strio">
-<!ENTITY rememberForms.accesskey "f">
-
-<!ENTITY rememberDownloads.label "Memori kion mi elŝutis">
-<!ENTITY rememberDownloads.accesskey "e">
+<!ENTITY  locbar.pre.label              "Dum uzado de la retadresa strio, sugesti el:">
+<!ENTITY  locbar.pre.accessKey          "r">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historio kaj paĝosignoj">
+<!ENTITY  locbar.history.label          "Historio">
+<!ENTITY  locbar.bookmarks.label        "Paĝosignoj">
+<!ENTITY  locbar.nothing.label          "Nenio">
 
 
-<!ENTITY cookies.label "Kuketoj">
+<!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
+<!ENTITY  acceptCookies.accesskey       "e">
 
-<!ENTITY acceptCookies.label "Akcepti kuketojn el retejoj">
-<!ENTITY acceptCookies.accesskey "e">
+<!ENTITY  acceptThirdParty.label        "Akcepti nerektajn kuketojn">
+<!ENTITY  acceptThirdParty.accesskey    "e">
 
-<!ENTITY acceptThirdParty.label "Akcepti nerektajn kuketojn">
-<!ENTITY acceptThirdParty.accesskey "e">
+<!ENTITY  keepUntil.label               "Konservi ĝis:">
+<!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY keepUntil.label "Konservi ĝis:">
-<!ENTITY keepUntil.accesskey "K">
+<!ENTITY  expire.label                  "ili senvalidiĝas">
+<!ENTITY  close.label                   "mi finas &brandShortName;">
+<!ENTITY  askEachTime.label             "demandi al mi ĉiun fojon">
 
-<!ENTITY expire.label "ili senvalidiĝas">
-<!ENTITY close.label "mi finas &brandShortName;">
-<!ENTITY askEachTime.label "demandi al mi ĉiun fojon">
+<!ENTITY  cookieExceptions.label        "Esceptoj…">
+<!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY cookieExceptions.label "Esceptoj…">
-<!ENTITY cookieExceptions.accesskey "E">
-
-<!ENTITY showCookies.label "Montri kuketojn…">
-<!ENTITY showCookies.accesskey "M">
+<!ENTITY  showCookies.label             "Montri kuketojn…">
+<!ENTITY  showCookies.accesskey         "M">
 
 
-<!ENTITY privateData.label "Privataj datumoj">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
+<!ENTITY  historyHeader.pre.accesskey      "l">
+<!ENTITY  historyHeader.remember.label     "memoros historion">
+<!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
+<!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY alwaysClear.label "Ĉiam forviŝi miajn privatajn datumojn kiam mi finas &brandShortName;">
-<!ENTITY alwaysClear.accesskey "p">
+<!ENTITY  rememberDescription.label      "&brandShortName; memoros la historion de via retesplorado, elŝutado, serĉadoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
 
-<!ENTITY clearDataSettings.label "Agordoj…">
-<!ENTITY clearDataSettings.accesskey "a">
-
-<!ENTITY historyHeader.pre.label "&brandShortName; :">
-<!ENTITY historyHeader.pre.accesskey "l">
-<!ENTITY historyHeader.remember.label "memoros historion">
-<!ENTITY historyHeader.dontremember.label "neniam memoros historion">
-<!ENTITY historyHeader.custom.label "uzos personajn agordojn por la historio">
-<!ENTITY historyHeader.post.label "">
-
-<!ENTITY rememberDescription.label "&brandShortName; memoros la historion de via retesplorado, elŝutado, serĉadoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Vi eble volos ">
+<!ENTITY  rememberActions.clearHistory.label  "forviŝi vian ĵusan historion">
+<!ENTITY  rememberActions.middle.label        ", aŭ ">
+<!ENTITY  rememberActions.removeCookies.label "forviŝi individuajn kuketojn">
+<!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY rememberActions.pre.label "Vi eble volos ">
-<!ENTITY rememberActions.clearHistory.label "forviŝi vian ĵusan historion">
-<!ENTITY rememberActions.middle.label ", aŭ ">
-<!ENTITY rememberActions.removeCookies.label "forviŝi individuajn kuketojn">
-<!ENTITY rememberActions.post.label ".">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; uzos la samajn agordojn de privata retesplorado, kaj ĝi ne memoros iun historion dum vi esploras la reton.">
 
-<!ENTITY dontrememberDescription.label "&brandShortName; uzos la samajn agordojn de privata retesplorado, kaj ĝi ne memoros iun historion dum vi esploras la reton.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Vi eble volos ankaŭ ">
+<!ENTITY  dontrememberActions.clearHistory.label "forviŝi la tutan aktualan historion">
+<!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY dontrememberActions.pre.label "Vi eble volos ankaŭ ">
-<!ENTITY dontrememberActions.clearHistory.label "forviŝi la tutan aktualan historion">
-<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY privateBrowsingAutoStart.label "Aŭtomate startigu &brandShortName; en reĝimo de privata retesplorado">
-<!ENTITY privateBrowsingAutoStart.accesskey "A">
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.accesskey  "b">
 
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
+<!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
+<!ENTITY  rememberDownload.accesskey     "e">
 
-<!ENTITY rememberHistory.pre.label "Memori mian restesploran historion almenaŭ dum">
-<!ENTITY rememberHistory.pre.accesskey "a">
-<!ENTITY rememberHistory.post.label "tagoj">
+<!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
+<!ENTITY  rememberSearchForm.accesskey   "s">
 
-<!ENTITY rememberDownload.label "Memori mian elŝutan historion">
-<!ENTITY rememberDownload.accesskey "e">
+<!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finas">
+<!ENTITY  clearOnClose.accesskey         "f">
 
-<!ENTITY rememberSearchForm.label "Memori historion de serĉadoj kaj formularoj">
-<!ENTITY rememberSearchForm.accesskey "s">
-
-<!ENTITY clearOnClose.label "Forviŝi historion kiam &brandShortName; finas">
-<!ENTITY clearOnClose.accesskey "f">
-
-<!ENTITY clearOnCloseSettings.label "Agordoj…">
-<!ENTITY clearOnCloseSettings.accesskey "a">
-
-<!ENTITY clearDataNow.label "Forviŝi nun…">
-<!ENTITY clearDataNow.accesskey "F">
+<!ENTITY  clearOnCloseSettings.label     "Agordoj…">
+<!ENTITY  clearOnCloseSettings.accesskey "a">
