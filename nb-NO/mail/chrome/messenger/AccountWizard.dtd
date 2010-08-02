@@ -41,7 +41,7 @@
 <!ENTITY incomingServerLabel.label "Innkommende tjener:">
 <!ENTITY incomingServerLabel.accesskey "k">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Skriv inn navnet på nyhetsgruppetjeneren din (NNTP-tjener, for eksempel «nyheter.eksempel.no»).">
+<!ENTITY newsServerNameDesc.label "Skriv inn navnet på nyhetsgruppetjeneren (NNTP-tjener, for eksempel «nyheter.eksempel.no»).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Skriv inn navnet på tjeneren du bruker for å sende e-post (SMTP-tjener, for eksempel «smtp.eksempel.no»).">
 <!ENTITY smtpServerLabel.label "Utgående tjener:">
@@ -59,7 +59,7 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Din nåværende utgående tjener (SMTP), «">
+<!ENTITY haveSmtp1.prefix "Den nåværende utgående tjeneren (SMTP), «">
 <!ENTITY haveSmtp1.suffix2 "» vil bli brukt. Du kan endre innstillinger for utgående tjener i kontoinnstillingene.">
 
 <!-- Entities for Login page -->
@@ -83,7 +83,7 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Din utgående tjener (SMTP), «">
+<!ENTITY haveSmtp3.prefix "Den utgående tjeneren (SMTP), «">
 <!ENTITY haveSmtp3.suffix2 "» er identisk til din innkommende tjener, og ditt innkommende brukernavn vil bli brukt for å få tilgang til den. Du kan endre utgående tjener i kontoinnstillingene.">
 
 <!-- Entities for Account name page -->

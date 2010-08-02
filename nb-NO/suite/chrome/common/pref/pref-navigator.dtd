@@ -31,4 +31,4 @@
 <!ENTITY defaultBrowserButton.accesskey "a">
 <!ENTITY alreadyDefaultText             "&brandShortName; er allerede standard nettleser.">
 <!ENTITY defaultPendingText             "&brandShortName; vil bli satt som standard nettleser når du trykker på OK.">
-<!ENTITY makeDefaultText                "Sett &brandShortName; som din standard nettleser.">
+<!ENTITY makeDefaultText                "Sett &brandShortName; som standard nettleser.">

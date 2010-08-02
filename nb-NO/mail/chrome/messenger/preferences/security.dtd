@@ -32,7 +32,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; kan huske passordene for alle kontoene dine.">
 <!ENTITY useMasterPassword.label        "Bruk et hovedpassord">
 <!ENTITY useMasterPassword.accesskey    "B">
-<!ENTITY masterPassword.intro           "Du kan bruke et hovedpassord for å beskytte alle passordene dine, men da må du skrive inn passordet en gang for hver programøkt.">
+<!ENTITY masterPassword.intro           "Du kan bruke et hovedpassord for å beskytte alle passordene, men da må du skrive inn passordet en gang for hver programøkt.">
 <!ENTITY changeMasterPassword.label     "Endre hovedpassord …">
 <!ENTITY changeMasterPassword.accesskey "E">
 <!ENTITY savedPasswords.label           "Lagrede passord …">
