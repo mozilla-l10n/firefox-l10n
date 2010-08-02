@@ -21,15 +21,11 @@
 <!ENTITY addToDictionary.label "Afegeix al diccionari">
 
 <!ENTITY bookmarksHeader.label     "Adreces d'interès">
-<!ENTITY bookmarksManage.label     "Gestiona">
 
-<!ENTITY editBookmarkRemove.label  "Suprimeix">
 <!ENTITY editBookmarkTags.label    "Etiquetes:">
 <!ENTITY editBookmarkDone.label    "Fet">
 
-<!ENTITY formHelper.previous       "Anterior">
-<!ENTITY formHelper.next           "Següent">
-<!ENTITY formHelper.done           "Fet">
+<!ENTITY selectHelper.done         "Fet">
 
 <!ENTITY addonsHeader.label        "Complements">
 <!ENTITY addonsLocal.label         "Els vostres complements">
@@ -93,3 +89,7 @@
 
 <!ENTITY contextOpenInNewTab.label "Obre en una pestanya nova">
 <!ENTITY contextSaveImage.label    "Desa la imatge">
+<!ENTITY contextShareLink.label       "Comparteix l'enllaç">
+<!ENTITY contextShareImage.label      "Comparteix la imatge">
+<!ENTITY contextEditBookmark.label    "Edita">
+<!ENTITY contextRemoveBookmark.label  "Suprimeix">
