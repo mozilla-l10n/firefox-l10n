@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Sök bland alla tillägg">
 <!ENTITY loading.label                        "Hämtar…">
 <!ENTITY listEmpty.installed.label            "Du har inga tillägg av den här typen installerade">
+<!ENTITY listEmpty.availableUpdates.label     "Inga uppdateringar hittades">
+<!ENTITY listEmpty.recentUpdates.label        "Du har inte uppdaterat några tillägg nyligen">
+<!ENTITY listEmpty.findUpdates.label          "Sök efter uppdateringar">
 <!ENTITY listEmpty.search.label               "Kunde inte hitta några matchande tillägg">
 <!ENTITY listEmpty.button.label               "Läs mer om tillägg">
 
@@ -15,14 +18,22 @@
 <!ENTITY view.features.label                  "Tillägg">
 <!ENTITY view.appearance.label                "Teman">
 <!ENTITY view.plugins.label                   "Insticksmoduler">
+<!ENTITY view.recentUpdates.label             "Nyligen uppdaterade">
+<!ENTITY view.availableUpdates.label          "Tillgängliga uppdateringar">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Uppdatera tillägg">
+<!ENTITY updates.updateAddonsNow.label        "Uppdatera tillägg nu">
+<!ENTITY updates.updateAddonsNow.accesskey    "U">
+<!ENTITY updates.viewUpdates.label            "Visa nyligen uppdaterade">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Sök automatiskt efter uppdateringar">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "S">
 <!ENTITY updates.updating.label               "Uppdaterar tillägg">
 <!ENTITY updates.installed.label              "Dina tillägg har uppdaterats.">
 <!ENTITY updates.downloaded.label             "Uppdateringarna till tilläggen har hämtats.">
 <!ENTITY updates.restart.label                "Starta om nu för att slutföra installationen">
 <!ENTITY updates.noneFound.label              "Inga uppdateringar hittades">
+<!ENTITY updates.manualUpdatesFound.label     "Se tillgängliga uppdateringar">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Visa mer information">
@@ -46,6 +57,10 @@
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Ge ett bidrag till utvecklingen av detta tillägg">
 
+<!ENTITY cmd.showReleaseNotes.label           "Visa versionsfakta">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Visar versionsfakta för den här uppdateringen">
+<!ENTITY cmd.hideReleaseNotes.label           "Dölj versionsfakta">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Döljer versionsfakta för den här uppdateringen">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -96,6 +111,7 @@
 <!ENTITY addon.homepage                       "Webbplats">
 <!ENTITY addon.unknownDate                    "Okänt">
 <!ENTITY addon.disabled.postfix               "(inaktiverat)">
+<!ENTITY addon.update.postfix                 "Uppdatera">
 <!ENTITY addon.undo.label                     "Ångra?">
 <!ENTITY addon.undo.tooltip                   "Ångra denna åtgärd">
 <!ENTITY addon.undoUninstall.label            "Ångra?">
@@ -104,6 +120,11 @@
 <!ENTITY addon.restartNow.tooltip             "Startar om och slutför installationen">
 <!ENTITY addon.install.label                  "Installera">
 <!ENTITY addon.install.tooltip                "Installerar detta tillägg">
+<!ENTITY addon.updateNow.label                "Uppdatera nu">
+<!ENTITY addon.updateNow.tooltip              "Installerar uppdateringen för det här tillägget">
 <!ENTITY addon.checkingForUpdates.label       "Söker efter uppdateringar…">
+<!ENTITY addon.releaseNotes.label             "Versionsfakta:">
+<!ENTITY addon.loadingReleaseNotes.label      "Hämtar…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Det uppstod tyvärr ett fel vid hämtningen av versionsfakta.">
 
 <!ENTITY addon.createdBy.label                "Av ">
