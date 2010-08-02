@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat browsing)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "Nyt faneblad">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "Genindlæs faneblad">
 <!ENTITY  reloadTab.accesskey                "G">
 <!ENTITY  reloadAllTabs.label                "Genindlæs alle faneblade">
@@ -22,6 +20,10 @@
 <!ENTITY  closeOtherTabs.accesskey           "ø">
 <!ENTITY  openTabInNewWindow.label           "Åbn i et nyt vindue">
 <!ENTITY  openTabInNewWindow.accesskey       "v">
+<!ENTITY  pinTab.label                       "Gør til et programfaneblad">
+<!ENTITY  pinTab.accesskey                   "p">
+<!ENTITY  unpinTab.label                     "Gør til et normalt faneblad">
+<!ENTITY  unpinTab.accesskey                 "n">
 <!ENTITY  bookmarkThisTab.label              "Bogmærk dette faneblad">
 <!ENTITY  bookmarkThisTab.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
@@ -129,6 +131,12 @@
 <!ENTITY bookmarksButton.tooltip        "Vis dine bogmærker">
 <!ENTITY bookmarksButton.accesskey      "B">
 <!ENTITY bookmarksCmd.commandkey        "b">
+
+<!ENTITY bookmarksMenuButton.label          "Bogmærker">
+<!ENTITY bookmarksMenuButton.tooltip        "Vis dine bogmærker">
+<!ENTITY viewBookmarksSidebar.label         "Vis i sidebjælke">
+<!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -158,6 +166,25 @@
 <!ENTITY errorConsoleCmd.label        "Fejlkonsol">
 <!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Web-konsol">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Inspicér">
+<!ENTITY inspectMenu.accesskey        "I">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspicér">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Næste">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Forrige">
+<!ENTITY inspectPreviousButton.accesskey "F">
+<!ENTITY inspectStyleButton.label     "Typografi">
+<!ENTITY inspectStyleButton.accesskey "T">
+<!ENTITY inspectStylePanelTitle.label  "Typografi">
 
 <!ENTITY fileMenu.label         "Filer"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -224,11 +251,16 @@
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 
+<!ENTITY appMenuPrintCmd.label "Udskriv">
+<!ENTITY appMenuCustomize.label "Tilpas">
+<!ENTITY appMenuToolbarLayout.label "Værktøjslinje layout…">
+<!ENTITY appMenuSidebars.label "Sidebjælker">
+<!ENTITY appMenuHelp.label "Hjælp">
+
+<!ENTITY developerMenu.label "Udvikler">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Søg i bogmærker og historik">
-<!ENTITY urlbar.bookmark.emptyText    "Søg i bogmærker">
-<!ENTITY urlbar.history.emptyText     "Søg i historik">
-<!ENTITY urlbar.none.emptyText        "Indtast en webadresse">
+<!ENTITY urlbar.placeholder           "Gå til et websted">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Skift til faneblad:">
 
@@ -340,7 +372,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
 <!ENTITY copyAudioURLCmd.accesskey    "a"> 
-<!ENTITY blockImageCmd.accesskey       "l">
 <!ENTITY copyEmailCmd.label           "Kopier emailadresse">
 <!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Denne ramme">
@@ -475,3 +506,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Klik her for at åbne filhentningsvinduet">
 
 <!ENTITY allTabs.filter.emptyText "Søgefaneblade">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Faneblade">
