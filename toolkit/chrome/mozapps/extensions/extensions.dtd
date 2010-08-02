@@ -2,6 +2,9 @@
 <!ENTITY search.placeholder                   "Cerca tots els complements">
 <!ENTITY loading.label                        "S'està carregant…">
 <!ENTITY listEmpty.installed.label            "No teniu instal·lat cap complement d'aquest tipus">
+<!ENTITY listEmpty.availableUpdates.label     "No s'ha trobat cap actualització">
+<!ENTITY listEmpty.recentUpdates.label        "No heu actualitzat recentment cap complement">
+<!ENTITY listEmpty.findUpdates.label          "Comprova si hi ha actualitzacions">
 <!ENTITY listEmpty.search.label               "No s'ha pogut trobar cap complement que hi coincideixi">
 <!ENTITY listEmpty.button.label               "Més informació dels complements">
 
@@ -14,14 +17,22 @@
 <!ENTITY view.features.label                  "Extensions">
 <!ENTITY view.appearance.label                "Temes">
 <!ENTITY view.plugins.label                   "Connectors">
+<!ENTITY view.recentUpdates.label             "Actualitzacions recents">
+<!ENTITY view.availableUpdates.label          "Actualitzacions disponibles">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Actualitza els complements">
+<!ENTITY updates.updateAddonsNow.label        "Actualitza els complements ara">
+<!ENTITY updates.updateAddonsNow.accesskey    "u">
+<!ENTITY updates.viewUpdates.label            "Visualitza les actualitzacions recents">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.backgroudUpdateCheck.label   "Comprova si hi ha actualitzacions automàticament">
+<!ENTITY updates.backgroudUpdateCheck.accesskey "C">
 <!ENTITY updates.updating.label               "S'estan actualitzant els complements">
 <!ENTITY updates.installed.label              "S'han actualitzat els vostres complements.">
 <!ENTITY updates.downloaded.label             "S'han baixat les actualitzacions dels vostres complements">
 <!ENTITY updates.restart.label                "Reinicia ara per a completar la instal·lació">
 <!ENTITY updates.noneFound.label              "No s'ha trobat cap actualització">
+<!ENTITY updates.manualUpdatesFound.label     "Visualitza les actualitzacions disponibles">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostra més informació">
@@ -44,6 +55,11 @@
 <!ENTITY cmd.contribute.label                 "Col·labora-hi">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Col·labora en el desenvolupament del complement">
+
+<!ENTITY cmd.showReleaseNotes.label           "Mostra les notes de la versió">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Mostra les notes de la versió d'aquesta actualització">
+<!ENTITY cmd.hideReleaseNotes.label           "Amaga les notes de la versió">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Amaga les notes de la versió d'aquesta actualització">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versió">
@@ -91,6 +107,7 @@
 <!ENTITY addon.homepage                       "Pàgina d'inici">
 <!ENTITY addon.unknownDate                    "Desconegut">
 <!ENTITY addon.disabled.postfix               "(inhabilitat)">
+<!ENTITY addon.update.postfix                 "Actualitza">
 <!ENTITY addon.undo.label                     "Ho voleu desfer?">
 <!ENTITY addon.undo.tooltip                   "Voleu desfer l'acció">
 <!ENTITY addon.undoUninstall.label            "Ho voleu desfer?">
@@ -99,6 +116,11 @@
 <!ENTITY addon.restartNow.tooltip             "Reinicia ara per a completar la instal·lació">
 <!ENTITY addon.install.label                  "Instal·la">
 <!ENTITY addon.install.tooltip                "Instal·la el complement">
-<!ENTITY addon.checkingForUpdates.label       "S'estan comprovant les actualitzacions…">
+<!ENTITY addon.updateNow.label                "Actualitza'l ara">
+<!ENTITY addon.updateNow.tooltip              "Instal·la l'actualització del complement">
+<!ENTITY addon.checkingForUpdates.label       "S'està comprovant si hi ha actualitzacions…">
+<!ENTITY addon.releaseNotes.label             "Notes de la versió:">
+<!ENTITY addon.loadingReleaseNotes.label      "S'està carregant…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Ho sentim, però s'ha produït un error mentre en carregar les notes de la versió.">
 
 <!ENTITY addon.createdBy.label                "Per">
