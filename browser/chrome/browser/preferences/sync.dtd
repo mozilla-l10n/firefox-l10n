@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label;-set-up">
+<!ENTITY setupButton.accesskey      "s">
+<!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; kunt u uw geschiedenis, bladwijzers, wachtwoorden en open tabbladen tussen al uw apparaten benaderen.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-account">
+<!ENTITY currentUser.label            "Huidige gebruiker:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Bijwerken">
+<!ENTITY resetPass.label              "Herinitialiseren">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Account beheren">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY changePassword.label         "Wachtwoord wijzigen">
+<!ENTITY changePassphrase.label       "Geheime wachtzin wijzigen">
+<!ENTITY resetSync.label              "Synchronisatie herinitialiseren">
+<!ENTITY differentAccount.label       "Een andere account gebruiken">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browsersynchronisatie">
+<!ENTITY syncComputerName.label       "Computernaam:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; zal: ">
+<!ENTITY syncModeSwitchDesc.accesskey "z">
+<!ENTITY syncEverything.label         "Alles synchroniseren">
+<!ENTITY customSync.label             "Mijn aangepaste instellingen gebruiken">
+<!ENTITY syncEverythingDescription.label  "Uw bladwijzers, geschiedenis, wachtwoorden, voorkeuren en tabbladen zullen worden gesynchroniseerd.">
+<!ENTITY syncItem.bookmarks.label     "Bladwijzers synchroniseren">
+<!ENTITY syncItem.bookmarks.accesskey "B">
+<!ENTITY syncItem.tabs.label          "Tabbladen synchroniseren">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Geschiedenis synchroniseren">
+<!ENTITY syncItem.history.accesskey   "G">
+<!ENTITY syncItem.passwords.label     "Wachtwoorden synchroniseren">
+<!ENTITY syncItem.passwords.accesskey "W">
+<!ENTITY syncItem.prefs.label         "Voorkeuren synchroniseren">
+<!ENTITY syncItem.prefs.accesskey     "V">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Servicevoorwaarden (en)">
+<!ENTITY prefs.ppLink.label         "Privacybeleid (en)">
