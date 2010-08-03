@@ -1,0 +1,99 @@
+<!ENTITY accountSetupTitle.label "Nastavení &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.choicePage.title.label "Znáte a požíváte &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label "&syncBrand.shortName.label; neznám a nepoužívám">
+<!ENTITY setup.choicePage.existing.label "&syncBrand.shortName.label; již používám na jiném počítači">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY connectTo.label "Připojit k">
+<!ENTITY serverType.main.label "Server &syncBrand.fullName.label;">
+<!ENTITY serverType.custom.label "Použít vlastní server">
+<!ENTITY signIn.username.label "Uživatelské jméno">
+<!ENTITY signIn.username.accesskey "U">
+<!ENTITY signIn.password.label "Heslo">
+<!ENTITY signIn.password.accesskey "H">
+<!ENTITY signIn.serverURL.label "URL serveru">
+<!ENTITY signIn.serverURL.accesskey "s">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountPage.title.label "Vytvořte si svůj účet &syncBrand.shortName.label;">
+<!ENTITY setup.confirmPassword.label "Kontrola hesla">
+<!ENTITY setup.confirmPassword.accesskey "K">
+<!ENTITY setup.emailAddress.label "E-mailová adresa">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label "Souhlasím s">
+<!ENTITY setup.tosAgree1.accesskey "S">
+<!ENTITY setup.tosLink.label "podmínkami služby">
+<!ENTITY setup.tosAgree2.label "a">
+<!ENTITY setup.ppLink.label "zásadami ochrany soukromí">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+
+<!-- New Account Page 2: Passphrase Entry -->
+<!ENTITY setup.newPPPage.title.label "Vložte tajnou frázi">
+<!ENTITY passphraseDesc.label "Zadejte prosím tajnou frázi. Bude použita pro k zašifrování všech vašich dat, takže k ním budete mít přístup pouze vy. Není uložena na serveru, proto ji neztraťte!">
+<!ENTITY passphraseDesc2.label "Busí být nejméně 12 znaků dlouhá a nesmí být stejná jako heslo vašeho účtu.">
+<!ENTITY passphraseEntry.label "Tajná fráze">
+<!ENTITY passphraseEntry.accesskey "T">
+<!ENTITY passphraseConfirm.label "Kontrola fráze">
+<!ENTITY passphraseConfirm.accesskey "K">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY setup.newAccountPrefs2.title.label "Předvolby synchronizace prohlížeče">
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.accesskey "w">
+<!ENTITY syncEverything.label         "Sync Everything">
+<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.accesskey "m">
+<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.accesskey      "T">
+<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.accesskey   "r">
+<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.accesskey "P">
+<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.accesskey     "S">
+
+<!-- New Account Page 4: Captcha -->
+<!ENTITY setup.captchaPage.title.label "Potvrďte prosím, že nejste robot">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Vložte údaje účtu">
+<!ENTITY resetPassword.label "Obnovit heslo">
+<!ENTITY connecting.label "Probíhá připojování…">
+
+<!-- Existing Account Page 2: Passphrase -->
+<!ENTITY passphraseGroupbox.label "Vložit tajnou frázi">
+<!ENTITY passphraseDesc3.label "Zadejte prosím svou tajnou frázi. Musí se jednat o stejnou frázi, kterou jste použili pro zašifrování svých dat.">
+<!ENTITY passphraseHelp.label "Vaše tajná fráze je nejméně 12 znaků dlouhá a neodpovídá vašemu heslu. Svou tajnou frázi můžete nalézt uloženu na jiném počítači v uložených heslech v sekci Zabezpečení. Pokud stále nemůžete tajnou frázi najít, můžete ji zrušit. V takovém případě ovšem ztratíte všechna data, která máte na serveru uložena.">
+<!ENTITY changePassphrase.label "Změnit tajnou frázi">
+<!ENTITY verifying.label "Probíhá ověřování…">
+
+<!-- New & Existing Account: Merge Options -->
+<!ENTITY setup.mergeChoicePage.title.label "Jak chcete začít?">
+<!ENTITY choice.merge.main.label "Sloučit data na tomto počítači s daty &syncBrand.fullName.label;">
+<!ENTITY choice.merge.recommend.label "Tato volba je Mozillou silně doporučena pro všechny uživatele.">
+<!ENTITY choice.client.main.label "Nahradit všechna data na tomto počítači daty z vašeho &syncBrand.fullName.label;">
+<!ENTITY choice.server.main.label "Nahradit data na ostatních zařízeních lokálními daty">
+
+<!-- New & Existing Account: Confirm Merge Options -->
+<!ENTITY confirm.caption.label "Potvrzení volby">
+<!ENTITY confirm.merge.label "Zvolili jste sloučení dat na tomto počítači s daty na ostatních zařízeních, kde běží &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.label "Všechna data aplikace &brandShortName; na tomto počítači budou smazána, a to včetně následujících:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; poté nakopíruje data &syncBrand.fullName.label; na tento počítač.">
+<!ENTITY confirm.client.warning.label "UPOZORNĚNÍ: Tímto krokem nahradíte všechna data aplikace &brandShortName; na tomto počítači!">
+<!ENTITY confirm.server.label "Na následujících zařízeních dojde k přepsání dat těmi lokálními">
+<!ENTITY confirm.server.warning.label "UPOZORNĚNÍ: Vaše lokální data nahradí všechna data aplikace &brandShortName; na těchto zařízeních!">
+
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title.label "Nastavení dokončeno!">
+<!ENTITY setup.successPage.desc.label "Gratulujeme! &brandShortName; je nyní nastaven, aby automaticky synchronizoval vaše data. Nezapomeňte nainstalovat &syncBrand.fullName.label; i na svá další zařízení. Nyní můžete začít &brandShortName; používat.">
