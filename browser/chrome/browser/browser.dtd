@@ -12,8 +12,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retesplorado)">
 
 <!-- Tab context menu -->
-<!ENTITY  newTab.label                       "New Tab">
-<!ENTITY  newTab.accesskey                   "N">
 <!ENTITY  reloadTab.label                    "Reload Tab">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Reload All Tabs">
@@ -169,13 +167,24 @@
 <!ENTITY errorConsoleCmd.accesskey    "E">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY hudConsoleCmd.label          "Heads Up Display">
-<!ENTITY hudConsoleCmd.accesskey      "U">
-<!ENTITY hudConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspect">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspect">
+<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Next">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Previous">
+<!ENTITY inspectPreviousButton.accesskey "P">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Style">
 
 <!ENTITY fileMenu.label         "Dosiero"> 
 <!ENTITY fileMenu.accesskey       "o">
@@ -248,6 +257,8 @@
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuHelp.label "Help">
 
+<!ENTITY developerMenu.label "Developer">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Go to a Web Site">
 <!ENTITY urlbar.accesskey             "d">
@@ -257,7 +268,7 @@
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Ctrl+K (cross platform binding)
@@ -272,22 +283,22 @@
   for people to switch to Linux.
 
   Do *not* tamper with these values without talking to ben@mozilla.org
-  
+
  -->
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY openLinkCmdInTab.label       "Malfermi ligilon en nova folio">
+<!ENTITY openLinkCmdInTab.accesskey   "F">
 <!ENTITY openLinkCmd.label            "Malfermi ligilon en nova fenestro">
 <!ENTITY openLinkCmd.accesskey        "F">
 <!ENTITY openLinkCmdInCurrent.label     "Open Link">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openLinkCmdInTab.label       "Malfermi ligilon en nova folio">
-<!ENTITY openLinkCmdInTab.accesskey   "F">
-<!ENTITY openFrameCmd.label           "Malfermi kadron en nova fenestro">
-<!ENTITY openFrameCmd.accesskey       "F">
 <!ENTITY openFrameCmdInTab.label      "Malfermi kadron en nova folio">
 <!ENTITY openFrameCmdInTab.accesskey  "F">
+<!ENTITY openFrameCmd.label           "Malfermi kadron en nova fenestro">
+<!ENTITY openFrameCmd.accesskey       "F">
 <!ENTITY showOnlyThisFrameCmd.label     "Montri nur tiun ĉi kadron">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -361,7 +372,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY blockImageCmd.accesskey      "B">
 <!ENTITY copyEmailCmd.label           "Kopii retpoŝtan adreson">
 <!ENTITY copyEmailCmd.accesskey       "R">
 <!ENTITY thisFrameMenu.label              "Tiu ĉi kadro">
@@ -499,3 +509,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browser tabs">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Tabs From Other Computers">
+
+<!ENTITY syncBrand.shortName.label  "Sync">
+
+<!ENTITY syncMenu.label               "&syncBrand.shortName.label;">
+<!-- LOCALIZATION NOTE (sync.menu.accesskey): This is part of the tools menu, so
+                                              don't use a conflicting access key -->
+<!ENTITY syncMenu.accesskey           "Y">
+<!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncLogInItem.label          "Connect">
+<!ENTITY syncLogInItem.accesskey      "C">
+<!ENTITY syncLogOutItem.label         "Disconnect">
+<!ENTITY syncLogOutItem.accesskey     "D">
+<!ENTITY syncSyncNowItem.label        "Sync Now">
+<!ENTITY syncSyncNowItem.accesskey    "S">
