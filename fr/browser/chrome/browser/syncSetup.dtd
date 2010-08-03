@@ -7,7 +7,7 @@
 <!ENTITY setup.choicePage.existing.label  "J'utilise déjà &syncBrand.shortName.label; sur un autre ordinateur">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY connectTo.label            "Connecxion à">
+<!ENTITY connectTo.label            "Connexion à">
 <!ENTITY serverType.main.label      "Serveur &syncBrand.fullName.label;">
 <!ENTITY serverType.custom.label    "Utiliser un serveur personnalisé">
 <!ENTITY signIn.username.label      "Nom d'utilisateur">
@@ -34,7 +34,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newPPPage.title.label       "Saisissez votre phrase secrète">
+<!ENTITY setup.newPPPage.title.label  "Saisissez votre phrase secrète">
 <!ENTITY passphraseDesc.label         "Veuillez saisir une phrase secrète. Celle-ci sera utilisée pour chiffrer toutes vos données afin que vous seul(e) puissiez y accéder. Elle n'est pas stockée sur le serveur, ne la perdez donc pas !">
 <!ENTITY passphraseDesc2.label        "Cette phrase doit être longue d'au moins 12 caractères et ne peut pas être identique au mot de passe de votre compte.">
 <!ENTITY passphraseEntry.label        "Phrase secrète">
@@ -75,7 +75,7 @@
 <!ENTITY passphraseDesc3.label        "Veuillez saisir votre phrase secrète. Il doit s'agir de la même phrase secrète que celle utilisée pour chiffrer vos données.">
 <!ENTITY passphraseHelp.label         "Votre phrase secrète est longue d'au moins 12 caractères et n'est pas identique à votre mot de passe. Vous pouvez retrouver votre phrase secrète en vous rendant sur votre autre ordinateur et en vérifiant les mots de passe enregistrés dans le panneau Sécurité. Si vous ne trouvez plus votre phrase secrète, vous pouvez la réinitialiser, mais vous perdrez alors toutes les données déjà stockées sur le serveur.">
 <!ENTITY changePassphrase.label       "Modifier la phrase secrète">
-<!ENTITY verifying.label              "Verification…">
+<!ENTITY verifying.label              "Vérification…">
 
 <!-- New & Existing Account: Merge Options -->
 <!ENTITY setup.mergeChoicePage.title.label "Comment voulez-vous commencer ?">
