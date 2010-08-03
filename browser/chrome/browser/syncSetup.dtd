@@ -44,23 +44,23 @@
 
 <!-- New Account Page 3: Sync Type Options -->
 <!ENTITY setup.newAccountPrefs2.title.label "Předvolby synchronizace prohlížeče">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
-<!ENTITY syncModeSwitchDesc.accesskey "w">
-<!ENTITY syncEverything.label         "Sync Everything">
-<!ENTITY customSync.label             "Use my custom settings">
-<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
-<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
-<!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sync Tabs">
-<!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sync History">
-<!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sync Passwords">
-<!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sync Preferences">
-<!ENTITY syncItem.prefs.accesskey     "S">
+<!ENTITY syncComputerName.label "Jméno počítače:">
+<!ENTITY syncComputerName.accesskey "J">
+<!ENTITY syncModeSwitchDesc.label "&brandShortName; bude: ">
+<!ENTITY syncModeSwitchDesc.accesskey "b">
+<!ENTITY syncEverything.label "Synchronizovat vše">
+<!ENTITY customSync.label "Použít vlastní nastavení">
+<!ENTITY syncEverythingDescription.label "Synchronizovány budou záložky, historie, hesla, předvolby a panely.">
+<!ENTITY syncItem.bookmarks.label "Synchronizovat záložky">
+<!ENTITY syncItem.bookmarks.accesskey "z">
+<!ENTITY syncItem.tabs.label "Synchronizovat panely">
+<!ENTITY syncItem.tabs.accesskey "T">
+<!ENTITY syncItem.history.label "Synchronizovat historii">
+<!ENTITY syncItem.history.accesskey "r">
+<!ENTITY syncItem.passwords.label "Synchronizovat hesla">
+<!ENTITY syncItem.passwords.accesskey "h">
+<!ENTITY syncItem.prefs.label "Synchronizovat předvolby">
+<!ENTITY syncItem.prefs.accesskey "S">
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage.title.label "Potvrďte prosím, že nejste robot">
