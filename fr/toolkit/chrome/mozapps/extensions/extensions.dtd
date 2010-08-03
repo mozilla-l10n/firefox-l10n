@@ -107,7 +107,8 @@
 <!ENTITY addon.homepage                   "Page d'accueil">
 <!ENTITY addon.unknownDate                "Inconnue">
 <!ENTITY addon.disabled.postfix           "(désactivé)">
-<!ENTITY addon.update.postfix             "Mettre à jour">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix             "Mise à jour">
 <!ENTITY addon.undo.label                 "Annuler ?">
 <!ENTITY addon.undo.tooltip               "Annuler cette action">
 <!ENTITY addon.undoUninstall.label        "Annuler ?">
