@@ -21,7 +21,6 @@
 <!ENTITY view.availableUpdates.label          "Dostupné aktualizácie">
 
 <!-- addon updates -->
-<!ENTITY updates.updateNow.label              "Aktualizovať doplnky">
 <!ENTITY updates.updateAddonsNow.label        "Aktualizovať doplnky">
 <!ENTITY updates.updateAddonsNow.accesskey    "A">
 <!ENTITY updates.viewUpdates.label            "Zobraziť nedávne aktualizácie">
